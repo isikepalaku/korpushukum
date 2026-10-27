@@ -1,0 +1,16 @@
+# Normalisasi line-ending: LF di repo, CRLF otomatis di Windows
+* text=auto
+
+# Markdown & teks — simpan sebagai LF di repo
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# Binary
+*.js binary
+*.css binary
+*.png binary
+*.jpg binary
+*.pdf binary

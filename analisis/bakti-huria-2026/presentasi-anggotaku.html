@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Laporan Analisis Forensik APK ANGGOTAKU — Subdit II Fismondev</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+@page { size: A4; margin: 0; }
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Inter', Arial, sans-serif; background:#fff; color:#1e293b; font-size:12.5px; }
+
+/* COVER */
+.cover { page-break-after:always; min-height:100vh; display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center; padding:60px; background:linear-gradient(135deg,#0f172a 0%,#1e293b 100%); color:#fff; }
+.cover .badge { display:inline-block; background:rgba(34,211,238,.15); color:#22d3ee; padding:8px 24px; border-radius:20px; font-size:13px; font-weight:600; border:1px solid rgba(34,211,238,.3); margin-bottom:26px; }
+.cover h1 { font-size:38px; font-weight:800; line-height:1.3; margin-bottom:14px; }
+.cover h1 span { background:linear-gradient(135deg,#22d3ee,#a78bfa); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+.cover .subtitle { font-size:17px; color:#94a3b8; font-weight:300; margin-bottom:34px; max-width:760px; }
+.cover .meta { font-size:13px; color:#94a3b8; line-height:2; }
+.cover .meta strong { color:#e2e8f0; }
+.cover .hash { margin-top:30px; font-family:monospace; font-size:11px; color:#64748b; word-break:break-all; max-width:820px; }
+
+/* SECTION */
+.section { page-break-after:always; padding:20px 40px; }
+.section:last-child { page-break-after:auto; }
+.section-header { margin-bottom:16px; padding-bottom:10px; border-bottom:3px solid #22d3ee; }
+.section-header .label { font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:2px; color:#22d3ee; margin-bottom:6px; }
+.section-header h2 { font-size:24px; font-weight:800; }
+.section-header .sub { font-size:12px; color:#64748b; margin-top:6px; }
+h3 { font-size:14px; font-weight:700; margin:14px 0 8px; color:#0f172a; }
+p { line-height:1.55; margin-bottom:9px; }
+ul, ol { margin:0 0 12px 20px; line-height:1.7; }
+li { margin-bottom:5px; }
+
+/* CARD */
+.card { background:#fff; border:1px solid #e2e8f0; border-radius:10px; margin-bottom:16px; overflow:hidden; }
+.card-header { padding:12px 16px; font-weight:700; font-size:14px; border-bottom:1px solid #e2e8f0; background:#f8fafc; }
+.card-body { padding:14px 16px; }
+
+/* TABLE */
+table { width:100%; border-collapse:collapse; font-size:11.5px; margin-bottom:12px; }
+th { text-align:left; padding:5px 8px; font-weight:700; font-size:10px; text-transform:uppercase; letter-spacing:.8px; color:#64748b; border-bottom:2px solid #e2e8f0; }
+td { padding:4.5px 8px; border-bottom:1px solid #f1f5f9; vertical-align:top; line-height:1.5; }
+tr:last-child td { border-bottom:none; }
+code, .mono { font-family:monospace; font-size:11px; background:#f1f5f9; padding:1px 4px; border-radius:3px; }
+
+/* STATUS */
+.status { display:inline-block; padding:2px 10px; border-radius:10px; font-size:10px; font-weight:700; }
+.st-green { background:#dcfce7; color:#16a34a; }
+.st-yellow { background:#fef9c3; color:#ca8a04; }
+.st-red { background:#fee2e2; color:#dc2626; }
+.st-blue { background:#dbeafe; color:#2563eb; }
+
+/* CALLOUT */
+.callout { border-left:4px solid #3b82f6; background:#eff6ff; padding:12px 16px; border-radius:6px; margin:14px 0; font-size:12px; line-height:1.65; }
+.callout.warn { border-color:#f59e0b; background:#fffbeb; }
+.callout.risk { border-color:#ef4444; background:#fef2f2; }
+.callout.ok { border-color:#22c55e; background:#f0fdf4; }
+.callout strong { display:block; margin-bottom:4px; }
+
+/* FLOW */
+.flow { background:#0f172a; color:#e2e8f0; border-radius:8px; padding:10px 14px; font-family:monospace; font-size:10.5px; line-height:1.5; margin:8px 0; }
+.flow .step { color:#22d3ee; font-weight:700; }
+.flow .note { color:#94a3b8; }
+
+/* METER */
+.meter { display:flex; align-items:center; gap:12px; margin:9px 0; }
+.meter .lbl { font-size:12px; font-weight:600; color:#475569; min-width:230px; }
+.meter .bar { flex:1; height:11px; background:#e2e8f0; border-radius:6px; overflow:hidden; }
+.meter .fill { height:100%; border-radius:6px; }
+.meter .pct { font-size:15px; font-weight:800; min-width:46px; text-align:right; }
+.fg { background:linear-gradient(90deg,#22c55e,#34d399); }
+.fb { background:linear-gradient(90deg,#3b82f6,#22d3ee); }
+.fy { background:linear-gradient(90deg,#eab308,#fbbf24); }
+.fr { background:linear-gradient(90deg,#ef4444,#fb7185); }
+
+.footer { margin-top:18px; padding-top:12px; border-top:1px solid #e2e8f0; font-size:10px; color:#94a3b8; display:flex; justify-content:space-between; }
+.chips { display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 14px; }
+.chip { background:#f1f5f9; border:1px solid #e2e8f0; border-radius:12px; padding:2px 8px; font-size:9px; font-family:monospace; }
+</style>
+</head>
+<body>
+
+<!-- ============ 1. COVER ============ -->
+<div class="cover">
+  <div class="badge">LAPORAN INTERNAL — DOKUMEN PENYIDIKAN</div>
+  <h1>Analisis Forensik Statis<br><span>Aplikasi ANGGOTAKU (MobileBMT)</span></h1>
+  <div class="subtitle">Peta alur kerja dan identitas teknis aplikasi mobile milik KSPPS Bakti Huria Syariah — hasil pemeriksaan dengan perkakas REA (Reverse Engineer Anything)</div>
+  <div class="meta">
+    <strong>Unit</strong> &nbsp;Subdit II Fismondev, Ditreskrimsus Polda Sulsel<br>
+    <strong>Tanggal pemeriksaan</strong> &nbsp;16 Oktober 2026<br>
+    <strong>Metode</strong> &nbsp;Analisis statis — berkas tidak dieksekusi<br>
+    <strong>Sifat</strong> &nbsp;Untuk kepentingan gelar perkara / rapat pimpinan
+  </div>
+  <div class="hash">SHA-256 berkas bukti: c2dbe3b58ebae731f25117104b3b256f1085545b681f300dcc6811f9d98cc931</div>
+</div>
+
+<!-- ============ 2. RINGKASAN EKSEKUTIF ============ -->
+<div class="section">
+  <div class="section-header">
+    <div class="label">Bagian 1</div>
+    <h2>Ringkasan Eksekutif</h2>
+    <div class="sub">Lima hal yang perlu diketahui pimpinan</div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">Apa yang diperiksa</div>
+    <div class="card-body">
+      <p>Satu berkas aplikasi Android <code>ANGGOTAKU.apk</code> (9.320.153 byte) yang diperiksa secara statis memakai rangkaian perkakas <strong>REA 6.4.0</strong> dengan penyedia <code>jadx-headless-mcp 0.7.1</code>, <code>rea-artifact-graph</code>, dan <code>apktool 2.7.0</code>. Pemeriksaan menghasilkan <strong>14 artefak evidence</strong> ber-<code>evidence_id</code> yang dapat dirujuk dalam BAP. Berkas <strong>tidak pernah dijalankan</strong>.</p>
+    </div>
+  </div>
+
+  <h3>Temuan pokok</h3>
+  <table>
+    <tr><th style="width:30px">#</th><th>Temuan</th><th style="width:150px">Sifat</th></tr>
+    <tr><td>1</td><td>Aplikasi adalah <strong>aplikasi operasional koperasi/BMT</strong> berlabel ANGGOTAKU, milik <strong>KSPPS Bakti Huria Syariah</strong>, dibangun vendor core banking <strong>PT USID</strong> (Firebase project <code>usid-mobile-3</code>).</td><td><span class="status st-blue">IDENTITAS</span></td></tr>
+    <tr><td>2</td><td>Alur registrasi berjenjang dan <strong>terikat kantor layanan</strong>: aktivasi wajib memakai <code>kodeaktivasi</code> + <code>nokartu</code> yang diterbitkan customer service.</td><td><span class="status st-green">TERVERIFIKASI</span></td></tr>
+    <tr><td>3</td><td>Akun terikat pada <strong>kombinasi perangkat dan SIM</strong>; ganti perangkat/kartu memaksa registrasi ulang.</td><td><span class="status st-green">TERVERIFIKASI</span></td></tr>
+    <tr><td>4</td><td>Berkas <strong>ditandatangani ulang</strong> (debug keystore, stamp AGP tidak cocok) — tidak dapat dipastikan bit-identik dengan distribusi resmi Play Store.</td><td><span class="status st-yellow">PERLU VERIFIKASI</span></td></tr>
+    <tr><td>5</td><td>Label triage otomatis lama <em>"CRITICAL / MALICIOUS (130)"</em> <strong>tidak berdasar</strong>: tidak ada izin baca/kirim SMS, tidak ada layanan aksesibilitas, tidak ada pengiriman daftar kontak.</td><td><span class="status st-green">TERKOREKSI</span></td></tr>
+    <tr><td>6</td><td>Base URL, kredensial, dan seluruh path API berada di pustaka native <code>libnative-lib.so</code> yang <strong>tidak ada di berkas ini</strong> (base APK bundle AAB).</td><td><span class="status st-red">HAMBATAN</span></td></tr>
+  </table>
+
+  <h3>Penilaian tingkat keyakinan</h3>
+  <div class="meter"><div class="lbl">Identitas aplikasi &amp; penyelenggara</div><div class="bar"><div class="fill fg" style="width:98%"></div></div><div class="pct">98%</div></div>
+  <div class="meter"><div class="lbl">Peta alur registrasi &amp; transaksi</div><div class="bar"><div class="fill fg" style="width:92%"></div></div><div class="pct">92%</div></div>
+  <div class="meter"><div class="lbl">Mekanisme pengikatan akun ke perangkat/SIM</div><div class="bar"><div class="fill fg" style="width:88%"></div></div><div class="pct">88%</div></div>
+  <div class="meter"><div class="lbl">Keaslian berkas terhadap distribusi resmi</div><div class="bar"><div class="fill fy" style="width:35%"></div></div><div class="pct">35%</div></div>
+  <div class="meter"><div class="lbl">Endpoints server / kredensial API</div><div class="bar"><div class="fill fr" style="width:0%"></div></div><div class="pct">0%</div></div>
+
+  <div class="callout warn">
+    <strong>Catatan kejujuran penilaian</strong>
+    Dua baris terakhir rendah karena keterbatasan berkas, bukan karena keraguan atas temuan lain. Angka tersebut menunjukkan apa yang <em>belum</em> dapat dibuktikan, sehingga pimpinan tidak mengambil kesimpulan melampaui alat bukti.
+  </div>
+
+  <div class="footer"><span>Subdit II Fismondev Ditreskrimsus Polda Sulsel</span><span>16 Oktober 2026 — Laporan Internal</span></div>
+</div>
+
+<!-- ============ 3. IDENTITAS OBJEK ============ -->
+<div class="section">
+  <div class="section-header">
+    <div class="label">Bagian 2</div>
+    <h2>Identitas Objek Pemeriksaan</h2>
+    <div class="sub">Berkas, aplikasi, penyelenggara, dan vendor</div>
+  </div>
+
+  <h3>2.1 Integritas berkas (chain of custody)</h3>
+  <table>
+    <tr><th style="width:210px">Parameter</th><th>Nilai</th></tr>
+    <tr><td>Nama berkas</td><td class="mono">doc_82d8408fc891_ANGGOTAKU.apk</td></tr>
+    <tr><td>Ukuran</td><td>9.320.153 byte (8,89 MB)</td></tr>
+    <tr><td>MD5</td><td class="mono">0e66680dfa6db2d19c7d62ae67eaf259</td></tr>
+    <tr><td>SHA-1</td><td class="mono">cd4d684e2b9ff09c71c0d5e2cb8124e48f61e734</td></tr>
+    <tr><td>SHA-256</td><td class="mono">c2dbe3b58ebae731f25117104b3b256f1085545b681f300dcc6811f9d98cc931</td></tr>
+    <tr><td>Format</td><td>APK — base APK dari Android App Bundle (tanpa pustaka native)</td></tr>
+    <tr><td>Catatan</td><td>SHA-256 <strong>identik</strong> dengan berkas yang diperiksa 22 September 2026 — temuan lama tetap berlaku</td></tr>
+  </table>
+
+  <h3>2.2 Identitas aplikasi</h3>
+  <table>
+    <tr><th style="width:210px">Elemen</th><th>Nilai</th></tr>
+    <tr><td>Nama aplikasi</td><td><strong>ANGGOTAKU</strong> (MobileBMT)</td></tr>
+    <tr><td>Package</td><td class="mono">com.baktihuria.mobilebmt.anggotaku</td></tr>
+    <tr><td>Versi</td><td>9.1.2 (versionCode 912) — minSdk 23 / targetSdk 37</td></tr>
+    <tr><td>Komponen</td><td>99 activity, 8 service, 6 receiver, 4 provider</td></tr>
+    <tr><td>Kelas DEX</td><td>4.765 kelas (inventaris REA <span class="mono">coverage: complete</span>)</td></tr>
+    <tr><td>Kanal / build</td><td><span class="mono">app_id com.baktihuria.mobilebmt.anggotaku-PRO</span>, <span class="mono">channel_id anggotaku-01-PRO</span>, <span class="mono">kodebmt 0123</span></td></tr>
+    <tr><td>Path core banking</td><td class="mono">/M-BMT</td></tr>
+  </table>
+
+  <h3>2.3 Penyelenggara dan pihak ketiga</h3>
+  <table>
+    <tr><th style="width:210px">Pihak</th><th>Keterangan</th><th style="width:110px">Sumber</th></tr>
+    <tr><td>Lembaga penyelenggara</td><td><strong>KSPPS Bakti Huria Syariah</strong> — nama instansi pada aplikasi; penyedia layanan bagi anggotanya</td><td>resources aplikasi</td></tr>
+    <tr><td>Kontak layanan</td><td>Call center 08123000861; kanal daring <code>t.me/CSANGGOTAKU</code>; situs <code>baktihuria.co.id</code></td><td>resources aplikasi</td></tr>
+    <tr><td>Vendor core banking</td><td><strong>PT USID</strong> (kredit: "©2016 PT. UGT System Integrator", <code>www.usid.co.id</code>)</td><td>resources aplikasi</td></tr>
+    <tr><td>Infrastruktur awan vendor</td><td>Firebase project <code>usid-mobile-3</code>; basis data <code>usid-mobile-3.firebaseio.com</code>; bucket <code>usid-mobile-3.appspot.com</code></td><td>resources aplikasi</td></tr>
+  </table>
+
+  <div class="footer"><span>Subdit II Fismondev Ditreskrimsus Polda Sulsel</span><span>Bagian 2 — Identitas Objek</span></div>
+</div>
+
+<!-- ============ 4. PETA ALUR ============ -->
+<div class="section">
+  <div class="section-header">
+    <div class="label">Bagian 3</div>
+    <h2>Peta Alur Kerja Aplikasi</h2>
+    <div class="sub">Gerbang identitas, rantai registrasi, dan rantai transaksi</div>
+  </div>
+
+  <h3>3.1 Gerbang identitas di awal aplikasi</h3>
+  <div class="flow">
+    <span class="step">SplashActivity</span> <span class="note">— meminta izin: status telepon, kamera, kontak; memeriksa kode BMT (0045 / 0078 / 0123)</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&#8595;<br>
+    <span class="step">ControllerActivity</span> <span class="note">— GERBANG UTAMA</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<span class="note">· ambil token perangkat+SIM saat ini, bandingkan dengan token tersimpan (METAREG)</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<span class="note">· tidak cocok / belum ada &rarr; </span><span class="step">PreRegistrasiActivity</span> <span class="note">(registrasi)</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<span class="note">· cocok &rarr; </span><span class="step">InfoActivity</span> <span class="note">(masuk aplikasi) atau NotificationActivity bila dibuka dari notifikasi</span>
+  </div>
+
+  <div class="callout">
+    <strong>Makna operasional</strong>
+    Akun tidak dapat dipindah perangkat atau kartu SIM secara bebas. Bila pendaftaran/aktivasi dilakukan memakai kartu SIM tertentu, maka hanya SIM tersebut yang dapat mengaktifkan aplikasi. Kontrol ini penting untuk menilai apakah suatu registrasi dapat dilakukan dari luar kantor layanan.
+  </div>
+
+  <h3>3.2 Rantai registrasi sampai aktivasi</h3>
+  <div class="flow">
+    <span class="step">PreRegistrasiActivity</span> <span class="note">— syarat &amp; ketentuan; butuh "nomor registrasi" dari customer service</span><br>
+    &nbsp;&nbsp;&#8595;<br>
+    <span class="step">Registrasi2Activity</span><br>
+    &nbsp;&nbsp;&#8595;<br>
+    <span class="step">IsiFormulirActivity</span> <span class="note">— data: NIK (dicek), nama, no. KTP, tempat/tanggal lahir, nama ibu kandung, telepon, email, alamat, ahli waris, wali, referral, captcha, cabang</span><br>
+    &nbsp;&nbsp;&#8595;<br>
+    <span class="step">IsiFormulirBerkasActivity</span> <span class="note">— unggah foto KTP, verifikasi wajah (liveness), persetujuan syarat</span><br>
+    &nbsp;&nbsp;&#8595;<br>
+    <span class="step">AktivasiActivity</span> <span class="note">— kirim kode aktivasi + nomor kartu + token perangkat + kode BMT ke server</span><br>
+    &nbsp;&nbsp;&#8595;<br>
+    <span class="step">BaruPin</span> <span class="note">— PIN standar (hanya untuk cek saldo &amp; mutasi)</span> &#8594; <span class="step">NewMainActivity</span>
+  </div>
+
+  <div class="callout ok">
+    <strong>Kontrol berjenjang terkonfirmasi dari teks aplikasi sendiri</strong>
+    Aplikasi menyatakan: formulir registrasi diisi <em>di kantor layanan</em> dengan menyerahkan salinan identitas; registrasi memakai <em>nomor registrasi dari customer service</em>; PIN standar diperoleh <em>setelah aktivasi berhasil</em>; transaksi finansial baru dapat dilakukan <em>setelah PIN diubah</em>.
+  </div>
+
+  <h3>3.3 Rantai transaksi setelah masuk aplikasi</h3>
+  <table>
+    <tr><th style="width:200px">Kelompok layanan</th><th>Contoh menu di dalam aplikasi</th></tr>
+    <tr><td>Transfer</td><td>Antar rekening, antar bank, e-mail (e-maal), pemindaian tujuan transfer</td></tr>
+    <tr><td>Pembelian</td><td>Pulsa, token/listrik PLN, e-toll, uang elektronik</td></tr>
+    <tr><td>Pembayaran</td><td>BPJS, PDAM, PLN, Telkom, multifinance</td></tr>
+    <tr><td>ZIS &amp; sosial</td><td>Donasi, donasi kegiatan, LAZ, LKAF, infaq</td></tr>
+    <tr><td>Produk &amp; informasi</td><td>Simpanan, pembiayaan, mutasi, poin, e-warkat, produk, promo, kantor layanan, biaya, kalkulator zakat</td></tr>
+    <tr><td>Keamanan akun &amp; latar belakang</td><td>Ganti PIN, lupa PIN, logout, aktivasi ulang, informasi akun; berjalan pula layanan notifikasi FCM dan penyimpanan arsip notifikasi</td></tr>
+    </table>
+
+  <div class="footer"><span>Subdit II Fismondev Ditreskrimsus Polda Sulsel</span><span>Bagian 3 — Peta Alur Kerja</span></div>
+</div>
+
+<!-- ============ 5. PETA IDENTITAS ============ -->
+<div class="section">
+  <div class="section-header">
+    <div class="label">Bagian 4</div>
+    <h2>Peta Identitas Teknis</h2>
+    <div class="sub">Identitas perangkat, pengikatan akun, dan batas pembacaan berkas</div>
+  </div>
+
+  <h3>4.1 Data identitas yang dikirim saat aktivasi</h3>
+  <table>
+    <tr><th style="width:230px">Kunci data</th><th>Isi</th></tr>
+    <tr><td class="mono">manufacture, brand, model, hardware, device, product</td><td>Ciri perangkat dari sistem Android</td></tr>
+    <tr><td class="mono">androidversion, os</td><td>Versi sistem operasi dan versi build perangkat</td></tr>
+    <tr><td class="mono">rooted</td><td>Hasil uji apakah perangkat dalam kondisi root</td></tr>
+    <tr><td class="mono">appid, vername, vercode, buildtype</td><td>Identitas aplikasi: package, versi 9.1.2, versionCode 912</td></tr>
+    <tr><td class="mono">imsi</td><td><strong>Token turunan</strong>: pengenal perangkat Android + identitas langganan SIM (bukan IMSI mentah)</td></tr>
+    <tr><td class="mono">kodeaktivasi, nokartu, kodebmt</td><td>Kode aktivasi dan nomor kartu yang diterbitkan kantor layanan; kode BMT 0123</td></tr>
+  </table>
+
+  <h3>4.2 Penyimpanan lokal pada perangkat</h3>
+  <table>
+    <tr><th style="width:230px">Penyimpanan</th><th>Isi</th></tr>
+    <tr><td class="mono">config</td><td>Token registrasi dan kredensial akun, dalam keadaan <strong>terenkripsi</strong> (PBEWithMD5AndDES, frasa sandi diambil dari pustaka native)</td></tr>
+    <tr><td class="mono">usid_firebase</td><td>Token notifikasi Firebase dan status notifikasi</td></tr>
+  </table>
+
+  <h3>4.3 Batas pembacaan berkas (hambatan utama)</h3>
+  <p>Seluruh alamat layanan dan kredensial diambil dari pustaka native <code>libnative-lib.so</code> (antarmuka JNI pada kelas <code>utils.MyVariable</code>). Berkas ini <strong>tidak memuat folder <code>lib/</code></strong> karena merupakan base APK dari Android App Bundle. Nilai berikut karena itu belum terbaca:</p>
+  <div class="chips">
+    <span class="chip">URL_BASE_ENC</span><span class="chip">URL_BASE_PPOB_ENC</span><span class="chip">URL_BASE_CONTENT_ENC</span><span class="chip">URL_VA_ENC</span><span class="chip">URI_LOGIN</span><span class="chip">URI_RELOGIN</span><span class="chip">URI_CEKNIK / URI_INSERTREG / URI_PUTREG</span><span class="chip">ENCRYPTION_CODE_JNI</span><span class="chip">username()</span><span class="chip">pass()</span><span class="chip">appsCode()</span>
+  </div>
+  <div class="callout risk">
+    <strong>Konsekuensi untuk penyidikan</strong>
+    Alamat server, kredensial, dan seluruh jalur API <strong>belum dapat dibuktikan</strong> dari berkas ini. Nilai-nilai itu akan terbaca setelah diperoleh berkas <code>split_config.arm64_v8a.apk</code> atau paket <code>.xapk</code>/<code>.apks</code> lengkap (memuat pustaka native). Nilai endpoint non-native tetap terekam dalam keadaan terenkripsi di berkas resources aplikasi.
+  </div>
+
+  <h3>4.4 Verifikasi tanda tangan berkas</h3>
+  <table>
+    <tr><th style="width:230px">Parameter</th><th>Hasil</th></tr>
+    <tr><td>Status skema tanda tangan</td><td>v1 valid, v2 valid, v3 valid, v4 tidak ada — <span class="status st-green">VALID</span></td></tr>
+    <tr><td>Penandatangan</td><td><code>CN=Android, O=Google Inc.</code> — debug keystore bawaan, bukan kunci rilis resmi</td></tr>
+    <tr><td>Uji tanda tangan ulang</td><td>Nilai stamp bawaan tidak cocok dengan sertifikat penandatangan &#8594; <strong>berkas ditandatangani ulang pihak ketiga</strong></td></tr>
+    <tr><td>Implikasi</td><td>Berkas tidak dapat dipastikan bit-identik dengan distribusi resmi toko aplikasi <span class="status st-yellow">PERLU VERIFIKASI</span></td></tr>
+  </table>
+
+  <div class="footer"><span>Subdit II Fismondev Ditreskrimsus Polda Sulsel</span><span>Bagian 4 — Peta Identitas</span></div>
+</div>
+
+<!-- ============ 6. KOREKSI INDIKATOR ============ -->
+<div class="section">
+  <div class="section-header">
+    <div class="label">Bagian 5</div>
+    <h2>Penilaian Indikator Ancaman</h2>
+    <div class="sub">Koreksi atas hasil triage otomatis dan implikasinya</div>
+  </div>
+
+  <p>Triage otomatis 22 September 2026 memberi label <em>CRITICAL / MALICIOUS (skor 130)</em>. Pemeriksaan kode secara langsung menunjukkan label tersebut <strong>tidak dapat dipertahankan</strong>:</p>
+
+  <table>
+    <tr><th style="width:230px">Temuan triage otomatis</th><th>Hasil verifikasi pada kode aplikasi</th><th style="width:100px">Status</th></tr>
+    <tr><td>Bersifat malware kritis</td><td>Tidak ditemukan izin baca/kirim SMS, tidak ada layanan aksesibilitas, tidak ada penampilan jendela di atas aplikasi lain, tidak ada pengiriman SMS senyap</td><td><span class="status st-green">DIBANTAH</span></td></tr>
+    <tr><td>Akses kontak sebagai spyware</td><td>Izin kontak hanya dipakai satu layar untuk memilih nomor tujuan ketika anggota membagikan pesan/struk; tidak ada pengiriman daftar kontak ke server</td><td><span class="status st-green">DIBANTAH</span></td></tr>
+    <tr><td>Akses status telepon</td><td>Dipakai untuk memeriksa kesiapan kartu SIM dan membentuk token perangkat+SIM pada aktivasi</td><td><span class="status st-blue">WAJAR</span></td></tr>
+    <tr><td>Akses kamera</td><td>Dipakai untuk foto KTP dan verifikasi wajah pada unggah berkas pendaftaran</td><td><span class="status st-blue">WAJAR</span></td></tr>
+    <tr><td>Izin menelepon</td><td>Dipakai untuk menghubungi call center 08123000861</td><td><span class="status st-blue">WAJAR</span></td></tr>
+  </table>
+
+  <div class="callout">
+    <strong>Pergeseran fokus pemeriksaan</strong>
+    Karena karakter berkas adalah aplikasi operasional keuangan/koperasi dan bukan program jahat, titik berat pembuktian berada pada <em>aspek keabsahan operasional dan kepatuhan</em> — misalnya keabsahan keanggotaan, mekanisme penghimpunan dan penyaluran dana, serta kepatuhan perizinan entitas — bukan pada pembuktian program jahat. Penyidik tetap perlu memisahkan fakta, dugaan, dan hal yang belum diketahui.
+  </div>
+
+  <div class="footer"><span>Subdit II Fismondev Ditreskrimsus Polda Sulsel</span><span>Bagian 5 — Indikator Ancaman</span></div>
+</div>
+
+<!-- ============ 7. REGISTER EVIDENCE ============ -->
+<div class="section">
+  <div class="section-header">
+    <div class="label">Bagian 6</div>
+    <h2>Register Evidence</h2>
+    <div class="sub">Jejak pemeriksaan yang dapat dirujuk dalam berita acara</div>
+  </div>
+
+  <p>Setiap operasi pemeriksaan menghasilkan satu berkas evidence dengan pengenal tetap (<code>evidence_id</code>). Pengenal ini memungkinkan penguji lain mengulang dan membandingkan hasil. Contoh kutipan pengenal:</p>
+
+  <table>
+    <tr><th style="width:290px">Operasi</th><th>Evidence ID (disingkat)</th></tr>
+    <tr><td>Pemeriksaan paket &amp; manifest</td><td class="mono">ev_6f1426c80df026373…16bfd3f69fc</td></tr>
+    <tr><td>Inventaris seluruh kelas (4.765)</td><td class="mono">ev_6a077118b63b3b700…d517dd94228350b2</td></tr>
+    <tr><td>Pemeriksaan kelas gerbang identitas</td><td class="mono">ev_796a4c7d8370da101…53fb60b842204e98</td></tr>
+    <tr><td>Pemeriksaan kelas aktivasi</td><td class="mono">ev_4315f20b75e22389b…8078f7d4ae91aa47d</td></tr>
+    <tr><td>Pelacakan referensi aktivasi</td><td class="mono">ev_5685180bf34c0a062…92a17bafb8d04c7b</td></tr>
+    <tr><td>Pelacakan referensi kelas identitas server</td><td class="mono">ev_490f4e0678a1a85b9…5a289451685564f</td></tr>
+    <tr><td>Pelacakan referensi splash</td><td class="mono">ev_f2806b49a188f0b97…908629f612ac5f10</td></tr>
+  </table>
+
+  <h3>Artefak pendukung</h3>
+  <table>
+    <tr><th style="width:290px">Berkas</th><th>Isi</th></tr>
+    <tr><td class="mono">01-package.yaml</td><td>Manifest, izin, jumlah kelas dan sumber daya</td></tr>
+    <tr><td class="mono">02-allclasses.yaml</td><td>Inventaris lengkap 4.765 kelas</td></tr>
+    <tr><td class="mono">10-class-01…09-*.yaml</td><td>Inventori method/field sembilan kelas kunci</td></tr>
+    <tr><td class="mono">20-xref-*.yaml</td><td>Tiga pelacakan referensi masuk antar kelas</td></tr>
+    <tr><td class="mono">evidence-index.json</td><td>Indeks pengenal evidence seluruh operasi</td></tr>
+  </table>
+
+  <div class="callout ok">
+    <strong>Kesimpulan pemeriksaan</strong>
+    Seluruh artefak bersifat <em>hasil pengamatan langsung atas berkas yang beredar</em> (kategori <span class="mono">observed</span>, <span class="mono">shipped-artifact</span>), dengan cakupan lengkap (<span class="mono">coverage: complete</span>). Pemeriksaan bersifat statis: berkas tidak dijalankan, sehingga perilaku saat beroperasi di perangkat tetap perlu diuji secara terkendali.
+  </div>
+
+  <div class="footer"><span>Subdit II Fismondev Ditreskrimsus Polda Sulsel</span><span>Bagian 6 — Register Evidence</span></div>
+</div>
+
+<!-- ============ 8. REKOMENDASI ============ -->
+<div class="section">
+  <div class="section-header">
+    <div class="label">Bagian 7</div>
+    <h2>Hambatan dan Rekomendasi</h2>
+    <div class="sub">Langkah yang dimintakan keputusan pimpinan</div>
+  </div>
+
+  <h3>7.1 Hambatan</h3>
+  <table>
+    <tr><th style="width:30px">#</th><th>Hambatan</th><th style="width:130px">Dampak</th></tr>
+    <tr><td>1</td><td>Berkas yang diperiksa adalah base APK tanpa pustaka native — alamat server dan kredensial tidak terbaca</td><td><span class="status st-red">TINGGI</span></td></tr>
+    <tr><td>2</td><td>Berkas telah ditandatangani ulang; keaslian terhadap distribusi resmi belum terbukti</td><td><span class="status st-yellow">SEDANG</span></td></tr>
+    <tr><td>3</td><td>Pemeriksaan baru bersifat statis; perilaku saat aplikasi berjalan belum diuji</td><td><span class="status st-yellow">SEDANG</span></td></tr>
+    <tr><td>4</td><td>Data pihak penyedia core banking (log akses, basis data anggota) belum diminta</td><td><span class="status st-yellow">SEDANG</span></td></tr>
+  </table>
+
+  <h3>7.2 Rekomendasi</h3>
+  <table>
+    <tr><th style="width:30px">#</th><th>Langkah</th><th style="width:150px">Kepentingan</th></tr>
+    <tr><td>1</td><td>Minta/memperoleh paket aplikasi lengkap (memuat pustaka native) untuk membuka alamat server dan kredensial API</td><td>Pembuktian teknis</td></tr>
+    <tr><td>2</td><td>Bandingkan nilai hash berkas dengan aplikasi pada perangkat anggota atau akun pengembang di toko aplikasi resmi</td><td>Keaslian bukti</td></tr>
+    <tr><td>3</td><td>Minta keterangan pihak penyedia core banking (usid-mobile-3) mengenai konfigurasi kode BMT 0123 dan basis data anggota</td><td>Pembuktian data</td></tr>
+    <tr><td>4</td><td>Bila diperlukan, uji registrasi terkendali dengan kode aktivasi resmi untuk membandingkan data anggota pada basis data koperasi</td><td>Uji keabsahan anggota</td></tr>
+    <tr><td>5</td><td>Simpan register evidence bagian 6 sebagai lampiran berita acara</td><td>Keterpaduan berkas</td></tr>
+  </table>
+
+  <div class="callout">
+    <strong>Yang dimohonkan kepada pimpinan</strong>
+    Persetujuan untuk melengkapi bahan teknis (butir 1–3) sebelum pemeriksaan ditingkatkan ke tahap berikutnya, agar setiap kesimpulan bertumpu pada alat bukti dan bukan pada dugaan.
+  </div>
+
+  <h3>7.3 Penutup</h3>
+  <p>Pemeriksaan ini menempatkan objek pada kedudukan yang jelas: sebuah aplikasi layanan koperasi/BMT milik KSPPS Bakti Huria Syariah, dengan alur registrasi berjenjang yang terikat kantor layanan dan terikat perangkat serta kartu SIM pengguna. Berkasnya sendiri telah dimodifikasi tanda tangannya dan belum memuat seluruh isi yang diperlukan untuk membuktikan jalur komunikasi ke server. Pemeriksaan lanjutan — bukan dugaan — yang akan melengkapi gambaran.</p>
+
+  <div class="footer"><span>Dokumen internal — Subdit II Fismondev Ditreskrimsus Polda Sulsel</span><span>16 Oktober 2026</span></div>
+</div>
+
+</body>
+</html>

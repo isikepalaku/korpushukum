@@ -1,0 +1,122 @@
+evidence_id: ev_490f4e0678a1a85b9a6a3c1a0e9197d28192fa24cdf7c0ecf5a289451685564f
+subject:
+  name: doc_82d8408fc891_ANGGOTAKU.apk
+  digest:
+    sha256: c2dbe3b58ebae731f25117104b3b256f1085545b681f300dcc6811f9d98cc931
+  format: apk
+  architecture: null
+  local_path: /home/ubuntu/.hermes/cache/documents/doc_82d8408fc891_ANGGOTAKU.apk
+provider:
+  id: jadx
+  name: JADX headless
+  version: 0.7.1
+analysis_profile: null
+predicate_type: rea.analysis
+operation: trace_android_references
+parameters:
+  path: /home/ubuntu/.hermes/cache/documents/doc_82d8408fc891_ANGGOTAKU.apk
+  class_name: com.baktihuria.mobilebmt.anggotaku.utils.MyVariable
+raw_result:
+  server:
+    name: rea-jadx-bridge
+    version: "1"
+  bridge_sha256: 5a5a4e32264fbe597a329d7ad4b06a6266b7b31243e86b0263dbddcecaf351a1
+  jar_sha256: 6e5eacf500b64292bfb73c49797c1958f6ee44646e43e868039ae7feb573ff75
+  loaded:
+    state: LOADED
+    apk_path: /home/ubuntu/.hermes/cache/scratch/rea-android-HsA3Ka/target.apk
+    class_count: 4765
+    resource_count: 1214
+    threads: 1
+    resources: full
+  calls[4]:
+    - operation: rea_jvm_status
+      input:
+      response:
+        content[1]{type,text}:
+          text,"{\"max_heap_bytes\":1000341504,\"java_version\":\"21.0.12\",\"available_processors\":2,\"engine_reported_version\":\"0.7.1\",\"metadata_scope\":\"parsed_members\"}"
+        isError: false
+    - operation: load_apk
+      input:
+        path: /home/ubuntu/.hermes/cache/scratch/rea-android-HsA3Ka/target.apk
+        threads: 1
+        resources: full
+      response:
+        content[1]{type,text}:
+          text,"{\"state\":\"LOADED\",\"apk_path\":\"/home/ubuntu/.hermes/cache/scratch/rea-android-HsA3Ka/target.apk\",\"class_count\":4765,\"raw_class_count\":4765,\"resource_count\":1214,\"load_duration_ms\":4479,\"decompile_timeout_ms\":90000,\"threads\":1,\"code_cache_size\":64,\"resources\":\"full\"}"
+    - operation: get_class_summary
+      input:
+        class_name: com.baktihuria.mobilebmt.anggotaku.utils.MyVariable
+      response:
+        content[1]{type,text}:
+          text,"{\"methods\":[{\"signature\":\"\\u003cclinit\\u003e(): void\",\"is_constructor\":false,\"name\":\"\\u003cclinit\\u003e\",\"def_pos\":0},{\"signature\":\"AktivasiDemoLast(): java.lang.String\",\"is_constructor\":false,\"name\":\"AktivasiDemoLast\",\"def_pos\":0},{\"signature\":\"ENCRYPTION_CODE_JNI(): java.lang.String\",\"is_constructor\":false,\"name\":\"ENCRYPTION_CODE_JNI\",\"def_pos\":0},{\"signature\":\"RekDemoLast(): java.lang.String\",\"is_constructor\":false,\"name\":\"RekDemoLast\",\"def_pos\":0},{\"signature\":\"TelpDemoLast(): java.lang.String\",\"is_constructor\":false,\"name\":\"TelpDemoLast\",\"def_pos\":0},{\"signature\":\"URI_CEKNIK(): java.lang.String\",\"is_constructor\":false,\"name\":\"URI_CEKNIK\",\"def_pos\":0},{\"signature\":\"URI_INSERTREG(): java.lang.String\",\"is_constructor\":false,\"name\":\"URI_INSERTREG\",\"def_pos\":0},{\"signature\":\"URI_LIHAT_EWARKAT_JNI(): java.lang.String\",\"is_constructor\":false,\"name\":\"URI_LIHAT_EWARKAT_JNI\",\"def_pos\":0},{\"signature\":\"URI_LOGIN(): java.lang.String\",\"is_constructor\":false,\"name\":\"URI_LOGIN\",\"def_pos\":0},{\"signature\":\"URI_LOGOUT_PIN(): java.lang.String\",\"is_constructor\":false,\"name\":\"URI_LOGOUT_PIN\",\"def_pos\":0},{\"signature\":\"URI_PUTREG(): java.lang.String\",\"is_constructor\":false,\"name\":\"URI_PUTREG\",\"def_pos\":0},{\"signature\":\"URI_RELOGIN(): java.lang.String\",\"is_constructor\":false,\"name\":\"URI_RELOGIN\",\"def_pos\":0},{\"signature\":\"URI_STRUK_EWARKAT_JNI(): java.lang.String\",\"is_constructor\":false,\"name\":\"URI_STRUK_EWARKAT_JNI\",\"def_pos\":0},{\"signature\":\"URL_BASE_CONTENT_ENC(): java.lang.String\",\"is_constructor\":false,\"name\":\"URL_BASE_CONTENT_ENC\",\"def_pos\":0},{\"signature\":\"URL_BASE_ENC(): java.lang.String\",\"is_constructor\":false,\"name\":\"URL_BASE_ENC\",\"def_pos\":0},{\"signature\":\"URL_BASE_PPOB_ENC(): java.lang.String\",\"is_constructor\":false,\"name\":\"URL_BASE_PPOB_ENC\",\"def_pos\":0},{\"signature\":\"URL_VA_ENC(): java.lang.String\",\"is_constructor\":false,\"name\":\"URL_VA_ENC\",\"def_pos\":0},{\"signature\":\"a(): java.lang.String\",\"is_constructor\":false,\"name\":\"a\",\"def_pos\":0},{\"signature\":\"appsCode(): java.lang.String\",\"is_constructor\":false,\"name\":\"appsCode\",\"def_pos\":0},{\"signature\":\"appsCode4(): java.lang.String\",\"is_constructor\":false,\"name\":\"appsCode4\",\"def_pos\":0},{\"signature\":\"b(): java.lang.String\",\"is_constructor\":false,\"name\":\"b\",\"def_pos\":0},{\"signature\":\"c(): java.lang.String\",\"is_constructor\":false,\"name\":\"c\",\"def_pos\":0},{\"signature\":\"d(): java.lang.String\",\"is_constructor\":false,\"name\":\"d\",\"def_pos\":0},{\"signature\":\"e(): java.lang.String\",\"is_constructor\":false,\"name\":\"e\",\"def_pos\":0},{\"signature\":\"pass(): java.lang.String\",\"is_constructor\":false,\"name\":\"pass\",\"def_pos\":0},{\"signature\":\"username(): java.lang.String\",\"is_constructor\":false,\"name\":\"username\",\"def_pos\":0}],\"method_count\":26,\"inner_class_count\":0,\"inner_classes\":[],\"name\":\"MyVariable\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.utils.MyVariable\",\"field_count\":1,\"fields\":[{\"type\":\"java.lang.String\",\"def_pos\":0,\"name\":\"f2096a\"}]}"
+        isError: false
+    - operation: get_xrefs_to_class
+      input:
+        class_name: com.baktihuria.mobilebmt.anggotaku.utils.MyVariable
+        limit: 2147483647
+        resolve_line: false
+      response:
+        content[1]{type,text}:
+          text,"{\"target\":\"com.baktihuria.mobilebmt.anggotaku.utils.MyVariable\",\"resolve_line\":false,\"total\":41,\"items\":[{\"kind\":\"class\",\"name\":\"a1\",\"full_name\":\"b3.a1\",\"containing_class\":\"\",\"top_class\":\"b3.a1\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"e\",\"full_name\":\"b3.e\",\"containing_class\":\"\",\"top_class\":\"b3.e\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"s0\",\"full_name\":\"b3.s0\",\"containing_class\":\"\",\"top_class\":\"b3.s0\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"t0\",\"full_name\":\"b3.t0\",\"containing_class\":\"\",\"top_class\":\"b3.t0\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"u\",\"full_name\":\"b3.u\",\"containing_class\":\"\",\"top_class\":\"b3.u\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"u0\",\"full_name\":\"b3.u0\",\"containing_class\":\"\",\"top_class\":\"b3.u0\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"v0\",\"full_name\":\"b3.v0\",\"containing_class\":\"\",\"top_class\":\"b3.v0\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"w0\",\"full_name\":\"b3.w0\",\"containing_class\":\"\",\"top_class\":\"b3.w0\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"x0\",\"full_name\":\"b3.x0\",\"containing_class\":\"\",\"top_class\":\"b3.x0\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"ControllerActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.ControllerActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.ControllerActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"InfoActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.InfoActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.InfoActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"SplashActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.SplashActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.SplashActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"AkunDetailActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.dashboard.akun.AkunDetailActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.dashboard.akun.AkunDetailActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"CaraVAActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.dashboard.akun.CaraVAActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.dashboard.akun.CaraVAActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"ViewImageActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.dashboard.beranda.ViewImageActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.dashboard.beranda.ViewImageActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"ProdukActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.dashboard.beranda.content.ProdukActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.dashboard.beranda.content.ProdukActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"MyFirebaseMessagingService\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.notification.MyFirebaseMessagingService\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.notification.MyFirebaseMessagingService\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"NotificationActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.notifications.home.NotificationActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.notifications.home.NotificationActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"IsiFormulirActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"IsiFormulirBerkasActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirBerkasActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirBerkasActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"SyaratKetentuanActivity\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.registrasi.SyaratKetentuanActivity\",\"containing_class\":\"\",\"top_class\":\"com.baktihuria.mobilebmt.anggotaku.registrasi.SyaratKetentuanActivity\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"b\",\"full_name\":\"e3.b\",\"containing_class\":\"\",\"top_class\":\"e3.b\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"e\",\"full_name\":\"e3.e\",\"containing_class\":\"\",\"top_class\":\"e3.e\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"k\",\"full_name\":\"e3.k\",\"containing_class\":\"\",\"top_class\":\"e3.k\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"a\",\"full_name\":\"f4.a\",\"containing_class\":\"\",\"top_class\":\"f4.a\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"b\",\"full_name\":\"f4.b\",\"containing_class\":\"\",\"top_class\":\"f4.b\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"d\",\"full_name\":\"f4.d\",\"containing_class\":\"\",\"top_class\":\"f4.d\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"b\",\"full_name\":\"i4.b\",\"containing_class\":\"\",\"top_class\":\"i4.b\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"m\",\"full_name\":\"j3.m\",\"containing_class\":\"\",\"top_class\":\"j3.m\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"g\",\"full_name\":\"m3.g\",\"containing_class\":\"\",\"top_class\":\"m3.g\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"e\",\"full_name\":\"o3.e\",\"containing_class\":\"\",\"top_class\":\"o3.e\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"j\",\"full_name\":\"o3.j\",\"containing_class\":\"\",\"top_class\":\"o3.j\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"f\",\"full_name\":\"p3.f\",\"containing_class\":\"\",\"top_class\":\"p3.f\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"g\",\"full_name\":\"p3.g\",\"containing_class\":\"\",\"top_class\":\"p3.g\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"n\",\"full_name\":\"p3.n\",\"containing_class\":\"\",\"top_class\":\"p3.n\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"g\",\"full_name\":\"u3.g\",\"containing_class\":\"\",\"top_class\":\"u3.g\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"a\",\"full_name\":\"x3.a\",\"containing_class\":\"\",\"top_class\":\"x3.a\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"d1\",\"full_name\":\"x3.d1\",\"containing_class\":\"\",\"top_class\":\"x3.d1\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"k0\",\"full_name\":\"x3.k0\",\"containing_class\":\"\",\"top_class\":\"x3.k0\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"k\",\"full_name\":\"z2.k\",\"containing_class\":\"\",\"top_class\":\"z2.k\",\"def_pos\":0},{\"kind\":\"class\",\"name\":\"r\",\"full_name\":\"z2.r\",\"containing_class\":\"\",\"top_class\":\"z2.r\",\"def_pos\":0}],\"count\":41}"
+        isError: false
+normalized_result:
+  engine:
+    name: jadx-headless-mcp
+    version: 0.7.1
+    artifact_sha256: 6e5eacf500b64292bfb73c49797c1958f6ee44646e43e868039ae7feb573ff75
+    source_revision: 5844800a486d2248fa949b74c9896285f5b54de2
+    worker_count: 1
+    heap_limit_mib: 954
+  class_name: com.baktihuria.mobilebmt.anggotaku.utils.MyVariable
+  method_name: null
+  total: 41
+  references[41]{kind,name,reported_full_name,containing_class,top_class,source_line,dex_offset}:
+    class,a1,b3.a1,"",b3.a1,null,null
+    class,e,b3.e,"",b3.e,null,null
+    class,s0,b3.s0,"",b3.s0,null,null
+    class,t0,b3.t0,"",b3.t0,null,null
+    class,u,b3.u,"",b3.u,null,null
+    class,u0,b3.u0,"",b3.u0,null,null
+    class,v0,b3.v0,"",b3.v0,null,null
+    class,w0,b3.w0,"",b3.w0,null,null
+    class,x0,b3.x0,"",b3.x0,null,null
+    class,ControllerActivity,com.baktihuria.mobilebmt.anggotaku.ControllerActivity,"",com.baktihuria.mobilebmt.anggotaku.ControllerActivity,null,null
+    class,InfoActivity,com.baktihuria.mobilebmt.anggotaku.InfoActivity,"",com.baktihuria.mobilebmt.anggotaku.InfoActivity,null,null
+    class,SplashActivity,com.baktihuria.mobilebmt.anggotaku.SplashActivity,"",com.baktihuria.mobilebmt.anggotaku.SplashActivity,null,null
+    class,AkunDetailActivity,com.baktihuria.mobilebmt.anggotaku.dashboard.akun.AkunDetailActivity,"",com.baktihuria.mobilebmt.anggotaku.dashboard.akun.AkunDetailActivity,null,null
+    class,CaraVAActivity,com.baktihuria.mobilebmt.anggotaku.dashboard.akun.CaraVAActivity,"",com.baktihuria.mobilebmt.anggotaku.dashboard.akun.CaraVAActivity,null,null
+    class,ViewImageActivity,com.baktihuria.mobilebmt.anggotaku.dashboard.beranda.ViewImageActivity,"",com.baktihuria.mobilebmt.anggotaku.dashboard.beranda.ViewImageActivity,null,null
+    class,ProdukActivity,com.baktihuria.mobilebmt.anggotaku.dashboard.beranda.content.ProdukActivity,"",com.baktihuria.mobilebmt.anggotaku.dashboard.beranda.content.ProdukActivity,null,null
+    class,MyFirebaseMessagingService,com.baktihuria.mobilebmt.anggotaku.notification.MyFirebaseMessagingService,"",com.baktihuria.mobilebmt.anggotaku.notification.MyFirebaseMessagingService,null,null
+    class,NotificationActivity,com.baktihuria.mobilebmt.anggotaku.notifications.home.NotificationActivity,"",com.baktihuria.mobilebmt.anggotaku.notifications.home.NotificationActivity,null,null
+    class,IsiFormulirActivity,com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirActivity,"",com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirActivity,null,null
+    class,IsiFormulirBerkasActivity,com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirBerkasActivity,"",com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirBerkasActivity,null,null
+    class,SyaratKetentuanActivity,com.baktihuria.mobilebmt.anggotaku.registrasi.SyaratKetentuanActivity,"",com.baktihuria.mobilebmt.anggotaku.registrasi.SyaratKetentuanActivity,null,null
+    class,b,e3.b,"",e3.b,null,null
+    class,e,e3.e,"",e3.e,null,null
+    class,k,e3.k,"",e3.k,null,null
+    class,a,f4.a,"",f4.a,null,null
+    class,b,f4.b,"",f4.b,null,null
+    class,d,f4.d,"",f4.d,null,null
+    class,b,i4.b,"",i4.b,null,null
+    class,m,j3.m,"",j3.m,null,null
+    class,g,m3.g,"",m3.g,null,null
+    class,e,o3.e,"",o3.e,null,null
+    class,j,o3.j,"",o3.j,null,null
+    class,f,p3.f,"",p3.f,null,null
+    class,g,p3.g,"",p3.g,null,null
+    class,n,p3.n,"",p3.n,null,null
+    class,g,u3.g,"",u3.g,null,null
+    class,a,x3.a,"",x3.a,null,null
+    class,d1,x3.d1,"",x3.d1,null,null
+    class,k0,x3.k0,"",x3.k0,null,null
+    class,k,z2.k,"",z2.k,null,null
+    class,r,z2.r,"",z2.r,null,null
+  coverage: complete
+confidence: observed
+authority: shipped-artifact
+environment: null
+limitations[4]: Static decompiler observations do not establish runtime behavior; the APK is never executed.,Method signatures use provider display types; exact DEX descriptors and instruction offsets are unavailable. Overload indices are local to this engine and artifact.,"Class inventories use parsed metadata before code generation, including synthetic members that may be omitted from decompiled source. Source positions remain unknown.","Manifest summary fields are extracted by the upstream engine; decoded XML is retained for verification. APK signatures, split APKs, native libraries and Android runtime capture are not verified by this provider."
+locations: []
+evidence_links: []

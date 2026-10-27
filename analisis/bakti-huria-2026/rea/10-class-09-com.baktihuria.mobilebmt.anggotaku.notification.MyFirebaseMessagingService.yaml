@@ -1,0 +1,77 @@
+evidence_id: ev_62a2d5882de744b7698b11418b5fed84f86c58915257ae328d6d6a81efd1f31b
+subject:
+  name: doc_82d8408fc891_ANGGOTAKU.apk
+  digest:
+    sha256: c2dbe3b58ebae731f25117104b3b256f1085545b681f300dcc6811f9d98cc931
+  format: apk
+  architecture: null
+  local_path: /home/ubuntu/.hermes/cache/documents/doc_82d8408fc891_ANGGOTAKU.apk
+provider:
+  id: jadx
+  name: JADX headless
+  version: 0.7.1
+analysis_profile: null
+predicate_type: rea.analysis
+operation: inspect_android_class
+parameters:
+  path: /home/ubuntu/.hermes/cache/documents/doc_82d8408fc891_ANGGOTAKU.apk
+  class_name: com.baktihuria.mobilebmt.anggotaku.notification.MyFirebaseMessagingService
+raw_result:
+  server:
+    name: rea-jadx-bridge
+    version: "1"
+  bridge_sha256: 5a5a4e32264fbe597a329d7ad4b06a6266b7b31243e86b0263dbddcecaf351a1
+  jar_sha256: 6e5eacf500b64292bfb73c49797c1958f6ee44646e43e868039ae7feb573ff75
+  loaded:
+    state: LOADED
+    apk_path: /home/ubuntu/.hermes/cache/scratch/rea-android-05HX7e/target.apk
+    class_count: 4765
+    resource_count: 1214
+    threads: 1
+    resources: full
+  calls[3]:
+    - operation: rea_jvm_status
+      input:
+      response:
+        content[1]{type,text}:
+          text,"{\"metadata_scope\":\"parsed_members\",\"max_heap_bytes\":1000341504,\"java_version\":\"21.0.12\",\"available_processors\":2,\"engine_reported_version\":\"0.7.1\"}"
+        isError: false
+    - operation: load_apk
+      input:
+        path: /home/ubuntu/.hermes/cache/scratch/rea-android-05HX7e/target.apk
+        threads: 1
+        resources: full
+      response:
+        content[1]{type,text}:
+          text,"{\"state\":\"LOADED\",\"apk_path\":\"/home/ubuntu/.hermes/cache/scratch/rea-android-05HX7e/target.apk\",\"class_count\":4765,\"raw_class_count\":4765,\"resource_count\":1214,\"load_duration_ms\":4590,\"decompile_timeout_ms\":90000,\"threads\":1,\"code_cache_size\":64,\"resources\":\"full\"}"
+    - operation: get_class_summary
+      input:
+        class_name: com.baktihuria.mobilebmt.anggotaku.notification.MyFirebaseMessagingService
+      response:
+        content[1]{type,text}:
+          text,"{\"methods\":[{\"def_pos\":0,\"signature\":\"\\u003cinit\\u003e(): void\",\"is_constructor\":true,\"name\":\"\\u003cinit\\u003e\"},{\"def_pos\":0,\"signature\":\"c(cd.f0): void\",\"is_constructor\":false,\"name\":\"c\"},{\"def_pos\":0,\"signature\":\"d(java.lang.String): void\",\"is_constructor\":false,\"name\":\"d\"},{\"def_pos\":0,\"signature\":\"e(java.lang.String): android.graphics.Bitmap\",\"is_constructor\":false,\"name\":\"e\"},{\"def_pos\":0,\"signature\":\"f(): android.app.PendingIntent\",\"is_constructor\":false,\"name\":\"f\"},{\"def_pos\":0,\"signature\":\"g(org.json.JSONObject): void\",\"is_constructor\":false,\"name\":\"g\"}],\"method_count\":6,\"inner_class_count\":0,\"inner_classes\":[],\"name\":\"MyFirebaseMessagingService\",\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.notification.MyFirebaseMessagingService\",\"field_count\":0,\"fields\":[]}"
+        isError: false
+normalized_result:
+  engine:
+    name: jadx-headless-mcp
+    version: 0.7.1
+    artifact_sha256: 6e5eacf500b64292bfb73c49797c1958f6ee44646e43e868039ae7feb573ff75
+    source_revision: 5844800a486d2248fa949b74c9896285f5b54de2
+    worker_count: 1
+    heap_limit_mib: 954
+  class_name: com.baktihuria.mobilebmt.anggotaku.notification.MyFirebaseMessagingService
+  methods[6]{name,reported_signature,overload_index,is_constructor,dex_descriptor}:
+    <init>,"<init>(): void",0,true,null
+    c,"c(cd.f0): void",0,false,null
+    d,"d(java.lang.String): void",0,false,null
+    e,"e(java.lang.String): android.graphics.Bitmap",0,false,null
+    f,"f(): android.app.PendingIntent",0,false,null
+    g,"g(org.json.JSONObject): void",0,false,null
+  fields: []
+  inner_classes: []
+confidence: observed
+authority: shipped-artifact
+environment: null
+limitations[4]: Static decompiler observations do not establish runtime behavior; the APK is never executed.,Method signatures use provider display types; exact DEX descriptors and instruction offsets are unavailable. Overload indices are local to this engine and artifact.,"Class inventories use parsed metadata before code generation, including synthetic members that may be omitted from decompiled source. Source positions remain unknown.","Manifest summary fields are extracted by the upstream engine; decoded XML is retained for verification. APK signatures, split APKs, native libraries and Android runtime capture are not verified by this provider."
+locations: []
+evidence_links: []

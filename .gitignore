@@ -1,0 +1,32 @@
+# ── Obsidian UI state (per-mesin, jangan di-sync) ──
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# ── OS junk ──
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ── Runtime memory provider (OpenViking) — JANGAN masuk repo ──
+# OpenViking default storage.workspace = ./data relatif CWD. Jika server
+# dijalankan dengan cwd di dalam vault, database runtime (sqlite/LMDB/vectordb)
+# akan mendarat di sini dan merusak sync. workspace sudah diarahkan ke
+# ~/.openviking/data; baris ini adalah jaring pengaman.
+data/
+.openviking.lock
+
+# ── Git ──
+.git/
+
+# ── Log / cache sementara ──
+*.log
+*.tmp
+
+# ── Artefak analisis berat (regenerable — jangan di-commit) ──
+analisis/**/*.apk
+analisis/direktori-putusan/blutter-out/
+analisis/direktori-putusan/blutter-in/
+analisis/direktori-putusan/jadx/
+analisis/direktori-putusan/apk/
+analisis/direktori-putusan/full/

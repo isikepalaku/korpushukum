@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Matriks Rekonstruksi Aliran Dana Mutasi BNI Yunus (2022-2025)</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap');
+  
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background-color: #070b12;
+    color: #f1f5f9;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    padding: 32px;
+    width: 1760px;
+  }
+  
+  /* HEADER */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #1e293b;
+    padding-bottom: 20px;
+    margin-bottom: 22px;
+  }
+  .subdit-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(239, 68, 68, 0.15);
+    border: 1px solid #ef4444;
+    color: #fca5a5;
+    padding: 6px 14px;
+    border-radius: 9999px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .header h1 {
+    font-size: 27px;
+    font-weight: 800;
+    color: #ffffff;
+    letter-spacing: -0.5px;
+  }
+  .header p {
+    font-size: 13px;
+    color: #94a3b8;
+    margin-top: 5px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+  .target-badge {
+    background: #0f172a;
+    border: 1px solid #334155;
+    padding: 12px 20px;
+    border-radius: 12px;
+    text-align: right;
+  }
+  .target-name {
+    font-size: 18px;
+    font-weight: 800;
+    color: #38bdf8;
+  }
+  .target-acc {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    color: #cbd5e1;
+    margin-top: 4px;
+  }
+  
+  /* KPI BAR */
+  .kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  .kpi-card {
+    background: #0f172a;
+    border: 1px solid #1e293b;
+    border-radius: 12px;
+    padding: 16px 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  .kpi-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; height: 3px;
+  }
+  .kpi-blue::before { background: #38bdf8; }
+  .kpi-emerald::before { background: #10b981; }
+  .kpi-rose::before { background: #f43f5e; }
+  .kpi-amber::before { background: #f59e0b; }
+  
+  .kpi-label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #64748b;
+  }
+  .kpi-value {
+    font-size: 23px;
+    font-weight: 800;
+    font-family: 'JetBrains Mono', monospace;
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  .kpi-sub {
+    font-size: 12px;
+    color: #94a3b8;
+    margin-top: 4px;
+  }
+
+  /* FLOW SECTION */
+  .flow-container {
+    display: grid;
+    grid-template-columns: 480px 36px 370px 36px 480px;
+    align-items: stretch;
+    margin-bottom: 24px;
+  }
+  
+  .flow-col-title {
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .card-inflow {
+    background: #0c1424;
+    border: 1px solid #1e3a5f;
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 11px;
+  }
+  .card-outflow {
+    background: #190f19;
+    border: 1px solid #451b2a;
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 11px;
+  }
+  .card-hub {
+    background: #0f172a;
+    border: 2px solid #38bdf8;
+    border-radius: 16px;
+    padding: 20px 18px;
+    box-shadow: 0 0 25px rgba(56, 189, 248, 0.15);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .arrow-connector {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    color: #475569;
+  }
+  .arrow-connector svg {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .card-header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 6px;
+  }
+  .cat-name {
+    font-size: 13px;
+    font-weight: 700;
+    color: #e2e8f0;
+  }
+  .cat-badge {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 2px 7px;
+    border-radius: 6px;
+    text-transform: uppercase;
+  }
+  .badge-inflow { background: #064e3b; color: #6ee7b7; }
+  .badge-outflow { background: #881337; color: #fda4af; }
+  .badge-warning { background: #78350f; color: #fde047; }
+  .badge-alert { background: #7f1d1d; color: #fca5a5; }
+  .badge-cyan { background: #0c4a6e; color: #7dd3fc; }
+
+  .cat-amount {
+    font-size: 17px;
+    font-weight: 800;
+    font-family: 'JetBrains Mono', monospace;
+    color: #ffffff;
+    margin-bottom: 5px;
+  }
+  .cat-detail {
+    font-size: 11.5px;
+    color: #94a3b8;
+    line-height: 1.4;
+  }
+  
+  /* YEAR BAR IN HUB */
+  .year-row {
+    background: #1e293b;
+    border-radius: 8px;
+    padding: 8px 10px;
+    margin-bottom: 7px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 11px;
+  }
+  .year-row .yr { font-weight: 800; color: #38bdf8; }
+  .year-row .val { font-family: 'JetBrains Mono', monospace; font-weight: 600; color: #f8fafc; }
+  
+  /* FOOTER INSIGHTS */
+  .footer-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    border-top: 2px solid #1e293b;
+    padding-top: 18px;
+  }
+  .insight-card {
+    background: #0f172a;
+    border: 1px solid #1e293b;
+    border-radius: 12px;
+    padding: 14px 18px;
+  }
+  .insight-title {
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .insight-desc {
+    font-size: 11.5px;
+    color: #94a3b8;
+    line-height: 1.5;
+  }
+</style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div>
+      <div class="subdit-badge">● Subdit II Fismondev Ditreskrimsus Polda Sulsel</div>
+      <h1>MATRIKS REKONSTRUKSI ALIRAN DANA REKENING BNI (FOLLOW THE MONEY)</h1>
+      <p>KASUS: DUGAAN TINDAK PIDANA PERBANKAN, PENGGELAPAN DANA NASABAH & TPPU — PT BANK WOORI SAUDARA (BWS) MAKASSAR</p>
+    </div>
+    <div class="meta-right">
+      <div class="target-badge">
+        <div class="target-name">MUH YUNUS (Eks RO BWS)</div>
+        <div class="target-acc">BNI Taplus No: 1373172229 | KC Mattoangin</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- KPI SUMMARY -->
+  <div class="kpi-grid">
+    <div class="kpi-card kpi-blue">
+      <div class="kpi-label">Total Perputaran Finansial</div>
+      <div class="kpi-value">Rp 22,29 Miliar</div>
+      <div class="kpi-sub">22.883 Total Transaksi Mutasi (2022 - 2025)</div>
+    </div>
+    <div class="kpi-card kpi-rose">
+      <div class="kpi-label">Intersepsi Dana KPR Perumahan/Ruko</div>
+      <div class="kpi-value">Rp 5,05 Miliar</div>
+      <div class="kpi-sub">90 Trx DP, Cicilan & Pelunasan 78 Proyek Masuk ke Yunus</div>
+    </div>
+    <div class="kpi-card kpi-emerald">
+      <div class="kpi-label">Setor Tunai CRM (Indikasi Cash BWS)</div>
+      <div class="kpi-value">Rp 6,87 Miliar</div>
+      <div class="kpi-sub">658 Trx Setor Tunai CRM (Pola Pembobolan KUPEG TNI)</div>
+    </div>
+    <div class="kpi-card kpi-amber">
+      <div class="kpi-label">Gali Lubang Cicilan Debitur Fiktif</div>
+      <div class="kpi-value">Rp 476,32 Juta</div>
+      <div class="kpi-sub">126 Trx ke Mandiri Rahmat (Ojol) utk 11 Debitur BWS</div>
+    </div>
+  </div>
+
+  <!-- FLOW CONTAINER -->
+  <div class="flow-container">
+    
+    <!-- LEFT: INFLOW -->
+    <div>
+      <div class="flow-col-title" style="color: #34d399;">
+        <span>↓</span> SUMBER DANA MASUK (INFLOW: Rp 22,29 M)
+      </div>
+
+      <!-- INFLOW 1: SETOR TUNAI -->
+      <div class="card-inflow" style="border-left: 4px solid #10b981;">
+        <div class="card-header-flex">
+          <span class="cat-name">Setor Tunai CRM (Indikasi Cash KUPEG BWS)</span>
+          <span class="cat-badge badge-inflow">658 Trx</span>
+        </div>
+        <div class="cat-amount" style="color: #34d399;">Rp 6.876.370.000,-</div>
+        <div class="cat-detail"><b>Kluster 1:</b> Setoran pecahan maks 10 Jt di mesin CRM BNI (indikasi penampungan uang tunai teller pencairan 30 debitur non-TNI via Hotel Arthama). Perlu uji tempus.</div>
+      </div>
+
+      <!-- INFLOW 2: KREDIT PERUMAHAN -->
+      <div class="card-inflow" style="border-left: 4px solid #f43f5e;">
+        <div class="card-header-flex">
+          <span class="cat-name">Intersepsi Pembayaran KPR Debitur/Developer</span>
+          <span class="cat-badge badge-alert">78 Proyek</span>
+        </div>
+        <div class="cat-amount" style="color: #f43f5e;">Rp 5.057.000.000,-</div>
+        <div class="cat-detail"><b>Kluster 2:</b> Dana angsuran, DP & pelunasan KPR BWS disetor langsung ke Yunus (Rek 1988033092: 3,05 M; Rek 1854510423: 1,99 M; Nina Anggraeni: 1,83 M) meliputi Citra Garden, Patra, Tallasa City, Tanjung Alya, dll.</div>
+      </div>
+
+      <!-- INFLOW 3: PRIBADI & AFILIASI -->
+      <div class="card-inflow">
+        <div class="card-header-flex">
+          <span class="cat-name">Rekening Pribadi & Rekan Bisnis</span>
+          <span class="cat-badge badge-inflow">208 Trx</span>
+        </div>
+        <div class="cat-amount">Rp 2.551.823.470,-</div>
+        <div class="cat-detail">Mandiri Yunus 1520043031992 (Rp 1,011 M), Bangkit Wijaya (Rp 841,4 Jt), Abd Malik (Rp 698,7 Jt).</div>
+      </div>
+
+      <!-- INFLOW 4: PAYMENT GATEWAY -->
+      <div class="card-inflow">
+        <div class="card-header-flex">
+          <span class="cat-name">Payment Gateway & Inflow Digital</span>
+          <span class="cat-badge badge-inflow">629 Trx</span>
+        </div>
+        <div class="cat-amount">Rp 1.124.980.000,-</div>
+        <div class="cat-detail">Oy Indonesia API (Rp 652,7 Jt), Gerbang Inovasi Digital PT (Rp 356,2 Jt), Pazemo (Rp 116 Jt).</div>
+      </div>
+
+      <!-- INFLOW 5: LAINNYA -->
+      <div class="card-inflow">
+        <div class="card-header-flex">
+          <span class="cat-name">Transfer Masuk Nasabah & Pihak Lain</span>
+          <span class="cat-badge badge-inflow">1.207 Trx</span>
+        </div>
+        <div class="cat-amount">Rp 6.686.034.954,-</div>
+        <div class="cat-detail">Setoran individu nasabah, titipan angsuran debitur retail, dan transaksi perbankan lainnya.</div>
+      </div>
+    </div>
+
+    <!-- ARROW 1 -->
+    <div class="arrow-connector">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      <span style="font-size: 10px; font-weight: 700; text-transform: uppercase;">MASUK</span>
+    </div>
+
+    <!-- CENTER: HUB -->
+    <div>
+      <div class="flow-col-title" style="color: #38bdf8; justify-content: center;">
+        REKENING SENTRAL PENGELOLAAN
+      </div>
+      
+      <div class="card-hub">
+        <div>
+          <div style="text-align: center; margin-bottom: 14px;">
+            <div style="font-size: 11px; font-weight: 700; color: #38bdf8; letter-spacing: 1px; text-transform: uppercase;">Central Account Hub</div>
+            <div style="font-size: 20px; font-weight: 800; color: #ffffff; margin-top: 4px;">MUH YUNUS</div>
+            <div style="font-family: 'JetBrains Mono', monospace; font-size: 14px; color: #94a3b8;">BNI No. 1373172229</div>
+            <div style="font-size: 11.5px; color: #64748b; margin-top: 3px;">NPWP: 94.879.901.0-804.000</div>
+          </div>
+
+          <div style="border-top: 1px solid #1e293b; padding-top: 12px; margin-bottom: 12px;">
+            <div style="font-size: 11px; font-weight: 700; color: #cbd5e1; text-transform: uppercase; margin-bottom: 8px;">Rekapitulasi Arus Kas Tahunan:</div>
+            
+            <div class="year-row">
+              <span class="yr">2022</span>
+              <span class="val">D: 3,27 M | K: 3,27 M</span>
+            </div>
+            <div class="year-row">
+              <span class="yr">2023</span>
+              <span class="val">D: 4,82 M | K: 4,87 M</span>
+            </div>
+            <div class="year-row" style="border: 1px solid #eab308;">
+              <span class="yr" style="color: #eab308;">2024 ★ Puncak</span>
+              <span class="val" style="color: #fef08a;">D: 8,95 M | K: 8,90 M</span>
+            </div>
+            <div class="year-row">
+              <span class="yr">2025</span>
+              <span class="val">D: 5,24 M | K: 5,23 M</span>
+            </div>
+          </div>
+        </div>
+
+        <div style="background: rgba(15, 23, 42, 0.9); border-radius: 8px; padding: 12px; border: 1px dashed #334155;">
+          <div style="font-size: 11px; font-weight: 700; color: #38bdf8; text-transform: uppercase;">Status Berkas & Profil:</div>
+          <div style="font-size: 11px; color: #94a3b8; margin-top: 4px; line-height: 1.4;">
+            Jabatan: RO Pemroses Kredit BWS Makassar.<br>
+            Mutasi: 2.186 halaman fisik, dicetak 08/09/2026.<br>
+            Saldo akhir per 31 Des 2025: <b>Rp 0,00</b>.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ARROW 2 -->
+    <div class="arrow-connector">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      <span style="font-size: 10px; font-weight: 700; text-transform: uppercase;">KELUAR</span>
+    </div>
+
+    <!-- RIGHT: OUTFLOW -->
+    <div>
+      <div class="flow-col-title" style="color: #f43f5e;">
+        <span>↑</span> TUJUAN ALIRAN DANA (OUTFLOW: Rp 22,29 M)
+      </div>
+
+      <!-- OUTFLOW 1: RAHMAT OJOL -->
+      <div class="card-outflow" style="border-left: 4px solid #eab308;">
+        <div class="card-header-flex">
+          <span class="cat-name">Rek Mandiri Rahmat (Ojol) - Gali Lubang</span>
+          <span class="cat-badge badge-warning">126 Trx</span>
+        </div>
+        <div class="cat-amount" style="color: #fde047;">Rp 476.320.000,-</div>
+        <div class="cat-detail">Transfer ke No. Rek 1520016332484. M-Banking dikuasai Yunus untuk membayar cicilan 11 debitur fiktif BWS agar status kolektibilitas tampak lancar (cover-up).</div>
+      </div>
+
+      <!-- OUTFLOW 2: CASH OUT & BELANJA -->
+      <div class="card-outflow" style="border-left: 4px solid #38bdf8;">
+        <div class="card-header-flex">
+          <span class="cat-name">Penarikan Tunai & Belanja Pribadi</span>
+          <span class="cat-badge badge-cyan">1.981 Trx</span>
+        </div>
+        <div class="cat-amount" style="color: #38bdf8;">Rp 2.328.602.042,-</div>
+        <div class="cat-detail">Tarik Tunai ATM/Teller (Rp 1,183 M) + Belanja POS Debit Merchant (Rp 1,145 M) untuk kebutuhan operasional tunai dan gaya hidup pribadi.</div>
+      </div>
+
+      <!-- OUTFLOW 3: PAYMENT GATEWAY & BANK LAIN -->
+      <div class="card-outflow">
+        <div class="card-header-flex">
+          <span class="cat-name">Payment Gateway & Transfer Bank Lain</span>
+          <span class="cat-badge badge-outflow">543 Trx</span>
+        </div>
+        <div class="cat-amount">Rp 2.430.200.000,-</div>
+        <div class="cat-detail">Oy Indonesia 7387399900 (Rp 1,366 M), Rek BCA/Mandiri 30210233313 (Rp 553,5 Jt), Rekening 862788352 (Rp 510,3 Jt).</div>
+      </div>
+
+      <!-- OUTFLOW 4: PINJOL & CALO -->
+      <div class="card-outflow">
+        <div class="card-header-flex">
+          <span class="cat-name">Pinjol, E-Wallet & Jaringan Lapangan</span>
+          <span class="cat-badge badge-outflow">515 Trx</span>
+        </div>
+        <div class="cat-amount">Rp 538.078.000,-</div>
+        <div class="cat-detail">PinjamYuk (Rp 204,8 Jt), DANA (Rp 180,7 Jt), Traveloka (Rp 152,4 Jt), serta pembagian fee calo (Febe Marla Ginting & Henny Adam).</div>
+      </div>
+
+      <!-- OUTFLOW 5: OPERASIONAL LAIN -->
+      <div class="card-outflow">
+        <div class="card-header-flex">
+          <span class="cat-name">Transfer Keluar Operasional Lainnya</span>
+          <span class="cat-badge badge-outflow">16.906 Trx</span>
+        </div>
+        <div class="cat-amount">Rp 16.523.008.382,-</div>
+        <div class="cat-detail">Belasan ribu transaksi perputaran dana, kliring antar bank, dan lalu lintas giral harian selama periode 2022 s/d 2025.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER INSIGHTS -->
+  <div class="footer-grid">
+    <div class="insight-card">
+      <div class="insight-title" style="color: #f43f5e;">
+        <span>★</span> Temuan Kritis: Intersepsi KPR Rp 5,05 M
+      </div>
+      <div class="insight-desc">
+        Uang DP, cicilan, dan pelunasan KPR 78 perumahan di Makassar/Gowa (via Rek 1988033092, 1854510423 & Nina Anggraeni) <b>ditransfer masuk ke rekening pribadi Yunus</b>, bukan rekening resmi BWS.
+      </div>
+    </div>
+    <div class="insight-card">
+      <div class="insight-title" style="color: #34d399;">
+        <span>★</span> Hipotesis: Setor Tunai CRM Rp 6,87 M
+      </div>
+      <div class="insight-desc">
+        Setor tunai mesin CRM BNI (658 trx pecahan &lt;10 Jt) berkesesuaian dengan modus pencairan tunai teller BWS KUPEG TNI. Wajib diuji silang dengan <b>Slip Penarikan Teller BWS</b>.
+      </div>
+    </div>
+    <div class="insight-card">
+      <div class="insight-title" style="color: #fde047;">
+        <span>★</span> Bukti Kuat: Rekening Nominee Rahmat
+      </div>
+      <div class="insight-desc">
+        <b>126 kali transfer senilai Rp 476,3 Juta</b> ke Mandiri Rahmat (ojol) membuktikan M. Yunus aktif mengendalikan akun M-Banking pihak ketiga untuk gali lubang tutup lubang cicilan fiktif.
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

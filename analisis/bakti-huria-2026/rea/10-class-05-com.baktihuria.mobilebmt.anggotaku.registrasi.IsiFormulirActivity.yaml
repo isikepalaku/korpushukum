@@ -1,0 +1,112 @@
+evidence_id: ev_c2c66a8e7783201d56b2cdef4704ead5a8aedcb1637fc184d5156df88409a4ee
+subject:
+  name: doc_82d8408fc891_ANGGOTAKU.apk
+  digest:
+    sha256: c2dbe3b58ebae731f25117104b3b256f1085545b681f300dcc6811f9d98cc931
+  format: apk
+  architecture: null
+  local_path: /home/ubuntu/.hermes/cache/documents/doc_82d8408fc891_ANGGOTAKU.apk
+provider:
+  id: jadx
+  name: JADX headless
+  version: 0.7.1
+analysis_profile: null
+predicate_type: rea.analysis
+operation: inspect_android_class
+parameters:
+  path: /home/ubuntu/.hermes/cache/documents/doc_82d8408fc891_ANGGOTAKU.apk
+  class_name: com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirActivity
+raw_result:
+  server:
+    name: rea-jadx-bridge
+    version: "1"
+  bridge_sha256: 5a5a4e32264fbe597a329d7ad4b06a6266b7b31243e86b0263dbddcecaf351a1
+  jar_sha256: 6e5eacf500b64292bfb73c49797c1958f6ee44646e43e868039ae7feb573ff75
+  loaded:
+    state: LOADED
+    apk_path: /home/ubuntu/.hermes/cache/scratch/rea-android-IGb404/target.apk
+    class_count: 4765
+    resource_count: 1214
+    threads: 1
+    resources: full
+  calls[3]:
+    - operation: rea_jvm_status
+      input:
+      response:
+        content[1]{type,text}:
+          text,"{\"max_heap_bytes\":1000341504,\"metadata_scope\":\"parsed_members\",\"engine_reported_version\":\"0.7.1\",\"available_processors\":2,\"java_version\":\"21.0.12\"}"
+        isError: false
+    - operation: load_apk
+      input:
+        path: /home/ubuntu/.hermes/cache/scratch/rea-android-IGb404/target.apk
+        threads: 1
+        resources: full
+      response:
+        content[1]{type,text}:
+          text,"{\"state\":\"LOADED\",\"apk_path\":\"/home/ubuntu/.hermes/cache/scratch/rea-android-IGb404/target.apk\",\"class_count\":4765,\"raw_class_count\":4765,\"resource_count\":1214,\"load_duration_ms\":4533,\"decompile_timeout_ms\":90000,\"threads\":1,\"code_cache_size\":64,\"resources\":\"full\"}"
+    - operation: get_class_summary
+      input:
+        class_name: com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirActivity
+      response:
+        content[1]{type,text}:
+          text,"{\"method_count\":16,\"methods\":[{\"def_pos\":0,\"name\":\"\\u003cinit\\u003e\",\"is_constructor\":true,\"signature\":\"\\u003cinit\\u003e(): void\"},{\"def_pos\":0,\"name\":\"D\",\"is_constructor\":false,\"signature\":\"D(): void\"},{\"def_pos\":0,\"name\":\"E\",\"is_constructor\":false,\"signature\":\"E(java.lang.String, java.lang.String): void\"},{\"def_pos\":0,\"name\":\"F\",\"is_constructor\":false,\"signature\":\"F(): void\"},{\"def_pos\":0,\"name\":\"G\",\"is_constructor\":false,\"signature\":\"G(java.lang.String): java.lang.String\"},{\"def_pos\":0,\"name\":\"i\",\"is_constructor\":false,\"signature\":\"i(java.lang.Boolean, java.lang.String): void\"},{\"def_pos\":0,\"name\":\"onActivityResult\",\"is_constructor\":false,\"signature\":\"onActivityResult(int, int, android.content.Intent): void\"},{\"def_pos\":0,\"name\":\"onCreate\",\"is_constructor\":false,\"signature\":\"onCreate(android.os.Bundle): void\"},{\"def_pos\":0,\"name\":\"onCreateOptionsMenu\",\"is_constructor\":false,\"signature\":\"onCreateOptionsMenu(android.view.Menu): boolean\"},{\"def_pos\":0,\"name\":\"onDestroy\",\"is_constructor\":false,\"signature\":\"onDestroy(): void\"},{\"def_pos\":0,\"name\":\"onItemSelected\",\"is_constructor\":false,\"signature\":\"onItemSelected(android.widget.AdapterView, android.view.View, int, long): void\"},{\"def_pos\":0,\"name\":\"onNothingSelected\",\"is_constructor\":false,\"signature\":\"onNothingSelected(android.widget.AdapterView): void\"},{\"def_pos\":0,\"name\":\"onOptionsItemSelected\",\"is_constructor\":false,\"signature\":\"onOptionsItemSelected(android.view.MenuItem): boolean\"},{\"def_pos\":0,\"name\":\"onPause\",\"is_constructor\":false,\"signature\":\"onPause(): void\"},{\"def_pos\":0,\"name\":\"onRequestPermissionsResult\",\"is_constructor\":false,\"signature\":\"onRequestPermissionsResult(int, java.lang.String[], int[]): void\"},{\"def_pos\":0,\"name\":\"onResume\",\"is_constructor\":false,\"signature\":\"onResume(): void\"}],\"fields\":[{\"name\":\"P\",\"def_pos\":0,\"type\":\"r3.e\"},{\"name\":\"Q\",\"def_pos\":0,\"type\":\"java.text.SimpleDateFormat\"},{\"name\":\"R\",\"def_pos\":0,\"type\":\"android.view.Menu\"},{\"name\":\"S\",\"def_pos\":0,\"type\":\"java.lang.String\"},{\"name\":\"T\",\"def_pos\":0,\"type\":\"int\"},{\"name\":\"U\",\"def_pos\":0,\"type\":\"boolean\"},{\"name\":\"V\",\"def_pos\":0,\"type\":\"i1.a\"},{\"name\":\"W\",\"def_pos\":0,\"type\":\"x3.q\"},{\"name\":\"X\",\"def_pos\":0,\"type\":\"x3.q\"},{\"name\":\"Y\",\"def_pos\":0,\"type\":\"boolean\"},{\"name\":\"Z\",\"def_pos\":0,\"type\":\"java.lang.String\"},{\"name\":\"f2025n0\",\"def_pos\":0,\"type\":\"int\"},{\"name\":\"f2026a0\",\"def_pos\":0,\"type\":\"java.lang.String\"},{\"name\":\"f2027b0\",\"def_pos\":0,\"type\":\"java.lang.String\"},{\"name\":\"f2028c0\",\"def_pos\":0,\"type\":\"r3.l\"},{\"name\":\"f2029d0\",\"def_pos\":0,\"type\":\"r3.m\"},{\"name\":\"f2030e0\",\"def_pos\":0,\"type\":\"com.google.android.material.datepicker.d\"},{\"name\":\"f2031f0\",\"def_pos\":0,\"type\":\"java.lang.String\"},{\"name\":\"f2032g0\",\"def_pos\":0,\"type\":\"java.lang.String\"},{\"name\":\"f2033h0\",\"def_pos\":0,\"type\":\"x9.f\"},{\"name\":\"f2034i0\",\"def_pos\":0,\"type\":\"x3.d\"},{\"name\":\"f2035j0\",\"def_pos\":0,\"type\":\"java.util.List\"},{\"name\":\"f2036k0\",\"def_pos\":0,\"type\":\"java.lang.String\"},{\"name\":\"f2037m0\",\"def_pos\":0,\"type\":\"java.util.ArrayList\"},{\"name\":\"l0\",\"def_pos\":0,\"type\":\"java.lang.String\"}],\"field_count\":25,\"full_name\":\"com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirActivity\",\"name\":\"IsiFormulirActivity\",\"inner_classes\":[],\"inner_class_count\":0}"
+        isError: false
+normalized_result:
+  engine:
+    name: jadx-headless-mcp
+    version: 0.7.1
+    artifact_sha256: 6e5eacf500b64292bfb73c49797c1958f6ee44646e43e868039ae7feb573ff75
+    source_revision: 5844800a486d2248fa949b74c9896285f5b54de2
+    worker_count: 1
+    heap_limit_mib: 954
+  class_name: com.baktihuria.mobilebmt.anggotaku.registrasi.IsiFormulirActivity
+  methods[16]{name,reported_signature,overload_index,is_constructor,dex_descriptor}:
+    <init>,"<init>(): void",0,true,null
+    D,"D(): void",0,false,null
+    E,"E(java.lang.String, java.lang.String): void",0,false,null
+    F,"F(): void",0,false,null
+    G,"G(java.lang.String): java.lang.String",0,false,null
+    i,"i(java.lang.Boolean, java.lang.String): void",0,false,null
+    onActivityResult,"onActivityResult(int, int, android.content.Intent): void",0,false,null
+    onCreate,"onCreate(android.os.Bundle): void",0,false,null
+    onCreateOptionsMenu,"onCreateOptionsMenu(android.view.Menu): boolean",0,false,null
+    onDestroy,"onDestroy(): void",0,false,null
+    onItemSelected,"onItemSelected(android.widget.AdapterView, android.view.View, int, long): void",0,false,null
+    onNothingSelected,"onNothingSelected(android.widget.AdapterView): void",0,false,null
+    onOptionsItemSelected,"onOptionsItemSelected(android.view.MenuItem): boolean",0,false,null
+    onPause,"onPause(): void",0,false,null
+    onRequestPermissionsResult,"onRequestPermissionsResult(int, java.lang.String[], int[]): void",0,false,null
+    onResume,"onResume(): void",0,false,null
+  fields[25]{name,reported_type}:
+    P,r3.e
+    Q,java.text.SimpleDateFormat
+    R,android.view.Menu
+    S,java.lang.String
+    T,int
+    U,boolean
+    V,i1.a
+    W,x3.q
+    X,x3.q
+    Y,boolean
+    Z,java.lang.String
+    f2025n0,int
+    f2026a0,java.lang.String
+    f2027b0,java.lang.String
+    f2028c0,r3.l
+    f2029d0,r3.m
+    f2030e0,com.google.android.material.datepicker.d
+    f2031f0,java.lang.String
+    f2032g0,java.lang.String
+    f2033h0,x9.f
+    f2034i0,x3.d
+    f2035j0,java.util.List
+    f2036k0,java.lang.String
+    f2037m0,java.util.ArrayList
+    l0,java.lang.String
+  inner_classes: []
+confidence: observed
+authority: shipped-artifact
+environment: null
+limitations[4]: Static decompiler observations do not establish runtime behavior; the APK is never executed.,Method signatures use provider display types; exact DEX descriptors and instruction offsets are unavailable. Overload indices are local to this engine and artifact.,"Class inventories use parsed metadata before code generation, including synthetic members that may be omitted from decompiled source. Source positions remain unknown.","Manifest summary fields are extracted by the upstream engine; decoded XML is retained for verification. APK signatures, split APKs, native libraries and Android runtime capture are not verified by this provider."
+locations: []
+evidence_links: []
