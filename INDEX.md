@@ -14,7 +14,7 @@ Korpus **127 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 | Metrik | Nilai |
 | --- | --- |
 | Total dokumen | 127 |
-| Peraturan (113) | 113 |
+| Peraturan | 113 |
 | Putusan MK | 14 |
 | Teks lengkap | 117 |
 | Hanya berkas sumber | 10 |
