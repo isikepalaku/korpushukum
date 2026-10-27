@@ -7,22 +7,28 @@ tahun: 2004
 judul: "Perubahan atas UU 23-1999 tentang Bank Indonesia"
 judul_singkat: "BI Perubahan"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2004-01-15
+berlaku_mulai: 2004-01-15
 mencabut: []
 dicabut_oleh: []
 mengubah: ["UU 23/1999"]
-diubah_oleh: []
+diubah_oleh: ["UU 4/2023"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/40458/uu-no-3-tahun-2004"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan atas UU 23-1999 tentang Bank Indonesia
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/40458/uu-no-3-tahun-2004
 

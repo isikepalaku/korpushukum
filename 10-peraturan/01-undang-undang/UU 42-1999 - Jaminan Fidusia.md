@@ -7,6 +7,9 @@ tahun: 1999
 judul: "Jaminan Fidusia"
 judul_singkat: "Jaminan Fidusia"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 1999-09-30
+berlaku_mulai: 1999-09-30
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/45374/uu-no-42-tahun-1999"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Jaminan Fidusia
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/45374/uu-no-42-tahun-1999
 

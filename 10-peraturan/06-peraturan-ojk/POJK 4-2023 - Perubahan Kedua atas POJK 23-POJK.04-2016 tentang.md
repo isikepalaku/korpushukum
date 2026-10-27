@@ -7,6 +7,9 @@ tahun: 2023
 judul: "Perubahan Kedua atas POJK 23-POJK.04-2016 tentang Reksa Dana Berbentuk Kontrak Investasi Kolektif"
 judul_singkat: "Perubahan Kedua atas POJK 23-POJK.04-2016 tentang"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2023-03-30
+berlaku_mulai: 2023-03-31
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,15 +17,19 @@ diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://ojk.go.id/id/regulasi/Pages/Reksa-Dana-Berbentuk-Kontrak-Investasi-Kolektif.aspx"
+sumber: "https://peraturan.bpk.go.id/Details/260736/peraturan-ojk-no-4-tahun-2023"
+sumber_alternatif: "https://ojk.go.id/id/regulasi/Pages/Reksa-Dana-Berbentuk-Kontrak-Investasi-Kolektif.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan Kedua atas POJK 23-POJK.04-2016 tentang Reksa Dana Berbentuk Kontrak Investasi Kolektif
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/Reksa-Dana-Berbentuk-Kontrak-Investasi-Kolektif.aspx
 

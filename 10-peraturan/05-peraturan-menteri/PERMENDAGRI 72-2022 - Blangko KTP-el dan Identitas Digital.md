@@ -7,6 +7,9 @@ tahun: 2022
 judul: "Standar Blangko KTP-el dan Penyelenggaraan Identitas Kependudukan Digital"
 judul_singkat: "Blangko KTP-el dan Identitas Digital"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2022-04-01
+berlaku_mulai: 2022-04-13
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,13 +19,16 @@ bidang: [pidana]
 tags: [jenis/permendagri, bidang/pidana, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/247759/permendagri-no-72-tahun-2022"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Standar Blangko KTP-el dan Penyelenggaraan Identitas Kependudukan Digital
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/247759/permendagri-no-72-tahun-2022
 

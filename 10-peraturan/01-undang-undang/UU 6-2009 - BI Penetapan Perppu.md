@@ -7,22 +7,28 @@ tahun: 2009
 judul: "Penetapan Perppu 2-2008 tentang Perubahan Kedua atas UU 23-1999 tentang BI"
 judul_singkat: "BI Penetapan Perppu"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2009-01-13
+berlaku_mulai: 2009-01-13
 mencabut: []
 dicabut_oleh: []
 mengubah: ["UU 23/1999"]
-diubah_oleh: []
+diubah_oleh: ["PERPPU 1/2020", "UU 4/2023"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/38588/uu-no-6-tahun-2009"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penetapan Perppu 2-2008 tentang Perubahan Kedua atas UU 23-1999 tentang BI
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/38588/uu-no-6-tahun-2009
 

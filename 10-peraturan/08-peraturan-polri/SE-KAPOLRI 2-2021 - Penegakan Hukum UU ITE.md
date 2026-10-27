@@ -7,6 +7,7 @@ tahun: 2021
 judul: "Penegakan Hukum UU ITE"
 judul_singkat: "Penegakan Hukum UU ITE"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [siber]
 tags: [jenis/se-kapolri, bidang/siber, status/berlaku]
 sumber: "Mabes Polri (Nomor: SE/2/II/2021 tanggal 19 Februari 2021)"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Penegakan Hukum UU ITE
 

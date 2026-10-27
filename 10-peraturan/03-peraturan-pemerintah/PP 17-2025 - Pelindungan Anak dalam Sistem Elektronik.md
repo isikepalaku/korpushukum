@@ -7,6 +7,9 @@ tahun: 2025
 judul: "Tata Kelola Penyelenggaraan Sistem Elektronik dalam Pelindungan Anak"
 judul_singkat: "Pelindungan Anak dalam Sistem Elektronik"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2025-03-27
+berlaku_mulai: 2025-03-27
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,15 +17,19 @@ diubah_oleh: []
 terkait: []
 bidang: [siber]
 tags: [jenis/pp, bidang/siber, status/berlaku]
-sumber: "https://jdih.komdigi.go.id/produk_hukum/view/id/965/t/peraturan+pemerintah+nomor+17+tahun+2025"
+sumber: "https://peraturan.bpk.go.id/Details/316698/pp-no-17-tahun-2025"
+sumber_alternatif: "https://jdih.komdigi.go.id/produk_hukum/view/id/965/t/peraturan+pemerintah+nomor+17+tahun+2025"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Tata Kelola Penyelenggaraan Sistem Elektronik dalam Pelindungan Anak
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://jdih.komdigi.go.id/produk_hukum/view/id/965/t/peraturan+pemerintah+nomor+17+tahun+2025
 

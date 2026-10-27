@@ -7,7 +7,10 @@ tahun: 2014
 judul: "Perasuransian"
 judul_singkat: "Perasuransian"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2014-10-17
+berlaku_mulai: 2014-10-17
+mencabut: ["UU 2/1992"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: ["UU 4/2023"]
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/38785/uu-no-40-tahun-2014"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perasuransian
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/38785/uu-no-40-tahun-2014
 

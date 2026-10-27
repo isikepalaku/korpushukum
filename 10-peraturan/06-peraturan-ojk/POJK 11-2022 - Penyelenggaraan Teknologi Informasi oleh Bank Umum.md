@@ -7,22 +7,29 @@ tahun: 2022
 judul: "Penyelenggaraan Teknologi Informasi oleh Bank Umum"
 judul_singkat: "Penyelenggaraan Teknologi Informasi oleh Bank Umum"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2022-07-06
+berlaku_mulai: 2022-10-07
+mencabut: ["POJK 13/2020", "POJK 38/2016"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://ojk.go.id/id/regulasi/Pages/Penyelenggaraan-Teknologi-Informasi-Oleh-Bank-Umum.aspx"
+sumber: "https://peraturan.bpk.go.id/Details/227376/peraturan-ojk-no-11pojk032022-tahun-2022"
+sumber_alternatif: "https://ojk.go.id/id/regulasi/Pages/Penyelenggaraan-Teknologi-Informasi-Oleh-Bank-Umum.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penyelenggaraan Teknologi Informasi oleh Bank Umum
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/Penyelenggaraan-Teknologi-Informasi-Oleh-Bank-Umum.aspx
 

@@ -7,7 +7,10 @@ tahun: 2024
 judul: "Kebijakan Akuntansi Koperasi"
 judul_singkat: "Kebijakan Akuntansi Koperasi"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2024-01-10
+berlaku_mulai: 2024-01-16
+mencabut: ["PERMENKOP 12/2015", "PERMENKOP 13/2015", "PERMENKOP 14/2015"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/permenkop, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/308465/permenkop-ukm-no-2-tahun-2024"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Kebijakan Akuntansi Koperasi
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/308465/permenkop-ukm-no-2-tahun-2024
 

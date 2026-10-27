@@ -7,22 +7,28 @@ tahun: 2026
 judul: "Penyesuaian Pidana"
 judul_singkat: "Penyesuaian Pidana"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2026-01-02
+berlaku_mulai: 2026-01-02
 mencabut: []
 dicabut_oleh: []
-mengubah: ["UU 1/2023"]
+mengubah: ["UU 1/2023", "UU 12/2011", "UU 13/2022", "UU 15/2019", "UU 2/2015", "UU 23/2014", "UU 6/2023", "UU 9/2015"]
 diubah_oleh: []
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "JDIH BPK RI"
+sumber: "https://peraturan.bpk.go.id/Details/337869/uu-no-1-tahun-2026"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penyesuaian Pidana
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI
 

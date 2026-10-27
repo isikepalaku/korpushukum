@@ -7,6 +7,7 @@ tahun: 2024
 judul: "Pendaftaran Penyelenggara Inovasi Teknologi Sektor Keuangan"
 judul_singkat: "Pendaftaran Penyelenggara Inovasi Teknologi Sektor"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/seojk, bidang/keuangan, status/berlaku]
 sumber: "https://ojk.go.id/id/regulasi/Pages/Pendaftaran-Penyelenggara-Inovasi-Teknologi-Sektor-Keuangan.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Pendaftaran Penyelenggara Inovasi Teknologi Sektor Keuangan
 

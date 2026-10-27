@@ -7,6 +7,9 @@ tahun: 2025
 judul: "Perubahan atas POJK 39-2024 tentang Pergadaian"
 judul_singkat: "Perubahan atas POJK 39-2024 tentang Pergadaian"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2025-11-18
+berlaku_mulai: 2025-11-26
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,15 +17,18 @@ diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/343945/peraturan-ojk-no-24-tahun-2025"
+sumber: "https://peraturan.bpk.go.id/Details/347473/peraturan-ojk-no-29-tahun-2025"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan atas POJK 39-2024 tentang Pergadaian
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/343945/peraturan-ojk-no-24-tahun-2025
 

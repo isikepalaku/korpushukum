@@ -7,6 +7,7 @@ tahun: 2024
 judul: "Layanan Pendanaan Bersama Berbasis Teknologi Informasi"
 judul_singkat: "Layanan Pendanaan Bersama Berbasis Teknologi"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-40-Tahun-2024-Layanan-Pendanaan-Bersama-Berbasis-Teknologi-Informasi.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Layanan Pendanaan Bersama Berbasis Teknologi Informasi
 

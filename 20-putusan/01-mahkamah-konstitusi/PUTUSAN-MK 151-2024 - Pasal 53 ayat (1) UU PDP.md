@@ -7,6 +7,7 @@ tahun: 2024
 judul: "Pasal 53 ayat (1) UU PDP"
 judul_singkat: "Pasal 53 ayat (1) UU PDP"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [siber]
 tags: [jenis/putusan-mk, bidang/siber, status/berlaku]
 sumber: "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_12970_1753859809.pdf"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Pasal 53 ayat (1) UU PDP
 

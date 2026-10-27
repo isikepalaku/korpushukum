@@ -7,6 +7,7 @@ tahun: 2021
 judul: "Putusan Mahkamah Konstitusi Nomor 2/PUU-XIX/2021"
 judul_singkat: "Penegasan Eksekusi Fidusia"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/putusan-mk, bidang/keuangan, status/berlaku]
 sumber: "https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_8060.pdf"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Putusan Mahkamah Konstitusi Nomor 2/PUU-XIX/2021
 

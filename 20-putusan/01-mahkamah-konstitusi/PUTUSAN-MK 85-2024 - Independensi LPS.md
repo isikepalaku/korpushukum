@@ -7,6 +7,7 @@ tahun: 2024
 judul: "Putusan MK Nomor 85/PUU-XXII/2024 — Independensi LPS dan Persetujuan Menteri Keuangan (Pasal 7 angka 57 UU P2SK)"
 judul_singkat: "Independensi LPS"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/putusan-mk, bidang/keuangan, status/berlaku]
 sumber: "https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_11382_1735895792.pdf"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Putusan MK Nomor 85/PUU-XXII/2024 — Independensi LPS dan Persetujuan Menteri Keuangan (Pasal 7 angka 57 UU P2SK)
 

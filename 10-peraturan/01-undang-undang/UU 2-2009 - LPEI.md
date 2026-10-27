@@ -7,22 +7,28 @@ tahun: 2009
 judul: "Lembaga Pembiayaan Ekspor Indonesia"
 judul_singkat: "LPEI"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2009-01-12
+berlaku_mulai: 2009-01-12
 mencabut: []
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: []
+diubah_oleh: ["UU 4/2023"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/38570/uu-no-2-tahun-2009"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Lembaga Pembiayaan Ekspor Indonesia
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/38570/uu-no-2-tahun-2009
 

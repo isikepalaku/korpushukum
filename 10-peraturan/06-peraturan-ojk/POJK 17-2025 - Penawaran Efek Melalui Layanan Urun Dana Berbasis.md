@@ -7,22 +7,28 @@ tahun: 2025
 judul: "Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi"
 judul_singkat: "Penawaran Efek Melalui Layanan Urun Dana Berbasis"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2025-07-11
+berlaku_mulai: 2025-07-25
+mencabut: ["POJK 16/2021", "POJK 57/2020"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/327332"
+sumber: "https://peraturan.bpk.go.id/Details/327332/peraturan-ojk-no-17-tahun-2025"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/327332
 

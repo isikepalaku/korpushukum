@@ -7,6 +7,9 @@ tahun: 2024
 judul: "Laporan Berkala Perusahaan Perasuransian"
 judul_singkat: "Laporan Berkala Perusahaan Perasuransian"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2024-11-25
+berlaku_mulai: 2025-01-01
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,15 +17,19 @@ diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-22-Tahun-2024-Laporan-Berkala-Perusahaan-Perasuransian.aspx"
+sumber: "https://peraturan.bpk.go.id/Details/323226/peraturan-ojk-no-22-tahun-2024"
+sumber_alternatif: "https://ojk.go.id/id/regulasi/Pages/POJK-22-Tahun-2024-Laporan-Berkala-Perusahaan-Perasuransian.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Laporan Berkala Perusahaan Perasuransian
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-22-Tahun-2024-Laporan-Berkala-Perusahaan-Perasuransian.aspx
 

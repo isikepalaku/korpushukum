@@ -7,23 +7,29 @@ tahun: 2025
 judul: "KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Acara Pidana"
 judul_singkat: "KUHAP"
 status: berlaku
+status_bpk: "Berlaku"
 status_catatan: "KUHAP baru menggantikan UU 8/1981."
-mencabut: []
+ditetapkan: 2025-12-17
+berlaku_mulai: 2026-01-02
+mencabut: ["UU 8/1981"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [pidana]
 tags: [jenis/uu, bidang/pidana, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/337302/uu-no-20-"
+sumber: "https://peraturan.bpk.go.id/Details/337302/uu-no-20-tahun-2025"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Acara Pidana
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > KUHAP baru menggantikan UU 8/1981.
 

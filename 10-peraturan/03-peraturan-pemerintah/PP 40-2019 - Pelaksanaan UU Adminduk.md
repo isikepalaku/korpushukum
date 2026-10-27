@@ -7,7 +7,10 @@ tahun: 2019
 judul: "Pelaksanaan UU Administrasi Kependudukan"
 judul_singkat: "Pelaksanaan UU Adminduk"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2019-05-23
+berlaku_mulai: 2019-05-24
+mencabut: ["PP 102/2012", "PP 37/2007"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
@@ -16,13 +19,16 @@ bidang: [pidana]
 tags: [jenis/pp, bidang/pidana, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/108801/pp-no-40-tahun-2019"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Pelaksanaan UU Administrasi Kependudukan
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/108801/pp-no-40-tahun-2019
 

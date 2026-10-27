@@ -7,22 +7,28 @@ tahun: 2009
 judul: "Penetapan Perppu 3-2008 tentang Perubahan atas UU 24-2004 tentang LPS"
 judul_singkat: "LPS Penetapan Perppu"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2017-01-13
+berlaku_mulai: 2017-01-13
 mencabut: []
 dicabut_oleh: []
 mengubah: ["UU 24/2004"]
-diubah_oleh: []
+diubah_oleh: ["UU 4/2023"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/38589/uu-no-7-tahun-2009"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penetapan Perppu 3-2008 tentang Perubahan atas UU 24-2004 tentang LPS
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/38589/uu-no-7-tahun-2009
 

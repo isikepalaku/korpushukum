@@ -7,6 +7,7 @@ tahun: 2023
 judul: "Pemberantasan Perjudian Online"
 judul_singkat: "Pemberantasan Perjudian Online"
 status: perlu-verifikasi
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [siber]
 tags: [jenis/instruksi, bidang/siber, status/perlu-verifikasi]
 sumber: "Kementerian Komunikasi dan Informatika RI (Instruksi Menteri No. 1 Tahun 2023)"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Pemberantasan Perjudian Online
 

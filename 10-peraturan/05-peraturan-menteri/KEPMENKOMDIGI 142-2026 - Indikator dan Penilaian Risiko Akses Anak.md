@@ -7,6 +7,7 @@ tahun: 2026
 judul: "Indikator dan Penilaian Risiko Akses Anak"
 judul_singkat: "Indikator dan Penilaian Risiko Akses Anak"
 status: perlu-verifikasi
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [siber]
 tags: [jenis/kepmenkomdigi, bidang/siber, status/perlu-verifikasi]
 sumber: "https://jdih.komdigi.go.id/produk_hukum/view/id/1009/t/keputusan+menteri+komunikasi+dan+digital+nomor+142+tahun+2026"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Indikator dan Penilaian Risiko Akses Anak
 

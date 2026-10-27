@@ -7,22 +7,28 @@ tahun: 2025
 judul: "Perubahan Keempat UU Minerba"
 judul_singkat: "Minerba Perubahan Keempat"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2025-03-19
+berlaku_mulai: 2025-03-19
 mencabut: []
 dicabut_oleh: []
-mengubah: []
+mengubah: ["UU 11/2020", "UU 3/2020", "UU 4/2009", "UU 6/2023"]
 diubah_oleh: []
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "JDIH BPK RI"
+sumber: "https://peraturan.bpk.go.id/Details/316682/uu-no-2-tahun-2025"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan Keempat UU Minerba
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI
 

@@ -7,7 +7,10 @@ tahun: 2018
 judul: "Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil"
 judul_singkat: "Pendaftaran Penduduk dan Pencatatan Sipil"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2018-10-16
+berlaku_mulai: 2018-10-18
+mencabut: ["PERPRES 25/2008"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
@@ -16,13 +19,16 @@ bidang: [pidana]
 tags: [jenis/perpres, bidang/pidana, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/97804/perpres-no-96-tahun-2018"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/97804/perpres-no-96-tahun-2018
 

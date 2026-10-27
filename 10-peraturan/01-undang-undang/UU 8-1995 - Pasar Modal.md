@@ -7,7 +7,10 @@ tahun: 1995
 judul: "Pasar Modal"
 judul_singkat: "Pasar Modal"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 1995-11-10
+berlaku_mulai: 1996-01-01
+mencabut: ["UU 15/1952"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: ["UU 4/2023"]
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/46197/uu-no-8-tahun-1995"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Pasar Modal
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/46197/uu-no-8-tahun-1995
 

@@ -7,6 +7,7 @@ tahun: 2015
 judul: "Penilaian Kualitas Aset BUS dan UUS"
 judul_singkat: "Penilaian Kualitas Aset BUS dan UUS"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -15,12 +16,13 @@ terkait: []
 bidang: [keuangan]
 tags: [jenis/seojk, bidang/keuangan, status/berlaku]
 sumber: "30-sumber/SEOJK 8-2015 - Penilaian Kualitas Aset BUS dan UUS.pdf"
-verifikasi: belum
-last_updated: 2026-10-28
 kelengkapan: lengkap
 parser: "pymupdf4llm 2.0"
 parsed_at: 2026-10-28
+verifikasi: tidak-tersedia
+last_updated: 2026-10-28
 ---
+
 
 # Penilaian Kualitas Aset BUS dan UUS
 

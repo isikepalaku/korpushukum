@@ -7,22 +7,28 @@ tahun: 2019
 judul: "Peraturan Pelaksanaan Perpres 96-2018 (Pendaftaran Penduduk dan Pencatatan Sipil)"
 judul_singkat: "Pelaksanaan Perpres 96-2018 Adminduk"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2019-12-27
+berlaku_mulai: 2019-12-31
+mencabut: ["PERMENDAGRI 9/2016"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [pidana]
 tags: [jenis/permendagri, bidang/pidana, status/berlaku]
-sumber: "Berita Negara Republik Indonesia Tahun 2019 Nomor 1789"
+sumber: "https://peraturan.bpk.go.id/Details/138582/permendagri-no-108-tahun-2019"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Peraturan Pelaksanaan Perpres 96-2018 (Pendaftaran Penduduk dan Pencatatan Sipil)
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: Berita Negara Republik Indonesia Tahun 2019 Nomor 1789
 

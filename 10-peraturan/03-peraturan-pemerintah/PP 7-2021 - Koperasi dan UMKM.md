@@ -7,7 +7,10 @@ tahun: 2021
 judul: "Kemudahan, Pelindungan, dan Pemberdayaan Koperasi dan UMKM"
 judul_singkat: "Koperasi dan UMKM"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2021-02-02
+berlaku_mulai: 2021-02-02
+mencabut: ["PERPRES 27/2013", "PERPRES 98/2014", "PP 17/2013"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/pp, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/161837/pp-no-7-tahun-2021"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Kemudahan, Pelindungan, dan Pemberdayaan Koperasi dan UMKM
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/161837/pp-no-7-tahun-2021
 

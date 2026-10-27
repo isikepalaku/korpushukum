@@ -7,22 +7,28 @@ tahun: 1997
 judul: "Perdagangan Berjangka Komoditi"
 judul_singkat: "Perdagangan Berjangka Komoditi"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 1997-12-05
+berlaku_mulai: 1997-12-05
 mencabut: []
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: ["UU 10/2011"]
+diubah_oleh: ["UU 10/2011", "UU 4/2023"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/46052/uu-no-32-tahun-1997"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perdagangan Berjangka Komoditi
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/46052/uu-no-32-tahun-1997
 

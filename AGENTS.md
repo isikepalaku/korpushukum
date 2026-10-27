@@ -41,10 +41,12 @@ tahun: 2023
 judul: "Pengembangan dan Penguatan Sektor Keuangan"
 judul_singkat: "P2SK"
 status: berlaku          # berlaku|diubah|dicabut|belum-berlaku|berlaku-sebagian|perlu-verifikasi
+status_bpk: "Berlaku"    # label mentah JDIH BPK (bila sudah diverifikasi)
 status_catatan: "..."    # hanya bila perlu penjelasan status
 ditetapkan: 2023-01-12   # opsional, ISO
 berlaku_mulai: 2023-01-12 # opsional, ISO
 mencabut: []             # daftar id
+mencabut_sebagian: []    # daftar id (pencabutan sebagian)
 dicabut_oleh: []         # daftar id
 mengubah: []             # daftar id
 diubah_oleh: []          # daftar id
@@ -53,7 +55,9 @@ bidang: [keuangan]       # pidana|keuangan|siber|tipidter|pertanahan|umum
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/..."   # URL JDIH bila ada
 kelengkapan: lengkap     # lengkap|sumber-pdf-saja
-verifikasi: belum        # belum|sebagian|sudah  (verifikasi ke JDIH BPK)
+verifikasi: sudah        # sudah|sebagian|belum|tidak-tersedia (verifikasi ke JDIH BPK)
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ```
 

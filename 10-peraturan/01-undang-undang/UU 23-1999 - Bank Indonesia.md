@@ -7,22 +7,28 @@ tahun: 1999
 judul: "Bank Indonesia"
 judul_singkat: "Bank Indonesia"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 1999-05-17
+berlaku_mulai: 1999-05-17
+mencabut: ["UU 13/1968"]
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: ["UU 3/2004", "UU 6/2009"]
+diubah_oleh: ["PERPPU 1/2020", "UU 3/2004", "UU 4/2023", "UU 6/2009"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/45332/uu-no-23-tahun-1999"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Bank Indonesia
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/45332/uu-no-23-tahun-1999
 

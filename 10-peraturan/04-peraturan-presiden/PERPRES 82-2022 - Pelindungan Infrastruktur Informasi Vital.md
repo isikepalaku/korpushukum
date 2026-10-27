@@ -7,6 +7,9 @@ tahun: 2022
 judul: "Pelindungan Infrastruktur Informasi Vital"
 judul_singkat: "Pelindungan Infrastruktur Informasi Vital"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2022-05-24
+berlaku_mulai: 2022-05-24
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,15 +17,18 @@ diubah_oleh: []
 terkait: []
 bidang: [siber]
 tags: [jenis/perpres, bidang/siber, status/berlaku]
-sumber: "JDIH BPK RI (LN 2022 No. 127)"
+sumber: "https://peraturan.bpk.go.id/Details/211029/perpres-no-82-tahun-2022"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Pelindungan Infrastruktur Informasi Vital
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI (LN 2022 No. 127)
 

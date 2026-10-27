@@ -7,6 +7,9 @@ tahun: 2019
 judul: "Sistem Informasi Administrasi Kependudukan"
 judul_singkat: "Sistem Informasi Administrasi Kependudukan"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2019-11-04
+berlaku_mulai: 2019-11-19
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,13 +19,16 @@ bidang: [pidana]
 tags: [jenis/permendagri, bidang/pidana, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/138603/permendagri-no-95-tahun-2019"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Sistem Informasi Administrasi Kependudukan
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/138603/permendagri-no-95-tahun-2019
 

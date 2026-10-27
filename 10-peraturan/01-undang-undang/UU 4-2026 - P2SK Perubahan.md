@@ -7,6 +7,9 @@ tahun: 2026
 judul: "Perubahan atas UU Nomor 4 Tahun 2023 tentang P2SK"
 judul_singkat: "P2SK Perubahan"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2026-06-17
+berlaku_mulai: 2026-06-17
 mencabut: []
 dicabut_oleh: []
 mengubah: ["UU 4/2023"]
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/350166/uu-no-4-tahun-2026"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan atas UU Nomor 4 Tahun 2023 tentang P2SK
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/350166/uu-no-4-tahun-2026
 

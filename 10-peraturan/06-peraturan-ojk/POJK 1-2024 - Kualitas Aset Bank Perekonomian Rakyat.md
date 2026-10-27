@@ -7,6 +7,9 @@ tahun: 2024
 judul: "Kualitas Aset Bank Perekonomian Rakyat"
 judul_singkat: "Kualitas Aset Bank Perekonomian Rakyat"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2024-01-10
+berlaku_mulai: 2024-01-11
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/301670/peraturan-ojk-no-1-tahun-2024"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Kualitas Aset Bank Perekonomian Rakyat
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/301670/peraturan-ojk-no-1-tahun-2024
 

@@ -7,22 +7,28 @@ tahun: 2021
 judul: "Perubahan atas Permenkumham 10-2013 (Pendaftaran Jaminan Fidusia Secara Elektronik)"
 judul_singkat: "Perubahan Pendaftaran Fidusia Elektronik"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2021-07-13
+berlaku_mulai: 2021-07-19
+mencabut: ["PERMENKUMHAM 10/2013"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/permenkumham, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/174164/permenkumham"
+sumber: "https://peraturan.bpk.go.id/Details/174164/permenkumham-no-25-tahun-2021"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan atas Permenkumham 10-2013 (Pendaftaran Jaminan Fidusia Secara Elektronik)
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/174164/permenkumham
 

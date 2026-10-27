@@ -7,6 +7,9 @@ tahun: 2013
 judul: "Perubahan atas UU 23-2006 tentang Administrasi Kependudukan"
 judul_singkat: "Adminduk Perubahan"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2013-12-24
+berlaku_mulai: 2013-12-24
 mencabut: []
 dicabut_oleh: []
 mengubah: ["UU 23/2006"]
@@ -16,13 +19,16 @@ bidang: [pidana]
 tags: [jenis/uu, bidang/pidana, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/38985/uu-no-24-tahun-2013"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan atas UU 23-2006 tentang Administrasi Kependudukan
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/38985/uu-no-24-tahun-2013
 

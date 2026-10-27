@@ -42,5 +42,5 @@ SORT tahun DESC
 | PP 80/2019 | [[PP 80-2019 - PMSE\|Perdagangan Melalui Sistem Elektronik]] | PP | berlaku |
 | PERMENKOMINFO 20/2016 | [[PERMENKOMINFO 20-2016 - PDP dalam Sistem Elektronik\|Perlindungan Data Pribadi dalam Sistem Elektronik]] | PERMENKOMINFO | berlaku |
 | UU 19/2016 | [[UU 19-2016 - ITE Perubahan Pertama\|Perubahan atas UU 11-2008 tentang ITE]] | UU | berlaku |
-| PERMENKOMINFO 19/2014 | [[PERMENKOMINFO 19-2014 - Penanganan Situs Bermuatan Negatif\|Penanganan Situs Internet Bermuatan Negatif]] | PERMENKOMINFO | berlaku |
+| PERMENKOMINFO 19/2014 | [[PERMENKOMINFO 19-2014 - Penanganan Situs Bermuatan Negatif\|Penanganan Situs Internet Bermuatan Negatif]] | PERMENKOMINFO | dicabut |
 | UU 11/2008 | [[UU 11-2008 - ITE\|Informasi dan Transaksi Elektronik]] | UU | berlaku |

@@ -7,22 +7,28 @@ tahun: 2016
 judul: "Perubahan atas UU 11-2008 tentang ITE"
 judul_singkat: "ITE Perubahan Pertama"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2016-11-25
+berlaku_mulai: 2016-11-25
 mencabut: []
 dicabut_oleh: []
 mengubah: ["UU 11/2008"]
-diubah_oleh: []
+diubah_oleh: ["UU 1/2024"]
 terkait: []
 bidang: [siber]
 tags: [jenis/uu, bidang/siber, status/berlaku]
-sumber: "JDIH BPK RI (LN 2016 No. 251, TLN No. 5952)"
+sumber: "https://peraturan.bpk.go.id/Details/37582/uu-no-19-tahun-2016"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan atas UU 11-2008 tentang ITE
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI (LN 2016 No. 251, TLN No. 5952)
 

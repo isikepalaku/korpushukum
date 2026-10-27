@@ -7,6 +7,7 @@ tahun: 2024
 judul: "Perubahan atas POJK 69-POJK.05-2016 (Penyelenggaraan Usaha Perusahaan Asuransi, Asuransi Syariah, Reasuransi, dan Reasuransi Syariah)"
 judul_singkat: "Perubahan atas POJK 69-POJK.05-2016"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-36-2024-Penyelenggaraan-Usaha-Perusahaan-Asuransi,-Asuransi-Syariah,-Perusahaan-Reasuransi,-dan-Reasuransi-Syariah.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Perubahan atas POJK 69-POJK.05-2016 (Penyelenggaraan Usaha Perusahaan Asuransi, Asuransi Syariah, Reasuransi, dan Reasuransi Syariah)
 

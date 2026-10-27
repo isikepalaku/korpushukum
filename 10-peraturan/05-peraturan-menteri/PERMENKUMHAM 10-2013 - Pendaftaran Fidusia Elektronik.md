@@ -6,23 +6,30 @@ nomor: 10
 tahun: 2013
 judul: "Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik"
 judul_singkat: "Pendaftaran Fidusia Elektronik"
-status: berlaku
+status: dicabut
+status_bpk: "Tidak Berlaku"
+status_catatan: "JDIH BPK: Tidak Berlaku (dicek 2026-10-28). "
+ditetapkan: 2013-03-05
+berlaku_mulai: 2013-03-05
 mencabut: []
-dicabut_oleh: []
+dicabut_oleh: ["PERMENKUMHAM 25/2021"]
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
-tags: [jenis/permenkumham, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/174164/permenkumham"
+tags: [jenis/permenkumham, bidang/keuangan, status/dicabut]
+sumber: "https://peraturan.bpk.go.id/Details/174250/permenkumham-no-10-tahun-2013"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik
 
-**Status:** `berlaku`
+**Status:** `dicabut` · JDIH BPK: `Tidak Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/174164/permenkumham
 

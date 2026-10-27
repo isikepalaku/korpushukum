@@ -7,6 +7,9 @@ tahun: 2023
 judul: "Usaha Simpan Pinjam oleh Koperasi"
 judul_singkat: "Usaha Simpan Pinjam Koperasi"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2023-06-16
+berlaku_mulai: 2023-06-20
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/permenkop, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/260414/permenkop-ukm-no-8-tahun-2023"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Usaha Simpan Pinjam oleh Koperasi
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/260414/permenkop-ukm-no-8-tahun-2023
 

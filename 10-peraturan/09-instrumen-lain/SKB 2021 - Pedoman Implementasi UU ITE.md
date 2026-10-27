@@ -2,11 +2,12 @@
 id: "SKB 2021"
 jenis: SKB
 lembaga: "Surat Keputusan Bersama"
-tahun: 2021
 nomor: null
+tahun: 2021
 judul: "SKB Pedoman Implementasi UU ITE 2021"
 judul_singkat: "Pedoman Implementasi UU ITE"
 status: perlu-verifikasi
+status_catatan: "Tidak terverifikasi via JDIH BPK: nomor/tahun kosong/tidak valid. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [siber]
 tags: [jenis/skb, bidang/siber, status/perlu-verifikasi]
 sumber: "Keputusan Bersama Menkominfo RI, Jaksa Agung RI, dan Kapolri (Nomor 229 Tahun 2021, Nomor 154 Tahun 2021, Nomor KB/2/VI/2021)"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # SKB Pedoman Implementasi UU ITE 2021
 

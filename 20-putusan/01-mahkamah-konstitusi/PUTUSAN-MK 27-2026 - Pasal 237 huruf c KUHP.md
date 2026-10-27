@@ -7,6 +7,7 @@ tahun: 2026
 judul: "Putusan MK Nomor 27/PUU-XXIV/2026 — Pasal 237 huruf c KUHP"
 judul_singkat: "Pasal 237 huruf c KUHP"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [pidana]
 tags: [jenis/putusan-mk, bidang/pidana, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/DownloadUjiMateri/248/putusan_mkri_27_PUU-XXIV_2026.pdf"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Putusan MK Nomor 27/PUU-XXIV/2026 — Pasal 237 huruf c KUHP
 

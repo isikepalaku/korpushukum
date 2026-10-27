@@ -7,6 +7,9 @@ tahun: 2025
 judul: "Penetapan Status dan Tindak Lanjut Pengawasan Perusahaan Perasuransian, Lembaga Penjamin, dan Dana Pensiun"
 judul_singkat: "Penetapan Status dan Tindak Lanjut Pengawasan"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2025-12-17
+berlaku_mulai: 2026-06-22
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/350218/peraturan-ojk-no-37-tahun-2025"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penetapan Status dan Tindak Lanjut Pengawasan Perusahaan Perasuransian, Lembaga Penjamin, dan Dana Pensiun
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/350218/peraturan-ojk-no-37-tahun-2025
 

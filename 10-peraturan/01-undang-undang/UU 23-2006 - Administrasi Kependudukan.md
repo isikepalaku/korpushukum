@@ -7,7 +7,10 @@ tahun: 2006
 judul: "Administrasi Kependudukan"
 judul_singkat: "Administrasi Kependudukan"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2006-12-29
+berlaku_mulai: 2006-12-29
+mencabut: ["UU 4/1961"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: ["UU 24/2013"]
@@ -16,13 +19,16 @@ bidang: [pidana]
 tags: [jenis/uu, bidang/pidana, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/40202/uu-no-23-tahun-2006"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Administrasi Kependudukan
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/40202/uu-no-23-tahun-2006
 

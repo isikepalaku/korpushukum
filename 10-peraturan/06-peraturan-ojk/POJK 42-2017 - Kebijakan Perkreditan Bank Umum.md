@@ -7,6 +7,9 @@ tahun: 2017
 judul: "Kebijakan Perkreditan Bank Umum"
 judul_singkat: "Kebijakan Perkreditan Bank Umum"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2017-07-12
+berlaku_mulai: 2017-07-12
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,17 +17,20 @@ diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "30-sumber/POJK 42-2017 - Kebijakan Perkreditan Bank Umum.pdf"
-verifikasi: belum
-last_updated: 2026-10-28
+sumber: "https://peraturan.bpk.go.id/Details/129664/peraturan-ojk-no-42pojk032017-tahun-2017"
 kelengkapan: lengkap
 parser: "pymupdf4llm 2.0"
 parsed_at: 2026-10-28
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
+last_updated: 2026-10-28
 ---
+
 
 # Kebijakan Perkreditan Bank Umum
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: `30-sumber/POJK 42-2017 - Kebijakan Perkreditan Bank Umum.pdf`
 

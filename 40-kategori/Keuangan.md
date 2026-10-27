@@ -64,7 +64,7 @@ SORT tahun DESC
 | PP 7/2021 | [[PP 7-2021 - Koperasi dan UMKM\|Kemudahan, Pelindungan, dan Pemberdayaan Koperasi dan UMKM]] | PP | berlaku |
 | PUTUSAN-MK 2/2021 | [[PUTUSAN-MK 2-2021 - Penegasan Eksekusi Fidusia\|Putusan Mahkamah Konstitusi Nomor 2/PUU-XIX/2021]] | PUTUSAN-MK | berlaku |
 | PUTUSAN-MK 18/2019 | [[PUTUSAN-MK 18-2019 - Eksekusi Jaminan Fidusia\|Putusan Mahkamah Konstitusi Nomor 18/PUU-XVII/2019]] | PUTUSAN-MK | berlaku |
-| POJK 19/2018 | [[POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS\|Perubahan POJK Kualitas Aset BUS dan UUS]] | POJK | berlaku |
+| POJK 19/2018 | [[POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS\|Perubahan POJK Kualitas Aset BUS dan UUS]] | POJK | dicabut |
 | POJK 18/2017 | [[POJK 18-2017 - Pelaporan dan Permintaan Informasi Debitur SLIK\|Pelaporan dan Permintaan Informasi Debitur SLIK]] | POJK | berlaku |
 | POJK 42/2017 | [[POJK 42-2017 - Kebijakan Perkreditan Bank Umum\|Kebijakan Perkreditan Bank Umum]] | POJK | berlaku |
 | POJK 65/2016 | [[POJK 65-2016 - Manajemen Risiko BUS dan UUS\|Manajemen Risiko BUS dan UUS]] | POJK | berlaku |
@@ -74,8 +74,8 @@ SORT tahun DESC
 | PP 21/2015 | [[PP 21-2015 - Pendaftaran Jaminan Fidusia\|Tata Cara Pendaftaran Jaminan Fidusia dan Biaya Pembuatan Akta Ja]] | PP | berlaku |
 | SEOJK 8/2015 | [[SEOJK 8-2015 - Penilaian Kualitas Aset BUS dan UUS\|Penilaian Kualitas Aset BUS dan UUS]] | SEOJK | berlaku |
 | UU 40/2014 | [[UU 40-2014 - Perasuransian\|Perasuransian]] | UU | berlaku |
-| PERMENKUMHAM 10/2013 | [[PERMENKUMHAM 10-2013 - Pendaftaran Fidusia Elektronik\|Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik]] | PERMENKUMHAM | berlaku |
-| POJK 1/2013 | [[POJK 1-2013 - Perlindungan Konsumen Sektor Jasa Keuangan\|Perlindungan Konsumen Sektor Jasa Keuangan]] | POJK | berlaku |
+| PERMENKUMHAM 10/2013 | [[PERMENKUMHAM 10-2013 - Pendaftaran Fidusia Elektronik\|Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik]] | PERMENKUMHAM | dicabut |
+| POJK 1/2013 | [[POJK 1-2013 - Perlindungan Konsumen Sektor Jasa Keuangan\|Perlindungan Konsumen Sektor Jasa Keuangan]] | POJK | dicabut |
 | UU 1/2013 | [[UU 1-2013 - LKM\|Lembaga Keuangan Mikro]] | UU | berlaku |
 | UU 10/2011 | [[UU 10-2011 - PBK Perubahan\|Perubahan atas UU 32-1997 tentang Perdagangan Berjangka Komoditi]] | UU | berlaku |
 | UU 21/2011 | [[UU 21-2011 - OJK\|Otoritas Jasa Keuangan]] | UU | berlaku |
@@ -97,4 +97,4 @@ SORT tahun DESC
 | UU 8/1995 | [[UU 8-1995 - Pasar Modal\|Pasar Modal]] | UU | berlaku |
 | UU 25/1992 | [[UU 25-1992 - Perkoperasian\|Perkoperasian]] | UU | berlaku |
 | UU 7/1992 | [[UU 7-1992 - Perbankan 1992\|Perbankan]] | UU | berlaku |
-| INPRES 4/1984 | [[INPRES 4-1984 - Pembinaan dan Pengembangan KUD\|Pembinaan dan Pengembangan KUD]] | INPRES | perlu-verifikasi |
+| INPRES 4/1984 | [[INPRES 4-1984 - Pembinaan dan Pengembangan KUD\|Pembinaan dan Pengembangan KUD]] | INPRES | dicabut |

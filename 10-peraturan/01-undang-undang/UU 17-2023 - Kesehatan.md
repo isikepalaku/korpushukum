@@ -7,22 +7,28 @@ tahun: 2023
 judul: "Kesehatan"
 judul_singkat: "Kesehatan"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2023-08-08
+berlaku_mulai: 2023-08-08
+mencabut: ["UU 18/2014", "UU 20/2013", "UU 29/2004", "UU 36/2009", "UU 36/2014", "UU 38/2014", "UU 4/1984", "UU 4/2019", "UU 44/2009", "UU 6/2018"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "JDIH BPK RI"
+sumber: "https://peraturan.bpk.go.id/Details/258028/uu-no-17-tahun-2023"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Kesehatan
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI
 

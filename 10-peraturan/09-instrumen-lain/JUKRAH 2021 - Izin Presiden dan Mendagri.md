@@ -2,11 +2,12 @@
 id: "JUKRAH 2021"
 jenis: JUKRAH
 lembaga: "Petunjuk dan Kerangka Hukum"
-tahun: 2021
 nomor: null
+tahun: 2021
 judul: "HALAMAN 1"
 judul_singkat: "Izin Presiden dan Mendagri"
 status: perlu-verifikasi
+status_catatan: "Tidak terverifikasi via JDIH BPK: nomor/tahun kosong/tidak valid. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -15,9 +16,10 @@ terkait: []
 bidang: [umum]
 tags: [jenis/jukrah, bidang/umum, status/perlu-verifikasi]
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # HALAMAN 1
 

@@ -7,6 +7,9 @@ tahun: 2026
 judul: "Pelaksanaan PP 17 Tahun 2025 Pelindungan Anak"
 judul_singkat: "Pelaksanaan PP 17-2025 Pelindungan Anak"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2026-03-06
+berlaku_mulai: 2026-03-06
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,15 +17,19 @@ diubah_oleh: []
 terkait: ["PP 17/2025"]
 bidang: [siber]
 tags: [jenis/permenkomdigi, bidang/siber, status/berlaku]
-sumber: "https://jdih.komdigi.go.id/produk_hukum/view/id/1007/t/peraturan+menteri+komunikasi+dan+digital+nomor+9+tahun+2026"
+sumber: "https://peraturan.bpk.go.id/Details/346040/permenkomdigi-no-9-tahun-2026"
+sumber_alternatif: "https://jdih.komdigi.go.id/produk_hukum/view/id/1007/t/peraturan+menteri+komunikasi+dan+digital+nomor+9+tahun+2026"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Pelaksanaan PP 17 Tahun 2025 Pelindungan Anak
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://jdih.komdigi.go.id/produk_hukum/view/id/1007/t/peraturan+menteri+komunikasi+dan+digital+nomor+9+tahun+2026
 

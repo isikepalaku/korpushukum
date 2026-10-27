@@ -7,6 +7,7 @@ tahun: 2024
 judul: "Pergadaian"
 judul_singkat: "Pergadaian"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-39-Tahun-2024-Pergadaian.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Pergadaian
 

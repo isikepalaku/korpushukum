@@ -7,22 +7,28 @@ tahun: 2025
 judul: "Perubahan atas POJK 27-2024 (Aset Keuangan Digital Termasuk Aset Kripto)"
 judul_singkat: "Perubahan atas POJK 27-2024 (Aset Keuangan Digital"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2025-10-31
+berlaku_mulai: 2025-11-10
 mencabut: []
 dicabut_oleh: []
-mengubah: []
+mengubah: ["POJK 27/2024"]
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/343935/peraturan-ojk-no-23-tahun-2025"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan atas POJK 27-2024 (Aset Keuangan Digital Termasuk Aset Kripto)
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/343935/peraturan-ojk-no-23-tahun-2025
 

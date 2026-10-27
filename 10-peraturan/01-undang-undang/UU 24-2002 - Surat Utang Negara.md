@@ -7,22 +7,28 @@ tahun: 2002
 judul: "Surat Utang Negara"
 judul_singkat: "Surat Utang Negara"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2002-10-22
+berlaku_mulai: 2002-10-22
 mencabut: []
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: []
+diubah_oleh: ["UU 4/2023"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/44476/uu-no-24-tahun-2002"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Surat Utang Negara
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/44476/uu-no-24-tahun-2002
 

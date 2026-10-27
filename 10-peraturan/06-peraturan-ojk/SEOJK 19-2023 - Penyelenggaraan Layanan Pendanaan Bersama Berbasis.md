@@ -7,6 +7,7 @@ tahun: 2023
 judul: "Penyelenggaraan Layanan Pendanaan Bersama Berbasis Teknologi Informasi"
 judul_singkat: "Penyelenggaraan Layanan Pendanaan Bersama Berbasis"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/seojk, bidang/keuangan, status/berlaku]
 sumber: "https://ojk.go.id/id/regulasi/Pages/Penyelenggaraan-Layanan-Pendanaan-Bersama-Berbasis-Teknologi-Informasi-(LPBBTI).aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Penyelenggaraan Layanan Pendanaan Bersama Berbasis Teknologi Informasi
 

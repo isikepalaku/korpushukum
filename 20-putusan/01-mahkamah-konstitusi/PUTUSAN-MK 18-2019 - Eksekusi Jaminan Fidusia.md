@@ -7,6 +7,7 @@ tahun: 2019
 judul: "Putusan Mahkamah Konstitusi Nomor 18/PUU-XVII/2019"
 judul_singkat: "Eksekusi Jaminan Fidusia"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/putusan-mk, bidang/keuangan, status/berlaku]
 sumber: "https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_6694.pdf"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Putusan Mahkamah Konstitusi Nomor 18/PUU-XVII/2019
 

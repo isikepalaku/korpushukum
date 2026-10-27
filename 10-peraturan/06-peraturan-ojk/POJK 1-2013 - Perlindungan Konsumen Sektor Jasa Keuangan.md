@@ -6,25 +6,32 @@ nomor: 1
 tahun: 2013
 judul: "Perlindungan Konsumen Sektor Jasa Keuangan"
 judul_singkat: "Perlindungan Konsumen Sektor Jasa Keuangan"
-status: berlaku
+status: dicabut
+status_bpk: "Tidak Berlaku"
+status_catatan: "JDIH BPK: Tidak Berlaku (dicek 2026-10-28). "
+ditetapkan: 2013-07-26
+berlaku_mulai: 2014-08-06
 mencabut: []
-dicabut_oleh: []
+dicabut_oleh: ["POJK 6/2022", "POJK 76/2016"]
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
-tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "30-sumber/POJK 1-2013 - Perlindungan Konsumen Sektor Jasa Keuangan.pdf"
-verifikasi: belum
-last_updated: 2026-10-28
+tags: [jenis/pojk, bidang/keuangan, status/dicabut]
+sumber: "https://peraturan.bpk.go.id/Details/128325/peraturan-ojk-no-1pojk072013-tahun-2013"
 kelengkapan: lengkap
 parser: "pymupdf4llm 2.0"
 parsed_at: 2026-10-28
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
+last_updated: 2026-10-28
 ---
+
 
 # Perlindungan Konsumen Sektor Jasa Keuangan
 
-**Status:** `berlaku`
+**Status:** `dicabut` · JDIH BPK: `Tidak Berlaku`
 
 > Sumber: `30-sumber/POJK 1-2013 - Perlindungan Konsumen Sektor Jasa Keuangan.pdf`
 

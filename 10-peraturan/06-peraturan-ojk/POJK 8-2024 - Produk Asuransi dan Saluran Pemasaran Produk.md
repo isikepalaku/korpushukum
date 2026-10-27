@@ -7,7 +7,10 @@ tahun: 2024
 judul: "Produk Asuransi dan Saluran Pemasaran Produk Asuransi"
 judul_singkat: "Produk Asuransi dan Saluran Pemasaran Produk"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2024-04-25
+berlaku_mulai: 2024-10-29
+mencabut: ["POJK 23/2015"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/301700/peraturan-ojk-no-8-tahun-2024"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Produk Asuransi dan Saluran Pemasaran Produk Asuransi
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/301700/peraturan-ojk-no-8-tahun-2024
 

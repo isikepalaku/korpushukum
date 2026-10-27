@@ -7,7 +7,10 @@ tahun: 2024
 judul: "Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah"
 judul_singkat: "Bank Perekonomian Rakyat dan Bank Perekonomian"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2024-04-25
+berlaku_mulai: 2024-04-30
+mencabut: ["POJK 21/2019", "POJK 62/2020"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/301695/peraturan-ojk-no-7-tahun-2024"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/301695/peraturan-ojk-no-7-tahun-2024
 

@@ -7,22 +7,29 @@ tahun: 2023
 judul: "Penerapan Program APU, PPT, dan PPPSPM di Sektor Jasa Keuangan"
 judul_singkat: "Penerapan Program APU, PPT, dan PPPSPM di Sektor"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2023-06-14
+berlaku_mulai: 2023-06-14
+mencabut: ["POJK 23/2019"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-APU-PPT-dan-PPPSPM-di-SJK.aspx"
+sumber: "https://peraturan.bpk.go.id/Details/272022/peraturan-ojk-no-8-tahun-2023"
+sumber_alternatif: "https://ojk.go.id/id/regulasi/Pages/POJK-APU-PPT-dan-PPPSPM-di-SJK.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penerapan Program APU, PPT, dan PPPSPM di Sektor Jasa Keuangan
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-APU-PPT-dan-PPPSPM-di-SJK.aspx
 

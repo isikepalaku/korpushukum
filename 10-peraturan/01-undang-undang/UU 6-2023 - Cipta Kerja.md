@@ -7,23 +7,29 @@ tahun: 2023
 judul: "Cipta Kerja"
 judul_singkat: "Cipta Kerja"
 status: berlaku
+status_bpk: "Berlaku"
 status_catatan: "Cipta Kerja; perbaikan formil pasca Putusan MK 91/PUU-XVIII/2021."
-mencabut: []
+ditetapkan: 2023-03-31
+berlaku_mulai: 2023-03-31
+mencabut: ["UU 11/2020"]
 dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
+mengubah: ["UU 1/2009", "UU 1/2011", "UU 1/2014", "UU 10/1997", "UU 10/1998", "UU 10/2009", "UU 11/2019", "UU 13/2003", "UU 13/2010", "UU 13/2016", "UU 16/2012", "UU 17/2008", "UU 17/2019", "UU 18/2009", "UU 18/2012", "UU 18/2013", "UU 18/2017", "UU 19/2003", "UU 19/2004", "UU 19/2013", "UU 2/1981", "UU 2/2002", "UU 2/2012", "UU 2/2015", "UU 2/2017", "UU 2/2022", "UU 20/2008", "UU 20/2011", "UU 20/2016", "UU 21/2008", "UU 21/2014", "UU 22/2001", "UU 22/2009", "UU 22/2019", "UU 23/2007", "UU 23/2014", "UU 24/2011", "UU 25/1992", "UU 25/2007", "UU 26/2007", "UU 27/2007", "UU 28/2002", "UU 29/2000", "UU 3/1982", "UU 3/2014", "UU 3/2020", "UU 30/2009", "UU 30/2014", "UU 31/2004", "UU 32/2002", "UU 32/2009", "UU 32/2014", "UU 33/2009", "UU 33/2014", "UU 35/2009", "UU 36/1999", "UU 36/2000", "UU 36/2009", "UU 37/2000", "UU 38/2004", "UU 38/2009", "UU 39/2009", "UU 39/2014", "UU 4/2009", "UU 4/2011", "UU 40/2004", "UU 40/2007", "UU 41/1999", "UU 41/2009", "UU 41/2014", "UU 44/2007", "UU 44/2009", "UU 45/2009", "UU 5/1997", "UU 5/1999", "UU 6/1983", "UU 6/2011", "UU 6/2014", "UU 6/2017", "UU 7/1983", "UU 7/1992", "UU 7/2014", "UU 7/2016", "UU 7/2021", "UU 8/1983", "UU 8/2019", "UU 9/2015"]
+diubah_oleh: ["UU 1/2025", "UU 1/2026", "UU 14/2025", "UU 16/2025", "UU 18/2025", "UU 2/2025", "UU 3/2024", "UU 5/2026", "UU 63/2024", "UU 65/2024", "UU 66/2024"]
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "JDIH BPK RI"
+sumber: "https://peraturan.bpk.go.id/Details/246523/uu-no-6-tahun-2023"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Cipta Kerja
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Cipta Kerja; perbaikan formil pasca Putusan MK 91/PUU-XVIII/2021.
 

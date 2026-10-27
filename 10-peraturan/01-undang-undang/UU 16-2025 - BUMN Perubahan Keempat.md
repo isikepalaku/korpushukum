@@ -7,22 +7,28 @@ tahun: 2025
 judul: "Perubahan Keempat UU BUMN"
 judul_singkat: "BUMN Perubahan Keempat"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2025-10-06
+berlaku_mulai: 2025-10-06
 mencabut: []
 dicabut_oleh: []
-mengubah: []
+mengubah: ["UU 1/2025", "UU 11/2020", "UU 19/2003", "UU 6/2023"]
 diubah_oleh: []
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "JDIH BPK RI"
+sumber: "https://peraturan.bpk.go.id/Details/330668/uu-no-16-tahun-2025"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan Keempat UU BUMN
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI
 

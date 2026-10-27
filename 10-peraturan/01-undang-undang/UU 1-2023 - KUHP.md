@@ -7,10 +7,12 @@ tahun: 2023
 judul: "KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana"
 judul_singkat: "KUHP"
 status: berlaku
+status_bpk: "Berlaku"
 status_catatan: "KUHP nasional; berlaku 3 tahun setelah diundangkan, diubah oleh UU 1/2026."
 ditetapkan: 2023-01-02
 berlaku_mulai: 2026-01-02
-mencabut: ["UU 1/1946"]
+mencabut: ["PERPPU 16/1960", "PERPPU 18/1960", "UU 1/1946", "UU 1/1960", "UU 27/1999", "UU 4/1976", "UU 7/1974", "UU 73/1958"]
+mencabut_sebagian: ["UU 11/2008", "UU 13/2006", "UU 15/2003", "UU 17/2016", "UU 18/2012", "UU 19/2016", "UU 20/2001", "UU 20/2003", "UU 21/2007", "UU 23/2002", "UU 24/2009", "UU 26/2000", "UU 31/1999", "UU 31/2014", "UU 35/2009", "UU 35/2014", "UU 36/2009", "UU 40/2008", "UU 44/2008", "UU 5/2018", "UU 6/2011", "UU 7/2011", "UU 8/2010", "UU 9/2013", "UUDrt No. 1 Tahun 1951", "UUDrt No. 12 Tahun 1951"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: ["UU 1/2026"]
@@ -19,13 +21,16 @@ bidang: [pidana]
 tags: [jenis/uu, bidang/pidana, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/234935/uu-no-1-tahun-2023"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
 
-**Status:** `berlaku` · **Ditetapkan:** 2023-01-02 · **Berlaku:** 2026-01-02
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > KUHP nasional; berlaku 3 tahun setelah diundangkan, diubah oleh UU 1/2026.
 

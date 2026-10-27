@@ -7,6 +7,7 @@ tahun: 2024
 judul: "Pengembangan dan Penguatan Pengelolaan Investasi di Pasar Modal"
 judul_singkat: "Pengembangan dan Penguatan Pengelolaan Investasi di"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-33-2024-Pengembangan-dan-Penguatan-Pengelolaan-Investasi-di-Pasar-Modal.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Pengembangan dan Penguatan Pengelolaan Investasi di Pasar Modal
 

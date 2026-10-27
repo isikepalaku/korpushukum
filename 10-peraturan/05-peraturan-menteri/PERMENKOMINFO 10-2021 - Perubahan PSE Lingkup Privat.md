@@ -7,22 +7,28 @@ tahun: 2021
 judul: "Perubahan atas Permenkominfo 5-2020 tentang PSE Lingkup Privat"
 judul_singkat: "Perubahan PSE Lingkup Privat"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2021-05-21
+berlaku_mulai: 2021-05-21
 mencabut: []
 dicabut_oleh: []
-mengubah: []
+mengubah: ["PERMENKOMINFO 5/2020"]
 diubah_oleh: []
 terkait: []
 bidang: [siber]
 tags: [jenis/permenkominfo, bidang/siber, status/berlaku]
-sumber: "JDIH Kominfo / Kemenkomdigi RI (BN 2021 No. 567)"
+sumber: "https://peraturan.bpk.go.id/Details/203121/permenkominfo-no-10-tahun-2021"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan atas Permenkominfo 5-2020 tentang PSE Lingkup Privat
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH Kominfo / Kemenkomdigi RI (BN 2021 No. 567)
 

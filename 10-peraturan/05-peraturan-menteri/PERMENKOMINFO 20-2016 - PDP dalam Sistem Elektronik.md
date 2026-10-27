@@ -7,6 +7,9 @@ tahun: 2016
 judul: "Perlindungan Data Pribadi dalam Sistem Elektronik"
 judul_singkat: "PDP dalam Sistem Elektronik"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2016-11-07
+berlaku_mulai: 2016-12-01
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,15 +17,19 @@ diubah_oleh: []
 terkait: []
 bidang: [siber]
 tags: [jenis/permenkominfo, bidang/siber, status/berlaku]
-sumber: "https://jdih.komdigi.go.id/produk_hukum/view/id/553/t/peraturan+menteri+komunikasi+dan+informatika+nomor+20+tahun+2016+tanggal+1+desember+2016"
+sumber: "https://peraturan.bpk.go.id/Details/150543/permenkominfo-no-20-tahun-2016"
+sumber_alternatif: "https://jdih.komdigi.go.id/produk_hukum/view/id/553/t/peraturan+menteri+komunikasi+dan+informatika+nomor+20+tahun+2016+tanggal+1+desember+2016"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perlindungan Data Pribadi dalam Sistem Elektronik
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://jdih.komdigi.go.id/produk_hukum/view/id/553/t/peraturan+menteri+komunikasi+dan+informatika+nomor+20+tahun+2016+tanggal+1+desember+2016
 

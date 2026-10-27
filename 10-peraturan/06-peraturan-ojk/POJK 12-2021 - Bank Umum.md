@@ -7,7 +7,10 @@ tahun: 2021
 judul: "Bank Umum"
 judul_singkat: "Bank Umum"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2021-07-30
+berlaku_mulai: 2021-10-30
+mencabut: ["POJK 17/2018", "POJK 6/2016", "Peraturan BI No. 13/27/PBI/2011"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/227209/peraturan-ojk-no-12pojk032021-tahun-2021"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Bank Umum
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/227209/peraturan-ojk-no-12pojk032021-tahun-2021
 

@@ -7,25 +7,30 @@ tahun: 1946
 judul: "KUHP Lama"
 judul_singkat: "KUHP Lama"
 status: dicabut
+status_bpk: "Tidak Berlaku"
 status_catatan: "KUHP kolonial (WvS); dicabut oleh UU 1/2023 sejak 2 Januari 2026."
+ditetapkan: 1946-02-26
 mencabut: []
-dicabut_oleh: ["UU 1/2023"]
+dicabut_oleh: ["UU 1/2023", "UU 21/2007"]
 mengubah: []
-diubah_oleh: []
+diubah_oleh: ["UU 27/1999", "UU 4/1976", "UU 73/1958"]
 terkait: []
 bidang: [pidana]
 tags: [jenis/uu, bidang/pidana, status/dicabut]
-sumber: "30-sumber/UU 1-1946 - KUHP Lama.pdf"
-verifikasi: belum
-last_updated: 2026-10-28
+sumber: "https://peraturan.bpk.go.id/Details/25029/uu-no-1-tahun-1946"
 kelengkapan: lengkap
 parser: "pymupdf4llm 2.0"
 parsed_at: 2026-10-28
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
+last_updated: 2026-10-28
 ---
+
 
 # KUHP Lama
 
-**Status:** `dicabut`
+**Status:** `dicabut` · JDIH BPK: `Tidak Berlaku`
 
 > Sumber: `30-sumber/UU 1-1946 - KUHP Lama.pdf`
 

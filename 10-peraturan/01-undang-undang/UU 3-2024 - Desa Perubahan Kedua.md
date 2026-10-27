@@ -7,22 +7,28 @@ tahun: 2024
 judul: "Perubahan Kedua UU Desa"
 judul_singkat: "Desa Perubahan Kedua"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2024-04-25
+berlaku_mulai: 2024-04-25
 mencabut: []
 dicabut_oleh: []
-mengubah: []
+mengubah: ["UU 6/2014", "UU 6/2023"]
 diubah_oleh: []
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "JDIH BPK RI"
+sumber: "https://peraturan.bpk.go.id/Details/283617/uu-no-3-tahun-2024"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan Kedua UU Desa
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI
 

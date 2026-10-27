@@ -7,22 +7,28 @@ tahun: 2026
 judul: "Perubahan Ketiga UU Kepolisian"
 judul_singkat: "Kepolisian Perubahan Ketiga"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2026-06-17
+berlaku_mulai: 2026-06-17
 mencabut: []
 dicabut_oleh: []
-mengubah: []
+mengubah: ["UU 11/2020", "UU 2/2002", "UU 6/2023"]
 diubah_oleh: []
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "JDIH BPK RI"
+sumber: "https://peraturan.bpk.go.id/Details/350096/uu-no-5-tahun-2026"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan Ketiga UU Kepolisian
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI
 

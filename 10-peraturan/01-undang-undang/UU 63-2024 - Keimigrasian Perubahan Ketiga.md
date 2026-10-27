@@ -7,22 +7,28 @@ tahun: 2024
 judul: "Perubahan Ketiga UU Keimigrasian"
 judul_singkat: "Keimigrasian Perubahan Ketiga"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2024-10-17
+berlaku_mulai: 2024-10-17
 mencabut: []
 dicabut_oleh: []
-mengubah: []
+mengubah: ["UU 11/2020", "UU 6/2011", "UU 6/2023"]
 diubah_oleh: []
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "JDIH BPK RI"
+sumber: "https://peraturan.bpk.go.id/Details/304897/uu-no-63-tahun-2024"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan Ketiga UU Keimigrasian
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI
 

@@ -6,23 +6,30 @@ nomor: 19
 tahun: 2014
 judul: "Penanganan Situs Internet Bermuatan Negatif"
 judul_singkat: "Penanganan Situs Bermuatan Negatif"
-status: berlaku
+status: dicabut
+status_bpk: "Tidak Berlaku"
+status_catatan: "JDIH BPK: Tidak Berlaku (dicek 2026-10-28). "
+ditetapkan: 2014-07-07
+berlaku_mulai: 2014-07-17
 mencabut: []
-dicabut_oleh: []
+dicabut_oleh: ["PERMENKOMINFO 5/2020"]
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [siber]
-tags: [jenis/permenkominfo, bidang/siber, status/berlaku]
-sumber: "JDIH Kominfo RI (BN 2014 No. 977)"
+tags: [jenis/permenkominfo, bidang/siber, status/dicabut]
+sumber: "https://peraturan.bpk.go.id/Details/161734/permenkominfo-no-19-tahun-2014"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penanganan Situs Internet Bermuatan Negatif
 
-**Status:** `berlaku`
+**Status:** `dicabut` · JDIH BPK: `Tidak Berlaku`
 
 > Sumber: JDIH Kominfo RI (BN 2014 No. 977)
 

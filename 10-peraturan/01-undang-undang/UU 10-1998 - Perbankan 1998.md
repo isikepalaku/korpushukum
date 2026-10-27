@@ -7,22 +7,28 @@ tahun: 1998
 judul: "Perubahan atas UU 7-1992 tentang Perbankan"
 judul_singkat: "Perbankan 1998"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 1998-11-10
+berlaku_mulai: 1998-11-10
+mencabut: ["PERPPU 21/1960"]
 dicabut_oleh: []
 mengubah: ["UU 7/1992"]
-diubah_oleh: []
+diubah_oleh: ["PERPPU 2/2022", "UU 11/2020", "UU 4/2023", "UU 6/2023"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/45486/uu-no-10-tahun-1998"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan atas UU 7-1992 tentang Perbankan
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/45486/uu-no-10-tahun-1998
 

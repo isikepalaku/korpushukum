@@ -7,6 +7,7 @@ tahun: 2026
 judul: "Layanan Jejaring dan Media Sosial Profil Risiko Tinggi"
 judul_singkat: "Layanan Jejaring dan Media Sosial Risiko Tinggi"
 status: perlu-verifikasi
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [siber]
 tags: [jenis/kepmenkomdigi, bidang/siber, status/perlu-verifikasi]
 sumber: "https://jdih.komdigi.go.id/produk_hukum/view/id/1008/t/keputusan+menteri+komunikasi+dan+digital+nomor+140+tahun+2026"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Layanan Jejaring dan Media Sosial Profil Risiko Tinggi
 

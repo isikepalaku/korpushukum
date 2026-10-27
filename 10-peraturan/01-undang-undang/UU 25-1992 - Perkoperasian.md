@@ -7,23 +7,29 @@ tahun: 1992
 judul: "Perkoperasian"
 judul_singkat: "Perkoperasian"
 status: berlaku
+status_bpk: "Berlaku"
 status_catatan: "UU 17/2012 yang mencabut dibatalkan MK (28/PUU-XI/2013); status positif perlu konfirmasi."
-mencabut: []
+ditetapkan: 1992-10-21
+berlaku_mulai: 1992-10-21
+mencabut: ["UU 12/1967"]
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: []
+diubah_oleh: ["PERPPU 2/2022", "UU 11/2020", "UU 4/2023", "UU 6/2023"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/46650/uu-no-25-tahun-1992"
 kelengkapan: lengkap
-verifikasi: perlu-cek
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perkoperasian
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > UU 17/2012 yang mencabut dibatalkan MK (28/PUU-XI/2013); status positif perlu konfirmasi.
 

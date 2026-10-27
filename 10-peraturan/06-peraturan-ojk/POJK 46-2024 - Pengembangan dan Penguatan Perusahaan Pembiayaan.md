@@ -7,6 +7,9 @@ tahun: 2024
 judul: "Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaan Infrastruktur, dan Perusahaan Modal Ventura"
 judul_singkat: "Pengembangan dan Penguatan Perusahaan Pembiayaan"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2024-12-30
+berlaku_mulai: 2024-12-31
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/348711/peraturan-ojk-no-46-tahun-2024"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaan Infrastruktur, dan Perusahaan Modal Ventura
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/348711/peraturan-ojk-no-46-tahun-2024
 

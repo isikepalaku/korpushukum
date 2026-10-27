@@ -6,25 +6,32 @@ nomor: 19
 tahun: 2018
 judul: "Perubahan POJK Kualitas Aset BUS dan UUS"
 judul_singkat: "Perubahan POJK Kualitas Aset BUS dan UUS"
-status: berlaku
+status: dicabut
+status_bpk: "Tidak Berlaku"
+status_catatan: "JDIH BPK: Tidak Berlaku (dicek 2026-10-28). "
+ditetapkan: 2018-09-20
+berlaku_mulai: 2018-09-20
 mencabut: []
-dicabut_oleh: []
-mengubah: []
+dicabut_oleh: ["POJK 2/2022"]
+mengubah: ["POJK 16/2014"]
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
-tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "30-sumber/POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS.pdf"
-verifikasi: belum
-last_updated: 2026-10-28
+tags: [jenis/pojk, bidang/keuangan, status/dicabut]
+sumber: "https://peraturan.bpk.go.id/Details/128631/peraturan-ojk-no-19-pojk032018-tahun-2018"
 kelengkapan: lengkap
 parser: "pymupdf4llm 2.0"
 parsed_at: 2026-10-28
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
+last_updated: 2026-10-28
 ---
+
 
 # Perubahan POJK Kualitas Aset BUS dan UUS
 
-**Status:** `berlaku`
+**Status:** `dicabut` · JDIH BPK: `Tidak Berlaku`
 
 > Sumber: `30-sumber/POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS.pdf`
 

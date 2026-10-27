@@ -6,25 +6,32 @@ nomor: 4
 tahun: 1984
 judul: "Pembinaan dan Pengembangan KUD"
 judul_singkat: "Pembinaan dan Pengembangan KUD"
-status: perlu-verifikasi
+status: dicabut
+status_bpk: "Tidak Berlaku"
+status_catatan: "JDIH BPK: Tidak Berlaku (dicek 2026-10-28). "
+ditetapkan: 1984-03-27
+berlaku_mulai: 1984-03-27
 mencabut: []
-dicabut_oleh: []
+dicabut_oleh: ["INPRES 18/1998"]
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
-tags: [jenis/inpres, bidang/keuangan, status/perlu-verifikasi]
-sumber: "30-sumber/INPRES 4-1984 - Pembinaan dan Pengembangan KUD.pdf"
-verifikasi: belum
-last_updated: 2026-10-28
+tags: [jenis/inpres, bidang/keuangan, status/dicabut]
+sumber: "https://peraturan.bpk.go.id/Details/286510/inpres-no-4-tahun-1984-pembinaan-dan-pengembangan-koperasi-unit-desa-kud"
 kelengkapan: lengkap
 parser: "pymupdf4llm 2.0"
 parsed_at: 2026-10-28
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
+last_updated: 2026-10-28
 ---
+
 
 # Pembinaan dan Pengembangan KUD
 
-**Status:** `perlu-verifikasi`
+**Status:** `dicabut` · JDIH BPK: `Tidak Berlaku`
 
 > Sumber: `30-sumber/INPRES 4-1984 - Pembinaan dan Pengembangan KUD.pdf`
 

@@ -7,22 +7,28 @@ tahun: 1992
 judul: "Perbankan"
 judul_singkat: "Perbankan 1992"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 1992-03-25
+berlaku_mulai: 1992-03-25
+mencabut: ["PERPPU 17/1962", "UU 12/1962", "UU 13/1962", "UU 14/1967", "UU 17/1968", "UU 18/1968", "UU 19/1968", "UU 20/1968", "UU 21/1968", "UU 22/1968"]
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: ["UU 10/1998"]
+diubah_oleh: ["PERPPU 2/2022", "UU 10/1998", "UU 11/2020", "UU 4/2023", "UU 6/2023"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/46599/uu-no-7-tahun-1992"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perbankan
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/46599/uu-no-7-tahun-1992
 

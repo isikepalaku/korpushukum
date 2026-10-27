@@ -7,22 +7,29 @@ tahun: 2022
 judul: "Bank Umum Syariah"
 judul_singkat: "Bank Umum Syariah"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2022-08-30
+berlaku_mulai: 2022-11-30
+mencabut: ["POJK 28/2019", "Peraturan BI No. 11/3/PBI/2009", "Peraturan BI No. 15/13/PBI/2013 Tahun 2013"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://ojk.go.id/id/regulasi/Pages/Bank-Umum-Syariah.aspx"
+sumber: "https://peraturan.bpk.go.id/Details/227442/peraturan-ojk-no-16pojk032022-tahun-2022"
+sumber_alternatif: "https://ojk.go.id/id/regulasi/Pages/Bank-Umum-Syariah.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Bank Umum Syariah
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/Bank-Umum-Syariah.aspx
 

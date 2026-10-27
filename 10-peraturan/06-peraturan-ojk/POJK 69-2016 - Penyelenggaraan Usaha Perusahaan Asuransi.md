@@ -7,22 +7,28 @@ tahun: 2016
 judul: "Penyelenggaraan Usaha Perusahaan Asuransi, Perusahaan Asuransi Syariah, Perusahaan Reasuransi, dan Perusahaan Reasuransi Syariah"
 judul_singkat: "Penyelenggaraan Usaha Perusahaan Asuransi"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2016-12-23
+berlaku_mulai: 2016-12-28
 mencabut: []
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: []
+diubah_oleh: ["POJK 38/2020"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/128416/peraturan-ojk-no-69pojk052016-tahun-2016"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penyelenggaraan Usaha Perusahaan Asuransi, Perusahaan Asuransi Syariah, Perusahaan Reasuransi, dan Perusahaan Reasuransi Syariah
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/128416/peraturan-ojk-no-69pojk052016-tahun-2016
 

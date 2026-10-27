@@ -7,22 +7,28 @@ tahun: 2024
 judul: "UU Nomor 1 Tahun 2024 Perubahan Kedua UU ITE"
 judul_singkat: "ITE Perubahan Kedua"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2024-01-02
+berlaku_mulai: 2024-01-02
 mencabut: []
 dicabut_oleh: []
-mengubah: ["UU 11/2008"]
+mengubah: ["UU 11/2008", "UU 19/2016"]
 diubah_oleh: []
 terkait: []
 bidang: [siber]
 tags: [jenis/uu, bidang/siber, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/details/274494/uu-no-1-tahun-2024"
+sumber: "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # UU Nomor 1 Tahun 2024 Perubahan Kedua UU ITE
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/details/274494/uu-no-1-tahun-2024
 

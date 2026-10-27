@@ -7,22 +7,28 @@ tahun: 2025
 judul: "Pengelolaan Rekening pada Bank Umum"
 judul_singkat: "Pengelolaan Rekening pada Bank Umum"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2025-11-04
+mencabut: ["POJK 1/2022"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-24-Tahun-2025-Pengelolaan-Rekening-pada-Bank-Umum.aspx"
+sumber: "https://peraturan.bpk.go.id/Details/343945/peraturan-ojk-no-24-tahun-2025"
+sumber_alternatif: "https://ojk.go.id/id/regulasi/Pages/POJK-24-Tahun-2025-Pengelolaan-Rekening-pada-Bank-Umum.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Pengelolaan Rekening pada Bank Umum
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-24-Tahun-2025-Pengelolaan-Rekening-pada-Bank-Umum.aspx
 

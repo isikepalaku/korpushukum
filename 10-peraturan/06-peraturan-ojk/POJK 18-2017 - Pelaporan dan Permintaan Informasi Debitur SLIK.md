@@ -7,6 +7,9 @@ tahun: 2017
 judul: "Pelaporan dan Permintaan Informasi Debitur SLIK"
 judul_singkat: "Pelaporan dan Permintaan Informasi Debitur SLIK"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2017-04-26
+berlaku_mulai: 2017-05-05
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,17 +17,20 @@ diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "30-sumber/POJK 18-2017 - Pelaporan dan Permintaan Informasi Debitur SLIK.pdf"
-verifikasi: belum
-last_updated: 2026-10-28
+sumber: "https://peraturan.bpk.go.id/Details/129718/peraturan-ojk-no-18pojk032017-tahun-2017"
 kelengkapan: lengkap
 parser: "pymupdf4llm 2.0"
 parsed_at: 2026-10-28
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
+last_updated: 2026-10-28
 ---
+
 
 # Pelaporan dan Permintaan Informasi Debitur SLIK
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: `30-sumber/POJK 18-2017 - Pelaporan dan Permintaan Informasi Debitur SLIK.pdf`
 

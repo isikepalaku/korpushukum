@@ -7,6 +7,7 @@ tahun: 2025
 judul: "Putusan MK Nomor 139/PUU-XXIII/2025 — Pembayaran Manfaat Pensiun (Pasal 161 ayat (2) dan Pasal 164 ayat (2) UU P2SK)"
 judul_singkat: "Pembayaran Manfaat Dana Pensiun"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/putusan-mk, bidang/keuangan, status/berlaku]
 sumber: "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14530_1782724757.pdf"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Putusan MK Nomor 139/PUU-XXIII/2025 — Pembayaran Manfaat Pensiun (Pasal 161 ayat (2) dan Pasal 164 ayat (2) UU P2SK)
 

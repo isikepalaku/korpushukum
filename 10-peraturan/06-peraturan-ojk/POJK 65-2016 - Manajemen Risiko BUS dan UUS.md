@@ -7,24 +7,30 @@ tahun: 2016
 judul: "Manajemen Risiko BUS dan UUS"
 judul_singkat: "Manajemen Risiko BUS dan UUS"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2016-12-23
+berlaku_mulai: 2016-12-28
+mencabut: ["Peraturan BI No. 13/23/PBI/2011"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "30-sumber/POJK 65-2016 - Manajemen Risiko BUS dan UUS.pdf"
-verifikasi: belum
-last_updated: 2026-10-28
+sumber: "https://peraturan.bpk.go.id/Details/128410/peraturan-ojk-no-65pojk032016-tahun-2016"
 kelengkapan: lengkap
 parser: "pymupdf4llm 2.0"
 parsed_at: 2026-10-28
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
+last_updated: 2026-10-28
 ---
+
 
 # Manajemen Risiko BUS dan UUS
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: `30-sumber/POJK 65-2016 - Manajemen Risiko BUS dan UUS.pdf`
 

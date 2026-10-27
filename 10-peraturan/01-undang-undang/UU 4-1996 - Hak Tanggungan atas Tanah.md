@@ -7,6 +7,9 @@ tahun: 1996
 judul: "Hak Tanggungan atas Tanah"
 judul_singkat: "Hak Tanggungan atas Tanah"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 1996-04-09
+berlaku_mulai: 1996-04-09
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,17 +17,20 @@ diubah_oleh: []
 terkait: []
 bidang: [keuangan, pertanahan]
 tags: [jenis/uu, bidang/keuangan, bidang/pertanahan, status/berlaku]
-sumber: "30-sumber/UU 4-1996 - Hak Tanggungan atas Tanah.html"
-verifikasi: belum
-last_updated: 2026-10-28
+sumber: "https://peraturan.bpk.go.id/Details/46093/uu-no-4-tahun-1996"
 kelengkapan: lengkap
 parser: "bs4+markdownify (tabel diratakan)"
 parsed_at: 2026-10-28
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
+last_updated: 2026-10-28
 ---
+
 
 # Hak Tanggungan atas Tanah
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: `30-sumber/UU 4-1996 - Hak Tanggungan atas Tanah.html`
 

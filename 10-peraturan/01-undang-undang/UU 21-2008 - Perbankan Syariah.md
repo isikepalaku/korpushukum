@@ -7,22 +7,28 @@ tahun: 2008
 judul: "Perbankan Syariah"
 judul_singkat: "Perbankan Syariah"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2008-07-16
+berlaku_mulai: 2008-07-16
 mencabut: []
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: []
+diubah_oleh: ["PERPPU 2/2022", "UU 11/2020", "UU 4/2023", "UU 6/2023"]
 terkait: []
 bidang: [keuangan]
 tags: [jenis/uu, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/39655/uu-no-21-tahun-2008"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perbankan Syariah
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/39655/uu-no-21-tahun-2008
 

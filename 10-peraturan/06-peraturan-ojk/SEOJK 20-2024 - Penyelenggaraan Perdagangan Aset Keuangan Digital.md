@@ -7,6 +7,7 @@ tahun: 2024
 judul: "Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto"
 judul_singkat: "Penyelenggaraan Perdagangan Aset Keuangan Digital"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/seojk, bidang/keuangan, status/berlaku]
 sumber: "https://ojk.go.id/id/regulasi/Pages/SEOJK-20-SEOJK07-2024-Penyelenggaraan-Perdagangan-Aset-Keuangan-Digital-Termasuk-Aset-Kripto.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto
 

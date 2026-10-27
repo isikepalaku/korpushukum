@@ -7,22 +7,28 @@ tahun: 2025
 judul: "Perubahan Ketiga UU BUMN"
 judul_singkat: "BUMN Perubahan Ketiga"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2025-02-24
+berlaku_mulai: 2025-02-24
 mencabut: []
 dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
+mengubah: ["UU 11/2020", "UU 19/2003", "UU 6/2023"]
+diubah_oleh: ["UU 16/2025"]
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "JDIH BPK RI"
+sumber: "https://peraturan.bpk.go.id/Details/314622/uu-no-1-tahun-2025"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan Ketiga UU BUMN
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI
 

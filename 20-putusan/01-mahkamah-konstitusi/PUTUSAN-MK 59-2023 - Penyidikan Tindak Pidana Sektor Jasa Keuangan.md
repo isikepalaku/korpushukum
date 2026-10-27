@@ -7,6 +7,7 @@ tahun: 2023
 judul: "Putusan MK Nomor 59/PUU-XXI/2023 — Penyidikan Tindak Pidana Sektor Jasa Keuangan (Pasal 8 angka 21 UU P2SK)"
 judul_singkat: "Penyidikan Tindak Pidana Sektor Jasa Keuangan"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [keuangan]
 tags: [jenis/putusan-mk, bidang/keuangan, status/berlaku]
 sumber: "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_9488_1703133156.pdf"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Putusan MK Nomor 59/PUU-XXI/2023 — Penyidikan Tindak Pidana Sektor Jasa Keuangan (Pasal 8 angka 21 UU P2SK)
 

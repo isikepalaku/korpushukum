@@ -7,6 +7,9 @@ tahun: 2024
 judul: "Penyelenggaraan Inovasi Teknologi Sektor Keuangan"
 judul_singkat: "Penyelenggaraan Inovasi Teknologi Sektor Keuangan"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2024-02-16
+berlaku_mulai: 2024-02-19
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -14,15 +17,19 @@ diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-3-Tahun-2024-Penyelenggaraan-Inovasi-Teknologi-Sektor-Keuangan.aspx"
+sumber: "https://peraturan.bpk.go.id/Details/301678/peraturan-ojk-no-3-tahun-2024"
+sumber_alternatif: "https://ojk.go.id/id/regulasi/Pages/POJK-3-Tahun-2024-Penyelenggaraan-Inovasi-Teknologi-Sektor-Keuangan.aspx"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penyelenggaraan Inovasi Teknologi Sektor Keuangan
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-3-Tahun-2024-Penyelenggaraan-Inovasi-Teknologi-Sektor-Keuangan.aspx
 

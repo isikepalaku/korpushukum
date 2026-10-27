@@ -7,24 +7,30 @@ tahun: 1998
 judul: "Peningkatan Pembinaan Perkoperasian"
 judul_singkat: "Peningkatan Pembinaan Perkoperasian"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 1998-07-07
+berlaku_mulai: 1998-07-07
+mencabut: ["INPRES 4/1984"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
 bidang: [keuangan]
 tags: [jenis/inpres, bidang/keuangan, status/berlaku]
-sumber: "30-sumber/INPRES 18-1998 - Peningkatan Pembinaan Perkoperasian.pdf"
-verifikasi: belum
-last_updated: 2026-10-28
+sumber: "https://peraturan.bpk.go.id/Details/285830/inpres-no-18-tahun-1998-peningkatan-pembinaan-dan-pengembangan-perkoperasian"
 kelengkapan: lengkap
 parser: "pymupdf4llm 2.0"
 parsed_at: 2026-10-28
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
+last_updated: 2026-10-28
 ---
+
 
 # Peningkatan Pembinaan Perkoperasian
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: `30-sumber/INPRES 18-1998 - Peningkatan Pembinaan Perkoperasian.pdf`
 

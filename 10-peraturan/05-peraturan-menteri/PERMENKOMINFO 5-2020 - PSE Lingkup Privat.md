@@ -7,22 +7,28 @@ tahun: 2020
 judul: "Penyelenggara Sistem Elektronik Lingkup Privat"
 judul_singkat: "PSE Lingkup Privat"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2020-11-16
+berlaku_mulai: 2020-11-24
+mencabut: ["PERMENKOMINFO 19/2014", "PERMENKOMINFO 36/2014"]
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: []
+diubah_oleh: ["PERMENKOMINFO 10/2021"]
 terkait: []
 bidang: [siber]
 tags: [jenis/permenkominfo, bidang/siber, status/berlaku]
-sumber: "JDIH Kominfo / Kemenkomdigi RI (BN 2020 No. 1360)"
+sumber: "https://peraturan.bpk.go.id/Details/203049/permenkominfo-no-5-tahun-2020"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Penyelenggara Sistem Elektronik Lingkup Privat
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH Kominfo / Kemenkomdigi RI (BN 2020 No. 1360)
 

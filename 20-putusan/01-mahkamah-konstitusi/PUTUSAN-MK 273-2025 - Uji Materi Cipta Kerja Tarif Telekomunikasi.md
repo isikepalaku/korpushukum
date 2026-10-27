@@ -7,6 +7,7 @@ tahun: 2025
 judul: "Putusan MK 273-PUU-XXIII-2025 Uji Materi UU Cipta Kerja (Tarif Telekomunikasi)"
 judul_singkat: "Uji Materi Cipta Kerja Tarif Telekomunikasi"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,9 +17,10 @@ bidang: [tipidter]
 tags: [jenis/putusan-mk, bidang/tipidter, status/berlaku]
 sumber: "JDIH BPK RI"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Putusan MK 273-PUU-XXIII-2025 Uji Materi UU Cipta Kerja (Tarif Telekomunikasi)
 

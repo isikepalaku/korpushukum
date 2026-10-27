@@ -7,6 +7,7 @@ tahun: 2025
 judul: "ANALISIS YURIDIS: PUTUSAN MAHKAMAH KONSTITUSI NOMOR 282/PUU-XXIII/2025"
 judul_singkat: "Penghinaan Pemerintah"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -15,9 +16,10 @@ terkait: []
 bidang: [umum]
 tags: [jenis/putusan-mk, bidang/umum, status/berlaku]
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # ANALISIS YURIDIS: PUTUSAN MAHKAMAH KONSTITUSI NOMOR 282/PUU-XXIII/2025
 

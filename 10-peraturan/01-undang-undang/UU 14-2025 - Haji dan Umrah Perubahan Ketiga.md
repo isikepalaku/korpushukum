@@ -7,22 +7,28 @@ tahun: 2025
 judul: "Perubahan Ketiga UU Haji dan Umrah"
 judul_singkat: "Haji dan Umrah Perubahan Ketiga"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2025-09-04
+berlaku_mulai: 2025-09-04
 mencabut: []
 dicabut_oleh: []
-mengubah: []
+mengubah: ["UU 11/2020", "UU 6/2023", "UU 8/2019"]
 diubah_oleh: []
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "JDIH BPK RI"
+sumber: "https://peraturan.bpk.go.id/Details/331538/uu-no-14-tahun-2025"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Perubahan Ketiga UU Haji dan Umrah
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: JDIH BPK RI
 

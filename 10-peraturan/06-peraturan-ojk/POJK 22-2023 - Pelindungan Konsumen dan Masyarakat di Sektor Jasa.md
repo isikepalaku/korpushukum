@@ -7,6 +7,9 @@ tahun: 2023
 judul: "Pelindungan Konsumen dan Masyarakat di Sektor Jasa Keuangan"
 judul_singkat: "Pelindungan Konsumen dan Masyarakat di Sektor Jasa"
 status: berlaku
+status_bpk: "Berlaku"
+ditetapkan: 2023-12-20
+berlaku_mulai: 2023-12-22
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/pojk, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/302699/peraturan-ojk-no-22-tahun-2023"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Pelindungan Konsumen dan Masyarakat di Sektor Jasa Keuangan
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/302699/peraturan-ojk-no-22-tahun-2023
 

@@ -7,6 +7,7 @@ tahun: 2026
 judul: "Peraturan Pelaksanaan UU PDP"
 judul_singkat: "Pelaksanaan UU PDP"
 status: berlaku
+status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -15,9 +16,10 @@ terkait: []
 bidang: [siber]
 tags: [jenis/pp, bidang/siber, status/berlaku]
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: tidak-tersedia
 last_updated: 2026-10-28
 ---
+
 
 # Peraturan Pelaksanaan UU PDP
 

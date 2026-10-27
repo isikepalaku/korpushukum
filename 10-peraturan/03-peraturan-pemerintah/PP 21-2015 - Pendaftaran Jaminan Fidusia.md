@@ -7,7 +7,10 @@ tahun: 2015
 judul: "Tata Cara Pendaftaran Jaminan Fidusia dan Biaya Pembuatan Akta Jaminan Fidusia"
 judul_singkat: "Pendaftaran Jaminan Fidusia"
 status: berlaku
-mencabut: []
+status_bpk: "Berlaku"
+ditetapkan: 2015-04-06
+berlaku_mulai: 2015-04-06
+mencabut: ["PP 86/2000"]
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
@@ -16,13 +19,16 @@ bidang: [keuangan]
 tags: [jenis/pp, bidang/keuangan, status/berlaku]
 sumber: "https://peraturan.bpk.go.id/Details/5585/pp-no-21-tahun-2015"
 kelengkapan: lengkap
-verifikasi: belum
+verifikasi: sudah
+verifikasi_sumber: "JDIH BPK"
+verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
 ---
 
+
 # Tata Cara Pendaftaran Jaminan Fidusia dan Biaya Pembuatan Akta Jaminan Fidusia
 
-**Status:** `berlaku`
+**Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/5585/pp-no-21-tahun-2015
 
