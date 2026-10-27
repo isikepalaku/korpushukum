@@ -21,3 +21,13 @@ last_updated: 2026-10-28
 - Dibuat: `INDEX.md`, `40-kategori/*` (per bidang), `50-glosarium/Glosarium.md`, `AGENTS.md`, `README.md`,
   `90-log/manifest.jsonl`.
 - Status: `verifikasi: belum` untuk seluruh dokumen — verifikasi JDIH BPK belum dijalankan.
+
+## [2026-10-28] ekstraksi | 10 berkas sumber menjadi teks penuh
+
+- Ekstraksi via `pymupdf4llm 2.0` (9 PDF) + `bs4+markdownify` dengan tabel diratakan (1 HTML).
+- 10 halaman stub (`kelengkapan: sumber-pdf-saja`) kini `lengkap`, total **327.119 karakter** teks.
+  - POJK 18/2017 58.137 · SEOJK 8/2015 80.320 · POJK 65/2016 56.585 · POJK 1/2013 31.440 · UU 4/1996 27.915 · POJK 19/2018 22.327 · UU 1/1946 28.026 · POJK 42/2017 10.696 · INPRES 4/1984 4.688 · INPRES 18/1998 3.881.
+- Catatan kualitas: SEOJK 8/2015 memakai struktur angka Romawi (bukan "Pasal") — wajar untuk surat edaran;
+  UU 4/1996 berasal dari HTML Word, tabel layout diratakan agar alur teks terbaca.
+- `parser` + `parsed_at` dicatat di frontmatter tiap halaman; `90-log/manifest.jsonl` diperbarui.
+- Sisa stub: 0. Seluruh 127 dokumen kini punya teks.

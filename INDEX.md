@@ -16,8 +16,8 @@ Korpus **127 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 | Total dokumen | 127 |
 | Peraturan | 113 |
 | Putusan MK | 14 |
-| Teks lengkap | 117 |
-| Hanya berkas sumber | 10 |
+| Teks lengkap | 127 |
+| Hanya berkas sumber | 0 |
 | Status berlaku | 119 |
 | Status dicabut | 1 |
 | Perlu verifikasi status | 7 |
@@ -102,11 +102,11 @@ Korpus **127 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 | UU 42/1999 | [[UU 42-1999 - Jaminan Fidusia\|Jaminan Fidusia]] | berlaku | lengkap |
 | UU 10/1998 | [[UU 10-1998 - Perbankan 1998\|Perubahan atas UU 7-1992 tentang Perbankan]] | berlaku | lengkap |
 | UU 32/1997 | [[UU 32-1997 - Perdagangan Berjangka Komoditi\|Perdagangan Berjangka Komoditi]] | berlaku | lengkap |
-| UU 4/1996 | [[UU 4-1996 - Hak Tanggungan atas Tanah\|Hak Tanggungan atas Tanah]] | berlaku | sumber |
+| UU 4/1996 | [[UU 4-1996 - Hak Tanggungan atas Tanah\|Hak Tanggungan atas Tanah]] | berlaku | lengkap |
 | UU 8/1995 | [[UU 8-1995 - Pasar Modal\|Pasar Modal]] | berlaku | lengkap |
 | UU 7/1992 | [[UU 7-1992 - Perbankan 1992\|Perbankan]] | berlaku | lengkap |
 | UU 25/1992 | [[UU 25-1992 - Perkoperasian\|Perkoperasian]] | berlaku | lengkap |
-| UU 1/1946 | [[UU 1-1946 - KUHP Lama\|KUHP Lama]] | dicabut | sumber |
+| UU 1/1946 | [[UU 1-1946 - KUHP Lama\|KUHP Lama]] | dicabut | lengkap |
 
 ### Peraturan Pemerintah
 
@@ -131,8 +131,8 @@ Korpus **127 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 
 | ID | Judul | Status | Teks |
 | --- | --- | --- | --- |
-| INPRES 18/1998 | [[INPRES 18-1998 - Peningkatan Pembinaan Perkoperasian\|Peningkatan Pembinaan Perkoperasian]] | berlaku | sumber |
-| INPRES 4/1984 | [[INPRES 4-1984 - Pembinaan dan Pengembangan KUD\|Pembinaan dan Pengembangan KUD]] | perlu-verifikasi | sumber |
+| INPRES 18/1998 | [[INPRES 18-1998 - Peningkatan Pembinaan Perkoperasian\|Peningkatan Pembinaan Perkoperasian]] | berlaku | lengkap |
+| INPRES 4/1984 | [[INPRES 4-1984 - Pembinaan dan Pengembangan KUD\|Pembinaan dan Pengembangan KUD]] | perlu-verifikasi | lengkap |
 
 ### Permenkumham
 
@@ -213,12 +213,12 @@ Korpus **127 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 | POJK 11/2022 | [[POJK 11-2022 - Penyelenggaraan Teknologi Informasi oleh Bank Umum\|Penyelenggaraan Teknologi Informasi oleh Bank Umum]] | berlaku | lengkap |
 | POJK 16/2022 | [[POJK 16-2022 - Bank Umum Syariah\|Bank Umum Syariah]] | berlaku | lengkap |
 | POJK 12/2021 | [[POJK 12-2021 - Bank Umum\|Bank Umum]] | berlaku | lengkap |
-| POJK 19/2018 | [[POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS\|Perubahan POJK Kualitas Aset BUS dan UUS]] | berlaku | sumber |
-| POJK 18/2017 | [[POJK 18-2017 - Pelaporan dan Permintaan Informasi Debitur SLIK\|Pelaporan dan Permintaan Informasi Debitur SLIK]] | berlaku | sumber |
-| POJK 42/2017 | [[POJK 42-2017 - Kebijakan Perkreditan Bank Umum\|Kebijakan Perkreditan Bank Umum]] | berlaku | sumber |
-| POJK 65/2016 | [[POJK 65-2016 - Manajemen Risiko BUS dan UUS\|Manajemen Risiko BUS dan UUS]] | berlaku | sumber |
+| POJK 19/2018 | [[POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS\|Perubahan POJK Kualitas Aset BUS dan UUS]] | berlaku | lengkap |
+| POJK 18/2017 | [[POJK 18-2017 - Pelaporan dan Permintaan Informasi Debitur SLIK\|Pelaporan dan Permintaan Informasi Debitur SLIK]] | berlaku | lengkap |
+| POJK 42/2017 | [[POJK 42-2017 - Kebijakan Perkreditan Bank Umum\|Kebijakan Perkreditan Bank Umum]] | berlaku | lengkap |
+| POJK 65/2016 | [[POJK 65-2016 - Manajemen Risiko BUS dan UUS\|Manajemen Risiko BUS dan UUS]] | berlaku | lengkap |
 | POJK 69/2016 | [[POJK 69-2016 - Penyelenggaraan Usaha Perusahaan Asuransi\|Penyelenggaraan Usaha Perusahaan Asuransi, Perusahaan Asuransi Syariah]] | berlaku | lengkap |
-| POJK 1/2013 | [[POJK 1-2013 - Perlindungan Konsumen Sektor Jasa Keuangan\|Perlindungan Konsumen Sektor Jasa Keuangan]] | berlaku | sumber |
+| POJK 1/2013 | [[POJK 1-2013 - Perlindungan Konsumen Sektor Jasa Keuangan\|Perlindungan Konsumen Sektor Jasa Keuangan]] | berlaku | lengkap |
 
 ### SEOJK
 
@@ -228,7 +228,7 @@ Korpus **127 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 | SEOJK 6/2024 | [[SEOJK 6-2024 - Pendaftaran Penyelenggara Inovasi Teknologi Sektor\|Pendaftaran Penyelenggara Inovasi Teknologi Sektor Keuangan]] | berlaku | lengkap |
 | SEOJK 20/2024 | [[SEOJK 20-2024 - Penyelenggaraan Perdagangan Aset Keuangan Digital\|Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto]] | berlaku | lengkap |
 | SEOJK 19/2023 | [[SEOJK 19-2023 - Penyelenggaraan Layanan Pendanaan Bersama Berbasis\|Penyelenggaraan Layanan Pendanaan Bersama Berbasis Teknologi Informasi]] | berlaku | lengkap |
-| SEOJK 8/2015 | [[SEOJK 8-2015 - Penilaian Kualitas Aset BUS dan UUS\|Penilaian Kualitas Aset BUS dan UUS]] | berlaku | sumber |
+| SEOJK 8/2015 | [[SEOJK 8-2015 - Penilaian Kualitas Aset BUS dan UUS\|Penilaian Kualitas Aset BUS dan UUS]] | berlaku | lengkap |
 
 ### SE Kapolri
 
