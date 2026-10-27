@@ -16,6 +16,9 @@ desktop.ini
 data/
 .openviking.lock
 
+# ── Artefak turunan (regenerable) ──
+90-log/chunks.jsonl.gz
+
 # ── Git ──
 .git/
 

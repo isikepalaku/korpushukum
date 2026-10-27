@@ -39,6 +39,11 @@ tempat, dan chunk RAG tetap punya `anchor` unik.
 
 - `90-log/manifest.jsonl` — satu baris per dokumen: `id`, `jenis`, `nomor`, `tahun`, `judul`, `status`,
   `bidang[]`, `relasi{}`, `file`, `kelengkapan`, `chars`, `sha256` teks. Pakai untuk incremental embedding.
+- `90-log/chunks.jsonl.gz` — **23.964 chunk** siap embed (cakupan 96,5% teks; rata-rata 926 char,
+  maks 2.504). Pisah `batang-tubuh` (9.195) / `penjelasan-umum` (4.837) / `penjelasan-pasal` (5.773) /
+  `isi` (4.159). Regenerasi: `python 90-log/build_chunks.py`.
+- Penjelasan "Cukup jelas" ditandai `substantive: false` (2.238 chunk) supaya tidak mengotori retrieval.
+- `40-kategori/Indeks Penjelasan.md` — dokumen mana yang penjelasannya substantif vs formalitas.
 - Teks pasal ada di badan markdown (di bawah H1). Frontmatter YAML = metadata yang sudah bersih.
 - Dokumen `kelengkapan: sumber-pdf-saja` **belum punya teks** — jangan di-embed sebelum diekstrak.
 

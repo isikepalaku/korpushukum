@@ -19,16 +19,15 @@ sumber: "https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_113
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
-penjelasan: ada
+penjelasan: tidak
 penjelasan_pasal_demi_pasal: false
-penjelasan_normatif: false
-struktur_teks: terpartisi
-anchor_pasal: true
+struktur_teks: datar
+anchor_pasal: false
 ---
 
-## Batang Tubuh
 
-**Putusan MK Nomor 85/PUU-XXII/2024 — Independensi LPS dan Persetujuan Menteri Keuangan (Pasal 7 angka 57 UU P2SK)**
+
+# Putusan MK Nomor 85/PUU-XXII/2024 — Independensi LPS dan Persetujuan Menteri Keuangan (Pasal 7 angka 57 UU P2SK)
 
 **Status:** `berlaku`
 
@@ -94,6 +93,7 @@ Miko Susanto Ginting, S.H., M.A., adalah advokat dan konsultan hukum yang
 
 beralamat dan berkedudukan hukum di Gedung Bursa Efek Indonesia Tower 2
 
+
 -----
 
 Lantai 17, Jalan Jenderal Sudirman Kavling 52-53, Senayan, Kebayoran Baru,
@@ -155,6 +155,7 @@ yang telah diperbaiki dengan permohonan bertanggal 14 Agustus 2024 dan diterima
 di Mahkamah pada tanggal 14 Agustus 2024, yang pada pokoknya menguraikan
 
 hal-hal sebagai berikut:
+
 
 -----
 
@@ -218,6 +219,7 @@ dianggap bertentangan dengan UUD 1945”;
 sebagaimana telah diuraikan di atas adalah salah satu jenis peraturan
 
 perundang-undangan di bawah UUD 1945 yang keberadaannya diatur
+
 
 -----
 
@@ -283,6 +285,7 @@ b. kesatuan masyarakat hukum adat sepanjang masih hidup dan
 
 sesuai dengan perkembangan masyarakat dan prinsip negara
 kesatuan Republik Indonesia yang diatur dalam UndangUndang;
+
 
 -----
 
@@ -352,6 +355,7 @@ mempunyai perhatian besar terhadap aspek-aspek lembaga
 
 negara independen (Bukti P-11 dan P-12);
 
+
 -----
 
 c. Bahwa PEMOHON III adalah perorangan Warga Negara Indonesia
@@ -420,6 +424,7 @@ perorangan WNI terutama pembayar pajak (tax payer; vide Putusan
 
 Nomor 003/PUU-I/2003) berbagai asosiasi dan NGO/LSM yang
 
+
 -----
 
 concern terhadap suatu Undang-Undang demi kepentingan publik,
@@ -485,6 +490,7 @@ Kepentingan dan hak konstitusional tersebut sebagaimana
 termaktub dalam Pasal 28C ayat (2) dan Pasal 28D ayat (1) UUD
 
 1945 yang berbunyi:
+
 
 -----
 
@@ -556,6 +562,7 @@ sebuah Bank Perkreditan Rakyat dapat terdampak secara
 
 langsung oleh pelaksanaan kewenangan LPS Secara empiris
 
+
 -----
 
 Bank Perkreditan Rakyat adalah bank yang paling banyak
@@ -626,6 +633,7 @@ fungsinya sebagai lembaga regulator independen, sebagaimana
 
 akan diuraikan lebih lanjut pada alasan-alasan permohonan;
 
+
 -----
 
 9. Bahwa kepentingan **PARA PEMOHON** sebagai nasabah
@@ -694,6 +702,7 @@ langsung berkontribusi terhadap pembayaran Premi Penjaminan
 LPS yang dilakukan oleh Bank, melalui berbagai pungutan
 pungutan, biaya-biaya, dan bunga-bunga pinjaman yang
 
+
 -----
 
 dibebankan oleh Bank kepada PARA PEMOHON dan nasabah
@@ -760,6 +769,7 @@ menyebutkan:
 
 “1) Sebagai peserta Penjaminan, setiap Bank wajib:
 …..
+
 
 -----
 
@@ -830,6 +840,7 @@ Pendek berdasarkan prinsip Syariah yang dipunyai BI. Akibat
 
 ketidakjelasan dan tumpang tindih ini, maka timbul potensi
 
+
 -----
 
 membebani LPS, dalam hal ini menurunkan kemampuan LPS dan
@@ -896,6 +907,7 @@ berkaitan dengan persoalan independensi dari perspektif
 ketatanegaraan adalah karya ilmiah berjudul The Interpretation of
 
 _Article 33 of the Indonesian Constitution and Its Impact on_
+
 
 -----
 
@@ -965,6 +977,7 @@ kelembagaan dan ketatanegaraan di Indonesia. Oleh karenanya,
 
 **PEMOHON** **I** dan **PEMOHON** **II** memiliki hak konstitusional
 
+
 -----
 
 sebagai dosen dan peneliti yang selama ini memperjuangkan hak
@@ -1033,6 +1046,7 @@ Pasal 2 ayat (4) UU No. 24/2004 dinyatakan secara tegas bahwa
 
 “Lembaga Penjaminan Simpanan (LPS) merupakan **lembaga yang**
 
+
 -----
 
 **independen, transparan, dan akuntabel dalam melaksanakan tugas dan**
@@ -1099,6 +1113,7 @@ kepastian hukum sebagaimana dimuat dalam Pasal 28D ayat (1) UUD
 konstitusional terhadap pengakuan, perlindungan, dan kepastian hukum
 
 yang diatur di dalam Pasal 28 D ayat (1) UUD 1945 tidak terlepas dari
+
 
 -----
 
@@ -1170,6 +1185,7 @@ yang sifatnya politis, dalam penyusunan rencana kerja dan anggaran untuk
 
 kegiatan operasional LPS maka jaminan akan adanya suatu sistem
 
+
 -----
 
 perbankan yang independen dan pembagian urusan yang tepat bagi bank
@@ -1238,6 +1254,7 @@ oleh Menteri Keuangan. Demikian pula pengangkatan Dewan Direksi yang
 
 masih dilakukan oleh Presiden atas rekomendasi Dewan Moneter dimana
 
+
 -----
 
 Ketua Dewan Moneter adalah Menteri Keuangan dan anggota-anggotanya
@@ -1291,9 +1308,7 @@ dari konteks hubungannya dengan independensi bank sentral
 
 sebagaimana yang diatur di dalam Pasal 23D UUD 1945. Bahkan, pada
 
-## Penjelasan
-
-### I. Umum
+Penjelasan Pasal 64 ayat (1) Undang-Undang Nomor 23 Tahun 1999
 
 tentang Bank Indonesia (“UU No. 23/1999”) telah disebutkan secara
 
@@ -1306,6 +1321,7 @@ LPS tidak diatur secara eksplisit di dalam UUD 1945, independensi LPS
 merupakan suatu konsekuensi logis dalam rangka mendukung tugas bank
 
 sentral yang independen sebagaimana pertimbangan MK dalam Putusan
+
 
 -----
 
@@ -1377,6 +1393,7 @@ _(constitutionally important) mengingat fungsi yang dijalankannya berkaitan_
 
 erat dengan fungsi Bank Sentral yang diatur di dalam Pasal 23D UUD 1945
 
+
 -----
 
 [vide **Putusan MK Nomor 25/PUU-XII/2014 dan** **Putusan MK Nomor**
@@ -1446,6 +1463,7 @@ penjaminan, penjaminan polis, penempatan dana, resolusi bank, dan
 likuidasi perusahaan asuransi dan perusahaan asuransi syariah (vide
 
 Pasal 7 angka 57 UU No 4/2023 yang mengubah Pasal 86 ayat (2) huruf
+
 
 -----
 
@@ -1517,6 +1535,7 @@ politik;
 
 kewenangan persetujuan Menteri Keuangan pada ketentuan _a_ _quo_ tidak
 
+
 -----
 
 memiliki dasar kebutuhan (necessary) dan keseimbangan (balancing).
@@ -1584,6 +1603,7 @@ Berbeda dengan mekanisme akuntabilitas tersebut, kewenangan Menteri
 Keuangan pada pasal _a quo_ dapat secara tidak proporsional
 
 mengintervensi independensi LPS;
+
 
 -----
 
@@ -1655,6 +1675,7 @@ _fulfilment of its mandate.” Ketiga kriteria tersebut menunjukkan badan_
 
 seperti _the_ _deposit_ _insurer_ atau lembaga penjamin simpanan secara
 
+
 -----
 
 operasional harus independen, yakni tanpa campur tangan dari pihak
@@ -1725,6 +1746,7 @@ Selanjutnya, Pasal 7 angka 57 UU No. 4/2023 yang mengubah Pasal 86
 
 ayat (7) huruf a UU No 4/2024 yang menyebutkan bahwa "rencana kerja
 
+
 -----
 
 dan anggaran tahunan untuk kegiatan operasional yang telah
@@ -1793,6 +1815,7 @@ Lembaga Penjamin Simpanan sebagaimana dimaksud pada ayat
 (1) **merupakan Bank Sistemik** yang ditetapkan sebagai Bank
 **d** **l** **h** **t** l i l h lik idit
 
+
 -----
 
 **yang tidak memenuhi syarat sebagai penerima pinjaman**
@@ -1858,6 +1881,7 @@ c. melakukan pembagian dividen.
 
 meniadakan larangan lain yang dikeluarkan oleh Otoritas Jasa
 Keuangan.
+
 
 -----
 
@@ -1925,6 +1949,7 @@ dimaksud dalam huruf b dalam jumlah yang cukup.”;
 tafsir secara sistematis bahwa yang dimaksud dengan frasa “Bank
 
 Sistemik …., yang tidak memenuhi syarat sebagai penerima pinjaman
+
 
 -----
 
@@ -1994,6 +2019,7 @@ mendapatkan fasilitas pinjaman likuiditas jangka pendek ataupun
 
 pembiayaan likuiditas jangka pendek berdasarkan prinsip Syariah;
 
+
 -----
 
 3.32 Bahwa desain kebijakan penempatan dana oleh LPS pada bank dalam
@@ -2060,6 +2086,7 @@ salah satu kewenangan LPS (vide Pasal 7 angka 3 UU No. 4/2023 yang
 menambahkan Pasal 3A UU No. 24/2004). Terlebih, di dalam UU a quo
 
 tidak ditemukan adanya ketentuan yang secara tegas memisahkan antara
+
 
 -----
 
@@ -2128,6 +2155,7 @@ LPS. Menurut Fajar Marta, penempatan dana di bank oleh LPS memiliki
 risiko, khususnya jika kredit yang diagunkan bank ternyata bermasalah
 
 sehingga menyebabkan LPS menderita kerugian (Bukti P-34);
+
 
 -----
 
@@ -2198,6 +2226,7 @@ Pasal 23D, Pasal 28C ayat (2) serta Pasal 28D ayat (1) UUD 1945 yang
 
 memberikan jaminan akan sistem perbankan yang independen dan
 
+
 -----
 
 pembagian urusan yang tepat bagi bank sentral dan lembaga-lembaga
@@ -2267,6 +2296,7 @@ Nomor 3 Tahun 2008 tentang Perubahan Atas Undang-Undang Nomor 24
 Tahun 2004 tentang Lembaga Penjamin Simpanan menjadi Undang
 Undang (Lembaran Negara Tahun 2008 Nomor 143) bertentangan dengan
 
+
 -----
 
 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan tidak
@@ -2332,6 +2362,7 @@ Pembentukan Peraturan Perundangan-undangan;
 Perubahan Atas Undang-Undang Nomor 12 Tahun 2011
 
 tentang Pembentukan Peraturan Perundang-undangan;
+
 
 -----
 
@@ -2401,6 +2432,7 @@ atas nama Wicaksana Dramanda;
 
 atas nama Mario Angkawidjaya;
 
+
 -----
 
 23. Bukti P- 23 : Fotokopi Berita CNBC Indonesia terkait Pembayaran LPS
@@ -2468,6 +2500,7 @@ Selain itu, untuk membuktikan dalil permohonannya, para Pemohon juga
 mengajukan 2 (dua) orang ahli yaitu Zulkarnain Sitompul dan Indra Perwira yang
 
 keterangannya didengarkan dalam persidangan Mahkamah pada tanggal 12
+
 
 -----
 
@@ -2539,6 +2572,7 @@ kondisi pasar (Alex Cukierman, Steven B. Webb, dan Bilin Neyapti,
 
 Outcomes" _The_ _World_ _Bank Economic_ _Review_ Vol 6 1992 ) & (Christopher
 
+
 -----
 
 Crowe dan Ellen E. Meade, "Central Bank Independence and Transparency:
@@ -2605,6 +2639,7 @@ pernah melanda Indonesia, dimana saat itu otoritas moneter dan keuangan
 dipengaruhi oleh kepentingan dan tekanan politik. Setiap upaya untuk
 
 melemahkan independensi ketiga lembaga tersebut bukan saja bertentangan
+
 
 -----
 
@@ -2676,6 +2711,7 @@ tidaklah sesuai dengan IADI Core Principles. Bahkan, ketentuan tersebut
 
 bukanlah praktik umum di negara-negara dengan sistem keuangan dan
 
+
 -----
 
 perbankan yang baik. Beberapa negara yang mengikutsertakan Menteri
@@ -2744,6 +2780,7 @@ keputusan KSSK, pengaturan tersebut telah diubah oleh UU P2SK dengan
 
 diberikannya hak suara kepada Ketua DK LPS.
 
+
 -----
 
 **C. Kewenangan LPS dalam Menempatkan Dana**
@@ -2810,6 +2847,7 @@ penyelesaian masalah likuiditas ini perlu dibedakan dari masalah solvabilitas,
 yaitu ketika bank mengalami kesulitan pendanaan dalam jangka panjang yang
 
 disebabkan oleh ketidakmampuan seluruh aset yang dimiliki oleh bank
+
 
 -----
 
@@ -2881,6 +2919,7 @@ resolusi diselamatkan atau tidak diselamatkan. Tidak menyelematkan berarti
 
 dana penempatan LPS pada bank tersebut akan menjadi problamatik
 
+
 -----
 
 Tambahan pula, bank yang dapat memperoleh penempatan dana dari
@@ -2945,6 +2984,7 @@ _conflict of interests between LPS's responsibility of running the DIS_
 _and its role as owner/creditor of its deposittaking member_
 _institutions; and brings competition concerns vis-a-vis other privately_
 _owned institutions."_
+
 
 -----
 
@@ -3013,6 +3053,7 @@ oleh lembaga independen dengan pertimbangan teknokratis semata.
 Pembentukan LPS beserta formulasi kedudukan dan kewenangannya dalam LTU
 
 No. 24 Tahun 2004, diwarnai kesadaran yang penuh dan ingatan yang terang dari
+
 
 -----
 
@@ -3084,6 +3125,7 @@ penanganan/penyelesaian bank gagal tidak mengandung isu konstitusional.
 
 P l i i b k b h l ilih d i t t l
 
+
 -----
 
 bagaimana pun pembentuk undang-undang mengatur, tidak akan
@@ -3153,6 +3195,7 @@ bank. Setiap orang yang memiliki simpanan di bank berhak atas jaminan,
 perlindungan dan kepastian hukum, sebagaimana Pasal 28D ayat (1) UUD
 
 1945 bahwa simpanannya dikelola melalui proses dan kelembagaan yang
+
 
 -----
 
@@ -3224,6 +3267,7 @@ maupun setelah diubah terakhir kali dengan Pasal 7 angka 2 UU No. 4 Tahun
 
 2023 tentang PPSK menjadi berbunyi:
 
+
 -----
 
 "Lembaga Penjamin Simpanan merupakan lembaga yang independen,
@@ -3294,6 +3338,7 @@ dengan baik dengan pasca krisis 1998. Lernbaga yang memegang fungsi
 
 t d b k ( t i i BI OJK d LPS)
 
+
 -----
 
 dipisahkan dari fungsi pemerintah dan diberi independensi. Meski sejumlah
@@ -3361,6 +3406,7 @@ kelembagaannya sama, bahwa independensi dalam melaksanakan tugas
 dan kewenangan membutuhkan independensi pada Sisi lain yang sifatnya
 
 lebih operasional. Bila pada Sisi operasional sebuah lembaga dependen
+
 
 -----
 
@@ -3432,6 +3478,7 @@ Di dalam Dewan Komisioner LPS pun ada representasi (pejabat eselon I) dari
 
 Kementerian Keuangan yang ditunjuk oleh Menteri Keuangan sendiri
 
+
 -----
 
 Keberadaan kewenangan Menteri Keuangan dalam memberikan persetujuan
@@ -3500,6 +3547,7 @@ status independensi LPS; dan
 
 harta benda di bawah kekuasaannya, karena inefektivitas LPS dalam
 
+
 -----
 
 melaksanakan kewenangan dapat mempengaruhi kualitas bank dalam
@@ -3567,6 +3615,7 @@ dengan mengkonsentrasikan kembali kekuasaan pada dirinya. Sayangnya,
 itu yang terjadi dalam 10 tahun terakhir, berbagai undang-undang dibentuk
 
 dengan tujuan mengkonsentrasikan kembali kekuasaan.
+
 
 -----
 
@@ -3638,6 +3687,7 @@ merupakan bagian dari kecenderungan pemerintahan pada demokrasi semu
 
 Indonesia saat ini untuk mengakumulasi kembali dan menciptakan
 
+
 -----
 
 konsentrasi kekuasaan pada pemerintahan. Dalam hal, ada pengujian dari
@@ -3706,6 +3756,7 @@ yang menyiratkan independensi fungsi pengawasan bank; 2) Ketentuan Pasal
 
 Pasal 28G ayat (1) UUD 1945 mengenai hak atas perlindungan harta benda.
 
+
 -----
 
 [2.3] Menimbang bahwa terhadap permohonan para Pemohon, Dewan
@@ -3771,6 +3822,7 @@ _ayat (4) paling lambat tanggal 30 November tahun berjalan”_
 **Pasal 7 angka 57 UU 4/2023 yang memuat perubahan dalam Pasal 86 ayat**
 
 **(7) huruf a UU 24/2004:**
+
 
 -----
 
@@ -3839,6 +3891,7 @@ Pendek/Pinjaman Likuiditas Jangka Pendek berdasarkan prinsip Syariah
 menimbulkan tumpang tindih (overlap) kewenangan dengan Bank Indonesia
 
 (BI) sebagai _lender_ _of_ _last_ _resort_ dan berpotensi menurunkan kemampuan
+
 
 -----
 
@@ -3910,6 +3963,7 @@ Nomor 3 Tahun 2008 tentang Perubahan Atas Undang-Undang Nomor 24
 
 Tahun 2004 tentang Lembaga Penjamin Simpanan menjadi Undang-Undang
 
+
 -----
 
 (Lembaran Negara Tahun 2008, Nomor 143), bertentangan dengan Undang
@@ -3976,6 +4030,7 @@ penalaran yang wajar dapat dipastikan akan terjadi;
 4) Adanya hubungan sebab akibat (causal verband) antara kerugian hak
 
 dan/atau kewenangan konstitusional dengan undang-undang yang
+
 
 -----
 
@@ -4045,6 +4100,7 @@ rumusan Pasal-Pasal a quo, jelas Para Pemohon yang berprofesi sebagai
 dosen dan mahasiswa bukanlah subjek (addressat norm) yang
 
 berhubungan langsung dengan pengaturan tersebut Bahwa berdasarkan
+
 
 -----
 
@@ -4116,6 +4172,7 @@ perkembangan hukum yang berlaku termasuk pasca terbitnya UU 4/2023
 
 dan adaptif melihat pengaturan-pengaturan yang baru berlaku tersebut
 
+
 -----
 
 Para Pemohon tetap memiliki kebebasan akademik dan/atau otonomi
@@ -4184,6 +4241,7 @@ Putusan perkara Nomor 011/PUU-V/2007 mengenai parameter kerugian
 
 konstitusional yang harus dipenuhi secara kumulatif sehingga Para
 
+
 -----
 
 Pemohon tidak memiliki kedudukan hukum (legal standing) dalam
@@ -4250,6 +4308,7 @@ materiil UU 4/2023 terhadap UUD NRI Tahun 1945.
 meningkatkan peranan intermediasi sektor keuangan, serta memperkuat
 
 resiliensi sistem keuangan nasional. Sektor keuangan yang dalam,
+
 
 -----
 
@@ -4321,6 +4380,7 @@ keuangan dan peningkatan kepercayaan masyarakat.
 
 melalui perannya dalam dunia perbankan juga diberikan penguatan
 
+
 -----
 
 kewenangan dalam Undang-Undang ini. Di samping memperkuat
@@ -4390,6 +4450,7 @@ sendiri bisa menjadi resolusi (penyehatan) dan pelaksana penjamin
 penuh simpanan saat bank gagal menjalankan kewajibannya. FSN bisa
 
 dikatakan sebagai jalan keluar untuk menangani krisis saat
+
 
 -----
 
@@ -4461,6 +4522,7 @@ terbatas, total pengeluaran berkurang, pengangguran meningkat dan
 
 pertumbuhan ekonomi terganggu dan mengalami penurunan Oleh
 
+
 -----
 
 karena itu LPS sangat diperlukan untuk pengelolaan stabilitas sistem
@@ -4531,6 +4593,7 @@ Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan
 
 serta Penyelamatan Ekonomi Nasional sebagaimana telah diubah
 
+
 -----
 
 dengan Peraturan Pemerintah Nomor 43 Tahun 2020 Perubahan
@@ -4600,6 +4663,7 @@ d. Bahwa melalui UU 4/2023, kewenangan LPS terkait penempatan
 
 dana pada bank menjadi bersifat permanen yang dapat dilakukan
 
+
 -----
 
 kapanpun manakala diperlukan. Kewenangan tersebut diberikan
@@ -4658,6 +4722,7 @@ yang kegagalannya untuk memperoleh kredit akan berdampak
 tidak stabil pada ekonomi nasional atau regional. Bank sentral
 mendapat dukungan pemerintah untuk memberikan pinjaman
 tersebut guna mempertahankan kepercayaan publik terhadap
+
 
 -----
 
@@ -4725,6 +4790,7 @@ melalui penempatan dana atau tindakan penyelamatan lainnya yang
 dilakukan oleh LPS.
 
 g. DPR RI perlu menjelaskan beberapa hal berkaitan dengan
+
 
 -----
 
@@ -4794,6 +4860,7 @@ i. Bahwa analisis kelayakan permohonan Bank dari OJK dan hasil
 
 asesmen dari Bank Indonesia menjadi dasar pertimbangan LPS untuk
 
+
 -----
 
 memutuskan melakukan atau tidak melakukan penempatan dana
@@ -4861,6 +4928,7 @@ _last resort_ dan menurunkan kemampuan LPS untuk menjalankan
 fungsi utamanya, yaitu menjamin simpanan nasabah adalah tidak
 
 berdasar.
+
 
 -----
 
@@ -4932,6 +5000,7 @@ negara yang dipisahkan. Kekayaan negara yang dipisahkan
 
 merupakan bagian dari keuangan negara sehingga terhadap LPS
 
+
 -----
 
 berlaku ketentuan pengelolaan kekayaan negara yang dipisahkan
@@ -5001,6 +5070,7 @@ g. **Dengan demikian, persetujuan rencana kerja dan rencana**
 bidang keuangan pada hakekatnya adalah _Chief Financial Officer_
 
 (CFO) Pemerintah Republik Indonesia sementara setiap
+
 
 -----
 
@@ -5072,6 +5142,7 @@ dan Penguatan Sektor Keuangan (PPSK), hari Kamis tanggal 10
 
 November 2022 pukul 10 00 s d 11 19 WIB
 
+
 -----
 
 …
@@ -5139,6 +5210,7 @@ redaksional dan tetap.
 **KETUA RAPAT:**
 
 Setuju? Iya silahkan
+
 
 -----
 
@@ -5210,6 +5282,7 @@ Ini Pimpinan, maaf ini. Ini namanya big grey area.
 
 Ya
 
+
 -----
 
 **F-PDI PERJUANGAN (Ir. ANDREAS EDDY SUSETYO, MM.):**
@@ -5280,6 +5353,7 @@ Ini kan, maksud saya mau mengklarifikasi itu, belum sampai
 
 pada tahap itu kan?
 
+
 -----
 
 **F-PKS (H. ECKY AWAL MUCHARAM):**
@@ -5348,6 +5422,7 @@ kemudian kenapa minta LPS, nah ini jumping-nya itu.
 Ini sebenarnya masih bagian dari juga mekanisme bail in yang
 
 disampaikan oleh Pak Andreas Jadi tadi kapan bank itu tidak
+
 
 -----
 
@@ -5418,6 +5493,7 @@ dalam asset perbankan dalam konsep bail in, di mana para pemilik
 
 saham itu ingin memasukkan asset-aset bank yang non di bank
 
+
 -----
 
 nonbank, BI menganggap tidak eligible, BI tidak menganggap tidak
@@ -5485,6 +5561,7 @@ karena kan mekanisme di dalam resolusi itu ada, kan ada PMS.
 Itu tadi Pak Andreas yang DIM sebelumnya, tadi kita masukkan
 
 ke, ke yang koordinasi KSSK itu masuk dalam penjelasannya.
+
 
 -----
 
@@ -5556,6 +5633,7 @@ Enggak tapi ini kaitannya dengan itu.
 
 Yang mana nih?
 
+
 -----
 
 **PEMERINTAH (DIRJEN PENGELOLAAN PEMBIAYAAN DAN**
@@ -5621,6 +5699,7 @@ dana di Undang-undang 9. Nah sekarang karena bagian dari
 penanganan oleh LPS itu penempatan dana, maka menghitung selisih
 
 kurang selisih lebih itu juga termasuk yang penempatan dana tadi.
+
 
 -----
 
@@ -5690,6 +5769,7 @@ dan likuiditas likuidasi perusahaan asuransi.
 
 Lalu di ayat (3), DIM 806, bersamaan dengan penyampaian
 
+
 -----
 
 sebagaimana dimaksud pada ayat (1) menyampaikan pula Evaluasi
@@ -5758,6 +5838,7 @@ tanggal 6 Desember 2022 pukul 13.24 s.d. 15.36 WIB
 
 ...
 
+
 -----
 
 **KETUA RAPAT:**
@@ -5822,6 +5903,7 @@ untuk mengkonfirmasi itu, sehingga kamis siang kita bisa Raker.
 **F-PDIP (Ir. ANDREAS EDDY SUSETYO, MM):**
 
 Karena itu penting dokumen kapan bisa kita terima, draft RUU.
+
 
 -----
 
@@ -5891,6 +5973,7 @@ Lima, penyampaian kepada Menteri Keuangan sebagaimana
 
 dimaksud pada ayat (4) disampaikan paling lambat 2 bulan sebelum
 
+
 -----
 
 ayat (6), Menteri keuangan memberikan persetujuan atas
@@ -5956,6 +6039,7 @@ mohon putusan yang seadil-adilnya (ex aequo et bono).
 **I. KETENTUAN UU 4/2023 YANG DIMOHONKAN PENGUJIAN TERHADAP UUD**
 
 **NRI TAHUN 1945**
+
 
 -----
 
@@ -6027,6 +6111,7 @@ _dimaksud pada ayat (6)_
 
 **ayat (1) UU 9/2016:**
 
+
 -----
 
 _Lembaga Penjamin Simpanan berwenang melakukan penempatan dana_
@@ -6094,6 +6179,7 @@ rencana kerja dan anggaran untuk kegiatan operasional LPS dapat
 memperkecil makna independensi LPS serta membuka ruang intervensi
 
 politik (vide Perbaikan Permohonan hal. 24).
+
 
 -----
 
@@ -6164,6 +6250,7 @@ Negara Tahun 2023, Nomor 4, Tambahan Lembaran Negara Nomor 6845)
 
 yang menyisipkan Pasal 20B ayat (1) Undang-Undang Nomor 9 Tahun 2016
 
+
 -----
 
 tentang Pencegahan dan Penanganan Krisis Sistem Keuangan (Lembaran
@@ -6231,6 +6318,7 @@ dimohonkan pengujian;
 kerugian hak dan/atau kewenangan konstitusional yang didalilkan tidak
 
 akan atau tidak lagi terjadi.
+
 
 -----
 
@@ -6301,6 +6389,7 @@ Penjaminan Simpanan, yang termasuk dalam peserta penjaminan LPS
 
 adalah seluruh bank yang beroperasi di Indonesia baik bank
 
+
 -----
 
 konvensional maupun bank syariah dan bukan nasabah perbankan. Oleh
@@ -6368,6 +6457,7 @@ ilmu pengetahuan, teknologi, dan seni;
 d. bertindak objektif dan tidak diskriminatif atas dasar pertimbangan
 
 jenis kelamin, agama, suku, ras, kondisi fisik tertentu, atau latar
+
 
 -----
 
@@ -6439,6 +6529,7 @@ setidaknya bersifat potensial yang menurut penalaran yang wajar dapat
 
 dipastikan akan terjadi dan tidak ada hubungan sebab akibat (causal
 
+
 -----
 
 _verband) atas kerugian konstitusional dengan ketentuan Pasal-Pasal a_
@@ -6508,6 +6599,7 @@ Berdasarkan pada hal-hal yang telah disampaikan tersebut, DPR RI
 berpandangan bahwa Para Pemohon tidak memiliki kedudukan hukum (legal
 
 _standing) karena tidak memenuhi Pasal 51 ayat (1) dan Penjelasan Undang-_
+
 
 -----
 
@@ -6579,6 +6671,7 @@ kelembagaan dan Stabilitas Sistem Keuangan dan pengembangan dan
 
 penguatan industri Oleh sebab itu UU 4/2023 mengatur penguatan
 
+
 -----
 
 hubungan pengawasan dan pengaturan antar lembaga di bidang sektor
@@ -6647,6 +6740,7 @@ bank. Sebagaimana diketahui, bahwa penempatan dana oleh LPS
 merupakan salah satu upaya yang dapat dilakukan dalam rangka
 
 penyelamatan bank yang berasal dari dana LPS bukan APBN
+
 
 -----
 
@@ -6718,6 +6812,7 @@ sendiri bisa menjadi resolusi (penyehatan) dan pelaksana penjamin
 
 penuh simpanan saat bank gagal menjalankan kewajibannya FSN bisa
 
+
 -----
 
 dikatakan sebagai jalan keluar untuk menangani krisis saat
@@ -6787,6 +6882,7 @@ pelaksanaannya, penjaminan yang sangat luas membebani
 anggaran negara dan menimbulkan _moral hazard_ pada pihak
 
 pengelola bank dan nasabah bank Selain itu penerapan penjaminan
+
 
 -----
 
@@ -6858,6 +6954,7 @@ LPS melalui Peraturan Pemerintah. Namun, dalam
 
 implementasinya, LPS akhirnya dibentuk melalui UU 24/2004
 
+
 -----
 
 sistem keuangan nasional yang lebih kompleks. Berikut adalah
@@ -6925,6 +7022,7 @@ yang lebih rinci dan menyeluruh.
 Sebelum LPS didirikan, Pemerintah menerapkan skema
 
 _blanket guarantee melalui Keputusan Presiden pada 1998_
+
 
 -----
 
@@ -6995,6 +7093,7 @@ disepakati, menggantikan opsi pembentukan melalui Peraturan
 
 Pemerintah sebagaimana diamanatkan oleh Pasal 37B UU
 
+
 -----
 
 Perbankan 1998. LPS dibentuk melalui UU 24/2004 untuk
@@ -7062,6 +7161,7 @@ dipertimbangkan secara holistik untuk menjaga stabilitas sistem
 keuangan.
 
 2. Bahwa dalam rangka memelihara stabilitas sistem perbankan, LPS
+
 
 -----
 
@@ -7133,6 +7233,7 @@ Keuangan untuk Penanganan Pandemi _Corona Virus Disease_
 
 2019 (Covid-19) dan/atau Dalam Rangka Menghadapi Ancaman
 
+
 -----
 
 yang Membahayakan Perekonomian Nasional dan/atau Stabilitas
@@ -7201,6 +7302,7 @@ sebagai bagian dari tindakan antisipasi (forward looking) LPS untuk
 
 menjaga Stabilitas Sistem Keuangan (vide Pasal 16 PLPS 3/2020).
 
+
 -----
 
 c. Kewenangan LPS dalam melakukan penempatan dana pada Bank
@@ -7267,6 +7369,7 @@ menyebabkan terjadinya kegagalan Bank didasarkan atas
 permohonan bank kepada OJK. Berdasarkan Pasal 19 ayat (4) PLPS
 
 3/2020, OJK melakukan analisis kelayakan permohonan Bank dan
+
 
 -----
 
@@ -7338,6 +7441,7 @@ prosedur tersebut dilaksanakan untuk memastikan bahwa
 
 penempatan dana dilakukan secara hati-hati dan sesuai dengan
 
+
 -----
 
 ketentuan yang berlaku, sehingga risiko kegagalan dalam
@@ -7407,6 +7511,7 @@ i. **Bahwa penempatan dana oleh LPS tidak tumpang tindih dengan**
 **bank** **dalam** **penyehatan** **yang** **mengalami** **permasalahan**
 
 **solvabilitas** **sedangkan** **BI** **memberikan** **PLJP/PLJPS** **kepada**
+
 
 -----
 
@@ -7478,6 +7583,7 @@ kewenangan LPS untuk melakukan penempatan dana pada bank
 
 dalam penyehatan menimbulkan tumpang tindih (overlap) dengan
 
+
 -----
 
 kewenangan BI sebagai _lender of last resort_ dan menurunkan
@@ -7548,6 +7654,7 @@ sebagaimana mekanisme yang diatur dalam Undang-Undang Nomor
 
 **lembaga negara lain yang menggunakan fasilitas yang diberikan**
 
+
 -----
 
 **Pemerintah atau menggunakan kekayaan negara harus tetap**
@@ -7617,6 +7724,7 @@ syariah. Sebagaimana dinyatakan dalam Pasal 86 ayat (4) UU
 
 kerja dan anggaran tahunan untuk kegiatan operasional kepada
 
+
 -----
 
 Menteri Keuangan untuk mendapat persetujuan. Dengan kata lain
@@ -7683,6 +7791,7 @@ menghilangkan independensi LPS dalam menjalankan kebijakannya,
 
 terlebih Menteri Keuangan juga mengatur anggaran lembaga
 
+
 -----
 
 g. Berdasarkan UU 17/2003, Presiden selaku Kepala Pemerintahan
@@ -7746,6 +7855,7 @@ MK Nomor 25/PUU-XII/2014 hal. 290-291)
 i. Upaya Menteri Keuangan memberikan persetujuan dalam rencana
 
 kerja dan anggaran tahunan operasional LPS, juga dapat dimaknai
+
 
 -----
 
@@ -7817,6 +7927,7 @@ k. **Dengan demikian, persetujuan rencana kerja dan anggaran**
 
 **merupakan** **bentuk** **tanggung** **jawab** **negara** **dalam** **menjamin**
 
+
 -----
 
 **stabilitas serta kelancaran operasional LPS dalam menjaga**
@@ -7885,6 +7996,7 @@ anggaran. Selain itu BI juga menyampaikan laporan keuangan
 kepada BPK untuk dilakukan pemeriksaan dan laporan hasil
 
 pemeriksaan disampaikan BPK kepada DPR RI (vide Pasal 58 ayat
+
 
 -----
 
@@ -7956,6 +8068,7 @@ terkait dengan penyusunan anggaran untuk kegiatan operasional
 
 ketiga lembaga tersebut dimana anggaran operasional BI disetujui
 
+
 -----
 
 oleh DPR RI, anggaran OJK dibahas dengan DPR RI, dan anggaran
@@ -8023,6 +8136,7 @@ tanggal 4 Desember 2024, terkait persetujuan Menteri Keuangan hanya
 terhadap rencana kerja dan anggaran tahunan untuk kegiatan operasional, DPR
 
 RI memberikan keterangan tambahan sebagai berikut:
+
 
 -----
 
@@ -8092,6 +8206,7 @@ Namun demikian, kami sependapat bahwa tentunya _clear cut antara_
 anggaran kebijakan dan anggaran operasional itu diperlukan.
 S hi b tid k d i l dititi
 
+
 -----
 
 titipkan, misalnya di anggaran kebijakan. Sehingga saya kira, menurut
@@ -8157,6 +8272,7 @@ dan Penguatan Sektor Keuangan (Lembaran Negara Republik Indonesia
 
 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 6845)
 
+
 -----
 
 tidak bertentangan dengan Undang-Undang Dasar Negara Republik
@@ -8218,6 +8334,7 @@ _“Ketua Dewan Komisioner menyampaikan rencana kerja dan anggaran_
 _tahunan untuk kegiatan operasional sebagaimana dimaksud pada ayat_
 
 _(2) huruf a kepada Menteri Keuangan untuk mendapat persetujuan.”_
+
 
 -----
 
@@ -8289,6 +8406,7 @@ mengakibatkan atau setidak-tidaknya berpotensi mempengaruhi
 
 independensi Lembaga Penjamin Simpanan (LPS) serta membuka
 
+
 -----
 
 ruang intervensi politik terhadap fungsi dan kewenangan LPS, yakni
@@ -8359,6 +8477,7 @@ pendek ataupun pembiayaan likuiditas jangka pendek berdasarkan
 
 prinsip syariah serta tidak mengatur secara tegas pemisahan antara
 
+
 -----
 
 anggaran untuk penjaminan nasabah dengan anggaran untuk
@@ -8426,6 +8545,7 @@ _Kesatuan Republik Indonesia yang diatur dalam undang-undang;_
 _c. badan hukum publik atau privat; atau_
 
 _d. lembaga negara._
+
 
 -----
 
@@ -8495,6 +8615,7 @@ oleh berlakunya peraturan perundang-undangan yang dimohonkan
 
 pengujian;
 
+
 -----
 
 c. Kerugian tersebut harus bersifat spesifik (khusus) dan aktual atau
@@ -8561,6 +8682,7 @@ menurut penalaran yang wajar dapat dipastikan akan terjadi, dan apakah
 ada hubungan sebab akibat (causal verband) antara kerugian dan
 
 berlakunya undang-undang yang dimohonkan untuk diuji
+
 
 -----
 
@@ -8632,6 +8754,7 @@ Menteri Keuangan tidak berdampak langsung pada hak-hak
 
 Pemohon sebagai nasabah bank Hal demikian membuktikan
 
+
 -----
 
 bahwa Para Pemohon tidak mempunyai kepentingan hukum
@@ -8702,6 +8825,7 @@ c. Para Pemohon tidak mempunyai kedudukan hukum (legal standing)
 
 untuk mengajukan uji materiil terhadap kewenangan LPS untuk
 
+
 -----
 
 melakukan penempatan dana pada bank dalam penyehatan
@@ -8770,6 +8894,7 @@ ketentuan yang dimohonkan pengujian.
 
 **PENGEMBANGAN DAN PENGUATAN SEKTOR KEUANGAN (P2SK)**
 
+
 -----
 
 **A. Peran LPS dalam Skema Jaring Pengaman Sistem Keuangan sesuai**
@@ -8834,6 +8959,7 @@ bersama dengan OJK, BI dan Kementerian Keuangan, dengan skema
 
 sebagai berikut
 
+
 -----
 
 4. Berdasarkan skema JPSK tersebut, dapat dijelaskan siklus Jaring
@@ -8873,6 +8999,7 @@ LPS hanya dapat melakukan kewenangan untuk menangani bank
 setelah bank ditetapkan sebagai bank gagal dan diserahkan oleh
 
 OJK ke LPS. Early intervention adalah kewenangan LPS pada saat
+
 
 -----
 
@@ -8944,6 +9071,7 @@ ketiga tidak mampu menyelesaikan permasalahan bank dalam
 
 penyehatan
 
+
 -----
 
 7. Penjelasan tersebut menunjukkan bahwa LPS dengan Negara melalui
@@ -9013,6 +9141,7 @@ d. Sebelum diberlakukannya UU P2SK, UU LPS mengatur bahwa
 
 RKAT k t k t d tid k t i hk t RKAT
 
+
 -----
 
 untuk kegiatan operasional dan untuk RKAT untuk kebijakan. Dalam
@@ -9080,6 +9209,7 @@ Menteri Keuangan. Dengan demikian, persetujuan Menteri
 Keuangan atas RKAT operasional LPS, tidak berkaitan dengan
 
 keputusan/kebijakan/tindakan yang diambil LPS dalam pelaksanaan
+
 
 -----
 
@@ -9151,6 +9281,7 @@ Pemerintah dalam hal ini juga memiliki komitmen yang tinggi untuk
 
 menjaga keberlangsungan LPS termasuk menjaga kepercayaan
 
+
 -----
 
 masyarakat terhadap LPS. Salah satu upaya memastikan LPS
@@ -9217,6 +9348,7 @@ p. Mekanisme persetujuan anggaran ini juga berfungsi untuk menjaga
 kepercayaan publik terhadap sistem penjaminan simpanan nasional.
 
 Dengan adanya pengawasan dari Menteri Keuangan, publik dapat
+
 
 -----
 
@@ -9285,6 +9417,7 @@ s. Selanjutnya, Para Pemohon mendalilkan bahwa Eksistensi LPS
 sebagai _constitutional importance selayaknya diberikan sama_
 
 dengan OJK yang tidak dapat dipisahkan dari tugas BI sebagai bank
+
 
 -----
 
@@ -9356,6 +9489,7 @@ terkait LPS, yang pilihan kebijakannya dapat sedikit berbeda
 
 dengan prinsip internasional Meskipun anggaran operasional
 
+
 -----
 
 LPS disetujui oleh Menteri Keuangan, LPS tetap independen dan
@@ -9423,6 +9557,7 @@ menimbulkan pengawasan berganda.
 a. Para Pemohon pada pokoknya merasa dirugikan hak
 
 konstitusionalnya terhadap keberlakuan Pasal 7 angka 6 UU P2SK
+
 
 -----
 
@@ -9494,6 +9629,7 @@ dengan UU P2SK, BI tetap menjadi lender of the last resort melalui
 
 penyediaan dana pembiayaan likuiditas jangka pendek (PLJP)
 
+
 -----
 
 atau pembiyaan likuiditas jangka pendek berdasarkan prinsip
@@ -9561,6 +9697,7 @@ untuk bank yang memenuhi syarat, **sedangkan LPS fokus pada**
 masing lembaga dan memperkuat sistem Jaring Pengaman Sistem
 
 Keuangan.
+
 
 -----
 
@@ -9632,6 +9769,7 @@ secara tepat waktu sebelum bank menjadi tidak layak secara
 
 keuangan Penempatan dana ini dilakukan berdasarkan analisis
 
+
 -----
 
 yang dilakukan oleh OJK dan disetujui oleh LPS, memastikan
@@ -9701,6 +9839,7 @@ menyelamatkan suatu bank, tetapi juga untuk mencegah dampak
 sistemik yang lebih luas pada sektor keuangan. Dengan demikian,
 
 fungsi _risk minimiser_ yang dijalankan oleh LPS tidak hanya berfokus
+
 
 -----
 
@@ -9772,6 +9911,7 @@ peran secara tidak wajar serta persyaratan penempatan dana oleh
 
 LPS tidak lebih mudah dari PLJP yang diberikan oleh BI
 
+
 -----
 
 p. Menurut Pemerintah kekhawatiran Para Pemohon tidak beralasan
@@ -9841,6 +9981,7 @@ bagian dari strategi risk minimizer, tidak hanya membantu bank yang sedang
 dalam masalah, tetapi juga memperkuat kepercayaan publik terhadap
 
 sistem keuangan Dengan mandat ini LPS dapat:
+
 
 -----
 
@@ -9912,6 +10053,7 @@ Sistem Keuangan (UU PPKSK) dinyatakan bertentangan dengan UUD
 
 Tahun 1945 dan tidak mempunyai kekuatan hukum mengikat Namun
 
+
 -----
 
 apabila permohonan tersebut dikabulkan, maka akan menimbulkan
@@ -9981,6 +10123,7 @@ berfungsi guna menjaga kepercayaan publik terhadap sistem
 penjaminan simpanan nasional, khususnya pengelolaan keuangan LPS.
 
 Dengan adanya pengawasan dari Menteri Keuangan publik dapat
+
 
 -----
 
@@ -10052,6 +10195,7 @@ permohonan uji materiil _a quo, karena tidak adanya hubungan kausal_
 
 (causal verband) sebab akibat antara hak konstitusional yang didalilkan
 
+
 -----
 
 oleh Para Pemohon dengan pemberlakuan ketentuan pasal-pasal yang
@@ -10120,7 +10264,9 @@ pengujian (constitutional review) Pasal 7 angka 57, Pasal 7 angka 6, dan
 
 Ketentuan Pasal 276 angka 13 UU P2SK terhadap UUD 1945 dapat
 
+
 b ik t b i b ik t
+
 
 -----
 
@@ -10185,6 +10331,7 @@ terhadap LPS adalah memberikan modal awal LPS yang merupakan
 kekayaan negara dipisahkan. Selain itu, APBN berperan menutup
 
 kekurangan atau memberikan pinjaman dari APBN apabila anggaran LPS
+
 
 -----
 
@@ -10253,6 +10400,7 @@ _(1) “Dalam hal Lembaga Penjamin Simpanan mengalami kesulitan_
 _likuiditas, Pemerintah dapat memberikan pinjaman kepada_
 _Lembaga Penjamin Simpanan.”_
 
+
 -----
 
 Penjelasan Pasal 43 ayat (1)
@@ -10318,6 +10466,7 @@ jika diperlukan dalam menjalankan tugasnya (Pasal 85 ayat (3)).
 8. Selain itu, kekayaan LPS tersebut terdapat dalam bentuk, _Pertama, aset_
 
 investasi yang ditempatkan pada surat berharga; dan _Kedua, aset_
+
 
 -----
 
@@ -10385,6 +10534,7 @@ dari total kekayaan LPS (Pasal 82 ayat (4) UU LPS sebagaimana telah
 
 diubah dengan UU P2SK).
 
+
 -----
 
 **II.** **Rasionalitas** **_Open Legal Policy Persetujuan Menteri Keuangan Terhadap_**
@@ -10447,6 +10597,7 @@ bank. **Selain itu, penerapan penjaminan secara luas ini yang**
 memberikan kekuatan hukum sehingga menimbulkan permasalahan
 dalam pelaksanaan penjaminan. Oleh karena itu diperlukan dasar
 hukum yang lebih kuat dalam bentuk Undang-Undang”.
+
 
 -----
 
@@ -10516,6 +10667,7 @@ perbankan, akan tetapi termasuk dalam ruang lingkup keuangan negara
 
 sebagaimana diatur dalam Pasal 2 huruf i UU Keuangan Negara
 
+
 -----
 
 _diberikan Pemerintah”. (vide Keterangan DPR tanggal 4 Desember 2024)._
@@ -10584,6 +10736,7 @@ Pemerintah dalam menerima iuran yang berasal dari premi perbankan.
 
 **_Ketiga, Menteri Keuangan sebagai kuasa presiden mempunyai_**
 
+
 -----
 
 kepemilikan kekayaan negara dipisahkan. **_Keempat, Menteri Keuangan_**
@@ -10645,6 +10798,7 @@ tetapi menjadi open legal policy dari pembentuk UU P2SK.
 **III.** **Implementasi Kewenangan Menteri Keuangan Memberikan Persetujuan**
 
 **terhadap RKAT operasional LPS**
+
 
 -----
 
@@ -10712,6 +10866,7 @@ dapat dimaknai: **_Pertama, sebagai landasan hukum bagi Kementerian_**
 
 Keuangan dengan LPS dalam melakukan koordinasi dalam rangka
 
+
 -----
 
 secara substansial mempunyai konsekuensi logis bahwa Kementerian
@@ -10778,6 +10933,7 @@ asuransi syariah.
 
 6. Sesuai Penjelasan Pasal 86 ayat (2) huruf a UU LPS sebagaimana diubah
 
+
 -----
 
 dan administrasi untuk tahun anggaran berikutnya. Norma tersebut,
@@ -10825,6 +10981,7 @@ LPS, sebagai berikut:
 a. Siklus pertama Wakil Ketua Dewan Komisioner LPS menyampaikan
 
 usulan RKAT operasional LPS kepada Ketua Dewan Komisioner LPS
+
 
 -----
 
@@ -10892,6 +11049,7 @@ RKAT Operasional LPS tidak mengganggu Independensi LPS sehingga tidak
 
 terdapat kerugian konstitusionalitas dengan berlakunya ketentuan Pasal 7
 
+
 -----
 
 angka 57 UU P2SK yang mengubah Pasal 86 ayat (4), Pasal 86 ayat (6) dan
@@ -10957,6 +11115,7 @@ _independen dan pemerintah?_
 **Tanggapan Pemerintah**
 
 1. Prinsip-prinsip atau Core Principles for Effective Deposit Insurance System
+
 
 -----
 
@@ -11024,6 +11183,7 @@ a. Inggris
 
 Pada negara Inggris terdapat program penjaminan simpanan yang serupa
 
+
 -----
 
 **_Services Compensation Scheme_** **(FSCS). FSCS merupakan lembaga**
@@ -11088,6 +11248,7 @@ diperoleh dari lembaga keuangan yang besarannya ditetapkan
 berdasarkan persetujuan Perdana Menteri Jepang dan Menteri Keuangan
 
 Jepang sesuai ketentuan Section 2 dari DPA 1971.
+
 
 -----
 
@@ -11155,6 +11316,7 @@ manifestasi check and balance system terhadap LPS, secara substansial dan
 
 dalam penafsiran sistematis sejalan dengan kaidah hukum dalam
 
+
 -----
 
 Pertimbangan Hukum Putusan Mahkamah Konstitusi Nomor 36/PUU
@@ -11217,6 +11379,7 @@ Pasal 34 ayat (2), Pasal 35 ayat (1) dan (4) serta Pasal 36 UU Nomor 21
 Tahun 2011 tentang Otoritas Jasa Keuangan (UU OJK) sebagaimana
 
 telah diubah dengan UU P2SK, sebagai berikut:
+
 
 -----
 
@@ -11293,11 +11456,13 @@ Gubernur setelah anggaran
 |---|---|---|---|
 |1.|LPS|RKAT:<br>a.**RKAT operasional**; <br>b. RKAT kebijakan.|Ditetapkan<br>oleh<br>Dewan<br>Komisioner setelah RKAT<br>operasional<br>mendapatkan<br>**persetujuan** <br>Menteri<br>Keuangan (Pasal 86 ayat (7)<br>UU LPS yang diamandemen<br>dalam UU P2SK).|
 
+
 -----
 
 |Col1|Col2|a. Anggaran tahunan<br>operasional;<br>b. Anggaran tahunan<br>kebijakan|operasionalnya<br>mendapatkan persetujuan<br>dari DPR (Pasal 60 ayat (2)<br>UU BI yang diamandemen<br>dalam UU P2SK).|
 |---|---|---|---|
 |3.|OJK|**Anggaran operasional**, <br>administrasi pengadaan<br>aset<br>dan<br>kegiatan<br>pendukung lainnya|Menjadi bagian dari BA BUN<br>pada<br>APBN<br>setelah<br>mendapatkan**persetujuan** <br>dari DPR (Pasal 34 dan 36<br>UU OJK yang diamandemen<br>alam UU P2SK).|
+
 
 8. Bahwa pemisahan antara anggaran operasional dengan kebijakan juga
 
@@ -11338,6 +11503,7 @@ _muncul pertanyaan mengenai posisi Menteri Keuangan sebagai Ketua_
 _KSSK (Komite Stabilitas Sistem Keuangan), sementara BI, OJK, dan LPS_
 
 _merupakan lembaga independen._
+
 
 -----
 
@@ -11402,6 +11568,7 @@ d. Ketua Dewan Komisioner LPS sebagai anggota tanpa hak suara.
 koordinasi dalam rangka pemantauan dan pemeliharaan stabilitas sistem
 
 keuangan; _Kedua, melakukan penanganan krisis sistem keuangan; dan_
+
 
 -----
 
@@ -11469,6 +11636,7 @@ koordinator KSSK, dengan beberapa pertimbangan [Naskah Akademik UU
 
 PKKSK, hlm. 29-30]:
 
+
 -----
 
 a. Menteri Keuangan menanggung risiko dampak sistemik dari sektor
@@ -11532,6 +11700,7 @@ dengan cara antara lain melakukan penempatan dana. **Jaring IV**
 jaring terakhir dengan melibatkan APBN, apabila BI dan LPS sudah tidak
 
 mampu melakukan penanganan krisis.
+
 
 -----
 
@@ -11598,6 +11767,7 @@ _Mengapa (dari Perspektif Pemohon) LPS sebagai lembaga negara_
 _independen, seharusnya tidak_ **_berada di bawah pengaruh atau campur_**
 
 _K_ _i_ _K_ _?_
+
 
 -----
 
@@ -11667,6 +11837,7 @@ penanganan tersebut berdampak pada keuangannya sehingga
 
 mempengaruhi kondisi likuiditas LPS Dalam situasi tersebut negara melalui
 
+
 -----
 
 APBN berpotensi memberikan dukungan keuangan kepada LPS, sesuai
@@ -11735,6 +11906,7 @@ operasionalnya secara penuh, yang tetap memerlukan persetujuan Menteri
 
 sedangkan anggaran operasionalnya tetap tunduk pada persetujuan Menteri
 
+
 -----
 
 Keuangan, terutama dalam hal penggunaan dana yang berasal dari
@@ -11802,6 +11974,7 @@ terhadap anggaran, terlebih lembaga tersebut seperti LPS masih termasuk
 
 dalam ruang lingkup keuangan negara dan merupakan derivasi fungsi dari
 
+
 -----
 
 Pertimbangan Hukum Putusan Mahkamah Konstitusi Nomor 28/PUU
@@ -11863,6 +12036,7 @@ _"mendapat_ _pertimbangan"_ _dari_ _Menteri_ _Keuangan?_ _Bagaimana_
 _implikasinya terhadap independensi LPS, mekanisme tata kelola RKAT_
 
 _Operasional LPS dan kepercayaan publik?_
+
 
 -----
 
@@ -11928,6 +12102,7 @@ fiskal utama negara. Hal ini bisa memberikan sinyal bahwa LPS tidak
 terikat pada asas-asas pengelolaan keuangan negara dalam UU
 
 Keuangan Negara. Persetujuan Menteri Keuangan selama ini merupakan
+
 
 -----
 
@@ -11995,6 +12170,7 @@ _Faktor apa yang membuat kepercayaan publik dalam konteks LPS naik_
 
 _atau turun? Apa faktor-faktornya dalam konteks penjaminan simpanan, apa_
 
+
 -----
 
 _Apakah pengawasan_ **_saja tanpa persetujuan tidak bisa mencegah_**
@@ -12060,6 +12236,7 @@ bahwa anggaran digunakan dengan efesien, tepat sasaran, dan tidak ada
 pemborosan atau penyimpangan yang dapat mengurangi kredibilitas LPS
 
 di blik
+
 
 -----
 
@@ -12127,6 +12304,7 @@ institusi ini.
 
 4. Dalam situasi di mana LPS membutuhkan dukungan APBN, terutama dalam
 
+
 -----
 
 dengan UU P2SK), persetujuan RKAT operasional LPS oleh Menteri
@@ -12180,6 +12358,7 @@ terhadap LPS dapat diminimalisir bahkan dihilangkan.
 |No.|Dokumen|Kode|
 |---|---|---|
 
+
 1. Nota Kesepahaman antara Kementerian Keuangan
 
 dengan LPS Nomor NK-9/MK.010/2024 dan Nomor
@@ -12194,12 +12373,15 @@ dan Anggaran Belanja Modal Lembaga Penjamin
 
 Simpanan.
 
+
 P-1
+
 
 -----
 
 |2.|Peraturan Pemerintah Nomor 32 Tahun 2005 tentang<br>Modal Awal Lembaga Penjamin Simpanan.|P-2|
 |---|---|---|
+
 
 Demikian Keterangan Tambahan Presiden ini kami sampaikan, atas perkenan
 
@@ -12257,6 +12439,7 @@ _Pengertian, Ruang LIngkup, Pengelolaan dan Penyelesaian_ _Kerugian Negara,_
 
 PT Kanisius, Yogyakarta, hal. 30-31].
 
+
 -----
 
 **Gambar 1. Lingkup Pengelolaan Keuangan**
@@ -12298,6 +12481,7 @@ Historisitas lahirnya Lembaga Penjamin Simpanan (LPS) di Indonesia tak
 dapat dilepaskan dari desain besar kebijakan pemerintah dalam mengatasi krisis
 
 moneter pada tahun 1998, yang menghantam Indonesia ditandai dengan
+
 
 -----
 
@@ -12367,6 +12551,7 @@ Terminologi “persetujuan” atau “menyetujui” bisa bermakna: pernyataan se
 atau menyetujui pembenaran, pengesahan, atau perkenan, kata sepakat antara
 
 k d b l h ih k t t l h di t j i l h k d b l h ih k
+
 
 -----
 
@@ -12438,6 +12623,7 @@ bank yang dicabut izinnya pada umumnya mengalami permasalahan
 
 l bilit S l bilit d l h k t k i t k b
 
+
 -----
 
 utang-utangnya, baik utang pokok maupun bunganya, dengan menggunakan
@@ -12489,6 +12675,7 @@ ayat (2) huruf a, Pasal 86 ayat (6), dan Pasal 86 ayat (7) huruf a UU No. 4 Tahu
 2023 tentang Pengembangan dan Penguatan Sektor Keuangan, Pasal 86 ayat
 
 (4) UU LPS, Pasal 86 ayat (6) UU LPS, dan Pasal 86 ayat (7) huruf a UU LPS.
+
 
 -----
 
@@ -12571,6 +12758,7 @@ kepastian hukum (principium certitudinis iuris/principle of legal certainty) dal
 
 i l t i h k P l 86 t (2) h f UU LPS M U t b t
 
+
 **Ranah**
 **Tekhnis**
 **Admini**
@@ -12586,6 +12774,7 @@ i l t i h k P l 86 t (2) h f UU LPS M U t b t
 **operasi**
 **onal**
 
+
 Rencana kerja dan anggaran
 
 tahunan untuk kebijakan
@@ -12595,15 +12784,18 @@ polis, penempatan dana,
 resolusi Bank, dan likuiditas
 Perusahaan Asuransi Syariah
 
+
 Menghormati dan
 
 menjaga
 independensi LPS
 
+
 Ranah
 Kewenangan
 
 mandiri LPS
+
 
 -----
 
@@ -12671,6 +12863,7 @@ pada Presiden. Biasanya, yang jauh lebih mempengaruhi independensi
 adalah manakala lembaga tersebut langsung diletakkan di bawah Presiden.
 
 Hal  itulah  yang  berpotensi  mengganggu  independensi  lembaga
+
 
 -----
 
@@ -12740,6 +12933,7 @@ _agencies)._
 **_Ketiga,_** pendapat yang mengatakan bahwa untuk mendefinisikan suatu
 
 lembaga negara independen harus dilihat secara komprehensif baik dari
+
 
 -----
 
@@ -12811,6 +13005,7 @@ yang dalam kaidah tanpa keberadaannya mustahil berjalan. Tetapi bukan
 
 berarti tidak penting untuk ada Keberadaannya tetap penting karena
 
+
 -----
 
 tuntutan masa transisi mupun kebutuhan ketatanagaraan yang semakin
@@ -12857,7 +13052,7 @@ dilihat dari ketika menjalankan fungsi apakah ia akan tergantung pada
 
 lembaga lainnya atau tidak. **Ketiga,** independensi secara administratif
 
-adalah merdeka dalam menentukan kebijakan administrasi, termasuk
+adalah merdeka dalam menentukan kebijakan administrasi, termasuk 
 independensi dalam menentukan anggaran dan
 
 pengangkatan/pemberhentian pegawai sendiri (Jimly Asshiddiqie, 2008:
@@ -12879,6 +13074,7 @@ negara independen mau melaksanakan kewenangannya, maka
 anggarannya jangan sampai dilakukan pembatasan. Itu sebabnya, berdasar
 
 ciri teoritik di atas dalam hal ini dapat dikatakan bahwa **keleluasaan**
+
 
 -----
 
@@ -12950,6 +13146,7 @@ kebijakan.  Kontrol  negara  hanya mungkin dan bisa ada dalam kerangka
 
 operasional dan tidak boleh masuk dalam pelakanaan fungsi Begitu masuk
 
+
 -----
 
 ke pelaksanaan fungsi maka dengan seketika independensi akan sangat
@@ -13017,6 +13214,7 @@ yang digunakan adalah "persetujuan bersama". Kata "persetujuan bersama"
 inilah yang tidak bersifat memindahkan kewenangan ke lembaga yang
 
 memberikan persetujuan, tetapi dijalankan secara bersama. Biasanya,
+
 
 -----
 
@@ -13088,6 +13286,7 @@ independensi. Dalam penalaran hukum yang dapat dilakukan ada beberapa
 
 hal yang harus digaris bawahi
 
+
 -----
 
 **_Pertama, harus dilakukan pemaknaan ulang terhadap beberapa hal agar_**
@@ -13152,6 +13351,7 @@ hal itulah yang akan menjelaskan bahwa persoalan dasar dari permohonan
 ini sesungguhnya bukanlah pada konstitusionalitas norma murni, tetapi
 
 berkisar pada administrasial pelaksanaan.
+
 
 -----
 
@@ -13218,6 +13418,7 @@ _Bank Indonesia dapat memberikan fasilitas pembiayaan darurat yang_
 _pendanaannya menjadi beban Pemerintah.”_
 
 Dalam perjalanannya, lahir Lembaga Penjamin Simpanan (LPS) (Krisis
+
 
 -----
 
@@ -13287,6 +13488,7 @@ menerbitkan 3 (tiga) Perppu yakni: 1) Perppu 2/2008 tentang Perubahan Kedua
 
 atas UU BI, 2) Perppu 3/2008 tentang Perubahan UU 24/2004 tentang LPS, yang
 
+
 -----
 
 kriteria apabila terjadi ancaman krisis yang berpotensi mengakibatkan
@@ -13352,6 +13554,7 @@ hukum yang timbul kemudian menciptakan keraguan kolektif di kalangan
 pembuat kebijakan, yang pada akhirnya menghambat langkahlangkah cepat
 
 dalam penanganan masalah di sektor keuangan.
+
 
 -----
 
@@ -13421,6 +13624,7 @@ Bank Century diarahkan untuk berinvestasi dalam produk Antaboga dengan
 
 iming-iming imbal hasil tinggi. Namun, produk ini ternyata tidak memiliki izin
 
+
 -----
 
 resmi dari Bapepam-LK, dan penjualannya melalui bank seharusnya diawasi
@@ -13485,6 +13689,7 @@ kesulitan likuiditas yang pendanaannya menjadi beban Pernerintah, ketentuan
 tersebut dihapus Oleh UU 9/2016 tentang PPKSK sehingga tidak ada lagi
 
 fasilitas pembiayaan darurat yang pendanaannya menjadi beban Pemerintah.
+
 
 -----
 
@@ -13551,6 +13756,7 @@ sekaligus meningkatkan buffer permodalan bank secara mandiri.
 UU PPKSK ini juga mengatur fasilitas pinjaman kepada bank misalnya
 
 melalui pinjaman likuiditas jangka pendek atau pembiayaan likuiditas jangan
+
 
 -----
 
@@ -13620,6 +13826,7 @@ portofolio kredit besar di sektorsektor yang terdampak langsung oleh pandemi,
 
 seperti pariwisata, transportasi, dan UMKM.
 
+
 -----
 
 **Permasalahan likuiditas bank yang dapat mengarah ke solvabilitas**
@@ -13685,6 +13892,7 @@ portofolio surat utang korporasi yang memiliki peringkat paling rendah
 peringkat investasi sebagai bagian dari pengelolaan likuiditasnya. Selama
 
 pandemi, volatilitas pasar menyebabkan penurunan nilai pasarnya,
+
 
 -----
 
@@ -13753,6 +13961,7 @@ Penempatan Dana dalam UU 2/2020 merupakan salah satu bagian dari
 pelaksanaan fungsi early involvement LPS, yang dalam UU PPKSK baru sebatas
 
 early access ke permasalahan bank. Selain itu, LPS juga diberikan kewenangan
+
 
 -----
 
@@ -13824,6 +14033,7 @@ untuk menangani bank bermasalah secara proaktif. Penempatan Dana ini
 
 dirancang untuk mengatasi kesenjangan likuiditas pada bank yang masih
 
+
 -----
 
 memiliki prospek solvabilitas (illiquid but solvent), terutama ketika bank tersebut
@@ -13894,6 +14104,7 @@ sebagai bank dałam penyehatan yang mengalami permasalahan likuiditas, tetapi
 
 tidak memenuhi syarat sebagai penerima PLJP/PLJPS dari Bank Indonesia
 
+
 -----
 
 Dengan demikian, pada bank yang mengalami permasalahan likuiditas
@@ -13961,6 +14172,7 @@ sepenuhnya disebabkan oleh kelemahan internal. Dałam situasi ini, bank
 masih memiliki prospek solvabilitas yang baik dałam jangka panjang, tetapi
 
 tidak mampu memenuhi kewajiban likuiditas jangka pendek mereka.
+
 
 -----
 
@@ -14032,6 +14244,7 @@ membebani LPS tetapi juga dapat memengaruhi stabilitas industri
 
 perbankan secara keseluruhan
 
+
 -----
 
 Bahwa untuk membuktikan keterangannya, Presiden mengajukan bukti surat
@@ -14097,6 +14310,7 @@ No.23 Tahun 1999 tentang Bank Indonesia sebagaimana telah diubah beberapa
 kali terakhir dengan UU No.4 Tahun 2023 tentang Pengembangan dan
 
 Penguatan Sektor Keuangan (UU BI) yang dikaitkan dengan peran BI sebagai
+
 
 -----
 
@@ -14168,6 +14382,7 @@ _akan terjadi". Dalam konteks ini, klaim Para Pemohon bahwa_
 
 kepentingan dan hak konstitusional tersebut telah terlanggar atau
 
+
 -----
 
 berpotensi terlanggar karena keberadaan UU P2SK tidak dapat
@@ -14237,6 +14452,7 @@ f. Bahwa apa yang dimohonkan pemohon dalam perkara ini merupakan
 perkara PUU atas UU No.4 Tahun 2023 tentang Pengembangan dan
 
 Penguatan Sektor Keuangan (UU P2SK) terhadap Undang-Undang
+
 
 -----
 
@@ -14308,6 +14524,7 @@ dalam UU LPS a.l. :
 
 _pelaksanaan_ _kewenangan_ _LPS_ _terhadap_ _Bank_ _Sistemik_ _yang_
 
+
 -----
 
 _menerima penempatan dana LPS sebagaimana dimaksud pada_
@@ -14377,6 +14594,7 @@ d. Bank sentral harus menyatakan kesiapannya dalam
 
 memberikan pinjaman
 
+
 -----
 
 **Pilar pertama** **LoLR diistilahkan juga sebagai pemberian LoLR**
@@ -14444,6 +14662,7 @@ sebagaimana telah diubah terakhir dengan UU No. 4 Tahun 2023
 memberikan definisi bahwa “bank adalah badan usaha yang menghimpun
 
 _dana dari masyarakat dalam bentuk simpanan dan menyalurkannya_
+
 
 -----
 
@@ -14515,6 +14734,7 @@ dengan UU No. 4 Tahun 2023 tentang Pengembangan dan Penguatan
 
 Sektor Keuangan PPKSK (UU PPKSK) mengatur bahwa penanganan
 
+
 -----
 
 permasalahan bank meliputi penanganan permasalahan likuiditas dan
@@ -14549,16 +14769,20 @@ Berikut gambaran dari masing-masing status pengawasan bank serta
 
 bagaimana bentuk penanganan dari otoritas.
 
+
 **PenangananPermasalahanBank BerdasarkanUU P2SK** **1**
 
-**PenangananPermasalahanBank BerdasarkanUU P2SK**
 
 **PenangananPermasalahanBank BerdasarkanUU P2SK**
+
+
+**PenangananPermasalahanBank BerdasarkanUU P2SK**
+
 
 **Bank Dalam**
 **pengawasan Normal**
 
-**Kriteria**
+**Kriteria** 
 **Penanganan Permasalahan**
 
 BDN dapat mengajukan
@@ -14581,6 +14805,7 @@ instrument likuiditas kpd Bank
 |**Bank Sistemik**|BDN dapat mengajukan<br>instrument likuiditas kpd Bank<br>Indonesia<br>(a.l FLI, Repo, LF, PLJP)<br>**_Solvent_**|a. BDP dapat mengajukan<br>penempatan dana LPS kepada<br>OJK<br>b. OJK dapat meminta LPS<br>melakukan penempatan dana<br>setelah melakukan analisis<br>kelayakan permohonan Bank<br>**Kondisi Bank**|a. OJK meminta penyelenggaraan<br>rapat KSSK utk melaporkan<br>penetapan BS sebagai BDR.<br>b. KSSK mengoordinasikan<br>langkah otoritas|
 |**Bank Selain**<br>**Bank Sistemik**|**Bank Selain**<br>**Bank Sistemik**|**Bank Selain**<br>**Bank Sistemik**|tidak dilaporkan ke KSSK<br>**_Insolvent_**|
 
+
 **RESOLUSI BANK**
 
 _1._ _Purchase and Assumption_
@@ -14592,20 +14817,27 @@ _1._ _Purchase and Assumption_
 3. Penyertaan Modal Sementara
 4. Likuidasi
 
+
 **_Solvent_** **Kondisi Bank** **_Insolvent_**
+
 
 BDP beralih menjadi BDR apabila:
 i. Sebelum Jk. waktu BDP berakhir, Bank mengalami pemburukan dan tidak memenuhi ketentuan permodalan minimum dan/atau giro wajib minimum;
 ii. S.d Jk. waktu BDP berakhir, Bank blm dpt memenuhi ketentuan tingkat permodalan dan/atau menyelesaikan permasalahan likuiditas mendasar; atau
 iii. Bank tidak dapat mengembalikan penempatan dana Lembaga Penjamin Simpanan.
 
+
 **Bank Dalam Penyehatan**
+
 
 **Bank Dalam Resolusi**
 
+
 **_Solvent_** **Kondisi Bank** **_Insolvent_**
 
+
 **RESOLUSI BANK**
+
 
 i. Dalam hal ini, area BI terkait dengan penanganan permasalahan bank
 
@@ -14617,7 +14849,9 @@ dapat dimulai dari status pengawasan bank dalam penyehatan, maka hal
 
 tersebut menjadi kewenangan otoritas terkait yaitu OJK dan LPS.
 
+
 **_Solvent_** **Kondisi Bank** **_Insolvent_**
+
 
 -----
 
@@ -14689,6 +14923,7 @@ b. Berdasarkan Pasal 7 UU BI tersebut, BI merupakan bank sentral yang
 
 memiliki tujuan untuk mencapai stabilitas nilai rupiah memelihara
 
+
 -----
 
 stabilitas sistem pembayaran, dan turut menjaga stabilitas sistem
@@ -14758,6 +14993,7 @@ dibanding dengan arus dana keluar (mismatch), sehingga bank tidak
 dapat memenuhi kewajiban giro wajib minimum (vide Penjelasan Pasal
 
 20 ayat (1) UU PPKSK) Adapun pengajuan permohonan tertulis untuk
+
 
 -----
 
@@ -14829,6 +15065,7 @@ PLJP / PLJPS harus dijamin dengan agunan yang cukup berupa:
 
 bank sistemik tidak memiliki surat berharga sebagaimana dimaksud
 
+
 -----
 
 dalam huruf a dalam jumlah yang cukup; dan
@@ -14899,6 +15136,7 @@ yang diamanatkan oleh UU BI, UU P2SK, dan UU PPKSK yang diuraikan
 
 lebih teknis dalam PBI terkait PLJP dan/atau PLJPS sejalan dengan teori
 
+
 -----
 
 klasik yang diperkenalkan oleh Thornton dan Bagehot. Teori klasik di atas
@@ -14966,6 +15204,7 @@ b. Dalam melaksanakan fungsi turut aktif dalam memelihara stabilitas sistem
 keuangan sesuai dengan kewenangan LPS, Penjelasan Pasal 4 huruf c
 
 UU LPS menyebutkan bahwa:
+
 
 -----
 
@@ -15035,6 +15274,7 @@ LPS berwenang:
 1) menjual dan/atau repo (repurchase agreement) surat berharga negara
 
 yang dimiliki kepada BI dan/atau pihak lain;
+
 
 -----
 
@@ -15106,6 +15346,7 @@ jumlah kekayaan LPS; dan
 
 3) setiap periode penempatan dana paling lama 1 bulan dan dapat
 
+
 -----
 
 diperpanjang paling banyak 5 kali.
@@ -15175,6 +15416,7 @@ uraian di atas dapat disimpulkan terdapat perbedaan karakteristik antara
 PLJP dan penempatan dana LPS pada bank yatu sebagai berikut:
 
 1) Kondisi bank penerima PLJP umumnya masih dalam pengawasan
+
 
 -----
 
@@ -15246,6 +15488,7 @@ dibahas dan disepakati oleh seluruh anggota Komite Stabilitas Sistem
 
 Keuangan (KSSK) termasuk soal mendudukkan pengaturan mengenai
 
+
 -----
 
 penanganan permasalahan bank. Untuk implementasinya juga telah
@@ -15313,6 +15556,7 @@ Konstitusi tanggal 28 Oktober 2024 pada persidangan perkara permohonan
 Pengujian Materiil Undang-Undang (PUU) No. 85/PUU-XXII/2024 bahwa Bank
 
 Indonesia (BI), OJK, dan LPS perlu memberikan keterangan tambahan kepada
+
 
 -----
 
@@ -15382,6 +15626,7 @@ _Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 4,_
 
 _Kementerian Keuangan menyelenggarakan fungsi:_
 
+
 -----
 
 _a. perumusan,_ _penetapan,_ _dan_ _pelaksanaan_ _kebijakan_ _di_ _bidang_
@@ -15449,6 +15694,7 @@ semestinya, tidak dapat diserahkan menjadi tanggung jawab 1 (satu)
 lembaga atau otoritas saja. Tugas tersebut adalah merupakan tanggung
 
 jawab bersama yang memerlukan kerjasama yang erat antara otoritas
+
 
 -----
 
@@ -15520,6 +15766,7 @@ dari Pasal 11 ayat (5) UU Nomor 3 Tahun 2004 tentang Perubahan atas
 
 UU Nomor 23 Tahun 1999 tentang Bank Indonesia Selanjutnya melalui
 
+
 -----
 
 UU Nomor 9 Tahun 2016 tentang Pencegahan dan Penanganan Krisis
@@ -15587,6 +15834,7 @@ _dengan hak suara; dan_
 _d. Ketua Dewan Komisioner Lembaga Penjamin Simpanan sebagai_
 
 _anggota dengan hak suara._
+
 
 -----
 
@@ -15658,6 +15906,7 @@ _h. Mengoordinasikan langkah yang harus didlakukan oleh anggota KSSK_
 
 _untuk_ _mendukung_ _pelaksanaan_ _penanganan_ _pemasalahan_ _Bank_
 
+
 -----
 
 _Sistemik oleh Lembaga Penjamin Simpanan, termasuk pembelian_
@@ -15726,6 +15975,7 @@ musyawarah untuk mufakat, dimana apabila musyawarah untuk mufakat
 tersebut tidak tercapai, maka pengambilan keputusan dilakukan
 
 berdasarkan suara terbanyak
+
 
 -----
 
@@ -15797,6 +16047,7 @@ Pasal 4 ayat (2) berbunyi: “Bank Indonesia adalah lembaga negara
 
 _yang_ _independen_ _dalam_ _melaksanakan_ _tugas_ _dan_ _wewenangnya_
 
+
 -----
 
 _bebas dari campur tangan Pemerintah dan/atau pihak lain, kecuali_
@@ -15866,6 +16117,7 @@ Keuangan oleh: (i) BI sebagai otoritas moneter, makroprudensial, dan
 sistem pembayaran, (ii) OJK yang merupakan otoritas sistem keuangan,
 
 dan (iii) LPS yang merupakan otoritas penjamin simpanan dan resolusi
+
 
 -----
 
@@ -15937,6 +16189,7 @@ kaitannya dengan kebijakan fiskal dan sektor keuangan, sehingga
 
 Presiden dapat mengambil kebijakan dan tindakan yang diperlukan
 
+
 -----
 
 sesuai dengan dinamika perkembangan sistem keuangan. Dengan
@@ -16007,6 +16260,7 @@ keputusan KSSK adalah menjadi tanggung jawab masing-masing
 
 anggota sehingga fungsi Koordinator KSSK yang berada pada Menteri
 
+
 -----
 
 Keuangan merupakan konsolidator, organisator dan fasilitator yang akan
@@ -16074,6 +16328,7 @@ LPS, menyebutkan:
 “Rencana kerja dan anggaran tahunan sebagaimana dimaksud pada ayat (1)
 
 _yang memuat:_
+
 
 -----
 
@@ -16145,6 +16400,7 @@ independen telah ditegaskan dalam Undang-Undang Nomor
 
 UU P2SK serta oleh Mahkamah Konstitusi melalui Putusan
 
+
 -----
 
 Mahkamah Konstitusi Nomor 25/PUU-XII/2014 dan Putusan
@@ -16214,6 +16470,7 @@ unsur-unsur perwakilan Pemerintah karena pada hakikatnya
 OJK merupakan otoritas di sektor jasa keuangan yang
 
 memiliki relasi dan keterkaitan yang kuat dengan otoritas lain
+
 
 -----
 
@@ -16285,6 +16542,7 @@ perekonomian negara sebagaimana **Pertimbangan Hakim**
 
 _memandang_ _penting_ _untuk_ _mengaitkan_ _permohonan_
 
+
 -----
 
 _para Pemohon a quo dengan Putusan Mahkamah_
@@ -16351,6 +16609,7 @@ _dibentuk_ _dengan_ _undang-undang”._ **_Meski_** **_tidak_**
 **_undangan dinyatakan bahwa materi muatan yang_**
 
 **_harus diatur dengan Undang- Undang berisi perintah_**
+
 
 -----
 
@@ -16422,6 +16681,7 @@ kecuali memenuhi alasan yang secara tegas diatur dalam UU
 
 OJK Di samping itu untuk mendapatkan pimpinan OJK yang
 
+
 -----
 
 tepat, UU OJK mengatur mekanisme **seleksi yang**
@@ -16490,6 +16750,7 @@ dalam pemberian persetujuan terhadap RKA OJK juga
 
 merupakan suatu konsekuensi logis, dalam hal OJK tidak
 
+
 -----
 
 menggunakan anggaran APBN, sehingga mekanisme terkait
@@ -16557,6 +16818,7 @@ _kemampuannya._ **_Pungutan_** **_tersebut_** **_merupakan_**
 **_diadministrasikan oleh OJK secara akuntabel dan_**
 
 **_mandiri_** _Dalam_ _hal_ _jumlah_ _pungutan_ _telah_ _melebihi_
+
 
 -----
 
@@ -16628,6 +16890,7 @@ beranggotakan Menteri Keuangan, Gubernur Bank Indonesia
 
 Komisioner LPS (vide Pasal 4 UU PPKSK)
 
+
 -----
 
 2) **BI, OJK, dan LPS merupakan lembaga independen,**
@@ -16697,6 +16960,7 @@ suara kepada LPS, maka jumlah hak suara menjadi genap
 sehingga berpotensi terjadi _deadlock. Berdasarkan hal_
 
 tersebut kemudian UU P2SK menambahkan mekanisme
+
 
 -----
 
@@ -16768,6 +17032,7 @@ dengan APBN, keterlibatan pemerintah c.q Menteri
 
 Keuangan dan sumber anggaran
 
+
 -----
 
 2) Adapun secara ringkas perbandingan tersebut dapat
@@ -16780,6 +17045,7 @@ digambarkan dalam tabel berikut:
 |Tidak ada ketentuan bahwa<br>anggaran OJK merupakan<br>bagian dari APBN|Anggaran OJK merupakan<br>**bagian**<br>**dari**<br>**Bagian**<br>**Anggaran**<br>**Bendahara**<br>**Umum Negara** pada** APBN**|
 |Sebelum<br>penetapan<br>anggaran,<br>OJK<br>terlebih<br>dahulu<br>meminta<br>persetujuan DPR|Anggaran<br>dibahas<br>OJK<br>bersama<br>DPR<br>dan<br>dimintakan<br>persetujuan<br>DPR.<br>**Hasil**<br>**pembahasan**<br>**disampaikan**<br>**kepada**<br>**Menteri Keuangan untuk**<br>**menjadi bahan RUU APBN **<br>**setiap tahun**.|
 
+
 Sumber anggaran: APBN
 
 **dan/atau** Pungutan
@@ -16787,6 +17053,7 @@ Sumber anggaran: APBN
 (Pungutan tidak ditetapkan
 
 sebagai PNBP)
+
 
 Sumber anggaran: Pungutan
 
@@ -16796,12 +17063,14 @@ dan penerimaan lainnya
 
 **diserahkelolakan** kepada
 
+
 -----
 
 |Col1|OJK sebagai mitra instansi<br>pengelola PNBP.<br>OJK dapat mengajukan<br>Rupiah Murni dengan<br>menyampaikan kepada<br>Menteri Keuangan.|
 |---|---|
 |Acuan RKA: UU 21/2011<br>Acuan<br>Pungutan:<br>UU<br>21/2011 dan PP 11/2014|Acuan RKA: UU OJK jo UU<br>P2SK OJK dan PP 41/2024,<br>peraturan terkait PNBP.<br>Apabila<br>terdapat<br>Rupiah<br>Murni, maka merujuk pada<br>peraturan<br>di<br>bidang<br>keuangan negara**kecuali** <br>diatur secara khusus dalam<br>PP 41/2024.<br>Acuan Pungutan: UU OJK jo<br>UU P2SK dan PP 41/2024.|
 |Standar<br>biaya,<br>proses<br>pengadaan<br>barang<br>dan<br>jasa, dan sistem remunerasi<br>**diatur dengan PDK**(Ps. 35<br>ayat (4))|Standar<br>biaya,<br>proses<br>pengadaan barang dan jasa,<br>pengelolaan<br>SDM,<br>organisasi, dan remunerasi<br>diatur dalam**PP setelah**<br>**mendapatkan persetujuan**<br>**dari DPR**. <br>Catatan: untuk ketentuan<br>lebih<br>lanjut<br>mengenai<br>“organisasi” dan “tata kerja<br>OJK” (Ps. 26 ayat (4)), serta<br>“kepegawaian” (Ps. 27 ayat<br>(4)) diatur dengan PDK.|
+
 
 -----
 
@@ -16870,6 +17139,7 @@ sebagaimana diatur dalam Pasal 34 dalam pada angka 12,
 Pasal 35 pada angka 13, dan Pasal 36A pada angka 14 dalam
 
 Pasal 8 angka 14 UU P2SK.
+
 
 -----
 
@@ -16941,6 +17211,7 @@ Pasal 34 dalam Pasal 8 angka 12 UU P2SK mengatur
 
 anggaran OJK merupakan bagian dari APBN dan pungutan
 
+
 -----
 
 OJK merupakan bagian dari Pendapatan Negara Bukan
@@ -17010,6 +17281,7 @@ _seluruhnya secara langsung oleh Otoritas Jasa_
 _Keuangan untuk memenuhi kebutuhan pendanaan_
 
 _kegiatan_ _sebagaimana_ _dimaksud_ _dalam_ _Pasal_ _35_
+
 
 -----
 
@@ -17081,6 +17353,7 @@ _Dalam rangka menyusun RKA Otoritas Jasa Keuangan_
 
 _sebagaimana_ _dimaksud_ _pada_ _ayat_ _(1)_ **_Dewan_**
 
+
 -----
 
 **_Komisioner melakukan koordinasi dengan Menteri_**
@@ -17150,6 +17423,7 @@ pungutan OJK dengan PNBP pada umumnya, yaitu PNBP
 pungutan OJK tidak masuk ke dalam kas negara melainkan
 
 tetap ada pada kas OJK Selain itu pengelolaan PNBP
+
 
 -----
 
@@ -17221,6 +17495,7 @@ Komisioner (vide Pasal 35 ayat (4) UU OJK). Sesudah
 
 berlakunya UU P2SK diatur dalam **Peraturan** **Pemerintah**
 
+
 -----
 
 **yang** **penyusunannya** **dilakukan** **setelah** **mendapat**
@@ -17290,6 +17565,7 @@ norma yang lebih menjamin independensi OJK dalam
 Peraturan Pemerintah yang mengatur mengenai standar
 
 biaya proses pengadaan dan remunerasi OJK sehingga OJK
+
 
 -----
 
@@ -17361,6 +17637,7 @@ sembilan) prinsip yang antara lain terkait dengan prinsip
 
 independensi akuntabilitas sumber daya dan perlindungan
 
+
 -----
 
 hukum bagi pengawas (independence, _accountability,_
@@ -17430,6 +17707,7 @@ _banks under its supervision._
 _(2)_ _The process for the appointment and_
 
 _removal_ _of_ _the_ _head(s)_ _of_ _the_ _supervisory_
+
 
 -----
 
@@ -17501,6 +17779,7 @@ _based_ _on_ _their_ _professionalism_ _and_
 
 _integrity_ _There_ _are_ _rules_ _on_ _how_ _to_ _avoid_
 
+
 -----
 
 _conflicts of interest and on the appropriate_
@@ -17570,6 +17849,7 @@ _domestic and international meetings_
 _of_ _significant_ _relevance_ _(eg_
 
 _supervisory colleges)_
+
 
 -----
 
@@ -17641,6 +17921,7 @@ kesehatan dan fungsi sektor keuangan yang berimbas pada
 
 kinerja sektor keuangan dan ekonomi negara lain Tujuan lain
 
+
 -----
 
 FSAP juga sebagai mekanisme untuk menilai stabilitas dan
@@ -17675,7 +17956,9 @@ Otoritas di suatu negara dalam rangka pengaturan dan
 
 pengawasan sektor jasa keuangan serta formulasi
 
+
 kebijakan yang tepat untuk mengantisipasi krisis.
+
 
 b) Penerbitan hasil FSAP suatu negara dalam website IMF
 
@@ -17697,7 +17980,9 @@ kemudahan bagi industri jasa keuangan negara tersebut
 
 untuk bertransaksi dengan pihak luar negeri dan
 
+
 pengembangan bisnis ke luar negeri.
+
 
 7) Dalam kaitan dengan anggaran, OJK terdapat hasil
 
@@ -17710,6 +17995,7 @@ sampaikan bahwa Indonesia **tidak memenuhi standar**
 sistem keuangan karena:
 
 a) anggaran OJK sebagai bagian dari APBN;
+
 
 -----
 
@@ -17781,6 +18067,7 @@ _Ministry of Finance.”_
 
 **_Representatives_** **_ultimate_** **_responsibility_** **_for_** **_it_** **_still_**
 
+
 -----
 
 **_rests with the Ministry of Finance. The integration of_**
@@ -17849,6 +18136,7 @@ _protection, etc. There is potential risk associated with_
 
 **_prioritization of national interests over the safety and_**
 
+
 -----
 
 **_soundness_** **_mandate,_** **_which_** **_potentially_** **_could_**
@@ -17916,6 +18204,7 @@ mengatur kekhususan tersebut.
 b) Penyesuaian penetapan besaran Pungutan sampai
 
 dengan 0% untuk Pihak yang sedang mengalami
+
 
 -----
 
@@ -17987,6 +18276,7 @@ Menteri Keuangan dan perlu merujuk pada ketentuan
 
 peraturan perundang-undangan lain seperti Peraturan
 
+
 -----
 
 Menteri Keuangan. Hal ini dapat mempengaruhi keleluasaan
@@ -18055,6 +18345,7 @@ mengeskalasi gangguan terhadap stabilitas sistem keuangan sangat
 
 signifikan.
 
+
 -----
 
 3) Sebagai front line dalam menjaga stabilitas sistem keuangan, OJK
@@ -18122,6 +18413,7 @@ usahanya (viability).
 8) Opsi pemulihan didasarkan atas indikator yang mewakili dan
 
 mengidentifikasi kerentanan utama (key vulnerabilities) terkait
+
 
 -----
 
@@ -18193,6 +18485,7 @@ pada bagian lain dalam Pasal 276 angka 3 dalam Pasal 16C ayat (3)
 
 dan Pasal 276 angka 24 dalam Pasal 30 UU P2SK Sementara itu
 
+
 -----
 
 penguatan dalam UU P2SK yang terkait dengan pengawasan bank,
@@ -18260,6 +18553,7 @@ mengikutsertakan pihak lain, baik dalam bentuk penerbitan
 salah melalui penawaran umum atau tidak melalui penawaran
 
 umum (private placement).
+
 
 -----
 
@@ -18331,6 +18625,7 @@ ayat (1) UU PPKSK tidak bertentangan dengan Pasal 23D, Pasal 28C ayat (2),
 
 serta Pasal 28D ayat (1) UUD 1945;
 
+
 -----
 
 Terhadap pengujian pasal-pasal lainnya dalam Permohonan _a quo, OJK_
@@ -18399,6 +18694,7 @@ Jaringan komunikasi yang dikelola oleh SWIFT merupakan komponen
 
 vital dalam penyelenggaraan transaksi keuangan antar negara karena
 
+
 -----
 
 berfungsi untuk memverifikasi identitas bank dan memastikan bahwa
@@ -18466,6 +18762,7 @@ menguat setelah Indonesia tergabung sebagai anggota dari G-20. Pada
 KTT yang di adakan di Los Cabos pada Juni 2012, para pemimpin negara
 
 G-20 mendukung kerja Basel Committee on Banking Supervision (BCBS)
+
 
 -----
 
@@ -18537,6 +18834,7 @@ meningkatkan kepercayaan investor untuk melakukan penempatan
 
 investasi di Indonesia yang dinilai memenuhi standar internasional
 
+
 -----
 
 7. Dengan penerapan _Basel Core Principle sebagai_ _international best_
@@ -18606,6 +18904,7 @@ keamanan bagi rakyatnya di segala aspek kehidupan, baik dalam
 aspek ekonomi, sosial, budaya, kepercayaan, agama, dan politik
 
 maupun keamanan dalam negeri sehingga memberikan lingkungan
+
 
 -----
 
@@ -18677,6 +18976,7 @@ _resourcing and legal protection for supervisors, maka bank pada negara_
 
 tersebut cenderung tumbuh secara kuat [International _Monetary_ _Fund_
 
+
 -----
 
 _Working Paper: Good Supervision: Lessons From The Field, Tobias_
@@ -18743,6 +19043,7 @@ Taylor/d681fc58e3a8c289ff010787a63bdd92d787f534]. Campur tangan
 politik pada pengaturan sektor keuangan memperburuk kondisi krisis.
 
 Tekanan politik menghalangi regulator dan pengawas untuk menegakkan
+
 
 -----
 
@@ -18814,6 +19115,7 @@ untuk memilih sistem keuangan yang sesuai dengan kepentingan
 
 nasional
 
+
 -----
 
 22. Dalam pelaksanaan kedaulatan tersebut, Indonesia perlu
@@ -18884,6 +19186,7 @@ bernegosiasi mengenai draf rekomendasi, terutama agar
 
 rekomendasi sesuai dengan konteks Indonesia
 
+
 -----
 
 b. Fokus pada Stabilitas dan Ketahanan: FSAP bertujuan untuk
@@ -18951,6 +19254,7 @@ sektor keuangan di Indonesia.
 g. Adaptasi Kerangka Hukum: Indonesia dapat mengadaptasi kerangka
 
 hukum Indonesia dengan cara yang selaras dengan konteks
+
 
 -----
 
@@ -19022,6 +19326,7 @@ kebijakan di sektor jasa keuangan yang independen. Dengan demikian,
 
 menurut pandangan OJK hasil FSAP walau tidak terkait langsung dengan
 
+
 -----
 
 kedaulatan hukum pengaturan sektor jasa keuangan di Indonesia, namun
@@ -19087,6 +19392,7 @@ BRICS dapat mengurangi dominasi dolar AS, menciptakan
 kemungkinan sistem mata uang alternatif yang lebih stabil bagi
 
 negara-negara berkembang.
+
 
 -----
 
@@ -19155,6 +19461,7 @@ kualitas regulasi dan pengawasan sektor jasa keuangan,
 meningkatkan stabilitas sektor keuangan nasional, serta
 
 memperkuat posisi Indonesia dalam menghadapi risiko global.
+
 
 -----
 
@@ -19226,6 +19533,7 @@ pengembangan kapasitas tidak hanya bagi regulator namun
 
 juga bagi pelaku sektor jasa keuangan
 
+
 -----
 
 34. Adapun dampak lainnya bagi Indonesia _in casu OJK dengan mengikuti_
@@ -19293,6 +19601,7 @@ b. Lembaga pemeringkat internasional umumnya menilai negara
 berdasarkan kepatuhan terhadap standar internasional, seperti Basel
 
 _Core Principles untuk perbankan. Penyimpangan dari standar ini_
+
 
 -----
 
@@ -19362,6 +19671,7 @@ anggaran OJK, dapat OJK uraikan sebagai berikut.
 
 **Keuangan terhadap anggaran OJK, baik dalam hal anggaran OJK**
 
+
 -----
 
 menggunakan sepenuhnya pungutan maupun dalam hal anggaran OJK
@@ -19429,6 +19739,7 @@ keterlibatan Menteri Keuangan hanya dalam bentuk koordinasi (vide
 Pasal 33 ayat (1) PP 41/2024). Adapun mekanisme koordinasi antara OJK
 
 dan Menteri Keuangan tersebut, yaitu koordinasi yang sama yang
+
 
 -----
 
@@ -19499,6 +19810,7 @@ sebagai upaya untuk mempertebal check and balances terhadap OJK.
 15. OJK sebagai sebuah lembaga negara yang bersifat independen memiliki
 
 kekhususan karakteristik jika dibandingkan dengan lembaga negara lain
+
 
 -----
 
@@ -19638,6 +19950,7 @@ dengan Menteri Keuangan (dalam hal menggunakan Rupiah
 
 Murni untuk pengembangan) serta persetujuan Menteri
 
+
 -----
 
 Keuangan (dalam hal penggunaan Rupiah Murni untuk selain
@@ -19707,6 +20020,7 @@ OJK.
 24. Sedangkan dalam hal OJK menggunakan Rupiah Murni, keterlibatan
 
 Menteri Keuangan diwujudkan dalam bentuk penetapan pagu anggaran
+
 
 -----
 
@@ -19778,6 +20092,7 @@ sendiri penggunaan anggaran yang diperoleh OJK dari pungutan di sektor
 
 jasa keuangan termasuk Rupiah Murni Menjadi penting adanya kriteria
 
+
 -----
 
 dan norma yang lebih menjamin independensi OJK dalam Peraturan
@@ -19845,6 +20160,7 @@ Pengawasan BPR dan BPRS (POJK 28/2023);
 
 Tahun 2024 tentang Penetapan Status Pengawasan dan
 
+
 -----
 
 9. Bukti PT - 07 : Fotokopi Declaration of the Summit on Financial Markets
@@ -19910,6 +20226,7 @@ Republik Indonesia Tahun 1945 (UUD 1945). Sehubungan dengan hal
 tersebut, dengan ini perkenankanlah saya menyampaikan Keterangan
 
 Tertulis Ahli ini.
+
 
 -----
 
@@ -19980,6 +20297,7 @@ menggunakan istilah “organ negara”, namun dalam kenyataannya juga
 ada istilah lain yang dipergunakan di berbagai peraturan perundang
 undangan Indonesia seperti “badan negara” dan “lembaga negara”
 
+
 -----
 
 Pasal II Aturan Peralihan UUD 1945 yang asli misalnya menggunakan
@@ -20047,6 +20365,7 @@ dirinya sendiri (self regulatory bodies).
 5. Salah satu lembaga negara independen yang dilahirkan dalam Era
 
 Pasca Reformasi tersebut adalah Otoritas Jasa Keuangan (OJK) Latar
+
 
 -----
 
@@ -20116,6 +20435,7 @@ pelaksanaan pasal ini diatur dalam undang-undang” [Lihat Pasal 33 ayat
 
 pelaksanaan dari ketentuan Pasal 33 ayat (5) tersebut.
 
+
 -----
 
 8. Dalam UU OJK [Pasal 36 UU OJK] antara lain diatur bahwa salah satu
@@ -20184,6 +20504,7 @@ sebagaimana dijelaskan di atas. Independensi OJK tidaklah
 bersifat mutlak dan tidak terbatas, akan tetapi dibatasi oleh hal
 O
 
+
 -----
 
 **b. Putusan Mahkamah Konstitusi Nomor 102/PUU-XVI/2018**
@@ -20248,6 +20569,7 @@ kepada Menteri Keuangan [Pasal 34 dalam Pasal 8 angka 12 UU P2SK].
 Ketentuan tersebut menunjukkan maksud dari pembuat Undang-Undang
 
 untuk menjamin independensi OJK namun dengan tetap adanya _check_
+
 
 -----
 
@@ -20319,6 +20641,7 @@ hukum anggaran lembaga negara independen yang sebagian terbesar
 
 berada pada DPR-RI daripada pemerintah
 
+
 -----
 
 17. Permasalahan dalam Uji Materi ini mengemuka karena peraturan
@@ -20388,6 +20711,7 @@ lembaga-lembaga negara independent yang sejenis.
 21. Prof. Dr. Bagir Manan, S.H., M.C.L., Guru Besar Fakultas Hukum
 
 Universitas Padjadjaran dan Mantan Ketua Mahkamah Agung
+
 
 -----
 
@@ -20459,6 +20783,7 @@ sebagaimana anggaran BI dan LPS, sehingga tidak ada justifikasi
 
 Persetujuan Menteri Keuangan terhadap anggaran OJK
 
+
 -----
 
 27. Karena kedudukan OJK dalam berbagai peraturan perundang-undangan
@@ -20529,6 +20854,7 @@ negara dapat diwujudkan dalam forum KSSK pada saat dilakukan
 
 pengambilan keputusan Koordinasi mencakup kebijakan
 
+
 -----
 
 makroprudensial, mikroprudensial, dan penanganan permasalahan bank
@@ -20597,6 +20923,7 @@ tentang Pengembangan dan Penguatan Sektor Keuangan
 
 (berbentuk omnibus dan mengubah sebagian ketentuan dalam
 
+
 -----
 
 UU P3      : Undang-Undang Republik Indonesia Nomor 12 Tahun 2011
@@ -20664,6 +20991,7 @@ merupakan bagian dari 8 (delapan) prinsip hukum dari Lon Fuller dalam _The_
 
 _M_ _li_ _f L_ (1963 hl 33 94) i d l h l “ di i _i_ _h_ _l_ ”
 
+
 -----
 
 yang pokoknya berisikan kaidah bahwa aturan-hukum tidak boleh bertentangan
@@ -20699,12 +21027,14 @@ bawah:
 |---|---|---|
 |**Ps. 34 ayat (1) Dewan**<br>**Komisioner menyusun**<br>rencana<br>kerja<br>dan<br>anggaran Otoritas Jasa<br>Keuangan.|**Pasal 5 ayat (1)** <br>Dewan<br>Komisioner<br>**menyusun**RKA<br>Otoritas<br>Jasa Keuangan setiap tahun<br>untuk membiayai kegiatan<br>sebagaimana<br>dimaksud<br>dalam Pasal 4 ayat (2)|Ketentuan<br>dalam<br>UU<br>menyatakan bahwa RKA<br>disusun<br>oleh<br>Dewan<br>Komisioner.<br>Ketentuan<br>tentang<br>anggaran diatur dalam<br>Pasal 35 UU P2SK<br>Dalam PP, penyusunan|
 
+
 -----
 
 |Col1|Pasal 5 ayat (2)<br>Dalam rangka menyusun<br>RKA Otoritas Jasa<br>Keuangan sebagaimana<br>dimaksud pada ayat (1),<br>Dewan Komisioner<br>melakukan koordinasi<br>dengan Menteri pada awal<br>tahun perencanaan<br>mengenai: […]|RKA dilakukan oleh<br>Dewan Komisioner<br>dengan berkoordinasi<br>pada Menteri Keuangan.<br>Atau dengan kata lain,<br>Terdapat penambahan<br>pihak dalam<br>penyusunan RKA, yaitu<br>Menteri Keuangan dalam<br>hubungan koordinatif.|
 |---|---|---|
 ||**Pasal 5 ayat (3)** <br>Ketentuan<br>lebih<br>lanjut<br>mengenai<br>tata<br>cara<br>pelaksanaan<br>**koordinasi**<br>sebagaimana<br>dimaksud<br>pada ayat (2) diatur dalam<br>Peraturan Menteri.|**Pasal 5 ayat (3)** <br>Ketentuan<br>lebih<br>lanjut<br>mengenai<br>tata<br>cara<br>pelaksanaan<br>**koordinasi**<br>sebagaimana<br>dimaksud<br>pada ayat (2) diatur dalam<br>Peraturan Menteri.|
 |**Ps. 34 ayat (3)** <br>Anggaran sebagaimana<br>dimaksud pada ayat (2)<br>**dibahas Otoritas Jasa**<br>**Keuangan**<br>bersama|**Pasal 6 ayat (1)** <br>Dewan<br>Komisioner<br>Otoritas Jasa Keuangan<br>menyampaikan<br>RKA<br>Otoritas Jasa Keuangan<br>sebagaimana dimaksud<br>dalam Pasal 5 kepada<br>**Dewan**<br>**Perwakilan**<br>**Rakyat untuk dibahas.**|**Pasal 6 ayat (1)** <br>Dewan<br>Komisioner<br>Otoritas Jasa Keuangan<br>menyampaikan<br>RKA<br>Otoritas Jasa Keuangan<br>sebagaimana dimaksud<br>dalam Pasal 5 kepada<br>**Dewan**<br>**Perwakilan**<br>**Rakyat untuk dibahas.**|
+
 
 ayat (1) dan ayat (2) OJK
 
@@ -20713,6 +21043,7 @@ terlebih dahulu meminta
 persetujuan Dewan
 
 Perwakilan Rakyat.
+
 
 **Paragraf   2   Bagian**
 
@@ -20727,6 +21058,7 @@ termasuk     mekanisme
 **koordinasi** dengan
 
 **Menteri sebagai BUN. [...]**
+
 
 -----
 
@@ -20768,6 +21100,7 @@ undang-undang
 |---|---|---|
 |**Pasal 36B** <br>Ketentuan<br>lebih<br>lanjut<br>mengenai rencana kerja<br>dan anggaran Otoritas<br>Jasa<br>Keuangan<br>sebagaimana dimaksud<br>dalam**Pasal 34**, Pasal<br>35, Pasal 36A diatur<br>dalam<br>Peraturan<br>**Pemerintah.**|**Pasal 5 ayat (3)**<br>Ketentuan lebih lanjut<br>mengenai tata cara<br>pelaksanaan**koordinasi**<br>sebagaimana dimaksud<br>pada ayat (2) diatur dalam<br>**Peraturan Menteri.**|Pasal 34 UU P2SK<br>mengatur subyek Dewan<br>Komisioner OJK dalam<br>menyusun RKA.<br>Ketentuan tentang Ps. 5<br>ayat 2 dan ayat 3<br>mengatur dua subyek,<br>yaitu<br>**Dewan**<br>**Komisioner**<br>bersama<br>dengan<br>**Menteri**<br>**Keuangan**<br>dalam<br>hubungan yang sifatnya<br>**koordinatif**.|
 
+
 -----
 
 Karena norma
@@ -20802,6 +21135,7 @@ yang sifatnya koordinatif dengan OJK.
 
 |Col1|Col2|Karena norma<br>induknya dalam UU<br>tidak mengatur<br>tentang Menteri<br>Keuangan, maka<br>hubungan<br>“koordinatif” in casu<br>adalah bermakna<br>bahwa Dewan<br>Komisioner OJK<br>sebagai pihak yang<br>otoritatif sebagai<br>penyusun RKA.<br>Adapun sifat<br>“koordinatif” dengan<br>Menteri Keuangan<br>adalah semata-mata<br>hubungan koordinasi<br>yang tidak<br>menimbulkan suatu<br>persyaratan.|
 |---|---|---|
+
 
 -----
 
@@ -20873,6 +21207,7 @@ menyatakan pada pokoknya tentang kewajiban untuk menyampaikan
 
 laporan kinerja tahunan dan triwulanan kepada Presiden dan DPR Bahwa
 
+
 -----
 
 kewajiban OJK melakukan penyampaian laporan tersebut kemudian
@@ -20942,6 +21277,7 @@ hasil pembahasan bersama dengan DPR sebagai bahan
 |DPR|- Membahas RKA bersama OJK (Ps. 34 UU P2SK)<br>- Memberi persetujuan anggaran RKA (Ps. 36 UU OJK)|
 |Menteri|- Mendapatkan RKA yang disampaikan oleh OJK setelah melalui<br>hasil pembahasan bersama dengan DPR sebagai bahan<br>menyusun RUU APBN (Ps. 36B UU P2SK)|
 
+
 -----
 
 Bahwa selanjutnya, dari regulasi tersebut, terdapat regulasi pelaksana
@@ -21007,6 +21343,7 @@ Bahwa sepanjang ketentuan dalam Pasal 34, Pasal 35, dan Pasal
 36A, menyebutkan bahwa Menteri Keuangan adalah sebagai pihak yang
 
 mendapatkan penyampaian hasil RKA yang telah dibahas antara OJK
+
 
 -----
 
@@ -21075,6 +21412,7 @@ sudah seharusnya tunduk pada logika para pihak dan kedudukannya dalam
 norma UU P2SK.
 
 [2.7] Menimbang bahwa terhadap permohonan para Pemohon, Pihak Terkait
+
 
 -----
 
@@ -21146,6 +21484,7 @@ b. Penyusunan dan persetujuan RKAT LPS setelah UU P2SK.
 
 LPS i ti t k
 
+
 -----
 
 a. Kepala Eksekutif (berdasarkan nomenklatur dalam UU LPS) wajib
@@ -21214,6 +21553,7 @@ tier _board system’_ atau yang dikenal “unitary system’, dimana
 keseluruhan fungsi berada dalam satu dewan. Pelaksanaan fungsi
 
 operasional yang dilakukan oleh Kepala Eksekutif diawasi oleh
+
 
 -----
 
@@ -21285,6 +21625,7 @@ LPS.
 
 c Adanya penyampaian Laporan Kegiatan Kerja dan Keuangan Tahunan
 
+
 -----
 
 yang **telah diuji oleh BPK** kepada Presiden sebagai bentuk
@@ -21354,6 +21695,7 @@ dan mengubah 17 UU di sektor keuangan. Undang- undang ini dikenal
 dengan Ominibus Law Sektor Keuangan, yang mengatur pengembangan
 
 dan penguatan kelembagaan di sektor keuangan salah satunya adalah
+
 
 -----
 
@@ -21425,6 +21767,7 @@ disetujui dalam Rapat Dewan Komisioner, **“Draft RKAT Operasional”**
 
 **yang telah dibahas dan disetujui dalam Rapat Dewan Komisioner LPS**
 
+
 -----
 
 **tersebut,** **harus** **diajukan** **kepada** **Menteri** **Keuangan** **untuk**
@@ -21495,6 +21838,7 @@ LPS (“BSLPS"), yang diatur dalam Bagian Ketiga, Pasal 7, angka 61 UU
 
 P2SK yang pokok pokok pengaturannya sebagai berikut:
 
+
 -----
 
 a. Berdasarkan UUP2SK dibentiik BSLPS yang **berfungsi membantu**
@@ -21563,6 +21907,7 @@ secara terbuka melalui media massa terkait (i) evaluasi pelaksanaan
 
 kebijakan; dan (ii) rencana kebijakan dan penetapan sasaran LPS.
 
+
 -----
 
 f. Adanya evaluasi dari DPR atas laporan Kinerja LPS (laporan triwulan
@@ -21605,7 +21950,7 @@ b. Bahwa jika membandingkan konsepsi penyusunan RKAT berdasarkan
 
 Undang-Undang sebelum UU P2SK, dengan One-tier _Board_ System
 
-atau Unitary System diharapkan dapat menjaga independensi LPS
+atau Unitary System diharapkan dapat menjaga independensi LPS 
 karena dalam organ Dewan Komisioner sudah terdapat ADK ex-offcio
 
     - sehingga eksposure terkait penanganan resolusi bank, baik dalam
@@ -21630,6 +21975,7 @@ Keuangan (RUU P2SK) di Komisi XI DPR, yang didalamnya terkait
 perubahan ketentuan penyusunan RKAT LPS yang menjadi obyek
 
 permohonan perkara a quo
+
 
 -----
 
@@ -21701,6 +22047,7 @@ kelola yang baik dengan meraih 13 kali Wajar Tanpa Pengecualian
 
 b Bahwa dipahami Kementerian Keuangan BI dan OJK memiliki tugas
 
+
 -----
 
 dan kewenangan masing-masing sesuai peraturan perundang
@@ -21769,6 +22116,7 @@ Keiiangan untuk penyusunan RKAT Operasional tahun 2024. Hal ini
 berbeda dengan pengaturan ketentuan penyusunan RKAT yang
 
 berlaku bagi OJK dalam UU P2SK dimana penyusunan RKAT OJK
+
 
 -----
 
@@ -21840,6 +22188,7 @@ keuangan tahunan LPS; serta (iii) evaluasi dan rencana kebijakan dan
 
 sasaran LPS serta laporan keuangan tahunan yang di piiblish melalui
 
+
 -----
 
 media massa, maka diharapkan LPS dapat menjaga independensi dalam
@@ -21909,6 +22258,7 @@ Tahun 2020)
 Bank yang mengalami kesulitan likuiditas namun tidak memenuhi syarat
 
 untuk mendapatkan Pinjaman Likuiditas Jangka Panjang **(“PLJP”)** dan
+
 
 -----
 
@@ -21980,6 +22330,7 @@ PLJP atau PLJPS (vide Pasal 20B ayat (4) UU PPKSK).
 
 7 Bahwa yang menjadi tantangan dalam pelaksanaan kewenangan
 
+
 -----
 
 penempatan dana oleh LPS adalah agunan yang memadai yang dapat
@@ -22050,6 +22401,7 @@ mengatasi kesulitan likuiditas bagi Bank, namun Bank yang mengajukan
 
 permohonan penempatan dana kepada OJK seharusnya masih layak
 
+
 -----
 
 untuk diselamatkan karena memiliki prospek usaha yang bagus dan
@@ -22117,6 +22469,7 @@ independen, terdapat modal awal sebesar Rp 4.000.000.000.000,
 dipisahkan, dan selanjutnya kekayaan LPS bersumber dari
 
 i i i d t i b k di k t k
+
 
 -----
 
@@ -22188,6 +22541,7 @@ b. Sekilas mengenai penilaian FSAP, dapat diuraikan sebagai berikut:
 
 analisis komprehensif dan mendalam mengenai ketahanan
 
+
 -----
 
 sektor keuangan suatu negara. Sebagai bagian penting dari
@@ -22257,6 +22611,7 @@ the _Group of Twenty (G20) dan_ _Financial Stability Board_
 memiliki perekonomian terbesar dunia dengan _Gross_
 
 _Domestic Product (GDP) sebesar 1 34 Triliun USD_
+
 
 -----
 
@@ -22328,6 +22683,7 @@ kesulitan keuangan dan **dapat menjalankan fungsinya**
 
 **sebagai** **_Lender_** **_of_** **_the_** **_Last_** **_Resort_** **(LOLR)** (vide Paragraf
 
+
 -----
 
 ketujuh Penjelasan Umum UU LPS) dalam bentuk Pinjaman
@@ -22397,6 +22753,7 @@ lembaga yang dipimpinnya sesuai ketentuan peraturan
 perundang-undangan (vide “Lampiran **2:** Keterangan
 
 Tambahan mengenai Financial Safety Net”)
+
 
 -----
 
@@ -22468,6 +22825,7 @@ _Deposit Insurance Act 2011 yang mengatur bahwa Dewan Direksi_
 
 PIDM memiliki kewenangan membuat **_peraturan_** terkait hal-hal
 
+
 -----
 
 operasional PIDM. “The Board may make such by-laws as are
@@ -22538,6 +22896,7 @@ _PIDM; atau (b) jika belum ada ketentuan yang mengatur terkait hal_
 
 _tersebut_ _maka_ _dana-dana_ _tersebut_ _akan_ _dialokasikan_ _di_ _antara_
 
+
 -----
 
 _dana premi dan pungutan Islam/Konvensional yang dikumpulkan_
@@ -22605,6 +22964,7 @@ bahwa Presiden selaku Kepala Pemerintahan memegang
 kekuasaan pengelolaan keuangan negara sebagai bagian dari
 
 kekuasaan pemerintahan, sedangkan Menteri Keuangan, adalah
+
 
 -----
 
@@ -22676,6 +23036,7 @@ Negara yang dimiliki kepada Bank Indonesia dan/atau pihak lain;
 
 2) Menerbitkan surat utang;
 
+
 -----
 
 3) Meminjam kepada pihak lain; dan/atau
@@ -22744,6 +23105,7 @@ p2sk-jadi-undang-undang].
 3) Bahwa berdasarkan hasil Paripurna atas draf RUU P2SK yang
 
 kami peroleh kemudian secara operasional bagi LPS terdapat
+
 
 -----
 
@@ -22815,6 +23177,7 @@ Yang ternyata berbeda dengan apa yang tertuang dalam hasil final
 
 draft RUU P2SK yang disampaikan kepada LPS dan tidak terdapat
 
+
 -----
 
 arahan anggaran operasional LPS harus mendapat persetujuan
@@ -22885,6 +23248,7 @@ _Principles for Effective Deposit Insurance Systems (“CPEDIS”), yang_
 
 menyatakan: “The _deposit_ _insurer_ **_should_** **_be_** **_operationally_**
 
+
 -----
 
 **_independent, well-governed, transparent, accountable, and insulated_**
@@ -22952,6 +23316,7 @@ _sesuai dengan mandat yang diberikan”)._
 Bahwa ketiga _Essential Criteria yang tercantum dalam IADI_ _Core_
 
 _Principles for Effective Deposit Insurance Systems_ (CPEDIS) yang
+
 
 -----
 
@@ -23023,6 +23388,7 @@ _operational independence as called for in the international standards,_
 
 **_plan_** **_and_** **_operational_** **_budget_** **_for_** **_approval_** **_to_** **_the_** **_MOF_** _Instead_ _of_
 
+
 -----
 
 _requiring approval from another safety net agency, LPS should be_
@@ -23092,6 +23458,7 @@ kewenangan persetujuan RKAT Operasional oleh Menteri Keuangan,
 dikhawatirkan Kementerian Keuangan selaku koordinator KSSK
 
 berpotensi dapat terpapar risiko operasional akibat pelaksanaan kegiatan
+
 
 -----
 
@@ -23163,6 +23530,7 @@ atau otoritas yang satu dengan yang lain diperlukan agar tidak
 
 terganggunya jaring pengaman sistem keuangan dimana
 
+
 -----
 
 Kementerian Keuangan bertanggung jawab terhadap pengelolaan
@@ -23230,6 +23598,7 @@ solvabilitas atau likuiditas atas suatu institusi keuangan memiliki
 potensi untuk menjadi swawujud (self-fulfilling) dan menjelma
 
 menjadi krisis keuangan berskala penuh.
+
 
 -----
 
@@ -23301,6 +23670,7 @@ _as a last resort and subject to safeguards”. (Terjemahan: “LPS_
 
 _seharusnya_ _tidak_ _menyediakan_ _likuiditas_ _bagi_ _bank-bank_ _yang_
 
+
 -----
 
 _sedang dalam masa penyehatan dan hanya digunakan untuk_
@@ -23370,6 +23740,7 @@ _charge during this phase”. (Terjemahan: “keterlibatan LPS selama_
 **_fase pemulihan menciptakan tumpang tindih yang tidak perlu_**
 
 **_dengan_** **_pengawas_** **_dalam_** **_hal_** **_ini_** **_OJK_** _dan_ _dapat_ _melemahkan_
+
 
 -----
 
@@ -23441,6 +23812,7 @@ sehingga menurut hemat kami catatan FSAP tersebut perlu juga
 
 dipertimbangkan untuk menjaga komitmen Indonesia terhadap pemenuhan
 
+
 -----
 
 _institutional framework dalam praktek internasional guna menjaga kredibilitas_
@@ -23509,6 +23881,7 @@ Keterangan ahli ini disampaikan secara independen berdasarkan pada
 
 pengetahuan/keilmuan dan peraturan perundangundangan sesuai dengan
 
+
 -----
 
 prinsip otonomi keilmuan dan kebebasan akademik yang dijamin Undang
@@ -23575,6 +23948,7 @@ menyebabkan adanya kompromi terkait dengan independensi operasional
 dari penjamin simpanan.
 
 Dari kriteria tersebut secara jelas dapat dimaknai bahwa organisasi
+
 
 -----
 
@@ -23644,6 +24018,7 @@ telah menyusun suatu rangkuman mengenai fitur dan karakteristik dari
 
 penjaminan simpanan di negaranegara yang telah memiliki penjaminan
 
+
 -----
 
 penjaminan simpanan (i.e. entitas yang terpisah dari bank sentral, pengawas
@@ -23659,8 +24034,10 @@ simpanan yang independent mentpakan praktik terbaik yang ada di dunia.
 |Col1|Model Organisasi<br>Penjaminan<br>Simpanan|Negara yang<br>menerapkan|Negara yang<br>menerapkan|
 |---|---|---|---|
 
+
 1 _Legally_ _separate_
 (independen)
+
 
 Afghanistan,
 
@@ -23713,10 +24090,12 @@ Jamaica, Japan,
 
 Jordan Kazakhstan
 
+
 -----
 
 |Col1|Col2|Rep. of Korea,<br>Kosovo, Kyrgyz<br>Republic, Laos,<br>Lebanon, Libya,<br>Liechtenstein,<br>Lithuania,<br>Luxembourg,<br>Macedonia FYR,<br>Malaysia, Malta,<br>Marshall Islands,<br>Mexico, Micronesia,<br>Moldova, Mongolia,<br>Montenegro, Nepal,<br>Nicaragua, Nigeria,<br>Norway, Peru,<br>Philippines, Poland,<br>Portugal, Romania,<br>Russian Federation,<br>Serbia, Singapore,<br>Slovak Republic,<br>Spain, Sudan,<br>Switzerland,<br>Tajikistan, Tanzania,<br>Thailand, Trinidad<br>and Tobago, Turkey,<br>Turkmenistan,<br>Ukraine United<br>Kingdom, United<br>States, Uruguay,<br>Uzbekistan,<br>Venezuela, Vietnam,<br>Yemen, Republic of<br>Zimbabwe|Col4|
 |---|---|---|---|
+
 
 2. _Under the jurisdiction of_
 _central bank, supervisory_
@@ -23724,6 +24103,7 @@ _bodies,_ _governmental_
 _ministry (di bawah yurisdiksi_
 bank sentral, lembaga
 pengawas atau kementrian)
+
 
 Australia,
 
@@ -23733,10 +24113,12 @@ Belarus, Chile,
 
 Guatemala,
 
+
 -----
 
 |Col1|Col2|Col3|Ireland, Kenya,<br>Latvia,<br>Morocco,<br>Netherlands,<br>Oman,<br>Paraguay,<br>Slovenia, Sri<br>Lanka,<br>Sweden,<br>Uganda|
 |---|---|---|---|
+
 
 Sumber: Demirgüc-Kunt et al. (2015)
 
@@ -23787,6 +24169,7 @@ negaranegara lainnya?
 Diskusi terkait dengan penempatan dana ke bank oleh penjamin
 
 simpanan tidak dapat dilepaskan dari perdebatan terkait dengan pembagian
+
 
 -----
 
@@ -23855,6 +24238,7 @@ _deposit insurer sebaiknya tidak diberikan tugas pula untuk menjadi lender of_
 _last resort. Pendapat yang sama juga disampaikan oleh Garcia (2000) yang_
 
 menjelaskan bahwa meminjamkan dana ke bank yang sedang tidak likuid
+
 
 -----
 
@@ -23926,6 +24310,7 @@ kelembagaannya.
 
 b i b d h k i d d tid k l i j di
 
+
 -----
 
 wewenang badan atau pejabat administrasi pemerintahan di luar
@@ -23995,6 +24380,7 @@ dipisahkan, termasuk dalam Lembaga Penjamin Simpanan, Menteri
 Keuangan tidak dapat direpresentasikan dalam jabatan Menteri
 
 Keuangan karena akan menyalahi prinsip dan nilai badan hukum
+
 
 -----
 
@@ -24066,6 +24452,7 @@ persetujuan anggaran operasional Lembaga Penjamin Simpanan
 
 menurunkan reputasi dan wewenang Menteri Keuangan hanya
 
+
 -----
 
 sebatas memberikan persetujuan semata, padahal dałam
@@ -24136,6 +24523,7 @@ Dalam hal ini Menteri Keuangan atau pihak yang ditunjuk sebagai
 
 wakil negara dałam organ Lembaga Penjamin Simpanan dapat
 
+
 -----
 
 menjadi penghubung antar-wewenang dan antar-prosedur dałam
@@ -24204,6 +24592,7 @@ _officio atau direpresentasikan oleli pihak yang ditunjuk Menteri_
 
 Keuangan.
 
+
 -----
 
 16. Pengendalian yang dilakukan pemegang kewenangan fiskal
@@ -24270,6 +24659,7 @@ yang menjadi badan yang pertama kali melakukan pencegahan
 
 krisis dan risiko dalam sektor keuangan.
 
+
 -----
 
 **II.** **Kewenangan Penempatan Dana Lembaga Penjamin Simpanan**
@@ -24335,6 +24725,7 @@ tetap pada pendiriannya, sebagai berikut:
 yang menolak legal standing PARA PEMOHON tidaklah beralasan dan tidak
 
 dapat menunjukkan secara tegas dan jelas bahwa PARA PEMOHON tidak
+
 
 -----
 
@@ -24406,6 +24797,7 @@ oleh PARA PEMOHON perbulannya, dengan besaran tergantung pada
 
 produk yang dipunyai oleh Nasabah;
 
+
 -----
 
 5. Bahwa dalam konteks perkara _a quo, PARA PEMOHON sebagai nasabah_
@@ -24475,6 +24867,7 @@ Persetujuan RKAT Operasional LPS oleh Menteri Keuangan dan
 Penempatan Dana dalam Tahapan Penyehatan secara aktual atau setidak
 tidaknya berpotensi untuk melanggar hak-hak konstitusional PARA
 
+
 -----
 
 PEMOHON yang digariskan di dalam ketentuan Pasal 28D ayat (1) UUD
@@ -24542,6 +24935,7 @@ bentuk kontrol terhadap LPS yang berakibat pada terganggunya
 independensi LPS bertentangan dengan Pasal 23D dan Pasal 28D ayat (1)
 
 UUD 1945;
+
 
 -----
 
@@ -24613,6 +25007,7 @@ menghasilkan dampak yang kontraproduktif, yakni terganggunya
 
 independensi LPS;
 
+
 -----
 
 13. Bahwa independensi suatu lembaga tidak seharusnya diperlakukan dengan
@@ -24680,6 +25075,7 @@ fiskal”, yang dilaksanakan dengan instrumen APBN (Anggaran Pendapatan
 Belanja Negara), dimana salah satunya adalah fungsi Bendahara Umum
 
 (vide Pasal 6 dan Pasal 7 UU Keuangan Negara);
+
 
 -----
 
@@ -24751,6 +25147,7 @@ terjadi dalam konteks OJK, yang pembahasan dengan Menteri Keuangan
 
 hanya terbatas pada “anggaran rupiah murni” yakni terbatas pada anggaran
 
+
 -----
 
 belanja modal yang dimintakan oleh OJK untuk dialokasikan di dalam APBN,
@@ -24819,6 +25216,7 @@ Bahkan keterangan Ahli Pemerintah yang disampaikan oleh Dr. Zainal Arifin
 
 Mochtar, S.H., LL.M. menegaskan bahwa persetujuan pada hakikatnya
 
+
 -----
 
 merupakan perpindahan kewenangan dari yang sebelumnya ada pada
@@ -24885,6 +25283,7 @@ B.2. RKAT operasional dan RKAT kebijakan adalah dua hal yang dapat dibedakan,
 tetapi tidak dapat dipisahkan, karena keduanya mempunyai hubungan yang
 
 saling memengaruhi.
+
 
 -----
 
@@ -24956,6 +25355,7 @@ solvabilitas;
 
 gangguan terhadap arus kas (cash flow) tetapi masih memiliki fundamental
 
+
 -----
 
 bisnis yang kuat, sehingga hanya memerlukan suntikan dana yang bersifat
@@ -25022,6 +25422,7 @@ Bank yang ditempatkan dana tersebut gagal (tidak dapat sehat), LPS harus
 mengeluarkan dana lagi untuk membiayai ongkos resolusi terhadap Bank
 
 gagal tersebut;
+
 
 -----
 
@@ -25093,6 +25494,7 @@ untuk mendominasi/mengendalikan Keputusan LPS adalah bertentangan
 
 dengan ketentuan Pasal 23D UUD 1945 terkait dengan independensi “bank
 
+
 -----
 
 sentral”, dimana LPS merupakan salah satu lembaga yang menjalankan
@@ -25161,6 +25563,7 @@ Lembaga Penjamin Simpanan menjadi Undang-Undang (Lembaran Negara
 
 Tahun 2008, Nomor 143) bertentangan dengan Undang-Undang Dasar
 
+
 -----
 
 Negara Republik Indonesia Tahun 1945 dan tidak mempunyai kekuatan
@@ -25227,6 +25630,7 @@ Pasal 6 ayat (1) huruf l Undang-Undang Nomor 24 Tahun 2004 tentang
 Lembaga Penjamin Simpanan (Lembaran Negara Tahun 2004, Nomor 96),
 
 sebagaimana telah diubah oleh Undang-Undang Nomor 7 Tahun 2009
+
 
 -----
 
@@ -25295,6 +25699,7 @@ seadil-adilnya (ex aequo et bono).
 
 **PRESIDEN**
 
+
 -----
 
 1. Pemerintah berpendapat bahwa Para Pemohon tidak memenuhi syarat
@@ -25362,6 +25767,7 @@ Pemohon sebagai nasabah.
 
 3. Kedudukan Para Pemohon yang memposisikan sebagai dosen dan nasabah
 
+
 -----
 
 dengan Pasal-Pasal yang diujikan. Sebaliknya, Para Pemohon tetap
@@ -25419,6 +25825,7 @@ sebagai objek pengawasan, pemeriksaan, dan penyidikan yang
 merupakan fungsi, wewenang, dan tugas OJK”.
 
 4. Bahwa berdasarkan uraian di atas dan keterangan terdahulu, Para Pemohon
+
 
 -----
 
@@ -25483,6 +25890,7 @@ berikut:
 pengawal konstitusi tidak mungkin untuk membatalkan UndangUndang atau sebagian isinya, jikalau norma tersebut merupakan
 delegasi kewenangan terbuka yang dapat ditentukan sebagai
 legal policy oleh pembentuk Undang-Undang Pandangan hukum
+
 
 -----
 
@@ -25549,6 +25957,7 @@ seluruh kewajiban bank (blanket guarantee) yang merupakan sistem
 
 perlindungan secara menyeluruh baik terhadap nasabah penyimpan bank
 
+
 -----
 
 3. Penjaminan blanket guarantee berdasarkan Keputusan Presiden tersebut,
@@ -25614,6 +26023,7 @@ LPS. Hal demikian, pembentuk UU memutuskan untuk memilih UU
 sebagai pilihan bentuk peraturan. Pada perspektif historis, pelajaran
 
 dari penanganan krisis moneter 1997-1998 adalah perlunya instrumen
+
 
 -----
 
@@ -25683,6 +26093,7 @@ XV/2017 halaman 107 dan 108, sebagai berikut:
 “Mahkamah, sependapat jika doktrin klasik tentang pemisahan
 cabang kekuasaan negra dalam tiga cabang kekuasaan: eksekutif,
 
+
 -----
 
 mewujudkan tujuan-tujuan bernegara dan tuntutan masyarakat
@@ -25741,6 +26152,7 @@ yang dilakukan LPS dibatasi hanya 100 juta. Hal tersebut ditujukan
 untuk tetap menciptakan rasa aman bagi masyarakat/nasabah
 
 i t t k j t bilit i t b k
+
 
 -----
 
@@ -25809,6 +26221,7 @@ antara Menteri Keuangan dengan BI dalam rangka memelihara stabilitas
 
 sistem keuangan dan menangani permasalahannya secara terpadu dan
 
+
 -----
 
 efektif, yang kemudian diterbitkan Perpu Nomor 4 Tahun 2008 tentang
@@ -25875,6 +26288,7 @@ yang kemudian diubah dengan Peraturan Pemerintah Pengganti Undang
 Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan
 
 Stabilitas Sistem Keuangan Untuk Penanganan Pandemi _Corona_ _Virus_
+
 
 -----
 
@@ -25944,6 +26358,7 @@ menyediakan likuiditas darurat bagi bank yang mengalami masalah
 
 likuiditas. Fungsi ini sangat penting untuk mencegah penyebaran
 
+
 -----
 
 LoLR untuk kondisi normal hanya diberikan kepada Bank yang
@@ -26011,6 +26426,7 @@ Schich, “Financial Crisis: Deposit Insurance and Related Financial Safety
 _Net Aspects, Financial Market Trends”, OECD, (2008) dalam Naskah_
 
 Akademik RUU JPSK, (2015), hlm. 16].
+
 
 -----
 
@@ -26080,6 +26496,7 @@ mekanisme check and balance penggunaan dana penjaminan simpanan
 
 yang diperoleh dari industri perbankan untuk membiayai operasional LPS
 
+
 -----
 
 3. Hal demikian, Ahli Presiden a.n. Dr. W. Riawan Tjandra, S.H., M.Hum,
@@ -26146,6 +26563,7 @@ Keterangan Dr. Zainal Arifin Mochtar, S.H., LL.M.
 
 “Saya ingin mengatakan saya ingin memakai doktrin Undang
 
+
 -----
 
 negara yang sudah dipisahkan, tapi tetap saja tentu saja dia bagian
@@ -26211,6 +26629,7 @@ RKAT operasional LPS dan bukan terhadap RKAT kebijakan LPS, secara
 
 umum sebagai berikut:
 
+
 -----
 
 a. Pembentuk UU mengedepankan prinsip keseimbangan (principle of
@@ -26272,6 +26691,7 @@ persetujuannya di DPR. Kalau ini, di eksekutif.”
 9. Implementasi kewenangan Menteri Keuangan memberikan persetujuan
 
 atas RKAT operasional LPS mengedepankan pada prinsip kehati-hatian,
+
 
 -----
 
@@ -26341,6 +26761,7 @@ Mochtar, S.H., LL.M. pada persidangan tanggal 16 Desember 2024,
 
 sebagai berikut:
 
+
 -----
 
 Keterangan Ahli Dr. W. Riawan Tjandra, S.H., M.Hum.
@@ -26402,6 +26823,7 @@ dengan UU P2SK tidak bertentangan dengan UUD 1945.
 1. Berdasarkan Keterangan Pihak Terkait baik dari Bank Indonesia dan
 
 Otoritas Jasa Keuangan dapat disimpulkan sependapat dengan
+
 
 -----
 
@@ -26471,6 +26893,7 @@ suatu bank, tetapi juga untuk mencegah dampak sistemik yang lebih luas
 
 pada sektor keuangan. Dengan demikian, fungsi _risk minimiser yang_
 
+
 -----
 
 dijalankan oleh LPS tidak hanya berfokus pada bank individual, tetapi juga
@@ -26533,6 +26956,7 @@ melakukan penempatan dana pada bank untuk mengantisipasi
 dan/atau melakukan penanganan stabilitas sistem permasalahan
 keuangan yang dapat menyebabkan kegagalan bank.
 
+
 -----
 
 Penempatan dana dalam UU 2/2020 merupakan salah satu bagian
@@ -26591,6 +27015,7 @@ kewenangan LPS untuk melakukan penempatan dana pada bank dalam
 penyehatan menimbulkan tumpang tindih (overlap) dengan kewenangan
 
 BI sebagai _lender_ _of_ _last_ _resort_ dan menurunkan kemampuan LPS untuk
+
 
 -----
 
@@ -26655,6 +27080,7 @@ Sehubungan dengan penetapan Sidang Pleno Majelis Hakim Mahkamah
 Konstitusi tanggal 16 Desember 2024 pada persidangan perkara permohonan
 
 Pengujian Materiil Undang-Undang (PUU) No 85/PUU-XXII/2024 bahwa
+
 
 -----
 
@@ -26726,6 +27152,7 @@ bahwa fungsi penempatan dana oleh LPS berbeda dengan _lender of_
 
 _last_ _resort_ oleh BI karena LPS menempatkan dana atas permintaan
 
+
 -----
 
 OJK setelah melakukan analisis kelayakan, sedangkan BI
@@ -26795,6 +27222,7 @@ BI sebagai _lender of last resort karena tujuan dan sifatnya berbeda._
 LPS melakukan penempatan dana kepada bank dalam penyehatan
 
 yang mengalami permasalahan solvabilitas sementara BI
+
 
 -----
 
@@ -26866,6 +27294,7 @@ d. Dalam konteks _lender of the last resort, perbedaan likuiditas dan_
 
 solvabilitas menjadi sangat krusial Likuiditas adalah kemampuan
 
+
 -----
 
 bank untuk memenuhi kewajiban jangka pendeknya, sementara
@@ -26934,6 +27363,7 @@ otoritas/lembaga. Dari sisi hubungan antara BI dan Pemerintah,
 kedudukan Menteri Keuangan sebagai wakil Pemerintah akan
 
 memudahkan koordinasi yang efektif antara BI sebagai otoritas moneter
+
 
 -----
 
@@ -27069,6 +27499,7 @@ lain, kami mohon putusan yang bijaksana dan yang seadil-adilnya (ex aequo et
 
 _bono)._
 
+
 -----
 
 **PIHAK TERKAIT OTORITAS JASA KEUANGAN**
@@ -27132,6 +27563,7 @@ karena menjalankan salah satu fungsi dari pembagian kekuasaan
 
 negara, yaitu fungsi keuangan negara (finance atau financie) bersama
 sama dengan BI dan LPS.
+
 
 -----
 
@@ -27203,6 +27635,7 @@ dan juga sejajar dengan lembaga-lembaga negara yang sejenis dan
 
 khususnya yang berwenang dalam menjaga stabilitas sistem
 
+
 -----
 
 keuangan, dengan demikian tidak diperlukan adanya Persetujuan
@@ -27268,6 +27701,7 @@ prinsip _checks and balances_ dalam sendi bernegara dalam rangka
 pemantauan dan pemeliharaan stabilitas sektor keuangan (vide Pasal 5
 
 UU PPKSK).
+
 
 -----
 
@@ -27339,6 +27773,7 @@ BI yang membutuhkan kebijakan anggaran untuk pembiayaan
 
 operasional moneter dan LPS yang membutuhkan kebijakan anggaran
 
+
 -----
 
 untuk resolusi bank (vide Halaman 14 Risalah Sidang Perkara Nomor
@@ -27408,6 +27843,7 @@ terhadap RKA OJK, merupakan konsekuensi logis dari kedudukan
 OJK sebagai lembaga independen. Persetujuan diperlukan bukan
 
 h t k j i d d i OJK d i i t i ih k l i
+
 
 -----
 
@@ -27479,6 +27915,7 @@ Pungutan di Sektor Jasa Keuangan selanjutnya disebut PP
 
 juga ditegaskan dalam Pasal 4 PP 41/2024 Selanjutnya terkait
 
+
 -----
 
 APBN, untuk anggaran OJK dikoordinasikan dengan Menteri
@@ -27549,6 +27986,7 @@ a. Keterkaitan Sistem Keuangan Indonesia Dengan Keuangan Global
 
 bertujuan agar Indonesia mendapatkan dukungan sumber daya
 
+
 -----
 
 informasi, dan praktik terbaik (best practices) yang dapat membantu
@@ -27617,6 +28055,7 @@ b. _Basel Core Principle dan Financial Sector Assesment Program_
 sebagai suatu standar internasional perbankan untuk menilai
 
 kualitas sistem perbankan suatu negara
+
 
 -----
 
@@ -27688,6 +28127,7 @@ Independensi dalam assesment FSAP 2024 menjadikan Indonesia
 
 mendapatkan predikat _materially_ _non-compliant_ Penilaian
 
+
 -----
 
 _materially non-compliant [Monetary and Exchange Department IMF._
@@ -27758,6 +28198,7 @@ a. Sebagaimana telah disampaikan sebelumnya, independensi OJK telah
 
 ditegaskan dalam Undang-Undang Nomor 21 Tahun 2011 tentang
 
+
 -----
 
 Otoritas Jasa Keuangan (UU OJK), UU P2SK, serta oleh Mahkamah
@@ -27826,6 +28267,7 @@ Anggono, S.H., M.H., koordinasi OJK dengan Menteri Keuangan dalam
 penyusunan RKA telah diatur dalam UU P2SK dimaknai bahwa
 
 penyusunan RKA dilakukan oleh Dewan Komisioner (Pasal 34 UU
+
 
 -----
 
@@ -27897,6 +28339,7 @@ _anggaran negara ke dalam berbagai pos anggaran untuk menjalankan_
 
 _pembangunan_ _agar anggaran negara tersebut bisa dimanfaatkan untuk_
 
+
 -----
 
 _kepentingan seluruh rakyat Indonesia. Hal ini dikarenakan bahwa_
@@ -27965,6 +28408,7 @@ pendanaanya bersifat mandiri. Kemandirian anggaran OJK didasarkan
 pada Pasal 37 dalam Pasal 8 angka 15 UU P2SK, diatur bahwa
 
 terhadap pihak yang melakukan kegiatan di sektor jasa keuangan
+
 
 -----
 
@@ -28036,6 +28480,7 @@ antara lain dengan persetujuan DPR dalam RKA, peran BPK sebagai
 
 auditor negara internal auditor dan pelaporan sebagai perwujudan
 
+
 -----
 
 transparansi. Dalam UU P2SK _check and balance tersebut dipertebal_
@@ -28103,6 +28548,7 @@ likuiditas bank.
 3. OJK berpendapat bahwa kewenangan penempatan dana LPS pada bank
 
 merupakan ketentuan yang tidak bersifat tumpang tindih dengan
+
 
 -----
 
@@ -28174,6 +28620,7 @@ Terhadap pengujian pasal-pasal lainnya dalam Permohonan _a quo, OJK_
 
 hk h k d k bij k Y M li M j li H ki
 
+
 -----
 
 Mahkamah Konstitusi untuk menilai dan mempertimbangkan konstitusionalitas
@@ -28241,6 +28688,7 @@ kewenangan hak budget sebagaimana Dewan Perwakilan
 Rakyat (DPR).
 b Bahwa dengan bentuk LPS sebagai badan hukum persetujuan
 
+
 -----
 
 badan atau pejabat pemerintahan lain, menyebabkan karakter
@@ -28301,6 +28749,7 @@ Kementerian Keuangan; (v) Anggota Dewan Komisioner ex-officio dari
 Bank Indonesia; (vi) Anggota Dewan Komisioner ex-officio dari Otoritas
 
 Jasa Keuangan;
+
 
 -----
 
@@ -28371,6 +28820,7 @@ _deposit insurer”. (Terjemahan: “Penjamin simpanan merupakan_
 independen secara operasional. Dalam melaksanakan mandatnya,
 penjamin simpanan dapat menggunakan kewenangannya tanpa
 
+
 -----
 
 campur tangan dari pemerintah, bank sentral, pengawas atau
@@ -28436,6 +28886,7 @@ dapat ditegaskan lebih lanjut, antara lain, memberikan kewenangan
 LPS untuk menetapkan rencana kerja dan anggaran tahunan tanpa
 persetujuan Kementerian Keuangan”).
 b _“Both_ _OJK_ _and_ _LPS_ _should_ _have_ _their_ _operational_ _autonomy_
+
 
 -----
 
@@ -28504,6 +28955,7 @@ merupakan dukungan terhadap pelaksanaan kebijakan LPS;
 
 t k “ _lib_ _t_ _M_ _t_ _i_ _K_ _d_ _l_ _b_ _ik_
 
+
 -----
 
 _persetujuan_ _anggaran_ _operasional_ _Lembaga_ _Penjamin_ _Simpanan_
@@ -28567,6 +29019,7 @@ mengawasi kegiatan LPS sehari-hari. Dan juga laporan keuangan LPS
 itu diperiksa oleh BPK. Dengan akuntabilitas seperti itu, sudah cukup
 sebenarnya jika LPS disamakan kedudukannya dengan Anggota KSSK
 yang lain, seperti BI, OJK....”.
+
 
 -----
 
@@ -28633,6 +29086,7 @@ LPS kepada Dewan Komisioner, dimana terhadap draft RKAT
 Operasional yang telah dibahas dan disetujui oleh Dewan Komisioner,
 
 h di j k t l bih d l l h K t D K i i
+
 
 -----
 
@@ -28704,6 +29158,7 @@ dari beban umum dan administrasi (RKAT Operasional) yang
 
 mendukung pelaksanaannya
 
+
 -----
 
 c. Dalam Pasal 7 Nota Kesepahaman, juga telah diatur mengenai teknis
@@ -28774,6 +29229,7 @@ satu dengan yang lain diperlukan agar tidak terganggunya jaring
 
 pengaman sistem keuangan dimana Kementerian Keuangan
 
+
 -----
 
 bertanggung jawab terhadap pengelolaan fiskal, Bank Indonesia selaku
@@ -28836,6 +29292,7 @@ Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (COVID
 19) dan/atau Dalam Rangka Menghadapi Ancaman yang Membahayakan
 
 Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan Menjadi
+
 
 -----
 
@@ -28907,6 +29364,7 @@ penjamin simpanan) seharusnya menyediakan fasilitas pinjaman bagi
 
 bank tersebut asalkan bank memiliki permodalan yang cukup (solvent)
 
+
 -----
 
 dengan aset berkualitas tinggi sebagai jaminannya, namun dikenakan
@@ -28976,6 +29434,7 @@ _affidavit ahli hukum keuangan negara, Dr. Dian Puji Simatupang halaman 6:_
 “Dalam hal terjadi wewenang diatur menjadi wewenang suatu badan hukum,
 
 _tetapi_ _ternyata_ _bukan_ _menjadi_ _fungsi_ _dan_ _tugas_ _pokoknya_ _idealnya_
+
 
 -----
 
@@ -29047,6 +29506,7 @@ _Contracts Model, Repullo menunjukkan bahwa ketika di dalam suatu sistem_
 
 _keuangan_ _terdapat_ _bank_ _sentral_ _dan_ _lembaga_ _penjamin_ _simpanan_ _maka_
 
+
 -----
 
 _keduanya dapat berfungsi sebagai lender of last resort dengan_
@@ -29116,6 +29576,7 @@ dalam (i) IADI _Core Principles for Effective Deposit Insurance Systems_
 
 (CPEDIS) pada tahun 2014; dan (ii) hasil asesmen FSAP yang tertuang
 
+
 -----
 
 dalam Technical Note: Financial Safety Net and Crisis Management pada
@@ -29184,6 +29645,7 @@ ketentuan Pasal 86 ayat (4), ayat (6) dan ayat (7) UU LPS sepanjang frasa
 
 “untuk mendapatkan persetujuan Menteri Keuangan” dinyatakan
 
+
 -----
 
 bertentangan dengan Undang-Undang Dasar 1945 dan tidak mempunyai
@@ -29243,6 +29705,7 @@ undang-undang terhadap UUD NRI Tahun 1945;
 untuk menguji konstitusionalitas norma undang-undang, in casu Pasal 86 ayat (4),
 
 ayat (6), dan ayat (7) huruf a dalam Pasal 7 angka 57, Pasal 6 ayat (1) angka 1 huruf
+
 
 -----
 
@@ -29306,6 +29769,7 @@ pada tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU
 V/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pada tanggal 20
 
 September 2007 serta putusan-putusan selanjutnya, telah berpendirian bahwa
+
 
 -----
 
@@ -29374,6 +29838,7 @@ pada ayat (4) paling lambat tanggal 30 November tahun berjalan.”
 (7) Rencana kerja dan anggaran tahunan sebagaimana dimaksud pada ayat
 
 (1) yang memuat:
+
 
 -----
 
@@ -29444,6 +29909,7 @@ yang independen dan pembagian urusan yang tepat bagi bank sentral dan
 
 lembaga lembaga constitutional monetary lainnya hak untuk memajukan dirinya
 
+
 -----
 
 dalam memperjuangkan hak secara kolektif untuk membangun masyarakat,
@@ -29511,6 +29977,7 @@ yang dimohonkan pengujian. Oleh karena itu, apabila permohonan a quo dikabulkan
 
 oleh Mahkamah maka anggapan kerugian hak konstitusional dimaksud tidak lagi
 
+
 -----
 
 terbukti atau tidaknya persoalan konstitusionalitas norma-norma yang dimohonkan
@@ -29576,6 +30043,7 @@ dan kepastian hukum yang adil sebagaimana dimuat dalam Pasal 23D, Pasal
 28D, dan Pasal 28C ayat (2) UUD NRI Tahun 1945, mengingat persetujuan
 
 tersebut dapat menciptakan pengaruh yang tidak semestinya (undue influence)
+
 
 -----
 
@@ -29647,6 +30115,7 @@ penempatan dana pada bank yang menurut BI tidak layak mendapatkan fasilitas
 
 pinjaman likuiditas jangka pendek ataupun pembiayaan likuiditas jangka pendek
 
+
 -----
 
 berdasarkan prinsip syariah;
@@ -29712,6 +30181,7 @@ Pasal 276 angka 13 UU 4/2023 bertentangan dengan UUD NRI Tahun 1945 dan
 
 tidak mempunyai kekuatan hukum mengikat.
 
+
 -----
 
 [3.8] Menimbang bahwa untuk membuktikan dalil-dalilnya, para Pemohon telah
@@ -29775,6 +30245,7 @@ Oktober 2024 yang kemudian dilengkapi dengan keterangan tertulis tambahan
 
 diterima Mahkamah pada tanggal 11 November 2024. Pihak Terkait BI juga telah
 
+
 -----
 
 menyerahkan kesimpulan tertulis yang diterima Mahkamah pada tanggal 24
@@ -29836,6 +30307,7 @@ surat/tulisan dan keterangan tertulis ahli, serta kesimpulan; keterangan LPS,
 keterangan tertulis ahli, dan kesimpulan, selanjutnya Mahkamah akan
 
 mempertimbangkan pokok permohonan para Pemohon.
+
 
 -----
 
@@ -29902,6 +30374,7 @@ Sebagai salah satu pilar utama dalam sistem keuangan, perbankan memerlukan
 pengawasan yang ketat agar dapat menjaga kepercayaan masyarakat dan
 
 mencegah risiko sistemik. Dalam kaitan dengan pengawasan sektor keuangan,
+
 
 -----
 
@@ -29970,6 +30443,7 @@ manapun, kecuali untuk hal-hal yang diatur secara tegas dalam Undang-Undang
 pada kebijakan mikroprudensial OJK berfungsi: a) menyelenggarakan sistem
 
 pengaturan dan pengawasan yang terintegrasi terhadap keseluruhan kegiatan di
+
 
 -----
 
@@ -30041,6 +30515,7 @@ dengan tugas LPS dalam menjalankan fungsi menjamin simpanan nasabah
 
 i LPS b t ) k d t k k bij k l k
 
+
 -----
 
 penjaminan; dan b) melaksanakan penjaminan. Dalam menjalankan fungsi
@@ -30109,6 +30584,7 @@ Sementara itu, terkait dengan rencana kerja dan anggaran OJK, Pasal 34
 
 dalam Pasal 8 angka 12 UU 4/2023 menentukan, “(1) Dewan Komisioner menyusun
 
+
 -----
 
 Keuangan merupakan bagian dari Bagian Anggaran Bendahara Umum Negara
@@ -30176,6 +30652,7 @@ b. rencana kerja dan anggaran tahunan untuk kebijakan Penjaminan,
 penjaminan polis, penempatan dana, resolusi Bank, dan likuidasi
 Perusahaan Asuransi dan Perusahaan Asuransi Syariah, ditetapkan
 oleh Dewan Komisioner.
+
 
 -----
 
@@ -30246,6 +30723,7 @@ dapat menjaga kestabilan industri sektor keuangan dan peningkatan kepercayaan
 
 masyarakat [vide Penjelasan Umum UU 4/2023].
 
+
 -----
 
 [3.17] Menimbang bahwa setelah menjelaskan hal-hal tersebut di atas,
@@ -30311,6 +30789,7 @@ ditetapkan oleh Dewan Komisioner.”
 Berdasarkan ketentuan di atas, terkait dengan norma Pasal 86 ayat (6)
 
 dalam Pasal 7 angka 57 UU 4/2023 yang didalilkan para Pemohon terdapat frasa
+
 
 -----
 
@@ -30380,6 +30859,7 @@ bahwa:
 
 mulai berlaku, Kepala Eksekutif menyampaikan Rencana Kerja dan
 Anggaran Tahunan untuk mendapat persetujuan Dewan Komisioner;
+
 
 -----
 
@@ -30451,6 +30931,7 @@ bertanggal 4 Desember 2024, hlm. 30]. Dalam kaitan ini, peran DPR dalam
 
 b h d b ik t j t h d RKA b ik OJK BI
 
+
 -----
 
 dilakukan sebagai perwujudan dari fungsi anggaran (budgeting) DPR. Berkenaan
@@ -30519,6 +31000,7 @@ mengumumkan laporan keuangan tahunan kepada publik melalui media massa.
 
 **[3.17.2]** Bahwa para Pemohon dalam mempersoalkan konstitusionalitas frasa
 
+
 -----
 
 a dalam Pasal 7 angka 57 UU 4/2023 mengaitkan dengan keberadaan LPS sebagai
@@ -30586,6 +31068,7 @@ _without interference from external parties to fulfil its mandate. There is no_
 _government, central bank, supervisory or industry interference that_
 _compromises the operational independence of the deposit insurer,”;_
 
+
 -----
 
 2. _The governing body of the deposit insurer is held accountable to a higher_
@@ -30651,6 +31134,7 @@ kecukupan anggaran bagi kegiatan operasional LPS serta sinkronisasi antara
 kebijakan LPS dengan kebijakan fiskal nasional guna menjamin stabilitas sistem
 
 keuangan secara keseluruhan. Di samping itu, keharusan melibatkan Menteri
+
 
 -----
 
@@ -30722,6 +31206,7 @@ Kesepahaman tersebut tetap tidak dapat menghilangkan adanya keharusan atau
 
 i t h t j M t i K d l RKAT i l LPS
 
+
 -----
 
 Bahwa jika diletakkan persetujuan Menteri Keuangan terhadap RKAT
@@ -30792,6 +31277,7 @@ memberikan persetujuan” pada ayat (6), dan frasa “yang telah mendapatkan
 
 t j M t i K ” d t (7) h f d l P l 7 k 57 UU
 
+
 -----
 
 4/2023 bertentangan dengan UUD NRI Tahun 1945 dan tidak mempunyai kekuatan
@@ -30859,6 +31345,7 @@ mempersoalkan konstitusionalitas norma Pasal 6 ayat (1) huruf l dan Pasal 20B ay
 
 dan Pasal 28D ayat (1) UUD NRI Tahun 1945 karena memberikan kewenangan
 
+
 -----
 
 penyehatan sehingga mengakibatkan adanya ketidakjelasan kedudukan BI dan LPS
@@ -30925,6 +31412,7 @@ lapisan JPSK berfungsi secara optimal dan efektif sesuai mandatnya masing
 masing.
 
 Sementara itu, berkenaan dengan kewenangan LPS untuk “melakukan
+
 
 -----
 
@@ -30996,6 +31484,7 @@ penyehatan dilakukan oleh OJK apabila bank tidak memenuhi ketentuan mengenai
 
 ti k t k h t lik idit d / t d l d ti b k i ik
 
+
 -----
 
 [vide Pasal 16C ayat (1) dalam Pasal 276 angka 3 UU 4/2023]. Setelah OJK
@@ -31063,6 +31552,7 @@ pembiayaan likuiditas jangka pendek berdasarkan prinsip syariah (PLJPS) kepada
 BI. Jika kemudian permintaan tersebut ditolak oleh BI, maka mekanisme yang dapat
 
 dilakukan adalah penempatan dana oleh LPS. Dengan demikian, tidak terdapat
+
 
 -----
 
@@ -31132,6 +31622,7 @@ dengan Pasal 23D, Pasal 28C ayat (2), dan Pasal 28D ayat (1) UUD NRI Tahun
 
 1945 bukan sebagaimana yang didalilkan para Pemohon Oleh karena itu dalil para
 
+
 -----
 
 Pemohon sepanjang pengujian norma Pasal 6 ayat (1) angka 1 huruf l dalam Pasal
@@ -31188,6 +31679,7 @@ Indonesia Nomor 5076);
 2. Menyatakan frasa “untuk mendapat persetujuan” sebagaimana termuat dalam
 
 Pasal 86 ayat (4), frasa “Menteri Keuangan memberikan persetujuan”
+
 
 -----
 
@@ -31251,9 +31743,11 @@ Pihak Terkait Lembaga Penjamin Simpanan.
 
 **Suhartoyo**
 
+
 -----
 
 **ANGGOTA-ANGGOTA,**
+
 
 **ttd.**
 
@@ -31271,6 +31765,7 @@ Pihak Terkait Lembaga Penjamin Simpanan.
 
 **Ridwan Mansyur**
 
+
 **ttd.**
 
 **Enny Nurbaningsih**
@@ -31287,10 +31782,13 @@ Pihak Terkait Lembaga Penjamin Simpanan.
 
 **Arsul Sani**
 
+
 **PANITERA PENGGANTI,**
 
 **ttd.**
 
 **Syukri Asy’ari**
 
+
 -----
+

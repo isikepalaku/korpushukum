@@ -19,16 +19,15 @@ sumber: "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_9488_
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
-penjelasan: ada
+penjelasan: tidak
 penjelasan_pasal_demi_pasal: false
-penjelasan_normatif: false
-struktur_teks: terpartisi
-anchor_pasal: true
+struktur_teks: datar
+anchor_pasal: false
 ---
 
-## Batang Tubuh
 
-**Putusan MK Nomor 59/PUU-XXI/2023 — Penyidikan Tindak Pidana Sektor Jasa Keuangan (Pasal 8 angka 21 UU P2SK)**
+
+# Putusan MK Nomor 59/PUU-XXI/2023 — Penyidikan Tindak Pidana Sektor Jasa Keuangan (Pasal 8 angka 21 UU P2SK)
 
 **Status:** `berlaku`
 
@@ -41,6 +40,7 @@ anchor_pasal: true
 > ⚠️ **PENTING — sudah diatur ulang (per 2026):** Kewenangan penyidikan di sektor jasa keuangan kini diatur kembali secara lengkap di **UU 4/2026 (Perubahan P2SK) Pasal 278A–278C** (Penyelidikan & Penyidikan) dan merujuk pada **KUHAP baru (UU 20/2025)**. Pasal 49 UU OJK (angka 21 Pasal 8 UU P2SK) **dihapus** oleh UU 4/2026. Untuk praktik penyidikan saat ini, lihat [[UU 4-2026 - P2SK Perubahan]] dan [[UU 20-2025 - KUHAP]], bukan hanya putusan ini.
 
 **SALINAN**
+
 
 **PUTUSAN**
 **Nomor 59/PUU-XXI/2023**
@@ -99,6 +99,7 @@ selanjutnya disebut sebagai ----------------------------------- PEMOHON III;
 4. Nama  : **Endang Sri Siti Kusuma Hendariwati**
 
 Jabatan : Karyawan BUMN
+
 
 -----
 
@@ -168,6 +169,7 @@ Membaca dan mendengar keterangan Pihak Terkait Otoritas Jasa
 
 Keuangan;
 
+
 -----
 
 3
@@ -231,6 +233,7 @@ menyatakan, “Mahkamah Konstitusi berwenang mengadili pada tingkat
 
 pertama dan terakhir yang putusannya bersifat final untuk menguji undang
 undang terhadap Undang-Undang Dasar, memutus sengketa kewenangan
+
 
 -----
 
@@ -303,6 +306,7 @@ ketentuan Pasal 52 angka 23 Pasal 72A ayat (10) tentang Penyidikan atas
 
 tindak pidana Perasuransian sebagaimana diatur pada Undang-Undang
 
+
 -----
 
 5
@@ -370,6 +374,7 @@ berikut ini:
 **menjaga** **keamanan** **dan** **ketertiban** **masyarakat** **bertugas**
 **melindungi, mengayomi, melayani masyarakat, serta menegakkan**
 **hukum”**
+
 
 -----
 
@@ -443,6 +448,7 @@ Serikat Pekerja NIBA AJB Bumiputera 1912 dengan Nomor Bukti
 
 Pencatatan: 439/V/P/X/2005 tanggal 26 oktober 2005 sebagaimana tertuang
 
+
 -----
 
 7
@@ -512,6 +518,7 @@ penegakan perlindungan terhadap anggota/pekerja Asuransi Jiwa Bersama
 
 Bumiputera 1912 memiliki fungsi sebagaimana diatur dalam Pasal 9
 
+
 -----
 
 8
@@ -577,6 +584,7 @@ dengan kerugian sebesar Rp 31.045.922.796,
 e. Pembayaran Cuti Besar terhadap diantara 1.269 Pekerja dengan
 
 kerugian sebesar Rp 7 433 695 058
+
 
 -----
 
@@ -645,6 +653,7 @@ Bumiputera 1912 yang telah memberikan dampak secara langsung adanya
 kerugian hak kesejahteran dan hak pekerja anggota Pemohon I, terkecuali
 
 h l l i k h k l l i idik
+
 
 -----
 
@@ -718,6 +727,7 @@ dimiliki yaitu melakukan penunjukan pengelola statuter dan menetapkan
 
 penggunaan pengelola statuter sebagaimana diatur dalam Pasal 9 huruf e
 
+
 -----
 
 11
@@ -786,6 +796,7 @@ jasa keuangan dapat membahayakan kepentingan konsumen dan sektor
 jasa keuangan, serta berdasarkan pada kesimpulan pandangan Pemohon I
 
 yakni perkembangan kondisi AJB Bumiputera 1912 terus memburuk dan
+
 
 -----
 
@@ -931,6 +942,7 @@ pengawasan dan administratif yang dimilikinya sesuai dengan surat Otoritas
 
 Jasa Keuangan Nomor S-13/D 05/2020 Tanggal 16 April 2020 sebagai
 
+
 -----
 
 14
@@ -998,6 +1010,7 @@ ini oleh Mahkamah Konstitusi sebagai the sole interpreter of the constitution
 dan pengawal konstitusi maka kerugian Hak Konstitusional Pemohon I tidak
 
 akan terjadi lagi.
+
 
 -----
 
@@ -1071,6 +1084,7 @@ telah menghalangi hak konstitusional Pemohon II dalam bentuk
 
 terhambatnya akses keadilan melalui Kepolisian yang dijamin UUD 1945
 
+
 -----
 
 16
@@ -1141,6 +1155,7 @@ dan mengelola uang tabungan tersebut, melainkan adalah karyawannya
 
 yang bernama SJ. Padahal apa yang disampaikan oleh saudari HV
 
+
 -----
 
 17
@@ -1210,6 +1225,7 @@ dengan alasan adanya ketentuan hukum baru terhadap penanganan
 penyidikan tunggal tindak pidana di sektor jasa keuangan berdasarkan UU
 
 P2SK yang hanya dilakukan oleh penyidik OJK.
+
 
 -----
 
@@ -1283,6 +1299,7 @@ hukum atas terjadinya tindak pidana di sektor jasa keuangan khususnya
 
 tindak pidana perbankan yang alami oleh Pemohon III terkecuali hanya
 
+
 -----
 
 19
@@ -1352,6 +1369,7 @@ sebesar Rp.250.000.000 (dua ratus lima puluh juta rupiah) dengan jangka
 waktu 12 Bulan, suku bunga 12% per tahun, jatuh tempo tanggal 4 Agustus
 
 2018 yang ditandatangi oleh Manajer Koperasi.
+
 
 -----
 
@@ -1425,6 +1443,7 @@ P2SK yang hanya dilakukan oleh penyidik OJK, sehingga demikian dari
 
 kondisi tersebut tentu menyebabkan ketidakpastian hukum dalam proses
 
+
 -----
 
 21
@@ -1496,6 +1515,7 @@ tidak akan terjadi lagi.
 mengajukan permohonan _a quo dan_ **Mahkamah Konstitusi selanjutnya**
 
 **mempertimbangkan pokok permohonan a quo**
+
 
 -----
 
@@ -1569,6 +1589,7 @@ sebagaimana diatur dalam ketentuan Pasal 8 angka 21 Pasal 49 ayat (1)
 
 huruf c UU P2SK yang sangat potensial dengan penalaran yang wajar dapat
 
+
 -----
 
 23
@@ -1641,6 +1662,7 @@ tahapan penyelidikan dan penyidikan. Pada tanggal 1 Agustus 2022
 
 Bareskrim Polri menetapkan status tersangka kepada Manfred Armin
 
+
 -----
 
 24
@@ -1710,6 +1732,7 @@ Asuransi Jiwa Adisarana Wanaartha terkait jenis dari Produk Asuransi Jiwa
 Wal Invest dan Wana Saving Plus, yang mana pada penawaran polis
 
 tersebut yang disampaikan kepada nasabah selaku calon pemegang polis
+
 
 -----
 
@@ -1783,6 +1806,7 @@ yang sedang di tangani oleh Kepolisian sebagai satu-satunya akses keadilan
 
 bagi Pemohon IV dalam hal ini Bareskrim Polri
 
+
 -----
 
 26
@@ -1854,6 +1878,7 @@ Kelurahan/Desa Kelapapati Darat Kabupaten Bengkalis yang
 ditandatangani oleh Ketua RT.001 setempat atas nama Romi Pasla
 
 tertanggal 23 Juni 2023 Bahwa Pemohon V terdaftar sebagai nasabah Bank
+
 
 -----
 
@@ -1927,6 +1952,7 @@ Regional 5 Sumatera Bagian Utara: Kantor Regional 5 Sumatera Bagian
 
 Utara Kantor OJK Provinsi Aceh Kantir OJK Provinsi Sumatera Barat
 
+
 -----
 
 28
@@ -1998,6 +2024,7 @@ dan memakan waktu serta biaya operasional yang tidak sedikit dan
 
 memberatkan bagi Pemohon V yang sehari-hari bekerja sebagai wartawan
 
+
 -----
 
 29
@@ -2067,6 +2094,7 @@ Bank Mandiri livin online yang berkantor cabang di Kabupaten Bengkalis
 Provinsi Riau berpotensi dirugikan hak konstitusionalnya akibat berlakunya
 
 ketentuan a quo.
+
 
 -----
 
@@ -2140,6 +2168,7 @@ Bengkulu. Kantor Regional 7 Sumartera Bagian Selatan: Kantor OJK
 
 Bangka Belitung Kantor Regional 8 Bali dan Nusa Tenggara: Kantor OJK
 
+
 -----
 
 31
@@ -2211,6 +2240,7 @@ di tingkat Kabupaten.
 
 Bengkalis Dengan pemberlakuan UU P2SK masyarakat Bengkalis pun
 
+
 -----
 
 32
@@ -2280,6 +2310,7 @@ _application function) oleh kekuasaan Eksekutif; dan fungsi mengadili atas_
 pelanggaran Undang-Undang (rule adjudication function) oleh kekuasaan
 
 judicial. **_(Miriam Budiardjo. Dasar-Dasar Ilmu Politik. Gramedia_**
+
 
 -----
 
@@ -2353,6 +2384,7 @@ XII terpisah dari Bab III Kekuasaan Pemerintahan Negara. Akan tetapi jika
 
 kembali menilik pada original intent dan perdebatan perubahan UUD 1945
 
+
 -----
 
 34
@@ -2424,6 +2456,7 @@ sehari-hari, hal tersebut merupakan penegakan hukum. (Satjipto
 Raharjo, 2000, Ilmu Hukum, Bandung: Penerbit PT. Citra Aditya Bakti,
 
 hal 175-183)
+
 
 -----
 
@@ -2497,6 +2530,7 @@ Kepolisian adalah aparat yang mempunyai tugas utama untuk melakukan
 
 penyidikan
 
+
 -----
 
 36
@@ -2568,6 +2602,7 @@ bertentangan dengan prinsip Supremasi Hukum.
 14. Bahwa prinsip pembatasan kekuasaan, menunjukkan bahwa peran
 
 penegakan hukum tidak dapat dilepaskan dalam kekuasaan eksekutif
+
 
 -----
 
@@ -2641,6 +2676,7 @@ dan diputus bersalah serta mendapat pidana.
 
 Sistem Peradilan Pidana pada hakekatnya identik dengan Sistem
 
+
 -----
 
 38
@@ -2712,6 +2748,7 @@ hukum. Keempat aparat tersebut memiliki hubungan yang sangat erat
 
 satu sama lain Bahkan dapat dikatakan saling menentukan oleh karena
 
+
 -----
 
 39
@@ -2782,6 +2819,7 @@ b) larangan bagi Kepolisian Negara Republik Indonesia, untuk
 
 melakukan penyidikan;
 
+
 -----
 
 40
@@ -2812,9 +2850,7 @@ untuk melakukan penyidikan tindak pidana di sektor jasa keuangan.
 
 Pasal 49 ayat (6) UU P2SK dan diartikan lebih jelas dalam bagian
 
-## Penjelasan
-
-### I. Umum
+Penjelasan Pasal 49 ayat (6), yang menyatakan: “Sebagai bagian sistem
 
 peradilan pidana terpadu integrated criminal justie system, Otoritas Jasa
 
@@ -2855,6 +2891,7 @@ Pasal 7 ayat (1) KUHAP, menyatakan: “Penyidik Pegawai Negeri Sipil
 **tugasnya berada di bawah koordinasi dan pengawasan penyidik**
 
 **Kepolisian Republik Indonesia”** Pemaknaan koodinasi dalam KUHAP
+
 
 -----
 
@@ -2917,6 +2954,7 @@ memberikan kewenangan eksklusif melalui fungsi penegakan hukum
 kepada Kepolisian Negara. Tugas menegakkan hukum, yang
 
 di k d d l P l 13 diti d kl j ti d P l 14 h f UU
+
 
 -----
 
@@ -2987,6 +3025,7 @@ Undang No. 21 Tahun 2011 tentang Otoritas Jasa Keuangan. Dalam
 Penjelasan Umum UU No. 21 Tahun 2011 tentang Otoritas Jasa
 
 Keuangan menyatakan “Secara kelembagaan Otoritas Jasa
+
 
 -----
 
@@ -3060,6 +3099,7 @@ mendapat perlindungan hukum menjadi terabaikan.
 
 “ Dalam perspektif pelembagaan criminal justice system penting
 
+
 -----
 
 44
@@ -3120,6 +3160,7 @@ dan diputus bersalah serta mendapat pidana.
 bahwa terdapat pandangan untuk memperluas ke-empat komponen
 
 tersebut Menurut pandangan para pakar hukum pidana Indonesia
+
 
 -----
 
@@ -3190,6 +3231,7 @@ beberapa ketentuan dalam 1 UU ( 1 Pasal).
 35. Bahwa 16 UU yang diubah melalui UU P2SK adalah:
 
 1) Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan
+
 
 -----
 
@@ -3262,6 +3304,7 @@ tanggung jawabnya yang meliputi pengawasan sektor jasa
 keuangan di lingkungan OJK, diberi wewenang khusus sebagai
 penyidik sebagaimana dimaksud dalam Kitab Undang-Undang
 
+
 -----
 
 47
@@ -3323,6 +3366,7 @@ l. meminta bantuan ahli dalam rangka pelaksanaan tugas
 penyidikan tindak pidana di sektor jasa keuangan; dan
 m menyatakan saat dimulai dan dihentikannya penyidikan
 
+
 -----
 
 48
@@ -3376,6 +3420,7 @@ e. meminta kepada instansi yang berwenang untuk melakukan
 pencegahan terhadap warga negara Indonesia dan/atau
 orang asing serta penangkalan terhadap orang asing yang
 disangka melakukan tindak pidana di sektor jasa keuangan;
+
 
 -----
 
@@ -3439,6 +3484,7 @@ keuangan sebagaimana telah dilakukan selama ini (sebelum adanya UU
 P2SK).
 
 38. Kata “hanya” di Pasal 8 angka 21 Pasal 49 ayat (5) UU P2SK jika merujuk
+
 
 -----
 
@@ -3512,6 +3558,7 @@ diundangkan, maka konsekuensinya sejak diundangkan 12 Januari 2023
 
 UU P2SK telah berlaku dan mengikat secara umum sehingga membawa
 
+
 -----
 
 51
@@ -3577,6 +3624,7 @@ modal, dan perasuransian. Keberadaan pasal-pasal ini juga berakibat di
 luar penyidik OJK tidak memiliki kewenangan untuk melakukan
 
 Penyidikan atas tindak pidana perbankan, perbankan syariah, pasar
+
 
 -----
 
@@ -3650,6 +3698,7 @@ Adapun jika disatukan maka kepastian hukum dalam KBBI dimaknai
 
 sebagai perangkat hukum suatu negara yang mampu menjamin hak dan
 
+
 -----
 
 53
@@ -3722,6 +3771,7 @@ perundang-undangan berdasarkan pada sistem logis dan pasti), dan
 
 dalam hukum tersebut tidak ada istilah-istilah hukum yang dapat
 
+
 -----
 
 54
@@ -3790,6 +3840,7 @@ masyarakat, termasuk konsekuensi-konsekuensi hukumnya; dan
 dilaksanakan, dan hukum tersebut melindungi dan menjaga
 
 keseimbangan kepentingan pihak-pihak yang diatur.
+
 
 -----
 
@@ -3862,6 +3913,7 @@ keuangan, maka bertentangan dengan Undang-Undang Polri. Hal ini
 
 menimbulkan ketidakpastian hukum adanya konflik norma
 
+
 -----
 
 56
@@ -3933,6 +3985,7 @@ terorganisir atau _transnational organized crime. Iklim investasi dan_
 
 keuangan di era global sangat terbuka untuk dilakukan secara lintas
 
+
 -----
 
 57
@@ -4002,6 +4055,7 @@ pada umumnya memiliki tingkat pendidikan tinggi supaya bisa
 menjalankan usaha atau bekerja di industri jasa keuangan. Modus
 
 operandi yang digunakan seringkali menggunakan sarana teknologi
+
 
 -----
 
@@ -4147,6 +4201,7 @@ menyelenggarakan sistem pengaturan dan pengawasan yang terintegrasi
 
 terhadap keseluruhan kegiatan di dalam sektor jasa keuangan
 
+
 -----
 
 60
@@ -4218,6 +4273,7 @@ ketaatan warga negara dan masyarakat terhadap peraturan negara.
 Tugas yang pertama ini dikategorikan sebagai tugas pencegahan
 
 _(preventive)_ dan tugas yang kedua sebagai tugas penindakan
+
 
 -----
 
@@ -4291,6 +4347,7 @@ terbinanya ketentraman masyarakat dengan menjunjung tinggi hak azasi
 
 manusia
 
+
 -----
 
 62
@@ -4363,6 +4420,7 @@ yaitu Polri dan OJK. Pasal 49 ayat (1) UU OJK sebelum perubahan
 
 menegaskan bahwa: “Selain Pejabat Penyidik Kepolisian Negara
 
+
 -----
 
 63
@@ -4433,6 +4491,7 @@ Pasal 49 (1) huruf a UU OJK setelah diubah oleh UU P2SK), hal ini
 tidak berarti bahwa Polri sebagai institusi memiliki kewenangan
 
 penyidikan
+
 
 -----
 
@@ -4505,6 +4564,7 @@ TPPU)
 
 Baru (UU Nomor 1 tahun 2023) pengaturan tentang tindak pidana
 
+
 -----
 
 65
@@ -4574,6 +4634,7 @@ pada setiap pemerintahan. Bahkan dapat dikatakan bahwa asal mula
 pembentukan negara dan pemerintahan, pertama-tama ditujukan pada
 
 tercapainya usaha mewujudkan _nachtwachterstaat (negara penjaga_
+
 
 -----
 
@@ -4647,6 +4708,7 @@ penyelenggara negara yang diberikan kewenangan konstitusionalnya
 
 yakni institusi Kepolisian untuk mengadakan pencegahan dan
 
+
 -----
 
 67
@@ -4717,6 +4779,7 @@ bagaimana pun tidak dapat dimengerti dengan hanya membaca teksnya
 saja akan tetapi harus dipelajari juga bagaimana terjadinya teks itu, harus
 
 diketahui keterangan-keterangannya dan sebetulnya juga dalam suasana
+
 
 -----
 
@@ -4790,6 +4853,7 @@ _criminal justice system, teruraikan dalam pandangan berbagai pihak,_
 
 sebagai berikut:
 
+
 -----
 
 69
@@ -4858,6 +4922,7 @@ adalah alat negara yang berfungsi sebagai kekuatan keamanan
 negara dan kekuatan penegak hukum yang susunan, kedudukan,
 
 tugas, hak dan wewenangnya diatur dengan undang-undang.
+
 
 -----
 
@@ -4930,6 +4995,7 @@ melayani dan membimbing masyarakat dalam rangka terjaminnya
 
 tertib dan tegaknya hukum serta terbinanya ketertiban masyarakat
 
+
 -----
 
 71
@@ -4999,6 +5065,7 @@ melalui alat perlengkapan negara. Dalam konteks negara Indonesia alat
 perlengkapan negara atau lembaga-lembaga penyelenggara negara yang
 
 dirumuskan dalam UUD 1945 salah satunya Polri.
+
 
 -----
 
@@ -5071,6 +5138,7 @@ tentunya lebih rendah lagi tingkatan dan derajat perlakuan hukum
 
 terhadap pejabat yang duduk di dalamnya
 
+
 -----
 
 73
@@ -5141,6 +5209,7 @@ UUD 1945;
 
 (5), (6) dan ayat (7) UUD 1945;
 
+
 -----
 
 74
@@ -5209,6 +5278,7 @@ auxiliary organ terhadap Mahkamah Agung yang diatur dalam Pasal
 31. Angkatan Laut (TNI AL) diatur dalam Pasal 10 UUD 1945;
 
 32. Angkatan Udara (TNI AU) diatur dalam Pasal 10 UUD 1945;
+
 
 -----
 
@@ -5281,6 +5351,7 @@ lembaga negara sebagai organ konstitusi lapis kedua itu adalah:
 
 5) Komisi pemilihan umum;
 
+
 -----
 
 76
@@ -5350,6 +5421,7 @@ bertanggungjawab kepada Kapolda.
 (Polsek) yang dipimpin oleh seorang Kapolsek yang
 
 bertanggungjawab kepada Kapolres.
+
 
 -----
 
@@ -5422,6 +5494,7 @@ antara OJK dengan Polri dalam penyidikan tindak pidana di sektor jasa
 
 keuangan sepanjang dilakukan secara terkordinasi dengan relasi yang
 
+
 -----
 
 78
@@ -5492,6 +5565,7 @@ mengenai Otoritas Jasa Keuangan (OJK) diberi kewenangan khusus
 sebagai lembaga satu-satunya yang dapat menyidik tindak pidana sektor
 
 jasa keuangan dan bahkan mengatur mengenai perluasan makna
+
 
 -----
 
@@ -5565,6 +5639,7 @@ kedudukan kelembagaan Kepolisian dalam penegakan hukum dapat
 
 ditelusuri dalam Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian
 
+
 -----
 
 80
@@ -5637,6 +5712,7 @@ yang menegaskan: “….. perlu mengadakan usaha peningkatan dan
 
 penyempurnaan pembinaan hukum nasional dengan mengadakan
 
+
 -----
 
 81
@@ -5707,6 +5783,7 @@ tugas dan wewenang di bidang penegakan hukum oleh Kepolisian dan
 
 Lembaga lain yang diberikan kewenangan oleh undang-undang termasuk
 
+
 -----
 
 82
@@ -5776,6 +5853,7 @@ Ini merupakan tahap kedua pelimpahan berkas perkara dari penyidik
 kepada penuntut umum. Proses ini disebut dengan ‘pra penuntutan’, dan
 
 diatur dalam Pasal 138 ayat (2) KUHAP.
+
 
 -----
 
@@ -5849,6 +5927,7 @@ kurungan atau pembinaan.
 
 merupakan tindak pidana umum yaitu tindak pidana yang tercantum
 
+
 -----
 
 84
@@ -5919,6 +5998,7 @@ kewenangan Kepolisian. Pola ini merupakan pola yang paling dominan
 oleh karana pada hakikatnya penyidikan memang dilakukan oleh
 
 Kepolisian Oleh karena itu kewenangan penyidikan tindak pidana umum
+
 
 -----
 
@@ -5992,6 +6072,7 @@ sebagai penyidik tunggal. Terlebih lagi dalam huruf (c)
 
 disebutkan bahwa Penyidik OJK termasuk “pegawai tertentu”
 
+
 -----
 
 86
@@ -6063,6 +6144,7 @@ penyidikan dengan segala sumber daya yang dimiliki
 Kepolisian. Dari sisi jangkauan, Kepolisian juga memiliki
 
 jangkauan yang lebih luas dan jelas di seluruh Indonesia
+
 
 -----
 
@@ -6136,6 +6218,7 @@ Michael E. & Gordon, George J. 2001. Public Administration in America.
 
 USA: Wadsworth & Thomson Learning Seventh Edition 2001:432 & 443)
 
+
 -----
 
 88
@@ -6204,6 +6287,7 @@ pemerintahan atau _quasi, yang diberikan fungsi tunggal, atau fungsi_
 campuran yang salah satunya disatu pihak sebagai pengatur,
 
 administratif, dan dilain sisi juga menghukum. Kemudian, terdapat kriteria
+
 
 -----
 
@@ -6277,6 +6361,7 @@ _quasi antara lain:_
 
 7) Komisi Pengawas Persaingan Usaha
 
+
 -----
 
 90
@@ -6347,13 +6432,16 @@ bisnis di sektor jasa keuangan sangat terbuka untuk dilakukan
 
 secara transnasional. Misalnya, bisnis perbankan dan asuransi
 
+
 -----
 
 91
 
 yang melakukan investasi dan kerjasama dengan mitra luar
 
+
 negeri adalah sebuah keniscayaan.
+
 
 **Kedua, dampak viktimisasinya besar. Korban tindak pidana di sektor**
 
@@ -6369,7 +6457,9 @@ sektor keuangan dilakukan maka bisa dipastikan jumlah
 
 korbannya pasti sangat besar, bahkan korban bisa juga dari luar
 
+
 negeri.
+
 
 **Ketiga, adanya lembaga pendukung penegakan hukum yang bersifat**
 
@@ -6380,6 +6470,7 @@ Lembaga pendukung penegakan hukum dalam tindak pidana di
 sektor keuangan adalah Otoritas Jasa Keuangan (OJK)
 
 sebagaimana diamanatkan oleh undang-undang. Otoritas Jasa
+
 
 Keuangan (OJK) telah diberikan kewenagan oleh undang
 
@@ -6403,7 +6494,9 @@ Mahkamah Konstitusi Nomor 102/PUU-XVI/2018 di halaman
 
 dapat dibenarkan dan adalah konstitusional sepanjang
 
+
 pelaksanaannya dikoordinasikan dengan penyidik Kepolisian”.
+
 
 124. Bahwa disamping ketiga hal di atas, tindak pidana di sektor keuangan juga
 
@@ -6418,6 +6511,7 @@ menjalankan usaha atau bekerja di industri jasa keuangan. Modus
 operandi yang digunakan seringkali menggunakan sarana teknologi
 
 informasi dengan tingkat kecanggihan yang sangat tinggi Sehingga
+
 
 -----
 
@@ -6487,6 +6581,7 @@ Mahkamah Konstitusi Nomor 25/PUU- XII/2014].
 
 **Pasal 9 huruf c**
 
+
 -----
 
 93
@@ -6550,6 +6645,7 @@ penyidik Kepolisian. Keterpaduan demikian penting dilakukan agar tidak
 terjadi tumpang-tindih dalam penegakan hukum terutama dalam
 
 penegakan hukum pidana. Dalam konteks itu, setiap lembaga baik itu
+
 
 -----
 
@@ -6622,6 +6718,7 @@ tindak pidana sektor jasa keuangan. Sehingga untuk mencegah terjadinya
 
 tumpang tindih penanganan perkara tindak pidana sektor jasa keuangan
 
+
 -----
 
 95
@@ -6690,6 +6787,7 @@ hanya penyidik OJK. Kemudian, terdapat larangan bagi penyidik
 Kepolisian Negara Republik Indonesia untuk melakukan penyidikan;
 
 136. Bahwa kejahatan di sektor jasa keuangan termasuk kategori kejahatan
+
 
 -----
 
@@ -6763,6 +6861,7 @@ jasa keuangan. Dengan demikian, akan ada banyak masyarakat yang
 
 tidak akan mendapat keadilan hukum;
 
+
 -----
 
 97
@@ -6832,6 +6931,7 @@ menjadi korban kejahatan, kemudian kerugian yang diderita akibat kasus
 yang dilaporkan tidak dapat ditangani dengan baik. Masyarakat akan
 
 semakin frustasi menghadapi kondisi penegakan hukum yang demikian.
+
 
 -----
 
@@ -6905,6 +7005,7 @@ juga pernah diuji di Mahkamah Konstitusi dalam perkara penyidik Tindak
 
 Pidana Asal (TPPU) yang sebelumnya dibatasi hanya 6 (enam) penyidik
 
+
 -----
 
 99
@@ -6977,6 +7078,7 @@ bahwa Polri telah menyesuaikan pengembangan kelembagaan
 
 dengan perubahan dan perkembangan kriminalitas yang ada Menurut
 
+
 -----
 
 100
@@ -7047,6 +7149,7 @@ hukum (sebagai komponen sistem peradilan pidana) dalam
 
 melaksanaan penyidikan menjadi hilang.
 
+
 -----
 
 101
@@ -7115,6 +7218,7 @@ sebagai primary rules (hukum materiil) melainkan juga secondary rules
 (rule of adjudication) dalam kaitannya hukum formil. Penambahan
 
 pegawai tertentu, akan menimbulkan persoalan hukum, yakni:
+
 
 -----
 
@@ -7188,6 +7292,7 @@ terjadi dengan adanya pemberlakuan penyidikan tunggal OJK dalam UU
 
 P2SK j l k litk i k dil bil d l k d
 
+
 -----
 
 103
@@ -7260,6 +7365,7 @@ diajukan oleh para Pemohon, merujuk pada Putusan Perkara Nomor
 
 secara terus menerus mengikuti perkembangan kesadaran hukum dan rasa
 
+
 -----
 
 104
@@ -7330,6 +7436,7 @@ Majelis Hakim Mahkamah Konstitusi Yang Mulia agar memeriksa, mengadili,
 
 menerima dan mengabulkan permohonan para Pemohon, sebagai berikut:
 
+
 -----
 
 105
@@ -7399,6 +7506,7 @@ P-118, sebagai berikut:
 
 Sedana, NIK: 5171031310820017;
 
+
 -----
 
 106
@@ -7459,6 +7567,7 @@ Nomor DP-710235 tanggal 04 Agustus 2017;
 Sedana Nomor TB-711348;
 19 Bukti P-19 : Fotokopi Tabungan Koperasi “SIDI” Atas Nama Ida Bagus
 
+
 -----
 
 107
@@ -7517,6 +7626,7 @@ Endang Sri Siti Kusuma Hendrawati Nomor Polis
 34. Bukti P-34 : Fotokopi Tanda Terima Dokumen Pengajuan Pencairan
 
 Atas Nama Endang Sri Siti Kusuma Hendrawati Nomor
+
 
 -----
 
@@ -7582,6 +7692,7 @@ Widjaya Tija Nomor Polis 971812191 tanggal 29 Desember
 
 Widjaya Tija Nomor Polis 9719120336 tanggal 27
 Desember 2019;
+
 
 -----
 
@@ -7650,6 +7761,7 @@ Siti Kusuma Hendrawati;
 
 Subyantoro Nomor Polis 9717060386 tanggal 9 Juni 2017;
 
+
 -----
 
 110
@@ -7716,6 +7828,7 @@ Dittipideksus tanggal 16 Agustus 2021;
 
 Penyidikan (SP2HP) Nomor B/356/VI/RES 1 24/2022/
 
+
 -----
 
 111
@@ -7781,6 +7894,7 @@ berdomisili di Bengkalis;
 
 Cabang Bengkalis Nomor rekening: 0189-01-018726-50-9
 
+
 -----
 
 112
@@ -7837,6 +7951,7 @@ Remunerasi Anggota BPA, Lampiran 5 Surat dari Pemohon
 I tentang Rekomendasi Subjek dan Objek Pemeriksaan
 Langsung Terhadap AJB Bumiputera 1912, Lampiran 6
 Surat dari Pemohon 1 tentang Kajian Mendesaknya
+
 
 -----
 
@@ -7906,6 +8021,7 @@ UUD 1945.
 
 Pasal 49 ayat (1) huruf c mengatur bahwa Penyidik OJK juga terdiri atas
 
+
 -----
 
 114
@@ -7973,6 +8089,7 @@ sedang diperiksa dalam uji materiil ini, perkenankan Ahli dapat memberikan
 pidana di sektor jasa keuangan; dan
 
 (4) Kesimpulan
+
 
 -----
 
@@ -8044,6 +8161,7 @@ alat bukti sebagaimana ditegaskan dalam Putusan MK No. 21/PUU-XII/2014
 
 (halaman 109) berikut ini:
 
+
 -----
 
 116
@@ -8110,6 +8228,7 @@ Pasal 14 ayat [1] huruf g UU Polri yang menyatakan bahwa dalam
 melaksanakan tugas penegakan hukum pidana Polri bertugas untuk:
 
 “melakukan tindakan penyelidikan dan penyidikan terhadap semua tindak pidana
+
 
 -----
 
@@ -8178,6 +8297,7 @@ melakukan kejahatan sekaligus agar mampu mengelabui aparat penegak
 
 hukum (Andi Hamzah, 1991:7).
 
+
 -----
 
 118
@@ -8245,6 +8365,7 @@ c. Pasal 71 ayat (1) UU Nomor 19 Tahun 2002 tentang Hak Cipta
 Pegawai Negeri Sipil tertentu di lingkungan departemen yang lingkup tugas
 dan tanggung jawabnya meliputi pembinaan Hak Kekayaan Intelektual diberi
 
+
 -----
 
 119
@@ -8305,6 +8426,7 @@ penyidikan juga diberikan kepada PPNS atau penyidik dari suatu lembaga selain
 penyidik Polri dalam kerangka penegakan hukum pidana khusus atau
 
 penegakan hukum pidana di luar kodifikasi. Namun demikian, patut dicatat
+
 
 -----
 
@@ -8376,6 +8498,7 @@ negara dengan tugas penegakan hukum, khususnya hukum pidana. Dalam
 
 k t k i k i i tik l k tit i l t P l i d l
 
+
 -----
 
 121
@@ -8446,6 +8569,7 @@ akan menghilangkan kewenangan Polri dalam melakukan penyidikan untuk
 
 semua tindak pidana. Artinya, dengan kebijakan formulasi seperti dalam Pasal
 
+
 -----
 
 122
@@ -8514,6 +8638,7 @@ Lembaga OJK. Akan tetapi, dengan pengaturan Pasal 49 ayat (5) UU _a quo_
 maka penyidik di Lembaga Polri tidak lagi memiliki dasar hukum untuk
 
 melakukan penyidikan tindak pidana di sektor jasa keuangan.
+
 
 -----
 
@@ -8586,6 +8711,7 @@ sebelum perubahan melalui UU _a quo. Dalam Pasal 2 ayat (1) PP No. 5 tahun_
 
 “Penyidik Tindak Pidana di Sektor Jasa Keuangan terdiri atas:
 
+
 -----
 
 124
@@ -8656,6 +8782,7 @@ _be non-contradictory” (Fuller, 1969:39)._
 **IV. Kesimpulan**
 
 1 Polri memiliki peran ang sangat penting dalam penegakan h k m pidana
+
 
 -----
 
@@ -8729,6 +8856,7 @@ memiliki alas hukum secara institusional. Sebagai konsekuensi lebih lanjut,
 
 apabila diteruskan ke jaksa penuntut umum maka perkara tersebut bisa
 
+
 -----
 
 126
@@ -8799,6 +8927,7 @@ yang keberadaanya atas dasar perintah konstitusi, tetapi juga ada lembaga
 negara yang dibentuk atas perintah undang-undang dan bahkan ada
 l b dib k d K P id
 
+
 -----
 
 127
@@ -8867,6 +8996,7 @@ negara yang termasuk dalam alat kelengkapan negara. Seperti Komisi-komisi
 negara dan aneka penyebutan lainnya namun tidak merupakan bagian dari
 
 alat kelengkapan negara dan lembaga admnitratif.
+
 
 -----
 
@@ -8940,6 +9070,7 @@ wewenang pengatuarn, pengawasan, pemeriksaan, dan penyidikan
 
 b i di k d d l UU i i
 
+
 -----
 
 129
@@ -9012,6 +9143,7 @@ dalam konsep _Good Financial Governance dalam sektor jasa keuangan, yaitu_
 
 _fairness_ _transparency_ _accountability_ dan responsibility Keempat komponen
 
+
 -----
 
 130
@@ -9081,6 +9213,7 @@ dalam melakukan penyidikan suatu tindak pidana di sektor jasa keuangan.
 Berdasarkan studi banding di beberapa negara terkait tugas, fungsi dan
 
 kedudukan Otoritas Jasa Keuangan dalam sistem ketatanegaraan, antara lain:
+
 
 -----
 
@@ -9152,6 +9285,7 @@ di Amerika Serikat dan Republik Rakyat China,
 
 jasa keuangan yang dilakukan oleh dua otoritas utama yang pembagiannya
 
+
 -----
 
 132
@@ -9221,6 +9355,7 @@ memiliki 17 penyidik yang terdiri dari 12 penyidik Kepolisian dan 5 penyidik
 PPNS. https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Perkembangan
 Tugas-Penyidikan-OJK.aspx. Bahkan Penyidik tersebut berkedudukan hanya di
 
+
 -----
 
 133
@@ -9247,7 +9382,9 @@ Padang, Palangkaraya, Palembang, Palu, Pekanbaru, Pontianak, Purwokerto,
 
 [kepala-kantor-ojk-di-seluruh-indonesia-](https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/siaran-pers-kepala-kantor-regional-dan-kepala-kantor-ojk-di-seluruh-indonesia-dilantik.aspx#:~:text=Saat%20ini%20terdapat%20enam%20Kantor,Surabaya%2C%20Medan%2C%20dan%20Makassar)
 
+
 [dilantik.aspx#:~:text=Saat%20ini%20terdapat%20enam%20Kantor,Surabaya%](https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/siaran-pers-kepala-kantor-regional-dan-kepala-kantor-ojk-di-seluruh-indonesia-dilantik.aspx#:~:text=Saat%20ini%20terdapat%20enam%20Kantor,Surabaya%2C%20Medan%2C%20dan%20Makassar)
+
 
 [2C%20Medan%2C%20dan%20Makassar. Data ini menunjukkan lembaga OJK](https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/siaran-pers-kepala-kantor-regional-dan-kepala-kantor-ojk-di-seluruh-indonesia-dilantik.aspx#:~:text=Saat%20ini%20terdapat%20enam%20Kantor,Surabaya%2C%20Medan%2C%20dan%20Makassar)
 
@@ -9292,6 +9429,7 @@ propinsi, kabupaten dan desa di seluruh Indonesia.
 Dengan kualifikasi jumlah penyidik yang terbatas dan hanya di kantor
 
 pusat ini menunjukkan bahwa keberadaan penyidik OJK tak mampu
+
 
 -----
 
@@ -9353,6 +9491,7 @@ hukum administratif semata tetapi dalam batas-batas dan syaratsyarat tertentu ju
 bersifat _pro justitia, sebagaimana telah dipertimbangkan di atas._
 Tegasnya, **demi** **kepastian hukum, koordinasi dengan penyidik**
 
+
 -----
 
 135
@@ -9413,6 +9552,7 @@ penyidikan tetap diberikan pada OJK haruslah dilakukan dengan
 berkoordinasi dengan Polri sebagai sebagai lembaga negara utama _(the_
 
 _main organ of the state)_ dalam penyidikan semua jenis tindak pidana
+
 
 -----
 
@@ -9482,6 +9622,7 @@ satunya pihak yang berwenang atau diberi kewenangan untuk melakukan
 penyidikan atas tidak pidana di sektor keuangan adalah penyidik OJK, bukan
 
 yang lainnya.
+
 
 -----
 
@@ -9555,6 +9696,7 @@ dalam UU P2SK sebagai berikut.
 
 1 Pasal 37D ayat (10): Penyidikan atas tindak pidana Perbankan hanya dapat
 
+
 -----
 
 138
@@ -9621,6 +9763,7 @@ UUD 1945, Badan Penerbit UI, 2004 hal 101).
 Pandangan ini, hendak menjelaskan pada arah kebijakan hukum
 
 pembentukan negara Indonesia yang mempertimbangkan agar hak-hak
+
 
 -----
 
@@ -9694,6 +9837,7 @@ menegakan dan melindungi hak assi manusia sesuai dengan prinsip negara
 
 hukum yang demokratis maka pelaksanaan hak asasi manusia dijamin
 
+
 -----
 
 140
@@ -9765,6 +9909,7 @@ Van Vollen Hoven dalam teori Catur Praja (Victor Situmorang, _Dasar-dasar_
 
 _Hukum Administrasi_ _Negara_ 1988: 34) yang membagi fungsi pemerintahan
 
+
 -----
 
 141
@@ -9830,6 +9975,7 @@ pembelaan Negara
 (2) Syarat-syarat tentang pembelaan diatur dengan Undang-undang.
 
 b. Konstitusi RIS 1949
+
 
 -----
 
@@ -9898,6 +10044,7 @@ institusi Kepolisian Negara.
 
 Polri sebagai alat negara dan tugas Polri dalam melindungi, mengayomi,
 
+
 -----
 
 143
@@ -9964,6 +10111,7 @@ hukum dan bersama-sama dengan segenap komponen kekuatan
 pertahanan keamanan negara lainnya membina ketenteraman
 masyarakat dalam wilayah negara guna mewujudkan keamanan dan
 ketertiban masyarakat;………”
+
 
 -----
 
@@ -10035,6 +10183,7 @@ Kembali dalam UU No. 28 Tahun 1997, bahkan salah satu pelaksanaan
 
 tugas Polri tersebut yakni melakukan penyelidikan dan penyidikan
 
+
 -----
 
 145
@@ -10105,6 +10254,7 @@ _Kedua,_ tugas penegakan hukum oleh Polri, tidak dapat dipisahkan
 
 dengan kewenangan Kepolisian dalam melakukan penyelidikan
 
+
 -----
 
 146
@@ -10174,6 +10324,7 @@ redaksional berikut: “Kepolisian adalah alat negara yang memiliki tugas
 
 utama untuk mengayomi, menjaga keamanan dan ketertiban masyarakat
 
+
 -----
 
 147
@@ -10239,6 +10390,7 @@ revisionis Polisi baru telah menunjukkan bagaimana gagasan dan praktik
 kepolisian sebagai pengendalian kejahatan profesional, yang diorganisir
 
 dalam bentuk birokrasi terpusat, mendominasi pemikiran tentang polisi dan
+
 
 -----
 
@@ -10306,6 +10458,7 @@ Otoritas Jasa Keuangan.”
 e. Pasal 52 angka 23 Pasal 72A ayat (10): “Penyidikan atas tindak pidana
 
 perasuransian **hanya dapat dilakukan oleh penyidik Otoritas Jasa**
+
 
 -----
 
@@ -10375,6 +10528,7 @@ a. pejabat penyidik Kepolisian Negara Republik Indonesia;
 b. pejabat pegawai negeri sipil tertentu; dan
 c. Pegawai Tertentu,
 
+
 -----
 
 150
@@ -10442,6 +10596,7 @@ PPSK merupakan induk regulasi PP 5 Tahun 2023.
 diatur dalam Pasal 7 Undang-Undang No. 12 Tahun 2011 tentang
 
 Pembentukan Peraturan Perundang-undangan sebagaimana telah
+
 
 -----
 
@@ -10515,6 +10670,7 @@ atas dasar kepastian hukum, kewenangan dalam PP No. 5 Tahun
 
 2023 id k d dil k k l h P l i
 
+
 -----
 
 152
@@ -10587,6 +10743,7 @@ disampaikan oleh SP NIBA bukan kewenangan Kepolisian dan sesuai
 
 k t t d l U d U d N 4 T h 2023 t t
 
+
 -----
 
 153
@@ -10657,6 +10814,7 @@ Life;
 
 Dewan Komisioner OJK berkomunikasi dengan Tersangka Owner PT
 
+
 -----
 
 154
@@ -10725,6 +10883,7 @@ mengubah Pasal 49 ayat (1) huruf c dan Pasal 49 ayat (5) UU 21/2011
 
 bertentangan dengan Pasal 1 ayat (3), Pasal 28D ayat (1), Pasal 30 ayat (4) UUD
 
+
 -----
 
 155
@@ -10792,6 +10951,7 @@ Pasal 30 ayat (4) UUD NRI Tahun 1945 (vide perbaikan permohonan hlm. 16
 dam hlm. 36)
 
 Bahwa para Pemohon dalam petitumnya memohon kepada Yang Mulia
+
 
 -----
 
@@ -10864,6 +11024,7 @@ Atau apabila Majelis Hakim Mahkamah berpendapat lain, mohon putusan
 
 yang seadil-adilnya (ex aequo et bono)
 
+
 -----
 
 157
@@ -10934,6 +11095,7 @@ dibutuhkan landasan hukum yang sesuai dengan perkembangan industri
 
 keuangan terkini melalui pembenahan peraturan perundang-undangan
 
+
 -----
 
 158
@@ -11000,6 +11162,7 @@ f. Undang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia
 
 sebagaimana telah beberapa kali diubah terakhir dengan Undang
 Undang Nomor 6 Tahun 2009 tentang Penetapan Peraturan
+
 
 -----
 
@@ -11068,6 +11231,7 @@ Konstitusi menunda keberlakuan UU 4/2023 sampai ada putusan Mahkamah
 dalam perkara a quo dan selama penundaan tersebut, undang-undang yang
 
 digunakan adalah UU 21/2011. Terhadap permohonan provisi Para Pemohon
+
 
 -----
 
@@ -11140,6 +11304,7 @@ ketentuan Pasal 1 ayat (1) KUHAP, yang menyatakan bahwa:
 “Penyidik adalah pejabat polisi negara Republik Indonesia dan/atau
 pejabat pegawai negeri sipil tertentu yang diberi wewenang khusus
 
+
 -----
 
 161
@@ -11206,6 +11371,7 @@ penyidik Polri terhadap PPNS sebagaimana diatur dalam KUHAP yaitu:
 a. Untuk kepentingan penyidikan, penyidik pada Polri memberikan
 
 petunjuk kepada PPNS dan memberikan bantuan penyidikan yang
+
 
 -----
 
@@ -11277,6 +11443,7 @@ di lingkungan OJK, diberi wewenang khusus sebagai penyidik
 sebagaimana dimaksud dalam Kitab Undang-Undang Hukum Acara
 Pidana.
 
+
 -----
 
 163
@@ -11347,6 +11514,7 @@ karena tindak pidana atau hal-hal yang menyangkut pelanggaran pidana
 atau tindak pidana di sektor jasa keuangan yang kompleks, dinamis, dan
 
 li t k it t b kt k b ik d l h l d k
+
 
 -----
 
@@ -11420,6 +11588,7 @@ berada di bawah koordinasi dan pengawasan Polri.
 
 mengenai konstitusionalitas kewenangan OJK melakukan penyidikan
 
+
 -----
 
 165
@@ -11482,6 +11651,7 @@ mengubah Pasal 49 ayat (5) UU 21/2011, yang menyatakan “Penyidikan
 atas tindak pidana di sektor jasa keuangan hanya dapat dilakukan oleh
 
 penyidik Otoritas Jasa Keuangan, bertentangan dengan konsepsi
+
 
 -----
 
@@ -11546,6 +11716,7 @@ oleh Kumham. Demikian pak.
 
 **KETUA RAPAT**
 
+
 -----
 
 167
@@ -11603,6 +11774,7 @@ Jadi KUHAP ya, jadi sesuai KUHAP.
 **S.H., M.H.):**
 
 Sesuai KUHAP.
+
 
 -----
 
@@ -11662,6 +11834,7 @@ penahanan dan seterusnya dia tetap selalu ada di bawah Polri.
 
 **PEMERINTAH/KEPALA BKF (FEBRIO NATHAN KACARIBU):**
 
+
 -----
 
 169
@@ -11719,6 +11892,7 @@ aturan-aturan yang di menjadi tanggung jawab mereka. Oleh siapa ? oleh
 yang diatur siapa yang dianggap melanggar. Lah sementara kita menghadapi
 keterbatasan semantik yang ada di itu pak tetapi secara fungsi peran ini
 
+
 -----
 
 170
@@ -11774,6 +11948,7 @@ di Polri saja.
 **KETUA RAPAT:**
 
 Kita rumuskan yang ayat (2) tadi DIM 1138 coba 1138 itu penyidik
+
 
 -----
 
@@ -11833,6 +12008,7 @@ Betul.
 
 **KETUA RAPAT:**
 
+
 -----
 
 172
@@ -11890,6 +12066,7 @@ Hukum dan HAM, yang non PPNS Kepolisian Republik Indonesia.
 
 Secara, Pak Ketua izin, izin Pak Ketua.
 
+
 -----
 
 173
@@ -11946,6 +12123,7 @@ Silakan-silakan ini Kepolisian tadi.
 Terima kasih Bapak Pimpinan. Saya sudah melaporkan ke Pak Plt Dirjen
 PP, beliau menyampaikan bahwa sebaiknya untuk pengangkatan itu di
 Kementerian Hukum dan HAM. Pengangkatan itu pada prinsipnya bersifat
+
 
 -----
 
@@ -12006,6 +12184,7 @@ dua-dua cabang nih sekarang yang kita mau pilih.
 
 _Ya_ jadi bisa saja, _kan_ misalnya, mana tadi _ya_ yang itu ditetapkan oleh
 
+
 -----
 
 175
@@ -12065,6 +12244,7 @@ Jadikan Polisi nanti setelah mendapatkan masukan dari OJK.
 
 **PEMERINTAH/DIREKTUR HPP II KEMENKUMHAM (UNAN PRIBADI,**
 
+
 -----
 
 176
@@ -12123,6 +12303,7 @@ RI “Menyerahkan sepenuhnya kepada kebijaksanaan Yang Mulia Majelis
 Hakim Konstitusi untuk mempertimbangkan dan menilai konstitusionalitas
 
 Pasal a quo dalam pengujian UU 4/2023 terhadap UUD NRI Tahun 1945.”
+
 
 -----
 
@@ -12194,6 +12375,7 @@ hukum yang termuat dalam Kitab Undang-Undang Hukum Acara Pidana
 
 Penyidik Pegawai Negeri Sipil (PPNS)
 
+
 -----
 
 178
@@ -12262,6 +12444,7 @@ c. Kerugian hak dan/atau kewenangan konstitusional pemohon sebagai
 akibat berlakunya Undang-Undang yang dimohonkan pengujian.
 
 3. Lebih lanjut Mahkamah Konstitusi telah memberikan batasan secara kumulatif
+
 
 -----
 
@@ -12333,6 +12516,7 @@ perkenankanlah terlebih dahulu kami menyampaikan tanggapan atas
 
 permohonan provisi para pemohon sebagai berikut:
 
+
 -----
 
 180
@@ -12403,7 +12587,9 @@ Kerja;
 
 5) Undang-Undang Nomor 32 Tahun 1997 tentang Perdagangan
 
+
 B j k K di i b i l h di b h d U d
+
 
 -----
 
@@ -12474,6 +12660,7 @@ Keuangan Mikro;
 
 16)Undang-Undang Nomor 1 Tahun 2016 tentang Penjaminan;
 
+
 -----
 
 182
@@ -12541,6 +12728,7 @@ permohonan provisi para pemohon terlalu berlebihan dan tidak
 Majelis Hakim MK menolak permohonan provisi para pemohon.
 
 **B. DALAM POKOK PERKARA**
+
 
 -----
 
@@ -12614,6 +12802,7 @@ pesatnya kemajuan di bidang teknologi informasi serta inovasi
 
 finansial telah menciptakan sistem keuangan yang sangat kompleks
 
+
 -----
 
 184
@@ -12684,6 +12873,7 @@ dari “pegawai tertentu” kiranya sudah semestinya mengingat
 penyidikan tindak pidana yang kompleks di sektor jasa keuangan
 
 memerlukan keahlian khusus
+
 
 -----
 
@@ -12757,6 +12947,7 @@ P2SK secara tegas mengakui perlunya peran dan keterlibatan POLRI.
 
 Hal ini terlihat pada Pasal 49 ayat (6) dalam Pasal 8 Angka 21 UU
 
+
 -----
 
 186
@@ -12827,6 +13018,7 @@ memiliki kompleksitas dan karakteristik tersendiri serta dengan
 
 spektrum yang sangat luas dengan berbagai model tindak pidana.
 
+
 -----
 
 187
@@ -12894,6 +13086,7 @@ institusi lain di luar OJK, termasuk POLRI. Selanjutnya, dalam
 pelaksanaan tugasnya, Penyidik OJK juga berkoordinasi dengan
 
 POLRI. Dengan demikian, Penyidik Pegawai Tertentu sebagaimana
+
 
 -----
 
@@ -12965,6 +13158,7 @@ kejahatan keuangan lainnya dapat terjadi dengan tingkat kesulitan dan
 
 kompleksitas yang tinggi. Untuk mengatasi jenis tindak pidana ini,
 
+
 -----
 
 189
@@ -13035,6 +13229,7 @@ penegakan hukum yang berhasil di sektor keuangan. Penyidik OJK
 
 harus bekerja sama dengan POLRI untuk mengoptimalkan sumber
 
+
 -----
 
 190
@@ -13102,6 +13297,7 @@ P2SK terhadap UUD 1945, dapat memberikan putusan sebagai berikut:
 Menolak permohonan provisi para pemohon.
 
 **Dalam Pokok Permohonan**
+
 
 -----
 
@@ -13172,6 +13368,7 @@ b. Pada saat Rancangan UU P2SK disampaikan kepada Presiden dan
 
 Pemerintah melakukan penyusunan Daftar Inventarisasi Masalah (DIM),
 
+
 -----
 
 192
@@ -13240,6 +13437,7 @@ sebagai koordinator pengawas penyidikan.
 b. Kewenangan Pemerintah membentuk PP 5 Tahun 2023 merupakan
 
 pengejawantahan dari ketentuan Pasal 5 ayat (2) UUD 1945 jo. Pasal 12
+
 
 -----
 
@@ -13313,6 +13511,7 @@ menjadi Penyidik OJK, dan
 
 6) kode etik Penyidik OJK
 
+
 -----
 
 194
@@ -13378,6 +13577,7 @@ dilepaskan dari pencapaian tujuan dimaksud.”
 b. Sesuai peraturan perundang-undangan yang berlaku, status pegawai
 
 OJK bukan merupakan Pegawai Negeri Sipil (PNS), sehingga diperlukan
+
 
 -----
 
@@ -13448,6 +13648,7 @@ Penyidik OJK yang berasal dari Pegawai Tertentu dalam hal ini pegawai
 OJK sebagaimana diatur dalam ketentuan Pasal 49 ayat (1) huruf c dalam
 
 Pasal 8 angka 21 UU P2SK telah sejalan dengan KUHAP.
+
 
 -----
 
@@ -13520,6 +13721,7 @@ sebagai koordinator pengawas penyidikan telah ditegaskan pada Pasal
 
 49 ayat (1) dan penjelasannya dalam Pasal 8 angka 21 UU P2SK
 
+
 -----
 
 197
@@ -13590,6 +13792,7 @@ b. Keberadaan penyidik OJK yang terdiri atas Penyidik Polri, PPNS, dan
 
 pegawai tertentu pada OJK sesuai Pasal 49 ayat (1) huruf c dalam Pasal
 
+
 -----
 
 198
@@ -13658,6 +13861,7 @@ memberi masukan bahwa ketentuan Pasal 49 ayat (5) bertentangan dengan
 
 Pasal 30 ayat (4) UUD 1945;
 
+
 -----
 
 199
@@ -13707,7 +13911,7 @@ mengatakan bahwa penyidikan hanya dapat dilakukan oleh OJK bertentangan
 dengan Pasal 30 ayat (4) UUD 1945.
 
 **KETERANGAN TAMBAHAN (BERTANGGAL 25 SEPTEMBER 2023)**
-**I. Pertanyaan Yang Mulia Hakim Mahkamah Konstitusi Dr. Suhartoyo, S.H.,**
+# I. Pertanyaan Yang Mulia Hakim Mahkamah Konstitusi Dr. Suhartoyo, S.H.,
 
 **M.H.**
 
@@ -13726,6 +13930,7 @@ kemudian bisa secara inline dilaksanakan secara baik? Termasuk apa yang
 dicontohkan Kepolisian tadi bahwa ada kasus satu di Makassar yang
 
 kemudian berkas perkara dikembalikan.
+
 
 -----
 
@@ -13798,6 +14003,7 @@ OJK", tapi satu naskahnya berbunyi "hanya dapat dilakukan oleh penyidik
 
 OJK" Lalu waktu itu kami menelusuri naskah yang dikirim kepada Presiden
 
+
 -----
 
 201
@@ -13868,6 +14074,7 @@ karena itu, timbul di dalam Ratas itu ya sudah. Karena berdasarkan hasil
 
 Paripurna DPR dan naskah undang-undang yang dikirim ke Presiden itu
 
+
 -----
 
 202
@@ -13934,6 +14141,7 @@ kepada Polri, bukan kepada institusi manapun.
 Terkait Kepolisian Negara Republik Indonesia telah menyampaikan keterangannya
 
 di dalam persidangan pada tanggal 28 Agustus 2023 dan dilengkapi dengan
+
 
 -----
 
@@ -14003,7 +14211,9 @@ menegaskan: Kepolisian Negara Republik Indonesia sebagai alat negara
 
 **melindungi, mengayomi, melayani masyarakat, serta menegakkan**
 
+
 **hukum;**
+
 
 -----
 
@@ -14075,6 +14285,7 @@ Pembukaan UUD 1945, yang berbunyi “Kemudian dari pada itu untuk
 
 dikarenakan Frasa “melindungi segenap bangsa Indonesia dan seluruh
 
+
 -----
 
 205
@@ -14141,6 +14352,7 @@ perlindungan kepada masyarakat. Lebih lanjut jika undang-undang bertujuan
 untuk menciptakan ketertiban dalam masyarakat, termasuk melawan
 
 kejahatan Pada akhirnya polisi akan menentukan secara konkrit apa yang
+
 
 -----
 
@@ -14210,6 +14422,7 @@ Polri sejak awal di desain sebagai lembaga yang berkharakteristik
 “Main State Organ” (Organ Utama) dalam menjalankan fungsi ketertiban dan
 
 keamanan;
+
 
 -----
 
@@ -14281,6 +14494,7 @@ Ketetapan MPR Nomor VI/MPR/2000 tentang Pemisahan TNI dan
 Polri maupun Ketetapan MPR Nomor VII/MPR/2000 tentang Peran TNI dan
 
 Peran Polri yang menjadi titik awal dimulainya proses reformasi Polri secara
+
 
 -----
 
@@ -14354,6 +14568,7 @@ c. membina masyarakat untuk meningkatkan partisipasi masyarakat,
 
 kesadaran hukum masyarakat serta ketaatan warga masyarakat terhadap
 
+
 -----
 
 209
@@ -14415,6 +14630,7 @@ Pemberantasan Tindak Pidana Pencucian Uang.
 e. Undang-Undang Nomor 3 Tahun 2020 tentang Perubahan Atas Undang
 Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan
 
+
 -----
 
 210
@@ -14472,6 +14688,7 @@ aa. Undang-Undang Nomor 44 Tahun 2008 tentang Pornografi.
 bb. Undang-Undang Nomor 4 Tahun 1960 tentang Peraturan Dasar Pokok
 Pokok Agraria.
 cc Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak
+
 
 -----
 
@@ -14537,6 +14754,7 @@ h. Pusat Indonesian Automatic Finger Indentification System (Pusinafis)
 i. Pusat Laboratorium Forensik (Puslabfor)
 j Direktorat Tindak Pidana Umum (Dittipidum)
 
+
 -----
 
 212
@@ -14601,6 +14819,7 @@ TPPU/Money Laundering;
 c. _The International Criminal Investigative Training Assistance Program_
 
 (ICITAP);
+
 
 -----
 
@@ -14674,6 +14893,7 @@ Penyidikan Tindak Pidana. Hal ini menunjukkan bahwa Polri akan
 
 l k k lidik d idik b ik ki
 
+
 -----
 
 214
@@ -14743,6 +14963,7 @@ Penyidik Polri dengan Surat Pemberitahuan Dimulainya Penyidikan (SPDP),
 yang kemudian diteruskan oleh Penyidik Polri kepada Penuntut Umum
 
 dengan surat pengantar dari Penyidik Polri. Demikian juga pada saat
+
 
 -----
 
@@ -14815,6 +15036,7 @@ menyatakan bahwa penyidikan dapat juga dilakukan oleh PPNS dari lembaga
 
 lain atau institusi lain maka penyidikan tindak pidana khusus akan
 
+
 -----
 
 216
@@ -14886,6 +15108,7 @@ undang”. Ketentuan tersebut dapat dimaknai sebagai penegasan bahwa
 
 KUHAP memberikan tempat bagi PPNS sebagai penyidik selain pejabat Polri;
 
+
 -----
 
 217
@@ -14955,6 +15178,7 @@ Intelektual diberi wewenang khusus sebagai Penyidik sebagaimana
 
 dimaksud dalam Undang-undang Nomor 8 Tahun 1981 tentang Hukum
 
+
 -----
 
 218
@@ -15020,6 +15244,7 @@ dan hukum pidana khusus merupakan bagian dari penegakan hukum yang
 harus dijalankan oleh Polri melalui tugas penyidikan. Sebagai rangkuman dari
 
 uraian tersebut dapat digambarkan dalam gambar berikut ini:
+
 
 -----
 
@@ -15111,6 +15336,7 @@ bekerjasama dan saling mendukung dengan Polri dalam menghadapi
 
 berbagai perkembangan TOC.
 
+
 -----
 
 220
@@ -15139,27 +15365,39 @@ keuangan, yaitu:
 
 a. Sektor Perbankan, diatur dalam UU No. 7 Tahun 1992 tentang Perbankan
 
+
 sebagaimana diubah menjadi UU No. 10 Tahun 1998;
+
 
 b. Sektor Pasar Modal, diatur dalam UU No. 8 Tahun 1995 tentang Pasar
 
+
 Modal;
+
 
 c. Sektor Perasuransian, diatur dalam UU No. 2 Tahun 1992 tentang Usaha
 
+
 Perasuransian sebagaimana diubah menjadi UU No. 40 Tahun 2014;
+
 
 d. Sektor Dana Pensiun, diatur dalam UU No. 11 Tahun 1992 tentang Dana
 
+
 Pensiun;
+
 
 e. Sektor Perbankan Syariah, diatur dalam ketentuan UU No. 21 Tahun 2008
 
+
 tentang Perbankan Syariah;
+
 
 f. Sektor Mata Uang, diatur dalam UU No. 7 Tahun 2011 tentang Mata
 
+
 Uang;
+
 
 44. Bahwa dalam ketentuan undang-undang di atas, diatur mengenai berbagai
 
@@ -15182,6 +15420,7 @@ dinyatakan bahwa kewenangan penyidikan dilakukan oleh Kepolisian Negara
 Republik Indonesia. Kemudian, berdasarkan ketentuan Pasal 14 huruf g UU
 
 Polri ditegaskan bahwa Polri berwenang melakukan penyelidikan dan
+
 
 -----
 
@@ -15255,6 +15494,7 @@ Pauline Lumowa sudah kabur ke Singapura pada September 2003.
 
 Setelah buron selama 17 tahun Akhirnya majelis hakim pengadilan
 
+
 -----
 
 222
@@ -15327,6 +15567,7 @@ KUHP dan UU Nomor 2 tahun 1992 tentang Asuransi;
 
 pidana tidak melakukan pembayaran klaim asuransi dengan maksud
 
+
 -----
 
 223
@@ -15396,6 +15637,7 @@ lingkungan OJK, diberi wewenang khusus sebagai penyidik
 sebagaimana dimaksud dalam Kitab Undang-Undang Hukum Acara
 Pidana;
 
+
 -----
 
 224
@@ -15461,6 +15703,7 @@ keterpaduan penyidik bidang tindak pidana lainnya dengan penyidik
 Kepolisian. Keterpaduan demikian penting dilakukan agar tidak terjadi
 
 tumpang-tindih dalam penegakan hukum terutama dalam penegakan hukum
+
 
 -----
 
@@ -15534,6 +15777,7 @@ penyidikan sampai dengan selesainya pemberkasan dan penyerahan berkas
 
 perkara kepada Jaksa Penuntut Umum;
 
+
 -----
 
 226
@@ -15605,6 +15849,7 @@ pemberitahuan dimulainya penyidikan sampai dengan penyelesaian dan
 penyerahan berkas perkara, tersangka dan barang bukti ke Penuntut Umum.
 
 Kemudian bantuan peralatan dalam proses penyidikan sesuai kebutuhan;
+
 
 -----
 
@@ -15678,6 +15923,7 @@ dan/atau penggeledahan seorang tersangka (mantan karyawan PT. CIMB
 
 Securities) di Tanggerang Selatan;
 
+
 -----
 
 228
@@ -15749,6 +15995,7 @@ a. Pembobolan melalui aplikasi Mandiri online. Dugaan tindak pidana
 Transfer Dana Palsu dan/atau tindak pidana Perbankan yang merugikan
 
 b b i k l l i d i b h d ih k B k M di i d
+
 
 -----
 
@@ -15822,6 +16069,7 @@ dibuatkan promisory note/perjanjian, namun faktanya terlapor tidak dapat
 
 memenuhi apa yang telah diperjanjikan;
 
+
 -----
 
 230
@@ -15891,6 +16139,7 @@ SPKT.DITTIPIDEKSUS/BARESKRIM POLRI tanggal 12 oktober 2021.
 Modus operandi PT AFT memberikan pinjaman online melalui _desk_
 
 _collection_ pinjol ilegal dengan aplikasi kredit kilat/kredit kilat pro dimana
+
 
 -----
 
@@ -15964,6 +16213,7 @@ bodong bank BNI Cabang Makasar sebagaimana laporan polisi nomor:
 
 LP/B/0221/V/2021/BARESKRIM tanggal 1 April 2021 Modus operandi
 
+
 -----
 
 232
@@ -16036,6 +16286,7 @@ Banten sebagaimana Laporan Polisi Nomor LP/A/479/VIII
 
 /2021/SKT DITTIPIDEKSUS/ BARESKRIM POLRI tanggal 10 Agustus
 
+
 -----
 
 233
@@ -16107,6 +16358,7 @@ Dugaan tindak pidana perjudian dan pemberitaan bohong yang
 
 mengakibatkan kerugian konsumen dan TPPU yang dimaksud dalam
 
+
 -----
 
 234
@@ -16177,6 +16429,7 @@ tanggal 27 Juli 2022. Dengan modus operandi investasi bodong.
 
 c. Kasus DNA Pro
 
+
 -----
 
 235
@@ -16246,6 +16499,7 @@ kripto tanpa ijin. Profit yang ditawarkan trading sebesar 20%/bulan dari
 modal. Kemudian korban tertarik dengan mentransferkan dana dengan
 
 total Rp.767.700.000,- yang ditransferkan ke rekening milik terlapor,
+
 
 -----
 
@@ -16319,6 +16573,7 @@ pengungkapan tindak pidana pencucian uang “Robot Trading Ilegal
 
 Fahrenheit” dan tindak pidana pasar modal yang dilakukan oleh PT
 
+
 -----
 
 237
@@ -16390,6 +16645,7 @@ pembuktian ilmiah (Scientific Crime Investigation) serta pemenuhan
 
 alut/alsus perorangan dan kesatuan diseluruh wilayah Indonesia maka
 
+
 -----
 
 238
@@ -16457,6 +16713,7 @@ dan Perasuransian). Ketentuan tersebut, juga secara a contrario berimplikasi
 kepada ketiadaan wewenang penyidik Polri dalam melakukan Penyidikan
 
 atas tindak pidana di sektor jasa keuangan sebagaimana telah dilakukan
+
 
 -----
 
@@ -16530,6 +16787,7 @@ kepada Kepolisian. Kasubdit II Direktorat Reserse Kriminal Khusus
 
 Polda Bali menerbitkan Surat No. B/16/I/RES.2.2./2023/Ditreskrimsus
 
+
 -----
 
 240
@@ -16601,6 +16859,7 @@ Permusyawaratan Rakyat; c. Undang-Undang/Peraturan Pemerintah
 Pengganti Undang-Undang; d. Peraturan Pemerintah; e. Peraturan Presiden;
 
 f Peraturan Daerah Provinsi; dan g Peraturan Daerah Kabupaten/Kota
+
 
 -----
 
@@ -16674,6 +16933,7 @@ hukum perundang-undangan yaitu _Lex Superior Derogat Legi Inferiori_
 
 yakni bahwa peraturan perundang-undangan yang lebih tinggi
 
+
 -----
 
 242
@@ -16743,6 +17003,7 @@ keluhan atau komplin masyarakat terhadap kinerja penyidik;
 b. pengawasan dan pemberian bantuan teknis penyelidikan dan penyidikan
 
 tindak pidana yang dilakukan oleh penyidik; dan
+
 
 -----
 
@@ -16816,6 +17077,7 @@ _powers to more coercive and intrusive tools that enable APRA to investigate,_
 
 _di_ _i i_ _k_ _i_ _i_ _li_ _di i_ _b_ _i_ _di_ _id_ _l_ _d_
 
+
 -----
 
 244
@@ -16886,6 +17148,7 @@ yang lainnya, sebagaimana disebut dalam paragraf 9 the Enforcement Guide
 
 (Act No. 131 of 1948) Chapter I Inquiry and Investigation Article 189 (1) & (2)
 
+
 -----
 
 245
@@ -16954,6 +17217,7 @@ Bahwa konsekuensi keberadaan Pasal 30 ayat (4) UUD 1945 menjadikan
 
 kedudukan Polri sebagai “alat negara yang utama dalam penegakan hukum”.
 
+
 -----
 
 246
@@ -17020,6 +17284,7 @@ _integrated_ _criminal justice system di seluruh dunia tidak ada yang namanya_
 selain polisi, jaksa, hakim, dan advokat. Keberadaan penyidik pegawai negeri
 sipil maupun penyidik tertentu, mereka itu adalah supporting system, artinya
 mereka memiliki kewenangan menyidik tapi tidak menghilangkan
+
 
 -----
 
@@ -17093,6 +17358,7 @@ persidangan. Oleh karena itu, mari tolong ditambahkan keterangan
 
 pemerintah keterangan Pihak Terkait Polisi dan OJK Mana sih
 
+
 -----
 
 248
@@ -17161,6 +17427,7 @@ Khusus Polda Bali menerbitkan Surat No.
 B/16/I/RES.2.2./2023/Ditreskrimsus Perihal Pemberitahuan
 
 Perkembangan Hasil Penyelidikan tanggal 31 Januari 2023 yang
+
 
 -----
 
@@ -17234,6 +17501,7 @@ Pidana di Sektor Jasa Keuangan terdiri atas: a. pejabat penyidik pada
 
 Kepolisian Negara Republik Indonesia; dan b Penyidik Otoritas Jasa
 
+
 -----
 
 250
@@ -17300,6 +17568,7 @@ kewenangan penyidikan yang dimiliki oleh OJK sebagai salah satu
 lembaga lain yang memiliki wewenang penyidikan selain
 penyidikan yang dimiliki oleh lembaga Kepolisian, kewenangan
 
+
 -----
 
 251
@@ -17363,6 +17632,7 @@ Seperti yang telah diuraikan pada Keterangan Pihak Terkait terdahulu
 dalam pedoman kerja ini diatur mengenai Prosedur Bantuan
 
 Penegakan Hukum yang diberikan Polri kepada OJK bahwa dalam hal
+
 
 -----
 
@@ -17434,6 +17704,7 @@ Selatan;
 
 - Melaksanakan bantuan upaya paksa kepada PPNS OJK dalam
 
+
 -----
 
 253
@@ -17500,6 +17771,7 @@ e. Pasal 52 angka 23 Pasal 72A ayat (10): “Penyidikan atas tindak pidana
 
 perasuransian **hanya dapat dilakukan oleh penyidik Otoritas Jasa**
 Keuangan.”
+
 
 -----
 
@@ -17568,6 +17840,7 @@ tanda Bukti PT-1 sampai dengan bukti PT-12, sebagai berikut:
 
 Indonesia Nomor 6 Tahun 2017 tentang Susunan Organisasi
 
+
 -----
 
 255
@@ -17635,6 +17908,7 @@ Pendidikan Kejuruan. (hlm. 15);
 8. Bukti PT-4 : Fotokopi Berita acara koordinasi dan konsultasi antara penyidik
 
 dan jaksa penuntut umum pada 26 Januari 2023. (hlm 48);
+
 
 -----
 
@@ -17706,6 +17980,7 @@ Keuangan;
 
 Kepolisian Daerah Papua Nomor: B-1914/R.1.4./Eku.1/09/2023
 
+
 -----
 
 257
@@ -17774,6 +18049,7 @@ Pembentukan Perundang-undangan (UU P3) yaitu UUD 1945
 merupakan hukum dasar dalam Peraturan Perundang-undangan.
 
 Penjelasan Pasal inimenjelaskan yang dimaksud dengan “hukum dasar”
+
 
 -----
 
@@ -17844,6 +18120,7 @@ maupun bersumber dari UUD 1945;
 5. Bahwa di dalam UUD 1945, secara umum kekuasaan dibagi atas 4
 
 (empat) yaitu kekuasaan eksekutif kekuasaan legislatif kekuasaan
+
 
 -----
 
@@ -17917,6 +18194,7 @@ hukum;
 
 9 Bahwa kewenangan penegakan hukum oleh Polri dalam UUD 1945
 
+
 -----
 
 260
@@ -17989,6 +18267,7 @@ UUD 1945 dimaksudkan untuk semua jenis tindak pidana dalam bingkai
 
 _criminal_ _justice_ _system_ **Tidak** **ditemukan** **maksud** **dari** **para** **perumus**
 
+
 -----
 
 261
@@ -18058,6 +18337,7 @@ _diatur dengan undang-undang;_
 14. Bahwa frasa “kewenangan Kepolisian Negara Republik Indonesia di
 
 dalam menjalankan tugasnya diatur dengan Undang-Undang” di Pasal
+
 
 -----
 
@@ -18129,6 +18409,7 @@ _masyarakat;_
 
 17. Bahwa UU yang mengatur mengenai susunan, kedudukan, kewenangan
 
+
 -----
 
 263
@@ -18195,6 +18476,7 @@ penyidikan terhadap semua tindak pidana tidak dapat dikurangi atau
 penyusunan UU sektoral seperti di Sektor Jasa Keuangan yang
 
 subtansinya mengatur kewenangan penyidikan tindak pidana sektor jasa
+
 
 -----
 
@@ -18266,6 +18548,7 @@ Merdeka berdasarkan Pasal II Aturan Peralihan UUD 1945 yang
 menyatakan “Segala badan negara dan peraturan yang ada masih tetap
 
 b l k b l di d k b U d U d D
+
 
 -----
 
@@ -18339,6 +18622,7 @@ b. Terkait proses hukum dan proses peradilan maka membutuhkan suatu
 
 kekuasaan Kehakiman yang merdeka untuk menyelenggarakan
 
+
 -----
 
 266
@@ -18409,6 +18693,7 @@ dan unifikasi. Dengan kodifikasi dan unifikasi ini maka diharapkan akan
 tercapai pembinaan sikap para pelaksana penegak hukum sesuai
 
 dengan fungsi dan wewenang masing-masing ke arah tegak mantapnya
+
 
 -----
 
@@ -18481,6 +18766,7 @@ Dengan kata lain setiap kali ada UU yang akan memberikan kewenangan
 pejabat pegawai negeri sipil tertentu sebagai penyidik untuk melakukan
 
 penyidikan tindak pidana maka hal dimaksud dilakukan dengan
+
 
 -----
 
@@ -18616,6 +18902,7 @@ undangan, maka penggunaan metode omnibus harus
 
 ditetapkan dalam dokumen perencanaan Pembentukan
 
+
 -----
 
 270
@@ -18681,6 +18968,7 @@ pembentukan UU yang baik yaitu asas materi muatan yang oleh Pasal 6
 ayat (1) UU P3 disebutkan sebagai berikut: a. pengayoman; b.
 
 kemanusiaan; c. kebangsaan; d. kekeluargaan; e. kenusantaraan; f. bhinneka
+
 
 -----
 
@@ -18753,6 +19041,7 @@ c. Pasal 15 angka 55 Pasal 67A ayat (10) UU PPSK “Penyidikan atas
 
 tindak pidana Perbankan Syariah **hanya** **dapat** dilakukan oleh
 
+
 -----
 
 272
@@ -18820,6 +19109,7 @@ undang-undang umum); (ii) asas _lex superior derogat legi inferiori_
 (undang-undang yang lebih tinggi mengalahkan UU yang lebih rendah);
 
 dan (iii) asas _lex posterior derogat legi priori_ (UU yang lebih baru
+
 
 -----
 
@@ -18891,6 +19181,7 @@ menyatakan:
 **atau dinilai sebagai perbenturan antara** **_lex specialis_** **dan** **_legi_**
 **_generali,_** sebagaimana **dikemukakan** **oleh** **Pemerintah** yang
 
+
 -----
 
 274
@@ -18961,6 +19252,7 @@ yang lebih tinggi. Norma yang lebih rendah tidak dapat bertentangan
 
 d l bih ti i hi t i t t k id h h k
 
+
 -----
 
 275
@@ -19030,6 +19322,7 @@ sebagaimana mestinya. Sesuai Pasal 12 UU P3 Materi muatan
 Peraturan Pemerintah berisi materi untuk menjalankan Undang-Undang
 
 sebagaimana mestinya Dalam penjelasan Pasal dimaksud disebutkan:
+
 
 -----
 
@@ -19103,6 +19396,7 @@ demikian pengaturan dalam Pasal 2 ayat (1) PP 5/2023 yang
 
 menyebutkan: “Penyidik Tindak Pidana di Sektor Jasa Keuangan terdiri
 
+
 -----
 
 277
@@ -19168,6 +19462,7 @@ menempatkan OJK sebagai satu-satunya institusi yang diberi wewenang untuk
 melakukan penyidikan terhadap tindak pidana sektor jasa keuangan. Pemohon
 
 menilai bahwa ketentuan dimaksud bertentangan dengan konstitusi, khususnya
+
 
 -----
 
@@ -19240,6 +19535,7 @@ Salah satu kewenangan (Presiden) adalah kewenangan
 menyelenggarakan fungsi kepolisian yaitu penegakan hukum dalam
 rangka menjamin tertib hukum dan terbinanya ketenteraman
 
+
 -----
 
 279
@@ -19292,6 +19588,7 @@ yang kita kenal dengan democratisch rechtsstaat. Hal ini nampak sekali
 dalam hukum acara pidana, KUHAP kita. Di mana wewenang penyidikan
 terhadap suatu tersangka yang pada hekekatnya adalah merupakan
 _vrijheid beroving_ atau perampasan kemerdekaan seseorang, namun
+
 
 -----
 
@@ -19356,6 +19653,7 @@ menjadi sangat penting disatukan menjadi tugas Polri karena bagaimana
 mungkin perlindungan terhadap masyarakat dapat diberikan secara maksimal
 
 jika tugas penegakan hukum tidak diemban Polri. Sebab, dalam suatu tatanan
+
 
 -----
 
@@ -19429,6 +19727,7 @@ Artinya, UUD 1945 mengakui keberadaan organ-organ lain yang fungsinya
 
 berhubungan dengan kekuasaan kehakiman yaitu fungsi yang berhubungan
 
+
 -----
 
 282
@@ -19490,6 +19789,7 @@ tumpang-tindih kewenangan yang dapat berdampak adanya tindakan
 kesewenang-wenangan oleh aparat penegak hukum maupun pejabat
 penyidik di masing-masing lembaga dalam proses penegakan hukum
 dapat dihindari”.
+
 
 -----
 
@@ -19555,6 +19855,7 @@ yang juga diberi wewenang melakukan penegakan hukum terhadap
 perbuatan/tindakan pelanggaran hukum tertentu. Tidak ada satu perbuatan
 
 yang dinilai dapat mengganggu keamanan dan ketertiban masyarakat di mana
+
 
 -----
 
@@ -19628,6 +19929,7 @@ untuk melaksanakan tugas tersebut justru dihapus/dihilangkan. Oleh karena itu,
 
 sekali lagi ahli ingin menegaskan bahwa pemberian wewenang penyidikan
 
+
 -----
 
 285
@@ -19700,6 +20002,7 @@ hukumnya pada sektor jasa keuangan jika peran dari “tangannya” Presiden
 
 (Polri) untuk itu dihilangkan? Memang wewenang itu dialihkan ke OJK tetapi
 
+
 -----
 
 286
@@ -19769,6 +20072,7 @@ menyebutkan bahwa Polri sebagai alat negara mempunyai tugas untuk
 menjaga keamanan dan ketertiban masyarakat, bertugas melindungi,
 
 mengayomi, melayani masyarakat serta melakukan penegakan hukum.
+
 
 -----
 
@@ -19840,6 +20144,7 @@ manusia;
 i. Melayani kepentingan warga masyarakat untuk sementara sebelum
 
 ditangani oleh instansi dan/atau pihak yang berwenang;
+
 
 -----
 
@@ -19913,6 +20218,7 @@ kepada PPNS dan memberikan bantuan penyidikan yang diperlukan [Pasal
 
 2 Dalam hal suatu peristiwa yang patut diduga merupakan tindak pidana
 
+
 -----
 
 289
@@ -19983,6 +20289,7 @@ Kelsen norma hukum yang paling dasar (grundnorm) bentuknya tidak kongkrit
 
 (abstrak). Contoh norma hukum paling dasar abstrak adalah Pancasila.
 
+
 -----
 
 290
@@ -20050,6 +20357,7 @@ KUHAP merupakan jenis perundangan yang kedudukannya berada dibawah
 UUD 1945 apabila dilihat dalam Hierarki peraturan perundang-undangan di
 
 Indonesia.
+
 
 -----
 
@@ -20123,6 +20431,7 @@ pidana sektor jasa keuangan oleh OJK, tidak selaras dengan konsep Sistem
 
 P dil Pid di I d i S hi l d l UU P2SK
 
+
 -----
 
 292
@@ -20188,6 +20497,7 @@ bagian dari integrated criminal justice system; dan
 **ayat (1) huruf c dalam Pasal 8 angka 21 UU P2SK** bertentangan dengan
 
 **Pasal 1 ayat (3), Pasal 28D, dan Pasal 30 ayat (4) UUD 1945.**
+
 
 -----
 
@@ -20257,6 +20567,7 @@ yang timbul karena berlakunya suatu undang-undang menurut Pasal 51 ayat
 a. adanya hak konstitusional Pemohon yang diberikan oleh Undang-Undang
 
 Dasar Negara Republik Indonesia tahun 1945;
+
 
 -----
 
@@ -20330,6 +20641,7 @@ AJBB yang mempermasalahkan bahwa OJK tidak menggunakan
 
 kewenangannya untuk melakukan penunjukan dan penetapan pengelola
 
+
 -----
 
 295
@@ -20399,6 +20711,7 @@ _Pengelola statuter melaksanakan kewenangan OJK, antara lain, untuk_
 _memenuhi ketentuan peraturan perundang-undangan di sektor jasa_
 
 _keuangan, mencegah dan mengurangi kerugian Konsumen, masyarakat,_
+
 
 -----
 
@@ -20471,6 +20784,7 @@ karena adanya komitmen Badan Perwakilan Anggota (BPA) untuk
 
 melakukan penyehatan/penyelesaian permasalahan pada AJBB
 
+
 -----
 
 297
@@ -20540,6 +20854,7 @@ prosedur sesuai ketentuan yang berlaku. OJK memfasilitasi agar
 proses pembentukan panitia pemilihan BPA dilanjutkan berdasarkan
 
 kesepakatan bersama antara manajemen AJBB perwakilan
+
 
 -----
 
@@ -20613,6 +20928,7 @@ yang strategis dalam rangka penyehatan dan perbaikan AJBB.
 
 menyampaikan dokumen RPK dan OJK memberikan pernyataan
 
+
 -----
 
 299
@@ -20684,6 +21000,7 @@ mengatur bahwa:
 _atau_ **_menghambat pelaksanaan kewenangan Otoritas Jasa_**
 
 **_Keuangan sebagaimana dimaksud dalam Pasal 8A ayat (1)_** _Pasal 9_
+
 
 -----
 
@@ -20757,6 +21074,7 @@ tindak pidana sebagaimana diatur dalam Pasal 53 dalam Pasal 8
 
 angka 22 UU P2SK adalah tidak berdasarkan hukum
 
+
 -----
 
 301
@@ -20829,6 +21147,7 @@ pemenuhan unsur-unsur dalam Pasal 46 UU Perbankan.
 
 a Barang siapa;
 
+
 -----
 
 302
@@ -20896,6 +21215,7 @@ b) _“masyarakat” meliputi orang perorangan atau badan hukum atau_
 badan usaha atau pihak lainnya yang menyerahkan dana untuk
 
 disimpan.
+
 
 -----
 
@@ -20969,6 +21289,7 @@ terhambatnya akses keadilan melalui Kepolisian Negara RI, perubahan
 
 ketentuan tersebut tidak menghilangkan hak konstitusional Pemohon II untuk
 
+
 -----
 
 304
@@ -21037,6 +21358,7 @@ Pemohon III adalah terkait dengan Koperasi UUO SP. Sedhana Kerti pada
 tahun 2017 s.d 2018. Hal mana pengawasan terhadap Koperasi Simpan
 
 Pinjam tidak termasuk dalam ruang lingkup kewenangan pengawasan OJK
+
 
 -----
 
@@ -21110,6 +21432,7 @@ pandangan OJK tidak menghilangkan hak konstitusional Pemohon III untuk
 
 melakukan laporan/pengaduan atas dugaan tindak pidana di sektor jasa
 
+
 -----
 
 306
@@ -21181,6 +21504,7 @@ dan manajemen PT WAL untuk menyelesaikan permasalahan perusahaan
 dan kewajiban kepada pemegang polis dan OJK telah mengenakan sanksi
 
 kepada perusahaan sesuai dengan ketentuan perundang-undangan
+
 
 -----
 
@@ -21254,6 +21578,7 @@ sampai dengan Pemohon IV mengenai keterkaitan antara tidak
 
 ditindaklanjutinya laporan Para Pemohon dengan kerugian konstitusional
 
+
 -----
 
 308
@@ -21326,6 +21651,7 @@ putusan-putusan Mahkamah Konstitusi terdahulu (sejak Putusan Nomor
 
 berikutnya)
 
+
 -----
 
 309
@@ -21392,6 +21718,7 @@ sebagaimana dimaksudkan di atas dilakukan sejak diterbitkannya surat
 pemberitahuan dimulainya penyidikan, pelaksanaan penyidikan, sampai
 dengan selesainya pemberkasan sebelum pelimpahan berkas perkara
 kepada jaksa penuntut umum ” (vide hlm 235 3 16)
+
 
 -----
 
@@ -21465,6 +21792,7 @@ keuangan.
 
 10 S i d P l 60 UU MK di k b h
 
+
 -----
 
 311
@@ -21535,6 +21863,7 @@ ketentuan tentang organisasi dan tata kelola (governance) dari lembaga
 
 iliki i d h d k
 
+
 -----
 
 312
@@ -21601,6 +21930,7 @@ pengawasan, perlindungan konsumen, dan penyidikan di sektor jasa
 keuangan (vide Keterangan OJK dalam Putusan Mahkamah Konstitusi
 
 Nomor 102/PUU-XVI/2018 angka 1.8 hlm. 166).
+
 
 -----
 
@@ -21671,6 +22001,7 @@ berbagai pasal yang ada dalam UU P2SK, dimulai dari penguatan
 hubungan pengawasan dan pengaturan antar lembaga di bidang sektor
 
 keuangan, jenis pelanggaran dan perbuatan tindak pidana di sektor jasa
+
 
 -----
 
@@ -21744,6 +22075,7 @@ dalam Putusan Mahkamah Konstitusi Nomor 102/PUU-XVI/2018 angka
 
 2 5 hlm 168)
 
+
 -----
 
 315
@@ -21813,6 +22145,7 @@ sebagai pihak yang punya kewenangan pembentuk undang-undang
 memandang perlu pengembangan dan penguatan sektor keuangan di
 
 antaranya aspek penegakan hukum di sektor jasa keuangan.
+
 
 -----
 
@@ -21886,6 +22219,7 @@ keuangan sebagaimana diatur dalam UU P2SK merupakan upaya
 
 Pemerintah dan DPR selaku pembentuk undang-undang (policy maker)
 
+
 -----
 
 317
@@ -21955,6 +22289,7 @@ kewenangan Kepolisian RI untuk melakukan penyidikan sebagaimana
 
 diatur secara khusus dalam UU Kepolisian Negara RI dan KUHAP.
 
+
 -----
 
 318
@@ -22021,6 +22356,7 @@ penyelesaian di tingkat lembaga pemasyarakatan (vide Keterangan
 
 Pemerintah dalam Putusan Mahkamah Konstitusi Nomor 28/PUU
 V/2007 hlm. 18).
+
 
 -----
 
@@ -22092,6 +22428,7 @@ Republik Indonesia).
 
 keuangan dilakukan oleh pejabat penyidik Kepolisian Negara RI atau
 
+
 -----
 
 320
@@ -22162,6 +22499,7 @@ UU P2SK yaitu:
 Pasal 49 ayat (1)
 _“Penyidik Otoritas Jasa Keuangan terdiri atas:_
 
+
 -----
 
 321
@@ -22226,6 +22564,7 @@ ayat (4) UUD 1945.
 Mengacu pada dalil Para Pemohon mengenai pengaturan Pegawai Tertentu
 
 sebagai Penyidik OJK dalam permohonan:
+
 
 -----
 
@@ -22294,6 +22633,7 @@ dan tidak terhadap pasal-pasal dalam Konstitusi. Menanggapi hal tersebut,
 OJK berpandangan sebagai berikut:
 
 **1. Pegawai Tertentu Berlandaskan Asas Kepastian Hukum**
+
 
 -----
 
@@ -22365,6 +22705,7 @@ pejabat pegawai negeri sipil tertentu, dan **pegawai tertentu** yang
 
 pelaksanaannya mengacu/berdasar pada koridor hukum acara
 
+
 -----
 
 324
@@ -22432,6 +22773,7 @@ KUHAP terkait dengan pelaksanaan penyelidikan, penyidikan,
 penuntutan, dan peradilan secara umum masih berlaku sepanjang
 
 tidak diatur secara khusus dalam UU P2SK.
+
 
 -----
 
@@ -22502,6 +22844,7 @@ sebagaimana didalilkan oleh para Pemohon.
 **2. Kekhususan Tindak Pidana di Sektor Jasa Keuangan dan Teknik**
 
 **Investigasi Memerlukan Penyidik Pegawai Tertentu**
+
 
 -----
 
@@ -22575,6 +22918,7 @@ kegiatan sektor jasa keuangan dan memiliki
 
 pengetahuan/kompetensi khusus yang pada dasarnya memahami
 
+
 -----
 
 327
@@ -22646,6 +22990,7 @@ mendapatkan alat bukti dan menemukan tersangkanya.
 2.9. Pasal 49 ayat (1) huruf c dalam Pasal 8 angka 21 UU P2SK mengatur
 
 secara khusus terkait Pegawai Tertentu (Pegawai OJK non PNS)
+
 
 -----
 
@@ -22719,6 +23064,7 @@ memperhatikan pula _going concern dan keterkaitan antar lembaga_
 
 jasa keuangan yang satu dengan yang lainnya jika hal tersebut
 
+
 -----
 
 329
@@ -22791,6 +23137,7 @@ pengaturan mengenai penyelesaian pelanggaran atas peraturan
 
 perundang-undangan di sektor jasa keuangan pada tahap
 
+
 -----
 
 330
@@ -22859,6 +23206,7 @@ _dimulainya, tidak dilakukannya, atau dihentikannya_
 _penyidikan_ _terhadap_ _tindak_ _pidana_ _sektor_ _jasa_
 
 _keuangan._
+
 
 -----
 
@@ -22932,6 +23280,7 @@ untuk bekerja sama dengan Otoritas Jasa Keuangan, dan
 
 melakukan pembayaran sejumlah denda serta Otoritas Jasa
 
+
 -----
 
 332
@@ -22998,6 +23347,7 @@ _b. dimulainya tindakan penyidikan, terhadap dugaan_
 _terjadinya tindak pidana sebagaimana diatur dalam_
 
 _Undang-Undang ini._
+
 
 -----
 
@@ -23071,6 +23421,7 @@ memulai tindakan penyidikan dalam rangka penuntutan tindak
 
 pidana Tindakan untuk memulai penyidikan oleh penyidik
 
+
 -----
 
 334
@@ -23140,6 +23491,7 @@ dimaksud serta perintah tertulis berupa pemindahbukuan dan
 pencairan aset kepada Pihak yang melakukan pelanggaran
 
 serta lembaga jasa keuangan.
+
 
 -----
 
@@ -23213,6 +23565,7 @@ tercapainya tujuan pembentukan UU P2SK, yaitu untuk memberikan
 
 kontribusi positif dan mendukung pertumbuhan ekonomi yang
 
+
 -----
 
 336
@@ -23284,6 +23637,7 @@ satu komponen penting dalam upaya mencapai tujuan tersebut.
 Mahkamah Konstitusi dalam putusannya terdahulu, bahwa
 
 _“_ _kewenangan_ _OJK_ _yang_ _diberikan_ _undang-undang_ _tidak_ _dapat_
+
 
 -----
 
@@ -23357,6 +23711,7 @@ _dimaksud dalam KUHAP, untuk melakukan penyidikan tindak pidana_
 
 _di sektor jasa keuangan_
 
+
 -----
 
 338
@@ -23425,6 +23780,7 @@ Pembentukannya (hal. 151) bahwa suatu undang-undang yang
 sudah disahkan baru dapat berlaku mengikat umum apabila
 
 diundangkan dalam suatu lembaran negara.
+
 
 -----
 
@@ -23496,6 +23852,7 @@ Pegawai Tertentu adalah konstitusional.
 Para Pemohon meminta Mahkamah Konstitusi menyatakan bahwa
 
 Pasal 45 ayat (1) Undang-Undang Nomor 30 Tahun 2002 tentang
+
 
 -----
 
@@ -23569,6 +23926,7 @@ selayaknya dipahami bahwa di luar penyidik yang diberikan
 
 wewenang berdasarkan KUHAP juga dikenal secara hukum penyidik
 
+
 -----
 
 341
@@ -23640,6 +23998,7 @@ peradilan pidana terpadu (integrated criminal justice system),
 OJK berpandangan bahwa diperlukan penegasan atas eksistensi
 
 Pasal 49 ayat (5) dalam Pasal 8 angka 21 UU P2SK tersebut
+
 
 -----
 
@@ -23713,6 +24072,7 @@ penegakan hukum yang bersifat punitif tetapi juga
 
 memperhatikan aspek-aspek:
 
+
 -----
 
 343
@@ -23784,6 +24144,7 @@ ayat (1) huruf c dalam Pasal 8 angka 21 UU P2SK mengenai kewenangan
 penyidikan OJK dan keberadaan pegawai tertentu sebagai penyidik OJK;
 
 dan
+
 
 -----
 
@@ -23857,6 +24218,7 @@ tidak bertentangan dengan UUD 1945 dan pelaksanaannya tidak
 
 bergantung pada suatu jangka waktu tertentu
 
+
 -----
 
 345
@@ -23926,6 +24288,7 @@ tersebut didukung oleh unit kerja Direktorat Kebijakan dan Dukungan
 Penyidikan yang pada pokoknya memberikan dukungan penyidikan antara
 
 lain menyusun, mengembangkan, dan mengevaluasi kebijakan penyidikan,
+
 
 -----
 
@@ -24002,6 +24365,7 @@ tindak pidana dari Kepolisian Negara RI.
 |**Tahun 2022**|**Tahun 2021**|**Tahun 2020**|**Tahun 2019**|
 |Perbankan = 11<br>Pasar Modal = 0<br>Perasuransian<br>dan Dana<br>Pensiun = 6|Perbankan = 12<br>Pasar Modal = 9<br>Perasuransian<br>dan Dana<br>Pensiun = 1|Perbankan = 9<br>Pasar Modal =<br>1 <br>Perasuransian<br>dan Dana<br>Pensiun = 3|Perbankan = 22<br>Pasar Modal = 3<br>Perasuransian<br>dan Dana<br>Pensiun = 0|
 
+
 -----
 
 347
@@ -24072,6 +24436,7 @@ sektor jasa keuangan biasanya melibatkan data dan informasi yang
 
 memerlukan pengetahuan spesifik mengenai sektor jasa keuangan
 
+
 -----
 
 348
@@ -24138,6 +24503,7 @@ Penyidikan Sektor Jasa Keuangan selaku Penyidik OJK Nomor
 SR/2/III/2016/DPJK tanggal 15 Maret 2016);
 
 2) permintaan saksi dan ahli dari Kepolisian RI kepada OJK:
+
 
 -----
 
@@ -24208,6 +24574,7 @@ tidak terdapat hambatan yang berarti mengingat baik OJK maupun Kepolisian
 
 Negara RI melaksanakan kewenangannya berdasarkan ketentuan yang
 
+
 -----
 
 350
@@ -24277,6 +24644,7 @@ berupa pengawasan dan pengaturan terhadap kegiatan di keuangan
 derivatif, bursa karbon, kegiatan di sektor Inovasi Teknologi Sektor Keuangan
 
 (ITSK) serta aset keuangan digital dan aset kripto, dan perilaku pelaku usaha
+
 
 -----
 
@@ -24349,6 +24717,7 @@ selain dipidana dengan pidana denda sebagaimana dimaksud pada ayat
 (1), pelaku juga dipidana dengan pidana tambahan berupa penggantian
 ker gian atas harta benda ata ker sakan barang
 
+
 -----
 
 352
@@ -24414,6 +24783,7 @@ RpS.000.000.000,00 (lima miliar rupiah).
 
 LJK yang menjalankan kegiatan usaha bulion (bullion) tanpa izin usaha dari
 Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 131 dipidana
+
 
 -----
 
@@ -24482,6 +24852,7 @@ tahun dan pidana denda paling sedikit Rp25.000.000.000,00 (dua puluh
 lima miliar rupiah) dan paling banyak Rp250.000.000.000,00 (dua ratus
 lima puluh miliar rupiah).
 
+
 -----
 
 354
@@ -24508,6 +24879,7 @@ ini OJK melakukan pengawasan terhadap industri di sektor jasa keuangan
 
 dengan rincian sebagai berikut:
 
+
 -----
 
 355
@@ -24531,6 +24903,7 @@ baru dalam UU P2SK dalam rangka penegakan hukum di sektor jasa
 keuangan menekankan pada pemulihan keadaan pihak yang dirugikan
 
 terlebih dahulu yaitu melalui mekanisme penyelesaian pelanggaran atas
+
 
 -----
 
@@ -24604,6 +24977,7 @@ sangat sulit dipenuhi jika hanya bergantung pada penugasan dari Kepolisian
 
 Negara RI dan PPNS (vide Bukti Surat Deputi Komisioner Sistem Informasi
 
+
 -----
 
 357
@@ -24675,6 +25049,7 @@ juga telah diatur dengan jelas, yaitu terdiri atas:
 
 2) K M j li P R k
 
+
 -----
 
 358
@@ -24745,6 +25120,7 @@ dilakukan oleh penyidik Otoritas Jasa Keuangan.
 Otoritas Jasa Keuangan berkoordinasi dengan Kepolisian Negara
 Republik Indonesia.
 
+
 -----
 
 359
@@ -24811,6 +25187,7 @@ memperoleh kajian lebih lanjut, yaitu sebagai berikut:
 Pejabat penyidik pada Kepolisian Negara Republik Indonesia
 
 sebagaimana dimaksud pada ayat (1) huruf a berwenang dan
+
 
 -----
 
@@ -24883,6 +25260,7 @@ keuangan. Mengacu pada Putusan Mahkamah Konstitusi Nomor
 
 pertimbangan bahwa:
 
+
 -----
 
 361
@@ -24953,6 +25331,7 @@ Republik Indonesia dan meneruskan kepada penuntut umum
 
 sesuai dengan Kitab Undang-Undang Hukum Acara Pidana;
 
+
 -----
 
 362
@@ -25021,6 +25400,7 @@ masyarakat.
 
 penyelesaian pelanggaran, pihak yang mengajukan permohonan
 
+
 -----
 
 363
@@ -25087,6 +25467,7 @@ dengan OJK.
 Dalam pelaksanaan penyelidikan berdasarkan prinsip keadilan
 restoratif dan prinsip ultimum remedium sebagaimana dimaksud
 
+
 -----
 
 364
@@ -25151,6 +25532,7 @@ untuk menilai konsistensi keseluruhan norma dalam PP Penyidikan dikaitkan
 dengan dengan UU P2SK dan Putusan Mahkamah Konstitusi Nomor
 
 102/PUU-XVI/2018.
+
 
 -----
 
@@ -25222,6 +25604,7 @@ Februari 2023 hal Bantuan Permintaan Keterangan Ahli
 2023 hal Bantuan Permintaan Keterangan Ahli
 
 4. R/5/I/2023/Ditreskrimsus tanggal 1 Februari 2023 hal
+
 
 -----
 
@@ -25297,6 +25680,7 @@ tanggal 9 Mei 2023 hal Permintaan Keterangan dan Data
 
 tanggal 31 Mei 2023 hal Permintaan Keterangan dan
 
+
 -----
 
 367
@@ -25370,6 +25754,7 @@ hal Permintaan Keterangan Ahli
 2023 hal Permintaan Keterangan Ahli
 
 35 B/1428/V/RES 2 2/2023/Reskrim tanggal 22 Mei 2023
+
 
 -----
 
@@ -25445,6 +25830,7 @@ Perkara
 
 5 B kti PT OJK 5 1 F t k i K t K l D t P idik
 
+
 -----
 
 369
@@ -25517,6 +25903,7 @@ seluruh Indonesia serta perluasan tindak pidana sektor jasa keuangan yang
 
 diatur dalam UU P2SK
 
+
 -----
 
 370
@@ -25585,6 +25972,7 @@ antaranya dalam penanganan saksi selaku Penyidik OJK.
 |6|Tangerang, Banten|3|23 April 2019|
 ||||29 Mei 2019|
 ||||24 Juli 2019|
+
 
 -----
 
@@ -25674,6 +26062,7 @@ Berdasarkan pengalaman saksi selama ini, maka penanganan perkara di
 |17|Banyuwangi, Jatim|1|25 September 2023|
 ||**TOTAL**|**33**||
 
+
 -----
 
 372
@@ -25746,6 +26135,7 @@ penyidik terus dilakukan oleh OJK baik ke Polri, BPKP dan Kementerian
 
 (PPNS Pajak dan Bea Cukai) namun karena masing-masing instansi memiliki
 
+
 -----
 
 373
@@ -25815,6 +26205,7 @@ Saksi telah mengikuti antara lain:
     - Mengikuti _workshop di pasar modal, perbankan, dan Industri Keuangan_
 
 Non Bank (Lampiran 1); dan
+
 
 -----
 
@@ -25888,6 +26279,7 @@ penahanan. Sebagai contoh Penyidik OJK meminta bantuan kepada
 
 Kepolisian Negara RI untuk melakukan pencarian dan penangkapan
 
+
 -----
 
 375
@@ -25959,6 +26351,7 @@ diperlukan koordinasi yang memperhatikan adanya mekanisme
 
 penyelesaian secara _Una_ _Via_ _NPA_ dan Perintah Pengembalian
 
+
 -----
 
 376
@@ -26027,6 +26420,7 @@ Penyidik Kepolisian dapat kami uraikan sebagai berikut:
 a. Mengendalikan pelaksanaan penyidikan tindak pidana di Perbankan/
 
 IKNB/ Pasar Modal.
+
 
 -----
 
@@ -26100,6 +26494,7 @@ penanganan perkara yang dilakukan oleh Penyidik OJK? (Untuk mengetahui
 
 apakah pelaksanaan penyidikan telah sesuai dengan pedomannya)
 
+
 -----
 
 378
@@ -26169,6 +26564,7 @@ Yang pertama, bahwa kami selaku Pengawas pada Otoritas Jasa Keuangan
 telah diberikan mandat oleh Undang-Undang Republik Indonesia nomor 21
 
 tahun 2011 tentang Otoritas Jasa Keuangan sebagaimana telah diubah dengan
+
 
 -----
 
@@ -26242,6 +26638,7 @@ meningkatkan sanksi administratif PT WAL melalui sanksi Pencabutan Izin
 
 Usaha PT Asuransi Jiwa Adisarana Wanaartha (WAL) tanggal 5 Desember 2022
 
+
 -----
 
 380
@@ -26312,6 +26709,7 @@ Dapat saksi sampaikan pula bahwa melalui surat Pemegang Saham Pengendali
 PT WAL nomor 014/BOD/FCC/XII/2022 tanggal 30 Desember 2022 diketahui
 
 bahwa Pemegang Saham telah mengadakan RUPS secara sirkuler
+
 
 -----
 
@@ -26385,6 +26783,7 @@ b. pejabat pegawai negeri sipil tertentu; c. **pegawai tertentu, yang diberi**
 
 kh b i idik b i di k d d l Ki b
 
+
 -----
 
 382
@@ -26454,6 +26853,7 @@ Sistem peradilan pidana merupakan suatu sistem yang terdapat di setiap negara
 dengan tujuan utama keberadaannya adalah untuk menanggulangi tindak
 
 pidana. Menanggulangi di sini adalah menekan semaksimal mungkin adanya
+
 
 -----
 
@@ -26525,6 +26925,7 @@ diperoleh dipandang telah cukup serta tersangka atau para tersangka telah
 
 ditemukan tahapan selanjutnya adalah tahap penuntutan Penuntutan
 
+
 -----
 
 384
@@ -26593,6 +26994,7 @@ c. Tindak pidana yang terjadi di lautan (misalnya tindak pidana perikanan, tinda
 pidana terkait Landas Kontinen), hal ini antara lain diatur dalam UU tentang
 
 Zona Ekonomi Ekslusif (ZEE)
+
 
 -----
 
@@ -26666,6 +27068,7 @@ Keuangan/ UU P2SK).
 
 tindak pidana terkait Landas Kontinen) misalnya yang diatur dalam UU
 
+
 -----
 
 386
@@ -26736,6 +27139,7 @@ penyelidikan, penyidikan, penuntutan, dan pemeriksaan di pengadilan yang
 diatur di luar KUHAP bukan berarti merupakan suatu penyimpangan yang
 
 dilarang apalagi dipandang sebagai pelanggaran terhadap integrated criminal
+
 
 -----
 
@@ -26808,6 +27212,7 @@ pidana berupa money politics/vote buying (memberikan/menjanjikan uang atau
 
 materi lainnya untuk membujuk para pemilih) hal itu jika dilakukan secara TSM
 
+
 -----
 
 388
@@ -26877,6 +27282,7 @@ administrasi dan juga melakukan penegakan hukum pidana, seperti melakukan
 penyidikan tindak pidana pasar modal, sebagaimana halnya Otoritas Jasa
 
 Keuangan (OJK) di Indonesia.
+
 
 -----
 
@@ -26950,6 +27356,7 @@ Konstitusi Indonesia tidak melarang adanya penyidik yang bukan polisi,
 
 PPNS d j k S k i i l l idik i d k
 
+
 -----
 
 390
@@ -27022,6 +27429,7 @@ tunggal bukan lahir dari UUD 1945 tetapi dari undang-undang. Pada
 
 pertimbangan Putusan MK itu Mahkamah bahkan tegas bahwa:” maka dalil
 
+
 -----
 
 391
@@ -27092,6 +27500,7 @@ penyidikan di bidang ini.
 Dengan diberikannya kewenangan penyidikan kepada pegawai tertentu
 
 OJK (pada tindak pidana-tindak pidana di sektor jasa keuangan) maka hal
+
 
 -----
 
@@ -27164,6 +27573,7 @@ bervariasi di setiap negara dan tergantung pada regulasi hukum yang berlaku
 
 di masing-masing negara tersebut
 
+
 -----
 
 393
@@ -27233,6 +27643,7 @@ bahwa adanya UU No, 30/ 2002 sebagai _Lex Specialis terhadap KUHAP._
 Dengan kedudukan demikian maka adanya penyidik di luar kepolisian
 
 merupakan suatu lex specialis terhadap KUHAP.
+
 
 -----
 
@@ -27306,6 +27717,7 @@ dalam bidang keuangan memiliki diskresi untuk memproses suatu pelanggaran
 
 UU (misalnya UU Pasar Modal atau UU Perbankan) dengan proses administratif
 
+
 -----
 
 395
@@ -27378,6 +27790,7 @@ sesuai dengan pemeriksaan yang mendalam serta pertimbangan perekonomian,
 
 OJK dapat saja menggunakan pendekatan secara administratif namun juga
 
+
 -----
 
 396
@@ -27448,6 +27861,7 @@ dapat melakukan penyidikan tindak pidana di sektor jasa keuangan yang diatur
 
 lebih lanjut dalam ketentuan Pasal 14 angka 35 Pasal 37D ayat (10) tentang
 
+
 -----
 
 397
@@ -27508,12 +27922,15 @@ Pemohon telah mengajukan alat bukti surat antara lain:
 |2.|P-2|KTP atas nama Pemohon II: I Made Widia,<br>NIK: 5171013112500278|Identitas Pemohon<br>II|
 |3.|P-3|KTP atas nama Pemohon III: Ida Bagus<br>Made Sedana, NIK: 5171031310820017|Identitas Pemohon<br>III|
 
+
 4. P-4
+
 
 KTP atas nama Pemohon IV: Endang Sri Siti
 Identitas Pemohon
 Kusuma Hendariwati, NIK:
 III
+
 
 -----
 
@@ -27600,6 +28017,7 @@ Dan Asuransi AJB Bumiputera 1912 (SP Badan Hukum
 |10.|P-10|Tanggapan Dumas SP Niba AJB<br>Bumiputera Nomor<br>B/261/I/RES.2.2./2023/Dittipideksus tanggal<br>19 Januari 2023|Menerangkan bukti<br>penyidik Polri tidak<br>memiliki<br>kewenangan untuk<br>melakukan<br>penyidikan akibat<br>adanya UU P2SK|
 |11.|P-11|Laporan Dugaan Tindak Pidana Nomor<br>01/SP-NIBA/TA/I/2023 tanggal 17 Januari<br>2023|Bukti Pengaduan<br>LP tindak pidana<br>ke Bareskrim<br>PEMOHON 1|
 
+
 -----
 
 399
@@ -27657,9 +28075,11 @@ Sri Siti Kusuma Hendrawati No. Polis
 |19.|P-19|Tabungan Koperasi “SIDI” Atas Nama Ida<br>Bagus Made Sedana Nomor TB-711257|Menerangkan bukti<br>faktual PEMOHON<br>III adanya buku<br>tabungan koperasi|
 |20.|P-20|Data Polis Dan Manfaat Nilai Tunai (Kerugian<br>Endang<br>SSKH<br>dkk,<br>LP<br>No<br>LP/B/0108/II/2021) Tanggal 16 Februari 2021|Sebagai bukti polis<br>nasabah<br>PEMOHON IV|
 
+
 Sebagai bukti polis
 nasabah
 PEMOHON IV
+
 
 -----
 
@@ -27738,7 +28158,9 @@ P i A N E d S i Si i
 |32.|P-32|Formulir<br>Permohonan<br>Perubahan<br>Polis<br>Wanaartha Life Atas Nama Endang Sri Siti<br>Kusuma Hendrawati No. Polis 9718030350<br>Tanggal 6 Desember 2020|Copy|
 |33.|P-33|Surat Pernyataan Pencairan Dana Tanpa<br>Menyerahkan Polis Asli Terlebih Dahulu Atas<br>Nama Endang Sri Siti Kusuma Hendrawati<br>No. Polis 9718030350 Tanggal 6 Desember<br>2020|Copy|
 
+
 Copy
+
 
 -----
 
@@ -27835,6 +28257,7 @@ Endang Sri Siti Kusuma Hendrawati
 |49.|P-49|Surat Polis WAL INVEST Atas Nama Hendri<br>Widjaya Tija No. Polis 971812191 Tanggal 29<br>Desember 2018|Copy|
 |50.|P-50|Surat Polis WAL INVEST Atas Nama Hendri<br>Widjaya Tija No. Polis 9719120336 Tanggal<br>27 Desember 2019|Copy|
 |51.|P-51|Surat Kuasa Atas Nama Pemberi Kuasa Ivan<br>Prasodjo dan Penerima Kuasa Atas Nama<br>Endang Sri Siti Kusuma Hendrawati|Copy|
+
 
 -----
 
@@ -27933,7 +28356,9 @@ STTL/056/II/2021/BARESKRIM Tanggal 16
 |69.|P-69|Tanggapan atas Pengaduan dan Pertanyaan<br>Nomor S-1643/EP.1212/2021 Tanggal 9 Juni<br>2021|Copy|
 |70|P-70|Tanda<br>Terima<br>Pengiriman<br>Surat/Laporan/Dokumen<br>Lain<br>Kepada<br>Otoritas<br>Jasa<br>Keuangan<br>Tanggal<br>4 <br>November 2020|Copy|
 
+
 Copy
+
 
 -----
 
@@ -28028,6 +28453,7 @@ Tanggal 7 Juni 2022
 |86.|P-86|Surat Pemberitahuan Perkembangan Hasil<br>Penyidikan<br>(SP2HP)<br>Nomor<br>B/564/VIII/RES.1.24/2021/Dittipideksus<br>Tanggal 16 Agustus 2021|Copy|
 |87.|P-87|Surat Pemberitahuan Perkembangan Hasil<br>Penyidikan<br>(SP2HP)<br>Nomor<br>B/356/VI/RES.1.24/2022/Dittipideksus<br>Tanggal 7 Juni 2022|Copy|
 
+
 -----
 
 404
@@ -28047,6 +28473,7 @@ Tanggal 7 Juni 2022
 |99|P-99|KTP atas nama Pemohon V: Bakhtaruddin,<br>NIK: 1471081708660061|Identitas Pemohon<br>V|
 |100.|P-100|KTP atas nama Pemohon VI: Muhammad<br>Fachrorozi, NIK: 1403011504730003|Identitas Pemohon<br>VI|
 |101.|P-101|Surat Keterangan Domisili yang di tanda<br>tangani diatas materai oleh Pemohon V<br>tertanggal 23 Juni 2023|Menerangkan<br>Pemohon V sudah<br>10 Tahun sejak<br>Maret 2013<br>berdomisili di<br>Kabupaten<br>Bengkalis|
+
 
 -----
 
@@ -28139,7 +28566,9 @@ t t Ki j O P h S t
 |111.|P-111|Surat dari Pemohon I yang ditujukan kepada<br>OJK<br>No:<br>120/SP-NIBA/AJBBP/XII/2022<br>tanggal 19 Desember 2022 tentang Mosi<br>Tidak Percaya Organ Perusahaan AJB<br>Bumiputera 1912|Copy|
 |112.|P-112|Surat dari Pemohon I yang ditujukan kepada<br>OJK No: 001 /SP-NIBA/TA/VIII/2022 tanggal<br>04 Agustus 2022 Perihal Jutaan Pemegang<br>Polis dan Pekerja AJB Bumiputera 1912 lama<br>di UG Darurat, Saatnya diselamatkan|Copy|
 
+
 Copy
+
 
 -----
 
@@ -28152,6 +28581,7 @@ Copy
 |116.|P-116|Majalah Gatra Edisi 5-11 Januari 2023|(Asli)<br>Pada halaman 9<br>tertuang<br>keterangan adanya<br>pengakuan dari<br>Kepala Eksekutif<br>Pengawas Industri<br>Keuangan Non-<br>Bank (IKNB) OJK-<br>Ogi Prastomiyono<br>terkait adanya<br>komunikasi OJK<br>dalam bentuk rapat<br>dengan buronan<br>Asuransi PT.<br>Wanaartha Life.|
 |117.|P-117|Laporan Audit Keuangan dari Kantor Akuntan<br>Publik Jojo Sunarjo & Rekan|(Copy)|
 |118.|P-118|Pengembalian<br>Berkas<br>Perkara<br>Tindak<br>Pidana Perbankan dari Kejaksaan Tinggi<br>Papua<br>kepada<br>Polda<br>Papua<br>No.<br>B-<br>1914/R.1.4/Eku.1/09/2023|Terdapat<br>keterangan yang<br>beralasan bahwa<br>Jaksa menilai<br>bahwa sejak<br>berlakunya UU<br>P2SK terhitung<br>tanggal 12 Januari<br>2023, oleh karena<br>itu penyidikan<br>tindak pidana<br>sektor jasa<br>keuangan<br>sebagaimana<br>dalam UU P2SK<br>hanya dapat<br>dilakukan oleh<br>penyidik kepolisian<br>yang ditugaskan di<br>OJK, PPNS dan<br>Pegawai Tertentu|
+
 
 -----
 
@@ -28223,6 +28653,7 @@ surat perintah tertulis dan hingga saat ini memang tidak pernah ada pidana,
 tidak ada sanksi yang dijatuhkan oleh OJK kepada Organ AJB Bumiputera.
 
 Saksi menjelaskan bahwa mengingat OJK tidak menanggapi dengan serius
+
 
 -----
 
@@ -28296,6 +28727,7 @@ Penguatan Sektor Keuangan hanya menjadi kewenangan dari penyidik OJK,
 
 sehingga hal Itu yang menjadi kendala
 
+
 -----
 
 409
@@ -28367,6 +28799,7 @@ Bareskrim.
 Bareskrim. Dan ternyata Bareskrim langsung merespons hanya dalam jangka
 
 waktu dua bulan langsung naik penyidikan Dan langsung berlanjut sampai
+
 
 -----
 
@@ -28440,6 +28873,7 @@ atas tindak pidana di sektor jasa keuangan.
 
 Ahli menjelaskan bahwa dari perspektif sistem peradilan pidana terpadu
 
+
 -----
 
 411
@@ -28510,6 +28944,7 @@ undang pidana khusus diluar kodifikasi mengatur adanya ketentuan tentang
 keberadaan penyidik yang sifatnya khusus, seperti misalnya: UU No. 21
 
 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang
+
 
 -----
 
@@ -28583,6 +29018,7 @@ Sementara dalam konteks sinkronisasi horizontal, peran Polri dalam
 
 penegakan hukum pidana telah ditegaskan dalam KUHAP dan UU Polri yang
 
+
 -----
 
 413
@@ -28654,6 +29090,7 @@ Tindak Pidana di Sektor Jasa Keuangan yang didalamnya memberikan ruang
 kepada Penyidik Polri untuk dapat bersama-sama dengan Penyidik OJK
 
 dalam menegakkan hukum terhadap tindak pidana di Sektor Jasa Keuangan
+
 
 -----
 
@@ -28727,6 +29164,7 @@ pengayoman serta penegakan hukum. Dengan demikian, maka keberadaan
 
 OJK yang berada di luar struktur kekuasaan eksekutif menjadi tidak tepat
 
+
 -----
 
 415
@@ -28796,6 +29234,7 @@ jawab kepada Presiden.
 2) Kepolisian Daerah (Polda) yang dipimpin oleh seorang Kapolda yang
 
 bertanggung jawab kepada Kapolri.
+
 
 -----
 
@@ -28869,6 +29308,7 @@ makna tiap kata itu, frasa hanya dapat bermakna ‘selain penyidik OJK, tidak
 
 ada pihak lain yang memiliki kewenangan untuk melakukan penyidikan atas
 
+
 -----
 
 417
@@ -28940,6 +29380,7 @@ atas tindak pidana perbankan, perbankan syariah, pasar modal, dan
 
 perasuransian sedangkan Kepolisian tidak diberikan kewenangan itu
 
+
 -----
 
 418
@@ -29008,6 +29449,7 @@ kewenangan Kepolisian dalam melakukan penyelidikan dan
 penyidikan terhadap semua tindak pidana sesuai dengan hukum
 
 acara pidana dan peraturan perundang-undangan lainnya.
+
 
 -----
 
@@ -29079,6 +29521,7 @@ Pidana di Sektor Jasa Keuangan ini, telah mengubah kebijakan dari beberapa
 
 ketentuan penyidikan dalam Undang-Undang PPSK namun harus dipahami:
 
+
 -----
 
 420
@@ -29149,6 +29592,7 @@ Oleh Wakil Menteri Hukum dan HAM RI Bapak Prof. Dr. Edward Omar Sharif
 Hiariej, S.H., M.Hum. dipersidangan pada tanggal 28 Agustus 2023 yang pada
 
 intinya menerangkan sebagai berikut:
+
 
 -----
 
@@ -29271,7 +29715,9 @@ dalil para Pemohon yang termuat dalam Perbaikan Permohonan.
 
 hadirkan oleh Pihak Terkait Polri yang disampaikan dipersidangan pada tanggal
 
+
 2 N b 2023 d i i k b i b ik
+
 
 -----
 
@@ -29343,6 +29789,7 @@ yaitu dapat dihilangkannya kewenangan penegakan hukum pada tindak
 pidana tertentu; dan d. Mengenai bagaimana pengaturan lebih lanjut
 
 pelaksanaan kewenangan penegakan hukum tersebut diatur melalui UU
+
 
 -----
 
@@ -29416,6 +29863,7 @@ Keuangan, telah menegaskan kewenangan penyidikan sangat mungkin
 
 diberikan kepada lembaga lain di luar Polri sepanjang tidak
 
+
 -----
 
 425
@@ -29487,6 +29935,7 @@ penyidik Polri dalam melakukan Penyidikan atas tindak pidana di sektor
 jasa keuangan dengan UU Polri dan KUHAP yang memberikan
 
 kewenangan kepada penyidik Polri untuk melakukan penyidikan terhadap
+
 
 -----
 
@@ -29560,6 +30009,7 @@ Undang-undang Nomor 2 Tahun 2002 khususnya Pasal 14 UU Nomor 2
 
 T h 2002 ik b i di d l
 
+
 -----
 
 427
@@ -29628,6 +30078,7 @@ ketertiban masyarakat bertugas melindungi, mengayomi, melayani
 masyarakat, serta menegakkan hukum. Norma ini secara tegas
 
 menentukan bahwa salah satu tugas utama Polri sebagai alat negara
+
 
 -----
 
@@ -29699,6 +30150,7 @@ diwakili oleh Wakil Menteri Hukum dan HAM RI dan Keterangan DPR
 
 sepanjangan diakui dengan tegas keterangannya oleh para Pemohon yang
 
+
 -----
 
 429
@@ -29769,6 +30221,7 @@ Republik Indonesia Tahun 2023 Nomor 4, Tambahan Lembaran Negara
 
 Republik Indonesia Nomor 6845 sampai ada putusan Mahkamah dalam perkara
 
+
 -----
 
 430
@@ -29833,6 +30286,7 @@ kekuatan hukum mengikat;
 4. Memerintahkan putusan dalam perkara ini dimuat dalam Berita Negara Republik
 
 Indonesia.
+
 
 -----
 
@@ -29902,6 +30356,7 @@ akibat berlakunya Undang-Undang yang dimohonkan pengujian.
 3. Lebih lanjut Mahkamah Konstitusi telah memberikan batasan secara
 
 kumulatif tentang kerugian hak dan/atau kewenangan konstitusional yang
+
 
 -----
 
@@ -29973,6 +30428,7 @@ dan keuangan global serta perkembangan instrumen dan transaksi keuangan
 
 yang semakin kompleks dan terkoneksi membutuhkan respon yang lebih
 
+
 -----
 
 433
@@ -30042,6 +30498,7 @@ dengan praktisi, akademisi, dan asosiasi yang dilakukan pada tanggal 4-6 Juli
 Kerja (Panja) tanggal 23 dan 24 Agustus 2022. Setelah Fraksi-fraksi diberikan
 
 kesempatan untuk memberikan pendapat atas RUU Usulan Insiatif Komisi XI
+
 
 -----
 
@@ -30115,6 +30572,7 @@ Bahwa ketentuan Pasal 49 ayat (5) dalam Pasal 8 angka 21 UU P2SK
 
 k
 
+
 -----
 
 435
@@ -30186,6 +30644,7 @@ P2SK telah sejalan dengan ketentuan Pasal 1 ayat (3) UUD 1945 dan Pasal
 1) Polri tetap dapat menjalankan fungsi dan kewenangannya dalam
 
 melakukan penyidikan tindak pidana di sektor jasa keuangan serta
+
 
 -----
 
@@ -30259,6 +30718,7 @@ keuangan seringkali melibatkan transaksi keuangan yang rumit dan
 
 l b Ak i i il l i _i_ _id_ _di_ ( d
 
+
 -----
 
 437
@@ -30328,6 +30788,7 @@ Konstitusi, bahwa terdapat 3 (tiga) alasan pentingnya keberadaan penyidik
 pegawai tertentu sebagai penyidik OJK, yaitu:
 
 1) Alasan expertise dan resources
+
 
 -----
 
@@ -30401,6 +30862,7 @@ peran penyidik juga dapat dilakukan oleh instansi lain berdasarkan peraturan
 
 perundang-undangan yang berlaku di Indonesia Sebagai contoh KPK
 
+
 -----
 
 439
@@ -30473,6 +30935,7 @@ bidangnya masing-masing, maka penyidiknya tidak terbatas hanya penyidik
 
 Polri atau PPNS sebagaimana diatur dalam KUHAP mengingat Polri adalah
 
+
 -----
 
 440
@@ -30541,6 +31004,7 @@ Perkara Nomor 59/PUU-XXI/2023 terkait dengan pengujian materiil UU
 
 PPSK, berkaitan dengan pengujian beberapa ketentuan sebagai berikut:
 
+
 -----
 
 441
@@ -30607,6 +31071,7 @@ Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian
 hukum yang adil serta perlakuan yang sama dihadapan hukum.
 
 Pasal 30 ayat (4) UUD 1945
+
 
 -----
 
@@ -30678,6 +31143,7 @@ kewenangan penanganan penyidikan suatu tindak pidana yang diatur dalam
 
 berbagai peraturan perundang-undangan harus berpedoman pada KUHAP
 
+
 -----
 
 443
@@ -30747,6 +31213,7 @@ dengan Pasal 49 ayat (5) UU PPSK.
 Bahwa berdasarkan keterangan Pemerintah yang disampaikan Wakil Menteri
 
 Hukum dan HAM tersebut pada pokoknya pemerintah telah menegaskan
+
 
 -----
 
@@ -30818,6 +31285,7 @@ pada huruf g, dinyatakan bahwa Kepolisian: “melakukan penyelidikan dan
 
 semua tindak pidana yang merupakan amanat konstitusi Pasal 30 ayat (4)
 
+
 -----
 
 445
@@ -30888,6 +31356,7 @@ Pertama IDIK TP. Perbankan; Pendidikan Pengembangan Spesial
 (IKNB); The International Criminal Investigative Training Assistance Program
 
 (Instructur _Financial_ _Transaction_ _Analyst);_ Pelatihan Peningkatan
+
 
 -----
 
@@ -30961,6 +31430,7 @@ masyarakat yang tidak dapat ditindaklanjuti, diantaranya:
 
 tindak pidana pencucian uang Dalam perkembangannya penyidik
 
+
 -----
 
 447
@@ -31031,6 +31501,7 @@ merupakan kewenangan tunggal penyidik OJK.
 13. Bahwa beberapa fakta yang terjadi dalam proses penegakan hukum di
 
 bidang sektor jasa keuangan tersebut menjelaskan:
+
 
 -----
 
@@ -31103,6 +31574,7 @@ Pemerintah hirarkinya berada di bawah Undang-Undang.
 
 terhadap frasa hanya dapat dilakukan oleh penyidik OJK pada pokoknya
 
+
 -----
 
 449
@@ -31170,6 +31642,7 @@ Tahun 2019.
 3. Bahwa untuk melaksanakan berbagai ketentuan dalam UUD 1945, proses
 
 penegakan hukum pidana yang menjunjung tinggi dan melindungi hak asasi
+
 
 -----
 
@@ -31241,6 +31714,7 @@ a. Pada tahun 2020, tanggal 5 April, NIBA pernah mengirimkan surat yang
 
 berisikan implementasi PP 87/2019 tentang usaha bersama.
 
+
 -----
 
 451
@@ -31310,6 +31784,7 @@ aturan OJK dan Undang-Undang Perasuransian. Namun setelah 7 (tujuh)
 bulan, OJK merespon dan dalam surat tersebut tidak menjawab apa-apa
 
 terhadap pertanyaan yang diajukan.
+
 
 -----
 
@@ -31383,6 +31858,7 @@ dapat bermakna mampu, sanggup, bisa. Kata hanya **merupakan kata**
 
 itu
 
+
 -----
 
 453
@@ -31455,6 +31931,7 @@ mendominasi pemikiran tentang polisi dan kewenangannya, serta
 
 meminggirkan kesinambungan dan pemahaman lama tentang fungsi
 
+
 -----
 
 454
@@ -31524,6 +32001,7 @@ d. Perubahan kebijakan dalam Peraturan Pemerintah No. 5 Tahun 2023,
 tidak dapat menghidupkan kembali kewenangan Polri dalam
 
 melakukan penyidikan di sektor jasa keuangan.
+
 
 -----
 
@@ -31595,6 +32073,7 @@ dapat berasal dari kepolisian, kejaksaan, penyidik pegawai negeri sipil
 
 yang diberi wewenang khusus oleh undangundang, dan penyelidik KPK
 
+
 -----
 
 456
@@ -31663,6 +32142,7 @@ pengawasan pada perbankan yang sebelumnya dijalankan oleh Bank
 Indonesia (BI). Demikian pula OJK memiliki kewenangan untuk
 
 pengawasan Lembaga keuangan non-bank yang sebelumnya dilakukan
+
 
 -----
 
@@ -31733,6 +32213,7 @@ para Ahli tersebut, dapat disampaikan hal-hal berikut:
 **Perundang-Undangan FH Universitas Jember)**
 
 1) Bahwa salah satu materi muatan konstitusi adalah memuat dasar-dasar
+
 
 -----
 
@@ -31806,6 +32287,7 @@ semua tindak pidana. Pengaturan dalam Pasal 13 huruf b dan Pasal 14
 
 huruf g UU Polri sebagai UU Organik yang menyebutkan tugas Polri
 
+
 -----
 
 459
@@ -31877,6 +32359,7 @@ diberikan kepada lembaga lain di luar Polri sepanjang tidak
 menghilangkan dan tidak bertentangan dengan kewenangan Polri.
 
 **Dengan** **kata** **lain** **setiap** **kali** **ada** **UU** **yang** **akan** **memberikan**
+
 
 -----
 
@@ -31950,6 +32433,7 @@ undang-undang yang umum. **Munculnya konflik norma antara**
 
 _lex_ _specialis_ _derogat_ _legi_ _generali_ yaitu **konflik** **terkait** **kewenangan**
 
+
 -----
 
 461
@@ -32021,6 +32505,7 @@ yang dilakukan selain oleh penyidik Polri, apabila penyidikan dilakukan
 oleh PPNS sebagaimana diatur KUHAP maka tetap harus merupakan
 
 h il idik dil k k l h PPNS dik di ik l h
+
 
 -----
 
@@ -32094,6 +32579,7 @@ tugas penegakan hukum. Dua tugas ini menjadi sangat penting disatukan
 
 j di P l i k **b** **i** **ki** **li** **d**
 
+
 -----
 
 463
@@ -32164,6 +32650,7 @@ implisit dapat dipahami bahwa wewenang utama penyidikan tetap ada
 pada Polri, sementara OJK memiliki wewenang penyidikan yang bersifat
 
 pendukung bagi tugas penegakan hukum di sektor jasa keuangan
+
 
 -----
 
@@ -32237,6 +32724,7 @@ masyarakat? Apakah organ negara yang diberi wewenang melakukan
 
 penyidikan pada sektor jasa keuangan dalam hal ini OJK? OJK secara
 
+
 -----
 
 465
@@ -32309,6 +32797,7 @@ bersifat kolektif dan kolegial. Apabila Presiden membutuhkan upaya
 
 penegakan hukum terhadap tindak pidana di sektor jasa keuangan
 
+
 -----
 
 466
@@ -32378,6 +32867,7 @@ Polri yang memimpin kelompok penyidikan yang dipimpin oleh Irjen Pol
 berpangkat bintang 2 dan terdapat supervisor seorang Brigjen Pol bintang 1
 
 dan terdapat ketua tim penyidik berpangkat Komisaris Besar Polisi.
+
 
 -----
 
@@ -32450,6 +32940,7 @@ pidana sektor jasa keuangan **pasca diundangkannya UU PPSK, maka**
 
 **i** **ifik**
 
+
 -----
 
 468
@@ -32520,6 +33011,7 @@ memadai, di Mabes Polri sebanyak 279 orang, dan juga tersebar di setiap
 
 Kepolisian Daerah (Polda) dan Kepolisian Resort (Polres) serta Kepolisian
 
+
 -----
 
 469
@@ -32588,6 +33080,7 @@ tindak pidana sektor jasa keuangan dengan kemampuan mengungkap dan
 seluruh wilayah Indonesia oleh Mabes Polri, Polda maupun Polres, Penyidik
 
 Polri telah mendapatkan penghargaan dan apresiasi dari berbagai pihak,
+
 
 -----
 
@@ -32661,6 +33154,7 @@ Otoritas Jasa Keuangan” **bertentangan dengan UU PPSK yang secara**
 
 **melakukan penyidikan atas tindak pidana di sektor jasa keuangan**
 
+
 -----
 
 471
@@ -32732,6 +33226,7 @@ IV sebagaimana surat OJK Nomor: S-1643/EP.1212/2021 tanggal 9 Juni
 2021 perihal Tanggapan atas Pengaduan dan Pertanyaan yang pada
 
 k k d h t k l ik k jib
+
 
 -----
 
@@ -32805,6 +33300,7 @@ polis. Sebagai bentuk dukungan OJK terhadap proses hukum yang berjalan,
 
 pada tanggal 5 Oktober 2023 OJK telah memenuhi panggilan Badan Reserse
 
+
 -----
 
 473
@@ -32876,6 +33372,7 @@ pelaksanaannya dikoordinasikan dengan penyidik Kepolisian (vide hlm 235,
 3. Lebih lanjut, dalam ketentuan Pasal 49 ayat 6 dalam Pasal 8 angka 21 UU
 
 P2SK d P j l l h di b h d l l k k
+
 
 -----
 
@@ -32949,6 +33446,7 @@ _integrated criminal justice system sebagai berikut:_
 
 **1** **D** **H** **k** **d** **T** **j** **P** **b** **k** **OJK**
 
+
 -----
 
 475
@@ -33020,6 +33518,7 @@ hubungan pengawasan dan pengaturan antar lembaga di bidang sektor
 
 keuangan jenis pelanggaran dan perbuatan tindak pidana di sektor jasa
 
+
 -----
 
 476
@@ -33089,6 +33588,7 @@ dalam Putusan Nomor 28/PUU-V/2007 halaman 97 dan 98 angka 3.13.3
 dan 3.13.6 yang pada pokoknya kewenangan penyidikan tidak
 
 dimaksudkan untuk tersentralisasi dalam satu lembaga tertentu namun
+
 
 -----
 
@@ -33162,6 +33662,7 @@ a. Di Indonesia, terdapat sejumlah lembaga yang berwenang menyidik,
 
 yakni:
 
+
 -----
 
 478
@@ -33232,6 +33733,7 @@ kewenangan penyidikan terhadap pelanggaran di sektor keuangan
 
 yang dilakukan baik oleh perorangan maupun korporasi
 
+
 -----
 
 479
@@ -33297,6 +33799,7 @@ kepada lembaga negara lain, kewenangan dimaksud tidak boleh
 mengabaikan prinsip _integrated criminal justice system dan prinsip_
 
 kewajiban membangun koordinasi antara penyidik lembaga negara dan
+
 
 -----
 
@@ -33367,6 +33870,7 @@ _process_ _of_ _law).(Prof._ DR. Jimly Asshiddiqie, S.H. (b),
 1.3. Gagasan Negara Hukum dibangun dengan mengembangkan
 
 perangkat hukum sebagai suatu sistem yang fungsional dan
+
 
 -----
 
@@ -33440,6 +33944,7 @@ wewenang khusus oleh undang-undang untuk melakukan
 
 penyidikan adalah kurang tepat
 
+
 -----
 
 482
@@ -33511,6 +34016,7 @@ Putusan MK No. 16/PUU-X/2012 dan kembali ditegaskan dalam
 Putusan No. 2/PUU-X/2012 yang antara lain menyatakan bahwa
 
 kewenangan polisi sebagai penyidik tunggal bukan lahir dari UUD
+
 
 -----
 
@@ -33584,6 +34090,7 @@ kerja). Ada juga pegawai-pegawai tetap dari berbagai lembaga
 
 yang tidak termasuk dalam PNS dan PPPK Mereka itu adalah
 
+
 -----
 
 484
@@ -33652,6 +34159,7 @@ tertentu sebagai penyidik.
 asas-asas hukum yang berlaku, tidak terdapat ketidakpastian hukum
 
 sebagaimana didalilkan oleh para Pemohon.
+
 
 -----
 
@@ -33725,6 +34233,7 @@ aturan undang-undang yang memberikan kewenangan menyidik tindak
 
 pidana tertentu sekurangnya ada 3 (tiga) alasan dibalik politik hukum
 
+
 -----
 
 486
@@ -33796,6 +34305,7 @@ tindak pidana di sektor jasa keuangan yang kompleks, dinamis, dan saling
 
 terkait antar-subsektor keuangan baik dalam hal produk maupun
 
+
 -----
 
 487
@@ -33863,6 +34373,7 @@ Perintah Pengembalian Keuntungan Tidak Sah (disgorgement).
 OJK akan mendukung tercapainya tujuan pemulihan keadaan pihak yang
 
 dirugikan terlebih dahulu.
+
 
 -----
 
@@ -33932,6 +34443,7 @@ berkelanjutan dan stabil. Oleh karenanya, diperlukan piranti hukum yang
 **memberikan kewenangan tertentu sehingga kegiatan dalam sektor jasa**
 
 **keuanganan mampu mewujudkan sistem keuangan yang tumbuh**
+
 
 -----
 
@@ -34005,6 +34517,7 @@ perlu dipetakan kembali serta mempertimbangkan pelaksanaan tugas
 
 _i_ _i_ di b l h PPNS B LK b
 
+
 -----
 
 490
@@ -34077,6 +34590,7 @@ rotasi di instansi asal, selesainya jangka waktu penugasan, atau hal lain
 
 penyidikan di sektor jasa keuangan
 
+
 -----
 
 491
@@ -34144,6 +34658,7 @@ terhadap lembaga lain akan membuka peluang intervensi lembaga lain
 tersebut kepada KPK yang dapat menyebabkan KPK menjadi tidak optimal
 
 dalam melaksanakan fungsinya bahkan dapat melemahkannya...”.
+
 
 -----
 
@@ -34215,6 +34730,7 @@ dikabulkannya permohonan, dan pandangan OJK mengenai Peraturan Pemerintah
 
 Nomor 5 Tahun 2023 tentang Penyidikan di Sektor Jasa Keuangan sebagai berikut:
 
+
 -----
 
 493
@@ -34284,6 +34800,7 @@ Konstitusi Nomor 59/PUU-XXI/2023 Perihal Permohonan Pengujian
 
 Undang-Undang Nomor 4 Tahun 2023 Tentang Pengembangan dan
 
+
 -----
 
 494
@@ -34352,6 +34869,7 @@ Negara RI melaksanakan kewenangannya berdasarkan ketentuan yang
 berlaku dan nota kesepahaman dimaksud serta tetap memperhatikan
 
 kewenangan masing-masing.
+
 
 -----
 
@@ -34425,6 +34943,7 @@ lainnya. Hal yang sama juga berkembang di berbagai negara Eropa. Dan,
 
 kini juga telah berlaku di Indonesia untuk tindak pidana di sektor jasa
 
+
 -----
 
 496
@@ -34494,6 +35013,7 @@ bukan secara pidana (penyelesaian dengan prinsip _Una Via) ataupun_
 menyelesaikan di luar pengadilan dengan jalan NPA, **jangan sampai**
 
 kasus yang sama kemudian masih diproses lagi oleh aparat penegak
+
 
 -----
 
@@ -34567,6 +35087,7 @@ maupun Kepolisian Negara RI, termasuk pelaksanaan mekanisme
 
 penyelesaian pelanggaran atas peraturan perundang-undangan di sektor
 
+
 -----
 
 498
@@ -34638,6 +35159,7 @@ Penanganan Perkara Tahun 2016 s.d 2023 (Periode November 2023)
 yaitu sebanyak 301 perkara yang terdiri dari 208 perkara perbankan, 48
 
 k d l d 45 k IKNB ( i d d i )
+
 
 -----
 
@@ -34713,6 +35235,7 @@ sebagaimana dimaksud pada ayat (1) huruf c ditetapkan setelah
 
 hi k lifik i l h K li i N R blik I d i
 
+
 -----
 
 500
@@ -34785,6 +35308,7 @@ o. menyampaikan hasil penyidikan kepada Jaksa untuk dilakukan
 
 penuntutan sesuai dengan ketentuan peraturan perundang-undangan.
 
+
 -----
 
 501
@@ -34853,6 +35377,7 @@ mengenai kewenangan OJK melakukan penyidikan di sektor jasa keuangan dan
 tidak dimaksudkan mengurangi kewenangan penyidikan yang telah dimiliki oleh
 
 Kepolisian Negara RI;
+
 
 -----
 
@@ -34926,6 +35451,7 @@ terhadap frasa _“…hanya dapat dilakukan oleh Penyidik OJK..” pada_
 
 pokoknya mengatur mengenai kewenangan OJK melakukan penyidikan di
 
+
 -----
 
 503
@@ -34987,6 +35513,7 @@ Indonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat
 pertama dan terakhir yang putusannya bersifat final untuk menguji undang-undang
 
 terhadap UUD 1945.
+
 
 -----
 
@@ -35056,6 +35583,7 @@ a. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasal 51 ayat
 
 (1) UU MK;
 
+
 -----
 
 505
@@ -35123,6 +35651,7 @@ frasa “hanya dapat dilakukan oleh penyidik Otoritas Jasa Keuangan” dalam
 
 Pasal 49 ayat (5) UU 21/2011, yang rumusannya adalah sebagai berikut:
 
+
 -----
 
 506
@@ -35189,6 +35718,7 @@ berwenang mewakili ke dalam dan ke luar;
 3. Bahwa menurut Pemohon I, pemberlakuan ketentuan Pasal 8 angka 21 UU
 
 4/2023 yang memuat perubahan atas frasa “hanya dapat dilakukan oleh penyidik
+
 
 -----
 
@@ -35262,6 +35792,7 @@ karyawan swasta yang atas keberlakuan ketentuan pasal _a quo_ telah
 
 hil k h k k i i l P h III d l k h
 
+
 -----
 
 508
@@ -35332,6 +35863,7 @@ kedepannya sangat potensial dapat terjadi sewaktu- waktu adanya tindak pidana
 
 sektor perbankan yang dialami dan merugikan Pemohon V sehingga tidak dapat
 
+
 -----
 
 509
@@ -35401,6 +35933,7 @@ selaku nasabah bank di daerah yang tidak memiliki kantor OJK yang dapat
 
 dirugikan hak konstitusionalnya secara potensial, sebab ketentuan pasal _a_ _quo_
 
+
 -----
 
 510
@@ -35468,6 +36001,7 @@ pada pokoknya memohon kepada Mahkamah Konstitusi untuk memberikan putusan
 sela guna menunda pemberlakuan ketentuan UU 4/2023 sampai adanya putusan
 
 M hk h d l k b k k ik d l
+
 
 -----
 
@@ -35537,6 +36071,7 @@ sebagai berikut:
 a. bahwa kebijakan peraturan perundang-undangan dalam pembangunan
 
 sistem penegakan hukum menempatkan Kepolisian sebagai penyidik utama.
+
 
 -----
 
@@ -35608,6 +36143,7 @@ dijamin dalam Pasal 1 ayat (3) dan Pasal 28D ayat (1) UUD 1945 serta
 
 kedudukan konstitusional organ kewenangan Kepolisian sebagai organ utama
 
+
 -----
 
 513
@@ -35676,6 +36212,7 @@ November 2023 (selengkapnya dimuat pada bagian Duduk Perkara).
 
 Perwakilan Rakyat dalam persidangan pada tanggal 3 Agustus 2023 serta telah
 
+
 -----
 
 514
@@ -35741,6 +36278,7 @@ Ahmad Sathori yang telah didengarkan keterangannya dalam persidangan pada
 tanggal 2 November 2023 dan 1 (satu) orang ahli yakni Prof. Dr. Topo Santoso, S.H.,
 
 M.H. yang hanya menyampaikan keterangan secara tertulis yang diserahkan
+
 
 -----
 
@@ -35810,6 +36348,7 @@ dilepaskan dari keberadaan KUHAP, khususnya berkenaan dengan fungsi
 
 penyidikan sebagaimana diatur dalam Pasal 6 ayat (1) KUHAP yang menyatakan
 
+
 -----
 
 516
@@ -35878,6 +36417,7 @@ dan penyidikan. Selanjutnya, berdasarkan Putusan Mahkamah Konstitusi Nomor
 
 25/PUU-XII/2014 yang diucapkan dalam sidang pleno terbuka untuk umum pada
 
+
 -----
 
 517
@@ -35939,6 +36479,7 @@ pidana yang terpadu. Oleh karena itu, untuk menghindari potensi tersebut,
 kewajiban membangun koordinasi dengan penyidik Kepolisian juga
 merupakan kewajiban yang melekat pada penyidik OJK. Dasar
 
+
 -----
 
 518
@@ -35996,6 +36537,7 @@ Mahkamah telah menegaskan bahwa kewenangan penyidikan OJK dapat
 dibenarkan dan adalah konstitusional sepanjang pelaksanaannya dikoordinasikan
 
 dengan penyidik Polri. Namun demikian, oleh karena kedudukan OJK secara
+
 
 -----
 
@@ -36068,6 +36610,7 @@ PP 5/2023 dinyatakan,
 a. pejabat penyidik pada Kepolisian Negara Republik Indonesia; dan
 b Penyidik Otoritas Jasa Keuangan ”
 
+
 -----
 
 520
@@ -36136,6 +36679,7 @@ mengatur tentang kewenangan penyidikan sebagaimana diatur dalam Pasal 8
 
 angka 21 UU 4/2023 yang memuat perubahan Pasal 49 ayat (5) UU 21/2011 dengan
 
+
 -----
 
 521
@@ -36202,6 +36746,7 @@ oleh para Pemohon seperti tertuang dalam Petitum permohonan. Dengan demikian,
 
 permohonan para Pemohon beralasan menurut hukum untuk sebagian.
 
+
 -----
 
 522
@@ -36267,6 +36812,7 @@ Pasal 6 ayat (1) KUHAP dan Pasal 7 ayat (2) KUHAP yang menyatakan:
 Pasal 6 ayat (1) KUHAP
 _Penyidik adalah:_
 
+
 -----
 
 523
@@ -36324,6 +36870,7 @@ tindak pidana khusus bertentangan dengan UUD 1945.
 Dengan demikian maka dalil Pemohon yang menyatakan bahwa tidak
 boleh ada penyidik lain selain yang ditentukan dalam Pasal 6 ayat (1) KUHAP
 menurut Mahkamah tidaklah tepat.
+
 
 -----
 
@@ -36395,6 +36942,7 @@ Keterangan Saksi Pihak Terkait OJK Jus Marfinnoor]. Dengan melihat kondisi
 
 faktual penanganan penyidikan saat ini adanya keterbatasan kemampuan untuk
 
+
 -----
 
 525
@@ -36463,6 +37011,7 @@ pengujian norma Pasal 8 angka 21 UU 4/2023 yang memuat perubahan atas frasa
 
 permohonan para Pemohon sepanjang pengujian norma Pasal 8 angka 21 UU
 
+
 -----
 
 526
@@ -36523,6 +37072,7 @@ Menolak permohonan provisi para Pemohon.
 1. Mengabulkan permohonan para Pemohon untuk sebagian;
 
 2. Menyatakan ketentuan norma Pasal 8 angka 21 Undang-Undang Nomor
+
 
 -----
 
@@ -36594,6 +37144,7 @@ Panitera Pengganti, serta dihadiri oleh para Pemohon/Kuasanya, Dewan Perwakilan
 
 Rakyat atau yang mewakili, Presiden atau yang mewakili, Pihak Terkait Kepolisian
 
+
 -----
 
 528
@@ -36609,6 +37160,7 @@ Keuangan atau yang mewakili.
 **Suhartoyo**
 
 **ANGGOTA-ANGGOTA,**
+
 
 **ttd.**
 
@@ -36626,6 +37178,7 @@ Keuangan atau yang mewakili.
 
 **Enny Nurbaningsih**
 
+
 **ttd.**
 
 **Arief Hidayat**
@@ -36642,10 +37195,13 @@ Keuangan atau yang mewakili.
 
 **Ridwan Mansyur**
 
+
 **PANITERA PENGGANTI,**
 
 **ttd.**
 
 **Nurlidya Stephanny Hikmah**
 
+
 -----
+

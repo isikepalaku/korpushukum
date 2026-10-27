@@ -19,16 +19,15 @@ sumber: "JDIH BPK RI"
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
-penjelasan: ada
+penjelasan: tidak
 penjelasan_pasal_demi_pasal: false
-penjelasan_normatif: false
-struktur_teks: terpartisi
-anchor_pasal: true
+struktur_teks: datar
+anchor_pasal: false
 ---
 
-## Batang Tubuh
 
-**Putusan MK 39-PUU-XXI-2023 Formil UU Cipta Kerja**
+
+# Putusan MK 39-PUU-XXI-2023 Formil UU Cipta Kerja
 
 **Status:** `berlaku`
 
@@ -36,11 +35,11 @@ anchor_pasal: true
 
 <!-- image -->
 
-**PUTUSAN**
+## PUTUSAN
 
-**Nomor 39/PUU-XXI/2023**
+## Nomor 39/PUU-XXI/2023
 
-**DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA MAHKAMAH KONSTITUSI REPUBLIK INDONESIA**
+## DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA MAHKAMAH KONSTITUSI REPUBLIK INDONESIA
 
 [1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, menjatuhkan putusan dalam perkara Pengujian Undang-Undang Nomor 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang terhadap UndangUndang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:
 
@@ -692,11 +691,11 @@ Selanjutnya disebut sebagai ------------------------------------------------- Pa
 
 Indonesia.
 
-**2. DUDUK PERKARA**
+## 2. DUDUK PERKARA
 
 [2.1] Menimbang bahwa Pemohon telah mengajukan permohonan dengan surat permohonan bertanggal 6 April 2023, yang diterima di Kepaniteraan Mahkamah Konstitusi (selanjutnya disebut Kepaniteraan Mahkamah) pada tanggal 6 April 2023 berdasarkan Akta Penerimaan Berkas Permohonan Nomor 34/PUU/PAN.MK/AP3/04/2023 dan telah dicatat dalam Buku Registrasi Perkara Konstitusi pada tanggal 11 April 2023 dengan Nomor 39/PUU-XXI/2023, yang telah diperbaiki dan diterima Kepaniteraan Mahkamah pada tanggal 22 Mei 2023, pada pokoknya menguraikan hal-hal sebagai berikut:
 
-**I KEWENANGAN DAN TUJUAN DIDIRIKANNYA MAHKAMAH KONSTITUSI REPUBLIK INDONESIA**
+## I KEWENANGAN DAN TUJUAN DIDIRIKANNYA MAHKAMAH KONSTITUSI REPUBLIK INDONESIA
 
 1. Bahwa obyek dalam permohonan a quo adalah Undang-Undang Nomor 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang;
 2. Bahwa selanjutnya berdasarkan ketentuan Pasal 24C ayat (1) UUD 1945 menyatakan, 'Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk menguji undangundang terhadap Undang-Undang Dasar, memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UndangUndang Dasar, memutus pembubaran partai politik, dan memutus perselisihan tentang hasil pemilihan umum';
@@ -775,7 +774,7 @@ Artinya: "Wahai orang-orang yang beriman! Jadilah kamu penegak keadilan, menjadi
 
 12. Bahwa berdasarkan dalil - dalil tersebut di atas, cukup alasan kiranya untuk menyatakan Mahkamah Konstitusi berwenang untuk memeriksa dan memutus permohonan a quo guna melaksanakan fungsi dan tujuan serta cita konstitusional didirikannya Mahkamah Konstitusi.
 
-**II KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON**
+## II KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON
 
 PARA PEMOHON MENGAJUKAN PERMOHONAN PENGUJIAN UNDANG-UNDANG A QUO SEBAGAI PERORANGAN ATAU SEKELOMPOK ORANG YANG MEMPUNYAI KEPENTINGAN YANG SAMA
 
@@ -785,9 +784,7 @@ Pasal 51 ayat (1) huruf a UU MK
 
 'Pemohon adalah pihak yang menganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya undang-undang yaitu: a. perorangan warga negara Indonesia;'
 
-## Penjelasan
-
-### I. Umum
+Penjelasan Pasal 51 ayat (1) huruf a UU MK
 
 'Yang dimaksud dengan 'perorangan' termasuk kelompok orang yang mempunyai kepentingan sama.'
 
@@ -798,7 +795,7 @@ Pasal 4 ayat (1) PMK 2/2021
 - a. Perorangan warga negara Indonesia atau kelompok orang yang mempunyai kepentingan yang sama'
 2. Bahwa selanjutnya guna menjelaskan kedudukan hukum lebih lanjur Para Pemohon akan menguraikan 2 (dua) Klaster dalam legal standing yang terdiri dari Klaster Kelompok Orang Yang Mempunyai Kepentingan Sama melalui organisasi serikat pekerja dan Klaster Perorangan sebagai pekerja, yaitu:
 
-**· KELOMPOK ORANG YANG MEMILIKI KEPENTINGAN YANG SAMA**
+## · KELOMPOK ORANG YANG MEMILIKI KEPENTINGAN YANG SAMA
 
 3. Bahwa Pemohon I merupakan Serikat Pekerja PT PLN (Persero) (selanjutnya disebut sebagai DPP SP PLN)
 - 3.1. Bahwa Pemohon I dalam Pengujian Undang-Undang a quo diwakili oleh Ketua Umum Dewan Pimpinan Pusat berhak mewakili untuk dan atas nama Pengurus DPP SP PLN berdasarkan Pasal 8 huruf b Anggaran Dasar SP PLN jo. Pasal 9 ayat (1) huruf f Anggaran Rumah
@@ -862,9 +859,9 @@ perusahaan'
 6. Bahwa Pemohon IV Federasi Serikat Pekerja Kimia Energi dan Pertambangan Serikat Pekerja Seluruh Indonesia (selanjutnya disebut sebagai FSP KEP SPSI)
 - 6.1. Bahwa Pemohon IV dalam pengujian undang-undang a quo diwakili oleh Ketua Umum dan Sekretaris Umum berhak mewakili untuk dan atas nama Pengurus PP FSP KEP SPSI berdasarkan Pasal 41 ayat (3) jo. Pasal 43 angka 1.1 huruf o Anggaran Dasar SP KEP SPSI
 
-**(Bukti P-4.5);**
+## (Bukti P-4.5);
 
-**Pasal 41 Pengurus**
+## Pasal 41 Pengurus
 
 - 1 Kepengurusan SP KEP SPSI disemua tingkatan organisasi bersifat kolektif kolegial ditingkat pusat dipimpin oleh ketua umum dan ketua disemua tingkatan;
 - 2 Keputusan organisasi yang bersifat strategis dan berdampak luas diputuskan melalui rapat pengurus;
@@ -889,7 +886,7 @@ angka 1.1 huruf o
 - 6.3. Bahwa PP FSP KEP SPSI sebagai serikat pekerja telah tercatat di Suku Dinas Tenaga Kerja dan Transmigrasi Jakarta Pusat tanggal 31 Januari 2018 dengan Nomor 10/FSP/JP/I/2018 jo. Departemen Tenaga Kerja Kotamadya Jakarta Selatan: 113/V/N/VIII/2001, tanggal 1 Agustus 2001 (Bukti P - 4.4);
 - 6.4. Bahwa selanjutnya FSP KEP SPSI memiliki Visi, Misi, dan Tujuan sebagaimana Pasal 12 sampai dengan Pasal 14 Anggaran Dasar SP KEP SPSI yang menyatakan:
 
-**Pasal 12 Visi**
+## Pasal 12 Visi
 
 'Terwujudnya kehidupan pekerja Indonesia dan keluarganya yang adil, sejahtera dan bermartabat'
 
@@ -942,7 +939,7 @@ lain sebagai berikut:
 8. Bahwa Pemohon VI merupakan Persaudaraan Pekerja Muslim Indonesia '98 (selanjutnya disebut sebagai PP PPMI '98)
 - 8.1. Bahwa Pemohon VI dalam Pengujian Undang-Undang a quo diwakili oleh Ketua Umum berhak mewakili untuk dan atas nama Pengurus PP PPMI '98 berdasarkan Pasal 21 angka 4 Anggaran Dasar PPMI '98 (Bukti P - 6.4) jo. Surat Mandat nomor 012/PP-PPMI '98/IV/23, tertanggal 1 April 2023 (Bukti P - 6.5) serta dikuatkan dengan berita acara rapat tanggal 12 tahun 2023 dan Surat Tugas No. 25/PP/PPMI98/V/2023 yang mengamantakan kepada Ketua Umum untuk mewakili Pemohon VI dalam perkara a quo (Bukti P-125.1 dan
 
-**P-125.2);**
+## P-125.2);
 
 Pasal 21 Anggaran Dasar PPMI '98 'Pimpinan PPMI '98 berwenang:
 
@@ -980,7 +977,7 @@ Pasal 8 Anggaran Dasar FSP PAR REF
 
 Pasal 19 ayat (1) huruf e AD-ART FSP TSK SPSI
 
-**'Ketua Umum dan Sekretaris Umum untuk dan atas nama mewakili anggota dan organisasi di dalam maupun di luar pengadilan'**
+## 'Ketua Umum dan Sekretaris Umum untuk dan atas nama mewakili anggota dan organisasi di dalam maupun di luar pengadilan'
 
 - 10.2. Bahwa FSP TSK SPSI sebagai Serikat Pekerja telah tercatat pada Departemen Tenaga Kerja Kantor Kotamadya Jakarta Selatan Nomor 89/V/N/VII/2001, tanggal 17 Juli 2001; (Bukti P-8.4);
 - 10.3. Bahwa Pemohon VIII sebagai organisasi serikat pekerja memilik tujuan dan fungsi sebagaimana diatur dalam Pasal 8 dan 9 Anggaran Dasar organisasi, diantaranya;
@@ -996,7 +993,7 @@ Pasal 8
 - 11.1. Bahwa Pemohon IX dalam Pengujian Undang-Undang a quo yang dalam hal ini diwakili oleh Ketua Umum berhak mewakili untuk dan atas nama Pengurus PP SPAG berdasarkan Pasal 15 angka 1 Anggaran Dasar SPAG jo Surat Keputusan No. 001/PP-SPAG/XII/2020 Tentang Penetapan Susunan Pengurus Pusat Serikat Pekerja Aqua Group dan DPO Periode 2020-2023; jo. Surat Mandat Nomor: 004/PPSPAG/IV/2023 tanggal 1 April 2023(Bukti P-9.2, P-9.3, P-9.4, P-9.6) Jo Berita Acara Rapat Pengurus Pusat tertanggal 04 Mei 2023 (Bukti P-123);
 - 11.2. Bahwa Pemohon IX sebagai serikat pekerja tercatat di Suku Dinas Tenaga Kerja dan Transmigrasi Jakarta Timur Nomor : 311/IV/P/V/2002 tanggal 13 Mei 2002; (Bukti P-9.5);
 
-**Pasal 15 Tata Kerja**
+## Pasal 15 Tata Kerja
 
 - '1. Kepengurusan Serikat Pekerja Danone Aqua Group di semua tingkatan dilaksanakan secara kolektif'
 - 11.3. Bahwa selanjutnya Pemohon IX memiliki Fungsi dan Tujuan sebagaimana Pasal 10 angka 4 dan Pasal 11 angka 2 Anggaran Dasar SPAG yang menyatakan:
@@ -1017,23 +1014,23 @@ Pasal 21 Anggaran Rumah Tangga FSPI
 
 - 12.2. Bahwa Ketua Umum DPN FSPI didasarkan pada Penetapan Pimpinan Kongres ke VII FSPI tanggal 21 Desember 2022 mengenai Susunan Kepengurusan DPN FSPI Periode 2022-2026 (Bukti P-10.2), dan dalam perkara a quo sebagai Pemohon berdasarkan Surat Tugas Organisasi Nomor 002/STO/FSPI/I/2023 tanggal 1 April 2023 (Bukti
 
-**P-122);**
+## P-122);
 
 - 12.3. Bahwa FSPI sebagai serikat pekerja telah tercatat di Suku Dinas Tenaga Kerja dan Transmigrasi Jakarta Selatan No: 3265/1835.3, tanggal 20 Juni 2019 jo. Surat Departemen Tenaga Kerja Kotamadya Jakarta Selatan Nomor 146/V/N/IX/2001 tanggal 4 September 2001
 
-**(Bukti P-10.3);**
+## (Bukti P-10.3);
 
 - 12.4. Bahwa selanjutnya FSPI memiliki Visi, Misi, dan Tujuan sebagaimana Pasal 12, 13, dan 14 Anggaran Dasar FSPI yang menyatakan:
 
-**Pasal 12 Anggaran Dasar FSPI**
+## Pasal 12 Anggaran Dasar FSPI
 
 'Visi FSPI adalah terwujudnya masyarakat pekerja Indonesia yang makmur, sejahtera, bermartabat dan berkeadilan berdasarkan keadilan sosial bagi seluruh rakyat Indonesia'
 
-**Pasal 13 Anggaran Dasar FSPI**
+## Pasal 13 Anggaran Dasar FSPI
 
 'Misi FSPI adalah memperjuangkan tegaknya hubungan industrial yang adil dan beradab dalam hubungan kerja guna meningkatkan taraf hidup, kecerdasan dan kesejahteraan kaum pekerja beserta keluarganya, serta memajukan demokrasi ekonomi, sosial dan politik perburuhan nasional'
 
-**Pasal 14 Anggaran Dasar FSPI**
+## Pasal 14 Anggaran Dasar FSPI
 
 - 'FSPI didirikan dengan tujuan:
 - a Menghimpun dan mempersatukan kaum pekerja disegala sektor industri barang, industri jasa dan profesi demi terwujudnya gerakan solidaritas kaum pekerja di dalam negeri maupun di dunia;
@@ -1047,7 +1044,7 @@ Pasal 21 Anggaran Rumah Tangga FSPI
 - PERSEORANGAN
 17. Bahwa Pemohon Nomor XI sampai dengan CXIX kesemuanya merupakan pekerja yang bekerja diberbagai perusahaan yang tersebar di berbagai pulau dan provinsi di Indonesia di Pulau Jawa sampai dengan Papua (Bukti
 
-**P-11.1 sampai dengan Bukti P -119.3,);**
+## P-11.1 sampai dengan Bukti P -119.3,);
 
 - a. Pemohon nomor XI sampai dengan nomor XXXI merupakan pekerja PT Unilever Indonesia Tbk;
 
@@ -1102,13 +1099,13 @@ Ketenagalistrikan karena akan berdampak pada pekerjaan dan imbalan yang layak da
 28. Bahwa Para Pemohon berkepentingan untuk tetap menjaga dan mendudukkan kembali ide, gagasan, dan cita konstitusi UUD 1945 dan para pendiri bangsa bahwa listrik sebagai kebutuhan pokok atau kebutuhan dasar warga negara Indonesia haruslah dimiliki dengan konsep pengelolaan, pengaturan, dan penguasaan oleh Negara tanpa syarat;
 29. Bahwa hak-hak konstitusional Para Pemohon yang dirugikan atau secara potensial dirugikan berdasarkan penalaran wajar dapat terjadi, diantaranya yakni sebagaimana diatur dalam Pasal 28D ayat (1), 28C ayat (1), dan 33 ayat (2) UUD 1945;
 
-**Pasal 28D ayat (1) UUD 1945**
+## Pasal 28D ayat (1) UUD 1945
 
 - (1) Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama dihadapan hukum.
 
 Pasal 28C ayat (1) UUD 1945 Setiap orang berhak mengembangkan diri melalui pemenuhan kebutuhan dasarnya, berhak mendapat pendidikan dan memperoleh manfaat dari ilmu pengetahuan dan teknologi, seni dan budaya, demi meningkatkan kualitas hidupnya dan demi kesejahteraan umat manusia.
 
-**Pasal 33 ayat (2) UUD 1945**
+## Pasal 33 ayat (2) UUD 1945
 
 Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak dikuasai oleh negara.
 
@@ -1117,7 +1114,7 @@ Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup o
 
 penyediaan tenaga listrik tetap berada dibawah penguasaan Negara sebagaimana amanat Pasal 33 ayat (2) UUD 1945;
 
-**III ALASAN PERMOHONAN PENGUJIAN**
+## III ALASAN PERMOHONAN PENGUJIAN
 
 1. Bahwa ketentuan mengenai ketenagalistrikan yang diuji dalam permohonan a quo yaitu Pasal 42 angka 5 Pasal 7 ayat (1), angka 6 Pasal 10 ayat (2), angka 7 Pasal 11 ayat (1), angka 15 Pasal 23 ayat (2), angka 23 Pasal 33 ayat (1) dan (2) Undang-Undang Nomor 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja menjadi Undang-Undang;
 2. Bahwa perlu Para Pemohon sampaikan Pasal 42 UU a quo telah mengubah dan/atau menghapus beberapa pasal yang sebelumnya di atur dalam UndangUndang Nomor 30 Tahun 2009 Tentang Ketenagalistrikan (UU Ketenagalistrikan);
@@ -1174,23 +1171,23 @@ listrik untuk kepentingan umum dilakukan secara tidak terintegrasi atau terpisah
 13. Bahwa dengan tetap dipertahankannya oleh pembuat UU a quo yakni Pasal 42 angka 7 Pasal 11 ayat (1) kembali menegasikan abainya pembentuk undangundang mengenai pentingya pengusaan listrik untuk kepentingan umum dilakukan oleh negara;
 14. Bahwa tenaga listrik merupakan cabang produksi yang penting bagi Negara dan menguasai hajat hidup orang banyak telah ditegaskan oleh pembuat UU Ketenagalistrikan sebagaimana tertera dalam Konsideran Menimbang huruf a dan Penjelasan Pasal 3 ayat (1);
 
-**Konsideran Menimbang huruf a**
+## Konsideran Menimbang huruf a
 
 'bahwa pembangunan nasional bertujuan untuk mewujudkan masyarakat adil dan makmur yang merata materiil dan spiritual berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945'
 
-**Penjelasan Pasal 3 ayat (1)**
+## Penjelasan Pasal 3 ayat (1)
 
 'Mengingat tenaga listrik merupakan salah satu cabang produksi yang penting dan strategis dalam kehidupan nasional, usaha penyediaan tenaga listrik dikuasai oleh negara yang dalam penyelenggaraannya ditujukan untuk sebesarbesarnya bagi kepentingan dan kemakmuran rakyat.'
 
 15. Bahwa Mahkamah Konstitusi melalui Putusan Nomor 001-021-022/PUU-I/2003 dan Nomor 111/PUU-XIII/2015 telah menegaskan hal yang sama yaitu tenaga
 
-**listrik merupakan cabang produksi yang penting bagi Negara dan menguasai hajat hidup orang banyak; Pertimbangan hukum Putusan Nomor 001-021-022/PUU-I/2003, halaman 345**
+## listrik merupakan cabang produksi yang penting bagi Negara dan menguasai hajat hidup orang banyak; Pertimbangan hukum Putusan Nomor 001-021-022/PUU-I/2003, halaman 345
 
 'Menimbang bahwa dengan fakta tersebut di atas telah terbukti tenaga listrik merupakan cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak sehingga sesuai dengan Pasal 33 ayat (2) cabang produksi tenaga listrik tersebut haruslah dikuasai oleh Negara'
 
-**Pertimbangan hukum Putusan Nomor 111/PUU-XIII/2015, halaman 105**
+## Pertimbangan hukum Putusan Nomor 111/PUU-XIII/2015, halaman 105
 
-**angka [3.12]**
+## angka [3.12]
 
 'Menimbang, setelah Mahkamah mengingatkan dan menegaskan pendirian Mahkamah berkenaan dengan keberadaan listrik sebagai cabang produksi yang penting bagi Negara dan mengusai hajat hidup orang banyak sehingga
 
@@ -1262,7 +1259,7 @@ Pengembangan PLTU baru dilarang kecuali untuk PLTU yang telah ditetapkan dalam R
 
 - 2) Terjadi peningkatan presentasi energi listrik yang dihasilkan oleh swasta melalui IPP pada tahun 2013 sebesar 24,27% menjadi 29,35% di tahun 2018. Sebaliknya terjadi penurunan 'persentase' energi listrik yang dihasilkan oleh PLN di tahun 2013 sebesar 67,02% menjadi 66,72% di tahun 2018. Sebagaimana dapat dilihat pada tabel di bawah ini;
 
-**Kapasitas Pembangkit Listrik Terpasang**
+## Kapasitas Pembangkit Listrik Terpasang
 
 | Status Kepemilikan              |      2013 | 2014      |      2015 |      2016 |      2017 |      2018 |
 |---------------------------------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -1311,7 +1308,7 @@ XIII/2015 Jo 001-021-022/PUU-I/200 mengenai pengujian UU Ketenagalistrikan jo pu
 
 Pasal 2 Peraturan Pemerintah Republik Indonesia Nomor 23 Tahun 1994 Tentang Pengalihan Bentuk Perusahaan Umum (Perum) Listrik Negara Menjadi Perusahaan Perseroan (Persero) (selanjutnya disebut sebagai PP 23/94) yang menyatakan:
 
-**Pasal 2**
+## Pasal 2
 
 'Maksud dan tujuan Perusahaan Perseroan (PERSERO) sebagaimana dimaksud dalam Pasal 1 adalah:
 
@@ -1326,7 +1323,7 @@ Pasal 2 Peraturan Pemerintah Republik Indonesia Nomor 23 Tahun 1994 Tentang Peng
 - b. Frasa 'badan usaha milik negara' pada Pasal 42 angka 7 Pasal 11 ayat (1) undang-undang a quo dinyatakan bertentangan dengan Pasal 33 ayat (2) UUD 1945 dan tidak memiliki kekuatan hukum mengikat sepanjang tidak dimaknai badan usaha milik negara di bidang usaha ketenagalistrikan dalam hal ini PT PLN (Persero);
 - c. Frasa 'badan usaha milik badan usaha milik daerah, badan usaha swasta, koperasi, dan swadaya masyarakat yang berusaha di bidang penyediaan tenaga listrik.' pada Pasal 42 angka 7 Pasal 11 ayat (1) undang-undang a quo dinyatakan bertentangan dengan Pasal 33 ayat (2) UUD 1945 dan tidak memiliki kekuatan hukum mengikat;
 
-**III. B MENIADAKAN PENGAWASAN PUBLIK MELALUI PERAN DPR RI UNTUK TERLIBAT DALAM MENETAPKAN RENCANA UMUM KETENAGALISTRIKAN NASIONAL (RUKN)**
+## III. B MENIADAKAN PENGAWASAN PUBLIK MELALUI PERAN DPR RI UNTUK TERLIBAT DALAM MENETAPKAN RENCANA UMUM KETENAGALISTRIKAN NASIONAL (RUKN)
 
 41. Bahwa listrik sebagai cabang produksi yang penting bagi negara dan menguasai hajat hidup orang banyak, maka sudah sepatutnyalah penetapan rencana pengembangan sistem penyediaan tenaga listrik melalui Rencana Umum Ketenagalistrikan Nasional dalam perencanaanya melibatkan berbagai pihak termasuk dalam hal ini masyarakat melalui keterwakilannya di DPR RI;
 42. Bahwa para pemohon meyakini Listrik pada saat ini adalah suatu katalisator untuk mencapai tujuan bernegara sehingga mustahil suatu negara dapat mencapai kemajuan dalam menyejahterakan rakyatnya tanpa ada pengelolaan listrik yang cukup, baik dan berkeadilan;
@@ -1362,7 +1359,7 @@ Bahwa pentingnya pengawasan termasuk didalamnya keterlibatan publik akan menjadi
 
 <!-- image -->
 
-**Menjadi dasar penyusunan**
+## Menjadi dasar penyusunan
 
 - Pasal 30 PP No 79/2014
 - Pasal 8 PP No 23/2014
@@ -1380,7 +1377,7 @@ Rakyat Republik Indonesia.' hal ini berarti telah meniadakan pentingnya fungsi p
 
 85
 
-**III. C PENJUALAN KELEBIHAN TENAGA LISTRIK UNTUK KEPENTINGAN UMUM HANYA DAPAT DILAKUKAN DI WILAYAH YANG BELUM TERJANGKAU OLEH NEGARA**
+## III. C PENJUALAN KELEBIHAN TENAGA LISTRIK UNTUK KEPENTINGAN UMUM HANYA DAPAT DILAKUKAN DI WILAYAH YANG BELUM TERJANGKAU OLEH NEGARA
 
 56. Bahwa Negara bertanggung jawab dalam hal usaha penyediaan tenaga listrik untuk kepentingan umum, baik di wilayah yang telah terjangkau maupun wilayah yang belum terjangkau untuk menyediakan pasokan listrik bagi masyarakat;
 57. Bahwa pasal mengenai penjualan kelebihan tenaga listrik untuk kepentingan umum yang diuji dalam permohonan ini yaitu Pasal 42 angka 15 Pasal 23 ayat (2) undang-undang a quo;
@@ -1409,7 +1406,7 @@ harus membeli kelebihan tenaga listrik dari swasta. Pembebanan APBN yang seharun
 
 65. Bahwa dengan demikian berdasarkan dalil-dalil tersebut kata 'dapat' pada Pasal 42 angka 15 Pasal 23 ayat (2) pada Undang-Undang a quo bertentangan dengan Pasal 33 ayat (2) UUD 1945 dan tidak memiliki kekuatan hukum mengikat sepanjang tidak dimaknai penjualan kelebihan tenaga listrik hanya dapat dilakukan di daerah yang belum tersedia dan tidak kelebihan listrik;
 
-**III. D.PRAKTEK SEWA JARINGAN TENAGA LISTRIK INKONSTITUSIONAL**
+## III. D.PRAKTEK SEWA JARINGAN TENAGA LISTRIK INKONSTITUSIONAL
 
 66. Bahwa Pasal 42 angka 23 Pasal 33 ayat (1) dan (2) UU a quo mengatur mengenai sewa jaringan milik BUMN Ketenagalistrikan yang dapat dilakukan oleh pembangkit swasta atau berpotensi milik BUMN non ketenagalistrikan yang merupakan pemegang perizinan usaha keenagalistrikan untuk kepentingan sendiri;
 
@@ -1502,7 +1499,7 @@ Pasal 42 Angka 8 Pasal 13 Ayat (l)
 - https://news.okezone.com/read/2016/04/02/340/1352398/tak-ada-pasokanlistrik-kepulauan-nias-gelap-gulita
 - https://www.merdeka.com/uang/ini-penyebab-terjadinya-pemadaman-listrikdi-nias-versi-pln.html
 
-**IV. PETITUM**
+## IV. PETITUM
 
 Berdasarkan hal-hal tersebut di atas, Para Pemohon memohon kepada Majelis Hakim Mahkamah Konstitusi untuk memutus sebagai berikut:
 
@@ -2235,13 +2232,13 @@ Berdasarkan hal-hal tersebut di atas, Para Pemohon memohon kepada Majelis Hakim 
 
 [2.2.1] Selain itu, untuk membuktikan memperkuat permohonannya, Pemohon telah menghadirkan 3 (tiga) ahli yakni Dr. Maruarar Siahaan, Shaun Sweeney, PhD., dan Ir. Nursyirwan serta 2 (dua) saksi yakni Dedi Firmansyah Sembiring dan Herdin Hironimus Zebua, yang pada pokoknya menerangkan sebagai berikut:
 
-**1. Dr. Maruarar Siahaan Pendahuluan**
+## 1. Dr. Maruarar Siahaan Pendahuluan
 
 Sebagai suatu produk perundang-undangan yang tunduk kepada pengujian berdasarkan kewenangan konstitusional MK, maka serangkaian prinsip dan norma konstitusi sangat mendasar untuk dipedomani ketika putusan MK yang mengabulkan permohonan pengujian melahirkan kebijakan baru sebagai politik hukum yang merupakan hasil tafsir terhadap norma konstitusi yang relevan. Sistem konstitusi dengan pemisahan kekuasaan dalam kerangka checks and balances di antara kekuasaan negara yang ada, mengandung prinsip dan konsekwensi yang tidak dapat diabaikan secara mudah atas dasar pemikiran bahwa kekuasaan yang dimilikinya tidak elok untuk dicampuri, meskipun merupakan amanat konstitusi. Hal demikian merupakan konsekwensi kekuasaan yang karakteristiknya cenderung membesar dan menolak secara diam-diam segala pengurangan atau kekangan terhadap kekuasaan yang dimiliki tersebut.
 
 Oleh karena nya menjadi sangat logis bahwa implementasi suatu putusan MK dalam judicial review yang menggariskan legal policy baru sebagai hasil tafsir atas norma konstitusi yang lahir dari proses dialektis dalam persidangan MK, tidak selalu disetujui pembentuk undang-undang. Angka-angka tentang hal itu jelas dapat dicatat dan bentuk non-compliance terhadap putusan MK dalam JR terhadap UU, dengan penyebab yang agaknya beragam. Hal itu mungkin terjadi, baik karena terjadinya perbedaan pemahaman dan tafsir, antara pembentuk undang-undang dengan judicial authority yang berwenang mereview, maupun pandangan secara filosofis, juridis, sosiologis dan terutama politis. Sesungguhnya perbedaan yang ada harus diikat dalam filosofi, pandangan hidup dan Grundnorm yang sama yaitu Pancasila. Tetapi perbedaan itu boleh jadi juga ditambah karena cara memandang permasalahan secara berbeda dalam perkembangan kurun waktu yang berubah, sehingga kecenderungan yang disebut menyebbabkan putusan MK yang telah secara sah diputuskan dan telah diumumkan dalam sidang terbuka untuk umum, tersendat implementasinya atau bahkan sebagaimana studi Tom Ginsburg, mencatat bahwa kadang-kadang terjadi perlawanan-serangan balik (counter attack) terhadap putusan MK tersebut. Dalam pengalaman MK.R.I. hal itu juga pernah terjdi atau bahkan sedang terjadi, yang sering menimbulkan kekawatiran bahwa mekanisme konstitusional yang tersedia dalam proses checks and balances sebagai sistem dan mekanisme konstitusional, tidak berhasil dipahami secara bersama. Kesulitan yang terjadi dan dialami saat ini, sesungguhnya menunjukkan persoalan mendasar, apakah ada pemahaman yang sama tentang dasar dan ideologi negara, pandangan hidup bangsa sebagaimana termuat dalam Pancasila dan UUD 1945 sebagai sumber dari segala sumber hukum Negara R.I.
 
-**Permohonan Judicial Review UU Cipta Kerja Tentang Beberapa Pasal Tentang Ketenaga Listrikan.**
+## Permohonan Judicial Review UU Cipta Kerja Tentang Beberapa Pasal Tentang Ketenaga Listrikan.
 
 Norma yang dimohon Pemohon untuk diuji dalam perkara No. 39/PUUXXI/2023 adalah utamanya adalah sebagai berikut :
 
@@ -2259,7 +2256,7 @@ Terhadap pengujian norma undang-undang tersebut, perkenankan kami memuasatkan pe
 - a. Sistem unbundling yang hidup Kembali setelah Putusan MK No.001021-022/PUU/2003 dan Putusan No.111 /PUU-XIII/2015.
 - b. Dihilangkannya Peran DPR dalam penentuan Rencana Umum Ketenaga Listrikan Nasional (RUKN).
 
-**a.Hidupnya Kembali system Unbundling.**
+## a.Hidupnya Kembali system Unbundling.
 
 Sistem 'unbundling' dalam Pasal 10 ayat (2) dan Pasal 11 ayat (1) UndangUndang Nomor 30 Tahun 2009 yang menggantikan UU Nomor 20 Tahun 2002 Tentang Ketenaga Listrikan yang telah diuji dan dinyatakan oleh MK sebagai bertentangan dengan konstitusi sehingga tidak mempunyai kekuatan hukum mengikat, yaitu sebagai system yang menentukan bahwa berbagai bidang usaha penyediaan tenaga Listrik yang dilakukan secara terpisah oleh badan usaha yang berbeda dan hilangnya penguasaan negara dalam usaha penyediaan tenaga listrik, bertentangan dengan Undang-Undang Dasar 1945. Pertentangan dimaksud dapat dilihat pada Pasal 33 khususnya ayat (2) yang menyatakan: 'Cabang-cabang produksi penting bagi negara dan yang menguasasi hajat hidup orang banyak dikuasi oleh negara'.
 
@@ -2273,7 +2270,7 @@ rujukan kepada Putusan MK terdahulu yaitu No.001-021-022/PUU/2003 secara jelas s
 
 Perhatian kita terpusat pada diundangkannya Kembali norma yang telah diuji dan dinyatakan bertentangan dengan UUD 1945 dan kemudian dinyatakan inkonstitusional bersyarat dalam Putusan tahun 2015 dalam putusan No.111 /PUUXIII/2015, tetapi diundangkan kembali dalam perubahan Undang-Undang yang telah diuji. Persoalan pokok saat ini adalah apakah hal demikian dibenarkan, dan bukan merupakan pelanggaran konstitusi yang juga dapat dilihat sebagai suatu contempt of court. Secara lebih tegas lagi patut dinyatakan bahwa hal demikian merupakan tindakan de-legitimasi terhadap konstitusi dalam UUD 1945, karena dapat menimbulkan kesan bahwa dalam system pemerintahan Indonesia Pembuat Undang-Undang/Presiden memiliki hak veto, sehingga dapat menimbulkan krisis konstitusi. Secara lebih khusus MK mengalami hal demikian Ketika Putusan MK tentang Anggaran Pendidikan yang tidak memenuhi 20% dari APBN dinyatakan bertentangan dengan UUD 1945. Akan tetapi Pemerintah tidak melaksanakan Putusan tersebut dan dalam beberapa tahun UU Anggaran yang ditetapkan tidak memenuhi angka 20% dari APBN, sehingga kemudian secara khusus dalam Putusan Nomor 013/PUU-VII/2008, MK memberi catatan dalam putusan tersebut yang menilai adanya kesengajaan pembentuk undang-undang melanggar UUD1945, dan jika dibiarkan akan berdampak pada berkembangnya sikap menisbikan kewajiban untuk menghormati dan menaati Undang-Undang Dasar sebagai norma hukum tertinggi dalam negara hukum, dan oleh karena itu penisbian kewajiban untuk menghormati dan menaati UUD 1945 sebagai norma hukum tertinggi dalam negara hukum, bahkan disadari atau tidak, merupakan de-legitimasi terhadap konstitusi sebagai hukum tertinggi.(Putusan MK No. 013/PUU-VI/2008 , (par 3.14. hal 99).
 
-**b.Hilangnya Peran DPR dalam penentuan Rencana Umum Ketenaga Listrikan Nasional (RUKN).**
+## b.Hilangnya Peran DPR dalam penentuan Rencana Umum Ketenaga Listrikan Nasional (RUKN).
 
 Bunyi Pasal 42 angka 5 Pasal 7 ayat (1) undang-undang a quo yang dimohon untuk diuji telah menghilangkan frasa 'setelah berkonsultasi dengan Dewan Perwakilan RakyatR.I. sehingga Undang-Undang yang baru dipandang telah meniadakan pentingnya fungsi pengawasan DPR RI dalam rencana umum energi nasional sebagaimana pernah diatur sebelumnya dalam Pasal 7 ayat (1) UU No 30 tahun 2009 tentang Ketenagalistrikan yang berbunyi 'Rencana umum ketenagalistrikan nasional disusun berdasarkan pada kebijakan energi nasional dan ditetapkan oleh Pemerintah setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia.'
 
@@ -2289,11 +2286,11 @@ dilakukan oleh wakil rakyat di DPR. Pengawasan dilakukan melalui persetujuanpers
 
 Oleh karenanya, Pasal 42 angka 5 Pasal 7 ayat (1) undang-undang a quo yang menghilangkan frasa 'setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia' diartikan telah meniadakan kedudukan berdaulat rakyat melalui fungsi pengawasan DPR RI dalam rencana umum energi nasional sebagaimana pernah diatur sebelumnya dalam Pasal 7 ayat (1) UU No 30 tahun 2009 tentang Ketenagalistrikan yang menyatakan bahwa 'Rencana umum ketenagalistrian nasional disusun berdasarkan pada kebijakan energi nasional dan ditetapkan oleh Pemerintah setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia', hala mana menurut hemat saya bertentangan dengan UUD 1945 tentang demokrasi dan kedaulatan Rakyat sebagai pemegang kekuasaan tertinggi, terhadap siapa kebijakan pembangunan dan ekonomi, dimaksudkan dan ditujukan.
 
-**Penutup.**
+## Penutup.
 
 Dengan konsistensi sikap untuk memegang teguh prinsip konstitusionalisme dan UUD 1945 yang memuat Pancasila sebagai dasar negara, falsafah dan pandangan hidup bangsa Indonesia, yang menjadi sumber kebijakan pemerintahan, hukum dan sosial ekonomi, menuntut kepatuhan terhadap UUD 1945 dalam kerangka mewujudkan Indonesia sebagai negara hukum berdasarkan konstitusionalisme. Tanpa menafikan terjadinya perubahan dalam pandangan, idee dan paham bernegara yang terjadi karena interaksi secara nasional dan internasional-global, ketika perubahan yang terjadi berdampak kepada penafsiran dan pandangan baru terhadap konsep dan prinsip-prinsip bernegara, hendaknya perubahan demikian tetap konsisten bahwa MK akan dipahami sebagai 'The ultimate interpreter of the constitution' yang akan terlihat dalam putusanputusannya atas issue konstitusional yang diajukan kepadanya. Jika relevansi penguasaan negara atas cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak, masih nyata ditengah-tengah perubahan nasional-internasional dan global, maka seyogianya seluruh komponen bangsa, terutama lembaga negara yang menjalankan kekuasaan pemerintahan, mentaati konstitusi berdasar interpretasi MK. Jkalau perubahan tidak dapat dielakkan karena perubahan zaman, hendaknya terlebih dahulu dilakukan perubahan konstitusi yang menjadi sumber hukum dan kebijakan sebagai rujukan bersama.
 
-**2. Shaun Sweeney, PhD.**
+## 2. Shaun Sweeney, PhD.
 
 The subject of this presentation is the international experience of electricity sector (hereafter: power sector) reform and its damaging effects on both public energy systems and the prospects of achieving a just energy transition consistent with the aims of the Paris Agreement.
 
@@ -2306,7 +2303,7 @@ The presentation will:
 
 The evidence suggests that Article 33 of Indonesia's Constitution represents the country's energy future; it is not a relic from the past, one that needs to be dispensed with. If Indonesia holds the line against the push to further privatise its power system, it will be joining the growing number of governments and social movements who seek an alternative 'public goods' approach to a just energy transition, one that does not incur debt and intensify the 'death spiral' of PLN.
 
-**Expansion, Not Transition**
+## Expansion, Not Transition
 
 I want to begin with a 'big picture' assessment of the global energy transition and the failings of the current approach.
 
@@ -2324,7 +2321,7 @@ https://www.unep.org/resources/emissions-gap-report-2023
 
 The main features of this failure is highly pertinent to the issues of energy transition and power sector reform in Indonesia and elsewhere. The private sector will not invest without guaranteed returns on investment; subsidies and various de-risking measures are driving renewables forward in the developed countries, and the South is being left behind. Today there is more wind and solar power installed in Spain than there is in the entire continent of Africa.
 
-**1. The experience of electricity sector reform and its impacts on electricity systems in developing countries.**
+## 1. The experience of electricity sector reform and its impacts on electricity systems in developing countries.
 
 There is now an extensive literature on the failures of power sector privatisations both in the OECD countries and in the Global South (GS).
 
@@ -2362,7 +2359,7 @@ Today the Bank proposes that developing country governments use capacity auction
 
 During the past year, many PPA contracts have been cancelled (especially in the offshore wind sectors in the EU and the US) due to rising interest rates and supply chain problems.
 
-**2. The logic and the performance of 'blended finance' policies that inform the Just Energy Transition Partnerships (JETPs)**
+## 2. The logic and the performance of 'blended finance' policies that inform the Just Energy Transition Partnerships (JETPs)
 
 The rationale for power sector reform and the promotion of IPPs is based on the perceived need to 'unlock' private investment because developing country governments do not have to money to invest themselves. This therefore boils down to the need to attract foreign capital.
 
@@ -2498,7 +2495,7 @@ Times
 
 32 Institute for Energy Economics &amp; Financial Analysis, IEEFA Report: China in 2017 Continued comparison, the US is expected to add 75 GW of privately owned wind and solar during the same period. 33 China is also in the middle of its 'fourth wave' of (fully public) nuclear power deployment. According to the World Nuclear Association, 26GW of nuclear power is under construction; 50GW of additional capacity has been approved, and 95GW of capacity has been proposed. Its hydrogen program, also public, is more ambitious than anything seen elsewhere in the world. 34
 
-**4. Conclusion: Reclaim and Restore Public Energy**
+## 4. Conclusion: Reclaim and Restore Public Energy
 
 Article 33 of Indonesia's Constitution represents the country's energy future; it is not a relic from the past, one that needs to be dispensed with. If Indonesia holds the line against the push to further privatise its power system, it will be joining the growing number of governments and social movements who seek an alternative 'public goods' approach to a just energy transition, one that does not incur debt and intensify the 'death spiral' of PLN.
 
@@ -2536,7 +2533,7 @@ I believe that Article 33 of Indonesia's Constitution represents the country's e
 
 36 The CIPP acknowledges the written contributions from the Boston Consulting Group, the Climate Policy Initiative (CPI), Global Green Growth Institute (GGGI), and the Tony Blair Institute for Global Change. All of these entities support privatization of energy.
 
-**Transferring Control, Eviscerating Article 33**
+## Transferring Control, Eviscerating Article 33
 
 JETP financing comes with strings attached. The JETP with South Africa, the first of its kind, set the tone. It states that financing would contingent upon unbundling of the public utility. 37 The JETP statement between the IPG and the GOI called for a 'clear strategy for private sector engagement,' detailing 'policy reforms necessary to address any regulatory barriers.' 38 The designers of the JETP with Indonesia do not want to explicitly confront Article 33; but the innocuous language of Law No 6, which allows for private sector 'participation' in the power sector, will allow this objective to be achieved via the 'back door.'
 
@@ -2561,7 +2558,7 @@ https://www.adb.org/sites/default/files/institutional-document/640096/cps-ino-20
 
 39 JETP CIPP. Page 199
 
-**Resisting Privatisation, Reclaiming Control**
+## Resisting Privatisation, Reclaiming Control
 
 A growing number of developing country governments have taken measures to either halt or reverse the process of privatisation through IPPs, PPAs, 'unbundling' etc. and, in some cases, begin to reverse it. Some examples are as follows:
 
@@ -2599,7 +2596,7 @@ https://base.energia.gob.mx/dgaic/DA/P/SubsecretariaElectricidad/ConjuntosProyec
 
 help address climate change, and can protect energy sovereignty and security.
 
-**Rethinking Power Sector Reform**
+## Rethinking Power Sector Reform
 
 It is important to note that JETP-led privatisation is being promoted at a time when privatisation is being questioned by some of the key institutions that designed it. For example, the World Bank, which has promoted power sector privatisation for more than 30 years, has started to question its own policy.
 
@@ -2617,7 +2614,7 @@ https://documents1.worldbank.org/curated/en/125631646691659376/pdf/South-Africa-
 
 50 Andrew Prag (IEA), Dirk Ruttgers and Ivo Scherrer (OECD), State Owned Enterprises and the Low Carbon Transition - Environment Working Paper No. 129. 2016 www.oecd.org/environment/workingpapers.htm
 
-**The Public Pathway**
+## The Public Pathway
 
 However, from a climate protection perspective, resisting privatisation and preserving state control is not enough. The transition to a low-carbon energy system in Indonesia and globally will require a different kind of energy transition. It will require a policy shift towards a public pathway model, where state control and public financing can be the drivers of economy wide decarbonisation based on prudent energy planning within a framework of global public goods. 55
 
@@ -2639,7 +2636,7 @@ The fact that global GHG levels are rising when they should be falling must be s
 
 Therefore if Indonesia holds the line against pressure to privatise its power generation and undermine the viability of PLN, it will be joining the growing number of governments who are, in one form or another, looking for an alternative approach to a just energy transition. In the light of the evidence presented during this hearing, Article 33 is a national treasure with global significance. I believe it should be protected because it opens the door to an alternative pro-public pathway to energy transition.
 
-**The JETP will not provide the capital necessary for the energy transition.**
+## The JETP will not provide the capital necessary for the energy transition.
 
 Unfortunately, it is the big financial sector players who are writing the policy. The JETPs with Indonesia, Vietnam, South Africa have been presented by the rich countries (the 'International Partners Group') 58 to help the Global South finance its transition away from coal. The JETPs have been designed to 'mobilise' finance in the form of both concessional and commercial loans, but this finance is contingent upon changes in government policy.
 
@@ -2694,9 +2691,9 @@ finance, better world (2018) Consultation paper of the Blended Finance Taskforce
 - Be unable to mobilise or catalyse significant level private investment
 - Transfer risk from the private to the public sector. 67
 
-**3. Ir. Nursyirwan**
+## 3. Ir. Nursyirwan
 
-**Unbundling Ketenagalistrikan**
+## Unbundling Ketenagalistrikan
 
 Desakan untuk privatisasi kepemilikan dan liberalisasi pasar selama 1980/90s. Permintaan kelistrikan tumbuh lebih cepat dari bentuk energi lain Investasi kapasitas yang besar dibutuhkan untuk mempertahankan pertumbuhan ekonomi. Asumsi bahwa struktur pasar yang kompetitif akan membawa perubahan industri menjadi lebih effisien, tarif yang lebih murah dan meningkatkan pelayanan pada konsumen, Tetapi hal ini sangat aman dan terkendali bila dilakukan oleh pemerintah yang bersih. Seperti Jepang dan Prancis yang masih menggunakan system terintagrasi (vertical Integration), seluruhnya dikelola oleh Pemerintah. Usaha ketenagalistrikan secara konsep terbagi menjadi 2, yakni untuk kepentingan sendiri dan untuk kepentingan umum. Usaha ketenagalistrikan untuk kepentingan umum terdiri dari Usaha PEMBANGKITAN, TRANSMISI, DISTRIBUSI, dan PENJUALAN LISTRIK, Dalam keterangan saya saat ini, akan banyak terfokus pada usaha ketenagalistrikan untuk kepentingan umum pada bagian pembangkit. Sistem kegiatan usaha penyediaan ketenagalistrikan dikenal dalam dua jenis yaitu tidak terpisahnya usaha pembangkitan, transmisi, distribusi, dan penjualan listrik (bundling). Sistem lainnya yaitu dalam bentuk terpisahnya usaha pembangkitan, transmisi, distribusi, dan penjualan listrik (unbundling). Menurut Jones, unbundling is separating generation from transmission from distribution for the electrics (Jefri Porkonanta Tarigan, Inkonstitusionalitas Sistem Unbundling dalam Usaha Penyediaan Listrik, Jurnal Konstitusi, Volume 15, Nomor 1, Maret 2018. Pengertian umum tentang praktek Unbundling dapat juga dimaknai negara membeli Listrik dair IPP (Independent Power Producer)/Pembangkit yang tidak
 
@@ -2704,13 +2701,13 @@ dimiliki oleh negara dan diperbolehkannya IPP tersebut ke sistem Jaringan Milik 
 
 67 https://odi.org/en/publications/blended-finance-in-the-poorest-countries-the-need-for-a-betterapproach/
 
-**Kebutuhan negara dalam penyediaan listrik kekinian**
+## Kebutuhan negara dalam penyediaan listrik kekinian
 
-**Sisi Pebisnis PJBTL**
+## Sisi Pebisnis PJBTL
 
 Saat ini ada keinginan yang tinggi dari pihak pemasok, khususnya IPP bahwa kompetisi di bisnis pembangkitan sepertinya harus memenuhi tingkat pelayanan secara effisien, karena ada nilai financial dari setiap layanan yang diberikan oleh perusahaan pembangkitan.
 
-**Sisi Customer, khususnya Rakyat Indonesia**
+## Sisi Customer, khususnya Rakyat Indonesia
 
 Sebagian besar Rakyat Indonesia, sangat mengandalkan listrik yang murah dan terjangkau. Hal itu hanya dapat dilakukan oleh Negara/ Pemerintah yang dapat memberikan keterjaminan, karena adanya kebijakan sosial Pemerintah/Negara untuk memajukan dan mensejahterakan rakyatnya. (Belajar sampai malam hari, s/d jam 21.00), pada hal itu adalah jam peak ( beban puncak ) pada system yang terintegrasi dan tariff listrik jam-jam tersebut harganya mahal.
 
@@ -2725,13 +2722,13 @@ Untuk mendukung hal diatas, maka harus ada Typical market structure seperti :
 
 Typical yang cocok untuk diatas adalah : Vertical Intergration yaitu Sistem atau Model Monopoly.
 
-**Vertical Integration**
+## Vertical Integration
 
 <!-- image -->
 
-***Disco = Distribution Company**
+## *Disco = Distribution Company
 
-**Perbandingan Kapasitas Pembangkit**
+## Perbandingan Kapasitas Pembangkit
 
 Direktur Utama PLN Darmawan Prasodjo memaparkan dalam rapat Dengar Pendapat Bersama komisi VII DPR RI, Rabu (8/2/2023) bahwa system kelistrikan Jawa-Bali hingga 2019 masih dalam batas ideal. Adapun reserve margin atau cadangan daya ditahun 2019 tercatat sebesar 32%.
 
@@ -2788,7 +2785,7 @@ penyediaan Listrik, sudah sewajarnya berbagai pembangkit yang pada faktanya juga
 
 [2.2.2] Saksi Dedi Firmansyah Sembiring dan Herdin Hironimus Zebua pada pokoknya menyampaikan keterangan sebagai berikut:
 
-**1. Dedi Firmansyah Sembiring**
+## 1. Dedi Firmansyah Sembiring
 
 - Bahwa saksi bekerja di PT PLN (Persero) mulai November 2009 sampai dengan saat ini di UP2K Sumatra Utara sejak November 2023 dan pada bulan November 2009 saya ditempatkan bekerja di PT PLN (Persero) Area Nias sebagai staff pelayanan pelanggan;
 - Bahwa pada tahun 2016 saksi masih bekerja di PT PLN (Persero) Area Nias dengan jabatan supervisor pelayanan pelanggan rayon Teluk Dalam, Nias Selatan;
@@ -2802,7 +2799,7 @@ penyediaan Listrik, sudah sewajarnya berbagai pembangkit yang pada faktanya juga
 - Bahwa menurut saksi, sekitar hari keempat dan kelima pemadaman terjadi, mulai masuk Genset milik PT PLN (Persero) dari luar pulau Nias untuk menyalakan listrik secara bergiliran per kampung berdasarkan ketersediaan dan kemampuan Genset;
 - Bahwa menurut saksi, hal tersebut diketahui terjadi sampai dengan hari ke tiga belas sejak pemadaman listrik terjadi dan pada hari ke empat belas sejak pemadaman yang saksi ketahui Pembangkit Swasta yang bernama American Power Rent mulai beroperasi kembali.
 
-**2. Herdin Hironimus Zebua.**
+## 2. Herdin Hironimus Zebua.
 
 - Bahwa pada tahun 2016 saksi bekerja sebagai operator pembangkit di unit PLTD Moawo Gunung Sitoli, Nias milik PT PLN (Persero) sampai pensiun tahun 2022;
 - Bahwa posisi keberadaan unit PLTD Moawo Gunung Sitoli tempat saksi bekerja bersebelahan dengan mesin Pembangkit Swasta yang bernama American Power Rent;
@@ -2827,11 +2824,11 @@ di Pulau Nias berdasarkan arahan dari supervisor operasi dan bagian distribusi r
 
 [2.3] Menimbang bahwa terhadap permohonan para Pemohon, Dewan Perwakilan Rakyat (DPR) telah menyampaikan keterangan dalam persidangan pada tanggal 28 November 2023 dan telah pula menyerahkan keterangan tertulis yang diterima Kepaniteraan Mahkamah pada hari yang sama yakni tanggal 28 November 2023 yang pada pokoknya menerangkan sebagai berikut:
 
-**A. KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON**
+## A. KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON
 
 Terkait kedudukan hukum (legal standing) Para Pemohon dalam pengujian Undang-Undang a quo secara materiil, DPR RI memberikan pandangan berdasarkan 5 (lima) batasan kerugian konstitusional berdasarkan Pasal 4 ayat (2) Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2021 tentang Tata Beracara Dalam Perkara Pengujian Undang-Undang yang sejalan dengan Putusan MK Perkara Nomor 006/PUU-III/2005 dan Putusan Perkara Nomor 001/PUUV/2007 mengenai parameter kerugian konstitusional sebagai berikut:
 
-**1. Adanya hak dan/atau kewenangan konstitusional Para Pemohon yang diberikan oleh UUD NRI Tahun 1945**
+## 1. Adanya hak dan/atau kewenangan konstitusional Para Pemohon yang diberikan oleh UUD NRI Tahun 1945
 
 Bahwa Para Pemohon terdiri atas 119 (seratus Sembilan belas) Pemohon, yang membagi kedudukan hukumnya dalam 2 (dua) klaster, yaitu (1) Kelompok orang yang mempunyai kepentingan sama melalui 10 (sepuluh) organisasi serikat pekerja, dan (2) Klaster Perorangan sebagai Pekerja. Para Pemohon mendalilkan memiliki hak dan/atau
 
@@ -2889,9 +2886,9 @@ Bahwa sebagaimana berlakunya adagium hukum 'tiada gugatan tanpa hubungan hukum' 
 
 Berdasarkan pada hal-hal yang telah disampaikan tersebut, DPR RI berpandangan bahwa Para Pemohon tidak memiliki kedudukan hukum (legal standing) karena tidak memenuhi Pasal 51 ayat (1) dan Penjelasan Pasal 51 ayat (1) Undang-Undang tentang Mahkamah Konstitusi, serta tidak memenuhi persyaratan kerugian konstitusional yang diputuskan dalam putusan Mahkamah Konstitusi terdahulu. Namun demikian, terhadap kedudukan hukum Para Pemohon, DPR RI menyerahkan sepenuhnya kepada kebijaksanaan Yang Mulia Majelis Hakim Konstitusi untuk mempertimbangkan dan menilai apakah Para Pemohon memiliki kedudukan hukum.
 
-**B. KETERANGAN DPR RI**
+## B. KETERANGAN DPR RI
 
-**1. Pandangan Umum**
+## 1. Pandangan Umum
 
 - a. Bahwa pembangunan sektor ketenagalistrikan bertujuan untuk memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa guna mewujudkan tujuan pembangunan nasional, yaitu menciptakan masyarakat adil dan makmur yang merata materiil dan spiritual berdasarkan Pancasila dan UUD NRI Tahun 1945. Tenaga listrik, sebagai salah satu hasil pemanfaatan kekayaan alam, mempunyai peranan penting bagi negara dalam mewujudkan pencapaian tujuan pembangunan nasional.
 - b. Pemerintah pusat dan pemerintah daerah menyelenggarakan usaha penyediaan tenaga listrik yang pelaksanaannya dilakukan oleh badan usaha milik negara dan badan usaha milik daerah. Selain itu, untuk lebih meningkatkan kemampuan negara dalam penyediaan tenaga listrik, undang-undang yang mengatur ketenagalistrikan memberi kesempatan kepada badan usaha swasta, koperasi, dan swadaya masyarakat untuk berpartisipasi dalam usaha penyediaan tenaga listrik. Sesuai dengan prinsip otonomi daerah, pemerintah atau pemerintah daerah sesuai dengan kewenangannya menetapkan izin usaha penyediaan tenaga listrik.
@@ -2904,7 +2901,7 @@ Berdasarkan pada hal-hal yang telah disampaikan tersebut, DPR RI berpandangan ba
 
 Sektor ketenagalistrikan menjadi salah satu materi muatan yang diatur pada UU 6/2023 tersebut.
 
-**2. Pandangan Terhadap Pokok Permohonan**
+## 2. Pandangan Terhadap Pokok Permohonan
 
 - a. Bahwa Para Pemohon mendalilkan adanya kata 'dapat' pada Usaha Penyediaan Tenaga Listrik untuk kepentingan umum sebagaimana diatur Pasal 42 angka 6 Pasal 10 ayat (2) dan Pasal 42 angka 7 Pasal 11 ayat (1) UU 6/2023 bertentangan dengan Putusan Mahkamah Konstitusi No. 111/PUU-XIII/2015 karena ketentuan a quo mengartikan keempat jenis usaha ketenagalistrikan (usaha pembangkitan listrik, usaha transmisi tenaga listrik, distribusi tenaga listrik, dan penjualan tenaga listrik dilakukan secara terpisah/tidak terintegrasi (unbundled)) (vide Perbaikan Permohonan hlm. 63).
 
@@ -3006,7 +3003,7 @@ Dengan demikian, DPR RI berkesimpulan adanya Petitum Pemohon yang ingin membatal
 - e. Para Pemohon mendalilkan bahwa Pasal 42 angka 6 Pasal 7 ayat (1) UU 6/2023 meniadakan pengawasan publik melalui kontrol DPR RI dalam menetapkan Rencana Umum Ketenagalistrikan Nasional (vide Perbaikan Permohonan hlm. 76), DPR RI memberikan pandangan sebagai berikut:
 - a) Bahwa Rencana Umum Ketenagalistrikan Nasional disusun berdasarkan kebijakan energi nasional dan ditetapkan oleh Pemerintah Pusat, hal tersebut bukanlah bentuk inkonstitusionalitas suatu norma. Rencana Umum Ketenagalistrikan adalah rencana pengembangan sistem penyediaan Tenaga Listrik yang meliputi bidang Pembangkitan Tenaga Listrik, Transmisi Tenaga Listrik, dan Distribusi Tenaga Listrik yang diperlukan untuk memenuhi kebutuhan
 
-**Tenaga Listrik.**
+## Tenaga Listrik.
 
 - b) Rencana Umum Ketenagalistrikan Nasional (RUKN) merupakan acuan dalam pembangunan dan pengembangan sektor ketenagalistrikan di masa yang akan datang bagi pemerintah daerah dan Pemegang Izin Usaha Penyediaan Tenaga Listrik (IUPTL), khususnya yang memiliki wilayah usaha. Peranan RUKN akan semakin penting dengan adanya dinamika lingkungan strategis baik dalam lingkup lokal, nasional, regional maupun global. RUKN ini akan mendorong peningkatan partisipasi Badan Usaha Milik Daerah, badan usaha swasta, koperasi dan swadaya masyarakat pada pembangunan sektor ketenagalistrikan.
 
@@ -3016,7 +3013,7 @@ Dalam hal penyusunan RUKN Pemerintah Pusat mengundang seluruh Pemerintah Daerah 
 
 - c) Bahwa tidak dicantumkannya lagi frasa setelah berkonsultasi dengan DPR RI dalam Pasal a quo merupakan hal yang telah disepakati bersama antara DPR RI dan Pemerintah sejak proses pembahasan Rancangan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja yang kemudian (RUU 11/2020). Mengingat substansi materi muatan Pasal a quo dibahas pada RUU 11/2020 yang tidak diubah UU 6/2023, maka DPR RI merujuk pembahasan Panja RUU 11/2020 tanggal 3 September sebagai berikut:
 
-**PEMERINTAH:**
+## PEMERINTAH:
 
 Mohon izin Pak, direncana umum ketenagalistrikan nasional itu adalah mencakup seluruh aspek di bidang ketenagalistrikan baik dari sisi dari sisi perencanaan Pak seperti transmisi seperti yang dikatakan iya Pak bahwa ada transmisi distribusi pembangkit yang akan dikembangkan untuk tahun ke depan termasuk alternatif energi alternatif apa yang akan digunakan saya kira semua masuk di dalam rencana umum ketenagalistrikan nasional Pak.
 
@@ -3026,13 +3023,13 @@ tidak Pak. ANGGOTA PANJA:
 
 Pimpinan, ini memang masalah frasa konsultasi ini perlu suatu apa namanya ya perlu suatu pengetahuan ya karena konsultasi sebenarnya juga tidak mengikat. Pada waktu saya di Komisi II dengan KPU itu Pimpinan, kita kan setiap hasil keputusan Mahkamah Konstitusi bahwa KPU setiap akan mengambil keputusan wajib berkonsultasi tetapi konotasi konsultasi itu ternyata tidak mengikat bisa dilaksanakan, bisa tidak boleh bantu saya membaca ya karena prinsipnya cipta kerja ini kan mau menyederhanakan. Oleh karena itu saya sepakat dengan usulan Pemerintah bahwa apa memasukkan norma konsultasi itu saya rasa tidak perlu karena itu sudah terlampau teknis gitu. Nah nanti ketika pelaksanaannya ada pelanggaran ya kita bakalan fungsi pengawasannya diperketat di situ. Jadi menurut pandangan seperti itu jadi ini kan prinsipnya ini kan penyederhanaan jangan sampai hal yang sangat teknis itu semua masuk di DPR agar nanti fungsi legislatif juga masuk ke pada fungsi eksekutif. Terima kasih. …
 
-**WAKIL KETUA RAPAT / F - PDIP (Drs. M. NURDIN, MM):**
+## WAKIL KETUA RAPAT / F - PDIP (Drs. M. NURDIN, MM):
 
-**….**
+## ….
 
 Jadi yang 2857 ya tadi setuju ya? Ya tadi karena apa banyakan diserahkan oleh Pak ini Pemerintah, rencana umum ketenagalistrikan nasional, di mana yang tadi rencana yang lebih rinci ada di situ ya? Baik terima kasih, setuju ya?
 
-**(RAPAT : SETUJU)**
+## (RAPAT : SETUJU)
 
 - d) Bahwa sejalan dengan apa yang disepakati mengenai fungsi pengawasan DPR RI, DPR RI berpandangan pelaksanaan fungsi pengawasan DPR RI terhadap kinerja Pemerintah, dalam hal ini bidang ketenagalistrikan tentu tetap dilakukan, misalnya melalui rapat-rapat pengawasan yang dilakukan bersama antara DPR RI dengan Pemerintah. Selain itu, terdapat ketentuan lain yang melibatkan persetujuan DPR RI, hal ini sebagaimana diatur Pasal 46 angka 24 Pasal 34 ayat (1) UU 6/2023 berikut:
 
@@ -3066,7 +3063,7 @@ Dengan demikian, apabila dalam perkembangannya terdapat hal lain yang perlu diat
 
 - k. DPR RI berpendapat bahwa Pasal-Pasal a quo UU 6/2023 telah mengatur hal yang sudah sesuai dengan asas peraturan perundangundangan yang baik guna menjawab kebutuhan hukum ketenagalistrikan saat ini sehingga telah sejalan dengan Pasal 28C ayat (1), 28D ayat (1), Pasal 33 ayat (2) UUD NRI Tahun 1945.
 
-**II. RISALAH PEMBAHASAN**
+## II. RISALAH PEMBAHASAN
 
 1. Rapat Panja Rancangan undang-Undang Undang-Undang Cipta Kerja dengan DPD dan Pemerintah (Kamis, 3 September 2020)
 - TA BALEG (WIDODO):
@@ -3085,15 +3082,15 @@ PPP tetap, mohon maaf dari PPP berpendapat Pasal 7 ayat 3 dan ayat 4 Undang-Unda
 
 Jadi Pak Ketua, kalau 2857 ini konsekuensinya ada dua, secara umum tidak ada masalah sebenarnya. Yang pertama adalah akan hilang konsultasi itu ke parlemen, satu, yang kedua juga ke Dewan Perwakilan Daerah. Tapi kalau pengaturan umumnya sudah selaras. Nah yang ketiga penetapan peraturan di tingkat menteri itu ditingkatkan menjadi Peraturan Pemerintah, kalau itu kan kita sudah sepakat kalau itu. Nah tinggal apakah penetapan menyangkut soal rencana umum tadi ketenagalistrikan itu tidak perlu mendapatkan. Sebenarnya konsultasi sih apa ya ndak ada juga anunya ya namanya konsultasi.
 
-**- F - PKS (Hj. LEDIA HANIFA AMALIA, S.Si., M. Psi., T.):**
+## - F - PKS (Hj. LEDIA HANIFA AMALIA, S.Si., M. Psi., T.):
 
 Pimpinan juga itu nanti di 2855 kalau 2855 konsultasi dengan DPR RI, 2857 dengan DPRD.
 
-**- ANGGOTA PANJA:**
+## - ANGGOTA PANJA:
 
 Iya, cuman ya tadi itu apa sih indikasinya kalau konsultasi.
 
-**- F-PDIP (STURMAN PANJAITAN, S.H.):**
+## - F-PDIP (STURMAN PANJAITAN, S.H.):
 
 Izin Pimpinan, saya nambah sedikit.
 
@@ -3101,13 +3098,13 @@ Kenapa Pemerintah enggak mau konsultasi dengan DPR RI? Alasannya apa Pak? Apa su
 
 Maksud saya gini, harga dasar juga Pak itu pengaruh kepada daerah. Kemudian termasuk dikatakan Pak (rekaman terputus) termasuk tentang daerah yang mau dibangun wilayah mana, konsultasi saja Bapak enggak mau gimana ceritanya, terima kasih.
 
-**- ANGGOTA PANJA:**
+## - ANGGOTA PANJA:
 
 Sebenarnya begini Bapak, jadi yang kami kenal dengan DPR itu kan persetujuan atau penetapan Pak, yang itu tadi dibilang oleh Pak Ketua konsultasi ini bentuknya sampai saat ini kita masih belum fix seperti apa. Iya iya jadi itu Pak sebenarnya Pak. Nah ini definisi batasan konsultasi kan yang sampai saat ini yang kami belum nah karena itu karena yang kami kenal adalah persetujuan atau penetapan maka menurut hemat kami tidak masuk persetujuan atau penetapan maka cukup dilakukan oleh Pemerintah saja. Kemudian mengenai penjelasan rencana umum
 
 ketenagalistrikan mungkin tambah dibetulin Pak, muatannya apa.
 
-**- PEMERINTAH:**
+## - PEMERINTAH:
 
 Mohon izin Pak, direncana umum ketenagalistrikan nasional itu adalah mencakup seluruh aspek di bidang ketenagalistrikan baik dari sisi dari sisi perencanaan Pak seperti transmisi seperti yang dikatakan iya Pak bahwa ada transmisi distribusi pembangkit yang akan dikembangkan untuk tahun
 
@@ -3137,7 +3134,7 @@ Ledia. Berkaitan dengan rencana umum kelistrikan ketenagalistrikan nasional tent
 
 Ini ya latar belakang. Ini kan perlindungan. Padahal nanti minta saja Pak beberapa ini lah biar baca sendiri. Jadi yang 2857 ya tadi setuju ya? Ya tadi karena apa banyakan diserahkan oleh Pak ini Pemerintah, rencana umum ketenagalistrikan nasional, di mana yang tadi rencana yang lebih rinci ada di situ ya? Baik terima kasih, setuju ya?
 
-**(RAPAT : SETUJU)**
+## (RAPAT : SETUJU)
 
 - III. PETITUM DPR RI
 
@@ -3153,7 +3150,7 @@ Apabila Yang Mulia Majelis Hakim Mahkamah Konstitusi berpendapat lain, mohon put
 
 [2.4] Menimbang bahwa terhadap permohonan para Pemohon, Presiden telah menyampaikan keterangan lisan dalam persidangan pada tanggal 14 November 2023 dan telah pula menyerahkan keterangan tertulis tambahan beserta lampirannya yang diterima Kepaniteraan pada tanggal 13 Februari 2024 yang pada pokoknya menerangkan sebagai berikut:
 
-**I. POKOK PERMOHONAN PARA PEMOHON**
+## I. POKOK PERMOHONAN PARA PEMOHON
 
 1. Bahwa ketentuan Pasal 42 angka 5 Lampiran UU CK bertentangan dengan ketentuan Pasal 28C ayat (1), Pasal 28D ayat (1), dan Pasal 33 ayat (2) UUD NRI 1945 dengan alasan sebagai berikut:
 - a. bahwa dengan dihilangkannya frasa 'setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia' dalam ketentuan Pasal 42 angka 5 Lampiran UU CK yang mengubah ketentuan Pasal 7 ayat (1) Undang-Undang Nomor 30 Tahun 2009 tentang Ketenagalistrikan (selanjutnya disebut UU Ketenagalistrikan) telah meniadakan fungsi
@@ -3179,11 +3176,11 @@ Padahal, seharusnya penjualan kelebihan pasokan tenaga listrik hanya dapat dilak
 - a. Bahwa diperbolehkannya sewa jaringan dalam ketentuan Pasal 42 angka 23 Lampiran UU CK yang mengubah ketentuan Pasal 33 UU Ketenagalistrikan merugikan masyarakat karena kerentanan terjadinya gangguan padam listrik akibat ketidakmampuan mengangkat beban listrik (blackout) dan penyalahgunaan sewa jaringan oleh perusahaan pembangkit swasta secara inkonstitusional.
 - b. bahwa sewa jaringan sangat mungkin terjadi pada bagian transmisi dapat juga digunakan oleh pemegang perizinan berusaha ketenagalistrikan untuk kepentingan sendiri yang berpotensi menimbulkan terganggunya usaha penyediaan tenaga listrik untuk kepentingan umum, sehingga menyebabkan listrik padam (blackout) dan merugikan masyarakat pada umumnya.
 
-**II. KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON**
+## II. KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON
 
 Dalam perkara a quo ini, izinkanlah Pemerintah memberikan tanggapan terhadap kedudukan hukum (legal standing) Para Pemohon. Menurut Pemerintah, Para Pemohon tidak dalam posisi dirugikan, dikurangi, atau setidak-tidaknya dihalang-halangi hak konstitusionalnya akibat keberlakuan ketentuan-ketentuan a quo UU CK yang dimohonkan dengan alasan sebagai berikut:
 
-**A. Ketentuan-ketentuan mengenai Kedudukan Hukum (Legal Standing)**
+## A. Ketentuan-ketentuan mengenai Kedudukan Hukum (Legal Standing)
 
 Bahwa, sesuai dengan ketentuan Pasal 51 ayat (1) Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan Undang-Undang Nomor 8 Tahun 2011 tentang Perubahan atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (selanjutnya disebut UU MK) jelas mengatur Pemohon adalah pihak yang menganggap hak dan / atau kewenangan konstitusionalnya telah dirugikan dengan berlakunya undang-undang, yang meliputi :
 
@@ -3208,7 +3205,7 @@ Bahwa, sesuai dengan putusan Mahkamah Konstitusi Nomor 006/PUUIII/2005 dan Nomor
 
 5. Adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian konstitusional yang didalilkan tidak akan atau tidak lagi terjadi.'
 
-**B. Tanggapan Pemerintah atas uraian kedudukan hukum (Legal Standing) Para Pemohon.**
+## B. Tanggapan Pemerintah atas uraian kedudukan hukum (Legal Standing) Para Pemohon.
 
 1. Bahwa Para Pemohon mengelompokkan diri menjadi 2 (dua) Klaster yaitu Klaster Kelompok Orang yang Mempunyai Kepentingan Sama melalui organisasi serikat pekerja dan Klaster Perorangan sebagai pekerja;
 
@@ -3224,9 +3221,9 @@ Oleh karena itu, menurut Pemerintah adalah tepat dan sangat beralasan hukum dan 
 
 Namun demikian, Pemerintah menyerahkan sepenuhnya kepada Yang Mulia Ketua dan Majelis Hakim Konstitusi untuk mempertimbangkan dan menilai apakah Para Pemohon memiliki kedudukan hukum (legal standing) atau tidak, sebagaimana yang ditentukan oleh Pasal 51 ayat (1) Undang-undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan Undang-Undang Nomor 8 Tahun 2011, maupun berdasarkan putusan-putusan Mahkamah Konstitusi terdahulu.
 
-**III. KETERANGAN PEMERINTAH ATAS MATERI PERMOHONAN YANG DIMOHONKAN UNTUK DIUJI**
+## III. KETERANGAN PEMERINTAH ATAS MATERI PERMOHONAN YANG DIMOHONKAN UNTUK DIUJI
 
-**1. LATAR BELAKANG PENGATURAN SUB SEKTOR KETENAGALISTRIKAN DI DALAM UU CK**
+## 1. LATAR BELAKANG PENGATURAN SUB SEKTOR KETENAGALISTRIKAN DI DALAM UU CK
 
 Pembukaan UUD NRI 1945 mengamanatkan bahwa tujuan pembentukan Negara Republik Indonesia adalah mewujudkan masyarakat yang sejahtera, adil, makmur, yang merata, baik materil maupun spiritual. Sejalan dengan tujuan tersebut, Pasal 27 ayat (2) UUD NRI 1945 menyebutkan bahwa "Tiaptiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan', oleh karena itu Negara perlu melakukan berbagai upaya atau tindakan untuk memenuhi hak-hak warga negara untuk memperoleh pekerjaan dan penghidupan yang layak. Pemenuhan hak atas pekerjaan dan penghidupan yang layak pada prinsipnya merupakan salah satu aspek penting dalam pembangunan nasional yang dilaksanakan dalam rangka pembangunan manusia Indonesia seutuhnya.
 
@@ -3350,7 +3347,7 @@ Sehubungan dengan dalil Para Pemohon dalam permohonannya, Pemerintah memberikan 
 - a. bahwa dengan dihilangkannya frasa 'setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia' dalam ketentuan Pasal 42 angka 5 Lampiran UU CK yang mengubah ketentuan Pasal 7 ayat (1) UU Ketenagalistrikan telah meniadakan fungsi pengawasan DPR dalam penyusunan RUKN.
 - b. bahwa kelebihan pasokan listrik harus ditanggung oleh negara melalui APBN (vide Surat Menteri BUMN kepada Menteri ESDM Nomor S756/MBU/09/202), sehingga apabila terjadi kesalahan perencanaan ketenagalistrikan dalam RUKN menyebabkan kurangnya pemenuhan kebutuhan dasarnya berupa listrik bagi masyarakat Indonesia.
 
-**Pemerintah memberikan keterangan sebagai berikut:**
+## Pemerintah memberikan keterangan sebagai berikut:
 
 - a. Bahwa ketentuan Pasal 42 angka 5 Lampiran UU CK yang menyatakan 'Rencana Umum Ketenagalistrikan Nasional disusun berdasarkan Kebijakan Energi Nasional dan ditetapkan oleh Pemerintah Pusat,' tidak menghilangkan fungsi pengawasan DPR RI dalam usaha penyediaan tenaga listrik dengan penjelasan sebagai berikut:
 - 1) Bahwa tidak dicantumkannya lagi frasa 'setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia' dalam ketentuan Pasal 42 angka 5 Lampiran UU CK merupakan hal yang telah disepakati bersama dengan Dewan Perwakilan Rakyat sejak pembahasan Rancangan Undang-Undang tentang Cipta Kerja yang kemudian menjadi Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (selanjutnya disebut UU CK Lama), sehingga ketentuan Pasal 42 angka 5 Lampiran UU CK merupakan norma yang sama dengan ketentuan Pasal 42 angka 5 UU CK Lama yang sama-sama mengubah ketentuan Pasal 7 ayat (1) UU Ketenagalistrikan;
@@ -3377,7 +3374,7 @@ Bahwa berdasarkan uraian di atas, telah jelas dalil Para Pemohon adalah tidak be
 - bertentangan dengan Putusan MK Nomor 111/PUU-XIII/2015 dan Pasal 33 ayat (2) UUD NRI 1945.
 - b. bahwa ketentuan Pasal 42 angka 6 UU CK menimbulkan ketidakpastian hukum sehingga bertentangan dengan Pasal 33 ayat (2) UUD NRI 1945,
 
-**Pemerintah memberikan keterangan sebagai berikut:**
+## Pemerintah memberikan keterangan sebagai berikut:
 
 - a. Bahwa amar Putusan MK Nomor 111/PUU-XIII/2015 angka 2 menyatakan sebagai berikut:
 
@@ -3418,19 +3415,19 @@ dalam kegiatan usaha penyediaan tenaga listrik untuk kepentingan umum dengan pen
 
 - 4) Bahwa fungsi pengelolaan (beheersdaad) oleh negara tidak hilang, dibuktikan dengan kepemilikan negara atas 100% (seratus persen) saham pada PT PLN (Persero) yang merupakan pelaksana usaha penyediaan tenaga listrik berdasarkan ketentuan Pasal 42 angka 2 dan angka 3 Lampiran UU CK (yang mengubah ketentuan Pasal 3 dan Pasal 4 UU Ketenagalistrikan) yang menyatakan:
 
-**Pasal 3**
+## Pasal 3
 
 - (1) Penyediaan Tenaga Listrik dikuasai oleh negara yang penyelenggaraannya dilakukan oleh Pemerintah Pusat dan Pemerintah Daerah berlandaskan prinsip otonomi
 
 daerah sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 
-**Pasal 4**
+## Pasal 4
 
 - (1) Pelaksanaan Usaha Penyediaan Tenaga Listrik oleh Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat dilakukan oleh badan usaha milik negara dan badan usaha milik daerah.
 - 5) Bahwa fungsi pengawasan (toezichthoudensdaad) oleh negara tidak hilang, dibuktikan dengan kewenangan negara (dhi. Menteri Energi dan Sumber Daya Mineral dan Gubernur) sesuai dengan kewenangannya) dalam melakukan pembinaan, pengawasan, dan penetapan sanksi administratif kepada badan usaha yang melaksanakan kegiatan usaha penyediaan tenaga listrik untuk kepentingan umum sebagaimana diatur dalam ketentuan Pasal 42 angka 4 Lampiran UU CK (yang mengubah ketentuan Pasal 5 ayat (1) huruf o dan huruf r, dan ayat (2) huruf c dan huruf e UU Ketenagalistrikan).
 - e. Selanjutnya, Pemerintah juga perlu menjelaskan bahwa ketentuan Pasal 42 angka 6 Lampiran UU CK (yang mengubah ketentuan Pasal 10 UU Ketenagalistrikan) merupakan satu rangkaian pengaturan sehingga untuk memahaminya tidak dapat hanya melihat pada 1 (satu) ayat saja. Selengkapnya ketentuan Pasal 42 angka 6 Lampiran UU CK (yang mengubah ketentuan Pasal 10 UU Ketenagalistrikan) menyatakan:
 
-**Pasal 10**
+## Pasal 10
 
 - (1) Usaha Penyediaan Tenaga Listrik untuk kepentingan umum sebagaimana dimaksud dalam Pasal 9 huruf a meliputi jenis usaha:
 - a. Pembangkitan Tenaga Listrik;
@@ -3473,7 +3470,7 @@ Dengan demikian, menurut Pemerintah, ketentuan a quo Lampiran UU CK yang diuji o
 
 pihak yang ada dalam UU CK, sehingga bertentangan dengan Putusan MK Nomor 111/PUU-XIII/2015 dan Pasal 33 ayat (2) UUD NRI 1945,
 
-**Pemerintah memberikan keterangan sebagai berikut:**
+## Pemerintah memberikan keterangan sebagai berikut:
 
 - a. Bahwa amar Putusan MK Nomor 111/PUU-XIII/2015 angka 3 menyatakan sebagai berikut:
 
@@ -3535,7 +3532,7 @@ Bahwa berdasarkan uraian diatas, telah jelas dalil pemohon adalah tidak benar da
 - a. Bahwa diperbolehkannya sewa jaringan dalam ketentuan Pasal 42 angka 23 UU CK yang mengubah ketentuan Pasal 33 UU Ketenagalistrikan merugikan masyarakat karena kerentanan terjadinya gangguan padam listrik akibat ketidakmampuan mengangkat beban listrik (blackout) dan penyalahgunaan sewa jaringan oleh perusahaan pembangkit swasta secara inkonstitusional.
 - b. bahwa sewa jaringan sangat mungkin terjadi pada bagian transmisi dapat juga digunakan oleh pemegang perizinan berusaha ketenagalistrikan untuk kepentingan sendiri yang berpotensi menimbulkan terganggunya usaha penyediaan tenaga listrik untuk kepentingan umum, sehingga menyebabkan listrik padam (blackout) dan merugikan masyarakat pada umumnya,
 
-**Pemerintah memberikan keterangan sebagai berikut:**
+## Pemerintah memberikan keterangan sebagai berikut:
 
 321
 
@@ -3556,7 +3553,7 @@ pada umumnya. Hal tersebut sesungguhnya telah sejalan pula dengan amanat Pasal 2
 - g. Bahwa sewa jaringan sudah diatur sejak UU Ketenagalistrikan diundangkan yang kemudian berdasarkan ketentuan Pasal 36 UU Ketenagalistrikan diamanatkan untuk diatur lebih lanjut dalam ketentuan PP 14/2012.
 - h. Berdasarkan ketentuan Pasal 4 dan Pasal 5 PP 14/2012 yang menyatakan:
 
-**Pasal 4**
+## Pasal 4
 
 - (1) Usaha transmisi tenaga listrik sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf b wajib membuka kesempatan
 
@@ -3565,7 +3562,7 @@ pada umumnya. Hal tersebut sesungguhnya telah sejalan pula dengan amanat Pasal 2
 - (3) Pemanfaatan bersama jaringan transmisi sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai dengan kemampuan kapasitas jaringan transmisi.
 - (4) Harga atas sewa jaringan transmisi tenaga listrik sebagaimana dimaksud pada ayat (2) wajib mendapatkan persetujuan Menteri, gubernur, atau bupati/walikota sesuai dengan kewenangannya.
 
-**Pasal 5**
+## Pasal 5
 
 - (1) Usaha distribusi tenaga listrik sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf c dapat membuka kesempatan pemanfaatan bersama jaringan distribusi.
 - (2) Kesempatan pemanfaatan bersama jaringan distribusi sebagaimana dimaksud pada ayat (1) dilakukan melalui sewa jaringan antara pemegang izin usaha penyediaan tenaga listrik yang melakukan usaha distribusi dengan pihak yang akan memanfaatkan jaringan distribusi.
@@ -3582,7 +3579,7 @@ Pemegang izin usaha transmisi dan/atau distribusi tenaga listrik wajib membuka k
 
 Dengan demikian, berdasarkan uraian diatas sudah terang dan jelas dalil Pemohon adalah tidak benar dan tidak berdasar, dan ketentuan Pasal 42 angka 23 Lampiran UU CK tidak bertentangan dengan UUD 1945.
 
-**IV. PETITUM**
+## IV. PETITUM
 
 Berdasarkan penjelasan dan argumentasi tersebut di atas, Pemerintah memohon kepada Yang Mulia Ketua/Majelis Hakim Konstitusi Republik Indonesia yang memeriksa, mengadili dan memutus permohonan pengujian (constitusional review) ketentuan Pasal 42 angka 5, angka 6, angka 7, angka 15, dan angka 23 Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang terhadap UndangUndang Dasar Negara Republik Indonesia 1945, dapat memberikan putusan sebagai berikut:
 
@@ -3599,7 +3596,7 @@ Atau dalam hal Yang Mulia Majelis Hakim Konstitusi di Mahkamah Konstitusi berpen
 
 Menindaklanjuti persidangan di Mahkamah Konstitusi Republik Indonesia pada tanggal 14 November 2023 dengan agenda mendengarkan Keterangan Presiden dan persidangan pada tanggal 1 Februari 2024 dengan agenda mendengarkan Keterangan Ahli dan Saksi Pemohon serta Ahli Presiden atas permohonan pengujian (constitutional review) ketentuan Pasal 42 angka 5, angka 6, angka 7, angka 15, dan angka 23 Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang (selanjutnya disebut UU CK) terhadap ketentuan Pasal 28C ayat (1), Pasal 28D ayat (1), dan Pasal 33 ayat (2) UndangUndang Dasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI 1945) yang dimohonkan oleh Serikat Pekerja PT Perusahaan Listrik Negara (Persero), dkk yang memberikan kuasa kepada Ari Lazuardi, S.H., M.H. dkk, kesemuanya adalah advokat yang tergabung dalam Gerakan Kesejahteraan Nasional (GEKANAS) Tolak Undang-Undang Cipta Kerja yang berdomisili di Ruko Cempaka Mas Blok P Nomor 30, Jalan Letjen Suprapto Nomor 1, Jakarta Pusat (selanjutnya disebut Para Pemohon), sesuai registrasi di Kepaniteraan Mahkamah Konstitusi Nomor 39/PUU-XXI/2023 tanggal 11 April 2023 dan perbaikan permohonan tanggal 22 Mei 2023, berikut Pemerintah menyampaikan Keterangan Tambahan Presiden tertulis yang merupakan satu kesatuan yang tidak terpisahkan dengan Keterangan Presiden yang telah disampaikan terdahulu, sebagai berikut:
 
-**I. Pertanyaan dari Yang Mulia Hakim Konstitusi Prof. Dr. Arief Hidayat S.H., M.S.**
+## I. Pertanyaan dari Yang Mulia Hakim Konstitusi Prof. Dr. Arief Hidayat S.H., M.S.
 
 1. Nah, tolong disampaikan pada kita, ini perkembangan faktual, aktual kecepatan kebutuhan listrik sampai tahun Indonesia 100 tahun lagi, 2045, itu memang harus dibutuhkan kecepatan tanpa melalui prosedur persetujuan rakyat atau harus dengan persetujuan rakyat? Karena dengan adanya persetujuan rakyat, itu sebetulnya posisinya akan lebih kuat pemerintah dalam rangka merencanakan kebijakan energi nasional. Akan lebih kuat kalau itu mendapat persetujuan DPR. Karena ada constraint waktu, kecepatan, kebutuhan yang semakin mendesak, maka kalau melalui DPR, maka itu akan menemui kendala-kendala karena harus dibahas banyak prosedur, maka itu tidak bisa mampu mengikuti perkembangan zaman. Apalagi sekarang ini disebut dengan perubahan yang sangat cepat, penuh ketidakpastian, perubahannya ambigu, dan sebagainya itu menyebabkan mau tidak mau pemerintah itu harus melangkah cepat untuk menyongsong
 
@@ -3607,7 +3604,7 @@ perubahan-perubahan itu. Itu yang pertama.
 
 Saya minta itu dikontestasikan antara persetujuan rakyat yang tidak membutuhkan kecepatan, tapi ini kan pemerintah pusat itu sendiri, ke eksekutif, itu membutuhkan. Nah, itu gimana kalau menyongsong sampai Indonesia emas tahun 2045? Karena kan perencanaan itu kan bisa berjangka pendek 5 tahun, berjangka menengah 20 tahun, bisa sampai ke tahun 2045. Itu tolong kan prediksi itu, tren itu sudah bisa dilakukan oleh Kementerian ESDM dan PLN bisa melakukan antisipasi-antisipasi itu.
 
-**Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:**
+## Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:
 
 - a. Pemerintah telah memproyeksikan kebutuhan tenaga listrik pada tahun 2045 akan meningkat dengan rata-rata pertumbuhan sekitar 5,1% per tahun. Kebutuhan tenaga listrik pada tahun 2024 sekitar 413 TWh akan meningkat menjadi sekitar 1.169 TWh pada tahun 2045. Kebutuhan tenaga listrik tahun 2045 diproyeksikan akan didominasi oleh golongan pelanggan Industri sekitar 615 TWh (53%), diikuti oleh Rumah Tangga sekitar 255 TWh (22%), Bisnis sekitar 157 TWh (13%), Kendaraan Bermotor Listrik Berbasis Baterai (KBLBB) sekitar 70 TWh (6%), Publik sekitar 57 TWh (5%), dan produksi Green Hydrogen sekitar 15 TWh (1%). Proyeksi kebutuhan tenaga listrik tersebut telah memperhitungkan rencana kebutuhan tenaga listrik untuk pembangunan Kawasan Industri
 
@@ -3651,7 +3648,7 @@ Berdasarkan kronologi diatas, proses konsultasi RUKN dengan DPR RI membutuhkan w
 
 Nah, ini tolong diberikan gambaran pada kita. Rencana Ketenagalistrikan Nasional yang berkaitan dengan kebijakan energi nasional yang berkaitan dengan industri hijau di bidang ketenagalistrikan. Itu kalau bisa kita mendapat gambaran itu, sehingga kita bisa nanti di dalam putusan kita apa pun bisa mempertimbangkan seluruh aspek itu, supaya kita cermat betul memutuskan perkara ini. Karena ini … perkara ini tidak hanya menyangkut 1-2 orang, tapi menyangkut kepentingan nasional yang lebih besar dan menyangkut Indonesia ke depan dalam rangka menyongsong Indonesia emas di 100 tahun, satu abad Indonesia.
 
-**Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:**
+## Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:
 
 - a. Arah pengembangan penyediaan tenaga listrik berdasarkan prinsip berkeadilan, berkelanjutan dan berwawasan lingkungan dan bertujuan untuk memenuhi kebutuhan tenaga listrik Nasional dalam jumlah yang cukup, kualitas yang baik, harga yang wajar secara adil dalam rangka mendukung pembangunan ekonomi yang berkelanjutan. Arah pengembangan penyediaan tenaga listrik pada bidang pembangkitan mendukung target Nasional dalam transisi energi untuk terwujudnya NZE tahun 2060 atau lebih cepat melalui pemanfaatan EBET sebagai sumber energi yang andal, ekonomis, beroperasi secara berkesinambungan dalam jangka menengah dan panjang secara bertahap, rasional dan terukur.
 - b. Strategi transisi energi bidang pembangkitan dilakukan dengan mengutamakan keandalan sistem, memanfaatkan teknologi yang andal dalam menerima EBET, konversi bahan bakar pembangkit fosil menjadi bahan bakar yang bersumber dari EBET, dan memanfaatkan kemajuan teknologi (advanced technology).
@@ -3793,13 +3790,13 @@ Untuk meningkatkan Konservasi Sumber Daya Energi dan Ketahanan Energi Nasional, 
 
 Berdasarkan Keputusan Menteri Energi dan Sumber Daya Mineral (ESDM) Nomor 143 K/20/MEM/2019 tentang Rencana Umum Ketenagalistrikan Nasional Tahun 2019 sampai dengan Tahun 2038, ditetapkan bahwa arah pengembangan penyediaan tenaga listrik pada bidang pembangkitan antara lain EBT minimum 23% pada tahun 2025, pembangkit yang menggunakan BBM hanya untuk menyediakan pasokan tenaga listrik yang bersifat mendesak dan sementara seperti penanggulangan daerah krisis penyediaan tenaga listrik, PLTG/GU/MG/MGU platform, PLTU menggunakan Clean Coal Technology (CCT), pemanfaatan sumber energi primer setempat, dan pemanfaatan energi nuklir sejalan dengan KEN.
 
-**II. Pertanyaan dari Yang Mulia Hakim Konstitusi Dr. Daniel Yusmic Pancastaki Foekh, S.H., M.H.**
+## II. Pertanyaan dari Yang Mulia Hakim Konstitusi Dr. Daniel Yusmic Pancastaki Foekh, S.H., M.H.
 
 Ini kalau saya cermati Keterangan Pemerintah dengan norma yang diajukan Pemohon, ini ternyata ada pemaknaan yang berbeda, ya. Saya bisa mengerti karena Undang-Undang 6/2023 yang berasal dari Perppu 2/2020, perppu ini kan sebenarnya lahir atau berasal dari Undang-Undang Cipta Kerja 11/2020. Ini sejarahnya, dimana menggunakan Undang-Undang 11/2020 ini menggunakan metode omnibus law. Sehingga kalau saya cermati Permohonan Pemohon, baik dari perihal maupun dengan Petitum, itu agak berbeda dengan Keterangan Pemerintah.
 
 Kalau boleh, nanti Pemerintah memberikan keterangan, terutama terkait dengan norma yang dijelaskan tadi, apakah ini berasal dari Perppu 2/2022 ataukah dari Undang-Undang Cipta Kerja 11/2020? Ini nanti untuk membantu Hakim untuk memahami lebih gampang nanti karena ada juga permohonan-permohonan lain yang terkait dengan ini. Jadi, kalau bisa, mungkin ini keterangan secara lengkap tidak apa-apa, sehingga kalau ada permohonan yang sama, normanya yang lain, kami bisa mengerti. Kebetulan ini terkait dengan ketenagalistrikan.
 
-**Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:**
+## Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:
 
 - a. Pemerintah dapat sampaikan bahwa ketentuan yang diuji oleh Para Pemohon dan ketentuan yang diberikan keterangan oleh Pemerintah merupakan ketentuan dari norma yang sama yaitu merupakan sama-sama ketentuan yang diatur dalam Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2022 tentang Cipta Kerja (selanjutnya disebut Perppu CK) yang telah ditetapkan menjadi Undang-Undang melalui Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut UU CK).
 - b. Bahwa Para Pemohon menyatakan ketentuan yang diuji adalah ketentuan Pasal 42 angka 5, angka 6, angka 7, angka 15, dan angka 23 UU CK dimana seharusnya ketentuan a quo merupakan ketentuan yang diatur oleh Perppu CK yang kemudian menjadi Lampiran UU CK karena UU CK hanya mengatur 2 (dua) Pasal yaitu:
@@ -3861,7 +3858,7 @@ dinyatakan ada problem konstitusional oleh Mahkamah Konstitusi. Tolong itu dikem
 
 Nah, itu yang paling penting dijelaskan, kapan itu terjadinya, apakah ketika undang-undang … kalau bahasa keterangan ini kan Undang-Undang CK lama, apakah ketika pembahasan itu atau ketika mendiskusikan persetujuan perppu menjadi undang-undang. Tolong itu disertakan buktinya dan nanti disampaikan oleh Pemerintah pada kesempatan berikutnya, itu satu.
 
-**Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:**
+## Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:
 
 - a. bahwa materi muatan yang diatur dalam Perppu CK merupakan materi muatan yang secara garis besar sama dengan diatur dalam UU CK Lama dengan penambahan beberapa materi muatan baru terkait dengan:
 - 1) ketenagakerjaan;
@@ -3872,7 +3869,7 @@ Nah, itu yang paling penting dijelaskan, kapan itu terjadinya, apakah ketika und
 - 5) perbaikan teknik penulisan.
 - b. Kemudian dalam pembahasan penetapan Perppu CK menjadi UndangUndang di DPR disetujui bahwa yang akan dibahas dan dinilai adalah terkait dengan subjektivitas Presiden dalam menetapkan Perppu CK yang kemudian akan disahkan menjadi Undang-Undang dan tidak membahas kembali materi substansi sebagaimana tercatat dalam Risalah Hasil Rapat Panitia Kerja pada tanggal 15 Februari 2023 dengan agenda Pembahasan Penetapan Perppu CK sebagai Undang-Undang (vide Bukti PK-3) yang menyatakan:
 
-**Ketua Rapat/Fraksi Partai Gerakan Indonesia Raya (Dr. Supratman Andi Agtas, S.H., M.H.) yang menyampaikan:**
+## Ketua Rapat/Fraksi Partai Gerakan Indonesia Raya (Dr. Supratman Andi Agtas, S.H., M.H.) yang menyampaikan:
 
 'Sebagai tindak lanjut Rapat Kerja Badan Legislasi dengan Menko Bidang Perekonomian, Menko Bidang Politik dan Hukum dan Keamanan, Menteri Tenaga Kerja, Menteri Agama, dan Menteri Hukum dan HAM tanggal 14 Februari tahun 2023, menugaskan kepada panja untuk melakukan pembahasan terhadap Perppu Nomor 2 Tahun 2022 tentang Cipta Kerja.
 
@@ -3913,7 +3910,7 @@ Berdasarkan hal tersebut, menurut Pemerintah, risalah pembahasan yang menyepakat
 
 konsultasi, Bapak jangan nunjuk-nunjuk Pak Elen Pak! Bapak sama beliau Pak. Maksud saya gini, harga dasar juga Pak itu pengaruh kepada daerah. Kemudian termasuk dikatakan Pak (rekaman terputus) termasuk tentang daerah yang mau dibangun wilayah mana, konsultasi saja Bapak enggak mau gimana ceritanya, terima kasih.' 'Saya kira begini Pak, boleh enggak dijelaskan sedikit apa sih ketentuan umum itu? perencanaan umum bisa enggak Bapak tayangkan di sini Pak, supaya kami jelas-jelas Pak tadi kan menurut Bapak Dirjen Bapak Dirjen, Bapak apa? Akan Dirjen, aamiin gitu loh Pak, Alhamdulillah gitu loh Bapak untuk dinaikkan pangkat pun agak susah ku tengok. Jadi izin Pak, tolong dibacakan dulu supaya kami mengerti semua. Supaya tidak menduga-duga toh selama ini sebenarnya dengan Komisi VII pun tanpa diminta pun tetap ada rapat-rapat kerja antara ESDM dengan Komisi VII ada Pak sebenarnya enggak merusak mengganggu apa pun tidak menghambat perencanaan sebenarnya tapi alangkah eloknya kalau Bapak sampaikan dulu sehingga kita semua mengerti, Terima kasih Pimpinan.'
 
-**Yang kemudian ditanggapi oleh:**
+## Yang kemudian ditanggapi oleh:
 
 - a) Perwakilan Pemerintah (Elen Setiadi, Staf Ahli Kemenko Perekonomian) yang menyampaikan:
 
@@ -3945,13 +3942,13 @@ bahwa berkonsultasi itu memang jarang kita lakukan dengan teman-teman di Komisi 
 
 'Tadi usulan Pak itu Pak Sturman yang terkait dengan masalah tarif misalnya di daerah yang berbeda-beda itu tidak perlu dikonsultasikan dengan DPRD. Kalau mungkin atas mungkin dalam kebijakan mungkin kaitan dengan RDPU atau apa itu bisa di rapat kerja mungkin bisa disampaikan.
 
-**Bagaimana Pak Sturman?'**
+## Bagaimana Pak Sturman?'
 
 - 3) Fraksi Partai Keadilan Sejahtera (Hj. Ledia Hanifa Amalia, S.Si., M.Psi., T.) yang menyampaikan:
 
 'Ledia. Berkaitan dengan rencana umum kelistrikan ketenagalistrikan nasional tentu kenapa bukan dalam konteks mengambil alih kewenangan eksekutif maupun, eksekutif oleh legislatif tidak. Tapi konteksnya adalah kita perlu mengetahui sebetulnya nanti akan bisa memenuhi kemampuan elektrifikasi sampai ke daerah-daerah atau tidak lantas ya kan pasti kan ke arah kan Pak. Dengan sumber dayanya dengan distribusi dan seterusnya. Tidak ada salahnya sebetulnya dikonsultasikan kepada DPR meskipun tadi dikatakan bahwa itu bukan penetapan maupun pengesahan, kalaupun itu dimasukkan itu kan dalam rangka apa dalam konteks nanti ketika kita kan membicarakan satu hal yang kalau buat anggota DPR tuh melihat secara makro dan melihat secara mikro dalam konteks Dapil nya masing-masing. Karena nanti ketercapaian target-target tercapainya misalnya salah satunya elektrifikasi dan segala macam gitu kan jadi bagian yang juga perlu diketahui keseluruhannya. Jadi menurut kami sih sebenarnya enggak ada enggak ada hal yang memberatkan dengan mencantumkan kata konsultasi itu sendiri sebenarnya, terima kasih.'
 
-**Yang kemudian ditanggapi oleh:**
+## Yang kemudian ditanggapi oleh:
 
 - a) Anggota Panja yang menyatakan:
 
@@ -3959,7 +3956,7 @@ bahwa berkonsultasi itu memang jarang kita lakukan dengan teman-teman di Komisi 
 
 - b) Perwakilan Pemerintah (Elen Setiadi, Staf Ahli Kemenko Perekonomian) yang menyatakan:
 
-**'Terima kasih Pak, Bapak Ibu.**
+## 'Terima kasih Pak, Bapak Ibu.
 
 Kalau bisa ditayangkan yang tadi saya kirim ke jadi sebenarnya Bu yang detailnya sudah ada, memang penetapan selama ini dengan oleh keputusan Menteri ESDM, 143 ya di situ cakupannya muatannya itu mulai dari penyediaan kemudian ke teknik dan perlindungan, arah pengembangan penyediaan, kondisi penyediaan, proyeksi kebutuhan, lengkap Bu. Tiap provinsi juga ada jadi sebenarnya tinggal dilihat di sini sudah ada. Kemudian investasi penyediaan tenaga listriknya, kemudian ada didukung oleh data-data dan peta jaringan segala macam.
 
@@ -3976,7 +3973,7 @@ Kalau bisa ditayangkan atau nanti kami share yang untuk softcopy nya di Kepmen 1
 
 Jadi, substansi apa yang dibahas dan segala macam, tolong itu dikemukakan, sehingga sampai kepada posisi seperti yang ada dalam rumusan terakhir yang masuk Undang-Undang Ciptaker itu. Kapan dibahas? Apa buktinya? Karena begini, ini harus diingatkan kepada Pemerintah, kalau ada DPR juga sekalian. Kita sudah berkali-kali memutus di Mahkamah Konstitusi itu, kalau ada norma … jadi yang kita batalkan itu norma lho, bukan pasal. Kalau ada norma pernah dibatalkan oleh Mahkamah Konstitusi, dihidupkan kembali oleh pembentuk undang-undang, dan lalu ada yang mengajukan permohonan, itu bisa jadi alasan bagi Mahkamah untuk membatalkan kembali. Ini penting ini, supaya kami tahu ini betul-betul enggak didiskusikan Putusan Mahkamah Konstitusi itu atau enggak pernah didiskusikan sama sekali? Nah, nanti kalau kayak begini dibiarkan terus-menerus, kan kami di Mahkamah Konstitusi enggak punya ruang, bagaimana cara menjaga putusan Mahkamah Konstitusi itu sendiri? Nah, tolong itu kami diberikan karena ini berkait dengan putusan sebelumnya, yang sudah pernah diputus oleh Mahkamah Konstitusi. Jadi, kami ingin tahu semangat apa yang ada ketika Putusan Makamah Konstitusi itu didiskusikan? Bagaimana pembentuk Undang-Undang meletakkan putusan Mahkamah Konstitusi? Bukan berarti tidak boleh berubah. Nah, kami akan lihat perdebatan itu.
 
-**Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:**
+## Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:
 
 - a. Bahwa secara umum tindak lanjut atas Putusan Mahkamah Konstitusi telah dibahas dalam rapat pembahasan RUU CK Lama sebagaimana tercantum dalam Risalah Panitia Kerja antara lain sebagai berikut:
 - 1) Risalah Rapat Panitia Kerja tanggal 7 September 2020 yang membahas Putusan Mahkamah Konstitusi Nomor 111/PUUXIII/2015 terkait dengan isu usaha penyediaan tenaga listrik untuk kepentingan sendiri yang dilaksanakan hanya untuk pemakaian sendiri 'beserta afiliasinya' dan isu perubahan nomenklatur 'izin usaha penyediaan tenaga listrik dan izin operasi' menjadi 'usaha penyediaan tenaga listrik untuk kepentingan umum, usaha penyediaan tenaga listrik untuk kepentingan sendiri, dan usaha jasa penunjang tenaga listrik.';
@@ -3998,7 +3995,7 @@ Jadi, substansi apa yang dibahas dan segala macam, tolong itu dikemukakan, sehin
 
 'Ini sebetulnya menyangkut afiliasi ini. Yang dimaksud afiliasi apa saja? Karena bisa banyak, misalkan grup perusahaan dengan anak perusahaan, kemudian dengan cucunya, nanti cicitnya. Jadi gimana untuk afiliasi. Kemudian yang kedua itu adalah hubungannya dengan mohon kami dijelaskan mengenai keputusan MK Pak, yang mengenai .......... (tidak jelas) segala macam itu Pak. Kan ada putusan MK Nomor 111 kalau nggak salah itu. Jadi afiliasi itu makanya perlu dipertegas, karena afiliasi itu kan bisa banyak ini. Bisa nanti grup perusahaan itu punya anak apa itu afiliasi, punya cucu apa afiliasi, punya cicit perusahan, itu apakah juga afiliasi. Kemudian apa, kami juga perlu dijelaskan juga masalah ini Pak yang putusan MK yang Nomor 111/PUU-13 Tahun 2015 ya. Itu termasuk masalah konsep, supaya kita tahu bahwa itu nanti akan dengan afiliasinya jadi bagaimana itu. Terima kasih Pimpinan.' 'Karena kalau seperti ini itu bisa diartikan seperti itu, gitu.' 'Dipenjelasan pasalnya minimal harus masuk. Karena kalau tidak praktek yang demikian akan terjadi begitu.'
 
-**Yang kemudian ditanggapi oleh:**
+## Yang kemudian ditanggapi oleh:
 
 Perwakilan Pemerintah (Munir Ahmad) yang menyampaikan:
 
@@ -4014,11 +4011,11 @@ Mungkin kami bisa menjelaskan yang dimaksud afiliasi ini adalah anak salah satu 
 
 Nah kira-kira gimana Pak, Bapak menjelaskan itu. Bayangkan kalau dia berada di kawasan yang berbeda, berarti dia harus membangun transmisi untuk digunakan oleh afiliasinya. Karena dia tidak dalam satu kawasan. Kan bisa saja kalau kayak begini, artinya memberi kesempatan orang lain, untuk bisa membangun jaringan dan tranmisi yang di luar kewenangan maupun haknya dari perusahaan listrik Negara. Karena kan kita bicara soal pembangkit Pak. Kalau pembangkit untuk urusan di luar pemakaian sendiri, itu berarti sudah saling bertentangan. Nah itu penting untuk Bapak jelaskan. Sebenarnya kalau saya Pak, ini kata afiliasinya ini, ini mendingan kita drop saja Pak.'
 
-**Yang kemudian ditanggapi oleh:**
+## Yang kemudian ditanggapi oleh:
 
 - b.1) Fraksi Partai Keadilan Sejahtera (Hj. Ledia Hanifa Amalia, S.Si., M.Psi., T.) yang menyampaikan:
 
-**'Pimpinan, Ledia boleh.**
+## 'Pimpinan, Ledia boleh.
 
 Ingin menambahkan juga pertanyaan berikutnya, yaitu kemarin dalam diskusi kita bahwa ketika listrik itu penyediaannya digunakan untuk kepentingan sendiri, kemarin disampaikan bahwa sampai batas tertentu, kalau saya tidak salah ingat 500 KPA itu, tidak perlu izin tapi pemberitahuan. Tetapi ketika kemudian kepentingan sendiri dalam konteksnya industri dia pasti lebih besar dari itu. Kan bicara soal keamanannya, bicara soal perizinannya dan penggunaannya. Sehingga ketika kemudian afiliasinya itu di, katakanlah dipersepsi adalah perusahaan-perusahaan di bawahnya, apakah tadi nanti seperti Pak Ketua sampaikan perlu ada transmisi dan segala macam, itu pasti nanti kan memerlukan kapasitas yang jauh lebih besar lagi. Bahkan bisa jadi nanti namanya jadi mega, penyediaannya jadi mega watt yang luar biasa. Nah ini kan kita juga perlu melihat sampai sejauh mana pengaturannya gitu Pak. Terima kasih.'
 
@@ -4049,7 +4046,7 @@ Berdasarkan hasil pembahasan, disetujui penghapusan frasa 'beserta afiliasinya' 
 
 'Pimpinan. Sebelum di, prinsipnya kami sepakati mohon penegasan dari Pemerintah. Perizinan berusahanya ada tiga berarti, untuk kepentingan umum, kepentingan sendiri, dan jasa penunjang. Apakah satu perusahaan bisa memiliki tiga-tiga sekaligus? Atau akan masing-masing. Makanya tadi saya menanyakan ini hubungannya dengan putusan MK Pak, yang Nomor 111 tadi yang kami minta penjelasan tadi, yang masalah hubungan terintegrasi dengan ........... (tidak jelas) segala macam. Jadi kami paham itu izin operasi dihapuskan ya. Tapi apakah katakanlah perizinan berusaha untuk kepentingan sendiri, itu berbeda nanti perizinan berusaha untuk kepentingan umum maupun jasa penunjang. Jadi itu mohon penegasannya saja. Makanya kami menanyakan di situ. Karena kalau pengertiannya ini bisa, apakah ketika dia memiliki perizinan perusahaan itu bisa sekaligus tiga-tiganya. Itu saja penegasannya Pak. Terima kasih.' 'Ingin penegasan. Karena kalau penunjangan usaha mungkin bisa ini, misalnya sertifikasi kan nggak ada hubungannya dengan K3L, gitu lho. Jadi ini tadi makanya saya ingin penegasannya itu supaya nanti dengan konsep perizinan berbasis resikonya itu clear Pak. Makasih.'
 
-**Yang kemudian ditanggapi oleh:**
+## Yang kemudian ditanggapi oleh:
 
 - a.1) Fraksi Partai Keadilan Sejahtera (Hj. Ledia Hanifa Amalia, S.Si., M.Psi., T.) yang menyampaikan:
 
@@ -4069,7 +4066,7 @@ Nah kalau yang untuk jasa penunjang tenaga listrik, itu memang tersendiri Pak bi
 
 'Mungkin begini Pak. Saya anu sedikit ya. Saya pernah agak terlibat kalau soal kelistrikan. Jadi kalau ditanya apakah boleh ketiga-tiganya, bisa Pak. Saya umpamanya bangun untuk pembangkit, walaupun nanti izinnya kegiatannya itu dibedakan. Saya ini bangun pembangkit listrik untuk kepentingan saya sendiri. Tapi kelebihan daya saya itu masih ada, saya boleh jual Pak. Boleh jual ke PLN kalau PLN mau beli. Kalau memungkinkan. Seandainya beban daya saya yang saya gunakan katakanlah saya bangun 10 Mega Watt. Saya pakai sendiri itu hanya 9 Mega Watt. 1 Mega Watt boleh dong saya jual ke PLN, boleh, bisa. Nah termasuk industri penunjangnya. Industri penunjang tadi kita sudah ada, tapi kalau seandainya penggunaannya itu untuk kepentingan sendiri dan memang tidak ada niatnya dan memang hanya untuk digunakan untuk kepentingan sendiri, tidak ada masalah juga. Jadi ini terjadi di beberapa tempat termasuk di dapil saya, itu kelebihannya lebih Pak, nah mereka jualnya ke PLN, kelebihan beban itu.'
 
-**Yang kemudian ditanggapi oleh:**
+## Yang kemudian ditanggapi oleh:
 
 - b.1) Perwakilan Pemerintah (Elen Setiadi, Staf Ahli Kemenko Perekonomian) yang menyatakan:
 
@@ -4093,11 +4090,11 @@ Dengan PLN nya itu'
 
 Berdasarkan hasil pembahasan, disetujui perubahan nomenklatur 'izin usaha penyediaan tenaga listrik dan izin operasi' menjadi 'usaha penyediaan tenaga listrik untuk kepentingan umum, usaha penyediaan tenaga listrik untuk kepentingan sendiri, dan usaha jasa penunjang tenaga listrik.' dalam ketentuan Pasal 43 angka 11 RUU CK Lama yang kemudian menjadi Pasal 42 angka 11 UU CK Lama. Dengan demikian, Pemerintah dapat sampaikan bahwa Putusan Mahkamah Konstitusi merupakan salah satu poin penting yang dibahas untuk menentukan penormaan dalam UU CK Lama dan Perppu CK (yang kemudian menjadi Lampiran UU CK).
 
-**IV. Pertanyaan dari Yang Mulia Hakim Konstitusi Prof. Dr. Enny Nurbaningsih, S.H., M.Hum:**
+## IV. Pertanyaan dari Yang Mulia Hakim Konstitusi Prof. Dr. Enny Nurbaningsih, S.H., M.Hum:
 
 Baik. Terima kasih, Yang Mulia Pak Ketua. Ini kepada Pemerintah, ya. Bapak Priana ya, yang ada, ya? Ya, begini, Pak. Jadi, saya mencoba mencari gambaran yang komprehensif dalam memahami mengapa sebetulnya Undang-Undang Ketenagalistrikan ini diubah melalui UndangUndang Ketenagakerjaan … Undang-Undang Cipta Kerja. Saya mohon ada tambahan keterangan dari Pemerintah setelah melalui beberapa kali persidangan itu, saya ingin ada tambahan keterangan dari Pemerintah apa sesungguhnya yang melatarbelakangi perlunya untuk diubah Undang-Undang Ketenagalistrikan itu kemudian masuk menjadi Undang-Undang Cipta Kerja? Karena kalau saya baca di sini hanya ada secuil saja kalimat yang mengatakan untuk memberikan kemudahan bagi pelaku usaha. Ini tolong diberikan penjelasan juga sejauh mana sesungguhnya kemudahan bagi pelaku usaha itu bisa diwujudkan, tapi tetap dapat kemudian menjaga esensi dari Pasal 33 Undang-Undang Dasar 1945 itu. Jadi, tolong ini bisa diberi gambaran yang lebih komprehensif mengenai latar belakang dari perubahan Undang-Undang Ketenagalistrikan dalam Undang-Undang Cipta Kerja, ya.
 
-**Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:**
+## Terhadap pertanyaan Yang Mulia Hakim Konstitusi dimaksud, Pemerintah memberikan penjelasan sebagai berikut:
 
 - a. UU CK Lama yang kemudian dicabut oleh Perpu CK dan kemudian ditetapkan menjadi Undang-Undang oleh UU CK disusun sebagai usaha pemerintah untuk mendorong pengembangan kegiatan berusaha di Indonesia khususnya untuk mendorong usaha mikro kecil agar lebih memiliki daya saing. melalui reformasi regulasi Perizinan Berusaha. Reformasi regulasi Perizinan Berusaha dilakukan salah satunya melalui simplifikasi proses bisnis pengurusan Perizinan Berusaha agar Pelaku Usaha di Indonesia dapat memiliki acuan yang jelas dalam pengurusan Perizinan Berusaha untuk kegiatan usahanya. Pengaturan pengurusan Perizinan Berusaha di Indonesia sebelum ditetapkannya UU CK dinilai berbelit-belit, tanpa jangka waktu yang pasti serta berbeda-beda untuk setiap daerah (walaupun kegiatan usaha yang diajukan sama). Hal ini menimbulkan berkurangnya minat pelaku usaha dalam melakukan kegiatan usaha di Indonesia. Terkait hubungannya dengan Pasal 33 UUD 1945, perubahan UU 30/2009 sebagaimana dijelaskan oleh ahli Prof. Ibnu Sina, tidak menghilangkan esensi penguasaan oleh negara. Negara masih tetap hadir dalam setiap langkah pelaksanaan kegiatan usaha yang dapat dilihat dari telah diterbitkannya peraturan pelaksana dari UU CK yang menjadi fungsi kontrol negara dalam pelaksanaan kegiatan usaha. Perppu CK yang kemudian ditetapkan menjadi undang-undang oleh UU CK merupakan undang-undang yang dibentuk dengan konsep Omnimbus Law untuk mengganti dan/atau mencabut beberapa materi hukum dalam berbagai undang-undang yang ditujukan untuk menarik investasi dan memperkuat perekonomian nasional. Perpu CK yang kemudian ditetapkan menjadi undang-undang oleh UU CK ini mengatur banyak sektoral yang
 
@@ -4172,9 +4169,9 @@ Secara keseluruhan, jenis norma perubahan pada UU 30/2009 dalam UU CK dapat diri
 
 serta telah pula menghadirkan ahli Prof. Ir. Tumirah, M.Eng., PhD., dan Prof. Dr. Ibnu Sina Chandranegara, SH., MH., yang dihadirkan dalam persidangan pada tanggal 1 Februari 2024 yang pada pokoknya menyampaikan keterangan sebagai berikut:
 
-**1. Prof. Ir. Tumiran, M.Eng, Ph.D**
+## 1. Prof. Ir. Tumiran, M.Eng, Ph.D
 
-**Pendahuluan**
+## Pendahuluan
 
 Dalam pembangunan nasional yang berkelanjutan, jaminan ketersediaan energi listrik yang andal, cukup, berkualitas, dan ekonomis telah menjadi prasyarat untuk mendukung pertumbuhan ekonomi, pemerataan kesejahteraan sosial, penciptaan lapangan kerja produktif, memperkuat industri dan menciptakan sektor bisnis yang sehat. Untuk dapat mencapai hal tersebut, perlu adanya pemerataan infrastruktur serta ketersediaan penyediaan energi primer yang ekonomis. Ketersediaan energi listrik yang cukup, andal, dan ekonomis dengan dukungan infrastruktur yang baik, diyakini akan berkontribusi besar terhadap pertumbuhan ekonomi baik secara langsung maupun tidak langsung. Secara umum jaminan ketersediaan listrik di suatu tempat atau suatu kawasan telah dan akan memberikan dampak positif. Dampak posistif yang diperoleh dari ketersediaan energi listrik seperti yang ditunjukkan pada Gambar 1.1
 
@@ -4188,7 +4185,7 @@ Gambar 1.1 Berbagai manfaat tersedianya pasokan energi listrik
 
 Dalam konteks wilayah Indonesia, pemerataan kelistrikan nasional untuk melistriki lebih dari 270 juta penduduk yang tersebar di lebih 10.000 pulau bukanlah pekerjaan yang mudah. Saat ini walaupun rasio elektrifikasi telah mencapai 99,48%, ditinjau dari aspek pemerataan keandalan, kualitas, dan kecukupan pasokan energi Listrik masih dipandang belum merata di seluruh wilayah Indonesia. Ketersediaan energi listrik yang andal, ekonomis, cukup, dan berkualitas telah menjadi prasyarat utama terjaminnya pasokan yang berkelanjutan, yang akan memberikan jaminan kepuasan dan keamanan bagi para pengguna serta mendapatkan manfaat seperti yang telah ditunjukkan pada Gambar 1.1
 
-**II. Situasi Ketenagalistrikan Global dan Nasional**
+## II. Situasi Ketenagalistrikan Global dan Nasional
 
 Pertumbuhan sektor kelistrikan disuatu negara sangat erat hubungannya dengan pertumbuhan ekonomi dan GDP yang telah dicapai oleh negara tersebut. Negara negara yang telah memiliki GDP perkapita tinggi, umumnya konsumsi energi Listrik per kapita telah mencapai di atas 7000 kWh/kapita. Sebagai gambaran tersebut berdasarkan data IEA tahun 2022, rata rata konsumsi negara negara OECD telah mencapai di atas 7.000 kWh/kapita, sementara rerata konsumsi dunia pada tahun 2022 telah mencapai sekitar 3.000 kWh/kapita. Sebagai gambaran negara negara OECD, untuk konsumsi energi Listrik pada akhir tahun 2022 ditunjukkan pada Tabel 1, dengan GDP/kapita yang telah dicapai. Gambaran yang dapat dijelaskan mengapa konumsi energi listrik per kapita negara negara OECD cukup tinggi, hal ini di dukung bahwa pemanfaatan energi listrik tidak semata mata hanya untuk kepentingan rumah tangga, tetapi didominasi oleh industri dan bisnis. Industrinya berbasis produktifitas yang berkonstribusi terhadap penyerapan energi listrik. Sehingga ketersediaan energi listrik berfungsi sebagai penggerak perekonomian yang produktif.
 
@@ -4244,7 +4241,7 @@ Gambar 1.2 Proyeksi pertumbuhan konsumsi energi dan listrik nasional hingga 2050
 
 <!-- image -->
 
-**III. Aspek Regulasi, Industri, Finansial Menuju Industri Kelistrikan Yang Sehat**
+## III. Aspek Regulasi, Industri, Finansial Menuju Industri Kelistrikan Yang Sehat
 
 Untuk mendukung industri kelistrikan nasional yang sehat, berbagai aspek utama yaitu regulasi, ketersediaan industri domestik dan kebijakan finansial menjadi bagian penting yang tidak dapat dipisahkan. Situasi uang dapat dipetakan saat ini, regulasi yang mendukung untuk menciptakan industri kelistrikan yang sehat, masih diperlukan penyempurnaan dan pengkajian yang lebih dalam. Situasi adanya subsidi, kompensasi serta kewajiban perjanjian 'take or pay' pembelian energi listrik masih bagian yang membebani secara finansial. Harga EBT yang sebagian masih diatas rata rata BPP nasional juga telah menjadi bagian hambatan untuk percepatan transisi energi. Regulasi yang telah keluar yang seharusnya dapat menjadi arahan untuk percepatan transisi energi, seperti PP.79/2014 [3]serta Perpres 22/2017[4] belum secara konsisten menjadi landasan untuk mencapai target implementasi kebijakan energi nasional. Seharusnya regulasi yang telah menjadi landasan untuk pegangan tersebut, secara konsisten menjadi acuan dan landasan di dalam implementasinya. Pengaturan tarif tenaga Listrik yang seharusnya dapat dinamis mengikuti perkembangan pembiayaan sektor hulu, belum dapat dilakukan dan masih berdampak terhadap keuangan negara.
 
@@ -4252,7 +4249,7 @@ Percepatan transisi energi bila mengacu kepada PP.79/2014 [3] serta Perpres 22/2
 
 Diskusi yang berkepanjangan saat ini tentang terlambatnya capaian konstribusi EBT di dalam sektor kelistrikan, masih banyak yang berpendapat kurangnya dukungan pemerintah di dalam finansial terutama kebijakan fiscal untuk memberikan kompensasi dan subsidi bagi pengembangan EBT. Sebenarnya ada faktor utama yang menjadi hambatan terlambatnya percepatan konstribusi EBT, adalah demand sektor kelistrikan tidak naik secara signifikan seperti direncanakan waktu di tetapkannya PP.79/2014. Asumsi yang di buat pada tahun 2012 waktu penyusunan KEN, adalah pertumbuhan ekonomi dapat tumbuh rata rata diatas 6% dan elastisitas energi Listrik mencapai diatas 1, sebagai indikator negara yang sedang tumbuh. Fakta yang terjadi pertumbuhan ekonomi tidak tumbuh seperti dalam skanrio serta elastisitas energi Listrik juga rata rata dibawah 1, sehingga indikasi pertumbuhan ekonomi berbasis produktifitas tidak tercapai. Akibatnya samapai akhir tahun 2022, konsusmi Listrik nasional baru mencapai angka 1173 kWh/kapita, sementara proyeksi berbasis PP.79/2014, konsumsi energi Listrik pada tahun 2025 sudah dapat mencapai 2.500 kWh/kapita [3].
 
-**IV. Prasyarat penyediaan energi Listrik.**
+## IV. Prasyarat penyediaan energi Listrik.
 
 Prasyarat penyediaan energi Listrik harus bisa menjamin reliability, sustainability dan nilai keekonomian. Nilai keekonomian di pentingkan bagi penyedia sektor kelistrikan (Perusahaan) dan juga bagi pelanggan untuk memenuhi kebutuhannya (industry, bisnis, perkantoran dan rumah tangga). Untuk menjamin kehandalan, maka penyediaan energi Listrik harus di pasok dengan pasokan pembangkitan yang cukup, handal serta di dukung oleh infrastruktur transmisi dan distribusi yang cukup, handal dan efisien. Bila pasokan Listrik tidak handal (sering padam), walaupun nilai keekonomiannya murah, tetapi bagi konsumen, dampak tersebut akan menimbulkan kerugian yang besar, terutama bagi sektor bisnis dan industri. Relasi hubungan antara reliability, sustainability dan economic, ditunjukkan oleh gambar. 1.3 berikut.
 
@@ -4264,7 +4261,7 @@ Di dalam upaya memenuhi kriteria agar prasaat penyediaan energi Listrik dapat me
 
 - V. Pandangan terhadap uji Materi Yang diajukan angka 5 Pasal 7 ayat (1)
 
-**a. 'Rencana umum ketenagalistrikan nasional disusun berdasarkan kebyakan energi nasional dan ditetapkan oleh Pemerintah Pusat**
+## a. 'Rencana umum ketenagalistrikan nasional disusun berdasarkan kebyakan energi nasional dan ditetapkan oleh Pemerintah Pusat
 
 Bahwa dalam ketentuan Pasal 42 angka 5 (Pasal 7 ayat (1)) UU 6 Tahun 2023 yang menyatakan 'Rencana Umum Ketenagalistrikan Nasional disusun berdasarkan Kebijakan Energi Nasional dan ditetapkan oleh Pemerintah Pusat,' tidak menghilangkan fungsi pengawasan DPR RI dalam usaha penyediaan tenaga listrik, walaupun tidak lagi disebutkan secara eksplisit di dalam Pasal 42 angka 5 UU 6 Tahun 2023 tersebut. Hal ini mengingat sesuai ketentuan Pasal 30 PP Nomor 79 Tahun 2014 tentang Kebijakan Energi Nasional mengatur bahwa 'Kebijakan energi nasional menjadi dasar dalam penyusunan Rencana Umum Energi Nasional dan Rencana Umum Ketenagalistrikan Nasional'.
 
@@ -4292,7 +4289,7 @@ Bahwa amar putusan Nomor 149/PUU-VII/2009 adalah 'Menolak permohonan Pemohon unt
 
 Bahwa rumusan pasal 10 ayat (2) UU No. 30 Tahun 2009 yang saat ini menjadi Pasal 42 angka 6 UU 6 Tahun 2023 berbunyi 'Usaha penyediaan tenaga listrik untuk kepentingan umum sebagaimana dimaksud pada ayat (1) dapat dilakukan secara terintegrasi'. Majelis hakim dalam pertimbangan hukum putusan perkara Nomor 111/PUU-XIII/2015 UU 30 Tahun 2009 telah menegaskan bahwa dalam rumusan Pasal 10 ayat (2) tersebut tidak ada penegasan bahwa usaha penyediaan listrik untuk kepentingan umum itu yang mencakup usaha pembangkit tenaga listrik, transmisi tenaga listrik, distribusi tenaga listrik, dan penjualan tenaga listrik harus dilakukan oleh badan usaha yang terpisah. Dengan demikian UU No. 30 Tahun 2009 tidak menganut prinsip unbundling seperti yang dianut dalam UU No 20 tahun 2002 yang oleh Mahkamah telah dinyatakan bertentangan dengan UUD 1945. Bahwa terkait dengan kontrol negara sesuai dengan prinsip 'dikuasai oleh negara' telah ditegaskan dalam pasal 3 dan 4 L/U No. 30 Tahun 2009 (Pasal 42 angka 2 dan angka 3 UU 6 Tahun 2023) sesuai dengan pertimbangan dalam Putusan Mahkamah Konstitusi Nomor 149/PUU- VIII/2009, dimana menurut Mahkamah 'dengan adanya Pasal 3 dan Pasal 4 UU No. 30 Tahun 2009 (Pasal 42 angka 2 dan angka 3 UU 6 Tahun 2023), sifat unbundling dalam ketentuan tersebut tidak sama dengan unbundling dalam Undang-Undang Nomor 20 Tahun 2002'.
 
-**c. angka 7 Pasal 11 ayat (1)**
+## c. angka 7 Pasal 11 ayat (1)
 
 'UsahaPenyediaanTenaga Listrik untuk kepentingan umum umum sebagaimana dimaksud dalam Pasal 10ayat (1) dilaksanakan oleh
 
@@ -4310,7 +4307,7 @@ Dengan demikian pengaturan ini tidak hanya dibatasi untuk BUMN, tetapi juga memb
 
 Mengingat kebutuhan energi Listrik yang akan terus meningkat di waktu mendatang, apalagi untuk menuju Indonesia emas tahun 2045, diharapkan kebutuhan energi Listrik nasional akan mencapai 5000 kWh/kapita, seperti yang telah dicapai oleh berbagai negara, seperti Malaysia, China, bahkan Jepang sudah mencapai kebutuhannya 7500 kWh/kapita. Untuk memenuhi kebutuhan tersebut diperlukan Pembangunan infrastruktur pembangkit, transmisi dan distribusi. Kebutuhan pembangkit diprediksi dapat mencapai 500 GW. Bila secara generic setiap 1 GW membutuhkan 25 T rupiah, maka diperlukan 12.500 T Rupiah. Belum termasuk untuk Pembangunan jaringan transmisi dan distribusi yang dapat mencapai 75% dari pembiayaan pembangkit. Sehingga akumulasi kebutuhan dapat mencapai 20.000 T Rupiah memasuki tahun 2050. Menjadi pertanyaan apakah keuangan Pemerintah mamapu mencukup untuk memenuhi kebutuhan semuanya. Di dalam kontrol pemerintah, berdasarkan perundang undangan yang ada: izin, harga energi tetap ditetapkan oleh Pemerintah. Dengan demikian pemerintah tetap memiliki kendali dan kontrol di sektor kelistrikan.
 
-**d. 'angka 15 Pasal 23 ayat (2)**
+## d. 'angka 15 Pasal 23 ayat (2)
 
 Penjualan kelebihan Tenaga Listrik untuk kepentingan umum sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam hal wilayah tersebut belum terjangkau oleh pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik untuk kepentingan umum.'
 
@@ -4335,7 +4332,7 @@ Terhadap dalil Pemohon tersebut, Pemerintah menolak secara tegas dengan alasan-a
 
 Dewasa ini telah muncul pemikiran untuk percepatan pemanfaatan EBT dengan cara penerapan power wheeling. Berdasarkan narasi perundangundangan yang ada disektor ketenagalistrikan (UU No. 30 tahun 2009 maupun PP No 14 tahun 2012) bahasa power wheeling belum secara spesifik ditemukan tetapi pengertian sewa jaringan transmisi ataupun jaringan distribusi telah memiliki landasan. Tidak ada penjelasan lebih rinci bahwa sewa jaringan itu untuk memfasilitasi pemanfaatan EBT. Walaupun demikian ruang sewa jaringan yang telah diamanahkan di dalam perundang-undangan dan peraturan yang ada dapat saja dimanfaatkan untuk percepatan pemanfaatan EBT. Yang perlu diperhartikan di dalam implementasi sewa jaringan sesuai dengan UU No 30 tahun 2009 bab 10 terkait harga jual, sewa jaringan dan tarif tenaga listrik seperti tercantum pada pasal 33 ayat 1, 2 dan 3. Sebagaimana dalam pasal 33 ayat 1 dijelaskan harga jual tenaga listrik dan sewa jaringan tenaga listrik ditetapkan berdasarkan prinsip usaha yang sehat. Kemudian pada ayat 2 dijelaskan pemerintah atau pemerintah daerah sesuai dengan kewenangannya memberikan persetujuan atas harga jual tenaga listrik dan sewa jaringan tenaga listrik. Selain pasal 33 ayat 1 menjadi pegangan untuk melaksanakan prinsip usaha yang sehat, ketentuan teknis penyewaan juga diatur dalam PP No 14 tahun 2012 pasal 4 ayat 2 yang menyatakan kewajiban membuka kesempatan pemanfaatan bersama jaringan transmisi dilakukan melalui sewa jaringan antara pemegang izin usaha penyediaan tenaga listrik yang melakukan usaha transmisi dengan pihak yang akan memanfaatkan jaringan transmisi. Selanjutnya di dalam pasal 4 ayat 3 dijelaskan bahwa pemanfaatan bersama jaringan transmisi sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai dengan kemampuan kapasitas jaringan transmisi. Berdasarkan pengertian dari ketentuan yang ada bahwa pelaksanaan sewa jaringan harus melalui proses business to business (B2B) yang tetap memberikan jaminan kesehatan pemilik usaha jaringan, pemilik pembangkit maupun pelanggan yang akan menerima manfaat. Pemerintah dalam hal ini sesuai hak dan kewenanganya untuk menetapkan harga sewa jaringan harus terlebih dahulu mengikuti kajian yang telah menjadi kesepakatan antara pemilik jaringan dan penyewa jaringan, sehingga implementasi pemanfaatan sewa jaringan memberikan manfaat bagi pihak-pihak yang berkepentingan.
 
-**2. Prof. Dr. Ibnu Sina Chandranegara, SH., MH.**
+## 2. Prof. Dr. Ibnu Sina Chandranegara, SH., MH.
 
 Atas permintaan dari Presiden melalui Kuasa Presiden dalam Perkara Nomor: 39/PUU-XXI/2023 Perihal Pengujian Materiil Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang terhadap UUD 1945, bersama ini dengan hormat disampaikan keterangan tertulis saya sebagai berikut:
 
@@ -4385,7 +4382,7 @@ Pertama, terhadap penjualan kelebihan tenaga listrik yang diatur dalam Pasal 23 
 
 [2.4.3] Selain kedua ahli tersebut diatas, Presiden juga telah menyampaikan keterangan tertulis 2 (dua) ahli yang masing-masing bernama Prof.Mohamad Ikhsan SE., MA., Ph.D., dan Eka Satria yang diterima Kepaniteraan Mahkamah pada tanggal 21 Februari 2024 sebagai berikut:
 
-**1. Prof. Mohamad Ikhsan SE., MA., Ph.D.,**
+## 1. Prof. Mohamad Ikhsan SE., MA., Ph.D.,
 
 Kebutuhan listrik di Indonesia baik bagi masyarakat umum dan pelaku usaha dengan kapasitas penyediaan listrik yang dapat disediakan oleh PLN. Pemenuhan kebutuhan energi, termasuk listrik, adalah bagian yang tidak terpisahkan dari kegiatan ekonomi. Dengan demikian pertumbuhan ekonomi hanya dapat terjadi jika kenaikan permintaan listrik dapat dipenuhi. Hal ini menjadi krusial dalam konteks aspirasi Indonesia menjadi negara maju di tahun 2045, lepas dari jeratan middle income trap. Untuk melihat perbandingan Indonesia dibanding dengan negara lain, kita bisa melihat konsumsi per kapita beberapa negara seperti yang terlihat di Tabel 1 berikut.
 
@@ -4444,9 +4441,9 @@ kebutuhan terbesar di sisi industri (41,3%), Bisnis (38,%), kemudian Rumah Tangg
 
 Saat ini, Singapura sangat membutuhkan listrik yang berasal dari energi terbarukan, yang merupakan syarat dari beberapa perusahaan, khususnya bagi perusahaan yang membutuhkan pasokan listrik dari energi terbarukan 100 persen (RE100 companies). Dengan keterbatasan lahan dan sumber energi terbarukan, Singapura perlu mendapatkan pasokan dari negara lain, khususnya negara tetangga seperti Indonesia. Tanpa akses pada listrik yang berasal dari energi terbarukan, kemampuan Singapura untuk mengembangkan ekonominya menjadi terbatas. Sebagai contoh, Singapura terpaksa melakukan moratorium untuk menambah pusat data (data center) dari tahun 2019-2023. Saat ini moratorium sudah tidak diberlakukan tapi penambahan kapasitas pusat data baru sangat dibatasi, karena sebenarnya preferensinya adalah menggunakan listrik yang berasal dari energi terbarukan. Pemenuhan kebutuhan listrik yang berasal dari energi terbarukan oleh Singapura akan dimanfaatkan oleh beberapa pengusaha Indonesia dengan mengembangkan pembangkit listrik tenaga surya di beberapa pulau yang berbatasan dengan Singapura.
 
-**2. Eka Satria**
+## 2. Eka Satria
 
-**Tumbuhnya perekonomian Indonesia mendorong kenaikan permintaan terhadap energi listrik beberapa tahun mendatang.**
+## Tumbuhnya perekonomian Indonesia mendorong kenaikan permintaan terhadap energi listrik beberapa tahun mendatang.
 
 Perekonomian Indonesia telah mengalami pertumbuhan yang signifikan dalam beberapa dekade terakhir, didorong oleh urbanisasi, industrialisasi, dan pertumbuhan populasi yang pesat. Pertumbuhan ini berdampak pada peningkatan kebutuhan akan energi, termasuk listrik, baik bagi masyarakat umum maupun pelaku usaha.
 
@@ -4464,7 +4461,7 @@ Dengan tingginya pertumbuhan kebutuhan listrik tersebut, berdasarkan data dari I
 
 Oleh karena itu, untuk memenuhi target Net Zero Emission (NZE) Indonesia dan mencapai mencapai target penanaman modal yang diperlukan, diperlukan kolaborasi antara pihak Pemerintah khususnya PLN dengan pengembang swasta dalam merealisasikan serta mengeksekusi proyek- proyek Energi Baru Terbarukan (EBT) ini. Hal ini memerlukan kerja sama para pihak terkait dalam mengidentifikasi peluang penanaman modal, mengatasi hambatan-hambatan yang mungkin muncul, serta memperkuat kerangka kerja regulasi yang mendukung bagi penanaman modal dalam sektor energi terbarukan dan infrastruktur ketenagalistrikan. Kerja sama yang solid antara sektor publik dan swasta akan menjadi kunci untuk meningkatkan realisasi penanaman modal dan mempercepat transisi menuju energi bersih dan berkelanjutan di Indonesia.
 
-**Kapasitas penyediaan listrik dan penyediaan infrastruktur perlu dipercepat agar dapat mengantisipasi kenaikan permintaan listrik.**
+## Kapasitas penyediaan listrik dan penyediaan infrastruktur perlu dipercepat agar dapat mengantisipasi kenaikan permintaan listrik.
 
 Pihak industri atau dunia usaha memerlukan pasokan listrik yang andal serta dengan harga yang kompefltif (biaya energi adalah salah satu komponen biaya produksi yang cukup besar sekitar 30-40% dari total biaya produksi, hampir di semua industri dan manufaktur). PLN memang sudah dapat memberikan layanan yang premium (stabil dengan dua gardu induk, anĞ kedip), tetapi masih dalam jangkauan yang terbatas. Bahkan untuk beberapa industri seperti smelter membutuhkan ketersediaan listrik dengan tarif listrik yang kompetiÜf agar mencapai keekonomian penanaman modal yang optimal dan memiliki daya saing yang tinggi. Diperkirakan kebutuhan pasokan listrik akan meningkat dengan pertumbuhan penduduk, industrialisasi dan pertumbuhan ekonomi pasca Covid-19 di tahun-tahun ke depan. Saat ini beberapa daerah sudah mengalami defisit atau kondisi cadangan pasokan (reserve margin) di bawah tingkat aman, yaitu di bawah 30%. Untuk memenuhi kebutuhan energi / listrik ke depan, akan diperlukan penanaman modal yang cukup masif, dan dengan mempertimbangkan subsidi listrik yang terus naik, ini akan melebihi kemampuan PLN dan juga pemerintah sehingga masih diperlukan peranan pihak swasta untuk pengembangan pembangkit listrik baru, termasuk pembangkit renewables yang diperlukan untuk memenuhi target Net hero Emission (NZE) Pemerintah. Selain itu penyebaran pasokan listrik (rasio elektrifikasi) di seluruh Indonesia juga masih menjadi permasalahan, dan ini juga memerlukan penanaman modal yang cukup signifikan.
 
@@ -4480,11 +4477,11 @@ Tantangan lain yang muncul adalah untuk menjaga emisi karbon di level yang renda
 
 Kondisi ini menunjukkan bahwa ada kesenjangan antara peningkatan kebutuhan listrik dengan kapasitas penyediaan listrik yang dapat disediakan oleh PLN. Oleh karena itu, diperlukan !angkah-langkah untuk meningkatkan infrastruktur kelistrikan, meningkatkan efisiensi energi, dan mendorong penanaman modal dalam sektor energi untuk memastikan pasokan listrik yang memadai bagi masyarakat umum dan pelaku usaha di lndonesia.
 
-**Beberapa hal yang perlu ditingkatkan agar kerja sama antara PLN dan dunia usaha dapat lebih optimal.**
+## Beberapa hal yang perlu ditingkatkan agar kerja sama antara PLN dan dunia usaha dapat lebih optimal.
 
 Terkait kerja sama dengan PLN dalam penyediaan listrik, terdapat beberapa hal penting yang menjadi pertimbangan utama para pelaku dunia usaha, yaitu waktu, harga dan non-intermitensi (tingkat kestabilan) pasokan listrik PLN. Dibawah ini merupakan contoh-contoh kasus dari beberapa pelaku usaha:
 
-**a) Kawasan Industri:**
+## a) Kawasan Industri:
 
 - Saat ini, banyak dibangun smelter (fasilitas pengolahan hasil tambang yang berfungsi meningkatkan kandungan logam seperti timah, nikel, tembaga, emas, dan perak hingga mencapai tingkat yang memenuhi standar sebagai bahan baku produk akhir) di daerah-daerah terpencil [remote areas, contohnya Morowali dan Pulau Obi. Dengan banyaknya pembangunan smelter di daerah terpencil tersebut, tidak selalu diikuti dengan kemampuan PLN untuk dapat menyediakan pelayanan listrik yang tersedia, stabil (non-intermitensi) dan dengan harga yang kompetJtif. Sedangkan, kawasan industri untuk mengembangkan pembangkit listrik sendiri dapat melalui proses yang lebih cepat, harga yang lebih murah dan juga jaminan non intermitensi.
 - Saat ini industri data center berkembang pesat di Indonesia. Padahal industri data center tersebut membutuhkan energi terbarukan yang mumpuni dan kompetitif. Pengembangan energi terbarukan yang dilakukan secara mandiri oleh kawasan industri dapat lebih cepat dan lebih murah.
@@ -4496,7 +4493,7 @@ Dengan demikian, proses yang sederhana, cepat dan biaya yang kompetitif merupaka
 
 Salah satu bentuk sinergi antara pelaku usaha dengan PLN adalah melalui konsep power wheeling di mana pelaku usaha membangun pembangkit listrik pada suatu daerah yang biasanya mendekafi dengan sumber energiprimer seperti batubara, gas, surya/matahari atau angin lalu menyalurkan energi listrik yang dihasilkan melalui jaringan PLN ke pusat beban milik pelaku usaha dengan membayarkan suatu toll fee kepada PLN. Menurut para ahli dan berdasarkan praktek di negaranegara yang telah melaksanakannya, skema ini akan dapat mengakselerasi proses transisi energi di lndonesia karena mendukung pengembangan pembangkit terutama yang berbasis Energi Baru Terbarukan (EBT). Dalam konteks pemanfaatan green energy, konsep power wheeling dapat memainkan peranan penting di dalam meningkatkan persentase Energi 8aru Terbarukan (EBT) di dalam sistem ketenagalistrikan. Beberapa negara telah mengimplementasikan konsep power wheeling tersebut. Saat ini beberapa negara-negara tetangga seperti Malaysia, Thailand, Singapura dan Fillipina telah mengimplementasikan konsep power wheeling dalam industri kelistrikannya. Selain itu, India juga sudah memberlakukan Renewable Purchase Obligafion (RPO) dimana terdapat kuota Energi Baru Terbarukan (EBT) tertentu yang harus dipenuhi, dan dalam pelaksanaannya, konsep power wheeling dapat berperan sebagai faktor penggerak (enabler). Power wheeling memungkinkan rasio elektrifikasi (RE) generators untuk mengembangkan pembangkit listrik |power plant) di lokasi yang paling efisien secara biaya dan dapat menyalurkan listrik ke daerah yang membutuhkan dengan memanfaatkan jaringan transmisi dan distribusi yang telah ada.
 
-**Dukungan penyediaan tenaga listrik dan permasalahan dunia usaha akibat kurangnya atau Ğdak tersedianya pasokan listrik oleh PLN**
+## Dukungan penyediaan tenaga listrik dan permasalahan dunia usaha akibat kurangnya atau Ğdak tersedianya pasokan listrik oleh PLN
 
 Beberapa contoh dari dunia usaha yang kegiatan usahanya sangat tergantung dengan ketersediaan pasokan listrik dari PLN adalah termasuk industri manufaktur (misalnya garmen, keramik, makanan dan minuman), teknologi, pertambangan, dan sektor jasa yang membutuhkan infrastruktur teknologi informasi yang handal. Keterbatasan pasokan listrik dapat menyebabkan penundaan dalam jadwal produksi, peningkatan biaya operasional akibat penggunaan generator listrik, atau bahkan pemutusan kontrak investasi.
 
@@ -4504,7 +4501,7 @@ Beberapa contoh dari dunia usaha yang kegiatan usahanya sangat tergantung dengan
 
 Untuk sektor pertambangan misalnya, dengan adanya kewajiban hilirisasi tambang sesuai amanat dan aturan Pemerintah pada semua industri tambang yaitu untuk membangun smelter, diperlukan infrastruktur kelistrikan yang memadai. Beberapa smelter berlokasi di area tambang yang lokasinya tersebar terutama di pulau-pulau di Indonesia bagian tengah dan fimur (Sulawesi, Halmahera) di mana infrastruktur kelistrikan milik PLN masih sangat terbatas. Dengan keterbatasan ini, pihak pengembang harus menunggu kesiapan PLN membangun pembangkit listrik yang sering kali memerlukan 3-5 tahun bahkan ada smelter sudah selesai dibangun tapi pembangkit listrik oleh PLN terlambat penyelesaiannya atau belum siap. Dengan resiko seperĞ ini, pengembang tentunya akan memperĞmbangkan kembali komitmennya untuk membangun smelter atau pengembang dapat memutuskan untuk membangun sendiri pembangkit listrik termasuk infrastruktur transmisi yang biayanya cukup besar. Dengan kondisi ini, pabrik smelter akan memerlukan waktu yang lebih lama dan produk smelter akan menjadi tidak kompet1hf di pasar internasional karena perlu memasukkan biaya investasi infrastruktur kelistrikan dalam perhitungan biaya produk. Dari data-data yang sudah dipublikasikan oleh media, pada tahun 2023 terdapat beberapa smelter di Sulawesi yang terancam tidak dapat beroperasi sesuai dengan jadwal karena Üdak tersedianya pasokan listrik sesuai dengan kebutuhan / demand yang ada. Total pasokan listrik yang diperlukan untuk smelter tersebut adalah sebesar 2.595 MW. Selain itu, pada tahun 2022, terdapat 22 proyek smelter nikel yang terkendala akibat kekurangan pasokan listrik. Kondisi dalam contoh-contoh di atas menjadi kekhawatiran bagi pelaku usaha, terutama dalam sektor-sektor yang sangat tergantung pada pasokan listrik yang stabil dan memadai.Pelaku industri atau dunia usaha yang telah beroperasi di lndonesia berpotensi mundur atau berhenti akibat permasalahan dengan keandalan pasokan listrik. KeÛadaan pasokan listrik yang handal dengan harga yang kompetiĞf yang memenuhi kebutuhan industri, dapat membuat pelaku usaha atau dunia usaha meninjau kembali penanaman modal mereka atau memindahkan operasi mereka ke negara tetangga (seperti Malaysia, Vietnam, Thailand dan Fillipina) yang menawarkan kepastian pasokan listrik yang lebih baik dan handal.
 
-**Pentingnya keterlibatan pelaku usaha dan masyarakat dalam akselerasi energi transisi terutama dalam penyediaan listrik berbasis energi terbarukan**
+## Pentingnya keterlibatan pelaku usaha dan masyarakat dalam akselerasi energi transisi terutama dalam penyediaan listrik berbasis energi terbarukan
 
 414
 
@@ -4512,7 +4509,7 @@ Selain keandalan, industri global semakin menyadari pentingnya keberlanjutan, di
 
 bersih.
 
-**Potensi dampak negatif jika ketersediaan listrik yang tidak handal, lambat dan harga yang tidak kompetitif.**
+## Potensi dampak negatif jika ketersediaan listrik yang tidak handal, lambat dan harga yang tidak kompetitif.
 
 415
 
@@ -4530,7 +4527,7 @@ Sesuai uraian di atas, peranan swasta dalam membangun pembangkit listrik masih s
 
 berkesinambungan. Infrastruktur kelistrikan yang saat ini dimiliki dan dioperasikan PLN juga sebaiknya dibuka dengan melibatkan perorangan (panel surya), BUMD, BUMDES dan dunia usaha untuk mencapai optimisasi sistem kelistrikan Indonesia yang handal dan mumpuni. Dengan demikian, penting untuk mempertahankan keragaman penyediaan tenaga listrik dengan melibatkan perorangan (panel surya), BUMD, BUMDES dan dunia usaha agar dapat mengurangi risiko terjadinya dampak negatif yang dapat mengganggu stabilitas ekonomi dan kesejahteraan masyarakat.
 
-**Potensi kebutuhan listrik negara tetangga (Singapura) dan dampaknya terhadap perekonomian lndonesia.**
+## Potensi kebutuhan listrik negara tetangga (Singapura) dan dampaknya terhadap perekonomian lndonesia.
 
 Penyediaan listrik oleh pihak lndonesia untuk diekspor ke negara tetangga seperti Singapura, sedang dikembangkan oleh kedua negara. Pada bulan Maret 2023, Pemerintah lndonesia dan Pemerintah Singapura menandatangani Memorandum of Understanding (MoU) terkait kerja sama energi terbarukan termasuk pengembangan industri manufakurer khususnya tenaga surya (solar PV) dan Sistem Penyimpanan Energi Baterai (SPEB). Kemudian pada bulan September 2023, Pemerintah lndonesia melalui Kementerian ESDM dan Pemerintah Singapura melalui MTI kembali menandatangani MoU terkait pengembangan proyek energi rendah karbon dan interkoneksi listrik lintas batas antara lndonesia dan Singapura dimana area kerja sama meliput1 pengembangan teknologi energi rendah karbon |solar P'\/, hydrogen, dan Carbon Capture &amp; Storage (CCS)/ Carbon Capture, Usage &amp; Storage (CCUS)), pengembangan jaringan listrik regional, interkoneksi lintas-batas, dan perdagangan energi, fasilitasi pembiayaan proyek energi, dan pengembangan sumber daya manusia terkait. Melalui program ekspor listrik, pihak Indonesia dapat menjual listrik secara langsung ke perusahaan-perusahaan di Singapura dalam bentuk baseload\non-intermiNent) yang memerlukan Sistem Penyimpanan Energi Baterai (SPEB). Oleh karena itu, biaya yang dibutuhkan jauh lebih Ünggi dari harga jual listrik domesÜk di lndonesia. Pada saat ini, beberapa perusahaan di Singapura bersedia untuk membayar tarif listrik yang jauh lebih Ünggi dari tarif listrik yang berlaku di Indonesia. Pihak Indonesia sudah memperoleh persetujuan bersyarat )ConditionaI Approva( dari pemerintah Singapura untuk mengimpor listrik berupa green electricity yaitu listrik yang bersumber dari Energi Baru Terbarukan (EBT) (renewable energy) dariIndonesia. Kapasitas listik yang dibutuhkan mencapai 2 GWac (50% dari kebutuhan EBT Singapura yang mencapai 4 GWac sampai dengan tahun 2035) dimana kapasitas ini setara dengan 12 - 14 GWp apabila menggunakan solar PV dan kebutuhan SPEB lebih dari 20 GWh. Potensi ekspor tenaga listrik ke Singapura menjadi topik penting karenaingapura merupakan salah satu negara dengan kebutuhan energi yang ünggi dengan daya beli yang juga Ğnggi, namun memiliki
 
@@ -4600,7 +4597,7 @@ warga negara. Dengan kesadaran inilah PIHAK TERKAIT kemudian memutuskan untuk me
 
 Pasal 3 PMK No. 2/2021
 
-**'Para pihak dalam perkara PUU adalah:**
+## 'Para pihak dalam perkara PUU adalah:
 
 - a. Pemohon;
 - b. Pemberi Keterangan; dan
@@ -4626,7 +4623,7 @@ Pasal 6 PMK No. 2/2021
 8. Bahwa PIHAK TERKAIT bertindak mewakili organisasi serikat buruh Federasi SERBUK Indonesia yang memiliki tujuan sebagaimana diatur dalam Pasal 9 angka 4 Statuta Federasi SERBUK Indonesia, yang menyatakan: 'Tujuan SERBUK Indonesia adalah sebagai berikut: 4. Meningkatkan kesejahteraan anggota dengan menyelenggarakan berbagai upaya baik dengan perjanjianperjanjian kerja bersama maupun dengan melakukan advokasi kebijakan pemerintah yang dinilai merugikan buruh.'
 9. Bahwa guna menjelaskan lebih lanjut kedudukan hukum PIHAK TERKAIT, PIHAK TERKAIT adalah Ketua Umum Federasi SERBUK Indonesia yang berdasarkan Pasal 37 huruf d Statuta Federasi SERBUK Indonesia berhak mewakili untuk dan atas nama Federasi SERBUK Indonesia dalam kepentingan mewakili organisasi di dalam maupun di luar pengadilan
 
-**Pasal 37 huruf d Statuta Federasi SERBUK Indonesia**
+## Pasal 37 huruf d Statuta Federasi SERBUK Indonesia
 
 'Ketua Umum menjalankan tugas dan wewenang mewakili SERBUK Indonesia mewakili organisasi di dalam maupun di luar pengadilan, dalam hubungan eksternal organisasi dan tampil di hadapan publik sebagai representasi organisasi dengan memberikan respon dan menyampaikan sikap/pandangan politik organisasi.'
 
@@ -4635,7 +4632,7 @@ Pasal 6 PMK No. 2/2021
 11. Bahwa merujuk pada Pasal 28C ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dinyatakan 'Setiap orang berhak untuk memajukan dirinya dalam memperjuangkan haknya secara kolektif untuk membangun masyarakat, bangsa, dan negaranya.'
 12. Berdasarkan uraian tersebut di atas, maka PIHAK TERKAIT memiliki kedudukan hukum atau legal standing (hak untuk mewakili kepentingan hukum organisasi serikat buruh Federasi SERBUK Indonesia) dalam mengajukan Permohonan a quo sebagai PIHAK TERKAIT. Oleh karenanya, PIHAK TERKAIT dengan ini mengajukan permohonan kepada Ketua Mahkamah Konstitusi Republik Indonesia sebagai PIHAK TERKAIT YANG BERKEPENTINGAN LANGSUNG dan selanjutnya memberikan Keterangan PIHAK TERKAIT dalam Permohonan Pengujian Register No. 39/PUUXXI/2023 tentang Pengujian Materiil Undang-Undang Nomor 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang [Pasal 42 angka 5 Pasal 7 ayat (1), angka 6 Pasal 10 ayat (2), angka 7 Pasal 11 ayat (1), angka 15 Pasal 23 ayat (2), angka 23 Pasal 33 ayat (1) dan (2)] terhadap UndangUndang Dasar Republik Indonesia Tahun 1945.
 
-**C. KEPENTINGAN HUKUM PIHAK TERKAIT**
+## C. KEPENTINGAN HUKUM PIHAK TERKAIT
 
 1. Bahwa pengakuan hak setiap warga negara Indonesia untuk mengajukan permohonan pengujian Undang-Undang terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 merupakan satu indikator perkembangan ketatanegaraan yang positif yang merefleksikan adanya kemajuan bagi penguatan prinsip-prinsip negara hukum.
 2. Bahwa dalam sidang uji materiil (judicial review) di Mahkamah Konstitusi dimungkinkan adanya keterlibatan pihak terkait yang merasa terkait atau terpengaruh oleh proses pengujian suatu undang-undang di Mahkamah Konstitusi.
@@ -4666,13 +4663,13 @@ Pasal 6 PMK No. 2/2021
 - kepentingan umum yang telah diberikan rambu-rambu konstitusionalnya dalam putusan Mahkamah Konstitusi khususnya dalam Putusan Perkara No. 111/PUU-XIII/2015 dan Perkara No. 001-021-022/PUU-I/2003 yang menerangkan secara jelas konsep peran Negara dalam penguasaan listrik untuk kepentingan umum dan larangan usaha penyediaan tenaga listrik untuk kepentingan umum dilakukan secara terpisah/tidak terintegrasi.
 15. Bahwa untuk menghindari kerugian hukum dari PIHAK TERKAIT dan juga untuk memberikan perlindungan hukum atas hak-hak konstitusional PIHAK TERKAIT, dan juga berdasarkan pada argumentasi hukum di atas, maka PIHAK TERKAIT memiliki dasar kepentingan hukum untuk mewakili kepentingan umum/publik dan memperjuangkan kepentingan hak-hak konstitusionalnya dengan mengajukan permohonan kepada Ketua Mahkamah Konstitusi Republik Indonesia dan menjadi PIHAK TERKAIT yang berkepentingan langsung dalam Permohonan Pengujian Register No. 39/PUUXXI/2023 tentang Pengujian Materiil Undang-Undang Nomor 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang [Pasal 42 angka 5 Pasal 7 ayat (1), angka 6 Pasal 10 ayat (2), angka 7 Pasal 11 ayat (1), angka 15 Pasal 23 ayat (2), angka 23 Pasal 33 ayat (1) dan (2)] terhadap UndangUndang Dasar Republik Indonesia Tahun 1945.
 
-**D. POKOK KETERANGAN PIHAK TERKAIT**
+## D. POKOK KETERANGAN PIHAK TERKAIT
 
 1. Bahwa pada dasarnya PIHAK TERKAIT sependapat dan mendukung seluruh permohonan yang dimohonkan oleh PARA PEMOHON dalam Permohonan Pengujian Register No. 39/PUU-XXI/2023.
 2. Bahwa Pasal 42 angka 5 Pasal 7 ayat (1), angka 6 Pasal 10 ayat (2), angka 7 Pasal 11 ayat (1), angka 15 Pasal 23 ayat (2), angka 23 Pasal 33 ayat (1) dan (2) Undang-Undang Nomor 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang bertentangan dengan Pasal 28C ayat (1), Pasal 28D ayat (1), Pasal 33 ayat (2) dan (3) Undang-Undang Dasar 1945.
 3. Bahwa oleh karena itu hal-hal yang dapat disampaikan oleh PIHAK TERKAIT yang berkepentingan langsung dapat menjadi pertimbangan oleh Mahkamah Konstitusi dalam memeriksa dan memutus permohonan pengujian perkara a quo.
 
-**D.1. Usaha Penyediaan Tenaga Listrik Dengan Tidak Terintegrasi Bertentangan Dengan Pasal 28D ayat (1) dan Pasal 33 ayat (2) UUD 1945**
+## D.1. Usaha Penyediaan Tenaga Listrik Dengan Tidak Terintegrasi Bertentangan Dengan Pasal 28D ayat (1) dan Pasal 33 ayat (2) UUD 1945
 
 1. Bahwa terkait dengan usaha penyediaan listrik dengan tidak terintegrasi (unbundling) pernah diuji konstitusionalitasnya di Mahkamah Konstitusi. Pada Putusan Perkara No. 001-021-022/PUU-I/2003 halaman 347 menegaskan 'Mahkamah berpendapat bahwa untuk menyelamatkan dan melindungi serta mengembangkan lebih lanjut perusahaan negara (BUMN) sebagai aset negara dan bangsa agar lebih sehat yang selama ini telah berjasa memberikan pelayanan kelistrikan kepada masyarakat, bangsa, dan negara Indonesia, baik yang beraspek komersiil maupun non-komersiil sebagai wujud penguasaan negara, sehingga ketentuan Pasal 16 UU No. 20 Tahun 2002 yang memerintahkan sistem pemisahan/pemecahan usaha ketenagalistrikan (unbundling system) dengan pelaku usaha yang berbeda akan semakin membuat terpuruk BUMN yang akan bermuara kepada tidak terjaminnya pasokan listrik kepada semua lapisan masyarakat, baik yang bersifat komersial maupun non-komersial. Dengan demikian yang akan merugikan masyarakat, bangsa dan negara. keterangan ahli yang diajukan pemohon telah menjelaskan pengalaman empiris yang terjadi di Eropa, Amerika Latin, Korea, dan Meksiko, sistem unbundling dalam restruktuisasi usaha listrik justru tidak menguntungkan dan tidak selalu efisien dan malah menjadi beban berat bagi negara, sehingga karenanya Mahkamah berpendapat bahwa hal tersebut bertentangan dengan pasal 33 UUD 1945.'
 2. Selanjutnya dalam amar Putusan Mahkamah Konstitusi No. 111/PUU-XIII/2015 menyatakan Pasal 10 ayat (2) Undang-Undang Nomor 30 Tahun 2009 tentang Ketenagalistrikan bertentangan dengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 secara bersyarat dan tidak memiliki kekuatan hukum mengikat apabila rumusan dalam Pasal 10 ayat (2) Undang-Undang Nomor 30 Tahun 2009 tentang Ketenagalistrikan tersbut diartikan menjadi dibenarkannya praktik unbundling dalam usaha penyediaan tenaga listrik untuk kepentingan umum sedemikian rupa sehingga menghilangkan kontrol negara sesuai dengan prinsip 'dikuasai oleh negara.'
@@ -4834,7 +4831,7 @@ keuangan negara dan pengawasan kebijakan pemerintah. Pada dokumen RUKN disebutka
 
 berpendapat bahwa Pasal 42 angka 5 Pasal 7 ayat (1) Undang-Undang No. 6 Tahun 2023 harus dinyatakan tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimaknai Rencana Umum Ketenagalistrikan Nasional disusun berdasarkan kebijakan energi nasional dan ditetapkan oleh Pemerintah Pusat melalui persetujuan DPR RI.
 
-**PETITUM**
+## PETITUM
 
 Berdasarkan alasan-alasan hukum dan konstitusionalitas yang telah diuraikan tersebut di atas, maka PIHAK TERKAIT yang berkepentingan langsung memohon agar Ketua Mahkamah Konstitusi Republik Indonesia dapat mengabulkan hal-hal sebagai berikut:
 
@@ -4867,15 +4864,15 @@ Atau apabila Majelis Hakim Mahkamah Konstitusi berpendapat lain, mohon putusan y
 
 [2.5.2] Selain itu, Pihak Terkait telah pula menyampaikan keterang tertulis 1 (satu) orang ahli yang bernama Feri Amsari yang telah diterima Kepaniteraan Mahkamah pada tanggal 7 Februari 2024 sebagai berikut:
 
-**BAB I PENDAHULUAN**
+## BAB I PENDAHULUAN
 
-**A. Pokok Persoalan**
+## A. Pokok Persoalan
 
 Secara historikal tenaga listrik merupakan kebutuhan yang amat penting dalam kehidupan manusia. Kebutuhan manusia terhadap tenaga listrik semakin meningkat dari waktu ke waktu. Kebutuhan tenaga listrik juga terus bertambah sesuai dengan perkembangan ilmu pengetahuan dan teknologi serta perkembangan sumber daya manusia. Di samping itu, tenaga listrik mempunyai peranan yang sangat penting dan strategis dalam mewujudkan tujuan pembangunan nasional. Untuk mencukupi kebutuhan sumber daya listrik tersebut maka diperlukan pengelolaan dengan memerhatikan prinsip-prinsip kemanfaatan, efisien, berkeadilan, berkelanjutan, optimalisasi ekonomi dalam pemanfaatan sumber daya energi, mengandalkan pada kemampuan sendiri, kaidah usaha yang sehat, keamanan dan keselamatan, dan kelestarian fungsi lingkungan.
 
 Itu sebabnya, menurut Ahli, dalam rangka menjaga prinsip-prinsip mulia tersebut sekaligus dalam rangka memitigasi semua symptoms (gejala) sosial yang ada, dengan perkembangan kehidupan manusia yang makin kompleks, standar hukum dinilai tidak lagi cukup untuk memperbaiki keadaan. Semakin hukum dibuat dalam rupa yang makin canggih, pelanggaran dan celahnya pun berkembang melebihi daya jangkau hukum itu sendiri. Kondisi inilah kemudian yang mendasari para pemikir sosiologi hukum untuk menjustifikasi bahwa hukum selalu tertinggal dari perkembangan masyarakat. Oleh karena itu, menyandarkan perbaikan keadaan kepada semata-mata hukum, tentunya akan berujung dengan kekecewaan. Agar harapan pada hukum dapat dicapai, hukum mesti dilengkapi dengan seperangkat instrumen yang mampu menopang jalannya hukum. Itu sebabnya, Mochtar Kusumaatmadja, dalam teori hukum pembangunannya menghendaki agar hukum berfungsi lebih daripada yang dicita-citakan yakni sebagai 'sarana pembaharuan masyarakat' (law as a tool of social engeneering) atau 'sarana pembangunan' melalui pembentukan hukum. Namun dalam konteks ketengalistrikan, tampaknya ketaatan pembentuk hukum dalam menjalankan putusan Mahkamah Konstitusi masih terbilang rendah. Keberadaan Undang-Undang No. 6 Tahun 2023 yang melahirkan kembali usaha penyediaan tenaga listrik dengan sistem pemisahan (unbundling system) dalam Undang-Undang No. 20 Tahun 2002 maupun Undang-Undang Nomor 30 tahun 2009 yang telah dinyatakan inkonstitusional keberlakuannya merupakan salah satu bentuk ketidaktaatan pembuat undang-undang terhadap konstitusi dan putusan Mahkamah Konstitusi. Padahal dalam Putusan Mahkamah Konstitusi No. 001-021022/PUU-I/2003 maupun No. 111/PUU-XIII/2015 ditegaskan bahwa sistem pemisahan/pemecahan usaha ketenagalistrikan (unbundling system) dengan pelaku usaha yang berbeda bermuara pada tidak terjaminnya pasokan listrik kepada semua lapisan masyarakat. Penggunaan frasa 'dapat terintegrasi' yang tertuang dalam Pasal 42 angka 6 Pasal 10 ayat (2) Undang-Undang No. 6 Tahun 2023 merupakan pemaknaan yang sama dengan pemisahan/pemecahan usaha ketenagalistrikan jika disandingkan dengan a contrario makna yakni tidak terintegrasi. Pengaturan ini sesungguhnya juga mengarah pada hilangnya penguasaan cabang-cabang produksi penting yakni listrik oleh negara, sehingga permohonan uji konstitusionalitas dalam permohonan pengujian No. 39/PUU-XXI/2023 menjadi langkah yang tepat untuk memastikan penguasaan cabang-cabang produksi penting yakni listrik tetap ditangan negara sebagai jaminan pemenuhan kepentingan umum atas penyediaan listrik oleh negara. Atas dasar itu, terhadap sejumlah norma yang dipersoalkan dalam pengujian ini sehingga pasal a quo dianggap bertentangan dengan Pasal 33 ayat (2) dan ayat (3) UUD NRI Tahun 1945.
 
-**B. Prinsip-prinsip Konstitusional Hak Menguasai Negara**
+## B. Prinsip-prinsip Konstitusional Hak Menguasai Negara
 
 Dalam batas penalaran hukum, hak menguasai negara merupakan suatu kewenangan atau wewenang formal yang ada pada negara dan memberikan hak kepada negara untuk bertindak baik secara aktif maupun pasif dalam bidang pemerintahan negara, dengan kata lain wewenang negara tidak hanya berkaitan dengan wewenang pemerintahan semata, akan tetapi meliputi pula semua wewenang dalam rangka melaksanakan tugasnya. Secara normatif, politik hukum penguasaan sumber daya alam Indonesia termuat dalam Pasal 33 ayat (3) UUD
 
@@ -4932,7 +4929,7 @@ multipersepsi bagi pemerhati hukum secara konstitusional, maka hak menguasai neg
 
 pengelolaan sumber daya alam melalui instrumen 'hak menguasai negara'. Jika dikaitkan dengan instrumen hak menguasai negara, menurut Bagir Manan, 'hak menguasai negara tidak boleh dilepaskan dari tujuan yaitu demi sebesar-besarnya kemakmuran rakyat. Negara harus memberikan hak terdahulu kepada rakyat yang telah secara nyata dan dengan itikad baik memanfaatkan sumber daya alam'. Dengan demikian, Ahli berkeyakinan bahwa prinsip ini menghendaki substansi pengaturan kebijakan-kebijakan pengelolaan sumberdaya alam, termasuk kebijakan pertanahan dan penataan ruang harus berpihak kepada rakyat demi terwujudnya kesejahteraan. Pengelolaan dan pemanfaatan sumberdaya alam harus mengurangi setahap demi setahap jumlah angka kemiskinan di Indonesia. Kata sebesar-besarnya mengacu pada konsep filsafat Jeremy Bentham yang lazim digunakan oleh negara-negara demokrasi, yaitu 'the great happiness for the great numbers'. Di negara-negara tersebut, filsafat inilah yang digunakan untuk mengukur 'kepentingan umum' yang berarti kepentingan orang yang lebih banyak. Di masa lalu kita sering menemukan bias pengertian, sehingga pembangunan sebuah lapangan golf terpaksa mengusur rakyat atas nama kepentingan umum. Hal itu terjadi karena keberpihakan kepada rakyat miskin tidak tergambar dengan jelas dalam berbagai undang-undang yang melaksanaan Pasal 33 ayat (3) UUD 1945 termasuk UU Ketenagalistrikan tersebut.
 
-**BAB II KONSTITUSIONALISME EKONOMI A. Ekonomi Kerakyatan Berbasis Pasal 33 UUD NRI 1945**
+## BAB II KONSTITUSIONALISME EKONOMI A. Ekonomi Kerakyatan Berbasis Pasal 33 UUD NRI 1945
 
 Diskursus mengenai konstitusi ekonomi (economic constitution) pada saat ini, menemukan relavansinya dengan kecenderungan pada banyak negara saat ini. Kebutuhan akan penciptaan sistem pemerintahan yang semakin efektif, efisien dan akomodatif mempengaruhi terhadap perubahan-perubahan zaman, khususnya di dalam aktivitas ekonomi di suatu negara. Itu sebabnya, hal tersebut kemudian membuat banyak pakar memikirkan pendekatan yang lebih baru dan merevisi pendekatan-pendekatan yang selama ini digunakan di dalam mendefinisikan persoalan-persoalan terkait dengan ketatanegaraan, lebih khusus terhadap hubungan ketatanegaraan dengan ekonomi. Konstitusi ekonomi atau hukum ketatanegaraan ekonomi (economic constitutional law) oleh J. Baquero Cruz didefinisikan sebagai,'economics constitutional law consist rules that deal with economics maters'.
 
@@ -4993,7 +4990,7 @@ Berdasarkan aspek filosofis, historis, dan empirikal yang Ahli uraikan di atas, 
 
 Itu sebabnya, melalui penjelasan ini Ahli hendak memperkuat dan menggarisbawahi bahwa kelima prinsip dasar kebijakan dalam pengelolaan sumber daya alam tersebut, termasuk di dalamnya soal ketenagalistrikan, harus mampu dirumuskan ke dalam bahasa hukum yang bersifat normatif (mengkaidah) sehingga terpatri di dalam kehidupan bermasyarakat secara adil.
 
-**BAB III PENDAPAT AHLI**
+## BAB III PENDAPAT AHLI
 
 - A. Sifat Konstitusi dan Peran Negara dalam Melindungi Hak Atas Ketenagalistrikan
 
@@ -5107,7 +5104,7 @@ undang-undang sebaiknya menggunakan kalimat yang tidak multitafsir serta senanti
 
 [2.6.1] Kesimpulan para Pemohon pada pokoknya menyampaikan sebagai berikut:
 
-**A. HAK INGKAR TERHADAP HAKIM KONSTITUSI DR. H. ARSUL SANI, S.H., M.SI., PR.M.**
+## A. HAK INGKAR TERHADAP HAKIM KONSTITUSI DR. H. ARSUL SANI, S.H., M.SI., PR.M.
 
 1. Bahwa yang menjadi objek uji materi dalam perkara yang terregister dengan nomor 39/PUU-XXI/2023 adalah Undang-Undang Nomor 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut sebagai UU CK);
 2. Bahwa sebagaimana diketahui oleh umum, Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja disahkan menjadi undang-undang oleh DPR RI dalam Rapat Paripurna DPR RI ke-19 masa persidangan IV tahun sidang 2022-2023, pada tanggal 21 Maret 2023 (https://nasional.tempo.co/read/1705252/tok-dpr-sahkan-perpu-ciptakerja-jadi-undang-undang);
@@ -5154,7 +5151,7 @@ UNDANG-UNDANG A QUO MENGATUR (KEMBALI) USAHA PENYEDIAAN TENAGA LISTRIK UNTUK KEP
 
 kekuatan hukum tetap bila tidak dikuasai oleh Negara, tetapi menurut Ahli Shaun Sweeney, praktik unbundling dan swastanisasi menghilangkan Kendali Negara atau Penguasaan Negara melalui hal-hal sebagai berikut:
 
-**(vide Keterangan Tambahan Ahli Shaun Sweeney)**
+## (vide Keterangan Tambahan Ahli Shaun Sweeney)
 
 - a. Pengalihan kepemilikan ke tangan swasta.
 - b. Membatasi peran PLN (dengan menjadikannya hanya) sebagai pembeli, bukan penghasil tenaga Listrik.
@@ -5205,13 +5202,13 @@ Berdasarkan acuan statistik 2022 dan olahan data terkait lainnya, kepemilikian P
 - Menyatakan Pasal 11 ayat (1) Undang-Undang Nomor 30 tahun 2009 tentang Ketenagalistrikan bertentangan dengan UndangUndang Dasar Negara Republik Indonesia tahun 1945 secara bersyarat dan tidak memiliki kekuatan hukum mengikat apabila rumusan dalam Pasal 11 ayat (1) Undang-Undang Nomor 30 tahun 2009 tentang Ketenagalistrikan tersebut dimaknai hilangnya prinsip 'dikuasai oleh negara'
 36. Bahwa berdasarkan hal-hal tersebut diatas telah cukup beralasan Mahkamah Konstitusi mengabulkan permohonan Para Pemohon dan menyatakan Pasal 42 angka 6 Pasal 10 ayat (2) UU CK bertentangan dengan UUD 1945 dan oleh karenanya tidak mempunyai kekuatan hukum mengikat serta menyatakan frasa 'badan usaha milik negara' pada Pasal 42 angka 7 Pasal 11 ayat (1) UU CK bertentangan dengan UUD 1945 dan oleh karenanya tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimaknai badan usaha milik negara di bidang usaha ketenagalistrikan dalam hal ini PT PLN (Persero);
 
-**MENIADAKAN PENGAWASAN PUBLIK MELALUI PERAN DPR RI UNTUK TERLIBAT DALAM MENETAPKAN RENCANA UMUM KETENAGALISTRIKAN NASIONAL (RUKN)**
+## MENIADAKAN PENGAWASAN PUBLIK MELALUI PERAN DPR RI UNTUK TERLIBAT DALAM MENETAPKAN RENCANA UMUM KETENAGALISTRIKAN NASIONAL (RUKN)
 
 37. Bahwa terbukti Pasal 42 angka 5 Pasal 7 ayat (1) UU CK telah menyebabkan hilangnya peran DPR RI untuk terlibat dalam menentukan RUKN;
 38. Bahwa hal ini ditegaskan oleh Ahli Pemohon Dr. Maruarar Siahaan, S.H., M.H. yang memberikan keterangan di muka persidangan yang pada pokoknya menyatakan 'Pasal 42 angka 5 Pasal 7 ayat (1) undang-undang a quo yang menghilangkan frasa setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia' diartikan telah meniadakan kedudukan berdaulat rakyat melalui fungsi pengawasan DPR RI dalam rencana umum energi nasional sebagaimana pernah diatur sebelumnya dalam Pasal 7 ayat (1) UU No 30 tahun 2009 tentang Ketenagalistrikan yang menyatakan bahwa 'Rencana umum ketenagalistrian nasional disusun berdasarkan pada kebijakan energi nasional dan ditetapkan oleh Pemerintah setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia', hal mana menurut hemat saya bertentangan dengan UUD 1945 tentang demokrasi dan kedaulatan Rakyat sebagai pemegang kekuasaan tertinggi, terhadap siapa kebijakan pembangunan dan ekonomi, dimaksudkan dan ditujukan';
 39. Bahwa peran DPR RI dalam pembahasan dan penetapan RUKN sangat lah penting sebagai bentuk pengejawantahan kedaulatan rakyat atas listrik sebagai kebutuhan hajat hidup orang banyak. RUKN merupakan rencana pengembangan sistem penyediaan tenaga listrik yang meliputi pembangkitan, transmisi, distribusi tenaga listrik yang diperlukan untuk memenuhi kebutuhan tenaga listrik dan berlaku selama 20 tahun. Dalam penetapan RUKN yang didasarkan pada Kebijakan Energi Nasional (KEN) dan merujuk kepada Rencana Umum Energi Nasional (RUEN) haruslah didahului dengan berkonsultasi dengan DPR dan mengikutsertakan Pemerintah Daerah (vide Bukti P-27);
 
-**PENJUALAN KELEBIHAN TENAGA LISTRIK UNTUK KEPENTINGAN UMUM HANYA DAPAT DILAKUKAN DI WILAYAH YANG BELUM TERJANGKAU OLEH NEGARA**
+## PENJUALAN KELEBIHAN TENAGA LISTRIK UNTUK KEPENTINGAN UMUM HANYA DAPAT DILAKUKAN DI WILAYAH YANG BELUM TERJANGKAU OLEH NEGARA
 
 40. Bahwa terbukti kata 'dapat' pada Pasal 42 angka 15 Pasal 23 ayat (2) pada UU CK bertentangan dengan Pasal 33 ayat (2) UUD 1945 dan tidak memiliki kekuatan hukum mengikat sepanjang tidak dimaknai penjualan kelebihan tenaga listrik hanya dapat dilakukan di daerah yang belum tersedia dan tidak kelebihan listrik;
 41. Bahwa Negara bertanggung jawab dalam hal usaha penyediaan tenaga listrik untuk kepentingan umum, dan dalam hal terdapat kelebihan tenaga listrik maka seharusnya dilakukan di wilayah yang belum terjangkau;
@@ -5220,13 +5217,13 @@ Berdasarkan acuan statistik 2022 dan olahan data terkait lainnya, kepemilikian P
 44. Bahwa dengan demikian jika ada usaha ketenagalistrikan untuk kepentingan sendiri yang berlebih listrik yang dihasilkannya maka sudah seharusnya negara hanya mendapatkan hibahan listrik ataupun pembelian listrik dengan harga yang sangat murah karena sedari awal skemanya adalah usaha untuk kepentingan sendiri;
 45. Bahwa selain itu, patut diperhatikan mengacu pada keterangan ahli Nursyiwan, penjualan kelebihan listrik sesunguhnya secara teknis dapat mengganggu kehandalan sistem yang suatu waktu dapat berdampak pada kerugian yang diterima masyarakat (vide Keterangan Ahli Nusyirwan);
 
-**PRAKTEK SEWA JARINGAN TENAGA LISTRIK INKONSTITUSIONAL**
+## PRAKTEK SEWA JARINGAN TENAGA LISTRIK INKONSTITUSIONAL
 
 46. Bahwa norma mengenai praktek sewa jaringan dalam ketentuan Pasal 42 angka 23 Pasal 33 ayat (1) dan (2) UU CK terbukti membuat kerentanan sistem transmisi interkoneksi yang dapat menimbulkan potensi terganggunya usaha penyediaan tenaga listrik untuk kepentingan umum sehingga menyebabkan listrik padam dan merugikan kepentingan masyarakat pada umumnya;
 
 47. Bahwa seharusnya tidak diperbolehkan penjualan tenaga listrik oleh swasta yang berlanjut pada adanya sewa jaringan, karena terdapat potensi terganggunya keandalan sistem disebabkan karena saluran Saluran Udara Tegangan Tinggi (SUTT) memiliki batas kapasitas terbatas sesuai rencana load flow yang sudah direncanakan sebelumnya. Bila melebihi kapasitas maka SUTT bisa terbakar atau membara dan mermbahayakan lingkungan sekitar saluran tersebut dan akhirnya pelayanan terhadap konsumen terganggu (vide Keterangan Ahli Nursyiwan);
 
-**C. PETITUM**
+## C. PETITUM
 
 Berdasarkan hal-hal tersebut di atas, Para Pemohon memohon kepada Majelis Hakim Mahkamah Konstitusi untuk memutus perkara a quo dengan amar putusan sebagai berikut:
 
@@ -5247,7 +5244,7 @@ Atau apabila Majelis Mahkamah Konstitusi berpendapat lain, mohon putusan yang se
 
 - [2.6.2] Kesimpulan Presiden pada pokoknya menyampaikan sebagai berikut:
 
-**V. TENTANG KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON**
+## V. TENTANG KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON
 
 Bahwa Pemerintah tetap pada pendiriannya menyatakan Para Pemohon tidak memiliki kedudukan hukum (legal standing). Para Pemohon tidak memiliki kerugian konstitusional akibat keberlakuan norma-norma a quo yang dimohonkan dimaksud, dengan alasan sebagai berikut:
 
@@ -5265,7 +5262,7 @@ Berdasarkan hal tersebut di atas, Pemerintah berpendapat Para Pemohon tidak meme
 
 Pada masa persidangan atas permohonan pengujian register 39/PUU-XXI/2023, Yang Mulia Hakim Konstitusi Prof. Dr. Arief Hidayat S.H., M.S., Dr. Daniel Yusmic Pancastaki Foekh, S.H., M.H., Prof. Dr. Saldi Isra, S.H., MPA. dan Prof. Dr. Enny Nurbaningsih, S.H., M.Hum telah memberikan pertanyaan dan tanggapannya terhadap Keterangan Presiden pada persidangan tanggal 14 November 2023 dan 1 Februari 2024. Terhadap pertanyaan Yang Mulia Hakim Konstitusi tersebut, Pemerintah menjawab melalui Keterangan Tambahan Presiden yang telah Pemerintah sampaikan secara tertulis melalui kepaniteraan Mahkamah Konstitusi pada tanggal 13 Februari 2024 (Bukti PK-8)
 
-**VII. TANGGAPAN PEMERINTAH ATAS KETERANGAN AHLI PARA PEMOHON**
+## VII. TANGGAPAN PEMERINTAH ATAS KETERANGAN AHLI PARA PEMOHON
 
 Bahwa dalam persidangan di Mahkamah Konstitusi pada tanggal 15 Januari 2024 dengan agenda mendengarkan Keterangan Pihak Terkait dan Ahli Pemohon, yang pada intinya menyampaikan hal-hal sebagai berikut:
 
@@ -5326,25 +5323,25 @@ Selain itu kendali negara dalam pelaksanaan ketenagalistrikan diwujudkan dalam b
 - f. Kemudian, terkait keterangan Ahli Para Pemohon (Shaun Sweeney Ph.D) yang menyatakan 'Harga listrik akan ditentukan berdasarkan kontrak Perjanjian Pembelian Tenaga Listrik (PPA) antara pemerintah dengan perusahaan swasta independen penghasil listrik (IPP), dan harga listrik akan meningkat' merupakan keterangan yang tidak berdasar karena:
 - 1) Pemerintah memiliki kewenangan dalam menetapkan harga listrik sebagaimana diatur dalam ketentuan Pasal 42 angka 4 Lampiran UU CK yang mengubah ketentuan Pasal 5 ayat (1) huruf i dan huruf j UU Ketenagalistrikan yang menyatakan:
 
-**Pasal 5 ayat (1) huruf i dan huruf j UU Ketenagalistrikan pasca UU CK:**
+## Pasal 5 ayat (1) huruf i dan huruf j UU Ketenagalistrikan pasca UU CK:
 
 - (1) Kewenangan Pemerintah Pusat di bidang Ketenagalistrikan meliputi:
 - a. Penetapan tarif Tenaga Listrik untuk Konsumen dari pemegang perizinan Berusaha penyediaan Tenaga Listrik untuk kepentingan umum;
 - b. Penetapan persetujuan harga jual Tenaga Listrik dan sewa jaringan Tenaga Listrik dari pemegang perizinan Berusaha penyediaan Tenaga Listrik untuk kepentingan umum;
 - 2) Kemudian, dalam menetapkan tarif Tenaga Listrik untuk Konsumen sebagaimana diatur Pasal 42 angka 4 Lampiran UU CK yang mengubah ketentuan Pasal 5 ayat (1) huruf i UU Ketenagalistrikan, Pemerintah harus mendapatkan persetujuan Dewan Perwakilan Rakyat sebagaimana diatur dalam Pasal 42 angka 24 Lampiran UU CK yang mengubah Pasal 34 ayat (1) dan ayat (2) UU Ketenagalistrikan yang menyatakan:
 
-**Pasal 34 ayat (1) UU Ketenagalistrikan pasca UU CK:**
+## Pasal 34 ayat (1) UU Ketenagalistrikan pasca UU CK:
 
 - (1) Pemerintah Pusat menetapkan tarif Tenaga Listrik untuk Konsumen dengan persetujuan Dewan Perwakilan Rakyat Republik Indonesia.
 - (2) Tarif Tenaga Listrik untuk Konsumen sebagaimana dimaksud pada ayat (1) ditetapkan dengan memperhatikan keseimbangan kepentingan nasional, daerah, Konsumen, dan pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik.
 
 Dengan demikian, antara tarif tenaga Listrik dan harga pembelian tenaga Listrik merupakan dua hal yang berbeda. Penetapan tarif tenaga listrik tidak ditentukan dari kontrak Perjanjian Pembelian Tenaga Listrik (PPA) antara pemerintah dengan perusahaan swasta independen penghasil listrik (IPP), melainkan dilakukan dengan persetujuan Dewan Perwakilan Rakyat Republik Indonesia (selanjutnya disebut DPR RI) dengan memperhatikan keseimbangan kepentingan nasional, daerah, Konsumen, dan
 
-**pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik.**
+## pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik.
 
 Sedangkan untuk harga pembelian tenaga listrik yang dicantumkan di dalam PPA memerlukan persetujuan dari Pemerintah atau Pemerintah Daerah sesuai dengan kewenangannya, sebagaimana diatur dalam Pasal 42 angka 23 Lampiran UU CK yang mengubah ketentuan Pasal 33 UU Ketenagalistrikan yang menyatakan:
 
-**Pasal 33 UU Ketenagalistrikan pasca UU CK:**
+## Pasal 33 UU Ketenagalistrikan pasca UU CK:
 
 - (1) Harga jual Tenaga Listrik dan sewa jaringan Tenaga Listrik ditetapkan berdasarkan prinsip usaha yang sehat.
 - (2) Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya memberikan persetujuan atas harga jual Tenaga Listrik dan sewa jaringan Tenaga Listrik berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
@@ -5492,7 +5489,7 @@ VIII. KESIMPULAN
 
 Berdasarkan keseluruhan materi dan fakta yang terungkap di persidangan yang Pemerintah telah uraikan di atas, maka pasal-pasal dalam UndangUndang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang yang dimohonkan pengujian terbukti tidak bertentangan dengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Dengan demikian, beralasan hukum bagi Pemerintah pada penutup keterangan dalam pokok perkara dengan memohon kepada Yang Mulia Majelis Hakim Mahkamah Konstitusi untuk memutus permohonan dengan menolak permohonan Para Pemohon seluruhnya.
 
-**IX. PETITUM**
+## IX. PETITUM
 
 Berdasarkan alasan-alasan yang telah diuraikan di atas dan didukung dengan bukti-bukti yang telah diajukan, maka Pemerintah memohonkan kepada Yang Mulia Majelis Hakim Konstitusi pada Mahkamah Konstitusi Republik Indonesia untuk memeriksa dan memutus perkara a quo dengan amar putusan sebagai berikut:
 
@@ -5505,7 +5502,7 @@ atau apabila Yang Mulia Majelis Hakim Mahkamah Konstitusi berpendapat lain mohon
 
 [2.6.3] Kesimpulan Pihak Terkait Federasi Serikat Buruh Kerakyatan Indonesia pada pokoknya menyampaikan sebagai berikut:
 
-**PENDAHULUAN**
+## PENDAHULUAN
 
 Pada kesempatan ini kami mengucapkan terima kasih kepada Yang Mulia Majelis Hakim Konstitusi atas proses persidangan yang telah berlangsung dengan transparan dan memberikan kesempatan yang cukup bagi para pihak untuk membuktikan dadil permohonannya. Kini tiba saatnya, Majelis Hakim Mahkamah Konstitusi untuk mengambil keputusan yang ke depan akan sangat menentukan nasib kedaulatan negara atas sumber daya listrik.
 
@@ -5515,7 +5512,7 @@ Bahkan meskipun Putusan Mahkamah Konstitusi No. 111/PUU-XIII/2015 yang menyataka
 
 Persoalan blackout yang terjadi bukan semata merupakan persoalan praktik dalam usaha tenaga listrik, namun ini persoalan aturan yang semakin membuka privatisasi listrik oleh perusahaan swasta, dimana dengan penguasaan tenaga listrik ditangan perusahaan swasta mengakibatkan negara tidak memiliki kuasa untuk mengontrol atau mengendalikan usaha penyediaan listrik. Keterangan Pemerintah yang bahkan menyebut penyediaan tenaga listrik untuk kepentingan umum saat ini 39,5%-nya dikuasai perusahaan swasta mestinya menjadi kekhawatiran bersama atas nasib penyediaan listrik di masa yang akan datang. Privatisasi listrik akan semakin massif jika aturan yang membuka kran privatisasi listrik itu tidak 'dipangkas.' Di masa yang akan datang, negara justru akan semakin bergantung pada keberadaan perusahaan listrik swasta, rakyat Indonesia akan menjadi pembeli listrik atau sumber daya alam yang sebetulnya seluruh kekayaan alam yang ada di negeri ini merupakan kekayaan nasional yang seyogyanya digunakan untuk sebesar-besarnya kemakmuran. Oleh karena pentingnya penyediaan listrik bagi rakyat Indonesia, dilakukanlah pengujian atas undang-undang a quo sebagai jaminan pemenuhan kepentingan umum atas penyediaan listrik oleh negara.
 
-**PIHAK TERKAIT MEMILIKI KEDUDUKAN HUKUM SEBAGAI PIHAK YANG BERKEPENTINGAN LANGSUNG ATAS PENGUJIAN PERKARA NO. 39/PUUXXI/2023**
+## PIHAK TERKAIT MEMILIKI KEDUDUKAN HUKUM SEBAGAI PIHAK YANG BERKEPENTINGAN LANGSUNG ATAS PENGUJIAN PERKARA NO. 39/PUUXXI/2023
 
 1. Bahwa PIHAK TERKAIT merupakan merupakan Pengurus/Ketua Umum Federasi SERBUK Indonesia untuk Periode 2022-2025 berdasarkan Keputusan Kongres Luar Biasa Federasi SERBUK Indonesia Nomor: 01/Keputusan/KLB/SERBUK/XI/2022 Tentang Ketua Umum Federasi SERBUK Indonesia tertanggal 13 November 2022 yang memiliki kewenangan untuk mewakili untuk dan atas nama Federasi SERBUK Indonesia dalam kepentingan mewakili organisasi di dalam maupun di luar pengadilan sebagaimana Pasal 37 huruf d Statuta Federasi SERBUK Indonesia.
 2. Bahwa PIHAK TERKAIT mendapatkan mandataris khusus untuk mewakili organisasi SERBUK Indonesia sebagai pihak dalam Permohonan a quo berdasarkan Keputusan Musyawarah Dewan Presidium yang telah diselenggakarakan pada hari Jumat, tanggal 17 November 2023 yang dituangkan dalam Surat Keputusan No. 002/SK/DP-SERBUK Indonesia/XI/2023 Tentang Hasil Musyawarah Dewan Presidium Terkait Uji Materi Undang-Undang Cipta Kerja tertanggal 18 November 2022.
@@ -5528,7 +5525,7 @@ Persoalan blackout yang terjadi bukan semata merupakan persoalan praktik dalam u
 6. Bahwa PIHAK TERKAIT dalam mengajukan permohonan adalah juga untuk memperjuangkan secara kolektif hak konstitusional dalam rangka membangun masyarakat, bangsa, dan negara sebagaimana diatur dalam Pasal 28C ayat (2) Undang-Undang Dasar 1945, yang telah dan akan terhambat jika PasalPasal a quo yang diujikan yang merugikan kepentingan bangsa, negara, dan rakyat Indonesia (merugikan kepentingan publik) tetap diberlakukan.
 7. Bahwa berdasarkan uraian di atas, jelas SERBUK Indonesia yang dalam hal ini diwakili oleh PIHAK TERKAIT memiliki kualitas maupun kapasitas sebagai pihak dalam Permohonan a quo sebagaimana juga diakomodir dalam Pasal 3 jo. Pasal 6 Peraturan Mahkamah Konstitusi No. 2 Tahun 2021
 
-**POKOK-POKOK DALIL KETERANGAN PIHAK TERKAIT**
+## POKOK-POKOK DALIL KETERANGAN PIHAK TERKAIT
 
 4. Bahwa Keterangan PIHAK TERKAIT pada pokoknya mendalilkan:
 - a. Usaha penyediaan listrik untuk kepentingan umum dengan tidak terintegrasi bertentangan dengan Pasal 28D ayat (1) dan Pasal 33 ayat (2) UUD 1945, sehingga kata 'dapat' pada Pasal 42 angka 6 Pasal 10 ayat (2) Undang-Undang Nomor 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang dinyatakan tidak memiliki kekuatan hukum mengikat.
@@ -5536,7 +5533,7 @@ Persoalan blackout yang terjadi bukan semata merupakan persoalan praktik dalam u
 - b. Usaha penyediaan listrik untuk kepentingan umum harus dikuasai oleh negara, sehingga frasa 'badan usaha milik negara' pada Pasal 42 angka 7 Pasal 11 ayat (1) undang-undang a quo dinyatakan bertentangan dengan Pasal 33 ayat (2) UUD 1945 dan tidak memiliki kekuatan hukum mengikat sepanjang tidak dimaknai badan usaha milik negara di bidang usaha ketenagalistrikan dalam hal ini PT PLN (Persero). Selanjutnya frasa 'badan usaha milik badan usaha milik daerah, badan usaha swasta, koperasi, dan swadaya masyarakat yang berusaha di bidang penyediaan tenaga listrik.' pada Pasal 42 angka 7 Pasal 11 ayat (1) undang-undang a quo dinyatakan bertentangan dengan Pasal 33 ayat (2) UUD 1945 dan tidak memiliki kekuatan hukum mengikat.
 - c. Hilangnya frasa 'setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia' sebagaimana rumusan Pasal 42 angka 5 Pasal 7 ayat (1) Undang-Undang No. 6 Tahun 2023 dinyatakan bertentangan dengan Pasal 28C ayat (1) UUD 1945 karena akan mengakibatkan kerugian konstitusional bagi warga negara oleh karena tidak lagi dapat berpartisipasi dalam menentukan rencana pengembangan ketenagalistrikan nasional yang dituangkan dalam dokumen RUKN padahal telah diakui oleh konstitusi bahwa listrik merupakan cabang produksi yang penting bagi Negara dan menguasai hajat hidup orang banyak sebagaimana amanat Pasal 33 ayat (2) UUD 1945.
 
-**PEMBUKTIAN DALIL PIHAK TERKAIT**
+## PEMBUKTIAN DALIL PIHAK TERKAIT
 
 Usaha Penyediaan Listrik Untuk Kepentingan Umum Dengan Tidak Terintegrasi (Unbundling) Bertentangan Dengan Pasal 28D ayat (1) dan Pasal 33 ayat (2) UUD 1945 Karena Menghilangkan Peran Penguasaan Negara Dalam Usaha Ketenagalistrikan Untuk Kepentingan Umum.
 
@@ -5555,7 +5552,7 @@ Hal ini juga dipertegas dalam Keterangan Ahli Pihak Terkait Feri Amsari, S.H., M
 
 16. Bahwa sistem unbundling dan privatisasi justru akan mengakibatkan tujuan penguasaan negara yakni mencapai sebesar-besar kemakmuran rakyat menjadi tidak tercapai, salah satunya dibuktikan dengan Laporan Audited Keuangan PLN dari tahun 2014-2022 menyebutkan bahwa setiap tahun anggaran PLN yang digunakan untuk membeli listrik dari swasta semakin meningkat (vide Keterangan Ahli Feri Amsari, S.H., M.H., LL.M.). Merujuk pada laporan keuangan tersebut, keuangan PLN akan semakin banyak untuk membeli listrik kepada swasta, pada akhirnya yang mendapatkan keuntungan semakin banyak tidak lain perusahaan-perusahaan listrik swasta dan bukanlah rakyat Indonesia.
 
-**Pasal 42 angka 5 Pasal 7 ayat (1) Undang-Undang a quo Meniadakan Pengawasan dan Memutus Suara Rakyat yang Direpresentasikan oleh DPR RI**
+## Pasal 42 angka 5 Pasal 7 ayat (1) Undang-Undang a quo Meniadakan Pengawasan dan Memutus Suara Rakyat yang Direpresentasikan oleh DPR RI
 
 15. Bahwa terbukti Pasal 42 angka 5 Pasal 7 ayat (1) Undang-Undang No. 6 Tahun 2023 yang menghapuskan frasa 'setelah berkonsultasi dengan DPR' dalam penyusunan Rencana Umum Ketenagalistrikan Nasional (RUKN) telah meniadakan mekanisme pengawasan dan memutus suara rakyat.
 
@@ -5566,7 +5563,7 @@ Hal ini juga dipertegas dalam Keterangan Ahli Pihak Terkait Feri Amsari, S.H., M
 - RI ini dihilangkan maka telah tertutup semua peluang partisipasi publik untuk turut menentukan arah pengembangan penyediaan tenaga listrik.
 19. Bahwa guna memperkuat partisipasi publik dalam menentukan rencana pengembangan ketenagalistrikan nasional dan fungsi DPR RI dalam menjalankan fungsi pengawasan, setiap perencanaan usaha ketenagalistrikan nasional seharusnya bukan hanya sekedar berkonsultasi, melainkan harus mendapatkan persetujuan dari DPR RI. Oleh karenanya, PIHAK TERKAIT berpendapat bahwa Pasal 42 angka 5 Pasal 7 ayat (1) Undang-Undang No. 6 Tahun 2023 harus dinyatakan tidak mempunyai kekuatan hukum mengikat sepanjang tidak dimaknai Rencana Umum Ketenagalistrikan Nasional disusun berdasarkan kebijakan energi nasional dan ditetapkan oleh Pemerintah Pusat melalui persetujuan DPR RI.
 
-**HAK INGKAR TERHADAP HAKIM KONSTITUSI Dr. H. ARSUL SANI, S.H., M.Si., Pr.M.**
+## HAK INGKAR TERHADAP HAKIM KONSTITUSI Dr. H. ARSUL SANI, S.H., M.Si., Pr.M.
 
 20. Bahwa dalam pemeriksaan persidangan perkara No. 39/PUU-XXI/2023, PIHAK TERKAIT juga mengajukan hak ingkar terhadap Hakim Konstitusi Dr. H. Arsul Sani, S.H., M.Si., Pr.M.
 21. Bahwa yang menjadi objek uji materi dalam perkara yang dengan perkara nomor 39/PUU-XXI/2023 adalah Undang-Undang Nomor 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja. Sebagaimana diketahui Undang-Undang Nomor 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja disahkan oleh DPR RI dalam Rapat Paripurna DPR RI ke-19 masa persidangan IV tahun sidang 2022-2023 pada 21 Maret 2023. [Berita dari laman Resmi DPR RI judul berita 'DPR RI Setujui RUU Perppu Ciptaker Jadi Undang-Undang' https://www.dpr.go.id/berita/detail/id/43720]
@@ -5581,7 +5578,7 @@ Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentan
 
 Sani, S.H., M.Si., Pr.M. dalam setiap tahapan persidangan baik dalam Rapat Permusyawaratan Hakim (RPH), memutus dan membacakan putusan, juga pada seluruh tahapan persidangan lainnya baik secara langsung maupun tidak langsung sepanjang terkait dengan Perkara No. 39/PUU-XXI/2023.
 
-**PETITUM**
+## PETITUM
 
 Berdasarkan hal-hal yang telah diuraikan tersebut di atas, maka PIHAK TERKAIT memohon kepada Majelis Hakim Mahkamah Konstitusi Republik Indonesia untuk memutus permohonan uji materi ini dengan amar putusan sebagai berikut:
 
@@ -5602,11 +5599,11 @@ Sahabat Buruh dan Pekerja Indonesia merupakan masyarakat Peduli kepada paraburuh
 2. Mendukung Majelis Hakim Mahkamah Konstitusi RI agar dapat membuat pertimbangan yang memandang Judicial Review Perkara Nomor: 39/PUUXXI/2023, Perkara Nomor: 39/PUU-XXI/2023, Nomor: 40/PUU-XXI/2023 atas Undang-Undang Cipta Kerja, tetapi melihat hal tersebut sebagai aspirasi atas kondisi pekerja, di sisi lain dimana pihak yang tidak mengindahkan hak asasi buruh dan pekerja atas konstitusi dan peraturan perundang-undangan adalah justru Pemerintah dan DPR yang meruntuhkan kepercayaan public;
 3. Mendukung hakim Majelis Hakim Mahkamah Konstitusi RI agar dapat membuat putusan yang dapat melindungi buruh dan pekerja di Indonesia sehingga dapat memulihkan kepercayaan publik terhadap serta memulihkan rasa keadilan atas keberadaan hukum di Republik Indonesia sebagai negara hukum kepada warga negara khususnya buruh dan pekerja Indonesia yang terdampak oleh Undang- Undang Cipta Kerja a quo.
 
-**POSISI AMICUS CURIAE DALAM PERADILAN DI INDONESIA**
+## POSISI AMICUS CURIAE DALAM PERADILAN DI INDONESIA
 
 Berdasarkan ketentuan Pasal 5 ayat (1) Undang-Undang RI Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman yang menyatakan, "Hakim dan hakim konstitusi wajib menggali, mengikuti, dan memahami nilai-nilai hukum dan rasa keadilan yang hidup dalam masyarakat", atas dasar tersebut kami masyarakat yang menamakan diri SAHABAT BURUH DAN PEKERJA INDONESIA sebagai sahabat pengadilan yang peduli dengan situasi kondisi buruh dan pekerja di Indonesia atas adanya, atas dampak hukumnya Undang-Undang Cipta Kerja senagai kontribusi pendapat atas keadaan nyata tersebut .
 
-**PENDAPAT AMICI**
+## PENDAPAT AMICI
 
 1. Penelusuran Masyarakat Peduli Pekerja Indonesia menerukan setidaknya terdapat lima permohonan terkait Uji Formil Undang-Undang Cipta Kerja meliputi Perkara Nomor: 54/PUU-XXI/2023, Nomor: 39/PUU-XXI/2023, Perkara Nomor 40/PUU- XXI/2023, Perkara Nomor 41/PUU-XXI/2023,
 
@@ -5663,20 +5660,20 @@ ditimbulkan, maka menurut MK RI Undang-Undang Cipta Kerja harus dinyatakan inkon
 20. Bahwa Majelis Hakim MK RI mengabulkan permohonan Pemohon untuk sebagian. Majelis juga menyatakan serta menegaskan bahwa Pasal 10 ayat (2) Undang- Undang RI Nomor 30 Tahun 2009 tentang Ketenagalistrikan bertentangan dengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 secara bersyarat dan tidak memiliki kekuatan hukum mengikat apabila rumusan dalam Pasal 10 ayat (2) Undang-Undang Ketenagalistrikan tersebut diartikan menjadi dibenarkannya praktik unbundling dalam usaha penyediaan tenaga listrik untuk kepentingan umum sedemikian rupa sehingga menghilangkan kontrol negara sesuai dengan prinsip "dikuasai oleh negara" ; Selanjutnya Hakim MK RI menyatakan bahwa Pasal 1 ayat (1) Undang-Undang Ketenagalistrikan bertentangan dengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 secara bersyarat dan tidak memiliki kekuatan hukum mengikat apabila rumusan dalam Pasal 1 ayat (1) Undang-Undang Ketenagalistrikan tersebut dimaknai hilangnya prinsip "dikuasai oleh negara" bahwa Negaralah yang harus menguasai cabang produksi penting yang menyangkut hajat hidup orang banyak (dalam hal ini listrik) dalam kegiatan usaha hanya BUMN yang diberi wewenang berdasarkan peraturan dan/atau Undang- Undang untuk dapat melakukan kegiatan usaha dan untuk dan atas nama negara dalam sektor listrik ialah PT. PLN (Persero);
 21. Bahwa selain uraian tersebut di atas, Undang-Undang Cipta Kerja aquo sangat berdampak Buruh dan Pekerja dirugikan dengan sistem kerja kontrak yang tidak dibatasi periode dan praktik outsourcing yang meluas. Kemudian batasan maksimal 11 jam lembur dari tiga jam dalam sehari dan 14 jam dalam sepekan, menjadi empat jam dalam sehari dan 18 jam dalam seminggu. Di tengah tekanan itu, buruh dikurangi hak cuti dan istirahatnya, serta rentan mengalami Pemutusan Hubungan Kerja (PHK);
 
-**Kesimpulan**
+## Kesimpulan
 
 1. Jelas bahwa Pasal 33 Undang-Undang Dasar 1945 yang mengamanatkan penguasaan negara atas bumi, air, ruang angkasa, dan kekayaan alam yang ada di Indonesia digunakan sebagai sebesar-besarnya kemakmuran rakyat. Penguasaan negara tidak cukup hanya menjalankan kewenangan dan penetapan kebijakan, serta pengawasan, namun menjadi pihak yang menentukan pengelolaannya dan memastikan pengelolaannya dinikmati dan diorientasikan pada kemakmuran rakyat karena negaralah yang diberikan mandat oleh konstitusi. Dalam hal ini penafsiran Mahkamah Konstitusi melalui Putusan Nomor 111 Tahun 2015 dan Perkara Nomor 1, Nomor 21, Nomor 22 Tahun 2023 dinyatakan bahwa negara dalam hal ini PT. PLN (Persero) diperbolehkan bermitra dengan swasta, namun dalam batas di mana negara tetap harus memiliki kewenangan besar untuk menentukan usaha penyediaan listrik. Kaitannya dengan ini secara logis manakala negara (PT PLN) tidak memiliki saham mayoritas apabila 100 persen sahamnya adalah swasta sehingga kehilangan penguasaan;
 2. Bahwa Undang-Undang RI Nomor: 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang bertentangan dengan amanat dalam amar Putusan Mahkamah Konstitusi RI Nomor: 91/Undang-UndangXVIII/2020 yang tegas menyatakan agar pembentuk Undang-Undang segera melakukan perubahan dengan memuat metode omnibus dalam waktu 2 tahun sehingga pembentuk Undang-Undang telah mengabaikan Mahkamah Konstitusi berdasarkan Undang-Undang dengan kewenangannya "Pembangkangan Konstitusional" sehingga Undang-Undang RI Nomor: 6 Tahun 2023 Tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang RI Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi UndangUndang adalah Inkonstitusional. Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 202 Tentang Cipta Kerja Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856) bertentangan dengan Undang - Undang Dasar Negara Republik Indonesia Tahun 1945 dan oleh karenanya tidak mempunyai kekuatan hukum mengikat; - Memerintahkan pemuatan putusan ini dalam Berita Negara Republik Indonesia sebagaimana mestinya;
 
-**KESIMPULAN DAN REKOMENDASI**
+## KESIMPULAN DAN REKOMENDASI
 
 Hakim MK RI merupakan wakil tuhan sebagai The Guardians Of Justice di dunia ini, tempat agung bagi pencari keadilan dan warga masyarakat luas yang datang berseru- seru, mengharapkan terobosan hukum diciptakan, dan hukum tertinggi dilahirkan, yaitu keadilan bagi mereka yang lemah dan tanpa kuasa yaitu kami para buruh dan pekerja indonesia, kiranya Yang Mulia Majelis Hakim Mahkamah Konstitusi RI dapat mengabulkan Judicial Review Perkara Nomor: 39/PUU-XXI/2023, Nomor: 40/PUU- XXI/2023 Tentang Pengujian Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2022 tentang Cipta Kerja.
 
 [2.8] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, segala sesuatu yang terjadi di persidangan cukup ditunjuk dalam berita acara persidangan dan risalah persidangan yang merupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.
 
-**3. PERTIMBANGAN HUKUM**
+## 3. PERTIMBANGAN HUKUM
 
-**Kewenangan Mahkamah**
+## Kewenangan Mahkamah
 
 [3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun 1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 5076), Mahkamah berwenang, antara lain, mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk menguji Undang-Undang terhadap UUD NRI Tahun 1945;
 
@@ -5684,7 +5681,7 @@ Hakim MK RI merupakan wakil tuhan sebagai The Guardians Of Justice di dunia ini,
 
 7 ayat (1) dalam Pasal 42 angka 5, Pasal 10 ayat (2) dalam Pasal 42 angka 6, Pasal 11 ayat (1) dalam Pasal 42 angka 7, Pasal 23 ayat (2) dalam Pasal 42 angka 15, dan Pasal 33 ayat (1) dan (2) dalam Pasal 42 angka 23 Lampiran Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856, selanjutnya disebut UU 6/2023) terhadap UUD NRI Tahun 1945, maka Mahkamah berwenang mengadili permohonan a quo;
 
-**Kedudukan Hukum Pemohon**
+## Kedudukan Hukum Pemohon
 
 [3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta Penjelasannya, yang dapat mengajukan permohonan pengujian undang-undang terhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak dan/atau kewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan oleh berlakunya suatu Undang-Undang, yaitu:
 
@@ -5711,7 +5708,7 @@ Dengan demikian, Pemohon dalam pengujian undang-undang terhadap UUD NRI Tahun 19
 
 1. Bahwa norma undang-undang yang dimohonkan pengujian dalam permohonan a quo adalah Pasal 7 ayat (1) dalam Pasal 42 angka 5, Pasal 10 ayat (2) dalam Pasal 42 angka 6, Pasal 11 ayat (1) dalam Pasal 42 angka 7, Pasal 23 ayat (2) dalam Pasal 42 angka 15, Pasal 33 ayat (1) dan (2) dalam Pasal 42 angka 23 UU 6/2023 yang menyatakan sebagai berikut.
 
-**Pasal 42**
+## Pasal 42
 
 Beberapa ketentuan dalam Undang-Undang Nomor 30 Tahun 2009 tentang Ketenagalistrikan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 5052) diubah sebagai berikut:
 
@@ -5719,35 +5716,35 @@ Beberapa ketentuan dalam Undang-Undang Nomor 30 Tahun 2009 tentang Ketenagalistr
 
 5. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-**Pasal 7 ayat (1):**
+## Pasal 7 ayat (1):
 
 Rencana Umum Ketenagalistrikan nasional disusun berdasarkan kebijakan energi nasional dan ditetapkan oleh Pemerintah Pusat.
 
 6. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai berikut:
 
-**Pasal 10 ayat (2):**
+## Pasal 10 ayat (2):
 
 Usaha Penyediaan Tenaga Listrik kepentingan umum sebagaimana dimaksud pada ayat (1) dapat dilakukan secara terintegrasi.
 
 7. Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut:
 
-**Pasal 11 ayat (1):**
+## Pasal 11 ayat (1):
 
 Usaha Penyediaan Tenaga Listrik untuk kepentingan umum sebagaimana dimaksud dalam Pasal 10 ayat (1) dilaksanakan oleh badan usaha milik negara, badan usaha milik daerah, badan usaha swasta, koperasi, dan swadaya masyarakat yang berusaha di bidang penyediaan Tenaga Listrik.
 
 15. Ketentuan Pasal 23 diubah sehingga berbunyi sebagai berikut:
 
-**Pasal 23 ayat (2):**
+## Pasal 23 ayat (2):
 
 Penjualan kelebihan Tenaga Listrik untuk kepentingan umum sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam hal wilayah tersebut belum terjangkau oleh pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik untuk kepentingan umum.
 
 23. Ketentuan Pasal 33 diubah sehingga berbunyi sebagai berikut:
 
-**Pasal 33 ayat (1)**
+## Pasal 33 ayat (1)
 
 Harga jual Tenaga Listrik dan sewa jaringan Tenaga Listrik ditetapkan berdasarkan prinsip usaha yang sehat.
 
-**ayat (2)**
+## ayat (2)
 
 Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya memberikan persetujuan atas harga jual Tenaga Listrik dan sewa jaringan Tenaga Listrik berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 
@@ -5798,7 +5795,7 @@ Dengan demikian, terlepas dari terbukti atau tidak terbuktinya dalil Pemohon I s
 
 [3.7] Menimbang bahwa sebelum mempertimbangkan lebih lanjut pokok permohonan para Pemohon, Mahkamah telah menerima keterangan tertulis bertanggal 6 September 2024 sebagai Amicus Curiae dari Serikat Buruh dan Pekerja Indonesia (selengkapnya dimuat pada bagian Duduk Perkara). Terhadap Amicus Curiae tersebut, terlepas dari substansi keterangan tertulis yang disampaikan, Mahkamah mengapresiasi wujud partisipasi publik dalam proses peradilan yang terbuka dan akuntabel. Ihwal ini, tentu sejalan dengan khittoh peradilan yang diselenggarakan guna menegakkan hukum dan keadilan sebagaimana termaktub dalam Pasal 24 ayat (1) UUD NRI Tahun 1945. Selanjutnya, Mahkamah akan mempertimbangkan pokok permohonan para Pemohon.
 
-**Pokok Permohonan**
+## Pokok Permohonan
 
 [3.8] Menimbang bahwa dalam mendalilkan konstitusionalitas norma Pasal 7 ayat (1) dalam Pasal 42 angka 5, Pasal 10 ayat (2) dalam Pasal 42 angka 6, Pasal 11 ayat (1) dalam Pasal 42 angka 7, Pasal 23 ayat (2) dalam Pasal 42 angka 15, Pasal 33 ayat (1) dan (2) Pasal 42 angka 23 UU 6/2023 bertentangan dengan Pasal 28D ayat (1), Pasal 28C ayat (2), dan Pasal 33 ayat (2) UUD NRI Tahun 1945, para Pemohon mengemukakan argumentasi sebagaimana selengkapnya telah dimuat pada bagian Duduk Perkara yang apabila dipahami dan dirumuskan oleh Mahkamah pada pokoknya sebagai berikut.
 
@@ -6010,7 +6007,7 @@ Berdasarkan uraian pertimbangan hukum tersebut di atas, menurut Mahkamah dalil p
 
 [3.21] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak dipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.
 
-**4. KONKLUSI**
+## 4. KONKLUSI
 
 Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraikan di atas, Mahkamah berkesimpulan:
 
@@ -6023,9 +6020,9 @@ Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraikan di atas, Mahkam
 
 Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554, selanjutnya disebut UU MK), dan Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 5076);
 
-**5. AMAR PUTUSAN**
+## 5. AMAR PUTUSAN
 
-**Mengadili:**
+## Mengadili:
 
 1. Mengabulkan permohonan para Pemohon untuk sebagian;
 2. Menyatakan Pasal 7 ayat (1) dalam Pasal 42 angka 5 Lampiran Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi UndangUndang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856) bertentangan dengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan tidak memiliki kekuatan hukum mengikat sepanjang tidak dimaknai, 'Rencana Umum Ketenagalistrikan Nasional disusun berdasarkan kebijakan energi nasional dan ditetapkan oleh Pemerintah Pusat setelah mendapat pertimbangan DPR RI';
@@ -6036,7 +6033,7 @@ Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Und
 
 ---------------------------------------------------------
 
-**6. PENDAPAT BERBEDA (DISSENTING OPINION)**
+## 6. PENDAPAT BERBEDA (DISSENTING OPINION)
 
 Terhadap putusan Mahkamah a quo, terdapat pendapat berbeda sepanjang norma Pasal 7 ayat (1) dalam Pasal 42 angka 5 UU 6/2023 dari 1 (satu) orang Hakim Konstitusi, yaitu Hakim Konstitusi M. Guntur Hamzah yang menyatakan sebagai berikut: [6.1] Menimbang bahwa Hakim Konstitusi M. Guntur Hamzah memiliki pendapat berbeda (dissenting opinion), khusunya norma 'Rencana Umum Ketenagalistrikan nasional disusun berdasarkan kebijakan energi nasional dan ditetapkan oleh pemerintah pusat' yang merupakan salah satu dari sejumlah norma yang dimohonkan pengujian oleh para Pemohon, sebagai berikut: [6.2] Menimbang bahwa sehubungan dengan putusan a quo yang baru saja dibacakan dengan amar putusan mengabulkan permohonan para Pemohon untuk sebagian, saya hakim konstitusi M. Guntur Hamzah, memiliki pendapat berbeda (dissenting opinion) sepanjang pengujian norma 'Rencana Umum Ketenagalistrikan nasional disusun berdasarkan kebijakan energi nasional dan ditetapkan oleh pemerintah pusat' dalam Pasal 42 angka 5 dalam Pasal 7 ayat (1) Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang (UU 6/2023). Menurut pendapat saya, sepanjang pengujian norma a quo, seharusnya Mahkamah menolak (wordt ongeground verklaard) permohonan para Pemohon, sedangkan terhadap pengujian norma lainnya, selain norma a quo, saya berpendapat sama dengan putusan a quo. Adapun alasan/argumantasi hukum terkait pendapat berbeda (dissenting
 
@@ -6065,13 +6062,13 @@ opinion) saya ini, sebagai berikut:
 
 Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembilan Hakim Konstitusi, yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Arief Hidayat, M. Guntur Hamzah, Anwar Usman, Enny Nurbaningsih, Daniel Yusmic P. Foekh, Ridwan Mansyur, dan Arsul Sani masing-masing sebagai Anggota pada hari Selasa tanggal Sembilan Belas, bulan November, tahun Dua Ribu Dua Puluh Empat, dan diucapkan dalam Sidang Pleno Mahkamah Konstitusi terbuka untuk umum pada hari Jumat, tanggal Dua Puluh Sembilan, bulan November, tahun Dua Ribu Dua Puluh Empat, selesai diucapkan Pukul 09.23 WIB, oleh sembilan Hakim Konstitusi yaitu Suhartoyo selaku Ketua merangkap Anggota, Saldi Isra, Arief Hidayat, M. Guntur Hamzah, Anwar Usman, Enny Nurbaningsih, Daniel Yusmic P. Foekh, Ridwan Mansyur, dan Arsul Sani masing-masing sebagai Anggota, dengan dibantu oleh Hani Adhani sebagai Panitera Pengganti, dihadiri oleh para Pemohon, Dewan Perwakilan Rakyat atau yang mewakili, Presiden atau yang mewakili dan Pihak Terkait atau kuasanya.
 
-**KETUA, ttd. Suhartoyo ANGGOTA-ANGGOTA,**
+## KETUA, ttd. Suhartoyo ANGGOTA-ANGGOTA,
 
-**ttd. Saldi Isra ttd. Arief Hidayat**
+## ttd. Saldi Isra ttd. Arief Hidayat
 
-**ttd. M. Guntur Hamzah ttd. Anwar Usman**
+## ttd. M. Guntur Hamzah ttd. Anwar Usman
 
-**ttd. Enny Nurbaningsih ttd. Daniel Yusmic P. Foekh**
+## ttd. Enny Nurbaningsih ttd. Daniel Yusmic P. Foekh
 
 <!-- image -->
 
@@ -6083,7 +6080,7 @@ Ridwan Mansyur ttd.
 
 Arsul Sani
 
-**PANITERA PENGGANTI,**
+## PANITERA PENGGANTI,
 
 ttd.
 

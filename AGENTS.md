@@ -113,6 +113,25 @@ Aturan:
    dua chunk berbeda lalu gabungkan saat menjawab.
 7. **Konflik teks:** bila hasil ekstraksi memecah satu pasal jadi dua bagian (artefak halaman PDF),
    gabungkan berdasar nomor pasal, bukan berdasar urutan baris.
+8. **Putusan & dokumen non-peraturan tidak dipartisi.** Putusan MK sering *mengutip* Penjelasan pasal
+   yang disengketakan; mempartisinya salah konteks. Untuk putusan pakai `struktur_teks: datar`,
+   `penjelasan: tidak`, `anchor_pasal: false` — teks utuh, tanpa heading buatan.
+
+## Ekspor mesin (chunk siap-embed)
+
+`python 90-log/build_chunks.py` menghasilkan:
+
+- `90-log/chunks.jsonl.gz` — satu baris JSON per chunk (artefak turunan, tidak di-commit):
+  `chunk_id`, `doc_id`, `jenis`, `nomor`, `tahun`, `status`, `bidang[]`, `path` (heading),
+  `anchor`, `kind` (`batang-tubuh|penjelasan-umum|penjelasan-pasal|isi`), `pasal`, `part`,
+  `substantive`, `chars`, `sha256`, `text`.
+- `90-log/chunks-stats.json` — ringkasan (jumlah chunk per `kind`, rasio "Cukup jelas").
+- `40-kategori/Indeks Penjelasan.md` — tabel kualitas penjelasan per dokumen.
+
+Aturan pakai: chunk `kind=penjelasan-pasal` dengan `substantive=false` adalah "Cukup jelas" — jangan
+di-embed sebagai isi, cukup disimpan sebagai penanda bahwa pasal itu tidak butuh penjelasan tambahan.
+Saat menjawab pertanyaan hukum, retrieve `batang-tubuh` untuk norma dan `penjelasan-*` untuk tafsir,
+lalu gabungkan dengan menyebut pasal + anchor.
 
 ## Alur kerja
 

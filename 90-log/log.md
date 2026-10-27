@@ -73,3 +73,21 @@ last_updated: 2026-10-28
   skrip ditulis ulang konservatif). Hasil akhir: tidak ada file menyusut >0,5%.
 - Plugin `karpathywiki` dinonaktifkan di vault ini (membuat scaffolding `wiki/` yang mengotori korpus).
 - AGENTS.md + README: aturan kutip/embed anchor, larangan menyalin teks penjelasan, strategi chunk.
+
+## [2026-10-28] ekspor mesin | chunker + indeks kualitas penjelasan
+
+- `90-log/build_chunks.py` (stdlib, jalan mandiri: `python 90-log/build_chunks.py`).
+- Output `90-log/chunks.jsonl.gz` — **24,185 chunk**, rata-rata 917 char,
+  maks 2504: `batang-tubuh` 7,511 ·
+  `penjelasan-umum` 1,767 ·
+  `penjelasan-pasal` 5,773 ·
+  `isi` 9,126. Cakupan 96,5% teks (sisanya tabel Peta Penjelasan yang sengaja
+  dilewati). Artefak turunan → masuk `.gitignore`.
+- Penjelasan "Cukup jelas" ditandai `substantive: false` (2,170 chunk) agar tidak
+  mengotori retrieval; penjelasan substantif: 3,603 chunk.
+- `40-kategori/Indeks Penjelasan.md` — 57 peraturan dengan tabel pasal berpenjelasan / substantif /
+  cukup jelas / persentase. Contoh: UU 6/2023 Cipta Kerja 456 pasal (54% substantif),
+  UU 4/2023 P2SK 329 pasal (56%), UU 20/2025 KUHAP 362 pasal (28%).
+- Koreksi struktur: 9 putusan MK yang sempat dipartisi dikembalikan ke `struktur_teks: datar` —
+  putusan hanya *mengutip* Penjelasan pasal, bukan punya bagian penjelasan sendiri.
+- `chunks-stats.json` di-commit sebagai penanda versi ekspor.
