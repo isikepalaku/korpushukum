@@ -24,10 +24,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perkoperasian
+**Perkoperasian**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -80,13 +86,12 @@ Mengingat : Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 33 Undang-Undang
 
 Dasar 1945;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 2 
+                  - 2
 Dengan persetujuan
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
@@ -97,7 +102,7 @@ Menetapkan : UNDANG-UNDANG TENTANG PERKOPERASIAN.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-undang ini yang dimaksud dengan:
 1. Koperasi adalah badan usaha yang beranggotakan orang-seorang
@@ -118,20 +123,19 @@ beranggotakan Koperasi.
 kegiatan perkoperasian yang bersifat terpadu menuju tercapainya
 cita-cita bersama Koperasi.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 3 
+           - 3
 BAB II
 LANDASAN, ASAS, DAN TUJUAN
 
 Bagian Pertama
 Landasan dan Asas
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 Koperasi berlandaskan Pancasila dan Undang-Undang Dasar 1945 serta
 berdasar atas asas kekeluargaan.
@@ -140,7 +144,7 @@ Bagian Kedua
 
 Tujuan
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 Koperasi bertujuan memajukan kesejahteraan anggota pada khususnya
 dan masyarakat pada umumnya serta ikut membangun tatanan
@@ -154,7 +158,7 @@ FUNGSI, PERAN, DAN PRINSIP KOPERASI
 Bagian Pertama
 Fungsi dan Peran
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 Fungsi dan peran Koperasi adalah:
 a. membangun dan mengembangkan potensi dan kemampuan ekonomi
@@ -162,13 +166,12 @@ a. membangun dan mengembangkan potensi dan kemampuan ekonomi
 anggota pada khususnya dan masyarakat pada umumnya untuk
 meningkatkan kesejahteraan ekonomi dan sosialnya;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 4 
+           - 4
 b. berperan serta secara aktif dalam upaya mempertinggi kualitas
 
 kehidupan manusia dan masyarakat;
@@ -186,7 +189,7 @@ kekeluargaan dan demokrasi ekonomi.
 Bagian Kedua
 Prinsip Koperasi
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 (1) Koperasi melaksanakan prinsip Koperasi sebagai berikut:
 
@@ -210,20 +213,19 @@ a. pendidikan perkoperasian;
 
 b. kerja sama antarkoperasi.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 5 
+           - 5
 BAB IV
 PEMBENTUKAN
 
 Bagian Pertama
 Syarat Pembentukan
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 (1) Koperasi Primer dibentuk oleh sekurang-kurangnya 20 (duapuluh)
 orang.
@@ -231,7 +233,7 @@ orang.
 (2) Koperasi Sekunder dibentuk oleh sekurang-kurangnya 3 (tiga)
 Koperasi.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 (1) Pembentukan Koperasi sebagaimana dimaksud dalam Pasal 6
 dilakukan dengan akta pendirian yang memuat Anggaran Dasar.
@@ -239,7 +241,7 @@ dilakukan dengan akta pendirian yang memuat Anggaran Dasar.
 (2) Koperasi mempunyai tempat kedudukan dalam wilayah negara
 Republik Indonesia.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
 Anggaran Dasar sebagaimana dimaksud dalam Pasal 7 ayat (1) memuat
 sekurang-kurangnya:
@@ -254,13 +256,12 @@ d. ketentuan mengenai keanggotaan;
 
 e. ketentuan mengenai Rapat Anggota;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 6 
+           - 6
 f. ketentuan mengenai pengelolaan;
 
 g. ketentuan mengenai permodalan;
@@ -274,12 +275,12 @@ j. ketentuan mengenai sanksi.
 Bagian Kedua
 Status Badan Hukum
 
-Pasal 9
+### Pasal 9 ^pasal-9
 
 Koperasi memperoleh status badan hukum setelah akta pendiriannya
 disahkan oleh Pemerintah.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 (1) Untuk mendapatkan pengesahan sebagaimana dimaksud dalam
 Pasal 9, para pendiri mengajukan permintaan tertulis disertai
@@ -291,19 +292,18 @@ lama 3 (tiga) bulan setelah diterimanya permintaan pengesahan.
 (3) Pengesahan akta pendirian diumumkan dalam Berita Negara
 Republik Indonesia.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 
 (1) Dalam hal permintaan pengesahan akta pendirian ditolak, alasan
 penolakan diberitahukan kepada para pendiri secara tertulis
 dalam. waktu paling lambat 3 (tiga) bulan setelah diterimanya
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 7 
+           - 7
 permintaan.
 
 (2) Terhadap penolakan pengesahan akta pendirian para pendiri
@@ -314,7 +314,7 @@ dapat mengajukan permintaan ulang dalam waktu paling lama 1
 dalam jangka waktu paling lama 1 (satu) bulan sejak diterimanya
 pengajuan permintaan ulang.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 (1) Perubahan Anggaran Dasar dilakukan oleh Rapat Anggpta.
 
@@ -322,14 +322,14 @@ Pasal 12
 penggabungan, pembagian, dan perubahan bidang usaha Koperasi
 dimintakan pengesahan kepada Pemerintah.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 Ketentuan mengenai persyaratan dan tata cara pengesahan atau
 penolakan pengesahan akta pendirian, dan perubahan Anggaran Dasar
 sebagaimana dimaksud dalam Pasal 9, Pasal 10, Pasal 11, dan Pasal 12
 diatur lebih lanjut dengan Peraturan Pemerintah.
 
-Pasal 14
+### Pasal 14 ^pasal-14
 
 (1) Untuk keperluan pengembangan dan/atau efisiensi usaha, satu
 Koperasi atau lebih dapat:
@@ -342,23 +342,22 @@ Koperasi baru.
 
 (2) Penggabungan atau peleburan dilakukan dengan persetujuan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 8 
+           - 8
 Rapat Anggota masing-masing Koperasi.
 
 Bagian Ketiga
 Bentuk dan Jenis
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 Koperasi dapat berbentuk Koperasi Primer atau Koperasi Sekunder.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 Jenis Koperasi didasarkan pada kesamaan kegiatan dan kepentingan
 ekonomi anggotanya.
@@ -366,14 +365,14 @@ ekonomi anggotanya.
 BAB V
 KEANGGOTAAN
 
-Pasal 17
+### Pasal 17 ^pasal-17
 
 (1) Anggota Koperasi adalah pemilik dan sekaligus pengguna jasa
 Koperasi.
 
 (2) Keanggotaan Koperasi dicatat dalam buku daftar anggota.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 (1) Yang dapat menjadi anggota Koperasi ialah setiap warga negara
 Indonesia yang mampu melakukan tindakan hukum atau Koperasi
@@ -384,14 +383,13 @@ Anggaran Dasar.
 hak, dan kewajiban keanggotaannya ditetapkan dalam Anggaran
 Dasar.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 9 
-Pasal 19
+           - 9
+### Pasal 19 ^pasal-19
 
 (1) Keanggotaan Koperasi didasarkan pada kesamaan kepentingan
 ekonomi dalam lingkup usaha Koperasi.
@@ -404,7 +402,7 @@ syarat sebagaimana diatur dalam Anggaran Dasar dipenuhi.
 (4) Setiap anggota mempunyai kewajiban dan hak yang sama
 terhadap Koperasi sebagaimana diatur dalam Anggaran Dasar.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 
 (1) Setiap anggota mempunyai kewajiban:
 
@@ -438,13 +436,12 @@ d. mengemukakan pendapat atau saran kepada Pengurus diluar
 
 Rapat Anggota baik diminta maupun tidak diminta;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 10 
+           - 10
 e. memanfaatkan Koperasi dan mendapat pelayanan yang sama
 
 antara sesama anggota;
@@ -459,7 +456,7 @@ PERANGKAT ORGANISASI
 Bagian Pertama
 
 Umum
-Pasal 21
+### Pasal 21 ^pasal-21
 
 Perangkat organisasi Koperasi terdiri dari:
 
@@ -472,7 +469,7 @@ c. Pengawas.
 Bagian Kedua
 Rapat Anggota
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 (1) Rapat Anggota merupakan pemegang kekuasaan tertinggi dalam
 Koperasi.
@@ -480,14 +477,13 @@ Koperasi.
 (2) Rapat Anggota dihadiri oleh anggota yang pelaksanaannya diatur
 dalam Anggaran Dasar.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 11 
-Pasal 23
+           - 11
+### Pasal 23 ^pasal-23
 
 Rapat Anggota menetapkan:
 
@@ -511,7 +507,7 @@ f. pembagian sisa hasil usaha;
 
 g. penggabungan, peleburan, pembagian, dan pembubaran Koperasi.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 
 (1) Keputusan Rapat Anggota diambil berdasarkan musyawarah untuk
 mencapai mufakat.
@@ -528,19 +524,18 @@ mempunyai hak satu suara.
 Dasar dengan mempertimbangkan jumlah anggota dan jasa usaha
 Koperasi-anggota secara berimbang.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 12 
-Pasal 25
+           - 12
+### Pasal 25 ^pasal-25
 
 Rapat Anggota berhak meminta keterangan dan pertanggungjawaban
 Pengurus dan Pengawas mengenai pengelolaan Koperasi.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 
 (1) Rapat Anggota dilakukan paling sedikit sekali dalam 1 (satu)
 tahun.
@@ -549,7 +544,7 @@ tahun.
 Pengurus diselenggarakan paling lambat 6 (enam) bulan setelah
 tahun buku lampau.
 
-Pasal 27
+### Pasal 27 ^pasal-27
 
 (1) Selain Rapat Anggota sebagaimana dimaksud dalam Pasal 26,
 Koperasi dapat melakukan Rapat Anggota Luar Biasa apabila
@@ -562,25 +557,24 @@ pelaksanaannya diatur dalam Anggaran Dasar.
 
 (3) Rapat Anggota Luar Biasa mempunyai wewenang yang sama
 dengan wewenang Rapat Anggota sebagaimana dimaksud dalam
-Pasal 23
+### Pasal 23 ^pasal-23
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
 Persyaratan, tata cara, dan tempat penyelenggaraan Rapat Anggota
 dan Rapat Anggota Luar Biasa diatur dalam Anggaran Dasar.
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 13 
+           - 13
 Bagian Ketiga
 
 Pengurus
 
-Pasal 29
+### Pasal 29 ^pasal-29
 
 (1) Pengurus dipilih dari dan oleh anggota Koperasi dalam Rapat
 Anggota.
@@ -595,7 +589,7 @@ dicantumkan dalam akta pendirian.
 (5) Persyaratan untuk dapat dipilih dan diangkat menjadi anggota
 Pengurus ditetapkan dalam Anggaran Dasar.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 
 (1) Pengurus bertugas:
 
@@ -619,13 +613,12 @@ f. memelihara daftar buku anggota dan pengurus.
 
 (2) Pengurus berwenang:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 14 
+           - 14
 a. mewakili Koperasi di dalam dan di luar pengadilan;
 
 b. memutuskan penerimaan dan penolakan anggota baru serta
@@ -637,13 +630,13 @@ c. melakukan tindakan dan upaya bagi kepentingan dan
 kemanfaatan Koperasi sesuai dengan tanggung jawabnya dan
 keputusan Rapat Anggota.
 
-Pasal 31
+### Pasal 31 ^pasal-31
 
 Pengurus bertanggung jawab mengenai segala kegiatan pengelolaan
 Koperasi dan usahanya kepada Rapat Anggota atau Rapat Anggota Luar
 Biasa.
 
-Pasal 32
+### Pasal 32 ^pasal-32
 
 (1) Pengurus Koperasi dapat mengangkat Pengelola yang diberi
 wewenang dan kuasa untuk mengelola usaha.
@@ -657,20 +650,19 @@ Rapat Anggota untuk mendapat persetujuan.
 (4) Pengelolaan usaha oleh Pengelola tidak mengurangi tanggung
 jawab Pengurus sebagaimana ditentukan dalam Pasal 31.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 
 Hubungan antara Pengelola usaha sebagaimana dimaksud dalam Pasal
 32 dengan Pengurus Koperasi merupakan hubungan kerja atas dasar
 perikatan.
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 15 
-Pasal 34
+           - 15
+### Pasal 34 ^pasal-34
 
 (1) Pengurus, baik bersama-sama, maupun sendiri-sendiri,
 menanggung kerugian yang diderita Koperasi, karena tindakan
@@ -680,7 +672,7 @@ yang dilakukan dengan kesengajaan atau kelalaiannya.
 dilakukan dengan kesengajaan, tidak menutup kemungkinan bagi
 penuntut umum untuk melakukan penuntutan.
 
-Pasal 35
+### Pasal 35 ^pasal-35
 
 Setelah tahun buku Koperasi ditutup, paling lambat 1 (satu) bulan
 sebelum diselenggarakan rapat anggota tahunan, Pengurus menyusun
@@ -693,7 +685,7 @@ bersangkutan serta penjelasan atas dokumen tersebut;
 
 b. keadaan dan usaha Koperasi serta hasil usaha yang dapat dicapai.
 
-Pasal 36
+### Pasal 36 ^pasal-36
 
 (1) Laporan tahunan sebagaimana dimaksud dalam Pasal 35
 ditanda-tangani oleh semua anggota Pengurus.
@@ -702,14 +694,13 @@ ditanda-tangani oleh semua anggota Pengurus.
 laporan tahunan tersebut, anggota yang bersangkutan
 menjelaskan alasannya secara tertulis.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 16 
-Pasal 37
+           - 16
+### Pasal 37 ^pasal-37
 
 Persetujuan terhadap laporan tahunan, termasuk pengesahan
 perhitungan tahunan, merupakan penerimaan pertanggungjawaban
@@ -719,7 +710,7 @@ Bagian Keempat
 
 Pengawas
 
-Pasal 38
+### Pasal 38 ^pasal-38
 
 (1) Pengawas dipilih dari dan oleh anggota Koperasi dalam Rapat
 Anggota.
@@ -729,7 +720,7 @@ Anggota.
 (3) Persyaratan untuk dapat dipilih dan diangkat sebagai anggota
 Pengawas ditetapkan dalam Anggaran Dasar.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 (1) Pengawas bertugas:
 
 a. melakukan pengawasan terhadap pelaksanaan kebijaksanaan
@@ -746,23 +737,22 @@ b. mendapatkan segala keterangan yang diperlukan.
 
 (3) Pengawas harus merahasiakan hasil pengawasannya terhadap
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 17 
+           - 17
 pihak ketiga.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 
 Koperasi dapat meminta jasa audit kepada akuntan publik.
 
 BAB VII
 MODAL
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
 (1) Modal Koperasi terdiri dari modal sendiri dan modal pinjaman.
 
@@ -788,14 +778,13 @@ d. penerbitan obligasi dan surat hutang lainnya;
 
 e. sumber lain yang sah.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 18 
-Pasal 42
+           - 18
+### Pasal 42 ^pasal-42
 
 (1) Selain modal sebagai dimaksud dalam Pasal 41, Koperasi dapat
 pula melakukan pemupukan modal yang berasal dari modal
@@ -807,7 +796,7 @@ penyertaan diatur lebih lanjut dengan Peraturan Pemerintah.
 BAB VIII
 LAPANGAN USAHA
 
-Pasal 43
+### Pasal 43 ^pasal-43
 
 (1) Usaha Koperasi adalah usaha yang berkaitan langsung dengan
 kepentingan anggota untuk meningkatkan usaha dan
@@ -820,7 +809,7 @@ Koperasi.
 (3) Koperasi menjalankan kegiatan usaha dan berperan utama di
 segala bidang kehidupan ekonomi rakyat.
 
-Pasal 44
+### Pasal 44 ^pasal-44
 
 (1) Koperasi dapat menghimpun dana dan menyalurkannya melalui
 kegiatan usaha simpan pinjam dari dan untuk:
@@ -829,13 +818,12 @@ a. anggota Koperasi yang bersangkutan;
 
 b. Koperasi lain dan/atau anggotanya.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 19 
+           - 19
 (2) Kegiatan usaha simpan pinjam dapat dilaksanakan sebagai salah
 satu atau satu-satunya kegiatan usaha Koperasi.
 
@@ -845,7 +833,7 @@ lebih lanjut dengan Peraturan Pemerintah.
 BAB IX
 SISA HASIL USAHA
 
-Pasal 45
+### Pasal 45 ^pasal-45
 
 (1) Sisa Hasil Usaha Koperasi merupakan pendapatan Koperasi yang
 diperoleh dalam satu tahun buku dikurangi dengan biaya,
@@ -861,20 +849,19 @@ Koperasi, sesuai dengan keputusan Rapat Anggota.
 (3) Besarnya pemupukan dana cadangan ditetapkan dalam Rapat
 Anggota.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 20 
+           - 20
 BAB X
 PEMBUBARAN KOPERASI
 
 Bagian Pertama
 Cara Pembubaran Koperasi
 
-Pasal 46
+### Pasal 46 ^pasal-46
 
 Pembubaran Koperasi dapat dilakukan berdasarkan:
 
@@ -882,7 +869,7 @@ a. keputusan Rapat Anggota, atau
 
 b. keputusan Pemerintah.
 
-Pasal 47
+### Pasal 47 ^pasal-47
 
 (1) Keputusan pembubaran oleh Pemerintah sebagaimana dimaksud
 dalam Pasal 46 huruf b dilakukan apabila:
@@ -906,25 +893,24 @@ tersebut oleh Koperasi yang bersangkutan.
 penerimaan pemberitahuan, Koperasi yang bersangkutan berhak
 mengajukan keberatan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 21 
+           - 21
 (4) Keputusan Pemerintah mengenai diterima atau ditolaknya
 keberatan atas rencana pembubaran diberikan paling lambat 1
 (satu) bulan sejak tanggal diterimanya pemyataan keberatan
 tersebut.
 
-Pasal 48
+### Pasal 48 ^pasal-48
 
 Ketentuan mengenai pembubaran Koperasi oleh Pemerintah dan tata
 cara pengajuan keberatan sebagaimana dimaksud dalam Pasal 47,
 diatur lebih lanjut dengan Peraturan Pemerintah.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 
 (1) Keputusan pembubaran Koperasi oleh Rapat Anggota
 diberitahukan secara tertulis oleh Kuasa Rapat Anggota kepada:
@@ -941,14 +927,13 @@ berdasarkan keputusan Pemerintah.
 oleh kreditor, maka pembubaran Koperasi belum berlaku
 baginya.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 22 
-Pasal 50
+           - 22
+### Pasal 50 ^pasal-50
 
 Dalam pemberitahuan sebagaimana dimaksud dalam Pasal 49
 disebutkan:
@@ -962,13 +947,13 @@ Bagian Kedua
 
 Penyelesaian
 
-Pasal 51
+### Pasal 51 ^pasal-51
 
 Untuk kepentingan kreditor dan para anggota Koperasi, terhadap
 pembubaran Koperasi dilakukan penyelesaian pembubaran yang
 selanjutnya disebut penyelesaian.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 
 (1) Penyelesaian dilakukan oleh penyetesai pembubaran yang
 selanjutnya disebut Penyelesai.
@@ -982,24 +967,23 @@ Penyelesai ditunjuk oleh Pemerintah.
 (4) Selama dalam proses penyelesaian, Koperasi tersebut tetap ada
 dengan sebutan "Koperasi dalam penyelesaian".
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
 (1) Penyelesaian segera dilaksanakan setelah dikeluarkan keputusan
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 23 
+           - 23
 pembubaran Koperasi.
 
 (2) Penyelesai bertanggung jawab kepada Kuasa Rapat Anggota
 dalam hal Penyelesai ditunjuk oleh Rapat Anggota dan kepada
 Pemerintah dalam hal Penyelesai ditunjuk oleh Pemerintah.
 
-Pasal 54
+### Pasal 54 ^pasal-54
 
 Penyelesai mempunyai hak, wewenang, dan kewajiban sebagai
 berikut:
@@ -1030,23 +1014,22 @@ g. membagikan sisa hasil penyelesaian kepada anggota;
 
 h. membuat berita acara penyelesaian.
 
-Pasal 55
+### Pasal 55 ^pasal-55
 
 Dalam hal terjadi pembubaran Koperasi, anggota hanya menanggung
 kerugian sebatas simpanan pokok, simpanan wajib dan modal
 penyertaan yang dimilikinya.
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 24 
+           - 24
 Bagian Ketiga
 Hapusnya Status Badan Hukum
 
-Pasal 56
+### Pasal 56 ^pasal-56
 
 (1) Pemerintah mengumumkan pembubaran Koperasi dalam Berita
 Negara Republik Indonesia.
@@ -1058,7 +1041,7 @@ Indonesia.
 BAB XI
 LEMBAGA GERAKAN KOPERASI
 
-Pasal 57
+### Pasal 57 ^pasal-57
 
 (1) Koperasi secara bersama-sama mendirikan satu organisasi tunggal
 yang berfungsi sebagai wadah untuk memperjuangkan
@@ -1069,7 +1052,7 @@ kepentingan dan bertindak sebagai pembawa aspirasi Koperasi.
 (3) Nama, tujuan, susunan, dan tata kerja organisasi diatur dalam
 Anggaran Dasar organisasi yang bersangkutan.
 
-Pasal 58
+### Pasal 58 ^pasal-58
 
 (1) Organisasi tersebut melakukan kegiatan:
 
@@ -1081,13 +1064,12 @@ c. melakukan pendidikan perkoperasian bagi anggota dan
 
 masyarakat;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 25 
+           - 25
 d. mengembangkan kerjasama antarkoperasi dan antara Koperasi
 
 dengan badan usaha lain, baik pada tingkat nasional maupun
@@ -1096,7 +1078,7 @@ internasional.
 (2) Untuk melaksanakan kegiatan tersebut, Koperasi secara
 bersama-sama, menghimpun dana Koperasi.
 
-Pasal 59
+### Pasal 59 ^pasal-59
 
 Organisasi yang dibentuk sebagaimana dimaksud dalam Pasal 57 ayat
 (1) disahkan oleh Pemerintah.
@@ -1104,7 +1086,7 @@ Organisasi yang dibentuk sebagaimana dimaksud dalam Pasal 57 ayat
 BAB XII
 PEMBINAAN
 
-Pasal 60
+### Pasal 60 ^pasal-60
 
 (1) Pemerintah menciptakan dan mengembangkan iklim dan kondisi
 yang mendorong pertumbuhan serta permasyarakatan Koperasi.
@@ -1112,7 +1094,7 @@ yang mendorong pertumbuhan serta permasyarakatan Koperasi.
 (2) Pemerintah memberikan bimbingan, kemudahan, dan
 perlindungan kepada Koperasi.
 
-Pasal 61
+### Pasal 61 ^pasal-61
 
 Dalam upaya menciptakan dan mengembangkan iklim dan kondisi yang
 mendorong pertumbuhan dan pemasyarakatan Koperasi, Pemerintah:
@@ -1124,20 +1106,19 @@ b. meningkatkan dan memantapkan kemampuan Koperasi agar
 
 menjadi Koperasi yang sehat, tangguh, dan mandiri;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 26 
+           - 26
 c. mengupayakan tata hubungan usaha yang saling menguntungkan
 
 antara Koperasi dengan badan usaha lainnya;
 
 d. membudayakan Koperasi dalam masyarakat.
 
-Pasal 62
+### Pasal 62 ^pasal-62
 
 Dalam rangka memberikan bimbingan dan kemudahan kepada
 Koperasi, Pemerintah:
@@ -1162,7 +1143,7 @@ e. memberikan bantuan konsultansi guna memecahkan permasalahan
 yang dihadapi oleh Koperasi dengan tetap memperhatikan Anggaran
 Dasar dan prinsip Koperasi.
 
-Pasal 63
+### Pasal 63 ^pasal-63
 
 (1) Dalam rangka pemberian perlindungan kepada Koperasi,
 Pemerintah dapat:
@@ -1176,17 +1157,16 @@ b. menetapkan bidang kegiatan ekonomi di suatu wilayah yang
 telah berhasil diusahakan oleh Koperasi untuk tidak
 diusahakan oleh badan usaha lainnya.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 27 
+           - 27
 (2) Persyaratan dan tata cara pelaksanaan sebagaimana dimaksud
 dalam ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah.
 
-Pasal 64
+### Pasal 64 ^pasal-64
 
 Pembinaan sebagaimana dimaksud dalam Pasal 60, Pasal 61, Pasal 62,
 dan Pasal 63 dilakukan dengan memperhatikan keadaan dan
@@ -1196,7 +1176,7 @@ berusaha dan kesempatan kerja.
 BAB XIII
 KETENTUAN PERALIHAN
 
-Pasal 65
+### Pasal 65 ^pasal-65
 
 Koperasi yang telah memiliki status badan hukum pada saat
 Undang-undang ini berlaku, dinyatakan telah memperoleh status
@@ -1206,7 +1186,7 @@ BAB XIV
 
 KETENTUAN PENUTUP
 
-Pasal 66
+### Pasal 66 ^pasal-66
 
 (1) Dengan berlakunya Undang-undang ini, maka Undang-undang
 Nomor 12 Tahun 1967 tentang Pokok-pokok Perkoperasian
@@ -1217,18 +1197,17 @@ Negara Tahun 1967 Nomor 2832) dinyatakan tidak berlaku lagi.
 tentang Pokok-pokok Perkoperasian (Lembaran Negara Tahun
 1967 Nomor 23, Tambahan Lembaran Negara Tahun 1967 Nomor
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 28 
+           - 28
 2832) dinyatakan masih tetap berlaku sepanjang tidak
 bertentangan dengan atau belum diganti berdasarkan
 Undang-undang ini.
 
-Pasal 67
+### Pasal 67 ^pasal-67
 
 Undang-undang ini mulai berlaku sejak tanggal diundangkan.
 
@@ -1255,14 +1234,16 @@ ttd
 
 MOERDIONO
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 29 
-PENJELASAN
+           - 29
+
+## Penjelasan
+
+### I. Umum
 
 ATAS
 UNDANG-UNDANG REPUBLIK INDONESIA
@@ -1271,8 +1252,6 @@ NOMOR 25 TAHUN 1992
 
 TENTANG
 PERKOPERASIAN
-
-I. UMUM
 
 Undang-Undang Dasar 1945 khususnya Pasal 33 ayat (1) menyatakan
 bahwa perekonomian Indonesia disusun sebagai usaha bersama
@@ -1300,13 +1279,12 @@ menampung hal yang diperlukan untuk menunjang terlaksananya
 Koperasi baik sebagai badan usaha maupun sebagai gerakan
 ekonomi rakyat. Oleh karena itu, untuk menyelaraskan dengan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-         - 30 
+         - 30
 perkembangan lingkungan yang dinamis perlu adanya landasan
 hukum baru yang mampu mendorong Koperasi agar dapat tumbuh
 dan berkembang menjadi lebih kuat dan mandiri.
@@ -1341,13 +1319,12 @@ oleh Koperasi untuk tidak diusahakan oleh badan usaha lainnya. Hal
 tersebut dilakukan dengan memperhatikan kepentingan ekonomi
 nasional dan perwujudan pemerataan kesempatan berusaha.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 31 
+           - 31
 Undang-undang ini juga memberikan kesempatan bagi Koperasi
 untuk memperkuat permodalan melalui pengerahan modal
 penyertaan baik dari anggota maupun dari bukan anggota. Dengan
@@ -1363,10 +1340,9 @@ Koperasi serta pembinaan Koperasi, sehingga dapat lebih menjamin
 terwujudnya kehidupan Koperasi sebagaimana diamanatkan oleh
 Pasal 33 Undang-Undang Dasar 1945.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Angka 1
 
 Cukup jelas
@@ -1397,21 +1373,13 @@ REPUBLIK INDONESIA
 Angka 5
 
 Cukup jelas
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Cukup jelas
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Cukup jelas
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Prinsip Koperasi merupakan satu kesatuan dan tidak dapat
 dipisahkan dalam kehidupan berkoperasi. Dengan melaksanakan
 keseluruhan prinsip tersebut Koperasi mewujudkan dirinya sebagai
@@ -1500,9 +1468,7 @@ meningkatkan kemampuan, memperluas wawasan anggota,
 dan memperkuat solidaritas dalam mewujudkan tujuan
 Koperasi. Kerja sama dimaksud dapat dilakukan antar koperasi
 di tingkat lokal, regional, nasional, dan internasional.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 Persyaratan ini dimaksudkan untuk menjaga kelayakan usaha dan
@@ -1513,9 +1479,7 @@ mempunyai kepentingan ekonomi yang sama.
 Ayat (2)
 
 Cukup jelas
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Cukup jelas
@@ -1524,9 +1488,7 @@ Ayat (2)
 
 Yang dimaksud dengan tempat kedudukan adalah alamat tetap
 kantor Koperasi.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Huruf a
 
 Cukup jelas
@@ -1578,13 +1540,9 @@ Sanksi dalam ketentuan ini adalah sanksi yang diatur secara
 intern oleh masing-masing Koperasi, yang dikenakan terhadap
 Pengurus, Pengawas, dan anggota yang melanggar ketentuan
 Anggaran Dasar.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Cukup jelas
@@ -1603,9 +1561,7 @@ Cukup jelas
 Ayat (3)
 
 Cukup jelas
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Cukup jelas
@@ -1617,9 +1573,7 @@ Cukup jelas
 Ayat (3)
 
 Cukup jelas
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Cukup jelas
@@ -1644,13 +1598,10 @@ berusaha di segala bidang ekonomi.
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 37 
-Pasal 13
-
+           - 37
+#### Pasal 13 ^penjelasan-pasal-13
 Cukup jelas
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Penggabungan atau yang dikenal dengan istilah amalgamasi, dan
@@ -1664,9 +1615,7 @@ ketentuan yang diatur dalam Undang-undang ini.
 Ayat (2)
 
 Cukup jelas
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Pengertian Koperasi Sekunder meliputi semua Koperasi yang
 didirikan oleh dan beranggotakan Koperasi Primer dan/atau
 Koperasi Sekunder. Berdasarkan kesamaan kepentingan dan tujuan
@@ -1676,9 +1625,7 @@ mendirikan Koperasi Sekunder dalam berbagai tingkatan, seperti
 yang selama ini dikenal sebagai Pusat, Gabungan, dan Induk, maka
 jumlah tingkatan maupun penamaannya diatur sendiri oleh Koperasi
 yang bersangkutan.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Dasar untuk menentukan jenis Koperasi adalah kesamaan aktivitas,
 kepentingan dan kebutuhan ekonomi anggotanya, seperti antara
 lain Koperasi Simpan Pinjam, Koperasi Konsumen, Koperasi
@@ -1694,9 +1641,7 @@ REPUBLIK INDONESIA
            - 38 
 anggota ABRI, karyawan dan sebagainya, bukan merupakan jenis
 Koperasi tersendiri.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Sebagai pemilik dan pengguna jasa Koperasi, anggota
@@ -1709,9 +1654,7 @@ anggota menjadi anggota Koperasi.
 Ayat (2)
 
 Cukup jelas
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Ayat (1)
 
 Yang dapat menjadi anggota Koperasi Primer adalah
@@ -1742,9 +1685,7 @@ REPUBLIK INDONESIA
            - 39 
 Koperasi sepanjang memenuhi ketentuan peraturan
 perundang-undangan yang berlaku.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Ayat (1)
 
 Cukup jelas
@@ -1768,9 +1709,7 @@ dan mempermudah proses mereka untuk menjadi anggota.
 Ayat (4)
 
 Cukup jelas
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Sebagai konsekuensi seseorang menjadi anggota Koperasi, maka
@@ -1797,13 +1736,9 @@ untuk mengembangkan dan memelihara kebersamaan.
 Ayat (2)
 
 Cukup jelas
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1)
 
 Cukup jelas
@@ -1811,13 +1746,9 @@ Cukup jelas
 Ayat (2)
 
 Cukup jelas
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Cukup jelas
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Ayat (1)
 
 Cukup jelas
@@ -1846,13 +1777,9 @@ REPUBLIK INDONESIA
            - 41 
 Koperasi-anggota dan besar kecilnya jasa usaha Koperasi-anggota
 terhadap Koperasi Sekundernya.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Cukup jelas
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Cukup jelas
@@ -1862,9 +1789,7 @@ Ayat (2)
 Batas waktu penyelenggaraan Rapat Anggota dalam ayat ini yaitu
 paling lambat 6 (enam) bulan setelah tahun buku lampau, namun
 demikian dalam pelaksanaannya diusahakan secepatnya.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Rapat Anggota Luar Biasa diadakan apabila sangat diperlukan dan
@@ -1892,13 +1817,10 @@ Cukup jelas
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 42 
-Pasal 28
-
+           - 42
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Ayat (1)
 
 Cukup jelas
@@ -1919,9 +1841,7 @@ kembali.
 Ayat (5)
 
 Cukup jelas
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Dalam mengelola Koperasi, Pengurus selaku kuasa Rapat Anggota
@@ -1932,13 +1852,9 @@ keputusan Rapat Anggota.
 Ayat (2)
 
 Cukup jelas
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Ayat (1)
 
 
@@ -1977,9 +1893,7 @@ Cukup jelas
 Ayat (4)
 
 Cukup jelas
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Hubungan kerja antara Pengelola dengan Pengurus Koperasi tunduk
 pada ketentuan hukum perikatan pada umumnya. Dengan demikian
 Pengelola bertanggung jawab sepenuhnya kepada Pengurus.
@@ -1992,9 +1906,8 @@ diperjanjikan dilakukan secara kontraktual.
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 44 
-Pasal 34
-
+           - 44
+#### Pasal 34 ^penjelasan-pasal-34
 Ayat (1)
 
 Cukup jelas
@@ -2002,13 +1915,9 @@ Cukup jelas
 Ayat (2)
 
 Cukup jelas
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Cukup jelas
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6-2
 Ayat (1)
 
 Cukup jelas
@@ -2016,15 +1925,11 @@ Cukup jelas
 Ayat (2)
 
 Cukup jelas
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Penerimaan pertanggungjawaban Pengurus oleh Rapat Anggota
 berarti membebaskan Pengurus dari tanggung jawabnya pada tahun
 buku yang bersangkutan.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Dalam hal Koperasi mengangkat Pengelola, Pengawas dapat
 diadakan secara tetap atau diadakan pada waktu diperlukan sesuai
 dengan keputusan Rapat Anggota. Hal ini tidak mengurangi arti
@@ -2040,9 +1945,8 @@ sesuai dengan penugasan yang diberikan oleh Rapat Anggota.
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 45 
-Pasal 39
-
+           - 45
+#### Pasal 39 ^penjelasan-pasal-39
 Ayat (1)
 
 Cukup jelas
@@ -2054,9 +1958,7 @@ Cukup jelas
 Ayat (3)
 
 Cukup jelas
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Dalam rangka peningkatan efisiensi, pengelolaan yang bersifat
 terbuka, dan melindungi pihak yang berkepentingan, Koperasi dapat
 meminta jasa audit kepada akuntan publik. Dengan ketentuan ini
@@ -2068,9 +1970,7 @@ audit adalah audit terhadap. laporan keuangan dan audit lainnya
 sesuai keperluan Koperasi. Disamping itu Koperasi dapat meminta
 jasa lainnya dari akuntan publik antara lain konsultansi dan
 pelatihan.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Ayat (1)
 
 Cukup jelas
@@ -2154,9 +2054,7 @@ Huruf e
 
 Sumber lain yang sah adalah pinjaman dari bukan anggota
 yang dilakukan tidak melalui penawaran secara umum.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Ayat (1)
 
 Pemupukan modal dari modal penyertaan, baik yang bersumber
@@ -2173,9 +2071,7 @@ perjanjian.
 Ayat (2)
 
 Cukup jelas
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Ayat (1)
 
 Usaha Koperasi terutama diarahkan pada bidang usaha yang
@@ -2229,9 +2125,8 @@ dilaksanakan dan menyangkut kepentingan orang banyak.
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 49 
-Pasal 44
-
+           - 49
+#### Pasal 44 ^penjelasan-pasal-44
 Ayat (1)
 
 Sesuai dengan ketentuan dalam Undang-undang yang mengatur
@@ -2249,9 +2144,7 @@ Cukup jelas
 Ayat (3)
 
 Cukup jelas
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Ayat (1)
 
 Cukup jelas
@@ -2267,13 +2160,9 @@ partisipasi modal.
 Ayat (3)
 
 Cukup jelas
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Cukup jelas
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Ayat (1)
 
 
@@ -2301,13 +2190,9 @@ Cukup jelas
 Ayat (4)
 
 Cukup jelas
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Ayat (1)
 
 Yang dimaksud dengan Kuasa Rapat Anggota dalam ayat ini
@@ -2331,17 +2216,12 @@ Koperasi tersebut.
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 51 
-Pasal 50
-
+           - 51
+#### Pasal 50 ^penjelasan-pasal-50
 Cukup jelas
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Cukup jelas
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Ayat (1)
 
 Cukup jelas
@@ -2359,9 +2239,7 @@ Ayat (4)
 Ketentuan ini menegaskan bahwa "Koperasi dalam penyelesaian",
 hak dan kewajibannya masih tetap ada untuk menyelesaikan
 seluruh urusannya.
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Ayat (1)
 
 Yang dimaksud dengan keputusan pembubaran Koperasi adalah
@@ -2371,9 +2249,7 @@ Pemerintah.
 Ayat (2)
 
 Cukup jelas
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Huruf a
 
 Cukup jelas
@@ -2415,18 +2291,14 @@ Cukup jelas
 Huruf h
 
 Cukup jelas
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Ketentuan ini merupakan penegasan bahwa anggota hanya
 
 menanggung kerugian terbatas pada simpanan pokok dan
 simpanan wajib serta modal penyertaannya. Sedangkan yang
 merupakan modal pinjaman Koperasi dari anggota tidak termasuk
 dalam ketentuan tersebut.
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56
 Ayat (1)
 
 Cukup jelas
@@ -2441,9 +2313,7 @@ REPUBLIK INDONESIA
 Ayat (2)
 
 Cukup jelas
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57
 Ayat (1)
 
 Organisasi tersebut bukan merupakan badan usaha dan karenanya
@@ -2490,9 +2360,8 @@ j. ketentuan mengenai sanksi organisasi.
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 54 
-Pasal 58
-
+           - 54
+#### Pasal 58 ^penjelasan-pasal-58
 Ayat (1)
 
 Huruf a
@@ -2522,13 +2391,9 @@ nasional, maupun internasional.
 Ayat (2)
 
 Cukup jelas
-
-Pasal 59.
-
+#### Pasal 59 ^penjelasan-pasal-59
 Cukup jelas
-
-Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60
 Dengan ketentuan ini, Pemerintah memiliki landasan yang jelas dan
 kuat untuk melaksanakan peranannya dalam menetapkan
 kebijaksanaan pembinaan yang diperlukan guna mendorong
@@ -2557,9 +2422,7 @@ serta dapat mencapai tujuannya. Dengan demikian menjadi
 kewajiban dari seluruh aparatur Pemerintah, baik di pusat maupun
 di daerah untuk melakukan upaya dalam mendorong pertumbuhan,
 perkembangan, dan pemasyarakatan Koperasi.
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61
 Huruf a
 
 Cukup jelas
@@ -2588,9 +2451,8 @@ semangat Koperasi.
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 56 
-Pasal 62
-
+           - 56
+#### Pasal 62 ^penjelasan-pasal-62
 Huruf a
 
 Cukup jelas
@@ -2622,9 +2484,7 @@ Koperasi dan keseluruhan Koperasi.
 Huruf e
 
 Cukup jelas
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Ayat (1)
 
 Huruf a
@@ -2657,17 +2517,11 @@ hidup usaha Koperasi.
 Ayat (2)
 
 Cukup jelas
-
-Pasal 64
-
+#### Pasal 64 ^penjelasan-pasal-64
 Cukup jelas
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas
-
-Pasal 66
-
+#### Pasal 66 ^penjelasan-pasal-66
 Ayat (1)
 
 Cukup jelas
@@ -2675,11 +2529,80 @@ Cukup jelas
 Ayat (2)
 
 Cukup jelas
-
-Pasal 67
-
+#### Pasal 67 ^penjelasan-pasal-67
 Cukup jelas
 
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 6 | [[#^penjelasan-pasal-6-2]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |

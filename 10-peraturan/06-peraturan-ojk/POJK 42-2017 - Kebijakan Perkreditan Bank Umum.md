@@ -25,27 +25,33 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Kebijakan Perkreditan Bank Umum
+**Kebijakan Perkreditan Bank Umum**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: `30-sumber/POJK 42-2017 - Kebijakan Perkreditan Bank Umum.pdf`
 
-## Teks
-# SALINAN
+**Teks**
+**SALINAN**
 
 PERATURAN OTORITAS JASA KEUANGAN
 
 NOMOR 42 /POJK.03/2017
 
-# TENTANG
+**TENTANG**
 
 KEWAJIBAN PENYUSUNAN DAN PELAKSANAAN KEBIJAKAN PERKREDITAN ATAU PEMBIAYAAN BANK BAGI BANK UMUM
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
 DEWAN KOMISIONER OTORITAS JASA KEUANGAN,
 
@@ -65,15 +71,15 @@ d. bahwa sehubungan dengan beralihnya fungsi, tugas, dan wewenang pengaturan dan
 
    3.   Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas Jasa Keuangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 111, Tambahan Lembaran Negara Republik Indonesia Nomor 5253);
 
-# MEMUTUSKAN:
+**MEMUTUSKAN:**
 
 - Menetapkan : PERATURAN OTORITAS JASA KEUANGAN TENTANG KEWAJIBAN PENYUSUNAN DAN PELAKSANAAN KEBIJAKAN PERKREDITAN ATAU PEMBIAYAAN BANK BAGI BANK UMUM.
 
-# BAB I
+**BAB I**
 
-# KETENTUAN UMUM
+**KETENTUAN UMUM**
 
-# Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud dengan:
 
@@ -103,11 +109,11 @@ Perbankan sebagaimana telah diubah dengan UndangUndang Nomor 10 Tahun 1998 tenta
 
 dalam Undang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah.
 
-# BAB II
+**BAB II**
 
 TATA CARA PENYUSUNAN DAN PELAKSANAAN KEBIJAKAN PERKREDITAN ATAU PEMBIAYAAN BANK
 
-# Pasal 2
+### Pasal 2 ^pasal-2
 
 - (1) Bank wajib memiliki kebijakan perkreditan atau pembiayaan Bank secara tertulis.
 
@@ -115,7 +121,7 @@ TATA CARA PENYUSUNAN DAN PELAKSANAAN KEBIJAKAN PERKREDITAN ATAU PEMBIAYAAN BANK
 
 - (3) Kebijakan perkreditan atau pembiayaan Bank sebagaimana dimaksud dalam ayat (2) wajib disetujui oleh dewan komisaris Bank.
 
-# Pasal 3
+### Pasal 3 ^pasal-3
 
 Kebijakan perkreditan atau pembiayaan Bank sebagaimana dimaksud dalam Pasal 2 paling sedikit memuat dan mengatur hal pokok sebagaimana ditetapkan dalam Pedoman Penyusunan Kebijakan Perkreditan atau Pembiayaan Bank sebagai berikut:
 
@@ -133,29 +139,29 @@ Kebijakan perkreditan atau pembiayaan Bank sebagaimana dimaksud dalam Pasal 2 pa
 
 - 5 -
 
-# Pasal 4
+### Pasal 4 ^pasal-4
 
 Bank wajib mematuhi kebijakan perkreditan atau pembiayaan Bank yang telah disusun sebagaimana dimaksud dalam Pasal 2 dalam pelaksanaan pemberian Kredit atau Pembiayaan dan pengelolaan perkreditan atau pembiayaan secara konsekuen dan konsisten.
 
-# Pasal 5
+### Pasal 5 ^pasal-5
 
 Bank yang baru memperoleh izin usaha setelah berlakunya Peraturan Otoritas Jasa Keuangan ini, wajib memiliki dan menerapkan serta melaksanakan kebijakan perkreditan atau pembiayaan Bank sejak mulai melakukan kegiatan usaha.
 
-# Pasal 6
+### Pasal 6 ^pasal-6
 
 Bank dalam melakukan penyusunan kebijakan perkreditan atau pembiayaan Bank wajib memperhatikan penerapan manajemen risiko sebagaimana diatur dalam ketentuan Otoritas Jasa Keuangan yang mengatur mengenai penerapan manajemen risiko bagi bank umum dan ketentuan Otoritas Jasa Keuangan yang mengatur mengenai penerapan manajemen risiko bagi bank umum syariah dan unit usaha syariah.
 
-# BAB III
+**BAB III**
 
-# SANKSI
+**SANKSI**
 
-# Pasal 7
+### Pasal 7 ^pasal-7
 
 Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (1), Pasal 2 ayat (3), Pasal 4, Pasal 5, dan/atau Pasal 6 Peraturan Otoritas Jasa Keuangan ini dikenakan sanksi administratif yang mempengaruhi penilaian kesehatan Bank dan sanksi administratif lain sesuai dengan ketentuan peraturan perundang-undangan.
 
 - 6 -
 
-# Pasal 8
+### Pasal 8 ^pasal-8
 
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku:
 
@@ -177,7 +183,7 @@ dicabut dan dinyatakan tidak berlaku.
 
 - 7 -
 
-# Pasal 9
+### Pasal 9 ^pasal-9
 
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal diundangkan.
 
@@ -207,19 +213,19 @@ ttd
 
 Yuliana
 
-# PENJELASAN
+## Penjelasan
 
-# ATAS
+### I. Umum
 
-# PERATURAN OTORITAS JASA KEUANGAN
+**ATAS**
+
+**PERATURAN OTORITAS JASA KEUANGAN**
 
 NOMOR 42 /POJK.03/2017
 
-# TENTANG
+**TENTANG**
 
 KEWAJIBAN PENYUSUNAN DAN PELAKSANAAN KEBIJAKAN PERKREDITAN ATAU PEMBIAYAAN BANK BAGI BANK UMUM
-
-# I. UMUM
 
 Bank harus menjaga kepentingan dan kepercayaan masyarakat mengingat sebagian besar dana yang digunakan Bank untuk menjalankan kegiatan usahanya berasal dari simpanan masyarakat yang dipercayakan kepada Bank. Sebagai salah satu kegiatan usaha utama yang dijalankan oleh Bank, perkreditan atau pembiayaan mengandung risiko yang relatif tinggi yang dapat merugikan keuangan Bank serta berpengaruh terhadap kesehatan dan kelangsungan usaha Bank.
 

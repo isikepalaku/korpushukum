@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Administrasi Kependudukan
+**Administrasi Kependudukan**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -43,28 +49,28 @@ PRESIDEN REPUBLIK INDONESIA,
 Menimbang : a. bahwa Negara Kesatuan Republik Indonesia berdasarkan
 Pancasila dan Undang-Undang Dasar Negara Republik
 Indonesia Tahun 1945 pada hakikatnya berkewajiban
-memberikan 
-perlindungan 
-dan 
-pengakuan 
+memberikan
+perlindungan
+dan
+pengakuan
 terhadap
 penentuan status pribadi dan status hukum atas setiap
 Peristiwa Kependudukan dan Peristiwa Penting yang dialami
 oleh Penduduk Indonesia yang berada di dalam dan/atau di
 luar wilayah Negara Kesatuan Republik Indonesia;
-b. bahwa 
-untuk 
-memberikan 
-perlindungan, 
+b. bahwa
+untuk
+memberikan
+perlindungan,
 pengakuan,
 penentuan status pribadi dan status hukum setiap Peristiwa
 Kependudukan dan Peristiwa Penting yang dialami oleh
 Penduduk Indonesia dan Warga Negara Indonesia yang
 berada di luar wilayah Negara Kesatuan Republik Indonesia,
-perlu 
-dilakukan 
-pengaturan 
-tentang 
+perlu
+dilakukan
+pengaturan
+tentang
 Administrasi
 Kependudukan;
 c.
@@ -73,9 +79,9 @@ hanya dapat terlaksana apabila didukung oleh pelayanan
 yang profesional dan peningkatan kesadaran penduduk,
 termasuk Warga Negara Indonesia yang berada di luar
 negeri;
-d. bahwa 
-peraturan 
-perundang-undangan 
+d. bahwa
+peraturan
+perundang-undangan
 mengenai
 Administrasi Kependudukan yang ada tidak sesuai lagi
 dengan tuntutan pelayanan Administrasi Kependudukan
@@ -85,18 +91,17 @@ bagi semua penyelenggara negara yang berhubungan dengan
 kependudukan;
 e.  bahwa berdasarkan pertimbangan sebagaimana dimaksud
 dalam huruf a, huruf b, huruf c, dan huruf d, perlu
-membentuk 
-undang-undang 
-tentang 
+membentuk
+undang-undang
+tentang
 Administrasi
 Kependudukan;
 Mengingat : . . .
 
-
 <!-- Halaman 2 -->
 
 -  2  -
-Mengingat 
+Mengingat
 : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), ayat (2) dan ayat (4), Pasal
 26, Pasal 28 B ayat (1), Pasal 28 D ayat (4), Pasal 28 E ayat
 (1) dan ayat (2), Pasal 28 I, Pasal 29 ayat (1), Pasal 34 ayat (1)
@@ -136,15 +141,14 @@ Nomor 109, Tambahan Lembaran Negara Republik Indonesia
 Nomor 4235);
 9. Undang-Undang . . .
 
-
 <!-- Halaman 3 -->
 
 -  3  -
-9. Undang-Undang 
-Nomor 
-32 
-Tahun 
-2004 
+9. Undang-Undang
+Nomor
+32
+Tahun
+2004
 tentang
 Pemerintahan Daerah (Lembaran Negara Republik Indonesia
 Tahun 2004 Nomor 125, Tambahan Lembaran Negara
@@ -153,18 +157,18 @@ dengan Undang-Undang Nomor 8 Tahun 2005 tentang
 Penetapan Peraturan Pemerintah Pengganti Undang-Undang
 Nomor 3 Tahun 2005 tentang Perubahan Undang-Undang
 Nomor 32 Tahun 2004 tentang Pemerintahan Daerah
-Menjadi 
-Undang-Undang 
-(Lembaran 
-Negara 
+Menjadi
+Undang-Undang
+(Lembaran
+Negara
 Republik
 Indonesia Tahun 2005 Nomor 108, Tambahan Lembaran
 Negara Republik Indonesia Nomor 4548);
-10. Undang-Undang 
-Nomor 
-12 
-Tahun 
-2006 
+10. Undang-Undang
+Nomor
+12
+Tahun
+2006
 tentang
 Kewarganegaraan Republik Indonesia (Lembaran Negara
 Republik Indonesia Tahun 2006 Nomor 63, Tambahan
@@ -177,39 +181,38 @@ M E M U T U S K A N :
 Menetapkan : UNDANG-UNDANG TENTANG ADMINISTRASI KEPENDUDUKAN.
 BAB I
 KETENTUAN UMUM
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Undang-Undang ini yang dimaksud dengan :
 1. Administrasi Kependudukan adalah rangkaian kegiatan
 penataan dan penertiban dalam penerbitan dokumen dan
-Data 
-Kependudukan 
-melalui 
-Pendaftaran 
+Data
+Kependudukan
+melalui
+Pendaftaran
 Penduduk,
-Pencatatan 
-Sipil, 
-pengelolaan 
-informasi 
+Pencatatan
+Sipil,
+pengelolaan
+informasi
 Administrasi
-Kependudukan 
-serta 
-pendayagunaan 
-hasilnya 
+Kependudukan
+serta
+pendayagunaan
+hasilnya
 untuk
 pelayanan publik dan pembangunan sektor lain.
 2. Penduduk . . .
-
 
 <!-- Halaman 4 -->
 
 -  4  -
 2. Penduduk adalah Warga Negara Indonesia dan Orang Asing
 yang bertempat tinggal di Indonesia.
-3. Warga 
-Negara 
-Indonesia 
-adalah 
-orang-orang 
+3. Warga
+Negara
+Indonesia
+adalah
+orang-orang
 bangsa
 Indonesia asli dan orang-orang bangsa lain yang disahkan
 dengan undang-undang sebagai Warga Negara Indonesia.
@@ -219,24 +222,24 @@ urusan pemerintahan dalam negeri.
 6. Penyelenggara adalah Pemerintah, pemerintah provinsi dan
 pemerintah kabupaten/kota yang bertanggung jawab dan
 berwenang dalam urusan Administrasi Kependudukan.
-7. Instansi 
-Pelaksana 
-adalah 
-perangkat 
+7. Instansi
+Pelaksana
+adalah
+perangkat
 pemerintah
 kabupaten/kota yang bertanggung jawab dan berwenang
-melaksanakan 
-pelayanan 
-dalam 
-urusan 
+melaksanakan
+pelayanan
+dalam
+urusan
 Administrasi
 Kependudukan.
 8. Dokumen Kependudukan adalah dokumen resmi yang
-diterbitkan 
-oleh 
-Instansi 
-Pelaksana 
-yang 
+diterbitkan
+oleh
+Instansi
+Pelaksana
+yang
 mempunyai
 kekuatan hukum sebagai alat bukti autentik yang dihasilkan
 dari pelayanan Pendaftaran Penduduk dan Pencatatan Sipil.
@@ -264,7 +267,6 @@ susunan dan hubungan dalam keluarga, serta identitas
 anggota keluarga.
 14. Kartu . . .
 
-
 <!-- Halaman 5 -->
 
 -  5  -
@@ -279,18 +281,18 @@ Instansi Pelaksana.
 pencatatan Peristiwa Penting yang dialami seseorang pada
 Instansi Pelaksana yang pengangkatannya sesuai dengan
 ketentuan Peraturan Perundang-undangan.
-17. Peristiwa 
-Penting 
-adalah 
-kejadian 
-yang 
-dialami 
+17. Peristiwa
+Penting
+adalah
+kejadian
+yang
+dialami
 oleh
-seseorang 
-meliputi 
-kelahiran, 
-kematian, 
-lahir 
+seseorang
+meliputi
+kelahiran,
+kematian,
+lahir
 mati,
 perkawinan, perceraian, pengakuan anak, pengesahan anak,
 pengangkatan anak, perubahan nama dan perubahan status
@@ -306,28 +308,28 @@ Kesatuan Republik Indonesia sesuai dengan ketentuan
 Peraturan Perundang-undangan.
 20. Petugas Registrasi adalah pegawai negeri sipil yang diberi
 tugas dan tanggung jawab memberikan pelayanan pelaporan
-Peristiwa 
-Kependudukan 
-dan 
-Peristiwa 
-Penting 
+Peristiwa
+Kependudukan
+dan
+Peristiwa
+Penting
 serta
-pengelolaan 
-dan 
-penyajian 
-Data 
-Kependudukan 
+pengelolaan
+dan
+penyajian
+Data
+Kependudukan
 di
 desa/kelurahan.
 21. Sistem Informasi Administrasi Kependudukan, selanjutnya
 disingkat SIAK, adalah sistem informasi yang memanfaatkan
 teknologi informasi dan komunikasi untuk memfasilitasi
 pengelolaan informasi administrasi kependudukan di tingkat
-Penyelenggara 
-dan 
-Instansi 
-Pelaksana 
-sebagai 
+Penyelenggara
+dan
+Instansi
+Pelaksana
+sebagai
 satu
 kesatuan.
 22. Data Pribadi adalah data perseorangan tertentu yang
@@ -335,30 +337,29 @@ disimpan, dirawat, dan dijaga kebenaran serta dilindungi
 kerahasiaannya.
 23. Kantor . . .
 
-
 <!-- Halaman 6 -->
 
 -  6  -
 23. Kantor Urusan Agama Kecamatan, selanjutnya disingkat
-KUAKec, 
-adalah 
-satuan 
-kerja 
-yang 
+KUAKec,
+adalah
+satuan
+kerja
+yang
 melaksanakan
 pencatatan nikah, talak, cerai, dan rujuk pada tingkat
 kecamatan bagi Penduduk yang beragama Islam.
 24. Unit Pelaksana Teknis Dinas Instansi Pelaksana, selanjutnya
 disingkat UPTD Instansi Pelaksana, adalah satuan kerja di
-tingkat 
-kecamatan 
-yang 
-melaksanakan 
+tingkat
+kecamatan
+yang
+melaksanakan
 pelayanan
 Pencatatan Sipil dengan kewenangan menerbitkan akta.
 BAB II
 HAK DAN KEWAJIBAN PENDUDUK
-Pasal 2
+### Pasal 2 ^pasal-2
 Setiap Penduduk mempunyai hak untuk memperoleh:
 a. Dokumen Kependudukan;
 b. pelayanan yang sama dalam Pendaftaran Penduduk dan
@@ -372,31 +373,30 @@ ganti rugi dan pemulihan nama baik sebagai akibat
 kesalahan dalam Pendaftaran Penduduk dan Pencatatan
 Sipil serta penyalahgunaan Data Pribadi oleh Instansi
 Pelaksana.
-Pasal 3
+### Pasal 3 ^pasal-3
 Setiap Penduduk wajib melaporkan Peristiwa Kependudukan
 dan Peristiwa Penting yang dialaminya kepada Instansi
 Pelaksana dengan memenuhi persyaratan yang diperlukan
 dalam Pendaftaran Penduduk dan Pencatatan Sipil.
-Pasal 4
+### Pasal 4 ^pasal-4
 Warga Negara Indonesia yang berada di luar wilayah Republik
 Indonesia wajib melaporkan Peristiwa Kependudukan dan
 Peristiwa Penting yang dialaminya kepada Instansi Pelaksana
-Pencatatan 
-Sipil 
-negara 
-setempat 
-dan/atau 
+Pencatatan
+Sipil
+negara
+setempat
+dan/atau
 kepada
 Perwakilan Republik Indonesia dengan memenuhi persyaratan
-yang 
-diperlukan 
-dalam 
-Pendaftaran 
-Penduduk 
+yang
+diperlukan
+dalam
+Pendaftaran
+Penduduk
 dan
 Pencatatan Sipil.
 BAB III . . .
-
 
 <!-- Halaman 7 -->
 
@@ -407,31 +407,31 @@ Bagian Kesatu
 Penyelenggara
 Paragraf 1
 Pemerintah
-Pasal 5
-Pemerintah 
-berkewajiban 
-dan 
-bertanggung 
+### Pasal 5 ^pasal-5
+Pemerintah
+berkewajiban
+dan
+bertanggung
 jawab
-menyelenggarakan 
-Administrasi 
-Kependudukan 
+menyelenggarakan
+Administrasi
+Kependudukan
 secara
 nasional, yang dilakukan oleh Menteri dengan kewenangan
 meliputi:
-a.  koordinasi 
-antarinstansi 
-dalam 
-urusan 
+a.  koordinasi
+antarinstansi
+dalam
+urusan
 Administrasi
 Kependudukan;
 b.  penetapan sistem, pedoman, dan standar pelaksanaan
 Administrasi Kependudukan;
 c.  sosialisasi Administrasi Kependudukan;
-d. pemberian 
-bimbingan, 
-supervisi, 
-dan 
+d. pemberian
+bimbingan,
+supervisi,
+dan
 konsultasi
 pelaksanaan urusan Administrasi Kependudukan;
 e.  pengelolaan dan penyajian Data Kependudukan berskala
@@ -440,7 +440,7 @@ f.  pencetakan, penerbitan, dan distribusi blangko Dokumen
 Kependudukan.
 Paragraf 2
 Pemerintah Provinsi
-Pasal 6
+### Pasal 6 ^pasal-6
 Pemerintah provinsi berkewajiban dan bertanggung jawab
 menyelenggarakan urusan Administrasi Kependudukan, yang
 dilakukan oleh gubernur dengan kewenangan meliputi:
@@ -451,7 +451,6 @@ c. pembinaan dan sosialisasi penyelenggaraan Administrasi
 Kependudukan;
 d. pengelolaan . . .
 
-
 <!-- Halaman 8 -->
 
 -  8  -
@@ -461,32 +460,32 @@ e. koordinasi pengawasan atas penyelenggaraan Administrasi
 Kependudukan.
 Paragraf 3
 Pemerintah Kabupaten/Kota
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Pemerintah kabupaten/kota berkewajiban dan bertanggung
-jawab 
-menyelenggarakan 
-urusan 
+jawab
+menyelenggarakan
+urusan
 Administrasi
-Kependudukan, 
-yang 
-dilakukan 
-oleh 
+Kependudukan,
+yang
+dilakukan
+oleh
 bupati/walikota
 dengan kewenangan meliputi:
-a. koordinasi 
-penyelenggaraan 
+a. koordinasi
+penyelenggaraan
 Administrasi
 Kependudukan;
-b. pembentukan 
-Instansi 
-Pelaksana 
-yang 
-tugas 
+b. pembentukan
+Instansi
+Pelaksana
+yang
+tugas
 dan
 fungsinya di bidang Administrasi Kependudukan;
-c. pengaturan 
-teknis 
-penyelenggaraan 
+c. pengaturan
+teknis
+penyelenggaraan
 Administrasi
 Kependudukan sesuai dengan ketentuan Peraturan
 Perundang-undangan;
@@ -494,46 +493,45 @@ d. pembinaan dan sosialisasi penyelenggaraan Administrasi
 Kependudukan;
 e. pelaksanaan kegiatan pelayanan masyarakat di bidang
 Administrasi Kependudukan;
-f. penugasan 
-kepada 
-desa 
-untuk 
+f. penugasan
+kepada
+desa
+untuk
 menyelenggarakan
-sebagian 
-urusan 
-Administrasi 
+sebagian
+urusan
+Administrasi
 Kependudukan
 berdasarkan asas tugas pembantuan;
 g. pengelolaan dan penyajian Data Kependudukan berskala
 kabupaten/kota; dan
-h. koordinasi 
-pengawasan 
-atas 
+h. koordinasi
+pengawasan
+atas
 penyelenggaraan
 Administrasi Kependudukan.
 (2) Ketentuan sebagaimana dimaksud pada ayat (1) di Provinsi
-Daerah 
-Khusus 
-Ibukota 
-Jakarta 
-dilaksanakan 
+Daerah
+Khusus
+Ibukota
+Jakarta
+dilaksanakan
 oleh
 Pemerintah Provinsi Daerah Khusus Ibukota Jakarta.
 Bagian Kedua . . .
-
 
 <!-- Halaman 9 -->
 
 -  9  -
 Bagian Kedua
 Instansi Pelaksana
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Instansi Pelaksana melaksanakan urusan Administrasi
 Kependudukan dengan kewajiban yang meliputi:
-a. mendaftar 
-Peristiwa 
-Kependudukan 
-dan 
+a. mendaftar
+Peristiwa
+Kependudukan
+dan
 mencatat
 Peristiwa Penting;
 b. memberikan pelayanan yang sama dan profesional
@@ -542,11 +540,11 @@ Kependudukan dan Peristiwa Penting;
 c. menerbitkan Dokumen Kependudukan;
 d. mendokumentasikan hasil Pendaftaran Penduduk dan
 Pencatatan Sipil;
-e. menjamin 
-kerahasiaan 
-dan 
-keamanan 
-data 
+e. menjamin
+kerahasiaan
+dan
+keamanan
+data
 atas
 Peristiwa Kependudukan dan Peristiwa Penting; dan
 f. melakukan verifikasi dan validasi data dan informasi
@@ -557,21 +555,21 @@ untuk pencatatan nikah, talak, cerai, dan rujuk bagi
 Penduduk yang beragama Islam pada tingkat kecamatan
 dilakukan oleh pegawai pencatat pada KUAKec.
 (3) Pelayanan Pencatatan Sipil pada tingkat kecamatan
-dilakukan 
-oleh 
-UPTD 
-Instansi 
-Pelaksana 
+dilakukan
+oleh
+UPTD
+Instansi
+Pelaksana
 dengan
 kewenangan menerbitkan Akta Pencatatan Sipil.
 (4) Kewajiban sebagaimana dimaksud pada ayat (1) untuk
 persyaratan dan tata cara Pencatatan Peristiwa Penting
 bagi Penduduk yang agamanya belum diakui sebagai
 agama menurut peraturan perundang-undangan atau bagi
-penghayat 
-kepercayaan 
-berpedoman 
-pada 
+penghayat
+kepercayaan
+berpedoman
+pada
 peraturan
 perundang-undangan.
 (5) Ketentuan lebih lanjut mengenai UPTD Instansi Pelaksana
@@ -580,11 +578,10 @@ pembentukannya diatur dengan Peraturan Pemerintah.
 Pasal 9 . . .
 -  10  -
 
-
 <!-- Halaman 10 -->
 
-Pasal 9
-(1) 
+### Pasal 9 ^pasal-9
+(1)
 Instansi Pelaksana melaksanakan urusan Administrasi
 Kependudukan dengan kewenangan yang meliputi:
 a. memperoleh keterangan dan data yang benar tentang
@@ -593,50 +590,50 @@ dilaporkan Penduduk;
 b. memperoleh data mengenai Peristiwa Penting yang
 dialami Penduduk atas dasar putusan atau penetapan
 pengadilan;
-c. memberikan 
-keterangan 
-atas 
-laporan 
+c. memberikan
+keterangan
+atas
+laporan
 Peristiwa
-Kependudukan 
-dan 
-Peristiwa 
-Penting 
+Kependudukan
+dan
+Peristiwa
+Penting
 untuk
 kepentingan penyelidikan, penyidikan, dan pembuktian
 kepada lembaga peradilan; dan
 d. mengelola data dan mendayagunakan informasi hasil
 Pendaftaran Penduduk dan Pencatatan Sipil untuk
 kepentingan pembangunan.
-(2) 
+(2)
 Kewenangan sebagaimana dimaksud pada ayat (1) huruf a
 dan huruf b berlaku juga bagi KUAKec, khususnya untuk
 pencatatan, nikah, talak, cerai, dan rujuk bagi Penduduk
 yang beragama Islam.
-(3) 
+(3)
 Selain kewenangan sebagaimana dimaksud pada ayat (1),
-Instansi 
-Pelaksana 
-mempunyai 
-kewenangan 
+Instansi
+Pelaksana
+mempunyai
+kewenangan
 untuk
 mendapatkan data hasil pencatatan peristiwa perkawinan,
 perceraian, dan rujuk bagi Penduduk yang beragama Islam
 dari KUAKec.
-Pasal 10
+### Pasal 10 ^pasal-10
 Ketentuan lebih lanjut mengenai penyelenggaraan kewenangan
 sebagaimana dimaksud dalam Pasal 5, Pasal 6, Pasal 7, Pasal
 8, dan Pasal 9 diatur dalam Peraturan Pemerintah.
-Pasal  11
-(1) Pejabat 
-Pencatatan 
-Sipil 
-mempunyai 
+### Pasal 11 ^pasal-11
+(1) Pejabat
+Pencatatan
+Sipil
+mempunyai
 kewenangan
-melakukan 
-verifikasi 
-kebenaran 
-data, 
+melakukan
+verifikasi
+kebenaran
+data,
 melakukan
 pembuktian pencatatan atas nama jabatannya, mencatat
 data dalam register akta Pencatatan Sipil, menerbitkan
@@ -645,14 +642,13 @@ pinggir pada akta-akta Pencatatan Sipil.
 (2) Ketentuan . . .
 -  11  -
 
-
 <!-- Halaman 11 -->
 
 (2) Ketentuan lebih lanjut mengenai pedoman pengangkatan
 dan pemberhentian serta tugas pokok Pejabat Pencatatan
 Sipil sebagaimana dimaksud pada ayat (1) diatur dalam
 Peraturan Menteri.
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Petugas Registrasi membantu kepala desa atau lurah dan
 Instansi Pelaksana dalam Pendaftaran Penduduk dan
 Pencatatan Sipil.
@@ -667,15 +663,15 @@ BAB IV
 PENDAFTARAN PENDUDUK
 Bagian Kesatu
 Nomor Induk Kependudukan
-Pasal  13
+### Pasal 13 ^pasal-13
 (1) Setiap Penduduk wajib memiliki NIK.
 (2) NIK sebagaimana dimaksud pada ayat (1) berlaku seumur
 hidup dan selamanya, yang diberikan oleh Pemerintah dan
-diterbitkan 
-oleh 
-Instansi 
-Pelaksana 
-kepada 
+diterbitkan
+oleh
+Instansi
+Pelaksana
+kepada
 setiap
 Penduduk setelah dilakukan pencatatan biodata.
 (3) NIK sebagaimana dimaksud pada ayat (1) dicantumkan
@@ -685,16 +681,15 @@ wajib pajak, polis asuransi, sertifikat hak atas tanah, dan
 penerbitan dokumen identitas lainnya.
 (4) Ketentuan lebih lanjut mengenai persyaratan, tata cara
 dan ruang lingkup penerbitan dokumen identitas lainnya,
-serta 
-pencantuman 
-NIK 
-diatur 
-dengan 
+serta
+pencantuman
+NIK
+diatur
+dengan
 Peraturan
 Pemerintah.
 Bagian Kedua . . .
 -  12  -
-
 
 <!-- Halaman 12 -->
 
@@ -702,42 +697,42 @@ Bagian Kedua
 Pendaftaran Peristiwa Kependudukan
 Paragraf 1
 Perubahan Alamat
-Pasal  14
-(1) 
+### Pasal 14 ^pasal-14
+(1)
 Dalam hal terjadi perubahan alamat Penduduk, Instansi
 Pelaksana wajib menyelenggarakan penerbitan perubahan
 dokumen Pendaftaran Penduduk.
-(2) 
+(2)
 Ketentuan lebih lanjut mengenai persyaratan dan tata
-cara 
-penerbitan 
-perubahan 
-dokumen 
+cara
+penerbitan
+perubahan
+dokumen
 Pendaftaran
 Penduduk sebagaimana dimaksud pada ayat (1) diatur
 dalam Peraturan Menteri.
 Paragraf 2
 Pindah Datang Penduduk dalam Wilayah Indonesia
-Pasal  15
-(1) 
+### Pasal 15 ^pasal-15
+(1)
 Penduduk Warga Negara Indonesia yang pindah dalam
-wilayah 
-Negara 
-Kesatuan 
-Republik Indonesia 
+wilayah
+Negara
+Kesatuan
+Republik Indonesia
 wajib
 melapor kepada Instansi Pelaksana di daerah asal untuk
 mendapatkan Surat Keterangan Pindah.
-(2) 
+(2)
 Pindah sebagaimana dimaksud pada ayat (1) adalah
 berdomisilinya Penduduk di alamat yang baru untuk
 waktu lebih dari 1 (satu) tahun atau berdasarkan
 kebutuhan yang bersangkutan untuk waktu yang kurang
 dari 1 (satu) tahun.
-(3)   Berdasarkan 
-Surat 
-Keterangan 
-Pindah 
+(3)   Berdasarkan
+Surat
+Keterangan
+Pindah
 sebagaimana
 dimaksud pada ayat (1) Penduduk yang bersangkutan
 wajib melapor kepada Instansi Pelaksana di daerah tujuan
@@ -745,52 +740,51 @@ untuk penerbitan Surat Keterangan Pindah Datang.
 (4)
 Surat Keterangan Pindah Datang sebagaimana dimaksud
 pada ayat (3) digunakan sebagai dasar perubahan atau
-penerbitan 
-KK 
-dan 
-KTP 
-bagi 
-Penduduk 
+penerbitan
+KK
+dan
+KTP
+bagi
+Penduduk
 yang
 bersangkutan.
 Pasal 16 . . .
 -  13  -
 
-
 <!-- Halaman 13 -->
 
-Pasal 16
-Instansi 
-Pelaksana 
-wajib 
-menyelenggarakan 
+### Pasal 16 ^pasal-16
+Instansi
+Pelaksana
+wajib
+menyelenggarakan
 pendaftaran
 pindah datang Penduduk Warga Negara Indonesia yang
 bertransmigrasi.
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Orang Asing yang memiliki Izin Tinggal Terbatas dan Orang
 Asing yang memiliki Izin Tinggal Tetap yang pindah dalam
-wilayah 
-Negara 
-Kesatuan 
-Republik 
-Indonesia 
+wilayah
+Negara
+Kesatuan
+Republik
+Indonesia
 wajib
-melaporkan 
-rencana 
-kepindahannya 
-kepada 
+melaporkan
+rencana
+kepindahannya
+kepada
 Instansi
 Pelaksana di daerah asal.
 (2) Berdasarkan laporan sebagaimana dimaksud pada ayat (1)
 Instansi Pelaksana mendaftar dan menerbitkan Surat
 Keterangan Pindah Datang.
-(3) Orang 
-Asing 
-sebagaimana 
-dimaksud 
-pada 
-ayat 
+(3) Orang
+Asing
+sebagaimana
+dimaksud
+pada
+ayat
 (1)
 melaporkan kedatangan kepada Instansi Pelaksana di
 daerah tujuan paling lambat 30 (tiga puluh) hari sejak
@@ -801,7 +795,7 @@ penerbitan KK, KTP, atau Surat Keterangan Tempat Tinggal
 bagi Orang Asing yang bersangkutan.
 Paragraf 3
 Pindah Datang Antarnegara
-Pasal  18
+### Pasal 18 ^pasal-18
 (1) Penduduk Warga Negara Indonesia yang pindah ke luar
 negeri wajib melaporkan rencana kepindahannya kepada
 Instansi Pelaksana.
@@ -810,22 +804,21 @@ Instansi Pelaksana mendaftar dan menerbitkan Surat
 Keterangan Pindah ke Luar Negeri.
 (3) Penduduk Warga Negara Indonesia yang telah pindah
 sebagaimana dimaksud pada ayat (1) dan berstatus
-menetap 
-di 
-luar 
-negeri 
-wajib 
-melaporkan 
+menetap
+di
+luar
+negeri
+wajib
+melaporkan
 kepada
 Perwakilan Republik Indonesia  paling lambat 30 (tiga
 puluh) hari sejak kedatangannya.
 Pasal  19 . . .
 -  14  -
 
-
 <!-- Halaman 14 -->
 
-Pasal  19
+### Pasal 19 ^pasal-19
 (1) Warga Negara Indonesia yang datang dari luar negeri wajib
 melaporkan kedatangannya kepada Instansi Pelaksana
 paling lambat 14 (empat belas) hari sejak tanggal
@@ -834,33 +827,33 @@ kedatangan.
 Instansi Pelaksana mendaftar dan menerbitkan Surat
 Keterangan Datang dari Luar Negeri sebagai dasar
 penerbitan KK dan KTP.
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Orang Asing yang memiliki Izin Tinggal Terbatas yang
 datang dari luar negeri dan Orang Asing yang memiliki izin
 lainnya yang telah berubah status sebagai pemegang Izin
 Tinggal Terbatas yang berencana bertempat tinggal di
-wilayah 
-Negara 
-Kesatuan 
-Republik 
-Indonesia 
+wilayah
+Negara
+Kesatuan
+Republik
+Indonesia
 wajib
 melaporkan kepada Instansi Pelaksana paling lambat 14
 (empat belas) hari sejak diterbitkan Izin Tinggal Terbatas.
 (2) Berdasarkan laporan sebagaimana dimaksud pada ayat (1),
 Instansi Pelaksana mendaftar dan menerbitkan Surat
 Keterangan Tempat Tinggal.
-(3) Masa 
-berlaku 
-Surat 
-Keterangan 
-Tempat 
+(3) Masa
+berlaku
+Surat
+Keterangan
+Tempat
 Tinggal
 sebagaimana dimaksud pada ayat (2) disesuaikan dengan
 masa berlaku Izin Tinggal Terbatas.
 (4) Surat Keterangan Tempat Tinggal sebagaimana dimaksud
 pada ayat (2) wajib dibawa pada saat berpergian.
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Orang Asing yang memiliki Izin Tinggal Terbatas yang telah
 berubah status menjadi Orang Asing yang memiliki Izin
 Tinggal Tetap wajib melaporkan kepada Instansi Pelaksana
@@ -872,10 +865,9 @@ KTP.
 Pasal 22 . . .
 -  15  -
 
-
 <!-- Halaman 15 -->
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) Orang Asing yang memiliki Izin Tinggal Terbatas atau
 Orang Asing yang memiliki Izin Tinggal Tetap yang akan
 pindah ke luar negeri wajib melaporkan kepada Instansi
@@ -883,14 +875,14 @@ Pelaksana paling lambat 14 (empat belas) hari sebelum
 rencana kepindahannya.
 (2) Berdasarkan laporan sebagaimana dimaksud pada ayat (1),
 Instansi Pelaksana melakukan pendaftaran.
-Pasal 23
+### Pasal 23 ^pasal-23
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pendaftaran Peristiwa Kependudukan sebagaimana dimaksud
 dalam Pasal 15, Pasal 16, Pasal 17,  Pasal 18,  Pasal 19, Pasal
 20, Pasal 21, dan Pasal 22 diatur dalam Peraturan Presiden.
 Paragraf 4
 Penduduk Pelintas Batas
-Pasal 24
+### Pasal 24 ^pasal-24
 (1)  Penduduk Warga Negara Indonesia yang tinggal di
 perbatasan antarnegara yang bermaksud melintas batas
 negara diberi buku pas lintas batas oleh instansi yang
@@ -904,12 +896,11 @@ pendaftaran bagi Penduduk sebagaimana dimaksud pada
 ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 Bagian Ketiga
 Pendataan Penduduk Rentan Administrasi Kependudukan
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) Instansi Pelaksana wajib melakukan pendataan Penduduk
 rentan Administrasi Kependudukan yang meliputi:
 a. penduduk . . .
 -  16  -
-
 
 <!-- Halaman 16 -->
 
@@ -929,12 +920,12 @@ pendataan Penduduk rentan diatur dalam Peraturan
 Presiden.
 Bagian Keempat
 Pelaporan Penduduk yang Tidak Mampu Mendaftarkan Sendiri
-Pasal  26
+### Pasal 26 ^pasal-26
 (1)  Penduduk yang tidak mampu melaksanakan sendiri
-pelaporan 
-terhadap 
-Peristiwa 
-Kependudukan 
+pelaporan
+terhadap
+Peristiwa
+Kependudukan
 yang
 menyangkut dirinya sendiri dapat dibantu oleh Instansi
 Pelaksana atau meminta bantuan kepada orang lain.
@@ -946,12 +937,11 @@ Bagian Kesatu
 Pencatatan Kelahiran
 Paragraf 1
 Pencatatan Kelahiran di Indonesia
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) Setiap kelahiran wajib dilaporkan oleh Penduduk kepada
 Instansi Pelaksana di tempat terjadinya peristiwa kelahiran
 paling lambat 60 (enam puluh) hari sejak kelahiran.
 (2) Berdasarkan . . .
-
 
 <!-- Halaman 17 -->
 
@@ -959,16 +949,16 @@ paling lambat 60 (enam puluh) hari sejak kelahiran.
 (2) Berdasarkan laporan sebagaimana dimaksud pada ayat (1),
 Pejabat Pencatatan Sipil  mencatat pada Register Akta
 Kelahiran dan menerbitkan Kutipan Akta Kelahiran.
-Pasal  28
+### Pasal 28 ^pasal-28
 (1) Pencatatan kelahiran dalam Register Akta Kelahiran dan
 penerbitan Kutipan Akta Kelahiran terhadap peristiwa
 kelahiran seseorang yang tidak diketahui asal-usulnya
 atau keberadaan orang tuanya, didasarkan pada laporan
-orang 
-yang 
-menemukan 
-dilengkapi 
-Berita 
+orang
+yang
+menemukan
+dilengkapi
+Berita
 Acara
 Pemeriksaan dari kepolisian.
 (2) Kutipan Akta Kelahiran sebagaimana dimaksud pada ayat
@@ -976,7 +966,7 @@ Pemeriksaan dari kepolisian.
 oleh Instansi Pelaksana.
 Paragraf 2
 Pencatatan Kelahiran di luar Wilayah Republik Indonesia
-Pasal  29
+### Pasal 29 ^pasal-29
 (1) Kelahiran Warga Negara Indonesia di luar wilayah Republik
 Indonesia wajib dicatatkan pada instansi yang berwenang
 di negara setempat dan dilaporkan kepada Perwakilan
@@ -994,46 +984,45 @@ lambat 30 (tiga puluh) hari sejak Warga Negara Indonesia
 yang bersangkutan kembali ke Indonesia.
 Paragraf 3 . . .
 
-
 <!-- Halaman 18 -->
 
 -  18  -
 Paragraf 3
 Pencatatan Kelahiran di atas Kapal Laut atau Pesawat Terbang
-Pasal  30
+### Pasal 30 ^pasal-30
 (1) Kelahiran Warga Negara Indonesia di atas kapal laut atau
 pesawat terbang wajib dilaporkan oleh Penduduk kepada
 Instansi Pelaksana di tempat tujuan atau tempat singgah
 berdasarkan keterangan kelahiran dari nakhoda kapal laut
 atau kapten pesawat terbang.
-(2) Dalam 
-hal 
-tempat 
-tujuan 
-atau 
-tempat 
+(2) Dalam
+hal
+tempat
+tujuan
+atau
+tempat
 singgah
 sebagaimana dimaksud pada ayat (1) berada di wilayah
 Republik Indonesia, kelahiran dilaporkan kepada Instansi
 Pelaksana setempat untuk dicatat dalam Register Akta
 Kelahiran dan diterbitkan Kutipan Akta Kelahiran.
-(3) Dalam 
-hal 
-tempat 
-tujuan 
-atau 
-tempat 
+(3) Dalam
+hal
+tempat
+tujuan
+atau
+tempat
 singgah
 sebagaimana dimaksud pada ayat (1) berada di luar
 wilayah Negara Kesatuan Republik Indonesia, kelahiran
 dilaporkan kepada negara tempat tujuan atau tempat
 singgah.
 (4) Apabila negara tempat tujuan atau tempat singgah
-sebagaimana 
-dimaksud 
-pada 
-ayat 
-(3) 
+sebagaimana
+dimaksud
+pada
+ayat
+(3)
 tidak
 menyelenggarakan pencatatan kelahiran bagi orang asing,
 pencatatan dilakukan pada Perwakilan Republik Indonesia
@@ -1046,26 +1035,25 @@ dan ayat (4) wajib dilaporkan oleh Penduduk kepada
 Instansi Pelaksana paling lambat 30 (tiga puluh) hari sejak
 Warga Negara Indonesia yang bersangkutan kembali ke
 Indonesia.
-Pasal  31
+### Pasal 31 ^pasal-31
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pencatatan kelahiran sebagaimana dimaksud dalam Pasal 27,
 Pasal 28, Pasal 29, dan Pasal 30 diatur dalam Peraturan
 Presiden.
 Paragraf 4 . . .
 
-
 <!-- Halaman 19 -->
 
 -  19  -
 Paragraf 4
 Pencatatan Kelahiran yang Melampaui Batas Waktu
-Pasal 32
+### Pasal 32 ^pasal-32
 (1)  Pelaporan kelahiran sebagaimana dimaksud dalam Pasal
 27 ayat (1) yang melampaui batas waktu 60 (enam puluh)
 hari sampai dengan 1 (satu) tahun sejak tanggal kelahiran,
-pencatatan 
-dilaksanakan 
-setelah 
+pencatatan
+dilaksanakan
+setelah
 mendapatkan
 persetujuan Kepala Instansi Pelaksana setempat.
 (2)  Pencatatan kelahiran yang melampaui batas waktu 1 (satu)
@@ -1076,7 +1064,7 @@ pencatatan kelahiran sebagaimana dimaksud pada ayat (1)
 dan ayat (2) diatur dalam Peraturan Presiden.
 Bagian Kedua
 Pencatatan Lahir Mati
-Pasal  33
+### Pasal 33 ^pasal-33
 (1)  Setiap lahir mati wajib dilaporkan oleh Penduduk kepada
 Instansi Pelaksana paling lambat 30 (tiga puluh) hari sejak
 lahir mati.
@@ -1089,18 +1077,17 @@ Bagian Ketiga
 Pencatatan Perkawinan
 Paragraf 1
 Pencatatan Perkawinan di Indonesia
-Pasal 34
+### Pasal 34 ^pasal-34
 (1) Perkawinan yang sah menurut Peraturan Perundang-
-undangan 
-wajib 
-dilaporkan 
-oleh 
-Penduduk 
+undangan
+wajib
+dilaporkan
+oleh
+Penduduk
 kepada
 Instansi Pelaksana di tempat terjadinya perkawinan paling
 lambat 60 (enam puluh) hari sejak tanggal perkawinan.
 (2) Berdasarkan . . .
-
 
 <!-- Halaman 20 -->
 
@@ -1112,11 +1099,11 @@ Perkawinan dan menerbitkan Kutipan Akta Perkawinan.
 ayat (2) masing-masing diberikan kepada suami dan istri.
 (4)  Pelaporan sebagaimana dimaksud pada ayat (1) bagi
 Penduduk yang beragama Islam  dilakukan oleh KUAKec.
-(5) Data 
-hasil 
-pencatatan 
-atas 
-peristiwa 
+(5) Data
+hasil
+pencatatan
+atas
+peristiwa
 sebagaimana
 dimaksud pada ayat (4) dan dalam Pasal 8 ayat (2) wajib
 disampaikan oleh KUAKec kepada Instansi Pelaksana
@@ -1127,38 +1114,37 @@ pencatatan perkawinan dilaksanakan.
 Sipil.
 (7) Pada tingkat kecamatan laporan sebagaimana dimaksud
 pada ayat (1) dilakukan pada UPTD Instansi Pelaksana.
-Pasal 35
+### Pasal 35 ^pasal-35
 Pencatatan perkawinan sebagaimana dimaksud dalam Pasal 34
 berlaku pula bagi:
 a.  perkawinan yang ditetapkan oleh Pengadilan; dan
-b.  perkawinan 
-Warga 
-Negara 
-Asing 
-yang 
-dilakukan 
+b.  perkawinan
+Warga
+Negara
+Asing
+yang
+dilakukan
 di
 Indonesia atas permintaan Warga Negara Asing yang
 bersangkutan.
-Pasal 36
+### Pasal 36 ^pasal-36
 Dalam hal perkawinan tidak dapat dibuktikan dengan Akta
 Perkawinan, pencatatan perkawinan dilakukan setelah adanya
 penetapan pengadilan.
 Paragraf 2
 Pencatatan Perkawinan di luar Wilayah Republik Indonesia
-Pasal 37
+### Pasal 37 ^pasal-37
 (1)  Perkawinan Warga Negara Indonesia di luar wilayah Negara
 Kesatuan Republik Indonesia wajib dicatatkan pada
-instansi 
-yang 
-berwenang 
-di 
-negara 
-setempat 
+instansi
+yang
+berwenang
+di
+negara
+setempat
 dan
 dilaporkan pada Perwakilan Republik Indonesia.
 (2) Apabila . . .
-
 
 <!-- Halaman 21 -->
 
@@ -1176,14 +1162,14 @@ Perkawinan.
 Instansi Pelaksana di tempat tinggalnya paling lambat 30
 (tiga puluh) hari sejak yang bersangkutan kembali ke
 Indonesia.
-Pasal 38
+### Pasal 38 ^pasal-38
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pencatatan perkawinan sebagaimana dimaksud dalam Pasal
 34, Pasal 35, Pasal 36, dan Pasal 37 diatur dalam Peraturan
 Presiden.
 Bagian Keempat
 Pencatatan Pembatalan Perkawinan
-Pasal 39
+### Pasal 39 ^pasal-39
 (1)  Pembatalan perkawinan wajib dilaporkan oleh Penduduk
 yang mengalami pembatalan perkawinan kepada Instansi
 Pelaksana paling lambat 90 (sembilan puluh) hari setelah
@@ -1191,22 +1177,21 @@ putusan pengadilan tentang pembatalan perkawinan yang
 telah memperoleh kekuatan hukum tetap.
 (2)  Instansi Pelaksana sebagaimana dimaksud pada ayat (1)
 mencabut Kutipan Akta Perkawinan dari kepemilikan
-subjek 
-akta 
-dan 
-mengeluarkan 
-Surat 
+subjek
+akta
+dan
+mengeluarkan
+Surat
 Keterangan
 Pembatalan Perkawinan.
 (3)  Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-pencatatan 
-pembatalan 
-perkawinan 
+pencatatan
+pembatalan
+perkawinan
 sebagaimana
 dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan
 Presiden.
 Bagian Kelima . . .
-
 
 <!-- Halaman 22 -->
 
@@ -1215,7 +1200,7 @@ Bagian Kelima
 Pencatatan Perceraian
 Paragraf 1
 Pencatatan Perceraian di Indonesia
-Pasal 40
+### Pasal 40 ^pasal-40
 (1)  Perceraian wajib dilaporkan oleh yang bersangkutan
 kepada Instansi Pelaksana paling lambat 60 (enam puluh)
 hari sejak putusan pengadilan tentang perceraian yang
@@ -1226,15 +1211,15 @@ Perceraian dan menerbitkan Kutipan Akta Perceraian.
 Paragraf 2
 Pencatatan Perceraian di luar Wilayah Negara Kesatuan
 Republik Indonesia
-Pasal 41
+### Pasal 41 ^pasal-41
 (1)  Perceraian Warga Negara Indonesia di luar wilayah Negara
 Kesatuan Republik Indonesia wajib dicatatkan pada
-instansi 
-yang 
-berwenang 
-di 
-negara 
-setempat 
+instansi
+yang
+berwenang
+di
+negara
+setempat
 dan
 dilaporkan pada Perwakilan Republik Indonesia.
 (2)  Apabila negara setempat sebagaimana dimaksud pada ayat
@@ -1251,17 +1236,16 @@ Instansi Pelaksana di tempat tinggalnya paling lambat 30
 Indonesia.
 Pasal 42 . . .
 
-
 <!-- Halaman 23 -->
 
 -  23  -
-Pasal 42
+### Pasal 42 ^pasal-42
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pencatatan perceraian sebagaimana dimaksud dalam Pasal 40
 dan Pasal 41 diatur dalam Peraturan Presiden.
 Bagian Keenam
 Pencatatan Pembatalan Perceraian
-Pasal 43
+### Pasal 43 ^pasal-43
 (1)  Pembatalan perceraian bagi Penduduk wajib dilaporkan
 oleh Penduduk kepada Instansi Pelaksana paling lambat
 60 (enam puluh) hari setelah putusan pengadilan tentang
@@ -1269,11 +1253,11 @@ pembatalan perceraian mempunyai kekuatan hukum
 tetap.
 (2) Berdasarkan laporan sebagaimana dimaksud pada ayat (1),
 Instansi Pelaksana mencabut Kutipan Akta Perceraian dari
-kepemilikan 
-subjek 
-akta 
-dan 
-mengeluarkan 
+kepemilikan
+subjek
+akta
+dan
+mengeluarkan
 Surat
 Keterangan Pembatalan Perceraian.
 (3) Ketentuan lebih lanjut mengenai persyaratan dan tata cara
@@ -1283,7 +1267,7 @@ Bagian Ketujuh
 Pencatatan Kematian
 Paragraf 1
 Pencatatan Kematian di Indonesia
-Pasal  44
+### Pasal 44 ^pasal-44
 (1)  Setiap kematian wajib dilaporkan oleh keluarganya atau
 yang mewakili kepada Instansi Pelaksana paling lambat 30
 (tiga puluh) hari sejak tanggal kematian.
@@ -1295,17 +1279,16 @@ dilakukan berdasarkan keterangan kematian dari pihak
 yang berwenang.
 (4) Dalam . . .
 
-
 <!-- Halaman 24 -->
 
 -  24  -
 (4)  Dalam hal terjadi ketidakjelasan keberadaan seseorang
-karena 
-hilang 
-atau 
-mati 
-tetapi 
-tidak 
+karena
+hilang
+atau
+mati
+tetapi
+tidak
 ditemukan
 jenazahnya, pencatatan oleh Pejabat Pencatatan Sipil baru
 dilakukan setelah adanya penetapan pengadilan.
@@ -1315,38 +1298,38 @@ kematian berdasarkan keterangan dari kepolisian.
 Paragraf 2
 Pencatatan Kematian di luar Wilayah Negara Kesatuan
 Republik Indonesia
-Pasal 45
+### Pasal 45 ^pasal-45
 (1)  Kematian Warga Negara Indonesia di luar wilayah Negara
-Kesatuan 
-Republik 
-Indonesia 
-wajib 
-dilaporkan 
+Kesatuan
+Republik
+Indonesia
+wajib
+dilaporkan
 oleh
 keluarganya atau yang mewakili keluarganya kepada
 Perwakilan Republik Indonesia dan wajib dicatatkan
 kepada instansi yang berwenang di negara setempat paling
 lambat 7 (tujuh) hari setelah kematian.
-(2)  Apabila 
-Perwakilan 
-Republik 
-Indonesia 
+(2)  Apabila
+Perwakilan
+Republik
+Indonesia
 mengetahui
 peristiwa kematian seorang Warga Negara Indonesia di
 negara setempat yang tidak dilaporkan dan dicatatkan
 paling lambat 7 (tujuh) hari sejak diterimanya informasi
-tersebut, 
-pencatatan 
-kematiannya 
-dilakukan 
+tersebut,
+pencatatan
+kematiannya
+dilakukan
 oleh
 Perwakilan Republik Indonesia.
 (3)  Dalam hal seseorang Warga Negara Indonesia dinyatakan
-hilang, 
-pernyataan 
-kematian 
-karena 
-hilang 
+hilang,
+pernyataan
+kematian
+karena
+hilang
 dan
 pencatatannya dilakukan oleh Instansi Pelaksana di negara
 setempat.
@@ -1363,11 +1346,10 @@ tersebut dan menjadi bukti di pengadilan sebagai dasar
 penetapan pengadilan mengenai kematian seseorang.
 Pasal 46 . . .
 
-
 <!-- Halaman 25 -->
 
 -  25  -
-Pasal 46
+### Pasal 46 ^pasal-46
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pencatatan kematian sebagaimana dimaksud dalam Pasal 44
 dan Pasal 45 diatur dalam Peraturan Presiden.
@@ -1376,16 +1358,16 @@ Pencatatan Pengangkatan Anak, Pengakuan Anak,
 dan Pengesahan Anak
 Paragraf 1
 Pencatatan Pengangkatan Anak di Indonesia
-Pasal 47
+### Pasal 47 ^pasal-47
 (1)  Pencatatan pengangkatan anak dilaksanakan berdasarkan
 penetapan pengadilan di tempat tinggal pemohon.
 (2)  Pencatatan pengangkatan anak sebagaimana dimaksud
 pada ayat (1) wajib dilaporkan oleh Penduduk kepada
-Instansi 
-Pelaksana 
-yang 
-menerbitkan 
-Kutipan 
+Instansi
+Pelaksana
+yang
+menerbitkan
+Kutipan
 Akta
 Kelahiran paling lambat 30 (tiga puluh) hari setelah
 diterimanya salinan penetapan pengadilan oleh Penduduk.
@@ -1395,20 +1377,19 @@ Register Akta Kelahiran dan Kutipan Akta Kelahiran.
 Paragraf 2
 Pencatatan Pengangkatan Anak Warga Negara Asing
 di luar Wilayah Republik Indonesia
-Pasal  48
+### Pasal 48 ^pasal-48
 (1)  Pengangkatan anak warga negara asing yang dilakukan
 oleh Warga Negara Indonesia di luar wilayah Republik
 Indonesia wajib dicatatkan pada instansi yang berwenang
 di negara setempat.
-(2)  Hasil 
-pencatatan 
-pengangkatan 
-anak 
+(2)  Hasil
+pencatatan
+pengangkatan
+anak
 sebagaimana
 dimaksud pada ayat (1) dilaporkan kepada Perwakilan
 Republik Indonesia.
 (3) Apabila . . .
-
 
 <!-- Halaman 26 -->
 
@@ -1416,15 +1397,15 @@ Republik Indonesia.
 (3)  Apabila negara setempat sebagaimana dimaksud pada ayat
 (1) tidak menyelenggarakan pencatatan Pengangkatan Anak
 bagi warga negara asing, warga negara yang bersangkutan
-melaporkan 
-kepada 
-Perwakilan 
-Republik 
+melaporkan
+kepada
+Perwakilan
+Republik
 Indonesia
-setempat 
-untuk 
-mendapatkan 
-surat 
+setempat
+untuk
+mendapatkan
+surat
 keterangan
 pengangkatan anak.
 (4)  Pengangkatan anak warga negara asing sebagaimana
@@ -1433,15 +1414,15 @@ Penduduk kepada Instansi Pelaksana di tempat tinggalnya
 paling lambat 30 (tiga puluh) hari sejak yang bersangkutan
 kembali ke Indonesia.
 (5)  Berdasarkan laporan sebagaimana dimaksud pada ayat (4),
-Instansi 
-Pelaksana 
-mengukuhkan 
-Surat 
+Instansi
+Pelaksana
+mengukuhkan
+Surat
 Keterangan
 Pengangkatan Anak.
 Paragraf 3
 Pencatatan Pengakuan Anak
-Pasal 49
+### Pasal 49 ^pasal-49
 (1)  Pengakuan anak wajib dilaporkan oleh orang tua pada
 Instansi Pelaksana paling lambat 30 (tiga puluh) hari sejak
 tanggal Surat Pengakuan Anak oleh ayah dan disetujui
@@ -1449,64 +1430,63 @@ oleh ibu dari anak yang bersangkutan.
 (2)
 Kewajiban melaporkan sebagaimana dimaksud pada ayat
 (1) dikecualikan bagi orang tua yang agamanya tidak
-membenarkan 
-pengakuan 
-anak 
-yang 
-lahir 
+membenarkan
+pengakuan
+anak
+yang
+lahir
 diluar
 hubungan perkawinan yang sah.
 (3)
 Berdasarkan laporan sebagaimana dimaksud pada ayat (1),
 Pejabat Pencatatan Sipil mencatat pada Register Akta
-Pengakuan 
-Anak 
-dan 
-menerbitkan 
-Kutipan 
+Pengakuan
+Anak
+dan
+menerbitkan
+Kutipan
 Akta
 Pengakuan Anak.
 Paragraf 4
 Pencatatan Pengesahan Anak
-Pasal 50
+### Pasal 50 ^pasal-50
 (1)  Setiap pengesahan anak wajib dilaporkan oleh orang tua
 kepada Instansi Pelaksana paling lambat 30 (tiga puluh)
 hari sejak ayah dan ibu dari anak yang bersangkutan
-melakukan 
-perkawinan 
-dan 
-mendapatkan 
+melakukan
+perkawinan
+dan
+mendapatkan
 akta
 perkawinan.
 (2) Kewajiban . . .
-
 
 <!-- Halaman 27 -->
 
 -  27  -
 (2) Kewajiban melaporkan sebagaimana dimaksud pada ayat
 (1) dikecualikan bagi orang tua yang agamanya tidak
-membenarkan 
-pengesahan 
-anak 
-yang 
-lahir 
+membenarkan
+pengesahan
+anak
+yang
+lahir
 diluar
 hubungan perkawinan yang sah.
-(3)  Berdasarkan 
-laporan 
-pengesahan 
-anak 
+(3)  Berdasarkan
+laporan
+pengesahan
+anak
 sebagaimana
 dimaksud pada ayat (1), Pejabat Pencatatan Sipil membuat
 catatan pinggir pada Akta Kelahiran.
-Pasal  51
+### Pasal 51 ^pasal-51
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-pencatatan 
-pengangkatan 
-anak, 
-pengakuan 
-anak, 
+pencatatan
+pengangkatan
+anak,
+pengakuan
+anak,
 dan
 pengesahan anak sebagaimana dimaksud dalam Pasal 47, Pasal
 48, Pasal 49, dan Pasal 50 diatur dalam Peraturan Presiden.
@@ -1515,7 +1495,7 @@ Pencatatan Perubahan Nama dan Perubahan Status
                         Kewarganegaraan
 Paragraf 1
 Pencatatan Perubahan Nama
-Pasal  52
+### Pasal 52 ^pasal-52
 (1)  Pencatatan perubahan nama dilaksanakan berdasarkan
 penetapan pengadilan negeri tempat pemohon.
 (2)  Pencatatan perubahan nama sebagaimana dimaksud pada
@@ -1529,26 +1509,25 @@ register akta Pencatatan Sipil dan kutipan akta Pencatatan
 Sipil.
 Paragraf 2 . . .
 
-
 <!-- Halaman 28 -->
 
 -  28  -
 Paragraf 2
 Pencatatan Perubahan Status Kewarganegaraan di Indonesia
-Pasal 53
+### Pasal 53 ^pasal-53
 (1)  Perubahan status kewarganegaraan dari warga negara
 asing menjadi Warga Negara Indonesia wajib dilaporkan
-oleh 
-Penduduk 
-yang 
-bersangkutan 
-kepada 
+oleh
+Penduduk
+yang
+bersangkutan
+kepada
 Instansi
-Pelaksana 
-di 
-tempat 
-peristiwa 
-perubahan 
+Pelaksana
+di
+tempat
+peristiwa
+perubahan
 status
 kewarganegaraan paling lambat 60 (enam puluh) hari sejak
 berita acara pengucapan sumpah atau pernyataan janji
@@ -1561,7 +1540,7 @@ Paragraf 3
 Pencatatan Perubahan Status Kewarganegaraan
 dari Warga Negara Indonesia Menjadi Warga Negara Asing
 di luar Wilayah Republik Indonesia
-Pasal  54
+### Pasal 54 ^pasal-54
 (1)  Perubahan status kewarganegaraan dari Warga Negara
 Indonesia menjadi warga negara asing di luar wilayah
 Republik Indonesia yang telah mendapatkan persetujuan
@@ -1570,27 +1549,27 @@ bersangkutan kepada Perwakilan Republik Indonesia.
 (2)  Perwakilan Republik Indonesia  setempat sebagaimana
 dimaksud pada ayat (1) menerbitkan Surat Keterangan
 Pelepasan Kewarganegaraan Indonesia.
-(3) 
- Pelepasan 
-kewarganegaraan 
-Indonesia 
+(3)
+ Pelepasan
+kewarganegaraan
+Indonesia
 sebagaimana
 dimaksud pada ayat (2) diberitahukan oleh Perwakilan
-Republik 
-Indonesia 
-setempat 
-kepada 
-menteri 
+Republik
+Indonesia
+setempat
+kepada
+menteri
 yang
-berwenang 
-menurut 
-Peraturan 
+berwenang
+menurut
+Peraturan
 Perundang-undangan
-untuk 
-diteruskan 
-kepada 
-Instansi 
-Pelaksana 
+untuk
+diteruskan
+kepada
+Instansi
+Pelaksana
 yang
 menerbitkan akta Pencatatan Sipil yang bersangkutan.
 (4)  Berdasarkan pemberitahuan sebagaimana dimaksud pada
@@ -1599,41 +1578,40 @@ pada register akta Pencatatan Sipil dan kutipan akta
 Pencatatan Sipil.
 Pasal 55 . . .
 
-
 <!-- Halaman 29 -->
 
 -  29  -
-Pasal 55
+### Pasal 55 ^pasal-55
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pencatatan perubahan nama dan status kewarganegaraan
 sebagaimana dimaksud dalam Pasal 52, Pasal 53, dan Pasal 54
 diatur dalam Peraturan Presiden.
 Bagian Kesepuluh
 Pencatatan Peristiwa Penting Lainnya
-Pasal 56
+### Pasal 56 ^pasal-56
 (1)  Pencatatan Peristiwa Penting lainnya dilakukan oleh
 Pejabat Pencatatan Sipil atas permintaan Penduduk yang
 bersangkutan setelah adanya putusan pengadilan negeri
 yang telah memperoleh kekuatan hukum tetap.
-(2) 
- Pencatatan 
-Peristiwa 
-Penting 
-lainnya 
+(2)
+ Pencatatan
+Peristiwa
+Penting
+lainnya
 sebagaimana
 dimaksud pada ayat (1) paling lambat 30 (tiga puluh) hari
 sejak diterimanya salinan penetapan pengadilan.
 (3)  Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-pencatatan 
-Peristiwa 
-Penting 
-lainnya 
-diatur 
+pencatatan
+Peristiwa
+Penting
+lainnya
+diatur
 dalam
 Peraturan Presiden.
 Bagian Kesebelas
 Pelaporan Penduduk yang Tidak Mampu Melaporkan Sendiri
-Pasal 57
+### Pasal 57 ^pasal-57
 (1)  Penduduk yang tidak mampu melaksanakan sendiri
 pelaporan terhadap Peristiwa Penting yang menyangkut
 dirinya sendiri dapat dibantu oleh Instansi Pelaksana atau
@@ -1643,7 +1621,6 @@ pelaporan Penduduk sebagaimana dimaksud pada ayat (1)
 diatur dalam Peraturan Presiden.
 BAB VI . . .
 
-
 <!-- Halaman 30 -->
 
 -  30  -
@@ -1651,12 +1628,12 @@ BAB VI
 DATA DAN DOKUMEN KEPENDUDUKAN
 Bagian Kesatu
 Data Kependudukan
-Pasal 58
-(1)  Data 
-Kependudukan 
-terdiri 
-atas 
-data 
+### Pasal 58 ^pasal-58
+(1)  Data
+Kependudukan
+terdiri
+atas
+data
 perseorangan
 dan/atau data agregat Penduduk.
 (2)  Data perseorangan meliputi :
@@ -1689,7 +1666,6 @@ z. nomor akta perceraian/surat cerai;
 aa. tanggal perceraian.
 (3) Data . . .
 
-
 <!-- Halaman 31 -->
 
 -  31  -
@@ -1697,7 +1673,7 @@ aa. tanggal perceraian.
 berupa data kuantitatif dan data kualitatif.
 Bagian Kedua
 Dokumen Kependudukan
-Pasal 59
+### Pasal 59 ^pasal-59
 (1) Dokumen Kependudukan meliputi:
 a. Biodata Penduduk;
 b. KK;
@@ -1722,15 +1698,14 @@ j.
 Surat Keterangan Kematian;
 k. Surat Keterangan Pengangkatan Anak;
 l.
-Surat 
-Keterangan 
-Pelepasan 
+Surat
+Keterangan
+Pelepasan
 Kewarganegaraan
 Indonesia;
 m. Surat Keterangan Pengganti Tanda Identitas; dan
 n. Surat Keterangan Pencatatan Sipil.
 (3) Biodata . . .
-
 
 <!-- Halaman 32 -->
 
@@ -1739,19 +1714,19 @@ n. Surat Keterangan Pencatatan Sipil.
 Penduduk Warga Negara Indonesia antarkabupaten/kota
 dalam satu provinsi dan antarprovinsi dalam wilayah Negara
 Kesatuan Republik Indonesia, Surat Keterangan Pindah
-Datang 
-Penduduk 
-Warga 
-Negara 
+Datang
+Penduduk
+Warga
+Negara
 Indonesia
 antarkabupaten/kota dalam satu provinsi dan antarprovinsi
 dalam wilayah Negara Kesatuan Republik Indonesia, Surat
 Keterangan Pindah Datang Penduduk Orang Asing dalam
-wilayah 
-Negara 
-Kesatuan 
-Republik 
-Indonesia, 
+wilayah
+Negara
+Kesatuan
+Republik
+Indonesia,
 Surat
 Keterangan Pindah ke Luar Negeri, Surat Keterangan Datang
 dari Luar Negeri, Surat Keterangan Tempat Tinggal untuk
@@ -1759,40 +1734,40 @@ Orang Asing Tinggal Terbatas, Surat Keterangan Kelahiran
 untuk Orang Asing, Surat Keterangan Lahir Mati untuk
 Orang Asing, Surat Keterangan Kematian untuk Orang
 Asing, Surat Keterangan Pembatalan Perkawinan, Surat
-Keterangan 
-Pembatalan 
-Perceraian, 
-Surat 
+Keterangan
+Pembatalan
+Perceraian,
+Surat
 Keterangan
 Pengganti Tanda Identitas, diterbitkan dan ditandatangani
 oleh Kepala Instansi Pelaksana.
 (4) Surat Keterangan Pindah Penduduk Warga Negara Indonesia
-antarkecamatan 
-dalam 
-satu 
-kabupaten/kota, 
+antarkecamatan
+dalam
+satu
+kabupaten/kota,
 Surat
-Keterangan 
-Pindah 
-Datang 
-Penduduk 
-Warga 
+Keterangan
+Pindah
+Datang
+Penduduk
+Warga
 Negara
 Indonesia antarkecamatan dalam satu kabupaten/kota,
 dapat diterbitkan dan ditandatangani oleh Camat atas nama
 Kepala Instansi Pelaksana.
 (5) Surat Keterangan Pindah Datang Penduduk Warga Negara
 Indonesia dalam satu desa/kelurahan, Surat Keterangan
-Pindah 
-Datang 
-Penduduk 
-Warga 
-Negara 
+Pindah
+Datang
+Penduduk
+Warga
+Negara
 Indonesia
-antardesa/kelurahan 
-dalam 
-satu 
-kecamatan, 
+antardesa/kelurahan
+dalam
+satu
+kecamatan,
 Surat
 Keterangan Kelahiran untuk Warga Negara Indonesia, Surat
 Keterangan Lahir Mati untuk Warga Negara Indonesia dan
@@ -1801,25 +1776,24 @@ dapat diterbitkan dan ditandatangani oleh kepala desa/lurah
 atas nama Kepala Instansi Pelaksana.
 (6) Surat Keterangan Pengakuan Anak dan Surat Keterangan
 Pelepasan Kewarganegaraan Republik Indonesia, diterbitkan
-dan 
-ditandatangani 
-oleh 
-Kepala 
-Perwakilan 
+dan
+ditandatangani
+oleh
+Kepala
+Perwakilan
 Republik
 Indonesia.
-Pasal 60
+### Pasal 60 ^pasal-60
 Biodata Penduduk paling sedikit memuat keterangan tentang
 nama, tempat dan tanggal lahir, alamat dan jatidiri lainnya
 secara lengkap, serta perubahan data sehubungan dengan
 Peristiwa Penting  dan Peristiwa Kependudukan yang dialami.
 Pasal 61 . . .
 
-
 <!-- Halaman 33 -->
 
 -  33  -
-Pasal 61
+### Pasal 61 ^pasal-61
 (1) KK memuat keterangan mengenai kolom nomor KK, nama
 lengkap kepala keluarga dan anggota keluarga, NIK, jenis
 kelamin, alamat, tempat lahir, tanggal lahir, agama,
@@ -1828,21 +1802,21 @@ dalam keluarga, kewarganegaraan, dokumen imigrasi, nama
 orang tua.
 (2) Keterangan mengenai kolom agama sebagaimana dimaksud
 pada ayat (1) bagi Penduduk yang agamanya belum diakui
-sebagai 
-agama 
-sesuai 
-dengan 
-ketentuan 
+sebagai
+agama
+sesuai
+dengan
+ketentuan
 Peraturan
 Perundang-undangan atau bagi penghayat kepercayaan
 tidak diisi, tetapi tetap dilayani dan dicatat dalam database
 Kependudukan.
 (3) Nomor KK sebagaimana dimaksud pada ayat (1) berlaku
-untuk 
-selamanya, 
-kecuali 
-terjadi 
-perubahan 
+untuk
+selamanya,
+kecuali
+terjadi
+perubahan
 kepala
 keluarga.
 (4) KK diterbitkan dan diberikan oleh Instansi Pelaksana
@@ -1850,7 +1824,7 @@ kepada Penduduk Warga Negara Indonesia dan Orang Asing
 yang memiliki Izin Tinggal Tetap.
 (5) KK sebagaimana dimaksud pada ayat (1) dijadikan salah
 satu dasar penerbitan KTP.
-Pasal  62
+### Pasal 62 ^pasal-62
 (1) Penduduk Warga Negara Indonesia dan Orang Asing yang
 memiliki Izin Tinggal Tetap hanya diperbolehkan terdaftar
 dalam 1 (satu) KK.
@@ -1859,7 +1833,7 @@ kepada Instansi Pelaksana selambat-lambatnya 30 (tiga
 puluh) hari sejak terjadinya perubahan.
 (3) Berdasarkan laporan sebagaimana dimaksud pada ayat (2),
 Instansi Pelaksana mendaftar dan menerbitkan KK.
-Pasal 63
+### Pasal 63 ^pasal-63
 (1) Penduduk Warga Negara Indonesia dan Orang Asing yang
 memiliki Izin Tinggal Tetap yang telah berumur 17 (tujuh
 belas) tahun atau telah kawin atau pernah kawin wajib
@@ -1868,7 +1842,6 @@ memiliki KTP.
 memiliki Izin Tinggal Tetap dan sudah berumur 17 (tujuh
 belas) tahun wajib memiliki KTP.
 (3) KTP . . .
-
 
 <!-- Halaman 34 -->
 
@@ -1882,7 +1855,7 @@ telah berakhir.
 saat bepergian.
 (6) Penduduk sebagaimana dimaksud pada ayat (1) dan ayat (2)
 hanya diperbolehkan memiliki 1 (satu) KTP.
-Pasal 64
+### Pasal 64 ^pasal-64
 (1) KTP mencantumkan gambar lambang Garuda Pancasila
 dan peta wilayah negara Republik Indonesia, memuat
 keterangan tentang NIK, nama, tempat tanggal lahir, laki-
@@ -1893,11 +1866,11 @@ pemegang KTP, serta memuat nama dan nomor induk
 pegawai pejabat yang menandatanganinya.
 (2) Keterangan tentang agama sebagaimana dimaksud pada
 ayat (1) bagi Penduduk yang agamanya belum diakui
-sebagai 
-agama 
-sesuai 
-dengan 
-ketentuan 
+sebagai
+agama
+sesuai
+dengan
+ketentuan
 Peraturan
 Perundang-undangan atau bagi penghayat kepercayaan
 tidak diisi, tetapi tetap dilayani dan dicatat dalam database
@@ -1912,7 +1885,7 @@ b. untuk Orang Asing Tinggal Tetap disesuaikan dengan
 masa berlaku Izin Tinggal Tetap.
 (5) Penduduk yang telah berusia 60 (enam puluh) tahun diberi
 KTP yang berlaku seumur hidup.
-Pasal 65
+### Pasal 65 ^pasal-65
 Surat Keterangan Kependudukan paling sedikit memuat
 keterangan tentang nama lengkap, NIK, jenis kelamin, tempat
 tanggal lahir, agama, alamat, Peristiwa Penting dan Peristiwa
@@ -1920,23 +1893,22 @@ Kependudukan yang dialami oleh seseorang.
 Pasal 66 . . .
 -  35  -
 
-
 <!-- Halaman 35 -->
 
-Pasal 66
+### Pasal 66 ^pasal-66
 (1)  Akta Pencatatan Sipil terdiri atas:
 a. Register Akta Pencatatan Sipil; dan
 b. Kutipan Akta Pencatatan Sipil.
 (2) Akta Pencatatan Sipil berlaku selamanya.
-Pasal 67
+### Pasal 67 ^pasal-67
 (1) Register Akta Pencatatan Sipil memuat seluruh data
 Peristiwa Penting.
-(2) Data 
-Peristiwa 
-Penting 
-yang 
-berasal 
-dari 
+(2) Data
+Peristiwa
+Penting
+yang
+berasal
+dari
 KUAKec
 diintegrasikan ke dalam database kependudukan dan tidak
 diterbitkan Kutipan Akta Pencatatan Sipil.
@@ -1951,7 +1923,7 @@ e. tempat dan tanggal peristiwa;
 f. nama dan identitas saksi;
 g. tempat dan tanggal dikeluarkannya akta; dan
 h. nama dan tanda tangan Pejabat yang berwenang.
-Pasal 68
+### Pasal 68 ^pasal-68
 (1) Kutipan Akta Pencatatan Sipil terdiri atas kutipan akta:
 a. kelahiran;
 b. kematian;
@@ -1963,7 +1935,6 @@ a. jenis Peristiwa Penting;
 b. NIK . . .
 -  36  -
 
-
 <!-- Halaman 36 -->
 
 b. NIK dan status kewarganegaraan;
@@ -1973,7 +1944,7 @@ e. tempat dan tanggal dikeluarkannya akta;
 f. nama dan tanda tangan Pejabat yang berwenang; dan
 g. pernyataan kesesuaian kutipan tersebut dengan data
 yang terdapat dalam Register Akta Pencatatan Sipil.
-Pasal 69
+### Pasal 69 ^pasal-69
 (1)  Instansi Pelaksana atau Pejabat yang diberi kewenangan,
 sesuai tanggung jawabnya, wajib menerbitkan dokumen
 Pendaftaran Penduduk sebagai berikut:
@@ -1994,10 +1965,10 @@ belas) hari;
 h. Surat Keterangan Lahir Mati paling lambat 14 (empat
 belas) hari;
 i. Surat Keterangan Kematian paling lambat 3 (tiga) hari;
-j. Surat 
-Keterangan 
-Pembatalan 
-Perkawinan 
+j. Surat
+Keterangan
+Pembatalan
+Perkawinan
 paling
 lambat 7 (tujuh) hari; atau
 k. Surat Keterangan Pembatalan Perceraian paling lambat
@@ -2005,7 +1976,6 @@ k. Surat Keterangan Pembatalan Perceraian paling lambat
 sejak tanggal dipenuhinya semua persyaratan.
 (2) Perwakilan . . .
 -  37  -
-
 
 <!-- Halaman 37 -->
 
@@ -2024,7 +1994,7 @@ pencatat sipil wajib mencatat pada register akta Pencatatan
 Sipil dan menerbitkan kutipan akta Pencatatan Sipil paling
 lambat 30 (tiga puluh) hari sejak tanggal dipenuhinya
 semua persyaratan.
-Pasal 70
+### Pasal 70 ^pasal-70
 (1) Pembetulan KTP hanya dilakukan untuk KTP yang
 mengalami kesalahan tulis redaksional.
 (2) Pembetulan  KTP sebagaimana dimaksud pada ayat (1)
@@ -2032,16 +2002,16 @@ dilaksanakan dengan atau tanpa permohonan dari orang
 yang menjadi subjek KTP.
 (3) Pembetulan KTP sebagaimana dimaksud pada ayat (1)
 dilakukan oleh Instansi Pelaksana.
-Pasal 71
+### Pasal 71 ^pasal-71
 (1) Pembetulan akta Pencatatan Sipil hanya dilakukan untuk
 akta yang mengalami kesalahan tulis redaksional.
 (2) Pembetulan akta Pencatatan Sipil sebagaimana dimaksud
-pada 
-ayat 
-(1) 
-dilaksanakan 
-dengan 
-atau 
+pada
+ayat
+(1)
+dilaksanakan
+dengan
+atau
 tanpa
 permohonan dari orang yang menjadi subjek akta.
 (3) Pembetulan akta Pencatatan Sipil sebagaimana dimaksud
@@ -2050,10 +2020,9 @@ sesuai dengan kewenangannya.
 Pasal  72 . . .
 -  38  -
 
-
 <!-- Halaman 38 -->
 
-Pasal  72
+### Pasal 72 ^pasal-72
 (1) Pembatalan akta Pencatatan Sipil dilakukan berdasarkan
 putusan pengadilan yang telah mempunyai kekuatan
 hukum tetap.
@@ -2062,52 +2031,51 @@ akta sebagaimana dimaksud pada ayat (1), Pejabat
 Pencatatan Sipil membuat catatan pinggir pada Register
 Akta dan mencabut kutipan akta-akta Pencatatan Sipil
 yang dibatalkan dari kepemilikan subjek akta.
-Pasal  73
-Dalam 
-hal 
-wilayah 
-hukum 
-Instansi 
-Pelaksana 
+### Pasal 73 ^pasal-73
+Dalam
+hal
+wilayah
+hukum
+Instansi
+Pelaksana
 yang
 menerbitkan akta berbeda dengan pengadilan yang memutus
 pembatalan akta, salinan putusan pengadilan disampaikan
 kepada Instansi Pelaksana yang menerbitkan akta Pencatatan
 Sipil oleh pemohon atau pengadilan.
-Pasal  74
+### Pasal 74 ^pasal-74
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pencatatan pembetulan dan pembatalan Akta Pencatatan Sipil
 sebagaimana dimaksud dalam Pasal 71 dan Pasal 72 diatur
 dalam Peraturan Presiden.
-Pasal  75
+### Pasal 75 ^pasal-75
 Ketentuan mengenai spesifikasi dan formulasi kalimat dalam
 Biodata Penduduk, blangko KK, KTP, Surat Keterangan
 Kependudukan, Register dan Kutipan Akta Pencatatan Sipil
 diatur dalam Peraturan Menteri.
-Pasal  76
+### Pasal 76 ^pasal-76
 Ketentuan mengenai penerbitan Dokumen Kependudukan bagi
 petugas rahasia khusus yang melakukan tugas keamanan
 negara diatur dalam Peraturan Pemerintah.
-Pasal 77
+### Pasal 77 ^pasal-77
 Setiap orang dilarang mengubah, menambah atau mengurangi
 tanpa hak, isi elemen data pada Dokumen Kependudukan.
 Pasal 78 . . .
 -  39  -
 
-
 <!-- Halaman 39 -->
 
-Pasal 78
-Ketentuan 
-mengenai 
-pedoman 
-pendokumentasian 
+### Pasal 78 ^pasal-78
+Ketentuan
+mengenai
+pedoman
+pendokumentasian
 hasil
 Pendaftaran Penduduk dan Pencatatan Sipil diatur dalam
 Peraturan Menteri.
 Bagian Ketiga
 Perlindungan Data dan Dokumen Kependudukan
-Pasal 79
+### Pasal 79 ^pasal-79
 (1) Data dan dokumen kependudukan wajib disimpan dan
 dilindungi oleh negara.
 (2) Menteri sebagai penanggung jawab memberikan hak akses
@@ -2123,7 +2091,7 @@ BAB VII
 PENDAFTARAN PENDUDUK DAN PENCATATAN SIPIL
 SAAT NEGARA ATAU SEBAGIAN NEGARA DALAM KEADAAN
 DARURAT DAN LUAR BIASA
-Pasal 80
+### Pasal 80 ^pasal-80
 (1) Apabila negara atau sebagian negara dinyatakan dalam
 keadaan darurat dengan segala tingkatannya menurut
 Peraturan Perundang-undangan, otoritas pemerintahan
@@ -2135,48 +2103,47 @@ sebagai dasar penerbitan Dokumen Kependudukan.
 (3) Apabila . . .
 -  40  -
 
-
 <!-- Halaman 40 -->
 
-(3) Apabila 
-keadaan 
-sudah 
-dinyatakan 
-pulih, 
+(3) Apabila
+keadaan
+sudah
+dinyatakan
+pulih,
 Instansi
-Pelaksana 
-aktif 
-mendata 
-ulang 
-dengan 
+Pelaksana
+aktif
+mendata
+ulang
+dengan
 melakukan
 Pendaftaran Penduduk dan Pencatatan Sipil di tempat
 sebagaimana dimaksud pada ayat (1).
-Pasal 81
+### Pasal 81 ^pasal-81
 (1) Dalam hal terjadi keadaan luar biasa sebagai akibat
-bencana 
-alam, 
-Instansi 
-Pelaksana 
-wajib 
+bencana
+alam,
+Instansi
+Pelaksana
+wajib
 melakukan
 pendataan Penduduk bagi pengungsi dan korban bencana
 alam.
-(2) Instansi 
-Pelaksana 
-menerbitkan 
-Surat 
+(2) Instansi
+Pelaksana
+menerbitkan
+Surat
 Keterangan
-Pengganti 
-Tanda 
-Identitas 
-dan 
-Surat 
+Pengganti
+Tanda
+Identitas
+dan
+Surat
 Keterangan
-Pencatatan 
-Sipil 
-berdasarkan 
-hasil 
+Pencatatan
+Sipil
+berdasarkan
+hasil
 pendaftaran
 sebagaimana dimaksud pada ayat (1).
 (3) Surat Keterangan Pengganti Tanda Identitas atau Surat
@@ -2189,59 +2156,58 @@ dan Surat Keterangan Pencatatan Sipil sebagaimana
 dimaksud pada ayat (2) diatur dalam Peraturan Menteri.
 BAB VIII
 SISTEM  INFORMASI  ADMINISTRASI  KEPENDUDUKAN
-Pasal 82
-(1) Pengelolaan 
-informasi 
-Administrasi 
+### Pasal 82 ^pasal-82
+(1) Pengelolaan
+informasi
+Administrasi
 Kependudukan
 dilakukan oleh Menteri.
-(2) Pengelolaan 
-informasi 
-Administrasi 
+(2) Pengelolaan
+informasi
+Administrasi
 Kependudukan
 sebagaimana dimaksud pada ayat (1) dilakukan melalui
-pembangunan 
-Sistem 
-Informasi 
+pembangunan
+Sistem
+Informasi
 Administrasi
 Kependudukan.
-(3) Ketentuan 
-lebih 
-lanjut 
-mengenai 
-Sistem 
+(3) Ketentuan
+lebih
+lanjut
+mengenai
+Sistem
 Informasi
-Administrasi 
-Kependudukan 
-dan 
+Administrasi
+Kependudukan
+dan
 pengelolaannya
 sebagaimana dimaksud pada ayat (2) diatur dengan
 Peraturan Pemerintah.
 (4) Pengkajian . . .
 -  41  -
 
-
 <!-- Halaman 41 -->
 
-(4) Pengkajian 
-dan 
-pengembangan 
-Sistem 
+(4) Pengkajian
+dan
+pengembangan
+Sistem
 Informasi
 Administrasi Kependudukan dilakukan oleh pemerintah,
 pemerintah provinsi, pemerintah kabupaten/kota
 (5) Pedoman pengkajian dan pengembangan Sistim Informasi
 Administrasi Kependudukan sebagaimana dimaksud pada
 ayat (4) diatur lebih lanjut dalam Peraturan Menteri.
-Pasal 83
+### Pasal 83 ^pasal-83
 (1) Data Penduduk yang dihasilkan oleh Sistem Informasi
 Administrasi Kependudukan dan tersimpan di dalam
 database kependudukan dimanfaatkan untuk kepentingan
-perumusan 
-kebijakan 
-di 
-bidang 
-pemerintahan 
+perumusan
+kebijakan
+di
+bidang
+pemerintahan
 dan
 pembangunan.
 (2) Pemanfaatan data Penduduk sebagaimana dimaksud pada
@@ -2251,7 +2217,7 @@ mendapatkan izin sebagaimana dimaksud pada ayat (2)
 diatur dalam Peraturan Menteri.
 BAB IX
 PERLINDUNGAN DATA PRIBADI PENDUDUK
-Pasal 84
+### Pasal 84 ^pasal-84
 (1) Data Pribadi Penduduk yang harus dilindungi memuat:
 a. nomor KK;
 b. NIK;
@@ -2265,43 +2231,42 @@ Peristiwa Penting sebagaimana dimaksud pada ayat (1)
 huruf g diatur dalam Peraturan Pemerintah.
 Pasal 85 . . .
 -  42  -
-Pasal 85
-
+### Pasal 85 ^pasal-85
 
 <!-- Halaman 42 -->
 
 (1) Data Pribadi Penduduk sebagaimana dimaksud dalam
 Pasal 84 wajib disimpan dan dilindungi oleh negara.
-(2) Ketentuan 
-lebih 
-lanjut 
-mengenai 
-penyimpanan 
+(2) Ketentuan
+lebih
+lanjut
+mengenai
+penyimpanan
 dan
-perlindungan 
-terhadap 
-Data 
-Pribadi 
+perlindungan
+terhadap
+Data
+Pribadi
 Penduduk
 sebagaimana dimaksud pada ayat (1) diatur dalam
 Peraturan Pemerintah.
 (3) Data Pribadi Penduduk sebagaimana dimaksud pada ayat
-(1) 
-harus 
-dijaga 
-kebenarannya 
-dan 
+(1)
+harus
+dijaga
+kebenarannya
+dan
 dilindungi
 kerahasiaannya oleh Penyelenggara dan Instansi Pelaksana
 sesuai dengan ketentuan Peraturan Perundang-undangan.
-Pasal 86
-(1) 
+### Pasal 86 ^pasal-86
+(1)
 Menteri sebagai penanggung jawab memberikan hak akses
-kepada 
-petugas 
-pada 
-Penyelenggara 
-dan 
+kepada
+petugas
+pada
+Penyelenggara
+dan
 Instansi
 Pelaksana untuk memasukkan, menyimpan, membaca,
 mengubah, meralat dan menghapus, mengkopi Data serta
@@ -2310,13 +2275,13 @@ mencetak Data Pribadi.
 lingkup, dan tata cara mengenai pemberian hak akses
 sebagaimana dimaksud pada ayat (1) diatur dalam
 Peraturan Pemerintah.
-Pasal 87
+### Pasal 87 ^pasal-87
 (1) Pengguna Data Pribadi Penduduk dapat memperoleh dan
-menggunakan 
-Data 
-Pribadi 
-dari 
-petugas 
+menggunakan
+Data
+Pribadi
+dari
+petugas
 pada
 Penyelenggara dan Instansi Pelaksana yang memiliki hak
 akses.
@@ -2328,12 +2293,11 @@ BAB X . . .
 -  43  -
 BAB X
 
-
 <!-- Halaman 43 -->
 
 PENYIDIKAN
-Pasal 88
-(1) Selain Pejabat Penyidik Kepolisian 
+### Pasal 88 ^pasal-88
+(1) Selain Pejabat Penyidik Kepolisian
 Negara Republik
 Indonesia, Pejabat Pegawai Negeri Sipil yang lingkup tugas
 dan tanggung jawabnya dalam bidang Administrasi
@@ -2350,22 +2314,22 @@ b. memeriksa laporan atau keterangan atas adanya
 dugaan tindak pidana Administrasi Kependudukan;
 c. memanggil orang untuk diminta keterangannya atas
 adanya dugaan sebagaimana dimaksud huruf b; dan
-d. membuat 
-dan 
-menandatangani 
-Berita 
+d. membuat
+dan
+menandatangani
+Berita
 Acara
 Pemeriksaan.
-(3) Pengangkatan, 
-mutasi, 
-dan 
-pemberhentian 
+(3) Pengangkatan,
+mutasi,
+dan
+pemberhentian
 Penyidik
 Pegawai Negeri Sipil, serta  mekanisme penyidikan
 dilakukan sesuai dengan peraturan perundang-undangan.
 BAB XI
 SANKSI ADMINISTRATIF
-Pasal 89
+### Pasal 89 ^pasal-89
 (1)  Setiap Penduduk dikenai sanksi administratif berupa
 denda apabila melampaui batas waktu pelaporan Peristiwa
 Kependudukan dalam hal:
@@ -2375,7 +2339,6 @@ Tinggal Tetap sebagaimana dimaksud dalam Pasal 17
 ayat (3);
 b. pindah . . .
 -  44  -
-
 
 <!-- Halaman 44 -->
 
@@ -2404,15 +2367,15 @@ h. perpanjangan KTP sebagaimana dimaksud dalam Pasal
 terhadap Penduduk Warga Negara Indonesia paling banyak
 Rp 1.000.000,00 (satu juta rupiah) dan Penduduk Orang
 Asing paling banyak Rp 2.000.000,00 (dua juta rupiah).
-(3) Ketentuan 
-lebih 
-lanjut 
-mengenai 
-penetapan 
+(3) Ketentuan
+lebih
+lanjut
+mengenai
+penetapan
 denda
 administratif sebagaimana dimaksud pada ayat (2) diatur
 dalam Peraturan Presiden .
-Pasal 90
+### Pasal 90 ^pasal-90
 (1)  Setiap Penduduk dikenai sanksi administratif berupa
 denda apabila melampaui batas waktu pelaporan Peristiwa
 Penting dalam hal:
@@ -2423,7 +2386,6 @@ b. perkawinan sebagaimana dimaksud dalam Pasal 34
 ayat (1) atau Pasal 37 ayat (4);
 c. pembatalan . . .
 -  45  -
-
 
 <!-- Halaman 45 -->
 
@@ -2443,25 +2405,25 @@ i. pengesahan anak sebagaimana dimaksud dalam Pasal
 50 ayat (1);
 j. perubahan nama sebagaimana dimaksud dalam Pasal
 52 ayat (2);
-k. perubahan 
-status 
-kewarganegaraan 
-di 
+k. perubahan
+status
+kewarganegaraan
+di
 Indonesia
 sebagaimana dimaksud dalam Pasal 53 ayat (1); atau
 l. Peristiwa Penting lainnya sebagaimana dimaksud dalam
 Pasal 56 ayat (2).
 (2)  Denda administratif sebagaimana dimaksud pada ayat (1)
 paling banyak Rp 1.000.000,00 (satu juta rupiah).
-(3)  Ketentuan 
-lebih 
-lanjut 
-mengenai 
-penetapan 
+(3)  Ketentuan
+lebih
+lanjut
+mengenai
+penetapan
 denda
 administratif sebagaimana dimaksud pada ayat (2) diatur
 dalam Peraturan Presiden.
-Pasal 91
+### Pasal 91 ^pasal-91
 (1) Setiap Penduduk sebagaimana dimaksud dalam Pasal 63
 ayat (5) yang berpergian tidak membawa KTP dikenakan
 denda administratif paling banyak Rp 50.000,00 (lima
@@ -2476,21 +2438,20 @@ sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur
 dalam Peraturan Presiden.
 Pasal 92 . . .
 -  46  -
-Pasal  92
-
+### Pasal 92 ^pasal-92
 
 <!-- Halaman 46 -->
 
 (1) Dalam hal Pejabat pada Instansi Pelaksana melakukan
-tindakan 
-atau 
-sengaja 
-melakukan 
-tindakan 
+tindakan
+atau
+sengaja
+melakukan
+tindakan
 yang
-memperlambat 
-pengurusan 
-Dokumen 
+memperlambat
+pengurusan
+Dokumen
 Kependudukan
 dalam batas waktu yang ditentukan dalam undang-undang
 ini dikenakan sanksi berupa denda paling banyak Rp
@@ -2500,38 +2461,38 @@ sebagaimana dimaksud pada ayat (1) diatur dalam
 Peraturan Presiden.
 BAB XII
 KETENTUAN PIDANA
-Pasal 93
+### Pasal 93 ^pasal-93
 Setiap Penduduk yang dengan sengaja memalsukan surat
-dan/atau 
-dokumen 
-kepada 
-Instansi 
-Pelaksana 
+dan/atau
+dokumen
+kepada
+Instansi
+Pelaksana
 dalam
 melaporkan Peristiwa Kependudukan dan Peristiwa Penting
 dipidana dengan pidana penjara paling lama 6 (enam) tahun
 dan/atau denda paling banyak Rp 50.000.000,00 (lima puluh
 juta rupiah).
-Pasal 94
+### Pasal 94 ^pasal-94
 Setiap orang yang tanpa hak dengan sengaja mengubah,
 menambah, atau mengurangi isi elemen data pada Dokumen
-Kependudukan 
-sebagaimana 
-dimaksud 
-dalam 
-Pasal 
+Kependudukan
+sebagaimana
+dimaksud
+dalam
+Pasal
 77
 dipidana dengan pidana penjara paling lama 2 (dua) tahun
 dan/atau denda paling banyak
 Rp 25.000.000,00 (dua puluh
 lima juta rupiah).
-Pasal 95
-Setiap 
-orang 
-yang 
-tanpa 
-hak 
-mengakses 
+### Pasal 95 ^pasal-95
+Setiap
+orang
+yang
+tanpa
+hak
+mengakses
 database
 kependudukan sebagaimana dimaksud dalam Pasal 79 ayat (1),
 Pasal 86 ayat (1) dipidana dengan pidana penjara paling lama 2
@@ -2540,17 +2501,16 @@ Pasal 86 ayat (1) dipidana dengan pidana penjara paling lama 2
 Pasal 96 . . .
 -  47  -
 
-
 <!-- Halaman 47 -->
 
-Pasal 96
+### Pasal 96 ^pasal-96
 Setiap orang atau badan hukum yang tanpa hak mencetak,
 menerbitkan, dan/atau mendistribusikan blangko Dokumen
 Kependudukan sebagaimana dimaksud dalam Pasal 5 huruf f
 dipidana dengan pidana penjara paling lama 10 (sepuluh)
 tahun dan denda paling banyak Rp 1.000.000.000,00 (satu
 miliar rupiah).
-Pasal 97
+### Pasal 97 ^pasal-97
 Setiap Penduduk yang dengan sengaja
 mendaftarkan diri
 sebagai kepala keluarga atau anggota keluarga lebih dari satu
@@ -2559,7 +2519,7 @@ memiliki KTP lebih dari satu sebagaimana dimaksud dalam
 Pasal 63 ayat (6) dipidana dengan pidana penjara paling lama 2
 (dua) tahun dan/atau denda paling banyak Rp25.000.000,00
 (dua puluh lima juta rupiah).
-Pasal 98
+### Pasal 98 ^pasal-98
 (1) Dalam hal pejabat dan petugas pada Penyelenggara dan
 Instansi Pelaksana melakukan tindak pidana sebagaimana
 dimaksud dalam Pasal 93 atau Pasal 94, pejabat yang
@@ -2570,33 +2530,32 @@ Instansi Pelaksana membantu melakukan tindak pidana
 sebagaimana dimaksud dalam Pasal 95, pejabat yang
 bersangkutan dipidana sesuai dengan ketentuan undang-
 undang.
-Pasal 99
+### Pasal 99 ^pasal-99
 Tindak pidana sebagaimana dimaksud dalam Pasal 93, Pasal
 94, Pasal 95, Pasal 96, dan Pasal 97 adalah tindak pidana
 Administrasi Kependudukan.
 BAB XIII
 -  48  -
 
-
 <!-- Halaman 48 -->
 
 BAB XIII
 KETENTUAN PERALIHAN
-Pasal 100
+### Pasal 100 ^pasal-100
 (1) Semua Dokumen Kependudukan yang telah diterbitkan
 atau yang telah ada pada saat Undang-Undang ini
 diundangkan dinyatakan tetap berlaku menurut Undang-
 Undang ini.
-(2) Ketentuan 
-sebagaimana 
-dimaksud 
-pada 
-ayat 
+(2) Ketentuan
+sebagaimana
+dimaksud
+pada
+ayat
 (1)
 dikecualikan untuk KK dan KTP sampai dengan batas
 waktu berlakunya atau diterbitkannya KK dan KTP yang
 sesuai dengan ketentuan dalam Undang-Undang ini.
-Pasal 101
+### Pasal 101 ^pasal-101
 Pada saat Undang-Undang ini berlaku:
 a. Pemerintah memberikan NIK kepada setiap Penduduk paling
 lambat 5 (lima) tahun;
@@ -2617,48 +2576,47 @@ BAB XIV . . .
 -  49  -
 BAB XIV
 
-
 <!-- Halaman 49 -->
 
 KETENTUAN PENUTUP
-Pasal 102
+### Pasal 102 ^pasal-102
 Pada saat mulai berlakunya Undang-Undang ini, semua
 Peraturan Pelaksanaan yang berkaitan dengan Administrasi
 Kependudukan dinyatakan tetap berlaku sepanjang tidak
 bertentangan dan belum diganti sesuai dengan ketentuan
 Undang-Undang ini.
-Pasal 103
-Peraturan 
-pelaksanaan 
-Undang-Undang 
-ini 
-harus 
+### Pasal 103 ^pasal-103
+Peraturan
+pelaksanaan
+Undang-Undang
+ini
+harus
 telah
 ditetapkan paling lambat 1 (satu) tahun sejak Undang-Undang
 ini diundangkan.
-Pasal 104
+### Pasal 104 ^pasal-104
 Pembentukan UPTD Instansi Pelaksana sebagaimana dimaksud
 dalam Pasal 8 ayat (5) dilakukan paling lambat 5 (lima) tahun
 sejak Undang-Undang ini diundangkan.
-Pasal 105
-Dalam 
-waktu 
-paling 
-lambat 
-6 
-(enam) 
-bulan 
+### Pasal 105 ^pasal-105
+Dalam
+waktu
+paling
+lambat
+6
+(enam)
+bulan
 sejak
-diundangkannya 
-Undang-Undang 
-ini, 
-Pemerintah 
+diundangkannya
+Undang-Undang
+ini,
+Pemerintah
 wajib
 menerbitkan Peraturan Pemerintah yang mengatur tentang
 penetapan persyaratan dan tata cara perkawinan bagi para
 penghayat kepercayaan sebagai dasar diperolehnya kutipan
 akta perkawinan dan pelayanan pencatatan Peristiwa Penting.
-Pasal 106
+### Pasal 106 ^pasal-106
 Pada saat Undang-undang ini mulai berlaku:
 a. Buku Kesatu Bab Kedua Bagian Kedua dan Bab Ketiga Kitab
 Undang-Undang Hukum Perdata (Burgerlijk Wetboek voor
@@ -2666,29 +2624,28 @@ Indonesie, Staatsblad 1847:23);
 b. Peraturan  . . .
 -  50  -
 
-
 <!-- Halaman 50 -->
 
-b. Peraturan 
-Pencatatan 
-Sipil 
-untuk 
-Golongan 
+b. Peraturan
+Pencatatan
+Sipil
+untuk
+Golongan
 Eropa
 (Reglement op het Holden der Registers van den Burgerlijken
 Stand voor Europeanen, Staatsblad 1849:25 sebagaimana
 telah diubah terakhir dengan Staatsblad 1946:136);
-c. Peraturan 
-Pencatatan 
-Sipil 
-untuk 
-Golongan 
+c. Peraturan
+Pencatatan
+Sipil
+untuk
+Golongan
 Cina
-(Bepalingen 
-voor 
-Geheel 
-Indonesie 
-Betreffende 
+(Bepalingen
+voor
+Geheel
+Indonesie
+Betreffende
 het
 Burgerlijken Handelsrecht van de Chinezean,  Staatsblad
 1917:129
@@ -2698,20 +2655,20 @@ terakhir dengan Staatsblad 1946:136);
 d. Peraturan Pencatatan Sipil untuk Golongan Indonesia
 (Reglement op het Holden van de Registers van den
 Burgerlijeken Stand voor Eenigle Groepen v.d nit tot de
-Onderhoringer 
-van 
-een 
-Zelfbestuur, 
-behoorende 
+Onderhoringer
+van
+een
+Zelfbestuur,
+behoorende
 Ind.
 Bevolking van Java en Madura,Staatsblad 1920:751
 jo.
 Staatsblad 1927:564);
-e. Peraturan 
-Pencatatan 
-Sipil 
-untuk 
-Golongan 
+e. Peraturan
+Pencatatan
+Sipil
+untuk
+Golongan
 Kristen
 Indonesia (Huwelijksordonantie voor Christenen Indonesiers
 Java, Minahasa en Amboiena, Staatsblad 1933:74
@@ -2722,18 +2679,17 @@ f. Undang-Undang Nomor 4 Tahun 1961 tentang Perubahan
 atau Penambahan Nama Keluarga (Lembaran Negara Tahun
 1961 Nomor 15, Tambahan Lembaran Negara Nomor 2154).
 dicabut dan dinyatakan tidak berlaku.
-Pasal 107
+### Pasal 107 ^pasal-107
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 Agar . . .
 -  51  -
 
-
 <!-- Halaman 51 -->
 
-Agar 
-setiap 
-orang 
-mengetahuinya, 
+Agar
+setiap
+orang
+mengetahuinya,
 memerintahkan
 pengundangan Undang-Undang ini dengan penempatannya
 dalam Lembaran Negara Republik Indonesia.
@@ -2754,9 +2710,12 @@ SEKRETARIAT NEGARA RI.
 DEPUTI MENTERI SEKRETARIS NEGARA
 BIDANG PERUNDANG-UNDANGAN,
 Abdul Wahid
-PENJELASAN ATAS
-UNDANG-UNDANG REPUBLIK INDONESIA
 
+## Penjelasan
+
+### I. Umum
+
+UNDANG-UNDANG REPUBLIK INDONESIA
 
 <!-- Halaman 52 -->
 
@@ -2765,7 +2724,6 @@ TENTANG
 ADMINISTRASI KEPENDUDUKAN
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 PRESIDEN REPUBLIK INDONESIA,
-I. UMUM
 Negara Kesatuan Republik Indonesia berdasarkan Pancasila dan
 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 pada
 hakikatnya berkewajiban untuk memberikan perlindungan dan pengakuan
@@ -2774,12 +2732,12 @@ Kependudukan dan Peristiwa Penting yang dialami oleh Penduduk yang
 berada di dalam dan/atau di luar wilayah Republik Indonesia.
 Berbagai Konvensi Perserikatan Bangsa-Bangsa dengan tegas menjamin
 hak setiap Penduduk untuk membentuk keluarga dan melanjutkan
-keturunan 
-melalui 
-perkawinan 
-yang 
-sah, 
-memperoleh 
+keturunan
+melalui
+perkawinan
+yang
+sah,
+memperoleh
 status
 kewarganegaraan, menjamin kebebasan memeluk agama, dan memilih
 tempat tinggal di wilayah Republik Indonesia dan meninggalkannya, serta
@@ -2799,16 +2757,15 @@ undang-undang.
 Dalam . . .
 -  2  -
 
-
 <!-- Halaman 53 -->
 
 Dalam pemenuhan hak Penduduk, terutama di bidang Pencatatan Sipil,
-masih 
-ditemukan 
-penggolongan 
-Penduduk 
-yang 
-didasarkan 
+masih
+ditemukan
+penggolongan
+Penduduk
+yang
+didasarkan
 pada
 perlakuan diskriminatif  yang membeda-bedakan suku, keturunan, dan
 agama sebagaimana diatur dalam berbagai peraturan produk kolonial
@@ -2822,13 +2779,13 @@ sistem Administrasi Kependudukan yang utuh dan optimal.
 Kondisi sosial dan administratif seperti yang dikemukakan di atas tidak
 memiliki sistem database kependudukan yang menunjang pelayanan
 Administrasi Kependudukan.
-Kondisi 
-itu 
-harus 
-diakhiri 
-dengan 
-pembentukan 
-suatu 
+Kondisi
+itu
+harus
+diakhiri
+dengan
+pembentukan
+suatu
 sistem
 Administrasi Kependudukan yang sejalan dengan kemajuan teknologi
 informasi dan komunikasi untuk memenuhi tuntutan masyarakat atas
@@ -2845,18 +2802,17 @@ pelayanan publik di bidang Administrasi Kependudukan. Sebagai kunci
 akses dalam pelayanan kependudukan, NIK dikembangkan ke arah
 identifikasi tunggal bagi setiap Penduduk. NIK bersifat unik atau khas,
 tunggal dan melekat pada seseorang yang terdaftar sebagai Penduduk
-Indonesia 
-dan 
-berkait 
-secara 
-langsung 
-dengan 
-seluruh 
+Indonesia
+dan
+berkait
+secara
+langsung
+dengan
+seluruh
 Dokumen
 Kependudukan.
 Untuk . . .
 -  3  -
-
 
 <!-- Halaman 54 -->
 
@@ -2872,24 +2828,24 @@ domisili atau tempat tinggal atas terjadinya Peristiwa Kependudukan yang
 dialami oleh seseorang dan/atau keluarganya. Pencatatan Sipil pada
 dasarnya juga menganut stelsel aktif bagi Penduduk. Pelaksanaan
 Pencatatan Sipil didasarkan pada asas peristiwa, yaitu tempat dan waktu
-terjadinya 
-Peristiwa 
-Penting 
-yang 
-dialami 
-oleh 
-dirinya 
+terjadinya
+Peristiwa
+Penting
+yang
+dialami
+oleh
+dirinya
 dan/atau
 keluarganya.
 Administrasi Kependudukan sebagai suatu sistem diharapkan dapat
 diselenggarakan sebagai bagian dari Penyelenggaraan administrasi negara.
 Dari sisi kepentingan Penduduk, Administrasi Kependudukan memberikan
-pemenuhan 
-hak-hak 
-administratif, 
-seperti 
-pelayanan 
-publik 
+pemenuhan
+hak-hak
+administratif,
+seperti
+pelayanan
+publik
 serta
 perlindungan yang berkenaan dengan Dokumen Kependudukan, tanpa
 adanya perlakuan yang diskriminatif.
@@ -2898,12 +2854,12 @@ Administrasi Kependudukan diarahkan untuk:
 tanpa diskriminasi dengan pelayanan publik yang profesional;
 2. meningkatkan kesadaran Penduduk akan kewajibannya untuk berperan
 serta dalam pelaksanaan Administrasi Kependudukan;
-3. memenuhi 
-data 
-statistik 
-secara 
-nasional 
-mengenai 
+3. memenuhi
+data
+statistik
+secara
+nasional
+mengenai
 Peristiwa
 Kependudukan dan Peristiwa Penting;
 4. mendukung perumusan kebijakan dan perencanaan pembangunan
@@ -2916,7 +2872,6 @@ yang dialami oleh Penduduk;
 2. memberikan . . .
 -  4  -
 
-
 <!-- Halaman 55 -->
 
 2. memberikan perlindungan status hak sipil Penduduk;
@@ -2928,24 +2883,24 @@ pada umumnya;
 4. mewujudkan tertib Administrasi Kependudukan secara nasional dan
 terpadu; dan
 5. menyediakan data Penduduk yang menjadi rujukan dasar bagi sektor
-terkait 
-dalam 
-penyelenggaraan 
-setiap 
-kegiatan 
+terkait
+dalam
+penyelenggaraan
+setiap
+kegiatan
 pemerintahan,
 pembangunan, dan kemasyarakatan.
-Prinsip-prinsip 
-tersebut 
-di 
-atas 
-menjadi 
-dasar 
+Prinsip-prinsip
+tersebut
+di
+atas
+menjadi
+dasar
 terjaminnya
-penyelenggaraan 
-Administrasi 
-Kependudukan 
-sebagaimana 
+penyelenggaraan
+Administrasi
+Kependudukan
+sebagaimana
 yang
 dikehendaki oleh Undang-Undang ini melalui penerapan Sistem Informasi
 Administrasi Kependudukan.
@@ -2965,30 +2920,30 @@ meliputi hak dan kewajiban Penduduk, Penyelenggara dan Instansi
 Pelaksana, Pendaftaran Penduduk, Pencatatan Sipil, Data dan Dokumen
 Kependudukan, Pendaftaran Penduduk dan Pencatatan Sipil pada saat
 negara dalam keadaan darurat, pemberian kepastian hukum, dan
-perlindungan 
-terhadap 
-Data 
-Pribadi 
-Penduduk. 
-Untuk 
+perlindungan
+terhadap
+Data
+Pribadi
+Penduduk.
+Untuk
 menjamin
 pelaksanaan Undang-Undang ini dari kemungkinan pelanggaran, baik
 administratif maupun ketentuan materiil yang bersifat pidana, diatur juga
 ketentuan mengenai tata cara penyidikan serta pengaturan mengenai
 sanksi administratif dan ketentuan pidana.
-II. 
+II.
 PASAL
 -  5  -
 
-
 <!-- Halaman 56 -->
 
-II. PASAL DEMI PASAL
-Pasal 1
+### II. Pasal demi Pasal
+
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-Pasal 2
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
-Pasal 3
+#### Pasal 3 ^penjelasan-pasal-3
 Persyaratan 
 yang 
 dimaksud 
@@ -2997,9 +2952,9 @@ sesuai
 dengan 
 peraturan
 pelaksanaan Undang-Undang ini.
-Pasal 4
+#### Pasal 4 ^penjelasan-pasal-4
 Lihat Penjelasan Pasal 3.
-Pasal 5
+#### Pasal 5 ^penjelasan-pasal-5
 Yang dimaksud dengan “Pemerintah” adalah Presiden Republik
 Indonesia yang memegang kekuasaan pemerintahan negara Republik
 Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar
@@ -3062,7 +3017,7 @@ pemerintahan dan pembangunan.
 Huruf f
  
 Cukup jelas.
-Pasal 6
+#### Pasal 6 ^penjelasan-pasal-6
 Huruf a
 Cukup jelas.
 Huruf b
@@ -3079,7 +3034,7 @@ menggunakan SIAK yang disajikan sesuai dengan kepentingan
 penyelenggaraan pemerintahan dan pembangunan.
 Huruf e
 Cukup jelas.
-Pasal 7
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 Huruf a
 Cukup jelas.
@@ -3134,23 +3089,22 @@ sesuai
 kekhususannya berbeda dengan provinsi yang lain karena
 diberi kewenangan untuk menyelenggarakan Administrasi
 Kependudukan seperti kabupaten/kota.
-Pasal 8
+#### Pasal 8 ^penjelasan-pasal-8
 Cukup jelas
-Pasal 9
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas.
-Pasal 10
+#### Pasal 10 ^penjelasan-pasal-10
 Cukup jelas.
-Pasal 11
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-Pasal 12
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-Pasal 13 . . .
+#### Pasal 13 ^penjelasan-pasal-13
 -  8  -
 
 
 <!-- Halaman 59 -->
-
-Pasal 13
+#### Pasal 13 ^penjelasan-pasal-13-2
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3160,19 +3114,19 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
-Pasal 14
-        Ayat (1)
+#### Pasal 14 ^penjelasan-pasal-14
+Ayat (1)
 Yang dimaksud dengan ”dokumen Pendaftaran Penduduk”
 adalah bagian dari Dokumen Kependudukan yang dihasilkan
 dari proses Pendaftaran Penduduk, misalnya KK, KTP, dan
 Biodata.
 Ayat (2)
 Cukup jelas.
-Pasal 15
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
-Pasal 16
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-Pasal 17
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3182,15 +3136,12 @@ Yang dimaksud dengan ”hari” adalah hari kerja (berlaku untuk
 penjelasan ”hari” pada pasal-pasal berikutnya).
 Ayat (4)
 Cukup jelas.
-Pasal 18 . . .
+#### Pasal 18 ^penjelasan-pasal-18
 -  9  -
 
 
 <!-- Halaman 60 -->
-
-Pasal 18
- 
- 
+#### Pasal 18 ^penjelasan-pasal-18-2
 Ayat (1)
 Yang dimaksud dengan “pindah ke luar negeri“ adalah
 Penduduk 
@@ -3215,14 +3166,14 @@ Perwakilan
 Republik 
 Indonesia
 diperlukan sebagai bahan pendataan WNI di luar negeri.
-Pasal 19
+#### Pasal 19 ^penjelasan-pasal-19
 Ayat (1)
 Yang dimaksud dengan “datang dari luar negeri“ adalah WNI
 yang sebelumnya pindah ke luar negeri kemudian datang
 untuk menetap kembali di Indonesia.
 Ayat (2)
 Cukup jelas.
-Pasal 20
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3236,22 +3187,18 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
-Pasal 21
- 
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
-Pasal 22 . . .
+#### Pasal 22 ^penjelasan-pasal-22
 -  10  -
 
 
 <!-- Halaman 61 -->
-
-Pasal 22
- 
+#### Pasal 22 ^penjelasan-pasal-22-2
 Cukup jelas.
-Pasal 23
- 
+#### Pasal 23 ^penjelasan-pasal-23
 Cukup jelas.
-Pasal 24
+#### Pasal 24 ^penjelasan-pasal-24
 Ayat (1)
 Yang dimaksud dengan “Penduduk Pelintas Batas” adalah
 Penduduk yang bertempat-tinggal secara turun-temurun di
@@ -3263,7 +3210,7 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-Pasal 25
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 Yang dimaksud dengan “Penduduk rentan Administrasi
 Kependudukan” adalah Penduduk yang mengalami hambatan
@@ -3328,7 +3275,7 @@ Ayat (3)
 Cukup jelas.
  Ayat (4)
 Cukup jelas.
-Pasal 26
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 Yang dimaksud dengan ”Penduduk yang tidak mampu
 melaksanakan sendiri pelaporan” adalah Penduduk yang tidak
@@ -3336,14 +3283,13 @@ mampu melaksanakan pelaporan karena pertimbangan umur,
 sakit keras, cacat fisik dan cacat mental.
 Ayat (2)
 Cukup jelas.
-Pasal 27 . . .
+#### Pasal 27 ^penjelasan-pasal-27
 -  12  -
 
 
 <!-- Halaman 63 -->
-
-Pasal 27
- Ayat (1)
+#### Pasal 27 ^penjelasan-pasal-27-2
+Ayat (1)
 Yang dimaksud dengan “tempat terjadinya peristiwa kelahiran”
 adalah wilayah terjadinya kelahiran.
 Waktu pelaporan kelahiran paling lambat 60 (enam puluh) hari
@@ -3360,14 +3306,14 @@ Keluarga.
 Ayat (2)
 Penerbitan Kutipan Akta Kelahiran tanpa dipungut biaya
 sebagaimana diatur dalam peraturan perundang-undangan.
-Pasal 28
+#### Pasal 28 ^penjelasan-pasal-28
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 Kutipan akta kelahiran seorang anak yang tidak diketahui asal
 usulnya atau keberadaan orang tuanya diserahkan kepada
 yang bersangkutan setelah dewasa.
-Pasal 29
+#### Pasal 29 ^penjelasan-pasal-29
 Ayat (1)
 Kewajiban 
 untuk 
@@ -3387,13 +3333,12 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
-Pasal 30 . . .
+#### Pasal 30 ^penjelasan-pasal-30
 -  13  -
 
 
 <!-- Halaman 64 -->
-
-Pasal 30
+#### Pasal 30 ^penjelasan-pasal-30-2
 Ayat (1)
 Yang dimaksud dengan ”tempat singgah” adalah tempat
 persinggahan 
@@ -3417,9 +3362,9 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
-Pasal 31
- Cukup jelas.
-Pasal 32
+#### Pasal 31 ^penjelasan-pasal-31
+Cukup jelas.
+#### Pasal 32 ^penjelasan-pasal-32
 Ayat (1)
 Persetujuan dari Instansi Pelaksana diperlukan mengingat
 pelaporan kelahiran tersebut sudah melampaui batas waktu
@@ -3443,13 +3388,12 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-Pasal 33 . . .
+#### Pasal 33 ^penjelasan-pasal-33
 -  14  -
 
 
 <!-- Halaman 65 -->
-
-Pasal 33
+#### Pasal 33 ^penjelasan-pasal-33-2
 Ayat (1)
 Yang dimaksud dengan “lahir mati” adalah kelahiran seorang
 bayi dari kandungan yang berumur paling sedikit 28 (dua
@@ -3469,7 +3413,7 @@ pendataannya diperlukan untuk kepentingan perencanaan dan
 pembangunan di bidang kesehatan.
 Ayat (3)
 Cukup jelas.
-Pasal 34
+#### Pasal 34 ^penjelasan-pasal-34
 Ayat (1)
 Yang dimaksud dengan “perkawinan” adalah ikatan lahir batin
 antara seorang pria dan seorang wanita sebagai suami istri
@@ -3502,7 +3446,7 @@ Ayat (7) . . .
 
 Ayat (7)
 Cukup jelas.
-Pasal 35
+#### Pasal 35 ^penjelasan-pasal-35
 Huruf a
 Yang dimaksud dengan ”Perkawinan yang ditetapkan oleh
 Pengadilan” adalah perkawinan yang dilakukan antar-umat
@@ -3511,27 +3455,21 @@ Huruf b
 Perkawinan yang dilakukan oleh warga negara asing di
 Indonesia, harus mengikuti ketentuan peraturan perundang-
 undangan mengenai perkawinan di Indonesia.
-Pasal 36
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup jelas.
-Pasal 37
- 
+#### Pasal 37 ^penjelasan-pasal-37
 Cukup jelas.
-Pasal 38
- 
+#### Pasal 38 ^penjelasan-pasal-38
 Cukup jelas.
-Pasal 39
- 
+#### Pasal 39 ^penjelasan-pasal-39
 Cukup jelas.
-Pasal 40
- 
+#### Pasal 40 ^penjelasan-pasal-40
 Cukup jelas.
-Pasal 41
- 
+#### Pasal 41 ^penjelasan-pasal-41
 Cukup jelas.
-Pasal 42
- 
+#### Pasal 42 ^penjelasan-pasal-42
 Cukup jelas.
-Pasal 43
+#### Pasal 43 ^penjelasan-pasal-43
 Ayat (1)
 Bagi penganut agama Islam diberlakukan ketentuan mengenai
 rujuk yang diatur dalam Undang-Undang Nomor 32 Tahun
@@ -3548,7 +3486,7 @@ Ayat (3) . . .
 
 Ayat (3)
 Cukup jelas.
-Pasal 44
+#### Pasal 44 ^penjelasan-pasal-44
 Ayat (1)
 Yang dimaksud dengan ”kematian” adalah tidak adanya secara
 permanen seluruh kehidupan pada saat mana pun setelah
@@ -3563,7 +3501,7 @@ Ayat (4)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
-Pasal 45
+#### Pasal 45 ^penjelasan-pasal-45
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3577,15 +3515,14 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
-Pasal 46
+#### Pasal 46 ^penjelasan-pasal-46
 Cukup jelas.
-Pasal 47 . . .
+#### Pasal 47 ^penjelasan-pasal-47
 -  17  -
 
 
 <!-- Halaman 68 -->
-
-Pasal 47
+#### Pasal 47 ^penjelasan-pasal-47-2
 Ayat (1)
 Yang dimaksud dengan “pengangkatan anak” adalah perbuatan
 hukum 
@@ -3615,9 +3552,9 @@ memungkinkan
 (di
 halaman/bagian muka atau belakang akta) oleh Pejabat
 Pencatatan Sipil.
-Pasal 48
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
-Pasal 49
+#### Pasal 49 ^penjelasan-pasal-49
 Ayat (1)
 Yang dimaksud dengan “pengakuan anak” adalah pengakuan
 seorang ayah terhadap anaknya yang lahir di luar ikatan
@@ -3626,7 +3563,7 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas
-Pasal 50
+#### Pasal 50 ^penjelasan-pasal-50
 Ayat (1)
 Yang dimaksud dengan “pengesahan anak” adalah pengesahan
 status seorang anak yang lahir di luar ikatan perkawinan sah
@@ -3642,11 +3579,11 @@ Ayat (3) . . .
 
 Ayat (3)
 Cukup jelas
-Pasal 51
+#### Pasal 51 ^penjelasan-pasal-51
 Cukup jelas.
-Pasal 52
+#### Pasal 52 ^penjelasan-pasal-52
 Cukup jelas.
-Pasal 53
+#### Pasal 53 ^penjelasan-pasal-53
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3658,11 +3595,11 @@ dan
 pernah 
 mencatatkan
 Peristiwa Penting di Indonesia.
-Pasal 54
+#### Pasal 54 ^penjelasan-pasal-54
 Cukup jelas.
-Pasal 55
+#### Pasal 55 ^penjelasan-pasal-55
 Cukup jelas.
-Pasal 56
+#### Pasal 56 ^penjelasan-pasal-56
 Ayat (1)
 Yang dimaksud dengan “Peristiwa Penting lainnya” adalah
 peristiwa yang ditetapkan oleh pengadilan negeri untuk
@@ -3672,9 +3609,9 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-Pasal 57
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
-Pasal 58
+#### Pasal 58 ^penjelasan-pasal-58
 Ayat (1)
 Cukup jelas.
 Ayat (2) . . .
@@ -3765,7 +3702,7 @@ Yang dimaksud dengan ”data kuantitatif” adalah data yang
 berupa angka-angka.
 Yang dimaksud dengan ”data kualitatif” adalah data yang
 berupa penjelasan.
-Pasal 59
+#### Pasal 59 ^penjelasan-pasal-59
 Ayat (1)
 Huruf a
 Yang dimaksud dengan ”Biodata Penduduk” adalah
@@ -3791,13 +3728,12 @@ Ayat (5)
 Cukup jelas.
 Ayat (6)
 Cukup jelas.
-Pasal 60 . . .
+#### Pasal 60 ^penjelasan-pasal-60
 -  22  -
 
 
 <!-- Halaman 73 -->
-
-Pasal 60
+#### Pasal 60 ^penjelasan-pasal-60-2
 Kata “paling sedikit” dalam ketentuan ini dimaksudkan untuk
 memberikan kemungkinan adanya tambahan keterangan, tetapi
 keterangan tersebut tidak bersifat diskriminatif.
@@ -3820,7 +3756,7 @@ kandung, NIK ayah kandung, nama ayah kandung, nomor paspor,
 tanggal berakhir paspor, nomor akta kelahiran/surat kenal lahir,
 nomor akta perkawinan/buku nikah, tanggal perkawinan, nomor akta
 perceraian/surat cerai, dan tanggal perceraian.
-Pasal 61
+#### Pasal 61 ^penjelasan-pasal-61
 Ayat (1)
 Yang dimaksud “dengan Kepala Keluarga” adalah :
 a. orang yang bertempat tinggal dengan orang lain, baik
@@ -3846,13 +3782,12 @@ Ayat (4)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
-Pasal 62 . . .
+#### Pasal 62 ^penjelasan-pasal-62
 -  23  -
 
 
 <!-- Halaman 74 -->
-
-Pasal 62
+#### Pasal 62 ^penjelasan-pasal-62-2
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3862,7 +3797,7 @@ Kependudukan atau Peristiwa Penting seperti pindah datang,
 kelahiran, atau kematian.
 Ayat (3)
 Cukup jelas.
-Pasal 63
+#### Pasal 63 ^penjelasan-pasal-63
 Ayat (1)
  
 Cukup jelas.
@@ -3885,7 +3820,7 @@ Dalam rangka menciptakan kepemilikan 1 (satu) KTP untuk 1
 dari sisi administrasi ataupun teknologi informasi dengan
 melakukan verifikasi dan validasi dalam sistem database
 kependudukan serta pemberian NIK.
-Pasal 64
+#### Pasal 64 ^penjelasan-pasal-64
 Ayat (1)
  
 Cukup jelas.
@@ -3909,12 +3844,11 @@ Undang ini.
 Ayat (5)
  
 Cukup jelas.
-Pasal 65
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
-Pasal 66
- 
+#### Pasal 66 ^penjelasan-pasal-66
 Cukup jelas.
-Pasal 67
+#### Pasal 67 ^penjelasan-pasal-67
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3962,11 +3896,11 @@ pada
 Instansi
 Pelaksana yang telah diambil sumpahnya untuk
 melakukan tugas pencatatan.
-Pasal 68
- Cukup jelas.
-Pasal 69
- Cukup jelas.
-Pasal 70
+#### Pasal 68 ^penjelasan-pasal-68
+Cukup jelas.
+#### Pasal 69 ^penjelasan-pasal-69
+Cukup jelas.
+#### Pasal 70 ^penjelasan-pasal-70
 Ayat (1)
 Yang 
 dimaksud 
@@ -3979,7 +3913,7 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-Pasal 71
+#### Pasal 71 ^penjelasan-pasal-71
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3992,7 +3926,7 @@ subjek akta.
 Ayat (3)
  
 Cukup jelas.
-Pasal 72
+#### Pasal 72 ^penjelasan-pasal-72
 Ayat (1)
  
 Pembatalan akta dilakukan atas permintaan orang lain atau
@@ -4008,29 +3942,22 @@ Ayat (2) . . .
 Ayat (2)
  
 Cukup jelas.
-Pasal 73
+#### Pasal 73 ^penjelasan-pasal-73
 Cukup jelas.
-Pasal 74
- 
+#### Pasal 74 ^penjelasan-pasal-74
 Cukup jelas.
-Pasal 75
- 
+#### Pasal 75 ^penjelasan-pasal-75
 Cukup jelas.
-Pasal 76
- 
+#### Pasal 76 ^penjelasan-pasal-76
 Yang dimaksud dengan “petugas rahasia” adalah reserse dan intel
 yang melakukan tugasnya di luar daerah domisilinya.
-Pasal 77
- 
+#### Pasal 77 ^penjelasan-pasal-77
 Cukup jelas.
-Pasal 78
- 
+#### Pasal 78 ^penjelasan-pasal-78
 Cukup jelas.
-Pasal 79
- 
+#### Pasal 79 ^penjelasan-pasal-79
 Cukup jelas.
-Pasal 80
- 
+#### Pasal 80 ^penjelasan-pasal-80
 Ayat (1)
 Yang dimaksud dengan “negara atau sebagian dari negara
 dinyatakan 
@@ -4054,7 +3981,7 @@ Ayat (3)
  
  
 Cukup jelas.
-Pasal 81
+#### Pasal 81 ^penjelasan-pasal-81
 Ayat (1)
  
 Yang dimaksud dengan “Surat Keterangan Pencatatan Sipil”
@@ -4076,7 +4003,7 @@ Cukup jelas.
 Ayat (4)
    
 Cukup jelas.
-Pasal 82
+#### Pasal 82 ^penjelasan-pasal-82
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -4136,7 +4063,7 @@ Ayat (5) . . .
 Ayat (5)
  
 Cukup jelas.
-Pasal 83
+#### Pasal 83 ^penjelasan-pasal-83
 Ayat (1)
   
 Data Penduduk yang dihasilkan oleh sistem informasi dan
@@ -4164,7 +4091,7 @@ Cukup jelas.
 Ayat (3)
  
 Cukup jelas.
-Pasal 84
+#### Pasal 84 ^penjelasan-pasal-84
 Ayat (1)
 Huruf a
  
@@ -4198,7 +4125,7 @@ Ayat (2) . . .
 
 Ayat (2)
 Cukup jelas.
-Pasal 85
+#### Pasal 85 ^penjelasan-pasal-85
 Ayat (1)
 Lihat Penjelasan Pasal 84.
 Ayat (2)
@@ -4208,10 +4135,10 @@ dan penanggung jawab.
 Ayat (3)
  
 Cukup jelas.
-Pasal 86
- Cukup jelas.
-Pasal 87
- Ayat (1)
+#### Pasal 86 ^penjelasan-pasal-86
+Cukup jelas.
+#### Pasal 87 ^penjelasan-pasal-87
+Ayat (1)
    
 Yang dimaksud dengan “pengguna Data Pribadi Penduduk”
 adalah instansi pemerintah dan swasta yang membutuhkan
@@ -4221,7 +4148,7 @@ informasi data sesuai dengan bidangnya.
  
  
 Cukup jelas.
-Pasal 88
+#### Pasal 88 ^penjelasan-pasal-88
 Ayat (1)
  
 Cukup jelas.
@@ -4260,7 +4187,7 @@ Huruf d
  Cukup jelas.
 Ayat (3)
 Cukup jelas.
-Pasal 89
+#### Pasal 89 ^penjelasan-pasal-89
 Ayat (1)
  
 Cukup jelas
@@ -4275,7 +4202,7 @@ dengan
 memperhatikan 
 kondisi
 masyarakat di setiap daerah.
-Pasal 90
+#### Pasal 90 ^penjelasan-pasal-90
 Ayat (1)
  
 Cukup jelas
@@ -4289,7 +4216,7 @@ dengan
 memperhatikan 
 kondisi
 masyarakat di setiap daerah.
-Pasal 91
+#### Pasal 91 ^penjelasan-pasal-91
 Ayat (1)
  
 Cukup jelas
@@ -4309,43 +4236,31 @@ dengan
 memperhatikan 
 kondisi
 masyarakat di setiap daerah.
-Pasal 92
- 
+#### Pasal 92 ^penjelasan-pasal-92
 Cukup jelas.
-Pasal 93
- 
+#### Pasal 93 ^penjelasan-pasal-93
 Cukup jelas.
-Pasal 94
- 
+#### Pasal 94 ^penjelasan-pasal-94
 Cukup jelas.
-Pasal 95
- 
+#### Pasal 95 ^penjelasan-pasal-95
 Cukup jelas.
-Pasal 96
- 
+#### Pasal 96 ^penjelasan-pasal-96
 Cukup jelas.
-Pasal 97
- 
+#### Pasal 97 ^penjelasan-pasal-97
 Cukup jelas.
-Pasal 98
- 
+#### Pasal 98 ^penjelasan-pasal-98
 Cukup jelas.
-Pasal 99
- 
+#### Pasal 99 ^penjelasan-pasal-99
 Cukup jelas.
-Pasal 100
- 
+#### Pasal 100 ^penjelasan-pasal-100
 Cukup jelas.
-Pasal 101
- 
+#### Pasal 101 ^penjelasan-pasal-101
 Cukup jelas.
-Pasal 102
- 
+#### Pasal 102 ^penjelasan-pasal-102
 Cukup jelas.
-Pasal 103
- 
+#### Pasal 103 ^penjelasan-pasal-103
 Cukup jelas.
-Pasal 104
+#### Pasal 104 ^penjelasan-pasal-104
 Pembentukan 
 UPTD 
 Instansi 
@@ -4353,22 +4268,140 @@ Pelaksana
 dilakukan 
 dengan
 mempertimbangkan kebutuhan pelayanan masyarakat.
-Pasal 105 . . .
+#### Pasal 105 ^penjelasan-pasal-105
 -  32  -
 
 
 <!-- Halaman 83 -->
-
-Pasal 105
- 
+#### Pasal 105 ^penjelasan-pasal-105-2
 Yang dimaksud dengan ”persyaratan dan tata cara perkawinan bagi
 penghayat kepercayaan” adalah persyaratan dan tata cara pengesahan
 perkawinan yang ditentukan oleh penghayat kepercayaan sendiri dan
 ketentuan itu menjadi dasar pengaturan dalam Peraturan Pemerintah.
-Pasal 106
- 
+#### Pasal 106 ^penjelasan-pasal-106
 Cukup jelas.
-Pasal 107
- 
+#### Pasal 107 ^penjelasan-pasal-107
 Cukup jelas.
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR  4674
+
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-2]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 18 | [[#^penjelasan-pasal-18-2]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 22 | [[#^penjelasan-pasal-22-2]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 27 | [[#^penjelasan-pasal-27-2]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 30 | [[#^penjelasan-pasal-30-2]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 33 | [[#^penjelasan-pasal-33-2]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 47 | [[#^penjelasan-pasal-47-2]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 60 | [[#^penjelasan-pasal-60-2]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 62 | [[#^penjelasan-pasal-62-2]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 74 | [[#^penjelasan-pasal-74]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 80 | [[#^penjelasan-pasal-80]] |
+| Pasal 81 | [[#^penjelasan-pasal-81]] |
+| Pasal 82 | [[#^penjelasan-pasal-82]] |
+| Pasal 83 | [[#^penjelasan-pasal-83]] |
+| Pasal 84 | [[#^penjelasan-pasal-84]] |
+| Pasal 85 | [[#^penjelasan-pasal-85]] |
+| Pasal 86 | [[#^penjelasan-pasal-86]] |
+| Pasal 87 | [[#^penjelasan-pasal-87]] |
+| Pasal 88 | [[#^penjelasan-pasal-88]] |
+| Pasal 89 | [[#^penjelasan-pasal-89]] |
+| Pasal 90 | [[#^penjelasan-pasal-90]] |
+| Pasal 91 | [[#^penjelasan-pasal-91]] |
+| Pasal 92 | [[#^penjelasan-pasal-92]] |
+| Pasal 93 | [[#^penjelasan-pasal-93]] |
+| Pasal 94 | [[#^penjelasan-pasal-94]] |
+| Pasal 95 | [[#^penjelasan-pasal-95]] |
+| Pasal 96 | [[#^penjelasan-pasal-96]] |
+| Pasal 97 | [[#^penjelasan-pasal-97]] |
+| Pasal 98 | [[#^penjelasan-pasal-98]] |
+| Pasal 99 | [[#^penjelasan-pasal-99]] |
+| Pasal 100 | [[#^penjelasan-pasal-100]] |
+| Pasal 101 | [[#^penjelasan-pasal-101]] |
+| Pasal 102 | [[#^penjelasan-pasal-102]] |
+| Pasal 103 | [[#^penjelasan-pasal-103]] |
+| Pasal 104 | [[#^penjelasan-pasal-104]] |
+| Pasal 105 | [[#^penjelasan-pasal-105]] |
+| Pasal 105 | [[#^penjelasan-pasal-105-2]] |
+| Pasal 106 | [[#^penjelasan-pasal-106]] |
+| Pasal 107 | [[#^penjelasan-pasal-107]] |

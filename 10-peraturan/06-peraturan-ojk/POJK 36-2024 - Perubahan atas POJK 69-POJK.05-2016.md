@@ -19,17 +19,22 @@ sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-36-2024-Penyelenggaraan-Usaha-
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan atas POJK 69-POJK.05-2016 (Penyelenggaraan Usaha Perusahaan Asuransi, Asuransi Syariah, Reasuransi, dan Reasuransi Syariah)
+**Perubahan atas POJK 69-POJK.05-2016 (Penyelenggaraan Usaha Perusahaan Asuransi, Asuransi Syariah, Reasuransi, dan Reasuransi Syariah)**
 
 **Status:** `berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-36-2024-Penyelenggaraan-Usaha-Perusahaan-Asuransi,-Asuransi-Syariah,-Perusahaan-Reasuransi,-dan-Reasuransi-Syariah.aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/POJK-36-2024-Penyelenggaraan-Usaha-Perusahaan-Asuransi,-Asuransi-Syariah,-Perusahaan-Reasuransi,-dan-Reasuransi-Syariah.aspx)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -81,7 +86,6 @@ Usaha Perusahaan Asuransi, Perusahaan Asuransi
 Syariah, Perusahaan Reasuransi, dan Perusahaan
 Reasuransi Syariah;
 
-
 -----
 
 Mengingat : 1. Undang-Undang Nomor 21 Tahun 2011 tentang
@@ -129,7 +133,7 @@ Republik Indonesia Nomor 5992) diubah sebagai berikut:
 1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini, yang
 dimaksud dengan:
 
@@ -141,7 +145,6 @@ umum dan perusahaan asuransi jiwa.
 3. Perusahaan Asuransi Syariah adalah perusahaan
 asuransi umum syariah dan perusahaan asuransi
 jiwa syariah.
-
 
 -----
 
@@ -202,7 +205,6 @@ Asuransi Umum Syariah.
 perusahaan yang menyelenggarakan Usaha
 Asuransi Jiwa Syariah.
 
-
 -----
 
 14. Perusahaan Reasuransi adalah perusahaan yang
@@ -261,7 +263,6 @@ syariah pada Perusahaan Reasuransi;
 g. perusahaan penjaminan yang mengalihkan
 sebagian risikonya kepada Perusahaan
 Reasuransi; atau
-
 
 -----
 
@@ -322,7 +323,6 @@ pemegang polis untuk dibayarkan berdasarkan
 perjanjian asuransi syariah atau perjanjian
 reasuransi syariah untuk memperoleh manfaat
 
-
 -----
 
 dari dana tabarru' dan/atau dana investasi peserta
@@ -382,7 +382,6 @@ berupa ujrah (fee).
 37. Akad _Kafalah bil Ujrah_ adalah Akad berupa
 jaminan yang diberikan oleh penjamin (kafiil)
 
-
 -----
 
 kepada pihak ketiga untuk memenuhi kewajiban
@@ -441,7 +440,6 @@ memberikan akses bagi calon pemegang polis,
 tertanggung, atau peserta terkait penutupan
 produk asuransi atau produk asuransi syariah,
 
-
 -----
 
 serta dapat dilakukan secara langsung oleh
@@ -485,7 +483,7 @@ oleh OJK.
 3. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 4
+### Pasal 4 ^pasal-4
 Ruang lingkup usaha Perusahaan Asuransi atau
 Perusahaan Asuransi Syariah dapat diperluas sesuai
 dengan kebutuhan masyarakat dengan ketentuan
@@ -500,7 +498,6 @@ _based); dan/atau_
 5. kegiatan usaha lain berdasarkan penugasan
 dari pemerintah, yang telah ada saat
 Peraturan OJK ini diundangkan.
-
 
 -----
 
@@ -537,7 +534,7 @@ reasuransi; dan
 4. Ketentuan Pasal 5 ditambahkan 1 (satu) ayat, yakni
 ayat (3) sehingga berbunyi sebagai berikut:
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Rencana perluasan ruang lingkup usaha yang
 akan dilakukan oleh Perusahaan Asuransi,
 Perusahaan Asuransi Syariah, atau Unit Syariah
@@ -560,13 +557,12 @@ Perusahaan Asuransi Syariah, atau Unit Syariah
 pada Perusahaan Asuransi melakukan kegiatan
 usaha dimaksud.
 
-
 -----
 
 5. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Untuk memperoleh persetujuan perluasan ruang
 lingkup usaha sebagaimana dimaksud dalam
 Pasal 5 ayat (2), Perusahaan Asuransi,
@@ -618,7 +614,6 @@ persyaratan kelembagaan, prinsip kehati-hatian,
 dan manajemen risiko yang memadai, yang diatur
 lebih lanjut oleh OJK.
 
-
 -----
 
 6. Di antara Pasal 6 dan Pasal 7 disisipkan 1 (satu) pasal,
@@ -663,7 +658,7 @@ huruf b dan huruf c ayat (1) disisipkan 1 (satu) huruf,
 yakni huruf b1, sehingga Pasal 8 berbunyi sebagai
 berikut:
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Selain memenuhi ketentuan sebagaimana
 dimaksud dalam Pasal 6, Perusahaan Asuransi,
 Perusahaan Asuransi Syariah, atau Unit Syariah
@@ -680,7 +675,6 @@ produk yang akan dipasarkan pada kantor
 pusat, kantor di luar kantor pusat, dan/atau
 lokasi lain yang melakukan kegiatan usaha
 berbasis imbalan jasa (fee based);
-
 
 -----
 
@@ -723,7 +717,7 @@ tersebut dan tidak dapat diperpanjang.
 9. Ketentuan ayat (1) dan ayat (2) Pasal 10 diubah dan
 ditambahkan 1 (satu) ayat, yakni ayat (3) sehingga Pasal
 10 berbunyi sebagai berikut:
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Untuk mendapatkan persetujuan perluasan ruang
 lingkup usaha berbasis imbalan jasa (fee based)
 sebagaimana dimaksud dalam Pasal 4 huruf d,
@@ -740,7 +734,6 @@ d. bukti memiliki infrastruktur yang memadai.
 (2) OJK memberikan persetujuan atau penolakan
 terhadap permohonan perluasan ruang lingkup
 usaha berbasis imbalan jasa (fee based) paling
-
 
 -----
 
@@ -768,7 +761,7 @@ diubah, dan di antara ayat (2) dan ayat (3) disisipkan 1
 (satu) ayat, yakni ayat (2a) sehingga Pasal 16 berbunyi
 sebagai berikut:
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Perusahaan Asuransi, Perusahaan Asuransi
 Syariah, atau Unit Syariah pada Perusahaan
 Asuransi yang menggunakan Agen Asuransi wajib
@@ -801,7 +794,6 @@ sedikit wajib:
 a. melaporkan Agen Asuransinya kepada
 asosiasi yang sesuai dengan bidang
 usahanya;
-
 
 -----
 
@@ -861,7 +853,6 @@ dikelola.
 Asuransi Syariah, atau Unit Syariah pada
 Perusahaan Asuransi menggunakan Agen
 
-
 -----
 
 Asuransi sebagaimana dimaksud pada ayat (1),
@@ -875,7 +866,7 @@ bersangkutan.
 15. Ketentuan ayat (1) dan ayat (3) Pasal 17 diubah, dan
 ditambahkan 1 (satu) ayat, yakni ayat (4) sehingga Pasal
 17 berbunyi sebagai berikut:
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Perusahaan Asuransi, Perusahaan Asuransi
 Syariah, atau Unit Syariah pada Perusahaan
 Asuransi dilarang mengikat perjanjian dengan
@@ -921,7 +912,6 @@ yang membujuk dan/atau memengaruhi
 pemegang polis, tertanggung, atau peserta
 untuk mengubah spesifikasi polis asuransi
 
-
 -----
 
 yang ada atau mengganti polis asuransi yang
@@ -955,7 +945,7 @@ kurang dari 1 (satu) tahun.
 16. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 18
+### Pasal 18 ^pasal-18
 Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 atau Unit Syariah pada Perusahaan Asuransi yang
 menggunakan Agen Asuransi dalam memasarkan
@@ -980,7 +970,6 @@ polis asuransi sesuai dengan produk asuransi
 yang dipasarkan dengan mengacu ketentuan
 Peraturan OJK mengenai pelindungan konsumen
 sektor jasa keuangan;
-
 
 -----
 
@@ -1012,7 +1001,7 @@ disampaikan.
 (satu) huruf, yakni huruf c sehingga berbunyi sebagai
 berikut:
 
-Pasal 19
+### Pasal 19 ^pasal-19
 Dalam hal Agen Asuransi tidak lagi menjadi Agen
 Asuransi dari sebuah Perusahaan Asuransi,
 Perusahaan Asuransi Syariah, atau Unit Syariah pada
@@ -1043,13 +1032,12 @@ ayat (2).
 (4) Asosiasi melaporkan pelanggaran kode etik
 sebagaimana dimaksud pada ayat (2) kepada OJK.
 
-
 -----
 
 19. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) Perusahaan Asuransi, Perusahaan Asuransi
 Syariah, atau Unit Syariah pada Perusahaan
 Asuransi dapat memberikan persetujuan kepada
@@ -1074,7 +1062,7 @@ Perusahaan Asuransi.
 20. Ketentuan ayat (1) Pasal 37 diubah, sehingga berbunyi
 sebagai berikut:
 
-Pasal 37
+### Pasal 37 ^pasal-37
 (1) Perusahaan atau Unit Syariah dilarang:
 a. melakukan tindakan yang dapat
 memperlambat penyelesaian atau
@@ -1097,7 +1085,7 @@ didasari argumen yang kuat.
 21. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 40
+### Pasal 40 ^pasal-40
 (1) Perusahaan Asuransi, Perusahaan Asuransi
 Syariah, atau Unit Syariah pada Perusahaan
 Asuransi wajib menyelesaikan pembayaran klaim
@@ -1105,7 +1093,6 @@ sesuai:
 a. jangka waktu pembayaran klaim atau
 manfaat yang ditetapkan dalam polis
 asuransi; atau
-
 
 -----
 
@@ -1167,7 +1154,6 @@ Reasuransi; atau
 2. kepastian mengenai jumlah klaim yang
 harus dibayar,
 
-
 -----
 
 mana yang lebih singkat.
@@ -1208,7 +1194,7 @@ _Ceding._
 huruf b dihapus, sehingga Pasal 44 berbunyi sebagai
 berikut:
 
-Pasal 44
+### Pasal 44 ^pasal-44
 (1) Aktuaris Perusahaan atau Unit Syariah memiliki
 tugas dan tanggung jawab sebagai berikut:
 a. memastikan kualitas data statistik
@@ -1226,7 +1212,6 @@ risiko di Perusahaan atau Unit Syariah;
 f. melakukan evaluasi atas aspek aktuaria
 dalam proses reasuransi di Perusahaan atau
 Unit Syariah;
-
 
 -----
 
@@ -1289,7 +1274,6 @@ penanganan klaim secara digital.
 (3) Ketentuan mengenai kriteria produk asuransi yang
 dapat diselenggarakan melalui Layanan Asuransi
 
-
 -----
 
 Digital sebagaimana dimaksud pada ayat (1)
@@ -1349,7 +1333,6 @@ Syariah, atau Unit Syariah pada Perusahaan
 Asuransi yang telah memperoleh persetujuan
 penyelenggaraan Layanan Asuransi Digital wajib
 
-
 -----
 
 mengajukan permohonan pendaftaran sebagai
@@ -1408,7 +1391,6 @@ Asuransi wajib menggunakan Sistem Elektronik
 yang dimiliki, dikuasai, dan dikendalikan oleh
 Perusahaan Asuransi, Perusahaan Asuransi
 
-
 -----
 
 Syariah, atau Unit Syariah pada Perusahaan
@@ -1463,7 +1445,6 @@ Asuransi yang menyelenggarakan Layanan
 Asuransi Digital wajib membentuk unit atau fungsi
 yang bertugas menangani penyelenggaraan
 Layanan Asuransi Digital.
-
 
 -----
 
@@ -1523,7 +1504,6 @@ Kontribusi kepada Perusahaan Asuransi,
 Perusahaan Asuransi Syariah, atau Unit
 Syariah pada Perusahaan Asuransi;
 
-
 -----
 
 b. kerja sama dengan penyedia TI; dan/atau
@@ -1545,7 +1525,7 @@ pemegang polis, tertanggung, atau peserta.
 (2) dan ayat (3) disisipkan 1 (satu) ayat, yakni ayat (2a),
 sehingga Pasal 54 berbunyi sebagai berikut:
 
-Pasal 54
+### Pasal 54 ^pasal-54
 (1) Polis asuransi syariah dan perjanjian reasuransi
 syariah wajib mengandung Akad _Tabarru’ dan_
 Akad Tijarah.
@@ -1582,7 +1562,6 @@ pengelolaan investasi dari Dana _Tabarru’ atau_
 Dana Tanahud yang berbeda dengan Akad Tijarah
 dalam rangka kegiatan lain.
 
-
 -----
 
 (8) Berdasarkan Akad _Wakalah bil Ujrah, Akad_
@@ -1600,7 +1579,7 @@ Unit Syariah.
 32. Ketentuan Pasal 55 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 55
+### Pasal 55 ^pasal-55
 (1) Perusahaan Asuransi Syariah, Perusahaan
 Reasuransi Syariah, atau Unit Syariah dapat
 menggunakan Akad selain sebagaimana dimaksud
@@ -1643,7 +1622,6 @@ Pasal 59A
 (1) Pengalihan portofolio pertanggungan dilakukan
 atas dasar:
 
-
 -----
 
 a. inisiatif oleh Perusahaan dan Unit Syariah
@@ -1658,7 +1636,7 @@ portofolio pertanggungan yang dialihkan.
 (6) Pasal 60 diubah dan di antara ayat (2) dan ayat (3)
 disisipkan 1 (satu) ayat, yakni ayat (2a), sehingga Pasal
 60 berbunyi sebagai berikut:
-Pasal 60
+### Pasal 60 ^pasal-60
 (1) Pengalihan portofolio pertanggungan oleh
 Perusahaan atau Unit Syariah wajib terlebih
 dahulu memperoleh persetujuan OJK.
@@ -1698,7 +1676,6 @@ dimaksud pada ayat (1) paling lama 30 (tiga puluh)
 hari kerja setelah surat permohonan diterima
 secara lengkap dan OJK menilai tidak memerlukan
 pemeriksaan langsung.
-
 
 -----
 
@@ -1743,7 +1720,7 @@ _Ceding yang menolak pengalihan portofolio._
 37. Ketentuan Pasal 62 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 62
+### Pasal 62 ^pasal-62
 (1) Pengembalian hak pemegang polis, tertanggung,
 peserta, atau Perusahaan _Ceding sebagaimana_
 dimaksud dalam Pasal 61 ayat (2) dilakukan
@@ -1758,7 +1735,6 @@ dan/atau pihak terkait, pembatalan atau
 pengembalian hak dilakukan sesuai dengan
 praktik asuransi atau praktik asuransi syariah
 yang berlaku umum.
-
 
 -----
 
@@ -1787,7 +1763,7 @@ dalam penjelasan.
 42. Ketentuan Pasal 76 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 76
+### Pasal 76 ^pasal-76
 Setiap Perusahaan Asuransi, Perusahaan Asuransi
 Syariah, atau Unit Syariah pada Perusahaan
 Asuransi secara individual maupun konsorsium
@@ -1816,7 +1792,6 @@ ketentuan peraturan perundang-undangan
 mengenai pelindungan konsumen di sektor jasa
 keuangan.
 
-
 -----
 
 (2) Mekanisme dan tata cara penerapan prinsip
@@ -1831,7 +1806,7 @@ keuangan.
 45. Ketentuan Pasal 77 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 77
+### Pasal 77 ^pasal-77
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 2, Pasal 3, Pasal 3B
 ayat (1) dan ayat (2), Pasal 4, Pasal 5 ayat (1)
@@ -1870,7 +1845,6 @@ atau seluruh kegiatan usaha;
 d. larangan untuk memasarkan produk
 asuransi atau produk asuransi syariah untuk
 lini usaha tertentu; dan/atau
-
 
 -----
 
@@ -1930,7 +1904,6 @@ OJK berdasarkan pertimbangan tertentu dapat
 memberikan persetujuan atau kebijakan yang berbeda
 dengan Peraturan OJK ini.
 
-
 -----
 
 Pasal II
@@ -1985,7 +1958,6 @@ diundangkan.
 8. Peraturan OJK ini mulai berlaku 6 (enam) bulan sejak
 tanggal diundangkan.
 
-
 -----
 
 Agar setiap orang mengetahuinya, memerintahkan
@@ -2015,7 +1987,6 @@ SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 48/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -2024,10 +1995,11 @@ ttd
 
 Aat Windradi
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -2041,8 +2013,6 @@ PERUBAHAN ATAS PERATURAN OTORITAS JASA KEUANGAN NOMOR
 ASURANSI, PERUSAHAAN ASURANSI SYARIAH, PERUSAHAAN
 
 REASURANSI, DAN PERUSAHAAN REASURANSI SYARIAH
-
-I. UMUM
 
 Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan
 Penguatan Sektor Keuangan memberikan dasar dan fondasi penguatan
@@ -2081,7 +2051,6 @@ pelindungan konsumen sektor jasa keuangan. Dengan penyempurnaan
 pengaturan ini diharapkan kepercayaan masyarakat terhadap industri
 perasuransian Indonesia dapat meningkat.
 
-
 -----
 
 Di sisi lain, sebagai dampak perkembangan teknologi di sektor jasa
@@ -2113,14 +2082,12 @@ Asuransi, penanganan klaim, penyelenggaraan usaha asuransi secara
 digital, penerapan prinsip syariah, dan mekanisme pengalihan portofolio
 pertanggungan.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
 Pasal I
 
 Angka 1
-
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
 
 Angka 2
@@ -2143,9 +2110,7 @@ Pasal 3B
 Cukup jelas.
 
 Angka 3
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Huruf a
 
 Angka 1
@@ -2207,15 +2172,11 @@ Syariah, Perusahaan Reasuransi, dan
 Perusahaan Reasuransi Syariah.
 
 Angka 4
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Cukup jelas.
 
 Angka 5
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Cukup jelas.
 
 Angka 6
@@ -2249,15 +2210,11 @@ adalah saldo piutang dagang pada saat terjadinya
 klaim.
 
 Angka 7
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Dihapus.
 
 Angka 8
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Huruf a
@@ -2311,36 +2268,26 @@ Ayat (4)
 Cukup jelas.
 
 Angka 9
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Cukup jelas.
 
 Angka 10
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Dihapus.
 Angka 11
 
 Cukup jelas.
 
 Angka 12
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Dihapus.
 
 Angka 13
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Dihapus.
 
 Angka 14
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 
 Huruf a
@@ -2442,9 +2389,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 15
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Yang dimaksud dengan “Perusahaan Asuransi,
@@ -2531,9 +2476,7 @@ Syariah, atau Unit Syariah pada Perusahaan
 Asuransi.
 
 Angka 16
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Huruf a
 
 Cukup jelas.
@@ -2568,9 +2511,7 @@ Huruf f
 Cukup jelas.
 
 Angka 17
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Huruf a
 
 Pemberitahuan dapat dilakukan melalui sarana
@@ -2621,9 +2562,7 @@ Ayat (4)
 Cukup jelas.
 
 Angka 19
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Yang dimaksud dengan “memberikan persetujuan”
@@ -2638,9 +2577,7 @@ Ayat (2)
 Cukup jelas.
 
 Angka 20
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Ayat (1)
 
 Huruf a
@@ -2745,9 +2682,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 21
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Ayat (1)
 
 Penyelesaian pembayaran klaim termasuk
@@ -2805,9 +2740,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 23
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Cukup jelas.
 
 Angka 24
@@ -2815,27 +2748,19 @@ Angka 24
 Dihapus.
 
 Angka 25
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Dihapus.
 
 Angka 26
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Dihapus.
 
 Angka 27
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Dihapus.
 
 Angka 28
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Dihapus.
 
 Angka 29
@@ -3073,15 +2998,11 @@ tersimpan dalam jaringan yang dikelola
 oleh pihak penyedia TI.
 
 Angka 31
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Cukup jelas.
 
 Angka 32
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Cukup jelas.
 
 Angka 33
@@ -3135,9 +3056,7 @@ pertanggungan, dengan mempertimbangkan
 dukungan reasuransi.
 
 Angka 36
-
-Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60
 Ayat (1)
 
 Cukup jelas.
@@ -3175,18 +3094,14 @@ Ayat (7)
 Cukup jelas.
 
 Angka 37
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
 
 
 -----
 
 Angka 38
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Ayat (1)
 
 Cukup jelas.
@@ -3213,21 +3128,15 @@ Angka 39
 Dihapus.
 
 Angka 40
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Dihapus.
 
 Angka 41
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73
 Dihapus.
 
 Angka 42
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76
 Cukup jelas.
 
 Angka 43
@@ -3241,9 +3150,7 @@ Pasal 76A
 Cukup jelas.
 
 Angka 45
-
-Pasal 77
-
+#### Pasal 77 ^penjelasan-pasal-77
 Cukup jelas.
 
 Angka 46
@@ -3287,3 +3194,38 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 116/OJK
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |

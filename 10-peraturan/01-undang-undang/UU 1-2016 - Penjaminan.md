@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penjaminan
+**Penjaminan**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -81,13 +87,11 @@ membentuk Undang-Undang tentang Penjaminan;
 Mengingat : Pasal 20, Pasal 21, dan Pasal 33 ayat (4) Undang-Undang
 Dasar Negara Republik Indonesia Tahun 1945;
 
-
 Dengan . . .
-
 
 -----
 
-                        - 2 
+                        - 2
 Dengan Persetujuan Bersama
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
@@ -103,7 +107,7 @@ Menetapkan : UNDANG-UNDANG TENTANG PENJAMINAN.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -134,13 +138,11 @@ Perusahaan Penjaminan Syariah, Perusahaan
 Penjaminan Ulang, dan Perusahaan Penjaminan Ulang
 Syariah yang menjalankan kegiatan penjaminan.
 
-
 7. Perusahaan . . .
-
 
 -----
 
-             - 3 
+             - 3
 7. Perusahaan Penjaminan adalah badan hukum yang
 bergerak di bidang keuangan dengan kegiatan usaha
 utama melakukan Penjaminan.
@@ -189,13 +191,11 @@ berfungsi sebagai kantor induk dari kantor atau unit yang
 melaksanakan kegiatan usaha Penjaminan berdasarkan
 Prinsip Syariah.
 
-
 18. Sertifikat . . .
-
 
 -----
 
-                  - 4 
+                  - 4
 18. Sertifikat Penjaminan adalah bukti persetujuan
 Penjaminan dari Perusahaan Penjaminan kepada
 Penerima Jaminan atas kewajiban finansial Terjamin.
@@ -238,19 +238,17 @@ ASAS, TUJUAN, DAN RUANG LINGKUP USAHA PENJAMINAN
 Bagian Kesatu
 Asas dan Tujuan
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 Penyelenggaraan usaha penjaminan berdasarkan asas:
 
 a. kepentingan nasional;
 
-
 b. kepastian . . .
-
 
 -----
 
-             - 5 
+             - 5
 b. kepastian hukum;
 c. keterbukaan;
 
@@ -263,7 +261,7 @@ g. edukasi; dan
 
 h. pelindungan konsumen.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 Usaha penjaminan bertujuan untuk:
 
@@ -295,7 +293,7 @@ f. meningkatkan tingkat inklusivitas keuangan nasional.
 Bagian Kedua
 Ruang Lingkup
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 (1) Usaha Penjaminan meliputi:
 
@@ -304,13 +302,11 @@ a. penjaminan Kredit, Pembiayaan, atau Pembiayaan
 Berdasarkan Prinsip Syariah yang diberikan oleh
 lembaga keuangan;
 
-
 b. penjaminan . . .
-
 
 -----
 
-             - 6 
+             - 6
 b. penjaminan pinjaman yang disalurkan oleh koperasi
 
 simpan pinjam atau koperasi yang mempunyai unit
@@ -371,14 +367,12 @@ serta koperasi, dan/atau program pemerintah,
 pemerintah dapat menunjuk atau menugaskan Lembaga
 Penjamin milik pemerintah.
 
-
 Pasal 5 . . .
-
 
 -----
 
-             - 7 
-Pasal 5
+             - 7
+### Pasal 5 ^pasal-5
 
 (1) Usaha Penjaminan Ulang hanya dapat menjamin
 kewajiban finansial Perusahaan Penjaminan.
@@ -393,7 +387,7 @@ UUS.
 terbentuk, Perusahaan Penjaminan Ulang dapat
 menjamin Perusahaan Penjaminan Syariah dan UUS.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 (1) Lembaga Penjamin dapat melakukan investasi dalam
 
@@ -410,7 +404,7 @@ BADAN HUKUM DAN PERMODALAN
 Bagian Kesatu
 Badan Hukum
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 Badan hukum Lembaga Penjamin berbentuk:
 
@@ -420,20 +414,18 @@ b. perseroan terbatas; atau
 
 c. koperasi.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
 Lembaga Penjamin yang berbentuk badan hukum perusahaan
 umum sebagaimana dimaksud dalam Pasal 7 huruf a hanya
 dapat dimiliki oleh pemerintah pusat sesuai dengan undangundang yang mengatur mengenai badan usaha milik negara.
 
-
 Pasal 9 . . .
-
 
 -----
 
-             - 8 
-Pasal 9
+             - 8
+### Pasal 9 ^pasal-9
 
 (1) Lembaga Penjamin yang berbentuk badan hukum
 
@@ -473,32 +465,30 @@ sebagaimana dimaksud pada ayat (1) huruf b, ayat (2),
 dan ayat (3) diatur dalam Peraturan Otoritas Jasa
 Keuangan.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 Lembaga Penjamin yang berbentuk badan hukum koperasi
 sebagaimana dimaksud dalam Pasal 7 huruf c hanya dapat
 dimiliki oleh anggota koperasi sesuai dengan undang-undang
 yang mengatur mengenai perkoperasian.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 
 Lembaga Penjamin yang berbentuk badan hukum koperasi
 sebagaimana dimaksud dalam Pasal 7 huruf c yang
 melakukan kegiatan penjaminan tidak dapat bertindak
 sebagai Penerima Jaminan dan/atau Terjamin.
 
-
 Bagian . . .
-
 
 -----
 
-             - 9 
+             - 9
 Bagian Kedua
 
 Permodalan
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 (1) Modal disetor atau modal koperasi serta jumlah modal
 
@@ -522,7 +512,7 @@ Bagian Kesatu
 
 Kepemilikan
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 (1) Dalam hal pemegang saham berbentuk badan hukum
 
@@ -551,19 +541,17 @@ hibah, modal penyertaan, dana cadangan, dan sisa
 hasil usaha jika badan hukum pemilik berbentuk
 koperasi.
 
-
 (3) Pemilik . . .
-
 
 -----
 
-           - 10 
+           - 10
 (3) Pemilik Lembaga Penjamin wajib menjaga kecukupan
 
 modal Lembaga Penjamin sesuai dengan kebutuhan
 kapasitas penjaminan.
 
-Pasal 14
+### Pasal 14 ^pasal-14
 
 (1) Setiap Orang hanya dapat menjadi pemegang saham
 
@@ -585,7 +573,7 @@ dalam Peraturan Otoritas Jasa Keuangan.
 Bagian Kedua
 Kepengurusan
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 (1) Lembaga Penjamin wajib dikelola oleh direksi/pengurus
 
@@ -596,7 +584,7 @@ komisaris/dewan pengawas/pengawas Lembaga
 Penjamin diatur dalam Peraturan Otoritas Jasa
 Keuangan.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 (1) Pemegang saham, direksi/pengurus dan
 komisaris/dewan pengawas/pengawas Lembaga
@@ -608,14 +596,12 @@ oleh Otoritas Jasa Keuangan.
 pada ayat (1) diatur dalam Peraturan Otoritas Jasa
 Keuangan.
 
-
 Pasal 17 . . .
-
 
 -----
 
-                  - 11 
-Pasal 17
+                  - 11
+### Pasal 17 ^pasal-17
 
 (1) Perusahaan Penjaminan Syariah, Perusahaan
 Penjaminan Ulang Syariah, dan UUS wajib memiliki
@@ -649,7 +635,7 @@ Izin Usaha Penjaminan, Penjaminan Ulang, dan Unit Usaha Syariah
 Paragraf 1
 Izin Usaha Penjaminan dan Penjaminan Ulang
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 (1) Setiap Orang yang melakukan usaha Penjaminan dan
 
@@ -670,13 +656,11 @@ d. data direksi/pengurus dan data komisaris/dewan
 
 pengawas/pengawas;
 
-
 e. data . . .
-
 
 -----
 
-           - 12 
+           - 12
 e. data pemegang saham atau anggota;
 
 f. sistem dan prosedur kerja usaha Penjaminan dan
@@ -717,7 +701,7 @@ disertai alasannya.
 cara perizinan usaha sebagaimana dimaksud pada ayat
 (2) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 
 (1) Perusahaan Penjaminan dan Perusahaan Penjaminan
 
@@ -733,13 +717,11 @@ Penjaminan dan Perusahaan Penjaminan Ulang kepada
 Otoritas Jasa Keuangan paling lambat 15 (lima belas) hari
 terhitung sejak tanggal kegiatan operasional dimulai.
 
-
 (3) Apabila . . .
-
 
 -----
 
-           - 13 
+           - 13
 (3) Apabila setelah jangka waktu sebagaimana dimaksud
 
 pada ayat (1) Perusahaan Penjaminan dan Perusahaan
@@ -749,7 +731,7 @@ Otoritas Jasa Keuangan mencabut izin usaha.
 Paragraf 2
 Unit Usaha Syariah
 
-Pasal 20
+### Pasal 20 ^pasal-20
 
 (1) Perusahaan Penjaminan dapat melakukan sebagian
 
@@ -778,7 +760,7 @@ permohonan diterima secara lengkap.
 dimaksud pada ayat (4) dilakukan secara tertulis dan
 disertai alasannya.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 
 (1) UUS yang telah mendapat izin dari Otoritas Jasa
 
@@ -792,19 +774,17 @@ Penjaminan kepada Otoritas Jasa Keuangan paling
 lambat 15 (lima belas) hari terhitung sejak tanggal
 kegiatan operasional dimulai.
 
-
 (3) Apabila . . .
-
 
 -----
 
-                 - 14 
+                 - 14
 (3) Apabila setelah jangka waktu sebagaimana dimaksud
 
 pada ayat (1) UUS belum melakukan kegiatan usaha,
 Otoritas Jasa Keuangan mencabut izin UUS.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 (1) Perusahaan Penjaminan dapat menghentikan kegiatan
 
@@ -819,7 +799,7 @@ Peraturan Otoritas Jasa Keuangan.
 Bagian Kedua
 Izin Usaha Penjaminan Syariah dan Penjaminan Ulang Syariah
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 (1) Setiap Orang yang melakukan usaha Penjaminan Syariah
 
@@ -857,13 +837,11 @@ j. kelayakan rencana kerja;
 
 k. kesiapan infrastruktur;
 
-
 l. konfirmasi . . .
-
 
 -----
 
-           - 15 
+           - 15
 l. konfirmasi dari otoritas pengawas di negara asal pihak
 
 asing jika terdapat penyertaan langsung pihak asing;
@@ -886,7 +864,7 @@ disertai alasannya.
 cara perizinan usaha sebagaimana dimaksud pada ayat
 (2) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 
 (1) Perusahaan Penjaminan Syariah dan Perusahaan
 Penjaminan Ulang Syariah yang telah mendapat izin
@@ -918,13 +896,11 @@ PasaI 25
 wilayah negara Republik Indonesia sesuai dengan lingkup
 wilayah operasionalnya.
 
-
 (2) Untuk . . .
-
 
 -----
 
-             - 16 
+             - 16
 (2) Untuk dapat membuka kantor cabang sebagaimana
 
 dimaksud pada ayat (1), Lembaga Penjamin wajib terlebih
@@ -942,7 +918,7 @@ Bagian Kesatu
 
 Tata Kelola
 
-Pasal 26
+### Pasal 26 ^pasal-26
 
 (1) Lembaga Penjamin dalam melaksanakan pengelolaan
 
@@ -967,7 +943,7 @@ Bagian Kedua
 
 Pengawasan
 
-Pasal 27
+### Pasal 27 ^pasal-27
 
 (1) Pengawasan Lembaga Penjamin, lembaga penunjang
 
@@ -980,13 +956,11 @@ berwenang untuk:
 
 a. mencabut izin usaha Lembaga Penjamin atau izin UUS;
 
-
 b. melakukan . . .
-
 
 -----
 
-           - 17 
+           - 17
 b. melakukan pemeriksaan terhadap Lembaga Penjamin,
 
 lembaga penunjang penjaminan, profesi penyedia jasa
@@ -1033,7 +1007,7 @@ Bagian Ketiga
 
 Pelaporan
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
 (1) Lembaga Penjamin wajib menyampaikan laporan
 bulanan, laporan keuangan tahunan yang telah diaudit
@@ -1044,13 +1018,11 @@ Otoritas Jasa Keuangan.
 
 anggaran dasar kepada Otoritas Jasa Keuangan.
 
-
 (3) Ketentuan . . .
-
 
 -----
 
-                  - 18 
+                  - 18
 (3) Ketentuan lebih lanjut mengenai laporan bulanan,
 
 laporan keuangan tahunan, dan/atau laporan lain serta
@@ -1066,7 +1038,7 @@ DAN KEPAILITAN
 Bagian Kesatu
 Penggabungan, Peleburan, Pengambilalihan, dan Pemisahan
 
-Pasal 29
+### Pasal 29 ^pasal-29
 
 (1) Lembaga Penjamin dapat melakukan penggabungan atau
 
@@ -1102,13 +1074,11 @@ untuk melakukan kegiatan penjaminan wajib tetap
 menjalankan kegiatan penjaminan berdasarkan Prinsip
 Syariah.
 
-
 (8) Lembaga . . .
-
 
 -----
 
-           - 19 
+           - 19
 (8) Lembaga Penjamin yang akan melakukan penggabungan,
 
 peleburan, pengambilalihan, atau pemisahan wajib
@@ -1121,7 +1091,7 @@ Penjamin sebagaimana dimaksud pada ayat (1), ayat (2),
 ayat (3), ayat (5), ayat (6), dan ayat (7) diatur dalam
 Peraturan Otoritas Jasa Keuangan.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 
 Penggabungan, peleburan, pemisahan, dan pengambilalihan
 Lembaga Penjamin tidak mengurangi hak Penerima Jaminan
@@ -1131,7 +1101,7 @@ Bagian Kedua
 
 Kepailitan
 
-Pasal 31
+### Pasal 31 ^pasal-31
 
 (1) Permohonan pernyataan pailit terhadap Lembaga
 Penjamin berdasarkan Undang-Undang ini hanya dapat
@@ -1147,7 +1117,7 @@ perundang-undangan.
 BAB IX
 PENCABUTAN IZIN USAHA
 
-Pasal 32
+### Pasal 32 ^pasal-32
 
 (1) Pencabutan izin usaha Lembaga Penjamin atau izin UUS
 
@@ -1162,13 +1132,11 @@ undangan;
 
 b. dikenai sanksi administratif pencabutan izin usaha;
 
-
 c. tidak . . .
-
 
 -----
 
-           - 20 
+           - 20
 c. tidak lagi menjadi Lembaga Penjamin;
 
 d. bubar sebagai akibat melakukan penggabungan,
@@ -1186,7 +1154,7 @@ f. belum melakukan kegiatan usaha paling lambat 3
 (tiga) bulan setelah tanggal izin UUS ditetapkan
 sebagaimana dimaksud dalam Pasal 21 ayat (1).
 
-Pasal 33
+### Pasal 33 ^pasal-33
 
 Lembaga Penjamin bubar karena:
 
@@ -1200,7 +1168,7 @@ c. putusan pengadilan; atau
 
 d. keputusan pemerintah.
 
-Pasal 34
+### Pasal 34 ^pasal-34
 
 Dalam hal Lembaga Penjamin bubar karena keputusan rapat
 umum pemegang saham atau rapat anggota sebagaimana
@@ -1210,7 +1178,7 @@ saham atau rapat anggota kepada Otoritas Jasa Keuangan
 paling lambat 15 (lima belas) hari setelah rapat umum
 pemegang saham atau rapat anggota dilaksanakan.
 
-Pasal 35
+### Pasal 35 ^pasal-35
 
 Dalam hal Lembaga Penjamin bubar karena jangka waktu
 berdirinya Lembaga Penjamin yang ditetapkan dalam
@@ -1221,14 +1189,12 @@ Keuangan paling lambat 45 (empat puluh lima) hari setelah
 jangka waktu berdirinya Lembaga Penjamin yang ditetapkan
 dalam anggaran dasar berakhir.
 
-
 Pasal 36 . . .
-
 
 -----
 
-             - 21 
-Pasal 36
+             - 21
+### Pasal 36 ^pasal-36
 
 (1) Dalam hal Lembaga Penjamin bubar berdasarkan
 
@@ -1249,7 +1215,7 @@ hukum tetap; atau
 
 b. keputusan pemerintah.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 
 (1) Dalam hal Lembaga Penjamin dipailitkan atau dilikuidasi,
 
@@ -1272,20 +1238,18 @@ PENYELENGGARAAN PENJAMINAN
 Bagian Kesatu
 Mekanisme Penjaminan dan Penjaminan Syariah
 
-Pasal 38
+### Pasal 38 ^pasal-38
 
 (1) Kegiatan Penjaminan dan Penjaminan Syariah melibatkan
 
 3 (tiga) pihak, yaitu Penerima Jaminan, Terjamin, dan
 Penjamin.
 
-
 (2) Penjamin . . .
-
 
 -----
 
-           - 22 
+           - 22
 (2) Penjamin memiliki hak tagih atas pemenuhan kewajiban
 
 finansial Terjamin apabila Penjamin telah menunaikan
@@ -1301,7 +1265,7 @@ dalam Sertifikat Penjaminan atau Sertifikat Kafalah.
 Kafalah sebagaimana dimaksud pada ayat (3) diatur
 dalam Peraturan Otoritas Jasa Keuangan.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 
 (1) Penjaminan dan Penjaminan Syariah dilakukan dengan
 
@@ -1315,7 +1279,7 @@ b. penjaminan tidak langsung.
 penjaminan tidak langsung sebagaimana dimaksud pada
 ayat (1) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 
 (1) Penjaminan dan Penjaminan Syariah dapat dilakukan
 
@@ -1326,7 +1290,7 @@ dalam bentuk penjaminan bersama.
 dimaksud pada ayat (1) diatur dalam Peraturan Otoritas
 Jasa Keuangan.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
 (1) Perjanjian Penjaminan Syariah menggunakan akad
 
@@ -1337,17 +1301,15 @@ penjaminan yang sesuai dengan Prinsip Syariah.
 dengan Prinsip Syariah sebagaimana dimaksud pada ayat
 (1) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
-
 Bagian . . .
-
 
 -----
 
-             - 23 
+             - 23
 Bagian Kedua
 Penjaminan Ulang dan Penjaminan Ulang Syariah
 
-Pasal 42
+### Pasal 42 ^pasal-42
 
 (1) Perusahaan Penjaminan dan Perusahaan Penjaminan
 
@@ -1386,7 +1348,7 @@ Bagian Ketiga
 
 Imbal Jasa
 
-Pasal 43
+### Pasal 43 ^pasal-43
 
 (1) Dalam melaksanakan kegiatan usahanya, Perusahaan
 
@@ -1404,13 +1366,11 @@ Penjaminan Ulang menerima IJPU.
 
 Penjaminan Ulang Syariah menerima IJKU.
 
-
 (5) Ketentuan . . .
-
 
 -----
 
-              - 24 
+              - 24
 (5) Ketentuan mengenai IJP atau IJK sebagaimana dimaksud
 
 pada ayat (1) dan ayat (2) bagi Penjaminan dan
@@ -1426,19 +1386,19 @@ Keuangan.
 Bagian Keempat
 Klaim, Pembayaran Klaim, dan Peralihan Hak Tagih
 
-Pasal 44
+### Pasal 44 ^pasal-44
 
 Lembaga Penjamin wajib memiliki cadangan klaim dan
 cadangan umum.
 
-Pasal 45
+### Pasal 45 ^pasal-45
 
 Pengajuan klaim oleh Penerima Jaminan kepada Perusahaan
 Penjaminan atau Perusahaan Penjaminan Syariah dapat
 dilakukan apabila Terjamin gagal memenuhi kewajiban
 finansial.
 
-Pasal 46
+### Pasal 46 ^pasal-46
 
 (1) Lembaga Penjamin dilarang melakukan tindakan yang
 
@@ -1452,14 +1412,12 @@ dari Penerima Jaminan yang telah memenuhi persyaratan
 dokumentasi dan penjaminannya sesuai dengan tata cara
 pengajuan dan penyelesaian klaim.
 
-
 Pasal 47 . . .
-
 
 -----
 
-           - 25 
-Pasal 47
+           - 25
+### Pasal 47 ^pasal-47
 
 (1) Sejak klaim dibayar oleh Perusahaan Penjaminan atau
 
@@ -1476,7 +1434,7 @@ Perusahaan Penjaminan Syariah sebagaimana dimaksud
 pada ayat (1) untuk dan atas nama Perusahaan
 Penjaminan atau Perusahaan Penjaminan Syariah.
 
-Pasal 48
+### Pasal 48 ^pasal-48
 
 Ketentuan lebih lanjut mengenai cadangan klaim dan
 cadangan umum sebagaimana dimaksud dalam Pasal 44,
@@ -1488,7 +1446,7 @@ dan peralihan hak tagih sebagaimana dimaksud dalam Pasal
 Bagian Kelima
 Retensi Sendiri
 
-Pasal 49
+### Pasal 49 ^pasal-49
 
 (1) Perusahaan Penjaminan atau Perusahaan Penjaminan
 
@@ -1499,17 +1457,15 @@ penjaminan.
 dimaksud pada ayat (1) diatur dalam Peraturan Otoritas
 Jasa Keuangan.
 
-
 Bagian . . .
-
 
 -----
 
-                     - 26 
+                     - 26
 Bagian Keenam
 Kapasitas Penjaminan
 
-Pasal 50
+### Pasal 50 ^pasal-50
 
 (1) Lembaga Penjamin wajib mengoptimalkan kapasitas
 
@@ -1533,7 +1489,7 @@ PROFESI PENYEDIA JASA BAGI LEMBAGA PENJAMIN
 Bagian Kesatu
 Asosiasi Lembaga Penjamin
 
-Pasal 51
+### Pasal 51 ^pasal-51
 
 (1) Lembaga Penjamin wajib menjadi anggota asosiasi
 
@@ -1547,7 +1503,7 @@ Jasa Keuangan.
 Bagian Kedua
 Lembaga Penunjang Penjaminan
 
-Pasal 52
+### Pasal 52 ^pasal-52
 
 (1) Dalam melakukan kegiatan usahanya, Lembaga Penjamin
 
@@ -1562,13 +1518,11 @@ a. pemeringkat usaha mikro, kecil, menengah, dan
 
 koperasi;
 
-
 b. agen . . .
-
 
 -----
 
-            - 27 
+            - 27
 b. agen penjamin;
 c. broker; dan
 
@@ -1599,7 +1553,7 @@ Bagian Ketiga
 
 Profesi Penyedia Jasa Bagi Lembaga Penjamin
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
 (1) Profesi penyedia jasa bagi Lembaga Penjamin terdiri atas:
 
@@ -1628,17 +1582,15 @@ cara pendaftaran profesi penyedia jasa sebagaimana
 dimaksud pada ayat (1) dan ayat (2) diatur dalam
 Peraturan Otoritas Jasa Keuangan.
 
-
 BAB XII . . .
-
 
 -----
 
-           - 28 
+           - 28
 BAB XII
 PENYELESAIAN SENGKETA
 
-Pasal 54
+### Pasal 54 ^pasal-54
 
 (1) Penyelesaian sengketa yang terjadi dalam kegiatan
 
@@ -1661,7 +1613,7 @@ sebagaimana dimaksud pada ayat (2) telah mencapai
 kesepakatan, kesepakatan tersebut bersifat final dan
 mengikat.
 
-Pasal 55
+### Pasal 55 ^pasal-55
 
 (1) Lembaga Penjamin wajib menjadi anggota lembaga
 
@@ -1682,17 +1634,15 @@ tertulis dari Otoritas Jasa Keuangan.
 penyelesaian sengketa sebagaimana dimaksud pada ayat
 (1) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
-
 BAB XIII . . .
-
 
 -----
 
-           - 29 
+           - 29
 BAB XIII
 SANKSI ADMINISTRATIF
 
-Pasal 56
+### Pasal 56 ^pasal-56
 
 (1) Setiap Lembaga Penjamin yang tidak memenuhi
 ketentuan sebagaimana dimaksud dalam Pasal 5 ayat (1)
@@ -1727,7 +1677,7 @@ diatur dalam Peraturan Otoritas Jasa Keuangan.
 BAB XIV
 KETENTUAN PIDANA
 
-Pasal 57
+### Pasal 57 ^pasal-57
 
 Setiap Orang yang menjalankan Penjaminan, Penjaminan
 Syariah, Penjaminan Ulang, dan Penjaminan Ulang Syariah
@@ -1737,14 +1687,12 @@ dimaksud dalam Pasal 20 ayat (3) dipidana dengan pidana
 penjara paling lama 15 (lima belas) tahun dan pidana denda
 paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
 
-
 Pasal 58 . . .
-
 
 -----
 
-            - 30 
-Pasal 58
+            - 30
+### Pasal 58 ^pasal-58
 
 Direksi/pengurus Lembaga Penjamin yang dengan sengaja
 memberikan laporan, informasi, data, dan/atau dokumen
@@ -1754,7 +1702,7 @@ menyesatkan dipidana dengan pidana penjara paling lama 5
 (lima) tahun dan pidana denda paling banyak
 Rp10.000.000.000,00 (sepuluh miliar rupiah).
 
-Pasal 59
+### Pasal 59 ^pasal-59
 
 Agen penjamin yang menggelapkan IJP, IJK, IJPU, dan/atau
 IJKU sebagaimana dimaksud dalam Pasal 52 ayat (5) dipidana
@@ -1765,7 +1713,7 @@ ratus juta rupiah).
 BAB XV
 KETENTUAN PERALIHAN
 
-Pasal 60
+### Pasal 60 ^pasal-60
 
 (1) Lembaga Penjamin yang telah mendapatkan izin usaha
 Penjaminan atau Penjaminan Syariah, sebelum
@@ -1776,7 +1724,7 @@ berlakunya Undang-Undang ini, dinyatakan tetap berlaku.
 wajib menyesuaikan dengan ketentuan Undang-Undang
 ini paling lama 2 (dua) tahun terhitung sejak UndangUndang ini berlaku.
 
-Pasal 61
+### Pasal 61 ^pasal-61
 
 (1) Setiap Orang di luar Lembaga Penjamin yang telah
 
@@ -1789,14 +1737,12 @@ tahun sejak berlakunya Undang-Undang ini.
 berlaku terhadap kegiatan penjaminan yang dijalankan
 berdasarkan undang-undang tersendiri.
 
-
 Pasal 62 . . .
-
 
 -----
 
-            - 31 
-Pasal 62
+            - 31
+### Pasal 62 ^pasal-62
 
 (1) Dalam hal Perusahaan Penjaminan memiliki UUS yang
 
@@ -1816,30 +1762,28 @@ Peraturan Otoritas Jasa Keuangan.
 BAB XVI
 KETENTUAN PENUTUP
 
-Pasal 63
+### Pasal 63 ^pasal-63
 
 Pada saat Undang-Undang ini mulai berlaku, semua peraturan
 perundang-undangan mengenai penjaminan dinyatakan masih
 tetap berlaku sepanjang tidak bertentangan dengan ketentuan
 dalam Undang-Undang ini.
 
-Pasal 64
+### Pasal 64 ^pasal-64
 
 Peraturan pelaksanaan Undang-Undang ini harus ditetapkan
 paling lama 1 (satu) tahun terhitung sejak Undang-Undang ini
 diundangkan.
 
-Pasal 65
+### Pasal 65 ^pasal-65
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
-
 Agar . . .
-
 
 -----
 
-                      - 32 
+                      - 32
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Undang-Undang ini dengan penempatannya
 dalam Lembaran Negara Republik Indonesia.
@@ -1865,10 +1809,11 @@ YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 9
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 
@@ -1879,8 +1824,6 @@ NOMOR 1 TAHUN 2016
 TENTANG
 
 PENJAMINAN
-
-I. UMUM
 
 Pasal 33 Ayat (4) Undang-Undang Dasar Negara Republik Indonesia  Tahun
 1945 menyatakan bahwa perekonomian nasional diselenggarakan berdasar
@@ -1917,13 +1860,11 @@ disebabkan oleh ketidakmampuan dalam menyediakan agunan dan
 ketiadaan administrasi yang baik terkait dengan kegiatan usahanya
 sehingga dinilai tidak bankable.
 
-
 Terhadap . . .
-
 
 -----
 
-                     - 2 
+                     - 2
 Terhadap kesulitan pelaku UMKMK untuk mendapatkan kredit atau
 pembiayaan tanpa memberikan agunan, Pemerintah telah mengenalkan
 skema penjaminan kredit pada tahun 1970 dengan membentuk Lembaga
@@ -1970,13 +1911,11 @@ peraturan tentang penjaminan yang komprehensif sehingga menjadi rujukan
 dalam menyelenggarakan penjaminan, diperlukan payung hukum dalam
 bentuk Undang-Undang.
 
-
 Undang . . .
-
 
 -----
 
-                        - 3 
+                        - 3
 Undang-Undang ini mengatur berbagai hal yang terkait dengan lembaga
 penjamin, usaha penjaminan, mekanisme penjaminan, usaha pendukung
 dari penjaminan, profesi penyedia jasa penjaminan, dan asosiasi penjaminan
@@ -1984,14 +1923,11 @@ serta ketentuan sanksi administratif dan sanksi pidana bagi setiap orang
 yang melanggar terhadap ketentuan yang terdapat di dalam Undang-Undang
 ini.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Huruf a
 
 Yang dimaksud dengan “kepentingan nasional” adalah asas yang
@@ -2054,13 +1990,9 @@ Yang dimaksud dengan “pelindungan konsumen” adalah asas yang
 menciptakan sistem pelindungan dan menumbuhkan kesadaran
 pelaku usaha penjaminan sehingga mampu meningkatkan
 kepercayaan masyarakat terhadap sektor jasa keuangan.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Cukup jelas.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Huruf a
@@ -2189,13 +2121,9 @@ Ayat (5)
 
 Program pemerintah adalah program yang dimiliki pemerintah
 dengan menggunakan mekanisme penjaminan tertentu.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 Investasi dalam pengelolaan dana yang dimiliki dapat dilakukan
@@ -2207,29 +2135,17 @@ Penjaminan Ulang Syariah.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Modal koperasi adalah sebagaimana diatur dalam undang-undang
@@ -2242,16 +2158,11 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-
-Pasal 13 . . .
-
-
+#### Pasal 13 ^penjelasan-pasal-13
 -----
 
-                     - 7 
-Pasal 13
-
+                     - 7
+#### Pasal 13 ^penjelasan-pasal-13-2
 Ayat (1)
 
 Yang dimaksud dengan "ekuitas" adalah hak pemilik atas aktiva
@@ -2265,9 +2176,7 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Cukup jelas.
@@ -2287,13 +2196,9 @@ Ayat (3)
 Hal yang akan diatur lebih lanjut dalam Peraturan Otoritas Jasa
 Keuangan antara lain berupa besar kepemilikan saham dan tata
 cara konsolidasi perusahaan.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 
 Cukup jelas.
@@ -2319,13 +2224,9 @@ dan komisaris/dewan pengawas/pengawas Lembaga Penjamin;
                      - 8 
 4. uji kelayakan dan kepatutan bagi calon direksi/pengurus dan
 komisaris/dewan pengawas/pengawas Lembaga Penjamin.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Ayat (1)
 
 Cukup jelas.
@@ -2347,13 +2248,9 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Cukup jelas.
@@ -2375,24 +2272,15 @@ dipersyaratkan untuk mendapatkan izin.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
-
-
-Pasal 22 . . .
-
-
+#### Pasal 22 ^penjelasan-pasal-22
 -----
 
-                     - 9 
-Pasal 22
-
+                     - 9
+#### Pasal 22 ^penjelasan-pasal-22-2
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 
 Cukup jelas.
@@ -2414,17 +2302,11 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Yang dimaksud dengan “tata kelola perusahaan yang baik” adalah
@@ -2444,9 +2326,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Cukup jelas.
@@ -2497,9 +2377,7 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Ayat (1)
 
 Sebagai contoh laporan lain adalah laporan yang memuat hal-hal
@@ -2523,48 +2401,31 @@ bentuk badan hukum.
 Ayat (3)
 
 Cukup jelas.
-
-
-Pasal 29 . . .
-
-
+#### Pasal 29 ^penjelasan-pasal-29
 -----
 
-                   - 11 
-Pasal 29
-
+                   - 11
+#### Pasal 29 ^penjelasan-pasal-29-2
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Cukup jelas.
-
-Pasal 31
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
-
-Pasal 32
+#### Pasal 32 ^penjelasan-pasal-32
 Cukup jelas.
-
-Pasal 33
+#### Pasal 33 ^penjelasan-pasal-33
 Cukup jelas.
-
-Pasal 34
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35
+#### Pasal 35 ^penjelasan-pasal-35
 Cukup jelas.
-
-Pasal 36
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup jelas.
-
-Pasal 37
+#### Pasal 37 ^penjelasan-pasal-37
 Cukup jelas.
-
-Pasal 38
+#### Pasal 38 ^penjelasan-pasal-38
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Ayat (1)
 
 Huruf a
@@ -2582,16 +2443,11 @@ dahulu melalui atau atas permintaan Penerima Jaminan.
 Ayat (2)
 
 Cukup jelas.
-
-
-Pasal 40 . . .
-
-
+#### Pasal 40 ^penjelasan-pasal-40
 -----
 
-                   - 12 
-Pasal 40
-
+                   - 12
+#### Pasal 40 ^penjelasan-pasal-40-2
 Ayat (1)
 
 Penjaminan bersama _(co-guarantee) adalah kegiatan penjaminan_
@@ -2600,17 +2456,11 @@ yang dilaksanakan bersama oleh lebih dari satu Lembaga Penjamin.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Cukup jelas.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Cukup jelas.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Ayat (1)
 
 Cukup jelas.
@@ -2636,38 +2486,25 @@ untuk rakyat.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Cadangan klaim adalah cadangan yang disisihkan oleh Lembaga
 Penjamin dari nilai penjaminan yang ditanggung sendiri (retensi sendiri).
 Cadangan umum adalah cadangan yang disisihkan oleh Lembaga
 Penjamin dari laba bersih atau selisih hasil usaha pada tiap akhir periode
 laporan tahunan.
-
-Pasal 45
+#### Pasal 45 ^penjelasan-pasal-45
 Cukup jelas.
-
-Pasal 46
+#### Pasal 46 ^penjelasan-pasal-46
 Cukup jelas.
-
-
-Pasal 47 . . .
-
-
+#### Pasal 47 ^penjelasan-pasal-47
 -----
 
-                   - 13 
-Pasal 47
-
+                   - 13
+#### Pasal 47 ^penjelasan-pasal-47-2
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Ayat (1)
 
 Yang dimaksud dengan "retensi sendiri" adalah bagian dari jumlah
@@ -2678,9 +2515,7 @@ Syariah.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Ayat (1)
 
 Cukup jelas.
@@ -2694,9 +2529,7 @@ Lembaga Penjamin pada waktu tertentu.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Ayat (1)
 
 Asosiasi Lembaga Penjamin merupakan kumpulan Lembaga
@@ -2706,13 +2539,9 @@ dalam memajukan perekonomian nasional.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Cukup jelas.
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Ayat (1)
 
 Huruf a
@@ -2752,29 +2581,21 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 54
+#### Pasal 54 ^penjelasan-pasal-54
 Cukup jelas.
-
-Pasal 55
+#### Pasal 55 ^penjelasan-pasal-55
 Cukup jelas.
-
-Pasal 56
+#### Pasal 56 ^penjelasan-pasal-56
 Cukup jelas.
-
-Pasal 57
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
-
-Pasal 58
+#### Pasal 58 ^penjelasan-pasal-58
 Cukup jelas.
-
-Pasal 59
+#### Pasal 59 ^penjelasan-pasal-59
 Cukup jelas.
-
-Pasal 60
+#### Pasal 60 ^penjelasan-pasal-60
 Cukup jelas.
-
-Pasal 61
+#### Pasal 61 ^penjelasan-pasal-61
 Ayat (1)
 
 Kegiatan penjaminan berdasarkan Undang-Undang ini melibatkan
@@ -2793,17 +2614,13 @@ Ayat (2) . . .
                       - 15 
 Ayat (2)
 Cukup jelas.
-
-Pasal 62
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
-
-Pasal 63
+#### Pasal 63 ^penjelasan-pasal-63
 Cukup jelas.
-
-Pasal 64
+#### Pasal 64 ^penjelasan-pasal-64
 Cukup jelas.
-
-Pasal 65
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5835
@@ -2811,3 +2628,77 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5835
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-2]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 22 | [[#^penjelasan-pasal-22-2]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 29 | [[#^penjelasan-pasal-29-2]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 40 | [[#^penjelasan-pasal-40-2]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 47 | [[#^penjelasan-pasal-47-2]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |

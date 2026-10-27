@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Tata Cara Pendaftaran Jaminan Fidusia dan Biaya Pembuatan Akta Jaminan Fidusia
+**Tata Cara Pendaftaran Jaminan Fidusia dan Biaya Pembuatan Akta Jaminan Fidusia**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -34,9 +40,7 @@ last_updated: 2026-10-28
 
 > Sumber: [JDIH BPK](https://peraturan.bpk.go.id/Details/5585/pp-no-21-tahun-2015)
 
-
-# SALINAN
-
+**SALINAN**
 
 PERATURAN PEMERINTAH REPUBLIK INDONESIA
 
@@ -89,14 +93,13 @@ AKTA JAMINAN FIDUSIA.
 
 BAB I . . .
 
-
 -----
 
-             - 2 
+             - 2
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Pemerintah ini yang dimaksud dengan:
 
@@ -131,7 +134,7 @@ Fidusia sesuai dengan ketentuan peraturan perundangundangan.
 6. Menteri adalah menteri yang menyelenggarakan urusan
 pemerintahan di bidang hukum dan hak asasi manusia.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 (1) Permohonan pendaftaran Jaminan Fidusia, permohonan
 
@@ -142,10 +145,9 @@ Penerima Fidusia, kuasa atau wakilnya kepada Menteri.
 
 (2) Permohonan . . .
 
-
 -----
 
-             - 3 
+             - 3
 (2) Permohonan sebagaimana dimaksud pada ayat (1)
 diajukan melalui sistem pendaftaran Jaminan Fidusia
 secara elektronik.
@@ -153,7 +155,7 @@ secara elektronik.
 BAB II
 PENDAFTARAN JAMINAN FIDUSIA
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 Permohonan pendaftaran Jaminan Fidusia sebagaimana
 dimaksud dalam Pasal 2 memuat:
@@ -172,14 +174,14 @@ e. nilai penjaminan; dan
 
 f. nilai benda yang menjadi obyek Jaminan Fidusia.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 Permohonan pendaftaran Jaminan Fidusia sebagaimana
 dimaksud dalam Pasal 3 diajukan dalam jangka waktu paling
 lama 30 (tiga puluh) hari terhitung sejak tanggal pembuatan
 akta Jaminan Fidusia.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 (1) Permohonan pendaftaran Jaminan Fidusia yang telah
 
@@ -198,17 +200,16 @@ c. nama pemohon;
 
 d. nama . . .
 
-
 -----
 
-             - 4 
+             - 4
 d. nama Kantor Pendaftaran Fidusia;
 
 e. jenis permohonan; dan
 
 f. biaya pendaftaran Jaminan Fidusia.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 (1) Pemohon melakukan pembayaran biaya pendaftaran
 
@@ -221,7 +222,7 @@ ayat (2).
 setelah pemohon melakukan pembayaran biaya
 pendaftaran Jaminan Fidusia.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 (1) Jaminan Fidusia lahir pada tanggal yang sama dengan
 
@@ -231,12 +232,12 @@ dalam Pasal 6 ayat (2).
 (2) Sertifikat Jaminan Fidusia ditandatangani secara
 elektronik oleh Pejabat pada Kantor Pendaftaran Fidusia.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
 Sertifikat Jaminan Fidusia dapat dicetak pada tanggal yang
 sama dengan tanggal Jaminan Fidusia dicatat.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 
 (1) Dalam hal terjadi kesalahan pengisian data dalam
 
@@ -257,10 +258,9 @@ akan diperbaiki;
 
 b. data . . .
 
-
 -----
 
-             - 5 
+             - 5
 b. data perbaikan; dan
 
 c. keterangan perbaikan.
@@ -277,7 +277,7 @@ Fidusia; dan
 
 c. salinan akta Jaminan Fidusia.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 Permohonan perbaikan sertifikat Jaminan Fidusia
 sebagaimana dimaksud dalam Pasal 9 diajukan dalam jangka
@@ -287,7 +287,7 @@ sertifikat Jaminan Fidusia diterbitkan.
 BAB III
 PERUBAHAN SERTIFIKAT JAMINAN FIDUSIA
 
-Pasal 11
+### Pasal 11 ^pasal-11
 
 (1) Dalam hal terjadi kesalahan pengisian atau perubahan
 
@@ -310,11 +310,10 @@ d. keterangan perubahan.
 
 Pasal 12 . . .
 
-
 -----
 
-             - 6 
-Pasal 12
+             - 6
+### Pasal 12 ^pasal-12
 
 (1) Permohonan perubahan sertifikat Jaminan Fidusia yang
 
@@ -337,7 +336,7 @@ e. jenis permohonan; dan
 f. biaya permohonan perubahan sertifikat Jaminan
 Fidusia.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 (1) Pemohon melakukan pembayaran biaya permohonan
 
@@ -350,7 +349,7 @@ dimaksud dalam Pasal 12 ayat (2).
 setelah pemohon melakukan pembayaran sebagaimana
 dimaksud pada ayat (1).
 
-Pasal 14
+### Pasal 14 ^pasal-14
 
 (1) Sertifikat perubahan atas sertifikat Jaminan Fidusia
 
@@ -363,21 +362,20 @@ dapat dicetak pada tanggal yang sama dengan tanggal
 permohonan perubahan sertifikat Jaminan Fidusia
 dicatat.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 Sertifikat perubahan ditandatangani secara elektronik oleh
 Pejabat pada Kantor Pendaftaran Fidusia.
 
 BAB IV . . .
 
-
 -----
 
-             - 7 
+             - 7
 BAB IV
 PENGHAPUSAN JAMINAN FIDUSIA
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 (1) Jaminan Fidusia hapus karena:
 
@@ -409,7 +407,7 @@ c. nama dan tempat kedudukan notaris; dan
 
 d. tanggal hapusnya Jaminan Fidusia.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 
 (1) Berdasarkan pemberitahuan penghapusan sebagaimana
 
@@ -426,14 +424,13 @@ yang bersangkutan tidak dapat didaftarkan kembali.
 
 BAB V . . .
 
-
 -----
 
-             - 8 
+             - 8
 BAB V
 BIAYA PEMBUATAN AKTA JAMINAN FIDUSIA
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 Pembuatan akta Jaminan Fidusia dikenakan biaya yang
 besarnya ditentukan berdasarkan nilai penjaminan, dengan
@@ -458,7 +455,7 @@ antara notaris dengan para pihak, tetapi tidak melebihi
 BAB VI
 KETENTUAN LAIN-LAIN
 
-Pasal 19
+### Pasal 19 ^pasal-19
 
 Seluruh data yang diisi dalam permohonan pendaftaran
 Jaminan Fidusia, permohonan perbaikan sertifikat Jaminan
@@ -470,11 +467,10 @@ wakilnya.
 
 Pasal 20 . . .
 
-
 -----
 
-             - 9 
-Pasal 20
+             - 9
+### Pasal 20 ^pasal-20
 
 (1) Seluruh data yang tersimpan dalam pangkalan data
 
@@ -489,7 +485,7 @@ data pendaftaran Jaminan Fidusia.
 BAB VII
 KETENTUAN PERALIHAN
 
-Pasal 21
+### Pasal 21 ^pasal-21
 
 Jaminan Fidusia yang telah didaftarkan sebelum Peraturan
 Pemerintah ini mulai berlaku, pemberitahuan
@@ -499,7 +495,7 @@ Peraturan Pemerintah ini.
 BAB VIII
 KETENTUAN PENUTUP
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan
 Pemerintah Nomor 86 Tahun 2000 tentang Tata Cara
@@ -509,17 +505,16 @@ Nomor 170 Tahun 2000, Tambahan Lembaran Negara
 Republik Indonesia Nomor 4005), dicabut dan dinyatakan
 tidak berlaku.
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 Peraturan Pemerintah ini mulai berlaku pada tanggal
 diundangkan.
 
 Agar . . .
 
-
 -----
 
-                     - 10 
+                     - 10
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Peraturan Pemerintah ini dengan
 penempatannya dalam Lembaran Negara Republik Indonesia.
@@ -544,10 +539,11 @@ YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 80
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 
@@ -560,8 +556,6 @@ TENTANG
 TATA CARA PENDAFTARAN JAMINAN FIDUSIA DAN
 
 BIAYA PEMBUATAN AKTA JAMINAN FIDUSIA
-
-I. UMUM
 
 Undang-Undang Nomor 42 Tahun 1999 tentang Jaminan Fidusia
 menegaskan bahwa benda yang dibebani dengan Jaminan Fidusia wajib
@@ -594,10 +588,9 @@ Fidusia dan Biaya Pembuatan Akta Jaminan Fidusia.
 
 Substansi . . .
 
-
 -----
 
-                        - 2 
+                        - 2
 Substansi yang diatur dalam Peraturan Pemerintah ini antara lain
 mengenai permohonan pendaftaran Jaminan Fidusia, perbaikan sertifikat
 Jaminan Fidusia, perubahan sertifikat Jaminan Fidusia, pemberitahuan
@@ -649,10 +642,9 @@ Cukup jelas.
 
 Pasal 3 . . .
 
-
 -----
 
-                     - 3 
+                     - 3
 Pasal 3
 
 Huruf a
@@ -712,10 +704,9 @@ wakilnya.
 
 Pasal 9 . . .
 
-
 -----
 
-                     - 4 
+                     - 4
 Pasal 9
 
 Ayat (1)
@@ -777,10 +768,9 @@ Cukup jelas.
 
 Pasal 18 . . .
 
-
 -----
 
-                        - 5 
+                        - 5
 Pasal 18
 
 Cukup jelas.
@@ -805,6 +795,4 @@ Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5691
 
-
 -----
-

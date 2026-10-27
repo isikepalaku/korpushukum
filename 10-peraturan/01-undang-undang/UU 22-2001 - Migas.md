@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Minyak dan Gas Bumi
+**Minyak dan Gas Bumi**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -36,7 +42,7 @@ last_updated: 2026-10-28
 
 PRESIDEN REPUBLIK INDONESIA
 
-## UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 22 TAHUN 2001 TENTANG MINYAK DAN GAS BUMI
+**UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 22 TAHUN 2001 TENTANG MINYAK DAN GAS BUMI**
 
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 
@@ -69,7 +75,7 @@ Menetapkan: UNDANG-UNDANGTENTANGMINYAKDANGASBUMI.
 
 BAB I KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-undang ini yang dimaksud dengan:
 
@@ -110,11 +116,11 @@ serta bekerja dan berkedudukan dalam wilayah Negara Kesatuan Republik Indonesia;
 24. BadanPengaturadalahsuatubadanyangdibentukuntukmelakukanpengaturandan pengawasan terhadap penyediaan dan pendistribusian Bahan Bakar Minyak dan Gas Bumi pada Kegiatan Usaha Hilir;
 25. MenteriadalahmenteriyangbidangtugasdantanggungjawabnyameliputikegiatanusahaMinyak dan Gas Bumi.
 
-## BAB II
+**BAB II**
 
-## AZAS DAN TUJUAN
+**AZAS DAN TUJUAN**
 
-## Pasal 2
+### Pasal 2 ^pasal-2
 
 Penyelenggaraan kegiatan usaha Minyak dan Gas Bumi yang diatur dalam Undang-undang ini berasaskan ekonomi kerakyatan, keterpaduan, manfaat, keadilan, keseimbangan, pemerataan, kemakmuran bersama dan kesejahteraan rakyat banyak, keamanan, keselamatan, dan kepastian hukum serta berwawasan lingkungan.
 
@@ -122,7 +128,7 @@ Penyelenggaraan kegiatan usaha Minyak dan Gas Bumi yang diatur dalam Undang-unda
 
 REPUBLIK INDONESIA
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 Penyelenggaraan kegiatan usaha Minyak dan Gas Bumi bertujuan:
 
@@ -135,7 +141,7 @@ Penyelenggaraan kegiatan usaha Minyak dan Gas Bumi bertujuan:
 
 BAB III PENGUASAAN DAN PENGUSAHAAN
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 (1) MinyakdanGasBumisebagaisumberdayaalamstrategistakterbarukanyangterkandungdi dalam Wilayah Hukum Pertambangan Indonesia merupakan kekayaan nasional yang dikuasai oleh negara. (2) Penguasaanolehnegarasebagaimanadimaksuddalamayat(1)diselenggarakanolehPemerintah sebagai pemegang Kuasa Pertambangan. (3) PemerintahsebagaipemegangKuasaPertambanganmembentukBadanPelaksanasebagaimana dimaksud dalam Pasal 1 angka 23.
 
@@ -143,11 +149,11 @@ Pasal 3 …
 
 <!-- image -->
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 Kegiatan usaha Minyak dan Gas Bumi terdiri atas: 1. Kegiatan Usaha Hulu yang mencakup: a. Eksplorasi; b. Eksploitasi. 2. Kegiatan Usaha Hilir yang mencakup: a. Pengolahan; b. Pengangkutan; c. Penyimpanan; d. Niaga.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 - (1) KegiatanUsahaHulusebagaimanadimaksuddalamPasal5angka1dilaksanakandan
 
@@ -155,7 +161,7 @@ dikendalikan melalui Kontrak Kerja Sama sebagaimana dimaksud dalam Pasal 1 angka
 
 - c. modaldanrisikoseluruhnyaditanggungBadanUsahaatauBentukUsahaTetap.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 - (1) KegiatanUsahaHilirsebagaimanadimaksuddalamPasal5angka2dilaksanakandenganIzin
 
@@ -163,7 +169,7 @@ Usaha sebagaimana dimaksud dalam Pasal 1 angka 20. (2) KegiatanUsahaHilirsebagai
 
 - mekanisme persaingan usaha yang wajar, sehat, dan transparan.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
 - (1) PemerintahmemberikanprioritasterhadappemanfaatanGasBumiuntukkebutuhandalamnegeri dan bertugas menyediakan cadangan strategis Minyak Bumi guna mendukung penyediaan Bahan
 
@@ -185,13 +191,13 @@ pengusahaannya diatur agar pemanfaatannya terbuka bagi semua pemakai.
 
 - (4) Pemerintahbertanggungjawabataspengaturandanpengawasankegiatanusahasebagaimana dimaksud dalam ayat (2) dan ayat (3) yang pelaksanaannya dilakukan oleh Badan Pengatur.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 
 (1) KegiatanUsahaHuludanKegiatanUsahaHilirsebagaimanadimaksuddalamPasal5angka1 dan angka 2 dapat dilaksanakan oleh: a. badan usaha milik negara; b. badan usaha milik daerah; c. koperasi; usaha kecil; d. badan usaha swasta.
 
 - (2) BentukUsahaTetaphanyadapatmelaksanakanKegiatanUsahaHulu.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 - (1) BadanUsahaatauBentukUsahaTetapyangmelakukanKegiatanUsahaHuludilarang
 
@@ -226,13 +232,13 @@ Usaha atau Bentuk Usaha Tetap berdasarkan Kontrak Kerja Sama dengan Badan Pelaks
 - p. pengembangan masyarakat sekitarnya dan jaminan hak-hak masyarakat adat;
 - q. pengutamaan penggunaan tenaga kerja Indonesia.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 - (1) WilayahKerjayangakanditawarkankepadaBadanUsahaatauBentukUsahaTetapditetapkan oleh Menteri setelah berkonsultasi dengan Pemerintah Daerah.
 - (2) PenawaranWilayahKerjasebagaimanadimaksuddalamayat(1)dilakukanolehMenteri.
 - (3) MenterimenetapkanBadanUsahaatauBentukUsahaTetapyangdiberiwewenangmelakukan kegiatan usaha Eksplorasi dan Eksploitasi pada Wilayah Kerja sebagaimana dimaksud dalam ayat (2).
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 - (1) KepadasetiapBadanUsahaatauBentukUsahaTetaphanyadiberikan1(satu)WilayahKerja.
 - (2) DalamhalBadanUsahaatauBentukUsahaTetapmengusahakanbeberapaWilayahKerja,harus dibentuk badan hukum yang terpisah untuk setiap Wilayah Kerja.
@@ -245,7 +251,7 @@ PRESIDEN
 
 REPUBLIK INDONESIA - 9 -
 
-Pasal 14
+### Pasal 14 ^pasal-14
 
 (1) Jangka waktu Kontrak Kerja Sama sebagaimana dimaksud dalam Pasal 11 ayat (1) dilaksanakan paling lama 30 (tiga puluh) tahun.
 
@@ -253,25 +259,25 @@ Pasal 14
 
 Pasal 15 …
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 (1) KontrakKerjaSamasebagaimanadimaksuddalamPasal14ayat(1)terdiriatasjangkawaktu Eksplorasi dan jangka waktu Eksploitasi. (2) Jangka waktu Eksplorasi sebagaimana dimaksud dalam ayat (1) dilaksanakan 6 (enam) tahun dan
 
 - dapat diperpanjang hanya 1 (satu) kali periode yang dilaksanakan paling lama 4 (empat) tahun.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 Badan Usaha atau Bentuk Usaha Tetap wajib mengembalikan sebagian Wilayah Kerjanya secara bertahap atau seluruhnya kepada Menteri.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 
 Dalam hal Badan Usaha atau Bentuk Usaha Tetap yang telah mendapatkan persetujuan pengembangan lapangan yang pertama dalam suatu Wilayah Kerja tidak melaksanakan kegiatannya dalam jangka waktu paling lama 5 (lima) tahun sejak berakhirnya jangka waktu Eksplorasi wajib mengembalikan seluruh Wilayah Kerjanya kepada Menteri.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 Pedoman, tata cara, dan syarat-syarat mengenai Kontrak Kerja Sama, penetapan dan penawaran Wilayah Kerja, perubahan dan perpanjangan Kontrak Kerja Sama, serta pengembalian Wilayah Kerja sebagaimana dimaksud dalam Pasal 11, Pasal 12, Pasal 13, Pasal 14, Pasal 15, Pasal 16, dan Pasal 17 diatur lebih lanjut dalam Peraturan Pemerintah.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 
 <!-- image -->
 
@@ -281,13 +287,13 @@ REPUBLIK INDONESIA
 
 - diatur lebih lanjut dengan Peraturan Pemerintah.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 
 (1) DatayangdiperolehdariSurveiUmumdan/atauEksplorasidanEksploitasiadalahmiliknegara yang dikuasai oleh Pemerintah. (2) DatayangdiperolehBadanUsahaatauBentukUsahaTetapdiWilayahKerjanyadapatdigunakan oleh Badan Usaha atau Bentuk Usaha Tetap dimaksud selama jangka waktu Kontrak Kerja Sama. (3) ApabilaKontrakKerjaSamaberakhir,BadanUsahaatauBentukUsahaTetapwajibmenyerahkan seluruh data yang diperoleh selama masa Kontrak Kerja Sama kepada Menteri melalui Badan Pelaksana. (4) KerahasiaandatayangdiperolehBadanUsahaatauBentukUsahaTetapdiWilayahKerjaberlaku selama jangka waktu yang ditentukan. (5) Pemerintahmengatur,mengelola,danmemanfaatkandatasebagaimanadimaksuddalamayat(1) dan ayat (2) untuk merencanakan penyiapan pembukaan Wilayah Kerja. (6) Pelaksanaan ketentuan mengenai kepemilikan, jangka waktu penggunaan, kerahasiaan, pengelolaan, dan pemanfaatan data sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), ayat
 
 - (4), dan ayat (5) diatur lebih lanjut dengan Peraturan Pemerintah.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 
 (1) RencanapengembanganlapanganyangpertamakaliakandiproduksikandalamsuatuWilayah Kerja wajib mendapatkan persetujuan Menteri berdasarkan pertimbangan dari Badan Pelaksana dan setelah berkonsultasi dengan Pemerintah Daerah Provinsi yang bersangkutan. (2) DalammengembangkandanmemproduksilapanganMinyakdanGasBumi,BadanUsahaatau
 
@@ -305,7 +311,7 @@ Pasal 22 …
 
 PRESIDEN REPUBLIK INDONESIA
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 - (1) BadanUsahaatauBentukUsahaTetapwajibmenyerahkanpalingbanyak25%(duapuluhlima persen) bagiannya dari hasil produksi Minyak Bumi dan/atau Gas Bumi untuk memenuhi
 - (2) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan
@@ -314,12 +320,12 @@ BAB V
 
 KEGIATAN USAHA HILIR
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 - (1) KegiatanUsahaHilirsebagaimanadimaksuddalamPasal5angka2,dapatdilaksanakanoleh Badan Usaha setelah mendapat Izin Usaha dari Pemerintah. (2) Izin Usaha yang diperlukan untuk kegiatan usaha Minyak Bumi dan/atau kegiatan usaha Gas Bumi sebagaimana dimaksud dalam ayat (1) dibedakan atas: a. Izin Usaha Pengolahan; b. Izin Usaha Pengangkutan; c. Izin Usaha Penyimpanan; d. Izin Usaha Niaga. (3) SetiapBadanUsahadapatdiberilebihdari1(satu)IzinUsahasepanjangtidakbertentangan
 2. dengan ketentuan peraturan perundang-undangan yang berlaku.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 
 kebutuhan dalam negeri. Peraturan Pemerintah.
 
@@ -333,7 +339,7 @@ PRESIDEN REPUBLIK INDONESIA
 
 Pasal 25 …
 
-Pasal 25
+### Pasal 25 ^pasal-25
 
 - (1) Pemerintahdapatmenyampaikantegurantertulis,menangguhkankegiatan,membekukan kegiatan, atau mencabut Izin Usaha sebagaimana dimaksud dalam Pasal 23 berdasarkan:
 - a. pelanggaran terhadap salah satu persyaratan yang tercantum dalam Izin Usaha;
@@ -341,11 +347,11 @@ Pasal 25
 - c. tidak memenuhi persyaratan yang ditetapkan berdasarkan Undang-undang ini.
 - (2) Sebelummelaksanakanpencabutan IzinUsahasebagaimanadimaksuddalamayat (1), Pemerintah terlebih dahulu memberikan kesempatan selama jangka waktu tertentu kepada Badan Usaha untuk meniadakan pelanggaran yang telah dilakukan atau pemenuhan persyaratan yang ditetapkan.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 
 Terhadap kegiatan pengolahan lapangan, pengangkutan, penyimpanan, dan penjualan hasil produksi sendiri sebagai kelanjutan dari Eksplorasi dan Eksploitasi yang dilakukan Badan Usaha atau Bentuk Usaha Tetap tidak diperlukan Izin Usaha tersendiri sebagaimana dimaksud dalam Pasal 23.
 
-Pasal 27
+### Pasal 27 ^pasal-27
 
 - (1) Menterimenetapkanrencanaindukjaringantransmisidandistribusigasbuminasional.
 - (2) TerhadapBadanUsahapemegangIzinUsahaPengangkutanGasBumimelaluijaringanpipa hanya dapat diberikan ruas Pengangkutan tertentu.
@@ -357,13 +363,13 @@ diberikan wilayah Niaga tertentu.
 
 REPUBLIK INDONESIA
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
 (1) BahanBakarMinyaksertahasilolahantertentuyangdipasarkandidalamnegeriuntukmemenuhi kebutuhan masyarakat wajib memenuhi standar dan mutu yang ditetapkan oleh Pemerintah. (2) HargaBahanBakarMinyakdanhargaGasBumidiserahkanpadamekanismepersainganusaha yang sehat dan wajar. (3) Pelaksanaankebijaksanaanhargasebagaimanadimaksuddalamayat(2)tidakmengurangi
 
 - tanggung jawab sosial Pemerintah terhadap golongan masyarakat tertentu.
 
-Pasal 29
+### Pasal 29 ^pasal-29
 
 - (1) PadawilayahyangmengalamiklangkaanBahanBakarMinyakdanpadadaerah-daerahterpencil, fasilitas Pengangkutan dan Penyimpanan termasuk fasilitas penunjangnya, dapat dimanfaatkan
 
@@ -371,7 +377,7 @@ bersama pihak lain. (2) Pelaksanaanpemanfaatanfasilitassebagaimanadimaksuddalama
 
 - Pengatur dengan tetap mempertimbangkan aspek teknis dan ekonomis.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 
 Ketentuan mengenai usaha Pengolahan, Pengangkutan, Penyimpanan, dan Niaga sebagaimana dimaksud dalam Pasal 23, Pasal 24, Pasal 25, Pasal 26, Pasal 27, Pasal 28, dan Pasal 29 diatur lebih lanjut dengan Peraturan Pemerintah.
 
@@ -400,13 +406,13 @@ Pasal 29 …
 
 - ketentuan peraturan perundang-undangan yang berlaku.
 
-Pasal 32
+### Pasal 32 ^pasal-32
 
 Badan Usaha yang melaksanakan Kegiatan Usaha Hilir sebagaimana dimaksud dalam Pasal 23 wajib membayar pajak, bea masuk dan pungutan lain atas impor, cukai, pajak daerah dan retribusi daerah, serta kewajiban lain sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
-## BAB VII HUBUNGAN KEGIATAN USAHA MINYAK DAN GAS BUMI DENGAN HAK ATAS TANAH
+**BAB VII HUBUNGAN KEGIATAN USAHA MINYAK DAN GAS BUMI DENGAN HAK ATAS TANAH**
 
-Pasal 33
+### Pasal 33 ^pasal-33
 
 - (1) KegiatanusahaMinyakdanGasBumisebagaimanadimaksuddalamPasal5dilaksanakandi dalam Wilayah Hukum Pertambangan Indonesia.
 - (2) HakatasWilayahKerjatidakmeliputihakatastanahpermukaanbumi.
@@ -425,19 +431,19 @@ PRESIDEN REPUBLIK INDONESIA
 
 Pasal 34 …
 
-Pasal 34
+### Pasal 34 ^pasal-34
 
 (1) DalamhalBadanUsahaatauBentukUsahaTetapakanmenggunakanbidang-bidangtanahhak atau tanah negara di dalam Wilayah Kerjanya, Badan Usaha atau Bentuk Usaha Tetap yang bersangkutan wajib terlebih dahulu mengadakan penyelesaian dengan pemegang hak atau pemakai tanah di atas tanah negara, sesuai dengan ketentuan peraturan perundang-undangan yang berlaku. (2) Penyelesaiansebagaimanadimaksuddalamayat(1)dilakukansecaramusyawarahdanmufakat dengan cara jual beli, tukar-menukar, ganti rugi yang layak, pengakuan atau bentuk penggantian
 
 - lain kepada pemegang hak atau pemakai tanah di atas tanah negara.
 
-Pasal 35
+### Pasal 35 ^pasal-35
 
 Pemegang hak atas tanah diwajibkan mengizinkan Badan Usaha atau Bentuk Usaha Tetap untuk
 
 - melaksanakan Eksplorasi dan Eksploitasi di atas tanah yang bersangkutan, apabila: a. sebelum kegiatan dimulai, terlebih dahulu memperlihatkan Kontrak Kerja Sama atau salinannya yang sah, serta memberitahukan maksud dan tempat kegiatan yang akan dilakukan; b. dilakukan terlebih dahulu penyelesaian atau jaminan penyelesaian yang disetujui oleh pemegang hak atas tanah atau pemakai tanah di atas tanah negara sebagaimana dimaksud dalam Pasal 34.
 
-Pasal 36
+### Pasal 36 ^pasal-36
 
 <!-- image -->
 
@@ -447,7 +453,7 @@ PRESIDEN REPUBLIK INDONESIA
 
 - setelah mendapat rekomendasi dari Menteri.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 
 Ketentuan mengenai tata cara penyelesaian penggunaan tanah hak atau tanah negara sebagaimana dimaksud dalam Pasal 35 diatur lebih lanjut dengan Peraturan Pemerintah.
 
@@ -455,11 +461,11 @@ BAB VIII
 
 PEMBINAAN DAN PENGAWASAN Bagian Kesatu Pembinaan
 
-Pasal 38
+### Pasal 38 ^pasal-38
 
 Pembinaan terhadap kegiatan usaha Minyak dan Gas Bumi dilakukan oleh Pemerintah.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 
 (1) PembinaansebagaimanadimaksuddalamPasal38meliputi: a. penyelenggaraan urusan Pemerintah di bidang kegiatan usaha Minyak dan Gas Bumi; b. penetapan kebijakan mengenai kegiatan usaha Minyak dan Gas Bumi berdasarkan cadangan dan potensi sumber daya Minyak dan Gas Bumi yang dimiliki, kemampuan
 
@@ -473,7 +479,7 @@ produksi, kebutuhan Bahan Bakar Minyak dan Gas Bumi dalam negeri, penguasaan tek
 
 - transparan, dan adil terhadap pelaksanaan kegiatan usaha Minyak dan Gas Bumi.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 
 (1) BadanUsahaatauBentukUsahaTetapmenjaminstandardanmutuyangberlakusesuaidengan ketentuan peraturan perundang-undangan yang berlaku serta menerapkan kaidah keteknikan yang baik. (2) BadanUsahaatauBentukUsahaTetapmenjaminkeselamatandankesehatankerjaserta pengelolaan lingkungan hidup dan menaati ketentuan peraturan perundangan-undangan yang
 
@@ -484,7 +490,7 @@ Pasal 40
 
 Bagian Kedua Pengawasan
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
 - (1) TanggungjawabkegiatanpengawasanataspekerjaandanpelaksanaankegiatanusahaMinyak
 
@@ -496,7 +502,7 @@ danGasBumi terhadapditaatinyaketentuanperaturanperundang-undanganyangberlakubera
 
 - Badan Pengatur.
 
-Pasal 42
+### Pasal 42 ^pasal-42
 
 Pengawasan sebagaimana dimaksud dalam Pasal 41 ayat (1) meliputi:
 
@@ -514,7 +520,7 @@ Pengawasan sebagaimana dimaksud dalam Pasal 41 ayat (1) meliputi:
 - l. l. penguasaan, pengembangan, dan penerapan teknologi Minyak dan Gas Bumi;
 - m. kegiatan-kegiatan lain di bidang kegiatan usaha Minyak dan Gas Bumi sepanjang menyangkut kepentingan umum.
 
-Pasal 43
+### Pasal 43 ^pasal-43
 
 Ketentuan mengenai pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 38, Pasal 39, Pasal 41, dan Pasal 42 diatur lebih lanjut dengan Peraturan Pemerintah.
 
@@ -526,7 +532,7 @@ BAB IX BADAN PELAKSANA DAN BADAN PENGATUR
 
 REPUBLIK INDONESIA
 
-Pasal 44
+### Pasal 44 ^pasal-44
 
 - (1) PengawasanterhadappelaksanaanKontrakKerjaSamaKegiatanUsahaHulusebagaimana dimaksud dalam Pasal 5 angka 1 dilaksanakan oleh Badan Pelaksana sebagaimana dimaksud dalamPasal 4 ayat (3). (2) FungsiBadanPelaksanasebagaimanadimaksuddalamayat(1)melakukanpengawasanterhadap Kegiatan Usaha Hulu agar pengambilan sumber daya alam Minyak dan Gas Bumi milik negara dapat memberikan manfaat dan penerimaan yang maksimal bagi negara untuk sebesar-besar kemakmuran rakyat. (3) TugasBadanPelaksanasebagaimanadimaksuddalamayat(1)adalah: a. memberikanpertimbangankepadaMenteriataskebijaksanaannyadalamhalpenyiapan dan penawaran Wilayah Kerja serta Kontrak Kerja Sama; b. melaksanakanpenandatangananKontrakKerjaSama; c. mengkajidanmenyampaikanrencanapengembanganlapanganyangpertamakaliakan
 2. diproduksikan dalam suatu Wilayah Kerja kepada Menteri untuk mendapatkan persetujuan;
@@ -538,13 +544,13 @@ d. memberikan…
 - f. melaksanakanmonitoringdanmelaporkankepadaMenterimengenaipelaksanaanKontrak Kerja Sama;
 - g. menunjukpenjualMinyakBumidan/atauGasBumibagiannegarayangdapatmemberikan keuntungan sebesar-besarnya bagi negara.
 
-Pasal 45
+### Pasal 45 ^pasal-45
 
 - (1) BadanPelaksanasebagaimanadimaksuddalamPasal4ayat(3)merupakanbadanhukummilik negara.
 - (2) BadanPelaksanaterdiriatasunsurpimpinan,tenagaahli,tenagateknis,dantenagaadministratif.
 - (3) KepalaBadanPelaksanadiangkatdandiberhentikanolehPresidensetelahberkonsultasidengan Dewan Perwakilan Rakyat Republik Indonesia dan dalam melaksanakan tugasnya bertanggung jawab kepada Presiden.
 
-Pasal 46
+### Pasal 46 ^pasal-46
 
 <!-- image -->
 
@@ -561,7 +567,7 @@ Pasal 46
 
 Pasal 47 …
 
-## Pasal 47
+### Pasal 47 ^pasal-47
 
 - (1) StrukturBadanPengatursebagaimanadimaksuddalamPasal8ayat(4)terdiriataskomitedan bidang.
 - (2) Komitesebagaimanadimaksuddalamayat(1)terdiriatas1(satu)orangketuamerangkap anggota dan 8 (delapan) orang anggota, yang berasal dari tenaga profesional.
@@ -569,7 +575,7 @@ Pasal 47 …
 - (4) BadanPengatursebagaimanadimaksuddalamPasal8ayat(4)bertanggungjawabkepada Presiden.
 - (5) PembentukanBadanPengatursebagaimanadimaksuddalamPasal8ayat(4)ditetapkandengan Keputusan Presiden.
 
-Pasal 48
+### Pasal 48 ^pasal-48
 
 <!-- image -->
 
@@ -577,7 +583,7 @@ PRESIDEN REPUBLIK INDONESIA
 
 (1) AnggaranbiayaoperasionalBadanPelaksanasebagaimanadimaksuddalamPasal45didasarkan pada imbalan (fee) dari Pemerintah sesuai dengan peraturan perundang-undangan yang berlaku. (2) AnggaranbiayaoperasionalBadanPengatursebagaimanadimaksuddalamPasal46didasarkan pada Anggaran Pendapatan dan Belanja Negara dan iuran dari Badan Usaha yang diaturnya sesuai dengan peraturan perundang-undangan yang berlaku.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 
 Ketentuan mengenai struktur organisasi, status, fungsi, tugas, personalia, wewenang dan tanggung jawab serta mekanisme kerja Badan Pelaksana dan Badan Pengatur sebagaimana dimaksud dalam Pasal 41, Pasal 42, Pasal 43, Pasal 44, Pasal 45, Pasal 46, Pasal 47, dan Pasal 48 diatur lebih lanjut dengan Peraturan Pemerintah.
 
@@ -603,17 +609,17 @@ pidana dalam kegiatan usaha Minyak dan Gas Bumi; e. melakukanpemeriksaansaranada
 
 - ketentuan peraturan perundang-undangan yang berlaku.
 
-## BAB XI
+**BAB XI**
 
-## KETENTUAN PIDANA
+**KETENTUAN PIDANA**
 
-Pasal 51
+### Pasal 51 ^pasal-51
 
 - (1) SetiaporangyangmelakukanSurveiUmumsebagaimanadimaksuddalamPasal19ayat(1)
 
 tanpa hak dipidana dengan pidana kurungan paling lama 1 (satu) tahun atau denda paling tinggi Rp10.000.000.000,00 (sepuluh miliar rupiah). (2) Setiaporangyangmengirimataumenyerahkanataumemindahtangankandatasebagaimana dimaksud dalam Pasal 20 tanpa hak dalam bentuk apa pun dipidana dengan pidana kurungan paling lama 1 (satu) tahun atau denda paling tinggi Rp10.000.000.000,00 (sepuluh miliar rupiah).
 
-Pasal 52
+### Pasal 52 ^pasal-52
 
 Setiap orang yang melakukan Eksplorasi dan/atau Eksploitasi tanpa mempunyai Kontrak Kerja Sama
 
@@ -625,21 +631,21 @@ PRESIDEN REPUBLIK INDONESIA
 
 sebagaimana dimaksud dalam Pasal 11 ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling tinggi Rp60.000.000.000,00 (enam puluh miliar rupiah).
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
 - Setiap orang yang melakukan: a. Pengolahan sebagaimana dimaksud dalam Pasal 23 tanpa Izin Usaha Pengolahan dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling tinggi Rp50.000.000.000,00 (lima puluh miliar rupiah); b. Pengangkutan sebagaimana dimaksud dalam Pasal 23 tanpa Izin Usaha Pengangkutan dipidana dengan pidana penjara paling lama 4 (empat) tahun dan denda paling tinggi Rp40.000.000.000,00 (empat puluh miliar rupiah); c. Penyimpanan sebagaimana dimaksud dalam Pasal 23 tanpa Izin Usaha Penyimpanan dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan denda paling tinggi Rp30.000.000.000,00 (tiga puluh miliar rupiah); d. NiagasebagaimanadimaksuddalamPasal23tanpaIzinUsahaNiagadipidanadenganpidana penjara paling lama 3 (tiga) tahun dan denda paling tinggi Rp30.000.000.000,00 (tiga puluh miliar rupiah).
 
 Pasal 54 …
 
-Pasal 54
+### Pasal 54 ^pasal-54
 
 Setiap orang yang meniru atau memalsukan Bahan Bakar Minyak dan Gas Bumi dan hasil olahan sebagaimana dimaksud dalam Pasal 28 ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling tinggi Rp60.000.000.000,00 (enam puluh miliar rupiah).
 
-Pasal 55
+### Pasal 55 ^pasal-55
 
 Setiap orang yang menyalahgunakan Pengangkutan dan/atau Niaga Bahan Bakar Minyak yang disubsidi Pemerintah dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling tinggi Rp60.000.000.000,00 (enam puluh miliar rupiah).
 
-Pasal 56
+### Pasal 56 ^pasal-56
 
 Pada saat Undang-undang ini berlaku:
 
@@ -653,13 +659,13 @@ PRESIDEN REPUBLIK INDONESIA
 
 - (2) DalamhaltindakpidanadilakukanolehBadanUsahaatauBentukUsahaTetap,pidanayang dijatuhkan kepada Badan Usaha atau Bentuk Usaha Tetap tersebut adalah pidana denda, dengan ketentuan paling tinggi pidana denda ditambah sepertiganya.
 
-Pasal 57
+### Pasal 57 ^pasal-57
 
 (1) TindakpidanasebagaimanadimaksuddalamPasal51adalahpelanggaran.
 
 - (2) TindakpidanasebagaimanadimaksuddalamPasal52,Pasal53,Pasal54,danPasal55adalah kejahatan.
 
-Pasal 58
+### Pasal 58 ^pasal-58
 
 Selain ketentuan pidana sebagaimana dimaksud dalam Bab ini, sebagai pidana tambahan adalah pencabutanhakatauperampasanbarangyangdigunakanuntukatauyangdiperolehdari tindakpidana dalam kegiatan usaha Minyak dan Gas Bumi.
 
@@ -669,13 +675,13 @@ BAB XII
 
 KETENTUAN PERALIHAN
 
-Pasal 59
+### Pasal 59 ^pasal-59
 
 Pada saat Undang-undang ini berlaku: a. dalam jangka waktu paling lama 1 (satu) tahun dibentuk Badan Pelaksana;
 
 - b. dalam jangka waktu paling lama 1 (satu) tahun dibentuk Badan Pengatur.
 
-Pasal 60
+### Pasal 60 ^pasal-60
 
 Pada saat Undang-undang ini berlaku:
 
@@ -686,7 +692,7 @@ Pasal 62 … Pasal 62
 
 Pada saat Undang-undang ini berlaku Pertamina tetap melaksanakan tugas penyediaan dan pelayanan Bahan Bakar Minyak untuk keperluan dalam negeri sampai jangka waktu paling lama 4 (empat) tahun.
 
-Pasal 63
+### Pasal 63 ^pasal-63
 
 - Pada saat Undang-undang ini berlaku: a. dengan terbentuknya Badan Pelaksana, semua hak, kewajiban, dan akibat yang timbul dari Kontrak Bagi Hasil (Production Sharing Contract) antara Pertamina dan pihak lain beralih kepada Badan Pelaksana; b. dengan terbentuknya Badan Pelaksana, kontrak lain yang berkaitan dengan kontrak sebagaimana
 
@@ -700,7 +706,7 @@ Perusahaan Perseroan (Persero) dengan Peraturan Pemerintah; b. selama Persero se
 
 - c. saat terbentuknya Persero yang baru, kewajiban Pertamina sebagaimana dimaksud dalam huruf b, dialihkan kepada Persero yang bersangkutan.
 
-Pasal 61
+### Pasal 61 ^pasal-61
 
 - c.
 - d.
@@ -712,7 +718,7 @@ PRESIDEN REPUBLIK INDONESIA
 
 tersebut pada huruf a antara Pertamina dan pihak lain beralih kepada Badan Pelaksana; semua kontrak sebagaimana dimaksud pada huruf a dan huruf b dinyatakan tetap berlaku sampai dengan berakhirnya kontrak yang bersangkutan; hak, kewajiban, dan akibat yang timbul dari kontrak, perjanjian atau perikatan selain sebagaimana dimaksud pada huruf a dan huruf b tetap dilaksanakan oleh Pertamina sampai dengan terbentuknya Persero yang didirikan untuk itu dan beralih kepada Persero tersebut; pelaksanaan perundingan atau negosiasi antara Pertamina dan pihak lain dalam rangka kerja
 
-Pasal 64
+### Pasal 64 ^pasal-64
 
 Pada saat Undang-undang ini berlaku:
 
@@ -731,7 +737,7 @@ BAB XIV KETENTUAN PENUTUP
 
 <!-- image -->
 
-Pasal 66
+### Pasal 66 ^pasal-66
 
 - (1) DenganberlakunyaUndang-undangini,dinyatakantidakberlaku:
 - a. Undang-UndangNomor44Prp.Tahun1960tentangPertambanganMinyakdanGasBumi (Lembaran Negara Tahun 1960 Nomor 133, Tambahan Lembaran Negara Nomor 2070);
@@ -741,7 +747,7 @@ Pasal 66
 
 Pasal 67 …
 
-Pasal 67
+### Pasal 67 ^pasal-67
 
 Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
@@ -769,7 +775,9 @@ Penyusunan …
 
 PRESIDEN REPUBLIK INDONESIA
 
-## PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 22 TAHUN 2001 TENTANG MINYAK DAN GAS BUMI
+## Penjelasan
+
+### I. Umum
 
 <!-- image -->
 

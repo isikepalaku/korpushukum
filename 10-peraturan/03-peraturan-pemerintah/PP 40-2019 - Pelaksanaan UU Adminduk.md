@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Pelaksanaan UU Administrasi Kependudukan
+**Pelaksanaan UU Administrasi Kependudukan**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -63,7 +69,6 @@ Undang-Undang Nomor 23 Tahun 2006 tentang
 Administrasi Kependudukan ;
 Mengingat
 
-
 <!-- Halaman 2 -->
 
 Mengingat:
@@ -93,13 +98,12 @@ NOMOR 23 TAHUN 2006 TENTANG ADMINISTRASI
 KEPENDUDUKAN.
 BAB I
 KETENTUAN UMUM
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam, Peraturan Pemerintah ini yang dimaksud dengan
 1. Administrasi. . .
 Undang-Undang Nomor 24 Tahun 2Ol3 tentang
 Perubahan atas Undang-Undang Nomor 23 Tahun
 2006 tentang Administrasi Kependudukan (Lembaran
-
 
 <!-- Halaman 3 -->
 
@@ -137,7 +141,6 @@ identitas anggota keluarga.
 5
 6. Kartu
 
-
 <!-- Halaman 4 -->
 
 PRES I DEN
@@ -168,14 +171,13 @@ sebagai WNI.
 tinggal di Indonesia.
 11. Penduduk
 
-
 <!-- Halaman 5 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -5
 1 1. Penduduk Pelintas Batas adalah WNI yang bertempat
-tinggal secara turun-temurun di 
+tinggal secara turun-temurun di
 wilayah
 kabupatenlkota yang berbatasan langsung dengan
 negara tetangga yang melakukan lintas batas
@@ -184,7 +186,7 @@ budaya yang ditetapkan berdasarkan ketentuan
 peraturan perundang-undangan.
 12. Menteri adalah menteri yang menyelenggarakan
 urusan pemerintahan dalam negeri.
-13. Kementerian adalah 
+13. Kementerian adalah
 kementerian yang
 menyelenggarakan urusan pemerintahan dalam negeri.
 14. Dinas Kependudukan dan Pencatatan Sipil Provinsi
@@ -199,7 +201,6 @@ Republik Indonesia, Konsulat Jenderal Republik
 Indonesia, dan Konsulat Republik Indonesia di luar
 wilayah Negara Kesatuan Republik Indonesia.
 17. Unit .
-
 
 <!-- Halaman 6 -->
 
@@ -218,20 +219,19 @@ PENYELENGGARAAN KEWENANGAN URUSAN
 ADMINISTRASI KEPENDUDUKAN
 Bagian Kesatu
 Umum
-Pasal 2
+### Pasal 2 ^pasal-2
 Urusan Administrasi Kependudukan diselenggarakan oleh
 Pemerintah, Pemerintah Daerah provinsi, dan Pemerintah
 Daerah kabupaten/ kota.
 Bagian Kedua
 Pemerintah
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) Menteri menyelenggarakan urusan Administrasi
 Kependudukan secara nasional.
 (2) Dalam menyelenggarakan urusan Administrasi
 Kependudukan sebagaimana dimaksud pada ayat (1),
 Menteri memiliki kewenangan meliputi:
 a. koordinasi
-
 
 <!-- Halaman 7 -->
 
@@ -245,37 +245,36 @@ d. pembinaan, pembimbingan, supervisi,
 pemantatlan, evaluasi, dan konsultasi;
 e. pengelolaan dan penyajian Data Kependudukan
 berskala nasional;
-f. menyediakan blangko 
-KTP-el 
+f. menyediakan blangko
+KTP-el
 bagi
 kabupatenlkota;
 g. menyediakan blangko Dokumen Kependudukan
 selain blangko KTP-el melalui Dinas
-Kependudukan dan 
+Kependudukan dan
 Pencatatan Sipil
 Kabupaten lKota;
 h. menyediakan blangko Dokumen Kependudukan
 selain blangko KTP-el bagi Perwakilan Republik
 Indonesia;
-i. pemanfaatan dan 
+i. pemanfaatan dan
 perlindungan Data
 Kependudukan dan Dokumen Kependudukan;
 dan
-j. 
+j.
 pengawasan.
-Pasal 4
+### Pasal 4 ^pasal-4
 Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 3 ayat (21 huruf a, Menteri
 melakukan koordinasi:
-a. secara 
-nasional 
-dengan 
+a. secara
+nasional
+dengan
 melibatkan
 kementerian/lembaga terkait, Pemerintah Daerah
 provinsi, dan Pemerintah Daerah kabupaten/kota
 secara berkala;
 b. antarsusunan .
-
 
 <!-- Halaman 8 -->
 
@@ -288,7 +287,7 @@ dan
 c. dengan Perwakilan Republik Indonesia melalui menteri
 yang menyelenggarakan urusan pemerintahan di
 bidang hubungan luar negeri.
-Pasal 5
+### Pasal 5 ^pasal-5
 Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 3 ayat (2) huruf b, Menteri
 mengatur dan menetapkan:
@@ -299,19 +298,18 @@ c. perlindungan data Penduduk;
 d. pengelolaan dan pendistribusian blangko KTP-e1;
 e. pemanfaatan Data Kependudukan dan Dokumen
 Kependudukan;
-f. 
+f.
 perlindungan Data Pribadi Penduduk;
 g. standar pelayanan;
 h. standar dan spesifikasi formulir, buku, dan blangko;
-i. 
+i.
 standar dan spesifikasi perangkat perekaman Data
 Kependudukan;
-j. 
+j.
 spesifikasi perangkat pembaca KTP-e1;
 k. standar kompetensi aparatur penyelenggara urusan
 Administrasi Kependudukan di daerah;
 l. sistem
-
 
 <!-- Halaman 9 -->
 
@@ -325,7 +323,7 @@ m. pengawasan dan evaluasi aparatur penyelenggara
 urusan Administrasi Kependudukan di daerah; dan
 n. pengawasan penyelenggaraan urusan Administrasi
 Kependudukan.
-Pasal 6
+### Pasal 6 ^pasal-6
 Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 3 ayat (2) huruf c, Menteri
 melakukan:
@@ -335,7 +333,7 @@ b. sosialisasi AdministrasiKependudukan;
 c. kerja sama dengan pihak terkait; dan
 d. komunikasi, informasi, dan edukasi kepada pemangku
 kepentingan dan masyarakat.
-Pasal 7
+### Pasal 7 ^pasal-7
 Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 3 ayat (2) huruf d, Menteri:
 a. melaksanakan pembinaan penyelenggaraan urusan
@@ -345,7 +343,6 @@ manusia pelaksana Administrasi Kependudukan;
 2. melaksanakan pembinaan aparatur penyelenggara
 Administrasi Kependudukan; dan
 3. melaksanakan . .
-
 
 <!-- Halaman 10 -->
 
@@ -364,10 +361,10 @@ melaksanakan supervisi penyelenggaraan urusan
 Administrasi Kependudukan;
 memberikan konsultasi pelaksanaan Administrasi
 Kependudukan; dan
-melaksanakan pemantauan dan 
+melaksanakan pemantauan dan
 evaluasi
 penyelenggaraan urusan Administrasi Kependudukan.
-Pasal 8
+### Pasal 8 ^pasal-8
 Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 3 ayat (2) huruf e, Menteri
 menetapkan:
@@ -377,7 +374,7 @@ Pribadi di Pemerintah, Pemerintah Daerah provinsi,
 dan Pemerintah Daerah kabupaten/kota; dan
 b. tata cara penyajian Data Kependudukan yang akurat
 dan dapat dipertanggungj awabkan.
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 3 ayat (2) huruf g dan huruf h,
 Menteri menetapkan standar dan spesifikasi Dokumen
@@ -385,7 +382,6 @@ Kependudukan berupa:
 a. biodata Penduduk;
 b. KK;
 c.akta...
-
 
 <!-- Halaman 11 -->
 
@@ -399,7 +395,7 @@ e. surat keterangan kependudukan.
 spesifikasi Dokumen Kependudukan selain blangko
 KTP-el sebagaimana dimaksud pada ayat (1) diatur
 dalam Peraturan Menteri.
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 3 ayat (21 huruf i, Menteri
 memberikan hak akses kepada pengguna yang terdiri
@@ -419,7 +415,6 @@ hak akses dan pemanfaatan Data Kependudukan dan
 KTP-el oleh kementerian/lembaga serta badan hukum
 Indonesia diatur dalam Peraturan Menteri.
 (5) Pemanfaatan
-
 
 <!-- Halaman 12 -->
 
@@ -451,7 +446,6 @@ c. pembinaan dan sosialisasi penyelenggaraan
 urusan Administrasi Kependudukan;
 d. penyajian
 
-
 <!-- Halaman 13 -->
 
 d
@@ -460,13 +454,13 @@ REPUBLIK INDONESIA
 -13-
 penyajian Data Kependudukan berskala provinsi
 yang berasal dari Data Kependudukan yang telah
-dikonsolidasikan dan 
+dikonsolidasikan dan
 dibersihkan oleh
 Kementerian; dan
 koordinasi pengawasan atas penyelenggaraan
 urusan Administrasi Kependudukan.
 e
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 11 ayat (2) huruf a, gubernur
 melakukan koordinasi:
@@ -478,7 +472,7 @@ urusan Administrasi Kependudukan.
 berkaitan dengan perencanaan, pengorganisasian,
 pelaksanaan, dan pengawasan penyelenggaraan
 urusan Administrasi Kependudukan.
-Pasal 13
+### Pasal 13 ^pasal-13
 Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 11 ayat (2) huruf b, gubernur:
 a. melaksanakan bimbingan teknis pendaftaran
@@ -486,7 +480,6 @@ Penduduk, pencatatan sipil, pengelolaan informasi
 Administrasi Kependudukan, dan pendayagunaan
 Data Kependudukan;
 b.melaksanakan...
-
 
 <!-- Halaman 14 -->
 
@@ -499,7 +492,7 @@ penyelenggaraan urusan Administrasi Kependudukan;
 dan
 c. memberikan konsultasi pelaksanaan urusan
 Administrasi Kependudukan.
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 11 ayat (2) huruf c, gubernur
 melaksanakan:
@@ -520,15 +513,14 @@ pemangku kepentingan dan masyarakat.
 (2) Kewenangan sebagaimana dimaksud pada ayat (1)
 huruf b dan huruf c dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
-Pasal 15
-
+### Pasal 15 ^pasal-15
 
 <!-- Halaman 15 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -15-
-Pasal 15
+### Pasal 15 ^pasal-15
 Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 11 ayat (21 huruf d, gubernur
 melakukan:
@@ -538,16 +530,16 @@ b. penyajian Data Kependudukan yang akurat dan dapat
 dipertanggungj awabkan.
 Paragraf 2
 Dinas Kependudukan dan Pencatatan Sipil Provinsi
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Untuk menyelenggarakan urusan Administrasi
-Kependudukan di 
+Kependudukan di
 provinsi dibentuk Dinas
 Kependudukan dan Pencatatan Sipil Provinsi.
 (21 Pembentukan Dinas Kependudukan dan Pencatatan
 Sipil Provinsi sebagaimana dimaksud pada ayat (1)
 diatur dengan Peraturan Daerah Provinsi.
-Pasal 17
-Dalam menyelenggarakan urusan 
+### Pasal 17 ^pasal-17
+Dalam menyelenggarakan urusan
 Administrasi
 Kependudukan di provinsi, Dinas Kependudukan dan
 Pencatatan Sipil Provinsi melaksanakan:
@@ -555,7 +547,6 @@ a. koordinasi antarlembaga Pemerintah dan lembaga
 non-Pemerintah di provinsi dan antarkabupaten/kota
 secara berkala;
 b. penyusunan .
-
 
 <!-- Halaman 16 -->
 
@@ -565,7 +556,7 @@ REPUBLIK INDONESIA
 b. penyusunan tata cara perencanaan, pelaksanaan,
 pemantarlan, evaluasi, dan pengendalian urusan
 Administrasi Kependudukan di provinsi;
-c. pen5rusunan tata 
+c. pen5rusunan tata
 cara pengelolaan Data
 Kependudukan yang bersifat data perseorangan, data
 agregat, dan Data Pribadi di provinsi dan
@@ -579,14 +570,14 @@ g. kerja sama dengan organisasi kemasyarakatan dan
 perguruan tinggi;
 h. komunikasi, informasi, dan edukasi kepada pemangku
 kepentingan dan masyarakat;
-i. 
+i.
 pembinaan penyelenggaraan urusan Administrasi
-Kependudukan, 
-termasuk 
+Kependudukan,
+termasuk
 pembinaan
 pendokumentasian penyelenggaraan urusan
 Administrasi Kependudukan ;
-j. 
+j.
 bimbingan teknis pendaftaran Penduduk, pencatatan
 sipil, pengelolaan informasi kependudukan, dan
 pendayagunaan Data Kependudukan;
@@ -596,7 +587,6 @@ Administrasi Kependudukan;
 1. pemantauan dan evaluasi penyelenggaraan urusan
 Administrasi Kependudukan ;
 m.pemberian...
-
 
 <!-- Halaman 17 -->
 
@@ -613,10 +603,10 @@ Bagian Keempat
 Pemerintah Daerah Kabupaten/ Kota
 Paragraf 1
 Bupati/Wali Kota
-Pasal 18
-(1) Bupati/wali kota 
+### Pasal 18 ^pasal-18
+(1) Bupati/wali kota
 menyelenggarakan urusan
-Administrasi Kependudukan di 
+Administrasi Kependudukan di
 daerah
 kabupatenlkota.
 (21 Dalam menyelenggarakan urusan Administrasi
@@ -633,7 +623,6 @@ d. pembinaan dan sosialisasi penyelenggaraan
 urusan Administrasi Kependudukan;
 e. pelaksanaan
 
-
 <!-- Halaman 18 -->
 
 PRES I DEN
@@ -641,7 +630,7 @@ REPUBLIK INDONESIA
 18-
 e. pelaksanaan kegiatan pelayanan masyarakat di
 bidang Administrasi Kependudukan;
-f. 
+f.
 penugasan kepada desa atau yang disebut dengan
 nama lain untuk menyelenggarakan sebagian
 urusan Administrasi Kependudukan;
@@ -651,19 +640,19 @@ Kependudukan yang telah dikonsolidasikan dan
 dibersihkan oleh Kementerian; dan
 h. koordinasi pengawasan atas penyelenggaraan
 urusan Administrasi Kependudukan.
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 18 ayat (2) huruf a, bupati lwali
 kota melakukan koordinasi dengan lembaga
 Pemerintah dan lembaga non-Pemerintah.
 (21 Koordinasi sebagaimana dimaksud pada ayat (1)
-berkaitan 
-dengan 
-aspek 
+berkaitan
+dengan
+aspek
 perencanaan,
 pengorganisasian, pelaksanaan, dan pengawasan
 penyelenggaraan urusan Administrasi Kependudukan.
-Pasal 20
+### Pasal 20 ^pasal-20
 Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 18 ayat (2) huruf c, bupati/wali
 kota menetapkan petunjuk teknis penyelenggaraan urusan
@@ -671,13 +660,12 @@ Administrasi Kependudukan dengan Peraturan Bupati/Wali
 Kota.
 Pasal2l...
 
-
 <!-- Halaman 19 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -19-
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Dalam menyelenggarakan kewenangan sebagaimana
 dimaksud dalam Pasal 18 ayat (2) huruf d, bupati lwali
 kota melaksanakan:
@@ -685,7 +673,7 @@ a. koordinasi antarlembaga Pemerintah dan lembaga
 non-Pemerintah;
 b. fasilitasi pemanfaatan Data Kependudukan dan
 Dokumen Kependudukan melalui Dinas
-Kependudukan dan 
+Kependudukan dan
 Pencatatan Sipil
 KabupatenlKota kepada perangkat daerah
 kabupaten/kota dan badan hukum Indonesia
@@ -701,24 +689,23 @@ pemangku kepentingan dan masyarakat.
 (2) Kewenangan sebagaimana dimaksud pada ayat (1)
 huruf b dan huruf c dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
-Pasal 22
-
+### Pasal 22 ^pasal-22
 
 <!-- Halaman 20 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -20-
-Pasal 22
+### Pasal 22 ^pasal-22
 Bupati/wali kota melaksanakan kewenangan kegiatan
-pelayanan masyarakat di 
+pelayanan masyarakat di
 bidang Administrasi
 Kependudukan sebagaimana dimaksud dalam Pasal 18
 ayat (2) huruf e secara terus menerus, cepat, tepat, mudah,
 dan tidak memungut biaya dari Penduduk.
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Pelaksanaan kewenangan penugasan kepada desa atau
-yang disebut dengan nama lain 
+yang disebut dengan nama lain
 untuk
 menyelenggarakan sebagian urusan Administrasi
 Kependudukan sebagaimana dimaksud dalam Pasal 18
@@ -739,7 +726,6 @@ b. penyajian Data Kependudukan yang akurat dan dapat
 dipertanggungj awabkan.
 Paragraf 2
 
-
 <!-- Halaman 21 -->
 
 PRES I DEN
@@ -748,7 +734,7 @@ REPUBLIK INDONESIA
 Paragraf 2
 Dinas Kependudukan dan Pencatatan Sipil
 Kabupaten lKota
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) Untuk menyelenggarakan urusan Administrasi
 Kependudukan di kabupaten/kota dibentuk Dinas
 Kependudukan dan Pencatatan Sipil Kabupaten/Kota.
@@ -760,7 +746,7 @@ pemerintahan lainnya.
 Sipil KabupatenlKota diatur dengan Peraturan Daerah
 Kabupaten/Kota.
 Pasal26
-Dalam menyelenggarakan urusan 
+Dalam menyelenggarakan urusan
 Administrasi
 Kependudukan, Dinas Kependudukan dan Pencatatan Sipil
 Kabupate n I Kota melaksanakan :
@@ -770,7 +756,6 @@ agama kabupaten/kota dan pengadilan agama yang
 berkaitan dengan pencatatan nikah, talak, cerai, dan
 rujuk bagi Penduduk yang beragama Islam;
 b.koordinasi...
-
 
 <!-- Halaman 22 -->
 
@@ -793,7 +778,7 @@ e. pengadaan blangko Dokumen Kependudukan selain
 blangko KTP-el, formulir, dan buku untuk pelayanan
 pendaftaran Penduduk dan pencatatan sipil sesuai
 dengan kebutuhan;
-f. 
+f.
 pengelolaan dan pelaporan penggunaan blangko
 Dokumen Kependudukan, formulir, dan buku untuk
 pelayanan pendaftaran Penduduk dan pencatatan sipil;
@@ -808,7 +793,6 @@ penugasan kepada desa atau yang disebut dengan
 nama lain;
 i. pelayanan.
 
-
 <!-- Halaman 23 -->
 
 PRES I DEN
@@ -816,7 +800,7 @@ REPUBLIK INDONESIA
 -23-
 i. pelayanan secara aktif pendaftaran peristiwa
 kependudukan dan pencatatan peristiwa penting;
-j. 
+j.
 penerimaan dan permintaan Data Kependudukan dari
 Perwakilan Republik Indonesia melalui Menteri;
 k. fasilitasi penyelenggaraan urusan Administrasi
@@ -839,7 +823,6 @@ rangka pembangunan basis Data Kependudukan; dan
 r. pengawasan penyelenggaraan urusan Administrasi
 Kependudukan.
 Paragraf3...
-
 
 <!-- Halaman 24 -->
 
@@ -876,7 +859,6 @@ Kependudukan dan Pencatatan Sipil Kabupaten/Kota
 diatur dalam Peraturan Menteri.
 Bagian Kelima .
 
-
 <!-- Halaman 25 -->
 
 PRES I DEN
@@ -884,7 +866,7 @@ REPUBLIK INDONESIA
 -25-
 Bagian Kelima
 Perwakilan Republik Indonesia
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) Penyelenggaraan urusan Administrasi Kependudukan
 bagi WNI di luar wilayah Negara Kesatuan Republik
 Indonesia dilaksanakan oleh Perwakilan Republik
@@ -908,15 +890,14 @@ di bidang hubungan luar negeri menyediakan sarana
 dan prasarana untuk mendukung pelaksanaan urusan
 Administrasi Kependudukan bagi WNI di luar wilayah
 Negara Kesatuan Republik Indonesia.
-Pasal 29
-
+### Pasal 29 ^pasal-29
 
 <!-- Halaman 26 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -26-
-Pasal 29
+### Pasal 29 ^pasal-29
 Ketentuan mengenai pelaksanaan urusan Administrasi
 Kependudukan di negara atau wilayah yang tidak terdapat
 Perwakilan Republik Indonesia diatur dalam Peraturan
@@ -927,7 +908,7 @@ NOMOR INDUK KEPENDUDUKAN DAN DOKUMEN
 IDENTITAS LAINNYA
 Bagian Kesatu
 Nomor Induk Kependudukan
-Pasal 30
+### Pasal 30 ^pasal-30
 (1) NIK sebagai nomor identitas tunggal digunakan untuk
 semua urusan pelayanan publik.
 (2) NIK berlaku seumur hidup dan selamanya, tidak
@@ -940,7 +921,6 @@ a. 6 (enam) digit pertama merupakan kode wilayah
 provinsi, kabupatenf kota, dan kecamatan tempat
 tinggal pada saat mendaftar;
 b.6(enam) ...
-
 
 <!-- Halaman 27 -->
 
@@ -975,15 +955,14 @@ ketentuan peraturan perundang-undangan.
 (71 Ketentuan lebih lanjut mengenai tata cara penerbitan
 NIK sebagaimana dimaksud pada ayat (1) sampai
 dengan ayat (5) diatur dalam Peraturan Menteri.
-Pasal 32
-
+### Pasal 32 ^pasal-32
 
 <!-- Halaman 28 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -28-
-Pasal 32
+### Pasal 32 ^pasal-32
 (1) Untuk WNI di luar wilayah Negara Kesatuan Republik
 Indonesia yang belum memiliki nomor identitas
 tunggal wajib melapor ke Perwakilan Republik
@@ -1012,7 +991,6 @@ setelah dilakukan pencatatan biodata Penduduk
 sebagai dasar penerbitan surat pemberitahuan NIK.
 (7) Pencatatan
 
-
 <!-- Halaman 29 -->
 
 PRES I DEN
@@ -1027,7 +1005,7 @@ dengan ayat (6) diatur dalam Peraturan Menteri, yang
 ditetapkan setelah dikoordinasikan dengan
 kementerian yang menyelenggarakan urusan
 pemerintahan di bidang hubungan luar negeri.
-Pasal 33
+### Pasal 33 ^pasal-33
 Dalam hal NIK yang tercantum pada KTP-el berbeda
 dengan NIK yang tercantum pada Dokumen Kependudukan
 dan/atau dokumen identitas lainnya yang diterbitkan oleh
@@ -1035,7 +1013,7 @@ kementerian/lembaga atau badan hukum Indonesia,
 berlaku NIK yang tercantum pada KTP-el.
 Bagian Kedua
 Dokumen Identitas Lainnya
-Pasal 34
+### Pasal 34 ^pasal-34
 (1) Setiap dokumen identitas lainnya yang diterbitkan oleh
 kementerian/lembaga atau badan hukum Indonesia
 wajib mencantumkan NIK.
@@ -1043,7 +1021,6 @@ wajib mencantumkan NIK.
 pada setiap dokumen identitas lainnya yang
 diterbitkan sebagaimana dimaksud pada ayat (1).
 (3) Dokumen .
-
 
 <!-- Halaman 30 -->
 
@@ -1055,7 +1032,7 @@ pada ayat (1) meliputi dokumen identitas diri dan bukti
 kepemilikan.
 BAB IV
 KARTU TANDA PENDUDUK ELEKTRONIK KHUSUS
-Pasal 35
+### Pasal 35 ^pasal-35
 (1) KTP-el khusus diberikan kepada petugas khusus yang
 melakukan tugas keamanan negara.
 (21 Petugas khusus sebagaimana dimaksud pada ayat (1)
@@ -1068,13 +1045,12 @@ menjalankan tugas keamanan negara.
 KTP-el khusus diatur dalam Peraturan Menteri.
 BAB V
 PENDAFTARAN PENDUDUK PELINTAS BATAS
-Pasal 36
+### Pasal 36 ^pasal-36
 (1) Penduduk Pelintas Batas diberi buku pas pelintas
 batas oleh kantor imigrasi di wilayah perbatasan
 sesuai dengan ketentuan peraturan perundang-
 undangan.
 (2) Buku
-
 
 <!-- Halaman 31 -->
 
@@ -1092,7 +1068,7 @@ ditetapkan oleh bupati/wali kota.
 (4) Pejabat/petugas pendaftaran Penduduk Pelintas Batas
 sebagaimana pada ayat (3) berkedudukan di
 kantor/pos lintas batas setempat.
-Pasal 37
+### Pasal 37 ^pasal-37
 Pendaftaran Penduduk Pelintas Batas dilakukan dengan
 ketentuan:
 a. pejabat/petugas pendaftaran Dinas Kependudukan
@@ -1109,13 +1085,12 @@ pencatatan dalam buku pendaftaran Penduduk
 Pelintas Batas.
 Pasal38...
 
-
 <!-- Halaman 32 -->
 
 PRES IDEN
 REPUBLIK INDONESIA
 -32-
-Pasal 38
+### Pasal 38 ^pasal-38
 Ketentuan lebih lanjut mengenai pendaftaran Penduduk
 Pelintas Batas diatur dalam Peraturan Menteri yang
 ditetapkan setelah dikoordinasikan dengan kementerian
@@ -1125,7 +1100,7 @@ BAB VI
 TATA CARA PENCATATAN PERKAWINAN BAGI
 PENGHAYAT KEPERCAYAAN TERHADAP
 TUHAN YANG MAHA ESA
-Pasal 39
+### Pasal 39 ^pasal-39
 (1) Perkawinan penghayat kepercayaan terhadap Tuhan
 Yang Maha Esa dilakukan di hadapan pemuka
 penghayat kepercayaan terhadap Tuhan Yang
@@ -1147,13 +1122,12 @@ penghayat kepercayaan terhadap Tuhan yang
 Maha Esa.
 Pasal 40 .
 
-
 <!-- Halaman 33 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -33-
-Pasal 40
+### Pasal 40 ^pasal-40
 (1) Pencatatan perkawinan penghayat kepercayaan
 terhadap T\.rhan Yang Maha Esa dilakukan di Dinas
 Kependudukan dan Pencatatan Sipil Kabupaten/Kota
@@ -1166,11 +1140,11 @@ Esa.
 terhadap Tuhan Yang Maha Esa sebagaimana
 dimaksud pada ayat (1) dilakukan dengan ketentuan:
 a. Pejabat Pencatatan Sipil pada Dinas
-Kependudukan dan 
+Kependudukan dan
 Pencatatan Sipil
 KabupatenlKota atau UPT Dinas Kependudukan
-dan 
-Pencatatan Sipil 
+dan
+Pencatatan Sipil
 KabupatenlKota
 memberikan formulir pencatatan perkawinan
 kepada pasangan suami istri;
@@ -1185,7 +1159,6 @@ terhadap Tuhan Yang Maha Esa dengan
 menunjukkan aslinya;
 2. pasfoto suami dan istri;
 3. akta
-
 
 <!-- Halaman 34 -->
 
@@ -1220,7 +1193,6 @@ dan pencatatan sipil yang akurat, lengkap, dan
 mutakhir; dan
 c.mewujudkan...
 
-
 <!-- Halaman 35 -->
 
 PRES IDEN
@@ -1236,13 +1208,13 @@ b. perangkat teknologi informasi dan komunikasi;
 c. sumber daya manusia;
 d. pemberi dan pemegang hak akses;
 e. lokasi basis data;
-f. 
+f.
 pengelolaan basis data;
 g. pemeliharaan basis data;
 h. pengamanan basis data;
-i. 
+i.
 pengawasan basis data;
-j. 
+j.
 perangkatpendukung;
 k. tempat pelayanan;
 1. pusat data;
@@ -1254,11 +1226,10 @@ ayat (3) memerlukan proses pengadaan, dilaksanakan
 sesuai dengan ketentuan peraturan perundang-
 undangan yang mengatur mengenai pengadaan
 barangl jasa pemerintah.
-Pasal 42
+### Pasal 42 ^pasal-42
 Basis data sebagaimana dimaksud dalam Pasal 41 ayat (3)
 huruf a terdiri atas:
 a.basis...
-
 
 <!-- Halaman 36 -->
 
@@ -1277,11 +1248,11 @@ basis data pada Dinas Kependudukan dan Pencatatan
 Sipil Provinsi bersumber dari Kementerian; dan
 basis data berada pada Dinas Kependudukan dan
 Pencatatan Sipil Kabupaten I Kota.
-Pasal 43
+### Pasal 43 ^pasal-43
 (1) Perangkat teknologi informasi dan komunikasi
 sebagaimana dimaksud dalam Pasal 4l ayat (3)
-huruf b 
-disediakan untuk 
+huruf b
+disediakan untuk
 mengakomodasi
 penyelenggaraan pelayanan urusan Administrasi
 Kependudukan yang dilakukan secara manual
@@ -1291,14 +1262,13 @@ Kependudukan secara manual hanya dapat dilakukan
 oleh Dinas Kependudukan dan Pencatatan Sipil
 Kabupaten/Kota bagi wilayah tertentu yang memiliki
 keterbatasan fasilitas komunikasi data.
-Pasal 44
+### Pasal 44 ^pasal-44
 Sumber daya manusia sebagaimana dimaksud dalam
 Pasal 4l ayat (3) huruf c meliputi sumber daya manusia
 yang melaksanakan:
 a. pelayanan input data;
 b. penerbitan dokumen;
 c.pengelolaan...
-
 
 <!-- Halaman 37 -->
 
@@ -1308,10 +1278,10 @@ REPUBLIK INDONESIA
 c. pengelolaan data dan informasi;
 d. pembangunan dan pengembangan sistem;
 e. pengelolaan pusat data dan pusat data cadangan;
-f. 
+f.
 pengelolaan jaringan komunikasi; dan
 g. fasilitasi pemanfaatan data.
-Pasal 45
+### Pasal 45 ^pasal-45
 Lokasi basis data sebagaimana dimaksud dalam Pasal 41
 ayat (3) huruf e meliputi:
 a. unit kerja yang membidangi urusan Administrasi
@@ -1323,7 +1293,7 @@ c. Dinas Kependudukan dan Pencatatan Sipil
 Kabupaten/Kota; dan
 d. kementerian yang menyelenggarakan urusan
 pemerintahan di bidang hubungan luar negeri.
-Pasal 46
+### Pasal 46 ^pasal-46
 Pengelolaan basis data sebagaimana dimaksud dalam
 Pasal 4l ayat (3) huruf f meliputi:
 a. perekaman data pendaftaran Penduduk dan
@@ -1333,7 +1303,6 @@ pencatatan sipil;
 c. penyajian data sebagai informasi Data Kependudukan;
 dan
 d.pendistribusian...
-
 
 <!-- Halaman 38 -->
 
@@ -1355,17 +1324,16 @@ pemeliharaarL, pengamanan, dan pengawasan data
 dalam basis data, perangkat keras, perangkat lunak,
 jaringan komunikasi data, pusat data, data cadangan,
 dan pusat data cadangan.
-Pasal 48
+### Pasal 48 ^pasal-48
 Perangkat pendukung sebagaimana dimaksud dalam
 Pasal 4l ayat (3) huruf j disediakan untuk menjamin
 keberlangsungan fungsi SIAK.
-Pasal 49
+### Pasal 49 ^pasal-49
 (1) Tempat pelayanan sebagaimana dimaksud dalam
 Pasal 4l ayat (3) huruf k merupakan ruang untuk
 input data dan pelayanan Data Kependudukan dan
 Dokumen Kependudukan.
 (2) Tempat
-
 
 <!-- Halaman 39 -->
 
@@ -1380,24 +1348,23 @@ Indonesia;
 (3) Tempat pelayanan Dokumen Kependudukan berada
 pada Dinas Kependudukan dan Pencatatan Sipil
 Kabupaten I Kota dan Perwakilan Republik Indonesia.
-Pasal 50
+### Pasal 50 ^pasal-50
 Pusat data sebagaimana dimaksud dalam Pasal 41 ayat (3)
 huruf I berada pada Kementerian, Dinas Kependudukan
 dan Pencatatan Sipil Provinsi, dan Dinas Kependudukan
 dan Pencatatan Sipil Kabupaten/Kota.
-Pasal 51
+### Pasal 51 ^pasal-51
 (1) Data cadangan dan pusat data cadangan sebagaimana
 dimaksud dalam Pasal 4l ayat (3) huruf m dan huruf n
 disediakan dan dikelola untuk menjamin ketersediaan
 data apabila terjadi kegagalan fungsi data utama.
 (21 Pusat data cadangan sebagaimana dimaksud pada
 ayat (1) berada pada Kementerian.
-Pasal 52
+### Pasal 52 ^pasal-52
 Jaringan komunikasi data sebagaimana dimaksud dalam
 Pasal 4l ayat (3) huruf o terdiri dari jaringan komunikasi
 data yang menghubungkan:
 a. tempat
-
 
 <!-- Halaman 40 -->
 
@@ -1416,23 +1383,22 @@ d. gudang data Kementerian ke pusat data pengguna
 instansi vertikal;
 e. gudang data Dinas Kependudukan dan Pencatatan
 Sipil Provinsi ke pusat data pengguna provinsi; dan
-f. 
+f.
 gudang data Dinas Kependudukan dan Pencatatan
 Sipil KabupatenlKota ke pusat data pengguna
 kabupaten/kota.
 Ketentuan lebih
 Peraturan Menteri
-Pasal 53
+### Pasal 53 ^pasal-53
 lanjut mengenai SIAK diatur dalam
 BAB VIII
 PERLINDUNGAN DATA PRIBADI PENDUDUK
 Bagian Kesatu
 Elemen Data Pribadi Penduduk
-Pasal 54
+### Pasal 54 ^pasal-54
 (1) Data Pribadi Penduduk yang harus dilindungi memuat:
 a. keterangan tentang cacat fisik dan/atau mental;
 b. sidik jari
-
 
 <!-- Halaman 41 -->
 
@@ -1465,7 +1431,6 @@ d. peristiwa penting lainnya yang ditetapkan oleh
 Menteri.
 Bagian Kedua
 
-
 <!-- Halaman 42 -->
 
 PRES I DEN
@@ -1473,7 +1438,7 @@ REPUBLIK INDONESIA
 -42-
 Bagian Kedua
 Penyimpanan Data Pribadi Penduduk
-Pasal 55
+### Pasal 55 ^pasal-55
 (1) Data Pribadi Penduduk yang harus dilindungi
 sebagaimana dimaksud dalam Pasal 54 ayat (1)
 disimpan pada basis data Kementerian, Dinas
@@ -1486,7 +1451,7 @@ informasi kependudukan.
 Bagian Ketiga
 Tata Cara Memperoleh dan Menggunakan
 Data Pribadi Penduduk
-Pasal 56
+### Pasal 56 ^pasal-56
 (1) Untuk memperoleh Data Pribadi Penduduk,
 kementerian/lembaga dan badan hukum Indonesia
 harus mendapatkan persetujuan dari Menteri,
@@ -1500,7 +1465,6 @@ Menteri, gubernur, atau bupati/wali kota dengan
 menyertakan maksud dan tujuan penggunaan
 Data Pribadi Penduduk;
 b.Menteri...
-
 
 <!-- Halaman 43 -->
 
@@ -1519,12 +1483,12 @@ keperluan sebagaimana tertuang dalam persetujuan.
 (41 Untuk kepentingan keamanan negara dan penegakan
 hukum, Data Pribadi Penduduk yang harus dilindungi
 hanya dapat diakses dengan persetujuan dari Menteri.
-Pasal 57
+### Pasal 57 ^pasal-57
 Ketentuan lebih lanjut mengenai perlindungan Data Pribadi
 Penduduk diatur dalam Peraturan Menteri.
 BAB IX
 SANKSI ADMINISTRATIF
-Pasal 58
+### Pasal 58 ^pasal-58
 (1) Kementerian/lembaga dan badan hukum Indonesia
 yang memperoleh Data Pribadi Penduduk atau Data
 Kependudukan dilarang:
@@ -1532,7 +1496,6 @@ a. menggunakan Data Pribadi Penduduk atau Data
 Kependudukan melampaui batas kewenangannya;
 atau
 b. menjadikan
-
 
 <!-- Halaman 44 -->
 
@@ -1554,13 +1517,13 @@ setelah dikoordinasikan dengan kementerian teknis
 terkait.
 BAB X
 PELAPORAN
-Pasal 59
+### Pasal 59 ^pasal-59
 (1) Penyelenggaraan urusan Administrasi Kependudukan
 dilaporkan secara berjenjang sesuai dengan susunan
 pemerintahan.
 (2) Laporan sebagaimana dimaksud pada ayat (1)
 disampaikan secara berkala kepada Menteri.
-Pasal 60
+### Pasal 60 ^pasal-60
 (1) Menteri mengoordinasikan pelaporan penyelenggaraan
 urusan Administrasi Kependudukan dengan
 menteri/ kepala lembaga terkait.
@@ -1568,13 +1531,12 @@ menteri/ kepala lembaga terkait.
 dimaksud pada ayat (1) kepada Presiden.
 Pasal 61 ...
 
-
 <!-- Halaman 45 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -45-
-Pasal 61
+### Pasal 61 ^pasal-61
 Ketentuan lebih lanjut mengenai tata
 penyelenggaraan urusan Administrasi
 diatur dalam Peraturan Menteri.
@@ -1582,7 +1544,7 @@ cara pelaporan
 Kependudukan
 BAB XI
 PEMBINAAN DAN PENGAWASAN
-Pasal 62
+### Pasal 62 ^pasal-62
 (1) Menteri, gubernur, dan bupati/wali kota sesuai dengan
 lingkup kewenangan melakukan pembinaan
 penyelenggaraan urusan Administrasi Kependudukan
@@ -1605,7 +1567,6 @@ dilakukan untuk kelancaran penyelenggaraan urusan
 Administrasi Kependudukan.
 (4) Evaluasi...
 
-
 <!-- Halaman 46 -->
 
 PRES I DEN
@@ -1620,7 +1581,7 @@ pada ayat (1) huruf e dilakukan sesuai dengan
 ketentuan peraturan perundang-undangan yang
 mengatur mengenai pembinaan dan pengawasan
 penyelenggaraan pemerintahan daerah.
-Pasal 63
+### Pasal 63 ^pasal-63
 (1) Menteri, gubernur, dan bupati/wali kota sesuai dengan
 lingkup kewenangan melakukan pengawasan
 penyelenggaraan urusan Administrasi Kependudukan.
@@ -1637,7 +1598,6 @@ b. pencegahan; dan
 c. tindakan koreksi.
 (4) Pengawasan .
 
-
 <!-- Halaman 47 -->
 
 PRES I DEN
@@ -1648,18 +1608,18 @@ meliputi pengawasan terhadap data pada basis data,
 pemanfaatan Data Kependudukan, dan sumber daya
 manusia yang melaksanakan urusan Administrasi
 Kependudukan.
-Pasal 64
+### Pasal 64 ^pasal-64
 Pembinaan dan pengawasan penyelenggaraan urusan
 Administrasi Kependudukan secara nasional
 dikoordinasikan oleh Menteri.
-Pasal 65
+### Pasal 65 ^pasal-65
 Ketentuan lebih lanjut mengenai tata cara pembinaan
 dan pengawasan penyelenggaraan urusan Administrasi
 Kependudukan diatur dalam Peraturan Menteri.
 BAB XII
 KETENTUAN LAIN-LAIN
-Pasal 66
-(1) Urusan 
+### Pasal 66 ^pasal-66
+(1) Urusan
 Administrasi Kependudukan di
 kabupaten/kota dalam wilayah Provinsi Daerah
 Khusus Ibu Kota Jakarta diselenggarakan oleh Dinas
@@ -1671,7 +1631,6 @@ Kependudukan dan Pencatatan Sipil Kabupaten/Kota
 sesuai dengan ketentuan peraturan perundang-
 undangan.
 (3) Ketentuan...
-
 
 <!-- Halaman 48 -->
 
@@ -1693,18 +1652,17 @@ KabupatenlKota di Provinsi Daerah Khusus Ibu Kota
 Jakarta.
 BAB XIII
 KETENTUAN PERALIHAN
-Pasal 67
+### Pasal 67 ^pasal-67
 Pada saat Peraturan Pemerintah ini mulai berlaku, Dinas
 Kependudukan dan Pencatatan Sipil Kabupaten/Kota yang
-telah 
-menyelenggarakan urusan 
+telah
+menyelenggarakan urusan
 Administrasi
 Kependudukan di kecamatan tetap menjalankan tugasnya
 sampai dengan terbentuknya UPT Dinas Kependudukan
 dan Pencatatan Sipil KabupatenlKota berdasarkan
 ketentuan dalam Peraturan Pemerintah ini.
 BAB XIV
-
 
 <!-- Halaman 49 -->
 
@@ -1713,7 +1671,7 @@ REPUBLIK INDONESIA
 -49-
 BAB XIV
 KETENTUAN PENUTUP
-Pasal 68
+### Pasal 68 ^pasal-68
 Pada saat Peraturan Pemerintah ini mulai berlaku, semua
 peraturan pelaksanaan dari Peraturan Pemerintah
 Nomor 37 Tahun 2OO7 tentang Pelaksanaan Undang-
@@ -1730,15 +1688,14 @@ Nomor 265, Tambahan Lembaran Negara Republik
 Indonesia Nomor 5373) dinyatakan tetap berlaku sepanjang
 tidak bertentangan dengan ketentuan dalam Peraturan
 Pemerintah ini.
-Pasal 69
-
+### Pasal 69 ^pasal-69
 
 <!-- Halaman 50 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -50-
-Pasal 69
+### Pasal 69 ^pasal-69
 Pada saat Peraturan Pemerintah ini mulai berlaku,
 Peraturan Pemerintah Nomor 37 Tahun 2OO7 tentang
 Pelaksanaan Undang-Undang Nomor 23 Tahun 2006
@@ -1753,11 +1710,10 @@ Administrasi Kependudukan (Lembaran Negara Republik
 Indonesia Tahun 2Ol2 Nomor 265, Tambahan Lembaran
 Negara Republik Indonesia Nomor 5373) dicabut dan
 dinyatakan tidak berlaku.
-Pasal 70
+### Pasal 70 ^pasal-70
 Peraturan Pemerintah ini mulai berlaku pada tanggal
 diundangkan
 Agar
-
 
 <!-- Halaman 51 -->
 
@@ -1765,7 +1721,7 @@ PRES IDEN
 REPUBLIK INDONESIA
 -51 -
 Agar setiap orang mengetahuinya, memerintahkan
-pengundangan Peraturan Pemerintah ini 
+pengundangan Peraturan Pemerintah ini
 dengan
 penempatannya dalam Lembaran Negara Republik
 Indonesia.
@@ -1790,12 +1746,15 @@ vanna Djaman
 *.
 {,
 
-
 <!-- Halaman 52 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
-PENJELASAN
+
+## Penjelasan
+
+### I. Umum
+
 ATAS
 PERATURAN PEMERINTAH REPUBLIK INDONESIA
 NOMOR 40 TAHUN 2019
@@ -1805,7 +1764,6 @@ ADMINISTRASI KEPENDUDUKAN SEBAGAIMANA TELAH DIUBAH
 DENGAN UNDANG-UNDANG NOMOR 24 TAHUN 2013 TENTANG
 PERUBAHAN ATAS UNDANG-UNDANG NOMOR 23 TAHUN 2006
 TENTANG ADMINISTRASI KEPENDUDUKAN
-I. UMUM
 Perubahan Undang-Undang Nomor 23 Tahun 2006 tentang
 Administrasi Kependudukan menjadi Undang-Undang Nomor 24 Tahlun
 2Ol3 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2006
@@ -1821,7 +1779,6 @@ masyarakat di bidang pelayanan Administrasi Kependudukan, Peraturan
 Pemerintah Nomor 37 Tahun 2OO7 tentang Pelaksanaan Undang-
 Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan
 sebagaimana
-
 
 <!-- Halaman 53 -->
 
@@ -1841,25 +1798,24 @@ bagi penghayat kepercayaan kepada Tuhan Yang Maha Esa, SIAK,
 perlindungan Data Pribadi Penduduk, sanksi administratif, pelaporan,
 pembinaan dan pengawasan serta penyelenggaraan Administrasi
 Kependudukan di wilayah Provinsi Daerah Khusus Ibu Kota Jakarta.
-II. PASAL DEMI PASAL
-Pasal 1
+
+### II. Pasal demi Pasal
+
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-Pasal 2
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
-Pasal 3
+#### Pasal 3 ^penjelasan-pasal-3
 Cukup jelas.
-Pasal 4
+#### Pasal 4 ^penjelasan-pasal-4
 Cukup jelas
-Pasal 5
-
-
+#### Pasal 5 ^penjelasan-pasal-5
 <!-- Halaman 54 -->
-
-Pasal 5
-Pasal 6
-Pasal 7
-Pasal 8
-Pasal 9
+#### Pasal 5 ^penjelasan-pasal-5-2
+#### Pasal 6 ^penjelasan-pasal-6
+#### Pasal 7 ^penjelasan-pasal-7
+#### Pasal 8 ^penjelasan-pasal-8
+#### Pasal 9 ^penjelasan-pasal-9
 PRES I DEN
 REPUBLIK INDONESIA
 -3-
@@ -1921,7 +1877,7 @@ REPUBLIK INDONESIA
 -5-
 Ayat (2)
 Cukup jelas.
-Pasal 10
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -1944,24 +1900,23 @@ dan
 c. mendapatkan nomor identitas tunggal peserta jaminan
 kesehatan dari Badan Penyelenggara Jaminan Sosial
 Kesehatan.
-Pasal 11 ...
-
-
+#### Pasal 11 ^penjelasan-pasal-11
 <!-- Halaman 57 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -6-
-Pasal 1 1
-Pasal 12
-Pasal 13
-Pasal 14
-Pasal 15
-Pasal 16
-Pasal 17
-Pasal 18
-Pasal 19
-Pasal 20
+#### Pasal 1 ^penjelasan-pasal-1-2
+1
+#### Pasal 12 ^penjelasan-pasal-12
+#### Pasal 13 ^penjelasan-pasal-13
+#### Pasal 14 ^penjelasan-pasal-14
+#### Pasal 15 ^penjelasan-pasal-15
+#### Pasal 16 ^penjelasan-pasal-16
+#### Pasal 17 ^penjelasan-pasal-17
+#### Pasal 18 ^penjelasan-pasal-18
+#### Pasal 19 ^penjelasan-pasal-19
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas
 Cukup jelas.
 Cukup jelas.
@@ -1972,22 +1927,20 @@ Cukup jelas.
 Cukup jelas
 Cukup jelas
 Cukup jelas
-Pasal 21
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
-Pasal 22
-
-
+#### Pasal 22 ^penjelasan-pasal-22
 <!-- Halaman 58 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -7-
-Pasal 22
-Pasal 23
-Pasal 24
-Pasal 25
-Pasal 26
-Pasal 27
+#### Pasal 22 ^penjelasan-pasal-22-2
+#### Pasal 23 ^penjelasan-pasal-23
+#### Pasal 24 ^penjelasan-pasal-24
+#### Pasal 25 ^penjelasan-pasal-25
+#### Pasal 26 ^penjelasan-pasal-26
+#### Pasal 27 ^penjelasan-pasal-27
 Cukup jelas.
 Cukup jelas.
 Cukup jelas
@@ -2003,7 +1956,7 @@ dan jaminan perlindungan Data Kependudukan dan
 Dokumen Kependudukan secara terus menerus dan
 terintegrasi.
 Cukup jelas
-Pasal 28
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas
 Pasal29...
 
@@ -2013,12 +1966,12 @@ Pasal29...
 PRES IDEN
 REPUBLIK INDONESIA
 -8-
-Pasal 29
-Pasal 30
-Pasal 31
-Pasal 32
-Pasal 33
-Pasal 34
+#### Pasal 29 ^penjelasan-pasal-29
+#### Pasal 30 ^penjelasan-pasal-30
+#### Pasal 31 ^penjelasan-pasal-31
+#### Pasal 32 ^penjelasan-pasal-32
+#### Pasal 33 ^penjelasan-pasal-33
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas
 Cukup jelas.
 Cukup jelas
@@ -2046,10 +1999,10 @@ Pasal35...
 PRES I DEN
 REPUBLIK INDONESIA
 -9-
-Pasal 35
-Pasal 36
-Pasal 37
-Pasal 38
+#### Pasal 35 ^penjelasan-pasal-35
+#### Pasal 36 ^penjelasan-pasal-36
+#### Pasal 37 ^penjelasan-pasal-37
+#### Pasal 38 ^penjelasan-pasal-38
 Ayat (1)
 Ayat (2)
 Cukup jelas.
@@ -2067,7 +2020,7 @@ Negara Republik Indonesia, dan Badan Intelijen Negara
 Republik Indonesia berdasarkan perintah kepala atau
 pimpinan sesuai ketentuan peraturan perundang-
 undangan.
-Pasal 39
+#### Pasal 39 ^penjelasan-pasal-39
 Cukup jelas.
 Pasal40...
 
@@ -2077,15 +2030,15 @@ Pasal40...
 PRES I DEN
 REPUBLIK INDONESIA
 - 10-
-Pasal 40
-Pasal 41
-Pasal 42
-Pasal 43
-Pasal 44
-Pasal 45
-Pasal 46
-Pasal 47
-Pasal 48
+#### Pasal 40 ^penjelasan-pasal-40
+#### Pasal 41 ^penjelasan-pasal-41
+#### Pasal 42 ^penjelasan-pasal-42
+#### Pasal 43 ^penjelasan-pasal-43
+#### Pasal 44 ^penjelasan-pasal-44
+#### Pasal 45 ^penjelasan-pasal-45
+#### Pasal 46 ^penjelasan-pasal-46
+#### Pasal 47 ^penjelasan-pasal-47
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
 Cukup jelas
 Cukup jelas.
@@ -2095,23 +2048,21 @@ Cukup jelas
 Cukup jelas
 Cukup jelas.
 Cukup Jelas
-Pasal 49
-
-
+#### Pasal 49 ^penjelasan-pasal-49
 <!-- Halaman 62 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -11-
-Pasal 49
-Pasal 50
-Pasal 51
-Pasal 52
-Pasal 53
-Pasal 54
-Pasal 55
-Pasal 56
-Pasal 57
+#### Pasal 49 ^penjelasan-pasal-49-2
+#### Pasal 50 ^penjelasan-pasal-50
+#### Pasal 51 ^penjelasan-pasal-51
+#### Pasal 52 ^penjelasan-pasal-52
+#### Pasal 53 ^penjelasan-pasal-53
+#### Pasal 54 ^penjelasan-pasal-54
+#### Pasal 55 ^penjelasan-pasal-55
+#### Pasal 56 ^penjelasan-pasal-56
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
 Cukup jelas.
 Cukup jelas.
@@ -2121,18 +2072,16 @@ Cukup jelas
 Cukup jelas
 Cukup jelas.
 Cukup jelas.
-Pasal 58
-
-
+#### Pasal 58 ^penjelasan-pasal-58
 <!-- Halaman 63 -->
 
 PRES I DEN
 REPUBLIK INDONESIA
 -t2-
-Pasal 58
-Pasal 59
+#### Pasal 58 ^penjelasan-pasal-58-2
+#### Pasal 59 ^penjelasan-pasal-59
 Pasal 6O
-Pasal 61
+#### Pasal 61 ^penjelasan-pasal-61
 Ayat (1)
 Huruf a
 Yang dimaksud dengan "melampaui batas
@@ -2150,7 +2099,7 @@ Cukup jelas.
 Cukup jelas.
 Cukup jelas.
 Cukup jelas
-Pasal 62
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
 Pasal63...
 
@@ -2160,20 +2109,98 @@ Pasal63...
 PRES I DEN
 REPUBLIK INDONESIA
 - 13-
-Pasal 63
+#### Pasal 63 ^penjelasan-pasal-63
 Cukup jelas.
-Pasal 64
+#### Pasal 64 ^penjelasan-pasal-64
 Cukup jelas.
-Pasal 65
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
-Pasal 66
+#### Pasal 66 ^penjelasan-pasal-66
 Cukup jelas.
-Pasal 67
+#### Pasal 67 ^penjelasan-pasal-67
 Cukup jelas.
-Pasal 68
+#### Pasal 68 ^penjelasan-pasal-68
 Cukup jelas.
-Pasal 69
+#### Pasal 69 ^penjelasan-pasal-69
 Cukup jelas.
 Pasal 7O
 Cukup jelas.
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6354
+
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-2]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 5 | [[#^penjelasan-pasal-5-2]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 22 | [[#^penjelasan-pasal-22-2]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 49 | [[#^penjelasan-pasal-49-2]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 58 | [[#^penjelasan-pasal-58-2]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |

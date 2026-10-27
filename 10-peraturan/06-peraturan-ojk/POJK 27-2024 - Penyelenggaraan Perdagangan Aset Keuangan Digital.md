@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto
+**Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -34,9 +40,7 @@ last_updated: 2026-10-28
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/323277/peraturan-ojk-no-27-tahun-2024)
 
-
 PERATURAN OTORITAS JASA KEUANGAN
-
 
 REPUBLIK INDONESIA
 NOMOR 27 TAHUN 2024
@@ -44,15 +48,11 @@ NOMOR 27 TAHUN 2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL
 
-
 TERMASUK ASET KRIPTO
-
 
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-
 DEWAN KOMISIONER OTORITAS JASA KEUANGAN,
-
 
 Menimbang : a. bahwa untuk mendukung perkembangan sektor jasa
 keuangan dan melaksanakan kewenangan pengaturan
@@ -88,16 +88,13 @@ Lembaran Negara Republik Indonesia Nomor 6845);
 2. Undang-Undang Nomor 4 Tahun 2023 tentang
 Pengembangan dan Penguatan Sektor Keuangan
 
-
 -----
 
 (Lembaran Negara Republik Indonesia Tahun 2023
 Nomor 4, Tambahan Lembaran Negara Republik
 Indonesia Nomor 6845);
 
-
 MEMUTUSKAN:
-
 
 Menetapkan : PERATURAN OTORITAS JASA KEUANGAN TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN
@@ -106,7 +103,7 @@ DIGITAL TERMASUK ASET KRIPTO.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
 dengan:
 1. Inovasi Teknologi Sektor Keuangan yang selanjutnya
@@ -148,7 +145,6 @@ memfasilitasi kegiatan terkait perdagangan Aset
 Keuangan Digital termasuk Aset Kripto dan/atau
 menyediakan laporan perdagangan Aset Keuangan
 Digital.
-
 
 -----
 
@@ -209,7 +205,6 @@ Keuangan Digital.
 18. Direksi adalah organ perusahaan yang berwenang dan
 bertanggung jawab penuh atas pengurusan perusahaan
 
-
 -----
 
 untuk kepentingan perusahaan, sesuai dengan maksud
@@ -244,7 +239,7 @@ Senjata Pemusnah Massal yang selanjutnya disingkat
 APU, PPT, dan PPPSPM adalah upaya pencegahan dan
 pemberantasan TPPU, TPPT, dan/atau PPSPM.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Kegiatan penyelenggaraan perdagangan Aset Keuangan
 Digital dilakukan oleh:
 a. Bursa;
@@ -260,7 +255,7 @@ Keuangan Digital dan Aset Kripto.
 sebagaimana dimaksud pada ayat (1) wajib memperoleh
 izin usaha dari Otoritas Jasa Keuangan.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) Penyelenggara Perdagangan Aset Keuangan Digital
 melakukan perdagangan Aset Keuangan Digital secara
 teratur, wajar, transparan, dan efisien.
@@ -268,7 +263,6 @@ teratur, wajar, transparan, dan efisien.
 sebagaimana dimaksud pada ayat (1), Penyelenggara
 Perdagangan Aset Keuangan Digital harus menerapkan:
 a. prinsip tata kelola yang baik;
-
 
 -----
 
@@ -296,7 +290,7 @@ Kriteria Aset Keuangan Digital yang Diperdagangkan di
 
 Pasar Aset Keuangan Digital
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Aset Keuangan Digital yang dapat diperdagangkan di
 Pasar Aset Keuangan Digital harus memenuhi kriteria:
 a. diterbitkan, disimpan, ditransfer, dan/atau
@@ -317,7 +311,7 @@ Evaluasi Aset Keuangan Digital oleh
 
 Otoritas Jasa Keuangan
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Otoritas Jasa Keuangan berwenang melakukan
 evaluasi atas Aset Keuangan Digital yang
 diperdagangkan di Pasar Aset Keuangan Digital.
@@ -329,7 +323,6 @@ tertentu di Pasar Aset Keuangan Digital; dan/atau
 b. memerintahkan Pedagang untuk menghentikan
 perdagangan Aset Keuangan Digital tertentu.
 
-
 -----
 
 Paragraf 3
@@ -337,7 +330,7 @@ Mekanisme Penghentian dan Penyelesaian Perdagangan
 
 Aset Keuangan Digital
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Pedagang wajib menghentikan perdagangan Aset
 Keuangan Digital yang diperintahkan untuk dihentikan
 perdagangannya oleh Otoritas Jasa Keuangan.
@@ -351,7 +344,7 @@ dimaksud pada ayat (2) berakhir, Pedagang dilarang
 memfasilitasi perdagangan Aset Keuangan Digital
 kepada Konsumen.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Pedagang wajib melakukan penyelesaian terhadap Aset
 Keuangan Digital milik Konsumen yang dinyatakan:
 a. dihentikan perdagangannya oleh Pedagang; atau
@@ -383,7 +376,6 @@ sampai dengan Pedagang melakukan penyelesaian
 kepada Konsumen sebagaimana dimaksud pada
 ayat (1).
 
-
 -----
 
 Bagian Kedua
@@ -396,7 +388,7 @@ Kriteria Aset Kripto yang Diperdagangkan di
 
 Pasar Aset Keuangan Digital
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Selain memenuhi kriteria Aset Keuangan Digital
 sebagaimana dimaksud dalam Pasal 4 ayat (1), Aset
 Kripto yang diperdagangkan di Pasar Aset Keuangan
@@ -413,9 +405,7 @@ e. telah dilakukan penilaian dengan metode yang
 ditetapkan dalam peraturan dan tata tertib Bursa.
 (2) Metode pada ayat (1) huruf e mempertimbangkan paling
 
-
 sedikit:
-
 
 a. nilai kapitalisasi pasar Aset Kripto;
 b. rata-rata nilai perdagangan harian;
@@ -443,7 +433,6 @@ TPPU, TPPT, dan PPSPM; dan
 n. pertimbangan lain yang ditetapkan oleh Otoritas
 Jasa Keuangan.
 
-
 -----
 
 Paragraf 2
@@ -451,14 +440,14 @@ Mekanisme Penetapan Aset Kripto yang Diperdagangkan di
 
 Pasar Aset Keuangan Digital
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Bursa menetapkan Daftar Aset Kripto.
 (2) Penyelenggara Perdagangan Aset Keuangan Digital
 dilarang melakukan perdagangan atas Aset Kripto
 selain Aset Kripto dalam Daftar Aset Kripto
 sebagaimana dimaksud pada ayat (1).
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Dalam menetapkan Daftar Aset Kripto sebagaimana
 dimaksud dalam Pasal 9 ayat (1), Bursa wajib
 melakukan analisis terhadap setiap Aset Kripto
@@ -485,7 +474,7 @@ sebagaimana dimaksud dalam Pasal 9 ayat (1) paling
 lama 1 (satu) hari setelah Daftar Aset Kripto ditetapkan
 pada media resmi Bursa.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Pedagang dapat menyampaikan usulan penambahan
 dan/atau pengurangan Aset Kripto dalam Daftar Aset
 Kripto kepada Bursa untuk ditetapkan dalam Daftar
@@ -498,13 +487,12 @@ dan/atau pengurangan Aset Kripto oleh Pedagang
 sebagaimana dimaksud pada ayat (1) dituangkan di
 dalam peraturan dan tata tertib Bursa.
 
-
 -----
 
 Paragraf 3
 Pemberitahuan Perdagangan Aset Kripto oleh Pedagang
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Pedagang yang akan memperdagangkan Aset Kripto
 tertentu yang telah tercantum dalam Daftar Aset Kripto
 wajib menyampaikan pemberitahuan secara tertulis
@@ -537,7 +525,7 @@ ditetapkan oleh Otoritas Jasa Keuangan.
 Paragraf 4
 Evaluasi Daftar Aset Kripto
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Bursa wajib melakukan evaluasi atas Aset Kripto dalam
 Daftar Aset Kripto yang telah ditetapkan paling sedikit
 1 (satu) kali dalam 3 (tiga) bulan dan/atau sewaktuwaktu.
@@ -556,7 +544,6 @@ ayat (1).
 Keuangan paling lama 5 (lima) hari kerja sejak evaluasi
 dilakukan sebagaimana dimaksud pada ayat (1).
 (5) Dalam hal berdasarkan hasil evaluasi Aset Kripto dalam
-
 
 -----
 
@@ -583,7 +570,7 @@ pada ayat (4) ditetapkan oleh Otoritas Jasa Keuangan.
 Paragraf 5
 Evaluasi Aset Kripto oleh Otoritas Jasa Keuangan
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Otoritas Jasa Keuangan berwenang melakukan
 evaluasi atas Aset Kripto dalam Daftar Aset Kripto.
 (2) Berdasarkan evaluasi yang dilakukan Otoritas Jasa
@@ -604,7 +591,7 @@ dalam Daftar Aset Kripto.
 Paragraf 6
 Mekanisme Penghentian dan Penyelesaian Perdagangan
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) Pedagang wajib menghentikan perdagangan Aset Kripto
 tertentu yang:
 a. dinyatakan dicabut dari Daftar Aset Kripto
@@ -615,7 +602,6 @@ oleh Otoritas Jasa Keuangan sebagaimana
 dimaksud dalam Pasal 14 ayat (3) huruf b.
 (2) Penghentian perdagangan Aset Kripto tertentu oleh
 Pedagang sebagaimana dimaksud pada ayat (1) wajib
-
 
 -----
 
@@ -628,7 +614,7 @@ Kripto tertentu sebagaimana dimaksud pada ayat (2)
 berakhir, Pedagang dilarang memfasilitasi perdagangan
 Aset Kripto tertentu kepada Konsumen.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Pedagang wajib melakukan penyelesaian terhadap Aset
 Kripto tertentu milik Konsumen yang dinyatakan:
 a. dicabut dari Daftar Aset Kripto;
@@ -669,13 +655,12 @@ ayat (1).
 Bagian Ketiga
 Sanksi Administratif
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 6, Pasal 7 ayat (1), ayat (2), ayat
 (4), ayat (5), ayat (6), Pasal 9 ayat (2), Pasal 10 ayat (1),
 ayat (2), ayat (3), ayat (5), Pasal 11 ayat (2), Pasal 12
 ayat (1), ayat (2), Pasal 13 ayat (1), ayat (2), ayat (4), ayat
-
 
 -----
 
@@ -717,7 +702,7 @@ Bursa
 Paragraf 1
 Badan Hukum Bursa
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) Badan hukum Bursa berbentuk perseroan terbatas.
 (2) Bursa sebagaimana dimaksud pada ayat (1) didirikan
 paling sedikit oleh 11 (sebelas) perseroan terbatas.
@@ -732,13 +717,12 @@ dimaksud pada ayat (2) mayoritas harus melakukan
 kegiatan di bidang Aset Keuangan Digital paling singkat
 3 (tiga) tahun.
 
-
 -----
 
 Paragraf 2
 Persyaratan Bursa
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) Bursa yang mengajukan izin usaha kepada Otoritas
 Jasa Keuangan harus memenuhi persyaratan memiliki
 modal disetor paling sedikit Rp1.000.000.000.000,00
@@ -753,7 +737,7 @@ b. pinjaman; dan
 c. kegiatan lain yang bertentangan dengan ketentuan
 peraturan perundang-undangan.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Selain persyaratan permodalan sebagaimana dimaksud
 dalam Pasal 19 ayat (1), Bursa harus memenuhi
 persyaratan sebagai berikut:
@@ -780,7 +764,7 @@ dan _certified information systems security professional_
 dalam rangka pengawasan dan pengamanan transaksi
 Aset Keuangan Digital pada Pedagang.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Bursa harus memenuhi persyaratan sistem
 pengawasan dan pelaporan sebagaimana dimaksud
 dalam Pasal 20 ayat (1) huruf b paling sedikit:
@@ -791,7 +775,6 @@ Penyelesaian serta Pedagang;
 b. memiliki fungsi yang dapat melindungi akses data
 profil, keuangan, dan transaksi setiap Konsumen;
 c. memiliki rencana kelangsungan bisnis;
-
 
 -----
 
@@ -850,7 +833,6 @@ i. memiliki pengamanan _open_ _application_
 _programming_ _interface_ yang telah memiliki
 prosedur.
 
-
 -----
 
 (2) Dalam hal _server_ atau _cloud server sebagaimana_
@@ -885,7 +867,7 @@ mendapatkan izin usaha dari Otoritas Jasa Keuangan.
 transaksi wajib terlebih dahulu mendapat persetujuan
 dari Otoritas Jasa Keuangan.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) Peraturan dan tata tertib Bursa sebagaimana dimaksud
 dalam Pasal 20 ayat (1) huruf c harus paling sedikit
 memuat:
@@ -909,7 +891,6 @@ dan tata tertib Bursa.
 (2) Peraturan dan tata tertib Bursa sebagaimana dimaksud
 pada ayat (1) termasuk perubahannya wajib
 
-
 -----
 
 mendapatkan persetujuan terlebih dahulu dari Otoritas
@@ -918,7 +899,7 @@ Jasa Keuangan.
 Paragraf 3
 Organ Perusahaan
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Saham Bursa hanya dapat dimiliki oleh:
 a. Anggota Bursa;
 b. perseroan terbatas; dan/atau
@@ -940,7 +921,7 @@ kepemilikan modal asing sebagaimana dimaksud pada
 ayat (4) paling banyak 40% (empat puluh persen) dari
 seluruh saham Bursa.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 (1) Bursa wajib memiliki anggota Direksi paling sedikit 3
 (tiga) orang dan paling banyak 7 (tujuh) orang.
 (2) Bursa wajib memiliki anggota Dewan Komisaris paling
@@ -963,18 +944,17 @@ mengajukan calon anggota Dewan Komisaris dan
 anggota Direksi kepada Otoritas Jasa Keuangan untuk
 mendapatkan persetujuan.
 
-
 -----
 
 Paragraf 4
 Tanggung Jawab, Tugas, dan Kewenangan Bursa
 
-Pasal 25
+### Pasal 25 ^pasal-25
 Bursa bertanggung jawab mengawasi pelaksanaan transaksi
 perdagangan Aset Keuangan Digital agar berjalan dengan
 teratur, wajar, dan transparan.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 (1) Bursa wajib melaksanakan tugas:
 a. menyediakan fasilitas sistem yang andal untuk
 terselenggaranya pelaporan dan pengawasan
@@ -1022,7 +1002,6 @@ f. meminta konfirmasi atau penjelasan tambahan
 atas laporan dan informasi yang diperlukan dari
 Pedagang;
 
-
 -----
 
 g. melakukan tindakan yang dianggap perlu untuk
@@ -1049,14 +1028,14 @@ Badan Hukum Lembaga Kliring Penjaminan dan
 
 Penyelesaian
 
-Pasal 27
+### Pasal 27 ^pasal-27
 Badan hukum Lembaga Kliring Penjaminan dan
 Penyelesaian berbentuk perseroan terbatas.
 
 Paragraf 2
 Persyaratan Lembaga Kliring Penjaminan dan Penyelesaian
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) Lembaga Kliring Penjaminan dan Penyelesaian yang
 
 mengajukan izin usaha kepada Otoritas Jasa Keuangan
@@ -1070,9 +1049,7 @@ puluh persen) dari modal disetor sebagaimana
 dimaksud pada ayat (1).
 (3) Sumber dana modal disetor sebagaimana dimaksud
 
-
 pada ayat (1) dilarang berasal dari:
-
 
 a. kegiatan TPPU, TPPT, dan/atau PPSPM;
 b. pinjaman; dan
@@ -1090,10 +1067,9 @@ Penyimpanan; dan
 b. memiliki peraturan dan tata tertib Lembaga Kliring
 Penjaminan dan Penyelesaian.
 
-
 -----
 
-Pasal 29
+### Pasal 29 ^pasal-29
 (1) Sistem penjaminan penyelesaian transaksi milik
 Lembaga Kliring Penjaminan dan Penyelesaian
 sebagaimana dimaksud dalam Pasal 28 ayat (4) huruf a
@@ -1147,7 +1123,6 @@ yang terjadi, saldo dana dan Aset Keuangan
 Digital, serta mutasi transaksi Konsumen
 dengan durasi waktu paling singkat 6 (enam)
 bulan terakhir; dan
-
 
 -----
 
@@ -1206,10 +1181,9 @@ mendapatkan izin usaha dari Otoritas Jasa Keuangan.
 transaksi wajib terlebih dahulu mendapat persetujuan
 dari Otoritas Jasa Keuangan.
 
-
 -----
 
-Pasal 30
+### Pasal 30 ^pasal-30
 (1) Peraturan dan tata tertib Lembaga Kliring Penjaminan
 dan Penyelesaian sebagaimana dimaksud dalam Pasal
 28 ayat (4) huruf b harus paling sedikit memuat:
@@ -1233,7 +1207,7 @@ Keuangan.
 Paragraf 3
 Organ Perusahaan
 
-Pasal 31
+### Pasal 31 ^pasal-31
 (1) Saham Lembaga Kliring Penjaminan dan Penyelesaian
 hanya dapat dimiliki oleh:
 a. orang perseorangan;
@@ -1254,7 +1228,7 @@ ayat (2) paling banyak 40% (empat puluh persen) dari
 seluruh saham Lembaga Kliring Penjaminan dan
 Penyelesaian.
 
-Pasal 32
+### Pasal 32 ^pasal-32
 (1) Lembaga Kliring Penjaminan dan Penyelesaian wajib
 memiliki anggota Direksi paling sedikit 3 (tiga) orang
 dan paling banyak 7 (tujuh) orang.
@@ -1265,7 +1239,6 @@ anggota Direksi.
 (3) Anggota Direksi Lembaga Kliring Penjaminan dan
 Penyelesaian dilarang mempunyai jabatan rangkap
 sebagai anggota Dewan Komisaris, anggota Direksi,
-
 
 -----
 
@@ -1290,13 +1263,13 @@ Paragraf 4
 Tanggung Jawab, Tugas, dan Kewenangan
 Lembaga Kliring Penjaminan dan Penyelesaian
 
-Pasal 33
+### Pasal 33 ^pasal-33
 Lembaga Kliring Penjaminan dan Penyelesaian bertanggung
 jawab melaksanakan kliring dan penjaminan penyelesaian
 transaksi Aset Keuangan Digital agar berjalan dengan
 teratur, wajar, transparan, dan efisien.
 
-Pasal 34
+### Pasal 34 ^pasal-34
 (1) Lembaga Kliring Penjaminan dan Penyelesaian wajib
 melaksanakan tugas:
 a. menyediakan fasilitas sistem yang andal untuk
@@ -1323,7 +1296,6 @@ memanfaatkan jasa pembayaran;
 g. memastikan penyelesaian hak dan kewajiban
 Pedagang dan Konsumen, dalam hal terjadi cidera
 janji;
-
 
 -----
 
@@ -1384,7 +1356,6 @@ penyimpanan Aset Keuangan Digital untuk
 melakukan penyimpanan, pemeliharaan,
 pengawasan, dan/atau penyerahan Aset
 
-
 -----
 
 Keuangan Digital untuk mendapatkan perizinan
@@ -1440,17 +1411,16 @@ Pengelola Tempat Penyimpanan
 Paragraf 1
 Badan Hukum Pengelola Tempat Penyimpanan
 
-Pasal 35
+### Pasal 35 ^pasal-35
 Badan hukum Pengelola Tempat Penyimpanan berbentuk
 perseroan terbatas.
-
 
 -----
 
 Paragraf 2
 Persyaratan Pengelola Tempat Penyimpanan
 
-Pasal 36
+### Pasal 36 ^pasal-36
 (1) Pengelola Tempat Penyimpanan yang mengajukan izin
 usaha kepada Otoritas Jasa Keuangan harus
 memenuhi persyaratan memiliki modal disetor paling
@@ -1504,7 +1474,6 @@ transaksi Aset Keuangan Digital pada Pedagang.
 (5) Dalam hal Pengelola Tempat Penyimpanan tidak
 memiliki pegawai sebagaimana dimaksud pada ayat (4)
 
-
 -----
 
 huruf e, Pengelola Tempat Penyimpanan dapat bekerja
@@ -1516,7 +1485,7 @@ dan _certified information systems security professional_
 dalam rangka pengawasan dan pengamanan transaksi
 Aset Keuangan Digital pada Pedagang.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 (1) Pengelola Tempat Penyimpanan harus memenuhi
 persyaratan sistem dan sarana penyimpanan
 sebagaimana dimaksud dalam Pasal 36 ayat (4) huruf b
@@ -1562,7 +1531,6 @@ melakukan pencampuran;
 5. memiliki penjabaran teknis pengamanan Aset
 Keuangan Digital yang baik dengan
 pemisahan media atau sarana penyimpanan,
-
 
 -----
 
@@ -1621,7 +1589,6 @@ dimaksud pada ayat (1) huruf e angka 2 disediakan oleh
 pihak ketiga, pihak ketiga memiliki kantor perwakilan
 resmi di Indonesia.
 
-
 -----
 
 (3) Sistem dan sarana penyimpanan sebagaimana
@@ -1670,7 +1637,7 @@ penyimpanan Aset Keuangan Digital.
 Paragraf 3
 Organ Perusahaan
 
-Pasal 38
+### Pasal 38 ^pasal-38
 Pengelola Tempat Penyimpanan dapat didirikan dan dimiliki
 oleh:
 a. warga negara Indonesia;
@@ -1678,10 +1645,9 @@ b. badan hukum Indonesia;
 c. warga negara asing; dan/atau
 d. badan hukum asing.
 
-
 -----
 
-Pasal 39
+### Pasal 39 ^pasal-39
 (1) Pengelola Tempat Penyimpanan wajib memiliki anggota
 Direksi paling sedikit 3 (tiga) orang dan paling banyak
 7 (tujuh) orang.
@@ -1706,7 +1672,7 @@ Keuangan untuk mendapatkan persetujuan.
 Paragraf 4
 Tugas dan Kewenangan Pengelola Tempat Penyimpanan
 
-Pasal 40
+### Pasal 40 ^pasal-40
 (1) Pengelola Tempat Penyimpanan wajib melaksanakan
 tugas:
 a. menyiapkan sarana dan prasarana penyimpanan
@@ -1736,7 +1702,6 @@ Lembaga Kliring Penjaminan dan Penyelesaian;
 i. menjalankan mekanisme mitigasi risiko untuk
 menjamin keamanan Aset Keuangan Digital yang
 disimpannya;
-
 
 -----
 
@@ -1790,16 +1755,13 @@ Penyimpanan.
 Paragraf 5
 Tata Kelola Penyimpanan dan Pengamanan
 
-
 Aset Keuangan Digital
 
-
-Pasal 41
+### Pasal 41 ^pasal-41
 (1) Dalam menyusun dan menjalankan standar prosedur
 operasional sebagaimana dimaksud dalam Pasal 36
 ayat (4) huruf d, Pengelola Tempat Penyimpanan wajib
 menerapkan tata kelola penyimpanan Aset Keuangan
-
 
 -----
 
@@ -1861,7 +1823,6 @@ dilakukan melalui metode:
 
 1. wawancara serta verifikasi identitas; dan
 
-
 -----
 
 2. penelitian yang lebih mendalam kepada Pihak
@@ -1913,14 +1874,13 @@ i. tidak menempatkan cold Wallet dalam satu tempat
 yang sama dengan cold Wallet lain yang berfungsi
 sebagai cadangan.
 
-Pasal 42
+### Pasal 42 ^pasal-42
 (1) Pengelola Tempat Penyimpanan harus menerapkan tata
 kelola pengamanan perpindahan Aset Keuangan Digital
 dari cold Wallet kepada _hot Wallet atau sebaliknya_
 dilakukan dengan ketentuan:
 a. standar prosedur operasional perpindahan Aset
 Keuangan Digital terdiri atas:
-
 
 -----
 
@@ -1980,7 +1940,6 @@ penyimpanan;
 b. telah mengikuti pelatihan pengenalan awal dalam
 kurun waktu tertentu;
 
-
 -----
 
 c. membuat perjanjian mengenai kerahasiaan data
@@ -1992,7 +1951,7 @@ dan bidang lain paling singkat 2 (dua) tahun
 dengan menunjukkan tanda bukti bekerja pada
 bidang tersebut.
 
-Pasal 43
+### Pasal 43 ^pasal-43
 Pengelola Tempat Penyimpanan wajib memiliki sistem
 penyimpanan Aset Keuangan Digital yang didukung dengan:
 a. penetapan enkripsi pengiriman Aset Keuangan Digital
@@ -2009,13 +1968,13 @@ Pedagang
 Paragraf 1
 Badan Hukum Pedagang
 
-Pasal 44
+### Pasal 44 ^pasal-44
 Badan hukum Pedagang berbentuk perseroan terbatas.
 
 Paragraf 2
 Persyaratan Pedagang
 
-Pasal 45
+### Pasal 45 ^pasal-45
 (1) Pedagang yang mengajukan izin usaha kepada Otoritas
 Jasa Keuangan harus memenuhi persyaratan memiliki
 modal disetor paling sedikit Rp100.000.000.000,00
@@ -2043,7 +2002,6 @@ d. keterkaitan dengan pelaku pasar lain yang dapat
 berdampak sistemik.
 (5) Selain persyaratan permodalan sebagaimana dimaksud
 pada ayat (1), Pedagang harus memenuhi persyaratan:
-
 
 -----
 
@@ -2103,7 +2061,6 @@ dapat bekerja sama dengan:
 yang bersertifikasi certified information systems security
 _professional._
 
-
 -----
 
 (7) Dalam hal Pedagang mengambil posisi untuk diri
@@ -2126,7 +2083,7 @@ Kliring Penjaminan dan Penyelesaian, serta
 Konsumen; dan
 f. melakukan pencatatan tersendiri.
 
-Pasal 46
+### Pasal 46 ^pasal-46
 (1) Pedagang harus memenuhi persyaratan sistem dan
 sarana perdagangan daring sebagaimana dimaksud
 dalam Pasal 45 ayat (5) huruf b paling sedikit:
@@ -2160,7 +2117,6 @@ Lembaga Kliring Penjaminan dan
 Penyelesaian, serta Pengelola Tempat
 Penyimpanan secara _real-time_ sesuai dengan
 protokol yang telah ditentukan oleh Otoritas
-
 
 -----
 
@@ -2220,7 +2176,6 @@ Tempat Penyimpanan; dan/atau
 b. tidak memenuhi persyaratan sebagaimana diatur
 pada ayat (1), peraturan dan tata tertib Bursa,
 
-
 -----
 
 dan/atau peraturan dan tata tertib Lembaga
@@ -2239,7 +2194,7 @@ mendapatkan izin usaha dari Otoritas Jasa Keuangan.
 terlebih dahulu mendapat persetujuan dari Otoritas
 Jasa Keuangan.
 
-Pasal 47
+### Pasal 47 ^pasal-47
 (1) Dalam hal Pedagang berperan menjadi _market maker_
 atau liquidity provider, Pedagang wajib melaporkannya
 kepada Otoritas Jasa Keuangan.
@@ -2251,7 +2206,7 @@ Keuangan.
 Paragraf 3
 Organ Perusahaan
 
-Pasal 48
+### Pasal 48 ^pasal-48
 (1) Pedagang dapat didirikan dan dimiliki oleh:
 a. warga negara Indonesia;
 b. badan hukum Indonesia;
@@ -2269,7 +2224,7 @@ pada ayat (1) huruf c dan huruf d yang memiliki model
 bisnis atau kegiatan yang sama dengan Pedagang,
 hanya dapat dilakukan pada 1 (satu) Pedagang.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 (1) Pedagang wajib memiliki anggota Direksi paling sedikit
 3 (tiga) orang dengan mayoritas anggota Direksi
 berstatus Warga Negara Indonesia dan berdomisili di
@@ -2279,7 +2234,6 @@ anggota Dewan Komisaris dan paling banyak sama
 dengan jumlah anggota Direksi.
 (3) Pedagang wajib memiliki direktur utama yang berstatus
 Warga Negara Indonesia.
-
 
 -----
 
@@ -2301,7 +2255,7 @@ Keuangan untuk mendapatkan persetujuan.
 Paragraf 4
 Kewajiban Pedagang
 
-Pasal 50
+### Pasal 50 ^pasal-50
 (1) Pedagang wajib memenuhi ketentuan:
 a. menyampaikan permohonan persetujuan kepada
 Otoritas Jasa Keuangan setiap terjadinya
@@ -2337,7 +2291,6 @@ transaksi untuk seluruh jenis Aset Keuangan
 Digital;
 j. menyelenggarakan kegiatan literasi dan edukasi
 baik dalam bentuk seminar, promosi, _workshop,_
-
 
 -----
 
@@ -2378,7 +2331,7 @@ dalam pengelolaan sebagai Pedagang.
 Paragraf 5
 Ruang Lingkup Kegiatan Pedagang
 
-Pasal 51
+### Pasal 51 ^pasal-51
 (1) Ruang lingkup kegiatan Pedagang dalam perdagangan
 Aset Keuangan Digital meliputi:
 a. jual dan/atau beli antara Aset Keuangan Digital
@@ -2397,7 +2350,6 @@ Keuangan.
 (3) Kegiatan sebagaimana dimaksud pada ayat (1) dan ayat
 (2) wajib diatur dalam tata cara perdagangan Pedagang.
 
-
 -----
 
 (4) Tata cara perdagangan sebagaimana dimaksud pada
@@ -2409,7 +2361,7 @@ mendapatkan persetujuan Otoritas Jasa Keuangan.
 dilakukan pengkajian dan dilakukan penilaian
 risikonya, termasuk risiko TPPU, TPPT, dan PPSPM.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 (1) Dalam menjalankan ruang lingkup kegiatan
 sebagaimana dimaksud dalam Pasal 51 ayat (1) dan
 ayat (2), Pedagang dilarang:
@@ -2456,7 +2408,6 @@ b. secara langsung dan/atau tidak langsung
 menjalankan pengelolaan dan/atau memengaruhi
 kebijakan perusahaan;
 
-
 -----
 
 c. memiliki hak opsi atau hak lain untuk memiliki
@@ -2479,7 +2430,7 @@ hanya dapat diberikan kepada Pedagang setelah
 memenuhi persyaratan sebagaimana ditetapkan oleh
 Otoritas Jasa Keuangan.
 
-Pasal 53
+### Pasal 53 ^pasal-53
 Pedagang dalam menjalankan kegiatan perdagangan Aset
 Keuangan Digital memiliki kewenangan:
 a. menerima atau menolak calon Konsumen berdasarkan
@@ -2493,7 +2444,7 @@ kewajaran.
 Bagian Kelima
 Sanksi Administratif
 
-Pasal 54
+### Pasal 54 ^pasal-54
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 18 ayat (3), Pasal 19 ayat (2),
 ayat (3), Pasal 21 ayat (6), ayat (7), Pasal 22 ayat (2),
@@ -2514,7 +2465,6 @@ b. penghentian sementara, sebagian, atau seluruh
 kegiatan termasuk pelaksanaan kerja sama;
 c. pemberhentian dan/atau penggantian pengurus;
 
-
 -----
 
 d. pencantuman Pihak Utama dalam daftar orang
@@ -2529,18 +2479,14 @@ sebagaimana dimaksud pada ayat (1) huruf a.
 BAB IV
 PERIZINAN PENYELENGGARA PERDAGANGAN ASET
 
-
 KEUANGAN DIGITAL
-
 
 Bagian Kesatu
 Perizinan Penyelenggara Perdagangan Aset Keuangan
 
-
 Digital
 
-
-Pasal 55
+### Pasal 55 ^pasal-55
 (1) Penyelenggara Perdagangan Aset Keuangan Digital
 dapat menjalankan usaha setelah memperoleh izin
 usaha dari Otoritas Jasa Keuangan.
@@ -2557,7 +2503,7 @@ Peraturan Otoritas Jasa Keuangan ini.
 disampaikan melalui sistem perizinan Otoritas Jasa
 Keuangan.
 
-Pasal 56
+### Pasal 56 ^pasal-56
 (1) Persetujuan atau penolakan atas permohonan izin
 usaha diajukan oleh pemohon yang merupakan Bursa,
 Lembaga Kliring Penjaminan dan Penyelesaian,
@@ -2581,7 +2527,6 @@ berdasarkan pertimbangan tertentu Otoritas Jasa
 Keuangan dapat meminta dokumen dan/atau informasi
 tambahan kepada pemohon.
 
-
 -----
 
 (4) Pemohon menyampaikan dokumen dan/atau informasi
@@ -2593,7 +2538,7 @@ Keuangan.
 Bagian Kedua
 Penghentian Kegiatan dan Pencabutan Izin Usaha
 
-Pasal 57
+### Pasal 57 ^pasal-57
 (1) Penyelenggara Perdagangan Aset Keuangan Digital yang
 akan menghentikan kegiatan usaha harus
 menyampaikan permohonan penghentian kegiatan
@@ -2641,7 +2586,6 @@ dimaksud pada ayat (3) telah diselesaikan,
 Penyelenggara Perdagangan Aset Keuangan Digital
 mengajukan permohonan pencabutan izin usaha
 
-
 -----
 
 kepada Otoritas Jasa Keuangan secara tertulis disertai
@@ -2664,7 +2608,7 @@ Keuangan menerbitkan keputusan pencabutan izin
 usaha Penyelenggara Perdagangan Aset Keuangan
 Digital.
 
-Pasal 58
+### Pasal 58 ^pasal-58
 Otoritas Jasa Keuangan berwenang mencabut izin usaha
 Penyelenggara Perdagangan Aset Keuangan Digital dengan
 menerbitkan keputusan pencabutan izin usaha, dalam hal:
@@ -2675,7 +2619,7 @@ pencabutan izin usaha; dan/atau
 b. terdapat putusan pengadilan yang telah berkekuatan
 hukum tetap.
 
-Pasal 59
+### Pasal 59 ^pasal-59
 Apabila terdapat kewajiban Penyelenggara Perdagangan Aset
 Keuangan Digital yang belum diselesaikan setelah tanggal
 keputusan pencabutan izin usaha sebagaimana dimaksud
@@ -2686,7 +2630,7 @@ Keuangan Digital.
 BAB V
 PENILAIAN KEMAMPUAN DAN KEPATUTAN
 
-Pasal 60
+### Pasal 60 ^pasal-60
 (1) Pihak Utama Bursa, Lembaga Kliring Penjaminan dan
 Penyelesaian, Pengelola Tempat Penyimpanan, dan
 Pedagang, meliputi:
@@ -2700,7 +2644,6 @@ fungsinya sebagai Pihak Utama.
 (3) Untuk memberikan persetujuan sebagaimana
 dimaksud pada ayat (2), Otoritas Jasa Keuangan
 melakukan penilaian kemampuan dan kepatutan
-
 
 -----
 
@@ -2732,7 +2675,7 @@ sebagaimana dimaksud pada ayat (5) huruf a.
 dan kepatutan terhadap Pihak Utama ditetapkan oleh
 Otoritas Jasa Keuangan.
 
-Pasal 61
+### Pasal 61 ^pasal-61
 (1) Dalam hal Pihak Utama sebagaimana dimaksud dalam
 Pasal 60 ayat (1) terindikasi terlibat dan/atau
 bertanggung jawab terhadap permasalahan integritas,
@@ -2755,12 +2698,11 @@ Prinsip Tata Kelola pada Penyelenggara Perdagangan
 
 Aset Keuangan Digital
 
-Pasal 62
+### Pasal 62 ^pasal-62
 (1) Penyelenggara Perdagangan Aset Keuangan Digital
 wajib menerapkan prinsip tata kelola yang baik dalam
 setiap kegiatan usahanya pada seluruh tingkatan atau
 jenjang organisasi.
-
 
 -----
 
@@ -2807,7 +2749,7 @@ dari 5 (lima) tahun.
 Bagian Kedua
 Komitmen Pemegang saham
 
-Pasal 63
+### Pasal 63 ^pasal-63
 (1) Pemegang saham Penyelenggara Perdagangan Aset
 Keuangan Digital wajib memenuhi persyaratan
 integritas dan kelayakan keuangan.
@@ -2819,7 +2761,6 @@ kepatutan oleh Otoritas Jasa Keuangan.
 Keuangan Digital dilarang melakukan intervensi dalam
 pelaksanaan kegiatan usaha dan/atau operasional
 Penyelenggara Perdagangan Aset Keuangan Digital.
-
 
 -----
 
@@ -2838,7 +2779,7 @@ Dewan Komisaris
 Paragraf 1
 Pelaksanaan Tugas dan Tanggung Jawab Direksi
 
-Pasal 64
+### Pasal 64 ^pasal-64
 (1) Direksi Penyelenggara Perdagangan Aset Keuangan
 Digital bertugas menjalankan dan bertanggung jawab
 atas pengurusan perusahaan untuk kepentingan
@@ -2855,7 +2796,7 @@ perusahaan sebagaimana dimaksud pada ayat (1)
 dengan iktikad baik, kehati-hatian, dan penuh
 tanggung jawab.
 
-Pasal 65
+### Pasal 65 ^pasal-65
 (1) Direksi Penyelenggara Perdagangan Aset Keuangan
 Digital wajib memastikan pelaksanaan penerapan
 prinsip tata kelola yang baik sebagaimana dimaksud
@@ -2872,13 +2813,12 @@ d. hasil pengawasan Otoritas Jasa Keuangan.
 Paragraf 2
 Pelaksanaan Tugas dan Tanggung Jawab Dewan Komisaris
 
-Pasal 66
+### Pasal 66 ^pasal-66
 (1) Dewan Komisaris Penyelenggara Perdagangan Aset
 Keuangan Digital bertugas dan bertanggung jawab atas
 pengawasan terhadap kebijakan pengurusan, jalannya
 pengurusan Penyelenggara Perdagangan Aset
 Keuangan Digital dan melakukan pemberian nasihat
-
 
 -----
 
@@ -2900,7 +2840,7 @@ Keuangan Digital wajib melaksanakan tugas dan
 tanggung jawab sebagaimana dimaksud pada ayat (1)
 secara independen.
 
-Pasal 67
+### Pasal 67 ^pasal-67
 (1) Dewan Komisaris Penyelenggara Perdagangan Aset
 Keuangan Digital wajib melakukan pengawasan
 terhadap tindak lanjut Direksi Penyelenggara
@@ -2931,12 +2871,11 @@ keuangan sebagaimana dimaksud pada ayat (2).
 Paragraf 3
 Larangan Direksi dan Dewan Komisaris
 
-Pasal 68
+### Pasal 68 ^pasal-68
 Anggota Direksi dan anggota Dewan Komisaris
 Penyelenggara Perdagangan Aset Keuangan Digital dilarang:
 a. menyalahgunakan wewenangnya untuk kepentingan
 pribadi, keluarga, dan/atau pihak lain; dan
-
 
 -----
 
@@ -2951,11 +2890,9 @@ Pengendalian Internal
 Paragraf 1
 Penerapan Pengendalian Internal pada Penyelenggara
 
-
 Perdagangan Aset Keuangan Digital
 
-
-Pasal 69
+### Pasal 69 ^pasal-69
 (1) Penyelenggara Perdagangan Aset Keuangan Digital
 wajib melaksanakan pengendalian internal dalam
 menjalankan kegiatan usahanya.
@@ -2966,7 +2903,7 @@ fungsi:
 a. kepatuhan dan audit internal; dan
 b. manajemen risiko.
 
-Pasal 70
+### Pasal 70 ^pasal-70
 (1) Pegawai pada Penyelenggara Perdagangan Aset
 Keuangan Digital yang melaksanakan masing-masing
 fungsi sebagaimana dimaksud dalam Pasal 69 ayat (2)
@@ -2981,7 +2918,7 @@ secara independen.
 Paragraf 2
 Pelaksanaan Fungsi Kepatuhan dan Audit Internal
 
-Pasal 71
+### Pasal 71 ^pasal-71
 Pelaksanaan fungsi kepatuhan dan audit internal
 sebagaimana dimaksud dalam Pasal 69 ayat (2) huruf a
 paling sedikit mencakup:
@@ -3000,7 +2937,6 @@ memengaruhi kegiatan usaha secara signifikan;
 d. penyusunan dan pelaksanaan program audit yang
 memadai terhadap keseluruhan unit kerja yang
 
-
 -----
 
 pelaksanaannya mempertimbangkan tingkat risiko
@@ -3012,7 +2948,7 @@ dan audit internal yang memerlukan perhatian Direksi.
 Paragraf 3
 Pelaksanaan Fungsi Manajemen Risiko
 
-Pasal 72
+### Pasal 72 ^pasal-72
 (1) Pelaksanaan fungsi manajemen risiko sebagaimana
 dimaksud dalam Pasal 69 ayat (2) huruf b paling sedikit
 mencakup:
@@ -3039,7 +2975,7 @@ c. pengukuran, pemantauan, dan pengendalian
 risiko; dan
 d. mitigasi risiko.
 
-Pasal 73
+### Pasal 73 ^pasal-73
 (1) Pelaksana fungsi kepatuhan dan audit internal serta
 fungsi manajemen risiko bertanggung jawab kepada
 anggota Direksi yang membawahkan fungsi dimaksud.
@@ -3055,11 +2991,10 @@ kali dalam 1 (satu) tahun.
 Bagian Kelima
 Rencana Bisnis
 
-Pasal 74
+### Pasal 74 ^pasal-74
 (1) Penyelenggara Perdagangan Aset Keuangan Digital
 wajib memiliki rencana bisnis yang realistis, terukur,
 dan berkesinambungan.
-
 
 -----
 
@@ -3093,7 +3028,7 @@ Digital;
 c. prinsip kehati-hatian; dan
 d. penerapan manajemen risiko.
 
-Pasal 75
+### Pasal 75 ^pasal-75
 (1) Direksi Penyelenggara Perdagangan Aset Keuangan
 Digital bertanggung jawab atas pelaksanaan rencana
 bisnis dan sosialisasi rencana bisnis kepada seluruh
@@ -3102,7 +3037,7 @@ pegawai.
 Keuangan Digital bertanggung jawab melakukan
 pengawasan terhadap pelaksanaan rencana bisnis.
 
-Pasal 76
+### Pasal 76 ^pasal-76
 (1) Penyelenggara Perdagangan Aset Keuangan Digital
 wajib menyampaikan rencana bisnis kepada Otoritas
 Jasa Keuangan sebagaimana dimaksud dalam Pasal 74
@@ -3119,7 +3054,6 @@ penyesuaian dalam hal rencana bisnis yang
 disampaikan dinilai belum sepenuhnya memenuhi
 ketentuan terkait dengan kegiatan perdagangan Aset
 Keuangan Digital.
-
 
 -----
 
@@ -3152,11 +3086,9 @@ Benturan Kepentingan
 Paragraf 1
 Kebijakan Penanganan Benturan Kepentingan bagi
 
-
 Penyelenggara Perdagangan Aset Keuangan Digital
 
-
-Pasal 77
+### Pasal 77 ^pasal-77
 (1) Anggota Direksi, anggota Dewan Komisaris, dan
 pegawai Penyelenggara Perdagangan Aset Keuangan
 Digital harus menghindari segala bentuk benturan
@@ -3181,13 +3113,12 @@ benturan kepentingan; dan
 f. administrasi dan dokumentasi benturan
 kepentingan.
 
-
 -----
 
 Bagian Ketujuh
 Sanksi Administratif
 
-Pasal 78
+### Pasal 78 ^pasal-78
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 62 ayat (1), ayat (4), ayat (5),
 Pasal 63 ayat (1), ayat (3), ayat (4), Pasal 64 ayat (3),
@@ -3232,19 +3163,16 @@ menyampaikan rencana bisnis dimaksud.
 BAB VII
 PENYELENGGARAAN PERDAGANGAN
 
-
 ASET KEUANGAN DIGITAL
-
 
 Bagian Kesatu
 Perdagangan Aset Keuangan Digital
 
-Pasal 79
+### Pasal 79 ^pasal-79
 Penyelenggara Perdagangan Aset Keuangan Digital wajib
 memperdagangkan Aset Keuangan Digital sesuai dengan
 mekanisme perdagangan yang diatur dalam Peraturan
 Otoritas Jasa Keuangan ini.
-
 
 -----
 
@@ -3252,7 +3180,7 @@ Paragraf 1
 Penerimaan Calon Konsumen dan
 Penerapan Program APU, PPT, dan PPPSPM
 
-Pasal 80
+### Pasal 80 ^pasal-80
 (1) Dalam penerimaan calon Konsumen, Pedagang wajib
 membuat perjanjian paling sedikit memuat:
 a. profil Pedagang;
@@ -3304,7 +3232,6 @@ c. hanya untuk tujuan investasi, dan tidak sebagai
 sarana untuk pembayaran atau transfer kekayaan,
 dibuktikan dengan surat pernyataan yang dibuat
 
-
 -----
 
 dan ditandatangani oleh pihak yang berhak
@@ -3325,7 +3252,7 @@ sistem dan sarana perdagangan yang telah menerapkan
 prinsip pengenalan dan pemantauan transaksi dan
 prinsip travel rule yang terintegrasi.
 
-Pasal 81
+### Pasal 81 ^pasal-81
 (1) Dalam proses penerimaan calon Konsumen, Pedagang
 wajib melakukan identifikasi dan verifikasi pada calon
 Konsumen untuk memastikan kebenaran dan
@@ -3359,11 +3286,10 @@ penerimaan Konsumen, selama menjadi Konsumen,
 pemantauan transaksi, dan proses penginian penilaian
 risiko Konsumen secara berkala.
 
-Pasal 82
+### Pasal 82 ^pasal-82
 (1) Dalam menerapkan program APU, PPT, dan PPPSPM
 dan verifikasi data Konsumen, Pedagang wajib memiliki
 perjanjian kerja sama untuk memperoleh hak akses
-
 
 -----
 
@@ -3403,7 +3329,7 @@ banyak Rp25.000.000,00 (dua puluh lima juta
 rupiah); dan
 c. pelayanan kegiatan dan perizinan lain.
 
-Pasal 83
+### Pasal 83 ^pasal-83
 (1) Dalam proses penerimaan calon Konsumen
 sebagaimana dimaksud dalam Pasal 80 ayat (1)
 Pedagang wajib memiliki sistem penerimaan Konsumen
@@ -3424,7 +3350,6 @@ Pedagang sebagaimana dimaksud dalam Pasal 45 ayat
 (4) Sistem penerimaan Konsumen secara daring
 sebagaimana dimaksud pada ayat (1) paling sedikit
 memuat tahapan:
-
 
 -----
 
@@ -3471,7 +3396,7 @@ lembaga independen yang berkompeten di bidang
 sistem informasi, sebelum diajukan kepada Otoritas
 Jasa Keuangan untuk mendapatkan persetujuan.
 
-Pasal 84
+### Pasal 84 ^pasal-84
 (1) Pedagang harus menyediakan fasilitas kepada calon
 Konsumen untuk membuat kata sandi atas akun
 transaksinya.
@@ -3484,13 +3409,12 @@ Konsumen dan telah membuat kata sandi atas akun
 transaksi bertanggung jawab penuh atas keamanan
 penggunaan akun transaksi tersebut.
 
-
 -----
 
 Paragraf 2
 Penempatan Dana dan Aset Keuangan Digital
 
-Pasal 85
+### Pasal 85 ^pasal-85
 (1) Konsumen yang melakukan perdagangan Aset
 Keuangan Digital melalui Pedagang harus terlebih
 dahulu menempatkan:
@@ -3505,7 +3429,7 @@ Pedagang.
 dimaksud pada ayat (1) huruf b dilakukan dengan
 menerapkan prinsip travel rule.
 
-Pasal 86
+### Pasal 86 ^pasal-86
 (1) Penempatan dana Konsumen pada rekening yang
 terpisah dari Pedagang sebagaimana dimaksud dalam
 Pasal 85 ayat (1) huruf a, dilakukan melalui
@@ -3543,7 +3467,6 @@ yang dikelola.
 ditempatkan oleh Lembaga Kliring Penjaminan dan
 Penyelesaian, dalam rekening yang secara khusus
 
-
 -----
 
 dipergunakan untuk memfasilitasi penjaminan
@@ -3558,7 +3481,7 @@ terverifikasi untuk penerimaan dana.
 (satu) akun dan untuk 1 (satu) nomor telepon yang
 terdaftar pada Pedagang.
 
-Pasal 87
+### Pasal 87 ^pasal-87
 (1) Rekening yang terpisah sebagaimana dimaksud dalam
 Pasal 85 ayat (1) huruf a hanya dapat dipergunakan
 oleh Pedagang setelah mendapat persetujuan dari
@@ -3575,7 +3498,7 @@ Persetujuan Rekening Yang Terpisah tercantum dalam
 Lampiran pada Bagian M yang merupakan bagian tidak
 terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
 
-Pasal 88
+### Pasal 88 ^pasal-88
 Pedagang wajib memberikan kuasa kepada Lembaga Kliring
 Penjaminan dan Penyelesaian untuk melakukan tindakan
 yang berkaitan dengan pengawasan rekening yang terpisah
@@ -3584,7 +3507,7 @@ tercantum dalam Lampiran pada Bagian L yang merupakan
 bagian tidak terpisahkan dari Peraturan Otoritas Jasa
 Keuangan ini.
 
-Pasal 89
+### Pasal 89 ^pasal-89
 Bank penyimpan dana Konsumen yang bekerja sama
 dengan Lembaga Kliring Penjaminan dan Penyelesaian
 harus memenuhi kriteria paling sedikit:
@@ -3603,13 +3526,12 @@ c. penyelesaian dana secara _real-time_ bagi setiap
 Konsumen yang melakukan penyetoran dan/atau
 penarikan dana; dan
 
-
 -----
 
 d. menerbitkan nomor rekening virtual baik berupa _open_
 _payment dan close payment._
 
-Pasal 90
+### Pasal 90 ^pasal-90
 (1) Konsumen hanya dapat menjual Aset Keuangan Digital
 jika Konsumen memiliki saldo Aset Keuangan Digital
 pada Pedagang.
@@ -3643,7 +3565,7 @@ Lembaga Kliring Penjaminan dan Penyelesaian wajib
 melakukan pertukaran informasi terkait saldo atau
 catatan kepemilikan Aset Keuangan Digital secara real_time._
 
-Pasal 91
+### Pasal 91 ^pasal-91
 (1) Pedagang wajib menjaga keamanan dan bertanggung
 jawab jika terjadi kehilangan Aset Keuangan Digital
 milik Konsumen yang disimpan oleh Pedagang
@@ -3661,7 +3583,6 @@ puluh persen) secara daring atau hot storage.
 (4) Penyimpanan secara luring atau _cold_ _storage_
 sebagaimana dimaksud pada ayat (3) dapat dilakukan
 dengan:
-
 
 -----
 
@@ -3684,7 +3605,7 @@ yang disimpan sendiri oleh Pedagang sebagaimana
 dimaksud pada ayat (2) untuk kepentingan Pedagang
 tanpa izin dari Konsumen.
 
-Pasal 92
+### Pasal 92 ^pasal-92
 (1) Pengelola Tempat Penyimpanan wajib memiliki
 mekanisme mitigasi risiko untuk menjamin keamanan
 Aset Keuangan Digital yang disimpan oleh Pedagang
@@ -3696,7 +3617,7 @@ kehilangan Aset Keuangan Digital yang disimpannya.
 Paragraf 3
 Transaksi Aset Keuangan Digital
 
-Pasal 93
+### Pasal 93 ^pasal-93
 (1) Pedagang dilarang memfasilitasi transaksi Aset
 Keuangan Digital jika Konsumen tidak memiliki
 kecukupan dana dan/atau saldo Aset Keuangan Digital.
@@ -3722,13 +3643,12 @@ d. melakukan pendebetan dan pengkreditan rekening
 keuangan Konsumen dan/atau Pedagang untuk
 kepentingan penjaminan penyelesaian transaksi.
 
-
 -----
 
 Paragraf 4
 Penarikan Aset Keuangan Digital dan Penarikan Dana
 
-Pasal 94
+### Pasal 94 ^pasal-94
 (1) Konsumen harus melakukan penyelesaian seluruh
 kewajiban keuangan kepada Pedagang serta Lembaga
 Kliring Penjaminan dan Penyelesaian sebelum
@@ -3745,7 +3665,7 @@ sebagaimana dimaksud pada ayat (2).
 (4) Dana Konsumen sebagaimana dimaksud pada ayat (2)
 menggunakan mata uang Rupiah.
 
-Pasal 95
+### Pasal 95 ^pasal-95
 (1) Penarikan Aset Keuangan Digital oleh Konsumen dari
 Pedagang hanya dapat dilakukan jika berdasarkan
 hasil verifikasi sebagaimana dimaksud dalam Pasal 94
@@ -3780,17 +3700,14 @@ terpisah Pedagang ke rekening bank atas nama
 Konsumen yang terdaftar dalam aplikasi pembukaan
 rekening Konsumen.
 
-
 -----
 
 Bagian Kedua
 Penerapan Program APU, PPT, dan PPPSPM
 
-
 di Sektor Jasa Keuangan
 
-
-Pasal 96
+### Pasal 96 ^pasal-96
 (1) Dalam memberikan jasa perpindahan atau transfer
 Aset Keuangan Digital, Pedagang wajib menerapkan
 prinsip travel rule sebagai berikut:
@@ -3830,7 +3747,7 @@ prinsip travel rule.
 Bagian Ketiga
 Penerapan Prinsip Pengenalan dan Pemantauan Transaksi
 
-Pasal 97
+### Pasal 97 ^pasal-97
 (1) Penyelenggara perdagangan Aset Keuangan Digital
 wajib menerapkan prinsip pengenalan dan pemantauan
 transaksi terkait kegiatan transfer atau pemindahan
@@ -3841,7 +3758,6 @@ dengan berbasis _regulatory_ _technology,_ untuk
 memantau dan meninjau transaksi pengenalan dan
 pemantauan transaksi saat ini dan rekam jejaknya di
 masa lampau guna mengetahui ada tidaknya transaksi
-
 
 -----
 
@@ -3854,11 +3770,9 @@ aplikasi pihak ketiga.
 Bagian Keempat
 Larangan Penyalahgunaan Pasar dalam kegiatan
 
-
 perdagangan di Pasar Aset Keuangan Digital
 
-
-Pasal 98
+### Pasal 98 ^pasal-98
 (1) Dalam kegiatan perdagangan Aset Keuangan Digital,
 setiap pihak dilarang terlibat dalam perilaku
 penyalahgunaan pasar yang terkait dengan
@@ -3875,7 +3789,7 @@ dan
 c. pihak lain yang terkait dengan penyelenggaraan
 perdagangan Aset Keuangan Digital.
 
-Pasal 99
+### Pasal 99 ^pasal-99
 (1) Penyelenggara Perdagangan Aset Keuangan Digital
 wajib melakukan pencegahan, pemantauan, dan
 tindakan yang diperlukan terhadap perilaku
@@ -3897,12 +3811,11 @@ melalui laporan insidental.
 Bagian Kelima
 Penyelesaian Hak dan Kewajiban Konsumen
 
-Pasal 100
+### Pasal 100 ^pasal-100
 (1) Pedagang wajib menyelesaikan seluruh hak dan
 kewajiban kepada Konsumen dalam hal Pedagang
 mengakhiri kegiatan usaha perdagangan Aset
 Keuangan Digital.
-
 
 -----
 
@@ -3944,7 +3857,7 @@ termasuk Aset Kripto sebagaimana dimaksud pada ayat
 Bagian Keenam
 Sanksi Administratif
 
-Pasal 101
+### Pasal 101 ^pasal-101
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 79, Pasal 80 ayat (1), ayat (2),
 ayat (3), Pasal 81 ayat (1), ayat (5), ayat (6), ayat (7),
@@ -3963,7 +3876,6 @@ c. pencantuman Pihak Utama dalam daftar orang
 tercela di sektor keuangan; dan/atau
 d. pencabutan izin usaha.
 
-
 -----
 
 (2) Sanksi administratif sebagaimana dimaksud pada ayat
@@ -3975,7 +3887,7 @@ dimaksud pada ayat (1) huruf a.
 BAB VIII
 AKTIVITAS PENUNJANG
 
-Pasal 102
+### Pasal 102 ^pasal-102
 (1) Pasar Aset Keuangan Digital dapat didukung dengan
 aktivitas penunjang.
 (2) Aktivitas penunjang sebagaimana dimaksud pada ayat
@@ -3998,7 +3910,7 @@ dimaksud pada ayat (2).
 Bagian Kesatu
 Penyedia Jasa Pembayaran
 
-Pasal 103
+### Pasal 103 ^pasal-103
 Penyedia jasa pembayaran sebagaimana dimaksud dalam
 Pasal 102 ayat (2) huruf a harus memenuhi persyaratan:
 a. memiliki izin dari instansi atau otoritas yang berwenang
@@ -4014,13 +3926,12 @@ manajemen keamanan informasi.
 Bagian Kedua
 Penyedia Jasa Fasilitasi Transaksi Aset Keuangan Digital
 
-Pasal 104
+### Pasal 104 ^pasal-104
 Penyedia jasa fasilitasi transaksi Aset Keuangan Digital
 sebagaimana dimaksud dalam Pasal 102 ayat (2) huruf b
 harus memenuhi persyaratan:
 a. memiliki sistem fasilitasi transaksi Aset Keuangan
 Digital secara elektronik daring;
-
 
 -----
 
@@ -4035,7 +3946,7 @@ dan
 e. memiliki sertifikasi standar internasional terkait sistem
 manajemen keamanan informasi.
 
-Pasal 105
+### Pasal 105 ^pasal-105
 Penyedia jasa pembayaran dan penyedia jasa fasilitasi
 transaksi Aset Keuangan Digital sebagaimana dimaksud
 dalam Pasal 102 ayat (2) huruf a dan huruf b wajib
@@ -4070,14 +3981,13 @@ g. menyampaikan laporan secara berkala atau sewaktuwaktu.
 Bagian Ketiga
 Sanksi Administratif
 
-Pasal 106
+### Pasal 106 ^pasal-106
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 102 ayat (3), dan Pasal 105,
 dikenakan sanksi administratif berupa:
 a. peringatan tertulis;
 b. penghentian sementara, sebagian, atau seluruh
 kegiatan;
-
 
 -----
 
@@ -4096,7 +4006,7 @@ PELAPORAN
 Bagian Kesatu
 Pelaporan Penyelenggara Perdagangan Aset Keuangan
 
-Pasal 107
+### Pasal 107 ^pasal-107
 (1) Penyelenggara Perdagangan Aset Keuangan Digital
 wajib menyampaikan:
 a. laporan berkala; dan
@@ -4114,7 +4024,7 @@ benar.
 penyajian laporan Penyelenggara Perdagangan Aset
 Keuangan Digital sebagaimana dimaksud pada ayat (3).
 
-Pasal 108
+### Pasal 108 ^pasal-108
 (1) Laporan berkala sebagaimana dimaksud dalam Pasal
 107 ayat (1) huruf a terdiri atas:
 a. laporan harian;
@@ -4138,7 +4048,6 @@ d. laporan tahunan sebagaimana dimaksud pada
 ayat (1) huruf d disampaikan paling lambat tanggal
 30 April pada tahun berikutnya.
 
-
 -----
 
 (3) Laporan keuangan tahunan Penyelenggara
@@ -4154,7 +4063,7 @@ pada hari libur, batas waktu penyampaian laporan
 sebagaimana dimaksud pada ayat (2) pada hari kerja
 pertama berikutnya.
 
-Pasal 109
+### Pasal 109 ^pasal-109
 (1) Penyelenggara Perdagangan Aset Keuangan Digital yang
 tidak menyampaikan laporan sampai dengan
 berakhirnya jangka waktu sebagaimana dimaksud
@@ -4177,7 +4086,7 @@ dan mekanisme penyampaian laporan berkala
 Penyelenggara Perdagangan Aset Keuangan Digital
 ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 110
+### Pasal 110 ^pasal-110
 (1) Laporan insidental sebagaimana dimaksud dalam Pasal
 107 ayat (1) huruf b meliputi:
 a. perubahan nama;
@@ -4198,7 +4107,6 @@ dimaksud pada ayat (1) wajib disampaikan paling lama
 (3) Penyelenggara Perdagangan Aset Keuangan Digital yang
 menyampaikan laporan insidental setelah jangka waktu
 
-
 -----
 
 sebagaimana dimaksud pada ayat (2) hingga paling
@@ -4218,13 +4126,13 @@ dan mekanisme penyampaian laporan insidental
 Penyelenggara Perdagangan Aset Keuangan Digital
 ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 111
+### Pasal 111 ^pasal-111
 Laporan lain sebagaimana dimaksud dalam Pasal 107 ayat
 (2) wajib disampaikan kepada Otoritas Jasa Keuangan
 sesuai dengan jangka waktu yang ditetapkan dalam surat
 permintaan.
 
-Pasal 112
+### Pasal 112 ^pasal-112
 (1) Penyelenggara Perdagangan Aset Keuangan Digital
 wajib melaporkan setiap transaksi keuangan yang
 mencurigakan kepada Kepala Pusat Pelaporan Analisis
@@ -4239,7 +4147,7 @@ serta proliferasi senjata pemusnah massal.
 Bagian Kedua
 Sanksi Administratif
 
-Pasal 113
+### Pasal 113 ^pasal-113
 (1) Penyelenggara Perdagangan Aset Keuangan Digital yang
 melanggar ketentuan sebagaimana dimaksud dalam
 107 ayat (1), ayat (3), Pasal 108 ayat (2), ayat (4), Pasal
@@ -4256,7 +4164,6 @@ e. pencabutan izin usaha.
 tidak memenuhi ketentuan sebagaimana dimaksud
 dalam Pasal 108 ayat (2) huruf b, huruf c, dan huruf d
 dikenai sanksi administratif berupa denda sebesar Rp
-
 
 -----
 
@@ -4294,7 +4201,7 @@ PENGAWASAN
 Bagian Kesatu
 Pengawasan oleh Otoritas Jasa Keuangan
 
-Pasal 114
+### Pasal 114 ^pasal-114
 (1) Otoritas Jasa Keuangan melakukan pengawasan
 terhadap Penyelenggara Perdagangan Aset Keuangan
 Digital dan aktivitas penunjang di Pasar Aset Keuangan
@@ -4304,7 +4211,7 @@ dilakukan oleh Otoritas Jasa Keuangan secara:
 a. langsung; dan/atau
 b. tidak langsung.
 
-Pasal 115
+### Pasal 115 ^pasal-115
 (1) Pengawasan secara langsung sebagaimana dimaksud
 dalam Pasal 114 ayat (2) huruf a dilakukan melalui
 pemeriksaan secara:
@@ -4316,7 +4223,6 @@ a. penyelenggaraan perdagangan;
 b. tata kelola; dan
 c. kepatuhan terhadap ketentuan peraturan
 perundang-undangan.
-
 
 -----
 
@@ -4333,7 +4239,7 @@ kegiatan usaha; dan/atau
 e. hal lain yang diperlukan,
 sesuai permintaan Otoritas Jasa Keuangan.
 
-Pasal 116
+### Pasal 116 ^pasal-116
 Pengawasan secara tidak langsung sebagaimana dimaksud
 dalam Pasal 114 ayat (2) huruf b dilakukan melalui:
 a. penelitian;
@@ -4346,7 +4252,7 @@ sebagaimana dimaksud dalam Pasal 114 ayat (1).
 Bagian Kedua
 Sanksi Administratif
 
-Pasal 117
+### Pasal 117 ^pasal-117
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 115 ayat (3), dikenakan sanksi
 administratif berupa:
@@ -4365,11 +4271,9 @@ dimaksud pada ayat (1) huruf a.
 BAB XI
 MEKANISME PERMOHONAN PERSETUJUAN KEPADA
 
-
 OTORITAS JASA KEUANGAN
 
-
-Pasal 118
+### Pasal 118 ^pasal-118
 (1) Penyelenggara Perdagangan Aset Keuangan Digital dan
 aktivitas penunjang di Pasar Aset Keuangan Digital
 mengajukan permohonan persetujuan kepada Otoritas
@@ -4378,7 +4282,6 @@ permohonan persetujuan yang ditandatangani oleh
 anggota Direksi tercantum dalam Lampiran pada
 Bagian N yang merupakan bagian tidak terpisahkan
 dari Peraturan Otoritas Jasa Keuangan ini.
-
 
 -----
 
@@ -4431,13 +4334,16 @@ melampirkan penjelasan rencana kegiatan yang
 dimaksud.
 (6) Dalam hal permohonan persetujuan sebagaimana
 dimaksud pada ayat (2) huruf i pemohon melampirkan
-penjelasan rencana pemberian akses atau kerja sama
+
+## Penjelasan
+
+### I. Umum
+
 disertai dengan dokumen perjanjian kerja sama.
 (7) Otoritas Jasa Keuangan menyampaikan persetujuan
 atau penolakan atas permohonan sebagaimana
 dimaksud pada ayat (1) paling lama 20 (dua puluh) hari
 kerja sejak dokumen diterima secara lengkap.
-
 
 -----
 
@@ -4463,9 +4369,7 @@ PELINDUNGAN DATA PRIBADI
 Bagian Kesatu
 Penerapan Pelindungan Data Pribadi oleh Penyelenggara
 
-
 Perdagangan Aset Keuangan Digital
-
 
 Pasal 119
 (1) Penyelenggara Perdagangan Aset Keuangan Digital
@@ -4498,7 +4402,6 @@ c. menyampaikan setiap perubahan tujuan
 pemanfaatan data dan informasi kepada
 Konsumen dalam hal terdapat perubahan tujuan
 pemanfaatan data dan informasi;
-
 
 -----
 
@@ -4556,15 +4459,12 @@ mematuhi ketentuan peraturan perundang-undangan
 mengenai pelindungan konsumen dan masyarakat di sektor
 jasa keuangan.
 
-
 -----
 
 Bagian Kedua
 Pengungkapan Penyediaan Informasi terkait
 
-
 Aset Keuangan Digital
-
 
 Pasal 122
 Pedagang wajib menyediakan dan menyampaikan informasi
@@ -4605,9 +4505,7 @@ sebelum melakukan transaksi.
 Bagian Ketiga
 Komunikasi Pemasaran Produk dan/atau Layanan
 
-
 Aset Keuangan Digital
-
 
 Pasal 124
 (1) Dalam melakukan pemasaran produk dan/atau
@@ -4619,7 +4517,6 @@ memenuhi ketentuan paling sedikit:
 a. bersifat transparan kepada Konsumen;
 b. memuat peringatan mengenai risiko dan volatilitas
 harga;
-
 
 -----
 
@@ -4683,7 +4580,6 @@ Keuangan ini, Penyelenggara Perdagangan Aset Keuangan
 Digital tunduk pada seluruh kewajiban dalam ketentuan
 Otoritas Jasa Keuangan terkait, program APU, PPT, dan
 
-
 -----
 
 PPPSPM di sektor jasa keuangan, pelindungan Konsumen,
@@ -4741,7 +4637,6 @@ sejak Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku.
 (2) Penyelenggara Perdagangan Aset Keuangan Digital yang
 tidak mengajukan permohonan persetujuan dalam
-
 
 -----
 
@@ -4801,7 +4696,6 @@ d. pengelola tempat penyimpanan aset kripto yang
 telah memperoleh izin usaha, persetujuan, tanda
 daftar, keputusan, dan/atau penetapan lain dari
 
-
 -----
 
 Bappebti dinyatakan memiliki izin usaha sebagai
@@ -4857,7 +4751,6 @@ Keuangan Digital yang sedang dilaksanakan oleh Bappebti
 sebelum waktu beralihnya tugas pengaturan dan
 pengawasan, pelaksanaannya tetap diselesaikan Bappebti.
 
-
 -----
 
 BAB XVII
@@ -4882,7 +4775,6 @@ Pasal 140
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku sejak
 tanggal 10 Januari 2025.
 
-
 -----
 
 Agar setiap orang mengetahuinya, memerintahkan
@@ -4899,37 +4791,28 @@ REPUBLIK INDONESIA,
 
 Œ
 
-
 MAHENDRA SIREGAR
 
-
 Œ
-
 
 Diundangkan di Jakarta
 pada tanggal         Д
 
 MENTERI HUKUM REPUBLIK INDONESIA,
 
-
 Д
 
-
 Ѽ
-
 
 SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR    Ж
 
-
 Ѽ
-
 
 -----
 
 PENJELASAN
-
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -4940,12 +4823,7 @@ NOMOR 27 TAHUN 2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL
 
-
 TERMASUK ASET KRIPTO
-
-
-I. UMUM
-
 
 Aset Keuangan Digital mengalami perkembangan yang positif dan
 berpotensi untuk mendukung perkembangan sektor jasa keuangan. Hal
@@ -4985,21 +4863,16 @@ Pembentukan Peraturan Otoritas Jasa Keuangan tentang
 Penyelenggaraan Perdagangan Aset Keuangan Digital termasuk Aset
 Kripto diharapkan dapat memenuhi amanat UU P2SK dengan baik dan
 
-
 -----
 
 dapat mencegah adanya gejolak akibat peralihan tugas pengaturan dan
 pengawasan dari Bappebti kepada Otoritas Jasa Keuangan.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 
@@ -5028,10 +4901,7 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 3
-
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 
@@ -5053,10 +4923,7 @@ Aset Keuangan Digital.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 4
-
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 
@@ -5095,10 +4962,7 @@ Ayat (2)
 Penawaran perdana Aset Keuangan Digital antara lain
 penawaran perdana Aset Kripto (Initial Coin Offering) dan/atau
 penawaran perdana tokenisasi (Initial Token Offering).
-
-Pasal 5
-
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 
@@ -5116,20 +4980,11 @@ ketentuan peraturan perundang-undangan.
 Huruf b
 
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Cukup jelas.
-
-Pasal 7
-
-
+#### Pasal 7 ^penjelasan-pasal-7
 Cukup jelas.
-
-
-Pasal 8
-
-
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Huruf a
@@ -5255,16 +5110,9 @@ Cukup jelas.
 Huruf n
 
 Cukup jelas.
-
-Pasal 9
-
-
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas.
-
-
-Pasal 10
-
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 
@@ -5281,22 +5129,11 @@ Cukup jelas.
 Ayat (5)
 
 Media resmi Bursa antara lain situs web.
-
-Pasal 11
-
-
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-
-
-Pasal 12
-
-
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-
-Pasal 13
-
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 
@@ -5343,29 +5180,13 @@ Ayat (6)
 
 
 Cukup jelas.
-
-
-Pasal 14
-
-
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
-
-
-Pasal 15
-
-
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
-
-
-Pasal 16
-
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-
-Pasal 17
-
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 
@@ -5396,10 +5217,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 18
-
-
+#### Pasal 18 ^penjelasan-pasal-18
 Ayat (1)
 
 
@@ -5443,22 +5261,11 @@ melakukan kegiatan di bidang Aset Keuangan Digital.
 Penghitungan 3 (tiga) tahun dihitung sejak tanggal persetujuan
 pendirian perseroan terbatas dari kementerian yang
 menyelenggarakan urusan pemerintahan di bidang hukum.
-
-Pasal 19
-
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-
-Pasal 20
-
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
-
-
-Pasal 21
-
-
+#### Pasal 21 ^penjelasan-pasal-21
 Ayat (1)
 
 
@@ -5521,16 +5328,9 @@ Ayat (7)
 
 
 Cukup jelas.
-
-
-Pasal 22
-
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
-
-Pasal 23
-
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 
 
@@ -5554,23 +5354,14 @@ Ayat (5)
 
 
 Cukup jelas.
-
-
-Pasal 24
-
-
+#### Pasal 24 ^penjelasan-pasal-24
 Cukup jelas.
-
-
-Pasal 25
-
-
+#### Pasal 25 ^penjelasan-pasal-25
 Yang dimaksud “teratur, wajar, dan transparan” lihat penjelasan
-Pasal 3 ayat (1).
+#### Pasal 3 ^penjelasan-pasal-3-2
+ayat (1).
 
-Pasal 26
-
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 
@@ -5614,22 +5405,11 @@ Huruf i
 Keadaan yang mengancam penyelenggaraan perdagangan
 antara lain serangan siber secara sistemik pada mayoritas
 Pedagang.
-
-Pasal 27
-
-
+#### Pasal 27 ^penjelasan-pasal-27
 Cukup jelas.
-
-
-Pasal 28
-
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-
-Pasal 29
-
-
+#### Pasal 29 ^penjelasan-pasal-29
 Ayat (1)
 
 
@@ -5689,34 +5469,19 @@ Ayat (8)
 
 
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Lihat penjelasan Pasal 3 ayat (1).
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Cukup jelas.
-
-Pasal 36
-
-
+#### Pasal 36 ^penjelasan-pasal-36
 Ayat (1)
 
 
@@ -5754,10 +5519,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 37
-
-
+#### Pasal 37 ^penjelasan-pasal-37
 Ayat (1)
 
 
@@ -5824,24 +5586,13 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Cukup jelas.
-
-Pasal 40
-
-
+#### Pasal 40 ^penjelasan-pasal-40
 Cukup jelas.
-
-
-Pasal 41
-
-
+#### Pasal 41 ^penjelasan-pasal-41
 Ayat (1)
 
 
@@ -5965,11 +5716,7 @@ Huruf i
 
 
 Cukup jelas.
-
-
-Pasal 42
-
-
+#### Pasal 42 ^penjelasan-pasal-42
 Ayat (1)
 
 
@@ -6009,10 +5756,7 @@ dimasukkan ke dalam daftar putih (whitelist).
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 43
-
-
+#### Pasal 43 ^penjelasan-pasal-43
 Huruf a
 
 
@@ -6024,14 +5768,9 @@ Huruf c
 
 Perjanjian tingkat layanan lebih dikenal dengan istilah service
 _level agreement._
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Cukup jelas.
-
-Pasal 45
-
-
+#### Pasal 45 ^penjelasan-pasal-45
 Ayat (1)
 
 
@@ -6088,10 +5827,7 @@ Yang dimaksud dengan ”pencatatan tersendiri” adalah
 pencatatan atas transaksi perdagangan Aset Keuangan
 Digital yang dilakukan oleh Pedagang untuk atas nama
 Pedagang, bukan untuk memfasilitasi Konsumen.
-
-Pasal 46
-
-
+#### Pasal 46 ^penjelasan-pasal-46
 Ayat (1)
 
 
@@ -6153,10 +5889,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 47
-
-
+#### Pasal 47 ^penjelasan-pasal-47
 Ayat (1)
 
 
@@ -6164,41 +5897,19 @@ Lihat Penjelasan Pasal 45 ayat (7) huruf a.
 Ayat (2)
 
 Lihat Penjelasan Pasal 45 ayat (7) huruf a.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
-
-Pasal 49
-
-
+#### Pasal 49 ^penjelasan-pasal-49
 Cukup jelas.
-
-
-Pasal 50
-
-
+#### Pasal 50 ^penjelasan-pasal-50
 Cukup jelas.
-
-
-Pasal 51
-
-
+#### Pasal 51 ^penjelasan-pasal-51
 Cukup jelas.
-
-
-Pasal 52
-
-
+#### Pasal 52 ^penjelasan-pasal-52
 Cukup jelas.
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Cukup jelas.
-
-Pasal 54
-
-
+#### Pasal 54 ^penjelasan-pasal-54
 Ayat (1)
 
 
@@ -6221,88 +5932,36 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 55
-
-
+#### Pasal 55 ^penjelasan-pasal-55
 Cukup jelas.
-
-
-Pasal 56
-
-
+#### Pasal 56 ^penjelasan-pasal-56
 Cukup jelas.
-
-
-Pasal 57
-
-
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
 
 
 -----
-
-Pasal 58
-
-
+#### Pasal 58 ^penjelasan-pasal-58
 Cukup jelas.
-
-Pasal 59
-
-
+#### Pasal 59 ^penjelasan-pasal-59
 Cukup jelas.
-
-
-Pasal 60
-
-
+#### Pasal 60 ^penjelasan-pasal-60
 Cukup jelas.
-
-
-Pasal 61
-
-
+#### Pasal 61 ^penjelasan-pasal-61
 Cukup jelas.
-
-
-Pasal 62
-
-
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
-
-Pasal 63
-
-
+#### Pasal 63 ^penjelasan-pasal-63
 Cukup jelas.
-
-
-Pasal 64
-
-
+#### Pasal 64 ^penjelasan-pasal-64
 Cukup jelas.
-
-
-Pasal 65
-
-
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
-
-
-Pasal 66
-
-
+#### Pasal 66 ^penjelasan-pasal-66
 Cukup jelas.
-
-
-Pasal 67
-
-
+#### Pasal 67 ^penjelasan-pasal-67
 Cukup jelas.
-
-
-Pasal 68
-
-
+#### Pasal 68 ^penjelasan-pasal-68
 Huruf a
 Cukup jelas.
 Huruf b
@@ -6317,11 +5976,7 @@ Keuangan Digital, misalnya memanfaatkan informasi
 orang dalam atau informasi tidak publik lainnya; dan
 3. penghasilan lainnya yang tidak bertentangan dengan
 peraturan perundang-undangan.
-
-
-Pasal 69
-
-
+#### Pasal 69 ^penjelasan-pasal-69
 Ayat (1)
 
 
@@ -6342,10 +5997,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 70
-
-
+#### Pasal 70 ^penjelasan-pasal-70
 Ayat (1)
 
 
@@ -6355,9 +6007,7 @@ melaksanakan fungsi teknologi informasi.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71
 Huruf a
 Cukup jelas.
 Huruf b
@@ -6376,10 +6026,7 @@ Cukup jelas.
 Huruf e
 
 Cukup jelas.
-
-Pasal 72
-
-
+#### Pasal 72 ^penjelasan-pasal-72
 Ayat (1)
 
 
@@ -6405,40 +6052,20 @@ Digital.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 73
-
-
+#### Pasal 73 ^penjelasan-pasal-73
 Cukup jelas.
-
-
-Pasal 74
-
-
+#### Pasal 74 ^penjelasan-pasal-74
 Cukup jelas.
-
-
-Pasal 75
-
-
+#### Pasal 75 ^penjelasan-pasal-75
 Cukup jelas.
-
-
-Pasal 76
-
-
+#### Pasal 76 ^penjelasan-pasal-76
 Cukup jelas.
 
 
 -----
-
-Pasal 77
-
-
+#### Pasal 77 ^penjelasan-pasal-77
 Cukup jelas.
-
-
-Pasal 78
+#### Pasal 78 ^penjelasan-pasal-78
 Ayat (1)
 
 
@@ -6471,12 +6098,9 @@ Ayat (5)
 
 
 Cukup jelas.
-
-
-Pasal 79
+#### Pasal 79 ^penjelasan-pasal-79
 Cukup jelas.
-
-Pasal 80
+#### Pasal 80 ^penjelasan-pasal-80
 Ayat (1)
 
 Cukup jelas.
@@ -6518,10 +6142,7 @@ dengan istilah know your transaction (KYT).
 
 
 -----
-
-Pasal 81
-
-
+#### Pasal 81 ^penjelasan-pasal-81
 Ayat (1)
 
 
@@ -6546,10 +6167,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 82
-
-
+#### Pasal 82 ^penjelasan-pasal-82
 Ayat (1)
 
 
@@ -6581,35 +6199,28 @@ Huruf c
 
 Pelayanan kegiatan dan perizinan lain antara lain staking
 atau inovasi lainnya.
-
-Pasal 83
+#### Pasal 83 ^penjelasan-pasal-83
 Cukup jelas.
-
-Pasal 84
+#### Pasal 84 ^penjelasan-pasal-84
 Cukup jelas.
-
-Pasal 85
+#### Pasal 85 ^penjelasan-pasal-85
 Ayat (1)
 
 Cukup jelas.
 Ayat (2)
 
 Lihat penjelasan Pasal 80 ayat (8).
-
-Pasal 86
+#### Pasal 86 ^penjelasan-pasal-86
 Cukup jelas.
-
-Pasal 87
+#### Pasal 87 ^penjelasan-pasal-87
 Cukup jelas.
 .
 
 
 -----
-
-Pasal 88
+#### Pasal 88 ^penjelasan-pasal-88
 Cukup jelas.
-
-Pasal 89
+#### Pasal 89 ^penjelasan-pasal-89
 Huruf a
 
 Cukup jelas.
@@ -6624,8 +6235,7 @@ Cukup jelas.
 Huruf d
 
 Cukup jelas.
-
-Pasal 90
+#### Pasal 90 ^penjelasan-pasal-90
 Ayat (1)
 
 Cukup jelas.
@@ -6649,19 +6259,16 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 91
+#### Pasal 91 ^penjelasan-pasal-91
 Cukup jelas.
-
-Pasal 92
+#### Pasal 92 ^penjelasan-pasal-92
 Ayat (1)
 
 Lihat penjelasan Pasal 37 ayat (1) huruf j.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 93
+#### Pasal 93 ^penjelasan-pasal-93
 Ayat (1)
 
 Memfasilitasi Aset Keuangan Digital antara lain memberikan
@@ -6673,18 +6280,12 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 94
-
-
+#### Pasal 94 ^penjelasan-pasal-94
 Cukup jelas.
 
 
 -----
-
-Pasal 95
-
-
+#### Pasal 95 ^penjelasan-pasal-95
 Ayat (1)
 
 
@@ -6701,14 +6302,9 @@ Lihat penjelasan Pasal 80 ayat (8).
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 96
-
+#### Pasal 96 ^penjelasan-pasal-96
 Lihat penjelasan Pasal 80 ayat (8).
-
-Pasal 97
-
-
+#### Pasal 97 ^penjelasan-pasal-97
 Ayat (1)
 
 
@@ -6724,10 +6320,7 @@ Aplikasi analisis data _blockchain_ (blockchain analytic tools)
 merupakan aplikasi yang dapat mengumpulkan, memproses,
 dan menganalisis data dari _blockchain baik yang berbayar_
 maupun disediakan secara publik (open source).
-
-Pasal 98
-
-
+#### Pasal 98 ^penjelasan-pasal-98
 Ayat (1)
 
 
@@ -6739,11 +6332,7 @@ Ayat (2)
 
 
 Cukup jelas.
-
-
-Pasal 99
-
-
+#### Pasal 99 ^penjelasan-pasal-99
 Ayat (1)
 
 
@@ -6768,13 +6357,9 @@ Cukup jelas.
 
 
 -----
-
-Pasal 100
+#### Pasal 100 ^penjelasan-pasal-100
 Cukup jelas.
-
-Pasal 101
-
-
+#### Pasal 101 ^penjelasan-pasal-101
 Ayat (1)
 
 
@@ -6794,8 +6379,7 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 102
+#### Pasal 102 ^penjelasan-pasal-102
 Ayat (1)
 
 Cukup jelas.
@@ -6814,8 +6398,7 @@ Huruf b
 Contoh:
 Pedagang tidak boleh melakukan aktivitas sebagai
 penyedia jasa pembayaran.
-
-Pasal 103
+#### Pasal 103 ^penjelasan-pasal-103
 Huruf a
 
 Cukup jelas.
@@ -6828,8 +6411,7 @@ Cukup jelas.
 Huruf d
 
 Lihat penjelasan Pasal 21 ayat (1) huruf d.
-
-Pasal 104
+#### Pasal 104 ^penjelasan-pasal-104
 Huruf a
 
 Cukup jelas.
@@ -6845,14 +6427,12 @@ Cukup jelas.
 Huruf e
 
 Lihat penjelasan Pasal 21 ayat (1) huruf d.
-
-Pasal 105
+#### Pasal 105 ^penjelasan-pasal-105
 Cukup jelas.
 
 
 -----
-
-Pasal 106
+#### Pasal 106 ^penjelasan-pasal-106
 Ayat (1)
 
 
@@ -6872,8 +6452,7 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 107
+#### Pasal 107 ^penjelasan-pasal-107
 Ayat (1)
 
 Cukup jelas.
@@ -6887,14 +6466,9 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 108
+#### Pasal 108 ^penjelasan-pasal-108
 Cukup jelas.
-
-
-Pasal 109
-
-
+#### Pasal 109 ^penjelasan-pasal-109
 Ayat (1)
 
 
@@ -6928,8 +6502,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 110
+#### Pasal 110 ^penjelasan-pasal-110
 Ayat (1)
 
 Cukup jelas.
@@ -6968,47 +6541,34 @@ tidak menyampaikan laporan.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 111
+#### Pasal 111 ^penjelasan-pasal-111
 Cukup jelas.
-
-Pasal 112
+#### Pasal 112 ^penjelasan-pasal-112
 Cukup jelas.
-
-Pasal 113
+#### Pasal 113 ^penjelasan-pasal-113
 Cukup jelas.
-
-Pasal 114
+#### Pasal 114 ^penjelasan-pasal-114
 Cukup jelas.
-
-Pasal 115
+#### Pasal 115 ^penjelasan-pasal-115
 Cukup jelas.
-
-Pasal 116
+#### Pasal 116 ^penjelasan-pasal-116
 Cukup jelas.
-
-Pasal 117
+#### Pasal 117 ^penjelasan-pasal-117
 Cukup jelas.
 
 
 -----
-
-Pasal 118
+#### Pasal 118 ^penjelasan-pasal-118
 Cukup jelas.
-
-Pasal 119
+#### Pasal 119 ^penjelasan-pasal-119
 Cukup jelas.
-
-Pasal 120
+#### Pasal 120 ^penjelasan-pasal-120
 Cukup jelas.
-
-Pasal 121
+#### Pasal 121 ^penjelasan-pasal-121
 Cukup jelas.
-
-Pasal 122
+#### Pasal 122 ^penjelasan-pasal-122
 Cukup jelas.
-
-Pasal 123
+#### Pasal 123 ^penjelasan-pasal-123
 Ayat (1)
 
 Informasi mengenai produk dan/atau layanan Aset Keuangan
@@ -7025,8 +6585,7 @@ dipertanggungjawabkan.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 124
+#### Pasal 124 ^penjelasan-pasal-124
 Ayat (1)
 
 Pemasaran dapat dilakukan melalui media elektronik maupun
@@ -7040,24 +6599,15 @@ Ayat (3)
 
 
 Cukup jelas.
-
-
-Pasal 125
-
-
+#### Pasal 125 ^penjelasan-pasal-125
 Cukup jelas.
-
-
-Pasal 126
+#### Pasal 126 ^penjelasan-pasal-126
 Cukup jelas.
-
-Pasal 127
+#### Pasal 127 ^penjelasan-pasal-127
 Cukup jelas.
-
-Pasal 128
+#### Pasal 128 ^penjelasan-pasal-128
 Cukup jelas.
-
-Pasal 129
+#### Pasal 129 ^penjelasan-pasal-129
 Pertimbangan tertentu didasarkan, antara lain, perkembangan
 industri Aset Keuangan Digital, perubahan risiko atas produk,
 layanan, dan aktivitas, kondisi Pasar Aset Keuangan Digital, dan
@@ -7067,41 +6617,27 @@ layanan, dan aktivitas, kondisi Pasar Aset Keuangan Digital, dan
 
 kondisi signifikan lainnya yang berpengaruh terhadap
 penyelenggaraan perdagangan Aset Keuangan Digital.
-
-
-Pasal 130
-
-
+#### Pasal 130 ^penjelasan-pasal-130
 Cukup jelas.
-
-Pasal 131
+#### Pasal 131 ^penjelasan-pasal-131
 Cukup jelas.
-
-Pasal 132
+#### Pasal 132 ^penjelasan-pasal-132
 Cukup jelas.
-
-Pasal 133
+#### Pasal 133 ^penjelasan-pasal-133
 Cukup jelas.
-
-Pasal 134
+#### Pasal 134 ^penjelasan-pasal-134
 Cukup jelas.
-
-Pasal 135
+#### Pasal 135 ^penjelasan-pasal-135
 Cukup jelas.
-
-Pasal 136
+#### Pasal 136 ^penjelasan-pasal-136
 Cukup jelas.
-
-Pasal 137
+#### Pasal 137 ^penjelasan-pasal-137
 Cukup jelas.
-
-Pasal 138
+#### Pasal 138 ^penjelasan-pasal-138
 Cukup jelas.
-
-Pasal 139
+#### Pasal 139 ^penjelasan-pasal-139
 Cukup jelas.
-
-Pasal 140
+#### Pasal 140 ^penjelasan-pasal-140
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR   ⸙
@@ -9170,3 +8706,148 @@ MAHENDRA SIIREGAR
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 3 | [[#^penjelasan-pasal-3-2]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 74 | [[#^penjelasan-pasal-74]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 80 | [[#^penjelasan-pasal-80]] |
+| Pasal 81 | [[#^penjelasan-pasal-81]] |
+| Pasal 82 | [[#^penjelasan-pasal-82]] |
+| Pasal 83 | [[#^penjelasan-pasal-83]] |
+| Pasal 84 | [[#^penjelasan-pasal-84]] |
+| Pasal 85 | [[#^penjelasan-pasal-85]] |
+| Pasal 86 | [[#^penjelasan-pasal-86]] |
+| Pasal 87 | [[#^penjelasan-pasal-87]] |
+| Pasal 88 | [[#^penjelasan-pasal-88]] |
+| Pasal 89 | [[#^penjelasan-pasal-89]] |
+| Pasal 90 | [[#^penjelasan-pasal-90]] |
+| Pasal 91 | [[#^penjelasan-pasal-91]] |
+| Pasal 92 | [[#^penjelasan-pasal-92]] |
+| Pasal 93 | [[#^penjelasan-pasal-93]] |
+| Pasal 94 | [[#^penjelasan-pasal-94]] |
+| Pasal 95 | [[#^penjelasan-pasal-95]] |
+| Pasal 96 | [[#^penjelasan-pasal-96]] |
+| Pasal 97 | [[#^penjelasan-pasal-97]] |
+| Pasal 98 | [[#^penjelasan-pasal-98]] |
+| Pasal 99 | [[#^penjelasan-pasal-99]] |
+| Pasal 100 | [[#^penjelasan-pasal-100]] |
+| Pasal 101 | [[#^penjelasan-pasal-101]] |
+| Pasal 102 | [[#^penjelasan-pasal-102]] |
+| Pasal 103 | [[#^penjelasan-pasal-103]] |
+| Pasal 104 | [[#^penjelasan-pasal-104]] |
+| Pasal 105 | [[#^penjelasan-pasal-105]] |
+| Pasal 106 | [[#^penjelasan-pasal-106]] |
+| Pasal 107 | [[#^penjelasan-pasal-107]] |
+| Pasal 108 | [[#^penjelasan-pasal-108]] |
+| Pasal 109 | [[#^penjelasan-pasal-109]] |
+| Pasal 110 | [[#^penjelasan-pasal-110]] |
+| Pasal 111 | [[#^penjelasan-pasal-111]] |
+| Pasal 112 | [[#^penjelasan-pasal-112]] |
+| Pasal 113 | [[#^penjelasan-pasal-113]] |
+| Pasal 114 | [[#^penjelasan-pasal-114]] |
+| Pasal 115 | [[#^penjelasan-pasal-115]] |
+| Pasal 116 | [[#^penjelasan-pasal-116]] |
+| Pasal 117 | [[#^penjelasan-pasal-117]] |
+| Pasal 118 | [[#^penjelasan-pasal-118]] |
+| Pasal 119 | [[#^penjelasan-pasal-119]] |
+| Pasal 120 | [[#^penjelasan-pasal-120]] |
+| Pasal 121 | [[#^penjelasan-pasal-121]] |
+| Pasal 122 | [[#^penjelasan-pasal-122]] |
+| Pasal 123 | [[#^penjelasan-pasal-123]] |
+| Pasal 124 | [[#^penjelasan-pasal-124]] |
+| Pasal 125 | [[#^penjelasan-pasal-125]] |
+| Pasal 126 | [[#^penjelasan-pasal-126]] |
+| Pasal 127 | [[#^penjelasan-pasal-127]] |
+| Pasal 128 | [[#^penjelasan-pasal-128]] |
+| Pasal 129 | [[#^penjelasan-pasal-129]] |
+| Pasal 130 | [[#^penjelasan-pasal-130]] |
+| Pasal 131 | [[#^penjelasan-pasal-131]] |
+| Pasal 132 | [[#^penjelasan-pasal-132]] |
+| Pasal 133 | [[#^penjelasan-pasal-133]] |
+| Pasal 134 | [[#^penjelasan-pasal-134]] |
+| Pasal 135 | [[#^penjelasan-pasal-135]] |
+| Pasal 136 | [[#^penjelasan-pasal-136]] |
+| Pasal 137 | [[#^penjelasan-pasal-137]] |
+| Pasal 138 | [[#^penjelasan-pasal-138]] |
+| Pasal 139 | [[#^penjelasan-pasal-139]] |
+| Pasal 140 | [[#^penjelasan-pasal-140]] |

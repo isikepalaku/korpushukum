@@ -53,3 +53,23 @@ last_updated: 2026-10-28
   - 3 Kepmenkomdigi (140/142/219/2026), 1 Instruksi Menteri Kominfo 1/2023, 1 PP 33/2026.
   - SKB 2021 (Pedoman UU ITE) dan JUKRAH 2021 — bukan jenis peraturan terindeks BPK.
 - Verifikasi YAML: 127/127 valid; wikilink 0 rusak; tag `status/*` disinkronkan ulang.
+
+## [2026-10-28] struktur | partisi batang tubuh vs penjelasan + anchor pasal
+
+- Masalah: teks "PENJELASAN" (I. UMUM / II. PASAL DEMI PASAL) selalu di akhir halaman, panjang, dan
+  berubah antar amandemen sehingga sulit dirujuk presisi.
+- Solusi (Obsidian-flavored): partisi per heading —
+  `## Batang Tubuh` / `### Pasal N ^pasal-N` / `## Penjelasan` / `### I. Umum` /
+  `### II. Pasal demi Pasal` / `#### Pasal N ^penjelasan-pasal-N` / `## Peta Penjelasan`.
+- 81 dokumen terpartisi; **5.541 anchor `^pasal-N`** dan **4.461 anchor `^penjelasan-pasal-N`**.
+  46 dokumen tanpa penjelasan (POJK/SEOJK/putusan).
+- Heading liar hasil ekstraksi PDF (`## Cukup jelas …`) diubah jadi teks tebal agar outline tidak kacau.
+- `90-log/manifest.jsonl` kini memuat `sections[]` (`path`, `anchor`, `chars`) → chunk RAG tidak perlu
+  menebak batas pasal; contoh UU 42/1999 = 87 section.
+- Frontmatter baru: `penjelasan`, `penjelasan_pasal_demi_pasal`, `penjelasan_normatif: false`,
+  `struktur_teks: terpartisi`, `anchor_pasal`.
+- Pengaman: setiap file dibandingkan panjang teks sebelum/sesudah; bila menyusut >1% file dilewati
+  (percobaan pertama sempat memangkas teks karena logika partisi salah → di-rollback dari git, lalu
+  skrip ditulis ulang konservatif). Hasil akhir: tidak ada file menyusut >0,5%.
+- Plugin `karpathywiki` dinonaktifkan di vault ini (membuat scaffolding `wiki/` yang mengotori korpus).
+- AGENTS.md + README: aturan kutip/embed anchor, larangan menyalin teks penjelasan, strategi chunk.

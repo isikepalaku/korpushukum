@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan atas UU 23-1999 tentang Bank Indonesia
+**Perubahan atas UU 23-1999 tentang Bank Indonesia**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -37,13 +43,13 @@ last_updated: 2026-10-28
 PRESIDEN
 REPUBLIK INDONESIA
 
-# UNDANG-UNDANG REPUBLIK INDONESIA
+**UNDANG-UNDANG REPUBLIK INDONESIA**
 
  NOMOR  3  TAHUN 2004
 
  TENTANG
 
- PERUBAHAN ATAS 
+ PERUBAHAN ATAS
 
  UNDANG-UNDANG REPUBLIK INDONESIA
 
@@ -61,7 +67,7 @@ REPUBLIK INDONESIA
 
  nasional berdasarkan Pancasila dan Undang-Undang Dasar Negara
 
- Republik Indonesia Tahun 1945; 
+ Republik Indonesia Tahun 1945;
 
  b. bahwa untuk mendukung terwujudnya pembangunan nasional
 
@@ -85,29 +91,28 @@ REPUBLIK INDONESIA
 
  tanggung jawab atas kinerjanya serta akuntabilitas publik yang
 
- transparan; 
+ transparan;
 
  d. bahwa berdasarkan pertimbangan pada huruf a, huruf b dan
 
  huruf c di atas, dipandang perlu mengubah dan menyempurna
  kan Undang-undang Republik Indonesia Nomor 23 Tahun 1999
 
- tentang Bank Indonesia; 
+ tentang Bank Indonesia;
 
  Mengingat : ...
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   2   
+**-   2**
  Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 20A ayat (1), Pasal 23D,
 
  dan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia
 
- Tahun 1945; 
+ Tahun 1945;
 
  2. Undang-undang Republik Indonesia Nomor 23 Tahun 1999
 
@@ -161,13 +166,12 @@ REPUBLIK INDONESIA
 
  2. Ketentuan ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   3   
+**-   3**
  2. Ketentuan Pasal 6 ayat (2) dan ayat (3) diubah, sehingga
 
  keseluruhan Pasal 6 berbunyi sebagai berikut :
@@ -175,7 +179,7 @@ REPUBLIK INDONESIA
  “Pasal 6
 
  (1) Modal Bank Indonesia ditetapkan berjumlah sekurang
- kurangnya Rp2.000.000.000.000,00 (dua triliun rupiah). 
+ kurangnya Rp2.000.000.000.000,00 (dua triliun rupiah).
 
  (2) Modal sebagaimana dimaksud pada ayat (1) harus ditambah
 
@@ -189,9 +193,9 @@ REPUBLIK INDONESIA
 
  hasil revaluasi aset ditetapkan dengan Peraturan Dewan
 
- Gubernur.” 
+ Gubernur.”
 
- 3. Ketentuan Pasal 7 diubah, dan ditambah 1 (satu) ayat baru, yaitu 
+ 3. Ketentuan Pasal 7 diubah, dan ditambah 1 (satu) ayat baru, yaitu
 
  ayat (2), sehingga keseluruhan Pasal 7 berbunyi sebagai berikut :
 
@@ -209,7 +213,7 @@ REPUBLIK INDONESIA
 
  mempertimbangkan kebijakan umum pemerintah di bidang
 
- perekonomian.” 
+ perekonomian.”
 
  4. Ketentuan Pasal 10 ayat (1) huruf a diubah, sehingga keseluruhan
 
@@ -225,13 +229,12 @@ REPUBLIK INDONESIA
 
  a. menetapkan ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   4   
+**-   4**
  a. menetapkan sasaran-sasaran moneter dengan mem
  perhatikan sasaran laju inflasi;
 
@@ -285,19 +288,18 @@ REPUBLIK INDONESIA
 
  jumlah kredit atau pembiayaan yang diterimanya.
 
- (3) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) 
+ (3) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1)
 
  dan ayat (2) ditetapkan dengan Peraturan Bank Indonesia.
 
  (4) Dalam ...
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   5   
+**-   5**
  (4) Dalam hal suatu Bank mengalami kesulitan keuangan yang
 
  berdampak sistemik dan berpotensi mengakibatkan krisis
@@ -321,7 +323,9 @@ REPUBLIK INDONESIA
 
  6. Penjelasan Pasal 34 ayat (1) diubah sebagaimana tercantum dalam
 
- penjelasan, dan ketentuan Pasal 34 ayat (2) diubah, sehingga
+## Penjelasan
+
+### I. Umum
 
  keseluruhan Pasal 34 berbunyi sebagai berikut :
 
@@ -331,7 +335,7 @@ REPUBLIK INDONESIA
 
  pengawasan sektor jasa keuangan yang independen, dan
 
- dibentuk dengan undang-undang. 
+ dibentuk dengan undang-undang.
 
  (2) Pembentukan lembaga pengawasan sebagaimana dimaksud
 
@@ -351,18 +355,17 @@ REPUBLIK INDONESIA
 
  “ Pasal 38 ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   6   
+**-   6**
  “Pasal 38
 
  (1) Dewan Gubernur melaksanakan tugas dan wewenang Bank
 
- Indonesia sebagaimana ditetapkan dalam Undang-undang ini. 
+ Indonesia sebagaimana ditetapkan dalam Undang-undang ini.
 
  (2) Pembagian tugas dan wewenang Anggota Dewan Gubernur
 
@@ -406,7 +409,7 @@ REPUBLIK INDONESIA
 
  “Pasal 41
 
- (1) Gubernur, Deputi Gubernur Senior, dan Deputi Gubernur 
+ (1) Gubernur, Deputi Gubernur Senior, dan Deputi Gubernur
 
  diusulkan dan diangkat oleh Presiden dengan persetujuan
 
@@ -414,18 +417,17 @@ REPUBLIK INDONESIA
 
  (2) Calon ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   7   
+**-   7**
  (2) Calon Deputi Gubernur diusulkan oleh Presiden berdasarkan
 
  rekomendasi dari Gubernur.
 
- (3) Dalam hal calon Gubernur, Deputi Gubernur Senior, atau 
+ (3) Dalam hal calon Gubernur, Deputi Gubernur Senior, atau
 
  Deputi Gubernur sebagaimana dimaksud pada ayat (1) tidak
 
@@ -473,20 +475,19 @@ REPUBLIK INDONESIA
 
  Pasal 47 berbunyi sebagai berikut:
 
- “Pasal 47 
+ “Pasal 47
 
  (1) Anggota Dewan Gubernur baik sendiri maupun bersama
  sama dilarang:
 
  a. mempunyai ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   8   
+**-   8**
  a. mempunyai kepentingan langsung atau tidak langsung
 
  pada perusahaan mana pun juga;
@@ -497,7 +498,7 @@ REPUBLIK INDONESIA
 
  c. dihapus.
 
- (2) Dalam hal Anggota Dewan Gubernur melakukan salah satu  
+ (2) Dalam hal Anggota Dewan Gubernur melakukan salah satu
 
  atau lebih larangan sebagaimana dimaksud pada ayat (l)
 
@@ -511,7 +512,7 @@ REPUBLIK INDONESIA
 
  menetapkan Anggota Dewan Gubernur tersebut berhenti dari
 
- jabatan dengan persetujuan Dewan Perwakilan Rakyat.” 
+ jabatan dengan persetujuan Dewan Perwakilan Rakyat.”
 
  12. Ketentuan Pasal 48 diubah, dan ditambah 2 (dua) ayat baru, yaitu
 
@@ -523,32 +524,31 @@ REPUBLIK INDONESIA
 
  (1) Anggota Dewan Gubernur tidak dapat diberhentikan dalam
 
- masa jabatannya, kecuali karena yang bersangkutan: 
+ masa jabatannya, kecuali karena yang bersangkutan:
 
- a. mengundurkan diri; 
+ a. mengundurkan diri;
 
- b. terbukti melakukan tindak pidana kejahatan; 
+ b. terbukti melakukan tindak pidana kejahatan;
 
  c. tidak dapat hadir secara fisik dalam jangka waktu 3 bulan
 
  berturut-turut tanpa alasan yang dapat dipertanggung
- jawabkan; 
+ jawabkan;
 
  d. dinyatakan pailit atau tidak mampu memenuhi kewajiban
 
  kepada kreditur; atau
 
- e. berhalangan tetap. 
+ e. berhalangan tetap.
 
  (2) Anggota ...
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   9   
+**-   9**
  (2) Anggota Dewan Gubernur yang direkomendasikan untuk
 
  diberhentikan sebagaimana dimaksud pada ayat (1) huruf c
@@ -559,7 +559,7 @@ REPUBLIK INDONESIA
 
  dimaksud pada ayat (1) ditetapkan dengan Keputusan
 
- Presiden.” 
+ Presiden.”
 
  13. Ketentuan Pasal 52 diubah, dan ditambah 1 (satu) ayat baru, yaitu
 
@@ -577,7 +577,7 @@ REPUBLIK INDONESIA
 
  14. Ketentuan Pasal 54 ayat (2) diubah, sehingga keseluruhan Pasal 54
 
- berbunyi sebagai berikut: 
+ berbunyi sebagai berikut:
 
  “Pasal 54
 
@@ -597,7 +597,7 @@ REPUBLIK INDONESIA
 
  Anggaran Pendapatan dan Belanja Negara serta kebijakan lain
 
- yang berkaitan dengan tugas dan wewenang Bank Indonesia.” 
+ yang berkaitan dengan tugas dan wewenang Bank Indonesia.”
 
  15. Ketentuan Pasal 55 ayat (4) dan ayat (5) diubah, sehingga
 
@@ -605,20 +605,19 @@ REPUBLIK INDONESIA
 
  “Pasal 55 ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   10   
+**-   10**
  “Pasal 55
 
  (1) Dalam hal Pemerintah akan menerbitkan surat-surat utang
 
  negara, Pemerintah wajib terlebih dahulu berkonsultasi
 
- dengan Bank Indonesia. 
+ dengan Bank Indonesia.
 
  (2) Sebelum menerbitkan surat utang negara sebagaimana
 
@@ -640,7 +639,7 @@ REPUBLIK INDONESIA
 
  yang diperlukan oleh Bank Indonesia untuk operasi
 
- pengendalian moneter. 
+ pengendalian moneter.
 
  (5) Bank Indonesia dapat membeli surat utang negara dalam
 
@@ -666,13 +665,12 @@ REPUBLIK INDONESIA
 
  b. rencana ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   11   
+**-   11**
  b. rencana kebijakan, penetapan sasaran, dan langkah
  langkah pelaksanaan tugas dan wewenang Bank Indonesia
 
@@ -686,9 +684,9 @@ REPUBLIK INDONESIA
 
  secara tertulis tentang pelaksanaan tugas dan wewenangnya
 
- kepada Dewan Perwakilan Rakyat dan Pemerintah. 
+ kepada Dewan Perwakilan Rakyat dan Pemerintah.
 
- (3) Laporan tahunan dan laporan triwulanan yang disampaikan 
+ (3) Laporan tahunan dan laporan triwulanan yang disampaikan
 
  oleh Bank Indonesia sebagaimana dimaksud pada ayat (1) dan
 
@@ -706,7 +704,7 @@ REPUBLIK INDONESIA
 
  terhadap kinerja Bank Indonesia, Bank Indonesia wajib
 
- menyampaikan penjelasan secara lisan dan/atau tertulis. 
+ menyampaikan penjelasan secara lisan dan/atau tertulis.
 
  (5) Laporan tahunan dan laporan triwulanan sebagaimana
 
@@ -731,17 +729,16 @@ REPUBLIK INDONESIA
  moneter untuk tahun yang akan datang dengan mem
  pertimbangkan sasaran laju inflasi serta perkembangan
 
- kondisi ekonomi dan keuangan.” 
+ kondisi ekonomi dan keuangan.”
 
  17. Di antara ...
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   12   
+**-   12**
  17. Di antara Pasal 58 dan Pasal 59 disisipkan 1 (satu) pasal baru
 
  menjadi Pasal 58A yang berbunyi sebagai berikut:
@@ -791,7 +788,7 @@ REPUBLIK INDONESIA
 
  apabila diminta oleh Dewan Perwakilan Rakyat.
 
- 18. Ketentuan Pasal 60 ayat (2) dan ayat (3) diubah, serta ditambah      
+ 18. Ketentuan Pasal 60 ayat (2) dan ayat (3) diubah, serta ditambah
 
  1 (satu) ayat baru yaitu ayat (4), sehingga keseluruhan Pasal 60
 
@@ -799,13 +796,12 @@ REPUBLIK INDONESIA
 
  “Pasal 60 ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   13   
+**-   13**
  “Pasal 60
 
  (1) Tahun anggaran Bank Indonesia adalah tahun kalender.
@@ -836,7 +832,7 @@ REPUBLIK INDONESIA
 
  pengaturan dan pengawasan perbankan, wajib dilaporkan
 
- secara khusus kepada Dewan Perwakilan Rakyat.” 
+ secara khusus kepada Dewan Perwakilan Rakyat.”
 
  19. Ketentuan Pasal 62 diubah, sehingga keseluruhan Pasal 62
 
@@ -860,13 +856,12 @@ REPUBLIK INDONESIA
 
  (2) Dalam ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   14   
+**-   14**
  (2) Dalam hal terjadi risiko atas pelaksanaan tugas dan
 
  wewenang Bank Indonesia yang mengakibatkan modal Bank
@@ -881,7 +876,7 @@ REPUBLIK INDONESIA
 
  dimaksud.
 
- (3) Dalam hal setelah dilakukan upaya sebagaimana dimaksud 
+ (3) Dalam hal setelah dilakukan upaya sebagaimana dimaksud
 
  pada ayat (2) jumlah modal Bank Indonesia masih kurang
 
@@ -919,16 +914,15 @@ REPUBLIK INDONESIA
 
  “Pasal 77A ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   15   
+**-   15**
  “Pasal 77A
 
- Ketentuan mengenai mata uang sebagaimana dimaksud dalam 
+ Ketentuan mengenai mata uang sebagaimana dimaksud dalam
 
  Pasal 2, Pasal 19, Pasal 20, Pasal 21, Pasal 22, dan Pasal 23
 
@@ -963,7 +957,7 @@ REPUBLIK INDONESIA
 
  penghasilan, maka berdasarkan Undang-undang ini surplus Bank
 
- Indonesia tidak dikenakan pajak penghasilan. 
+ Indonesia tidak dikenakan pajak penghasilan.
 
  Pasal III
 
@@ -971,13 +965,12 @@ REPUBLIK INDONESIA
 
  Agar ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   16   
+**-   16**
  Agar setiap orang mengetahuinya, memerintahkan pengundangan
 
  Undang-undang ini dengan penempatannya dalam Lembaran Negara
@@ -1006,21 +999,20 @@ REPUBLIK INDONESIA
 
  LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2004 NOMOR 7
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# PENJELASAN
+**PENJELASAN**
 
- ATAS 
+ ATAS
 
- UNDANG-UNDANG REPUBLIK INDONESIA 
+ UNDANG-UNDANG REPUBLIK INDONESIA
 
  NOMOR  3  TAHUN 2004
 
- TENTANG 
+ TENTANG
 
  PERUBAHAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA
 
@@ -1060,23 +1052,22 @@ REPUBLIK INDONESIA
 
  untuk memperkuat akuntabilitas, transparansi, dan kredibilitas Bank Indonesia tanpa
 
- mengurangi makna independensi lembaga negara tersebut. 
+ mengurangi makna independensi lembaga negara tersebut.
 
  Berkenaan dengan penataan kelembagaan, untuk membantu Dewan Perwakilan Rakyat
 
  dalam melaksanakan fungsi pengawasan di bidang tertentu terhadap Bank Indonesia
 
- dibentuk Badan Supervisi. Pembentukan Badan Supervisi ini merupakan bagian dari 
+ dibentuk Badan Supervisi. Pembentukan Badan Supervisi ini merupakan bagian dari
 
  upaya ...
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   2   
+**-   2**
  upaya meningkatkan akuntabilitas, independensi, transparansi, dan kredibilitas Bank
 
  Indonesia. Dalam menjalankan tugasnya, Badan Supervisi tidak melakukan penilaian
@@ -1089,15 +1080,15 @@ REPUBLIK INDONESIA
 
  pelaksanaan kebijakan moneter. Badan Supervisi menyampaikan pelaksanaan tugasnya
 
- kepada Dewan Perwakilan Rakyat. 
+ kepada Dewan Perwakilan Rakyat.
 
  Sehubungan dengan pelaksanaan tugas Bank Indonesia, selama ini pelaksanaan fungsi
 
- sebagai the Lender of the Last Resort (LoLR) dilakukan oleh Bank Indonesia melalui 
+ sebagai the Lender of the Last Resort (LoLR) dilakukan oleh Bank Indonesia melalui
 
  pemberian fasilitas kredit kepada bank yang mengalami kesulitan pendanaan jangka
 
- pendek dan dijamin dengan agunan yang berkualitas tinggi dan mudah dicairkan.    
+ pendek dan dijamin dengan agunan yang berkualitas tinggi dan mudah dicairkan.
 
  Hal ini dirasakan sangatlah terbatas dan belum mencakup fungsi the Lender of the Last
 
@@ -1125,36 +1116,35 @@ REPUBLIK INDONESIA
 
  dimaksudkan agar penyusunan RAPBN dapat mempertimbangkan lebih cermat aspek
 
- moneter yang terkait dengan berbagai kebijaksanaan di bidang fiskal. 
+ moneter yang terkait dengan berbagai kebijaksanaan di bidang fiskal.
 
- Tugas Bank Indonesia untuk mengawasi bank menurut Undang-undang          
+ Tugas Bank Indonesia untuk mengawasi bank menurut Undang-undang
 
  Nomor 23 Tahun 1999 bersifat sementara. Namun demikian mengingat amanat
 
  pembentukan lembaga pengawasan sektor jasa keuangan yaitu selambat-lambatnya
 
- tanggal 31 Desember 2002 telah terlampaui, maka dengan Undang-undang           
+ tanggal 31 Desember 2002 telah terlampaui, maka dengan Undang-undang
 
  ini ditegaskan kembali bahwa pengawasan terhadap bank akan dilaksanakan oleh
 
- lembaga pengawasan sektor jasa keuangan yang independen yang akan  dibentuk 
+ lembaga pengawasan sektor jasa keuangan yang independen yang akan  dibentuk
 
  selambat- ...
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   3   
+**-   3**
  selambat-lambatnya pada tanggal 31 Desember 2010. Pengunduran batas waktu
 
  pembentukan lembaga tersebut, ditetapkan dengan memperhatikan kesiapan sumber
 
  daya manusia dan infra struktur lembaga tersebut dalam menerima pengalihan
 
- pengawasan bank dari Bank Indonesia. 
+ pengawasan bank dari Bank Indonesia.
 
  Berdasarkan pertimbangan sebagaimana dikemukakan di atas, dengan menitikberatkan
 
@@ -1208,19 +1198,18 @@ REPUBLIK INDONESIA
 
  Di Indonesia hanya ada satu Bank Sentral sesuai dengan Pasal 23D
 
- Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. 
+ Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
 
  Ayat (2) ...
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   4   
+**-   4**
 
-# Ayat (2)
+**Ayat (2)**
 
  Yang dimaksud dengan campur tangan adalah semua bentuk
 
@@ -1244,7 +1233,7 @@ REPUBLIK INDONESIA
 
  Ketentuan ini dimaksudkan agar Bank Indonesia dapat
 
- melaksanakan tugas dan wewenangnya secara efektif. 
+ melaksanakan tugas dan wewenangnya secara efektif.
 
  Ayat (3)
 
@@ -1278,15 +1267,14 @@ REPUBLIK INDONESIA
 
  Ayat (2) ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   5   
+**-   5**
 
-# Ayat (2)
+**Ayat (2)**
 
  Yang dimaksud dengan kewajiban moneter adalah kewajiban Bank
 
@@ -1344,17 +1332,16 @@ REPUBLIK INDONESIA
 
  oleh Bank Indonesia secara berkelanjutan, konsisten, dan transparan
 
- dapat dijadikan acuan yang pasti dan jelas bagi dunia usaha dan 
+ dapat dijadikan acuan yang pasti dan jelas bagi dunia usaha dan
 
  masyarakat ...
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   6   
+**-   6**
  masyarakat luas. Di samping itu, ketentuan ini dimaksudkan pula
 
  agar kebijakan yang diambil oleh Bank Indonesia sudah
@@ -1417,15 +1404,14 @@ REPUBLIK INDONESIA
 
  Ayat (2) ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   7   
+**-   7**
 
-# Ayat (2)
+**Ayat (2)**
 
  Operasi pasar terbuka dalam rangka pengendalian moneter melalui
 
@@ -1489,13 +1475,12 @@ REPUBLIK INDONESIA
 
  Yang ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   8   
+**-   8**
  Yang dimaksud dengan hari pada ayat ini adalah hari kalender.
 
  Jangka waktu paling lama 90 (sembilan puluh) hari yang dimaksud
@@ -1564,13 +1549,12 @@ REPUBLIK INDONESIA
 
  b. jangka ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   9   
+**-   9**
  b. jangka waktu, tingkat suku bunga atau nisbah bagi hasil dan
 
  biaya lainnya;
@@ -1579,7 +1563,7 @@ REPUBLIK INDONESIA
 
  mempunyai peringkat tinggi;
 
- d. tata cara pengikatan agunan. 
+ d. tata cara pengikatan agunan.
 
  Ayat (4)
 
@@ -1603,7 +1587,7 @@ REPUBLIK INDONESIA
 
  modal ventura, dan perusahaan pembiayaan, serta badan-badan lain
 
- yang menyelenggarakan pengelolaan dana masyarakat. 
+ yang menyelenggarakan pengelolaan dana masyarakat.
 
  Lembaga ini bersifat independen dalam menjalankan tugasnya dan
 
@@ -1629,15 +1613,14 @@ REPUBLIK INDONESIA
 
  Ayat (2) ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   10   
+**-   10**
 
-# Ayat (2)
+**Ayat (2)**
 
  Pengalihan fungsi pengawasan bank dari Bank Indonesia kepada
 
@@ -1693,16 +1676,15 @@ REPUBLIK INDONESIA
 
  Angka 9 ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   11   
+**-   11**
  Angka 9
 
- Pasal 40 
+ Pasal 40
 
  Huruf a
 
@@ -1736,7 +1718,7 @@ REPUBLIK INDONESIA
 
  Angka 10
 
- Pasal 41 
+ Pasal 41
 
  Ayat (1)
 
@@ -1748,21 +1730,20 @@ REPUBLIK INDONESIA
 
  tersebut disampaikan selambat-lambatnya 3 (tiga) bulan sebelum
 
- berakhirnya masa jabatan yang bersangkutan. 
+ berakhirnya masa jabatan yang bersangkutan.
 
  Usulan Presiden tersebut dilakukan dengan memperhatikan pula
 
- aspirasi masyarakat. 
+ aspirasi masyarakat.
 
  Dewan ...
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   12   
+**-   12**
  Dewan Perwakilan Rakyat menyetujui atau menolak calon
 
  Gubernur, Deputi Gubernur Senior, dan Deputi Gubernur
@@ -1824,13 +1805,12 @@ REPUBLIK INDONESIA
 
  Ayat (6) ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   13   
+**-   13**
  Ayat (6)
 
  Penggantian anggota Dewan Gubernur yang dilakukan secara
@@ -1897,13 +1877,12 @@ REPUBLIK INDONESIA
 
  Huruf c ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   14   
+**-   14**
  Huruf c
 
  Cukup jelas
@@ -1934,7 +1913,7 @@ REPUBLIK INDONESIA
 
  Ayat (1)
 
- Huruf a 
+ Huruf a
 
  Pengunduran diri sebagaimana disebut dalam pasal ini adalah
 
@@ -1944,7 +1923,7 @@ REPUBLIK INDONESIA
 
  46 ayat (2) atau Pasal 47 ayat (2).
 
- Huruf b 
+ Huruf b
 
  Pemberhentian karena melakukan tindak pidana kejahatan
 
@@ -1954,7 +1933,7 @@ REPUBLIK INDONESIA
 
  hukum tetap.
 
- Huruf c 
+ Huruf c
 
  Tidak dapat dipertanggungjawabkan sebagaimana dimaksud
 
@@ -1966,13 +1945,12 @@ REPUBLIK INDONESIA
 
  Huruf d ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   15   
+**-   15**
  Huruf d
 
  Pailit dan tidak mampu memenuhi kewajiban adalah
@@ -2014,7 +1992,7 @@ REPUBLIK INDONESIA
 
  Bank Indonesia bersama Pemerintah.
 
- Ayat (2) 
+ Ayat (2)
 
  Yang dimaksud dengan peraturan perundang-undangan adalah
 
@@ -2024,22 +2002,21 @@ REPUBLIK INDONESIA
 
  Pasal 54
 
- Cukup jelas 
+ Cukup jelas
 
  Angka 15 ...
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   16   
+**-   16**
  Angka 15
 
  Pasal 55
 
- Ayat (1) 
+ Ayat (1)
 
  Konsultasi ini diperlukan agar penerbitan surat utang negara tepat
 
@@ -2077,7 +2054,7 @@ REPUBLIK INDONESIA
 
  dapat dilakukan secara tidak langsung atau di pasar sekunder.
 
- Ayat (4) 
+ Ayat (4)
 
  Yang dimaksud dengan surat utang negara yang diperlukan untuk
 
@@ -2085,7 +2062,7 @@ REPUBLIK INDONESIA
 
  negara berjangka pendek dengan waktu paling lama 1 (satu) tahun.
 
- Ayat (5) 
+ Ayat (5)
 
  Cukup jelas
 
@@ -2103,13 +2080,12 @@ REPUBLIK INDONESIA
 
  Ayat (2) ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   17   
+**-   17**
  Ayat (2)
 
  Cukup jelas
@@ -2176,13 +2152,12 @@ REPUBLIK INDONESIA
 
  b. mencampuri ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   18   
+**-   18**
  b. mencampuri dan menilai kebijakan Bank Indonesia;
 
  c. mengevaluasi kinerja Dewan Gubernur;
@@ -2246,13 +2221,12 @@ REPUBLIK INDONESIA
 
  Ayat (4) ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   19   
+**-   19**
  Ayat (4)
 
  Yang dimaksud dengan secara khusus adalah dilaporkan secara
@@ -2321,13 +2295,12 @@ REPUBLIK INDONESIA
 
  Ayat (2) ...
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# -   20   
+**-   20**
  Ayat (2)
 
  Cukup jelas
@@ -2366,8 +2339,6 @@ REPUBLIK INDONESIA
 
  Cukup jelas
 
- TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4357 
-
+ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4357
 
 -----
-

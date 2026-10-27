@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# UU Nomor 1 Tahun 2024 Perubahan Kedua UU ITE
+**UU Nomor 1 Tahun 2024 Perubahan Kedua UU ITE**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -35,686 +41,678 @@ last_updated: 2026-10-28
 <!-- Start of picture text -->
 SALINAN<br><!-- End of picture text -->
 
-PRES!DEN REPIJBUK INDONE!3IA 
+PRES!DEN REPIJBUK INDONE!3IA
 
-UNDANG.UNDANG REPUBLIK INDONESI.A 
+UNDANG.UNDANG REPUBLIK INDONESI.A
 
-NOMOR 1 TAHUN 2024 
+NOMOR 1 TAHUN 2024
 
-###### TENTANG 
+**TENTANG**
 
-PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR I1 TAHUN 2OO8 TENTANG INFORMASI DAN TRANSAKSI ELEKTRONIK 
+PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR I1 TAHUN 2OO8 TENTANG INFORMASI DAN TRANSAKSI ELEKTRONIK
 
-DENGAN RAHMATTUHAN YANG MAHA ESA 
+DENGAN RAHMATTUHAN YANG MAHA ESA
 
-PRESIDEN REPUBLIK INDONESIA, 
+PRESIDEN REPUBLIK INDONESIA,
 
-ivlenimbang 
+ivlenimbang
 
-- a, bahwa untuk menjaga ruang digital Indonesia yang bersih, sehat, beretika, produktif, dan berkeadilan, perlu diatur pemanfaatan Teknologi Informasi dan Transaksi Elektronik yang memberikan kepastian hukum, keadilan, dan melindungi kepentingan umum dari segala jenis gangguan sebagai akibat penyalahgunaan Informasi Elektronik, Dokumen Elektronik, Teknologi Informasi, dan/ atau Transaksi Elektronik yang mengganggu ketertiban umum; 
+- a, bahwa untuk menjaga ruang digital Indonesia yang bersih, sehat, beretika, produktif, dan berkeadilan, perlu diatur pemanfaatan Teknologi Informasi dan Transaksi Elektronik yang memberikan kepastian hukum, keadilan, dan melindungi kepentingan umum dari segala jenis gangguan sebagai akibat penyalahgunaan Informasi Elektronik, Dokumen Elektronik, Teknologi Informasi, dan/ atau Transaksi Elektronik yang mengganggu ketertiban umum;
 
-- b bahwa beberapa ketentuan dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik, dalam pelaksanaannya masih menimbulkan multitafsir dan kontroversi di masyarakat sehingga perlu dilakukan perubahan untuk mewujudkan rasa keadilan masyarakat dan kepastian hukum; 
+- b bahwa beberapa ketentuan dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik, dalam pelaksanaannya masih menimbulkan multitafsir dan kontroversi di masyarakat sehingga perlu dilakukan perubahan untuk mewujudkan rasa keadilan masyarakat dan kepastian hukum;
 
-- c bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Undang-Undang tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik; 
+- c bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Undang-Undang tentang Perubahan Kedua atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik;
 
-Mengingat: . . . 
+Mengingat: . . .
 
-SK No 190185 A 
+SK No 190185 A
 
-#### T{IItrtrIXNItrIIFEIn 
+**T{IItrtrIXNItrIIFEIn**
 
--2 
+-2
 
-###### Mengingat 
+**Mengingat**
 
-- 1 Pasal 5 ayat (1), Pasal 20, Pasal 28D ayat (1), Pasal 28E, Pasal 28F, Pasal 28G ayat (1), Pasal 281, dan Pasal 28J Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; 
+- 1 Pasal 5 ayat (1), Pasal 20, Pasal 28D ayat (1), Pasal 28E, Pasal 28F, Pasal 28G ayat (1), Pasal 281, dan Pasal 28J Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 
-- 2 Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843) sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2O08 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 25L, Tambahan Lembaran Negara Republik Indonesia Nomor 5952); 
+- 2 Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843) sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2O08 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 25L, Tambahan Lembaran Negara Republik Indonesia Nomor 5952);
 
-###### Dengan Persetujuan Bersama 
+**Dengan Persetujuan Bersama**
 
-###### DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA 
+**DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA**
 
-###### dan 
+**dan**
 
-###### PRESIDEN REPUBLIK INDONESIA 
+**PRESIDEN REPUBLIK INDONESIA**
 
-###### MEMUTUSKAN: 
+**MEMUTUSKAN:**
 
-Menetapkan 
+Menetapkan
 
-UNDANG-UNDANG TENTANG PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 1I TAHUN 2OO8 TENTANG INFORMASI DAN TRANSAKSI ELEKTRONIK. 
+UNDANG-UNDANG TENTANG PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 1I TAHUN 2OO8 TENTANG INFORMASI DAN TRANSAKSI ELEKTRONIK.
 
-###### Pasal I 
+**Pasal I**
 
-Beberapa ketentuan dalam Undang-Undang Nomor 11 Tahun 20O8 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan kmbaran Negara Republik Indonesia Nomor 4843) sebagaimana telah diubah dengan UndangUndang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembarein Negara Republik Indonesia Tahun 2016 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 5952) diubah sebagai berikut: 
+Beberapa ketentuan dalam Undang-Undang Nomor 11 Tahun 20O8 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan kmbaran Negara Republik Indonesia Nomor 4843) sebagaimana telah diubah dengan UndangUndang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembarein Negara Republik Indonesia Tahun 2016 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 5952) diubah sebagai berikut:
 
-1. Ketentuan. . . 
+1. Ketentuan. . .
 
-SK No 190186A 
-
-
+SK No 190186A
 
 <!-- Start of picture text -->
 J<br><!-- End of picture text -->
 
-###### PRESIDEN 
+**PRESIDEN**
 
-REPITBLIK INDONESI.A 
+REPITBLIK INDONESI.A
 
--3- 
+-3-
 
-- 1 Ketentuan ayat (41 Pasal 5 serta penjelasan ayat<sup>(1)</sup> dan ayat (4) Pasal 5 diubah sehingga Pasal 5 berbunyi sebagai berikut: 
+- 1 Ketentuan ayat (41 Pasal 5 serta penjelasan ayat<sup>(1)</sup> dan ayat (4) Pasal 5 diubah sehingga Pasal 5 berbunyi sebagai berikut:
 
-###### Pasal 5 
+### Pasal 5 ^pasal-5
 
-   - (1) Informasi Elektronik dan/ atau Dokumen Elektronik dan/ atau hasil cetaknya merupakan alat bukti hukum yang sah. 
+   - (1) Informasi Elektronik dan/ atau Dokumen Elektronik dan/ atau hasil cetaknya merupakan alat bukti hukum yang sah.
 
-   - (2) Informasi Elektronik dan/ atau Dokumen Elektronik dan/ atau hasil cetaknya sebagaimana dimaksud pada ayat (1) merupakan perluasan dari alat bukti yang sah sesuai dengan Hukum Acara yang berlaku di Indonesia. 
+   - (2) Informasi Elektronik dan/ atau Dokumen Elektronik dan/ atau hasil cetaknya sebagaimana dimaksud pada ayat (1) merupakan perluasan dari alat bukti yang sah sesuai dengan Hukum Acara yang berlaku di Indonesia.
 
-   - (3) Informasi Elektronik dan/ atau Dokumen Elektronik dinyatakan sah apabila menggunakan Sistem Elektronik sesuai dengan ketentuan yang diatur dalam Undang-Undang ini. 
+   - (3) Informasi Elektronik dan/ atau Dokumen Elektronik dinyatakan sah apabila menggunakan Sistem Elektronik sesuai dengan ketentuan yang diatur dalam Undang-Undang ini.
 
-   - (4) Ketentuan mengenai Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud pada ayat (l) tidak berlaku dalam hal diatur lain dalam Undang-Undang. 
+   - (4) Ketentuan mengenai Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud pada ayat (l) tidak berlaku dalam hal diatur lain dalam Undang-Undang.
 
-- 2 Ketentuan ayat (3), ayat (41, ayat (5), dan ayat<sup>(6)</sup> Pasal 13 serta penjelasan ayat (5) Pasal 13 diubah sehingga Pasal 13 berbunyi sebagai berikut: 
+- 2 Ketentuan ayat (3), ayat (41, ayat (5), dan ayat<sup>(6)</sup> Pasal 13 serta penjelasan ayat (5) Pasal 13 diubah sehingga Pasal 13 berbunyi sebagai berikut:
 
-Pasal 13 
+### Pasal 13 ^pasal-13
 
-- (1) Setiap Orang berhak menggunakan Jasa Penyelenggara Sertifikasi Elektronik untuk pembuatan Tanda Tangan Elektronik. 
+- (1) Setiap Orang berhak menggunakan Jasa Penyelenggara Sertifikasi Elektronik untuk pembuatan Tanda Tangan Elektronik.
 
-- (21 Penyelenggara Sertilikasi Elektronik harus memastikan keterkaitan suatu Tanda Tangan Elektronik dengan pemiliknya. 
+- (21 Penyelenggara Sertilikasi Elektronik harus memastikan keterkaitan suatu Tanda Tangan Elektronik dengan pemiliknya.
 
-- (3) Penyelenggara Sertifikasi Elektronik yang beroperasi di Indonesia harus berbadan hukum Indonesia dan berdomisili di Indonesia. 
+- (3) Penyelenggara Sertifikasi Elektronik yang beroperasi di Indonesia harus berbadan hukum Indonesia dan berdomisili di Indonesia.
 
-(4) Ketentuan . . . 
+(4) Ketentuan . . .
 
-SK No l90l87A 
+SK No l90l87A
 
-IHirEftXTIf.T.TIfdfA 
+IHirEftXTIf.T.TIfdfA
 
-# -4- 
+**-4-**
 
-   - (4) Ketentuan sebagaimana dimaksud pada ayat (3) dikecualikan dalam hal penyelenggaraan layanan yang menggunakan Sertifikat Elektronik belum tersedia di Indonesia. 
+   - (4) Ketentuan sebagaimana dimaksud pada ayat (3) dikecualikan dalam hal penyelenggaraan layanan yang menggunakan Sertifikat Elektronik belum tersedia di Indonesia.
 
-   - (5) Pengakuan timbal balik (mutual recognition) untuk mengenali Sertifikat Elektronik antarnegara didasarkan pada perjanjian kerja sEuna. 
+   - (5) Pengakuan timbal balik (mutual recognition) untuk mengenali Sertifikat Elektronik antarnegara didasarkan pada perjanjian kerja sEuna.
 
-   - (6) Ketentuan lebih lanjut mengenai Penyelenggara Sertifikasi Elektronik sebagaimana dimaksud pada ayat (3), ayat (4), dan ayat (5) diatur dalam Peraturan Pemerintah. 
+   - (6) Ketentuan lebih lanjut mengenai Penyelenggara Sertifikasi Elektronik sebagaimana dimaksud pada ayat (3), ayat (4), dan ayat (5) diatur dalam Peraturan Pemerintah.
 
-- 3 Di antara Pasal 13 dan Pasal 14 disisipkan I (satu) pasal, yakni Pasal 13A sehingga berbunyi sebagai berikut: 
+- 3 Di antara Pasal 13 dan Pasal 14 disisipkan I (satu) pasal, yakni Pasal 13A sehingga berbunyi sebagai berikut:
 
-###### Pasal 13A 
+**Pasal 13A**
 
-- (1) Penyelenggara Sertifikasi Elektronik dapat menyelenggarakan layanan berupa: 
+- (1) Penyelenggara Sertifikasi Elektronik dapat menyelenggarakan layanan berupa:
 
-   - a. Tanda Tangan Elektronik; 
+   - a. Tanda Tangan Elektronik;
 
-   - b. segel elektronik; 
+   - b. segel elektronik;
 
-   - c. penanda waktu elektronik; 
+   - c. penanda waktu elektronik;
 
-   - d. layanan pengiriman elektronik tercatat; 
+   - d. layanan pengiriman elektronik tercatat;
 
-   - e. autentikasi situs web; 
+   - e. autentikasi situs web;
 
-   - f. preservasi Tanda Tangan Elektronik dan/ atau segel elektronik; 
+   - f. preservasi Tanda Tangan Elektronik dan/ atau segel elektronik;
 
-   - g. identitas digital; dan/atau 
+   - g. identitas digital; dan/atau
 
-   - h. layanan lain yang menggunakan Sertifikat Elektronik. 
+   - h. layanan lain yang menggunakan Sertifikat Elektronik.
 
-- (21 Ketentuan lebih lanjut mengenai penyelenggaraan layanan sebagaimana dimaksqd pada ayat (1) diatur dalam Peraturan Pemerintah. 
+- (21 Ketentuan lebih lanjut mengenai penyelenggaraan layanan sebagaimana dimaksqd pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-4. Penjelasan . . . 
+4. Penjelasan . . .
 
-SK No l90l88A 
+SK No l90l88A
 
-.,( 
+.,(
 
-###### PRESIDEN NEPLTBLIK INDONESIA 
+**PRESIDEN NEPLTBLIK INDONESIA**
 
--5- 
+-5-
 
-4. Penjelasan ayat (1) dan ayat (2) Pasal 15 diubah sebagaimana tercantum dalam penjelasan. 
+4. Penjelasan ayat (1) dan ayat (2) Pasal 15 diubah sebagaimana tercantum dalam penjelasan.
 
-5. Di antara Pasal 16 dan Pasal 17 disisipkan 2<sup>(dua)</sup> pasal, yakni Pasal 16A dan Pasal 168 sehingga berbunyi sebagai berikut: 
+5. Di antara Pasal 16 dan Pasal 17 disisipkan 2<sup>(dua)</sup> pasal, yakni Pasal 16A dan Pasal 168 sehingga berbunyi sebagai berikut:
 
-###### Pasal 16A 
+**Pasal 16A**
 
-- (1) Penyelenggara Sistem Elektronik wajib memberikan pelindungan bagi anak<sup>yang</sup> menggunakan atau mengakses Sistem Elektronik. 
+- (1) Penyelenggara Sistem Elektronik wajib memberikan pelindungan bagi anak<sup>yang</sup> menggunakan atau mengakses Sistem Elektronik.
 
-- (21 Pelindungan sebagaimana dimaksud pada ayat (1) meliputi pelindungan terhadap hak anak sebagaimana dimaksud dalam peraturan perundang-undangan mengenai penggunaan produk, layanan, dan fitur yang dikembangkan dan diselenggarakan oleh Penyelenggara Sistem Elektronik. 
+- (21 Pelindungan sebagaimana dimaksud pada ayat (1) meliputi pelindungan terhadap hak anak sebagaimana dimaksud dalam peraturan perundang-undangan mengenai penggunaan produk, layanan, dan fitur yang dikembangkan dan diselenggarakan oleh Penyelenggara Sistem Elektronik.
 
-- (3) Dalam memberikan produk, layanan, dan fitur bagr anak, Penyelenggara Sistem Elektronik wajib menerapkan teknologi dan langkah teknis operasional untuk memberikan pelindungan sebagaimana dimaksud pada ayat (1) dari tahap pengembangan sampai dengan tahap Penyelenggaraan Sistem Elektronik. 
+- (3) Dalam memberikan produk, layanan, dan fitur bagr anak, Penyelenggara Sistem Elektronik wajib menerapkan teknologi dan langkah teknis operasional untuk memberikan pelindungan sebagaimana dimaksud pada ayat (1) dari tahap pengembangan sampai dengan tahap Penyelenggaraan Sistem Elektronik.
 
-- (4) Dalam memberikan pelindungan sebagaimana dimaksud pada ayat (1), Penyelenggara Sistem Elektronik wajib menyediakan : 
+- (4) Dalam memberikan pelindungan sebagaimana dimaksud pada ayat (1), Penyelenggara Sistem Elektronik wajib menyediakan :
 
-   - a. informasi mengenai batasan minimum usia anak yang dapat menggunakan produk atau layanannya; 
+   - a. informasi mengenai batasan minimum usia anak yang dapat menggunakan produk atau layanannya;
 
-   - b. mekanisme verifikasi pengguna anak; dan 
+   - b. mekanisme verifikasi pengguna anak; dan
 
-   - c. mekanisme pelaporan<sup>penyalahgunaan</sup> produk, layanan, dan fitur yang melanggar atau berpotensi melanggar hak anak. 
+   - c. mekanisme pelaporan<sup>penyalahgunaan</sup> produk, layanan, dan fitur yang melanggar atau berpotensi melanggar hak anak.
 
-(5) Ketentuan . . . 
+(5) Ketentuan . . .
 
-SK No l90l89A 
+SK No l90l89A
 
-ihtrEILtriIi REPI'BUK INDONESIA 
+ihtrEILtriIi REPI'BUK INDONESIA
 
--6- 
+-6-
 
-- (5) Ketentuan lebih lanjut mengenai pelindungan sebagaimana dimaksud pada ayat (1) sampai dengan ayat (4) diatur dalam Peraturan Pemerintah. 
+- (5) Ketentuan lebih lanjut mengenai pelindungan sebagaimana dimaksud pada ayat (1) sampai dengan ayat (4) diatur dalam Peraturan Pemerintah.
 
-###### Pasal 168 
+### Pasal 168 ^pasal-168
 
-   - (1) Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 16A dikenai sanksi administratif. 
+   - (1) Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 16A dikenai sanksi administratif.
 
-   - (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat berupa: 
+   - (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat berupa:
 
-      - a. teguran tertulis; 
+      - a. teguran tertulis;
 
-      - b. dendaadministratif; 
+      - b. dendaadministratif;
 
-      - c. penghentian sementara; dan/atau 
+      - c. penghentian sementara; dan/atau
 
-      - d. pemutusan Akses. 
+      - d. pemutusan Akses.
 
-   - (3) Ketentuan lebih lanjut mengenai pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) dan ayat (21 diatur dalam Peraturan Pemerintah. 
+   - (3) Ketentuan lebih lanjut mengenai pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) dan ayat (21 diatur dalam Peraturan Pemerintah.
 
-- 6 Ketentuan ayat (1) Pasal 17 diubah, dan di antara ayal l2l dan ayat (3) Pasal 17 disisipkan 1 (satu) ayat, yakni ayat (2a1, dar ketentuan ayat (3) Pasal 17 diubah sehingga Pasal 17 berbunyi sebagai berikut: 
+- 6 Ketentuan ayat (1) Pasal 17 diubah, dan di antara ayal l2l dan ayat (3) Pasal 17 disisipkan 1 (satu) ayat, yakni ayat (2a1, dar ketentuan ayat (3) Pasal 17 diubah sehingga Pasal 17 berbunyi sebagai berikut:
 
-###### Pasal 17 
+### Pasal 17 ^pasal-17
 
-- (1) Penyelenggaraan Transaksi Elektronik dapat dilakukan dalam lingkup publik atau<sup>privat.</sup> 
+- (1) Penyelenggaraan Transaksi Elektronik dapat dilakukan dalam lingkup publik atau<sup>privat.</sup>
 
-- (2) Para pihak yang melakukan Transaksi Elektronik sebagaimana dimaksud pada ayat (1) wajib beriktikad baik dalam melakukan interaksi dan/ atau pertukaran Informasi Elektronik dan/ atau Dokumen Elektronik selama transaksi berlangsung. 
+- (2) Para pihak yang melakukan Transaksi Elektronik sebagaimana dimaksud pada ayat (1) wajib beriktikad baik dalam melakukan interaksi dan/ atau pertukaran Informasi Elektronik dan/ atau Dokumen Elektronik selama transaksi berlangsung.
 
-(2a) Transaksi . . . 
+(2a) Transaksi . . .
 
-SK No l90l90A 
+SK No l90l90A
 
-:Ili iirl. IIIilNIinIiiEIA 
+:Ili iirl. IIIilNIinIiiEIA
 
--7 - 
+-7 -
 
-   - (2a) Transaksi Elektronik yang memiliki risiko tinggi bagi para pihak menggunakan Tanda Tangan Elektronik yang diamankan dengan Sertilikat Elektronik. 
+   - (2a) Transaksi Elektronik yang memiliki risiko tinggi bagi para pihak menggunakan Tanda Tangan Elektronik yang diamankan dengan Sertilikat Elektronik.
 
-   - (3) Ketentuan lebih lanjut mengenai Elektronik 
+   - (3) Ketentuan lebih lanjut mengenai Elektronik
 
-   - irenyelenggaraan<sup>Transaksi</sup> sebagaimana dimaksud pada ayat (ll, ayat<sup>(21,</sup> dan ayat (2al diatur dalam Peraturan Pemerintah. 
+   - irenyelenggaraan<sup>Transaksi</sup> sebagaimana dimaksud pada ayat (ll, ayat<sup>(21,</sup> dan ayat (2al diatur dalam Peraturan Pemerintah.
 
-- 7 Di antara Pasal 18 dan Pasal 19 disisipkan I (satu) pasal, yakni Pasal 18A sehingga berbunyi sebagai berikut: 
+- 7 Di antara Pasal 18 dan Pasal 19 disisipkan I (satu) pasal, yakni Pasal 18A sehingga berbunyi sebagai berikut:
 
-Pasal 18A 
+Pasal 18A
 
-   - (1) Kontrak Elektronik internasional yang menggunakan klausula baku yang dibuat oleh Penyelenggara Sistem Elektronik diatur dengan hukum Indonesia dalam hal: 
+   - (1) Kontrak Elektronik internasional yang menggunakan klausula baku yang dibuat oleh Penyelenggara Sistem Elektronik diatur dengan hukum Indonesia dalam hal:
 
-      - a. pengguna layanan Penyelenggara Sistem Elektronik sebagai salah satu pihak dalam Transaksi Elektronik berasal dari Indonesia dan memberikan persetqjuannya dari atau dalam yurisdiksi Indonesia; 
+      - a. pengguna layanan Penyelenggara Sistem Elektronik sebagai salah satu pihak dalam Transaksi Elektronik berasal dari Indonesia dan memberikan persetqjuannya dari atau dalam yurisdiksi Indonesia;
 
-      - b. tempat pelaksanaan kontrak ada di wilayah Indonesia; dan/ atau 
+      - b. tempat pelaksanaan kontrak ada di wilayah Indonesia; dan/ atau
 
-      - c. Penyelenggara Sistem Elektronik memiliki tempat usaha atau melakukan kegiatan usaha di wilayah Indonesia. 
+      - c. Penyelenggara Sistem Elektronik memiliki tempat usaha atau melakukan kegiatan usaha di wilayah Indonesia.
 
-   - (21 Kontrak Elektronik sebagaimana dimaksud pada ayat (1) menggunakan bahasa<sup>yang</sup> sederhana, jelas, dan mudah dipahami, serta menjunjung prinsip iktikad baik dan transparansi. 
+   - (21 Kontrak Elektronik sebagaimana dimaksud pada ayat (1) menggunakan bahasa<sup>yang</sup> sederhana, jelas, dan mudah dipahami, serta menjunjung prinsip iktikad baik dan transparansi.
 
-- 8 Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut: 
+- 8 Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 
-PasaJ2T ... 
+PasaJ2T ...
 
-SK No l90l9l A 
+SK No l90l9l A
 
--lLIK iNf.ftIf+TA 
+-lLIK iNf.ftIf+TA
 
--8- 
+-8-
 
-Pasal 27 
+### Pasal 27 ^pasal-27
 
-   - (1) Setiap Orang dengan sengaja dan tanpa hak menyiarkan, mempertunjukkan, mendistribusikan, mentransmisikan, dan/atau membuat dapat diaksesnya Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan yang melanggar kesusilaan untuk diketahui umum. 
+   - (1) Setiap Orang dengan sengaja dan tanpa hak menyiarkan, mempertunjukkan, mendistribusikan, mentransmisikan, dan/atau membuat dapat diaksesnya Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan yang melanggar kesusilaan untuk diketahui umum.
 
-   - (21 Setiap Orang dengan sengaja dan tanpa hak mendistribusikan, mentransmisikan, dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan perjudian. 
+   - (21 Setiap Orang dengan sengaja dan tanpa hak mendistribusikan, mentransmisikan, dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan perjudian.
 
-- 9 Di antara Pasal 27 dan Pasal 28 disisipkan 2 (dua) pasal, yakni Pasil 27A dan Pasal 27B sehingga berbunyi sebagai berikut: 
+- 9 Di antara Pasal 27 dan Pasal 28 disisipkan 2 (dua) pasal, yakni Pasil 27A dan Pasal 27B sehingga berbunyi sebagai berikut:
 
-###### Pasal2TA 
+**Pasal2TA**
 
 > [!NOTE] **KORELASI NORMA KUHP & UU PDP**
 > - Ketentuan delik menyerang kehormatan/nama baik orang lain via sarana elektronik pada Pasal 27A jo. Pasal 45 ayat (4) berlaku hingga KUHP Nasional (UU 1/2023) berlaku penuh (Pasal II angka 1 UU 1/2024).
 > - Pada KUHP Nasional, delik pencemaran nama baik diatur pada [[UU 1-2023 - KUHP|Pasal 433 dan Pasal 434 UU 1/2023]] (murni delik aduan perseorangan).
 > - Delik penghinaan terhadap lembaga/pemerintah dilarang ditarik ke pasal ini pasca pembatalan Pasal 240 & 241 oleh [[PUTUSAN-MK 282-2025 - Penghinaan Pemerintah|Putusan MK No. 282/PUU-XXIII/2025]].
 
-Setiap Orang dengan sengaja menyerang kehormatan atau nama baik orang lain dengan cara menuduhkan suatu hal, dengan maksud supaya hal tersebut diketahui umum dalam bentuk Informasi Elektronik dan/ atau Dokumen Elektronik yang dilakukan melalui Sistem Elektronik. 
+Setiap Orang dengan sengaja menyerang kehormatan atau nama baik orang lain dengan cara menuduhkan suatu hal, dengan maksud supaya hal tersebut diketahui umum dalam bentuk Informasi Elektronik dan/ atau Dokumen Elektronik yang dilakukan melalui Sistem Elektronik.
 
-Pasal 278 
+### Pasal 278 ^pasal-278
 
-- (1) Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik, dengan maksud untuk menguntungkan diri sendiri atau orang lain secara melawan hukum, memaksa orang dengan ancaman kekerasan untuk: 
+- (1) Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik, dengan maksud untuk menguntungkan diri sendiri atau orang lain secara melawan hukum, memaksa orang dengan ancaman kekerasan untuk:
 
-   - a. memberikan suatu barang, yang sebagian atau seluruhnya milik orang tersebut atau milik orang lain; atau 
+   - a. memberikan suatu barang, yang sebagian atau seluruhnya milik orang tersebut atau milik orang lain; atau
 
-b. memberi . . . 
+b. memberi . . .
 
-SK No l90l92A 
+SK No l90l92A
 
-###### PRESIDEN NEPUELIK INDONESTA 
+**PRESIDEN NEPUELIK INDONESTA**
 
--9- 
+-9-
 
-      - b memberi utang, membuat pengakuan utang, atau menghapuskan piutang. 
+      - b memberi utang, membuat pengakuan utang, atau menghapuskan piutang.
 
-   - (21 Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik, dengan maksud untuk menguntungkan diri sendiri atau orang lain secara melawan hukum, dengan ancarnan pencemaran atau dengan ancaman akan membuka rahasia, memaksa orang supaya: 
+   - (21 Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik, dengan maksud untuk menguntungkan diri sendiri atau orang lain secara melawan hukum, dengan ancarnan pencemaran atau dengan ancaman akan membuka rahasia, memaksa orang supaya:
 
-      - a. memberikan suatu barang yang sebagial atau seluruhnya milik orang tersebut atau milik orang lain; atau 
+      - a. memberikan suatu barang yang sebagial atau seluruhnya milik orang tersebut atau milik orang lain; atau
 
-      - b. memberi utang, membuat pengakuan utang, atau menghapuskan piutang. 
+      - b. memberi utang, membuat pengakuan utang, atau menghapuskan piutang.
 
-10. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut: 
+10. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut:
 
-###### Pasal 28 
+### Pasal 28 ^pasal-28
 
-- <sup>(1)</sup> Setiap Orang dengan sengaja dan/atau mentransmisikan Informasi Elektronik dan/ atau Dokumen Elektronik yang berisi pemberitahuan bohong atau informasi menyesatkan yang mengakibatkan kerugian materiel bagi konsumen dalam Transaksi Elektronik. 
+- <sup>(1)</sup> Setiap Orang dengan sengaja dan/atau mentransmisikan Informasi Elektronik dan/ atau Dokumen Elektronik yang berisi pemberitahuan bohong atau informasi menyesatkan yang mengakibatkan kerugian materiel bagi konsumen dalam Transaksi Elektronik.
 
-- (21 Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik yang sifatnya menghasut, mengajak, atau memengaruhi orang lain sehingga menimbulkan rasa kebencian atau permusuhan terhadap individu dan/atau kelompok masyarakat tertentu berdasarkan ras, kebangsaan, etnis, warna kulit, agama, kepercayaan, jenis kelamin, disabilitas mental, atau disabilitas fisik. 
+- (21 Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik yang sifatnya menghasut, mengajak, atau memengaruhi orang lain sehingga menimbulkan rasa kebencian atau permusuhan terhadap individu dan/atau kelompok masyarakat tertentu berdasarkan ras, kebangsaan, etnis, warna kulit, agama, kepercayaan, jenis kelamin, disabilitas mental, atau disabilitas fisik.
 
-(3) Setiap. . . 
+(3) Setiap. . .
 
-SK No l90l93A 
+SK No l90l93A
 
-## tr{irEtfirrrrd{n{{n 
+**tr{irEtfirrrrd{n{{n**
 
--10- 
+-10-
 
-   - (3) Setiap Orang dengan sengaja menyebarkan Informasi Elektronik dan/atau Dokumen Elektronik yang diketahuinya memuat pemberitahuan bohong yang menimbulkan kerusuhan di masyarakat. 
+   - (3) Setiap Orang dengan sengaja menyebarkan Informasi Elektronik dan/atau Dokumen Elektronik yang diketahuinya memuat pemberitahuan bohong yang menimbulkan kerusuhan di masyarakat.
 
-11. Ketentuan Pasal 29 diubah sehingga berbunyi sebagai berikut: 
+11. Ketentuan Pasal 29 diubah sehingga berbunyi sebagai berikut:
 
-###### Pasal 29 
+### Pasal 29 ^pasal-29
 
-Setiap Orang dengan sengaja dan tanpa hak Informasi Elektronik dan/atau Dokumen Elektronik secara langsung kepada korban yang berisi ancam.rn kekerasan dan/ atau menakutnakuti. 
+Setiap Orang dengan sengaja dan tanpa hak Informasi Elektronik dan/atau Dokumen Elektronik secara langsung kepada korban yang berisi ancam.rn kekerasan dan/ atau menakutnakuti.
 
-12. Ketentuan Pasal 36 diubah sehingga berbunyi sebagai berikut: 
+12. Ketentuan Pasal 36 diubah sehingga berbunyi sebagai berikut:
 
-###### Pasal 36 
+### Pasal 36 ^pasal-36
 
-Setiap Orang dengan sengaja dan tanpa hak melakukan perbuatan sebagaimana dimaksud dalam Pasal 30 sampai dengan Pasal 34<sup>yang</sup> mengakibatkan kerugian materiel bagi Orang lain. 
+Setiap Orang dengan sengaja dan tanpa hak melakukan perbuatan sebagaimana dimaksud dalam Pasal 30 sampai dengan Pasal 34<sup>yang</sup> mengakibatkan kerugian materiel bagi Orang lain.
 
-13. Di antara ayat (2b) dan ayat (3) Pasal 40 disisipkan 2 (dua) ayat, yakni ayat l2cl dan ayat (2d), ketentuan ayat (2b), ayat (5), dan ayat (6) Pasal 4O diubah, serta penjelasan ayat (2b) Pasal 40 diubah sehingga Pasal 40 berbunyi sebagai berikut: 
+13. Di antara ayat (2b) dan ayat (3) Pasal 40 disisipkan 2 (dua) ayat, yakni ayat l2cl dan ayat (2d), ketentuan ayat (2b), ayat (5), dan ayat (6) Pasal 4O diubah, serta penjelasan ayat (2b) Pasal 40 diubah sehingga Pasal 40 berbunyi sebagai berikut:
 
-###### Pasal 40 
+### Pasal 40 ^pasal-40
 
-- (l) Pemerintah memfasilitasi pemanfaatan Teknologi Informasi dan Transaksi Elektronik sesuai dengan ketentuan peraturan<sup>perundang-</sup> undangan. 
+- (l) Pemerintah memfasilitasi pemanfaatan Teknologi Informasi dan Transaksi Elektronik sesuai dengan ketentuan peraturan<sup>perundang-</sup> undangan.
 
-(2) Pemerintah . . . 
+(2) Pemerintah . . .
 
-SK No 190288A 
+SK No 190288A
 
-;i'lLIK 
+;i'lLIK
 
-   - 11- 
+   - 11-
 
-- (21 Pemerintah melindungi kepentingan umum dari segala jenis gangguan sebagai akibat penyalahgunaan Informasi Elektronik dan Transaksi Elektronik yang mengganggu ketertiban umum, sesuai dengan ketentuan peraturan perundang-undangan. 
+- (21 Pemerintah melindungi kepentingan umum dari segala jenis gangguan sebagai akibat penyalahgunaan Informasi Elektronik dan Transaksi Elektronik yang mengganggu ketertiban umum, sesuai dengan ketentuan peraturan perundang-undangan.
 
-- (2a) Pemerintah wajib melakukan pencegahan penyebarluasan dan penggunaan Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan yang dilarang sesuai dengan ketentuan peraturan perundang-undangan. 
+- (2a) Pemerintah wajib melakukan pencegahan penyebarluasan dan penggunaan Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan yang dilarang sesuai dengan ketentuan peraturan perundang-undangan.
 
-- (2b) Dalam melakukan pencegahan sebagaimana dimaksud pada ayat (2a), Pemerintah berwenang melakukan pemutusan Akses dan/atau memerintahkan kepada Penyeleprggara Sistem Elektronik untuk melakukan pemutusan Akses terhadap Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan yang melanggar hukum. 
+- (2b) Dalam melakukan pencegahan sebagaimana dimaksud pada ayat (2a), Pemerintah berwenang melakukan pemutusan Akses dan/atau memerintahkan kepada Penyeleprggara Sistem Elektronik untuk melakukan pemutusan Akses terhadap Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan yang melanggar hukum.
 
-- l2cl<sup>Perintah kepadaPenyelenggara Sistem</sup> Elektronik sebagaimana dimaksud pada ayat (2b) berupa pemutusan Akses dan/ atau moderasi konten secara mandiri terhadap Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan pornografi, perjudian, atau muatan lain sebagaimana dimaksud dalam ketentuan peraturan perundang-undangan sepanjang dimungkinkan secara teknologi. 
+- l2cl<sup>Perintah kepadaPenyelenggara Sistem</sup> Elektronik sebagaimana dimaksud pada ayat (2b) berupa pemutusan Akses dan/ atau moderasi konten secara mandiri terhadap Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan pornografi, perjudian, atau muatan lain sebagaimana dimaksud dalam ketentuan peraturan perundang-undangan sepanjang dimungkinkan secara teknologi.
 
-- (2d) Dalam melakukan pencegahan sebagaimana dimaksud pada ayat (2a), Pemerintah berwenang memerintahkan kepada Penyelenggara Sistem Elektronik untuk melakukan moderasi konten terhadap Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan berbahaya bagi keselamatan nyawa atau kesehatan individu atau masyarakat. 
+- (2d) Dalam melakukan pencegahan sebagaimana dimaksud pada ayat (2a), Pemerintah berwenang memerintahkan kepada Penyelenggara Sistem Elektronik untuk melakukan moderasi konten terhadap Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan berbahaya bagi keselamatan nyawa atau kesehatan individu atau masyarakat.
 
-- (3) Pemerintah menetapkan instansi atau institusi yang memiliki data elektronik strategis yang wajib dilindungi. 
+- (3) Pemerintah menetapkan instansi atau institusi yang memiliki data elektronik strategis yang wajib dilindungi.
 
-> (4) Instansi. .. 
+> (4) Instansi. ..
 
-SK No l90l95A 
+SK No l90l95A
 
-PrIflt dll ETrTI.If,TilTFr'IITTIf, 
+PrIflt dll ETrTI.If,TilTFr'IITTIf,
 
-   - (41 Instansi atau institusi sebagaimana dimaksud pada ayat (3) harus membuat Dokumen Elektronik dan rekam cadang elektroniknya serta menghubungkannya ke pusat data tertentu untuk kepentingan pengamanan data. 
+   - (41 Instansi atau institusi sebagaimana dimaksud pada ayat (3) harus membuat Dokumen Elektronik dan rekam cadang elektroniknya serta menghubungkannya ke pusat data tertentu untuk kepentingan pengamanan data.
 
-   - (5) Instansi atau institusi lain selain diatur pada ayat (3) membuat Dokumen Elektronik dan rekam cadang elektroniknya sesuai dengan keperluan pelindungan data yang dimilikinya. 
+   - (5) Instansi atau institusi lain selain diatur pada ayat (3) membuat Dokumen Elektronik dan rekam cadang elektroniknya sesuai dengan keperluan pelindungan data yang dimilikinya.
 
-   - (6) Ketentuan lebih lanjut mengenai peran Pemerintah sebagaimana dimaksud pada ayat (1), ayat (2), ayat (2a1, ayat (2b), ayat (2c), ayat (2d1, dan ayat (3) diatur dalam Peraturan Pemerintah. 
+   - (6) Ketentuan lebih lanjut mengenai peran Pemerintah sebagaimana dimaksud pada ayat (1), ayat (2), ayat (2a1, ayat (2b), ayat (2c), ayat (2d1, dan ayat (3) diatur dalam Peraturan Pemerintah.
 
-14. Di antara Pasal 40 dan Pasal 41 disisipkan 1 (satu) pasal, yakni Pasal 40A sehingga berbunyi sebagai berikut: 
+14. Di antara Pasal 40 dan Pasal 41 disisipkan 1 (satu) pasal, yakni Pasal 40A sehingga berbunyi sebagai berikut:
 
-Pasal 4OA 
+Pasal 4OA
 
-- dalam 
+- dalam
 
-- (U Pemerintah bertanggung jawab mendorong terciptanya ekosistem digital yang adil, akuntabel, aman, dan inovatif. 
+- (U Pemerintah bertanggung jawab mendorong terciptanya ekosistem digital yang adil, akuntabel, aman, dan inovatif.
 
-- (21 Dalam rangka melaksanakan tanggung Jawab sebagaimana dimaksud pada ayat (1), Pemerintah berwenang memerintahkan Penyelenggara Sistem Elektronik untuk melakukan penyesuaian pada Sistem Elektronik dan/atau melakukan tindakan tertentu. 
+- (21 Dalam rangka melaksanakan tanggung Jawab sebagaimana dimaksud pada ayat (1), Pemerintah berwenang memerintahkan Penyelenggara Sistem Elektronik untuk melakukan penyesuaian pada Sistem Elektronik dan/atau melakukan tindakan tertentu.
 
-- (3) Penyelenggara Sistem Elektronik wajib melaksanakan perintah sebagaimana dimaksud pada ayat (2). 
+- (3) Penyelenggara Sistem Elektronik wajib melaksanakan perintah sebagaimana dimaksud pada ayat (2).
 
-- (41 Dalam hal Penyelenggara Sistem Elektronik melanggar kewajiban sebagaimana dimaksud pada ayat (3), Penyelenggara Sistem Elektronik dikenai sanksi administratif. 
+- (41 Dalam hal Penyelenggara Sistem Elektronik melanggar kewajiban sebagaimana dimaksud pada ayat (3), Penyelenggara Sistem Elektronik dikenai sanksi administratif.
 
-   - (5) Sanksi... 
+   - (5) Sanksi...
 
-SK No 190196A 
+SK No 190196A
 
-###### NEPUBLIK INDONESTA 
+**NEPUBLIK INDONESTA**
 
--13- 
+-13-
 
-   - (5) Sanksi administratif sebagaimana dimalsud pada ayat (4) dapat berupa: 
+   - (5) Sanksi administratif sebagaimana dimalsud pada ayat (4) dapat berupa:
 
-      - a. teguran tertulis; 
+      - a. teguran tertulis;
 
-      - b. dendaadministratif; 
+      - b. dendaadministratif;
 
-      - c. penghentian sementara; dan/atau 
+      - c. penghentian sementara; dan/atau
 
-      - d. pemutusan Akses. 
+      - d. pemutusan Akses.
 
-   - (6) Ketentuan lebih lanjut mengenai tanggung jawab Pemerintah sebagaimana dimaksud pada ayat (l ), wewenang Pemerintah sebagaimana dimaksud pada ayat (21, kewajiban Penyelepggara Sistem Elektronik sebagaimana dimaksud pada ayat (3), dan pengenaan sanksi administratif sebagaimana dimaksud pada ayat (4) dan ayat (5) diatur dalam Peraturan Pemerintah. 
+   - (6) Ketentuan lebih lanjut mengenai tanggung jawab Pemerintah sebagaimana dimaksud pada ayat (l ), wewenang Pemerintah sebagaimana dimaksud pada ayat (21, kewajiban Penyelepggara Sistem Elektronik sebagaimana dimaksud pada ayat (3), dan pengenaan sanksi administratif sebagaimana dimaksud pada ayat (4) dan ayat (5) diatur dalam Peraturan Pemerintah.
 
-15. Ketentuan ayat (2), ayat (5), dan ayat (8) Pasal 43 diubah, ketentuan ayat (5) Pasal 43 ditambahkan 1 (satu) huruf, yakni huruf l, dan penjelasan ayat (5) huruf j Pasal 43 diubah sehingga Pasal 43 berbunyi sebagai berikut: 
+15. Ketentuan ayat (2), ayat (5), dan ayat (8) Pasal 43 diubah, ketentuan ayat (5) Pasal 43 ditambahkan 1 (satu) huruf, yakni huruf l, dan penjelasan ayat (5) huruf j Pasal 43 diubah sehingga Pasal 43 berbunyi sebagai berikut:
 
-###### Pasal 43 
+### Pasal 43 ^pasal-43
 
-- (1) Selain Penyidik Pejabat Polisi Negara Republik Indonesia, Pejabat Pegawai Negeri Sipil tertentu di lingkungan Pemerintah yang lingkup tugas dan tanggung<sup>jawabnya</sup> di bidang Teknologi Informasi dan Transaksi Elektronik diberi wewenang khusus sebagai penyidik sebagaimana dimaksud dalam Undang-Undang tentang Hukum Acara Pidana untuk melakukan penyidikan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik. 
+- (1) Selain Penyidik Pejabat Polisi Negara Republik Indonesia, Pejabat Pegawai Negeri Sipil tertentu di lingkungan Pemerintah yang lingkup tugas dan tanggung<sup>jawabnya</sup> di bidang Teknologi Informasi dan Transaksi Elektronik diberi wewenang khusus sebagai penyidik sebagaimana dimaksud dalam Undang-Undang tentang Hukum Acara Pidana untuk melakukan penyidikan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik.
 
-   - (2) Penyidikan. . . 
+   - (2) Penyidikan. . .
 
-SK No l90l98A 
+SK No l90l98A
 
-###### REPUBLIK INDONEISIA 
+**REPUBLIK INDONEISIA**
 
--t4- 
+-t4-
 
-- l2l<sup>Penyidikan tindak pidana di bidang Teknologi</sup> Informasi dan Transaksi Elektronik sebagaimana dimaksud pada ayat (1) dilakukan dengan memperhatikan pelindungan terhadap privasi, kerahasiaan, kelancaran layanan publik, dan integritas atau keutuhan data sesuai dengan ketentuan peraturan perundang-undangan. 
+- l2l<sup>Penyidikan tindak pidana di bidang Teknologi</sup> Informasi dan Transaksi Elektronik sebagaimana dimaksud pada ayat (1) dilakukan dengan memperhatikan pelindungan terhadap privasi, kerahasiaan, kelancaran layanan publik, dan integritas atau keutuhan data sesuai dengan ketentuan peraturan perundang-undangan.
 
-- (3) Penggeledahan dan/atau penyitaan terhadap Sistem Elektronik yang terkait dengan dugaan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik dilakukan sesuai dengan ketentuan hukum acara pidana. 
+- (3) Penggeledahan dan/atau penyitaan terhadap Sistem Elektronik yang terkait dengan dugaan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik dilakukan sesuai dengan ketentuan hukum acara pidana.
 
-- (41 Dalam melakukan penggeledahan dan/ atau penyitaan sebagaimana dimaksud pada ayat (3), penyidik wajib menjaga terpeliharanya kepentingan pelayanan umum. 
+- (41 Dalam melakukan penggeledahan dan/ atau penyitaan sebagaimana dimaksud pada ayat (3), penyidik wajib menjaga terpeliharanya kepentingan pelayanan umum.
 
-- (5) Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (l) berwenang: 
+- (5) Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (l) berwenang:
 
-   - a. menerima laporan atau pengaduan dari seseorzrng tentang adanya tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik; 
+   - a. menerima laporan atau pengaduan dari seseorzrng tentang adanya tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik;
 
-   - b. memanggil setiap Orang atau pihak lainnya untuk didengar dan diperiksa sebagai tersangka atau saksi sehubungan dengan adanya dugaan tindak pidana di bidang Transaksi 
+   - b. memanggil setiap Orang atau pihak lainnya untuk didengar dan diperiksa sebagai tersangka atau saksi sehubungan dengan adanya dugaan tindak pidana di bidang Transaksi
 
-   - Teknologi Informasi dan Elektronik; 
+   - Teknologi Informasi dan Elektronik;
 
-   - c. melakukan pemeriksaan atas kebenaran laporan atau keterangan berkenaan dengan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik; 
+   - c. melakukan pemeriksaan atas kebenaran laporan atau keterangan berkenaan dengan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik;
 
-   - d. melakukan pemeriksaan terhadap Orang dan/ atau Badan Usaha yang patut diduga melakukan tindak pidana di bidang Transaksi 
+   - d. melakukan pemeriksaan terhadap Orang dan/ atau Badan Usaha yang patut diduga melakukan tindak pidana di bidang Transaksi
 
-   - Teknologi Informasi dan Elektronik; 
+   - Teknologi Informasi dan Elektronik;
 
-      - e. melakukan . . . 
+      - e. melakukan . . .
 
-SK No 190199A 
-
-
+SK No 190199A
 
 <!-- Start of picture text -->
 T<br><!-- End of picture text -->
 
-###### REPUBLIK INDONESIA 
+**REPUBLIK INDONESIA**
 
--15- 
+-15-
 
-- e melakukan pemeriksaan terhadap alat dan/ atau sarana yang berkaitan dengan kegiatan Teknologi Informasi yang diduga digunakan untuk melakukan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik; 
+- e melakukan pemeriksaan terhadap alat dan/ atau sarana yang berkaitan dengan kegiatan Teknologi Informasi yang diduga digunakan untuk melakukan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik;
 
-- f. melakukan penggeledahan terhadap tempat tertentu yang diduga digunakan sebagai tempat untuk melakukan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik; 
+- f. melakukan penggeledahan terhadap tempat tertentu yang diduga digunakan sebagai tempat untuk melakukan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik;
 
-- c. melakukan penyegelan dan penyitaan terhadap alat dan/ atau sarana kegiatan Teknologi Informasi yang diduga digunakan ketentuan 
+- c. melakukan penyegelan dan penyitaan terhadap alat dan/ atau sarana kegiatan Teknologi Informasi yang diduga digunakan ketentuan
 
-- secara menyimpang dari peraturan perundang-undangan ; 
+- secara menyimpang dari peraturan perundang-undangan ;
 
-- h membuat suatu data danlatau Sistem Elektronik yang terkait tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik agar tidak dapat diakses; 
+- h membuat suatu data danlatau Sistem Elektronik yang terkait tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik agar tidak dapat diakses;
 
-- I meminta informasi yang terdapat di dalam Sistem Elektronik atau informasi yang dihasilkan oleh Sistem Elektronik kepada Penyelenggara Sistem Elektronik yang terkait dengan tindak pidana di bidang Transaksi 
+- I meminta informasi yang terdapat di dalam Sistem Elektronik atau informasi yang dihasilkan oleh Sistem Elektronik kepada Penyelenggara Sistem Elektronik yang terkait dengan tindak pidana di bidang Transaksi
 
-- Teknologi Informasi dan Elektronik; 
+- Teknologi Informasi dan Elektronik;
 
-- J 
+- J
 
-   - meminta bantuan ahli yang diperlukan dalam penyidikan terhadap tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik; 
+   - meminta bantuan ahli yang diperlukan dalam penyidikan terhadap tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik;
 
-- k. mengadakan penghentian penyidikan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik sesuai dengan ketentuan hukum acara pidana; dan/ atau 
+- k. mengadakan penghentian penyidikan tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik sesuai dengan ketentuan hukum acara pidana; dan/ atau
 
-      - l. memerintahkan . . . 
+      - l. memerintahkan . . .
 
-SK No 190200A 
+SK No 190200A
 
-###### PRESIDEN REPITEUK INDONEISIA 
+**PRESIDEN REPITEUK INDONEISIA**
 
--16- 
+-16-
 
-      1. memerintahkan kepada Penyelenggara Sistem Elektronik untuk melakukan pemutusan Akses secara sementara terhadap akun media sosial, rekening bank, uang elektronik, dan/ atau aset digital. 
+      1. memerintahkan kepada Penyelenggara Sistem Elektronik untuk melakukan pemutusan Akses secara sementara terhadap akun media sosial, rekening bank, uang elektronik, dan/ atau aset digital.
 
-   - (6) Penangkapan dan penahanan terhadap pelaku tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik dilakukan sesuai dengan ketentuan hukum acara pidana. 
+   - (6) Penangkapan dan penahanan terhadap pelaku tindak pidana di bidang Teknologi Informasi dan Transaksi Elektronik dilakukan sesuai dengan ketentuan hukum acara pidana.
 
-   - (71 Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (l) dalam melaksanakan tugasnya memberitahukan dimulainya penyidikan kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia. 
+   - (71 Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (l) dalam melaksanakan tugasnya memberitahukan dimulainya penyidikan kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia.
 
-   - (7a) Dalam hal penyidikan sudah selesai, Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (l) menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia. 
+   - (7a) Dalam hal penyidikan sudah selesai, Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (l) menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia.
 
-   - (8) Dalam rangka mengungkap tindak pidana di bidang Teknologi Informasi dan TYansaksi Elektronik, penyidik dapat bekerja sama dengan penyidik negara lain untuk berbagi informasi dan alat bukti sesuai dengan ketentuan peraturan perundang-undangan. 
+   - (8) Dalam rangka mengungkap tindak pidana di bidang Teknologi Informasi dan TYansaksi Elektronik, penyidik dapat bekerja sama dengan penyidik negara lain untuk berbagi informasi dan alat bukti sesuai dengan ketentuan peraturan perundang-undangan.
 
-16. Ketentuan Pasal 45 diubah sehingga berbunyi sebagai berikut: 
+16. Ketentuan Pasal 45 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 45 
+### Pasal 45 ^pasal-45
 
-- (1) Setiap Orang yang dengan sengaja dan tanpa hak menyiarkan, mempertunjukkan, mendistribusikan, mentransmisikan, dan/atau membuat dapat diaksesnya Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan yang melanggar kesusilaan untuk diketahui umum sebagaimana dimaksud dalam Pasal 27 ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rpl.000.000.000,00 (satu miliar rupiah). 
+- (1) Setiap Orang yang dengan sengaja dan tanpa hak menyiarkan, mempertunjukkan, mendistribusikan, mentransmisikan, dan/atau membuat dapat diaksesnya Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan yang melanggar kesusilaan untuk diketahui umum sebagaimana dimaksud dalam Pasal 27 ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rpl.000.000.000,00 (satu miliar rupiah).
 
-(2) Perbuatan . . . 
+(2) Perbuatan . . .
 
-SK No 190201A 
+SK No 190201A
 
-### f,r{rr:rftxlTrffif{Tff, 
+**f,r{rr:rftxlTrffif{Tff,**
 
--L7- 
+-L7-
 
-- (21 Perbuatan sebagaimana dimaksud pada ayat (1) tidak dipidana dalam hal: 
+- (21 Perbuatan sebagaimana dimaksud pada ayat (1) tidak dipidana dalam hal:
 
-   - a. dilakukan demi kepentingan umum; 
+   - a. dilakukan demi kepentingan umum;
 
-   - b. dilakukan untuk pembelaan atas dirinya sendiri; atau 
+   - b. dilakukan untuk pembelaan atas dirinya sendiri; atau
 
-   - c. Informasi Elektronik dan/ atau Dokumen Elektronik tersebut merupakan karya seni, budaya, olahraga, kesehatan, dan/ atau ilmu pengetahuan. 
+   - c. Informasi Elektronik dan/ atau Dokumen Elektronik tersebut merupakan karya seni, budaya, olahraga, kesehatan, dan/ atau ilmu pengetahuan.
 
-- (3) Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan, mentransmisikan, dan/ atau membuat dapat diaksesnya Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan perjudian sebagaimana dimaksud dalam Pasal 27 ayat (2) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau denda paling banyak Rp 1 0. 000.000.000,00 (sepuluh miliar rupiah). 
+- (3) Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan, mentransmisikan, dan/ atau membuat dapat diaksesnya Informasi Elektronik dan/ atau Dokumen Elektronik yang memiliki muatan perjudian sebagaimana dimaksud dalam Pasal 27 ayat (2) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau denda paling banyak Rp 1 0. 000.000.000,00 (sepuluh miliar rupiah).
 
-- (4) Setiap Orang yang dengan sengaja menyerang kehormatan atau nama baik orang lain dengan cara menuduhkan suatu hal, dengan maksud supaya ha1 tersebut diketahui umum dalam bentuk Informasi Elektronik dan/ atau Dokumen Elektronik yang dilakukan melalui Sistem Elektronik sebagaimana dimaksud dalam Pasal 27A dipidana dengan pidana penjara paling lama 2 (dua) tahun dan/ atau denda paling banyak Rp4O0.000.000,00 (empat ratus<sup>juta</sup> rupiah). 
+- (4) Setiap Orang yang dengan sengaja menyerang kehormatan atau nama baik orang lain dengan cara menuduhkan suatu hal, dengan maksud supaya ha1 tersebut diketahui umum dalam bentuk Informasi Elektronik dan/ atau Dokumen Elektronik yang dilakukan melalui Sistem Elektronik sebagaimana dimaksud dalam Pasal 27A dipidana dengan pidana penjara paling lama 2 (dua) tahun dan/ atau denda paling banyak Rp4O0.000.000,00 (empat ratus<sup>juta</sup> rupiah).
 
-- (5) Ketentuan sebagaimana dimaksud pada ayat (4) merupakan tindak pidana aduan yang hanya dapat dituntut atas pengaduan korban atau orang yang terkena tindak pidana dan bukan oleh badan hukum. 
+- (5) Ketentuan sebagaimana dimaksud pada ayat (4) merupakan tindak pidana aduan yang hanya dapat dituntut atas pengaduan korban atau orang yang terkena tindak pidana dan bukan oleh badan hukum.
 
-- (6) Dalam hal perbuatan sebagaimana dimaksud pada ayat (41 tidak dapat dibuktikan kebenarannya dan bertentangan dengan apa yang diketahui padahal telah diberi kesempatan untuk membuktikannya, dipidana karena fitnah dengan pidana penjara paling lama 4 (empat) tahun dan/ atau denda paling banyak Rp750.000.00O,00 (tujuh ratus lima puluh<sup>juta</sup> rupiah). 
+- (6) Dalam hal perbuatan sebagaimana dimaksud pada ayat (41 tidak dapat dibuktikan kebenarannya dan bertentangan dengan apa yang diketahui padahal telah diberi kesempatan untuk membuktikannya, dipidana karena fitnah dengan pidana penjara paling lama 4 (empat) tahun dan/ atau denda paling banyak Rp750.000.00O,00 (tujuh ratus lima puluh<sup>juta</sup> rupiah).
 
-(7) Perbuatan . . . 
+(7) Perbuatan . . .
 
-SK No 190202A 
+SK No 190202A
 
-###### PRESIDEN flEPUBLIK INDONESIA 
+**PRESIDEN flEPUBLIK INDONESIA**
 
--18- 
+-18-
 
-- (71 Perbuatan sebagaimana dimaksud pada ayat (4) tidak dipidana dalam hal: 
+- (71 Perbuatan sebagaimana dimaksud pada ayat (4) tidak dipidana dalam hal:
 
-   - a. dilakukan untuk kepentingan umum; atau 
+   - a. dilakukan untuk kepentingan umum; atau
 
-   - b. dilakukan karena terpaksa membela diri. 
+   - b. dilakukan karena terpaksa membela diri.
 
-- (8) Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik, dengan maksud untuk menguntungkan diri sendiri atau orang lain secara melawan hukum, memaksa orang dengan ancaman kekerasan untuk: 
+- (8) Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik, dengan maksud untuk menguntungkan diri sendiri atau orang lain secara melawan hukum, memaksa orang dengan ancaman kekerasan untuk:
 
-   - a. memberikan suatu barang, yang sebagian atau seluruhnya milik orang tersebut atau milik orang lain; atau 
+   - a. memberikan suatu barang, yang sebagian atau seluruhnya milik orang tersebut atau milik orang lain; atau
 
-   - b. memberi utang, membuat pengakuan utang, atau menghapuskan piutang, 
+   - b. memberi utang, membuat pengakuan utang, atau menghapuskan piutang,
 
-sebagaimana dimaksud dalam Pasal 278 ayat (Ll dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah). 
+sebagaimana dimaksud dalam Pasal 278 ayat (Ll dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
-- (9) Dalam hal perbuatan sebagaimana dimaksud pada ayat (8) dilakukan dalam lingkungan keluarga, penuntutan pidana hanya dapat dilakukan atas aduan. 
+- (9) Dalam hal perbuatan sebagaimana dimaksud pada ayat (8) dilakukan dalam lingkungan keluarga, penuntutan pidana hanya dapat dilakukan atas aduan.
 
-- (1O) Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik, dengan maksud untuk menguntungkan diri sendiri atau orang lain secara melawan hukum, dengan ancarnan pencemaran atau dengan ancalnan akan membuka rahasia, memaksa orang supaya: 
+- (1O) Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik, dengan maksud untuk menguntungkan diri sendiri atau orang lain secara melawan hukum, dengan ancarnan pencemaran atau dengan ancalnan akan membuka rahasia, memaksa orang supaya:
 
-   - a. memberikan suatu barang yang sebagian atau seluruhnya milik orang tersebut atau milik orang lain; atau 
+   - a. memberikan suatu barang yang sebagian atau seluruhnya milik orang tersebut atau milik orang lain; atau
 
-b. memberi . .<sup>.</sup> 
+b. memberi . .<sup>.</sup>
 
-SK No 190289A 
+SK No 190289A
 
--tLIK 7l 
+-tLIK 7l
 
--19- 
+-19-
 
-- b. memberi utang, membuat pengakuan utang, atau menghapuskan piutang, 
+- b. memberi utang, membuat pengakuan utang, atau menghapuskan piutang,
 
-sebagaimana dimaksud dalam Pasal 278 ayat<sup>(21</sup> dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp 1.000.000.000,00 (satu miliar rupiah). 
+sebagaimana dimaksud dalam Pasal 278 ayat<sup>(21</sup> dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp 1.000.000.000,00 (satu miliar rupiah).
 
-   - (11) Tindak pidana sebagaimana dimaksud pada ayat (10) hanya dapat dituntut atas pengaduan korban tindak pidana. 
+   - (11) Tindak pidana sebagaimana dimaksud pada ayat (10) hanya dapat dituntut atas pengaduan korban tindak pidana.
 
-17. Ketentuan Pasal 45A diubah sehingga berbunyi sebagai berikut: 
+17. Ketentuan Pasal 45A diubah sehingga berbunyi sebagai berikut:
 
-Pasal 45A 
+Pasal 45A
 
-- (1) Setiap Orang yang dengan sengaja mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik yang berisi pemberitahuan bohong atau informasi menyesatkan yang mengakibatkan kerugian materiel bagi konsumen dalam Transaksi Elektronik sebagaimana dimaksud dalam Pasal 28 ayat (1) dipidana dengan pidana penjara paling lama 6<sup>(enam)</sup> tahun dan/ atau denda paling banyak Rp1.0O0.0O0.000,00 (satu miliar rupiah). 
+- (1) Setiap Orang yang dengan sengaja mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik yang berisi pemberitahuan bohong atau informasi menyesatkan yang mengakibatkan kerugian materiel bagi konsumen dalam Transaksi Elektronik sebagaimana dimaksud dalam Pasal 28 ayat (1) dipidana dengan pidana penjara paling lama 6<sup>(enam)</sup> tahun dan/ atau denda paling banyak Rp1.0O0.0O0.000,00 (satu miliar rupiah).
 
-(2) Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik yang sifatnya menghasut, mengajak, atau orang lain sehingga menimbulkan rasa kebencian atau permusuhan terhadap individu dan/atau kelompok masyarakat tertentu berdasarkan<sup>ras,</sup> kebangsaan, etnis, warna kulit, agama, kepercayaan, jenis kelamin, disabilitas mental, atau disabilitas frsik sebagaimana dimaksud dalam Pasal 28 ayat (2) dipidana dengan<sup>pidana</sup> penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp1.0OO.0O0.000,0O<sup>(satu</sup> miliar rupiah). 
+(2) Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik yang sifatnya menghasut, mengajak, atau orang lain sehingga menimbulkan rasa kebencian atau permusuhan terhadap individu dan/atau kelompok masyarakat tertentu berdasarkan<sup>ras,</sup> kebangsaan, etnis, warna kulit, agama, kepercayaan, jenis kelamin, disabilitas mental, atau disabilitas frsik sebagaimana dimaksud dalam Pasal 28 ayat (2) dipidana dengan<sup>pidana</sup> penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp1.0OO.0O0.000,0O<sup>(satu</sup> miliar rupiah).
 
-(3) Setiap. . . 
+(3) Setiap. . .
 
-SK No 190290A 
+SK No 190290A
 
-###### NEPUELIK INDONEISIA 
+**NEPUELIK INDONEISIA**
 
-### -20- 
+**-20-**
 
-   - (3) Setiap Orang yang dengan sengaja menyebarkan Informasi Elektronik dan/atau Dokumen Elektronik yang diketahuinya memuat pemberitahuan bohong yang menimbulkan kerusuhan di masyarakat sebagaimana dimaksud dalam Pasal 28 ayat (3) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp 1.000.O0O.0O0,00 (satu miliar rupiah). 
+   - (3) Setiap Orang yang dengan sengaja menyebarkan Informasi Elektronik dan/atau Dokumen Elektronik yang diketahuinya memuat pemberitahuan bohong yang menimbulkan kerusuhan di masyarakat sebagaimana dimaksud dalam Pasal 28 ayat (3) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp 1.000.O0O.0O0,00 (satu miliar rupiah).
 
-18. Ketentuan Pasal 45B diubah sehingga berbunyi sebagai berikut: 
+18. Ketentuan Pasal 45B diubah sehingga berbunyi sebagai berikut:
 
-###### Pasal 45B 
+**Pasal 45B**
 
-Setiap Orang yang dengan sengaja dan tanpa hak mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik secara langsung kepada korban yang berisi ancaman kekerasan dan/ atau menakutnakuti sebagaimana dimaksud dalam Pasal 29 dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/ atau denda paling banyak Rp750.000.000,00 (tqjuh ratus lima puluh<sup>juta</sup> rupiah). 
+Setiap Orang yang dengan sengaja dan tanpa hak mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik secara langsung kepada korban yang berisi ancaman kekerasan dan/ atau menakutnakuti sebagaimana dimaksud dalam Pasal 29 dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/ atau denda paling banyak Rp750.000.000,00 (tqjuh ratus lima puluh<sup>juta</sup> rupiah).
 
-###### Pasal II 
+**Pasal II**
 
-- 1 Pada saat Undang-Undang ini mulai berlaku, ketentuan dalam Pasal 27 ayat (1), Pasal 27A, Pasal. 28 ayat (2), Pasal 28 ayal (3), Pasal 36, Pasal 45 ayat (1), Pasal 45 ayat (2), Pasal 45 ayat (4), Pasal 45 ayat (5), Pasal 45 ayat (6), Pasal 45 ayat (7), Pasal 45A ayat (2), dan Pasal 45A ayat (3) berlaku sampai dengan diberlakukannya Undang-Undang Nomor 1 Tahun 2O23 tentang Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2O23 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842). 
+- 1 Pada saat Undang-Undang ini mulai berlaku, ketentuan dalam Pasal 27 ayat (1), Pasal 27A, Pasal. 28 ayat (2), Pasal 28 ayal (3), Pasal 36, Pasal 45 ayat (1), Pasal 45 ayat (2), Pasal 45 ayat (4), Pasal 45 ayat (5), Pasal 45 ayat (6), Pasal 45 ayat (7), Pasal 45A ayat (2), dan Pasal 45A ayat (3) berlaku sampai dengan diberlakukannya Undang-Undang Nomor 1 Tahun 2O23 tentang Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2O23 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842).
 
-- 2 Undang-Undang ini mulai berlaku<sup>pada</sup> tanggal diundangkan. 
+- 2 Undang-Undang ini mulai berlaku<sup>pada</sup> tanggal diundangkan.
 
-Agar . . . 
+Agar . . .
 
-SK No 190291A 
+SK No 190291A
 
-FRESIDEN REPUBUK INDONESIA 
+FRESIDEN REPUBUK INDONESIA
 
--2t- 
+-2t-
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam l,embaran Negara Republik Indonesia. 
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam l,embaran Negara Republik Indonesia.
 
-Disahkan di Jakarta 
+Disahkan di Jakarta
 
-pada tanggal 2 Januari2024 
+pada tanggal 2 Januari2024
 
-PRESIDEN REPUBLIK INDONESIA, 
+PRESIDEN REPUBLIK INDONESIA,
 
-ttd 
+ttd
 
-JOKO WIDODO 
+JOKO WIDODO
 
-Diundangkan di Jakarta pada tanggal 2 Jarruari 2024 
+Diundangkan di Jakarta pada tanggal 2 Jarruari 2024
 
-MENTERI SEKRETARIS NEGARA REPUBLIK INDONESIA, 
+MENTERI SEKRETARIS NEGARA REPUBLIK INDONESIA,
 
-ttd 
+ttd
 
-###### PRATIKNO 
+**PRATIKNO**
 
-LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 1 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 1
 
-Salinan sesuai dengan aslinya 
+Salinan sesuai dengan aslinya
 
-KEMENTERIAN SEKRETARIAT NEGARA REPUBLIK INDONESIA 
+KEMENTERIAN SEKRETARIAT NEGARA REPUBLIK INDONESIA
 
-Perundang-undangan dan trasi Hukum, 
+Perundang-undangan dan trasi Hukum,
 
-Djaman 
+Djaman
 
-SK No l90l75A 
+SK No l90l75A
 
-TI.I JTFIIIilNFIEFI;FIA 
+TI.I JTFIIIilNFIEFI;FIA
 
-PENJELASAN 
+## Penjelasan
 
-ATAS 
+### I. Umum
 
-UNDANG-UNDANG REPUBLIK INDONESIA 
+ATAS
 
-NOMOR 1 TAHUN 2024 
+UNDANG-UNDANG REPUBLIK INDONESIA
 
-TENTANG 
+NOMOR 1 TAHUN 2024
 
-PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 11 TAHUN 2OO8 TENTANG INFORMASI DAN TRANSAKSI ELEKTRONIK 
+TENTANG
 
-### I. UMUM 
+PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 11 TAHUN 2OO8 TENTANG INFORMASI DAN TRANSAKSI ELEKTRONIK
 
-Kemerdekaan menyatakan pikiran dan kebebasan berpendapat dengan bahasa yang baik dan benar serta hak memperoleh informasi melalui penggun€ran dan pemanfaatan Teknologi Informasi ditu-jukan untuk memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa. Kemerdekaan dan kebebasan itu<sup>juga</sup> merupakan hal yang penting dalam menjaga ruang digital yang bersih, sehat, beretika, produktif, dan berkeadilan serta memberikan rasa aman dan kepastian hukum bagi pengguna dan Penyelenggara Sistem Elektronik. 
+Kemerdekaan menyatakan pikiran dan kebebasan berpendapat dengan bahasa yang baik dan benar serta hak memperoleh informasi melalui penggun€ran dan pemanfaatan Teknologi Informasi ditu-jukan untuk memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa. Kemerdekaan dan kebebasan itu<sup>juga</sup> merupakan hal yang penting dalam menjaga ruang digital yang bersih, sehat, beretika, produktif, dan berkeadilan serta memberikan rasa aman dan kepastian hukum bagi pengguna dan Penyelenggara Sistem Elektronik.
 
-Dalam kehidupan bermasyarakat, berbangsa, dan bernegara, hak dan kebebasan dalam menggunakan dan memanfaatkan Teknologi Informasi tersebut dilaksanakan dengan mempertimbangkan pembatasan<sup>yang</sup> ditetapkan dengan Undang-Undang. Pembatasan tersebut dimaksudkan semata-mata untuk menjamin pengakuan serta<sup>penghormatan</sup> atas hak dan kebebasan orang lain dan untuk memenuhi tuntutan<sup>yang</sup> adil sesuai dengan pertimbangan moral, nilai agama, keamanan, dan ketertiban umum dalam masyarakat yang demokratis. 
+Dalam kehidupan bermasyarakat, berbangsa, dan bernegara, hak dan kebebasan dalam menggunakan dan memanfaatkan Teknologi Informasi tersebut dilaksanakan dengan mempertimbangkan pembatasan<sup>yang</sup> ditetapkan dengan Undang-Undang. Pembatasan tersebut dimaksudkan semata-mata untuk menjamin pengakuan serta<sup>penghormatan</sup> atas hak dan kebebasan orang lain dan untuk memenuhi tuntutan<sup>yang</sup> adil sesuai dengan pertimbangan moral, nilai agama, keamanan, dan ketertiban umum dalam masyarakat yang demokratis.
 
-Pada kenyataannya dalam menerapkan Undang-Undang Nomor<sup>11</sup> Tahun 2O08 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Ttansaksi Elektronik terdapat permasalahan. Permasalahan dimaksud, antara lain: 
+Pada kenyataannya dalam menerapkan Undang-Undang Nomor<sup>11</sup> Tahun 2O08 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Ttansaksi Elektronik terdapat permasalahan. Permasalahan dimaksud, antara lain:
 
-1. munculnya keberatan sebagian masyarakat terhadap beberapa ketentuan pidana seperti dalam Pasal 27 ayat<sup>(3)</sup> dan Pasal 28 ayat<sup>(21,</sup> yang telah beberapa kali diajukan Uji Materi (Judicial Reuiew) di Mahkamah Konstitusi; 
+1. munculnya keberatan sebagian masyarakat terhadap beberapa ketentuan pidana seperti dalam Pasal 27 ayat<sup>(3)</sup> dan Pasal 28 ayat<sup>(21,</sup> yang telah beberapa kali diajukan Uji Materi (Judicial Reuiew) di Mahkamah Konstitusi;
 
-2. terjadinya. . . 
+2. terjadinya. . .
 
-SK No 190268A 
-
-
+SK No 190268A
 
 <!-- Start of picture text -->
 I<br><!-- End of picture text -->
 
-EGtrEtrII:IIrIItrlTlTtrtr 
+EGtrEtrII:IIrIItrlTlTtrtr
 
--2 
+-2
 
-2. terjadinya perubahan pertama atas Undang-Undang Nomor 11 Tahun 2O08 tentang Informasi dan Transaksi Elektronik, yaitu UndangUndang Nomor 19 Tahun 2016 tentang Perubahan atas UndangUndang Nomor 11 Tahun 20O8 tentang Informasi dan Transaksi Elektronik yang dianggap masih belum dapat menyelesaikan masalah; dan 
+2. terjadinya perubahan pertama atas Undang-Undang Nomor 11 Tahun 2O08 tentang Informasi dan Transaksi Elektronik, yaitu UndangUndang Nomor 19 Tahun 2016 tentang Perubahan atas UndangUndang Nomor 11 Tahun 20O8 tentang Informasi dan Transaksi Elektronik yang dianggap masih belum dapat menyelesaikan masalah; dan
 
-3. munculnya pemahaman yang berbeda terhadap beberapa pasal sehingga penerapannya dapat dikenal<an kepada subjek<sup>yang</sup> seharusnya tidak menjadi sasaran dari ketentuan tersebut. 
+3. munculnya pemahaman yang berbeda terhadap beberapa pasal sehingga penerapannya dapat dikenal<an kepada subjek<sup>yang</sup> seharusnya tidak menjadi sasaran dari ketentuan tersebut.
 
-Undang-Undang ini makin menyempurnakan norma yang diatur dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2O08 tentang Informasi dan Transaksi Elektronik. Norma dimaksud meliputi: 
+Undang-Undang ini makin menyempurnakan norma yang diatur dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2O08 tentang Informasi dan Transaksi Elektronik. Norma dimaksud meliputi:
 
-1. alat bukti elektronik sebagaimana dimaksud dalam Pasal 5; 
+1. alat bukti elektronik sebagaimana dimaksud dalam Pasal 5;
 
-2. sertilikasi elektronik sebagaimana dimaksud dalam Pasal 13; 
+2. sertilikasi elektronik sebagaimana dimaksud dalam Pasal 13;
 
-3. Transaksi Elektronik sebagaimana dimaksud dalam Pasal 17; 
+3. Transaksi Elektronik sebagaimana dimaksud dalam Pasal 17;
 
-4. perbuatan yang dilarang, antara lain Pasal 27, Pasal 27A, PasaT 278, Pasal 28, Pasal 29, dan Pasal 36 beserta ketentuan pidananya yang diatur dalam Pasal 45, Pasal 45A, dan Pasal 45El; 
+4. perbuatan yang dilarang, antara lain Pasal 27, Pasal 27A, PasaT 278, Pasal 28, Pasal 29, dan Pasal 36 beserta ketentuan pidananya yang diatur dalam Pasal 45, Pasal 45A, dan Pasal 45El;
 
-5. peran Pemerintah sebagaimana dimaksud dalam Pasal 40; dan 
+5. peran Pemerintah sebagaimana dimaksud dalam Pasal 40; dan
 
-6. kewenangan penyidik pejabat pegawai negeri sipil sebagaimana dimaksud dalam Pasal 43. 
+6. kewenangan penyidik pejabat pegawai negeri sipil sebagaimana dimaksud dalam Pasal 43.
 
-Selain itu, Undang-Undang ini<sup>juga</sup> melengkapi materi yang telah diatur dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor<sup>11</sup> Tahun 20O8 tentang Informasi dan Transaksi Elektronik. Materi<sup>yang</sup> diatur tersebut meliputi: 
+Selain itu, Undang-Undang ini<sup>juga</sup> melengkapi materi yang telah diatur dalam Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor<sup>11</sup> Tahun 20O8 tentang Informasi dan Transaksi Elektronik. Materi<sup>yang</sup> diatur tersebut meliputi:
 
-- f. identitas digital dalam penyelenggaraan sertifikasi elektronik sebagaimana dimaksud dalam Pasal 13A; 
+- f. identitas digital dalam penyelenggaraan sertifikasi elektronik sebagaimana dimaksud dalam Pasal 13A;
 
-2. pelindungan anak dalam Penyelenggaraan Sistem Elektronik sebagaimana dimaksud dalam Pasal 16A dan Pasal 16El; 
+2. pelindungan anak dalam Penyelenggaraan Sistem Elektronik sebagaimana dimaksud dalam Pasal 16A dan Pasal 16El;
 
-3. Kontrak Elektronik internasional sebagaimana dimaksud dalam<sup>Pasal</sup> 18A; dan 
+3. Kontrak Elektronik internasional sebagaimana dimaksud dalam<sup>Pasal</sup> 18A; dan
 
-4. peran Pemerintah dalam mendorong terciptanya ekosistem digital<sup>yang</sup> adil, akuntabel, aman, dan inovatif sebagaimana dimaksud dalam Pasal 40A. 
+4. peran Pemerintah dalam mendorong terciptanya ekosistem digital<sup>yang</sup> adil, akuntabel, aman, dan inovatif sebagaimana dimaksud dalam Pasal 40A.
 
-II. PASAL. . . 
+II. PASAL. . .
 
-SK No 190269A 
+SK No 190269A
 
-EqITFIIIIINIII'TTTTN 
+EqITFIIIIINIII'TTTTN
 
--3- 
+-3-
 
-II. PASAL DEMI PASAL 
+### II. Pasal demi Pasal
 
 Pasal I 
 
-Angka I 
-
-Pasal 5 
-
+Angka I
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (l) 
 
 Keberadaan Informasi Elektronik dan/atau Dokumen Elektronik mengikat dan diakui sebagai alat bukti yang sah untuk memberikan kepastian hukum terhadap Penyelenggaraan Sistem Elektronik dan Transaksi Elektronik, terutama dalam pembuktian dan hal yang berkaitan dengan perbuatan hukum yang dilakukan melalui Sistem Elektronik. 
@@ -727,10 +725,8 @@ Ayat (3) Cukup<sup>jelas.</sup>
 
 Ayat (41 Cukup<sup>jelas.</sup> 
 
-Ang)<a 2 
-
-Pasal 13 
-
+Ang)<a 2
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1) 
 
 Cukup<sup>jelas.</sup> Ayat (21 Cukup<sup>jelas.</sup> 
@@ -749,9 +745,9 @@ alt Iil{flFIIIIfN];ItfIFFfA
 
 Ayat (4) 
 
-###### Cukup<sup>jelas.</sup> 
+**Cukup<sup>jelas.</sup>**
 
-###### Ayat (5) 
+**Ayat (5)**
 
 Yang dimaksud dengan "perjanjian kerja sama" antara lain adalah perjanjian antar-Penyelenggara Sertifikasi Elektronik atau antar-Pemerintah yang Penyelenggara Sertifikasi Elektroniknya akan melakukan pengakuan timbal balik, baik secara bilateral maupun multilateral. 
 
@@ -773,7 +769,7 @@ Huruf b
 
 Yang dimaksud dengan "segel elektronikl adalah data elektronik yang dilekatkan, terasosiasi, atau terkait dengan Informasi Elektronik dan/atau Dokumen Elektronik untuk menjamin asal, integritas, dan keutuhan dari Informasi Elektronik dan/atau Dokumen Elektronik<sup>yang</sup> digunakan oleh Badan Usaha atau instansi. 
 
-###### Huruf c 
+**Huruf c**
 
 Yang dimaksud dengan "penanda waktu elektronikl adalah penanda yang mengikat antara waktu dan tanggal dengan Informasi Elektronik dan/ atau Dokumen Elektronik dengan menggunakan metode yang andal. 
 
@@ -785,23 +781,23 @@ Iil{lrl:If tilTIrfr<sup>i.lTrr-fl</sup> l!
 
 -5- 
 
-###### Huruf d 
+**Huruf d**
 
 Yang dimaksud dengan "layanan pengiriman elektronik tercatat" adalah layanan yang menyediakan pengiriman Informasi Elektronik dan/ atau Dokumen Elektronik, memberikan bukti terkait pengiriman Informasi Elektronik dan/ atau Dokumen Elektronik, dan melindungi Informasi Elektronik dan/ atau Dokumen Elektronik yang dikirimkan dari risiko kehilangan, pencurian, kerusakan, atau penambahan yang tidak sah. 
 
-###### Huruf e 
+**Huruf e**
 
 Yang dimaksud dengan "autentikasi situs web" adalah layanan yang mengidentilikasi pemilik situs web dan mengaitkan situs web tersebut ke Orang atau Badan Usaha yang menerima Sertifikat Elektronik situs web dengan menggunakan metode yang andal. 
 
-###### Huruf f 
+**Huruf f**
 
 Yang dimaksud dengan "preservasi Tanda Tangan Elektronik dan/atau segel elektronik" adalah layanan yang menjamin kekuatan hukum Tanda Tangan Elektronik danlata,u segel elektronik dalam suatu Informasi Elektronik dan/ atau Dokumen Elektronik masih dapat divalidasi meskipun masa berlaku Sertifikat Elektronik tersebut habis. 
 
-###### Huruf g 
+**Huruf g**
 
 Yang dimaksud dengan "identitas digital" adalah Informasi Elektronik yang memuat identitas unik dari suatu subjek hukum yang pemanfaatannya berada di bawah penguasaan dari subjek hukum yang terasosiasi dengan identitas tersebut. 
 
-##### Hurufh 
+**Hurufh**
 
 Cukup<sup>jelas.</sup> 
 
@@ -822,10 +818,8 @@ Ayat (2)
 
 Cukup<sup>jelas.</sup> 
 
-Angka 4 
-
-Pasal 15 
-
+Angka 4
+#### Pasal 15 ^penjelasan-pasal-15
 Ayat (1) 
 
 Yang dimaksud dengan "andal" adalah Sistem Elektronik memiliki kemampuan yang sesuai dengan kebutuhan penggunaannya. 
@@ -858,7 +852,7 @@ Yang . . .
 
 SK No 190274A 
 
-###### PRESIDEN NEPUELIK INDONESIA 
+**PRESIDEN NEPUELIK INDONESIA**
 
 -7 - 
 
@@ -876,20 +870,18 @@ Huruf a
 
 Cukup<sup>jelas.</sup> 
 
-###### Huruf b 
+**Huruf b**
 
 Yang dimaksud dengan "mekanisme verifikasi" adalah tata cara untuk memastikan bahwa pengguna yang mengakses Sistem Elektronik adalah anak, dengan menggunakan teknologi. 
 
-###### Huruf c 
+**Huruf c**
 
 Yang dimaksud dengan<sup>omekanisme</sup> pelaporan penyalahgunaan" adalah tala, cara pelaporan dalam sebuah layanan atau fitur yang dapat diakses dengan mudah oleh anak, orang tua, dan/ atau wali anak. 
 
 Ayat (5) 
 
-Cukup<sup>jelas.</sup> 
-
-Pasal 168 
-
+Cukup<sup>jelas.</sup>
+#### Pasal 168 ^penjelasan-pasal-168
 Cukup<sup>jelas.</sup> 
 
 Angka6. . . 
@@ -900,10 +892,8 @@ PRESIDEN NEPUBLIK INDONESIA
 
 -8- 
 
-Angka 6 
-
-Pasal 17 
-
+Angka 6
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1) 
 
 Undang-Undang ini memberikan peluang terhadap pemanfaatan Teknologi Informasi oleh penyelenggara negara, Orang, Badan Usaha, dan/ atau masyarakat. 
@@ -950,7 +940,7 @@ Huruf b
 
 Yang dimaksud dengan<sup>otempat</sup> pelaksanaan kontrak ada di wilayah Indonesia" termasuk dalam hal layanan, produk, atau Sistem Elektronik yang diselenggarakan Penyelenggara Sistem Elektronik digunakan atau diakses oleh penggunanya dari Indonesia. 
 
-###### Huruf c 
+**Huruf c**
 
 Yang dimaksud dengan "Penyelenggara Sistem Elektronik memiliki tempat usaha di wilayah Indonesia' termasuk Penyelenggara Sistem Elektronik memiliki kantor perwakilan di wilayah Indonesia atau Badan Usaha Indonesia. 
 
@@ -966,10 +956,8 @@ SK No 190278A
 
 NEPUBLIK tibONESIA 
 
-Angka 8 
-
-Pasal 27 
-
+Angka 8
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1) 
 
 Yang dimaksud dengan "menyiarkan" termasuk perbuatan mentransmisikan, mendistribusikan, dan membuat dapat diaksesnya Informasi Elektronik dan/ atau Dokumen Elektronik dalam Sistem Elektronik. 
@@ -1014,10 +1002,8 @@ Ayat t2t
 
 Yang dimaksud dengan 'ancaman pencemaran" adalah ancaman menyerang kehormatan atau nama baik orang lain dengan cara menuduhkan suatu hal dbngan maksud supaya hal tersebut diketahui umum. 
 
-Angka 1O 
-
-Pasal 28 
-
+Angka 1O
+#### Pasal 28 ^penjelasan-pasal-28
 Ayat (l) 
 
 Cukup<sup>jelas.</sup> 
@@ -1038,24 +1024,18 @@ Ayat (3)
 
 Yang dimaksud dengan "kerusuhan" adalah kondisi yang mengganggu ketertiban umum di ruang fisik, bukan kondisi di ruang digital/ siber. 
 
-Angka 11 
-
-Pasal 29 
-
+Angka 11
+#### Pasal 29 ^penjelasan-pasal-29
 Yang dimaksud dengan "korban" adalah orang yang mengalami penderitaan fisik, mental, dan/ atau kerugian ekonomi yang diakibatkan oleh tindak pidana. 
 
 Termasuk dala perbuatan yang dimaksud dalam ketentuan ini adalah perundungan di ruang digital (cyber bullging). 
 
-Angka 12 
-
-Pasal 36 
-
+Angka 12
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup<sup>jelas.</sup> 
 
-Angka 13 
-
-Pasal 40 
-
+Angka 13
+#### Pasal 40 ^penjelasan-pasal-40
 Ayat (1) 
 
 Fasilitasi pemanfaatan Teknologi Informasi, termasuk tata kelola Teknologi Informasi dan Transaksi Elektronik yang aman, beretika, cerdas, kreatif, produktif, dan inovatif. 
@@ -1124,10 +1104,8 @@ PRESIDEN NEPUBUK INDONESIA
 
 Ayat (4) Cukup<sup>jelas.</sup> Ayat (s) Cukup<sup>jelas.</sup> Ayat (6) Cukup<sup>jelas.</sup> 
 
-Angka 15 
-
-Pasal 43 
-
+Angka 15
+#### Pasal 43 ^penjelasan-pasal-43
 Ayat (1) 
 
 Yang dimaksud dengan "Pejabat Pegawai Negeri Sipil tertentu" adalah Pejabat Pegawai Negeri Sipil kementerian yang urusan pemerintahan di bidang komunikasi dan informatika yang telah memenuhi persyaratan berdasarkan ketentuan peraturan perundangundangan. 
@@ -1178,10 +1156,8 @@ tJ--f;F{f{rN irriflLrff,ff , Iff{I
 
 Ayat (6) Cukup<sup>jelas.</sup> Ayat (7t Cukup<sup>je1as.</sup> Ayat (7al Cukup<sup>jelas.</sup> Ayat (8) Cukup<sup>jelas.</sup> 
 
-Angka 16 
-
-Pasal 45 
-
+Angka 16
+#### Pasal 45 ^penjelasan-pasal-45
 Ayat (1) Cukup<sup>jelas.</sup> Ayat (2t Cukup<sup>jelas.</sup> Ayat (3) Cukup<sup>jelas.</sup> Ayat (4t Cukup<sup>jelas.</sup> Ayat (s) Cukup<sup>jelas.</sup> Ayat (6) Cukup<sup>jelas.</sup> Ayat (7t 
 
 Hurufa 
@@ -1200,7 +1176,7 @@ Dalam negara demokratis, kritik menjadi hal penting sebagai bagian dari kebebasa
 
 Pada dasamya, kritik dalam pasal ini merupakan bentuk pengawasan, koreksi, dan saran terhadap hal-hal yang berkaitan dengan kepentingan masyarakat. 
 
-###### Huruf b 
+**Huruf b**
 
 Cukup<sup>jelas.</sup> 
 
@@ -1234,5 +1210,21 @@ Cukup<sup>jelas.</sup>
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6905 
 
-SK No 190287A 
+SK No 190287A
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 168 | [[#^penjelasan-pasal-168]] |

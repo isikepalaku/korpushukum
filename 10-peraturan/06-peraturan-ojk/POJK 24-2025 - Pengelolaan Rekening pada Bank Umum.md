@@ -23,17 +23,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Pengelolaan Rekening pada Bank Umum
+**Pengelolaan Rekening pada Bank Umum**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-24-Tahun-2025-Pengelolaan-Rekening-pada-Bank-Umum.aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/POJK-24-Tahun-2025-Pengelolaan-Rekening-pada-Bank-Umum.aspx)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -82,7 +87,6 @@ dan Penguatan Sektor Keuangan (Lembaran Negara
 Republik Indonesia Tahun 2023 Nomor 4, Tambahan
 Lembaran Negara Republik Indonesia Nomor 6845);
 
-
 -----
 
 3. Undang-Undang Nomor 21 Tahun 2011 tentang
@@ -108,7 +112,7 @@ PENGELOLAAN REKENING PADA BANK UMUM.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini, yang
 dimaksud dengan:
 1. Bank Umum yang selanjutnya disebut Bank adalah
@@ -128,17 +132,16 @@ mengenai perbankan syariah.
 dalam undang-undang mengenai perbankan dan
 undang-undang mengenai perbankan syariah.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 Bank menerapkan tata kelola yang baik dalam pengelolaan
 rekening Nasabah.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) Pengelolaan rekening Giro dan Tabungan
 diklasifikasikan menjadi:
 a. rekening aktif, yaitu rekening yang memiliki
 aktivitas pemasukan, penarikan, atau pengecekan
 saldo;
-
 
 -----
 
@@ -168,7 +171,7 @@ KEBIJAKAN DAN PROSEDUR PENATAUSAHAAN
 
 REKENING GIRO DAN TABUNGAN
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Bank wajib memiliki kebijakan dan prosedur
 penatausahaan rekening Giro dan Tabungan yang
 memuat paling sedikit:
@@ -201,7 +204,6 @@ h. verifikasi dan uji validasi untuk pengaktifan
 kembali rekening tidak aktif dan rekening
 dormant;
 
-
 -----
 
 i. mekanisme penutupan rekening Giro dan
@@ -221,7 +223,7 @@ dengan kriteria rekening aktif, rekening tidak aktif, dan
 rekening dormant sebagaimana dimaksud pada ayat (1)
 huruf f.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Bank wajib menerapkan manajemen risiko dalam
 
 pengelolaan rekening Giro dan Tabungan.
@@ -238,7 +240,7 @@ pemantauan, pengendalian risiko, dan sistem
 informasi manajemen risiko; dan
 d. sistem pengendalian intern yang menyeluruh.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Bank wajib menerapkan prinsip pelindungan
 konsumen dalam pengelolaan rekening Giro dan
 Tabungan.
@@ -250,7 +252,7 @@ dimaksud pada ayat (1) dikenai sanksi sesuai dengan
 ketentuan peraturan perundang-undangan di sektor
 jasa keuangan.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Bank wajib melindungi data pribadi Nasabah pemilik
 rekening Giro dan Tabungan.
 (2) Pelindungan data pribadi sebagaimana dimaksud pada
@@ -260,10 +262,9 @@ peraturan perundang-undangan.
 dimaksud pada ayat (1) dikenai sanksi sesuai dengan
 ketentuan peraturan perundang-undangan.
 
-
 -----
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Bank wajib merahasiakan keterangan mengenai
 Nasabah pemilik rekening Giro dan Tabungan.
 (2) Kerahasiaan Nasabah sebagaimana dimaksud pada
@@ -276,7 +277,7 @@ ketentuan peraturan perundang-undangan.
 BAB III
 KEWAJIBAN NASABAH
 
-Pasal 9
+### Pasal 9 ^pasal-9
 Kewajiban Nasabah pemilik rekening Giro dan Tabungan
 meliputi:
 a. memastikan rekening Giro dan Tabungan aktif dengan
@@ -298,7 +299,7 @@ PENGELOLAAN REKENING GIRO DAN TABUNGAN
 
 DENGAN KLASIFIKASI REKENING TIDAK AKTIF
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Bank wajib menyampaikan informasi kepada Nasabah
 mengenai status rekening Giro dan Tabungan pada saat
 rekening Giro dan Tabungan diklasifikasikan menjadi
@@ -315,13 +316,12 @@ PENGELOLAAN REKENING GIRO DAN TABUNGAN
 
 DENGAN KLASIFIKASI REKENING DORMANT
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Bank wajib menyampaikan informasi kepada Nasabah
 mengenai status rekening Giro dan Tabungan pada saat
 rekening Giro dan Tabungan diklasifikasikan menjadi
 rekening dormant melalui kanal yang tersedia pada
 Bank.
-
 
 -----
 
@@ -356,7 +356,7 @@ rekening dormant.
 (7) Bank dapat mengenakan biaya administrasi atas dana
 pada rekening dormant.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Bank mengaktifkan kembali rekening dormant setelah
 Nasabah melakukan pengajuan pengaktifan kembali
 melalui kanal yang tersedia pada Bank.
@@ -374,12 +374,11 @@ kembali oleh Nasabah.
 dormant dalam hal rekening tersebut memenuhi
 kriteria tertentu.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Bank mengelola rekening dari Nasabah pemilik
 rekening Giro dan Tabungan yang diklasifikasikan
 sebagai rekening dormant sampai dengan lampau
 waktu 30 (tiga puluh) tahun.
-
 
 -----
 
@@ -398,7 +397,7 @@ PENGAWASAN REKENING TIDAK AKTIF DAN REKENING
 
 DORMANT
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Bank wajib melakukan pengawasan yang lebih ketat
 terhadap rekening tidak aktif dan rekening dormant
 dalam penerapan program anti pencucian uang,
@@ -431,14 +430,13 @@ pendanaan terorisme, dan pencegahan pendanaan
 proliferasi senjata pemusnah massal menindaklanjuti
 sesuai dengan ketentuan peraturan perundangundangan.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) Bank wajib melakukan pengawasan yang lebih ketat
 terhadap rekening tidak aktif dan rekening dormant
 dalam penerapan strategi anti fraud.
 (2) Penerapan strategi anti _fraud sebagaimana dimaksud_
 pada ayat (1) dilakukan sesuai dengan ketentuan
 peraturan perundang-undangan.
-
 
 -----
 
@@ -463,7 +461,7 @@ keuangan.
 BAB VII
 SANKSI ADMINISTRATIF
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Bank yang melanggar ketentuan sebagaimana
 dimaksud pada Pasal 4, Pasal 5 ayat (1), Pasal 10 ayat
 (1), Pasal 11 ayat (1), ayat (2), Pasal 12 ayat (2), Pasal
@@ -487,24 +485,23 @@ penilaian tingkat kesehatan.
 BAB VIII
 KETENTUAN LAIN-LAIN
 
-Pasal 17
+### Pasal 17 ^pasal-17
 Pemenuhan ketentuan sebagaimana dimaksud dalam
 Pasal 4 dan Pasal 10 ayat (1) dilaksanakan paling lambat 6
 (enam) bulan terhitung sejak Peraturan Otoritas Jasa
 Keuangan ini diundangkan.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 Otoritas Jasa Keuangan dapat menetapkan kebijakan yang
 berbeda dengan Peraturan Otoritas Jasa Keuangan ini
 berdasarkan pertimbangan tertentu.
-
 
 -----
 
 BAB IX
 KETENTUAN PERALIHAN
 
-Pasal 19
+### Pasal 19 ^pasal-19
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. Rekening Giro dan Tabungan yang teridentifikasi
@@ -525,7 +522,7 @@ pada hari ke-1440.
 BAB X
 KETENTUAN PENUTUP
 
-Pasal 20
+### Pasal 20 ^pasal-20
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, ketentuan Pasal 6 ayat (6) Peraturan Otoritas Jasa
 Keuangan Nomor 1/POJK.03/2022 tentang Layanan
@@ -534,10 +531,9 @@ Keuangan tanpa Kantor dalam rangka Keuangan Inklusif
 10, Tambahan Lembaran Negara Republik Indonesia Nomor
 6759), dicabut dan dinyatakan tidak berlaku.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal diundangkan.
-
 
 -----
 
@@ -568,16 +564,15 @@ SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR    Ж
 
-
 Ѽ
-
 
 Ж
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -587,8 +582,6 @@ NOMOR 24 TAHUN 2025
 
 TENTANG
 PENGELOLAAN REKENING PADA BANK UMUM
-
-I. UMUM
 
 Sebagai lembaga penghimpun dana masyarakat, Bank memiliki
 peranan penting dalam menyelenggarakan kegiatan usaha Bank,
@@ -622,21 +615,16 @@ komunikasi Bank dengan Nasabah terkait status rekening, serta
 kewajiban Nasabah untuk senantiasa menjaga rekening dalam kondisi
 aktif.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
 
 
 -----
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Huruf a
@@ -730,9 +718,7 @@ b. rekening Tabungan “HIJ” (status tidak aktif); dan
 c. rekening Tabungan “PQR” (status aktif).
 Rekening yang diklasifikasikan sebagai rekening tidak aktif
 yaitu hanya rekening Tabungan “HIJ”.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Huruf a
@@ -790,9 +776,7 @@ bulan Februari 2027.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Cukup jelas.
@@ -812,9 +796,7 @@ Cukup jelas.
 Huruf d
 
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 Cukup jelas.
@@ -826,9 +808,7 @@ masyarakat di sektor jasa keuangan.
 Ayat (3)
 
 Lihat penjelasan ayat (2).
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Cukup jelas.
@@ -839,9 +819,7 @@ data pribadi.
 Ayat (3)
 
 Lihat penjelasan ayat (2).
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Cukup jelas.
@@ -857,9 +835,7 @@ Otoritas Jasa Keuangan mengenai rahasia bank.
 Ayat (3)
 
 Lihat penjelasan ayat (2).
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Huruf a
 
 Cukup jelas.
@@ -877,9 +853,7 @@ memperjualbelikan rekening Giro dan Tabungan.
 Huruf e
 
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Lihat penjelasan Pasal 4 ayat (1) huruf b.
@@ -889,9 +863,7 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Lihat penjelasan Pasal 4 ayat (1) huruf b.
@@ -938,9 +910,7 @@ Rp10.000.000,00 (sepuluh juta rupiah).
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Cukup jelas.
@@ -965,9 +935,7 @@ Nasabah;
 c. Nasabah menolak memberikan informasi atau dokumen
 pendukung yang diminta oleh Bank; atau
 d. kriteria lain yang dapat dipertanggungjawabkan.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Cukup jelas.
@@ -978,9 +946,7 @@ Ayat (3)
 
 Yang dimaksud dengan “ketentuan peraturan perundangundangan” antara lain Kitab Undang-Undang Hukum Perdata
 dan undang-undang mengenai peradilan agama.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Cukup jelas.
@@ -996,9 +962,7 @@ Cukup jelas.
 Ayat (4)
 
 Lihat penjelasan ayat (2).
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Ayat (1)
 
 Cukup jelas.
@@ -1019,31 +983,19 @@ Lihat penjelasan ayat (2).
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Pertimbangan tertentu antara lain memperhatikan kesiapan
 sumber daya dan infrastruktur Bank untuk melakukan
 penyesuaian sistem terkait pengelolaan rekening.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR    ⸙
@@ -1054,3 +1006,28 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR    ⸙
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |

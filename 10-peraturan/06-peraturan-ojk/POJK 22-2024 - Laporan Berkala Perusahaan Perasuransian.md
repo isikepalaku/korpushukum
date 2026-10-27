@@ -24,17 +24,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Laporan Berkala Perusahaan Perasuransian
+**Laporan Berkala Perusahaan Perasuransian**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-22-Tahun-2024-Laporan-Berkala-Perusahaan-Perasuransian.aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/POJK-22-Tahun-2024-Laporan-Berkala-Perusahaan-Perasuransian.aspx)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -80,7 +85,6 @@ Keuangan (Lembaran Negara Republik Indonesia Tahun
 2023 Nomor 4, Tambahan Lembaran Negara Republik
 Indonesia Nomor 6845);
 
-
 -----
 
 MEMUTUSKAN:
@@ -91,7 +95,7 @@ LAPORAN BERKALA PERUSAHAAN PERASURANSIAN.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
 dengan:
 1. Perusahaan Perasuransian adalah perusahaan
@@ -138,7 +142,6 @@ penjaminan syariah, Perusahaan Reasuransi, atau
 Perusahaan Reasuransi Syariah yang melakukan
 penempatan reasuransi atau reasuransi syariah.
 
-
 -----
 
 9. Perusahaan Penilai Kerugian Asuransi adalah
@@ -174,7 +177,7 @@ LAPORAN BERKALA
 Bagian Kesatu
 Jenis Laporan Berkala
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Perusahaan Perasuransian wajib menyusun dan
 menyampaikan Laporan Berkala secara lengkap,
 akurat, dan tepat waktu.
@@ -196,7 +199,6 @@ c. Laporan Tahunan;
 d. Laporan Publikasi; dan
 e. Laporan Lain.
 
-
 -----
 
 (4) Laporan Berkala sebagaimana dimaksud pada ayat (1)
@@ -211,7 +213,7 @@ menjadi jenis laporan:
 a. Laporan Tahunan; dan
 b. Laporan Lain.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) Laporan Bulanan sebagaimana dimaksud dalam Pasal
 2 ayat (3) huruf a bagi Perusahaan Asuransi dan
 Perusahaan Reasuransi merupakan Laporan Bulanan
@@ -226,7 +228,7 @@ dalam Peraturan Otoritas Jasa Keuangan mengenai
 kesehatan keuangan Perusahaan Asuransi dan
 Perusahaan Reasuransi dengan prinsip syariah.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Laporan Triwulanan sebagaimana dimaksud dalam
 Pasal 2 ayat (3) huruf b bagi Perusahaan Asuransi,
 Perusahaan Asuransi Syariah, Perusahaan
@@ -242,7 +244,7 @@ mengenai penyelenggaraan usaha Perusahaan Pialang
 Asuransi, Perusahaan Pialang Reasuransi, dan
 Perusahaan Penilai Kerugian Asuransi.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Laporan Tahunan sebagaimana dimaksud dalam Pasal
 2 ayat (2) huruf c terdiri atas:
 a. aspek keuangan; dan
@@ -254,7 +256,6 @@ Reasuransi Syariah, dan Unit Syariah merupakan
 laporan keuangan tahunan sebagaimana diatur dalam
 Peraturan Otoritas Jasa Keuangan mengenai kesehatan
 keuangan Perusahaan Asuransi dan Perusahaan
-
 
 -----
 
@@ -276,7 +277,7 @@ dimaksud pada ayat (1) huruf b bagi Perusahaan
 Perasuransian ditetapkan oleh Otoritas Jasa
 Keuangan.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Laporan Lain sebagaimana dimaksud dalam Pasal 2
 ayat (3) huruf e bagi Perusahaan Asuransi, Perusahaan
 Asuransi Syariah, Perusahaan Reasuransi, dan
@@ -311,7 +312,6 @@ g. laporan penerapan strategi antifraud sebagaimana
 diatur dalam Peraturan Otoritas Jasa Keuangan
 mengenai penerapan strategi antifraud bagi
 lembaga jasa keuangan;
-
 
 -----
 
@@ -371,7 +371,6 @@ diatur dalam Peraturan Otoritas Jasa Keuangan
 mengenai penerapan strategi antifraud bagi
 lembaga jasa keuangan;
 
-
 -----
 
 e. laporan penilaian risiko tindak pidana pencucian
@@ -430,7 +429,6 @@ f. laporan lainnya.
 ayat (5) huruf b bagi Perusahaan Penilai Kerugian
 Asuransi terdiri atas:
 
-
 -----
 
 a. laporan penerapan strategi antifraud sebagaimana
@@ -446,12 +444,12 @@ publik dan kantor akuntan publik dalam kegiatan
 jasa keuangan; dan
 c. laporan lainnya.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 Direksi atau yang setara dari Perusahaan Perasuransian
 wajib bertanggung jawab atas penyusunan dan penyajian
 Laporan Berkala secara lengkap, akurat, dan tepat waktu.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 Ketentuan lebih lanjut mengenai bentuk dan susunan
 Laporan Berkala sebagaimana dimaksud dalam Pasal 2
 sampai dengan Pasal 6 ditetapkan oleh Otoritas Jasa
@@ -460,7 +458,7 @@ Keuangan.
 Bagian Kedua
 Penyampaian Laporan Berkala
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Perusahaan Perasuransian wajib menyampaikan
 Laporan Berkala kepada Otoritas Jasa Keuangan
 berupa:
@@ -485,7 +483,6 @@ penyampaian Laporan Tahunan untuk
 ringkasan laporan keuangan tahunan yang
 telah diaudit; dan
 
-
 -----
 
 e. Laporan Lain sebagaimana dimaksud dalam Pasal
@@ -507,7 +504,7 @@ atau libur bersama, Otoritas Jasa Keuangan berwenang
 menetapkan tanggal jatuh tempo penyampaian
 laporan.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Dalam hal berdasarkan hasil pengawasan Otoritas Jasa
 Keuangan atas:
 a. Laporan Bulanan yang disampaikan oleh
@@ -543,10 +540,9 @@ penyampaian koreksi atas Laporan Berkala
 disampaikan secara daring melalui layanan _mailing_
 _room Otoritas Jasa Keuangan._
 
-
 -----
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Dalam hal sistem pelaporan Otoritas Jasa Keuangan
 mengalami gangguan teknis atau keadaan kahar
 sehingga Perusahaan Perasuransian tidak dapat
@@ -569,7 +565,7 @@ Otoritas Jasa Keuangan menetapkan penundaan batas
 waktu penyampaian Laporan Berkala dan/atau koreksi
 Laporan Berkala.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 Ketentuan lebih lanjut mengenai tata cara penyampaian
 Laporan Berkala, penyampaian koreksi Laporan Berkala,
 dan penundaan batas waktu penyampaian Laporan Berkala
@@ -582,7 +578,7 @@ Pemberian Laporan Tertentu oleh
 
 Otoritas Jasa Keuangan
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Otoritas Jasa Keuangan dapat memberikan laporan
 tertentu dan hasil analisis atas laporan Perusahaan
 Perasuransian kepada pihak lain berdasarkan
@@ -599,7 +595,6 @@ e. Lembaga Penjamin Simpanan untuk pelaksanaan
 tugas penyelenggaraan program penjaminan polis;
 dan
 f. pihak lain berdasarkan peraturan perundangundangan.
-
 
 -----
 
@@ -657,7 +652,6 @@ disertai dengan alasan.
 sebagaimana dimaksud pada ayat (2) diperlakukan
 sebagai informasi rahasia.
 
-
 -----
 
 (9) Otoritas Jasa Keuangan berwenang menetapkan
@@ -668,7 +662,7 @@ huruf f.
 Bagian Keempat
 Sanksi Administratif
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 2 ayat (1), Pasal 7, Pasal 9 ayat
 (1), dan Pasal 10 ayat (1) dan ayat (2), dikenai sanksi
@@ -714,7 +708,6 @@ ayat (6) dikenai sanksi administratif tambahan berupa
 denda administratif sebesar Rp30.000.000,00 (tiga
 puluh juta rupiah).
 
-
 -----
 
 (8) Perusahaan Pialang Asuransi, Perusahaan Pialang
@@ -743,13 +736,13 @@ tambahan berupa denda administratif tetap
 diwajibkan menyampaikan Laporan Berkala dan/atau
 koreksi Laporan Berkala.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 Selain mengenakan sanksi administratif sebagaimana
 dimaksud dalam Pasal 14, Otoritas Jasa Keuangan
 berwenang melakukan penilaian kembali terhadap pihak
 utama.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Perusahaan Perasuransian yang dicabut izin usahanya
 dan memiliki kewajiban untuk membayar denda atas
 kewajiban penyampaian Laporan Berkala, tidak
@@ -769,13 +762,12 @@ Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 Perusahaan Reasuransi, dan Perusahaan Reasuransi
 Syariah.
 
-
 -----
 
 BAB III
 KETENTUAN LAIN
 
-Pasal 17
+### Pasal 17 ^pasal-17
 Otoritas Jasa Keuangan berdasarkan pertimbangan tertentu
 dapat memberikan persetujuan atau kebijakan yang berbeda
 dengan Peraturan Otoritas Jasa Keuangan ini.
@@ -783,7 +775,7 @@ dengan Peraturan Otoritas Jasa Keuangan ini.
 BAB IV
 KETENTUAN PERALIHAN
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) Kewajiban penyusunan Laporan Triwulanan bagi
 Perusahaan Asuransi Syariah, Perusahaan Reasuransi
 Syariah, dan Unit Syariah sebagaimana dimaksud
@@ -809,7 +801,7 @@ Peraturan Otoritas Jasa Keuangan ini.
 BAB V
 KETENTUAN PENUTUP
 
-Pasal 19
+### Pasal 19 ^pasal-19
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, ketentuan pelaksanaan dari Peraturan Otoritas
 Jasa Keuangan Nomor 55/POJK.05/2017 tentang Laporan
@@ -819,10 +811,9 @@ Lembaran Negara Republik Indonesia Nomor 6107),
 dinyatakan tetap berlaku sepanjang tidak bertentangan
 dengan Peraturan Otoritas Jasa Keuangan ini.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
-
 
 -----
 
@@ -876,10 +867,9 @@ Triwulanan bagi Perusahaan Asuransi dan Perusahaan
 Reasuransi mulai berlaku sejak tanggal 1 Januari
 Tahun 2026.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal 1 Januari 2025.
-
 
 -----
 
@@ -910,7 +900,6 @@ SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 37/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -919,10 +908,11 @@ ttd
 
 Aat Windradi
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -932,8 +922,6 @@ NOMOR 22 TAHUN 2024
 
 TENTANG
 LAPORAN BERKALA PERUSAHAAN PERASURANSIAN
-
-I. UMUM
 
 Dalam rangka mendukung efektivitas fungsi pengawasan di sektor
 perasuransian, diperlukan dukungan data, informasi kondisi keuangan,
@@ -968,17 +956,14 @@ mengenai laporan berkala Perusahaan Perasuransian yang mencakup
 periode penyampaian laporan, jenis-jenis laporan, ketentuan syarat, dan
 tata cara memperoleh laporan tertentu oleh pihak yang berwenang.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
 
 
 -----
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Yang dimaksud dengan “lengkap” adalah memuat semua
@@ -1003,21 +988,13 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Cukup jelas.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 Huruf a
@@ -1098,17 +1075,11 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Lihat penjelasan Pasal 2 ayat (1).
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Ayat (1)
 
 Cukup jelas.
@@ -1128,9 +1099,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Yang termasuk dengan “kesalahan informasi” adalah
@@ -1153,33 +1122,19 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Pemberian persetujuan atau kebijakan yang berbeda dimaksudkan
 antara lain untuk:
 a. mendukung kebijakan nasional;
@@ -1193,24 +1148,16 @@ berdampak pada ekonomi dan sosial, sehingga membutuhkan
 perhatian dan penanganan oleh semua pihak terkait serta diatur
 dalam ketentuan lain atas pertimbangan dalam menghadapi
 kemungkinan kejadian luar biasa.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
 
 
 -----
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 105/OJK
@@ -1218,3 +1165,28 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 105/OJK
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |

@@ -25,31 +25,37 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Manajemen Risiko BUS dan UUS
+**Manajemen Risiko BUS dan UUS**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: `30-sumber/POJK 65-2016 - Manajemen Risiko BUS dan UUS.pdf`
 
-## Teks
+**Teks**
 OTORITAS JASA KEUANGAN REPUBLIK INDONESIA
 
-# SALINAN
+**SALINAN**
 
 PERATURAN OTORITAS JASA KEUANGAN
 
 NOMOR  65 /POJK.03/2016
 
-# TENTANG
+**TENTANG**
 
 PENERAPAN MANAJEMEN RISIKO BAGI BANK UMUM SYARIAH
 
 DAN UNIT USAHA SYARIAH
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
 DEWAN KOMISIONER OTORITAS JASA KEUANGAN,
 
@@ -75,15 +81,15 @@ dalam huruf a sampai dengan huruf f perlu menetapkan Peraturan Otoritas Jasa Keu
 
    2. Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas Jasa Keuangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 111, Tambahan Lembaran Negara Republik Indonesia Nomor 5253);
 
-# MEMUTUSKAN:
+**MEMUTUSKAN:**
 
 Menetapkan : PERATURAN OTORITAS JASA KEUANGAN TENTANG PENERAPAN MANAJEMEN RISIKO BAGI BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH.
 
-# BAB I
+**BAB I**
 
-# KETENTUAN UMUM
+**KETENTUAN UMUM**
 
-# Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud dengan:
 
@@ -145,11 +151,11 @@ Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud dengan:
 
 - d. Entitas lain yang berdasarkan Standar Akuntansi Keuangan harus dikonsolidasikan.
 
-# BAB II
+**BAB II**
 
-# RUANG LINGKUP MANAJEMEN RISIKO
+**RUANG LINGKUP MANAJEMEN RISIKO**
 
-# Pasal 2
+### Pasal 2 ^pasal-2
 
 - (1) Bank wajib menerapkan Manajemen Risiko secara efektif.
 
@@ -157,7 +163,7 @@ Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud dengan:
 
 - (3) Penerapan Manajemen Risiko sebagaimana dimaksud pada ayat (1) untuk UUS dilakukan terhadap seluruh kegiatan usaha UUS, yang merupakan satu kesatuan dengan penerapan Manajemen Risiko pada BUK.
 
-# Pasal 3
+### Pasal 3 ^pasal-3
 
 Penerapan Manajemen Risiko sebagaimana dimaksud dalam Pasal 2 ayat (1) paling sedikit mencakup:
 
@@ -175,11 +181,11 @@ Manajemen Risiko; dan
 
 - d. sistem pengendalian intern yang menyeluruh.
 
-# Pasal 4
+### Pasal 4 ^pasal-4
 
 Penerapan Manajemen Risiko sebagaimana dimaksud dalam Pasal 3 wajib disesuaikan dengan tujuan, kebijakan usaha, ukuran, dan kompleksitas usaha serta kemampuan Bank.
 
-# Pasal 5
+### Pasal 5 ^pasal-5
 
 - (1) Risiko sebagaimana dimaksud dalam Pasal 3 mencakup:
 
@@ -205,27 +211,27 @@ Penerapan Manajemen Risiko sebagaimana dimaksud dalam Pasal 3 wajib disesuaikan 
 
 - (2) Bank wajib menerapkan Manajemen Risiko untuk jenis Risiko sebagaimana dimaksud pada ayat (1).
 
-# BAB III
+**BAB III**
 
-# PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN
+**PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN**
 
-# DEWAN PENGAWAS SYARIAH
+**DEWAN PENGAWAS SYARIAH**
 
-# Bagian Kesatu
+**Bagian Kesatu**
 
-# Umum
+**Umum**
 
-# Pasal 6
+### Pasal 6 ^pasal-6
 
 Bank wajib menetapkan wewenang dan tanggung jawab yang jelas pada setiap jenjang jabatan yang terkait dengan penerapan Manajemen Risiko sebagaimana dimaksud dalam Pasal 2.
 
 - 7 -
 
-# Bagian Kedua
+**Bagian Kedua**
 
-# Wewenang dan Tanggung Jawab Direksi
+**Wewenang dan Tanggung Jawab Direksi**
 
-# Pasal 7
+### Pasal 7 ^pasal-7
 
 - (1) Wewenang dan tanggung jawab sebagaimana dimaksud dalam Pasal 6 bagi Direksi paling sedikit mencakup:
 
@@ -255,11 +261,11 @@ Bank wajib menetapkan wewenang dan tanggung jawab yang jelas pada setiap jenjang
 
 - 8 -
 
-# Bagian Ketiga
+**Bagian Ketiga**
 
-# Wewenang dan Tanggung Jawab Dewan Komisaris
+**Wewenang dan Tanggung Jawab Dewan Komisaris**
 
-# Pasal 8
+### Pasal 8 ^pasal-8
 
 Wewenang dan tanggung jawab sebagaimana dimaksud dalam Pasal 6 bagi Dewan Komisaris paling sedikit mencakup:
 
@@ -267,27 +273,27 @@ Wewenang dan tanggung jawab sebagaimana dimaksud dalam Pasal 6 bagi Dewan Komisa
 
 - b. mengevaluasi pertanggungjawaban Direksi atas pelaksanaan kebijakan Manajemen Risiko sebagaimana dimaksud dalam huruf a.
 
-# Bagian Keempat
+**Bagian Keempat**
 
 Wewenang dan Tanggung Jawab Dewan Pengawas Syariah
 
-# Pasal 9
+### Pasal 9 ^pasal-9
 
 - Wewenang dan tanggung jawab sebagaimana dimaksud dalam Pasal 6 bagi Dewan Pengawas Syariah paling sedikit mencakup: a. mengevaluasi kebijakan Manajemen Risiko yang terkait dengan pemenuhan Prinsip Syariah; dan
 
 - b. mengevaluasi pertanggungjawaban Direksi atas pelaksanaan kebijakan Manajemen Risiko yang terkait dengan pemenuhan Prinsip Syariah sebagaimana dimaksud dalam huruf a.
 
-# BAB IV
+**BAB IV**
 
-# KEBIJAKAN DAN PROSEDUR MANAJEMEN RISIKO SERTA
+**KEBIJAKAN DAN PROSEDUR MANAJEMEN RISIKO SERTA**
 
-# PENETAPAN LIMIT RISIKO
+**PENETAPAN LIMIT RISIKO**
 
-# Bagian Kesatu
+**Bagian Kesatu**
 
-# Kebijakan Manajemen Risiko
+**Kebijakan Manajemen Risiko**
 
-# Pasal 10
+### Pasal 10 ^pasal-10
 
 Kebijakan Manajemen Risiko sebagaimana dimaksud dalam Pasal 3 huruf b paling sedikit memuat:
 
@@ -303,11 +309,11 @@ Kebijakan Manajemen Risiko sebagaimana dimaksud dalam Pasal 3 huruf b paling sed
 
 - f. penetapan sistem pengendalian intern dalam penerapan Manajemen Risiko.
 
-# Bagian Kedua
+**Bagian Kedua**
 
-# Prosedur Manajemen Risiko dan Penetapan Limit Risiko
+**Prosedur Manajemen Risiko dan Penetapan Limit Risiko**
 
-Pasal 11
+### Pasal 11 ^pasal-11
 
 - (1) Prosedur Manajemen Risiko dan penetapan limit Risiko sebagaimana dimaksud dalam Pasal 3 huruf b wajib disesuaikan dengan tingkat Risiko yang akan diambil ( _risk appetite_ ) terhadap Risiko Bank.
 
@@ -329,17 +335,17 @@ Pasal 11
 
 - 10 -
 
-# BAB V
+**BAB V**
 
-# PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN PENGENDALIAN RISIKO SERTA SISTEM INFORMASI
+**PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN PENGENDALIAN RISIKO SERTA SISTEM INFORMASI**
 
-# MANAJEMEN RISIKO
+**MANAJEMEN RISIKO**
 
-# Bagian Kesatu
+**Bagian Kesatu**
 
-# Umum
+**Umum**
 
-# Pasal 12
+### Pasal 12 ^pasal-12
 
 - (1) Bank wajib melakukan proses identifikasi, pengukuran, pemantauan, dan pengendalian Risiko sebagaimana dimaksud dalam Pasal 3 huruf c terhadap faktor-faktor Risiko ( _risk factors_ ) yang bersifat material.
 
@@ -347,13 +353,13 @@ Pasal 11
 
    - a. sistem informasi manajemen yang tepat waktu; dan b. laporan yang akurat dan informatif mengenai kondisi keuangan, kinerja aktivitas fungsional, dan eksposur Risiko Bank.
 
-# Bagian Kedua
+**Bagian Kedua**
 
-# Proses Identifikasi, Pengukuran, Pemantauan, dan
+**Proses Identifikasi, Pengukuran, Pemantauan, dan**
 
-# Pengendalian Risiko
+**Pengendalian Risiko**
 
-# Pasal 13
+### Pasal 13 ^pasal-13
 
 - (1) Dalam rangka melaksanakan proses identifikasi Risiko, Bank wajib melakukan analisis paling sedikit terhadap:
 
@@ -381,11 +387,11 @@ produk, transaksi, dan faktor Risiko, yang bersifat material yang dapat mempenga
 
 - (5) Pelaksanaan proses pengendalian Risiko sebagaimana dimaksud pada ayat (4) harus sesuai dengan Prinsip Syariah.
 
-# Bagian Ketiga
+**Bagian Ketiga**
 
-# Sistem Informasi Manajemen Risiko
+**Sistem Informasi Manajemen Risiko**
 
-Pasal 14
+### Pasal 14 ^pasal-14
 
 - (1) Sistem informasi Manajemen Risiko sebagaimana dimaksud dalam Pasal 3 huruf c, paling sedikit mencakup laporan atau informasi mengenai:
 
@@ -401,21 +407,21 @@ Pasal 14
 
 - (3) Sistem informasi Manajemen Risiko sebagaimana dimaksud pada ayat (1) untuk UUS dapat menggunakan teknologi sistem informasi yang digunakan dalam sistem informasi Manajemen Risiko BUK.
 
-# BAB VI
+**BAB VI**
 
-# SISTEM PENGENDALIAN INTERN
+**SISTEM PENGENDALIAN INTERN**
 
-# Bagian Kesatu
+**Bagian Kesatu**
 
-# Umum
+**Umum**
 
-# Pasal 15
+### Pasal 15 ^pasal-15
 
 - (1) Bank wajib melaksanakan sistem pengendalian intern secara efektif terhadap pelaksanaan kegiatan usaha dan operasional pada seluruh jenjang organisasi Bank.
 
 - (2) Pelaksanaan sistem pengendalian intern untuk UUS dapat digabung dengan sistem pengendalian intern dari BUK.
 
-# Pasal 16
+### Pasal 16 ^pasal-16
 
 - (1) Pelaksanaan sistem pengendalian intern sebagaimana dimaksud dalam Pasal 15 paling sedikit mampu secara tepat waktu mendeteksi kelemahan dan penyimpangan yang terjadi.
 
@@ -433,13 +439,13 @@ Pasal 14
 
 - 14 -
 
-# Bagian Kedua
+**Bagian Kedua**
 
-# Sistem Pengendalian Intern dalam Penerapan
+**Sistem Pengendalian Intern dalam Penerapan**
 
-# Manajemen Risiko
+**Manajemen Risiko**
 
-# Pasal 17
+### Pasal 17 ^pasal-17
 
 - (1) Sistem pengendalian intern dalam penerapan Manajemen Risiko sebagaimana dimaksud dalam Pasal 3 huruf d paling sedikit mencakup:
 
@@ -469,15 +475,15 @@ kelemahan-kelemahan Bank yang bersifat material dan tindakan pengurus Bank untuk
 
 - (2) Penilaian terhadap sistem pengendalian intern dalam penerapan Manajemen Risiko sebagaimana dimaksud pada ayat (1) wajib dilakukan oleh satuan kerja audit intern.
 
-# BAB VII
+**BAB VII**
 
-# ORGANISASI DAN FUNGSI MANAJEMEN RISIKO
+**ORGANISASI DAN FUNGSI MANAJEMEN RISIKO**
 
-# Bagian Kesatu
+**Bagian Kesatu**
 
-# Umum
+**Umum**
 
-# Pasal 18
+### Pasal 18 ^pasal-18
 
 - (1) Dalam rangka pelaksanaan proses dan sistem Manajemen Risiko yang efektif sebagaimana dimaksud dalam Pasal 2, Bank wajib membentuk:
 
@@ -487,11 +493,11 @@ kelemahan-kelemahan Bank yang bersifat material dan tindakan pengurus Bank untuk
 
 - (2) Komite Manajemen Risiko dan satuan kerja Manajemen Risiko sebagaimana dimaksud pada ayat (1) untuk UUS dapat dibentuk secara tersendiri atau digabungkan dengan BUK sesuai dengan ukuran dan kompleksitas usaha UUS serta Risiko yang melekat pada UUS.
 
-# Bagian Kedua
+**Bagian Kedua**
 
-# Komite Manajemen Risiko
+**Komite Manajemen Risiko**
 
-# Pasal 19
+### Pasal 19 ^pasal-19
 
 - (1) Komite Manajemen Risiko sebagaimana dimaksud dalam Pasal 18 ayat (1) huruf a untuk BUS, paling sedikit terdiri dari:
 
@@ -517,11 +523,11 @@ kelemahan-kelemahan Bank yang bersifat material dan tindakan pengurus Bank untuk
 
    - c. penetapan hal-hal yang terkait dengan keputusan bisnis yang tidak sesuai dengan prosedur normal.
 
-# Bagian Ketiga
+**Bagian Ketiga**
 
-# Satuan Kerja Manajemen Risiko
+**Satuan Kerja Manajemen Risiko**
 
-# Pasal 20
+### Pasal 20 ^pasal-20
 
 - (1) Struktur organisasi satuan kerja Manajemen Risiko Bank sebagaimana dimaksud dalam Pasal 18 ayat (1) huruf b disesuaikan dengan ukuran dan kompleksitas usaha Bank serta Risiko yang melekat pada Bank.
 
@@ -553,25 +559,25 @@ kelemahan-kelemahan Bank yang bersifat material dan tindakan pengurus Bank untuk
 
 - 18 -
 
-# Bagian Keempat
+**Bagian Keempat**
 
-# Hubungan Satuan Kerja Operasional dengan
+**Hubungan Satuan Kerja Operasional dengan**
 
-# Satuan Kerja Manajemen Risiko
+**Satuan Kerja Manajemen Risiko**
 
-# Pasal 21
+### Pasal 21 ^pasal-21
 
 Satuan kerja operasional ( _risk-taking unit_ ) sebagaimana dimaksud dalam Pasal 20 ayat (2) wajib menginformasikan eksposur Risiko yang melekat pada satuan kerja yang bersangkutan kepada satuan kerja Manajemen Risiko secara berkala.
 
-# BAB VIII
+**BAB VIII**
 
-# PELAPORAN
+**PELAPORAN**
 
-# Bagian Kesatu
+**Bagian Kesatu**
 
-# Laporan Profil Risiko
+**Laporan Profil Risiko**
 
-# Pasal 22
+### Pasal 22 ^pasal-22
 
 - (1) Bank wajib menyampaikan laporan profil Risiko baik secara individu maupun secara konsolidasi kepada Otoritas Jasa Keuangan.
 
@@ -589,7 +595,7 @@ Satuan kerja operasional ( _risk-taking unit_ ) sebagaimana dimaksud dalam Pasal
 
 - (7)   Laporan profil Risiko sebagaimana dimaksud pada ayat (1) untuk posisi bulan Juni dan posisi bulan Desember disampaikan sebagai bagian dari hasil penilaian sendiri ( _self assessment_ ) atas tingkat kesehatan Bank.
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 - (1) Laporan profil Risiko secara individu sebagaimana dimaksud dalam Pasal 22 ayat (1) untuk posisi bulan Maret dan posisi bulan September disampaikan paling lambat 15 (lima belas) hari kerja setelah akhir bulan laporan.
 
@@ -605,7 +611,7 @@ Pasal 23
 
 apabila Bank belum menyampaikan laporan melebihi 1 (satu) bulan sejak batas akhir waktu penyampaian laporan sebagaimana dimaksud pada ayat (1) dan ayat (3).
 
-# Pasal 24
+### Pasal 24 ^pasal-24
 
 - (1) Laporan profil Risiko secara konsolidasi sebagaimana dimaksud dalam Pasal 22 ayat (1) untuk posisi bulan Maret dan posisi bulan September disampaikan paling lambat 1 (satu) bulan setelah akhir bulan laporan.
 
@@ -617,11 +623,11 @@ apabila Bank belum menyampaikan laporan melebihi 1 (satu) bulan sejak batas akhi
 
 - (5) Bank dianggap tidak menyampaikan laporan secara konsolidasi sebagaimana dimaksud dalam Pasal 22 ayat (1) apabila Bank belum menyampaikan laporan melebihi 14 (empat belas) hari kerja sejak batas akhir waktu penyampaian laporan sebagaimana dimaksud pada ayat (1) dan ayat (3).
 
-# Bagian Kedua
+**Bagian Kedua**
 
-# Laporan Lain
+**Laporan Lain**
 
-Pasal 25
+### Pasal 25 ^pasal-25
 
 - (1) Bank harus menyampaikan laporan lain kepada Otoritas Jasa Keuangan selain sebagaimana dimaksud dalam Pasal 22, dalam hal terdapat kondisi yang berpotensi
 
@@ -633,11 +639,11 @@ menimbulkan kerugian yang signifikan terhadap kondisi keuangan Bank.
 
 - (3) Format, tata cara pelaporan, dan pengenaan sanksi atas laporan sebagaimana dimaksud pada ayat (2) mengacu pada ketentuan yang mengatur mengenai pelaporan bank.
 
-# Bagian Ketiga
+**Bagian Ketiga**
 
-# Alamat Penyampaian
+**Alamat Penyampaian**
 
-# Pasal 26
+### Pasal 26 ^pasal-26
 
 Laporan sebagaimana dimaksud dalam Pasal 22 dan Pasal 25 disampaikan kepada Otoritas Jasa Keuangan dengan alamat:
 
@@ -645,31 +651,31 @@ Laporan sebagaimana dimaksud dalam Pasal 22 dan Pasal 25 disampaikan kepada Otor
 
 - b. Kantor Regional Otoritas Jasa Keuangan atau Kantor Otoritas Jasa Keuangan setempat bagi Bank yang berkantor pusat di luar wilayah Provinsi Daerah Khusus Ibukota Jakarta.
 
-# BAB IX
+**BAB IX**
 
-# KETENTUAN LAIN-LAIN
+**KETENTUAN LAIN-LAIN**
 
-# Bagian Kesatu
+**Bagian Kesatu**
 
-# Penilaian Penerapan Manajemen Risiko
+**Penilaian Penerapan Manajemen Risiko**
 
-# Pasal 27
+### Pasal 27 ^pasal-27
 
 Otoritas Jasa Keuangan dapat melakukan penilaian terhadap penerapan Manajemen Risiko pada Bank.
 
 - 22 -
 
-# Pasal 28
+### Pasal 28 ^pasal-28
 
 Bank wajib menyediakan data dan informasi yang berkaitan dengan penerapan Manajemen Risiko kepada Otoritas Jasa Keuangan.
 
-# Bagian Kedua
+**Bagian Kedua**
 
-# Aspek Pengungkapan Kinerja dan Kebijakan
+**Aspek Pengungkapan Kinerja dan Kebijakan**
 
-# Manajemen Risiko
+**Manajemen Risiko**
 
-# Pasal 29
+### Pasal 29 ^pasal-29
 
 - (1) Pengungkapan Manajemen Risiko dalam laporan publikasi tahunan Bank sebagaimana diatur dalam Peraturan Otoritas Jasa Keuangan tentang Transparansi dan Publikasi Laporan Bank wajib disesuaikan dengan Peraturan Otoritas Jasa Keuangan ini.
 
@@ -677,11 +683,11 @@ Bank wajib menyediakan data dan informasi yang berkaitan dengan penerapan Manaje
 
 - (3) Pengungkapan Manajemen Risiko dalam laporan publikasi tahunan sebagaimana dimaksud pada ayat (1) untuk UUS digabungkan dalam laporan tahunan BUK.
 
-# BAB X
+**BAB X**
 
-# SANKSI
+**SANKSI**
 
-# Pasal 30
+### Pasal 30 ^pasal-30
 
 - (1) Bank yang terlambat menyampaikan laporan sebagaimana dimaksud dalam Pasal 22 dikenakan sanksi administratif berupa denda sebesar Rp1.000.000,00 (satu juta rupiah) per hari keterlambatan per laporan.
 
@@ -707,7 +713,7 @@ sesuai dengan format yang ditentukan, dikenakan sanksi administratif berupa dend
 
    - b. Bank tidak memperbaiki laporan dalam jangka waktu 7 (tujuh) hari kerja setelah surat teguran terakhir.
 
-# Pasal 31
+### Pasal 31 ^pasal-31
 
 Bank yang tidak melaksanakan ketentuan sebagaimana ditetapkan dalam Pasal 2 ayat (1), Pasal 4, Pasal 5 ayat (2), Pasal 6, Pasal 11 ayat (1), Pasal 11 ayat (3), Pasal 12, Pasal 13 ayat (1), Pasal 13 ayat (2), Pasal 13 ayat (3), Pasal 13 ayat (4), Pasal 14 ayat (2), Pasal 15 ayat (1), Pasal 16 ayat (2), Pasal 17 ayat (2), Pasal 18 ayat (1), Pasal 21, Pasal 28, dan/atau Pasal 29 ayat (1) dikenakan sanksi administratif antara lain berupa:
 
@@ -719,21 +725,21 @@ Bank yang tidak melaksanakan ketentuan sebagaimana ditetapkan dalam Pasal 2 ayat
 
 - 24 -
 
-# BAB XI
+**BAB XI**
 
-# KETENTUAN PENUTUP
+**KETENTUAN PENUTUP**
 
-# Pasal 32
+### Pasal 32 ^pasal-32
 
 Ketentuan lebih lanjut mengenai penerapan Manajemen Risiko bagi Bank diatur dalam Surat Edaran Otoritas Jasa Keuangan.
 
-# Pasal 33
+### Pasal 33 ^pasal-33
 
 - (1) Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku maka Peraturan Bank Indonesia Nomor 13/23/PBI/2011 tentang Penerapan Manajemen Risiko Bagi Bank Umum Syariah dan Unit Usaha Syariah dicabut dan dinyatakan tidak berlaku.
 
 - (2) Dengan berlakunya Peraturan Otoritas Jasa Keuangan ini, pengaturan bagi Bank yang sebelumnya mengacu pada ketentuan mengenai penerapan manajemen risiko bagi bank umum menjadi mengacu pada Peraturan Otoritas Jasa Keuangan ini.
 
-# Pasal 34
+### Pasal 34 ^pasal-34
 
 - (1) Peraturan Bank Indonesia Nomor 8/6/PBI/2006 tentang Penerapan Manajemen Risiko Secara Konsolidasi Bagi Bank Yang Melakukan Pengendalian Terhadap Perusahaan Anak dinyatakan tetap berlaku sepanjang tidak bertentangan dengan ketentuan ini.
 
@@ -743,7 +749,7 @@ Ketentuan lebih lanjut mengenai penerapan Manajemen Risiko bagi Bank diatur dala
 
 - 25 -
 
-# Pasal 35
+### Pasal 35 ^pasal-35
 
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal diundangkan.
 
@@ -775,21 +781,21 @@ ttd
 
 Yuliana
 
-# PENJELASAN
+## Penjelasan
 
-# ATAS
+### I. Umum
 
-# PERATURAN OTORITAS JASA KEUANGAN
+**ATAS**
+
+**PERATURAN OTORITAS JASA KEUANGAN**
 
 NOMOR  65 /POJK.03/2016
 
-# TENTANG
+**TENTANG**
 
 PENERAPAN MANAJEMEN RISIKO BAGI BANK UMUM SYARIAH
 
 DAN UNIT USAHA SYARIAH
-
-# I. UMUM
 
 Kegiatan usaha Bank senantiasa dihadapkan pada risiko-risiko yang berkaitan erat dengan fungsinya sebagai lembaga intermediasi keuangan. Perkembangan lingkungan eksternal dan internal perbankan syariah yang semakin pesat mengakibatkan Risiko kegiatan usaha perbankan syariah semakin kompleks. Menghadapi kondisi tersebut, Bank perlu memperhatikan seluruh Risiko baik yang secara langsung maupun tidak langsung dapat mempengaruhi kelangsungan usaha Bank, termasuk yang berasal dari Perusahaan Anak dengan menerapkan Manajemen Risiko secara konsolidasi. Bank dituntut untuk mampu beradaptasi dengan lingkungan melalui penerapan Manajemen Risiko yang sesuai dengan Prinsip Syariah. Prinsip-prinsip Manajemen Risiko yang diterapkan pada perbankan syariah di Indonesia diarahkan sejalan dengan aturan baku yang dikeluarkan oleh _Islamic Financial Services Board_ (IFSB).
 
@@ -797,14 +803,11 @@ Penerapan Manajemen Risiko pada perbankan syariah disesuaikan dengan ukuran dan 
 
 - 2 -
 
-# II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Termasuk dalam cakupan penerapan Manajemen Risiko adalah penerapan program Anti Pencucian Uang dan Pencegahan Pendanaan Terorisme.
@@ -816,17 +819,11 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Cukup jelas.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Kompleksitas usaha antara lain keragaman dalam jenis transaksi, produk atau jasa, dan jaringan usaha. Kemampuan Bank antara lain kemampuan keuangan, infrastruktur pendukung, dan kemampuan sumber daya manusia.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Huruf a
@@ -875,7 +872,7 @@ Huruf h
 
 Cukup jelas.
 
-# Huruf i
+**Huruf i**
 
 Risiko Imbal Hasil ( _Rate of Return Risk_ ) timbul antara lain karena adanya perubahan perilaku nasabah dana pihak ketiga Bank yang disebabkan oleh perubahan ekspektasi tingkat imbal hasil yang diterima dari Bank. Perubahan ekspektasi bisa disebabkan oleh faktor internal seperti menurunnya nilai aset Bank dan/atau faktor eksternal seperti naiknya _return_ /imbal hasil yang ditawarkan bank lain. Perubahan ekspektasi tingkat imbal hasil tersebut dapat memicu perpindahan dana nasabah dari Bank kepada bank lain.
 
@@ -890,13 +887,9 @@ dihitung dari pendapatan setelah dikurangi modal.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Huruf a
@@ -942,9 +935,7 @@ Yang dimaksud dengan “memiliki pemahaman yang memadai” adalah termasuk pemah
 Ayat (3)
 
 Dalam melaksanakan wewenang dan tanggung jawabnya, Direktur UUS dapat berkoordinasi dengan direktur lain pada BUK.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Huruf a
 
 Evaluasi kebijakan Manajemen Risiko dilakukan oleh Dewan Komisaris paling sedikit 1 (satu) kali atau lebih dalam 1 (satu) tahun dalam hal terdapat perubahan faktor-faktor yang mempengaruhi kegiatan usaha Bank secara signifikan.
@@ -952,21 +943,17 @@ Evaluasi kebijakan Manajemen Risiko dilakukan oleh Dewan Komisaris paling sediki
 Huruf b
 
 Evaluasi pertanggungjawaban Direksi atas pelaksanaan kebijakan Manajemen Risiko dilakukan oleh Dewan Komisaris paling sedikit secara triwulanan.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Huruf a
 
 Evaluasi kebijakan Manajemen Risiko yang terkait dengan pemenuhan Prinsip Syariah dilakukan oleh Dewan Pengawas Syariah paling sedikit 1 (satu) kali dalam 1 (satu) tahun.
 
 - 7 -
 
-# Huruf b
+**Huruf b**
 
 Evaluasi pertanggungjawaban Direksi atas pelaksanaan kebijakan Manajemen Risiko yang terkait dengan pemenuhan Prinsip Syariah dilakukan oleh Dewan Pengawas Syariah paling sedikit secara triwulanan.
-
-# Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Kebijakan Manajemen Risiko ditetapkan antara lain dengan cara menyusun strategi Manajemen Risiko untuk memastikan bahwa:
 
 1. Bank tetap mempertahankan eksposur Risiko sesuai dengan kebijakan dan prosedur intern Bank dan peraturan perundang-undangan serta ketentuan lain yang berlaku; dan
@@ -979,7 +966,7 @@ Huruf a
 
 Cukup jelas.
 
-# Huruf b
+**Huruf b**
 
 Cukup jelas.
 
@@ -987,7 +974,7 @@ Huruf c
 
 Toleransi Risiko merupakan potensi kerugian yang dapat diserap oleh permodalan Bank.
 
-# Huruf d
+**Huruf d**
 
 Penetapan penilaian peringkat Risiko merupakan dasar bagi Bank untuk mengkategorikan peringkat Risiko Bank. Peringkat Risiko bagi Bank dikategorikan menjadi 5 (lima) peringkat, yaitu:
 
@@ -1001,7 +988,7 @@ Penetapan penilaian peringkat Risiko merupakan dasar bagi Bank untuk mengkategor
 
 5. peringkat 5 ( _High_ ).
 
-# Huruf e
+**Huruf e**
 
 Cukup jelas.
 
@@ -1010,9 +997,7 @@ Cukup jelas.
 Huruf f
 
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Tingkat Risiko yang akan diambil ( _risk appetite_ ) memperhatikan pengalaman yang dimiliki Bank dalam mengelola Risiko. Ayat (2)
@@ -1026,9 +1011,7 @@ Yang dimaksud dengan “dokumentasi yang memadai” adalah dokumentasi yang tert
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Yang dimaksud dengan “faktor-faktor Risiko” adalah berbagai parameter yang mempengaruhi eksposur Risiko. Yang dimaksud dengan “faktor-faktor Risiko ( _risk factors_ ) yang bersifat material” adalah faktor-faktor Risiko baik kuantitatif maupun kualitatif yang berpengaruh secara signifikan terhadap kondisi keuangan Bank.
@@ -1036,9 +1019,7 @@ Yang dimaksud dengan “faktor-faktor Risiko” adalah berbagai parameter yang m
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Proses identifikasi Risiko antara lain didasarkan pada pengalaman kerugian Bank yang pernah terjadi.
@@ -1074,9 +1055,7 @@ Selain itu dalam melaksanakan fungsi pengendalian Risiko _benchmark_ suku bunga,
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Huruf a
@@ -1100,11 +1079,10 @@ Laporan atau informasi yang disampaikan kepada Direksi dapat ditingkatkan frekue
 Ayat (3)
 
 Cukup jelas.
+#### Pasal 15 ^penjelasan-pasal-15
+Cukup jelas.
 
-Pasal 15 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 
 Cukup jelas.
@@ -1128,13 +1106,9 @@ Huruf d
 Efektivitas budaya Risiko ( _risk culture_ ) dimaksudkan untuk mengidentifikasi kelemahan dan penyimpangan secara lebih dini dan menilai kembali kewajaran kebijakan dan prosedur yang ada pada Bank secara berkesinambungan.
 
 - 11 -
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Ayat (1) Huruf a
 
 Komite Manajemen Risiko harus bersifat non struktural. Huruf b
@@ -1144,9 +1118,7 @@ Satuan kerja Manajemen Risiko merupakan bagian dari struktur organisasi Bank (be
 Ayat (2)
 
 Pengaturan ini dimaksudkan agar UUS dapat menentukan struktur organisasi yang tepat dan sesuai dengan kondisi BUK, termasuk kemampuan keuangan dan sumber daya manusia.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Ayat (1)
 
 Keanggotaan Komite Manajemen Risiko dapat berupa keanggotaan tetap dan tidak tetap, sesuai dengan kebutuhan Bank.
@@ -1186,9 +1158,7 @@ Ayat (4)
 Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c
 
 Termasuk dalam keputusan bisnis yang tidak sesuai dengan prosedur normal antara lain pelampauan ekspansi usaha yang signifikan dibandingkan rencana bisnis Bank dan pengambilan posisi atau eksposur Risiko yang tidak sesuai dengan limit yang telah ditetapkan.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Pengaturan ini dimaksudkan agar Bank dapat menentukan struktur organisasi yang tepat dan sesuai dengan kondisi Bank, termasuk kemampuan keuangan dan sumber daya manusia.
@@ -1246,17 +1216,11 @@ Profil Risiko merupakan gambaran secara menyeluruh atas besarnya potensi Risiko 
 - 14 -
 
 ditingkatkan dalam hal kondisi pasar berubah dengan cepat. Untuk eksposur Risiko yang berubah relatif lama, seperti Risiko Kredit maka penyampaian laporan disampaikan paling sedikit 1 (satu) kali dalam 1 (satu) bulan.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Frekuensi penyampaian informasi eksposur Risiko disesuaikan dengan karakteristik jenis Risiko.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Laporan profil Risiko disajikan secara komparatif dengan posisi triwulan sebelumnya. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1) Contoh:
 
 Untuk laporan profil Risiko secara individu posisi bulan September 2016, Bank wajib menyampaikan laporan dimaksud kepada Otoritas Jasa Keuangan paling lambat pada tanggal 21 Oktober 2016.
@@ -1276,9 +1240,7 @@ Ayat (5)
 Contoh:
 
 Apabila Bank menyampaikan laporan profil Risiko secara individu posisi bulan September 2016 setelah tanggal 21 November 2016, maka Bank dianggap tidak menyampaikan laporan dimaksud.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Ayat (1)
 
 Cukup jelas.
@@ -1306,9 +1268,7 @@ Contoh:
 Apabila Bank menyampaikan laporan profil Risiko secara konsolidasi posisi bulan September 2016 setelah tanggal 17 November 2016, maka Bank dianggap tidak menyampaikan laporan dimaksud.
 
 - 16 -
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 
 Cukup jelas.
@@ -1320,21 +1280,13 @@ Laporan lain yang terkait dengan penerapan Manajemen Risiko antara lain Laporan 
 Ayat (3)
 
 Ketentuan yang mengatur mengenai pelaporan bank antara lain ketentuan mengenai Laporan Berkala Bank Umum dan Laporan Kantor Pusat Bank Umum.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Penilaian terhadap penerapan Manajemen Risiko pada Bank termasuk penilaian Risiko yang melekat ( _inherent risk_ ) dan kecukupan sistem pengendalian Risiko ( _risk control system_ ).
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Ayat (1)
 
 Cukup jelas.
@@ -1346,9 +1298,7 @@ Kinerja Manajemen Risiko merupakan hasil penerapan Manajemen Risiko untuk period
 Cukup jelas.
 
 - 17 -
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Yang dimaksud dengan “hari” adalah hari kerja. Ayat (2)
@@ -1362,34 +1312,24 @@ Bank yang telah dikenakan sanksi administratif berupa denda pada ayat ini tidak 
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5988
 
-# LAMPIRAN
+**LAMPIRAN**
 
 PERATURAN OTORITAS JASA KEUANGAN NOMOR   65/POJK.03/2016 TENTANG PENERAPAN MANAJEMEN RISIKO BAGI BANK UMUM SYARIAH  DAN UNIT USAHA SYARIAH
 
-# I. Format Laporan Profil Risiko untuk Bank Secara Individu
+**I. Format Laporan Profil Risiko untuk Bank Secara Individu**
 
 PROFIL RISIKO UNTUK BANK SECARA INDIVIDU
 
@@ -1412,13 +1352,13 @@ Posisi :  31 Maret/30 September 20….
 |Risiko Investasi|||||||
 |Peringkat Komposit|||Peringkat<br>Profil Risiko|||Peringkat<br>Profil Risiko|
 
-## <mark>Analisis</mark>
+**<mark>Analisis</mark>**
 
 Uraian mengenai profil Risiko bank secara keseluruhan meliputi penilaian atas Risiko inheren dan kualitas penerapan Manajemen Risiko, dengan fokus pada eksposur Risiko yang signifikan pada Bank.
 
 - 2 -
 
-# II. Format Laporan Profil Risiko untuk Bank Secara Konsolidasi
+**II. Format Laporan Profil Risiko untuk Bank Secara Konsolidasi**
 
 PROFIL RISIKO UNTUK BANK SECARA KONSOLIDASI*)
 
@@ -1443,13 +1383,13 @@ Posisi :  31 Maret/30 September 20….
 
 *) Hanya diisi oleh Bank yang memiliki Perusahaan Anak
 
-## <mark>Analisis</mark>
+**<mark>Analisis</mark>**
 
 Uraian mengenai profil Risiko Bank secara keseluruhan meliputi penilaian atas Risiko inheren dan kualitas penerapan Manajemen Risiko, dengan fokus pada eksposur Risiko yang signifikan pada Bank. Dalam hal Bank memiliki perusahaan anak yang wajib dikonsolidasikan, Bank memperhitungkan dampak Risiko perusahaan anak terhadap profil Risiko Bank dengan mempertimbangkan signifikansi dan materialitas perusahaan anak dan atau signifikasi permasalahan perusahaan anak.
 
 - 3 -
 
-# III. Format Laporan Analisis Risiko
+**III. Format Laporan Analisis Risiko**
 
 ANALISIS RISIKO ………….<sup>*)</sup>
 
@@ -1474,3 +1414,43 @@ MULIAMAN D. HADAD ttd
 Yuliana
 
 - 4 -
+
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |

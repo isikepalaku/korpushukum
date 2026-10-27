@@ -24,17 +24,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penyelenggaraan Inovasi Teknologi Sektor Keuangan
+**Penyelenggaraan Inovasi Teknologi Sektor Keuangan**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-3-Tahun-2024-Penyelenggaraan-Inovasi-Teknologi-Sektor-Keuangan.aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/POJK-3-Tahun-2024-Penyelenggaraan-Inovasi-Teknologi-Sektor-Keuangan.aspx)
-
 
 OTORITAS JASA KEUANGAN
 
@@ -88,13 +93,12 @@ Menetapkan : PERATURAN OTORITAS JASA KEUANGAN TENTANG
 PENYELENGGARAAN INOVASI TEKNOLOGI SEKTOR
 KEUANGAN.
 
-
 -----
 
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang
 dimaksud dengan:
 1. Lembaga Jasa Keuangan yang selanjutnya disingkat
@@ -142,12 +146,11 @@ dan pihak lain.
 BAB II
 PENYELENGGARAAN ITSK
 
-Pasal 2
+### Pasal 2 ^pasal-2
 Ruang lingkup ITSK meliputi:
 a. penyelesaian transaksi surat berharga;
 b. penghimpunan modal;
 c. pengelolaan investasi;
-
 
 -----
 
@@ -158,7 +161,7 @@ g. aktivitas terkait aset keuangan digital, termasuk aset
 kripto; dan
 h. aktivitas jasa keuangan digital lainnya.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) Pihak yang menyelenggarakan ITSK terdiri atas:
 a. LJK; dan/atau
 b. pihak lain yang melakukan kegiatan di sektor
@@ -178,7 +181,7 @@ d. Pelindungan Konsumen dan pelindungan data
 pribadi; dan
 e. pemenuhan ketentuan peraturan perundangundangan.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Penyelenggara ITSK sebagaimana dimaksud dalam
 Pasal 3 ayat (1) wajib memenuhi ketentuan perizinan
 yang diatur oleh Otoritas Jasa Keuangan.
@@ -207,7 +210,6 @@ d. edukasi keuangan;
 e. Pelindungan Konsumen;
 f. pelindungan data pribadi Konsumen;
 
-
 -----
 
 g. aspek kelembagaan; dan
@@ -215,7 +217,7 @@ h. penyelenggaraan ITSK, termasuk aktivitas yang
 dilakukan oleh pihak ketiga yang menunjang
 penyelenggaraan ITSK.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) ITSK dapat dimanfaatkan untuk mendukung kegiatan
 ekonomi dan keuangan termasuk yang dilakukan
 berdasarkan Prinsip Syariah.
@@ -231,13 +233,13 @@ _SANDBOX_
 Bagian Kesatu
 Tujuan dan Ruang Lingkup Sandbox
 
-Pasal 6
+### Pasal 6 ^pasal-6
 Tujuan penyediaan Sandbox untuk memastikan inovasi dan
 pengembangan teknologi di sektor keuangan dilakukan
 secara bertanggung jawab dengan pengelolaan risiko yang
 baik.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 Ruang lingkup Sandbox meliputi:
 a. pemberian fasilitas untuk melakukan uji coba yang
 dilakukan dalam jangka waktu dan lingkungan
@@ -253,7 +255,7 @@ Bagian Kedua
 
 Peserta
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Peserta terdiri atas:
 a. LJK; dan/atau
 b. pihak lain yang bermaksud untuk melakukan
@@ -268,7 +270,6 @@ menerapkan prinsip:
 a. tata kelola;
 b. manajemen risiko;
 
-
 -----
 
 c. keamanan dan keandalan sistem informasi,
@@ -280,7 +281,7 @@ e. pemenuhan ketentuan peraturan perundangundangan.
 Bagian Ketiga
 Permohonan Menjadi Peserta
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Calon Peserta yang akan melakukan kegiatan dalam
 ruang lingkup sebagaimana dimaksud dalam Pasal 2
 dan bermaksud mengikuti Sandbox harus mengajukan
@@ -327,7 +328,6 @@ produk, aktivitas, layanan, dan/atau model bisnis
 yang akan diuji coba dan dikembangkan; dan
 i. indikator kinerja utama atas skenario uji coba dan
 
-
 -----
 
 pengembangan inovasi sebagaimana dimaksud
@@ -343,7 +343,7 @@ Peserta ditetapkan oleh Otoritas Jasa Keuangan.
 Bagian Keempat
 Kriteria Kelayakan dan Persetujuan Menjadi Peserta
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Kriteria kelayakan inovasi untuk mengikuti _Sandbox_
 meliputi:
 a. inovasi yang memiliki cakupan ruang lingkup pada
@@ -385,13 +385,12 @@ bisnis secara penuh di sektor jasa keuangan.
 persetujuan menjadi Peserta ditetapkan oleh Otoritas
 Jasa Keuangan.
 
-
 -----
 
 Bagian Kelima
 Proses Uji Coba dan Pengembangan Inovasi
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Proses uji coba dan pengembangan inovasi dalam
 _Sandbox dimulai sejak diberikannya persetujuan_
 menjadi Peserta oleh Otoritas Jasa Keuangan
@@ -437,13 +436,12 @@ hasil pelaksanaan uji coba dan pengembangan inovasi
 secara berkala dan/atau sewaktu-waktu ditetapkan
 oleh Otoritas Jasa Keuangan.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Atas permohonan Peserta, Otoritas Jasa Keuangan
 berwenang memberikan pengecualian sementara dari
 peraturan dan ketentuan Otoritas Jasa Keuangan
 tertentu kepada Peserta yang sedang dalam proses
 _Sandbox._
-
 
 -----
 
@@ -456,7 +454,7 @@ terkait di Otoritas Jasa Keuangan.
 Bagian Keenam
 Jangka Waktu dan Laporan Akhir Sandbox
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Pelaksanaan uji coba dan pengembangan inovasi dalam
 _Sandbox dilaksanakan dalam jangka waktu paling lama_
 1 (satu) tahun sejak persetujuan diberikan oleh Otoritas
@@ -499,17 +497,16 @@ Bagian Ketujuh
 
 Hasil Sandbox
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Otoritas Jasa Keuangan berwenang melakukan
 evaluasi dan/atau tindak lanjut hasil Sandbox.
 (2) Otoritas Jasa Keuangan menyatakan hasil Sandbox:
 a. lulus; atau
 b. tidak lulus.
 
-
 -----
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) Otoritas Jasa Keuangan menyampaikan surat lulus
 kepada Peserta yang dinyatakan lulus sebagaimana
 dimaksud dalam Pasal 14 ayat (2) huruf a.
@@ -549,7 +546,7 @@ Pasal 9 ayat (5) huruf g,
 paling lama 3 (tiga) bulan sejak masa berlaku surat
 lulus berakhir.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Otoritas Jasa Keuangan dapat menentukan Peserta
 yang lulus sebagaimana dimaksud dalam Pasal 14 ayat
 (2) huruf a untuk melakukan pendaftaran sebelum
@@ -565,7 +562,6 @@ d. kemitraan.
 ITSK Peserta sebagaimana dimaksud pada ayat (1)
 mempunyai hak yang sama untuk mengajukan
 
-
 -----
 
 permohonan pendaftaran kepada Otoritas Jasa
@@ -573,7 +569,7 @@ Keuangan.
 (4) Ketentuan mengenai mekanisme pendaftaran
 ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Otoritas Jasa Keuangan menyampaikan surat tidak
 lulus kepada Peserta sebagaimana dimaksud dalam
 Pasal 14 ayat (2) huruf b.
@@ -591,13 +587,13 @@ Pasal 9 ayat (5) huruf g,
 paling lama 3 (tiga) bulan sejak surat tidak lulus
 disampaikan oleh Otoritas Jasa Keuangan.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 Dalam hal hasil uji coba dan pengembangan inovasi
 menunjukkan keterkaitan dengan kewenangan otoritas lain,
 Otoritas Jasa Keuangan berkoordinasi dengan otoritas
 tersebut.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 11 ayat (2), ayat (3), ayat (5),
 Pasal 13 ayat (4), Pasal 15 ayat (7), Pasal 16 ayat (2),
@@ -617,14 +613,13 @@ peringatan tertulis sebagaimana dimaksud pada ayat
 BAB IV
 PERIZINAN
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Pihak yang memiliki jenis ITSK yang sama dengan jenis
 ITSK Peserta sebagaimana dimaksud dalam Pasal 15
 ayat (2) mempunyai hak yang sama untuk mengajukan
 permohonan izin usaha kepada Otoritas Jasa Keuangan.
 (2) Otoritas Jasa Keuangan memberikan surat izin usaha
 bagi Peserta sebagaimana dimaksud pada ayat (1) dan
-
 
 -----
 
@@ -637,7 +632,7 @@ masing-masing jenis ITSK.
 BAB V
 ASOSIASI
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Guna mendukung pelaksanaan penyelenggaraan ITSK,
 Otoritas Jasa Keuangan berwenang menunjuk dan
 menetapkan asosiasi Penyelenggara ITSK.
@@ -657,7 +652,7 @@ ditetapkan oleh Otoritas Jasa Keuangan.
 Penyelenggara ITSK ditetapkan oleh Otoritas Jasa
 Keuangan.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 21 ayat (2) dan/atau ayat (3)
 dikenakan sanksi administratif berupa:
@@ -679,12 +674,11 @@ PENGAWASAN, EVALUASI, DAN PEMANTAUAN
 Bagian Kesatu
 Pengawasan oleh Otoritas Jasa Keuangan
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Otoritas Jasa Keuangan melakukan pengawasan
 terhadap Penyelenggara ITSK yang telah terdaftar
 dan/atau memperoleh izin usaha dari Otoritas Jasa
 Keuangan.
-
 
 -----
 
@@ -709,13 +703,13 @@ operasional yang dilaksanakan oleh pihak ketiga.
 pada ayat (3) huruf b dilaksanakan sesuai dengan
 ketentuan mengenai pengawasan perilaku pasar.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 Penyelenggara ITSK yang terdaftar dan/atau memperoleh
 izin usaha wajib memiliki perangkat yang dapat
 meningkatkan efisiensi dan kepatuhan atas proses
 pengawasan yang dilakukan oleh Otoritas Jasa Keuangan.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 24 dikenakan sanksi
 administratif berupa:
@@ -734,7 +728,7 @@ dimaksud pada ayat (1) huruf a.
 Bagian Kedua
 Evaluasi secara Mandiri
 
-Pasal 26
+### Pasal 26 ^pasal-26
 (1) Penyelenggara ITSK yang telah terdaftar dan/atau
 memperoleh izin usaha dari Otoritas Jasa Keuangan
 wajib menerapkan evaluasi secara mandiri.
@@ -744,7 +738,6 @@ a. prinsip tata kelola teknologi informasi dan
 komunikasi sesuai dengan ketentuan peraturan
 perundang-undangan;
 b. Pelindungan Konsumen sesuai dengan ketentuan
-
 
 -----
 
@@ -791,7 +784,7 @@ Otoritas Jasa Keuangan sebagaimana dimaksud pada
 ayat (2) dan ayat (3) ditetapkan oleh Otoritas Jasa
 Keuangan.
 
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 26 ayat (1) dan/atau ayat (4)
 dikenakan sanksi administratif berupa:
@@ -804,7 +797,6 @@ e. pencabutan izin.
 (2) Sanksi administratif sebagaimana dimaksud pada ayat
 (1) huruf b sampai dengan huruf e dapat dikenakan
 
-
 -----
 
 dengan atau tanpa didahului pengenaan sanksi
@@ -814,7 +806,7 @@ dimaksud pada ayat (1) huruf a.
 Bagian Ketiga
 Prinsip Pemantauan oleh Asosiasi
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) Asosiasi sebagaimana dimaksud dalam Pasal 21
 menetapkan standar dengan menggunakan pendekatan
 disiplin pasar yang paling sedikit:
@@ -847,7 +839,7 @@ Keuangan.
 BAB VII
 LAPORAN BERKALA DAN INSIDENTIL
 
-Pasal 29
+### Pasal 29 ^pasal-29
 (1) Penyelenggara ITSK yang telah terdaftar dan/atau
 memperoleh izin usaha wajib menyampaikan laporan
 berkala dan laporan insidentil kepada Otoritas Jasa
@@ -860,7 +852,6 @@ b. laporan tahunan.
 memperoleh izin usaha wajib menyusun laporan
 sebagaimana dimaksud pada ayat (1) secara benar dan
 lengkap.
-
 
 -----
 
@@ -882,7 +873,7 @@ perizinan dan pengawasan masing-masing jenis ITSK.
 mekanisme pelaporan sebagaimana dimaksud pada
 ayat (4) ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 29 ayat (1), ayat (3), dan/atau
 ayat (4) dikenakan sanksi administratif berupa:
@@ -901,7 +892,7 @@ dimaksud pada ayat (1) huruf a.
 BAB VIII
 TATA KELOLA
 
-Pasal 31
+### Pasal 31 ^pasal-31
 (1) Penyelenggara ITSK yang telah terdaftar dan/atau
 memperoleh izin usaha wajib memiliki rencana strategis
 sistem elektronik yang mendukung rencana bisnis
@@ -920,7 +911,6 @@ g. jaringan komunikasi;
 h. pengamanan informasi;
 i. rencana pemulihan bencana;
 
-
 -----
 
 j. layanan pengguna; dan
@@ -931,14 +921,14 @@ memperoleh izin usaha wajib memiliki sumber daya
 manusia yang memiliki keahlian dan/atau latar
 belakang di bidang teknologi informasi dan keuangan.
 
-Pasal 32
+### Pasal 32 ^pasal-32
 Dalam hal terdapat perubahan terkait model bisnis, proses
 bisnis, kelembagaan, dan operasional ITSK yang dimiliki,
 Penyelenggara ITSK yang telah terdaftar dan/atau
 memperoleh izin usaha wajib menyampaikan perubahan
 tersebut kepada Otoritas Jasa Keuangan.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 31 dan/atau Pasal 32 dikenakan
 sanksi administratif berupa:
@@ -957,7 +947,7 @@ dimaksud pada ayat (1) huruf a.
 BAB IX
 PUSAT DATA
 
-Pasal 34
+### Pasal 34 ^pasal-34
 (1) Penyelenggara ITSK yang telah terdaftar dan/atau
 memperoleh izin usaha wajib memiliki pusat data dan
 pusat pemulihan bencana.
@@ -965,7 +955,7 @@ pusat pemulihan bencana.
 dimaksud pada ayat (1) wajib ditempatkan di wilayah
 Indonesia.
 
-Pasal 35
+### Pasal 35 ^pasal-35
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 34 dikenakan sanksi
 administratif berupa:
@@ -975,7 +965,6 @@ kegiatan termasuk pelaksanaan kerja sama;
 c. pembatalan persetujuan;
 d. pembatalan pendaftaran; dan/atau
 e. pencabutan izin.
-
 
 -----
 
@@ -988,7 +977,7 @@ dimaksud pada ayat (1) huruf a.
 BAB X
 EDUKASI KEUANGAN
 
-Pasal 36
+### Pasal 36 ^pasal-36
 Pelaksanaan kegiatan untuk meningkatkan literasi
 keuangan yang mencakup kegiatan edukasi keuangan
 kepada Konsumen dan/atau masyarakat dilakukan sesuai
@@ -999,7 +988,7 @@ sektor jasa keuangan bagi konsumen dan masyarakat.
 BAB XI
 PELINDUNGAN KONSUMEN DAN MASYARAKAT
 
-Pasal 37
+### Pasal 37 ^pasal-37
 Pelindungan Konsumen dan masyarakat dilaksanakan
 sesuai dengan ketentuan peraturan perundang-undangan
 mengenai pelindungan konsumen dan masyarakat di sektor
@@ -1008,7 +997,7 @@ jasa keuangan.
 BAB XII
 PELINDUNGAN DATA PRIBADI
 
-Pasal 38
+### Pasal 38 ^pasal-38
 (1) Penyelenggara ITSK yang telah terdaftar dan/atau
 memperoleh izin usaha wajib menjaga keutuhan, dan
 ketersediaan data pribadi, data transaksi, dan data
@@ -1031,7 +1020,6 @@ pihak lain tersebut menjaga kerahasiaan dan
 keamanan data dan/atau informasi Konsumen
 sebagaimana dimaksud pada ayat (2).
 
-
 -----
 
 (5) Ketentuan pemanfaatan data dan informasi pengguna
@@ -1050,7 +1038,7 @@ kerahasiaan, keamanan, serta keutuhannya; dan
 e. ketentuan lainnya yang diatur dalam ketentuan
 peraturan perundang-undangan.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 38 ayat (1), ayat (2), dan/atau
 ayat (4) dikenakan sanksi administratif berupa:
@@ -1069,7 +1057,7 @@ dimaksud pada ayat (1) huruf a.
 BAB XIII
 ASPEK KELEMBAGAAN
 
-Pasal 40
+### Pasal 40 ^pasal-40
 (1) Untuk pengembangan dan penguatan penyelenggaraan
 ITSK, Otoritas Jasa Keuangan melakukan penataan
 kelembagaan penyelenggaraan ITSK.
@@ -1089,7 +1077,6 @@ a. dukungan organisasi;
 b. sumber daya;
 c. tata kelola; dan
 
-
 -----
 
 d. pelaksanaan anggaran operasional,
@@ -1105,7 +1092,7 @@ sebagaimana dimaksud pada ayat (3) mengikuti
 Peraturan Otoritas Jasa Keuangan mengenai perizinan
 dan pengawasan masing-masing jenis ITSK.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 40 ayat (4) dikenakan sanksi
 administratif berupa:
@@ -1124,7 +1111,7 @@ dimaksud pada ayat (1) huruf a.
 BAB XIV
 KERJA SAMA DALAM PENYELENGGARAAN ITSK
 
-Pasal 42
+### Pasal 42 ^pasal-42
 (1) Dalam menyelenggarakan aktivitas ITSK,
 Penyelenggara ITSK yang telah terdaftar dan/atau
 memperoleh izin usaha dapat melakukan kerja sama
@@ -1145,10 +1132,9 @@ dimaksud pada ayat (1), Penyelenggara ITSK yang telah
 terdaftar dan/atau memperoleh izin usaha wajib
 memenuhi ketentuan peraturan perundang-undangan.
 
-
 -----
 
-Pasal 43
+### Pasal 43 ^pasal-43
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 42 ayat (2), ayat (3), dan/atau
 ayat (4) dikenakan sanksi administratif berupa:
@@ -1167,7 +1153,7 @@ dimaksud pada ayat (1) huruf a.
 BAB XV
 ASPEK KEPATUHAN LAINNYA
 
-Pasal 44
+### Pasal 44 ^pasal-44
 Penyelenggara ITSK yang menjadi Peserta maupun yang
 telah terdaftar dan/atau memperoleh izin usaha dari
 Otoritas Jasa Keuangan wajib menerapkan program anti
@@ -1176,7 +1162,7 @@ pencegahan pendanaan proliferasi senjata pemusnah
 massal di sektor jasa keuangan sesuai dengan ketentuan
 peraturan perundang-undangan.
 
-Pasal 45
+### Pasal 45 ^pasal-45
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 44 dikenakan sanksi
 administratif berupa:
@@ -1195,12 +1181,11 @@ dimaksud pada ayat (1) huruf a.
 BAB XVI
 PUSAT INOVASI
 
-Pasal 46
+### Pasal 46 ^pasal-46
 (1) Otoritas Jasa Keuangan menyelenggarakan Pusat
 Inovasi sebagai wadah pengembangan inovasi dan
 pembinaan kepada seluruh pemangku kepentingan di
 ekosistem keuangan digital.
-
 
 -----
 
@@ -1223,7 +1208,7 @@ ekosistem keuangan digital.
 BAB XVII
 KOORDINASI
 
-Pasal 47
+### Pasal 47 ^pasal-47
 (1) Dalam rangka pengaturan, pengawasan, dan
 pengembangan ITSK, Otoritas Jasa Keuangan dapat
 berkoordinasi dengan kementerian, lembaga, dan pihak
@@ -1251,12 +1236,11 @@ f. aspek lain yang dipandang perlu.
 BAB XVIII
 LARANGAN
 
-Pasal 48
+### Pasal 48 ^pasal-48
 (1) Peserta dan Penyelenggara ITSK yang telah terdaftar
 dan/atau memperoleh izin usaha dari Otoritas Jasa
 Keuangan dilarang memberikan data dan/atau
 informasi mengenai Konsumen kepada pihak ketiga.
-
 
 -----
 
@@ -1275,7 +1259,7 @@ oleh Konsumen dalam bentuk dokumen elektronik atau
 bentuk dokumen lain yang diakui oleh Penyelenggara
 ITSK.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 48 ayat (1) dikenakan sanksi
 administratif berupa:
@@ -1294,7 +1278,7 @@ dimaksud pada ayat (1) huruf a.
 BAB XIX
 KETENTUAN PERALIHAN
 
-Pasal 50
+### Pasal 50 ^pasal-50
 (1) Penyelenggara inovasi keuangan digital yang sedang
 dalam proses permohonan pencatatan dan peserta
 _regulatory sandbox yang masih dalam pelaksanaan_
@@ -1311,7 +1295,6 @@ Keuangan; atau
 c. tidak direkomendasikan,
 paling lambat 6 (enam) bulan sejak berlakunya
 Peraturan Otoritas Jasa Keuangan ini.
-
 
 -----
 
@@ -1351,7 +1334,7 @@ dinyatakan tetap berlaku.
 BAB XX
 KETENTUAN PENUTUP
 
-Pasal 51
+### Pasal 51 ^pasal-51
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, Peraturan Otoritas Jasa Keuangan Nomor
 13/POJK.02/2018 tentang Inovasi Keuangan Digital
@@ -1361,10 +1344,9 @@ Lembaran Negara Republik Indonesia Nomor 6238) dan
 ketentuan pelaksanaannya, dicabut dan dinyatakan tidak
 berlaku.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal diundangkan.
-
 
 -----
 
@@ -1396,7 +1378,6 @@ YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 5/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Hukum 1
 Departemen Hukum
@@ -1405,10 +1386,11 @@ ttd
 
 Mufli Asmawidjaja
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -1418,8 +1400,6 @@ NOMOR 3 TAHUN 2024
 
 TENTANG
 PENYELENGGARAAN INOVASI TEKNOLOGI SEKTOR KEUANGAN
-
-I. UMUM
 
 Melalui pengesahan Undang-Undang Nomor 4 Tahun 2023 tentang
 Pengembangan dan Penguatan Sektor Keuangan (UU P2SK), peran
@@ -1471,7 +1451,6 @@ bertanggung jawab dengan pengelolaan risiko yang baik. Perkembangan
 inovasi tersebut juga harus diimbangi dengan aspek Pelindungan
 Konsumen. Untuk mengakomodir hal tersebut, Otoritas Jasa Keuangan
 
-
 -----
 
 menyediakan ruang _Sandbox untuk memfasilitasi uji coba dan_
@@ -1480,18 +1459,13 @@ memperoleh status izin bagi penyelenggara, koordinasi dan/atau kerja
 sama antar pengawas dalam pengaturan dan pengawasan, serta literasi
 keuangan dan Pelindungan Konsumen.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Cukup jelas.
@@ -1533,24 +1507,16 @@ dan literasi keuangan, serta pengawasan perilaku pasar
 Huruf e
 
 Cukup jelas.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Cukup jelas
 
 
 -----
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Huruf a
 
 Lingkungan terbatas antara lain jumlah Konsumen, jumlah
@@ -1564,9 +1530,7 @@ Cukup jelas.
 Huruf d
 
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Cukup jelas.
@@ -1576,9 +1540,7 @@ Cukup jelas.
 Ayat (3)
 
 Lihat penjelasan Pasal 3 ayat (3).
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Ayat (1)
 
 Cukup jelas.
@@ -1643,9 +1605,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Huruf a
@@ -1693,9 +1653,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Cukup jelas.
@@ -1745,9 +1703,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Yang dimaksud dengan “peraturan dan ketentuan Otoritas
@@ -1757,9 +1713,7 @@ dilakukan Peserta.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Cukup jelas.
@@ -1790,13 +1744,9 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Ayat (1)
 
 Cukup jelas.
@@ -1823,9 +1773,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 
 Lihat penjelasan Pasal 15 ayat (3).
@@ -1844,32 +1792,20 @@ dengan nama alternative/innovative credit scoring.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
 
 
 -----
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1)
 
 Huruf a
@@ -1891,9 +1827,7 @@ pencabutan izin terkait dengan aktivitas ITSK.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 
 Cukup jelas.
@@ -1912,13 +1846,9 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 
 Huruf a
@@ -1939,9 +1869,7 @@ Lihat penjelasan Pasal 22 ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Evaluasi secara mandiri dimaksudkan untuk melengkapi
@@ -1965,9 +1893,7 @@ Lihat penjelasan Pasal 16 ayat (3).
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Huruf a
@@ -1988,13 +1914,9 @@ Lihat penjelasan Pasal 22 ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Ayat (1)
 
 Cukup jelas.
@@ -2018,9 +1940,7 @@ Lihat penjelasan Pasal 16 ayat (3).
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Huruf a
@@ -2045,17 +1965,11 @@ Lihat penjelasan Pasal 22 ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Ayat (1)
 
 Huruf a
@@ -2076,9 +1990,7 @@ Lihat penjelasan Pasal 22 ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Ayat (1)
 
 Yang dimaksud dengan “memiliki pusat data dan pusat
@@ -2087,9 +1999,7 @@ dan pusat pemulihan bencana milik pihak ketiga.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Ayat (1)
 
 Huruf a
@@ -2110,23 +2020,16 @@ Lihat penjelasan Pasal 22 ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Cukup jelas.
 
 
 -----
-
-Pasal 38
+#### Pasal 38 ^penjelasan-pasal-38
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Ayat (1)
 
 Huruf a
@@ -2147,13 +2050,9 @@ Lihat penjelasan Pasal 22 ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Cukup jelas.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Ayat (1)
 
 Huruf a
@@ -2174,9 +2073,7 @@ Lihat penjelasan Pasal 22 ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Ayat (1)
 
 Cukup jelas.
@@ -2196,9 +2093,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Ayat (1)
 
 Huruf a
@@ -2223,13 +2118,9 @@ Lihat penjelasan Pasal 22 ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Cukup jelas.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Ayat (1)
 
 Huruf a
@@ -2250,21 +2141,13 @@ Lihat penjelasan Pasal 22 ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Cukup jelas.
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Ayat (1)
 
 Huruf a
@@ -2285,20 +2168,14 @@ Lihat penjelasan Pasal 22 ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Cukup jelas.
 
 
 -----
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Cukup jelas.
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 73/OJK
@@ -2306,3 +2183,59 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 73/OJK
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |

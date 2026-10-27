@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Jaminan Fidusia
+**Jaminan Fidusia**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -34,13 +40,12 @@ last_updated: 2026-10-28
 
 > Sumber: [JDIH BPK](https://peraturan.bpk.go.id/Details/45374/uu-no-42-tahun-1999)
 
-
 PRESIDEN
 REPUBLIK INDONESIA
 
-# UNDANG-UNDANG REPUBLIK INDONESIA 
+**UNDANG-UNDANG REPUBLIK INDONESIA**
 
- NOMOR 42 TAHUN 1999 
+ NOMOR 42 TAHUN 1999
 
  TENTANG
 
@@ -76,16 +81,15 @@ REPUBLIK INDONESIA
 
  BAB I
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 2 
-# KETENTUAN UMUM
+                  - 2
+**KETENTUAN UMUM**
 
- Pasal 1
+### Pasal 1 ^pasal-1
 
  Dalam Undang-undang ini yang dimaksud dengan:
 
@@ -109,22 +113,21 @@ REPUBLIK INDONESIA
 
  10. Setiap Orang adalah orang perseorangan atau korporasi.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                    - 3 
-# BAB II
+                    - 3
+**BAB II**
 
  RUANG LINGKUP
 
- Pasal 2
+### Pasal 2 ^pasal-2
 
  Undang-undang ini berlaku terhadap setiap perjanjian yang bertujuan untuk membebani Benda Jaminan Fidusia.
 
- Pasal 3
+### Pasal 3 ^pasal-3
 
  Undang-undang ini tidak berlaku terhadap:
 
@@ -148,11 +151,11 @@ REPUBLIK INDONESIA
 
  Pembebanan Jaminan Fidusia
 
- Pasal 4
+### Pasal 4 ^pasal-4
 
  Jaminan Fidusia merupakan perjanjian ikutan dari suatu perjanian pokok yang menimbulkan kewajiban bagi para pihak untuk memenuhi suatu prestasi.
 
- Pasal 5
+### Pasal 5 ^pasal-5
 
  (1) Pembebanan Benda dengan Jaminan Fidusia dibuat dengan akta
  notaris dalam bahasa Indonesia dan merupakan akta Jaminan Fidusia.
@@ -160,16 +163,15 @@ REPUBLIK INDONESIA
  (2) Terhadap pembuatan akta Jaminan Fidusia sebagaimana dimaksud
  dalam ayat (1), dikenakan biaya yang besarnya diatur lebih lanjut dengan Peraturan Pemerintah.
 
- Pasal 6
-
+### Pasal 6 ^pasal-6
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 4 
-# Akta Jaminan Fidusia sebagaimana dimaksud dalam Pasal 5 sekurang-kurangnya memuat:
+                  - 4
+**Akta Jaminan Fidusia sebagaimana dimaksud dalam Pasal 5 sekurang-kurangnya memuat:**
 
  a. identitas pihak Pemberi dan Penerima Fidusia;
 
@@ -181,7 +183,7 @@ REPUBLIK INDONESIA
 
  e nilai Benda yang menjadi objek Jaminan Fidusia.
 
- Pasal 7
+### Pasal 7 ^pasal-7
 
  Utang yang pelunasannya dajamin dengan fidusia dapat berupa:
 
@@ -193,11 +195,11 @@ REPUBLIK INDONESIA
  c. utang yang pada saat eksekusi dapat ditentukan jumlahnya
  berdasarkan perjanjian pokok yang menimbulkan kewajiban memenuhi suatu prestasi.
 
- Pasal 8
+### Pasal 8 ^pasal-8
 
  Jaminan Fidusia dapat diberikan kepada lebih dari satu Penerima Fidusia atau kepada kuasa atau wakil dari Penerima Fidusia tersebut.
 
- Pasal 9
+### Pasal 9 ^pasal-9
 
  (1) Jaminan Fidusia dapat diberikan terhadap satu atau lebih satuan atau
  jenis Benda, termasuk piutang, baik yang telah ada pada saat jaminan diberikan maupun yang diperoleh kemudian.
@@ -205,7 +207,7 @@ REPUBLIK INDONESIA
  (2) Pembebanan jaminan atas Benda atau piutang yang diperoleh
  kemudian sebagaimana dimaksud dalam ayat (1) tidak perlu dilakukan dengan perjanjian jaminan tersendiri.
 
- Pasal 10
+### Pasal 10 ^pasal-10
 
  Kecuali diperjanjikan lain:
 
@@ -215,23 +217,22 @@ REPUBLIK INDONESIA
  b. Jaminan Fidusia meliputi klaim asuransi, dalam hal Benda yang
  menjadi objek Jaminan Fidusia diasuransikan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 5 
-# Bagian Kedua Pendaftaran Jaminan Fidusia
+                  - 5
+**Bagian Kedua Pendaftaran Jaminan Fidusia**
 
- Pasal 11
+### Pasal 11 ^pasal-11
 
  (1) Benda yang dibebani dengan Jaminan Fidusia wajib didaftarkan.
 
  (2) Dalam hal Benda yang dibebani dengan Jaminan Fidusia berada di
  luar wilayah negara Republik Indonesia, kewajiban sebagaimana dimaksud dalam ayat (1) tetap berlaku.
 
- Pasal 12
+### Pasal 12 ^pasal-12
 
  (1) Pendaftaran Jaminan Fidusia sebagaimana dimaksud dalam Pasal 11
  ayat (1) dilakukan pada Kantor Pendaftaran Fidusia.
@@ -245,7 +246,7 @@ REPUBLIK INDONESIA
  (4) Ketentuan mengenai pembentukan Kantor Pendaftaran Fidusia
  untuk daerah lain dan penetapan wilayah kerjanya diatur dengan Keputusan Presiden.
 
- Pasal 13
+### Pasal 13 ^pasal-13
 
  (1) Permohonan pendaftaran Jaminan Fidusia dilakukan oleh Penerima
  Jaminan Fidusia dilakukan oleh Penerimaan Fidusia, kuasa atau wakilnya dengan melampirkan pernyataan pendaftaran Jaminan Fidusia.
@@ -269,19 +270,18 @@ REPUBLIK INDONESIA
  (3) Kantor Pendaftaran Fidusia memuat Jaminan Fidusia dalam Buku
  Daftar Fidusia pada tanggal yang sama dengan tanggal penerimaan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 6 
-# permohonan pendaftaran.
+                  - 6
+**permohonan pendaftaran.**
 
  (4) Ketentuan lebih lanjut mengenai tata cara pendaftaran Jaminan
  Fidusia dan biaya pendaftaran diatur dengan Peraturan Pemerintah.
 
- Pasal 14
+### Pasal 14 ^pasal-14
 
  (1) Kantor Pendaftaran Fidusia menerbitkan dan menyerahkan kepada
  Penerima Fidusia Sertifikat Jaminana Fidusia pada tanggal yang sama dengan tanggal penerimaan permohonan pendaftaran.
@@ -292,7 +292,7 @@ REPUBLIK INDONESIA
  (3) Jaminan Fidusia lahir pada tanggal yang sama dengan tanggal
  dicatatnya Jaminana Fidusia dalam Buku Daftar Fidusia.
 
- Pasal 15
+### Pasal 15 ^pasal-15
 
  (1) Dalam Sertifikat Jaminana Fidusia sebagaimana dimaksud dalam
  Pasal 14 ayat (1) dicantumkan kata-kata "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA".
@@ -303,7 +303,7 @@ REPUBLIK INDONESIA
  (3) Apabila debitor cidera janji, Penerima Fidusia mempunyai hak untuk
  menjual Benda yang menjadi objek Jaminan Fidusia atas kekuasaannya sendiri.
 
- Pasal 16
+### Pasal 16 ^pasal-16
 
  (1) Apabila terjadi perubahan mengenai hal-hal yang tercantum dalam
  Sertifikat Jaminan Fidusia sebagaimana dimaksud dalam Pasal 14 ayat (2), Penerima Fidusia wajib mengajukan permohonan pendaftaran atas perubahan tersebut kepada Kantor Pendaftaran Fidusia.
@@ -311,23 +311,22 @@ REPUBLIK INDONESIA
  (2) Kantor Pendaftaran Fidusia pada tanggal yang sama dengan tanggal
  penerimaan permohonan perubahan, melakukan pencatatan perubahan tersebut dalam Buku Daftar Fidusia dan menerbitkan Pernyataan Perubahan yang merupakan bagian tak terpisahkan dari Sertifikat Jaminan Fidusia.
 
- Pasal 17
-
+### Pasal 17 ^pasal-17
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 7 
-# Pemberi Fidusia dilarang melakukan fidusia ulang terhadap Benda yang menjadi objek Jaminan Fidusia yang sudah terdaftar.
+                  - 7
+**Pemberi Fidusia dilarang melakukan fidusia ulang terhadap Benda yang menjadi objek Jaminan Fidusia yang sudah terdaftar.**
 
- Pasal 18
+### Pasal 18 ^pasal-18
 
  Segala keterangan mengenai Benda yang menjadi objek Jaminan Fidusia yang ada pada Kantor Pendaftaran Fidusia terbuka untuk umum.
 
  Bagian Ketiga Pengalihan Jaminan Fidusia
- Pasal 19
+### Pasal 19 ^pasal-19
 
  (1) Pengalihan hak atas piutang yang dijaminan dengan fidusia
  mengakibatkan beralihnya demi hukum segala hak dan kewajiban Penerima Fidusia kepada kreditor baru.
@@ -335,11 +334,11 @@ REPUBLIK INDONESIA
  (2) Beralihnya Jaminan Fidusia sebagaimana dimaksud dalam ayat (1)
  didaftarkan oleh kreditor baru kepada Kantor Pendaftaran Fidusia.
 
- Pasal 20
+### Pasal 20 ^pasal-20
 
  Jaminan Fidusia tetap mengikuti Benda yang menjadi objek Jaminan Fidusia dalam tangan siapapun Benda tersebut berada, kecuali pengalihan atas benda persediaan yang menjadi objek Jaminan Fidusia.
 
- Pasal 21
+### Pasal 21 ^pasal-21
 
  (1) Pemberi Fidusia dapat mengalihkan benda persediaan yang menjadi
  objek Jaminan Fidusia dengan cara dan prosedur yang lazim dilakukan dalam usaha perdagangan.
@@ -353,20 +352,19 @@ REPUBLIK INDONESIA
  (4) Dalam hal Pemberi Fidusia cidera janji, maka hasil pengalihan dan
  atau tagihan yang timbul karena pengalihan sebagaimana dimaksud dalam ayat (1), demi hukum menjadi objek Jaminan Fidusia pengganti dari objek Jaminan Fidusia yang dialihkan.
 
- Pasal 22
+### Pasal 22 ^pasal-22
 
  Pembeli benda yang menjadi objek Jaminan Fidusia yang merupakan
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 8 
-# benda persediaan bebas dari tuntutan meskipun pembeli tersebut mengetahui adanya Jaminan Fidusia itu, dengan ketentuan bahwa pembeli telah membayar lunas harga penjualan Benda tersebut sesuai dengan harga pasar.
+                  - 8
+**benda persediaan bebas dari tuntutan meskipun pembeli tersebut mengetahui adanya Jaminan Fidusia itu, dengan ketentuan bahwa pembeli telah membayar lunas harga penjualan Benda tersebut sesuai dengan harga pasar.**
 
- Pasal 23
+### Pasal 23 ^pasal-23
 
  (1) Dengan tidak mengurangi ketentuan sebagaimana dimaksud dalam
  Pasal 21, apabila Penerima Fidusia setuju bahwa Pemberi Fidusia dapat menggunakan, menggabungkan, mencampur, atau mengalihkan Benda atau hasil dari Benda yang menjadi objek Jaminan Fidusia, atau menyetujui melakukan penagihan atau melakukan kompromi atas piutang, maka persetujuan tersebut tidak berarti bahwa Penerima Fidusia melepaskan Jaminan Fidusia.
@@ -374,13 +372,13 @@ REPUBLIK INDONESIA
  (2) Pemberi Fidusia dilarang mengalihkan, menggadaikan, atau
  menyewakan kepada pihak lain Benda yang menjadi objek Jaminan Fidusia yang tidak merupakan benda persediaan, kecuali dengan persetujuan tertulis terlebih dahulu dari Penerima Fidusia.
 
- Pasal 24
+### Pasal 24 ^pasal-24
 
  Penerima Fidusia tidak menanggung kewajiban atas akibat tindakan atau kelalaian Pemberi Fidusia baik yang timbul dari hubungan kontraktual atau yang timbul dari perbuatan melanggar hukum sehubungan dengan penggunaan dan pengalihan Benda yang menjadi objek Jaminan Fidusia.
 
  Bagian Keempat Hapusnya Jaminan Fidusia
 
- Pasal 25
+### Pasal 25 ^pasal-25
 
  (1) Jaminan Fidusia hapus karena hal-hal sebagai berikut:
 
@@ -396,16 +394,15 @@ REPUBLIK INDONESIA
  (3) Penerima Fidusia memberitahukan kepada Kantor Pendaftaran
  Fidusia mengenai hapusnya Jaminan Fidusia sebagaimana dimaksud dalam ayat (1) dengan melampirkan pernyataan mengenai hapusnya
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 9 
-# utang, pelepasan hak, atau musnahnya Benda yang menjadi objek Jaminan Fidusia tersebut.
+                  - 9
+**utang, pelepasan hak, atau musnahnya Benda yang menjadi objek Jaminan Fidusia tersebut.**
 
- Pasal 26
+### Pasal 26 ^pasal-26
 
  (1) Dengan hapusnya Jaminan Fidusia sebagaimana dimaksud dalam
  pasal 25, Kantor Pendaftaran Fidusia mencoret pencatatan Jaminan Fidusia dari Buku Daftar Fidusia.
@@ -415,7 +412,7 @@ REPUBLIK INDONESIA
 
  BAB IV HAK MENDAHULU
 
- Pasal 27
+### Pasal 27 ^pasal-27
 
  (1) Penerima Fidusia memiliki hak yang didahulukan terhadap kreditor
  lainnya.
@@ -426,13 +423,13 @@ REPUBLIK INDONESIA
  (3) Hak yang didahulukan dari Penerima Fidusia tidak hapus karena
  adanya kepailitan dan atau likuidasi Pemberi Fidusia.
 
- Pasal 28
+### Pasal 28 ^pasal-28
 
  Apabila atas Benda yang sama menjadi objek Jaminan Fidusia lebih dari 1 (satu) perjanjian Jaminan Fidusia, maka hak yang didahulukan sebagaimana dimaksud dalam Pasal 27, diberikan kepada pihak yang lebih dahulu mendaftarkannya pada Kantor Pendaftaran Fidusia.
 
  BAB V EKSEKUSI JAMINAN FIDUSIA
 
- Pasal 29
+### Pasal 29 ^pasal-29
 
  (1) Apabila debitor atau Pemberi Fidusia cidera janji, eksekusi terhadap
  Benda yang menjadi objek Jaminan Fidusia dapat dilakukan dengan cara:
@@ -440,16 +437,15 @@ REPUBLIK INDONESIA
  a. pelaksanaan titel eksekutorial sebagaimana dimaksud dalam
  Pasal 15 ayat (2) oleh Penerima Fidusia.
 
- b. penjualan Benda yang menjadi objek Jaminan Fidusia atas 
-
+ b. penjualan Benda yang menjadi objek Jaminan Fidusia atas
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 10 
-# kekuasaan Penerima Fidusia sendiri melalui pelelangan umum serta mengambil pelunasan piutangnya dari hasil penjualan;
+                - 10
+**kekuasaan Penerima Fidusia sendiri melalui pelelangan umum serta mengambil pelunasan piutangnya dari hasil penjualan;**
 
  c. penjualan di bawah tangan yang dilakukan berdasarkan
  kesepakatan Pemberi dan Penerima Fidusia jika dengan cara demikian dapat diperoleh harga tertinggi yang menguntungkan para pihak.
@@ -457,23 +453,23 @@ REPUBLIK INDONESIA
  (2) Pelaksanaan penjualan sebagaimana dimaksud dalama ayat (1) huruf
  c dilakukan setelah lewat waktu 1 (satu) bulan sejak diberitahukan secara tertulis oleh Pemberi dan atau Penerima Fidusia kepada pihak-pihak yang berkepentingan dan diumumkan sedikitnya dalam 2 (dua) surat kabar yang tersebar di daerah yang bersangkutan.
 
- Pasal 30
+### Pasal 30 ^pasal-30
 
  Pemberi Fidusia wajib menyerahkan Benda yang menjadi objek Jaminan Fidusia dalam rangka pelaksanaan eksekusi Jaminan Fidusia.
 
- Pasal 31
+### Pasal 31 ^pasal-31
 
  Dalam hal Benda yang menjadi objek Jaminan Fidusia terdiri atas benda perdagangan atau efek yang dapat dijual di pasar atau di bursa, penjualannya dapat dilakukan di tempat-tempat tersebut sesuai dengan peraturan perundang-undangan yang berlaku.
 
- Pasal 32
+### Pasal 32 ^pasal-32
 
  Setiap janji untuk melaksanakan eksekusi terhadap Benda yang menjadi objek Jaminan Fidusia dengan cara yang bertentangan dengan ketentuan sebagaimana dimaksud dalam pasal 29 dan Pasal 31, batal demi hukum.
 
- Pasal 33
+### Pasal 33 ^pasal-33
 
  Setiap janji yang memberi kewenangan kepada Pemberi Fidusia untuk memiliki Benda yang menjadi objek Jaminan Fidusia apabila debitor cidera janji, batal demi hukum.
 
- Pasal 34
+### Pasal 34 ^pasal-34
 
  (1) Dalam hal hasil eksekusi melebihi nilai penjaminan, Penerima
  Fidusia wajib mengembalikan kelebihan tersebut kepada Pemberi Fidusia.
@@ -481,26 +477,25 @@ REPUBLIK INDONESIA
  (2) Apabila hasil eksekusi tidak mencukupi untuk pelunasan utang,
  debitor tetap bertanggung jawab atas utang yang belum terbayar.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 11 
-# BAB VI KETENTUAN PIDANA
+                - 11
+**BAB VI KETENTUAN PIDANA**
 
- Pasal 35
+### Pasal 35 ^pasal-35
 
  Setiap orang yang dengan sengaja memalsukan, mengubah, menghilangkan atau dengan cara apapun memberikan keterangan secara menyesatkan, yang jika hal tersebut diketahui oleh salah satu pihak tidak melahirkan perjanjian Jaminan Fidusia, dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun dan denda paling sedikit Rp.10.000.000,-(sepuluh juta rupiah) dan paling banyak Rp.100.000.000,- (seratus juta rupiah).
 
- Pasal 36
+### Pasal 36 ^pasal-36
 
  Pemberi Fidusia yang mengalihkan, menggadaikan, atau menyewakan Benda yang menjadi objek Jaminan Fidusia sebagaimana dimaksud dalam Pasal 23 ayat (2) yang dilakukan tanpa persetujuan tertulis terlebih dahulu dari Penerima Fidusia, dipidana dengan pidana penjara paling lama 2 (dua) tahun dan denda paling banyak Rp.50.000.000,- (lima puluh juta rupiah).
 
  BAB VII KETENTUAN PERALIHAN
 
- Pasal 37
+### Pasal 37 ^pasal-37
 
  (1) Pembebanan Benda yang menjadi objek Jaminan Fidusia yang telah
  ada sebelum berlakunya Undang-undang ini, tetap berlaku sepanjang tidak bertentangan dengan Undang-undang ini.
@@ -511,39 +506,37 @@ REPUBLIK INDONESIA
  (3) Jika dalam jangka waktu sebagaimana dimaksud dalam ayat (2)
  tidak dilakukan penyesuaian, maka perjanjian Jaminan Fidusia tersebut bukan merupakan hak agunan atas kebendaan sebagaimana dimaksud dalam Undang-undang ini.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 12 
-# Pasal 38
+                - 12
+### Pasal 38 ^pasal-38
 
  Sepanjang tidak bertentangan dengan ketentuan dalam Undang-undang ini, semua peraturan perundang-undangan mengenai fidusia tetap berlaku sampai dengan dicabut, diganti, atau diperbaharui.
 
  BAB VIII KETENTUAN PENUTUP
 
- Pasal 39
+### Pasal 39 ^pasal-39
 
  Kantor Pendaftaran Fidusia sebagaimana dimaksud dalam Pasal 12 ayat (2) dibentuk dalam jangka waktu paling lambat 1 (satu) tahun setelah Undang-undang ini diundangkan.
 
- Pasal 40
+### Pasal 40 ^pasal-40
 
  Undang-undang ini disebut Undang-undang Fidusia.
 
- Pasal 41
+### Pasal 41 ^pasal-41
 
  Undang-undang ini mulai berlaku pada tanggal diundangkan.
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 13 
-# Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+                           - 13
+**Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.**
 
  Disahkan di Jakarta pada tanggal 30 September 1999
 
@@ -556,69 +549,74 @@ REPUBLIK INDONESIA
    MULADI
  LEMBARAN NEGARA REPUBLIK INDOENSIA TAHUN 1999 NOMOR 168.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# PENJELASAN
+## Penjelasan
+
+### I. Umum
+
  ATAS UNDANG-UNDANG REPUBLIK INDONESIA
  NOMOR 42 TAHUN 1999
  TENTANG JAMINAN FIDUSIA
- I. UMUM 1. Pembangunan ekonomi, sebagai bagian dari pembangunan nasional, merupakan salah satu upaya untuk mencapai masyarakat yang adil dan makmur berdasarkan Pancasila dan Undang-Undang Dasar 1945. Dalam rangka memelihara dan meneruskan pembangunan yang berkesinambungan, para pelaku pembangunan baik pemerintah maupun masyarakat, baik perseorangan maupun badan hukum, memerlukan dana yang besar. Seiring dengan meningkatnya kegiatan pembangunan, meningkat pula kebutuhan terhadap pendanaan, yang sebagian besar dana yang diperlukan untuk memenuhi kebutuhan tersebut diperoleh melalui kegiatan pinjam meminjam.
  2. Selama ini, kegiatan pijam-meminjam dengan menggunakan hak tanggungan atau hak jaminan telah diatur dalam Undang-undang Nomor 4 Tahun 1996 tentang Hak Tanggungan yang merupakan pelaksanaan dari Pasal 51 Undang-undang Nomor 5 Tahun 1960 tentang Undang-undang Pokok Agraria, dan sekaligus sebagai pengganti dari lembaga Hipotek atas tanah dan credietverband. Di samping itu, hak jaminan lainnya yang banyak digunakan pada dewasa ini adalah Gadai, Hipotek selain tanah, dan Jaminan Fidusia. Undang-undang yang berkaitan dengan Jaminan Fidusia adalah Pasal 15 Undang-undang Nomor 4 Tahun 1992 tentang Perumahan dan Permukiman, yang menentukan bahwa rumah-rumah yang dibangun di atas tanah yang dimiliki oleh pihak lain dapat dibebani dengan Jaminan Fidusia. Selain itu, Undang-undang Nomor 16 Tahun 1985 tentang Rumah Susun mengatur mengenai hak milik atas satuan rumah susun yang dapat dijadikan jaminan utang dengan dibebani fidusia, jika tanahnya tanah hak pakai atas tanah negara.
  Jaminan Fidusia telah digunakan di Indonesia sejak zaman penjajahan Belanda sebagai suatu bentuk jaminan yang lahir dari yurisprudensi. bentuk jaminan ini digunakan secara luas dalam transaksi pinjam-meminjam karena proses pembebanannya dianggap sederhana, mudah, dan cepat, tetapi tidak menjamin adanya kepastian hukum.
  Lembaga Jaminan Fidusia memungkinkan kepada para Pemberi Fidusia untuk menguasai Benda yang dijaminkan, untuk melakukan kegiatan usaha yang dibiayai dari pinjaman dengan menggunakan Jaminan Fidusia. Pada awalnya, Benda yang menjadi objek fidusia terbatas pada kekayaan benda bergerak yang berwujud dalam bentuk peralatan. Akan tetapi dalam perkembangan selanjutnya, Benda yang menjadi objek fidusia termasuk juga kekayaan benda bergerak yang tak berwujud, maupun benda tak bergerak.
  3. Undang-undang ini, dimaksudkan untuk menampung kebutuhan masyarakat
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 2 
-# mengenai pengaturan Jaminan Fidusia sebagai salah satu sarana untuk membantu kegiatan usaha dan untuk memberikan kepastian hukum kepada para pihak yang berkepentingan.
+                              - 2
+**mengenai pengaturan Jaminan Fidusia sebagai salah satu sarana untuk membantu kegiatan usaha dan untuk memberikan kepastian hukum kepada para pihak yang berkepentingan.**
  Seperti telah dijelaskan bahwa Jaminan Fidusia memberikan kemudahan bagi para pihak yang menggunakannya, khususnya bagi Pemberi Fidusia. Namun sebaliknya karena Jaminan Fidusia tidak didaftarkan, kurang menjamin kepentingan pihak yang menerima fidusia. Pemberi Fidusia mungkin saja menjaminkan benda yang telah dibebani dengan fidusia kepada pihak lain tanpa sepengetahuan Penerima Fidusia.
  Sebelum Undang-undang ini dibentuk, pada umumnya Benda yang menjadi objek Jaminan Fidusia adalah benda bergerak yang terdiri dari benda dalam persediaan (inventory), benda dagangan, piutang, peralatan mesin, dan kendaraan bermotor. Oleh karena itu, guna memenuhi kebutuhan masyarakat yang terus berkembang, maka menurut Undang-undang ini objek Jaminan Fidusia diberikan pengertian yang luas yaitu benda bergerak yang berwujud maupun tak berwujud, dan benda tak bergerak yang tidak dapat dibebani dengan hak tanggungan sebagaimana dimaksud ditentukan dalam Undang-undang Nomor 4 Tahun 1996 tentang Hak Tanggungan.
  Dalam Undang-undang ini, diatur tentang pendaftaran Jaminan Fidusia guna memberikan kepastian hukum kepada para pihak yang berkepentingan dan pendaftaran Jaminan Fidusia memberikan hak yang didahulukan (preferen) kepada Penerima Fidusia terhadap kreditor lain. Karena Jaminan Fidusia memberikan hak kepada pihak Pemberi Fidusia untuk menguasai Benda yang menjadi objek Jaminan Fidusia berdasarkan kepercayaan, maka diharapkan sistem pendaftaran yang diatur dalam Undang-undang ini dapat memberikan jaminan kepada pihak Penerima Fidusia dan pihak yang mempunyai kepentingan terhadap Benda tersebut.
- II. PASAL DEMI PASAL
- Pasal 1 Cukup jelas
- Pasal 2 Cukup jelas
- Pasal 3 Huruf a Berdasarkan ketentuan ini, maka bangunan di atas tanah milik orang lain yang tidak dapat dibebani dengan hak tanggungan berdasarkan Undang-undang Nomor 4 Tahun 1996 tentang Hak Tanggungan, dapat dijadikan objek Jaminaan Fidusia. Huruf b Cukup jelas Huruf c
 
+### II. Pasal demi Pasal
 
+#### Pasal 1 ^penjelasan-pasal-1
+Cukup jelas
+#### Pasal 2 ^penjelasan-pasal-2
+Cukup jelas
+#### Pasal 3 ^penjelasan-pasal-3
+Huruf a Berdasarkan ketentuan ini, maka bangunan di atas tanah milik orang lain yang tidak dapat dibebani dengan hak tanggungan berdasarkan Undang-undang Nomor 4 Tahun 1996 tentang Hak Tanggungan, dapat dijadikan objek Jaminaan Fidusia. Huruf b Cukup jelas Huruf c
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
                               - 3 
-# Cukup jelas Huruf d Cukup jelas
- Pasal 4
- Yang dimaksud dengan "prestasi" dalam ketentuan ini adalah memberikan sesuatu, berbuat sesuatu, atau tidak berbuat sesuatu, yang dapat dinilai dengan uang.
- Pasal 5 Ayat (1) Dalam akta Jaminan Fidusia selain dicantumkan hari dan tanggal, juga dicantumkan mengenai waktu (jam) pembuatan akta tersebut. Ayat (2) Cukup jelas
- Pasal 6 Huruf a Yang dimaksud dengan "identitas" dalam pasal ini adalah meliputi nama lengkap, agama, tempat tinggal, atau tempat kedudukan, tempat dan tanggal lahir, jenis kelamin, status perkawinan, dan pekerjaan. Huruf b Yang dimaksud dengan "data perjanjian pokok" adalah mengenai macam perjanjian dan utang yang dijamin dengan fidusia. Huruf c. Uraian mengenai Benda yang menjadi objek Jaminan Fidusia cukup dilakukan dengan mengidentifikasikan Benda tersebut, dan dijelaskan mengenai surat bukti kepemilikannya. Dalam hal benda yang menjadi objek Jaminan Fidusia merupakan benda dalam persediaan (inventory) yang selalu berubah-ubah dan atau tidak tetap, seperti stok bahan baku, barang jadi, atau portofolio perusahaan efek, maka dalam akta Jaminan Fidusia dicantumkan uraian mengenai jenis, merek, kualitas dari Benda tersebut. Huruf d Cukup jelas Huruf c Cukup jelas
- Pasal 7 Huruf a Cukup jelas Huruf b Utang yang akan timbul di kemudian hari yang dikenal dengan istilah "kontinjen", misalnya utang yang timbul dari pembayaran yang dilakukan oleh kreditor untuk kepentingan debitor dalam rangka pelaksanaan garansi bank.
-
-
+**Cukup jelas Huruf d Cukup jelas**
+#### Pasal 4 ^penjelasan-pasal-4
+Yang dimaksud dengan "prestasi" dalam ketentuan ini adalah memberikan sesuatu, berbuat sesuatu, atau tidak berbuat sesuatu, yang dapat dinilai dengan uang.
+#### Pasal 5 ^penjelasan-pasal-5
+Ayat (1) Dalam akta Jaminan Fidusia selain dicantumkan hari dan tanggal, juga dicantumkan mengenai waktu (jam) pembuatan akta tersebut. Ayat (2) Cukup jelas
+#### Pasal 6 ^penjelasan-pasal-6
+Huruf a Yang dimaksud dengan "identitas" dalam pasal ini adalah meliputi nama lengkap, agama, tempat tinggal, atau tempat kedudukan, tempat dan tanggal lahir, jenis kelamin, status perkawinan, dan pekerjaan. Huruf b Yang dimaksud dengan "data perjanjian pokok" adalah mengenai macam perjanjian dan utang yang dijamin dengan fidusia. Huruf c. Uraian mengenai Benda yang menjadi objek Jaminan Fidusia cukup dilakukan dengan mengidentifikasikan Benda tersebut, dan dijelaskan mengenai surat bukti kepemilikannya. Dalam hal benda yang menjadi objek Jaminan Fidusia merupakan benda dalam persediaan (inventory) yang selalu berubah-ubah dan atau tidak tetap, seperti stok bahan baku, barang jadi, atau portofolio perusahaan efek, maka dalam akta Jaminan Fidusia dicantumkan uraian mengenai jenis, merek, kualitas dari Benda tersebut. Huruf d Cukup jelas Huruf c Cukup jelas
+#### Pasal 7 ^penjelasan-pasal-7
+Huruf a Cukup jelas Huruf b Utang yang akan timbul di kemudian hari yang dikenal dengan istilah "kontinjen", misalnya utang yang timbul dari pembayaran yang dilakukan oleh kreditor untuk kepentingan debitor dalam rangka pelaksanaan garansi bank.
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
                               - 4 
-# Huruf c Utang yang dimaksud dalam ketentuan ini adalah utang bunga atas pinjaman pokok dan biaya lainnya yang jumlahnya dapat ditentukan kemudian.
- Pasal 8
- Ketentuan ini dimaksudkan sebagai pemberian fidusia kepada lebih dari satu Penerima Fidusia dalam rangka pembiayaan kredit konsorsium. Yang dimaksud dengan "kuasa" adalah orang yang mendapat kuasa khusus dari Penerima Fidusia untuk mewakili kepentingannya dalam penerimaan Jaminan Fidusia dari Pemberi Fidusia. Yang dimaksud dengan "wakil" adalah orang yang secara hukum dianggap mewakili Penerima Fidusia dalam penerimaan Jaminan Fidusia, misalnya, Wali Amanat dalam mewakili kepentingan pemegang obligasi.
- Pasal 9
- Ketentuan dalam pasal ini penting dipandang dari segi komersial. Ketentuan ini secara tegas membolehkan Jaminan Fidusia mencakup Benda yang diperoleh di kemudian hari. Hal ini menunjukkan Undang-undang ini dijamin fleksibilitas yang berkenaan dengan ihwal Benda yang dapat dibebani Jaminan Fidusia bagi pelunasan utang.
- Pasal 10 Huruf a Yang dimaksud dengan "hasil dari Benda yang menjadi objek Jaminana Fidusia" adalah segala sesuatu yang diperoleh dari Benda yang dibebani Jaminan Fidusia. Huruf b Ketentuan dalam huruf b ini dimaksudkan untuk menegaskan apabila Benda itu diasuransikan, maka klaim asuransi tersebut merupakan hak Penerima Fidusia.
- Pasal 11
- Pendaftaran Benda yang dibebani dengan Jaminan Fidusia dilaksanakan ditempat kedudukan Pemberi Fidusia, dan pendaftarannya mencakup benda, baik yang berada di dalam maupun di luar wilayah negara Republik Indonesia untuk memenuhi asas publisitas, sekaligus merupakan jaminan kepastian terhadap kreditor lainnya mengenai Benda yang telah dibebani Jaminan Fidusia.
- Pasal 12
- Kantor Pendaftaran Fidusia merupakan bagian dalam lingkungan Departemen Kehakiman dan bukan instansi yang mandiri atau unit pelaksana teknis. Kantor Pendaftaran Fidusia didirikan untuk pertama kali di Jakarta dan secara bertahap, sesuai dengan keperluan, di ibukota propinsi di seluruh wilayah negara Republik Indoensia. Dalam hal Kantor Pendaftaran Fidusia belum didirikan di tiap Daerah Tingkat II maka wilayah kerja Kantor Pendaftaran Fidusia di ibukota propinsi meliputi seluruh daerah Tingkat II yang berada di lingkungan wilayahnya. Pendirian Kantor Pendaftaran Fidusia di daerah Tingkat II, dapat disesuaikan dengan Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah.
+**Huruf c Utang yang dimaksud dalam ketentuan ini adalah utang bunga atas pinjaman pokok dan biaya lainnya yang jumlahnya dapat ditentukan kemudian.**
+#### Pasal 8 ^penjelasan-pasal-8
+Ketentuan ini dimaksudkan sebagai pemberian fidusia kepada lebih dari satu Penerima Fidusia dalam rangka pembiayaan kredit konsorsium. Yang dimaksud dengan "kuasa" adalah orang yang mendapat kuasa khusus dari Penerima Fidusia untuk mewakili kepentingannya dalam penerimaan Jaminan Fidusia dari Pemberi Fidusia. Yang dimaksud dengan "wakil" adalah orang yang secara hukum dianggap mewakili Penerima Fidusia dalam penerimaan Jaminan Fidusia, misalnya, Wali Amanat dalam mewakili kepentingan pemegang obligasi.
+#### Pasal 9 ^penjelasan-pasal-9
+Ketentuan dalam pasal ini penting dipandang dari segi komersial. Ketentuan ini secara tegas membolehkan Jaminan Fidusia mencakup Benda yang diperoleh di kemudian hari. Hal ini menunjukkan Undang-undang ini dijamin fleksibilitas yang berkenaan dengan ihwal Benda yang dapat dibebani Jaminan Fidusia bagi pelunasan utang.
+#### Pasal 10 ^penjelasan-pasal-10
+Huruf a Yang dimaksud dengan "hasil dari Benda yang menjadi objek Jaminana Fidusia" adalah segala sesuatu yang diperoleh dari Benda yang dibebani Jaminan Fidusia. Huruf b Ketentuan dalam huruf b ini dimaksudkan untuk menegaskan apabila Benda itu diasuransikan, maka klaim asuransi tersebut merupakan hak Penerima Fidusia.
+#### Pasal 11 ^penjelasan-pasal-11
+Pendaftaran Benda yang dibebani dengan Jaminan Fidusia dilaksanakan ditempat kedudukan Pemberi Fidusia, dan pendaftarannya mencakup benda, baik yang berada di dalam maupun di luar wilayah negara Republik Indonesia untuk memenuhi asas publisitas, sekaligus merupakan jaminan kepastian terhadap kreditor lainnya mengenai Benda yang telah dibebani Jaminan Fidusia.
+#### Pasal 12 ^penjelasan-pasal-12
+Kantor Pendaftaran Fidusia merupakan bagian dalam lingkungan Departemen Kehakiman dan bukan instansi yang mandiri atau unit pelaksana teknis. Kantor Pendaftaran Fidusia didirikan untuk pertama kali di Jakarta dan secara bertahap, sesuai dengan keperluan, di ibukota propinsi di seluruh wilayah negara Republik Indoensia. Dalam hal Kantor Pendaftaran Fidusia belum didirikan di tiap Daerah Tingkat II maka wilayah kerja Kantor Pendaftaran Fidusia di ibukota propinsi meliputi seluruh daerah Tingkat II yang berada di lingkungan wilayahnya. Pendirian Kantor Pendaftaran Fidusia di daerah Tingkat II, dapat disesuaikan dengan Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah.
 
 
 -----
@@ -626,12 +624,16 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 5 
-# Pasal 13 Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Ketentuan ini dimaksudkan agar Kantor Pendaftaran Fidusia tidak melakukan penilaian terhadap kebenaran yang dicantumkan dalam pernyataan Pendaftaran jaminan Fidusia, akan tetapi hanya melakukan pengecekan data sebagaimana dimaksud dalam Pasal 13 ayat (2). Ayat (4) Cukup jelas
- Pasal 14 Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Ketentuan ini tidak mengurangi berlakunya Pasal 613 Kitab Undang-undang Hukum Perdata bagi pengalihan piutang atas nama dan kebendaan tak berwujud lainnya.
- Pasal 15 Ayat (1) Cukup jelas Ayat (2) Dalam ketentuan ini, yang dimaksud dengan "kekuatan eksekutorial" adalah langsung dapat dilaksanakan tanpa melalui pengadilan dan bersifat final serta mengikat para pihak untuk melaksanakan putusan tersebut. Ayat (3) Salah satu ciri Jaminan Fidusia adalah kemudahan dalam pelaksanaan eksekusinya yaitu apabila pihak Pemberi Fidusia cidera janji. Oleh karena itu dalam Undang-undang ini dipandang perlu diatur secara khusus tentang eksekusi Jaminan Fidusia melalui lembaga parate eksekusi.
- Pasal 16 Ayat (1) Perubahan mengenai hal-hal yang tercantum dalam Sertifikat Jaminaan Fidusia, harus diberitahukan kepada para pihak. Perubahan ini tidak perlu dilakukan dengan akta notaris dalam rangka efisiensi untuk memenuhi kebutuhan dunia usaha.
- Ayat (2) Cukup jelas
+                              - 5
+#### Pasal 13 ^penjelasan-pasal-13
+Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Ketentuan ini dimaksudkan agar Kantor Pendaftaran Fidusia tidak melakukan penilaian terhadap kebenaran yang dicantumkan dalam pernyataan Pendaftaran jaminan Fidusia, akan tetapi hanya melakukan pengecekan data sebagaimana dimaksud dalam Pasal 13 ayat (2). Ayat (4) Cukup jelas
+#### Pasal 14 ^penjelasan-pasal-14
+Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Ketentuan ini tidak mengurangi berlakunya Pasal 613 Kitab Undang-undang Hukum Perdata bagi pengalihan piutang atas nama dan kebendaan tak berwujud lainnya.
+#### Pasal 15 ^penjelasan-pasal-15
+Ayat (1) Cukup jelas Ayat (2) Dalam ketentuan ini, yang dimaksud dengan "kekuatan eksekutorial" adalah langsung dapat dilaksanakan tanpa melalui pengadilan dan bersifat final serta mengikat para pihak untuk melaksanakan putusan tersebut. Ayat (3) Salah satu ciri Jaminan Fidusia adalah kemudahan dalam pelaksanaan eksekusinya yaitu apabila pihak Pemberi Fidusia cidera janji. Oleh karena itu dalam Undang-undang ini dipandang perlu diatur secara khusus tentang eksekusi Jaminan Fidusia melalui lembaga parate eksekusi.
+#### Pasal 16 ^penjelasan-pasal-16
+Ayat (1) Perubahan mengenai hal-hal yang tercantum dalam Sertifikat Jaminaan Fidusia, harus diberitahukan kepada para pihak. Perubahan ini tidak perlu dilakukan dengan akta notaris dalam rangka efisiensi untuk memenuhi kebutuhan dunia usaha.
+Ayat (2) Cukup jelas
 
 
 -----
@@ -639,35 +641,41 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 6 
-# Pasal 17
- Fidusia ulang oleh Pemberi Fidusia, baik debitor maupun penjamin pihak ketiga, tidak memungkinkan atas Benda yang menjadi objek Jaminan Fidusia karena hak kepemilikan atas Benda tersebut telah beralih kepada Penerima Fidusia.
- Pasal 18 Cukup jelas
- Pasal 19
- "Pengalihan hak atas piutang" dalam ketentuan ini, dikenal dengan istilah "cessie" yakni pengalihan piutang yang dilakukan dengan akta otentik atau akta di bawah tangan. Dengan adanya cessie ini, maka segala hak dan kewajiban Penerima Fidusia lama beralih kepada Penerima Fidusia baru dan pengalihan hak atas piutang tersebut diberitahukan kepada Pemberi Fidusia.
- Pasal 20
- Ketentuan ini mencakup prinsip "droit de suite" yang telah merupakan bagian dari peraturan perundang-undangan Indonesia dalam kaitannya dengan hak mutlak atas kebendaan (in rem).
- Pasal 21
- Ketentuan ini menegaskan kembali bahwa Pemberi Fidusia dapat mengalihkan benda persediaan yang menjadi objek Jaminan Fidusia. Namun demikian untuk menjaga kepentingan Penerima Fidusia, maka Benda yang dialihkan tersebut wajib diganti dengan objek yang setara. Yang dimaksud dengan"mengalihkan" antara lain termasuk menjual atau menyewakan dalam rangka kegiatan usahanya. Yang dimaksud dengan"setara" tidak hanya nilainya tetapi juga jenisnya. Yang dimaksud dengan "cidera janji" adalah tidak memenuhi prestasi, baik yang berdasarkan perjanjian pokok, perjanjian Jaminan Fidusia maupun perjanjian jaminan lainnya.
- Pasal 22
- Yang dimaksud dengan "harga pasar" adalah harga yang wajar yang berlaku di pasar pada saat penjualan Benda tersebut, sehingga tidak mengesankan adanya penipuan dari pihak Pemberi Fidusia dalam melakukan penjualan Benda tersebut.
- Pasal 23 Ayat (1) Yang dimaksud dengan "menggabungkan" adalah penyatuan bagian-bagian dari Benda tersebut. Yang dimaksud dengan "mencampur" adalah penyatuan Benda yang sepadan dengan Benda yang menjadi objek Jaminan Fidusia. Ayat (2) Yang dimaksud dengan "benda yang tidak merupakan benda persediaan" misalnya mesin produksi, mobil pribadi, atau rumah pribadi yang menjadi objek Jaminan Fidusia.
-
-
+                              - 6
+#### Pasal 17 ^penjelasan-pasal-17
+Fidusia ulang oleh Pemberi Fidusia, baik debitor maupun penjamin pihak ketiga, tidak memungkinkan atas Benda yang menjadi objek Jaminan Fidusia karena hak kepemilikan atas Benda tersebut telah beralih kepada Penerima Fidusia.
+#### Pasal 18 ^penjelasan-pasal-18
+Cukup jelas
+#### Pasal 19 ^penjelasan-pasal-19
+"Pengalihan hak atas piutang" dalam ketentuan ini, dikenal dengan istilah "cessie" yakni pengalihan piutang yang dilakukan dengan akta otentik atau akta di bawah tangan. Dengan adanya cessie ini, maka segala hak dan kewajiban Penerima Fidusia lama beralih kepada Penerima Fidusia baru dan pengalihan hak atas piutang tersebut diberitahukan kepada Pemberi Fidusia.
+#### Pasal 20 ^penjelasan-pasal-20
+Ketentuan ini mencakup prinsip "droit de suite" yang telah merupakan bagian dari peraturan perundang-undangan Indonesia dalam kaitannya dengan hak mutlak atas kebendaan (in rem).
+#### Pasal 21 ^penjelasan-pasal-21
+Ketentuan ini menegaskan kembali bahwa Pemberi Fidusia dapat mengalihkan benda persediaan yang menjadi objek Jaminan Fidusia. Namun demikian untuk menjaga kepentingan Penerima Fidusia, maka Benda yang dialihkan tersebut wajib diganti dengan objek yang setara. Yang dimaksud dengan"mengalihkan" antara lain termasuk menjual atau menyewakan dalam rangka kegiatan usahanya. Yang dimaksud dengan"setara" tidak hanya nilainya tetapi juga jenisnya. Yang dimaksud dengan "cidera janji" adalah tidak memenuhi prestasi, baik yang berdasarkan perjanjian pokok, perjanjian Jaminan Fidusia maupun perjanjian jaminan lainnya.
+#### Pasal 22 ^penjelasan-pasal-22
+Yang dimaksud dengan "harga pasar" adalah harga yang wajar yang berlaku di pasar pada saat penjualan Benda tersebut, sehingga tidak mengesankan adanya penipuan dari pihak Pemberi Fidusia dalam melakukan penjualan Benda tersebut.
+#### Pasal 23 ^penjelasan-pasal-23
+Ayat (1) Yang dimaksud dengan "menggabungkan" adalah penyatuan bagian-bagian dari Benda tersebut. Yang dimaksud dengan "mencampur" adalah penyatuan Benda yang sepadan dengan Benda yang menjadi objek Jaminan Fidusia. Ayat (2) Yang dimaksud dengan "benda yang tidak merupakan benda persediaan" misalnya mesin produksi, mobil pribadi, atau rumah pribadi yang menjadi objek Jaminan Fidusia.
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 7 
-# Pasal 24 Cukup jelas
- Pasal 25 Ayat (1) Sesuai dengan ikutan dari Jaminan Fidusia, maka adanya Jaminan Fidusia tergantung pada adanya piutang yang dijamin pelunasannya. Apabila piutang tersebut hapus karena hapusnya utang atau karena pelepasan, maka dengan sendirinya Jaminan Fidusia yang bersangkutan menjadi hapus. Yang dimaksud dengan "hapusnya utang" antara lain karena pelunasan dan bukti hapusnya utang berupa keterangan yang dibuat kreditor. Ayat (2) Dalam hal Benda yang menjadi objek Jaminan Fidusia musnah dan Benda tersebut diasuransikan maka klaim asuransi akan menjadi pengganti objek Jaminan Fidusia tersebut. Ayat (3) Cukup jelas
- Pasal 26 Cukup jelas
- Pasal 27 Ayat (1) Hak yang didahulukan dihitung sejak tanggal pendaftaran Benda yang menjadi objek Jaminan Fidusia pada Kantor Pendaftaran Fidusia. Ayat (2) Cukup jelas Ayat (3) Ketentuan dalam ayat ini berhubungan dengan ketentuan bahwa Jaminan Fidusia merupakan hak agunan atas kebendaan bagi pelunasan utang. Di samping itu, ketentuan dalam Undang-undang tentang Kepailitan menentukan bahwa Benda yang menjadi objek Jaminan Fidusia berada di luar kepailitan dan atau likuidasi.
- Pasal 28 Cukup jelas
- Pasal 29 Cukup jelas
- Pasal 30
- Dalam hal Pemberi Fidusia tidak menyerahkan Benda yang menjadi objek Jaminan Fidusia pada waktu eksekusi dilaksanakan, Penerima Fidusia berhak mengambil Benda yang menjadi objek Jaminan Fidusia dan apabila perlu dapat
+                              - 7
+#### Pasal 24 ^penjelasan-pasal-24
+Cukup jelas
+#### Pasal 25 ^penjelasan-pasal-25
+Ayat (1) Sesuai dengan ikutan dari Jaminan Fidusia, maka adanya Jaminan Fidusia tergantung pada adanya piutang yang dijamin pelunasannya. Apabila piutang tersebut hapus karena hapusnya utang atau karena pelepasan, maka dengan sendirinya Jaminan Fidusia yang bersangkutan menjadi hapus. Yang dimaksud dengan "hapusnya utang" antara lain karena pelunasan dan bukti hapusnya utang berupa keterangan yang dibuat kreditor. Ayat (2) Dalam hal Benda yang menjadi objek Jaminan Fidusia musnah dan Benda tersebut diasuransikan maka klaim asuransi akan menjadi pengganti objek Jaminan Fidusia tersebut. Ayat (3) Cukup jelas
+#### Pasal 26 ^penjelasan-pasal-26
+Cukup jelas
+#### Pasal 27 ^penjelasan-pasal-27
+Ayat (1) Hak yang didahulukan dihitung sejak tanggal pendaftaran Benda yang menjadi objek Jaminan Fidusia pada Kantor Pendaftaran Fidusia. Ayat (2) Cukup jelas Ayat (3) Ketentuan dalam ayat ini berhubungan dengan ketentuan bahwa Jaminan Fidusia merupakan hak agunan atas kebendaan bagi pelunasan utang. Di samping itu, ketentuan dalam Undang-undang tentang Kepailitan menentukan bahwa Benda yang menjadi objek Jaminan Fidusia berada di luar kepailitan dan atau likuidasi.
+#### Pasal 28 ^penjelasan-pasal-28
+Cukup jelas
+#### Pasal 29 ^penjelasan-pasal-29
+Cukup jelas
+#### Pasal 30 ^penjelasan-pasal-30
+Dalam hal Pemberi Fidusia tidak menyerahkan Benda yang menjadi objek Jaminan Fidusia pada waktu eksekusi dilaksanakan, Penerima Fidusia berhak mengambil Benda yang menjadi objek Jaminan Fidusia dan apabila perlu dapat
 
 
 -----
@@ -676,28 +684,82 @@ PRESIDEN
 REPUBLIK INDONESIA
 
                               - 8 
-# meminta bantuan pihak yang berwenang.
- Pasal 31 Cukup jelas
- Pasal 32 Cukup jelas
- Pasal 33 Cukup jelas
- Pasal 34 Cukup jelas
- Pasal 35 Cukup jelas
- Pasal 36 Cukup jelas
- Pasal 37 Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat(3) Berdasarkan ketentuan ayat ini, maka perjanijan Jaminan Fidusia yang tidak didaftar tidak mempunyai hak yang didahulukan (preferen) baik di dalam maupun di luar kepailitan dan atau likuidasi.
- Pasal 38 Cukup jelas
- Pasal 39 Cukup jelas
- Pasal 40 Cukup jelas
-
-
+**meminta bantuan pihak yang berwenang.**
+#### Pasal 31 ^penjelasan-pasal-31
+Cukup jelas
+#### Pasal 32 ^penjelasan-pasal-32
+Cukup jelas
+#### Pasal 33 ^penjelasan-pasal-33
+Cukup jelas
+#### Pasal 34 ^penjelasan-pasal-34
+Cukup jelas
+#### Pasal 35 ^penjelasan-pasal-35
+Cukup jelas
+#### Pasal 36 ^penjelasan-pasal-36
+Cukup jelas
+#### Pasal 37 ^penjelasan-pasal-37
+Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat(3) Berdasarkan ketentuan ayat ini, maka perjanijan Jaminan Fidusia yang tidak didaftar tidak mempunyai hak yang didahulukan (preferen) baik di dalam maupun di luar kepailitan dan atau likuidasi.
+#### Pasal 38 ^penjelasan-pasal-38
+Cukup jelas
+#### Pasal 39 ^penjelasan-pasal-39
+Cukup jelas
+#### Pasal 40 ^penjelasan-pasal-40
+Cukup jelas
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 9 
-# Pasal 41 Cukup jelas
- TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3889
+                              - 9
+#### Pasal 41 ^penjelasan-pasal-41
+Cukup jelas
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3889
 
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |

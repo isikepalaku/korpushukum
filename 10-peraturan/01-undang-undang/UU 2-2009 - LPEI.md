@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Lembaga Pembiayaan Ekspor Indonesia
+**Lembaga Pembiayaan Ekspor Indonesia**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -90,15 +96,14 @@ EKSPOR INDONESIA.
 
 BAB I . . .
 
-
 -----
 
-             - 2 
+             - 2
 BAB I
 
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -148,10 +153,9 @@ Ekspor Nasional.
 
 12. Penjaminan . . .
 
-
 -----
 
-             - 3 
+             - 3
 12. Penjaminan adalah pemberian fasilitas jaminan untuk
 menanggung pembayaran kewajiban keuangan pihak
 terjamin dalam hal pihak terjamin tidak dapat memenuhi
@@ -168,7 +172,7 @@ PEMBIAYAAN EKSPOR NASIONAL
 Bagian Kesatu
 Asas, Tujuan, dan Kebijakan Dasar
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 Penyelenggaraan Pembiayaan Ekspor Nasional berdasarkan
 atas asas:
@@ -187,13 +191,13 @@ f. efisiensi berkeadilan; dan
 
 g. keseimbangan kemajuan dan kesatuan ekonomi nasional.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 Pembiayaan Ekspor Nasional bertujuan untuk menunjang
 kebijakan Pemerintah dalam rangka mendorong program
 ekspor nasional.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 Pemerintah menetapkan kebijakan dasar Pembiayaan Ekspor
 Nasional untuk:
@@ -211,10 +215,9 @@ ekspor; dan
 
 d. mendorong . . .
 
-
 -----
 
-            - 4 
+            - 4
 d. mendorong pengembangan usaha mikro, kecil, menengah,
 
 dan koperasi untuk mengembangkan produk yang
@@ -223,7 +226,7 @@ berorientasi ekspor.
 Bagian Kedua
 Bentuk Pembiayaan Ekspor Nasional
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 (1) Pembiayaan Ekspor Nasional sebagaimana dimaksud
 
@@ -251,13 +254,13 @@ berbentuk badan hukum termasuk perorangan.
 berdomisili di dalam atau di luar wilayah Negara Republik
 Indonesia.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 Pembiayaan sebagaimana dimaksud dalam Pasal 5 ayat (1)
 huruf a diberikan dalam bentuk pembiayaan modal kerja
 dan/atau investasi.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 Bentuk Penjaminan sebagaimana dimaksud dalam Pasal 5
 ayat (1) huruf b meliputi:
@@ -276,10 +279,9 @@ dilakukan oleh suatu perusahaan Indonesia;
 
 c. Penjaminan . . .
 
-
 -----
 
-             - 5 
+             - 5
 c. Penjaminan bagi Bank yang menjadi mitra penyediaan
 pembiayaan transaksi Ekspor yang telah diberikan kepada
 Eksportir Indonesia; dan/atau
@@ -288,7 +290,7 @@ d. Penjaminan dalam rangka tender terkait dengan
 pelaksanaan proyek yang seluruhnya atau sebagian
 merupakan kegiatan yang menunjang Ekspor.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
 Asuransi sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf
 c dapat diberikan dalam bentuk:
@@ -304,7 +306,7 @@ d. Asuransi atas risiko politik di suatu negara yang menjadi
 
 tujuan ekspor.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 
 Pembiayaan Ekspor Nasional sebagaimana dimaksud dalam
 Pasal 5 dilakukan oleh lembaga keuangan yang didirikan
@@ -317,7 +319,7 @@ LEMBAGA PEMBIAYAAN EKSPOR INDONESIA
 Bagian Kesatu
 Pembentukan, Status, dan Tempat Kedudukan
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 (1) Dalam rangka pelaksanaan kegiatan Pembiayaan Ekspor
 
@@ -339,11 +341,10 @@ independen.
 
 Pasal 11 . . .
 
-
 -----
 
-            - 6 
-Pasal 11
+            - 6
+### Pasal 11 ^pasal-11
 
 (1) LPEI berkedudukan dan berkantor pusat di Ibukota
 
@@ -356,13 +357,13 @@ wilayah Republik Indonesia.
 Bagian Kedua
 Fungsi, Tugas, dan Wewenang
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 LPEI berfungsi mendukung program ekspor nasional melalui
 Pembiayaan Ekspor Nasional sebagaimana dimaksud dalam
 Pasal 5 ayat (1).
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 (1) Dalam menjalankan fungsi sebagaimana dimaksud dalam
 
@@ -404,11 +405,10 @@ Undang-Undang ini.
 
 Pasal 14 . . .
 
-
 -----
 
-            - 7 
-Pasal 14
+            - 7
+### Pasal 14 ^pasal-14
 
 (1) Dalam rangka melaksanakan tugas sebagaimana
 dimaksud dalam Pasal 13, LPEI berwenang:
@@ -430,7 +430,7 @@ huruf d hanya dapat dilakukan pada badan hukum atau
 badan lainnya yang diperlukan dalam pelaksanaan tugas
 LPEI dengan persetujuan Menteri.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 LPEI dapat memberikan fasilitas Asuransi kepada Eksportir
 dalam hal lembaga asuransi ekspor tidak dapat memenuhi
@@ -438,12 +438,12 @@ permintaan fasilitas asuransi bagi Eksportir atau dalam
 rangka memenuhi ketentuan yang dipersyaratkan oleh
 pembeli di luar negeri.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 Dalam melakukan kegiatannya, LPEI turut serta dalam sistem
 pembayaran nasional dan internasional.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 
 (1) Dalam menjalankan tugasnya, LPEI wajib menerapkan
 
@@ -464,10 +464,9 @@ pemenuhan disiplin pasar terhadap risiko yang melekat.
 
 (4) Penerapan . . .
 
-
 -----
 
-            - 8 
+            - 8
 (4) Penerapan prinsip mengenal nasabah sebagaimana
 dimaksud pada ayat (1) paling sedikit mencakup
 kebijakan dan prosedur identifikasi nasabah, pemantauan
@@ -481,7 +480,7 @@ diatur dengan Peraturan Menteri.
 Bagian Ketiga
 Penugasan Khusus
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 (1) LPEI dapat melaksanakan penugasan khusus dari
 Pemerintah untuk mendukung program Ekspor nasional
@@ -496,7 +495,7 @@ dengan Peraturan Menteri.
 Bagian Keempat
 Permodalan LPEI
 
-Pasal 19
+### Pasal 19 ^pasal-19
 
 (1) Modal awal LPEI ditetapkan paling sedikit
 Rp4.000.000.000.000,00 (empat triliun rupiah).
@@ -516,7 +515,7 @@ mekanisme yang berlaku.
 modal sebagaimana dimaksud pada ayat (3) ditetapkan
 dengan Peraturan Pemerintah.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 
 (1) LPEI dapat membentuk cadangan umum dan cadangan
 
@@ -524,10 +523,9 @@ tujuan.
 
 (2) Dalam . . .
 
-
 -----
 
-            - 9 
+            - 9
 (2) Dalam hal akumulasi cadangan umum dan cadangan
 
 tujuan telah melebihi 25% (dua puluh lima persen) dari
@@ -540,7 +538,7 @@ Bukan Pajak.
 
 ditetapkan dalam Keputusan Menteri.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 
 (1) Surplus yang diperoleh LPEI dalam kurun waktu 1 (satu)
 
@@ -567,7 +565,7 @@ Pemerintah ditetapkan oleh Menteri.
 Bagian Kelima
 Sumber dan Penempatan Dana
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 (1) Untuk membiayai kegiatannya, LPEI dapat memperoleh
 
@@ -588,16 +586,15 @@ c. hibah.
 
 (2) Selain . . .
 
-
 -----
 
-           - 10 
+           - 10
 (2) Selain memperoleh dana dari sumber-sumber
 sebagaimana dimaksud pada ayat (1), LPEI dapat
 membiayai kegiatannya dengan sumber pendanaan dari
 penempatan dana oleh Bank Indonesia.
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 (1) Pemerintah dapat memberikan pinjaman atau hibah
 
@@ -609,7 +606,7 @@ Pendapatan dan Belanja Negara.
 pinjaman atau hibah sebagaimana dimaksud pada ayat
 (1) diatur dengan Peraturan Pemerintah.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 
 (1) LPEI dapat menempatkan dana yang belum dipergunakan
 
@@ -645,16 +642,15 @@ Bagian Kesatu
 
 Organ LPEI
 
-Pasal 25
+### Pasal 25 ^pasal-25
 
 (1) Dewan Direktur merupakan organ tunggal LPEI.
 
 (2) Anggota . . .
 
-
 -----
 
-           - 11 
+           - 11
 (2) Anggota Dewan Direktur berjumlah paling banyak 10
 
 (sepuluh) orang, yang terdiri atas:
@@ -703,7 +699,7 @@ merangkap jabatan eksekutif di tempat lain.
 (lima) tahun dan hanya dapat diangkat kembali untuk 1
 (satu) kali masa jabatan berikutnya.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 
 (1) Dewan Direktur bertugas merumuskan dan menetapkan
 
@@ -720,11 +716,10 @@ dan Direktur Pelaksana ditetapkan oleh Menteri.
 
 Pasal 27 . . .
 
-
 -----
 
-           - 12 
-Pasal 27
+           - 12
+### Pasal 27 ^pasal-27
 
 Untuk dapat diangkat menjadi Dewan Direktur, paling sedikit
 harus memenuhi syarat sebagai berikut:
@@ -751,7 +746,7 @@ yang menjadi ruang lingkup kegiatan LPEI; dan
 
 h. tidak pernah dinyatakan pailit.
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
 (1) Anggota Dewan Direktur dapat diberhentikan oleh Menteri
 
@@ -788,10 +783,9 @@ sebagaimana dimaksud dalam Pasal 25 ayat (2) huruf a.
 
 3. Anggota . . .
 
-
 -----
 
-           - 13 
+           - 13
 (3) Anggota Dewan Direktur sebagaimana dimaksud dalam
 
 Pasal 25 ayat (2) sebelum diberhentikan karena alasan
@@ -820,7 +814,7 @@ karena berakhirnya masa jabatan sebagaimana dimaksud
 pada ayat (1) huruf b adalah sisa masa jabatan anggota
 Dewan Direktur yang digantikannya.
 
-Pasal 29
+### Pasal 29 ^pasal-29
 
 (1) Kegiatan operasional LPEI dilakukan oleh Direktur
 
@@ -839,7 +833,7 @@ paling banyak 4 (empat) orang berasal dari dalam LPEI.
 diangkat dan diberhentikan oleh Dewan Direktur atas
 usul Direktur Eksekutif.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 
 (1) Direktur Eksekutif mewakili LPEI, baik di dalam maupun
 
@@ -847,10 +841,9 @@ di luar pengadilan;
 
 (2) Kewenangan . . .
 
-
 -----
 
-            - 14 
+            - 14
 (2) Kewenangan Direktur Eksekutif sebagaimana dimaksud
 
 pada ayat (1) dapat dilimpahkan kepada 2 (dua) orang
@@ -860,7 +853,7 @@ Bagian Kedua
 
 Kepegawaian
 
-Pasal 31
+### Pasal 31 ^pasal-31
 
 (1) Direktur Eksekutif menetapkan sistem kepegawaian,
 
@@ -882,7 +875,7 @@ Penghapusbukuan dan Penghapustagihan Piutang
 
 serta Penghapusbukuan Aktiva Tetap
 
-Pasal 32
+### Pasal 32 ^pasal-32
 
 (1) Kewenangan penghapusbukuan piutang LPEI
 dilaksanakan oleh Direktur Eksekutif, Dewan Direktur,
@@ -913,11 +906,10 @@ tersebut dihapus tagih.
 
 Pasal 33 . . .
 
-
 -----
 
-           - 15 
-Pasal 33
+           - 15
+### Pasal 33 ^pasal-33
 
 (1) Dalam hal upaya penagihan atas piutang sebagaimana
 
@@ -929,7 +921,7 @@ hasil tagih, piutang tersebut dapat dihapustagihkan.
 dilaksanakan oleh Direktur Eksekutif setelah memperoleh
 persetujuan dari Dewan Direktur.
 
-Pasal 34
+### Pasal 34 ^pasal-34
 
 (1) Aktiva tetap yang dapat dihapusbukukan adalah aktiva
 
@@ -940,7 +932,7 @@ keusangan karena kemajuan teknologi.
 oleh Direktur Eksekutif setelah memperoleh persetujuan
 dari Dewan Direktur.
 
-Pasal 35
+### Pasal 35 ^pasal-35
 
 Tata cara penghapusbukuan dan penghapustagihan piutang
 sebagaimana dimaksud dalam Pasal 32 ayat (2) dan Pasal 33
@@ -951,12 +943,12 @@ dalam Peraturan Menteri.
 Bagian Keempat
 Rencana Kerja dan Anggaran Tahunan
 
-Pasal 36
+### Pasal 36 ^pasal-36
 
 Tahun Buku dan Tahun Anggaran LPEI dimulai dari 1
 Januari sampai dengan 31 Desember.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 
 (1) Direktur Eksekutif menyiapkan Rencana Jangka Panjang
 
@@ -972,14 +964,13 @@ Anggaran Tahunan ditetapkan dalam Peraturan Menteri.
 
 Bagian Kelima . . .
 
-
 -----
 
-           - 16 
+           - 16
 Bagian Kelima
 Pelaporan dan Akuntabilitas
 
-Pasal 38
+### Pasal 38 ^pasal-38
 
 (1) LPEI wajib menyampaikan laporan keuangan tahunan
 
@@ -1000,7 +991,7 @@ Bagian Keenam
 
 Pembubaran
 
-Pasal 39
+### Pasal 39 ^pasal-39
 
 LPEI hanya dapat dibubarkan dengan Undang-Undang.
 
@@ -1008,7 +999,7 @@ BAB V
 
 PEMBINAAN DAN PENGAWASAN
 
-Pasal 40
+### Pasal 40 ^pasal-40
 
 (1) Pembinaan dan pengawasan terhadap LPEI dilakukan
 
@@ -1021,7 +1012,7 @@ BAB VI
 
 BANTUAN HUKUM
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
 LPEI memberikan bantuan hukum kepada anggota Dewan
 Direktur, Direktur Eksekutif, Direktur Pelaksana, pegawai,
@@ -1034,15 +1025,14 @@ sesuai dengan tugas dan wewenangnya.
 
 BAB VII . . .
 
-
 -----
 
-           - 17 
+           - 17
 BAB VII
 
 SANKSI ADMINISTRATIF
 
-Pasal 42
+### Pasal 42 ^pasal-42
 
 (1) Anggota Dewan Direktur, Direktur Eksekutif, Direktur
 
@@ -1065,7 +1055,7 @@ BAB VIII
 
 KETENTUAN PIDANA
 
-Pasal 43
+### Pasal 43 ^pasal-43
 
 (1) Pegawai LPEI yang dengan sengaja melakukan kegiatan
 
@@ -1091,15 +1081,14 @@ miliar rupiah) dan paling banyak Rp5.000.000.000,00
 
 BAB IX . . .
 
-
 -----
 
-           - 18 
+           - 18
 BAB IX
 
 KETENTUAN PERALIHAN
 
-Pasal 44
+### Pasal 44 ^pasal-44
 
 Dengan berlakunya Undang-Undang ini:
 
@@ -1123,7 +1112,7 @@ BAB X
 
 KETENTUAN PENUTUP
 
-Pasal 45
+### Pasal 45 ^pasal-45
 
 Untuk pertama kali, anggota Dewan Direktur diangkat untuk
 masa jabatan sebagai berikut:
@@ -1150,27 +1139,26 @@ Ketua Dewan Direktur diangkat untuk masa jabatan 4
 
 e. 1 (satu) orang . . .
 
-
 -----
 
-           - 19 
+           - 19
 e. 1 (satu) orang anggota Dewan Direktur sebagaimana
 dimaksud dalam Pasal 25 ayat (2) huruf b yang berasal
 dari dalam LPEI yang bukan merupakan Ketua Dewan
 Direktur diangkat untuk masa jabatan 3 (tiga) tahun.
 
-Pasal 46
+### Pasal 46 ^pasal-46
 
 Dalam menjalankan kegiatannya, baik dalam melakukan
 Pembiayaan, Penjaminan, maupun Asuransi, LPEI tunduk
 pada Undang-Undang ini dan peraturan pelaksanaannya.
 
-Pasal 47
+### Pasal 47 ^pasal-47
 
 LPEI sebagaimana dimaksud dalam Undang-Undang ini dapat
 menggunakan nama Indonesia Eximbank.
 
-Pasal 48
+### Pasal 48 ^pasal-48
 
 (1) Paling lama 9 (sembilan) bulan sejak Undang-Undang ini
 
@@ -1200,16 +1188,15 @@ b. semua pegawai Perusahaan Perseroan (Persero) PT
 
 Bank Ekspor Indonesia menjadi pegawai LPEI.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar . . .
 
-
 -----
 
-                      - 20 
+                      - 20
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Undang-Undang ini dengan penempatannya
 dalam Lembaran Negara Republik Indonesia.
@@ -1243,10 +1230,11 @@ Bidang Perekonomian dan Industri,
 
 SETIO SAPTO NUGROHO
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 
@@ -1257,8 +1245,6 @@ NOMOR 2 TAHUN 2009
 TENTANG
 
 LEMBAGA PEMBIAYAAN EKSPOR INDONESIA
-
-I. UMUM
 
 Pembukaan Undang-Undang Dasar Negara Repubik Indonesia tahun
 1945 mengamanatkan bahwa salah satu tujuan pembentukan pemerintahan
@@ -1294,10 +1280,9 @@ pengembangan sektor riil.
 
 Jika . . .
 
-
 -----
 
-                     - 2 
+                     - 2
 Jika ditinjau dari dimensi kebijakan pengembangan ekspor nasional,
 Undang-Undang Lembaga Pembiayaan Ekspor Indonesia (LPEI) merupakan
 dasar pengembangan ekspor nasional melalui pembiayaan ekspor nasional,
@@ -1343,10 +1328,9 @@ _Account)._
 
 Pembiayaan . . .
 
-
 -----
 
-                     - 3 
+                     - 3
 Pembiayaan diberikan LPEI dalam bentuk modal kerja dan/atau
 investasi. Pembiayaan dalam bentuk modal kerja, antara lain pembiayaan
 untuk pengadaan bahan baku dan/atau bahan penolong, pembelian bahan
@@ -1393,10 +1377,9 @@ keunggulan, baik komparatif maupun kompetitif.
 
 Melalui . . .
 
-
 -----
 
-                     - 4 
+                     - 4
 Melalui kegiatan usaha di atas, LPEI diharapkan dapat memberikan
 kontribusi yang optimal terhadap pembangunan ekonomi nasional dengan
 turut menunjang kebijakan pemerintah dalam rangka mendorong program
@@ -1445,10 +1428,9 @@ produksi, tantiem, dan bagian laba Pemerintah.
 
 Untuk . . .
 
-
 -----
 
-                        - 5 
+                        - 5
 Untuk melaksanakan tugas tersebut, LPEI perlu didukung organisasi
 yang fleksibel dan dapat bergerak cepat untuk pengelolaan perusahaan.
 Oleh karena itu, sistem susunan dewan satu tingkat (One Board System)
@@ -1485,14 +1467,11 @@ bubar dan semua pegawai PT Bank Eskpor Indonesia menjadi pegawai LPEI.
 Di samping itu, karena kegiatan usahanya dalam dunia perdagangan
 internasional, LPEI dapat menggunakan nama Indonesia Eximbank.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Huruf a
 
 Yang dimaksud dengan “asas kepentingan nasional” adalah asas
@@ -1545,21 +1524,13 @@ kesatuan ekonomi nasional” adalah asas yang mendasari bahwa
 kebijakan Pembiayaan Ekspor Nasional harus
 mempertimbangkan keseimbangan kemajuan daerah dalam
 kesatuan ekonomi nasional.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Cukup jelas.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Pembiayaan dalam bentuk pembiayaan modal kerja, antara lain
 pembiayaan untuk pengadaan bahan baku dan/atau bahan
 penolong, pembelian bahan baku dari luar negeri, penggantian
@@ -1581,9 +1552,7 @@ luar negeri.
 Fasilitas pembiayaan modal kerja dan/atau investasi juga dapat
 diberikan kepada pembeli di luar negeri untuk membeli barang dan
 jasa yang diproduksi di Indonesia (buyer’s credit).
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Huruf a
 
 Cukup jelas.
@@ -1600,9 +1569,7 @@ Huruf d
 
 Penjaminan dalam rangka tender, antara lain _bid bond_ dan
 _performance guarantee._
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Huruf a
 
 Yang dimaksud dengan “Asuransi atas risiko kegagalan Ekspor”
@@ -1640,13 +1607,9 @@ terjadi di suatu negara, antara lain nasionalisasi
 _inconvertibility),_ hambatan transfer devisa (exchange transfer
 _restricted),_ dan pembatalan kontrak sepihak (contract
 _repudiation)._
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Cukup jelas.
@@ -1668,17 +1631,11 @@ dinyatakan secara jelas dalam Undang-Undang ini.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Huruf a
@@ -1719,8 +1676,7 @@ penjaminan balik (counter guarantee) dan penjaminan
 bersama (joint guarantee), pembiayaan substitusi impor,
 serta pembiayaan impor bahan baku yang dilakukan untuk
 memenuhi kebutuhan nasional.
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Huruf a
@@ -1754,19 +1710,13 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 15 . . .
-
-
+#### Pasal 15 ^penjelasan-pasal-15
 -----
 
-                   - 10 
-Pasal 15
-
+                   - 10
+#### Pasal 15 ^penjelasan-pasal-15-2
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Untuk memudahkan dalam melaksanakan Pembiayaan Ekspor
 Nasional, LPEI dapat ikut serta sebagai peserta dalam sistem
 pembayaran nasional. Untuk itu, LPEI tunduk pada ketentuan yang
@@ -1781,13 +1731,9 @@ Undang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia.
 Yang dimaksud dengan “sistem pembayaran internasional” adalah
 sistem pembayaran yang lazim dilakukan untuk menyelesaikan
 kewajiban pembayaran antar-bank atau lembaga keuangan antarnegara.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Ayat (1)
 
 Yang dimaksud dengan “penugasan khusus” adalah penugasan
@@ -1804,9 +1750,7 @@ tata cara pengajuan usul program Ekspor nasional dari
 kementerian dan lembaga, sumber dana, denda, provisi
 penjaminan, premi asuransi, penggantian kerugian (coverage),
 dan pembayaran.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Ayat (1)
 
 Modal awal LPEI berasal dari seluruh kekayaan negara yang
@@ -1842,9 +1786,7 @@ Ayat (4)
 
 Penambahan modal untuk menutup kekurangan modal LPEI ini
 diperhitungkan sebagai kekayaan negara yang dipisahkan.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Yang dimaksud dengan “cadangan umum” adalah dana yang
@@ -1867,9 +1809,7 @@ persen) dimaksudkan untuk memperkuat permodalan LPEI.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Ayat (1)
 
 Yang dimaksud dengan “surplus” adalah laba dari hasil kegiatan
@@ -1914,8 +1854,7 @@ timbul dalam kegiatan usaha pada masa yang akan datang.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 22
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1)
 
 Huruf a
@@ -1937,13 +1876,9 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Ayat (1)
 
 Cukup jelas.
@@ -1969,9 +1904,7 @@ yang dilakukan harus mudah dicairkan.
 Untuk mengamankan kepentingan di atas, surat berharga yang
 dibeli atau penempatan yang dilakukan memiliki risiko yang
 terkendali.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 
 Dewan Direktur terdiri atas Direktur Non-Eksekutif dan Direktur
@@ -2011,9 +1944,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Kebijakan yang dirumuskan dan ditetapkan oleh Dewan
@@ -2060,9 +1991,7 @@ d. ketentuan benturan kepentingan.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Huruf a
 
 Cukup jelas.
@@ -2102,9 +2031,7 @@ perdagangan internasional, dan/atau hukum.
 Huruf h
 
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Ayat (1)
 
 Huruf a
@@ -2173,9 +2100,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Ayat (1)
 
 Cukup jelas.
@@ -2193,17 +2118,11 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Ayat (1)
 
 Cukup jelas.
@@ -2218,31 +2137,19 @@ telah dikenakan sanksi.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35 . . .
-
-
+#### Pasal 35 ^penjelasan-pasal-35
 -----
 
-                    - 17 
-Pasal 35
-
+                    - 17
+#### Pasal 35 ^penjelasan-pasal-35-2
 Cukup jelas.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Ayat (1)
 
 Rencana Jangka Panjang memuat, antara lain:
@@ -2270,9 +2177,7 @@ d. hal-hal lain yang memerlukan keputusan Menteri.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Ayat (1)
 
 Cukup jelas.
@@ -2285,22 +2190,16 @@ Ayat (3)
 
 Pengumuman laporan keuangan LPEI dilakukan dalam rangka
 pemenuhan prinsip transparansi dan akuntabilitas publik.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Sebagai lembaga yang didirikan oleh Undang-Undang, pembubaran
 LPEI harus dilakukan dengan Undang-Undang. LPEI juga tidak dapat
 dipailitkan berdasarkan ketentuan Undang-Undang tentang
 Kepailitan.
-
-Pasal 40 . . .
-
-
+#### Pasal 40 ^penjelasan-pasal-40
 -----
 
-                    - 18 
-Pasal 40
-
+                    - 18
+#### Pasal 40 ^penjelasan-pasal-40-2
 Ayat (1)
 
 Cukup jelas.
@@ -2311,22 +2210,14 @@ Pokok-pokok yang diatur dalam Peraturan Menteri, antara lain
 kegiatan usaha, kualitas aktiva produktif, batas maksimum
 pemberian pembiayaan, modal minimum, posisi devisa neto,
 pelaporan, dan pemeriksaan.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Bantuan hukum diberikan dalam bentuk, antara lain penyediaan jasa
 pengacara, pendampingan, dan penyediaan akses dokumen LPEI.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Cukup jelas.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Huruf a
 
 Cukup jelas.
@@ -2351,19 +2242,13 @@ menjadi dasar penyusunan laporan keuangan pembukaan LPEI.
 Konsultan hukum memberikan opini atas aspek hukum yang
 terkait dengan peralihan Perusahaan Perseroan (Persero) PT
 Bank Ekspor Indonesia menjadi LPEI.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Cukup jelas.
-
-Pasal 46 . . .
-
-
+#### Pasal 46 ^penjelasan-pasal-46
 -----
 
-                    - 19 
-Pasal 46
-
+                    - 19
+#### Pasal 46 ^penjelasan-pasal-46-2
 Undang-Undang ini bersifat _lex_ _specialis_ terhadap peraturan
 perundang-undangan yang mengatur masalah perbankan, usaha
 perasuransian, lembaga keuangan non-bank, badan usaha milik
@@ -2375,15 +2260,11 @@ tentang pinjam-meminjam, Bab Ketujuh belas Buku Ketiga Kitab
 Undang-Undang Hukum Perdata tentang penanggungan utang, dan
 Bab Kesembilan Buku Kesatu Kitab Undang-Undang Hukum Dagang
 tentang asuransi atau pertanggungan seumumnya.
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Penggunaan nama _Indonesia_ _Eximbank_ dimaksudkan untuk
 memudahkan LPEI dalam menjalankan kegiatan usahanya serta
 menyejajarkan diri dengan lembaga sejenis yang ada di luar negeri.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4957
@@ -2391,3 +2272,59 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4957
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-2]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-2]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 40 | [[#^penjelasan-pasal-40-2]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 46 | [[#^penjelasan-pasal-46-2]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |

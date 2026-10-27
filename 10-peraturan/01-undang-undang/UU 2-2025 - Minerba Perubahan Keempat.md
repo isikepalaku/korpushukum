@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan Keempat UU Minerba
+**Perubahan Keempat UU Minerba**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -34,21 +40,21 @@ last_updated: 2026-10-28
 
 <!-- image -->
 
-## SALINAN
+**SALINAN**
 
-## UNDANG-UNDANG REPUBLIK INDONESIA
+**UNDANG-UNDANG REPUBLIK INDONESIA**
 
-## NOMOR 2 TAHUN 2025
+**NOMOR 2 TAHUN 2025**
 
-## TENTANG
+**TENTANG**
 
-## PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 4 TAHUN 2OO9
+**PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 4 TAHUN 2OO9**
 
-## TENTANG PERTAMBANGAN MINERAL DAN BATUBARA
+**TENTANG PERTAMBANGAN MINERAL DAN BATUBARA**
 
-## DENGAN RAHMAT TUHAN YANG MAHA ESA
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
-## PRESIDEN REPUBLIK INDONESIA,
+**PRESIDEN REPUBLIK INDONESIA,**
 
 - Menimbang a. bahwa mineral dan bahrbara yang berada di dalam wilayah Negara Kesatuan Republik Indonesia merupakan kekayaan sumber daya alam yang tidak terbarukan sebagai kamnia ftrhan Yang Maha Esa, yang dilnrasai oleh negara untuk meningkatkan nilai tambah bagi perekonomian nasional dalam mewujudkan kernakmuran dan kesejahteraan rakyat secara berkeadilan sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 - b. bahwa kegiatan hilirisasi mineral dan batubara sebagai salah satu penggerak pertumbuhan perekonomian nasional memerlukan penguatan dan kepastian pasokan bahan baku secara efektif, efisien, berkelanjutan, dan berwawasan lingkungan dengan rnemperkuat penyelidikan dan penelitian untuk optimalisasi eksplorasi mineral dan batubara, serta dalam pengelolaannya mengakselerasi keterlibatan berbagai pihak yang telah berkontribusi bagi peningkatan perekonomian nasional;
@@ -63,15 +69,15 @@ d. bahwa. . .
 3. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 4 Tahun 2OO9 tentang Pertambangan Mineral dan Batubara (kmbaran Negara Republik Indonesia Tahun 2OO9 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 4959) sebagaimana telah beberapa kali diubah teral&lt;hir dengan Undang-Undang Nomor 6 Tahun 2023 lentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentarg Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan kmbaran Negara Republik Indonesia Nomor 6856);
 
-## Dengan Persetujuan Bersama
+**Dengan Persetujuan Bersama**
 
-## DEWAN PERWAKII"AN RAKYAT REPUBLIK INDONESIA
+**DEWAN PERWAKII"AN RAKYAT REPUBLIK INDONESIA**
 
 dan
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
-## MEMUTUSKAN:
+**MEMUTUSKAN:**
 
 Menetapkan UNDANG-UNDANG TENTANG PERUBAHAN KEEMPAT ATAS UNDANG.UNDANG NOMOR 4 TAHUN 2OO9 TENTANG PERTAMBANGAN MINERAL DAN BATUBARA.
 
@@ -79,9 +85,9 @@ Pasall...
 
 <!-- image -->
 
-## PRESTDEN REPUBLTK INDONESIA
+**PRESTDEN REPUBLTK INDONESIA**
 
-## Pasal I
+**Pasal I**
 
 Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 4959) yang telah beberapa kali diubah dengan Undang-Undang:
 
@@ -93,7 +99,7 @@ diubah sebagai berikut:
 
 - Ketentuan angka 16 Pasal I diubah sehingga Pasal 1 berbunyi sebagai berikut: 1
 
-## Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -155,7 +161,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN P,EPUBLIK INDONESIA
+**PRESIDEN P,EPUBLIK INDONESIA**
 
 30. Wilayah Usaha Pertambangan, yang selanjutnya disebut WUP, adalah bagian dari WP yang telah memiliki ketersediaan data, potensi, dan/ atau informasi geologi.
 31. Wilayah Izin Usaha Pertambangan, yang selanjutnya disebut WIUP, adalah wilayah yang diberikan kepada pemegang IUP atau pemegang SIPB.
@@ -172,13 +178,13 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN IIEPUBL]K INDONESIA
+**PRESIDEN IIEPUBL]K INDONESIA**
 
 -9-
 
 - 2 Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 5
+### Pasal 5 ^pasal-5
 
 - (1) Untuk kepentingan nasional, Pemerintah Pusat setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia menetapkan kebijakan nasional pengutamaan Mineral dan/ atau Batubara untuk kepentingan dalam negeri.
 2. (21 Untuk melaksanakan kepentingan nasional sebagaimana dimaksud pada ayat (1), Pemerintah Pusat mempunyai kewenangan untuk menetapkan jumlah produksi, Penjualan, dan harga Mineral logam, Mineral bukan logam jenis tertentu, atau Batubara.
@@ -186,7 +192,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (4) Ketentuan lebih lanjut mengenai pengutamaan Mineral dan/ atau Batubara untuk kepentingan nasional sebagaimana dimaksud pada ayat (l), ayat (21, dan ayat (3) diatur dengan atau berdasarkan Peraturan Pemerintah.
 5. Ketentuan ayat (1) Pasal 17 diubah dan di antara ayat (1) dan ayat (2) disisipkan 1 (satu) ayat, yakni ayat (la) sehingga Pasal 17 berbunyi sebagai berikut: 3
 
-## Pasal 17
+### Pasal 17 ^pasal-17
 
 - (1) Luas dan batas WIUP Mineral logam dan WIUP Batubara ditetapkan oleh Menteri.
 - (1a) Menteri dalam melakukan penetapan sebagaimana dimaksud pada ayat (1) dapat berkoordinasi dengan Pemerintah Daerah.
@@ -206,7 +212,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (5) Dalam hal WIUP Mineral logam dan WIUP Batubara telah ditetapkan oleh Menteri, pemanfaatan potensi sumber daya alam yang terdapat di dalamnya diprioritaskan untuk kegiatan Usaha Pertambangan.
 10. 4 Ketentuan Pasal 17A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 17A
+**Pasal 17A**
 
 - (1) Dalam hal belum terdapat penetapan tata ruang dan/ atau kawasan, penetapan WIUP Mineral logam dan WIUP Batubara sebagaimana dimaksud dalam Pasal 17 menjadi dasar bagi penetapan pemanfaatan ruang dan kawasan untuk kegiatan Usaha Pertambangan.
 2. (21 Pemerintah Pusat dan Pemerintah Daerah menjamin tidak ada perubahan pemanfaatan ruang dan kawasan pada WIUP Mineral logam dan WIUP Batubara yang telah ditetapkan sepanjang tidak bertentangan dengan ketentuan peraturan perundang-undangan.
@@ -220,20 +226,20 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (5) Pemerintah Pusat dan Pemerintah Daerah menjamin penerbitan perizinan lain yang diperlukan dalam rangka pelaksanaan kegiatan Usaha Pertambangan pada WIUP Mineral logam dan WIUP Batubara yang telah ditetapkan sepanjang telah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
 4. 5 Ketentuan Pasal 22A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal22A
+**Pasal22A**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah menjamin tidak ada perubahan pemanfaatan ruang dan kawasan pada WPR yang telah ditetapkan sepanjang tidak bertentangan dengan ketentuan peraturan perundang-undangan.
 2. (21 Dalam hal terdapat perubahan pemanfaatan ruang dan kawasan pada WPR yang telah ditetapkan, WPR tetap berlaku dan tetap dapat dilakukan kegiatan Usaha Pertambangan ralryat.
 3. Ketentuan Pasal 31A diubah sehingga berbunyi sebagai berikut: 6
 
-## Pasal 31A
+**Pasal 31A**
 
 - (1) Penetapan WIUPK sebagaimana dimaksud dalam Pasal 3l dila"kukan setelah memenuhi kriteria:
 - a. pemanfaatan ruang dan kawasan untuk kegiatan Usaha Pertambangan sesuai dengan ketentuan peraturan perundang-undangan;
 
 <!-- image -->
 
-## PRESIDEN REPIJBLIK INOONESIA
+**PRESIDEN REPIJBLIK INOONESIA**
 
 -12-
 
@@ -247,7 +253,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (6) Pemerintah Pusat dan Pemerintah Daerah menjamin penerbitan perizinan lain yang diperlukan dalam rangka pelaksanaan kegiatan Usaha Pertambangan pada WIUPK yang telah ditetapkan sepanjang telah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
 9. 7 Setelah ayat (4) Pasal 35 ditambahkan I (satu) ayat, yakni ayat (5) sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+### Pasal 35 ^pasal-35
 
 - (l) Usaha Pertambangan dilaksanakan berdasarkan Perizinan Berusaha dari Pemerintah Pusat.
 - (21 Pewinan Berusaha sebagaimana dimaksud pada ayat (1) dilaksanakan melalui pemberian:
@@ -257,7 +263,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN NEPUBLIK INDONESIA
+**PRESIDEN NEPUBLIK INDONESIA**
 
 - (3) Izin sebagaimana dimaksud pada ayat (2) huruf c terdiri atas:
 - b. IUPK;
@@ -274,7 +280,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 13. 8 Penjelasan Pasal 38 huruf a diubah sebagaimana tercantum dalam penjelasan.
 14. 9 Ketentuan huruf f Pasal 47 diubah dan setelah huruf g ditambahkan I (satu) huruf, yakni huruf h sehingga Pasal 47 berbunyi sebagai berikut:
 
-## Pasd 47
+**Pasd 47**
 
 Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat (1) huruf b diberikan dengan ketentuan:
 
@@ -283,7 +289,7 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INOONESIA
+**FRESIDEN REPUBLIK INOONESIA**
 
 - c. untuk Pertambangan Mineral bukan logam jenis tertentu paling lama 20 (dua puluh) tahun dan dijamin memperoleh perpanjangan 2 (dua) kali masing-masing 10 (sepuluh) tahun setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
 - e. untuk Pertambangan Batubara paling lama 20 (dua puluh) tahun dan dijamin memperoleh perpanjangan 2 (dua) kali masing-masing lO (sepuluh) tahun setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
@@ -296,11 +302,11 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 
 <!-- image -->
 
-## iiIiFEIEtrN REPUBLIK TNDONESIA
+**iiIiFEIEtrN REPUBLIK TNDONESIA**
 
 10. Ketentuan Pasal 51 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 51
+### Pasal 51 ^pasal-51
 
 - (l) WIUP Mineral logam diberikan kepada Badan Usaha, koperasi, perusahaan perseorangan, badan usaha kecil dan menengah, atau badan usaha yang dimiliki oleh organisasi kemasyarakatan keagamaan dengan cara lelang atau dengan cara pemberian prioritas.
 - (21 Lelang WIUP Mineral logam sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mempertimbangkan:
@@ -320,12 +326,12 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 
 <!-- image -->
 
-## PRESIDEN NEPUBLTK INDONESIA
+**PRESIDEN NEPUBLTK INDONESIA**
 
 - (6) Ketentuan lebih lanjut mengenai pemberian WIUP Mineral logam dengan cara lelang atau dengan cara prioritas sebagaimana dimaksud pada ayat (l) sampai dengan ayat (5) diatur dengan atau berdasarkan Peraturan Pemerintah.
 11. Di antara Pasal 51 dan Pasal 52 disisipkan 2 (dua) pasal, ya}ni Pasal 51A dan Pasal 51El sehingga berbunyi sebagai berikut:
 
-## Pasal 5lA
+**Pasal 5lA**
 
 - (l) Dalam rangka meningkatkan kemandirian dan keunggulan perguruan tinggi, Pemerintah Pusat memberikan WIUP Mineral logam dengan cara prioritas untuk kepentingan perguruan tinggi kepada BUMN, badan usaha milik daerah, atau Badan Usaha swasta,
 - (21 Pemberian WIUP Mineral logam dengan cara prioritas sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mempertimbangkan :
@@ -338,11 +344,11 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -L7 -
 
-## Pasal 51B
+**Pasal 51B**
 
 - (1) WIUP Mineral logam dalam rangka hilirisasi dapat diberikan kepada BUMN dan Badan Usaha swasta dengan cara prioritas.
 2. (21 Pemberian dengan cara prioritas sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mempertimbangkan:
@@ -353,7 +359,7 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 - (3) Ketentuan lebih lanjut mengenai pemberian WIUP Mineral logam dengan cara prioritas dalam rangka hilirisasi sebagaimana dimaksud pada ayat (1) dan ayat (21 diatur dengan atau berdasarkan Peraturan Pemerintah.
 12. Ketentuan Pasal 60 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 60
+### Pasal 60 ^pasal-60
 
 - (1) WIUP Batubara diberikan kepada Badan Usaha, koperasi, perusahaan perseorangan, badan usaha kecil dan menengah, atau badan usaha yang dimiliki oleh organisasi kemasyarakatan keagamaan dengan cara lelang atau dengan cara pemberian prioritas.
 2. l2l Lelang WIUP Batubara sebagaimana dimalsud pada ayat (1) dilaksanakan dengan mempertimbangkan:
@@ -367,7 +373,7 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 
 <!-- image -->
 
-## PRESIDEN EEPUBLIK INDONESIA
+**PRESIDEN EEPUBLIK INDONESIA**
 
 - c. penguatan fungsi ekonomi organisasi kemasyarakatan keagamaan; dan
 - d. peningkatan perekonomian daerah.
@@ -378,7 +384,7 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 - (6) Ketentuan lebih lanjut mengenai pemberian WIUP Batubara dengan cara lelang atau dengan cara prioritas sebagaimana dimaksud pada ayat (1) sampai dengan ayat (5) diatur dengan atau berdasarkan Peraturan Pemerintah.
 13. Di antara Pasal 60 dan Pasal 6l disisipkan 2 (dua) pasal, yakni Pasal 6OA dan Pasal 608 sehingga berbunyi sebagai berikut:
 
-## Pasal 6OA
+**Pasal 6OA**
 
 - (1) Dalam rangka meningkatkan kemandirian dan keunggulan perguruan tinggi, Pemerintah Pusat memberikan WIUP Batubara dengan cara prioritas untuk kepentingan perguruan tinggi kepada BUMN, badan usaha milik daerah, atau Badan Usaha swasta.
 2. (21 Pemberian WIUP Batubara dengan cara prioritas sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mempertimbangkan:
@@ -390,13 +396,13 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 
 <!-- image -->
 
-## FRESIDEN REPUEUK TNDONESIA
+**FRESIDEN REPUEUK TNDONESIA**
 
 - (3) BUMN, badan usaha milik daerah, atau Badan Usaha swasta yang mendapatkan WIUP Batubara dengan cara prioritas untuk kepentingan perguruan tinggi sebagaimana dimaksud pada ayat (l) memberikan sebagian keuntungan kepada perguruan tinggi sesuai dengan perjanjian kerja sama.
 - (4) Dalam rangka akuntabilitas keuangan, Badan Pemeriksa Keuangan melakukan pemeriksaan keuangan terhadap BUMN, badan usaha milik daerah, Badan Usaha swasta, dan perguruan tinggi sebagaimana dimaksud pada ayat (3) secara berkala.
 - (5) Ketentuan lebih lanjut mengenai pemberian WIUP Batubara dengan cara prioritas kepada BUMN, badan usaha milik daerah, atau Badan Usaha swasta dan pemberian 5glagian keuntungan kepada perguruan tinggi sebagaimana dimaksud pada ayat (l) sampai dengan ayat l4l diatur dengan atau berdasarkan Peraturan Pemerintah.
 
-## Pasal 6O8
+**Pasal 6O8**
 
 - (1) WIUP Batubara dalam rangka hilirisasi dapat diberikan kepada BUMN dan Badan Usaha swasta dengan cara prioritas.
 2. (21 Pemberian dengan cara prioritas sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mempertimbangkan:
@@ -410,13 +416,13 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 
 <!-- image -->
 
-## PRESIDEN IIEPUBLIK INDONESIA
+**PRESIDEN IIEPUBLIK INDONESIA**
 
 -20 -
 
 14. Ketentuan PasaT 74 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 74
+### Pasal 74 ^pasal-74
 
 - (1) IUPK diberikan oleh Pemerintah Pusat dengan memperhatikan kepentingan daerah.
 2. (21 IUPK sebagaimana dimaksud pada ayat (1) diberikan untuk I (satu) jenis Mineral logam atau Batubara dalam I (satu) WIUPK.
@@ -427,7 +433,7 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 7. (71 IUPK untuk Mineral lain sebagaimana dimaksud pada ayat (4) dan ayat (5) dapat diberikan kepada pihak lain oleh Pemerintah Pusat.
 15. Ketentuan Pasal 75 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 75
+### Pasal 75 ^pasal-75
 
 - (1) Pemberian IUPK sebagaimana dimaksud dalam Pasal 74 ayat (l) dilakukan berdasarkan pertimbangan sebagaimana dimaksud dalam Pasal 28.
 
@@ -453,7 +459,7 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 - (71 Ketentuan lebih lanjut mengenai pemberian WIUPK dengan cara prioritas dan lelang sebagaimana dimaksud pada ayat (5) diatur dengan atau berdasarkan Peraturan Pemerintah.
 16. Di antara Pasal 75 dan Pasal 76 disisipkan I (satu) pasal, yakni Pasal 75A sehingga berbunyi sebagai berikut:
 
-## Pasal 75A
+**Pasal 75A**
 
 - (l) Dalam rangka meningkatkan kemandirian dan keunggulan perguruan tinggi, Pemerintah Pusat memberikan WIUPK dengan cara prioritas untuk kepentingan perguruan tinggi kepada BUMN, badan usaha milik daerah, atau Badan Usaha swasta.
 
@@ -468,7 +474,7 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 - (5) Ketentuan lebih lanjut mengenai pemberian WIUPK dengan cara prioritas kepada BUMN, badan usaha milik daerah, atau Badan Usaha swasta dan pemberian sebagian keuntungan kepada perguruan tinggi sebagaimana dimaksud pada ayat (l) sampai dengan ayat (4) diatur dengan atau berdasarkan Peraturan Pemerintah.
 17. Ketentuan Pasal 100 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal l0O
+**Pasal l0O**
 
 - (l) Pemegang IUP atau IUPK wajib menyediakan dan menempatkan dana jaminan Reklamasi dan/atau dana jaminan Pascatambang yang besaran nilainya ditetapkan oleh Menteri.
 - (2) Dalam rangka memastikan pelaksanaan Reklamasi dan pelindungan dampak Pascatambang bagl masyarakat dan daerah, Menteri melibatkan Pemerintah Daerah.
@@ -476,18 +482,18 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (4) Ketentuan sebagaimana dimaksud pada ayat (3) diberlakukan apabila pemegang IUP atau IUPK tidak melaksanakan Reklamasi dan/atau Pascatambang sesuai dengan rencana yang telah disetujui.
 18. Ketentuan Pasal 1O4A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal lO4A
+**Pasal lO4A**
 
 - (1) Dalam rangka peningkatan nilai tambah Mineral dan/atau Pengembangan dan/atau Pemanfaatan Batubara, Pemerintah Pusat dapat memberikan penugasan kepada lembaga riset negara, lembaga riset daerah, BUMN, badan usaha milik daerah, atau Badan Usaha swasta untuk melakukan Penyelidikan dan Penelitian dan/ atau kegiatan pengembangan proyek pada wilayah penugasan.
 2. (21 BUMN, badan usaha milik daerah, atau Badan Usaha swasta yang telah melakukan Penyelidikan dan Penelitian dan/ atau kegiatan dalam rangka pengembangan proyek pada wilayah penugasan mendapatkan hak menyamai penawaran dalam lelang WIUP atau WIUPK Mineral dan/ atau WIUP atau WIUPK Batubara.
 19. Ketentuan ayat (l) dan ayat (3) Pasal 108 diubah sehingga Pasal 108 berbunyi sebagai berikut:
 
-## Pasal 108
+### Pasal 108 ^pasal-108
 
 - (l) Pemegang IUP dan IUPK wajib menyusun program pengembangan dan pemberdayaan masyarakat yang terdiri atas:
 - b. pelibatan masyarakat lokal dan masyarakat adat yang berada di WP dalam kegiatan Pertambangan; dan
@@ -498,7 +504,7 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 
 <!-- image -->
 
-## EIiEEIEtrN PEPUBLIK INDONESIA
+**EIiEEIEtrN PEPUBLIK INDONESIA**
 
 -24 -
 
@@ -506,7 +512,7 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 - (3) Penyusunan program sebagaimana dimaksud pada ayat (1) dikonsultasikan kepada Menteri, Pemerintah Daerah, dan masyarakat lokal dan/atau masyarakat adat.
 - 2O. Setelah huruf i ayat (3) Pasal L24 ditambahkan I (satu) huruf, yakni hurufj sehingga Pasal 124 berbunyi sebagai berikut:
 
-## Pasal 124
+### Pasal 124 ^pasal-124
 
 - (1) Pemegang IUP atau IUPK wajib perusahaan Jasa Pertambangan nasional. lokal dan/atau
 2. (21 Dalam hal tidak terdapat perusahaan Jasa Pertambangan sebagaimana dimaksud pada ayat (1), pemegang IUP atau IUPK dapat menggunakan perusahaan Jasa Pertambangan yang berbadan hukum Indonesia dalam rangka penanaman modal asing.
@@ -527,19 +533,19 @@ Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -25 -
 
 21. Di antara Pasal 141A dan Pasal 142 disisipkan I (satu) pasal, yakni Pasal 141El sehingga berbunyi sebagai berikut:
 
-## Pasal 1418
+### Pasal 1418 ^pasal-1418
 
 Dalam rangka pelaksanaan pembinaan dan pengawasan, sebagian penerimaan negara bukan pajak yang diperoleh dalam pelaksanaan kegiatan usaha Pertambangan Mineral dan Batubara dikelola oleh Menteri sesuai dengan ketentuan peraturan perundang-undangan.
 
 22. Ketentuan ayat (1) Pasal 151 diubah sehingga Pasal 151 berbunyi sebagai berikut:
 
-## Pasal 151
+### Pasal 151 ^pasal-151
 
 - (1) Menteri berhak memberikan sanksi administratif kepada pemegang IUP, IUPK, IPR, SIPB, atau IUP untuk Penjualan atas pelanggaran ketentuan sebagaimana dimaksud dalam Pasal 5 ayat (3), Pasal 36A, Pasal 41, Pasal 52 ayat (4), Pasal 55 ayat (4), Pasal 58 ayatl4l, Pasal 61 ayat(41, Pasal 70, Pasal 70A, Pasal 71 ayat (l), Pasal 74 ayat (4) dan ayat (6), Pasal 86F, Pasal 86G huruf b, Pasal 9l ayat (1), Pasal 93A, Pasal 93C, Pasal 95, Pasal 96, Pasal 97, Pasal 98, Pasal 99 ayat (l), ayat (3), dan ayat l4l, Pasal lO0 ayat (1), Pasal lOlA, Pasal 102 ayat (1), Pasal lO3 ayat (1), Pasal 105 ayat (l) dan ayat(41, Pasal 106, Pasal 107, Pasal lO8 ayat (l) dan ayat (21, Pasal 110, Pasal 111 ayat (l), Pasal 112 ayat (1), Pasal 112A ayat (1), Pasal 114 ayat l2), Pasal 115 ayatl2l, Pasal 123, Pasal l23A ayat (1) dan ayat (2), Pasal 124 ayat (l), Pasal 125 ayat (3), Pasal 126 ayat (1), Pasal 128 ayat (1), Pasal 129 ayat (l), Pasal 130 ayat(21, atau Pasal 136 ayat (l).
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
@@ -550,13 +556,13 @@ Dalam rangka pelaksanaan pembinaan dan pengawasan, sebagian penerimaan negara bu
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -26 -
 
 23. Ketentuan ayat (1) Pasal 169A diubah dan di antara ayat (l) dan ayat (2) disisipkan 1 (satu) ayat, yakni ayat (1a) sehingga Pasal 169A berbunyi sebagai berikut:
 
-## Pasal 169A
+**Pasal 169A**
 
 - (1) KK dan PKP2B sebagaimana dimaksud dalam Pasal 169 dapat diberikan perpanjangan menjadi IUPK sebagai Kelanjutan Operasi Kontrak/ Perjanjian setelah memenuhi persyaratan dengan ketentuan:
 - b. kontrak/perjanjian yang telah memperoleh perpanjangan pertama dapat diberikan perpanjangan kedua dalam bentuk IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian untuk jangka waktu paling lama 1O (sepuluh) tahun sebagai kelanjutan operasi setelah berakhirnya perpanjangan pertama KK atau PKP2B dengan mempertimbangkan upaya peningkatan penerimaan negara.
@@ -570,7 +576,7 @@ Dalam rangka pelaksanaan pembinaan dan pengawasan, sebagian penerimaan negara bu
 
 <!-- image -->
 
-## PR,ESIDEN REPUBLIK TNDONESIA
+**PR,ESIDEN REPUBLIK TNDONESIA**
 
 -27 -
 
@@ -579,7 +585,7 @@ Dalam rangka pelaksanaan pembinaan dan pengawasan, sebagian penerimaan negara bu
 - (5) Pemegang IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian untuk komoditas tambang Batubara yang telah melaksanakan kewajiban Pengembangan dan/atau Pemanfaatan Batubara secara terintegrasi di dalam negeri sesuai dengan rencana pengembangan seluruh wilayah perjanjian yang disetujui Menteri diberikan perpanjangan selama 10 (sepuluh) tahun setiap kali perpanjangan setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
 24. Di antara Pasal l71A dan Pasal 172 disisipkan 2 (dua) pasal, yakni Pasal lTlB dan Pasal 171C sehingga berbunyi sebagai berikut:
 
-## Pasal l71B
+**Pasal l71B**
 
 - (1) ruP yang diterbitkan sebelum berlakunya Undang-Undang ini dan terdapat permasalahan tumpang tindih sebagian atau seluruh WIUP-nya berdasarkan hasil evaluasi Pemerintah Pusat, dicabut dan dikembalikan kepada negara.
 - 12) Tumpang tindih sebrgian atau seluruh WIUP sebagaimana dimaksud pada ayat (1) meliputi:
@@ -588,41 +594,41 @@ Dalam rangka pelaksanaan pembinaan dan pengawasan, sebagian penerimaan negara bu
 
 <!-- image -->
 
-## PRESTDEN R,EPUBLIK INDONESIA
+**PRESTDEN R,EPUBLIK INDONESIA**
 
 - c. tumpang tindih IUP dengan IUP lain yang dikeluarkan Pemerintah Pusat atau Pemerintah Daerah untuk komoditas Pertambangan yang sama.
 - (3) Dalam rangka akuntabilitas dan kepastian hukum Usaha Pertambangan, Pemerintah Pusat menyampaikan hasil evaluasi, pencabutan, dan pengembalian sebagaimana dimaksud pada ayat (1) secara terbuka dan memberikan kesempatan untuk klarifikasi dalam jangka waktu paling lambat 14 (empat belas) hari terhitung sejak penyampaian hasil evaluasi, pencabutan, dan pengembalian IUP.
 - (4) Ketentuan lebih lanjut mengenai permasalahan tumpang tindih sebagian atau seluruh WIUP, hasil evaluasi Pemerintah Pusat, pencabutan, dan pengembalian IUP sebagaimana dimaksud pada ayat (1) sampai dengan ayat (3) diatur dengan atau berdasarkan Peraturan Pemerintah.
 
-## Pasal l71C
+**Pasal l71C**
 
 Terhadap IUP, IUPK, IPR, dan SIPB yang diterbitkan sebelum berlakunya Undang-Undang ini dan tidak memenuhi kewajiban danlatau tidak melaksanakan kegiatan sesuai dengan ketentuan peraturan perundang-undangan, seluruh atau sebaglan wilayahnya dapat dilakukan penataan dan pemanfaatan wilayah sesuai dengan hasil evaluasi Menteri.
 
 25. Ketentuan Pasal 172B diubah sehingga berbunyi sebagai berikut:
 
-## Pasal l72B
+**Pasal l72B**
 
 - (1) WIUP, WIUPK, atau WPR yang telah diberikan izin dalam bentuk IUP, IUPK, atau IPR wajib didelineasi sesuai dengan pemanfaatan ruang dan kawasan untuk kegiatan Usaha Pertambangan sesuai dengan ketentuan peraturan perundang-undangan.
 2. l2l Pemerintah Pusat dan Pemerintah Daerah menjamin tidak ada perubahan pemanfaatan ruang dan kawasan sebagaimana dimaksud pada ayat (1) pada WIUP, WIUPK, atau WPR yang telah diberikan izin sepanjang tidak bertentangan dengan ketentuan peraturan perundang-undangan.
 
 <!-- image -->
 
-## PRESIDEN NEPUBLIK INDONESIA
+**PRESIDEN NEPUBLIK INDONESIA**
 
 26. Ketentuan Pasal l73A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 173A
+**Pasal 173A**
 
 Ketentuan dalam Undang-Undang ini berlaku bagi seluruh provinsi di wilayah Negara Kesatuan Republik Indonesia sepanjang tidak diatur secara khusus dalam Undang-Undang yang mengatur keistimewaan dan kekhususan daerah tersebut.
 
 27. Ketentuan Pasal 174 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 174
+### Pasal 174 ^pasal-174
 
 - (1) Peraturan pelalsanaan Undang-Undang ini harus telah ditetapkan dalam waktu paling lambat 6 (enam) bulan sejak Undang-Undang ini mulai berlaku.
 2. (21 Pemerintah Pusat,. Dewan Perwakilan Ralryat Republik Indonesia melalui alat kelengkapan yang menangani bidang legislasi, dan Dewan Perwakilan Daerah Republik Indonesia melalui alat kelengkapan yang menangani bidang perancangan undang-undang wajib melalukan pemantauan dan peninjauan terhadap pelaksanaan Undang-Undang ini 2 (dua) tahun setelah Undang-Undang ini berlaku sesuai dengan ketentuan peraturan perundang-undangan.
 
-## Pasal II
+**Pasal II**
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
@@ -646,7 +652,7 @@ Bidang Perundang-undangan dan Administrasi Hukum
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -30-
 
@@ -662,13 +668,13 @@ PRABOWO SUBIANTO
 
 <!-- image -->
 
-## PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 2 TAHUN 2025 TENTANG
+## Penjelasan
 
-## PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 4 TAHUN 2OO9
+### I. Umum
 
-## TENTANG PERTAMBANGAN MINERAL DAN BATUBARA
+**PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 4 TAHUN 2OO9**
 
-## I. UMUM
+**TENTANG PERTAMBANGAN MINERAL DAN BATUBARA**
 
 Mineral dan Batubara yang berada di dalam wilayah Negara Kesatuan Republik Indonesia merupakan kekayaan sumber daya alam yang tidak terbarukan sebagai karunia Tuhan Yang Maha Esa. Pengelolaan Mineral dan Batubara dikuasai oleh negara untuk meningkatkan nilai tambah bagi perekonomian nasional. Hal ini bertujuan untuk mewujudkan kemakmuran dan kesejahteraan ralgrat secara berkeadilan sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, terutama dalam ketentuan Pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 yang menyatakan bahwa "Bumi dan air d.an kekagaan alam Vang terkandung di dalamnga dikuasai oleh negara dan diperyunakan unfitk sebesar-besar kemakmuran rakgat". Untuk dapat bersaing pada tingkat nasional, regional, dan internasional, kegiatan hilirisasi pertambangan sebagai salah satu penggerak pertumbuhan perekonomian nasional memerlukan penguatan dan kepastian pasokan bahan baku secara efektif, efisien, berkelanjutan, dan benrawasan lingkungan. Hilirisasi merupakan langkah awal perubahan Indonesia dari negara berkembang menjadi negara industri maju. Hilirisasi Pertambangan Mineral dan Batubara merupakan suatu proses yang dilakukan untuk memberikan nilai tambah dari bahan mentah yang ditambang dari perut bumi sehingga memberikan manfaat ekonomi yang lebih besar dan menciptakan ekosistem industri yang berkelanjutan dan mandiri. Kebijakan kegiatan hilirisasi dalam Undang-Undang ini harus diperkuat pengaturannya sebagai salah satu cara untuk meraih target menuju Indonesia Emas 2045. Untuk itu, kegiatan hilirisasi dilaksanakan dengan memperkuat Penyelidikan dan Penelitian untuk optimalisasi Eksplorasi Mineral dan Batubara. Selain itu, pengelolaan kegiatan hilirisasi perlu mengakselerasi keterlibatan berbagai pihak yang telah berkontribusi
 
@@ -676,7 +682,7 @@ bagi peningkatan perekonomian nasional.
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 Keberadaan Undang-Undang Nomor 4 Tahun 2OO9 tentang Pertambangan Mineral dan Batubara sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (selanjutnya disebut Undang-Undang tentang Pertambangan Mineral dan Batubara), perlu dilakukan perbaikan sebagai pelaksanaan Putusan Mahkamah Konstitusi Nomor 64/PUU-XVIII/2O2O dan Putusan Mahkamah Konstitusi Nomor 37 IPUU-YJX/2O2L sefta penyesuaian dengan kebutuhan hukum masyarakat sehingga Undang-Undang ini dapat dilaksanakan serta memiliki kedayagunaan dan kehasilgunaan dalam menjawab tantangan Pertambangan Mineral dan Batubara pada masa kini dan masa depan.
 
@@ -699,7 +705,7 @@ Berdasarkan hal tersebut, perlu dilakukan penyempurnaan terhadap Undang-Undang t
 
 Dengan penyempurnaan beberapa materi muatan dalam Undang-Undang ini, diharapkan pengelolaan Pertambangan Mineral dan Batubara dapat meningkatkan nilai tambah, mengakselerasi keterlibatan badan usaha kecil dan menengah, dan organisasi kemasyaralatan keagamaan, serta peningkatan kemandirian dan keunggulan perguruan tinggi dalam meningkatlan alses dan layanan pendidikan bagi masyarakat, serta untuk meningkatkan perekonomian nasional.
 
-## U. PASAL DEMI PASAL
+**U. PASAL DEMI PASAL**
 
 ```
 Pasal I Angka I Pasal 1 Cukup jelas. Ang)<a2 Pasal 5 Ayat (1) Cukup jelas. Ayat (2)
@@ -719,11 +725,11 @@ Ayat (3) strategis nasional.
 Ayat (4) Cukup jelas. Angka 3 Pasal 17 Cukup jelas. Angka 4 Pasal 17A Cukup jelas. Angka 5 Pasal22A Cukup jelas. Angka 6 Pasal 31A Cukup jelas. Angka 7 Pasal 35 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Huruf a Cukup jelas. Hurufb Cukup jelas. Huruf c Cukup jelas.
 ```
 
-## Angka 8
+**Angka 8**
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK TNDONESIA
+**PRESIDEN REFUBLIK TNDONESIA**
 
 Hurufd
 
@@ -745,7 +751,7 @@ Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Sistem Perizinan Berusaha t
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 15 Pasal 75 Cukup jelas. Angka 16 Pasal 75A Cukup jelas. Angka 17 Pasal 100 Cukup jelas. Angka 18 Pasal lO4A Cukup jelas. Angka 19 Pasal lO8 Cukup jelas. Angka 2O Pasal 124 Cukup jelas. Angka 21 Pasal 14lB Cukup jelas. Angl<a22 Pasal 151 Cukup jelas. Angka 23 Pasal 169A Ayat (1) Cukup jelas.
@@ -767,4 +773,4 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 71OO
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**

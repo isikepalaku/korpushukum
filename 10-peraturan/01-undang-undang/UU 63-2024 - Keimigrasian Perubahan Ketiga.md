@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan Ketiga UU Keimigrasian
+**Perubahan Ketiga UU Keimigrasian**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -38,15 +44,15 @@ Mengingat
 
 <!-- image -->
 
-## UNDANG-UNDANG REPUBLIK INDONESI,A NOMOR 63 TAHUN 2024
+**UNDANG-UNDANG REPUBLIK INDONESI,A NOMOR 63 TAHUN 2024**
 
-## TENTANG
+**TENTANG**
 
-## PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 2011 TENTANG KEIMIGRASIAN
+**PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 2011 TENTANG KEIMIGRASIAN**
 
-## DENGAN RAHMAT TUHAN YANG MAHA ESA
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
-## PRESIDEN REPUBLIK INDONESI,A,
+**PRESIDEN REPUBLIK INDONESI,A,**
 
 - a- bahwa penyelenggaraan keimigrasian unhrk mewujudkan kedaulatan negara atas wilayah Indonesia yang melindungi segenap bangsa Indonesia dan seluruh hrmpah daratr Indonesia berdasarka' pancasila dan undang-Undang Dasar Negara Republik Indonesia Tatrun 1945;
 - b. bahwa untuk memberikan kepastian hukum bagi Warga Negara Indonesia dan orang asing, perlu meningkatkan fungsi keimigrasian;
@@ -59,23 +65,23 @@ Mengingat
 
 -2-
 
-## Dengan Persetujuan Bersama
+**Dengan Persetujuan Bersama**
 
-## DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan
+**DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan**
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
-## MEMUTUSKAN:
+**MEMUTUSKAN:**
 
 Menetapkan UNDANG-UNDANG TENTANG PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 2OLI TENTANG KEIMIGRASIAN.
 
-## Pasal I
+**Pasal I**
 
 tseberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 20ll tentang Keimigrasian (Lembaran Negara Republik Indonesia Tahun 2oll Nomor 52, Tambahan Lembaran Negara Republik Indonesia Nomor 52L61 sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856) diubah sebagai berikut:
 
 1. Ketentuan Pasal 3 ditambah 1 (satu) ayat, yakni ayat (4) sehingga Pasal 3 berbunyi sebagai berikut:
 
-## Pasal 3
+### Pasal 3 ^pasal-3
 
 - (1) Untuk melaksanakan Fungsi Keimigrasian, Pemerintah menetapkan kebijakan Keimigrasian.
 - (2) Kebijakan Keimigrasian dilaksanakan oleh Menteri.
@@ -86,7 +92,7 @@ tseberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 20ll tentang Keimigrasian 
 
 2. Ketentuan huruf b ayat (1) Pasal 16 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 16
+### Pasal 16 ^pasal-16
 
 - (1) Pejabat Imigrasi menolak orErng untuk keluar Wilayah Indonesia dalam hal orang tersebut:
 - a. tidak memiliki Dokumen Perjalanan yang sah dan masih berlaku;
@@ -95,13 +101,13 @@ tseberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 20ll tentang Keimigrasian 
 5. (21 Pejabat Imigrasi juga berwenang menolak Orang Asing untuk keluar Wilayah Indonesia dalam hal Orang Asing tersebut masih mempunyai kewajiban di Indonesia yang harus diselesaikan sesuai dengan ketentuan peraturan perundang-undangan.
 3. Di antara Pasal 24 dan Pasal 25 disisipkan 1 (satu) pasal, yakni Pasal 24A sehingga berbunyi sebagai berikut:
 
-## Pasal 24A
+**Pasal 24A**
 
 Dokumen Perjalanan Republik Indonesia sebagaimana dimaksud dalam Pasal 24 ayat (2) dan ayat (3) huruf a dan huruf c merupakan dokumen negara yang menjadi bukti kewarganegara€rn Indonesia.
 
 4. Ketentuan ayat (3) Pasal 64 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 64
+### Pasal 64 ^pasal-64
 
 - (1) Izin Masuk Kembali diberikan kepada Orang Asing pemegang lzin Tinggal terbatas atau Izin Tinggal Tetap.
 2. (21 Pemegang lzin Tinggal terbatas diberikan lzin Masuk Kembali yang masa berlakunya sama dengan masa berlaku Izin Tinggal terbatas.
@@ -112,14 +118,14 @@ Dokumen Perjalanan Republik Indonesia sebagaimana dimaksud dalam Pasal 24 ayat (
 
 5. Ketentuan Pasal 72 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal72
+**Pasal72**
 
 - (1) Pejabat Imigrasi dan/atau pejabat Kepolisian Negara Republik Indonesia yang bertugas dapat meminta keterangan dari setiap or€rng yang memberi kesempatan menginap kepada Orang Asing mengenai data Orang Asing yang bersangkutan.
 2. (21 Pemilik atau pengurus tempat penginapan wajib memberikan data mengenai Orang Asing yang menginap di tempat penginapannya jika diminta oleh Pejabat Imigrasi dan/atau pejabat Kepolisian Negara Republik Indonesia yang bertugas.
 - (3) Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1) dan ayat (2) Pejabat Imigrasi dan pejabat Kepolisian Negara Republik Indonesia saling berkoordinasi.
 6. Ketentuan ayat (1) Pasal 97 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 97
+### Pasal 97 ^pasal-97
 
 - (1) Jangka waktu Pencegahan berlaku paling lama 6 (enam) bulan dan dapat diperpanjang paling lama 6 (enam) bulan.
 - (2) Dalam hal tidak ada keputusan perpanjanga.n masa Pencegahan, Pencegahan berakhir demi hukum.
@@ -129,20 +135,20 @@ Dokumen Perjalanan Republik Indonesia sebagaimana dimaksud dalam Pasal 24 ayat (
 
 7. Ketentuan ayat (1) Pasal 102 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 102
+### Pasal 102 ^pasal-102
 
 - (1) Jangka waktu Penangkalan berlaku paling lama 10 (sepuluh) tahun dan dapat diperpanjang paling lama 10 (sepuluh) tahun.
 - (2) Dalam hal tidak ada keputusan perpanjangan masa Penangkalan, Penangkalan berakhir demi hukum.
 - (3) Keputusan Penangkalan seumur hidup dapat dikenakan terhadap Orang Asing yang dianggap dapat mengganggu keamanan dan ketertiban umum.
 8. Ketentuan Pasal 103 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 103
+### Pasal 103 ^pasal-103
 
 Ketentuan lebih lanjut mengenai pelaksanaan Pencegahan dan Penangkalan diatur dengan Peraturan Menteri.
 
 9. Ketentuan Pasal 117 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 17
+**Pasal 1 17**
 
 Pemilik atau pengurus tempat penginapan yang tidak memberikan keterarlgan atau tidak memberikan data Orang Asing yang menginap di rumah atau di tempat penginapErnnya setelah diminta oleh Pejabat Imigrasi dan/atau pejabat Kepolisian Negara Republik Indonesia yang bertugas sebagaimana dimaksud dalam Pasal 72 ayat (21dipidana dengan pidana kurungan paling lama 3 (tiga) bulan atau pidana denda paling banyak Rp25.000.000,00 (dua puluh lima juta rupiah).
 
@@ -150,14 +156,14 @@ Pemilik atau pengurus tempat penginapan yang tidak memberikan keterarlgan atau t
 
 10. Ketentuan Pasal 137 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 137
+### Pasal 137 ^pasal-137
 
 - (1) Dana untuk melaksanakan fungsi dan pelaksanaan Keimigrasian bersumber dari:
 - a. Anggaran Pendapatan dan Belanja Negara; dan/atau
 - b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.
 - (2) Ketentuan mengenai sumber lain yang sah sebagaimana dimaksud pada ayat (1) huruf b diatur dengan Peraturan Presiden.
 
-## Pasal II
+**Pasal II**
 
 - Pemerintah dan Dewan Perwakilan Rakyat melalui alat kelengkapan yang menangani bidang legislasi wajib melakukan pemantauan dan peninjauan terhadap pelaksanaan Undang-Undang ini paling lambat 2 (dua) tahun setelah Undang-Undang ini berlaku berdasarkan mekanisme yang diatur dalam UndangUndang mengenai Pembentukan Peraturan Perundang-undangan. 1
 2. Undang-Undang ini mulai berlaku pada tanggal diundangkan.
@@ -184,7 +190,7 @@ ttd.
 
 PRATIKNO
 
-## LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 227
+**LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 227**
 
 Salinan sesuai dengan aslinya KEMENTERIAN SEKRETARIAT NEGARA
 
@@ -192,7 +198,7 @@ INDONESIA
 
 <!-- image -->
 
-## I. UMUM
+**I. UMUM**
 
 Undang-undang Dasar Negara Republik Indonesia Tahun l94s mengatur bahwa negara Indonesia adalah negara hukum. Negara Indonesia sebagai negara hukum berkonsekuensi bahwasanya setiap aspek dalam penyelenggaraan pemerintahan dan kehidupan kemasyarakatan dan kebangsaan negara Indonesia haruslah berdasarkan atas hukum yang diejawantahkan dengan suatu sistem hukum nasional yang berinduk paaa konstitusi yakni Undang-Undang Dasar Negara Repuutit Indonesia Tahun 1945.
 
@@ -202,9 +208,11 @@ Dalam pelaksanaannya, Undang-Undang Nomor 6 Tahun 2orl tentang Keimigrasian meru
 
 <!-- image -->
 
-## PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 63 TAHUN 2024 TENTANG PERUBAHAN KETIGA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 2OII
+## Penjelasan
 
-## TENTANG KEIMIGRASIAN
+### I. Umum
+
+**TENTANG KEIMIGRASIAN**
 
 <!-- image -->
 
@@ -214,7 +222,7 @@ Adanya kebutuhan yang nyata dan mendesak dalam implementasi fungsi dan pelaksana
 
 II.PASAL...
 
-## II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
 ```
 Pasal I Angka 1 Pasal 3 Ayat (1) Fungsi Keimigrasian dalam ketentuan ini adalah sebagian dari tugas penyelenggaraan negara di bidang pelayanan dan pelindungan masyarakat, penegakan hukum Keimigrasian, serta fasilitator penunjang pembangunan ekonomi nasional. Ayat (2) Cukup jelas. Ayat (3) Fungsi Keimigrasian di sepanjang garis perbatasan sesuai dengan tugasnya sebagai penjaga pintu gerbang negara, bukan penjaga garis batas negara. Ayat (a) Cukup jelas. Angka 2 Pasal 16 Ayat (1) Cukup jelas. Ayat (2) Ketentuan ini dimaksudkan untuk melindungi kepentingan nasional atau menghindari kerugian masyarakat, misalnya Orang Asing yang bersangkutan belum atau tidak mau menyelesaikan kewajiban pajaknya. Angka 3 Pasal 24A Cukup jelas

@@ -23,17 +23,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Produk Asuransi dan Saluran Pemasaran Produk Asuransi
+**Produk Asuransi dan Saluran Pemasaran Produk Asuransi**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/301700/peraturan-ojk-no-8-tahun-2024
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/301700/peraturan-ojk-no-8-tahun-2024)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -83,7 +88,6 @@ Penguatan Sektor Keuangan (Lembaran Negara
 Republik Indonesia Tahun 2023 Nomor 4, Tambahan
 Lembaran Negara Republik Indonesia Nomor 6845);
 
-
 -----
 
 2. Undang-Undang Nomor 40 Tahun 2014 tentang
@@ -104,7 +108,7 @@ ASURANSI.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
 dengan:
 1. Produk Asuransi adalah program jasa
@@ -142,7 +146,6 @@ dikeluarkan oleh lembaga yang memiliki kewenangan
 dalam penetapan fatwa di bidang syariah.
 7. Perusahaan Asuransi adalah perusahaan asuransi
 umum dan perusahaan asuransi jiwa.
-
 
 -----
 
@@ -200,7 +203,6 @@ telah memperoleh sertifikasi dari asosiasi yang
 membawahkan bidang aktuaria, yang ditunjuk dan
 bekerja secara penuh sebagai aktuaris pada
 
-
 -----
 
 Perusahaan Asuransi atau Perusahaan Asuransi
@@ -216,7 +218,7 @@ PRODUK ASURANSI
 Bagian Kesatu
 Jenis dan Kriteria Produk Asuransi
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Produk Asuransi yang dipasarkan oleh Perusahaan
 Asuransi dan Perusahaan Asuransi Syariah meliputi:
 a. program yang menjanjikan pelindungan terhadap
@@ -260,12 +262,11 @@ kemampuan principal dalam melakukan perjanjian
 sesuai perjanjian pokok antara _principal dan_
 _obligee;_ dan
 
-
 -----
 
 c. PAYDI.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 Produk Asuransi harus:
 a. memberikan pelindungan dari paling sedikit 1 (satu)
 jenis risiko yang dapat diasuransikan;
@@ -283,7 +284,7 @@ Peserta; dan/atau
 2. mempersulit Pemegang Polis, Tertanggung, atau
 Peserta mengurus haknya.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah yang menyelenggarakan PAYDI wajib setiap
 saat memenuhi ketentuan sebagai berikut:
@@ -320,7 +321,6 @@ melaksanakan pengelolaan aset dan liabilitas PAYDI
 mencakup:
 a. menetapkan kecukupan Premi/Kontribusi;
 
-
 -----
 
 b. mengalokasikan bagian Premi/Kontribusi untuk
@@ -344,7 +344,7 @@ PAYDI, serta pengelolaan aset dan liabilitas PAYDI
 sebagaimana dimaksud pada ayat (1) sampai dengan
 ayat (4) ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Produk Asuransi Bersama dilarang dirancang untuk
 dipasarkan dan ditanggung/dikelola risikonya melalui
 mekanisme kerja sama selain antara Perusahaan
@@ -375,11 +375,10 @@ bidang usaha yang sejenis dalam rangka penyebaran
 risiko untuk 1 (satu) objek pertanggungan yang bersifat
 kasus per kasus.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Penyelenggaraan Produk Asuransi Bersama
 sebagaimana dimaksud dalam Pasal 5 ayat (1) harus
 didasarkan pada perjanjian tertulis.
-
 
 -----
 
@@ -440,7 +439,6 @@ Syariah yang menyelenggarakan Produk Asuransi
 Bersama sesuai dengan perjanjian tertulis sebagaimana
 dimaksud pada ayat (2).
 
-
 -----
 
 (4) Dalam hal 1 (satu) atau lebih Perusahaan Asuransi atau
@@ -473,7 +471,7 @@ Perusahaan Asuransi Syariah yang mengakhiri
 kerja sama atau dikenai larangan untuk
 memasarkan Produk Asuransi Bersama.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Produk Asuransi Mikro harus memiliki karakteristik:
 
 a. sederhana;
@@ -484,7 +482,7 @@ d. segera.
 Mikro sebagaimana dimaksud pada ayat (1) ditetapkan
 oleh Otoritas Jasa Keuangan.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Produk Asuransi yang dapat dipasarkan oleh
 perusahaan asuransi umum dan perusahaan asuransi
 umum syariah merupakan Produk Asuransi
@@ -499,7 +497,6 @@ d, dan Pasal 2 ayat (2) huruf c.
 perusahaan asuransi umum dan perusahaan asuransi
 umum syariah merupakan Produk Asuransi
 sebagaimana dimaksud pada ayat (1), kecuali PAYDI
-
 
 -----
 
@@ -518,7 +515,7 @@ asuransi jiwa syariah sebagaimana dimaksud pada ayat
 (2), dapat diperluas dengan mengikuti perluasan ruang
 lingkup usaha asuransi.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 Perusahaan Asuransi dan Perusahaan Asuransi Syariah
 yang memasarkan Produk Asuransi kumpulan wajib
 memastikan bahwa Tertanggung/Peserta memiliki
@@ -526,7 +523,7 @@ hubungan kepentingan dengan Pemegang Polis dan/atau
 penerima manfaat atas objek, manfaat, atau risiko yang
 dipertanggungkan dalam Produk Asuransi kumpulan.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 Penyelenggaraan anuitas asuransi jiwa atau anuitas
 asuransi jiwa syariah untuk program dana pensiun oleh
 Perusahaan asuransi jiwa dan perusahaan asuransi jiwa
@@ -534,7 +531,7 @@ syariah wajib dilaksanakan sesuai dengan Peraturan
 Otoritas Jasa Keuangan mengenai penyelenggaraan dana
 pensiun.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah harus memberi nama untuk setiap Produk
 Asuransi yang dipasarkan.
@@ -561,7 +558,6 @@ Produk Asuransi jika nama Produk Asuransi tidak
 sesuai dengan ketentuan sebagaimana dimaksud pada
 ayat (1) sampai dengan ayat (3).
 
-
 -----
 
 (5) Perusahaan Asuransi dan Perusahaan Asuransi
@@ -571,7 +567,7 @@ Jasa Keuangan sebagaimana dimaksud pada ayat (4).
 Bagian Kedua
 Polis Asuransi
 
-Pasal 12
+### Pasal 12 ^pasal-12
 Perusahaan Asuransi dan Perusahaan Asuransi Syariah
 yang menyelenggarakan Produk Asuransi wajib menerbitkan
 Polis Asuransi yang paling sedikit memuat ketentuan
@@ -623,7 +619,6 @@ pengajuan klaim;
 n. tata cara dan jangka waktu penyelesaian dan
 pembayaran klaim;
 
-
 -----
 
 o. penyelesaian perselisihan paling sedikit memuat
@@ -639,7 +634,7 @@ r. periode mempelajari polis untuk Polis Asuransi yang
 memiliki periode lebih dari 1 (satu) tahun; dan
 s. periode menunggu jika ada.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 Selain ketentuan sebagaimana dimaksud dalam Pasal 12,
 Perusahaan Asuransi Syariah yang menyelenggarakan
 Produk Asuransi dengan Prinsip Syariah wajib menerbitkan
@@ -664,7 +659,7 @@ h. penggunaan Dana _Tabarru’, Dana_ _Tanahud, dan/atau_
 dana investasi Peserta sesuai dengan jenis akad yang
 digunakan.
 
-Pasal 14
+### Pasal 14 ^pasal-14
 Perusahaan Asuransi yang menyelenggarakan dan
 memasarkan Produk Asuransi Mikro wajib menerbitkan
 Polis Asuransi yang memuat ketentuan sebagaimana
@@ -672,7 +667,7 @@ dimaksud dalam Pasal 12 huruf a, huruf b, huruf c, huruf
 d, huruf f, huruf g huruf h, huruf l, huruf m, huruf n, huruf
 p, huruf q, dan huruf s.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 Perusahaan Asuransi Syariah yang menyelenggarakan dan
 memasarkan Produk Asuransi Mikro dengan Prinsip Syariah
 wajib menerbitkan Polis Asuransi yang memuat ketentuan
@@ -681,10 +676,9 @@ huruf c, huruf d, huruf f, huruf g, huruf h, huruf l, huruf m,
 huruf n, huruf p, huruf q, huruf s, dan Pasal 13 huruf a,
 huruf c, huruf d, huruf e, huruf f, huruf g, dan huruf h.
 
-
 -----
 
-Pasal 16
+### Pasal 16 ^pasal-16
 Selain ketentuan sebagaimana dimaksud dalam Pasal 12
 dan Pasal 13, Perusahaan Asuransi dan Perusahaan
 Asuransi Syariah yang menyelenggarakan dan memasarkan
@@ -692,7 +686,7 @@ PAYDI wajib mengikuti ketentuan Polis Asuransi untuk
 PAYDI sebagaimana dimaksud dalam ketentuan mengenai
 PAYDI.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Selain ketentuan sebagaimana dimaksud dalam Pasal
 12 dan Pasal 13, Perusahaan Asuransi dan Perusahaan
 Asuransi Syariah yang menyelenggarakan Produk
@@ -731,7 +725,7 @@ Syariah yang tergabung dalam penyelenggaraan
 Produk Asuransi Bersama terikat sesuai porsi
 risiko masing-masing.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 Dalam ketentuan Polis Asuransi yang mengatur mengenai
 penyelesaian perselisihan atas perjanjian asuransi yang
 dilakukan melalui pengadilan, Perusahaan Asuransi dan
@@ -740,10 +734,9 @@ ketentuan yang membatasi pemilihan pengadilan hanya
 pada pengadilan di tempat kedudukan Perusahaan Asuransi
 dan Perusahaan Asuransi Syariah.
 
-
 -----
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) Polis Asuransi harus ditulis dengan jelas sehingga
 dapat dibaca dengan mudah dan dimengerti oleh
 Pemegang Polis, Tertanggung, atau Peserta.
@@ -763,7 +756,7 @@ pengurangan, pembatasan, atau pembebasan
 kewajiban Perusahaan Asuransi atau Perusahaan
 Asuransi Syariah.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah yang memasarkan Produk Asuransi wajib:
 a. menerbitkan Polis Asuransi; dan
@@ -794,11 +787,10 @@ bentuk cetak dan diperkenankan untuk membebankan
 biaya pengiriman Polis Asuransi kepada Pemegang
 Polis, Tertanggung, atau Peserta.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Dalam pemasaran Produk Asuransi kumpulan,
 Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah wajib menerbitkan:
-
 
 -----
 
@@ -829,7 +821,7 @@ Syariah dilarang meminta persyaratan dokumen
 pengajuan klaim berupa bukti kepesertaan dalam
 bentuk cetak.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah dapat menggunakan polis standar asuransi
 yang dibuat oleh asosiasi industri asuransi.
@@ -842,7 +834,7 @@ ayat (2) harus memenuhi ketentuan mengenai Polis
 Asuransi sebagaimana diatur dalam Peraturan Otoritas
 Jasa Keuangan ini.
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Dalam setiap penutupan asuransi, Perusahaan
 Asuransi atau Perusahaan Asuransi Syariah wajib
 memastikan penerbitan Polis Asuransi telah sesuai
@@ -857,10 +849,9 @@ mendapatkan persetujuan atau tidak wajib dilaporkan
 kepada Otoritas Jasa Keuangan sesuai dengan
 ketentuan dalam Peraturan Otoritas Jasa Keuangan ini.
 
-
 -----
 
-Pasal 24
+### Pasal 24 ^pasal-24
 (1) Dalam hal Otoritas Jasa Keuangan menilai bahwa
 dalam ketentuan Polis Asuransi atau polis standar
 asuransi terdapat hal yang dapat merugikan:
@@ -881,7 +872,7 @@ dimaksud pada ayat (1).
 Bagian Ketiga
 Premi atau Kontribusi
 
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah dalam mengelola Premi/Kontribusi dari
 Pemegang Polis harus dapat menghitung risiko dan
@@ -906,7 +897,7 @@ risiko atas objek asuransi dan manfaat yang
 didapat oleh Pemegang Polis, Tertanggung, atau
 Peserta.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 (1) Perhitungan Premi/Kontribusi sebagaimana dimaksud
 dalam Pasal 25 ayat (2) huruf a yang dipasarkan oleh
 perusahaan asuransi umum dan perusahaan asuransi
@@ -916,7 +907,6 @@ a. Premi/Kontribusi murni yang dihitung
 berdasarkan data profil risiko dan kerugian jenis
 asuransi yang bersangkutan minimal 5 (lima)
 tahun terakhir; dan
-
 
 -----
 
@@ -961,7 +951,7 @@ dan
 c. biaya akuisisi, biaya administrasi, biaya umum
 lainnya, dan margin keuntungan.
 
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) Dalam penetapan Premi/Kontribusi sebagaimana
 dimaksud dalam Pasal 25 ayat (2) huruf b, Perusahaan
 Asuransi dan Perusahaan Asuransi Syariah wajib
@@ -975,13 +965,12 @@ Syariah dalam penetapan Premi/Kontribusi yang
 dibebankan kepada Pemegang Polis, Tertanggung, atau
 Peserta.
 
-
 -----
 
 Bagian Keempat
 Penghentian Pertanggungan/Kepesertaan
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) Penghentian pertanggungan/kepesertaan, baik atas
 kehendak Perusahaan Asuransi atau Perusahaan
 Asuransi Syariah maupun Pemegang Polis,
@@ -1013,7 +1002,7 @@ huruf l.
 Bagian Kelima
 Sanksi Administratif
 
-Pasal 29
+### Pasal 29 ^pasal-29
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 4 ayat (1), ayat (2), ayat (3), ayat
 (4), Pasal 5 ayat (1), ayat (2), Pasal 6 ayat (3), ayat (4),
@@ -1034,7 +1023,6 @@ dimaksud dalam Pasal 23 ayat (1), dikenakan sanksi
 administratif tambahan berupa denda administratif
 sebesar Rp100.000.000,00 (seratus juta rupiah).
 
-
 -----
 
 (3) Dalam hal terjadi pelanggaran ketentuan sebagaimana
@@ -1048,7 +1036,7 @@ Keuangan mencabut sanksi peringatan tertulis.
 Bagian Keenam
 Penilaian Kembali terhadap Pihak Utama
 
-Pasal 30
+### Pasal 30 ^pasal-30
 Selain mengenakan sanksi administratif sebagaimana
 dimaksud dalam Pasal 29 ayat (1), Otoritas Jasa Keuangan
 berwenang melakukan penilaian kembali terhadap pihak
@@ -1062,7 +1050,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 31
+### Pasal 31 ^pasal-31
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah dalam penyelenggaraan Produk Asuransi wajib:
 a. menerapkan manajemen risiko secara efektif; dan
@@ -1090,7 +1078,6 @@ rencana pengembangan Produk Asuransi terkait
 kategori Produk Asuransi sesuai dengan ketentuan
 yang diatur dalam Peraturan Otoritas Jasa
 Keuangan ini; dan
-
 
 -----
 
@@ -1125,7 +1112,7 @@ Jasa Keuangan sebagaimana dimaksud pada ayat (6).
 Bagian Kedua
 Persetujuan Produk Asuransi
 
-Pasal 32
+### Pasal 32 ^pasal-32
 (1) Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah wajib terlebih dahulu mendapatkan
 persetujuan Otoritas Jasa Keuangan dalam
@@ -1149,7 +1136,6 @@ pengecualian atau pembatasan penyebab
 risiko yang ditanggung; dan/atau
 2. metode perhitungan nilai tunai.
 
-
 -----
 
 (3) Produk Asuransi yang memenuhi kriteria tertentu
@@ -1162,7 +1148,7 @@ pembiayaan syariah; dan
 c. Produk Asuransi pada lini usaha _suretyship_ atau
 _suretyship syariah._
 
-Pasal 33
+### Pasal 33 ^pasal-33
 (1) Otoritas Jasa Keuangan dapat memberikan instruksi
 tertulis kepada Perusahaan Asuransi atau Perusahaan
 Asuransi Syariah yang berada dalam pengawasan
@@ -1173,7 +1159,7 @@ dalam setiap penyelenggaraan Produk Asuransi.
 Syariah wajib memenuhi instruksi tertulis sebagaimana
 dimaksud pada ayat (1).
 
-Pasal 34
+### Pasal 34 ^pasal-34
 (1) Untuk mendapatkan persetujuan Otoritas Jasa
 Keuangan sebagaimana dimaksud dalam Pasal 32 ayat
 (1), permohonan persetujuan harus disampaikan oleh
@@ -1189,7 +1175,7 @@ atau Perusahaan Asuransi Syariah yang menjadi
 ketua dalam penyelenggaraan Produk Asuransi
 Bersama.
 
-Pasal 35
+### Pasal 35 ^pasal-35
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah yang mengajukan permohonan persetujuan
 Produk Asuransi sebagaimana dimaksud dalam Pasal
@@ -1206,7 +1192,6 @@ dan
 b. tidak sedang dikenai sanksi administratif berupa
 sanksi pembatasan kegiatan usaha, untuk
 sebagian atau seluruh kegiatan usaha.
-
 
 -----
 
@@ -1244,7 +1229,7 @@ Syariah yang memasarkan PAYDI wajib memenuhi
 persyaratan/kriteria lain mengenai PAYDI yang
 ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 36
+### Pasal 36 ^pasal-36
 Dalam setiap permohonan persetujuan Produk Asuransi
 baru sebagaimana dimaksud dalam Pasal 32 ayat (1),
 Perusahaan Asuransi atau Perusahaan Asuransi Syariah
@@ -1267,10 +1252,9 @@ dilaporkan merupakan pengembangan atas Produk
 Asuransi yang sudah dipasarkan dan mengakibatkan
 adanya perubahan material.
 
-
 -----
 
-Pasal 37
+### Pasal 37 ^pasal-37
 (1) Selain kelengkapan dokumen sebagaimana dimaksud
 dalam Pasal 36, Perusahaan Asuransi atau
 Perusahaan Asuransi Syariah harus melampirkan
@@ -1291,21 +1275,21 @@ atas Produk Asuransi yang telah dipasarkan
 sebagaimana dimaksud dalam Pasal 32 ayat (2)
 huruf b.
 
-Pasal 38
+### Pasal 38 ^pasal-38
 Selain kelengkapan dokumen sebagaimana dimaksud dalam
 Pasal 36, Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah yang menyelenggarakan dan memasarkan PAYDI
 harus melampirkan dokumen lain sebagaimana dimaksud
 dalam ketentuan mengenai PAYDI.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 Otoritas Jasa Keuangan memberikan surat persetujuan atas
 Produk Asuransi baru dan Produk Asuransi yang memenuhi
 kriteria tertentu sebagaimana dimaksud dalam Pasal 32 ayat
 (1) paling lama 10 (sepuluh) hari kerja setelah dokumen
 diterima secara lengkap.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 (1) Dalam hal permohonan penyelenggaraan Produk
 Asuransi sebagaimana dimaksud dalam Pasal 32 belum
 memenuhi ketentuan peraturan perundang-undangan
@@ -1323,7 +1307,6 @@ Otoritas Jasa Keuangan;
 d. sistem elektronik; dan/atau
 e. cara lain yang dapat ditelusuri dan disimpan
 buktinya.
-
 
 -----
 
@@ -1344,7 +1327,7 @@ menyampaikan kembali permohonan persetujuan
 penyelenggaraan Produk Asuransi dimaksud kepada
 Otoritas Jasa Keuangan.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 Ketentuan lebih lanjut mengenai tata cara, bentuk, dan
 format permohonan persetujuan penyelenggaraan Produk
 Asuransi sebagaimana dimaksud dalam Pasal 36, Pasal 37,
@@ -1354,7 +1337,7 @@ Keuangan.
 Bagian Ketiga
 Pelaporan Produk Asuransi
 
-Pasal 42
+### Pasal 42 ^pasal-42
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah dapat menyelenggarakan dan memasarkan
 Produk Asuransi terlebih dahulu tanpa persetujuan
@@ -1382,7 +1365,6 @@ namun tidak mengakibatkan adanya perubahan
 material sebagaimana dimaksud dalam Pasal 32
 ayat (2) huruf b.
 
-
 -----
 
 (2) Perusahaan Asuransi dan Perusahaan Asuransi
@@ -1393,7 +1375,7 @@ hari kerja setelah Produk Asuransi dimaksud
 dipasarkan oleh Perusahaan Asuransi atau Perusahaan
 Asuransi Syariah.
 
-Pasal 43
+### Pasal 43 ^pasal-43
 Laporan penyelenggaraan Produk Asuransi sebagaimana
 dimaksud dalam Pasal 42 ayat (2) wajib melampirkan
 dokumen:
@@ -1414,7 +1396,7 @@ asuransi syariah; dan
 f. perjanjian tertulis sebagaimana dimaksud dalam Pasal
 6 ayat (1) dan ayat (2) untuk Produk Asuransi Bersama.
 
-Pasal 44
+### Pasal 44 ^pasal-44
 (1) Dalam hal Otoritas Jasa Keuangan menilai bahwa
 Produk Asuransi dalam laporan sebagaimana
 dimaksud dalam Pasal 42 ayat (2) merupakan
@@ -1429,7 +1411,7 @@ Asuransi dimaksud.
 Syariah wajib memenuhi instruksi tertulis Otoritas
 Jasa Keuangan sebagaimana dimaksud pada ayat (1).
 
-Pasal 45
+### Pasal 45 ^pasal-45
 Ketentuan lebih lanjut mengenai tata cara, bentuk, dan
 format pelaporan Produk Asuransi sebagaimana dimaksud
 dalam Pasal 43 ditetapkan oleh Otoritas Jasa Keuangan.
@@ -1437,11 +1419,10 @@ dalam Pasal 43 ditetapkan oleh Otoritas Jasa Keuangan.
 Bagian Keempat
 Sanksi Administratif
 
-Pasal 46
+### Pasal 46 ^pasal-46
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 31 ayat (1), ayat (7), Pasal 32
 ayat (1), Pasal 33 ayat (2), Pasal 35 ayat (5), ayat (6),
-
 
 -----
 
@@ -1473,7 +1454,7 @@ Keuangan mencabut sanksi peringatan tertulis.
 Bagian Kelima
 Penilaian Kembali terhadap Pihak Utama
 
-Pasal 47
+### Pasal 47 ^pasal-47
 Selain mengenakan sanksi administratif sebagaimana
 dimaksud dalam Pasal 46 ayat (1), Otoritas Jasa Keuangan
 berwenang melakukan penilaian kembali terhadap pihak
@@ -1487,7 +1468,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 48
+### Pasal 48 ^pasal-48
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah hanya dapat memasarkan Produk Asuransi
 melalui saluran pemasaran:
@@ -1501,17 +1482,16 @@ Mikro.
 sebagaimana dimaksud pada ayat (1) ditetapkan oleh
 Otoritas Jasa Keuangan.
 
-
 -----
 
-Pasal 49
+### Pasal 49 ^pasal-49
 Perusahaan Asuransi dan Perusahaan Asuransi Syariah
 yang akan memasarkan Produk Asuransi melalui saluran
 pemasaran sebagaimana dimaksud dalam Pasal 48 ayat (1)
 huruf b sampai dengan huruf d wajib memiliki perjanjian
 tertulis dengan pihak yang melakukan pemasaran.
 
-Pasal 50
+### Pasal 50 ^pasal-50
 (1) Saluran pemasaran sebagaimana dimaksud dalam
 Pasal 48 ayat (1) dapat menggunakan media
 komunikasi jarak jauh.
@@ -1545,7 +1525,7 @@ Syariah agar dokumentasi tersebut dapat
 digunakan sebagai bukti dalam hal terjadi
 perselisihan.
 
-Pasal 51
+### Pasal 51 ^pasal-51
 Perusahaan Asuransi dan Perusahaan Asuransi Syariah
 yang memasarkan Produk Asuransi melalui agen asuransi
 sebagaimana dimaksud dalam Pasal 48 ayat (1) huruf b,
@@ -1553,14 +1533,13 @@ wajib memastikan bahwa Agen Asuransi tersebut memenuhi
 ketentuan peraturan perundang-undangan mengenai agen
 asuransi.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 (1) Pemasaran Produk Asuransi melalui _Bancassurance_
 sebagaimana dimaksud dalam Pasal 48 ayat (1) huruf c
 dapat diselenggarakan dengan model bisnis:
 a. referensi;
 b. distribusi; dan/atau
 c. integrasi produk.
-
 
 -----
 
@@ -1570,7 +1549,7 @@ ayat (1) huruf b dan huruf c, wajib terlebih dahulu
 memperoleh surat persetujuan _Bancassurance dari_
 Otoritas Jasa Keuangan.
 
-Pasal 53
+### Pasal 53 ^pasal-53
 (1) Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah yang memasarkan Produk Asuransi melalui
 badan usaha selain bank sebagaimana dimaksud
@@ -1584,7 +1563,7 @@ Asuransi melalui badan usaha selain bank
 sebagaimana dimaksud pada ayat (1) ditetapkan oleh
 Otoritas Jasa Keuangan.
 
-Pasal 54
+### Pasal 54 ^pasal-54
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah yang memasarkan Produk Asuransi Mikro
 melalui tenaga pemasar sebagaimana dimaksud dalam
@@ -1600,7 +1579,7 @@ Asuransi Mikro melalui tenaga pemasar sebagaimana
 dimaksud pada ayat (1) ditetapkan oleh Otoritas Jasa
 Keuangan.
 
-Pasal 55
+### Pasal 55 ^pasal-55
 Dalam hal pemasaran Produk Asuransi dilakukan melalui
 saluran pemasaran sebagaimana dimaksud dalam Pasal 48
 ayat (1) huruf b sampai dengan huruf e, Perusahaan
@@ -1617,13 +1596,12 @@ b. bertanggung jawab atas semua tindakan pihak yang
 melakukan pemasaran yang berkaitan dengan Produk
 Asuransi yang dipasarkan.
 
-
 -----
 
 Bagian Kedua
 Sanksi Administratif
 
-Pasal 56
+### Pasal 56 ^pasal-56
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 49, Pasal 50 ayat (2), ayat (3),
 ayat (4), Pasal 51, Pasal 52 ayat (2), Pasal 53 ayat (1),
@@ -1651,7 +1629,7 @@ Keuangan mencabut sanksi peringatan tertulis.
 Bagian Ketiga
 Penilaian Kembali terhadap Pihak Utama
 
-Pasal 57
+### Pasal 57 ^pasal-57
 Selain mengenakan sanksi administratif sebagaimana
 dimaksud dalam Pasal 56 ayat (1), Otoritas Jasa Keuangan
 berwenang melakukan penilaian kembali terhadap pihak
@@ -1666,7 +1644,7 @@ SECARA DIGITAL
 Bagian Kesatu
 Penyelenggaraan Produk Asuransi Secara Digital
 
-Pasal 58
+### Pasal 58 ^pasal-58
 (1) Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah dapat menyelenggarakan dan memasarkan
 Produk Asuransi secara digital baik sendiri atau
@@ -1674,7 +1652,6 @@ bekerja sama dengan pihak lain yang menjadi
 _partner_ Perusahaan Asuransi atau Perusahaan
 Asuransi Syariah berdasarkan pada suatu perjanjian
 kerja sama.
-
 
 -----
 
@@ -1695,7 +1672,7 @@ oleh Otoritas Jasa Keuangan dan lembaga yang
 berwenang dalam rangka penyelenggaraan sistem
 elektronik.
 
-Pasal 59
+### Pasal 59 ^pasal-59
 (1) Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah yang menyelenggarakan dan memasarkan
 Produk Asuransi secara digital melalui kerja sama
@@ -1724,14 +1701,13 @@ _partner_ Perusahaan Asuransi atau Perusahaan
 Asuransi Syariah sebagaimana dimaksud pada ayat (1)
 ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 60
+### Pasal 60 ^pasal-60
 (1) Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah yang melakukan penyelenggaraan Produk
 Asuransi secara digital wajib memastikan Produk
 Asuransi yang dipasarkan memenuhi kriteria:
 a. menggunakan polis individual; dan
 b. memiliki proses seleksi risiko yang sederhana.
-
 
 -----
 
@@ -1745,7 +1721,7 @@ kriteria sebagaimana dimaksud pada ayat (1).
 Bagian Kedua
 Sanksi Administratif
 
-Pasal 61
+### Pasal 61 ^pasal-61
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 58 ayat (2), Pasal 59 ayat (1),
 ayat (2), dan/atau Pasal 60 dikenakan sanksi
@@ -1766,7 +1742,7 @@ Keuangan mencabut sanksi peringatan tertulis.
 Bagian Ketiga
 Penilaian Kembali terhadap Pihak Utama
 
-Pasal 62
+### Pasal 62 ^pasal-62
 Selain mengenakan sanksi administratif sebagaimana
 dimaksud dalam Pasal 61 ayat (1), Otoritas Jasa Keuangan
 berwenang melakukan penilaian kembali terhadap pihak
@@ -1779,7 +1755,7 @@ PEMENUHAN PRINSIP SYARIAH
 Bagian Kesatu
 Pemenuhan Prinsip Syariah
 
-Pasal 63
+### Pasal 63 ^pasal-63
 (1) Perusahaan Asuransi Syariah dan unit syariah dari
 Perusahaan Asuransi wajib menerapkan Prinsip
 Syariah dalam setiap penyelenggaraan Produk
@@ -1790,7 +1766,6 @@ a. fatwa atau pernyataan kesesuaian syariah dari
 lembaga yang memiliki kewenangan dalam
 penetapan fatwa di bidang syariah sebagai dasar
 dalam penyelenggaraan Produk Asuransi; dan
-
 
 -----
 
@@ -1823,7 +1798,7 @@ biaya dalam penghentian kepesertaan.
 dewan pengawas syariah sebagaimana dimaksud pada
 ayat (3) ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 64
+### Pasal 64 ^pasal-64
 Dalam hal Produk Asuransi yang telah dimiliki oleh
 Perusahaan Asuransi Syariah atau unit syariah dari
 Perusahaan Asuransi bertentangan dengan fatwa atau
@@ -1840,13 +1815,12 @@ kesesuaian syariah tersebut.
 Bagian Kedua
 Sanksi Administratif
 
-Pasal 65
+### Pasal 65 ^pasal-65
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 63 ayat (1) dan/atau Pasal 64
 dikenakan sanksi administratif berupa:
 a. peringatan tertulis;
 b. penurunan tingkat kesehatan; dan/atau
-
 
 -----
 
@@ -1865,7 +1839,7 @@ Keuangan mencabut sanksi peringatan tertulis.
 Bagian Ketiga
 Penilaian Kembali terhadap Pihak Utama
 
-Pasal 66
+### Pasal 66 ^pasal-66
 Selain mengenakan sanksi administratif sebagaimana
 dimaksud dalam Pasal 65 ayat (1), Otoritas Jasa Keuangan
 berwenang melakukan penilaian kembali terhadap pihak
@@ -1879,7 +1853,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 67
+### Pasal 67 ^pasal-67
 Perusahaan Asuransi dan Perusahaan Asuransi Syariah
 wajib memiliki dan menerapkan pedoman pengembangan
 dan pemantauan Produk Asuransi yang paling sedikit
@@ -1896,7 +1870,7 @@ dan pemantauan Produk Asuransi.
 Bagian Kedua
 Pengembangan Produk Asuransi
 
-Pasal 68
+### Pasal 68 ^pasal-68
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah wajib memiliki rencana pengembangan dan
 pemasaran Produk Asuransi yang ditetapkan oleh
@@ -1906,7 +1880,6 @@ dimaksud pada ayat (1) merupakan bagian dari rencana
 bisnis Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah.
 
-
 -----
 
 (3) Ketentuan mengenai bentuk, susunan, dan tata cara
@@ -1914,7 +1887,7 @@ penyusunan rencana pengembangan Produk Asuransi
 sebagaimana dimaksud pada ayat (1) ditetapkan oleh
 Otoritas Jasa Keuangan.
 
-Pasal 69
+### Pasal 69 ^pasal-69
 (1) Dalam setiap pengembangan Produk Asuransi
 sebagaimana dimaksud dalam Pasal 32 ayat (2) dan
 Pasal 42 ayat (1) huruf a dan huruf b, Perusahaan
@@ -1965,7 +1938,6 @@ pemasar atau pihak lain yang akan
 memasarkan Produk Asuransi dan edukasi
 konsumen; dan
 
-
 -----
 
 3. kesesuaian informasi yang akan disampaikan
@@ -1982,7 +1954,7 @@ pengembangan Produk Asuransi.
 Bagian Ketiga
 Komite Pengembangan Produk Asuransi
 
-Pasal 70
+### Pasal 70 ^pasal-70
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah wajib memiliki komite pengembangan Produk
 Asuransi.
@@ -1998,7 +1970,7 @@ d. pejabat yang bertanggung jawab terhadap fungsi
 pemasaran; dan
 e. Aktuaris Perusahaan.
 
-Pasal 71
+### Pasal 71 ^pasal-71
 (1) Komite pengembangan Produk Asuransi bertanggung
 jawab untuk melakukan tinjauan dan memberikan
 rekomendasi atas:
@@ -2024,13 +1996,12 @@ setiap Produk Asuransi yang dilakukan oleh Aktuaris
 Perusahaan dan/atau anggota komite pengembangan
 Produk Asuransi lain.
 
-
 -----
 
 Bagian Keempat
 Pemantauan Kinerja Produk Asuransi
 
-Pasal 72
+### Pasal 72 ^pasal-72
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah wajib melakukan pemantauan atas kinerja
 setiap Produk Asuransi dengan melakukan
@@ -2063,7 +2034,7 @@ Perusahaan Asuransi Syariah.
 Bagian Kelima
 Penghentian Produk Asuransi
 
-Pasal 73
+### Pasal 73 ^pasal-73
 (1) Penghentian Produk Asuransi dilakukan atas dasar:
 a. inisiatif Perusahaan Asuransi dan Perusahaan
 Asuransi Syariah yang bersangkutan; atau
@@ -2086,7 +2057,6 @@ nasabah; dan/atau
 3. berdampak negatif terhadap stabilitas sistem
 keuangan;
 
-
 -----
 
 b. Perusahaan Asuransi dan Perusahaan Asuransi
@@ -2100,7 +2070,7 @@ ayat (1) huruf b dapat berlaku sementara atau
 permanen berdasarkan penilaian Otoritas Jasa
 Keuangan.
 
-Pasal 74
+### Pasal 74 ^pasal-74
 Perusahaan Asuransi dan Perusahaan Asuransi Syariah
 yang diperintahkan oleh Otoritas Jasa Keuangan untuk
 menghentikan Produk Asuransi sebagaimana dimaksud
@@ -2118,12 +2088,12 @@ Perusahaan Asuransi Syariah diperintahkan untuk
 menghentikan Produk Asuransi; dan
 d. mengimplementasikan rencana tindak.
 
-Pasal 75
+### Pasal 75 ^pasal-75
 Penghentian Produk Asuransi sebagaimana dimaksud
 dalam Pasal 73 dan Pasal 74 dilarang mengurangi hak
 Pemegang Polis, Tertanggung, atau Peserta.
 
-Pasal 76
+### Pasal 76 ^pasal-76
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah wajib melaporkan penghentian Produk
 Asuransi sebagaimana dimaksud dalam Pasal 73 ayat
@@ -2138,19 +2108,18 @@ a. penjelasan mengenai alasan penghentian
 pemasaran Produk Asuransi; dan
 b. data Polis Asuransi yang masih aktif.
 
-Pasal 77
+### Pasal 77 ^pasal-77
 Ketentuan lebih lanjut mengenai tata cara, bentuk, dan
 format pelaporan penghentian Produk Asuransi
 sebagaimana dimaksud dalam Pasal 76 ditetapkan oleh
 Otoritas Jasa Keuangan.
-
 
 -----
 
 Bagian Keenam
 Sanksi Administratif
 
-Pasal 78
+### Pasal 78 ^pasal-78
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 67, Pasal 68 ayat (1), Pasal 69
 ayat (1), ayat (4), Pasal 70 ayat (1), Pasal 72 ayat (1),
@@ -2179,7 +2148,7 @@ Keuangan mencabut sanksi peringatan tertulis.
 Bagian Ketujuh
 Penilaian Kembali bagi Pihak Utama
 
-Pasal 79
+### Pasal 79 ^pasal-79
 Selain mengenakan sanksi administratif sebagaimana
 dimaksud dalam Pasal 78 ayat (1), Otoritas Jasa
 Keuangan berwenang melakukan penilaian kembali bagi
@@ -2189,7 +2158,7 @@ Asuransi Syariah.
 BAB VIII
 KETENTUAN LAIN-LAIN
 
-Pasal 80
+### Pasal 80 ^pasal-80
 Otoritas Jasa Keuangan berdasarkan pertimbangan tertentu
 dapat memberikan persetujuan atau kebijakan yang berbeda
 dengan Peraturan Otoritas Jasa Keuangan ini.
@@ -2197,12 +2166,11 @@ dengan Peraturan Otoritas Jasa Keuangan ini.
 BAB IX
 KETENTUAN PERALIHAN
 
-Pasal 81
+### Pasal 81 ^pasal-81
 (1) Surat persetujuan atau pencatatan atas Produk
 Asuransi yang telah diterbitkan oleh Otoritas Jasa
 Keuangan sebelum Peraturan Otoritas Jasa Keuangan
 ini mulai berlaku, dinyatakan tetap berlaku.
-
 
 -----
 
@@ -2228,7 +2196,7 @@ Keuangan ini.
 BAB X
 KETENTUAN PENUTUP
 
-Pasal 82
+### Pasal 82 ^pasal-82
 Ketentuan pelaksanaan Peraturan Otoritas Jasa Keuangan
 Nomor 23/POJK.05/2015 tentang Produk Asuransi dan
 Pemasaran Produk Asuransi (Lembaran Negara Republik
@@ -2237,7 +2205,7 @@ Negara Republik Indonesia Nomor 5770) dinyatakan, tetap
 berlaku sepanjang tidak bertentangan dengan Peraturan
 Otoritas Jasa Keuangan ini.
 
-Pasal 83
+### Pasal 83 ^pasal-83
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. Peraturan Otoritas Jasa Keuangan Nomor
@@ -2254,10 +2222,9 @@ Tambahan Lembaran Negara Republik Indonesia Nomor
 5996),
 dicabut dan dinyatakan tidak berlaku.
 
-Pasal 84
+### Pasal 84 ^pasal-84
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku 6
 (enam) bulan terhitung sejak tanggal diundangkan.
-
 
 -----
 
@@ -2289,7 +2256,6 @@ YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 10/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -2298,10 +2264,11 @@ ttd
 
 Aat Windradi
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -2311,8 +2278,6 @@ NOMOR 8 TAHUN 2024
 
 TENTANG
 PRODUK ASURANSI DAN SALURAN PEMASARAN PRODUK ASURANSI
-
-I. UMUM
 
 Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan
 Penguatan Sektor Keuangan memberikan dasar dan pondasi penguatan
@@ -2362,7 +2327,6 @@ perasuransian dan pelindungan konsumen sektor jasa keuangan.
 Dengan pengaturan ini diharapkan Perusahaan Asuransi dan
 Perusahaan Asuransi Syariah dapat memastikan Premi/Kontribusi
 
-
 -----
 
 yang diterima dapat dikelola dengan baik sehingga memenuhi seluruh
@@ -2391,14 +2355,11 @@ Asuransi secara digital, pemenuhan Prinsip Syariah, kajian,
 pemantauan kinerja Produk Asuransi, komite pengembangan Produk
 Asuransi, dan penghentian Produk Asuransi.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Huruf a
@@ -2419,9 +2380,7 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Huruf a
 
 Cukup jelas.
@@ -2461,13 +2420,9 @@ Angka 2
 Kata, frasa, atau kalimat yang dapat mempersulit antara
 lain “perusahaan dapat meminta dokumen tambahan
 yang relevan” untuk Produk Asuransi Mikro.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Contoh Produk Asuransi Bersama:
@@ -2493,9 +2448,7 @@ Contoh pertanggungan bersama:
 Penutupan asuransi harta benda dengan objek pertanggungan
 sebuah pabrik yang ditanggung oleh lebih dari 1 (satu)
 perusahaan asuransi umum.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 Cukup jelas.
@@ -2590,9 +2543,7 @@ kerja sama, penyelenggaraan Produk Asuransi Bersama
 tidak dapat dilanjutkan karena perusahaan asuransi
 umum A dan perusahaan asuransi umum B tidak dapat
 menanggung risiko asuransi jiwa (kematian alami).
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Huruf a
@@ -2633,9 +2584,7 @@ keuangan dari musibah yang terjadi.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Cukup jelas.
@@ -2658,23 +2607,17 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Hubungan kepentingan antara lain hubungan finansial, hubungan
 terkait tanggung jawab hukum, hubungan keluarga, dan/atau
 hubungan keanggotaan.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ketentuan terkait anuitas dalam Peraturan Otoritas Jasa Keuangan
 mengenai penyelenggaraan dana pensiun misalnya Perusahaan
 Asuransi tidak boleh menyediakan Produk Asuransi anuitas untuk
 program dana pensiun yang menawarkan penebusan polis kurang
 dari jangka waktu manfaat pensiun 10 (sepuluh) tahun.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Cukup jelas.
@@ -2704,9 +2647,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Huruf a
 
 Cukup jelas.
@@ -2781,9 +2722,7 @@ _period._
 Huruf s
 
 Periode menunggu dikenal dengan istilah waiting period.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Huruf a
 
 Cukup jelas.
@@ -2816,32 +2755,19 @@ Cukup jelas.
 Huruf h
 
 Cukup jelas.
-
-Pasal 14
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Polis Asuransi termasuk ikhtisar Polis Asuransi.
@@ -2857,9 +2783,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Ayat (1)
 
 Huruf a
@@ -2891,21 +2815,13 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 
 Cukup jelas.
@@ -2922,9 +2838,7 @@ Peserta secara wajar.
 Huruf b
 
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Huruf a
@@ -2984,9 +2898,7 @@ Cukup jelas.
 Huruf c
 
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Penilaian dan seleksi risiko antara lain didasarkan pada
@@ -2994,21 +2906,13 @@ penilaian atas tingkat risiko pada objek asuransi.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Ayat (1)
 
 Cukup jelas.
@@ -3109,9 +3013,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Ayat (1)
 
 Cukup jelas
@@ -3131,37 +3033,21 @@ Cukup jelas.
 Huruf c
 
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Cukup jelas.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Cukup jelas.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Cukup jelas.
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Ayat (1)
 
 Ketentuan peraturan perundang-undangan antara lain syarat
@@ -3174,40 +3060,24 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Cukup jelas.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Cukup jelas.
 
 
 -----
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Cukup jelas.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Cukup jelas.
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Cukup jelas.
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Ayat (1)
 
 Huruf a
@@ -3241,13 +3111,9 @@ antara lain agen bank penyelenggara laku pandai.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Cukup jelas.
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Ayat (1)
 
 Media komunikasi jarak jauh antara lain surat, telepon
@@ -3280,37 +3146,21 @@ Huruf d
 
 Dokumentasi dilakukan terhadap seluruh proses
 penjelasan Produk Asuransi.
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Cukup jelas.
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Cukup jelas.
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Cukup jelas.
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Cukup jelas.
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Cukup jelas.
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56
 Cukup jelas.
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
 Ayat (1)
 
 Yang dimaksud dengan “menyelenggarakan Produk Asuransi
@@ -3326,9 +3176,7 @@ menyelenggarakan Produk Asuransi secara digital.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59
 Ayat (1)
 
 Yang dimaksud dengan “memasarkan Produk Asuransi secara
@@ -3349,9 +3197,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60
 Ayat (1)
 
 Huruf a
@@ -3369,43 +3215,25 @@ _Simplified Issue Offer (SIO) untuk Produk Asuransi Mikro._
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61
 Cukup jelas.
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Cukup jelas.
-
-Pasal 64
-
+#### Pasal 64 ^penjelasan-pasal-64
 Yang dimaksud dengan “fatwa atau pernyataan kesesuaian syariah
 yang baru” adalah fatwa atau pernyataan kesesuaian syariah yang
 terbit setelah Produk Asuransi dipasarkan.
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
-
-Pasal 66
-
+#### Pasal 66 ^penjelasan-pasal-66
 Cukup jelas.
-
-Pasal 67
-
+#### Pasal 67 ^penjelasan-pasal-67
 Cukup jelas.
-
-Pasal 68
-
+#### Pasal 68 ^penjelasan-pasal-68
 Cukup jelas.
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69
 Ayat (1)
 
 Cukup jelas.
@@ -3448,9 +3276,7 @@ dalam aplikasi, dan lainnya.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 70
-
+#### Pasal 70 ^penjelasan-pasal-70
 Ayat (1)
 
 Cukup jelas.
@@ -3475,13 +3301,9 @@ Cukup jelas.
 Huruf e
 
 Cukup jelas.
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71
 Cukup jelas.
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Ayat (1)
 
 Cukup jelas.
@@ -3507,9 +3329,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73
 Ayat (1)
 
 Cukup jelas.
@@ -3541,9 +3361,7 @@ Otoritas Jasa Keuangan.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 74
-
+#### Pasal 74 ^penjelasan-pasal-74
 Huruf a
 
 Cukup jelas.
@@ -3558,13 +3376,9 @@ Huruf d
 Rencana tindak antara lain:
 1. penyelesaian kewajiban kepada Pemegang Polis; dan
 2. penyempurnaan dan perbaikan Produk Asuransi.
-
-Pasal 75
-
+#### Pasal 75 ^penjelasan-pasal-75
 Cukup jelas.
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76
 Ayat (1)
 
 Cukup jelas.
@@ -3582,40 +3396,24 @@ Cukup jelas.
 
 
 -----
-
-Pasal 77
-
+#### Pasal 77 ^penjelasan-pasal-77
 Cukup jelas.
-
-Pasal 78
-
+#### Pasal 78 ^penjelasan-pasal-78
 Cukup jelas.
-
-Pasal 79
-
+#### Pasal 79 ^penjelasan-pasal-79
 Cukup jelas.
-
-Pasal 80
-
+#### Pasal 80 ^penjelasan-pasal-80
 Pertimbangan tertentu antara lain dalam rangka memberikan
 dukungan terhadap program pemerintah, kejadian luar biasa, atau
 pelaksanaan pelindungan Pemegang Polis, Tertanggung, atau
 Peserta dengan tetap memperhatikan prinsip kehati-hatian.
-
-Pasal 81
-
+#### Pasal 81 ^penjelasan-pasal-81
 Cukup jelas.
-
-Pasal 82
-
+#### Pasal 82 ^penjelasan-pasal-82
 Cukup jelas.
-
-Pasal 83
-
+#### Pasal 83 ^penjelasan-pasal-83
 Cukup jelas.
-
-Pasal 84
-
+#### Pasal 84 ^penjelasan-pasal-84
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 78/OJK
@@ -3623,3 +3421,91 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 78/OJK
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 74 | [[#^penjelasan-pasal-74]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 80 | [[#^penjelasan-pasal-80]] |
+| Pasal 81 | [[#^penjelasan-pasal-81]] |
+| Pasal 82 | [[#^penjelasan-pasal-82]] |
+| Pasal 83 | [[#^penjelasan-pasal-83]] |
+| Pasal 84 | [[#^penjelasan-pasal-84]] |

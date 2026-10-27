@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Bank Indonesia
+**Bank Indonesia**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -37,9 +43,9 @@ last_updated: 2026-10-28
 PRESIDEN
 REPUBLIK INDONESIA
 
-# UNDANG-UNDANG REPUBLIK INDONESIA 
+**UNDANG-UNDANG REPUBLIK INDONESIA**
 
- NOMOR 23 TAHUN 1999 
+ NOMOR 23 TAHUN 1999
 
  TENTANG
 
@@ -70,14 +76,13 @@ REPUBLIK INDONESIA
 
  3. Pasal 3 Ketetapan Majelis Permusyawaratan Rakyat Republik
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 2 
-# Indonesia Nomor XI/MPR/1998;
+                              - 2
+**Indonesia Nomor XI/MPR/1998;**
 
  4. Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia Nomor XVI/MPR/1998.
 
@@ -93,7 +98,7 @@ REPUBLIK INDONESIA
 
 KETENTUAN UMUM
 
-# Pasal 1
+### Pasal 1 ^pasal-1
 
  Dalam Undang-undang ini yang dimaksudkan dengan :
 
@@ -115,14 +120,13 @@ KETENTUAN UMUM
 
  9. Peraturan Dewan Gubernur adalah ketentuan hukum yang ditetapkan oleh Dewan Gubernur yang memuat aturan-aturan intern antara lain mengenai tata tertib pelaksanaan tugas dan wewenang Dewan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 3 
-# Gubernur, kepegawaian, dan organisasi Bank Indonesia;
+                  - 3
+**Gubernur, kepegawaian, dan organisasi Bank Indonesia;**
 
  10. Kebijakan Moneter adalah kebijakan yang ditetapkan dan dilaksanakan oleh Bank Indonesia untuk mencapai dan memelihara kestabilan nilai rupiah yang dilakukan antara lain melalui pengendalian jumlah uang beredar dan atau suku bunga;
 
@@ -130,7 +134,7 @@ REPUBLIK INDONESIA
 
  12. Cadangan Tujuan adalah dana yang berasal dari sebagian surplus Bank Indonesia yang dapat digunakan antara lain untuk penggantian atau pembaruan harta tetap dan perlengkapan yang diperlukan dalam pelaksanaan tugas dan wewenang Bank indonesia serta untuk penyertaan.
 
- Pasal 2
+### Pasal 2 ^pasal-2
 
  (1) Satuan mata uang negara Republik Indonesia adalah rupiah dengan
  singkatan Rp.
@@ -147,7 +151,7 @@ REPUBLIK INDONESIA
  (5) Pengecualian sebagaimana dimaksud pada ayat (3) diberikan untuk
  keperluan pembyaran di tempat atau di daerah tertentu, untuk maksud pembayaran, atau untuk memenuhi kewajiban dalam valuta asing yang telah diperjanjikan secara tertulis, yang akan ditetapkan dengan Peraturan Bank Indonesia.
 
- Pasal 3
+### Pasal 3 ^pasal-3
 
  (1) Uang rupiah dalam jumlah tertentu dilarang dibawa keluar atau
  masuk wilayah pabean Republik Indonesia kecuali dengan izin Bank Indonesia.
@@ -155,18 +159,17 @@ REPUBLIK INDONESIA
  (2) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1)
  ditetapkan dengan Peraturan Bank Indonesia.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 4 
-# BAB II
+                  - 4
+**BAB II**
 
  STATUS, TEMPAT KEDUDUKAN, DAN MODAL
 
- Pasal 4
+### Pasal 4 ^pasal-4
 
  (1) Bank Indonesia adalah Bank Sentral Republik Indonesia.
 
@@ -176,7 +179,7 @@ REPUBLIK INDONESIA
  (3) Bank Indonesia adalah badan hukum berdasarkan Undang-undang
  ini.
 
- Pasal 5
+### Pasal 5 ^pasal-5
 
  (1) Bank Indonesia berkedudukan di Ibukota negara Republik
  Indonesia.
@@ -184,7 +187,7 @@ REPUBLIK INDONESIA
  (2) Bank Indonesia mempunyai kantor-kantor di dalam dan diluar
  negeri wilayah negara Republik Indonesia.
 
- Pasal 6
+### Pasal 6 ^pasal-6
 
  (1) Modal Ban Indonesia ditetapkan berjumlah sekurang-kurangnya Rp.
  2.000.000.000.000,00 (dua triliun rupiah).
@@ -199,28 +202,27 @@ REPUBLIK INDONESIA
 
  TUJUAN DAN TUGAS
 
- Pasal 7
+### Pasal 7 ^pasal-7
 
  Tujuan Bank Indonesia adalah mencapai dan memelihara kestabilan nilai rupiah.
 
- Pasal 8
+### Pasal 8 ^pasal-8
 
  Untuk mencapai tujuan sebagaimana dimaksud dalam Pasal 7, Bank Indonesia mempunyai tugas sebagai berikut :
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 5 
-# a. menetapkan dan melaksanakan kebijaksanaan moneter;
+                           - 5
+**a. menetapkan dan melaksanakan kebijaksanaan moneter;**
 
  b. mengatur dan menjaga kelancaran sistem pembayaran;
 
  c. mengatur dan mengawasi Bank.
 
- Pasal 9
+### Pasal 9 ^pasal-9
 
  (1) Pihak lain dilarng melakukan segala bentuk campur tangan terhadap
  pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 8.
@@ -232,7 +234,7 @@ REPUBLIK INDONESIA
 
  TUGAS MENETAPKAN DAN MELAKSANAKAN KEBIJAKAN MONETER
 
- Pasal 10
+### Pasal 10 ^pasal-10
 
  (1) Dalam rangka menetapkan dan melaksanakan kebijakan moneter
  sebagaimana dimaksud dalam Pasal 8 huruf a Bank Indonesia berwenang:
@@ -256,30 +258,29 @@ REPUBLIK INDONESIA
  (3) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) huruf b
  dan ayat (2) ditetapkan dengan Peraturan Bank Indonesia.
 
- Pasal 11
+### Pasal 11 ^pasal-11
 
  (1) Bank Indonesia dapat memberikan kredit atau pembiayaan
  berdasarkan Prinsip Syariah untuk jangka waktu paling lama 90 (sembilan puluh) hari kepada Bank untuk mengatasi kesulitan pendanaan jangka pendek Bank yang bersangkutan.
 
  (2) Pelaksanaan pemberian kredit atau pembiayaan berdasarkan Prinsip
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                             - 6 
-# Syariah sebagaimana dimaksud pada ayat (1), wajib dijamin oleh Bank penerima dengan agunan yang berkualitas tinggi dan mudah dicairkan yang nilainya minimal sebesar jumlah kredit atau pembiayaan yang diterimanya.
+                             - 6
+**Syariah sebagaimana dimaksud pada ayat (1), wajib dijamin oleh Bank penerima dengan agunan yang berkualitas tinggi dan mudah dicairkan yang nilainya minimal sebesar jumlah kredit atau pembiayaan yang diterimanya.**
 
  (3) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) dan
  ayat (2) ditetapkan dengan Peraturan Bank Indonesia.
 
- Pasal 12
+### Pasal 12 ^pasal-12
 
  Bank Indonesia melaksanakan kebijakan nilai tukar berdasarkan sistem nilai tukar yang telah ditetapkan.
 
- Pasal 13
+### Pasal 13 ^pasal-13
 
  (1) Bank Indonesia mengelola cadangan devisa.
 
@@ -289,7 +290,7 @@ REPUBLIK INDONESIA
  (3) Dalam rangka pengelolaan cadangan devisa sebagaimana dimaksud
  pada ayat (1), Bank Indonesia dapat menerima pinjaman luar negeri.
 
- Pasal 14
+### Pasal 14 ^pasal-14
 
  (1) Bank Indonesia dapat menyelenggarakan survei secara berkala atau
  sewaktu-waktu diperlukan yang dapat bersifat makro atau mikro untuk mendukung pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 8.
@@ -310,14 +311,13 @@ REPUBLIK INDONESIA
 
  TUGAS MENGATUR DAN MENJAGA KELANCARAN SISTEM PEMBAYARAN
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 7 
-# Pasal 15
+                  - 7
+### Pasal 15 ^pasal-15
 
  (1) Dalam rangaka mengatura dan menjaga kelancaran sistem
  pembayaran sebagaimana dimaksud dalam Pasal 8 huruf b, Bank Indonesia berwenang :
@@ -333,11 +333,11 @@ REPUBLIK INDONESIA
  (2) Pelaksanaan kewenangan sebagaimana dimaksud pada ayat (1)
  ditetapkan dengan Peraturan Bank Indonesia.
 
- Pasal 16
+### Pasal 16 ^pasal-16
 
  Bank Indonesia berwenang mengatur sistem kliring antara bank dalam mata uang rupiah atau valuta asing.
 
- Pasal 17
+### Pasal 17 ^pasal-17
 
  (1) Penyelenggaraan kegiatan kliring antar bank dalam mata uang
  rupiah dan atau valuta asing dilakukan oleh Bank Indonesia atau pihak lain dengan persetujuan Bank Indonesia.
@@ -345,7 +345,7 @@ REPUBLIK INDONESIA
  (2) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1)
  ditetapkan dengan Peraturan Bank Indonesia.
 
- Pasal 18
+### Pasal 18 ^pasal-18
 
  (1) Bank Indonesia menyelenggarakan penyelesaian akhir transaksi
  pembayaran antar bank dalam mata uang rupiah dan atau valuta asing.
@@ -356,32 +356,31 @@ REPUBLIK INDONESIA
  (3) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) dan
  ayat (2) ditetapkan dengan Peraturan Bank Indonesia.
 
- Pasal 19
+### Pasal 19 ^pasal-19
 
  Bank Indonesia berwenang menetapkan macam, harga ciri uang yang akan dikeluarkan, bahan yang digunakan dan tanggal mulai berlakunya sebagai alat pembayaran yang sah.
 
- Pasal 20
+### Pasal 20 ^pasal-20
 
  Bank Indonesia merupakan satu-satunya lembaga yang berwenang
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 8 
-# untuk mengeluarkan dan mengedarkan mata uang rupiah serta mencabut, menarik dan memusnahkan uang dimaksud dari peredaran.
+                  - 8
+**untuk mengeluarkan dan mengedarkan mata uang rupiah serta mencabut, menarik dan memusnahkan uang dimaksud dari peredaran.**
 
- Pasal 21
+### Pasal 21 ^pasal-21
 
  Uang yang dikeluarkan oleh Bank Indonesia dibebaskan dari bea meterai.
 
- Pasal 22
+### Pasal 22 ^pasal-22
 
  Bank Indonesia tidak memberikan penggantian atas uang yang hilang atau musnah karena sebab apapun.
 
- Pasal 23
+### Pasal 23 ^pasal-23
 
  (1) Bank Indonesia dapat mencabut dan menarik uang rupiah dari
  peredaran dengan memberikan penggantian dengan nilai yang sama.
@@ -402,28 +401,27 @@ REPUBLIK INDONESIA
 
  TUGAS MENGATUR DAN MENGAWASI BANK
 
- Pasal 24
+### Pasal 24 ^pasal-24
 
  Dalam rangka melaksanakan tugas sebagaimana dimaksud dalam Pasal 8 huruf c, Bank Indonesia menetapkan peraturan memberikan dan mencabut izin atas kelembagaan dan kegiatan usaha tertentu dari Bank, melaksanakan pengawasan Bank dan mengenakan sanksi terhadap Bank sesuai dengan peraturan perundang-undangan.
 
- Pasal 25
+### Pasal 25 ^pasal-25
 
  (1) Dalam rangka melaksanakan tugas mengatur Bank, Bank Indonesia
  berwenang menetapkan ketentuan-ketentuan perbankan yang
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 9 
-# memuat prinsip kehati-hatian.
+                  - 9
+**memuat prinsip kehati-hatian.**
 
  (2) Pelaksanaan kewenangan sebagaimana dimaksud pada ayat (1)
  ditetapkan dengan peraturan Bank Indonesia.
 
- Pasal 26
+### Pasal 26 ^pasal-26
 
  Berkaitan dengan kewenangan di bidang perizinan sebagaimana dimaksud dalam Pasal 24, Bank Indonesia :
 
@@ -437,11 +435,11 @@ REPUBLIK INDONESIA
  d. memberikan izin kepada Bank untuk menjalankan kegiatan-kegiatan
  usaha tertentu.
 
- Pasal 27
+### Pasal 27 ^pasal-27
 
  Pengawasan Bank oleh Bank Indonesia sebagaimana dimaksud dalam Pasal 24 adalah pengawasan langsung dan tidak langsung.
 
- Pasal 28
+### Pasal 28 ^pasal-28
 
  (1) Bank Indonesia mewajibkan Bank untuk menyampaikan laporan,
  keterangan dan penjelasan sesuai dengan tata cara yang ditetapkan oleh Bank Indonesia.
@@ -449,7 +447,7 @@ REPUBLIK INDONESIA
  (2) Apabila diperlukan, kewajiban sebagaimana dimaksud pada ayat (1)
  dikenakan pula terhadap perusahaan induk, perusahaan anak, pihak terkait dan pihak terafilisi dari Bank.
 
- Pasal 29
+### Pasal 29 ^pasal-29
 
  (1) Bank Indonesia melakukan pemeriksaan terhadap Bank, baik secara
  berkala maupun setiap waktu apabila diperlukan.
@@ -467,14 +465,13 @@ REPUBLIK INDONESIA
 
  c. hal-hal lain yang diperlukan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 10 
-# Pasal 30
+                - 10
+### Pasal 30 ^pasal-30
 
  (1) Bank Indonesia dapat menugasi pihak lain untuk dan atas nama
  Bank Indonesia melaksanakan pemeriksaan sebagaimana dimaksud dalam Pasal 29 ayat (1) dan ayat (2).
@@ -484,7 +481,7 @@ REPUBLIK INDONESIA
  (3) Syarat-syarat bagi pihak lain yang ditugasi oleh Bank Indonesia
  sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Bank Indonesia.
 
- Pasal 31
+### Pasal 31 ^pasal-31
 
  (1) Bank Indonesia dapat memerintahkan Bank untuk menghentikan
  sementara sebagian atau seluruh kegiatan transaksi tertentu apabila menurut penilaian Bank Indonesia terhadap suatu transaksi patut diduga merupakan tindak pidana di bidang perbankan.
@@ -495,7 +492,7 @@ REPUBLIK INDONESIA
  (3) Apabila dari hasil pemeriksaan sebagaimana dimaksud pada ayat (2)
  tidak diperoleh bukti yang cukup, Bank Indonesia pada hari itu juga mencabut perintah penghentian transaksi sebagaimana dimaksud pada ayat (1).
 
- Pasal 32
+### Pasal 32 ^pasal-32
 
  (1) Bank Indonesia mengatur dan mengembangkan sistem informasi
  antar Bank.
@@ -506,18 +503,17 @@ REPUBLIK INDONESIA
  (3) Penyelenggaraan sistem informasi sebagaimana dimaksud pada ayat
  (1) dan ayat (2), dapat dilakukan sendiri oleh Bank Indonesia dan atau oleh pihak lain dengan persetujuan Bank Indonesia.
 
- Pasal 33
+### Pasal 33 ^pasal-33
 
  Dalam hal keadaan suatu menurut penilaian Bank Indonesia membahayakan kelangsungan usaha Bank yang bersangkutan dan atau membahayakan sistem perbankan atau terjadi kesulitan perbankan yang membahayakan perekonomian nasional, Bank Indonesia dapat melakukan tindakan sebagimana diatur dalam undang-undang tentang perbankan yang berlaku.
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 11 
-# Pasal 34
+                - 11
+### Pasal 34 ^pasal-34
 
  (1) Tugas mengawasi Bank akan dilakukan oleh lembaga pengawasan
  sektor jasa keuangan yang independen, dan dibentuk dengan Undang-undang.
@@ -537,7 +533,7 @@ REPUBLIK INDONESIA
 
  Dalam melaksanakan tugasnya, Bank Indonesia dipimpin oleh Dewan Gubernur.
 
- Pasal 37
+### Pasal 37 ^pasal-37
 
  (1) Dewan Gubernur terdiri atas seorang Gubernur, seorang Deputi
  Gubernur Senior, dan sekurang-kurangnya 4 (empat) orang atau sebanyak-banyaknya 7 (tujuh) orang Deputi Gubernur.
@@ -551,7 +547,7 @@ REPUBLIK INDONESIA
  (4) Dalam hal penunjukan sebagaimana ditetapkan pada ayat (3) karena
  sesuatu hal tidak dapat dilaksanakan, salah seorang Deputi Gubernur yang paling lama masa jabatannya bertindak sebagai pemimpin Dewan Gubernur.
 
- Pasal 38
+### Pasal 38 ^pasal-38
 
  (1) Dewan Gubernur melaksanakan tugas dan wewenang Bank
  Indonesia sebagaimana ditetapkan dalam Undang-undang ini.
@@ -559,16 +555,15 @@ REPUBLIK INDONESIA
  (2) Tata tertib dan tata cara menjalankan pekerjaan Dewan Gubernur
  ditetapkan dengan Peraturan Dewan Gubernur.
 
- Pasal 39
-
+### Pasal 39 ^pasal-39
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 12 
-# (1) Dewan Gubernur mewakili Bank Indonesia di dalam dan di luar
+                - 12
+**(1) Dewan Gubernur mewakili Bank Indonesia di dalam dan di luar**
  pengadilan.
 
  (2) Kewenangan mewakili sebagaimana dimaksud pada ayat (1)
@@ -580,7 +575,7 @@ REPUBLIK INDONESIA
  (4) Penyerahan kewenangan sebagaimana dimaksud pada ayat (3) dapat
  diberikan dengan hak substitusi.
 
- Pasal 40
+### Pasal 40 ^pasal-40
 
  Untuk dapat diangkat sebagai anggota Dewan Gubernur, calon yang bersangkutan harus memenuhi syarat antara lain :
 
@@ -591,7 +586,7 @@ REPUBLIK INDONESIA
  c. memiliki keahlian dan pengalaman di bidang ekonomi, keuangan,
  perbankan, atau hukum.
 
- Pasal 41
+### Pasal 41 ^pasal-41
 
  (1) Gubernur dan Deputi Gubernur Senior diusulkan dan diangkat oleh
  Presiden dengan persetujuan Dewan Perwakilan Rakyat.
@@ -608,17 +603,16 @@ REPUBLIK INDONESIA
  (5) Anggota Dewan Gubernur diangkat untuk masa jabatan 5 (lima)
  tahun dan dapat diangkat kembali dalam jabatan yang sama untuk sebanyak-banyaknya 1 (satu) kali masa jabatan berikutnya.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 13 
-# (6) Penggantian anggota Dewan Gubernur yang telah berakhir masa
+                - 13
+**(6) Penggantian anggota Dewan Gubernur yang telah berakhir masa**
  jabatannya dilakukan secara berkala setiap tahun paling banyak 2 (dua) orang.
 
- Pasal 42
+### Pasal 42 ^pasal-42
 
  (1) Gubernur, Deputi Gubernur Senior, dan Deputi Gubernur sebelum
  memengku jabatannya wajib mengucapkan sumpah atau janji menurut ajaran agamanya di hadapan Ketua Mahkamah Agung.
@@ -629,7 +623,7 @@ REPUBLIK INDONESIA
  "Saya bersumpah/berjanji bahwa saya, untuk menjadi Gubernur/Deputi
  Gubernur Senior/Deputi Gubernur Bank Indonesia langsung atau tidak langsung dengan nama dan dalih apapun tidak memberikan atau menjanjikan untuk memberikan sesuatu kepada siapapun juga. Saya bersumpah/berjanji bahwa saya, dalam melakukan atau tidak melakukan sesuatu dalam jabatan ini, tidak akan menerima langsung atau tidak langsung dari siapapun juga sesuatu janji atau pemberian dalam bentuk apapun. Saya bersumpah/berjanji bahwa saya akan melaksanakan tugas dan kewajiban Gubernur/Deputi Gubernur Senior/Deputi Gubernur Bank Indonesia dengan sebaik-baiknya dan penuh dengan rasa tanggung jawab. Saya bersumpah/berjanji bahwa saya akan setia terhadap negara, konstitusi, dan haluan negara".
 
- Pasal 43
+### Pasal 43 ^pasal-43
 
  (1) Rapat Dewan Gubernur diselengarakan :
 
@@ -647,14 +641,13 @@ REPUBLIK INDONESIA
  (4) Dalam keadaan darurat dan rapat Dewan Gubernur tidak dapat
  diselenggarakan karena jumlah Anggota Dewan gubernur yang hadir
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 14 
-# tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (2), Gubernur atau sekurang-kurangnya 2 (dua) orang anggota Dewan Gubernur dapat menetapkan kebijakan dan atau mengambil keputusan.
+                - 14
+**tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (2), Gubernur atau sekurang-kurangnya 2 (dua) orang anggota Dewan Gubernur dapat menetapkan kebijakan dan atau mengambil keputusan.**
 
  (5) Kebijakan dan atau keputusan Gubernur atau Deputi Gubernur
  sebagaimana dimaksud pada ayat (4), wajib dilaporkan selambat-lambatnya dalam rapat Dewan Gubernur berikutnya.
@@ -662,7 +655,7 @@ REPUBLIK INDONESIA
  (6) Tata tertib dan tata cara penyelenggaraan rapat Dewan Gubernur
  ditetapkan dengan Peraturan Dewan Gubernur.
 
- Pasal 44
+### Pasal 44 ^pasal-44
 
  (1) Dewan Gubernur mengangkat dan memberhentikan pegawai Bank
  Indonesia.
@@ -673,11 +666,11 @@ REPUBLIK INDONESIA
  (3) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) dan
  ayat (2) ditetapkan dengan Peraturan Dewan Gubernur.
 
- Pasal 45
+### Pasal 45 ^pasal-45
 
  Gubernur, Deputi Gubernur Senior, Deputi Gubernur, dan atau Pejabat Bank Indonesia tidak dapat dihukum karena telah mengambil keputusan atau kebijakan yang sejalan dengan tugas dan wewenangnya sebagaimana dimaksud dalam undang-undang ini sepanjang dilakukan dengan itikad baik.
 
- Pasal 46
+### Pasal 46 ^pasal-46
 
  (1) Antara semua anggota Dewan Gubernur dilarang mempunyai
  hubungan keluarga sampai derajat ke tiga dan besan.
@@ -688,16 +681,15 @@ REPUBLIK INDONESIA
  (3) Dalam hal salah satu anggota Dewan Gubernur sebagaimana
  dimaksud pada ayat (2) tidak bersedia mundur, Presiden menetapkan kedua anggota Dewan Gubernur tersebut untuk berhenti dari jabatannya.
 
- Pasal 47
-
+### Pasal 47 ^pasal-47
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 15 
-# (1) Anggota Dewan Gubernur baik sendiri maupun bersama-sama
+                - 15
+**(1) Anggota Dewan Gubernur baik sendiri maupun bersama-sama**
  dilarang :
 
  a. mempunyai kepentingan langsung atau tidak langsung pada
@@ -710,15 +702,15 @@ REPUBLIK INDONESIA
  (2) Dalam hal anggota Dewan Gubernur malakukan salah satu atau
  lebih larangan sebagaimana dimaksud pada ayat (1) huruf a, huruf b dan huruf c, anggota Dewan Gubernur tersebut wajib mengundurkan diri dari jabatannya.
 
- Pasal 48
+### Pasal 48 ^pasal-48
 
  Anggota Dewan Gubernur tidak dapat diberhentikan dalam masa jabatannya kecuali karena yang bersangkutan mengundurkan diri, terbukti melakukan tindak kejahatan, atau berhalangan tetap.
 
- Pasal 49
+### Pasal 49 ^pasal-49
 
  Dalam hal anggota Dewan Gubernur patut diduga telah melakukan tindak pindana, pemanggilan, permintaan keterangan dan penyidikan harus terlebiuh dahulu mendapat persetujuan tertulis dari Presiden.
 
- Pasal 50
+### Pasal 50 ^pasal-50
 
  (1) Dalam hal terjadi kekosongan jabatan gubernur, Deputi Gubernur
  Senior, dan atau Deputi Gubernur karena hal-hal sebagaimana dimaksud dalam Pasal 46 ayat (2) dan ayat (3), Pasal 47 ayat (2) dan Pasal 48, Presiden mengangkat Gubernur, Deputi Gubernur Senior, dan atau Deputi Gubernur yang baru sesuai dengan ketentuan dalam Pasal 41 ayat (1), ayat (2), ayat (3), ayat (4), dan ayat (5), untuk sisa masa jabatan yang digantikannya.
@@ -729,18 +721,17 @@ REPUBLIK INDONESIA
  (3) Dalam hal Deputi Gubernur Senior sebagaimana dimaksud pada ayat
  (2) juga berhalangan, Deputi Gubernur yang paling lama masa jabatannya menjalankan tugas pekerjaan Gubernur sebagai pejabat Gubernur sementara.
 
- Pasal 51
+### Pasal 51 ^pasal-51
 
  (1) Gaji, penghasilan lainnya dan fasilitas bagi Gubenur, Deputi
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 16 
-# Gubernur Senior dan Deputi Gubernur ditetapkan oleh Dewan Gubernur.
+                - 16
+**Gubernur Senior dan Deputi Gubernur ditetapkan oleh Dewan Gubernur.**
 
  (2) Besarnya gaji dan penghasilan lainnya bagi gubernur sebagaimana
  dimaksud pada ayat (1), ditetapkan paling banyak 2 (dua) kali dari gaji dan penghasilan lainnya bagi pegawai dengan jabatan tertinggi di Bank Indonesia.
@@ -752,15 +743,15 @@ BAB VIII
 
 HUBUNGAN DENGAN PEMERINTAH
 
-Pasal 52
+### Pasal 52 ^pasal-52
 
-# Bank Indonesia bertindak sebagai pemegang kas Pemerintah.
+**Bank Indonesia bertindak sebagai pemegang kas Pemerintah.**
 
- Pasal 53
+### Pasal 53 ^pasal-53
 
  Bank Indonesia untuk dan atas nama Pemerintah dapat menerima pinjaman luar negeri, menatausahakan, serta menyelesaikan tagihan dan kewajiban keuangan Pemerintah terhadap pihak luar negeri.
 
- Pasal 54
+### Pasal 54 ^pasal-54
 
  (1) Pemerintah wajib meminta pendapat Bank Indonesia dan atau
  mengundang Bank Indonesia dalam sidang kabinet yang membahas masalah ekonomi, perbankan dan keuangan yang berkaitan dengan tugas Bank Indonesia, atau masalah lain yang termmasuk kewenangan Bank Indonesia.
@@ -768,7 +759,7 @@ Pasal 52
  (2) Bank Indonesia memberikan pendapat dan pertimbangan kepada
  Pemerintah mengenai Rancangan Anggaran Pendapatan dan Belanja serta kebijaksanaan lain yang berkaitan dengan tugas dan wewenang Bank Indonesia.
 
- Pasal 55
+### Pasal 55 ^pasal-55
 
  (1) Dalam hal Pemerintah akan menerbitkan surat-surat utang negara,
  Pemerintah wajib terlebih dahulu berkonsultasi dengan Bank Indonesia.
@@ -778,14 +769,13 @@ Pasal 52
 
  (3) Bank Indonesia dapat membantu penerbitan surat-surat utang negara
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 17 
-# yang diterbitkan Pemerintah sebagaimana dimaksud pada ayat (1).
+                - 17
+**yang diterbitkan Pemerintah sebagaimana dimaksud pada ayat (1).**
 
  (4) Bank Indonesia dilarang membeli untuk diri sendiri surat-surat utang
  negara sebagaimana dimaksud pada ayat (1), kecuali di pasar sekunder.
@@ -793,7 +783,7 @@ REPUBLIK INDONESIA
  (5) Pebuatan Hukum Bank Indonesia membeli surat utang negara untuk
  diri sendiri tidak di pasar sekunder sebagaimana dimaksud pada ayat (4), dinyatakan batal demi hukum.
 
- Pasal 56
+### Pasal 56 ^pasal-56
 
  (1) Bank Indonesia dilarang memberikan kredit kepada Pemerintah.
 
@@ -804,7 +794,7 @@ REPUBLIK INDONESIA
 
  HUBUNGAN INTERNASIONAL
 
- Pasal 57
+### Pasal 57 ^pasal-57
 
  (1) Bank Indonesia dapat melakukan kerja sama dengan Bank Sentral
  lainnya, organisasi, dan lembaga internasional.
@@ -816,7 +806,7 @@ REPUBLIK INDONESIA
 
  AKUNTABILITAS DAN ANGGARAN
 
- Pasal 58
+### Pasal 58 ^pasal-58
 
  (1) Bank Indonesia wajib menyampaikan informasi kepada masyarakat
  secara terbuka melalui media massa pada setiap awal tahun anggaran yang memuat :
@@ -829,14 +819,13 @@ REPUBLIK INDONESIA
 
  (2) Informasi sebagaimana dimaksud pada ayat (1), disampaikan juga
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 18 
-# secara tertulis kepada Presiden dan Dewan Perwakilan Rakyat.
+                - 18
+**secara tertulis kepada Presiden dan Dewan Perwakilan Rakyat.**
 
  (3) Bank Indonesia wajib menyampaikan laporan perkembangan
  pelaksanaan tugas dan wewenangnya kepada Dewan Perwakilan Rakyat setiap 3 (tiga) bulan.
@@ -844,11 +833,11 @@ REPUBLIK INDONESIA
  (4) Dengan tidak mengurangi kewajiban sebagaimana dimaksud pada
  ayat (3), Bank Indonesia wajib menyampaikan penjelasan mengenai pelaksanaan tugas dan wewenangnya apabila diminta oleh Dewan Perwakilan Rakyat.
 
- Pasal 59
+### Pasal 59 ^pasal-59
 
  Badan Pemeriksa Keuangan dapat melakukan pemeriksaan khusus terhadap Bank Indonesia atas permintaan Dewan Perwakilan Rakyat apabila diperlukan.
 
- Pasal 60
+### Pasal 60 ^pasal-60
 
  (1) Tahun anggaran Bank Indonesia adalah tahun kalender.
 
@@ -858,7 +847,7 @@ REPUBLIK INDONESIA
  (3) Setiap penambahan jumlah anggaran pengeluaran yang diperlukan
  dalam tahun anggaran berjalan harus mendapat persetujuan terlebih dahulu dari Dewan Gubernur.
 
- Pasal 61
+### Pasal 61 ^pasal-61
 
  (1) Selambat-lambatnya 30 (tiga puluh) hari setelah berakhirnya tahun
  anggaran, Bank Indonesia telah menyelesaikan penyusunan laporan keuangan tahunan Bank Indonesia.
@@ -872,16 +861,15 @@ REPUBLIK INDONESIA
  (4) Bank Indonesia wajib mengumumkan laporan keuangan tahunan
  Bank Indonesia kepada publik melalui media massa.
 
- Pasal 62
-
+### Pasal 62 ^pasal-62
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 19 
-# (1) Surplus dari hasil kegiatan Bank Indonesia akan dibagi sebagai
+                  - 19
+**(1) Surplus dari hasil kegiatan Bank Indonesia akan dibagi sebagai**
  berikut :
 
  a. 30% (tiga puluh perseratus) untuk Cadangan Tujuan;
@@ -898,11 +886,11 @@ REPUBLIK INDONESIA
  (4) Terhadap surplus Bank Indonesia sebagaimana dimaksud pada ayat
  (1) tidak dikenakan pajak penghasilan.
 
- Pasal 63
+### Pasal 63 ^pasal-63
 
  Bank Indonesia menyusun neraca singkat mingguan yang diumumkan dalam Berita Negara Republik Indonesia.
 
- Pasal 64
+### Pasal 64 ^pasal-64
 
  (1) Bank Indonesia hanya dapat melakukan penyertaan modal pada
  badan hukum atau badan lainnya yang sangat diperlukan dalam pelaksanaan tugas Bank Indonesia dan dengan persetujuan Dewan Perwakilan Rakyat.
@@ -914,34 +902,33 @@ REPUBLIK INDONESIA
 
  KETENTUAN PIDANA DAN SANKSI ADMINISTRATIF
 
- Pasal 65
-
+### Pasal 65 ^pasal-65
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 20 
-# Barang siapa sengaja melakukan pelanggaran atas ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (3), diancam dengan pidana kurungan sekurang-kurangnya 1 (satu) bulan dan paling lama 3 (tiga) bulan, serta denda sekurang-kurangnya Rp.2.000.000,00 (dua juta rupiah) dan paling banyak Rp 6.000.000,00 (enam juta rupiah).
+                - 20
+**Barang siapa sengaja melakukan pelanggaran atas ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (3), diancam dengan pidana kurungan sekurang-kurangnya 1 (satu) bulan dan paling lama 3 (tiga) bulan, serta denda sekurang-kurangnya Rp.2.000.000,00 (dua juta rupiah) dan paling banyak Rp 6.000.000,00 (enam juta rupiah).**
 
- Pasal 66
+### Pasal 66 ^pasal-66
 
  Barang siapa dengan sengaja melakukan pelanggaran ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (4), diancam dengan pidana penjara sekurang-kurangnya 1 (satu) tahun dan paling lama 3 (tiga) tahun, serta denda sekurang-kurangnya Rp1.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp3.000.000.000,- (tiga miliar rupiah).
 
- Pasal 67
+### Pasal 67 ^pasal-67
 
  Barang siapa yang melakukan campur tangan terhadap pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 9 ayat (1), diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 5 (lima) tahun, serta denda sekurang-kurangnya Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak Rp5.000.000.000,- (lima miliar rupiah).
 
- Pasal 68
+### Pasal 68 ^pasal-68
 
  Anggota Dewan Gubernur dan atau pejabat Bank Indonesia yang melanggar ketentuan Pasal 9 ayat (2), diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 5 (lima) tahun, serta denda sekurang-kurangnya Rp 2.000.000.000,00 (dua miliar rupiah) dan paling banyak Rp 5.000.000.000,- (lima miliar rupiah).
 
- Pasal 69
+### Pasal 69 ^pasal-69
 
  Badan yang tidak memenuhi kewajiban sebagaimana dimaksud dalam Pasal 14 ayat (3), diancam dengan pidana denda paling banyak Rp.50.000.000,00 (lima puluh juta rupiah).
 
- Pasal 70
+### Pasal 70 ^pasal-70
 
  (1) Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal
  55 ayat (4), diancam dengan pidana penjara sekurang-kurangnya 1 (satu) tahun dan paling lama 3 (tiga) tahun, serta denda sekurang-kurangnya Rp6.000.000.000,00 (enam miliar rupiah) dan paling banyak Rp15.000.000.000,- (lima belas miliar rupiah).
@@ -949,14 +936,13 @@ REPUBLIK INDONESIA
  (2) Penuntutan terhadap pelanggaran sebagaimana dimaksud pada ayat
  (1), dilakukan terhadap mereka yang memberi perintah, yang melakukan perbuatan, yang bertindak sebagai pimpinan dalam perbuatan dimaksud, atau terhadap ketiga-tiganya.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 21 
-# Pasal 71
+                - 21
+### Pasal 71 ^pasal-71
 
  (1) Gubernur, Deputi Gubernur Senior, Deputi Gubernur, pegawai Bank
  Indonesia, atau pihak lain yang ditunjuk atau disetujui oleh Bank Indonesia untuk melakukan tugas tertentu yang memberikan keterangan dan data lainnya yang bersifat rahasia yang diperoleh karena jabatannya secara melawan hukum, diancam dengan pidana penjara sekurang-kurangnya 1 (satu) tahun dan paling lama 3 (tiga) tahun, serta denda sekurang-kurangnya Rp1.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp3.000.000.000,- (tiga belas miliar rupiah).
@@ -967,7 +953,7 @@ REPUBLIK INDONESIA
  (3) Keterangan dan data lainnya yang bersifat rahasia sebagaimana
  dimaksud pada ayat (1) ditetapkan dengan Peraturan Dewan Gubernur.
 
- Pasal 72
+### Pasal 72 ^pasal-72
 
 (1) Dengan tidak mengurangi ketentuan pidana sebagaimana
 dimaksud dalam Pasal 65, Pasal 66, Pasal 67, Pasal 68, Pasal 69,
@@ -996,22 +982,21 @@ d. pengenaan sanksi disiplin kepegawaian.
 dengan Peraturan Bank Indonesia atau Peraturan Dewan
 Gubernur.
 
-# BAB XVII
+**BAB XVII**
 
  KETENTUAN PERALIHAN
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 22 
-# Pasal 73
+                - 22
+### Pasal 73 ^pasal-73
 
  Segala aktiva dan pasiva Bank Indonesia menurut Undang-undang Nomnor 13 Tahun 1968 tentang Bank Sentral beralih menjadi aktiva dan pasiva Bank Indonesia menurut Undang-undang ini.
 
- Pasal 74
+### Pasal 74 ^pasal-74
 
  (1) Kredit Likuiditas Bank Indonesia dalam rangka kredit program
  yang masih berjalan dan belum jatuh tempo serta yang telah disetujui tetapi belum ditarik, dialihkan berdasarkan suatu perjanjian kepada Badan Usaha Milik Negara yang ditunjuk Pemerintah, dalam jangka waktu paling lama 6 (enam) bulan sejak berlakunya Undang-undang ini.
@@ -1022,7 +1007,7 @@ REPUBLIK INDONESIA
  (3) Subsidi bunga atas kredit likuiditas yang berada dalam pengelolaan
  Badan usaha Milik Negara sebagaimana dimaksud pada ayat (2), tetap menjadi beban Pemerintah.
 
- Pasal 75
+### Pasal 75 ^pasal-75
 
  (1) Dengan berlakunya Undang-undang ini, Direksi yang diangkat
  berdasarkan Undang-undang Nomor 13 Tahun 1968 tentang Bank Sentral dinyatakan diberhentikan dan diangkat kembali sebagai anggota Dewan Gubernur dengan pengaturan sebagai berikut :
@@ -1045,16 +1030,15 @@ REPUBLIK INDONESIA
  (3) Anggota Dewan gubernur sebagaimana dimaksud pada ayat (1)
  huruf b, huruf c, dan huruf d disetujui oleh Dewan Perwakilan Rakyat berdasarkan usul Gubernur.
 
- Pasal 76
-
+### Pasal 76 ^pasal-76
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 23 
-# (1) Ketentuan tentang Bank Indonesia dilarang membeli untuk diri
+                - 23
+**(1) Ketentuan tentang Bank Indonesia dilarang membeli untuk diri**
  sendiri surat-surat utang negara sebagaimana dimaksud dalam Pasal 55 ayat (4) dinyatakan mulai berlaku selambat-lambatnya 1 Januari 2000 kecuali untuk keperluan pembiayaan restrukturisasi perbankan.
 
  (2) Terhadap tagihan atas surat-surat utang negara yang telah dibeli
@@ -1063,11 +1047,11 @@ REPUBLIK INDONESIA
  (3) Dalam hal diperlukan perpanjangan jangka waktu tagihan
  sebagaimana dimaksud pada ayat (2), Pemerintah harus mengajukan permohonan perpanjangan jangka waktu tagihan tersebut selambat-lambatnya 30 (tiga puluh) hari sebelum tagihan jatuh tempo.
 
- Pasal 77
+### Pasal 77 ^pasal-77
 
  Dalam jangka waktu paling lama 2 (dua) tahun sejak diberlakukannya Undang-undang ini, Bank Indonesia wajib sudah melepaskan seluruh penyertaannya pada badan hukum atau badan lainnya yang tidak memenuhi ketentuan sebagaimana diatur dalam Pasal 64 ayat (1).
 
- Pasal 78
+### Pasal 78 ^pasal-78
 
  (1) Dengan berlakunya Undang-undang ini, Undang-undang Nomor 13
  Tahun 1968 tentang Bank Sentral dan peraturan-perundang-undangan lainnya yang bertentangan dengan undang-undang ini dinyatakan tidak berlaku.
@@ -1079,20 +1063,19 @@ REPUBLIK INDONESIA
 
  KETENTUAN PENUTUP
 
- Pasal 79
+### Pasal 79 ^pasal-79
 
  Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
  Agar setiap orang mengetahuinya, memerintahkan pengundangan undang-undang ini dengan penempatannya dalam Lembaran Negara
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 24 
-# Republik Indonesia.
+                           - 24
+**Republik Indonesia.**
 
  Disahkan di Jakarta
 
@@ -1117,13 +1100,14 @@ PROF. DR. H. MULADI, SH
 
 LAMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 66
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# PENJELASAN
+## Penjelasan
+
+### I. Umum
 
  UNDANG-UNDANG REPUBLIK INDONESIA
 
@@ -1145,14 +1129,13 @@ REPUBLIK INDONESIA
 
  Dalam Undang-undang ini, Bank Indonesia mempunyai satu tujuan, yaitu mencapai dan memelihara kestabilan nilai rupiah. Kestabilan nilai rupiah dan nilai tukar yang wajar
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 2 
-# merupakan sebagian dari prasyarat bagi tercapainya pertumbuhan ekonomi yang berkesinambungan yang pada gilirannya akan meningkatkan kesejahteraan rakyat. Reorientasi sasaran Bank Indonesia tersebut merupakan bagian dari kebijakan pemulihan dan reformasi perekonomian untuk keluar dari krisis ekonomi yang tengah melanda Indonesia. hal itu sekaligus meletakkan landasan yang kukuh bagi pelaksanaan dan pengembangan perekonomian Indonesia di tengah-tengah perekonomian dunia yang semakin kompetitif dan terintegrasi. Sebaliknya, kegagalan untuk memelihara kestabilan nilai rupiah seperti tercermin pada kenaikan harga-harga dapat merugikan karena berakibat menununkan pendapatan riil masyarakat dan melemahkan daya saing perekonomian nasional dalam kancah perekonomian dunia.
+                              - 2
+**merupakan sebagian dari prasyarat bagi tercapainya pertumbuhan ekonomi yang berkesinambungan yang pada gilirannya akan meningkatkan kesejahteraan rakyat. Reorientasi sasaran Bank Indonesia tersebut merupakan bagian dari kebijakan pemulihan dan reformasi perekonomian untuk keluar dari krisis ekonomi yang tengah melanda Indonesia. hal itu sekaligus meletakkan landasan yang kukuh bagi pelaksanaan dan pengembangan perekonomian Indonesia di tengah-tengah perekonomian dunia yang semakin kompetitif dan terintegrasi. Sebaliknya, kegagalan untuk memelihara kestabilan nilai rupiah seperti tercermin pada kenaikan harga-harga dapat merugikan karena berakibat menununkan pendapatan riil masyarakat dan melemahkan daya saing perekonomian nasional dalam kancah perekonomian dunia.**
 
  Tujuan Bank Indonesia untuk mencapai dan memelihara kestabilan nilai rupiah tersebut perlu ditopang dengan tiga pilar utama, yaitu kebijakan moneter dengan prinsip kehati-hatian, sistem pembayaran yang cepat dan tepat, serta sistem perbankan dan keuangan yang sehat.
 
@@ -1164,14 +1147,13 @@ REPUBLIK INDONESIA
 
  Sesuai dengan amanat Undang-Undang Dasar 1945, Bank Indonesia ditunjuk sebagai lembaga yang berwenang untuk mengeluarkan dan mengatur peredaran uang rupiah sebagai alat pembayaran yang sah. Berhubung kelancaran sistem pembayaran sangat penting bagi pelaksanaan kebijakan moneter, kepada Bank Indonesia diberikan tugas mengatur dan menjaga kelancaran sistem pembayaran. Agar tugas tersebut dapat dilaksanakan secara efektif, kepada Bank Indonesia perlu diberikan kewenangan dan tanggung jawab yang luas dalam mengatur dan melaksanakan kegiatan kliring dan jasa transfer dana, serta penyelesaian akhir transaksi pembayaran antar bank. Disamping itu, Bank Indonesia juga diberikan kewenangan dan tanggung jawab yang berkaitan dengan pengawasan jasa sistem pembayaran agar masyarakat luas dapat memperoleh jasa sistem pembayaran yang efisien, cepat, tepat dan aman.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 3 
-# Dalam rangka pelaksanaan tugas pengaturan dan pengawasan Bank, kepada Bank Indonesia diberikan wewenang untuk menetepkan peraturan dan perizinan bagi kelembagaan dan kegiatan usaha Bank serta mengenakan sanksi terhadap Bank sesuai peraturan perundang-undangan yang berlaku. Tugas pengaturan Bank Indonesia antara lain juga menetapkan prioritas penyaluran dana kepada pengusaha golongan ekonomi lemah dan koperasi.
+                              - 3
+**Dalam rangka pelaksanaan tugas pengaturan dan pengawasan Bank, kepada Bank Indonesia diberikan wewenang untuk menetepkan peraturan dan perizinan bagi kelembagaan dan kegiatan usaha Bank serta mengenakan sanksi terhadap Bank sesuai peraturan perundang-undangan yang berlaku. Tugas pengaturan Bank Indonesia antara lain juga menetapkan prioritas penyaluran dana kepada pengusaha golongan ekonomi lemah dan koperasi.**
 
  Kewenangan Bank Indonesia dimaksudkan pula untuk menanggulangi krisis ekonomi dalam waktu sesingkat-singkatnya dengan sasaran terkendalinya nilai kurs rupiah pada tingkat yang wajar. Hal ini sesuai dengan amanat Bab IV huruf A butir 1a Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia Nomor X/MPR/1998. Bank Indonesia sebagai otoritas moneter, sebagaimana amanat Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia tersebut diharuskan membangun sistem kelembagaan yang kuat dan independen dalam mengelola dan mendayagunakan devisa. Dalam rangka pengelolaan keuangan nasional yang sehat, Bank Indonesia sebagai Bank Sentral harus mandiri, bebas dari campur tangan pemerintah dan pihak lainnya, serta kinerjanya dapat diawasi dan dipertanggungjawabkan.
 
@@ -1185,14 +1167,13 @@ REPUBLIK INDONESIA
 
  PASAL DEMI PASAL
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 4 
-# Pasal 1 Cukup jelas
+                              - 4
+**Pasal 1 Cukup jelas**
  Pasal 2 Ayat (1) Satu rupiah terdiri atas 100 (seratus) sen.
  Ayat (2) Yang dimaksud dengan wilayah negara Republik Indonesia adalah seluruh wilayah teritorial Indonesia termasuk kapal yang berbendera Republik Indonesia.
  Ayat (3) Pokok-pokok ketentuan mengenai pengecualian sebagaimana dimaksud dalam ayat ini akan ditetapkan dalam Peraturan bank Indonesia yang memuat antara lain: a. pencantuman harga barang dan jasa dalam valuta asing di tempat dan kegiatan
@@ -1206,28 +1187,26 @@ REPUBLIK INDONESIA
  Indonesia; c. sanksi administratif terhadap pelanggaran ketentuan pemindahan uang rupiah
  dari atau ke luar negeri tanpa izin.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 5 
-# Pasal 4 Ayat (1) Yang dimaksud dengan Bank Sentral adalah lembaga negara yang mempunyai wewenang untuk mengeluarkan alat pembayaran yang sah dari suatu negara, merumuskan dan melaksanakan kebijakan moneter, mengatur dan menjaga kelancaran sistem pembayaran, mengatur dan mengawasi perbankan, serta menjalankan fungsi sebagai lender of the last resort. Bank Sentral dimaksud mempunyai tujuan mencapai dan memelihara kestabilan nilai rupiah dan tidak melakukan kegiatan intermediasi seperti yang dilakukan oleh Bank pada umumnya. Walaupun demikian, dalam rangka mendukung tugas-tugasnya Bank Sentral dapat melakukan aktivitas perbankan yang dianggap perlu. Di Indonesia hanya ada satu Bank Sentral dan sesuai dengan Penjelasan Pasal 23 ayat (3) Undang-Undang Dasar 1945 disebut Bank Indonesia.
+                              - 5
+**Pasal 4 Ayat (1) Yang dimaksud dengan Bank Sentral adalah lembaga negara yang mempunyai wewenang untuk mengeluarkan alat pembayaran yang sah dari suatu negara, merumuskan dan melaksanakan kebijakan moneter, mengatur dan menjaga kelancaran sistem pembayaran, mengatur dan mengawasi perbankan, serta menjalankan fungsi sebagai lender of the last resort. Bank Sentral dimaksud mempunyai tujuan mencapai dan memelihara kestabilan nilai rupiah dan tidak melakukan kegiatan intermediasi seperti yang dilakukan oleh Bank pada umumnya. Walaupun demikian, dalam rangka mendukung tugas-tugasnya Bank Sentral dapat melakukan aktivitas perbankan yang dianggap perlu. Di Indonesia hanya ada satu Bank Sentral dan sesuai dengan Penjelasan Pasal 23 ayat (3) Undang-Undang Dasar 1945 disebut Bank Indonesia.**
  Ayat (2) Bank Indonesia sebagai lembaga negara yang independen di bidang tugasnya berada di luar pemerintahan dan lembaga lain sebagaimana ditetapkan dalam Undang-undang ini. Dalam pelaksanaan tugasnya Bank Indonesia menyampaikan laporan kepada Dewan Perwakilan Rakyat. Selain itu, laporan keuangan Bank Indonesia diperiksa oleh Badan Pemeriksa Keuangan. Hasil pemeriksaan Badan Pemeriksa Keuangan disampaikan kepada Dewan Perwakilan Rakyat.
  Ayat (3) Bank Indonesia dinyatakan sebagai badan hukum dengan Undang-undang ini dan dimaksudkan agar terdapat kejelasan wewenang Bank Indonesia dalam mengelola kekayaan sendiri yang terlepas dari Anggaran Pendapatan dan belanja Negara. Selain itu, Bank Indonesia sebagai badan hukum publik berwenang untuk menetapkan peraturan dan mengenakan sanksi dalam batas kewenangannya.
  Pasal 5 Ayat (1) Cukup jelas
  Ayat (2) Yang dimaksud dengan kantor-kantor di dalam dan di luar wilayah negara Republik Indonesia adalah kantor-kantor cabang Bank Indonesia di daerah atau kantor-kantor perwakilan Bank Indonesia di luar negeri. Pada kantor-kantor tersebut dilakukan kegiatan-kegiatan Bank Indonesia sesuai dengan tugas dan wewenangnya.
  Pasal 6 Ayat (1) Modal Bank Indonesia sebagaimana dimaksud pada ayat ini berasal dari kekayaan negara yang dipisahkan, yang merupakan penjumlahan dari modal, Cadangan Umum, Cadangan Tujuan dan bgaian dari laba yang belum dibagi menurut Undang-undang Nomor 13 Tahun 1968 tentang Bank Sentral sebelum
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 6 
-# Undang-undang ini diberlalukan.
+                              - 6
+**Undang-undang ini diberlalukan.**
  Ayat (2) Yang dimaksud dengan sumber lain untuk tambahan modal dapat berupa hasil evaluasi aset dan atau setoran modal dari kekayaan negara yang dipisahkan. Selain itu, sumber lain tersebut dimaksudkan pula untuk menampung kemungkinan perubahan standar akuntansi keuangan tentang modal. Yang dimaksud dengan kewajiban moneter adalah kewajiban Bank Indonesia kepada masyarakat, Bank, dan Pemerintah yang terdiri atas uang kartal yang diedarkan, saldo kredit rekening milik Bank, milik Pemerintah, dan milik pihak lain seperti simpanan pegawai yang tercatat di Bank Indonesia serta surat utang yang diterbitkan oleh Bank Indonesia.
  Ayat (3) Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Dewan Gubernur meliputi antara lain : a. perlakuan akuntasi untuk modal Bank Indonesia; b. pemasyarakatan dan tata cara revaluasi aset; c. persyaratan penambahan modal yang berasal dari sumber-sumber lain.
  Pasal 7
@@ -1236,26 +1215,24 @@ REPUBLIK INDONESIA
  Pelaksanaan tugas sebagaimana dimaksud dalam pasal ini mempunyai keterkaitan dalam mencapai kestabilan nilai rupiah. Tugas menetapkan dan melaksanakan kebijakan moneter dilakukan Bank Indonesia antara lain melalui pengendalian jumlah uang beredar dan suku bunga. Efektivitas pelaksanaan tugas ini memerlukan dukungan sistem pembayaran yang efisien, cepat, aman, dan andal, yang merupakan sasaran dari pelaksanaan tugas mengatur dan menjaga kelancaran sistem pembayaran. Sistem pembayaran yang efisien, cepat, aman, dan andal tersebut memerlukan sistem perbankan yang sehat, yang merupakan sasaran tugas mengatur dan mengawasi Bank. Selanjutnya, sistem perbankan yang sehat akan mendukung pengendalian moneter mengingat pelaksanaan kebijakan moneter terutama dilakukan memalui sistem perbankan.
  Pasal 9 Ayat (1) Yang dimaksud dengan pihak lain adalah semua pihak di luar Bank Indonesia, termasuk Pemerintah dan atau lembaga-lembaga lainnya. Yang dimaksud dengan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 7 
-# segala bentuk campur tangan adalah segala peruatan pihak lain yang secara langsung atau tidak langsung dapat mempengaruhi kebijakan dan pelaksanaan tugas Bank Indonesia. Ketentuan ini dimaksudkan agar Bank Indonesia dapat melaksanakan tugas dan wewenangnya berdasarkan Undang-undang ini secara efektif. Tidak termasuk dalam pengertian campur tangan adalah kerja sama yang dilakukan oleh pihak lain atau bantuan teknis yang diberikan pihak lain atas permintaan Bank Indonesia dalam rangka mendukung pelaksanaan tugas Bank Indonesia sebagaimana diamanatkan dalam Undang-undang ini.
+                              - 7
+**segala bentuk campur tangan adalah segala peruatan pihak lain yang secara langsung atau tidak langsung dapat mempengaruhi kebijakan dan pelaksanaan tugas Bank Indonesia. Ketentuan ini dimaksudkan agar Bank Indonesia dapat melaksanakan tugas dan wewenangnya berdasarkan Undang-undang ini secara efektif. Tidak termasuk dalam pengertian campur tangan adalah kerja sama yang dilakukan oleh pihak lain atau bantuan teknis yang diberikan pihak lain atas permintaan Bank Indonesia dalam rangka mendukung pelaksanaan tugas Bank Indonesia sebagaimana diamanatkan dalam Undang-undang ini.**
  Ayat (2) Cukup jelas
  Pasal 10 Ayat (1) Huruf a Sasaran laju inflasi ditetapkan oleh Bank Indonesia atas dasar tahun kalender dengan memperhatikan perkembangan dan prospek ekonomi makro. Penetapan sasaran laju inflasi tersebut terutama dilakukan dengan mempertimbangkan pekembangan harga yang secara langsung dipengaruhi oleh kebijakan moneter. Sasaran laju inflasi yang ditetapkan oleh Bank Indonesia tersebut dapat berbeda dengan asumsi laju inflasi yang dibuat oleh Pemerintah dalam rangka penyusunan Anggaran Pendapatan dan Belanja Negara yang didasarkan pada tahun fiskal. Dalam hal terjadi perbedaan, Bank Indonesia dapat memberikan penjelasan secara terbuka apabila diminta oleh Dewan Perwakilan Rakyat. Huruf b Angka 1 Termasuk dalam pengertian operasi pasar terbuka pada ayat ini adalah intervensi di pasar valuta asing yang dilakukan oleh Bank Indonesia dalam rangka stabilisasi rupiah. Angka 2 Yang dimaksud dengan penetapan tingkat diskonto adalah penetapan tingkat bunga tertentu yang diberlakukan oleh Bank Indonesia antar lain dalam operasi pasar terbuka dalam rangka kredit dari Bank Indonesia maupun dalam pelaksanaan fungsi lender of the last resort. Angka 3 Cukup jelas Angka 4 Yang dimaksud dengan pengaturan kredit atau pembiayaan adalah penetapan pertumbuhan penyaluran kredit atau pembiayaan oleh lembaga perbankan secara keseluruhan berkaitan dengan pengendalian moneter.
  Ayat (2) Operasi pasar terbuka dalam rangka pengendalian moneter melalui Bank berdasarkan Prinsip Syariah dilakukan dengan cara penetapan nisbah bagi hasil atau imbalan sebagai pengganti tingkat diskonto yang diberlakukan pada Bank
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 8 
-# konvensional.
+                              - 8
+**konvensional.**
  Ayat (3) Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Bank Indonesia meliputi antara lain : a. tata cara pelaksnaaan operasi pasar terbuka di pasar uang rupiah; b. tata cara pelaksanaan intervensi valuta asing dalam rangka stabilisasi rupiah; c. instrumen yang digunakan dalam operasi pasar terbuka; d. tata cara penetapan tingkat diskonto; e. penetapan jenis dan besaran cadangan wajib minimum bagi Bank, baik dalam
  mata uang rupiah maupun valuta asing; f. penetapan sanksi administratif terhadap pelanggaran cadangan wajib
  minimum; g. pembatasan kredit atau pembiayaan termasuk juga segala bentuk fasilitas
@@ -1264,14 +1241,13 @@ REPUBLIK INDONESIA
  Pasal 11 Ayat (1) Pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah kepada Bank yang dimaksudkan dalam pasal ini hanya dilakukan untuk mengatasi kesulitan Bank karena adanya ketidaksesuaian antara arus dana masuk yang lebih kecil dibandingkan dengan arus dana keluar. Yang dimaksud dengan hari pada ayat ini adalah hari kalender. Jangka waktu paling lama 90 (sembilan puluh) hari yang dimaksud pada ayat ini merupakan jangka waktu maksimum yang dimungkinkan termasuk perpanjangannya. Apabila kredit atau pembiayaan berdasarkan Prinsip Syariah tidak dapat dilunasi pada saat jatuh tempo, Bank Indonesia sepenuhnya berhak mencair-kan agunan yang dikuasainya sesuai dengan peraturan perundang-undangan yang berlaku. Bank yang dapat memperoleh bantuan likuiditas adalah Bank yang memenuhi persyaratan yang ditetapkan oleh Bank Indonesia, misalnya secara nyata berdasarkan informasi yang diperoleh Bang Indonesia bahwa Bank yang bersangkutan mengalami kesulitan likuiditas jangka pendek, memiliki agunan yang cukup dan apabila diperlukan, akan dilakukan pemeriksaan lebih lanjut terhadap kondisi Bank tersebut.
  Ayat (2) Yang dimaksud dengan agunan yang berkualitas tingi dan mudah dicairkan meliputi surat berharga dan atau tagihan yang diterbitkan oleh Pemerintah atau badan hukum lain yang mempunyai peringkat tinggi berdasarkan hasil penilaian lembaga pemeringkat yang kompeten dan sewaktu-waktu dengan mudah dapat dijual ke pasar untuk dijadikan uang tunai. Yang dimaksud dengan pembiayaan berdasarkan Prinsip Syariah, misalnya bagi hasil atau resiko yang ditanggung bersama secara proporsional.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                              - 9 
-# Ayat (3) Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Bank Indonesia memuat antara lain: a. persyaratan dan tata cara pemberian kredit atau pembiayaan berdasarkan
+                              - 9
+**Ayat (3) Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Bank Indonesia memuat antara lain: a. persyaratan dan tata cara pemberian kredit atau pembiayaan berdasarkan**
  Prinsip Syariah, termasuk di dalamnya persyuaratan tingkat kesehatan Bank penerima. Dalam rangka meneliti pemenuhan persyaratan kesehatan Bank tersebut, Bank Indonesia melakukan pemeriksaan terhadap Bank calon penerima kredit atau pembiayaan; b. jangka waktu, tingkat suku bunga atau nisbah bagi hasil dan biaya lainnya; c. jenis agunan berupa surat berharga dan atau tagihan yang mempunyai
  peringkat tinggi; d. tata cara pengikatan agunan.
  Pasal 12
@@ -1281,26 +1257,24 @@ REPUBLIK INDONESIA
  Pasal 13 Ayat (1) Yang dimaksud dengan cadangan devisa adalah cadangan devisa negara yang dikuasai oleh Bank Indonesia, yang tercatat pada sisi aktiva neraca Bank Indonesia, yang antara lain berupa emas, uang kertas asing dan tagihan lainnya dalam valuta asing kepada pihak luar negeri yang dapat dipergunakan sebagai alat pembayaran luar negeri. Cadangan devisa mencakup pula hak atas devisa yang setiap waktu dapat ditarik dari suatu badan keuangan internasional. Bank Indonesia mengupayakan agar cadangan devisa yang dipelihara mencapai jumlah yang oleh Bank Indonesia dianggap cukup untuk melaksanakan kebijakan moneter.
  Ayat (2) Pengelolaan cadangan devisa Bank Indonesia dilakukan dengan melalui berbagai jenis transaksi devisa yaitu menjual, membeli, dan atau menetapkan devisa, emas dan surat-surat berharga secara tunai atau berjangka termasuk pemberian pinjaman. Pengelolaan dan pemeliharaan cadangan devisa didasarkan pada prinsip keamanan dan kesiagaan memenuhi kewajiban segera tanpa mengabaikan prinsip untuk memperoleh pendapatan yang optimal. Tujuan pengelolaan dan pemeliharaan cadangan devisa merupakan bagian yang tidak terpisahkan dari upaya menjaga nilai tukar
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 10 
-# Ayat (3) Pinjaman luar negeri yang diterima Bank Indonesia pada ayat ini adalah pinjaman luar negeri atas nama dan menjadi tanggung jawab Bank Indonesia sebagai badan hukum. Pinjaman ini semata-mata digunakan dalam rangka pengelolaan cadangan devisa untuk memperkuat posisi neraca pembayaran sebagai bagian dari pelaksanaan kebijakan moneter. Dengan demikian, pinjaman ini tidak mengganggu dan tidak termasuk dalam Anggaran Pendapatan dan Belanja Negara. Jumlah pinjaman tersebut disesuaikan dengan kemampuan Bank Indonesia untuk membayar kembali. Pelaksanaan pinjaman dimaksud dapat dipantau Dewan Perwakilan Rakyat melalui hasil pemeriksaan keuangan oleh Badan Pemeriksa Keuangan Republik Indonesia.
+                           - 10
+**Ayat (3) Pinjaman luar negeri yang diterima Bank Indonesia pada ayat ini adalah pinjaman luar negeri atas nama dan menjadi tanggung jawab Bank Indonesia sebagai badan hukum. Pinjaman ini semata-mata digunakan dalam rangka pengelolaan cadangan devisa untuk memperkuat posisi neraca pembayaran sebagai bagian dari pelaksanaan kebijakan moneter. Dengan demikian, pinjaman ini tidak mengganggu dan tidak termasuk dalam Anggaran Pendapatan dan Belanja Negara. Jumlah pinjaman tersebut disesuaikan dengan kemampuan Bank Indonesia untuk membayar kembali. Pelaksanaan pinjaman dimaksud dapat dipantau Dewan Perwakilan Rakyat melalui hasil pemeriksaan keuangan oleh Badan Pemeriksa Keuangan Republik Indonesia.**
  Pasal 14 Ayat (1) Survei yang dimaksud dalam pasal ini dapat berupa pengumpulan informasi yang bersifat makro atau mikro seperti survei mengenai kegiatan usaha, survei konsumen, survei perkembangan harga aset dan survei-survei lainnya, yang diperlukan dalam rangka pelaksanaan tugas dan wewenang Bank Indonesia, termasuk survei dalam rangka penyusunan dan penyempurnaan statistik neraca pembayaran. Ayat (2) Yang dimaksud dengan pihak lain pada ayat ini adalah lembaga survei yang independen, kompeten dan profesional. Ayat (3) Keterangan data yang diminta oleh Bank Indonesia bukan untuk maksud pemeriksaan, melainkan untuk kepentingan statistik. Ayat (4) Yang dimaksud dengan Undang-undang pada ayat ini adalah Undang-undang lain yang mewajibkan pihak yang mempunyai keterangan dan data yang bersifat rahasia untuk mengungkapkannnya sesuai dengan peraturan perundang-undangan yang berkaitan. Ayat (5) Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Bank Indonesia memuat antara lain: a. tata cara pengumpulan dan penyampaian data; b. koordinasi dan kerja sama pengumpulan data dengan pihak-pihak lain apabila
  diperlukan; c. persyaratan bagi pihak ketiga sebagai pelaksana survei.
  Pasal 15 Ayat (1) Huruf a Jasa sistem pembayaran yang dapat dilaksanakan oleh Bank Indonesia antara lain adalah jasa transfer dana nilai besar. Adapun persetujuan terhadap penyelenggaraan jasa sistem pembayaran dimaksudkan agar penyelenggaraan jasa sistem pembayaran oleh pihak lain memenuhi persyaratan, khususnya persyaratan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 11 
-# keamanan dan efisiensi. Huruf b Kewajiban penyampaian laporan berlaku bagi setiap penyelenggara jasa sistem pembayaran. Hal ini dimaksudkan agar Bank Indonesia dapat memantau penyelenggaraan sistem pembayaran. Informasi yang diperoleh dari penyelenggaraan sistem pembayaran itu juga diperlukan untuk menunjang pelaksanaan tugas-tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 8. Huruf c Penetapan penggunaan alat pembayaran dimaksudkan agar alat pembayaran yang digunakan dalam masyarakat memenuhi persyaratan keamanan bagi pengguna. Dalam wewenang ini termasuk membatasi penggunaan alat pembayaran tertentu dalam rangka prinsip kehati-hatian. Dalam rangka pelaksanaan kewenangan pada ayat (1) ini, Bank Indonesia dapat melakukan pemeriksaan terhadap penyelenggara jasa sistem pembayaran.
+                           - 11
+**keamanan dan efisiensi. Huruf b Kewajiban penyampaian laporan berlaku bagi setiap penyelenggara jasa sistem pembayaran. Hal ini dimaksudkan agar Bank Indonesia dapat memantau penyelenggaraan sistem pembayaran. Informasi yang diperoleh dari penyelenggaraan sistem pembayaran itu juga diperlukan untuk menunjang pelaksanaan tugas-tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 8. Huruf c Penetapan penggunaan alat pembayaran dimaksudkan agar alat pembayaran yang digunakan dalam masyarakat memenuhi persyaratan keamanan bagi pengguna. Dalam wewenang ini termasuk membatasi penggunaan alat pembayaran tertentu dalam rangka prinsip kehati-hatian. Dalam rangka pelaksanaan kewenangan pada ayat (1) ini, Bank Indonesia dapat melakukan pemeriksaan terhadap penyelenggara jasa sistem pembayaran.**
  Ayat (2) Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Bank Indonesia memuat antara lain : a. jenis penyelenggaraan jasa sistem pembayaran yang memerlukan persetujuan
  Bank Indonesia dan prosedur pemberian persetujuan oleh Bank Indonesia; b. cakupan wewenang dan tanggung jawab penyelenggara jasa sistem
  pembayaran, termasuk tanggung jawab yang berkaitan dengan manajeman risiko; c. persyaratan keamanan dan efisiensi dalam penyelenggaraan jasa sistem
@@ -1313,14 +1287,13 @@ REPUBLIK INDONESIA
  Yang dimaksud dengan kliring antar bank adalah pertukaran warkat atau data keuangan elektronik antar bank baik atas nama Bank maupun nasabah yang hasil perhitungannya diselesaikan pada waktu tertentu. Warkat atau data keuangan elektronik dimaksud merupakan alat pembayaran bukan tunai yang diatur dalam peraturan perundang-undangan atau ketentuan lain yang berlaku, yang lazim digunakan dalam transaksi pembayaran. Adapun sistem kliring antar Bank meliputi sistem kliring domestik dan lintas negara. Pengaturan sistem kliring lintas negara mencakup antara lain : a. penetapan persyaratan bagi Bank Indonesia atau Bank dalam keangotaan pada
  sistem kliring yang bersifat regional atau internasional;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 12 
-# b. pengaturan mengegenai kesepakatan antara Bank Indonesia atau lembaga lain
+                           - 12
+**b. pengaturan mengegenai kesepakatan antara Bank Indonesia atau lembaga lain**
  sebagai penyelenggara sistem pembayaran dengan Bank Sentral dan atau lembaga penyelenggara sistem pembayaran, negara lain yang berkaitan dengan pelaksanaan kliring dan penyelesaian akhir transaksi pembayaran antar bank.
  Pasal 17 Ayat (1) Cukup jelas Ayat (2) Pokok-pokok ketentuan yang akan ditetapkan dalam Peratuan Bank Indonesia  memuat antara lain: a. jenis penyelenggaraan kliring yang dapat dilaksanakan oleh pihak lain; b. persyaratan dan bentuk hukum pihak lain yang dapat menyelenggarakan
  kliring; c. tata cara pemberian persetujuan terhadap pihak lain yang akan menyelenggarakan kliring.
@@ -1330,14 +1303,13 @@ REPUBLIK INDONESIA
  Pasal 19
  Yang dimaksud dengan macam uang adalah jenis uang yang dikeluarkan Bank Indonesia, yaitu uang kertas dan uang logam. Uang kertas adalah uang dalam bentuk lembaran yang terbuat dari bahan kertas atau bahan lainnya. Uang logam adalah uang dalam bentuk koin yang terbuat dari alumunium, alumunium brone, kupronikel dan bahan lainnya. Harga uang adalah nilai nominal atau pecahan uang yang dikeluarkan oleh Bank Indonesia. Ciri uang adalah tanda-tanda tertentu pada setiap uang yang ditetapkan oleh Bank Indonesia, dengan tujuan untuk mengamankan uang tersebut dari upaya pemalsuan. Tanda-tanda tersebut dapat berupa warna, gambar, ukuran, berat dan tanda-tanda lainnya yang ditetapkan oleh Bank Indonesia.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 13 
-# Pasal 20
+                           - 13
+**Pasal 20**
  Sebagai konsekuensi dari ketentuan pasal ini, Bank Indonesia memberikan kesempatan kepada masyarakat untuk ; a. melakukan penukaran uang dalam pecahan yang sama dan pecahan lainnya; b. melakukan penukaran uang yang cacat atau dianggap tidak layak untuk
  diedarkan; c. menukarkan uang yang rusak sebagaian karena terbakar atau sebab lain dengan
  nilai nominalnya yang bergantung pada tingkat kerusakannya. Selain itu, Bank Indonesia juga melakukan pemusnahan uang yang dianggap tidak layak untuk diedarkan kembali.
@@ -1352,53 +1324,49 @@ REPUBLIK INDONESIA
  Pasal 24
  Dalam hal ini, pengaturan dan pengawasan Bank mengacu pada Undang-undang Nomor 7 Tahun 1992 tentang Perbankan sebagaimana telah diubah dengan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 14 
-# Undang-undang Nomor 10 tahun 1998.
+                           - 14
+**Undang-undang Nomor 10 tahun 1998.**
  Pasal 25 Ayat (1) Ketentuan-ketentuan perbankan yang memuat prinsip kehati-hatian bertujuan untuk memberikan rambu-rambu bagi penyelenggaraan kegiatan usaha perbankan, guna mewujudkan sistem perbankan yang sehat. Mengingat pentingnya tujuan mewujudkan sisten perbankan yang sehat, maka peraturan-peraturan di bidang perbankan yang ditetapkan oleh Bank Indonesia  harus didukung dengan sanksi-sanksi yang adil. Pengaturan Bank berdasarkan prinsip kehati-hatian tersebut disesuaikan pula dengan standar yang berlaku secara internasional. Ayat (2) Pokok-pokok berbagai ketentuan yang akan ditetapkan dalam Peraturan Bank Indonesia antara lain memuat : a. perizinan Bank; b. kelembagaan Bank, termasuk kepengurusan dan kepemilikan; c. kegiatan usaha Bank pada umumnya; d. kegiatan usaha Bank berdasarkan Prinsip Syariah; e. merger, konsolidasi, dan akuisisi Bank; f. sistem informasi antar bank; g. tata cara pengawasan Bank; h. sistem pelaporan Bank kepada Bank Indonesia; i. penyehatan perbankan; j. pencabutan izin usaha, likuidasi, dan pembubaran bentuk hukum Bank; k. lembaga-lembaga pendukung sistem perbankan.
  Pasal 26 Huruf a Pemberian dan pencabutan izin usaha Bank dilakukan dengan keputusan Gubernur Bank Indonesia. Huruf b Pemberian izin pembukaan, penutupan dan pemindahan kantor Bank dilakukan dengan keputusan Gubernur Bank Indonesia. Dalam pengertian izin pembukaan kantor Bank termasuk pula persetujuan mengenai peningkatan status kantor Bank. Huruf c Pemberian persetujuan kepemilikan dan kepengurusan Bank dilakukan dengan keputusan Gubernur Bank Indonesia. Huruf d Dalam pengertian izin untuk melakukan kegiatan usaha tertentu termasuk izin untuk melakukan kegiatan usaha sebagai bank devisa, penitipan, melakukan kegiatan usaha berdasarkan prinsip Syariah, dan kegiatan-kegiatan usaha lain sesuai peraturan perundang-undangan yang berlaku.
  Pasal 27
  Yang dimaksud dengan pengawasan langsung adalah dalam bentuk pemeriksaan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 15 
-# yang disusul dengan tindakan-tindakan perbaikan. Yang dimaksud dengan pengawasan tidak langsung terutama dalam bentuk pengawasan dini melalui penelitian, analisis dan evaluasi laporan Bank.
+                           - 15
+**yang disusul dengan tindakan-tindakan perbaikan. Yang dimaksud dengan pengawasan tidak langsung terutama dalam bentuk pengawasan dini melalui penelitian, analisis dan evaluasi laporan Bank.**
  Pasal 28 Ayat (1) Cukup jelas Ayat (2) ketentuan ini diterapkan apabila perusahaan induk, perusahaan anak, pihak terkait, dan pihak terafiliasi tersebut dari Bank atau dapat diduga mempunyai peran dalam kegiatan operasional bank.
  Pasal 29 Ayat (1) Tujuan pemeriksaan terhadap Bank adalah untuk memperoleh kebenaran atas informasi kegiatan usaha Bank yang disampaikan kepada Bank Indonesia dan untuk mengetahui kepatuhan bank terhadap ketentuan yang berlaku. Pelaksanaan pemeriksaan Bank oleh Bank Indonesia meliputi antara lain buku-buku, berkas-berkas, warkat, catatan, dokumen dan data elektronis, termasuk salinan-salinannya. Ayat (2) Pemeriksaan terhadap perusahaan induk, perusahaan anak, pihak terkait, pihak terafiliasi, dan debitur Bank dilakukan secara selektif dan dimaksudkan agar Bank Indonesia dapat melakukan pemeriksaan secara menyeluruh. Ayat (3) Huruf a Yang dimaksud dengan keterangan dan data termasuk data elektronis dan penjelasan yang berkaitan dengan tujuan pemeriksaan. Huruf b Cukup jelas Huruf c Hal-hal lain yang diperlukan antara lain adalah penyediaan ruang kerja dan saliinan dokumen yang diperlukan dalam pemeriksaan.
  Pasal 30 Auay (1) Yang dimaksud dengan pihak lain pada ayat ini adalah pihak-pihak yang oleh Bank Indonesia dinilai memiliki kemampuan untuk melaksanakan pemeriksaan, misalnya Akuntan Publik. Pemeriksaan oleh pihak lain dapat dilakukan sendiri atau bersama-sama dengan pemeriksa dari Bank Indonesia. Ayat (2) Cukup jelas Ayat (3) Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Bank Indonesia meluputi antara lain: a. kriteria tentang pihak yang ditugasi sebagai pemeriksa; b. kode etik pemeriksa Bank;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 16 
-# c. sanksi yang dikenakan bagi pihak lain yang melakukan pelanggaran dalam
+                           - 16
+**c. sanksi yang dikenakan bagi pihak lain yang melakukan pelanggaran dalam**
  melaksanakan pemeriksaan.
  Pasal 31 Ayat (1) Yang termasuk dalam transaksi tertentu antara lain adalah transaksi dalam jumlah besar yang diduga berasal dari kegiatan yang melanggar hukum. Ayat (2) Cukup jelas Ayat (3) Cukup jelas
  Pasal 32 Ayat (1) Sistem informasi antarbank dimaksudkan untuk memperlancar dan mengamankan kegiatan usaha bank. Informasi antar bank tersebut antara lain berupa: a. informasi Bank, untuk mengetahui keadaan dan status Bank; b. informasi kredit, untuk mengentahui status dan keadaan debitur Bank guna mencegah penyimpangan pengelolaan perkreditan; c. informasi pasar uang, untuk mengetahui tingkat suku bunga dan kondisi likuiditas pasar. Ayat (2) Perluasan sistem informasi kepada lembaga lain di bidang keuangan diperlukan karena adanya keterkaitan antara kegiatan usaha Bank dan lambaga tersebut. Ayat (3) Cukup jelas
  Pasal 33 Cukup jelas
  Pasal 34 Ayat (1) Lembaga pengawasan jasa keuangan yang akan dibentuk melakukan pengawasan terhadap Bank dan perusahaan-perusahaan sektor jasa keuangan lainnya yang meliputi asuransi, dana pensiun, sekuritas, modal ventura, dan perusahaan pembiayaan, serta badan-badan lain yang menyelenggarakan pengelolaan dana masyarakat. Lembaga ini bersifat independen dalam menjalankan tugasnya dan kedudukannya berada diluar pemerintah dan berkewajiban menyampaikan laporan kepada Badan Pemeriksa Keuangan dan Dewan Perwakilan Rakyat. Dlam melaksanakan tugasnya, lembaga ini (supervisory board) melakukan koordinasi dan kerjasama dengan Bank Indonesia sebagai Bank Sentral yang akan diatur dalam Undang-undang pembentukan lembaga pengawasan dimaksud. Lembaga pengawasan ini dapat mengeluarkan ketentuan yang berkaitan dengan pelaksanaan tugas pengawasan Bank dengan koordinasi dengan Bank Indonesia dan meminta penjelasan dari Bank Indonesia keterangan dan data makro yang diperlukan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 17 
-# Adapun tugas mengatur akan tetap dilakukan oleh Bank Indonesia. Ayat (2) Cukup jelas
+                           - 17
+**Adapun tugas mengatur akan tetap dilakukan oleh Bank Indonesia. Ayat (2) Cukup jelas**
  Pasal 35 Cukup jelas
  Pasal 36 Cukup jelas
  Pasal 37 Ayat (1) Cukup jelas Ayat (2) Dalam hal Gubernur berhalangan, tugas Gubernur diserahkan kepada Deputi Gubernur Senior dengan berita acara serah terima. Ayat (3) Yang dimaksud berhalangan adalah apabila Gubernur : a. menjalani masa cuti; b. menderita sakit dan harus beristirahat minimal 6 (enam) hari kerja
@@ -1408,45 +1376,41 @@ REPUBLIK INDONESIA
  Pasal 38 Ayat (1) Dalam rangka pelaksanaan tugasnya, Dewan Gubernur dapat menetapkan organisasi berikut perangkatnya. Ayat (2) Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Dewan Gubernur memuat antara lain: a. pembagian tugas anggota Dewan Gubernur; b. pendelegasian wewenang; c. kode etik Dewan Gubernur.
  Pasal 39 Ayat (1) Cukup jelas Ayat (2) Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 18 
-# Ayat (3) Yang dimaksud dengan pihak lain adalah badan atau orang di luar Bank Indonesia yang memiliki kapasitas tertentu yang menyediakan jasanya untuk mewakili Gubernur antara lain dalam berperkara di muka pengadilan. Hal-hal yang dapat didelegasikan adalah tugas Bank Indonesia yang pelaksanaanya menjadi tanggung jawab Dewan Gubernur, tetapi sifat dari tugas tersebut dapat dilaksanakan oleh pejabat Bank Indonesia atau badan lain, misalnya saksi ahli, penyediaan atau pengedaran uang kecil di daerah yang tidak terdapat kantor Bank Indonesia. Pemberian kuasa kepada pihak lain yang mempunyai kemampuan untuk melaksanakan tugas yang dikuasakan tersebut pada umumnya dilakukan secara langsung. Ayat (4) Yang dimaksud dengan hak substitusi adalah hak dari penerima kuasa untuk menunjuk seorang atau lebih untuk menggantikannya dalam melaksanakan tugas pemberi kuasa tanpa menghilangkan haknya sebagai penerima kuasa.
+                           - 18
+**Ayat (3) Yang dimaksud dengan pihak lain adalah badan atau orang di luar Bank Indonesia yang memiliki kapasitas tertentu yang menyediakan jasanya untuk mewakili Gubernur antara lain dalam berperkara di muka pengadilan. Hal-hal yang dapat didelegasikan adalah tugas Bank Indonesia yang pelaksanaanya menjadi tanggung jawab Dewan Gubernur, tetapi sifat dari tugas tersebut dapat dilaksanakan oleh pejabat Bank Indonesia atau badan lain, misalnya saksi ahli, penyediaan atau pengedaran uang kecil di daerah yang tidak terdapat kantor Bank Indonesia. Pemberian kuasa kepada pihak lain yang mempunyai kemampuan untuk melaksanakan tugas yang dikuasakan tersebut pada umumnya dilakukan secara langsung. Ayat (4) Yang dimaksud dengan hak substitusi adalah hak dari penerima kuasa untuk menunjuk seorang atau lebih untuk menggantikannya dalam melaksanakan tugas pemberi kuasa tanpa menghilangkan haknya sebagai penerima kuasa.**
  Pasal 40 Huruf a Yang dimaksud dengan warga negara Indonesia adalah orang yang berdasarkan peraturan perundang-undangan yang berlaku dinyatakan sebagai warga negara Indonesia. huruf b Yang dimaksud dengan memiliki akhlak dan moral yang tinggi adalah seseorang yang dapat dipercaya baik dalam ucapan maupun tindakannya. Yang bersangkutan senantiasa melaksanakan ketentuan hukum dan peraturan perundang-undangan yang berlaku secara adil serta tidak melakukan perbuatan yang tidak terpuji baik dalam pelaksanaan tugas maupun dalam kehidupannya sehari-hari. Huruf c Yang dimaksud dengan memiliki keahlian adalam seseorang yang menguasai suatu bidang keahlian berdasarkan latar belakang pendidikan, keilmuan, dan pengalaman yang diperlukan untuk mendukung pelaksanaan tugas yang bersangkutan. Yang dimaksud dengan memiliki pengalaman adalah latar belakang perjalanan karir yang bersangkutan dalam salah satu bidang ekonomi, keuangan, perbankan, atau hukum khususnya yang berkaitan dengan tugas Bank Sentral.
  Pasal 41 Ayat (1) Untuk setiap jabatan Gubernur dan atau Deputi Gubernur Senior, Presiden menyampaikan paling kurang 3 (tiga) atau paling banyak 5 (lima) nama calon kepada Dewan Perwakilan Rakyat selambat-lambatnya 3 (tiga) bulan sebelum berakhirnya masa jabatan Gubernur dan atau Deputi Gubernur Senior. Usul Presiden tersebut dilakukan dengan memperhatikan pula aspirasi masyarakat. Dewan Perwakilan Rakyat menyetujui salah satu atau menolak seluruh calon Gubernur atau Deputi Gubernur Senior selambat-lambatnya 3 (tiga) minggu sejak usul diterima.
 
+-----
+
+PRESIDEN
+REPUBLIK INDONESIA
+
+                         - 19
+**Dalam rangka pemberian persetujuan tersebut, Dewan Perwakilan Rakyat dapat meminta calon Gubernur atau calon Deputi Gubernur Senior untuk melakukan presentasi dalam sidang Dewan Perwakilan Rakyat menyangkut visi, pengalaman, keahlian atau kemampuan, serta hal-hal yang berkaitan dengan moral dan akhlak calon Gubernur atau calon Deputi Gubernur Senior. Calon yang telah memperoleh persetujuan Dewan Perwakilan Rakyat ditetapkan dan diangkat menjadi Gubernur dan atau Deputi Gubernur Senior oleh Presiden sebagai kepala negara dengan Keputusan Presiden. Ayat (2) Gubernur menyampaikan paling banyak 3 (tiga) nama calon untuk setiap jabatan Deputi Gubernur kepada Dewan Perwakilan Rakyat selambat-lambatnya 3 (tiga) bulan sebelum masa jabatan Deputi Gubernur berakhir. Calon Deputi gubernur yang diusulkan oleh Gubernur berasal dari pejabat Bank Indonesia yang memenuhi syarat menurut Undang-undang ini. Tata cara persetujuan dan pengangkatan untuk calon Gubernur dan atau Deputi Gubernur Senior sebagaimana terdapat dalam Penjelasan ayat (1) alinea 2,3 dan 4 berlaku juga untuk Deputi Gubernur. Ayat (3) Dalam hal Dewan Perwakilan Rakyat menolak calon Gubernur atau Deputi Gubernur Senior yang diusulkan, Presiden mengajukan paling kurang 3 (tiga) atau paling banyak 5 (lima) calon baru Gubernur atau Deputi Gubernur Senior selambat-lambatnya 2 (dua) minggu sejak tanggal tanda terima surat penolakan Dewan Perwakilan Rakyat. Dalam hal Dewan Perwakilan Rakyat menolak calon Deputi Gubernur yang diusulkan, Gubernur mengajukan paling banyak 3 (tiga) calon baru Deputi Gubernur selambat-lambatnya 2 (dua) minggu sejak tanggal tanda terima surat penolakan Dewan Perwakilan Rakyat. Dewan Perwakilan Rakyat menetapkan salah satu calon yang diusulkan atau menolak seluruh calon selambat-lambatnya 3 (tiga) minggu sejak usul kedua diterima Dewan Perwakilan Rakyat. Ayat (4) Yang dimaksud dengan mengangkat untuk jabatan yang lebih tinggi adalah apabila Deputi Gubernur Senior atau Deputi Gubernur diangkat menjadi Gubernur, atau Deputi Gubernur diangkat menjadi Deputi Gubernur Senior. Periode masa jabatan Deputi Gubernur Senior atau Deputi Gubernur Senior atau Deputi Gubernur sebelum diangkat kejabatan yang lebih tinggi tersebut tidak diperhitungkan dalam periode massa jabatan baru. pengangkatan calon yang telah disetujui Dewan Perwakilan Rakyat menjadi anggota Dewan Gubernur dilakukan oleh Presiden selambat-lambatnya 2 (dua) minggu sebelum berakhirnya masa jabatan anggota Dewan Gubernur yang akan digantikan. Ayat (5) Cukup jelas Ayat (6) Penggantian anggota Dewan Gubernur yang dilakukan secara berkala dimaksudkan untuk menjamin kesinambungan kepemimpinan dan pelaksanaan tugas pengelolaan Bank Indonesia.**
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                         - 19 
-# Dalam rangka pemberian persetujuan tersebut, Dewan Perwakilan Rakyat dapat meminta calon Gubernur atau calon Deputi Gubernur Senior untuk melakukan presentasi dalam sidang Dewan Perwakilan Rakyat menyangkut visi, pengalaman, keahlian atau kemampuan, serta hal-hal yang berkaitan dengan moral dan akhlak calon Gubernur atau calon Deputi Gubernur Senior. Calon yang telah memperoleh persetujuan Dewan Perwakilan Rakyat ditetapkan dan diangkat menjadi Gubernur dan atau Deputi Gubernur Senior oleh Presiden sebagai kepala negara dengan Keputusan Presiden. Ayat (2) Gubernur menyampaikan paling banyak 3 (tiga) nama calon untuk setiap jabatan Deputi Gubernur kepada Dewan Perwakilan Rakyat selambat-lambatnya 3 (tiga) bulan sebelum masa jabatan Deputi Gubernur berakhir. Calon Deputi gubernur yang diusulkan oleh Gubernur berasal dari pejabat Bank Indonesia yang memenuhi syarat menurut Undang-undang ini. Tata cara persetujuan dan pengangkatan untuk calon Gubernur dan atau Deputi Gubernur Senior sebagaimana terdapat dalam Penjelasan ayat (1) alinea 2,3 dan 4 berlaku juga untuk Deputi Gubernur. Ayat (3) Dalam hal Dewan Perwakilan Rakyat menolak calon Gubernur atau Deputi Gubernur Senior yang diusulkan, Presiden mengajukan paling kurang 3 (tiga) atau paling banyak 5 (lima) calon baru Gubernur atau Deputi Gubernur Senior selambat-lambatnya 2 (dua) minggu sejak tanggal tanda terima surat penolakan Dewan Perwakilan Rakyat. Dalam hal Dewan Perwakilan Rakyat menolak calon Deputi Gubernur yang diusulkan, Gubernur mengajukan paling banyak 3 (tiga) calon baru Deputi Gubernur selambat-lambatnya 2 (dua) minggu sejak tanggal tanda terima surat penolakan Dewan Perwakilan Rakyat. Dewan Perwakilan Rakyat menetapkan salah satu calon yang diusulkan atau menolak seluruh calon selambat-lambatnya 3 (tiga) minggu sejak usul kedua diterima Dewan Perwakilan Rakyat. Ayat (4) Yang dimaksud dengan mengangkat untuk jabatan yang lebih tinggi adalah apabila Deputi Gubernur Senior atau Deputi Gubernur diangkat menjadi Gubernur, atau Deputi Gubernur diangkat menjadi Deputi Gubernur Senior. Periode masa jabatan Deputi Gubernur Senior atau Deputi Gubernur Senior atau Deputi Gubernur sebelum diangkat kejabatan yang lebih tinggi tersebut tidak diperhitungkan dalam periode massa jabatan baru. pengangkatan calon yang telah disetujui Dewan Perwakilan Rakyat menjadi anggota Dewan Gubernur dilakukan oleh Presiden selambat-lambatnya 2 (dua) minggu sebelum berakhirnya masa jabatan anggota Dewan Gubernur yang akan digantikan. Ayat (5) Cukup jelas Ayat (6) Penggantian anggota Dewan Gubernur yang dilakukan secara berkala dimaksudkan untuk menjamin kesinambungan kepemimpinan dan pelaksanaan tugas pengelolaan Bank Indonesia.
-
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                           - 20 
-# Pasal 42 Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+                           - 20
+**Pasal 42 Ayat (1) Cukup jelas Ayat (2) Cukup jelas**
  Pasal 43 Ayat (1) huruf a dan huruf b Rapat Dewan Gubernur adalah forum pengambilan keputusan tertinggi dalam menetapkan kebijakan-kebijakan Bank Indonesia yang bersifat prinsipil dan strategis, misalnya kebijakan umum di bidang moneter. Pengertian prinsipil dan strategis adalah kebijakan-kebijakan Bank Indonesia yang mempunyai dampak luas baik ke dalam maupun ke luar Bank Indonesia. Adapun kebijakan lain yang bersifat strategis dan prinsipil termasuk antara lain kebijakan lain yang bersifat strategis dan prinsipil termasuk antara lain kebijakan di bidang pengaturan dan pemeliharaan kelancaran sistem pembayaran serta pengaturan dan pengawasan Bank. Untuk hal-hal lain tidak perlu dibahas dalam rapat Dewan Gubernur, tetapi cukup ditetapkan dalam rapat bidang yang dipimpin oleh tiap-tiap Deputi Gubernur sesuai dengan kewenangannya atau rapat antar bidang terbatas yang dapat dihadiri anggota Dewan Gubernur yang terkait, dengan catatan keputusan tersebut dilaporkan kepada rapat Dewan Gubernur mingguan untuk diketahui. Ayat (2) Penyelenggaraan rapat Dewan Gubernur dapat dilakukan dengan memanfaatkan teknologi komunikasi misalnya melalui konferensi jarak jauh (teleconference). Hal ini memungkinkan anggota Dewan Gubernur dapat mengikuti rapat Dewan Gubernur tanpa selalu harus hadir secara fisik dalam ruang rapat yang sama. Ayat (3) Pengertian Gubernur pada ayat ini termasuk Deputi Gubernur Senior atau Deputi Gubernur yang bertindak sebagai pemimpin rapat menggantikan Gubernur yang karena sesuatu hal berhalangan hadir. Ayat (4) Yang dimaksud dengan keadaan darurat adalah situasi dan kondisi kritis yang apabila tidak diambil tindakan tertentu dapat berdampak negatif baik bagi Bank Indonesia maupun terhadap pelaksanaan tugas yang diberikan kepada Bank Indonesia berdasarkan Undang-undang ini. Ayat (5) Cukup jelas Ayat (6) Cukup jelas
  Pasal 44 Ayat (1) Termasuk dalam pengertian pengangkatan adalah melakukan penempatan dan mutasi baik diikuti dengan maupun tanpa promosi. Ayat (2)
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 21 
-# Dalam menetapkan peraturan kepegawaian Bank Indonesia, Dewan Gubernur memperhatikan peraturan perundang-undangan yang berlaku yang berkaitan dengan hal tersebut sepanjang tidak mengurangi independensi Bank Indonesia. Ayat (3) Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Gubernur memuat antara lain : a. pengengkatan dan pemberhentian pegawai; b. peraturan kepegawaian; c. sistem penggajian, penghargaan, pensiun dan tunjangan hari tua serta
+                           - 21
+**Dalam menetapkan peraturan kepegawaian Bank Indonesia, Dewan Gubernur memperhatikan peraturan perundang-undangan yang berlaku yang berkaitan dengan hal tersebut sepanjang tidak mengurangi independensi Bank Indonesia. Ayat (3) Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Gubernur memuat antara lain : a. pengengkatan dan pemberhentian pegawai; b. peraturan kepegawaian; c. sistem penggajian, penghargaan, pensiun dan tunjangan hari tua serta**
  penghasilan lainnya.
  Pasal 45
  Ketentuan ini dimaksudkan untuk memberikan perlindungan hukum atas tanggung jawab pribadi bagi anggota Dewan Gubernur dan atau pejabat Bank Indonesia yang dengan itikad baik berdasarkan kewenangannya telah mengambil keputusan yang sulit tetapi sangat diperlukan dalam melaksanakan tugas dan wewenangnya. Pengambilan keputusan dapat dianggap telah memenuhi itikad apabila: a. dilakukan dengan maksud tidak mencari keuntungan bagi diri sendiri,
@@ -1458,27 +1422,25 @@ REPUBLIK INDONESIA
  Ayat (3) Cukup jelas
  Pasal 47 Ayat (1) Huruf a Yang dimaksud dengan mempunyai kepentingan langsung pada suatu perusahaan adalah apabila yang bersangkutan duduk sebagai pengurus dalam suatu perusahaan atau menjalankan sendiri usaha perdagangan barang atau jasa. Yang dimaksud dengan mempunyai kepentingan tidak langsung adalah apabila yang bersangkutan memiliki kepentingan melalui kepemilikan saham suatu
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 22 
-# perusahaan di atas 25% (dua puluh lima per seratus). Huruf b Mengingat anggota Dewan Gubernur memiliki tugas yang sangat strategis di bidang moneter, sistem pembayaran, dan pengaturan dan pengawasan bank sudah sewajarnya apabila anggota Dewan Gubernur lebih profesional dan loyal terhadap pelaksanaan tugasnya. Namun, berdasarkan keterkaitan tugas dan jabatannya anggota Dewan Gubernur secara ex-officio dapat merangkap jabatan pada lembaga-lembaga tertentu, antara lain pada Internasional Monetory Fund (IMF), World Bank dan institut Bankir Indonesia. Huruf c Larangan dalam ketentuan ini tidak dimaksudkan untuk menghilangkan hak politik yang bersangkutan dalam memilih atau dipilih dalam pemilihan umum. Ayat (2) Dalam hal Deputi Gubernur Senior dan atau Deputi Gubernur yang diketahui telah melakukan pelanggaran terhadap ketentuan pada ayat (1) tidak bersedia mengundurkan diri, Gubernur mengajukan usul kepada Presiden untuk meminta yang bersangkutan mengundurkan diri. Apabila yang melakukan pelanggaran adalah Gubernur, Presiden meminta yang bersangkutan untuk mengundurkan diri.
+                           - 22
+**perusahaan di atas 25% (dua puluh lima per seratus). Huruf b Mengingat anggota Dewan Gubernur memiliki tugas yang sangat strategis di bidang moneter, sistem pembayaran, dan pengaturan dan pengawasan bank sudah sewajarnya apabila anggota Dewan Gubernur lebih profesional dan loyal terhadap pelaksanaan tugasnya. Namun, berdasarkan keterkaitan tugas dan jabatannya anggota Dewan Gubernur secara ex-officio dapat merangkap jabatan pada lembaga-lembaga tertentu, antara lain pada Internasional Monetory Fund (IMF), World Bank dan institut Bankir Indonesia. Huruf c Larangan dalam ketentuan ini tidak dimaksudkan untuk menghilangkan hak politik yang bersangkutan dalam memilih atau dipilih dalam pemilihan umum. Ayat (2) Dalam hal Deputi Gubernur Senior dan atau Deputi Gubernur yang diketahui telah melakukan pelanggaran terhadap ketentuan pada ayat (1) tidak bersedia mengundurkan diri, Gubernur mengajukan usul kepada Presiden untuk meminta yang bersangkutan mengundurkan diri. Apabila yang melakukan pelanggaran adalah Gubernur, Presiden meminta yang bersangkutan untuk mengundurkan diri.**
  Pasal 48
  Pengunduran diri sebagaimana disebut dalam pasal ini adalah diajukan secara sukarela oleh yang bersangkutan atau disebabkan oleh ketentuan sebagaimana dimaksud dalam Pasal 46 ayat (2) atau Pasal 47 ayat (2). Pemberhentian karena melakukan tindak pidana kejahatan sebagaimana dimaksud dalam pasal ini harus dibuktikan dengan keputusan pengadilan yang telah mempunyai kekuatan hukum tetap. Yang dimaksud dengan berhalangan tetap adalah meninggal dunia, mengalami cacat fisik dan atau mental yang tidak memungkinkan yang bersangkutan untuk melaksanakan tugas-tugasnya dengan baik atau kehilangan kewarganegaraan Indonesia.
  Pasal 49 Cukup jelas
  Pasal 50 Ayat (1) Gubernur, Deputi Gubernur Senior, dan atau Deputi Gubernur yang diangkat untuk mengisi kekosongan jabatan dimaksud dapat diangkat kembali sebanyak-banyaknya untuk 1 (satu) kali masa jabatan berikutnya. Ayat (2) Cukup jelas Ayat (3) Yang dimaksud dengan berhalangan adalah apabila Gubernur dan atau Deputi Gubernur Senior: a. menjalani masa cuti tahunan; b. menderita sakit dan harus beristirahat minimal 6 (enam) hari kerja
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 23 
-# berturut-turut; c. melakukan perjalanan dinas ke daerah atau keluar negeri untuk jangka waktu
+                           - 23
+**berturut-turut; c. melakukan perjalanan dinas ke daerah atau keluar negeri untuk jangka waktu**
  minimal 6 (enam) hari kerja; d. diberhentikan sementara karena menjalani pemeriksaan dalam perkara tindak
  pidana kejahatan sebagai tersangka/terdakwa. Yang dimaksud dengan Deputi Gubernur yang paling lama masa jabatannya adalah Deputi Gubernur yang menduduki urutan pertama dari seluruh Deputi Gubernur yang ada berdasarkan surat pengangkatan yang bersangkutan sebagai Deputi Gubernur.
  Pasal 51 Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
@@ -1489,51 +1451,47 @@ REPUBLIK INDONESIA
  Pasal 54 Ayat (1) Cukup jelas Ayat (2) Cukup jelas
  Pasal 55 Ayat (1) Konsultasi ini diperlukan agar penerbitan surat utang negara tepat waktu dan tidak berakibat negatif terhadap kebijakan moneter sehingga pelaksanaan penjualan surat utang tersebut dapat dilakukan dengan persyaratan yang dapat diterima pasar serta menguntungkan Pemerintah. Ayat (2) Pelaksanaan konsultasi dengan Dewan Perwakilan Rakyat dilakukan dengan komisi yang membidangi Anggaran Pendapatan dan Belanja Negara.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 24 
-# Ayat (3) Apabila Penerimaan negara dari pajak, laba perusahaan negara, dan sebagainya tidak cukup untuk membiayai pengeluaran negara seluruhnya, kekurangan tersebut di atas ditutup dengan dana yang berasal dari masyarakat, hak berupa pinjaman dalam negeri maupun masyarakat luar negeri dengan menerbitkan surat-surat utang negara. Pembelian surat-surat utang negara oleh Bank Indonesia hanya dapat dilakukan secara tidak langsung atau di pasar sekunder. Ayat (4) Dalam hal Bank Indonesia membeli surat-surat utang negara di pasar sekunder semata-mata untuk tujuan pelaksanaan kebijakan moneter. Ayat (5) Pembatalan demi hukum dapat diajukan oleh Dewan Perwakilan Rakyat dan atau masyarakat kepada Mahkamah Agung.
+                           - 24
+**Ayat (3) Apabila Penerimaan negara dari pajak, laba perusahaan negara, dan sebagainya tidak cukup untuk membiayai pengeluaran negara seluruhnya, kekurangan tersebut di atas ditutup dengan dana yang berasal dari masyarakat, hak berupa pinjaman dalam negeri maupun masyarakat luar negeri dengan menerbitkan surat-surat utang negara. Pembelian surat-surat utang negara oleh Bank Indonesia hanya dapat dilakukan secara tidak langsung atau di pasar sekunder. Ayat (4) Dalam hal Bank Indonesia membeli surat-surat utang negara di pasar sekunder semata-mata untuk tujuan pelaksanaan kebijakan moneter. Ayat (5) Pembatalan demi hukum dapat diajukan oleh Dewan Perwakilan Rakyat dan atau masyarakat kepada Mahkamah Agung.**
  Pasal 56 Ayat (1) Cukup jelas Ayat (2) Pembatalan demi hukum dalam ayat ini dapat diajukan oleh Dewan Perwakilan Rakyat dan atau masyarakat kepada mahkamah Agung.
  Pasal 57 Ayat (1) Kerja sama Bank Indonesia dengan lembaga-lembaga internasional termasuk multilateral dilakukan dalam rangka melaksanakan tugas sebagaimana dimaksud dalam Pasal 8. Kerja sama tersebut misalnya di bidang: a. investasi bersama untuk kestabilan pasar valuta asing; b. penyelesaian transaksi lintas negara; c. hubungan koresponden; d. tukar menukar informasi mengenai hal-hal yang terkait dengan tugas-tugas
  Bank Sentral, termasuk dalam melakukan pengawasan Bank; e. pelatihan/penelitian seperti masalah moneter dan sistem pembayaran. Ayat (2) Keanggotaan Bank Indonesia pada lembaga multilateral dimaksud dilakukan berdasarkan kuasa Presiden sebagai kepala negara.
  Pasal 58 Ayat (1) Penyampaian informasi kepada masyarakat dimaksudkan agar mesyarakat ikut serta memantau/mengawasi Bank Indonesia dalam penetapan dan melaksanakan kebijakannya karena masyarakat mempunyai hak untuk melakukan kontrol agar Bank Indonesia dapat menjadi lembaga yang dapat dipercaya dan berwibawa. Huruf a Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 25 
-# Huruf b Cukup jelas
+                           - 25
+**Huruf b Cukup jelas**
  Ayat (2) Penyampaian informasi kepada Presiden bersifat informatif, sedangkan penyampaian informasi kepada Dewan Perwakilan Rakyat dimaksudkan agar lembaga tinggi negara tersebut dapat mengawasi Bank Indonesia dalam menetapkan dan melaksanakan kebijakannya. Ayat (3) Dalam rangka pelaksanaan fungsi pengawasan oleh Dewan Perwakilan Rakyat, Bank Indonesia menyampaikan laporan perkembangan pelaksanaan tugas dan wewenangnya secara tertulis. Ayat (4) Cukup jelas
  Pasal 59 Pemeriksaan khusus atas permintaan Dewan Perwakilan Rakyat terhadap Bank Indonesia dimaksudkan untuk mengetahui lebih dalam mengenai suatu permasalahan atau suatu kegiatan tertentu yang berkaitan dengan pengelolaan keuangan dan pelaksanaan anggaran oleh Bank Indonesia.
  Pasal 60 Ayat (1) Cukup jelas
  Ayat (2) Penyampaian anggaran tahunan Bank Indonesia yang telah ditetapkan Dewan Gubernur dan evaluasi pelaksanaan anggaran tahun yang lalu kepada Dewan Perwakilan Rakyat dimaksudkan untuk dapat memantau pengelolaan kewenangan Bank Indonesia dalam anggaran, sedangkan untuk Pemerintah dimaksudkan sebagai bahan informasi berkaitan dengan surplus atau defisit anggaran Bank Indonesia. Ayat (3)
  Pasal 61 Ayat (1) Yang dimaksud dengan laporan keuangan tahunan Bank Indonesia adalah neraca dan laporan penerimaan dan pengeluaran beserta lampiran-lampirannya. Selisih lebih dari perhitungan antara penerimaan dan pengeluaran selama satu tahun anggaran merupakan surplus yang dapat digunakan untuk Cadangan Umum dan Cadangan Tujuan. Dalam hal penerimaan lebih kecil daripada pengeluaran, Bank Indonesia mengalami defisit yang dapat ditutup dari Cadangan Umum dan Modal. Ayat (2) Badan pemeriksa Keuangan dalam melakukan tugasnya memeriksa laporan keuangan Bank Indonesia dapat menggunakan jasa kantor akuntan publik yang memiliki reputasi internasional.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 26 
-# Ayat (3) Cukup jelas Ayat (4) Laporan keuangan tahunan Bank Indonesia yang di umumkan kepada publik adalah laporan keuangan singkat yang terdiri atas neraca singkat dan laporan pokok-pokok penerimaan dan pengeluaran yang telah diaudit oleh Badan Pemeriksa Keuangan.
+                           - 26
+**Ayat (3) Cukup jelas Ayat (4) Laporan keuangan tahunan Bank Indonesia yang di umumkan kepada publik adalah laporan keuangan singkat yang terdiri atas neraca singkat dan laporan pokok-pokok penerimaan dan pengeluaran yang telah diaudit oleh Badan Pemeriksa Keuangan.**
  Pasal 62 Ayat (1) Cadangan Umum dipergunakan untuk menambah modal atau menutup defisit Bank Indonesia, sedangkan Cadangan Tujuan dipergunakan antara lain untuk biaya penggantian dan atau pembuatan harta tetap, pengadaan perlengkapan yang diperlukan, dan pengembangan organisasi dan sumber daya manusia dalam melaksanakan tugas dan weweang Bank Indonesia, serta penyertaan yang diperlukan dalam pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 64. Dalam Undang-undang Nomor 13 Tahun 1968 tentang Bank Sentral, pembagian surplus Bank Indonesia untuk Cadangan Tujuan ditetapkan sebesar 20% (dua puluh per seratus) yang digunakan untuk biaya penggantian/pembubaran aktiva tetap dan perlengkapan yang diperlukan dalam melaksanakan tugas dan usaha Bank Indonesia. Dalam Undang-undang ini, Cadangan Tujuan digunakan untuk biaya penggantian dan atau pembaruan harta tetap, pengadaan perlengkapan yang diperlukan, pengembangan sumber daya manusia dan organisasi dalam melaksnakan tugas dan wewenang Bank Indonesia serta penyertaan sebagaimana dimaksud dalam Pasal 64. Pembagian surplus untuk Cadangan Tujuan dalam Undang-undang ini ditingkatkan menjadi 30% (tiga puluh per seratus), mengingat tantangan yang dihadapi Bank Indonesia antara lain perlunya peningkatan kualitas sumber daya manusia yang berkesinambungan serta perlunya peningkatan kualitas teknologi informasi. Ayat (2) Dalam hal modal termasuk Cadangan Umum telah mencapai 10% (sepuluh per seratus) dari kewajiban moneter, sisa surplus yang merupakan bagian Pemerintah terlebih dahulu harus digunakan untuk membayar kewajiban Pemerintah kepada Bank Indonesia. Ayat (3) Kewajiban Pemerintah menutup kekurangan modal minimum Bank Indonesia dapat dilakukan dengan cara penerbitan surat utang negara yang dapat diperjualbelikan selambat-lambatnya dalam waktu 1 (satu) bulan sejak laporan keuangan Bank Indonesia dipublikasikan. Besar minimum yang harus disetor oleh Pemerintah adalah selisih kurang dari Rp.2.000.000.000,00 (dua triliun rupiah) dengan jumlah modal yang tersedia dalam laporan keuangan tersebut di atas. Ayat (4) Ketentuan ayat ini dimaksudkan agar pemenuhan kecukupan modan Bank
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 27 
-# Indonesia sebesar 10% (sepuluh per seratus) dari kewajiban moneter dapat segera tercapai. Dalam hal modal Bank Indonesia sudah mencapai 10% (sepuluh per seratus) dari kewajiban moneter, sebagian besar dari surplus yang diperoleh Bank Indonesia diserahkan kepada negara melalui Pemerintah.
+                           - 27
+**Indonesia sebesar 10% (sepuluh per seratus) dari kewajiban moneter dapat segera tercapai. Dalam hal modal Bank Indonesia sudah mencapai 10% (sepuluh per seratus) dari kewajiban moneter, sebagian besar dari surplus yang diperoleh Bank Indonesia diserahkan kepada negara melalui Pemerintah.**
  Pasal 63
  Pengumuman neraca singkat mingguan dalam Berita Negara Republik Indonesia dimaksudkan sebagai publikasi resmi dalam rangka penyebarluasan neraca singkat tersebut kepada masyarakat.
  Pasal 64 Ayat (1) Ketentuan ayat ini dimaksudkan untuk memberikan pembatasan terhadap penyertaan modal oleh Bank Indonesia dalam badan hukum atau badan lain tertentu. Yang dimaksud dengan badan hukum atau badan lainnya yang sangat diperlukan dalam melaksanakan tugas Bank Indonesia adalah antara lain lembaga kliring, badan pemeringkat, dan lembaga penjamin simpanan. Penyertaan di laur badan hukum atau badan lain yang sangat diperlukan tersebut hanya dapat dilakukan apabila telah diperoleh persetujuan Dewan Perwakilan Rakyat. Ayat (2) Cukup jelas
@@ -1545,39 +1503,36 @@ REPUBLIK INDONESIA
  Yang dimaksud dengan badan dalam ketentuan ini adalah semua badan, misalnya badan hukum, persekutuan perdata, yayasan, asosiasi atau badan-badan lain yang ditetapkan sebagai responden dalam suatu survei.
  Pasal 70 Ayat (1) Cukup jelas Ayat (2) Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 28 
-# Pasal 71 Ayat (1) Yang dimaksud dengan rahasia pada ayat ini adalah rahasia jabatan. Yang dimaksud dengan pihak lain yang melakukan tugas tertentu adalah pihak lain yang ditunjuk atau disetujui oleh Bank Indonesia untuk melaksanakan tugas-tugas sebagaimana dimaksud antara lain dalam Pasal 14 ayat (2), Pasal 17 ayat (1), Pasal 18 ayat (2), Pasal 30 ayat (1), Pasal 32 ayat (3), dan Pasal 39 ayat (3). Yang dimaksud dengan secara melawan hukum adalah apabila seorang atau badan yang dengan sengaja melakukan suatu perbuatan yang bertentangan dengan peraturan perundang-undangan yang berlaku. Ayat (2) Cukup jelas Ayat (3) Pokok-pokok ketentuan yang akan ditetapkan dalam Peratuan Dewan Gubernur memuat antara lain : a. jenis keterangan dan data lainnya yang dikategorikan rahasia, antara lain
+                           - 28
+**Pasal 71 Ayat (1) Yang dimaksud dengan rahasia pada ayat ini adalah rahasia jabatan. Yang dimaksud dengan pihak lain yang melakukan tugas tertentu adalah pihak lain yang ditunjuk atau disetujui oleh Bank Indonesia untuk melaksanakan tugas-tugas sebagaimana dimaksud antara lain dalam Pasal 14 ayat (2), Pasal 17 ayat (1), Pasal 18 ayat (2), Pasal 30 ayat (1), Pasal 32 ayat (3), dan Pasal 39 ayat (3). Yang dimaksud dengan secara melawan hukum adalah apabila seorang atau badan yang dengan sengaja melakukan suatu perbuatan yang bertentangan dengan peraturan perundang-undangan yang berlaku. Ayat (2) Cukup jelas Ayat (3) Pokok-pokok ketentuan yang akan ditetapkan dalam Peratuan Dewan Gubernur memuat antara lain : a. jenis keterangan dan data lainnya yang dikategorikan rahasia, antara lain**
  keterangan dan data individual yang diperoleh melalui survei dan data individual Bank peseta kliring; b. perlakuan terhadap keterangan dan data lainnya yang bersifat rahasia; c. prosedur pengungkapan keterangan dan data lainnya yang bersifat rahasia; d. pejabat yang berwenang mengungkapkan keterangan dan data lainnya yang
  bersifat rahasia.
  Pasal 72 Ayat (1) Kewenangan Dewan Gubernur untuk menetapkan sanksi administratif sebagaimana diatur dalam pasal ini berlaku terhadap pelanggaran atas ketentuan-ketentuan yang dimuat dalam Undang-undang ini dan peraturan pelaksanaan dari Undang-undang ini, yaitu Peraturan Bank Indonesia dan Peraturan Dewan Gubernur. Yang dimaksud dengan pihak lain adalah orang atau badan yang diatur dalam Undang-undang ini antara lain sebagaimana dimaksud dalam Pasal 2 ayat (4), Pasal 9 ayat (1), Pasal 14 ayat (3), Pasal 17 ayat (1), Pasal 18 ayat (2), Pasal 28 ayat (1) dan ayat (2), dan Pasal 29 ayat (3), Pasal 30 ayat (1), Pasal 32 ayat (3), Pasal 39 ayat (3) dan pihak-pihak yang ditunjuk dalam ketentuan pelaksanaan Undang-undang ini.
  Ayat (2) Huruf a Yang dimaksud dengan denda adalah kewajiban untuk membayar uang dalam jumlah tertentu sebagai akibat dipenuhinya ketentuan dalam Undang-undang ini. Huruf b Cukup jelas Huruf c Pencabutan atau pembatalan izin usaha terhadap badan usaha dilakukan oleh
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 29 
-# instansi yang berwenang berdasarkan permintaan Bank Indonesia. Yang dimaksud dengan badan usaha adalah badan usaha yang ditunjuk atau disetujui oleh Bank Indonesia untuk melaksanakan tugas-tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 14 ayat (2), Pasal 17 ayat (1), Pasal 18 ayat (2). Pasal 30 ayat (1), Pasal 32 ayat (3), Pasal 39 ayat (3) dan badan usaha lain yang ditunjuk dalam ketentuan pelaksanaan Undang-undang ini. Huruf d Sanksi disiplin hanya dikenakan terhadap pegawai Bank Indonesia  berdasarkan peraturan disiplin kepegawaian yang ditetapkan dengan Peraturan Dewan Gubernur. Ayat (3) Pengaturan lebih lanjut sanksi administratif yang dikenakan terhadap pihak lain di luar pegawai Bank Indonesia ditetapkan dengan Peraturan Bank Indonesia, sedangkan sanksi administratif yang dikenakan terhadap pegawai Bank Indonesia ditetapkan dengan Peraturan Dewan Gubernur. Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Bank Indonesia  memuat antara lain : a. jenis-jenis pelanggaran yang dapat dikenakan sanksi administratif; b. besarnya sanksi administratif yang berupa denda; c. tata cara pengenaan sanksi administratif. Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Dewan Gubernur memuat antara lain: a. jenis-jenis pelanggaran yang dapat dikenakan sanksi administratif; b. jenis-jenis sanksi disiplin pegawai; c. tata cara pengenaan sanksi disiplin pegawai.
+                           - 29
+**instansi yang berwenang berdasarkan permintaan Bank Indonesia. Yang dimaksud dengan badan usaha adalah badan usaha yang ditunjuk atau disetujui oleh Bank Indonesia untuk melaksanakan tugas-tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 14 ayat (2), Pasal 17 ayat (1), Pasal 18 ayat (2). Pasal 30 ayat (1), Pasal 32 ayat (3), Pasal 39 ayat (3) dan badan usaha lain yang ditunjuk dalam ketentuan pelaksanaan Undang-undang ini. Huruf d Sanksi disiplin hanya dikenakan terhadap pegawai Bank Indonesia  berdasarkan peraturan disiplin kepegawaian yang ditetapkan dengan Peraturan Dewan Gubernur. Ayat (3) Pengaturan lebih lanjut sanksi administratif yang dikenakan terhadap pihak lain di luar pegawai Bank Indonesia ditetapkan dengan Peraturan Bank Indonesia, sedangkan sanksi administratif yang dikenakan terhadap pegawai Bank Indonesia ditetapkan dengan Peraturan Dewan Gubernur. Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Bank Indonesia  memuat antara lain : a. jenis-jenis pelanggaran yang dapat dikenakan sanksi administratif; b. besarnya sanksi administratif yang berupa denda; c. tata cara pengenaan sanksi administratif. Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Dewan Gubernur memuat antara lain: a. jenis-jenis pelanggaran yang dapat dikenakan sanksi administratif; b. jenis-jenis sanksi disiplin pegawai; c. tata cara pengenaan sanksi disiplin pegawai.**
  Pasal 73
  Pengalihan aktiva dan pasiva Bank Indonesia sebagaimana dimaksud dalam pasal ini dilaksanakan terhitung sejak berlakunya Undang-undang ini.
  Pasal 74 Ayat (1) Dengan berlakunya Undang-undang ini, Bank Indonesia tidak dapat lagi memberikan kredit likuiditas dalam rangka kredit program. Badan Usaha Milik Negara yang ditunjuk oleh Pemerintah adalah Badan Usaha Milik Negara yang kondisi keuangannya sehat. Pengalihan kredit sebagaimana dimaksud dalam ayat ini termasuk pula pengalihan pinjaman penerusan yang adanya berasal dari luar negeri dan bantuan teknis dalam rangka penyaluran kredit program. Mengingat pinjaman penerusan dan bantuan teknis tersebut melibatkan lembaga/pihak lain di luar Bank Indonesia, batas waktu pengalihannya kepada Badan Usaha Milik Negara ditentukan berdasarkan kesepakatan para pihak yang terkait. Tugas dan wewenang Badan Usaha Milik Negara yang ditunjuk oleh Pemerintah antara lain adalah; a. melakukan pembayaran kewajiban kepada Bank Indonesia; b. melakukan penyaluran dan administrasi kredit program;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 30 
-# c. mencari sumber-sumber pendanaan untuk kelanjutan pelaksanaan kredit
+                           - 30
+**c. mencari sumber-sumber pendanaan untuk kelanjutan pelaksanaan kredit**
  program. Ayat (2) Kredit Likuiditas Bank Indonesia (KLBI) dalam rangka kredit program meliputi berbagai jenis (skim) yang masing-masing memiliki persyaratan tersendiri baik jangka waktu maupun suku bunganya. Dengan demikian, yang dimaksud dengan jangka waktu KLBI tersebut adalah jangka waktu KLBI untuk masing-masing skim yang bersangkutan. Selama KLBI tersebut belum dibayar kembali kepada Bank Indonesia, yang bersangkutan membayar pokok dan bunga sesuai dengan perjanjian kepada Badan Usaha Milik Negara. Badan Usaha Milik Negara membayar pokok dan bunga KLBI yang terutang kepada Bank Indonesia pada waktu berakhirnya jangka waktu KLBI untuk tiap-tiap skim. Ayat (3) Yang dimaksud dengan subsidi bunga dalam ayat ini adalah selisih antara suku bunga pasar dan suku bunga KLBI.
  Pasal 75 Ayat (1) Cukup jelas
  Ayat (2) Cukup jelas
@@ -1586,20 +1541,17 @@ REPUBLIK INDONESIA
  Belanja Negara; c. program jaminan Pemerintah terhadap kewajiban pembayaran Bank Umum
  dan Bank Perkreditan Rakyat; d. rekapitulasi perbankan. Berkaitan dengan keempat butir di atas, huruf c dan huruf d adalah program restrukturisasi perbankan dengan bagian yang terbesar merupakan kewajiban
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                           - 31 
-# pembayaran Bank Pemerintah. Penyelesaian tagihan atas surat-surat utang negara yang dibeli oleh Bank Indonesia tersebut seharusnya diselesaikan sebelum jatuh tempo surat utang dimaksud. penyelesaian ini hanya dapat dicapai apabila: a. instansi terkait seperti Badan Penyehatan Perbankan Nasional, Departemen
+                           - 31
+**pembayaran Bank Pemerintah. Penyelesaian tagihan atas surat-surat utang negara yang dibeli oleh Bank Indonesia tersebut seharusnya diselesaikan sebelum jatuh tempo surat utang dimaksud. penyelesaian ini hanya dapat dicapai apabila: a. instansi terkait seperti Badan Penyehatan Perbankan Nasional, Departemen**
  Keuangan, dan sebagainya dapat melakukan pengamanan uang masyarakat (Anggaran Pendapatan dan Belanja Negara) secara optimal atau meminimumkan beban rakyat; b. keberhasilan dalam memulihkan kondisi perekonomian nasional. Dalam huruf a dan huruf b terpenuhi, tidak diperlukan pengaturan mengenai perpanjangan jatuh tempo. Namun untuk berjaga-jaga, dalam hal terjadi kondisi yang tidak diharapkan, diperlukan landasan hukum untuk mencari jalan keluar yang memungkinkan melakukan perpanjangan jatuh tempo. Ayat (3) Yang dimaksud dengan hari pada ayat ini adalah hari kalender. Pasal 77 Cukup jelas
  Pasal 78 Ayat (1) Cukup jelas Ayat (2) Cukup jelas
  Pasal 79 Cukup jelas
 
  TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3843
 
-
 -----
-

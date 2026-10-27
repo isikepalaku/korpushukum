@@ -24,10 +24,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Cipta Kerja
+**Cipta Kerja**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -35,15 +41,15 @@ last_updated: 2026-10-28
 
 > Sumber: JDIH BPK RI
 
-## Menimbang
+**Menimbang**
 
 <!-- image -->
 
-## UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2023 TENTANG PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG
+**UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2023 TENTANG PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG**
 
-## DENGAN RAHMAT TUHAN YANG MAHA ESA
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
-## PRESIDEN REPUBLIK INDONESIA,
+**PRESIDEN REPUBLIK INDONESIA,**
 
 - a bahwa untuk mewujudkan tujuan pembentukan Pemerintah Negara lndonesia dan mewujudkan masyarakat Indonesia yang sejahtera, adil, dan makmur berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Negara perlu melakukan berbagai upaya untuk memenuhi hak warga negara atas pekerjaan dan penghidupan yang layak bagi kemanusraan melalui cipta kerja;
 - bahwa dengan cipta kerja diharapkan mampu menyerap tenaga kerja Indonesia yang seluas-luasnya di tengah persaingan yang semakin kompetitif dan tuntutan globalisasi ekonomi serta adanya tantangan dan krisis ekonomi global yang dapat menyebabkan terganggunya perekonomian nasional; b
@@ -62,25 +68,25 @@ e. bahwa . . .
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -3-
 
 Mengingat Pasal 5 ayat (1), Pasal 20, dan Pasal 22 ayat (2) UndangUndang Dasar Negara Republik Indonesia Tahun 1945;
 
-## Dengan Persetujuan Bersama
+**Dengan Persetujuan Bersama**
 
-## DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA
+**DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA**
 
-## MEMUTUSKAN:
+**MEMUTUSKAN:**
 
 Menetapkan UNDANG-UNDANG TENTANG PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG.
 
-## Pasal 1
+### Pasal 1 ^pasal-1
 
 Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 238, Tambahan Lembaran Negara Republik Indonesia Nomor 6841) ditetapkan menjadi Undang-Undang dan melampirkannya sebagai bagian yang tidak terpisahkan dari Undang-Undang ini.
 
-## Pasal 2
+### Pasal 2 ^pasal-2
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan Diundangkan di Jakarta pada tanggal 31 Maret 2023
 
@@ -102,7 +108,7 @@ De uti Bidang Perundang-undangan strasi Hukum,
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESTA
+**PRESIDEN REPUBLIK TNDONESTA**
 
 -4,-
 
@@ -118,17 +124,17 @@ JOKO WIDODO
 
 <!-- image -->
 
-## PENJELASAN
+## Penjelasan
 
-## ATAS
+### I. Umum
 
-## UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2023
+**ATAS**
 
-## TENTANG
+**UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2023**
 
-## PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG
+**TENTANG**
 
-## I. UMUM
+**PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG**
 
 Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 mengamanatkan bahwa tujuan pembentukan Negara Republik Indonesia adalah mewujudkan masyarakat yang sejahtera, adil, makmur, yang merata, baik materiel maupun spiritual. Sejalan dengan tujuan tersebut, Pasal 27 ayat (21 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 menentukan bahwa "Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan", oleh karena itu negara perlu melakukan berbagai upaya atau tindakan untuk memenuhi hak-hak warga negara untuk memperoleh pekerjaan dan penghidupan yang layak. Pemenuhan hak atas pekerjaan dan penghidupan yang layak pada prinsipnya merupakan salah satu aspek penting dalam pembangunan nasional yang dilaksanakan dalam rangka pembangunan manusia Indonesia seutuhnya.
 
@@ -204,7 +210,7 @@ Sesuai Putusan Mahkamah I(onstitusi Nomor 138/PI-IU-V1[/2OO9, kondisi tersebut d
 
 Presiden sesuai kewenangannya berdasarkan ketentuan dalam Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, pada tanggal 30 Desember 2022 telah menetapkan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja. Selanjutnya, Peraturan Pernerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tersebut perlu ditetapkan menjadi Undang-Undang.
 
-## II. PASAL DEMT PASAL
+**II. PASAL DEMT PASAL**
 
 Pasa1 1
 
@@ -220,11 +226,11 @@ Menimbang LAMPIRAN UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 6 TAHUN 2023 TENTANG P
 
 <!-- image -->
 
-## PERATURAN PEMERINTAH PENGGANTT UNDANG-UNDANG REPIJBLIK INDONESIA NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA
+**PERATURAN PEMERINTAH PENGGANTT UNDANG-UNDANG REPIJBLIK INDONESIA NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA**
 
-## DENGAN RAHMAT TUHAN YANG MAHA ESA
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
-## PRESIDEN REPUBLIK INDONESIA,
+**PRESIDEN REPUBLIK INDONESIA,**
 
 - a. bahwa untuk mewuiudkan tuiuan pembentukan Pemerintah Nesara Indon-esia dan me#uiudka'n masvarakat Indonesia yang sejahtera, adil, dan mdkmur berddsarkan Pancasila dan Undans-Undane Dasar Nesara Reoutrlik Indonesia Tahun 1945: Negara"perlu melakirkan beibagai upava untuk memenutri tra-k wa-rea neeara atas oekeria?n dan- penghidupan yang layak ba?i ke"manusiaah melalui
 2. b Bfrn5"fl#san cipta keria diharankan marnDu menveraD tenaga k"ri" Indonesia ypng . seluas-lu^asrXra di t6ngah persalngan yang semalon lrompetrtrt dan tuntutan klobalis6si eliono--mi serta adanva ^ tantansan dan krisis dkonomi global y?ng -dapat mehyebabkari terganggunya perekonomran nasronal;
@@ -251,21 +257,21 @@ MEMUTUSKAN: . . .
 
 <!-- image -->
 
-## PRESIDEN REPUELIK TNDONESIA
+**PRESIDEN REPUELIK TNDONESIA**
 
 -3-
 
-## MEMUTUSKAN:
+**MEMUTUSKAN:**
 
 Menetapkan PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG
 
 TENTANG CIPTA KERJA.
 
-## BAB I
+**BAB I**
 
-## KETENTUAN UMUM
+**KETENTUAN UMUM**
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Peraturan Pemerintah Pengganti Undang-Undang ini yang dimaksud dengan:
 
@@ -279,7 +285,7 @@ Dalam Peraturan Pemerintah Pengganti Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 8. Pelaku Usaha adalah orang perseorangan atau badan usaha yang melakukan usaha dan/atau kegiatan pada bidang tertentu.
 9. Badan Usaha adalah badan usaha berbentuk badan hukum atau tidak berbentuk badan hukum yang didirikan di wilayah Negara Kesatuan Republik Indonesia dan melakukan usaha dan/atau kegiatan pada bidang tertentu.
@@ -287,11 +293,11 @@ Dalam Peraturan Pemerintah Pengganti Undang-Undang ini yang dimaksud dengan:
 11. Persetujuan Bangunan Gedung adalah perizinan yang diberikan kepada pemilik bangunan gedung untuk membangun baru, mengubah, memperluas, mengurangi, dan/atau merawat bangunan gedung sesuai dengan standar teknis bangunan gedung.
 12. Hari adalah hari kerja sesuai dengan yang ditetapkan oleh Pemerintah Pusat.
 
-## BAB II
+**BAB II**
 
 ASAS, TUJUAN, DAN RUANG LINGKUP
 
-## Pasal 2
+**Pasal 2**
 
 - (1) Peraturan Pemerintah Pengganti Undang-Undang ini diselenggarakan berdasarkan asas:
 - a. pemerataan hak;
@@ -303,11 +309,11 @@ ASAS, TUJUAN, DAN RUANG LINGKUP
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESTA
+**PRESIDEN REPUBLTK INDONESTA**
 
 -5-
 
-## Pasal 3
+**Pasal 3**
 
 Peraturan Pemerintah Pengganti Undang-Undang ini dibentuk dengan tujuan untuk:
 
@@ -316,7 +322,7 @@ Peraturan Pemerintah Pengganti Undang-Undang ini dibentuk dengan tujuan untuk:
 - c. melakukan penyesuaian berbagai aspek pengaturan yang berkaitan dengan keberpihakan, penguatan, dan pelindungan bagi Koperasi dan UMK-M serta industri nasional; dan
 - d. melakukan penyesuaian berbagai aspek pengaturan yang berkaitan dengan peningkatan ekosistem investasi, kemudahan dan percepatan proyek strategis nasional yang berorientasi pada kepentingan nasional yang berlandaskan pada ilmu pengetahuan dan teknologi nasional dengan berpedoman pada haluan ideologi Pancasila.
 
-## Pasal 4
+**Pasal 4**
 
 Dalam rangka mencapai tujuan sebagaimana dimaksud dalam Pasal 3, mang lingkup Peraturan Pemerintah Pengganti Undang-Undang ini mengatur kebijakan strategis Cipta Kerja yang meliputi:
 
@@ -336,19 +342,19 @@ Dalam rangka mencapai tujuan sebagaimana dimaksud dalam Pasal 3, mang lingkup Pe
 - i. pelaksanaanadministrasipemerintahan;dan
 - j. pengenaan sanksi.
 
-## Pasal 5
+**Pasal 5**
 
 Ruang lingkup sebagaimana dimaksud dalam Pasal 4 meliputi bidang hukum yang diatur dalam undang-undang terkait.
 
-## BAB III
+**BAB III**
 
-## PENTNGKATAN EKOSISTEM INVESTASI DAN KEGIATAN BERUSAHA
+**PENTNGKATAN EKOSISTEM INVESTASI DAN KEGIATAN BERUSAHA**
 
 Bagian Kesatu
 
-## Umum
+**Umum**
 
-## Pasal 6
+**Pasal 6**
 
 Peningkatan ekosistem investasi dan kegiatan berusaha sebagaimana dimaksud dalam Pasal 4 huruf a meliputi:
 
@@ -357,21 +363,21 @@ Peningkatan ekosistem investasi dan kegiatan berusaha sebagaimana dimaksud dalam
 - c. penyederhanaan Perizinan Berusaha sektor; dan
 - d. penyederhanaan persyaratan investasi.
 
-## Bagian Kedua
+**Bagian Kedua**
 
 Penerapan Perizinan Berusaha Berbasis Risiko
 
-## Paragraf 1
+**Paragraf 1**
 
 Umum
 
-## Pasal 7
+**Pasal 7**
 
 - (1) Perizinan Berusaha berbasis risiko sebagaimana dimaksud dalam Pasal 6 huruf a dilakukan berdasarkan penetapan tingkat risiko dan peringkat skala usaha kegiatan usaha.
 
 <!-- image -->
 
-## REPUBLTK INDONESTA
+**REPUBLTK INDONESTA**
 
 -7 -
 
@@ -402,24 +408,24 @@ Paragraf2...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -8-
 
-## Paragraf 2
+**Paragraf 2**
 
-## Perizinan Berusaha Kegiatan Usaha Berisiko Rendah
+**Perizinan Berusaha Kegiatan Usaha Berisiko Rendah**
 
-## Pasal 8
+**Pasal 8**
 
 - (1) Perizinan Berusaha untuk kegiatan usaha berisiko rendah sebagaimana dimaksud dalam Pasal 7 ayat (71 huruf a berupa pemberian nomor induk berusaha yang merupakan legalitas pelaksanaan kegiatan berusaha.
 2. (21 Nomor induk berusaha sebagaimana dimaksud pada ayat (1) merupakan bukti registrasi/pendaftaran Pelaku Usaha untuk melakukan kegiatan usaha dan sebagai identitas bagi Pelaku Usaha dalam pelaksanaan kegiatan usahanya.
 
-## Paragraf 3
+**Paragraf 3**
 
-## Perizinan Berusaha Kegiatan Usaha Berisiko Menengah
+**Perizinan Berusaha Kegiatan Usaha Berisiko Menengah**
 
-## Pasal 9
+**Pasal 9**
 
 - (1) Perizinan Berusaha untuk kegiatan usaha berisiko menengah sebagaimana dimaksud dalam Pasal 7 ayat (7) huruf b meliputi:
 - a. kegiatan usaha berisiko menengah rendah; dan
@@ -435,7 +441,7 @@ Paragraf2...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -9-
 
@@ -443,11 +449,11 @@ Paragraf2...
 - (5) Sertifikat standar sebagaimana dimaksud pada ayat (3) hurrrf b merupakan sertifikat standar usaha yang diterbitkan Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan hasil verifikasi pemenuhan standar pelaksanaan kegiatan usaha oleh Pelaku Usaha.
 - (6) Dalam hal kegiatan usaha berisiko menengah memerlukan standardisasi produk sebagaimana dimaksud pada ayat (21 huruf b dan ayat (3) huruf b, Pemerintah Pusat menerbitkan sertifikat standar produk berdasarkan hasil verifikasi pemenuhan standar yang wajib dipenuhi olbh Pelaku Usaha sebelum melakukan kegiatan komersialisasi produk.
 
-## Paragraf 4
+**Paragraf 4**
 
-## Perizinan Berusaha Kegiatan Usaha Berisiko Tinggi
+**Perizinan Berusaha Kegiatan Usaha Berisiko Tinggi**
 
-## Pasal 10
+**Pasal 10**
 
 - (1) Perizinan Berusaha untuk kegiatan usaha berisiko tinggi sebagaimana dimaksud dalam Pasal 7 ayat (71 huruf c berupa pemberian:
 - a. nomor induk berusaha; dan
@@ -457,37 +463,37 @@ Paragraf2...
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUBUK INDONESTA
+**REPUBUK INDONESTA**
 
 -10-
 
-## Paragraf 5
+**Paragraf 5**
 
-## Pengawasan
+**Pengawasan**
 
-## Pasal 1 1
+**Pasal 1 1**
 
 Pengawasan terhadap setiap kegiatan usaha dilakukan dengan pengaturan frekuensi pelaksanaan berdasarkan tingkat risiko sebagaimana dimaksud dalam Pasal 7 ayat (71 dan mempertimbangkan tingkat kepatuhan Pelaku Usaha.
 
-## Paragraf 6
+**Paragraf 6**
 
 Peraturan Pelaksanaan
 
-## Pasal 12
+**Pasal 12**
 
 Ketentuan lebih lanjut mengenai Perizinan Berusaha berbasis risiko sebagaimana dimaksud dalam Pasal 7, Pasal 8, Pasal 9, dan Pasal 10, serta tata cara pengawasan sebagaimana dimaksud dalam Pasal 1 1, diatur dalam Peraturan Pemerintah.
 
-## Bagian Ketiga
+**Bagian Ketiga**
 
 Penyederhanaan Persyaratan Dasar Perizinan Berusaha
 
-## Paragraf 1
+**Paragraf 1**
 
 Umum
 
-## Pasal 13
+**Pasal 13**
 
 Penyederhanaan persyaratan dasar Perizinan Berusaha sebagaimana dimaksud dalam Pasal 6 huruf b meliputi:
 
@@ -499,15 +505,15 @@ Paragraf2...
 
 <!-- image -->
 
-## REPUBLIK INDONESI'T
+**REPUBLIK INDONESI'T**
 
 - 11-
 
-## Paragraf 2
+**Paragraf 2**
 
-## Kesesuaian Kegiatan Pemanfaatan Ruang
+**Kesesuaian Kegiatan Pemanfaatan Ruang**
 
-## Pasal 14
+**Pasal 14**
 
 - (1) Kesesuaian kegiatan pemanfaatan ruang sebagaimana dimaksud dalam Pasal 13 huruf a merupakan kesesuaian rencana lokasi kegiatan dan/atau usahanya dengan RDTR.
 2. (21 Pemerintah Daerah wajib men5rusun dan menyediakan RDTR dalam bentuk digital dan sesuai standar.
@@ -520,11 +526,11 @@ Pasal15...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -12-
 
-## Pasal 15
+**Pasal 15**
 
 - (1) Dalam hal Pemerintah Daerah belum men5rusun dan menyediakan RDTR sebagaimana dimaksud dalam Pasal 14 ayat (2), Pelaku Usaha mengajukan permohonan persetujuan kesesuaian kegiatan pemanfaatan ruang untuk kegiatan usahanya kepada Pemerintah Pusat melalui sistem Perizinan Berusaha secara elektronik sesuai dengan ketentuan peraturan perrrndang-undangan.
 2. (21 Pemerintah Pusat memberikan persetujuan kesesuaian kegiatan pemanfaatan ruang sebagaimana dimaksud pada ayat (1) sesuai dengan rencana tata ruang.
@@ -535,7 +541,7 @@ Pasal15...
 - d. rencana tata ruang wilayah provinsi; dan/atau
 - e. rencana tata ruang wilayah kabupaten/kota.
 
-## Pasal 16
+**Pasal 16**
 
 Dalam rangka penyederhanaan persyaratan dasar Perizinan Berusaha serta untuk memberikan kepastian dan kemudahan bagi Pelaku Usaha dalam memperoleh kesesuaian kegiatan pemanfaatan ruang, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, dan/atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -549,13 +555,13 @@ c.Undang-Undang...
 - c. Undang-Undang Nomor 32 Tahun 2OL4 tentang Kelautan (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 294,Tambahan Lembaran Negara Republik Indonesia Nomor 5603); dan
 - d. Undang-Undang Nomor 4 Tahun 20ll tentang lnformasi Geospasial (Lembaran Negara Republik Indonesia Tahun 2OlL Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 5214).
 
-## Pasal 17
+**Pasal 17**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 26 Tahun 2OO7 tentang Penataan Ruang (Lembaran Negara Republik Indonesia Tahun 2OO7 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 47251 diubah sebagai berikut:
 
 - Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -568,7 +574,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -14-
 
@@ -613,7 +619,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -t7-
 
@@ -623,7 +629,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 34. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Penataan Ruang.
 5. 2 Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 6
+**Pasal 6**
 
 - (1) Penataan Ruang diselenggarakan dengan memperhatikan:
 - a. kondisi fisik Wilayah Negara Kesatuan Republik Indonesia yang rentan terhadap bencana;
@@ -645,14 +651,14 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (8) Dalam hal terjadi ketidaksesuaian antara Pola Ruang Rencana Tata Ruang dan Kawasan hutan, izin dan/atau hak atas tanah, penyelesaian ketidaksesuaian tersebut diatur dalam Peraturan Pemerintah.
 7. 3 Ketentuan Pasal 8 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 8
+**Pasal 8**
 
 - (1) Wewenang Pemerintah Pusat dalam Penyelenggaraan Penataan Ruang meliputi:
 - a. pengaturan. . .
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESIA
+**PRESIDEN BLIK INDONESIA**
 
 -19-
 
@@ -716,7 +722,7 @@ Wewenang Pemerintah Daerah kabupaten/kota dilaksanakan sesuai dengan norma, stan
 - c. kerja sama Penataan Ruang antarkabupaten/kota.
 4. Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal 14
+**Pasal 14**
 
 - (1) Perencanaan Tata Ruang dilakukan untuk menghasilkan:
 - a. rencana umum Tata Ruang; dan
@@ -730,7 +736,7 @@ Wewenang Pemerintah Daerah kabupaten/kota dilaksanakan sesuai dengan norma, stan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -22-
 
@@ -743,7 +749,7 @@ Wewenang Pemerintah Daerah kabupaten/kota dilaksanakan sesuai dengan norma, stan
 - (6) Ketentuan lebih lanjut mengenai tingkat ketelitian peta rencana umum Tata Ruang dan rencana rinci Tata Ruang sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 8. 8 Di antara Pasal 14 dan Pasal 15 disisipkan 1 (satu) pasal, yakni Pasal l4A sehingga berbunyi sebagai berikut:
 
-## Pasal 14A
+**Pasal 14A**
 
 - (1) Pelaksanaan penJrusunan Rencana Tata Ruang sebagaimana dimaksud dalam Pasal 14 dilakukan dengan memperhatikan:
 - a. daya dukung dan daya tampung lingkungan hidup dan kajian lingkungan hidup strategis; dan
@@ -758,7 +764,7 @@ Wewenang Pemerintah Daerah kabupaten/kota dilaksanakan sesuai dengan norma, stan
 - (4) Dalam hal peta dasar sebagaimana dimaksud pada ayat (3) belum tersedia, penJrusunan Rencana Tata Ruang dilakukan dengan menggunakan peta dasar lainnya.
 3. 9 Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 17
+**Pasal 17**
 
 - (1) Muatan Rencana Tata Ruang mencakup:
 - a. rencana Struktur Ruang; dan
@@ -771,7 +777,7 @@ Wewenang Pemerintah Daerah kabupaten/kota dilaksanakan sesuai dengan norma, stan
 
 <!-- image -->
 
-## REPUBLTK INDONESIA
+**REPUBLTK INDONESIA**
 
 -24-
 
@@ -791,11 +797,11 @@ Pasal 2O
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -25-
 
-## Pasal 20
+**Pasal 20**
 
 - (1) Rencana Tata Ruang Wilayah Nasional memuat:
 - a. tujuan, kebijakan, dan strategi Penataan Ruang Wilayah nasional;
@@ -825,7 +831,7 @@ Pasal 2O
 - (6) Rencana Tata Ruang Wilayah Nasional ditetapkan dengan Peraturan Pemerintah.
 12. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 22
+**Pasal 22**
 
 - (1) Pen5rusunan Rencana Tata Ruang Wilayah provinsi mengacu pada:
 - a. Rencana Tata Ruang Wilayah Nasional;
@@ -907,11 +913,11 @@ Pasal 25
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -30-
 
-## Pasal 26
+**Pasal 26**
 
 - (1) Rencana Tata Ruang Wilayah kabupaten memuat:
 - a. tujuan, kebijakan, dan strategi Penataan Ruang Wilayah kabupaten;
@@ -948,11 +954,11 @@ Pasal 25
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -32-
 
-## Pasal 34A
+**Pasal 34A**
 
 - (1) Dalam hal terdapat perubahan kebijakan nasional yang bersifat strategis sebagaimana dimaksud dalam Pasal 20 ayat (5) huruf d, Pasal 23 ayat (5) hurrrf d, dan Pasal 26 ayat (6) huruf d belum dimuat dalam Rencana Tata Ruang dan/atau rencana zonasi, Pemanfaatan Ruang tetap dapat dilaksanakan.
 2. (21 Pelaksanaan kegiatan Pemanfaatan Ruang sebagaimana dimaksud pada ayat (1) dapat dilakukan setelah mendapat rekomendasi Kesesuaian Kegiatan Pemanfaatan Ruang dari Pemerintah Pusat.
@@ -967,7 +973,7 @@ Pengendalian Pemanfaatan Ruang dilakukan melalui:
 - c. pengenaan sanksi.
 20. Ketentuan Pasal 37 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 37
+**Pasal 37**
 
 - (1) Persetujuan Kesesuaian Kegiatan Pemanfaatan Ruang sebagaimana dimaksud dalam Pasal 35 huruf a diterbitkan oleh Pemerintah Pusat.
 2. (21 Persetujuan Kesesuaian Kegiatan Pemanfaatan Ruang yang tidak sesuai dengan Rencana Tata Ruang Wilayah dibatalkan oleh Pemerintah Pusat.
@@ -984,7 +990,7 @@ Pengendalian Pemanfaatan Ruang dilakukan melalui:
 - (8) Ketentuan lebih lanjut mengenai prosedur perolehan persetujuan Kesesuaian Kegiatan Pemanfaatan Ruang dan tata cara pemberian ganti kerugian yang layak sebagaimana dimaksud pada ayat (5) dan ayat (6) diatur dalam Peraturan Pemerintah.
 - 2I. Ketentuan Pasal 48 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 48
+**Pasal 48**
 
 - (1) Penataan Ruang Kawasan Perdesaan diarahkan untuk:
 - a. pemberdayaanmasyarakatperdesaan;
@@ -996,7 +1002,7 @@ Pengendalian Pemanfaatan Ruang dilakukan melalui:
 
 <!-- image -->
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 -34-
 
@@ -1013,7 +1019,7 @@ Pengendalian Pemanfaatan Ruang dilakukan melalui:
 27. Pasal 54 dihapus.
 28. Ketentuan Pasal 60 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 60
+**Pasal 60**
 
 Dalam Penataan Ruang, setiap Orang berhak untuk:
 
@@ -1023,7 +1029,7 @@ b.menikmati...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -35-
 
@@ -1050,13 +1056,13 @@ Pasal 62
 
 -36-
 
-## Pasal 62
+**Pasal 62**
 
 Setiap Orang yang tidak menaati Rencana Tata Ruang yang telah ditetapkan sebagaimana dimaksud dalam Pasal6l huruf ayang mengakibatkan perubahan fungsi Ruang dikenai sanksi administratif.
 
 31. Ketentuan Pasal 65 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 65
+**Pasal 65**
 
 - (1) Penyelenggaraan Penataan Ruang dilakukan oleh Pemerintah Pusat dan Pemerintah Daerah dengan melibatkan peran masyarakat.
 - (2) Peran masyarakat dalam Penataan Ruang sebagaimana dimaksud pada ayat (1) dilakukan paling sedikit melalui:
@@ -1069,18 +1075,18 @@ Setiap Orang yang tidak menaati Rencana Tata Ruang yang telah ditetapkan sebagai
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -37 -
 
-## Pasal 69
+**Pasal 69**
 
 - (1) Setiap Orang yang tidak menaati Rencana Tata Ruang yang telah ditetapkan sebagaimana dimaksud dalam Pasal 6I huruf a yang mengakibatkan perubahan fungsi Ruang dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 2. (21 Jika tindak pidana sebagaimana dimaksud pada ayat (1) mengakibatkan kerugian terhadap harta benda atau kerusakan barang, pelaku dipidana dengan pidana penjara paling lama 4 (empat) tahun dan pidana denda paling banyak Rp2.500.000.000,00 (dua miliar lima ratus juta rupiah).
 - (3) Jika tindak pidana sebagaimana dimaksud pada ayat (1) mengakibatkan kematian orang, pelaku dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan pidana denda paling banyak Rp8.000.000.000,00 (delapan miliar rupiah).
 33. Ketentuan Pasal 70 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 70
+**Pasal 70**
 
 - (1) Setiap Orang yang memanfaatkan Ruang tidak sesuai dengan Rencana Tata Ruang sebagaimana dimaksud dalam Pasal 61 huruf b yang mengakibatkan perubahan fungsi Ruang dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 2. (21 Jika tindak pidana sebagaimana dimaksud pada ayat (1) mengakibatkan kerugian terhadap harta benda atau kerusakan barang, pelaku dipidana dengan pidana penjara paling lama 4 (empat) tahun dan pidana denda paling banyak Rp2.500.000.000,0O (dua miliar lima ratus juta rupiah).
@@ -1090,26 +1096,26 @@ Setiap Orang yang tidak menaati Rencana Tata Ruang yang telah ditetapkan sebagai
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -38-
 
 34. Ketentuan Pasal 71 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 71
+**Pasal 71**
 
 Setiap Orang yang tidak mematuhi ketentuan yang ditetapkan dalam persyaratan Kesesuaian Kegiatan Pemanfaatan Ruang sebagaimana dimaksud dalam Pasal 61 huruf c yang mengakibatkan perrrbahan fungsi Ruang dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
 35. Pasal 72 dihapus.
 36. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 73
+**Pasal 73**
 
 - (1) Setiap pejabat pemerintah yang berwenang yang menerbitkan persetujuan Kesesuaian Kegiatan Pemanfaatan Ruang yang tidak sesuai dengan Rencana Tata Ruang sebagaimana dimaksud dalam Pasal 37 ayat (7), dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
 2. (21 Selain sanksi pidana sebagaimana dimaksud pada ayat (1) pelaku dapat dikenai pidana tambahan berupa pemberhentian secara tidak dengan hormat dari jabatannya.
 37. Ketentuan Pasal 74 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal T4
+**Pasal T4**
 
 - (2) Selain pidana denda sebagaimana dimaksud pada ayat (1), korporasi dapat dijatuhi pidana tambahan berrrpa:
 - (1) Dalam hal tindak pidana sebagaimana dimaksud dalam Pasal 69, Pasal 70, atau Pasal 71 dilakukan oleh suatu korporasi, selain pidana penjara dan pidana denda terhadap pengurusnya, pidana yang dapat dijatuhkan terhadap korporasi berupa pidana denda dengan pemberatan 1/3 (sepertiga) kali dari pidana denda sebagaimana dimaksud dalam Pasal 69, Pasal 70, atau Pasal 71.
@@ -1122,18 +1128,18 @@ Setiap Orang yang tidak mematuhi ketentuan yang ditetapkan dalam persyaratan Kes
 
 38. Ketentuan Pasal 75 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 75
+**Pasal 75**
 
 - (1) Setiap Orang yang menderita kerugian akibat tindak pidana sebagaimana dimaksud dalam Pasal 69, Pasal 70, atau Pasal 7l dapat menuntut ganti kerugian secara perdata kepada pelaku tindak pidana.
 - (2) Tuntutan ganti kerugian secara perdata sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan hukum acara perdata.
 
-## Pasal 18
+**Pasal 18**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 27 Tahun 2OOT tentang Pengelolaan Wilayah Pesisir dan PulauPulau Kecil (Lembaran Negara Republik Indonesia Tahun 2OO7 Nomor 84, Tambahan Lembaran Negara Republik Indonesia Nomor 47391 sebagaimana telah diubah dengan Undang-Undang Nomor 1 Tahun 2Ol4 tentang Perubahan Atas Undang-Undang Nomor 27 Tahun 2OO7 tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 5490) diubah sebagai berikut:
 
 - Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -1219,7 +1225,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 - 2 Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 7
+**Pasal 7**
 
 - (1) Perencanaan Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil sebagaimana dimaksud dalam Pasal 5 terdiri atas:
 - a. RZ Wilayah Pesisir dan pulau-pulau kecil yang selanjutnya disebut dengan RZWP-3-K;
@@ -1241,7 +1247,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (6) Perencanaan Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil sebagaimana dimaksud pada ayat (1) dilakukan dengan melibatkan Masyarakat.
 3. 3 Di antara Pasal 7 dan Pasal 8 disisipkan 3 (tiga) pasal, yakni Pasal 7A, Pasal 7F, dan Pasal 7C sehingga berbunyi sebagai berikut:
 
-## Pasal 7A
+**Pasal 7A**
 
 - (1) RZWP-3-K sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf a diintegrasikan ke dalam rencana tata ruang wilayah provinsi.
 - (2) RZ KSN sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf b diintegrasikan ke dalam rencana tata ruang kawasan strategis nasional.
@@ -1249,7 +1255,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (4) Dalam hal RZWP-3-K sebagaimana dimaksud pada ayat (1) sudah ditetapkan, pengintegrasian dilakukan pada saat peninjauan kembali rencana tata ruang wilayah provinsi.
 - (5) Dalam hal RZ KSN sebagaimana dimaksud pada ayat (21 sudah ditetapkan, pengintegrasian dilakukan pada saat peninjauan kembali rencana tata ruang kawasan strategis nasional.
 
-## Pasal 78
+**Pasal 78**
 
 Perencanaan Pengelolaan Wilayah Pesisir dan PulauPulau Kecil sebagaimana dimaksud dalam Pasal 7 ayat (1) dilakukan dengan mempertimbangkan:
 
@@ -1257,7 +1263,7 @@ a. keserasian
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 \_48\_
 
@@ -1265,7 +1271,7 @@ a. keserasian
 - b keterpaduan pemanfaatan berbagai jenis sumber daya, fungsi, estetika lingkungan, dan kualitas ruang perairan dan Sumber Daya Pesisir dan Pulau-Pulau Kecil; dan
 - c. kewajiban untuk mengalokasikan ruang dan akses Masyarakat dalam pemanfaatan ruang perairan dan Sumber Daya Pesisir dan Pulau-Pulau Kecil yang mempunyai fungsi sosial dan ekonomi.
 
-## Pasal 7C
+**Pasal 7C**
 
 Ketentuan lebih lanjut mengenai perencanaan Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil sebagaimana dimaksud dalam Pasal 7, Pasal 7A, dan Pasal 78 diatur dalam Peraturan Pemerintah.
 
@@ -1281,13 +1287,13 @@ Ketentuan lebih lanjut mengenai perencanaan Pengelolaan Wilayah Pesisir dan Pula
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 \_49\_
 
 11. Judul Bagian Kesatu pada Bab V diubah sehingga berbunyi sebagai berikut:
 
-## Bagian Kesatu Kesesuaian Kegiatan Pemanfaatan Ruang Laut danPerizinan Berusaha
+**Bagian Kesatu Kesesuaian Kegiatan Pemanfaatan Ruang Laut danPerizinan Berusaha**
 
 12. Ketentuan Pasal 16 diubah sehingga berbunyi sebagai berikut:
 
@@ -1297,13 +1303,13 @@ Pasal 16
 2. (21 Setiap Orang yang melakukan pemanfaatan rulang dari Perairan Pesisir sebagaimana dimaksud pada ayat (1) wajib memiliki kesesuaian kegiatan pemanfaatan ruang laut dari Pemerintah Pusat.
 13. Di antara Pasal 16 dan Pasal 17 disisipkan 1 (satu) pasal, yakni Pasal 16A sehingga berbunyi sebagai berikut:
 
-## Pasal 16A
+**Pasal 16A**
 
 Setiap Orang yang memanfaatkan nrang dari Perairan Pesisir yang tidak memiliki kesesuaian kegiatan pemanfaatan ruang laut sebagaimana dimaksud dalam Pasal 16 ayat (2) dikenai sanksi administratif.
 
 14. Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 17
+**Pasal 17**
 
 - (1) Pemberian kesesuaian kegiatan pemanfaatan ruang laut sebagaimana dimaksud dalam Pasal 16 ayat (2) wajib mempertimbangkan kelestarian Ekosistem Perairan Pesisir, Masyarakat, nelayan tradisional, kepentingan nasional, dan hak lintas damai bagi kapal asing.
 2. (21 Kesesuaian kegiatan pemanfaatan ruang laut tidak dapat diberikan pada Zona inti di Kawasan Konservasi di Wilayah Pesisir dan Pulau-Pulau Kecil.
@@ -1311,18 +1317,18 @@ Setiap Orang yang memanfaatkan nrang dari Perairan Pesisir yang tidak memiliki k
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -50-
 
-## Pasal 17A
+**Pasal 17A**
 
 - (1) Dalam hal terdapat kebijakan nasional yang bersifat strategis yang belum terdapat dalam alokasi ruang dan/atau pola ruang dalam rencana tata ruang dan/atau RZ, kesesuaian kegiatan pemanfaatan ruang laut sebagaimana dimaksud dalam Pasal 16 ayat (2) diberikan oleh Pemerintah Pusat berdasarkan rencana tata ruang wilayah nasional dan/atau rencana tata ruang laut.
 2. (21 Dalam hal terdapat kebijakan nasional yang bersifat strategis tetapi rencana tata ruang dan/atau RZ belum ditetapkan oleh Pemerintah Pusat atau Pemerintah Daerah, kesesuaian kegiatan pemanfaatan ruang laut sebagaimana dimaksud dalam Pasal 16 ayat (2) diberikan oleh Pemerintah Pusat berdasarkan rencana tata ruang wilayah nasional dan/atau rencana tata rulang laut.
 - (3) Dalam hal terdapat perubahan ketentuan peraturan perundangan-undangan yang menjadi acuan dalam penetapan lokasi untuk kebijakan nasional yang bersifat strategis sebagaimana dimaksud pada ayat (1) dan ayat (2), lokasi untuk kebijakan nasional yang bersifat strategis tersebut dalam rencana tata ruang laut dan/atau RZ dilaksanakan sesuai dengan perubahan ketentuan peraturan perundang-undangan.
 16. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 18
+**Pasal 18**
 
 Dalam hal pemegang kesesuaian kegiatan pemanfaatan ruang laut sebagaimana dimaksud dalam Pasal 16 ayat (2) tidak merealisasikan kegiatannya dalam jangka waktu paling lama 2 (dua) tahun sejak kesesuaian kegiatan pemanfaatan ruang laut diterbitkan, pemegang kesesuaian kegiatan pemanfaatan ruang laut dikenai sanksi administratif berupa pencabutan kesesuaian kegiatan pemanfaatan ruang laut.
 
@@ -1357,13 +1363,13 @@ Pasal 20
 
 19. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 22
+**Pasal 22**
 
 - (1) Kewajiban memenuhi kesesuaian kegiatan pemanfaatan rrrang laut sebagaimana dimaksud dalam Pasal 16 ayat (21 dikecualikan bagi Masyarakat Hukum Adat di wilayah kelola Masyarakat Hukum Adat.
 2. (21 Masyarakat Hukum Adat sebagaimana dimaksud pada ayat (1) ditetapkan pengakuannya sesuai dengan ketentuan peraturan perundangundangan.
 20. Ketentuan Pasal 22A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 22A
+**Pasal 22A**
 
 - (1) Perizinan Berusaha sebagaimana dimaksud dalam Pasal 19 diberikan kepada:
 - a. orang perseorangan warga negara lndonesia;
@@ -1377,29 +1383,29 @@ Pasal22B...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -53-
 
-## Pasal 22u-
+**Pasal 22u-**
 
 Orang perseorangan warga negara Indonesia atau korporasi yang didirikan berdasarkan hukum Indonesia dan koperasi yang dibentuk oleh Masyarakat yang mengajukan pemanfaatan laut wajib memenuhi kesesuaian kegiatan pemanfaatan rarang laut dan Perizinan Berrrsaha dari Pemerintah Pusat.
 
 22. Ketentuan Pasal 22C diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 22C
+**Pasal 22C**
 
 Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait pemanfaatan di laut diatur dalam Peraturan Pemerintah.
 
 23. Ketentuan Pasal 26A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26A
+**Pasal 26A**
 
 Dalam rangka penanaman modal asing, pemanfaatan pulau-pulau kecil dan pemanfaatan perairan di sekitarnya harus memenuhi Perizinan Berusaha dari Pemerintah Pusat dan sesuai dengan ketentuan peraturan perundang-undangan di bidang penanaman modal.
 
 24. Di antara Pasal 26A dan Pasal 27 disisipkan 1 (satu) pasal yakni Pasal 26u- sehingga berbunyi sebagai berikut:
 
-## Pasal 26E}
+**Pasal 26E}**
 
 Setiap Orang yang tidak memiliki Perizinan Berusaha dalam memanfaatkan pulau-pulau kecil dan pemanfaatan perairan di sekitarnya dalam rangka penanaman modal asing sebagaimana dimaksud dalam Pasal 26A dikenai sanksi administratif.
 
@@ -1407,13 +1413,13 @@ Setiap Orang yang tidak memiliki Perizinan Berusaha dalam memanfaatkan pulau-pul
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -54-
 
 25. Ketentuan Pasal 50 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 50
+**Pasal 50**
 
 Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya memberikan dan mencabut Perizinan Berusaha terkait pemanfaatan di laut di wilayah Perairan Pesisir.
 
@@ -1436,7 +1442,7 @@ d. melakukan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -55-
 
@@ -1464,13 +1470,13 @@ b. menjaga
 - e. melaksanakan program Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil yang disepakati di tingkat desa.
 28. Ketentuan Pasal 71 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 71
+**Pasal 71**
 
 Pemanfaatan ruang perairan dan Sumber Daya Pesisir dan Pulau-Pulau Kecil yang tidak memiliki kesesuaian kegiatan pemanfaatan ruang laut yang diberikan sebagaimana dimaksud dalam Pasal 16 ayat (21 dan Perizinan Ber-usaha sebagaimana dimaksud dalam Pasal 19 ayat (1) dikenai sanksi administratif.
 
 29. Di antara Pasal 71 dan Pasal 72 disisipkan 1 (satu) pasal, yakni Pasal 7lA sehingga berbunyi sebagai berikut:
 
-## Pasal 71A
+**Pasal 71A**
 
 - (1) Sanksi administratif sebagaimana dimaksud dalam Pasal 16A, Pasal 268, dan Pasal7 | dapat berupa:
 - a. peringatan tertulis;
@@ -1487,13 +1493,13 @@ Pemanfaatan ruang perairan dan Sumber Daya Pesisir dan Pulau-Pulau Kecil yang ti
 - l2l Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 30. Di antara Pasal 73 dan Pasal 74 disisipkan 1 (satu) pasal, yakni Pasal 73A sehingga berbunyi sebagai berikut:
 
-## Pasal 73A
+**Pasal 73A**
 
 Setiap Orang yang memanfaatkan Pulau Kecil dan perairan di sekitarnya dalam rangka penanaman modal asing yang tidak memiliki Perizinan Berusaha sebagaimana dimaksud dalam Pasal 26A yang mengakibatkan perubahan fungsi ruang dipidana dengan pidana penjara paling lama 4 (empat) tahun dan pidana denda paling banyak Rp2.000.000.000,OO (dua miliar rupiah).
 
 31. Ketentuan Pasal 75 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 75
+**Pasal 75**
 
 Setiap Orang yang memanfaatkan rLlang dari perairan yang tidak memiliki kesesuaian kegiatan pemanfaatan ruang laut sebagaimana dimaksud dalam Pasal 16 ayat (2) yang mengakibatkan perubahan fungsi rLrang dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
 
@@ -1504,21 +1510,21 @@ Pasal 78A
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -58-
 
-## Pasal 78A
+**Pasal 78A**
 
 Kawasan Konservasi di Wilayah Pesisir dan Pulau-Pulau Kecil yang telah ditetapkan melalui peraturan perundang-undangan menjadi kewenangan Pemerintah Pusat.
 
-## Pasal 19
+**Pasal 19**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 32 Tahun 2Ol4 tentang Kelautan (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 294, Tambahan Lembaran Negara Republik Indonesia Nomor 5603) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -1529,7 +1535,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESTA
+**PRESIDEN REPUBLTK INDONESTA**
 
 -59-
 
@@ -1543,7 +1549,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESTA
+**PRESIDEN REPUELIK INDONESTA**
 
 -60-
 
@@ -1589,7 +1595,7 @@ c. perencanaan
 
 <!-- image -->
 
-## FRESIDEN REPUELIK TNDONESIA
+**FRESIDEN REPUELIK TNDONESIA**
 
 -62-
 
@@ -1605,11 +1611,11 @@ c. perencanaan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -63-
 
-## Pasal 43A
+**Pasal 43A**
 
 - (1) Perencanaan mang Laut sebagaimana dimaksud dalam Pasal 43 ayat (1) dilakukan secara berjenjang dan komplementer.
 2. (21 Perencanaan ruang Laut yang dilakukan secara berjenjang dan komplementer sebagaimana dimaksud pada ayat (1) merupakan pen5rusunan antara:
@@ -1623,13 +1629,13 @@ c. perencanaan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -64-
 
 - 6 Ketentuan Pasal 47 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal47
+**Pasal47**
 
 - (1) Setiap orang yang melakukan pemanfaatan ruang Laut secara menetap di wilayah perairan dan wilayah yurisdiksi wajib memiliki kesesuaian kegiatan pemanfaatan ruang Laut.
 2. (21 Ketentuan sebagaimana dimaksud pada ayat (1) dikecualikan bagi masyarakat yang melakukan pemanfaatan di Laut untuk memenuhi kebutuhan sehari-hari.
@@ -1638,7 +1644,7 @@ c. perencanaan
 - (5) Ketentuan lebih lanjut mengenai kesesuaian kegiatan pemanfaatan ruang Laut yang berada di wilayah perairan dan wilayah yurisdiksi sebagaimana dimaksud pada ayat (1) dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan Pemerintah.
 6. Di antara Pasal 47 dan Pasal 48 disisipkan 1 (satu) pasal, yakni Pasal 47A sehingga berbunyi sebagai berikut: 7
 
-## Pasal 47A
+**Pasal 47A**
 
 - (1) Kesesuaian kegiatan pemanfaatan ruang Laut sebagaimana dimaksud dalam Pasal 47 diberikan berdasarkan rencana tata ruang dan/atau rencana zonasi.
 2. (21 Kesesuaian kegiatan pemanfaatan ruang Laut sebagaimana dimaksud pada ayat (1) diberikan untuk kegiatan:
@@ -1647,7 +1653,7 @@ a. biofarmakologi. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -65-
 
@@ -1680,19 +1686,19 @@ Setiap orang yang melakukan pemanfaatan Sumber Daya Kelautan sesuai dengan renca
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -66-
 
 - 9 Ketentuan Pasal 49 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 49
+**Pasal 49**
 
 Setiap orang yang melakukan pemanfaatan ruang Laut secara menetap yang tidak memiliki kesesuaian kegiatan pemanfaatan ruang Laut sebagaimana dimaksud dalam Pasal 47 ayat (1) dikenai sanksi administratif.
 
 10. Di antara Pasal 49 dan Pasal 50 disisipkan 2 (dua) pasal, yakni Pasal 49A dan Pasal 49E sehingga berbunyi sebagai berikut:
 
-## Pasal 49A
+**Pasal 49A**
 
 - (1) Sanksi administratif sebagaimana dimaksud dalam Pasal 49 dapat berupa:
 - a. peringatan tertulis;
@@ -1703,7 +1709,7 @@ Setiap orang yang melakukan pemanfaatan ruang Laut secara menetap yang tidak mem
 - f. denda administratif.
 8. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## Pasal 49B
+**Pasal 49B**
 
 Setiap orang yang melakukan pemanfaatan ruang Laut secara menetap yang tidak memiliki kesesuaian kegiatan pemanfaatan ruang Laut sebagaimana dimaksud dalam Pasal 47 ayat (1) yang mengakibatkan perubahan fungsi ruang dipidana dengan pidana penjara paling lama 6 (enam) tahun dan pidana denda paling banyak Rp20.000.000.000,00 (dua puluh miliar rupiah).
 
@@ -1711,17 +1717,17 @@ Pasal20...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -67 -
 
-## Pasal 20
+**Pasal 20**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 4 Tahun 2olt tentang Informasi Geospasial (Lembaran Negara Republik Indonesia Tahun 20ll Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 52141 diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -1734,7 +1740,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## FRESTDEN REPUELIK TNDONESIA
+**FRESTDEN REPUELIK TNDONESIA**
 
 -68-
 
@@ -1759,7 +1765,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 20. Badan Usaha adalah badan usaha milik negara, badan usaha milik daerah, atau badan usaha yang berbadan hukum.
 2. 2 Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 7
+**Pasal 7**
 
 - (1) Peta dasar sebagaimana dimaksud dalam Pasal 5 huruf b terdiri atas:
 - a. garis pantai;
@@ -1775,7 +1781,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 12. Pasal 12 dihapus. 3
 13. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 13
+**Pasal 13**
 
 - (1) Garis pantai sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf a inerupakan garis pertemuan antara daratan dengan lautan yang dipengaruhi oleh pasang surut air laut.
 
@@ -1792,7 +1798,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (3) Garis pantai sebagaimana dimaksud pada ayat (21 ditentukan dengan mengacu pada JKVN.
 - 5 Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 17
+**Pasal 17**
 
 - (1) IGD diselenggarakan sec€rra bertahap dan sistematis untuk seluruh wilayah Negara Kesatuan Republik Indonesia dan wilayah yurisdiksinya.
 2. (21 IGD sebagaimana dimaksud pada ayat (1) dimutakhirkan secara periodik dalam jangka waktu tertentu atau sewaktu-waktu apabila diperlukan.
@@ -1805,24 +1811,24 @@ Pasal 18. . .
 
 <!-- image -->
 
-## PRESIDEN REPI,JBUK INDONESIA
+**PRESIDEN REPI,JBUK INDONESIA**
 
 \_7t\_
 
-## Pasal 18
+**Pasal 18**
 
 - (1) Peta Rupabumi Indonesia sebagaimana dimaksud dalam Pasal 7 ayat (2) diselenggarakan pada Skala 1:1.000, 1:5.000, 1:25.000, 1:5O.0O0, 1:250.O00, dan 1:1.000.000.
 - (2) Peta Rupabumi Indonesia Skala 1:1.0O0 sebagaimana dimaksud pada ayat (1) diselenggarakan pada wilayah tertentu sesuai dengan kebutuhan.
 - (3) Peta Rupabumi Indonesia selain pada Skala sebagaimana dimaksud pada ayat (1) dapat diselenggarakan pada Skala lain sesuai dengan kebutuhan.
 4. 7 Di antara Pasal 22 dan Pasal 23 disisipkan 1 (satu) pasal, yakni Pasal 22A sehingga berbunyi sebagai berikut:
 
-## Pasal 22A
+**Pasal 22A**
 
 - (1) Penyelenggaraan IGD sebagaimana dimaksud dalam Pasal 22 ayat (1) dapat dilakukan melalui kerja sama antara Pemerintah Pusat dengan badan usaha milik negara.
 2. (21 Ketentuan lebih lanjut mengenai kerja sama Pemerintah Pusat dengan badan usaha milik negara sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Presiden.
 3. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut: 8
 
-## Pasal 28
+**Pasal 28**
 
 - (1) Pengumpulan DG harus memperoleh persetujuan dari Pemerintah Pusat apabila:
 - a. dilakukan di daerah terlarang;
@@ -1839,7 +1845,7 @@ Pasal 18. . .
 - (3) Ketentuan lebih lanjut mengenai tata cara memperoleh persetujuan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 3. 9 Ketentuan Pasal 55 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 55
+**Pasal 55**
 
 - (1) Pelaksanaan IG sebagaimana dimaksud dalam Pasal 54 yang dilakukan oleh:
 - a. orang perseorangan wajib memenuhi kualifikasi sebagai tenaga profesional yang tersertifikasi di bidang IG;
@@ -1852,21 +1858,21 @@ Pasal 18. . .
 
 \_73\_
 
-## Paragraf 3
+**Paragraf 3**
 
-## Persetuj uan Lingkungan
+**Persetuj uan Lingkungan**
 
-## Pasal 2 1
+**Pasal 2 1**
 
 Dalam rangka memberikan kemudahan bagi setiap orang dalam memperoleh persetujuan lingkungan, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan terkait Perizinan Berusaha yang diatur dalam Undang-Undang Nomor 32 Tahun 2OO9 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor l4O, Tambahan Lembaran Negara Republik Indonesia Nomor sose).
 
-## Pasal 22
+**Pasal 22**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 32 Tahun 2OO9 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor l4O, Tambahan Lembaran Negara Republik Indonesia Nomor 5059) diubah sebagai berikut:
 
 - Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -1939,7 +1945,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Perlindungan dan Pengelolaan Lingkungan Hidup. 39.
 - 2 Ketentuan Pasal 20 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 20
+**Pasal 20**
 
 - (1) Penentuan terjadinya Pencemaran Lingkungan Hidup diukur melalui Baku Mutu Lingkungan Hidup.
 - (2) Baku Mutu Lingkungan Hidup meliputi:
@@ -1961,7 +1967,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 4. (41 Ketentuan lebih lanjut mengenai Baku Mutu Lingkungan Hidup sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
 3. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 24
+**Pasal 24**
 
 - (1) Dokumen Amdal merupakan dasar uji kelayakan Lingkungan Hidup untuk rencana usaha dan/atau liegiatan.
 2. (21 Uji kelayakan Lingkungan Hidup sebagaimana dimaksud pada ayat (1) dilakukan oleh tim uji kelayakan Lingkungan Hidup yang dibentuk oleh lembaga uji kelayakan Lingkungan Hidup Pemerintah Pusat.
@@ -1973,13 +1979,13 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -80-
 
-## Pasal 25
+**Pasal 25**
 
-## Dokumen Amdal memuat:
+**Dokumen Amdal memuat:**
 
 - a. pengkajian mengenai dampak rencana usaha dan/atau kegiatan;
 - b. evaluasi kegiatan di sekitar lokasi rencana usaha dan/atau kegiatan;
@@ -1989,7 +1995,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - f. rencana pengelolaan dan pemantauan Lingkungan Hidup.
 7. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut: 5
 
-## Pasal 26
+**Pasal 26**
 
 - (1) Dokumen Amdal sebagaimana dimaksud dalam Pasal 22 disusun oleh pemrakarsa dengan melibatkan masyarakat.
 2. (21 Pen5rusunan dokumen Amdal dilakukan dengan melibatkan masyarakat yang terkena dampak langsung terhadap rencana usaha dan/atau kegiatan.
@@ -2000,17 +2006,17 @@ Pasal27 .
 
 <!-- image -->
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 -81 -
 
-## Pasal27
+**Pasal27**
 
 Dalam men5rusun dokumen Amdal, pemrakarsa sebagaimana dimaksud dalam Pasal 26 ayat (1) dapat menunjuk pihak lain.
 
 - 7 Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 28
+**Pasal 28**
 
 - (1) Pen5rusun Amdal sebagaimana dimaksud dalam Pasal 26 ayat (1) dan Pasal 27 wajib memiliki sertifikat kompetensi penyusun Amdal.
 2. (21 Ketentuan mengenai sertifikasi dan kompetensi pen5rusun Amdal diatur Peraturan Pemerintah. kriteria dalam
@@ -2019,7 +2025,7 @@ Dalam men5rusun dokumen Amdal, pemrakarsa sebagaimana dimaksud dalam Pasal 26 ay
 10. Pasal 31 dihapus.
 11. Ketentuan Pasal 32 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 32
+**Pasal 32**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah membantu pen5rusunan Amdal bagi usaha dan/atau kegiatan usaha mikro dan kecil yang berdampak penting terhadap Lingkungan Hidup.
 2. (21 Bantuan pen5rusunan Amdal sebagaimana dimaksud pada ayat (1) berupa fasilitasi, biaya, dan/ atau pen5rusunan Amdal.
@@ -2028,7 +2034,7 @@ Dalam men5rusun dokumen Amdal, pemrakarsa sebagaimana dimaksud dalam Pasal 26 ay
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 \_82\_
 
@@ -2053,7 +2059,7 @@ Pasal 35
 
 <!-- image -->
 
-## PRESIOEN REPUBUK INDONESIA
+**PRESIOEN REPUBUK INDONESIA**
 
 -83-
 
@@ -2080,7 +2086,7 @@ Pasal 39
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -84-
 
@@ -2106,7 +2112,7 @@ Pasal 59
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -85-
 
@@ -2115,14 +2121,14 @@ Pasal 59
 - (7) Ketentuan lebih lanjut mengenai Pengelolaan Limbah 83 diatur dalam Peraturan Pemerintah.
 - 2t. Ketentuan Pasal 61 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 61
+**Pasal 61**
 
 - (1) Dumping/Pembuangan sebagaimana dimaksud dalam Pasal 60 hanya dapat dilakukan dengan persetujuan dari Pemerintah Pusat.
 2. (21 Dumping/Pembuangan sebagaimana dimaksud pada ayat (1) hanya dapat dilakukan di lokasi yang telah ditentukan.
 - (3) Ketentuan lebih lanjut mengenai tata cara dan persyaratan Dumping/ Pembuangan Limbah atau bahan diatur dalam Peraturan Pemerintah.
 22. Di antara Pasal 61 dan Pasal 62 disisipkan 1 (satu) pasal, yakni Pasal 61A sehingga berbunyi sebagai berikut:
 
-## Pasal 61A
+**Pasal 61A**
 
 Dalam hal penanggung jawab usaha dan/atau kegiatan:
 
@@ -2139,7 +2145,7 @@ e. membuang
 - f. memanfaatkan air Limbah untuk aplikasi ke tanah, yang merrrpakan bagian dari kegiatan usaha, pengelolaan tersebut dinyatakan dalam Amdal atau UKL-UPL.
 23. Ketentuan Pasal 63 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 63
+**Pasal 63**
 
 - (1) Dalam Perlindungan dan Pengelolaan Lingkungan Hidup, Pemerintah Pusat bertugas dan berwenang:
 - a. menetapkan kebijakan nasional;
@@ -2217,7 +2223,7 @@ n.menetapkan...
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -90-
 
@@ -2241,7 +2247,7 @@ c.memasukkan...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -91 -
 
@@ -2256,7 +2262,7 @@ c.memasukkan...
 9. (21 Ketentuan sebagaimana dimaksud pada ayat (1) huruf h dikecualikan bagi masyarakat yang melakukan kegiatan dimaksud dengan memperhatikan sungguh-sungguh Kearifan Lokal di daerah masing-masing.
 25. Ketentuan Pasal 71 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 71
+**Pasal 71**
 
 - (1) Pemerintah Pusat atau Pemerintah Daerah melakukan pengawasan terhadap ketaatan penanggung jawab usaha dan/atau kegiatan atas ketentuan yang ditetapkan dalam peraturan perundang-undangan di bidang Perlindungan dan Pengelolaan Lingkungan Hidup.
 
@@ -2271,7 +2277,7 @@ c.memasukkan...
 - (4) Ketentuan lebih lanjut mengenai pejabat pengawas Lingkungan Hidup diatur dalam Peraturan Pemerintah.
 26. Ketentuan Pasal 72 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal72
+**Pasal72**
 
 Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat wajib melakukan pengawasan ketaatan penanggung jawab usaha dan/atau kegiatan terhadap Perizinan Berusaha, atau persetujuan Pemerintah Pusat atau Pemerintah Daerah.
 
@@ -2283,28 +2289,28 @@ Menteri ,:fil'7,l"umm., pensawasan terhadap ketaatan penanggung jawab usaha dan/
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 -93-
 
 28. Ketentuan Pasal 76 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 76
+**Pasal 76**
 
 - (1) Pemerintah Pusat atau Pemerintah Daerah menerapkan sanksi administratif kepada penanggung jawab usaha dan/atau kegiatan jika dalam pengawasan ditemukan pelanggaran terhadap Perizinan Berusaha atau persetujuan Pemerintah Pusat atau Pemerintah Daerah.
 2. (21 Ketentuan lebih lanjut mengenai tata pengenaan sanksi administratif diatur Peraturan Pemerintah. cara dalam
 29. Ketentuan Pasal 77 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal77
+**Pasal77**
 
 Menteri dapat menerapkan sanksi administratif terhadap penanggung jawab usaha dan/atau kegiatan dalam hal Menteri menganggap Pemerintah Daerah secara sengaja tidak menerapkan sanksi administratif terhadap pelanggaran yang serius di bidang Perlindungan dan Pengelolaan Lingkungan Hidup.
 
 30. Pasal 79 dihapus.
 31. Ketentuan Pasal 82 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 82
+**Pasal 82**
 
 - (1) Pemerintah Pusat berwenang untuk memaksa penanggung jawab usaha dan/atau kegiatan untuk melakukan pemulihan Lingkungan Hidup akibat Pencemaran Lingkungan Hidup dan/atau Perusakan Lingkungan Hidup yang dilakukan oleh penanggung jawab usaha dan/atau kegiatan.
 
@@ -2312,14 +2318,14 @@ Menteri dapat menerapkan sanksi administratif terhadap penanggung jawab usaha da
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -94-
 
 - (21 Pemerintah Pusat benyenang atau dapat menunjuk pihak ketiga untuk melakukan pemulihan Lingkungan Hidup akibat Pencemaran Lingkungan Hidup dan/atau Perusakan Lingkungan Hidup yang dilakukan oleh penanggung jawab usaha dan/atau kegiatan atas beban biaya penanggung jawab usaha dan/atau kegiatan.
 32. Di antara Pasal 82 dan Pasal83 disisipkan 3 (tiga) pasal, yakni Pasal 82A, Pasal 828, dan Pasal 82C sehingga berbunyi sebagai berikut:
 
-## Pasal 82A
+**Pasal 82A**
 
 Setiap Orang yang melakukan usaha dan/atau kegiatan tanpa memiliki:
 
@@ -2328,7 +2334,7 @@ Setiap Orang yang melakukan usaha dan/atau kegiatan tanpa memiliki:
 
 dikenai sanksi administratif.
 
-## Pasal 82B
+**Pasal 82B**
 
 - (1) Setiap Orang yang melakukan usaha dan/atau kegiatan yang memiliki:
 - a. Perizinan Berusaha atau persetujuan Pemerintah Pusat atau Pemerintah Daerah sebagaimana dimaksud dalam Pasal 24 ayat (5), Pasal 34 ayat (3), atau Pasal 59 ayat (4);
@@ -2339,7 +2345,7 @@ yang
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -95-
 
@@ -2350,7 +2356,7 @@ yang tidak sesuai dengan kewajiban dalam Perizinan Berusaha atau persetujuan Pem
 - b. men5rusun Amdal tanpa memiliki sertifikat kompetensi pen5rusun Amdal sebagaimana dimaksud dalam Pasal 69 ayat (1) huruf i dikenai sanksi administratif.
 - (3) Setiap Orang yang karena kelalaiannya melakukan perbuatan yang mengakibatkan dilampauinya baku mutu udara ambien, baku mutu air, baku mutu air laut, atau Kriteria Baku Kerusakan Lingkungan Hidup yang tidak sesuai dengan Perizinan Berusaha yang dimilikinya dikenai sanksi administratif.
 
-## Pasal 82C
+**Pasal 82C**
 
 - (1) Sanksi administratif sebagaimana dimaksud dalam Pasal 82A dan Pasal 82B berupa:
 - a. teguran tertulis;
@@ -2361,16 +2367,16 @@ yang tidak sesuai dengan kewajiban dalam Perizinan Berusaha atau persetujuan Pem
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 -96-
 
 - (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 33. Ketentuan Pasal 88 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 88
+**Pasal 88**
 
 Setiap Orang yang tindakannya, usahanya, dan/atau kegiatannya menggunakan 83, menghasilkan dan/atau mengelola Limbah 83, dan/atau yang menimbulkan Ancaman Serius terhadap Lingkungan Hidup bertanggung jawab mutlak atas kerugian yang terjadi dari usaha danlatau kegiatannya.
 
@@ -2379,7 +2385,7 @@ Setiap Orang yang tindakannya, usahanya, dan/atau kegiatannya menggunakan 83, me
 36. Ketentuan Pasal 109 diubah sehingga berbunyi sebagai
 4. berikut:
 
-## Pasal 109
+**Pasal 109**
 
 Setiap Orang yang melakukan usaha dan/atau kegiatan tanpa memiliki:
 
@@ -2391,9 +2397,9 @@ yang
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 -97 -
 
@@ -2411,7 +2417,7 @@ Pejabat pemberi Persetujuan Lingkungan yang menerbitkan Persetujuan Lingkungan s
 39. Ketentuan Pasal 112 diubah sehingga berbunyi sebagai
 2. berikut:
 
-## Pasal 1 12
+**Pasal 1 12**
 
 Setiap pejabat berwenang yang dengan sengaja tidak melakukan pengawasan terhadap ketaatan penanggung jawab usaha dan/atau kegiatan terhadap peraturan perundang-undangan dan Perizinan Berusaha atau persetujuan Pemerintah Pusat atau Pemerintah Daerah sebagaimana dimaksud dalam Pasal 72 yang mengakibatkan terjadinya Pencemaran Lingkungan Hidup dan/atau Kerusakan Lingkungan Hidup yang mengakibatkan hilangnya nyawa manusia dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
 
@@ -2419,30 +2425,30 @@ Paragraf4...
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 -98-
 
-## Paragraf 4
+**Paragraf 4**
 
 Persetujuan Bangunan Gedung dan Sertifikat Laik Fungsi
 
-## Pasal 23
+**Pasal 23**
 
 Untuk memberikan kemudahan bagi masyarakat, terutama Pelaku Usaha dalam memperoleh Persetujuan Bangunan Gedung dan sertifikat laik fungsi bangunan, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
 - a. Undang-Undang Nomor 28 Tahun 2OO2 tentang Bangunan Gedung (Lembaran Negara Republik Indonesia Tahun 2OO2 Nomor I34, Tambahan Lembaran Negara Republik Indonesia Nomor 4247); dan
 - b. Undang-Undang Nomor 6 Tahun 2Ol7 tentang Arsitek (Lembaran Negara Republik Indonesia Tahun 2OLT Nomor 179, Tambahan Lembaran Negara Republik Indonesia Nomor 6108).
 
-## Pasal24
+**Pasal24**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 28 Tahun 2OO2 tentang Bangunan Gedung (Lembaran Negara Republik Indonesia Tahun 2OO2 Nomor L34, Tambahan Lembaran Negara Republik Indonesia Nomor 4247) diubah sebagai berikut:
 
 - Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -2475,13 +2481,13 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUEL|K INDONESIA
+**PRESIDEN REPUEL|K INDONESIA**
 
 -101 -
 
 - 2 Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 5
+**Pasal 5**
 
 - (1) Setiap Bangunan Gedung memiliki fungsi dan klasifikasi Bangunan Gedung.
 2. (21 Ketentuan lebih lanjut mengenai fungsi dan klasifikasi Bangunan Gedung sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -2495,7 +2501,7 @@ Pasal 6
 - (4) Ketentuan lebih lanjut mengenai tata cara memperoleh Persetujuan Bangunan Gedung sebagaimana dimaksud pada ayat (21 dan ayat (3) diatur dalam Peraturan Pemerintah.
 5. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 7
+**Pasal 7**
 
 - (1) Setiap Bangunan Gedung harus memenuhi standar teknis Bangunan Gedung sesuai dengan fungsi dan klasifikasi Bangunan Gedung.
 2. (21 Penggunaan ruang atas tanah dan/atau bawah tanah dan/atau air untuk Bangunan Gedung harus dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
@@ -2504,7 +2510,7 @@ Pasal 6
 
 <!-- image -->
 
-## PRESIDEN EEPUBLTK INDONESIA
+**PRESIDEN EEPUBLTK INDONESIA**
 
 -to2-
 
@@ -2551,7 +2557,7 @@ Pasal 15
 30. Pasal 33 dihapus.
 31. Ketentuan Pasal 34 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 34
+**Pasal 34**
 
 - (1) Penyelenggaraan Bangunan Gedung meliputi kegiatan pembangunan, Pemanfaatan Bangunan Gedung, Pelestarian, dan Pembongkaran.
 2. (21 Dalam Penyelenggaraan Bangunan Gedung sebagaimana dimaksud pada ayat (1), penyelenggara berkewajiban memenuhi standar teknis Bangunan Gedung.
@@ -2559,7 +2565,7 @@ Pasal 15
 - (4) Dalam hal terdapat perubahan standar teknis Bangunan Gedung, Pemilik Bangunan Gedung yang belum memenuhi standar teknis sebagaimana dimaksud pada ayat (21 tetap harus memenuhi ketentuan standar teknis secara bertahap.
 32. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+**Pasal 35**
 
 - (1) Pembangunan Bangunan Gedung diselenggarakan melalui tahapan perencanaan, pelaksanaan, dan pengawasan.
 2. (21 Pembangunan Bangunan Gedung dapat dilakukan, baik di tanah milik sendiri maupun di tanah milik pihak lain.
@@ -2581,17 +2587,17 @@ Pasal 15
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -106-
 
-## Pasal 36A
+**Pasal 36A**
 
 - (1) Pelaksanaan pembangunan Bangunan Gedung sebagaimana dimaksud dalam Pasal 35 ayat (1) dilakukan setelah mendapatkan Persetujuan Bangunan Gedung.
 2. (21 Persetujuan Bangunan Gedung sebagaimana dimaksud pada ayat (1) diperoleh setelah mendapatkan pernyataan pemenuhan standar teknis Bangunan Gedung dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 - (3) Persetujuan Bangunan Gedung sebagaimana dimaksud pada ayat (1) dimohonkan kepada Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat melalui sistem elektronik yang diselenggarakan oleh Pemerintah Pusat.
 
-## Pasal 36E}
+**Pasal 36E}**
 
 - (1) Pelaksanaan pembangunan Bangunan Gedung dilakukan oleh Penyedia Jasa Konstruksi yang memenuhi syarat dan standar kompetensi sesuai dengan ketentuan peraturan perundangundangan.
 - (2) Penyedia jasa pengawasan atau manajemen konstruksi melakukan kegiatan pengawasan dan bertanggung jawab untuk melaporkan setiap tahapan pekerjaan.
@@ -2619,7 +2625,7 @@ Pasal 37
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -108-
 
@@ -2629,13 +2635,13 @@ Pasal 37
 - (6) Dalam Pemanfaatan Bangunan Geduflg, Pemilik Bangunan Gedung, danf atau Pengguna Bangunan Gedung mempunyai hak dan kewajiban sebagaimana diatur dalam Undang-Undang ini.
 36. Di antara Pasal 37 dan Pasal 38 disisipkan 1 (satu) pasal, yakni Pasal 37A sehingga berbunyi sebagai berikut:
 
-## Pasal 37A
+**Pasal 37A**
 
 Ketentuan lebih lanjut mengenai perencanaan, pelaksanaan, pengawasan, dan Pemanfaatan Bangunan Gedung diatur dalam Peraturan Pemerintah.
 
 37. Ketentuan Pasal 39 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 39
+**Pasal 39**
 
 - (1) Bangunan Gedung dapat dibongkar apabila:
 - a. tidak laik fungsi dan tidak dapat diperbaiki;
@@ -2665,7 +2671,7 @@ c.mendapatkan...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESIA
+**PRESIDEN REPUBUK TNDONESIA**
 
 - 110 -
 
@@ -2685,11 +2691,11 @@ Pasal 41
 
 <!-- image -->
 
-## REPUBL|K INDONESTA
+**REPUBL|K INDONESTA**
 
 - 111-
 
-## Pasal 41
+**Pasal 41**
 
 - (1) Dalam Penyelenggaraan Bangunan Gedung, Pemilik Bangunan Gedung dan/atau Pengguna Bangunan Gedung mempunyai hak:
 - a. mengetahui tata cara Penyelenggaraan Bangunan Gedung;
@@ -2710,7 +2716,7 @@ Pasal 41
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -tt2-
 
@@ -2718,14 +2724,14 @@ Pasal 41
 - (3) Kewajiban membongkar Bangunan Gedung sebagaimana dimaksud pada ayat (21 huruf f dilaksanakan dengan tidak mengganggu keselamatan dan ketertiban umum.
 40. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43
+**Pasal 43**
 
 - (1) Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat menyelenggarakan pembinaan Bangunan Gedung secara nasional untuk meningkatkan pemenuhan persyaratan dan tertib Penyelenggaraan Bangunan Gedung.
 - (2) Sebagian penyelenggaraan dan pelaksanaan pembinaan sebagaimana dimaksud pada ayat (1) dilakukan bersama-sama dengan Masyarakat yang terkait dengan Bangunan Gedung.
 - (3) Ketentuan lebih lanjut mengenai pembinaan Bangunan Gedung sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 - 4L. Ketentuan Pasal 44 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 44
+**Pasal 44**
 
 Setiap Pemilik Bangunan Gedung, Pengguna Bangunan Gedung, Penyedia Jasa Konstruksi, Profesi Ahli, Penilik, dan/atau Pengkaji Teknis yang tidak memenuhi kewajiban pemenuhan fungsi, persyaratan, danfatau Penyelenggaraan Bangunan Gedung sebagaimana dimaksud dalam Undang-Undang ini dikenai sanksi administratif.
 
@@ -2733,13 +2739,13 @@ Setiap Pemilik Bangunan Gedung, Pengguna Bangunan Gedung, Penyedia Jasa Konstruk
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 - 113 -
 
 42. Ketentuan Pasal 45 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 45
+**Pasal 45**
 
 - (1) Sanksi administratif sebagaimana dimaksud dalam Pasal 44 dapat berupa:
 - a. peringatan tertulis;
@@ -2754,7 +2760,7 @@ Setiap Pemilik Bangunan Gedung, Pengguna Bangunan Gedung, Penyedia Jasa Konstruk
 11. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 43. Ketentuan Pasal 46 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 46
+**Pasal 46**
 
 - (1) Setiap Pemilik Bangunan Gedung dan/atau Pengguna Bangunan Gedung yang tidak memenuhi ketentuan dalam Undang-Undang ini dipidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak 10% (sepuluh persen) dari nilai Bangunan Gedung jika karenanya mengakibatkan kerugian harta benda orang lain.
 
@@ -2762,7 +2768,7 @@ Setiap Pemilik Bangunan Gedung, Pengguna Bangunan Gedung, Penyedia Jasa Konstruk
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -tt4-
 
@@ -2772,7 +2778,7 @@ Setiap Pemilik Bangunan Gedung, Pengguna Bangunan Gedung, Penyedia Jasa Konstruk
 - (5) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi sebagaimana dimaksud pada ayat (1), ayat (2), darr ayat (3) diatur dalam Peraturan Pemerintah.
 44. Di antara Pasal 47 dan Pasal 48 disisipkan 1 (satu) pasal, yakni Pasal 47A sehingga berbunyi sebagai berikut:
 
-## Pasal 47A
+**Pasal 47A**
 
 - (1) Pemerintah Pusat menetapkan prototipe Bangunan Gedung sesuai dengan kebutuhan.
 2. (21 Prototipe Bangunan Gedung sebagaimana dimaksud pada ayat (1) diutamakan untuk Bangunan Gedung sederhana yang umum digunakan Masyarakat.
@@ -2780,17 +2786,17 @@ Setiap Pemilik Bangunan Gedung, Pengguna Bangunan Gedung, Penyedia Jasa Konstruk
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 - 115-
 
-## Pasal 25
+**Pasal 25**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 2Ol7 tentang Arsitek (Lembaran Negara Republik Indonesia Tahun 2Ol7 Nomor I79, Tambahan Lembaran Negara Republik Indonesia Nomor 6108) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -2825,7 +2831,7 @@ Pasal 5
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -rL7-
 
@@ -2833,19 +2839,19 @@ Pasal 5
 - (3) Ketentuan lebih lanjut mengenai standar kinerja Arsitek sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 - 3 Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 6
+**Pasal 6**
 
 Untuk melakukan Praktik Arsitek, seseorang wajib memiliki Surat Tanda Registrasi Arsitek.
 
 - Di antara Pasal 6 dan Pasal 7 disisipkan 1 (satu) pasal, yakni Pasal 6A sehingga berbunyi sebagai berikut: 4
 
-## Pasal 6A
+**Pasal 6A**
 
 Dalam hal penyelenggaraan kegiatan untuk menghasilkan karya Arsitektur berupa bangunan gedung sederhana dan bangunan gedung adat, penyelenggaraan kegiatan tidak wajib dilakukan oleh Arsitek.
 
 - Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut: 5
 
-## Pasal 13
+**Pasal 13**
 
 Ketentuan lebih lanjut mengenai tata cara penerbitan dan pencabutan Surat Tanda Registrasi Arsitek sebagaimana dimaksud dalam Pasal 6, Pasal 7, Pasal 9, Pasal 10, dan Pasal 12 diatur dalam Peraturan Pemerintah.
 
@@ -2855,11 +2861,11 @@ Pasal 14
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - 118 -
 
-## Pasal 14
+**Pasal 14**
 
 - (1) Setiap Arsitek dalam penyelenggaraan bangunan gedung wajib memiliki Lisensi.
 2. (21 Dalam hal Arsitek sebagaimana dimaksud pada ayat (1) belum memiliki Lisensi, Arsitek wajib bekerja sama dengan Arsitek yang memiliki Lisensi.
@@ -2867,7 +2873,7 @@ Pasal 14
 - (4) Ketentuan lebih lanjut mengenai tata cara penerbitan Lisensi diatur dalam Peraturan Pemerintah.
 5. 7 Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 19
+**Pasal 19**
 
 - (1) Arsitek Asing harus melakukan alih keahlian dan alih pengetahuan.
 2. (21 Alih keahlian dan alih pengetahuan sebagaimana dimaksud pada ayat (1) dilakukan dengan:
@@ -2883,7 +2889,7 @@ Pasal 14
 
 - 8 Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 28
+**Pasal 28**
 
 Organisasi Profesi bertugas:
 
@@ -2897,7 +2903,7 @@ Organisasi Profesi bertugas:
 - h. melindungi Pengguna Jasa Arsitek.
 9. Ketentuan Pasal 34 diubah sehingga berbunyi sebagai berikut: 9
 
-## Pasal 34
+**Pasal 34**
 
 - (1) Dalam mendukung keprofesian Arsitek, Organisasi Profesi membentuk Dewan yang bersifat mandiri dan independen.
 2. (21 Dewan sebagaimana dimaksud pada ayat (1) beranggotakan 9 (sembilan) orang yang terdiri atas unsur:
@@ -2914,7 +2920,7 @@ Organisasi Profesi bertugas:
 
 10. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+**Pasal 35**
 
 - (1) Pemerintah Pusat melakukan pembinaan terhadap profesi Arsitek.
 2. (21 Pembinaan sebagaimana dimaksud pada ayat (1) dilakukan dengan:
@@ -2927,7 +2933,7 @@ Organisasi Profesi bertugas:
 12. Pasal 37 dihapus
 13. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 - (1) Setiap Arsitek yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 5 ayat (1), Pasal 6, Pasal 18 ayat (2), Pasal 19, atau Pasal 20 dikenai sanksi administratif berupa:
 - a. peringatan tertulis;
@@ -2948,11 +2954,11 @@ b. penghentian
 
 Bagian Keempat Penyederhanaan Perizinan Berusaha Sektor serta Kemudahan dan Persyaratan Investasi
 
-## Paragraf 1
+**Paragraf 1**
 
 Umum
 
-## Pasal 26
+**Pasal 26**
 
 Perizinan Berusaha terdiri atas sektor:
 
@@ -2979,17 +2985,17 @@ Perizinan Berusaha terdiri atas sektor:
 - n. pos, telekomunikasi, dan penyiaran; dan
 - o. pertahanan dan keamanan.
 
-## Paragraf 2
+**Paragraf 2**
 
-## Kelautan dan Perikanan
+**Kelautan dan Perikanan**
 
-## Pasal 27
+**Pasal 27**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berusaha dan kemudahan persyaratan investasi dari sektor kelautan dan perikanan, beberapa ketentuan dalam Undang-Undang Nomor 31 Tahun 2OO4 tentang Perikanan (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 118, Tambahan Lembaran Negara Republik Indonesia Nomor 44331 sebagaimana telah diubah dengan Undang-Undang Nomor 45 Tahun 2OO9 tentang Perubahan Atas Undang-Undang Nomor 31 Tahun 2OO4 tentang Perikanan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 154, Tambahan Lembaran Negara Republik Indonesia Nomor 5073) diubah sebagai berikut:
 
 - Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -3011,7 +3017,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 -t24-
 
@@ -3032,7 +3038,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -t25-
 
@@ -3044,13 +3050,13 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 26. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
 7. 2 Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 7
+**Pasal 7**
 
 - (1) Dalam rangka mendukung kebijakan pengelolaan Sumber Daya [kan, Pemerintah Pusat menetapkan:
 
 <!-- image -->
 
-## PRESIDEN REPI.JBLIK INDONESIA
+**PRESIDEN REPI.JBLIK INDONESIA**
 
 -t26-
 
@@ -3078,7 +3084,7 @@ t. jenis...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -t27-
 
@@ -3104,19 +3110,19 @@ t. jenis...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -t28-
 
 3. Di antara Pasal 20 dan Pasal 21 disisipkan 1 (satu) pasal, yakni Pasal 2OA sehingga berbunyi sebagai berikut:
 
-## Pasal 20A
+**Pasal 20A**
 
 - (1) Setiap Orang yang melakukan penanganan dan pengolahan lkan yang tidak memenuhi dan tidak menerapkan persyaratan kelayakan pengolahan Ikan, sistem jaminan mutu, dan keamanan hasil Perikanan sebagaimana dimaksud dalam Pasal 20 ayat (3) dikenai sanksi administratif.
 2. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 3. 4 Ketentuan Pasal 25A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 25A
+**Pasal 25A**
 
 - (1) Pelaku Usaha Perikanan dalam melaksanakan bisnis Perikanan harus memenuhi standar mutu hasil Perikanan.
 2. (21 Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya membina dan memfasilitasi pengembangan usaha Perikanan agar memenuhi standar mutu hasil Perikanan berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
@@ -3127,11 +3133,11 @@ Pasal26...
 
 <!-- image -->
 
-## FRESIDEN REPUBUK INDONESTA
+**FRESIDEN REPUBUK INDONESTA**
 
 -t29-
 
-## Pasal 26
+**Pasal 26**
 
 - (1) Setiap Orang yang melakukan usaha Perikanan di wilayah Pengelolaan Perikanan Negara Republik Indonesia wajib memiliki Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 - (2) Jenis usaha Perikanan sebagaimana dimaksud pada ayat (1) terdiri dari usaha:
@@ -3142,7 +3148,7 @@ Pasal26...
 - e. pemasaran Ikan.
 8. 6 Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 27
+**Pasal 27**
 
 - (1) Setiap Orang yang memiliki dan/atau mengoperasikan kapal penangkap Ikan berbendera Indonesia yang digunakan untuk melakukan Penangkapan Ikan di wilayah Pengelolaan Perikanan Negara Republik Indonesia dan/atau Laut Lepas wajib memenuhi Perizinan Berrrsaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Setiap Orang yang memiliki dan/atau mengoperasikan kapal penangkap Ikan berbendera asing yang digunakan untuk melakukan Penangkapan Ikan di ZEEI wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
@@ -3158,7 +3164,7 @@ Pasal26...
 - (5) Kewajiban memenuhi Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dan/atau membawa dokumen Perizinan Berusaha sebagaimana dimaksud pada ayat (3) tidak berlaku bagi Nelayan Kecil.
 4. 7 Di antara Pasal 27 dan Pasal 28 disisipkan 1 (satu) pasal, yakni Pasal 27A sehingga berbunyi sebagai berikut:
 
-## Pasal 27 A
+**Pasal 27 A**
 
 - (1) Setiap Orang yang memiliki dan/atau mengoperasikan kapal penangkap Ikan berbendera Indonesia melakukan Penangkapan Ikan di wilayah Pengelolaan Perikanan Negara Republik Indonesia dan/atau Laut Lepas, yang tidak memenuhi Perizinan Berusaha sebagaimana dimaksud dalam Pasal 27 ayat (1), dikenai sanksi administratif.
 2. (21 Setiap Orang yang mengoperasikan kapal penangkap Ikan berbendera Indonesia di wilayah Pengelolaan Perikanan Negara Republik Indonesia, yang tidak membawa dokumenPerizinan Berusaha sebagaimana dimaksud dalam Pasal 27 ayat (31, dikenai sanksi administratif.
@@ -3167,7 +3173,7 @@ Pasal26...
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -131 -
 
@@ -3175,7 +3181,7 @@ Pasal26...
 2. (41 Ketentuan lebih lanjut mengenai kriteria, jenis, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) diatur dalam Peraturan Pemerintah.
 3. 8 Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 28
+**Pasal 28**
 
 - (1) Setiap Orang yang memiliki dan/atau mengoperasikan kapal pengangkut Ikan berbendera Indonesia di wilayah Pengelolaan Perikanan Negara Republik Indonesia wajib memenuhi Perizinan Berrrsaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Setiap Orang yang memiliki dan/atau mengoperasikan kapal pengangkut Ikan berbendera asing yang digunakan untuk melakukan pengangkutan Ikan di wilayah Pengelolaan Perikanan Negara Republik Indonesia wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
@@ -3186,7 +3192,7 @@ Pasal26...
 
 - 9 Ketentuan Pasal 28A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 28A
+**Pasal 28A**
 
 Setiap Orang dilarang:
 
@@ -3230,7 +3236,7 @@ Pasal 33
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESTA
+**FRESIDEN REPUBLIK INDONESTA**
 
 -t34-
 
@@ -3240,7 +3246,7 @@ Pasal 33
 - (5) Ketentuan lebih lanjut mengenai Penangkapan Ikan dan/atau Pembudidayaan lkan di wilayah Pengelolaan Perikanan Negara Republik Indonesia yang bukan untuk tujuan komersial diatur dalam Peraturan Pemerintah.
 14. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+**Pasal 35**
 
 - (1) Setiap Orang yang membangun, mengimpor, atau memodifikasi Kapal Perikanan wajib terlebih dahulu mendapat persetujuan Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 - (2) Pembangunan atau modifikasi Kapal Perikanan sebagaimana dimaksud pada ayat (1) dapat dilakukan, baik di dalam maupun di luar negeri, setelah mendapat pertimbangan teknis laik laut dari Pemerintah Pusat.
@@ -3250,19 +3256,19 @@ Pasal 33
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 - (4) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Pemerintah.
 15. Ketentuan Pasal 35A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35A
+**Pasal 35A**
 
 - (1) Kapal Perikanan berbendera Indonesia yang melakukan Penangkapan Ikan di wilayah Pengelolaan Perikanan Negara Republik Indonesia wajib menggunakan nakhoda dan anak buah kapal berkewarganegaraan Indone sia.
 - (2) Pelanggaran terhadap ketentuan penggunaan nakhoda dan anak buah kapal sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif berupa peringatan, pembekuan Perizinan Berrrsaha, atau pencabutan Perizinan Berusaha.
 - (3) Ketentuan mengenai kriteria, jenis, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 16. Ketentuan Pasal 36 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 36
+**Pasal 36**
 
 - (1) Kapal Perikanan milik orang Indonesia yang dioperasikan di wilayah Pengelolaan Perikanan Negara Republik Indonesia dan/atau Laut Lepas wajib didaftarkan terlebih dahulu sebagai Kapal Perikanan Indonesia.
 
@@ -3277,7 +3283,7 @@ Pasal 33
 - (4) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Pemerintah.
 17. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 - (1) Setiap kapal penangkap Ikan berbendera asing yang tidak memenuhi Perizinan Berusaha untuk melakukan Penangkapan lkan selama berada di wilayah Pengelolaan Perikanan Negara Republik Indonesia wajib menyimpan alat Penangkapan Ikan di dalam palka.
 2. (21 Setiap kapal penangkap Ikan berbendera asing yang telah memenuhi Perizinan Berusaha untuk melakukan Penangkapan Ikan dengan 1 (satu) jenis alat Penangkapan Ikan tertentu pada bagian tertentu di ZEEI dilarang membawa alat Penangkapan Ikan lainnya.
@@ -3287,19 +3293,19 @@ Pasal 33
 
 <!-- image -->
 
-## FRESIDEN REPUELIK INDONESIA
+**FRESIDEN REPUELIK INDONESIA**
 
 -r37-
 
 18. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 40
+**Pasal 40**
 
 Ketentuan lebih lanjut mengenai kegiatan membangun, mengimpor, atau memodifikasi Kapal Perikanan sebagaimana dimaksud dalam Pasal 35, pendaftaran Kapal Perikanan sebagaimana dimaksud dalam Pasal 36, pemberian tanda pengenal Kapal Perikanan sebagaimana dimaksud dalam Pasal 37, penggunaan alat Penangkapan Ikan oleh kapal penangkap Ikan berbendera asing sebagaimana dimaksud dalam Pasal 38, penggunaan 2 (dua) jenis alat Penangkapan Ikan secara bergantian sebagaimana dimaksud dalam Pasal 39, serta pengukuran Kapal Perikanan diatur dalam Peraturan Pemerintah.
 
 19. Ketentuan Pasal 41 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 41
+**Pasal 41**
 
 - (1) Pemerintah Pusat menyelenggarakan dan melakukan pembinaan pengelolaan Pelabuhan Perikanan.
 2. l2l Pemerintah Pusat dalam menyelenggarakan dan melakukan pembinaan pengelolaan Pelabuhan Perikanan sebagaimana dimaksud pada ayat (1) menetapkan:
@@ -3312,7 +3318,7 @@ Ketentuan lebih lanjut mengenai kegiatan membangun, mengimpor, atau memodifikasi
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -138-
 
@@ -3321,7 +3327,7 @@ Ketentuan lebih lanjut mengenai kegiatan membangun, mengimpor, atau memodifikasi
 - (5) Ketentuan lebih lanjut mengenai kriteria, jenis, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan Pemerintah.
 20. Ketentuan Pasal 42 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal42
+**Pasal42**
 
 - (1) Dalam rangka keselamatan operasional Kapal Perikanan, ditunjuk syahbandar di Pelabuhan Perikanan.
 2. (21 Syahbandar di Pelabuhan Perikanan mempunyai tugas dan wewenang:
@@ -3356,17 +3362,17 @@ g. mengatur
 
 <!-- image -->
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 -t40-
 
-## Pasal 43
+**Pasal 43**
 
 Setiap Kapal Perikanan yang melakukan kegiatan Perikanan wajib memenuhi standar laik operasi Kapal Perikanan dari pengawas Perikanan tanpa dikenai biaya.
 
 22. Ketentuan Pasal 44 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 44
+**Pasal 44**
 
 - (1) Persetujuan berlayar sebagaimana dimaksud dalam Pasal 42 ayat (2) huruf a diterbitkan oleh syahbandar setelah Kapal Perikanan memenuhi standar laik operasi.
 2. (21 Pemenuhan standar laik operasi sebagaimana dimaksud pada ayat (1) diterbitkan oleh pengawas Perikanan setelah dipenuhi persyaratan administrasi dan kelayakan teknis.
@@ -3383,23 +3389,23 @@ Pasal49...
 
 <!-- image -->
 
-## PRESIDEN fN-rToT$E[IJ
+**PRESIDEN fN-rToT$E[IJ**
 
 -l4I-
 
-## Pasal 49
+**Pasal 49**
 
 Setiap Orang asing yang mendapat Perlz;inan Berusaha untuk melakukan Penangkapan Ikan di ZEEI dikenai pungutan Perikanan.
 
 25. Ketentuan Pasal 89 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 89
+**Pasal 89**
 
 Setiap Orang yang melakukan penanganan dan pengolahan lkan yang tidak memenuhi dan tidak menerapkan persyaratan kelayakan pengolahan Ikan, sistem jaminan mutu, dan keamanan hasil Perikanan sebagaimana dimaksud dalam Pasal 20 ayat (3) yang menimbulkan korban terhadap kesehatan manusia dipidana dengan pidana penjara paling lama 1 (satu) tahun dan pidana denda paling banyak Rp800.000.000,00 (delapan ratus juta rupiah).
 
 26. Ketentuan Pasal 92 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 92
+**Pasal 92**
 
 Setiap Orang yang dengan sengaja di wilayah Pengelolaan Perikanan Negara Republik Indonesia melakukan usaha Perikanan yang tidak memiliki Perizinan Berusaha sebagaimana dimaksud dalam Pasal 26 ayat (1) dipidana dengan pidana penjara paling lama 8 (delapan) tahun dan pidana denda paling banyak Rp1.500.000.00O,OO (satu miliar lima ratus juta rupiah).
 
@@ -3409,17 +3415,17 @@ Pasal93...
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -t42-
 
-## Pasal 93
+**Pasal 93**
 
 - (1) Setiap Orang yang memiliki dan/atau mengoperasikan kapal penangkap Ikan berbendera Indonesia yang digunakan untuk melakukan Penangkapan Ikan di wilayah Pengelolaan Perikanan Negara Republik Indonesia dan/atau Laut Lepas tanpa memenuhi Perizinan Berusaha sebagaimana dimaksud dalam Pasal 27 ayat (ll yang menimbulkan kecelakaan dan/atau menimbulkan korban/kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan dipidana dengan pidana penjara paling lama 6 (enam) tahun dan pidana denda paling banyak Rp2.000.000.000,00 (dua miliar rupiah).
 2. (21 Setiap Orang yang memiliki dan/atau mengoperasikan kapal penangkap Ikan berbendera asing yang digunakan untuk melakukan Penangkapan Ikan di ZEEI tanpa memenuhi Perizinan Berusaha sebagaimana dimaksud dalam Pasal 27 ayat (21 yang menimbulkan kecelakaan dan/atau menimbulkan korban/kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan dipidana dengan pidana penjara paling lama 6 (enam) tahun dan pidana denda paling banyak Rp30.000.000.000,00 (tiga puluh miliar rupiah).
 28. Ketentuan Pasal 94 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 94
+**Pasal 94**
 
 Setiap Orang yang memiliki dan/atau mengoperasikan kapal pengangkut Ikan berbendera Indonesia atau berbendera asing di wilayah Pengelolaan Perikanan Negara Republik Indonesia yang melakukan pengangkutan Ikan atau kegiatan yang terkait yang tidak memenuhi Perizinan Berrrsaha sebagaimana dimaksud dalam Pasal 28 ayat (1) dan ayat (21dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp1.5OO.OOO.0O0,00 (satu miliar lima ratus juta rupiah).
 
@@ -3429,7 +3435,7 @@ Setiap Orang yang memiliki dan/atau mengoperasikan kapal pengangkut Ikan berbend
 
 -t43-
 
-## Pasal 94A
+**Pasal 94A**
 
 Setiap Orang yang memalsukan dokumen Perizinan Berusaha, menggunakan Perizinan Berusaha palsu, menggunakan Perizinan Berrrsaha milik kapal lain atau orang lain, dan/atau menggandakan Perizinan Berusaha untuk digunakan oleh kapal lain dan/atau kapal milik sendiri sebagaimana dimaksud dalam Pasal 28A dipidana dengan pidana penjara paling lama 7 (tujuh) tahun dan pidana denda paling banyak Rp3.000.00O.000,00 (tiga miliar rupiah).
 
@@ -3437,7 +3443,7 @@ Setiap Orang yang memalsukan dokumen Perizinan Berusaha, menggunakan Perizinan B
 31. Pasal 96 dihapus.
 32. Ketentuan Pasal 97 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 97
+**Pasal 97**
 
 - (1) Nakhoda yang mengoperasikan kapal penangkap Ikan berbendera asing yang tidak memenuhi Perizinan Berusaha untuk melakukan Penangkapan Ikan selama berada di wilayah Pengelolaan Perikanan Negara Republik Indonesia tidak menyimpan alat Penangkapan lkan di dalam palka sebagaimana dimaksud dalam Pasal 38 ayat (1) dipidana dengan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
 2. (21 Nakhoda yang mengoperasikan kapal penangkap Ikan berbendera asing yang telah memenuhi Perizinan Berusaha dengan 1 (satu) jenis alat Penangkapan Ikan tertentu pada bagian tertentu di ZEEI yang membawa alat Penangkapan Ikan lainnya sebagaimana dimaksud dalam Pasal 38 ayat (21 dipidana dengan pidana denda paling banyak Rp1.000.000.0O0,OO (satu miliar rupiah).
@@ -3446,20 +3452,20 @@ Setiap Orang yang memalsukan dokumen Perizinan Berusaha, menggunakan Perizinan B
 
 <!-- image -->
 
-## FRESIDEN BLIK INDONESTA
+**FRESIDEN BLIK INDONESTA**
 
 -144-
 
 - (3) Nakhoda yang mengoperasikan kapal penangkap Ikan berbendera asing yang telah memenuhi Perizinan Berusaha, yang tidak menyimpan alat Penangkapan Ikan di dalam palka selama berada di luar daerah Penangkapan Ikan yang diizinkan di wilayah Pengelolaan Perikanan Negara Republik Indonesia sebagaimana dimaksud dalam Pasal 38 ayat (3) dipidana dengan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
 33. Ketentuan Pasal 98 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 98
+**Pasal 98**
 
 Nakhoda Kapal Perikanan yang tidak memiliki persetujuan berlayar sebagaimana dimaksud dalam Pasal 42 ayat (3) dipidana dengan pidana penjara paling lama I (satu) tahun dan pidana denda paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
 
 34. Ketentuan Pasal 1008 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 100E}
+**Pasal 100E}**
 
 Dalam hal tindak pidana sebagaimana dimaksud dalam Pasal 8, Pasal 9, Pasal 12, Pasal 14 ayat (4), Pasal 16 ayat (1), Pasal 21, Pasal 23 ayat (1), atau Pasal 26 ayat (1), yang dilakukan oleh Nelayan Kecil dan/atau Pembudi Daya-Ikan Kecil dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak Rp250.000.000,00 (dua ratus lima puluh juta rupiah).
 
@@ -3469,17 +3475,17 @@ Pasal 100C. . .
 
 <!-- image -->
 
-## PRESIDEN ELIK INDONESIA
+**PRESIDEN ELIK INDONESIA**
 
 - 145-
 
-## Pasal 100C
+**Pasal 100C**
 
 Dalam hal tindak pidana sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf a, huruf b, huruf c, huruf d, huruf f, huruf g, huruf h, huruf i, huruf j, huruf k, huruf 1, atau huruf m dilakukan oleh Nelayan Kecil dan/atau Pembudi Daya-Ikan Kecil dipidana dengan pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah).
 
 36. Ketentuan Pasal 101 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 101
+**Pasal 101**
 
 Dalam hal tindak pidana sebagaimana dimaksud dalam Pasal 84 ayat (1), Pasal 84 ayat (3), Pasal 84 ayat (41, Pasal 85, Pasal 86, Pasal 87, Pasal 88, Pasal 89, Pasal 90, Pasal 91, Pasal 92, Pasal 93, Pasal 94, atau Pasal 94A dilakukan oleh Korporasi, tuntutan dan sanksi pidananya dijatuhkan terhadap pengurusnya dan terhadap Korporasi dipidana denda dengan tambahan pemberatan 1/3 (sepertiga) dari pidana denda yang dijatuhkan.
 
@@ -3487,7 +3493,7 @@ Paragraf 3
 
 Pertanian
 
-## Pasal 28
+**Pasal 28**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berusaha dari sektor pertanian, Peraturan Pemerintah Pengganti UndangUndang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -3505,13 +3511,13 @@ c.Undang-Undang...
 - e. Undang-Undang Nomor 13 Tahun 2OlO tentang Hortikultura (Lembaran Negara Republik Indonesia Tahun 2OlO Nomor 132, Tambahan Lembaran Negara Republik Indonesia Nomor 5170); dan
 - f. Undang-Undang Nomor 18 Tahun 2OO9 tentang Peternakan dan Kesehatan Hewan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 84, Tambahan Lembaran Negara Republik Indonesia Nomor 5015) sebagaimana telah diubah dengan Undang-Undang Nomor 41 Tahun 2Ol4 (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 338, Tambahan Lembaran Negara Republik Indonesia Nomor 5619).
 
-## Pasal 29
+**Pasal 29**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 39 Tahun 2Ol4 tentang Perkebunan (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 308, Tambahan Lembaran Negara Republik Indonesia Nomor 5613) diubah sebagai berikut:
 
 - Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 14
+**Pasal 14**
 
 - (1) Pemerintah Pusat menetapkan batasan luas maksimum dan luas minimum penggunaan lahan untuk Usaha Perkebunan.
 2. (21 Penetapan batasan luas sebagaimana dimaksud pada ayat (1) harrrs mempertimbangkan:
@@ -3521,7 +3527,7 @@ b.ketersediaan...
 
 <!-- image -->
 
-## REPUEUK INDONESIA
+**REPUEUK INDONESIA**
 
 -t47-
 
@@ -3529,19 +3535,19 @@ b.ketersediaan...
 - (3) Ketentuan lebih lanjut mengenai penetapan batasan luas sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 3. 2 Ketentuan Pasal 15 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 15
+**Pasal 15**
 
 Perusahaan Perkebunan yang melakukan kegiatan kemitraan dilarang memindahkan hak atas Tanah Usaha Perkebunan yang mengakibatkan terjadinya satuan usaha yang kurang dari luas minimum sebagaimana dimaksud dalam Pasal 14.
 
 3. Ketentuan Pasal 16 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 16
+**Pasal 16**
 
 - (1) Perusahaan Perkebunan wajib mengusahakan Lahan Perkebunan paling lambat 2 (dua) tahun setelah pemberian status hak atas Tanah.
 2. (21 Jika Lahan Perkebunan tidak diusahakan sesuai dengan ketentuan sebagaimana dimaksud pada ayat (1), Lahan Perkebunan yang belum diusahakan diambil alih oleh negara sesuai dengan ketentuan peraturan perundang-undangan.
 3. Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 17
+**Pasal 17**
 
 - (1) Pejabat yang berwenang dilarang menerbitkan Perizinan Berusaha Perkebunan di atas Tanah Hak Ulayat Masyarakat Hukum Adat.
 
@@ -3554,13 +3560,13 @@ Perusahaan Perkebunan yang melakukan kegiatan kemitraan dilarang memindahkan hak
 - (21 Ketentuan larangan sebagaimana dimaksud pada ayat (1) dikecualikan dalam hal telah dicapai persetujuan antara Masyarakat Hukum Adat dan Pelaku Usaha Perkebunan mengenai penyerahan Tanah dan imbalannya sebagaimana dimaksud dalam Pasal 12 ayat (1).
 - 5 Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 18
+**Pasal 18**
 
 - (1) Perrrsahaan Perkebunan yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 15 dikenai sanksi administratif.
 - (2) Ketentuan mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 3. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut: 6
 
-## Pasal 24
+**Pasal 24**
 
 - (1) Pemerintah Pusat menetapkan jenis benih Tanaman Perkebunan yang pengeluaran dari dan/atau pemasukannya ke dalam wilayah Negara Kesatuan Republik Indonesia memerlukan persetujuan.
 2. (21 Pengeluaran benih dari dan/atau pemasukannya ke dalam wilayah Negara Kesatuan Republik Indonesia wajib mendapatkan persetujuan dari Pemerintah Pusat.
@@ -3575,7 +3581,7 @@ Perusahaan Perkebunan yang melakukan kegiatan kemitraan dilarang memindahkan hak
 
 - 7 Ketentuan Pasal 30 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 30
+**Pasal 30**
 
 - (1) Varietas hasil pemuliaan atau introduksi dari luar negeri sebelum diedarkan terlebih dahulu harus dilepas oleh Pemerintah Pusat atau diluncurkan oleh pemilik varietas.
 2. (21 Varietas yang telah dilepas atau diluncurkan sebagaimana dimaksud pada ayat (1) dapat diproduksi dan diedarkan.
@@ -3584,7 +3590,7 @@ Perusahaan Perkebunan yang melakukan kegiatan kemitraan dilarang memindahkan hak
 5. Pasal 31 dihapus. 8
 6. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut: 9
 
-## Pasal 35
+**Pasal 35**
 
 - (1) Dalam rangka pengendalian organisme pengganggu tumbuhan, setiap Pelaku Usaha Perkebunan wajib memenuhi persyaratan minimum sarana dan prasarana pengendalian organisme pengganggu Tanaman Perkebunan.
 2. (21 Ketentuan mengenai persyaratan minimum sarana dan prasarana sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -3594,29 +3600,29 @@ Pasal39...
 
 <!-- image -->
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 -150-
 
-## Pasal 39
+**Pasal 39**
 
 Pelaku Usaha Perkebunan dapat melakukan Usaha Perkebunan di seluruh wilayah Negara Kesatuan Republik Indonesia sesuai dengan ketentuan peraturan perundang-undangan di bidang penanaman modal.
 
 11. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 40
+**Pasal 40**
 
 Pengalihan kepemilikan Perusahaan Perkebunan kepada penanam modal asing dapat dilakukan setelah memperoleh persetujuan Pemerintah Pusat.
 
 - L2. Ketentuan Pasal 42 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 42
+**Pasal 42**
 
 - (1) Kegiatan usaha budi daya Tanaman Perkebunan dan/atau usaha Pengolahan Hasil Perkebunan sebagaimana dimaksud dalam Pasal 41 ayat (1) hanya dapat dilakukan oleh Perusahaan Perkebunan apabila telah mendapatkan hak atas Tanah dan memenuhi Perizinan Berusaha terkait Perkebunan dari Pemerintah Pusat.
 - (2) Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait Perkebunan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 13. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43
+**Pasal 43**
 
 Kegiatarr usaha Pengolahan Hasil Perkebunan dapat didirikan pada wilayah Perkebunan swadaya masyarakat yang belum ada usaha Pengolahan Hasil Perkebunan setelah memperoleh hak atas Tanah dan Perizinan Berusaha dari Pemerintah Pusat.
 
@@ -3629,7 +3635,7 @@ Kegiatarr usaha Pengolahan Hasil Perkebunan dapat didirikan pada wilayah Perkebu
 14. Pasal 45 dihapus.
 15. Ketentuan Pasal 47 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 47
+**Pasal 47**
 
 - (1) Perusahaan Perkebunan yang melakukan usaha budi daya Tanaman Perkebunan dengan luasan skala tertentu dan/atau usaha Pengolahan Hasil Perkebunan dengan kapasitas pabrik tertentu wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 - (2) Setiap Perusahaan Perkebunan yang melakukan usaha budi daya Tanaman Perkebunan dengan luasan skala tertentu dan/atau usaha Pengolahan Hasil Perkebunan dengan kapasitas pabrik tertentu yang tidak memiliki Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif berupa:
@@ -3639,7 +3645,7 @@ Kegiatarr usaha Pengolahan Hasil Perkebunan dapat didirikan pada wilayah Perkebu
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dan kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
 16. Ketentuan Pasal 48 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 48
+**Pasal 48**
 
 - (1) Perizinan Berusaha sebagaimana dimaksud dalam Pasal 47 ayat (1) diberikan oleh:
 - a. gubernur untuk wilayah lintas kabupaten/kota; dan
@@ -3649,7 +3655,7 @@ berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerint
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 -t52-
 
@@ -3680,7 +3686,7 @@ wajib memfasilitasi pembangunan kebun masyarakat sekitar, seluas 2O%o (dua puluh
 - (4) Fasilitasi pembangunan kebun masyarakat sebagaimana dimaksud pada ayat (1), ayat (21, dan ayat (3) harus dilaporkan kepada Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya.
 20. Ketentuan Pasal 60 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 60
+**Pasal 60**
 
 - (1) Perusahaan Perkebunan yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 58 dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
@@ -3690,7 +3696,7 @@ wajib memfasilitasi pembangunan kebun masyarakat sekitar, seluas 2O%o (dua puluh
 - (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 21. Ketentuan Pasal 67 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 67
+**Pasal 67**
 
 - (1) Pelaku Usaha Perkebunan wajib memelihara kelestarian fungsi lingkungan hidup.
 2. (21 Ketentuan lebih lanjut mengenai kewajiban memelihara kelestarian fungsi lingkungan hidup sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -3702,13 +3708,13 @@ wajib memfasilitasi pembangunan kebun masyarakat sekitar, seluas 2O%o (dua puluh
 22. Pasal 68 dihapus.
 23. Ketentuan Pasal 70 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 70
+**Pasal 70**
 
 - (1) Setiap Perusahaan Perkebunan yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 69 dikenai sanksi administratif.
 2. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 24. Ketentuan Pasal 74 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal74
+**Pasal74**
 
 - (1) Setiap unit Pengolahan Hasil Perkebunan tertentu yang berbahan baku impor wajib membangun kebun dalam jangka waktu tertentu setelah unit pengolahannya beroperasi.
 2. (21 Kebun yang dibangun sebagaimana dimaksud pada ayat (1) wajib terintegrasi dengan unit Pengolahan Hasil Perkebunan setelah unit pengolahan tersebut beroperasi.
@@ -3719,17 +3725,17 @@ Pasal75...
 
 <!-- image -->
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 - 155-
 
-## Pasal 75
+**Pasal 75**
 
 - (1) Setiap Pelaku Usaha Perkebunan yang melanggar ketentuan sebagaimana dimaksud dalam Pasal74 ayat (1) dikenai sanksi administratif.
 2. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 26. Ketentuan Pasal 93 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 93
+**Pasal 93**
 
 - (1) Pembiayaan Usaha Perkebunan yang dilakukan oleh Pemerintah Pusat bersumber dari anggaran pendapatan dan belanja negara.
 2. (21 Pembiayaan penyelenggaraan Perkebunan yang dilakukan oleh Pemerintah Daerah sesuai dengan kewenangannya bersumber dari anggaran pendapatan dan belanja daerah.
@@ -3741,20 +3747,20 @@ Pasal75...
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -156-
 
 - (6) Ketentuan lebih lanjut mengenai penghimpunan dana sebagaimana dimaksud pada ayat (41 dan badan pengelola dana Perkebunan sebagaimana dimaksud pada ayat (5) diatur dalam Peraturan Pemerintah.
 27. Ketentuan Pasal 95 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 95
+**Pasal 95**
 
 - (1) Pemerintah Pusat mengembangkan Usaha Perkebunan melalui penanaman modal.
 2. (21 Pelaksanaan penanaman modal sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan di bidang penanaman modal, dengan memperhatikan kepentingan Pekebun.
 28. Ketentuan Pasal 96 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 96
+**Pasal 96**
 
 - (1) Pembinaan Usaha Perkebunan dilakukan oleh Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 - (2) Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:
@@ -3774,14 +3780,14 @@ Pasal75...
 - (3) Ketentuan lebih lanjut mengenai pembinaan Usaha Perkebunan sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 29. Ketentuan Pasal 97 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 97
+**Pasal 97**
 
 - (1) Pembinaan teknis untuk Perr.rsahaan Perkebunan milik negara, swasta, dan/atau Pekebun dilakukan oleh Pemerintah Pusat.
 - (2) Evaluasi atas kinerja Perusahaan Perkebunan milik negara dan/atau swasta dilaksanakan melalui penilaian Usaha Perkebunan secara rutin dan/ atau sewaktu-waktu.
 - (3) Ketentuan lebih lanjut mengenai pembinaan teknis dan penilaian Usaha Perkebunan sebagaimana dimaksud pada ayat (1) dan ayat (21 diatur dalam Peraturan Pemerintah.
 30. Ketentuan Pasal 99 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 99
+**Pasal 99**
 
 - (1) Pengawasan sebagaimana dimaksud dalam Pasal 98 dilakukan melalui:
 - a. pelaporan dari Pelaku Usaha Perkebunan; dan/atau
@@ -3793,7 +3799,7 @@ Pasal75...
 
 <!-- image -->
 
-## PRESIDEN EEPUBUK TNDONESIA
+**PRESIDEN EEPUBUK TNDONESIA**
 
 -158-
 
@@ -3801,7 +3807,7 @@ Pasal75...
 - (5) Ketentuan lebih lanjut mengenai persyaratan dan tata cara pengawasan sebagaimana dimaksud pada ayat (1) dan ayat (21 diatur dalam Peraturan Pemerintah.
 31. Ketentuan Pasal 103 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 103
+**Pasal 103**
 
 Setiap pejabat yang menerbitkan Perizinan Berusaha terkait Perkebunan di atas Tanah Hak Ulayat Masyarakat Hukum Adat sebagaimana dimaksud dalam Pasal 17 ayat (1) dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak RpS.000.O00.000,O0 (lima miliar rupiah).
 
@@ -3809,13 +3815,13 @@ Setiap pejabat yang menerbitkan Perizinan Berusaha terkait Perkebunan di atas Ta
 33. Pasal 106 dihapus.
 34. Pasal 109 dihapus.
 
-## Pasal 30
+**Pasal 30**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 29 Tahun 2000 tentang Perlindungan Varietas Tanaman (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 24l,Tambahan Lembaran Negara Republik Indonesia Nomor 40431 diubah sebagai berikut:
 
 - Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 1 1
+**Pasal 1 1**
 
 - (1) Permohonan hak PVT diajukan kepada Kantor PVT secara tertulis dalam bahasa Indonesia dengan membayar biaya yang besarnya ditetapkan sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak.
 
@@ -3829,7 +3835,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 29 Tahun 2000 tentang Perlindungan 
 - (3) Ketentuan lebih lanjut mengenai tata cara pengajuan permohonan hak PVT sebagaimana dimaksud pada ayat (1) dan ayat (21 diatur dalam Peraturan Pemerintah.
 - 2 Ketentuan Pasal 29 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 29
+**Pasal 29**
 
 - (1) Permohonan pemeriksaan substantif atas permohonan hak PVT harus diajukan ke Kantor PVT secara tertulis paling lambat 1 (satu) bulan setelah berakhirnya masa pengumuman dengan membayar biaya pemeriksaan substantif.
 - (2) Besarnya biaya pemeriksaan substantif sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak.
@@ -3855,14 +3861,14 @@ Pasal 40
 - (4) Ketentuan lebih lanjut mengenai syarat dan tata cara pengalihan hak PVT diatur dalam Peraturan Pemerintah.
 - 4 Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43
+**Pasal 43**
 
 - (1) Perjanjian Lisensi harus dicatatkan pada Kantor PVT dan dimuat dalam Daftar Umum PVT dengan membayar biaya yang besarnya ditetapkan sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak.
 - (2) Dalam hal perjanjian Lisensi tidak dicatatkan di Kantor PVT sebagaimana dimaksud pada ayat (1), perjanjian Lisensi tidak mempunyai akibat hukum terhadap pihak ketiga.
 - (3) Ketentuan lebih lanjut mengenai perjanjian Lisensi sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 4. Ketentuan Pasal 63 diubah sehingga berbunyi sebagai berikut: 5
 
-## Pasal 63
+**Pasal 63**
 
 - (1) Untuk kelangsungan pemegang hak PVT tahunan. berlakunya hak wajib membayar PVT, biaya
 
@@ -3870,20 +3876,20 @@ Pasal 40
 
 <!-- image -->
 
-## PRESIDEN REPUELIK TNDONESIA
+**PRESIDEN REPUELIK TNDONESIA**
 
 -161 -
 
 - (21 Untuk setiap pengajuan permohonan hak PVT, permintaan pemeriksaan, petikan Daftar Umum PVT, salinan surat PVT, salinan dokumen PVT, pencatatan pengalihan hak PVT, pencatatan surat perjanjian Lisensi, pencatatan Lisensi Wajib, serta lain-lainnya yang ditentukan berdasarkan UndangUndang ini wajib membayar biaya.
 - (3) Ketentuan mengenai besar biaya, persyaratan, dan tata cara pembayaran biaya sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak.
 
-## Pasal 31
+**Pasal 31**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 22 Tahun 2Ol9 tentang Sistem Budi Daya Pertanian Berkelanjutan (Lembaran Negara Republik Indonesia Tahun 2Ol9 Nomor 2Ol, Tambahan Lembaran Negara Republik Indonesia Nomor 64121diubah sebagai berikut:
 
 - Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 19
+**Pasal 19**
 
 - (1) Setiap Orang dilarang mengalihfungsikan Lahan yang sudah ditetapkan sebagai Lahan budi daya Pertanian.
 2. (21 Dalam hal untuk kepentingan umum dan/atau proyek strategis nasional, Lahan budi daya Pertanian sebagaimana dimaksud pada ayat (1) dapat dialihfungsikan dan dilaksanakan sesuai dengan ketentuan peraturan perundangundangan.
@@ -3903,7 +3909,7 @@ d.disediakan...
 - (5) Ketentuan lebih lanjut mengenai pengalihfungsian Lahan budi daya Pertanian diatur dalam Peraturan Pemerintah.
 4. 2 Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 22
+**Pasal 22**
 
 - (1) Pelaku Usaha yang menggunakan Lahan hak ulayat yang tidak melakukan musyawarah dengan masyarakat hukum adat pemegang hak ulayat untuk memperoleh persetujuan dikenai sanksi administratif berupa:
 - a. penghentian sementarakegiatan;
@@ -3918,11 +3924,11 @@ Pasal32...
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -163-
 
-## Pasal 32
+**Pasal 32**
 
 - (1) Pengadaan benih unggul melalui pemasukan dari luar negeri sebagaimana dimaksud dalam Pasal 31 ayat (1) dilakukan setelah mendapat Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Pengeluaran benih unggul dari wilayah Negara Republik Indonesia dapat dilakukan oleh Pelaku Usaha berdasarkan Perizinan Berusaha dari Pemerintah Pusat.
@@ -3930,13 +3936,13 @@ Pasal32...
 4. (41 Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 5. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 43
+**Pasal 43**
 
 Pengeluaran Tanaman, Benih Tanaman, Benih Hewan, Bibit Hewan, dan hewan dari wilayah Negara Republik Indonesia oleh Setiap Orang dapat dilakukan jika keperluan dalam negeri telah terpenuhi setelah mendapat Perizinan Berusaha dari Pemerintah Pusat.
 
 5. Ketentuan Pasal 44 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 44
+**Pasal 44**
 
 - (1) Pemasukan Tanaman, Benih Tanaman, Benih Hewan, Bibit Hewan, dan hewan dari luar negeri dapat dilakukan untuk:
 - a. meningkatkan mutu dan keragaman genetik;
@@ -3952,7 +3958,7 @@ b.mengembangkan...
 5. (41 Dalam hal pemasukan sebagaimana dimaksud pada ayat (1) dilakukan oleh instansi pemerintah, pemasukan harus mendapatkan persetujuan dari Pemerintah Pusat.
 6. Ketentuan Pasal 86 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 86
+**Pasal 86**
 
 - (1) Setiap Orang sebagaimana dimaksud dalam Pasal 84 ayat (1) yang melakukan Usaha Budi Daya Pertanian di atas skala tertentu wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Pemerintah Pusat dilarang memberikan Perizinan Berusaha terkait Usaha Budi Daya Pertanian sebagaimana dimaksud pada ayat (1) di atas tanah hak ulayat masyarakat hukum adat.
@@ -3963,11 +3969,11 @@ Pasal 102
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 - 165-
 
-## Pasal 102
+**Pasal 102**
 
 - (1) Sistem informasi Pertanian mencakup pengumpulan, pengolahan, penganalisisan, penyimpanan, penyajian, dan penyebaran data Sistem Budi Daya Pertanian Berkelanjutan.
 - (2) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib membangun, menyusun, dan mengembangkan sistem informasi Pertanian yang terintegrasi.
@@ -3984,11 +3990,11 @@ Pasal 102
 
 <!-- image -->
 
-## FRESIDEN REPUELIK INDONESIA
+**FRESIDEN REPUELIK INDONESIA**
 
 -t66-
 
-## Pasal 108
+**Pasal 108**
 
 - (1) Sanksi administratif dikenakan kepada:
 - a. Setiap Orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 20 ayat (3), Pasal 28 ayat (3), Pasal 43, PasaL 44 ayat (2) atau ayat (3), Pasal 66 ayat (2), Pasal 7l ayat
@@ -4005,7 +4011,7 @@ Pasal 102
 - (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 9. Pasal 111dihapus.
 
-## Pasal 32
+**Pasal 32**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 19 Tahun 2OI3 tentang Perlindungan dan Pemberdayaan Petani (Lembaran Negara Republik Indonesia Tahun 2Ol3 Nomor 131, Tambahan Lembaran Negara Republik Indonesia Nomor 5433) diubah sebagai berikut:
 
@@ -4013,26 +4019,26 @@ Beberapa ketentuan dalam Undang-Undang Nomor 19 Tahun 2OI3 tentang Perlindungan 
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -t67-
 
 - 1 Ketentuan Pasal 15 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 15
+**Pasal 15**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib meningkatkan produksi Pertanian.
 2. (21 Kewajiban peningkatan produksi Pertanian sebagaimana dimaksud pada ayat (1) dilakukan melalui strategi Perlindungan Petani sebagaimana dimaksud dalam Pasal 7 ayat (21.
 3. Ketentuan Pasal 30 diubah sehingga berbunyi sebagai berikut: 2
 
-## Pasal 30
+**Pasal 30**
 
 - (1) Kecukupan kebutuhan konsumsi dan/atau cadangan pangan Pemerintah berasal dari produksi dalam negeri dan impor Komoditas Pertanian dengan tetap melindungi kepentingan Petani.
 2. (21 Impor Komoditas Pertanian sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan instrrrmen perdagangan berdasarkan ketentuan peraturan perundang-undangan.
 - (3) Kecukupan kebutuhan konsumsi dan/atau cadangan pangan Pemerintah sebagaimana dimaksud pada ayat (1) ditetapkan oleh Pemerintah Pusat.
 3. Pasal 101 dihapus.
 
-## Pasal 33
+**Pasal 33**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2OlO tentang Hortikultura (Lembaran Negara Republik Indonesia Tahun 2OlO Nomor 132, Tambahan Lembaran Negara Republik Indonesia Nomor 5170) diubah sebagai berikut:
 
@@ -4040,19 +4046,19 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2OlO tentang Hortikultura 
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 - 168-
 
 - 1 Ketentuan Pasal 15 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 15
+**Pasal 15**
 
 - (1) Pelaku Usaha wajib mengutamakan pemanfaatan sumber daya manusia dalam negeri.
 - (2) Pemanfaatan sumber daya manusia sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 3. Ketentuan Pasal 33 diubah sehingga berbunyi sebagai berikut: 2
 
-## Pasal 33
+**Pasal 33**
 
 - (1) Usaha Hortikultura dilaksanakan dengan mengutamakan penggunaan Sarana Hortikultura dalam negeri.
 - (2) Dalam hal Sarana Hortikultura dalam negeri tidak mencukupi atau tidak tersedia, dapat digunakan Sarana Hortikultura yang berasal dari luar negeri dengan memenuhi Perizinan Berusaha dari Pemerintah Pusat.
@@ -4067,11 +4073,11 @@ Pasal 35 . .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESIA
+**PRESIDEN REPUBUK TNDONESIA**
 
 -169-
 
-## Pasal 35
+**Pasal 35**
 
 - (1) Sarana Hortikultura yang diedarkan wajib memenuhi standar mutu dan Perizinan Berusaha.
 2. (21 Dalam hal Sarana Hortikultura merupakan atau mengandung hasil rekayasa genetik, selain memenuhi ketentuan sebagaimana dimaksud pada ayat (1), peredarannya wajib mengikuti ketentuan peraturan perundang-undangan di bidang keamanan hayati.
@@ -4080,7 +4086,7 @@ Pasal 35 . .
 - (5) Ketentuan lebih lanjut mengenai tata cara pemenuhan standar mutu dan Perizinan Bemsaha sebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (41 diatur dalam Peraturan Pemerintah.
 6. 4 Di antara Pasal 35 dan Pasal 36 disisipkan 1 (satu) pasal, yakni Pasal 35A sehingga berbunyi sebagai berikut:
 
-## Pasal 35A
+**Pasal 35A**
 
 - (1) Setiap Orang yang mengedarkan Sarana Hortikultura yang tidak memenuhi standar mutu, tidak memenuhi persyaratan teknis minimal, dan/atau tidak memenuhi Perizinan Berusaha sebagaimana dimaksud dalam Pasal 35 dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat berrrpa:
@@ -4092,7 +4098,7 @@ Pasal 35 . .
 
 <!-- image -->
 
-## PRESTOEN REPUBLIK INDONESIA
+**PRESTOEN REPUBLIK INDONESIA**
 
 -r70-
 
@@ -4117,11 +4123,11 @@ Pasal 54 . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -t7t-
 
-## Pasal 54
+**Pasal 54**
 
 - (1) Pelaku Usaha dalam melaksanakan Usaha Hortikultura wajib memenuhi standar proses atau persyaratan teknis minimal.
 2. (21 Pelaku Usaha dalam memproduksi Produk Hortikultura wajib memenuhi standar mutu dan keamanan pangan Produk Hortikultura.
@@ -4129,7 +4135,7 @@ Pasal 54 . .
 4. (41 Ketentuan lebih lanjut mengenai standar mutu dan keamanan pangan Produk Hortikultura sebagaimana dimaksud pada ayat (21diatur dalam Peraturan Pemerintah.
 10. Ketentuan Pasal 56 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56
+**Pasal 56**
 
 - (1) Usaha Hortikultura dapat dilakukan dengan pola Kemitraan.
 2. (21 Pola Kemitraan sebagaimana dimaksud pada ayat (1) melibatkan Pelaku Usaha mikro, kecil, menengah, dan besar.
@@ -4163,20 +4169,20 @@ Pasal 57
 - t2. Pasal 63 dihapus.
 13. Ketentuan Pasal 68 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 68
+**Pasal 68**
 
 Ketentuan lebih lanjut mengenai usaha budi daya sebagaimana dimaksud dalam Pasal 65, tata cara pendataan dan pelaporan sebagaimana dimaksud dalam Pasal 66, serta izin khusus sebagaimana dimaksud dalam Pasal 67 ayat (2) diatur dalam Peraturan Pemerintah.
 
 - L4. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 73
+**Pasal 73**
 
 - (1) Usaha perdagangan Produk Hortikultura mengatur proses jual beli antarpedagang serta antara pedagang dan konsumen.
 2. (21 Pelaku Usaha perdagangan Produk Hortikultura harus menerapkan sistem kelas produk berdasarkan standar mutu dan standar harga secara transparan.
 - (3) Ketentuan lebih lanjut mengenai kewajiban sistem kelas produk berdasarkan standar mutu dan standar harga secara transparan sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 15. Ketentuan Pasal 88 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 88
+**Pasal 88**
 
 - (1) Impor Produk Hortikultura wajib memperhatikan aspek:
 - a. keamanan pangan Produk Hortikultura;
@@ -4186,7 +4192,7 @@ Ketentuan lebih lanjut mengenai usaha budi daya sebagaimana dimaksud dalam Pasal
 
 <!-- image -->
 
-## FRESIDEN REPUBUK TNDONESIA
+**FRESIDEN REPUBUK TNDONESIA**
 
 -t74-
 
@@ -4196,13 +4202,13 @@ Ketentuan lebih lanjut mengenai usaha budi daya sebagaimana dimaksud dalam Pasal
 4. (41 Ketentuan lebih lanjut mengenai pemberian Perizinan Berusaha sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
 16. Ketentuan Pasal 90 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 90
+**Pasal 90**
 
 Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya memberikan informasi pasar untuk meningkatkan pemasaran Produk Hortikultura.
 
 17. Ketentuan Pasal 92 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 92
+**Pasal 92**
 
 - (1) Penyelenggara pasar dan tempat lain untuk perdagangan Produk Hortikultura dapat menyelenggarakan penjualan Produk Hortikultura lokal dan asal impor.
 - (2) Penyelenggara pasar dan tempat lain untuk perdagangan Produk Hortikultura sebagaimana dimaksud pada ayat (1)wajib menyediakan fasilitas pemasaran yang memadai.
@@ -4212,23 +4218,23 @@ Pasal 10O
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -t75-
 
-## Pasal 100
+**Pasal 100**
 
 - (1) Pemerintah Pusat mendorong penanaman modal dalam Usaha Hortikultura.
 - (2) Pelaksanaan penanaman modal sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan di bidang penanaman modal.
 19. Ketentuan Pasal 101 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 101
+**Pasal 101**
 
 Pelaku Usaha menengah dan besar wajib memberikan kesempatan pemagangan dan alih teknologi.
 
 20. Ketentuan Pasal 122 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 122
+**Pasal 122**
 
 - (1) Setiap Orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 15 ayat (1), Pasal 33, Pasal 36 ayat (1) atau ayat (21, Pasal 37, Pasal 38, Pasal 54 ayat (1) atau ayat (21, Pasal 60 ayat (21, Pasal 71, Pasal 73 ayat (2), Pasal 81 ayat (4), Pasal 84 ayat (1), Pasal 88 ayat (1), Pasal 92 ayat (21, Pasal 101, Pasal 108 ayat (2), atau Pasal 109 ayat (2) dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
@@ -4249,19 +4255,19 @@ Pelaku Usaha menengah dan besar wajib memberikan kesempatan pemagangan dan alih 
 - 2I. Pasal 126 dihapus.
 22. Ketentuan Pasal 128 diubah sehingga berbunyi sebagai berikut:
 
-## Pasar 12g
+**Pasar 12g**
 
 Setiap orang yang mengedarkan produk segar hortikultura impor tertentu yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 88 ayat (1) huruf a, huruf c, danf atau huruf d dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak Rp2.000.000.000,00 (dua miliar rupiah).
 
 23. Pasal 131 dihapus.
 
-## Pasal 34
+**Pasal 34**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2OO9 tentang Peternakan dan Kesehatan Hewan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 84, Tambahan Lembaran Negara Republik Indonesia Nomor 5015) sebagaimana telah diubah dengan Undang-Undang Nomor 41 Tahun 2Ol4 tentang Perubahan atas UndangUndang Nomor 18 Tahun 2OO9 tentang Peternakan dan Kesehatan Hewan (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 338, Tambahan Lembaran Negara Republik Indonesia Nomor 5619) diubah sebagai berikut:
 
 - Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 6
+**Pasal 6**
 
 - (1) Lahan yang telah ditetapkan sebagai Kawasan Penggembalaan Umum harus dipertahankan keberadaan dan kemanfaatannya secara berkelanjutan.
 2. (21 Kawasan Penggembalaan Umum sebagaimana dimaksud pada ayat (1) berfungsi sebagai:
@@ -4271,7 +4277,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2OO9 tentang Peternakan da
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESIA
+**PRESIDEN BLIK INDONESIA**
 
 -r77-
 
@@ -4282,7 +4288,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2OO9 tentang Peternakan da
 - (6) Ketentuan lebih lanjut mengenai penyediaan dan pengelolaan Kawasan Penggembalaan Umum sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Pemerintah.
 6. 2 Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 13
+**Pasal 13**
 
 - (1) Penyediaan dan pengembangan Benih dan/atau Bibit dilakukan dengan memperhatikan keberlanjutan pengembangan usaha Peternak mikro, kecil, dan menengah.
 2. (21 Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib untuk melakukan pengembangan usaha pembenihan dan/atau pembibitan dengan melibatkan peran serta masyarakat untuk menjamin ketersediaan Benih, Bibit, dan/atau Bakalan.
@@ -4291,7 +4297,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2OO9 tentang Peternakan da
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -t78-
 
@@ -4301,7 +4307,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2OO9 tentang Peternakan da
 - (6) Setiap Orang dilarang mengedarkan Benih atau Bibit yang tidak memenuhi kewajiban sertifikat layak Benih atau Bibit sebagaimana dimaksud pada ayat (4).
 5. 3 Ketentuan Pasal 15 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 15
+**Pasal 15**
 
 - (1) Pemasukan Benih dan/atau Bibit dari luar negeri ke dalam wilayah Negara Kesatuan Republik Indonesia dapat dilakukan untuk:
 - a. meningkatkan mutu dan keragaman genetik;
@@ -4314,13 +4320,13 @@ Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2OO9 tentang Peternakan da
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -t79-
 
 - 4 Ketentuan Pasal 16 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 16
+**Pasal 16**
 
 - (1) Pengeluaran Benih dan/atau Bibit dari wilayah Negara Kesatuan Republik Indonesia ke luar negeri dapat dilakukan apabila kebutuhan dalam negeri telah terpenuhi dan kelestarian Ternak lokal terjamin.
 2. l2l Pengeluaran sebagaimana dimaksud pada ayat (1) dilarang dilakukan terhadap Benih dan/atau Bibit yang terbaik di dalam negeri.
@@ -4328,7 +4334,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2OO9 tentang Peternakan da
 - (4) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Pemerintah.
 5. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal22
+**Pasal22**
 
 - (1) Setiap Orang yang memproduksi Pakan dan/atau Bahan Pakan untuk diedarkan secara komersial wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. l2l Pakan yang dibuat untuk diedarkan secara komersial harus memenuhi standar atau persyaratan teknis minimal dan keamanan Pakan serta memenuhi ketentuan cara pembuatan Pakan yang baik yang diatur dengan Peraturan Pemerintah.
@@ -4347,7 +4353,7 @@ b.menggunakan...
 - (5) Ketentuan lebih lanjut mengenai penggunaan Pakan yang dicampur hormon tertentu dan/atau antibiotik imbuhan Pakan sebagaimana dimaksud pada ayat (41 huruf c diatur dalam Peraturan Pemerintah.
 4. 6 Ketentuan Pasal 29 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 29
+**Pasal 29**
 
 - (1) Budi daya Ternak hanya dapat dilakukan oleh Peternak, Perusahaan Peternakan, dan pihak tertentu untuk kepentingan khusus.
 - (2) Peternak yang melakukan budi daya Ternak dengan jenis dan jumlah Ternak di bawah skala usaha tertentu diberikan Perizinan Berusaha oleh Pemerintah Pusat dan Pemerintah Daerah kabupaten/kota sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
@@ -4361,13 +4367,13 @@ b.menggunakan...
 
 - 7 Ketentuan Pasal 30 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 30
+**Pasal 30**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat mengembangkan usaha budi daya melalui penanaman modal oleh perseorangan warga negara Indonesia atau korporasi yang berbadan hukum.
 - (2) Pelaksanaan penanaman modal sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan ketentuan peraturan perundang-undangan di bidang penanaman modal.
 3. Ketentuan Pasal 368 diubah sehingga berbunyi sebagai berikut: 8
 
-## Pasal 36E}
+**Pasal 36E}**
 
 - (1) Pemasukan Ternak dan Produk Hewan dari luar negeri ke dalam wilayah Negara Kesatuan Republik Indonesia dilakukan untuk memenuhi kebutuhan dengan memperhatikan kepentingan Peternak.
 - (2) Setiap Orang yang melakukan pemasukan Ternak sebagaimana dimaksud pada ayat (1) wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
@@ -4385,7 +4391,7 @@ b.menggunakan...
 
 - 9 Ketentuan Pasal 36C diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 36C
+**Pasal 36C**
 
 - (1) Pemasukan Ternak Ruminansia Indukan ke dalam wilayah Negara Kesatuan Republik Indonesia dapat berasal dari suatu negara yang telah memenuhi persyaratan dan tata cara pemasukannya.
 - (2) Persyaratan dan tata cara pemasukan Ternak Ruminansia Indukan dari luar negeri ke dalam wilayah Negara Kesatuan Republik Indonesia ditetapkan berdasarkan analisis risiko di bidang Kesehatan Hewan oleh Otoritas Veteriner.
@@ -4402,13 +4408,13 @@ b.menggunakan...
 
 10. Ketentuan Pasal 37 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 37
+**Pasal 37**
 
 Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat membina dan memfasilitasi berkembangnya industri pengolahan Produk Hewan.
 
 11. Ketentuan Pasal 52 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 52
+**Pasal 52**
 
 - (1) Setiap Orang yang berusaha di bidang pembuatan, penyediaan, dan/atau peredaran Obat Hewan wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Setiap Orang dilarang membuat, menyediakan, dan/atau mengedarkan Obat Hewan yang:
@@ -4419,7 +4425,7 @@ Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan n
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 12. Ketentuan Pasal 54 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 54
+**Pasal 54**
 
 - (1) Penyediaan Obat Hewan dapat berasal dari produksi dalam negeri atau dari luar negeri.
 
@@ -4439,7 +4445,7 @@ Pasal 59
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 14. Ketentuan Pasal 60 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 60
+**Pasal 60**
 
 - (1) Setiap Orang yang mempunyai unit usaha Produk Hewan wajib memenuhi Perizinan Berusaha berupa nomor kontrol Veteriner dari Pemerintah Daerah provinsi sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Pemerintah Daerah kabupaten/kota melakukan pembinaan unit usaha yang memproduksi dan/atau mengedarkan Produk Hewan yang dihasilkan oleh unit usaha skala rumah tangga yang belum memenuhi persyaratan nomor kontrol Veteriner.
@@ -4448,14 +4454,14 @@ Pasal 59
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -185-
 
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 15. Ketentuan Pasal 62 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62
+**Pasal 62**
 
 - (1) Pemerintah Daerah kabupaten/kota wajib memiliki rrrmah potong Hewan yang memenuhi persyaratan teknis.
 2. (21 Rumah potong Hewan sebagaimana dimaksud pada ayat (1) dapat diusahakan oleh Setiap Orang setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
@@ -4463,7 +4469,7 @@ Pasal 59
 - (4) Ketentuan lebih lanjut mengenai Perizinan Berusaha r-umah potong sebagaimana dimaksud pada ayat (21diatur dalam Peraturan Pemerintah.
 16. Ketentuan Pasal 69 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 69
+**Pasal 69**
 
 - (1) Pelayanan Kesehatan Hewan meliputi pelayanan jasa laboratorium Veteriner, pelayanan jasa Iaboratorium pemeriksaan dan pengujian Veteriner, pelayanan jasa Medik Veteriner, dan/atau pelayanan jasa di pusat Kesehatan Hewan atau pos Kesehatan Hewan.
 - (2) Setiap Orang yang berusaha di bidang pelayanan Kesehatan Hewan sebagaimana dimaksud pada ayat (1) wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
@@ -4471,20 +4477,20 @@ Pasal 59
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -186-
 
 17. Ketentuan Pasal 72 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 72
+**Pasal 72**
 
 - (21 Tenaga asing Kesehatan Hewan dapat melakukan praktik pelayanan Kesehatan Hewan di wilayah Negara Kesatuan Republik Indonesia berdasarkan perjanjian bilateral atau multilateral antara pihak Indonesia dan negara atau lembaga asing sesuai dengan ketentuan peraturan perundangundangan.
 - (1) Tenaga Kesehatan Hewan yang melakukan pelayanan Kesehatan Hewan wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 18. Ketentuan Pasal 85 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 85
+**Pasal 85**
 
 - (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat berupa:
 - (1) Setiap Orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 9 ayat (1), Pasal 11 ayat (1), Pasal 13 ayat (4), Pasal 15 ayat (2), Pasal 18 ayat (4), Pasal 19 ayat (ll, Pasal 22 ayat (1) atau ayat (21, Pasal 23, Pasal 24 ayat (31, Pasal 25 ayat (1), Pasal 29 ayat (3), Pasal 36E} ayat (2), Pasal 36C ayat (4), Pasal 42 ayat (5), Pasal 43 ayat (4), Pasal 45 ayat (1), Pasal 47 ayat (2) atau ayat (3), Pasal 50 ayat (1), Pasal 50 ayat (3), Pasal 51 ayat (2), Pasal 52 ayat (1), Pasal 53 ayat (2), Pasal 55 ayat (3), Pasal 58 ayat (5), Pasal 59 ayat (1), Pasal 60 ayat (1), Pasal 61 ayat (1) atau ayat (21, Pasal 62 ayat (2) atau ayat (3), Pasal 69 ayat (21, Pasal 72 ayat (1), atau Pasal 80 ayat (1) dikenai sanksi administratif.
@@ -4495,7 +4501,7 @@ Pasal 59
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -187-
 
@@ -4508,9 +4514,9 @@ Pasal 88
 
 Setiap Orang yang memproduksi dan/atau mengedarkan Alat dan Mesin Peternakan yang belum diuji sebagaimana dimaksud dalam Pasal 24 ayat (31 yang mengakibatkan kerusakan fungsi lingkungan atau membahayakan nyawa orang, dipidana dengan pidana kurungan paling singkat 3 (tiga) bulan dan paling lama 11 (sebelas) bulan dan pidana denda paling sedikit Rp50.000.000,00 (lima puluh juta rupiah) dan paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
 
-## Paragraf 4 Kehutanan
+**Paragraf 4 Kehutanan**
 
-## Pasal 35
+**Pasal 35**
 
 Untuk memberikan kemudahan bagi masyarakat terrrtama Pelaku Usaha dalam mendapatkan Penzinan Berusaha dan kemudahan persyaratan investasi dari sektor kehutanan, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan dalam:
 
@@ -4524,13 +4530,13 @@ b.Undang-Undang...
 
 - b Undang-Undang Nomor 18 Tahun 2Ol3 tentang Pencegahan dan Pemberantasan Perusakan Hutan (Lembaran Negara Republik Indonesia Tahun 2Ol3 Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 54321.
 
-## Pasal 36
+**Pasal 36**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 4l Tahun 1999 tentang Kehutanan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 167, Tambahan Lembaran Negara Republik Indonesia Nomor 3888) sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2OO4 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 1 Tahun 2OO4 tentang Perubahan Atas Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 86, Tambahan Lembaran Negara Republik Indonesia Nomor 4412l' diubah sebagai berikut:
 
 - Ketentuan Pasal 15 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 15
+**Pasal 15**
 
 - (1) Pengukuhan Kawasan Hutan sebagaimana dimaksud dalam Pasal 14 dilakukan melalui:
 - a. penunjukan Kawasan Hutan;
@@ -4545,21 +4551,21 @@ Beberapa ketentuan dalam Undang-Undang Nomor 4l Tahun 1999 tentang Kehutanan (Le
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESTA
+**PRESIDEN REPUEUK INDONESTA**
 
 -189-
 
 - (5) Ketentuan lebih lanjut mengenai prioritas percepatan pengukuhan Kawasan Hutan sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan Pemerintah.
 2. 2 Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 18
+**Pasal 18**
 
 - (1) Pemerintah Pusat menetapkan dan mempertahankan kecukupan luas Kawasan Hutan dan penutupan Hutan untuk setiap daerah aliran sungai dan/atau pulau guna pengoptimalan manfaat lingkungan, manfaat sosial, dan manfaat ekonomi masyarakat setempat.
 2. (21 Pemerintah Pusat mengatur luas kawasan yang harus dipertahankan sesuai dengan kondisi fisik dan geografis daerah aliran sungai dan/atau pulau.
 - (3) Ketentuan lebih lanjut mengenai luas Kawasan Hutan yang harus dipertahankan termasuk pada wilayah yang terdapat proyek strategis nasional diatur dalam Peraturan Pemerintah.
 4. Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 19
+**Pasal 19**
 
 - (1) Perubahan peruntukan dan perubahan fungsi Kawasan Hutan ditetapkan oleh Pemerintah Pusat dengan mempertimbangkan hasil penelitian terpadu.
 - (2) Ketentuan mengenai tata cara perubahan peruntukan dan perubahan fungsi Kawasan Hutan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -4567,19 +4573,19 @@ Beberapa ketentuan dalam Undang-Undang Nomor 4l Tahun 1999 tentang Kehutanan (Le
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -190-
 
 - 4 Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26
+**Pasal 26**
 
 - (1) Pemanfaatan Hutan Lindung dapat berupa pemanfaatan kawasan, pemanfaatan jasa lingkungan, dan pemungutan Hasil Hutan bukan kayu.
 2. (21 Pemanfaatan Hutan Lindung sebagaimana dimaksud pada ayat (1) dilakukan dengan pemberian Perizinan Berusaha dari Pemerintah Pusat.
 3. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut: 5
 
-## Pasal2T
+**Pasal2T**
 
 Perizinan Berusaha sebagaimana dimaksud dalam Pasal 26 ayat (2) dapat diberikan kepada:
 
@@ -4590,7 +4596,7 @@ Perizinan Berusaha sebagaimana dimaksud dalam Pasal 26 ayat (2) dapat diberikan 
 - e. badan usaha milik swasta.
 6. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 28
+**Pasal 28**
 
 - (1) Pemanfaatan Hutan Produksi dapat berupa pemanfaatan kawasan, pemanfaatan jasa Iingkungan, pemanfaatan Hasil Hutan kayu dan bukan kayu, serta pemungutan Hasil Hutan kayu dan bukan kayu.
 2. (21 Pemanfaatan Hutan Produksi sebagaimana dimaksud pada ayat (1) dilakukan dengan pemberian Perizinan Berusaha dari Pemerintah Pusat.
@@ -4602,7 +4608,7 @@ Perizinan Berusaha sebagaimana dimaksud dalam Pasal 26 ayat (2) dapat diberikan 
 
 - 7 Ketentuan Pasal 29 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 29
+**Pasal 29**
 
 Perizinan Berusaha sebagaimana dimaksud dalam Pasal 28 ayat (2) dapat diberikan kepada:
 
@@ -4613,7 +4619,7 @@ Perizinan Berusaha sebagaimana dimaksud dalam Pasal 28 ayat (2) dapat diberikan 
 - e. badan usaha milik swasta.
 6. Di antara Pasal 29 dan Pasal 30 disisipkan 2 (dua) pasal, yakni Pasal 29A dan Pasal 29B sehingga berbunyi sebagai berikut: 8
 
-## Pasal 29A
+**Pasal 29A**
 
 - (1) Pemanfaatan Hutan Lindung dan Hutan Produksi sebagaimana dimaksud dalam Pasal 26 dan Pasal 28 dapat dilakukan melalui kegiatan perhutanan sosial.
 2. (21 Perhutanan sosial sebagaimana dimaksud pada ayat (1) dapat diberikan kepada:
@@ -4621,7 +4627,7 @@ Perizinan Berusaha sebagaimana dimaksud dalam Pasal 28 ayat (2) dapat diberikan 
 - b. kelompok tani Hutan; atau
 - c. koperasi.
 
-## Pasal 29B
+**Pasal 29B**
 
 Ketentuan lebih lanjut mengenai Perizinan Berusaha pemanfaatan Hutan dan kegiatan perhutanan sosial diatur dalam Peraturan Pemerintah.
 
@@ -4633,25 +4639,25 @@ Ketentuan lebih lanjut mengenai Perizinan Berusaha pemanfaatan Hutan dan kegiata
 
 - 9 Ketentuan Pasal 30 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 30
+**Pasal 30**
 
 Dalam rangka pemberdayaan ekonomi masyarakat, setiap badan usaha milik negara, badan usaha milik daerah, dan badan usaha milik swasta yang memperoleh Perizinan Berusaha pemanfaatan Hutan wajib bekerja s€una dengan koperasi masyarakat setempat.
 
 10. Ketentuan Pasal 31 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 31
+**Pasal 31**
 
 - (1) Untuk menjamin asas keadilan, pemerataan, dan kelestarian, Perizinan Berusaha terkait pemanfaatan Hutan dibatasi dengan mempertimbangkan aspek kelestarian Hutan dan aspek kepastian usaha.
 2. (21 Ketentuan mengenai pembatasan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 11. Ketentuan Pasal 32 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 32
+**Pasal 32**
 
 Pemegang Perizinan Berusaha wajib untuk menjaga, memelihara, dan melestarikan Hutan yang dikelolanya.
 
 - t2. Ketentuan Pasal 33 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 33
+**Pasal 33**
 
 - (1) Usaha pemanfaatan Hasil Hutan meliputi kegiatan penanaman, pemeliharaan, pemanenan, pengolahan, dan pemasaran Hasil Hutan.
 2. (21 Pemanenan dan pengolahan Hasil Hutan sebagaimana dimaksud pada ayat (1) tidak boleh melebihi daya dukung Hutan.
@@ -4660,14 +4666,14 @@ Pemegang Perizinan Berusaha wajib untuk menjaga, memelihara, dan melestarikan Hu
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 - 193-
 
 - (3) Ketentuan mengenai pembinaan dan pengembangan terhadap pengolahan Hasil Hutan sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
 13. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+**Pasal 35**
 
 - (1) Setiap pemegang Perizinan Berusaha terkait pemanfaatan Hutan dikenakan penerimaan negara bukan pajak di bidang Kehutanan.
 2. (21 Penerimaan negara bukan pajak di bidang Kehutanan sebagaimana dimaksud pada ayat (1) yang berasal dari dana reboisasi hanya dipergunakan untuk kegiatan rehabilitasi Hutan dan lahan.
@@ -4676,7 +4682,7 @@ Pemegang Perizinan Berusaha wajib untuk menjaga, memelihara, dan melestarikan Hu
 - (5) Ketentuan lebih lanjut mengenai pungutan atas pemanfaatan Hutan sebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (41diatur dalam Peraturan Pemerintah.
 6. t4. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 - (1) Penggunaan Kawasan Hutan untuk kepentingan pembangunan di luar kegiatan Kehutanan hanya dapat dilakukan di dalam Kawasan Hutan Produksi dan Kawasan Hutan Lindung.
 2. (21 Penggunaan Kawasan Hutan sebagaimana dimaksud pada ayat (1) dapat dilakukan tanpa mengubah fungsi pokok Kawasan Hutan.
@@ -4685,7 +4691,7 @@ Pemegang Perizinan Berusaha wajib untuk menjaga, memelihara, dan melestarikan Hu
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -L94-
 
@@ -4693,7 +4699,7 @@ Pemegang Perizinan Berusaha wajib untuk menjaga, memelihara, dan melestarikan Hu
 2. (41 Pada Kawasan Hutan Lindung dilarang dilakukan penambangan dengan pola pertambangan terbuka.
 15. Ketentuan Pasal 48 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 48
+**Pasal 48**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat mengatur perlindungan Hutan, baik di dalam maupun di luar Kawasan Hutan.
 2. (21 Perlindungan Hutan pada Hutan Negara dilaksanakan oleh Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
@@ -4706,19 +4712,19 @@ Pemegang Perizinan Berusaha wajib untuk menjaga, memelihara, dan melestarikan Hu
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESIA
+**PRESIDEN BLIK INDONESIA**
 
 -195-
 
 16. Ketentuan Pasal 49 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 49
+**Pasal 49**
 
 - (1) Pemegang hak atau Perizinan Berusaha wajib melakukan upaya pencegahan kebakaran Hutan di areal kerjanya.
 2. (21 Pemegang hak atau Perizinan Berusaha bertanggung jawab atas terjadinya kebakaran Hutan di areal kerjanya.
 17. Ketentuan Pasal 50 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 50
+**Pasal 50**
 
 - (1) Setiap orErng yang diberi Perizinan Berusaha di Kawasan Hutan dilarang melakukan kegiatan yang menimbulkan kerusakan Hutan.
 - (2) Setiap orang dilarang:
@@ -4732,14 +4738,14 @@ Pemegang Perizinan Berusaha wajib untuk menjaga, memelihara, dan melestarikan Hu
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -t96-
 
 - (3) Ketentuan mengenai mengeluarkan, membawa, dan/atau mengangkut tumbuh-tumbuhan dan/atau satwa yang dilindungi diatur sesuai dengan ketentuan peraturan perundangundangan.
 18. Di antara Pasal 50 dan Pasal 51 disisipkan 1 (satu) pasal, yakni Pasal 50A sehingga berbunyi sebagai berikut:
 
-## Pasal 50A
+**Pasal 50A**
 
 - (1) Dalam hal pelanggaran sebagaimana dimaksud dalam Pasal 50 ayat (2) huruf c, huruf d, dan/atau huruf e dilakukan oleh orang perseorangan atau kelompok masyarakat yang bertempat tinggal di dalam dan/atau di sekitar Kawasan Hutan paling singkat 5 (lima) tahun secara terus menerus dikenai sanksi administratif.
 2. (21 Pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) dikecualikan terhadap:
@@ -4747,7 +4753,7 @@ Pemegang Perizinan Berusaha wajib untuk menjaga, memelihara, dan melestarikan Hu
 - b. orang perseorangan yang telah mendapatkan sanksi sosial atau sanksi adat.
 19. Ketentuan Pasal 78 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 78
+**Pasal 78**
 
 - (1) Setiap orang yang dengan sengaja melanggar ketentuan sebagaimana dimaksud dalam Pasal 38 ayat (4) dipidana penjara paling lama 1O (sepuluh) tahun dan pidana denda paling banyak Rp7.500.000.000,00 (tujuh miliar lima ratus juta rupiah).
 2. (21 Setiap orang yang dengan sengaja melanggar ketentuan sebagaimana dimaksud dalam Pasal 50 ayat (1) dipidana penjara paling lama 10 (sepuluh) tahun dan pidana denda paling banyak RpS.000.000.000,00 (lima miliar rupiah).
@@ -4775,7 +4781,7 @@ Pemegang Perizinan Berusaha wajib untuk menjaga, memelihara, dan melestarikan Hu
 - (12) Semua Hasil Hutan dari hasil kejahatan dan pelanggaran dan/atau alat-alat termasuk alat angkutnya yang dipergunakan untuk melakukan kejahatan dan/atau pelanggaran sebagaimana dimaksud dalam pasal ini dirampas untuk negara.
 20. Ketentuan Pasal 80 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 80
+**Pasal 80**
 
 - (1) Setiap perbuatan melanggar hukum yang diatur dalam Undang-Undang ini, dengan tidak mengurangi sanksi pidana sebagaimana diatur dalam Pasal 78, mewajibkan kepada penanggung jawab perbuatan itu untuk membayar ganti rugi sesuai dengan tingkat kerusakan atau akibat yang ditimbulkan kepada negara untuk biaya rehabilitasi, pemulihan kondisi Hutan, atau tindakan lain yang diperlukan.
 2. (21 Setiap pemegang Perizinan Berusaha pemanfaatan Hutan yang diatur dalam Undang-Undang ini apabila melanggar ketentuan di luar ketentuan pidana sebagaimana diatur dalam Pasal 78 dikenai sanksi administratif.
@@ -4784,19 +4790,19 @@ Pemegang Perizinan Berusaha wajib untuk menjaga, memelihara, dan melestarikan Hu
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTIT
+**PRESIDEN REPUBLIK INDONESTIT**
 
 -199-
 
 - (3) Ketentuan lebih lanjut mengenai tata cara ganti rugi sebagaimana dimaksud pada ayat (1) dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 
-## Pasal 37
+**Pasal 37**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2OI3 tentang Pencegahan dan Pemberantasan Perusakan Hutan (Lembaran Negara Republik Indonesia Tahun 2OI3 Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 54321diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -4819,7 +4825,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -20r-
 
@@ -4875,14 +4881,14 @@ m. menerlma .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -204-
 
 - m. menerima, menjual, menerima tukar, menerima titipan, menyimpan, dan/atau memiliki Hasil Hutan Kayu yang berasal dari Kawasan Hutan yang diambil atau dipungut secara tidak sah.
 2. 4 Di antara Pasal 12 dan Pasal 13 disisipkan 1 (satu) pasal, yakni Pasal I2A sehingga berbunyi sebagai berikut:
 
-## Pasal 12A
+**Pasal 12A**
 
 - (1) Orang perseorangan yang bertempat tinggal di dalam dan/atau di sekitar Kawasan Hutan paling singkat 5 (lima) tahun secara terus menerus yang melakukan pelanggaran terhadap ketentuan Pasal 12 huruf a sampai dengan huruf f danlatau huruf h dikenai sanksi administratif.
 - (2) Pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) dikecualikan terhadap:
@@ -4890,7 +4896,7 @@ m. menerlma .
 - b. orang perseorangan yang telah mendapatkan sanksi sosial atau sanksi adat.
 5. Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut: 5
 
-## Pasal 17
+**Pasal 17**
 
 - (1) Setiap Orang dilarang:
 - a. membawa alat-alat berat dan/atau alat-alat lain yang lazim atau patut diduga akan digunakan untuk melakukan kegiatan penambangan dan/atau mengangkut hasil tambang di dalam Kawasan Hutan tanpa Perizinan Berusaha dari Pemerintah Pusat;
@@ -4916,13 +4922,13 @@ c.mengangkut...
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -206-
 
 6. Di antara Pasal 17 dan Pasal 18 disisipkan 1 (satu) pasal, yakni Pasal l7A sehingga berbunyi sebagai berikut:
 
-## Pasal 17A
+**Pasal 17A**
 
 - (1) Orang perseorangan yang bertempat tinggal di dalam dan/atau di sekitar Kawasan Hutan paling singkat 5 (lima) tahun secara terus-menerus yang melakukan pelanggaran terhadap Pasal 17 ayat (21 huruf b, huruf c, danf atau huruf d dikenai sanksi administratif.
 - (2) Pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) dikecualikan terhadap:
@@ -4930,7 +4936,7 @@ c.mengangkut...
 - b. orang perseorangan yang telah mendapatkan sanksi sosial atau sanksi adat.
 5. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal 18
+**Pasal 18**
 
 - (1) Selain dikenai sanksi pidana, pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 12 huruf a, huruf b, huruf c, Pasal 17 ayat (1) huruf b, huruf c, huruf e, atau Pasal 17 ayat (2) huruf b, huruf c, atau huruf e serta kegiatan lain di Kawasan Hutan tanpa Perizinan Berusaha yang dilakukan oleh badan hukum atau Korporasi dikenai sanksi administratif berupa:
 - a. teguran tertulis;
@@ -4948,7 +4954,7 @@ c.mengangkut...
 - (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 - 8 Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal24
+**Pasal24**
 
 Setiap Orang dilarang:
 
@@ -4957,7 +4963,7 @@ Setiap Orang dilarang:
 - c. memindahtangankan atau menjual Perizinan Berusaha terkait Pemanfaatan Hasil Hutan kecuali dengan persetujuan dari Pemerintah Pusat.
 4. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut: 9
 
-## Pasal 28
+**Pasal 28**
 
 Setiap Pejabat dilarang:
 
@@ -4970,7 +4976,7 @@ e.melakukan...
 
 <!-- image -->
 
-## FRESIDEN REPUEL|K INDONESIA
+**FRESIDEN REPUEL|K INDONESIA**
 
 -208-
 
@@ -4982,7 +4988,7 @@ e.melakukan...
 11. Pasal 54 dihapus.
 12. Ketentuan Pasal 82 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 82
+**Pasal 82**
 
 - (1) Orang perseorangan yang dengan sengaja:
 - a. melakukan penebangan Pohon dalam Kawasan Hutan yang tidak sesuai dengan Perizinan Berusaha terkait Pemanfaatan Hutan sebagaimana dimaksud dalam Pasal 12 huruf a;
@@ -5001,20 +5007,20 @@ dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (
 - b. melakukan penebangan Pohon dalam Kawasan Hutan tanpa memiliki Perizinan Berusaha sebagaimana dimaksud dalam Pasal 12 huruf b; dan/atau
 - c. melakukan penebangan Pohon dalam Kawasan Hutan secara tidak sah sebagaimana dimaksud dalam Pasal 12 huruf c,
 
-## dipidana bagi:
+**dipidana bagi:**
 
 - a. pengurusnya dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 15 (lima belas) tahun dan pidana denda paling sedikit Rp5.O00.000.00O,OO (lima miliar rupiah) dan paling banyak Rp15.000.000.000,00 (lima belas miliar rupiah); dan/atau
 - b. Korporasi dikenai pemberatan 1/3 (satu per tiga) dari denda pidana yang dijatuhkan.
 13. Ketentuan Pasal 83 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 83
+**Pasal 83**
 
 - (1) Orang perseorangan yang dengan sengaja:
 2. a.memuat...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -2ro-
 
@@ -5043,7 +5049,7 @@ dipidana dengan pidana penjara paling singkat 8 (delapan) bulan dan paling lama 
 - b. mengangkut, menguasai, atau memiliki Hasil Hutan Kayu yang tidak dilengkapi secara bersama Surat Keterangan Sahnya Hasil Hutan sebagaimana dimaksud dalam Pasal 12 huruf e; dan/atau
 - c. memanfaatkan Hasil Hutan Kayu yang diduga berasal dari hasil Pembalakan Liar sebagaimana dimaksud dalam Pasal 12 huruf h,
 
-## dipidana bagi:
+**dipidana bagi:**
 
 - a. pengurusnya dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 15 (lima belas) tahun dan pidana denda paling sedikit Rp5.000.000.000,00 (lima miliar rupiah) dan paling banyak Rp 15.000.00O.000,00 (lima belas miliar rupiah); dan/atau
 - b. Korporasi dikenai pemberatan 1/3 (satu per tiga) dari denda pidana yang dijatuhkan.
@@ -5056,7 +5062,7 @@ dipidana dengan pidana penjara paling singkat 8 (delapan) bulan dan paling lama 
 
 14. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 84
+**Pasal 84**
 
 - (1) Orang perseorangan yang dengan sengaja membawa alat-alat yang lazim digunakan untuk menebang, memotong, atau membelah Pohon di dalam Kawasan Hutan tanpa Perizinan Berusaha sebagaimana dimaksud dalam Pasal L2 huruf f dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun atau pidana denda paling sedikit Rp250.000.000,00 (dua ratus lima puluh juta rupiah) dan paling banyak RpS.000.000.000,00 (lima miliar rupiah).
 2. (21 Orang perseorangan yang karena kelalaiannya membawa alat-alat yang lazim digunakan untuk menebang, memotong, atau membelah Pohon di dalam Kawasan Hutan tanpa Perizinan Berusaha sebagaimana dimaksud dalam Pasal 12 huruf f dipidana dengan pidana penjara paling singkat 8 (delapan) bulan dan paling lama 2 (dua) tahun serta pidana denda paling sedikit Rp10.000.000,00 (sepuluh juta rupiah) dan paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
@@ -5070,7 +5076,7 @@ dipidana dengan pidana penjara paling singkat 8 (delapan) bulan dan paling lama 
 
 15. Ketentuan Pasal 85 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 85
+**Pasal 85**
 
 - (1) Orang perseorangan yang dengan sengaja membawa alat-alat berat dan/atau alat-alat lainnya yang lazim atau patut diduga akan digunakan untuk mengangkut hasil Hutan di dalam Kawasan Hutan tanpa Perizinan Berr.rsaha sebagaimana dimaksud dalam Pasal 12 huruf g dipidana dengan pidana penjara paling singkat 2 (dua) tahun dan paling lama 10 (sepuluh) tahun atau pidana denda paling sedikit Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak Rp10.000.0OO.0O0,00 (sepuluh miliar rupiah).
 - (2) Korporasi yang membawa alat-alat berat dan/atau alat-alat lainnyayang lazim atau patut diduga akan digunakan untuk mengangkut hasil Hutan di dalam Kawasan Hutan tanpa Perizinan Berusaha sebagaimana dimaksud dalam Pasal 12 huruf g dipidana bagi:
@@ -5078,14 +5084,14 @@ dipidana dengan pidana penjara paling singkat 8 (delapan) bulan dan paling lama 
 - b. Korporasi dikenai pemberatan 1/3 (satu per tiga) dari denda pidana yang dijatuhkan.
 16. Ketentuan Pasal 92 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 92
+**Pasal 92**
 
 - (1) Orang perseorangan yang dengan sengaja:
 - a. membawa alat-alat berat dan/atau alat-alat lainnya yang lazim atau patut diduga akan digunakan untuk melakukan kegiatan perkebunan dan/atau mengangkut hasil kebun di dalam Kawasan Hutan tanpa Perizinan Berusaha sebagaimana dimaksud dalam Pasal 17 ayat (2) huruf a; dan/atau
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -214-
 
@@ -5103,7 +5109,7 @@ dipidana bagi:
 - b. Korporasi dikenai pemberatan 1/3 (satu per tiga) dari denda pokoknya.
 17. Ketentuan Pasal 93 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 93
+**Pasal 93**
 
 - (1) Orang perseorangan yang dengan sengaja:
 
@@ -5137,13 +5143,13 @@ dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (
 - b. menjual, menguasai, memiliki, dan/atau menyimpan hasil perkebunan yang berasal dari kegiatan perkebunan di dalam Kawasan Hutan tanpa Perizinan Berusaha sebagaimana dimaksud dalam Pasal 17 ayat (2) huruf d; dan/atau
 - c. membeli, memasarkan, dan/atau mengolah hasil kebun dari perkebunan yang berasal dari kegiatan perkebunan di dalam Kawasan Hutan tanpa Perizinan Berusaha sebagaimana dimaksud dalam Pasal t7 ayat (2) huruf e,
 
-## dipidana bagi:
+**dipidana bagi:**
 
 - a. pengurusnya dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 15 (lima belas) tahun dan/atau pidana denda paling sedikit RpS.000.000.000,00 (lima miliar rupiah) dan paling banyak Rp 15.000.000.000,00 (lima belas miliar rupiah); dan/atau
 - b. Korporasi dikenai pemberatan 1/3 (satu per tiga) dari denda pidana yang dijatuhkan.
 18. Ketentuan Pasal 96 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 96
+**Pasal 96**
 
 - (1) Orang perseorangan yang dengan sengaja:
 - a. memalsukan Perizinan Berrrsaha terkait Pemanfaatan Hasil Hutan Kayu dan/atau penggunaan Kawasan Hutan sebagaimana dimaksud dalam Pasal 24 }rruruf a;
@@ -5159,13 +5165,13 @@ b.menggunakan...
 
 dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun serta pidana denda paling sedikit Rp500.000.000,00 (lima ratus juta rupiah) dan paling banyak Rp2.500.000.000,00 (dua miliar lima ratus juta rupiah).
 
-## (2) Korporasi yang:
+**(2) Korporasi yang:**
 
 - a. memalsukan Perizinan Berusaha terkait Pemanfaatan Hasil Hutan Kayu dan/atau penggunaan Kawasan Hutan sebagaimana dimaksud dalam Pasal 24 huruf a;
 - b. menggunakan Perizinan Berusaha palsu terkait Pemanfaatan Hasil Hutan Kayu dan/atau penggunaan Kawasan Hutan sebagaimana dimaksud dalam Pasal 24 huruf b; dan/atau
 - c. memindahtangankan atau menjual Perizinan Berusaha sebagaimana dimaksud dalam Pasal 24 huruf c,
 
-## dipidana bagi:
+**dipidana bagi:**
 
 - a. pengurusnya dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 15 (lima belas) tahun serta pidana denda paling sedikit Rp5.000.0O0.O00,00 (lima miliar rupiah) dan paling banyak Rp15.000.0O0.000,00 (lima belas miliar rupiah); dan/atau
 - b. Korporasi dikenai pemberatan I 13 (satu per tiga) dari denda pidana yang dijatuhkan.
@@ -5178,9 +5184,9 @@ dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (
 
 19. Ketentuan Pasal 105 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1O5
+**Pasal 1O5**
 
-## Setiap Pejabat yang:
+**Setiap Pejabat yang:**
 
 - a. menerbitkan Perizinan Berusaha terkait Pemanfaatan Hasil Hutan Kayu dan/atau penggunaan Kawasan Hutan di dalam Kawasan Hutan yang tidak sesuai dengan kewenangannya sebagaimana dimaksud dalam Pasal 28 huruf a;
 - b. menerbitkan Perizinan Berusaha di dalam Kawasan Hutan dan/atau Perizinan Berusaha terkait penggunaan Kawasan Hutan di dalam Kawasan Hutan yang tidak sesuai dengan ketentuan peraturan perundang-undangan sebagaimana dimaksud dalam Pasal 28 huruf b;
@@ -5196,13 +5202,13 @@ dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 10 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -2t9-
 
 20. Di antara Pasal 110 dan Pasal 111 disisipkan 2 (dua) pasal, yakni Pasal 110A dan Pasal 1108 sehingga berbunyi sebagai berikut:
 
-## Pasal 110A
+**Pasal 110A**
 
 - (1) Setiap Orang yang melakukan kegiatan usaha yang telah terbangun dan memiliki Perizinan Berusaha di dalam Kawasan Hutan sebelum berlakunya Undang-Undang ini yang belum memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan di bidang kehutanan, wajib menyele saikan persyaratan palin g lambat tanggal 2 November 2023.
 - 12) Dalam hal Setiap Orang yang melakukan kegiatan usahayang telah terbangun dan memiliki Perizinan Berrrsaha di dalam Kawasan Hutan tidak menyelesaikan persyaratan dalam jangka waktu sebagaimana dimaksud pada ayat (1), dikenai sanksi administratif berupa:
@@ -5210,7 +5216,7 @@ dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 10 
 - b. pencabutanPerizinan Berusaha.
 - (3) Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi administratif dan tata cara penerimaan negara bukan pajak yang berasal dari denda administratif sebagaimana dimaksud pada ayat (21diatur dalam Peraturan Pemerintah.
 
-## Pasal 1 10B
+**Pasal 1 10B**
 
 - (1) Setiap Orang yang melakukan pelanggaran sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf b, huruf c, dan/atau huruf e, danf atau Pasal 17 ayat (2) huruf b, hurrrf c, dan/atau huruf e, atau kegiatan lain di Kawasan Hutan tanpa memiliki Perizinan Berusaha yang dilakukan sebelum tanggal 2 November 2O2O dikenai sanksi administratif, berupa:
 - a. penghentian sementara kegiatan usaha;
@@ -5226,11 +5232,11 @@ dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 10 
 21. Pasal 111 dihapus.
 22. Pasal 112 dihapus.
 
-## Paragraf 5
+**Paragraf 5**
 
 Energi dan Sumber Daya Mineral
 
-## Pasal 38
+**Pasal 38**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berusaha dari sektor energi dan sumber daya mineral, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -5240,7 +5246,7 @@ b.Undang-Undang...
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 -22t-
 
@@ -5248,13 +5254,13 @@ b.Undang-Undang...
 - c. Undang-Undang Nomor 21 Tahun 2Ol4 tentang Panas Bumi (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 2lT,Tambahan Lembaran Negara Republik Indonesia Nomor 5585); dan
 - d. Undang-Undang Nomor 30 Tahun 2OO9 tentang Ketenagalistrikan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 5052).
 
-## Pasal 39
+**Pasal 39**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 4 Tahun 2OO9 tentang Pertambangan Mineral dan Batubara (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 4959) sebagaimana telah diubah dengan Undang-Undang Nomor 3 Tahun 2O2O tentang Perubahan Atas UndangUndang Nomor 4 Tahun 2OO9 tentang Pertambangan Mineral dan Batubara (Lembaran Negara Republik Indonesia Tahun 2O2O Nomor 147, Tambahan Lembaran Negara Republik Indonesia Nomor 6525) diubah sebagai berikut:
 
 - Di antara Pasal 128 dan Pasal 129 disisipkan 1 (satu) pasal, yakni Pasal l28A sehingga berbunyi sebagai berikut: I
 
-## Pasal l28A
+**Pasal l28A**
 
 - (1) Pemegang IUP atau IUPK pada tahap kegiatan Operasi Produksi yang melakukan Pengembangan dan/atau Pemanfaatan Batubara sebagaimana dimaksud dalam Pasal lO2 ayat (2) dapat diberikan perlakuan tertentu terhadap kewajiban penerimaan negara sebagaimana dimaksud dalam Pasal 128.
 - (2) Pemberian perlakuan tertentu terhadap kewajiban penerimaan negara sebagaimana dimaksud pada ayat (1) untuk kegiatan Pengembangan dan/atau Pemanfaatan Batubara dapat berupa pengenaan iuran produksi lroyalti sebesar 0% (nol persen).
@@ -5266,17 +5272,17 @@ Beberapa ketentuan dalam Undang-Undang Nomor 4 Tahun 2OO9 tentang Pertambangan M
 - (3) Ketentuan lebih lanjut mengenai perlakuan tertentu sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 2. 2 Ketentuan Pasal 162 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 162
+**Pasal 162**
 
 Setiap Orang yang merintangi atau mengganggu kegiatan Usaha Pertambangan dari pemegang IUP, IUPK, IPR, atau SIPB yang telah memenuhi syaratsyarat sebagaimana dimaksud dalam Pasal 70, Pasal 86F huruf b, dan Pasal 136 ayat (2) dipidana dengan pidana kurungan paling lama 1 (satu) tahun atau denda paling banyak Rp100.000.000,00 (seratus juta rupiah).
 
-## Pasal 40
+**Pasal 40**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 22 Tahun 2OOL tentang Minyak dan Gas Bumi (Lembaran Negara Republik Indonesia Tahun 2OOl Nomor 136, Tambahan Lembaran Negara Republik Indonesia Nomor 4L52l. diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -5286,7 +5292,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK TNDONESIA
+**PRESIDEN REPUBLTK TNDONESIA**
 
 2. Gas Bumi adalah hasil proses alami berrrpa hidrokarbon yang dalam kondisi tekanan dan temperatur atmosfer berupa fasa gas yang diperoleh dari proses penambangan Minyak dan Gas Bumi.
 3. Minyak dan Gas Bumi adalah Minyak Bumi dan Gas Bumi.
@@ -5302,9 +5308,9 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 -224-
 
@@ -5330,7 +5336,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 25. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Minyak dan Gas Bumi.
 7. 2 Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 4
+**Pasal 4**
 
 - (1) Minyak dan Gas Bumi sebagai sumber daya alam strategis tak terbarukan yang terkandung di dalam Wilayah Hukum Pertambangan Indonesia merupakan kekayaan nasional yang dikuasai oleh negara.
 2. (21 Penguasaan oleh negara sebagaimana dimaksud pada ayat (1) diselenggarakan oleh Pemerintah Pusat melalui kegiatan usaha Minyak dan Gas Bumi.
@@ -5339,13 +5345,13 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## FRESIDEN REPUELTK INDONESTA
+**FRESIDEN REPUELTK INDONESTA**
 
 -226-
 
 - 3 Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 5
+**Pasal 5**
 
 - (1) Kegiatan usaha Minyak dan Gas Bumi dilaksanakan berdasarkan P erizinan B eru saha dari Pemerintah Pusat.
 - (2) Kegiatan usaha Minyak dan Gas Bumi terdiri atas:
@@ -5361,7 +5367,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - d. Niaga.
 13. Ketentuan Pasal 23 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 23
+**Pasal 23**
 
 - (1) Kegiatan Usaha Hilir sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b dapat dilaksanakan oleh Badan Usaha setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Badan Usaha yang memenuhi Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dapat melakukan kegiatan usaha:
@@ -5373,7 +5379,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -227 -
 
@@ -5381,13 +5387,13 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 2. (41 Permohonan Perizinan Berusaha sebagaimana dimaksud pada ayat (1) wajib dilakukan dengan menggunakan sistem Perizinan Berusaha secara elektronik yang dikelola oleh Pemerintah Pusat.
 5. Di antara Pasal 23 dan Pasal 24 disisipkan 1 (satu) pasal, yakni Pasal 23A sehingga berbunyi sebagai berikut:
 
-## Pasal 23A
+**Pasal 23A**
 
 - (1) Setiap orang yang melakukan Kegiatan Usaha Hilir tanpa Perizinan Berusaha sebagaimana dimaksud dalam Pasal23 dikenai sanksi administratif berupa penghentian usaha dan/atau kegiatan, denda, dan/atau paksaan Pemerintah Pusat.
 2. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 6. Ketentuan Pasal 25 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 25
+**Pasal 25**
 
 - (1) Pemerintah Pusat dapat memberikan sanksi administratif terhadap:
 - a. pelanggaran salah satu persyaratan yang tercantum dalam Perizinan Berusaha; dan/atau
@@ -5402,23 +5408,23 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 - 7 Ketentuan Pasal 52 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 52
+**Pasal 52**
 
 Setiap orang yang melakukan Eksplorasi dan/atau Eksploitasi tanpa memiliki Perizinan Berusaha atau Kontrak Kerja Sama dipidana dengan pidana penjara paling lama 6 (enam) tahun dan pidana denda paling banyak Rp60.000.000.000,00 (enam puluh miliar rupiah).
 
 - Ketentuan Pasal 53 diubah sehingga berbunyi sebagai berikut: 8
 
-## Pasal 53
+**Pasal 53**
 
 Jika tindakan sebagaimana dimaksud dalam Pasal 23A mengakibatkan timbulnya korban/kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan, pelaku dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak Rp50.00O.000.000,00 (lima puluh miliar rupiah).
 
 - Ketentuan Pasal 55 diubah sehingga berbunyi sebagai berikut: 9
 
-## Pasal 55
+**Pasal 55**
 
 Setiap orang yang menyalahgunakan Pengangkutan dan/atau Niaga Bahan Bakar Minyak, bahan bakar gas, dan/atau liquefied petroleum gas yang disubsidi dan/atau penyediaan dan pendistribusiannya diberikan penugasan Pemerintah dipidana dengan pidana penjara paling lama 6 (enam) tahun dan pidana denda paling banyak Rp60.000.O00.000,00 (enam puluh miliar rupiah).
 
-## Pasal 41
+**Pasal 41**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 2l Tahun 2Ol4 tentang Panas Bumi (Lembaran Negara Republik lndonesia Tahun 2Ol4 Nomor 2L7, Tambahan Lembaran Negara Republik Indonesia Nomor 5585) diubah sebagai berikut:
 
@@ -5426,17 +5432,17 @@ Beberapa ketentuan dalam Undang-Undang Nomor 2l Tahun 2Ol4 tentang Panas Bumi (L
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -229-
 
-## Pasal 4
+**Pasal 4**
 
 - (1) Panas Bumi merupakan kekayaan nasional yang dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat.
 - (2) Penguasaan Panas Bumi oleh negara sebagaimana dimaksud pada ayat (1) diselenggarakan oleh Pemerintah Pusat, Pemerintah Daerah provinsi, dan Pemerintah Daerah kabupaten/kota sesuai dengan kewenangannya dan berdasarkan prinsip pemanfaatan.
 3. 2 Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 5
+**Pasal 5**
 
 - (1) Penyelenggaraan Panas Bumi oleh Pemerintah Pusat sebagaimana dimaksud dalam Pasal 4 ayat (2) dilakukan terhadap:
 - a. Panas Bumi untuk Pemanfaatan Langsung yang berada pada:
@@ -5458,11 +5464,11 @@ Beberapa ketentuan dalam Undang-Undang Nomor 2l Tahun 2Ol4 tentang Panas Bumi (L
 - b. wilayah laut paling jauh 1/3 (satu per tiga) dari wilayah laut kewenangan provinsi.
 6. 3 Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 6
+**Pasal 6**
 
 Kewenangan Pemerintah Pusat dalam penyelenggaraan Panas Bumi sebagaimana dimaksud dalam Pasal 5 ayat
 
-## (1) meliputi:
+**(1) meliputi:**
 
 - a. pembuatan kebijakan nasional;
 - b. pengaturan di bidang Panas Bumi;
@@ -5482,7 +5488,7 @@ i.pendorongan...
 - pendorongan kegiatan penelitian, pengembangan, dan kemampuan perekayasaan. I
 4. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 7
+**Pasal 7**
 
 Kewenangan Pemerintah Daerah provinsi dalam penyelenggaraan Panas Bumi sebagaimana dimaksud dalam Pasal 5 ayat (21 dilaksanakan sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat meliputi:
 
@@ -5504,12 +5510,12 @@ Kewenangan Pemerintah Daerah kabupaten/kota dalam penyelenggaraan Panas Bumi seb
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 - e inventarisasi dan penyusunan neraca sumber daya dan cadangan Panas Bumi pada wilayah kabupaten/kota.
 - Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut: 6
 
-## Pasal 1 1
+**Pasal 1 1**
 
 - (1) Setiap Orang yang melakukan pengusahaan Panas Bumi untuk Pemanfaatan Langsung sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf a wajib terlebih dahulu memiliki Perizinan Berusaha untuk Pemanfaatan Langsung.
 2. (21 Perizinan Berusaha untuk Pemanfaatan Langsung sebagaimana dimaksud pada ayat (1) diberikan oleh Pemerintah Pusat untuk Pemanfaatan Langsung yang berada pada:
@@ -5545,27 +5551,27 @@ Ketentuan lebih lanjut mengenai norma, standar, prosedur, dan kriteria pengusaha
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -234-
 
 11. Ketentuan Pasal 23 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 23
+**Pasal 23**
 
 - (1) Badan Usaha yang melakukan pengusahaan Panas Bumi untuk Pemanfaatan Tidak Langsung sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf b wajib terlebih dahulu memenuhi Perizinan Berusaha di bidang Panas Bumi.
 2. (21 Perizinan Berusaha di bidang Panas Bumi sebagaimana dimaksud pada ayat (1) diberikan oleh Pemerintah Pusat kepada Badan Usaha berdasarkan hasil penawaran Wilayah Kerja.
 - (3) Ketentuan lebih lanjut mengenai pemberian Perizinan Berusaha di bidang Panas Bumi untuk Pemanfaatan Tidak Langsung diatur dalam Peraturan Pemerintah.
 4. L2. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal24
+**Pasal24**
 
 Dalam hal kegiatan pengusahaan Panas Bumi untuk Pemanfaatan Tidak Langsung berada di Kawasan Hutan, pemegang Perizinan Berusaha di bidang Panas Bumi wajib memenuhi Perizinan Berusaha di bidang kehutanan sesuai dengan ketentuan peraturan perundang-undangan.
 
 13. Pasal 25 dihapus.
 2. L4. Ketentuan Pasal 36 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 36
+**Pasal 36**
 
 - (1) Pemerintah Pusat dapat mencabut Perizinan Berusaha di bidang Panas Bumi sebagaimana dimaksud dalam Pasal 33 huruf c jika pelaku usaha di bidang Panas Bumi:
 
@@ -5580,7 +5586,7 @@ a.melakukan...
 - (2) Sebelum melaksanakan pencabutan Perizinan Berusaha di bidang Panas Bumi sebagaimana dimaksud pada ayat (1), Pemerintah Pusat terlebih dahulu memberikan kesempatan dalam jangka waktu 6 (enam) bulan kepada pelaku usaha di bidang Panas Bumi untuk memenuhi kewajiban sesuai dengan ketentuan yang diatur dalam Undang-Undang ini.
 15. Ketentuan Pasal 37 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 37
+**Pasal 37**
 
 Pemerintah Pusat dapat membatalkan Perizinan Berusaha di bidang Panas Bumi sebagaimana dimaksud dalam Pasal 33 huruf d jika:
 
@@ -5588,7 +5594,7 @@ Pemerintah Pusat dapat membatalkan Perizinan Berusaha di bidang Panas Bumi sebag
 - b. Perizinan Berusaha di bidang Panas Bumi dinyatakan batal berdasarkan putusan pengadilan.
 16. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 - (1) Dalam h'al Perizinan Berusaha di bidang Panas Bumi berakhir karena alasan sebagaimana dimaksud dalam Pasal 33, pelaku usaha di bidang Panas Bumi wajib memenuhi dan menyelesaikan segala kewajibannya sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -5596,7 +5602,7 @@ Pemerintah Pusat dapat membatalkan Perizinan Berusaha di bidang Panas Bumi sebag
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -236-
 
@@ -5604,7 +5610,7 @@ Pemerintah Pusat dapat membatalkan Perizinan Berusaha di bidang Panas Bumi sebag
 - (3) Pemerintah Pusat menetapkan persetujuan pengakhiran Perizinan Berusaha di bidang Panas Bumi setelah pelaku usaha di bidang Panas Bumi melaksanakan pemulihan fungsi lingkungan di Wilayah Kerjanya serta kewajiban lainnya sebagaimana dimaksud pada ayat (1).
 17. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 40
+**Pasal 40**
 
 - (1) Badan Usaha pemegang Perizinan Berusaha di bidang Panas Bumi yang melanggar atau tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 11, Pasal 20 ayat (2), Pasal 23 ayat (ll, Pasal 26 ayat (1) atau ayat(2), Pasal 27 ayat (1) atau ayat (3), Pasal 31 ayat (3), atau Pasal 32 ayat (21 dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
@@ -5619,11 +5625,11 @@ Pasal42...
 
 <!-- image -->
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 -237 -
 
-## Pasal 42
+**Pasal 42**
 
 - (1) Dalam hal akan menggunakan bidang-bidang tanah negara, hak atas tanah, tanah ulayat, dan/atau Kawasan Hutan di dalam Wilayah Kerja, peme gan g P erizinan Beru saha untuk Pe manfaatan Langsung atau pemegang Perizinan Berusaha di bidang Panas Bumi harus terlebih dahulu melakukan penyelesaian penggunaan lahan dengan pemakai tanah di atas tanah negara atau pemegang hak atau Perizinan Berusaha di bidang kehutanan sesuai dengan ketentuan peraturan perundang-undangan.
 2. (21 Dalam hal Pemerintah Pusat melakukan Eksplorasi untuk menetapkan Wilayah Kerja sebagaimana dimaksud dalam Pasal 17 ayat (l), sebelum melakukan Eksplorasi, Menteri melakukan penyelesaian penggunaan lahan dengan pemakai tanah di atas tanah negara atau pemegang hak atau Perizinan Berusaha di bidang kehutanan sesuai dengan ketentuan peraturan perundang-undangan.
@@ -5631,7 +5637,7 @@ Pasal42...
 4. (41 Dalam hal kegiatan pengusahaan Panas Bumi dilakukan oleh badan usaha milik negara yang mendapat penugasan khusus dari Pemerintah Pusat, penyediaan tanah dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 19. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43
+**Pasal 43**
 
 - (1) PemegangPerizinan Berusaha untuk Pemanfaatan Langsung atau pemegang Perizinan Berusaha di bidang Panas Bumi sebelum melakukan pengusahaan Panas Bumi di atas tanah negara, hak atas tanah, tanah ulayat, dan/atau Kawasan Hutan harus:
 
@@ -5639,7 +5645,7 @@ a.memperlihatkan...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -238-
 
@@ -5702,7 +5708,7 @@ b.penghentian...
 - (3) Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 25. Ketentuan Pasal 56 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56
+**Pasal 56**
 
 - (1) Badan Usaha pemegang Perizinan Berusaha di bidang Panas Bumi yang melanggar atau tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 52 ayat (1) huruf b, huruf c, huruf d, huruf g, huruf h, huruf i, atau hurufj, Pasal53 ayat (1), atau Pasal 54 ayat (1) dan ayat (4) dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
@@ -5717,24 +5723,24 @@ Pasal59...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -24r-
 
-## Pasal 59
+**Pasal 59**
 
 - (1) Pemerintah Pusat melakukan pembinaan dan pengawasan terhadap penyelenggaraan Panas Bumi untuk Pemanfaatan Langsung.
 - (2) Ketentuan lebih lanjut mengenai pembinaan dan pengawasan terhadap penyelenggaraan Panas Bumi untuk Pemanfaatan Langsung diatur dalam Peraturan Pemerintah.
 27. Pasal 60 dihapus.
 28. Ketentuan Pasal 67 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 67
+**Pasal 67**
 
 Setiap Orang yang dengan sengaja melakukan pengusahaan Panas Bumi untuk Pemanfaatan Langsung tanpa Perizinan Berusaha sebagaimana dimaksud dalam Pasal 11 ayat (1) yang mengakibatkan timbulnya korban/kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak Rp6.000.000.000,00 (enam miliar rupiah).
 
 29. Ketentuan Pasal 68 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 68
+**Pasal 68**
 
 Setiap Orang yang memiliki Perizinan Berusaha untuk Pemanfaatan Langsung sebagaimana dimaksud dalam Pasal 11 ayat (1) yang dengan sengaja melakukan pengusahaan Panas Bumi untuk Pemanfaatan Langsung tidak pada lokasi yang ditetapkan dalam Perizinan Berusaha yang mengakibatkan timbulnya korban/kemsakan terhadap kesehatan, keselamatan, dan/atau lingkungan, dipidana dengan pidana penjara paling lama 2 (dua) tahun 6 (enam) bulan atau pidana denda paling banyak Rp7.0OO.000.00O,OO (tujuh miliar rupiah).
 
@@ -5768,29 +5774,29 @@ Pasal 72
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 -243-
 
-## Pasal72
+**Pasal72**
 
 Badan Usaha pemilik Perizinan Berusaha di bidang Panas Bumi yang dengan sengaja menggunakan Perizinan Berusaha di bidang Panas Bumi tidak sesuai dengan peruntukannya sebagaimana dimaksud dalam Pasal 26 ayat (1) dipidana dengan pidana denda paling banyak Rp100.0O0.000.000,OO (seratus miliar rupiah).
 
 34. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 73
+**Pasal 73**
 
 Setiap Orang yang dengan sengaja menghalangi atau merintangi pengusahaan Panas Bumi terhadap pemegang Perizinan Berusaha di bidang Panas Bumi sebagaimana dimaksud dalam Pasal 46 dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana denda paling banyak Rp70.000.000.00O,00 (tujuh puluh miliar rupiah).
 
 35. Pasal 74 dihapus.
 
-## Pasal 42
+**Pasal 42**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 30 Tahun 2OO9 tentang Ketenagalistrikan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 133, Tambahan Lembaran Negara Republik Indonesia Nomor 5052) diubah sebagai berikut:
 
 - Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -5800,7 +5806,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -244-
 
@@ -5834,17 +5840,17 @@ Pasal3...
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESIA
+**PRESIDEN BLIK INDONESIA**
 
 -246-
 
-## Pasal 3
+**Pasal 3**
 
 - (1) Penyediaan Tenaga Listrik dikuasai oleh negara yang penyelenggaraannya dilakukan oleh Pemerintah Pusat dan Pemerintah Daerah berlandaskan prinsip otonomi daerah sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. l2l Untuk penyelenggaraan penyediaan Tenaga Listrik sebagaimana dimaksud pada ayat (1), Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya menetapkan kebijakan, pengaturan, pengawasan, dan melaksanakan Usaha Penyediaan Tenaga Listrik.
 3. 3 Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 4
+**Pasal 4**
 
 - (1) Pelaksanaan Usaha Penyediaan Tenaga Listrik oleh Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat dilakukan oleh badan usaha milik negara dan badan usaha milik daerah.
 2. (21 Badan usaha swasta, koperasi, dan swadaya masyarakat dapat berpartisipasi dalam Usaha Penyediaan Tenaga Listrik.
@@ -5863,7 +5869,7 @@ Pasal3...
 - (41 Ketentuan lebih lanjut mengenai penyediaan dana sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Pemerintah.
 4. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 5
+**Pasal 5**
 
 - (1) Kewenangan Pemerintah Pusat di bidang Ketenagalistrikan meliputi :
 - a. penetapan kebijakan Ketenagalistrikan nasional;
@@ -5882,7 +5888,7 @@ Pasal3...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -248-
 
@@ -5927,7 +5933,7 @@ Pasal 10
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -250-
 
@@ -5938,7 +5944,7 @@ Pasal 10
 - (6) Ketentuan lebih lanjut mengenai Wilayah Usaha sebagaimana dimaksud pada ayat (3), ayat (4), dan ayat (5) diatur dalam Peraturan Pemerintah.
 6. 7 Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 1
+**Pasal 1 1**
 
 - (1) Usaha Penyediaan Tenaga Listrik untuk kepentingan umum sebagaimana dimaksud dalam Pasal 10 ayat (1) dilaksanakan oleh badan usaha milik negara, badan usaha milik daerah, badan usaha swasta, koperasi, dan swadaya masyarakat yang berusaha di bidang penyediaan Tenaga Listrik.
 - (2) Badan usaha milik negara sebagaimana dimaksud pada ayat (1) diberi prioritas pertama melakukan Usaha Penyediaan Tenaga Listrik untuk kepentingan umum.
@@ -5946,7 +5952,7 @@ Pasal 10
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -25t-
 
@@ -5965,11 +5971,11 @@ Pasal 16. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -252-
 
-## Pasal 16
+**Pasal 16**
 
 - (1) Usaha jasa penunjang Tenaga Listrik sebagaimana dimaksud dalam Pasal 15 huruf a meliputi:
 - a. konsultansi dalam bidang instalasi Tenaga Listrik;
@@ -5992,17 +5998,17 @@ Pasal18...
 
 <!-- image -->
 
-## FRESIDEN REPUBUK INDONESIA
+**FRESIDEN REPUBUK INDONESIA**
 
 -253-
 
-## Pasal 18
+**Pasal 18**
 
 Usaha Penyediaan Tenaga Listrik dan usaha penunjang Tenaga Listrik sebagaimana dimaksud dalam Pasal 8 dilaksanakan setelah mendapatkan Perizinan Berusaha.
 
 11. Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 19
+**Pasal 19**
 
 - (1) Perizinan Berusaha sebagaimana dimaksud dalam Pasal 18 diberikan kepada badan usaha untuk kegiatan:
 - a. Usaha Penyediaan Tenaga Listrik untuk kepentingan umum;
@@ -6013,7 +6019,7 @@ Usaha Penyediaan Tenaga Listrik dan usaha penunjang Tenaga Listrik sebagaimana d
 12. Pasal 20 dihapus.
 13. Ketentuan Pasal 21 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 21
+**Pasal 21**
 
 - (1) Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya menetapkan Perizinart Berusaha.
 
@@ -6026,13 +6032,13 @@ Usaha Penyediaan Tenaga Listrik dan usaha penunjang Tenaga Listrik sebagaimana d
 - (2) Pemerintah Pusat menetapkan norma, standar, prosedur, dan kriteria berkaitan dengan Perizinan Berusaha.
 14. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 22
+**Pasal 22**
 
 Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik untuk kepentingan sendiri sebagaimana dimaksud dalam Pasal 19 ayat (1) huruf b diwajibkan untuk pembangkit Tenaga Listrik dengan kapasitas tertentu yang diatur dalam Peraturan Pemerintah.
 
 15. Ketentuan Pasal 23 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 23
+**Pasal 23**
 
 - (1) Pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik untuk kepentingan sendiri dapat menjual kelebihan Tenaga Listrik untuk dimanfaatkan bagi kepentingan umum setelah mendapat persetujuan dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 - (2) Penjualan kelebihan Tenaga Listrik untuk kepentingan umum sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam hal wilayah tersebut belum terjangkau oleh pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik untuk kepentingan umum.
@@ -6042,11 +6048,11 @@ Pasal24...
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -255-
 
-## Pasal24
+**Pasal24**
 
 Ketentuan lebih lanjut mengenai Perizinan Berusaha untuk kegiatan Usaha Penyediaan Tenaga Listrik untuk kepentingan umum dan Usaha Penyediaan Tenaga Listrik untuk kepentingan sendiri diatur dalam Peraturan Pemerintah.
 
@@ -6058,7 +6064,7 @@ Penetapan Perizinan Berusaha untuk industri penunjang Tenaga Listrik untuk indus
 
 18. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 27
+**Pasal 27**
 
 - (1) Pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik untuk kepentingan umum dalam melaksanakan Usaha Penyediaan Tenaga Listrik sebagaimana dimaksud dalam Pasal 10 ayat (1) berhak untuk:
 - a. melintasi sungai atau danau, baik di atas maupun di bawah permukaan;
@@ -6100,7 +6106,7 @@ e.mendapat...
 
 <!-- image -->
 
-## REPUELIK INDONESTA
+**REPUELIK INDONESTA**
 
 -257 -
 
@@ -6132,26 +6138,26 @@ Pasal 30
 - (6) Dalam hal tanah yang digunakan pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik terdapat tanah ulayat, penyelesaiannya dilakukan berdasarkan ketentuan peraturan pemndang-undangan di bidang pertanahan dengan memperhatikan ketentuan hukum adat setempat.
 22. Ketentuan Pasal 32 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 32
+**Pasal 32**
 
 - (1) Penetapan dan tata cara pembayaran Ganti Rugi Hak Atas Tanah atau Kompensasi sebagaimana dimaksud dalam Pasal 30 dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 
 <!-- image -->
 
-## PRESIDEN REPUELIK TNDONESIA
+**PRESIDEN REPUELIK TNDONESIA**
 
 -259-
 
 - (21 Ganti Rugi Hak Atas Tanah atau Kompensasi sebagaimana dimaksud dalam Pasal 30 dibebankan kepada pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik.
 23. Ketentuan Pasal 33 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 33
+**Pasal 33**
 
 - (1) Harga jual Tenaga Listrik dan sewa jaringan Tenaga Listrik ditetapkan berdasarkan prinsip usaha yang sehat.
 2. (21 Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya memberikan persetujuan atas harga jual Tenaga Listrik dan sewa jaringan Tenaga Listrik berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 24. Ketentuan Pasal 34 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 34
+**Pasal 34**
 
 - (1) Pemerintah Pusat menetapkan tarif Tenaga Listrik untuk Konsumen dengan persetujuan Dewan Perwakilan Rakyat Republik Indonesia.
 - (2) Tarif Tenaga Listrik untuk Konsumen sebagaimana dimaksud pada ayat (1) ditetapkan dengan memperhatikan keseimbangan kepentingan nasional, daerah, Konsumen, dan pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik.
@@ -6161,25 +6167,25 @@ Pasal 30
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -260-
 
 25. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+**Pasal 35**
 
 Pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik dilarang menerapkan tarif Tenaga Listrik untuk Konsumen yang tidak sesuai dengan penetapan Pemerintah Pusat sebagaimana dimaksud dalam Pasal 34.
 
 26. Ketentuan Pasal 37 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 37
+**Pasal 37**
 
 Jual beli Tenaga Listrik lintas negara dilakukan oleh pemegang Perizinan Berusaha untuk kegiatan usaha Penyediaan Tenaga Listrik untuk kepentingan umum berdasarkan P erizinan Berusaha.
 
 27. Ketentuan Pasal 44 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 44
+**Pasal 44**
 
 - (1) Setiap kegiatan usaha Ketenagalistrikan wajib memenuhi ketentuan keselamatan Ketenagalistrikan.
 2. (21 Ketentuan keselamatan Ketenagalistrikan sebagaimana dimaksud pada ayat (1) bertujuan untuk mewujudkan kondisi:
@@ -6203,7 +6209,7 @@ c.pengamanan...
 5. (71 Ketentuan mengenai keselamatan Ketenagalistrikan, sertifikat laik operasi, standar nasional Indonesia, dan sertifikat kompetensi sebagaimana dimaksud pada ayat (1) sampai dengan ayat (6) diatur dalam Peraturan Pemerintah.
 28. Ketentuan Pasal 45 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 45
+**Pasal 45**
 
 - (1) Pemanfaatan jaringan Tenaga Listrik untuk kepentingan telekomunikasi, multimedia, dan informatika hanya dapat dilakukan sepanjang tidak mengganggu kelangsungan Penyediaan Tenaga Listrik.
 2. (21 Pemanfaatan jaringan Tenaga Listrik sebagaimana dimaksud pada ayat (1) hanya dapat dilakukan dengan persetujuan pemilik jaringan.
@@ -6215,11 +6221,11 @@ Pasal46...
 
 <!-- image -->
 
-## PRESIDEN REPUELTK INDONESIA
+**PRESIDEN REPUELTK INDONESIA**
 
 -262-
 
-## Pasal 46
+**Pasal 46**
 
 - (1) Pemerintah Pusat atau Pemerintah Daerah berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat melakukan pembinaan dan pengawasan terhadap Usaha Penyediaan Tenaga Listrik dalam hal:
 - a. penyediaan dan pemanfaatan sumber energi untuk pembangkit Tenaga Listrik;
@@ -6250,7 +6256,7 @@ d.memberikan...
 - (5) Ketentuan lebih lanjut mengenai pembinaan dan pengawasan diatur dalam Peraturan Pemerintah.
 30. Ketentuan Pasal 48 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 48
+**Pasal 48**
 
 - (1) Setiap Orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 17 ayat (3), Pasal 19 ayat (3), Pasal 22,Pasal23 ayat (1), Pasal 27 ayat (2), Pasal 28, Pasal 30 ayat (1), Pasal 35, Pasal 37, Pasal 42,Pasat 44 ayat (1), ayat (4) atau ayat (5), atau Pasal 45 ayat (3) dikenai sanksi administratif berupa:
 - a. teguran tertulis;
@@ -6288,7 +6294,7 @@ Pasal 49
 
 32. Ketentuan Pasal 50 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 50
+**Pasal 50**
 
 - (1) Setiap Orang yang tidak memenuhi keselamatan Ketenagalistrikan sebagaimana dimaksud dalam Pasal 44 ayat (1) yang mengakibatkan kematian seseorang karena Tenaga Listrik dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 - (2) Apabila perbuatan sebagaimana dimaksud pada ayat (1) dilakukan oleh pemegang Perizinan Berrrsaha untuk kegiatan usaha Penyediaan Tenaga Listrik, pelaku dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan pidana denda paling banyak Rp1.50O.000.000,0O (satu miliar lima ratus juta rupiah).
@@ -6296,7 +6302,7 @@ Pasal 49
 4. (41 Penetapan dan tata cara pembayaran ganti rugi sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai dengan ketentuan peraturan perundangundangan.
 33. Di antara Pasal 50 dan Pasal 51 disisipkan 1 (satu) pasal, yakni Pasal 51A sehingga berbuqyi sebagai berikut:
 
-## Pasal 51A
+**Pasal 51A**
 
 Setiap Orang yang mendirikan bangunan atau membiarkan bangunan dan/atau menanam kembali tanaman yang telah:
 
@@ -6308,9 +6314,9 @@ dipidana. . .
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPI.IBLIK INDONESTA
+**REPI.IBLIK INDONESTA**
 
 -266-
 
@@ -6344,19 +6350,19 @@ Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatk
 
 - 1 Di antara Pasal 2 dan Pasal 3 disisipkan 1 (satu) pasal, yakni Pasal 2A sehingga berbunyi sebagai berikut:
 
-## Pasal 2A
+**Pasal 2A**
 
 Pemerintah Pusat berwenang memberikan Perizinan Berusaha terkait Ketenaganukliran.
 
 - Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut: 2
 
-## Pasal 4
+**Pasal 4**
 
 - (1) Pemerintah Pusat membentuk badan pengawas yang berada di bawah dan bertanggung jawab langsung kepada Presiden yang bertugas melaksanakan pengawasan terhadap segala kegiatan Pemanfaatan Tenaga Nuklir.
 2. (21 Untuk melaksanakan tugas sebagaimana dimaksud pada ayat (1), badan pengawas menyelenggarakan peraturan, perizirtan, dan inspeksi.
 3. Ketentuan Pasal 9 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 9
+**Pasal 9**
 
 - (1) Bahan Galian Nuklir dikuasai oleh negara.
 - (2) Pemerintah Pusat menetapkan wilayah usaha pertambangan Bahan Galian Nuklir sesuai dengan ketentuan peraturan perundang-undangan.
@@ -6367,11 +6373,11 @@ Pasal9A...
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESTA
+**PRESIDEN REPUELIK INDONESTA**
 
 -268-
 
-## Pasal 9A
+**Pasal 9A**
 
 - (1) Pemerintah Pusat dapat menetapkan badan usaha yang melakukan kegiatan pertambangan Bahan Galian Nuklir sebagaimana dimaksud dalam Pasal 9.
 2. (21 Kegiatan pertambangan sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh badan usaha milik negara yang bekerja sama dengan badan usaha milik swasta.
@@ -6386,11 +6392,11 @@ Pasal9A...
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 -269-
 
-## Pasal 17
+**Pasal 17**
 
 - (1) Setiap kegiatan Pemanfaatan Tenaga Nuklir wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat, kecuali dalam hal tertentu yang diatur dalam Peraturan Pemerintah.
 2. (21 Pembangunan dan pengoperasian Reaktor Nuklir dan Instalasi Nuklir lainnya serta Dekomisioning Reaktor Nuklir wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
@@ -6398,13 +6404,13 @@ Pasal9A...
 8. Pasal 18 dihapus.
 5. 9 Ketentuan Pasal 2O diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 20
+**Pasal 20**
 
 - (1) Inspeksi terhadap Instalasi Nuklir dan instalasi yang memanfaatkan Radiasi Pengion dilaksanakan oleh Pemerintah Pusat.
 2. (21 Ketentuan lebih lanjut mengenai inspeksi sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 10. Ketentuan Pasal 25 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 25
+**Pasal 25**
 
 - (1) Pemerintah Pusat menyediakan tempat penyimpanan lestari Limbah Radioaktif tingkat tinggi.
 2. (21 Penentuan tempat penyimpanan lestari sebagaimana dimaksud pada ayat (1) ditetapkan oleh Pemerintah Pusat setelah mendapat persetujuan Dewan Perwakilan Rakyat Republik Indonesia.
@@ -6412,23 +6418,23 @@ Pasal9A...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -270-
 
 - 1 1. Ketentuan Pasal 41 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 4 1
+**Pasal 4 1**
 
 - (1) Setiap orang yang membangun, mengoperasikan, dan/atau melakukan Dekomisioning Reaktor Nuklir tanpa Perizinan Berusaha sebagaimana dimaksud dalam Pasal 17 ayat (2) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan pidana denda paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah).
 - (2) Setiap orang yang melakukan perbuatan yang bertentangan dengan ketentuan sebagaimana dimaksud dalam Pasal 17 ayat (21 yang menimbulkan Kerugian Nuklir dipidana dengan pidana penjara seumur hidup atau pidana penjara paling lama 15 (lima belas) tahun dan pidana denda paling banyak Rp20.000.000.000,00 (dua puluh miliar rupiah).
 - (3) Dalam hal terpidana tidak mampu membayar pidana denda sebagaimana dimaksud pada ayat (1) atau ayat (21, dipidana dengan kurungan paling lama 1 (satu) tahun.
 
-## Paragraf 7
+**Paragraf 7**
 
-## Perindustrian
+**Perindustrian**
 
-## Pasal 44
+**Pasal 44**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berusaha dan kemudahan persyaratan investasi dari sektor perindustrian, beberapa ketentuan dalam Undang-Undang Nomor 3 Tahun 2Ol4 tentang Perindustrian (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 54921 diubah sebagai berikut:
 
@@ -6438,11 +6444,11 @@ Pasal 15. . .
 
 <!-- image -->
 
-## PRESIDEN REPIJBLIK INDONESIA
+**PRESIDEN REPIJBLIK INDONESIA**
 
 -271-
 
-## Pasal 15
+**Pasal 15**
 
 Pembangunan sumber daya Industri meliputi:
 
@@ -6454,7 +6460,7 @@ Pembangunan sumber daya Industri meliputi:
 - f. penyediaan Bahan Baku dan/atau bahan penolong bagi Industri.
 7. 2 Di antara Pasal 48 dan Pasal 49 disisipkan 1 (satu) pasal, yakni Pasal 48A sehingga berbunyi sebagai berikut:
 
-## Pasal 48A
+**Pasal 48A**
 
 - (1) Untuk menjaga kelangsungan proses produksi dan/atau pengembangan Industri, Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya memberikan kemudahan untuk mendapatkan Bahan Baku dan/atau bahan penolong sesuai dengan rencana kebutuhan Industri.
 2. (21 Kemudahan sebagaimana dimaksud pada ayat (1) termasuk kemudahan dalam mengimpor Bahan Baku dan/atau bahan penolong untuk Industri sesuai dengan rencana kebutuhan Industri.
@@ -6465,7 +6471,7 @@ Pasal 50. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBL|K INDONESIA
+**PRESIDEN REPUBL|K INDONESIA**
 
 -272-
 
@@ -6488,11 +6494,11 @@ Pasal57...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -273-
 
-## Pasal 57
+**Pasal 57**
 
 - (1) Penerapan SNI secara sukarela sebagaimana dimaksud dalam Pasal 51 dan pemberlakuan SNI, spesifikasi teknis, dan/atau pedoman tata cara secara wajib sebagaimana dimaksud dalam Pasal 52 dilakukan melalui penilaian kesesuaian.
 2. (21 Penilaian kesesuaian SNI yang diterapkan secara sukarela sebagaimana dimaksud pada ayat (1) dilakukan oleh lembaga penilaian kesesuaian yang telah terakreditasi.
@@ -6500,7 +6506,7 @@ Pasal57...
 4. (41 Ketentuan lebih lanjut mengenai pembinaan dan pengawasan terhadap lembaga penilaian kesesuaian diatur dalam Peraturan Pemerintah.
 5. 6 Ketentuan Pasal 59 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 59
+**Pasal 59**
 
 - (1) Pemerintah Pusat mengawasi pelaksanaan seluruh rangkaian penerapan SNI sebagaimana dimaksud dalam Pasal 51 ayat (21 dan ayat (3) dan pemberlakuan SNI, spesifikasi teknis, dan/atau pedoman tata cara secara wajib sebagaimana dimaksud dalam Pasal 52.
 2. (21 Dalam melaksanakan kewenangan pengawasan sebagaimana dimaksud pada ayat (1), Pemerintah Pusat dapat menunjuk lembaga terakreditasi.
@@ -6510,11 +6516,11 @@ Pasal84...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -274-
 
-## Pasal 84
+**Pasal 84**
 
 - (1) Industri Strategis dikuasai oleh negara.
 - (2) Industri Strategis sebagaimana dimaksud pada ayat (1) terdiri atas Industri yang:
@@ -6547,7 +6553,7 @@ Pasal84...
 - (9) Ketentuan lebih lanjut mengenai Industri Strategis sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 6. 8 Ketentuan Pasal 101 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 101
+**Pasal 101**
 
 - (1) Setiap kegiatan usaha Industri wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Kegiatan usaha Industri sebagaimana dimaksud pada ayat (1) meliputi:
@@ -6563,26 +6569,26 @@ Pasal84...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -276-
 
 10. Ketentuan Pasal 104 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 104
+**Pasal 104**
 
 Setiap Perusahaan Industri yang memenuhi Perizinan Berusaha sebagaimana dimaksud dalam Pasal 101 ayat (3) dapat melakukan perluasan sesuai dengan ketentuan peraturan perundang-undangan.
 
 11. Ketentuan Pasal 105 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 105
+**Pasal 105**
 
 - (1) Setiap kegiatan usaha Kawasan Industri wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Perusahaan Kawasan Industri wajib memenuhi standar Kawasan Industri yang ditetapkan oleh Pemerintah Pusat.
 - (3) Setiap Perusahaan Kawasan Industri yang melakukan perluasan wajib memiliki Perizinan Berusaha dari Pemerintah Pusat.
 12. Di antara Pasal 105 dan Pasal 106 disisipkan 1 (satu) pasal, yakni Pasal 105A sehingga berbunyi sebagai berikut:
 
-## Pasal 1OSA
+**Pasal 1OSA**
 
 Perizinan Berusaha untuk kegiatan usaha Kawasan Industri yang berada di kawasan ekonomi khusus dilakukan sesuai dengan norma, standar, prosedur, dan kriteria di bidang kawasan ekonomi khusus yang ditetapkan oleh Pemerintah Pusat.
 
@@ -6592,7 +6598,7 @@ Pasal 106. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -277 -
 
@@ -6615,17 +6621,17 @@ Pasal 108. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -278-
 
-## Pasal 108
+**Pasal 108**
 
 Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud dalam Pasal 101, Pasal lO4, Pasal 105, dan kewajiban berlokasi di Kawasan lndustri sebagaimana dimaksud dalam Pasal 106 serta tata cara pengenaan sanksi administratif dan besaran denda administratif sebagaimana dimaksud dalam Pasal 107 diatur dalam Peraturan Pemerintah.
 
 15. Ketentuan Pasal 115 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 15
+**Pasal 1 15**
 
 - (1) Masyarakat dapat berperan serta dalam perencanaan, pelaksanaan, dan pengawasan pembangunan Industri.
 - (2) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) diwujudkan dalam bentuk:
@@ -6634,7 +6640,7 @@ Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud dalam Pa
 - (3) Ketentuan lebih lanjut mengenai peran serta masyarakat dalam pembangunan Industri sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 16. Ketentuan Pasal 117 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 17
+**Pasal 1 17**
 
 - (1) Pemerintah Pusat melaksanakan pengawasan dan pengendalian terhadap kegiatan usaha Industri dan kegiatan usaha Kawasan Industri.
 
@@ -6642,7 +6648,7 @@ Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud dalam Pa
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -279-
 
@@ -6665,17 +6671,17 @@ ParagrafS. . .
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUBLTK INDONESIA
+**REPUBLTK INDONESIA**
 
 -280-
 
-## Paragraf 8
+**Paragraf 8**
 
-## Perdagangan, Metrologi I.egal, Jaminan Produk Halal, dan Standardisasi dan Penilaian Kesesuaian
+**Perdagangan, Metrologi I.egal, Jaminan Produk Halal, dan Standardisasi dan Penilaian Kesesuaian**
 
-## Pasal 45
+**Pasal 45**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berusaha dari sektor perdagangan, metrologi legal, jaminan produk halal, dan standardisasi dan penilaian kesesuaian, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -6683,7 +6689,7 @@ Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatk
 - b. Undang-Undang Nomor 2 Tahun 1981 tentang Metrologi Legal (Lembaran Negara Republik Indonesia Tahun 1981 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3193); dan
 - c. Undang-Undang Nomor 33 Tahun 2Ol4 tentang Jaminan Produk Halal (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 295, Tambahan Lembaran Negara Republik Indonesia Nomor 5604).
 
-## Pasal 46
+**Pasal 46**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 7 Tahun 2Ol4 tentang Perdagangan (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 45, Tambahan Lembaran Negara Republik Indonesia Nomor 5512) diubah sebagai berikut:
 
@@ -6693,24 +6699,24 @@ Pasal6...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -28L-
 
-## Pasal 6
+**Pasal 6**
 
 - (1) Setiap Pelaku Usaha wajib menggunakan atau melengkapi label berbahasa Indonesia pada Barang yang diperdagangkan di dalam negeri.
 2. (21 Setiap Pelaku Usaha yang tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif.
 - (3) Ketentuan lebih lanjut mengenai penggunaan atau kelengkapan label berbahasa Indonesia diatur dalam Peraturan Pemerintah.
 2. Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 1
+**Pasal 1 1**
 
 Ketentuan lebih lanjut mengenai Distribusi Barang diatur dalam Peraturan Pemerintah.
 
 3. Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 14
+**Pasal 14**
 
 - (1) Pemerintah Pusat melakukan pengaturan tentang pengembangan, penataan, dan pembinaan yang setara dan berkeadilan terhadap Pasar ralgrat, pusat perbelanjaan, toko swalayan, dan perkulakan untuk menciptakan kepastian berusaha dan hubungan kerja sama yang seimbang antara pemasok dan pengecer dengan tetap memperhatikan keberpihakan kepada koperasi dan usaha mikro, kecil, dan menengah.
 2. (21 Pengembangan, penataan, dan pembinaan sebagaimana dimaksud pada ayat (1) dilakukan melalui pengaturan Perizinan Berusaha, tata mang, dan zonasi dengan memperhatikan jarak dan lokasi pendirian, kemitraan, dan kerja sama usaha.
@@ -6719,14 +6725,14 @@ Ketentuan lebih lanjut mengenai Distribusi Barang diatur dalam Peraturan Pemerin
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESTA
+**PRESIDEN REPUBLTK INDONESTA**
 
 -282-
 
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha, tata rLlang, dan zonasi sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 2. 4 Ketentuan Pasal 15 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 15
+**Pasal 15**
 
 - (1) Gudang sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf d merupakan salah satu sarana Perdagangan untuk mendorong kelancaran Distribusi Barang yang diperdagangkan di dalam negeri dan ke luar negeri.
 - (2) Setiap pemilik Gudang wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
@@ -6734,7 +6740,7 @@ Ketentuan lebih lanjut mengenai Distribusi Barang diatur dalam Peraturan Pemerin
 - (4) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
 5. Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 17
+**Pasal 17**
 
 - (1) Setiap pemilik, pengelola, atau penyewa Gudang yang melakukan penyimpanan Barang yang ditujukan untuk diperdagangkan harus menyelenggarakan pencatatan administrasi paling sedikit berupa jumlah Barang yang disimpan dan jumlah Barang yang masuk dan yang keluar dari Gudang.
 2. (21 Setiap pemilik, pengelola, atau penyewa Gudang yang tidak menyelenggarakan pencatatan administrasi sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif.
@@ -6743,7 +6749,7 @@ Ketentuan lebih lanjut mengenai Distribusi Barang diatur dalam Peraturan Pemerin
 
 <!-- image -->
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 -283-
 
@@ -6768,11 +6774,11 @@ Pasal 33. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -284-
 
-## Pasal 33
+**Pasal 33**
 
 - (1) Produsen atau Importir yang tidak memenuhi ketentuan pendaftaran Barang sebagaimana dimaksud dalam Pasal 32 ayat (1) wajib menghentikan kegiatan Perdagangan Barang dan menarik Barang dari:
 - a. distributor;
@@ -6784,7 +6790,7 @@ Pasal 33. . .
 - (3) Produsen atau Importir yang tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif.
 9. Ketentuan Pasal 37 diubah sehingga berbunyi sebagai berikut: 9
 
-## Pasal 37
+**Pasal 37**
 
 - (1) Setiap Pelaku Usaha wajib memenuhi ketentuan penetapan Barang dan/atau Jasa yang ditetapkan sebagai Barang dan/atau Jasa yang dibatasi Perdagangannya sebagaimana dimaksud dalam Pasal 35 ayat (2).
 2. (21 Setiap Pelaku Usaha yang melanggar ketentuan penetapan Barang dan/atau Jasa sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif.
@@ -6794,11 +6800,11 @@ Pasal 38
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -285-
 
-## Pasal 38
+**Pasal 38**
 
 - (1) Pemerintah Pusat mengatur kegiatan Perdagangan Luar Negeri melalui kebijakan dan pengendalian di bidang Ekspor dan Impor.
 2. (21 Kebijakan dan pengendalian Perdagangan Luar Negeri sebagaimana dimaksud pada ayat (1) diarahkan untuk:
@@ -6821,25 +6827,25 @@ Pasal 38
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -286-
 
 11. Ketentuan Pasal 42 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal42
+**Pasal42**
 
 - (1) Ekspor Barang dilakukan oleh Pelaku Usaha yang telah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. l2l Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 12. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43
+**Pasal 43**
 
 - (1) Eksportir bertanggungjawab sepenuhnya terhadap Barang yang diekspor.
 2. (21 Eksportir yang tidak bertanggung jawab terhadap Barang yang diekspor sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif.
 13. Ketentuan Pasal 45 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 45
+**Pasal 45**
 
 - (1) Impor Barang hanya dapat dilakukan oleh Importir yang memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Dalam hal Impor tidak dilakukan untuk kegiatan usaha, Importir tidak memerlukan Perizinan Berrrsaha.
@@ -6850,17 +6856,17 @@ Pasal46...
 
 <!-- image -->
 
-## REPUBLIK INDONESTA
+**REPUBLIK INDONESTA**
 
 -287 -
 
-## Pasal 46
+**Pasal 46**
 
 - (1) Importir bertanggung jawab sepenuhnya terhadap Barang yang diimpor.
 2. (21 Importir yang tidak bertanggung jawab atas Barang yang diimpor sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif.
 15. Ketentuan Pasal 47 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 47
+**Pasal 47**
 
 - (1) Setiap Importir wajib mengimpor Barang dalam keadaan baru.
 - (2) Dalam hal tertentu, Pemerintah Pusat dapat menetapkan Barang yang diimpor dalam keadaan tidak baru.
@@ -6868,7 +6874,7 @@ Pasal46...
 16. Pasal 49 dihapus.
 17. Ketentuan Pasal 51 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 51
+**Pasal 51**
 
 - (1) Eksportir dilarang mengekspor Barang yang ditetapkan sebagai Barang yang dilarang untuk diekspor.
 2. (21 Importir dilarang mengimpor Barang yang ditetapkan sebagai Barang yang dilarang untuk diimpor.
@@ -6878,13 +6884,13 @@ Pasal46...
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 -288-
 
 18. Ketentuan Pasal 52 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 52
+**Pasal 52**
 
 - (1) Eksportir dilarang mengekspor Barang yang tidak sesuai dengan ketentuan pembatasan Barang untuk diekspor.
 2. (21 Importir dilarang mengimpor Barang yang tidak sesuai dengan ketentuan pembatasan Barang untuk diimpor.
@@ -6892,7 +6898,7 @@ Pasal46...
 - (4) Ketentuan mengenai kriteria Barang yang dibatasi sebagaimana dimaksud pada ayat (1) dan ayat (21 diatur dalam Peraturan Pemerintah.
 19. Ketentuan Pasal 53 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 53
+**Pasal 53**
 
 - (1) Eksportir yang dikenai sanksi administratif sebagaimana dimaksud dalam Pasal 52 ayat (3) terhadap Barang ekspornya dikuasai oleh negara sesuai dengan ketentuan peraturan perundangundangan.
 2. (21 Importir yang dikenai sanksi administratif sebagaimana dimaksud dalam Pasal 52 ayat (3) terhadap Barang impornya wajib diekspor kembali, dimusnahkan oleh Importir, atau ditentukan lain oleh Pemerintah Pusat.
@@ -6900,11 +6906,11 @@ Pasal46...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -289-
 
-## Pasal 57
+**Pasal 57**
 
 - (1) Barangyang diperdagangkan di dalam negeri harus memenuhi:
 - a. SNI yang telah diberlakukan secara wajib; atau
@@ -6928,7 +6934,7 @@ Pasal46...
 - (7) Pelaku Usaha yang memperdagangkan Barang yang telah diberlakukan SNI atau persyaratan teknis secara wajib, tetapi tidak membubuhi tanda SNI, tanda kesesuaian atau tidak melengkapi sertifikat kesesuaian sebagaimana dimaksud pada ayat (5) dikenai sanksi administratif.
 - 2I. Ketentuan Pasal 60 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 60
+**Pasal 60**
 
 - (1) Penyedia Jasa dilarang memperdagangkan Jasa di dalam negeri yang tidak memenuhi SNI, persyaratan teknis, atau kualifikasi yang telah diberlakukan secara wajib.
 2. (21 Pemberlakuan SNI, persyaratan teknis, atau kualifikasi secara wajib sebagaimana dimaksud pada ayat (1) ditetapkan oleh Pemerintah Pusat.
@@ -6948,7 +6954,7 @@ Pasal46...
 - (6) Penyedia Jasa yang memperdagangkan Jasa yang telah diberlakukan SNI, persyaratan teknis, atau kualifikasi secara wajib, tetapi tidak dilengkapi sertifikat kesesuaian sebagaimana dimaksud pada ayat (4) dikenai sanksi administratif.
 22. Ketentuan Pasal 61 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 61
+**Pasal 61**
 
 - (1) Tanda SNI, tanda kesesuaian, atau sertifikat kesesuaian sebagaimana dimaksud dalam Pasal 60 ayat (41 diterbitkan oleh lembaga penilaian kesesuaian yang terakreditasi sesuai dengan ketentuan peraturan perundang-undangan.
 - (2) Dalam hal lembaga penilaian kesesuaian sebagaimana dimaksud pada ayat (1) belum ada yang terakreditasi, Pemerintah Pusat dapat menunjuk lembaga penilaian kesesuaian dengan persyaratan dan dalam jangka waktu tertentu.
@@ -6959,17 +6965,17 @@ Pasal 63
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -292-
 
-## Pasal 63
+**Pasal 63**
 
 Penyedia Jasa yang memperdagangkan Jasa yang tidak dilengkapi dengan sertifikat kesesuaian sebagaimana dimaksud dalam Pasal 60 ayat (4) dikenai sanksi administratif.
 
 24. Ketentuan Pasal 65 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 65
+**Pasal 65**
 
 - (1) Setiap Pelaku Usaha yang memperdagangkan Barang dan/atau Jasa dengan menggunakan sistem elektronik wajib menyediakan data dan/atau informasi secara lengkap dan benar.
 2. (21 Setiap Pelaku Usaha dilarang memperdagangkan Barang dan/atau Jasa dengan menggunakan sistem elektronik yang tidak sesuai dengan data dan/atau informasi sebagaimana dimaksud pada ayat (1).
@@ -6985,7 +6991,7 @@ Penyedia Jasa yang memperdagangkan Jasa yang tidak dilengkapi dengan sertifikat 
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESTA
+**PRESIDEN BLIK INDONESTA**
 
 -293-
 
@@ -6993,7 +6999,7 @@ Penyedia Jasa yang memperdagangkan Jasa yang tidak dilengkapi dengan sertifikat 
 - (6) Setiap Pelaku Usaha yang memperdagangkan Barang dan/atau Jasa dengan menggunakan sistem elektronik yang tidak menyediakan data dan/atau informasi secara lengkap dan benar sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif.
 25. Ketentuan Pasal 74 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal74
+**Pasal74**
 
 - (1) Pemerintah Pusat melakukan pembinaan terhadap Pelaku Usaha dalam rangka pengembangan Ekspor untuk perluasan akses Pasar bagi Barang dan Jasa produksi dalam negeri.
 2. (21 Pembinaan sebagaimana dimaksud pada ayat (1) dapat berupa pemberian insentif, fasilitas, informasi peluang Pasar, bimbingan teknis, serta bantuan promosi dan pemasaran untuk pengembangan Ekspor.
@@ -7005,13 +7011,13 @@ Penyedia Jasa yang memperdagangkan Jasa yang tidak dilengkapi dengan sertifikat 
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -294-
 
 26. Ketentuan Pasal 77 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal,77
+**Pasal,77**
 
 - (1) Setiap Pelaku Usaha yang menyelenggarakan pameran dagang dan peserta pameran dagang wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Setiap Pelaku Usaha yang menyelenggarakan pameran dagang dengan mengikutsertakan peserta dan/atau produk yang dipromosikan berasal dari luar negeri wajib mendapatkan Perizinan Berusaha dari Pemerintah Pusat.
@@ -7019,7 +7025,7 @@ Penyedia Jasa yang memperdagangkan Jasa yang tidak dilengkapi dengan sertifikat 
 - (4) Ketentuan lebih lanjut mengenai Perizinan Berrrsaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 27. Di antara Pasal 77 dan Pasal 78 disisipkan 1 (satu) pasal, yakni Pasal 77A sehingga berbunyi sebagai berikut:
 
-## Pasal 77A
+**Pasal 77A**
 
 - (1) Pengenaan sanksi administratif sebagaimana dimaksud dalam Pasal 6 ayat (2), Pasal 15 ayat (3), Pasal LT ayat (2), Pasal 24 ayat (3), Pasal 33 ayat (3), Pasal 37 ayat (2), Pasal 43 ayat (2), Pasal 46 ayat (21, Pasal 52 ayat (3), Pasal 57 ayat (7), Pasal 60 ayat (6), Pasal 63, Pasal 65 ayat (6), atau Pasal 77 ayat (3) dapat berupa:
 - a. teguran tertulis;
@@ -7044,7 +7050,7 @@ Ketentuan lebih lanjut mengenai tata cara penyelenggaraan, kemudahan, dan keikut
 
 29. Ketentuan Pasal 98 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 98
+**Pasal 98**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah mempunyai wewenang melakukan pengawasan terhadap kegiatan Perdagangan.
 2. (21 Pengawasan sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan norma, standar, prosedur, dan kriteria yang diatur dalam Peraturan Pemerintah.
@@ -7058,7 +7064,7 @@ Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya dalam melakuk
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -296-
 
@@ -7066,7 +7072,7 @@ Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya dalam melakuk
 - b. pencabutanPerizinan Berusaha.
 31. Ketentuan Pasal 100 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 100
+**Pasal 100**
 
 - (1) Dalam melaksanakan pengawasan sebagaimana dimaksud dalam Pasal 98 ayat (1), Pemerintah Pusat menunjuk petugas pengawas di bidang Perdagangan.
 - (2) Petugas pengawas di bidang Perdagangan dalam melaksanakan pengawasan harus membawa surat tugas yang sah dan resmi.
@@ -7083,7 +7089,7 @@ Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya dalam melakuk
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -297 -
 
@@ -7101,7 +7107,7 @@ Ketentuan lebih lanjut mengenai pelaksanaan pengawasan kegiatan Perdagangan dan 
 
 33. Ketentuan Pasal 104 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 104
+**Pasal 104**
 
 - (1) Setiap Pelaku Usahayang tidak menggunakan atau tidak melengkapi label berbahasa lndonesia pada Barang yang diperdagangkan di dalam negeri sebagaimana dimaksud dalam Pasal 6 ayat (1) dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak Rp 1 0.000.0OO.OOO,00 (sepuluh miliar rupiah).
 
@@ -7109,7 +7115,7 @@ Ketentuan lebih lanjut mengenai pelaksanaan pengawasan kegiatan Perdagangan dan 
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -298-
 
@@ -7117,7 +7123,7 @@ Ketentuan lebih lanjut mengenai pelaksanaan pengawasan kegiatan Perdagangan dan 
 - (3) Bagi Pelaku Usaha yang melakukan usaha dan/atau kegiatan berisiko rendah atau menengah sebagaimana dimaksud pada ayat (21 dikenai sanksi sebagaimana dimaksud dalam Pasal 77A ayat (1).
 34. Ketentuan Pasal 106 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 106
+**Pasal 106**
 
 - (1) Pelaku Usaha yang melakukan kegiatan usaha Perdagangan tidak memenuhi Perizinan Berusaha di bidang Perdagangan sebagaimana dimaksud dalam Pasal 24 ayat (1) dipidana dengan pidana penjara paling lama 4 (empat) tahun atau pidana denda paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah).
 2. (21 Dikecualikan dari pengenaan sanksi pidana sebagaimana dimaksud pada ayat (1) terhadap pelanggaran yang dilakukan oleh Pelaku Usaha yang melakukan usaha dan/atau kegiatan berisiko rendah atau menengah.
@@ -7126,11 +7132,11 @@ Ketentuan lebih lanjut mengenai pelaksanaan pengawasan kegiatan Perdagangan dan 
 
 <!-- image -->
 
-## PRESIDEN EUK INDONESIA
+**PRESIDEN EUK INDONESIA**
 
 -299-
 
-## Pasal 109
+**Pasal 109**
 
 Produsen atau Importir yang memperdagangkan Barang terkait dengan keamanan, keselamatan, kesehatan, dan/atau lingkungan hidup yang tidak didaftarkan kepada Pemerintah Pusat sebagaimana dimaksud dalam Pasal 32 ayat (1) yang mengakibatkan timbulnya korban/kerusakan terhadap keamanan, keselamatan, kesehatan, dan/atau lingkungan hidup dipidana dengan pidana penjara paling lama 1 (satu) tahun dan/atau pidana denda paling banyak RpS.000.000.000,00 (lima miliar rupiah).
 
@@ -7140,7 +7146,7 @@ Pasal 1 16
 
 Setiap Pelaku Usaha yang menyelenggarakan pameran dagang dengan mengikutsertakan peserta dan/atau produk yang dipromosikan berasal dari luar negeri yang tidak mendapatkan Perizinan Berusaha dari Pemerintah Pusat sebagaimana dimaksud dalam Pasal 77 ayat (21 dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan/atau pidana denda paling banyak RpS.000.000.000,00 (lima miliar rupiah).
 
-## Pasal 47
+**Pasal 47**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 2 Tahun 1981 tentang Metrologi Legal (Lembaran Negara Republik Indonesia Tahun 1981 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3193) diubah sebagai berikut:
 
@@ -7159,19 +7165,19 @@ a.pengujian...
 - c. tempat dan daerah dilaksanakan tera dan Tera Ulang Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan untuk jenis tertentu.
 4. 2 Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 17
+**Pasal 17**
 
 - (1) Setiap pelaku usaha yang membuat dan/atau memperbaiki Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Setiap pelaku usaha yang melakukan impor Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan ke dalam wilayah Republik Indonesia harus memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 3. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 18
+**Pasal 18**
 
 Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud dalam Pasal 17 diatur dalam Peraturan Pemerintah.
 
 - Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal24
+**Pasal24**
 
 Ketentuan lebih lanjut mengenai barang dalam keadaan terbungkus sebagaimana dimaksud dalam Pasal 22 dan Pasal 23 diatur dalam Peraturan Pemerintah.
 
@@ -7179,17 +7185,17 @@ Pasal48...
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 -301-
 
-## Pasal 48
+**Pasal 48**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 33 Tahun 2Ol4 tentang Jaminan Produk Halal (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 295, Tambahan Lembaran Negara Republik Indonesia Nomor 5604) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -7205,7 +7211,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -302-
 
@@ -7217,7 +7223,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 15. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang agama.
 7. 2 Di antara Pasal 4 dan Pasal 5 disisipkan 1 (satu) pasal, yakni Pasal 4A sehingga berbunyi sebagai berikut:
 
-## Pasal 4A
+**Pasal 4A**
 
 - (1) Untuk Pelaku Usaha mikro dan kecil, kewajiban bersertifikat halal sebagaimana dimaksud dalam Pasal 4 didasarkan atas pernyataan halal Pelaku Usaha mikro dan kecil.
 - (2) Pernyataan halal Pelaku Usaha mikro dan kecil sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan standar halal yang ditetapkan oleh BPJPH.
@@ -7228,7 +7234,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 - 3 Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 5
+**Pasal 5**
 
 - (1) Pemerintah bertanggung jawab dalam menyelenggarakan JPH.
 2. (21 Penyelenggaraan JPH sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Menteri.
@@ -7237,7 +7243,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (5) Ketentuan mengenai tugas, fungsi, dan susunan organisasi BPJPH diatur dalam Peraturan Presiden.
 6. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 7
+**Pasal 7**
 
 - (1) Dalam melaksanakan wewenang sebagaimana dimaksud dalam Pasal 6, BPJPH bekerja sama dengan:
 - a. kementerian dan/atau lembaga terkait;
@@ -7246,32 +7252,32 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (2) Selain kerja sama sebagaimana dimaksud pada ayat (1), BPJPH dapat bekerja sama dengan pergurLran tinggi.
 6. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai berikut: 5
 
-## Pasal 10
+**Pasal 10**
 
 - (1) Kerja sama BPJPH dengan MUI, MUI Provinsi, MUI Kabupaten/Kota, atau Majelis Permusyawaratan Ulama Aceh sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf c dilakukan dalam hal penetapan kehalalan Produk.
 
 <!-- image -->
 
-## REPUBLTK TNDONESIA
+**REPUBLTK TNDONESIA**
 
 -304-
 
 - (2) Penetapan kehalalan Produk sebagaimana dimaksud pada ayat (1) diterbitkan oleh MUI, MUI Provinsi, MUI Kabupaten/Kota, dan Majelis Permusyawaratan Ulama Aceh dalam bentuk Keputusan Penetapan Halal Produk.
 6. Di antara Pasal 10 dan Pasal 11 disisipkan 1 (satu) pasal, yakni Pasal 10A sehingga berbunyi sebagai berikut:
 
-## Pasal 10A
+**Pasal 10A**
 
 Kerja sama BPJPH dengan perguruan tinggi sebagaimana dimaksud dalam Pasal 7 ayat (21 dilakukan untuk sosialisasi, edukasi, dan publikasi Produk Halal.
 
 - 7 Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 1
+**Pasal 1 1**
 
 Ketentuan lebih lanjut mengenai kerja sarna sebagaimana dimaksud dalam Pasal 7, Pasal 8, Pasal 9, Pasal 10, dan Pasal 10A diatur dalam Peraturan Pemerintah.
 
 8. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 13
+**Pasal 13**
 
 - (1) Untuk mendirikan LPH sebagaimana dimaksud dalam Pasal 12, harus mengajukan akreditasi kepada BPJPH dengan memenuhi persyaratan:
 - a. memiliki kantor sendiri dan perlengkapannya;
@@ -7281,14 +7287,14 @@ Ketentuan lebih lanjut mengenai kerja sarna sebagaimana dimaksud dalam Pasal 7, 
 
 <!-- image -->
 
-## PRESTDEN REPUELIK INDONESIA
+**PRESTDEN REPUELIK INDONESIA**
 
 -305-
 
 - (3) Dalam hal suatu daerah tidak terdapat LPH yang didirikan oleh masyarakat sebagaimana dimaksud pada ayat (2),, lembaga keagamaan Islam berbadan hukum dan perguruan tinggi swasta yang berada di bawah naungan lembaga keagamaan Islam berbadan hukum atau yayasan Islam berbadan hukum dapat bekerja sama dengan badan usaha milik negara atau Badan Pengawas Obat dan Makanan.
 2. 9 Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 14
+**Pasal 14**
 
 - (1) Auditor Halal sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf b diangkat dan diberhentikan oleh LPH.
 - (2) Pengangkatan Auditor Halal oleh LPH sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan:
@@ -7307,19 +7313,19 @@ Ketentuan lebih lanjut mengenai LPH dan Auditor Halal diatur dalam Peraturan Pem
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -306-
 
 11. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal22
+**Pasal22**
 
 - (1) Pelaku Usaha yang tidak memisahkan lokasi, tempat, dan alat PPH sebagaimana dimaksud dalam Pasal 21 ayat (1) atau ayat (21 dikenai sanksi administratif.
 2. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 12. Ketentuan Pasal 25 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 25
+**Pasal 25**
 
 Pelaku Usaha yang telah memperoleh Sertifikat Halal wajib:
 
@@ -7330,7 +7336,7 @@ Pelaku Usaha yang telah memperoleh Sertifikat Halal wajib:
 - e. melaporkan perubahan komposisi Bahan dan/atau PPH kepada BPJPH.
 13. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal27
+**Pasal27**
 
 - (1) Pelaku Usaha yang tidak melakukan kewajiban sebagaimana dimaksud dalam Pasal 25 atau Pasal 26 ayat (2) dikenai sanksi administratif.
 2. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
@@ -7341,7 +7347,7 @@ Pelaku Usaha yang telah memperoleh Sertifikat Halal wajib:
 
 - t4. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 28
+**Pasal 28**
 
 - (1) Penyelia Halal sebagaimana dimaksud dalam Pasal 24 huruf c bertugas:
 - a. mengawasi PPH di perusahaan;
@@ -7356,7 +7362,7 @@ Pelaku Usaha yang telah memperoleh Sertifikat Halal wajib:
 - (5) Ketentuan lebih lanjut mengenai Penyelia Halal diatur dalam Peraturan Pemerintah.
 15. Ketentuan Pasal 29 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 29
+**Pasal 29**
 
 - (1) Permohonan Sertifikat Halal diajukan oleh Pelaku Usaha kepada BPJPH.
 2. (21 Permohonan Sertifikat Halal harus dilengkapi dengan dokumen:
@@ -7370,7 +7376,7 @@ Pelaku Usaha yang telah memperoleh Sertifikat Halal wajib:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -308-
 
@@ -7396,19 +7402,19 @@ Pasal 3 1
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -309-
 
 18. Ketentuan Pasal 32 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 32
+**Pasal 32**
 
 LPH menyerahkan hasil pemeriksaan dan/atau pengujian kehalalan Produk kepada MUI, MUI Provinsi, MUI Kabupatenf Kota, atau Majetis Permusyawaratan Ulama Aceh dengan tembusan yang dikirimkan kepada BPJPH, melalui sistem elektronik terintegrasi.
 
 19. Ketentuan Pasal 33 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 33
+**Pasal 33**
 
 - (1) Penetapan kehalalan Produk dilakukan oleh MUI, MUI Provinsi, MUI Kabupatenf Kota, atau Majelis Permusyawaratan Ulama Aceh.
 2. (21 Penetapan kehalalan Produk sebagaimana dimaksud pada ayat (1) dilakukan dalam Sidang Fatwa Halal.
@@ -7420,7 +7426,7 @@ LPH menyerahkan hasil pemeriksaan dan/atau pengujian kehalalan Produk kepada MUI
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -310-
 
@@ -7428,7 +7434,7 @@ LPH menyerahkan hasil pemeriksaan dan/atau pengujian kehalalan Produk kepada MUI
 2. (71 Ketentuan lebih lanjut mengenai penetapan kehalalan Produk sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 20. Di antara Pasal 33 dan Pasal 34 disisipkan 2 (dua) pasal, yakni Pasal 33A dan Pasal 33B sehingga berbunyi sebagai berikut:
 
-## Pasal 33A
+**Pasal 33A**
 
 - (1) Dalam hal permohonan sertifikasi halal dilakukan oleh Pelaku Usaha mikro dan kecil melalui pernyataan halal, penetapan kehalalan Produk dilakukan oleh Komite Fatwa Produk Halal berdasarkan ketentuan Fatwa Halal.
 2. (21 Penetapan kehalalan Produk oleh Komite Fatwa Produk Halal sebagaimana dimaksud pada ayat (1) dilakukan paling lama 1 (satu) hari kerja sejak diterimanya hasil pendampingan PPH.
@@ -7436,7 +7442,7 @@ LPH menyerahkan hasil pemeriksaan dan/atau pengujian kehalalan Produk kepada MUI
 - (4) Berdasarkan penetapan kehalalan Produk sebagaimana dimaksud pada ayat (21, BPJPH menerbitkan Sertifikat Halal.
 - (5) Ketentuan lebih lanjut mengenai penetapan kehalalan Produk sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## Pasal 338
+**Pasal 338**
 
 - (1) Komite Fatwa Produk Halal dibentuk dan bertanggung jawab kepada Menteri.
 2. (21 Komite Fatwa Produk Halal terdiri atas unsur:
@@ -7446,35 +7452,35 @@ LPH menyerahkan hasil pemeriksaan dan/atau pengujian kehalalan Produk kepada MUI
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 - 311 -
 
-## Pasal 35
+**Pasal 35**
 
 Sertifikat Halal sebagaimana dimaksud dalam Pasal 33A ayat (4) dan Pasal 34 ayat (1) diterbitkan oleh BPJPH paling lama 1 (satu) hari kerja terhitung sejak penetapan kehalalan Produk diterima oleh BPJPH.
 
 22. Di antara Pasal 35 dan Pasal 36 disisipkan 1 (satu) pasal, yakni Pasal 35A sehingga berbunyi sebagai berikut:
 
-## Pasal 35A
+**Pasal 35A**
 
 Apabila LPH tidak dapat memenuhi batas waktu yang telah ditetapkan dalam proses sertifikasi halal, LPH tersebut akan dievaluasi dan/atau dikenai sanksi administratif.
 
 23. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 40
+**Pasal 40**
 
 Ketentuan lebih lanjut mengenai Label Halal diatur dalam Peraturan Pemerintah.
 
 24. Ketentuan Pasal 41 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 4 1
+**Pasal 4 1**
 
 - (21 Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 - (1) Pelaku Usaha yang mencantumkan Label Halal tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 38 atau Pasal 39 dikenai sanksi administratif.
 25. Ketentuan Pasal 42 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal42
+**Pasal42**
 
 - (21 Dalam hal terdapat perubahan komposisi Bahan dan/atau PPH, Pelaku Usaha wajib memperbarui Sertifikat Halal.
 - (1) Sertifikat Ha1al berlaku sejak diterbitkan oleh BPJPH dan tetap berlaku sepanjang tidak terdapat perubahan komposisi Bahan dan/atau PPH.
@@ -7488,19 +7494,19 @@ Ketentuan lebih lanjut mengenai Label Halal diatur dalam Peraturan Pemerintah.
 - (3) Ketentuan lebih lanjut mengenai pembaruan Sertifikat Halal sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
 26. Ketentuan Pasal 44 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 44
+**Pasal 44**
 
 - (1) Biaya sertifikasi halal dibebankan kepada Pelaku Usaha yang mengajukan permohonan sertifikasi halal.
 - (2) Dalam hal permohonan sertifikasi halal sebagaimana dimaksud pada ayat (1) diajukan oleh Pelaku Usaha mikro dan kecil melalui pernyataan halal, tidak dikenai biaya.
 27. Ketentuan Pasal 48 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 48
+**Pasal 48**
 
 - (1) Pelaku Usaha yang tidak melakukan registrasi sebagaimana dimaksud dalam Pasal 47 ayat (31 dikenai sanksi administratif.
 2. (21 Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 28. Ketentuan Pasal 50 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 50
+**Pasal 50**
 
 Pengawasan JPH dilakukan terhadap:
 
@@ -7514,18 +7520,18 @@ Pengawasan JPH dilakukan terhadap:
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## BLIK INDONESIA
+**BLIK INDONESIA**
 
 -313-
 
 29. Di antara BAB VII dan BAB VIII disisipkan 2 (dua) bab dan 2 (dua) pasal, yakni BAB VIIA dan BAB VIIB serta Pasal 52A dan Pasal 52B sehingga berbunyi sebagai
 2. berikut:
 
-## BAB VIIA LAYANAN PENYELENGGARAAN JAMINAN PRODUK HALAL BERBASIS ELEKTRONIK
+**BAB VIIA LAYANAN PENYELENGGARAAN JAMINAN PRODUK HALAL BERBASIS ELEKTRONIK**
 
-## Pasal 52A
+**Pasal 52A**
 
 - (2) Sistem elektronik terintegrasi sebagaimana dimaksud pada ayat (1) menghubungkan proses layanan sertifikasi halal yang dilakukan oleh:
 - (1) Layanan penyelenggaraan JPH wajib menggunakan sistem elektronik terintegrasi.
@@ -7537,9 +7543,9 @@ Pengawasan JPH dilakukan terhadap:
 8. e pendamping PPH.
 9. (41 Sistem elektronik terintegrasi sebagaimana dimaksud pada ayat (1) dikelola oleh BPJPH.
 
-## BAB VTIB SUMBER PENDANAAN
+**BAB VTIB SUMBER PENDANAAN**
 
-## Pasal 52El
+**Pasal 52El**
 
 - a anggaran pendapatan dan belanja negara;
 
@@ -7552,11 +7558,11 @@ Pendanaan pelaksanaan Undang-Undang ini bersumber dari:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -314-
 
-## Pasal 53
+**Pasal 53**
 
 - (21 Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat berupa:
 - (1) Masyarakat dapat berperan serta dalam penyelenggaraan JPH.
@@ -7567,36 +7573,36 @@ Pendanaan pelaksanaan Undang-Undang ini bersumber dari:
 - (3) Peran serta masyarakat berupa pengawasan Produk Halal yang beredar sebagaimana dimaksud pada ayat (2) huruf d berbentuk pengaduan atau pelaporan ke BPJPH.
 31. Ketentuan Pasal 55 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 55
+**Pasal 55**
 
 Ketentuan lebih lanjut mengenai tata cara peran serta masyarakat dan pemberian penghargaan diatur dalam Peraturan Pemerintah.
 
 32. Di antara Pasal 63 dan Pasal 64 disisipkan 3 (tiga) pasal, yakni Pasal 63A, Pasal 638, dan Pasal 63C sehingga berbunyi sebagai berikut:
 
-## Pasal 63A
+**Pasal 63A**
 
 Pelaksanaan layanan penyelenggaraan JPH menggunakan sistem elektronik terintegrasi sebagaimana dimaksud dalam Pasal 52A dibangun secara bertahap paling lambat 1 (satu) tahun sejak Undang-Undang ini diundangkan.
 
-## Pasal 63E}
+**Pasal 63E}**
 
 Sertifikat Halal yang telah diterbitkan oleh BPJPH sebelum Undang-Undang ini berlaku dinyatakan tetap berlaku sepanjang tidak terdapat perubahan komposisi Bahan dan/atau PPH.
 
-## Pasal 63C
+**Pasal 63C**
 
 - (2) Pemerintah menjalankan tugas Komite Fatwa Produk Halal sampai dengan terbentuknya Komite Fatwa Produk Halal.
 - (1) Komite Fatwa Produk Halal sudah harus dibentuk paling lambat 1 (satu) tahun sejak UndangUndang ini diundangkan.
 
 <!-- image -->
 
-## PRESIDEN REPUELIK TNDONESIA
+**PRESIDEN REPUELIK TNDONESIA**
 
 -315-
 
-## Paragraf 9
+**Paragraf 9**
 
-## Pekerjaan Umum dan Perumahan Ralryat
+**Pekerjaan Umum dan Perumahan Ralryat**
 
-## Pasal 49
+**Pasal 49**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berusaha dan kemudahan persyaratan investasi dari sektor pekedaan umum dan perumahan ralqrat, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -7605,13 +7611,13 @@ Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatk
 - c. Undang-Undang Nomor 2 Tahun 2Ol7 tentang Jasa Konstruksi (Lembaran Negara Republik Indonesia Tahun 2Ol7 Nomor 1 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6018); dan
 - d. Undang-Undang Nomor 17 Tahun 2Ol9 tentang Sumber Daya Air (Lembaran Negara Republik Indonesia Tahun 2Ol9 Nomor 190, Tambahan Lembaran Negara Republik Indonesia Nomor 6405).
 
-## Pasal 50
+**Pasal 50**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 1 Tahun 2OLl tentang Perumahan dan Kawasan Permukiman (Lembaran Negara Republik Indonesia Tahun 2oll Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 5188) diubah sebagai berikut:
 
 - Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 26
+**Pasal 26**
 
 - (21 Standar sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 - (1) Hasil perencanaan dan perancangan Rumah harus memenuhi standar.
@@ -7619,11 +7625,11 @@ Beberapa ketentuan dalam Undang-Undang Nomor 1 Tahun 2OLl tentang Perumahan dan 
 
 <!-- image -->
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 -316-
 
-## Pasal 29
+**Pasal 29**
 
 - (1) Perencanaan Prasarana, Sarana, dan Utilitas Umum sebagaimana dimaksud dalam Pasal 28 harus memenuhi standar.
 2. (21 Ketentuan lebih lanjut mengenai standar sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -7635,7 +7641,7 @@ Pasal 33
 - (1) Pemerintah Pusat dan Pemerintah Daerah wajib memberikan kemudahan Perizinan Berusaha bagi Badan Hukum yang mengajukan rencana pembangunan Perumahan untuk MBR.
 4. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+**Pasal 35**
 
 Pembangunan Perumahan skala besar dengan hunian berimbang meliputi Rumah sederhana, Rumah menengah, dan Rumah mewah.
 
@@ -7652,7 +7658,7 @@ Pasal 36
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -3t7 -
 
@@ -7668,7 +7674,7 @@ Pasal 40
 - b. melakukan koordinasi dalam proses perizinan dan pemastian kelayakan hunian.
 - Ketentuan Pasal 42 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal42
+**Pasal42**
 
 - (21 Perjanjian pendahuluan jual beli sebagaimana dimaksud pada ayat (1) dilakukan setelah memenuhi persyaratan kepastian atas:
 - (1) Rumah tunggal, Rumah deret, dan/atau Rumah susun yang masih dalam tahap pembangunan dapat dipasarkan melalui sistem perjanjian pendahuluan jual beli sesuai dengan ketentuan peraturan perundang-undangan.
@@ -7681,13 +7687,13 @@ Pasal 40
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -318-
 
 - 8 Ketentuan Pasal 53 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 53
+**Pasal 53**
 
 - (1) Pengendalian Perumahan dilakukan mulai dari tahap:
 - a. perencanaan;
@@ -7700,7 +7706,7 @@ Pasal 40
 - (3) Ketentuan lebih lanjut mengenai pengendalian Perumahan sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 10. Ketentuan Pasal 55 diubah sehingga berbunyi sebagai berikut: 9
 
-## Pasal 55
+**Pasal 55**
 
 - (1) Orang perseorangan yang memiliki Rumah Umum dengan kemudahan yang diberikan Pemerintah Pusat atau Pemerintah Daerah hanya dapat menyewakan dan/atau mengalihkan kepemilikannya atas Rumah kepada pihak lain dalam hal:
 - a. pewarisan; atau
@@ -7719,7 +7725,7 @@ Pasal 40
 - (6) Ketentuan lebih lanjut mengenai kemudahan dan/atau bantuan pembangunan dan perolehan Rumah bagi MBR diatur dalam Peraturan Pemerintah.
 10. Ketentuan Pasal 1O7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 107
+**Pasal 107**
 
 - (1) Tanah yang langsung dikuasai negara sebagaimana dimaksud dalam Pasal 106 huruf a yang digunakan untuk pembangunan Rumah, Perumahan, dan/atau Kawasan Permukiman diserahkan melalui pemberian hak atas tanah kepada Setiap Orang yang melakukan pembangunan Rumah, Perumahan, dan Kawasan Permukiman.
 2. (21 Pemberian hak atas tanah sebagaimana dimaksud pada ayat (1) didasarkan pada penetapan lokasi atau konfirmasi, persetujuan, atau rekomendasi kesesuaian kegiatan pemanfaatan ruang.
@@ -7746,11 +7752,11 @@ Pasal 1 14
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -32t-
 
-## Pasal 1 14
+**Pasal 1 14**
 
 - (1) Peralihan atau pelepasan hak atas tanah sebagaimana dimaksud dalam Pasal 106 huruf c dilakukan setelah Badan Hukum memperoleh konfirmasi, persetujuan, atau rekomendasi kesesuaian kegiatan pemanfaatan ruang.
 2. (21 Peralihan hak atas tanah sebagaimana dimaksud pada ayat (1) dibuat di hadapan pejabat pembuat akta tanah setelah tercapai kesepakatan bersama.
@@ -7758,11 +7764,11 @@ Pasal 1 14
 4. (41 Peralihan hak atas tanah atau pelepasan hak atas tanah sebagaimana dimaksud pada ayat (2) dan ayat (3) wajib didaftarkan pada kantor pertanahan kabupaten/kota sesuai dengan ketentuan peraturan perundang-undangan.
 13. Di antara BAB IX dan BAB X disisipkan 1 (satu) bab, yakni BAB IXA dan di antara Pasal 117 dan Pasal 118 disisipkan 2 (dua) pasal, yakni Pasal llTA dan Pasal LITB sehingga berbunyi sebagai berikut:
 
-## BAB IXA
+**BAB IXA**
 
-## BADAN PERCEPATAN PEI{YELENGGARAAN PERUMAHAN
+**BADAN PERCEPATAN PEI{YELENGGARAAN PERUMAHAN**
 
-## Pasal ll7A
+**Pasal ll7A**
 
 - (1) Untuk mewujudkan penyediaan Rumah Umum yang layak dan terjangkau bagi MBR, Pemerintah Pusat membentuk badan percepatan penyelenggaraan Perumahan.
 - (2) Pembentukan badan percepatan penyelenggaraan Perumahan sebagaimana dimaksud pada ayat (1) bertujuan untuk:
@@ -7788,7 +7794,7 @@ d.melaksanakan...
 - g. menyelenggarakan koordinasi operasional lintas sektor, termasuk dalam penyediaan Prasarana, Sarana, dan Utilitas Umum; dan
 - h. melakukan pengembangan hubungan kerja sama di bidang Rumah susun dengan berbagai instansi di dalam dan di luar negeri.
 
-## Pasal llTB
+**Pasal llTB**
 
 - (1) Badan percepatan penyelenggaraan Perumahan sebagaimana dimaksud dalam Pasal llTA terdiri atas:
 - a. unsur pembina;
@@ -7804,13 +7810,13 @@ d.melaksanakan...
 - (4) Unsur pembina, unsur pelaksana, dan unsur pengawas sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Presiden.
 14. Ketentuan Pasal 134 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 134
+**Pasal 134**
 
 Setiap Orang dilarang menyelenggarakan pembangunan Perrrmahan yang tidak sesuai dengan kriteria, spesifikasi, persyaratan, Prasarana, Sarana, dan Utilitas Umum yang diperjanjikan.
 
 15. Ketentuan Pasal 150 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 150
+**Pasal 150**
 
 - (1) Setiap Orang yang menyelenggarakan Perumahan dan Kawasan Permukiman yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 26 ayat (1), Pasal 29 ayat (1), Pasal 30 ayat (2), Pasal 34 ayat (1) atau ayat (21, Pasal 36 ayat (1), ayat (2) atau ayat (4), Pasal 38 ayat (4), Pasal 45, Pasal 47 ayat (21, ayat (3), atau ayat (4), Pasal 49 ayat (21, Pasal63, Pasal 7l ayat (1), Pasal 126 ayat (2), Pasal 134, Pasal 135, Pasal 136, Pasal 137, Pasal 138, Pasal 139, Pasal 140, Pasal 141, Pasal 142, Pasal 143, Pasal 144, Pasal 145, atau Pasal 146 ayat (1) dikenai sanksi administratif.
 
@@ -7844,7 +7850,7 @@ Setiap Orang dilarang menyelenggarakan pembangunan Perrrmahan yang tidak sesuai 
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -325-
 
@@ -7866,17 +7872,17 @@ Pasal51...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -326-
 
-## Pasal 51
+**Pasal 51**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 20 Tahun 2oll tentang Rumah Susun (Lembaran Negara Republik Indonesia Tahun 2oll Nomor 108, Tambahan Lembaran Negara Republik Indonesia Nomor 5252) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 16 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 16
+**Pasal 16**
 
 - (1) Pembangunan Rumah Susun Komersial sebagaimana dimaksud dalam Pasal 13 ayat (21 dapat dilaksanakan oleh Setiap Orang.
 2. (2') Pelaku Pembangunan Rumah Susun Komersial sebagaimana dimaksud pada ayat (1) wajib menyediakan Rumah Susun Umum paling sedikit 2oo/o (dua puluh persen) dari total luas lantai Rumah Susun Komersial yang dibangun.
@@ -7888,7 +7894,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 20 Tahun 2oll tentang Rumah Susun (
 
 <!-- image -->
 
-## PRESIDEN ELIK INDONESIA
+**PRESIDEN ELIK INDONESIA**
 
 -327 -
 
@@ -7903,7 +7909,7 @@ Pasal24
 5. (21 Ketentuan lebih lanjut mengenai standar pembangunan Rumah Susun sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 3. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26
+**Pasal 26**
 
 - (1) Pemisahan Rumah Susun sebagaimana dimaksud dalam Pasal 25 ayat (1) wajib dituangkan dalam bentuk gambar dan uraian.
 2. (21 Gambar dan uraian sebagaimana dimaksud pada ayat (1) dibuat sebelum pelaksanaan pembangunan Rumah Susun.
@@ -7913,11 +7919,11 @@ Pasal24
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -328-
 
-## Pasal 28
+**Pasal 28**
 
 Dalam melakukan pembangunan Rumah Susun, Pelaku Pembangunan harus memenuhi ketentuan administratif yang meliputi:
 
@@ -7938,11 +7944,11 @@ Pasal 3 1
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -329-
 
-## Pasal 31
+**Pasal 31**
 
 - (1) Pengubahan rencana fungsi dan pemanfaatan Rumah Susun sebagaimana dimaksud dalam Pasal 29 ayat (2) harus memenuhi Perizinan Berusaha dari bupati/wali kota sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Khusus untuk Provinsi Daerah Khusus Ibukota Jakarta, pengubahan rencana fungsi dan pemanfaatan Rumah Susun sebagaimana dimaksud pada ayat (1) harus memenuhi Perizinan Berusaha dari gubernur sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
@@ -7970,7 +7976,7 @@ Pasal 39
 - (3) Pemerintah Daerah menerbitkan sertifikat laik fungsi setelah melakukan pemeriksaan kelaikan fungsi bangunan Rumah Susun sesuai dengan ketentuan peraturan perundang-undangan.
 11. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 40
+**Pasal 40**
 
 - (1) Pelaku Pembangunan wajib melengkapi lingkungan Rumah Susun dengan prasarana, sarana, dan utilitas umum.
 2. (21 Prasarana, sarana, dan utilitas umum sebagaimana dimaksud pada ayat (1) harus mempertimbangkan:
@@ -7985,11 +7991,11 @@ Pasal 43
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -331-
 
-## Pasal 43
+**Pasal 43**
 
 - (1) Proses jual beli Sarusun sebelum pembangunan Rumah Susun selesai dapat dilakukan melalui PPJB yang dibuat di hadapan notaris.
 2. (21 PPJB sebagaimana dimaksud pada ayat (1) dilakukan setelah memenuhi persyaratan kepastian atas:
@@ -8000,7 +8006,7 @@ Pasal 43
 - e. hal yang diperjanjikan.
 13. Ketentuan Pasal 54 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 54
+**Pasal 54**
 
 - (1) Sarusun umum yang memperoleh kemudahan dari pemerintah hanya dapat dimiliki atau disewa oleh MBR.
 2. (21 Setiap Orang yang memiliki Sarusun umum sebagaimana dimaksud pada ayat (1) hanya dapat mengalihkan kepemilikannya kepada pihak lain dalam hal:
@@ -8011,13 +8017,13 @@ Pasal 43
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -332-
 
 14. Ketentuan Pasal 56 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56
+**Pasal 56**
 
 - (1) Pengelolaan Rumah Susun meliputi kegiatan operasional, pemeliharaan, dan perawatan Bagian Bersama, Benda Bersama, dan Tanah Bersama.
 2. (21 Pengelolaan Rumah Susun sebagaimana dimaksud pada ayat (1) harus dilaksanakan oleh Pengelola yang berbadan hukum, kecuali Rumah Susun Umum sewa, Rumah Susun Khusus, dan Rumah Susun Negara.
@@ -8026,7 +8032,7 @@ Pasal 43
 - (5) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (3) dan ayat (4) diatur dalam Peraturan Pemerintah.
 15. Ketentuan Pasal 67 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 67
+**Pasal 67**
 
 - (1) Dalam pelaksanaan peningkatan kualitas Rumah Susun sebagaimana dimaksud dalam Pasal 65 ayat (1) huruf a, PPPSRS dapat bekerja sama dengan Pelaku Pembangunan.
 
@@ -8042,13 +8048,13 @@ Pasal 43
 17. Pasal 73 dihapus.
 18. Ketentuan Pasal 107 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 107
+**Pasal 107**
 
 Setiap Orang yang menyelenggarakan Rumah Susun tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 16 ayat (2), Pasal 22 ayat (3), Pasal 25 ayat (1), Pasal 26 ayat (1), Pasal 39 ayat (1), Pasal 40 ayat (1), Pasal 51 ayat (3), Pasal 52, Pasal 59 ayat (1), Pasal 61 ayat (1), Pasal 66, PasalT4 ayat (1), Pasal 98, Pasal 100, atau Pasal 101 dikenai sanksi administratif.
 
 19. Ketentuan Pasal 108 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 108
+**Pasal 108**
 
 - (1) Sanksi administratif sebagaimana dimaksud dalam Pasal 107 dapat berupa:
 - a. peringatan tertulis;
@@ -8059,7 +8065,7 @@ d. penghentian
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -334-
 
@@ -8091,7 +8097,7 @@ Setiap Orang yang:
 
 23. Ketentuan Pasal 114 berikut: diubah sehingga berbunyi sebagai
 
-## Pasal 1 14
+**Pasal 1 14**
 
 Setiap pejabat yang:
 
@@ -8102,14 +8108,14 @@ sebagaimana dimaksud dalam Pasal lO2, dipidana dengan pidana penjara paling lama
 
 24. Ketentuan Pasal 117 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 17
+**Pasal 1 17**
 
 - (1) Dalam hal perbuatan sebagaimana dimaksud dalam Pasal 109, Pasal 111, Pasal 115 atau Pasal 116 dilakukan oleh Badan Hukum, selain pidana penjara dan pidana denda terhadap pengurusnya, pidana dapat dijatuhkan terhadap Badan Hukum berupa pidana denda dengan pemberatan 3 (tiga) kali dari pidana denda terhadap orang.
 2. (21 Selain pidana denda sebagaimana dimaksud pada ayat (1), Badan Hukum dapat dijatuhi pidana tambahan berupa:
 - a. pencabutan Perizinan Berrrsaha; atau
 - b. pencabutan status Badan Hukum.
 
-## Pasal 52
+**Pasal 52**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 2 Tahun 2Ol7 tentang Jasa Konstruksi (Lembaran Negara Republik Indonesia Tahun 2Ol7 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 6018) diubah sebagai berikut:
 
@@ -8121,7 +8127,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 2 Tahun 2Ol7 tentang Jasa Konstruks
 
 - 1 Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 5
+**Pasal 5**
 
 - (1) Dalam melaksanakan tanggung jawab sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a, Pemerintah Pusat memiliki kewenangan:
 - a. mengembangkan struktur usaha Jasa Konstruksi;
@@ -8161,7 +8167,7 @@ b. menyelenggarakan.
 
 <!-- image -->
 
-## REPUBLTK TNDONESIA
+**REPUBLTK TNDONESIA**
 
 -338-
 
@@ -8213,7 +8219,7 @@ k.membentuk...
 - b. mengumpulkan data dan informasi Jasa Konstruksi nasional dan internasional.
 8. 2 Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 6
+**Pasal 6**
 
 - (1) Dalam melaksanakan tanggung jawab sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a, gubernur sebagai wakil Pemerintah Pusat di daerah sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat memiliki kewenangan:
 - a. memberdayakan badan usaha Jasa Konstruksi;
@@ -8239,7 +8245,7 @@ k.membentuk...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -342-
 
@@ -8257,7 +8263,7 @@ k.membentuk...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -343-
 
@@ -8285,11 +8291,11 @@ Pasal9...
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -344-
 
-## Pasal 9
+**Pasal 9**
 
 Dalam melaksanakan kewenangan sebagaimana dimaksud dalam Pasal 5 sampai dengan Pasal 8, Pemerintah Pusat dan/atau Pemerintah Daerah sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat dapat melibatkan masyarakat Jasa Konstruksi.
 
@@ -8301,7 +8307,7 @@ Ketentuan lebih lanjut mengenai tanggung jawab dan kewenangan serta Perizinan Be
 
 - Ketentuan Pasal 20 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal 20
+**Pasal 20**
 
 - (1) Kualifikasi usaha bagi badan usaha sebagaimana dimaksud dalam Pasal 19 terdiri atas:
 - a. kecil;
@@ -8317,7 +8323,7 @@ Ketentuan lebih lanjut mengenai tanggung jawab dan kewenangan serta Perizinan Be
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -345-
 
@@ -8341,11 +8347,11 @@ Pasal28...
 
 <!-- image -->
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 -346-
 
-## Pasal 28
+**Pasal 28**
 
 Perizinan Berusaha sebagaimana dimaksud dalam Pasal 26 ayat (ll diberikan oleh Pemerintah Daerah kabupaten/kota sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat kepada badan usaha yang berdomisili di wilayahnya sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -8368,13 +8374,13 @@ Pasal 30
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -347-
 
 14. Ketentuan Pasal 33 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 33
+**Pasal 33**
 
 - (1) Kantor perwakilan sebagaimana dimaksud dalam Pasal 32 huruf a wajib:
 - a. berbentuk badan usaha dengan kualifikasi yang setara dengan kualifikasi besar;
@@ -8394,11 +8400,11 @@ Pasal34...
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 -348-
 
-## Pasal 34
+**Pasal 34**
 
 - (1) Ketentuan mengenai kerja sama modal sebagaimana dimaksud dalam Pasal 32 huruf b dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 - (2) Badan usaha Jasa Konstruksi yang dibentuk dalam rangka kerja sama modal sebagaimana dimaksud dalam Pasal 32 huruf b harus memenuhi persyaratan kualifikasi besar sebagaimana dimaksud dalam Pasal 20 ayat (1) huruf c.
@@ -8406,14 +8412,14 @@ Pasal34...
 4. (41 Perizinan Berusaha sebagaimana dimaksud pada ayat (3) diberikan oleh Pemerintah Pusat sesuai dengan ketentuan peraturan perundangundangan.
 16. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+**Pasal 35**
 
 Ketentuan lebih lanjut mengenai pemberian Perizinan Berrrsaha, tata cara kerja sarna operasi, dan penggunaan lebih banyak tenaga kerja Indonesia, sebagaimana dimaksud dalam Pasal 33 ayat (1) huruf b, huruf c, huruf d, dan pemberian Perizinan Berusaha sebagaimana dimaksud dalam Pasal 34 ayat (4) diatur dalam Peraturan Pemerintah.
 
 17. Pasal 36 dihapus.
 18. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 - (1) Penyelenggaraan Jasa Konstruksi dilakukan melalui penyelenggaraan usaha Jasa Konstrrrksi.
 - (2) Penyelenggaraan. .
@@ -8427,7 +8433,7 @@ Ketentuan lebih lanjut mengenai pemberian Perizinan Berrrsaha, tata cara kerja s
 19. Pasal 42 dihapus.
 20. Ketentuan Pasal 44 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 44
+**Pasal 44**
 
 Pengguna Jasa sebagaimana dimaksud dalam Pasal 39 ayat (2) dilarang menggunakan Penyedia Jasa yang terafiliasi pada pembangunan untuk kepentingan umum tanpa melalui tender, seleksi, atau katalog elektronik.
 
@@ -8435,7 +8441,7 @@ Pengguna Jasa sebagaimana dimaksud dalam Pasal 39 ayat (2) dilarang menggunakan 
 22. Pasal 58 dihapus.
 23. Ketentuan Pasal 59 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 59
+**Pasal 59**
 
 - (1) Dalam setiap penyelenggaraan Jasa Konstruksi, Pengguna Jasa dan Penyedia Jasa wajib memenuhi Standar Keamanan, Keselamatan, Kesehatan, dan Keberlanjutan.
 
@@ -8443,14 +8449,14 @@ Pengguna Jasa sebagaimana dimaksud dalam Pasal 39 ayat (2) dilarang menggunakan 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -350-
 
 - (2) Ketentuan lebih lanjut mengenai Pengguna Jasa, dan Penyedia Jasa wajib memenuhi Standar Keamanan, Keselamatan, Kesehatan, dan Keberlanjutan dalam penyelenggaraan Jasa Konstruksi sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 24. Ketentuan Pasal 69 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 69
+**Pasal 69**
 
 - (1) Pelatihan tenaga kerja konstruksi diselenggarakan dengan metode pelatihan kerja yang relevan, efektif, dan efisien sesuai dengan standar kompetensi kerja.
 2. (21 Pelatihan sebagaimana dimaksud pada ayat (1) ditujukan untuk meningkatkan produktivitas keda.
@@ -8460,7 +8466,7 @@ Pengguna Jasa sebagaimana dimaksud dalam Pasal 39 ayat (2) dilarang menggunakan 
 - (6) Ketentuan lebih lanjut mengenai tata cara Perizinan Berusaha sebagaimana dimaksud pada ayat (5) diatur dalam Peraturan Pemerintah.
 25. Ketentuan Pasal 72 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 72
+**Pasal 72**
 
 - (1) Untuk mendapatkan pengakuan pengalaman profesional, setiap tenaga kerja konstruksi harus melakukan registrasi kepada Pemerintah Pusat.
 
@@ -8475,7 +8481,7 @@ Pengguna Jasa sebagaimana dimaksud dalam Pasal 39 ayat (2) dilarang menggunakan 
 26. Pasal 74 dihapus.
 27. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 84
+**Pasal 84**
 
 - (1) Penyelenggaraan sebagian kewenangan Pemerintah Pusat sebagaimana dimaksud dalam Pasal 5 mengikutsertakan masyarakat Jasa Konstruksi.
 - (2) Keikutsertaan masyarakat Jasa Konstruksi sebagaimana dimaksud pada ayat (1) dilakukan melalui satu lembaga yang dibentuk oleh Pemerintah Pusat.
@@ -8512,11 +8518,11 @@ Pasal96...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -353-
 
-## Pasal 96
+**Pasal 96**
 
 - (1) Setiap Penyedia Jasa dan/atau Pengguna Jasa yang tidak memenuhi Standar Keamanan, Keselamatan, Kesehatan, dan Keberlanjutan dalam penyelenggaraan Jasa Konstruksi sebagaimana dimaksud dalam Pasal 59 ayat (1) dikenai sanksi administratif berupa:
 - a. peringatan tertulis;
@@ -8535,7 +8541,7 @@ Pasal96...
 - g. pencabutan Sertifikat Badan Usaha untuk Penyedia Jasa.
 31. Ketentuan Pasal 99 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 99
+**Pasal 99**
 
 - (1) Setiap tenaga kerja konstruksi yang bekerja di bidang Jasa Konstruksi tidak memiliki Sertilikat Kompetensi Kerja sebagaimana dimaksud dalam Pasal 70 ayat (1) dikenai sanksi administratif berupa pemberhentian dari tempat kerja.
 
@@ -8562,21 +8568,21 @@ Pasal 1O2
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -355-
 
-## Pasal 102
+**Pasal 102**
 
 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud dalam Pasal 89, Pasal 90, Pasal 91, Pasal 93, Pasal 94, Pasal 95, Pasal 96, Pasal 97, Pasal 98, Pasal 99, dan Pasal 100 diatur dalam Peraturan Pemerintah.
 
-## Pasal 53
+**Pasal 53**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 17 Tahun 2Ol9 tentang Sumber Daya Air (Lembaran Negara Republik Indonesia Tahun 2OI9 Nomor 190, Tambahan Lembaran Negara Republik Indonesia Nomor 6405) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 8 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 8
+**Pasal 8**
 
 - (1) Hak rakyat atas Air yang dijamin pemenuhannya oleh negara sebagaimana dimaksud dalam Pasal 6 merupakan kebutuhan pokok minimal sehari-hari.
 - (2) Selain hak ralryat atas Air yang dijamin pemenuhannya oleh negara sebagaimana dimaksud pada ayat (1), negara memprioritaskan hak rakyat atas Air sebagai berikut:
@@ -8604,14 +8610,14 @@ Beberapa ketentuan dalam Undang-Undang Nomor 17 Tahun 2Ol9 tentang Sumber Daya A
 
 - 2 Ketentuan Pasal 9 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 9
+**Pasal 9**
 
 - (1) Atas dasar penguasaan negara terhadap Sumber Daya Air sebagaimana dimaksud dalam Pasal 5 Pemerintah Pusat dan/atau Pemerintah Daerah sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat diberi tugas dan wewenang untuk mengatur dan mengelola Sumber Daya Air.
 2. (21 Penguasaan Sumber Daya Air sebagaimana dimaksud pada ayat (1) diselenggarakan oleh Pemerintah Pusat dan/atau Pemerintah Daerah sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat dengan tetap mengakui Hak Ulayat Masyarakat Adat setempat dan hak yang serupa dengan itu sepanjang tidak bertentangan dengan kepentingan nasional dan ketentuan peraturan perundangundangan.
 - (3) Hak Ulayat Masyarakat Adat atas Sumber Daya Air sebagaimana dimaksud pada ayat (21 tetap diakui sepanjang kenyataannya masih ada dan telah diatur dalam Peraturan Daerah.
 3. Ketentuan Pasal 12 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 12
+**Pasal 12**
 
 Tugas dan wewenang Pemerintah Daerah sebagaimana dimaksud dalam Pasal 9 ayat (1) meliputi tugas dan wewenang Pemerintah Daerah provinsi dan/atau Pemerintah Daerah kabupaten/kota sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 
@@ -8657,7 +8663,7 @@ Pasal 19
 - (4) Ketentuan lebih lanjut mengenai badan usaha milik negaraf badan usaha milik daerah di bidang Pengelolaan Sumber Daya Air sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
 12. 6 Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 Tahapan Pengelolaan Sumber Daya Air meliputi:
 
@@ -8683,7 +8689,7 @@ Pasal 40
 - (6) Ketentuan lebih lanjut mengenai persetujuan atau Perizinan Berusaha sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Pemerintah.
 8. 8 Di antara ketentuan Pasal 40 dan Pasal 41 disisipkan 1 (satu) pasal, yakni Pasal 40A sehingga berbunyi sebagai berikut:
 
-## Pasal 40A
+**Pasal 40A**
 
 - (21 Selain dilakukan oleh Pemerintah Pusat dan/atau Pemerintah Daerah, kegiatan pengalihan alur sungai dapat dilakukan oleh instansi pemerintah berdasarkan persetujuan pengalihan alur sungai dari Pemerintah Pusat dan/atau Pemerintah Daerah sesuai dengan kewenangannya.
 - (1) Pelaksanaan konstruksi Sumber Air yang berupa kegiatan pengalihan alur sungai dilakukan oleh Pemerintah Pusat dan/atau Pemerintah Daerah sesuai dengan kewenangannya dalam Pengelolaan Sumber Daya Air berdasarkan program dan rencana kegiatan.
@@ -8702,7 +8708,7 @@ Pasal 40
 - (5) Ketentuan lebih lanjut mengenai persetujuan pengalihan alur sungai sebagaimana dimaksud pada ayat (41 diatur dengan Peraturan Pemerintah.
 9. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut: 9
 
-## Pasal 43
+**Pasal 43**
 
 - (1) Pemantauan Pengelolaan Sumber Daya Air dilakukan terhadap:
 - a. Perencanaan Pengelolaan Sumber Daya Air;
@@ -8720,7 +8726,7 @@ Pasal 40
 - (5) Ketentuan lebih lanjut mengenai pemantauan dan evaluasi Pengelolaan Sumber Daya Air diatur dalam Peraturan Pemerintah.
 10. Ketentuan Pasal 44 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 44
+**Pasal 44**
 
 - (21 Perizinan Berrrsaha atau persetujuan penggunaan Sumber Daya Air sebagaimana dimaksud pada ayat (1) diberikan dengan memperhatikan fungsi kawasan dan kelestarian lingkungan hidup.
 - (1) Penggunaan Sumber Daya Air sebagaimana dimaksud dalam Pasal 29 ayat (2) huruf c untuk kebutuhan usaha dan kebutuhan bukan usaha dilakukan setelah memenuhi Perizinan Berusaha atau persetujuan penggunaan Sumber Daya Air.
@@ -8736,7 +8742,7 @@ Pasal 45
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -363-
 
@@ -8787,17 +8793,17 @@ Pasal 50. . .
 
 <!-- image -->
 
-## PRESIDEN REPI,JBLIK INDONESIA
+**PRESIDEN REPI,JBLIK INDONESIA**
 
 -365-
 
-## Pasal 50
+**Pasal 50**
 
 Perizinan Berusaha penggunaan Sumber Daya Air untuk kebutuhan usaha dengan menggunakan Air dan Daya Air sebagai materi sebagaimana dimaksud dalam Pasal 49 ayat (1) huruf b yang menghasilkan produk berupa Air minum untuk kebutuhan pokok sehari-hari diberikan kepada badan usaha milik negara, badan usaha milik daerah, atau badan usaha milik desa penyelenggara Sistem Penyediaan Air Minum.
 
 14. Ketentuan Pasal 51 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 51
+**Pasal 51**
 
 - (1) Perizinan Berusaha penggunaan Sumber Daya Air untuk kebutuhan usaha dapat diberikan kepada pihak swasta setelah memenuhi syarat tertentu dan ketat sebagaimana dimaksud dalam Pasal 46 ayat (1) huruf f minimal:
 - a. sesuai dengan Pola Pengelolaan Sumber Daya Air dan Rencana Pengelolaan Sumber Daya Air;
@@ -8814,7 +8820,7 @@ Perizinan Berusaha penggunaan Sumber Daya Air untuk kebutuhan usaha dengan mengg
 
 15. Ketentuan Pasal 52 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 52
+**Pasal 52**
 
 - (1) Penggunaan Sumber Daya Air untuk negara lain dilarang, kecuali untuk tujuan kemanusiaan.
 2. (21 Pengecualian sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan telah dapat terpenuhinya kebutuhan penggunaan Sumber Daya Air di Wilayah Sungai yang bersangkutan serta daerah sekitarnya.
@@ -8823,7 +8829,7 @@ Perizinan Berusaha penggunaan Sumber Daya Air untuk kebutuhan usaha dengan mengg
 - (5) Penggunaan Sumber Daya Air untuk negara lain sebagaimana dimaksud pada ayat (3) dan ayat (4) wajib mendapat persetujuan penggunaan Sumber Daya Air dari Pemerintah Pusat berdasarkan rekomendasi dari Pemerintah Daerah dan sesuai dengan ketentuan peraturan perundangundangan.
 16. Ketentuan Pasal 56 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56
+**Pasal 56**
 
 - (1) Pengawasan Pengelolaan Sumber Daya Air dilakukan oleh Pemerintah Pusat dan/atau Pemerintah Daerah sesuai dengan kewenangannya terhadap Pengelolaan Sumber Daya Air berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 
@@ -8831,7 +8837,7 @@ Perizinan Berusaha penggunaan Sumber Daya Air untuk kebutuhan usaha dengan mengg
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESTA
+**FRESIDEN REPUBLIK INDONESTA**
 
 -367 -
 
@@ -8856,11 +8862,11 @@ pasal z3 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -368-
 
-## Pasal 73
+**Pasal 73**
 
 Setiap Orang yang karena kelalaiannya:
 
@@ -8872,7 +8878,7 @@ dipidana dengan pidana penjara paling singkat 3 (tiga) bulan dan paling lama 6 (
 
 19. Di antara Pasal 75 dan Pasal 76 disisipkan 1 (satu) pasal, yakni Pasal 75A sehingga berbunyi sebagai berikut:
 
-## Pasal 75A
+**Pasal 75A**
 
 - a. pelaksanaan konstruksi Prasarana Sumber Daya Air dan pelaksanaan nonkonstruksi tanpa Perizinan Berusaha dan/atau persetujuan penggunaan Sumber Daya Air sebagaimana dimaksud dalam Pasal 40 ayat (3);
 - (1) Setiap Orang yang sebelum berlakunya UndangUndang ini, telah melakukan:
@@ -8884,18 +8890,18 @@ dikenai sanksi administratif berupa denda administratif dan wajib mengajukan per
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESIA
+**PRESIDEN BLIK INDONESIA**
 
 -369-
 
 - (21 Setiap orang sebagaimana dimaksud pada ayat (1) setelah 3 (tiga) tahun sejak berlakunya Undang-Undang ini diundangkan belum mengajukan permohonan Perizinan Berrrsaha, danf atau persetujuan pengalihan alur sungai, dikenai sanksi pidana sebagaimana dimaksud dalam Pasal 70 hurufa, hurufb, dan hurufd serta Pasal 73.
 - (3) Ketentuan lebih lanjut mengenai tata cara Perizinan Berusaha, persetujuan penggunaan Sumber Daya Air, dan/atau persetujuan pengalihan alur sungai dan pengenaan sanksi administratif bagi setiap orang sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## Paragraf 10
+**Paragraf 10**
 
-## Transportasi
+**Transportasi**
 
-## Pasal 54
+**Pasal 54**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berr.rsaha dan kemudahan persyaratan investasi di sektor transportasi, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -8904,19 +8910,19 @@ Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatk
 - c. Undang-Undang Nomor 17 Tahun 2008 tentang Pelayaran (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 64, Tambahan Lembaran Negara Republik Indonesia Nomor 48491; dan
 - d. Undang-Undang Nomor 1 Tahun 2OO9 tentang Penerbangan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 4956).
 
-## Pasal 55
+**Pasal 55**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 22 Talrrun 2OO9 tentang Lalu Lintas dan Angkutan Jalan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 96, Tambahan Lembaran Negara Republik Indonesia Nomor 5025) diubah sebagai berikut:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -370-
 
 - 1 Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 19
+**Pasal 19**
 
 - a. fungsi dan intensitas Lalu Lintas guna kepentingan pengaturan penggunaan Jalan dan Kelancaran Lalu Lintas dan Angkutan Jalan; dan
 - (1) Jalan dikelompokkan dalam beberapa kelas berdasarkan:
@@ -8924,13 +8930,13 @@ Beberapa ketentuan dalam Undang-Undang Nomor 22 Talrrun 2OO9 tentang Lalu Lintas
 4. (21 Ketentuan lebih lanjut mengenai pengelompokan Jalan menurut kelas Jalan diatur dalam Peraturan Pemerintah.
 5. Ketentuan Pasal 36 diubah sehingga berbunyi sebagai berikut: 2
 
-## Pasal 36
+**Pasal 36**
 
 Setiap Kendaraan Bermotor Umum dalam trayek wajib singgah di Terminal yang sudah ditentukan, kecuali ditetapkan lain dalam trayek yang telah disetujui dalam Perizinan Berrrsaha.
 
 - Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 38
+**Pasal 38**
 
 - (21 Fasilitas Terminal sebagaimana dimaksud pada ayat (1) meliputi fasilitas utama dan fasilitas penunjang.
 - (1) Setiap penyelenggara Terminal wajib menyediakan fasilitas Terminal yang memenuhi persyaratan keselamatan dan keamanan.
@@ -8941,7 +8947,7 @@ Setiap Kendaraan Bermotor Umum dalam trayek wajib singgah di Terminal yang sudah
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -37t-
 
@@ -8972,7 +8978,7 @@ Pasal 40
 
 6. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43
+**Pasal 43**
 
 - (1) Penyediaan fasilitas Parkir untuk umum hanya dapat diselenggarakan di luar ruang milik Jalan setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Penyelenggaraan fasilitas Parkir di luar ruang milik Jalan sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh perseorangan warga negara Indonesia atau badan hukum Indonesia berupa:
@@ -8982,7 +8988,7 @@ Pasal 40
 6. (41 Ketentuan lebih lanjut mengenai pengguna jasa fasilitas Parkir, Perizinan Berusaha, persyaratan, dan tata cara penyelenggaraan fasilitas Parkir untuk umum sebagaimana dimaksud pada ayat (1), ayat (21, dan ayat (3) diatur dalam Peraturan Pemerintah.
 7. Ketentuan Pasal 50 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal 50
+**Pasal 50**
 
 - (1) Uji tipe sebagaimana dimaksud dalam Pasal 49 ayat (21 huruf a wajib dilakukan bagi setiap Kendaraan Bermotor, kereta gandengan, dan kereta tempelan, yang diimpor, dibuat dan/atau dirakit di dalam negeri, serta modifikasi Kendaraan Bermotor yang menyebabkan perubahan tipe.
 
@@ -8990,7 +8996,7 @@ Pasal 40
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -373-
 
@@ -8998,7 +9004,7 @@ Pasal 40
 - (3) Ketentuan lebih lanjut mengenai uji tipe sebagaimana dimaksud pada ayat (1) dan pelaksanaan uji tipe sebagaimana dimaksud pada ayat (2l'diatur dalam Peraturan Pemerintah.
 - 8 Ketentuan Pasal 53 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 53
+**Pasal 53**
 
 - (1) Uji berkala sebagaimana dimaksud dalam Pasal 49 ayat (21 huruf b wajib dilakukan bagi mobil penumpang umum, mobil bus, mobil barang, kereta gandengan, dan kereta tempelan yang dioperasikan di Jalan.
 - (2) Pengujian berkala sebagaimana dimaksud pada ayat (1) meliputi kegiatan:
@@ -9012,7 +9018,7 @@ c. unit. . .
 
 <!-- image -->
 
-## PRESIDEN REPUELIK TNDONESIA
+**PRESIDEN REPUELIK TNDONESIA**
 
 -374-
 
@@ -9033,17 +9039,17 @@ Pasal78...
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -375-
 
-## Pasal 78
+**Pasal 78**
 
 - (1) Pendidikan dan pelatihan mengemudi diselenggarakan oleh lembaga yang mendapat Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 11. Ketentuan Pasal 99 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 99
+**Pasal 99**
 
 - (1) Setiap rencana pembangunan pusat kegiatan, permukiman, dan infrastrrrktur yang akan menimbulkan gangguan Keamanan Lalu Lintas dan Angkutan Jalan, Keselamatan Lalu Lintas dan Angkutan Jalan, Ketertiban Lalu Lintas dan Angkutan Jalan, dan Kelancaran Lalu Lintas dan Angkutan Jalan wajib dilakukan analisis mengenai dampak Lalu Lintas yang terintegrasi dengan Amdal atau upaya pengelolaan lingkungan hidup dan upaya pemantauan lingkungan hidup sesuai dengan ketentuan peraturan perundang-undangan mengenai lingkungan hidup.
 2. (21 Ketentuan lebih lanjut mengenai dokumen Amdal atau upaya pengelolaan lingkungan hidup dan upaya pemantauan lingkungan hidup yang telah mencakup analisis mengenai dampak Lalu Lintas sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -9056,7 +9062,7 @@ Pasal78...
 
 14. Ketentuan Pasal 126 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 126
+**Pasal 126**
 
 Pengemudi Kendaraan Bermotor Umum angkutan orang dilarang:
 
@@ -9066,7 +9072,7 @@ Pengemudi Kendaraan Bermotor Umum angkutan orang dilarang:
 - d. melewati jaringan Jalan selain yang ditentukan dalam trayek yang telah disetujui dalam Perizinan Berusaha
 15. Ketentuan Pasal 162 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 162
+**Pasal 162**
 
 - (1) Kendaraan Bermotor yang mengangkut barang khusus wajib:
 - a. memenuhi persyaratan keselamatan sesuai dengan sifat dan bentuk barang yang diangkut;
@@ -9077,7 +9083,7 @@ Pengemudi Kendaraan Bermotor Umum angkutan orang dilarang:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -377 -
 
@@ -9085,7 +9091,7 @@ Pengemudi Kendaraan Bermotor Umum angkutan orang dilarang:
 - (3) Pengemudi dan pembantu Pengemudi Kendaraan Bermotor Umum yang mengangkut barang khusus wajib memiliki kompetensi tertentu sesuai dengan sifat dan bentuk barang khusus yang diangkut.
 16. Ketentuan Pasal 165 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 165
+**Pasal 165**
 
 - (1) Angkutan umum di Jalan yang merupakan bagian angkutan multimoda dilaksanakan oleh badan hukum angkutan multimoda.
 2. (21 Kegiatan angkutan umum dalam angkutan multimoda dilaksanakan berdasarkan perjanjian yang dibuat antara badan hukum angkutan Jalan dan badan hukum angkutan multimoda dan/atau badan hukum moda lain.
@@ -9097,7 +9103,7 @@ Pasall7O...
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESTA
+**PRESIDEN REPUEUK INDONESTA**
 
 -378-
 
@@ -9130,7 +9136,7 @@ Pasal 173
 23. Pasal 178 dihapus
 24. Ketentuan Pasal 179 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 179
+**Pasal 179**
 
 - (1) Perizinan Berusaha sebagaimana dimaksud dalam Pasal 173 ayat (1) terkait penyelenggaraan angkutan orang tidak dalam trayek diberikan oleh:
 - a. Pemerintah Pusat yang bertanggung jawab di bidang sarana dan Prasarana Lalu Lintas dan Angkutan Jalan untuk angkutan orang yang melayani:
@@ -9144,7 +9150,7 @@ d.bupati...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -380-
 
@@ -9153,13 +9159,13 @@ d.bupati...
 25. Pasal 180 dihapus
 26. Ketentuan Pasal 185 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 185
+**Pasal 185**
 
 - (1) Pemerintah Pusat dan/atau Pemerintah Daerah dapat memberikan subsidi angkutan pada trayek atau lintas tertentu.
 2. (21 Ketentuan lebih lanjut mengenai pemberian subsidi angkutan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 27. Ketentuan Pasal 199 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 199
+**Pasal 199**
 
 - (1) Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 167, Pasal 168, Pasal 173, Pasal 186, Pasal L87, Pasal 189, Pasal 192, atau Pasal 193 dikenai sanksi administratif berupa:
 - a. peringatan tertulis;
@@ -9171,14 +9177,14 @@ d.bupati...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -381-
 
 - (2) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 28. Ketentuan Pasal 22O diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 22O
+**Pasal 22O**
 
 - (1) Rancang bangun dan pemeliharaan Kendaraan Bermotor sebagaimana dimaksud dalam Pasal 219 ayat (1) hurr.rf a dan pengembangan riset dan rancang bangun Kendaraan Bermotor sebagaimana dimaksud dalam Pasal 219 ayat (21 huruf a dilakukan oleh:
 - a. Pemerintah Pusat;
@@ -9189,7 +9195,7 @@ d.bupati...
 7. (21 Rancang bangun sebagaimana dimaksud pada ayat (1) harus mendapatkan pengesahan dari Pemerintah Pusat.
 29. Ketentuan Pasal 222 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 222
+**Pasal 222**
 
 - (1) Pemerintah Pusat wajib mengembangkan industri dan teknologi prasarana yang menjamin Keamanan, Keselamatan, Ketertiban, dan Kelancaran Lalu Lintas dan Angkutan Jalan.
 2. (21 Pengembangan industri dan teknologi Prasarana Lalu Lintas dan Angkutan Jalan dilakukan secara terpadu dengan dukungan semua sektor terkait.
@@ -9198,20 +9204,20 @@ d.bupati...
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -382-
 
 - (3) Pengembangan industri dan teknologi sebagaimana dimaksud pada ayat (21 harus mendapatkan pengesahan dari Pemerintah Pusat.
 30. Ketentuan Pasal 3O2 sebagai berikut: diubah sehingga berbunyi
 
-## Pasal 302
+**Pasal 302**
 
 Setiap orang yang mengemudikan Kendaraan Bermotor Umum angkutan orang yang tidak berhenti selain di tempat yang telah ditentukan, mengetem, menurunkan penumpang selain di tempat pemberhentian, atau melewati jaringan jalan selain yang ditentukan dalam trayek yang telah disetujui dalam Perizinan Berusaha sebagaimana dimaksud dalam Pasal 126 dipidana dengan pidana kurungan paling lama 1 (satu) bulan atau denda paling banyak Rp250.000,00 (dua ratus lima puluh ribu rupiah).
 
 31. Ketentuan Pasal 305 sebagai berikut: diubah sehingga berbunyi
 
-## Pasal 305
+**Pasal 305**
 
 Setiap orang yang mengemudikan Kendaraan Bermotor yang mengangkut barang khusus yang tidak memenuhi ketentuan mengenai persyaratan keselamatan, pemberian tanda barang, Parkir, bongkar dan muat, atau waktu operasi sebagaimana dimaksud dalam Pasal 162 ayat (1) huruf a, huruf b, huruf c, huruf d, atau huruf e dipidana dengan pidana kurungan paling lama 2 (dua) bulan atau pidana denda paling banyak Rp500.000,00 (lima ratus ribu rupiah).
 
@@ -9223,13 +9229,13 @@ Setiap orang yang mengemudikan Kendaraan Bermotor yang mengangkut barang khusus 
 
 32. Pasal 308 dihapus.
 
-## Pasal 56
+**Pasal 56**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 23 Tahun 2OO7 tentang Perkeretaapian (Lembaran Negara Republik Indonesia Tahun 2OO7 Nomor 65, Tambahan Lembaran Negara Republik Indonesia Nomor 4722) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal24
+**Pasal24**
 
 - (1) Badan Usaha yang menyelenggarakan Prasarana Perkeretaapian umum sebagaimana dimaksud dalam Pasal 23 ayat (1) wajib memenuhi Perizinan Berrrsaha terkait Prasarana Perkeretaapian umum.
 2. (21 Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diberikan berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat meliputi:
@@ -9240,7 +9246,7 @@ c. Pemerintah. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -384-
 
@@ -9248,19 +9254,19 @@ c. Pemerintah. . .
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait Prasarana Perkeretaapian umum diatur dalam Peraturan Pemerintah.
 3. 2 Di antara Pasal 24 dan Pasal25 disisipkan 1 (satu) pasal yakni Pasal 24A sehingga berbunyi sebagai berikut:
 
-## Pasal 24A
+**Pasal 24A**
 
 Badan Usaha yang menyelenggarakan Prasarana Perkeretaapian umum yang tidak memenuhi Perizinan Berusaha sebagaimana dimaksud dalam Pasal 24 ayat (1) dikenai sanksi administratif.
 
 - Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 28
+**Pasal 28**
 
 Penyelenggara Sarana Perkeretaapian yang mengoperasikan Sarana Perkeretaapian tidak memenuhi standar kelaikan operasi Sarana Perkeretaapian sebagaimana dimaksud dalam Pasal 27 dikenai sanksi administratif.
 
 - Ketentuan Pasal 32 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 32
+**Pasal 32**
 
 - (1) Badan Usaha yang menyelenggarakan Sarana Perkeretaapian umum wajib memenuhi Perizinan Berusaha.
 
@@ -9268,7 +9274,7 @@ Penyelenggara Sarana Perkeretaapian yang mengoperasikan Sarana Perkeretaapian ti
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -385-
 
@@ -9279,13 +9285,13 @@ Penyelenggara Sarana Perkeretaapian yang mengoperasikan Sarana Perkeretaapian ti
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait penyelenggaraan Sarana Perkeretaapian umum diatur dalam Peraturan Pemerintah.
 6. Di antara Pasal 32 dan Pasal33 disisipkan 1 (satu) pasal yakni Pasal 32A sehingga berbunyi sebagai berikut: 5
 
-## Pasal 32A
+**Pasal 32A**
 
 Badan Usaha yang menyelenggarakan Sarana Perkeretaapian umum yang tidak memenuhi Perizinan Berrrsaha sebagaimana dimaksud dalam Pasal 32 ayat (1) dikenai sanksi administratif.
 
 6. Ketentuan Pasal 33 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 33
+**Pasal 33**
 
 - (1) Penyelenggaraan Perkeretaapian khusus sebagaimana dimaksud dalam Pasal 17 ayat (21 dilakukan oleh Badan Usaha untuk menunjang kegiatan pokoknya.
 
@@ -9293,7 +9299,7 @@ Badan Usaha yang menyelenggarakan Sarana Perkeretaapian umum yang tidak memenuhi
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -386-
 
@@ -9305,7 +9311,7 @@ Badan Usaha yang menyelenggarakan Sarana Perkeretaapian umum yang tidak memenuhi
 - (4) Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait Perkeretaapian khusus diatur dalam Peraturan Pemerintah.
 - Di antara Pasal 33 dan Pasal 34 disisipkan 1 (satu) pasal, yakni Pasal 33A sehingga berbunyi sebagai berikut: 7
 
-## Pasal 33A
+**Pasal 33A**
 
 Penyelenggara Perkeretaapian khusus yang tidak memenuhi Perizinan Berusaha sebagaimana dimaksud dalam Pasal 33 ayat (2) dikenai sanksi administratif.
 
@@ -9313,29 +9319,29 @@ Penyelenggara Perkeretaapian khusus yang tidak memenuhi Perizinan Berusaha sebag
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -387-
 
-## Pasa|TT
+**Pasa|TT**
 
 Setiap badan hukum atau lembaga yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 76 dikenai sanksi administratif.
 
 - 9 Di antara Pasal 80 dan Pasal 81 disisipkan 1 (satu) pasal, yakni Pasal 80A sehingga berbunyi sebagai berikut:
 
-## Pasal 80A
+**Pasal 80A**
 
 Petugas Prasarana Perkeretaapian yang mengoperasikan Prasarana Perkeretaapian tidak memiliki sertifikat kecakapan sebagaimana dimaksud dalam Pasal 80 ayat (1) dikenai sanksi administratif.
 
 10. Ketentuan Pasal 82 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 82
+**Pasal 82**
 
 Penyelenggara Prasarana Perkeretaapian yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 81 dikenai sanksi administratif.
 
 11. Ketentuan Pasal 107 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 107
+**Pasal 107**
 
 Setiap badan hukum atau lembaga yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 106 dikenai sanksi administratif.
 
@@ -9345,27 +9351,27 @@ Pasalll2...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -388-
 
-## Pasal 1 12
+**Pasal 1 12**
 
 Dalam hal Penyelenggara Sarana Perkeretaapian dalam melaksanakan pemeriksaan tidak menggunakan tenaga yang memiliki kualifikasi keahlian dan tidak sesuai dengan tata cara yang ditetapkan sebagaimana dimaksud dalam Pasal 111 dikenai sanksi administratif.
 
 13. Di antara Pasal 116 dan Pasal 117 disisipkan 2 (dua) pasal yakni Pasal 116A dan Pasal 116E} sehingga berbunyi sebagai berikut:
 
-## Pasal 1 16A
+**Pasal 1 16A**
 
 Awak Sarana Perkeretaapian yang mengoperasikan Sarana Perkeretaapian tidak memiliki sertifikat kecakapan sebagaimana dimaksud dalam Pasal 116 ayat (1) dikenai sanksi administratif.
 
-## Pasal 1 16El
+**Pasal 1 16El**
 
 Penyelenggara Sarana Perkeretaapian yang mengoperasikan Sarana Perkeretaapian dengan Awak Sarana Perkeretaapian yang tidak memiliki sertifikat kecakapan sebagaimana dimaksud dalam Pasal 116 ayat (1) dikenai sanksi administratif.
 
 - L4. Ketentuan Pasal 135 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 135
+**Pasal 135**
 
 Penyelenggara Sarana Perkeretaapian yang tidak menyediakan angkutan dengan Kereta Api lain atau moda transportasi lain sampai stasiun tujuan atau tidak memberikan ganti kerugian senilai harga karcis sebagaimana dimaksud dalam Pasal 134 ayat (4) dikenai sanksi administratif.
 
@@ -9373,25 +9379,25 @@ Penyelenggara Sarana Perkeretaapian yang tidak menyediakan angkutan dengan Keret
 
 <!-- image -->
 
-## FRESIDEN REPUBUK INDONESTA
+**FRESIDEN REPUBUK INDONESTA**
 
 -389-
 
 15. Ketentuan Pasal 168 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 168
+**Pasal 168**
 
 Penyelenggara Sarana Perkeretaapian yang tidak mengasuransikan tanggung jawabnya sebagaimana dimaksud dalam Pasal 167 ayat (1) dikenai sanksi administratif.
 
 16. Di antara Pasal 185 dan Pasal 186 disisipkan 1 (satu) pasal yakni Pasal 185A sehingga berbunyi sebagai berikut:
 
-## Pasal 185A
+**Pasal 185A**
 
 - (1) Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 24A, Pasal 28, Pasal 32A, Pasal 33A, Pasal 77,Pasal 80A, Pasal 82, Pasal 1O7, Pasal 112, Pasal 116A, Pasal 1168, Pasal 135, atau Pasal 168 dikenai sanksi administratif.
 2. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 17. Ketentuan Pasal 188 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 188
+**Pasal 188**
 
 Badan Usaha yang menyelenggarakan Prasarana Perkeretaapian umum yang tidak memiliki Perizinan Berusaha sebagaimana dimaksud dalam Pasal 24 ayat (1) yang mengakibatkan timbulnya korban terhadap manusia dan/atau kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan dipidana dengan pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak Rp3.O00.000.000,00 (tiga miliar rupiah).
 
@@ -9399,13 +9405,13 @@ Badan Usaha yang menyelenggarakan Prasarana Perkeretaapian umum yang tidak memil
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESTA
+**PRESIDEN REPUBLTK INDONESTA**
 
 -390-
 
 18. Ketentuan Pasal 190 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 190
+**Pasal 190**
 
 Badan Usaha yang menyelenggarakan Sarana Perkeretaapian umum yang tidak memenuhi Perizinan Berusaha sebagaimana dimaksud dalam Pasal 32 ayat (1) yang mengakibatkan timbulnya korban terhadap manusia dan/atau kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan dipidana dengan pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak Rp3.000.000.OO0,O0 (tiga miliar rupiah).
 
@@ -9425,41 +9431,41 @@ Petugas Prasarana Perkeretaapian yang mengoperasikan Prasarana Perkeretaapian ti
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESIA
+**PRESIDEN REPUBUK TNDONESIA**
 
 -391 -
 
 21. Ketentuan Pasal 196 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 196
+**Pasal 196**
 
 - (1) Penyelenggara Prasarana Perkeretaapian yang mengoperasikan Prasarana Perkeretaapian dengan petugas yang tidak memiliki sertifikat kecakapan sebagaimana dimaksud dalam Pasal 80 ayat (1) yang mengakibatkan terjadinya kecelakaan dan/atau menimbulkan korban dipidana dengan pidana penjara paling lama 1 (satu) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
 - (2) Jika tindakan sebagaimana dimaksud pada ayat (1) mengakibatkan luka berat bagi orang, Penyelenggara Prasarana Perkeretaapian dipidana dengan pidana penjara paling lama 3 (tiga) tahun.
 - (3) Jika tindakan sebagaimana dimaksud pada ayat (1) mengakibatkan matinya orang, Penyelenggara Prasarana Perkeretaapian dipidana dengan pidana penjara paling lama 5 (lima) tahun.
 22. Ketentuan Pasal 203 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 203
+**Pasal 203**
 
 - (1) Awak Sarana Perkeretaapian yang mengoperasikan Sarana Perkeretaapian tidak memiliki sertifikat kecakapan sebagaimana dimaksud dalam Pasal 116 ayat (1) yang mengakibatkan kecelakaan Kereta Api dan/atau kerugian bagi harta benda dipidana dengan pidana penjara paling lama 2 (dua) tahun.
 2. (21 Jika tindakan sebagaimana dimaksud pada ayat (1) mengakibatkan luka berat bagi orang, Awak Sarana Perkeretaapian dipidana dengan pidana penjara paling lama 3 (tiga) tahun.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -392-
 
 - (3) Jika tindakan sebagaimana dimaksud pada ayat (1) mengakibatkan kematian orang, Awak Sarana Perkeretaapian dipidana dengan pidana penjara paling lama 5 (lima) tahun.
 23. Ketentuan Pasal 204 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 204
+**Pasal 204**
 
 - (1) Penyelenggara Sarana Perkeretaapian yang mengoperasikan Sarana Perkeretaapian dengan Awak Sarana Perkeretaapian yang tidak memiliki sertifikat kecakapan sebagaimana dimaksud dalam Pasal 116 ayat (1) yang mengakibatkan terjadinya kecelakaan dan/atau menimbulkan korban dipidana dengan pidana penjara paling lama 1 (satu) tahun dan pidana denda paling banyak Rp250.000.000,00 (dua ratus lima puluh juta rupiah).
 - (2) Jika tindakan sebagaimana dimaksud pada ayat (1) mengakibatkan luka berat bagi orang, Penyelenggara Sarana Perkeretaapian dipidana dengan pidana penjara paling lama 3 (tiga) tahun.
 - (3) Jika tindakan sebagaimana dimaksud pada ayat (1) mengakibatkan kematian orang, Penyelenggara Sarana Perkeretaapian dipidana dengan pidana penjara paling lama 5 (lima) tahun.
 24. Ketentuan Pasal 210 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 2 10
+**Pasal 2 10**
 
 - (1) Dalam hal tindakan sebagaimana dimaksud dalam Pasal 189, Pasal 191, dan Pasal 193 mengakibatkan luka berat bagi orang, pelaku dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
@@ -9467,7 +9473,7 @@ Petugas Prasarana Perkeretaapian yang mengoperasikan Prasarana Perkeretaapian ti
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -393-
 
@@ -9475,13 +9481,13 @@ Petugas Prasarana Perkeretaapian yang mengoperasikan Prasarana Perkeretaapian ti
 - (3) Dalam hal tindakan sebagaimana dimaksud dalam Pasal 189, Pasal 191, dan Pasal 193 dilakukan oleh Badan Usaha Penyelenggara yang mengakibatkan luka berat bagi orang, Badan Usaha Penyelenggara dipidana dengan pidana denda paling banyak Rp3.000.000.000,00 (tiga miliar rupiah).
 - (4) Dalam hal tindakan sebagaimana dimaksud dalam Pasal 189, Pasal 191, dan Pasal 193, dilakukan oleh Badan Usaha Penyelenggara yang mengakibatkan matinya orang, Badan Usaha Penyelenggara dipidana dengan pidana denda paling banyak Rp3.000.000.0OO,00 (tiga miliar rupiah).
 
-## Pasal 57
+**Pasal 57**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 17 Tahun 2OO8 tentang Pelayaran (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 64, Tambahan Lembaran Negara Republik Indonesia Nomor 48491 diubah sebagai berikut:
 
 - Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 5
+**Pasal 5**
 
 - (1) Pelayaran dikuasai oleh negara dan pembinaannya dilakukan oleh Pemerintah Pusat.
 2. (21 Pembinaan Pelayaran sebagaimana dimaksud pada ayat (1) meliputi:
@@ -9493,14 +9499,14 @@ Beberapa ketentuan dalam Undang-Undang Nomor 17 Tahun 2OO8 tentang Pelayaran (Le
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -394-
 
 - (3) Ketentuan lebih lanjut mengenai pembinaan Pelayaran sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 2. 2 Ketentuan Pasal 9 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 9
+**Pasal 9**
 
 - (1) Kegiatan angkutan laut dalam negeri disusun dan dilaksanakan secara terpadu, baik intramoda maupun antarmoda yang merupakan satu kesatuan sistem transportasi nasional.
 2. (21 Kegiatan angkutan laut dalam negeri sebagaimana dimaksud pada ayat (1) dilaksanakan dengan Trayek tetap dan teratur llinefl serta dapat dilengkapi dengan Tlayek tidak tetap dan tidak teratur (tramper).
@@ -9509,7 +9515,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 17 Tahun 2OO8 tentang Pelayaran (Le
 - (5) Pengoperasian Kapal pada Trayek tidak tetap dan tidak teratur (trampefi sebagaimana dimaksud pada ayat (21dilakukan oleh perusahaan angkutan laut nasional dan wajib dilaporkan kepada Pemerintah Pusat.
 6. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 13
+**Pasal 13**
 
 - (1) Kegiatan Angkutan Laut Khusus dilakukan oleh Badan Usaha untuk menunjang Usaha Pokok untuk kepentingan sendiri dengan menggunakan Kapal berbendera Indonesia yang memenuhi persyaratan Kelaiklautan Kapal dan diawaki oleh Awak Kapal berkewarganegaraan Indonesia.
 
@@ -9517,26 +9523,26 @@ Beberapa ketentuan dalam Undang-Undang Nomor 17 Tahun 2OO8 tentang Pelayaran (Le
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 -395-
 
 - (21 Kegiatan Angkutan Laut Khusus sebagaimana dimaksud pada ayat (1) wajib memenuhi Perizinan Berrrsaha dari Pemerintah Pusat.
 - 4 Di antara Pasal 14 dan Pasal 15 disisipkan 1 (satu) pasal, yakni Pasal 14A sehingga berbunyi sebagai berikut:
 
-## Pasal 14A
+**Pasal 14A**
 
 - (1) Sepanjang Kapal berbendera Indonesia belum tersedia, Kapal Asing dapat melakukan kegiatan khusus di wilayah Perairan Indonesia yang tidak termasuk kegiatan mengangkut penumpang dan/atau barang.
 2. (21 Ketentuan lebih lanjut mengenai kegiatan khusus yang dilakukan oleh Kapal Asing sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 5. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal27
+**Pasal27**
 
 Untuk melakukan kegiatan Angkutan di Perairan, orang perseorangan warga negara Indonesia atau Badan Usaha wajib memenuhi Perizinan Berusaha.
 
 - Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut: 6
 
-## Pasal 28
+**Pasal 28**
 
 - (1) Berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat, Perizinan Berusaha untuk angkutan laut diberikan oleh:
 
@@ -9558,7 +9564,7 @@ a. bupati. . .
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -397-
 
@@ -9590,7 +9596,7 @@ berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerint
 7. Pasal 30 dihapus.
 - 8 Ketentuan Pasal 31 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 31
+**Pasal 31**
 
 - (1) Untuk kelancaran kegiatan Angkutan di Perairan sebagaimana dimaksud dalam Pasal 6, dapat diselenggarakan Usaha Jasa Terkait dengan Angkutan di Perairan.
 - (2) Usaha Jasa Terkait dengan Angkutan di Perairan sebagaimana dimaksud pada ayat (1) dapat berupa:
@@ -9615,7 +9621,7 @@ k. perawatan. . .
 - (3) Ketentuan lebih lanjut mengenai Usaha Jasa Terkait dengan Angkutan di Perairan diatur dalam Peraturan Pemerintah.
 3. 9 Ketentuan Pasal 32 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 32
+**Pasal 32**
 
 - (1) Usaha Jasa Terkait sebagaimana dimaksud dalam Pasal31 ayat (2), dilakukan oleh Badan Usahayang didirikan khusus untuk penyelenggaraan Usaha Jasa Terkait dengan Angkutan di Perairan.
 - (2) Ketentuan mengenai penyelenggaraan Usaha Jasa Terkait dengan Angkutan di Perairan sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan peraturan perundang-undangan di bidang penanaman modal.
@@ -9628,13 +9634,13 @@ Badan Usaha yang didirikan khusus untuk penyelenggaraan Usaha Jasa Terkait denga
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -400-
 
 11. Ketentuan Pasal 34 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 34
+**Pasal 34**
 
 Ketentuan lebih lanjut mengenai tata cara dan persyaratan Perizinan Berusaha jasa terkait dengan Angkutan di Perairan diatur dalam Peraturan Pemerintah.
 
@@ -9646,7 +9652,7 @@ Pasal 51
 2. (21 Badan Usaha sebagaimana dimaksud pada ayat (1) bertanggung jawab terhadap barang sejak diterimanya barang sampai diserahkan kepada penerima barang.
 13. Ketentuan Pasal 52 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 52
+**Pasal 52**
 
 - (1) Pelaksanaan Angkutan Multimoda dilakukan berdasarkan dokumen yang diterbitkan oleh penyedia jasa Angkutan Multimoda.
 - (2) Dokumen sebagaimana dimaksud pada ayat (1) dapat berupa dokumen elektronik.
@@ -9656,17 +9662,17 @@ Pasal 59
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -40t-
 
-## Pasal 59
+**Pasal 59**
 
 - (1) Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 8 ayat (21, Pasal 9 ayat (5), Pasal 11 ayat (4), Pasal 13 ayat (2), Pasal 19 ayat (2), Pasal 27,Pasal28 ayat (4), Pasal 28 ayat (6), Pasal 33, Pasal 38 ayat (1), Pasal 41 ayat (3), Pasal 42 ayat (1), Pasal 46, Pasal 47, atau Pasal 54 dikenai sanksi administratif.
 2. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 15. Ketentuan Pasal 90 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 90
+**Pasal 90**
 
 - (1) Kegiatan pengusahaan di Pelabuhan terdiri atas penyediaan dan/atau pelayanan jasa Kepelabuhanan dan jasa terkait dengan Kepelabuhanan.
 2. (21 Penyediaan dan/atau pelayanan jasa Kepelabuhanan sebagaimana dimaksud pada ayat (1) meliputi penyediaan dan/atau pelayanan jasa Kapal, penumpang, dan barang.
@@ -9691,7 +9697,7 @@ e. penyediaan
 - (5) Ketentuan lebih lanjut mengenai kegiatan pengusahaan di Pelabuhan diatur dalam Peraturan Pemerintah.
 16. Ketentuan Pasal 91 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 9 1
+**Pasal 9 1**
 
 - (1) Kegiatan penyediaan dan/atau pelayanan jasa Kepelabuhanan sebagaimana dimaksud dalam Pasal 90 ayat (1) pada Pelabuhan yang diusahakan secara komersial dilaksanakan oleh Badan Usaha Pelabuhan setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Kegiatan pengusahaan yang dilakukan oleh Badan Usaha Pelabuhan sebagaimana dimaksud pada ayat (1) dapat dilakukan untuk lebih dari 1 (satu) Terminal.
@@ -9699,7 +9705,7 @@ e. penyediaan
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -403-
 
@@ -9707,7 +9713,7 @@ e. penyediaan
 - (5) Kegiatan jasa terkait dengan Kepelabuhanan sebagaimana dimaksud dalam Pasal 90 ayat (1) dapat dilakukan oleh orang perseorangan warga negara Indonesia dan/atau Badan Usaha.
 17. Ketentuan Pasal 96 berikut: diubah sehingga berbunyi sebagai
 
-## Pasal 96
+**Pasal 96**
 
 - (1) Pembangunan Pelabuhan laut wajib memenuhi Perizinan Berusaha dari:
 - a. Pemerintah Pusat untuk Pelabuhan Utama dan Pelabuhan Pengumpul; dan
@@ -9718,7 +9724,7 @@ berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerint
 - (21 Pembangunan dan pengoperasian Pelabuhan laut yang dilaksanakan oleh instansi pemerintah harus mendapatkan persetujuan dari Pemerintah Pusat.
 18. Ketentuan Pasal 97 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 97
+**Pasal 97**
 
 - (1) Pelabuhan laut hanya dapat dioperasikan setelah selesai dibangun dan memenuhi persyaratan operasional serta wajib memenuhi Perizinan Berusaha.
 2. (21 Perizinan Berusaha terkait Pelabuhan laut diberikan oleh: pengoperaslan
@@ -9728,7 +9734,7 @@ b.gubernur...
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESTA
+**PRESIDEN REPUBLTK INDONESTA**
 
 -404-
 
@@ -9738,14 +9744,14 @@ berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerint
 
 19. Ketentuan Pasal 98 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 98
+**Pasal 98**
 
 - (1) Pembangunan Pelabuhan sungai dan danau wajib memenuhi Perizinan Berusaha dari bupati/wali kota berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Pembangunan dan pengoperasian Pelabuhan sungai dan danau yang dilakukan oleh instansi pemerintah harus mendapatkan persetujuan dari Pemerintah Pusat.
 - (3) Perizinan Berrrsaha untuk mengoperasikan Pelabuhan sungai dan danau diberikan oleh bupati/wali kota berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 20. Ketentuan Pasal 99 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 99
+**Pasal 99**
 
 Ketentuan lebih lanjut mengenai jenis kegiatan pengusahaan di Pelabuhan serta Perizinan Berusaha terkait pembangunan dan pengoperasian Pelabuhan diatur dalam Peraturan Pemerintah.
 
@@ -9756,11 +9762,11 @@ PasallO4...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -405-
 
-## Pasal 104
+**Pasal 104**
 
 - (1) Terminal Khusus sebagaimana dimaksud dalam Pasal IO2 ayat (1) hanya dapat dibangun dan dioperasikan dalam hal:
 - a. Pelabuhan terdekat tidak dapat menampung kegiatan pokok tersebut; atau
@@ -9768,7 +9774,7 @@ PasallO4...
 4. (21 Pembangunan dan pengoperasian Terminal Khusus sebagaimana dimaksud pada ayat (1) wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 23. Ketentuan Pasal 106 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 106
+**Pasal 106**
 
 Terminal Khusus yang sudah tidak dioperasikan sesuai dengan Perizinan Berusaha yang telah diberikan, maka:
 
@@ -9814,20 +9820,20 @@ Pasall24...
 
 -407-
 
-## Pasal 124
+**Pasal 124**
 
 Setiap pengadaan, pembangunan, dan pengerjaan Kapal termasuk perlengkapannya serta pengoperasian Kapal di Perairan Indonesia harus memenuhi persyaratan Keselamatan Kapal yang sesuai dengan ketentuan standar internasional.
 
 27. Ketentuan Pasal 125 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 125
+**Pasal 125**
 
 - (1) Sebelum pembangunan dan pengerjaan Kapal termasuk perlengkapannya, pemilik atau galangan Kapal wajib membuat perhitungan dan gambar rancang bangun serta data kelengkapannya.
 - (2) Pembangunan atau pengerjaan Kapal yang merupakan perombakan harus dilakukan sesuai dengan gambar rancang bangun dan data yang telah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 - (3) Pengawasan terhadap pembangunan dan pengerjaan perombakan Kapal dilakukan oleh Pemerintah Pusat.
 28. Ketentuan Pasal 126 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 126
+**Pasal 126**
 
 - (1) Kapal yang dinyatakan memenuhi persyaratan Keselamatan Kapal diberi sertifikat keselamatan oleh Pemerintah Pusat.
 2. (21 Sertifikat keselamatan sebagaimana dimaksud pada ayat (1) terdiri atas:
@@ -9843,7 +9849,7 @@ Setiap pengadaan, pembangunan, dan pengerjaan Kapal termasuk perlengkapannya ser
 
 29. Ketentuan Pasal 127 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal L27
+**Pasal L27**
 
 - (1) Sertilikat Kapal tidak berlaku apabila:
 2. masa berlaku sudah berakhir; a.
@@ -9866,13 +9872,13 @@ Setiap pengadaan, pembangunan, dan pengerjaan Kapal termasuk perlengkapannya ser
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -409-
 
 30. Ketentuan Pasal 129 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 129
+**Pasal 129**
 
 - (1) Kapal berdasarkan jenis dan ukuran tertentu wajib diklasifikasikan pada Badan Klasifikasi untuk keperluan persyaratan Keselamatan Kapal.
 2. l2l Badan Klasifikasi nasional atau Badan Klasifikasi asing yang diakui dapat ditunjuk melaksanakan pemeriksaan dan pengujian terhadap Kapal untuk memenuhi persyaratan Keselamatan Kapal.
@@ -9880,7 +9886,7 @@ Setiap pengadaan, pembangunan, dan pengerjaan Kapal termasuk perlengkapannya ser
 - (4) Badan Klasifikasi yang ditunjuk sebagaimana dimaksud pada ayat (21 wajib melaporkan kegiatannya kepada Pemerintah Pusat.
 31. Ketentuan Pasal 130 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 130
+**Pasal 130**
 
 - (1) Setiap Kapal yang memperoleh sertifikat sebagaimana dimaksud dalam Pasal 126 ayat (1) wajib dipelihara sehingga tetap memenuhi persyaratan Keselamatan Kapal.
 2. (21 Dalam keadaan tertentu Pemerintah Pusat dapat memberikan pembebasan sebagian persyaratan yang ditetapkan dengan tetap memperhatikan Keselamatan Kapal.
@@ -9891,18 +9897,18 @@ Pasal 133. . .
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESIA
+**PRESIDEN BLIK INDONESIA**
 
 -4to-
 
-## Pasal 133
+**Pasal 133**
 
 Ketentuan lebih lanjut mengenai tata cara pengesahan gambar dan pembangunan Kapal serta pemeriksaan dan sertifikasi Keselamatan Kapal diatur dalam Peraturan Pemerintah.
 
 33. Penjelasan Pasal 154 diubah sebagaimana tercantum dalam Penjelasan.
 34. Ketentuan Pasal 155 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 155
+**Pasal 155**
 
 - (1) Setiap Kapal sebelum dioperasikan wajib dilakukan pengukuran oleh pejabat pemerintah yang diberi wewenang oleh Pemerintah Pusat.
 2. (21 Pengukuran Kapal sebagaimana dimaksud pada ayat (1) dapat dilakukan menurut 3 (tiga) metode, yaitu sebagai berikut:
@@ -9920,13 +9926,13 @@ Ketentuan lebih lanjut mengenai tata cara pengesahan gambar dan pembangunan Kapa
 
 35. Ketentuan Pasal 157 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 157
+**Pasal 157**
 
 - (1) Pemilik, operator Kapal, atau Nakhoda melaporkan kepada Pemerintah Pusat dalam hal terjadi perombakan Kapal yang menyebabkan perubahan data yang ada dalam surat ukur.
 - (2) Pelaporan sebagaimana dimaksud pada ayat (1) dapat dilakukan secara elektronik.
 36. Ketentuan Pasal 158 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 158
+**Pasal 158**
 
 - (1) Kapal yang telah diukur dan mendapat surat ukur dapat didaftarkan di Indonesia oleh pemilik kepada pejabat pendaftar dan pencatat balik nama Kapal yang ditetapkan oleh Pemerintah Pusat.
 - (2) Kapal yang dapat didaftarkan di Indonesia yaitu:
@@ -9941,19 +9947,19 @@ Ketentuan lebih lanjut mengenai tata cara pengesahan gambar dan pembangunan Kapa
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -4t2-
 
 37. Ketentuan Pasal 159 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 159
+**Pasal 159**
 
 - (1) Pendaftaran Kapal dilakukan di tempat yang ditetapkan oleh Pemerintah Pusat.
 - (2) Pemilik Kapal bebas memilih salah satu tempat pendaftaran Kapal sebagaimana dimaksud pada ayat (1) untuk mendaftarkan kapalnya.
 38. Ketentuan Pasal 163 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 163
+**Pasal 163**
 
 - (1) Kapal yang didaftarkan di Indonesia dan berlayar di laut diberi surat tanda kebangsaan Kapal Indonesia oleh Pemerintah Pusat.
 - (2) Surat tanda kebangsaan Kapal Indonesia sebagaimana dimaksud pada ayat (1) diberikan dalam bentuk:
@@ -9967,17 +9973,17 @@ Pasal 168
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -4t3-
 
-## Pasal 168
+**Pasal 168**
 
 Ketentuan lebih lanjut mengenai tata cara pengukuran dan penerbitan surat ukur, tata cara, persyaratan, dan dokumentasi pendaftaran Kapal serta tata cara dan persyaratan penerbitan surat tanda kebangsaan Kapal diatur dalam Peraturan Pemerintah.
 
 40. Ketentuan Pasal 169 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 169
+**Pasal 169**
 
 - (1) Pemilik atau operator Kapal yang mengoperasikan Kapal untuk jenis dan ukuran tertentu harus memenuhi persyaratan manajemen keselamatan dan pencegahan pencemaran dari Kapal.
 2. (21 Kapal yang telah memenuhi persyaratan manajemen keselamatan dan pencegahan pencemaran dari Kapal sebagaimana dimaksud pada ayat (1) diberi sertifikat.
@@ -9994,7 +10000,7 @@ Ketentuan lebih lanjut mengenai tata cara pengukuran dan penerbitan surat ukur, 
 
 41. Ketentuan Pasal 170 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 170
+**Pasal 170**
 
 - (1) Pemilik atau operator Kapal yang mengoperasikan Kapal untuk ukuran tertentu harus memenuhi persyaratan manajemen keamanan Kapal.
 - (2) Kapal yang telah memenuhi persyaratan manajemen keamanan Kapal sebagaimana dimaksud pada ayat (1) diberi sertifikat.
@@ -10004,7 +10010,7 @@ Ketentuan lebih lanjut mengenai tata cara pengukuran dan penerbitan surat ukur, 
 - (6) Ketentuan lebih lanjut mengenai tata cara audit dan penerbitan sertifikat manajemen keamanan Kapal diatur dalam Peraturan Pemerintah.
 42. Ketentuan Pasal 171 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 171
+**Pasal 171**
 
 - (1) Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 96 ayat (1), Pasal 97 ayat (1), Pasal 98 ayat (1), Pasal 100 ayat (3), Pasal 104 ayat (2), Pasal 106, Pasal I25 ayat (1), Pasal 130 ayat (1), Pasal 131 ayat (21, Pasal 132 ayat (1) atau ayat (2), Pasal 135, Pasal 137 ayat (1) atau ayat(21, Pasal 138 ayat (1) atau ayat(21, Pasal l4l ayat (1) atau ayat(2), Pasal 149 ayat (1), Pasal 152 ayat (1), Pasal 156 ayat (1), Pasal 158 ayat (5), Pasal 16O ayat (1), Pasal 162 ayat (1), atau Pasal 165 ayat (1) dikenai sanksi administratif.
 
@@ -10018,7 +10024,7 @@ Ketentuan lebih lanjut mengenai tata cara pengukuran dan penerbitan surat ukur, 
 - (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 43. Ketentuan Pasal 197 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 197
+**Pasal 197**
 
 - (1) Untuk kepentingan Keselamatan dan Keamanan Pelayaran, desain dan Pekerjaan Pengerukan AlurPelayaran dan Kolam Pelabuhan, serta Reklamasi wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Pekerjaan Pengerukan Alur-Pelayaran dan Kolam Pelabuhan serta Reklamasi dilakukan oleh perusahaan yang mempunyai kemampuan dan kompetensi dan dibuktikan dengan sertifikat yang diterbitkan oleh instansi yang berwenang sesuai dengan ketentuan peraturan perundangundangan.
@@ -10029,17 +10035,17 @@ Pasal2O4...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -416-
 
-## Pasal 204
+**Pasal 204**
 
 - (1) Kegiatan Saluage dilakukan terhadap Kerangka Kapal dan/atau muatannya yang mengalami kecelakaan atau tenggelam.
 - (2) Setiap kegiatan Saluage dan Pekerjaan Bawah Air wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 45. Ketentuan Pasal 213 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 2 13
+**Pasal 2 13**
 
 - (1) Pemilik, operator Kapal, atau Nakhoda wajib memberitahukan kedatangan kapalnya di Pelabuhan kepada Syahbandar.
 2. (21 Setiap Kapal yang memasuki Pelabuhan wajib menyerahkan surat, dokumen, dan warta Kapal kepada Syahbandar seketika pada saat Kapal tiba di Pelabuhan dan/atau menyampaikan secara elektronik sebelum Kapal tiba untuk dilakukan pemeriksaan.
@@ -10051,23 +10057,23 @@ Pasal225...
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESTA
+**PRESIDEN REPUEUK INDONESTA**
 
 -4t7 -
 
-## Pasal 225
+**Pasal 225**
 
 - (1) Setiap Orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 2O3 ayat (1), Pasal 2O4 ayat (2), Pasal 2I3 ayat (1), Pasal 213 ayat (21, Pasal 214, Pasal2l5, atau Pasal 216 ayat (1) dikenai sanksi administratif.
 2. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 47. Ketentuan Pasal 243 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 243
+**Pasal 243**
 
 - (1) Setiap Orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 23O ayat (21, Pasal 233 ayat (3), Pasal 234,Pasal 235, atau Pasal 239 ayat (2) dikenai sanksi administratif.
 2. (21 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 48. Ketentuan Pasal 273 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal273
+**Pasal273**
 
 - (1) Setiap Orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 272 ayat (ll dapat dikenai sanksi administratif.
 - (2) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -10080,13 +10086,13 @@ Pasal225...
 
 49. Ketentuan Pasal 288 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 288
+**Pasal 288**
 
 Setiap Orang yang mengoperasikan Kapal pada angkutan sungai dan danau tanpa memenuhiPerizinan Berusaha untuk Trayek sebagaimana dimaksud dalam Pasal 28 ayat (4) yang menimbulkan kecelakaan Kapal, korban manusia, atau kerugian harta benda dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak Rp300.000.000,00 (tiga ratus juta rupiah).
 
 50. Ketentuan Pasal 289 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 289
+**Pasal 289**
 
 Setiap Orang yang mengoperasikan Kapal pada angkutan penyeberangan tanpa memenuhi Perizinan Berusaha terkait persetujuan pengoperasian Kapal sebagaimana dimaksud dalam Pasal 28 ayat (6) yang menimbulkan kecelakaan Kapal, korban manusia, atau kerugian harta benda dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak Rp300.000.000,00 (tiga ratus juta rupiah).
 
@@ -10124,20 +10130,20 @@ Setiap Orang yang tidak memberikan fasilitas khusus dan kemudahan sebagaimana di
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -420-
 
 55. Ketentuan Pasal 294 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 294
+**Pasal 294**
 
 - (1) Setiap Orang yang mengangkut barang berbahaya dan barang khusus tidak memenuhi persyaratan sebagaimana dimaksud dalam Pasal 46 yang mengakibatkan timbulnya korban manusia atau kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak Rp400.00O.0OO,O0 (empat ratus juta rupiah).
 - (2) Jika perbuatan sebagaimana dimaksud pada ayat (1) mengakibatkan kerugian harta benda, pelaku dipidana dengan pidana penjara paling larrra 4 (empat) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
 - (3) Jika perbuatan sebagaimana dimaksud pada ayat (1) mengakibatkan kematian seseorang dan/atau kerugian harta benda, pelaku dipidana dengan pidana penjara paling lama 1O (sepuluh) tahun dan pidana denda paling banyak Rpl.500.000.000,00 (satu miliar lima ratus juta rupiah).
 56. Ketentuan Pasal 295 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 295
+**Pasal 295**
 
 Setiap Orang yang mengangkut barang berbahaya dan barang khusus yang tidak menyampaikan pemberitahuan sebagaimana dimaksud dalam Pasal 47 yang mengakibatkan timbulnya korban dipidana dengan pidana penjara paling lama 6 (enam) bulan dan pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah).
 
@@ -10147,13 +10153,13 @@ Setiap Orang yang mengangkut barang berbahaya dan barang khusus yang tidak menya
 
 57. Ketentuan Pasal 296 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 296
+**Pasal 296**
 
 Setiap Orang yang tidak mengasuransikan tanggung jawabnya sebagaimana dimaksud dalam Pasal 54 yang mengakibatkan timbulnya kerugian pihak lain dipidana dengan pidana kurungan paling lama 6 (enam) bulan atau pidana denda paling banyak Rp150.000.0OO,00 (seratus lima puluh juta rupiah).
 
 58. Ketentuan Pasal 297 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 297
+**Pasal 297**
 
 - (1) Setiap Orang yang membangun dan mengoperasikan Pelabuhan sungai dan danau yang tidak memenuhi Perizinan Berusaha sebagaimana dimaksud dalam Pasal98 ayat (1) dan ayat (3) yang mengakibatkan timbulnya korban/kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak Rp300.000.000,00 (tiga ratus juta rupiah).
 2. (21 Setiap Orang yang memanfaatkan garis pantai untuk melakukan kegiatan tambat Kapal dan bongkar muat barang atau menaikkan dan menurunkan penumpang untuk kepentingan sendiri di luar kegiatan di Pelabuhan, Terminal Khusus dan Terminal untuk Kepentingan Sendiri tanpa memenuhi Perizinan Berusaha atau Persetujuan dari Pemerintah Pusat sebagaimana dimaksud dalam Pasal 339 dipidana dengan pidana penjara paling lama 2 (dua) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
@@ -10162,25 +10168,25 @@ Setiap Orang yang tidak mengasuransikan tanggung jawabnya sebagaimana dimaksud d
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONES]A
+**PRESIDEN REPUEUK INDONES]A**
 
 -422-
 
 59. Ketentuan Pasal 298 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 298
+**Pasal 298**
 
 Setiap Orang yang tidak memberikan jaminan atas pelaksanaan tanggung jawab ganti rugi dalam melaksanakan kegiatan di Pelabuhan sebagaimana dimaksud dalam Pasal 100 ayat (3) yang mengakibatkan timbulnya korban dipidana dengan pidana penjara paling lama 6 (enam) bulan dan pidana denda paling banyak Rp 100.000.000,00 (seratus juta rupiah).
 
 60. Ketentuan Pasal 299 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 299
+**Pasal 299**
 
 Setiap Orang yang membangun dan mengoperasikan Terminal Khusus tanpa memenuhi Perizinan Berusaha dari Pemerintah Pusat sebagaimana dimaksud dalam Pasal lO4 ayat (21 yang mengakibatkan timbulnya korban/kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak Rp300.O00.000,00 (tiga ratus juta rupiah).
 
 61. Ketentuan Pasal 307 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 307
+**Pasal 307**
 
 Setiap Orang yang mengoperasikan Kapal tanpa dilengkapi dengan perangkat komunikasi radio dan kelengkapannya sebagaimana dimaksud dalam Pasal 13 1 ayat (21 yangmengakibatkan timbulnya kecelakaan Kapal, korban manusia, atau kerugian barang dan harta benda dipidana dengan pidana penjara paling lama 2 (dua) tahun dan pidana denda paling banyak Rp300.000.000,O0 (tiga ratus juta rupiah).
 
@@ -10188,25 +10194,25 @@ Setiap Orang yang mengoperasikan Kapal tanpa dilengkapi dengan perangkat komunik
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -423-
 
 62. Ketentuan Pasal 308 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 308
+**Pasal 308**
 
 Setiap Orang yang mengoperasikan Kapal tidak dilengkapi dengan peralatan meteorologi sebagaimana dimaksud dalam Pasal t32 ayat (1) yang mengakibatkan timbulnya kecelakaan Kapal, korban manusia, atau kerugian barang dan harta benda dipidana dengan pidana penjara paling lama 2 (dua) tahun dan pidana denda paling banyak Rp300.000.000,00 (tiga ratus juta rupiah).
 
 63. Ketentuan Pasal 310 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 310
+**Pasal 310**
 
 Setiap Orang yang mempekerjakan Awak Kapal tanpa memenuhi persyaratan kualifikasi dan kompetensi sebagaimana dimaksud dalam Pasal 135 yang mengakibatkan timbulnya korban atau kerugian harta benda dipidana dengan pidana penjara paling lama 2 (dua) tahun dan pidana denda paling banyak Rp300.000.000,00 (tiga ratus juta rupiah).
 
 64. Ketentuan Pasal 313 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 313
+**Pasal 313**
 
 Setiap Orang yang menggunakan peti kemas sebagai bagian dari alat angkut tanpa memenuhi persyaratan kelaikan peti kemas sebagaimana dimaksud dalam Pasal 149 ayat (1) yang mengakibatkan timbulnya korban atau kerugian harta benda dipidana dengan pidana penjara paling lama 2 (dua) tahun dan pidana denda paling banyak Rp300.0O0.000,00 (tiga ratus juta rupiah).
 
@@ -10218,7 +10224,7 @@ Setiap Orang yang menggunakan peti kemas sebagai bagian dari alat angkut tanpa m
 
 65. Ketentuan Pasal 314 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 314
+**Pasal 314**
 
 Setiap Orang yang tidak memasang tanda pendaftaran pada Kapal yang telah terdaftar sebagaimana dimaksud dalam Pasal 158 ayat (5) yang mengakibatkan timbulnya korban atau kerugian harta benda dipidana dengan pidana penjara paling lama 6 (enam) bulan atau pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah).
 
@@ -10244,19 +10250,19 @@ percobaan berlayar, kegiatan alih muat di Kolam Pelabuhan, menunda, dan bongkar 
 
 68. Ketentuan Pasal 336 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 336
+**Pasal 336**
 
 - (1) Setiap pejabat yang melanggar suatu kewajiban khusus dari jabatannya atau pada waktu melakukan tindak pidana menggunakan kekuasaan, dan menggunakan kesempatan, atau sarana yang diberikan kepadanya karena jabatan dipidana dengan pidana penjara paling lama 1 (satu) tahun dan pidana denda paling banyak Rp 100.000.000,00 (seratus juta rupiah).
 2. (21 Selain pidana sebagaimana dimaksud pada ayat (1) pelaku dapat dikenai pidana tambahan berupa pemberhentian secara tidak hormat dari jabatannya.
 - (3) Setiap pejabat yang karena melaksanakan tugas sesuai dengan jabatan dan kewenangannya menyebabkan kerrrgian harta benda dan/atau hilangnya nyawa seseorang di luar kekuasaannya, pejabat tersebut tidak dapat dikenai sanksi.
 
-## Pasal 58
+**Pasal 58**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 1 Tahun 2OO9 tentang Penerbangan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 4956) diubah sebagai berikut:
 
 - Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 13
+**Pasal 13**
 
 - (1) Pesawat Udara, mesin Pesawat Udara, dan balingbaling Pesawat Terbang yang akan dibuat untuk digunakan secara sah (eligiblel harus memiliki rancang bangun.
 
@@ -10288,19 +10294,19 @@ Pasal 17 ...
 
 -427-
 
-## Pasal 17
+**Pasal 17**
 
 Setiap perubahan terhadap rancang bangun Pesawat Udara, mesin Pesawat Udara, atau baling-baling Pesawat Terbang yang telah mendapat sertilikat tipe sebagaimana dimaksud dalam Pasal 15 harus mendapat persetujuan dari Pemerintah Pusat.
 
 - 6 Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 18
+**Pasal 18**
 
 Ketentuan lebih lanjut mengenai tata cara dan prosedur mendapatkan persetujuan rancang bangun, kegiatan rancang bangun, perubahan rancang bangun Pesawat Udara, sertilikat validasi tipe, dan sertifikat tipe diatur dalam Peraturan Pemerintah.
 
 - Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal 19
+**Pasal 19**
 
 - (1) Setiap badan hukum Indonesia yang melakukan kegiatan produksi dan/atau perakitan Pesawat Udara, mesin Pesawat Udara, dan/atau balingbaling Pesawat Terbang wajib memiliki sertifikat produksi.
 2. (21 Ketentuan lebih lanjut mengenai sertifikat produksi sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -10311,13 +10317,13 @@ Ketentuan lebih lanjut mengenai tata cara dan prosedur mendapatkan persetujuan r
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -428-
 
 11. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26
+**Pasal 26**
 
 Pesawat Udara yang telah didaftarkan dan memenuhi persyaratan sebagaimana dimaksud dalam Pasal 25 diterbitkan sertifikat pendaftaran.
 
@@ -10342,20 +10348,20 @@ b.sertifikat...
 
 <!-- image -->
 
-## PRESIDEN REPUBL|K INDONESIA
+**PRESIDEN REPUBL|K INDONESIA**
 
 -429-
 
 - sertifikat Kelaikudaraan standar lanjutan (continous aina orthines s certificatel yang diberikan untuk Pesawat Udara setelah sertifikat Kelaikudaraan standar pertama dan akan dioperasikan secara terus menerus. b
 17. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 40
+**Pasal 40**
 
 Ketentuan lebih lanjut mengenai tata cara dan prosedur untuk memperoleh sertifikat Kelaikudaraan dan kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 
 18. Ketentuan Pasal 41 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 41
+**Pasal 41**
 
 - (1) Setiap Orang yang mengoperasikan Pesawat Udara untuk kegiatan Angkutan Udara wajib memiliki sertifikat.
 2. (21 Sertifikat sebagaimana dimaksud pada ayat (1) terdiri atas:
@@ -10370,19 +10376,19 @@ Ketentuan lebih lanjut mengenai tata cara dan prosedur untuk memperoleh sertifik
 
 21. Ketentuan Pasal 45 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 45
+**Pasal 45**
 
 Ketentuan lebih lanjut mengenai tata cara dan prosedur memperoleh sertifikat operator Pesawat Udara atau sertifikat pengoperasian Pesawat Udara dan kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 
 22. Ketentuan Pasal 46 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 46
+**Pasal 46**
 
 - (1) Setiap Orang yang mengoperasikan Pesawat Udara wajib merawat Pesawat Udara, mesin Pesawat Udara, baling-baling Pesawat Terbang, dan komponennya untuk mempertahankan keandalan dan Kelaikudaraan secara berkelanjutan.
 2. (21 Dalam perawatan Pesawat Udara, mesin Pesawat Udara, baling-baling Pesawat Terbang, dan komponennya sebagaimana dimaksud pada ayat (1), Setiap Orang harus membuat program perawatan Pesawat Udara yang disahkan oleh Pemerintah Pusat.
 23. Ketentuan Pasal 47 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 47
+**Pasal 47**
 
 Perawatan Pesawat Udara, mesin Pesawat Udara, baling-baling Pesawat Terbang, dan komponennya sebagaimana dimaksud dalam Pasal 46 hanya dapat dilakukan oleh:
 
@@ -10392,7 +10398,7 @@ b. badan
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -43r-
 
@@ -10417,29 +10423,29 @@ Pasal51...
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -432-
 
-## Pasal 51
+**Pasal 51**
 
 Ketentuan lebih lanjut mengenai tata cara, prosedur, dan pemberian sertifikat organisasi perawatan Pesawat Udara dan Lisensi ahli perawatan Pesawat Udara dan kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 
 28. Ketentuan Pasal 58 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 58
+**Pasal 58**
 
 - (1) Setiap personel Pesawat Udara wajib memiliki Lisensi atau Sertifikat Kompetensi.
 2. (21 Personel Pesawat Udara yang terkait langsung dengan pelaksanaan pengoperasian Pesawat Udara wajib memiliki Lisensi yang sah dan masih berlaku.
 29. Ketentuan Pasal 60 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 60
+**Pasal 60**
 
 Lisensi personel Pesawat Udara yang diberikan oleh negara lain dapat diakui melalui pengesahan oleh Pemerintah Pusat.
 
 30. Ketentuan Pasal 61 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 61
+**Pasal 61**
 
 Ketentuan lebih lanjut mengenai persyaratan, tata cara dan prosedur memperoleh Lisensi, atau Sertifikat Kompetensi dan lembaga pendidikan dan/atau sertifikat pelatihan diatur dalam Peraturan Pemerintah.
 
@@ -10449,7 +10455,7 @@ Ketentuan lebih lanjut mengenai persyaratan, tata cara dan prosedur memperoleh L
 
 31. Ketentuan Pasal 63 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 63
+**Pasal 63**
 
 - (1) Pesawat Udara yang dapat dioperasikan di wilayah Negara Kesatuan Republik Indonesia hanya Pesawat Udara Indonesia.
 - (2) Dalam keadaan tertentu dan dalam waktu terbatas Pesawat Udara Sipil Asing dapat dioperasikan setelah mendapat persetujuan dari Pemerintah Pusat.
@@ -10464,29 +10470,29 @@ Pasal66...
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESTA
+**PRESIDEN BLIK INDONESTA**
 
 -434-
 
-## Pasal 66
+**Pasal 66**
 
 Ketentuan lebih lanjut mengenai proses dan biaya sertifikasi diatur dalam Peraturan Pemerintah.
 
 34. Ketentuan Pasal 67 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 67
+**Pasal 67**
 
 - (1) Setiap Pesawat Udara Negara yang dibuat dan dioperasikan harus memenuhi standar rancang bangun, produksi, dan Kelaikudaraan yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Pesawat Udara Negara sebagaimana dimaksud pada ayat (1) wajib memiliki tanda identitas.
 35. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 84
+**Pasal 84**
 
 Angkutan Udara Niaga dalam negeri hanya dapat dilakukan oleh Badan Usaha Angkutan Udara nasional yang telah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 
 36. Ketentuan Pasal 85 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 85
+**Pasal 85**
 
 - (1) Angkutan Udara Niaga berjadwal dalam negeri hanya dapat dilakukan oleh Badan Usaha Angkutan Udara nasional yang telah memenuhi Perizinan Berusaha terkait Angkutan Udara Niaga berjadwal.
 
@@ -10494,7 +10500,7 @@ Angkutan Udara Niaga dalam negeri hanya dapat dilakukan oleh Badan Usaha Angkuta
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -435-
 
@@ -10515,13 +10521,13 @@ Pasal 9 1
 - (5) Kegiatan Angkutan Udara Niaga berjadwal sebagaimana dimaksud pada ayat (3) tidak menyebabkan terganggunya pelayanan Angkutan Udara pada rute yang masih dilayani oleh Badan Usaha Angkutan Udara niaga berjadwal lainnya.
 38. Ketentuan Pasal 93 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 93
+**Pasal 93**
 
 - (1) Kegiatan Angkutan Udara Niaga tidak berjadwal luar negeri yang dilakukan oleh Badan Usaha Angkutan Udara niaga nasional wajib mendapatkan persetujuan terbang dari Pemerintah Pusat.
 - (2) Kegiatan Angkutan Udara Niaga tidak berjadwal luar negeri yang dilakukan oleh perusahaan Angkutan Udara Niaga asing wajib mendapatkan persetujuan terbang dari Pemerintah Pusat.
 39. Ketentuan Pasal 94 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 94
+**Pasal 94**
 
 - (1) Kegiatan Angkutan Udara Niaga tidak berjadwal oleh perusahaan Angkutan Udara asing yang melayani rute ke Indonesia dilarang mengangkut penumpang dari wilayah Indonesia, kecuali penumpang sendiri yang diturunkan pada Penerbangan sebelumnya.
 - (2) Kegiatan Angkutan Udara Niaga tidak berjadwal oleh perusahaan Angkutan Udara asing yang melanggar ketentuan sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif.
@@ -10530,7 +10536,7 @@ Pasal 9 1
 
 <!-- image -->
 
-## REPUBLIK INDONESTA
+**REPUBLIK INDONESTA**
 
 -437-
 
@@ -10554,11 +10560,11 @@ Pasalg7...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -438-
 
-## Pasal 97
+**Pasal 97**
 
 - (1) Pelayanan yang diberikan Badan Usaha Angkutan Udara niaga berjadwal dalam menjalankan kegiatannya dapat dikelompokkan paling sedikit dalam:
 - a. pelayanan dengan standar maksimum;
@@ -10568,13 +10574,13 @@ Pasalg7...
 43. Pasal 99 dihapus.
 44. Ketentuan Pasal 1O0 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 100
+**Pasal 100**
 
 Ketentuan lebih lanjut mengenai pelayanan Badan Usaha Angkutan Udara niaga berjadwal diatur dalam Peraturan Pemerintah.
 
 45. Ketentuan Pasal 109 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 109
+**Pasal 109**
 
 Kegiatan Angkutan Udara Niaga sebagaimana dimaksud dalam Pasal 108 dilakukan oleh badan usaha di bidang Angkutan Udara Niaga nasional setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 
@@ -10595,13 +10601,13 @@ Perizinan Berusaha sebagaimana dimaksud dalam Pasal 109 berlaku selama pemegangP
 
 49. Ketentuan Pasal 113 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 13
+**Pasal 1 13**
 
 - (1) Perizinan Berusaha sebagaimana dimaksud dalam Pasal 109 dilarang dipindahtangankan kepada pihak lain sebelum melakukan kegiatan usaha Angkutan Udara secara nyata dengan mengoperasikan Pesawat Udara sesuai dengan Perizinan Berusaha yang diberikan.
 2. (21 Pemegang Perizinan Berusaha yang melanggar ketentuan sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif berupa pencabutan Perizinan Berusaha.
 50. Ketentuan Pasal 114 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 14
+**Pasal 1 14**
 
 Ketentuan lebih lanjut mengenai persyaratan, tata cara, dan prosedur memperoleh Perizinan Berusaha terkait Angkutan Udara Niaga diatur dalam Peraturan Pemerintah.
 
@@ -10611,11 +10617,11 @@ Pasal 1 18
 
 <!-- image -->
 
-## PRESIDEN REPIJELIK INDONESIA
+**PRESIDEN REPIJELIK INDONESIA**
 
 -440-
 
-## Pasal 1 18
+**Pasal 1 18**
 
 - (1) Pemegang Perizinan Berusaha Angkutan Udara Niaga wajib:
 - a. melakukan kegiatan Angkutan Udara secara nyata paling lambat 12 (dua belas) bulan sejak Perizinan Berusaha diterbitkan dengan mengoperasikan minimal jumlah Pesawat Udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya;
@@ -10650,18 +10656,18 @@ Pasal 119...
 
 <!-- image -->
 
-## REPUEUK INDONESIA
+**REPUEUK INDONESIA**
 
 -442-
 
-## Pasal 1 19
+**Pasal 1 19**
 
 - (1) Dalam hal pemegang Perizinan Berusaha Angkutan Udara Niaga dan pemegang izin kegiatan Angkutan Udara Bukan Niaga tidak melakukan kegiatan Angkutan Udara secara nyata dengan mengoperasikan Pesawat Udara selama 12 (dua belas) bulan berturut-turut sebagaimana dimaksud dalam Pasal 118 ayat (1) huruf a, ayat(21 huruf a dan ayat (3) huruf a, Perizinan Berusaha Angkutan Udara Niaga atau izin kegiatan Angkutan Udara Bukan Niaga yang diterbitkan tidak berlaku dengan sendirinya.
 2. (21 Pemegang Perizinan Berusaha Angkutan Udara Niaga dan pemegang izin kegiatan Angkutan Udara Bukan Niaga yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 118 dikenai sanksi administratif.
 - (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 53. Ketentuan Pasal 120 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 120
+**Pasal 120**
 
 Ketentuan lebih lanjut mengenai kewajiban pemegang Perizinan Berusaha, persyaratan, dan sanksi administratif termasuk prosedur dan tata cara pengenaan sanksi diatur dalam Peraturan Pemerintah.
 
@@ -10673,7 +10679,7 @@ Pasal130...
 
 -443-
 
-## Pasal 130
+**Pasal 130**
 
 Ketentuan lebih lanjut mengenai tarif Angkutan Udara Niaga berjadwal dalam negeri kelas ekonomi dan Angkutan Udara Perintis serta sanksi administratif, termasuk prosedur dan tata cara pengenaan sanksi diatur dalam Peraturan Pemerintah.
 
@@ -10682,13 +10688,13 @@ Ketentuan lebih lanjut mengenai tarif Angkutan Udara Niaga berjadwal dalam neger
 57. Pasal 133 dihapus
 58. Ketentuan Pasal 137 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 137
+**Pasal 137**
 
 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda dan tata cara pengenaan sanksi administratif sebagaimana dimaksud dalam Pasal 136 ayat (5) diatur dalam Peraturan Pemerintah.
 
 59. Ketentuan Pasal 138 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 138
+**Pasal 138**
 
 - (1) Pemilik, agen ekspedisi muatan Pesawat Udara, atau pengirim yang menyerahkan barang khusus dan/atau berbahaya wajib menyampaikan pemberitahuan kepada pengelola pergudangan dan/atau Badan Usaha Angkutan Udara sebelum dimuat ke dalam Pesawat Udara.
 
@@ -10696,7 +10702,7 @@ Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda dan tata cara pen
 
 <!-- image -->
 
-## FRESIDEN REPUBUK INDONESTA
+**FRESIDEN REPUBUK INDONESTA**
 
 -444-
 
@@ -10715,24 +10721,24 @@ Pasal2O5...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESIA
+**PRESIDEN REPUBUK TNDONESIA**
 
 -445-
 
-## Pasal 205
+**Pasal 205**
 
 - (1) Daerah lingkungan kepentingan Bandar Udara sebagaimana dimaksud dalam Pasal 202 huruf g merupakan daerah di luar lingkungan kerja Bandar Udara yang digunakan untuk menjamin keselamatan dan keamanan Penerbangan serta kelancaran aksesibilitas penumpang dan Kargo.
 2. (21 Pemanfaatan daerah lingkungan kepentingan Bandar Udara harus mendapatkan persetujuan dari Pemerintah Pusat.
 62. Pasal 215 dihapus.
 63. Ketentuan Pasal 218 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 2 18
+**Pasal 2 18**
 
 Ketentuan lebih lanjut mengenai keselamatan dan keamanan Penerbangan, pelayanan jasa Bandar Udara, serta tata cara dan prosedur untuk memperoleh sertifikat Bandar Udara atau register Bandar Udara dan kriteria, jenis, besaran denda, serta tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 
 64. Ketentuan Pasal 219 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 219
+**Pasal 219**
 
 - (1) Setiap Badan Usaha Bandar Udara atau Unit Penyelenggara Bandar Udara wajib menyediakan fasilitas Bandar Udara yang memenuhi persyaratan keselamatan dan keamanan Penerbangan serta pelayanan jasa Bandar Udara sesuai dengan standar pelayanan yang ditetapkan.
 
@@ -10740,7 +10746,7 @@ Ketentuan lebih lanjut mengenai keselamatan dan keamanan Penerbangan, pelayanan 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -446-
 
@@ -10748,19 +10754,19 @@ Ketentuan lebih lanjut mengenai keselamatan dan keamanan Penerbangan, pelayanan 
 - (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 65. Ketentuan Pasal 221 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal22l
+**Pasal22l**
 
 Ketentuan lebih lanjut mengenai pengoperasian fasilitas Bandar Udara serta kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 
 66. Ketentuan Pasal 222 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 222
+**Pasal 222**
 
 - (1) Setiap personel Bandar Udara wajib memiliki Lisensi atau Sertifikat Kompetensi.
 2. (21 Sertifikat Kompetensi sebagaimana dimaksud pada ayat (1) diperoleh melalui pendidikan dan/atau pelatihan yang diselenggarakan lembaga yang telah diakreditasi oleh Pemerintah Pusat.
 67. Ketentuan Pasal 224 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 224
+**Pasal 224**
 
 Lisensi personel Bandar Udara yang diberikan oleh negara lain dinyatakan sah melalui pengesahan atau validasi oleh Pemerintah Pusat.
 
@@ -10768,19 +10774,19 @@ Lisensi personel Bandar Udara yang diberikan oleh negara lain dinyatakan sah mel
 
 <!-- image -->
 
-## PRESIDEN REPUtsUK INDONESIA
+**PRESIDEN REPUtsUK INDONESIA**
 
 -447-
 
 68. Ketentuan Pasal 225 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 225
+**Pasal 225**
 
 Ketentuan lebih lanjut mengenai persyaratan, tata cara dan prosedur memperoleh Lisensi, lembaga pendidikan dan/atau pelatihan, serta kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 
 69. Ketentuan Pasal 233 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 233
+**Pasal 233**
 
 - (1) Pelayanan jasa Kebandarudaraan sebagaimana dimaksud dalam Pasal 232 ayat (21 dapat diselenggarakan oleh:
 - a. Badan Usaha Bandar Udara untuk Bandar Udara yang diusahakan secara komersial setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat; atau
@@ -10793,25 +10799,25 @@ Ketentuan lebih lanjut mengenai persyaratan, tata cara dan prosedur memperoleh L
 
 <!-- image -->
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 -448-
 
 70. Ketentuan Pasal 237 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 237
+**Pasal 237**
 
 Pemerintah Pusat mengembangkan usaha Kebandarudaraan melalui penanaman modal sesuai dengan ketentuan peraturan perundang-undangan di bidang penanaman modal.
 
 71. Ketentuan Pasal 238 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 238
+**Pasal 238**
 
 Ketentuan lebih lanjut mengenai kegiatan pengusahaan di Bandar Udara, serta kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 
 72. Ketentuan Pasal 242 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 242
+**Pasal 242**
 
 Ketentuan lebih lanjut mengenai tanggung jawab atas kerugian serta kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 
@@ -10821,11 +10827,11 @@ Pasal247...
 
 <!-- image -->
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 -449-
 
-## Pasal 247
+**Pasal 247**
 
 - (1) Dalam rangka menunjang kegiatan tertentu, instansi Pemerintah Pusat, Pemerintah Daerah, dan/atau badan hukum Indonesia dapat membangun Bandar Udara Khusus setelah mendapat persetujuan dari Pemerintah Pusat.
 - (2) Ketentuan keselamatan dan keamanan Penerbangan pada Bandar Udara Khusus berlaku sebagaimana ketentuan pada Bandar Udara.
@@ -10843,7 +10849,7 @@ Bandar Udara Khusus dilarang digunakan untuk kepentingan umum, kecuali dalam kea
 
 76. Ketentuan Pasal 252 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 252
+**Pasal 252**
 
 Ketentuan lebih lanjut mengenai persetujuan pembangunan dan pengoperasian Bandar Udara Khusus serta perubahan status menjadi Bandar Udara yang dapat melayani kepentingan umum diatur dalam Peraturan Pemerintah.
 
@@ -10853,7 +10859,7 @@ Ketentuan lebih lanjut mengenai persetujuan pembangunan dan pengoperasian Bandar
 
 77. Ketentuan Pasal 253 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 253
+**Pasal 253**
 
 Tempat pendaratan dan lepas landas Helikopter terdiri atas:
 
@@ -10862,13 +10868,13 @@ Tempat pendaratan dan lepas landas Helikopter terdiri atas:
 - c. tempat pendaratan dan lepas landas Helikopter di perairan (helideckl.
 78. Ketentuan Pasal 254 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 254
+**Pasal 254**
 
 - (1) Setiap tempat pendaratan dan lepas landas Helikopter yang dioperasikan wajib memenuhi ketentuan Keselamatan Penerbangan dan Keamanan Penerbangan.
 2. l2l Tempat pendaratan dan lepas landas Helikopter yang telah memenuhi ketentuan Keselamatan Penerbangan sebagaimana dimaksud pada ayat (1) diberikan tanda pendaftaran (register) oleh Pemerintah Pusat.
 79. Ketentuan Pasal 255 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 255
+**Pasal 255**
 
 Ketentuan lebih lanjut mengenai tata cara dan prosedur pemberian persetujuan pembangunan dan pengoperasian tempat pendaratan dan lepas landas Helikopter diatur dalam Peraturan Pemerintah.
 
@@ -10876,13 +10882,13 @@ Ketentuan lebih lanjut mengenai tata cara dan prosedur pemberian persetujuan pem
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -451-
 
 80. Ketentuan Pasal 275 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 275
+**Pasal 275**
 
 - (1) Lembaga penyelenggara pelayanan Navigasi Penerbangan sebagaimana dimaksud dalam Pasal 271 ayat (21 wajib memiliki sertifikat pelayanan Navigasi Penerbangan yang ditetapkan oleh Pemerintah Pusat.
 - (2) Sertifikat sebagaimana dimaksud pada ayat (1) diberikan kepada setiap unit pelayanan penyelenggara Navigasi Penerbangan.
@@ -10892,13 +10898,13 @@ Ketentuan lebih lanjut mengenai tata cara dan prosedur pemberian persetujuan pem
 - c. unit pelayanan Navigasi Penerbangan jelajah.
 81. Ketentuan Pasal 277 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 277
+**Pasal 277**
 
 Ketentuan lebih lanjut mengenai tata cara dan prosedur pembentukan dan sertifikasi lembaga penyelenggara pelayanan Navigasi Penerbangan serta biaya pelayanan jasa Navigasi Penerbangan diatur dalam Peraturan Pemerintah.
 
 82. Ketentuan Pasal 292 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 292
+**Pasal 292**
 
 - (1) Setiap personel Navigasi Penerbangan wajib memiliki Lisensi atau Sertifikat Kompetensi.
 
@@ -10906,26 +10912,26 @@ Ketentuan lebih lanjut mengenai tata cara dan prosedur pembentukan dan sertifika
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 -452-
 
 - (21 Personel Navigasi Penerbangan yang terkait langsung dengan pelaksanaan pengoperasian dan/atau pemeliharaan fasilitas Navigasi Penerbangan wajib memiliki Lisensi yang sah dan masih berlaku.
 83. Ketentuan Pasal 294 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 294
+**Pasal 294**
 
 Lisensi personel Navigasi Penerbangan yang diberikan oleh negara lain dinyatakan sah melalui pengesahan atau validasi oleh Pemerintah Pusat.
 
 84. Ketentuan Pasal 295 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 295
+**Pasal 295**
 
 Ketentuan lebih lanjut mengenai persyaratan, tata cara dan prosedur memperoleh Lisensi, kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 
 85. Ketentuan Pasal 317 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 317
+**Pasal 317**
 
 Ketentuan lebih lanjut mengenai sistem manajemen keselamatan penyedia jasa Penerbangan, kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 
@@ -10935,13 +10941,13 @@ Pasal 389
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 -453-
 
-## Pasal 389
+**Pasal 389**
 
 Setiap personel di bidang Penerbangan yang telah memiliki Sertifikat Kompetensi sebagaimana dimaksud dalam Pasal 388 dapat diberi Lisensi oleh Pemerintah Pusat setelah memenuhi persyaratan.
 
@@ -10975,52 +10981,52 @@ Setiap Orang yang melakukan kegiatan Angkutan Udara Niaga dalam negeri tanpa Per
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -454-
 
 91. Ketentuan Pasal 418 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 418
+**Pasal 418**
 
 Setiap Orangyang melakukan kegiatan Angkutan Udara Niaga tidak berjadwal luar negeri tanpa persetujuan terbang dari Pemerintah Pusat sebagaimana dimaksud dalam Pasal 93 ayat (1) dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak Rp350.0O0.000,00 (tiga ratus lima puluh juta rupiah).
 
 92. Ketentuan Pasal 423 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 423
+**Pasal 423**
 
 - (1) Personel Bandar Udara yang mengoperasikan dan/atau memelihara fasilitas Bandar Udara tanpa memiliki Lisensi atau Sertifikat Kompetensi sebagaimana dimaksud dalam Pasal 222 yang mengakibatkan timbulnya korban dipidana dengan pidana penjara paling lama 1 (satu) tahun dan pidana denda paling banyak Rp200.000.000,00 (dua ratus juta rupiah).
 - (2) Dalam hal perbuatan sebagaimana dimaksud pada ayat (1) mengakibatkan kematian orang, pelaku dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan pidana denda paling banyak Rp 1.000.000.000,00 (satu miliar rupiah).
 93. Ketentuan Pasal 426 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 426
+**Pasal 426**
 
 Setiap Orang yang membangun Bandar Udara Khusus tanpa persetujuan dari Pemerintah Pusat sebagaimana dimaksud dalam Pasal 247 ayat (1) dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -455-
 
 94. Ketentuan Pasal 427 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 427
+**Pasal 427**
 
 Setiap Orang yang mengoperasikan Bandar Udara Khusus dengan melayani Penerbangan langsung dari dan/atau ke luar negeri tanpa persetujuan dari Pemerintah Pusat sebagaimana dimaksud dalam Pasal 249, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak Rp3.000.000.000,0O (tiga miliar rupiah).
 
 95. Ketentuan Pasal 428 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 428
+**Pasal 428**
 
 - (21 Dalam hal tindak pidana sebagaimana dimaksud pada ayat (1) mengakibatkan kematian orang, pelaku dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan pidana denda paling banyak Rp15.000.000.000,00 (lima belas miliar rupiah).
 - (1) Setiap Orang yang mengoperasikan Bandar Udara Khusus yang digunakan untuk kepentingan umum tanpa persetujuan dari Pemerintah Pusat sebagaimana dimaksud dalam Pasal 25O yang mengakibatkan timbulnya korban dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak Rp3.000.000.000,00 (tiga miliar rupiah).
 
-## Paragraf 1 1
+**Paragraf 1 1**
 
 Kesehatan, Obat, dan Makanan
 
-## Pasal 59
+**Pasal 59**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berusaha dari sektor kesehatan, obat, dan makanan, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -11030,7 +11036,7 @@ b.Undang-Undang...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -456-
 
@@ -11039,13 +11045,13 @@ b.Undang-Undang...
 - d. Undang-Undang Nomor 35 Tahun 2OO9 tentang Narkotika (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 143, Tambahan Lembaran Negara Republik Indonesia Nomor 5062); dan
 - e. Undang-Undang Nomor 18 Tahun 2Ol2 tentang Pangan (Lembaran Negara Republik Indonesia Tahun 2Ol2 Nomor 227, Tambahan Lembaran Negara Republik Indonesia Nomor 5360).
 
-## Pasal 60
+**Pasal 60**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 36 Tahun 2OO9 tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 144, Tambahan Lembaran Negara Republik Indonesia Nomor 5063) diubah sebagai berikut:
 
 - Ketentuan Pasal 3O diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 30
+**Pasal 30**
 
 - (1) Fasilitas Pelayanan Kesehatan menurut jenis pelayanannya terdiri atas:
 - a. pelayanan kesehatan perseorangan; dan
@@ -11059,7 +11065,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 36 Tahun 2OO9 tentang Kesehatan (Le
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -457-
 
@@ -11073,7 +11079,7 @@ Ketentuan lebih lanjut mengenai Fasilitas Pelayanan Kesehatan dan Perizinan Beru
 
 - Ketentuan Pasal 60 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 60
+**Pasal 60**
 
 - (1) Setiap orang yang melakukan Pelayanan Kesehatan Tradisional yang menggunakan alat dan teknologi wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. {21 Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -11083,11 +11089,11 @@ Pasal 106. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -458-
 
-## Pasal 106
+**Pasal 106**
 
 - (1) Setiap orang yang memproduksi dan/atau mengedarkan Sediaan Farmasi dan/atau Alat Kesehatan harus memenuhi Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Sediaan Farmasi dan/atau Alat Kesehatan hanya dapat diedarkan setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
@@ -11095,7 +11101,7 @@ Pasal 106. . .
 - (4) Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait Sediaan Farmasi dan/atau Alat Kesehatan sebagaimana dimaksud pada ayat (1), ayat (2)', dan ayat (3) diatur dalam Peraturan Pemerintah.
 5. 5 Ketentuan Pasal 111 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 1 1
+**Pasal 1 1 1**
 
 - (1) Makanan dan minuman yang dipergunakan untuk masyarakat harus didasarkan pada standar dan/ atau persyaratan Kesehatan.
 
@@ -11103,7 +11109,7 @@ Pasal 106. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -459-
 
@@ -11112,7 +11118,7 @@ Pasal 106. . .
 - (41 Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait makanan dan minuman sebagaimana dimaksud pada ayat (21 dan ayat (3) diatur dalam Peraturan Pemerintah.
 6. Ketentuan Pasal 182 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 182
+**Pasal 182**
 
 - (1) Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya melakukan pengawasan terhadap masyarakat dan setiap penyelenggara kegiatan yang berhubungan dengan Sumber Daya di Bidang Kesehatan dan Upaya Kesehatan berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya dalam melakukan pengawasan dapat memberikan Perizinan Berusaha terhadap setiap penyelenggaraan Upaya Kesehatan berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
@@ -11122,7 +11128,7 @@ Pasal 106. . .
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -460-
 
@@ -11150,21 +11156,21 @@ Pasal I97 ...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -46t-
 
-## Pasal 197
+**Pasal 197**
 
 Setiap orang yang dengan sengaja memproduksi atau mengedarkan Sediaan Farmasi dan/atau Alat Kesehatan yang tidak memiliki Perizinan Berusaha sebagaimana dimaksud dalam Pasal 106 ayat (1) dan/atau ayat (21, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan pidana denda paling banyak Rp1.500.000.000,00 (satu miliar lima ratus juta rupiah).
 
-## Pasal 61
+**Pasal 61**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 44 Tahun 2OO9 tentang Rumah Sakit (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 153, Tambahan Lembaran Negara Republik Indonesia Nomor 50721 diubah sebagai berikut:
 
 - Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 17
+**Pasal 17**
 
 - (1) Rumah Sakit yang tidak memenuhi persyaratan sebagaimana dimaksud dalam Pasal 7, Pasal 8, Pasal 9, Pasal 10, Pasal 11, Pasal 12, Pasal 13, Pasal 14, Pasal 15, atau Pasal 16 dikenai sanksi administratif berupa:
 - a. peringatan tertulis;
@@ -11177,7 +11183,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 44 Tahun 2OO9 tentang Rumah Sakit (
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 -462-
 
@@ -11203,13 +11209,13 @@ Pasal 26
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -463-
 
 - 5 Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal27
+**Pasal27**
 
 Perizinan Berusaha terkait Rumah Sakit sebagaimana dimaksud dalam Pasal 25 dapat dicabut jika:
 
@@ -11219,7 +11225,7 @@ Perizinan Berusaha terkait Rumah Sakit sebagaimana dimaksud dalam Pasal 25 dapat
 - d. atas perintah pengadilan dalam rangka penegakan hukum.
 5. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut: 6
 
-## Pasal 28
+**Pasal 28**
 
 Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait Rumah Sakit diatur dalam Peraturan Pemerintah.
 
@@ -11258,7 +11264,7 @@ s.melindungi...
 
 <!-- image -->
 
-## PRESIDEN REPUELTK TNDONESIA
+**PRESIDEN REPUELTK TNDONESIA**
 
 -465-
 
@@ -11272,7 +11278,7 @@ s.melindungi...
 - (3) Ketentuan lebih lanjut mengenai kewajiban Rumah Sakit sebagaimana dimaksud pada ayat (1) dan pengenaan sanksi administratif sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 8. Ketentuan Pasal 4O diubah sehingga berbunyi sebagai berikut:
 
-## Pasa1 40
+**Pasa1 40**
 
 - (1) Dalam upaya peningkatan mutu pelayanan Rumah Sakit, wajib dilakukan akreditasi secara berkala minimal 3 (tiga) tahun sekali.
 2. (21 Akreditasi Rumah Sakit sebagaimana dimaksud pada ayat (1) dilakukan oleh suatu lembaga independen, baik dari dalam maupun dari luar negeri berdasarkan standar akreditasi yang berlaku.
@@ -11282,7 +11288,7 @@ s.melindungi...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -466-
 
@@ -11309,24 +11315,24 @@ Pasal 54
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESTA
+**PRESIDEN REPUBLTK INDONESTA**
 
 -467-
 
 - (6) Ketentuan lebih lanjut mengenai pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), ayat (2l, ayat (3), ayat (4l., serta kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (5) diatur dalam Peraturan Pemerintah.
 10. Ketentuan Pasal 62 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62
+**Pasal 62**
 
 Setiap orang yang dengan sengaja menyelenggarakan Rumah Sakit yang tidak memenuhi Perizinan Berusaha sebagaimana dimaksud dalam Pasal 25 ayat (1) yang mengakibatkan timbulnya korban/kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan dipidana dengan pidana penjara paling lama 2 (dua) tahun dan pidana denda paling banyak Rp7.000.000.000,00 (tujuh miliar rupiah).
 
-## Pasal 62
+**Pasal 62**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 5 Tahun 1997 tentang Psikotropika (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 10, Tambahan Lembaran Negara Republik Indonesia Nomor 36711 diubah sebagai berikut:
 
 1. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 5
+**Pasal 5**
 
 Psikotropika hanya dapat diproduksi oleh industri farmasi yang telah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 
@@ -11336,17 +11342,17 @@ Pasal9...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -468-
 
-## Pasal 9
+**Pasal 9**
 
 - (1) Psikotropika dalam bentuk obat jadi hanya dapat diedarkan setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 3. 3 Ketentuan Pasal 16 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 16
+**Pasal 16**
 
 - (1) Ekspor Psikotropika hanya dapat dilakukan oleh industri farmasi atau Pedagang Besar Farmasi yang telah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Impor Psikotropika hanya dapat dilakukan oleh:
@@ -11356,13 +11362,13 @@ Pasal9...
 6. (41 Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 7. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 18
+**Pasal 18**
 
 - (1) Untuk dapat memperoleh surat persetujuan ekspor atau surat persetujuan impor, eksportir atau importir sebagaimana dimaksud dalam Pasal 17 mengajukan permohonan kepada Pemerintah Pusat.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -469-
 
@@ -11370,19 +11376,19 @@ Pasal9...
 - (3) Ketentuan lebih lanjut mengenai surat persetujuan ekspor dan surat persetujuan impor diatur dalam Peraturan Pemerintah.
 5. Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 19
+**Pasal 19**
 
 Pemerintah Pusat menyampaikan surat persetujuan impor terkait impor Psikotropika kepada pemerintah negara pengekspor Psikotropika.
 
 - 6 Ketentuan Pasal 20 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 20
+**Pasal 20**
 
 Ketentuan lebih lanjut mengenai kegiatan ekspor atau impor Psikotropika diatur dalam Peraturan Pemerintah.
 
 - Ketentuan Pasal 21 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal 2 1
+**Pasal 2 1**
 
 - (1) Setiap pengangkutan ekspor Psikotropika wajib dilengkapi dengan surat persetujuan ekspor Psikotropika yang dikeluarkan oleh Pemerintah Pusat.
 2. (21 Setiap pengangkutan impor Psikotropika wajib dilengkapi dengan surat persetujuan ekspor Psikotropika yang dikeluarkan oleh pemerintah negara pengekspor.
@@ -11395,14 +11401,14 @@ Ketentuan lebih lanjut mengenai kegiatan ekspor atau impor Psikotropika diatur d
 
 - 8 Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 22
+**Pasal 22**
 
 - (1) Eksportir Psikotropika wajib memberikan surat persetujuan ekspor Psikotropika yang diterbitkan oleh Pemerintah Pusat dan surat persetujuan impor Psikotropika yang diterbitkan oleh pemerintah negara pengimpor kepada orang yang bertanggung jawab atas perusahaan pengangkutan ekspor.
 2. (21 Orang yang bertanggung jawab atas perusahaan pengangkutan ekspor wajib memberikan surat persetujuan ekspor Psikotropika yang diterbitkan oleh Pemerintah Pusat dan surat persetujuan impor Psikotropika yang diterbitkan oleh pemerintah negara pengimpor kepada penanggung jawab pengangkut.
 - (3) Penanggung jawab pengangkut ekspor Psikotropika wajib membawa dan bertanggung jawab atas kelengkapan surat persetujuan ekspor Psikotropika yang diterbitkan oleh Pemerintah Pusat dan surat persetujuan impor Psikotropika yang diterbitkan oleh pemerintah negara pengimpor.
 - (4) Penanggung jawab pengangkut impor Psikotropika yang memasuki wilayah Republik Indonesia wajib membawa dan bertanggung jawab atas kelengkapan surat persetujuan impor Psikotropika yang diterbitkan oleh Pemerintah Pusat dan surat persetujuan ekspor Psikotropika yang diterbitkan oleh pemerintah negara pengekspor.
 
-## Pasal 63
+**Pasal 63**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 35 Tahun 2OO9 tentang Narkotika (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 143, Tambahan Lembaran Negara Republik Indonesia Nomor 5062) diubah sebagai berikut:
 
@@ -11410,11 +11416,11 @@ Beberapa ketentuan dalam Undang-Undang Nomor 35 Tahun 2OO9 tentang Narkotika (Le
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESI'T
+**PRESIDEN REPUELIK INDONESI'T**
 
 -47I-
 
-## Pasal 1 1
+**Pasal 1 1**
 
 - (1) Industri Farmasi tertentu dapat memproduksi Narkotika setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Pemerintah Pusat melakukan pengendalian terhadap Produksi Narkotika sesuai dengan rencana kebutuhan tahunan Narkotika sebagaimana dimaksud dalam Pasal 9.
@@ -11432,13 +11438,13 @@ Pasal 15
 
 <!-- image -->
 
-## PRESIDEN REPUELTK INDONESIA
+**PRESIDEN REPUELTK INDONESIA**
 
 -472-
 
 3. Ketentuan Pasal 16 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 16
+**Pasal 16**
 
 - (1) Importir Narkotika harus memiliki Surat Persetujuan Impor yang diterbitkan oleh Pemerintah Pusat untuk setiap kali melakukan lmpor Narkotika.
 2. (21 Surat Persetujuan Impor Narkotika sebagaimana dimaksud pada ayat (1) diberikan berdasarkan hasil audit Pemerintah Pusat terhadap rencana kebutuhan dan realisasi produksi dan/atau penggunaan Narkotika.
@@ -11446,7 +11452,7 @@ Pasal 15
 4. (41 Surat Persetujuan Impor sebagaimana dimaksud pada ayat (1) disampaikan kepada pemerintah negara pengekspor.
 5. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 18
+**Pasal 18**
 
 - (1) Industri Farmasi atau perusahaan Pedagang Besar Farmasi dapat melaksanakan Ekspor Narkotika setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 - (2) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -11464,13 +11470,13 @@ Pasal 19
 2. l2l Untuk memperoleh Surat Persetujuan Ekspor Narkotika sebagaimana dimaksud pada ayat (1), pemohon harrrs melampirkan surat persetujuan yang diterbitkan oleh negara pengimpor.
 3. 6 Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal22
+**Pasal22**
 
 Ketentuan lebih lanjut mengenai syarat dan tata cara memperoleh Surat Persetujuan Impor dan Surat Persetujuan Ekspor diatur dalam Peraturan Pemerintah.
 
 - Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal24
+**Pasal24**
 
 - (1) Setiap pengangkutan Impor Narkotika wajib dilengkapi dengan dokumen atau surat persetujuan ekspor Narkotika yang sah sesuai dengan ketentuan peraturan perundang-undangan di negara pengekspor dan Surat Persetujuan Impor Narkotika yang diterbitkan oleh Pemerintah Pusat.
 2. (21 Setiap pengangkutan Ekspor Narkotika wajib dilengkapi dengan Surat Persetujuan Ekspor Narkotika yang diterbitkan oleh Pemerintah Pusat dan dokumen atau surat persetujuan impor Narkotika yang sah sesuai dengan ketentuan peraturan perundang-undangan di negara pengimpor.
@@ -11478,13 +11484,13 @@ Ketentuan lebih lanjut mengenai syarat dan tata cara memperoleh Surat Persetujua
 
 <!-- image -->
 
-## PRESIDEN REPI,JBLTK INDONESIA
+**PRESIDEN REPI,JBLTK INDONESIA**
 
 -474-
 
 - 8 Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26
+**Pasal 26**
 
 - (1) Eksportir Narkotika wajib memberikan Surat Persetujuan Ekspor Narkotika yang diterbitkan oleh Pemerintah Pusat dan dokumen atau surat persetujuan impor Narkotika yang sah sesuai dengan ketentuan peraturan perundang-undangan di negara pengimpor kepada orang yang bertanggung j awab atas perusahaan Pengangkutan Ekspor.
 2. (21 Orang yang bertanggung jawab atas perusahaan Pengangkutan Ekspor wajib memberikan Surat Persetujuan Ekspor Narkotika yang diterbitkan oleh Pemerintah Pusat dan dokumen atau surat persetujuan impor Narkotika yang sah sesuai dengan ketentuan peraturan perundang-undangan di negara pengimpor kepada penanggung jawab pengangkut.
@@ -11501,19 +11507,19 @@ Pasal 36
 
 -475-
 
-## Pasal 39
+**Pasal 39**
 
 - (1) Narkotika hanya dapat disalurkan oleh lndustri Farmasi, Pedagang Besar Farmasi, dan sarana penyimpanan sediaan farmasi pemerintah sesuai dengan ketentuan dalam Undang-Undang ini.
 2. (21 Industri Farmasi, Pedagang Besar Farmasi, dan sarana penyimpanan sediaan farmasi pemerintah sebagaimana dimaksud pada ayat (1) wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 
-## Pasal 64
+**Pasal 64**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2Ol2 tentang Pangan (Lembaran Negara Republik Indonesia Tahun 2Ol2 Nomor 227, Tarnbahan Lembaran Negara Republik Indonesia Nomor 5360) diubah sebagai berikut:
 
 1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -11534,7 +11540,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -477 -
 
@@ -11553,7 +11559,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -478-
 
@@ -11583,14 +11589,14 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## FRESIDEN REPUBUK INDONESTA
+**FRESIDEN REPUBUK INDONESTA**
 
 39. Pelaku Usaha Pangan adalah Setiap Orang yang bergerak pada satu atau lebih subsistem agribisnis Pangan, yaitu penyedia masukan produksi, proses produksi, pengolahan, pemasaran, perdagangan, dan penunjang.
 40. Pemerintah Pusat adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
 41. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan uralsan pemerintahan yang menjadi kewenangan daerah otonom.
 4. 2 Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 14
+**Pasal 14**
 
 - (1) Sumber penyediaan Pangan diprioritaskan berasal dari:
 - a. Produksi Pangan dalam negeri;
@@ -11599,7 +11605,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (2) Sumber penyediaan Pangan sebagaimana dimaksud pada ayat (1) dilaksanakan dengan memperhatikan kepentingan Petani, Nelayan, Pembudi Daya Ikan, dan Pelaku Usaha Pangan skala mikro dan kecil melalui kebijakan tarif dan nontarif.
 6. Ketentuan Pasal 15 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 15
+**Pasal 15**
 
 - (1) Produksi Pangan dalam negeri digunakan untuk memenuhi kebutuhan konsumsi Pangan.
 
@@ -11642,7 +11648,7 @@ Pasal 68
 - (6) Ketentuan lebih lanjut mengenai norma, standar, prosedur, dan kriteria Keamanan Pangan termasuk penahapannya sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan Pemerintah.
 6. 7 Ketentuan Pasal 72 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 72
+**Pasal 72**
 
 - (1) Setiap Orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 71 ayat (1), dan/atau ayat (21 dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
@@ -11655,20 +11661,20 @@ Pasal 68
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -483-
 
 - (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 8. Ketentuan Pasal 74 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 74
+**Pasal 74**
 
 - (1) Pemerintah Pusat wajib memeriksa keamanan bahan yang akan digunakan sebagai bahan tambahan Pangan yang belum diketahui dampaknya bagi kesehatan manusia dalam kegiatan atau proses Produksi Pangan untuk diedarkan.
 2. (21 Pemeriksaan keamanan bahan tambahan sebagaimana dimaksud pada ayat (1) dilakukan dalam rangka pemenuhan Perizinan Berusaha dari Pemerintah Pusat.
 3. Ketentuan Pasal 77 diubah sehingga berbunyi sebagai berikut: 9
 
-## Pasal 77
+**Pasal 77**
 
 - (1) Setiap Orang dilarang memproduksi Pangan yang dihasilkan dari Rekayasa Genetik Pangan yang belum memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 - (2) Setiap Orang yang melakukan kegiatan atau proses Produksi Pangan dilarang menggunakan bahan baku, bahan tambahan Pangan, dan/atau bahan lain yang dihasilkan dari Rekayasa Genetik Pangan yang belum memenuhi Perizinan Berusaha dari Pemerintah Pusat.
@@ -11677,31 +11683,31 @@ Pasal 68
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -484-
 
-## Pasal 81
+**Pasal 81**
 
 - (1) Iradiasi Pangan sebagaimana dimaksud dalam Pasal 80 ayat (1) dilakukan berdasarkan Perizinan Berusaha dari Pemerintah Pusat.
 - (2) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 3. 1 1. Pasal 87 dihapus.
 12. Ketentuan Pasal 88 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 88
+**Pasal 88**
 
 - (1) Pelaku Usaha Pangan di bidang Pangan Segar harus memenuhi standar Keamanan Pangan dan Mutu Pangan.
 2. (21 Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya wajib membina, mengawasi, dan memfasilitasi pengembangan usaha Pangan Segar untuk memenuhi persyaratan teknis minimal Keamanan Pangan dan Mutu Pangan berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 - (3) Penerapan standar Keamanan Pangan dan Mutu Pangan sebagaimana dimaksud pada ayat (1) dilakukan secara bertahap sesuai dengan jenis Pangan Segar serta jenis dan/atau skala usaha.
 13. Ketentuan Pasal 91 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 9 1
+**Pasal 9 1**
 
 - (1) Dalam hal pengawasan keamanan, mutu, dan Gizi, setiap Pangan Olahan yang dibuat di dalam negeri atau yang diimpor untuk diperdagangkan dalam kemasan eceran, Pelaku Usaha Pangan wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESIA
+**PRESIDEN REPUBUK TNDONESIA**
 
 -485-
 
@@ -11709,7 +11715,7 @@ Pasal 68
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 14. Di antara Pasal 91 dan Pasal 92 disisipkan 1 (satu) pasal, yakni Pasal 91A sehingga berbunyi sebagai berikut:
 
-## Pasal 9 1A
+**Pasal 9 1A**
 
 - (1) Setiap Orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 91 ayat (1) dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
@@ -11725,17 +11731,17 @@ Pasal 133
 
 <!-- image -->
 
-## PRESIDEN BL|K INDONESIA
+**PRESIDEN BL|K INDONESIA**
 
 -486-
 
-## Pasal 133
+**Pasal 133**
 
 Pelaku Usaha Pangan yang dengan sengaja menimbun atau menyimpan Pangan Pokok melebihi jumlah maksimal sebagaimana dimaksud dalam Pasal 53 dengan maksud untuk memperoleh keuntungan yang mengakibatkan harga Pangan Pokok menjadi mahal atau melambung tinggi dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana denda paling banyak Rp150.000.000.000,00 (seratus lima puluh miliar rupiah).
 
 - L6. Ketentuan Pasal 134 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 134
+**Pasal 134**
 
 - (1) Setiap Orang yang melakukan Produksi Pangan Olahan tertentu untuk diperdagangkan, yang dengan sengaja tidak menerapkan tata cara pengolahan Pangan yang dapat menghambat proses penurunan atau kehilangan kandungan Gizi bahan baku Pangan yang digunakan sebagaimana dimaksud dalam Pasal 64 ayat (1) dan yang mengakibatkan timbulnya korban/kerusakan terhadap kesehatan, keselamatan, dan/atau lingkungan dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak Rp2.000.000.000,00 (dua miliar rupiah).
 2. (21 Ketentuan sebagaimana dimaksud pada ayat (1) dikecualikan dari pengenaan sanksi pidana terhadap pelanggaran yang dilakukan oleh Setiap Orang yang melakukan usaha dan/atau kegiatan berisiko rendah atau menengah.
@@ -11746,18 +11752,18 @@ Pasal 135. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -487-
 
-## Pasal 135
+**Pasal 135**
 
 - (1) Setiap Orang yang menyelenggarakan kegiatan atau proses produksi, p€Dyimpanan, pengangkutan, dan/atau Peredaran Pangan yang tidak memenuhi Persyaratan Sanitasi Pangan sebagaimana dimaksud dalam Pasal 71 ayat (21 yang mengakibatkan timbulnya korban / kerusakan terhadap kesehatan dan keselamatan manusia, dan/atau lingkungan dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak Rp4.000.00O.OOO,00 (empat miliar rupiah).
 - (2) Ketentuan sebagaimana dimaksud pada ayat (1) dikecualikan dari pengenaan sanksi pidana terhadap pelanggaran yang dilakukan oleh Setiap Orang yang melakukan usaha dan/atau kegiatan berisiko rendah atau menengah.
 - (3) Setiap Orang yang melakukan pelanggaran sebagaimana dimaksud pada ayat (21 dikenai sanksi administratif sebagaimana dimaksud dalam Pasal72.
 18. Ketentuan Pasal 139 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 139
+**Pasal 139**
 
 - (1) Setiap Orang yang dengan sengaja membuka kemasan akhir Pangan untuk dikemas kembali dan diperdagangkan sebagaimana dimaksud dalam Pasal 84 ayat (1) yang mengakibatkan timbulnya korban gangguan kesehatan manusia dipidana dengan pidana penjara paling lama 4 (empat) tahun atau pidana denda paling banyak Rp 10.000.000.000,00 (sepuluh miliar rupiah).
 2. (21 Ketentuan sebagaimana dimaksud pada ayat (1) dikecualikan dari pengenaan sanksi pidana terhadap pelanggaran yang dilakukan oleh Setiap Orang yang melakukan usaha dan/atau kegiatan berisiko rendah atau menengah.
@@ -11771,14 +11777,14 @@ Pasal 135. . .
 
 19. Ketentuan Pasal 140 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 140
+**Pasal 140**
 
 - (1) Setiap Orang yang memproduksi dan memperdagangkan Pangan yang dengan sengaja tidak memenuhi standar Keamanan Pangan dan Mutu Pangan sebagaimana dimaksud dalam Pasal 86 ayat (2) yang mengakibatkan timbulnya korban gangguan kesehatan manusia dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak Rp4.000.000.000,00 (empat miliar rupiah).
 2. (21 Ketentuan sebagaimana dimaksud pada ayat (1) dikecualikan dari pengenaan sanksi pidana terhadap pelanggaran yang dilakukan oleh Setiap Orang yang melakukan usaha dan/atau kegiatan berisiko rendah atau menengah.
 - (3) Setiap Orang yang melakukan pelanggaran sebagaimana dimaksud pada ayat (21 dikenai sanksi administratif sebagaimana dimaksud dalam Pasal 94.
 20. Ketentuan Pasal 141 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 141
+**Pasal 141**
 
 - (1) Setiap Orang yang dengan sengaja memperdagangkan Pangan yang tidak sesuai dengan Keamanan Pangan dan Mutu Pangan yang tercantum dalam label Kemasan Pangan sebagaimana dimaksud dalam Pasal 89 yang mengakibatkan timbulnya gangguan kesehatan manusia dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak Rp4.000.000.0O0,00 (empat miliar rupiah).
 2. (21 Ketentuan sebagaimana dimaksud pada ayat (1) dikecualikan dari pengenaan sanksi pidana terhadap pelanggaran yang dilakukan oleh Setiap Orang yang melakukan usaha dan/atau kegiatan berisiko rendah atau menengah.
@@ -11792,17 +11798,17 @@ Pasal 135. . .
 - (3) Setiap Orang yang melakukan pelanggaran sebagaimana dimaksud pada ayat (21 dikenai sanksi administratif sebagaimana dimaksud dalam Pasal 94.
 21. Ketentuan Pasal L42 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 142
+**Pasal 142**
 
 - (1) Pelaku Usaha Pangan yang dengan sengaja tidak memiliki Perizinan Berusaha terkait Pangan Olahan yang dibuat di dalam negeri atau yang diimpor untuk diperdagangkan dalam kemasan eceran sebagaimana dimaksud dalam Pasal91 ayat (1) dipidana dengan pidana penjara paling lar:-;.a 2 (dua) tahun atau pidana denda paling banyak Rp4.OOO.00O.000,00 (empat miliar rupiah).
 - (2) Ketentuan sebagaimana dimaksud pada ayat (1) dikecualikan dari pengenaan sanksi pidana terhadap pelanggaran yang dilakukan oleh Pelaku Usaha Pangan yang melakukan usaha dan/atau kegiatan berisiko rendah atau menengah.
 - (3) Pelaku Usaha Pangan yang melakukan pelanggaran sebagaimana dimaksud pada ayat (21 dikenai sanksi administratif sebagaimana dimaksud dalam Pasal 91A.
 
-## Paragraf 12
+**Paragraf 12**
 
 Pendidikan dan Kebudayaan
 
-## Pasal 65
+**Pasal 65**
 
 - (1) Pelaksanaan perizinan pada sektor pendidikan dapat dilakukan melalui Perizinan Berusaha sebagaimana dimaksud dalam Peraturan Pemerintah Pengganti Undang-Undang ini.
 2. (21 Ketentuan lebih lanjut mengenai pelaksanaan perizinan pada sektor pendidikan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -11811,44 +11817,44 @@ Pasal66...
 
 <!-- image -->
 
-## PRESIDEN LIK INDONESIA
+**PRESIDEN LIK INDONESIA**
 
 490 -
 
-## Pasal 66
+**Pasal 66**
 
 Untuk mempermudah Pelaku Usaha perfilman dalam melakukan kegiatan usaha, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru yang diatur dalam UndangUndang Nomor 33 Tahun 2OO9 tentang Perfilman (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor l4l, Tambahan Lembaran Negara Republik Indonesia Nomor 5060) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 14
+**Pasal 14**
 
 - (1) Jenis Usaha Perfilman sebagaimana dimaksud dalam Pasal 8 ayat (2) wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 - (2) Perizinan Berusaha sebagaimana dimaksud pada ayat (1) tidak termasuk Perizinan Berusaha terkait pertunjukan Film yang dilakukan melalui penyiaran televisi atau jaringan teknologi informatika.
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait Usaha Perfilman sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 4. Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut: 2
 
-## Pasal 17
+**Pasal 17**
 
 - (1) Pembuatan Film oleh pelaku usaha pembuatan Film sebagaimana dimaksud dalam Pasal L6 ayat (3) harus memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait pembuatan Film sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 -491 -
 
 - 3 Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 22
+**Pasal 22**
 
 - (1) Pembuatan Film oleh pihak asing yang menggunakan lokasi di lndonesia dilakukan berdasarkan persetujuan dari Pemerintah Pusat tanpa dipungut biaya.
 2. (21 Pembuatan Film yang menggunakan Insan Perfilman asing dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 - (3) Ketentuan lebih lanjut mengenai persetujuan penggunaan lokasi dan Insan Perfilman asing sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 4. Ketentuan Pasal 78 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 78
+**Pasal 78**
 
 - (1) Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 6, Pasal 7, Pasal 10 ayat (1) atau ayat (21, Pasal 11 ayat (1), Pasal 14 ayat (1), Pasal 15, Pasal 17 ayat (1), Pasal 20 ayat (1), Pasal 2l ayat (2), Pasal 22 ayat (1) atau ayat(2), Pasal 26 ayat (1), Pasal 27 ayat (1), Pasal 31, Pasal 33 ayat (1), Pasal 39 ayat (1), Pasal 43, danlatau Pasal 57 ayat (1) dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat berupa:
@@ -11866,9 +11872,9 @@ Untuk mempermudah Pelaku Usaha perfilman dalam melakukan kegiatan usaha, Peratur
 - (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif diatur dalam Peraturan Pemerintah.
 5. Pasal 79 dihapus.
 
-## Paragraf 13 Kepariwisataan
+**Paragraf 13 Kepariwisataan**
 
-## Pasal 67
+**Pasal 67**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berusaha dari sektor kepariwisataan, beberapa ketentuan dalam UndangUndang Nomor 10 Tahun 2OO9 tentang Kepariwisataan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 4966) diubah sebagai berikut:
 
@@ -11898,14 +11904,14 @@ Pasal 14
 5. (21 Usaha Pariwisata selain sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 6. 2 Ketentuan Pasal 15 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 15
+**Pasal 15**
 
 - (1) Untuk dapat menyelenggarakan Usaha Pariwisata sebagaimana dimaksud dalam Pasal 14, Pengusaha Pariwisata wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 3. Pasal 16 dihapus.
 4. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26
+**Pasal 26**
 
 - (1) Setiap Pengusaha Pariwisata wajib:
 - a. menjaga dan menghormati norma agama, adat istiadat, budaya, dan nilai-nilai yang hidup dalam masyarakat setempat;
@@ -11915,7 +11921,7 @@ c.memberikan...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -494-
 
@@ -11940,7 +11946,7 @@ c.memberikan...
 
 - 5 Ketentuan Pasal 29 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 29
+**Pasal 29**
 
 - (1) Pemerintah provinsi berwenang:
 - a. men5rusun dan menetapkan rencana induk pembangunan Kepariwisataan provinsi;
@@ -11954,7 +11960,7 @@ c.memberikan...
 10. (21 Penerbitan Perizinan Berusaha sebagaimana dimaksud pada ayat (1) huruf c dilakukan sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 11. Ketentuan Pasal 30 diubah sehingga berbunyi sebagai berikut: 6
 
-## Pasal 30
+**Pasal 30**
 
 - (1) Pemerintah kabupaten/kota berwenang:
 - a. men5rusun dan menetapkan rencana induk pembangunan Kepariwisataan kabupatenlkota;
@@ -11993,15 +11999,15 @@ Pasal 54
 
 9. Pasal 64 dihapus
 
-## Paragraf 14 Keagamaan
+**Paragraf 14 Keagamaan**
 
-## Pasal 68
+**Pasal 68**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berusaha dari sektor keagamaan, beberapa ketentuan dalam UndangUndang Nomor 8 Tahun 2Ol9 tentang Penyelenggaraan Ibadah Haji dan Umrah (Lembaran Negara Republik Indonesia Tahun 2Ol9 Nomor 75, Tambahan Lembaran Negara Republik Indonesia Nomor 6338) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -12014,7 +12020,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 5. Jemaah Haji Reguler adalah Jemaah Haji yang menjalankan Ibadah Haji yang diselenggarakan oleh Menteri.
 6. Jemaah Haji Khusus adalah Jemaah Haji yang menjalankan Ibadah Haji yang diselenggarakan oleh penyelenggara lbadah Haji khusus.
@@ -12039,7 +12045,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 20. Kelompok Bimbingan lbadah Haji dan Umrah yang selanjutnya disingkat KBIHU adalah kelompok yang menyelenggarakan bimbingan Ibadah Haji dan Ibadah Umrah yang telah memenuhi Perizinan Berusaha.
 7. 2 Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 19
+**Pasal 19**
 
 - (1) PIHK yang tidak melaporkan keberangkatan warga negara Indonesia yang mendapatkan undangan visa haji mujamalah dari Pemerintah Kerajaan Arab Saudi sebagaimana dimaksud dalam Pasal 18 ayat (3) dikenai sanksi administratif.
 - (2) Sanksi administratif sebagaimana dimaksud pada ayat (1) meliputi:
@@ -12057,13 +12063,13 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 5. 3 Ketentuan Pasal 20 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 20
+**Pasal 20**
 
 Pemerintah Pusat melakukan pengawasan terhadap PIHK yang memberangkatkan warga negara Indonesia yang mendapatkan undangan visa haji mujamalah dari Pemerintah Kerajaan Arab Saudi.
 
 - Ketentuan Pasal 58 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 58
+**Pasal 58**
 
 Untuk mendapatkan Perizinan Berusaha menjadi PIHK, badan hukum harus memenuhi persyaratan:
 
@@ -12077,24 +12083,24 @@ Pasal59...
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 -501 -
 
-## Pasal 59
+**Pasal 59**
 
 - (1) Pelaksanaan lbadah Haji khusus dilakukan oleh PIHK setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Perizinan Berrrsaha sebagaimana dimaksud pada ayat (1) berlaku selama PIHK menjalankan kegiatan usaha Penyelenggaraan Ibadah Haji Khusus.
 - (3) Ketentuan lebih lanjut mengenai Perizinan Berusaha dalam rangka Penyelenggaraan Ibadah Haji Khusus diatur dalam Peraturan Pemerintah.
 4. 6 Ketentuan Pasal 61 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 61
+**Pasal 61**
 
 Ketentuan lebih lanjut mengenai persyaratan PIHK dan pembukaan kantor cabang PIHK sebagaimana dimaksud dalam Pasal 58 dan Pasal 60 diatur dalam Peraturan Pemerintah.
 
 - Ketentuan Pasal 63 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal 63
+**Pasal 63**
 
 - (1) PIHK wajib:
 - a. memfasilitasi pengumsan dokumen perjalanan Ibadah Haji khusus;
@@ -12105,7 +12111,7 @@ Ketentuan lebih lanjut mengenai persyaratan PIHK dan pembukaan kantor cabang PIH
 
 <!-- image -->
 
-## FRESIDEN REPUBUK INDONESIA
+**FRESIDEN REPUBUK INDONESIA**
 
 -502-
 
@@ -12120,7 +12126,7 @@ Ketentuan lebih lanjut mengenai persyaratan PIHK dan pembukaan kantor cabang PIH
 - (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 10. Ketentuan Pasal 83 diubah sehingga berbunyi sebagai berikut: 8
 
-## Pasal 83
+**Pasal 83**
 
 - (1) Pemerintah Pusat melakukan pengawasan dan evaluasi terhadap PIHK paling lama 60 (enam puluh) hari terhitung sejak selesainya Penyelenggaraan Ibadah Haji Khusus.
 2. (21 Hasil pengawasan dan evaluasi sebagaimana dimaksud pada ayat (1) dilaporkan kepada DPR RI.
@@ -12130,17 +12136,17 @@ Pasal84...
 
 <!-- image -->
 
-## FRESIDEN REPUBUK TNDONESIA
+**FRESIDEN REPUBUK TNDONESIA**
 
 -503-
 
-## Pasal 84
+**Pasal 84**
 
 Ketentuan lebih lanjut mengenai tata cara pengawasan dan evaluasi oleh Pemerintah Pusat sebagaimana dimaksud dalam Pasal 83 ayat (1) diatur dalam Peraturan Pemerintah.
 
 10. Ketentuan Pasal 85 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 85
+**Pasal 85**
 
 - (1) Pemerintah Pusat melaksanakan akreditasi PIHK.
 2. (21 Akreditasi sebagaimana dimaksud pada ayat (1) dilakukan untuk menilai kinerja dan kualitas pelayanan PIHK.
@@ -12149,7 +12155,7 @@ Ketentuan lebih lanjut mengenai tata cara pengawasan dan evaluasi oleh Pemerinta
 - (5) Ketentuan lebih lanjut mengenai akreditasi PIHK diatur dalam Peraturan Pemerintah.
 11. Ketentuan Pasal 89 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 89
+**Pasal 89**
 
 - (1) Untuk mendapatkan Perizinan Berusaha menjadi PPIU, biro perjalanan wisata harus dimiliki dan dikelola oleh warga negara Indonesia beragama Islam dan memenuhi persyaratan sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 - (2) Ketentuan mengenai norma, standar, prosedur, dan kriteria sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -12158,25 +12164,25 @@ Ketentuan lebih lanjut mengenai tata cara pengawasan dan evaluasi oleh Pemerinta
 
 <!-- image -->
 
-## PRESIDEN REPUBL|K INDONESIA
+**PRESIDEN REPUBL|K INDONESIA**
 
 -504-
 
 12. Ketentuan Pasal 90 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 90
+**Pasal 90**
 
 - (1) Pelaksanaan Ibadah Umrah dilakukan oleh PPIU setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 - (2) Perizinan Berusaha sebagaimana dimaksud pada ayat (1) berlaku selama PPIU menjalankan kegiatan usaha penyelenggaraan Ibadah Umrah.
 13. Ketentuan Pasal 91 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 9 1
+**Pasal 9 1**
 
 - (1) PPIU dapat membuka kantor cabang PPIU di luar domisili perusahaan.
 2. (21 Pembukaan kantor cabang PPIU sebagaimana dimaksud pada ayat (1) harus dilaporkan kepada Pemerintah Pusat.
 3. L4. Ketentuan Pasal 92 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 92
+**Pasal 92**
 
 Ketentuan lebih lanjut mengenai Perizinan Berusaha dan pembukaan kantor cabang PPIU sebagaimana dimaksud dalam Pasal89, Pasal9O, dan Pasal91 diatur dalam Peraturan Pemerintah.
 
@@ -12186,11 +12192,11 @@ Pasal94...
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
-## Pasal 94
+**Pasal 94**
 
-## (1) PPIU wajib:
+**(1) PPIU wajib:**
 
 - a. menyediakan paling sedikit 1 (satu) orang pembimbing ibadah setiap 45 (empat puluh lima) orang Jemaah Umrah;
 - b. memberikan pelayanan dokumen perjalanan, akomodasi, konsumsi, dan transportasi kepada jemaah sesuai dengan perjanjian tertulis yang disepakati antara PPIU dan Jemaah Umrah;
@@ -12262,7 +12268,7 @@ Ketentuan lebih lanjut mengenai akreditasi terhadap PPIU diatur dalam Peraturan 
 
 22. Di antara Pasal 118 dan Pasal 119 disisipkan 1 (satu) pasal, yakni Pasal 118A sehingga berbunyi sebagai berikut:
 
-## Pasal 118A
+**Pasal 118A**
 
 - (1) PIHK yang dengan sengaja menyebabkan kegagalan keberangkatan, penelantaran, atau kegagalan kepulangan Jemaah Haji Khusus sebagaimana dimaksud dalam Pasal 118 dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
@@ -12279,11 +12285,11 @@ Pasal 119A. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -509-
 
-## Pasal 119A
+**Pasal 119A**
 
 - (1) PPIU yang dengan sengaja menyebabkan kegagalan keberangkatan, penelantaran, atau kegagalan kepulangan Jemaah Umrah sebagaimana dimaksud dalam Pasal 119 dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
@@ -12296,7 +12302,7 @@ Pasal 119A. . .
 9. (41 Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) diatur dalam Peraturan Pemerintah.
 24. Ketentuan Pasal 125 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 125
+**Pasal 125**
 
 Dalam hal PIHK yang melakukan tindakan sebagaimana dimaksud dalam Pasal 118A dalam waktu paling lama 5 (lima) hari tidak memulangkan Jemaah Haji Khusus ke tanah air, PIHK dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun atau pidana denda paling banyak Rp 1 0.000.000.000,00 (sepuluh miliar rupiah).
 
@@ -12306,19 +12312,19 @@ Pasal126...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 -510-
 
-## Pasal 126
+**Pasal 126**
 
 Dalam hal PPIU yang melakukan tindakan sebagaimana dimaksud dalam Pasal 119A dalam waktu paling lama 5 (lima) hari tidak memulangkan Jemaah Umrah ke tanah air, PPIU dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun atau pidana denda paling banyak Rp 1 0.000.000.000,00 (sepuluh miliar rupiah).
 
-## Paragraf 15
+**Paragraf 15**
 
 Pos, Telekomunikasi, dan Penyiaran
 
-## Pasal 69
+**Pasal 69**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Penzinan Berusaha dan kemudahan persyaratan investasi dari sektor pos, telekomunikasi, dan penyiaran, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -12326,7 +12332,7 @@ Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatk
 - b. Undang-Undang Nomor 36 Tahun 1999 tentang Telekomunikasi (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 154, Tambahan Lembaran Negara Republik Indonesia Nomor 3881); dan
 - c. Undang-Undang Nomor 32 Tahun 2OO2 tentang Penyiaran (Lembaran Negara Republik Indonesia Tahun 2OO2 Nomor 139, Tambahan Lembaran Negara Republik Indonesia Nomor 42521.
 
-## Pasal 70
+**Pasal 70**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 38 Tahun 2OO9 tentang Pos (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor L46, Tambahan Lembaran Negara Republik lndonesia Nomor 5065) diubah sebagai berikut:
 
@@ -12336,13 +12342,13 @@ Beberapa ketentuan dalam Undang-Undang Nomor 38 Tahun 2OO9 tentang Pos (Lembaran
 
 - 1 Ketentuan Pasal 10 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 10
+**Pasal 10**
 
 - (1) Penyelenggaraan Pos dapat dilakukan setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 - (2) Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 3. Ketentuan Pasal 12 diubah sehingga berbunyi sebagai berikut: 2
 
-## Pasal 12
+**Pasal 12**
 
 - (1) Pemerintah Pusat mengembangkan usaha Penyelenggara Pos melalui penanaman modal sesuai dengan ketentuan peraturan perundangundangan di bidang penanaman modal.
 2. (21 Penyelenggara Pos asing yang telah memenuhi persyaratan dapat menyelenggarakan Pos di Indonesia.
@@ -12350,7 +12356,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 38 Tahun 2OO9 tentang Pos (Lembaran
 4. Pasal 13 dihapus. 3
 5. Ketentuan Pasal 39 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 39
+**Pasal 39**
 
 - (1) Setiap Orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 10 ayat (1), Pasal L4 ayat (1), Pasal 14 ayat (3), atau Pasal 15 ayat (4) dikenai sanksi administratif.
 
@@ -12364,13 +12370,13 @@ Beberapa ketentuan dalam Undang-Undang Nomor 38 Tahun 2OO9 tentang Pos (Lembaran
 - c. pencabutanPerizinan Berusaha.
 - (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 
-## Pasal 71
+**Pasal 71**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 36 Tahun 1999 tentang Telekomunikasi (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 154, Tambahan Lembaran Negara Republik Indonesia Nomor 3881) diubah sebagai berikut:
 
 - Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 1 I
+**Pasal 1 I**
 
 - (1) Penyelenggaraan Telekomunikasi sebagaimana dimaksud dalam Pasal 7 ayat (1) dapat dilaksanakan setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Ketentuan lebih lanjut mengenai Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -12380,17 +12386,17 @@ Pasal 28. .
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 -513-
 
-## Pasal 28
+**Pasal 28**
 
 - (1) Besaran tarif Penyelenggaraan Jaringan Telekomunikasi dan/atau Penyelenggaraan Jasa Telekomunikasi ditetapkan oleh penyelenggara Jaringan Telekomunikasi dan/atau Jasa Telekomunikasi dengan berdasarkan formula yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Pemerintah Pusat dapat menetapkan tarif batas atas dan latau tarif batas bawah Penyelenggaraan Telekomunikasi dengan memperhatikan kepentingan masyarakat dan persaingan usaha yang sehat.
 3. 3 Ketentuan Pasal 30 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 30
+**Pasal 30**
 
 - (1) Dalam hal penyelenggara Jaringan Telekomunikasi dan/atau penyelenggara Jasa Telekomunikasi belum dapat menyediakan akses di daerah tertentu, Penyelenggara Telekomunikasi khusus sebagaimana dimaksud dalam Pasal 9 ayat (3) huruf a dapat menyelenggarakan Jaringan Telekomunikasi dan/atau Jasa Telekomunikasi sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf a dan huruf b setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Dalam hal penyelenggara Jaringan Telekomunikasi dan/atau Jasa Telekomunikasi sudah dapat menyediakan akses di daerah sebagaimana dimaksud pada ayat (1), Penyelenggara Telekomunikasi khusus tetap dapat melakukan Penyelenggaraan Jaringan Telekomunikasi dan/atau Penyelenggaraan Jasa Telekomunikasi.
@@ -12399,7 +12405,7 @@ Pasal 28. .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -514-
 
@@ -12434,7 +12440,7 @@ den gan Pe nye len ggar a Te le komunikasi lainnya.
 - (9) Ketentuan lebih lanjut mengenai Perizinan Berusaha terkait penggunaan spektrum frekuensi radio dan orbit satelit sebagaimana dimaksud pada ayat (1), persetujuan penggunaan spektrum frekuensi radio dan orbit satelit sebagaimana dimaksud pada ayat (2), penggunaan bersama spektrum frekuensi radio sebagaimana dimaksud pada ayat (5), serta kerja sama penggunaan spektrum frekuensi radio dan pengalihan penggunaan spektrum frekuensi radio sebagaimana dimaksud pada ayat (6) diatur dalam Peraturan Pemerintah.
 4. 6 Ketentuan Pasal 34 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 34
+**Pasal 34**
 
 - (1) Pemegang Perizinan Berusaha dan persetujuan penggunaan spektrum frekuensi radio sebagaimana dimaksud dalam Pasal 33 ayat (1) dan ayat (21 wajib membayar biaya hak penggunaan spektrum frekuensi radio yang besarannya didasarkan atas penggunaan jenis dan lebar pita frekuensi radio.
 
@@ -12442,20 +12448,20 @@ den gan Pe nye len ggar a Te le komunikasi lainnya.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -516-
 
 - (21 Ketentuan lebih lanjut mengenai biaya hak penggunaan spektrum frekuensi radio sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 - 7 Di antara Pasal34 dan Pasal35 disisipkan2 (dua) pasal, yakni Pasal 34A dan Pasal 34B\_ sehingga berbunyi sebagai berikut:
 
-## Pasal 34A
+**Pasal 34A**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah memberikan fasilitasi dan/atau kemudahan kepada Penyelenggara Telekomunikasi untuk melakukan pembangunan infrastruktur Telekomunikasi secara transparan, akuntabel, dan efisien.
 2. (21 Dalam Penyelenggaraan Telekomunikasi, Pemerintah Pusat dan Pemerintah Daerah dapat berperan serta untuk menyediakan fasilitas bersama infrastruktur pasif Telekomunikasi untuk digunakan oleh Penyelenggara Telekomunikasi secara bersama dengan biaya terjangkau.
 - (3) Ketentuan lebih lanjut mengenai peran Pemerintah Pusat dan Pemerintah Daerah sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Pemerintah.
 
-## Pasal 34B
+**Pasal 34B**
 
 - (1) Pelaku Usaha yang memiliki infrastrr.rktur pasif yang dapat digunakan untuk keperluan Telekomunikasi wajib membuka akses pemanfaatan infrastruktur pasif dimaksud kepada Penyelenggara Telekomunikasi.
 2. (21 Pelaku Usaha yang memiliki infrastruktur selain sebagaimana dimaksud pada ayat (1) di bidang Telekomunikasi dan/atau penyiaran dapat membuka akses pemanfaatan infrastruktur dimaksud kepada Penyelenggara Telekomunikasi dan/ atau penyelenggara penyiaran.
@@ -12469,7 +12475,7 @@ den gan Pe nye len ggar a Te le komunikasi lainnya.
 - (5) Ketentuan lebih lanjut mengenai pemanfaatan infrastruktur sebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (4) diatur dalam Peraturan Pemerintah.
 8. Ketentuan Pasal 45 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 45
+**Pasal 45**
 
 - (1) Pelanggaran terhadap ketentuan Pasal 16 ayat (1), Pasal 18 ayat (2), Pasal 19, Pasal 20, Pasal 21, Pasal 25 ayat (2), Pasal 26 ayat (1), Pasal 29 ayat (ll, Pasal 29 ayat (2), Pasal 32 ayat (1), Pasal 33 ayat (1), Pasal 33 ayat (2), Pasal 33 ayat (3), Pasal 33 ayat (71, atau Pasal 34 ayat (1) dikenai sanksi administratif.
 - (2) Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat berupa:
@@ -12484,19 +12490,19 @@ den gan Pe nye len ggar a Te le komunikasi lainnya.
 
 10. Ketentuan Pasal 47 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 47
+**Pasal 47**
 
 Barang siapa yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 11 ayat (1) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau pidana denda paling banyak Rp1.500.000.000,00 (satu miliar lima ratus juta rupiah).
 
 - 1 1. Pasal 48 dihapus.
 
-## Pasal72
+**Pasal72**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 32 Tahun 2OO2 tentang Penyiaran (Lembaran Negara Republik Indonesia Tahun 2OO2 Nomor 139, Tambahan Lembaran Negara Republik Indonesia Nomor 42521 diubah sebagai berikut:
 
 - Ketentuan Pasal 16 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 16
+**Pasal 16**
 
 - (1) Lembaga Penyiaran swasta sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf b adalah Lembaga Penyiaran yang bersifat komersial berbentuk badan hukum Indonesia yang bidang usahanya menyelenggarakan jasa Penyiaran Radio atau Penyiaran Televisi.
 2. l2l Warga negara asing dapat menjadi pengurus Lembaga Penyiaran swasta sebagaimana dimaksud pada ayat (1) hanya untuk bidang keuangan dan bidang teknik.
@@ -12506,13 +12512,13 @@ Pasal 25 . .
 
 <!-- image -->
 
-## Pasal 25
+**Pasal 25**
 
 - (1) Lembaga Penyiaran berlangganan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf d merupakan Lembaga Penyiaran berbentuk badan hukum Indonesia yang bidang usahanya menyelenggarakan jasa Penyiaran berlangganan dan wajib terlebih dahulu memperoleh Perizinan Berusaha.
 2. (21 Lembaga Penyiaran berlangganan sebagaimana dimaksud pada ayat (1) memancarluaskan atau menyalurkan materi siarannya secara khusus kepada pelanggan melalui radio, televisi, multimedia, atau media informasi lainnya.
 3. 3 Ketentuan Pasal 33 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 33
+**Pasal 33**
 
 - (1) Penyelenggaraan Penyiaran dapat diselenggarakan setelah memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 - (2) Lembaga Penyiaran wajib membayar biaya Perizinan Berusaha sebagaimana dimaksud pada ayat ( 1 ) berdasarkan zona I daer ah penyelenggaraan Penyiaran yang ditetapkan dengan parameter tingkat ekonomi setiap zonaf daerah.
@@ -12522,9 +12528,9 @@ Pasal 25 . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
-## Pasal 55
+**Pasal 55**
 
 - (1) Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 15 ayat (2), Pasal 17 ayat (3), Pasal 18 ayat (1), Pasal 18 ayat (2), Pasal 20, Pasal 23, Pasal 24, Pasal26 ayat (21, Pasal 27,Pasal 28, Pasal 33 ayat (1), Pasal 33 ayat (2), Pasal 36 ayat (2), Pasal 36 ayat (3), Pasal 36 ayat (4), Pasal 39 ayat (1), Pasal 43 ayat (2), Pasal 44 ayat (1), Pasal 45 ayat (1), Pasal 46 ayat (3), Pasal 46 ayat (6), Pasal 46 ayat (7), Pasal 46 ayat (8), Pasal 46 ayat (9), Pasal 46 ayat (10), atau Pasal 46 ayat (11) dikenai sanksi administratif.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat berupa:
@@ -12540,13 +12546,13 @@ Pasal 25 . .
 
 <!-- image -->
 
-## Pasal 57
+**Pasal 57**
 
 - (1) Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 30 ayat (1), Pasal 36 ayat (5), atau Pasal 36 ayat (6) yang dilakukan untuk Penyiaran Radio dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak Rp1.5O0.O00.000,O0 (satu miliar lima ratus juta rupiah).
 2. (21 Setiap ora.ng yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 30 ayat (1), Pasal 36 ayat (5), atau Pasal 36 ayat (6) yang dilakukan untuk Penyiaran Televisi dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah).
 3. 7 Ketentuan Pasal 58 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 58
+**Pasal 58**
 
 - (1) Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 33 ayat (1) untuk Penyiaran Radio dipidana dengan pidana penjara paling lama 2 (dua) tahun dan/atau pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
 2. (21 Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 33 ayat (1) untuk Penyiaran Televisi dipidana dengan pidana penjara paling lama 2 (dua) tahun dan/atau pidana denda paling banyak Rp5.00O.O00.000,00 (lima miliar rupiah).
@@ -12554,26 +12560,26 @@ Pasal 25 . .
 
 <!-- image -->
 
-## PRESIDEN REFUELIK INDONESIA
+**PRESIDEN REFUELIK INDONESIA**
 
-## Pasal 60A
+**Pasal 60A**
 
 - (1) Penyelenggaraan Penyiaran dilaksanakan dengan mengikuti perkembangan teknologi, termasuk migrasi Penyiaran dari teknologi analog ke teknologi digital.
 2. (21 Migrasi Penyiaran Televisi terestrial dari teknologi analog ke teknologi digital sebagaimana dimaksud pada ayat (1) dan penghentian siaran analog (analog switch oIfr diselesaikan paling lambat tanggal 2 November 2022.
 - (3) Ketentuan lebih lanjut mengenai migrasi Penyiaran dari teknologi analog ke teknologi digital sebagaimana dimaksud pada ayat (1) dan ayat (21 diatur dalam Peraturan Pemerintah.
 
-## Paragraf 16
+**Paragraf 16**
 
-## Pertahanan dan Keamanan
+**Pertahanan dan Keamanan**
 
-## Pasal 73
+**Pasal 73**
 
 Untuk memberikan kemudahan bagi masyarakat terutama Pelaku Usaha dalam mendapatkan Perizinan Berusaha dari sektor pertahanan dan keamanan, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
 - a. Undang-Undang Nomor 16 Tahun 2Ol2 tentang Industri Pertahanan (Lembaran Negara Republik Indonesia Tahun 2Ol2 Nomor 183, Tambahan Lembaran Negara Republik Indonesia Nomor 5343); dan
 - b. Undang-Undang Nomor 2 Tahun 2OO2 tentang Kepolisian Negara Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2OO2 Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 4168).
 
-## Pasal 74
+**Pasal 74**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 16 Tahun 2Ol2 tentang Industri Pertahanan (Lembaran Negara Republik Indonesia Tahun 2Ol2 Nomor 183, Tambahan Lembaran Negara Republik Indonesia Nomor 5343), diubah sebagai berikut:
 
@@ -12581,7 +12587,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 16 Tahun 2Ol2 tentang Industri Pert
 
 <!-- image -->
 
-## PRESIDEN REPTIBLIK INDONESIA
+**PRESIDEN REPTIBLIK INDONESIA**
 
 - 1 Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut:
 
@@ -12609,7 +12615,7 @@ f. menetapkan. . .
 
 <!-- image -->
 
-## PRESIDEN REPI'BUK INDONESIA
+**PRESIDEN REPI'BUK INDONESIA**
 
 - f. menetapkan standar Industri Pertahanan;
 - g. merumuskan kebijakan pendanaan dan/atau pembiayaan Industri Pertahanan;
@@ -12618,7 +12624,7 @@ f. menetapkan. . .
 5. (21 Rancangan rencana induk jangka panjang sebagaimana dimaksud pada ayat (1) huruf b diajukan kepada DPR untuk mendapatkan pertimbangan.
 6. 3 Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 - (1) Kegiatan produksi merupakan pembuatan produk oleh Industri Pertahanan sesuai dengan perencanaan produksi sebagaimana dimaksud dalam Pasal 37 ayat (1).
 2. (21 Kegiatan produksi Industri Pertahanan wajib mengutamakan penggunaan bahan mentah, bahan baku, dan komponen dalam negeri.
@@ -12630,11 +12636,11 @@ f. menetapkan. . .
 
 <!-- image -->
 
-## PRESIDEN REP1TEUK INDONESIA
+**PRESIDEN REP1TEUK INDONESIA**
 
 - 4 Ketentuan Pasal 52 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 52
+**Pasal 52**
 
 - (1) Kepemilikan modal atas industri alat utama dimiliki oleh badan usaha milik negara dan/atau badan usaha milik swasta yang mendapat persetujuan dari menteri yang menyelenggarakan urusan pemerintahan di bidang pertahanan.
 2. (21 Badan usaha milik negara dan badan usaha milik swasta sebagaimana dimaksud pada ayat (1) harus menerapkan sistem pengawasan yang diterapkan oleh kementerian yang menyelenggarakan unlsan pemerintahan di bidang pertahanan.
@@ -12642,7 +12648,7 @@ f. menetapkan. . .
 4. (41 Kepemilikan modal atas industri komponen utama dan/atau penunjang, industri komponen dan/atau pendukung (perbekalan), dan industri bahan baku dilakukan sesuai dengan ketentuan peraturan perundang-undangan di bidang penanaman modal.
 5. Ketentuan Pasal 55 diubah sehingga berbunyi sebagai berikut: 5
 
-## Pasal 55
+**Pasal 55**
 
 Setiap Orang yang mengekspor dan/atau melakukan transfer alat peralatan yang digunakan untuk pertahanan dan keamanan negara lain wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 
@@ -12652,22 +12658,22 @@ Pasal 56
 
 <!-- image -->
 
-## PRESIDEN REPTIBLIK INDONESIA
+**PRESIDEN REPTIBLIK INDONESIA**
 
-## Pasal 56
+**Pasal 56**
 
 - (1) Pemasaran Alat Peralatan Pertahanan dan Keamanan dilakukan dengan memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 2. (21 Dalam rangka pertimbangan kepentingan strategis nasional, DPR dapat melarang atau memberikan pengecualian penjualan produk Alat Peralatan Pertahanan dan Keamanan tertentu sesuai dengan politik luar negeri yang dijalankan Pemerintah Pusat.
 - (3) Ketentuan mengenai tata cara pemberian Perizinan Berusaha terkait pemasaran Alat Peralatan Pertahanan dan Keamanan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 4. Ketentuan Pasal 66 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal 66
+**Pasal 66**
 
 Setiap Orang dilarang membocorkan informasi yang bersifat rahasia mengenai formulasi rancang bangun teknologi Alat Peralatan Pertahanan dan Keamanan bagi pertahanan dan keamanan.
 
 - Ketentuan Pasal 67 diubah sehingga berbunyi sebagai berikut: 8
 
-## Pasal 67
+**Pasal 67**
 
 Setiap Orang dilarang memproduksi Alat Peralatan Pertahanan dan Keamanan tanpa memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 
@@ -12677,23 +12683,23 @@ Pasal68...
 
 <!-- image -->
 
-## PRESIDEN REI'IIBUK INDONESIA
+**PRESIDEN REI'IIBUK INDONESIA**
 
 527 -
 
-## Pasal 68
+**Pasal 68**
 
 Setiap Orang dilarang menjual, mengekspor, dan/atau melakukan transfer Alat Peralatan Pertahanan dan Keamanan tanpa memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 
 10. Ketentuan Pasal 69 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 69
+**Pasal 69**
 
 Setiap Orang dilarang membeli dan/atau mengimpor Alat Peralatan Pertahanan dan Keamanan tanpa memenuhi Perizinan Berusaha dari Pemerintah Pusat.
 
 - 1 1. Di antara Pasal 69 dan Pasal 70 disisipkan 1 (satu) pasal, yakni Pasal 69A sehingga berbunyi sebagai berikut:
 
-## Pasal 69A
+**Pasal 69A**
 
 - (1) Dalam hal kegiatan sebagaimana dimaksud dalam Pasal 55, Pasal 56, Pasal 67, Pasal 68, dan Pasal 69 dilakukan oleh instansi pemerintah, kegiatan tersebut wajib mendapatkan persetujuan dari Pemerintah Pusat.
 2. (21 Perizinan Berusaha dan persetujuan dari Pemerintah Pusat dilaksanakan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang pertahanan berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan.
@@ -12703,7 +12709,7 @@ Setiap Orang dilarang membeli dan/atau mengimpor Alat Peralatan Pertahanan dan K
 
 <!-- image -->
 
-## FRESIDEN REPIIBLIK INDONESIA
+**FRESIDEN REPIIBLIK INDONESIA**
 
 12. Ketentuan Pasal 72 dlubah sehingga berbunyi sebagai berikut:
 
@@ -12713,7 +12719,7 @@ Pasal 72
 2. (21 Dalam hal tindak pidana sebagaimana dimaksud pada ayat (1) dilakukan dalam keadaan perang, pelaku dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan/atau pidana denda paling banyak Rp25.000.000.0OO,OO (dua puluh lima miliar rupiah).
 13. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 73
+**Pasal 73**
 
 - (1) Setiap Orang yang menjual, mengekspor, dan/atau melakukan transfer Alat Peralatan Pertahanan dan Keamanan tanpa memenuhi Perizinan Berusaha dari Pemerintah Pusat sebagaimana dimaksud dalam Pasal 68 dipidana dengan pidana penjara paling lama 12 (dua belas) tahun dan/atau pidana denda paling banyak Rp200.00O.O0O.000,00 (dua ratus miliar rupiah).
 2. (21 Dalam hal tindak pidana sebagaimana dimaksud pada ayat (1) dilakukan dalam keadaan perang, pelaku dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan/atau pidana denda paling banyak Rp500.000.000.000,00 (lima ratus miliar rupiah).
@@ -12722,7 +12728,7 @@ Pasal 72
 
 <!-- image -->
 
-## PRESIDEN REPTIBLIK INDONESIA
+**PRESIDEN REPTIBLIK INDONESIA**
 
 14. Ketentuan Pasal 74 diubah sehingga berbunyi sebagai berikut:
 
@@ -12732,11 +12738,11 @@ Pasal 74
 2. (21 Dalam hal tindak pidana sebagaimana dimaksud pada ayat (1) dilakukan dalam keadaan perang, pelaku dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan/atau pidana denda paling banyak Rp500.000.000.000,00 (lima ratus miliar rupiah).
 15. Ketentuan Pasal 75 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 75
+**Pasal 75**
 
 Setiap Orang yang membeli dan/atau mengimpor Alat Peralatan Pertahanan dan Keamanan tanpa memenuhi Perizinan Berusaha dari Pemerintah Pusat sebagaimana dimaksud dalam Pasal 69 dan persetujuan dari Pemerintah Pusat sebagaimana dimaksud dalam Pasal 69A dipidana dengan pidana penjara paling lama 7 (tujuh) tahun dan/atau pidana denda paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
 
-## Pasal 75
+**Pasal 75**
 
 Ketentuan Pasal 15 Undang-Undang Nomor 2 Tahun 2OO2 tentang Kepolisian Negara Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 2OO2 Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 4168) diubah sehingga berbunyi sebagai berikut:
 
@@ -12744,9 +12750,9 @@ Pasal 15. . .
 
 <!-- image -->
 
-## PRESIDEN REPTTBLIK INDONESIA
+**PRESIDEN REPTTBLIK INDONESIA**
 
-## Pasal 15
+**Pasal 15**
 
 - (1) Dalam rangka menyelenggarakan tugas sebagaimana dimaksud dalam Pasal 13 dan Pasal 14, Kepolisian Negara Republik Indonesia secara umum berwenang:
 - a. menerima laporan dan/atau pengaduan;
@@ -12769,7 +12775,7 @@ b. menyelenggarakan. . .
 
 <!-- image -->
 
-## PRES!DEN REPI.JEUK INDONESIA
+**PRES!DEN REPI.JEUK INDONESIA**
 
 - b. menyelenggarakan registrasi dan identifikasi kendaraan bermotor;
 - c. memberikan surat izin mengemudi kendaraan bermotor;
@@ -12787,19 +12793,19 @@ BagianKelima...
 
 <!-- image -->
 
-## PRESIDEN REPI.IELTK INDONESIA
+**PRESIDEN REPI.IELTK INDONESIA**
 
 -532-
 
-## Bagian Kelima
+**Bagian Kelima**
 
-## Penyederhanaan Persyaratan lnvestasi pada Sektor Tertentu
+**Penyederhanaan Persyaratan lnvestasi pada Sektor Tertentu**
 
-## Paragraf 1
+**Paragraf 1**
 
 Umum
 
-## Pasal 76
+**Pasal 76**
 
 Untuk mempermudah masyarakat terutama Pelaku Usaha dalam melakukan investasi pada sektor tertentu yaitu penanaman modal, perbankan, dan perbankan syariah, Peraturan Pemerintah Pengganti Undang-Undang Cipta Kerja ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -12807,11 +12813,11 @@ Untuk mempermudah masyarakat terutama Pelaku Usaha dalam melakukan investasi pad
 - b. Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 3472) sebagaimana telah diubah dengan Undang-Undang Nomor 10 Tahun 1998 tentang Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor 379O); dan
 - c. Undang-Undang Nomor 2l Tahun 2008 tentang Perbankan Syariah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 94, Tambahan Lembaran Negara Republik Indonesia Nomor 48671.
 
-## Paragraf 2
+**Paragraf 2**
 
-## Penanaman Modal
+**Penanaman Modal**
 
-## Pasal 77
+**Pasal 77**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 25
 
@@ -12847,7 +12853,7 @@ Pasal 12
 - (3) Ketentuan lebih lanjut mengenai bidang usaha sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Presiden.
 2. 3 Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 13
+**Pasal 13**
 
 - (1) Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya memberikan kemudahan, pelindungan, dan pemberdayaan bagi koperasi dan usaha mikro, kecil, dan menengah dalam pelaksanaan Penanaman Modal berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan Pemerintah Pusat.
 2. (21 Pelindungan dan pemberdayaan sebagaimana dimaksud pada ayat (1) berupa pembinaan dan pengembangan koperasi dan usaha mikro, kecil, dan menengah melalui:
@@ -12863,13 +12869,13 @@ Pasal 12
 
 <!-- image -->
 
-## PRESIDEH REPTIBLIK INDONESIA
+**PRESIDEH REPTIBLIK INDONESIA**
 
 -535-
 
 - 4 Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 18
+**Pasal 18**
 
 - (1) Pemerintah Pusat memberikan fasilitas kepada Penanam Modal yang melakukan Penanaman Modal.
 2. (21 Fasilitas Penanaman Modal sebagaimana dimaksud pada ayat (1) dapat diberikan kepada Penanaman Modal yang:
@@ -12893,26 +12899,26 @@ Pasal 12
 
 <!-- image -->
 
-## PRESIDEN REPTTBLIK TNDONESIA
+**PRESIDEN REPTTBLIK TNDONESIA**
 
 -536-
 
 - 5 Ketentuan Pasal 25 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 25
+**Pasal 25**
 
 - (1) Penanam Modal yang melakukan Penanaman Modal di Indonesia harus dilakukan sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 5.
 2. (21 Pengesahan pendirian badan usaha Penanaman Modal Dalam Negeri yang berbentuk badan hukum atau tidak berbadan hukum dilakukan sesuai dengan ketentuan peraturan perundangundangan.
 - (3) Pengesahan pendirian badan usaha Penanaman ' Modal Asing yang berbentuk perseroan terbatas dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 - (4) Perusahaan Penanaman Modal yang akan melakukan kegiatan usaha wajib memenuhi Perizinan Berusaha dari Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 
-## Paragraf 3 Perbankan
+**Paragraf 3 Perbankan**
 
-## Pasal 78
+**Pasal 78**
 
 Ketentuan Pasal 22 Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 3472) sebagaimana telah diubah dengan Undang-Undang Nomor 10 Tahun 1998 tentang Perubahan atas Undang-Undang Nomor 7 Tahun l9g2 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1998 Nomor I82, Tambahan Lembaran Negara Republik Indonesia Nomor 37901 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 22
+**Pasal 22**
 
 - (1) Bank Umum dapat didirikan oleh:
 
@@ -12923,15 +12929,15 @@ Ketentuan Pasal 22 Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran 
 - c. warga negara Indonesia dan/atau badan hukum Indonesia dengan warga negara asing dan/atau badan hukum asing secara kemitraan.
 4. (21 Ketentuan lebih lanjut mengenai persyaratan pendirian yang wajib dipenuhi pihak-pihak sebagaimana dimaksud pada ayat (1) ditetapkan oleh Otoritas Jasa Keuangan.
 
-## Paragraf 4
+**Paragraf 4**
 
-## Perbankan Syariah
+**Perbankan Syariah**
 
-## Pasal 79
+**Pasal 79**
 
 Ketentuan Pasal 9 Undang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah (l,embaran Negara Republik Indonesia Tahun 2OOB Nomor 94, Tambahan Lembaran Negara Republik Indonesia Nomor 4867) diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 9
+**Pasal 9**
 
 - (1) Bank Umum Syariah hanya dapat didirikan dan/atau dimiliki oleh:
 - a. warga negara Indonesia;
@@ -12947,19 +12953,19 @@ Ketentuan Pasal 9 Undang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah (l
 
 <!-- image -->
 
-## PRESIDEN REI,UBLIK IHDONESIA
+**PRESIDEN REI,UBLIK IHDONESIA**
 
 - (3) Maksimum kepemilikan Bank Umum Syariah oleh badan hukum asing ditentukan sesuai dengan ketentuan peraturan perundang-undangan di bidang penanaman modal.
 
-## BAB IV
+**BAB IV**
 
-## KETENAGAKERJAAN
+**KETENAGAKERJAAN**
 
-## Bagian Kesatu
+**Bagian Kesatu**
 
-## Umum
+**Umum**
 
-## Pasal 80
+**Pasal 80**
 
 Dalam rangka penguatan perlindungan kepada tenaga kerja dan meningkatkan peran dan kesejahteraan pekerja/buruh dalam mendukung ekosistem investasi, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -12972,19 +12978,19 @@ BagianKedua...
 
 <!-- image -->
 
-## EI{rEIEtrN REPUN|JK INDONESIA
+**EI{rEIEtrN REPUN|JK INDONESIA**
 
 -539-
 
-## Bagian Kedua Ketenagakerjaan
+**Bagian Kedua Ketenagakerjaan**
 
-## Pasal 81
+**Pasal 81**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2OO3 Nomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 4279) diubah sebagai berikut:
 
 1. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 13
+**Pasal 13**
 
 - (1) Pelatihan Kerja diselenggarakan oleh:
 2. lembaga Pelatihan Kerja pemerintah; a-
@@ -12995,7 +13001,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerja
 7. (41 Lembaga Pelatihan Kerja pemerintah sebagaimana dimaksud pada ayat (1) huruf a dan lembaga Pelatihan Kerja Perusahaan sebagaimana dimaksud pada ayat (1) huruf c mendaftarkan kegiatannya kepada instansi yang bertanggung jawab di bidang Ketenagakerjaan di kabupaten/kota.
 8. Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut: 2
 
-## Pasal 14
+**Pasal 14**
 
 - (1) Lembaga Pelatihan Kerja swasta sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf b wajib memenuhi Perizinan Berusaha yang diterbitkan oleh Pemerintah Daerah kabupaten/kota.
 
@@ -13003,7 +13009,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerja
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK TNDONESIA
+**PRESIDEN REFUBLIK TNDONESIA**
 
 -540-
 
@@ -13011,7 +13017,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerja
 - (3) Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dan ayat (2) harus memenuhi norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 3. 3 Ketentuan Pasal 37 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 37
+**Pasal 37**
 
 - (1) Pelaksana penempatan Tenaga Kerja sebagaimana dimaksud dalam Pasal 35 ayat (1) terdiri atas:
 2. a instansi pemerintah yang bertanggung jawab di bidang Ketenagakerjaan; dan
@@ -13020,7 +13026,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerja
 - (3) Perizinan Berusaha sebagaimana dimaksud pada ayat (2) harus memenuhi norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 6. Ketentuan Pasal 42 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 42
+**Pasal 42**
 
 - (1) Setiap Pemberi Kerja yang mempekerjakan Tenaga Kerja Asing wajib memiliki rencana penggunaan Tenaga Kerja Asing yang disahkan oleh Pemerintah Pusat.
 2. l2l Pemberi Kerja orang perseorangan dilarang mempekerjakan Tenaga Kerja Asing.
@@ -13029,7 +13035,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerja
 
 <!-- image -->
 
-## FRESIDEN REPTIEUK INDOHESIA
+**FRESIDEN REPTIEUK INDOHESIA**
 
 -541 -
 
@@ -13044,7 +13050,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerja
 6. Pasal 44 dihapus
 10. Ketentuan Pasal 45 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal 45
+**Pasal 45**
 
 - (1) Pemberi Kerja Tenaga Kerja Asing wajib:
 2. a- menunjuk Tenaga Kerja warga negara Indonesia sebagai tenaga pendamping Tenaga Kerja Asing yang dipekerjakan untuk alih teknologi dan alih keahlian dari Tenaga Kerja Asing;
@@ -13061,7 +13067,7 @@ b. melaksanakan
 8. Pasal 46 dihapus.
 5. 9 Ketentuan Pasal 47 diubah sehingga berbunyi sebagai bqrikut:
 
-## Pasal 47
+**Pasal 47**
 
 - (1) Pemberi Kerja wajib membayar kompensasi atas setiap Tenaga Kerja Asing yang dipekerjakannya.
 2. (21 Kewajiban membayar kompensasi sebagaimana dimaksud pada ayat (1) tidak berlaku bagi instansi pemerintah, perwakilan negara asing, badan internasional, lembaga sosial, lembaga keagamaan, dan jabatan tertentu di lembaga pendidikan.
@@ -13069,7 +13075,7 @@ b. melaksanakan
 10. Pasal 48 dihapus.
 11. Ketentuan Pasal 49 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 49
+**Pasal 49**
 
 Ketentuan lebih lanjut mengenai penggunaan Tenaga Kerja Asing diatur dalam Peraturan Pemerintah.
 
@@ -13077,11 +13083,11 @@ Ketentuan lebih lanjut mengenai penggunaan Tenaga Kerja Asing diatur dalam Perat
 
 <!-- image -->
 
-## PRESIDEN REPTIBUK INDONESIA
+**PRESIDEN REPTIBUK INDONESIA**
 
 12. Ketentuan Pasal 56 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56
+**Pasal 56**
 
 - (1) Pedanjian Kerja dibuat untuk waktu tertentu atau untuk waktu tidak tertentu.
 2. (21 Perjanjian kerja waktu tertentu sebagaimana dimaksud pada ayat (1) didasarkan atas:
@@ -13091,7 +13097,7 @@ Ketentuan lebih lanjut mengenai penggunaan Tenaga Kerja Asing diatur dalam Perat
 6. l4l Ketentuan lebih lanjut mengenai perjanjian kerja waktu tertentu berdasarkan jangka waktu atau selesainya suatu pekerjaan tertentu diatur dalam Peraturan Pemerintah.
 13. Ketentuan Pasal 57 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 57
+**Pasal 57**
 
 - (1) Perjanjian kerja waktu tertentu dibuat secara tertulis serta harus menggunakan bahasa Indonesia dan huruf latin.
 2. (21 Dalam hal perjanjian kerja waktu tertentu dibuat dalam bahasa Indonesia dan bahasa asing, apabila kemudian terdapat perbedaan penafsiran antara keduanya, yang berlaku perjanjian kerja waktu tertentu yang dibuat dalam bahasa Indonesia.
@@ -13101,17 +13107,17 @@ Pasal 58. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBL|K INDONESIA
+**PRESIDEN REPUBL|K INDONESIA**
 
 -544-
 
-## Pasal 58
+**Pasal 58**
 
 - (1) Perjanjian kerja waktu tertentu tidak dapat mensyaratkan adanya masa percobaan kerja.
 2. (21 Dalam hal disyaratkan masa percobaan kerja sebagaimana dimaksud pada ayat (1), masa percobaan kerja yang disyaratkan tersebut batal demi hukum dan masa kerja tetap dihitung.
 15. Ketentuan Pasal 59 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 59
+**Pasal 59**
 
 - (1) Perjanjian kerja waktu tertentu hanya dapat dibuat untuk pekerjaan tertentu yang menurut jenis dan sifat atau kegiatan pekerjaannya akan selesai dalam waktu tertentu, yaitu sebagai berikut:
 - a. pekerjaan yang sekali selesai atau yang sementara sifatnya;
@@ -13127,13 +13133,13 @@ Pasal 58. . .
 
 <!-- image -->
 
-## FRESIDEN REPUBUK INDONESIA
+**FRESIDEN REPUBUK INDONESIA**
 
 -545-
 
 16. Ketentuan Pasal 61 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 61
+**Pasal 61**
 
 - (1) Perjanjian Kerja berakhir apabila:
 2. a- Pekerja/Buruh meninggal dunia;
@@ -13151,18 +13157,18 @@ Pasal 61A...
 
 <!-- image -->
 
-## REPI,IEUK INDONESIA
+**REPI,IEUK INDONESIA**
 
 -546-
 
-## Pasal 61A
+**Pasal 61A**
 
 - (1) Dalam hal pedanjian kerja waktu tertentu berakhir sebagaimana dimaksud dalam Pasal 61 ayat (1) huruf b dan huruf c, Pengusaha wajib memberikan uang kompensasi kepada Pekerja/ Buruh.
 2. (21 Uang kompensasi sebagaimana dimaksud pada ayat (1) diberikan kepada Pekerja/Buruh sesuai . dengan masa kerja Pekerja/Buruh di Perrrsahaan yang bersangkutan.
 - (3) Ketentuan lebih lanjut mengenai uang kompensasi diatur dalam Peraturan Pemerintah.
 18. Ketentuan Pasal 64 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 64
+**Pasal 64**
 
 - (1) Perusahaan dapat menyerahkan sebagian pelaksanaan pekerjaan kepada Perusahaan lainnya melalui perjanjian alih daya yang dibuat secara tertulis.
 - (2) Pemerintah menetapkan sebagian pelaksanaan pekerjaan sebagaimana dimaksud pada ayat (1).
@@ -13170,7 +13176,7 @@ Pasal 61A...
 19. Pasal 65 dihapus.
 20. Ketentuan Pasal 66 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 66
+**Pasal 66**
 
 - (1) Hubungan Kerja antara Perusahaan alih daya dengan Pekerja/Buruh yang dipekerjakannya didasarkan pada Perjanjian Kerja yang dibuat secara tertulis, baik perjanjian kerja waktu tertentu maupun perjanjian kerja waktu tidak tertentu.
 - (2) Pelindungan Pekerja/Buruh, Upah dan kesejahteraan, syarat-syarat kerja, serta perselisihan yang timbul dilaksanakan sekurangkurangnya sesuai dengan ketentuan peraturan perundang-undangan dan menjadi tanggung jawab Perusahaan alih daya.
@@ -13183,13 +13189,13 @@ Pasal 61A...
 - (6) Ketentuan lebih lanjut mengenai pelindungan Pekerja/Buruh sebagaimana dimaksud pada ayat (2) dan Perizinan Berusaha sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan Pemerintah.
 21. Judul Paragraf 1 pada BAB X diubah sehingga berbunyi sebagai berikut:
 
-## Paragraf 1
+**Paragraf 1**
 
-## Penyandang Disabilitas
+**Penyandang Disabilitas**
 
 22. Ketentuan Pasal 67 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 67
+**Pasal 67**
 
 - (1) Pengusaha yang mempekerjakan Tenaga Kerja penyandang disabilitas wajib memberikan perlindungan sesuai dengan jenis dan derajat kedisabilitasan.
 2. (21 Pemberian perlindungan sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
@@ -13202,7 +13208,7 @@ Pasal 61A...
 
 23. Ketentuan Pasal 77 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 77
+**Pasal 77**
 
 - (1) Setiap Pengusaha wajib melaksanakan ketentuan waktu kerja.
 2. (21 Waktu kerja sebagaimana dimaksud pada ayat (1) meliputi:
@@ -13213,7 +13219,7 @@ Pasal 61A...
 - (5) Ketentuan lebih lanjut mengenai waktu kerja pada sektor usaha atau pekerjaan tertentu sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Pemerintah.
 24. Ketentuan Pasal 78 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 78
+**Pasal 78**
 
 - (1) Pengusaha yang mempekerjakan Pekerja/Buruh melebihi waktu kerja sebagaimana dimaksud dalam Pasal 77 ayat (2) harus memenuhi syarat:
 2. a- ada persetujuan Pekerja/Buruh yang bersangkutan; dan
@@ -13243,7 +13249,7 @@ Pasal 79
 
 <!-- image -->
 
-## I'RESIDEN REFTIEUK INDONESIA
+**I'RESIDEN REFTIEUK INDONESIA**
 
 -550-
 
@@ -13251,13 +13257,13 @@ Pasal 79
 - (6) Ketentuan lebih lanjut mengenai Perusahaan tertentu sebagaimana dimaksud pada ayat (5) diatur dengan Peraturan Pemerintah.
 26. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 84
+**Pasal 84**
 
 Setiap Pekerja/Buruh yang menggunakan hak waktu istirahat sebagaimana dimaksud dalam Pasal 79 ayat(21 huruf b, ayat (3), ayat (5), Pasal 80, dan Pasal 82 berhak mendapat Upah penuh.
 
 27. Ketentuan Pasal 88 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 88
+**Pasal 88**
 
 - (1) Setiap Pekerja/Buruh berhak atas penghidupan yang layak bagi kemanusiaan.
 2. (21 Pemerintah Pusat menetapkan kebijakan pengupahan sebagai salah satu upaya mewujudkan hak Pekerja/Buruh atas penghidupan yang layak bagi kemanusiaan.
@@ -13275,7 +13281,7 @@ Setiap Pekerja/Buruh yang menggunakan hak waktu istirahat sebagaimana dimaksud d
 
 28. Di antara Pasal 88 dan Pasal 89 disisipkan 6 (enam) pasal, yakni Pasal88A, Pasal88B, Pasal88C, Pasal88D, Pasal 88E, dan Pasal 88F sehingga berbunyi sebagai berikut:
 
-## Pasal 88A
+**Pasal 88A**
 
 - (1) Hak Pekerja/Buruh atas Upah timbul pada saat terjadi Hubungan Kerja antara Pekerja/Buruh dengan Pengusaha dan berakhir pada saat putusnya Hubungan Kerja.
 2. (21 Setiap Pekerja/Buruh berhak memperoleh Upah yang sama untuk pekerjaan yang sama nilainya.
@@ -13291,14 +13297,14 @@ Setiap Pekerja/Buruh yang menggunakan hak waktu istirahat sebagaimana dimaksud d
 - (71 Pekerja/Buruh yang melakukan pelanggaran karena kesengajaan atau kelalaiannya dapat dikenakan denda.
 - (8) Pemerintah mengatur pengenaan denda kepada Pengusaha dan/atau Pekerja/Buruh dalam pembayaran Upah.
 
-## Pasal 88B
+**Pasal 88B**
 
 - (1) Upah ditetapkan berdasarkan:
 2. a satuan waktu; dan/atau
 - b. satuan hasil.
 - (2) Ketentuan lebih lanjut mengenai Upah berdasarkan satuan waktu dan/atau satuan hasil sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## Pasal 88C
+**Pasal 88C**
 
 - (1) Gubernur wajib menetapkan Upah minimum provinsi.
 - (2) Gubernur dapat menetapkan Upah minimum kabupaten/kota.
@@ -13311,22 +13317,22 @@ Setiap Pekerja/Buruh yang menggunakan hak waktu istirahat sebagaimana dimaksud d
 
 <!-- image -->
 
-## FRESIDEN REPUBLTI( IHDONESIA
+**FRESIDEN REPUBLTI( IHDONESIA**
 
 - (71 Ketentuan lebih lanjut mengenai tata cara penetapan Upah minimum sebagaimana dimaksud pada ayat (41 dan syarat tertentu sebagaimana dimaksud pada ayat (6) diatur dalam Peraturan Pemerintah.
 
-## Pasal 88D
+**Pasal 88D**
 
 - (1) Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (21 dihitung dengan menggunakan formula penghitungan Upah minimum.
 - (2) Formula penghitungan Upah minimum sebagaimana dimaksud pada ayat (1) mempertimbangkan variabel pertumbuhan ekonomi, inflasi, dan indeks tertentu.
 - (3) Ketentuan lebih lanjut mengenai formula penghitungan Upah minimum diatur dalam Peraturan Pemerintah.
 
-## Pasal 88E
+**Pasal 88E**
 
 - (1) Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (21 berlaku bagi Pekerja/Buruh dengan masa kerja kurang dari 1 (satu) tahun pada Perusahaan yang bersangkutan.
 2. (21 Pengusaha dilarang membayar Upah lebih rendah dari Upah minimum.
 
-## Pasal 88F
+**Pasal 88F**
 
 Dalam keadaan tertentu Pemerintah dapat menetapkan formula penghitungan Upah minimum yang berbeda dengan formula penghitungan Upah minimum sebagaimana dimaksud dalam Pasal 88D ayat (2).
 
@@ -13336,15 +13342,15 @@ Dalam keadaan tertentu Pemerintah dapat menetapkan formula penghitungan Upah min
 
 <!-- image -->
 
-## PRESIDEN REPTJBIJK INDONESIA
+**PRESIDEN REPTJBIJK INDONESIA**
 
 -554-
 
-## Pasal 90A
+**Pasal 90A**
 
 Upah di atas Upah minimum ditetapkan berdasarkan kesepakatan antara Pengusaha dan Pekerja/Buruh di Perusahaan.
 
-## Pasal 90B
+**Pasal 90B**
 
 - (1) Ketentuan Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (2) dikecualikan bagi usaha mikro dan kecil.
 2. (21 Upah pada usaha mikro dan kecil ditetapkan berdasarkan kesepakatan antara Pengusaha dan Pekerja/ Buruh di Perusahaan.
@@ -13353,7 +13359,7 @@ Upah di atas Upah minimum ditetapkan berdasarkan kesepakatan antara Pengusaha da
 32. Pasal 91 dihapus.
 33. Ketentuan Pasal 92 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 92
+**Pasal 92**
 
 - (1) Pengusaha wajib men5rusun strrrktur dan skala Upah di Perusahaan dengan memperhatikan kemampuan Perusahaan dan produktivitas.
 - (2) Struktur dan skala Upah digunakan sebagai pedoman Pengusaha dalam menetapkan Upah bagi Pekerja/Buruh yang memiliki masa kerja 1 (satu) tahun atau lebih.
@@ -13363,23 +13369,23 @@ Upah di atas Upah minimum ditetapkan berdasarkan kesepakatan antara Pengusaha da
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 34. Di antara Pasal 92 dan Pasal 93 disisipkan 1 (satu) pasal, yakni Pasal 92A sehingga berbunyi sebagai berikut:
 
-## Pasal 92A
+**Pasal 92A**
 
 Pengusaha melakukan peninjauan Upah secara berkala dengan memperhatikan kemampuan Perusahaan dan produktivitas.
 
 35. Ketentuan Pasal 94 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 94
+**Pasal 94**
 
 Dalam hal komponen Upah terdiri atas Upah pokok dan tunjangan tetap, besarnya Upah pokok paling sedikit 75% (tujuh puluh lima persen) dari jumlah Upah pokok dan tunjangan tetap.
 
 36. Ketentuan Pasal 95 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 95
+**Pasal 95**
 
 - (1) Dalam hal Perusahaan dinyatakan pailit atau dilikuidasi berdasarkan ketentuan peraturan perundang-undangan, Upah dan hak lainnya yang belum diterima oleh Pekerja/Buruh merupakan utang yang didahulukan pembayarannya.
 2. (21 Upah Pekerja/Burrrh sebagaimana dimaksud pada ayat (1) didahulukan pembayarannya sebelum pembayaran kepada semua kreditur.
@@ -13389,7 +13395,7 @@ Dalam hal komponen Upah terdiri atas Upah pokok dan tunjangan tetap, besarnya Up
 
 <!-- image -->
 
-## PTTESIDEN REFUBLIK INDONESIA
+**PTTESIDEN REFUBLIK INDONESIA**
 
 -556-
 
@@ -13397,14 +13403,14 @@ Dalam hal komponen Upah terdiri atas Upah pokok dan tunjangan tetap, besarnya Up
 - 38 Pasal 97 dihapus.
 39. Ketentuan Pasal 98 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 98
+**Pasal 98**
 
 - (1) Untuk memberikan saran dan pertimbangan kepada Pemerintah Pusat atau Pemerintah Daerah dalam perumusan kebijakan pengupahan serta pengembangan sistem pengupahan dibentuk dewan pengupahan.
 2. (21 Dewan pengupahan terdiri atas unsur pemerintah, organisasi Pengusaha, Serikat Pekerja/Serikat Buruh, pakar, dan akademisi.
 - (3) Ketentuan lebih lanjut mengenai tata cara pembentukan, komposisi keanggotaan, tata cara pengangkatan dan pemberhentian keanggotaan, serta tugas dan tata kerja dewan pengupahan diatur dalam Peraturan Pemerintah.
 40. Ketentuan Pasal 151 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 151
+**Pasal 151**
 
 - (1) Pengusaha, Pekeda/Buruh, Serikat Pekerja/Serikat Buruh, dan Pemerintah harus mengupayakan agar tidak terjadi Pemutusan Hubungan Kerja.
 2. (21 Dalam hal Pemutusan Hubungan Kerja tidak dapat dihindari, maksud dan alasan Pemutusan Hubungan Kerja diberitahukan oleh Pengusaha kepada Pekerja/Buruh dan/atau Serikat Pekeda/Serikat Buruh.
@@ -13413,7 +13419,7 @@ Dalam hal komponen Upah terdiri atas Upah pokok dan tunjangan tetap, besarnya Up
 
 <!-- image -->
 
-## FRESIDEN REPIIBLIK INDONESIA
+**FRESIDEN REPIIBLIK INDONESIA**
 
 -557-
 
@@ -13421,7 +13427,7 @@ Dalam hal komponen Upah terdiri atas Upah pokok dan tunjangan tetap, besarnya Up
 2. (41 Dalam hal perundingan bipartit sebagaimana dimaksud pada ayat (3) tidak mendapatkan kesepakatan, Pemutusan Hubungan Kerja dilakukan melalui tahap berikutnya sesuai dengan mekanisme penyelesaian Perselisihan Hubungan Industrial.
 41. Di antara Pasal 151 dan Pasal 152 disisipkan 1 (satu) pasal, yakni Pasal 151A sehingga berbunyi sebagai berikut:
 
-## Pasal 151A
+**Pasal 151A**
 
 Pemberitahuan sebagaimana dimaksud dalam Pasal 151 ayat (21 tidak perlu dilakukan oleh Pengusaha dalam hal:
 
@@ -13432,14 +13438,14 @@ Pemberitahuan sebagaimana dimaksud dalam Pasal 151 ayat (21 tidak perlu dilakuka
 42. Pasal 152 dihapus.
 43. Ketentuan Pasal 153 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 153
+**Pasal 153**
 
 - (1) Pengusaha dilarang melakukan Pemutusan Hubungan Kerja kepada Pekerja/Buruh dengan alasan:
 - a. berhalangan
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK TNDONESIA
+**FRESIDEN REPUBLIK TNDONESIA**
 
 - a- berhalangan masuk kerja karena sakit menurut keterangan dokter selama waktu tidak melampaui 12 (dua belas) bulan secara terus-meneruls;
 - b. berhalangan menjalankan pekerjaannya karena memenuhi kewajiban terhadap negara sesuai dengan ketentuan peraturan perundang-undangan;
@@ -13460,7 +13466,7 @@ Pemberitahuan sebagaimana dimaksud dalam Pasal 151 ayat (21 tidak perlu dilakuka
 44. Pasal 154 dihapus.
 45. Di antara Pasal 154 dan Pasal 155 disisipkan 1 (satu) pasal, yakni Pasal 154A sehingga berbunyi sebagai berikut:
 
-## Pasal 154A
+**Pasal 154A**
 
 - (1) Pemutusan Hubungan Kerja dapat terjadi karena alasan:
 2. a- Perusahaan melakukan penggabungan, peleburan, pengambilalihan, atau pemisahan Perusahaan dan Pekerja/Buruh tidak bersedia melanjutkan Hubungan Kerja atau Pengusaha tidak bersedia menerima Pekerja/Buruh;
@@ -13490,7 +13496,7 @@ j.Pekerja...
 
 <!-- image -->
 
-## FRESIDEN REPIJBLIK INDONESIA
+**FRESIDEN REPIJBLIK INDONESIA**
 
 -561 -
 
@@ -13509,11 +13515,11 @@ Pasal 156. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -562-
 
-## Pasal 156
+**Pasal 156**
 
 - (1) Dalam hal tedadi Pemutusan Hubungan Kerja, Pengusaha wajib membayar uang pesangon dan/atau uang penghargaan masa kerja dan uang penggantian hak yang seharusnya diterima.
 2. (21 Uang pesangon sebagaimana dimaksud pada ayat (1) diberikan dengan ketentuan sebagai berikut:
@@ -13551,11 +13557,11 @@ Pasal 157 ...
 
 <!-- image -->
 
-## PRESIDEN REPUELIK TNDONESIA
+**PRESIDEN REPUELIK TNDONESIA**
 
 -564-
 
-## Pasal 157
+**Pasal 157**
 
 - (1) Komponen Upah yang digunakan sebagai dasar perhitungan uang pesangon dan uang penghargaan masa kerja terdiri atas:
 2. a- Upah pokok; dan
@@ -13565,7 +13571,7 @@ Pasal 157 ...
 - (4) Dalam hal Upah sebulan sebagaimana dimaksud pada ayat (3) lebih rendah dari Upah minimum, Upah yang menjadi dasar perhitungan pesangon adalah Upah minimum yang berlaku di wilayah domisili Perusahaan.
 49. Di antara Pasal 157 dan Pasal 158 disisipkan 1 (satu) pasal, yakni Pasal 157A sehingga berbunyi sebagai berikut:
 
-## Pasal 157A
+**Pasal 157A**
 
 - (1) Selama penyelesaian Perselisihan Hubungan Industrial, Pengusaha dan Pekerja/Buruh harus tetap melaksanakan kewajibannya.
 2. (21 Pengusaha dapat melakukan tindakan skorsing kepada Pekerja/Buruh yang sedang dalam proses Pemutusan Hubungan Kerja dengan tetap membayar Upah beserta hak lainnya yang biasa diterima Pekerja/Buruh.
@@ -13608,7 +13614,7 @@ Pasal 160
 65. Pasal 184 dihapus.
 66. Ketentuan Pasal 185 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 185
+**Pasal 185**
 
 - (1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 42 ayat (2), Pasal 68, Pasal 69 ayat (2), Pasal 80, Pasal 82, Pasal 88A ayat (3), Pasal 88E ayat (2), Pasal 143, Pasal 156 ayat (1), atau Pasal 160 ayat (41 dikenai sanksi pidana penjara paling singkat 1 (satu) tahun dan paling lama 4 (empat) tahun dan/atau pidana denda paling sedikit Rp1OO.OOO.0O0,00 (seratus juta rupiah) dan paling banyak Rp400.0O0.0OO,00 (empat ratus juta rupiah).
 
@@ -13621,13 +13627,13 @@ Pasal 160
 - (21 Tindak pidana sebagaimana dimaksud pada ayat (1) merupakan tindak pidana kejahatan.
 67. Ketentuan Pasal 186 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 186
+**Pasal 186**
 
 - (1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 35 ayat (2) atau ayat (3), atau Pasal 93 ayat (2), dikenai sanksi pidana penjara paling singkat 1 (satu) bulan dan paling lama 4 (empat) tahun dan/atau pidana denda paling sedikit Rp10.000.000,00 (sepuluh juta rupiah) dan paling banyak Rp400.00O.OOO,00 (empat ratus juta rupiah).
 2. (21 Tindak pidana sebagaimana dimaksud pada ayat (1) merupakan tindak pidana pelanggaran.
 68. Ketentuan Pasal 187 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 187
+**Pasal 187**
 
 - (1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 45 ayat (1), Pasal 67 ayat (1), Pasal 7l ayat (2), Pasal 76, Pasal 78 ayat (21, Pasal 79 ayat (1), ayat (2), atau ayat (3), Pasal 85 ayat (3), atau Pasal 144 dikenai sanksi pidana kurungan paling singkat 1 (satu) bulan dan paling lama 12 (dua belas) bulan dan/atau pidana denda paling sedikit Rp10.000.0O0,00 (sepuluh juta rupiah) dan paling banyak Rp100.000.000,00 (seratus juta rupiah).
 2. (21 Tindak pidana sebagaimana dimaksud pada ayat (1) merupakan tindak pidana pelanggaran.
@@ -13635,13 +13641,13 @@ Pasal 160
 
 <!-- image -->
 
-## Pasal 188
+**Pasal 188**
 
 - (1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 38 ayat (2), Pasal 63 ayat (1), Pasal 78 ayat (1), Pasal 108 ayat (1), Pasal 111 ayat (3), Pasal 114, atau Pasal 148 dikenai sanksi pidana denda paling sedikit Rp5.000.000,00 (lima juta rupiah) dan paling banyak Rp50.000.000,00 (lima puluh juta rupiah).
 - (2) Tindak pidana sebagaimana dimaksud pada ayat (1) merupakan tindak pidana pelanggaran.
 70. Ketentuan Pasal 190 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 190
+**Pasal 190**
 
 - (1) Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya mengenakan sanksi administratif atas pelanggaran ketentuanketentuan sebagaimana diatur dalam Pasal 5, Pasal 6, Pasal t4 ayat (1), Pasal 15, Pasal 25, Pasal 37 ayat (2), Pasal 38 ayat (2),, Pasal 42 ayat (ll, Pasal 47 ayat (1), Pasal61A, Pasal 66 ayat (4), Pasal 87, Pasal 92, Pasal 106, Pasal 126 ayat (3), atau Pasal 160 ayat (1) atau ayat (21Undang-Undang ini serta peraturan pelaksanaannya.
 2. l2l Ketentuan lebih lanjut mengenai sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -13649,11 +13655,11 @@ Pasal 160
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -569-
 
-## Pasal 191A
+**Pasal 191A**
 
 Pada saat berlakunya Undang-Undang ini:
 
@@ -13664,13 +13670,13 @@ Bagian Ketiga
 
 Jenis Program Jaminan Sosial
 
-## Pasal 82
+**Pasal 82**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 40 Tahun 2OO4 tentang Sistem Jaminan Sosial Nasional (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 150, Tambahan Lembaran Negara Republik Indonesia Nomor 4456) diubah sebagai berikut:
 
 - Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 18
+**Pasal 18**
 
 Jenis program jaminan sosial meliputi:
 
@@ -13684,29 +13690,29 @@ Jenis program jaminan sosial meliputi:
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -570-
 
-## Bagian Ketujuh Jaminan Kehilangan Pekerjaan
+**Bagian Ketujuh Jaminan Kehilangan Pekerjaan**
 
-## Pasal 46A
+**Pasal 46A**
 
 - (1) Pekerja/buruh yang mengalami pemutusan hubungan kerja berhak mendapatkan jaminan kehilangan pekerjaan.
 2. (21 Jaminan kehilangan pekerjaan diselenggarakan oleh badan penyelenggara Jaminan Sosial ketenagakerjaan dan Pemerintah Pusat.
 - (3) Ketentuan lebih lanjut mengenai tata cara penyelenggaraan jaminan kehilangan pekerjaan diatur dalam Peraturan Pemerintah.
 
-## Pasal 46E}
+**Pasal 46E}**
 
 - (1) Jaminan kehilangan pekerjaan diselenggarakan secara nasional berdasarkan prinsip Asuransi Sosial.
 - (2) Jaminan kehilangan pekerjaan diselenggarakan untuk mempertahankan derajat kehidupan yang layak pada saat pekerja/buruh kehilangan pekerjaan.
 
-## Pasal 46C
+**Pasal 46C**
 
 - (1) Peserta jaminan kehilangan pekerjaan adalah setiap orang yang telah membayar Iuran.
 - (2) Iuran sebagaimana dimaksud pada ayat (1) dibayar oleh Pemerintah Pusat.
 
-## Pasal 46D
+**Pasal 46D**
 
 - (1) Manfaat jaminan kehilangan pekerjaan berupa uang tunai, akses informasi pasar kerja, dan pelatihan kerja.
 
@@ -13718,7 +13724,7 @@ Jenis program jaminan sosial meliputi:
 - (3) Manfaat sebagaimana dimaksud pada ayat (1) diterima oleh Peserta setelah mempunyai masa kepesertaan tertentu.
 - (41 Ketentuan lebih lanjut mengenai Manfaat sebagaimana dimaksud pada ayat (1) dan masa kepesertaan tertentu sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Pemerintah.
 
-## Pasal 46E
+**Pasal 46E**
 
 - (1) Sumber pendanaan jaminan kehilangan pekerjaan berasal dari:
 - a. modal awal pemerintah;
@@ -13726,11 +13732,11 @@ Jenis program jaminan sosial meliputi:
 - c. dana operasional BPJS Ketenagakerjaan.
 5. (21 Ketentuan lebih lanjut mengenai pendanaan jaminan kehilangan pekerjaan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## Bagian Keempat
+**Bagian Keempat**
 
-## Badan Penyelenggara Jaminan Sosial
+**Badan Penyelenggara Jaminan Sosial**
 
-## Pasal 83
+**Pasal 83**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 24 Tahun 20ll tentang Badan Penyelenggara Jaminan Sosial (Lembaran Negara Republik Indonesia Tahun 2oll Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor 5256) diubah sebagai berikut:
 
@@ -13740,11 +13746,11 @@ Pasal6...
 
 <!-- image -->
 
-## PRESIDEN REPUEL|K INDONESIA
+**PRESIDEN REPUEL|K INDONESIA**
 
 -572-
 
-## Pasal 6
+**Pasal 6**
 
 - (1) BPJS Kesehatan sebagaimana dimaksud dalam Pasal5 ayat (2) huruf a menyelenggarakan program jaminan kesehatan.
 - (2) BPJS Ketenagakerjaan sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b menyelenggarakan program:
@@ -13755,13 +13761,13 @@ Pasal6...
 - e. jaminan kehilangan pekerjaan.
 8. 2 Ketentuan Pasal 9 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 9
+**Pasal 9**
 
 - (1) BPJS Kesehatan sebagaimana dimaksud dalam Pasal 5 ayat (21 huruf a berfungsi menyelenggarakan program jaminan kesehatan.
 2. (21 BPJS Ketenagakerjaan sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b berfungsi menyelenggarakan program jaminan kecelakaan kerja, program jaminan kematian, program jaminan pensiun, program jaminan hari tua, dan program jaminan kehilangan pekerjaan.
 3. Ketentuan Pasal 42 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal42
+**Pasal42**
 
 - (1) Modal awal sebagaimana dimaksud dalam Pasal4l ayat (1) huruf a untuk BPJS Kesehatan dan BPJS Ketenagakerjaan ditetapkan masing-masing paling banyak Rp2.000.000.000.000,00 (dua triliun rupiah) yang bersumber dari Anggaran Pendapatan dan Belanja Negara.
 
@@ -13771,17 +13777,17 @@ Pasal6...
 
 - (2) Modal awal sebagaimana dimaksud dalam Pasal 41 ayat (1) huruf a untuk program jaminan kehilangan pekerjaan ditetapkan paling sedikit Rp6.000.000.000.OO0,00 (enam triliun rupiah) yang bersumber dari Anggaran Pendapatan dan Belanja Negara.
 
-## Bagian Kelima
+**Bagian Kelima**
 
 Pelindungan Pekerja Migran Indonesia
 
-## Pasal 84
+**Pasal 84**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2Ol7 tentang Pelindungan Pekerja Migran Indonesia (Lembaran Negara Republik Indonesia Tahun 2Ol7 Nomor 242, Tambahan Lembaran Negara Republik Indonesia 614l) diubah sebagai berikut:
 
 - Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -13793,7 +13799,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INOONESIA
+**PRESIDEN REPUBLIK INOONESIA**
 
 -574-
 
@@ -13808,7 +13814,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -575-
 
@@ -13836,16 +13842,16 @@ Pasal51...
 
 <!-- image -->
 
-## FTIESIDEN REPUBIJK INDONESIA
+**FTIESIDEN REPUBIJK INDONESIA**
 
-## Pasal 51
+**Pasal 51**
 
 - (1) Perusahaan Penempatan Pekerja Migran Indonesia sebagaimana dimaksud dalam Pasal 49 huruf b wajib memiliki izin yang memenuhi Perizinan Berusaha dan diterbitkan oleh Pemerintah Pusat.
 - (2) Izin sebagaimana dimaksud pada ayat (1) tidak dapat dialihkan dan dipindahtangankan kepada pihak lain.
 - (3) Perizinan Berusaha sebagaimana dimaksud pada ayat (1) harus memenuhi norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 4. 3 Ketentuan Pasal 53 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 53
+**Pasal 53**
 
 - (1) Perusahaan Penempatan Pekerja Migran Indonesia dapat membentuk kantor cabang di luar wilayah domisili kantor pusatnya.
 2. (21 Kegiatan yang dilakukan oleh kantor cabang Perusahaan Penempatan Pekerja Migran Indonesia menjadi tanggung jawab kantor pusat Perusahaan Penempatan Pekerja Migran Indonesia.
@@ -13855,20 +13861,20 @@ Pasal51...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
-## Pasal 57
+**Pasal 57**
 
 - (1) Perusahaan Penempatan Pekerja Migran Indonesia harus menyerahkan pembaruan data paling lambat 30 (tiga puluh) hari kerja.
 2. (21 Dalam hal Perusahaan Penempatan Pekerja Migran Indonesia tidak menyerahkan pembaruan data sebagaimana dimaksud pada ayat (1), Perusahaan Penempatan Pekerja Migran Indonesia diizinkan untuk memperbarui izin paling lambat 30 (tiga puluh) hari kerja dengan membayar denda keterlambatan.
 - (3) Ketentuan mengenai denda keterlambatan sebagaimana dimaksud pada ayat (21 dilaksanakan sesuai dengan ketentuan peraturan perundangundangan.
 5. Di antara Pasal 89 dan Pasal 90 disisipkan 1 (satu) pasal, yakni Pasal 89A sehingga berbunyi sebagai berikut:
 
-## Pasal 89A
+**Pasal 89A**
 
 Pada saat berlakunya Undang-Undang ini, pengertian atau makna SIP3MI dalam Undang-Undang Nomor 18 Tahun 2Ol7 tentang Pelindungan Pekerja Migran Indonesia menyesuaikan dengan ketentuan mengenai Perizinan Berusaha.
 
-## BAB V
+**BAB V**
 
 KEMUDAHAN, PELINDUNGAN, DAN PEMBERDAYAAN KOPERASI, USAHA MIKRO, KECIL, DAN MENENGAH
 
@@ -13876,11 +13882,11 @@ Bagian Kesatu Umum
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -579-
 
-## Pasal 85
+**Pasal 85**
 
 Untuk memberikan kemudahan, pelindungan, dan pemberdayaan Koperasi dan UMK-M, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -13888,15 +13894,15 @@ Untuk memberikan kemudahan, pelindungan, dan pemberdayaan Koperasi dan UMK-M, Pe
 - b. Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4866); dan
 - c. Undang-Undang Nomor 38 Tahun 2OO4 tentang Jalan (Lembaran Negara Republik lndonesia Tahun 2OO4 Nomor 132, Tambahan Lembaran Negara Republik Indonesia Nomor 4444) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 2 Tahun 2022 tentang Perubahan Kedua atas UndangUndang Nomor 38 Tahun 2OO4 tentang Jalan (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 12, Tambahan Lembaran Negara Republik Indonesia Nomor 6760l..
 
-## Bagian Kedua Koperasi
+**Bagian Kedua Koperasi**
 
-## Pasal 86
+**Pasal 86**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 25 Tahun 1992 tentang Perkoperasian (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor 3502) diubah sebagai berikut:
 
 - Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 6
+**Pasal 6**
 
 - (1) Koperasi Primer dibentuk paling sedikit oleh 9 (sembilan) orang.
 2. (21 Koperasi Sekunder dibentuk oleh paling sedikit 3 (tiga) Koperasi.
@@ -13906,7 +13912,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 25 Tahun 1992 tentang Perkoperasian
 - 2 Penjelasan Pasal 17 diubah sebagaimana tercantum dalam penjelasan.
 - 3 Ketentuan Pasal 21 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 2 1
+**Pasal 2 1**
 
 - (1) Perangkat organisasi Koperasi terdiri atas:
 - a. Rapat Anggota;
@@ -13915,7 +13921,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 25 Tahun 1992 tentang Perkoperasian
 5. (21 Selain memiliki perangkat organisasi Koperasi sebagaimana dimaksud pada ayat (1), Koperasi yang menjalankan kegiatan usaha berdasarkan prinsip syariah wajib memiliki dewan pengawas syariah.
 6. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 22
+**Pasal 22**
 
 - (1) Rapat Anggota merupakan pemegang kekuasaan tertinggi dalam Koperasi.
 - (2) Rapat Anggota sebagaimana dimaksud pada ayat (1) dihadiri oleh anggota yang pelaksanaannya diatur dalam Anggaran Dasar/Anggaran Rumah Tangga.
@@ -13925,11 +13931,11 @@ Beberapa ketentuan dalam Undang-Undang Nomor 25 Tahun 1992 tentang Perkoperasian
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -581-
 
-## Pasal 43
+**Pasal 43**
 
 - (1) Usaha Koperasi adalah usaha yang berkaitan langsung dengan kepentingan anggota untuk meningkatkan usaha dan kesejahteraan anggota.
 2. (21 Usaha Koperasi sebagaimana dimaksud pada ayat (1) dapat dilaksanakan secara tunggal usaha atau serba usaha.
@@ -13938,7 +13944,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 25 Tahun 1992 tentang Perkoperasian
 - (5) Ketentuan lebih lanjut mengenai kegiatan usaha Koperasi diatur dalam Peraturan Pemerintah.
 6. 6 Di antara Pasal 44 dan Pasal45 disisipkan 1 (satu) pasal, yakni Pasal 44A sehingga berbunyi sebagai berikut:
 
-## Pasal 44A
+**Pasal 44A**
 
 - (1) Koperasi dapat menjalankan kegiatan usaha berdasarkan prinsip syariah.
 2. (21 Koperasi sebagaimana dimaksud pada ayat (1) harus mempunyai dewan pengawas syariah.
@@ -13947,22 +13953,22 @@ Beberapa ketentuan dalam Undang-Undang Nomor 25 Tahun 1992 tentang Perkoperasian
 
 <!-- image -->
 
-## PRESIDEN REPTIELIK INDONESIA
+**PRESIDEN REPTIELIK INDONESIA**
 
 - (5) Dewan pengawas syariah sebagaimana dimaksud pada ayat (21 selanjutnya mendapatkan pembinaan atau pengembangan kapasitas oleh Pemerintah Pusat dan/atau Dewan Syariah Nasional Majelis Ulama Indonesia.
 - (6) Ketentuan lebih lanjut mengenai Koperasi yang menjalankan kegiatan usaha berdasarkan prinsip syariah diatur dalam Peraturan Pemerintah.
 
-## Bagian Ketiga
+**Bagian Ketiga**
 
-## Kriteria Usaha Mikro, Kecil, dan Menengah
+**Kriteria Usaha Mikro, Kecil, dan Menengah**
 
-## Pasal 87
+**Pasal 87**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 93, Tambahan Lembaran Negara Republik lndonesia Nomor 48i66l' diubah sebagai berikut:
 
 - Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 6
+**Pasal 6**
 
 - (1) Kriteria Usaha Mikro, Kecil, dan Menengah dapat memuat modal usaha, indikator kekayaan bersih, hasil penjualan tahunan, atau nilai investasi, insentif dan disinsentif, penerapan teknologi ramah lingkungan, kandungan lokal, atau jumlah tenaga kerja sesuai dengan kriteria setiap sektor usaha.
 2. (21 Ketentuan lebih lanjut mengenai kriteria Usaha Mikro, Kecil, dan Menengah diatur dalam Peraturan Pemerintah.
@@ -13970,11 +13976,11 @@ Beberapa ketentuan dalam Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, 
 
 <!-- image -->
 
-## FRESTDEN REPUELIK INDONESIA
+**FRESTDEN REPUELIK INDONESIA**
 
 -583-
 
-## Pasal 12
+**Pasal 12**
 
 - (1) Aspek perizinan usaha sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf e ditujukan untuk:
 - a. menyederhanakan tata cara dan jenis Perizinan Berusaha dengan sistem pelayanan terpadu satu pintu; dan
@@ -13982,7 +13988,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, 
 4. (21 Ketentuan lebih lanjut mengenai persyaratan dan tata cara Perizinan Berusaha diatur dalam Peraturan Pemerintah.
 5. 3 Ketentuan Pasal 21 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 2 1
+**Pasal 2 1**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah menyediakan Pembiayaan bagi Usaha Mikro dan Kecil.
 2. (21 Badan Usaha Milik Negara menyediakan Pembiayaan dari penyisihan bagian laba tahunan yang dialokasikan kepada Usaha Mikro dan Kecil dalam bentuk pemberian pinjaman, Penjaminan, hibah, dan Pembiayaan lainnya.
@@ -13997,7 +14003,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, 
 2. 4 Pasal 25 dihapus
 3. 5 Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26
+**Pasal 26**
 
 Kemitraan dilaksanakan dengan pola:
 
@@ -14022,7 +14028,7 @@ Pasal 30
 - (3) Pengaturan sistem pembayaran dilakukan dengan tidak merugikan salah satu pihak.
 3. 7 Di antara Pasal 32 dan Pasal33 disisipkan 1 (satu) pasal yakni Pasal 32A sehingga berbunyi sebagai berikut:
 
-## Pasal 32A
+**Pasal 32A**
 
 Dalam pelaksanaan Kemitraan dengan pola rantai pasok sebagaimana dimaksud dalam Pasal 26 huruf f, dapat dilakukan melalui kegiatan dari Usaha Mikro dan Kecil oleh Usaha Menengah dan Usaha Besar paling sedikit meliputi:
 
@@ -14031,11 +14037,11 @@ Dalam pelaksanaan Kemitraan dengan pola rantai pasok sebagaimana dimaksud dalam 
 - c. pengelolaan ketersediaan bahan baku, pasokan bahan baku serta proses fabrikasi.
 4. Penjelasan Pasal 35 diubah sebagaimana tercantum dalam penjelasan. 8
 
-## Bagian Keempat
+**Bagian Keempat**
 
 Basis Data Tunggal
 
-## Pasal 88
+**Pasal 88**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah wajib menyelenggarakan sistem informasi dan pendataan UMK-M yang terintegrasi.
 
@@ -14043,7 +14049,7 @@ Basis Data Tunggal
 
 <!-- image -->
 
-## PRESIDEH REPUELIK INDONESIA
+**PRESIDEH REPUELIK INDONESIA**
 
 - (2) Hasil pendataan sebagaimana dimaksud pada ayat (1) sebagai basis data tunggal UMK-M.
 - (3) Basis data tunggal sebagaimana dimaksud pada ayat (21 wajib digunakan sebagai pertimbangan untuk menentukan kebijakan mengenai UMK-M.
@@ -14052,11 +14058,11 @@ Basis Data Tunggal
 - (6) Basis data tunggal sebagaimana dimaksud pada ayat (21 dibentuk dalam jangka waktu paling lama tanggal 2 November 2022.
 6. (71 Ketentuan lebih lanjut mengenai basis data tunggal UMK-M diatur dalam Peraturan Pemerintah.
 
-## Bagian Kelima
+**Bagian Kelima**
 
 Pengelolaan Terpadu Usaha Mikro dan Kecil
 
-## Pasal 89
+**Pasal 89**
 
 - (1) Pemerintah Pusat mendorong implementasi pengelolaan terpadu Usaha Mikro dan Kecil dalam penataan klaster melalui sinergi Pemerintah Pusat, Pemerintah Daerah, dan pemangku kepentingan terkait.
 - (2) Pengelolaan terpadu Usaha Mikro dan Kecil sebagaimana dimaksud pada ayat (1) merupakan kumpulan kelompok Usaha Mikro dan Kecil yang terkait dalam:
@@ -14089,9 +14095,9 @@ Pengelolaan Terpadu Usaha Mikro dan Kecil
 - (8) Pemerintah Pusat melakukan evaluasi pengelolaan terpadu Usaha Mikro dan Kecil dalam penataan klaster.
 - (9) Ketentuan lebih lanjut mengenai pengelolaan terpadu Usaha Mikro dan Kecil diatur dalam Peraturan Pemerintah.
 
-## Bagian Keenam Kemitraan
+**Bagian Keenam Kemitraan**
 
-## Pasal 90
+**Pasal 90**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib memfasilitasi, mendukung, dan menstimulasi kegiatan kemitraan Usaha Menengah dan Usaha Besar dengan Koperasi, Usaha Mikro, dan Usaha Kecil yang bertujuan untuk meningkatkan kompetensi dan level usaha.
 2. (21 Kemitraan sebagaimana dimaksud pada ayat (1) mencakup proses alih keterampilan di bidang produksi dan pengolahan, pemasaran, permodalan, sumber daya manusia, dan teknologi.
@@ -14103,11 +14109,11 @@ Pengelolaan Terpadu Usaha Mikro dan Kecil
 
 - (6) Ketentuan lebih lanjut mengenai kemitraan diatur dalam Peraturan Pemerintah.
 
-## Bagian Ketujuh
+**Bagian Ketujuh**
 
-## Kemudahan Perizinan Berusaha
+**Kemudahan Perizinan Berusaha**
 
-## Pasal 9 1
+**Pasal 9 1**
 
 - (1) Dalam rangka kemudahan Perizinan Berusaha, Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib melakukan pembinaan dan pendaftaran bagi Usaha Mikro dan Kecil berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Pendaftaran sebagaimana dimaksud pada ayat (1) dapat dilakukan secara daring atau luring dengan melampirkan Kartu Tanda Penduduk.
@@ -14120,7 +14126,7 @@ Pengelolaan Terpadu Usaha Mikro dan Kecil
 
 <!-- image -->
 
-## PRESIDEN REFTJBUK INDONESIA
+**PRESIDEN REFTJBUK INDONESIA**
 
 -590-
 
@@ -14128,11 +14134,11 @@ Pengelolaan Terpadu Usaha Mikro dan Kecil
 - (8) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat memfasilitasi sertifikasi standar danf atau izin sebagaimana dimaksud pada ayat (5).
 - (9) Ketentuan lebih lanjut mengenai perizinan tunggal sebagaimana dimaksud pada ayat (5) dan fasilitasi sertifikasi standar dan/atau izin sebagaimana dimaksud pada ayat (8) diatur dalam Peraturan Pemerintah.
 
-## Bagian Kedelapan
+**Bagian Kedelapan**
 
 Kemudahan Fasilitasi Pembiayaan dan Insentif Fiskal
 
-## Pasal 92
+**Pasal 92**
 
 - (1) Usaha Mikro dan Kecil diberi kemudahan/penyederhanaan administrasi perpajakan dalam rangka pengajuan fasilitas pembiayaan dari Pemerintah Pusat sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan.
 2. (21 Usaha Mikro dan Kecil yang mengajukan Perizinan Berusaha dapat diberi insentif berupa tidak dikenai biaya atau diberi keringanan biaya.
@@ -14141,22 +14147,22 @@ Kemudahan Fasilitasi Pembiayaan dan Insentif Fiskal
 
 <!-- image -->
 
-## PRESIDEN REPTIBLIK INDONESIA
+**PRESIDEN REPTIBLIK INDONESIA**
 
-## Pasal 93
+**Pasal 93**
 
 Kegiatan Usaha Mikro dan Kecil dapat dijadikan jaminan kredit program.
 
-## Pasal 94
+**Pasal 94**
 
 - (1) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya mempermudah dan menyederhanakan proses untuk Usaha Mikro dan Kecil dalam hal pendaftaran dan pembiayaan hak kekayaan intelektual, kemudahan impor bahan baku dan bahan penolong industri apabila tidak dapat dipenuhi dari dalam negeri, dan/atau fasilitasi ekspor.
 2. (21 Ketentuan lebih lanjut mengenai kemudahan dan penyederhanaan pendaftaran dan pembiayaan hak kekayaan intelektual, kemudahan impor bahan baku dan bahan penolong industri apabila tidak dapat dipenuhi dari dalam negeri, dan/atau fasilitasi ekspor sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## Bagian Kesembilan
+**Bagian Kesembilan**
 
 Dana Alokasi Khusus, Bantuan dan Pendampingan Hukum, Pengadaan Barang dan Jasa, dan Sistem/Aplikasi Pembukuan/Pencatatan Keuangan dan Inkubasi
 
-## Pasal 95
+**Pasal 95**
 
 - (1) Pemerintah Pusat mengalokasikan Dana Alokasi Khusus untuk mendukung pendanaan bagi Pemerintah Daerah dalam rangka kegiatan pemberdayaan dan pengembangan UMK-M.
 2. (21 Pengalokasian Dana Alokasi Khusus sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
@@ -14165,27 +14171,27 @@ Pasal 96 .
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 -592-
 
-## Pasal 96
+**Pasal 96**
 
 Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib menyediakan layanan bantuan dan pendampingan hukum bagi Usaha Mikro dan Kecil.
 
-## Pasal 97
+**Pasal 97**
 
 Pemerintah Pusat dan Pemerintah Daerah wajib mengalokasikan paling sedikit 4Oo/o (empat puluh persen) produk/jasa Usaha Mikro dan Kecil serta Koperasi dari hasil produksi dalam negeri dalam pengadaan barang/jasa Pemerintah Pusat dan Pemerintah Daerah sesuai dengan ketentuan peraturan perundang-undangan.
 
-## Pasal 98
+**Pasal 98**
 
 Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib memberikan pelatihan dan pendampingan pemanfaatan sistem/aplikasi pembukuan/pencatatan keuangan yang memberi kemudahan bagi Usaha Mikro dan Kecil.
 
-## Pasal 99
+**Pasal 99**
 
 Penyelenggaraan inkubasi dilakukan oleh Pemerintah Pusat, Pemerintah Daerah, perguruan tinggi, Dunia Usaha, dan/atau masyarakat.
 
-## Pasal 100
+**Pasal 100**
 
 Inkubasi sebagaimana dimaksud dalam Pasal 99 bertujuan untuk:
 
@@ -14195,13 +14201,13 @@ Inkubasi sebagaimana dimaksud dalam Pasal 99 bertujuan untuk:
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPIJBIJK IHDONESIA
+**REPIJBIJK IHDONESIA**
 
 -593-
 
-## Pasal 101
+**Pasal 101**
 
 Sasaran pengembangan inkubasi sebagaimana dimaksud dalam Pasal 99 meliputi:
 
@@ -14209,7 +14215,7 @@ Sasaran pengembangan inkubasi sebagaimana dimaksud dalam Pasal 99 meliputi:
 - b. penciptaan dan penumbuhan usaha barrr yang mempunyai nilai ekonomi dan berdaya saing tinggi; dan
 - c. peningkatan nilai tambah pengelolaan potensi ekonomi melalui pemanfaatan ilmu pengetahuan dan teknologi.
 
-## Pasal 102
+**Pasal 102**
 
 Pemerintah Pusat, Pemerintah Daerah, dan Dunia Usaha melakukan pendampingan untuk meningkatkan kapasitas UMK-M sehingga mampu mengakses:
 
@@ -14219,28 +14225,28 @@ Pemerintah Pusat, Pemerintah Daerah, dan Dunia Usaha melakukan pendampingan untu
 - d. dana bergulir; dan
 - e. tanggung jawab sosial perusahaan.
 
-## Bagian Kesepuluh
+**Bagian Kesepuluh**
 
 Partisipasi Usaha Mikro, Kecil, dan Koperasi pada Infrastruktur Publik
 
-## Pasal 103
+**Pasal 103**
 
 Di antara Pasal 53 dan Pasal 54 dalam Undang-Undang Nomor 38 Tahun 2OO4 tentang Jalan (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 132, Tambahan Lembaran Negara Republik Indonesia Nomor 4444) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 2 Tahun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 38 Tahun 2OO4 tentang Jalan (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 12, Tambahan Lembaran Negara Republik Indonesia Nomor 6760)' disisipkan 1 (satu) pasal, yakni Pasal 53A sehingga berbunyi sebagai berikut:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -594-
 
-## Pasal 53A
+**Pasal 53A**
 
 - (1) Jalan Tol antarkota harus dilengkapi dengan tempat istirahat dan pelayanan untuk kepentingan pengguna Jalan To1, serta menyediakan tempat promosi dan pengembangan Usaha Mikro, Usaha Kecil, dan Usaha Menengah.
 - (2) Penyediaan tempat promosi dan pengembangan Usaha Mikro, Usaha Kecil, dan Usaha Menengah pada tempat istirahat dan pelayanan sebagaimana dimaksud pada ayat (1) dilakukan dengan mengalokasikan lahan pada Jalan Tol paling sedikit 30% (tiga puluh persen) dari total luas lahan area komersial untuk Usaha Mikro, Usaha Kecil, dan Usaha Menengah, baik untuk Jalan Tol yang telah beroperasi maupun untuk Jalan Tol yang masih dalam tahap perencanaan dan konstruksi.
 - (3) Penyediaan tempat promosi dan pengembangan Usaha Mikro, Usaha Kecil, dan Usaha Menengah sebagaimana dimaksud pada ayat (2) dilakukan dengan partisipasi Usaha Mikro dan Kecil melalui pola kemitraan.
 4. (41 Penanaman dan pemeliharaan tanaman di tempat istirahat dan pelayanan sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh Usaha Mikro, Usaha Kecil, dan Usaha Menengah.
 
-## Pasal 104
+**Pasal 104**
 
 - (1) Dalam rangka pemberdayaan Usaha Mikro dan Kecil, Pemerintah Pusat, Pemerintah Daerah, badan usaha milik negara, badan usaha milik daerah dan/atau badan usaha swasta wajib mengalokasikan penyediaan tempat promosi, tempat usaha, dan/atau pengembangan Usaha Mikro dan Kecil pada infrastruktur publik yang mencakup:
 - a. terminal;
@@ -14255,13 +14261,13 @@ Di antara Pasal 53 dan Pasal 54 dalam Undang-Undang Nomor 38 Tahun 2OO4 tentang 
 3. (21 Alokasi penyediaan tempat promosi dan pengembangan Usaha Mikro dan Kecil pada infrastruktur publik sebagaimana dimaksud pada ayat (1) paling sedikit 30% (tiga puluh persen) dari luas tempat perbelanjaan dan/atau promosi yang strategis pada infrastruktur publik yang bersangkutan.
 - (3) Ketentuan mengenai penyediaan tempat promosi dan pengembangan Usaha Mikro dan Kecil pada infrastruktur publik pada ayat (1) dan besaran alokasi sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 
-## BAB VI KEMUDAHAN BERUSAHA
+**BAB VI KEMUDAHAN BERUSAHA**
 
-## Bagian Kesatu
+**Bagian Kesatu**
 
-## Umum
+**Umum**
 
-## Pasal 105
+**Pasal 105**
 
 Untuk mempermudah Pelaku Usaha dalam melakukan investasi Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -14272,7 +14278,7 @@ c.Undang-Undang...
 
 <!-- image -->
 
-## PRESIDEN REPUBLJK INDONESIA
+**PRESIDEN REPUBLJK INDONESIA**
 
 - c. Undang-Undang Nomor 20 Tahun 2016 tentang Merek dan Indikasi Geografis (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 252, Tambahan Lembaran Negara Republik Indonesia Nomor 5953);
 - d. Undang-Undang Nomor 40 Tahun 2OO7 tentang Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2OO7 Nomor 106, Tambahan Lembaran Negara Republik Indonesia Nomor a756);
@@ -14284,7 +14290,7 @@ h.Undang-Undang...
 
 <!-- image -->
 
-## PRESIDEN REPTIBLIK INDONESIA
+**PRESIDEN REPTIBLIK INDONESIA**
 
 - h. Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 3262)'sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 7 Tahun 2O2l tentang Harmonisasi Peraturan Perpajakan (Lembaran Negara Republik Indonesia Tahun 2O2l Nomor 246, Tambahan Lembaran Negara Republik Indonesia Nomor 67361;
 - i. Undang-Undang Nomor 7 Tahun 2016 tentang Perlindungan dan Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 5870);
@@ -14296,15 +14302,15 @@ Bagian Kedua Keimigrasian Pasal 1O6
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
-## Pasal 106
+**Pasal 106**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 20ll tentang Keimigrasian (Lembaran Negara Republik Indonesia Tahun 2oll Nomor 52, Tambahan Lembaran Negara Republik Indonesia Nomor 5216)' diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan
 
@@ -14317,7 +14323,7 @@ Dalam Undang-Undang ini yang dimaksud dengan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 7. Pejabat Imigrasi adalah pegawai yang telah melalui pendidikan khusus Keimigrasian dan memiliki keahlian teknis Keimigrasian serta memiliki wewenang untuk melaksanakan tugas dan tanggung jawab berdasarkan Undang-Undang ini.
 8. Penyidik Pegawai Negeri Sipil Keimigrasian yang selanjutnya disebut dengan PPNS Keimigrasian adalah Pejabat Imigrasi yang diberi wewenang oleh undang-undang untuk melakukan penyidikan tindak pidana Keimigrasian.
@@ -14332,7 +14338,7 @@ Dalam Undang-Undang ini yang dimaksud dengan
 
 <!-- image -->
 
-## PRESIBEN REPUBLIK INDONESIA
+**PRESIBEN REPUBLIK INDONESIA**
 
 15. Dokumen Perjalanan Republik Indonesia adalah Paspor Republik Indonesia dan Surat Perjalanan Laksana Paspor Republik Indonesia.
 16. Paspor Republik Indonesia yang selanjutnya disebut Paspor adalah dokumen yang dikeluarkan oleh Pemerintah Republik lndonesia kepada warga negara Indonesia untuk melakukan perjalanan antarnegara yang berlaku selama jangka waktu tertentu.
@@ -14376,13 +14382,13 @@ Dalam Undang-Undang ini yang dimaksud dengan
 39. Perwakilan Republik Indonesia adalah Kedutaan Besar Republik Indonesia, Konsulat Jenderal Republik Indonesia, dan Konsulat Republik Indonesia.
 3. 2 Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 Visa kunjungan diberikan kepada Orang Asing yang akan melakukan perjalanan ke Wilayah Indonesia dalam rangka kunjungan tugas pemerintahan, pendidikan, sosial budaya, pariwisata, prainvestasi, bisnis, keluarga, jurnalistik, atau singgah untuk meneruskan perjalanan ke negara lain.
 
 - 3 Ketentuan Pasal 39 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 39
+**Pasal 39**
 
 - (1) Visa Asing: tinggal terbatas diberikan kepada Orang
 - a. sebagai rohaniwan, tenaga ahli, pekerja, peneliti, pelajar, investor, rumah kedua, dan keluarganya, serta Orang Asing yang kawin secara sah dengan warga negara Indonesia, yang akan melakukan perjalanan ke Wilayah Indonesia untuk bertempat tinggal dalam jangka waktu yang terbatas; atau
@@ -14392,12 +14398,12 @@ Visa kunjungan diberikan kepada Orang Asing yang akan melakukan perjalanan ke Wi
 
 <!-- image -->
 
-## FRESIDEN REPUELIK INDONESIA
+**FRESIDEN REPUELIK INDONESIA**
 
 - (21 Ketentuan lebih lanjut mengenai Visa tinggal terbatas sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 - 4 Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 40
+**Pasal 40**
 
 - (1) Pemberian Visa kunjungan dan Visa tinggal terbatas merupakan kewenangan Menteri.
 2. (21 Visa sebagaimana dimaksud pada ayat (1) diberikan dan ditandatangani oleh Pejabat lmigrasi.
@@ -14405,7 +14411,7 @@ Visa kunjungan diberikan kepada Orang Asing yang akan melakukan perjalanan ke Wi
 4. (41 Pejabat dinas luar negeri sebagaimana dimaksud pada ayat (3) berwenang memberikan Visa setelah memperoleh Keputusan Menteri.
 5. Ketentuan Pasal 46 diubah sehingga berbunyi sebagai berikut: 5
 
-## Pasal 46
+**Pasal 46**
 
 - (1) Orang Asing pemegang Visa diplomatik atau Visa dinas dengan maksud bertempat tinggal di Wilayah Indonesia setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada Menteri Luar Negeri atau pejabat yang ditunjuk untuk memperoleh lzin Tinggal diplomatik atau lzin Tinggal dinas.
 - (2) Orang Asing pemegang Visa tinggal terbatas setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada kepala Kantor Imigrasi untuk memperoleh lzin Tinggal terbatas.
@@ -14418,7 +14424,7 @@ Visa kunjungan diberikan kepada Orang Asing yang akan melakukan perjalanan ke Wi
 2. (41 Dalam hal Orang Asing sebagaimana dimaksud pada ayat (21mendapatkan.Izin Tinggal terbatas di Tempat Pemeriksaan Imigrasi, tidak perlu mengajukan permohonan kepada kepala Kantor Imigrasi untuk memperoleh lzin Tinggal terbatas.
 6. Ketentuan Pasal 54 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 54
+**Pasal 54**
 
 - (1) Izin Tinggal Tetap dapat diberikan kepada:
 - a. Orang Asing pemegang lzin Tinggal terbatas sebagai rohaniwan, pekerja, investor, dan rumah kedua;
@@ -14434,11 +14440,11 @@ Pasal63...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK IHDONESIA
+**PRESIDEN REPUBLIK IHDONESIA**
 
 -606-
 
-## Pasal 63
+**Pasal 63**
 
 - (1) Orang Asing tertentu yang berada di Wilayah Indonesia wajib memiliki Penjamin yang menjamin keberadaannya.
 2. (21 Penjamin bertanggung jawab atas keberadaan dan kegiatan Orang Asing yang dijamin selama tinggal di Wilayah Indonesia serta wajib melaporkan setiap perubahan status sipil, status Keimigrasian, dan perubahan alamat.
@@ -14454,21 +14460,21 @@ Pasal63...
 
 <!-- image -->
 
-## PRESIDEN REPI.IELIK INDONESI'I
+**PRESIDEN REPI.IELIK INDONESI'I**
 
 - (7) Ketentuan lebih lanjut mengenai tata cara jaminan Keimigrasian bagi Orang Asing diatur dalam Peraturan Pemerintah.
 8. Ketentuan Pasal 71 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 71
+**Pasal 71**
 
 - (1) Setiap Orang Asing yang berada di Wilayah Indonesia wajib:
 - a. memberikan segala keterangan yang diperlukan mengenai identitas diri dan/atau keluarganya serta melaporkan setiap perubahan status sipil, kewarganegaraan, pekerjaan, Penjamin, atau perubahan alamatnya kepada Kantor lmigrasi setempat; atau
 - b. menyerahkan Dokumen Perjalanan atau Izin Tinggal yang dimilikinya apabila diminta oleh Pejabat Imigrasi yang bertugas dalam rangka pengawasan Keimigrasian.
 4. (21 Ketentuan lebih lanjut mengenai pemenuhan kewajiban Keimigrasian sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## Bagian Ketiga Paten
+**Bagian Ketiga Paten**
 
-## Pasal 107
+**Pasal 107**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2016 tentang Paten (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 176, Tambahan Lembaran Negara Republik Indonesia Nomor 59221 diubah sebagai berikut:
 
@@ -14478,7 +14484,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2016 tentang Paten (Lembar
 
 - 1 Ketentuan Pasal 3 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 3
+**Pasal 3**
 
 - (1) Paten sebagaimana dimaksud dalam Pasal 2 huruf a diberikan untuk Invensi yang baru, mengandung langkah inventif, dan dapat diterapkan dalam industri.
 2. (21 Paten sederhana sebagaimana dimaksud dalam Pasal 2 huruf b diberikan untuk setiap Invensi baru, pengembangan dari produk atau proses yang telah ada, memiliki kegunaan praktis, serta dapat diterapkan dalam industri.
@@ -14488,7 +14494,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2016 tentang Paten (Lembar
 - c. metode sederhana.
 7. Ketentuan Pasal 20 diubah sehingga berbunyi sebagai berikut: 2
 
-## Pasal 20
+**Pasal 20**
 
 - (1) Paten wajib dilaksanakan di Indonesia.
 - (2) Pelaksanaan Paten sebagaimana dimaksud pada ayat (1) terdiri atas:
@@ -14499,14 +14505,14 @@ c. pelaksanaan
 
 <!-- image -->
 
-## RIPUBLTK INDONESIA
+**RIPUBLTK INDONESIA**
 
 -609-
 
 - c. pelaksanaan Paten-metode, sistem, dan penggunaan yang meliputi membuat, mengimpor, atau melisensikan produk yang dihasilkan dari metode, sistem, dan penggunaan yang diberi Paten.
 3. Ketentuan Pasal 82 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 82
+**Pasal 82**
 
 - (1) Lisensi-wajib merupakan Lisensi untuk melaksanakan Paten yang diberikan berdasarkan Keputusan Menteri atas dasar permohonan dengan alasan memenuhi ketentuan:
 - a. Paten tidak dilaksanakan di Indonesia sebagaimana dimaksud dalam Pasal 20 dalam jangka waktu 36 (tiga puluh enam) bulan setelah diberikan Paten;
@@ -14515,7 +14521,7 @@ c. pelaksanaan
 5. (21 Permohonan Lisensi-wajib sebagaimana dimaksud pada ayat (1) dikenai biaya.
 6. Ketentuan Pasal 122 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 122
+**Pasal 122**
 
 - (1) Paten sederhana diberikan hanya untuk satu Invensi.
 - (2) Permohonan pemeriksaan substantif atas Paten sederhana dilakukan bersamaan dengan pengajuan Permohonan Paten sederhana dengan dikenai biaya.
@@ -14524,14 +14530,14 @@ c. pelaksanaan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -610-
 
 - (3) Apabila permohonan pemeriksaan substantif atas Paten sederhana tidak dilakukan dalam batas waktu sebagaimana dimaksud pada ayat (21 atau biaya pemeriksaan substantif atas Paten sederhana tidak dibayar, Permohonan Paten sederhana dianggap ditarik kembali.
 5. Ketentuan Pasal 123 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 123
+**Pasal 123**
 
 - (1) Pengumuman Permohonan Paten sederhana dilakukan paling lambat 14 (empat belas) Hari terhitung sejak Tanggal Penerimaan Permohonan Paten sederhana.
 - (2) Pengumuman sebagaimana dimaksud pada ayat (1) dilaksanakan selama 14 (empat belas) Hari terhitung sejak tanggal diumumkannya Permohonan Paten sederhana.
@@ -14539,7 +14545,7 @@ c. pelaksanaan
 4. l4l Ketentuan pengajuan pandangan dan/atau keberatan Permohonan Paten sebagaimana dimaksud dalam Pasal 49 ayat (31 dan ayat (4) dikecualikan untuk pengajuan pandangan dan/atau keberatan atas Permohonan Paten sederhana.
 5. Ketentuan Pasal 124 diubah sehingga berbunyi sebagai berikut: 6
 
-## Pasal 124
+**Pasal 124**
 
 - (1) Menteri wajib memberikan keputusan untuk menyetujui atau menolak Permohonan Paten sederhana paling lama 6 (enam) bulan terhitung sejak Tanggal Penerimaan Permohonan Paten sederhana.
 
@@ -14547,26 +14553,26 @@ c. pelaksanaan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -611-
 
 - (21 Paten sederhana yang telah diberikan persetujuan oleh Menteri dicatat dan diumumkan melalui media elektronik dan/atau media non-elektronik.
 - (3) Menteri memberikan sertifikat Paten sederhana kepada Pemegang Paten sederhana sebagai bukti hak.
 
-## Bagian Keempat
+**Bagian Keempat**
 
-## Merek
+**Merek**
 
-## Pasal 1O8
+**Pasal 1O8**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 20 Tahun 2OL6 tentang Merek dan Indikasi Geografis (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 252, Tambahan Lembaran Negara Republik Indonesia Nomor 5953) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 20 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 20
+**Pasal 20**
 
-## Merek tidak dapat didaftar jika:
+**Merek tidak dapat didaftar jika:**
 
 - a. bertentangan dengan ideologi negara, peraturan perundang-undangan, moralitas agama, kesusilaan, atau ketertiban umum;
 - b. sama dengan, berkaitan dengan, atau hanya menyebut barang dan/atau jasa yang dimohonkan pendaftarannya;
@@ -14578,7 +14584,7 @@ f.merr.rpakan...
 
 <!-- image -->
 
-## PSIESIDEN REPUBLIK INDONESIA
+**PSIESIDEN REPUBLIK INDONESIA**
 
 -612-
 
@@ -14586,7 +14592,7 @@ f.merr.rpakan...
 - g. mengandung bentuk yang bersifat fungsional.
 3. 2 Ketentuan Pasal 23 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 23
+**Pasal 23**
 
 - (1) Pemeriksaan substantif merupakan pemeriksaan yang dilakukan oleh Pemeriksa terhadap Permohonan pendaftaran Merek.
 2. (21 Segala keberatan dan/atau sanggahan sebagaimana dimaksud dalam Pasal 16 dan Pasal 17 menjadi pertimbangan dalam pemeriksaan substantif sebagaimana dimaksud pada ayat (1).
@@ -14603,7 +14609,7 @@ f.merr.rpakan...
 - (8) Hasil pemeriksaan substantif yang dilakukan oleh tenaga ahli pemeriksa Merek di luar Pemeriksa sebagaimana dimaksud pada ayat (7) dapat dianggap sama dengan hasil pemeriksaan substantif yang dilakukan oleh Pemeriksa dengan persetujuan Menteri.
 2. 3 Ketentuan Pasal 25 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 25
+**Pasal 25**
 
 - (1) Sertifikat Merek diterbitkan oleh Menteri sejak Merek tersebut terdaftar.
 2. (21 Sertifikat Merek sebagaimana dimaksud pada ayat (1) memuat:
@@ -14621,13 +14627,13 @@ f.merr.rpakan...
 
 Bagian Kelima Perseroan Terbatas
 
-## Pasal 109
+**Pasal 109**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 40 Tahun 2OO7 tentang Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2OO7 Nomor 106, Tambahan Lembaran Negara Republik Indonesia Nomor 47561 diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -14659,7 +14665,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 16. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia.
 - 2 Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 7
+**Pasal 7**
 
 - (1) Perseroan didirikan oleh 2 (dua) orang atau lebih dengan akta notaris yang dibuat dalam bahasa Indonesia.
 - (2) Setiap pendiri Perseroan wajib mengambil bagian saham pada saat Perseroan didirikan.
@@ -14690,26 +14696,26 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUEIJK INDONESIA
+**PRESIDEN REPUEIJK INDONESIA**
 
 -618-
 
 - 3 Ketentuan Pasal 32 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 32
+**Pasal 32**
 
 - (1) Perseroan wajib memiliki modal dasar Perseroan.
 2. (21 Besaran modal dasar Perseroan sebagaimana dimaksud pada ayat (1) ditentukan berdasarkan keputusan pendiri Perseroan.
 - (3) Ketentuan lebih lanjut mengenai modal dasar Perseroan diatur dalam Peraturan Pemerintah.
 4. Ketentuan Pasal 153 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 153
+**Pasal 153**
 
 Ketentuan mengenai biaya Perseroan sebagai badan hukum diatur sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak.
 
 - Di antara Pasal 153 dan Pasal 154 disisipkan 10 (sepuluh) pasal, yakni Pasal 153A, Pasal 1538, Pasal 153C, Pasal 153D, Pasal 153E, Pasal 153F, Pasal 153G, Pasal 153H, Pasal 153I, dan Pasal 153J sehingga berbunyi sebagai berikut: 5
 
-## Pasal 153A
+**Pasal 153A**
 
 - (1) Perseroan yang memenuhi kriteria usaha mikro dan kecil dapat didirikan oleh 1 (satu) orang.
 2. (21 Pendirian Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan surat pernyataan pendirian yang dibuat dalam bahasa Indonesia.
@@ -14717,41 +14723,41 @@ Ketentuan mengenai biaya Perseroan sebagai badan hukum diatur sesuai dengan kete
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INOONESIA
+**PRESIDEN REPUBUK INOONESIA**
 
 -6t9-
 
-## Pasal 153El
+**Pasal 153El**
 
 - (1) Pernyataan pendirian sebagaimana dimaksud dalam Pasal 153A ayat (21 memuat maksud dan tujuan, kegiatan usaha, modal dasar, dan keterangan lain berkaitan dengan pendirian Perseroan.
 2. (21 Pernyataan pendirian sebagaimana dimaksud pada ayat (1) didaftarkan secara elektronik kepada Menteri dengan mengisi format isian.
 - (3) Ketentuan lebih lanjut mengenai materi pernyataan pendirian sebagaimana dimaksud pada ayat (1) dan format isian sebagaimana dimaksud pada ayat (21diatur dalam Peraturan Pemerintah.
 
-## Pasal 153C
+**Pasal 153C**
 
 - (1) Perubahan pernyataan pendirian Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A ditetapkan oleh RUPS dan diberitahukan secara elektronik kepada Menteri.
 2. (21 Ketentuan lebih lanjut mengenai materi dan format isian perubahan pernyataan pendirian sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## Pasal 153D
+**Pasal 153D**
 
 - (1) Direksi Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A menjalankan pengurusan Perseroan untuk usaha mikro dan kecil bagi kepentingan Perseroan sesuai dengan maksud dan tujuan Perseroan.
 2. (21 Direksi berwenang menjalankan pengurusan sebagaimana dimaksud pada ayat (1) sesuai dengan kebijakan yang dianggap tepat, dalam batas yang ditentukan dalam Undang-Undang ini, dan/ atau pernyataan pendirian Perseroan.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESIA
+**PRESIDEN REPUBUK TNDONESIA**
 
-## Pasal 153E
+**Pasal 153E**
 
 - (1) Pemegang saham Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A merupakan orang perseorangan.
 - (2) Pendiri Perseroan hanya dapat mendirikan Perseroan untuk usaha mikro dan kecil sejumlah 1 (satu) Perseroan untuk usaha mikro dan kecil dalam jangka waktu 1 (satu) tahun.
 
-## Pasal 153F
+**Pasal 153F**
 
 - (1) Direksi Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A harus membuat laporan keuangan dalam rangka mewujudkan tata kelola Perseroan yang baik.
 - (2) Ketentuan lebih lanjut mengenai kewajiban membuat laporan keuangan diatur dalam Peraturan Pemerintah.
 
-## Pasal 153G
+**Pasal 153G**
 
 - (1) Pembubaran Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A dilakukan oleh RUPS yang dituangkan dalam pernyataan pembubaran dan diberitahukan secara elektronik kepada Menteri.
 - (2) Pembubaran Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud pada ayat (1) terjadi karena:
@@ -14767,17 +14773,17 @@ e.harta...
 - e. harta pailit Perseroan yang telah dinyatakan pailit berada dalam keadaan insolvensi sebagaimana diatur dalam ketentuan UndangUndang tentang Kepailitan dan Penundaan Kewajiban Pembayaran Utang; atau
 2. dicabutnya Perizinan Berusaha Perseroan sehingga mewajibkan Perseroan melakukan likuidasi sesuai dengan ketentuan peraturan perundang-undangan. f.
 
-## Pasal 153H
+**Pasal 153H**
 
 - (1) Dalam hal Perseroan untuk usaha mikro dan kecil sudah tidak memenuhi kriteria sebagaimana dimaksud dalam Pasal 153A ayat (1), Perseroan harus mengubah statusnya menjadi Perseroan sebagaimana dimaksud dalam ketentuan peraturan perundang-undangan.
 2. (21 Ketentuan lebih lanjut mengenai pengubahan status Perseroan untuk usaha mikro dan kecil menjadi Perseroan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## Pasal 153I
+**Pasal 153I**
 
 - (1) Perseroan untuk usaha mikro dan kecil diberikan keringanan biaya terkait pendirian badan hukum.
 2. (21 Ketentuan lebih lanjut mengenai keringanan biaya Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud pada ayat (1) diatur sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak.
 
-## Pasal 153J
+**Pasal 153J**
 
 - (1) Pemegang saham Perseroan untuk usaha mikro dan kecil tidak bertanggung jawab secara pribadi atas perikatan yang dibuat atas nama Perseroan dan tidak bertanggung jawab atas kerugian Perseroan melebihi saham yang dimiliki.
 
@@ -14801,7 +14807,7 @@ Bagian Ketujuh Perpajakan Pasal 111 ...
 
 <!-- image -->
 
-## Pasal 1 1 1
+**Pasal 1 1 1**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 50, Tambahan Lembaran Negara Republik Indonesia Nomor 32631 sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2O2l tentang Harmonisasi Peraturan Perpajakan (Lembaran Negara Republik Indonesia Tahun 2O2l Nomor 246, Tambahan Lembaran Negara Republik Indonesia Nomor 67361diubah sebagai berikut:
 
@@ -14876,7 +14882,7 @@ yang menjalankan usaha atau melakukan kegiatan melalui bentuk usaha tetap di Ind
 - p. komputer, agen elektronik, atau peralatan otomatis yang dimiliki, disewa, atau digunakan oleh penyelenggara transaksi elektronik untuk menjalankan kegiatan usaha melalui internet.
 4. 2 Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26
+**Pasal 26**
 
 - (1) Atas penghasilan tersebut di bawah ini, dengan nama dan dalam bentuk apa pur, yang dibayarkan, disediakan untuk dibayarkan, atau telah jatuh tempo pembayarannya oleh badan pemerintah, subjek pajak dalam negeri, penyelenggara kegiatan, bentuk usaha tetap, atau perwakilan perusahaan luar negeri lainnya kepada Wajib Pajak luar negeri selain bentuk usaha tetap di Indonesia dipotong pajak sebesar 2Oo/o (dua puluh persen) dari jumlah bruto oleh pihak yang wajib membayarkan:
 - b. bunga termasuk premium, diskonto, dan imbalan sehubungan dengan jaminan pengembalian utang;
@@ -14904,13 +14910,13 @@ yang menjalankan usaha atau melakukan kegiatan melalui bentuk usaha tetap di Ind
 
 <!-- image -->
 
-## Pasal 1 12
+**Pasal 1 12**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 32641 sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2O2l tentang Harmonisasi Peraturan Perpajakan (Lembaran Negara Republik Indonesia Tahun 2O2L Nomor 246, Tambahan Lembaran Negara Republik Indonesia Nomor 67361diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1A
+**Pasal 1A**
 
 - (1) Yang termasuk dalam pengertian penyerahan Barang Kena Pajak adalah:
 - a. penyerahan hak atas Barang Kena Pajak karena suatu perjanjian;
@@ -14936,7 +14942,7 @@ g. dihapus.
 
 <!-- image -->
 
-## Pasal 13
+**Pasal 13**
 
 - (1) Pengusaha Kena Pajak wajib membuat Faktur Pajak untuk setiap:
 - a. penyerahan Barang Kena Pajak sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a atau huruf f dan/atau Pasal 16D;
@@ -14972,7 +14978,7 @@ g. dihapus.
 
 <!-- image -->
 
-## PRESIDEN BUK INDONESIA
+**PRESIDEN BUK INDONESIA**
 
 -632-
 
@@ -14982,13 +14988,13 @@ g. dihapus.
 - (8) Ketentuan lebih lanjut mengenai tata cara pembuatan Faktur Pajak dan tata cara pembetulan atau penggantian Faktur Pajak diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
 - (9) Faktur Pajak harus memenuhi persyaratan formal dan material.
 
-## Pasal 1 13
+**Pasal 1 13**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 3262)' sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2O2l tentang Harmonisasi Peraturan Perpajakan (Lembaran Negara Republik Indonesia Tahun 2O2l Nomor 246, Tambahan Lembaran Negara Republik Indonesia Nomor 67361 diubah sebagai berikut:
 
 - Ketentuan Pasal 9 diubah sehingga berbunyi sebagai berikut: I
 
-## Pasal 9
+**Pasal 9**
 
 - (1) Menteri Keuangan menentukan tanggal jatuh tempo pembayaran dan penyetoran pajak yang terutang untuk suatu saat atau Masa Pajak bagi masing-masing jenis pajak paling lama 15 (lima belas) hari setelah saat terutangnya pajak atau berakhirnya Masa Pajak.
 - (2) Kekurangan pembayaran pajak yang terutang berdasarkan Surat Pemberitahuan Tahunan Pajak Penghasilan harus dibayar lunas sebelum Surat Pemberitahuan Pajak Penghasilan disampaikan.
@@ -15008,7 +15014,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum
 - (4) Direktur Jenderal Pajak atas permohonan Wajib Pajak dapat memberikan persetujuan untuk mengangsur atau menunda pembayaran pajak termasuk kekurangan pembayaran sebagaimana dimaksud pada ayat (21 yang pelaksanaannya diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
 2. Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 1
+**Pasal 1 1**
 
 - (1) Atas permohonan Wajib Pajak, kelebihan pembayaran pajak sebagaimana dimaksud dalam Pasal 17, Pasal l7B, Pasal 17C, atau Pasal 17D dikembalikan dengan ketentuan bahwa apabila ternyata Wajib Pajak mempunyai utang pajak, langsung diperhitungkan untuk melunasi terlebih dahulu utang pajak tersebut.
 - (1a) Kelebihan pembayaran pajak sebagai akibat adanya Surat Keputusan Keberatan, Surat Keputusan Pembetulan, Surat Keputusan Pengurangan Sanksi Administrasi, Surat Keputusan Penghapusan Sanksi Administrasi, Surat Keputusan Pengurangan Ketetapan Pajak, Surat Keputusan Pembatalan Ketetapan Pajak, dan Putusan Banding atau Putusan Peninjauan Kembali, serta Surat Keputusan Pemberian Imbalan Bunga dikembalikan kepada Wajib Pajak dengan ketentuan jika ternyata Wajib Pajak mempunyai utang pajak langsung diperhitungkan untuk melunasi terlebih dahulu utang pajak tersebut.
@@ -15023,7 +15029,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 -636-
 
@@ -15031,7 +15037,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum
 - 3 Pasal 13A dihapus.
 - 4 Ketentuan Pasal 15 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 15
+**Pasal 15**
 
 - (1) Direktur Jenderal Pajak dapat menerbitkan Surat Ketetapan Pajak Kurang Bayar Tambahan dalam jangka waktu 5 (lima) tahun setelah saat terutangnya pajak atau berakhirnya Masa Pajak, bagian Tahun Pajak, atau Tahun Pajak apabila ditemukan data baru yang mengakibatkan penambahan jumlah pajak yang terutang setelah dilakukan tindakan pemeriksaan dalam rangka penerbitan Surat Ketetapan Pajak Kurang Bayar Tambahan.
 2. (21 Jumlah kekurangan pajak yang terutang dalam Surat Ketetapan Pajak Kurang Bayar Tambahan ditambah dengan sanksi administratif berupa kenaikan sebesar IOOVI (seratus persen) dari jumlah kekurangan pajak tersebut.
@@ -15044,7 +15050,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum
 
 -637 -
 
-## Pasal 17E}
+**Pasal 17E}**
 
 - (1) Direktur Jenderal Pajak setelah melakukan pemeriksaan atas permohonan pengembalian kelebihan pembayaran pajak, selain permohonan pengembalian kelebihan pembayaran pajak dari Wajib Pajak sebagaimana dimaksud dalam Pasal L7C dan Wajib Pajak sebagaimana dimaksud dalam Pasal l7D, harus menerbitkan surat ketetapan pajak paling lama 12 (dua belas) bulan sejak surat permohonan diterima secara lengkap.
 - (1a) Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku terhadap Wajib Pajak yang sedang dilakukan pemeriksaan bukti permulaan tindak pidana di bidang perpajakan yzrng ketentuannya diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
@@ -15072,7 +15078,7 @@ dan dalam hal kepada Wajib Pajak diterbitkan Surat Ketetapan Pajak Lebih Bayar, 
 
 6. Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 19
+**Pasal 19**
 
 - (1) Apabila Surat Ketetapan Pajak Kurang Bayar atau Surat Ketetapan Pajak Kurang Bayar Tambahan, serta Surat Keputusan Pembetulan, Surat Keputusan Keberatan, Putusan Banding atau Putusan Peninjauan Kembali, yang menyebabkan jumlah pajak yang masih harus dibayar bertambah, pada saatjatuh tempo pelunasan tidak atau kurang dibayar, atas jumlah pajak yang tidak atau kurang dibayar itu dikenai sanksi administratif berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan untuk seluruh masa, yang dihitung sejak berakhirnya tanggal jatuh tempo sampai dengan tanggal pembayaran atau tanggal diterbitkannya Surat Tagihan Pajak, dan dikenakan paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
 - (2) Dalam hal Wajib Pajak diperbolehkan mengangsur atau menunda pembayaran pajak juga dikenai sanksi administratif berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan dari jumlah pajak yang masih harus dibayar dan dikenakan paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
@@ -15086,7 +15092,7 @@ dan dalam hal kepada Wajib Pajak diterbitkan Surat Ketetapan Pajak Lebih Bayar, 
 7. Pasal 27A dihapus.
 8. Di antara Pasal 27A dan Pasal 28 disisipkan 1 (satu) pasal, yakni Pasal 278 sehingga berbunyi sebagai berikut:
 
-## Pasal 278
+**Pasal 278**
 
 - (1) Wajib Pajak diberikan imbalan bunga dalam hal pengajuan keberatan, permohonan banding, atau permohonan peninjauan kembali yang dikabulkan sebagian atau seluruhnya sehingga menyebabkan kelebihan pembayaran pajak.
 2. (21 Imbalan bunga sebagaimana dimaksud pada ayat (1) diberikan terhadap kelebihan pembayaran pajak paling banyak sebesar jumlah lebih bayar yang disetujui Wajib Pajak dalam pembahasan akhir hasil pemeriksaan atas Surat Pemberitahuan yang menyatakan lebih bayar yang telah diterbitkan:
@@ -15100,7 +15106,7 @@ dan dalam hal kepada Wajib Pajak diterbitkan Surat Ketetapan Pajak Lebih Bayar, 
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESTA
+**PRESIDEN REPUBLTK INDONESTA**
 
 -64t-
 
@@ -15121,7 +15127,7 @@ dan dalam hal kepada Wajib Pajak diterbitkan Surat Ketetapan Pajak Lebih Bayar, 
 - (8) Ketentuan lebih lanjut mengenai tata cara pemberian imbalan bunga diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
 3. 9 Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 Setiap orang yang karena kealpaannya:
 
@@ -15130,25 +15136,25 @@ Setiap orang yang karena kealpaannya:
 
 sehingga dapat menimbulkan kerugian pada pendapatan negara dipidana denda paling sedikit 1 (satu) kali jumlah pajak terutang yang tidak atau kurang dibayar dan paling banyak 2 (dua) kali jumlah pajak terutang yang tidak atau kurang dibayar, atau dipidana kurungan paling singkat 3 (tiga) bulan atau paling lama 1 (satu) tahun.
 
-## Pasal 114
+**Pasal 114**
 
 Ketentuan mengenai pajak daerah dan retribusi daerah dalam rangka penciptaan lapangan kerja sesuai dengan ketentuan yang diatur dalam Undang-Undang tentang Hubungan Keuangan antara Pemerintah Pusat dan
 
 Pemerintahan Daerah.
 
-## Bagian Kedelapan
+**Bagian Kedelapan**
 
 Impor Komoditas Perikanan dan Komoditas Pergaraman
 
 <!-- image -->
 
-## Pasal 1 15
+**Pasal 1 15**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 7 Tahun 2016 tentang Perlindungan dan Pemberdayaan Nelayan, Pembudi Daya lkan, dan Petambak Garam (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 5870) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -15191,7 +15197,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUEUK TNDONESIA
+**PRESIDEN REPUEUK TNDONESIA**
 
 -646-
 
@@ -15209,19 +15215,19 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 -647 -
 
-## Pasal 37
+**Pasal 37**
 
 - (1) Pemerintah Pusat mengendalikan impor Komoditas Perikanan dan Komoditas Pergaraman.
 - (2) Ketentuan lebih lanjut mengenai pengendalian impor Komoditas Perikanan dan Komoditas Pergaraman sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
 3. 3 Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 - (1) Setiap Orang dilarang mengimpor Komoditas Perikanan dan Komoditas Pergaraman yang tidak sesuai dengan tempat pemasukan, jenis, waktu pemasukan, danfatau standar mutu wajib yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Ketentuan lebih lanjut mengenai tempat pemasukan, jenis, waktu pemasukan, dan/atau standar mutu wajib sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
 3. Di antara Pasal 38 dan Pasal 39 disisipkan 1 (satu) pasal, yakni Pasal 38A sehingga berbunyi sebagai berikut: 4
 
-## Pasal 38A
+**Pasal 38A**
 
 - (1) Setiap Orang yang melakukan impor Komoditas Perikanan dan Komoditas Pergaraman yang tidak sesuai dengan tempat pemasukan, jenis, waktu pemasukan, danfatau standar mutu wajib yang ditetapkan oleh Pemerintah Pusat sebagaimana dimaksud dalam Pasal 38 dikenai sanksi administratif berupa:
 - a. penghentiansementarakegiatan;
@@ -15247,7 +15253,7 @@ Bagian Kesembilan
 
 Wajib Daftar Perr.rsahaan
 
-## Pasal 1 16
+**Pasal 1 16**
 
 Undang-Undang Nomor 3 Tahun 1982 tentang Wajib Daftar Perusahaan (Lembaran Negara Republik Indonesia Tahun 1982 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 32141, dicabut dan dinyatakan tidak berlaku.
 
@@ -15255,17 +15261,17 @@ Bagian Kesepuluh Badan Usaha Milik Desa
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -649-
 
-## Pasal 1 17
+**Pasal 1 17**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 2Ol4 tentang Desa (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 5495) diubah sebagai berikut:
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -15299,7 +15305,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 16. Menteri adalah menteri yang menangani Desa.
 - 2 Ketentuan Pasal 87 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 87
+**Pasal 87**
 
 - (1) Desa dapat mendirikan BUM Desa.
 2. (21 BUM Desa sebagaimana dimaksud pada ayat (1) dikelola dengan semangat kekeluargaan dan kegotongroyongan.
@@ -15312,17 +15318,17 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (41 BUM Desa sebagaimana dimaksud pada ayat (1) dapat membentuk unit usaha berbadan hukum sesuai dengan kebutuhan dan tujuan.
 - (5) Ketentuan lebih lanjut mengenai BUM Desa sebagaimana dimaksud pada ayat (1), ayat (21, ayat (3), dan ayat (41 diatur dengan Peraturan Pemerintah.
 
-## Bagian Kesebelas
+**Bagian Kesebelas**
 
 Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat
 
-## Pasal 1 18
+**Pasal 1 18**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 3817) diubah sebagai berikut:
 
 - Ketentuan Pasal 44 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 44
+**Pasal 44**
 
 - (1) Dalam waktu 30 (tiga puluh) hari sejak Pelaku Usaha menerima pemberitahuan putusan Komisi sebagaimana dimaksud dalam Pasal 43 ayat (41, Pelaku Usaha wajib melaksanakan putusan tersebut dan menyampaikan laporan pelaksanaannya kepada Komisi.
 2. (21 Pelaku Usaha dapat mengajukan keberatan kepada Pengadilan Niaga selambat-lambatnya 14 (empat belas) hari setelah menerima pemberitahuan putusan tersebut.
@@ -15338,20 +15344,20 @@ Beberapa ketentuan dalam Undang-Undang Nomor 5 Tahun 1999 tentang Larangan Prakt
 - (5) Putusan Komisi sebagaimana dimaksud pada ayat (4) merupakan bukti permulaan yang cukup bagi penyidik untuk melakukan penyidikan.
 - 2 Ketentuan Pasal 45 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 45
+**Pasal 45**
 
 - (2) Pihak yang keberatan terhadap putusan Pengadilan Niaga sebagaimana dimaksud pada ayat (1) dalam waktu 14 (empat belas) hari dapat mengajukan kasasi kepada Mahkamah Agung Republik Indonesia.
 - (1) Pengadilan Niaga harrrs memeriksa keberatan Pelaku Usaha sebagaimana dimaksud dalam Pasal 44 ayat (2) dalam waktu 14 (empat belas) hari sejak diterimanya keberatan tersebut.
 - (3) Ketentuan mengenai tata cara pemeriksaan di Pengadilan Niaga dan Mahkamah Agung Republik Indonesia dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 4. Ketentuan Pasal 46 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 46
+**Pasal 46**
 
 - (21 Putusan Komisi sebagaimana dimaksud pada ayat (1) dimintakan penetapan eksekusi kepada Pengadilan Niaga.
 - (1) Apabila tidak terdapat keberatan, putusan Komisi sebagaimana dimaksud dalam Pasal 43 ayat (3), telah mempunyai kekuatan hukum yang tetap.
 - Ketentuan Pasal 47 diubah sehingga berbunyi sebagai berikut: 4
 
-## Pasal 47
+**Pasal 47**
 
 - (1) Komisi berwenang menjatuhkan sanksi berupa tindakan administratif terhadap Pelaku Usaha yang melanggar ketentuan Undang-Undang ini.
 2. (21 Tindakan administratif sebagaimana dimaksud pada ayat (1) dapat berupa:
@@ -15372,26 +15378,26 @@ Pasal48...
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESTA
+**PRESIDEN REPUEUK INDONESTA**
 
 -655-
 
-## Pasal 48
+**Pasal 48**
 
 Pelanggaran terhadap ketentuan Pasal 4l UndangUndang ini dipidana dengan pidana denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah) atau pidana kurungan paling lama 1 (satu) tahun sebagai pengganti pidana denda.
 
 6. Pasal 49 dihapus.
 
-## BAB VII DUKUNGAN RISET DAN INOVASI
+**BAB VII DUKUNGAN RISET DAN INOVASI**
 
-## Pasal 1 19
+**Pasal 1 19**
 
 Untuk memberikan dukungan riset dan inovasi di bidang berusaha, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah beberapa ketentuan yang diatur dalam:
 
 - a. Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2OO3 Nomor 7O, Tambahan Lembaran Negara Republik Indonesia Nomor 42971; dan
 - b. Undang-Undang Nomor 11 Tahun 2Ol9 tentang Sistem Nasional Ilmu Pengetahuan Dan Teknologi (Lembaran Negara Republik Indonesia Tahun 2Ol9 Nomor 148, Tambahan Lembaran Negara Republik Indonesia Nomor 6s74l'.
 
-## Pasal 120
+**Pasal 120**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 19 Tahun 2OO3 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2OO3 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 42971 diubah sebagai berikut:
 
@@ -15401,13 +15407,13 @@ Beberapa ketentuan dalam Undang-Undang Nomor 19 Tahun 2OO3 tentang Badan Usaha M
 
 - 1 Ketentuan judul BAB V diubah sehingga berbunyi sebagai berikut:
 
-## BAB V
+**BAB V**
 
-## KEWAJIBAN PELAYANAN UMUM, RISET, DAN INOVASI
+**KEWAJIBAN PELAYANAN UMUM, RISET, DAN INOVASI**
 
 - 2 Ketentuan Pasal 66 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 66
+**Pasal 66**
 
 - (1) Pemerintah Pusat dapat memberikan penugasan khusus kepada BUMN untuk menyelenggarakan fungsi kemanfaatan umum serta riset dan inovasi nasional.
 - (2) Penugasan khusus kepada BUMN sebagaimana dimaksud pada ayat (1) dilakukan dengan tetap memperhatikan maksud dan tujuan, kegiatan usaha BUMN, serta mempertimbangkan kemampuan BUMN.
@@ -15428,29 +15434,29 @@ Beberapa ketentuan dalam Undang-Undang Nomor 19 Tahun 2OO3 tentang Badan Usaha M
 - f. lembaga pengkajian dan penerapan; dan/atau
 - g. perguruan tinggi.
 
-## Pasal 121
+**Pasal 121**
 
 Ketentuan Pasal 48 dalam Undang-Undang Nomor 11 Tahun 2Ol9 tentang Sistem Nasional Ilmu Pengetahuan dan Teknologi (Lembaran Negara Republik Indonesia Tahun 2Ol9 Nomor 148, Tambahan Lembaran Negara Republik Indonesia Nomor 63741 diubah sebagai berikut:
 
-## Pasal 48
+**Pasal 48**
 
 - (1) Untuk menjalankan Penelitian, Pengembangan, Pengkajian, dan Penerapan, serta Invensi dan Inovasi yang terintegrasi dibentuk badan riset dan inovasi nasional.
 2. (21 Untuk menjalankan Penelitian, Pengembangan, Pengkajian, dan Penerapan, serta Invensi dan Inovasi yang terintegrasi di daerah, Pemerintah Daerah membentuk badan.
 - (3) Ketentuan lebih lanjut mengenai badan riset dan inovasi nasional sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Presiden.
 
-## BAB VIII
+**BAB VIII**
 
-## PENGADAAN TANAH
+**PENGADAAN TANAH**
 
 Bagian Kesatu Umum
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESIA
+**PRESIDEN BLIK INDONESIA**
 
 -658-
 
-## Pasal 122
+**Pasal 122**
 
 Dalam rangka memberikan kemudahan dan kelancaran dalam pengadaan tanah untuk kepentingan penciptaan kerja, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -15461,13 +15467,13 @@ Bagian Kedua Pengadaan Tanah bagi Pembangunan
 
 Untuk Kepentingan Umum
 
-## Pasal 123
+**Pasal 123**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 2 Tahun 2Ol2 tentang Pengadaan Tanah bagi Pembangunan untuk Kepentingan Umum (Lembaran Negara Republik Indonesia Tahun 2OI2 Nomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 5280) diubah sebagai berikut:
 
 - Ketentuan Pasal 8 diubah sehingga berbunyi sebagai berikut: 1
 
-## Pasal 8
+**Pasal 8**
 
 - (1) Pihak yang Berhak dan pihak yang menguasai Objek Pengadaan Tanah untuk Kepentingan Umum wajib mematuhi ketentuan dalam UndangUndang ini.
 
@@ -15482,7 +15488,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 2 Tahun 2Ol2 tentang Pengadaan Tana
 - b. pelepasan kawasan hutan atau pinjam pakai kawasan hutan dalam hal Pengadaan Tanah dilakukan oleh swasta.
 - 2 Ketentuan Pasal 10 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 10
+**Pasal 10**
 
 Tanah untuk Kepentingan Umum sebagaimana dimaksud dalam Pasal 4 ayat (1) digunakan untuk pembangunan:
 
@@ -15524,7 +15530,7 @@ u.kawasan...
 4. x kawasan pengembangair teknologi yang diprakarsai dan/atau dikuasai oleh Pemerintah Pusat, Pemerintah Daerah, badan usaha milik negara, atau badan usaha milik daerah.
 5. 3 Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 14
+**Pasal 14**
 
 - (1) Instansi yang memerlukan tanah membuat perencanaan Pengadaan Tanah untuk Kepentingan Umum dengan melibatkan kementerian/lembaga yang menyelenggarakan urusan pemerintahan di bidang pertanahan sesuai dengan ketentuan peraturan perundang-undangan.
 2. (21 Perencanaan Pengadaan Tanah untuk Kepentingan Umum sebagaimana dimaksud pada ayat (1) didasarkan atas Rencana Tata Ruang Wilayah dan prioritas pembangunan yang tercantum dalam Rencana Pembangunan Jangka Menengah, Rencana Strategis, dan/atau Rencana Kerja Pemerintah/ Instansi yang bersangkutan.
@@ -15535,7 +15541,7 @@ u.kawasan...
 
 - 4 Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 19
+**Pasal 19**
 
 - (1) Konsultasi Publik rencana pembangunan sebagaimana dimaksud dalam Pasal 18 ayat (3) dilaksanakan untuk mendapatkan kesepakatan lokasi rencana pembangunan dari:
 - a. Pihak yang Berhak;
@@ -15553,7 +15559,7 @@ u.kawasan...
 - (8) Ketentuan lebih lanjut mengenai Konsultasi Publik sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 4. 5 Di antara Pasal 19 dan Pasal20 disisipkan 3 (tiga) pasal, yakni Pasal 19A, Pasal 19B, dan Pasal 19C sehingga berbunyi sebagai berikut:
 
-## Pasal 19A
+**Pasal 19A**
 
 - (1) Dalam rangka efisiensi dan efektivitas, Pengadaan Tanah untuk Kepentingan Umum yang luasnya tidak lebih dari 5 (lima) hektare dapat dilakukan langsung oleh Instansi yang memerlukan tanah dengan Pihak yang Berhak.
 - (2) Pengadaan Tanah untuk Kepentingan Umum sebagaimana dimaksud pada ayat (1) harus dilakukan sesuai dengan kesesuaian tata ruang wilayah.
@@ -15562,15 +15568,15 @@ Pasal19B...
 
 <!-- image -->
 
-## PRESIDEN REPUBL|K INDONESIA
+**PRESIDEN REPUBL|K INDONESIA**
 
 -664-
 
-## Pasal 19E}
+**Pasal 19E}**
 
 Dalam hal Pengadaan Tanah untuk Kepentingan Umum yang luasnya kurang dari 5 (lima) hektare dilakukan langsung antara Pihak yang Berhak dan Instansi yang memerlukan tanah sebagaimana dimaksud dalam Pasal 19A ayat (1), penetapan lokasi dilakukan oleh bupati/wali kota.
 
-## Pasal 19C
+**Pasal 19C**
 
 Setelah penetapan lokasi Pengadaan Tanah dilakukan, tidak diperlukan lagi persyaratan:
 
@@ -15581,7 +15587,7 @@ Setelah penetapan lokasi Pengadaan Tanah dilakukan, tidak diperlukan lagi persya
 - e. analisis mengenai dampak lingkungan hidup.
 6. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut: 6
 
-## Pasal24
+**Pasal24**
 
 - (1) Penetapan lokasi pembangunan untuk Kepentingan Umum sebagaimana dimaksud dalam Pasal 19 ayat (6) atau Pasal 22 ayat (1) diberikan untuk jangka waktu 3 (tiga) tahun dan dapat diperpanjang 1 (satu) kali untuk jangka waktu 1 (satu) tahun.
 - (2) Permohonan perpanjangan waktu penetapan lokasi disampaikan paling singkat 6 (enam) bulan sebelum masa berlaku penetapan lokasi berakhir.
@@ -15591,11 +15597,11 @@ Pasal28...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 -665-
 
-## Pasal 28
+**Pasal 28**
 
 - (1) Inventarisasi dan identifikasi penguasaan, pemilikan, penggunaan, dan pemanfaatan tanah sebagaimana dimaksud dalam Pasal 27 ayat (2) huruf a meliputi kegiatan:
 - a. pengukuran dan pemetaan bidang per bidang tanah; dan
@@ -15604,7 +15610,7 @@ Pasal28...
 - (3) Pengumpulan data Pihak yang Berhak dan Objek Pengadaan Tanah sebagaimana dimaksud pada ayat (1) huruf b dapat dilakukan oleh penyurvei berlisensi.
 6. 8 Ketentuan Pasal 34 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 34
+**Pasal 34**
 
 - (1) Nilai Ganti Kerugian yang dinilai oleh Penilai sebagaimana dimaksud dalam Pasal 33 merupakan nilai pada saat pengumuman penetapan lokasi pembangunan untuk Kepentingan Umum sebagaimana dimaksud dalam Pasal 26.
 2. (21 Besarnya nilai Ganti Kerugian berdasarkan hasil penilaian Penilai sebagaimana dimaksud pada ayat (1) disampaikan kepada Lembaga Pertanahan disertai dengan berita acara.
@@ -15618,7 +15624,7 @@ Pasal28...
 - (5) Musyawarah penetapan bentuk Ganti Kerrrgian sebagaimana dimaksud pada ayat (4) dilaksanakan oleh ketua pelaksana Pengadaan Tanah bersama dengan Penilai dengan para Pihak yang Berhak.
 2. I Ketentuan Pasal 36 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 36
+**Pasal 36**
 
 - (1) Pemberian Ganti Kerugian dapat diberikan dalam bentuk:
 - a. uang;
@@ -15634,7 +15640,7 @@ Pasal42...
 
 <!-- image -->
 
-## Pasal 42
+**Pasal 42**
 
 - (1) Dalam hal Pihak yang Berhak menolak bentuk dan/atau besarnya Ganti Kerugian berdasarkan hasil musyawarah sebagaimana dimaksud dalam Pasal 37, atau putusan pengadilan negeri/Mahkamah Agung sebagaimana dimaksud dalam Pasal 38, Ganti Kerugian dititipkan di pengadilan negeri setempat.
 2. (21 Penitipan Ganti Kerugian selain sebagaimana dimaksud pada ayat (1) dilakukan juga terhadap:
@@ -15647,7 +15653,7 @@ Pasal42...
 - (3) Pengadilan negeri paling lama dalam jangka waktu 14 (empat belas) hari wajib menerima penitipan Ganti Kerugian sebagaimana dimaksud pada ayat (1) dan ayat (21.
 10. L2. Ketentuan Pasal 46 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 46
+**Pasal 46**
 
 - (1) Pelepasan Objek Pengadaan Tanah sebagaimana dimaksud dalam Pasal45 ayat (1) dan ayat(21tidak diberikan Ganti Kerugian, kecuali:
 - a. Objek Pengadaan Tanah yang dipergunakan sesuai dengan tugas dan fungsi pemerintahan;
@@ -15655,7 +15661,7 @@ Pasal42...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -668-
 
@@ -15666,11 +15672,11 @@ Pasal42...
 - (5) Nilai Ganti Kerugian sebagaimana dimaksud pada ayat (21, ayat (3), dan ayat (4) didasarkan atas hasil penilaian Ganti Kerugian sebagaimana dimaksud dalam Pasal 34 ayat (21.
 - (6) Nilai Ganti Kerugian atas Objek Pengadaan Tanah berupa harta benda wakaf ditentukan sama dengan nilai hasil penilaian Penilai atas harta benda wakaf yang diganti.
 
-## Bagian Ketiga
+**Bagian Ketiga**
 
 Pelindungan Lahan Pertanian Pangan Berkelanjutan
 
-## Pasal 124
+**Pasal 124**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 4t Tahun 2OO9 tentang Perlindungan Lahan Pertanian Pangan Berkelanjutan (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 149, Tambahan Lembaran Negara Republik Indonesia Nomor 5068) diubah sebagai berikut:
 
@@ -15680,11 +15686,11 @@ Pasal44...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -669-
 
-## Pasal 44
+**Pasal 44**
 
 - (1) Lahan yang sudah ditetapkan sebagai Lahan Pertanian Pangan Berkelanjutan dilindungi dan dilarang dialihfungsikan.
 2. (21 Dalam hal untuk kepentingan umum dan/atau Proyek Strategis Nasional, Lahan Pertanian Pangan Berkelanjutan sebagaimana dimaksud pada ayat (1) dapat dialihfungsikan dan dilaksanakan sesuai dengan ketentuan peraturan perundangundangan.
@@ -15705,22 +15711,22 @@ Pasal44...
 
 2. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 73
+**Pasal 73**
 
 Setiap pejabat Pemerintah yang menerbitkan persetujuan pengalihfungsian Lahan Pertanian Pangan Berkelanjutan tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 44 ayat (1) dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun dan/atau pidana denda paling sedikit Rpl.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
 
 Bagian Keempat Pertanahan
 
-## Paragraf 1 Bank Tanah
+**Paragraf 1 Bank Tanah**
 
-## Pasal 125
+**Pasal 125**
 
 - (1) Pemerintah Pusat membentuk badan bank tanah.
 2. (21 Badan bank tanah sebagaimana dimaksud pada ayat (1) merupakan badan khusus yang mengelola tanah.
 3. Kekayaan badan bank tanah merupakan kekayaan negara yang dipisahkan. (3)
 4. Badan bank tanah berfungsi melaksanakan perencanaan, perolehan, pengadaan, pengelolaan, pemanfaatan, dan pendistribusian tanah. (41
 
-## Pasal 126
+**Pasal 126**
 
 - (1) Badan bank tanah menjamin ketersediaan tanah dalam rangka ekonomi berkeadilan untuk:
 - a. kepentingan umum;
@@ -15736,11 +15742,11 @@ c. kepentingan. . .
 - f. reforma agraria.
 5. (21 Ketersediaan tanah untuk reforma agraria sebagaimana dimaksud pada ayat (1) huruf f paling sedikit 30% (tiga puluh persen) dari tanah negara yang diperuntukkan badan bank tanah.
 
-## Pasal 127
+**Pasal 127**
 
 Badan bank tanah dalam melaksanakan tugas dan wewenangnya bersifat transparan, akuntabel, dan nonprofit.
 
-## Pasal 128
+**Pasal 128**
 
 Sumber kekayaan badan bank tanah dapat berasal dari:
 
@@ -15749,7 +15755,7 @@ Sumber kekayaan badan bank tanah dapat berasal dari:
 - c. penyertaan modal negara; dan
 - d. sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.
 
-## Pasal 129
+**Pasal 129**
 
 - (1) Tanah yang dikelola badan bank tanah diberikan hak pengelolaan.
 2. (21 Hak atas tanah di atas hak pengelolaan sebagaimana dimaksud pada ayat (1) dapat diberi hak guna usaha, hak guna bangunan, dan hak pakai.
@@ -15759,7 +15765,7 @@ Sumber kekayaan badan bank tanah dapat berasal dari:
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -672-
 
@@ -15770,7 +15776,7 @@ Sumber kekayaan badan bank tanah dapat berasal dari:
 - d. menentukan tarif pelayanan.
 - (5) Pemerintah Pusat melakukan pengawasan dan pengendalian atas penggunaan danf atau pemanfaatan tanah di atas hak pengelolaan sebagaimana dimaksud pada ayat l2l sesuai dengan ketentuan peraturan perundang-undangan.
 
-## Pasal 130
+**Pasal 130**
 
 Badan bank tanah sebagaimana dimaksud dalam Pasal 125 terdiri atas:
 
@@ -15778,12 +15784,12 @@ Badan bank tanah sebagaimana dimaksud dalam Pasal 125 terdiri atas:
 - b. Dewan Pengawas; dan
 - c. Badan Pelaksana.
 
-## Pasal 131
+**Pasal 131**
 
 - (1) Komite sebagaimana dimaksud dalam Pasal 130 huruf a diketuai oleh menteri yang menyelenggarakan urusan pemerintahan di bidang pertanahan dan beranggotakan para menteri dan kepala yang terkait.
 2. (21 Ketua dan anggota Komite ditetapkan dengan Keputusan Presiden berdasarkan usulan dari menteri yang menyelenggarakan umsan pemerintahan di bidang pertanahan.
 
-## Pasal 132
+**Pasal 132**
 
 - (1) Dewan Pengawas berjumlah paling banyak 7 (tujuh) orang terdiri atas 4 (empat) orang unsur profesional dan 3 (tiga) orang yang dipilih oleh Pemerintah Pusat.
 
@@ -15791,33 +15797,33 @@ Badan bank tanah sebagaimana dimaksud dalam Pasal 125 terdiri atas:
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -673-
 
 - (21 Terhadap calon unsur profesional sebagaimana dimaksud pada ayat (1) dilakukan proses seleksi oleh Pemerintah Pusat yang selanjutnya disampaikan ke Dewan Perwakilan Ralryat Republik Indonesia untuk dipilih dan disetujui.
 - (3) Calon unsur profesional yang diajukan ke Dewan Perwakilan Ralryat Republik Indonesia sebagaimana dimaksud pada ayat(21, paling sedikit berjumlah 2 (dua) kali jumlah yang dibutuhkan.
 
-## Pasal 133
+**Pasal 133**
 
 - (1) Badan Pelaksana terdiri atas Kepala dan Deputi.
 2. (2t Jumlah Deputi sebagaimana dimaksud pada ayat (1) ditetapkan oleh Ketua Komite.
 - (3) Kepala dan Deputi diangkat dan diberhentikan oleh Ketua Komite.
 - (4) Pengangkatan dan pemberhentian Kepala dan Deputi sebagaimana dimaksud pada ayat (3) dapat diusulkan oleh Dewan Pengawas.
 
-## Pasal 134
+**Pasal 134**
 
 Ketentuan lebih lanjut mengenai Komite, Dewan Pengawas, dan Badan Pelaksana diatur dalam Peraturan Presiden.
 
-## Pasal 135
+**Pasal 135**
 
 Ketentuan lebih lanjut mengenai pembentukan badan bank tanah diatur dalam Peraturan Pemerintah.
 
-## Paragraf 2
+**Paragraf 2**
 
-## Penguatan Hak Pengelolaan
+**Penguatan Hak Pengelolaan**
 
-## Pasal 136
+**Pasal 136**
 
 Hak pengelolaan merupakan hak menguasai dari negara yang kewenangan pelaksanaannya sebagian dilimpahkan kepada pemegang haknya.
 
@@ -15825,7 +15831,7 @@ Hak pengelolaan merupakan hak menguasai dari negara yang kewenangan pelaksanaann
 
 -674-
 
-## Pasal 137
+**Pasal 137**
 
 - (1) Sebagian kewenangan hak menguasai dari negara berupa tanah dapat diberikan hak pengelolaan kepada:
 - a. instansi Pemerintah Pusat;
@@ -15841,7 +15847,7 @@ Hak pengelolaan merupakan hak menguasai dari negara yang kewenangan pelaksanaann
 - (3) Pemberian hak pengelolaan sebagaimana dimaksud pada ayat (1) diberikan atas tanah negara dengan keputusan pemberian hak di atas tanah negara.
 13. (41 Hak pengelolaan dapat dilepaskan kepada pihak yang memenuhi syarat.
 
-## Pasal 138
+**Pasal 138**
 
 - (1) Penyerahan pemanfaatan bagian tanah hak pengelolaan kepada pihak ketiga sebagaimana dimaksud dalam Pasal 137 ayat (2) huruf b dilakukan dengan perjanjian pemanfaatan tanah.
 
@@ -15852,12 +15858,12 @@ Hak pengelolaan merupakan hak menguasai dari negara yang kewenangan pelaksanaann
 - 14) Pemerintah Pusat melakukan pengawasan dan pengendalian atas penggunaan danf atau pemanfaatan tanah di atas hak pengelolaan sebagaimana dimaksud pada ayat (3) sesuai dengan ketentuan peraturan perrrndang-undangan.
 - (5) Dalam hal hak atas tanah yang berada di atas hak pengelolaan telah berakhir, tanahnya kembali menjadi tanah hak pengelolaan.
 
-## Pasal 139
+**Pasal 139**
 
 - (1) Dalam keadaan tertentu, Pemerintah Pusat dapat membatalkan dan/atau mencabut hak pengelolaan sebagian atau seluruhnya.
 - (2) Tata cara pembatalan hak pengelolaan dilaksanakan sesuai dengan ketentuan peraturan perundangundangan.
 
-## Pasal 140
+**Pasal 140**
 
 - (1) Dalam hal bagian bidang tanah hak pengelolaan diberikan dengan hak milik, bagian bidang tanah hak pengelolaan tersebut hapus dengan sendirinya.
 2. (21 Hak milik sebagaimana dimaksud pada ayat (1) hanya diberikan untuk keperluan rumah umum dan keperluan transmigrasi.
@@ -15866,27 +15872,27 @@ Pasall4l...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -676-
 
-## Pasal 141
+**Pasal 141**
 
 Dalam rangka pengendalian pemanfaatan hak atas tanah di atas hak pengelolaan, dalam waktu tertentu, dilakukan evaluasi pemanfaatan hak atas tanah.
 
-## Pasal 142
+**Pasal 142**
 
 Ketentuan lebih lanjut mengenai hak pengelolaan diatur dalam Peraturan Pemerintah.
 
-## Paragraf 3
+**Paragraf 3**
 
 Satuan Rumah Susun untuk Orang Asing
 
-## Pasal 143
+**Pasal 143**
 
 Hak milik atas satuan rumah susun merupakan hak kepemilikan atas satuan rumah susun yang bersifat perseorangan yang terpisah dengan hak bersama atas bagian bersama, benda bersama, dan tanah bersama.
 
-## Pasal 144
+**Pasal 144**
 
 - (1) Hak milik atas satuan rumah susun dapat diberikan kepada:
 - a. warga negara Indonesia;
@@ -15902,7 +15908,7 @@ Hak milik atas satuan rumah susun merupakan hak kepemilikan atas satuan rumah su
 
 - (3) Hak milik atas satuan rumah susun dapat dijaminkan dengan dibebani hak tanggungan sesuai dengan ketentuan peraturan perundang-undangan.
 
-## Pasal 145
+**Pasal 145**
 
 - (1) Rumah susun dapat dibangun di atas tanah:
 - a. hak guna bangunan atau hak pakai di atas tanah negara; atau
@@ -15910,11 +15916,11 @@ Hak milik atas satuan rumah susun merupakan hak kepemilikan atas satuan rumah su
 - (2) Pemberian hak guna bangunan bagi rumah susun sebagaimana dimaksud pada ayat (1) huruf a dapat diberikan sekaligus dengan perpanjangan haknya setelah mendapat sertifikat laik fungsi.
 - (3) Pemberian hak guna bangunan bagi rumah susun sebagaimana dimaksud pada ayat (1) huruf b dapat diberikan perpanjangan dan pembaruan hak apabila sudah mendapat sertifikat laik fungsi.
 
-## Paragraf 4
+**Paragraf 4**
 
 Pemberian Hak atas Tanah/Hak Pengelolaan pada Ruang Atas Tanah dan Ruang Bawah Tanah
 
-## Pasal 146
+**Pasal 146**
 
 - (1) Tanah atau ruang yang terbentuk pada ruang atas tanah dan/atau rulang bawah tanah dan digunakan untuk kegiatan tertentu dapat diberikan hak guna bangunan, hak pakai, atau hak pengelolaan.
 - (2) Batas kepemilikan tanah pada ruang atas tanah oleh pemegang hak atas tanah diberikan sesuai dengan koelisien dasar bangunan, koefisien lantai bangunan, dan rencana tata ruang yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.
@@ -15927,15 +15933,15 @@ Pemberian Hak atas Tanah/Hak Pengelolaan pada Ruang Atas Tanah dan Ruang Bawah T
 - (4) Penggunaan dan pemanfaatan tanah pada ruang atas tanah dan/atau rLlang bawah tanah oleh pemegang hak yang berbeda dapat diberikan hak guna bangunan, hak pakai, atau hak pengelolaan.
 - (5) Ketentuan lebih lanjut mengenai penggunaan tanah pada nrang atas tanah dan/atau ruang bawah tanah sebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (4) diatur dalam Peraturan Presiden.
 
-## Pasal 147
+**Pasal 147**
 
 Tanda bukti hak atas tanah, hak milik atas satuan rumah susun, hak pengelolaan, dan hak tanggungan, termasuk akta peralihan dan pembebanan hak atas tanah serta dokumen lainnya yang berkaitan dengan tanah dapat berbentuk elektronik.
 
-## BAB IX KAWASAN EKONOMI
+**BAB IX KAWASAN EKONOMI**
 
-## Bagian Kesatu Umum
+**Bagian Kesatu Umum**
 
-## Pasal 148
+**Pasal 148**
 
 Untuk menciptakan pekerjaan dan mempermudah Pelaku Usaha dalam melakukan investasi, Peraturan Pemerintah Pengganti Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan barrr beberapa ketentuan yang diatur dalam:
 
@@ -15945,25 +15951,25 @@ b. Undang-Undang
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -679-
 
 - b. Undang-Undang Nomor 36 Tahun 2OOO tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 1 Tahun 2OOO tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2OOO Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 4053) sebagaimana diubah dengan Undang-Undang Nomor 44 Tahun 2OO7 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 1 Tahun 2OO7 tentang Perubahan Atas Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2OOT Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 47751; dan
 - c. Undang-Undang Nomor 37 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 252, Tambahan Lembaran Negara Republik Indonesia Nomor 4054l,.
 
-## Pasal 149
+**Pasal 149**
 
-## Kawasan ekonomi terdiri atas:
+**Kawasan ekonomi terdiri atas:**
 
 - a. kawasan ekonomi khusus; dan
 - b. kawasan perdagangan bebas dan pelabuhan bebas.
 
-## Bagian Kedua
+**Bagian Kedua**
 
 Kawasan Ekonomi Khusus
 
-## Pasal 150
+**Pasal 150**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 39 Tahun 2OO9 tentang Kawasan Ekonomi Khusus (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 147, Tambahan Lembaran Negara Republik Indonesia Nomor 5066) diubah menjadi sebagai berikut:
 
@@ -15971,13 +15977,13 @@ Beberapa ketentuan dalam Undang-Undang Nomor 39 Tahun 2OO9 tentang Kawasan Ekono
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUEUK INDONESIA
+**REPUEUK INDONESIA**
 
 -680-
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -15990,7 +15996,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 7. Pelaku Usaha adalah pelaku usaha yang menjalankan kegiatan usaha di KEK.
 8. 2 Ketentuan Pasal 3 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 3
+**Pasal 3**
 
 - (1) Kegiatan usaha di KEK terdiri atas:
 - a. produksi dan pengolahan;
@@ -16014,7 +16020,7 @@ e. pendidikan. . .
 10. (71 Di dalam KEK disediakan lokasi untuk usaha mikro, kecil, menengah, dan koperasi, baik sebagai Pelaku Usaha maupun sebagai pendukung kegiatan perusahaan yang berada di dalam KEK.
 11. 3 Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 4
+**Pasal 4**
 
 Lokasi yang dapat diusulkan untuk menjadi KEK memenuhi kriteria:
 
@@ -16028,7 +16034,7 @@ c. lahan. . .
 - c. lahan yang diusulkan menjadi KEK paling sedikit 5O% (lima puluh persen) dari yang direncanakan telah dikuasai sebagian atau seluruhnya.
 2. 4 Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 5
+**Pasal 5**
 
 - (1) Pembentukan KEK diusulkan kepada Dewan Nasional oleh:
 - a. Badan Usaha; atau
@@ -16044,7 +16050,7 @@ c. lahan. . .
 - b. Pemerintah Daerah kabupaten/kota.
 13. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut: 5
 
-## Pasal 6
+**Pasal 6**
 
 - (1) Usulan pembentukan KEK sebagaimana dimaksud dalam Pasal 5 ayat (1) harus memenuhi kriteria sebagaimana dimaksud dalam Pasal 4.
 
@@ -16062,15 +16068,15 @@ c. lahan. . .
 - g. penguasaan lahan yang dikuasai paling sedikit 5Oo/o (lima puluh persen) dari yang direncanakan.
 6. Di antara Pasal 8 dan Pasal 9 disisipkan 1 (satu) pasal, yakni Pasal 8A sehingga berbunyi sebagai berikut:
 
-## Pasal 8A
+**Pasal 8A**
 
 Pemerintah Pusat dan Pemerintah Daerah wajib mendukung KEK yang telah ditetapkan sebagaimana dimaksud dalam Pasal 7 dan Pasal 8.
 
 7. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 10
+**Pasal 10**
 
-## Setelah KEK ditetapkan:
+**Setelah KEK ditetapkan:**
 
 - a. Badan Usaha yang mengusulkan KEK ditetapkan sebagai pembangun dan pengelola KEK; dan
 - b. Pemerintah Pusat atau Pemerintah Daerah sebagai pengusul menetapkan Badan Usaha untuk membangun dan mengelola KEK.
@@ -16084,7 +16090,7 @@ Pemerintah Pusat dan Pemerintah Daerah wajib mendukung KEK yang telah ditetapkan
 - 8 Pasal 11 dihapus
 - 9 Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 13
+**Pasal 13**
 
 - (1) Pembiayaan untuk pembangunan dan pemeliharaan infrastruktur di dalam KEK dapat bersumber dari:
 - a. Pemerintah Pusat dan/atau Pemerintah Daerah;
@@ -16094,7 +16100,7 @@ Pemerintah Pusat dan Pemerintah Daerah wajib mendukung KEK yang telah ditetapkan
 6. (21 Dewan Nasional dapat menetapkan kebijakan tersendiri dalam kerja sama antara Pemerintah Pusat, Pemerintah Daerah, dan swasta dalam pembangunan dan pemeliharaan infrastruktur di dalam KEK.
 10. Ketentuan Pasal 16 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 16
+**Pasal 16**
 
 - (1) Dewan Nasional diketuai oleh menteri yang menyelenggarakan koordinasi, sinkronisasi, dan pengendalian urusan kementerian dalam penyelenggaraan pemerintahan di bidang perekonomian dan beranggotakan menteri dan kepala lembaga pemerintah nonkementerian.
 2. (21 Untuk membantu pelaksanaan tugas Dewan Nasional sebagaimana dimaksud pada ayat (1) dibentuk Sekretariat Jenderal Dewan Nasional.
@@ -16106,9 +16112,9 @@ Pemerintah Pusat dan Pemerintah Daerah wajib mendukung KEK yang telah ditetapkan
 - (3) Ketentuan mengenai Dewan Nasional dan Sekretariat Jenderal Dewan Nasional sebagaimana dimaksud pada ayat (1) dan ayat (21 diatur dalam Peraturan Pemerintah.
 11. Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 17
+**Pasal 17**
 
-## Dewan Nasional bertugas:
+**Dewan Nasional bertugas:**
 
 - a. menetapkan strategi dan kebijakan umum pembentukan dan pengembangan KEK;
 - b. membentuk Administrator;
@@ -16120,7 +16126,7 @@ Pemerintah Pusat dan Pemerintah Daerah wajib mendukung KEK yang telah ditetapkan
 - h. memantau dan mengevaluasi keberlangsungan KEK serta merekomendasikan langkah tindak lanjut hasil evaluasi kepada Presiden, termasuk mengusulkan pencabutan status KEK.
 9. L2. Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 19
+**Pasal 19**
 
 - (1) Dewan Kawasan dapat dibentuk sesuai dengan kebutuhan di tingkat provinsi yang sebagian wilayahnya ditetapkan sebagai KEK.
 
@@ -16133,7 +16139,7 @@ Pemerintah Pusat dan Pemerintah Daerah wajib mendukung KEK yang telah ditetapkan
 13. Pasal 20 dihapus.
 14. Ketentuan Pasal 21 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 21
+**Pasal 21**
 
 Dewan Kawasan bertugas:
 
@@ -16149,7 +16155,7 @@ Dewan Kawasan bertugas:
 
 15. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal22
+**Pasal22**
 
 - (1) Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 21, Dewan Kawasan dapat:
 - a. meminta penjelasan Administrator mengenai penyelenggaraan Perizinan Berusaha, perizinan lainnya, pelayanan, dan pengawasan di KEK;
@@ -16158,7 +16164,7 @@ Dewan Kawasan bertugas:
 - (2) Ketentuan lebih lanjut mengenai Dewan Kawasan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 16. Ketentuan Pasal 23 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 23
+**Pasal 23**
 
 - (1) Administrator bertugas menyelenggarakan:
 - a. Perizinan Berusaha dan perizinan lainnya yang diperlukan oleh Badan Usaha dan Pelaku Usaha;
@@ -16173,34 +16179,34 @@ Dewan Kawasan bertugas:
 - (3) Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1) Administrator menyampaikan laporan kepada Dewan Nasional dengan tembusan kepada Dewan Kawasan.
 17. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal24
+**Pasal24**
 
 Dalam melaksanakan pengawasan dan pengendalian operasionalisasi KEK sebagaimana dimaksud dalam Pasal 23 ayat (1) huruf c, Administrator berwenang untuk mendapatkan laporan atau penjelasan dari Badan Usaha dan/atau Pelaku Usaha mengenai kegiatannya.
 
 18. Di antara Pasal 24 dan Pasa125 disisipkan 3 (tiga) pasal, yakni Pasal 24A, Pasal 248, dan Pasal 24C sehingga berbunyi sebagai berikut:
 
-## Pasal 24A
+**Pasal 24A**
 
 - (1) Pelaksanaan tugas Administrator dilakukan sesuai dengan tata kelola pemerintahan dan asas-asas umum pemerintahan yang baik sesuai dengan ketentuan peraturan perundang-undangan.
 2. (21 Administrator dapat dijabat oleh aparatur sipil negara atau nonaparatur sipil negara yang memiliki kompetensi, kualifikasi, dan persyaratan lain yang dipilih secara selektif sesuai dengan kriteria dan kualifikasi yang ditentukan oleh Dewan Nasional.
 
-## Pasal 24B
+**Pasal 24B**
 
 Ketentuan lebih lanjut mengenai Administrator sebagaimana dimaksud dalam Pasal 23, Pasal 24, dan Pasal 24A diatur dalam Peraturan Pemerintah.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -689-
 
-## Pasal 24C
+**Pasal 24C**
 
 - (1) Administrator dapat menerapkan pola pengelolaan keuangan Badan Layanan Umum.
 - (2) Penerapan pola pengelolaan keuangan Badan Layanan Umum sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 19. Ketentuan Pasal 25 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 25
+**Pasal 25**
 
 - (1) Dewan Nasional, Sekretariat Jenderal Dewan Nasional, Dewan Kawasan, Sekretariat Dewan Kawasan, dan Administrator memperoleh pembiayaan yang bersumber dari:
 - a. Anggaran Pendapatan dan Belanja Negara;
@@ -16209,7 +16215,7 @@ Ketentuan lebih lanjut mengenai Administrator sebagaimana dimaksud dalam Pasal 2
 5. (21 Ketentuan lebih lanjut mengenai sumber pembiayaan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 20. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26
+**Pasal 26**
 
 - (1) Badan Usaha yang melakukan pembangunan dan pengelolaan KEK sebagaimana dimaksud dalam Pasal 10 huruf a bertugas:
 - a. membangun dan mengembangkan prasarana dan sarana di dalam KEK;
@@ -16225,7 +16231,7 @@ c. menyelenggarakan. . .
 - (2) Penyelenggaraan promosi sebagaimana dimaksud pada ayat (1) huruf c dapat dilakukan secara terpadu dengan promosi yang dilaksanakan oleh kementerian / lembaga pemerintah nonkementerian dan/atau Pemerintah Daerah terkait.
 21. Ketentuan Pasal 27 di:ubah sehingga berbunyi sebagai berikut:
 
-## Pasal 27
+**Pasal 27**
 
 - (1) Di dalam KEK berlaku ketentuan larangan impor dan ekspor yang diatur berdasarkan ketentuan peraturan perundang-undangan.
 2. (21 Terhadap impor barang ke KEK belum diberlakukan ketentuan pembatasan.
@@ -16234,7 +16240,7 @@ c. menyelenggarakan. . .
 - (5) Pemerintah Pusat mengembangkan sistem elektronik yang terintegrasi secara nasional sebagaimana dimaksud pada ayat (4).
 22. Ketentuan Pasal 30 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 30
+**Pasal 30**
 
 - (1) Wajib pajak yang melakukan kegiatan usaha di KEK diberi fasilitas pajak penghasilan.
 
@@ -16245,7 +16251,7 @@ c. menyelenggarakan. . .
 23. Pasal 31 dihapus.
 24. Ketentuan Pasal 32 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 32
+**Pasal 32**
 
 - (1) lmpor barang ke KEK diberikan fasilitas berupa:
 - a. pembebasan atau penangguhan bea masuk;
@@ -16263,7 +16269,7 @@ c. menyelenggarakan. . .
 - (5) Ketentuan mengenai kriteria dan perincian barang kena pajak berwujud, barang kena pajak tidak berwujud, danf atau jasa kena pajak sebagaimana dimaksud pada ayat (1), ayat(2), dan ayat (3) diatur dalam atau berdasarkan Peraturan Pemerintah.
 25. Di antara Pasal 32 dan Pasal 33 disisipkan 1 (satu) pasal, yakni Pasal 32A sehingga berbunyi sebagai berikut:
 
-## Pasal 32A
+**Pasal 32A**
 
 - (1) Impor barang konsumsi ke KEK yang kegiatan utamanya bukan produksi dan pengolahan diberikan fasilitas:
 - a. bagi barang konsumsi yang bukan barang kena cukai dengan jumlah dan jenis tertentu sesuai dengan bidang usahanya diberikan fasilitas pembebasan bea masuk dan tidak dipungut pajak dalam rangka impor; dan
@@ -16274,19 +16280,19 @@ c. menyelenggarakan. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -693-
 
 26. Di antara Pasal 33 dan Pasal 34 disisipkan 1 (satu) pasal, yakni Pasal 33A sehingga berbunyi sebagai berikut:
 
-## Pasal 33A
+**Pasal 33A**
 
 - (1) Administrator dapat ditetapkan untuk melakukan kegiatan pelayanan kepabeanan mandiri berdasarkan kriteria yang ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.
 2. (21 Pengawasan dan pelayanan atas perpindahan barang di dalam KEK dilakukan secara manual dan/atau menggunakan teknologi informasi yang terhubung dengan kementerian yang menyelenggarakan urusan pemerintahan di bidang keuangan.
 27. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+**Pasal 35**
 
 - (1) Wajib pajak yang melakukan usaha di KEK diberikan insentif berupa pembebasan atau keringanan pajak daerah dan retribusi daerah sesuai dengan ketentuan peraturan perundangundangan.
 - (2) Insentif sebagaimana dimaksud pada ayat (1) dapat berupa pengurangan bea perolehan hak atas tanah dan bangunan dan pengurangan pajak bumi dan bangunan.
@@ -16295,23 +16301,23 @@ c. menyelenggarakan. . .
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 -694-
 
-## Pasal 36
+**Pasal 36**
 
 - (1) KEK diberikan kemudahan, percepatan, dan prosedur khusus dalam memperoleh hak atas tanah, pemberian perpanjangan, dan/atau pembaharuannya.
 - (2) Ketentuan sebagaimana dimaksud pada ayat (1) diatur dalam peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang agraria I pertanahan setelah mendapat persetujuan dari Dewan Nasional.
 29. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+**Pasal 38**
 
 - (1) KEK diberi kemudahan dan keringanan di bidang Perizinan Berusaha, perizinan lainnya, kegiatan usaha, perindustrian, perdagangan, kepelabuhan, dan keimigrasian bagi orang asing, serta diberi fasilitas keamanan.
 - (2) Ketentuan mengenai kemudahan dan keringanan sebagaimana dimaksud pada ayat (1) diatur dengan atau berdasarkan Peraturan Pemerintah.
 30. Di antara Pasal 38 dan Pasal 39 disisipkan 1 (satu) pasal, yakni Pasal 38A sehingga berbunyi sebagai berikut:
 
-## Pasal 38A
+**Pasal 38A**
 
 Penetapan KEK yang menyelenggarakan kegiatan usaha yang terkait dengan perindustrian sekaligus sebagai penetapan kawasan industri sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai Perindustrian.
 
@@ -16319,19 +16325,19 @@ Penetapan KEK yang menyelenggarakan kegiatan usaha yang terkait dengan perindust
 
 31. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 40
+**Pasal 40**
 
 - (1) Selain pemberian fasilitas dan kemudahan sebagaimana dimaksud dalam Pasal 30, Pasal 32, Pasal 32A, Pasal 33, Pasal 33A, Pasal 34, Pasal 35, Pasal 36, Pasal 37, Pasal 38, Pasal 38A, dan Pasal 39, Badan Usaha dan Pelaku Usaha di KEK berdasarkan Undang-Undang ini, Pemerintah Pusat dapat memberikan fasilitas dan kemudahan lain.
 2. (21 Ketentuan mengenai bentuk fasilitas dan kemudahan lain sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 32. Ketentuan Pasal 41 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 4 1
+**Pasal 4 1**
 
 Pengesahan rencana penggunaan tenaga kerja asing yang mempunyai jabatan sebagai direksi atau komisaris diberikan sekali dan berlaku selama tenaga kerja asing yang bersangkutan menjadi direksi atau komisaris.
 
 33. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43
+**Pasal 43**
 
 - (1) Dalam KEK dapat dibentuk lembaga kerja sama tripartit khusus oleh gubernur.
 2. (21 Ketentuan lebih lanjut mengenai lembaga kerja sama tripartit khusus sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
@@ -16346,13 +16352,13 @@ Pengesahan rencana penggunaan tenaga kerja asing yang mempunyai jabatan sebagai 
 35. Pasal 45 dihapus.
 36. Ketentuan Pasal 47 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 47
+**Pasal 47**
 
 Pada perusahaan yang telah terbentuk serikat pekerja/serikat buruh dibuat perjanjian kerja bersama antara serikat pekerja/serikat buruh dan pengusaha.
 
 37. Ketentuan Pasal 48 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 48
+**Pasal 48**
 
 - (1) Pada saat Undang-Undang ini mulai berlaku, sebagian atau seluruh kawasan perdagangan bebas dan pelabuhan bebas, yaitu Batam, Bintan, dan Karimun, yang dibentuk berdasarkan UndangUndang Nomor 36 Tahun 20OO tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2OOO tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 25t, Tambahan Lembaran Negara Republik Indonesia Nomor 4053) sebagaimana telah diubah dengan Undang-Undang Nomor 44 Tahun 2OO7 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2OO7 tentang Perubahan Atas Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Undang-Undang Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2OO7 Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 47751, sebelum atau sesudah jangka waktu yang ditetapkan berakhir, dapat ditetapkan menjadi KEK.
 
@@ -16360,7 +16366,7 @@ Pada perusahaan yang telah terbentuk serikat pekerja/serikat buruh dibuat perjan
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -697 -
 
@@ -16370,13 +16376,13 @@ Pada perusahaan yang telah terbentuk serikat pekerja/serikat buruh dibuat perjan
 - (5) Kawasan perdagangan bebas dan pelabuhan bebas yang tidak ditetapkan menjadi KEK sebagaimana dimaksud pada ayat (3) yang lokasinya terpisah dari permukiman penduduk dapat diterapkan ketentuan lalu lintas barang dan/atau diberikan fasilitas dan kemudahan KEK.
 - (6) Ketentuan mengenai pengusulan dan penetapan KEK sebagaimana dimaksud pada ayat l2l dan penerapan ketentuan lalu lintas barang dan/atau pemberian fasilitas dan kemudahan KEK sebagaimana dimaksud pada ayat (5) diatur dalam Peraturan Pemerintah.
 
-## Bagian Ketiga
+**Bagian Ketiga**
 
 Kawasan Perdagangan Bebas dan Pelabuhan Bebas
 
-## Paragraf 1 Umum
+**Paragraf 1 Umum**
 
-## Pasal 151
+**Pasal 151**
 
 - (1) Kawasan perdagangan bebas dan pelabuhan bebas sebagaimana dimaksud dalam Pasal 149 huruf b terdiri atas:
 2. a.kawasan...
@@ -16392,9 +16398,9 @@ Kawasan Perdagangan Bebas dan Pelabuhan Bebas
 - b. kawasan perdagangan bebas dan pelabuhan bebas Bintan; dan
 - c. kawasan perdagangan bebas dan pelabuhan bebas Karimun.
 
-## Paragraf 2 Kawasan Perdagangan Bebas dan Pelabuhan Bebas
+**Paragraf 2 Kawasan Perdagangan Bebas dan Pelabuhan Bebas**
 
-## Pasal 152
+**Pasal 152**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 4053) sebagaimana diubah dengan Undang-Undang Nomor 44 Tahun 2OO7 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2OO7 tentang Perubahan Atas UndangUndang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas menjadi Undang-Undang Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2OO7 Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 4775) diubah menjadi sebagai berikut:
 
@@ -16406,13 +16412,13 @@ Beberapa ketentuan dalam Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Per
 
 - 1 Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 6
+**Pasal 6**
 
 - (1) Presiden menetapkan Dewan Kawasan Perdagangan Bebas dan Pelabuhan Bebas di daerah yang selanjutnya disebut Dewan Kawasan.
 2. (21 Ketentuan lebih lanjut mengenai penetapan Dewan Kawasan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 3. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut: 2
 
-## Pasal 7
+**Pasal 7**
 
 - (1) Dewan Kawasan membentuk Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas yang selanjutnya disebut Badan Pengusahaan.
 - (2) Kepala dan Anggota Badan Pengusahaan ditetapkan oleh Dewan Kawasan.
@@ -16420,7 +16426,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Per
 4. (41 Ketentuan lebih lanjut mengenai pembentukan Badan Pengusahaan dan penetapan Kepala dan Anggota Badan Pengusahaan diatur dalam Peraturan Pemerintah.
 5. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 10
+**Pasal 10**
 
 - (1) Untuk memperlancar kegiatan Kawasan Perdagangan Bebas dan Pelabuhan Bebas, Badan Pengusahaan diberi wewenang mengeluarkan Perizinan Berusaha dan perizinan lainnya yang diperlukan bagi para pengusaha yang mendirikan dan menjalankan usaha di Kawasan Perdagangan Bebas dan Pelabuhan Bebas.
 
@@ -16433,7 +16439,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Per
 - (2) Ketentuan lebih lanjut mengenai pelaksanaan wewenang sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 2. 4 Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1 1
+**Pasal 1 1**
 
 - (1) Barang yang terkena ketentuan larangan dilarang dimasukkan ke Kawasan Perdagangan Bebas dan Pelabuhan Bebas.
 - (2) Pemasukan dan pengeluaran barang ke dan dari Kawasan Perdagangan Bebas dan Pelabuhan Bebas hanya dapat dilakukan oleh pengusaha yang telah memenuhi Perizinan Berusaha dari Badan Pengusahaan.
@@ -16449,15 +16455,15 @@ Beberapa ketentuan dalam Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Per
 - (71 Pemasukan barang konsumsi dari luar Daerah Pabean untuk kebutuhan penduduk di Kawasan Perdagangan Bebas dan Pelabuhan Bebas diberi pembebasan bea masuk, pajak pertambahan nilai, dan pajak penjualan atas barang mewah.
 - (8) Jumlah dan jenis barang yang diberi fasilitas sebagaimana dimaksud pada ayat (7) ditetapkan oleh Badan Pengusahaan.
 
-## Paragraf 3
+**Paragraf 3**
 
-## Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang
+**Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang**
 
-## Pasal 153
+**Pasal 153**
 
 Ketentuan Pasal 9 Undang-Undang Nomor 37 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2OOO tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang Menjadi UndangUndang (Lembaran Negara Republik Indonesia Tahun 2OO0 Nomor 252,Tambahan Lembaran Negara Republik Indonesia Nomor 4054l,diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 9
+**Pasal 9**
 
 - (1) Barang yang terkena ketentuan larangan dilarang dimasukkan ke Kawasan Sabang.
 2. (21 Pemasukan dan pengeluaran barang ke dan dari Kawasan Sabang hanya dapat dilakukan oleh pengusaha yang telah mendapat Perizinan Berusaha dari Badan Pengusahaan Kawasan Sabang.
@@ -16473,15 +16479,15 @@ Ketentuan Pasal 9 Undang-Undang Nomor 37 Tahun 2000 tentang Penetapan Peraturan 
 3. (71 Pemasukan barang konsumsi dari luar Daerah Pabean untuk kebutuhan penduduk di Kawasan Sabang diberikan pembebasan bea masuk, pajak pertambahan nilai, dan pajak penjualan atas barang mewah.
 - (8) Jumlah dan jenis barang yang diberi fasilitas sebagaimana dimaksud pada ayat (71 ditetapkan oleh Badan Pengusahaan Kawasan Sabang.
 
-## BAB X
+**BAB X**
 
-## INVESTASI PEMERINTAH PUSAT DAN KEMUDAHAN PROYEK STRATEGIS NASIONAL
+**INVESTASI PEMERINTAH PUSAT DAN KEMUDAHAN PROYEK STRATEGIS NASIONAL**
 
 Bagian Kesatu Investasi Pemerintah Pusat
 
-## Paragraf 1 Umum
+**Paragraf 1 Umum**
 
-## Pasal 154
+**Pasal 154**
 
 - (1) Investasi Pemerintah Pusat dilakukan dalam rangka meningkatkan investasi dan penguatan perekonomian untuk mendukung kebijakan strategis penciptaan kerja.
 2. (21 Maksud dan tujuan investasi Pemerintah Pusat sebagaimana dimaksud pada ayat (1) meliputi:
@@ -16505,7 +16511,7 @@ b.memberikan...
 - e. memberikan dan menerima pinjaman; dan/atau
 - f. menatausahakan aset yang dimilikinya.
 
-## Pasal 155
+**Pasal 155**
 
 - (1) Dalam melaksanakan investasi sebagaimana dimaksud dalam Pasal 154 ayat (3) huruf a, menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara dapat menetapkan dan/atau menunjuk badan layanan rlmum, badan usaha milik negara, dan/atau badan hukum lainnya.
 
@@ -16513,7 +16519,7 @@ b.memberikan...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -704-
 
@@ -16521,13 +16527,13 @@ b.memberikan...
 - (3) Dana yang ditampung dalam rekening investasi bendahara umum negara sebagaimana dimaksud pada ayat (21 dapat digunakan kembali secara langsung untuk mendapatkan manfaat ekonomi, manfaat sosial, dan/atau manfaat lainnya.
 - (4) Tata kelola investasi Pemerintah Pusat oleh menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara selaku bendahara umum negara sepanjang tidak diatur secara khusus berdasarkan Peraturan Pemerintah Pengganti UndangUndang ini dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
-## Pasal 156
+**Pasal 156**
 
 - (1) Dalam melaksanakan investasi sebagaimana dimaksud dalam Pasal 154 ayat (3) huruf b, Pemerintah Pusat membentuk Lembaga.
 - (2) Lembaga sebagaimana dimaksud pada ayat (1) merupakan badan hukum Indonesia yang sepenuhnya dimiliki oleh Pemerintah Indonesia.
 - (3) Lembaga sebagaimana dimaksud pada ayat (1) bertanggung jawab kepada Presiden.
 
-## Pasal 157
+**Pasal 157**
 
 - (1) Investasi Pemerintah Pusat yang dilakukan oleh Lembaga sebagaimana dimaksud dalam Pasal 154 ayat (3) huruf b dapat bersumber dari aset negara, aset badan usaha milik negara, dan/atau sumber lain yang sah.
 2. (21 Aset negara dan aset badan usaha milik negara yang dijadikan investasi Pemerintah Pusat pada Lembaga sebagaimana dimaksud pada ayat (1) dipindahtangankan menjadi aset Lembaga yang selanjutnya menjadi milik dan tanggung jawab Lembaga.
@@ -16547,11 +16553,11 @@ Pasal158...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESIA
+**PRESIDEN REPUBUK TNDONESIA**
 
 -706-
 
-## Pasal 158
+**Pasal 158**
 
 - (1) Modal Lembaga sebagaimana dimaksud dalam Pasal 154 ayat (3) huruf b berasal dari penyertaan modal negara dan/atau sumber lainnya.
 2. (21 Setiap perubahan penyertaan modal negara pada Lembaga, baik berupa pengurangan maupun penambahan modal yang berasal dari sumber sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Pemerintah.
@@ -16561,7 +16567,7 @@ Pasal158...
 - (6) Penyertaan modal sebagaimana dimaksud pada ayat (1) dan ayat (21 yang menjadi kekayaan Lembaga dicatat dalam Laporan Keuangan Pemerintah Pusat.
 7. (71 Ketentuan lebih lanjut mengenai pencadangan untuk menutup/menanggung risiko kerugian dalam berinvestasi dan/atau melakukan akumulasi modal sebagaimana dimaksud pada ayat (5) diatur dengan atau berdasarkan Peraturan Pemerintah.
 
-## Pasal 159
+**Pasal 159**
 
 - (1) Untuk meningkatkan nilai aset, Lembaga dapat melakukan pengelolaan aset melalui kerja sama dengan pihak ketiga.
 
@@ -16582,7 +16588,7 @@ Pasal158...
 - d. sedang dalam pengikatan sebagai jaminan utang, kecuali disepakati oleh kreditur.
 - (6) Ketentuan lebih lanjut mengenai tata cara pengelolaan aset Lembaga diatur dengan atau berdasarkan Peraturan Pemerintah.
 
-## Pasal 160
+**Pasal 160**
 
 - (1) Aset Lembaga dapat berasal dari:
 - a. penyertaan modal sebagaimana dimaksud dalam Pasal 158 ayat (1);
@@ -16593,7 +16599,7 @@ d.hibah...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -708-
 
@@ -16603,17 +16609,17 @@ d.hibah...
 - (3) Pihak manapun dilarang melakukan penyitaan aset Lembaga, kecuali atas asetyang telah dijaminkan dalam rangka pinjaman.
 5. (41 Pengelolaan aset Lembaga sepenuhnya dilakukan oleh organ Lembaga berdasarkan prinsip tata kelola yang baik, akuntabel, dan transparan.
 
-## Pasal 161
+**Pasal 161**
 
 Pemeriksaan pengelolaan dan tanggung jawab keuangan Lembaga dilakukan oleh akuntan publik yang terdaftar pada Badan Pemeriksa Keuangan dan Otoritas Jasa Keuangan.
 
-## Pasal 162
+**Pasal 162**
 
 - (1) Organ dan pegawai Lembaga bukan merupakan penyelenggara negara, kecuali yang berasal dari pejabat negara yang bersifat ex-officio.
 2. (21 Lembaga menetapkan sistem kepegawaian, sistem penggajian, penghargaan, program pensiun dan tunjangan hari tua, serta penghasilan lainnya bagi pegawai Lembaga.
 - (3) Lembaga tidak dapat dipailitkan, kecuali dapat dibuktikan dalam kondisi insolven.
 
-## Pasal 163
+**Pasal 163**
 
 Menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara, pejabat kementerian yang menyelenggarakan urusan pemerintahan di bidang keuangan negara, dan organ dan pegawai Lembaga, tidak dapat dimintai pertanggungjawaban hukum atas kerugian investasi jika dapat membuktikan:
 
@@ -16623,7 +16629,7 @@ b.telah...
 
 <!-- image -->
 
-## PRESIDEN REPUEUK TNDONESIA
+**PRESIDEN REPUEUK TNDONESIA**
 
 -709-
 
@@ -16631,16 +16637,16 @@ b.telah...
 - c. tidak memiliki benturan kepentingan, baik langsung maupun tidak langsung atas tindakan pengelolaan investasi; dan
 - d. tidak memperoleh keuntungan pribadi secara tidak sah.
 
-## Pasal 164
+**Pasal 164**
 
 - (1) Ketentuan lebih lanjut mengenai tata kelola Lembaga diatur dengan atau berdasarkan Peraturan Pemerintah.
 - (2) Sepanjang diatur dalam Peraturan Pemerintah Pengganti Undang-Undang ini, ketentuan peraturan perundang-undangan yang mengatur mengenai pengelolaan keuangan negara, kekayaan negara, dan/atau badan usaha milik negara tidak berlaku bagi Lembaga.
 
-## Paragraf 2
+**Paragraf 2**
 
 Lembaga Pengelola Investasi
 
-## Pasal 165
+**Pasal 165**
 
 - (1) Dalam rangka pengelolaan investasi sebagaimana dimaksud dalam Pasal 154 ayat (3) hurr.rf b, untuk pertama kali berdasarkan Undang-Undang Nomor 11 Tahun 2O2O tentang Cipta Kerja dibentuk Lembaga Pengelola Investasi.
 2. (21 Pembentukan Lembaga Pengelola Investasi dimaksudkan untuk meningkatkan dan mengoptimalisasi nilai aset secara jangka panjang dalam rangka mendukung pembangunan secara berkelanjutan.
@@ -16652,11 +16658,11 @@ Pasar 166 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -7to-
 
-## Pasal 166
+**Pasal 166**
 
 - (1) Dewan pengawas sebagaimana dimaksud dalam Pasal 165 ayat (3) huruf a terdiri atas:
 - a. menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara sebagai ketua merangkap anggota;
@@ -16693,7 +16699,7 @@ Pasar 166 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK TNDONESIA
+**PRESIDEN REPUBLTK TNDONESIA**
 
 -7t2-
 
@@ -16711,7 +16717,7 @@ Pasar 166 . . .
 - k. menyetujui penunjukan auditor Lembaga.
 - (16) Untuk membantu dewan pengawas dalam melaksanakan tugas dan wewenanBnya, dewan pengawas dapat membentuk komite.
 
-## Pasal 167
+**Pasal 167**
 
 - (1) Dewan direktur sebagaimana dimaksud dalam Pasal 165 ayat (3) huruf b berjumlah 5 (lima) orang dari unsur profesional.
 2. (21 Anggota dewan direktur sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh dewan pengawas.
@@ -16742,7 +16748,7 @@ e.men]rusun...
 - (8) Dewan direktur dapat mendelegasikan tugas dan/atau wewenang pelaksanaan operasional Lembaga Pengelola Investasi kepada pegawai Lembaga Pengelola Investasi dan/atau pihak lain yang khusus ditunjuk untuk itu.
 - (9) Pembidangan setiap anggota dewan direktur ditetapkan oleh dewan direktur.
 
-## Pasal 168
+**Pasal 168**
 
 Untuk dapat diangkat sebagai anggota dewan pengawas dari unsur profesional dan anggota dewan direktur, calon anggota dewan pengawas dari unsur profesional dan calon anggota dewan direktur harus memenuhi persyaratan:
 
@@ -16759,12 +16765,12 @@ Untuk dapat diangkat sebagai anggota dewan pengawas dari unsur profesional dan a
 
 - l. tidak dinyatakan sebagai orang perseorangan yang tercela di bidang investasi dan bidang lainnya berdasarkan peraturan perundang-undangan.
 
-## Pasal 169
+**Pasal 169**
 
 - (1) Dalam hal diperlukan, Lembaga Pengelola Investasi dapat membentuk dewan penasihat untuk memberikan saran dan bimbingan kepada Lembaga Pengelola Investasi dalam hal terkait investasi.
 - (2) Anggota dewan penasihat sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh dewan pengawas.
 
-## Pasal 170
+**Pasal 170**
 
 - (1) Modal awal Lembaga Pengelola Investasi dapat berupa:
 - a. dana tunai;
@@ -16775,7 +16781,7 @@ Untuk dapat diangkat sebagai anggota dewan pengawas dari unsur profesional dan a
 - (3) Dalam hal modal Lembaga Pengelola Investasi berkurang secara signifikan, Pemerintah dapat menambah kembali modal Lembaga Pengelola Investasi.
 - (4) Penyertaan modal awal sebagaimana dimaksud pada ayat (21 ditetapkan dengan Peraturan Pemerintah.
 
-## Pasal 171
+**Pasal 171**
 
 - (1) Lembaga Pengelola Investasi yang dibentuk dengan Undang-Undang Nomor 11 Tahun 2O2O tentang Cipta Kerja hanya dapat dibubarkan dengan Undang-Undang.
 
@@ -16784,16 +16790,16 @@ Untuk dapat diangkat sebagai anggota dewan pengawas dari unsur profesional dan a
 - (21 Pembinaan Lembaga Pengelola Investasi dilaksanakan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara.
 - (3) Ketentuan lebih lanjut mengenai Lembaga Pengelola Investasi diatur dalam Peraturan Pemerintah.
 
-## Pasal 172
+**Pasal 172**
 
 - (1) Lembaga Pengelola Investasi dapat melakukan transaksi baik langsung maupun tidak langsung dengan entitas yang dimilikinya.
 2. (21 Perlakuan perpajakan atas transaksi yang melibatkan Lembaga Pengelola Investasi dan/atau entitas yang dimilikinya, termasuk transaksi sebagaimana dimaksud pada ayat (1), diatur dengan atau berdasarkan Peraturan Pemerintah.
 
-## Bagian Kedua
+**Bagian Kedua**
 
-## Kemudahan Proyek Strategis Nasional
+**Kemudahan Proyek Strategis Nasional**
 
-## Pasal 173
+**Pasal 173**
 
 - (1) Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat bertanggung jawab dalam menyediakan lahan dan Perizinan Berusaha bagi proyek strategis nasional dari Pemerintah Pusat, Pemerintah Daerah, badan usaha milik negara, atau badan usaha milik daerah.
 - (2) Dalam hal pengadaan tanah belum dapat dilaksanakan oleh Pemerintah Pusat atau Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat, pengadaan tanah untuk proyek strategis nasional dapat dilakukan oleh Badan Usaha.
@@ -16802,7 +16808,7 @@ Untuk dapat diangkat sebagai anggota dewan pengawas dari unsur profesional dan a
 
 <!-- image -->
 
-## EAPUBUK INDONESIA
+**EAPUBUK INDONESIA**
 
 -7t7 -
 
@@ -16810,21 +16816,21 @@ Untuk dapat diangkat sebagai anggota dewan pengawas dari unsur profesional dan a
 2. (41 Dalam hal pengadaan tanah sebagaimana dimaksud pada ayat (21dilakukan oleh Badan Usaha, mekanisme pengadaan tanah dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan tanah untuk kepentingan umum.
 - (5) Ketentuan lebih lanjut mengenai pengadaan tanah dan Perizinan Berusaha bagi proyek strategis nasional diatur dalam Peraturan Pemerintah.
 
-## BAB XI
+**BAB XI**
 
-## PELAKSANAAN ADMINISTRASI PEMERINTAHAN UNTUK MENDUKUNG CIPTA KERJA
+**PELAKSANAAN ADMINISTRASI PEMERINTAHAN UNTUK MENDUKUNG CIPTA KERJA**
 
-## Bagian Kesatu Umum
+**Bagian Kesatu Umum**
 
-## Pasal 174
+**Pasal 174**
 
 Dengan berlakunya Peraturan Pemerintah Pengganti Undang-Undang ini, kewenangan menteri, kepala lembaga, atau Pemerintah Daerah yang telah ditetapkan dalam undang-undang untuk menjalankan atau membentuk peraturan perundang-undangan harus dimaknai sebagai pelaksanaan kewenangan Presiden.
 
-## Bagian Kedua
+**Bagian Kedua**
 
-## Administrasi Pemerintahan
+**Administrasi Pemerintahan**
 
-## Pasal 175
+**Pasal 175**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 30 Tahun 2Ol4 tentang Administrasi Pemerintahan (Lembaran Negara Republik Indonesia Tahun 2OL4 Nomor 292, Tambahan Lembaran Negara Republik Indonesia Nomor 5601) diubah menjadi sebagai berikut:
 
@@ -16836,7 +16842,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 30 Tahun 2Ol4 tentang Administrasi 
 
 - 1 Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+**Pasal 1**
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -16885,7 +16891,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 25. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang pendayagunaan aparatur negara.
 5. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut: 2
 
-## Pasal24
+**Pasal24**
 
 Pejabat Pemerintahan yang menggunakan Diskresi harrrs memenuhi syarat:
 
@@ -16902,7 +16908,7 @@ Pasal38...
 
 -722-
 
-## Pasal 38
+**Pasal 38**
 
 - (1) Pejabat dan/atau Badan Pemerintahan dapat membuat Keputusan Berbentuk Elektronis.
 - (2) Keputusan Berbentuk Elektronis wajib dibuat atau disampaikan terhadap Keputusan yang diproses oleh sistem elektronik yang ditetapkan Pemerintah Pusat.
@@ -16910,13 +16916,13 @@ Pasal38...
 4. (41 Dalam hal Keputusan dibuat dalam bentuk elektronis, tidak dibuat Keputusan dalam bentuk tertulis.
 5. 4 Judul bagian kelima dalam BAB VII diubah sehingga berbunyi sebagai berikut:
 
-## Bagian Kelima
+**Bagian Kelima**
 
-## Izin, Standar, Dispensasi, dan Konsesi
+**Izin, Standar, Dispensasi, dan Konsesi**
 
 5. Ketentuan Pasal 39 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 39
+**Pasal 39**
 
 - (1) Pejabat Pemerintahan yang berwenang dapat menerbitkan lzin, Standar, Dispensasi, dan/atau Konsesi dengan berpedoman pada AUPB dan berdasarkan ketentuan peraturan perundangundangan.
 2. (21 Keputusan Badan dan/atau Pejabat Pemerintahan berbentuk lzin apabila:
@@ -16947,14 +16953,14 @@ Pasal38...
 
 - 6 Di antara Pasal 39 dan Pasal 40 disisipkan 1 (satu) pasal, yakni Pasal 39A sehingga berbunyi sebagai berikut:
 
-## Pasal 39A
+**Pasal 39A**
 
 - (1) Badan dan/atau Pejabat Pemerintahan wajib melakukan pembinaan dan pengawasan atas pelaksanaan lzin, Standar, Dispensasi, dan/atau Konsesi.
 2. (21 Pembinaan dan pengawasan terhadap lzin, Standar, Dispensasi, dan/atau Konsesi sebagaimana dimaksud pada ayat (1) dapat dikerjasamakan dengan atau dilakukan oleh profesi yang memiliki sertifikat keahlian sesuai dengan bidang pengawasan.
 - (3) Ketentuan mengenai jenis, bentuk, dan mekanisme pembinaan dan pengawasan atas lzin, Standar, Dispensasi, danf atau Konsesi yang dapat dilakukan oleh profesi sebagaimana dimaksud pada ayat (21diatur dalam Peraturan Presiden.
 4. Ketentuan Pasal 53 diubah sehingga berbunyi sebagai berikut: 7
 
-## Pasal 53
+**Pasal 53**
 
 - (1) Batas waktu kewajiban untuk menetapkan dan/atau melakukan Keputusan dan/atau Tindakan diberikan sesuai dengan ketentuan peraturan perundang-undangan.
 2. (21 Jika ketentuan peraturan perundang-undangan tidak menentukan batas waktu kewajiban sebagaimana dimaksud pada ayat (1), Badan dan/atau Pejabat Pemerintahan wajib menetapkan dan/atau melakukan Keputusan dan/atau Tindakan dalam waktu paling lama 5 (lima) hari kerja setelah permohonan diterima secara lengkap oleh Badan danf atau Pejabat Pemerintahan.
@@ -16969,9 +16975,9 @@ Pasal38...
 
 Bagian Ketiga
 
-## Pemerintahan Daerah
+**Pemerintahan Daerah**
 
-## Pasal 176
+**Pasal 176**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2Ol5 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2OL4 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol5 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679) diubah sebagai berikut:
 
@@ -16981,11 +16987,11 @@ Pasal 16. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -726-
 
-## Pasal 16
+**Pasal 16**
 
 - (1) Pemerintah Pusat dalam menyelenggarakan urusan pemerintahan konkuren sebagaimana dimaksud dalam Pasal 9 ayat (3) berwenang untuk:
 - a. menetapkan norma, standar, prosedur, dan kriteria dalam rangka penyelenggaraan Urusan Pemerintahan; dan
@@ -17003,13 +17009,13 @@ Pasal 16. . .
 - (71 Penetapan norma, standar, prosedur, dan kriteria sebagaimana dimaksud pada ayat (1) huruf a dilakukan paling lama 2 (dua) tahun terhitung sejak peraturan pemerintah mengenai pelaksanaan urusan pemerintahan konkuren diundangkan.
 - 2 Ketentuan Pasal 250 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 250
+**Pasal 250**
 
 Perda dan Perkada sebagaimana dimaksud dalam Pasal 249 ayat (1) dan ayat (3) dilarang bertentangan dengan ketentuan peraturan perundang-undangan yang lebih tinggi, asas pembentukan peraturan perundangundangan yang baik, asas materi muatan peraturan perundang-undangan, dan putusan pengadilan.
 
 - Ketentuan Pasal 251 diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 251
+**Pasal 251**
 
 Agar tidak bertentangan dengan ketentuan peraturan perrrndang-undangan yang lebih tinggi, asas pembentukan peraturan perundang-undangan yang baik, asas materi muatan peraturan perrrndangundangan, dan putusan pengadilan, pen5rusunan Perda dan Perkada berkoordinasi dengan kementerian yang membidangi urr.rsan pemerintahan dalam negeri dan melibatkan ahli dan/atau instansi vertikal di daerah yang menyelenggarakan urusan pemerintahan di bidang pembentukan peraturan perundang-undangan.
 
@@ -17019,7 +17025,7 @@ Pasal252...
 
 <!-- image -->
 
-## Pasal 252
+**Pasal 252**
 
 - (1) Penyelenggara Pemerintahan Daerah provinsi atau kabupaten/kota yang masih memberlakukan Perda yang tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 250 dikenai sanksi.
 - (2) Sanksi sebagaimana dimaksud pada ayat (1) berupa sanksi administratif.
@@ -17027,7 +17033,7 @@ Pasal252...
 4. (41 Dihapus.
 5. Ketentuan Pasal 260 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 260
+**Pasal 260**
 
 - (1) Daerah sesuai dengan kewenangannya men5rusun rencana pembangunan Daerah sebagai satu kesatuan dalam sistem perencanaan pembangunan nasional di segala bidang kehidupan yang berlandaskan pada riset dan inovasi nasional yang berpedoman pada nilai-nilai Pancasila.
 2. (21 Rencana pembangunan Daerah sebagaimana dimaksud pada ayat (l) dikoordinasikan, disinergikan, dan diharmonisasikan oleh Perangkat Daerah yang membidangi perencanaan pembangunan Daerah.
@@ -17037,14 +17043,14 @@ Pasal252...
 
 - 6 Di antara Pasal 292 dan Pasal 293 disisipkan 1 (satu) Pasal yakni Pasal 292A sehingga berbunyi sebagai berikut:
 
-## Pasal 292A
+**Pasal 292A**
 
 - (1) Dalam hal penyederhanaan perizinan dan pelaksanaan Perizinan Berusaha oleh Pemerintah Daerah sebagaimana dimaksud dalam UndangUndang ini menyebabkan berkurangnya pendapatan asli Daerah, Pemerintah Pusat memberikan dukungan insentif anggaran.
 2. (21 Pemberian anggaran sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 7. Pasal 300 dihapus.
 8. Ketentuan Pasal 349 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 349
+**Pasal 349**
 
 - (1) Daerah dapat melakukan penyederhanaan jenis dan prosedur pelayanan publik untuk meningkatkan mutu pelayanan dan daya saing Daerah dan sesuai dengan norma, standar, prosedur, dan kriteria, serta kebijakan Pemerintah Pusat.
 2. (21 Penyederhanaan sebagaimana dimaksud pada ayat (1) ditetapkan dengan Perda.
@@ -17053,7 +17059,7 @@ Pasal252...
 
 <!-- image -->
 
-## Pasal 350
+**Pasal 350**
 
 - (1) Kepala daerah wajib memberikan pelayanan Perizinan Berusaha sesuai dengan ketentuan peraturan perundang-undangan dan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 2. (21 Dalam memberikan pelayanan Perizinan Berusaha sebagaimana dimaksud pada ayat (1), Daerah membentuk unit pelayanan terpadu satu pintu.
@@ -17076,17 +17082,17 @@ Pasal252...
 
 <!-- image -->
 
-## FRESIDEN REPUBUK TNDONESIA
+**FRESIDEN REPUBUK TNDONESIA**
 
 -732-
 
-## Pasal 4O2A
+**Pasal 4O2A**
 
 Pembagian urusan pemerintahan konkuren antara Pemerintah Pusat dan Pemerintah Daerah provinsi serta Pemerintah Daerah kabupaten/kota sebagaimana tercantum dalam Lampiran Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah sebagaimana telah diubah terakhir dengan UndangUndang Nomor 9 Tahun 2015 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah harus dibaca dan dimaknai sesuai dengan ketentuan yang diatur dalam Peraturan Pemerintah Pengganti Undang-Undang ini.
 
-## BAB XII PENGAWASAN DAN PEMBINAAN
+**BAB XII PENGAWASAN DAN PEMBINAAN**
 
-## Pasal 177
+**Pasal 177**
 
 - (1) Pemerintah Pusat wajib melakukan pengawasan dan pembinaan terhadap setiap pelaksanaan Perizinan Berusaha yang dilakukan oleh pemegang Perizinan Berusaha.
 2. (21 Pelaksanaan pengawasan dan pembinaan sebagaimana dimaksud pada ayat (1) dilakukan oleh Aparatur Sipil Negara sesuai dengan kewenangannya.
@@ -17107,11 +17113,11 @@ Pembagian urusan pemerintahan konkuren antara Pemerintah Pusat dan Pemerintah Da
 - (6) Kewenangan Pemerintah Pusat dalam melaksanakan pengawasan dan pembinaan sebagaimana dimaksud pada ayat (1) dan pengenaan sanksi administratif sebagaimana dimaksud pada ayat (41 dapat dilimpahkan kepada Pemerintah Daerah sesuai dengan ketentuan peraturan perundang-undangan.
 9. (71 Ketentuan lebih lanjut mengenai sanksi administratif lainnya dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (41 diatur dalam Peraturan Pemerintah.
 
-## Pasal 178
+**Pasal 178**
 
 Setiap pemegang Perizinan Berusaha yang dalam melaksanakan kegiatanlusahanya menimbulkan dampak kerusakan pada lingkungan hidup, selain dikenai sanksi administratif sebagaimana dimaksud dalam Pasal I77 ayat (5), pemegang Perizinan Berusaha wajib memulihkan kerusakan lingkungan akibat dari kegiatan/usahanya.
 
-## Pasal 179
+**Pasal 179**
 
 - (1) Pemerintah Pusat wajib melakukan pengawasan terhadap Aparatur Sipil Negara dan/atau profesi bersertifikat yang melaksanakan tugas dan tanggung jawab pengawasan dan pembinaan.
 - (2) Aparatur Sipil Negara dan/atau profesi bersertifikat sebagaimana dimaksud pada ayat (1) yang tidak melaksanakan tugas dan fungsi pengawasan dan pembinaan terhadap pelaksanaan Perizinan Berusaha dikenai sanksi sesuai dengan ketentuan peraturan perundang-undangan.
@@ -17121,30 +17127,30 @@ Setiap pemegang Perizinan Berusaha yang dalam melaksanakan kegiatanlusahanya men
 - (3) Kewenangan pelaksanaan pengawasan sebagaimana dimaksud pada ayat (1) dapat dilimpahkan kepada Pemerintah Daerah sesuai dengan ketentuan peraturan perundang-undangan.
 - (4) Ketentuan lebih lanjut mengenai tata cara pelaksanaan pengawasan oleh Pemerintah Pusat sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## BAB XIII KETENTUAN LAIN-LAIN
+**BAB XIII KETENTUAN LAIN-LAIN**
 
-## Pasal 180
+**Pasal 180**
 
 - (1) Hak, izin, atau konsesi atas tanah dan/atau kawasan yang dengan sengaja tidak diusahakan atau ditelantarkan dalam jangka waktu paling lama 2 (dua) tahun sejak diberikan, dicabut dan dikembalikan kepada negara.
 2. (21 Dalam pelaksanaan pengembalian kepada negara sebagaimana dimaksud pada ayat (1), Pemerintah Pusat dapat menetapkan hak, izin, atau konsesi tersebut sebagai aset bank tanah.
 - (3) Ketentuan lebih lanjut mengenai pencabutan hak, izin, atau konsesi dan penetapannya sebagai aset bank tanah diatur dalam Peraturan Pemerintah.
 
-## Pasal 181
+**Pasal 181**
 
 - (1) Pada saat berlakunya Peraturan Pemerintah Pengganti Undang-Undang ini, setiap peraturan perundangundangan di bawah Undang-Undang yang berlaku dan bertentangan dengan ketentuan Peraturan Pemerintah Pengganti Undang-Undang ini atau bertentangan dengan peraturan perundang-undangan yang lebih tinggi, atau bertentangan dengan putusan pengadilan harus dilakukan harmonisasi dan sinkronisasi yang dikoordinasikan oleh kementerian atau lembaga yang menyelenggarakan urusan pemerintahan di bidang pembentukan peraturan perundang-undangan.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESIA
+**PRESIDEN REPUBUK TNDONESIA**
 
 -735-
 
 - (21 Harmonisasi dan sinkronisasi yang berkaitan dengan peraturan daerah dan/atau peraturan kepala daerah, dilaksanakan oleh kementerian atau lembaga yang menyelenggarakan urulsan pemerintahan di bidang pembentukan peraturan perundang-undangan bersama dengan kementerian yang menyelenggarakan urLtsan pemerintahan dalam negeri.
 - (3) Ketentuan lebih lanjut mengenai harmonisasi dan sinkronisasi sebagaimana dimaksud pada ayat (1) dan ayat (21diatur dalam Peraturan Pemerintah.
 
-## BAB XIV KETENTUAN PERALIHAN
+**BAB XIV KETENTUAN PERALIHAN**
 
-## Pasal 182
+**Pasal 182**
 
 Pada saat Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku:
 
@@ -17156,32 +17162,32 @@ Pada saat Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku:
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUBUK TNDONESIA
+**REPUBUK TNDONESIA**
 
 -736-
 
-## Pasal 183
+**Pasal 183**
 
 Lembaga Pengelola Investasi yang dibentuk dengan UndangUndang Nomor 11 Tahun 2O2O tentang Cipta Kerja dilanjutkan berdirinya berdasarkan Peraturan Pemerintah Pengganti Undang-Undang ini.
 
-## BAB XV
+**BAB XV**
 
-## KETENTUAN PENUTUP
+**KETENTUAN PENUTUP**
 
-## Pasal 184
+**Pasal 184**
 
 Pada saat Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku:
 
 - a. semua peraturan pelaksanaan dari Undang-Undang yang telah diubah oleh Peraturan Pemerintah Pengganti Undang-Undang ini dinyatakan tetap berlaku sepanjang tidak bertentangan dengan Peraturan Pemerintah Pengganti Undang-Undang ini; dan
 - b. semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari UndangUndang Nomor 11 Tahun 2O2O tentang Cipta Kerja masih tetap berlaku sepanjang tidak bertentangan dengan Peraturan Pemerintah Pengganti UndangUndang ini.
 
-## Pasal 185
+**Pasal 185**
 
 Dengan berlakunya Peraturan Pemerintah Pengganti Undang-Undang ini, Undang-Undang Nomor 11 Tahun 2O2O tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2O2O Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573), dicabut dan dinyatakan tidak berlaku.
 
-## Pasal 186
+**Pasal 186**
 
 Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
@@ -17199,7 +17205,7 @@ LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2022 NOMOR 238
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -737 -
 
@@ -17213,7 +17219,7 @@ ttd
 
 JOKO WIDODO
 
-## I. UMUM
+**I. UMUM**
 
 Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 mengamanatkan bahwa tujuan pembentukan Negara Republik Indonesia adalah mewujudkan masyarakat yang sejahtera, adil, makmur, yang merata, baik materiel maupun spiritual. Sejalan dengan tujuan tersebut, Pasal 27 ayat (2) UUD 1945 menentukan bahwa "Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan", oleh karena itu negara perlu melakukan berbagai upaya atau tindakan untuk memenuhi hak-hak warga negara untuk memperoleh pekerjaan dan penghidupan yang layak. Pemenuhan hak atas pekerjaan dan penghidupan yang layak pada prinsipnya mempakan salah satu aspek penting dalam pembangunan nasional yang dilaksanakan dalam rangka pembangunan manusia Indonesia seutuhnya.
 
@@ -17227,19 +17233,19 @@ d.dibutuhkan...
 
 <!-- image -->
 
-## PENJELASAN
+**PENJELASAN**
 
-## ATAS
+**ATAS**
 
-## PERATURAN PEMERINTAH
+**PERATURAN PEMERINTAH**
 
-## PENGGANTI UNDANG-UNDANG REPUBLIK INDONESIA
+**PENGGANTI UNDANG-UNDANG REPUBLIK INDONESIA**
 
-## NOMOR 2 TAHUN 2022
+**NOMOR 2 TAHUN 2022**
 
 TENTANG
 
-## CIPTA KERJA
+**CIPTA KERJA**
 
 <!-- image -->
 
@@ -17270,7 +17276,7 @@ Untuk itu diperlukan kebijakan dan langkah-langkah strategis Cipta Kerja yang me
 
 <!-- image -->
 
-## K
+**K**
 
 Penciptaan lapangan kerja yang dilakukan melalui pengaturan terkait dengan peningkatan ekosistem investasi dan kegiatan berusaha paling sedikit memuat pengaturan mengenai penyederhanaan Perizinan Berusaha, persyaratan investasi, kemudahan berusaha, riset dan inovasi, pengadaan lahan, dan kawasan ekonomi.
 
@@ -17318,29 +17324,26 @@ Sesuai Putusan Mahkamah Konstitusi Nomor 138 /PUU-Vll l2OO9, kondisi tersebut di
 
 Berdasarkan hal-hal tersebut di atas, dalam kegentingan yang memaksa, sesuai dengan ketentuan Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Presiden berwenang menetapkan Peraturan Pemerintah Pengganti Undang-Undang.
 
-## II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Huruf a
 
 Yang dimaksud dengan upemerataan hak" adalah bahwa penciptaan kerja untuk memenuhi hak warga negara atas pekerjaan dan penghidupan yang layak bagi ralcJrat Indonesia dilakukan secara merata di seluruh wilayah Negara Kesatuan Republik Indonesia.
 
-## Huruf b
+**Huruf b**
 
 Yang dimaksud dengan "kepastian hukum" adalah bahwa penciptaan kerja dilakukan sejalan dengan penciptaan iklim usaha kondusif yang dibentuk melalui sistem hukum yang menjamin konsistensi antara peraturan perundang-undangan dengan pelaksanaannya.
 
-## Huruf c
+**Huruf c**
 
 Yang dimaksud dengan "kemudahan berusaha" adalah bahwa penciptaan kerja yang didukung dengan proses berusaha yang sederhana, mudah, dan cepat akan mendorong peningkatan investasi, pemberdayaan usaha mikro, kecil, dan menengah untuk memperkuat perekonomian yang mampu membuka seluas-luasnya lapangan kerja bagi ralgrat Indonesia.
 
-## Huruf d
+**Huruf d**
 
 Yang dimaksud dengan "kebersamaan" adalah bahwa penciptaan kerja dengan mendorong peran seluruh dunia usaha dan usaha mikro, kecil, dan menengah termasuk Koperasi secara bersamasama dalam kegiatannya untuk kesejahteraan rakyat.
 
@@ -17353,25 +17356,15 @@ Yang dimaksud dengan "kemandirian" adalah bahwa pemberdayaan usaha mikro, kecil,
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Cukup jelas.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Yang dimalsud dengan "Perizinan Bemsaha berbasis risiko" adalah pemberian Perlzinan Berusaha dan pelaksanaan pengawasan berdasarkan tingkat risiko usaha dan/atau kegiatan.
@@ -17387,15 +17380,11 @@ Cukup jelas.
 Ayat(3) ...
 
 Ayat (3)
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Hurufa Cukup jelas. Hurufb Cukup jelas. Huruf c Cukup jelas. Huruf d Yang dimaksud dengan "pemanfaatan dan pengelolaan sumber daya" termasuk di dalamnya penggunaan frekuensi radio. Ayat (4) Yang dimaksud dengan "aspek lainnya" termasuk aspek keamanan atau pertahanan sesuai dengan kegiatan usaha. Ayat (s) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Yang dimaksud dengan "risiko volatilitas" yaitu risiko yang memiliki kecenderungan untuk mudah berubah. Ayat (6) Cukup jelas. Ayat (71 Cukup jelas. Cukup jelas.
 
 <!-- image -->
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Ayat (l)
 
 Huruf a
@@ -17425,21 +17414,13 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Cukup jelas.
 
 <!-- image -->
@@ -17447,7 +17428,8 @@ Cukup jelas.
 <!-- image -->
 
 ```
-Pasal 14 Cukup jelas. Pasal 15 Cukup jelas. Pasal 16 Cukup jelas. Pasal 17 Angka 1 Pasal I Cukup jeias. Angka 2 Pasal 6 Cukup jelas. Angka 3 Pasal 8 Ayat (1) Huruf a Cukup jelas. Humf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas.
+#### Pasal 14 ^penjelasan-pasal-14
+Cukup jelas. Pasal 15 Cukup jelas. Pasal 16 Cukup jelas. Pasal 17 Angka 1 Pasal I Cukup jeias. Angka 2 Pasal 6 Cukup jelas. Angka 3 Pasal 8 Ayat (1) Huruf a Cukup jelas. Humf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas.
 ```
 
 Hurufe . . .
@@ -17458,7 +17440,7 @@ Huruf e
 
 Cukup jelas.
 
-## Huruf f
+**Huruf f**
 
 Kerja sama Penataan Ruang antarnegara melibatkan negara lain sehingga terdapat aspek hubungan antarnegara yang merupakan wewenang Pemerintah Pusat. Yang termasuk kerja sama Penataan Ruang antarnegara adalah kerja sama Penataan Ruang di kawasan perbatasan negara. Pemberian wewenang kepada Pemerintah Pusat dalam memfasilitasi kerja sEuna Penataan Ruang antarprovinsi dimaksudkan agar kerja sama Penataan Ruang memberikan manfaat yang optimal bagi seluruh provinsi yang bekerja sama.
 
@@ -17480,7 +17462,7 @@ Huruf a
 
 Penyebarluasan informasi dilakukan antara lain melalui media elektronik, media cetak, dan media komunikasi lain, sebagai bentuk pewujudan asas keterbukaan dalam Penyelenggaraan Penataan Ruang.
 
-## Huruf b
+**Huruf b**
 
 Standar pelayanan merupakan hak dan kewajiban penerima dan pemberi layanan yang disusun sebagai alat Pemerintah Pusat dan Pemerintah Daerah untuk menjamin akses dan mutu pelayanan dasar kepada masyarakat secara merata.
 
@@ -17500,7 +17482,7 @@ Rencana
 
 Rencana rinci Tata Ruang merupakan operasionalisasi rencana umum Tata Ruang yang dalam pelaksanaannya tetap memperhatikan aspirasi masyarakat sehingga muatan rencana masih dapat disempurnakan dengan tetap mematuhi batasan yang telah diatur dalam rencana rinci dan peraturan zonasi.
 
-## Ayat (2)
+**Ayat (2)**
 
 Rencana umum Tata Ruang dibedakan menurut Wilayah administrasi pemerintahan karena kewenangan mengatur Pemanfaatan Ruang dibagi sesuai dengan pembagian administrasi pemerintahan.
 
@@ -17512,13 +17494,13 @@ Huruf c
 
 Secara administrasi pemerintahan, Rencana Tata Ruang Wilayah kabupaten dan Rencana Tata Ruang Wilayah kota memiliki kedudukan yang setara.
 
-## Ayat (3)
+**Ayat (3)**
 
 Huruf a
 
 Rencana Tata Ruang pulau/ kepulauan dan Rencana Tata Ruang Kawasan Strategis Nasional merupakan rencana rinci untuk Rencana Tata Ruang Wilayah Nasional.
 
-## Hurufb
+**Hurufb**
 
 Rencana detail Tata Ruang kabupaten/ kota merupakan rencana rinci untuk Rencana Tata Ruang Wilayah kabupaten/kota yang dilengkapi dengan peraturan zonasi kabupaten/kota.
 
@@ -17528,7 +17510,7 @@ Ayat (a) Cukup jelas. Ayat (5) Huruf a Cukup jelas.
 
 Hurufb . . .
 
-## Huruf b
+**Huruf b**
 
 Efektivitas penerapan Rencana Tata Ruang sangat dipengaruhi oleh tingkat ketelitian atau kedalaman pengaturan dan skala peta dalam Rencana Tata Ruang. Perencanaan Tata Ruang yang mencakup Wilayah yang luas pada umumnya memiliki tingkat ketelitian atau kedalaman pengaturan dan skala peta yang tidak rinci. Oleh karena itu, dalam penerapannya masih diperlukan perencanaan yang lebih rinci. Apabila Perencanaan Tata Ruang yang mencakup Wilayah yang luasnya memtrngkinkan pengaturan dan penyediaan peta dengan tingkat ketelitian tinggi, rencana rinci tidak diperlukan.
 
@@ -17550,13 +17532,13 @@ Ayat (a)
 
 Cukup jelas.
 
-## Ayat (5)
+**Ayat (5)**
 
 Penetapan proporsi luas Kawasan hutan terhadap luas daerah aliran sungai dimaksudkan untuk menjaga keseimbangan tata air, karena sebagian besar Wilayah Indonesia mempunyai curah dan intensitas hujan yang tinggi, serta mempunyai konfigurasi daratan yang bergelombang, berbukit, dan bergunung yang peka akan gangguan keseimbangan tata air seperti banjir, erosi, sedimentasi, serta kekurangan air.
 
 Distribusi luas Kawasan hutan disesuaikan dengan kondisi daerah aliran sungai yang, antara lain, meliputi morfologi, jenis batuan, serta bentuk pengaliran sungai dan anak sungai. Dengan demikian Kawasan hutan tidak harus terdistribusi secara merata pada setiap Wilayah administrasi yang ada di dalam daerah aliran sungai.
 
-## Ayat (6)
+**Ayat (6)**
 
 Keterkaitan antarwilayah merupakan wujud keterpaduan dan sinergi antarwilayah, yaitu Wilayah nasional, Wilayah provinsi, dan Wilayah kabupaten/ kota.
 
@@ -17564,7 +17546,7 @@ Keterkaitan antarfungsi Kawasan merupakan wujud keterpaduan dan sinergi antarkaw
 
 Keterkaitan antarkegiatan Kawasan merupakan wujud keterpaduan dan sinergi antarkawasan, antara lain, meliputi keterkaitan antara Kawasan Perkotaan dan Kawasan Perdesaan.
 
-## Ayat (71
+**Ayat (71**
 
 Rencana Tata Ruang untuk fungsi pertahanan dan keamanan karena sifatnya yang khusus memerlukan pengaturan tersendiri. Sifat khusus tersebut terkait dengan adanya kebutuhan untuk menjaga kerahasiaan sebagian informasi untuk kepentingan pertahanan dan keamanan negara.
 
@@ -17592,7 +17574,7 @@ Kebijakan . . .
 
 Kebijakan dan strategi Penataan Ruang Wilayah nasional, antara lain, dimaksudkan untuk meningkatkan daya saing nasional dalam menghadapi tantangan global, serta mewujudkan wawasan nusantara dan ketahanan nasional.
 
-## Huruf b
+**Huruf b**
 
 Sistem perkotaan nasional dibentuk dari Kawasan Perkotaan dengan skala pelayanan yang berhierarki yang meliputi pusat kegiatan skala nasional, pusat kegiatan skala Wilayah, dan pusat kegiatan skala lokal. Pusat kegiatan tersebut didukung dan dilengkapi dengan jaringan prasarana Wilayah yang tingkat pelayanannya disesuaikan dengan hierarki kegiatan dan kebutuhan pelayanan.
 
@@ -17600,7 +17582,7 @@ Sistem jaringan prasarana utama merupakan sistem primer yang dikembangkan untuk 
 
 Yang termasuk dalam sistem jaringan primer yang direncanakan adalah jaringan transportasi untuk menyediakan Alur Laut Kepulauan Indonesia (ALKI) bagi lalu lintas damai sesuai dengan ketentuan hukum internasional.
 
-## Huruf c
+**Huruf c**
 
 Pola Ruang Wilayah nasional merupakan gambaran Pemanfaatan Ruang Wilayah nasional, baik untuk pemanfaatan yang berfungsi lindung maupun budi daya yang bersifat strategis nasional, yang ditinjau dari berbagai sudut pandang akan lebih berdaya guna dan berhasil guna dalam mendukung pencapaian tujuan pembangunan nasional.
 
@@ -17614,31 +17596,31 @@ Kawasan Lindung nasional adalah Kawasan yang tidak diperkenankan dan/atau dibata
 
 Kawasan Budi Daya yang mempunyai nilai strategis nasional, antara lain Kawasan yang dikembangkan untuk mendukung fungsi pertahanan dan keamanan nasional, Kawasan industri strategis, Kawasan pertambangan sumber daya alam strategis, Kawasan Perkotaan, Kawasan Metropolitan, dan Kawasan Budi Daya lain yang menurut peraturan perundang-undangan perizinan dan/atau pengelolaannya merupakan kewenangan Pemerintah Pusat.
 
-## Huruf d
+**Huruf d**
 
 Yang termasuk Kawasan Strategis Nasional adalah Kawasan yang menurut peraturan perundang-undangan ditetapkan sebagai Kawasan khusus.
 
 Huruf e . . .
 
-## Huruf e
+**Huruf e**
 
 Indikasi program utama merupakan petunjuk yang memuat usulan program utama, perkiraan pendanaan beserta sumbernya, instansi pelaksana, dan waktu pelaksanaan dalam rangka mewujudkan Pemanfaatan Ruang yang sesuai dengan Rencana Tata Ruang. Indikasi program utama merupakan acuan utama dalam penJrusunan program Pemanfaatan Ruang yang merupakan kunci dalam pencapaian tujuan Penataan Ruang, serta acuan sektor dalam menyusun rencana strategis beserta besaran investasi. Indikasi program utama 5 (lima) tahunan disusun untuk jangka waktu rencana 2O (dua puluh) tahun.
 
-## Huruf f
+**Huruf f**
 
 Cukup jelas.
 
-## Ayat (21
+**Ayat (21**
 
 Rencana Tata Ruang Wilayah Nasional menjadi acuan bagi instansi pemerintah tingkat pusat dan daerah serta masyarakat untuk mengarahkan lokasi dan memanfaatkan Ruang dalam men5rusun program pembangunan yang berkaitan dengan Pemanfaatan Ruang.
 
-## Ayat (3)
+**Ayat (3)**
 
 Rencana Tata Ruang Wilayah Nasional disusun untuk jangka waktu 20 (dua puluh) tahun dengan visi yang lebih jauh ke depan yang merupakan matra spasial dari rencana pembangunan jangka panjang.
 
 Apabila jangka waktu 20 (dua puluh) tahun Rencana Tata Ruang Wilayah Nasional berakhir, dalam penyusunan Rencana Tata Ruang Wilayah Nasional yang baru, hak yang telah dimiliki Orang yang jangka waktunya melebihi jangka waktu Rencana Tata Ruang Wilayah Nasional tetap diakui.
 
-## Ayat (a)
+**Ayat (a)**
 
 Peninjauan kembali Rencana Tata Ruang Wilayah Nasional merupakan upaya untuk melihat kesesuaian antara Rencana Tata Ruang Wilayah Nasional dan kebutuhan pembangunan yang memperhatikan perkembangan lingkungan strategis dan dinamika internal, serta pelaksanaan Pemanfaatan Ruang.
 
@@ -17678,9 +17660,7 @@ Ayat (6)
 Cukup jelas.
 
 Angka 12
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
 
 <!-- image -->
@@ -17695,7 +17675,7 @@ Dalam Rencana Tata Ruang Wilayah provinsi digambarkan sistem perkotaan dalam Wil
 
 Rencana Struktur Ruang Wilayah provinsi memuat rencana Struktur Ruang yang ditetapkan dalam Rencana Tata Ruang Wilayah Nasional.
 
-## Huruf c
+**Huruf c**
 
 Pola Ruang Wilayah provinsi merupakan gambaran Pemanfaatan Ruang Wilayah provinsi, baik untuk pemanfaatan yang berfungsi lindung maupun budi daya, yang ditinjau dari berbagai sudut pandang akan lebih berdaya guna dan berhasil guna dalam mendukung pencapaian tujuan pembangunan provinsi apabila dikelola oleh Pemerintah Daerah provinsi dengan sepenuhnya memperhatikan Pola Ruang yang telah ditetapkan dalam Rencana Tata Ruang Wilayah Nasional.
 
@@ -17709,7 +17689,7 @@ Kawasan Budi Daya yang mempunyai nilai strategis provinsi merupakan Kawasan Budi
 
 Kawasan Budi Daya yang memiliki nilai strategis provinsi dapat berupa Kawasan permukiman, Kawasan kehutanan, Kawasan pertanian, Kawasan pertambangan, Kawasan perindustrian, dan Kawasan pariwisata. Rencana Pola Ruang Wilayah kabupaten memuat Rencana Pola Ruang yang ditetapkan dalam Rencana Tata Ruang Wilayah Nasional.
 
-## Huruf d
+**Huruf d**
 
 Indikasi program utama adalah petunjuk yang memuat usulan program utama, perkiraan pendanaan beserta sumbernya, instansi pelaksana, dan waktu pelaksanaan, dalam rangka mewujudkan Pemanfaatan Ruang yang sesuai dengan Rencana Tata Ruang. Indikasi program utama merupakan acuan utama dalam pen5rusunan program Pemanfaatan Ruang yang merupakan kunci dalam pencapaian tujuan Penataan Ruang, serta acuan sektor dalam menJrusun rencana strategis beserta besaran investasi. Indikasi program utama 5 (lima) tahunan disusun untuk jangka waktu rencana 2O (dua puluh) tahun.
 
@@ -17719,19 +17699,19 @@ Cukup jelas.
 
 Ayat(2) ...
 
-## Ayat (2)
+**Ayat (2)**
 
 Rencana Tata Ruang Wilayah provinsi menjadi acuan bagi instansi Pemerintah Daerah serta masyarakat untuk mengarahkan lokasi dan memanfaatkan Ruang dalam men5rusun program pembangunan yang berkaitan dengan Pemanfaatan Ruang di daerah yang bersangkutan. Selain itu, rencana tersebut menjadi dasar dalam memberikan rekomendasi pengarahan Pemanfaatan Ruang.
 
 Rencana Tata Ruang Wilayah provinsi dan pembangunan jangka panjang provinsi serta rencana rencana pembangunan jangka menengah provinsi merupakan kebijakan daerah yang saling mengacu.
 
-## Ayat (3)
+**Ayat (3)**
 
 Rencana Tata Ruang Wilayah provinsi disusun untuk jangka waktu 20 (dua puluh) tahun dengan visi yang lebih jauh ke depan yang merupalan matra spasial dari rencana pembangunan jangka panjang daerah.
 
 Apabila jangka waktu 20 (dua puluh) tahun Rencana Tata Ruang Wilayah provinsi berakhir, maka dalam penyusunan Rencana Tata Ruang Wilayah provinsi yang baru hak yang telah dimiliki Orang yang jangka waktunya melebihi jangka waltu Rencana Tata Ruang Wilayah provinsi tetap diakui.
 
-## Ayat (4)
+**Ayat (4)**
 
 Peninjauan kembali Rencana Tata Ruang Wilayah provinsi merupakan upaya untuk melihat kesesuaian antara Rencana Tata Ruang Wilayah provinsi dan kebutuhan pembangunan yang memperhatikan perkembangan lingkungan strategis dan dinamika internal, serta pelalsanaan Pemanfaatan Ruang.
 
@@ -17781,9 +17761,7 @@ Ayat (9)
 Cukup jelas.
 
 Angka 14
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Dihapus.
 
 <!-- image -->
@@ -17793,20 +17771,21 @@ Angka 15
 ```
 
 ```
-Pasal 25 Ayat (1) Cukup jelas. Ayat (2) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Daya dukung dan daya tampung Wilayah kabupaten diatur berdasarkan peraturan perundang-undangan yang penyusunannya dikoordinasikan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang lingkungan hidup. Huruf e Cukup jelas. Huruf f Cukup jelas. Angka 16 Pasal 26 Ayat (1) Huruf a Cukup jelas. Hurufb. . .
+#### Pasal 25 ^penjelasan-pasal-25
+Ayat (1) Cukup jelas. Ayat (2) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Daya dukung dan daya tampung Wilayah kabupaten diatur berdasarkan peraturan perundang-undangan yang penyusunannya dikoordinasikan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang lingkungan hidup. Huruf e Cukup jelas. Huruf f Cukup jelas. Angka 16 Pasal 26 Ayat (1) Huruf a Cukup jelas. Hurufb. . .
 ```
 
 <!-- image -->
 
-## Huruf b
+**Huruf b**
 
 Struktur Ruang Wilayah kabupaten merupakan gambaran sistem perkotaan Wilayah kabupaten dan jaringan prasarana Wilayah kabupaten yang dikembangkan untuk mengintegrasikan Wilayah kabupaten selain untuk melayani kegiatan skala kabupaten yang meliputi sistem jaringan transportasi, sistem jaringan energi dan ketenagalistrikan, sistem jaringan telekomunikasi, dan sistem jaringan sumber daya air, termasuk seluruh daerah hulu bendungan/waduk dari daerah aliran sungai. Dalam Rencana Tata Ruang Wilayah kabupaten digambarkan sistem pusat kegiatan Wilayah kabupaten dan perletakan jaringan prasarana Wilayah yang menurut ketentuan peraturan perundang-undangan pengembangan dan pengelolaannya merupakan kewenangan Pemerintah Daerah kabupaten. Rencana Struktur Ruang Wilayah kabupaten memuat rencana Struktur Ruang yang ditetapkan dalam Rencana Tata Ruang Wilayah Nasional dan Rencana Tata Ruang Wilayah provinsi yang terkait dengan Wilayah kabupaten yang bersangkutan.
 
-## Huruf c
+**Huruf c**
 
 Pola Ruang Wilayah kabupaten merupakan gambaran Pemanfaatan Ruang Wilayah kabupaten, baik untuk pemanfaatan yang berfungsi lindung maupun budi daya yang belum ditetapkan dalam Rencana Tata Ruang Wilayah Nasional dan Rencana Tata Ruang Wilayah provinsi. Pola Ruang Wilayah kabupaten dikembangkan dengan sepenuhnya memperhatikan Pola Ruang Wilayah yang ditetapkan dalam Rencana Tata Ruang Wilayah Nasional dan Rencana Tata Ruang Wilayah provinsi. Rencana Pola Ruang Wilayah kabupaten memuat rencana Pola Ruang yang ditetapkan dalam Rencana Tata Ruang Wilayah Nasional dan Rencana Tata Ruang Wilayah provinsi yang terkait dengan Wilayah kabupaten yang bersangkutan.
 
-## Huruf d
+**Huruf d**
 
 Cukup jelas.
 
@@ -17879,14 +17858,12 @@ Ayat (10)
 Cukup jelas.
 
 Angka 17
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Dihapus.
 
 Angka18...
 
-## Angka 18
+**Angka 18**
 
 Pasal 34A
 
@@ -17898,77 +17875,57 @@ Ayat (2)
 
 Cukup jelas.
 
-## Angka 19
-
-Pasal 35
-
+**Angka 19**
+#### Pasal 35 ^penjelasan-pasal-35
 Pengendalian Pemanfaatan Ruang. Pemanfaatan Ruang dilakukan dimaksudkan agar dengan Rencana Tata Ruang sesuan
 
-## Angka 2O
-
-Pasal 37
-
+**Angka 2O**
+#### Pasal 37 ^penjelasan-pasal-37
 Cukup jelas.
 
 Angka 21
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
 
-## Angka22
-
-Pasal 49
-
+**Angka22**
+#### Pasal 49 ^penjelasan-pasal-49
 Dihapus.
 
 Angka 23
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Dihapus.
 
 Ang)&lt;a 24
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Dihapus.
 
 <!-- image -->
 
 Angka 25
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Dihapus.
 
-## Ang!&lt;a26
-
-Pasal 53
-
+**Ang!&lt;a26**
+#### Pasal 53 ^penjelasan-pasal-53
 Dihapus.
 
 Ang)&lt;a 27
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Dihapus.
 
-## Angka 28
-
-Pasal 60
-
+**Angka 28**
+#### Pasal 60 ^penjelasan-pasal-60
 Huruf a
 
 Setiap Orang dapat mengetahui Rencana Tata Ruang melalui Lembaran Negara atau Lembaran Daerah, pengumuman, dan/ atau penyebarluasan oleh pemerintah.
 
 Pengumuman atau penyebarluasan tersebut dapat diketahui setiap Orang, antara lain melalui pemasangan peta Rencana Tata Ruang Wilayah yang bersangkutan pada tempat umum, kantor kelurahan, dan/ atau kantor yang secara fungsional menangani Rencana Tata Ruang tersebut.
 
-## Huruf b
+**Huruf b**
 
 Pertambahan nilai Ruang dapat dilihat dari sudut pandang ekonomi, sosial, budaya, dan kualitas lingkungan yang dapat berupa dampak langsung terhadap peningkatan ekonomi masyarakat, sosial, budaya, dan kualitas lingkungan.
 
-## Huruf c
+**Huruf c**
 
 Yang dimaksud dengan "penggantian yang layak" adalah bahwa nilai atau besarnya penggantian tidak menurunkan tingkat kesejahteraan Orang yang diberi penggantian sesuai dengan peraturan perundang-undangan.
 
@@ -17976,7 +17933,7 @@ Hurufd . . .
 
 <!-- image -->
 
-## EITI;FIIiFN ELIK INDONESIA
+**EITI;FIIiFN ELIK INDONESIA**
 
 Huruf d
 
@@ -17990,23 +17947,21 @@ Huruf f
 
 Cukup jelas.
 
-## Ang!&lt;a29
-
-## Pasal 61
-
-## Huruf a
+**Ang!&lt;a29**
+#### Pasal 61 ^penjelasan-pasal-61
+**Huruf a**
 
 Menaati Rencana Tata Ruang yang telah ditetapkan dimaksudkan sebagai kewajiban setiap Orang untuk memiliki Kesesuaian Kegiatan Pemanfaatan Ruang dari pejabat yang berwenang sebelum pelaksanaan Pemanfaatan Ruang.
 
-## Huruf b
+**Huruf b**
 
 Memanfaatkan Ruang sesuai dengan Rencana Tata Ruang dimaksudkan sebagai kewajiban setiap Orang untuk melaksanakan Pemanfaatan Ruang sesuai dengan fungsi Ruang.
 
-## Huruf c
+**Huruf c**
 
 Mematuhi ketentuan yang ditetapkan dalam persyaratan Kesesuaian Kegiatan Pemanfaatan Ruang dimaksudkan sebagai kewajiban setiap Orang untuk memenuhi ketentuan amplop Ruang dan kualitas Ruang.
 
-## Huruf d
+**Huruf d**
 
 Pemberian akses dimaksudkan untuk menjamin agar masyarakat dapat mencapai Kawasan yang dinyatakan dalam peraturan perundang-undangan sebagai milik umum. Kewajiban memberikan akses dilakukan apabila memenuhi syarat sebagai berikut:
 
@@ -18020,30 +17975,22 @@ Angka3O. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 Angka 30
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
 
 Angka 31
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
 
 Angka 32
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69
 Cukup jelas.
 
 Angka 33
-
-Pasal 70
-
+#### Pasal 70 ^penjelasan-pasal-70
 Cukup jelas.
 
 Angka 34
@@ -18053,43 +18000,29 @@ Pasal 7l
 Cukup jelas.
 
 Angka 35
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Dihapus.
 
 Angka 36
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73
 Cukup jelas.
 
 Angka 37
-
-Pasal 74
-
+#### Pasal 74 ^penjelasan-pasal-74
 Cukup jelas.
 
 Angka 38
-
-Pasal 75
-
+#### Pasal 75 ^penjelasan-pasal-75
 Cukup jelas.
 
 <!-- image -->
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Angka 1
-
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1-2
 Cukup jelas.
 
 Angka 2
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7-2
 Cukup jelas.
 
 Angka 3
@@ -18107,15 +18040,11 @@ Pasal 7C
 Cukup jelas.
 
 Angka 4
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8-2
 Dihapus.
 
 Angka 5
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9-2
 Dihapus.
 
 Angka 6
@@ -18133,21 +18062,15 @@ Pasal 1l
 Dihapus.
 
 Angka 8
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12-2
 Dihapus.
 
 Angka 9
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13-2
 Dihapus.
 
 Angka 10
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-2
 Dihapus.
 
 Angka 11
@@ -18155,9 +18078,7 @@ Angka 11
 Cukup jelas.
 
 Angka 12
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
 
 Angka 13
@@ -18167,9 +18088,7 @@ Pasal 16A
 Cukup jelas.
 
 Angka 14
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
 
 Angka 15
@@ -18227,23 +18146,17 @@ Pasal 26E}
 Cukup jelas.
 
 Angka 25
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50-2
 Cukup jelas.
 
 Angka26
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51-2
 Cukup jelas.
 
 <!-- image -->
 
 Ang)&lt;a 27
-
-Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60-2
 Ayat (1)
 
 Huruf a
@@ -18301,12 +18214,10 @@ Cukup jelas.
 <!-- image -->
 
 Angka 28
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71
 Cukup jelas.
 
-## Angka 29
+**Angka 29**
 
 Pasal 71A
 
@@ -18319,9 +18230,7 @@ Pasal 73A
 Cukup jelas.
 
 Angka 31
-
-Pasal 75
-
+#### Pasal 75 ^penjelasan-pasal-75-2
 Cukup jelas.
 
 Angka 32
@@ -18330,38 +18239,29 @@ Pasal 75A
 
 Dihapus.
 
-## Angka 33
+**Angka 33**
 
 Pasal 78A
 
 Penetapan melalui peraturan perundang-undangan adalah penetapan yang dilakukan sebelum berlakunya Undang-Undang Nomor 1l Tahun 2O2O tentang Cipta Kerja.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Angka 1
-
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1-3
 Cukup jelas.
 
 <!-- image -->
 
 Angka2...
 
-## Angka 2
-
-Pasal 32
-
+**Angka 2**
+#### Pasal 32 ^penjelasan-pasal-32
 Cukup jelas.
 
-## Angka 3
-
-Pasal 42 Cukup jelas.
-
-## Angka 4
-
-Pasal 43
-
+**Angka 3**
+#### Pasal 42 ^penjelasan-pasal-42
+Cukup jelas.
+**Angka 4**
+#### Pasal 43 ^penjelasan-pasal-43
 Ayat (1)
 
 Perencanaan ruang Laut merupakan suatu proses untuk menghasilkan rencana tata ruang Laut dan/ atau rencana zonasi untuk menentukan struktur ruang Laut dan pola ruang Laut. Struktur ruang Laut merupakan susunan pusat pertumbuhan Kelautan dan sistem jaringan prasarana dan sarana Laut yang berfungsi sebagai pendukung kegiatan sosial ekonomi masyarakat yang secara hierarkis memiliki hubungan fungsional.
@@ -18402,36 +18302,28 @@ Angka 6 Pasal 47
 
 Cukup jelas.
 
-## Angka 7
+**Angka 7**
 
 Pasal 47A Cukup jelas.
 
-## Angka 8
-
-Pasal 48
-
+**Angka 8**
+#### Pasal 48 ^penjelasan-pasal-48-2
 Cukup jelas.
 
 Angka 9
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49-2
 Cukup jelas.
 
 Angka10...
 
 Angka 10
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Pasal 49A Cukup jeias. Pasal 498 Cukup je1as. Angka 1 Pasal 1 Cukup jelas. Ar:gka2 Pasal 7 Cukup jelas. Angka 3 Pasal 12 Dihapus. Angka 4 Pasal 13 Ayat (1) Yang dimaksud dengan "pasang surut air laut" adalah naik turunnya posisi muka air laut yang disebabkan pengaruh gaya gravitasi bulan dan matahari. Ayat (2) Cukup jelas. Ayat (s) Yang dimaksud dengan "garis pantai ditentukan dengan mengacu pada JKVN" adalah garis pantai dan JKVN membentuk suatu kesatuan, karena pengamatan pasang surut diperlukan dalam membangun JKVN dan JKVN diperlukan dalam menentukan garis pantai.
 
 <!-- image -->
 
 Angka 5
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17-2
 Ayat (1)
 
 Yang dimaksud dengan "bertahap" adalah diselenggarakan secara berjenjang, wilayah demi wilayah, skala demi skala, atau berselang waktu sesuai dengan prioritas kepentingan.
@@ -18459,9 +18351,7 @@ Ayat (s)
 Cukup jelas.
 
 Angka 6
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18-2
 Cukup jelas.
 
 <!-- image -->
@@ -18477,24 +18367,25 @@ Angka 7 Pasal 22A Cukup jelas. Angka 8 Pasal 28 Ayat (1) Huruf a Yang dimaksud d
 <!-- image -->
 
 ```
-Pasal 22 Angka I Pasal 1 Cukup jelas. Angka 2 Pasal 2O Ayat (1) Cukup jelas. Ayat (21 Huruf a
+#### Pasal 22 ^penjelasan-pasal-22-2
+Angka I Pasal 1 Cukup jelas. Angka 2 Pasal 2O Ayat (1) Cukup jelas. Ayat (21 Huruf a
 ```
 
 Yang dimaksud dengan "baku mutu air" adalah ukuran batas atau kadar makhluk hidup, zat, energi, atanu komponen yang ada atau harus ada dan/atau unsur pencemar yang ditenggang keberadaannya di dalam air.
 
-## Huruf b
+**Huruf b**
 
 Yang dimaksud dengan "baku mutu air Limbah" adalah ukuran batas atau kadar polutan yang ditenggang untuk dimasukkan ke media air.
 
-## Humf c
+**Humf c**
 
 Yang dimaksud dengan "baku mutu air laut" adalah ukuran batas atau kadar makhluk hidup, zat, energi, atau komponen yang ada atau harus ada dan/atau unsur pencemar yang ditenggang keberadaannya di dalam air laut.
 
-## Huruf d
+**Huruf d**
 
 Yang dimaksud dengan "baku mutu udara ambien" adalah ukuran batas atau kadar zat, energi, dan/atau komponen yang seharusnya ada dan/ atau unsur pencemar yang ditenggang keberadaannya dalam udara ambien.
 
-## Huruf e
+**Huruf e**
 
 Yang dimaksud dengan "baku mutu emisi" adalah ukuran batas atau kadar polutan yang ditenggang untuk dimasukkan ke media udara.
 
@@ -18528,10 +18419,8 @@ Ayat (6)
 
 Cukup jelas.
 
-## Angka 4
-
-Pasal 25
-
+**Angka 4**
+#### Pasal 25 ^penjelasan-pasal-25-2
 Huruf a
 
 Cukup jelas.
@@ -18557,9 +18446,7 @@ Huruf f
 Rencana pengelolaan dan pemantauan Lingkungan Hidup dimaksudkan untuk menghindari, meminimalkan, memitigasi, dan/atau mengompensasi dampak suatu usaha dan/ atau kegiatan.
 
 Angka 5
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Cukup jelas.
 
 Angka 6
@@ -18569,9 +18456,7 @@ Pasal2T
 Yang dimaksud dengan "pihak lain" pen5rusun Amdal atau konsultan. antara lain lembaga
 
 Angka 7
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
 
 <!-- image -->
@@ -18597,9 +18482,7 @@ Angka 18 Pasal 40 Dihapus.
 Angka 19 Pasal 55 Cukup jelas. Angka20...
 
 Angka 20
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59
 Ayat (1)
 
 Pengelolaan Limbah 83 merupakan rangkaian kegiatan yang mencakup pengurangan, penyimpanan, pengangkutan, pemanfaatan, dan/atau pengolahan, termasuk penimbunan Limbah B3.
@@ -18629,9 +18512,7 @@ Ayat (7)
 Cukup jelas.
 
 Angka 21
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61-2
 Cukup jelas.
 
 Ang)&lt;a22
@@ -18647,9 +18528,8 @@ Angka 23
 ```
 
 Yang dimaksud dengan "Kearifan Lokal" adalah melakukan pembakaran lahan dengan luas maksimal 2 (dua) hektare per kepala keluarga untuk ditanami tanaman jenis varietas lokal dan dikelilingi oleh sekat bakar sebagai pencegahan
-
-Pasal 63 Cukup jelas. Angka24 Pasal 69 Ayat (1) Cukup jelas. Ayat (21 penjalaran api ke wilayah sekelilingnya. Angka 25 Pasal 71 Cukup jelas. Angka26 Pasal72 Cukup jelas. Ang)&lt;a 27 Pasal 73 Cukup jelas. Angka 28 Pasal 76
-
+#### Pasal 63 ^penjelasan-pasal-63
+Cukup jelas. Angka24 Pasal 69 Ayat (1) Cukup jelas. Ayat (21 penjalaran api ke wilayah sekelilingnya. Angka 25 Pasal 71 Cukup jelas. Angka26 Pasal72 Cukup jelas. Ang)&lt;a 27 Pasal 73 Cukup jelas. Angka 28 Pasal 76
 ```
 Cukup jelas.
 ```
@@ -18663,15 +18543,11 @@ Pasal77
 Cukup jelas.
 
 Angka 30
-
-Pasal 79
-
+#### Pasal 79 ^penjelasan-pasal-79
 Dihapus.
 
 Angka 3l
-
-Pasal 82
-
+#### Pasal 82 ^penjelasan-pasal-82
 Cukup jelas.
 
 Angka 32
@@ -18689,9 +18565,7 @@ Pasal 82C
 Cukup jelas.
 
 Angka 33
-
-Pasal 88
-
+#### Pasal 88 ^penjelasan-pasal-88
 Yang dimaksud dengan "bertanggung jawab mutlak (stnct liabilitgl" adalah unsur kesalahan tidak perlu dibuktikan oleh pihak penggugat sebagai dasar pembayaran ganti nrgi. Ketentuan Pasal ini merupakan ketentuan khusus (lex specialis) dalan gugatan mengenai perbuatan melawan hukum pada umumnya. Besarnya nilai ganti rugi yang dapat dibebankan terhadap pencemar atau perusak Lingkungan Hidup menurut Pasal ini dapat ditetapkan sampai "batas tertentu".
 
 <!-- image -->
@@ -18703,9 +18577,7 @@ Yang dimaksud dengan "bertanggung jawab mutlak (stnct liabilitgl" adalah unsur k
 Yang dimaksud dengan "batas tertentu" adalah jika menurut penetapan peraturan perundang-undangan ditentukan keharusan asuransi bagl usaha dan/ atau kegiatan yang bersangkutan atau telah tersedia dana Lingkungan Hidup.
 
 Angka 34
-
-Pasal 93
-
+#### Pasal 93 ^penjelasan-pasal-93
 Dihapus.
 
 Angka 35
@@ -18715,79 +18587,57 @@ Pasal 1O2
 Dihapus.
 
 Angka 36
-
-Pasal 109
-
+#### Pasal 109 ^penjelasan-pasal-109
 Cukup jelas.
 
 Angka 37
-
-Pasal 110
-
+#### Pasal 110 ^penjelasan-pasal-110
 Dihapus.
 
 Angka 38
-
-Pasal 11 1
-
+#### Pasal 11 ^penjelasan-pasal-11-2
+1
 Cukup je1as.
 
 Angka 39
-
-Pasal 112
-
+#### Pasal 112 ^penjelasan-pasal-112
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Cukup jelas.
 
 <!-- image -->
 
 ```
-Pasal 24 Angka I Pasal 1 Cukup jelas. Angka 2 Pasal 5 Cukup jelas. Angka 3 Pasal 6 Cukup jelas. Angka 4 Pasal 7 Ayat (l) Cukup jelas. Ayat (21 . Cukupjelas. Ayat (3) Yang dimaksud dengan "Bangunan Gedung adat" adalah Bangunan Gedung yang didirikan berdasarkan kaidahkaidah adat atau tradisi Masyarakat sesuai budayanya, misalnya bangunan rumah adat. Ayat (4) Cukup jelas. Angka 5 Pasal 8 Dihapus.
+#### Pasal 24 ^penjelasan-pasal-24-2
+Angka I Pasal 1 Cukup jelas. Angka 2 Pasal 5 Cukup jelas. Angka 3 Pasal 6 Cukup jelas. Angka 4 Pasal 7 Ayat (l) Cukup jelas. Ayat (21 . Cukupjelas. Ayat (3) Yang dimaksud dengan "Bangunan Gedung adat" adalah Bangunan Gedung yang didirikan berdasarkan kaidahkaidah adat atau tradisi Masyarakat sesuai budayanya, misalnya bangunan rumah adat. Ayat (4) Cukup jelas. Angka 5 Pasal 8 Dihapus.
 ```
 
 Angka 6
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9-3
 Dihapus.
 
 Angka 7
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10-2
 Dihapus.
 
 Angka 8
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11-3
 Dihapus.
 
 Angka 9
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12-3
 Dihapus.
 
 Angka 10
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13-3
 Dihapus.
 
 Angka 11
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-3
 Dihapus.
 
 Angka 12
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Ayat (1)
 
 Yang dimaksud dengan "dampak penting" adalah perubahan yang sangat mendasar pada suatu lingkungan yang diakibatkan oleh suatu kegiatan. Bangunan Gedung yang menimbulkan dampak penting terhadap lingkungan adalah Bangunan Gedung yang dapat menyebabkan:
@@ -18798,7 +18648,7 @@ a. perubahan . . .
 
 <!-- image -->
 
-## UK INDONESIA
+**UK INDONESIA**
 
 -56-
 
@@ -18815,39 +18665,27 @@ Ayat (2)
 Cukup jelas.
 
 Angka 13
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16-2
 Dihapus.
 
 Angka 14
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17-3
 Dihapus.
 
 Angka 15
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18-3
 Dihapus.
 
 Angka 16
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19-2
 Dihapus.
 
 Angka 17
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20-2
 Dihapus.
 
 Angka 18
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Dihapus.
 
 Angka 19
@@ -18857,27 +18695,19 @@ Pasal22
 Dihapus.
 
 Angka 20
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23-2
 Dihapus.
 
 Angka 21
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24-3
 Dihapus.
 
 Ang)&lt;a22
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25-3
 Dihapus.
 
 Angka 23
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26-2
 Dihapus.
 
 <!-- image -->
@@ -18889,15 +18719,11 @@ Pasal2T
 Dihapus.
 
 Angka 25
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28-2
 Dihapus.
 
 Angka26
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Dihapus.
 
 Angka2T
@@ -18907,21 +18733,15 @@ Pasal 3O
 Dihapus.
 
 Angka 28
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Dihapus.
 
 Angka 29
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32-2
 Dihapus.
 
 Angka 30
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Dihapus.
 
 <!-- image -->
@@ -18929,9 +18749,7 @@ Dihapus.
 Angka3l ...
 
 Angka 31
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Ayat (1)
 
 Cukup jelas.
@@ -18949,9 +18767,7 @@ Ayat (4)
 Cukup jelas.
 
 Angka 32
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35-2
 Ayat (l)
 
 Perencanaan pembangunan Bangunan Gedung adalah kegiatan pen5rusunan rencana teknis Bangunan Gedung sesuai dengan fungsi dan persyaratan teknis yang ditetapkan, sebagai pedoman dalam pelaksanaan dan pengawasan pembangunan.
@@ -19000,7 +18816,7 @@ Ayat (3)
 
 Yang dimaksud dengan "sistem elektronik yang diselenggarakan oleh Pemerintah Pusat" merupakan Sistem Informasi Manajemen Bangunan Gedung yang diperuntukkan bagi Bangunan Gedung bukan untuk kegiatan usaha, dan pelayanan Perizinan Berusaha terintegrasi secara elektronik yang diperuntukkan bagi Bangunan Gedung untuk kegiatan usaha.
 
-## Pasal 36El
+**Pasal 36El**
 
 Ayat (1)
 
@@ -19042,7 +18858,7 @@ Cukup jelas.
 
 <!-- image -->
 
-## E;{rrr.T{Il R@UEUK INDONESIA
+**E;{rrr.T{Il R@UEUK INDONESIA**
 
 Angka35.. .
 
@@ -19056,11 +18872,11 @@ Dalam hal ...
 
 Dalam hal Pemilik Bangunan Gedung tidak mampu, untuk rumah tinggal apabila tidak laik fungsi dan tidak dapat diperbaiki serta'membahayakan keselamatan penghuni atau lingkungan, bangunan tersebut harus dikosongkan. Apabila bangunan tersebut membahayakan kepentingan umum, pelaksanaan dapat dilakukan oleh Pemerintah Daerah.
 
-## Huruf b
+**Huruf b**
 
 Yang dimaksud "menimbulkan bahaya" adalah ketika dalam Pemanfaatan Bangunan Gedung dan/ atau lingkungannya dapat membahayakan keselamatan Masyarakat dan lingkungan.
 
-## Huruf c
+**Huruf c**
 
 Cukup jelas.
 
@@ -19100,11 +18916,11 @@ Pemeriksaan kelaikan fungsi Bangunan Gedung dilakukan oleh Pengkaji Teknis yang 
 
 Hurufe . . .
 
-## Huruf e
+**Huruf e**
 
 Perbaikan dilakukan terhadap seluruh, bagian, komponen, atau bahan Bangunan Gedung yang dinyatakan tidak laik fungsi dari hasil pemeriksaan yang dilakukan oleh Pengkaji Teknis, sampai dengan dinyatakan telah laik fungsi.
 
-## Huruf f
+**Huruf f**
 
 Selain Pemilik Bangunan Gedung, Pengguna Bangunan Gedung juga dapat diwajibkan membongkar Bangunan Gedung dalam hal yang bersangkutan terikat dalam perjanjian menggunalan bangunan yang tidak laik fungsi.
 
@@ -19113,9 +18929,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 4O
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43-2
 Ayat (1)
 
 Pembinaan dilakukan dalam rangka tata pemerintahan yang baik melalui kegiatan pengaturan, pemberdayaan, dan pengawasan sehingga setiap Penyelenggaraan Bangunan Gedung dapat berlangsung tertib dan tercapai keandalan Bangunan Gedung yang sesuai dengan fungsinya, serta terwujudnya kepastian hukum.
@@ -19136,26 +18950,20 @@ Ayat (3)
 
 Cukup jelas.
 
-## Angka 4l
-
-Pasal 44
-
+**Angka 4l**
+#### Pasal 44 ^penjelasan-pasal-44
 Pengenaan sanksi tidak berarti membebaskan Pemilik Bangunan Gedung dan/ atau Pengguna Bangunan Gedung dari kewajibannya memenuhi ketentuan yang ditetapkan dalam Undang-Undang ini.
 
 Yang dimaksud dengan "sanksi administratil" adalah sanksi yang diberikan oleh Pemerintah kepada Pemilik Bangunan Gedung dan/ atau Pengguna Bangunan Gedung tanpa melalui proses peradilan karena tidak terpenuhinya ketentuan Undang-Undang ini.
 
 Sanksi administratif meliputi beberapa jenis, yang pengenaannya bergantung pada tingkat kesalahan yang dilakukan oleh Pemilik Bangunan Gedung dan/ atau Pengguna Bangunan Gedung.
 
-## Angka42
-
-Pasal 45
-
+**Angka42**
+#### Pasal 45 ^penjelasan-pasal-45
 Cukup jelas.
 
-## Angka 43
-
-Pasal 46
-
+**Angka 43**
+#### Pasal 46 ^penjelasan-pasal-46
 Ayat (1)
 
 Yang dimaksud dengan "nilai Bangunan Gedung" dalam ketentuan sanksi adalah nilai keseluruhan suatu bangunan pada saat sedang dibangun bagi yang sedang dalam proses pelaksanaan konstruksi, atau nilai keseluruhan suatu Bangunan Gedung yang ditetapkan pada saat sanksi dikenakan bagi Bangunan Gedung yang telah berdiri.
@@ -19185,9 +18993,7 @@ Angka44
 Pasal 47A
 
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25-4
 Angka I
 
 Pasal I
@@ -19195,15 +19001,11 @@ Pasal I
 Cukup jelas.
 
 Angka 2
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5-2
 Cukup jelas.
 
 Angka 3
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6-2
 Cukup jelas.
 
 Angka 4
@@ -19213,21 +19015,16 @@ Pasal 6A
 Cukup jelas.
 
 Angka 5
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13-4
 Cukup jelas.
 
 Angka 6
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-4
 Cukup je1as.
 
-## Angka 7
-
-Pasal 19 Ayat (1) Cukup jelas. Ayat (2) Hurufa Cukup jelas. Huruf b Cukup jelas. Huruf c Yang dimalsud dengan "lembaga pendidikan, lembaga penelitian, dan/ atau lembaga pengembangan" adalah lembaga Pemerintah Pusat, Pemerintah Daerah, dan/ atau swasta. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 8 Pasal 28 Cukup jelas. Angka 9 Pasal 34 Cukup jelas. Angka 10 Pasal 35
-
+**Angka 7**
+#### Pasal 19 ^penjelasan-pasal-19-3
+Ayat (1) Cukup jelas. Ayat (2) Hurufa Cukup jelas. Huruf b Cukup jelas. Huruf c Yang dimalsud dengan "lembaga pendidikan, lembaga penelitian, dan/ atau lembaga pengembangan" adalah lembaga Pemerintah Pusat, Pemerintah Daerah, dan/ atau swasta. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 8 Pasal 28 Cukup jelas. Angka 9 Pasal 34 Cukup jelas. Angka 10 Pasal 35
 Ayat (1)
 
 Cukup jelas.
@@ -19257,27 +19054,19 @@ Ayat (4)
 Cukup jelas.
 
 Angka 11
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Dihapus.
 
 Angka 12
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37-2
 Dihapus.
 
 Angka 13
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Cukup jelas.
 
 Angka 14
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Dihapus.
 
 <!-- image -->
@@ -19285,7 +19074,8 @@ Dihapus.
 Angka 15
 
 ```
-Pasal 40 Dihapus. Angka 16 Pasal 41 Dihapus. Pasal 26 Cukup jelas. Pasal 27 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 7 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas.
+#### Pasal 40 ^penjelasan-pasal-40
+Dihapus. Angka 16 Pasal 41 Dihapus. Pasal 26 Cukup jelas. Pasal 27 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 7 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas.
 ```
 
 <!-- image -->
@@ -19318,11 +19108,11 @@ Hurufk
 
 Yang dimaksud dengan "sistem pemantauan Kapal Perikanan" adalah salah satu bentuk sistem pengawasan di bidang Penangkapan Ikan dengan menggunakan peralatan pemantauan Kapal Perikanan yang telah ditentukan, seperti sistem pemantauan Kapal Perikanan (uessel monitortng system/VMS).
 
-## Huruf I
+**Huruf I**
 
 Dalam usaha meningkatkan produktivitas suatu perairan dapat dilakukan penebaran Ikan jenis baru, yang kemungkinan menimbulkan efek negatif bagi kelestarian sumber daya Ikan setempat sehingga perlu dipertimbangkan agar penebaran Ikan jenis baru dapat beradaptasi dengan lingkungan sumber daya Ikan setempat dan/ atau tidak merusak keaslian Sumber Daya Ikan.
 
-## Huruf m
+**Huruf m**
 
 Yang dimaksud dengan "Penangkapan Ikan berbasis budi daya" adalah penangkapan Sumber Daya Ikan yang berkembang biak dari hasil penebaran kembali.
 
@@ -19336,7 +19126,7 @@ Cukup jelas.
 
 Hurufp . . .
 
-## Huruf p
+**Huruf p**
 
 Ada beberapa cara yang dapat ditempuh dalam melaksanalan rehabilitasi dan peningkatan Sumber Daya Ikan serta lingkungannya, antara lain, dengan penanaman atau reboisasi hutan bakau, pemasangan terumbu karang buatan, pembuatan tempat berlindung atau berkembang biak lkan, peningkatan kesuburan perairan dengan jalan pemupukan atau penambahan jenis makanan, pembuatan saluran ruaya Ikan, atau pengerukan dasar perairan.
 
@@ -19385,9 +19175,7 @@ Pasal 25A
 Cukup jelas.
 
 Angka 5
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26-3
 Cukup jelas.
 
 Angka 6
@@ -19403,9 +19191,7 @@ Pasal 27A
 Cukup jelas.
 
 Angka 8
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28-3
 Cukup jelas.
 
 Angka 9
@@ -19419,9 +19205,7 @@ Cukup jelas.
 Angka10...
 
 Angka 10
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Cukup jelas.
 
 Angka 11
@@ -19431,21 +19215,15 @@ Pasal 3l
 Cukup jelas.
 
 Angka 12
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32-3
 Cukup jelas.
 
 Angka 13
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33-2
 Cukup jelas.
 
 Angka 14
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35-3
 Ayat (1)
 
 Dalam rangka pengendalian pemanfaatan Sumber Daya Ikan, penataan dan pengendalian terhadap pengadaan kapal baru dan/atau bekas perlu dikendalikan agar sesuai dengan daya dukung Sumber Daya Ikan.
@@ -19581,9 +19359,7 @@ Cukup jelas. Huruf p Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Syahbandar yang
 Cukup jelas.
 
 Angka 23
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45-2
 Kapal Perikanan yang berlayar tidak dari Pelabuhan Perikanan termasuk dari pelabuhan yang dibangun pihak swasta hanya dimungkinkan apabila di tempat tersebut tidak ada Pelabuhan Perikanan.
 
 Termasuk Kapal Perikanan yang berlayar tidak dari Pelabuhan Perikanan di antaranya kapal-kapal yang berlayar dari pelabuhan tangkahan, pelabuhan rakyat, dan pelabuhan lainnya dimana persetujuan berlayar diberikan setelah memenuhi standar laik operasi dari pengawas Perikanan.
@@ -19599,33 +19375,23 @@ Ketentuan . . .
 Ketentuan ini hanya dimungkinkan berlaku bagi Kapal perikanan yang pada daerah tersebut memang tidak ada pelabuhan Perikanan dan/ atau pelabuhan umum, dan fasilitas lainnya. Dalam hubungan ini, maka persetqiuan berlayar untuk diterbitkan oleh syahbandar setempat.
 
 Angka24
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49-3
 Cukup jelas.
 
 Angka 25
-
-Pasal 89
-
+#### Pasal 89 ^penjelasan-pasal-89
 Cukup jelas.
 
 Ang)&lt;a26
-
-Pasal 92
-
+#### Pasal 92 ^penjelasan-pasal-92
 Cukup jelas.
 
 Angka2T
-
-Pasal 93
-
+#### Pasal 93 ^penjelasan-pasal-93-2
 Cukup jelas.
 
 Angka 28
-
-Pasal 94
-
+#### Pasal 94 ^penjelasan-pasal-94
 Cukup jelas.
 
 Angka 29
@@ -19635,33 +19401,23 @@ Pasal 94A
 Cukup jelas.
 
 Angka 30
-
-Pasal 95
-
+#### Pasal 95 ^penjelasan-pasal-95
 Dihapus.
 
 Angka 31
-
-Pasal 96
-
+#### Pasal 96 ^penjelasan-pasal-96
 Dihapus.
 
 Angka 32
-
-Pasal 97
-
+#### Pasal 97 ^penjelasan-pasal-97
 Cukup jelas.
 
 Angka 33
-
-Pasal 98
-
+#### Pasal 98 ^penjelasan-pasal-98
 Cukup jelas.
 
 Angka 34
-
-Pasal 1008
-
+#### Pasal 1008 ^penjelasan-pasal-1008
 Cukup jelas.
 
 Angka 35
@@ -19671,19 +19427,16 @@ Pasal 100C
 Cukup jelas.
 
 Angka 36
-
-Pasal 101
-
+#### Pasal 101 ^penjelasan-pasal-101
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28-4
 Cukup jelas.
 
 <!-- image -->
 
 ```
-Pasal 29 Angka 1 Pasal 14 Cukup jelas. Angka 2 Pasal 15 Cukup jelas. Angka 3 Pasal 16 Cukup jelas. Angka 4 Pasal 17 Cukup jelas. Angka 5 Pasal 18 Cukup jelas. Angka 6 Pasal 24 Cukup jelas. Angka 7 Pasal 30 Cukup jelas.
+#### Pasal 29 ^penjelasan-pasal-29-2
+Angka 1 Pasal 14 Cukup jelas. Angka 2 Pasal 15 Cukup jelas. Angka 3 Pasal 16 Cukup jelas. Angka 4 Pasal 17 Cukup jelas. Angka 5 Pasal 18 Cukup jelas. Angka 6 Pasal 24 Cukup jelas. Angka 7 Pasal 30 Cukup jelas.
 ```
 
 <!-- image -->
@@ -19695,15 +19448,11 @@ Pasal 3l
 Dihapus.
 
 Angka 9
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35-4
 Cukup jelas.
 
 Angka 1O
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39-2
 Cukup jelas.
 
 Angka l1
@@ -19713,29 +19462,21 @@ Pasal 4O
 Cukup jelas.
 
 Angka 12
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42-2
 Cukup jelas.
 
 Angka 13
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43-3
 Cukup jelas.
 
 Angka 14
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45-3
 Dihapus.
 
 <!-- image -->
 
 Angka 15
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Ayat (1)
 
 Yang dimaksud dengan "skala tertentu,' adalah Usaha Perkebunan yang dilakukan oleh perusahaan perkebunan sesuai dengan skala usaha yang ditetapkan oleh pemerintah Pusat.
@@ -19751,15 +19492,11 @@ Ayat (3)
 Cukup jelas.
 
 Angka 16
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48-3
 Cukup jelas.
 
 Angka 17
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49-4
 Dihapus.
 
 Angka 18
@@ -19769,9 +19506,7 @@ Pasal 5O
 Dihapus.
 
 Angka 19
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
 <!-- image -->
 
 Ayat (l)
@@ -19827,31 +19562,21 @@ Cukup jelas.
 Angka26 Pasal 93 Cukup jelas. Angka2T Pasal 95 Cukup jelas. Angka 28 Pasal 96 Cukup jelas. Angka 29 Pasal 97 Angka 3O Pasal 99 Cukup jelas. Ayat (1) Yang dimaksud dengan "pembinaan teknis" adalah penerapan budi daya yang baik (good agricultrtral practicesl, penerapan pascapanen yang baik (good handling practicesl, dan penerapan pengolahan yang baik (good manufactuing pradiesl, serta penerapan pengembangan Perkebunan berkelanjutan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
 
 Angka 3l
-
-Pasal 103
-
+#### Pasal 103 ^penjelasan-pasal-103
 Cukup jelas.
 
 Angka 32
-
-Pasal 105
-
+#### Pasal 105 ^penjelasan-pasal-105
 Dihapus.
 
 Angka 33
-
-Pasal 106
-
+#### Pasal 106 ^penjelasan-pasal-106
 Dihapus.
 
 Angka 34
-
-Pasal 109
-
+#### Pasal 109 ^penjelasan-pasal-109-2
 Dihapus.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30-2
 Angka 1
 
 Pasal l1
@@ -19869,9 +19594,7 @@ Ayat (3)
 Peraturan Pemerintatr antara lain mengatur mengenai bentuk formulir permohonan dan tata cara pengisiannya, serta komponen dan besarnya biaya pemrosesan permohonan, contoh surat kuasa khusus, dan bentuk surat pernyataan aman untuk varietas transgenik.
 
 Angka 2
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29-3
 <!-- image -->
 
 Ayat (1)
@@ -19882,7 +19605,7 @@ Ayat (2)
 
 Cukup jelas.
 
-## Angka 3
+**Angka 3**
 
 Pasal 4O
 
@@ -19943,23 +19666,15 @@ Ayat (7)
 Cukup jelas.
 
 Angka 8
-
-Pasal 108
-
+#### Pasal 108 ^penjelasan-pasal-108
 Cukup jelas.
 
 Angka 9
-
-Pasal 111
-
+#### Pasal 111 ^penjelasan-pasal-111
 Dihapus.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32-4
 Angka 1
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15-2
 Cukup jelas.
 
 Angka 2
@@ -19979,29 +19694,19 @@ Ayat (3)
 Cukup jelas.
 
 Angka 3
-
-Pasal 101
-
+#### Pasal 101 ^penjelasan-pasal-101-2
 Dihapus.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33-3
 Angka 1
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15-3
 Cukup jelas.
 
 Angka 2
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33-4
 Cukup jelas.
 
 Angka 3
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35-5
 Cukup jelas.
 
 Angka 4
@@ -20010,16 +19715,12 @@ Pasal 35A
 
 Cukup jelas.
 
-## Angka 5
-
-Pasal 48
-
+**Angka 5**
+#### Pasal 48 ^penjelasan-pasal-48-4
 Dihapus.
 
-## Angka 6
-
-Pasal 49
-
+**Angka 6**
+#### Pasal 49 ^penjelasan-pasal-49-5
 Ayat (1)
 
 Pendataan dilakukan dalam rangka pembinaan dan pemberdayaan.
@@ -20031,21 +19732,15 @@ Cukup jelas.
 <!-- image -->
 
 Angka 7
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51-3
 Dihapus.
 
 Angka 8
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52-2
 Cukup jelas.
 
 Angka 9
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54-2
 Ayat (1)
 
 Yang dimaksud dengan "persyaratan teknis minimal" adalah batasan terendah dari spesifikasi teknis yang diterapkan agar Usaha Hortikultura terlaksana dengan baik, jika standar baku belum ditetapkan.
@@ -20063,14 +19758,12 @@ Ayat (4)
 Cukup jelas.
 
 Angka 1O
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56
 <!-- image -->
 
 Ayat(1) ...
 
-## Ayat (1)
+**Ayat (1)**
 
 Yang dimaksud dengan "Kemitraan' adalah kerja sama dalam keterkaitan usaha baik langsung maupun tidak langsung antara usaha mikro dan/atau usaha kecil dengan usaha menengah dan/atau usaha besar disertai pembinaan dan pengembangan oleh usaha menengah dan/ atau usaha besar dengan memperhatikan prinsip saling memerlukan, saling mempercayai, saling memperkuat, dan saling menguntungkan.
 
@@ -20091,7 +19784,8 @@ Angka 11 .. .
 Angka 1l
 
 ```
-Pasal 57 Ayat (1) Cukup jelas. Ayat (2) tanaman. Ayat (3) Cukup jelas. Ayat (4) . kesamaan ekosistem. Ayat (5) Cukup jelas. Angka 12 Pasal 63 Dihapus. Angka 13 Pasal 68 Cukup jelas. Angka 14 Pasal 73 Cukup jelas.
+#### Pasal 57 ^penjelasan-pasal-57
+Ayat (1) Cukup jelas. Ayat (2) tanaman. Ayat (3) Cukup jelas. Ayat (4) . kesamaan ekosistem. Ayat (5) Cukup jelas. Angka 12 Pasal 63 Dihapus. Angka 13 Pasal 68 Cukup jelas. Angka 14 Pasal 73 Cukup jelas.
 ```
 
 <!-- image -->
@@ -20105,53 +19799,38 @@ Angka 15
 ```
 
 ```
-Pasal 88 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Ketentuan mengenai keamanan dan pelindungan terhadap kesehatan manusia, hewan, tumbuhan, dan lingkungan mengacu pada perjanjian internasional Sanitary and Phitosanitary dar: Organisasi Pangan dan Pertanian Perserikatan Bangsa-Bangsa. Ayat (2) Cukup jelas. Ayat (3) Penetapan "pintu masul{ bagi impor Produk Hortikultura dimaksudkan untuk memudahkan pengawasan terkait dengan masuknya OPT Karantina, keamanan hayati, spesies asing yang invasif, dan keamanan pangan. Ayat (4) Cukup jelas. Angka 16 Pasal 90 Cukup jelas. Angka 17 Pasal 92 Cukup jelas.
+#### Pasal 88 ^penjelasan-pasal-88-2
+Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Ketentuan mengenai keamanan dan pelindungan terhadap kesehatan manusia, hewan, tumbuhan, dan lingkungan mengacu pada perjanjian internasional Sanitary and Phitosanitary dar: Organisasi Pangan dan Pertanian Perserikatan Bangsa-Bangsa. Ayat (2) Cukup jelas. Ayat (3) Penetapan "pintu masul{ bagi impor Produk Hortikultura dimaksudkan untuk memudahkan pengawasan terkait dengan masuknya OPT Karantina, keamanan hayati, spesies asing yang invasif, dan keamanan pangan. Ayat (4) Cukup jelas. Angka 16 Pasal 90 Cukup jelas. Angka 17 Pasal 92 Cukup jelas.
 ```
 
 <!-- image -->
 
 Angka 18
-
-Pasal 100
-
+#### Pasal 100 ^penjelasan-pasal-100
 Cukup jelas.
 
 Angka 19
-
-Pasal 101
-
+#### Pasal 101 ^penjelasan-pasal-101-3
 Cukup jelas.
 
 Angka 2O
-
-Pasal 122
-
+#### Pasal 122 ^penjelasan-pasal-122
 Cukup jelas.
 
 Angka 2l
-
-Pasal 126
-
+#### Pasal 126 ^penjelasan-pasal-126
 Dihapus.
 
 Angka22
-
-Pasal 128
-
+#### Pasal 128 ^penjelasan-pasal-128
 Cukup jelas.
 
 Angka 23
-
-Pasal 131
-
+#### Pasal 131 ^penjelasan-pasal-131
 Dihapus.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34-2
 Angka 1
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6-3
 Ayat (l)
 
 Yang dimaksud dengan keberadaan dan kemanfaatannya secara berkelanjutan" adalah upaya yapg perlu dilakukan oleh Pemerintah Daerah kabupaten/kota untuk memasukkan Kawasan Penggembalaan Umum dalam program pembangunan daerah.
@@ -20198,10 +19877,8 @@ Cukup jelas.
 
 Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
 
-## Angka 4
-
-Pasal 16
-
+**Angka 4**
+#### Pasal 16 ^penjelasan-pasal-16-3
 Ayat (1)
 
 Yang dimaksud dengan "Ternak lokal' adalah hasil persilangan antara Ternak asli luar negeri dan Ternak asli Indonesia, yang telah dikembangbiakkan di Indonesia sampai generasi kelima atau lebih yang teradaptasi pada lingkungan dan/ atau manajemen setempat.
@@ -20220,7 +19897,7 @@ Ayat (4)
 
 Cukup jelas.
 
-## Angka 5
+**Angka 5**
 
 Pasa722
 
@@ -20247,7 +19924,7 @@ Yang dimaksud dengan "Pakan yang tidak layak dikonsumsi' antara lain Pakan yang:
 3. kemasannya rusak, fisiknya rusak, berbau, atau berubah warna; dan/ atau
 4. palsu, yaitu tidak memiliki nomor pendaftaran, isi tidak sesuai dengan label, atau menggunakan merek orang lain.
 
-## Huruf b
+**Huruf b**
 
 Ketentuan ini dimaksudkan untuk mencegah timbulnya penyakit sapi gila (bouine spongifurm enephalopathgl atau scrapie pada domba/ kambing.
 
@@ -20255,7 +19932,7 @@ Yang . . .
 
 <!-- image -->
 
-## REPUBUK INDONESTA
+**REPUBUK INDONESTA**
 
 -101 -
 
@@ -20272,9 +19949,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 6
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29-4
 Ayat (1)
 
 Yang dimaksud dengan "pihak tertentu" antara lain Tentara Nasional Indonesia, Kepolisian Negara Republik Indonesia, lembaga kepabeanan, lembaga penelitian, dan lembaga pendidikan.
@@ -20297,28 +19972,24 @@ Ayat (s)
 
 Cukup jelas.
 
-## Angka 7
-
-Pasal 30
-
+**Angka 7**
+#### Pasal 30 ^penjelasan-pasal-30-3
 Cukup jelas.
 
-## Angka 8
+**Angka 8**
 
 ```
 Pasal 36E} Cukup jelas.
 ```
 
-## Angka 9
+**Angka 9**
 
 Pasal 36C
 
 Cukup jelas.
 
-## Angka 10
-
-Pasal 37
-
+**Angka 10**
+#### Pasal 37 ^penjelasan-pasal-37-3
 Yang dimaksud dengan "industri pengolahan produk Hewan" adalah industri yang melakukan kegiatan penanganan dan pemrosesurn hasil Hewan yang ditqiukan untuk mencapai nilai tambah yang lebih [inggi, dengan memperhatikan aspek produk yang aman, sehat, utuh, dan halal bagi yang dipersyaratkan.
 
 ```
@@ -20338,21 +20009,15 @@ Ayat (3)
 Cukup jelas.
 
 Angka 12
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54-3
 Cukup jelas.
 
 Angka 13
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59-2
 Cukup jelas.
 
 Angka 14
-
-Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60-3
 Aya! (1)
 
 memiliki NKV. Yang dimalsud dengan "nomor kontrol Veteriner,, atau NKV adalah nomor registrasi unit usaha Produk Hewan sebagai bukti telah dipenuhinya persyaratan higiene dan sanitasi sebagai kelayalan dasar jaminan keamanan produk Hewan. Bagi unit usaha Produk Hewan yang mengedarkan produk Hewan segar di seluruh wilayah Negara Kesatuan Republik Indonesia atau memasukkan dari dalam wilayah Negara Kesatuan Republik Indonesia dan/ atau mengeluarkan ke luar wilayah Negara Kesatuan Republik Indonesia wajib
@@ -20367,14 +20032,12 @@ Cukup jelas.
 
 <!-- image -->
 
-## fr-:I:FITiFN REPUELIK INDONESIA
+**fr-:I:FITiFN REPUELIK INDONESIA**
 
 Angka15...
 
 Angka 15
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62-2
 Ayat (1)
 
 Kewajiban Pemerintah Daerah kabupaten/kota memiliki rumah potong Hewan dimaksudkan untuk memberikan pelayanan kepada masyarakat dalam penyediaan pangan asal Hewan yang aman, sehat, utuh, dan/ atau halal.
@@ -20392,9 +20055,7 @@ Ayat (a)
 Cukup jelas.
 
 Angka 16
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69-2
 Ayat (1)
 
 Yang dimaksud dengan "pelayanan Kesehatan Hewan" adalah serangkaian tindakan yang diperlukan, antara lain untuk:
@@ -20409,11 +20070,11 @@ f. menindaklanjuti . . .
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESTA
+**PRESIDEN REPUELIK INDONESTA**
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - f. menindaklanjuti keputusan Pemerintah Pusat dan/atau Pemerintah Daerah yang berkaitan dengan pengendalian dan penanggulangan Penyakit Hewan dan/atau Kesehatan Masyarakat Veteriner; dan
 - g. melakukan pendidikan klien dan/atau pendidikan masyarakat sehubungan dengan paradigma sehat dan penerapan kaidah kesejahteraan Hewan.
@@ -20426,7 +20087,7 @@ Yang dimaksud dengan "pelayanan jasa Medik Veteriner" adalah layanan jasa yang b
 
 Yang dimaksud dengan "pelayanan jasa di pusat Kesehatan Hewan (puskeswan)" adalah layanan jasa Medik Veteriner yang dilaksanakan oleh Pemerintah Daerah. Pelayanan ini dapat bersifat rujukan dan/ atau terintegrasi dengan laboratorium Veteriner dan/atau laboratorium pemeriksaan dan penguj ian Veteriner.
 
-## Ayat (2)
+**Ayat (2)**
 
 Kualifikasi Perizir:an Berusaha antara lain:
 
@@ -20446,28 +20107,18 @@ Pasal72
 
 Cukup jelas.
 
-## Angka 18
-
-Pasal 85
-
+**Angka 18**
+#### Pasal 85 ^penjelasan-pasal-85
 Cukup jelas.
 
-## Angka 19
-
-Pasal 88
-
+**Angka 19**
+#### Pasal 88 ^penjelasan-pasal-88-3
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35-6
 Cukup jelas.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36-2
 Angka I
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15-4
 Ayat (1)
 
 Hurufa
@@ -20482,7 +20133,7 @@ d. pengumuman . . .
 
 <!-- image -->
 
-## i:IrEFrftEN REPUEUK INDONESIA
+**i:IrEFrftEN REPUEUK INDONESIA**
 
 -to7-
 
@@ -20516,10 +20167,8 @@ Ayat (5)
 
 Cukup jelas.
 
-## Angka 2
-
-Pasal 18
-
+**Angka 2**
+#### Pasal 18 ^penjelasan-pasal-18-4
 Ayat (1)
 
 Yang dimaksud dengan "penutupan Hutan" atau ./orest couerage adalah penutupan lahan oleh vegetasi dengan komposisi dan kerapatan tertentu, sehingga dapat tercipta fungsi Hutan antara lain iklim mikro, tata air, dan tempat hidup satwa sebagai satu ekosistem Hutan.
@@ -20531,9 +20180,7 @@ Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
 ```
 
 Angka 3
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19-4
 Ayat (1)
 
 Penelitian objektivitas dan kualitas hasil penelitian, maka kegiatan penelitian diselenggarakan oleh lembaga Pemerintah yang mempunyai kompetensi dan memiliki otoritas ilmiah (scientific authoritgl bersama-sama dengan pihak lain yang terpadu dilaksanakan untuk menjamin terkait.
@@ -20543,9 +20190,7 @@ Ayat (2)
 Cukup jelas.
 
 Angka 4
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26-4
 Ayat (1)
 
 Lindung adalah segala kawasan dengan tidak Pemanfaatan kawasan pada Hutan bentuk usaha yang menggunalan mengurangi fungsi utama kawasan, seperti:
@@ -20568,13 +20213,13 @@ Pemungutan Hasil Hutan bukan kayu pada Hutan Lindung adalah segala bentuk kegiat
 
 <!-- image -->
 
-## REPUBLIK INDONESTA
+**REPUBLIK INDONESTA**
 
 Usaha . . .
 
 <!-- image -->
 
-## REPUEUK INDONESIA
+**REPUEUK INDONESIA**
 
 Usaha pemanfaatan dan pemungutan pada Hutan Lindung dimaksudkan untuk meningkatkan kesejahteraan masyarakat sekaligus menumbuhkan kesadaran masyarakat untuk menjaga dan meningkatkan fungsi lindung, sebagai amanah untuk mewujudkan keberlanjutan sumber daya alam dan lingkungan bagi generasi sekarang dan generasi yang akan datang.
 
@@ -20589,15 +20234,11 @@ Pasal2T
 Cukup jelas.
 
 Angka 6
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28-5
 Cukup jelas.
 
 AngkaT
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29-5
 Cukup jelas.
 
 Angka 8
@@ -20612,16 +20253,12 @@ Cukup jelas.
 
 Angka9...
 
-## Angka 9
-
-## Pasal 30
-
+**Angka 9**
+#### Pasal 30 ^penjelasan-pasal-30-4
 Kerja sama dengan koperasi masyarakat setempat dimalsudkan agar masyarakat yang tinggal di dalam dan di sekitar Hutan merasakan dan mendapatkan manfaat Hutan secara langsung, sehingga dapat meningkatkan kesejahteraan dan kualitas hidup mereka, serta sekaligus dapat menumbuhkan rasa ikut memiliki. Dalam kerja sama tersebut kearifan tradisional dan nilai-nilai keutamaan yang terkandung dalam budaya masyaralat dan sudah mengakar, dapat dljadikan aturan yang disepakati bersama. Kewajiban badan usaha milik negara, badan usaha milik daerah, dan badan usaha milik swasta bekerja sama dengan koperasi bertujuan untuk memberdayakan koperasi masyarakat setempat agar sec€ra bertahap dapat menjadi koperasi yang tangguh, mandiri, dan profesional. Koperasi masyarakat setempat yang telah menjadi koperasi tangguh, mandiri, dan profesional diperlakukan setara dengan badan usaha milik negara, badan usaha milik daerah, dan badan usaha milik swasta. Dalam hal koperasi masyarakat setempat belum terbentuk, badan usaha milik negara, badan usaha milik daerah, dan badan usaha milik swasta turut mendorong segera terbentuknya koperasi tersebut.
 
-## Angka 10
-
-Pasal 31
-
+**Angka 10**
+#### Pasal 31 ^penjelasan-pasal-31-2
 Ayat (1)
 
 Yang dimaksud dengan "aspek kelestarian Hutan" antara lain:
@@ -20640,7 +20277,7 @@ Yang dimaksud dengan "aspek kepastian usaha" antara lain:
 
 Ayat(21 ...
 
-## Ayat (2)
+**Ayat (2)**
 
 Peraturan Pemerintah memuat aturan antara lain:
 
@@ -20648,16 +20285,12 @@ Peraturan Pemerintah memuat aturan antara lain:
 - b. pembatasan jumlah izin usaha; dan
 - c. penataan lokasi usaha.
 
-## Angka 11
-
-Pasal 32
-
+**Angka 11**
+#### Pasal 32 ^penjelasan-pasal-32-5
 Khusus fagi pemegang Perizinan Berusaha berskala besar, kewajiban untuk menjaga, memelihara, dan melestarikan Hutan tempat usahanya, mencakup juga pengertian untuk memberdayakan masyarakat di dalam dan di sekitar Hutan tempat usahanya.
 
-## Angka 12
-
-Pasal 33
-
+**Angka 12**
+#### Pasal 33 ^penjelasan-pasal-33-5
 Ayat (1)
 
 Cukup jelas.
@@ -20670,16 +20303,12 @@ Ayat (3)
 
 Cukup jelas.
 
-## Angka 13
-
-Pasal 35
-
+**Angka 13**
+#### Pasal 35 ^penjelasan-pasal-35-7
 Cukup jelas.
 
 Angka 14
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38-2
 <!-- image -->
 
 Ayat (1)
@@ -20693,9 +20322,7 @@ Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas.
 ```
 
 Angka 15
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48-5
 Ayat ( 1)
 
 Yang dimaksud dengan "perlindungan Hutan" termasuk di dalamnya melindungi, menghormati, dan memenuhi hak masyarakat hukum adat yang berada di dalam maupun di luar Kawasan Hutan, sepanjang kenyataannya masih ada dan diakui keberadaannya. Hak masyarakat hukum adat diberikan berdasarkan ketentuan peraturan perundangundangan dan tidak bertentangan dengan kepentingan nasional.
@@ -20712,16 +20339,12 @@ Ayat(4) ...
 
 <!-- image -->
 
-## Angka 16
-
-Pasal 49
-
+**Angka 16**
+#### Pasal 49 ^penjelasan-pasal-49-6
 Cukup jelas.
 
-## Angka 17
-
-Pasal 50
-
+**Angka 17**
+#### Pasal 50 ^penjelasan-pasal-50-3
 Ayat (1)
 
 Yang dimaksud dengan "orang! adalah subjek hukum baik orang pribadi, badan hukum, maupun badan usaha.
@@ -20762,34 +20385,28 @@ Peraturan Pemerintah memuat aturan antara lain:
 - d. pemberian kewenangan operasional kepada daerah.
 
 Hurufd . . .
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37-4
 <!-- image -->
 
 Yang dimaksud dengan "pejabat yang berwenang" adalah pejabat pemerintah yang diberi wewenang oleh peraturan perundang-undangan dalam pemberian Perizinan Berusaha.
 
 Huruf d Cukup jelas. Huruf e Huruf f Cukup jelas. Huruf g Cukup jelas. Ayat (3) Cukup jelas. Angka 18 Pasal 50A Cukup jelas. Angka 19 Pasal 78 Cukup jelas. Angka 20 Pasal 8O Cukup jelas. Angka 1 Pasal 1 Cukup jelas.
 
-## Angka 2
-
-## Pasal 7
-
+**Angka 2**
+#### Pasal 7 ^penjelasan-pasal-7-3
 Yang dimaksud dengan "masyarakat" adalah masyarakat setempat, masyarakat hukum adat, dan masyarakat umum. Masyarakat setempat merupakan masyarakat yang tinggal di dalam dan/atau sekitar hutan yang merupakan kesatuan komunitas sosial berdasarkan mata pencaharian yang bergantung pada hutan, kesejarahan, keterikatan tempat tinggal, serta pengaturan tata tertib kehidupan bersama dalam wadah kelembagaan. Masyaralat hukum adat adalah masyarakat tradisional yang masih terkait dalam bentuk paguyuban, memiliki kelembagaan dalam bentuk pranata dan perangkat hukum adat yang masih ditaati, dan masih mengadakan pemungutan hasil hutan di wilayah hutan sekitarnya yang keberadaannya dikukuhkan dengan Peraturan Daerah. Masyarakat umum adalah masyarakat di luar masyarakat setempat dan masyarakat hukuin adat. Badan hukum adalah badan usaha milik negara, badan usaha milik daerah, badan usaha milik swasta, dan koperasi.
 
-## Angka 3
-
-Pasal 12
-
+**Angka 3**
+#### Pasal 12 ^penjelasan-pasal-12-4
 Huruf a
 
 Yang dimaksud dengan "Perizinan Berusaha terkait pemanfaatan hutan" adalah Perizinan Berusaha untuk memanfaatkan hutan dalam kawasan hutan produksi yang meliputi kegiatan berupa: pemanfaatan kawasan, pemanfaatan jasa lingkungan, pemanfaatan Hasil Hutan kayu, pemanfaatan Hasil Hutan bukan kayu, pemungutan Hasil Hutan kayu, dan/atau pemungutan Hasil Hutan bukan kayu.
 
-## Huruf b
+**Huruf b**
 
 Yang dimaksud dengan upenebangan pohon dalam Kawasan Hutan tanpa memiliki Peizinar:. Berusaha" adalah penebangan pohon yang dilakukan berdasarkan Perizinan Berusaha terkait pemanfaatan hutan yang diperoleh secara tidak sah.
 
-## Huruf c
+**Huruf c**
 
 Cukup jelas.
 
@@ -20846,9 +20463,7 @@ Cukup jelas.
 <!-- image -->
 
 - 116 - Angka 5
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17-4
 Cukup jelas.
 
 Angka 6
@@ -20858,12 +20473,10 @@ Pasal 17A
 Cukup jelas.
 
 Angka 7
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18-5
 Cukup jelas.
 
-## Angka 8
+**Angka 8**
 
 Pasal24
 
@@ -20879,21 +20492,22 @@ Huruf c
 
 Yang dimaksud dengan "memindahtangankan" atau "menjual Perizinan Berusaha" adalah terbatas pada pengalihan Perizinan Berusaha terkait pemanfaatan dari pemegang Perizinan Berusaha kepada pihak lain yang dilakukan melalui jual beli, tetapi tidak termasuk akuisisi.
 
-## Angka 9
+**Angka 9**
 
 ```
-Pasal 28 Huruf a Cukup jelas. Hurufb Cukup jelas.
+#### Pasal 28 ^penjelasan-pasal-28-6
+Huruf a Cukup jelas. Hurufb Cukup jelas.
 ```
 
 <!-- image -->
 
 Hurufc . ..
 
-## Huruf c
+**Huruf c**
 
 Yang dimaksud dengan "melindungi' adalah kegiatan yang dapat menghambat berlangsungnya proses penyidikan terhadap pelaku yang telah diketahui sebagai daftar pencarian orang (DPO), seperti menyembunyikan pelaku.
 
-## Huruf d
+**Huruf d**
 
 Yang dimalsud dengan "membantu" adalah mereka yang dengan sengaja membantu dilakukannya kejahatan dan/atau yang dengan sengaja memberi kesempatan dan sarana untuk melakukan kejahatan pembalakan liar.
 
@@ -20914,28 +20528,22 @@ Hurufh
 Cukup jelas.
 
 Angka 10
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53-2
 Dihapus.
 
 Angka 11
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54-4
 Dihapus.
 
 Angka 12
-
-Pasal 82
-
+#### Pasal 82 ^penjelasan-pasal-82-2
 Ayat (1)
 
 Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - 118 - Ayat (21
 
@@ -20946,44 +20554,32 @@ Ayat (3)
 Cukup jelas.
 
 Angka 13
-
-Pasal 83
-
+#### Pasal 83 ^penjelasan-pasal-83
 Cukup jelas.
 
 Angka 14
-
-Pasal 84
-
+#### Pasal 84 ^penjelasan-pasal-84
 Cukup jelas.
 
 Angka 15
-
-Pasal 85
-
+#### Pasal 85 ^penjelasan-pasal-85-2
 Cukup jelas.
 
 Angka 16
-
-Pasal 92
-
+#### Pasal 92 ^penjelasan-pasal-92-2
 Cukup jelas.
 
 Angka 17
-
-Pasal 93
-
+#### Pasal 93 ^penjelasan-pasal-93-3
 Cukup jelas.
 
 Angka 18
-
-Pasal 96
-
+#### Pasal 96 ^penjelasan-pasal-96-2
 Cukup jelas.
 
 <!-- image -->
 
-## EEPUEUK INDONESIA
+**EEPUEUK INDONESIA**
 
 - 119 - Angka 19
 
@@ -21038,7 +20634,7 @@ Denda sama dengan luas perkebunan kelapa sawit dikalikan dengan jangka waktu keg
 
 <!-- formula-not-decoded -->
 
-## Keterangan:
+**Keterangan:**
 
 - L = Luas Perkebunan Kelapa Sawit dalam kawasan hutan (Hektare)
 - J = Jangka waktu kegiatan perkebunan berada dalam kawasan hutan (Tahun)
@@ -21054,7 +20650,7 @@ b. (J) Jangka. . .
 
 <!-- image -->
 
-## tJ:is|I.fdX NEPUEUK TNDONESIA
+**tJ:is|I.fdX NEPUEUK TNDONESIA**
 
 -t22-
 
@@ -21095,23 +20691,16 @@ Ayat (3)
 Cukup jelas.
 
 Angka 21
-
-Pasal 1 1 1
-
+#### Pasal 1 ^penjelasan-pasal-1-4
+1 1
 Dihapus.
 
 Angka22
-
-Pasal 112
-
+#### Pasal 112 ^penjelasan-pasal-112-2
 Dihapus.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38-3
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39-3
 Angka 1
 
 Pasal 128A
@@ -21119,9 +20708,7 @@ Pasal 128A
 Cukup jelas.
 
 Angka2
-
-Pasal 162
-
+#### Pasal 162 ^penjelasan-pasal-162
 Cukup jelas.
 
 <!-- image -->
@@ -21129,56 +20716,41 @@ Cukup jelas.
 <!-- image -->
 
 ```
-Pasal 40 Angka 1 Pasal I Cukup jelas. Angka 2 Pasal 4 Ayat (1) Ayat (2) Cukup je1as. Ayat (3) Cukup jelas. Angka 3 Pasal 5 Cukup jelas. Angka 4 Pasal 23 Cukup jelas. Angka 5 Pasal 23A Cukup jelas. Berdasarkan jiwa Pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Minyak dan Gas Bumi sebagai sumber daya alam strategis yang terkandung di dalam bumi Wilayah Hukum Pertambangan Indonesia merupakan kekayaan nasional yang dikuasai negara. Penguasaan oleh negara sebagaimana dimaksud di atas adalah agar kekayaan nasional tersebut dimanfaatkan bag, sebesar-besar kemakmuran seluruh ralgrat Indonesia.
+#### Pasal 40 ^penjelasan-pasal-40-2
+Angka 1 Pasal I Cukup jelas. Angka 2 Pasal 4 Ayat (1) Ayat (2) Cukup je1as. Ayat (3) Cukup jelas. Angka 3 Pasal 5 Cukup jelas. Angka 4 Pasal 23 Cukup jelas. Angka 5 Pasal 23A Cukup jelas. Berdasarkan jiwa Pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Minyak dan Gas Bumi sebagai sumber daya alam strategis yang terkandung di dalam bumi Wilayah Hukum Pertambangan Indonesia merupakan kekayaan nasional yang dikuasai negara. Penguasaan oleh negara sebagaimana dimaksud di atas adalah agar kekayaan nasional tersebut dimanfaatkan bag, sebesar-besar kemakmuran seluruh ralgrat Indonesia.
 ```
 
 Angka6.. .
 
 Angka 6
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25-5
 Cukup jelas.
 
 AngkaT
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52-3
 Cukup jelas.
 
-## Angka 8
-
-Pasal 53
-
+**Angka 8**
+#### Pasal 53 ^penjelasan-pasal-53-3
 Cukup jelas.
 
-## Angka 9
-
-Pasal 55
-
+**Angka 9**
+#### Pasal 55 ^penjelasan-pasal-55
 Dalam ketentuan ini yang dimaksudkan dengan adalah kegiatan yang bertujuan untuk memperoleh keuntungan perseorangan atau badan usaha dengan cara yang merugikan masyarakat banyak dan negara seperti antara lain kegiatan pengoplosan Bahan Bakar Minyak, penyimpangan alokasi Bahan Bakar Minyak, Pengangkutan dan Penjualan Bahan Bakar Minyak ke luar negeri.
-
-## Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Angka 1
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4-2
 Cukup jelas.
 
 Ang)&lt;a 2
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5-3
 Cukup jelas.
 
 Angka 3
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6-4
 <!-- image -->
 
-## Hurufa
+**Hurufa**
 
 Pembuatan kebijakan nasional, antara lain berupa:
 
@@ -21221,9 +20793,7 @@ Huruf i
 Pendorongan dilakukan dalam rangka untuk meningkatkan nilai tambah produksi kegiatan penyelenggaraan Panas Bumi.
 
 Angka 4
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7-4
 Cukup jelas.
 
 <!-- image -->
@@ -21244,7 +20814,7 @@ Angka 13 Pasal 25 Dihapus. Angka 14 Pasal 36 Cukup jelas. Angka 15 Pasal 37 Cuku
 
 <!-- image -->
 
-## Angka 2O
+**Angka 2O**
 
 Yang dimaksud dengan "menghalangi atau merintangi pengusahaan Panas Bumi" adalah segala bentuk tindakan yang menggunakan kekerasan atau ancaman kekerasan yang dapat menimbulkan kerugian secara materiil.
 
@@ -21253,7 +20823,8 @@ Angka 21 Pasal 47 Angka22 Pasal 48 Cukup jelas. Angka 23 Pasal 49 Cukup jelas. A
 ```
 
 ```
-Pasal 46 Cukup jelas.
+#### Pasal 46 ^penjelasan-pasal-46-2
+Cukup jelas.
 ```
 
 <!-- image -->
@@ -21271,7 +20842,8 @@ Angka 35 Pasal 74 Dihapus. Pasal 42 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 3
 Angka 4
 
 ```
-Pasal 5 Cukup jelas. Angka 5 Pasal 7 Ayat (1) Yang dimaksud dengan "kebijakan energi nasional" adalah kebijakan energi nasional sebagaimana dimaksud dalam Undang-Undang tentang Energi. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 6 Pasal 10 Cukup jelas. Angka 7 Pasal 11 Ayat (1) Cukup jelas. Ayat (2) Pemberian prioritas kepada badan usaha milik negara merupakan perwujudan penguasaan negara terhadap penyediaan Tenaga Listrik. Badan usaha milik negara adalah badan usaha yang semata-mata bemsaha di bidang penyediaan Tenaga Listrik. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
+#### Pasal 5 ^penjelasan-pasal-5-4
+Cukup jelas. Angka 5 Pasal 7 Ayat (1) Yang dimaksud dengan "kebijakan energi nasional" adalah kebijakan energi nasional sebagaimana dimaksud dalam Undang-Undang tentang Energi. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 6 Pasal 10 Cukup jelas. Angka 7 Pasal 11 Ayat (1) Cukup jelas. Ayat (2) Pemberian prioritas kepada badan usaha milik negara merupakan perwujudan penguasaan negara terhadap penyediaan Tenaga Listrik. Badan usaha milik negara adalah badan usaha yang semata-mata bemsaha di bidang penyediaan Tenaga Listrik. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
 ```
 
 <!-- image -->
@@ -21285,35 +20857,26 @@ Cukup jelas. Angka 8 Pasal 13 Ayat (l) Yang dimaksud dengan "kepentingan sendiri
 <!-- image -->
 
 Angka 13
-
-Pasal 2 1
-
+#### Pasal 2 ^penjelasan-pasal-2-2
+1
 Dalam penetapan Perizinan Berusaha, Pemerintah Pusat atau Pemerintah Daerah memperhatikan kemampuan dalam penyediaan Tenaga Listrik pemegang Perizinan Berusaha penyediaan Tenaga Listrik yang memiliki Wilayah Usaha setempat.
 
 Perizinan Berusaha penyediaan Tenaga Listrik memuat, antara lain, nama dan alamat badan usaha, jenis usaha yang diberikan, kewajiban dalam penyelenggaraan usaha, syarat teknis, dan ketentuan sanksi.
 
 Angka 14
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22-3
 Cukup jelas.
 
 Angka 15
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23-3
 Cukup jelas.
 
 Angka 16
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24-4
 Cukup je1as.
 
 Angka 17
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25-6
 Cukup jelas.
 
 Angka 18
@@ -21324,7 +20887,7 @@ Cukup jelas.
 
 <!-- image -->
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 - 134-
 
@@ -21333,7 +20896,8 @@ Angka 19
 ```
 
 ```
-Pasal 28 Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Penggunaan produk dan potensi luar negeri dapat digunakan apabila produk dan potensi dalam negeri tidak tersedia. Angka 20 Pasal 29 Ayat (1) Cukup jelas. Ayat l2l Huruf a Cukup jelas. Huruf b Yang dimaksud dengan 'instalasi Tenaga Listrik milik Konsumen" adalah instalasi Tenaga Listrik setelah alat pengukur atau alat pembatas penggunaan Tenaga Listrik. Huruf c Cukup jelas. Hurufd Cukup jelas. Huruf e
+#### Pasal 28 ^penjelasan-pasal-28-7
+Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Penggunaan produk dan potensi luar negeri dapat digunakan apabila produk dan potensi dalam negeri tidak tersedia. Angka 20 Pasal 29 Ayat (1) Cukup jelas. Ayat l2l Huruf a Cukup jelas. Huruf b Yang dimaksud dengan 'instalasi Tenaga Listrik milik Konsumen" adalah instalasi Tenaga Listrik setelah alat pengukur atau alat pembatas penggunaan Tenaga Listrik. Huruf c Cukup jelas. Hurufd Cukup jelas. Huruf e
 ```
 
 ```
@@ -21351,9 +20915,7 @@ Cukup jelas. Ayat (a) Cukup jelas. Angka 21 Pasal 30 Ayat (1) Cukup jelas. Ayat 
 <!-- image -->
 
 Angka 23
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33-6
 Ayat (1)
 
 Pengertian harga jual Tenaga Listrik meliputi semua biaya yang berkaitan dengan penjualan Tenaga Listrik dari pembangkit Tenaga Listrik.
@@ -21365,9 +20927,7 @@ Ayat (2)
 Dalam memberikan persetqiuan harga jual Tenaga Listrik dan sewa jaringan Tenaga Listrik, Pemerintah Pusat atau Pemerintah Daerah memperhatikan kesepakatan di antara badan usaha.
 
 Angka24
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34-3
 Ayat (1)
 
 Tarif Tenaga Listrik untuk Konsumen meliputi semua biaya yang berkaitan dengan pemakaian Tenaga Listrik oleh Konsumen, antara lain, biaya beban (Rp/ kVA) dan biaya pemakaian (Rp/kWh), biaya pemakaian daya reaktif (Rp/kVArh), dan/atau biaya kVA maksimum yang dibayar berdasarkan harga langganan (Rp/bulan) sesuai dengan batasan daya yang dipakai atau bentuk lainnya.
@@ -21381,18 +20941,16 @@ Ayat (s)
 Cukup jelas.
 
 Angka 25
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35-8
 Cukup jelas.
 
 <!-- image -->
 
-## I REPUEUK INDONESIA
+**I REPUEUK INDONESIA**
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Angka 26 Pasal 37 Cukup jelas. ArrgJra2T Pasal 44 Cukup jelas. Angka 28 Pasal 45 Cukup jelas. Angka 29 Pasal 46 Cukup jelas. Angka 30 Pasal 48 Cukup jelas. Angka 31 Pasal 49 Cukup jelas. Angka 32 Pasal 50 Cukup jelas. Angka 33 Pasal 51A Cukup jelas.
@@ -21401,14 +20959,15 @@ Angka 26 Pasal 37 Cukup jelas. ArrgJra2T Pasal 44 Cukup jelas. Angka 28 Pasal 45
 Angka 34
 
 ```
-Pasal 52 Dihapus. Angka 35 Pasal 53 Cukup jelas. Angka 36 Pasal 54 Cukup jelas. Pasal 43 Angka I Pasal 2A Cukup jelas. Angka2 Pasal 4 Ayat (1) Yang dimaksud dengan "badan pengawas" adalah lembaga pemerintah yang berada di bawah dan bertanggung jawab langsung kepada presiden. Ayat (21 Cukup jelas. Angka 3 Pasal 9 Cukup jelas. Angka 4 Pasal 9A Ayat (1) Cukup jelas. Ayat (21 Cukup jelas.
+#### Pasal 52 ^penjelasan-pasal-52-4
+Dihapus. Angka 35 Pasal 53 Cukup jelas. Angka 36 Pasal 54 Cukup jelas. Pasal 43 Angka I Pasal 2A Cukup jelas. Angka2 Pasal 4 Ayat (1) Yang dimaksud dengan "badan pengawas" adalah lembaga pemerintah yang berada di bawah dan bertanggung jawab langsung kepada presiden. Ayat (21 Cukup jelas. Angka 3 Pasal 9 Cukup jelas. Angka 4 Pasal 9A Ayat (1) Cukup jelas. Ayat (21 Cukup jelas.
 ```
 
 <!-- image -->
 
 <!-- image -->
 
-## REPUEUK INDONESTA
+**REPUEUK INDONESTA**
 
 - 140-
 
@@ -21433,15 +20992,11 @@ Ayat (7)
 Cukup jelas.
 
 Angka 5
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10-3
 Dihapus.
 
 Angka 6
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-5
 Ayat (1)
 
 Pengawasan ini perlu dilakukan mengingat bahwa Tenaga Nuklir itu selain bermanfaat juga mempunyai bahaya radiasi.
@@ -21455,9 +21010,7 @@ Yang dimaksud dengan "peraturan" yaitu bahwa pemerintah dalam melakukan pengawas
 Yang dimaksud dengan "perizinan" yaitu bahwa pemerintah mengeluarkan instrumen perizinan untuk mengendalikan kegiatan Pemanfaatan Tenaga Nuklir.
 
 Angka 7
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17-5
 Ayat (1)
 
 Yang dimaksud dengan "hd tertentu" adalah Pemanfaatan z,at, alat, atau benda yang pancaran radiasi dan aktivitasnya lebih kecil daripada pancaran radiasi dan aktivitas yang seharusnya memiliki Perizinan Berusaha, antara lain, alat navigasi, jam, kaos lampu petromaks, dan pendeteksi asap.
@@ -21471,15 +21024,11 @@ Ayat (3)
 Cukup jelas.
 
 Angka 8
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18-6
 Dihapus.
 
 Angka 9
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20-3
 Ayat (1)
 
 Inspeksi dilakukan dalam rangka pengawasan terhadap ditaatinya syarat-syarat dalam perizinan dan peraturan perundang-undangan di bidang keselamatan nuklir.
@@ -21497,9 +21046,7 @@ Yang dimaksud dengan "inspeksi" yaitu kegiatan pemeriksaan baik secara berkala m
 Angka10...
 
 Angka 10
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25-7
 Ayat (1)
 
 Cukup jelas.
@@ -21509,17 +21056,11 @@ Ayat (2)
 Penentuan tempat penyimpanan lestari Limbah Radioaktif tingkat tinggi perlu ditetapkan oleh Pemerintah Pusat karena menyangkut perubahan suatu daerah yang semula dapat dimanfaatkan menjadi suatu daerah yang sama sekali tidak dapat dimanfaatkan untuk kepentingan lain. Limbah Radioaktif yang berasal dari luar negeri tidak diizinkan disimpan di wilayah hukum Republik Indonesia.
 
 Angka 11
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41-2
 Cukup jelas.
-
-## Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44-2
 Angka 1
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15-5
 Cukup jelas.
 
 Angka 2
@@ -21529,9 +21070,7 @@ Pasal 48A
 Cukup jelas.
 
 Angka 3
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50-4
 Cukup jelas.
 
 <!-- image -->
@@ -21585,9 +21124,7 @@ Pasal 1Ol
 Cukup jelas.
 
 Angka 9
-
-Pasal 102
-
+#### Pasal 102 ^penjelasan-pasal-102
 Dihapus.
 
 Angka 10
@@ -21597,9 +21134,8 @@ Pasal 1O4
 Cukup jelas.
 
 Angka 11
-
-Pasal 105 Cukup jelas. Angka 12 Pasal l05A Cukup jelas. Angka 13 Pasal 106 Ayat (l) Yang dimaksud dengan "Perusahaan Industri yang al&lt;an menjalankan Industri" adalah Industri baru atau yang melakukan perluasan pada lokasi yang berbeda. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (s) Cukup jelas. Angka 14 Pasal 108 Cukup jelas. Angka 15 Pasal 115
-
+#### Pasal 105 ^penjelasan-pasal-105-2
+Cukup jelas. Angka 12 Pasal l05A Cukup jelas. Angka 13 Pasal 106 Ayat (l) Yang dimaksud dengan "Perusahaan Industri yang al&lt;an menjalankan Industri" adalah Industri baru atau yang melakukan perluasan pada lokasi yang berbeda. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (s) Cukup jelas. Angka 14 Pasal 108 Cukup jelas. Angka 15 Pasal 115
 Cukup jelas.
 
 <!-- image -->
@@ -21615,15 +21151,12 @@ Ayat (3)
 Cukup jelas.
 
 Angka 2
-
-Pasal 1 I
-
+#### Pasal 1 ^penjelasan-pasal-1-5
+I
 Cukup jelas.
 
 Angka 3
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-6
 Ayat (1)
 
 Pengaturan tentang pengembangan, penataan, dan pembinaan yang setara dan berkeadilan terhadap Pasar rakyat, pusat perbelanjaan, toko swalayan, dan perkulakan dimaksudkan untuk menyederhanakan dan kepastian proses Perizinan Berusaha yang diajukan oleh Pelaku Usaha. Penyederhanaan juga mencakup pengintegrasian dengan persyaratan lain yang diperlukan dan dilakukan menggunakan sistem elektronik.
@@ -21641,9 +21174,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 4
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15-6
 Cukup jelas.
 
 <!-- image -->
@@ -21653,9 +21184,8 @@ Angka 5 Pasal 17 Cukup jelas. Angka 6 Pasal 24 Cukup jelas. Angka 7 Pasal 30 Cuk
 ```
 
 Angka 13
-
-Pasal 45 Ayat (1) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 14 Pasal 46 Cukup jelas. Angka 15 Pasal 47 Ayat (1) Cukup jelas.
-
+#### Pasal 45 ^penjelasan-pasal-45-4
+Ayat (1) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 14 Pasal 46 Cukup jelas. Angka 15 Pasal 47 Ayat (1) Cukup jelas.
 <!-- image -->
 
 Permohonan Impor Barang diajukan langsung kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang Perdagangan, dan Perizinan Berusaha dari Pemerintah Pusat diberikan oleh kementerian yang urusan pemerintahan di bidang Perdagangan setelah ada
@@ -21685,9 +21215,7 @@ Angka22 Pasal 61 Cukup jelas. Angka 23 Pasal 63 Cukup jelas. Arrgka24 Pasal 65 C
 ```
 Angka2T Pasal 77A Cukup jelas. Angka 28 Pasal 81 Cukup jelas. Angka 29 Pasal 98 Cukup jelas. Angka 30 Pasal 99 Cukup jelas. Angka 31 Pasal lOO Cukup jelas. Angka 32 Pasal 102 Cukup jelas. Angka 33 Pasal 104 Cukup jelas. Angka 34 Pasal 106 Cukup jelas.
 ```
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47-2
 <!-- image -->
 
 Angka 35 Pasal 109 Cukup jelas. Angka 36 Pasal 116 Cukup jelas. Angka 1 Pasal 13 Huruf a Jenis-jenis Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan antara lain ialah meter air, meter gas, meter listrik, meter taxi, meter pulsa telepon, alat pengukur kelembaban (moisture tester) perlu ditunjuk tempat-tempat dan daerah-daerah di mana dilaksanakan tera dan Tera Ulang. Huruf b Cukup jelas. Huruf c Cukup jelas. Angka 2 Pasal 17
@@ -21698,7 +21226,7 @@ Karena penggunaan Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan ber
 
 <!-- image -->
 
-## PRESIDEN BUK INDONESIA
+**PRESIDEN BUK INDONESIA**
 
 -154-
 
@@ -21708,24 +21236,16 @@ Ayat (2)
 
 Cukup jelas.
 
-## Angka 3
-
-Pasal 18
-
+**Angka 3**
+#### Pasal 18 ^penjelasan-pasal-18-7
 Perizinan Berusaha diperlukan untuk menghindari masuk dan beredarnya Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan yang tidak memenuhi persyaratan, sebab jika ini te{adi akan menyulitkan dalam melaksanakan UndangUndang ini.
 
-## Angka 4
-
-Pasal 24
-
+**Angka 4**
+#### Pasal 24 ^penjelasan-pasal-24-5
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48-6
 Angka 1
-
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1-6
 Cukup jelas.
 
 Angka 2
@@ -21735,22 +21255,18 @@ Pasal 4A
 Cukup jelas.
 
 Angka 3
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5-5
 Cukup jelas.
 
 Angka 4
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7-5
 Ayat (1)
 
 Huruf a . . .
 
 <!-- image -->
 
-## REPUELIK INDONESTA
+**REPUELIK INDONESTA**
 
 Huruf a
 
@@ -21771,15 +21287,11 @@ Ayat (3)
 Cukup jelas.
 
 Angka 9
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-7
 Cukup jelas.
 
 Angka 10
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16-4
 Cukup jelas.
 
 Angka 11
@@ -21789,9 +21301,7 @@ PasaJ22
 Cukup jelas.
 
 Angka 12
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25-8
 Cukup jelas.
 
 Angka 13
@@ -21801,21 +21311,15 @@ Pasal2T
 Cukup jelas.
 
 Angka 14
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28-8
 Cukup jelas.
 
 Angka 15
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29-6
 Cukup jelas.
 
 Angka 16
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30-5
 Cukup jelas.
 
 ```
@@ -21823,7 +21327,8 @@ Angka 17
 ```
 
 ```
-Pasal 31 Cukup jelas. Angka 18 Pasal 32 Cukup jelas. Angka 19 Pasal 33 Cukup jelas. Angka 20 Pasal 33A Cukup jelas. Pasal 33B Ayat (1) Cukup jelas. Ayat (2) Hurufa Yang dimaksud dengan "ulama" adalah ahli agama tentang syariat kehalalan produk yang berasal dari organisasi kemasyarakatan keagamaan Islam berbadan hukum. Huruf b Cukup jelas. Angka 2l Pasal 35 Cukup jelas. Angka22 Pasal 35A Cukup jelas. Angka 23 Pasal 4O Cukup jelas.
+#### Pasal 31 ^penjelasan-pasal-31-3
+Cukup jelas. Angka 18 Pasal 32 Cukup jelas. Angka 19 Pasal 33 Cukup jelas. Angka 20 Pasal 33A Cukup jelas. Pasal 33B Ayat (1) Cukup jelas. Ayat (2) Hurufa Yang dimaksud dengan "ulama" adalah ahli agama tentang syariat kehalalan produk yang berasal dari organisasi kemasyarakatan keagamaan Islam berbadan hukum. Huruf b Cukup jelas. Angka 2l Pasal 35 Cukup jelas. Angka22 Pasal 35A Cukup jelas. Angka 23 Pasal 4O Cukup jelas.
 ```
 
 <!-- image -->
@@ -21847,27 +21352,19 @@ Ayat (2)
 Cukup jelas.
 
 Angka 4
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35-9
 Cukup jelas.
 
 Angka 5
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36-3
 Cukup jelas.
 
 Angka 6
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40-3
 Cukup jelas.
 
 Angka 7
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42-3
 Ayat (1)
 
 Yang dimaksud dengan "perjanjian pendahuluan jual beli" adalah kesepakatan melakukan jual beli Rumah yang masih dalam proses pembangunan antara calon pembeli Rumah dengan penyedia Rumah yang dibuat di hadapan pejabat yang berwenang.
@@ -21884,7 +21381,7 @@ Yang dimaksud dengan "hal yang diperjanjikan' adalah kondisi Rumah yang dibangun
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -161 -
 
@@ -21905,9 +21402,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 8
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53-4
 Ayat (1)
 
 Pengendalian Perumahan dimal&lt;sudkan untuk menjaga dan meningkatkan kualitas Perumahan agar dapat berfungsi sebagaimana mestinya, sekaligus mencegah terjadinya penurunan kualitas dan terjadinya pemanfaatan yang tidak sesuai.
@@ -21953,33 +21448,23 @@ Angka 2 Pasal 24 Ayat (1) Huruf a Yang dimaksud dengan "persyaratan administrati
 Angka5...
 
 Angka 5
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29-7
 Cukup jelas.
 
 Angka 6
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30-6
 Dihapus.
 
 Angka 7
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31-4
 Cukup jelas.
 
 Angka 8
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32-6
 Cukup jelas.
 
 Angka 9
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33-7
 Dihapus.
 
 Angka 10
@@ -21998,7 +21483,7 @@ Ayat(2)...
 
 <!-- image -->
 
-## PRESIDEN REPUELTK INDONESIA
+**PRESIDEN REPUELTK INDONESIA**
 
 Ayat (2) Cukup jelas.
 
@@ -22007,9 +21492,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 11
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40-4
 Ayat (l)
 
 Yang dimaksud dengan "lingkungan Rumah Susun" adalah sebidang tanah dengan batas-batas yang jelas yang di atasnya dibangun Rumah Susun, termasuk prasarana, sarana, dan utilitas umum yang secara keseluruhan merupakan kesatuan tempat permukiman.
@@ -22037,21 +21520,15 @@ Ayat (4)
 Cukup jelas.
 
 Angka 12
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43-4
 Cukup jelas.
 
 Angka 13
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54-5
 Cukup jelas.
 
 Angka 14
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56-2
 Ayat (1)
 
 Yang dimaksud dengan "pemeliharaan" adalah kegiatan menjaga keandalan bangunan gedung beserta prasarana dan sarananya agar selalu laik fungsi.
@@ -22079,7 +21556,8 @@ Cukup jelas.
 Angka 15
 
 ```
-Pasal 67 Cukup jelas. Angka 16 Pasal 72 Dihapus. Angka 17 Pasal 73 Dihapus. Angka 18 Pasal 107 Cukup jelas. Angka 19 Pasal 108 Cukup jelas. Angka 2O Pasal 11O Dihapus. Angka2L Pasal 112 Dihapus. AngJra22 Pasal 113 Cukup jelas.
+#### Pasal 67 ^penjelasan-pasal-67
+Cukup jelas. Angka 16 Pasal 72 Dihapus. Angka 17 Pasal 73 Dihapus. Angka 18 Pasal 107 Cukup jelas. Angka 19 Pasal 108 Cukup jelas. Angka 2O Pasal 11O Dihapus. Angka2L Pasal 112 Dihapus. AngJra22 Pasal 113 Cukup jelas.
 ```
 
 <!-- image -->
@@ -22098,19 +21576,19 @@ Hurufc . . .
 
 <!-- image -->
 
-## Huruf c
+**Huruf c**
 
 Pelatihan tenaga kerja konstruksi strategis dan percontohan antara lain pemberian pelatihan bagr penerapan teknologi, metode, dan standar kompetensi baru.
 
-## Huruf d
+**Huruf d**
 
 Cukup jelas.
 
-## Huruf e
+**Huruf e**
 
 Standar remunerasi minimal ditetapkan dengan mempertimbangkan kompleksitas dari jenis layanan profesional, biaya, risiko, dan teknologi dari penyelenggaraan Jasa Konstruksi yang terkait dengan hasil layanan profesional, dan/atau harga pasar yang berlaku di provinsi tempat diselenggarakannya Jasa Konstruksi.
 
-## Huruf f
+**Huruf f**
 
 Cukup jelas.
 
@@ -22167,7 +21645,8 @@ Cukup jelas.
 Angka 4
 
 ```
-Pasal 8 Cukup jelas. Angka 5 Pasal 9 Cukup jelas. Angka 6 Pasal 10 Cukup jelas. Angka 7 Pasal 2O Ayat (1) Kualifikasi usaha menentukan batasan kemampuan suatu usaha Jasa Konstruksi dalam melaksanakan Jasa Konstruksi pada saat yang bersamaan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 8 Pasal 26 Cukup jelas. Angka 9 PasaL2T
+#### Pasal 8 ^penjelasan-pasal-8-3
+Cukup jelas. Angka 5 Pasal 9 Cukup jelas. Angka 6 Pasal 10 Cukup jelas. Angka 7 Pasal 2O Ayat (1) Kualifikasi usaha menentukan batasan kemampuan suatu usaha Jasa Konstruksi dalam melaksanakan Jasa Konstruksi pada saat yang bersamaan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 8 Pasal 26 Cukup jelas. Angka 9 PasaL2T
 ```
 
 ```
@@ -22189,7 +21668,8 @@ Angka 18
 ```
 
 ```
-Pasal 38 Ayat (1) Cukup jelas. Ayat (2) Ayat (3) Cukup jelas. Angka 19 Pasal 42 Dihapus. Angka 20 Pasal 44 Cukup jelas. Angka 21 Pasal 57 Dihapus. Ang)<a 22 Pasal 58 Dihapus. Angka 23 Pasal 59 Cukup jelas. Penyelenggaraan usaha Jasa Konstruksi yang dikerjakan sendiri merupakan kegiatan yang pekerjaannya direncanakan, dikerjakan, dan/atau diawasi sendiri oleh pemerintah sebagai penanggung jawab anggaran, dan/ atau kelompok masyarakat.
+#### Pasal 38 ^penjelasan-pasal-38-4
+Ayat (1) Cukup jelas. Ayat (2) Ayat (3) Cukup jelas. Angka 19 Pasal 42 Dihapus. Angka 20 Pasal 44 Cukup jelas. Angka 21 Pasal 57 Dihapus. Ang)<a 22 Pasal 58 Dihapus. Angka 23 Pasal 59 Cukup jelas. Penyelenggaraan usaha Jasa Konstruksi yang dikerjakan sendiri merupakan kegiatan yang pekerjaannya direncanakan, dikerjakan, dan/atau diawasi sendiri oleh pemerintah sebagai penanggung jawab anggaran, dan/ atau kelompok masyarakat.
 ```
 
 <!-- image -->
@@ -22197,9 +21677,8 @@ Pasal 38 Ayat (1) Cukup jelas. Ayat (2) Ayat (3) Cukup jelas. Angka 19 Pasal 42 
 ```
 Angka24
 ```
-
-Pasal 69 Cukup jelas. Angka 25 Pasal T2 Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "tanda daftar pengalaman profesional" adalah dokumen yang memuat dan menjelaskan pengalaman tenaga kerja konstruksi yang telah didaftarkan secara resmi kepada pemerintah. Ayat (3) Cukup jelas. Angka 26 Pasal 74 Dihapus. Angka2T Pasal 84
-
+#### Pasal 69 ^penjelasan-pasal-69-3
+Cukup jelas. Angka 25 Pasal T2 Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "tanda daftar pengalaman profesional" adalah dokumen yang memuat dan menjelaskan pengalaman tenaga kerja konstruksi yang telah didaftarkan secara resmi kepada pemerintah. Ayat (3) Cukup jelas. Angka 26 Pasal 74 Dihapus. Angka2T Pasal 84
 ```
 Ayat (1)
 ```
@@ -22243,9 +21722,7 @@ Ayat (7)
 Pengaturan pembentukan lembaga antara lain tata cara pemilihan pengurus, masa bakti, tugas pokok dan fungsi, mekanisme kerja lembaga.
 
 Angka 28
-
-Pasal 89
-
+#### Pasal 89 ^penjelasan-pasal-89-2
 Cukup jelas.
 
 <!-- image -->
@@ -22253,15 +21730,13 @@ Cukup jelas.
 -t77- Angka 29
 
 <!-- image -->
+#### Pasal 53 ^penjelasan-pasal-53-5
 
-Pasal 53
-
-Pasal 92 Dihapus. Angka 30 Pasal 96 Cukup jelas. Angka 31 Pasal 99 Cukup jelas. Angka 32 Pasal 101 Dihapus. Angka 33 Pasal 102 Cukup jelas. Angka I Pasal 8 Cukup jelas. Angka 2 Pasal 9 Cukup jelas. Angka 3 Pasal 12 Cukup jelas. Angka 4 Pasal 17 Cukup jelas. Angka 5 Pasal 19 Cukup jelas.
-
+#### Pasal 92 ^penjelasan-pasal-92-3
+Dihapus. Angka 30 Pasal 96 Cukup jelas. Angka 31 Pasal 99 Cukup jelas. Angka 32 Pasal 101 Dihapus. Angka 33 Pasal 102 Cukup jelas. Angka I Pasal 8 Cukup jelas. Angka 2 Pasal 9 Cukup jelas. Angka 3 Pasal 12 Cukup jelas. Angka 4 Pasal 17 Cukup jelas. Angka 5 Pasal 19 Cukup jelas.
 Angka 6
-
-Pasal 38 Cukup jelas. Angka 7 Pasal 40 Cukup jelas. Angka 8 Pasal 4OA Ayat (1) Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Angka 9 Pasal 43 Cukup jelas. Angka 1O Pasal 44 Cukup jelas. Angka 11 Pasal 45 Cukup jelas.
-
+#### Pasal 38 ^penjelasan-pasal-38-5
+Cukup jelas. Angka 7 Pasal 40 Cukup jelas. Angka 8 Pasal 4OA Ayat (1) Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Angka 9 Pasal 43 Cukup jelas. Angka 1O Pasal 44 Cukup jelas. Angka 11 Pasal 45 Cukup jelas.
 <!-- image -->
 
 ```
@@ -22271,9 +21746,7 @@ Yang dimaksud dengan "pengalihan alur sungai'
 adalah kegiatan mengalihkan alur sungai dengan cara membuat alur sungai baru yang mengakibatkan alur sungai yang dialihkan tidak berfungsi secara permanen.
 
 Angka 12
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49-7
 Cukup jelas.
 
 Angka 13
@@ -22283,21 +21756,15 @@ Pasal 5O
 Cukup jelas.
 
 Angka 14
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51-4
 Cukup jelas.
 
 Angka 15
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52-5
 Cukup jelas.
 
 Angka 16
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56-3
 Cukup jelas.
 
 Angka 17
@@ -22307,9 +21774,7 @@ Pasal 7O
 Cukup jelas.
 
 Angka 18
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73-2
 Cukup jelas.
 
 Angka 19
@@ -22319,17 +21784,11 @@ Pasal 75A
 Cukup jelas.
 
 Cukup jelas.
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55-2
 Angka 1
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19-5
 Cukup jelas.
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54-6
 <!-- image -->
 
 <!-- image -->
@@ -22338,7 +21797,7 @@ Pasal 54
 Angka 2 Pasal 36 Cukup jelas. Angka 3 Pasal 38 Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "fasilitas utama" adalah jalur keberangkatan, jalur kedatangan, ruang tunggu penumpang, tempat naik turun penumpang, tempat parkir kendaraan, papan informasi, kantor pengendali terminal, dan loket. Yang dimaksud dengan "fasilitas penunjang" antara lain adalah fasilitas untuk penyandang disabilitas, fasilitas kesehatan, fasilitas umum, fasilitas peribadatan, pos kesehatan, pos polisi, dan alat pemadam kebakaran. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Angka 4 Pasal 39 Ayat (1) Yang dimaksud dengan "lingkungan kerja Terminal" adalah lingkungan yang berkaitan langsung dengan fasilitas Terminal dan dibatasi dengan pagar. Ayat (2) Cukup jelas.
 ```
 
-## Ayat (s)
+**Ayat (s)**
 
 Yang dimaksud dengan swasta termasuk usaha mikro, kecil, dan menengah.
 
@@ -22348,7 +21807,7 @@ Angka 5 Pasal 4O Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan swasta term
 
 <!-- image -->
 
-## Angka 7
+**Angka 7**
 
 ```
 Pasal 5O Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan swasta termasuk usaha mikro, kecil, dan menengah. Ayat (s) Cukup jelas. Angka 8 Pasal 53 Cukup jelas. Angka 9 Pasal 6O Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "mempunyai kualitas tertentu" adalah bengkel umum yang mampu melakukan jenis pekerjaan Perawatan Berkala, perbaikan kecil, perbaikan besar, serta perbaikan sasis dan bodi. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas.
@@ -22356,10 +21815,11 @@ Pasal 5O Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan swasta termasuk usa
 
 <!-- image -->
 
-## Angka 10
+**Angka 10**
 
 ```
-Pasal 78 Cukup jelas. Angka 11 Pasal 99 Ayat (1) Ayat (2) Angka 12 Pasal 100 Dihapus. Angka 13 Pasal 101 Dihapus. Angka 14 Pasal 126 Cukup jelas.
+#### Pasal 78 ^penjelasan-pasal-78
+Cukup jelas. Angka 11 Pasal 99 Ayat (1) Ayat (2) Angka 12 Pasal 100 Dihapus. Angka 13 Pasal 101 Dihapus. Angka 14 Pasal 126 Cukup jelas.
 ```
 
 <!-- image -->
@@ -22370,10 +21830,9 @@ Yang dimaksud dengan "pembangunan pusat kegiatan, permukiman, dan infrastmktur" 
 Cukup jelas.
 ```
 
-## Angka 15
-
-Pasal 162 Cukup jelas. Angka 16 Pasal 165 Ayat (1) Yang dimaksud dengan uangkutan multimoda" adalah angkutan barang dengan menggunakan paling sedikit 2 (dua) moda angkutan yang berbeda atas dasar 1 (satu) kontrak yang menggunakan dokumen angkutan multimoda dari 1 (satu) tempat penerimaan barang oleh operator angkutan multimoda ke suatu tempat yang ditentukan untuk penyerahan barang tersebut. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 17 Pasal 170 Ayat (1) Yang dimaksud dengan ulokasi tertentu" adalah tempat pengawasan angkutan barang yang dilakukan secara efektif dan efisien. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4)
-
+**Angka 15**
+#### Pasal 162 ^penjelasan-pasal-162-2
+Cukup jelas. Angka 16 Pasal 165 Ayat (1) Yang dimaksud dengan uangkutan multimoda" adalah angkutan barang dengan menggunakan paling sedikit 2 (dua) moda angkutan yang berbeda atas dasar 1 (satu) kontrak yang menggunakan dokumen angkutan multimoda dari 1 (satu) tempat penerimaan barang oleh operator angkutan multimoda ke suatu tempat yang ditentukan untuk penyerahan barang tersebut. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 17 Pasal 170 Ayat (1) Yang dimaksud dengan ulokasi tertentu" adalah tempat pengawasan angkutan barang yang dilakukan secara efektif dan efisien. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4)
 Cukup jelas.
 
 <!-- image -->
@@ -22405,9 +21864,7 @@ Angka 5 Pasal 32A Cukup jelas. Angka 6 Pasal 33 Cukup jelas. Angka 7 Pasal 33A C
 ```
 Angka 13 Pasal 116A Cukup jelas. Pasal 116E} Cukup jelas. Angka 14 Pasal 135 Cukup jelas. Angka 15 Pasal 168 Cukup jelas. Angka 16 Pasal 185A Cukup jelas. Angka 17 Pasal 188 Cukup jelas. Angka 18 Pasal 190 Cukup jelas. Angka 19 Pasal 191 Cukup je1as.
 ```
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57-2
 <!-- image -->
 
 Angka 20 Pasal 195 Cukup jelas. Angka 21 Pasal 196 Cukup jelas. Angka22 Pasal 203 Cukup jelas. Angka 23 Pasal 2O4 Cukup jelas. Angka24 Pasal 210 Cukup jelas. Angka 1 Pasal 5 Ayat (1)
@@ -22418,10 +21875,8 @@ Yang dimaksud dengan "dikuasai oleh negara" yaitu bahwa negara mempunyai hak pen
 
 Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
 
-## Angka 2
-
-Pasal 9
-
+**Angka 2**
+#### Pasal 9 ^penjelasan-pasal-9-4
 Ayat (1)
 
 Yang dimaksud dengan "intramoda" meliputi angkutan laut dalam negeri, angkutan laut luar negeri, angkutan laut khusus, dan angkutan pelayaran-ralryat.
@@ -22440,7 +21895,7 @@ Ayat (3)
 
 Yang dimaksud dengan "jaringan Trayel* adalah kumpulan dari Trayek yang menjadi satu kesatuan pelayanan angkutan penumpang dan/ atau barang dari satu Pelabuhan ke Pelabuhan lainnya.
 
-## Ayat (4)
+**Ayat (4)**
 
 Penyusunan jaringan Trayek tetap dan teratur dimaksudkan untuk memberikan kepastian hukum dan usaha kepada pengguna jasa dan penyedia jasa angkutan laut.
 
@@ -22453,9 +21908,7 @@ Ayat (s)
 Cukup jelas.
 
 Angka 3
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13-5
 Ayat (1)
 
 Termasuk dalam kegiatan Angkutan Laut Khusus antara lain kegiatan angkutan yang dilakukan oleh usaha bidang industri, pariwisata, pertambangan, pertanian serta kegiatan khusus seperti penelitian, pengerukan, kegiatan sosial, dan sebagainya, serta tidak melayani pihak lain dan tidak mengangkut barang umum.
@@ -22480,10 +21933,8 @@ Cukup jelas.
 
 Angka5...
 
-## Angka 5
-
-Pasal 27
-
+**Angka 5**
+#### Pasal 27 ^penjelasan-pasal-27-2
 Kewajiban pemenuhan Perizinan Berusaha dalam melakukan kegiatan Angkutan di Perairan dimaksudkan sebagai alat pembinaan, pengendalian, dan pengawasan Angkutan di Perairan untuk memberikan kepastian usaha dan perlindungan hukum bagi penyedia dan pengguna jasa.
 
 Angka 6 Pasal 28 Cukup jelas. Angka 7 Pasal 30 Dihapus. Angka 8 Pasal 31 Cukup jelas. Angka 9 Pasal 32 Cukup jelas. Angka 10 Pasal 33 Cukup jelas. Angka 11 Pasal 34 Cukup jelas.
@@ -22491,9 +21942,8 @@ Angka 6 Pasal 28 Cukup jelas. Angka 7 Pasal 30 Dihapus. Angka 8 Pasal 31 Cukup j
 <!-- image -->
 
 Angka 12
-
-Pasal 51 Cukup jelas. Angka 13 Pasal 52 Cukup jelas. Angka 14 Pasal 59 Cukup jelas. Angka 15 Pasal 90 Cukup jelas. Angka 16 Pasal 91 Ayat (l) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
-
+#### Pasal 51 ^penjelasan-pasal-51-5
+Cukup jelas. Angka 13 Pasal 52 Cukup jelas. Angka 14 Pasal 59 Cukup jelas. Angka 15 Pasal 90 Cukup jelas. Angka 16 Pasal 91 Ayat (l) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
 Ayat (4)
 
 Yang dimaksud dengan "dalam keadaan tertentu" adalah apabila ternyata terdapat Badan Usaha Pelabuhan yang mampu memanfaatkan Terminal dan fasilitas Pelabuhan lainnya untuk melayani kegiatan yang memberikan manfaat komersial.
@@ -22511,18 +21961,14 @@ Angka 17 Pasal 96 Cukup jelas. Angka 18 Pasal 97 Cukup jelas. Angka 19 Pasal 98 
 ```
 
 Angka24
-
-Pasal 107
-
+#### Pasal 107 ^penjelasan-pasal-107
 Dihapus.
 
 Angka 25
-
-Pasal 111
-
+#### Pasal 111 ^penjelasan-pasal-111-2
 Cukup jelas.
 
-## Angka26
+**Angka26**
 
 Pasal L24
 
@@ -22537,9 +21983,7 @@ Yang dimaksud dengan uperlengkapan Kapal" adalah bagian yang termasuk dalam perl
 Yang dimaksud dengan "ketentuan standar internasional' adalah berpedoman pada antara lain Safetg of Life at Sea (SOLAS) Conuention, I 974 beserta peraturan pelaksanaannya.
 
 Angka2T
-
-Pasal 125
-
+#### Pasal 125 ^penjelasan-pasal-125
 Ayat (1)
 
 Cukup jelas.
@@ -22554,10 +21998,8 @@ Ayat (3)
 
 Cukup jelas.
 
-## Angka 28
-
-Pasal 126
-
+**Angka 28**
+#### Pasal 126 ^penjelasan-pasal-126-2
 Ayat (l)
 
 Sertifikat keselamatan diberikan kepada semua jenis Kapal ukuran GT 7 (tujuh Gross Tonnage) atau iebih kecuali:
@@ -22575,7 +22017,7 @@ Jenis sertifikat keselamatan Kapal penumpang antara lain:
 - 1) sertifikat keselamatan Kapal penumpang (meliputi keselamatan konstruksi perlengkapan, dan radio kapal); dan
 - 2) sertifikat pembebasan (sertifikat yang memperbolehkan bebas dari beberapa persyaratan yang harus dipenuhi).
 
-## Huruf b
+**Huruf b**
 
 Jenis sertilikat keselamatan Kapal barang sesuai dengan Safetg of Life at Sea (SOLAS) Conuention, 1974 arrtara lain:
 
@@ -22587,7 +22029,7 @@ Jenis sertilikat keselamatan Kapal barang sesuai dengan Safetg of Life at Sea (S
 
 <!-- image -->
 
-## FEPUBUK INDONESIA
+**FEPUBUK INDONESIA**
 
 ```
 Angka29
@@ -22600,28 +22042,22 @@ Pasal L27 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (s) Yang dimaksud den
 - 4) sertifikat keselamatan radio Kapal barang; dan
 - 5) sertifikat pembebasan (sertifikat yang memperbolehkan bebas dari beberapa persyaratan yang harus dipenuhi).
 
-## Huruf c
+**Huruf c**
 
 Sertifikasi kelaikan dan pengawakan Kapal penangkap ikan dilaksanakan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan.
 
 Angka 32
-
-Pasal 133
-
+#### Pasal 133 ^penjelasan-pasal-133
 Cukup jelas.
 
-## Angka 33
-
-Pasal 154
-
+**Angka 33**
+#### Pasal 154 ^penjelasan-pasal-154
 Dalam rangka percepatan kemudahan berusaha, proses
 
 pengukuran, pendaftaran, dan penetapan kebangsaan Kapal pada Kapal penangkap ikan dilakukan secara terintegrasi melalui pelayanan I (satu) atap. Sarana dan prasarana penyelenggaraan sistem I (satu) atap disediakan oleh Pemerintah hrsat.
 
 Angka 34
-
-Pasal 155
-
+#### Pasal 155 ^penjelasan-pasal-155
 Ayat (1)
 
 Pelaksanaan pengukuran Kapal dapat dilakukan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang perhubungan. Khusus untuk Kapal penangkap ikan, pelaksanaan pengukuran dapat dilakukan oleh kementerian yang menyelenggarakan pemerintahan di bidang perikanan berdasarkan kompetensi, standar, dan prosedur yang ditetapkan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang perhubungan.
@@ -22639,17 +22075,13 @@ Ayat (4)
 Cukup jelas.
 
 Angka 35
-
-Pasal 157
-
+#### Pasal 157 ^penjelasan-pasal-157
 Cukup jelas.
 
 <!-- image -->
 
-## Angka 35
-
-Pasal 158
-
+**Angka 35**
+#### Pasal 158 ^penjelasan-pasal-158
 Ayat (1)
 
 Cukup jelas.
@@ -22664,7 +22096,7 @@ Yang dimaksud dengan "pendaftaran Kapal,' adalah pendaftaran hak milik atas Kapa
 
 Selain memenuhi ketentuan pendaftaran Kapal, yang merupakan persyaratan untuk menerbitkan surat tanda kebangsaan Kapal Indonesia bagi Kapal yang mengilrarkan bendera Indonesia sebagai bendera kebangsaan sebagaimana dimaksud dalam UndangUndarrg ini, pemilik Kapal penangkap ikan wajib memenuhi ketentuan atau persyaratan pendaftaran Kapal penangkap ikan sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai pendaftaran Kapal penangkap ikan.
 
-## Ayat (4)
+**Ayat (4)**
 
 Yang dimaksud dengan "grosse akta pendaftaran" adalah salinan resmi dari minut (asli dari akta pendaftaran).
 
@@ -22681,13 +22113,13 @@ b piotoal of deiiuery and aceptanca
 
 <!-- image -->
 
-## Ayat (s)
+**Ayat (s)**
 
 Yang dimaksud dengan "tanda pendaftaran" merupakan rangkaian angka dan huruf yang terdiri atas angka tahun pendaftaran, kode pengukuran dari tempat Kapal didaftarkan, nomor urut akta pendaftaran, dan kode kategori Kapal.
 
-## Contoh :
+**Contoh :**
 
-## 2008 Pst No.49991L
+**2008 Pst No.49991L**
 
 2008
 
@@ -22755,7 +22187,7 @@ Cukup jelas. Angka6l ...
 
 <!-- image -->
 
-## PRES'DEN BLIK IN
+**PRES'DEN BLIK IN**
 
 Angka 61 Pasal 307
 
@@ -22784,7 +22216,8 @@ Cukup jelas. Pasal 58...
 <!-- image -->
 
 ```
-Pasal 58 Angka 1 Pasal 13 Cukup jelas. Angka 2 Pasal 14 Dihapus. Angka 3 Pasal 15 Cukup jelas. Angka 4 Pasal 16 Cukup jelas. Angka 5 Pasal 17 Cukup jelas. Angka 6 Pasal 18 Cukup jelas. Angka 7 Pasal 19 Cukup jelas.
+#### Pasal 58 ^penjelasan-pasal-58-2
+Angka 1 Pasal 13 Cukup jelas. Angka 2 Pasal 14 Dihapus. Angka 3 Pasal 15 Cukup jelas. Angka 4 Pasal 16 Cukup jelas. Angka 5 Pasal 17 Cukup jelas. Angka 6 Pasal 18 Cukup jelas. Angka 7 Pasal 19 Cukup jelas.
 ```
 
 Angka 8 Pasal 20 Dihapus.
@@ -22805,11 +22238,11 @@ Angka 15 Pasal 33 Dihapus.
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESTA
+**PRESIDEN REPUBLTK INDONESTA**
 
 <!-- image -->
 
-## FRESIDEN REPUBUK INDONESIA
+**FRESIDEN REPUBUK INDONESIA**
 
 ```
 Angka 16 Pasal 37 Cukup jelas. Angka 17 Pasal 40 Cukup jelas. Angka 18 Pasal 41 Cukup jelas. Angka 19 Pasal 42 Dihapus. Angka 20 Pasal 43 Dihapus. Angka2l Pasal 45 Cukup jelas. Angka22 Pasal 46 Cukup jelas.
@@ -22820,7 +22253,8 @@ Angka 23
 ```
 
 ```
-Pasal 47 Huruf a Cukup jelas. Huruf b Cukup jelas. Hurrf c Personel pemegang Lisensi ahli perawatan Pesawat
+#### Pasal 47 ^penjelasan-pasal-47-3
+Huruf a Cukup jelas. Huruf b Cukup jelas. Hurrf c Personel pemegang Lisensi ahli perawatan Pesawat
 ```
 
 Udara yang dimaksud dalam ketentuan ini hanya dapat melakukan perawatan Pesawat Udara untuk perusahaan Angkutan Udara Bukan Niaga yang berkapasitas penumpang kurang dari 9 (sembilan) orang.
@@ -22832,9 +22266,7 @@ Angka24 Pasal 48 Dihapus. Angka 25 Pasal 49 Cukup jelas. Angka26 Pasal 50 Cukup 
 <!-- image -->
 
 Angka 28
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58-3
 Ayat (1)
 
 Personel Pesawat Udara meliputi personel operasi Pesawat Udara, personel penunjang operasi Pesawat Udara, dan personel perawatan Pesawat Udara.
@@ -22865,12 +22297,10 @@ Angka29 Pasal 60 Cukup jelas. Angka 30 Pasal 61 Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESTA
+**PRESIDEN REPUBUK TNDONESTA**
 
-## Angka 31
-
-Pasal 63
-
+**Angka 31**
+#### Pasal 63 ^penjelasan-pasal-63-2
 Ayat (1)
 
 Cukup jelas.
@@ -22903,9 +22333,7 @@ Ayat (6)
 Cukup jelas.
 
 Angka 32
-
-Pasal 64
-
+#### Pasal 64 ^penjelasan-pasal-64
 Dihapus.
 
 <!-- image -->
@@ -22922,10 +22350,11 @@ Angka 33 Pasal 66 Cukup jelas. Angka 34 Pasal 67 Ayat (1) Cukup jelas. Ayat (2) 
 Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 37 Pasal 91 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "keadaan tertentu,, adalah keadaan tidak terpenuhi atau tidak terlayaninya permintaan jasa Angkutan Udara oleh Badan Usaha Angkutan Udara niaga berjadwal pada rute tertentu. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Angka 38 Pasal 93 Cukup jelas. Angka 39 Pasal 94 Cukup jelas. Angka 40 Pasal 95 Cukup jelas.
 ```
 
-## Angka 41
+**Angka 41**
 
 ```
-Pasal 96 Cukup jelas. Angka 42 Pasal 97 Ayat (1) Huruf a Ayat (2) Cukup jelas. Yang dimaksud dengan "pelayanan dengan standar maksimum" antara lain, pemberian makan dan minum, makanan ringan, dan fasilitas ruang tunggu eksekutif (lounge) un1otk kelas bisnis (business class) dan kelas utama (first class). Huruf b Yang dimaksud dengan "pelayanan dengan standar menengah" antara lain, pemberian makanan ringan, dan fasilitas lain ruang tunggu eksekutif untuk penumpang kelas ekonomi tertentu. Huruf c Yang dimaksud dengan "pelayanan dengan standar minimum" antara lain, hanya ada 1 (satu) kelas pelayanan, tanpa pemberian makan dan minum, makanan ringan, fasilitas ruang tunggu eksekutif, dan dikenakan biaya untuk bagasi tercatat. Angka 43 Pasal 99 Dihapus.
+#### Pasal 96 ^penjelasan-pasal-96-3
+Cukup jelas. Angka 42 Pasal 97 Ayat (1) Huruf a Ayat (2) Cukup jelas. Yang dimaksud dengan "pelayanan dengan standar maksimum" antara lain, pemberian makan dan minum, makanan ringan, dan fasilitas ruang tunggu eksekutif (lounge) un1otk kelas bisnis (business class) dan kelas utama (first class). Huruf b Yang dimaksud dengan "pelayanan dengan standar menengah" antara lain, pemberian makanan ringan, dan fasilitas lain ruang tunggu eksekutif untuk penumpang kelas ekonomi tertentu. Huruf c Yang dimaksud dengan "pelayanan dengan standar minimum" antara lain, hanya ada 1 (satu) kelas pelayanan, tanpa pemberian makan dan minum, makanan ringan, fasilitas ruang tunggu eksekutif, dan dikenakan biaya untuk bagasi tercatat. Angka 43 Pasal 99 Dihapus.
 ```
 
 Angka44 . ..
@@ -22942,7 +22371,7 @@ Angka5O...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 Angka 50 Pasal 114
 
@@ -22962,13 +22391,13 @@ Angka 58 Pasal 137 Cukup jelas. Angka 59 Pasal 138 Cukup jelas. Angka 60 Pasal 1
 Angka 66 Pasal 222 Cukup jelas. Angka6T Pasd224 Cukup jelas. Angka 68 Pasal 225 Cukup jelas. Angka 69 Pasal 233 Cukup jelas. Angka 70 Pasa1237 Cukup jelas. Angka 71 Pasal 238 Cukup jelas. AngkaT2 Pasal242 Cukup jelas. Angka 73 Pasal 247 Cukup jelas.
 ```
 
-## AngkaT4
+**AngkaT4**
 
 PasaT 249
 
 Yang dimaksud dengan "keadaan tertentu", antara lain, untuk tujuan medical euacuation dan penanganan bencana.
 
-## Angka 75
+**Angka 75**
 
 Pasal 25O
 
@@ -22989,11 +22418,11 @@ Angka 79 Pasal 255 Cukup jelas. Angka 80 Pasal 275 Ayat (1) Cukup jelas. Ayat (2
 
 Yang dimalsud dengan "unit pelayanan Navigasi Penerbangan di Bandar Udara" terdiri atas pelayanan Aerodrome oleh personel pemandu (Aerodrome contro\, pelayanan komunikasi Penerbangan (aeronautical Jlight information seruicesl, dan pelayanan Aerodrome tanpa personel pemandu (unattendedl.
 
-## Huruf b
+**Huruf b**
 
 Yang dimaksud dengan "unit pelayanan navigasi pendekatan" adalah unit pelayanan Navigasi Penerbangan pada kawasan pendekatan kedatangan (standard arriual route) dan keberangkatan (standard instntment departurel.
 
-## Huruf c
+**Huruf c**
 
 Yang dimaksud dengan "unit pelayanan Navigasi Penerbangan jelajah' adalah unit pelayanan lalu lintas Penerbangan terkendali yang diberikan kepada Pesawat Udara yang mendapatkan persetujuan dari personel pemandu lalu lintas Penerbangan (air traffic control clearancel, pelayanan informasi Penerbangan Wight information seruicel, dan pelayanan kesiagaan (alerting seruice).
 
@@ -23043,16 +22472,17 @@ Cukup jelas.
 Angka 86 Pasal 389 Cukup jelas. Angka 87 Pasal 392 Cukup jelas. Angka 88 Pasal 409 Cukup jelas. Angka 89 Pasal 414 Cukup jelas. Angka 90 Pasal 416 Cukup jelas. Angka 9l Pasal 418 Cukup jelas. Angka92 Pasal 423 Cukup jelas. Angka 93 Pasal 426 Cukup jelas. Angka 94 Pasal 427 Cukup jelas. Angka 95 Pasal 428 Cukup jelas. Pasal 59 Cukup jelas. Pasal 60 Angka 1 Pasal 30 Ayat (1) Cukup jelas.
 ```
 
-## Ayat (2)
+**Ayat (2)**
 
 Huruf a Yang dimaksud dengan "pelayanan kesehatan tingkat pertama" adalah pelayanan kesehatan yang diberikan oleh fasilitas pelayanan kesehatan dasar. Huruf b Yang dimaksud dengan "pelayanan kesehatan tingkat kedua" adalah pelayanan kesehatan yang diberikan oleh fasilitas pelayanan kesehatan spesialistik. Huruf c Yang dimaksud dengan "pelayanan kesehatan tingkat ketiga" adalah pelayanan kesehatan yang diberikan oleh fasilitas pelayanan kesehatal sub spesialistik. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka2 Pasal 35 Cukup jelas. Angka 3 Pasal 60 Ayat (1) Yang dimaksud dengan "alat dan teknologi" dalam ketentuan ini adalah yang tidak bertentangan dengan tindakan pengobatan tradisional yang dilakukan. Ayat (2) Cukup jelas.
 
 <!-- image -->
 
-## Angka 4
+**Angka 4**
 
 ```
-Pasal 106 Ayat (1) Yarrg dimaksud dengan "Sediaan Farmasi" adalah Obat, bahan Obat, Obat Tradisional, dan kosmetik. Termasuk dalam Sediaan Farmasi adalah suplemen kesehatan dan Obat kuasi. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 5 Pasal 111 Ayat (1) Yang dimaksud dengan "standar" antara lain terkait dengan pemberian tanda atau label yang berisi: a. nama produk; b. daftar bahan yang digunakan; c. berat bersih atau isi bersih; d. nama dan alamat pihak yang memproduksi atau memasukkan makanan dan minuman ke dalam wilayah Indonesia; dan e. tanggal, bulan, dan tahun kadaluwarsa. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
+#### Pasal 106 ^penjelasan-pasal-106-2
+Ayat (1) Yarrg dimaksud dengan "Sediaan Farmasi" adalah Obat, bahan Obat, Obat Tradisional, dan kosmetik. Termasuk dalam Sediaan Farmasi adalah suplemen kesehatan dan Obat kuasi. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 5 Pasal 111 Ayat (1) Yang dimaksud dengan "standar" antara lain terkait dengan pemberian tanda atau label yang berisi: a. nama produk; b. daftar bahan yang digunakan; c. berat bersih atau isi bersih; d. nama dan alamat pihak yang memproduksi atau memasukkan makanan dan minuman ke dalam wilayah Indonesia; dan e. tanggal, bulan, dan tahun kadaluwarsa. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
 ```
 
 <!-- image -->
@@ -23087,9 +22517,9 @@ Hurufo . . .
 
 <!-- image -->
 
-## PRESTOEN REPUEUK INDONESIA
+**PRESTOEN REPUEUK INDONESIA**
 
-## Huruf o
+**Huruf o**
 
 Rumah Sakit dibangun serta dilengkapi dengan sarana, prasarana dan peralatan yang dapat difungsikan serta dipelihara sedemikian rupa untuk mendapatkan keamanan, mencegah kebakaran atau bencana dengan terjaminnya keamanan, kesehatan dan keselamatan Pasien, petugas, pengunjung, dan lingkungan Rumah Sakit.
 
@@ -23132,13 +22562,12 @@ Ayat (21 Yang dimaksud dengan "dalam keadaan tertentu" dalam ketentuan ini adala
 Angka 8 Pasal 26 Cukup jelas. Angka 9 Pasal 36 Cukup jelas. Angka 10 Pasal 39 Ayat (1) Ayat (21 Yang dimaksud dengan "Industri Farmasi" adalah Industri Farmasi tertentu yang telah memiliki izin khusus untuk menyalurkan Narkotika. Yang dimaksud dengan uPedagang Besar Farmasi" adalah Pedagang Besar Farmasi tertentu yang telah memiliki izin khusus untuk menyalurkan Narkotika. Ketentuan ini menegaskan bahwa Perizinan Berusaha bagi sarana penyimpanan Sediaan Farmasi pemerintah diperlukan sepanjang surat keputusan pendirian sarana penyimpanan Sediaan Farmasi tersebut tidak dikeluarkan oleh Kepala Badan Pengawas Obat dan Makanan. Ayat (3) Cukup jelas.
 
 ```
-Pasal 64 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 14 Cukup jelas.
+#### Pasal 64 ^penjelasan-pasal-64-2
+Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 14 Cukup jelas.
 ```
 
-## Angka 3
-
-Pasal 15
-
+**Angka 3**
+#### Pasal 15 ^penjelasan-pasal-15-7
 Ayat (1)
 
 Cukup jelas.
@@ -23147,22 +22576,16 @@ Ayat (2)
 
 Yang dimaksud dengan "untuk keperluan lain,, adalah penggunaan kelebihan Produksi pangan selain untuk konsumsi, antara lain, untuk pakan, bahan baku energi, industri, dan/ atau ekspor.
 
-## Angka 4
-
-Pasal 36
-
+**Angka 4**
+#### Pasal 36 ^penjelasan-pasal-36-4
 Cukup jelas.
 
 Angka 5
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39-4
 Usaha tani meliputi peningkatan produksi, kesejahteraan Petani, Nelayan, Pembudi Daya Ikan, dan Pelalu Usaha Pangan skala mikro dan kecil.
 
-## Angka 6
-
-Pasal 68
-
+**Angka 6**
+#### Pasal 68 ^penjelasan-pasal-68
 Ayat (1)
 
 Yang dimaksud dengan "rantai Pangan" adalah urutan tahapan dan operasi di dalam produksi, pengolahan, distribusi, penyimpanan, dan penanganan suatu Pangan dan bahan bakunya mulai dari produksi hingga konsumsi, termasuk bahan yang berhubungan dengan Pangan hingga Pangan siap dikonsumsi.
@@ -23198,15 +22621,11 @@ Yang dimaksud dengan "Pangan Olahan tertentu" adalah Pangan Olahan yang dibuat o
 <!-- image -->
 
 Angka 20
-
-Pasal 141
-
+#### Pasal 141 ^penjelasan-pasal-141
 Cukup jelas.
 
 Angka 21
-
-Pasal 142
-
+#### Pasal 142 ^penjelasan-pasal-142
 Cukup jelas.
 
 Ayat (1)
@@ -23224,9 +22643,7 @@ Ketentuan izin untuk satuan pendidikan tetap mengikuti ketentuan peraturan perun
 5. Undang-Undang Nomor 18 Tahun 2Ol9 tentang Pesantren.
 
 Undang-Undang . . .
-
-## Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65-2
 <!-- image -->
 
 <!-- image -->
@@ -23249,19 +22666,19 @@ Angka 4 Pasal 78 Cukup jelas. Angka 5 Pasal 79 Dihapus. Pasal 67 Angka 1 Pasal 1
 
 <!-- image -->
 
-## Huruf d
+**Huruf d**
 
 Yang dimaksud dengan "usaha jasa perjalanan Wisata" adalah usaha biro perjalanan Wisata dan usaha agen perjalanan Wsata. Usaha biro perjalanan Wisata meliputi usaha penyediaan jasa perencanaan perjalanan dan/atau jasa pelayanan dan penyelenggaraan Pariwisata, termasuk penyelenggaraan perjalanan ibadah. Usaha agen perjalanan Wisata meliputi usaha jasa pemesanan sarana, seperti pemesanan tiket dan pemesanan akomodasi serta pengurusan dokumen perjalanan.
 
-## Huruf e
+**Huruf e**
 
 Yang dimaksud dengan "usaha jasa makanan dan minuman" adalah usaha jasa penyediaan makanan dan minuman yang dilengkapi dengan peralatan dan perlengkapan untuk proses pembuatan dapat berupa restoran, kafe, jasa boga, dan bar/ kedai minum.
 
-## Huruf f
+**Huruf f**
 
 Yang dimaksud dengan "usaha penyediaan akomodasi" adalah usaha yang menyediakan pelayanan penginapan yang dapat dilengkapi dengan pelayanan Pariwisata lainnya. Usaha penyediaan akomodasi dapat berupa hotel, vila, pondok wisata, bumi perkemahan, persinggahan karavan, dan akomodasi lainnya yang digunakan untuk tujuan Pariwisata.
 
-## Huruf g
+**Huruf g**
 
 Yang dimaksud dengan "usaha penyelenggaraan kegiatan hiburan dan rekreasi" adalah usaha yang ruang lingkup kegiatannya berupa usaha seni pertunjukan, arena permainan, karaoke, bioskop, serta kegiatan hiburan dan rekreasi lainnya yang bertujuan untuk Pariwisata.
 
@@ -23269,23 +22686,23 @@ Hurufh. . .
 
 <!-- image -->
 
-## Huruf h
+**Huruf h**
 
 Yang dimaksud dengan "usaha penyelenggaraan pertemuan, perjalanan insentif, konferensi, dan pameran" adalah usaha yang memberikan jasa bagi suatu pertemuan sekelompok orang, menyelenggarakan perjalanan bagi karyawan dan mitra usaha sebagai imbalan atas prestasinya, serta menyelenggarakan pameran dalam rangka menyebarluaskan informasi dan promosi suatu barang dan jasa yang berskala nasional, regional, dan internasional.
 
-## Huruf i
+**Huruf i**
 
 Yang dimaksud dengan "usaha jasa informasi Wisata" adalah usaha yang menyediakan data, berita, feature. foto, video, dan hasil penelitian mengenai Kepariwisataan yang disebarkan dalam bentuk bahan cetak dan/ atau elektronik.
 
-## Huruf j
+**Huruf j**
 
 Yang dimaksud dengan "usaha jasa konsultan Pariwisata" adalah usaha yang menyediakan saran dan rekomendasi mengenai studi kelayakan, perencanaan, pengelolaan usaha, penelitian, dan pemasaran di bidang Kepariwisataan.
 
-## Huruf k
+**Huruf k**
 
 Cukup jelas.
 
-## Huruf I
+**Huruf I**
 
 Yang dimaksud dengan "usaha Wisata tirta" adalah usaha yang menyelenggarakan wisata dan olahraga air, termasuk penyediaan sarana dan prasarana serta jasa lainnya yang dikelola secara komersial di perairan laut, pantai, sungai, danau, dan waduk.
 
@@ -23356,9 +22773,8 @@ Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cu
 ```
 
 <!-- image -->
-
-Pasal 69 Cukup jelas. Pasal 70 Angka 1 Pasal 1O Cukup jelas. Angka 2 Pasal 12 Cukup jelas. Angka 3 Pasal 13 Dihapus. Angka 4 Pasal 39 Cukup jelas. Pasal 71 Angka 1 Pasal 11 Ayat (1) Pemenuhan Perizinan Berusaha dalam Penyelenggaraan Telekomunikasi dimaksudkan sebagai upaya Pemerintah dalam rangka pembinaan untuk mendorong pertumbuhan Penyelenggaraan Telekomunikasi yang sehat. Pemerintah memublikasikan secara berkala atas daerah/wilayah yang terbuka untuk Penyelenggaraan Jaringan Telekomunikasi dan/atau Penyelenggaraan Jasa Telekomunikasi. Penyelenggaraan Telekomunikasi wajib memenuhi persyaratan yang ditetapkan dalam Perizinan Berusaha.
-
+#### Pasal 69 ^penjelasan-pasal-69-4
+Cukup jelas. Pasal 70 Angka 1 Pasal 1O Cukup jelas. Angka 2 Pasal 12 Cukup jelas. Angka 3 Pasal 13 Dihapus. Angka 4 Pasal 39 Cukup jelas. Pasal 71 Angka 1 Pasal 11 Ayat (1) Pemenuhan Perizinan Berusaha dalam Penyelenggaraan Telekomunikasi dimaksudkan sebagai upaya Pemerintah dalam rangka pembinaan untuk mendorong pertumbuhan Penyelenggaraan Telekomunikasi yang sehat. Pemerintah memublikasikan secara berkala atas daerah/wilayah yang terbuka untuk Penyelenggaraan Jaringan Telekomunikasi dan/atau Penyelenggaraan Jasa Telekomunikasi. Penyelenggaraan Telekomunikasi wajib memenuhi persyaratan yang ditetapkan dalam Perizinan Berusaha.
 <!-- image -->
 
 Ayat (2)
@@ -23366,9 +22782,7 @@ Ayat (2)
 Cukup jelas.
 
 Angka 2
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28-9
 Ayat (1)
 
 Formula sebagaimana dimaksud dalam ketentuan ini merupakan pola perhitungan untuk menetapkan besaran tarif. Formula tarif terdiri atas formula tarif awal dan formula tarif perubahan. Dalam menetapkan formula tarif awal, yang harus diperhatikan adalah komponen biaya, sedangkan untuk menetapkan formula besaran tarif perubahan diperhatikan juga antara lain faktor inflasi, kemampuan masyarakat, dan kesinambungan pembangunan Telekomunikasi.
@@ -23378,9 +22792,7 @@ Ayat (2)
 Cukup jelas.
 
 Angka 3
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30-7
 Ayat (1)
 
 Ketentuan ini dimaksudkan untuk mengatasi masalah kebutuhan Jasa Telekomunikasi di suatu daerah yang karena keadaan tertentu belum dapat dijangkau oleh Jasa Telekomunikasi. Oleh karena itu perlu memberikan kemungkinan kepada Penyelenggara Telekomunikasi khusus yang sebenarnya hanya bergerak untuk kepentingan sendiri, dapat memberikan pelayanan Jasa Telekomunikasi kepada masyarakat yang bertempat tinggal di daerah tersebut.
@@ -23396,15 +22808,11 @@ Ayat (3)
 Cukup jelas.
 
 Angka 4
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32-7
 Cukup jelas.
 
 Angka 5
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33-8
 Ayat (1)
 
 Pemberian Perizinan Berusaha terkait penggunaan spektrum frekuensi radio didasarkan pada ketersediaan spektrum frekuensi radio dan hasil analisis teknis.
@@ -23476,7 +22884,8 @@ Ayat (3)
 Cukup jelas.
 
 ```
-Pasal 73 Cukup jelas. Pasal 74 Angka 1 Pasal 11 Cukup jelas. Angka2 Pasal 2 1 Cukup jelas. Angka 3 Pasal 38 Cukup jelas. Angka 4 Pasal 52 Cukup jelas.
+#### Pasal 73 ^penjelasan-pasal-73-3
+Cukup jelas. Pasal 74 Angka 1 Pasal 11 Cukup jelas. Angka2 Pasal 2 1 Cukup jelas. Angka 3 Pasal 38 Cukup jelas. Angka 4 Pasal 52 Cukup jelas.
 ```
 
 <!-- image -->
@@ -23488,27 +22897,19 @@ Angka 5 Pasal 55 Cukup jelas. Angka 6 Pasal 56 Cukup jelas. Angka 7 Pasal 66 Cuk
 ```
 
 Angka 13
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73-4
 Cukup jelas.
 
 Angka 14
-
-Pasal 74
-
+#### Pasal 74 ^penjelasan-pasal-74-2
 Cukup jelas.
 
 Angka 15
-
-Pasal 75
-
+#### Pasal 75 ^penjelasan-pasal-75-3
 Cukup jelas.
+#### Pasal 75 ^penjelasan-pasal-75-4
 
-## Pasal 75
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15-8
 Ayat (1)
 
 Huruf a
@@ -23523,7 +22924,7 @@ Huruf c
 
 Yang dimaksud dengan "penyakit masyarakat'' antara lain pengemisan dan pergelandangan, pelacuran, perjudian, penyalahgunaan obat dan narkotika, pemabukan, perdagangan manusia, penghisapan/praktik lintah darat, dan pungutan liar. Wewenang yang dimaksud dalam ayat (1) ini dilaksanakan secara terkoordinasi dengan instansi terkait sesuai dengan ketentuan peraturan perundangundangan.
 
-## Huruf d
+**Huruf d**
 
 Yang dimaksud dengan "aliran" adalah semua aliran atau paham yang dapat menimbulkan perpecahan atau mengancam persatuan dan kesatuan bangsa antara lain aliran kepercayaan yang bertentangan dengan falsafah dasar Negara Republik Indonesia.
 
@@ -23539,7 +22940,7 @@ permintaan instansi yang berkepentingan atau permintaan masyarakat.
 
 Huruf m. . .
 
-## Huruf m
+**Huruf m**
 
 Yang dimaksud dengan "barang temuan" adalah barang yang tidak diketahui pemiliknya yang ditemukan oleh anggota Kepolisian Negara Republik Indonesia atau masyarakat yang diserahkan kepada Kepolisian Negara Republik Indonesia. Barang temuan itu harus dilindungi oleh Kepolisian Negara Republik Indonesia dengan ketentuan apabila dalam jangka waktu tertentu tidak diambil oleh yang berhak akan diselesaikan sesuai dengan ketentuan peraturan perundang-undangan. Kepolisian Negara Republik Indonesia setelah menerima barang temuan wajib segera mengumumkan melalui media cetak, media elektronik dan/ atau media pengumuman lainnya.
 
@@ -23565,27 +22966,27 @@ Huruf e . . .
 
 <!-- image -->
 
-## Huruf e
+**Huruf e**
 
 Yang dimaksud dengan "senjata tajam' dalam UndangUndang ini adalah senjata penikam, senjata penusuk, dan senjata pemukul, tidak termasuk baralg-barang yang nyata-nyata dipergunakan untuk pertanian, atau untuk pekerjaan rumah tangga, atau untuk kepentingan melakukan pekerjaan yang sah, atau nyata untuk tujuan barang pusaka, atau barang kuno, atau barang aj aib sebagaimana diatur dalam UndangUndang Nomor 12lDrtl 1951.
 
-## Huruf f
+**Huruf f**
 
 Cukup jelas.
 
-## Huruf g
+**Huruf g**
 
 Cukup jelas.
 
-## Huruf h
+**Huruf h**
 
 Yang dimaksud dengan "kejahatan internasional" adalah kejahatan tertentu yang disepakati untuk ditanggulangi antarnegara, antara lain kejahatan narkotika, uang palsu, terorisme, dan perdagangan manusia.
 
-## Huruf i
+**Huruf i**
 
 Cukup jelas.
 
-## Hurufj
+**Hurufj**
 
 Dalam pelaksanaan tugas ini Kepolisian Negara Republik Indonesia terikat oleh ketentuan hukum internasional, baik perjanjian bilateral maupun pedanjian multilateral. Dalam hubungan tersebut Kepolisian Negara Republik Indonesia dapat memberikan bantuan untuk melakukan tindakan Kepolisian atas permintaan dari negara lain, sebaliknya Kepolisian Negara Republik Indonesia dapat meminta bantuan untuk melakukan tindakan Kepolisian dari negara lain sepanjang tidak bertentangan dengan ketentuan hukum dari kedua negara. Organisasi kepolisian internasional yang dimaksud, antara lain, International Criminal Police Org anization (ICPO -Interpot). Fungsi National Central Bureau ICPO-Interpol Indonesia dilaksanakan oleh Kepolisian Negara Republik Indonesia.
 
@@ -23602,23 +23003,17 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76
 Cukup jelas.
 
 Pasal77
 
 Angka 1
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2-3
 Lingkup Penanaman Modal sebagaimana dimaksud dalam Pasal ini tidak termasuk Penanaman Modal tidak langsung atau portofolio.
 
 Angka2
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12-5
 Ayat (1)
 
 Pelaksanaan kegiatan Penanaman Modal didasarkan atas kepentingan nasional yang mencakup antara lain pelindungan sumber daya alam, pelindungan, pengembangan koperasi dan usaha mikro, kecil, dan menengah, pengawasan produksi dan distribusi, peningkatan kapasitas teknologi, partisipasi modal dalam negeri, serta kerja sama dengan badan usaha yang ditunjuk pemerintah.
@@ -23635,7 +23030,7 @@ Ayat (21
 
 Cukup jelas.
 
-## Ayat (3)
+**Ayat (3)**
 
 Persyaratan Penanaman Modal ditujukan untuk bidang usaha yang diprioritaskan oleh Pemerintah Pusat yang dituangkan dalam bentuk daftar prioritas investasi yang diatur dalam Peraturan Presiden yang meliputi antara lain:
 
@@ -23676,16 +23071,14 @@ Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i Cukup jelas. Huru
 <!-- image -->
 
 Hurufb . . .
+#### Pasal 79 ^penjelasan-pasal-79-2
 
-## Pasal 79
-
-Pasal 9
-
-## Huruf b
+#### Pasal 9 ^penjelasan-pasal-9-5
+**Huruf b**
 
 Yang termasuk dalam pengertian badan hukum Indonesia antara lain adalah Negara Republik Indonesia, badan usaha miiik negara, badan usaha milik daerah, koperasi, dan badan usaha milik swasta.
 
-## Huruf c
+**Huruf c**
 
 Badan hukum asing yang mendirikan Bank Umum terlebih dahulu harus memperoleh rekomendasi dari otoritas moneter negara asal. Rekomendasi dimaksud sekurang-kurangnya memuat keterangan badan hukum asing yang bersangkutan mempunyai reputasi yang baik dan tidak pernah melakukan perbuatan tercela di bidang Perbankan.
 
@@ -23722,7 +23115,8 @@ Ayat (3)
 Persyaratan dan tata cara kepemilikan Bank Umum Syariah oleh badan hukum asing ditetapkan oleh Otoritas Jasa Keuangan.
 
 ```
-Pasal 80 Cukup jelas. Pasal 81 Angka I Pasal 13 Ayat (1) Huruf a Yang dimaksud dengan "lembaga Pelatihan Kerja pemerintah" adalah lembaga Pelatihan Kerja yang dimiliki oleh pemerintah. Huruf b Yang dimaksud dengan "lembaga Pelatihan Kerja swasta" adalah iembaga yang dimiliki oleh swasta. Huruf c Yang dimaksud dengan "lembaga Pelatihan Kerja Perusahaan" adalah unit pelatihan yang terdapat di dalam Perusahaan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 2 Pasal 14 Cukup jelas.
+#### Pasal 80 ^penjelasan-pasal-80
+Cukup jelas. Pasal 81 Angka I Pasal 13 Ayat (1) Huruf a Yang dimaksud dengan "lembaga Pelatihan Kerja pemerintah" adalah lembaga Pelatihan Kerja yang dimiliki oleh pemerintah. Huruf b Yang dimaksud dengan "lembaga Pelatihan Kerja swasta" adalah iembaga yang dimiliki oleh swasta. Huruf c Yang dimaksud dengan "lembaga Pelatihan Kerja Perusahaan" adalah unit pelatihan yang terdapat di dalam Perusahaan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 2 Pasal 14 Cukup jelas.
 ```
 
 <!-- image -->
@@ -23760,7 +23154,8 @@ Angka 18
 ```
 
 ```
-Pasal 64 Cukup jelas. Angka 19 Pasal 65 Dihapus. Angka 20 Pasal 66 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "pengalihan pelindungan hakhak bagi Pekerja/Buruh" yaitu Perusahaan alih daya yang baru memberikan perlindungan hak-hak bagi Pekerja/Buruh minimal sama dengan hak-hak yang diberikan oleh Perusahaan alih daya sebelumnya. Yang dimaksud dengan "objek pekerjaannya tetap ada,, adalah pekerjaan yang ada pada 1 (satu) perusahaan pemberi pekerjaan yang sama. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas. Angka 21 Cukup jelas.
+#### Pasal 64 ^penjelasan-pasal-64-3
+Cukup jelas. Angka 19 Pasal 65 Dihapus. Angka 20 Pasal 66 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "pengalihan pelindungan hakhak bagi Pekerja/Buruh" yaitu Perusahaan alih daya yang baru memberikan perlindungan hak-hak bagi Pekerja/Buruh minimal sama dengan hak-hak yang diberikan oleh Perusahaan alih daya sebelumnya. Yang dimaksud dengan "objek pekerjaannya tetap ada,, adalah pekerjaan yang ada pada 1 (satu) perusahaan pemberi pekerjaan yang sama. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas. Angka 21 Cukup jelas.
 ```
 
 <!-- image -->
@@ -23857,7 +23252,7 @@ Angka 60 Pasal 168 Dihapus.
 
 <!-- image -->
 
-## PRESIDEN REFUBUK TNDONESTA
+**PRESIDEN REFUBUK TNDONESTA**
 
 ```
 Angka 61 Pasal 169 Dihapus. Angka62 Pasal 170 Dihapus. Angka 63 Pasal 171 Dihapus. Angka 64 Pasal L72 Dihapus. Angka 65 Pasal 184 Dihapus. Angka 66 Pasal 185 Cukup jelas. Angka 67 Pasal 186 Cukup jelas.
@@ -23880,7 +23275,8 @@ Pasal 46D Cukup jelas. Pasal 46E Ayat (1) Huruf a Cukup jelas. Huruf b Huruf c C
 <!-- image -->
 
 ```
-Pasal 84 Angka 1 Pasal 1 Cukup jelas Angka 2 Pasal 51 Cukup jelas. Angka 3 Pasal 53 Cukup jelas. Angka 4 Pasal 57 Cukup jelas. Angka 5 Pasal 89A Cukup jelas. Pasal 85 Cukup jelas. Pasal 86 Angka 1 Pasal 6
+#### Pasal 84 ^penjelasan-pasal-84-2
+Angka 1 Pasal 1 Cukup jelas Angka 2 Pasal 51 Cukup jelas. Angka 3 Pasal 53 Cukup jelas. Angka 4 Pasal 57 Cukup jelas. Angka 5 Pasal 89A Cukup jelas. Pasal 85 Cukup jelas. Pasal 86 Angka 1 Pasal 6
 ```
 
 Ayat (1)
@@ -23892,9 +23288,7 @@ Ayat (2)
 Cukup jelas.
 
 Angka 2
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17-6
 Ayat (1)
 
 Sebagai pemilik dan pengguna jasa Koperasi, anggota berpartisipasi aktif dalam kegiatan Koperasi. Sekalipun demikian, sepanjang tidak merugikan kepentingannya, Koperasi dapat pula memberikan pelayanan kepada bukan anggota sesuai dengan sifat kegiatan usahanya, dengan maksud untuk menarik yang bukan anggota menjadi anggota Koperasi.
@@ -23904,25 +23298,19 @@ Ayat (2)
 Buku daftar anggota Koperasi dapat berbentuk dokumen tertulis atau dokumen elektronik.
 
 Angka 3
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21-2
 Cukup jelas.
 
 Angka 4
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22-4
 Cukup jelas.
 
 <!-- image -->
 
 Angka5...
 
-## Angka 5
-
-Pasal 43
-
+**Angka 5**
+#### Pasal 43 ^penjelasan-pasal-43-5
 Ayat (1)
 
 Usaha Koperasi terutama diarahkan pada bidang usaha yang berkaitan langsung dengan kepentingan anggota baik untuk menunjang usaha maupun kesejahteraannya. Dalam hubungan ini maka pengelolaan usaha Koperasi harus dilakukan secara produktif, efektif dan elisien dalam arti pelayanan usaha yang dapat meningkatkan nilai tambah dan manfaat yang sebesar-besamya pada anggota dengan tetap mempertimbangkan untuk memperoleh sisa hasil usaha yang wajar. Untuk mencapai kemampuan usaha seperti tersebtt di atas, maka Koperasi dapat berusaha secara luwes baik ke hulu maupun ke hilir serta berbagai jenis usaha lainnya yang terkait. Adapun mengenai pelaksanaan usaha Koperasi, dapat dilakukan di mana saja, baik di dalam maupun di luar negeri, dengan mempertimbangkan kelayakan usahanya.
@@ -23974,9 +23362,7 @@ Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g
 Yang dimaksud dengan "bentuk-bentuk kemitraan lain" seperti bagi hasil, kerja sama operasional, usaha patungan $oint uenfurel, dan peny'umberluaran (outsourcingl.
 
 Angka 6
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30-8
 Cukup jelas.
 
 Angka 7
@@ -23986,9 +23372,7 @@ Pasal 32A
 Cukup jelas.
 
 Angka 8
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35-10
 Ayat (1)
 
 Yang dimaksud "memiliki" adalah adanya peralihan kepemilikan secara y'uridis atas badan usaha/perusahaan dan/atau aset atau kekayaan yang dimiliki Usaha Mikro, Kecil, dan/ atau Menengah oleh Usaha Besar sebagai mitra usahanya dalam pelaksanaan hubungan kemitraan.
@@ -23996,25 +23380,15 @@ Yang dimaksud "memiliki" adalah adanya peralihan kepemilikan secara y'uridis ata
 Ayat (21
 
 Yang dimaksud "menguasai" adalah adanya peralihan penguasaan secara yuridis atas kegiatan usaha yang dijalankan dan/atau aset atau kekayaan dimiliki Usaha Mikro, Kecil, dan/ atau Menengah oleh Usaha Besar sebagai mitra usahanya dalam pelaksanaan hubungan kemitraan.
-
-Pasal 88
-
+#### Pasal 88 ^penjelasan-pasal-88-4
 Cukup jelas.
-
-Pasal 89
-
+#### Pasal 89 ^penjelasan-pasal-89-3
 Cukup jelas
-
-Pasal 90
-
+#### Pasal 90 ^penjelasan-pasal-90
 Cukup jelas.
-
-Pasal 91
-
+#### Pasal 91 ^penjelasan-pasal-91
 Cukup jelas.
-
-Pasal 92
-
+#### Pasal 92 ^penjelasan-pasal-92-4
 Ayat (1)
 
 Cukup jelas.
@@ -24034,31 +23408,36 @@ Pelaku Usaha Mikro perlu diberikan dukungan antara lain melalui pemberian insent
 Insentif Pajak Penghasilan diberikan kepada pelaku Usaha Mikro tertentu berdasarkan basis data tunggal UMK-M agar insentif yang diberikan tepat sasaran.
 
 Cukup jelas.
-
-Pasal 93
-
+#### Pasal 93 ^penjelasan-pasal-93-4
 <!-- image -->
 
-## PRESIDEN REPUBUK INOONESIA
+**PRESIDEN REPUBUK INOONESIA**
+#### Pasal 94 ^penjelasan-pasal-94-2
+Cukup jelas.
 
-Pasal 94 Cukup jelas.
+#### Pasal 95 ^penjelasan-pasal-95-2
+Cukup jelas.
 
-Pasal 95 Cukup jelas.
+#### Pasal 96 ^penjelasan-pasal-96-4
+Cukup jelas.
 
-Pasal 96 Cukup jelas.
+#### Pasal 97 ^penjelasan-pasal-97-2
+Cukup jelas.
 
-Pasal 97 Cukup jelas.
+#### Pasal 98 ^penjelasan-pasal-98-2
+Cukup jelas.
 
-Pasal 98 Cukup jelas.
+#### Pasal 99 ^penjelasan-pasal-99
+Cukup jelas.
 
-Pasal 99 Cukup jelas.
+#### Pasal 100 ^penjelasan-pasal-100-2
+Cukup jelas.
 
-Pasal 100 Cukup jelas.
+#### Pasal 101 ^penjelasan-pasal-101-4
+Cukup jelas.
 
-Pasal 101 Cukup jelas.
-
-Pasal 102 Huruf a Yang dimaksud dengan "pembiayaan alternatif untuk UMK-M" antara lain meliputi: a. urun dana (crowd fundingl; b. modal ventura;
-
+#### Pasal 102 ^penjelasan-pasal-102-2
+Huruf a Yang dimaksud dengan "pembiayaan alternatif untuk UMK-M" antara lain meliputi: a. urun dana (crowd fundingl; b. modal ventura;
 - c. angel capital;
 
 <!-- image -->
@@ -24095,9 +23474,8 @@ d. dana padanan (seed capitat); dan e. kewajiban pelayanan universal (uniuersal 
 - 2O. bergabung dengan alat angkut yang berada di Wilayah Indonesia.
 
 Angka 3
-
-Pasal 39 Ayat (1) Huruf a Yang dimaksud dengan "Visa tinggal terbatas
-
+#### Pasal 39 ^penjelasan-pasal-39-5
+Ayat (1) Huruf a Yang dimaksud dengan "Visa tinggal terbatas
 <!-- image -->
 
 ```
@@ -24138,31 +23516,25 @@ Angka 4 Pasal 122 Ayat (i) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 5 P
 
 - -302-
 
-## Angka 6
-
-Pasal 124
-
+**Angka 6**
+#### Pasal 124 ^penjelasan-pasal-124
 Cukup jelas.
-
-## Pasal 108
-
+#### Pasal 108 ^penjelasan-pasal-108-2
 Angka I
-
-Pasal 20
-
-## Huruf a
+#### Pasal 20 ^penjelasan-pasal-20-4
+**Huruf a**
 
 Yang dimaksud dengan "bertentangan dengan ketertiban umum" adalah tidak sejalan dengan peraturan yang ada dalam masyarakat yang sifatnya menyeluruh seperti menyinggung perasaan masyarakat atau golongan, menyinggung kesopanan atau etika umum masyarakat, dan menyinggung ketenteraman masyarakat atau golongan.
 
-## Huruf b
+**Huruf b**
 
 Merek tersebut berkaitan atau hanya menyebutkan barang dan/atau jasa yang dimohonkan pendaftarannya.
 
-## Huruf c
+**Huruf c**
 
 Yang dimaksud dengan "memuat unsur yang dapat menyesatkan" misalnya Merek "Kecap No. 1" tidak dapat didaftarkan karena menyesatkan masyarakat terkait dengan kualitas barang, Merek "netto 100 gram" tidak dapat didaftarkan karena menyesatkan masyarakat terkait dengan ukuran barang.
 
-## Huruf d
+**Huruf d**
 
 Yang dimalsud dengan "memuat keterangan yang tidak sesuai dengan kualitas, manfaat, atau khasiat dari barang dan/atau jasa yang diproduksi" adalah mencantumkan keterangan yang tidak sesuai dengan kualitas, manfaat, khasiat, dan/atau risiko dari produk dimaksud. Contohnya: obat yang dapat menyembuhkan seribu satu penyakit, rokok yang aman bagi kesehatan.
 
@@ -24170,15 +23542,15 @@ Huruf e. . .
 
 <!-- image -->
 
-## Huruf e
+**Huruf e**
 
 Tanda dianggap tidak memiliki daya pembeda apabila tanda tersebut terlalu sederhana seperti satu tanda garis atau satu tanda titik, ataupun terlalu rumit sehingga tidak jelas.
 
-## Huruf f
+**Huruf f**
 
 Yang dimaksud dengan "nama umum" antara lain Merek "rumah makan" untuk restoran, Merek "warung kopi" untuk kafe. Adapun "lambang milik umum" antara lain "lambang tengkorak" untuk barang berbahaya, lambang "tanda racun" untuk bahan kimia, "lambang sendok dan garpu" untuk jasa restoran.
 
-## Huruf g
+**Huruf g**
 
 Cukup jelas.
 
@@ -24201,7 +23573,8 @@ Huruf e Cukup jelas. Huruf f Yang dimaksud dengan "tanggal adalah tanggal didaft
 ```
 
 ```
-Pasal 109 Angka 1 Pasal 1 Angka 2 Pasal 7 Ayat (1)
+#### Pasal 109 ^penjelasan-pasal-109-3
+Angka 1 Pasal 1 Angka 2 Pasal 7 Ayat (1)
 ```
 
 Perseroan yang meleburkan diri masuk menjadi modal Perseroan hasil Peleburan dan pendiri tidak mengambil bagian saham sehingga pendiri dari Perseroan hasil Peleburan adalah Perseroan yang meleburkan diri dan nama pemegang saham dari Perseroan hasil Peleburan adalah nama pemegang saham dari Perseroan yang meleburkan diri.
@@ -24220,7 +23593,7 @@ Cukup jelas.
 
 <!-- image -->
 
-## R,EPUBUK INDONESIA
+**R,EPUBUK INDONESIA**
 
 <!-- image -->
 
@@ -24255,24 +23628,18 @@ Cukup jelas.
 Pasal 153J
 
 Cukup jelas.
-
-Pasal 110
-
+#### Pasal 110 ^penjelasan-pasal-110-2
 Dihapus.
-
-Pasal 111
-
+#### Pasal 111 ^penjelasan-pasal-111-3
 Angka 1
-
-## Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2-4
 Ayat (1)
 
 Huruf a
 
 Orang pribadi sebagai subjek pajak dapat bertempat tinggal atau berada di Indonesia ataupun di luar Indonesia. Warisan yang belum terbagi sebagai satu kesatuan merupalan subjek pajak pengganti, menggantikan mereka yang berhak yaitu ahli waris. Penunjukan warisan yang belum terbagi sebagai subjek pajak pengganti dimaksudkan agar pengenaan pajak atas penghasilan yang berasal dari warisan tersebut tetap dapat dilaksanakan.
 
-## Huruf b
+**Huruf b**
 
 Badan adalah sekumpulan orang dan/atau modal yang merupakan kesatuan baik yang melakukan usaha maupun yang tidak melakukan usaha yang meliputi perseroan terbatas, perseroan komanditer, perseroan lainnya, badan usaha milik negara atau badan usaha milik daerah dengan nama dan dalam bentuk apa pun, firma, kongsi, koperasi, dana pensiun, persekutuan, perkumpulan, yayasan, organisasi massa, organisasi sosial politik, atau organisasi lainnya, lembaga, dan bentuk badan lainnya termasuk kontrak investasi kolektif dan bentuk usaha tetap.
 
@@ -24321,7 +23688,7 @@ Cukup jelas.
 
 Huruf c. . .
 
-## Huruf c
+**Huruf c**
 
 Warisan yang belum terbagi yang ditinggalkan oleh orang pribadi subjek pajak dalam negeri dianggap sebagai subjek pajak dalam negeri dalam pengertian Undang-Undang ini mengikuti status pewaris. Adapun untuk pelaksanaan pemenuhan menggantikan kewajiban ahli waris yang berhak. Apabila warisan tersebut telah dibagi, kewajiban
 
@@ -24329,7 +23696,7 @@ kewajiban perpajakannya, warisan tersebut perpajakannya beralih kepada ahli wari
 
 Warisan yang belum terbagi yang ditinggalkan oleh orang pribadi sebagai subjek pajak luar negeri yang tidak menjalankan usaha atau melakukan kegiatan melalui suatu bentuk usaha tetap di Indonesia, tidak dianggap sebagai subjek pajak pengganti karena pengenaan pajak atas penghasilan yang diterima atau diperoleh orang pribadi dimalsud melekat pada objeknya.
 
-## Ayat (a)
+**Ayat (a)**
 
 Subjek pajak luar negeri adalah orang pribadi atau badan yang bertempat tinggal atau bertempat kedudukan di luar Indonesia yang dapat menerima atau memperoleh penghasilan dari Indonesia, baik melalui maupun tanpa melalui bentuk usaha tetap. Orang pribadi yang tidak bertempat tinggal di Indonesia, tetapi berada di Indonesia tidak lebih dari 183 (seratus delapan puluh tiga) hari dalam jangka waktu 12 (dua belas) bulan maka orang tersebut adalah subjek pajak luar negeri.
 
@@ -24337,9 +23704,9 @@ Apabila penghasilan diterima atau diperoleh melalui bentuk usaha tetap maka terh
 
 <!-- image -->
 
-## BLIK INDON
+**BLIK INDON**
 
-## Ayat (s)
+**Ayat (s)**
 
 Suatu bentuk usaha tetap mengandung pengertian adanya suatu tempat usaha (place o/ business) yaitu fasilitas yang dapat berupa tanah dan gedung termasuk juga mesin-mesin, peralatan, gudang dan komputer atau agen elektronik atau peralatan otomatis (automated equipmentl yang dimiliki, disewa, atau digunakan oleh penyelenggara transaksi elektronik untuk menjalankan aktivitas usaha melalui internet. Tempat usaha tersebut bersifat permanen dan digunakan untuk menjalankan usaha atau melakukan kegiatan dari orang pribadi yang tidak bertempat tinggal atau badan yang tidak didirikan dan tidak bertempat kedudukan di Indonesia. Pengertian bentuk usaha tetap mencakup pula orang pribadi atau badan selaku agen yang kedudukannya tidak bebas yang bertindak untuk dan atas nama orang pribadi atau badan yang tidak bertempat tinggal atau tidak bertempat kedudukan di Indonesia. Orang pribadi yang tidak bertempat tinggal atau badan yang tidak didirikan dan tidak bertempat kedudukan di Indonesia tidak dapat dianggap mempunyai bentuk usaha tetap di Indonesia apabila orang pribadi atau badan dalam menjalankan usaha atau melakukan kegiatan di Indonesia menggunakan agen, broker atau perantara yang mempunyai kedudukan bebas, asalkan agen atau perantara tersebut dalam kenyataannya bertindak sepenuhnya dalam rangka menjalankan perusahaannya sendiri. Perusahaan asuransi yang didirikan dan bertempat kedudukan di luar Indonesia dianggap mempunyai bentuk usaha tetap di Indonesia apabila perusahaan asuransi tersebut menerima pembayaran premi asuransi atau menanggung risiko di Indonesia melalui pegawai, perwakilan atau agennya di Indonesia. Menanggung risiko di Indonesia tidak berarti bahwa peristiwa yang mengakibatkan risiko tersebut terjadi di Indonesia. Yang perlu diperhatikan adalah bahwa pihak tertanggung bertempat tinggal, berada, atau bertempat
 
@@ -24347,15 +23714,13 @@ kedudukan di Indonesia.
 
 <!-- image -->
 
-## Angka2
-
-## Pasal 26
-
+**Angka2**
+#### Pasal 26 ^penjelasan-pasal-26-5
 Atas penghasilan yang diterima atau diperoleh Wajib Pajak luar negeri dari Indonesia, Undang-Undang ini menganut 2 (dua) sistem pengenaan pajak, yaitu pemenuhan sendiri kewajiban perpajakannya bagi Wajib Pajak luar negeri yang menjalankan usaha atau melakukan kegiatan melalui suatu bentuk usaha tetap di Indonesia dan pemotongan oleh pihak yang wajib membayar bagi Wajib Pajak luar negeri lainnya. Ketentuan ini mengatur tentang pemotongan atas penghasilan yang bersumber di Indonesia yang diterima atau diperoleh Wajib Pajak luar negeri selain bentuk usaha
 
 tetap.
 
-## Ayat (6)
+**Ayat (6)**
 
 Penentuan tempat tinggal orang pribadi atau tempat kedudukan badan penting untuk menetapkan Kantor Pelayanan Pajak mana yang mempunyai yurisdiksi pemajakan atas penghasilan yang diterima atau diperoleh orang pribadi atau badan tersebut. Pada dasarnya tempat tinggal orang pribadi atau tempat kedudukan badan ditentukan menurut keadaan yang sebenarnya. Dengan demikian penentuan tempat tinggal atau tempat kedudukan tidak hanya didasarkan pada pertimbangan yang bersifat formal, tetapi lebih didasarkan pada kenyataan. Beberapa hal yang perlu dipertimbangkan oleh Direktur Jenderal Pajak dalam menentukan tempat tinggal seseorang atau tempat kedudukan badan tersebut, antara lain domisili, alamat tempat tinggal, tempat tinggal keluarga, tempat menjalankan usaha pokok atau hal-hal lain yang perlu dipertimbangkan untuk memudahkan pelaksanaan pemenuhan kewajiban
 
@@ -24363,9 +23728,9 @@ pajak.
 
 <!-- image -->
 
-## PRESIDEN BUK INDONES
+**PRESIDEN BUK INDONES**
 
-## Ayat (1)
+**Ayat (1)**
 
 Pemotongan pajak berdasarkan ketentuan ini wajib dilakukan oleh badan pemerintah, subjek pajak dalam negeri, penyelenggara kegiatan, bentuk usaha tetap, atau perwakilan perusahaan luar negeri lainnya yarrg melakukan pembayaran kepada Wajib Pajak luar negeri selain bentuk usaha tetap di Indonesia dengan tarif sebesar 2Oo/o (dua puluh persen) dari jumlah bruto.
 
@@ -24384,9 +23749,9 @@ Sebagai contoh lain, seorang atlet dari luar negeri yang ikut mengambil bagian d
 
 <!-- image -->
 
-## PRESIDEN REPI.IBUK TNDONESIA
+**PRESIDEN REPI.IBUK TNDONESIA**
 
-## Ayat (1a)
+**Ayat (1a)**
 
 Negara domisili dari Wajib Pajak luar negeri selain yang menjalankan usaha atau melakukan kegiatan usaha melalui bentuk usaha tetap di Indonesia yang menerima penghasilan dari Indonesia ditentukan berdasarkan tempat tinggal atau tempat kedudukan Wajib Pajak yang sebenarnya menerima manfaat dari penghasilan tersebut (beneficial owner). Oleh karena itu, negara domisili tidak hanya ditentukan berdasarkan Surat Keterangan Domisili, tetapi juga tempat tinggal atau tempat kedudukan dari penerima manfaat dari
 
@@ -24398,7 +23763,7 @@ Ayat (1b)
 
 Cukup jelas.
 
-## Ayat (2)
+**Ayat (2)**
 
 Ketentuan ini mengatur tentang pemotongan pajak atas penghasilan yang diterima atau diperoleh Wajib Pajak luar negeri yang bersumber di Indonesia, selain dari penghasilan sebagaimana dimaksud pada ayat (1), yaitu penghasilan dari penjualan atau pengalihan harta, dan premi asuransi, termasuk premi reasuransi. Atas penghasilan tersebut dipotong pajak sebesar 2Ook (dua puluh persen) dari perkiraan penghasilan neto dan bersifat final. Menteri Keuangan diberikan wewenang untuk menetapkan besarnya perkiraan penghasilan neto dimaksud, serta hal-hal lain dalam rangka pelaksanaan pemotongan pajak tersebut.
 
@@ -24406,7 +23771,7 @@ Ketentuan . . .
 
 <!-- image -->
 
-## PRESIDEN BLIK INDON
+**PRESIDEN BLIK INDON**
 
 <!-- image -->
 
@@ -24448,20 +23813,16 @@ Rp2.730.000.0OO,O0
 
 Apabila penghasilan setelah pajak sebesar Rp 13.650.000.000,00 (tiga belas miliar enam ratus lima puluh juta rupiah) tersebut ditanamkan kembali di Indonesia sesuai dengan atau berdasarkan Peraturan Menteri Keuangan, atas penghasilan tersebut tidak dikenai pajak.
 
-## Ayat (5)
+**Ayat (5)**
 
 Pada prinsipnya pemotongan pajak atas Wajib Pajak luar negeri adalah bersifat final, tetapi atas penghasilan sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b dan huruf c, dan atas penghasilan Wajib Pajak orang pribadi atau badan luar negeri yang berubah status menjadi Wajib Pajak dalam negeri atau bentuk usaha tetap, pemotongan pajaknya tidak bersifat final sehingga potongan pajak tersebut dapat dikreditkan dalam Surat Pemberitahuan Tahunal Pajak Penghasilan. Contoh: A sebagai tenaga asing orang pribadi membuat perjanjian kerja dengan PT B sebagai Wajib Pajak dalam negeri untuk bekerja di Indonesia untuk jangka waktu 5 (lima) bulan terhitung mulai tanggal I Jan:uari 2023. Pada tanggal 20 April 2023 perjanjian kerja tersebut diperpanjang menjadi 8 (delapan) bulan sehingga akan berakhir pada tanggal 31 Agustus 2023. Jika perjanjian kerja tersebut tidak diperpanjang, status A adalah tetap sebagai Wajib Pajak luar negeri. Dengan diperpanjangnya perjanjian kerj a tersebut, status A berubah dari Wajib Pajak luar negeri menjadi Wajib Pajak dalam negeri terhitung sejak tanggal 1 Januari 2023. Selama bulan Januari sampai dengan Maret 2023 atas penghasilan bruto A telah dipotong Pajak
 
 Penghasilan Pasal 26 oleh PT B. Berdasarkan ketentuan ini, untuk menghitung Pajak
 
 Penghasilan yang terutang atas penghasilan A untuk masa Januari sampai dengan Agustus 2023, Pajak Penghasilan Pasal 26 yang telah dipotong dan disetor PT B atas penghasilan A sampai dengan Maret 2023 tersebut dapat dikreditkan terhadap paj ak A sebagai Wajib Pajak dalam negeri.
-
-Pasal 112...
-
+#### Pasal 112 ^penjelasan-pasal-112-3
 <!-- image -->
-
-## Pasal 112
-
+#### Pasal 112 ^penjelasan-pasal-112-4
 Angka 1
 
 Pasal lA
@@ -24472,7 +23833,7 @@ Huruf a
 
 Yang dimaksud dengan "perjanjian" meliputi jual beli, tukar-menukar, jual beli dengan angsuran, atau perjanjian lain yang mengakibatkan pdnyerahan hak atas barang.
 
-## Huruf b
+**Huruf b**
 
 Penyerahan Barang Kena Pajak dapat terjadi karena perjanjian sewa beli dan/atau perjanjian sewa guna usaha (leasing).
 
@@ -24480,7 +23841,7 @@ Yang dimaksud dengan "pengalihan Barang Kena Pajak karena suatu perjanjian sewa 
 
 Dalam hal penyerahan Barang Kena Pajak oleh Pengusaha Kena Pajak dalam rangka perjanjian sewa guna us aha (leasingl dengan hak opsi, Barang Kena Pajak dianggap diserahkan langsung dari Pengusaha Kena Paj ak pemasok (supplier) kepada pihak yang membutuhkan barang (lessee).
 
-## Huruf c
+**Huruf c**
 
 Yang dimaksud dengaa "pedagang perantara" adalah orang pribadi atau badan yang dalam kegiatan usaha atau pekerjaannya dengan nama sendiri melakukan perjanjian atau perikatan atas dan untuk tanggungan orang lain dengan mendapat upah atau balas jasa tertentu, misalnya komisioner.
 
@@ -24490,25 +23851,25 @@ Hurufd. . .
 
 <!-- image -->
 
-## PRESTDEN REPUBLIK INDONESIA
+**PRESTDEN REPUBLIK INDONESIA**
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
-## Huruf d
+**Huruf d**
 
 Yang dimaksud dengan "pemakaian sendiri" adalah pemakaian untuk kepentingan pengusaha sendiri, pengurus, atau karyawan, baik barang produksi sendiri maupun bukan produksi sendiri.
 
 Yang dimaksud dengan "pemberian cuma-cuma" adalah pemberian yang diberikan tanpa pembayaran baik barang produksi sendiri maupun bukan produksi sendiri, seperti pemberian contoh barang untuk promosi kepada relasi atau pembeli.
 
-## Huruf e
+**Huruf e**
 
 Barang Kena Pajak berupa persediaan dan/ atau aktiva yang menurut tujuan semula tidak untuk diperjualbelikan, yang masih tersisa pada saat pembubaran perusahaan, disamakan dengan pemakaian sendiri sehingga dianggap sebagai penyerahan Barang Kena Pajak.
 
 Dikecualikan dari ketentuan pada huruf e ini adalah penyerahan sebagaimana dimaksud dalam Pasal 1A ayat (21 huruf e.
 
-## Huruf f
+**Huruf f**
 
 Dalam hal suatu perusahaan mempunyai lebih dari satu tempat pajak terutang baik sebagai pusat maupun sebagai cabang perusahaan, pemindahan Barang Kena Paj ak antartempat tersebut merupakan penyerahan Barang Kena Pajak.
 
@@ -24516,7 +23877,7 @@ Yang dimaksud dengan "pusat' adalah tempat tinggal atau tempat kedudukan.
 
 Yang dimaksud dengan "cabang" antara lain lokasi usaha, perwakilan, unit pemasaran, dan tempat kegiatan usaha sejenisnya.
 
-## Huruf g
+**Huruf g**
 
 Dihapus.
 
@@ -24536,11 +23897,11 @@ Huruf a
 
 Yang dimaksud dengan "makelar' adalah makelar sebagaimana dimaksud dalam Kitab UndangUndang Hukum Dagang, yaitu pedagang perantara yang diangkat oleh Presiden atau oleh pejabat yang oleh Presiden dinyatakan berwenang untuk itu. Mereka menyelenggarakan perusahaan mereka dengan melakukan pekerjaan dengan mendapat upah atau provisi tertentu, atas amanat dan atas nama orang-orang lain yang dengan mereka tidak terdapat hubungan kerja.
 
-## Huruf b
+**Huruf b**
 
 Cukup jelas.
 
-## Huruf c
+**Huruf c**
 
 Dalam hal Pengusaha Kena Pajak mempunyai lebih dari satu tempat kegiatan usaha, baik sebagai pusat maupun cabang perusahaan, dan Pengusaha Kena Pajak tersebut telah menyampaikan pemberitahuan secara tertulis kepada Direktur Jenderal Paj ak, pemindahan Barang Kena Paj ak dari satu tempat kegiatan usaha ke tempat kegiatan usaha lainnya (pusat ke cabang atau sebaliknya atau antarcabang) dianggap tidak termasuk dalam pengertian penyerahan Barang Kena Pajak, kecuali pemindahan Barang Kena Pajak antartempat pajak terutang.
 
@@ -24548,9 +23909,9 @@ Huruf d. ..
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESIA
+**PRESIDEN REPUBUK TNDONESIA**
 
-## Huruf d
+**Huruf d**
 
 Yang dimaksud dengan "pemecahan usaha" adalah pemisahan usaha sebagaimana dimaksud dalam undang-undang yang mengatur mengenai perseroan terbatas.
 
@@ -24570,23 +23931,23 @@ Barang Kena Pajak berupa aktiva yang menurut tujuan semula tidak untuk diperjual
 
 Ayat (1a) ...
 
-## Ayat (1a)
+**Ayat (1a)**
 
 Pada prinsipnya Faktur Pajak harus dibuat pada saat penyerahan atau pada saat penerimaan pembayaran dalam hal pembayaran terjadi sebelum penyerahan. Dalam hal tertentu dimungkinkan saat pembuatan Faktur Pajak tidak sama dengan saat-saat tersebut, misalnya dalam hal terjadi penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak kepada instansi pemerintah. Oleh karena itu, Menteri Keuangan berwenang untuk mengatur saat lain sebagai saat pembuatan Faktur Pajak.
 
-## Ayat (21
+**Ayat (21**
 
 Dikecualikan dari ketentuan sebagaimana dimaksud pada ayat (l), untuk meringankan beban administrasi, kepada Pengusaha Kena Pajak diperkenankan untuk membuat 1 (satu) Faktur Pajak yang meliputi semua penyerahan Barang Kena Pajak atau penyerahan Jasa Kena Pajak yang terjadi selama 1 (satu) bulan kalender kepada pembeli Barang Kena Pajak yang sama atau penerima Jasa Kena Pajak yang sama, yang disebut Faktur Pajak gabungan.
 
-## Ayat (2a)
+**Ayat (2a)**
 
 Untuk meringankan beban administrasi, Pengusaha Kena Pajak diperkenankan membuat Faktur Pajak gabungan paling lama pada akhir bulan penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak meskipun di dalam bulan penyerahan telah terjadi pembayaran baik sebagian maupun seluruhnya.
 
-## Contoh 1:
+**Contoh 1:**
 
 Dalam hal Pengusaha Kena Pajak A melakukan penyerahan Barang Kena Pajak kepada pengusaha B pada tanggal 1, 5, 10, ll, 72, 20, 25, 28, dan 31 Juli 2023, tetapi sampai dengan tanggal 31 Juli 2023 sama sekali belum ada pembayaran atas penyerahan tersebut, Pengusaha Kena Pajak A diperkenankan membuat 1 (satu) Faktur Pajak gabungan yang meliputi seluruh penyerahan yang dilakukan pada bulan Juli 2023,yaitu paling lama tanggal 31 Juli 2023.
 
-## Contoh 2:
+**Contoh 2:**
 
 <!-- image -->
 
@@ -24594,7 +23955,7 @@ Pengusaha . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBL|K INDONESIA
+**PRESIDEN REPUBL|K INDONESIA**
 
 Pengusaha Kena Pajak A melakukan penyerahan Barang Kena Pajak kepada pengusaha B pada tanggal 2,7,9,lO, 12,20,26,28,29, dan 30 September 2023. Pada tanggal 28 September 2023 terdapat pembayaran oleh pengusaha B atas penyerahan pada tanggal 2 September 2023. Dalarn hal Pengusaha Kena Pajak A membuat Faktur Pajak gabungan, Faktur Pajak gabungan dibuat pada tanggal 30 September 2023 yang meliputi seluruh penyerahan yang terjadi pada bulan September 2023.
 
@@ -24628,22 +23989,16 @@ Ayat (8)
 
 Faktur Pajak yang dibetulkan adalah, antara lain, Faktur Pajak yang salah dalam pengisian atau salah dalam penulisan. Termasuk dalam pengertian salah dalam pengisian atau salah dalam penulisan adalah antara lain, adanya penyesuaian Harga Jual akibat berkurangnya kuantitas atau kualitas Barang Kena Pajak yang wajar terjadi pada saat pengiriman.
 
-## Ayat (9)
+**Ayat (9)**
 
 Faktur Pajak memenuhi persyaratan formal apabita diisi secara benar, lengkap, dan jelas sesuai dengan persyaratan sebagaimana dimaksud pada ayat (5) atau persyaratan yang diatur dengan Peraturan Direktur Jenderal Pajak sebagaimana dimaksud pada ayat (6). Faktur Pajak atau dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak memenuhi persyaratan material apabila berisi keterangan yang sebenarnya atau sesungguhnya mengenai penyerahan Barang Kena Pajak dan/ atau penyerahan Jasa Kena Pajak, ekspor Barang Kena Pajak Berwujud, ekspor Barang Kena Pajak Tidak Berurrjud, ekspor Jasa Kena Pajak, impor Barang Kena Pajak, atau pemanfaatan Jasa Kena Pajak dan pemanfaatan Barang Kena Pajak Tidak Berwujud dari luar Daerah Pabean di dalam Daerah Pabean. Dengan demikian, walaupun Faktur Pajak atau dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak sudah memenuhi ketentuan formal dan sudah dibayar Pajak Pertambahan Nilainya, apabila keterangan yang tercantum dalam Faktur Pajak atau dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak tidak sesuai dengan kenyataan yang sebenarnya mengenai penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak, ekspor Barang Kena Pajak Berwujud, ekspor Barang Kena Pajak Tidak Berwujud, ekspor Jasa Kena Pajak, impor Barang Kena Paj ak, atau pemanfaatan Jasa Kena Pajak dan pemanfaatan Barang Kena Pajak Tidak Berwrrjud dari luar Daerah Pabean di dalam Daerah Pabean, Faktur Pajak atau dokumen tertentu yang kedudukannya dipersamakan dengan F aktur
 
 Pajak tersebut tidak memenuhi syarat material.
-
-Pasal 113...
-
+#### Pasal 113 ^penjelasan-pasal-113
 <!-- image -->
-
-Pasal 113
-
+#### Pasal 113 ^penjelasan-pasal-113-2
 Angka 1
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9-6
 Ayat (1)
 
 Batas waktu pembayaran dan penyetoran pajak yang terutang untuk suatu saat atau Masa Pajak ditetapkan oleh Menteri Keuangan dengan batas waktu tidak melampaui 15 (lima belas) hari setelah saat terutangnya pajak atau berakhirnya Masa Pajak. Keterlambatan dalam pembayaran dan penyetoran tersebut berakibat dikenai sanksi administratif sesuai dengan ketentuan peraturan perundang-undangan perpajakan.
@@ -24652,7 +24007,7 @@ Ayat (2) Cukup jelas. Ayat (2a) Cukup jelas. Ayat (2b) Cukup jelas. Ayat (2c) Cu
 
 <!-- image -->
 
-## Angka 2
+**Angka 2**
 
 Pasal l1
 
@@ -24679,7 +24034,7 @@ c. untuk . . .
 
 <!-- image -->
 
-## PRESIDEN ELIK INDONES
+**PRESIDEN ELIK INDONES**
 
 - c. untuk Surat Keputusal Pengembalian Pendahuluan Kelebihan Pajak sebagaimana dimaksud dalam Pasal 17C dan Pasal l7D, dihitung sejak tanggal penerbitan;
 - d. untuk Surat Keputusan Keberatan, Surat Keputusan Pembetulan, Surat Keputusan Pengurangan Sanksi Administrasi, Surat Keputusan Penghapusan Sanksi Administrasi, Surat Keputusan Pengurangan Ketetapan Pajak, Surat Keputusan Pembatalan Ketetapan Pajak, atau Surat Keputusan Pemberian Imbalan Bunga, dihitung sejak tanggal penerbitan;
@@ -24741,7 +24096,7 @@ Apabila. . .
 
 <!-- image -->
 
-## PRESTDEN BL|K INDON
+**PRESTDEN BL|K INDON**
 
 Apabila setelah itu diketahui adanya data yang menyatakan bahwa pengelompokan harta tersebut tidak benar, data tersebut termasuk data yang semula belum terungkap.
 
@@ -24767,10 +24122,8 @@ Ayat (s)
 
 Cukup jelas.
 
-## Angka 5
-
-Pasal 178
-
+**Angka 5**
+#### Pasal 178 ^penjelasan-pasal-178
 Ayat (1)
 
 Yang dimaksud dengan "surat permohonan telah diterima secara lengkap" adalah Surat Pemberitahuan yang telah diisi lengkap sebagaimana dimaksud dalam Pasal 3.
@@ -24781,7 +24134,7 @@ Ayat (1a)
 
 Yang dimaksud dengan "sedang dilakukan pemeriksaan bukti permulaan" adalah dimulai sejak surat pemberitahuan pemeriksaan bukti permulaan disampaikan kepada Wajib Pajak, wakil, kuasa, pegawai, atau anggota keluarga yang telah dewasa dari Wajib Pajak.
 
-## Ayat (21
+**Ayat (21**
 
 Batas waktu sebagaimana dimaksud pada ayat (1) dimaksudkan untuk memberikan kepastian hukum terhadap permohonan Wajib Paj ak atau Pengusaha Kena Pajak sehingga bila batas waktu tersebut dilampaui dan Direktur Jenderal Pajak tidak memberikan suatu keputusan, permohonan tersebut dianggap dikabulkan. Selain itu, batas waktu tersebut dimaksudkan pula untuk kepentingan tertib administrasi perpajakan.
 
@@ -24795,14 +24148,15 @@ Cukup jelas.
 
 <!-- image -->
 
-## PRESIOEN REPUBUK INDONESTA
+**PRESIOEN REPUBUK INDONESTA**
 
 ```
 Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 6 Pasal 19 Cukup jelas. Angka 7 Pasal 27A Dihapus. Angka 8 Pasal 27B Cukup jelas. Angka 9 Pasal 38 Cukup jelas. Pasal 114 Cukup jelas. Pasal 115 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 37 Cukup jelas.
 ```
 
 ```
-Pasal 116 Pasal 117
+#### Pasal 116 ^penjelasan-pasal-116
+Pasal 117
 ```
 
 <!-- image -->
@@ -24840,19 +24194,21 @@ Angka I Pasal 44 Ayat (1) 30 (tiga puluh) hari dihitung sejak diterimanya petika
 ```
 
 ```
-Pasal 118 Cukup jelas.
+#### Pasal 118 ^penjelasan-pasal-118
+Cukup jelas.
 ```
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESTA
+**PRESIDEN REPUBUK INDONESTA**
 
 Huruf b Penghentian integrasi vertikal antara lain dilaksanakan dengan pembatalan perjanjian, pengalihan sebagian perusahaan kepada Pelaku Usaha lain, atau perubahan bentuk rangkaian produksinya. Hurrf c Yang diperintahkan untuk dihentikan adalah kegiatan atau tindakan tertentu dan bukan kegiatan usaha Pelaku Usaha secara keseluruhan. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Ganti rugi diberikan kepada Pelaku Usaha dan kepada pihak lain yang dirugikan. Hurrf g Cukup jelas. Ayat (3) Cukup jelas. Angka 5 Pasal 48 Cukup jelas. Angka 6 Pasal 49 Dihapus Pasal 119 Cukup jelas.
 
 <!-- image -->
 
 ```
-Pasal 120 Angka 1 Cukup jelas. Angka2 Pasal 66 Cukup jelas. Pasal 121 Pasal 48 Ayat (1) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 122 Cukup jelas. Pasal 123 Angka 1 Pasal 8 Ayat (1) Cukup jelas. Yang dimaksud dengan "terintegrasi" adalah upaya mengarahkan dan menyinergikan antara lain dalam penyusunan perencanaan, program, anggaran, dan Sumber Daya Ilmu Pengetahuan dan Teknologi bidang Penelitian, Pengembangan, Pengkajian, dan Penerapan untuk menghasilkan Invensi dan Inovasi sebagai landasan ilmiah dalam perumusan dan penetapan kebijakan pembangunan nasional.
+#### Pasal 120 ^penjelasan-pasal-120
+Angka 1 Cukup jelas. Angka2 Pasal 66 Cukup jelas. Pasal 121 Pasal 48 Ayat (1) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 122 Cukup jelas. Pasal 123 Angka 1 Pasal 8 Ayat (1) Cukup jelas. Yang dimaksud dengan "terintegrasi" adalah upaya mengarahkan dan menyinergikan antara lain dalam penyusunan perencanaan, program, anggaran, dan Sumber Daya Ilmu Pengetahuan dan Teknologi bidang Penelitian, Pengembangan, Pengkajian, dan Penerapan untuk menghasilkan Invensi dan Inovasi sebagai landasan ilmiah dalam perumusan dan penetapan kebijakan pembangunan nasional.
 ```
 
 ```
@@ -24861,7 +24217,7 @@ Angka2 Pasal 10
 
 <!-- image -->
 
-## FRESIDEN BLII( INDONES
+**FRESIDEN BLII( INDONES**
 
 Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Huruf a Cukup jelas. Huruf b Mekanisme pinjam pakai kawasan hutan digunakan khusus untuk proyek-proyek yang sifatnya tidak permanen. Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Yang dimaksud dengan "bendungan" adalah bangunan yang berupa urukan tanah, urukan batu, beton, dan/atau pasangan batu yang dibangun selain untuk menahan dan menampung air juga untuk menahan dan menampung limbah tambang (tailingl atau lumpur sehingga terbentuk waduk. Yang dimaksud dengan "bendung" adalah tanggul untuk menahan air di sungai, tepi laut, dan sebagainya. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas.
 
@@ -24869,7 +24225,7 @@ Hurufg...
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESTA
+**FRESIDEN REPUBLIK INDONESTA**
 
 Huruf g Cukup jelas. Huruf h Yang dimaksud dengan "sampah" adalah sampah sesuai dengan undang-undang mengenai pengelolaan sampah. Huruf i Cukup jelas. Huruf j Yang dimaksud "fasilitas keselamatan umum" adalah semua fasilitas yang diperlukan untuk menanggulangi akibat suatu bencana, antara lain rumah sakit darurat, rumah penampungan darurat, serta tanggul penanggulangan bahaya banjir, lahar, dan longsor. Huruf k Cukup jelas. Huruf I Yang dimaksud dengan "fasilitas sosial" digunakan antara lain untuk kepentingan keagamaan atau beribadah. Yang dimaksud dengan "ruang terbuka hijau publik" adalah ruang terbuka hijau sesuai dengan undangundang yang mengatur penataan ruang. Huruf m Cukup jelas. Huruf n Yang dimaksud dengan "kantor Pemerintah Pusat,
 
@@ -24918,28 +24274,27 @@ Huruf x
 Cukup jelas.
 
 Angka 3
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-8
 Cukup jelas.
 
 <!-- image -->
 
-## BLIK INDONES
+**BLIK INDONES**
 
 ```
 Angka 4
 ```
 
 ```
-Pasal 19 Ayat (1) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan "pengelola barang milik negara/barang milik daerah" adalah sebagaimana diatur dalam ketentuan peraturan perundang-undangan di bidang perbendaharaan negara. Huruf c Yang dimaksud dengan "pengguna barang milik negara/ barang milik daerah" adalah sebagaimana diatur dalam ketentuan peraturan perundang-undangan di bidang perbendaharaan negara. Ayat (2) Yang dimaksud dengan "masyarakat yang terkena dampakl misalnya masyarakat yang berbatasan langsung dengan lokasi Pengadaan Tanah. Ayat (3) Yang dimaksud dengan nsurat kuasa" adalah surat kuasa untuk mewakili Konsultasi Publik sesuai dengan ketentuan peraturan perundang-undangan. Yang dimaksud dengan "dari dan oleh Pihak yang Berhak" adalah penerima kuasa dan pemberi kuasa sama-sama berasal dari Pihak yang Berhak. Ayat (a) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Angka 5 Pasal 19A
+#### Pasal 19 ^penjelasan-pasal-19-6
+Ayat (1) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan "pengelola barang milik negara/barang milik daerah" adalah sebagaimana diatur dalam ketentuan peraturan perundang-undangan di bidang perbendaharaan negara. Huruf c Yang dimaksud dengan "pengguna barang milik negara/ barang milik daerah" adalah sebagaimana diatur dalam ketentuan peraturan perundang-undangan di bidang perbendaharaan negara. Ayat (2) Yang dimaksud dengan "masyarakat yang terkena dampakl misalnya masyarakat yang berbatasan langsung dengan lokasi Pengadaan Tanah. Ayat (3) Yang dimaksud dengan nsurat kuasa" adalah surat kuasa untuk mewakili Konsultasi Publik sesuai dengan ketentuan peraturan perundang-undangan. Yang dimaksud dengan "dari dan oleh Pihak yang Berhak" adalah penerima kuasa dan pemberi kuasa sama-sama berasal dari Pihak yang Berhak. Ayat (a) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Angka 5 Pasal 19A
 ```
 
 Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 ```
 Pasal l98
@@ -24955,7 +24310,7 @@ Huruf a . . .
 
 <!-- image -->
 
-## Huruf a
+**Huruf a**
 
 Cukup jelas.
 
@@ -24963,15 +24318,15 @@ Huruf b
 
 Cukup jelas.
 
-## Huruf c
+**Huruf c**
 
 Yang dimaksud dengan "pemukiman kembali" adalah proses kegiatan penyediaan tanah pengganti kepada Pihak yang Berhak ke lokasi lain sesuai dengan kesepakatan dalam proses Pengadaan Tanah.
 
-## Huruf d
+**Huruf d**
 
 Yang dimaksud dengan "kepemilikan saham" adalah penyertaan saham dalam kegiatan pembangunan untuk Kepentingan Umum terkait dan/atau pengelolaannya yang didasari kesepakatan antarpihak.
 
-## Huruf e
+**Huruf e**
 
 Yang dimaksud dengan "bentuk lain yang disetujui oleh kedua belah pihak" misalnya gabungan dari 2 (dua) atau lebih bentuk Ganti Kerugian sebagaimana dimaksud pada huruf a, huruf b, huruf c, dan huruf d.
 
@@ -24979,10 +24334,8 @@ Ayat (2)
 
 Cukup jelas.
 
-## Angka 10
-
-Pasal 40
-
+**Angka 10**
+#### Pasal 40 ^penjelasan-pasal-40-5
 Pemberian Ganti Kerugian pada prinsipnya harus diserahkan langsung kepada Pihak yang Berhak atas Ganti Kerugian. Apabila berhalangan, Pihak yang Berhak karena hukum dapat memberikan kuasa kepada pihak lain atau ahli waris. Penerima kuasa hanya dapat menerima kuasa dari satu orang yang berhak atas Ganti Kerugian.
 
 Yang berhak antara lain:
@@ -24993,7 +24346,7 @@ b. pemegang hak pengelolaan;
 
 <!-- image -->
 
-## grTt{ftr{I] BLIK INDO
+**grTt{ftr{I] BLIK INDO**
 
 - -348-
 - c. nadzir, untuk tanah wakaf;
@@ -25016,9 +24369,7 @@ Pada ketentuannya, Ganti Kerugian diberikan kepada pemegang Hak atas Tanah. Untu
 Yang dimaksud dengan "pemegang dasar penguasaan atas tanah" adalah pihak yang memiliki alat bukti yang diterbitkan oleh pejabat yang berwenang yang membuktikan adanya penguasaan yang bersangkutan atas tanah yang bersangkutan, misalnya pemegang akta jual beli atas Hak atas Tanah yang belum dibalik nama, pemegang akta jual beli atas hak milik adat yang belum diterbitkan sertipikat, dan pemegang surat izin menghuni.
 
 Bangunan, tanaman, atau benda lain yang berkaitan dengan tanah yang belum atau tidak dipunyai dengan Hak atas Tanah, ganti rugi diberikan kepada pemilik bangunan, tanaman, atau benda lain yang berkaitan dengan tanah.
-
-## Pasal 124
-
+#### Pasal 124 ^penjelasan-pasal-124-2
 ```
 Angka 11 Pasal 42 Cukup jelas. Angka 12 Pasal 46 Cukup jelas. Angka 1 Pasal 44 Ayat (1) Cukup jelas. Ayat (2) pembangkit dan jaringan listrik.
 ```
@@ -25027,7 +24378,7 @@ Yang dimaksud dengan "kepentingan umum" adalah kepentingan sebagian besar masyar
 
 <!-- image -->
 
-## PRESIDEN REPIIELIK TNDONESTA
+**PRESIDEN REPIIELIK TNDONESTA**
 
 Ayat (3)
 
@@ -25042,60 +24393,62 @@ termasuk tanah dalam kawasan hutan.
 ```
 
 Ayat (21
+#### Pasal 127 ^penjelasan-pasal-127
 
-Pasal 127
+#### Pasal 128 ^penjelasan-pasal-128-2
 
-Pasal 128
-
-Pasal 129 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "sudah digunakan dan/atau dimanfaatkan sesuai dengan tujuan pemberian haknya" adalah pemegang hak atas tanah sudah memiliki sertifikat laik fungsi. Ayat (a) Cukup jelas. Ayat (s)
-
+#### Pasal 129 ^penjelasan-pasal-129
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "sudah digunakan dan/atau dimanfaatkan sesuai dengan tujuan pemberian haknya" adalah pemegang hak atas tanah sudah memiliki sertifikat laik fungsi. Ayat (a) Cukup jelas. Ayat (s)
 Pasal 13O
+#### Pasal 131 ^penjelasan-pasal-131-2
 
-Pasal 131
-
-Pasal 132
-
+#### Pasal 132 ^penjelasan-pasal-132
 Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas.
 
 <!-- image -->
+#### Pasal 133 ^penjelasan-pasal-133-2
+Cukup jelas.
 
-Pasal 133 Cukup jelas.
+#### Pasal 134 ^penjelasan-pasal-134
+Cukup jelas.
 
-Pasal 134 Cukup jelas.
+#### Pasal 135 ^penjelasan-pasal-135
+Cukup jelas.
 
-Pasal 135 Cukup jelas.
+#### Pasal 136 ^penjelasan-pasal-136
+Cukup jelas.
 
-Pasal 136 Cukup jelas.
+#### Pasal 137 ^penjelasan-pasal-137
+Cukup jelas.
 
-Pasal 137 Cukup jelas.
+#### Pasal 138 ^penjelasan-pasal-138
+Cukup jelas.
 
-Pasal 138 Cukup jelas.
+#### Pasal 139 ^penjelasan-pasal-139
+Cukup jelas.
 
-Pasal 139 Cukup jelas.
+#### Pasal 140 ^penjelasan-pasal-140
+Cukup jelas.
 
-Pasal 140 Cukup jelas.
+#### Pasal 141 ^penjelasan-pasal-141-2
+Cukup jelas.
 
-Pasal 141 Cukup jelas.
-
-Pasal 142
-
+#### Pasal 142 ^penjelasan-pasal-142-2
 Cukup jelas.
 
 <!-- image -->
 
 <!-- image -->
-
-Pasal 143 Cukup jelas. Pasal 144 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 145 Cukup jelas. Pasal 146 Cukup jelas. Kepemilikan satuan rumah susun oleh warga negara asing hanya diberikan di Kawasan Ekonomi Khusus, Kawasan Perdagangan Bebas dan Pelabuhan Bebas, Kawasal Industri, dan kawasan ekonomi lainnya. Huruf d Kepemilikan satuan rumah susun oleh badan hukum asing hanya diberikan di Kawasan Ekonomi Khusus, Kawasan Perdagangan Bebas dan Pelabuhan Bebas, Kawasan Industri, dan kawasan ekonomi lainnya. Huruf e Cukup jelas.
-
+#### Pasal 143 ^penjelasan-pasal-143
+Cukup jelas. Pasal 144 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 145 Cukup jelas. Pasal 146 Cukup jelas. Kepemilikan satuan rumah susun oleh warga negara asing hanya diberikan di Kawasan Ekonomi Khusus, Kawasan Perdagangan Bebas dan Pelabuhan Bebas, Kawasal Industri, dan kawasan ekonomi lainnya. Huruf d Kepemilikan satuan rumah susun oleh badan hukum asing hanya diberikan di Kawasan Ekonomi Khusus, Kawasan Perdagangan Bebas dan Pelabuhan Bebas, Kawasan Industri, dan kawasan ekonomi lainnya. Huruf e Cukup jelas.
 <!-- image -->
-
-Pasal 147 Cukup jelas. Pasal 148 Cukup jelas. Pasal 149 Cukup jelas. Pasal 150 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 3 Ayat (1) Huruf a Cukup jelas. Huruf b Huruf c Yang dimaksud dengan "logistik dan distribusi" adalah kegiatan usaha yang meliputi antara lain kegiatan penyimpanan, perakitan, penyortiran, pengepakan, pendistribusian, perbaikan dan perekondisian permesinan dari dalam negeri dan dari luar negeri. Yang dimaksud dengan "pengembangan teknologi" adalah kegiatan usaha yang meliputi antara lain kegiatan riset dan teknologi, rancangan bangunan dan rekayasa, teknologi terapan, pengembangan perangkat lunak, serta jasa di bidang teknologi informasi.
-
+#### Pasal 147 ^penjelasan-pasal-147
+Cukup jelas. Pasal 148 Cukup jelas. Pasal 149 Cukup jelas. Pasal 150 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 3 Ayat (1) Huruf a Cukup jelas. Huruf b Huruf c Yang dimaksud dengan "logistik dan distribusi" adalah kegiatan usaha yang meliputi antara lain kegiatan penyimpanan, perakitan, penyortiran, pengepakan, pendistribusian, perbaikan dan perekondisian permesinan dari dalam negeri dan dari luar negeri. Yang dimaksud dengan "pengembangan teknologi" adalah kegiatan usaha yang meliputi antara lain kegiatan riset dan teknologi, rancangan bangunan dan rekayasa, teknologi terapan, pengembangan perangkat lunak, serta jasa di bidang teknologi informasi.
 Huruf d. . .
 
 <!-- image -->
 
-## PRESIDEN REPIIBUK TNDONESIA
+**PRESIDEN REPIIBUK TNDONESIA**
 
 Huruf d
 
@@ -25143,10 +24496,11 @@ Cukup jelas.
 
 Angka3...
 
-## Angka 3
+**Angka 3**
 
 ```
-Pasal 4 Huruf a Yang dimaksud dengan "kawasan lindung" adalah wilayah yang ditetapkan dengan fungsi utama melindungi kelestarian lingkungan hidup yang mencakup sumber daya alam dan sumber daya buatan. Huruf b Yang dimaksud dengan "mempunyai batas yang jelas" adalah batas alam (sungai atau laut) atau batas buatan (pagar atau tembok). Huruf c Cukup jelas. Angka 4 Pasal 5 Cukup jelas. Angka 5 Pasal 6 Ayat (1) Cukup jelas. Ayat (2) Huruf a Lokasi pengembangan yang diusulkan dapat merupakan area baru atau perluasan KEK yang sudah ada. Huruf b Yang dimaksud dengan "rencana tata ruang KEK' adalah rencana peruntukan ruang pada lokasi KEK.
+#### Pasal 4 ^penjelasan-pasal-4-3
+Huruf a Yang dimaksud dengan "kawasan lindung" adalah wilayah yang ditetapkan dengan fungsi utama melindungi kelestarian lingkungan hidup yang mencakup sumber daya alam dan sumber daya buatan. Huruf b Yang dimaksud dengan "mempunyai batas yang jelas" adalah batas alam (sungai atau laut) atau batas buatan (pagar atau tembok). Huruf c Cukup jelas. Angka 4 Pasal 5 Cukup jelas. Angka 5 Pasal 6 Ayat (1) Cukup jelas. Ayat (2) Huruf a Lokasi pengembangan yang diusulkan dapat merupakan area baru atau perluasan KEK yang sudah ada. Huruf b Yang dimaksud dengan "rencana tata ruang KEK' adalah rencana peruntukan ruang pada lokasi KEK.
 ```
 
 Yang . . .
@@ -25172,15 +24526,11 @@ Ayat (2)
 Materi dan syarat kerja sama meliputi antara lain jangka waktu kerja sama, pertanggungiawaban terhadap aset yang berasal dari Pemerintah Pusat, Pemerintah Daerah, dan swasta, serta hak kepemilikan setelah masa kerja sama berakhir.
 
 Angka 10
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16-5
 Cukup jelas.
 
 Angka 11
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17-7
 Huruf a
 
 Cukup jelas.
@@ -25232,18 +24582,14 @@ Angka 18
 Huruf c Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 24 Cukup jelas. Pasal 24A Cukup jelas. Pasal 24B Cukup jelas. Pasal 24C Ayat (1) Yang dimaksud dengan "pola pengelolaan keuangan Badan Layanan Umum" adalah pola pengelolaan keuangan yang memberikan fleksibilitas berupa keleluasaan untuk menerapkan praktik-praktik bisnis yang sehat untuk meningkatkan pelayanan kepada masyarakat dalam rangka memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa. Ayat (2) Cukup jelas.
 
 Angka 19
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25-9
 Cukup jelas.
 
 Angka 20
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26-6
 Cukup jelas.
 
-## Angka 21
+**Angka 21**
 
 Pasal27
 
@@ -25300,13 +24646,13 @@ Dihapus.
 Angka 35 Yang dimaksud dengan "Perjanjian Kerja Bersama" adalah Perjanjian Kerja Bersama yang dibuat oleh Serikat Pekerja/Serikat Buruh atau beberapa Serikat Pekerja/Serikat Buruh yang telah tercatat pada instansi yang bertanggung jawab di bidang Ketenagakerjaan dengan Pengusaha.
 
 ```
-Pasal 45 Dihapus. Angka 36 Pasal 47 Angka 37 Pasal 48 Cukup jelas. Pasal 151 Cukup jelas. Pasal 152 Angka I Pasal 6 Cukup jelas. Angka 2 Pasal 7 Cukup jelas. Angka 3 Pasal 10 Cukup jelas. Angka 4 Pasal 1 1 Cukup jelas.
+#### Pasal 45 ^penjelasan-pasal-45-5
+Dihapus. Angka 36 Pasal 47 Angka 37 Pasal 48 Cukup jelas. Pasal 151 Cukup jelas. Pasal 152 Angka I Pasal 6 Cukup jelas. Angka 2 Pasal 7 Cukup jelas. Angka 3 Pasal 10 Cukup jelas. Angka 4 Pasal 1 1 Cukup jelas.
 ```
 
 <!-- image -->
-
-Pasal 153 Pasal 9 Cukup jelas. Pasal 154 Ayat (1) Dalam melakukan investasi, pemerintah melakukan pengelolaan dan penempatan sejumlah dana dan/atau aset untuk memperoleh manfaat ekonomi, sosial, dan/ atau manfaat lainnya. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Huruf a Cukup jelas.
-
+#### Pasal 153 ^penjelasan-pasal-153
+Pasal 9 Cukup jelas. Pasal 154 Ayat (1) Dalam melakukan investasi, pemerintah melakukan pengelolaan dan penempatan sejumlah dana dan/atau aset untuk memperoleh manfaat ekonomi, sosial, dan/ atau manfaat lainnya. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Huruf a Cukup jelas.
 Huruf b Yang dimaksud dengan "kegiatan pengelolaan aset' adalah antara lain kegiatan akuisisi, pengelolaan, restrukturisasi perusahaan (saham) maupun aset tetap, divestasi, dan lainlain yang dilakukan secara langsung maupun secara tidak langsung baik dilakukan sendiri atau melalui kerja sama dengan pihak ketiga atau melalui pembentukan entitas khusus baik berbentuk badan hukum Indonesia maupun badan hukum asing. Huruf c Dalam melakukan kerja sama dengan entitas dana
 
 perwalian (trust funQ, penyedia dana (settlor) harus memberikan kuasa kepada entitas dana perwali an (trust fund) dalam rangka melakukan pengelolaan investasi dengan Lembaga.
@@ -25324,17 +24670,11 @@ Cukup jelas.
 Huruf f
 
 Cukup jelas.
-
-Pasal 155
-
+#### Pasal 155 ^penjelasan-pasal-155-2
 Cukup jelas.
-
-Pasal 156
-
+#### Pasal 156 ^penjelasan-pasal-156
 Cukup jelas.
-
-Pasal 157
-
+#### Pasal 157 ^penjelasan-pasal-157-2
 Ayat (1)
 
 Cukup jelas.
@@ -25372,9 +24712,7 @@ Ayat (8)
 Peraturan Pemerintah antara lain mengatur mengenai mekanisme pembukuan aset yang dipindahtangankan, penentuan aset yang dipindahtangankan dan nilai pasar wajar aset tersebut, dan prosedur pemindahtanganan.
 
 Mekanisme yang diatur tersebut memperhatikan praktik bisnis yang berlaku secara internasional dan memperhatikan prinsip independensi dan transparansi dari lembaga.
-
-Pasal 158
-
+#### Pasal 158 ^penjelasan-pasal-158-2
 Ayat (1)
 
 Cukup jelas.
@@ -25408,34 +24746,32 @@ Cukup jelas.
 Ayat (71
 
 Peraturan Pemerintah dimaksud mengatur antara lain pertimbangan untuk melakukan pencadangan dan penggunaan akumulasi modal untuk investasi kembali.
-
-## Pasal 159
-
+#### Pasal 159 ^penjelasan-pasal-159
 Ayat (1)
 
 Yang dimaksud dengan "pihak ketiga" mencakup mitra investasi, manajer investasi, badan usaha milik negara, badan atau lembaga pemerintah, dan/atau entitas lainnya baik di dalam maupun luar negeri.
 
 <!-- image -->
 
-## Ayat (2t
+**Ayat (2t**
 
 Yang dimaksud dengan "bentuk kerja sama lainnya' dapat mencakup pendirian dana kelolaan investasi (7trn@ bersama pihak lain.
 
 Lembaga dalam kerja sama dengan pihak ketiga, tetap mempertahankan kedudukannya sebagai penentu utama kebijakan usaha dan penentu dalam pengambilan keputusan di badan usaha dengan kriteria yang ditetapkan oleh Pemerintah Pusat.
 
-## Ayat (3)
+**Ayat (3)**
 
 Pemindahtanganan aset Lembaga untuk dljadikan penyertaan modal dengan memperhatikan tujuan pemindahtanganan, penilaian atas aset dan memperhatikan praktik bisnis yang berlaku secara internasional dan dilakukan dengan prinsip usaha yang sehat.
 
-## Ayat (4t
+**Ayat (4t**
 
 Cukup jelas.
 
-## Ayat (s)
+**Ayat (s)**
 
 Cukup jelas.
 
-## Ayat (6)
+**Ayat (6)**
 
 Peraturan Pemerintah dalam ayat ini sekurang-kurangnya mengatur:
 
@@ -25444,15 +24780,11 @@ Peraturan Pemerintah dalam ayat ini sekurang-kurangnya mengatur:
 - c. penilaian aset.
 
 Pengaturan di dalam Peraturan Pemerintah didasarkan pada praktik internasional yang baik.
-
-Pasal 160 . . .
-
+#### Pasal 160 ^penjelasan-pasal-160
 <!-- image -->
 
-## REPUBUK INDONESTA
-
-## Pasal 160
-
+**REPUBUK INDONESTA**
+#### Pasal 160 ^penjelasan-pasal-160-2
 Ayat (1)
 
 Huruf a
@@ -25486,15 +24818,11 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-## Pasal 161
-
+#### Pasal 161 ^penjelasan-pasal-161
 Pemeriksaan pengelolaan dan tanggung jawab keuangan Lembaga oleh akuntan publik dilakukan dengan mengikuti standar akuntansi yang diakui secara internasional sebagai standar akuntansi yang berlaku untuk badan hukum pengelola investasi sejenisnya.
 
 <!-- image -->
-
-Pasal 162
-
+#### Pasal 162 ^penjelasan-pasal-162-3
 Ayat (1)
 
 Cukup jelas.
@@ -25506,13 +24834,9 @@ Cukup jelas.
 Ayat (3)
 
 Yang dimaksud dengan "kondisi insolven" adalah kondisi di mana Lembaga kekurangan modal yang berdampak pada kesulitan untuk melakukan kegiatan usaha dalam jangka panjang.
-
-Pasal 163
-
+#### Pasal 163 ^penjelasan-pasal-163
 Cukup jelas.
-
-Pasal 164
-
+#### Pasal 164 ^penjelasan-pasal-164
 Ayat (1)
 
 Peraturan Pemerintah dimaksud mengatur antara lain kebijakan investasi, keterbukaan informasi, benturan kepentingan, kerahasiaan informasi, pengadministrasian dari data dan informasi yang berkaitan dengan aset yang dikelola, audit internal, tanggung jawab sosial dan lingkungan serta manajemen risiko dengan memperhatikan praktik bisnis yang berlaku secara internasional.
@@ -25520,9 +24844,7 @@ Peraturan Pemerintah dimaksud mengatur antara lain kebijakan investasi, keterbuk
 Ayat (2)
 
 Ketidakberlakuan peraturan perundang-undangan terkait yang mengatur pengelolaan keuangan negara/kekayaan negara/badan usaha milik negara bagi Lembaga, karena kegiatan pengelolaan aset dan investasi telah diatur secara khusus dalam Peraturan Pemerintah Pengganti UndangUndang ini dan peraturan pelaksanaannya.
-
-Pasal 165
-
+#### Pasal 165 ^penjelasan-pasal-165
 Ayat (1)
 
 Lembaga Pengelola Investasi dapat disebut dengan nama lain seperti: Indonesian Souereign Wealth FTtnd atau Indonesia Inuestment Authoritg.
@@ -25530,40 +24852,44 @@ Lembaga Pengelola Investasi dapat disebut dengan nama lain seperti: Indonesian S
 <!-- image -->
 
 Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
+#### Pasal 166 ^penjelasan-pasal-166
+Cukup jelas.
 
-Pasal 166 Cukup jelas.
+#### Pasal 167 ^penjelasan-pasal-167
+Cukup jelas.
 
-Pasal 167 Cukup jelas.
+#### Pasal 168 ^penjelasan-pasal-168
+Cukup jelas.
 
-Pasal 168 Cukup jelas.
+#### Pasal 169 ^penjelasan-pasal-169
+Cukup jelas.
 
-Pasal 169 Cukup jelas.
+#### Pasal 170 ^penjelasan-pasal-170
+Cukup jelas.
 
-Pasal 170 Cukup jelas.
+#### Pasal 171 ^penjelasan-pasal-171
+Cukup jelas.
 
-Pasal 171 Cukup jelas.
+#### Pasal 172 ^penjelasan-pasal-172
+Cukup jelas.
 
-Pasal 172 Cukup jelas.
-
-Pasal 173 Ayat (1) Cukup jelas.
-
+#### Pasal 173 ^penjelasan-pasal-173
+Ayat (1) Cukup jelas.
 <!-- image -->
 
 Ayat (2)
 
 Yang dimaksud dengan "badan usaha" antara lain Badan Usaha
+#### Pasal 174 ^penjelasan-pasal-174
 
-Pasal 174
-
-Pasal 175
-
+#### Pasal 175 ^penjelasan-pasal-175
 ```
 Milik Negara dan/ atau Badan Usaha Milik Daerah. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Cukup jelas. Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 24 Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Yang dimaksud dengan "alasan-alasan yang objektil" adalah alasan-alasan yang diambil berdasarkan fakta dan kondisi faktual, tidak memihak, dan rasional serta berdasarkan AUPB. Huruf d Cukup jelas. Huruf e. . .
 ```
 
 <!-- image -->
 
-## Huruf e
+**Huruf e**
 
 Yang dimaksud dengan "iktikad baik" adalah Keputusan dan/atau Tindakan yang ditetapkan dan/atau dilakukan didasarkan atas motif kejujuran dan berdasarkan AUPB.
 
@@ -25590,7 +24916,8 @@ Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (5) Huruf a Cukup jelas. Huruf 
 Ayat (2) Yang dimaksud dengan "praktik yang baik (good practicesl" adalah sesuai standar atau ketentuan yang berlaku secara internasional. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 2 Pasal 250 Angka 3 Pasal 251 Cukup jelas. Angka 4 Yang dimaksud dengan "putusan pengadilan" adalah putusan pengadilan yang telah diikuti oleh putusan hakim berikutnya.
 
 ```
-Pasal 252 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
+#### Pasal 252 ^penjelasan-pasal-252
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
 ```
 
 <!-- image -->
@@ -25604,9 +24931,7 @@ Ayat (4)
 Dihapus.
 
 Angka 5
-
-Pasal 260
-
+#### Pasal 260 ^penjelasan-pasal-260
 Cukup jelas.
 
 Angka 6
@@ -25616,15 +24941,11 @@ Pasal 292A
 Cukup jelas.
 
 Angka 7
-
-Pasal 300
-
+#### Pasal 300 ^penjelasan-pasal-300
 Dihapus.
 
-## Angka 8
-
-Pasal 349
-
+**Angka 8**
+#### Pasal 349 ^penjelasan-pasal-349
 Ayat (1)
 
 Yang dimaksud dengan "penyederhanaan jenis pelayanan publik' adalah menggabungkan beberapa jenis pelayanan publik yang diamanatkan oleh ketentuan peraturan perundang-undangan menjadi 1 (satu) jenis pelayanan yang di dalamnya menampung/memuat substansi pelayanan yang digabungkan tersebut.
@@ -25654,13 +24975,9 @@ Cukup jelas.
 Huruf e
 
 Cukup jelas.
-
-Pasal 183
-
+#### Pasal 183 ^penjelasan-pasal-183
 Cukup jelas.
-
-Pasal 184
-
+#### Pasal 184 ^penjelasan-pasal-184
 Huruf a
 
 Cukup jelas.
@@ -25671,15 +24988,471 @@ Dalam hal dilakukan penyesuaian peraturan pelaksanaan dari Undang-Undang Nomor 1
 
 - a. Pimpinan Dewan Perwakilan Rakyat dan alat kelengkapan Dewan Perwakilan Rakyat yang menangani bidang legislasi; dan/ atau
 - b. Pimpinan Dewan Perwakilan Daerah dan alat kelengkapan Dewan Perwakilan Daerah yang menangani bidang legislasi.
-
-Pasal 185
-
+#### Pasal 185 ^penjelasan-pasal-185
 Cukup jelas.
-
-Pasal 186
-
+#### Pasal 186 ^penjelasan-pasal-186
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6841
 
 <!-- image -->
+
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-2]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-3]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-4]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-5]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-6]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 2 | [[#^penjelasan-pasal-2-2]] |
+| Pasal 2 | [[#^penjelasan-pasal-2-3]] |
+| Pasal 2 | [[#^penjelasan-pasal-2-4]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 4 | [[#^penjelasan-pasal-4-2]] |
+| Pasal 4 | [[#^penjelasan-pasal-4-3]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 5 | [[#^penjelasan-pasal-5-2]] |
+| Pasal 5 | [[#^penjelasan-pasal-5-3]] |
+| Pasal 5 | [[#^penjelasan-pasal-5-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 6 | [[#^penjelasan-pasal-6-2]] |
+| Pasal 6 | [[#^penjelasan-pasal-6-3]] |
+| Pasal 6 | [[#^penjelasan-pasal-6-4]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 7 | [[#^penjelasan-pasal-7-2]] |
+| Pasal 7 | [[#^penjelasan-pasal-7-3]] |
+| Pasal 7 | [[#^penjelasan-pasal-7-4]] |
+| Pasal 7 | [[#^penjelasan-pasal-7-5]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 8 | [[#^penjelasan-pasal-8-2]] |
+| Pasal 8 | [[#^penjelasan-pasal-8-3]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 9 | [[#^penjelasan-pasal-9-2]] |
+| Pasal 9 | [[#^penjelasan-pasal-9-3]] |
+| Pasal 9 | [[#^penjelasan-pasal-9-4]] |
+| Pasal 9 | [[#^penjelasan-pasal-9-5]] |
+| Pasal 9 | [[#^penjelasan-pasal-9-6]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 10 | [[#^penjelasan-pasal-10-2]] |
+| Pasal 10 | [[#^penjelasan-pasal-10-3]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 11 | [[#^penjelasan-pasal-11-2]] |
+| Pasal 11 | [[#^penjelasan-pasal-11-3]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 12 | [[#^penjelasan-pasal-12-2]] |
+| Pasal 12 | [[#^penjelasan-pasal-12-3]] |
+| Pasal 12 | [[#^penjelasan-pasal-12-4]] |
+| Pasal 12 | [[#^penjelasan-pasal-12-5]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-2]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-3]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-4]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-5]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-2]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-3]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-4]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-5]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-6]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-7]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-8]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-2]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-3]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-4]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-5]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-6]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-7]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-8]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 16 | [[#^penjelasan-pasal-16-2]] |
+| Pasal 16 | [[#^penjelasan-pasal-16-3]] |
+| Pasal 16 | [[#^penjelasan-pasal-16-4]] |
+| Pasal 16 | [[#^penjelasan-pasal-16-5]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 17 | [[#^penjelasan-pasal-17-2]] |
+| Pasal 17 | [[#^penjelasan-pasal-17-3]] |
+| Pasal 17 | [[#^penjelasan-pasal-17-4]] |
+| Pasal 17 | [[#^penjelasan-pasal-17-5]] |
+| Pasal 17 | [[#^penjelasan-pasal-17-6]] |
+| Pasal 17 | [[#^penjelasan-pasal-17-7]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 18 | [[#^penjelasan-pasal-18-2]] |
+| Pasal 18 | [[#^penjelasan-pasal-18-3]] |
+| Pasal 18 | [[#^penjelasan-pasal-18-4]] |
+| Pasal 18 | [[#^penjelasan-pasal-18-5]] |
+| Pasal 18 | [[#^penjelasan-pasal-18-6]] |
+| Pasal 18 | [[#^penjelasan-pasal-18-7]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 19 | [[#^penjelasan-pasal-19-2]] |
+| Pasal 19 | [[#^penjelasan-pasal-19-3]] |
+| Pasal 19 | [[#^penjelasan-pasal-19-4]] |
+| Pasal 19 | [[#^penjelasan-pasal-19-5]] |
+| Pasal 19 | [[#^penjelasan-pasal-19-6]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 20 | [[#^penjelasan-pasal-20-2]] |
+| Pasal 20 | [[#^penjelasan-pasal-20-3]] |
+| Pasal 20 | [[#^penjelasan-pasal-20-4]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 21 | [[#^penjelasan-pasal-21-2]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 22 | [[#^penjelasan-pasal-22-2]] |
+| Pasal 22 | [[#^penjelasan-pasal-22-3]] |
+| Pasal 22 | [[#^penjelasan-pasal-22-4]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 23 | [[#^penjelasan-pasal-23-2]] |
+| Pasal 23 | [[#^penjelasan-pasal-23-3]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 24 | [[#^penjelasan-pasal-24-2]] |
+| Pasal 24 | [[#^penjelasan-pasal-24-3]] |
+| Pasal 24 | [[#^penjelasan-pasal-24-4]] |
+| Pasal 24 | [[#^penjelasan-pasal-24-5]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 25 | [[#^penjelasan-pasal-25-2]] |
+| Pasal 25 | [[#^penjelasan-pasal-25-3]] |
+| Pasal 25 | [[#^penjelasan-pasal-25-4]] |
+| Pasal 25 | [[#^penjelasan-pasal-25-5]] |
+| Pasal 25 | [[#^penjelasan-pasal-25-6]] |
+| Pasal 25 | [[#^penjelasan-pasal-25-7]] |
+| Pasal 25 | [[#^penjelasan-pasal-25-8]] |
+| Pasal 25 | [[#^penjelasan-pasal-25-9]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 26 | [[#^penjelasan-pasal-26-2]] |
+| Pasal 26 | [[#^penjelasan-pasal-26-3]] |
+| Pasal 26 | [[#^penjelasan-pasal-26-4]] |
+| Pasal 26 | [[#^penjelasan-pasal-26-5]] |
+| Pasal 26 | [[#^penjelasan-pasal-26-6]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 27 | [[#^penjelasan-pasal-27-2]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 28 | [[#^penjelasan-pasal-28-2]] |
+| Pasal 28 | [[#^penjelasan-pasal-28-3]] |
+| Pasal 28 | [[#^penjelasan-pasal-28-4]] |
+| Pasal 28 | [[#^penjelasan-pasal-28-5]] |
+| Pasal 28 | [[#^penjelasan-pasal-28-6]] |
+| Pasal 28 | [[#^penjelasan-pasal-28-7]] |
+| Pasal 28 | [[#^penjelasan-pasal-28-8]] |
+| Pasal 28 | [[#^penjelasan-pasal-28-9]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 29 | [[#^penjelasan-pasal-29-2]] |
+| Pasal 29 | [[#^penjelasan-pasal-29-3]] |
+| Pasal 29 | [[#^penjelasan-pasal-29-4]] |
+| Pasal 29 | [[#^penjelasan-pasal-29-5]] |
+| Pasal 29 | [[#^penjelasan-pasal-29-6]] |
+| Pasal 29 | [[#^penjelasan-pasal-29-7]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 30 | [[#^penjelasan-pasal-30-2]] |
+| Pasal 30 | [[#^penjelasan-pasal-30-3]] |
+| Pasal 30 | [[#^penjelasan-pasal-30-4]] |
+| Pasal 30 | [[#^penjelasan-pasal-30-5]] |
+| Pasal 30 | [[#^penjelasan-pasal-30-6]] |
+| Pasal 30 | [[#^penjelasan-pasal-30-7]] |
+| Pasal 30 | [[#^penjelasan-pasal-30-8]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 31 | [[#^penjelasan-pasal-31-2]] |
+| Pasal 31 | [[#^penjelasan-pasal-31-3]] |
+| Pasal 31 | [[#^penjelasan-pasal-31-4]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 32 | [[#^penjelasan-pasal-32-2]] |
+| Pasal 32 | [[#^penjelasan-pasal-32-3]] |
+| Pasal 32 | [[#^penjelasan-pasal-32-4]] |
+| Pasal 32 | [[#^penjelasan-pasal-32-5]] |
+| Pasal 32 | [[#^penjelasan-pasal-32-6]] |
+| Pasal 32 | [[#^penjelasan-pasal-32-7]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 33 | [[#^penjelasan-pasal-33-2]] |
+| Pasal 33 | [[#^penjelasan-pasal-33-3]] |
+| Pasal 33 | [[#^penjelasan-pasal-33-4]] |
+| Pasal 33 | [[#^penjelasan-pasal-33-5]] |
+| Pasal 33 | [[#^penjelasan-pasal-33-6]] |
+| Pasal 33 | [[#^penjelasan-pasal-33-7]] |
+| Pasal 33 | [[#^penjelasan-pasal-33-8]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 34 | [[#^penjelasan-pasal-34-2]] |
+| Pasal 34 | [[#^penjelasan-pasal-34-3]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-10]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-2]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-3]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-4]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-5]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-6]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-7]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-8]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-9]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 36 | [[#^penjelasan-pasal-36-2]] |
+| Pasal 36 | [[#^penjelasan-pasal-36-3]] |
+| Pasal 36 | [[#^penjelasan-pasal-36-4]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 37 | [[#^penjelasan-pasal-37-2]] |
+| Pasal 37 | [[#^penjelasan-pasal-37-3]] |
+| Pasal 37 | [[#^penjelasan-pasal-37-4]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 38 | [[#^penjelasan-pasal-38-2]] |
+| Pasal 38 | [[#^penjelasan-pasal-38-3]] |
+| Pasal 38 | [[#^penjelasan-pasal-38-4]] |
+| Pasal 38 | [[#^penjelasan-pasal-38-5]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 39 | [[#^penjelasan-pasal-39-2]] |
+| Pasal 39 | [[#^penjelasan-pasal-39-3]] |
+| Pasal 39 | [[#^penjelasan-pasal-39-4]] |
+| Pasal 39 | [[#^penjelasan-pasal-39-5]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 40 | [[#^penjelasan-pasal-40-2]] |
+| Pasal 40 | [[#^penjelasan-pasal-40-3]] |
+| Pasal 40 | [[#^penjelasan-pasal-40-4]] |
+| Pasal 40 | [[#^penjelasan-pasal-40-5]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 41 | [[#^penjelasan-pasal-41-2]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 42 | [[#^penjelasan-pasal-42-2]] |
+| Pasal 42 | [[#^penjelasan-pasal-42-3]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 43 | [[#^penjelasan-pasal-43-2]] |
+| Pasal 43 | [[#^penjelasan-pasal-43-3]] |
+| Pasal 43 | [[#^penjelasan-pasal-43-4]] |
+| Pasal 43 | [[#^penjelasan-pasal-43-5]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 44 | [[#^penjelasan-pasal-44-2]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 45 | [[#^penjelasan-pasal-45-2]] |
+| Pasal 45 | [[#^penjelasan-pasal-45-3]] |
+| Pasal 45 | [[#^penjelasan-pasal-45-4]] |
+| Pasal 45 | [[#^penjelasan-pasal-45-5]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 46 | [[#^penjelasan-pasal-46-2]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 47 | [[#^penjelasan-pasal-47-2]] |
+| Pasal 47 | [[#^penjelasan-pasal-47-3]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 48 | [[#^penjelasan-pasal-48-2]] |
+| Pasal 48 | [[#^penjelasan-pasal-48-3]] |
+| Pasal 48 | [[#^penjelasan-pasal-48-4]] |
+| Pasal 48 | [[#^penjelasan-pasal-48-5]] |
+| Pasal 48 | [[#^penjelasan-pasal-48-6]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 49 | [[#^penjelasan-pasal-49-2]] |
+| Pasal 49 | [[#^penjelasan-pasal-49-3]] |
+| Pasal 49 | [[#^penjelasan-pasal-49-4]] |
+| Pasal 49 | [[#^penjelasan-pasal-49-5]] |
+| Pasal 49 | [[#^penjelasan-pasal-49-6]] |
+| Pasal 49 | [[#^penjelasan-pasal-49-7]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 50 | [[#^penjelasan-pasal-50-2]] |
+| Pasal 50 | [[#^penjelasan-pasal-50-3]] |
+| Pasal 50 | [[#^penjelasan-pasal-50-4]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 51 | [[#^penjelasan-pasal-51-2]] |
+| Pasal 51 | [[#^penjelasan-pasal-51-3]] |
+| Pasal 51 | [[#^penjelasan-pasal-51-4]] |
+| Pasal 51 | [[#^penjelasan-pasal-51-5]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 52 | [[#^penjelasan-pasal-52-2]] |
+| Pasal 52 | [[#^penjelasan-pasal-52-3]] |
+| Pasal 52 | [[#^penjelasan-pasal-52-4]] |
+| Pasal 52 | [[#^penjelasan-pasal-52-5]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 53 | [[#^penjelasan-pasal-53-2]] |
+| Pasal 53 | [[#^penjelasan-pasal-53-3]] |
+| Pasal 53 | [[#^penjelasan-pasal-53-4]] |
+| Pasal 53 | [[#^penjelasan-pasal-53-5]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 54 | [[#^penjelasan-pasal-54-2]] |
+| Pasal 54 | [[#^penjelasan-pasal-54-3]] |
+| Pasal 54 | [[#^penjelasan-pasal-54-4]] |
+| Pasal 54 | [[#^penjelasan-pasal-54-5]] |
+| Pasal 54 | [[#^penjelasan-pasal-54-6]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 55 | [[#^penjelasan-pasal-55-2]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 56 | [[#^penjelasan-pasal-56-2]] |
+| Pasal 56 | [[#^penjelasan-pasal-56-3]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 57 | [[#^penjelasan-pasal-57-2]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 58 | [[#^penjelasan-pasal-58-2]] |
+| Pasal 58 | [[#^penjelasan-pasal-58-3]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 59 | [[#^penjelasan-pasal-59-2]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 60 | [[#^penjelasan-pasal-60-2]] |
+| Pasal 60 | [[#^penjelasan-pasal-60-3]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 61 | [[#^penjelasan-pasal-61-2]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 62 | [[#^penjelasan-pasal-62-2]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 63 | [[#^penjelasan-pasal-63-2]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 64 | [[#^penjelasan-pasal-64-2]] |
+| Pasal 64 | [[#^penjelasan-pasal-64-3]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 65 | [[#^penjelasan-pasal-65-2]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 69 | [[#^penjelasan-pasal-69-2]] |
+| Pasal 69 | [[#^penjelasan-pasal-69-3]] |
+| Pasal 69 | [[#^penjelasan-pasal-69-4]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 73 | [[#^penjelasan-pasal-73-2]] |
+| Pasal 73 | [[#^penjelasan-pasal-73-3]] |
+| Pasal 73 | [[#^penjelasan-pasal-73-4]] |
+| Pasal 74 | [[#^penjelasan-pasal-74]] |
+| Pasal 74 | [[#^penjelasan-pasal-74-2]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 75 | [[#^penjelasan-pasal-75-2]] |
+| Pasal 75 | [[#^penjelasan-pasal-75-3]] |
+| Pasal 75 | [[#^penjelasan-pasal-75-4]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 79 | [[#^penjelasan-pasal-79-2]] |
+| Pasal 80 | [[#^penjelasan-pasal-80]] |
+| Pasal 82 | [[#^penjelasan-pasal-82]] |
+| Pasal 82 | [[#^penjelasan-pasal-82-2]] |
+| Pasal 83 | [[#^penjelasan-pasal-83]] |
+| Pasal 84 | [[#^penjelasan-pasal-84]] |
+| Pasal 84 | [[#^penjelasan-pasal-84-2]] |
+| Pasal 85 | [[#^penjelasan-pasal-85]] |
+| Pasal 85 | [[#^penjelasan-pasal-85-2]] |
+| Pasal 88 | [[#^penjelasan-pasal-88]] |
+| Pasal 88 | [[#^penjelasan-pasal-88-2]] |
+| Pasal 88 | [[#^penjelasan-pasal-88-3]] |
+| Pasal 88 | [[#^penjelasan-pasal-88-4]] |
+| Pasal 89 | [[#^penjelasan-pasal-89]] |
+| Pasal 89 | [[#^penjelasan-pasal-89-2]] |
+| Pasal 89 | [[#^penjelasan-pasal-89-3]] |
+| Pasal 90 | [[#^penjelasan-pasal-90]] |
+| Pasal 91 | [[#^penjelasan-pasal-91]] |
+| Pasal 92 | [[#^penjelasan-pasal-92]] |
+| Pasal 92 | [[#^penjelasan-pasal-92-2]] |
+| Pasal 92 | [[#^penjelasan-pasal-92-3]] |
+| Pasal 92 | [[#^penjelasan-pasal-92-4]] |
+| Pasal 93 | [[#^penjelasan-pasal-93]] |
+| Pasal 93 | [[#^penjelasan-pasal-93-2]] |
+| Pasal 93 | [[#^penjelasan-pasal-93-3]] |
+| Pasal 93 | [[#^penjelasan-pasal-93-4]] |
+| Pasal 94 | [[#^penjelasan-pasal-94]] |
+| Pasal 94 | [[#^penjelasan-pasal-94-2]] |
+| Pasal 95 | [[#^penjelasan-pasal-95]] |
+| Pasal 95 | [[#^penjelasan-pasal-95-2]] |
+| Pasal 96 | [[#^penjelasan-pasal-96]] |
+| Pasal 96 | [[#^penjelasan-pasal-96-2]] |
+| Pasal 96 | [[#^penjelasan-pasal-96-3]] |
+| Pasal 96 | [[#^penjelasan-pasal-96-4]] |
+| Pasal 97 | [[#^penjelasan-pasal-97]] |
+| Pasal 97 | [[#^penjelasan-pasal-97-2]] |
+| Pasal 98 | [[#^penjelasan-pasal-98]] |
+| Pasal 98 | [[#^penjelasan-pasal-98-2]] |
+| Pasal 99 | [[#^penjelasan-pasal-99]] |
+| Pasal 100 | [[#^penjelasan-pasal-100]] |
+| Pasal 100 | [[#^penjelasan-pasal-100-2]] |
+| Pasal 101 | [[#^penjelasan-pasal-101]] |
+| Pasal 101 | [[#^penjelasan-pasal-101-2]] |
+| Pasal 101 | [[#^penjelasan-pasal-101-3]] |
+| Pasal 101 | [[#^penjelasan-pasal-101-4]] |
+| Pasal 102 | [[#^penjelasan-pasal-102]] |
+| Pasal 102 | [[#^penjelasan-pasal-102-2]] |
+| Pasal 103 | [[#^penjelasan-pasal-103]] |
+| Pasal 105 | [[#^penjelasan-pasal-105]] |
+| Pasal 105 | [[#^penjelasan-pasal-105-2]] |
+| Pasal 106 | [[#^penjelasan-pasal-106]] |
+| Pasal 106 | [[#^penjelasan-pasal-106-2]] |
+| Pasal 107 | [[#^penjelasan-pasal-107]] |
+| Pasal 108 | [[#^penjelasan-pasal-108]] |
+| Pasal 108 | [[#^penjelasan-pasal-108-2]] |
+| Pasal 109 | [[#^penjelasan-pasal-109]] |
+| Pasal 109 | [[#^penjelasan-pasal-109-2]] |
+| Pasal 109 | [[#^penjelasan-pasal-109-3]] |
+| Pasal 110 | [[#^penjelasan-pasal-110]] |
+| Pasal 110 | [[#^penjelasan-pasal-110-2]] |
+| Pasal 111 | [[#^penjelasan-pasal-111]] |
+| Pasal 111 | [[#^penjelasan-pasal-111-2]] |
+| Pasal 111 | [[#^penjelasan-pasal-111-3]] |
+| Pasal 112 | [[#^penjelasan-pasal-112]] |
+| Pasal 112 | [[#^penjelasan-pasal-112-2]] |
+| Pasal 112 | [[#^penjelasan-pasal-112-3]] |
+| Pasal 112 | [[#^penjelasan-pasal-112-4]] |
+| Pasal 113 | [[#^penjelasan-pasal-113]] |
+| Pasal 113 | [[#^penjelasan-pasal-113-2]] |
+| Pasal 116 | [[#^penjelasan-pasal-116]] |
+| Pasal 118 | [[#^penjelasan-pasal-118]] |
+| Pasal 120 | [[#^penjelasan-pasal-120]] |
+| Pasal 122 | [[#^penjelasan-pasal-122]] |
+| Pasal 124 | [[#^penjelasan-pasal-124]] |
+| Pasal 124 | [[#^penjelasan-pasal-124-2]] |
+| Pasal 125 | [[#^penjelasan-pasal-125]] |
+| Pasal 126 | [[#^penjelasan-pasal-126]] |
+| Pasal 126 | [[#^penjelasan-pasal-126-2]] |
+| Pasal 127 | [[#^penjelasan-pasal-127]] |
+| Pasal 128 | [[#^penjelasan-pasal-128]] |
+| Pasal 128 | [[#^penjelasan-pasal-128-2]] |
+| Pasal 129 | [[#^penjelasan-pasal-129]] |
+| Pasal 131 | [[#^penjelasan-pasal-131]] |
+| Pasal 131 | [[#^penjelasan-pasal-131-2]] |
+| Pasal 132 | [[#^penjelasan-pasal-132]] |
+| Pasal 133 | [[#^penjelasan-pasal-133]] |
+| Pasal 133 | [[#^penjelasan-pasal-133-2]] |
+| Pasal 134 | [[#^penjelasan-pasal-134]] |
+| Pasal 135 | [[#^penjelasan-pasal-135]] |
+| Pasal 136 | [[#^penjelasan-pasal-136]] |
+| Pasal 137 | [[#^penjelasan-pasal-137]] |
+| Pasal 138 | [[#^penjelasan-pasal-138]] |
+| Pasal 139 | [[#^penjelasan-pasal-139]] |
+| Pasal 140 | [[#^penjelasan-pasal-140]] |
+| Pasal 141 | [[#^penjelasan-pasal-141]] |
+| Pasal 141 | [[#^penjelasan-pasal-141-2]] |
+| Pasal 142 | [[#^penjelasan-pasal-142]] |
+| Pasal 142 | [[#^penjelasan-pasal-142-2]] |
+| Pasal 143 | [[#^penjelasan-pasal-143]] |
+| Pasal 147 | [[#^penjelasan-pasal-147]] |
+| Pasal 153 | [[#^penjelasan-pasal-153]] |
+| Pasal 154 | [[#^penjelasan-pasal-154]] |
+| Pasal 155 | [[#^penjelasan-pasal-155]] |
+| Pasal 155 | [[#^penjelasan-pasal-155-2]] |
+| Pasal 156 | [[#^penjelasan-pasal-156]] |
+| Pasal 157 | [[#^penjelasan-pasal-157]] |
+| Pasal 157 | [[#^penjelasan-pasal-157-2]] |
+| Pasal 158 | [[#^penjelasan-pasal-158]] |
+| Pasal 158 | [[#^penjelasan-pasal-158-2]] |
+| Pasal 159 | [[#^penjelasan-pasal-159]] |
+| Pasal 160 | [[#^penjelasan-pasal-160]] |
+| Pasal 160 | [[#^penjelasan-pasal-160-2]] |
+| Pasal 161 | [[#^penjelasan-pasal-161]] |
+| Pasal 162 | [[#^penjelasan-pasal-162]] |
+| Pasal 162 | [[#^penjelasan-pasal-162-2]] |
+| Pasal 162 | [[#^penjelasan-pasal-162-3]] |
+| Pasal 163 | [[#^penjelasan-pasal-163]] |
+| Pasal 164 | [[#^penjelasan-pasal-164]] |
+| Pasal 165 | [[#^penjelasan-pasal-165]] |
+| Pasal 166 | [[#^penjelasan-pasal-166]] |
+| Pasal 167 | [[#^penjelasan-pasal-167]] |
+| Pasal 168 | [[#^penjelasan-pasal-168]] |
+| Pasal 169 | [[#^penjelasan-pasal-169]] |
+| Pasal 170 | [[#^penjelasan-pasal-170]] |
+| Pasal 171 | [[#^penjelasan-pasal-171]] |
+| Pasal 172 | [[#^penjelasan-pasal-172]] |
+| Pasal 173 | [[#^penjelasan-pasal-173]] |
+| Pasal 174 | [[#^penjelasan-pasal-174]] |
+| Pasal 175 | [[#^penjelasan-pasal-175]] |
+| Pasal 178 | [[#^penjelasan-pasal-178]] |
+| Pasal 183 | [[#^penjelasan-pasal-183]] |
+| Pasal 184 | [[#^penjelasan-pasal-184]] |
+| Pasal 185 | [[#^penjelasan-pasal-185]] |
+| Pasal 186 | [[#^penjelasan-pasal-186]] |
+| Pasal 252 | [[#^penjelasan-pasal-252]] |
+| Pasal 260 | [[#^penjelasan-pasal-260]] |
+| Pasal 300 | [[#^penjelasan-pasal-300]] |
+| Pasal 349 | [[#^penjelasan-pasal-349]] |
+| Pasal 1008 | [[#^penjelasan-pasal-1008]] |

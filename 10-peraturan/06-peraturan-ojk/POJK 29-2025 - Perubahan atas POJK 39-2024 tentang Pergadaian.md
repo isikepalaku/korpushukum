@@ -23,17 +23,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan atas POJK 39-2024 tentang Pergadaian
+**Perubahan atas POJK 39-2024 tentang Pergadaian**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/343945/peraturan-ojk-no-24-tahun-2025
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/343945/peraturan-ojk-no-24-tahun-2025)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -84,7 +89,6 @@ Indonesia Nomor 6845);
 Indonesia Tahun 2024 Nomor 52/OJK, Tambahan
 Lembaran Negara Republik Indonesia Nomor 120/OJK);
 
-
 -----
 
 MEMUTUSKAN:
@@ -121,7 +125,7 @@ induk dari UUS yang melakukan Pemisahan.
 2. Ketentuan ayat (1) dan ayat (2) Pasal 47 diubah
 sehingga berbunyi sebagai berikut:
 
-Pasal 47
+### Pasal 47 ^pasal-47
 (1) Perusahaan yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 21 ayat (2),
 ayat (3), Pasal 22, Pasal 23 ayat (1), Pasal 25 ayat
@@ -142,7 +146,6 @@ f. larangan menjadi PSP, Direksi, Dewan
 Komisaris, dan/atau DPS;
 g. denda administratif; dan/atau
 h. pencabutan izin unit usaha syariah.
-
 
 -----
 
@@ -189,7 +192,7 @@ Keuangan ini.
 4. Ketentuan Pasal 52 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 52
+### Pasal 52 ^pasal-52
 (1) Perusahaan dilarang membuka atau mengubah
 alamat kantor pusat dan Kantor Cabang di luar
 lingkup wilayah usaha yang ditetapkan dalam
@@ -201,7 +204,6 @@ a. Perusahaan dengan lingkup wilayah usaha
 nasional akan membuka atau mengubah
 alamat Kantor Cabang di luar negeri;
 dan/atau
-
 
 -----
 
@@ -254,12 +256,11 @@ ayat (1).
 8. Ketentuan Pasal 56 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 56
+### Pasal 56 ^pasal-56
 (1) Perusahaan yang memiliki Kantor Cabang, wajib
 memiliki paling sedikit 1 (satu) orang Penaksir
 untuk melakukan penaksiran atas Benda Jaminan
 pada setiap Kantor Cabang.
-
 
 -----
 
@@ -318,7 +319,6 @@ Penaksir wajib mengalihkan layanan Nasabah
 kepada Kantor Cabang lain terdekat.
 (9) Dalam hal Perusahaan tidak memiliki Kantor
 Cabang lain, kewajiban mengalihkan layanan
-
 
 -----
 
@@ -380,7 +380,6 @@ permintaan perbaikan, penolakan, atau
 pernyataan tidak keberatan atas rencana aksi
 (action plan) yang disampaikan oleh Perusahaan
 
-
 -----
 
 dalam jangka waktu paling lama 14 (empat belas)
@@ -435,12 +434,11 @@ ayat (11).
 10. Ketentuan ayat (1) dan ayat (2) Pasal 62 diubah
 sehingga berbunyi sebagai berikut:
 
-Pasal 62
+### Pasal 62 ^pasal-62
 (1) Perusahaan yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 56 ayat (1),
 ayat (2), ayat (3), ayat (7), ayat (8), ayat (10), ayat
 (11), Pasal 56A ayat (1), ayat (2), ayat (7), ayat (12),
-
 
 -----
 
@@ -493,12 +491,11 @@ sistem elektronik Otoritas Jasa Keuangan.
 11. Ketentuan Pasal 63 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 63
+### Pasal 63 ^pasal-63
 (1) Perubahan kepemilikan yang mengakibatkan
 terjadinya pengambilalihan atas perubahan PSP
 wajib memperoleh persetujuan dari Otoritas Jasa
 Keuangan.
-
 
 -----
 
@@ -539,7 +536,7 @@ d. saham bonus.
 12. Ketentuan ayat (1) Pasal 65 diubah sehingga berbunyi
 sebagai berikut:
 
-Pasal 65
+### Pasal 65 ^pasal-65
 (1) Untuk memperoleh persetujuan perubahan
 kepemilikan yang mengakibatkan terjadinya
 pengambilalihan sebagaimana dimaksud dalam
@@ -556,7 +553,6 @@ adanya PSP baru sebagaimana dimaksud dalam
 Pasal 63 ayat (1), Otoritas Jasa Keuangan
 melakukan penilaian kemampuan dan kepatutan
 kepada calon PSP.
-
 
 -----
 
@@ -616,7 +612,6 @@ terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
 16. Ketentuan tabel 20 dalam Lampiran Peraturan Otoritas
 Jasa Keuangan Nomor 39 Tahun 2024 tentang
 
-
 -----
 
 Pergadaian diubah sehingga menjadi sebagaimana
@@ -627,7 +622,7 @@ Keuangan ini.
 17. Ketentuan ayat (1) dan ayat (2) Pasal 75 diubah
 sehingga berbunyi sebagai berikut:
 
-Pasal 75
+### Pasal 75 ^pasal-75
 (1) Perusahaan yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 63 ayat (1),
 ayat (2), ayat (6), Pasal 64 ayat (1), Pasal 65A ayat
@@ -675,7 +670,6 @@ c. melakukan pencatatan rekam jejak terhadap
 pihak terkait Perusahaan yang menyebabkan
 Perusahaan melanggar ketentuan
 
-
 -----
 
 sebagaimana dimaksud pada ayat (1) dalam
@@ -684,7 +678,7 @@ sistem elektronik Otoritas Jasa Keuangan.
 18. Ketentuan ayat (6) Pasal 115 dihapus sehingga Pasal
 115 berbunyi sebagai berikut:
 
-Pasal 115
+### Pasal 115 ^pasal-115
 (1) Anggota Tim Likuidasi diberikan remunerasi yang
 ditetapkan oleh:
 a. RUPS untuk Tim Likuidasi yang dibentuk oleh
@@ -718,7 +712,7 @@ dalam Likuidasi.
 19. Ketentuan ayat (8) Pasal 116 dihapus sehingga Pasal
 116 berbunyi sebagai berikut:
 
-Pasal 116
+### Pasal 116 ^pasal-116
 (1) Tim Likuidasi menyusun rencana kerja dan
 anggaran biaya dalam pelaksanaan Likuidasi
 mengacu pada pedoman rencana kerja dan
@@ -732,7 +726,6 @@ c. rencana dan cara pencairan aset;
 d. rencana dan cara penagihan piutang;
 e. rencana dan cara pembayaran kewajiban
 kepada Nasabah;
-
 
 -----
 
@@ -773,7 +766,7 @@ tersebut kepada Otoritas Jasa Keuangan.
 20. Ketentuan ayat (6) Pasal 122 dihapus sehingga Pasal
 122 berbunyi sebagai berikut:
 
-Pasal 122
+### Pasal 122 ^pasal-122
 (1) Tim Likuidasi menyusun Neraca Sementara
 Likuidasi dengan mengacu pada pedoman
 penyusunan Neraca Sementara Likuidasi.
@@ -792,7 +785,6 @@ Keuangan.
 (4) Tim Likuidasi wajib memenuhi permintaan
 Otoritas Jasa Keuangan sebagaimana dimaksud
 
-
 -----
 
 pada ayat (3) paling lambat 20 (dua puluh) hari
@@ -809,7 +801,7 @@ Keuangan.
 21. Ketentuan Pasal 142 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 142
+### Pasal 142 ^pasal-142
 (1) Kegiatan usaha berdasarkan Prinsip Syariah
 sebagaimana dimaksud dalam Pasal 141
 dilaksanakan dengan menggunakan akad:
@@ -850,7 +842,6 @@ dimaksud pada ayat (5), kegiatan yang sudah
 berjalan dinyatakan tetap berlaku sampai dengan
 masa kontrak atau perjanjian berakhir.
 
-
 -----
 
 22. Ketentuan tabel 39 dalam Lampiran Peraturan Otoritas
@@ -860,7 +851,7 @@ Pergadaian dihapus.
 23. Ketentuan Pasal 152 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 152
+### Pasal 152 ^pasal-152
 (1) Perusahaan yang memiliki kegiatan usaha
 sebagaimana dimaksud dalam Pasal 136 ayat (1)
 dan ayat (2) wajib melakukan mitigasi risiko
@@ -908,13 +899,12 @@ c. masih sesuai risk appetite Perusahaan,
 Perusahaan dapat mempertimbangkan Nasabah
 untuk memperoleh penyaluran Pinjaman.
 
-
 -----
 
 24. Ketentuan ayat (5) Pasal 157 diubah sehingga berbunyi
 sebagai berikut:
 
-Pasal 157
+### Pasal 157 ^pasal-157
 (1) Dalam menjalankan kegiatan usaha sebagaimana
 dimaksud dalam Pasal 136, Perusahaan dapat
 bekerja sama dengan pihak lain melalui:
@@ -965,7 +955,6 @@ b. tanggung jawab dan kewajiban para pihak
 dalam proses persetujuan pemberian
 Pinjaman;
 
-
 -----
 
 c. proporsi Pinjaman, pendapatan, biaya,
@@ -1013,7 +1002,7 @@ ayat (1), wajib memperoleh opini DPS.
 26. Ketentuan ayat (1) dan ayat (2) Pasal 167 diubah
 sehingga berbunyi sebagai berikut:
 
-Pasal 167
+### Pasal 167 ^pasal-167
 (1) Perusahaan yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 136 ayat (4),
 Pasal 137, Pasal 138, Pasal 139 ayat (1), Pasal 140
@@ -1023,7 +1012,6 @@ Pasal 143 ayat (1), ayat (2), Pasal 144 ayat (1), ayat
 (1), Pasal 148 ayat (5), ayat (6), Pasal 149, Pasal
 151 ayat (1), ayat (2), Pasal 152 ayat (1), Pasal 153
 ayat (1), ayat (3), Pasal 154, Pasal 155 ayat (1), ayat
-
 
 -----
 
@@ -1080,9 +1068,8 @@ sistem elektronik Otoritas Jasa Keuangan.
 27. Ketentuan ayat (1) Pasal 170 diubah sehingga berbunyi
 sebagai berikut:
 
-Pasal 170
+### Pasal 170 ^pasal-170
 (1) Pelampauan BMPP dapat disebabkan oleh:
-
 
 -----
 
@@ -1123,7 +1110,7 @@ rencana tindak sebagaimana dimaksud pada ayat
 29. Ketentuan ayat (1) dan ayat (2) Pasal 174 diubah
 sehingga berbunyi sebagai berikut:
 
-Pasal 174
+### Pasal 174 ^pasal-174
 (1) Perusahaan yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 168 ayat (1),
 ayat (5), Pasal 169 ayat (1), ayat (2), Pasal 170 ayat
@@ -1140,7 +1127,6 @@ f. larangan menjadi PSP, Direksi, Dewan
 Komisaris, dan/atau DPS;
 g. denda administratif; dan/atau
 h. pencabutan izin unit usaha syariah.
-
 
 -----
 
@@ -1180,7 +1166,7 @@ sistem elektronik Otoritas Jasa Keuangan.
 30. Ketentuan Pasal 182 ditambahkan 2 (dua) ayat, yakni
 ayat (3) dan ayat (4) sehingga berbunyi sebagai berikut:
 
-Pasal 182
+### Pasal 182 ^pasal-182
 (1) Perusahaan dilarang memperoleh pendanaan
 selain berupa:
 a. penambahan Modal Disetor tidak melalui
@@ -1200,7 +1186,6 @@ secara tertulis.
 (3) Perusahaan Pergadaian Syariah dapat
 memperoleh sumber pendanaan berupa pinjaman
 
-
 -----
 
 dari lembaga pemerintah, bank, industri keuangan
@@ -1216,7 +1201,7 @@ memperoleh opini DPS.
 31. Ketentuan ayat (3) Pasal 187 diubah sehingga berbunyi
 sebagai berikut:
 
-Pasal 187
+### Pasal 187 ^pasal-187
 (1) Perusahaan yang akan melakukan penerbitan efek
 melalui penawaran umum sebagaimana dimaksud
 dalam Pasal 182 ayat (1) huruf d wajib melaporkan
@@ -1245,7 +1230,7 @@ diterima.
 32. Ketentuan ayat (3) Pasal 189 diubah sehingga berbunyi
 sebagai berikut:
 
-Pasal 189
+### Pasal 189 ^pasal-189
 (1) Perusahaan yang akan melakukan penerbitan efek
 bersifat utang tidak melalui penawaran umum
 sebagaimana dimaksud dalam Pasal 182 ayat (1)
@@ -1258,7 +1243,6 @@ Direksi kepada Otoritas Jasa Keuangan dengan
 melampirkan dokumen persyaratan pelaporan
 rencana penerbitan efek bersifat utang tidak
 melalui penawaran umum tercantum dalam
-
 
 -----
 
@@ -1277,7 +1261,7 @@ laporan diterima.
 33. Ketentuan ayat (1) dan ayat (2) Pasal 191 diubah
 sehingga berbunyi sebagai berikut:
 
-Pasal 191
+### Pasal 191 ^pasal-191
 (1) Perusahaan yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 182 ayat (1),
 ayat (2), ayat (4), Pasal 183, Pasal 184, Pasal 185,
@@ -1317,7 +1301,6 @@ pada ayat (1), Otoritas Jasa Keuangan berwenang:
 a. menurunkan hasil penilaian Tingkat
 Kesehatan;
 
-
 -----
 
 b. melakukan penilaian kembali terhadap pihak
@@ -1333,7 +1316,7 @@ sistem elektronik Otoritas Jasa Keuangan.
 34. Ketentuan ayat (1) Pasal 226 diubah sehingga berbunyi
 sebagai berikut:
 
-Pasal 226
+### Pasal 226 ^pasal-226
 (1) Permohonan perizinan, permohonan persetujuan,
 dan pelaporan sebagaimana dimaksud dalam
 Pasal 5 ayat (6), Pasal 10 ayat (2), Pasal 12 ayat (3),
@@ -1375,7 +1358,6 @@ Otoritas Jasa Keuangan.
 perizinan, permohonan persetujuan, dan
 pelaporan melalui sistem jaringan komunikasi
 data Otoritas Jasa Keuangan sebagaimana
-
 
 -----
 
@@ -1436,7 +1418,6 @@ kemampuan dan kepatutan bagi calon anggota
 Direksi, calon anggota Dewan Komisaris, calon
 PSP, dan calon anggota DPS.
 
-
 -----
 
 (5) Pihak sebagaimana dimaksud pada ayat (1) yang
@@ -1492,7 +1473,6 @@ Dalam hal pihak sebagaimana dimaksud dalam Pasal
 228A ayat (1) tidak memenuhi ketentuan sebagaimana
 dimaksud dalam Pasal 228A ayat (5), Otoritas Jasa
 Keuangan menolak permohonan izin usaha.
-
 
 -----
 
@@ -1551,7 +1531,6 @@ c. melakukan pencatatan rekam jejak terhadap
 pihak terkait Perusahaan yang menyebabkan
 Perusahaan melanggar ketentuan
 
-
 -----
 
 sebagaimana dimaksud pada ayat (1) dalam
@@ -1562,7 +1541,7 @@ sistem elektronik Otoritas Jasa Keuangan.
 41. Ketentuan huruf g Pasal 240 diubah sehingga berbunyi
 sebagai berikut:
 
-Pasal 240
+### Pasal 240 ^pasal-240
 Perusahaan yang telah memperoleh izin usaha pada
 saat Peraturan Otoritas Jasa Keuangan ini
 diundangkan, kewajiban terkait:
@@ -1598,7 +1577,7 @@ mulai berlaku tanggal 31 Desember 2025.
 42. Ketentuan Pasal 243 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 243
+### Pasal 243 ^pasal-243
 (1) Perusahaan yang telah memperoleh izin usaha
 dengan lingkup wilayah usaha provinsi dan
 nasional pada saat Peraturan Otoritas Jasa
@@ -1609,7 +1588,6 @@ dimaksud dalam Pasal 194 ayat (1) mulai berlaku
 sejak tanggal 27 Desember 2026.
 (2) Perusahaan yang telah memperoleh izin usaha
 dengan lingkup wilayah usaha provinsi dan
-
 
 -----
 
@@ -1663,7 +1641,6 @@ Pasal II
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal diundangkan.
 
-
 -----
 
 Agar setiap orang mengetahuinya, memerintahkan
@@ -1693,13 +1670,13 @@ SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR   Ж
 
-
 Д
-
 
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -1711,8 +1688,6 @@ TENTANG
 PERUBAHAN ATAS PERATURAN OTORITAS JASA KEUANGAN
 
 NOMOR 39 TAHUN 2024 TENTANG PERGADAIAN
-
-I. UMUM
 
 Perkembangan kondisi ekonomi nasional, transformasi kebijakan
 pemerintah dalam mendorong kemudahan berusaha, serta dinamika
@@ -1740,7 +1715,7 @@ diharapkan dapat memberikan landasan hukum yang tepat guna dalam
 pengaturan dan pengawasan usaha pergadaian, serta mendorong
 pertumbuhan industri yang berintegritas, berkelanjutan, dan inklusif.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
 Pasal I
 
@@ -1763,9 +1738,7 @@ c. dukungan sumber daya manusia.
 -----
 
 Angka 2
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
 
 Angka 3
@@ -1775,9 +1748,7 @@ Tabel 14
 Cukup jelas.
 
 Angka 4
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Cukup jelas.
 
 Angka 5
@@ -1787,9 +1758,7 @@ Pasal 53A
 Cukup jelas.
 
 Angka 6
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Dihapus.
 
 Angka 7
@@ -1799,9 +1768,7 @@ Pasal 55A
 Cukup jelas.
 
 Angka 8
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56
 Ayat (1)
 
 Cukup jelas.
@@ -1897,15 +1864,11 @@ Pasal 56A
 Cukup jelas.
 
 Angka 10
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
 
 Angka 11
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Ayat (1)
 
 Cukup jelas.
@@ -1955,9 +1918,7 @@ a) agio saham; dan/atau
 b) unsur Ekuitas lainnya.
 
 Angka 12
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
 
 Angka 13
@@ -1985,36 +1946,29 @@ Tabel 20
 Cukup jelas.
 
 Angka 17
-
-Pasal 75
-
+#### Pasal 75 ^penjelasan-pasal-75
 Cukup jelas.
 
 
 -----
 
 Angka 18
-
-Pasal 115 ayat (6)
-
+#### Pasal 115 ^penjelasan-pasal-115
+ayat (6)
 Dihapus.
 
 Angka 19
-
-Pasal 116 ayat (8)
-
+#### Pasal 116 ^penjelasan-pasal-116
+ayat (8)
 Dihapus.
 
 Angka 20
-
-Pasal 122 ayat (6)
-
+#### Pasal 122 ^penjelasan-pasal-122
+ayat (6)
 Dihapus.
 
 Angka 21
-
-Pasal 142
-
+#### Pasal 142 ^penjelasan-pasal-142
 Cukup jelas.
 
 Angka 22
@@ -2024,9 +1978,7 @@ Tabel 39
 Dihapus.
 
 Angka 23
-
-Pasal 152
-
+#### Pasal 152 ^penjelasan-pasal-152
 Ayat (1)
 
 Cukup jelas.
@@ -2063,9 +2015,7 @@ Huruf c
 Cukup jelas.
 
 Angka 24
-
-Pasal 157
-
+#### Pasal 157 ^penjelasan-pasal-157
 Ayat (1)
 
 Huruf a
@@ -2158,15 +2108,11 @@ Ayat (3)
 Cukup jelas.
 
 Angka 26
-
-Pasal 167
-
+#### Pasal 167 ^penjelasan-pasal-167
 Cukup jelas.
 
 Angka 27
-
-Pasal 170
-
+#### Pasal 170 ^penjelasan-pasal-170
 Ayat (1)
 
 Huruf a
@@ -2203,42 +2149,30 @@ Pasal 172A
 Cukup jelas.
 
 Angka 29
-
-Pasal 174
-
+#### Pasal 174 ^penjelasan-pasal-174
 Cukup jelas.
 
 Angka 30
-
-Pasal 182
-
+#### Pasal 182 ^penjelasan-pasal-182
 Cukup jelas.
 
 Angka 31
-
-Pasal 187
-
+#### Pasal 187 ^penjelasan-pasal-187
 Cukup jelas.
 
 Angka 32
-
-Pasal 189
-
+#### Pasal 189 ^penjelasan-pasal-189
 Cukup jelas.
 
 
 -----
 
 Angka 33
-
-Pasal 191
-
+#### Pasal 191 ^penjelasan-pasal-191
 Cukup jelas.
 
 Angka 34
-
-Pasal 226
-
+#### Pasal 226 ^penjelasan-pasal-226
 Cukup jelas.
 
 Angka 35
@@ -2332,21 +2266,15 @@ Pasal 228C
 Cukup jelas.
 
 Angka 40
-
-Pasal 236
-
+#### Pasal 236 ^penjelasan-pasal-236
 Dihapus.
 
 Angka 41
-
-Pasal 240
-
+#### Pasal 240 ^penjelasan-pasal-240
 Cukup jelas.
 
 Angka 42
-
-Pasal 243
-
+#### Pasal 243 ^penjelasan-pasal-243
 Cukup jelas.
 
 Angka 43
@@ -2611,3 +2539,32 @@ MAHENDRA SIREGAR
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 115 | [[#^penjelasan-pasal-115]] |
+| Pasal 116 | [[#^penjelasan-pasal-116]] |
+| Pasal 122 | [[#^penjelasan-pasal-122]] |
+| Pasal 142 | [[#^penjelasan-pasal-142]] |
+| Pasal 152 | [[#^penjelasan-pasal-152]] |
+| Pasal 157 | [[#^penjelasan-pasal-157]] |
+| Pasal 167 | [[#^penjelasan-pasal-167]] |
+| Pasal 170 | [[#^penjelasan-pasal-170]] |
+| Pasal 174 | [[#^penjelasan-pasal-174]] |
+| Pasal 182 | [[#^penjelasan-pasal-182]] |
+| Pasal 187 | [[#^penjelasan-pasal-187]] |
+| Pasal 189 | [[#^penjelasan-pasal-189]] |
+| Pasal 191 | [[#^penjelasan-pasal-191]] |
+| Pasal 226 | [[#^penjelasan-pasal-226]] |
+| Pasal 236 | [[#^penjelasan-pasal-236]] |
+| Pasal 240 | [[#^penjelasan-pasal-240]] |
+| Pasal 243 | [[#^penjelasan-pasal-243]] |

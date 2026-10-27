@@ -23,17 +23,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Pelindungan Konsumen dan Masyarakat di Sektor Jasa Keuangan
+**Pelindungan Konsumen dan Masyarakat di Sektor Jasa Keuangan**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/302699/peraturan-ojk-no-22-tahun-2023
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/302699/peraturan-ojk-no-22-tahun-2023)
-
 
 OTORITAS JASA KEUANGAN
 
@@ -92,7 +97,6 @@ tentang Pengembangan dan Penguatan Sektor Keuangan
 4, Tambahan Lembaran Negara Republik Indonesia
 Nomor 6845);
 
-
 -----
 
 2. Undang-Undang Nomor 4 Tahun 2023 tentang
@@ -109,7 +113,7 @@ JASA KEUANGAN.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
 dengan:
 1. Lembaga Jasa Keuangan yang selanjutnya disingkat LJK
@@ -155,7 +159,6 @@ produk dan/atau layanan yang telah disepakati.
 informasi oleh Konsumen dan/atau masyarakat atas
 indikasi pelanggaran ketentuan peraturan perundangundangan di sektor jasa keuangan yang dilakukan oleh
 PUJK.
-
 
 -----
 
@@ -221,7 +224,6 @@ mewujudkan Pelindungan Konsumen.
 (Market Conduct) dengan melakukan serangkaian kegiatan
 menghimpun dan mengolah data, keterangan, dan/atau
 
-
 -----
 
 bukti, dan analisis atas produk dan/atau layanan jasa
@@ -254,7 +256,7 @@ masyarakat yang bersifat wajib, serta lembaga jasa
 keuangan lain yang dinyatakan diawasi oleh Otoritas Jasa
 Keuangan berdasarkan ketentuan peraturan perundangundangan.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 PUJK sebagaimana dimaksud dalam Pasal 1 angka 2 terdiri
 atas:
 a. LJK yang meliputi:
@@ -283,7 +285,6 @@ peraturan perundang-undangan,
 baik yang melaksanakan kegiatan usahanya secara
 konvensional maupun secara syariah.
 
-
 -----
 
 BAB II
@@ -294,7 +295,7 @@ DI SEKTOR JASA KEUANGAN
 Bagian Kesatu
 Prinsip Pelindungan Konsumen
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) PUJK dalam menyelenggarakan kegiatan usaha wajib
 menerapkan prinsip Pelindungan Konsumen.
 (2) Pelindungan Konsumen di sektor jasa keuangan
@@ -335,7 +336,7 @@ Paragraf 1
 
 Umum
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) PUJK wajib beriktikad baik dalam melakukan kegiatan
 usaha dan/atau memberikan produk dan/atau layanan
 kepada calon Konsumen dan/atau Konsumen.
@@ -349,7 +350,6 @@ sebagaimana dimaksud pada ayat (2).
 (4) PUJK dilarang melakukan tindakan yang melanggar
 ketentuan peraturan perundang-undangan atau norma
 yang berlaku di masyarakat yang dapat menimbulkan
-
 
 -----
 
@@ -386,7 +386,7 @@ pada ayat (2) dan/atau ayat (4) dapat dikenai sanksi sesuai
 dengan undang-undang mengenai pengembangan dan
 penguatan sektor keuangan.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) PUJK dilarang menyetujui permohonan penggunaan
 produk dan/atau layanan dari pihak yang melakukan
 kegiatan usaha di sektor keuangan yang tidak memiliki
@@ -414,7 +414,6 @@ permohonan penggunaan produk dan/atau layanan
 dan/atau bekerja sama dengan PUJK sedang dalam proses
 perizinan dari otoritas di sektor keuangan.
 
-
 -----
 
 (6) Otoritas Jasa Keuangan mengenakan sanksi administratif
@@ -437,11 +436,11 @@ sebagaimana dimaksud pada ayat (6) huruf a.
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
 
-Pasal 6
+### Pasal 6 ^pasal-6
 PUJK berhak mendapat pelindungan hukum dari tindakan
 Konsumen yang beriktikad tidak baik.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) PUJK berhak memastikan adanya iktikad baik calon
 Konsumen dan/atau Konsumen.
 (2) PUJK berhak mendapatkan informasi dan/atau dokumen
@@ -475,10 +474,9 @@ c. melakukan tindakan lain yang diperlukan sesuai
 ketentuan peraturan perundang-undangan di sektor
 jasa keuangan.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) PUJK wajib memiliki dan menerapkan kebijakan dan
 prosedur tertulis Pelindungan Konsumen.
-
 
 -----
 
@@ -525,7 +523,7 @@ sebagaimana dimaksud pada ayat (4) huruf a.
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) PUJK wajib mencegah Direksi, Dewan Komisaris, Pegawai,
 dan/atau pihak ketiga yang bekerja untuk atau mewakili
 kepentingan PUJK dari perilaku:
@@ -542,7 +540,6 @@ ditetapkan oleh masing-masing PUJK.
 pada ayat (1) dan/atau ayat (2) dikenai sanksi
 administratif berupa:
 a. peringatan tertulis;
-
 
 -----
 
@@ -562,7 +559,7 @@ sebagaimana dimaksud pada ayat (3) huruf a.
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) PUJK wajib bertanggung jawab atas kerugian Konsumen
 yang disebabkan kesalahan, kelalaian, dan perbuatan
 yang bertentangan dengan ketentuan peraturan
@@ -593,7 +590,7 @@ keuangan.
 Paragraf 2
 Literasi Keuangan dan Inklusi Keuangan
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) PUJK wajib melaksanakan kegiatan untuk meningkatkan
 Literasi Keuangan kepada Konsumen dan/atau
 masyarakat sebagai program tahunan.
@@ -605,7 +602,6 @@ sebagaimana dimaksud pada ayat (1).
 (4) Ketentuan mengenai pelaksanaan kegiatan untuk
 peningkatan Literasi Keuangan dilaksanakan sesuai
 dengan Peraturan Otoritas Jasa Keuangan mengenai
-
 
 -----
 
@@ -631,7 +627,7 @@ sebagaimana dimaksud pada ayat (5) huruf a.
 e dikenakan paling banyak Rp15.000.000.000,00 (lima
 belas miliar rupiah).
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) PUJK wajib melaksanakan kegiatan untuk meningkatkan
 Inklusi Keuangan kepada Konsumen dan/atau
 masyarakat sebagai program tahunan.
@@ -666,11 +662,10 @@ sebagaimana dimaksud pada ayat (5) huruf a.
 e dikenakan paling banyak Rp15.000.000.000,00 (lima
 belas miliar rupiah).
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) PUJK wajib menyusun dan menyampaikan:
 a. laporan Literasi Keuangan; dan
 b. laporan Inklusi Keuangan,
-
 
 -----
 
@@ -725,7 +720,7 @@ dimaksud pada ayat (7), yang melanggar ketentuan
 sebagaimana dimaksud pada ayat (1) dan/atau ayat (5)
 dikenai sanksi administratif berupa peringatan tertulis.
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) PUJK wajib menyampaikan laporan rencana sebagaimana
 dimaksud dalam Pasal 13 ayat (3) dan ayat (4) paling
 lambat pada tanggal 30 November sebelum tahun kegiatan
@@ -734,7 +729,6 @@ dilaksanakan.
 Minggu, atau hari libur, laporan rencana sebagaimana
 dimaksud pada ayat (1) disampaikan pada 1 (satu) hari
 kerja berikutnya.
-
 
 -----
 
@@ -800,7 +794,6 @@ sampai dengan huruf g dikenakan dengan atau tanpa
 didahului pengenaan sanksi peringatan tertulis
 sebagaimana dimaksud pada ayat (8) huruf a.
 
-
 -----
 
 (10) Sanksi  denda  sebagaimana  dimaksud  pada  ayat (8)
@@ -808,7 +801,7 @@ sebagaimana dimaksud pada ayat (8) huruf a.
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) PUJK wajib menyampaikan laporan realisasi sebagaimana
 dimaksud dalam Pasal 13 ayat (3) dan ayat (4) secara
 semesteran.
@@ -866,7 +859,6 @@ dimaksud pada ayat (7), yang terlambat menyampaikan
 laporan realisasi sebagaimana dimaksud pada ayat (4)
 dikenai sanksi administratif berupa peringatan tertulis.
 
-
 -----
 
 (9) PUJK yang melanggar ketentuan sebagaimana dimaksud
@@ -890,7 +882,7 @@ sebagaimana dimaksud pada ayat (9) huruf a.
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) PUJK dapat melakukan penyesuaian atau perubahan
 laporan rencana Literasi Keuangan dan Inklusi Keuangan.
 (2) Laporan rencana sebagaimana dimaksud pada ayat (1)
@@ -932,7 +924,6 @@ Jasa Keuangan.
 penyesuaian sebagaimana dimaksud pada ayat (7) dikenai
 sanksi administratif berupa denda administratif dengan
 rincian:
-
 
 -----
 
@@ -987,7 +978,7 @@ sebagaimana dimaksud pada ayat (12) huruf a.
 e dikenakan paling banyak Rp15.000.000.000,00 (lima
 belas miliar rupiah).
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Penyampaian laporan rencana, laporan realisasi,
 penyesuaian laporan, dan perubahan laporan dilakukan
 melalui sistem pelaporan elektronik yang disediakan oleh
@@ -1002,7 +993,6 @@ dalam jaringan sebagaimana dimaksud pada ayat (2)
 dilengkapi surat pengantar dalam bentuk cetak yang
 ditandatangani oleh salah satu anggota Direksi.
 
-
 -----
 
 (4) PUJK yang telah menyampaikan laporan sebagaimana
@@ -1015,7 +1005,7 @@ menyatakan bahwa gangguan sistem telah teratasi.
 pada ayat (4) dikenai sanksi administratif berupa
 peringatan tertulis.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 Kewajiban pelaksanaan kegiatan untuk peningkatan Literasi
 Keuangan dan Inklusi Keuangan dikecualikan untuk
 Perusahaan Reasuransi, Perusahaan Penjaminan Ulang,
@@ -1025,7 +1015,7 @@ Kerja, dan Lembaga Keuangan Mikro.
 Paragraf 3
 Pelindungan Data dan Informasi Konsumen
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) PUJK wajib menjaga kerahasiaan dan keamanan data
 dan/atau informasi Konsumen.
 (2) Data dan/atau informasi Konsumen sebagaimana
@@ -1066,7 +1056,6 @@ memperoleh salinan data dan/atau informasi Konsumen
 sebagaimana dimaksud pada ayat (1) sesuai dengan
 ketentuan peraturan perundang-undangan.
 
-
 -----
 
 (6) PUJK yang melanggar ketentuan sebagaimana dimaksud
@@ -1094,7 +1083,7 @@ dimaksud pada ayat (1), dapat dikenai sanksi sesuai
 dengan undang-undang mengenai pengembangan dan
 penguatan sektor keuangan.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Dalam penggunaan data dan/atau informasi Konsumen,
 PUJK dapat melakukan pertukaran data dan/atau
 informasi Konsumen dengan pihak lain dengan
@@ -1114,7 +1103,7 @@ data dan/atau informasi Konsumen di sektor
 keuangan berdasarkan ketentuan peraturan
 perundang-undangan.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) PUJK dapat melakukan transfer data dan/atau informasi
 Konsumen berupa perseorangan sebagaimana dimaksud
 dalam Pasal 19 ayat (2) huruf a kepada pihak lain di luar
@@ -1128,7 +1117,6 @@ dimaksud dalam Pasal 19 ayat (2) huruf b, PUJK wajib
 memastikan negara tempat kedudukan pihak penerima
 transfer data dan/atau informasi Konsumen memiliki
 tingkat pelindungan data pribadi yang setara atau lebih
-
 
 -----
 
@@ -1173,7 +1161,7 @@ pada ayat (2) dan ayat (3) dapat dikenai sanksi sesuai
 dengan ketentuan peraturan perundang-undangan
 mengenai pelindungan data pribadi.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) PUJK dilarang:
 a. memberikan data dan/atau informasi mengenai
 Konsumen kepada pihak lain;
@@ -1192,7 +1180,6 @@ syarat penggunaan produk dan/atau layanan.
 (3) PUJK yang melanggar ketentuan sebagaimana dimaksud
 pada ayat (1) dan/atau ayat (2) dikenai sanksi
 administratif berupa:
-
 
 -----
 
@@ -1213,7 +1200,7 @@ sebagaimana dimaksud pada ayat (3) huruf a.
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Ketentuan sebagaimana dimaksud dalam Pasal 22 ayat
 (1) dikecualikan untuk PUJK yang telah memiliki dasar
 pemrosesan sebagaimana diatur dalam ketentuan
@@ -1256,14 +1243,13 @@ sampai dengan huruf g dikenakan dengan atau tanpa
 didahului pengenaan sanksi peringatan tertulis
 sebagaimana dimaksud pada ayat (5) huruf a.
 
-
 -----
 
 (7) Sanksi  denda  sebagaimana  dimaksud  pada  ayat (5)
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
 
-Pasal 24
+### Pasal 24 ^pasal-24
 (1) Dalam pelaksanaan kegiatan usaha, PUJK wajib
 memastikan keamanan sistem informasi dan ketahanan
 siber untuk Pelindungan Konsumen.
@@ -1314,12 +1300,11 @@ huruf e dikenakan paling banyak Rp15.000.000.000,00
 Bagian Ketiga
 Desain Produk dan Layanan
 
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) PUJK wajib melakukan perancangan produk dan/atau
 layanan yang sesuai dengan target Konsumen.
 (2) Perancangan produk dan/atau layanan sebagaimana
 dimaksud pada ayat (1) mempertimbangkan:
-
 
 -----
 
@@ -1355,7 +1340,7 @@ pelanggaran ketentuan sebagaimana dimaksud pada ayat
 sanksi, PUJK dapat dikenai sanksi sesuai dengan undangundang mengenai pengembangan dan penguatan sektor
 keuangan.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 (1) PUJK wajib melakukan pengujian produk dan/atau
 layanan baru.
 (2) Pengujian produk dan/atau layanan sebagaimana
@@ -1383,7 +1368,6 @@ g. pencabutan izin usaha.
 (6) Sanksi sebagaimana dimaksud pada ayat (5) huruf b
 sampai dengan huruf g dikenakan dengan atau tanpa
 
-
 -----
 
 didahului pengenaan sanksi peringatan tertulis
@@ -1392,14 +1376,14 @@ sebagaimana dimaksud pada ayat (5) huruf a.
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
 
-Pasal 27
+### Pasal 27 ^pasal-27
 Kewajiban sebagaimana dimaksud dalam Pasal 26
 dikecualikan untuk:
 a. produk dan/atau layanan untuk pelaksanaan program
 pemerintah atau otoritas; dan/atau
 b. produk dan/atau layanan pada Lembaga Keuangan Mikro.
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) PUJK wajib memiliki pedoman penetapan nilai/harga
 dan/atau biaya produk dan/atau layanan.
 (2) PUJK berhak menerima pembayaran sesuai dengan
@@ -1427,7 +1411,7 @@ huruf e dikenakan paling banyak Rp15.000.000.000,00
 Bagian Keempat
 Penyediaan Informasi Produk dan Layanan
 
-Pasal 29
+### Pasal 29 ^pasal-29
 (1) PUJK wajib menyediakan informasi mengenai produk
 dan/atau layanan yang jelas, akurat, jujur, mudah
 diakses, dan tidak berpotensi menyesatkan calon
@@ -1447,7 +1431,6 @@ dalam dokumen sebagaimana dimaksud pada ayat (2).
 (5) PUJK dilarang menyediakan informasi dan/atau dokumen
 yang tidak menggunakan Bahasa Indonesia sesuai dengan
 ketentuan peraturan perundang-undangan.
-
 
 -----
 
@@ -1484,7 +1467,7 @@ dalam penetapan sanksi, PUJK dapat dikenai sanksi
 sesuai dengan ndang-undang mengenai pengembangan
 dan penguatan sektor keuangan.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 (1) PUJK wajib menyediakan ringkasan informasi produk
 dan/atau layanan yang dibuat dengan memuat:
 a. informasi terkait:
@@ -1514,7 +1497,6 @@ Otoritas Jasa Keuangan;
 c. nama PAYDI yang dipasarkan;
 d. pernyataan bahwa PAYDI yang dipasarkan
 merupakan produk asuransi;
-
 
 -----
 
@@ -1572,20 +1554,19 @@ sebagaimana dimaksud pada ayat (5) huruf a.
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
 
-Pasal 31
+### Pasal 31 ^pasal-31
 Kewajiban penyediaan ringkasan informasi produk dan/atau
 layanan sebagaimana dimaksud dalam Pasal 30 ayat (1)
 dikecualikan dari produk dan/atau layanan:
 a. program pemerintah atau otoritas; dan/atau
 b. digunakan secara berulang oleh Konsumen.
 
-
 -----
 
 Bagian Kelima
 Penyampaian Informasi Produk dan Layanan
 
-Pasal 32
+### Pasal 32 ^pasal-32
 (1) PUJK wajib memberikan informasi mengenai produk
 dan/atau layanan yang jelas, akurat, jujur, mudah
 diakses, dan tidak berpotensi menyesatkan sesuai dengan
@@ -1620,7 +1601,7 @@ pada ayat (1), dapat dikenai sanksi sesuai dengan
 undang-undang mengenai pengembangan dan penguatan
 sektor keuangan.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 (1) PUJK wajib menyampaikan ringkasan informasi produk
 dan/atau layanan versi umum sebagaimana dimaksud
 dalam Pasal 30 ayat (2) huruf a kepada calon Konsumen
@@ -1642,7 +1623,6 @@ dan ayat (3) dilakukan dengan metode:
 a. tatap muka; dan/atau
 b. tanpa tatap muka.
 
-
 -----
 
 (5) Teknis penyampaian ringkasan informasi produk
@@ -1656,7 +1636,11 @@ aktivitas kerja sama dengan PUJK lain dengan model
 bisnis referensi untuk produk PUJK, masing-masing PUJK
 pemilik produk dan/atau layanan hasil aktivitas kerja
 sama wajib bertanggung jawab atas penyampaian dan
-penjelasan masing-masing ringkasan informasi produk
+
+## Penjelasan
+
+### I. Umum
+
 dan/atau layanan kepada calon Konsumen.
 (7) PUJK wajib melakukan konfirmasi pemahaman calon
 Konsumen atas ringkasan informasi produk dan/atau
@@ -1708,7 +1692,6 @@ administratif berupa:
 a. peringatan tertulis;
 b. pembatasan produk dan/atau layanan dan/atau
 kegiatan usaha untuk sebagian atau seluruhnya;
-
 
 -----
 
@@ -1775,7 +1758,6 @@ Pasal 36
 (1) PUJK dilarang menawarkan produk dan/atau layanan
 yang merugikan atau berpotensi merugikan calon
 
-
 -----
 
 Konsumen dengan menyalahgunakan keadaan atau
@@ -1839,7 +1821,6 @@ c. pembekuan produk dan/atau layanan dan/atau
 kegiatan usaha untuk sebagian atau seluruhnya;
 d. pemberhentian pengurus;
 
-
 -----
 
 e. denda administratif;
@@ -1902,7 +1883,6 @@ layanan kepada calon Konsumen dan/atau Konsumen
 melalui sarana komunikasi pribadi tanpa persetujuan
 calon Konsumen dan/atau Konsumen.
 
-
 -----
 
 (2) PUJK dilarang mewajibkan persetujuan penawaran
@@ -1964,7 +1944,6 @@ g. pencabutan izin usaha.
 sampai dengan huruf g dikenakan dengan atau tanpa
 didahului pengenaan sanksi peringatan tertulis
 sebagaimana dimaksud pada ayat (9) huruf a.
-
 
 -----
 
@@ -2032,7 +2011,6 @@ tambahan (rider) atas PAYDI yang biaya asuransinya
 dibebankan kepada nilai tunai, PUJK wajib memiliki hasil
 analisis dan menyampaikan penjelasan kepada Konsumen
 
-
 -----
 
 bahwa nilai tunai PAYDI cukup untuk dibebani biaya
@@ -2093,7 +2071,6 @@ sebagaimana dimaksud pada ayat (4) huruf a.
 (6) Sanksi  denda  sebagaimana dimaksud pada ayat (4)
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
-
 
 -----
 
@@ -2159,7 +2136,6 @@ antara PUJK dan Konsumen.
 menggunakan Bahasa Indonesia sesuai dengan ketentuan
 peraturan perundang-undangan.
 
-
 -----
 
 (7) Perjanjian sebagaimana dimaksud pada ayat (2) dapat
@@ -2224,7 +2200,6 @@ administratif sebagaimana dimaksud pada ayat (5) untuk
 pelanggaran ketentuan sebagaimana dimaksud pada ayat
 (1) dalam jangka waktu yang tercantum dalam penetapan
 
-
 -----
 
 sanksi, PUJK dapat dikenai sanksi sesuai dengan undangundang mengenai pengembangan dan penguatan sektor
@@ -2287,7 +2262,6 @@ b. pembatasan produk dan/atau layanan dan/atau
 kegiatan usaha untuk sebagian atau seluruhnya;
 c. pembekuan produk dan/atau layanan dan/atau
 kegiatan usaha untuk sebagian atau seluruhnya;
-
 
 -----
 
@@ -2352,7 +2326,6 @@ yang digunakan sebagai acuan;
 e. besaran, cara, waktu, dan jangka waktu pembayaran
 premi atau kontribusi;
 
-
 -----
 
 f. seluruh biaya yang dikenakan selama periode
@@ -2414,7 +2387,6 @@ berlaku.
 (4) Kewajiban jangka waktu menginformasikan sebagaimana
 dimaksud pada ayat (2) dikecualikan jika:
 a. ditetapkan oleh pemerintah atau otoritas;
-
 
 -----
 
@@ -2479,7 +2451,6 @@ tersebut dituangkan dalam adendum perjanjian.
 (4) Dalam hal Konsumen tidak menyetujui perubahan setelah
 dilakukan pemberitahuan atau konfirmasi sebagaimana
 
-
 -----
 
 dimaksud pada ayat (2), Konsumen berhak mengakhiri
@@ -2540,7 +2511,6 @@ dalam hal terjadi Sengketa.
 pada ayat (1) dikecualikan dari produk dan/atau layanan:
 a. program pemerintah atau otoritas;
 b. digunakan secara berulang oleh Konsumen;
-
 
 -----
 
@@ -2608,7 +2578,6 @@ Konsumen.
 pihak lain sebagaimana dimaksud pada ayat (1) dan ayat
 (2) tidak menimbulkan kerugian bagi Konsumen.
 
-
 -----
 
 (4) PUJK yang melanggar ketentuan sebagaimana dimaksud
@@ -2672,7 +2641,6 @@ a. peringatan tertulis;
 b. pembatasan produk dan/atau layanan dan/atau
 kegiatan usaha untuk sebagian atau seluruhnya;
 
-
 -----
 
 c. pembekuan produk dan/atau layanan dan/atau
@@ -2735,7 +2703,6 @@ Pasal 57
 (1) PUJK wajib memberikan laporan kepada Konsumen
 tentang posisi saldo dan mutasi dana, aset, atau
 
-
 -----
 
 kewajiban Konsumen secara akurat, benar, tepat waktu,
@@ -2797,7 +2764,6 @@ sebagaimana dimaksud pada ayat (2) huruf a.
 (4) Sanksi  denda  sebagaimana  dimaksud  pada  ayat (2)
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
-
 
 -----
 
@@ -2862,7 +2828,6 @@ lembaga sertifikasi profesi dan/atau asosiasi
 penyelenggara yang terdaftar di Otoritas Jasa
 Keuangan.
 
-
 -----
 
 (4) Dalam hal Penyelenggara Layanan Pendanaan Bersama
@@ -2925,7 +2890,6 @@ dengan Konsumen terlebih dahulu.
 (4) PUJK yang melanggar ketentuan sebagaimana dimaksud
 pada ayat (1) dan/atau (2) dikenai sanksi administratif
 berupa:
-
 
 -----
 
@@ -2990,7 +2954,6 @@ Keuangan; dan/atau
 c. mekanisme lain sesuai dengan ketentuan peraturan
 perundang-undangan.
 
-
 -----
 
 (3) Pengambilalihan atau penarikan agunan sebagaimana
@@ -3054,7 +3017,6 @@ kegiatan usaha untuk sebagian atau seluruhnya;
 c. pembekuan produk dan/atau layanan dan/atau
 kegiatan usaha untuk sebagian atau seluruhnya;
 d. pemberhentian pengurus;
-
 
 -----
 
@@ -3121,7 +3083,6 @@ Pengaduan kepada Konsumen.
 pada ayat (1) dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 
-
 -----
 
 b. pembatasan produk dan/atau layanan dan/atau
@@ -3185,7 +3146,6 @@ c. penyelesaian Pengaduan.
 paling kurang layanan penerimaan Pengaduan selama 24
 (dua puluh empat) jam.
 
-
 -----
 
 (4) PUJK yang melanggar ketentuan sebagaimana dimaksud
@@ -3244,7 +3204,6 @@ sebagaimana dimaksud pada ayat (4) huruf a.
 (6) Sanksi  denda  sebagaimana  dimaksud  pada  ayat (4)
 huruf e dikenakan paling banyak Rp15.000.000.000,00
 (lima belas miliar rupiah).
-
 
 -----
 
@@ -3312,7 +3271,6 @@ Pengaduan secara lisan.
 dimaksud pada ayat (1) paling sedikit terdiri atas:
 a. nomor registrasi Pengaduan; dan
 
-
 -----
 
 b. tanggal penerimaan Pengaduan.
@@ -3373,7 +3331,6 @@ huruf e dikenakan paling banyak Rp15.000.000.000,00
 
 Subparagraf 3
 Penanganan Pengaduan
-
 
 -----
 
@@ -3436,7 +3393,6 @@ sebagaimana dimaksud pada ayat (2) wajib diberitahukan
 secara tertulis kepada Konsumen yang mengajukan
 Pengaduan sebelum jangka waktu sebagaimana dimaksud
 pada ayat (1) berakhir.
-
 
 -----
 
@@ -3502,7 +3458,6 @@ bersangkutan; dan/atau
 e. Pengaduan sedang dalam proses atau telah diputus
 oleh lembaga peradilan secara perdata.
 
-
 -----
 
 (2) Penolakan Pengaduan sebagaimana dimaksud pada ayat
@@ -3566,7 +3521,6 @@ perundang-undangan di sektor jasa keuangan,
 dan/atau perjanjian, baik yang dilakukan oleh
 Direksi, Dewan Komisaris, Pegawai, dan/atau
 dilakukan oleh pihak ketiga yang bekerja untuk atau
-
 
 -----
 
@@ -3632,7 +3586,6 @@ berikutnya setelah periode semesteran berakhir.
 (4) Apabila batas akhir penyampaian laporan Layanan
 Pengaduan sebagaimana dimaksud pada ayat (3) jatuh
 
-
 -----
 
 pada hari Sabtu, hari Minggu, atau hari libur, laporan
@@ -3694,7 +3647,6 @@ pada ayat (4) dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 b. pembatasan produk dan/atau layanan dan/atau
 kegiatan usaha untuk sebagian atau seluruhnya;
-
 
 -----
 
@@ -3758,7 +3710,6 @@ melakukan kegiatan usaha penghimpunan dana,
 penyaluran dana, pengelolaan dana di sektor jasa
 keuangan serta yang dinyatakan diawasi oleh Otoritas
 Jasa Keuangan, berdasarkan peraturan perundangundangan di luar PUJK sebagaimana dimaksud pada ayat
-
 
 -----
 
@@ -3824,7 +3775,6 @@ terbukti secara hukum bahwa kerugian Konsumen tidak
 diakibatkan oleh produk dan/atau layanan yang diberikan
 berdasarkan ketentuan peraturan perundang-undangan.
 
-
 -----
 
 (2) Bentuk rehabilitasi nama baik PUJK ditentukan oleh
@@ -3888,7 +3838,6 @@ pelaporan elektronik sebagaimana dimaksud pada ayat (1)
 tidak dapat diakses karena mengalami gangguan, laporan
 disampaikan kepada Otoritas Jasa Keuangan secara luar
 jaringan dan/atau dalam jaringan.
-
 
 -----
 
@@ -3954,7 +3903,6 @@ Lembaga Pembiayaan Ekspor Indonesia, perusahaan
 pembiayaan sekunder perumahan, Penyelenggara
 Layanan Pendanaan Bersama Berbasis Teknologi
 
-
 -----
 
 Informasi, PT Permodalan Nasional Madani, dan
@@ -4017,7 +3965,6 @@ kepentingan pada Pegawai.
 (6) Dalam membentuk fungsi atau unit sebagaimana
 dimaksud pada ayat (1), PUJK mempertimbangkan:
 a. jumlah aset;
-
 
 -----
 
@@ -4086,7 +4033,6 @@ pengembangan Pelindungan Konsumen dan masyarakat;
 e. mengoordinasikan penyusunan dan penyampaian laporan
 terkait Pelindungan Konsumen dan masyarakat di sektor
 
-
 -----
 
 jasa keuangan sesuai dengan ketentuan peraturan
@@ -4148,7 +4094,6 @@ huruf e dikenakan paling banyak Rp15.000.000.000,00
 
 Bagian Ketiga
 Pengembangan Kapasitas Sumber Daya Manusia
-
 
 -----
 
@@ -4215,7 +4160,6 @@ dimaksud pada ayat (1) meliputi:
 a. mendapatkan keamanan dalam menggunakan
 produk dan/atau memanfaatkan layanan sesuai
 
-
 -----
 
 yang ditetapkan dalam ketentuan peraturan
@@ -4275,7 +4219,6 @@ PENYELENGGARAAN LAYANAN KONSUMEN DAN
 MASYARAKAT DI SEKTOR JASA KEUANGAN OLEH
 
 OTORITAS JASA KEUANGAN
-
 
 -----
 
@@ -4339,7 +4282,6 @@ melakukan layanan pemberian Informasi.
 dimaksud pada ayat (4) paling lama 10 (sepuluh) hari kerja
 sejak tanggal penyampaian permintaan Informasi melalui
 surat dan/atau surat elektronik.
-
 
 -----
 
@@ -4405,7 +4347,6 @@ Pengaduan selesai.
 pada ayat (4), ayat (5) dan ayat (6) dikenai sanksi
 administratif berupa:
 a. peringatan tertulis;
-
 
 -----
 
@@ -4474,7 +4415,6 @@ memenuhi ketentuan sebagaimana dimaksud pada ayat
 (3) dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 
-
 -----
 
 b. denda administratif;
@@ -4536,7 +4476,6 @@ dimaksud pada ayat (2) huruf e masih terdapat kelebihan
 perolehan ganti kerugian, Otoritas Jasa Keuangan
 melakukan pengembalian kepada PUJK atau pihak yang
 digugat.
-
 
 -----
 
@@ -4603,7 +4542,6 @@ sampai dengan huruf g dapat dikenakan dengan atau
 tanpa didahului pengenaan sanksi peringatan tertulis
 sebagaimana dimaksud pada ayat (3) huruf a.
 
-
 -----
 
 (5) Sanksi denda administratif sebagaimana dimaksud pada
@@ -4666,7 +4604,6 @@ d. pemberhentian pengurus;
 e. denda administratif;
 f. pencabutan izin produk dan/atau layanan; dan/atau
 g. pencabutan izin usaha.
-
 
 -----
 
@@ -4732,7 +4669,6 @@ keuangan.
 (2) Perintah Tertulis dilaksanakan sesuai dengan Peraturan
 Otoritas Jasa Keuangan mengenai perintah tertulis.
 
-
 -----
 
 BAB VIII
@@ -4795,7 +4731,6 @@ menerbitkan surat pembatalan pengenaan sanksi
 administratif.
 (7) Dalam hal keberatan sebagaimana dimaksud pada ayat (1)
 dikabulkan sebagian, Otoritas Jasa Keuangan
-
 
 -----
 
@@ -4861,7 +4796,6 @@ a. semua ketentuan mengenai perlindungan konsumen yang
 sudah ada sebelum Peraturan Otoritas Jasa Keuangan ini
 berlaku harus dibaca sebagai Pelindungan Konsumen;
 
-
 -----
 
 b. semua istilah pengaduan yang digunakan dalam
@@ -4925,7 +4859,6 @@ Republik Indonesia Nomor 5/SEOJK.05/2022 tentang
 Produk Asuransi yang Dikaitkan dengan Investasi,
 dinyatakan tetap berlaku sepanjang tidak bertentangan dengan
 Peraturan Otoritas Jasa Keuangan ini.
-
 
 -----
 
@@ -4996,7 +4929,6 @@ dan Inklusi Keuangan sebagaimana dimaksud pada ayat
 bersangkutan, pengacuannya diganti dengan Pasal dalam
 Peraturan ini dengan ketentuan:
 
-
 -----
 
 a. Pasal 3 pengacuannya diganti dengan Pasal 11;
@@ -5060,7 +4992,6 @@ a. laporan rencana sebagaimana dimaksud pada ayat
 b. laporan realisasi sebagaimana dimaksud pada ayat
 (2),
 
-
 -----
 
 disampaikan sesuai dengan ketentuan yang mengatur
@@ -5111,7 +5042,6 @@ YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 40/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Hukum 1
 Departemen Hukum
@@ -5119,7 +5049,6 @@ Departemen Hukum
 ttd
 
 Mufli Asmawidjaja
-
 
 -----
 
@@ -5135,8 +5064,6 @@ TENTANG
 PELINDUNGAN KONSUMEN DAN MASYARAKAT
 
 DI SEKTOR JASA KEUANGAN
-
-I. UMUM
 
 Penerbitan Undang-Undang Nomor 4 Tahun 2023 tentang
 Pengembangan dan Penguatan Sektor Keuangan (UU P2SK) menegaskan
@@ -5194,7 +5121,6 @@ memberikan layanan atas produk dan/atau layanan serta melakukan
 penanganan Pengaduan dan penyelesaian Sengketa, telah mematuhi
 ketentuan Pelindungan Konsumen sektor jasa keuangan. Dalam
 
-
 -----
 
 memastikan perilaku ini, PUJK harus memperhatikan prinsip Pelindungan
@@ -5227,13 +5153,11 @@ i. pembinaan oleh Otoritas Jasa Keuangan;
 j. koordinasi; dan
 k. pengenaan sanksi dan pengajuan keberatan.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Huruf a
 
 Angka 1
@@ -5329,9 +5253,7 @@ g. aktivitas terkait aset keuangan digital, termasuk aset kripto
 yang merupakan aset keuangan yang disimpan atau
 direpresentasikan secara digital; dan
 h. aktivitas jasa keuangan digital lainnya.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Cukup jelas.
@@ -5440,9 +5362,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Yang dimaksud dengan “beriktikad baik”, PUJK:
@@ -5504,9 +5424,7 @@ Cukup jelas.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Yang dimaksud dengan “pihak” adalah orang perseorangan,
@@ -5557,9 +5475,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Contoh iktikad tidak baik Konsumen:
 1. Konsumen memberikan informasi dan/atau dokumen yang
 tidak jelas, tidak akurat, salah, dan menyesatkan;
@@ -5574,9 +5490,7 @@ atau kekerasan;
 produk kredit atau pembiayaan tanpa persetujuan PUJK; dan
 4. Konsumen menyerahkan agunan yang bersumber dari tindak
 kejahatan.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Cukup jelas.
@@ -5614,9 +5528,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Cukup jelas.
@@ -5662,9 +5574,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Ayat (1)
 
 Huruf a
@@ -5695,9 +5605,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Cukup jelas.
@@ -5714,9 +5622,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Kegiatan untuk meningkatkan Literasi Keuangan dilaksanakan
@@ -5745,13 +5651,9 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Cukup jelas.
@@ -5780,9 +5682,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Cukup jelas.
@@ -5815,9 +5715,7 @@ Cukup jelas.
 Ayat (10)
 
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Ayat (1)
 
 Yang dimaksud dengan “semesteran” adalah posisi akhir bulan
@@ -5856,9 +5754,7 @@ Cukup jelas.
 Ayat (11)
 
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 
 Cukup jelas.
@@ -5901,9 +5797,7 @@ Cukup jelas.
 Ayat (14)
 
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Cukup jelas.
@@ -5940,13 +5834,9 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Ayat (1)
 
 Cukup jelas.
@@ -6050,9 +5940,7 @@ Cukup jelas.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Contoh pihak lain: pihak di luar PUJK yang berinisiasi untuk
@@ -6073,9 +5961,7 @@ SLIK.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Ayat (1)
 
 
@@ -6116,13 +6002,9 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 
 Cukup jelas.
@@ -6145,9 +6027,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Ayat (1)
 
 Yang dimaksud dengan “sistem informasi” adalah sistem
@@ -6235,9 +6115,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 
 
@@ -6287,9 +6165,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Pengujian produk dan/atau layanan baru dilakukan terhadap
@@ -6339,9 +6215,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Huruf a
 
 Yang dimaksud dengan “otoritas” adalah Bank Indonesia dan
@@ -6349,9 +6223,7 @@ Otoritas Jasa Keuangan.
 Huruf b
 
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Ayat (1)
 
 Pedoman penetapan nilai/harga dan/atau biaya produk
@@ -6371,9 +6243,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Ayat (1)
 
 Informasi mengenai produk dan/atau layanan antara lain:
@@ -6432,9 +6302,7 @@ Cukup jelas.
 Ayat (11)
 
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Ringkasan informasi produk dan/atau layanan dibuat secara
@@ -6597,9 +6465,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Huruf a
 
 Contoh program pemerintah atau otoritas: asuransi usaha tani
@@ -6617,9 +6483,7 @@ rumah di Bank Umum X mengajukan penambahan plafon
 atau kredit pemilikan rumah di Bank Umum X.
 2. Konsumen A melakukan top up premi, pembelian renewal
 produk asuransi yang sama.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Ayat (1)
 
 
@@ -6659,9 +6523,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Ayat (1)
 
 Cukup jelas.
@@ -6733,9 +6595,7 @@ Cukup jelas.
 Ayat (12)
 
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Ayat (1)
 
 Cukup jelas.
@@ -6760,13 +6620,9 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Cukup jelas.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Ayat (1)
 
 Contoh menyalahgunakan keadaan atau kondisi calon Konsumen
@@ -6803,9 +6659,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Ayat (1)
 
 Contoh memperhatikan kesesuaian antara kebutuhan dan
@@ -6859,9 +6713,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Ayat (1)
 
 Cukup jelas.
@@ -6890,9 +6742,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Ayat (1)
 
 Persetujuan calon Konsumen dan/atau Konsumen diperoleh
@@ -6942,9 +6792,7 @@ Cukup jelas.
 Ayat (12)
 
 Cukup jelas.
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Ayat (1)
 
 Yang dimaksud dengan “benturan kepentingan dalam melakukan
@@ -6971,9 +6819,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Ayat (1)
 
 Keterbukaan informasi diberikan kepada pemegang polis,
@@ -7001,17 +6847,11 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Cukup jelas.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Ayat (1)
 
 Cukup jelas.
@@ -7069,9 +6909,7 @@ Cukup jelas.
 Ayat (10)
 
 Cukup jelas.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Ayat (1)
 
 Yang dimaksud dengan “hak dan kewajiban” antara lain:
@@ -7129,9 +6967,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Ayat (1)
 
 Perjanjian tertulis termasuk perjanjian dalam bentuk elektronik.
@@ -7214,13 +7050,9 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Ayat (1)
 
 Cukup jelas.
@@ -7272,9 +7104,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Ayat (1)
 
 Cukup jelas.
@@ -7318,9 +7148,7 @@ Cukup jelas.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Ayat (1)
 
 Huruf a
@@ -7381,9 +7209,7 @@ Cukup jelas.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Ayat (1)
 
 Masa jeda diberikan PUJK kepada Konsumen untuk mempelajari
@@ -7483,9 +7309,7 @@ Cukup jelas.
 Ayat (13)
 
 Cukup jelas.
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Ayat (1)
 
 Ketentuan peraturan perundang-undangan antara lain Kitab
@@ -7520,9 +7344,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Ayat (1)
 
 Cukup jelas.
@@ -7547,9 +7369,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Ayat (1)
 
 Contoh PUJK menyediakan layanan informasi untuk Konsumen:
@@ -7612,9 +7432,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Ayat (1)
 
 Yang dimaksud dengan menjaga keamanan simpanan, dana, atau
@@ -7627,9 +7445,7 @@ b. ketidaksesuaian dengan norma yang berlaku (misconduct).
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56
 Ayat (1)
 
 Huruf a
@@ -7654,13 +7470,9 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
 Ayat (1)
 
 Contoh instruksi Konsumen antara lain kuasa pemotongan dana
@@ -7676,15 +7488,11 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59
 Yang dimaksud dengan “kapasitas yang memadai” adalah pemahaman
 atas kompleksitas produk dan/atau layanan serta klasifikasi
 Konsumen.
-
-Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60
 Ayat (1)
 
 Yang dimaksud dengan “wanprestasi” adalah ketidakmampuan
@@ -7737,9 +7545,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61
 Ayat (1)
 
 Contoh pihak lain: perusahaan jasa penagihan dan pihak di luar
@@ -7805,9 +7611,7 @@ Cukup jelas.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Ayat (1)
 
 Cukup jelas.
@@ -7854,9 +7658,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Ayat (1)
 
 Yang dimaksud dengan “agunan” adalah agunan sebagaimana
@@ -7876,9 +7678,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 64
-
+#### Pasal 64 ^penjelasan-pasal-64
 Ayat (1)
 
 Cukup jelas.
@@ -7917,9 +7717,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Ayat (1)
 
 Huruf a
@@ -7947,9 +7745,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 66
-
+#### Pasal 66 ^penjelasan-pasal-66
 Ayat (1)
 
 Penjelasan kepada Konsumen mengenai proses dan hasil
@@ -7972,13 +7768,9 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 67
-
+#### Pasal 67 ^penjelasan-pasal-67
 Cukup jelas.
-
-Pasal 68
-
+#### Pasal 68 ^penjelasan-pasal-68
 Ayat (1)
 
 Mekanisme penanganan Pengaduan merupakan prosedur secara
@@ -8000,9 +7792,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69
 Ayat (1)
 
 Cukup jelas.
@@ -8029,9 +7819,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 70
-
+#### Pasal 70 ^penjelasan-pasal-70
 Ayat (1)
 
 Cukup jelas.
@@ -8058,9 +7846,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71
 Ayat (1)
 
 Dokumen yang dipersyaratkan tercantum dalam prosedur
@@ -8135,9 +7921,7 @@ Cukup jelas.
 Ayat (11)
 
 Cukup jelas.
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Ayat (1)
 
 Penyampaian konfirmasi penerimaan Pengaduan kepada
@@ -8157,9 +7941,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73
 Ayat (1)
 
 Penyampaian bukti tanda terima Pengaduan kepada Konsumen
@@ -8179,9 +7961,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 74
-
+#### Pasal 74 ^penjelasan-pasal-74
 Ayat (1)
 
 Cukup jelas.
@@ -8206,9 +7986,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 75
-
+#### Pasal 75 ^penjelasan-pasal-75
 Ayat (1)
 
 Cukup jelas.
@@ -8262,9 +8040,7 @@ Cukup jelas.
 Ayat (11)
 
 Cukup jelas.
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76
 Ayat (1)
 
 Penolakan yang dilakukan oleh PUJK ditindaklanjuti dengan
@@ -8299,13 +8075,9 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 77
-
+#### Pasal 77 ^penjelasan-pasal-77
 Cukup jelas.
-
-Pasal 78
-
+#### Pasal 78 ^penjelasan-pasal-78
 Ayat (1)
 
 Huruf a
@@ -8349,9 +8121,7 @@ Cukup jelas.
 Ayat (10)
 
 Cukup jelas.
-
-Pasal 79
-
+#### Pasal 79 ^penjelasan-pasal-79
 Ayat (1)
 
 Lihat penjelasan Pasal 15 ayat (1).
@@ -8373,9 +8143,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 80
-
+#### Pasal 80 ^penjelasan-pasal-80
 Ayat (1)
 
 Cukup jelas.
@@ -8397,9 +8165,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 81
-
+#### Pasal 81 ^penjelasan-pasal-81
 Ayat (1)
 
 Lihat penjelasan Pasal 14 ayat (3).
@@ -8427,9 +8193,7 @@ Cukup jelas.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 82
-
+#### Pasal 82 ^penjelasan-pasal-82
 Ayat (1)
 
 Huruf a
@@ -8455,9 +8219,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 83
-
+#### Pasal 83 ^penjelasan-pasal-83
 Ayat (1)
 
 Contoh tindakan pengawasan:
@@ -8472,9 +8234,7 @@ umum anggota luar biasa.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 84
-
+#### Pasal 84 ^penjelasan-pasal-84
 Ayat (1)
 
 Proses pembuktian telah membuktikan bahwa produk dan/atau
@@ -8483,9 +8243,7 @@ peraturan perundang-undangan.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 85
-
+#### Pasal 85 ^penjelasan-pasal-85
 Ayat (1)
 
 Yang dimaksud dengan “ketentuan Pelindungan Konsumen dan
@@ -8504,17 +8262,11 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 86
-
+#### Pasal 86 ^penjelasan-pasal-86
 Cukup jelas.
-
-Pasal 87
-
+#### Pasal 87 ^penjelasan-pasal-87
 Cukup jelas.
-
-Pasal 88
-
+#### Pasal 88 ^penjelasan-pasal-88
 Ayat (1)
 
 Cukup jelas.
@@ -8559,9 +8311,7 @@ Cukup jelas.
 Ayat (12)
 
 Cukup jelas.
-
-Pasal 89
-
+#### Pasal 89 ^penjelasan-pasal-89
 Huruf a
 
 Cukup jelas.
@@ -8599,9 +8349,7 @@ Cukup jelas.
 Huruf i
 
 Cukup jelas.
-
-Pasal 90
-
+#### Pasal 90 ^penjelasan-pasal-90
 Ayat (1)
 
 Yang dimaksud dengan “kepatuhan” antara lain memastikan
@@ -8631,9 +8379,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 91
-
+#### Pasal 91 ^penjelasan-pasal-91
 Ayat (1)
 
 Cukup jelas.
@@ -8673,9 +8419,7 @@ Cukup jelas.
 Ayat (10)
 
 Cukup jelas.
-
-Pasal 92
-
+#### Pasal 92 ^penjelasan-pasal-92
 Ayat (1)
 
 Cukup jelas.
@@ -8837,9 +8581,7 @@ Keuangan.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 93
-
+#### Pasal 93 ^penjelasan-pasal-93
 Ayat (1)
 
 Cukup jelas.
@@ -8872,9 +8614,7 @@ Pendanaan Bersama Berbasis Teknologi Informasi.
 Informasi lainnya antara lain Informasi yang terkait dengan
 sistem dan Informasi yang dikelola oleh Otoritas Jasa Keuangan
 serta Informasi yang terkait dengan investasi ilegal.
-
-Pasal 94
-
+#### Pasal 94 ^penjelasan-pasal-94
 Ayat (1)
 
 Cukup jelas.
@@ -8890,9 +8630,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 95
-
+#### Pasal 95 ^penjelasan-pasal-95
 Ayat (1)
 
 Cukup jelas.
@@ -8927,9 +8665,7 @@ Cukup jelas.
 Ayat (10)
 
 Cukup jelas.
-
-Pasal 96
-
+#### Pasal 96 ^penjelasan-pasal-96
 Ayat (1)
 
 Cukup jelas.
@@ -8982,13 +8718,9 @@ Cukup jelas.
 Ayat (11)
 
 Cukup jelas.
-
-Pasal 97
-
+#### Pasal 97 ^penjelasan-pasal-97
 Cukup jelas.
-
-Pasal 98
-
+#### Pasal 98 ^penjelasan-pasal-98
 Ayat (1)
 
 Cukup jelas.
@@ -9028,9 +8760,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 99
-
+#### Pasal 99 ^penjelasan-pasal-99
 Ayat (1)
 
 Huruf a
@@ -9055,9 +8785,7 @@ mengakibatkan kerugian materi bagi Konsumen, masyarakat,
 atau sektor jasa keuangan.
 Gugatan perdata merupakan gugatan _legal standing bukan_
 gugatan perwakilan kelompok (class action).
-
-Pasal 100
-
+#### Pasal 100 ^penjelasan-pasal-100
 Ayat (1)
 
 Cukup jelas.
@@ -9080,17 +8808,11 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 101
-
+#### Pasal 101 ^penjelasan-pasal-101
 Cukup jelas.
-
-Pasal 102
-
+#### Pasal 102 ^penjelasan-pasal-102
 Cukup jelas.
-
-Pasal 103
-
+#### Pasal 103 ^penjelasan-pasal-103
 Huruf a
 
 Yang dimaksud dengan “informasi dan laporan” adalah terkait
@@ -9101,9 +8823,7 @@ Pengamatan lapangan dilakukan antara lain dengan cara:
 a. survei Pengawasan Perilaku PUJK (Market _Conduct);_
 dan/atau
 b. operasi intelijen pasar (market intelligence).
-
-Pasal 104
-
+#### Pasal 104 ^penjelasan-pasal-104
 Ayat (1)
 
 Cukup jelas.
@@ -9125,17 +8845,11 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 105
-
+#### Pasal 105 ^penjelasan-pasal-105
 Cukup jelas.
-
-Pasal 106
-
+#### Pasal 106 ^penjelasan-pasal-106
 Cukup jelas.
-
-Pasal 107
-
+#### Pasal 107 ^penjelasan-pasal-107
 Ayat (1)
 
 Contoh tema dalam Pemeriksaan Tematik:
@@ -9151,9 +8865,7 @@ indikasi penyimpangan yang dilakukan oleh PUJK, dan
 penyelesaian Pengaduan.
 Indikasi penyimpangan yang dilakukan oleh PUJK termasuk yang
 disampaikan melalui Pengaduan Konsumen.
-
-Pasal 108
-
+#### Pasal 108 ^penjelasan-pasal-108
 Ayat (1)
 
 Cukup jelas.
@@ -9178,9 +8890,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 109
-
+#### Pasal 109 ^penjelasan-pasal-109
 Ayat (1)
 
 Kewenangan untuk memberikan perintah atau melakukan
@@ -9199,9 +8909,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 110
-
+#### Pasal 110 ^penjelasan-pasal-110
 Ayat (1)
 
 Huruf a
@@ -9232,35 +8940,25 @@ Keuangan.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 111
-
+#### Pasal 111 ^penjelasan-pasal-111
 Yang dimaksud dengan “tindakan pembinaan” adalah tindakan yang
 bertujuan untuk memberikan pengarahan, pembimbingan,
 melakukan langkah preventif, dan menerapkan langkah korektif yang
 cepat terhadap PUJK.
 Tindakan pembinaan merupakan bagian dari hasil pelaksanaan
 pengawasan langsung dan pengawasan tidak langsung.
-
-Pasal 112
-
+#### Pasal 112 ^penjelasan-pasal-112
 Contoh koordinasi Otoritas Jasa Keuangan dengan Pemerintah dan
 Bank Indonesia: dalam mengajukan gugatan perdata dan pemberian
 informasi dan/atau rekomendasi untuk pencabutan izin kantor
 akuntan publik dan/atau akuntan publik atas pelanggaran yang
 dilakukan oleh kantor akuntan publik dan/atau akuntan publik.
 Pemerintah antara lain kementerian/lembaga.
-
-Pasal 113
-
+#### Pasal 113 ^penjelasan-pasal-113
 Cukup jelas.
-
-Pasal 114
-
+#### Pasal 114 ^penjelasan-pasal-114
 Cukup jelas.
-
-Pasal 115
-
+#### Pasal 115 ^penjelasan-pasal-115
 Ayat (1)
 
 Cukup jelas.
@@ -9292,41 +8990,23 @@ Cukup jelas.
 
 
 -----
-
-Pasal 116
-
+#### Pasal 116 ^penjelasan-pasal-116
 Cukup jelas.
-
-Pasal 117
-
+#### Pasal 117 ^penjelasan-pasal-117
 Cukup jelas.
-
-Pasal 118
-
+#### Pasal 118 ^penjelasan-pasal-118
 Cukup jelas.
-
-Pasal 119
-
+#### Pasal 119 ^penjelasan-pasal-119
 Cukup jelas.
-
-Pasal 120
-
+#### Pasal 120 ^penjelasan-pasal-120
 Cukup jelas.
-
-Pasal 121
-
+#### Pasal 121 ^penjelasan-pasal-121
 Cukup jelas.
-
-Pasal 122
-
+#### Pasal 122 ^penjelasan-pasal-122
 Cukup jelas.
-
-Pasal 123
-
+#### Pasal 123 ^penjelasan-pasal-123
 Cukup jelas.
-
-Pasal 124
-
+#### Pasal 124 ^penjelasan-pasal-124
 Ayat (1)
 
 Contoh:
@@ -9336,9 +9016,7 @@ Pengaduan secara semesteran untuk posisi bulan data Januari
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 125
-
+#### Pasal 125 ^penjelasan-pasal-125
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 62/OJK
@@ -9346,3 +9024,132 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 62/OJK
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 74 | [[#^penjelasan-pasal-74]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 80 | [[#^penjelasan-pasal-80]] |
+| Pasal 81 | [[#^penjelasan-pasal-81]] |
+| Pasal 82 | [[#^penjelasan-pasal-82]] |
+| Pasal 83 | [[#^penjelasan-pasal-83]] |
+| Pasal 84 | [[#^penjelasan-pasal-84]] |
+| Pasal 85 | [[#^penjelasan-pasal-85]] |
+| Pasal 86 | [[#^penjelasan-pasal-86]] |
+| Pasal 87 | [[#^penjelasan-pasal-87]] |
+| Pasal 88 | [[#^penjelasan-pasal-88]] |
+| Pasal 89 | [[#^penjelasan-pasal-89]] |
+| Pasal 90 | [[#^penjelasan-pasal-90]] |
+| Pasal 91 | [[#^penjelasan-pasal-91]] |
+| Pasal 92 | [[#^penjelasan-pasal-92]] |
+| Pasal 93 | [[#^penjelasan-pasal-93]] |
+| Pasal 94 | [[#^penjelasan-pasal-94]] |
+| Pasal 95 | [[#^penjelasan-pasal-95]] |
+| Pasal 96 | [[#^penjelasan-pasal-96]] |
+| Pasal 97 | [[#^penjelasan-pasal-97]] |
+| Pasal 98 | [[#^penjelasan-pasal-98]] |
+| Pasal 99 | [[#^penjelasan-pasal-99]] |
+| Pasal 100 | [[#^penjelasan-pasal-100]] |
+| Pasal 101 | [[#^penjelasan-pasal-101]] |
+| Pasal 102 | [[#^penjelasan-pasal-102]] |
+| Pasal 103 | [[#^penjelasan-pasal-103]] |
+| Pasal 104 | [[#^penjelasan-pasal-104]] |
+| Pasal 105 | [[#^penjelasan-pasal-105]] |
+| Pasal 106 | [[#^penjelasan-pasal-106]] |
+| Pasal 107 | [[#^penjelasan-pasal-107]] |
+| Pasal 108 | [[#^penjelasan-pasal-108]] |
+| Pasal 109 | [[#^penjelasan-pasal-109]] |
+| Pasal 110 | [[#^penjelasan-pasal-110]] |
+| Pasal 111 | [[#^penjelasan-pasal-111]] |
+| Pasal 112 | [[#^penjelasan-pasal-112]] |
+| Pasal 113 | [[#^penjelasan-pasal-113]] |
+| Pasal 114 | [[#^penjelasan-pasal-114]] |
+| Pasal 115 | [[#^penjelasan-pasal-115]] |
+| Pasal 116 | [[#^penjelasan-pasal-116]] |
+| Pasal 117 | [[#^penjelasan-pasal-117]] |
+| Pasal 118 | [[#^penjelasan-pasal-118]] |
+| Pasal 119 | [[#^penjelasan-pasal-119]] |
+| Pasal 120 | [[#^penjelasan-pasal-120]] |
+| Pasal 121 | [[#^penjelasan-pasal-121]] |
+| Pasal 122 | [[#^penjelasan-pasal-122]] |
+| Pasal 123 | [[#^penjelasan-pasal-123]] |
+| Pasal 124 | [[#^penjelasan-pasal-124]] |
+| Pasal 125 | [[#^penjelasan-pasal-125]] |

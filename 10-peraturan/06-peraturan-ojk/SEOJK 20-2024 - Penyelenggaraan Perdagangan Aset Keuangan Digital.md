@@ -19,17 +19,22 @@ sumber: "https://ojk.go.id/id/regulasi/Pages/SEOJK-20-SEOJK07-2024-Penyelenggara
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto
+**Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto**
 
 **Status:** `berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/SEOJK-20-SEOJK07-2024-Penyelenggaraan-Perdagangan-Aset-Keuangan-Digital-Termasuk-Aset-Kripto.aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/SEOJK-20-SEOJK07-2024-Penyelenggaraan-Perdagangan-Aset-Keuangan-Digital-Termasuk-Aset-Kripto.aspx)
-
 
 Yth.
 Direksi Penyelenggara Perdagangan Aset Keuangan Digital termasuk Aset
@@ -82,7 +87,6 @@ termasuk Aset Kripto dan/atau menyediakan laporan perdagangan
 Aset Keuangan Digital.
 4. Lembaga Kliring Penjaminan dan Penyelesaian Perdagangan Aset
 Keuangan Digital termasuk Aset Kripto yang selanjutnya disebut
-
 
 -----
 
@@ -142,7 +146,6 @@ Jasa Keuangan dalam periode tertentu.
 17. Laporan Insidental adalah laporan yang dibuat dan disampaikan
 oleh Penyelenggara Perdagangan Aset Keuangan Digital kepada
 Otoritas Jasa Keuangan pada waktu tertentu.
-
 
 -----
 
@@ -205,7 +208,6 @@ IV. PENILAIAN KEMAMPUAN DAN KEPATUTAN
 Pengelola Tempat Penyimpanan, dan Pedagang meliputi:
 a. Pemegang Saham Pengendali;
 
-
 -----
 
 b. anggota Direksi; dan
@@ -264,7 +266,6 @@ pihak utama sebagaimana dimaksud pada angka 1 sesuai dengan
 pedoman penilaian kembali terhadap Pihak Utama Bursa, Lembaga
 Kliring Penjaminan dan Penyelesaian, Pedagang, dan Pengelola
 Tempat Penyimpanan sebagaimana tercantum dalam Lampiran IV
-
 
 -----
 
@@ -326,7 +327,6 @@ sebagaimana dimaksud pada angka 1 ditandatangani oleh anggota
 Direksi yang bertanggung jawab sebagaimana dimaksud pada
 angka 3.
 
-
 -----
 
 5. Laporan Berkala
@@ -383,7 +383,6 @@ Penyelesaian sebagaimana tercantum dalam
 Lampiran VI bagian B yang merupakan bagian tidak
 terpisahkan dari Surat Edaran Otoritas Jasa
 Keuangan ini.
-
 
 -----
 
@@ -444,7 +443,6 @@ b) Penyampaian laporan bulanan sebagaimana
 dimaksud pada huruf a) dilakukan sesuai dengan
 format laporan bulanan Lembaga Kliring Penjaminan
 
-
 -----
 
 dan Penyelesaian sebagaimana tercantum dalam
@@ -503,7 +501,6 @@ f. Laporan tahunan
 1) Penyelenggara Perdagangan Aset Keuangan Digital
 menyampaikan laporan tahunan sebagaimana dimaksud
 
-
 -----
 
 pada huruf a angka 4) berupa laporan kegiatan tahunan
@@ -559,7 +556,6 @@ huruf a) dilakukan sesuai dengan format laporan insidental
 sebagaimana tercantum dalam Lampiran X yang merupakan
 bagian tidak terpisahkan dari Surat Edaran Otoritas Jasa
 Keuangan ini.
-
 
 -----
 
@@ -621,7 +617,6 @@ Gedung Soemitro Djojohadikusumo
 Jalan Lapangan Banteng Timur 2-4
 Jakarta 10710, Indonesia,
 
-
 -----
 
 dalam hal Sistem Pelaporan Otoritas Jasa Keuangan belum
@@ -678,7 +673,6 @@ atau
 c. penyampaian secara luring dibuktikan dengan tanda terima
 dari Otoritas Jasa keuangan.
 
-
 -----
 
 IX. PENUTUP
@@ -700,7 +694,6 @@ ttd
 
 HASAN FAWZI
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -708,7 +701,6 @@ Departemen Hukum
 ttd
 
 Aat Windradi
-
 
 -----
 
@@ -720,7 +712,6 @@ NOMOR 20/SEOJK.07/2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL
 TERMASUK ASET KRIPTO
-
 
 -----
 
@@ -758,7 +749,6 @@ Anggota Direksi,
 (Nama jelas dan tanda
 tangan)
 
-
 -----
 
 **B.** **FORMAT PEMBERITAHUAN PENGHENTIAN PERDAGANGAN ASET**
@@ -778,13 +768,10 @@ Kode Pedagang :
 bersama ini memberitahukan bahwa kami akan menghentikan perdagangan
 atas Aset Kripto dengan penjelasan sebagai berikut:
 
-
 Nama Aset Kripto yang akan
 dihentikan perdagangannya
 
-
 :
-
 
 Tanggal penghentian perdagangan :
 Alasan penghentian perdagangan :
@@ -819,7 +806,6 @@ DIGITAL DAN ASET KRIPTO
 OTORITAS JASA KEUANGAN
 REPUBLIK INDONESIA,
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum ttd
 Departemen Hukum
@@ -828,7 +814,6 @@ HASAN FAWZI
 ttd
 
 Aat Windradi
-
 
 -----
 
@@ -841,11 +826,9 @@ TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL
 TERMASUK ASET KRIPTO
 
-
 -----
 
 SURAT PENGANTAR HASIL EVALUASI ASET KRIPTO
-
 
 Nomor : …………………………… ................ 20 ...
 Lampiran : ..………………………….
@@ -908,7 +891,6 @@ ttd
 
 Aat Windradi
 
-
 -----
 
 LAMPIRAN III
@@ -919,7 +901,6 @@ NOMOR 20/SEOJK.07/2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL
 TERMASUK ASET KRIPTO
-
 
 -----
 
@@ -980,7 +961,6 @@ yaitu:
 a) orang perseorangan yang belum pernah menjadi
 anggota Direksi atau anggota Dewan Komisaris, yang
 
-
 -----
 
 dicalonkan menjadi anggota Direksi, atau anggota
@@ -1040,7 +1020,6 @@ ii. anggota Direksi atau anggota Dewan Komisaris,
 pada “Bursa, Lembaga Kliring Penjaminan dan
 Penyelesaian, Pengelola Tempat Penyimpanan,
 
-
 -----
 
 atau Pedagang hasil penggabungan” yang
@@ -1099,7 +1078,6 @@ b) memiliki akhlak dan moral yang baik, paling sedikit
 ditunjukkan dengan sikap mematuhi ketentuan
 yang berlaku, termasuk tidak pernah dihukum
 
-
 -----
 
 karena terbukti melakukan tindak pidana dalam
@@ -1157,7 +1135,6 @@ Kliring Penjaminan dan Penyelesaian, Pengelola
 Tempat Penyimpanan, atau Pedagang yang
 akan dimiliki dan/atau yang akan
 dikendalikannya mengalami kesulitan
-
 
 -----
 
@@ -1218,7 +1195,6 @@ b) tidak pernah dinyatakan pailit dan/atau tidak
 pernah menjadi pemegang saham yang bukan
 merupakan pemegang saham, anggota Direksi atau
 
-
 -----
 
 anggota Dewan Komisaris yang dinyatakan bersalah
@@ -1277,7 +1253,6 @@ dibuktikan dengan:
 i) pengetahuan mengenai struktur
 organisasi, manajemen, uraian tugas, dan
 tanggung jawab;
-
 
 -----
 
@@ -1338,7 +1313,6 @@ termasuk kemampuan untuk
 mengantisipasi perkembangan di
 masa yang akan datang, seperti
 
-
 -----
 
 kemampuan untuk menyusun
@@ -1397,7 +1371,6 @@ b. Dalam hal anggota Direksi Bursa, Lembaga Kliring
 Penjaminan dan Penyelesaian, Pengelola Tempat
 Penyimpanan, atau Pedagang sebagaimana dimaksud pada
 huruf a tidak dapat menjalankan fungsinya atau mempunyai
-
 
 -----
 
@@ -1458,7 +1431,6 @@ Otoritas Jasa Keuangan secara luring.
 j. Penyampaian permohonan persetujuan menjadi Pihak Utama
 dan/atau dokumen persyaratan administratif secara luring
 
-
 -----
 
 sebagaimana dimaksud pada huruf i, harus disampaikan
@@ -1517,7 +1489,6 @@ oleh akuntan publik;
 Komisaris yang telah diisi lengkap dengan menggunakan
 format pada Bagian F angka 6 dengan melampirkan:
 a) data pribadi:
-
 
 -----
 
@@ -1578,7 +1549,6 @@ asing;
 cukup, dan ditandatangani oleh pihak yang dicalonkan
 sebagai anggota Direksi, anggota Dewan Komisaris,
 
-
 -----
 
 dengan menggunakan format pada Bagian F angka 5,
@@ -1619,7 +1589,11 @@ Penyimpanan, atau Pedagang telah memperoleh izin
 usaha.
 c. Penyampaian hasil daftar pemenuhan dokumen persyaratan
 administratif sebagaimana dimaksud pada huruf b disertai
-penjelasan yang menyatakan bahwa dokumen persyaratan
+
+## Penjelasan
+
+### I. Umum
+
 administratif yang disampaikan:
 1) lengkap dan benar baik jumlah, format, maupun
 substansi; dan
@@ -1637,7 +1611,6 @@ format penilaian sendiri (self assessment) bagi anggota
 Direksi/anggota Dewan Komisaris sebagaimana tercantum
 pada bagian F angka 3 dilakukan oleh Bursa, Lembaga Kliring
 Penjaminan dan Penyelesaian, Pengelola Tempat
-
 
 -----
 
@@ -1696,7 +1669,6 @@ administratif.
 Bursa, Lembaga Kliring Penjaminan dan Penyelesaian, Pengelola
 Tempat Penyimpanan, atau Pedagang untuk memperoleh
 persetujuan atas calon Pihak Utama telah memenuhi persyaratan
-
 
 -----
 
@@ -1757,7 +1729,6 @@ berdasarkan penunjukan surat kuasa.
 11. Berdasarkan hasil penilaian administratif sebagaimana dimaksud
 pada huruf 1 serta informasi dan/atau surat rekomendasi atas
 
-
 -----
 
 calon Pihak Utama dari pihak lain yang berwenang sebagaimana
@@ -1816,7 +1787,6 @@ memperoleh persetujuan atas Pihak Utama.
 17. Otoritas Jasa Keuangan menyampaikan pemberitahuan
 pembatalan permohonan persetujuan atas calon Pihak Utama
 apabila:
-
 
 -----
 
@@ -1877,7 +1847,6 @@ atau Pedagang yang mengajukan pencalonan.
 6. Calon Pihak Utama yang dihentikan penilaian kemampuan dan
 kepatutan, dapat diajukan kembali kepada Otoritas Jasa Keuangan
 
-
 -----
 
 untuk menjadi calon Pihak Utama apabila yang bersangkutan telah
@@ -1935,7 +1904,6 @@ Pedagang.
 c. Yang dimaksud dengan izin pendirian sebagaimana dimaksud
 pada huruf b adalah izin usaha Penyelenggara Aset Keuangan
 Digital.
-
 
 -----
 
@@ -1996,7 +1964,6 @@ e. Yang dimaksud dengan hak pemegang saham sebagaimana
 dimaksud pada huruf b poin 1) misalnya, hak untuk
 menghadiri, perhitungan kuorum, mengeluarkan suara dalam
 
-
 -----
 
 rapat umum pemegang saham, dan hak menerima dividen
@@ -2055,7 +2022,6 @@ dimaksud pada huruf b poin 1) kepada Otoritas Jasa
 Keuangan dengan mengacu kepada ketentuan yang mengatur
 mengenai pelaporan perubahan anggaran dasar terkait
 perubahan kepemilikan yang berlaku pada Bursa, Lembaga
-
 
 -----
 
@@ -2116,7 +2082,6 @@ Pengelola Tempat Penyimpanan, atau Pedagang.
 p. Bagi calon anggota Direksi atau calon anggota Dewan
 Komisaris yang tidak disetujui oleh Otoritas Jasa Keuangan
 
-
 -----
 
 sebagaimana dimaksud dalam angka 1 huruf a poin 2) namun
@@ -2136,7 +2101,6 @@ p kepada Otoritas Jasa Keuangan dengan mengacu kepada
 ketentuan yang mengatur mengenai pelaporan perubahan
 Pihak Utama yang berlaku pada Penyelenggara Perdagangan
 Aset Keuangan Digital.
-
 
 -----
 
@@ -2196,7 +2160,6 @@ Tempat Penyimpanan/Pedagang yang lama****);
 13. keterampilan yang dikuasai dan penguasaan bahasa asing, kecuali bagi
 calon Pemegang Saham Pengendali;
 
-
 -----
 
 14. laporan keuangan tahunan terakhir yang telah diaudit oleh akuntan
@@ -2233,7 +2196,6 @@ Pengendali
 Pengendali berbentuk badan hukum
 ****) persyaratan ini disampaikan bagi pengajuan calon anggota Direksi dan
 anggota Dewan Komisaris
-
 
 -----
 
@@ -2284,7 +2246,6 @@ persetujuan menjadi Pihak Utama:
 |1.|Surat<br>Permohonan<br>Perusahaan|Apakah surat permohonan<br>ditandatangani oleh calon<br>pemilik/pendiri/Direksi/<br>Dewan<br>Komisaris/pihak<br>lain yang ditunjuk oleh<br>rapat<br>umum<br>pemegang<br>saham?|Apakah surat permohonan<br>ditandatangani oleh calon<br>pemilik/pendiri/Direksi/<br>Dewan<br>Komisaris/pihak<br>lain yang ditunjuk oleh<br>rapat<br>umum<br>pemegang<br>saham?||||
 |1.|Surat<br>Permohonan<br>Perusahaan|Apakah<br>telah<br>menggunakan format yang<br>sesuai dengan Lampiran<br>SEOJK ini?|Apakah<br>telah<br>menggunakan format yang<br>sesuai dengan Lampiran<br>SEOJK ini?||||
 
-
 -----
 
 *)   coret yang tidak perlu
@@ -2297,7 +2258,6 @@ persetujuan menjadi Pihak Utama:
 |3.|Surat<br>Pernyataan|Apakah surat pernyataan<br>dari<br>Pemegang<br>Saham<br>Pengendali<br>orang<br>perseorangan<br>orang perseorangan telah<br>sesuai<br>dengan<br>format<br>dalam Lampiran SEOJK<br>ini?|||_Tanda_<br>_tangan di_<br>_atas meterai_|
 |Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|
 |Pemilik/Pendiri/Pejabat<br>Bursa/Lembaga Kliring<br>Penjaminan dan<br>Penyelesaian/Pengelola Tempat<br>Penyimpanan/Pedagang*) yang<br>berwenang<br>   ................<br>      ………………………………<br>*)     coretyang tidakperlu|Pemilik/Pendiri/Pejabat<br>Bursa/Lembaga Kliring<br>Penjaminan dan<br>Penyelesaian/Pengelola Tempat<br>Penyimpanan/Pedagang*) yang<br>berwenang<br>   ................<br>      ………………………………<br>*)     coretyang tidakperlu|Pemilik/Pendiri/Pejabat<br>Bursa/Lembaga Kliring<br>Penjaminan dan<br>Penyelesaian/Pengelola Tempat<br>Penyimpanan/Pedagang*) yang<br>berwenang<br>   ................<br>      ………………………………<br>*)     coretyang tidakperlu|Pemilik/Pendiri/Pejabat<br>Bursa/Lembaga Kliring<br>Penjaminan dan<br>Penyelesaian/Pengelola Tempat<br>Penyimpanan/Pedagang*) yang<br>berwenang<br>   ................<br>      ………………………………<br>*)     coretyang tidakperlu|Pemilik/Pendiri/Pejabat<br>Bursa/Lembaga Kliring<br>Penjaminan dan<br>Penyelesaian/Pengelola Tempat<br>Penyimpanan/Pedagang*) yang<br>berwenang<br>   ................<br>      ………………………………<br>*)     coretyang tidakperlu|Pemilik/Pendiri/Pejabat<br>Bursa/Lembaga Kliring<br>Penjaminan dan<br>Penyelesaian/Pengelola Tempat<br>Penyimpanan/Pedagang*) yang<br>berwenang<br>   ................<br>      ………………………………<br>*)     coretyang tidakperlu|
-
 
 -----
 
@@ -2347,7 +2307,6 @@ Pemegang Saham Pengendali perusahaan
 |1.|<br>Surat<br>Permohonan<br>Perusahaan|Apakah<br>surat<br>permohonan<br>ditandatangani oleh calon<br>pemilik/pendiri/Direksi/Dewan<br>Komisaris/pihak<br>lain<br>yang<br>ditunjuk<br>oleh<br>rapat<br>umum<br>pemegang saham*)?|Apakah<br>surat<br>permohonan<br>ditandatangani oleh calon<br>pemilik/pendiri/Direksi/Dewan<br>Komisaris/pihak<br>lain<br>yang<br>ditunjuk<br>oleh<br>rapat<br>umum<br>pemegang saham*)?||||
 |1.|<br>Surat<br>Permohonan<br>Perusahaan|Apakah<br>telah<br>menggunakan<br>format<br>yang<br>sesuai<br>dengan<br>format dalam Lampiran SEOJK<br>ini?|Apakah<br>telah<br>menggunakan<br>format<br>yang<br>sesuai<br>dengan<br>format dalam Lampiran SEOJK<br>ini?||||
 
-
 -----
 
 |2.|Pihak Yang<br>Mewakili<br>Perusahaan|Apakah badan<br>hukum/kelompok usaha calon<br>Pemegang Saham Pengendali<br>yang merupakan pemegang<br>saham*) diwakili oleh<br>Direksi/pejabat setingkat<br>Direksi?|Col4|Col5|Col6|
@@ -2359,7 +2318,6 @@ Pemegang Saham Pengendali perusahaan
 |5.|<br>Laporan<br>Keuangan<br>Tahunan|Apakah telah dilampiri dengan<br>laporan<br>keuangan<br>tahunan<br>terakhir yang telah diaudit oleh<br>akuntanpublik?||||
 |6.|Surat<br>Pernyataan|Apakah surat pernyataan dari<br>Direksi atau pejabat yang setara<br>yang mewakili badan hukum/<br>Pemegang Saham Pengendali<br>yang<br>merupakan<br>pemegang<br>saham*) telah sesuai dengan<br>format dalam Lampiran SEOJK<br>ini?|||_Tanda_<br>_tangan_<br>_di_<br>_atas meterai_|
 |Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|
-
 
 -----
 
@@ -2373,9 +2331,7 @@ berwenang *)
 
 ………………………………
 
-
 *) coret yang tidak perlu
-
 
 -----
 
@@ -2407,7 +2363,6 @@ Anggota Direksi/Anggota Dewan Komisaris
 |1.|<br>Surat<br>Permohonan<br>Perusahaan|<br>Apakah<br>telah<br>menggunakan<br>format yang sesuai dengan<br>format dalam Lampiran SEOJK<br>ini?|<br> <br>|||
 |2.|Daftar<br>Riwayat<br>Hidup|Apakah daftar riwayat hidup<br>telah sesuai dengan format<br>dalam LampiranSEOJK ini?|<br>|||
 
-
 -----
 
 _Tanda_
@@ -2427,7 +2382,6 @@ _atas meterai._
 |3.|Surat<br>Pernyataan|Apakah telah dilampiri dengan<br>tulisan mengenai rencana yang<br>akan<br>dilakukan<br>setelah<br>diangkat pada jabatan yang<br>dituju?||||
 |Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|Kami menyatakan bahwa isian tersebut di atas telah sesuai dengan<br>dokumen yang sebenarnya dan apabila terdapat perbedaan maka akan<br>dilakukanperbaikan.|
 
-
 -----
 
 Pemilik/Pendiri/Pejabat Bursa/
@@ -2439,9 +2393,7 @@ yang berwenang *)
 
 ………………………………
 
-
 *)   coret yang tidak perlu
-
 
 -----
 
@@ -2461,7 +2413,6 @@ a. _Self-Assessment Persyaratan Integritas_
 ||Tidak<br>pernah<br>melanggar<br>prinsip<br>kehati-hatian<br>di<br>sektor jasa keuangan.||||
 ||Tidak<br>pernah<br>melanggar<br>peraturan||||
 
-
 -----
 
 |Col1|perundangundangan di<br>sektor jasa keuangan|Col3|Col4|Col5|
@@ -2473,19 +2424,16 @@ a. _Self-Assessment Persyaratan Integritas_
 ||Tidak<br>pernah<br>dinyatakan<br>tidak mampu menjalankan<br>kewenangannya.||||
 ||**Tidak termasuk sebagai**<br>**pihak yang dilarang untuk**<br>**menjadi PihakUtama**||||
 
-
 b. _Self Assessment Persyaratan Reputasi Keuangan_
 
 |II|PERSYARATAN REPUTASI<br>KEUANGAN|YA|TIDAK|URAIAN|
 |---|---|---|---|---|
 ||Tidak<br>memiliki<br>kredit<br>dan/atau<br>pembiayaan<br>macet.||||
 
-
 -----
 
 |Col1|Tidak pernah dinyatakan<br>pailit dan/atau tidak<br>pernah menjadi pemegang<br>saham, yang bukan<br>merupakan pemegang<br>saham, anggota Direksi,<br>atau anggota Dewan<br>Komisaris yang<br>dinyatakan bersalah<br>menyebabkan suatu<br>perseroan dinyatakan<br>pailit dalam waktu 5 (lima)<br>tahun terakhir sebelum<br>dicalonkan.|Col3|Col4|Col5|
 |---|---|---|---|---|
-
 
 -----
 
@@ -2501,7 +2449,6 @@ c. Self Assessment Persyaratan Kompetensi
 |c. <br>Kemampuan<br>memimpin<br>sebuah<br>organisasi<br>untuk<br>mencapai<br>tujuan<br>organisasi, khusus bagi anggota Direksi.|||||||
 |d. Kemampuan untuk mengelola sumber<br>daya manusia untuk mencapai tujuan<br>organisasi, khusus bagi anggota Direksi.|||||||
 
-
 -----
 
 |e. Pengetahuan dasar pengawasan<br>meliputi pengendalian internal, khusus<br>bagi anggota Dewan Komisaris.|Col2|Col3|Col4|Col5|Col6|Col7|
@@ -2511,7 +2458,6 @@ c. Self Assessment Persyaratan Kompetensi
 |2. Pemahaman<br>terhadap<br>peraturan<br>perundangundangan|||||||
 |a. <br>Pemahaman<br>terhadap<br>peraturan<br>perundangundangan<br>di<br>sektor<br>jasa<br>keuangan, diutamakan atas peraturan<br>perundang-undangan<br>pada<br>industri<br>terkait.|||||||
 |b. <br>Pemahaman dasar terhadap peraturan<br>perundang-undangan lain yang relevan,<br>antara lain pemahaman atas peraturan<br>perundangundangan<br>di<br>bidang<br>perseroan<br>terbatas,<br>Otoritas<br>Jasa<br>Keuangan, kepailitan, dan tindak pidana|||||||
-
 
 -----
 
@@ -2524,7 +2470,6 @@ c. Self Assessment Persyaratan Kompetensi
 |d. <br>Kemampuan menetapkan target<br>yang harus dicapai terkait jabatan<br>yang<br>diemban,<br>khusus<br>bagi<br>anggota Direksi.|||||||
 |e. <br>Kemampuan merancang strategi<br>jangka pendek, menengah, dan<br>panjang dalam rangka mencapai|||||||
 
-
 -----
 
 |sasaran perusahaan, khusus bagi<br>anggota Direksi.|Col2|Col3|Col4|Col5|Col6|Col7|
@@ -2532,7 +2477,6 @@ c. Self Assessment Persyaratan Kompetensi
 |f. <br>Kemampuan melakukan analisis<br>atas kebijakan Direksi, khusus<br>bagi anggota Dewan Komisaris.|||||||
 |**B. Pengalaman di**Bursa/ Lembaga Kliring<br>Penjaminan dan Penyelesaian/ Pengelola<br>Tempat<br>Penyimpanan/<br>Pedagang<br>**dan/atau bidang lain yang relevan**<br>**dengan jabatannya**|||Nama Perusahaan  : ...<br>Jabatan                  : ...<br>Lama Jabatan         : ...|Nama Perusahaan  : ...<br>Jabatan                  : ...<br>Lama Jabatan         : ...|Nama Perusahaan  : ...<br>Jabatan                  : ...<br>Lama Jabatan         : ...|Nama Perusahaan  : ...<br>Jabatan                  : ...<br>Lama Jabatan         : ...|
 |**C. Keahlian di**<br>Bursa/ Lembaga Kliring<br>Penjaminan dan Penyelesaian/ Pengelola<br>Tempat<br>Penyimpanan/<br>Pedagang<br>**dan/atau bidang lain yang relevan**<br>**dengan jabatannya pada**Bursa/ Lembaga<br>Kliring Penjaminan dan Penyelesaian/<br>Pengelola Tempat Penyimpanan/ Pedagang|||||||
-
 
 -----
 
@@ -2558,7 +2502,6 @@ tidak mencukupi)
 |13.|<br>Apakah Saudara saat ini berperan sebagai<br>Pemegang<br>Saham<br>Pengendali<br>pada<br>perusahaan non Bursa/Lembaga Kliring<br>Penjaminan dan Penyelesaian/Pengelola<br>Tempat Penyimpanan/Pedagang*)?||
 |14.|<br>Apakah<br>Bursa/Lembaga<br>Kliring<br>Penjaminan dan Penyelesaian/Pengelola<br>Tempat Penyimpanan/Pedagang lain pada||
 
-
 -----
 
 |Col1|pertanyaan no. 12 dan/atau perusahaan<br>non Bursa/Lembaga Kliring Penjaminan<br>dan Penyelesaian/Pengelola Tempat<br>Penyimpanan/Pedagang*) pada pertanyaan<br>no. 13 memiliki hubungan bisnis dengan<br>Bursa/Lembaga Kliring Penjaminan dan<br>Penyelesaian/Pengelola Tempat<br>Penyimpanan/Pedagang*) yang sahamnya<br>akan Saudara beli? Jelaskan jenis<br>hubungan bisnisnya secara detail|Col3|
@@ -2569,7 +2512,6 @@ tidak mencukupi)
 |18.|<br>Bagaimana penggunaan hak suara Saudara<br>pada Bursa/Lembaga Kliring Penjaminan<br>dan<br>Penyelesaian/Pengelola<br>Tempat<br>Penyimpanan/Pedagang*) tersebut, secara<br>sendiri-sendiri (Saudara sebagai individu)<br>ataukah bersama-sama dengan kelompok<br>usaha/ afiliasi Saudara?||
 |19.|<br>Apakah Saudara pernah diminta untuk<br>berhenti<br>bekerja,<br>dikenakan<br>tindakan<br>disiplin/sanksi<br>oleh<br>perusahaan<br>atau<br>dikenakan<br>sanksi<br>larangan<br>untuk<br>menjalankan profesi Saudara?||
 |20.|<br>Apakah Saudara pernah dinyatakan pailit<br>oleh otoritas di Indonesia atau negara<br>lainnya? Jelaskan secara spesifik||
-
 
 -----
 
@@ -2583,7 +2525,6 @@ tidak mencukupi)
 |27.|<br>Apakah Saudara, perusahaan Saudara,<br>atau kelompok usaha Saudara pernah gagal<br>memenuhi kewajiban kepada pihak lain<br>berdasarkan hukum di Indonesia atau<br>negara lain (misal pembayaran pajak, kredit<br>dsb)? Jelaskan||
 |28.|<br>Apakah aktivitas bisnis Saudara atau<br>perusahaan<br>Saudara/kelompok<br>usaha<br>Saudara sedang atau akan dijamin oleh<br>pihak lain? Jelaskan||
 |29.|<br>Jelaskan apabila terdapat informasi lain<br>yang dapat memberikan data sebagai<br>pertimbangan<br>Otoritas<br>Jasa<br>Keuangan<br>dalam memprosespermohonan Saudara||
-
 
 -----
 
@@ -2613,7 +2554,6 @@ cukup)
 
 (Nama/Jabatan)
 
-
 -----
 
 b. Daftar Isian Pemegang Saham Pengendali Berbentuk Badan Hukum
@@ -2631,7 +2571,6 @@ tidak mencukupi)
 |8.|Apakah saat ini perusahaan Saudara<br>berperan sebagai Pemegang Saham<br>Pengendali<br>pada<br>perusahaan<br>non<br>Bursa/ Lembaga Kliring Penjaminan<br>dan Penyelesaian/ Pengelola Tempat<br>Penyimpanan/ Pedagang?<br>Jelaskan.||
 |9.|Apakah perusahaan pada pertanyaan<br>no.8 memiliki hubungan bisnis dengan<br>Bursa/ Lembaga Kliring Penjaminan<br>dan Penyelesaian/ Pengelola Tempat<br>Penyimpanan/ Pedagang yang akan<br>diambil<br>alih<br>atau<br>dengan<br>Bursa/Lembaga Kliring Penjaminan dan<br>Penyelesaian/Pengelola<br>Tempat<br>Penyimpanan/Pedagang<br>pada<br>pertanyaan no.7? Jelaskan.||
 
-
 -----
 
 |10.|Apakah perusahaan Saudara<br>bermaksud menjadi pengendali/sebagai<br>Pemegang Saham Pengendali dengan<br>tujuan investasi jangka panjang<br>(strategic partner)?<br>Jika Ya, jelaskan program<br>Saudara.|Col3|
@@ -2642,7 +2581,6 @@ tidak mencukupi)
 |14.|Sebutkan nama dan jabatan “_key_<br>_person_” pada perusahaan Saudara.<br>Jelaskan<br>informasi<br>rinci<br>meliputi<br>kebangsaan, kualifikasi akademis dan<br>profesi, serta pekerjaan dalam lima<br>tahun terakhir.||
 |15.|Informasikan secara rinci seluruh daftar<br>pemegang saham pada perusahaan<br>Saudara dan jelaskan Pemegang Saham<br>Pengendali nya.||
 |16.|Apakah saat ini perusahaan Saudara<br>telah mengendalikan secara langsung<br>maupun<br>tidak<br>langsung<br>Bursa/Lembaga Kliring Penjaminan dan<br>Penyelesaian/Pengelola<br>Tempat<br>Penyimpanan/Pedagang<br>yang<br>akan<br>diambil alih?<br>Jika Ya, jelaskan.||
-
 
 -----
 
@@ -2655,13 +2593,11 @@ tidak mencukupi)
 |22.|Apakah<br>perusahaan<br>Saudara<br>atau<br>kelompok bisnis Saudara pernah gagal<br>memenuhi<br>kewajiban<br>(pembayaran<br>pajak, kredit dsb.) kepada pihak lain<br>berdasarkan hukum di Indonesia atau<br>negara lain?<br>Jika Ya, jelaskan.|<br> <br> <br> <br>|
 |23.|Apakah<br>kegiatan<br>perusahaan<br>Saudara/perusahaan<br>lainnya<br>dalam<br>kelompok bisnis Saudara sedang atau<br>akan dijamin oleh pihak lain?<br>Jika<br>Ya,<br>jelaskan<br>oleh<br>siapa<br>dan<br>bagaimana<br>penjaminan<br>itu<br>akan<br>dilaksanakan.|<br> <br> <br> <br>|
 
-
 -----
 
 |24.|Jelaskan sumber dana yang akan<br>digunakan perusahaan Saudara untuk<br>mengambil alih Bursa/Lembaga Kliring<br>Penjaminan dan Penyelesaian<br>/Pengelola Tempat Penyimpanan<br>/Pedagang (jawaban wajib disertai<br>dengan dokumen pendukung).|Col3|
 |---|---|---|
 |25.|Jelaskan alasan/informasi lain yang<br>dapat memperkuat pertimbangan OJK<br>dalam<br>memproses<br>permohonan<br>pengambilalihan<br>Bursa/Lembaga<br>Kliring<br>Penjaminan<br>dan<br>Penyelesaian/Pengelola<br>Tempat<br>Penyimpanan/Pedagang<br>oleh<br>perusahaan Saudara (disertai dengan<br>bukti pendukung).||
-
 
 Yang bertandatangan di bawah ini menyatakan, bahwa:
 1. telah memahami ketentuan-ketentuan yang berkaitan dengan hak
@@ -2689,7 +2625,6 @@ Dasar hukum untuk mewakili  :
 ___________________________________
 
 *)  coret yang tidak perlu
-
 
 -----
 
@@ -2748,7 +2683,6 @@ secara tidak wajar kepada pemegang saham, Pihak Utama, pegawai,
 dan/atau pihak lain yang dapat merugikan atau mengurangi hak
 konsumen;
 
-
 -----
 
 k. tidak pernah melakukan perbuatan yang tidak sesuai dengan
@@ -2779,16 +2713,13 @@ _(nama lengkap)_
 
 *)   coret yang tidak perlu
 
-
 -----
 
 6. Daftar Riwayat Hidup
 
 DAFTAR RIWAYAT HIDUP
 
-
 4x6 cm
-
 
 Data Pribadi
 Nama : ....................................................
@@ -2800,13 +2731,10 @@ Agama : ....................................................
 
 Kewarganegaraan : ....................................................
 
-
 Nomor Induk
 Kependudukan (NIK)
 
-
 : ....................................................
-
 
 Alamat : ....................................................
 Kota .....
@@ -2816,7 +2744,6 @@ Kode Pos .....
 
 Nomor Telepon : ....................................................
 
-
 Nomor Telepon Seluler
 Pemohon
 
@@ -2825,7 +2752,6 @@ Riwayat Pendidikan
 Tingkat
 Pendidikan
 
-
 : ....................................................
 
 |Formal|Col2|Col3|Col4|
@@ -2833,7 +2759,6 @@ Pendidikan
 |Tingkat<br>Pendidikan|Jurusan/<br>Spesialisasi|Nama/<br>Tempat|Tahun Lulus|
 |||||
 |||||
-
 
 2. Non-Formal (Bersertifikat)
 Kursus/ Seminar Penyelenggara Tahun
@@ -2850,7 +2775,6 @@ Sertifikasi Penyelenggara Tahun Lulus
 |Sertifikasi|Penyelenggara|Tahun Lulus|
 |---|---|---|
 
-
 -----
 
 4. Riwayat Pekerjaan
@@ -2861,7 +2785,6 @@ Perusahaan
 |---|---|---|---|---|---|
 |||||||
 |||||||
-
 
 .....,............ 20.....
 
@@ -2888,7 +2811,6 @@ ttd
 
 HASAN FAWZI
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -2896,7 +2818,6 @@ Departemen Hukum
 ttd
 
 Aat Windradi
-
 
 -----
 
@@ -2908,7 +2829,6 @@ NOMOR 20/SEOJK.07/2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL
 TERMASUK ASET KRIPTO
-
 
 -----
 
@@ -2970,7 +2890,6 @@ setiap saat apabila berdasarkan bukti, data, dan/atau informasi
 yang diperoleh berdasarkan hasil pengawasan tidak langsung (off
 _site supervision), pengawasan langsung (on site supervision),_
 
-
 -----
 
 dan/atau informasi lainnya, terdapat indikasi keterlibatan
@@ -3030,7 +2949,6 @@ dengan ketentuan peraturan perundang-undangan
 dan/atau tidak wajar kepada anggota Dewan Komisaris,
 anggota Direksi, pegawai dan/atau pihak lain;
 
-
 -----
 
 3) pemberian komisi kepada pihak lain secara tidak wajar
@@ -3087,7 +3005,6 @@ tindakan yang melanggar ketentuan peraturan perundangundangan yang dapat menyeba
 Penjaminan dan Penyelesaian, Pengelola Tempat
 Penyimpanan, atau Pedagang dibekukan kegiatan usahanya
 dan/atau dicabut izin usahanya;
-
 
 -----
 
@@ -3148,7 +3065,6 @@ berupa memberikan keuntungan secara tidak wajar kepada
 pemegang saham, anggota Direksi, anggota Dewan Komisaris,
 pegawai Bursa, Lembaga Kliring Penjaminan dan Penyelesaian,
 
-
 -----
 
 Pengelola Tempat Penyimpanan, atau Pedagang dan/atau
@@ -3208,7 +3124,6 @@ lingkungan hidup, di bidang kelautan, dan perikanan;
 e. menyebabkan Bursa, Lembaga Kliring Penjaminan dan
 Penyelesaian, Pengelola Tempat Penyimpanan, atau Pedagang
 
-
 -----
 
 mengalami kesulitan yang membahayakan kelangsungan
@@ -3265,7 +3180,6 @@ c. tanggapan dari Pihak Utama yang dinilai kembali terhadap
 hasil sementara penilaian kembali; dan
 d. penetapan dan pemberitahuan hasil akhir penilaian kembali
 kepada Pihak Utama yang dinilai kembali.
-
 
 -----
 
@@ -3326,7 +3240,6 @@ tingkat keterlibatan dan/atau pertanggungjawaban Pihak Utama
 yang dinilai kembali, yang dikategorikan menjadi:
 a. pelaku; atau
 
-
 -----
 
 b. pelaku pembantu.
@@ -3386,7 +3299,6 @@ yang bersangkutan.
 4. Otoritas Jasa Keuangan memberitahukan hasil akhir penilaian
 kembali Pihak Utama secara tertulis kepada Pihak Utama
 
-
 -----
 
 pengendali, Penyelenggara Perdagangan Aset Keuangan Digital,
@@ -3445,7 +3357,6 @@ sebagaimana dimaksud pada angka 2 dan angka 3, dengan rincian
 sebagaimana tercantum dalam Lampiran yang merupakan bagian
 tidak terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
 
-
 -----
 
 5. Bursa, Lembaga Kliring Penjaminan dan Penyelesaian, Pengelola
@@ -3503,7 +3414,6 @@ pembayaran dividen ditunda sampai dengan yang
 bersangkutan mengalihkan seluruh kepemilikan sahamnya
 sesuai dengan ketentuan peraturan perundang-undangan.
 
-
 -----
 
 F. PERMOHONAN PENINJAUAN ULANG
@@ -3560,7 +3470,6 @@ atau penyelamatan industri Penyelenggara Perdagangan Aset
 Keuangan Digital sebagaimana dimaksud pada angka 2 huruf d
 angka 2) dinyatakan antara lain dalam dokumen tertulis yang
 memuat mengenai rencana tindak dengan jangka waktu tertentu
-
 
 -----
 
@@ -3621,7 +3530,6 @@ individu maupun industri.
 ketidaksesuaian kriteria permohonan peninjauan ulang dan/atau
 dokumen yang disampaikan tidak lengkap, Otoritas Jasa Keuangan
 
-
 -----
 
 memberitahukan kepada pemohon bahwa permohonan peninjauan
@@ -3676,18 +3584,14 @@ DIGITAL DAN ASET KRIPTO
 OTORITAS JASA KEUANGAN
 REPUBLIK INDONESIA,
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
 
-
 ttd
-
 
 HASAN FAWZI
 ttd
-
 
 -----
 
@@ -3698,7 +3602,6 @@ REPUBLIK INDONESIA
 NOMOR 20/SEOJK.07/2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL TERMASUK ASET KRIPTO
-
 
 -----
 
@@ -3733,7 +3636,6 @@ No. Laporan
 |---|---|---|---|
 |1|_Pengembangan trading platform*) _|_Triwulan II 2027 *) _||
 
-
 -----
 
 |2|Kerja sama usaha dengan pihak ketiga*)|Triwulan II 2026 *)|Col4|
@@ -3755,7 +3657,6 @@ No. Laporan
 |---|---|
 |2.|Kebijakan dan Strategi Management<br>a. Analisis Posisi Perusahaan dalam Menghadapi Persaingan Usaha<br>…..<br>b. Kebijakan Manajemen (_Policy Statements_) <br>…..<br>c. Kebijakan Manajemen Risiko dan Kepatuhan<br>…..<br>d. Strategi Pengembangan Bisnis<br>…..<br>e. Strategi Pengembangan Sumber Daya Manusia dan Kebijakan Remunerasi (_Remuneration Policies_) <br>…..|
 |3.|Penerapan manajemen risiko dan kinerja saat ini<br>a. Penerapan manajemen risiko <br>**No**<br>**Jenis Risiko**<br>**Risiko yang teridentifikasi**<br>**Rencana Mitigasi atas Risiko**<br>**yang teridentifikasi **<br>1 <br>_Risiko Operasional*) _<br>_kesalahan/error*) _<br>_kegagalan teknologi informasi*) _<br>_… _<br>2 <br>_Risiko Kepatuhan*) _<br>_kegagalan pemenuhan ketentuan*) _<br>… <br>… <br>… <br>… <br>*) contoh|
-
 
 -----
 
@@ -3786,7 +3687,6 @@ No. Laporan
 |4.|Proyeksi Laporan Keuangan beserta Asumsi yang Digunakan<br>**No**<br>**Pos-Pos**<br>**Keuangan**<br>**Aktual Sept T-1**<br>**Proyeksi**<br>**Des T-1**<br>**T **<br>**Mar**<br>**Jun**<br>**Sept **<br>**Des**<br>1<br>2 <br>Keterangan:<br>Menggunakan template laporan posisi keuangan dan laporan laba rugi dalam laporan keuangan bulanan|
 |5.|Proyeksi Rasio-Rasio dan Pos-Pos tertentu lainnya <br>**No**<br>**Rasio**<br>**Aktual**<br>**Sept T-1**<br>**Proyeksi**<br>**Des T-1**<br>**T **<br>**Mar**<br>**Jun**<br>**Sept **<br>**Des**<br>Permodalan <br>1 <br>Total Ekuitas/Rp500 M(_untuk pedagang_) <br>...<br>Likuiditas <br>2 <br>_Current Ratio =Current Asset /  Current Liabilities _<br>3 <br>_Cash Ratio =(Cash +Cash Equivalent) / Current Liabilities _ <br>... <br>_Leverage _<br>4 <br>_Debt Ratio =  Total Liabilities / Total Asset _<br>...|
 
-
 -----
 
 |No|Jabatan|Nama|Alasan Perubahan|Rencana Waktu Pengajuan|
@@ -3816,7 +3716,6 @@ No. Laporan
 |2|_Pengadaan Storage*) _||_Q4 2025*) _|
 |3|_Pemindahan Lokasi Data Center*) _||_Q4 2025*) _|
 
-
 -----
 
 |…|…|…|…|
@@ -3841,7 +3740,6 @@ No. Laporan
 |12.|Rencana Pengembangan dan/atau Perubahan Jaringan Kantor, Termasuk Kerja Sama Dengan Agen Pemasar<br>…..|
 |13.|Informasi Lainya<br>…..|
 
-
 -----
 
 Salinan ini sesuai dengan aslinya
@@ -3851,7 +3749,6 @@ Departemen Hukum
 ttd
 
 Aat Windradi
-
 
 _(tanggal/bulan/tahun)_
 Anggota Direksi,
@@ -3875,7 +3772,6 @@ ttd
 
 HASAN FAWZI
 
-
 -----
 
 LAMPIRAN VI
@@ -3885,7 +3781,6 @@ REPUBLIK INDONESIA
 NOMOR 20/SEOJK.07/2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL TERMASUK ASET KRIPTO
-
 
 -----
 
@@ -3953,7 +3848,6 @@ Laporan Rekapitulasi Transaksi Harian per Aset Keuangan Digital
 |…|…|…|…|…|…|…|…|…|
 |||||||**Total**|…|…|
 
-
 -----
 
 **B.** **LAPORAN HARIAN LEMBAGA KLIRING PENJAMINAN DAN PENYELESAIAN**
@@ -4015,7 +3909,6 @@ Laporan Rekapitulasi Dana Konsumen Harian
 |||**Total**|||||
 |||**Total (Sesi 1 &**<br>**2) **|||||
 
-
 -----
 
 **C.** **LAPORAN HARIAN PENGELOLA TEMPAT PENYIMPANAN**
@@ -4071,7 +3964,6 @@ Laporan Rekapitulasi Aset Keuangan Digital Konsumen Harian*
 |||||||**Total**|…..|
 |||||||**Total (Sesi 1 &**<br>**2) **|…..|
 
-
 -----
 
 Laporan Rincian Aset Keuangan Digital yang Ditempatkan per Pedagang**)
@@ -4122,7 +4014,6 @@ Laporan Rincian Aset Keuangan Digital yang Ditempatkan per Pedagang**)
 |**Total**<br>**Total (Sesi 1 & 2)**|**Total**<br>**Total (Sesi 1 & 2)**|**Total**<br>**Total (Sesi 1 & 2)**|**Total**<br>**Total (Sesi 1 & 2)**|**Total**<br>**Total (Sesi 1 & 2)**|**Total**<br>**Total (Sesi 1 & 2)**|**Total**|…..|
 |**Total**<br>**Total (Sesi 1 & 2)**|**Total**<br>**Total (Sesi 1 & 2)**|**Total**<br>**Total (Sesi 1 & 2)**|**Total**<br>**Total (Sesi 1 & 2)**|**Total**<br>**Total (Sesi 1 & 2)**|**Total**<br>**Total (Sesi 1 & 2)**|**Total**|…..|
 
-
 -----
 
 **D.** **LAPORAN HARIAN PEDAGANG**
@@ -4159,7 +4050,6 @@ Saldo dan Transaksi Aset Keuangan Digital Harian Konsumen dan Pedagang
 |**2 **||||||||||||||
 |**…**||||||||||||||
 
-
 -----
 
 **Total** ... ... ... ... ... ...
@@ -4187,12 +4077,10 @@ Transaksi Aset Keuangan Digital Harian Konsumen dan Pedagang
 |6|Total Penjualan Aset Keuangan<br>Digitaluntuk Pedagang sendiri||||||
 |7|Total Transaksi_On The Counter_||||||
 
-
 -----
 
 |8|Total Transaksi Over The Counter|Col3|Col4|Col5|Col6|Col7|
 |---|---|---|---|---|---|---|
-
 
 Rekapitulasi Transaksi Harian per Aset Keuangan Digital
 
@@ -4228,18 +4116,15 @@ REPUBLIK INDONESIA,
 |…||||||||
 |||||||**Total**|...|
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
 
 ttd
 
-
 ttd
 
 HASAN FAWZI
-
 
 -----
 
@@ -4251,7 +4136,6 @@ NOMOR 20/SEOJK.07/2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL
 TERMASUK ASET KRIPTO
-
 
 -----
 
@@ -4313,9 +4197,7 @@ Piutang Lain-Lain
 |...|…|…|…|…|…|
 |||||** Total**||
 
-
 Penyertaan saham
-
 
 Pajak Dibayar Dimuka
 
@@ -4387,7 +4269,6 @@ Utang Pajak
 |Liabilitas Hak-Guna, jangkapendek||
 |Utang Pajak||
 
-
 -----
 
 **Posisi**
@@ -4397,21 +4278,15 @@ Utang Pajak
 **(Rp)**
 Beban yang masih harus dibayar
 
-
 Pendapatan Diterima Dimuka
-
 
 Utang Bank Jangka Pendek
 
-
 Liabilitas Hak-Guna, jangka pendek
-
 
 Liabilitas Imbalan Kerja Jangka Pendek
 
-
 Lainnya
-
 
 **Total Liabilitas Jangka Pendek**
 
@@ -4421,9 +4296,7 @@ Utang Bank
 
 Liabilitas Hak-Guna, jangka panjang
 
-
 Pinjaman kepada pihak berelasi
-
 
 Utang jangka panjang lainnya
 
@@ -4504,7 +4377,6 @@ Laporan Laba/Rugi
 |Biaya ITdan Telekomunikasi||
 |Beban Kontribusi Tahunan ke OJK||
 
-
 -----
 
 Berwujud
@@ -4580,7 +4452,6 @@ Laporan Arus Kas
 |Lain-lain||
 |Total Pengeluaran||
 |Jumlah Arus Kas dari Aktivitas Operasi||
-
 
 -----
 
@@ -4687,7 +4558,6 @@ Kas dan Setara Kas
 |**ASET LANCAR**||
 |Kas danSetara Kas||
 
-
 -----
 
 Investasi/Penyertaan Saham
@@ -4718,9 +4588,7 @@ Aset Hak-Guna Bersih
 
 Aset Tak Berwujud
 
-
 Pinjaman kepada Pihak Berelasi
-
 
 Aset Tidak Lancar Lainnya
 
@@ -4819,7 +4687,6 @@ Utang Jangka Panjang Lainnya
 |Utang Jangka Panjang Lainnya||
 |**Jumlah Liabilitas Jangka Panjang  **||
 
-
 -----
 
 **Posisi**
@@ -4899,7 +4766,6 @@ Laporan Laba/Rugi
 |h. Beban Barang dan Jasa||
 |i. Pajak-Pajak||
 
-
 -----
 
 **Posisi**
@@ -4976,7 +4842,6 @@ Laporan Arus Kas
 |Jumlah Arus Dari Aktivitas Investasi|||
 ||||
 |**ARUS KAS DARI AKTIVITAS INVESTASI PENDANAAN**|||
-
 
 -----
 
@@ -5098,16 +4963,13 @@ Aset Tetap
 |**ASET TIDAK LANCAR**||
 |Aset Tetap||
 
-
 -----
 
 Aset Hak-Guna Bersih
 
 Aset Tak Berwujud
 
-
 Pinjaman Kepada Pihak Berelasi
-
 
 Aset Tidak Lancar Lainnya
 
@@ -5222,7 +5084,6 @@ Ekuitas Lainnya
 |**JUMLAH EKUITAS **||
 |**TOTAL LIABILITAS DAN EKUITAS **||
 
-
 -----
 
 Laporan Laba/Rugi
@@ -5315,7 +5176,6 @@ Pendapatan (Beban) Pajak Tangguhan
 |Taksiran Pajak Penghasilan||
 |Pendapatan (Beban) Pajak Tangguhan||
 |**LABA/RUGI BERSIH TAHUN BERJALAN**||
-
 
 -----
 
@@ -5414,14 +5274,12 @@ I. Laporan Kegiatan Bulanan
 ||a|b|c|d|e|f=b+c+d+e|
 |1|Jumlah<br>Konsumen<br>(awal bulan)||||||
 
-
 -----
 
 |2|Jumlah<br>Penambahan<br>Konsumen|Col3|Col4|Col5|Col6|Col7|
 |---|---|---|---|---|---|---|
 |3|Jumlah<br>Pengurangan<br>Konsumen||||||
 |4|Jumlah<br>Konsumen<br>(akhirbulan)||||||
-
 
 **Keterangan:**
 WNI : Warga Negara Indonesia
@@ -5487,7 +5345,6 @@ _Up Dana_
 ||||||||
 |20|||||||
 ||||||**Total**|…|
-
 
 -----
 
@@ -5593,7 +5450,6 @@ Aset Lancar Lainnya
 |Biaya Dibayar Dimuka||
 |Aset Lancar Lainnya||
 |**Total Aset Lancar**||
-
 
 -----
 
@@ -5730,7 +5586,6 @@ Ekuitas Lainnya
 |**JUMLAH EKUITAS **|||
 |**TOTAL LIABILITAS DAN EKUITAS **|||
 
-
 -----
 
 Laporan Laba Rugi
@@ -5781,7 +5636,6 @@ Laporan Laba Rugi
 |Total Beban Non Operasional||
 |**LABA/RUGI NON OPERASIONAL**||
 |**LABA/RUGI TAHUN BERJALANSEBELUM PAJAK**||
-
 
 -----
 
@@ -5887,7 +5741,6 @@ Kenaikan (Penurunan) Arus Kas Neto
 |**Saldo Kas danSetara Kas Awal Periode **|||
 |**Saldo Kas danSetara Kas Akhir Periode **|||
 
-
 -----
 
 Keterangan:
@@ -5908,7 +5761,6 @@ ttd
 
 HASAN FAWZI
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -5916,7 +5768,6 @@ Departemen Hukum
 ttd
 
 Aat Windradi
-
 
 -----
 
@@ -5927,7 +5778,6 @@ REPUBLIK INDONESIA
 NOMOR 20/SEOJK.07/2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL TERMASUK ASET KRIPTO
-
 
 -----
 
@@ -5986,7 +5836,6 @@ _Realisasi pengembangan sistem informasi dan Teknologi_ **) **) **) **)
 |7|_Realisasi pengembangan sistem informasi dan Teknologi_<br>_Informasi, contoh: Pergantian vendor provider internet*) _|**)|**)|**)|**)|
 |...|…|**)|**)|**)|**)|
 
-
 -----
 
 Kinerja Keuangan
@@ -6015,7 +5864,6 @@ Kinerja Keuangan
 |...||||||
 |_Profitability _||||||
 
-
 -----
 
 1 BOPO = Biaya Operasional / Pendapatan Operasional
@@ -6039,9 +5887,7 @@ Kinerja Keuangan
 |….|||||||||
 |**Peringkat Profil Risiko(i) **|**Peringkat Profil Risiko(i) **|**Peringkat Profil Risiko(i) **|**Peringkat Profil Risiko(i) **|**Peringkat Profil Risiko(i) **|**Peringkat Profil Risiko(i) **|**Peringkat Profil Risiko(i) **|**Peringkat Profil Risiko(i) **||
 
-
 **Analisis dan Kesimpulan atas Peringkat Profil Risiko**
-
 
 Keterangan:
 
@@ -6057,7 +5903,6 @@ Kredit
 
 |Risiko<br>Kredit|Risiko yang timbul akibat kegagalan pihak lain dalam memenuhi kewajiban kepada platform atau penyedia<br>layanan, termasuk risiko kredit karena kegagalan peminjam, konsentrasi kredit, risiko kredit lawan transaksi<br>(counterparty), dan risiko penyelesaian (settlement risk).|
 |---|---|
-
 
 -----
 
@@ -6127,7 +5972,6 @@ c. menjelaskan rasio atau parameter yang digunakan untuk mengukur risiko inheren
 |4|_Moderate to high_|
 |5|_High_|
 
-
 -----
 
 d. menjelaskan dasar peringkat yang diberikan, meliputi antara lain nilai rasio atau parameter pengukuran, probabilitas
@@ -6182,7 +6026,6 @@ Peringkat dengan skala 1-5, dengan penjelasan sebagai berikut:
 |---|---|
 |2|_Low to moderate_|
 
-
 -----
 
 3 _Moderate_
@@ -6194,7 +6037,6 @@ Peringkat dengan skala 1-5, dengan penjelasan sebagai berikut:
 |4|_Moderate to high _|
 |5|_High_|
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -6202,7 +6044,6 @@ Departemen Hukum
 ttd
 
 Aat Windradi
-
 
 Ditetapkan di Jakarta
 pada tanggal 19 Desember 2024
@@ -6218,7 +6059,6 @@ ttd
 
 HASAN FAWZI
 
-
 -----
 
 LAMPIRAN IX
@@ -6228,7 +6068,6 @@ REPUBLIK INDONESIA
 NOMOR 20/SEOJK.07/2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL TERMASUK ASET KRIPTO
-
 
 -----
 
@@ -6264,7 +6103,6 @@ a.Visi
 |1.||||||||
 |2.||||||||
 
-
 -----
 
 |…|Col2|Col3|Col4|Col5|Col6|Col7|Col8|
@@ -6294,7 +6132,6 @@ a.Visi
 |2|||
 |**… **|||
 
-
 -----
 
 |No|Status Kepegawaian|202x|202x-1|
@@ -6320,7 +6157,6 @@ a.Visi
 |---|---|
 |5.|Ikhtisar Peristiwa Penting<br>_menjelaskan peristiwa penting pada tahun berjalan, seperti disetujuai sebagai Pedagang, terdaftar sebagai anggota Bursa,_<br>_IPO, dll_|
 
-
 -----
 
 |6.|Analisis dan Pembahasan Manajemen<br>menjelaskan Analisa dan pembahasan atas tinjauan kinerja keuangan, target dan pencapaian rencana bisnis, dll|
@@ -6329,13 +6165,11 @@ a.Visi
 |8.|Informasi Penerapan Manajemen Risiko<br>a. Pengawasan Aktif Direksi dan Dewan Komisaris<br>… <br>b. Kecukupan Kebijakan dan Prosedur Manajemen Risiko serta Penetapan Limit Risiko<br>… <br>c. Kecukupan Proses Identifikasi, Pengukuran, Pemantauan, dan Pengendalian Risiko serta Sistem Informasi Manajemen<br>Risiko<br>… <br>d. Sistem Pengendalian Internal yang Menyeluruh<br>…|
 |9.|Laporan Penerapan APU PPT PPSPM<br>a. Pengawasan Aktif Direksi dan Komisaris<br>… <br>b. Kebijakan dan Prosedur<br>… <br>c. Pengendalian Internal<br>… <br>d. Sistem Informasi Manajemen|
 
-
 -----
 
 |Col1|…<br>e. Sumber Daya Manusia dan Pelatihan<br>…|
 |---|---|
 |10|Laporan Keuangan yang Telah Diaudit<br>Terdiri atas: Laporan Posisi Keuangan, Laporan Laba Rugi, Laporan Arus Kas, Laporan Perubahan Ekuitas, dan Catatan<br>Atas Laporan Keuangan|
-
 
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
@@ -6344,7 +6178,6 @@ Departemen Hukum
 ttd
 
 Aat Windradi
-
 
 Ditetapkan di Jakarta
 pada tanggal 19 Desember 2024
@@ -6360,7 +6193,6 @@ ttd
 
 HASAN FAWZI
 
-
 -----
 
 LAMPIRAN X
@@ -6371,7 +6203,6 @@ NOMOR 20/SEOJK.07/2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL
 TERMASUK ASET KRIPTO
-
 
 -----
 
@@ -6438,7 +6269,6 @@ ttd
 
 A t Wi d di
 
-
 -----
 
 LAMPIRAN XI
@@ -6449,7 +6279,6 @@ NOMOR 20/SEOJK.07/2024
 TENTANG
 PENYELENGGARAAN PERDAGANGAN ASET KEUANGAN DIGITAL
 TERMASUK ASET KRIPTO
-
 
 -----
 
@@ -6497,7 +6326,6 @@ Hormat kami,
 Anggota Direksi
 
 (              )
-
 
 -----
 
@@ -6548,14 +6376,12 @@ dengan perubahan sebagai berikut:
 |Petugas<br>Penyusun|Nama|||
 |Petugas<br>Penyusun|Jabatan di<br>Penyelenggara|||
 
-
 -----
 
 |Col1|Perdagangan Aset<br>Keuangan Digital|Col3|Col4|
 |---|---|---|---|
 ||Email|||
 ||Telepon|||
-
 
 Demikian permohonan ini kami sampaikan. Atas perhatian Bapak/Ibu,
 kami ucapkan terima kasih.
@@ -6580,7 +6406,6 @@ ttd
 
 HASAN FAWZI
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -6589,6 +6414,4 @@ ttd
 
 Aat Windradi
 
-
 -----
-

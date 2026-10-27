@@ -24,10 +24,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penyelenggaraan Teknologi Informasi oleh Bank Umum
+**Penyelenggaraan Teknologi Informasi oleh Bank Umum**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -35,8 +41,7 @@ last_updated: 2026-10-28
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/Penyelenggaraan-Teknologi-Informasi-Oleh-Bank-Umum.aspx)
 
-
-# LEMBARAN NEGARA REPUBLIK INDONESIA
+**LEMBARAN NEGARA REPUBLIK INDONESIA**
 
 No.5/OJK, 2022 KEUANGAN OJK. TI. Bank Umum.
 Penyelenggaraan. Pencabutan. (Penjelasan dalam
@@ -91,8 +96,7 @@ mengganti Peraturan Otoritas Jasa Keuangan
 
 Nomor 38/POJK.03/2016 tentang Penerapan
 
-## t id
-
+**t id**
 
 -----
 
@@ -160,8 +164,7 @@ Indonesia Tahun 2011 Nomor 111, Tambahan
 
 Lembaran Negara Republik Indonesia Nomor 5253);
 
-## t id
-
+**t id**
 
 -----
 
@@ -177,7 +180,7 @@ BAB I
 
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Otoritas Jasa Keuangan ini, yang
 
@@ -231,8 +234,7 @@ digunakan untuk memulihkan kembali data atau
 
 informasi serta fungsi penting Sistem Elektronik yang
 
-## t id
-
+**t id**
 
 -----
 
@@ -296,8 +298,7 @@ melaksanakan fungsi pengawasan bagi kantor cabang
 
 dari bank yang berkedudukan di luar negeri.
 
-## t id
-
+**t id**
 
 -----
 
@@ -309,7 +310,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 (1) Bank wajib menerapkan tata kelola TI yang baik dalam
 
@@ -369,8 +370,7 @@ e. pemantauan kinerja dan kesesuaian
 
 penyelenggaraan TI dengan target kinerja intern,
 
-## t id
-
+**t id**
 
 -----
 
@@ -390,7 +390,7 @@ b. pengguna TI,
 
 pada Bank.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 (1) Dalam menerapkan tata kelola TI, Bank wajib
 
@@ -434,14 +434,13 @@ Bagian Kedua
 
 Penerapan Tata Kelola TI Bank
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 Bank wajib menetapkan wewenang dan tanggung jawab
 
 yang jelas dari Direksi, Dewan Komisaris, dan pejabat pada
 
-## t id
-
+**t id**
 
 -----
 
@@ -449,7 +448,7 @@ setiap jenjang jabatan yang terkait dengan penerapan tata
 
 kelola TI.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 Wewenang dan tanggung jawab Direksi sebagaimana
 
@@ -495,7 +494,7 @@ Bank secara efektif dan efisien; dan
 
 kepentingan dalam penerapan tata kelola TI.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 Wewenang dan tanggung jawab Dewan Komisaris
 
@@ -511,12 +510,11 @@ b. mengevaluasi, mengarahkan, dan memantau
 
 penerapan tata kelola TI.
 
-## t id
-
+**t id**
 
 -----
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 (1) Bank wajib memiliki komite pengarah TI.
 
@@ -586,12 +584,11 @@ ayat (3) diketuai oleh salah satu direktur Bank
 
 merangkap sebagai anggota.
 
-## t id
-
+**t id**
 
 -----
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
 (1) Bank wajib memiliki satuan kerja penyelenggara TI
 
@@ -619,7 +616,7 @@ ditetapkan oleh Direksi untuk mencapai tujuan bisnis
 
 Bank.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
@@ -651,14 +648,13 @@ c. penurunan penilaian faktor tata kelola dalam
 
 penilaian tingkat kesehatan Bank.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 Ketentuan lebih lanjut mengenai penerapan tata kelola TI
 
 ditetapkan oleh Otoritas Jasa Keuangan.
 
-## t id
-
+**t id**
 
 -----
 
@@ -670,7 +666,7 @@ Bagian Kesatu
 
 Penyusunan Arsitektur TI Bank
 
-Pasal 11
+### Pasal 11 ^pasal-11
 
 (1) Bank wajib memiliki arsitektur TI.
 
@@ -724,8 +720,7 @@ melakukan penginian terhadap arsitektur TI.
 
 arsitektur TI ditetapkan oleh Otoritas Jasa Keuangan.
 
-## t id
-
+**t id**
 
 -----
 
@@ -733,7 +728,7 @@ Bagian Kedua
 
 Penyusunan Rencana Strategis TI Bank
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 (1) Bank wajib memiliki rencana strategis TI yang
 
@@ -751,7 +746,7 @@ Bank.
 
 strategis TI ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 (1) Bank wajib menyampaikan rencana strategis TI
 
@@ -783,7 +778,7 @@ strategis TI sebagaimana dimaksud dalam Pasal 12
 
 ayat (2).
 
-Pasal 14
+### Pasal 14 ^pasal-14
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
@@ -797,8 +792,7 @@ administratif berupa teguran tertulis.
 
 sebagaimana dimaksud pada ayat (1) dan belum
 
-## t id
-
+**t id**
 
 -----
 
@@ -828,7 +822,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 (1) Bank wajib menerapkan manajemen risiko secara
 
@@ -864,8 +858,7 @@ manajemen risiko dalam penyelenggaraan TI
 
 ditetapkan oleh Otoritas Jasa Keuangan.
 
-## t id
-
+**t id**
 
 -----
 
@@ -875,7 +868,7 @@ Pengamanan Informasi dalam
 
 Penyelenggaraan TI Bank
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 (1) Bank wajib memastikan pengamanan informasi
 
@@ -901,7 +894,7 @@ Bank.
 
 informasi ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 
 (1) Bank wajib memastikan jaringan komunikasi yang
 
@@ -913,7 +906,7 @@ kerahasiaan, integritas, dan ketersediaan.
 
 ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 (1) Bank wajib memiliki Rencana Pemulihan Bencana.
 
@@ -937,8 +930,7 @@ dampak bisnis, paling sedikit 1 (satu) kali dalam
 
 1 (satu) tahun dengan melibatkan pengguna TI.
 
-## t id
-
+**t id**
 
 -----
 
@@ -952,7 +944,7 @@ tahun.
 
 Bencana ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 
 Bank umum konvensional yang memiliki unit usaha
 
@@ -960,7 +952,7 @@ syariah wajib memiliki sistem yang dapat menghasilkan
 
 laporan terpisah bagi kegiatan unit usaha syariah.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
@@ -998,7 +990,7 @@ BAB V
 
 KETAHANAN DAN KEAMANAN SIBER BANK
 
-Pasal 21
+### Pasal 21 ^pasal-21
 
 (1) Bank wajib menjaga ketahanan siber.
 
@@ -1008,8 +1000,7 @@ dimaksud pada ayat (1), Bank melakukan proses
 
 paling sedikit:
 
-## t id
-
+**t id**
 
 -----
 
@@ -1029,7 +1020,7 @@ dengan sistem informasi ketahanan siber yang
 
 memadai.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 (1) Bank wajib melakukan penilaian sendiri atas tingkat
 
@@ -1057,7 +1048,7 @@ Keuangan sebagai bagian dari laporan kondisi terkini
 
 penyelenggaraan TI Bank.
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 Bank wajib melakukan pengujian keamanan siber
 
@@ -1067,7 +1058,7 @@ a. analisis kerentanan; dan
 
 b. skenario.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 
 (1) Pengujian keamanan siber berdasarkan analisis
 
@@ -1081,8 +1072,7 @@ siber berdasarkan analisis kerentanan sebagaimana
 
 dimaksud pada ayat (1) kepada Otoritas Jasa
 
-## t id
-
+**t id**
 
 -----
 
@@ -1090,7 +1080,7 @@ Keuangan sebagai bagian dari laporan kondisi terkini
 
 penyelenggaraan TI Bank.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 
 (1) Pengujian keamanan siber berdasarkan skenario
 
@@ -1142,7 +1132,7 @@ pengujian; dan
 
 c. rencana atau perbaikan yang telah dilakukan.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 
 (1) Bank wajib membentuk unit atau fungsi yang bertugas
 
@@ -1152,12 +1142,11 @@ menangani ketahanan dan keamanan siber Bank.
 
 bersifat independen terhadap fungsi pengelolaan TI.
 
-## t id
-
+**t id**
 
 -----
 
-Pasal 27
+### Pasal 27 ^pasal-27
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
@@ -1189,7 +1178,7 @@ c. penurunan penilaian faktor tata kelola dalam
 
 penilaian tingkat kesehatan Bank.
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
 Ketentuan lebih lanjut mengenai ketahanan dan keamanan
 
@@ -1201,7 +1190,7 @@ PENGGUNAAN PIHAK PENYEDIA JASA TI DALAM
 
 PENYELENGGARAAN TI BANK
 
-Pasal 29
+### Pasal 29 ^pasal-29
 
 (1) Bank dapat menggunakan pihak penyedia jasa TI
 
@@ -1223,8 +1212,7 @@ penggunaan pihak penyedia jasa TI sebagaimana
 
 dimaksud pada ayat (1) paling sedikit memuat:
 
-## t id
-
+**t id**
 
 -----
 
@@ -1246,7 +1234,7 @@ e. tata cara penilaian kinerja dan kepatuhan pihak
 
 penyedia jasa TI.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 
 (1) Bank dalam melakukan proses identifikasi kebutuhan
 
@@ -1298,8 +1286,7 @@ kerja sama dengan pihak penyedia jasa TI, dengan
 
 memperhatikan paling sedikit:
 
-## t id
-
+**t id**
 
 -----
 
@@ -1376,8 +1363,7 @@ b. penyediaan Rencana Pemulihan Bencana yang
 
 teruji dan memadai; dan
 
-## t id
-
+**t id**
 
 -----
 
@@ -1419,7 +1405,7 @@ perjanjian tingkat layanan antara Bank dan pihak
 
 penyedia jasa TI.
 
-Pasal 31
+### Pasal 31 ^pasal-31
 
 Dalam hal terdapat perubahan yang signifikan terhadap
 
@@ -1429,7 +1415,7 @@ melakukan penilaian ulang materialitas terhadap pihak
 
 penyedia jasa TI.
 
-Pasal 32
+### Pasal 32 ^pasal-32
 
 (1) Dalam hal terdapat kondisi berupa:
 
@@ -1451,8 +1437,7 @@ yang signifikan pada kegiatan usaha dan/atau
 
 operasional Bank;
 
-## t id
-
+**t id**
 
 -----
 
@@ -1529,8 +1514,7 @@ kesulitan pengawasan yang dilakukan oleh Otoritas
 
 Jasa Keuangan, Otoritas Jasa Keuangan dapat:
 
-## t id
-
+**t id**
 
 -----
 
@@ -1568,7 +1552,7 @@ penyedia jasa TI tidak menimbulkan gangguan
 
 pada kegiatan usaha dan/atau operasional Bank.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
@@ -1598,12 +1582,11 @@ c. penurunan penilaian faktor tata kelola dalam
 
 penilaian tingkat kesehatan Bank.
 
-## t id
-
+**t id**
 
 -----
 
-Pasal 34
+### Pasal 34 ^pasal-34
 
 Ketentuan lebih lanjut mengenai penggunaan pihak
 
@@ -1621,7 +1604,7 @@ Bagian Kesatu
 
 Penempatan Sistem Elektronik
 
-Pasal 35
+### Pasal 35 ^pasal-35
 
 (1) Bank wajib menempatkan Sistem Elektronik pada
 
@@ -1669,8 +1652,7 @@ penerapan anti pencucian uang dan pencegahan
 
 pendanaan terorisme secara terintegrasi dengan
 
-## t id
-
+**t id**
 
 -----
 
@@ -1712,7 +1694,7 @@ kriteria sebagaimana dimaksud pada ayat (3) untuk
 
 sementara waktu.
 
-Pasal 36
+### Pasal 36 ^pasal-36
 
 (1) Bank dapat mengajukan permohonan izin
 
@@ -1744,8 +1726,7 @@ ketentuan peraturan perundang-undangan di
 
 Indonesia yang dibuktikan dengan perjanjian
 
-## t id
-
+**t id**
 
 -----
 
@@ -1823,8 +1804,7 @@ Pemulihan Bencana di luar wilayah Indonesia
 
 sebagaimana dimaksud dalam
 
-## t id
-
+**t id**
 
 -----
 
@@ -1886,7 +1866,7 @@ dan/atau Pusat Pemulihan Bencana di wilayah
 
 Indonesia.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 
 Bank wajib memastikan Pusat Data dan Pusat Pemulihan
 
@@ -1894,12 +1874,11 @@ Bencana sebagaimana dimaksud dalam Pasal 35 menjamin
 
 kelangsungan usaha Bank.
 
-## t id
-
+**t id**
 
 -----
 
-Pasal 38
+### Pasal 38 ^pasal-38
 
 Ketentuan lebih lanjut mengenai penempatan Sistem
 
@@ -1911,7 +1890,7 @@ Bagian Kedua
 
 Pemrosesan Transaksi Berbasis TI
 
-Pasal 39
+### Pasal 39 ^pasal-39
 
 (1) Bank wajib menyelenggarakan pemrosesan transaksi
 
@@ -1969,8 +1948,7 @@ perkembangan perekonomian Indonesia.
 
 menolak permohonan izin pemrosesan transaksi
 
-## t id
-
+**t id**
 
 -----
 
@@ -1996,7 +1974,7 @@ Tata Cara Permohonan Izin dan Batas Waktu
 
 Pelaksanaan Setelah Memperoleh Izin
 
-Pasal 40
+### Pasal 40 ^pasal-40
 
 (1) Permohonan izin sebagaimana dimaksud dalam
 
@@ -2036,12 +2014,11 @@ Provinsi Daerah Khusus Ibukota Jakarta atau
 
 Provinsi Banten.
 
-## t id
-
+**t id**
 
 -----
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
 (1) Bank harus:
 
@@ -2075,7 +2052,7 @@ Jasa Keuangan, izin Otoritas Jasa Keuangan menjadi
 
 tidak berlaku.
 
-Pasal 42
+### Pasal 42 ^pasal-42
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
@@ -2105,8 +2082,7 @@ c. penurunan penilaian faktor tata kelola dalam
 
 penilaian tingkat kesehatan Bank.
 
-## t id
-
+**t id**
 
 -----
 
@@ -2120,7 +2096,7 @@ Bagian Kesatu
 
 Pengelolaan Data oleh Bank
 
-Pasal 43
+### Pasal 43 ^pasal-43
 
 (1) Bank wajib mengelola data secara efektif dalam
 
@@ -2148,7 +2124,7 @@ Bagian Kedua
 
 Pelindungan Data Pribadi oleh Bank
 
-Pasal 44
+### Pasal 44 ^pasal-44
 
 (1) Bank wajib melaksanakan prinsip pelindungan data
 
@@ -2164,7 +2140,7 @@ prinsip pelindungan data pribadi sebagaimana
 
 dimaksud pada ayat (1).
 
-Pasal 45
+### Pasal 45 ^pasal-45
 
 (1) Dalam menerapkan pelindungan data pribadi pada
 
@@ -2172,8 +2148,7 @@ kegiatan pertukaran data, Bank wajib menetapkan
 
 paling sedikit:
 
-## t id
-
+**t id**
 
 -----
 
@@ -2199,7 +2174,7 @@ dilaksanakan sesuai dengan ketentuan peraturan
 
 perundang-undangan.
 
-Pasal 46
+### Pasal 46 ^pasal-46
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
@@ -2227,7 +2202,7 @@ c. penurunan penilaian faktor tata kelola dalam
 
 penilaian tingkat kesehatan Bank.
 
-Pasal 47
+### Pasal 47 ^pasal-47
 
 Ketentuan lebih lanjut mengenai pelindungan data pribadi
 
@@ -2237,14 +2212,13 @@ BAB IX
 
 PENYEDIAAN JASA TI OLEH BANK
 
-Pasal 48
+### Pasal 48 ^pasal-48
 
 (1) Bank hanya dapat menyediakan jasa TI kepada
 
 lembaga jasa keuangan lain:
 
-## t id
-
+**t id**
 
 -----
 
@@ -2297,7 +2271,7 @@ b. penggunaan aplikasi ditujukan untuk
 
 mendukung kegiatan operasional yang umum.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 
 (1) Permohonan izin sebagaimana dimaksud dalam
 
@@ -2319,8 +2293,7 @@ a. Departemen Pengawasan Bank terkait atau
 
 Kantor Regional Otoritas Jasa Keuangan di
 
-## t id
-
+**t id**
 
 -----
 
@@ -2340,7 +2313,7 @@ Provinsi Daerah Khusus Ibukota Jakarta atau
 
 Provinsi Banten.
 
-Pasal 50
+### Pasal 50 ^pasal-50
 
 (1) Bank harus melaksanakan rencana penyediaan jasa TI
 
@@ -2360,7 +2333,7 @@ diperoleh dari Otoritas Jasa Keuangan, izin Otoritas
 
 Jasa Keuangan menjadi tidak berlaku.
 
-Pasal 51
+### Pasal 51 ^pasal-51
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
@@ -2386,14 +2359,13 @@ c. penurunan penilaian faktor tata kelola dalam
 
 penilaian tingkat kesehatan Bank.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 
 Ketentuan lebih lanjut mengenai penyediaan jasa TI oleh
 
 Bank ditetapkan oleh Otoritas Jasa Keuangan.
 
-## t id
-
+**t id**
 
 -----
 
@@ -2407,7 +2379,7 @@ Bagian Kesatu
 
 Pengendalian Intern Bank dalam Penyelenggaraan TI
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
 (1) Bank wajib melaksanakan sistem pengendalian intern
 
@@ -2463,8 +2435,7 @@ c. perbaikan terhadap penyimpangan yang
 
 diidentifikasi.
 
-## t id
-
+**t id**
 
 -----
 
@@ -2472,7 +2443,7 @@ Bagian Kedua
 
 Audit Intern dalam Penyelenggaraan TI
 
-Pasal 54
+### Pasal 54 ^pasal-54
 
 (1) Bank melaksanakan fungsi audit intern TI yang efektif
 
@@ -2516,7 +2487,7 @@ hasil analisis risiko atas penyelenggaraan TI, paling
 
 sedikit 1 (satu) kali dalam 1 (satu) tahun.
 
-Pasal 55
+### Pasal 55 ^pasal-55
 
 (1) Bank wajib memiliki pedoman audit intern atas
 
@@ -2534,8 +2505,7 @@ menggunakan jasa pihak ekstern yang independen.
 
 Keuangan:
 
-## t id
-
+**t id**
 
 -----
 
@@ -2555,7 +2525,7 @@ mengenai penerapan fungsi audit intern bagi bank
 
 umum.
 
-Pasal 56
+### Pasal 56 ^pasal-56
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
@@ -2583,7 +2553,7 @@ c. penurunan penilaian faktor tata kelola dalam
 
 penilaian tingkat kesehatan Bank.
 
-Pasal 57
+### Pasal 57 ^pasal-57
 
 Ketentuan lebih lanjut mengenai pengendalian dan audit
 
@@ -2591,8 +2561,7 @@ intern dalam penyelenggaraan TI Bank ditetapkan oleh
 
 Otoritas Jasa Keuangan.
 
-## t id
-
+**t id**
 
 -----
 
@@ -2604,7 +2573,7 @@ Bagian Kesatu
 
 Laporan Penyelenggaraan TI
 
-Pasal 58
+### Pasal 58 ^pasal-58
 
 (1) Bank wajib melaporkan rencana pengembangan TI
 
@@ -2642,7 +2611,7 @@ pengembangan TI sebagaimana dimaksud pada
 
 ayat (2).
 
-Pasal 59
+### Pasal 59 ^pasal-59
 
 Bank wajib melaporkan kondisi terkini penyelenggaraan TI
 
@@ -2654,14 +2623,13 @@ Bagian Kedua
 
 Laporan Insidentil
 
-Pasal 60
+### Pasal 60 ^pasal-60
 
 (1) Dalam hal terjadi insiden TI yang berpotensi dan/atau
 
 telah mengakibatkan kerugian yang signifikan
 
-## t id
-
+**t id**
 
 -----
 
@@ -2735,8 +2703,7 @@ sebagaimana dimaksud pada ayat (1) huruf a
 
 dan/atau huruf b.
 
-## t id
-
+**t id**
 
 -----
 
@@ -2744,7 +2711,7 @@ Bagian Ketiga
 
 Laporan Realisasi Penyelenggaraan TI Bank
 
-Pasal 61
+### Pasal 61 ^pasal-61
 
 (1) Bank wajib menyampaikan laporan realisasi:
 
@@ -2770,7 +2737,7 @@ Bagian Keempat
 
 Tata Cara Penyampaian Laporan
 
-Pasal 62
+### Pasal 62 ^pasal-62
 
 (1) Bank menyampaikan laporan:
 
@@ -2808,8 +2775,7 @@ ayat (1) dikenai sanksi administratif.
 
 sebagaimana dimaksud pada ayat (1) dan pengenaan
 
-## t id
-
+**t id**
 
 -----
 
@@ -2821,7 +2787,7 @@ Otoritas Jasa Keuangan mengenai pelaporan bank
 
 melalui sistem pelaporan Otoritas Jasa Keuangan.
 
-Pasal 63
+### Pasal 63 ^pasal-63
 
 (1) Bank yang terlambat menyampaikan notifikasi awal
 
@@ -2849,7 +2815,7 @@ c. penurunan penilaian faktor tata kelola dalam
 
 penilaian tingkat kesehatan Bank.
 
-Pasal 64
+### Pasal 64 ^pasal-64
 
 Bank yang menyampaikan laporan secara tidak lengkap
 
@@ -2861,7 +2827,7 @@ pelaporan bank melalui sistem pelaporan Otoritas Jasa
 
 Keuangan.
 
-Pasal 65
+### Pasal 65 ^pasal-65
 
 Ketentuan lebih lanjut mengenai format pelaporan dan tata
 
@@ -2869,8 +2835,7 @@ cara penyampaian laporan ditetapkan oleh Otoritas Jasa
 
 Keuangan.
 
-## t id
-
+**t id**
 
 -----
 
@@ -2878,7 +2843,7 @@ BAB XII
 
 PENILAIAN TINGKAT MATURITAS DIGITAL BANK
 
-Pasal 66
+### Pasal 66 ^pasal-66
 
 (1) Bank wajib melakukan penilaian sendiri atas tingkat
 
@@ -2934,7 +2899,7 @@ BAB XIII
 
 KETENTUAN PERALIHAN
 
-Pasal 67
+### Pasal 67 ^pasal-67
 
 Bank yang telah memiliki kebijakan, standar, dan prosedur
 
@@ -2942,8 +2907,7 @@ dalam penyelenggaraan TI serta pedoman manajemen
 
 risiko penyelenggaraan TI harus menyesuaikan dengan
 
-## t id
-
+**t id**
 
 -----
 
@@ -2953,7 +2917,7 @@ paling lama 6 (enam) bulan sejak berlakunya Peraturan
 
 Otoritas Jasa Keuangan ini.
 
-Pasal 68
+### Pasal 68 ^pasal-68
 
 Bank yang telah menggunakan pihak penyedia jasa TI
 
@@ -2965,7 +2929,7 @@ dengan ketentuan dalam Peraturan Otoritas Jasa
 
 Keuangan ini.
 
-Pasal 69
+### Pasal 69 ^pasal-69
 
 Bank harus menyesuaikan rencana strategis TI sesuai
 
@@ -2977,7 +2941,7 @@ BAB XIV
 
 KETENTUAN PENUTUP
 
-Pasal 70
+### Pasal 70 ^pasal-70
 
 Bank melaksanakan ketentuan terkait:
 
@@ -3003,7 +2967,7 @@ untuk pertama kali setelah ditetapkan oleh Otoritas Jasa
 
 Keuangan.
 
-Pasal 71
+### Pasal 71 ^pasal-71
 
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 
@@ -3011,8 +2975,7 @@ berlaku, ketentuan pelaksanaan dari Peraturan Otoritas
 
 Jasa Keuangan Nomor 38/POJK.03/2016 tentang
 
-## t id
-
+**t id**
 
 -----
 
@@ -3044,7 +3007,7 @@ tidak bertentangan dengan ketentuan dalam Peraturan
 
 Otoritas Jasa Keuangan ini.
 
-Pasal 72
+### Pasal 72 ^pasal-72
 
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 
@@ -3076,14 +3039,13 @@ Nomor 88, Tambahan Lembaran Negara Republik Indonesia
 
 Nomor 6486), dicabut dan dinyatakan tidak berlaku.
 
-Pasal 73
+### Pasal 73 ^pasal-73
 
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku
 
 setelah 3 (tiga) bulan terhitung sejak tanggal diundangkan.
 
-## t id
-
+**t id**
 
 -----
 
@@ -3121,19 +3083,20 @@ ttd
 
 YASONNA H. LAOLY
 
-## t id
-
+**t id**
 
 -----
 
-# TAMBAHAN LEMBARAN NEGARA R.I
+**TAMBAHAN LEMBARAN NEGARA R.I**
 
 No.5/OJK KEUANGAN OJK. TI. Bank Umum.
 Penyelenggaraan. Pencabutan. (Penjelasan atas
 Lembaran Negara Republik Indonesia Tahun 2022
 Nomor 5/OJK)
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 
@@ -3148,8 +3111,6 @@ TENTANG
 PENYELENGGARAAN TEKNOLOGI INFORMASI
 
 OLEH BANK UMUM
-
-I. UMUM
 
 Pemanfaatan TI bagi Bank merupakan suatu keniscayaan untuk
 
@@ -3189,8 +3150,7 @@ penyediaan layanan kepada masyarakat juga semakin meningkat.
 
 Peningkatan pemanfaatan TI tersebut tentunya dapat menyebabkan
 
-## t id
-
+**t id**
 
 -----
 
@@ -3258,19 +3218,16 @@ timbul, perlu dilakukan penyusunan pengaturan tentang penyelenggaraan
 
 teknologi informasi oleh bank umum.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Penerapan tata kelola TI merupakan bagian dari penerapan tata
@@ -3341,7 +3298,7 @@ Ayat (3)
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
@@ -3349,9 +3306,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Huruf a
@@ -3416,7 +3371,7 @@ Bank menetapkan jangka waktu kaji ulang dan penginian
 
 kebijakan, standar, dan prosedur sesuai dengan kebutuhan
 
-## t id
+**t id**
 
 
 -----
@@ -3424,13 +3379,9 @@ kebijakan, standar, dan prosedur sesuai dengan kebutuhan
 Bank dengan mempertimbangkan kondisi internal maupun
 
 eksternal Bank.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Huruf a
 
 Rencana strategis TI merupakan dokumen yang antara lain
@@ -3491,7 +3442,7 @@ bisnis Bank, dan kelangsungan pelayanan terhadap
 
 nasabah Bank.
 
-## t id
+**t id**
 
 
 -----
@@ -3523,13 +3474,9 @@ Angka 5
 Contoh keterlibatan pemangku kepentingan dapat berupa
 
 survei atas penggunaan TI dari satuan kerja pengguna TI.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Cukup jelas.
@@ -3564,7 +3511,7 @@ Huruf f
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
@@ -3588,21 +3535,13 @@ bentuk badan hukum Bank.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Yang dimaksud dengan “arsitektur TI” adalah dokumentasi
@@ -3633,7 +3572,7 @@ Huruf d
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
@@ -3673,9 +3612,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Cukup jelas.
@@ -3691,9 +3628,7 @@ Otoritas Jasa Keuangan mengenai bank umum syariah.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Contoh:
@@ -3704,7 +3639,7 @@ tahun 2027 disampaikan kepada OJK paling lambat akhir bulan
 
 November 2022.
 
-## t id
+**t id**
 
 
 -----
@@ -3722,13 +3657,9 @@ penyelenggaraan teknologi informasi oleh bank.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Ayat (1)
 
 Cakupan penerapan manajemen risiko secara efektif
@@ -3777,7 +3708,7 @@ Ayat (4)
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
@@ -3785,9 +3716,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 
 Pengamanan informasi ditujukan untuk menjaga kerahasiaan,
@@ -3815,13 +3744,9 @@ risiko atas informasi tersebut.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Ayat (1)
 
 Cukup jelas.
@@ -3848,7 +3773,7 @@ bersifat permanen sehingga memerlukan relokasi atau
 
 penggantian dengan biaya yang besar.
 
-## t id
+**t id**
 
 
 -----
@@ -3866,21 +3791,15 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Yang dimaksud dengan “sistem yang dapat menghasilkan laporan
 
 terpisah” adalah sistem yang dapat mengidentifikasi input, proses,
 
 dan output dari transaksi berdasarkan prinsip syariah.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Ayat (1)
 
 Cukup jelas.
@@ -3898,9 +3817,7 @@ memadai" adalah sistem informasi yang dapat mendukung
 keseluruhan proses dalam menjaga ketahanan siber, sesuai
 
 dengan ukuran dan kompleksitas bisnis Bank.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1)
 
 Dalam melakukan penilaian sendiri atas tingkat maturitas
@@ -3919,7 +3836,7 @@ Ayat (3)
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
@@ -3927,13 +3844,9 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Ayat (1)
 
 Contoh pengujian keamanan siber berdasarkan analisis
@@ -3953,9 +3866,7 @@ dilaksanakan secara berkala sesuai kebutuhan Bank.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 
 Contoh pengujian keamanan siber berdasarkan skenario antara
@@ -3986,13 +3897,11 @@ Huruf c
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Unit atau fungsi yang bertugas menangani ketahanan dan
@@ -4006,17 +3915,11 @@ kepada Direksi.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Ayat (1)
 
 Yang dimaksud dengan “menggunakan pihak penyedia jasa TI”
@@ -4057,7 +3960,7 @@ _computing) sebagai Pusat Data dan/atau Pusat Pemulihan_
 
 Bencana Bank.
 
-## t id
+**t id**
 
 
 -----
@@ -4079,9 +3982,7 @@ jasa TI.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Cukup jelas.
@@ -4134,7 +4035,7 @@ Data dan/atau informasi Bank serta nasabah Bank
 
 merupakan aset yang harus dijamin keamanannya oleh
 
-## t id
+**t id**
 
 
 -----
@@ -4213,7 +4114,7 @@ Tanggung jawab Bank atas penerapan manajemen risiko
 
 antara lain dilakukan dengan memastikan bahwa pihak
 
-## t id
+**t id**
 
 
 -----
@@ -4290,7 +4191,7 @@ penyedia jasa TI memperhatikan antara lain pengamanan
 
 fisik dan pengamanan logic.
 
-## t id
+**t id**
 
 
 -----
@@ -4312,9 +4213,7 @@ operasional Bank.
 Perjanjian tingkat layanan dikenal dengan istilah _service_
 
 _level agreement._
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Contoh perubahan yang signifikan antara lain perubahan
 
 kepemilikan atau kondisi keuangan pihak penyedia jasa TI, yang
@@ -4326,9 +4225,7 @@ yang melekat pada penyediaan jasa TI.
 Penilaian ulang materialitas dikenal dengan istilah _materiality_
 
 _reassesment._
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Ayat (1)
 
 Huruf a
@@ -4365,7 +4262,7 @@ Ayat (2)
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
@@ -4411,17 +4308,11 @@ Termasuk dalam kegiatan usaha Bank yaitu layanan
 kepada nasabah dengan memperhatikan aspek
 
 kerahasiaan, integritas, dan ketersediaan data.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Ayat (1)
 
 Cukup jelas.
@@ -4438,7 +4329,7 @@ Ketentuan yang diterbitkan oleh otoritas negara asal Bank
 
 untuk kantor cabang yaitu sesuai dengan kedudukan
 
-## t id
+**t id**
 
 
 -----
@@ -4517,7 +4408,7 @@ antara lain:
 
 2. sistem remunerasi; dan/atau
 
-## t id
+**t id**
 
 
 -----
@@ -4545,9 +4436,7 @@ Indonesia, Bank melakukan evaluasi untuk menentukan
 ketersediaan dan keandalan pihak penyedia Sistem Elektronik di
 
 wilayah Indonesia.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Ayat (1)
 
 Huruf a
@@ -4588,7 +4477,7 @@ Huruf e
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
@@ -4652,9 +4541,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Yang dimaksud dengan “menjamin kelangsungan usaha” adalah
 
 memastikan bahwa kelangsungan usaha tetap dapat berjalan
@@ -4665,7 +4552,7 @@ termasuk menjamin kesiapan Sistem Elektronik yang terdapat pada
 
 Pusat Data dan Pusat Pemulihan Bencana.
 
-## t id
+**t id**
 
 
 -----
@@ -4685,13 +4572,9 @@ Pusat Pemulihan Bencana termasuk Pusat Data yang beroperasi
 secara bersamaan dengan Pusat Data lainnya sehingga dapat saling
 
 menggantikan.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Ayat (1)
 
 Yang dimaksud dengan "pemrosesan transaksi berbasis TI"
@@ -4738,7 +4621,7 @@ perjanjian dengan memperhatikan antara lain Peraturan
 
 Otoritas Jasa Keuangan mengenai perlindungan konsumen
 
-## t id
+**t id**
 
 
 -----
@@ -4802,26 +4685,18 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
+Cukup jelas.
+#### Pasal 41 ^penjelasan-pasal-41
 Cukup jelas.
 
-Pasal 41
-
-Cukup jelas.
-
-## t id
+**t id**
 
 
 -----
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Cukup jelas.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Ayat (1)
 
 Bentuk pemrosesan data antara lain perolehan, pendistribusian,
@@ -4888,7 +4763,7 @@ berupa:
 
 pengelolaan data; dan
 
-## t id
+**t id**
 
 
 -----
@@ -4900,9 +4775,7 @@ melakukan pengelolaan data.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Ayat (1)
 
 Data pribadi dan prinsip pelindungan data pribadi sesuai
@@ -4930,9 +4803,7 @@ dengan suku, agama, ras, dan antargolongan.
 Yang dimaksud dengan "pemilik data pribadi" adalah nasabah
 
 dan/atau calon nasabah Bank.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Ayat (1)
 
 Huruf a
@@ -4961,7 +4832,7 @@ Penetapan perjanjian pertukaran data pribadi dilakukan
 
 termasuk untuk kondisi darurat.
 
-## t id
+**t id**
 
 
 -----
@@ -4977,17 +4848,11 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Cukup jelas.
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Ayat (1)
 
 Penyediaan jasa TI oleh Bank yaitu pemberian jasa berupa
@@ -5032,7 +4897,7 @@ Huruf d
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
@@ -5070,25 +4935,15 @@ Contoh aplikasi yang ditujukan untuk mendukung kegiatan
 operasional yang umum antara lain sistem remunerasi dan
 
 sistem kepegawaian.
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Cukup jelas.
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Cukup jelas.
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Cukup jelas.
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Cukup jelas.
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Ayat (1)
 
 Prinsip umum pelaksanaan sistem pengendalian intern TI
@@ -5099,7 +4954,7 @@ a. Peraturan Otoritas Jasa Keuangan mengenai penerapan
 
 manajemen risiko bagi bank umum;
 
-## t id
+**t id**
 
 
 -----
@@ -5159,9 +5014,7 @@ kesalahan atau penyimpangan.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Ayat (1)
 
 Cukup jelas.
@@ -5176,7 +5029,7 @@ Penggunaan jasa pihak ekstern untuk melaksanakan fungsi
 
 audit intern TI tidak mengurangi tanggung jawab pimpinan
 
-## t id
+**t id**
 
 
 -----
@@ -5198,9 +5051,7 @@ pihak ekstern.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Ayat (1)
 
 Penyelenggaraan TI termasuk untuk Bank yang menggunakan
@@ -5222,17 +5073,11 @@ Huruf b
 Yang dimaksud dengan “hasil audit intern TI” adalah
 
 laporan hasil audit intern TI secara lengkap.
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56
 Cukup jelas.
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
 Ayat (1)
 
 Rencana pengembangan TI merupakan dokumen yang
@@ -5247,7 +5092,7 @@ Ayat (2)
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
@@ -5265,15 +5110,11 @@ perkembangan perekonomian.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59
 Laporan ini berisi kondisi penyelenggaraan TI Bank termasuk
 
 perubahan yang telah dilakukan selama 1 (satu) tahun pelaporan.
-
-Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60
 Ayat (1)
 
 Insiden TI yaitu kejadian kritis, penyalahgunaan, dan/atau
@@ -5320,7 +5161,7 @@ Ayat (3)
 
 Cukup jelas.
 
-## t id
+**t id**
 
 
 -----
@@ -5332,9 +5173,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61
 Ayat (1)
 
 Laporan realisasi mencakup kajian pascaimplementasi (post
@@ -5344,25 +5183,15 @@ _implementation review)._
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Cukup jelas.
-
-Pasal 64
-
+#### Pasal 64 ^penjelasan-pasal-64
 Cukup jelas.
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
-
-Pasal 66
-
+#### Pasal 66 ^penjelasan-pasal-66
 Ayat (1)
 
 Tingkat maturitas digital Bank mencerminkan pemenuhan
@@ -5385,7 +5214,7 @@ strategi bisnis Bank.
 
 Contoh perubahan kondisi ekstern yaitu perkembangan TI.
 
-## t id
+**t id**
 
 
 -----
@@ -5409,38 +5238,101 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 67
-
+#### Pasal 67 ^penjelasan-pasal-67
 Cukup jelas.
-
-Pasal 68
-
+#### Pasal 68 ^penjelasan-pasal-68
 Cukup jelas.
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69
 Cukup jelas.
-
-Pasal 70
-
+#### Pasal 70 ^penjelasan-pasal-70
 Cukup jelas.
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71
 Cukup jelas.
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Cukup jelas.
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73
 Cukup jelas.
 
 
-## t id
+**t id**
 
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |

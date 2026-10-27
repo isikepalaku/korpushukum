@@ -23,17 +23,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah
+**Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/301695/peraturan-ojk-no-7-tahun-2024
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/301695/peraturan-ojk-no-7-tahun-2024)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -80,7 +85,6 @@ tentang Pengembangan dan Penguatan Sektor Keuangan
 Tambahan Lembaran Negara Republik Indonesia Nomor
 6845);
 
-
 -----
 
 3. Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas
@@ -100,7 +104,7 @@ RAKYAT SYARIAH.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
 dengan:
 1. Otoritas Jasa Keuangan yang selanjutnya disingkat OJK
@@ -137,7 +141,6 @@ sesuai dengan ketentuan peraturan perundangundangan.
 8. Kantor Wilayah adalah kantor BPR atau BPR Syariah yang
 membantu Kantor Pusat sehubungan dengan
 pelaksanaan kegiatan BPR atau BPR Syariah, serta
-
 
 -----
 
@@ -197,7 +200,6 @@ dipisahkan pada perusahaan umum daerah bagi BPR
 berbentuk badan hukum perusahaan umum daerah, rapat
 anggota bagi BPR atau BPR Syariah berbentuk badan
 
-
 -----
 
 hukum koperasi, atau rapat pemegang saham bagi BPR
@@ -246,7 +248,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) BPR atau BPR Syariah didirikan berdasarkan:
 a. permohonan oleh calon PSP;
 b. perubahan izin usaha BUK menjadi BPR atau BPR
@@ -256,14 +258,13 @@ d. perubahan izin usaha BPR menjadi BPR Syariah; atau
 e. perubahan izin usaha LKM menjadi BPR atau BPR
 Syariah.
 
-
 -----
 
 (2) BPR atau BPR Syariah sebagaimana dimaksud pada ayat
 (1) melakukan kegiatan usaha setelah memperoleh izin
 usaha dari OJK.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) BPR dan BPR Syariah didirikan oleh:
 a. warga negara Indonesia; dan/atau
 b. badan hukum Indonesia.
@@ -277,12 +278,12 @@ utama lembaga jasa keuangan.
 menetapkan jangka waktu operasional badan hukum yang
 berbeda sebagaimana dimaksud pada ayat (2).
 
-Pasal 4
+### Pasal 4 ^pasal-4
 BPR dan BPR Syariah berbentuk badan hukum:
 a. perseroan terbatas; atau
 b. koperasi.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 BPR atau BPR Syariah harus memiliki anggaran dasar yang
 memenuhi persyaratan anggaran dasar sesuai dengan
 ketentuan peraturan perundang-undangan dan memuat
@@ -294,7 +295,7 @@ Komisaris; dan
 c. pengangkatan anggota DPS, bagi BPR Syariah,
 berlaku setelah memperoleh persetujuan dari OJK.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Modal disetor pendirian BPR sebagaimana dimaksud
 dalam Pasal 2 ayat (1) huruf a paling sedikit:
 a. Rp100.000.000.000,00 (seratus miliar rupiah), bagi
@@ -316,7 +317,6 @@ menetapkan jumlah modal disetor pendirian BPR atau
 BPR Syariah yang lebih tinggi daripada jumlah modal
 disetor sebagaimana dimaksud pada ayat (1) dan ayat (2).
 
-
 -----
 
 (4) Modal disetor pendirian sebagaimana dimaksud pada ayat
@@ -331,7 +331,7 @@ Syariah berdasarkan zona tercantum dalam Lampiran
 Bagian A yang merupakan bagian tidak terpisahkan dari
 Peraturan OJK ini.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Modal disetor sebagaimana dimaksud dalam Pasal 6 ayat
 (1), ayat (2), dan ayat (3) harus ditempatkan dalam bentuk
 deposito pada:
@@ -353,7 +353,7 @@ Syariah.
 Bagian Kedua
 Perizinan Pendirian BPR atau BPR Syariah oleh Calon PSP
 
-Pasal 8
+### Pasal 8 ^pasal-8
 Pendirian BPR atau BPR Syariah sebagaimana dimaksud dalam
 Pasal 2 ayat (1) huruf a dilakukan dalam 2 (dua) tahap:
 a. persetujuan prinsip; dan
@@ -362,7 +362,7 @@ b. izin usaha.
 Paragraf 1
 Persetujuan Prinsip
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Permohonan untuk memperoleh persetujuan prinsip
 sebagaimana dimaksud dalam Pasal 8 huruf a diajukan
 paling sedikit oleh 1 (satu) calon PSP kepada OJK disertai
@@ -374,7 +374,6 @@ terpisahkan dari Peraturan OJK ini.
 permohonan sebagaimana dimaksud pada ayat (1) paling
 lama 30 (tiga puluh) hari kerja setelah dokumen diterima
 secara lengkap.
-
 
 -----
 
@@ -394,7 +393,7 @@ pihak utama dan wawancara bagi calon anggota
 DPS; dan
 3. sumber dana setoran modal.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Persetujuan prinsip sebagaimana dimaksud dalam Pasal 9
 ayat (2) berlaku untuk jangka waktu 1 (satu) tahun
 terhitung sejak tanggal persetujuan prinsip diberikan dan
@@ -411,7 +410,7 @@ dan tidak berlaku.
 Paragraf 2
 Izin Usaha
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Permohonan untuk memperoleh izin usaha sebagaimana
 dimaksud dalam Pasal 8 huruf b diajukan kepada OJK
 disertai dengan dokumen persyaratan pengajuan
@@ -433,7 +432,6 @@ sebagaimana dimaksud pada ayat (2), OJK melakukan
 penelitian atas:
 a. kelengkapan dokumen; dan
 
-
 -----
 
 b. pemenuhan persyaratan, meliputi:
@@ -442,7 +440,7 @@ pihak utama dan wawancara bagi calon anggota
 DPS, jika terdapat perubahan; dan
 2. analisis kesiapan operasional.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) BPR atau BPR Syariah yang telah memperoleh izin usaha
 dari OJK harus melaksanakan kegiatan usaha paling lama
 60 (enam puluh) hari kerja terhitung setelah tanggal izin
@@ -469,7 +467,7 @@ disertai dengan perintah tertulis agar PSP, anggota
 Direksi, dan/atau Dewan Komisaris menyelesaikan
 seluruh kewajiban BPR atau BPR Syariah.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) BPR yang telah memperoleh izin usaha dari OJK dapat
 mencantumkan kata “Bank” di depan nama BPR dan wajib
 diikuti dengan bentuk badan hukum dan frasa “Bank
@@ -490,10 +488,9 @@ Perubahan Izin Usaha BUK atau BUS
 
 Menjadi BPR atau BPR Syariah
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Pendirian BPR yang berasal dari perubahan izin usaha
 BUK sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf
-
 
 -----
 
@@ -525,7 +522,7 @@ Paragraf 1
 Perubahan Izin Usaha
 Berdasarkan Inisiatif BUK atau BUS
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) Permohonan untuk memperoleh perubahan izin usaha
 sebagai BPR atau BPR Syariah sebagaimana dimaksud
 dalam Pasal 14 ayat (1) huruf a dan Pasal 14 ayat (2)
@@ -554,7 +551,6 @@ rencana tindak;
 anggota Direksi dan/atau calon anggota Dewan
 Komisaris; dan
 
-
 -----
 
 3. wawancara bagi calon anggota DPS, jika terdapat
@@ -565,7 +561,7 @@ penelitian sebagaimana dimaksud pada ayat (4), OJK
 mencabut izin usaha BUK atau BUS dan memberikan izin
 usaha sebagai BPR atau BPR Syariah.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) BPR atau BPR Syariah hasil perubahan izin usaha dari
 BUK atau BUS wajib merealisasikan rencana tindak paling
 lama 1 (satu) tahun terhitung sejak tanggal izin usaha BPR
@@ -589,7 +585,7 @@ realisasi pelaksanaan rencana tindak sebagaimana
 dimaksud pada ayat (1) secara luring setiap bulan paling
 lama 10 (sepuluh) hari kerja bulan berikutnya.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) BPR atau BPR Syariah hasil perubahan izin usaha dari
 BUK atau BUS wajib menyelenggarakan RUPS untuk
 mengubah anggaran dasar terkait penyesuaian bentuk
@@ -612,10 +608,9 @@ sejak tanggal persetujuan instansi yang berwenang atau
 tanggal yang ditetapkan dalam persetujuan instansi yang
 berwenang.
 
-
 -----
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) BPR atau BPR Syariah hasil perubahan izin usaha dari
 BUK atau BUS wajib mengumumkan kepada seluruh
 nasabah dan masyarakat mengenai perubahan izin usaha
@@ -636,7 +631,7 @@ BUK atau BUS wajib menyampaikan bukti pengumuman
 sebagaimana dimaksud pada ayat (1) kepada OJK paling
 lama 10 (sepuluh) hari kerja setelah tanggal pengumuman.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) BPR atau BPR Syariah hasil perubahan izin usaha dari
 BUK atau BUS wajib menghentikan kegiatan usaha
 sebagai BUK atau BUS sebagaimana dimaksud dalam
@@ -660,7 +655,7 @@ atau BPR Syariah hasil perubahan izin usaha dari BUK
 atau BUS wajib menyelesaikan dan/atau mengalihkan
 hak dan kewajiban BUK atau BUS.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 BPR atau BPR Syariah hasil perubahan izin usaha dari BUK
 atau BUS wajib menyesuaikan jenis dan wilayah jaringan
 kantor sebagaimana dimaksud dalam Pasal 16 ayat (1) huruf c,
@@ -671,13 +666,12 @@ diperkenankan bagi BPR atau BPR Syariah; dan
 b. penghentian kegiatan usaha sebagaimana dimaksud
 dalam Pasal 19 ayat (1) pada jaringan kantor BPR atau
 
-
 -----
 
 BPR Syariah hasil perubahan izin usaha dari BUK atau
 BUS.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 Pelaksanaan penghentian kegiatan usaha sebagaimana
 dimaksud dalam Pasal 19 dan penyesuaian jenis dan wilayah
 jaringan kantor BUK atau BUS menjadi BPR atau BPR Syariah
@@ -687,7 +681,7 @@ jaringan kantor BUK atau BUS menjadi BPR atau BPR syariah
 tercantum dalam Lampiran Bagian E yang merupakan bagian
 tidak terpisahkan dari Peraturan OJK ini.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) BPR atau BPR Syariah hasil perubahan izin usaha dari
 BUK atau BUS wajib menyampaikan laporan seluruh
 realisasi rencana tindak sebagaimana dimaksud dalam
@@ -705,7 +699,7 @@ Perubahan Izin Usaha BUK atau BUS
 
 Berdasarkan Keputusan OJK
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Perubahan izin usaha sebagaimana dimaksud dalam Pasal
 14 ayat (1) huruf b ditetapkan dalam keputusan OJK yang
 disampaikan kepada BUK atau BUS.
@@ -715,7 +709,7 @@ administratif dan penetapan kewajiban untuk
 menyesuaikan bentuk dan kegiatan usaha menjadi BPR
 atau BPR Syariah.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 BUK atau BUS yang ditetapkan menjadi BPR atau BPR Syariah
 sebagaimana dimaksud dalam Pasal 23 ayat (1) wajib
 menyampaikan rencana tindak penyesuaian seluruh bentuk
@@ -724,19 +718,18 @@ OJK paling lama 10 (sepuluh) hari kerja setelah diterbitkannya
 keputusan OJK mengenai pencabutan izin usaha BUK atau
 BUS dan pemberian izin usaha sebagai BPR atau BPR Syariah.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 Ketentuan sebagaimana dimaksud dalam Pasal 16 sampai
 dengan Pasal 22 berlaku secara mutatis mutandis terhadap
 BUK atau BUS yang ditetapkan menjadi BPR atau BPR Syariah
 berdasarkan keputusan OJK.
-
 
 -----
 
 Bagian Keempat
 Sanksi Administratif
 
-Pasal 26
+### Pasal 26 ^pasal-26
 (1) BPR atau BPR Syariah yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 6 ayat (4), Pasal 10
 ayat (2), Pasal 13, Pasal 16 ayat (1), Pasal 17 ayat (1), Pasal
@@ -779,7 +772,7 @@ penyampaian laporan atau bukti pengumuman bagi BPR
 atau BPR Syariah yang belum menyampaikan laporan
 atau bukti pengumuman.
 
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) BUK atau BUS yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 14 ayat (4) dan/atau Pasal 24
 dikenai sanksi administratif berupa teguran tertulis.
@@ -789,7 +782,6 @@ tetap melanggar ketentuan sebagaimana dimaksud dalam
 Pasal 14 ayat (4) dan/atau Pasal 24, BUK atau BUS dapat
 dikenai sanksi administratif berupa:
 a. penurunan tingkat kesehatan;
-
 
 -----
 
@@ -817,12 +809,12 @@ Bagian Kesatu
 
 Umum
 
-Pasal 28
+### Pasal 28 ^pasal-28
 Setiap BPR atau BPR Syariah wajib memiliki paling sedikit 1
 (satu) PSP dengan persentase kepemilikan saham paling sedikit
 25% (dua puluh lima persen).
 
-Pasal 29
+### Pasal 29 ^pasal-29
 Pemilik BPR atau BPR Syariah yang berbentuk badan hukum
 Indonesia harus memenuhi persyaratan:
 a. dinyatakan sebagai badan hukum berdasarkan ketentuan
@@ -833,7 +825,7 @@ maksud dan tujuan pendirian badan hukum sesuai
 dengan ketentuan peraturan perundang-undangan
 mengenai badan hukum.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 (1) Kepemilikan BPR atau BPR Syariah oleh badan hukum
 paling tinggi sebesar modal sendiri bersih badan hukum
 yang bersangkutan dan tidak melebihi jumlah yang
@@ -850,10 +842,9 @@ Syariah.
 menyampaikan laporan keuangan tahunan yang disusun
 oleh badan hukum pemilik.
 
-
 -----
 
-Pasal 31
+### Pasal 31 ^pasal-31
 Sumber dana yang digunakan untuk kepemilikan BPR atau
 BPR Syariah dilarang berasal:
 a. dari pinjaman atau fasilitas pembiayaan dalam bentuk
@@ -862,11 +853,11 @@ b. dari dan untuk tujuan pencucian uang, pendanaan
 terorisme, dan/atau proliferasi senjata pemusnah
 massal.
 
-Pasal 32
+### Pasal 32 ^pasal-32
 Pemilik BPR atau BPR Syariah dilarang menarik kembali modal
 yang telah disetor.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 (1) Pemilik BPR atau BPR Syariah harus memenuhi
 persyaratan minimal:
 a. memiliki akhlak dan moral yang baik; dan
@@ -898,7 +889,7 @@ berlaku bagi pemilik, anggota direksi atau yang setara, dan
 anggota dewan komisaris atau yang setara dari badan
 hukum.
 
-Pasal 34
+### Pasal 34 ^pasal-34
 (1) Dalam hal terdapat perubahan pemilik, anggota direksi,
 anggota dewan komisaris, atau pengurus dari PSP
 berbentuk badan hukum, BPR atau BPR Syariah wajib
@@ -908,7 +899,6 @@ terjadinya perubahan.
 (2) Dalam hal sistem pelaporan OJK secara daring belum
 tersedia, BPR atau BPR Syariah wajib menyampaikan
 laporan perubahan sebagaimana dimaksud pada ayat (1)
-
 
 -----
 
@@ -921,7 +911,7 @@ dan
 b. akta perubahan anggaran dasar dari PSP berbentuk
 badan hukum.
 
-Pasal 35
+### Pasal 35 ^pasal-35
 (1) BPR atau BPR Syariah dapat melakukan penawaran
 umum efek melalui pasar modal.
 (2) Penawaran umum efek melalui pasar modal sebagaimana
@@ -946,7 +936,7 @@ e. tingkat kesehatan paling rendah peringkat komposit
 umum selain berlaku ketentuan peraturan perundangundangan di bidang perbankan berlaku juga ketentuan
 peraturan perundang-undangan di bidang pasar modal.
 
-Pasal 36
+### Pasal 36 ^pasal-36
 BPR atau BPR Syariah wajib mengadministrasikan dokumen
 terkait kepemilikan yang tercatat dalam anggaran dasar
 termasuk daftar pemegang saham atau buku daftar anggota
@@ -958,7 +948,7 @@ Penambahan Modal Disetor dan/atau Perubahan Kepemilikan
 
 Saham yang Mengakibatkan Perubahan PSP
 
-Pasal 37
+### Pasal 37 ^pasal-37
 (1) BPR atau BPR Syariah wajib memperoleh persetujuan OJK
 untuk melakukan:
 a. penambahan modal disetor; dan/atau
@@ -967,7 +957,6 @@ yang mengakibatkan perubahan PSP.
 (2) BPR atau BPR Syariah yang melakukan penambahan
 modal disetor sebagaimana dimaksud pada ayat (1) huruf
 a harus menempatkan modal disetor dalam bentuk
-
 
 -----
 
@@ -997,7 +986,7 @@ persyaratan dan tata cara perubahan kepemilikan saham
 dilaksanakan sesuai dengan persyaratan dan tata cara
 Pengambilalihan.
 
-Pasal 38
+### Pasal 38 ^pasal-38
 (1) BPR atau BPR Syariah menyampaikan permohonan
 persetujuan penambahan modal disetor dan/atau
 perubahan kepemilikan saham yang mengakibatkan
@@ -1025,10 +1014,9 @@ pengalihan saham; dan
 2. penilaian kemampuan dan kepatutan bagi calon
 PSP.
 
-
 -----
 
-Pasal 39
+### Pasal 39 ^pasal-39
 (1) BPR atau BPR Syariah harus menyelenggarakan RUPS
 persetujuan penambahan modal disetor dan/atau
 perubahan kepemilikan saham yang mengakibatkan
@@ -1044,7 +1032,7 @@ untuk menyetujui penambahan modal disetor dan/atau
 perubahan kepemilikan saham yang mengakibatkan
 perubahan PSP.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 (1) BPR atau BPR Syariah wajib menyampaikan laporan
 pelaksanaan penambahan modal disetor yang
 mengakibatkan perubahan PSP secara daring melalui
@@ -1079,7 +1067,6 @@ secara luring paling lama 10 (sepuluh) hari kerja setelah
 tanggal surat penerimaan pemberitahuan perubahan data
 dari instansi yang berwenang.
 
-
 -----
 
 Bagian Ketiga
@@ -1087,7 +1074,7 @@ Penambahan Modal Disetor dan Perubahan Kepemilikan
 
 Saham yang Tidak Mengakibatkan Perubahan PSP
 
-Pasal 41
+### Pasal 41 ^pasal-41
 (1) BPR atau BPR Syariah wajib menyampaikan laporan:
 a. penambahan modal disetor; dan/atau
 b. perubahan kepemilikan saham,
@@ -1112,7 +1099,7 @@ yang berwenang.
 Bagian Keempat
 Perubahan Modal Dasar
 
-Pasal 42
+### Pasal 42 ^pasal-42
 (1) BPR atau BPR Syariah wajib menyampaikan laporan
 perubahan modal dasar secara daring melalui sistem
 pelaporan OJK paling lama 10 (sepuluh) hari kerja setelah
@@ -1131,7 +1118,7 @@ berwenang.
 Bagian Kelima
 Sanksi Administratif
 
-Pasal 43
+### Pasal 43 ^pasal-43
 (1) BPR atau BPR Syariah yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 28, Pasal 30 ayat (2),
 Pasal 31, Pasal 32, Pasal 33 ayat (2) huruf c, Pasal 36,
@@ -1139,7 +1126,6 @@ dan/atau Pasal 37 ayat (1) dikenai sanksi administratif
 berupa teguran tertulis.
 (2) Dalam hal BPR atau BPR Syariah telah dikenai sanksi
 administratif sebagaimana dimaksud pada ayat (1) dan
-
 
 -----
 
@@ -1191,7 +1177,7 @@ DAN PEJABAT EKSEKUTIF
 Bagian Kesatu
 Anggota Direksi dan Anggota Dewan Komisaris
 
-Pasal 44
+### Pasal 44 ^pasal-44
 (1) BPR atau BPR Syariah wajib memiliki paling sedikit 2 (dua)
 orang anggota Direksi dan salah satu di antaranya
 menjabat sebagai direktur utama.
@@ -1200,10 +1186,9 @@ menjabat sebagai direktur utama.
 dengan Peraturan OJK mengenai penerapan tata kelola
 bagi BPR atau BPR Syariah.
 
-
 -----
 
-Pasal 45
+### Pasal 45 ^pasal-45
 (1) BPR atau BPR Syariah wajib memiliki paling sedikit 2 (dua)
 orang anggota Dewan Komisaris dan paling banyak sama
 dengan jumlah anggota Direksi, serta salah satu di
@@ -1213,7 +1198,7 @@ lebih dari 2 (dua) orang sebagaimana dimaksud pada ayat
 (1) sesuai dengan Peraturan OJK mengenai penerapan tata
 kelola bagi BPR atau BPR Syariah.
 
-Pasal 46
+### Pasal 46 ^pasal-46
 (1) Anggota Direksi harus memiliki pendidikan formal paling
 rendah setingkat diploma tiga.
 (2) Anggota Direksi dan anggota Dewan Komisaris wajib
@@ -1227,7 +1212,7 @@ Bagian Kedua
 
 DPS
 
-Pasal 47
+### Pasal 47 ^pasal-47
 (1) BPR Syariah wajib memiliki DPS yang berkedudukan di
 Kantor Pusat.
 (2) Ketentuan mengenai DPS sesuai dengan Peraturan OJK
@@ -1237,7 +1222,7 @@ penerapan tata kelola bagi BPR Syariah.
 Bagian Ketiga
 Jabatan Anggota Direksi dan Anggota Dewan Komisaris
 
-Pasal 48
+### Pasal 48 ^pasal-48
 (1) Anggota Direksi dan anggota Dewan Komisaris, harus
 memenuhi persyaratan integritas, reputasi keuangan, dan
 kompetensi sesuai dengan Peraturan OJK mengenai
@@ -1253,12 +1238,11 @@ pada ayat (2) sesuai dengan Peraturan OJK mengenai
 penilaian kemampuan dan kepatutan bagi pihak utama
 lembaga jasa keuangan.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 (1) BPR atau BPR Syariah harus menyelenggarakan RUPS
 pengangkatan anggota Direksi dan anggota Dewan
 Komisaris paling lama 60 (enam puluh) hari kerja setelah
 tanggal persetujuan OJK.
-
 
 -----
 
@@ -1278,7 +1262,7 @@ dalam RUPS.
 dengan risalah RUPS dan bukti surat penerimaan
 pemberitahuan dari instansi yang berwenang.
 
-Pasal 50
+### Pasal 50 ^pasal-50
 (1) Dalam hal BPR atau BPR Syariah telah menyelenggarakan
 RUPS pengangkatan anggota Direksi dan/atau anggota
 Dewan Komisaris sebelum memperoleh persetujuan OJK,
@@ -1299,7 +1283,7 @@ dan kepatutan.
 dengan risalah RUPS dan bukti surat penerimaan
 pemberitahuan dari instansi yang berwenang.
 
-Pasal 51
+### Pasal 51 ^pasal-51
 (1) Dalam hal terdapat perubahan jabatan anggota Direksi
 dan/atau anggota Dewan Komisaris yang tidak melalui
 mekanisme penilaian kemampuan dan kepatutan, BPR
@@ -1314,11 +1298,10 @@ menjelaskan mengenai keputusan perubahan jabatan
 sebagaimana diatur dalam anggaran dasar BPR atau BPR
 Syariah.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 (1) BPR atau BPR Syariah wajib menyampaikan laporan
 pemberhentian dan/atau pengunduran diri anggota
 Direksi dan anggota Dewan Komisaris secara daring
-
 
 -----
 
@@ -1350,7 +1333,7 @@ jumlah yang ditetapkan dalam anggaran dasar, BPR atau
 BPR Syariah wajib memenuhi jumlah minimum anggota
 Direksi dan anggota Dewan Komisaris.
 
-Pasal 53
+### Pasal 53 ^pasal-53
 (1) Pengangkatan kembali anggota Direksi dan anggota
 Dewan Komisaris oleh RUPS dilakukan paling lama pada
 tanggal berakhirnya masa jabatan anggota Direksi
@@ -1369,7 +1352,7 @@ dengan ketentuan peraturan perundang-undangan.
 Bagian Keempat
 Pejabat Eksekutif
 
-Pasal 54
+### Pasal 54 ^pasal-54
 (1) BPR dan BPR Syariah wajib menyampaikan laporan
 pengangkatan, penggantian, dan/atau pemberhentian
 Pejabat Eksekutif secara daring melalui sistem pelaporan
@@ -1377,7 +1360,6 @@ OJK pada periode pelaporan tanggal pengangkatan,
 penggantian, dan/atau pemberhentian Pejabat Eksekutif.
 (2) Laporan sebagaimana dimaksud pada ayat (1) disertai
 dengan:
-
 
 -----
 
@@ -1389,7 +1371,7 @@ dan pas foto berwarna terkini.
 dikecualikan untuk laporan pemberhentian Pejabat
 Eksekutif.
 
-Pasal 55
+### Pasal 55 ^pasal-55
 (1) OJK melakukan penelitian terhadap laporan mengenai
 Pejabat Eksekutif sebagaimana dimaksud dalam Pasal 54.
 (2) Dalam hal Pejabat Eksekutif sebagaimana dimaksud pada
@@ -1408,7 +1390,7 @@ lembaga jasa keuangan.
 Bagian Kelima
 Sanksi Administratif
 
-Pasal 56
+### Pasal 56 ^pasal-56
 (1) BPR atau BPR Syariah yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 44 ayat (1), Pasal 45
 ayat (1), Pasal 46 ayat (2), Pasal 48 ayat (2), Pasal 52 ayat
@@ -1438,7 +1420,6 @@ jasa keuangan.
 ayat (1), ayat (2), dan/atau ayat (3), BPR, BPR Syariah,
 dan/atau PSP dapat dikenai sanksi administratif berupa
 
-
 -----
 
 denda paling sedikit Rp10.000.000,00 (sepuluh juta
@@ -1462,12 +1443,12 @@ Bagian Kesatu
 
 Umum
 
-Pasal 57
+### Pasal 57 ^pasal-57
 Jaringan kantor BPR atau BPR Syariah terdiri atas Kantor
 Pusat, Kantor Wilayah, Kantor Cabang, Sentra Keuangan
 Khusus, dan Kantor Kas.
 
-Pasal 58
+### Pasal 58 ^pasal-58
 (1) BPR atau BPR Syariah dapat menyediakan Terminal
 Perbankan Elektronik untuk memperluas layanan kepada
 masyarakat.
@@ -1483,7 +1464,7 @@ BPR Syariah secara daring melalui sistem pelaporan OJK
 pada periode laporan tanggal pelaksanaan penggunaan,
 penambahan, dan/atau pemindahan.
 
-Pasal 59
+### Pasal 59 ^pasal-59
 (1) BPR atau BPR Syariah dapat melakukan pembukaan
 kantor dengan memenuhi modal inti minimum BPR atau
 BPR Syariah.
@@ -1494,11 +1475,10 @@ dengan provinsi Kantor Pusat.
 dengan mengutamakan penyaluran kredit atau
 pembiayaan bagi usaha mikro, kecil, dan menengah.
 
-Pasal 60
+### Pasal 60 ^pasal-60
 (1) Wilayah Provinsi Daerah Khusus Ibukota Jakarta,
 Kabupaten Bogor, Kota Bogor, Kota Depok, Kabupaten
 Tangerang, Kota Tangerang, Kota Tangerang Selatan,
-
 
 -----
 
@@ -1511,7 +1491,7 @@ provinsi yang berbeda dengan lokasi Kantor Pusat, kantor
 BPR atau BPR Syariah tetap dapat beroperasi di wilayah
 semula.
 
-Pasal 61
+### Pasal 61 ^pasal-61
 (1) BPR atau BPR Syariah harus menetapkan hari dan jam
 kerja operasional kantor BPR atau BPR Syariah.
 (2) Kantor BPR atau BPR Syariah dapat melakukan:
@@ -1553,10 +1533,9 @@ Pembukaan Kantor
 Paragraf 1
 Pembukaan Kantor Wilayah
 
-Pasal 62
+### Pasal 62 ^pasal-62
 (1) BPR atau BPR Syariah wajib memperoleh izin OJK untuk
 melakukan pembukaan Kantor Wilayah.
-
 
 -----
 
@@ -1571,7 +1550,7 @@ c. dokumen yang menjelaskan cakupan wilayah kerja,
 tugas, dan kewenangan Kantor Wilayah; dan
 d. tidak terdapat pelanggaran ketentuan.
 
-Pasal 63
+### Pasal 63 ^pasal-63
 (1) BPR atau BPR Syariah menyampaikan permohonan untuk
 memperoleh izin pembukaan Kantor Wilayah kepada OJK
 disertai dengan dokumen persyaratan permohonan izin
@@ -1593,7 +1572,7 @@ a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
 dalam Pasal 62 ayat (2).
 
-Pasal 64
+### Pasal 64 ^pasal-64
 (1) BPR atau BPR Syariah harus melaksanakan pembukaan
 Kantor Wilayah paling lama 20 (dua puluh) hari kerja
 setelah tanggal izin OJK.
@@ -1611,13 +1590,12 @@ laporan sebagaimana dimaksud pada ayat (3) secara luring
 paling lama 10 (sepuluh) hari kerja setelah tanggal
 pembukaan Kantor Wilayah.
 
-
 -----
 
 Paragraf 2
 Pembukaan Kantor Cabang
 
-Pasal 65
+### Pasal 65 ^pasal-65
 (1) BPR atau BPR Syariah wajib memperoleh izin OJK untuk
 melakukan pembukaan Kantor Cabang.
 (2) BPR atau BPR Syariah yang akan melakukan pembukaan
@@ -1634,7 +1612,7 @@ prosedur, serta infrastruktur dan teknologi informasi;
 dan
 d. tidak terdapat pelanggaran ketentuan.
 
-Pasal 66
+### Pasal 66 ^pasal-66
 (1) BPR atau BPR Syariah menyampaikan permohonan untuk
 memperoleh izin pembukaan Kantor Cabang kepada OJK
 disertai dengan dokumen persyaratan permohonan izin
@@ -1660,7 +1638,7 @@ b. pemenuhan persyaratan, meliputi:
 Kantor Cabang; dan
 3. analisis kesiapan operasional.
 
-Pasal 67
+### Pasal 67 ^pasal-67
 (1) BPR atau BPR Syariah harus melaksanakan pembukaan
 Kantor Cabang paling lama 20 (dua puluh) hari kerja
 setelah tanggal izin OJK.
@@ -1671,7 +1649,6 @@ Kantor Cabang menjadi batal dan tidak berlaku.
 (3) BPR atau BPR Syariah wajib menyampaikan laporan
 pelaksanaan pembukaan Kantor Cabang secara daring
 
-
 -----
 
 melalui sistem pelaporan OJK pada periode laporan
@@ -1680,7 +1657,7 @@ tanggal pelaksanaan pembukaan Kantor Cabang.
 Paragraf 3
 Pembukaan Sentra Keuangan Khusus
 
-Pasal 68
+### Pasal 68 ^pasal-68
 (1) Sentra Keuangan Khusus hanya dapat melakukan
 kegiatan:
 a. layanan penghimpunan dana seperti penerimaan kas,
@@ -1702,7 +1679,7 @@ Keuangan Khusus di wilayah kabupaten atau kota yang
 sama dengan kabupaten atau kota kantor induk Sentra
 Keuangan Khusus.
 
-Pasal 69
+### Pasal 69 ^pasal-69
 (1) BPR atau BPR Syariah wajib memperoleh izin OJK untuk
 melakukan pembukaan Sentra Keuangan Khusus.
 (2) BPR atau BPR Syariah yang akan melakukan pembukaan
@@ -1714,7 +1691,7 @@ b. memiliki kesiapan operasional yang mencerminkan
 penerapan manajemen risiko yang memadai; dan
 c. tidak terdapat pelanggaran ketentuan.
 
-Pasal 70
+### Pasal 70 ^pasal-70
 (1) BPR atau BPR Syariah menyampaikan permohonan untuk
 memperoleh izin pembukaan Sentra Keuangan Khusus
 kepada OJK disertai dengan dokumen persyaratan
@@ -1730,7 +1707,6 @@ termasuk jangka waktu bagi BPR atau BPR Syariah untuk
 melengkapi, memperbaiki, dan/atau memperbarui
 dokumen permohonan.
 
-
 -----
 
 (4) Dalam memberikan persetujuan atau penolakan
@@ -1740,7 +1716,7 @@ a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
 dalam Pasal 69 ayat (2).
 
-Pasal 71
+### Pasal 71 ^pasal-71
 (1) BPR atau BPR Syariah harus melaksanakan pembukaan
 Sentra Keuangan Khusus paling lama 20 (dua puluh) hari
 kerja setelah tanggal izin OJK.
@@ -1769,7 +1745,7 @@ kantor induknya.
 Paragraf 4
 Pembukaan Kantor Kas
 
-Pasal 72
+### Pasal 72 ^pasal-72
 (1) Kantor Kas BPR atau BPR Syariah hanya dapat melakukan
 kegiatan:
 a. melayani nasabah penyimpan seperti pembukaan
@@ -1788,10 +1764,9 @@ melalui mekanisme pelaporan kepada OJK.
 (2) Kantor Kas dilarang melakukan kegiatan selain dari
 kegiatan sebagaimana dimaksud pada ayat (1).
 
-
 -----
 
-Pasal 73
+### Pasal 73 ^pasal-73
 (1) BPR atau BPR Syariah melakukan pembukaan Kantor Kas
 di wilayah kabupaten atau kota yang sama dengan
 kabupaten atau kota kantor induk dari Kantor Kas.
@@ -1808,7 +1783,7 @@ menjadi kantor induknya pada hari yang sama.
 Bagian Ketiga
 Pemindahan Alamat Kantor
 
-Pasal 74
+### Pasal 74 ^pasal-74
 (1) BPR atau BPR Syariah wajib memperoleh persetujuan OJK
 untuk melakukan pemindahan alamat Kantor Pusat,
 Kantor Wilayah, dan/atau Kantor Cabang.
@@ -1827,7 +1802,7 @@ atau BPR Syariah semula; dan
 c. menyelesaikan atau mengalihkan tagihan dan
 kewajiban Kantor Pusat dan/atau Kantor Cabang.
 
-Pasal 75
+### Pasal 75 ^pasal-75
 (1) BPR atau BPR Syariah menyampaikan permohonan untuk
 memperoleh persetujuan pemindahan alamat Kantor
 Pusat, Kantor Wilayah, dan/atau Kantor Cabang kepada
@@ -1844,7 +1819,6 @@ secara lengkap.
 termasuk jangka waktu bagi BPR atau BPR Syariah untuk
 melengkapi, memperbaiki, dan/atau memperbarui
 dokumen pengajuan permohonan.
-
 
 -----
 
@@ -1863,7 +1837,7 @@ pengalihan tagihan dan kewajiban Kantor Pusat
 dan/atau Kantor Cabang; dan
 3. analisis bukti kesiapan operasional.
 
-Pasal 76
+### Pasal 76 ^pasal-76
 (1) BPR atau BPR Syariah harus melaksanakan pemindahan
 alamat paling lama:
 a. 30 (tiga puluh) hari kerja untuk pemindahan alamat
@@ -1893,7 +1867,7 @@ dimaksud pada ayat (3) secara luring paling lama 10
 (sepuluh) hari kerja setelah tanggal pelaksanaan
 pemindahan alamat Kantor Wilayah.
 
-Pasal 77
+### Pasal 77 ^pasal-77
 (1) BPR atau BPR Syariah wajib mengumumkan rencana
 pemindahan alamat Sentra Keuangan Khusus dan/atau
 Kantor Kas pada papan pengumuman di seluruh kantor
@@ -1904,7 +1878,6 @@ tanggal pelaksanaan pemindahan alamat Sentra
 Keuangan Khusus dan/atau Kantor Kas.
 (2) BPR atau BPR Syariah wajib menyampaikan laporan
 pemindahan alamat Sentra Keuangan Khusus dan/atau
-
 
 -----
 
@@ -1920,7 +1893,7 @@ sebagaimana dimaksud pada ayat (2) secara luring paling
 lama 10 (sepuluh) hari kerja setelah tanggal pelaksanaan
 pemindahan alamat Sentra Keuangan Khusus.
 
-Pasal 78
+### Pasal 78 ^pasal-78
 (1) BPR atau BPR Syariah dapat melakukan pemindahan
 sementara alamat kantor.
 (2) Dalam hal BPR atau BPR Syariah melakukan pemindahan
@@ -1954,7 +1927,7 @@ dan/atau situs web BPR atau BPR Syariah.
 Bagian Keempat
 Perubahan Status Kantor
 
-Pasal 79
+### Pasal 79 ^pasal-79
 (1) BPR atau BPR Syariah dapat melakukan perubahan status
 atas kantor yang dimiliki.
 (2) Perubahan status kantor BPR atau BPR Syariah
@@ -1965,7 +1938,6 @@ dan sebaliknya;
 b. Kantor Cabang menjadi Kantor Kas dan sebaliknya;
 atau
 
-
 -----
 
 c. Sentra Keuangan Khusus menjadi Kantor Kas dan
@@ -1975,7 +1947,7 @@ status kantor sebagaimana dimaksud pada ayat (1) harus
 mencantumkan rencana perubahan status kantor dalam
 rencana bisnis BPR dan BPR Syariah.
 
-Pasal 80
+### Pasal 80 ^pasal-80
 (1) BPR atau BPR Syariah wajib memperoleh izin OJK untuk
 melakukan perubahan status:
 a. Sentra Keuangan Khusus atau Kantor Kas menjadi
@@ -2006,7 +1978,7 @@ a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
 pada ayat (2).
 
-Pasal 81
+### Pasal 81 ^pasal-81
 (1) BPR atau BPR Syariah yang memperoleh izin perubahan
 status menjadi Kantor Cabang atau Sentra Keuangan
 Khusus harus melaksanakan pembukaan Kantor Cabang
@@ -2024,7 +1996,6 @@ BPR atau BPR Syariah yang disetujui perubahan
 statusnya paling lama 5 (lima) hari kerja setelah BPR atau
 BPR Syariah memperoleh izin dari OJK.
 
-
 -----
 
 (4) BPR atau BPR Syariah wajib menyampaikan laporan
@@ -2041,7 +2012,7 @@ paling lama 10 (sepuluh) hari kerja setelah tanggal
 pelaksanaan pembukaan Kantor Cabang atau Sentra
 Keuangan Khusus.
 
-Pasal 82
+### Pasal 82 ^pasal-82
 (1) BPR atau BPR Syariah menyampaikan permohonan untuk
 memperoleh persetujuan perubahan status Kantor
 Cabang atau Sentra Keuangan Khusus menjadi Kantor
@@ -2065,7 +2036,7 @@ a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
 pada ayat (1).
 
-Pasal 83
+### Pasal 83 ^pasal-83
 (1) BPR atau BPR Syariah yang memperoleh persetujuan
 perubahan status menjadi Kantor Kas harus
 melaksanakan pembukaan Kantor Kas paling lama 20
@@ -2083,7 +2054,6 @@ diberikan persetujuan perubahan statusnya paling lama 5
 memperoleh persetujuan dari OJK.
 (4) BPR atau BPR Syariah wajib menyampaikan laporan
 pelaksanaan perubahan status menjadi Kantor Kas secara
-
 
 -----
 
@@ -2105,7 +2075,7 @@ Penutupan Kantor Wilayah, Kantor Cabang, dan/atau
 
 Sentra Keuangan Khusus
 
-Pasal 84
+### Pasal 84 ^pasal-84
 (1) BPR atau BPR Syariah wajib memperoleh persetujuan OJK
 untuk melakukan penutupan Kantor Wilayah, Kantor
 Cabang, dan/atau Sentra Keuangan Khusus.
@@ -2136,7 +2106,7 @@ a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
 pada ayat (3).
 
-Pasal 85
+### Pasal 85 ^pasal-85
 (1) Izin pembukaan Kantor Wilayah, Kantor Cabang,
 dan/atau Sentra Keuangan Khusus yang sebelumnya
 diberikan menjadi tidak berlaku terhitung sejak tanggal
@@ -2144,7 +2114,6 @@ persetujuan penutupan kantor.
 (2) BPR atau BPR Syariah wajib:
 a. mengumumkan penutupan Kantor Wilayah, Kantor
 Cabang, dan/atau Sentra Keuangan Khusus melalui:
-
 
 -----
 
@@ -2174,7 +2143,7 @@ pelaksanaan penutupan kantor.
 Paragraf 2
 Penutupan Kantor Kas
 
-Pasal 86
+### Pasal 86 ^pasal-86
 (1) BPR atau BPR Syariah wajib mengumumkan rencana
 penutupan Kantor Kas kepada masyarakat pada papan
 pengumuman di Kantor Kas yang akan ditutup dan di
@@ -2189,7 +2158,7 @@ pengumuman.
 Bagian Keenam
 Sanksi Administratif
 
-Pasal 87
+### Pasal 87 ^pasal-87
 (1) BPR atau BPR Syariah yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 62 ayat (1), Pasal 65
 ayat (1), Pasal 68 ayat (2), ayat (3), Pasal 69 ayat (1), Pasal
@@ -2204,7 +2173,6 @@ tetap melanggar ketentuan sebagaimana dimaksud dalam
 Pasal 62 ayat (1), Pasal 65 ayat (1), Pasal 68 ayat (2), ayat
 (3), Pasal 69 ayat (1), Pasal 71 ayat (5), Pasal 72 ayat (2),
 Pasal 73 ayat (3), Pasal 74 ayat (1), Pasal 77 ayat (1), Pasal
-
 
 -----
 
@@ -2256,10 +2224,9 @@ PERUBAHAN NAMA DAN BENTUK BADAN HUKUM
 Bagian Kesatu
 Perubahan Nama
 
-Pasal 88
+### Pasal 88 ^pasal-88
 (1) Perubahan nama BPR atau BPR Syariah dilaksanakan
 sesuai dengan ketentuan peraturan perundangundangan.
-
 
 -----
 
@@ -2271,7 +2238,7 @@ baru; dan
 b. persediaan bilyet deposito, buku tabungan, formulir,
 dan warkat sesuai dengan nama baru.
 
-Pasal 89
+### Pasal 89 ^pasal-89
 (1) BPR atau BPR Syariah wajib menyampaikan permohonan
 persetujuan penggunaan izin usaha BPR atau BPR Syariah
 dengan nama baru kepada OJK paling lama 5 (lima) hari
@@ -2300,7 +2267,7 @@ a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
 pada ayat (2).
 
-Pasal 90
+### Pasal 90 ^pasal-90
 (1) BPR atau BPR Syariah wajib mengumumkan perubahan
 nama kepada masyarakat pada:
 a. papan pengumuman di seluruh kantor BPR atau BPR
@@ -2314,13 +2281,12 @@ pengumuman sebagaimana dimaksud pada ayat (1)
 kepada OJK paling lama 10 (sepuluh) hari kerja setelah
 tanggal pengumuman.
 
-
 -----
 
 Bagian Kedua
 Perubahan Bentuk Badan Hukum
 
-Pasal 91
+### Pasal 91 ^pasal-91
 (1) Perubahan bentuk badan hukum BPR atau BPR Syariah
 dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
@@ -2335,7 +2301,7 @@ b. persetujuan pengalihan izin usaha.
 Paragraf 1
 Persetujuan Prinsip
 
-Pasal 92
+### Pasal 92 ^pasal-92
 (1) BPR atau BPR Syariah menyampaikan permohonan
 persetujuan prinsip perubahan bentuk badan hukum
 kepada OJK disertai dengan dokumen persyaratan
@@ -2358,7 +2324,7 @@ a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
 pada ayat (1).
 
-Pasal 93
+### Pasal 93 ^pasal-93
 (1) Persetujuan prinsip perubahan bentuk badan hukum BPR
 atau BPR Syariah sebagaimana dimaksud dalam Pasal 92
 ayat (1) berlaku untuk jangka waktu 120 (seratus dua
@@ -2368,13 +2334,12 @@ permohonan pengalihan izin usaha dalam jangka waktu
 sebagaimana dimaksud pada ayat (1), persetujuan prinsip
 yang telah diberikan menjadi batal dan tidak berlaku.
 
-
 -----
 
 Paragraf 2
 Persetujuan Pengalihan Izin Usaha
 
-Pasal 94
+### Pasal 94 ^pasal-94
 (1) BPR atau BPR Syariah menyampaikan permohonan
 persetujuan pengalihan izin usaha dari badan hukum
 lama kepada badan hukum baru kepada OJK disertai
@@ -2398,7 +2363,7 @@ a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
 pada ayat (1).
 
-Pasal 95
+### Pasal 95 ^pasal-95
 (1) BPR atau BPR Syariah yang telah memperoleh persetujuan
 pengalihan izin usaha dari badan hukum lama kepada
 badan hukum baru, wajib:
@@ -2427,7 +2392,6 @@ setelah persetujuan atas permohonan pengalihan izin
 usaha dari badan hukum lama kepada badan hukum
 baru dari OJK;
 
-
 -----
 
 d. menyampaikan berita acara pemusnahan persediaan
@@ -2449,7 +2413,7 @@ pada ayat (1) huruf e wajib disampaikan kepada OJK
 paling lama 20 (dua puluh) hari kerja setelah persetujuan
 dari instansi yang berwenang.
 
-Pasal 96
+### Pasal 96 ^pasal-96
 (1) Pembubaran badan hukum lama sebagaimana dimaksud
 dalam Pasal 95 ayat (1) huruf e dilarang dilakukan
 sebelum:
@@ -2465,7 +2429,7 @@ peraturan perundang-undangan.
 Bagian Ketiga
 Sanksi Administratif
 
-Pasal 97
+### Pasal 97 ^pasal-97
 (1) BPR atau BPR Syariah yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 91 ayat (2), Pasal 95
 ayat (1) dan/atau Pasal 96 ayat (1), dikenai sanksi
@@ -2486,7 +2450,6 @@ banyak Rp100.000.000,00 (seratus juta rupiah) untuk
 setiap pelanggaran yang dilakukan.
 (4) BPR atau BPR Syariah yang terlambat menyampaikan
 bukti pengumuman sebagaimana dimaksud dalam Pasal
-
 
 -----
 
@@ -2510,7 +2473,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 98
+### Pasal 98 ^pasal-98
 (1) Penggabungan, Peleburan, dan Pengambilalihan BPR atau
 BPR Syariah dapat dilakukan atas:
 a. inisiatif BPR atau BPR Syariah; atau
@@ -2519,7 +2482,7 @@ b. perintah OJK.
 sebagaimana dimaksud pada ayat (1) wajib memperoleh
 izin dari OJK.
 
-Pasal 99
+### Pasal 99 ^pasal-99
 (1) Penggabungan atau Peleburan dapat dilakukan antara:
 a. BPR dan BPR, menjadi BPR;
 b. BPR dan BPR Syariah, menjadi BPR Syariah; atau
@@ -2542,12 +2505,11 @@ menetapkan jangka waktu penyelesaian hak dan
 kewajiban yang berbeda dari jangka waktu sebagaimana
 dimaksud pada ayat (4).
 
-Pasal 100
+### Pasal 100 ^pasal-100
 (1) Penggabungan atau Peleburan dapat dilakukan antara
 BPR dan BPR, BPR dan BPR Syariah, atau BPR Syariah
 dan BPR Syariah, yang berkedudukan dalam wilayah
 provinsi yang sama atau berbeda.
-
 
 -----
 
@@ -2577,7 +2539,7 @@ pemindahan, dan/atau penutupan kantor pada provinsi
 lokasi kantor BPR atau BPR Syariah hasil Penggabungan
 atau Peleburan.
 
-Pasal 101
+### Pasal 101 ^pasal-101
 (1) LKM yang akan melakukan Penggabungan dengan BPR
 atau BPR Syariah harus memenuhi persyaratan:
 a. berlokasi dalam wilayah kantor BPR atau BPR
@@ -2601,13 +2563,12 @@ Penggabungan sebagaimana dimaksud pada ayat (1)
 harus memenuhi persyaratan sebagaimana
 dimaksud dalam Pasal 55.
 
-Pasal 102
+### Pasal 102 ^pasal-102
 (1) BPR atau BPR Syariah hasil Penggabungan atau Peleburan
 harus memenuhi persyaratan:
 a. rasio kewajiban pemenuhan modal minimum dan
 modal inti minimum sesuai dengan Peraturan OJK
 mengenai kewajiban penyediaan modal minimum dan
-
 
 -----
 
@@ -2623,7 +2584,7 @@ sebagaimana dimaksud pada ayat (1).
 Bagian Kedua
 Persyaratan dan Tata Cara Penggabungan atau Peleburan
 
-Pasal 103
+### Pasal 103 ^pasal-103
 (1) Direksi masing-masing BPR, BPR Syariah, dan/atau LKM
 yang akan melakukan Penggabungan atau Peleburan
 secara bersama-sama menyusun rancangan
@@ -2633,7 +2594,7 @@ dimaksud pada ayat (1) wajib mendapat persetujuan dari
 Dewan Komisaris masing-masing BPR, BPR Syariah,
 dan/atau LKM.
 
-Pasal 104
+### Pasal 104 ^pasal-104
 (1) Direksi BPR, BPR Syariah, dan/atau LKM yang akan
 melakukan Penggabungan atau Peleburan menyusun
 konsep akta Penggabungan atau Peleburan.
@@ -2643,7 +2604,7 @@ Syariah, dan/atau LKM berdasarkan rancangan
 Penggabungan atau Peleburan yang telah disetujui Dewan
 Komisaris.
 
-Pasal 105
+### Pasal 105 ^pasal-105
 (1) Direksi BPR, BPR Syariah, dan/atau LKM menyampaikan
 permohonan persiapan pelaksanaan Penggabungan atau
 Peleburan kepada OJK disertai dengan dokumen
@@ -2666,7 +2627,6 @@ b. pemenuhan persyaratan, meliputi:
 1. kondisi keuangan BPR atau BPR Syariah hasil
 Penggabungan atau Peleburan;
 
-
 -----
 
 2. penilaian kemampuan dan kepatutan bagi calon
@@ -2676,7 +2636,7 @@ DPS;
 penambahan modal disetor; dan
 4. kesiapan teknologi informasi.
 
-Pasal 106
+### Pasal 106 ^pasal-106
 (1) Direksi BPR, BPR Syariah, dan/atau LKM yang akan
 melakukan Penggabungan atau Peleburan harus
 mengumumkan ringkasan rancangan Penggabungan atau
@@ -2706,7 +2666,7 @@ Syariah, atau LKM,
 paling lama 30 (tiga puluh) hari sebelum pemanggilan
 RUPS.
 
-Pasal 107
+### Pasal 107 ^pasal-107
 (1) Kreditur dapat mengajukan keberatan kepada BPR, BPR
 Syariah, dan/atau LKM dalam jangka waktu paling lama
 14 (empat belas) hari setelah pengumuman ringkasan
@@ -2724,14 +2684,13 @@ penyelesaian.
 berupa penyelesaian keberatan atau penetapan skema
 penyelesaian keberatan yang disepakati dengan kreditur.
 
-
 -----
 
 (5) Selama penyelesaian sebagaimana dimaksud pada ayat (3)
 belum tercapai, Penggabungan atau Peleburan tidak dapat
 dilaksanakan.
 
-Pasal 108
+### Pasal 108 ^pasal-108
 (1) Pemegang saham termasuk PSP yang tidak setuju
 terhadap keputusan RUPS mengenai Penggabungan atau
 Peleburan hanya dapat menggunakan haknya untuk
@@ -2746,7 +2705,7 @@ menghambat proses pelaksanaan Penggabungan atau
 Peleburan, OJK berwenang memberikan perintah tertulis
 sesuai dengan Peraturan OJK mengenai perintah tertulis.
 
-Pasal 109
+### Pasal 109 ^pasal-109
 (1) Rancangan Penggabungan atau Peleburan harus
 memperoleh persetujuan RUPS masing-masing BPR, BPR
 Syariah, atau LKM yang melakukan Penggabungan atau
@@ -2773,14 +2732,13 @@ Indonesia.
 menjadi dasar pembuatan akta pendirian BPR atau BPR
 Syariah hasil Peleburan.
 
-Pasal 110
+### Pasal 110 ^pasal-110
 (1) Direksi masing-masing BPR, BPR Syariah, atau LKM yang
 melakukan Penggabungan atau Peleburan secara
 bersama-sama menyampaikan permohonan izin
 Penggabungan atau Peleburan kepada OJK paling lama 5
 (lima) hari kerja setelah tanggal akta Penggabungan atau
 Peleburan.
-
 
 -----
 
@@ -2792,7 +2750,7 @@ dilaksanakan; dan
 b. OJK menyampaikan surat penghentian proses
 Penggabungan atau Peleburan.
 
-Pasal 111
+### Pasal 111 ^pasal-111
 (1) Direksi dari masing-masing BPR, BPR Syariah, atau LKM
 menyampaikan permohonan izin Penggabungan atau
 Peleburan disertai dengan dokumen permohonan
@@ -2814,7 +2772,7 @@ a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
 pada ayat (1).
 
-Pasal 112
+### Pasal 112 ^pasal-112
 (1) BPR atau BPR Syariah hasil Penggabungan
 memberitahukan Penggabungan kepada instansi yang
 berwenang setelah memperoleh izin Penggabungan dari
@@ -2840,13 +2798,12 @@ OJK sebagaimana dimaksud dalam Pasal 111 ayat (2)
 paling lama 60 (enam puluh) hari sejak tanggal akta
 pendirian BPR atau BPR Syariah hasil Peleburan
 
-
 -----
 
 ditandatangani dengan melampirkan salinan akta
 Peleburan.
 
-Pasal 113
+### Pasal 113 ^pasal-113
 Izin Penggabungan atau Peleburan bagi:
 a. BPR atau BPR Syariah yang berbentuk badan hukum
 perseroan terbatas:
@@ -2876,7 +2833,7 @@ Peleburan dari instansi yang berwenang, atau tanggal
 yang ditetapkan dalam akta Penggabungan atau akta
 Peleburan.
 
-Pasal 114
+### Pasal 114 ^pasal-114
 (1) BPR atau BPR Syariah yang telah memperoleh izin
 Penggabungan atau Peleburan wajib:
 a. menyusun laporan posisi keuangan penutupan
@@ -2899,7 +2856,6 @@ Peleburan; dan/atau
 pelaksanaan Penggabungan atau Peleburan secara daring
 melalui sistem pelaporan OJK paling lama 10 (sepuluh)
 hari kerja setelah tanggal pengumuman.
-
 
 -----
 
@@ -2925,7 +2881,7 @@ seluruh kantor BPR atau BPR Syariah.
 Bagian Ketiga
 Persyaratan dan Tata Cara Pengambilalihan
 
-Pasal 115
+### Pasal 115 ^pasal-115
 (1) Pengambilalihan BPR atau BPR Syariah dapat dilakukan
 oleh pihak dengan cara Pengambilalihan saham yang telah
 dikeluarkan dan/atau akan dikeluarkan oleh BPR atau
@@ -2933,7 +2889,7 @@ BPR Syariah.
 (2) Pihak yang melakukan Pengambilalihan harus menjaga
 kelangsungan usaha BPR atau BPR Syariah.
 
-Pasal 116
+### Pasal 116 ^pasal-116
 (1) Perubahan kepemilikan saham BPR atau BPR Syariah
 yang merupakan Pengambilalihan dengan kriteria:
 a. menjadi pemegang saham dengan kepemilikan saham
@@ -2962,10 +2918,9 @@ memperoleh persetujuan OJK sesuai dengan Peraturan
 OJK mengenai penilaian kemampuan dan kepatutan bagi
 pihak utama lembaga jasa keuangan.
 
-
 -----
 
-Pasal 117
+### Pasal 117 ^pasal-117
 (1) Direksi BPR atau BPR Syariah yang akan diambil alih dan
 pihak yang akan mengambil alih secara bersama-sama
 menyusun rancangan Pengambilalihan.
@@ -2974,14 +2929,14 @@ ayat (1) harus mendapat persetujuan dari Dewan
 Komisaris BPR atau BPR Syariah yang akan diambil alih
 dan pihak yang akan mengambil alih.
 
-Pasal 118
+### Pasal 118 ^pasal-118
 (1) Direksi BPR atau BPR Syariah yang akan diambil alih
 menyusun konsep akta Pengambilalihan.
 (2) Konsep akta Pengambilalihan sebagaimana dimaksud
 pada ayat (1) disusun oleh Direksi BPR atau BPR Syariah
 berdasarkan rancangan Pengambilalihan.
 
-Pasal 119
+### Pasal 119 ^pasal-119
 (1) Direksi BPR atau BPR Syariah yang akan diambil alih dan
 pihak yang mengambil alih menyampaikan permohonan
 persiapan pelaksanaan Pengambilalihan kepada OJK
@@ -3006,7 +2961,7 @@ alih BPR atau BPR Syariah; dan
 2. penilaian kemampuan dan kepatutan bagi pihak
 yang melakukan Pengambilalihan.
 
-Pasal 120
+### Pasal 120 ^pasal-120
 (1) Direksi BPR atau BPR Syariah yang akan diambil alih dan
 direksi atau pihak yang akan mengambil alih
 mengumumkan ringkasan rancangan Pengambilalihan
@@ -3021,7 +2976,6 @@ Pengambilalihan.
 (2) BPR atau BPR Syariah yang akan diambil alih dan pihak
 yang akan mengambil alih mengumumkan ringkasan
 
-
 -----
 
 rancangan Pengambilalihan sebagaimana dimaksud pada
@@ -3035,7 +2989,7 @@ seluruh kantor BPR atau BPR Syariah,
 paling lama 30 (tiga puluh) hari sebelum pemanggilan
 RUPS.
 
-Pasal 121
+### Pasal 121 ^pasal-121
 (1) Kreditur dapat mengajukan keberatan kepada BPR atau
 BPR Syariah yang akan diambil alih atau pihak yang akan
 mengambil alih dalam jangka waktu paling lama 14 (empat
@@ -3055,7 +3009,7 @@ penyelesaian keberatan yang disepakati dengan kreditur.
 pada ayat (3) belum tercapai, Pengambilalihan tidak dapat
 dilaksanakan.
 
-Pasal 122
+### Pasal 122 ^pasal-122
 (1) Pemegang saham termasuk PSP yang tidak setuju
 terhadap keputusan RUPS mengenai Pengambilalihan
 hanya dapat menggunakan haknya untuk meminta
@@ -3069,7 +3023,7 @@ menghambat proses pelaksanaan Pengambilalihan, OJK
 berwenang memberikan perintah tertulis sesuai dengan
 Peraturan OJK mengenai perintah tertulis.
 
-Pasal 123
+### Pasal 123 ^pasal-123
 (1) Rancangan Pengambilalihan sebagaimana dimaksud
 dalam Pasal 117 dan konsep akta Pengambilalihan
 sebagaimana dimaksud dalam Pasal 118 harus
@@ -3080,7 +3034,6 @@ b. pihak yang akan mengambil alih.
 (2) Dalam hal pihak yang akan mengambil alih sebagaimana
 dimaksud pada ayat (1) huruf b berbentuk badan hukum,
 rancangan Pengambilalihan dan konsep akta
-
 
 -----
 
@@ -3094,7 +3047,7 @@ dan
 b. OJK menyampaikan surat penghentian proses
 Pengambilalihan.
 
-Pasal 124
+### Pasal 124 ^pasal-124
 (1) Direksi BPR atau BPR Syariah yang diambil alih dan pihak
 yang mengambil alih secara bersama-sama
 menyampaikan permohonan izin Pengambilalihan kepada
@@ -3117,7 +3070,7 @@ a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
 pada ayat (1).
 
-Pasal 125
+### Pasal 125 ^pasal-125
 (1) Rancangan Pengambilalihan yang telah disetujui oleh OJK
 dituangkan dalam akta Pengambilalihan yang dibuat di
 hadapan notaris dalam bahasa Indonesia.
@@ -3131,14 +3084,13 @@ disampaikan kepada instansi yang berwenang paling lama
 30 (tiga puluh) hari sejak tanggal akta notaris yang
 memuat perubahan anggaran dasar.
 
-Pasal 126
+### Pasal 126 ^pasal-126
 Izin Pengambilalihan bagi:
 a. BPR atau BPR Syariah yang berbentuk badan hukum
 perseroan terbatas berlaku sejak:
 1. tanggal persetujuan instansi yang berwenang atau
 tanggal yang ditetapkan dalam persetujuan instansi
 yang berwenang; atau
-
 
 -----
 
@@ -3152,7 +3104,7 @@ koperasi berlaku sejak tanggal akta perubahan anggaran
 dasar BPR atau BPR Syariah hasil Pengambilalihan dari
 instansi yang berwenang.
 
-Pasal 127
+### Pasal 127 ^pasal-127
 (1) BPR atau BPR Syariah yang telah memperoleh izin
 Pengambilalihan wajib mengumumkan hasil
 Pengambilalihan dalam jangka waktu paling lama 30 (tiga
@@ -3183,7 +3135,7 @@ Penggabungan, Peleburan, dan Pengambilalihan
 
 atas Perintah OJK
 
-Pasal 128
+### Pasal 128 ^pasal-128
 (1) OJK berwenang memerintahkan BPR atau BPR Syariah
 untuk:
 a. melakukan dan menerima Penggabungan atau
@@ -3199,7 +3151,6 @@ a. mengalami kesulitan yang membahayakan
 kelangsungan usahanya; dan/atau
 b. ditetapkan sebagai BPR atau BPR Syariah dalam
 penyehatan.
-
 
 -----
 
@@ -3228,7 +3179,7 @@ Pengambilalihan atas perintah OJK.
 Bagian Kelima
 Sanksi Administratif
 
-Pasal 129
+### Pasal 129 ^pasal-129
 (1) BPR atau BPR Syariah yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 98 ayat (2), Pasal 99
 ayat (4), Pasal 103 ayat (2), Pasal 109 ayat (4), Pasal 114
@@ -3259,7 +3210,6 @@ a. larangan sebagai pihak utama sesuai dengan
 Peraturan OJK mengenai penilaian kembali bagi
 pihak utama lembaga jasa keuangan; dan/atau
 
-
 -----
 
 b. penundaan pembayaran dividen sampai dengan PSP
@@ -3289,7 +3239,7 @@ belum menyampaikan laporan dimaksud.
 BAB VIII
 KONSOLIDASI BPR DAN BPR SYARIAH
 
-Pasal 130
+### Pasal 130 ^pasal-130
 (1) BPR atau BPR Syariah dalam kepemilikan dan/atau
 pengendalian PSP yang sama dalam 1 (satu) wilayah pulau
 atau kepulauan utama sebagaimana dimaksud dalam
@@ -3308,7 +3258,7 @@ atau Peleburan,
 yang berbeda dari wilayah pulau atau kepulauan utama
 sebagaimana dimaksud pada ayat (1).
 
-Pasal 131
+### Pasal 131 ^pasal-131
 (1) Bagi BPR atau BPR Syariah yang telah memenuhi kondisi
 dalam kepemilikan dan/atau pengendalian PSP yang sama
 sebagaimana dimaksud dalam Pasal 130 ayat (1) wajib
@@ -3318,7 +3268,6 @@ melakukan Penggabungan atau Peleburan paling lama 2
 telah memenuhi kondisi dalam kepemilikan dan/atau
 pengendalian PSP yang sama sebagaimana dimaksud
 dalam Pasal 130 ayat (1) wajib melakukan Penggabungan
-
 
 -----
 
@@ -3330,7 +3279,7 @@ berwenang menetapkan jangka waktu yang berbeda dari
 pengaturan sebagaimana dimaksud pada ayat (1) dan ayat
 (2).
 
-Pasal 132
+### Pasal 132 ^pasal-132
 (1) BPR atau BPR Syariah dalam kepemilikan dan/atau
 pengendalian PSP yang sama sebagaimana dimaksud
 dalam Pasal 130 ayat (1) wajib menyusun rencana tindak
@@ -3373,12 +3322,11 @@ melakukan tindakan atau langkah yang diperlukan dalam
 rangka persiapan dan pelaksanaan Penggabungan atau
 Peleburan.
 
-Pasal 133
+### Pasal 133 ^pasal-133
 (1) PSP yang melakukan pembelian atau memperoleh saham
 dalam jangka waktu 2 (dua) tahun sebagaimana dimaksud
 dalam Pasal 131 ayat (1) yang mengakibatkan BPR atau
 BPR Syariah memenuhi kondisi kepemilikan dan/atau
-
 
 -----
 
@@ -3391,7 +3339,7 @@ pada ayat (1) wajib dilakukan paling lama 1 (satu) tahun
 setelah jangka waktu 2 (dua) tahun sebagaimana
 dimaksud dalam Pasal 131 ayat (1).
 
-Pasal 134
+### Pasal 134 ^pasal-134
 (1) Dalam hal PSP memiliki dan/atau mengendalikan BPR
 atau BPR Syariah dalam 1 (satu) wilayah pulau atau
 kepulauan utama sebagaimana dimaksud dalam Pasal
@@ -3405,7 +3353,7 @@ pengendalian PSP yang sama dalam 1 (satu) wilayah pulau
 atau kepulauan utama sebagaimana dimaksud dalam
 Pasal 130 ayat (1).
 
-Pasal 135
+### Pasal 135 ^pasal-135
 Dalam hal PSP, BPR, atau BPR Syariah tidak melaksanakan
 kewajiban Penggabungan atau Peleburan, OJK berwenang
 memberikan perintah tertulis sesuai dengan Peraturan OJK
@@ -3416,7 +3364,7 @@ Kebijakan Relaksasi untuk Mendorong Pelaksanaan
 
 Penggabungan atau Peleburan
 
-Pasal 136
+### Pasal 136 ^pasal-136
 (1) OJK memberikan relaksasi kepada BPR atau BPR Syariah
 yang melakukan Penggabungan atau Peleburan:
 a. perpanjangan jangka waktu penyelesaian rencana
@@ -3439,7 +3387,6 @@ Syariah yang akan melakukan Penggabungan atau
 Peleburan; dan/atau
 d. penangguhan pembebanan biaya sehubungan
 dengan pelaksanaan Penggabungan atau Peleburan.
-
 
 -----
 
@@ -3473,7 +3420,7 @@ Peleburan berlaku efektif.
 Bagian Kedua
 Sanksi Administratif
 
-Pasal 137
+### Pasal 137 ^pasal-137
 (1) BPR atau BPR Syariah yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 130 ayat (1), Pasal
 131 ayat (1), ayat (2), Pasal 132 ayat (1), ayat (2), ayat (6),
@@ -3500,7 +3447,6 @@ ayat (1), ayat (2), ayat (6), Pasal 133, dan/atau Pasal 134
 pihak utama BPR atau BPR Syariah dikenai sanksi
 administratif berupa:
 
-
 -----
 
 a. larangan sebagai pihak utama sesuai dengan
@@ -3526,7 +3472,7 @@ belum menyampaikan laporan dimaksud.
 BAB IX
 SINERGI BPR DAN BPR SYARIAH
 
-Pasal 138
+### Pasal 138 ^pasal-138
 (1) BPR dan BPR Syariah dapat melakukan sinergi
 perbankan.
 (2) Sinergi perbankan sebagaimana dimaksud pada ayat (1)
@@ -3558,7 +3504,6 @@ penghentian kerja sama sebelum jatuh tempo;
 sinergi berhubungan dengan nasabah secara
 langsung;
 
-
 -----
 
 5. aspek alih pengetahuan, dalam hal sinergi
@@ -3587,7 +3532,7 @@ teknologi informasi dikecualikan dari persetujuan OJK
 sesuai dengan Peraturan OJK mengenai penyelenggaraan
 teknologi informasi oleh bank umum.
 
-Pasal 139
+### Pasal 139 ^pasal-139
 (1) Pelaksanaan sinergi perbankan pada BPR Syariah wajib
 disertai dengan opini DPS.
 (2) Pihak yang melakukan sinergi sebagaimana dimaksud
@@ -3609,7 +3554,7 @@ BPR Syariah wajib menyampaikan laporan kepada OJK
 paling lama 30 (tiga puluh) hari kerja sebelum tanggal
 efektif penghentian perjanjian kerja sama.
 
-Pasal 140
+### Pasal 140 ^pasal-140
 (1) BPR atau BPR Syariah yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 138 ayat (8) dan/atau
 Pasal 139 ayat (1) dikenai sanksi administratif berupa
@@ -3617,7 +3562,6 @@ teguran tertulis.
 (2) Dalam hal BPR atau BPR Syariah telah dikenai sanksi
 administratif sebagaimana dimaksud pada ayat (1), dan
 tetap melanggar ketentuan sebagaimana dimaksud dalam
-
 
 -----
 
@@ -3663,7 +3607,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 141
+### Pasal 141 ^pasal-141
 (1) BPR atau BPR Syariah dapat menyampaikan permohonan
 pencabutan izin usaha atas permintaan pemegang saham
 sepanjang berada dalam status pengawasan normal sesuai
@@ -3675,13 +3619,12 @@ sebagaimana dimaksud pada ayat (1) dilakukan dalam 2
 a. persetujuan persiapan pencabutan izin usaha; dan
 b. keputusan pencabutan izin usaha.
 
-
 -----
 
 Bagian Kedua
 Persetujuan Persiapan Pencabutan Izin Usaha
 
-Pasal 142
+### Pasal 142 ^pasal-142
 (1) BPR atau BPR Syariah menyampaikan permohonan
 persetujuan persiapan pencabutan izin usaha disertai
 penempatan dana _escrow dan dokumen persyaratan_
@@ -3715,7 +3658,7 @@ besar dari pada total seluruh kewajiban, pajak, dan
 kewajiban lain, BPR atau BPR Syariah tidak diwajibkan
 untuk melakukan penempatan dana escrow.
 
-Pasal 143
+### Pasal 143 ^pasal-143
 (1) BPR atau BPR Syariah yang telah memperoleh persetujuan
 persiapan pencabutan izin usaha wajib:
 a. menghentikan seluruh kegiatan usaha BPR atau BPR
@@ -3733,7 +3676,6 @@ paling lama 10 (sepuluh) hari kerja setelah tanggal
 persetujuan persiapan pencabutan izin usaha;
 c. menyelesaikan seluruh kewajiban BPR atau BPR
 Syariah dalam jangka waktu paling lama 6 (enam)
-
 
 -----
 
@@ -3756,7 +3698,7 @@ diberikan menjadi batal dan tidak berlaku.
 Bagian Ketiga
 Keputusan Pencabutan Izin Usaha
 
-Pasal 144
+### Pasal 144 ^pasal-144
 (1) BPR atau BPR Syariah menyampaikan permohonan
 keputusan pencabutan izin usaha BPR atau BPR Syariah
 setelah seluruh kewajiban BPR atau BPR Syariah
@@ -3784,19 +3726,18 @@ bertanggung jawab atas segala kewajiban BPR atau BPR
 Syariah yang belum diselesaikan sejak tanggal keputusan
 pencabutan izin usaha diterbitkan.
 
-Pasal 145
+### Pasal 145 ^pasal-145
 Status badan hukum BPR atau BPR Syariah berakhir atau
 bubar sejak tanggal pengumuman berakhirnya atau bubarnya
 badan hukum BPR atau BPR Syariah dalam Berita Negara
 Republik Indonesia.
-
 
 -----
 
 Bagian Keempat
 Sanksi Administratif
 
-Pasal 146
+### Pasal 146 ^pasal-146
 (1) BPR atau BPR Syariah yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 143 ayat (1), dikenai
 sanksi administratif berupa teguran tertulis.
@@ -3820,7 +3761,7 @@ untuk setiap pelanggaran yang dilakukan.
 BAB XI
 KETENTUAN LAIN-LAIN
 
-Pasal 147
+### Pasal 147 ^pasal-147
 (1) BPR atau BPR Syariah wajib melakukan perubahan
 nomenklatur “Bank Perkreditan Rakyat” menjadi “Bank
 Perekonomian Rakyat” atau nomenklatur “Bank
@@ -3842,14 +3783,13 @@ nama baru kepada OJK sebagaimana dimaksud dalam
 Pasal 89 ayat (2) paling lama 3 (tiga) bulan sejak
 berlakunya Peraturan OJK ini.
 
-Pasal 148
+### Pasal 148 ^pasal-148
 (1) BPR yang berbentuk badan hukum selain Perseroan
 Terbatas atau Koperasi wajib melakukan perubahan
 bentuk badan hukum sesuai dengan Peraturan OJK ini
 paling lama 3 (tiga) tahun sejak Undang-Undang mengenai
 Pengembangan dan Penguatan Sektor Keuangan
 diundangkan.
-
 
 -----
 
@@ -3858,7 +3798,7 @@ pada ayat (1) dilakukan dengan mekanisme perubahan
 bentuk badan hukum sebagaimana diatur dalam
 Peraturan OJK ini.
 
-Pasal 149
+### Pasal 149 ^pasal-149
 (1) BPR atau BPR Syariah yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 147 ayat (1), ayat (3),
 dan/atau Pasal 148 ayat (1) dikenai sanksi administratif
@@ -3884,7 +3824,7 @@ pelanggaran yang dilakukan.
 BAB XII
 KETENTUAN PERALIHAN
 
-Pasal 150
+### Pasal 150 ^pasal-150
 Pada saat Peraturan OJK ini mulai berlaku, BPR atau BPR
 Syariah yang telah memiliki jaringan kantor pada kabupaten
 atau kota di provinsi lain yang berbatasan langsung dengan
@@ -3892,7 +3832,7 @@ provinsi lokasi Kantor Pusat BPR atau BPR Syariah sebelum
 berlakunya Peraturan OJK ini, tetap dapat mempertahankan
 kantor yang telah ada.
 
-Pasal 151
+### Pasal 151 ^pasal-151
 (1) BPR atau BPR Syariah yang telah memperoleh:
 a. persetujuan prinsip pendirian BPR atau BPR Syariah;
 b. persetujuan prinsip perubahan bentuk badan
@@ -3909,7 +3849,6 @@ permohonan izin atau persetujuan penambahan modal
 disetor dan/atau perubahan kepemilikan saham,
 pembukaan kantor, pemindahan kantor, atau penutupan
 
-
 -----
 
 kantor, namun belum memperoleh persetujuan OJK,
@@ -3922,7 +3861,7 @@ Peraturan OJK Nomor 21/POJK.03/2019 tentang
 Penggabungan, Peleburan, dan Pengambilalihan Bank
 Perkreditan Rakyat dan Bank Pembiayaan Rakyat Syariah.
 
-Pasal 152
+### Pasal 152 ^pasal-152
 Penilaian mengenai kriteria kepemilikan dan/atau
 pengendalian PSP pada BPR atau BPR Syariah yang diwajibkan
 untuk melakukan Penggabungan atau Peleburan sebagaimana
@@ -3934,7 +3873,7 @@ Peraturan OJK ini mulai berlaku.
 BAB XIII
 KETENTUAN PENUTUP
 
-Pasal 153
+### Pasal 153 ^pasal-153
 
 Pada saat Peraturan OJK ini mulai berlaku, Peraturan OJK
 Nomor 26 Tahun 2022 tentang Bank Pembiayaan Rakyat
@@ -3943,7 +3882,7 @@ Nomor 32/OJK, Tambahan Lembaran Negara Republik
 Indonesia Nomor 23/OJK), dinyatakan masih tetap berlaku
 sepanjang tidak bertentangan dengan Peraturan OJK ini.
 
-Pasal 154
+### Pasal 154 ^pasal-154
 Pada saat Peraturan OJK ini mulai berlaku:
 a. Peraturan OJK Nomor 21/POJK.03/2019 tentang
 Penggabungan, Peleburan, dan Pengambilalihan Bank
@@ -3957,16 +3896,14 @@ Tahun 2020 Nomor 293, Tambahan Lembaran Negara
 Republik Indonesia Nomor 6602),
 dicabut dan dinyatakan tidak berlaku.
 
-Pasal 155
+### Pasal 155 ^pasal-155
 Peraturan OJK ini mulai berlaku pada tanggal diundangkan.
-
 
 -----
 
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Peraturan OJK ini dengan penempatannya
 dalam Lembaran Negara Republik Indonesia.
-
 
 Ditetapkan di Jakarta
 pada tanggal 25 April 2024
@@ -3991,7 +3928,6 @@ YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 11/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -3999,7 +3935,6 @@ Departemen Hukum
 ttd
 
 Aat Windradi
-
 
 -----
 
@@ -4010,7 +3945,6 @@ NOMOR 7 TAHUN 2024
 TENTANG
 BANK PEREKONOMIAN RAKYAT DAN
 BANK PEREKONOMIAN RAKYAT SYARIAH
-
 
 -----
 
@@ -4105,7 +4039,6 @@ BPR BPR Syariah
 |37.|Papua Pegunungan|3|Rp25|Rp15|
 |38.|Papua Barat Daya|3|Rp25|Rp15|
 
-
 -----
 
 Bagian B
@@ -4131,7 +4064,6 @@ BPR ATAU BPR SYARIAH
 ||a) <br>sumber dana yang digunakan<br>tidak berasal dari pinjaman<br>atau<br>fasilitas<br>pembiayaan<br>dalam bentuk apapun dari<br>bank dan/atau pihak lain<br>dan/atau tidak berasal dari<br>dan untuk pencucian uang<br>dan/atau<br>pendanaan<br>terorisme maupun proliferasi<br>senjata pemusnah massal;||||
 ||b) <br>komitmen untuk mematuhi<br>ketentuan<br>peraturan<br>perundang-undangan<br>khususnya <br>di <br>bidang||||
 
-
 -----
 
 |Col1|perbankan dan mendukung<br>kebijakan OJK;|Col3|Col4|Col5|
@@ -4145,7 +4077,6 @@ BPR ATAU BPR SYARIAH
 ||4) <br>laporan keuangan yang meliputi<br>laporan posisi keuangan (neraca),<br>laporan<br>laba<br>rugi,<br>laporan<br>perubahan ekuitas, laporan arus<br>kas, dan catatan atas laporan<br>keuangan, kecuali bagi pemerintah<br>daerah;||||
 ||5) <br>surat<br>pernyataan<br>bermeterai<br>cukup daribadan   hukumyang|<br>|||
 
-
 -----
 
 |Col1|ditandatangani oleh seluruh<br>anggota direksi dan anggota dewan<br>komisaris atau yang setara yang<br>menyatakan:|Col3|Col4|Col5|
@@ -4158,7 +4089,6 @@ BPR ATAU BPR SYARIAH
 ||a. <br>Daftar susunan calon anggota Direksi,<br>calon<br>anggota<br>Dewan<br>Komisaris,<br>dan/atau calon anggota DPS; dan||||
 ||b. <br>Dokumen persyaratan calon anggota<br>Direksi dan calon anggota Dewan<br>Komisaris sesuai dengan ketentuan<br>OJK mengenai penilaian kemampuan<br>dan kepatutan bagi pihak utama bank.||||
 ||c. <br>Dokumen persyaratan bagi DPS sesuai<br>dengan Peraturan OJK mengenai Bank<br>Pembiayaan Rakyat Syariah.||||
-
 
 -----
 
@@ -4176,7 +4106,6 @@ BPR ATAU BPR SYARIAH
 ||e. <br>risalah<br>RUPS<br>yang<br>menyetujui<br>pembagian dividen, neraca sebelum dan<br>sesudah<br>pembagian<br>dividen,<br>jika<br>setoran modal berasal dari pembagian<br>dividen atas kepemilikan saham calon<br>pemegang sahampada perusahaan lain.||||
 |9.|Bukti lunas pembayaran biaya perizinan<br>pendirian BPR atau BPRSyariah.||||
 
-
 Kami yang bertanda tangan di bawah ini menyatakan bahwa daftar periksa telah
 diisi dan disusun secara lengkap sesuai dengan keadaan yang sebenarnya serta
 telah dilengkapi dengan dokumen yang benar sesuai dengan ketentuan
@@ -4185,7 +4114,6 @@ peraturan perundang-undangan.
 (Tempat), (tanggal-bulan-tahun)
 (Tanda tangan di atas meterai)
 (Nama lengkap calon PSP)
-
 
 -----
 
@@ -4210,7 +4138,6 @@ USAHA BPR ATAU BPR SYARIAH
 ||b. <br>uraian tugas dan tanggung jawab<br>anggota<br>Direksi,<br>anggota<br>Dewan<br>Komisaris,<br>anggota<br>DPS,<br>Pejabat<br>Eksekutif, dan pegawai;||||
 ||c. <br>fungsi audit internal;||||
 ||d. <br>pengelolaan kas;||||
-
 
 -----
 
@@ -4241,7 +4168,6 @@ peraturan perundang-undangan.
 ||f. <br>salinan Nomor Pokok Wajib Pajak; dan||||
 ||g. <br>Nomor Induk Berusaha;||||
 
-
 -----
 
 Bagian D
@@ -4266,7 +4192,6 @@ BERDASARKAN INISIATIF BUK ATAU BUS
 |5.|Daftar calon anggota DPS disertai dengan<br>dokumen<br>persyaratan<br>sesuai<br>dengan<br>Peraturan OJK mengenai bank pembiayaan<br>rakyat syariah.||||
 |6.|Rencana<br>struktur<br>organisasi,<br>susunan<br>sumber daya manusia, serta uraian tugas dan<br>jabatan, dengan memperhatikan Peraturan||||
 
-
 -----
 
 |Col1|OJK mengenai penerapan tata kelola BPR<br>atau BPR Syariah.|Col3|Col4|Col5|
@@ -4280,7 +4205,6 @@ BERDASARKAN INISIATIF BUK ATAU BUS
 ||b. <br>penghentian kegiatan usaha dan produk<br>BUK atau BUS yang tidak diperkenankan<br>bagi BPRatau BPRSyariah; dan||||
 ||c. <br>penyesuaian jenis dan wilayah jaringan<br>kantor BUK atau BUS yang tidak<br>diperkenankan bagi BPR atau BPR<br>Syariah.||||
 
-
 Kami yang bertanda tangan di bawah ini menyatakan bahwa daftar periksa telah
 diisi dan disusun secara lengkap sesuai dengan keadaan yang sebenarnya serta
 telah dilengkapi dengan dokumen yang benar sesuai dengan ketentuan
@@ -4289,7 +4213,6 @@ peraturan perundang-undangan.
 (Tempat), (tanggal-bulan-tahun)
 (Tanda tangan)
 (Nama lengkap direksi BUK atau BUS)
-
 
 -----
 
@@ -4351,7 +4274,6 @@ Kegiatan usaha yang dilakukan dengan valuta asing mencakup antara
 lain penghimpunan dana, penyaluran dana baik berupa penyaluran
 dana dan penempatan pada bank lain, _trade finance seperti_ _letter of_
 
-
 -----
 
 _credit dan bank garansi dalam valutan asing, serta treasury. Dalam hal_
@@ -4410,7 +4332,6 @@ penyesuaian tenor atau pelunasan lebih awal.
 Penerimaan pembayaran pinjaman sesuai tenor (dalam hal tenor
 tidak melebihi periode masa transisi), apabila tenor pinjaman
 
-
 -----
 
 melebihi periode masa transisi maka dilakukan penyesuaian
@@ -4454,7 +4375,6 @@ hari menjadi tanggung jawab anggota direksi BPR atau BPR Syariah
 hasil perubahan izin usaha dari BUK atau BUS; dan/atau
 c. bukti kesiapan kantor termasuk sarananya.
 
-
 -----
 
 Bagian F
@@ -4480,7 +4400,6 @@ YANG MENGAKIBATKAN PERUBAHAN PSP
 ||d. <br>Khusus penambahan modal disetor yang<br>berasal dari pembagian dividen BPR atau<br>BPR<br>Syariah<br>yang<br>bersangkutan,<br>dilengkapi dengandokumen:||||
 ||1) <br>risalah RUPS pembagian dividen; dan||||
 
-
 -----
 
 |Col1|2) bukti pembukuan setoran modal<br>berupa jurnal pembagian dividen<br>serta laporan posisi keuangan BPR<br>atau BPR Syariah sebelum dan<br>sesudah pembagian dividen;|||Col5|
@@ -4496,7 +4415,6 @@ YANG MENGAKIBATKAN PERUBAHAN PSP
 |4.|Dokumen persyaratan calon PSP sesuai dengan<br>ketentuan<br>OJK<br>mengenai<br>penilaian<br>kemampuan dan kepatutan bagi calon pihak<br>utama bank.||||
 |5.|Laporan keuangan PSP yang berbadan hukum<br>meliputi neraca, laporan laba rugi, laporan<br>arus kas, laporan perubahan ekuitas dan<br>catatan atas laporan keuangan posisi terakhir<br>pada tanggal penambahan modal disetor atau<br>pada<br>akhir<br>bulan<br>sebelum<br>permohonan<br>penambahan modal disetor.||||
 
-
 Kami yang bertanda tangan di bawah ini menyatakan bahwa daftar periksa telah
 diisi dan disusun secara lengkap sesuai dengan keadaan yang sebenarnya serta
 telah dilengkapi dengan dokumen yang benar sesuai dengan ketentuan
@@ -4505,7 +4423,6 @@ peraturan perundang-undangan.
 (Tempat), (tanggal-bulan-tahun)
 (Tanda tangan)
 (Nama lengkap Direksi)
-
 
 -----
 
@@ -4531,7 +4448,6 @@ YANG TIDAK MENGAKIBATKAN PERUBAHAN PSP
 ||c. <br>Khusus<br>penambahan<br>modal<br>disetor<br>berasal dari hasil pembagian dividen BPR<br>atau BPR Syariah yang bersangkutan,<br>dilengkapi dengan dokumen:||||
 ||1) <br>risalah RUPS pembagian dividen;<br>dan||||
 
-
 -----
 
 |Col1|2) bukti pembukuan setoran modal<br>berupa jurnal pembagian dividen<br>serta laporan posisi keuangan BPR<br>atau BPR Syariah sebelum dan<br>sesudah pembagian dividen; dan|||Col5|
@@ -4549,7 +4465,6 @@ YANG TIDAK MENGAKIBATKAN PERUBAHAN PSP
 ||2) <br>surat pernyataan bermeterai cukup<br>yang menyatakan:||||
 ||a) <br>sumber dana yang digunakan<br>tidak berasal dari pinjaman<br>atau<br>fasilitas<br>pembiayaan<br>dalam bentuk apapun dari<br>bank<br>dan/atau<br>pihak<br>lain<br>dan/atau tidak berasal dari<br>dan untuk pencucian uang<br>dan/atau pendanaanterorisme||||
 
-
 -----
 
 |Col1|maupun proliferasi senjata<br>pemusnah massal;|Col3|Col4|Col5|
@@ -4563,7 +4478,6 @@ YANG TIDAK MENGAKIBATKAN PERUBAHAN PSP
 ||3) <br>daftar pemegang saham berikut<br>rincian kepemilikan saham bagi<br>badan hukum Perseroan Terbatas,<br>rekapitulasi simpanan pokok dan<br>simpanan<br>wajib<br>masing-masing<br>anggota serta daftar hibah bagi<br>badan hukum Koperasi, atau daftar<br>kekayaan bagi badan hukum lain,<br>kecualibagi pemerintahdaerah;||||
 ||4) <br>laporan keuangan yang meliputi<br>laporan posisi keuangan (neraca),<br>laporan<br>laba<br>rugi,<br>laporan<br>perubahanekuitas,   laporan   arus||||
 
-
 -----
 
 |Col1|kas, dan catatan atas laporan<br>keuangan, kecuali bagi pemerintah<br>daerah;|Col3|Col4|Col5|
@@ -4575,12 +4489,10 @@ YANG TIDAK MENGAKIBATKAN PERUBAHAN PSP
 ||d) <br>tidak termasuk sebagai pihak<br>yang dilarang menjadi pihak<br>utama.||||
 |6.|Laporan keuangan pemegang saham yang<br>berbadan hukum meliputi neraca, laporan<br>laba<br>rugi,<br>laporan<br>arus<br>kas,<br>laporan<br>perubahan ekuitas dan catatan atas laporan<br>keuangan<br>posisi<br>terakhir<br>pada<br>tanggal<br>penambahan modal disetor atau pada akhir<br>bulan sebelum tanggal penambahan modal<br>disetor.||||
 
-
 -----
 
 |7.|Surat penerimaan pemberitahuan perubahan<br>data dan/atau persetujuan perubahan<br>anggaran dasar dari instansi yang berwenang,<br>dilampiri dengan salinan akta perubahan<br>kepemilikan saham dan/atau perubahan<br>anggaran dasar.|||Col5|
 |---|---|---|---|---|
-
 
 Kami yang bertanda tangan di bawah ini menyatakan bahwa daftar periksa telah
 diisi dan disusun secara lengkap sesuai dengan keadaan yang sebenarnya serta
@@ -4590,7 +4502,6 @@ peraturan perundang-undangan.
 (Tempat), (tanggal-bulan-tahun)
 (Tanda tangan)
 (Nama lengkap Direksi)
-
 
 -----
 
@@ -4638,7 +4549,6 @@ peraturan perundang-undangan.
 ||b. <br>struktur organisasi dan uraian tugas dan<br>jabatan;||||
 ||c. <br>foto dan/atau video gedung kantor, tata<br>letak ruangan, dan sarana pengamanan<br>gedung kantor yang memadai;||||
 ||d. <br>bukti kepemilikan, penguasaan atau<br>perjanjiansewagedung kantor:||||
-
 
 -----
 
@@ -4700,7 +4610,6 @@ peraturan perundang-undangan.
 ||d. <br>dokumen yang menunjukkan kesiapan<br>teknologi sistem informasi;||||
 ||e. <br>bukti kepemilikan, penguasaan atau<br>perjanjiansewagedung kantor.||||
 
-
 -----
 
 Bagian J
@@ -4751,7 +4660,6 @@ peraturan perundang-undangan.
 ||c. <br>foto dan/atau video gedung kantor, tata<br>letak ruangan, dan sarana pengamanan<br>gedung kantor yang memadai;||||
 ||d. <br>dokumen yang menunjukkan kesiapan<br>teknologi sistem informasi;||||
 ||e. <br>bukti kepemilikan, penguasaan atau<br>perjanjian sewa gedung kantor.||||
-
 
 -----
 
@@ -4813,7 +4721,6 @@ peraturan perundang-undangan.
 ||b. <br>foto dan/atau video gedung kantor, tata<br>letak ruangan, dan sarana pengamanan<br>gedung kantor yang memadai;||||
 ||c. <br>bukti kepemilikan, penguasaan, atau<br>perjanjiansewagedung kantor.||||
 ||d. <br>bukti<br>pengumuman<br>rencana<br>pemindahan<br>alamat<br>Kantor<br>Pusat,<br>Kantor<br>Wilayah,<br>dan/atau<br>Kantor<br>Cabang.||||
-
 
 -----
 
@@ -4884,7 +4791,6 @@ peraturan perundang-undangan.
 ||d. <br>dokumen yang menunjukkan kesiapan<br>teknologi sistem informasi; dan||||
 ||e. <br>bukti kepemilikan, penguasaan, atau<br>perjanjiansewagedung kantor.||||
 
-
 -----
 
 Bagian M
@@ -4922,7 +4828,6 @@ peraturan perundang-undangan.
 |2.|Bukti penyelesaian atau pengalihan hak dan<br>kewajiban Kantor Cabang dan/atau Sentra<br>Keuangan Khusus kepada nasabah dan pihak<br>lain;||||
 |3.|Bukti<br>penyesuaian<br>kesiapan<br>operasional<br>Kantor Kas.||||
 
-
 -----
 
 Bagian N
@@ -4947,7 +4852,6 @@ KHUSUS
 ||a. <br>BPR<br>atau<br>BPR<br>Syariah<br>telah<br>menyelesaikan<br>seluruh<br>kewajiban<br>kepada nasabah dan/atau pihak lain<br>yang terkait dengan penutupan Kantor<br>Wilayah,<br>Kantor<br>Cabang,<br>dan/atau<br>Sentra Keuangan Khusus dan apabila<br>terdapat tuntutan di kemudian hari<br>menjadi tanggung jawab BPR atau BPR<br>Syariah; dan||||
 ||b. <br>BPR<br>atau<br>BPR<br>Syariah<br>telah<br>menyelesaikan seluruh aset termasuk||||
 
-
 -----
 
 aset valuta asing, jika Kantor Cabang
@@ -4966,7 +4870,6 @@ peraturan perundang-undangan.
 
 |Col1|aset valuta asing, jika Kantor Cabang<br>dan/atau Sentra Keuangan Khusus<br>melakukan kegiatan usaha penukaran<br>valuta asing.|Col3|Col4|Col5|
 |---|---|---|---|---|
-
 
 -----
 
@@ -5014,7 +4917,6 @@ peraturan perundang-undangan.
 |3.|Bukti persetujuan atas perubahan anggaran<br>dasar dari instansi yang berwenang;||||
 |4.|Dokumen<br>formulir<br>dan<br>warkat<br>yang<br>digunakan BPR atau BPR Syariah dengan<br>namayang baru;||||
 |5.|Berita acara pemusnahan persediaan bilyet<br>deposito, buku tabungan, formulir, dan<br>warkat BPR atau BPR Syariah dengan nama<br>lama yang belum digunakan.||||
-
 
 -----
 
@@ -5078,7 +4980,6 @@ peraturan perundang-undangan.
 |4.|Rencana<br>pengalihan<br>seluruh<br>hak<br>dan<br>kewajiban dari badan hukum lama kepada<br>badan hukum baru.||||
 |5.|Data kepemilikan disertai dengan dokumen<br>pendukung, jikaterjadi perubahan.||||
 
-
 -----
 
 Bagian Q
@@ -5136,7 +5037,6 @@ peraturan perundang-undangan.
 ||b. <br>pengalihan seluruh hak dan kewajiban<br>dari badan hukum lama kepada badan<br>hukum baru;||||
 |5.|Contoh formulir atau warkat yang akan<br>digunakan oleh BPR atau BPR Syariah<br>dengan bentuk badan hukum baru.||||
 
-
 -----
 
 Bagian R
@@ -5160,7 +5060,6 @@ PERSIAPAN PELAKSANAAN PENGGABUNGAN/PELEBURAN
 ||d) <br>rencana penyelesaian seluruh<br>kewajiban<br>kepada<br>nasabah<br>serta pihak lain;||||
 ||e) <br>pengumuman<br>penutupan,<br>pemindahan <br>lokasi, <br>atau||||
 
-
 -----
 
 |Col1|perubahan status jaringan<br>kantor yang dilakukan<br>bersamaan dengan<br>pengumuman ringkasan atas<br>rancangan Penggabungan atau<br>Peleburan; dan|Col3|Col4|Col5|
@@ -5176,7 +5075,6 @@ PERSIAPAN PELAKSANAAN PENGGABUNGAN/PELEBURAN
 ||2) <br>Komposisi<br>dan<br>nama<br>calon<br>pemegang saham, calon anggota<br>Direksi,<br>calon<br>anggota<br>Dewan<br>Komisaris, dan calon anggota DPS<br>BPR<br>atau<br>BPR<br>Syariah<br>hasil<br>Penggabungan atau Peleburan;||||
 ||3) <br>Cara penyelesaian status, hak dan<br>kewajiban anggota Direksi, anggota<br>Dewan Komisaris, anggota DPS, dan<br>pegawai BPR, BPR Syariah, atau<br>LKM<br>yang<br>melakukan<br>Penggabungan<br>atau<br>Peleburan<br>sesuai dengan ketentuan peraturan<br>perundang-undangan;||||
 
-
 -----
 
 |Col1|4) Cara penyelesaian hak pemegang<br>saham yang tidak setuju terhadap<br>Penggabungan atau Peleburan<br>sesuai dengan ketentuan peraturan<br>perundang-undangan;|||Col5|
@@ -5190,7 +5088,6 @@ PERSIAPAN PELAKSANAAN PENGGABUNGAN/PELEBURAN
 ||1) <br>Cara<br>penyelesaian<br>hak<br>dan<br>kewajiban BPR, BPR Syariah, atau<br>LKM kepada debitur atau nasabah<br>penerima fasilitas, kreditur, dan<br>pihak lain.<br>Penyelesaian hak dan kewajiban<br>diselesaikan<br>dalam<br>RUPS<br>dan<br>menjadi kewajiban BPR atau BPR<br>Syariah hasil Penggabungan atau<br>Peleburan serta dinyatakan dalam<br>bentuk tertulis antara lain surat<br>pernyataan atau akta notaris.||||
 ||2) <br>Penjelasan mengenai manfaat dan<br>risiko yang mungkin timbul akibat<br>Penggabungan<br>atau<br>Peleburan<br>beserta mitigasi atas risiko tersebut.||||
 
-
 -----
 
 |Col1|e. Data Keuangan|||Col5|
@@ -5201,7 +5098,6 @@ PERSIAPAN PELAKSANAAN PENGGABUNGAN/PELEBURAN
 ||g. <br>Perubahan Anggaran Dasar||||
 ||1) <br>Rancangan<br>perubahan<br>anggaran<br>dasar BPR atau BPR Syariah hasil<br>Penggabungan atau rancangan akta<br>Pendirian BPR atau BPR Syariah<br>hasil Peleburan, berupa:<br>a) <br>konsep<br>akta<br>perubahan<br>anggaran dasar, bagi BPR atau<br>BPR Syariah berbentuk badan<br>hukum<br>perseroan<br>terbatas;<br>atau<br>b) <br>peraturan daerah, bagi BPR<br>atau BPR Syariah yang dimiliki<br>oleh pemerintah daerah.||||
 ||2) <br>Rencana<br>penambahan<br>modal<br>disetor,<br>jika<br>ada.<br>Penambahan<br>modal disetor bagi BPR atau BPR<br>Syariah milik pemerintah daerah,<br>disertaidengandokumensesuai|<br>|||
-
 
 -----
 
@@ -5218,7 +5114,6 @@ PERSIAPAN PELAKSANAAN PENGGABUNGAN/PELEBURAN
 |2.|Konsep akta Penggabungan atau Peleburan<br>berdasarkan rancangan Penggabungan atau<br>Peleburan yang telah disetujui oleh Dewan<br>Komisaris dan ditandatangani oleh masing-<br>masing Direksi BPR, BPR Syariah, dan/atau<br>LKM||||
 |3.|Dokumen persyaratan administratif sesuai<br>dengan ketentuan OJK mengenai penilaian<br>kemampuan dan kepatutan bagi calon pihak<br>utama bank.||||
 
-
 Kami yang bertanda tangan di bawah ini menyatakan bahwa daftar periksa telah
 diisi dan disusun secara lengkap sesuai dengan keadaan yang sebenarnya serta
 telah dilengkapi dengan dokumen yang benar sesuai dengan ketentuan
@@ -5227,7 +5122,6 @@ peraturan perundang-undangan.
 (Tempat), (tanggal-bulan-tahun)
 (Tanda tangan)
 (Nama lengkap Direksi)
-
 
 -----
 
@@ -5268,11 +5162,9 @@ peraturan perundang-undangan.
 |3.|Akta:<br>a. <br>Perubahan anggaran dasar bagi BPR<br>atau BPR Syariah hasil Penggabungan;<br>atau<br>b. <br>Pendirian bagi BPR atau BPR Syariah<br>hasil Peleburan.||||
 |4.|Bukti pengumuman ringkasan rancangan<br>Penggabungan atau Peleburan.||||
 
-
 -----
 
 Bagian T
-
 
 DOKUMEN PERSYARATAN PERMOHONAN
 PERSIAPAN PELAKSANAAN PENGAMBILALIHAN
@@ -5293,7 +5185,6 @@ PERSIAPAN PELAKSANAAN PENGAMBILALIHAN
 ||b) <br>struktur<br>kepemilikan<br>calon<br>PSP BPR atau BPRSyariah.||||
 ||c. <br>Cara penyelesaian hak dan kewajiban<br>BPR atau BPR Syariah yang akan<br>diambil alih kepada kreditur dan pihak<br>lain.||||
 
-
 -----
 
 |Col1|d. Laporan keuangan dan informasi kinerja<br>keuangan paling singkat 2 (dua) tahun<br>buku terakhir dari pihak berbadan<br>hukum yang akan mengambil alih.|||Col5|
@@ -5309,7 +5200,6 @@ PERSIAPAN PELAKSANAAN PENGAMBILALIHAN
 ||f. <br>Rancangan perubahan anggaran dasar<br>BPR atau BPR Syariah yang akan<br>diambilalih.||||
 |2.|Konsep akta Pengambilalihan yang telah<br>disetujui<br>oleh<br>Dewan<br>Komisaris<br>dan<br>ditandatangani oleh Direksi BPR atau BPR<br>Syariah.||||
 |3.|Dokumen persyaratan administratif sesuai<br>dengan  ketentuan  OJK  mengenai  penilaian|<br>|||
-
 
 -----
 
@@ -5327,7 +5217,6 @@ peraturan perundang-undangan.
 
 |Col1|kemampuan dan kepatutan bagi calon pihak<br>utama bank.|Col3|Col4|Col5|
 |---|---|---|---|---|
-
 
 -----
 
@@ -5374,7 +5263,6 @@ peraturan perundang-undangan.
 |2.|Berita<br>acara<br>RUPS<br>persetujuan<br>Pengambilalihan dari BPR atau BPR Syariah<br>yang diambil alih dan pihak berbentuk badan<br>hukum yang mengambil alih, termasuk<br>keterangan mengenai ada atau tidaknya<br>keberatan yang diajukan oleh kreditur dan<br>penyelesaiannya, jikaterdapat keberatan.||||
 |3.|Surat pernyataan bermeterai dari pihak yang<br>mengambil alih tentang sumber dana yang<br>digunakan untuk mengambil alih BPR atau<br>BPR<br>Syariah<br>dan<br>komitmen<br>untuk<br>melaksanakan Pengambilalihan.||||
 
-
 -----
 
 Bagian V
@@ -5397,7 +5285,6 @@ PENCABUTAN IZIN USAHA ATAS PERMINTAAN PEMEGANG SAHAM
 |4.|Laporan keuangan terakhir, disertai dengan<br>proyeksi laporan keuangan BPR atau BPR<br>Syariah terhitung sejak periode terakhir<br>laporan pada saat pengajuan permohonan<br>sampai dengan proyeksi laporan posisi<br>keuangan tanggal penutupan.||||
 |5.|Bukti penyelesaian pajak dan kewajiban lain<br>kepada negara, antara lain pungutan OJK,<br>premi<br>Lembaga<br>Penjamin<br>Simpanan,<br>ataupun<br>kewajiban<br>lain<br>seperti<br>sanksi<br>administratifberupa denda kepada otoritas.||||
 
-
 -----
 
 Kami yang bertanda tangan di bawah ini menyatakan bahwa daftar periksa telah
@@ -5408,7 +5295,6 @@ peraturan perundang-undangan.
 (Tempat), (tanggal-bulan-tahun)
 (Tanda tangan)
 (Nama lengkap Direksi)
-
 
 -----
 
@@ -5482,10 +5368,11 @@ MAHENDRA SIREGAR
 |5.|Laporan posisi keuangan akhir BPR atau<br>BPR<br>Syariah<br>termasuk<br>laporan<br>hasil<br>verifikasi dari kantor akuntan publik atas<br>penyelesaian kewajiban BPR atau BPR<br>Syariah.||||
 |6.|Surat pernyataan bermeterai dari pemegang<br>saham<br>BPR<br>atau<br>BPR<br>Syariah<br>yang<br>menyatakan bahwa seluruh kewajiban BPR<br>atau BPR Syariah telah diselesaikan dan<br>apabila terdapat tuntutan di kemudian hari<br>menjadi tanggung jawab pemegang saham.||||
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -5496,8 +5383,6 @@ NOMOR 7 TAHUN 2024
 TENTANG
 BANK PEREKONOMIAN RAKYAT DAN
 BANK PEREKONOMIAN RAKYAT SYARIAH
-
-I. UMUM
 
 Sebagai salah satu jenis bank, BPR dan BPR Syariah memiliki peranan
 penting dalam memenuhi kebutuhan nasabah tidak hanya terhadap akses
@@ -5542,17 +5427,14 @@ Syariah, dan Peraturan OJK Nomor 21/POJK.03/2019 tentang
 Penggabungan, Peleburan, dan Pengambilalihan Bank Perkreditan Rakyat
 dan Bank Pembiayaan Rakyat Syariah.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
 
 
 -----
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Huruf a
@@ -5579,9 +5461,7 @@ transformasi LKM menjadi BPR atau BPR Syariah.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Huruf a
@@ -5602,9 +5482,7 @@ Ayat (3)
 Pertimbangan tertentu antara lain didasarkan pada faktor
 ekonomi dan sosial wilayah tertentu serta kelangsungan bisnis
 BPR atau BPR Syariah.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Huruf a
 
 Termasuk perseroan terbatas yaitu perusahaan perseroan
@@ -5612,9 +5490,7 @@ daerah.
 Huruf b
 
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Huruf a
 
 Perubahan PSP termasuk penggantian PSP dan/atau
@@ -5628,9 +5504,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 Modal disetor bagi BPR berbentuk badan hukum Koperasi yaitu
@@ -5670,9 +5544,7 @@ persaingan lembaga jasa keuangan yang paling rendah.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Bilyet deposito yang tidak dapat memuat keterangan mengenai
@@ -5701,13 +5573,9 @@ menempatkan modal disetor dalam bentuk deposito paling
 sedikit Rp15.000.000.000,00 (lima belas miliar rupiah) pada
 saat pengajuan permohonan persetujuan prinsip pendirian
 BPR Syariah.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Ayat (1)
 
 Permohonan persetujuan prinsip ditujukan kepada Kepala
@@ -5737,13 +5605,9 @@ dan kepatutan bagi pihak utama lembaga jasa
 keuangan.
 Angka 3
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Permohonan persetujuan izin usaha ditujukan kepada Kepala
@@ -5770,9 +5634,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Yang dimaksud dengan “kegiatan usaha” adalah kegiatan yang
@@ -5803,9 +5665,7 @@ pajak terutang, dan biaya lain yang relevan, serta penyelesaian
 pajak dan kewajiban lain kepada negara.
 Yang dimaksud dengan “perintah tertulis” adalah perintah tertulis
 sesuai dengan Peraturan OJK mengenai perintah tertulis.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Kata “Bank” di depan nama BPR, bentuk badan hukum, dan frasa
@@ -5830,9 +5690,7 @@ a. Bank Syariah Maju Terus
 PT Bank Perekonomian Rakyat Syariah Maju Terus
 b. Bank Maju Syariah
 Koperasi BPR Syariah Maju Terus
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Cukup jelas.
@@ -5870,9 +5728,7 @@ BUS yang tidak diperkenankan bagi BPR atau BPR Syariah
 dan/atau penyesuaian jenis dan wilayah jaringan kantor, serta
 laporan realisasi pelaksanaan rencana tindak yang disampaikan
 kepada OJK.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Ayat (1)
 
 Permohonan ditujukan kepada Kepala Eksekutif Pengawas
@@ -5897,9 +5753,7 @@ dilakukan dalam bentuk keputusan yang salinannya
 ditembuskan kepada pihak yang berkepentingan, antara lain:
 a. Bank Indonesia; dan
 b. Lembaga Penjamin Simpanan.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 
 Rencana tindak merupakan bagian dari dokumen persyaratan
@@ -5915,9 +5769,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Cukup jelas.
@@ -5928,13 +5780,9 @@ Ayat (3)
 
 Instansi yang berwenang adalah kementerian yang
 melaksanakan urusan pemerintahan di bidang hukum.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Ayat (1)
 
 Huruf a
@@ -5978,24 +5826,16 @@ BUK atau BUS.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
 
 
 -----
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 
 Keputusan perubahan izin usaha yang ditetapkan oleh OJK
@@ -6008,21 +5848,13 @@ Ayat (2)
 Pengenaan sanksi administratif dan penetapan kewajiban untuk
 menjadi BPR atau BPR Syariah dilakukan antara lain sesuai
 dengan Peraturan OJK mengenai konsolidasi bank umum.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Cukup jelas.
@@ -6038,17 +5870,11 @@ utama lembaga jasa keuangan.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Yang dimaksud dengan “modal sendiri bersih” bagi:
@@ -6072,17 +5898,11 @@ Permintaan dimaksud dilakukan antara lain dalam rangka
 memastikan pemenuhan ketentuan mengenai kepemilikan BPR
 atau BPR Syariah atau dalam rangka pelaksanaan tugas
 pengawasan.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Ayat (1)
 
 Yang dimaksud dengan “pemilik” adalah pemegang saham, PSP,
@@ -6117,13 +5937,9 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Ayat (1)
 
 Cukup jelas.
@@ -6186,16 +6002,12 @@ perusahaan publik;
 10. penggabungan usaha atau peleburan usaha
 perusahaan terbuka; dan
 11. pengambilalihan perusahaan terbuka.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Pengadministrasian dokumen dalam daftar pemegang saham bagi BPR
 atau BPR Syariah yang berbadan hukum perseroan terbatas.
 Pengadministrasian dokumen dalam buku daftar anggota bagi BPR
 atau BPR Syariah yang berbadan hukum koperasi.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Ayat (1)
 
 Cukup jelas.
@@ -6220,29 +6032,17 @@ Yang dimaksud dengan “pengendalian” adalah suatu tindakan
 yang bertujuan untuk memengaruhi pengelolaan dan/atau
 kebijakan pada BPR atau BPR Syariah dengan cara apapun, baik
 secara langsung maupun tidak langsung.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Cukup jelas.
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Cukup jelas.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Cukup jelas.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Cukup jelas.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Ayat (1)
 
 Cukup jelas.
@@ -6264,17 +6064,11 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Cukup jelas.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Cukup jelas.
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Ayat (1)
 
 Cukup jelas.
@@ -6289,17 +6083,11 @@ Cukup jelas.
 
 
 -----
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Ayat (1)
 
 Cukup jelas.
@@ -6320,9 +6108,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Ayat (1)
 
 Sebelum memperoleh persetujuan OJK, calon anggota Direksi
@@ -6339,13 +6125,9 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Cukup jelas.
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Ayat (1)
 
 Pemberhentian anggota Direksi dan anggota Dewan Komisaris
@@ -6372,21 +6154,13 @@ keuangan.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Cukup jelas.
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Cukup jelas.
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Cukup jelas.
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56
 Ayat (1)
 
 Cukup jelas.
@@ -6405,13 +6179,9 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
 Ayat (1)
 
 Terminal Perbankan Elektronik merupakan alat atau mesin
@@ -6423,9 +6193,7 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59
 Ayat (1)
 
 Yang dimaksud dengan “pembukaan kantor” adalah pembukaan
@@ -6444,13 +6212,9 @@ Cukup jelas.
 
 
 -----
-
-Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60
 Cukup jelas.
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61
 Ayat (1)
 
 Yang dimaksud dengan “hari dan jam kerja operasional” adalah
@@ -6493,9 +6257,7 @@ OJK.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Ayat (1)
 
 Cukup jelas.
@@ -6520,13 +6282,9 @@ sementara sebagian kegiatan operasional.
 
 
 -----
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Cukup jelas.
-
-Pasal 64
-
+#### Pasal 64 ^penjelasan-pasal-64
 Ayat (1)
 
 Cukup jelas.
@@ -6540,9 +6298,7 @@ Ayat (4)
 
 Laporan ditujukan kepada Kantor OJK sesuai dengan lokasi
 tempat kedudukan BPR atau BPR Syariah.
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Ayat (1)
 
 Cukup jelas.
@@ -6566,17 +6322,11 @@ bagi BPR dan BPR Syariah.
 Huruf d
 
 Lihat penjelasan Pasal 62 ayat (2) huruf d.
-
-Pasal 66
-
+#### Pasal 66 ^penjelasan-pasal-66
 Cukup jelas.
-
-Pasal 67
-
+#### Pasal 67 ^penjelasan-pasal-67
 Cukup jelas.
-
-Pasal 68
-
+#### Pasal 68 ^penjelasan-pasal-68
 Ayat (1)
 
 Huruf a
@@ -6611,9 +6361,7 @@ dan/atau Kantor Pusat.
 Sebagai contoh, PT BPR A memiliki Kantor Cabang yang berlokasi
 di Kabupaten X. PT BPR A dapat membuka kantor Sentra
 Keuangan Khusus di kecamatan pada Kabupaten X.
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -6623,41 +6371,23 @@ Huruf b
 Cukup jelas.
 Huruf c
 Lihat penjelasan Pasal 62 ayat (2) huruf d.
-
-Pasal 70
-
+#### Pasal 70 ^penjelasan-pasal-70
 Cukup jelas.
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71
 Cukup jelas.
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Cukup jelas.
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73
 Cukup jelas.
-
-Pasal 74
-
+#### Pasal 74 ^penjelasan-pasal-74
 Cukup jelas.
-
-Pasal 75
-
+#### Pasal 75 ^penjelasan-pasal-75
 Cukup jelas.
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76
 Cukup jelas.
-
-Pasal 77
-
+#### Pasal 77 ^penjelasan-pasal-77
 Cukup jelas.
-
-Pasal 78
-
+#### Pasal 78 ^penjelasan-pasal-78
 Ayat (1)
 
 Pemindahan sementara disebabkan keadaan kahar atau kondisi
@@ -6674,9 +6404,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 79
-
+#### Pasal 79 ^penjelasan-pasal-79
 Ayat (1)
 
 Cukup jelas.
@@ -6686,29 +6414,17 @@ Cukup jelas.
 Ayat (3)
 
 Lihat penjelasan Pasal 35 ayat (3) huruf a.
-
-Pasal 80
-
+#### Pasal 80 ^penjelasan-pasal-80
 Cukup jelas.
-
-Pasal 81
-
+#### Pasal 81 ^penjelasan-pasal-81
 Cukup jelas.
-
-Pasal 82
-
+#### Pasal 82 ^penjelasan-pasal-82
 Cukup jelas.
-
-Pasal 83
-
+#### Pasal 83 ^penjelasan-pasal-83
 Cukup jelas.
-
-Pasal 84
-
+#### Pasal 84 ^penjelasan-pasal-84
 Cukup jelas.
-
-Pasal 85
-
+#### Pasal 85 ^penjelasan-pasal-85
 Ayat (1)
 
 Cukup jelas.
@@ -6721,13 +6437,9 @@ Cukup jelas.
 Ayat (4)
 
 Lihat penjelasan Pasal 64 ayat (4).
-
-Pasal 86
-
+#### Pasal 86 ^penjelasan-pasal-86
 Cukup jelas.
-
-Pasal 87
-
+#### Pasal 87 ^penjelasan-pasal-87
 Ayat (1)
 
 Cukup jelas.
@@ -6752,9 +6464,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 88
-
+#### Pasal 88 ^penjelasan-pasal-88
 Ayat (1)
 
 Ketentuan peraturan perundang-undangan antara lain UndangUndang mengenai perseroan terbatas dan Undang-Undang
@@ -6762,17 +6472,11 @@ mengenai perkoperasian.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 89
-
+#### Pasal 89 ^penjelasan-pasal-89
 Cukup jelas.
-
-Pasal 90
-
+#### Pasal 90 ^penjelasan-pasal-90
 Cukup jelas.
-
-Pasal 91
-
+#### Pasal 91 ^penjelasan-pasal-91
 Ayat (1)
 
 Lihat penjelasan Pasal 88 ayat (1).
@@ -6782,25 +6486,15 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 92
-
+#### Pasal 92 ^penjelasan-pasal-92
 Cukup jelas.
-
-Pasal 93
-
+#### Pasal 93 ^penjelasan-pasal-93
 Cukup jelas.
-
-Pasal 94
-
+#### Pasal 94 ^penjelasan-pasal-94
 Cukup jelas.
-
-Pasal 95
-
+#### Pasal 95 ^penjelasan-pasal-95
 Cukup jelas.
-
-Pasal 96
-
+#### Pasal 96 ^penjelasan-pasal-96
 Ayat (1)
 
 Huruf a
@@ -6813,13 +6507,9 @@ Cukup jelas.
 Ayat (2)
 
 Lihat penjelasan Pasal 88 ayat (1).
-
-Pasal 97
-
+#### Pasal 97 ^penjelasan-pasal-97
 Cukup jelas.
-
-Pasal 98
-
+#### Pasal 98 ^penjelasan-pasal-98
 Ayat (1)
 
 Huruf a
@@ -6837,9 +6527,7 @@ perintah tertulis.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 99
-
+#### Pasal 99 ^penjelasan-pasal-99
 Ayat (1)
 
 Cukup jelas.
@@ -6862,9 +6550,7 @@ Pertimbangan tertentu antara lain keadaan kahar atau
 pertimbangan lain seperti sisa hak dan kewajiban dari kegiatan
 usaha secara konvensional yang masih harus diselesaikan tidak
 signifikan.
-
-Pasal 100
-
+#### Pasal 100 ^penjelasan-pasal-100
 Ayat (1)
 
 Cukup jelas.
@@ -6890,9 +6576,7 @@ memiliki kantor di Provinsi Jawa Tengah dan Provinsi Jawa
 Timur. PT BPR Syariah A dapat melakukan pembukaan Kantor
 Cabang atau Kantor Kas baru di Provinsi Jawa Tengah dan/atau
 Provinsi Jawa Timur.
-
-Pasal 101
-
+#### Pasal 101 ^penjelasan-pasal-101
 Ayat (1)
 
 Huruf a
@@ -6914,9 +6598,7 @@ Lihat penjelasan Pasal 9 ayat (4) huruf b angka 2.
 
 Huruf b
 Cukup jelas.
-
-Pasal 102
-
+#### Pasal 102 ^penjelasan-pasal-102
 Ayat (1)
 
 Huruf a
@@ -6935,9 +6617,7 @@ Penetapan persyaratan yang berbeda didasarkan pada
 pertimbangan antara lain upaya untuk mendukung kebijakan
 pemerintah dan/atau mengakselerasi konsolidasi BPR atau BPR
 Syariah dengan tetap memperhatikan prinsip kehati-hatian.
-
-Pasal 103
-
+#### Pasal 103 ^penjelasan-pasal-103
 Ayat (1)
 
 Yang dimaksud dengan “masing-masing” adalah Direksi BPR,
@@ -6950,13 +6630,9 @@ a. komisaris utama; atau
 b. 1 (satu) atau lebih anggota Dewan Komisaris yang mewakili
 BPR, BPR Syariah, dan/atau LKM sebagaimana diatur dalam
 anggaran dasar.
-
-Pasal 104
-
+#### Pasal 104 ^penjelasan-pasal-104
 Cukup jelas.
-
-Pasal 105
-
+#### Pasal 105 ^penjelasan-pasal-105
 Ayat (1)
 
 Penyampaian permohonan kepada OJK ditujukan kepada Kepala
@@ -6990,9 +6666,7 @@ Cukup jelas.
 Angka 4
 
 Cukup jelas.
-
-Pasal 106
-
+#### Pasal 106 ^penjelasan-pasal-106
 Ayat (1)
 
 Cukup jelas.
@@ -7002,13 +6676,9 @@ Pihak yang berkepentingan antara lain kreditur, masyarakat, dan
 mitra usaha lain dari BPR, BPR Syariah, dan/atau LKM agar
 mengetahui rencana Penggabungan atau Peleburan dan
 mengajukan keberatan jika terdapat kepentingan yang dirugikan.
-
-Pasal 107
-
+#### Pasal 107 ^penjelasan-pasal-107
 Cukup jelas.
-
-Pasal 108
-
+#### Pasal 108 ^penjelasan-pasal-108
 Ayat (1)
 
 Harga yang wajar antara lain didasarkan pada penilaian dari
@@ -7021,9 +6691,7 @@ Ayat (3)
 Menghambat proses pelaksanaan Penggabungan atau Peleburan
 antara lain pemegang saham atau PSP menolak harga yang wajar
 hasil penilaian dari penilai independen.
-
-Pasal 109
-
+#### Pasal 109 ^penjelasan-pasal-109
 Ayat (1)
 
 Persetujuan RUPS termasuk:
@@ -7049,28 +6717,18 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 110
-
+#### Pasal 110 ^penjelasan-pasal-110
 Cukup jelas.
-
-Pasal 111
-
+#### Pasal 111 ^penjelasan-pasal-111
 Cukup jelas.
-
-Pasal 112
-
+#### Pasal 112 ^penjelasan-pasal-112
 Cukup jelas.
 
 
 -----
-
-Pasal 113
-
+#### Pasal 113 ^penjelasan-pasal-113
 Cukup jelas.
-
-Pasal 114
-
+#### Pasal 114 ^penjelasan-pasal-114
 Ayat (1)
 
 Huruf a
@@ -7096,9 +6754,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 115
-
+#### Pasal 115 ^penjelasan-pasal-115
 Ayat (1)
 
 Yang dimaksud dengan “pihak” adalah orang perseorangan atau
@@ -7110,9 +6766,7 @@ BPR Syariah” antara lain dengan menjaga tingkat kesehatan BPR
 atau BPR Syariah yang tidak boleh lebih rendah daripada tingkat
 kesehatan sebelum BPR atau BPR Syariah diambil alih dan tidak
 melakukan pengalihan saham dalam jangka waktu tertentu.
-
-Pasal 116
-
+#### Pasal 116 ^penjelasan-pasal-116
 Ayat (1)
 
 Huruf a
@@ -7168,9 +6822,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 117
-
+#### Pasal 117 ^penjelasan-pasal-117
 Ayat (1)
 
 Penyusunan rancangan Pengambilalihan oleh pihak yang akan
@@ -7179,9 +6831,7 @@ dari badan hukum yang akan melakukan Pengambilalihan.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 118
-
+#### Pasal 118 ^penjelasan-pasal-118
 Ayat (1)
 
 Konsep akta Pengambilalihan dituangkan dalam format akta
@@ -7189,13 +6839,9 @@ notaris.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 119
-
+#### Pasal 119 ^penjelasan-pasal-119
 Lihat penjelasan Pasal 115 ayat (1).
-
-Pasal 120
-
+#### Pasal 120 ^penjelasan-pasal-120
 Lihat penjelasan Pasal 115 ayat (1).
 Ayat (1)
 
@@ -7220,9 +6866,7 @@ kreditur dan mitra usaha lainnya dari BPR atau BPR Syariah dan
 badan hukum yang akan melakukan Pengambilalihan agar
 mengetahui rencana Pengambilalihan dan mengajukan keberatan
 dalam hal terdapat kepentingan yang dirugikan.
-
-Pasal 121
-
+#### Pasal 121 ^penjelasan-pasal-121
 Ayat (1)
 
 Lihat penjelasan Pasal 115 ayat (1).
@@ -7238,9 +6882,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 122
-
+#### Pasal 122 ^penjelasan-pasal-122
 Ayat (1)
 
 Lihat penjelasan Pasal 108 ayat (1).
@@ -7252,29 +6894,17 @@ Ayat (3)
 Menghambat proses pelaksanaan Pengambilalihan antara lain
 pemegang saham atau PSP menolak harga yang wajar hasil
 penilaian dari penilai independen.
-
-Pasal 123
-
+#### Pasal 123 ^penjelasan-pasal-123
 Cukup jelas.
-
-Pasal 124
-
+#### Pasal 124 ^penjelasan-pasal-124
 Cukup jelas.
-
-Pasal 125
-
+#### Pasal 125 ^penjelasan-pasal-125
 Cukup jelas.
-
-Pasal 126
-
+#### Pasal 126 ^penjelasan-pasal-126
 Cukup jelas.
-
-Pasal 127
-
+#### Pasal 127 ^penjelasan-pasal-127
 Cukup jelas.
-
-Pasal 128
-
+#### Pasal 128 ^penjelasan-pasal-128
 Ayat (1)
 
 Perintah tertulis berlaku baik untuk BPR atau BPR Syariah yang
@@ -7322,9 +6952,7 @@ rancangan Penggabungan, Peleburan, atau Pengambilalihan.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 129
-
+#### Pasal 129 ^penjelasan-pasal-129
 Ayat (1)
 
 Cukup jelas.
@@ -7346,9 +6974,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 130
-
+#### Pasal 130 ^penjelasan-pasal-130
 Ayat (1)
 
 Penilaian kriteria kepemilikan dan/atau pengendalian PSP
@@ -7411,13 +7037,9 @@ penyehatan dan memiliki permasalahan keuangan
 signifikan. Berdasarkan penilaian OJK, PT BPR Syariah C
 dapat tidak diikutsertakan dalam proses konsolidasi BPR
 Syariah milik Tuan Y.
-
-Pasal 131
-
+#### Pasal 131 ^penjelasan-pasal-131
 Cukup jelas.
-
-Pasal 132
-
+#### Pasal 132 ^penjelasan-pasal-132
 Ayat (1)
 
 Huruf a
@@ -7468,9 +7090,7 @@ Tindakan atau langkah yang diperlukan antara lain
 melaksanakan audit kesiapan teknologi informasi dan sistem
 pengendalian internal oleh pihak independen dan/atau audit
 internal secara umum atau tematik.
-
-Pasal 133
-
+#### Pasal 133 ^penjelasan-pasal-133
 Contoh:
 PT BPR A, PT BPR B, dan PT BPR C yang berlokasi di Provinsi
 Kalimantan Selatan milik Tuan X diwajibkan untuk melakukan
@@ -7485,9 +7105,7 @@ Timur.
 PT BPR D diwajibkan untuk melakukan Penggabungan atau Peleburan
 dengan BPR hasil Penggabungan atau Peleburan dari PT BPR A, PT
 BPR B, dan PT BPR C dengan jangka waktu paling lambat 1 April 2027.
-
-Pasal 134
-
+#### Pasal 134 ^penjelasan-pasal-134
 Ayat (1)
 
 Contoh: PT X merupakan PSP yang telah menyelesaikan
@@ -7504,13 +7122,9 @@ Cukup jelas.
 
 
 -----
-
-Pasal 135
-
+#### Pasal 135 ^penjelasan-pasal-135
 Cukup jelas.
-
-Pasal 136
-
+#### Pasal 136 ^penjelasan-pasal-136
 Ayat (1)
 
 Huruf a
@@ -7554,9 +7168,7 @@ Ayat (6)
 
 Amortisasi dilakukan sesuai dengan prinsip yang diatur dalam
 standar akuntansi.
-
-Pasal 137
-
+#### Pasal 137 ^penjelasan-pasal-137
 Ayat (1)
 
 Cukup jelas.
@@ -7575,9 +7187,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 138
-
+#### Pasal 138 ^penjelasan-pasal-138
 Ayat (1)
 
 Sinergi perbankan antara lain pemanfaatan infrastruktur berupa
@@ -7681,9 +7291,7 @@ Ayat (9)
 Sinergi perbankan yang berkaitan dengan produk dilakukan
 sesuai dengan Peraturan OJK mengenai penyelenggaraan produk
 BPR dan BPR Syariah.
-
-Pasal 139
-
+#### Pasal 139 ^penjelasan-pasal-139
 Ayat (1)
 
 Opini DPS bertujuan untuk memastikan pelaksanaan sinergi
@@ -7702,9 +7310,7 @@ nasabah menjadi layanan pemasaran melalui elektronik
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 140
-
+#### Pasal 140 ^penjelasan-pasal-140
 Ayat (1)
 
 Cukup jelas.
@@ -7723,13 +7329,9 @@ Cukup jelas.
 Ayat (6)
 
 Lihat penjelasan Pasal 27 ayat (3).
-
-Pasal 141
-
+#### Pasal 141 ^penjelasan-pasal-141
 Cukup jelas.
-
-Pasal 142
-
+#### Pasal 142 ^penjelasan-pasal-142
 Ayat (1)
 
 Cukup jelas.
@@ -7757,9 +7359,7 @@ Ayat (6)
 Perhitungan seluruh kewajiban, pajak, dan kewajiban lain milik
 BPR atau BPR Syariah dilakukan sampai dengan berakhirnya
 proses cabut izin usaha.
-
-Pasal 143
-
+#### Pasal 143 ^penjelasan-pasal-143
 Ayat (1)
 
 Huruf a
@@ -7783,56 +7383,32 @@ dan kantor akuntan publik dalam kegiatan jasa keuangan.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 144
-
+#### Pasal 144 ^penjelasan-pasal-144
 Cukup jelas.
-
-Pasal 145
-
+#### Pasal 145 ^penjelasan-pasal-145
 Cukup jelas.
-
-Pasal 146
-
+#### Pasal 146 ^penjelasan-pasal-146
 Cukup jelas.
-
-Pasal 147
-
+#### Pasal 147 ^penjelasan-pasal-147
 Cukup jelas.
-
-Pasal 148
-
+#### Pasal 148 ^penjelasan-pasal-148
 Cukup jelas.
-
-Pasal 149
-
+#### Pasal 149 ^penjelasan-pasal-149
 Cukup jelas.
-
-Pasal 150
-
+#### Pasal 150 ^penjelasan-pasal-150
 Cukup jelas.
-
-Pasal 151
-
+#### Pasal 151 ^penjelasan-pasal-151
 Cukup jelas.
 
 
 -----
-
-Pasal 152
-
+#### Pasal 152 ^penjelasan-pasal-152
 Cukup jelas.
-
-Pasal 153
-
+#### Pasal 153 ^penjelasan-pasal-153
 Cukup jelas.
-
-Pasal 154
-
+#### Pasal 154 ^penjelasan-pasal-154
 Cukup jelas.
-
-Pasal 155
-
+#### Pasal 155 ^penjelasan-pasal-155
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 79/OJK
@@ -7840,3 +7416,162 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 79/OJK
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 74 | [[#^penjelasan-pasal-74]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 80 | [[#^penjelasan-pasal-80]] |
+| Pasal 81 | [[#^penjelasan-pasal-81]] |
+| Pasal 82 | [[#^penjelasan-pasal-82]] |
+| Pasal 83 | [[#^penjelasan-pasal-83]] |
+| Pasal 84 | [[#^penjelasan-pasal-84]] |
+| Pasal 85 | [[#^penjelasan-pasal-85]] |
+| Pasal 86 | [[#^penjelasan-pasal-86]] |
+| Pasal 87 | [[#^penjelasan-pasal-87]] |
+| Pasal 88 | [[#^penjelasan-pasal-88]] |
+| Pasal 89 | [[#^penjelasan-pasal-89]] |
+| Pasal 90 | [[#^penjelasan-pasal-90]] |
+| Pasal 91 | [[#^penjelasan-pasal-91]] |
+| Pasal 92 | [[#^penjelasan-pasal-92]] |
+| Pasal 93 | [[#^penjelasan-pasal-93]] |
+| Pasal 94 | [[#^penjelasan-pasal-94]] |
+| Pasal 95 | [[#^penjelasan-pasal-95]] |
+| Pasal 96 | [[#^penjelasan-pasal-96]] |
+| Pasal 97 | [[#^penjelasan-pasal-97]] |
+| Pasal 98 | [[#^penjelasan-pasal-98]] |
+| Pasal 99 | [[#^penjelasan-pasal-99]] |
+| Pasal 100 | [[#^penjelasan-pasal-100]] |
+| Pasal 101 | [[#^penjelasan-pasal-101]] |
+| Pasal 102 | [[#^penjelasan-pasal-102]] |
+| Pasal 103 | [[#^penjelasan-pasal-103]] |
+| Pasal 104 | [[#^penjelasan-pasal-104]] |
+| Pasal 105 | [[#^penjelasan-pasal-105]] |
+| Pasal 106 | [[#^penjelasan-pasal-106]] |
+| Pasal 107 | [[#^penjelasan-pasal-107]] |
+| Pasal 108 | [[#^penjelasan-pasal-108]] |
+| Pasal 109 | [[#^penjelasan-pasal-109]] |
+| Pasal 110 | [[#^penjelasan-pasal-110]] |
+| Pasal 111 | [[#^penjelasan-pasal-111]] |
+| Pasal 112 | [[#^penjelasan-pasal-112]] |
+| Pasal 113 | [[#^penjelasan-pasal-113]] |
+| Pasal 114 | [[#^penjelasan-pasal-114]] |
+| Pasal 115 | [[#^penjelasan-pasal-115]] |
+| Pasal 116 | [[#^penjelasan-pasal-116]] |
+| Pasal 117 | [[#^penjelasan-pasal-117]] |
+| Pasal 118 | [[#^penjelasan-pasal-118]] |
+| Pasal 119 | [[#^penjelasan-pasal-119]] |
+| Pasal 120 | [[#^penjelasan-pasal-120]] |
+| Pasal 121 | [[#^penjelasan-pasal-121]] |
+| Pasal 122 | [[#^penjelasan-pasal-122]] |
+| Pasal 123 | [[#^penjelasan-pasal-123]] |
+| Pasal 124 | [[#^penjelasan-pasal-124]] |
+| Pasal 125 | [[#^penjelasan-pasal-125]] |
+| Pasal 126 | [[#^penjelasan-pasal-126]] |
+| Pasal 127 | [[#^penjelasan-pasal-127]] |
+| Pasal 128 | [[#^penjelasan-pasal-128]] |
+| Pasal 129 | [[#^penjelasan-pasal-129]] |
+| Pasal 130 | [[#^penjelasan-pasal-130]] |
+| Pasal 131 | [[#^penjelasan-pasal-131]] |
+| Pasal 132 | [[#^penjelasan-pasal-132]] |
+| Pasal 133 | [[#^penjelasan-pasal-133]] |
+| Pasal 134 | [[#^penjelasan-pasal-134]] |
+| Pasal 135 | [[#^penjelasan-pasal-135]] |
+| Pasal 136 | [[#^penjelasan-pasal-136]] |
+| Pasal 137 | [[#^penjelasan-pasal-137]] |
+| Pasal 138 | [[#^penjelasan-pasal-138]] |
+| Pasal 139 | [[#^penjelasan-pasal-139]] |
+| Pasal 140 | [[#^penjelasan-pasal-140]] |
+| Pasal 141 | [[#^penjelasan-pasal-141]] |
+| Pasal 142 | [[#^penjelasan-pasal-142]] |
+| Pasal 143 | [[#^penjelasan-pasal-143]] |
+| Pasal 144 | [[#^penjelasan-pasal-144]] |
+| Pasal 145 | [[#^penjelasan-pasal-145]] |
+| Pasal 146 | [[#^penjelasan-pasal-146]] |
+| Pasal 147 | [[#^penjelasan-pasal-147]] |
+| Pasal 148 | [[#^penjelasan-pasal-148]] |
+| Pasal 149 | [[#^penjelasan-pasal-149]] |
+| Pasal 150 | [[#^penjelasan-pasal-150]] |
+| Pasal 151 | [[#^penjelasan-pasal-151]] |
+| Pasal 152 | [[#^penjelasan-pasal-152]] |
+| Pasal 153 | [[#^penjelasan-pasal-153]] |
+| Pasal 154 | [[#^penjelasan-pasal-154]] |
+| Pasal 155 | [[#^penjelasan-pasal-155]] |

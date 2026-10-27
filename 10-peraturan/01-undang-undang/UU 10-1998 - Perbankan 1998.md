@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan atas UU 7-1992 tentang Perbankan
+**Perubahan atas UU 7-1992 tentang Perbankan**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -37,7 +43,7 @@ last_updated: 2026-10-28
 PRESIDEN
 REPUBLIK INDONESIA
 
-# UNDANG-UNDANG REPUBLIK INDONESIA
+**UNDANG-UNDANG REPUBLIK INDONESIA**
 
  NOMOR 10 TAHUN 1998
 
@@ -85,14 +91,13 @@ REPUBLIK INDONESIA
 
  Tahun 1992 tentang Perbankan dengan Undang-undang;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                            - 2 
-# Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 23, dan Pasal 33
+                            - 2
+**Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 23, dan Pasal 33**
 
  Undang-Undang Dasar 1945;
 
@@ -134,14 +139,13 @@ REPUBLIK INDONESIA
 
  Dalam Undang-undang ini yang dimaksud dengan:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-               - 3 
-# 1. Perbankan adalah segala sesuatu yang menyangkut tentang bank,
+               - 3
+**1. Perbankan adalah segala sesuatu yang menyangkut tentang bank,**
 
  mencakup kelembagaan, kegiatan usaha, serta cara dan proses
 
@@ -195,14 +199,13 @@ REPUBLIK INDONESIA
 
  sertifikat bukti penyimpanannya dapat dipindahtangankan;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-               - 4 
-# 9. Tabungan adalah simpanan yang penarikannya hanya dapat
+               - 4
+**9. Tabungan adalah simpanan yang penarikannya hanya dapat**
 
  dilakukan menurut syarat tertentu yang disepakati, tetapi tidak
 
@@ -256,14 +259,13 @@ REPUBLIK INDONESIA
 
  beli barang dengan memperoleh keuntungan (murabahah), atau
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-               - 5 
-# pilihan (ijarah), atau dengan adanya pilihan pemindahan
+               - 5
+**pilihan (ijarah), atau dengan adanya pilihan pemindahan**
 
  kepemilikan atas barang yang disewa dari pihak bank oleh pihak
 
@@ -319,14 +321,13 @@ REPUBLIK INDONESIA
 
  22.Pihak Terafiliasi adalah:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-               - 6 
-# pejabat, atau karyawan bank;
+               - 6
+**pejabat, atau karyawan bank;**
 
  b. anggota pengurus, pengawas, pengelola atau kuasanya,
 
@@ -380,14 +381,13 @@ REPUBLIK INDONESIA
 
  27.Akuisisi adalah pengambilalihan kepemilikan suatu bank;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                 - 7 
-# keterangan mengenai nasabah penyimpanan dan simpanannya."
+                 - 7
+**keterangan mengenai nasabah penyimpanan dan simpanannya."**
 
  2. Ketentuan Pasal 6 huruf k dihapus.
 
@@ -437,14 +437,13 @@ REPUBLIK INDONESIA
 
  diperjanjikan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                 - 8 
-# (2) Bank Umum wajib memiliki dan menerapkan pedoman
+                 - 8
+**(2) Bank Umum wajib memiliki dan menerapkan pedoman**
 
  perkreditan dan pembiayaan berdasarkan Prinsip Syariah, sesuai
 
@@ -492,14 +491,13 @@ REPUBLIK INDONESIA
 
  c. anggota Direksi;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                 - 9 
-# d. keluarga dari pihak sebagaimana dimaksud dalam huhruf
+                 - 9
+**d. keluarga dari pihak sebagaimana dimaksud dalam huhruf**
 
  a, huruf b, dan huruf c;
 
@@ -543,14 +541,13 @@ REPUBLIK INDONESIA
 
  8. Menambah ketentuan baru di antara Pasal 12 dan Pasal 13 yang
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 10 
-# dijadikan Pasal 12A, yang berbunyi sebagai berikut:
+                - 10
+**dijadikan Pasal 12A, yang berbunyi sebagai berikut:**
 
  "Pasal 12
 
@@ -590,14 +587,13 @@ REPUBLIK INDONESIA
 
  sebagai berikut:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 11 
-# "Pasal 16
+                - 11
+**"Pasal 16**
 
  (1) Setiap pihak yang melakukan kegiatan menghimpun dana dari
 
@@ -637,14 +633,13 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 12 
-# "Pasal 18
+                - 12
+**"Pasal 18**
 
  (1) Pembukaan kantor cabang Bank Umum hanya dapat dilakukan
 
@@ -686,14 +681,13 @@ REPUBLIK INDONESIA
 
  menjadi berbunyi sebagai berikut:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 13 
-# "Pasal 20
+                - 13
+**"Pasal 20**
 
  (1) Pembukaan kantor cabang, kantor cabang pembantu, dan kantor
 
@@ -727,14 +721,13 @@ REPUBLIK INDONESIA
 
  atau
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 14 
-# b. Warga negara Indonesia dan atau badan hukum Indonesia
+                - 14
+**b. Warga negara Indonesia dan atau badan hukum Indonesia**
 
  dengan warga negara asing dan atau badan hukum asing
 
@@ -778,14 +771,13 @@ REPUBLIK INDONESIA
 
  b dilaporkan kepada Bank Indonesia "
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 15 
-# 19.Ketentuan Pasal 28 ayat (1) diubah, sehingga Pasal 28 ayat (1)
+                - 15
+**19.Ketentuan Pasal 28 ayat (1) diubah, sehingga Pasal 28 ayat (1)**
 
  menjadi berbunyi sebagai berikut:
 
@@ -827,14 +819,13 @@ REPUBLIK INDONESIA
 
  dengan transaksi nasabah yang dilakukan melalui bank.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 16 
-# (5) Ketentuan yang wajib dipenuhi oleh bank sebagaimana dimaksud
+                - 16
+**(5) Ketentuan yang wajib dipenuhi oleh bank sebagaimana dimaksud**
 
  dalam ayat (2), ayat (3), dan ayat (4) ditetapkan oleh Bank
 
@@ -868,14 +859,13 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 17 
-# "Pasal 33
+                - 17
+**"Pasal 33**
 
  (1) Laporan pemeriksaan bank sebagaimana dimaksud dalam Pasal
 
@@ -919,14 +909,13 @@ REPUBLIK INDONESIA
 
  kegiatan bank kepada pihak lain;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 18 
-# g. bank menjual sebagian atau seluruh harta dan atau kewajiban
+                - 18
+**g. bank menjual sebagian atau seluruh harta dan atau kewajiban**
 
  bank kepada bank atau pihak lain.
 
@@ -978,14 +967,13 @@ REPUBLIK INDONESIA
 
  kepada Dewan Perwakilan Rakyat Republik Indonesia dapat
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-             - 19 
-# membentuk badan khusus yang bersifat sementara dalam rangka
+             - 19
+**membentuk badan khusus yang bersifat sementara dalam rangka**
 
  penyehatan Perbankan.
 
@@ -1041,14 +1029,13 @@ REPUBLIK INDONESIA
 
  memerlukan persetujuan Nasabah Debitur;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 20 
-# g. mengalihkan pengelolaan kekayaan dan atau menajemen bank
+           - 20
+**g. mengalihkan pengelolaan kekayaan dan atau menajemen bank**
 
  kepada pihak lain;
 
@@ -1102,14 +1089,13 @@ REPUBLIK INDONESIA
 
  a sampai dengan huruf m.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-             - 21 
-# (4) Tindakan penyehatan Perbankan oleh badan khusus sebagaimana
+             - 21
+**(4) Tindakan penyehatan Perbankan oleh badan khusus sebagaimana**
 
  dimaksud dalam ayat (3) adalah sah berdasarkan Undang-undang
 
@@ -1127,7 +1113,9 @@ REPUBLIK INDONESIA
 
  diperlukan dalam rangka memperoleh keterangan, dokumen, dan
 
- penjelasan yang diperoleh bank dimaksud.
+## Penjelasan
+
+### I. Umum
 
  (6) Pihak-pihak sebagaimana dimaksud dalam ayat (3) huruf k wajib
 
@@ -1159,14 +1147,13 @@ REPUBLIK INDONESIA
 
  dimaksud dalam ayat (1) dibentuk Lembaga Penjamin Simpanan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 22 
-# (3) Lembaga Penjamin Simpanan sebagaimana dimaksud dalam ayat
+                - 22
+**(3) Lembaga Penjamin Simpanan sebagaimana dimaksud dalam ayat**
 
  (2) berbentuk badan hukum Indonesia.
 
@@ -1214,14 +1201,13 @@ REPUBLIK INDONESIA
 
  dijadikan Pasal 41A, yang berbunyi sebagai berikut:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 23 
-# "Pasal 41A
+                - 23
+**"Pasal 41A**
 
  (1) Untuk penyelesaian piutang bank yang sudah diserahkan kepada
 
@@ -1271,14 +1257,13 @@ REPUBLIK INDONESIA
 
  I d i J k A t K t M hk h A
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 24 
-# (3) Permintaan sebagaimana dimaksud dalam ayat (2) harus
+                - 24
+**(3) Permintaan sebagaimana dimaksud dalam ayat (2) harus**
 
  menyebutkan nama dan jabatan polisi, jaksa, atau hakim, nama
 
@@ -1322,14 +1307,13 @@ REPUBLIK INDONESIA
 
  tersebut."
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 25 
-# 33.Keterangan Pasal 46 ayat (1) diubah, sehingga Pasal 46 ayat (1)
+                - 25
+**33.Keterangan Pasal 46 ayat (1) diubah, sehingga Pasal 46 ayat (1)**
 
  menjadi berbunyi sebagai berikut:
 
@@ -1383,14 +1367,13 @@ REPUBLIK INDONESIA
 
  dan paling banyak Rp 8.000.000.000,00 (delapan miliar rupiah)."
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 26 
-# 35.Menambah ketentuan baru di antara Pasal 47 dan Pasal 48 yang
+                - 26
+**35.Menambah ketentuan baru di antara Pasal 47 dan Pasal 48 yang**
 
  dijadikan Pasal 47A, yang berbunyi sebagai berikut:
 
@@ -1440,14 +1423,13 @@ REPUBLIK INDONESIA
 
  P l 34 t (1) d t (2) di d id k
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 27 
-# sekurang-kurangnya 1 (satu) tahun dan paling lama 2 (dua) tahun
+                - 27
+**sekurang-kurangnya 1 (satu) tahun dan paling lama 2 (dua) tahun**
 
  dan atau denda sekurang-kurangnya Rp 1.000.000.000,00 (satu
 
@@ -1499,14 +1481,13 @@ REPUBLIK INDONESIA
 
  belas) tahun serta denda sekurang-kurangnya
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 28 
-# Rp10.000.000.000,00 (sepuluh miliar rupiah) dan paling
+                - 28
+**Rp10.000.000.000,00 (sepuluh miliar rupiah) dan paling**
 
  banyak Rp200.000.000.000,00 (dua ratus miliar rupiah).
 
@@ -1558,14 +1539,13 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 29 
-# "Pasal 50
+                - 29
+**"Pasal 50**
 
  Pihak Terafiliasi yang dengan sengaja tidak melaksanakan
 
@@ -1613,14 +1593,13 @@ REPUBLIK INDONESIA
 
  menjadi berbunyi sebagai berikut:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 30 
-# "Pasal 51
+                - 30
+**"Pasal 51**
 
  (1) Tindak pidana sebagaimana dimaksud dalam Pasal 46, Pasal 47,
 
@@ -1666,14 +1645,13 @@ REPUBLIK INDONESIA
 
  f. pemberhentian pengurus bank dan selanjutnya menunjuk dan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                - 31 
-# mengangkat pengganti sementara sampai Rapat Umum
+                - 31
+**mengangkat pengganti sementara sampai Rapat Umum**
 
  Pemegang Saham atau Rapat Anggota Koperasi mengangkat
 
@@ -1719,14 +1697,13 @@ REPUBLIK INDONESIA
 
  Kadipaten Paku Alaman (Rijksblaad Dari Daerah Paku Alaman
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 32 
-# Tahun 1937 Nomor 9), dinyatakan tidak berlaku.
+                          - 32
+**Tahun 1937 Nomor 9), dinyatakan tidak berlaku.**
 
  2. Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
@@ -1760,13 +1737,12 @@ REPUBLIK INDONESIA
 
  LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1998 NOMOR 182
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-# PENJELASAN
+**PENJELASAN**
 
  ATAS
 
@@ -1826,14 +1802,13 @@ REPUBLIK INDONESIA
 
  berperan secara maksimal dalam perekonomian nasional.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                            - 2 
-# Agar pembinaan dan pengawasan bank dapat terlaksana secara efektif,
+                            - 2
+**Agar pembinaan dan pengawasan bank dapat terlaksana secara efektif,**
 
  kewenangan dan tanggung jawab mengenai perizinan bank, yang semula berada pada
 
@@ -1893,14 +1868,13 @@ REPUBLIK INDONESIA
 
  aspek yang ditatausahakan bank merupakan hal-hal yang dirahasiakan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                            - 3 
-# Untuk menunjang kinerja Perbankan nasional diperlukan lembaga penunjang, baik
+                            - 3
+**Untuk menunjang kinerja Perbankan nasional diperlukan lembaga penunjang, baik**
 
  yang dimaksudkan untuk sementara waktu dalam rangka mengatasi persoalan Perbankan
 
@@ -1956,14 +1930,13 @@ REPUBLIK INDONESIA
 
  Angka 1
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                            - 4 
-# Butir 1 sampai dengan Butir 28
+                            - 4
+**Butir 1 sampai dengan Butir 28**
 
  Cukup jelas
 
@@ -2021,14 +1994,13 @@ REPUBLIK INDONESIA
 
  Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                            - 5 
-# Pasal 7
+                            - 5
+**Pasal 7**
 
  Huruf c
 
@@ -2084,14 +2056,13 @@ REPUBLIK INDONESIA
 
  yang diperjanjikan merupakan faktor penting yang harus diperhatikan oleh bank.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                        - 6 
-# Untuk memperoleh keyakinan tersebut, sebelum memberikan kredit, bank
+                        - 6
+**Untuk memperoleh keyakinan tersebut, sebelum memberikan kredit, bank**
 
  harus melakukan penilaian yang seksama terhadap watak, kemampuan, modal,
 
@@ -2151,14 +2122,13 @@ REPUBLIK INDONESIA
 
  f. penyelesaian sengketa.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                            - 7 
-# Angka 6
+                            - 7
+**Angka 6**
 
  Cukup jelas
 
@@ -2214,14 +2184,13 @@ REPUBLIK INDONESIA
 
  Huruf e
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                            - 8 
-# Cukup jelas
+                            - 8
+**Cukup jelas**
 
  Huruf f
 
@@ -2273,14 +2242,13 @@ REPUBLIK INDONESIA
 
  Syariah dengan tingkat bagi hasil yang rendah;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                            - 9 
-# c. Subsidi bunya atau bagi hasil yang menjadi beban Anggaran Pendapatan
+                            - 9
+**c. Subsidi bunya atau bagi hasil yang menjadi beban Anggaran Pendapatan**
 
  dan Belanja Negara.
 
@@ -2334,14 +2302,13 @@ REPUBLIK INDONESIA
 
  Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 10 
-# Pasal 13
+                          - 10
+**Pasal 13**
 
  Huruf c
 
@@ -2399,14 +2366,13 @@ REPUBLIK INDONESIA
 
  lembaga-lembaga tersebut, diatur dengan undang-undang tersendiri.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                      - 11 
-# Ayat (2)
+                      - 11
+**Ayat (2)**
 
  Dalam hal memberikan izin usaha sebagai Bank Umum dan Bank
 
@@ -2464,14 +2430,13 @@ REPUBLIK INDONESIA
 
  f. batas waktu pemberian izin pendirian bank.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 12 
-# Angka 11
+                          - 12
+**Angka 11**
 
  Cukup jelas
 
@@ -2525,14 +2490,13 @@ REPUBLIK INDONESIA
 
  lengkap;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 13 
-# f. batas waktu dan alasan penolakan;
+                          - 13
+**f. batas waktu dan alasan penolakan;**
 
  g. batas waktu pelaporan pembukaan kantor di bawah kantor cabang.
 
@@ -2584,14 +2548,13 @@ REPUBLIK INDONESIA
 
  f. batas waktu dan alasan penolakan;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 14 
-# Angka 14
+                          - 14
+**Angka 14**
 
  Cukup jelas
 
@@ -2641,14 +2604,13 @@ REPUBLIK INDONESIA
 
  Usaha Milik Daerah, koperasi, dan badan usaha milik swasta.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 15 
-# Huruf b
+                          - 15
+**Huruf b**
 
  Dalam hal salah satu pihak yang akan mendirikan Bank Umum
 
@@ -2700,14 +2662,13 @@ REPUBLIK INDONESIA
 
  turut serta memiliki Bank Umum.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 16 
-# Ayat (3)
+                          - 16
+**Ayat (3)**
 
  Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan
 
@@ -2763,14 +2724,13 @@ REPUBLIK INDONESIA
 
  akuisisi yang dilakukan, tidak boleh merugikan kepentingan para nasabah.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 17 
-# Angka 20
+                          - 17
+**Angka 20**
 
  Cukup jelas
 
@@ -2824,14 +2784,13 @@ REPUBLIK INDONESIA
 
  transparansi dalam dunia Perbankan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 18 
-# Informasi tersebut dapat memuat keadaan bank, termasuk kecukupan modal
+                          - 18
+**Informasi tersebut dapat memuat keadaan bank, termasuk kecukupan modal**
 
  dan kualitas aset.
 
@@ -2883,14 +2842,13 @@ REPUBLIK INDONESIA
 
  Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 19 
-# Pasal 31A
+                          - 19
+**Pasal 31A**
 
  Pemeriksaan terhadap bank yang dilakukan oleh Akuntan Publik adalah
 
@@ -2944,14 +2902,13 @@ REPUBLIK INDONESIA
 
  Dalam ayat ini ditetapkan langkah-langkah yang perlu dilakukan terhadap
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 20 
-# bank yang mengalami kesulitan dan membahayakan kelangsungan usahanya, agar
+                          - 20
+**bank yang mengalami kesulitan dan membahayakan kelangsungan usahanya, agar**
 
  tidak terjadi pencabutan izin usahanya dan atau tindakan likuiditas sebagaimana
 
@@ -3003,14 +2960,13 @@ REPUBLIK INDONESIA
 
  Anggaran Pendapatan dan Belanja Negara.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                      - 21 
-# Mengingat hal tersebut diatas, dalam hal pembentukan badan khusus
+                      - 21
+**Mengingat hal tersebut diatas, dalam hal pembentukan badan khusus**
 
  sebagaimana dimaksud dalam ayat (1), Pemerintah memerlukan konsultasi dengan
 
@@ -3068,20 +3024,17 @@ REPUBLIK INDONESIA
 
  sebagai pemilik.
 
-
 -----
 
-# Huruf d
-
+**Huruf d**
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-         - 22 
-# Dalam hal peninjauan ulang, pembatalan, pengakhiran, dan
+         - 22
+**Dalam hal peninjauan ulang, pembatalan, pengakhiran, dan**
 
-
-# atau perubahan kontrak oleh badan khusus tersebut menimbulkan
+**atau perubahan kontrak oleh badan khusus tersebut menimbulkan**
 
  kerugian bagi suatu pihak, pihak tersebut hanya dapat menuntut
 
@@ -3139,14 +3092,13 @@ REPUBLIK INDONESIA
 
  dengan putusan pengadilan yang telah memiliki kekuatan hukum
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 23 
-# tetap. Dalam hal tindakan penagihan piutang tidak diindahkan oleh
+                  - 23
+**tetap. Dalam hal tindakan penagihan piutang tidak diindahkan oleh**
 
  pihak berutang, badan khusus dapat melakukan penyitaan atas hak
 
@@ -3204,14 +3156,13 @@ REPUBLIK INDONESIA
 
  bank itu.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                      - 24 
-# Huruf m
+                      - 24
+**Huruf m**
 
  Cukup jelas
 
@@ -3261,14 +3212,13 @@ REPUBLIK INDONESIA
 
  a. pendirian badan khusus;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 25 
-# b. anggaran dan pengeluaran badan khusus;
+                          - 25
+**b. anggaran dan pengeluaran badan khusus;**
 
  c. tata cara penagihan piutang bank dalam program penyehatan;
 
@@ -3320,14 +3270,13 @@ REPUBLIK INDONESIA
 
  d. kewajiban bank untuk menjadi anggota.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 26 
-# Angka 27
+                          - 26
+**Angka 27**
 
  Cukup jelas
 
@@ -3377,14 +3326,13 @@ REPUBLIK INDONESIA
 
  Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 27 
-# Ayat (3)
+                          - 27
+**Ayat (3)**
 
  Cukup jelas
 
@@ -3432,14 +3380,13 @@ REPUBLIK INDONESIA
 
  Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 28 
-# Pasal 46
+                          - 28
+**Pasal 46**
 
  Ayat (1)
 
@@ -3493,15 +3440,14 @@ REPUBLIK INDONESIA
 
  Ayat (2)
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-     - 29 
+     - 29
 
-# Huruf a
+**Huruf a**
 
  Yang dimaksud dengan pegawai bank adalah semua pejabat bank
 
@@ -3553,14 +3499,13 @@ REPUBLIK INDONESIA
 
  terbentuk ketaatan yang tinggi terhadap ketentuan dalam Undang-undang ini.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 30 
-# Mengenai tindak pidana kejahatan yang dilakukan oleh anggota Komisaris,
+                          - 30
+**Mengenai tindak pidana kejahatan yang dilakukan oleh anggota Komisaris,**
 
  Direksi, atau pegawai Bank Perkreditan Rakyat pada dasarnya berlaku
 
@@ -3608,14 +3553,13 @@ REPUBLIK INDONESIA
 
  Pasal 59A
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                          - 31 
-# Badan khusus yang dimaksud dalam ketentuan ini bersifat sementara, dengan tugas
+                          - 31
+**Badan khusus yang dimaksud dalam ketentuan ini bersifat sementara, dengan tugas**
 
  khusus melakukan langkah-langkah yang diperlukan untuk menyehatkan
 
@@ -3633,6 +3577,4 @@ REPUBLIK INDONESIA
 
  TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3790
 
-
 -----
-

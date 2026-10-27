@@ -23,6 +23,18 @@ dan 14 putusan MK.
 | Aturan pemeliharaan | `AGENTS.md` |
 | Riwayat perubahan | `90-log/log.md` |
 
+## Mengutip & menautkan (pola baku)
+
+```markdown
+Norma:        [[UU 4-2023 - P2SK#^pasal-44]]
+Penjelasan:   [[UU 4-2023 - P2SK#^penjelasan-pasal-44]]
+Kutip utuh:   ![[UU 4-2023 - P2SK#^penjelasan-pasal-44]]
+```
+
+Penjelasan resmi tinggal di halaman induknya (satu sumber kebenaran) — catatan analisis cukup
+menjadi transklusi. Dengan begitu: teks tidak terduplikasi, perubahan penjelasan ikut terbaca di semua
+tempat, dan chunk RAG tetap punya `anchor` unik.
+
 ## Untuk pipeline AI
 
 - `90-log/manifest.jsonl` — satu baris per dokumen: `id`, `jenis`, `nomor`, `tahun`, `judul`, `status`,

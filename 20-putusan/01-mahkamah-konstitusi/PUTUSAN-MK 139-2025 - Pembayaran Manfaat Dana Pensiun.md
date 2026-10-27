@@ -19,10 +19,16 @@ sumber: "https://s.mkri.id/public/content/persidangan/putusan/putusan_mkri_14530
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Putusan MK Nomor 139/PUU-XXIII/2025 — Pembayaran Manfaat Pensiun (Pasal 161 ayat (2) dan Pasal 164 ayat (2) UU P2SK)
+**Putusan MK Nomor 139/PUU-XXIII/2025 — Pembayaran Manfaat Pensiun (Pasal 161 ayat (2) dan Pasal 164 ayat (2) UU P2SK)**
 
 **Status:** `berlaku`
 
@@ -93,7 +99,6 @@ Kabupaten Mimika, Provinsi Papua;
 
 Sebagai ------------------------------------------------------------- Pemohon IV;
 
-
 -----
 
 2
@@ -158,7 +163,6 @@ Nomor 139/PUU-XXIII/2025, yang telah diperbaiki dengan perbaikan permohonan
 bertanggal 4 September 2025 dan diterima Mahkamah pada tanggal 3 September
 
 2025, pada pokoknya menguraikan hal-hal sebagai berikut.
-
 
 -----
 
@@ -230,7 +234,6 @@ disebut PMK 7/2025) menyatakan, “Permohonan pengujian materiil sebagaimana
 
 dimaksud pada ayat (2) adalah pengujian yang berkenaan dengan materi muatan
 
-
 -----
 
 4
@@ -299,7 +302,6 @@ diberikan oleh UUD 1945 yang diakibatkan oleh berlakunya undang-undang
 yang dimohonkan pengujian dalam kedudukan sebagaimana dimaksud pada
 
 huruf a;
-
 
 -----
 
@@ -372,7 +374,6 @@ Dana Pensiun Freeport Indonesia sebagaimana dibuktikan dengan ketentuan
 Pasal 29 ayat (1) Keputusan Direksi PT Freeport Indonesia No: 620/OPD
 PTFI/10/2021 tentang Peraturan Dana Pensiun Dari Dana Pensiun Freeport
 
-
 -----
 
 6
@@ -442,7 +443,6 @@ Pensiun Freeport Indonesia yang menganggap hak konstitusionalnya untuk
 bekerja serta mendapat imbalan dan perlakuan yang adil dan layak dalam
 
 hubungan kerja, dan hak atas penghidupan yang layak, serta hak atas kepastian
-
 
 -----
 
@@ -516,7 +516,6 @@ P-10 berupa Pay Slip), berdasarkan platform digital “SIMULASI PERHITUNGAN
 
 MANFAAT PENSIUN” yang dimiliki PT Freeport Indonesia yang dapat diakses
 
-
 -----
 
 8
@@ -587,7 +586,6 @@ tiga belas rupiah) (Bukti P-8 berupa _Pay Slip), berdasarkan platform digital_
 “SIMULASI PERHITUNGAN MANFAAT PENSIUN” yang dimiliki PT Freeport
 
 Indonesia yang dapat diakses setiap Peserta Dana Pensiun pada Dana Pensiun
-
 
 -----
 
@@ -661,7 +659,6 @@ mendapat uang pesangon dan uang penghargaan masa kerja atas terjadinya
 
 pemutusan hubungan kerja (PHK) karena alasan memasuki usia pensiun
 
-
 -----
 
 10
@@ -733,7 +730,6 @@ pensiun pada saatnya nanti, para Pemohon selaku pekerja/buruh tidak dapat
 
 lagi menikmati imbalan 100% (seratus persen) manfaat pensiun atau uang
 
-
 -----
 
 11
@@ -797,7 +793,6 @@ Pensiun Freeport Indonesia sebesar Rp9.852.282,- setiap bulan;
 29. Bahwa Pemohon II, dengan mendapatkan pembayaran manfaat pensiun secara
 
 sekaligus sebesar Rp1.558.676.875,- maka dengan harga rata-rata
-
 
 -----
 
@@ -867,7 +862,6 @@ Pensiun Freeport Indonesia sebesar Rp5.107.466,-, bahkan lebih besar;
 kontrakan, para Pemohon juga akan mendapat keuntungan dari kenaikan harga
 
 tanah setiap waktu. Selain itu, para Pemohon juga akan dengan sendirinya
-
 
 -----
 
@@ -940,7 +934,6 @@ Kembali.
 materi muatan dalam UUD NRI Tahun 1945 yang dijadikan dasar pengujian
 berbeda atau terdapat alasan permohonan yang berbeda.
 
-
 -----
 
 14
@@ -983,7 +976,6 @@ diuraikan dalam tabel berikut:
 |**Dasar**<br>**Pengujian**|Pasal 28H ayat (4),<br>Pasal 28I ayat (1),<br>Pasal 28I ayat (2) dan<br>Pasal 28D ayat (1)<br>UUD NRI 1945|Pasal 28D ayat (2) dan Pasal 27 ayat<br>(2) UUD NRI 1945|
 |**Alasan**<br>**Permohonan**|1. Manfaat<br>pensiun<br>merupakan<br>hak<br>milik<br>pribadi<br>peserta;<br>2. Norma yang diuji<br>merupakan aturan<br>yang memaksa;<br>3. Norma yang diuji<br>menghalangi para<br>Pemohon<br>berusaha;<br>4. Trauma<br>atas<br>kejadian<br>pada<br>asuransi Jiwasra-<br>ya<br>dengan<br>kerugian<br>negara<br>13,79<br>Triliun,<br>kasus<br>AJB<br>Bumiputera 1912|1. Program pensiun para Pemohon<br>adalah program pensiun sukarela,<br>bukan<br>wajib,<br>karenanya<br>pembayaran<br>manfaat<br>pensiun<br>tidak boleh dibatasi;<br>2. Manfaat<br>Dana<br>Pensiun<br>para<br>Pemohon adalah pengganti uang<br>pesangon dan uang penghargaan<br>masa kerja;<br>3. Janda/duda atau anak atau ahli<br>waris dari para Pemohon yang<br>meninggal dunia akan dirugikan <br>40%;<br>4. Tidak jelas kepada siapa dibayar<br>sisa Manfaat Dana Pensiun jika<br>Peserta atau Istri/Janda atau Anak<br>meninggal dunia sebelum berakhir<br>jangka waktu 10 tahun;|
 
-
 -----
 
 15
@@ -1018,7 +1010,6 @@ diuraikan dalam tabel berikut:
 ||**Perkara**<br>**Nomor**<br>**61/PUU-**<br>**XXIII/2025**|**Permohonan/Perkara****_A Quo_ **|
 |**Dasar**<br>**Pengujian**|Pasal 28D ayat (1),<br>Pasal 28H ayat (4),<br>Pasal 28I ayat (2),<br>dan Pasal 33 ayat<br>(4) UUD NRI 1945|Pasal 28D ayat (2), Pasal 27 ayat (2)<br>dan Pasal 28D ayat (1) UUD NRI 1945|
 |**Alasan**<br>**Permohonan**|1. Manfaat pensi-<br>un merupakan<br>hak milik pribadi<br>peserta;<br>2. Norma<br>yang<br>diuji merupakan<br>aturan<br>yang<br>memaksa;<br>3. Norma<br>yang<br>diuji<br>bertenta-<br>ngan<br>dengan<br>prinsip<br>demo-<br>krasi ekonomi;<br>4. Norma<br>yang<br>diuji<br>berlaku<br>diskriminatif;|1. Program pensiun para Pemohon<br>adalah program pensiun sukarela,<br>bukan wajib, karenanya pembayaran<br>manfaat pensiun tidak boleh dibatasi;<br>2. Manfaat<br>Dana<br>Pensiun<br>para<br>Pemohon adalah pengganti uang<br>pesangon dan uang penghargaan<br>masa kerja;<br>3. Janda/duda atau anak atau ahli waris<br>dari para Pemohon yang meninggal<br>dunia akan dirugikan 40%;<br>4. Tidak jelas kepada siapa dibayar sisa<br>Manfaat Dana Pensiun jika Peserta<br>atau Istri/Janda atau Anak meninggal<br>dunia sebelum berakhir jangka waktu<br>10 tahun;<br>5. Norma<br>yang<br>diuji<br>mencabut<br>kebahagiaan para Pemohon untuk<br>membuka usaha, hidup layak, sehat<br>dan umur panjang;<br>6. Norma<br>yang<br>diuji<br>bertentangan<br>dengan asas kepastian hukum;|
-
 
 -----
 
@@ -1090,7 +1081,6 @@ Pasal 164 ayat (2) UU 4/2023 tidak terhalang oleh keberlakuan Pasal 60 ayat
 
 |Col1|Col2|7. Para Pemohon trauma dengan<br>fenomena korupsi, fraud dan salah<br>investasi;<br>8. Seluruh peserta Dana Pensiun pada<br>Dana Pensiun Freeport Indonesia<br>menolak pembayaran Manfaat Dana<br>Pensiun secara berkala;|
 |---|---|---|
-
 
 -----
 
@@ -1164,7 +1154,6 @@ Jaminan Kematian (JKM), Jaminan Hari Tua (JHT), Jaminan Pensiun (JP), dan
 
 Jaminan Kehilangan Pekerjaan (JKP). PT TASPEN mengelola tabungan hari
 
-
 -----
 
 18
@@ -1235,7 +1224,6 @@ puluh persen) secara berkala selama 10 (sepuluh) tahun dengan cara membeli
 produk anuitas dari perusahaan asuransi jiwa, atau paling tidak para Pemohon
 
 dapat menerima pembayaran manfaat pensiun sebagaimana dahulu diatur
-
 
 -----
 
@@ -1309,7 +1297,6 @@ Februari 2023 yang amar angka 6 berbunyi, “Menyatakan pembayaran uang
 
 pesangon dan uang penghargaan masa kerja kepada Tergugat sebagaimana
 
-
 -----
 
 20
@@ -1380,7 +1367,6 @@ mendapat manfaat pensiun atau uang pesangon dan uang penghargaan masa
 
 kerja untuk sebagian [20% (dua puluh persen) secara sekaligus dan sisanya
 
-
 -----
 
 21
@@ -1449,7 +1435,6 @@ pensiunan yang menerima pembayaran Manfaat Pensiun secara bulanan
 meninggal dunia, maka Manfaat Pensiun yang dibayarkan kepada Janda/Duda
 
 dan anak adalah sebesar 60% (enam puluh persen) dari Manfaat Pensiun yang
-
 
 -----
 
@@ -1523,7 +1508,6 @@ meninggal dunia maka yang berhak mendapat manfaat pensiun adalah pihak
 
 yang telah ditunjuk oleh peserta;
 
-
 -----
 
 23
@@ -1593,7 +1577,6 @@ rupiah) (vide Bukti P-20). Dengan harga sewa Rp500.000,- (lima ratus ribu
 rupiah) perbulan maka Pemohon I akan mendapat penghasilan bersih dari
 
 kontrakan sebesar Rp10.000.000,- (sepuluh juta rupiah) per bulan setelah
-
 
 -----
 
@@ -1665,7 +1648,6 @@ filosofis pembentukan UU 6/2023 yang juga mengatur perlindungan hak-hak
 
 pekerja/buruh, di mana pada konsiderans menimbang huruf a dinyatakan:
 
-
 -----
 
 25
@@ -1735,7 +1717,6 @@ pendidikan. Dan jikapun Pasal 39 ayat (4) huruf c POJK 27/2023 menyatakan,
 “Manfaat Pensiun kepada anak dapat dibayarkan sampai anak mencapai usia
 
 paling tinggi 25 (dua puluh lima) tahun.” dan Pasal 1 angka a PDP yang
-
 
 -----
 
@@ -1809,7 +1790,6 @@ penghidupan yang layak bagi kemanusiaan.” serta Pasal 28D ayat (2) UUD NRI
 
 imbalan dan perlakuan yang adil dan layak dalam hubungan kerja.";
 
-
 -----
 
 27
@@ -1878,7 +1858,6 @@ berjudul “Terungkap Investasi Fiktif di Taspen Bikin Negara Tekor Rp 1 T”,
 
 diunduh di https://news.detik.com/berita/d-7936412/terungkap-investasi-fiktif-di
 taspen-bikin-negara-tekor-rp-1-t, 29 Juli 2025;
-
 
 -----
 
@@ -1951,7 +1930,6 @@ dalam Pasal 161 ayat (2) dan Pasal 164 ayat (2) UU 4/2023 telah berpotensi
 
 merugikan hak konstitusional para Pemohon untuk mendapat imbalan yang adil
 
-
 -----
 
 29
@@ -2021,7 +1999,6 @@ a. Manfaat pensiun merupakan hak milik pribadi peserta;
 b. Norma yang diuji merupakan aturan yang memaksa;
 
 c. Norma yang diuji bertentangan dengan prinsip demokrasi ekonomi; dan
-
 
 -----
 
@@ -2093,7 +2070,6 @@ membuat konstruksi inti permohon sebagai berikut:
   - Menyatakan Pasal 161 ayat (2) UU 4/2023 yang menyatakan, “Pembayaran
 
 Manfaat Pensiun bagi Peserta, Janda/Duda, atau anak harus dilakukan
-
 
 -----
 
@@ -2167,7 +2143,6 @@ perkara untuk “menyatakan” ketentuan-ketentuan (norma-norma) dalam POJK
 
 ayat (2) UU 4/2023 harus dianggap tidak berlaku lagi;
 
-
 -----
 
 32
@@ -2237,7 +2212,6 @@ Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan
 Lembaran Negara Republik Indonesia Nomor 6845) yang menyatakan,
 
 “Peraturan Dana Pensiun dapat memuat ketentuan yang mengatur pilihan
-
 
 -----
 
@@ -2315,7 +2289,6 @@ Pensiun;
 
 Londoran;
 
-
 -----
 
 34
@@ -2390,15 +2363,12 @@ Freeport Indonesia, bertanggal 6 Maret 2025, Nomor:
 Org. 02/SP-SB/PTFI/III/2025, perihal Penyampaian
 Aspirasi Pekerja/Buruh PT Freeport Indonesia kepada
 
-
 -----
 
 35
 
-
 Direktur Pengawasan Dana Pensiun Otoritas Jasa
 Keuangan;
-
 
 27. Bukti P-27 : Fotokopi bundel surat keluhan/penolakan dari 496
 
@@ -2467,7 +2437,6 @@ Perusahaan;
 
 43. Bukti P-38 : Fotokopi ID Card atas nama Munir Tjaya;
 
-
 -----
 
 36
@@ -2534,7 +2503,6 @@ dengan norma UU Ketengakerjaan yang diubah baik Pasal dan ayat, yang sulit
 dipahami termasuk sulit dipahami pekerja/buruh dan jika dibiarkan berlarut-larut
 
 tata kelola dan hukum ketenagakerjaan mudah terperosok dalam ancaman
-
 
 -----
 
@@ -2607,7 +2575,6 @@ Perpu tersebut disetujui DPR menjadi Undang-Undang Nomor 6 tahun
 
 tersebut telah memberi kewenangan baru kepada Presiden untuk
 
-
 -----
 
 38
@@ -2678,7 +2645,6 @@ nasional yang bertujuan untuk menjamin kesinambungan penghasilan peserta
 
 di masa pensiun, sejalan dengan prinsip negara kesejahteraan (welfare state)
 
-
 -----
 
 39
@@ -2745,12 +2711,11 @@ Di lain pihak Keterangan Pemerintah yang diwakili oleh Kementerian Tenaga
 
 Kerja menyatakan hal-hal sebagai berikut:
 
-## 1. Jaminan kesejahteraan pekerja/buruh yang memasuki usia pensiun telah
+**1. Jaminan kesejahteraan pekerja/buruh yang memasuki usia pensiun telah**
 
 diatur sejak lama, baik melalui UU Ketenagakerjaan maupun melalui
 
 Peraturan Menteri Ketenagakerjaan, yang menegaskan prinsip bahwa hak
-
 
 -----
 
@@ -2760,7 +2725,7 @@ pekerja/buruh yang timbul akibat berakhirnya hubungan kerja, termasuk
 
 pensiun, wajib dibayarkan secara tunai atau lumpsum;
 
-## 2. Peraturan Menteri Tenaga Kerja nomor 3 Tahun 1996 tentang Pemutusan
+**2. Peraturan Menteri Tenaga Kerja nomor 3 Tahun 1996 tentang Pemutusan**
 
 Hubungan Kerja dan Penetapan Uang Pesangon, uang jasa, dan ganti
 
@@ -2774,7 +2739,7 @@ bentuk perlindungan ekonomi untuk menjamin kelangsungan hidup
 
 pekerja/buruh setelah berakhir masa kerja yang harus dibayarkan sekaligus;
 
-## 3. Bahwa pembayaran uang pesangon, uang penghargaan masa kerja dan
+**3. Bahwa pembayaran uang pesangon, uang penghargaan masa kerja dan**
 
 ganti kerugian di perusahaan harus dilakukan secara tunai, dan hak
 
@@ -2782,7 +2747,7 @@ pekerja/buruh yang timbul akibat berakhirnya hubungan kerja tidak dapat
 
 ditunda atau dikonversi dalam bentuk pembayaran berkala;
 
-## 4. Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan dalam
+**4. Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan dalam**
 
 Pasal 167 ayat (5) menetapkan bahwa pengusaha wajib memberikan uang
 
@@ -2800,7 +2765,7 @@ memandang hak pesangon buruh yang pensiun bersifat imperatif dan tidak
 
 dapat dibayar secara berkala;
 
-## 5. Bahwa kemudian dalam Undang-Undang Nomor 6 Tahun 2023 tentang
+**5. Bahwa kemudian dalam Undang-Undang Nomor 6 Tahun 2023 tentang**
 
 Penetapan Perpu Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang
 Undang, dalam Pasal 156 ayat (1) Undang-Undang _a quo menegaskan_
@@ -2815,14 +2780,13 @@ pengusaha untuk menunda atau mencicil pembayaran, melainkan harus
 
 dilakukan secara penuh dan sekaligus atau lumpsum, dan bukan bertahap;
 
-## 6. Bahwa dari perspektif hukum ketenaga kerjaan, manfaat pesangon adalah
+**6. Bahwa dari perspektif hukum ketenaga kerjaan, manfaat pesangon adalah**
 
 sebagai perlindungan finansial pekerja/buruh atas hilangnya pendapatan
 
 tetap karena pemutusan hubungan kerja dan sebagai penghargaan atas
 
 masa kerja dan kontribusi yang telah diberikan oleh buruh/pekerja yang
-
 
 -----
 
@@ -2842,7 +2806,7 @@ Pasal 156 ayat (1) Undang-Undang Nomor 6 Tahun 2023 dan Pasal 185 ayat
 
 (1) Undang-Undang Nomor 1 Tahun 20023;
 
-## 7. Pasal 185 Undang-Undang Nomor 6 Tahun 2023 tidak memberikan
+**7. Pasal 185 Undang-Undang Nomor 6 Tahun 2023 tidak memberikan**
 
 pengecualian bagi pengusaha yang beralasan telah mengikuti program
 
@@ -2878,7 +2842,7 @@ pembayaran uang pesangon, uang penghargaan masa kerja, serta uang
 
 pisah, bagian mana harus dibayarkan secara sekaligus;
 
-## 8. Bahwa dalam pelaksanaan dan penafsiran kebijakan terkait dana pensiun,
+**8. Bahwa dalam pelaksanaan dan penafsiran kebijakan terkait dana pensiun,**
 
 seluruh pemangku kepentingan termasuk lembaga keuangan
 
@@ -2896,12 +2860,11 @@ sekaligus atau lumpsum pada saat hubungan kerja berakhir, termasuk
 
 karena pensiun, sebagaimana diattur dalam UU Ketenagakerjaan.
 
-
 -----
 
 42
 
-## 9. Pembayaran sekaligus komponen pesangon, uang penghargaan masa kerja
+**9. Pembayaran sekaligus komponen pesangon, uang penghargaan masa kerja**
 
 dan uang pisah yang ada dalam dana pensiun merupakan bentuk
 
@@ -2967,7 +2930,6 @@ tertinggi, dasar negara, pandangan hidup bangsa dan nilai-nilai hukum yang dianu
 
 dalam konstitusi.
 
-
 -----
 
 43
@@ -3020,7 +2982,7 @@ dalam interpretasi teks konstitusi, karena interpretasi dalam ilmu hukum lazim
 
 diperkenalkan sebagai metode dalam menemukan pemaknaan teks. Teori
 
-konstitusi juga harus dapat menjelaskan bagaimana sebuah gagasan atau 
+konstitusi juga harus dapat menjelaskan bagaimana sebuah gagasan atau
 pemikiran tumbuh menjadi konstitusi, dan kemudian mengapa orang mematuhi
 
 konstitusi itu ketika suatu pilihan kebijakan berdasar konstitusi diputuskan dengan
@@ -3036,7 +2998,6 @@ MK se Asia tanggal 9 Augustus, bahwa MK merupakan pengawal ideologi negara
 dan demokrasi. Juga disebutkan bahwa MK melalui putusan-putusannya, berperan
 
 menjaga dan mengawal UUD 1945. Dalam kerangka menjaga konstitusi itulah MK
-
 
 -----
 
@@ -3103,7 +3064,6 @@ haruslah dapat dites dengan kriteria moral. Politik hukurn berbicara "apa yang
 seharusnya" -what is ought - yang tidak selamanya identik dengan "'apa yang ada
 
 - _what is._ Jadi titik tolak politik hukum adalah visi hukum. Berdasarkan visi atau
-
 
 -----
 
@@ -3177,7 +3137,6 @@ judicial review di MK. Konsep hak-hak manusia _(human rights)_ adalah untuk
 
 melindungi orang perorang terhadap tindakan Negara yang berlebihan, dan
 
-
 -----
 
 46
@@ -3250,7 +3209,6 @@ mengembangkannya secara progresif. Putusan hakim MK dengan demikian
 
 menjadi kebijakan publik yang memuat bimbingan, arahan dan rambu-rambu yang
 
-
 -----
 
 47
@@ -3318,7 +3276,6 @@ mensyaratkan intervensi negara, dan bukan abstensi, dengan tujuan mencapai
 partisipasi yang merata dalam produksi dan distribusi hasilnya dengan adil, berasal
 
 dari filosofi sosialisme.
-
 
 -----
 
@@ -3388,7 +3345,6 @@ yang dialami UUD 1945. Harmoni yang diimpikan dari satu konstitusi boleh jadi
 sangat jauh dari kenyataan. Tetapi justru merupakan tugas hakim konstitusi untuk
 
 membangun konstitusi sebagai satu dokumen yang utuh dan harmonis _(the_
-
 
 -----
 
@@ -3462,7 +3418,6 @@ diterapkannya satu aturan tertentu. Kontradiksi makna ini mendorong pertumbuhan
 
 konstitusi. Hakim wajih memutus kontorversi hukum tentang HAM yang secara
 
-
 -----
 
 50
@@ -3535,7 +3490,6 @@ terhadap pengertian kita tentang proses pengambilan keputusan Mahkamah
 
 Konstitusi. Bagaimanapun, karena interpretasi konstitusi terletak di pusat politik
 
-
 -----
 
 51
@@ -3606,7 +3560,6 @@ mengkodifikasikan hak-hak asasi manusia baik di tingkat nasional maupun
 
 suprnasional dalam konstitusi. Beban dan kewajiban untuk melindungi hak-hak
 
-
 -----
 
 52
@@ -3676,7 +3629,6 @@ pemerintah yang dilindungi secara konstitusional dan hak-hak konstitusional dala
 tiap kasus tertentu, hanya sedikit indikasi yang diberikan bagaimana melakukan
 
 hal demikian. Sebaliknya, struktur pasal-pasal HAM Eropah mensyaratkan apa
-
 
 -----
 
@@ -3750,7 +3702,6 @@ demikian undang-undang tersebut masih konstitusional - sejauh bahwa secara
 
 seimbang pelayanan undang-undang terhadap beberapa nilai konstitusi yang lain
 
-
 -----
 
 54
@@ -3823,7 +3774,6 @@ tidak juga hasil putusan bersifat acak. Makna penyeimbang lebih dalam. MK tidak
 
 melindungi HAM tanpa menjadi terlibat secara mendalam dalam fakta, atau
 
-
 -----
 
 55
@@ -3891,7 +3841,6 @@ disebut pihak yang mewakili Presiden, cq Kementerian Keuangan, maka dengan
 kenyataan telah pernah diuji, tetapi pengujian yang dilakukan saat ini dimungkinkan
 
 dengan menggunakan dasar norma UUD 1945 yang digunakan sebagai batu uji
-
 
 -----
 
@@ -3962,7 +3911,6 @@ janda/duda atau anak harus dilakukan secara berkala dan "Peraturan dana pensiun
 
 -dapat memuat ketentuan yang mengatur pilihan pembayaran manfaat pensiun
 
-
 -----
 
 57
@@ -4019,11 +3967,11 @@ _power is resident in alt of superior jurisdiction and essential to their existe
 
 _w.g sentencing and contempt powers. Inherent power meliputi:_
 
-## 1. "A power that must be deemed to exist in order for a particular responsibility
+**1. "A power that must be deemed to exist in order for a particular responsibility**
 
 _to be carried out"._
 
-## 2. Inherent - Implied= synonymous: "A power that must be deemed to
+**2. Inherent - Implied= synonymous: "A power that must be deemed to**
 
  exist in order for a particular responsibility to be carried out".
 
@@ -4033,12 +3981,11 @@ _to be carried out"._
 
  explicitly granted in the constitution...".
 
-
 -----
 
 58
 
-## 4. Inherent Powers of Court: The "Inherent power" of a court is that which
+**4. Inherent Powers of Court: The "Inherent power" of a court is that which**
 
  is necessary for the proper and complete administration of justice and
 
@@ -4094,14 +4041,13 @@ pegawai negeri sipil. ASN dan pejabat negara, terletak dalam landasan
 
 hukum, status hukum, sistem penggajian sebagai berikut:
 
-## 1. Landasan hukum:
+**1. Landasan hukum:**
 
 (i) Buruh/Pekerja swasta diatur oleh UU Ketenagakerjaan (UU 13/2013)
 
 sebagaimana diubah dengan Undang-Undang Nomor ll Tahun 2020
 
 tentang Cipta kerja, dan hubungan kerjanya berdasarkan perjanjian
-
 
 -----
 
@@ -4119,7 +4065,7 @@ Nomor 5 Tahun 2014, sebagaimana diubah dengan UU No. 20 Tahun
 
 Pemerintah Pusat atau daerah;
 
-## 2. Status Kepegawaian:
+**2. Status Kepegawaian:**
 
 (i) Buruh/pekerja dapat bersifat tetap atau kontrak (PK Waktu Tertentu)
 
@@ -4133,7 +4079,7 @@ pejabat negara memiliki status khusus yang diatur dalam UU terpisah
 
 yang terkait dengan jabatan politik atau pemerintahan;
 
-## 3. Hak dan Jaminan Sosial:
+**3. Hak dan Jaminan Sosial:**
 
 (i) Buruh/Pekerja mendapat pesangon sebgai pembayaran lumpsum saat
 
@@ -4147,7 +4093,7 @@ rutin bulanan setelah rnemasuki pensiun sebagai penghargaan atas
 
 pengabdiannya;
 
-## 4. Sumber Dana:
+**4. Sumber Dana:**
 
 (i) PNS berasal dari iuran wajib yang dibayar bersama oleh pemberi kerja
 
@@ -4157,7 +4103,7 @@ dan PNS ke Dana Pensiun atau BPJS selama masa kerja;
 
 assetnya aat PHK terjadi.
 
-## 5. Organisasi:
+**5. Organisasi:**
 
 (i) PNS secara otomatis hanya memasuki organisasi pegawai negeri sipil
 
@@ -4175,7 +4121,6 @@ dipersatukan, yang tugasnya menetapkan standar ketenagakerjaan,
 
 mengembangkan kebijakan dan merancang program promosi yang
 
-
 -----
 
 60
@@ -4188,11 +4133,11 @@ Pasal 161 ayat (2) dan Pasal 164 ayat (2) bertentangan dengan konstitusi.
 
 161 ayat (2) dan Pasal 164 ayat 2 UU P2SK yang bunyinya sebagai berikut:
 
-## a. 161 ayat (2) Pembayaran manfaat pensiun bagi peserta, janda/duda,
+**a. 161 ayat (2) Pembayaran manfaat pensiun bagi peserta, janda/duda,**
 
 atau anak harus dilakukan secara berkala.
 
-## b. Pasal 164 ayat (2) Peraturan Dana Pensiun dapat memuat ketentuan
+**b. Pasal 164 ayat (2) Peraturan Dana Pensiun dapat memuat ketentuan**
 
 yang mengatur pilihan pembayaran Manfaat Pensiun pertama kali
 
@@ -4245,7 +4190,6 @@ buruh/pekerja, pemberi kerja dan pemerintah/Kantor Ketengakerjaan
 dalam penyelesaian secara tripartit, telah menimbulkan masalah yang
 
 terjadi dalam sistem peraturan perundang-undangan yang menggunakan
-
 
 -----
 
@@ -4319,7 +4263,6 @@ d. Berdasarkan pertimbangan tersebut dianggap perlu membentuk
 
 undang-undang tentang pengembangan dan penguatan sektor
 
-
 -----
 
 62
@@ -4389,7 +4332,6 @@ dalam Putusan Nomor 102/PUU-Vll/2009 tanggal 6 Juli 2009 yang
 menyatakan bahwa "Hak warga negara yang merupakan hak asasi dan
 
 hak konstitusional tidak boleh dihambat atau dihalangi oleh ketentuan don
-
 
 -----
 
@@ -4463,7 +4405,6 @@ digerakkan. Paska pensiun dengan perolehan modal yang dapat di
 
 gerakkan untuk perolehan asset yang menghasilkan, dapat memenuhi
 
-
 -----
 
 64
@@ -4533,7 +4474,6 @@ berlaku sepanjang tidak dimaknai:
 "Peraturan Dana Pensiun dapat memuat ketentuan yang mengatur
 pilihan pembayaran manfaat pensiun secara sekaligus sebanyak 100%
 (seratus persen) dari Manfaat Pensiun".
-
 
 -----
 
@@ -4605,7 +4545,6 @@ sudah ada sejak 1977 dengan lahirnya PP No. 33 Tahun 1977.
 
 (1) Jaminan hari tua diselenggarakan secara nasional berdasarkan prinsip
 
-
 -----
 
 66
@@ -4670,7 +4609,6 @@ kesehatan, kendaraan, hingga properti, dengan premi yang ditentukan
 berdasarkan tingkat risiko yang dihadapi peserta. Asuransi komersial berfokus
 
 pada layanan yang lebih fleksibel dan personal sesuai kebutuhan nasabah
-
 
 -----
 
@@ -4740,7 +4678,6 @@ keseluruhan iuran beserta hasil pengembangan atau investasinya. Jenis
 
 program pensiun ini bisa dijalankan oleh DPPK dan juga DPLK.
 
-
 -----
 
 68
@@ -4809,7 +4746,6 @@ pengusaha wajib memberikan kompensasi PHK yaitu uang pesangon sebesar
 
 ketentuan Pasal 156 ayat (4).
 
-
 -----
 
 69
@@ -4876,7 +4812,6 @@ sesuai dengan ketentuan peraturan perundang-undangan di bidang dana
 pensiun, iuran yang dibayar oleh Pengusaha dapat diperhitungkan sebagai
 bagian dari pemenuhan kewajiban Pengusaha atas uang pesangon dan
 uang penghargaan masa kerja serta uang pisah akibat Pemutusan
-
 
 -----
 
@@ -4945,7 +4880,6 @@ Tafsir secara yuridis, merujuk pada Pasal 157 ayat (1) UU No. 6 tahun 2023,
 
 komponen Upah yang digunakan sebagai dasar perhitungan uang pesangon
 
-
 -----
 
 71
@@ -5009,7 +4943,6 @@ Pemutusan Hubungan Kerja, Pengusaha wajib membayar uang pesangon
 dan/atau uang penghargaan masa kerja dan uang penggantian hak yang
 
 seharusnya diterima.
-
 
 -----
 
@@ -5079,7 +5012,6 @@ dengan nilai kompensasi PHK
 
 4. Hak atas Program Jaminan Pensiun bila sudah memenuhi ketentuan usia
 
-
 -----
 
 73
@@ -5147,7 +5079,6 @@ P2SK maka akan berdampak pada banyak hal, yaitu:
 ini akan menyebabkan pembukaan lapangan kerja tidak terbuka dengan
 
 baik. Pensiunan yang berwiraswata akan berpotensi membuka lapangam
-
 
 -----
 
@@ -5217,7 +5148,6 @@ keuangan dengan baik dan bagaimana melihat peluang bisnis atau usaha yang
 relevan dan prospektif pasca pensiun. Saksi sendiri telah mengikuti pelatihan
 
 itu dari tanggal 25 s/d 26 Juni 2024.
-
 
 -----
 
@@ -5291,7 +5221,6 @@ internasional misalnya, Carpenter, Bengkel Las, Bengkel Mobil, Tata Boga,
 
 Bidang Safety, Bidang Konstruksi, Laundry, Peternakan, Perikanan, Mini
 
-
 -----
 
 76
@@ -5363,7 +5292,6 @@ orang lain.
 5. Kalaupun Saksi memaksakan diri untuk membuka usaha pastilah hanya
 
 usaha rumahan (usaha rumahan) yang modalnya setimpal dengan manfaat
-
 
 -----
 
@@ -5437,7 +5365,6 @@ terjadi mis management oleh pihak pengelola seperti beberapa kasus yang
 
 terjadi di ASABRI, dan lain-lain.
 
-
 -----
 
 78
@@ -5510,7 +5437,6 @@ Freeport Indonesia.
 
   - Ketika Saksi memasuki usia pensiun pada tahun 2015 dengan masa kerja
 
-
 -----
 
 79
@@ -5577,7 +5503,6 @@ berketentuan sebagai berikut:
 
 Pembayaran Manfaat Pensiun bagi Peserta, Janda/Duda, atau anak harus
 dilakukan secara berkala.
-
 
 -----
 
@@ -5648,7 +5573,6 @@ peserta Dana Pensiun. Menurut Para Pemohon, hak konstitusionalnya telah
 dilanggar akibat berlakunya norma-norma _a quo yang pada intinya_
 
 memberlakukan mekanisme pembayaran manfaat pensiun kepada peserta
-
 
 -----
 
@@ -5722,7 +5646,6 @@ ketentuan yang mengatur pilihan pembayaran Manfaat Pensiun secara
 
 sekaligus sebanyak 100% (seratus persen) dari Manfaat Pensiun.”
 
-
 -----
 
 82
@@ -5793,7 +5716,6 @@ hak dan/atau kewenangan konstitusional yang dijamin dalam Pasal 27 ayat
 tersebut ikhwalnya berkenaan dengan hak atas pekerjaan dan
 
 penghidupan yang layak; hak untuk mendapatkan pengakuan, jaminan,
-
 
 -----
 
@@ -5867,7 +5789,6 @@ rencana yang belum tentu dapat disamaratakan dengan perencanaan
 
 setiap orang atas suatu Manfaat Pensiun dan tidak dapat dijadikan dasar
 
-
 -----
 
 84
@@ -5934,7 +5855,6 @@ dikenal dengan zonder belang geen rechtsingang. Hal tersebut sama
 dengan prinsip yang terdapat dalam Reglement op de Rechtsvordering
 (Rv) khususnya Pasal 102 yang menganut ketentuan bahwa “tiada
 gugatan tanpa hubungan hukum“ (no action without legal connection).
-
 
 -----
 
@@ -6006,7 +5926,6 @@ berbagai undang-undang yang diantaranya telah berusia cukup lama,
 sehingga belum optimal dalam mengakomodir pengawasan terhadap
 
 aktivitas, produk, dan perkembangan industri keuangan terkini yang terus
-
 
 -----
 
@@ -6080,7 +5999,6 @@ dan masa kerja/masa iuran. Pada desain iuran pasti, besaran manfaat
 
 pensiun ditentukan oleh akumulasi iuran beserta hasil
 
-
 -----
 
 87
@@ -6153,7 +6071,6 @@ _life-cycle hypothesis yang dikemukakan oleh Ekonom Jepang dan_
 
 Italia, Albert Ando dan Franco Modigliani, bahwa setiap individu
 
-
 -----
 
 88
@@ -6207,7 +6124,6 @@ tersebut. Dengan skema berkala, manfaat yang diterima oleh
 pensiunan tetap terjaga pada tingkat yang layak dan
 
 berkesinambungan, serta mencegah terjadinya sikap konsumtif
-
 
 -----
 
@@ -6273,7 +6189,6 @@ mapan, juga menerapkan prinsip pembayaran berkala antara lain:
 |---|---|---|
 |1.|Amerika Serikat|_Social Security Administration_ merupakan<br>Program <br>_Social_<br>_Security_<br>_Administration_ <br>Amerika Serikat memberikan manfaat pensiun<br>hanya<br>dalam<br>bentuk<br>_monthly_<br>_benefit_ <br>(pembayaran bulanan).<br>(Social<br>Security<br>Administration<br>(SSA) sebuah lembaga<br>independen<br>pemerintah Amerika Serikat yang bertugas|
 
-
 -----
 
 90
@@ -6283,7 +6198,6 @@ mapan, juga menerapkan prinsip pembayaran berkala antara lain:
 |||mengelola program Jaminan Sosial AS,<br>termasuk<br>program<br>pensiun,<br>bantuan<br>disabilitas, dan tunjangan ahli waris. SSA juga<br>bertanggung<br>jawab<br>menerbitkan<br>Nomor<br>Jaminan<br>Sosial<br>(SSN)<br>dan<br>mengawasi<br>program<br>seperti<br>Supplemental<br>Security<br>Income (SSI)).<br>(“_Benefit_<br>_Types,”_<br>_Social_<br>_Security_<br>_Administration,_<br>_2025,_<br>_https://www.ssa.gov/benefits_).|
 |2.|Jepang|Situs<br>resmi<br>Japan<br>Pension<br>Service<br>menjelaskan bahwa peserta_Old-age Basic_<br>_Pension_ akan menerima manfaat pensiun<br>reguler bulanan setelah memenuhi syarat (10<br>tahun pertanggungan atau lebih). Japan<br>Pension Service secara jelas menjelaskan<br>_Old-age Basic Pension_ dan_Employees’_<br>_Pension_ dibayarkan secara berkala (periode<br>pembayaran<br>reguler);<br>opsi<br>_lump-sum_<br>_withdrawal payment_ disebutkan hanya untuk<br>kasus tertentu (misalnya pekerja asing non-<br>resident yang meninggalkan Jepang dan tidak<br>memenuhi syarat pensiun reguler).<br>_(Japan Pension Service:_<br>_“National Pension System,”_日本年金機構<br>_,2025,_<br>_https://www.nenkin.go.jp/international/japanes_<br>_e-_<br>_system/nationalpension/nationalpension.html_<br>_?utm)_|
 |3.|Jerman|Situs resmi_Deutsche Rentenversicherung_ <br>(_Statutory_<br>_Pension_<br>_Insurance_) <br>mengatur<br>layanan dan manfaat pensiun negara yang<br>dibayarkan sebagai pensions/benefits reguler.<br>Berdasarkan<br>publikasi<br>resmi<br>lembaga<br>menunjukkan bahwa pembayaran manfaat<br>pensiun dilakukan secara berkala (annuitas)<br>yang diterima oleh pensiunan.<br>(_Deutsche_<br>_Rentenversicherung_ <br>adalah<br>otoritas pensiun publik wajib di Jerman yang<br>berfungsi sebagai bagian penting dari sistem<br>jaminan sosial di negara itu. Lembaga ini<br>bertanggung jawab untuk memberikan nasihat<br>tentang masalah pensiun, membayar pensiun<br>saat terjadi penurunan kapasitas kerja atau di<br>usia tua, serta menawarkan tunjangan lain<br>selama masa kerja dan rehabilitasi.<br>(_Deutsche Rentenversicherung, “Benefits,”_<br>_Deutsche Rentenversicherung Website, 2025,_<br>_https://www.deutsche-_|
-
 
 -----
 
@@ -6363,7 +6277,6 @@ tertentu yang ditetapkan oleh Otoritas Jasa Keuangan;
 |---|---|---|
 |||_rentenversicherung.de/DRV/EN/Leistungen/le_<br>_istungennode.html?utm_)|
 
-
 -----
 
 92
@@ -6433,7 +6346,6 @@ dibayarkan dapat dibayarkan secara sekaligus.
 (4) Pembayaran Manfaat Pensiun secara sekaligus
 sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3)
 
-
 -----
 
 93
@@ -6497,7 +6409,6 @@ Keuangan; 3) pembayaran Manfaat Pensiun kepada pihak
 yang ditunjuk sebagaimana dimaksud dalam Pasal 155 ayat
 (4) UU 4/2023; dan/atau 4) adanya kondisi tertentu yang
 ditetapkan oleh otoritas Jasa Keuangan. Berkenaan dengan
-
 
 -----
 
@@ -6568,7 +6479,6 @@ dinamika sistem keuangan nasional. Pada mulanya, ketentuan
 
 mengenai Dana Pensiun diatur dalam Undang-Undang Nomor 11
 
-
 -----
 
 95
@@ -6638,7 +6548,6 @@ sebagai
 “Private pension schemes where participation is not mandatory
 _by law, but individuals or employers can choose to contribute in_
 _order to enhance retirement income.”_
-
 
 -----
 
@@ -6712,7 +6621,6 @@ yang menimbulkan akibat hukum terhadap mekanisme pengelolaan,
 
 pengawasan, serta tata cara pembayaran manfaat pensiun. Oleh
 
-
 -----
 
 97
@@ -6784,7 +6692,6 @@ untuk penghasilan hingga Rp50 juta dan 5% untuk penghasilan di
 atas Rp50 juta. Ketentuan ini menunjukkan adanya kebijakan
 
 afirmatif negara untuk mendorong pembentukan tabungan pensiun
-
 
 -----
 
@@ -6858,7 +6765,6 @@ pemberi kerja untuk mempersiapkan kesejahteraan pekerja di hari
 
 tua. Keikutsertaan dalam program dimaksud bersifat voluntary atau
 
-
 -----
 
 99
@@ -6929,7 +6835,6 @@ konsekuensi hubungan kerja, sedangkan manfaat pensiun
 
 bersumber dari iuran bersama (joint contribution) antara pekerja dan
 
-
 -----
 
 100
@@ -6964,7 +6869,7 @@ pesangon dan uang penghargaan masa kerja yakni dalam Pasal 156
 
 ayat (2) dan (3) yang berketentuan sebagai berikut:
 
-Pasal 156
+### Pasal 156 ^pasal-156
 
 (1) ...
 (2) Uang pesangon sebagaimana dimaksud pada ayat (1)
@@ -7006,7 +6911,6 @@ a. masa kerja 3 (tiga) tahun atau lebih tetapi kurang dari
 b. masa kerja 3 (tiga) tahun atau lebih tetapi kurang dari
 
 6 (enam) tahun, 2 (dua) bulan Upah;
-
 
 -----
 
@@ -7082,7 +6986,6 @@ tunai langsung sebagaimana pesangon dan UPMK.
 
 **dan menyebabkan tidak jelasnya kepada siapa dibayar sisa manfaat**
 
-
 -----
 
 102
@@ -7107,7 +7010,6 @@ Pasal Pasal 164 ayat (2) UU P2SK serta penjelasannya yang
 |Pasal 161 ayat (2) UU P2SK<br>(1)**… **<br>(2) Pembayaran Manfaat Pensiun<br>bagi Peserta, Janda/Duda,<br>atau anak harus dilakukan<br>secara berkala.|Penjelasan Pasal 161 ayat (2)<br>UU P2SK<br> Ayat (2)<br>Yang dimaksud dengan<br>"dilakukan secara berkala"<br>adalah Manfaat Pensiun<br>dibayarkan<br>secara<br>bulanan sesuai dengan<br>Peraturan Dana Pensiun.|
 |Pasal 162 ayat (2), ayat (3), dan<br>ayat (4) UU P2SK<br>(1) ...<br>(2) Dana<br>Pensiun<br>yang<br>menyelenggarakan Program<br>Pensiun<br>Manfaat<br>Pasti,<br>Manfaat Pensiun bagi Peserta<br>atau bagi Janda/Duda harus<br>dibayarkan<br>secara<br>berkala<br>dengan<br>nilai<br>tetap<br>atau<br>meningkat<br>yang<br>pembayarannya<br>dilakukan<br>untuk seumur hidup.<br>(3) Dana<br>Pensiun<br>yang<br>menyelenggarakan Program<br>Pensiun<br>Manfaat<br>Pasti,<br>Manfaat Pensiun bagi anak<br>dibayarkan<br>secara<br>berkala<br>sampai<br>dengan<br>anak<br>mencapai batas usia tertentu.<br>(4) Dana<br>Pensiun<br>yang<br>menyelenggarakan Program<br>Pensiun Iuran Pasti, Manfaat<br>Pensiun<br>bagi<br>Peserta,<br>Janda/Duda,<br>atau<br>anak<br>dibayarkan<br>secara<br>berkala<br>untuk periode tertentu.|Penjelasan Pasal 162 ayat (2),<br>ayat (3), dan ayat (4) UU P2SK<br>Ayat (2)<br>Cukup jelas<br>Ayat (3)<br>Cukup jelas<br>Ayat (4)<br>Cukup jelas|
 |Pasal 164 ayat (2) UU P2SK<br>(1) …|Penjelasan Pasal 164 ayat (2)<br>UU P2SK|
-
 
 -----
 
@@ -7179,7 +7081,6 @@ sebagaimana terdapat dalam POJK 27/2023, keberatan tersebut
 |---|---|
 |(2) Peraturan<br>Dana<br>Pensiun<br>dapat memuat ketentuan yang<br>mengatur pilihan pembayaran<br>Manfaat Pensiun pertama kali<br>secara<br>sekaligus<br>paling<br>banyak<br>20%<br>(dua<br>puluh<br>persen) dari Manfaat Pensiun.<br>(3) ...|Ayat (2)<br>Yang dimaksud dengan<br>"pembayaran<br>Manfaat<br>Pensiun<br>pertama<br>kali"<br>adalah<br>pembayaran<br>pertama kepada Peserta<br>atas<br>Manfaat<br>Pensiun<br>Normal, Manfaat Pensiun<br>Disabilitas, atau Manfaat<br>Pensiun Dipercepat.<br>Dalam<br>hal<br>Peserta<br>meninggal dunia sebelum<br>Peserta<br>mendapatkan<br>Manfaat Pensiun Normal,<br>Manfaat<br>Pensiun Disabilitas, atau<br>Manfaat<br>Pensiun<br>Dipercepat,<br>maka<br>yang<br>dimaksud<br>dengan<br>"pembayaran<br>Manfaat<br>Pensiun<br>pertama<br>kali"<br>adalah<br>pembayaran<br>pertama Manfaat Pensiun<br>kepada Janda/Duda atau<br>anak|
 
-
 -----
 
 104
@@ -7249,8 +7150,9 @@ janda/duda atau anak yang sah paling sedikit 60% dari manfaat
 
 pensiun yang telah dibayarkan kepada pensiunan. Merujuk pada
 
-Penjelasan tersebut, maka dapat saja manfaat pensiun janda/duda
+## Penjelasan
 
+### I. Umum
 
 -----
 
@@ -7324,7 +7226,6 @@ manfaat pensiun dilakukan secara berkala, maka uang pensiun
 
 bulanan akan lenyap dan tidak ada harta yang dapat diwariskan,
 
-
 -----
 
 106
@@ -7394,7 +7295,6 @@ perubahan atau pun penggantian maka tentu akan berkorelasi pada
 perubahan atau pun penggantian materi muatan dalam peraturan
 
 pelaksana dari undang-undang itu sendiri. Dengan demikian, dalil
-
 
 -----
 
@@ -7468,7 +7368,6 @@ pensiun diawasi secara ketat oleh OJK, mulai dari proses
 
 pembentukannya sampai dengan pengelolaan dan melaksanakan
 
-
 -----
 
 108
@@ -7536,7 +7435,6 @@ statuter;
       - pihak tertentu untuk membuat laporan mengenai hal tertentu,
 
 atas biaya Dana Pensiun dan disampaikan kepada OJK;
-
 
 -----
 
@@ -7682,7 +7580,6 @@ potensi-potensi tersebut terjadi bukan dititikberatkan pada persoalan
 
 pilihan pembayaran manfaat secara sekaligus atau berkala,
 
-
 -----
 
 111
@@ -7754,7 +7651,6 @@ dalam hal pasal yang dimohonkan pengujian dan batu uji yang sama
 dengan Perkara Nomor 152/PUU-XII/2024 dan Perkara Nomor 61/PUU
 XXIII/2025, yakni dengan menggunakan Pasal 28D ayat (1) UUD NRI
 
-
 -----
 
 112
@@ -7822,7 +7718,6 @@ menyampaikan keterangannya yang diterima Mahkamah pada tanggal 7 Oktober
 2025 serta menyampaikan keterangan tambahan yang diterima Mahkamah pada
 
 tanggal 12 Desember 2025, pada pokoknya menerangkan hal-hal sebagai berikut.
-
 
 -----
 
@@ -7896,7 +7791,6 @@ telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 7
 
 Tahun 2020 tentang Perubahan Ketiga atas Undang-Undang Nomor 24
 
-
 -----
 
 114
@@ -7963,7 +7857,6 @@ menurut penalaran yang wajar dapat dipastikan akan terjadi;
 4. Adanya hubungan sebab akibat (causal verband) antara kerugian
 
 dan berlakunya undang-undang yang dimohonkan untuk diuji;
-
 
 -----
 
@@ -8037,7 +7930,6 @@ permohonannya halaman 9 poin 23 bahwa iuran pensiun dibayarkan
 
 penuh oleh pemberi kerja (PT Freeport Indonesia). Artinya, tidak ada
 
-
 -----
 
 116
@@ -8108,7 +8000,6 @@ kedudukan hukum (legal standing) sebagaimana ditentukan dalam Pasal
 
 51 ayat (1) UU MK, maupun berdasarkan putusan-putusan Mahkamah
 
-
 -----
 
 117
@@ -8175,7 +8066,6 @@ kesinambungan penghasilan peserta program pada hari tua.
 Keyakinan akan adanya kesinambungan penghasilan menimbulkan
 
 ketenteraman kerja, sehingga akan meningkatkan motivasi kerja
-
 
 -----
 
@@ -8247,7 +8137,6 @@ rentan terhadap risiko:
 
 a. Mismanajemen dana oleh peserta,
 
-
 -----
 
 119
@@ -8317,7 +8206,6 @@ mekanisme pembayaran manfaat pensiun harus tetap
 mempertimbangkan prinsip ekonomi nasional yang bersumber dari nilai
 nilai Pancasila dan UUD NRI Tahun 1945. Secara khusus, Pasal 33
 
-
 -----
 
 120
@@ -8384,7 +8272,6 @@ yang bermartabat.
 Oleh sebab itu, pembayaran manfaat pensiun secara berkala sesuai
 
 amanat Pasal 161 ayat (2) UU P2SK, justru mendukung prinsip
-
 
 -----
 
@@ -8460,7 +8347,6 @@ kepesertaan dalam Peraturan Dana Pensiun. Bahkan, dalam Pasal
 |1.|**Pasal 161 ayat (2)**<br>Pembayaran Manfaat Pensiun<br>bagi Peserta, Janda/Duda, atau<br>anak harus dilakukan secara<br>berkala.|**Pasal 27 ayat (2) UUD NRI**<br>**1945**<br>Tiap-tiap warga negara berhak<br>atas<br>pekerjaan<br>dan<br>penghidupan yang layak bagi<br>kemanusiaan.<br>**Pasal 28D ayat (1) dan ayat**<br>**(2) UUD NRI 1945**<br>1) Setiap orang berhak atas<br>pengakuan,<br>jaminan,<br>perlindungan,<br>dan<br>kepastian hukum yang adil<br>serta perlakuan yang sama<br>dihadapan hukum.<br>2) Setiap orang berhak untuk<br>bekerja<br>serta<br>mendapat<br>imbalan<br>dan<br>perlakuan<br>yang adil dan layak dalam<br>hubungan kerja.|
 |2.|**Pasal 164 ayat (2)**<br>Peraturan Dana Pensiun dapat<br>memuat<br>ketentuan<br>yang<br>mengatur<br>pilihan<br>pembayaran<br>Manfaat Pensiun pertama kali<br>secara sekaligus paling banyak<br>20% (dua puluh persen) dari<br>Manfaat Pensiun.|**Pasal 164 ayat (2)**<br>Peraturan Dana Pensiun dapat<br>memuat<br>ketentuan<br>yang<br>mengatur<br>pilihan<br>pembayaran<br>Manfaat Pensiun pertama kali<br>secara sekaligus paling banyak<br>20% (dua puluh persen) dari<br>Manfaat Pensiun.|
 
-
 -----
 
 122
@@ -8533,7 +8419,6 @@ berpartisipasi dalam program pensiun, maka yang bersangkutan:
 
 diperoleh, dan mekanisme pembayaran manfaat yang telah
 
-
 -----
 
 123
@@ -8595,7 +8480,6 @@ ketentuan ini tidak mengurangi hak peserta terhadap manfaat
 pensiun yang berhak diterima berdasarkan peraturan
 perundang-undangan. Oleh karena itu, menurut Mahkamah,
 pembatasan tata cara pembayaran manfaat pensiun secara
-
 
 -----
 
@@ -8666,7 +8550,6 @@ hubungan kerja dalam Pasal 28D ayat (2) UUD NRI 1945, Pemerintah
 
 memberikan keterangan sebagai berikut:
 
-
 -----
 
 125
@@ -8733,7 +8616,6 @@ berkala tersebut dengan cara dibayarkan oleh dana pensiun,
 atau dapat dilakukan dengan cara peserta, janda/duda, atau
 anak memilih untuk membeli anuitas atau anuitas syariah dari
 perusahaan asuransi jiwa atau perusahaan asuransi jiwa
-
 
 -----
 
@@ -8805,7 +8687,6 @@ Manfaat Pensiun yang diterima oleh pensiunan tersebut. Terhadap dalil
 tersebut, Pemerintah memberikan keterangan sebagai berikut:
 
 a. Berdasarkan dalil yang Para Pemohon sampaikan dalam
-
 
 -----
 
@@ -8879,7 +8760,6 @@ POJK.
 
 bahwa terdapat ketidakjelasan terkait pihak yang menerima pembayaran
 
-
 -----
 
 128
@@ -8951,7 +8831,6 @@ ketentuan peraturan perundang-undangan mengenai hukum waris
 yang berlaku.
 
 e. Berdasarkan uraian tersebut di atas, jelas bahwa UU P2SK dan POJK
-
 
 -----
 
@@ -9025,7 +8904,6 @@ Dengan pembayaran berkala, risiko pengeluaran besar sekaligus
 
 yang dapat menguras dana pensiun dapat diminimalisir.
 
-
 -----
 
 130
@@ -9098,7 +8976,6 @@ merupakan permasalahan konstitusionalitas norma yang diuji karena
 
 dalil tersebut mempermasalahkan norma yang terdapat dalam POJK
 
-
 -----
 
 131
@@ -9166,7 +9043,6 @@ berbeda dengan Perkara Nomor 152/PUU-XXII/2024 dan Perkara Nomor
 a. Bahwa dalam hal Para Pemohon menolak pembayaran Manfaat
 
 Pensiun secara berkala sebagai pengganti uang pesangon dan uang
-
 
 -----
 
@@ -9238,7 +9114,6 @@ telah diatur dalam definisi “Manfaat Pensiun” itu sendiri dan
 
 mekanisme klaim pembayaran Manfaat Pensiun secara sekaligus pun
 
-
 -----
 
 133
@@ -9306,7 +9181,6 @@ Pemohon bukan terletak pada norma Pasal 161 ayat (2) dan Pasal 164 ayat
 (2) UU PPSK, melainkan lebih pada teknis pelaksanaan yang diatur dalam
 
 peraturan pelaksana dan kebijakan penyelenggara Dana Pensiun.
-
 
 -----
 
@@ -9377,7 +9251,6 @@ Negara Republik Indonesia Tahun 1945 dan tetap mempunyai kekuatan
 
 hukum mengikat,
 
-
 -----
 
 135
@@ -9446,7 +9319,6 @@ keuangan negara?
 Berkenaan dengan pembedaan mengenai program pensiun yang bersifat
 
 wajib dan yang bersifat sukarela, dapat Pemerintah sampaikan bahwa pada
-
 
 -----
 
@@ -9517,7 +9389,6 @@ a. Jaminan Pensiun (JP) juga diatur dalam UU SJSN yang kemudian diatur
 lebih lanjut dalam PP Nomor 45 Tahun 2015 tentang Penyelenggaraan
 
 Program Jaminan Pensiun (PP Jaminan Pensiun).
-
 
 -----
 
@@ -9591,7 +9462,6 @@ memberikan pilihan bagi pekerja untuk menjadi atau tidak menjadi peserta,
 
 sehingga kepesertaan Dana Pensiun bersifat sukarela.
 
-
 -----
 
 138
@@ -9664,7 +9534,6 @@ Peserta sebagai manfaat pensiun.
 
 peserta yang terdiri dari 836.814 peserta DPPK-Program Pensiun Manfaat
 
-
 -----
 
 139
@@ -9734,7 +9603,6 @@ pensiun secara sekaligus dengan syarat tertentu diatur dalam Pasal 164 ayat
 (1) UU P2SK. Yang dimaksud dengan Manfaat Pensiun pada pasal ini
 
 merupakan manfaat yang diterima oleh peserta, baik secara berkala dan/atau
-
 
 -----
 
@@ -9808,7 +9676,6 @@ Kerja sebagaimana dimaksud dalam Pasal 41 sampai dengan Pasal 52 dan
 
 Pasal 54 sampai dengan Pasal 57.”
 
-
 -----
 
 141
@@ -9880,7 +9747,6 @@ mengikuti pekerja pada program pensiun yang sudah dibayar penuh oleh
 pengusaha, maka pekerja tidak berhak mendapatkan pesangon, uang
 
 penghargaan masa kerja, tetapi tetap berhak atas uang penggantian hak sesuai
-
 
 -----
 
@@ -9954,7 +9820,6 @@ Keterkaitan antara UU Ketenagakerjaan dengan UU P2SK terdapat pada
 
 ketentuan Pasal 167 UU Ketenagakerjaan yang mengatur sebagai berikut:
 
-
 -----
 
 143
@@ -10021,7 +9886,6 @@ UU Ketenagakerjaan sebagaimana telah diubah oleh Pasal 81 angka 47 UU
 CK 6/2023, bahkan telah diatur juga sanksi pidana bagi perusahaan yang
 
 tidak membayarnya.
-
 
 -----
 
@@ -10090,7 +9954,6 @@ Pensiun, maka Para Pemohon akan menerima pembayaran Dana
 |1.|Pasal 156 ayat (1) dalam Pasal<br>81 angka 47 UU CK 6/2023<br>Dalam hal terjadi Pemutusan<br>Hubungan Kerja, Pengusaha<br>**wajib** <br>membayar<br>uang<br>pesangon<br>dan/atau<br>uang<br>penghargaan masa kerja dan<br>uang penggantian hak yang<br>seharusnya diterima.|Pasal 145 ayat (1) UU<br>P2SK<br>Setiap<br>karyawan<br>pada<br>Pemberi<br>Kerja<br>**berhak** <br>menjadi<br>Peserta<br>Dana<br>Pensiun<br>Pemberi<br>Keda<br>apabila telah memenuhi<br>syarat kepesertaan dalam<br>Peraturan Dana Pensiun.|
 |2.|Pasal 185 dalam Pasal 81<br>angka 66 UU CK 6/2023<br>Barang<br>siapa<br>melanggar<br>ketentuan<br>sebagaimana<br>dimaksud dalam Pasal 42 ayat<br>(2), Pasal 68, Pasal 69 ayat (2),<br>Pasal 80, Pasal 82, Pasal 88A<br>ayat (3), Pasal 88E ayat (2),<br>Pasal 143,**Pasal 156 ayat (1)**, <br>atau<br>Pasal<br>160<br>ayat<br>(41<br>**dikenai sanksi pidana** penjara<br>paling singkat 1 (satu) tahun<br>dan paling lama 4 (empat)<br>tahun dan/atau pidana denda<br>paling<br>sedikit<br>Rp100.000.000,00<br>(seratus<br>juta rupiah) dan paling banyak<br>Rp400.000.000,00<br>(empat<br>ratus juta rupiah).|Tidak<br>ada<br>pengaturan<br>sanksi secara khusus|
 
-
 -----
 
 145
@@ -10158,7 +10021,6 @@ ayat (1) PP 35/2021, di mana pembayaran Dana Kompensasi Pascakerja
 
 menjadi mengikuti ketentuan pembayaran Manfaat Pensiun.
 
-
 -----
 
 146
@@ -10225,7 +10087,6 @@ komponen uang kompensasi pasca kerja dalam Manfaat Pensiun dari Dana
 Pensiun yang harus dibayarkan sekaligus” tidak lagi memiliki dasar hukum pada
 
 tingkat undang-undang dan Mejelis Hakim Konstitusi juga telah menilai
-
 
 -----
 
@@ -10297,7 +10158,6 @@ Pensiun?
 
 **Prof. Dr. Enny Nurbaningsih, S.H., M.Hum menyampaikan:**
 
-
 -----
 
 148
@@ -10366,7 +10226,6 @@ Namun demikian, sesuai dengan Pasal 58 ayat (3) PP 35/2021,
 pelaksanaan ketentuan tersebut di atas berlaku apabila diatur dalam
 
 Perjanjian Kerja, Peraturan Perusahaan, atau Perjanjian Kerja Bersama.
-
 
 -----
 
@@ -10440,7 +10299,6 @@ perusahaan melakukan pendanaan atas dana kompensasi pasca kerja
 
 melalui Dana Pensiun, maka dana tersebut ada di dalam Dana Pensiun.
 
-
 -----
 
 150
@@ -10510,7 +10368,6 @@ berlaku dalam hal Pengusaha mengikutsertakan pekerja dalam program
 
 pensiun dengan iuran yang dibayarkan sebagian atau seluruhnya oleh
 
-
 -----
 
 151
@@ -10577,7 +10434,6 @@ mengatur mekanisme pembayaran Manfaat Pensiun adalah dilakukan secara
 berkala/bulanan dan norma tersebut dipertahankan dalam UU P2SK (tidak
 
 berubah). Selain itu, tujuan dari program pensiun adalah untuk kesinambungan
-
 
 -----
 
@@ -10648,7 +10504,6 @@ dalam program jaminan sosial yang lebih bersifat universal.
 Untuk menjawab “mengapa Pemerintah memberikan insentif perpajakan
 
 bagi industri Dana Pensiun?”, alasan secara teori adalah karena negara dapat
-
 
 -----
 
@@ -10722,7 +10577,6 @@ sekaligus pertama kali pada saat mencapai usia pensiun paling tinggi
 
 dikenakan sebesar 5%.
 
-
 -----
 
 154
@@ -10795,7 +10649,6 @@ PPh 21. Lampiran Tabel 2 menunjukkan simulasi perhitungan perpajakan
 
 pesangon Pemohon 1 dalam situasi: (i) tanpa adanya insentif dan (ii) dengan
 
-
 -----
 
 155
@@ -10864,7 +10717,6 @@ Oleh karena itu, dalam upaya mencegah potensi terjadinya pembayaran ganda
 (double dipping) oleh perusahaan yang telah menyelenggarakan program pensiun
 
 melalui DPPK/DPLK, telah pula diatur ketentuan untuk menjembatani keduanya
-
 
 -----
 
@@ -10937,7 +10789,6 @@ tetapi cukup minimal 10 tahun dan dapat diselenggarakan oleh DPPK/DPLK –
 
 tidak harus ke perusahaan asuransi jiwa atau perusahaan asuransi syariah).
 
-
 -----
 
 157
@@ -11006,7 +10857,6 @@ dimaksud. _Draft terakhir sudah mencapai versi 4.2 tertanggal 18 Agustus 2004_
 (terlampir). Namun karena satu dan lain hal, Surat Edaran Bersama tersebut urung
 
 terealisasikan. Sekali lagi, sangat patut disayangkan!
-
 
 -----
 
@@ -11077,7 +10927,6 @@ Kalau ingin (mulai) berusaha setelah pensiun, atau apapun itu, seharusnya sisihk
 lagi sisa penghasilan yang ada untuk tujuan itu. Jangan sentuh tabungan untuk anak
 
 sekolah dan tabungan untuk kesejahteraan hari tua.
-
 
 -----
 
@@ -11150,7 +10999,6 @@ sekaligus. Salah satu di antaranya adalah saldo dana pada saat pensiun, pada
 
 DPLK dan DPPK yang menggunakan rumus sekaligus, sampai Rp625 juta
 
-
 -----
 
 160
@@ -11219,7 +11067,6 @@ dan Nomor 164/PUU-XXIII/2025 atas Uji Materiil Undang-Undang Nomor 4 Tahun
 
 Konstitusi Republik Indonesia.
 
-
 -----
 
 161
@@ -11264,7 +11111,6 @@ atas Rp50 juta.
 
 **Tabel 2: Pemberian Insentif Pajak oleh Negara**
 
-
 **Lama** **Upah** **Penerimaan Negara atas Pajak** **Pemberian Insentif**
 **Menabung** **Sebulan** **Menabung Pada** **Pajak oleh Negara**
 **(Tahun)** **(Rp000)** **Bank** **Dana Pensiun** **(Rp000)** **%**
@@ -11274,7 +11120,6 @@ atas Rp50 juta.
 **35** **50,000** **15,012,929** **13,956,651** **(1,056,278)** **-7.0%**
 **35** **75,000** **23,899,994** **22,316,827** **(1,583,168)** **-6.6%**
 **35** **100,000** **33,030,207** **30,855,606** **(2,174,602)** **-6.6%**
-
 
 -----
 
@@ -11395,7 +11240,6 @@ termasuk komponen pesangon wajib dilakukan secara berkala dan hanya
 |**1,500,000**|**1,500,000**|**312,500**<br>**20.8%**<br>**1,187,500**|**312,500**<br>**20.8%**<br>**1,187,500**|**72,500**<br>**4.8%**<br>**1,427,500**|**72,500**<br>**4.8%**<br>**1,427,500**|10<br>**61,993**<br>**4.1%**<br>**1,438,007**<br>15<br>**35,207**<br>**2.3%**<br>**1,464,793**<br>300,000|
 |**2,000,000**|**2,000,000**|**437,500**<br>**21.9%**<br>**1,562,500**|**437,500**<br>**21.9%**<br>**1,562,500**|**1,902,500**<br>**97,500**<br>**4.9%**|**1,902,500**<br>**97,500**<br>**4.9%**|10<br>**126,243**<br>**6.3%**<br>**1,873,757**<br>15<br>**80,660**<br>**4.0%**<br>**1,919,340**<br>400,000|
 
-
 -----
 
 163
@@ -11469,7 +11313,6 @@ kondisi tertentu yang ditetapkan oleh OJK. Menurut para Pemohon,
 
 pengaturan demikian secara nyata telah membatasi hak peserta dana pensiun
 
-
 -----
 
 164
@@ -11540,7 +11383,6 @@ tidak dapat ditunda atau dikonversi dalam bentuk pembayaran berkala.
 4. Bahwa selanjutnya, Undang-Undang Nomor 13 Tahun 2003 tentang
 
 Ketenagakerjaan (UU 13/2003) melalui Pasal 167 ayat (5) UU 13/2003
-
 
 -----
 
@@ -11613,7 +11455,6 @@ sebab itu, pembayaran uang pesangon dan uang penghargaan masa
 
 kerja serta uang pisah dalam kaitan manfaat program pensiun yang
 
-
 -----
 
 166
@@ -11684,7 +11525,6 @@ XXIII/2025, yang pada pokoknya mempersoalkan konstitusionalitas
 beberapa ketentuan dalam UU P2SK, khususnya Pasal 161 ayat (2),
 
 Pasal 164 ayat (1) huruf d, dan Pasal 164 ayat (2). Bahwa dalam perkara
-
 
 -----
 
@@ -11758,7 +11598,6 @@ dibayarkan secara sekaligus (lumpsum) pada saat hubungan kerja berakhir
 
 termasuk karena pensiun, sebagaimana ditegaskan dalam ketentuan
 
-
 -----
 
 168
@@ -11831,7 +11670,6 @@ Keuangan, bukan merupakan ranah kewenangan Kementerian
 
 Ketenagakerjaan. Oleh karena itu, Kementerian Ketenagakerjaan
 
-
 -----
 
 169
@@ -11899,7 +11737,6 @@ prinsip pelindungan pekerja/buruh, tanpa mengaburkan kewajiban
 hukum pengusaha dalam memenuhi hak-hak pekerja/buruh pada
 
 saat hubungan kerja berakhir.
-
 
 -----
 
@@ -11970,7 +11807,6 @@ pisah secara penuh; (b) bagian manfaat pensiun yang mencerminkan
 unsur pesangon harus dapat dibayarkan secara sekaligus (lumpsum)
 
 pada saat hubungan kerja berakhir; dan (c) pelaksanaannya tidak
-
 
 -----
 
@@ -12044,7 +11880,6 @@ dengan manfaat yang dibayarkan secara berkala berdasarkan
 
 formula iuran dan manfaat. Oleh karena itu, program Jaminan
 
-
 -----
 
 172
@@ -12116,7 +11951,6 @@ Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan
 
 Penguatan Sektor Keuangan (UU P2SK)? Jika tidak, di mana program
 
-
 -----
 
 173
@@ -12182,7 +12016,6 @@ pensiun.
 2. Apakah pengusaha yang telah menyelenggarakan program pensiun
 
 sebagaimana dimaksud dalam Pasal 167 UU 13/2003 juga dapat, atau
-
 
 -----
 
@@ -12256,7 +12089,6 @@ program dana pensiun yang selama ini dijalankan oleh pengusaha.
 
 Sebaliknya, UU P2SK memperkuat tata kelola, pelindungan peserta,
 
-
 -----
 
 175
@@ -12327,7 +12159,6 @@ penghargaan masa kerja, dan uang pisah) harus dibayarkan secara
 
 sekaligus (lumpsum) pada saat hubungan kerja berakhir, sementara
 
-
 -----
 
 176
@@ -12378,7 +12209,6 @@ dengan dana pensiun sukarela (voluntary):
 |Hubungan dengan<br>Pesangon|tidak<br>dapat<br>diperhitungkan<br>sebagai<br>pesangon|dapat<br>diperhitungkan<br>sebagai<br>bagian<br>dari<br>pesangon|
 |Skema<br>Pembayaran<br>Manfaat|berkala|berkala.<br>(dalam perspektif<br>ketenagakerjaan<br>pembayaran uang<br>pesangon, uang<br>penghargaan masa kerja,<br>dan uang pisah wajib<br>dibayarkan secara lumsum<br>dari dana pensiun)|
 |Pengawasan|BPJS<br>Ketenagakerjaan<br>dan<br>Kementerian<br>Ketenagakerjaan|OJK|
-
 
 -----
 
@@ -12452,7 +12282,6 @@ Kepmenaker 150/2000 dan semakin diperkuat oleh ketentuan pidana Pasal
 
 sekaligus” merupakan karakter melekat pada ketiga komponen tersebut.
 
-
 -----
 
 178
@@ -12520,7 +12349,6 @@ Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003 tentang
 
 Mahkamah Konstitusi sebagaimana telah diubah terakhir dengan Undang
 Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang
-
 
 -----
 
@@ -12591,7 +12419,6 @@ III/2005 yang diucapkan dalam sidang pleno terbuka untuk umum pada
 tanggal 31 Mei 2005 dan Putusan Mahkamah Konstitusi Nomor 11/PUU
 V/2007 yang diucapkan dalam sidang pleno terbuka untuk umum pada
 
-
 -----
 
 180
@@ -12661,7 +12488,6 @@ Pemohon telah diberikan hak konstitusional oleh UUD NRI Tahun 1945
 sebagaimana dimaksud dalam Pasal 27 ayat (2), Pasal 28D ayat (1), dan
 
 Pasal 28D ayat (2), yaitu hak untuk mendapat imbalan dan perlakuan yang
-
 
 -----
 
@@ -12734,7 +12560,6 @@ Hubungan Kerja (PP 35/2021) yang menyatakan, “Pengusaha yang
 
 mengikutsertakan Pekerja/Buruh dalam program pensiun sesuai dengan
 
-
 -----
 
 182
@@ -12805,7 +12630,6 @@ membeli produk anuitas asuransi jiwa. Karena sejatinya, peruntukan manfaat
 dana pensiun yang diatur dalam UU 4/2023 adalah untuk pembayaran
 
 pesangon atau pengganti pesangon yang diatur dalam hukum
-
 
 -----
 
@@ -12878,7 +12702,6 @@ Rp9.852.282,- (sembilan juta delapan ratus lima puluh dua ribu dua
 
 ratus delapan puluh dua rupiah) setiap bulan (vide Bukti P-11);
 
-
 -----
 
 184
@@ -12946,7 +12769,6 @@ rupiah) setiap bulan, padahal jika pembayarannya secara berkala dari
 Dana Pensiun hanya sebesar Rp5.107.466,- (lima juta seratus tujuh ribu
 
 empat ratus enam puluh enam rupiah) setiap bulan (vide Bukti P-32);
-
 
 -----
 
@@ -13020,7 +12842,6 @@ dirugikan, dikurangi atau setidak-tidaknya dihalang-halangi hak
 
 konstitusionalnya akibat keberlakuan ketentuan Pasal 161 ayat (2) dan Pasal
 
-
 -----
 
 186
@@ -13089,7 +12910,6 @@ dengan dasar pengujian dan alasan permohon dalam permohon a quo;
 5. Bahwa perbedaan dasar pengujian dan alasan permohonan dalam perkara
 
 Nomor 152/PUU-XXII/2024 dengan permohonan a quo adalah sebagai berikut:
-
 
 -----
 
@@ -13163,7 +12983,6 @@ b. Alasan permohonan dalam perkara Nomor 61/PUU-XXIII/2025 adalah (i)
 
 Manfaat pensi-un merupakan hak milik pribadi peserta; (2) Norma yang diuji
 
-
 -----
 
 188
@@ -13231,7 +13050,6 @@ Para Pemohon secara substansial telah dipertimbangkan oleh Mahkamah
 Konstitusi, sebagaimana pertimbangan hukum Putusan MK Nomor 152/PUU
 XXII/2024, halaman 313, dikutip kembali dalam Keputusan MK Nomor61/PUU
 XXIII/2025 halaman 38 …”, haruslah ditolak karena tidak berdasar;
-
 
 -----
 
@@ -13302,7 +13120,6 @@ investasi;
 **PROGRAM PENSIUN PARA PEMOHON ADALAH PROGRAM PENSIUN**
 
 **SUKARELA, BUKAN WAJIB**
-
 
 -----
 
@@ -13376,7 +13193,6 @@ didengar dalam persidangan tanggal 17 November 2025 (vide Risalah Sidang
 
 tanggal 17 November 2025);
 
-
 -----
 
 191
@@ -13446,7 +13262,6 @@ adalah bersifat sukarela (vide Bukti P-4). Artinya, pekerja/buruh pada PT
 Freeport Indonesia boleh menjadi peserta Dana Pensiun dan boleh tidak
 
 menjadi peserta Dana Pensiun;
-
 
 -----
 
@@ -13520,7 +13335,6 @@ pekerja/buruh yang mengalami PHK karena alasan memasuki usia pensiun,
 
 pembentuk Undang-Undang mengatur skema pembayaran pesangon bagi
 
-
 -----
 
 193
@@ -13587,7 +13401,6 @@ Perselisihan Perburuhan Daerah/Panitia Penyelesaian Perselisihan
 Perburuhan Pusat (P4D/P4P) yang tunduk dibawah rezim Undang-undang
 
 Nomor 22 Tahun 1957 tentang Penyelesaian Perselisihan Perburuhan;
-
 
 -----
 
@@ -13659,7 +13472,6 @@ yang bertentangan dengan peraturan perundang-undangan;
 (tiga) bulan berturut-turut atau lebih, meskipun pengusaha membayar upah
 
 secara tepat waktu sesudah itu;
-
 
 -----
 
@@ -13733,7 +13545,6 @@ melanggar peraturan perusahaan atau PKB, atau mengundurkan diri,
 
 pekerja/buruh berhak mendapat manfaat pensiun Dana Pensiun yang
 
-
 -----
 
 196
@@ -13806,7 +13617,6 @@ Kementerian Ketenagakerjaan sebagai berikut:
 pencairan manfaat pensiun secara berkala dan maksimal 20% dengan
 tanpa memberikan kejelasan pembayaran uang pesangon dan uang
 
-
 -----
 
 197
@@ -13872,7 +13682,6 @@ angka 19 dibenarkan Kementerian Ketenagakerjaan dalam keterangannya yang
 disampaikan dalam persidangan tanggal 4 November 2025 (vide Risalah Sidang
 
 tanggal 4 November 2025, halaman 11-12);
-
 
 -----
 
@@ -13946,7 +13755,6 @@ ditambah oleh pengusaha (vide Risalah Sidang tanggal 17 Oktober 2025, angka
 
 26, halaman 11, khususnya paragraf ke-2);
 
-
 -----
 
 199
@@ -14017,7 +13825,6 @@ imbalan dan perlakuan yang adil dan layak dalam hubungan kerja";
 
 **DUNIA DALAM MASA PENSIUN DIRUGIKAN 40%**
 
-
 -----
 
 200
@@ -14085,7 +13892,6 @@ Indonesia, Pemohon I berhak mendapat uang pensiun bulanan (berkala)
 sebesar Rp9.852.282,- (sembilan juta delapan ratus lima puluh dua ribu dua
 
 ratus delapan puluh dua rupiah) (vide Bukti P-11) maka sejak tanggal 1
-
 
 -----
 
@@ -14156,7 +13962,6 @@ yang layak bagi kemanusiaan” dan Pasal 28D ayat (2) UUD NRI 1945 yang
 menyatakan, "Setiap orang berhak untuk bekerja serta mendapat imbalan dan
 
 perlakuan yang adil dan layak dalam hubungan kerja";
-
 
 -----
 
@@ -14231,7 +14036,6 @@ s/d angka 38 di atas maka terbukti tidak jelas kepada siapa dibayar (sisa)
 
 manfaat Dana Pensiun jika Peserta atau Istri/Janda atau Anak meninggal dunia
 
-
 -----
 
 203
@@ -14303,7 +14107,6 @@ tiga) unit di Cikarang, Kabupaten Bekasi, dengan harga Rp1.600.000.000,
 
 dikurangi biaya perawatan dan Pajak Bumi dan Bangunan (PBB)] sebesar
 
-
 -----
 
 204
@@ -14374,7 +14177,6 @@ yaitu:
 **-** memiliki harta yang diwariskan kepada ahli waris berupa asset kontrakan;
 
 **-** keuntungan langsung dari kenaikan harga tanah/asset kontrakan;
-
 
 -----
 
@@ -14448,7 +14250,6 @@ ketidakpastian ekonomi global. Karenanya keberlakuan Pasal 161 ayat (2) dan
 
 Pasal 164 ayat (2 UU 4/2023 tidak sejalan dengan tujuan dan dasar filosofis
 
-
 -----
 
 206
@@ -14518,7 +14319,6 @@ norma yang diuji bertentangan dengan asas kepastian hukum;
 Perundang-undangan harus mencerminkan asas ketertiban dan kepastian
 
 hukum”;
-
 
 -----
 
@@ -14590,7 +14390,6 @@ daripada MK karena ada split jurisdiction yang menjadi problem sekarang
 ini bahwa peraturan di bawah undang-undang dibawa ke MA, peraturan
 di bawah ... peraturan atau undang-undang ke MK dalam judicial review.
 
-
 -----
 
 208
@@ -14653,7 +14452,6 @@ undang-undang, haruslah ditolak karena sudah menjadi yurisprudensi
 
 Mahkamah Konstitusi bahwa konstitusionalitas suatu norma dalam Undang
 Undang dapat digantungkan pada konstitusionalitas norma dalam peraturan di
-
 
 -----
 
@@ -14726,7 +14524,6 @@ memperhatikan prinsip tata kelola yang baik, …” (vide Bukti P-23);
 Sanitiar Burhanuddin membeberkan nilai kerugian kasus dugaan korupsi PT
 
 Asabri sebesar Rp 22,78 triliun. Nilai tersebut diketahui berdasarkan
-
 
 -----
 
@@ -14868,7 +14665,6 @@ ketentuan-ketentuan (norma-norma) dalam POJK 27/2023 sepanjang berkaitan
 
 dengan norma Pasal 161 ayat (2) dan Pasal 164 ayat (2) UU 4/2023 harus
 
-
 -----
 
 212
@@ -14941,7 +14737,6 @@ Republik Indonesia Tahun 1945 dan tidak mempunyai kekuatan hukum
 
 mengikat, sepanjang tidak dimaknai, "Pembayaran Manfaat Pensiun bagi
 
-
 -----
 
 213
@@ -15011,7 +14806,6 @@ Konstitusi Nomor 11/PUU-V/2007.
 2. Bahwa dalam UU P2SK, tidak menjadikan pembentukan Dana Pensiun
 
 maupun kepesertaan dalam program pensiun sebagai suatu kewajiban atau
-
 
 -----
 
@@ -15083,7 +14877,6 @@ b. Menurut Para Pemohon, syarat dan kondisi tertentu untuk pembayaran
 
 sekaligus Dana Pensiun juga seharusnya didasarkan pada pilihan
 
-
 -----
 
 215
@@ -15150,7 +14943,6 @@ dapat diterima (niet ontvankelijk verklaard).
 1. Bahwa salah satu pokok permasalahan yang dikemukakan oleh Ahli Para
 
 Pemohon di persidangan adalah “Para Peserta Program Dana Pensiun
-
 
 -----
 
@@ -15219,7 +15011,6 @@ Pensiun maka berlakulah hukum perjanjian yang mengikat satu dengan
 lainnya sebagaimana asas umumnya diatur dalam KUH Perdata serta
 
 ketentuan terkait Dana Pensiun sebagaimana diatur dalam UU P2SK dan
-
 
 -----
 
@@ -15292,7 +15083,6 @@ pengaturan mengenai penyelenggaraan program pensiun.”
 
 kesinambungan penghasilan di masa pensiun ketika Pekerja telah memasuki
 
-
 -----
 
 218
@@ -15356,7 +15146,6 @@ Tenaga Kerja Nomor PER-03/MEN/1996 Tahun 1996 dan Keputusan
 Menteri Tenaga Kerja Nomor KEP-150/MEN/2000 Tahun 2000.
 
 b. Namun demikian, dapat Pemerintah sampaikan bahwa:
-
 
 -----
 
@@ -15425,7 +15214,6 @@ antara PT Freeport Indonesia dengan Serikat Pekerja/Serikat Buruh Periode
 
 2024-2026 mengatur:
 
-
 -----
 
 220
@@ -15491,7 +15279,6 @@ diperhitungkan sebagai bagian dari pemenuhan kewajiban pengusaha
 atas uang pesangon dan uang penghargaan masa kerja serta uang pisah
 
 akibat pemutusan hubungan kerja.
-
 
 -----
 
@@ -15562,7 +15349,6 @@ kerja (Pasal 52 ayat (3) Perjanjian Kerja Bersama antara PT Freeport
 
 Indonesia dengan Serikat Pekerja/Serikat Buruh Periode 2024-2026)
 
-
 -----
 
 222
@@ -15627,7 +15413,6 @@ diatur dan disepakati antara pekerja dan pemberi kerja dalam Perjanjian
 Kerja Bersama serta perjanjian kerja pada saat proses rekrutmen pekerja,
 
 sehingga konsekuensi terkait mekanisme pembayaran manfaat pensiun
-
 
 -----
 
@@ -15699,7 +15484,6 @@ membiayai manfaat pensiun karyawan hanya menanggung sebesar 1,9%
 
 dari penghasilan dasar pensiun yang selebihnya ditanggung oleh
 
-
 -----
 
 224
@@ -15769,7 +15553,6 @@ dan batas penarikan pertama manfaat pensiun maksimal 20% demi
 
 keberlanjutan Dana Pensiun. Kedua ketentuan tersebut sama sekali tidak
 
-
 -----
 
 225
@@ -15838,7 +15621,6 @@ dibandingkan dengan pekerja yang tidak menjadi peserta Dana Pensiun.
 digunakan sebagai mekanisme redistribusi pendapatan, sumber penerimaan
 
 negara, dan/atau mekanisme kontrol masyarakat. Pemberian insentif
-
 
 -----
 
@@ -15914,7 +15696,6 @@ menyesuaikan pengaturan Dana Pensiun dengan UU P2SK, bukan untuk
 
 mengurangi hak peserta.
 
-
 -----
 
 227
@@ -15988,7 +15769,6 @@ pembayaran manfaat pensiun secara berkala untuk menjaga
 kesinambungan penghasilan peserta dan ahli waris. Tujuannya
 
 adalah perlindungan sosial, bukan pengurangan hak.
-
 
 -----
 
@@ -16065,7 +15845,6 @@ pengeluaran rumah tangga, kajian aktuaria terkait daya tahan
 manfaat pensiun dan kondisi industri Dana Pensiun dan daya dukung
 
 pendanaan.
-
 
 -----
 
@@ -16145,7 +15924,6 @@ tentang Perubahan Ketiga atas Keputusan Menteri Keuangan Nomor
 
 343/KMK.017/1998 tentang Iuran dan Manfaat Pensiun.
 
-
 -----
 
 230
@@ -16219,7 +15997,6 @@ sesuai dengan latar belakang pemberian insentif perpajakan tersebut
 sebagaimana telah dijelaskan di atas dan menimbulkan ketidakadilan
 
 karena potensi penerimaan negara tersebut dapat digunakan untuk
-
 
 -----
 
@@ -16295,7 +16072,6 @@ pada ketentuan Peraturan Otoritas Jasa Keuangan Nomor
 
 3/POJK.05/2015 tentang Investasi Dana Pensiun sebagaimana diubah
 
-
 -----
 
 232
@@ -16368,7 +16144,6 @@ dengan baik dan berkelanjutan, sehingga peserta Dana Pensiun dapat
 
 menerima manfaat yang stabil dan terjamin di masa depan. Jika
 
-
 -----
 
 233
@@ -16430,7 +16205,6 @@ tercipta ketidakpastian hukum dalam hal penentuan nilai atau besaran
 Manfaat Pensiun yang berhak diterima oleh peserta Dana Pensiun dan
 
 tidak adanya unsur tanggung jawab negara untuk dapat memastikan
-
 
 -----
 
@@ -16504,7 +16278,6 @@ Berdasarkan penjelasan dan argumentasi tambahan tersebut di atas,
 
 Pemerintah memohon kepada Yang Mulia Ketua dan Majelis Hakim Mahkamah
 
-
 -----
 
 235
@@ -16571,7 +16344,6 @@ yang ditentukan dalam Pasal 51 ayat (1) Undang-Undang Nomor 24 Tahun
 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan
 
 Undang-Undang Nomor 8 Tahun 2011 maupun berdasarkan putusan-putusan
-
 
 -----
 
@@ -16645,7 +16417,6 @@ yang menjadi permasalahan karena ketidakpatuhan pengusaha
 
 yang tidak menyiapkan pesangon yang dibayar sekaligus itu. Oleh
 
-
 -----
 
 237
@@ -16712,7 +16483,6 @@ juga bertentangan dengan prinsip keadilan, perlindungan
 terhadap pihak lemah, dan standar konstitusional dalam
 
 pembatasan hak.
-
 
 -----
 
@@ -16786,7 +16556,6 @@ kehilangan peminat.
 
 kewajiban pembayaran berkala 80% tidak dibutuhkan, tidak
 
-
 -----
 
 239
@@ -16859,7 +16628,6 @@ alasan pekerja menjadi peserta dana pensiun secara sukarela,
 
 karena berharap hak yang timbul akibat putusnya hubungan
 
-
 -----
 
 240
@@ -16930,7 +16698,6 @@ yang disampaikan secara tertulis kepada Mahkamah Konstitusi pada tanggal
 
 17 November 2025 dan 28 November 2025.
 
-
 -----
 
 241
@@ -16996,7 +16763,6 @@ Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor
 Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik
 
 Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik
-
 
 -----
 
@@ -17065,7 +16831,6 @@ huruf a;
 
 Nomor 006/PUU-III/2005 yang diucapkan dalam sidang pleno terbuka untuk umum
 
-
 -----
 
 243
@@ -17132,7 +16897,6 @@ pembayaran Manfaat Pensiun pertama kali secara sekaligus paling banyak 20%
 konstitusional sebagaimana dijamin dalam Pasal 27 ayat (2) serta Pasal 28D ayat
 
 (1), dan ayat (2) UUD NRI Tahun 1945;
-
 
 -----
 
@@ -17203,7 +16967,6 @@ keterangan kerja yang dikeluarkan oleh PT Freeport Indonesia tanggal 19
 Agustus 2025 [vide Bukti P-30] dan Pay Slip (Slip Upah) periode Juli 2025 yang
 
 dikeluarkan oleh PT Freeport Indonesia [vide Bukti P-8] serta sebagai Peserta
-
 
 -----
 
@@ -17277,7 +17040,6 @@ dirugikan dengan berlakunya norma Pasal 161 ayat (2) dan Pasal 164 ayat (2) UU
 
 sebagai peserta program dana pensiun yang bersifat sukarela namun tidak berhak
 
-
 -----
 
 246
@@ -17341,7 +17103,6 @@ Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945 dengan mengemukakan dalil
 dalil (selengkapnya dimuat dalam bagian Duduk Perkara) yang apabila dipahami
 
 dan dirumuskan Mahkamah pada pokoknya sebagai berikut:
-
 
 -----
 
@@ -17413,7 +17174,6 @@ apabila peserta memilih pembayaran manfaat pensiun secara sekaligus maka
 
 pembayarannya harus dilakukan secara sekaligus”;
 
-
 -----
 
 248
@@ -17481,7 +17241,6 @@ Desember 2025. Selain itu, Presiden juga menyerahkan kesimpulan pada tanggal
 Pemberi Keterangan, yaitu Kementerian Ketenagakerjaan Republik Indonesia, yang
 
 didengar keterangannya dalam persidangan Mahkamah pada tanggal 4 November
-
 
 -----
 
@@ -17553,7 +17312,6 @@ mengajukan permohonan ihwal manfaat pensiun merupakan hak milik pribadi
 
 peserta serta norma yang diuji merupakan aturan yang memaksa dan bersifat
 
-
 -----
 
 250
@@ -17623,7 +17381,6 @@ Pemohon a quo, Mahkamah mempertimbangkan sebagai berikut.
 kepesertaan yang bersifat sukarela dalam program dana pensiun, penting bagi
 
 Mahkamah menegaskan terlebih dahulu bahwa sebelum dibentuk sistem jaminan
-
 
 -----
 
@@ -17697,7 +17454,6 @@ tersebut sebagaimana ditegaskan dalam norma Pasal 145 ayat (1) UU 4/2023 yang
 
 menyatakan setiap karyawan pada pemberi kerja berhak menjadi peserta DPPK
 
-
 -----
 
 252
@@ -17760,7 +17516,6 @@ menegasikan manfaat pensiun karena tetap merupakan hak dari pekerja,
 sepanjang pekerja tersebut terdaftar sebagai peserta program pensiun, di
 mana nilai manfaat ditentukan berdasarkan usia pensiun, masa kerja,
 
-
 -----
 
 253
@@ -17818,7 +17573,6 @@ terdapat unsur tanggung jawab negara dalam ketentuan tersebut agar dapat
 memastikan pekerja mendapatkan jaminan perlindungan ekonomi
 meskipun telah pensiun atau tidak lagi bekerja, sehingga negara harus hadir
 dalam memberikan pengaturan, salah satunya melalui tata cara pemenuhan
-
 
 -----
 
@@ -17889,7 +17643,6 @@ ketentuan Pasal 156 ayat (2) dan uang penghargaan masa kerja 1 (satu)
 kali ketentuan Pasal 156 ayat (3), dan uang penggantian hak sesuai
 ketentuan Pasal 156 ayat (4), maka selisihnya dibayar oleh pengusaha.
 
-
 -----
 
 255
@@ -17958,7 +17711,6 @@ XVIII/2020 yang diucapkan dalam sidang pleno terbuka untuk umum pada tanggal
 25 November 2021, Mahkamah mengabulkan sebagian permohonan pengujian
 
 formil dan menyatakan UU 11/2020 inkonstitusional secara bersyarat. Namun
-
 
 -----
 
@@ -18031,7 +17783,6 @@ pekerja/buruh telah ditentukan dalam Pasal 156 dalam Pasal 81 angka 47 Lampiran
 
 UU 6/2023 yang selengkapnya menyatakan:
 
-
 -----
 
 257
@@ -18048,10 +17799,10 @@ tahun, 2 (dua) bulan Upah;
 c. masa kerja 2 (dua) tahun atau lebih tetapi kurang dari 3 (tiga)
 
 tahun, 3 (tiga) bulan Upah;
-## d. masa kerja 3 (tiga) tahun atau lebih tetapi kurang dari 4 (empat)
+**d. masa kerja 3 (tiga) tahun atau lebih tetapi kurang dari 4 (empat)**
 
 tahun, 4 (empat) bulan Upah;
-## e. masa kerja 4 (empat) tahun atau lebih tetapi kurang dari 5 (lima)
+**e. masa kerja 4 (empat) tahun atau lebih tetapi kurang dari 5 (lima)**
 
 tahun, 5 (lima) bulan Upah;
 f. masa kerja 5 (lima) tahun atau lebih, tetapi kurang dari 6 (enam)
@@ -18103,7 +17854,6 @@ dimaksud pada ayat (2), ayat (3), dan ayat (4) diatur dalam Peraturan
 Pemerintah.
 
 Berdasarkan ketentuan tersebut di atas, uang pesangon dan/atau uang
-
 
 -----
 
@@ -18176,7 +17926,6 @@ adil dan layak dalam hubungan kerja. Oleh karena itu, untuk membangun hubungan
 
 kerja yang harmonis antara pengusaha dengan pekerja/buruh agar dapat
 
-
 -----
 
 259
@@ -18241,7 +17990,6 @@ Berdasarkan kutipan uraian pertimbangan hukum di atas, Mahkamah perlu
 menegaskan kembali berkenaan dengan pengaturan kluster ketenagakerjaan
 dalam Lampiran UU 6/2023 yang harus dipisah dan dibentuk dengan undangundang ketenagakerjaan tersendiri, agar berbagai persoalan
 
-
 -----
 
 260
@@ -18305,7 +18053,6 @@ Pemohon berkenaan dengan norma Pasal 161 ayat (2) dan Pasal 164 ayat (2) UU
 uang pesangon, uang penghargaan, dan uang penggantian hak sebagai hak
 
 pekerja/buruh karena kepesertaan dalam program pensiun yang bersifat sukarela
-
 
 -----
 
@@ -18376,7 +18123,6 @@ Pemohon memohon agar Mahkamah memberikan penilaian konstitusionalitas
 
 norma dengan memberi pilihan, yaitu ihwal uang pesangon yang dapat diambil
 
-
 -----
 
 262
@@ -18437,7 +18183,6 @@ Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor
 
 216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan Undang
 Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara
-
 
 -----
 
@@ -18507,7 +18252,6 @@ penggantian hak dibayarkan secara sekaligus atau berkala sesuai dengan
 
 kehendak peserta, janda/duda, atau anak dengan memperhatikan peraturan
 
-
 -----
 
 264
@@ -18560,7 +18304,6 @@ mewakili.
 
 **ANGGOTA-ANGGOTA,**
 
-
 **ttd.**
 
 **Saldi Isra**
@@ -18568,7 +18311,6 @@ mewakili.
 **ttd.**
 
 **Ridwan Mansyur**
-
 
 **ttd.**
 
@@ -18578,11 +18320,9 @@ mewakili.
 
 **Arsul Sani**
 
-
 -----
 
 265
-
 
 **ttd.**
 
@@ -18592,7 +18332,6 @@ mewakili.
 
 **Adies Kadir**
 
-
 **ttd.**
 
 **Daniel Yusmic P. Foekh**
@@ -18601,9 +18340,7 @@ mewakili.
 
 **Liliek Pribawono Adi**
 
-
 **PANITERA PENGGANTI,**
-
 
 **ttd.**
 
@@ -18613,11 +18350,8 @@ mewakili.
 
 **Syukri Asy’ari**
 
-
 **ttd.**
 
 **Agusniwan Etra**
 
-
 -----
-

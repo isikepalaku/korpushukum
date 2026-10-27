@@ -23,17 +23,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi
+**Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/327332
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/327332)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -78,10 +83,9 @@ penyempurnaan untuk dapat menampung kebutuhan
 hukum masyarakat dan kebutuhan industri, sehingga
 perlu diganti;
 
-
 -----
 
-                       - 2 
+                       - 2
 d. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a, huruf b, dan huruf c, perlu
 menetapkan Peraturan Otoritas Jasa Keuangan tentang
@@ -116,7 +120,7 @@ BERBASIS TEKNOLOGI INFORMASI.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
 dengan:
 1. Penawaran Efek melalui Layanan Urun Dana Berbasis
@@ -130,10 +134,9 @@ dalam bentuk konvensional dan digital atau bentuk lain
 sesuai dengan perkembangan teknologi yang
 memberikan hak kepada pemiliknya untuk secara
 
-
 -----
 
-            - 3 
+            - 3
 langsung maupun tidak langsung memperoleh manfaat
 ekonomis dari penerbit atau dari pihak tertentu
 berdasarkan perjanjian dan setiap derivatif atas Efek,
@@ -184,10 +187,9 @@ untuk mendukung kegiatan antarpasar.
 penitipan Efek dan harta lain yang berkaitan dengan
 Efek, harta yang berkaitan dengan portofolio investasi
 
-
 -----
 
-            - 4 
+            - 4
 kolektif, serta jasa lain, termasuk menerima dividen,
 bunga, dan hak lain, menyelesaikan transaksi Efek,
 serta mewakili pemegang rekening yang menjadi
@@ -237,10 +239,9 @@ dan/atau khusus sesuai dengan anggaran dasar serta
 memberi nasihat kepada Direksi bagi Penyelenggara
 berbentuk badan hukum perseroan terbatas atau yang
 
-
 -----
 
-            - 5 
+            - 5
 setara dengan Dewan Komisaris bagi Penyelenggara
 berbentuk badan hukum koperasi.
 21. Dewan Pengawas Syariah adalah dewan yang
@@ -249,7 +250,7 @@ serta mengawasi pemenuhan prinsip syariah di pasar
 modal terhadap Pihak yang melakukan kegiatan
 syariah di pasar modal.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Kegiatan Layanan Urun Dana merupakan bagian dari
 kegiatan jasa keuangan di sektor pasar modal.
 (2) Pihak yang melakukan kegiatan Layanan Urun Dana
@@ -257,7 +258,7 @@ sebagaimana dimaksud pada ayat (1) dinyatakan
 sebagai Pihak yang melakukan kegiatan jasa keuangan
 di sektor pasar modal.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) Penawaran Efek oleh setiap Penerbit melalui Layanan
 Urun Dana bukan merupakan penawaran umum
 sebagaimana dimaksud dalam Undang-Undang
@@ -274,7 +275,7 @@ miliar rupiah).
 menetapkan nilai total penghimpunan dana selain nilai
 sebagaimana dimaksud pada ayat (1) huruf c.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 Penerbit merupakan perusahaan publik sebagaimana
 dimaksud dalam Undang-Undang mengenai pasar modal
 jika:
@@ -283,10 +284,9 @@ ratus) Pihak; dan
 b. jumlah modal disetor Penerbit lebih dari
 Rp30.000.000.000,00 (tiga puluh miliar rupiah).
 
-
 -----
 
-            - 6 
+            - 6
 BAB II
 KEGIATAN USAHA DAN KELEMBAGAAN
 
@@ -295,7 +295,7 @@ PENYELENGGARA
 Bagian Kesatu
 Kegiatan Usaha
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Penyelenggara dilarang melakukan kegiatan usaha
 selain kegiatan usaha Layanan Urun Dana, kecuali:
 a. sebagai penyelenggara layanan jasa keuangan
@@ -312,7 +312,7 @@ pengajuan kegiatan usaha selain kegiatan usaha
 Layanan Urun Dana ditetapkan oleh Otoritas Jasa
 Keuangan.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 Dalam melaksanakan kegiatan sebagai Penyelenggara,
 Penyelenggara dapat bekerja sama dengan:
 a. penyelenggara layanan jasa keuangan berbasis
@@ -326,7 +326,7 @@ perundang-undangan.
 Bagian Kedua
 Badan Hukum
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Badan hukum Penyelenggara merupakan badan
 hukum Indonesia berbentuk:
 a. perseroan terbatas; atau
@@ -335,11 +335,10 @@ b. koperasi.
 terbatas pada koperasi yang melaksanakan kegiatan di
 sektor jasa keuangan.
 
-
 -----
 
-            - 7 
-Pasal 8
+            - 7
+### Pasal 8 ^pasal-8
 (1) Penyelenggara berbentuk badan hukum perseroan
 terbatas sebagaimana dimaksud dalam Pasal 7 huruf a
 dapat didirikan dan dimiliki oleh:
@@ -356,7 +355,7 @@ Bagian Ketiga
 
 Permodalan
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Penyelenggara sebagaimana dimaksud dalam Pasal 7
 ayat (1) huruf a harus memiliki modal disetor paling
 sedikit Rp25.000.000.000,00 (dua puluh lima miliar
@@ -367,7 +366,7 @@ ayat (1) huruf b harus memiliki modal sendiri paling
 sedikit Rp25.000.000.000,00 (dua puluh lima miliar
 rupiah) pada saat mengajukan permohonan izin usaha.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Sumber dana modal disetor untuk mendirikan
 Penyelenggara sebagaimana dimaksud dalam Pasal 9
 dilarang berasal dari hasil tindak pidana dan untuk
@@ -379,7 +378,7 @@ berupa uang tunai, disetor penuh dan ditempatkan,
 dan/atau aset lain yang dapat dimanfaatkan sebagai
 infrastruktur pendukung Penyelenggara.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Penyelenggara wajib memiliki ekuitas paling sedikit
 Rp5.000.000.000,00 (lima miliar rupiah).
 (2) Penyelenggara yang telah memperoleh izin usaha
@@ -390,10 +389,9 @@ Penyelenggara kepada Otoritas Jasa Keuangan sebelum
 Peraturan Otoritas Jasa Keuangan ini berlaku wajib
 memiliki ekuitas paling sedikit Rp5.000.000.000,00
 
-
 -----
 
-            - 8 
+            - 8
 (lima miliar rupiah) secara bertahap dengan ketentuan:
 a. paling sedikit Rp1.000.000.000,00 (satu miliar
 rupiah) untuk jangka waktu 1 (satu) tahun;
@@ -405,7 +403,7 @@ rupiah) untuk jangka waktu 5 (lima) tahun,
 sejak Peraturan Otoritas Jasa Keuangan ini
 diundangkan.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Penyelenggara yang melakukan peningkatan modal
 disetor wajib menyampaikan laporan kepada Otoritas
 Jasa Keuangan.
@@ -442,10 +440,9 @@ g. akta perubahan anggaran dasar.
 pada ayat (1) dilakukan dengan tetap memperhatikan
 pemenuhan persyaratan kemampuan keuangan PSP.
 
-
 -----
 
-            - 9 
+            - 9
 (5) Peningkatan modal disetor dilarang dilakukan selain
 dalam bentuk:
 a. setoran tunai;
@@ -455,7 +452,7 @@ c. dividen saham.
 Bagian Keempat
 Sumber Daya Manusia
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Anggota Direksi:
 a. dilarang melakukan rangkap jabatan pada
 Penyelenggara lain; dan
@@ -488,17 +485,16 @@ daya manusia melalui kegiatan pendidikan dan
 pelatihan yang mendukung pengembangan Layanan
 Urun Dana.
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 5 ayat (1), Pasal 10 ayat (1),
 Pasal 11, Pasal 12 ayat (1), ayat (2), ayat (5), Pasal 13
 ayat (1), ayat (2), ayat (3), ayat (4), dan/atau ayat (6)
 dikenai sanksi administratif.
 
-
 -----
 
-           - 10 
+           - 10
 (2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
 juga kepada Pihak yang menyebabkan terjadinya
 pelanggaran sebagaimana dimaksud pada ayat (1).
@@ -533,7 +529,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 15
+### Pasal 15 ^pasal-15
 Izin pendirian dan penyelenggaraan kegiatan usaha
 Penyelenggara terdiri atas:
 a. persetujuan prinsip; dan
@@ -542,16 +538,15 @@ b. izin usaha.
 Bagian Kedua
 Persetujuan Prinsip
 
-Pasal 16
+### Pasal 16 ^pasal-16
 Permohonan persetujuan prinsip sebagaimana dimaksud
 dalam Pasal 15 huruf a harus diajukan kepada Otoritas Jasa
 Keuangan sesuai formulir tercantum dalam Lampiran pada
 Format 1 yang merupakan bagian tidak terpisahkan dari
 
-
 -----
 
-           - 11 
+           - 11
 Peraturan Otoritas Jasa Keuangan ini dengan disertai
 dokumen paling sedikit:
 a. fotokopi akta pendirian badan hukum yang telah
@@ -602,10 +597,9 @@ pendirian perusahaan; dan
 4. untuk pemegang saham pemerintah daerah,
 dengan melampirkan fotokopi peraturan daerah
 
-
 -----
 
-           - 12 
+           - 12
 mengenai penyertaan modal daerah untuk
 pendirian perusahaan;
 e. data Direksi dan Dewan Komisaris dengan
@@ -654,10 +648,9 @@ dalam Lampiran pada Format 7 yang merupakan
 bagian tidak terpisahkan dari Peraturan Otoritas Jasa
 Keuangan ini.
 
-
 -----
 
-           - 13 
+           - 13
 j. pedoman atau standar prosedur operasional paling
 sedikit:
 1. pendaftaran, penelaahan, dan monitoring
@@ -676,7 +669,7 @@ dan
 o. fotokopi nomor pokok wajib pajak atas nama
 Penyelenggara.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Persetujuan atau penolakan atas permohonan
 persetujuan prinsip diberikan oleh Otoritas Jasa
 Keuangan paling lama 20 (dua puluh) hari kerja setelah
@@ -706,10 +699,9 @@ d. penelitian sumber dana setoran modal; dan
 e. analisis lain berdasarkan pertimbangan Otoritas
 Jasa Keuangan.
 
-
 -----
 
-           - 14 
+           - 14
 (5) Dalam mendukung penelitian, analisis, dan penilaian
 sebagaimana dimaksud pada ayat (4), Otoritas Jasa
 Keuangan berwenang meminta dokumen yang memuat
@@ -720,7 +712,7 @@ Keuangan dapat meminta calon Penyelenggara untuk
 melakukan presentasi atau pemaparan kepada Otoritas
 Jasa Keuangan.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 Dalam hal calon Penyelenggara yang permohonan
 persetujuan prinsipnya telah disetujui oleh Otoritas Jasa
 Keuangan:
@@ -732,7 +724,7 @@ ditolak,
 persetujuan prinsip yang telah diterbitkan menjadi tidak
 berlaku.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) Persetujuan prinsip berlaku paling lama 12 (dua belas)
 bulan sejak tanggal persetujuan prinsip diterbitkan.
 (2) Pihak yang telah memperoleh persetujuan prinsip
@@ -755,15 +747,14 @@ permohonan kembali untuk memperoleh persetujuan
 prinsip setelah 12 (dua belas) bulan sejak tanggal
 penolakan dari Otoritas Jasa Keuangan.
 
-
 -----
 
-           - 15 
+           - 15
 Bagian Ketiga
 
 Izin Usaha
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Calon Penyelenggara yang akan melakukan Layanan
 Urun Dana wajib memiliki izin usaha dari Otoritas Jasa
 Keuangan.
@@ -776,7 +767,7 @@ melakukan Layanan Urun Dana.
 pendaftaran atau persetujuan sebagaimana dimaksud
 pada ayat (2) ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Permohonan perizinan calon Penyelenggara
 sebagaimana dimaksud dalam Pasal 20 harus
 disampaikan oleh Penyelenggara kepada Kepala
@@ -810,10 +801,9 @@ d) surat pernyataan pemegang saham
 perorangan tercantum dalam Lampiran
 pada Format 3 yang merupakan bagian
 
-
 -----
 
-        - 16 
+        - 16
 tidak terpisahkan dari Peraturan
 Otoritas Jasa Keuangan ini;
 2. untuk pemegang saham badan hukum,
@@ -863,10 +853,9 @@ tercantum dalam Lampiran pada Format 6
 yang merupakan bagian tidak terpisahkan
 dari Peraturan Otoritas Jasa Keuangan ini;
 
-
 -----
 
-        - 17 
+        - 17
 d. dokumen persyaratan administratif dan hasil
 penilaian sendiri yang telah dilakukan oleh calon
 Penyelenggara untuk permohonan persetujuan
@@ -917,10 +906,9 @@ mewujudkan target dimaksud; dan
 proyeksi laporan keuangan untuk 1 (satu)
 tahun ke depan;
 
-
 -----
 
-           - 18 
+           - 18
 l. surat tanda terdaftar sebagai penyelenggara sistem
 elektronik;
 m. bukti kesiapan Sistem Elektronik dan data
@@ -968,10 +956,9 @@ berlaku yang dimiliki Dewan Pengawas Syariah.
 permohonan perizinan yang disampaikan oleh calon
 Penyelenggara.
 
-
 -----
 
-           - 19 
+           - 19
 (4) Otoritas Jasa Keuangan dapat meminta informasi,
 kelengkapan dokumen, dan/atau presentasi atas
 Sistem Elektronik atau tindakan lain kepada calon
@@ -1010,7 +997,7 @@ perizinan diterima lengkap.
 Otoritas Jasa Keuangan apabila jangka waktu
 sebagaimana dimaksud pada ayat (8) terlampaui.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) Dalam memberikan persetujuan atau penolakan atas
 permohonan izin usaha sebagaimana dimaksud dalam
 Pasal 21, Otoritas Jasa Keuangan melakukan:
@@ -1024,10 +1011,9 @@ d. penelitian sumber dana setoran modal; dan
 e. analisis lain berdasarkan pertimbangan Otoritas
 Jasa Keuangan.
 
-
 -----
 
-           - 20 
+           - 20
 (2) Dalam mendukung penelitian, analisis, dan penilaian
 sebagaimana dimaksud pada ayat (1), Otoritas Jasa
 Keuangan berwenang meminta dokumen yang memuat
@@ -1037,7 +1023,7 @@ Penyelenggara yang telah memperoleh izin usaha dari
 Otoritas Jasa Keuangan dalam situs web Otoritas Jasa
 Keuangan.
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Calon Penyelenggara yang telah memperoleh izin usaha
 dari Otoritas Jasa Keuangan harus melakukan kegiatan
 usaha paling lama 20 (dua puluh) hari kerja terhitung
@@ -1061,14 +1047,14 @@ sebagaimana dimaksud pada ayat (1) dapat
 diperpanjang berdasarkan persetujuan Otoritas Jasa
 Keuangan.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 Calon Penyelenggara yang tidak memperoleh izin usaha dari
 Otoritas Jasa Keuangan dapat mengajukan permohonan
 kembali untuk memperoleh persetujuan prinsip setelah 12
 (dua belas) bulan sejak tanggal penolakan dari Otoritas Jasa
 Keuangan.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) Penyampaian permohonan persetujuan prinsip dan izin
 usaha calon Penyelenggara kepada Otoritas Jasa
 Keuangan sebagaimana dimaksud dalam Pasal 16 dan
@@ -1078,10 +1064,9 @@ sistem perizinan Otoritas Jasa Keuangan.
 persetujuan prinsip dan izin usaha sebagaimana
 dimaksud pada ayat (1) belum tersedia, permohonan
 
-
 -----
 
-           - 21 
+           - 21
 persetujuan prinsip dan izin usaha disampaikan secara
 langsung atau melalui surat elektronik kepada Otoritas
 Jasa Keuangan.
@@ -1089,7 +1074,7 @@ Jasa Keuangan.
 Bagian Kelima
 Perubahan Kepemilikan
 
-Pasal 26
+### Pasal 26 ^pasal-26
 (1) Penyelenggara wajib melaporkan perubahan
 kepemilikan kepada Otoritas Jasa Keuangan paling
 lambat 5 (lima) hari kerja sejak terjadi perubahan
@@ -1103,7 +1088,7 @@ Permohonan Persetujuan atas Perubahan Sistem
 
 Elektronik dan/atau Jenis Efek
 
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) Dalam hal terdapat:
 a. perubahan Sistem Elektronik; dan/atau
 b. perubahan jenis Efek yang ditawarkan dalam
@@ -1118,7 +1103,7 @@ Keuangan.
 Bagian Ketujuh
 Pengembalian Izin oleh Penyelenggara
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) Penyelenggara yang telah memperoleh izin dan
 menyatakan tidak akan meneruskan kegiatan
 operasionalnya dapat mengembalikan izin dengan
@@ -1132,10 +1117,9 @@ kepada Penyelenggara lain; dan
 b. menyelesaikan seluruh hak dan kewajibannya
 terkait Layanan Urun Dana.
 
-
 -----
 
-           - 22 
+           - 22
 (3) Surat permohonan pengembalian izin sebagai
 Penyelenggara sebagaimana dimaksud pada ayat (1)
 harus disampaikan tercantum dalam Lampiran pada
@@ -1173,7 +1157,7 @@ Jasa Keuangan yang timbul pada saat izin
 Penyelenggara belum dicabut sebagaimana dimaksud
 pada ayat (4).
 
-Pasal 29
+### Pasal 29 ^pasal-29
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 19 ayat (2), Pasal 20 ayat (1),
 ayat (2), Pasal 26, Pasal 27 ayat (1), dan/atau Pasal 28
@@ -1186,10 +1170,9 @@ pelanggaran sebagaimana dimaksud pada ayat (1).
 (4) Sanksi sebagaimana dimaksud pada ayat (1) berupa:
 a. peringatan tertulis;
 
-
 -----
 
-           - 23 
+           - 23
 b. denda yaitu kewajiban untuk membayar sejumlah
 uang tertentu;
 c. pembatasan kegiatan usaha;
@@ -1219,7 +1202,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 30
+### Pasal 30 ^pasal-30
 (1) Calon Pihak Utama wajib memperoleh persetujuan dari
 Otoritas Jasa Keuangan sebelum menjalankan
 tindakan, tugas, dan fungsinya sebagai Pihak Utama.
@@ -1242,10 +1225,9 @@ jumlah nominal saham yang dikeluarkan dan
 mempunyai hak suara, namun yang bersangkutan
 dapat dibuktikan telah melakukan pengendalian
 
-
 -----
 
-           - 24 
+           - 24
 Penyelenggara, baik secara langsung maupun
 tidak langsung.
 (4) Dalam hal Penyelenggara berbentuk koperasi, PSP
@@ -1268,7 +1250,7 @@ kepada calon Pihak Utama.
 Bagian Kedua
 Faktor Penilaian Kemampuan dan Kepatutan
 
-Pasal 31
+### Pasal 31 ^pasal-31
 Penilaian kemampuan dan kepatutan dilakukan untuk
 menilai calon Pihak Utama sebagaimana dimaksud dalam
 Pasal 30 harus memenuhi persyaratan:
@@ -1277,7 +1259,7 @@ anggota pendiri bagi koperasi; dan
 b. integritas, reputasi keuangan, dan kompetensi bagi
 calon anggota Direksi dan anggota Dewan Komisaris.
 
-Pasal 32
+### Pasal 32 ^pasal-32
 Persyaratan integritas bagi Pihak Utama sebagaimana
 dimaksud dalam Pasal 31, paling sedikit:
 a. cakap melakukan perbuatan hukum;
@@ -1296,10 +1278,9 @@ PSP dari Otoritas Jasa Keuangan;
 yang sehat, yang paling sedikit memuat arah dan
 strategi pengembangan Penyelenggara, dan
 
-
 -----
 
-           - 25 
+           - 25
 proyeksi keuangan untuk jangka waktu paling
 singkat 5 (lima) tahun bagi calon PSP dan calon
 anggota Direksi; dan
@@ -1314,7 +1295,7 @@ informasi Penerbit dan Pemodal; dan
 f. tidak termasuk sebagai Pihak yang dilarang untuk
 menjadi Pihak Utama.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 Persyaratan reputasi keuangan bagi Pihak Utama
 sebagaimana dimaksud dalam Pasal 31 huruf b, dibuktikan
 paling sedikit dengan:
@@ -1325,7 +1306,7 @@ anggota Dewan Komisaris yang dinyatakan bersalah
 menyebabkan suatu perseroan dinyatakan pailit dalam
 waktu 5 (lima) tahun terakhir sebelum dicalonkan.
 
-Pasal 34
+### Pasal 34 ^pasal-34
 Persyaratan kelayakan keuangan bagi PSP sebagaimana
 dimaksud dalam Pasal 31 huruf a, dibuktikan paling sedikit
 dengan:
@@ -1337,7 +1318,7 @@ c. memiliki komitmen untuk melakukan upaya yang
 diperlukan jika Penyelenggara menghadapi kesulitan
 keuangan.
 
-Pasal 35
+### Pasal 35 ^pasal-35
 Persyaratan kompetensi bagi Pihak Utama sebagaimana
 dimaksud dalam Pasal 31 huruf b, dibuktikan paling sedikit
 dengan:
@@ -1346,16 +1327,15 @@ relevan dengan jabatan; dan
 b. kemampuan untuk mengelola dan mengembangkan
 Penyelenggara secara strategis.
 
-
 -----
 
-           - 26 
+           - 26
 Bagian Ketiga
 Pengajuan Permohonan Penilaian Kemampuan dan
 
 Kepatutan
 
-Pasal 36
+### Pasal 36 ^pasal-36
 Calon Pihak Utama yang sedang menjalani:
 a. proses hukum;
 b. proses penilaian kemampuan dan kepatutan di Otoritas
@@ -1367,7 +1347,7 @@ jasa keuangan,
 tidak dapat diajukan untuk mengikuti penilaian
 kemampuan dan kepatutan untuk menjadi Pihak Utama.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 (1) Permohonan untuk memperoleh persetujuan menjadi
 Pihak Utama diajukan oleh:
 a. calon PSP atau anggota Direksi dalam hal masih
@@ -1400,10 +1380,9 @@ atau anggota Dewan Komisaris tidak dapat
 menjalankan fungsinya atau mempunyai benturan
 kepentingan dengan calon Pihak Utama.
 
-
 -----
 
-           - 27 
+           - 27
 (3) Penyelenggara harus menyampaikan daftar pemenuhan
 persyaratan administratif kepada Otoritas Jasa
 Keuangan yang ditandatangani oleh:
@@ -1453,10 +1432,9 @@ permintaan informasi dan/atau kelengkapan
 dokumen paling lambat 90 (sembilan puluh) hari
 sejak tanggal surat permintaan Otoritas Jasa
 
-
 -----
 
-           - 28 
+           - 28
 Keuangan, dianggap membatalkan permohonan
 persetujuan menjadi Pihak Utama.
 (10) Pemberitahuan atas penetapan hasil penilaian
@@ -1464,7 +1442,7 @@ kemampuan dan kepatutan sebagaimana dimaksud
 pada ayat (6) dilakukan secara tertulis kepada
 Penyelenggara
 
-Pasal 38
+### Pasal 38 ^pasal-38
 Permohonan persetujuan PSP diajukan kepada Otoritas
 Jasa Keuangan dan harus dilengkapi dengan dokumen
 persyaratan administratif paling sedikit:
@@ -1507,10 +1485,9 @@ memperoleh persetujuan dari instansi yang
 berwenang atau telah diterbitkan surat
 penerimaan pemberitahuan perubahan anggaran
 
-
 -----
 
-        - 29 
+        - 29
 dasar dari instansi yang berwenang, jika calon PSP
 merupakan badan hukum Indonesia;
 2. fotokopi akta pendirian badan hukum asing
@@ -1559,10 +1536,9 @@ a) analisis pemenuhan kecukupan nilai ekuitas
 atau setara ekuitas dibandingkan dengan
 nilai setoran modal pada Penyelenggara;
 
-
 -----
 
-           - 30 
+           - 30
 b) tidak memiliki permasalahan kewajiban
 jangka panjang dan jangka pendek
 perusahaan; dan
@@ -1612,10 +1588,9 @@ Direksi, anggota Dewan Komisaris, PSP, atau
 pengendali dari PSP yang merupakan warga negara
 asing yang diperoleh dari negaranya atau negara
 
-
 -----
 
-           - 31 
+           - 31
 dimana warga negara asing yang bersangkutan
 berdomisili jika yang bersangkutan tidak berdomisili di
 negaranya; dan
@@ -1625,7 +1600,7 @@ penilaian atas pemenuhan persyaratan sebagai calon
 PSP serta memperlancar pelaksanaan penilaian
 kemampuan dan kepatutan.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 Permohonan persetujuan Direksi diajukan kepada Otoritas
 Jasa Keuangan dan harus dilengkapi dengan dokumen
 persyaratan administratif paling sedikit:
@@ -1666,10 +1641,9 @@ j. surat pernyataan calon anggota Direksi yang
 menyatakan bahwa yang bersangkutan mempunyai
 atau tidak mempunyai hubungan keluarga karena
 
-
 -----
 
-           - 32 
+           - 32
 perkawinan dan keturunan sampai derajat kedua, baik
 secara horizontal maupun vertikal, dengan anggota
 Direksi atau anggota Dewan Komisaris dalam
@@ -1687,7 +1661,7 @@ rangka penilaian atas pemenuhan persyaratan sebagai
 calon anggota Direksi serta guna memperlancar
 pelaksanaan penilaian kemampuan dan kepatutan.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 Pengajuan permohonan persetujuan Dewan Komisaris
 harus diajukan kepada Otoritas Jasa Keuangan dengan
 dilengkapi dokumen persyaratan administratif paling
@@ -1719,10 +1693,9 @@ Peraturan Otoritas Jasa Keuangan ini;
 h. surat keterangan catatan kepolisian yang masih
 berlaku;
 
-
 -----
 
-           - 33 
+           - 33
 i. surat pernyataan bagi calon anggota Dewan Komisaris
 yang menyatakan tidak merangkap jabatan pada
 Penyelenggara lain sejak mendapat persetujuan sebagai
@@ -1750,7 +1723,7 @@ rangka penilaian atas pemenuhan persyaratan sebagai
 calon anggota Direksi serta guna memperlancar
 pelaksanaan penilaian kemampuan dan kepatutan.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 (1) Sebelum menyampaikan dokumen persyaratan
 administratif kepada Otoritas Jasa Keuangan dalam
 permohonan pencalonan, Penyelenggara harus terlebih
@@ -1773,10 +1746,9 @@ tidak terpisahkan dari Peraturan Otoritas Jasa
 Keuangan ini, telah diisi secara benar dan
 ditandatangani oleh calon yang diajukan; dan
 
-
 -----
 
-           - 34 
+           - 34
 c. hasil daftar pemenuhan persyaratan disampaikan
 bersamaan dengan dokumen persyaratan
 administratif calon yang diajukan.
@@ -1793,7 +1765,7 @@ oleh anggota Direksi lainnya dan/atau pejabat
 pengganti sebagaimana diatur dalam ketentuan
 internal Penyelenggara.
 
-Pasal 42
+### Pasal 42 ^pasal-42
 (1) Penilaian sendiri atas calon Pihak Utama sebagaimana
 dimaksud pada Pasal 37 ayat (1) memuat penilaian
 atas:
@@ -1807,7 +1779,7 @@ disampaikan bersamaan dengan dokumen persyaratan
 administratif pada saat pengajuan permohonan calon
 Pihak Utama kepada Otoritas Jasa Keuangan.
 
-Pasal 43
+### Pasal 43 ^pasal-43
 (1) Dalam hal seluruh atau mayoritas saham
 Penyelenggara dimiliki oleh pemerintah atau lembaga
 yang diberikan tugas oleh Undang-Undang untuk
@@ -1822,16 +1794,15 @@ Undang-Undang untuk menyelamatkan Penyelenggara,
 permohonan untuk memperoleh persetujuan menjadi
 PSP dapat diajukan oleh lembaga tersebut.
 
-
 -----
 
-           - 35 
+           - 35
 Bagian Keempat
 Tata Cara Penilaian Kemampuan dan Kepatutan bagi
 
 Calon Pihak Utama
 
-Pasal 44
+### Pasal 44 ^pasal-44
 Penilaian kemampuan dan kepatutan bagi calon Pihak
 Utama dilakukan melalui penilaian administratif oleh
 Otoritas Jasa Keuangan.
@@ -1841,7 +1812,7 @@ Tata Cara Penilaian Kemampuan dan Kepatutan bagi
 
 Pemegang Saham Pengendali
 
-Pasal 45
+### Pasal 45 ^pasal-45
 (1) Dalam melaksanakan penilaian administratif terhadap
 PSP, calon PSP harus melakukan presentasi atau
 pemaparan paling sedikit mengenai:
@@ -1857,7 +1828,7 @@ atau pemerintah daerah, presentasi atau pemaparan
 sebagaimana dimaksud pada ayat (1) dilakukan jika
 dianggap perlu.
 
-Pasal 46
+### Pasal 46 ^pasal-46
 (1) Dalam hal calon PSP berbentuk badan hukum,
 penilaian kemampuan dan kepatutan terhadap badan
 hukum tersebut dilakukan dengan menilai badan
@@ -1875,10 +1846,9 @@ melakukan Pengendalian.
 menyampaikan menyampaikan dokumen persyaratan
 administratif kepada Otoritas Jasa Keuangan.
 
-
 -----
 
-           - 36 
+           - 36
 (5) Hasil penilaian kemampuan dan kepatutan terhadap
 Pihak sebagaimana dimaksud pada ayat (1), ayat (2)
 ayat (3), dan ayat (4) merupakan satu kesatuan hasil
@@ -1890,7 +1860,7 @@ Tata Cara Penilaian Kemampuan dan Kepatutan bagi
 
 Direksi dan Dewan Komisaris
 
-Pasal 47
+### Pasal 47 ^pasal-47
 (1) Dalam melaksanakan penilaian administratif terhadap
 Direksi dan/atau Dewan Komisaris, Otoritas Jasa
 Keuangan dapat melakukan klarifikasi kepada calon
@@ -1916,7 +1886,7 @@ kompetensi.
 Bagian Kelima
 Penghentian Penilaian Kemampuan dan Kepatutan
 
-Pasal 48
+### Pasal 48 ^pasal-48
 (1) Otoritas Jasa Keuangan menghentikan penilaian
 kemampuan dan kepatutan calon Pihak Utama
 Penyelenggara jika calon tersebut menjalani:
@@ -1930,10 +1900,9 @@ Penyelenggara.
 (2) Penghentian sebagaimana dimaksud pada ayat (1)
 diberitahukan secara tertulis kepada Penyelenggara.
 
-
 -----
 
-           - 37 
+           - 37
 (3) Calon Pihak Utama yang dihentikan penilaian
 kemampuan dan kepatutan dapat diajukan kembali
 kepada Otoritas Jasa Keuangan untuk menjadi calon
@@ -1954,7 +1923,7 @@ pemeriksaan Otoritas Jasa Keuangan.
 Bagian Keenam
 Hasil Penilaian Kemampuan dan Kepatutan
 
-Pasal 49
+### Pasal 49 ^pasal-49
 (1) Otoritas Jasa Keuangan menetapkan hasil penilaian
 kemampuan dan kepatutan sebagai berikut:
 a. disetujui; atau
@@ -1983,11 +1952,10 @@ berkepentingan dalam melaksanakan fungsi, tugas,
 dan wewenang Otoritas Jasa Keuangan atau diwajibkan
 sesuai dengan ketentuan peraturan perundangundangan.
 
-
 -----
 
-           - 38 
-Pasal 50
+           - 38
+### Pasal 50 ^pasal-50
 (1) Calon anggota Direksi atau calon anggota Dewan
 Komisaris yang disetujui Otoritas Jasa Keuangan
 diangkat oleh rapat umum pemegang saham dalam
@@ -2007,7 +1975,7 @@ tidak dilaksanakan atau berakhir, persetujuan calon
 Pihak Utama yang diberikan oleh Otoritas Jasa
 Keuangan menjadi tidak berlaku.
 
-Pasal 51
+### Pasal 51 ^pasal-51
 (1) Calon PSP yang tidak disetujui oleh Otoritas Jasa
 Keuangan karena tidak memenuhi persyaratan
 integritas, namun telah memiliki saham Penyelenggara:
@@ -2037,10 +2005,9 @@ menghadiri, perhitungan kuorum, mengeluarkan
 suara dalam rapat umum pemegang saham, dan
 hak menerima dividen yang dibagikan, hanya
 
-
 -----
 
-           - 39 
+           - 39
 diakui sebesar jumlah saham awal; dan
 c. pengalihan kepemilikan saham sebagaimana
 dimaksud dalam huruf a wajib dilakukan paling
@@ -2059,7 +2026,7 @@ lambat 5 (lima) hari kerja setelah rapat umum
 pemegang saham mengesahkan pengalihan
 kepemilikan saham.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 (1) Calon anggota Direksi atau calon anggota Dewan
 Komisaris yang tidak disetujui oleh Otoritas Jasa
 Keuangan, namun telah mendapat persetujuan dan
@@ -2077,7 +2044,7 @@ ayat (1) kepada Otoritas Jasa Keuangan paling lama 7
 (tujuh) hari kerja setelah rapat umum pemegang saham
 pembatalan pengangkatan yang bersangkutan.
 
-Pasal 53
+### Pasal 53 ^pasal-53
 Calon anggota Direksi dan calon anggota Dewan
 Komisaris yang tidak disetujui oleh Otoritas Jasa
 Keuangan yang berasal dari peralihan jabatan, masih
@@ -2086,15 +2053,14 @@ sebelumnya sepanjang yang bersangkutan belum
 diberhentikan dari jabatan sebelumnya sesuai dengan
 anggaran dasar perusahaan.
 
-Pasal 54
+### Pasal 54 ^pasal-54
 (1) Calon Pihak Utama yang tidak disetujui sebagaimana
 dimaksud dalam Pasal 49 ayat (1) huruf b dapat
 dicalonkan kembali kepada Otoritas Jasa Keuangan
 
-
 -----
 
-           - 40 
+           - 40
 paling singkat 6 (enam) bulan sejak tanggal penetapan
 tidak disetujui oleh Otoritas Jasa Keuangan.
 (2) Dalam hal calon Pihak Utama sebagaimana dimaksud
@@ -2113,7 +2079,7 @@ dimaksud pada ayat (1) harus disertai dokumen
 pendukung yang membuktikan calon yang diajukan
 kembali telah melakukan peningkatan kompetensi.
 
-Pasal 55
+### Pasal 55 ^pasal-55
 (1) Otoritas Jasa Keuangan membatalkan persetujuan
 sebagaimana dimaksud dalam Pasal 49 ayat (1) huruf
 a, jika setelah persetujuan diberikan:
@@ -2136,7 +2102,7 @@ dimaksud dalam Pasal 52.
 Bagian Keenam
 Penilaian Kembali Pihak Utama
 
-Pasal 56
+### Pasal 56 ^pasal-56
 (1) Otoritas Jasa Keuangan dapat melakukan penilaian
 kembali terhadap:
 a. Pihak Utama; dan
@@ -2145,10 +2111,9 @@ mengelola, mengawasi, dan/atau mempunyai
 pengaruh terhadap Penyelenggara pada saat
 dilakukan penilaian kembali.
 
-
 -----
 
-           - 41 
+           - 41
 (2) Penilaian kembali terhadap Pihak Utama yang
 merupakan pengendali dilakukan dalam hal terdapat:
 a. indikasi keterlibatan; dan/atau
@@ -2199,10 +2164,9 @@ f. terbukti dinyatakan pailit dan/atau menjadi
 pemegang saham, anggota Direksi, anggota Dewan
 Komisaris, atau yang setara, yang dinyatakan
 
-
 -----
 
-           - 42 
+           - 42
 bersalah menyebabkan suatu perusahaan
 dinyatakan pailit atau dicabut izin usahanya;
 g. tidak melakukan upaya yang diperlukan pada saat
@@ -2246,16 +2210,15 @@ kembali dengan predikat lulus atau tidak lulus.
 (7) Hasil penilaian kembali bersifat mengikat dan wajib
 dipatuhi oleh Penyelenggara.
 
-Pasal 57
+### Pasal 57 ^pasal-57
 Ketentuan lebih lanjut mengenai tata cara penilaian kembali
 Pihak Utama sebagaimana dimaksud dalam Pasal 56 ayat (2)
 dan ayat (4) ditetapkan oleh Otoritas Jasa Keuangan.
 
-
 -----
 
-           - 43 
-Pasal 58
+           - 43
+### Pasal 58 ^pasal-58
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 30 ayat (1), ayat (5), Pasal 51
 ayat (1) huruf a, ayat (2) huruf a, huruf c, ayat (4), Pasal
@@ -2294,7 +2257,7 @@ KEWAJIBAN DAN LARANGAN PENYELENGGARA
 Bagian Kesatu
 Kewajiban Penyelenggara
 
-Pasal 59
+### Pasal 59 ^pasal-59
 (1) Penyelenggara wajib:
 a. melakukan penelaahan terhadap dokumen,
 informasi, dan kelayakan calon Penerbit, paling
@@ -2305,10 +2268,9 @@ usaha;
 2. organ atau pengurus badan hukum atau
 badan usaha;
 
-
 -----
 
-        - 44 
+        - 44
 3. aspek hukum permodalan;
 4. laporan keuangan Penerbit;
 5. batasan Penerbit;
@@ -2357,10 +2319,9 @@ terlampaui;
 h. menyediakan fasilitas komunikasi secara daring
 antara Pemodal dengan Penerbit;
 
-
 -----
 
-        - 45 
+        - 45
 i. memuat dalam situs web Penyelenggara mengenai
 risiko, paling sedikit risiko:
 1. usaha;
@@ -2410,10 +2371,9 @@ Urun Dana telah sesuai dengan ketentuan yang
 dipersyaratkan oleh Lembaga Penyimpanan dan
 Penyelesaian.
 
-
 -----
 
-           - 46 
+           - 46
 (2) Dalam hal Penerbit melakukan penerbitan Efek syariah
 berupa saham, selain kewajiban sebagaimana
 dimaksud pada ayat (1) Penyelenggara wajib melakukan
@@ -2425,7 +2385,7 @@ b. keputusan rapat umum pemegang saham terkait
 
 dengan pengangkatan Dewan Pengawas Syariah.
 
-Pasal 60
+### Pasal 60 ^pasal-60
 (1) Dalam melakukan penelaahan sebagaimana dimaksud
 
 dalam Pasal 59 ayat (1) huruf a, Penyelenggara wajib:
@@ -2443,13 +2403,13 @@ mendukung penelaahan atas laporan keuangan
 dan/atau dokumen Penerbit; dan/atau
 b. melakukan pemeriksaan secara langsung.
 
-Pasal 61
+### Pasal 61 ^pasal-61
 Penyelenggara wajib memastikan seluruh Penerbit dan Efek
 yang ditawarkan oleh Penerbit melalui Layanan Urun Dana
 telah terdaftar di Lembaga Penyimpanan dan Penyelesaian
 setelah masa penawaran Efek selesai.
 
-Pasal 62
+### Pasal 62 ^pasal-62
 (1) Penyelenggara dapat menggunakan jasa pihak ketiga
 untuk melakukan penelaahan sebagaimana dimaksud
 dalam Pasal 59 ayat (1) huruf a dan Pasal 59 ayat (2)
@@ -2467,11 +2427,10 @@ ketiga, Penyelenggara dan pihak ketiga baik sendiri
 maupun bersama-sama bertanggung jawab atas hasil
 penelaahan yang dilakukan oleh pihak ketiga.
 
-
 -----
 
-           - 47 
-Pasal 63
+           - 47
+### Pasal 63 ^pasal-63
 (1) Dalam hal terdapat perubahan material terkait
 dokumen dan/atau informasi sebagaimana dimaksud
 dalam Pasal 59 ayat (1) huruf b yang dapat
@@ -2486,7 +2445,7 @@ Lembaga Penyimpanan dan Penyelesaian sebagaimana
 dimaksud pada ayat (1) wajib dilakukan paling lambat
 2 (dua) hari kerja setelah terdapat perubahan material.
 
-Pasal 64
+### Pasal 64 ^pasal-64
 (1) Dalam hal Penerbit menerbitkan Efek bersifat utang
 atau Sukuk, Penyelenggara wajib melakukan
 penelaahan atas legalitas Proyek yang menjadi dasar
@@ -2503,7 +2462,7 @@ syariah, pernyataan kesesuaian syariah sebagaimana
 dimaksud pada ayat (2) dapat diperoleh dari Dewan
 Pengawas Syariah.
 
-Pasal 65
+### Pasal 65 ^pasal-65
 (1) Dalam hal Penyelenggara melayani penawaran Efek
 bersifat utang atau Sukuk oleh Penerbit, Penyelenggara
 wajib bertindak selaku kuasa Pemodal.
@@ -2520,10 +2479,9 @@ mengadministrasikan jaminan bagi pembayaran
 kewajiban kepada pemegang Efek bersifat utang
 atau Sukuk, jika terdapat jaminan bagi
 
-
 -----
 
-           - 48 
+           - 48
 pembayaran kewajiban kepada pemegang Efek
 bersifat utang atau Sukuk; dan
 d. memantau pembayaran yang dilakukan oleh
@@ -2535,7 +2493,7 @@ tidak termasuk pemberian kuasa atas pengambilan
 keputusan dalam rapat umum pemegang Efek bersifat
 utang atau Sukuk.
 
-Pasal 66
+### Pasal 66 ^pasal-66
 (1) Penyelenggara wajib memiliki dan menerapkan seluruh
 
 standar prosedur operasional.
@@ -2549,7 +2507,7 @@ operasional sebagaimana dimaksud pada ayat (2),
 Penyelenggara wajib mematuhi dan menerapkan
 perubahan standar prosedur operasional.
 
-Pasal 67
+### Pasal 67 ^pasal-67
 (1) Dalam hal Penyelenggara melakukan perubahan Sistem
 Elektronik untuk pengembangan, Penyelenggara wajib
 menyampaikan laporan kepada Otoritas Jasa
@@ -2562,7 +2520,7 @@ perubahan sistem yang akan dilakukan.
 Bagian Kedua
 Larangan Penyelenggara
 
-Pasal 68
+### Pasal 68 ^pasal-68
 Dalam menjalankan kegiatan usaha, Penyelenggara
 dilarang:
 a. memiliki hubungan afiliasi dengan Penerbit yang
@@ -2578,10 +2536,9 @@ yang memberikan informasi mengenai Pemodal
 potensial;
 e. menerima dan/atau menyimpan dana Pemodal;
 
-
 -----
 
-           - 49 
+           - 49
 f. memberikan perlakuan yang berbeda antara para
 Pengguna;
 g. mempublikasikan informasi yang tidak benar terkait
@@ -2599,7 +2556,7 @@ k. bertindak sebagai Penerbit dalam Layanan Urun Dana.
 Bagian Ketiga
 Kewajiban Laporan
 
-Pasal 69
+### Pasal 69 ^pasal-69
 Penyelenggara yang telah memperoleh izin wajib
 menyampaikan laporan kepada Otoritas Jasa Keuangan
 dengan ditembuskan kepada Lembaga Penyimpanan dan
@@ -2608,7 +2565,7 @@ a. laporan tengah tahunan;
 b. laporan tahunan; dan
 c. laporan insidentil.
 
-Pasal 70
+### Pasal 70 ^pasal-70
 (1) Laporan tengah tahunan sebagaimana dimaksud dalam
 Pasal 69 huruf a wajib memuat paling sedikit:
 a. ikhtisar data keuangan penting;
@@ -2630,10 +2587,9 @@ bersifat utang atau Sukuk, laporan memuat
 paling sedikit:
 a) jumlah dan nama Penerbit;
 
-
 -----
 
-           - 50 
+           - 50
 b) jumlah Pemodal pada masing-masing
 Penerbit;
 c) jumlah nominal dan jenis Efek bersifat
@@ -2671,7 +2627,7 @@ pada hari libur, laporan tengah tahunan wajib
 disampaikan kepada Otoritas Jasa Keuangan paling
 lama pada hari kerja berikutnya.
 
-Pasal 71
+### Pasal 71 ^pasal-71
 (1) Penyelenggara wajib menyampaikan laporan tahunan
 sebagaimana dimaksud dalam Pasal 69 huruf b kepada
 Otoritas Jasa Keuangan untuk periode pelaporan 1
@@ -2682,10 +2638,9 @@ a. laporan keuangan yang meliputi laporan laba rugi,
 laporan posisi keuangan, laporan arus kas, dan
 rasio keuangan;
 
-
 -----
 
-           - 51 
+           - 51
 b. laporan kegiatan penyelenggaraan Layanan Urun
 Dana yang meliputi:
 1. laporan kegiatan operasional sebagaimana
@@ -2735,11 +2690,10 @@ waktu penyampaian laporan tahunan sehubungan
 dengan adanya kewajiban laporan akuntan dalam
 rangka audit atas laporan keuangan dimaksud.
 
-
 -----
 
-           - 52 
-Pasal 72
+           - 52
+### Pasal 72 ^pasal-72
 (1) Penyelenggara wajib menyampaikan laporan insidentil
 sebagaimana dimaksud dalam Pasal 69 huruf c jika
 terdapat kejadian atau informasi material terkait
@@ -2751,7 +2705,7 @@ paling lambat 2 (dua) hari kerja setelah terdapatnya
 kejadian atau informasi material terkait dengan
 penyelenggaraan Layanan Urun Dana.
 
-Pasal 73
+### Pasal 73 ^pasal-73
 (1) Penyampaian laporan sebagaimana dimaksud dalam
 Pasal 12, Pasal 26, Pasal 67, dan Pasal 69 wajib
 disampaikan secara daring melalui sistem pelaporan
@@ -2788,10 +2742,9 @@ kahar sehingga tidak dapat menyampaikan laporan
 sebagaimana dimaksud pada ayat (1) sampai dengan
 batas waktu penyampaian, Penyelenggara wajib
 
-
 -----
 
-           - 53 
+           - 53
 menyampaikan surat pemberitahuan secara tertulis
 kepada Otoritas Jasa Keuangan untuk memperoleh
 penundaan batas waktu penyampaian laporan, paling
@@ -2812,7 +2765,7 @@ a. melalui alamat surat elektronik Otoritas Jasa
 Keuangan; dan/atau
 b. secara luring.
 
-Pasal 74
+### Pasal 74 ^pasal-74
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 59, Pasal 60 ayat (1), Pasal 61,
 Pasal 62 ayat (2), Pasal 63, Pasal 64 ayat (1), ayat (2),
@@ -2842,10 +2795,9 @@ tertulis sebagaimana dimaksud pada ayat (4) huruf a.
 (6) Sanksi administratif berupa denda sebagaimana
 dimaksud pada ayat (4) huruf b dapat dikenakan secara
 
-
 -----
 
-           - 54 
+           - 54
 tersendiri atau secara bersama-sama dengan
 pengenaan sanksi administratif sebagaimana dimaksud
 pada ayat (4) huruf c.
@@ -2859,7 +2811,7 @@ LAYANAN URUN DANA
 Bagian Kesatu
 Pernyataan Penyelenggara
 
-Pasal 75
+### Pasal 75 ^pasal-75
 Dalam Layanan Urun Dana, Penyelenggara wajib
 mencantumkan dalam situs web Penyelenggara, pernyataan
 dalam huruf kapital dan cetak tebal yang langsung dapat
@@ -2887,17 +2839,16 @@ c. **“PENERBIT DAN PENYELENGGARA, BAIK SENDIRI**
 Bagian Kedua
 Efek yang Dapat Ditawarkan Melalui Layanan Urun Dana
 
-Pasal 76
+### Pasal 76 ^pasal-76
 (1) Efek yang dapat ditawarkan melalui Layanan Urun
 Dana meliputi:
 a. Efek bersifat ekuitas;
 b. Efek bersifat utang; atau
 c. Sukuk.
 
-
 -----
 
-           - 55 
+           - 55
 (2) Efek bersifat ekuitas sebagaimana dimaksud pada ayat
 (1) huruf a dapat berupa saham atau Efek bersifat
 ekuitas lain yang wajib dikonversikan menjadi saham.
@@ -2905,7 +2856,7 @@ ekuitas lain yang wajib dikonversikan menjadi saham.
 lain yang dapat ditawarkan melalui Layanan Urun Dana
 selain sebagaimana dimaksud pada ayat (1).
 
-Pasal 77
+### Pasal 77 ^pasal-77
 (1) Untuk Penyelenggara yang merupakan entitas yang
 menjalankan kegiatan usaha berdasarkan prinsip
 syariah, Penyelenggara dapat menetapkan Efek bersifat
@@ -2921,7 +2872,7 @@ dan prosedur sebagaimana dimaksud pada ayat (2)
 dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan di sektor pasar modal.
 
-Pasal 78
+### Pasal 78 ^pasal-78
 (1) Efek bersifat utang atau Sukuk yang ditawarkan
 melalui Layanan Urun Dana wajib memenuhi
 ketentuan:
@@ -2945,14 +2896,13 @@ ayat (1), penerbitan Sukuk wajib memperoleh
 pernyataan kesesuaian syariah sebagaimana dimaksud
 dalam Pasal 64 ayat (2).
 
-
 -----
 
-           - 56 
+           - 56
 Bagian Ketiga
 Batasan Penawaran Efek dan Penghimpunan Dana
 
-Pasal 79
+### Pasal 79 ^pasal-79
 (1) Penerbit Efek bersifat ekuitas dan Efek bersifat utang
 atau Sukuk beserta afiliasinya dilarang menggunakan
 jasa Layanan Urun Dana melalui lebih dari 1 (satu)
@@ -2964,7 +2914,7 @@ diselenggarakannya tidak menerbitkan Efek melalui
 Penyelenggara lainnya sebagaimana dimaksud pada
 ayat (1).
 
-Pasal 80
+### Pasal 80 ^pasal-80
 (1) Penerbit Efek bersifat utang atau Sukuk wajib
 memenuhi seluruh kewajiban kepada Pemodal setelah
 melakukan penghimpunan dana melalui Layanan Urun
@@ -2975,7 +2925,7 @@ Urun Dana sebelum Penerbit memenuhi seluruh
 kewajiban kepada Pemodal sebagaimana dimaksud
 pada ayat (1).
 
-Pasal 81
+### Pasal 81 ^pasal-81
 (1) Batas penghimpunan dana melalui Layanan Urun Dana
 oleh setiap Penerbit dalam jangka waktu 12 (dua belas)
 bulan paling banyak Rp10.000.000.000,00 (sepuluh
@@ -2985,7 +2935,7 @@ sebagaimana dimaksud dalam Pasal 3 ayat (2).
 (1) dapat dilakukan dalam 1 (satu) kali penawaran atau
 lebih.
 
-Pasal 82
+### Pasal 82 ^pasal-82
 (1) Penerbit dapat menetapkan jumlah minimum dana
 yang harus diperoleh dalam penawaran Efek melalui
 Layanan Urun Dana berdasarkan kesepakatan yang
@@ -2999,10 +2949,9 @@ perolehan dana minimum; dan
 b. sumber dana lain untuk melaksanakan rencana
 penggunaan dana, jika terdapat sumber dana lain.
 
-
 -----
 
-           - 57 
+           - 57
 (3) Penerbit dilarang mengubah jumlah minimum dana
 sebagaimana dimaksud pada ayat (1) dalam masa
 penawaran Efek.
@@ -3019,11 +2968,11 @@ hari kerja setelah masa penawaran Efek berakhir.
 Bagian Keempat
 Masa Penawaran
 
-Pasal 83
+### Pasal 83 ^pasal-83
 Masa penawaran sebagaimana dimaksud dalam Pasal 81
 ayat (2) paling lama 45 (empat puluh lima) hari.
 
-Pasal 84
+### Pasal 84 ^pasal-84
 (1) Penerbit dapat membatalkan penawaran Efek melalui
 Layanan Urun Dana sebelum berakhirnya masa
 penawaran sebagaimana dimaksud dalam Pasal 83
@@ -3042,7 +2991,7 @@ dibeli oleh Pemodal.
 Bagian Kelima
 Penyetoran Dana dan Pembelian Efek
 
-Pasal 85
+### Pasal 85 ^pasal-85
 (1) Penyelenggara wajib menggunakan rekening
 Penyelenggara di Lembaga Penyimpanan dan
 Penyelesaian untuk menerima dana dari penawaran
@@ -3053,11 +3002,10 @@ Penyelesaian sebagaimana dimaksud pada ayat (1)
 telah tersedia dan dapat digunakan sebelum penawaran
 Efek dimulai.
 
-
 -----
 
-           - 58 
-Pasal 86
+           - 58
+### Pasal 86 ^pasal-86
 (1) Penyetoran dana oleh Pemodal untuk pembelian Efek
 melalui Layanan Urun Dana dilakukan dengan
 menyetorkan sejumlah dana pada rekening dana
@@ -3088,29 +3036,28 @@ untuk melakukan distribusi dana kepada Penerbit
 atau distribusi Efek kepada Pemodal berdasarkan
 pemenuhan kriteria tertentu.
 
-Pasal 87
+### Pasal 87 ^pasal-87
 Ketentuan lebih lanjut mengenai kriteria tertentu
 sebagaimana dimaksud dalam Pasal 86 ayat (5) huruf c
 ditetapkan oleh Lembaga Penyimpanan dan Penyelesaian.
 
-Pasal 88
+### Pasal 88 ^pasal-88
 Rekening urun dana pemodal sebagaimana dimaksud dalam
 Pasal 86 ayat (1) dapat digunakan untuk keperluan lainnya
 terkait dengan Layanan Urun Dana.
 
-Pasal 89
+### Pasal 89 ^pasal-89
 Otoritas Jasa Keuangan dapat menetapkan cara penyetoran
 lain dalam melakukan pembelian Efek selain sebagaimana
 dimaksud dalam Pasal 86 ayat (1).
 
-
 -----
 
-           - 59 
+           - 59
 Bagian Keenam
 Pendaftaran Efek, Penyerahan Dana, dan Penyerahan Efek
 
-Pasal 90
+### Pasal 90 ^pasal-90
 (1) Penerbit wajib mendaftarkan Efek bersifat ekuitas
 berupa saham dan Efek bersifat utang atau Sukuk pada
 Lembaga Penyimpanan dan Penyelesaian.
@@ -3120,7 +3067,7 @@ Sukuk sebagaimana dimaksud pada ayat (1)
 dilaksanakan sesuai dengan Peraturan Lembaga
 Penyimpanan dan Penyelesaian.
 
-Pasal 91
+### Pasal 91 ^pasal-91
 Dalam hal Efek yang ditawarkan merupakan Efek bersifat
 ekuitas berupa saham, Penerbit wajib:
 a. melakukan permohonan persetujuan dan/atau
@@ -3139,7 +3086,7 @@ yang disetor pada rekening Penyelenggara di Lembaga
 Penyimpanan dan Penyelesaian dalam suatu penawaran
 Efek telah terkumpul.
 
-Pasal 92
+### Pasal 92 ^pasal-92
 Penyelenggara wajib:
 a. menyerahkan dana kepada Penerbit; dan
 b. mendistribusikan Efek kepada Pemodal,
@@ -3147,7 +3094,7 @@ paling lambat 2 (dua) hari kerja setelah perjanjian
 pendaftaran Efek sebagaimana dimaksud dalam Pasal 91
 huruf b diterima Penyelenggara.
 
-Pasal 93
+### Pasal 93 ^pasal-93
 (1) Dalam hal Efek yang ditawarkan merupakan Efek
 bersifat utang atau Sukuk, Penerbit wajib:
 a. menandatangani perjanjian pendaftaran Efek
@@ -3157,10 +3104,9 @@ bukti kepemilikan Proyek; dan
 c. membuat akta pengakuan hutang yang dibuat
 secara notariil oleh notaris,
 
-
 -----
 
-           - 60 
+           - 60
 dan menyampaikan fotokopinya kepada Penyelenggara
 paling lambat 22 (dua puluh dua) hari kerja setelah
 berakhirnya masa penawaran Efek dan seluruh dana
@@ -3175,7 +3121,7 @@ menyerahkan dokumen dasar pengerjaan atau bukti
 kepemilikan Proyek dan dokumen sebagaimana
 dimaksud pada ayat (1).
 
-Pasal 94
+### Pasal 94 ^pasal-94
 Penyelenggara wajib memastikan kelengkapan persyaratan
 dokumen dan/atau informasi mengenai pendaftaran Efek
 pada Lembaga Penyimpanan dan Penyelesaian sebagaimana
@@ -3185,7 +3131,7 @@ hari kerja setelah masa penawaran Efek berakhir.
 Bagian Ketujuh
 Penawaran Bertahap
 
-Pasal 95
+### Pasal 95 ^pasal-95
 (1) Dalam hal Efek yang ditawarkan melalui Layanan Urun
 Dana merupakan Efek bersifat utang atau Sukuk,
 penawaran Efek dapat dilakukan secara bertahap.
@@ -3210,10 +3156,9 @@ d. telah melunasi seluruh kewajibannya kepada
 Pemodal sebelum melakukan penawaran Efek
 sebagaimana dimaksud dalam huruf c.
 
-
 -----
 
-           - 61 
+           - 61
 (3) Penawaran Efek secara bertahap sebagaimana
 dimaksud pada ayat (1) wajib mengikuti batasan
 penghimpunan dana sebagaimana dimaksud dalam
@@ -3258,14 +3203,13 @@ g. pernyataan Penerbit yang menyatakan Penerbit
 tidak sedang mengalami gagal bayar sampai
 dengan penyampaian informasi tambahan.
 
-
 -----
 
-           - 62 
+           - 62
 Bagian Kedelapan
 Pelaksanaan Perdagangan Efek
 
-Pasal 96
+### Pasal 96 ^pasal-96
 (1) Penyelenggara wajib menyediakan sistem bagi Pemodal
 dan/atau Penerbit untuk memperdagangkan Efek
 Penerbit yang telah dijual melalui Layanan Urun Dana
@@ -3311,11 +3255,10 @@ Penyelenggara paling lambat 2 (dua) hari kerja setelah
 berakhirnya setiap pelaksanaan perdagangan Efek
 sebagaimana dimaksud pada ayat (2) huruf c.
 
-
 -----
 
-           - 63 
-Pasal 97
+           - 63
+### Pasal 97 ^pasal-97
 Pemindahan hak atas Efek bersifat ekuitas berupa saham
 sebagai akibat pelaksanaan perdagangan sebagaimana
 dimaksud dalam Pasal 96 ayat (2) dapat dilakukan tanpa
@@ -3324,7 +3267,7 @@ akta pemindahan hak.
 Bagian Kesembilan
 Tingkat Keberhasilan Investasi
 
-Pasal 98
+### Pasal 98 ^pasal-98
 (1) Penyelenggara wajib mengumumkan tingkat
 keberhasilan investasi dalam situs web Penyelenggara.
 (2) Pengumuman tingkat keberhasilan investasi
@@ -3338,7 +3281,7 @@ d. tingkat keberhasilan investasi.
 keberhasilan investasi sebagaimana dimaksud pada
 ayat (1) ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 99
+### Pasal 99 ^pasal-99
 Tingkat keberhasilan investasi sebagaimana dimaksud
 dalam Pasal 98 paling sedikit:
 a. keberhasilan pengembalian pokok dan bunga/imbal
@@ -3351,7 +3294,7 @@ Penerbit Efek bersifat ekuitas.
 Bagian Kesepuluh
 Pembagian Dividen, Bunga, dan/atau Imbal Hasil
 
-Pasal 100
+### Pasal 100 ^pasal-100
 Pelaksanaan distribusi pembayaran dividen atas Efek
 bersifat ekuitas berupa saham kepada Pemodal wajib
 dilakukan dengan ketentuan:
@@ -3364,13 +3307,12 @@ pelaksanaan hasil rapat umum pemegang saham
 Penerbit atau organ yang setara dengan rapat umum
 pemegang saham Penerbit yang menyetujui pembagian
 
-
 -----
 
-           - 64 
+           - 64
 dividen Penerbit kepada Pemodal.
 
-Pasal 101
+### Pasal 101 ^pasal-101
 (1) Pelaksanaan distribusi pembayaran bunga/imbal
 hasil/ujrah atas Efek bersifat utang atau Sukuk kepada
 Pemodal wajib dilakukan dengan ketentuan:
@@ -3394,7 +3336,7 @@ melalui Layanan Urun Dana kepada Lembaga
 Penyimpanan dan Penyelesaian paling lambat 5 (lima)
 hari kerja setelah pelaksanaan distribusi pembayaran.
 
-Pasal 102
+### Pasal 102 ^pasal-102
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 75, Pasal 77 ayat (2), Pasal 78,
 Pasal 79, Pasal 80, Pasal 82 ayat (2), ayat (3), Pasal 85,
@@ -3418,10 +3360,9 @@ d. pembekuan kegiatan usaha;
 e. pencabutan izin usaha; dan/atau
 f. pembatalan persetujuan.
 
-
 -----
 
-           - 65 
+           - 65
 (5) Sanksi administratif sebagaimana dimaksud pada ayat
 (4) huruf b, huruf c, huruf d, huruf e, atau huruf f,
 dapat dikenakan dengan atau tanpa didahului
@@ -3442,7 +3383,7 @@ PENERBIT
 Bagian Kesatu
 Persyaratan Penerbit
 
-Pasal 103
+### Pasal 103 ^pasal-103
 (1) Dalam melakukan penghimpunan dana melalui
 Layanan Urun Dana, dengan batasan Penerbit dilarang
 merupakan:
@@ -3459,7 +3400,7 @@ usaha.
 sebagai Penerbit selain batasan sebagaimana dimaksud
 pada ayat (1).
 
-Pasal 104
+### Pasal 104 ^pasal-104
 (1) Dalam menghimpun dana melalui Layanan Urun Dana,
 Penerbit wajib menyerahkan dokumen dan/atau
 informasi kepada Penyelenggara paling sedikit:
@@ -3472,10 +3413,9 @@ yang berwenang;
 b. bagi Penerbit yang berbentuk badan usaha
 lainnya, berupa keterangan bentuk badan usaha
 
-
 -----
 
-           - 66 
+           - 66
 dan nama badan usaha serta akta pendirian dan
 anggaran dasar terakhir yang telah disahkan atau
 disetujui oleh instansi yang berwenang atau
@@ -3526,10 +3466,9 @@ a. persetujuan rapat umum pemegang saham yang
 menyetujui peningkatan modal melalui penawaran
 Efek dan perubahan anggaran dasar dengan
 
-
 -----
 
-           - 67 
+           - 67
 memuat ketentuan penitipan kolektif;
 b. kebijakan dividen, paling sedikit dalam bentuk
 kebijakan rasio pembayaran dividen;
@@ -3580,10 +3519,9 @@ Lembaga Penyimpanan dan Penyelesaian dalam suatu
 penawaran Efek terkumpul.
 (5) Penerbit yang melakukan penerbitan Efek bersifat
 
-
 -----
 
-           - 68 
+           - 68
 utang yang wajib dikonversi menjadi saham, selain
 wajib menyampaikan dokumen dan/atau informasi
 sebagaimana dimaksud pada ayat (1), juga wajib
@@ -3617,7 +3555,7 @@ sebagaimana dimaksud pada ayat (2) huruf a
 disampaikan paling lambat 2 (dua) hari kerja sebelum
 dimulainya masa penawaran.
 
-Pasal 105
+### Pasal 105 ^pasal-105
 Jangka waktu antara tanggal laporan keuangan
 sebagaimana dimaksud dalam Pasal 104 ayat (1) huruf j dan
 tanggal dimulainya masa penawaran Efek paling lama 6
@@ -3626,19 +3564,18 @@ tanggal dimulainya masa penawaran Efek paling lama 6
 Bagian Kedua
 Penggunaan Dana
 
-Pasal 106
+### Pasal 106 ^pasal-106
 Penerbit wajib menggunakan seluruh dana hasil penawaran
 Efek untuk membiayai atau membiayai ulang Proyek atau
 kegiatan usaha di wilayah negara Republik Indonesia.
 
-
 -----
 
-           - 69 
+           - 69
 Bagian Ketiga
 Bukti Kepemilikan Efek
 
-Pasal 107
+### Pasal 107 ^pasal-107
 (1) Pemodal yang membeli Efek melalui Penyelenggara
 mendapat bukti kepemilikan berupa catatan
 kepemilikan Efek yang terdapat dalam rekening Efek
@@ -3658,7 +3595,7 @@ kerja berikutnya.
 Bagian Keempat
 Laporan Penerbit
 
-Pasal 108
+### Pasal 108 ^pasal-108
 (1) Penerbit yang melakukan penerbitan Efek bersifat
 ekuitas berupa saham, wajib menyampaikan laporan
 tahunan kepada Penyelenggara paling lambat 6 (enam)
@@ -3684,10 +3621,9 @@ disampaikan dan diumumkan hingga dana hasil
 penawaran Efek bersifat ekuitas berupa saham melalui
 Layanan Urun Dana telah habis digunakan.
 
-
 -----
 
-           - 70 
+           - 70
 (6) Penyelenggara wajib melakukan penelaahan atas
 dokumen dan/atau informasi terkait realisasi
 penggunaan dana Penerbit yang disertai dengan
@@ -3702,7 +3638,7 @@ Proyek; dan
 b. dokumentasi perkembangan atas pelaksanaan
 kegiatan usaha atau Proyek.
 
-Pasal 109
+### Pasal 109 ^pasal-109
 (1) Penerbit yang menerbitkan Efek bersifat utang atau
 Sukuk wajib menyampaikan laporan secara berkala
 setiap 3 (tiga) bulan, pada bulan Maret, Juni,
@@ -3733,14 +3669,13 @@ pada ayat (3) berlaku hingga Efek bersifat utang atau
 Sukuk jatuh tempo dan/atau Penerbit telah memenuhi
 seluruh kewajibannya kepada Pemodal.
 
-Pasal 110
+### Pasal 110 ^pasal-110
 (1) Selain menyampaikan laporan sebagaimana dimaksud
 dalam Pasal 108 dan Pasal 109, Penerbit wajib
 
-
 -----
 
-           - 71 
+           - 71
 menyampaikan laporan insidentil jika terdapat
 informasi atau kejadian material yang dapat
 memengaruhi kelangsungan usaha Penerbit atau
@@ -3757,7 +3692,7 @@ masyarakat melalui situs web Penyelenggara paling
 lambat 2 (dua) hari kerja setelah laporan insidentil
 diterima dari Penerbit.
 
-Pasal 111
+### Pasal 111 ^pasal-111
 Dalam hal Penerbit tidak lagi memenuhi kriteria harta
 kekayaan bersih sebagai Penerbit sebagaimana dimaksud
 dalam Pasal 103 ayat (1) huruf c, laporan keuangan yang
@@ -3771,7 +3706,7 @@ Dana dan Pembatalan Pendaftaran Efek pada Lembaga
 
 Penyimpanan dan Penyelesaian
 
-Pasal 112
+### Pasal 112 ^pasal-112
 (1) Penerbit yang telah melakukan penawaran Efek bersifat
 ekuitas berupa saham melalui Layanan Urun Dana dan
 memenuhi kondisi:
@@ -3792,10 +3727,9 @@ pada Lembaga Penyimpanan dan Penyelesaian.
 Penerbit pada Layanan Urun Dana dan permohonan
 pembatalan pendaftaran Efek pada Lembaga
 
-
 -----
 
-           - 72 
+           - 72
 Penyimpanan dan Penyelesaian sebagaimana dimaksud
 pada ayat (1) wajib diumumkan kepada Pemodal
 melalui situs web Penyelenggara paling lambat 2 (dua)
@@ -3816,7 +3750,7 @@ b. bukti penyelesaian kewajiban kepada
 Penyelenggara dan Lembaga Penyimpanan dan
 Penyelesaian.
 
-Pasal 113
+### Pasal 113 ^pasal-113
 (1) Dalam kondisi tertentu, Lembaga Penyimpanan dan
 Penyelesaian dapat membatalkan pendaftaran Efek
 Penerbit.
@@ -3828,7 +3762,7 @@ Penyimpanan dan Penyelesaian.
 Bagian Keenam
 Daftar Pemegang Saham
 
-Pasal 114
+### Pasal 114 ^pasal-114
 Dalam hal Efek yang diterbitkan melalui Layanan Urun
 Dana merupakan Efek bersifat ekuitas berupa saham,
 Penerbit wajib mencatatkan kepemilikan saham Pemodal
@@ -3842,15 +3776,14 @@ Penambahan Modal Dengan Memberikan Hak Memesan
 
 Efek Terlebih Dahulu
 
-Pasal 115
+### Pasal 115 ^pasal-115
 (1) Penambahan modal Penerbit dilakukan berdasarkan
 persetujuan rapat umum pemegang saham.
 (2) Rapat umum pemegang saham dapat menyerahkan
 
-
 -----
 
-           - 73 
+           - 73
 kewenangan kepada Dewan Komisaris untuk
 memberikan persetujuan pelaksanaan keputusan rapat
 umum pemegang saham sebagaimana dimaksud pada
@@ -3861,7 +3794,7 @@ ayat (2) sewaktu-waktu dapat ditarik kembali oleh rapat
 umum pemegang saham sesuai dengan ketentuan
 peraturan perundang-undangan.
 
-Pasal 116
+### Pasal 116 ^pasal-116
 (1) Keputusan rapat umum pemegang saham untuk
 penambahan modal sebagaimana dimaksud dalam
 Pasal 115 ayat (1) menjadi sah jika dilakukan dengan
@@ -3877,7 +3810,7 @@ dan disetujui oleh lebih dari 1/2 (satu per dua) bagian
 dari jumlah seluruh suara yang dikeluarkan, kecuali
 ditentukan lebih besar dalam anggaran dasar.
 
-Pasal 117
+### Pasal 117 ^pasal-117
 (1) Seluruh saham yang diterbitkan untuk penambahan
 modal Penerbit harus terlebih dahulu ditawarkan
 kepada setiap pemegang saham seimbang dengan
@@ -3900,10 +3833,9 @@ pemegang saham; atau
 dan/atau restrukturisasi yang telah disetujui
 oleh rapat umum pemegang saham.
 
-
 -----
 
-           - 74 
+           - 74
 (3) Dalam hal pemegang saham sebagaimana dimaksud
 pada ayat (1) tidak menggunakan hak untuk membeli
 dan membayar lunas saham yang dibeli dalam jangka
@@ -3914,7 +3846,7 @@ yang tidak diambil bagian tersebut kepada pihak ketiga.
 Paragraf 2
 Pembelian Kembali Saham Penerbit
 
-Pasal 118
+### Pasal 118 ^pasal-118
 (1) Penerbit dapat membeli kembali sahamnya sesuai
 dengan ketentuan Pasal 37 dan Pasal 38 UndangUndang mengenai perseroan terbatas.
 (2) Pembelian kembali saham sebagaimana dimaksud pada
@@ -3924,13 +3856,13 @@ rapat umum pemegang saham.
 dengan ketentuan Undang-Undang mengenai
 perseroan terbatas.
 
-Pasal 119
+### Pasal 119 ^pasal-119
 Selain pembelian kembali saham sebagaimana dimaksud
 dalam Pasal 118, Penerbit dapat membeli kembali sahamnya
 untuk memenuhi ketentuan Pasal 62 Undang-Undang
 mengenai perseroan terbatas.
 
-Pasal 120
+### Pasal 120 ^pasal-120
 (1) Pelaksanaan pembelian kembali saham sebagaimana
 dimaksud dalam Pasal 118 ayat (1) wajib diselesaikan
 paling lama 12 (dua belas) bulan setelah tanggal rapat
@@ -3940,7 +3872,7 @@ kembali saham.
 Layanan Urun Dana maupun di luar Layanan Urun
 Dana.
 
-Pasal 121
+### Pasal 121 ^pasal-121
 Dalam hal pembelian kembali saham dilakukan melalui
 Layanan Urun Dana sebagaimana dimaksud dalam Pasal
 120 ayat (2), pembelian kembali saham wajib memenuhi
@@ -3951,14 +3883,13 @@ b. harga penawaran untuk membeli kembali saham harus
 lebih rendah atau sama dengan harga transaksi pada
 perdagangan Efek yang terjadi sebelumnya.
 
-
 -----
 
-           - 75 
+           - 75
 Bagian Kedelapan
 Proyek dan Jaminan
 
-Pasal 122
+### Pasal 122 ^pasal-122
 (1) Proyek yang menjadi dasar penerbitan Efek bersifat
 utang atau Sukuk melalui Layanan Urun Dana wajib
 memiliki manfaat ekonomis.
@@ -3968,14 +3899,14 @@ dimiliki sendiri atau merupakan perintah Pihak lain.
 menjadi dasar penerbitan Sukuk, Proyek wajib tidak
 bertentangan dengan prinsip syariah di pasar modal.
 
-Pasal 123
+### Pasal 123 ^pasal-123
 Dalam hal penerbitan Efek bersifat utang atau Sukuk
 dijamin dengan kekayaan Penerbit atau bentuk penjaminan
 lainnya atau ditanggung, pembebanan jaminan atau
 penanggungan wajib dilaksanakan sesuai dengan ketentuan
 peraturan perundang-undangan.
 
-Pasal 124
+### Pasal 124 ^pasal-124
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 103 ayat (1), Pasal 104 ayat (1),
 ayat (2), ayat (3), ayat (5), ayat (6), Pasal 106, Pasal 107
@@ -4004,10 +3935,9 @@ dapat dikenakan dengan atau tanpa didahului
 pengenaan sanksi administratif berupa peringatan
 tertulis sebagaimana dimaksud pada ayat (4) huruf a.
 
-
 -----
 
-           - 76 
+           - 76
 (6) Sanksi administratif berupa denda sebagaimana
 dimaksud pada ayat (4) huruf b dapat dikenakan secara
 tersendiri atau secara bersama-sama dengan
@@ -4020,7 +3950,7 @@ peraturan perundang-undangan di bidang pasar modal.
 BAB VIII
 PEMODAL
 
-Pasal 125
+### Pasal 125 ^pasal-125
 (1) Pemodal yang melakukan pemesanan Efek melalui
 Layanan Urun Dana harus terlebih dahulu memiliki
 nomor tunggal identitas pemodal.
@@ -4058,10 +3988,9 @@ Dana sebagaimana dimaksud pada ayat (4) dihitung
 dari nilai pembelian Efek pada seluruh Penyelenggara
 berdasarkan penilaian sendiri oleh Pemodal.
 
-
 -----
 
-           - 77 
+           - 77
 (6) Dalam hal Pemodal merupakan:
 a. badan hukum; atau
 b. Pihak yang mempunyai pengalaman berinvestasi
@@ -4072,7 +4001,7 @@ kriteria Pemodal dan batasan pembelian Efek oleh
 Pemodal sebagaimana dimaksud pada ayat (4) tidak
 berlaku.
 
-Pasal 126
+### Pasal 126 ^pasal-126
 (1) Dalam hal Efek yang diterbitkan melalui Layanan Urun
 Dana merupakan Efek bersifat utang atau Sukuk
 dijamin atau ditanggung dengan nilai penjaminan atau
@@ -4092,7 +4021,7 @@ penilaian wajib dilakukan dengan penilai yang terdaftar
 di Otoritas Jasa Keuangan sebagaimana dimaksud
 pada ayat (2) huruf a.
 
-Pasal 127
+### Pasal 127 ^pasal-127
 (1) Pemodal dapat membatalkan rencana pembelian Efek
 melalui Layanan Urun Dana paling lambat dalam waktu
 48 (empat puluh delapan) jam setelah melakukan
@@ -4109,11 +4038,10 @@ Penyelenggara wajib mengembalikan dana kepada
 Pemodal paling lambat 2 (dua) hari kerja setelah
 pembatalan pemesanan Pemodal.
 
-
 -----
 
-           - 78 
-Pasal 128
+           - 78
+### Pasal 128 ^pasal-128
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 125 ayat (3), Pasal 126 ayat (2),
 ayat (3), dan/atau Pasal 127 ayat (3), dikenai sanksi
@@ -4152,7 +4080,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 129
+### Pasal 129 ^pasal-129
 Dalam menyelenggarakan Layanan Urun Dana,
 Penyelenggara wajib melakukan perjanjian paling sedikit:
 a. perjanjian penyelenggaraan Layanan Urun Dana
@@ -4162,16 +4090,15 @@ bersifat utang atau Sukuk dengan Penerbit; dan
 c. perjanjian penyelenggaraan Layanan Urun Dana
 dengan Pemodal.
 
-
 -----
 
-           - 79 
+           - 79
 Bagian Kedua
 Perjanjian Penyelenggaraan Layanan Urun Dana antara
 
 Penyelenggara dan Penerbit
 
-Pasal 130
+### Pasal 130 ^pasal-130
 (1) Perjanjian penyelenggaraan Layanan Urun Dana antara
 Penyelenggara dan Penerbit sebagaimana dimaksud
 dalam Pasal 129 huruf a harus dituangkan dalam akta.
@@ -4202,7 +4129,7 @@ dimaksud pada ayat (4) wajib memuat larangan bagi
 Penerbit untuk menawarkan Efek bersifat ekuitas
 berupa saham pada Penyelenggara lain.
 
-Pasal 131
+### Pasal 131 ^pasal-131
 (1) Perjanjian penerbitan Efek bersifat utang atau Sukuk
 antara Penyelenggara selaku kuasa Pemodal dengan
 Penerbit sebagaimana dimaksud dalam Pasal
@@ -4217,10 +4144,9 @@ a. nomor perjanjian;
 b. tanggal perjanjian;
 c. identitas para Pihak;
 
-
 -----
 
-           - 80 
+           - 80
 d. ketentuan mengenai hak dan kewajiban para
 Pihak;
 e. jumlah pokok dan/atau nilai pokok, jatuh tempo,
@@ -4253,7 +4179,7 @@ Perjanjian Penyelenggaraan Layanan Urun Dana antara
 
 Penyelenggara dan Pemodal
 
-Pasal 132
+### Pasal 132 ^pasal-132
 (1) Perjanjian penyelenggaraan Layanan Urun Dana antara
 Penyelenggara dan Pemodal sebagaimana dimaksud
 dalam Pasal 129 huruf c dapat dituangkan dalam
@@ -4271,10 +4197,9 @@ untuk mewakili Pemodal sebagai pemegang saham
 Penerbit termasuk dalam rapat umum pemegang
 saham Penerbit atau organ yang setara dengan rapat
 
-
 -----
 
-           - 81 
+           - 81
 umum pemegang saham Penerbit dan
 penandatanganan akta serta dokumen terkait lainnya.
 (4) Dalam hal Penyelenggara melakukan penawaran Efek
@@ -4287,14 +4212,14 @@ sebagai pemegang Efek bersifat utang atau Sukuk.
 Bagian Keempat
 Tanda Tangan Elektronik
 
-Pasal 133
+### Pasal 133 ^pasal-133
 Perjanjian sebagaimana dimaksud dalam Pasal 130,
 Pasal 131, dan Pasal 132 dapat ditandatangani
 menggunakan tanda tangan elektronik atau bentuk lain
 yang dapat diakses Pengguna melalui Sistem Elektronik
 Penyelenggara sesuai dengan ketentuan perundangundangan.
 
-Pasal 134
+### Pasal 134 ^pasal-134
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 129, Pasal 130 ayat (4), ayat (5),
 Pasal 131 ayat (4), ayat (5), dan/atau Pasal 132 ayat (4)
@@ -4324,10 +4249,9 @@ tersendiri atau secara bersama-sama dengan
 pengenaan sanksi administratif sebagaimana dimaksud
 pada ayat (4) huruf c.
 
-
 -----
 
-           - 82 
+           - 82
 (7) Tata cara pengenaan sanksi sebagaimana dimaksud
 pada ayat (3) dilakukan sesuai dengan ketentuan
 peraturan perundang-undangan di bidang pasar modal.
@@ -4335,17 +4259,17 @@ peraturan perundang-undangan di bidang pasar modal.
 BAB X
 MITIGASI RISIKO
 
-Pasal 135
+### Pasal 135 ^pasal-135
 Penyelenggara dan Penerbit wajib melakukan mitigasi risiko.
 
-Pasal 136
+### Pasal 136 ^pasal-136
 Penyelenggara wajib menyelenggarakan Sistem Elektronik
 secara andal dan aman serta bertanggung jawab terhadap
 beroperasinya Sistem Elektronik sesuai dengan peraturan
 perundang-undangan mengenai informasi dan transaksi
 elektronik.
 
-Pasal 137
+### Pasal 137 ^pasal-137
 (1) Penyelenggara dapat bekerja sama dan melakukan
 pertukaran data dengan penyelenggara layanan
 pendukung berbasis Teknologi Informasi untuk
@@ -4362,7 +4286,7 @@ Informasi.
 Teknologi Informasi sebagaimana dimaksud pada ayat
 (4) ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 138
+### Pasal 138 ^pasal-138
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 135, Pasal 136, dan/atau Pasal
 137 ayat (2) dikenai sanksi administratif.
@@ -4378,10 +4302,9 @@ uang tertentu;
 c. pembatasan kegiatan usaha;
 d. pembekuan kegiatan usaha;
 
-
 -----
 
-           - 83 
+           - 83
 e. pencabutan izin usaha; dan/atau
 f. pembatalan persetujuan.
 (5) Sanksi administratif sebagaimana dimaksud pada ayat
@@ -4406,7 +4329,7 @@ PENYELENGGARAAN LAYANAN URUN DANA
 Bagian Kesatu
 Sistem Elektronik
 
-Pasal 139
+### Pasal 139 ^pasal-139
 (1) Penyelenggara wajib menggunakan Sistem Elektronik
 dalam menyelenggarakan kegiatan usahanya.
 (2) Sistem Elektronik sebagaimana dimaksud pada ayat (1)
@@ -4423,29 +4346,28 @@ menyelenggarakan kegiatan usahanya.
 Bagian Kedua
 Pusat Data dan Pusat Pemulihan Bencana
 
-Pasal 140
+### Pasal 140 ^pasal-140
 (1) Penyelenggara wajib menggunakan pusat data dan
 pusat pemulihan bencana.
 (2) Pusat data dan pusat pemulihan bencana sebagaimana
 dimaksud pada ayat (1) wajib ditempatkan di Indonesia.
 
-
 -----
 
-           - 84 
+           - 84
 Bagian Ketiga
 Pusat Data Terintegrasi, Data Transaksi,
 
 dan Kerahasiaan Data
 
-Pasal 141
+### Pasal 141 ^pasal-141
 (1) Penyelenggara wajib mendaftarkan Penerbit kepada
 pusat data terintegrasi Layanan Urun Dana.
 (2) Penyedia pusat data terintegrasi Layanan Urun Dana
 sebagaimana dimaksud pada ayat (1) ditunjuk oleh
 Otoritas Jasa Keuangan.
 
-Pasal 142
+### Pasal 142 ^pasal-142
 (1) Data dan/atau informasi mengenai:
 a. kinerja Penerbit secara berkala; dan
 b. kondisi gagal bayar,
@@ -4476,17 +4398,16 @@ b. penyampaian informasi dan/atau data melalui
 pusat data terintegrasi Layanan Urun Dana,
 ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 143
+### Pasal 143 ^pasal-143
 Penyelenggara wajib:
 a. menjaga kerahasiaan, keutuhan, dan ketersediaan data
 pribadi, data transaksi, dan data keuangan yang
 dikelola Penyelenggara sejak data diperoleh hingga data
 tersebut dimusnahkan;
 
-
 -----
 
-           - 85 
+           - 85
 b. memastikan tersedianya proses autentikasi, verifikasi,
 dan validasi secara elektronik yang mendukung
 kenirsangkalan dalam mengakses, memproses, dan
@@ -4510,7 +4431,7 @@ dikelola Penyelenggara.
 Bagian Ketiga
 Rekam Jejak Audit
 
-Pasal 144
+### Pasal 144 ^pasal-144
 (1) Penyelenggara wajib menyediakan rekam jejak audit
 terhadap seluruh kegiatan di dalam Sistem Elektronik
 Layanan Urun Dana.
@@ -4528,16 +4449,15 @@ dengan ketentuan peraturan perundang-undangan.
 Bagian Keempat
 Sistem Pengamanan
 
-Pasal 145
+### Pasal 145 ^pasal-145
 (1) Penyelenggara wajib melakukan pengamanan terhadap
 Sistem Elektronik yang menjalankan prosedur dan
 sarana untuk pengamanan dalam menghindari
 gangguan, kegagalan, dan kerugian.
 
-
 -----
 
-           - 86 
+           - 86
 (2) Penyelenggara wajib menyediakan sistem pengamanan
 yang mencakup:
 a. prosedur;
@@ -4557,7 +4477,7 @@ informasi dengan cakupan menyeluruh.
 Bagian Kelima
 Akses dan Penggunaan Data Pribadi
 
-Pasal 146
+### Pasal 146 ^pasal-146
 (1) Penyelenggara wajib memperoleh persetujuan dari
 pemilik data pribadi untuk memperoleh dan
 menggunakan data pribadi.
@@ -4579,17 +4499,16 @@ dilakukan melalui permohonan secara tertulis.
 Bagian Keenam
 Penyimpanan dan Penghapusan Data
 
-Pasal 147
+### Pasal 147 ^pasal-147
 Ketentuan mengenai mekanisme penyimpanan dan
 penghapusan data pribadi tunduk pada ketentuan
 peraturan perundang-undangan mengenai pelindungan
 data pribadi.
 
-
 -----
 
-           - 87 
-Pasal 148
+           - 87
+### Pasal 148 ^pasal-148
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 139, Pasal 140, Pasal 141 ayat
 (1), Pasal 143, Pasal 144 ayat (1), ayat (2), Pasal 145
@@ -4627,16 +4546,15 @@ EDUKASI DAN PELINDUNGAN PENGGUNA
 
 LAYANAN URUN DANA
 
-Pasal 149
+### Pasal 149 ^pasal-149
 Prinsip pelindungan konsumen yang relevan sebagaimana
 diatur dalam Peraturan Otoritas Jasa Keuangan mengenai
 pelindungan konsumen dan masyarakat di sektor jasa
 keuangan berlaku bagi Penyelenggara.
 
-
 -----
 
-           - 88 
+           - 88
 BAB XIII
 PENERAPAN PROGRAM ANTI PENCUCIAN UANG,
 
@@ -4645,7 +4563,7 @@ PENCEGAHAN PENDANAAN PROLIFERASI SENJATA
 
 PEMUSNAH MASSAL
 
-Pasal 150
+### Pasal 150 ^pasal-150
 Penyelenggara wajib menerapkan program anti pencucian
 uang, pencegahan pendanaan terorisme dan pencegahan
 pendanaan proliferasi senjata pemusnah massal di sektor
@@ -4654,7 +4572,7 @@ peraturan perundang-undangan mengenai penerapan
 program anti pencucian uang dan pencegahan pendanaan
 terorisme.
 
-Pasal 151
+### Pasal 151 ^pasal-151
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 150 dikenai sanksi
 administratif.
@@ -4686,18 +4604,17 @@ pada ayat (4) huruf c.
 pada ayat (3) dilakukan sesuai dengan ketentuan
 peraturan perundang-undangan di bidang pasar modal.
 
-
 -----
 
-           - 89 
+           - 89
 BAB XIV
 ASOSIASI PENYELENGGARA
 
-Pasal 152
+### Pasal 152 ^pasal-152
 Penyelenggara wajib terdaftar sebagai anggota Asosiasi yang
 telah diakui oleh Otoritas Jasa Keuangan.
 
-Pasal 153
+### Pasal 153 ^pasal-153
 (1) Pengurus Asosiasi sebagaimana dimaksud dalam Pasal
 152 wajib berasal dari perwakilan Penyelenggara yang
 telah memperoleh izin usaha dari Otoritas Jasa
@@ -4716,7 +4633,7 @@ memiliki program kerja dan kode etik.
 (5) Penyelenggara wajib mematuhi kode etik Asosiasi
 sebagaimana dimaksud pada ayat (4).
 
-Pasal 154
+### Pasal 154 ^pasal-154
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 152, Pasal 153 ayat (1) dan/atau
 ayat (5) dikenai sanksi administratif.
@@ -4739,10 +4656,9 @@ dapat dikenakan dengan atau tanpa didahului
 pengenaan sanksi administratif berupa peringatan
 tertulis sebagaimana dimaksud pada ayat (4) huruf a.
 
-
 -----
 
-           - 90 
+           - 90
 (6) Sanksi administratif berupa denda sebagaimana
 dimaksud pada ayat (4) huruf b dapat dikenakan secara
 tersendiri atau secara bersama-sama dengan
@@ -4755,7 +4671,7 @@ peraturan perundang-undangan di bidang pasar modal.
 BAB XV
 KETENTUAN LAIN-LAIN
 
-Pasal 155
+### Pasal 155 ^pasal-155
 Penerbitan Efek bersifat utang atau Sukuk yang dilakukan
 melalui Layanan Urun Dana sebagaimana diatur dalam
 Peraturan Otoritas Jasa Keuangan ini tidak tunduk pada
@@ -4764,14 +4680,14 @@ Jasa Keuangan mengenai penerbitan Efek bersifat utang
 dan/atau Sukuk yang dilakukan tanpa melalui penawaran
 umum.
 
-Pasal 156
+### Pasal 156 ^pasal-156
 Selain sanksi administratif sebagaimana diatur dalam
 Peraturan Otoritas Jasa Keuangan ini, Otoritas Jasa
 Keuangan dapat melakukan tindakan tertentu terhadap
 setiap Pihak yang melakukan pelanggaran ketentuan
 Peraturan Otoritas Jasa Keuangan ini.
 
-Pasal 157
+### Pasal 157 ^pasal-157
 Otoritas Jasa Keuangan dapat mengumumkan pengenaan
 sanksi administratif sebagaimana diatur dalam Peraturan
 Otoritas Jasa Keuangan ini dan tindakan tertentu
@@ -4781,7 +4697,7 @@ masyarakat.
 BAB XVI
 KETENTUAN PERALIHAN
 
-Pasal 158
+### Pasal 158 ^pasal-158
 Bagi calon Penyelenggara yang telah mengajukan
 permohonan perizinan sebagai Penyelenggara kepada
 Otoritas Jasa Keuangan sebelum Peraturan Otoritas Jasa
@@ -4791,17 +4707,16 @@ Keuangan ini; dan
 b. dikecualikan dari pemenuhan persyaratan modal
 disetor sebagaimana dimaksud dalam Pasal 9.
 
-
 -----
 
-           - 91 
-Pasal 159
+           - 91
+### Pasal 159 ^pasal-159
 Penyelenggara yang telah memperoleh izin usaha dari
 Otoritas Jasa Keuangan sebelum Peraturan Otoritas Jasa
 Keuangan ini berlaku tidak wajib memenuhi persyaratan
 modal disetor sebagaimana dimaksud dalam Pasal 9.
 
-Pasal 160
+### Pasal 160 ^pasal-160
 Pemenuhan ketentuan penggunaan rekening urun dana
 Pemodal oleh Lembaga Penyimpanan dan Penyelesaian
 sebagaimana dimaksud dalam Pasal 86 dilakukan paling
@@ -4811,7 +4726,7 @@ Keuangan ini diundangkan.
 BAB XVII
 KETENTUAN PENUTUP
 
-Pasal 161
+### Pasal 161 ^pasal-161
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, Peraturan Otoritas Jasa Keuangan Nomor
 57/POJK.04/2020 tentang Penawaran Efek melalui
@@ -4827,14 +4742,13 @@ Layanan Urun Dana Berbasis Teknologi Informasi
 193, Tambahan Lembaran Negara Republik Indonesia
 Nomor 6714), dicabut dan dinyatakan tidak berlaku.
 
-Pasal 162
+### Pasal 162 ^pasal-162
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal diundangkan.
 
-
 -----
 
-                     - 92 
+                     - 92
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Peraturan Otoritas Jasa Keuangan ini
 dengan penempatannya dalam Lembaran Negara Republik
@@ -4862,7 +4776,6 @@ SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR 25/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Kepala Direktorat Pengembangan Hukum
 Departemen Hukum
@@ -4871,10 +4784,11 @@ ttd
 
 Aat Windradi
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -4886,8 +4800,6 @@ TENTANG
 PENAWARAN EFEK MELALUI LAYANAN URUN DANA BERBASIS
 
 TEKNOLOGI INFORMASI
-
-I. UMUM
 
 Pemanfaatan Teknologi Informasi telah dilakukan oleh para pelaku
 usaha untuk mendapatkan pendanaan melalui Pasar Modal melalui
@@ -4916,22 +4828,18 @@ telah diubah dengan Peraturan Otoritas Jasa Keuangan Nomor
 Keuangan Nomor 57/POJK.04/2020 tentang Penawaran Efek melalui
 Layanan Urun Dana Berbasis Teknologi Informasi.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
 
 
 -----
 
-                  - 94 
-Pasal 2
-
+                  - 94
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Huruf a
@@ -4966,9 +4874,7 @@ Ayat (2)
 
 Kondisi tertentu antara lain pada saat dibutuhkan nilai yang
 lebih besar untuk mengembangkan industri.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Contoh Penerbit perusahaan publik:
 Penerbit yang memiliki jumlah pemegang saham 350 (tiga ratus
 lima puluh) Pihak dan modal disetor Rp31.000.000.000,00 (tiga
@@ -4984,9 +4890,8 @@ rupiah).
 
 -----
 
-                  - 95 
-Pasal 5
-
+                  - 95
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Huruf a
@@ -5008,9 +4913,7 @@ Kegiatan sebagai mitra distribusi surat berharga negara.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Huruf a
 
 Penyelenggara layanan jasa keuangan berbasis Teknologi
@@ -5025,26 +4928,18 @@ bertujuan untuk pembiayaan atau mengoptimalkan manfaat
 aset wakaf.
 Dana sosial dan kebajikan antara lain zakat, infak, sedekah,
 dan wakaf.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Yang dimaksud dengan “perseroan terbatas” adalah perseroan
 terbatas yang merupakan perseroan persekutuan modal.
 Yang dimaksud dengan “perseroan persekutuan modal” adalah
 badan hukum persekutuan modal yang didirikan berdasarkan
 perjanjian dan melakukan kegiatan usaha dengan modal dasar
 yang seluruhnya terbagi dalam saham.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Cukup jelas.
@@ -5059,13 +4954,9 @@ Yang dimaksud dengan “aset lain” adalah benda berwujud atau
 bentuk tidak berwujud yang dapat dinilai dengan uang dan
 yang secara nyata diterima oleh Penyelenggara.
 Contoh aset lain berupa tanah atau bangunan.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Cukup jelas.
@@ -5107,9 +4998,7 @@ Ayat (5)
 
 Bentuk peningkatan modal disetor yang dilarang antara lain
 setoran modal berupa benda tidak berwujud.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Cukup jelas.
@@ -5163,13 +5052,9 @@ Kegiatan pendidikan dan pelatihan yang mendukung
 pengembangan Layanan Urun Dana dapat dilakukan oleh
 Asosiasi atau merupakan kerja sama antara Asosiasi dengan
 lembaga lain.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Huruf a
 
 Yang dimaksud dengan “persetujuan prinsip” adalah
@@ -5180,9 +5065,7 @@ Huruf b
 Yang dimaksud dengan “izin usaha” adalah izin yang diberikan
 kepada Penyelenggara untuk melakukan kegiatan usaha
 Layanan Urun Dana setelah persiapan selesai dilakukan.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Huruf a
 
 Lihat penjelasan Pasal 12 ayat (2).
@@ -5241,9 +5124,7 @@ usaha.
 Huruf o
 
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Cukup jelas.
@@ -5293,9 +5174,7 @@ Presentasi atau pemaparan kepada Otoritas Jasa Keuangan
 antara lain mengenai kesiapan operasional calon
 Penyelenggara, rencana dan strategi pengembangan
 Penyelenggara.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Huruf a
 
 Cukup jelas.
@@ -5308,17 +5187,11 @@ a. setelah Penyelenggara memperoleh persetujuan prinsip
 dari Otoritas Jasa Keuangan; dan
 b. sebelum Penyelenggara memperoleh izin usaha dari
 Otoritas Jasa Keuangan.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Ayat (1)
 
 Huruf a
@@ -5481,9 +5354,7 @@ Keuangan ini.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1)
 
 Contoh kegiatan penelitian, analisis, dan penilaian atas
@@ -5503,9 +5374,7 @@ dihadapi.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 
 Contoh Penyelenggara telah melakukan kegiatan usaha:
@@ -5528,21 +5397,16 @@ Keadaan kahar antara lain kebakaran, kerusuhan massa,
 perang, konflik bersenjata, sabotase, serta bencana alam
 seperti banjir dan gempa bumi yang mengganggu kegiatan
 operasional Penyelenggara.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Cukup jelas.
 
 
 -----
 
-                 - 103 
-Pasal 26
-
+                 - 103
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Yang dimaksud dengan “perubahan kepemilikan” adalah
@@ -5551,9 +5415,7 @@ perubahan pengendalian.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Huruf a
@@ -5572,9 +5434,7 @@ utang dan sukuk.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Ayat (1)
 
 Cukup jelas.
@@ -5613,13 +5473,9 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Cukup jelas.
@@ -5688,13 +5544,9 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Huruf a
 
 Cukup jelas.
@@ -5747,9 +5599,7 @@ calon Pihak Utama yang dikenakan sanksi administratif
 berupa pencabutan izin, pembatalan persetujuan, dan/atau
 pembatalan pendaftaran oleh Otoritas Jasa Keuangan dalam
 jangka waktu paling singkat 5 (lima) tahun terakhir.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Huruf a
 
 Kredit dan/atau pembiayaan macet antara lain:
@@ -5774,9 +5624,7 @@ kredit dan/atau pembiayaan macet.
 Huruf b
 
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Huruf a
 
 Cukup jelas.
@@ -5821,9 +5669,7 @@ Memiliki komitmen untuk melakukan upaya yang diperlukan
 jika Penyelenggara menghadapi kesulitan keuangan, antara
 lain memberikan bantuan likuiditas kepada dan/atau
 memperkuat permodalan Penyelenggara.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Huruf a
 
 Pengetahuan dan/atau pengalaman di bidang yang relevan
@@ -5869,9 +5715,7 @@ oleh Otoritas Jasa Keuangan.
 Huruf b
 
 Cukup jelas.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Huruf a
 
 Yang dimaksud dengan “proses hukum” adalah proses
@@ -5896,9 +5740,7 @@ Cukup jelas.
 Huruf c
 
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Ayat (1)
 
 Lihat penjelasan Pasal 16 huruf f.
@@ -5934,9 +5776,7 @@ Cukup jelas.
 Ayat (10)
 
 Cukup jelas.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Huruf a
 
 Angka 1
@@ -5997,9 +5837,7 @@ dengan istilah police clearance.
 Huruf k
 
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Huruf a
 
 Cukup jelas.
@@ -6036,9 +5874,7 @@ Lihat penjelasan Pasal 38 huruf j.
 Huruf l
 
 Cukup jelas.
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Huruf a
 
 Cukup jelas.
@@ -6080,9 +5916,7 @@ Lihat penjelasan Pasal 38 huruf j.
 Huruf l
 
 Cukup jelas.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Ayat (1)
 
 Pemenuhan dokumen dituangkan dalam daftar pemenuhan
@@ -6096,33 +5930,19 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Lihat penjelasan Pasal 16 huruf f.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Cukup jelas.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Cukup jelas.
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Cukup jelas.
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Ayat (1)
 
 Huruf a
@@ -6144,29 +5964,18 @@ Cukup jelas.
 
 -----
 
-                 - 112 
-Pasal 49
-
+                 - 112
+#### Pasal 49 ^penjelasan-pasal-49
 Cukup jelas.
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Cukup jelas.
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Cukup jelas.
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Cukup jelas.
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Cukup jelas.
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Ayat (1)
 
 Cukup jelas.
@@ -6177,13 +5986,9 @@ Ayat (3)
 
 Dokumen pendukung peningkatan kompetensi antara lain
 sertifikat pelatihan.
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Cukup jelas.
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56
 Ayat (1)
 
 Cukup jelas.
@@ -6243,17 +6048,11 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
 Cukup jelas.
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59
 Ayat (1)
 
 Huruf a
@@ -6367,9 +6166,8 @@ Cukup jelas.
 
 -----
 
-                 - 115 
-Pasal 60
-
+                 - 115
+#### Pasal 60 ^penjelasan-pasal-60
 Ayat (1)
 
 Cukup jelas.
@@ -6377,21 +6175,13 @@ Ayat (2)
 
 Pemeriksaan secara langsung antara lain melalui kunjungan
 ke kantor Penerbit.
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61
 Cukup jelas.
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Cukup jelas.
-
-Pasal 64
-
+#### Pasal 64 ^penjelasan-pasal-64
 Ayat (1)
 
 Cukup jelas.
@@ -6405,17 +6195,11 @@ modal.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
-
-Pasal 66
-
+#### Pasal 66 ^penjelasan-pasal-66
 Cukup jelas.
-
-Pasal 67
-
+#### Pasal 67 ^penjelasan-pasal-67
 Ayat (1)
 
 Cukup jelas.
@@ -6424,9 +6208,7 @@ Ayat (2)
 Pemberian informasi secara rinci antara lain menyampaikan
 arsitektur dan konfigurasi sistem hasil pengembangan atas
 Sistem Elektronik Penyelenggara.
-
-Pasal 68
-
+#### Pasal 68 ^penjelasan-pasal-68
 Huruf a
 
 Yang dimaksud dengan “afiliasi” adalah:
@@ -6510,13 +6292,9 @@ Cukup jelas.
 Huruf k
 
 Cukup jelas.
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69
 Cukup jelas.
-
-Pasal 70
-
+#### Pasal 70 ^penjelasan-pasal-70
 Ayat (1)
 
 Huruf a
@@ -6583,9 +6361,7 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71
 Ayat (1)
 
 Cukup jelas.
@@ -6622,9 +6398,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Ayat (1)
 
 Yang dimaksud dengan “kejadian atau informasi material
@@ -6651,9 +6425,7 @@ kerja setelah terdapatnya kejadian atau informasi material
 pada Penyelenggara atau 2 (dua) hari kerja setelah
 Penyelenggara menerima informasi dari Penerbit mengenai
 kejadian atau informasi material.
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73
 Ayat (1)
 
 Cukup jelas.
@@ -6687,21 +6459,13 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 74
-
+#### Pasal 74 ^penjelasan-pasal-74
 Cukup jelas.
-
-Pasal 75
-
+#### Pasal 75 ^penjelasan-pasal-75
 Cukup jelas.
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76
 Cukup jelas.
-
-Pasal 77
-
+#### Pasal 77 ^penjelasan-pasal-77
 Ayat (1)
 
 Cukup jelas.
@@ -6729,9 +6493,7 @@ Penyelenggara.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 78
-
+#### Pasal 78 ^penjelasan-pasal-78
 Ayat (1)
 
 Huruf a
@@ -6758,33 +6520,22 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 79
-
+#### Pasal 79 ^penjelasan-pasal-79
 Cukup jelas.
-
-Pasal 80
-
+#### Pasal 80 ^penjelasan-pasal-80
 Cukup jelas.
-
-Pasal 81
-
+#### Pasal 81 ^penjelasan-pasal-81
 Cukup jelas.
-
-Pasal 82
-
+#### Pasal 82 ^penjelasan-pasal-82
 Cukup jelas.
 
 
 -----
 
-                 - 121 
-Pasal 83
-
+                 - 121
+#### Pasal 83 ^penjelasan-pasal-83
 Cukup jelas.
-
-Pasal 84
-
+#### Pasal 84 ^penjelasan-pasal-84
 Ayat (1)
 
 Cukup jelas.
@@ -6798,9 +6549,7 @@ Penerbit; atau
 b. tanggal berakhirnya masa penawaran yang jatuh pada hari
 
 ke-45 (keempat puluh lima).
-
-Pasal 85
-
+#### Pasal 85 ^penjelasan-pasal-85
 Ayat (1)
 
 Cukup jelas.
@@ -6811,51 +6560,32 @@ Penyimpanan dan Penyelesaian” adalah rekening khusus milik
 Penyelenggara yang dibuka oleh Lembaga Penyimpanan dan
 Penyelesaian untuk menampung dana hasil penawaran Efek
 dari Pemodal.
-
-Pasal 86
-
+#### Pasal 86 ^penjelasan-pasal-86
 Cukup jelas.
-
-Pasal 87
-
+#### Pasal 87 ^penjelasan-pasal-87
 Cukup jelas.
-
-Pasal 88
-
+#### Pasal 88 ^penjelasan-pasal-88
 Keperluan lainnya antara lain pelaksanaan perdagangan efek.
-
-Pasal 89
-
+#### Pasal 89 ^penjelasan-pasal-89
 Cara penyetoran lain antara lain menggunakan _escrow account_
 pada bank.
-
-Pasal 90
-
+#### Pasal 90 ^penjelasan-pasal-90
 Cukup jelas.
-
-Pasal 91
-
+#### Pasal 91 ^penjelasan-pasal-91
 Lihat penjelasan Pasal 12 ayat (2).
-
-Pasal 92
-
+#### Pasal 92 ^penjelasan-pasal-92
 Cukup jelas.
-
-Pasal 93
-
+#### Pasal 93 ^penjelasan-pasal-93
 Cukup jelas.
 
 
 -----
 
-                 - 122 
-Pasal 94
-
+                 - 122
+#### Pasal 94 ^penjelasan-pasal-94
 Dokumen dan informasi mengacu kepada Peraturan Lembaga
 Penyimpanan Penyelesaian.
-
-Pasal 95
-
+#### Pasal 95 ^penjelasan-pasal-95
 Ayat (1)
 
 Cukup jelas.
@@ -6883,9 +6613,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 96
-
+#### Pasal 96 ^penjelasan-pasal-96
 Ayat (1)
 
 Yang dimaksud dengan “sistem bagi Pemodal dan/atau
@@ -6919,17 +6647,12 @@ Cukup jelas.
 
 -----
 
-                 - 123 
-Pasal 97
-
+                 - 123
+#### Pasal 97 ^penjelasan-pasal-97
 Cukup jelas.
-
-Pasal 98
-
+#### Pasal 98 ^penjelasan-pasal-98
 Cukup jelas.
-
-Pasal 99
-
+#### Pasal 99 ^penjelasan-pasal-99
 Huruf a
 
 Keberhasilan pengembalian pokok dan bunga/imbal
@@ -6946,21 +6669,13 @@ Cukup jelas.
 Huruf d
 
 Cukup jelas.
-
-Pasal 100
-
+#### Pasal 100 ^penjelasan-pasal-100
 Cukup jelas.
-
-Pasal 101
-
+#### Pasal 101 ^penjelasan-pasal-101
 Cukup jelas.
-
-Pasal 102
-
+#### Pasal 102 ^penjelasan-pasal-102
 Cukup jelas.
-
-Pasal 103
-
+#### Pasal 103 ^penjelasan-pasal-103
 Ayat (1)
 
 Huruf a
@@ -6979,9 +6694,7 @@ Ayat (2)
 
 Penetapan batasan dilakukan ketika di kemudian hari
 dibutuhkan adanya perubahan atas batasan sebagai Penerbit.
-
-Pasal 104
-
+#### Pasal 104 ^penjelasan-pasal-104
 Ayat (1)
 
 Huruf a
@@ -7053,25 +6766,18 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 105
-
+#### Pasal 105 ^penjelasan-pasal-105
 Cukup jelas.
-
-Pasal 106
-
+#### Pasal 106 ^penjelasan-pasal-106
 Cukup jelas.
 
 
 -----
 
-                 - 125 
-Pasal 107
-
+                 - 125
+#### Pasal 107 ^penjelasan-pasal-107
 Cukup jelas.
-
-Pasal 108
-
+#### Pasal 108 ^penjelasan-pasal-108
 Ayat (1)
 
 Cukup jelas.
@@ -7100,9 +6806,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 109
-
+#### Pasal 109 ^penjelasan-pasal-109
 Ayat (1)
 
 Cukup jelas.
@@ -7132,17 +6836,12 @@ Cukup jelas.
 
 -----
 
-                 - 126 
-Pasal 110
-
+                 - 126
+#### Pasal 110 ^penjelasan-pasal-110
 Cukup jelas.
-
-Pasal 111
-
+#### Pasal 111 ^penjelasan-pasal-111
 Cukup jelas.
-
-Pasal 112
-
+#### Pasal 112 ^penjelasan-pasal-112
 Ayat (1)
 
 Huruf a
@@ -7158,9 +6857,7 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 113
-
+#### Pasal 113 ^penjelasan-pasal-113
 Ayat (1)
 
 Kondisi tertentu antara lain kondisi terganggunya
@@ -7168,45 +6865,28 @@ kelangsungan usaha Penerbit.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 114
-
+#### Pasal 114 ^penjelasan-pasal-114
 Cukup jelas.
-
-Pasal 115
-
+#### Pasal 115 ^penjelasan-pasal-115
 Cukup jelas.
-
-Pasal 116
-
+#### Pasal 116 ^penjelasan-pasal-116
 Cukup jelas.
-
-Pasal 117
-
+#### Pasal 117 ^penjelasan-pasal-117
 Cukup jelas.
-
-Pasal 118
-
+#### Pasal 118 ^penjelasan-pasal-118
 Cukup jelas.
-
-Pasal 119
-
+#### Pasal 119 ^penjelasan-pasal-119
 Cukup jelas.
-
-Pasal 120
-
+#### Pasal 120 ^penjelasan-pasal-120
 Cukup jelas.
-
-Pasal 121
-
+#### Pasal 121 ^penjelasan-pasal-121
 Cukup jelas.
 
 
 -----
 
-                 - 127 
-Pasal 122
-
+                 - 127
+#### Pasal 122 ^penjelasan-pasal-122
 Ayat (1)
 
 Cukup jelas.
@@ -7220,17 +6900,11 @@ perantara (intermediary).
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 123
-
+#### Pasal 123 ^penjelasan-pasal-123
 Cukup jelas.
-
-Pasal 124
-
+#### Pasal 124 ^penjelasan-pasal-124
 Cukup jelas.
-
-Pasal 125
-
+#### Pasal 125 ^penjelasan-pasal-125
 Ayat (1)
 
 Cukup jelas.
@@ -7256,9 +6930,7 @@ huruf b
 Pembuktian Pemodal mempunyai pengalaman berinvestasi
 di pasar modal dapat dibuktikan dengan pernyataan dari
 Pemodal (self-declared).
-
-Pasal 126
-
+#### Pasal 126 ^penjelasan-pasal-126
 Ayat (1)
 
 Cukup jelas.
@@ -7270,25 +6942,18 @@ Objek Pajak pada dokumen Pajak Bumi dan Bangunan.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 127
-
+#### Pasal 127 ^penjelasan-pasal-127
 Cukup jelas.
 
 
 -----
 
-                 - 128 
-Pasal 128
-
+                 - 128
+#### Pasal 128 ^penjelasan-pasal-128
 Cukup jelas.
-
-Pasal 129
-
+#### Pasal 129 ^penjelasan-pasal-129
 Cukup jelas.
-
-Pasal 130
-
+#### Pasal 130 ^penjelasan-pasal-130
 Ayat (1)
 
 Cukup jelas.
@@ -7339,13 +7004,9 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 131
-
+#### Pasal 131 ^penjelasan-pasal-131
 Cukup jelas.
-
-Pasal 132
-
+#### Pasal 132 ^penjelasan-pasal-132
 Ayat (1)
 
 Cukup jelas.
@@ -7376,18 +7037,12 @@ bersifat utang atau Sukuk, termasuk melakukan penuntutan
 hak pemegang Efek bersifat utang atau Sukuk baik di dalam
 maupun di luar pengadilan tanpa memerlukan surat kuasa
 khusus dari pemegang Efek bersifat utang atau Sukuk.
-
-Pasal 133
-
+#### Pasal 133 ^penjelasan-pasal-133
 Bentuk lain antara lain dilakukan dengan cara memilih fitur yang
 tersedia dalam Sistem Elektronik Penyelenggara.
-
-Pasal 134
-
+#### Pasal 134 ^penjelasan-pasal-134
 Cukup jelas.
-
-Pasal 135
-
+#### Pasal 135 ^penjelasan-pasal-135
 Yang dimaksud dengan “mitigasi risiko” adalah mitigasi atas
 seluruh risiko yang terdapat pada Layanan Urun Dana, antara lain:
 a. risiko usaha;
@@ -7397,14 +7052,10 @@ d. risiko kelangkaan pembagian dividen; dan
 e. risiko dilusi kepemilikan saham.
 Dokumen pelaksanaan mitigasi risiko antara lain dokumen strategi
 manajemen risiko.
-
-Pasal 136
-
+#### Pasal 136 ^penjelasan-pasal-136
 Yang dimaksud dengan “andal dan aman” adalah memenuhi
 standar minimum sesuai dengan peraturan perundangundangan mengenai informasi dan transaksi elektronik.
-
-Pasal 137
-
+#### Pasal 137 ^penjelasan-pasal-137
 Ayat (1)
 
 Yang dimaksud dengan “penyelenggara layanan pendukung
@@ -7454,17 +7105,11 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 138
-
+#### Pasal 138 ^penjelasan-pasal-138
 Cukup jelas.
-
-Pasal 139
-
+#### Pasal 139 ^penjelasan-pasal-139
 Cukup jelas.
-
-Pasal 140
-
+#### Pasal 140 ^penjelasan-pasal-140
 Ayat (1)
 
 Menggunakan pusat data dan pusat pemulihan bencana dapat
@@ -7476,17 +7121,12 @@ Cukup jelas.
 
 -----
 
-                 - 131 
-Pasal 141
-
+                 - 131
+#### Pasal 141 ^penjelasan-pasal-141
 Cukup jelas.
-
-Pasal 142
-
+#### Pasal 142 ^penjelasan-pasal-142
 Cukup jelas.
-
-Pasal 143
-
+#### Pasal 143 ^penjelasan-pasal-143
 Huruf a
 Cukup jelas.
 Huruf b
@@ -7500,9 +7140,7 @@ Dana antara lain surat elektronik, pusat panggilan (call center),
 atau media komunikasi.
 Huruf e
 Cukup jelas.
-
-Pasal 144
-
+#### Pasal 144 ^penjelasan-pasal-144
 Ayat (1)
 
 Cukup jelas.
@@ -7516,67 +7154,40 @@ mitigasi atau penanganan tanggap darurat.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 145
-
+#### Pasal 145 ^penjelasan-pasal-145
 Cukup jelas.
-
-Pasal 146
-
+#### Pasal 146 ^penjelasan-pasal-146
 Cukup jelas.
-
-Pasal 147
-
+#### Pasal 147 ^penjelasan-pasal-147
 Cukup jelas.
-
-Pasal 148
-
+#### Pasal 148 ^penjelasan-pasal-148
 Cukup jelas.
-
-Pasal 149
-
+#### Pasal 149 ^penjelasan-pasal-149
 Cukup jelas.
-
-Pasal 150
-
+#### Pasal 150 ^penjelasan-pasal-150
 Cukup jelas.
 
 
 -----
 
-                   - 132 
-Pasal 151
-
+                   - 132
+#### Pasal 151 ^penjelasan-pasal-151
 Cukup jelas.
-
-Pasal 152
-
+#### Pasal 152 ^penjelasan-pasal-152
 Cukup jelas.
-
-Pasal 153
-
+#### Pasal 153 ^penjelasan-pasal-153
 Cukup jelas.
-
-Pasal 154
-
+#### Pasal 154 ^penjelasan-pasal-154
 Cukup jelas.
-
-Pasal 155
-
+#### Pasal 155 ^penjelasan-pasal-155
 Cukup jelas.
-
-Pasal 156
-
+#### Pasal 156 ^penjelasan-pasal-156
 Tindakan tertentu antara lain menghentikan kegiatan perdagangan
 Efek bersifat ekuitas oleh Penyelenggara untuk jangka waktu
 tertentu.
-
-Pasal 157
-
+#### Pasal 157 ^penjelasan-pasal-157
 Cukup jelas.
-
-Pasal 158
-
+#### Pasal 158 ^penjelasan-pasal-158
 Yang dimaksud dengan “telah mengajukan permohonan perizinan
 sebagai Penyelenggara” adalah Penyelenggara yang telah
 menyampaikan permohonan perizinan sesuai dengan Peraturan
@@ -7587,21 +7198,13 @@ a. permohonan perizinan pertama kali; atau
 b. penyampaian kembali permohonan perizinan sebagai tindak
 lanjut pemenuhan permintaan informasi, kelengkapan
 dokumen, dan/atau presentasi dari Otoritas Jasa Keuangan.
-
-Pasal 159
-
+#### Pasal 159 ^penjelasan-pasal-159
 Cukup jelas.
-
-Pasal 160
-
+#### Pasal 160 ^penjelasan-pasal-160
 Cukup jelas.
-
-Pasal 161
-
+#### Pasal 161 ^penjelasan-pasal-161
 Cukup jelas.
-
-Pasal 162
-
+#### Pasal 162 ^penjelasan-pasal-162
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 155/OJK
@@ -8993,7 +8596,7 @@ saham, Pengendali Perusahaan Perasuransian yang bukan merupakan
 pemegang saham, anggota Direksi, atau anggota Dewan Komisaris yang
 dinyatakan bersalah menyebabkan suatu perseroan dinyatakan pailit
 dalam waktu 5 (lima) tahun terakhir sebelum dicalonkan;
-# l. tidak merangkap jabatan pada Penyelenggara lain; dan m. mempunyai / tidak mempunyai*) hubungan keluarga karena perkawinan
+**l. tidak merangkap jabatan pada Penyelenggara lain; dan m. mempunyai / tidak mempunyai*) hubungan keluarga karena perkawinan**
 
 dan keturunan sampai derajat kedua, baik secara horizontal maupun
 vertikal dengan anggota Direksi atau anggota Dewan Komisaris dalam
@@ -9391,3 +8994,169 @@ MAHENDRA SIREGAR
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 74 | [[#^penjelasan-pasal-74]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 80 | [[#^penjelasan-pasal-80]] |
+| Pasal 81 | [[#^penjelasan-pasal-81]] |
+| Pasal 82 | [[#^penjelasan-pasal-82]] |
+| Pasal 83 | [[#^penjelasan-pasal-83]] |
+| Pasal 84 | [[#^penjelasan-pasal-84]] |
+| Pasal 85 | [[#^penjelasan-pasal-85]] |
+| Pasal 86 | [[#^penjelasan-pasal-86]] |
+| Pasal 87 | [[#^penjelasan-pasal-87]] |
+| Pasal 88 | [[#^penjelasan-pasal-88]] |
+| Pasal 89 | [[#^penjelasan-pasal-89]] |
+| Pasal 90 | [[#^penjelasan-pasal-90]] |
+| Pasal 91 | [[#^penjelasan-pasal-91]] |
+| Pasal 92 | [[#^penjelasan-pasal-92]] |
+| Pasal 93 | [[#^penjelasan-pasal-93]] |
+| Pasal 94 | [[#^penjelasan-pasal-94]] |
+| Pasal 95 | [[#^penjelasan-pasal-95]] |
+| Pasal 96 | [[#^penjelasan-pasal-96]] |
+| Pasal 97 | [[#^penjelasan-pasal-97]] |
+| Pasal 98 | [[#^penjelasan-pasal-98]] |
+| Pasal 99 | [[#^penjelasan-pasal-99]] |
+| Pasal 100 | [[#^penjelasan-pasal-100]] |
+| Pasal 101 | [[#^penjelasan-pasal-101]] |
+| Pasal 102 | [[#^penjelasan-pasal-102]] |
+| Pasal 103 | [[#^penjelasan-pasal-103]] |
+| Pasal 104 | [[#^penjelasan-pasal-104]] |
+| Pasal 105 | [[#^penjelasan-pasal-105]] |
+| Pasal 106 | [[#^penjelasan-pasal-106]] |
+| Pasal 107 | [[#^penjelasan-pasal-107]] |
+| Pasal 108 | [[#^penjelasan-pasal-108]] |
+| Pasal 109 | [[#^penjelasan-pasal-109]] |
+| Pasal 110 | [[#^penjelasan-pasal-110]] |
+| Pasal 111 | [[#^penjelasan-pasal-111]] |
+| Pasal 112 | [[#^penjelasan-pasal-112]] |
+| Pasal 113 | [[#^penjelasan-pasal-113]] |
+| Pasal 114 | [[#^penjelasan-pasal-114]] |
+| Pasal 115 | [[#^penjelasan-pasal-115]] |
+| Pasal 116 | [[#^penjelasan-pasal-116]] |
+| Pasal 117 | [[#^penjelasan-pasal-117]] |
+| Pasal 118 | [[#^penjelasan-pasal-118]] |
+| Pasal 119 | [[#^penjelasan-pasal-119]] |
+| Pasal 120 | [[#^penjelasan-pasal-120]] |
+| Pasal 121 | [[#^penjelasan-pasal-121]] |
+| Pasal 122 | [[#^penjelasan-pasal-122]] |
+| Pasal 123 | [[#^penjelasan-pasal-123]] |
+| Pasal 124 | [[#^penjelasan-pasal-124]] |
+| Pasal 125 | [[#^penjelasan-pasal-125]] |
+| Pasal 126 | [[#^penjelasan-pasal-126]] |
+| Pasal 127 | [[#^penjelasan-pasal-127]] |
+| Pasal 128 | [[#^penjelasan-pasal-128]] |
+| Pasal 129 | [[#^penjelasan-pasal-129]] |
+| Pasal 130 | [[#^penjelasan-pasal-130]] |
+| Pasal 131 | [[#^penjelasan-pasal-131]] |
+| Pasal 132 | [[#^penjelasan-pasal-132]] |
+| Pasal 133 | [[#^penjelasan-pasal-133]] |
+| Pasal 134 | [[#^penjelasan-pasal-134]] |
+| Pasal 135 | [[#^penjelasan-pasal-135]] |
+| Pasal 136 | [[#^penjelasan-pasal-136]] |
+| Pasal 137 | [[#^penjelasan-pasal-137]] |
+| Pasal 138 | [[#^penjelasan-pasal-138]] |
+| Pasal 139 | [[#^penjelasan-pasal-139]] |
+| Pasal 140 | [[#^penjelasan-pasal-140]] |
+| Pasal 141 | [[#^penjelasan-pasal-141]] |
+| Pasal 142 | [[#^penjelasan-pasal-142]] |
+| Pasal 143 | [[#^penjelasan-pasal-143]] |
+| Pasal 144 | [[#^penjelasan-pasal-144]] |
+| Pasal 145 | [[#^penjelasan-pasal-145]] |
+| Pasal 146 | [[#^penjelasan-pasal-146]] |
+| Pasal 147 | [[#^penjelasan-pasal-147]] |
+| Pasal 148 | [[#^penjelasan-pasal-148]] |
+| Pasal 149 | [[#^penjelasan-pasal-149]] |
+| Pasal 150 | [[#^penjelasan-pasal-150]] |
+| Pasal 151 | [[#^penjelasan-pasal-151]] |
+| Pasal 152 | [[#^penjelasan-pasal-152]] |
+| Pasal 153 | [[#^penjelasan-pasal-153]] |
+| Pasal 154 | [[#^penjelasan-pasal-154]] |
+| Pasal 155 | [[#^penjelasan-pasal-155]] |
+| Pasal 156 | [[#^penjelasan-pasal-156]] |
+| Pasal 157 | [[#^penjelasan-pasal-157]] |
+| Pasal 158 | [[#^penjelasan-pasal-158]] |
+| Pasal 159 | [[#^penjelasan-pasal-159]] |
+| Pasal 160 | [[#^penjelasan-pasal-160]] |
+| Pasal 161 | [[#^penjelasan-pasal-161]] |
+| Pasal 162 | [[#^penjelasan-pasal-162]] |

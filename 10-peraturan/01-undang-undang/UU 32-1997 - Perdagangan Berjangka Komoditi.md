@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perdagangan Berjangka Komoditi
+**Perdagangan Berjangka Komoditi**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -37,7 +43,7 @@ last_updated: 2026-10-28
 PRESIDEN
 REPUBLIK INDONESIA
 
-# UNDANG-UNDANG REPUBLIK INDONESIA
+**UNDANG-UNDANG REPUBLIK INDONESIA**
 
  NOMOR 32 TAHUN 1997
 
@@ -91,14 +97,13 @@ REPUBLIK INDONESIA
 
  Mengingat :…
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 2 
-# Mengingat : Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 33 ayat (1) Undang-Undang
+                     - 2
+**Mengingat : Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 33 ayat (1) Undang-Undang**
 
  Dasar 1945;
 
@@ -116,7 +121,7 @@ REPUBLIK INDONESIA
 
  KETENTUAN UMUM
 
- Pasal 1
+### Pasal 1 ^pasal-1
 
  Dalam Undang-undang ini yang dimaksud dengan:
 
@@ -149,8 +154,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 3 
-# 4. Kontrak Berjangka adalah suatu bentuk kontrak standar untuk
+             - 3
+**4. Kontrak Berjangka adalah suatu bentuk kontrak standar untuk**
 
  membeli atau menjual Komoditi dalam jumlah, mutu, jenis, tempat
 
@@ -211,8 +216,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 4 
-# d. hubungan antara perusahaan dan Pihak, baik langsung maupun
+             - 4
+**d. hubungan antara perusahaan dan Pihak, baik langsung maupun**
 
  tidak langsung, yang mengendalikan atau dikendalikan oleh
 
@@ -275,8 +280,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 5 
-# 15. Pengelola Sentra Dana Perdagangan Berjangka, yang selanjutnya
+             - 5
+**15. Pengelola Sentra Dana Perdagangan Berjangka, yang selanjutnya**
 
  disebut Pengelola Sentra Dana Berjangka, adalah Pihak yang
 
@@ -318,7 +323,7 @@ REPUBLIK INDONESIA
 
  pelaksanaan transaksi Kontrak Berjangka.
 
- Pasal 2
+### Pasal 2 ^pasal-2
 
  Kebijakan umum di bidang Perdagangan Berjangka ditetapkan oleh
 
@@ -333,8 +338,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 6 
-# Pasal 3
+             - 6
+### Pasal 3 ^pasal-3
 
  Komoditi yang dapat dijadikan subjek Kontrak Berjangka ditetapkan
 
@@ -346,7 +351,7 @@ REPUBLIK INDONESIA
 
  BERJANGKA KOMODITI
 
- Pasal 4
+### Pasal 4 ^pasal-4
 
  (1) Pembinaan, pengaturan dan pengawasan sehari-hari kegiatan
 
@@ -362,7 +367,7 @@ REPUBLIK INDONESIA
 
  Keputusan Presiden.
 
- Pasal 5
+### Pasal 5 ^pasal-5
 
  Pembinaan, pengaturan, dan pengawasan sehari-hari sebagaimana
 
@@ -385,12 +390,12 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 7 
-# c. mewujudkan kegiatan Perdagangan Berjangka sebagai sarana
+             - 7
+**c. mewujudkan kegiatan Perdagangan Berjangka sebagai sarana**
 
  pengelolaan risiko harga dan pembentukan harga yang transparan.
 
- Pasal 6
+### Pasal 6 ^pasal-6
 
  Dalam melaksanakan ketentuan sebagaimana dimaksud dalam Pasal 4
 
@@ -447,8 +452,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 8 
-# e. menunjuk pihak lain untuk melakukan pemeriksaan tertentu dalam
+             - 8
+**e. menunjuk pihak lain untuk melakukan pemeriksaan tertentu dalam**
 
  rangka pelaksanaan wewenang Bappebti, sebagaimana dimaksud
 
@@ -513,8 +518,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 9 
-# m. mewajibkan setiap Pihak untuk menghentikan atau memperbaiki
+             - 9
+**m. mewajibkan setiap Pihak untuk menghentikan atau memperbaiki**
 
  iklan atau kegiatan promosi yang menyesatkan berkaitan dengan
 
@@ -556,7 +561,7 @@ REPUBLIK INDONESIA
 
  Undang-undang ini dan/atau peraturan pelaksaannya.
 
- Pasal 7
+### Pasal 7 ^pasal-7
 
  (1) Bappebti mengenakan biaya kepada Pihak atas kegiatan
 
@@ -573,12 +578,12 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                - 10 
-# (2) Ketentuan dan besar biaya sebagaimana dimaksud pada ayat (1),
+                - 10
+**(2) Ketentuan dan besar biaya sebagaimana dimaksud pada ayat (1),**
 
  diatur lebih lanjut dengan Peraturan Pemerintah.
 
- Pasal 8
+### Pasal 8 ^pasal-8
 
  Setiap pegawai Bappebti dan/atau pihak lain yang ditugasi oleh Bappebti
 
@@ -590,7 +595,7 @@ REPUBLIK INDONESIA
 
  peraturan perundang-undangan yang berlaku.
 
- Pasal 9
+### Pasal 9 ^pasal-9
 
  Apabila diperlukan, Bappebti dapat meminta pendapat dari ahli atau
 
@@ -612,7 +617,7 @@ REPUBLIK INDONESIA
 
  Tujuan
 
- Pasal 10
+### Pasal 10 ^pasal-10
 
  Bursa Berjangka didirikan dengan tujuan menyelenggarakan transaksi
 
@@ -627,12 +632,12 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 11 
-# Paragraf 2
+             - 11
+**Paragraf 2**
 
  Perizinan dan Bentuk Hukum
 
- Pasal 11
+### Pasal 11 ^pasal-11
 
  Izin usaha untuk menyelenggarakan Bursa Berjangka hanya dapat
 
@@ -640,7 +645,7 @@ REPUBLIK INDONESIA
 
  terbatas.
 
- Pasal 12
+### Pasal 12 ^pasal-12
 
  (1) Bursa Berjangka didirikan oleh sejumlah badan usaha yang satu
 
@@ -660,7 +665,7 @@ REPUBLIK INDONESIA
 
  di Bursa Berjangka.
 
- Pasal 13
+### Pasal 13 ^pasal-13
 
  Penyaluran amanat Nasabah ke Bursa Berjangka luar negeri hanya dapat
 
@@ -677,12 +682,12 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 12 
-# Paragraf 3
+             - 12
+**Paragraf 3**
 
  Lingkup Kegiatan
 
- Pasal 14
+### Pasal 14 ^pasal-14
 
  (1) Kegiatan transaksi Kontrak Berjangka hanya dapat dilakukan di
 
@@ -698,7 +703,7 @@ REPUBLIK INDONESIA
 
  Bappebti.
 
- Pasal 15
+### Pasal 15 ^pasal-15
 
  Bursa Berjangka dapat menyelenggarakan transaksi fisik komoditi yang
 
@@ -708,7 +713,7 @@ REPUBLIK INDONESIA
 
  Tugas, Kewajiban dan Wewenang
 
- Pasal 16
+### Pasal 16 ^pasal-16
 
  Bursa Berjangka bertugas:
 
@@ -725,8 +730,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 13 
-# b. menyusun rencana anggaran tahunan dan penggunaan laba Bursa
+             - 13
+**b. menyusun rencana anggaran tahunan dan penggunaan laba Bursa**
 
  Berjangka sesuai dengan ketentuan yang ditetapkan oleh dan
 
@@ -734,7 +739,7 @@ REPUBLIK INDONESIA
 
  c. menyusun peraturan dan tata tertib Bursa Berjangka.
 
- Pasal 17
+### Pasal 17 ^pasal-17
 
  (1) Bursa Berjangka wajib:
 
@@ -779,8 +784,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 14 
-# h. memantau kegiatan dan kondisi keuangan Anggota Bursa
+             - 14
+**h. memantau kegiatan dan kondisi keuangan Anggota Bursa**
 
  Berjangka serta mengambil tindakan pembekuan atau
 
@@ -810,7 +815,7 @@ REPUBLIK INDONESIA
 
  perubahannya, wajib memperoleh persetujuan dari Bappebti.
 
- Pasal 18
+### Pasal 18 ^pasal-18
 
  Bursa Berjangka berwenang:
 
@@ -841,8 +846,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 15 
-# e. menetapkan biaya keanggotaan dan biaya lain;
+             - 15
+**e. menetapkan biaya keanggotaan dan biaya lain;**
 
  f. melakukan tindakan yang dianggap perlu untuk mengamankan
 
@@ -870,7 +875,7 @@ REPUBLIK INDONESIA
 
  Penghentian Kegiatan
 
- Pasal 19
+### Pasal 19 ^pasal-19
 
  Kegiatan transaksi di Bursa Berjangka dapat dihentikan sementara waktu,
 
@@ -882,7 +887,7 @@ REPUBLIK INDONESIA
 
  transaksi Kontrak Berjangka secara wajar.
 
- Pasal 20
+### Pasal 20 ^pasal-20
 
  Penghentian sementara waktu, sebagaimana dimaksud dalam Pasal 19:
 
@@ -901,12 +906,12 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 16 
-# b. untuk jangka waktu lebih dari satu hari kerja, hanya dapat dilakukan
+             - 16
+**b. untuk jangka waktu lebih dari satu hari kerja, hanya dapat dilakukan**
 
  oleh Bappebti.
 
- Pasal 21
+### Pasal 21 ^pasal-21
 
  (1) Apabila penyebab penghentian sementara waktu transaksi seluruh
 
@@ -930,7 +935,7 @@ REPUBLIK INDONESIA
 
  oleh Bappebti kepada Menteri dan diumumkan secara luas.
 
- Pasal 22
+### Pasal 22 ^pasal-22
 
  (1) Apabila izin usaha Bursa Berjangka dicabut, badan hukum Bursa
 
@@ -955,8 +960,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 17 
-# Pasal 23
+             - 17
+### Pasal 23 ^pasal-23
 
  Ketentuan mengenai persyaratan dan tata cara pendirian, perizinan,
 
@@ -974,7 +979,7 @@ REPUBLIK INDONESIA
 
  Tujuan
 
- Pasal 24
+### Pasal 24 ^pasal-24
 
  Lembaga Kliring Berjangka didirikan dengan tujuan mendukung
 
@@ -986,7 +991,7 @@ REPUBLIK INDONESIA
 
  Perizinan dan Bentuk Hukum
 
- Pasal 25
+### Pasal 25 ^pasal-25
 
  (1) Penyelenggaraan Bursa Berjangka dilengkapi dengan Lembaga
 
@@ -1001,8 +1006,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 18 
-# (2) Lembaga Kliring Berjangka, sebagaimana dimaksud pada ayat (1),
+             - 18
+**(2) Lembaga Kliring Berjangka, sebagaimana dimaksud pada ayat (1),**
 
  adalah badan usaha berbentuk perseroan terbatas yang telah
 
@@ -1020,7 +1025,7 @@ REPUBLIK INDONESIA
 
  Tugas, Kewajiban, dan Wewenang
 
- Pasal 26
+### Pasal 26 ^pasal-26
 
  Lembaga Kliring Berjangka bertugas, antara lain:
 
@@ -1030,7 +1035,7 @@ REPUBLIK INDONESIA
 
  b. menyusun peraturan dan tata tertib Lembaga Kliring Berjangka.
 
- Pasal 27
+### Pasal 27 ^pasal-27
 
  (1) Lembaga Kliring Berjangka wajib:
 
@@ -1053,8 +1058,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 19 
-# c. menjamin kerahasiaan informasi posisi keuangan serta kegiatan
+             - 19
+**c. menjamin kerahasiaan informasi posisi keuangan serta kegiatan**
 
  usaha Anggota Kliring Berjangka, kecuali informasi tersebut
 
@@ -1084,7 +1089,7 @@ REPUBLIK INDONESIA
 
  perubahannya, wajib memperoleh persetujuan dari Bappebti.
 
- Pasal 28
+### Pasal 28 ^pasal-28
 
  Lembaga Kliring Berjangka berwenang:
 
@@ -1113,8 +1118,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 20 
-# e. memperoleh informasi yang diperlukan dari Bursa Berjangka yang
+             - 20
+**e. memperoleh informasi yang diperlukan dari Bursa Berjangka yang**
 
  berhubungan dengan transaksi yang dilakukan oleh Anggota Kliring
 
@@ -1130,7 +1135,7 @@ REPUBLIK INDONESIA
 
  Penghentian Kegiatan
 
- Pasal 29
+### Pasal 29 ^pasal-29
 
  (1) Kegiatan Lembaga Kliring Berjangka dihentikan apabila terjadi
 
@@ -1146,7 +1151,7 @@ REPUBLIK INDONESIA
 
  peraturan perundang-undangan yang berlaku.
 
- Pasal 30
+### Pasal 30 ^pasal-30
 
  Ketentuan mengenai persyaratan dan tata cara perizinan, penghentian,
 
@@ -1165,8 +1170,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-              - 21 
-# BAB IV
+              - 21
+**BAB IV**
 
  PIALANG BERJANGKA DAN PENASEHAT BERJANGKA
 
@@ -1174,7 +1179,7 @@ REPUBLIK INDONESIA
 
  Pialang Berjangka
 
- Pasal 31
+### Pasal 31 ^pasal-31
 
  (1) Kegiatan usaha sebagai Pialang Berjangka hanya dapat dilakukan
 
@@ -1194,7 +1199,7 @@ REPUBLIK INDONESIA
 
  Wakil Pialang Berjangka dari Bappebti.
 
- Pasal 32
+### Pasal 32 ^pasal-32
 
  Penyaluran amanat Nasabah ke Bursa Berjangka luar negeri hanya dapat
 
@@ -1202,7 +1207,7 @@ REPUBLIK INDONESIA
 
  berdasarkan ketetapan Bappebti.
 
- Pasal 33
+### Pasal 33 ^pasal-33
 
  Ketentuan mengenai persyaratan dan tata cara perizinan Pialang
 
@@ -1223,12 +1228,12 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 22 
-# Bagian Kedua
+             - 22
+**Bagian Kedua**
 
  Penasehat Berjangka
 
- Pasal 34
+### Pasal 34 ^pasal-34
 
  (1) Kegiatan usaha sebagai Penasehat Berjangka hanya dapat dilakukan
 
@@ -1250,7 +1255,7 @@ REPUBLIK INDONESIA
 
  memperoleh izin dari Bappebti.
 
- Pasal 35
+### Pasal 35 ^pasal-35
 
  Ketentuan mengenai persyaratan dan tata cara perizinan Penasehat
 
@@ -1267,8 +1272,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 23 
-# BAB V
+             - 23
+**BAB V**
 
  SENTRA DANA BERJANGKA
 
@@ -1278,7 +1283,7 @@ REPUBLIK INDONESIA
 
  Sentra Dana Berjangka
 
- Pasal 36
+### Pasal 36 ^pasal-36
 
  (1) Sentra Dana Berjangka dibentuk berdasarkan kontrak antara
 
@@ -1300,7 +1305,7 @@ REPUBLIK INDONESIA
 
  Berjangka, peserta memperoleh Sertifikat Penyertaan.
 
- Pasal 37
+### Pasal 37 ^pasal-37
 
  Sentra Dana Berjangka dilarang:
 
@@ -1319,8 +1324,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 24 
-# Pasal 38
+             - 24
+### Pasal 38 ^pasal-38
 
  Ketentuan mengenai tata cara persetujuan pembentukan Sentra Dana
 
@@ -1334,7 +1339,7 @@ REPUBLIK INDONESIA
 
  Pengelola Sentra Dana Berjangka
 
- Pasal 39
+### Pasal 39 ^pasal-39
 
  (1) Kegiatan usaha sebagai Pengelola Sentra Dana Berjangka hanya
 
@@ -1358,7 +1363,7 @@ REPUBLIK INDONESIA
 
  Wakil Pengelola Sentra Dana Berjangka dari Bappebti.
 
- Pasal 40
+### Pasal 40 ^pasal-40
 
  (1) Pengelola Sentra Dana Berjangka bertugas mengelola portofolio
 
@@ -1373,8 +1378,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 25 
-# (2) Pengelola Sentra Dana Berjangka wajib dengan itikad baik dan
+             - 25
+**(2) Pengelola Sentra Dana Berjangka wajib dengan itikad baik dan**
 
  penuh tanggung jawab melaksanakan tugas sebaik mungkin
 
@@ -1388,7 +1393,7 @@ REPUBLIK INDONESIA
 
  segala kerugian yang timbul karena tindakannya.
 
- Pasal 41
+### Pasal 41 ^pasal-41
 
  (1) Pengelola Sentra Dana Berjangka menjual Sertifikat Penyertaan
 
@@ -1414,7 +1419,7 @@ REPUBLIK INDONESIA
 
  Berjangka.
 
- Pasal 42
+### Pasal 42 ^pasal-42
 
  (1) Pengelola Sentra Dana Berjangka wajib menghitung nilai pasar
 
@@ -1433,14 +1438,14 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 26 
-# (2) Nilai Sertifikat Penyertaan ditentukan berdasarkan nilai aktiva
+             - 26
+**(2) Nilai Sertifikat Penyertaan ditentukan berdasarkan nilai aktiva**
 
  bersih dan wajib diumumkan oleh Pengelola Sentra Dana
 
  Berjangka.
 
- Pasal 43
+### Pasal 43 ^pasal-43
 
  Pengelola Sentra Dana Berjangka dilarang:
 
@@ -1450,7 +1455,7 @@ REPUBLIK INDONESIA
 
  b. menggunakan jasa Pialang Berjangka yang berafiliasi dengannya.
 
- Pasal 44
+### Pasal 44 ^pasal-44
 
  Ketentuan mengenai persyaratan dan tata cara perizinan Pengelola Sentra
 
@@ -1464,7 +1469,7 @@ REPUBLIK INDONESIA
 
  DANA KOMPENSASI
 
- Pasal 45
+### Pasal 45 ^pasal-45
 
  (1) Bursa Berjangka wajib menghimpun dana dari Pialang Berjangka
 
@@ -1485,8 +1490,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 27 
-# (3) Dana Kompensasi sebagaimana dimaksud pada ayat (1), wajib
+             - 27
+**(3) Dana Kompensasi sebagaimana dimaksud pada ayat (1), wajib**
 
  disimpan dalam rekening yang terpisah dari rekening Bursa
 
@@ -1502,7 +1507,7 @@ REPUBLIK INDONESIA
 
  (5) Dana Kompensasi yang telah disetorkan tidak dapat ditarik kembali.
 
- Pasal 46
+### Pasal 46 ^pasal-46
 
  (1) Dana Kompensasi digunakan oleh Bursa Berjangka untuk
 
@@ -1545,8 +1550,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 28 
-# b. membayar kepada Nasabah selisih antara ganti rugi tersebut dan
+             - 28
+**b. membayar kepada Nasabah selisih antara ganti rugi tersebut dan**
 
  jumlah yang selayaknya diterima apabila penagihan tidak
 
@@ -1560,7 +1565,7 @@ REPUBLIK INDONESIA
 
  Berjangka yang bersangkutan.
 
- Pasal 47
+### Pasal 47 ^pasal-47
 
  Apabila Bursa Berjangka dinyatakan pailit atau menghentikan kegiatan
 
@@ -1574,7 +1579,7 @@ REPUBLIK INDONESIA
 
  Kompensasi tersebut diselesaikan.
 
- Pasal 48
+### Pasal 48 ^pasal-48
 
  Ketentuan mengenai penghimpunan, penyimpanan dan penggunaan Dana
 
@@ -1591,8 +1596,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 29 
-# BAB VII
+             - 29
+**BAB VII**
 
  PELAKSANAAN PERDAGANGAN BERJANGKA
 
@@ -1600,7 +1605,7 @@ REPUBLIK INDONESIA
 
  Pedoman Perilaku
 
- Pasal 49
+### Pasal 49 ^pasal-49
 
  (1) Setiap Pihak dilarang melakukan kegiatan Perdagangan Berjangka,
 
@@ -1616,7 +1621,7 @@ REPUBLIK INDONESIA
 
  dan/atau peraturan pelaksanaannya.
 
- Pasal 50
+### Pasal 50 ^pasal-50
 
  (1) Pialang Berjangka wajib mengetahui latar belakang, keadaan
 
@@ -1647,8 +1652,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 30 
-# a. telah dinyatakan pailit oleh pengadilan;
+             - 30
+**a. telah dinyatakan pailit oleh pengadilan;**
 
  b. telah dinyatakan melanggar ketentuan Undang-undang ini
 
@@ -1674,7 +1679,7 @@ REPUBLIK INDONESIA
 
  Berjangka yang bersangkutan.
 
- Pasal 51
+### Pasal 51 ^pasal-51
 
  (1) Pialang Berjangka, sebelum melaksanakan transaksi Kontrak
 
@@ -1707,8 +1712,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 31 
-# (5) Dana milik Nasabah hanya dapat ditarik dari rekening terpisah,
+             - 31
+**(5) Dana milik Nasabah hanya dapat ditarik dari rekening terpisah,**
 
  sebagaimana dimaksud pada ayat (4), untuk pembayaran komisi dan
 
@@ -1726,7 +1731,7 @@ REPUBLIK INDONESIA
 
  pihak ketiga atau kreditornya.
 
- Pasal 52
+### Pasal 52 ^pasal-52
 
  (1) Pialang Berjangka dilarang melakukan transaksi Kontrak Berjangka
 
@@ -1748,7 +1753,7 @@ REPUBLIK INDONESIA
 
  Berjangka atas amanat Nasabahnya.
 
- Pasal 53
+### Pasal 53 ^pasal-53
 
  (1) Penasehat Berjangka berkewajiban mengetahui latar belakang,
 
@@ -1765,8 +1770,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 32 
-# (2) Penasehat Berjangka wajib menyampaikan Dokumen Keterangan
+             - 32
+**(2) Penasehat Berjangka wajib menyampaikan Dokumen Keterangan**
 
  Perusahaan dan Dokumen Pemberitahuan Adanya Risiko kepada
 
@@ -1790,7 +1795,7 @@ REPUBLIK INDONESIA
 
  Berjangka yang bersangkutan.
 
- Pasal 54
+### Pasal 54 ^pasal-54
 
  (1) Pengelola Sentra Dana Berjangka berkewajiban mengetahui latar
 
@@ -1823,8 +1828,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 33 
-# (4) Pengelola Sentra Dana Berjangka wajib menempatkan dana
+             - 33
+**(4) Pengelola Sentra Dana Berjangka wajib menempatkan dana**
 
  bersama yang dihimpun dari calon peserta Sentra Dana Berjangka
 
@@ -1834,7 +1839,7 @@ REPUBLIK INDONESIA
 
  Bappebti.
 
- Pasal 55
+### Pasal 55 ^pasal-55
 
  Pialang Berjangka, Penasehat Berjangka dan Pengelola Sentra Dana
 
@@ -1850,7 +1855,7 @@ REPUBLIK INDONESIA
 
  perundang-undangan yang berlaku.
 
- Pasal 56
+### Pasal 56 ^pasal-56
 
  Ketentuan mengenai pedoman perilaku sebagaimana dimaksud dalam
 
@@ -1862,7 +1867,7 @@ REPUBLIK INDONESIA
 
  Praktik Perdagangan yang Dilarang
 
- Pasal 57
+### Pasal 57 ^pasal-57
 
  (1) Dalam perdagangan Kontrak Berjangka setiap Pihak dilarang
 
@@ -1877,8 +1882,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 34 
-# a. baik secara langsung maupun tidak langsung dalam waktu
+             - 34
+**a. baik secara langsung maupun tidak langsung dalam waktu**
 
  bersamaan menguasai sebagian besar persediaan Komoditi secara
 
@@ -1941,14 +1946,14 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 35 
-# d. secara langsung atau tidak langsung mempengaruhi pihak lain untuk
+             - 35
+**d. secara langsung atau tidak langsung mempengaruhi pihak lain untuk**
 
  melakukan transaksi Kontrak Berjangka dengan cara membujuk
 
  atau memberi harapan keuntungan di luar kewajaran.
 
- Pasal 58
+### Pasal 58 ^pasal-58
 
  (1) Setiap Pihak dilarang memiliki, baik secara langsung maupun tidak
 
@@ -1960,7 +1965,7 @@ REPUBLIK INDONESIA
 
  oleh Bappebti.
 
- Pasal 59
+### Pasal 59 ^pasal-59
 
  Setiap Pihak wajib melaporkan kepada Bappebti melalui Bursa
 
@@ -1968,7 +1973,7 @@ REPUBLIK INDONESIA
 
  mencapai batas tertentu yang ditetapkan oleh Bappebti.
 
- Pasal 60
+### Pasal 60 ^pasal-60
 
  Ketentuan mengenai praktik perdagangan yang dilarang sebagaimana
 
@@ -1985,12 +1990,12 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 36 
-# Bagian Ketiga
+             - 36
+**Bagian Ketiga**
 
  Penyelesaian Perselisihan Perdata
 
- Pasal 61
+### Pasal 61 ^pasal-61
 
  Tanpa mengurangi hak para Pihak untuk menyelesaikan perselisihan
 
@@ -2010,7 +2015,7 @@ REPUBLIK INDONESIA
 
  sebagaimana dimaksud pada huruf a, tidak tercapai.
 
- Pasal 62
+### Pasal 62 ^pasal-62
 
  Ketentuan mengenai penyelesaian perselisihan perdata sebagaimana
 
@@ -2022,7 +2027,7 @@ REPUBLIK INDONESIA
 
  PEMBUKUAN DAN PELAPORAN
 
- Pasal 63
+### Pasal 63 ^pasal-63
 
  (1) Bursa Berjangka, Lembaga Kliring Berjangka, Pialang Berjangka,
 
@@ -2037,8 +2042,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 37 
-# a. menyampaikan laporan secara berkala dan/atau sewaktu-waktu
+             - 37
+**a. menyampaikan laporan secara berkala dan/atau sewaktu-waktu**
 
  kepada Bappebti;
 
@@ -2062,7 +2067,7 @@ REPUBLIK INDONESIA
 
  laporan sewaktu-waktu diperlukan.
 
- Pasal 64
+### Pasal 64 ^pasal-64
 
  (1) Pialang Berjangka, Penasehat Berjangka, dan Pengelola Sentra
 
@@ -2097,8 +2102,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 38 
-# Pasal 65
+             - 38
+### Pasal 65 ^pasal-65
 
  Ketentuan mengenai pembukuan dan pelaporan sebagaimana dimaksud
 
@@ -2114,7 +2119,7 @@ REPUBLIK INDONESIA
 
  Pemeriksaan
 
- Pasal 66
+### Pasal 66 ^pasal-66
 
  (1) Bappebti dapat melakukan pemeriksaan terhadap setiap Pihak yang
 
@@ -2147,8 +2152,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 39 
-# b. memeriksa dan/atau membuat salinan terhadap pembukuan
+             - 39
+**b. memeriksa dan/atau membuat salinan terhadap pembukuan**
 
  catatan, dan/atau dokumen lain, baik milik setiap Pihak yang
 
@@ -2176,7 +2181,7 @@ REPUBLIK INDONESIA
 
  menyelesaikan setiap kerugian yang timbul.
 
- Pasal 67
+### Pasal 67 ^pasal-67
 
  Ketentuan mengenai tata cara pelaksanaan pemeriksaan sebagaimana
 
@@ -2188,7 +2193,7 @@ REPUBLIK INDONESIA
 
  Penyidikan
 
- Pasal 68
+### Pasal 68 ^pasal-68
 
  (1) Pejabat Pegawai Negeri Sipil tertentu di lingkungan Bappebti diberi
 
@@ -2207,8 +2212,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 40 
-# (2) Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada
+             - 40
+**(2) Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud pada**
 
  ayat (1), berwenang:
 
@@ -2265,8 +2270,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 41 
-# (3) Sehubungan dengan pelaksanaan tugas penyidikan sebagaimana
+             - 41
+**(3) Sehubungan dengan pelaksanaan tugas penyidikan sebagaimana**
 
  dimaksud pada ayat (2), Bappebti mengajukan permohonan izin
 
@@ -2308,7 +2313,7 @@ REPUBLIK INDONESIA
 
  Sanksi Administratif
 
- Pasal 69
+### Pasal 69 ^pasal-69
 
  (1) Bappebti berwenang mengenakan sanksi administratif atas
 
@@ -2329,8 +2334,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 42 
-# (2) Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat
+             - 42
+**(2) Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat**
 
  berupa:
 
@@ -2352,7 +2357,7 @@ REPUBLIK INDONESIA
 
  h. pembatalan sertifikat pendaftaran.
 
- Pasal 70
+### Pasal 70 ^pasal-70
 
  Ketentuan mengenai sanksi administratif sebagaimana dimaksud dalam
 
@@ -2362,7 +2367,7 @@ REPUBLIK INDONESIA
 
  Ketentuan Pidana
 
- Pasal 71
+### Pasal 71 ^pasal-71
 
  (1) Setiap Pihak yang melakukan kegiatan Perdagangan Berjangka
 
@@ -2385,8 +2390,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 43 
-# (2) Setiap Pihak yang melakukan kegiatan tanpa memiliki persetujuan
+             - 43
+**(2) Setiap Pihak yang melakukan kegiatan tanpa memiliki persetujuan**
 
  sebagaimana dimaksud dalam Pasal 13, Pasal 14 ayat (2), Pasal 14
 
@@ -2408,7 +2413,7 @@ REPUBLIK INDONESIA
 
  banyak Rp. 1.000.000.000,00 (satu miliar rupiah).
 
- Pasal 72
+### Pasal 72 ^pasal-72
 
  Setiap Pihak yang melakukan kegiatan yang dilarang sebagaimana
 
@@ -2418,7 +2423,7 @@ REPUBLIK INDONESIA
 
  (sepuluh miliar rupiah).
 
- Pasal 73
+### Pasal 73 ^pasal-73
 
  (1) Setiap Pihak yang tidak memenuhi kewajiban sebagaimana
 
@@ -2447,8 +2452,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 44 
-# (2) Setiap Pihak yang melakukan kegiatan yang dilarang sebagaimana
+             - 44
+**(2) Setiap Pihak yang melakukan kegiatan yang dilarang sebagaimana**
 
  dimaksud dalam Pasal 8 diancam dengan pidana penjara paling
 
@@ -2470,7 +2475,7 @@ REPUBLIK INDONESIA
 
  miliar rupiah).
 
- Pasal 74
+### Pasal 74 ^pasal-74
 
  Ancaman pidana penjara atau pidana kurungan dan pidana denda
 
@@ -2482,7 +2487,7 @@ REPUBLIK INDONESIA
 
  yang dilarang sebagaimana dimaksud dalam pasal-pasal tersebut.
 
- Pasal 75
+### Pasal 75 ^pasal-75
 
  Setiap pihak yang tidak mematuhi atau menghambat pelaksanaan
 
@@ -2492,7 +2497,7 @@ REPUBLIK INDONESIA
 
  banyak Rp. 1.000.000.000,00 (satu miliar rupiah).
 
- Pasal 76
+### Pasal 76 ^pasal-76
 
  (1) Tindak pidana sebagaimana dimaksud dalam Pasal 71 ayat (3),
 
@@ -2507,8 +2512,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 45 
-# (2) Tindak Pidana sebagaimana dimaksud dalam Pasal 71 ayat (1),
+             - 45
+**(2) Tindak Pidana sebagaimana dimaksud dalam Pasal 71 ayat (1),**
 
  Pasal 71 ayat (2), Pasal 72, Pasal 73 ayat (1), dan Pasal 73 ayat (2)
 
@@ -2518,7 +2523,7 @@ REPUBLIK INDONESIA
 
  KETENTUAN LAIN-LAIN
 
- Pasal 77
+### Pasal 77 ^pasal-77
 
  Bappebti, Bank Indonesia, dan Badan Pengawas Pasar Modal
 
@@ -2530,7 +2535,7 @@ REPUBLIK INDONESIA
 
  Perdagangan Berjangka.
 
- Pasal 78
+### Pasal 78 ^pasal-78
 
  Setiap pihak yang menderita kerugian sebagai akibat dari pelanggaran
 
@@ -2546,7 +2551,7 @@ REPUBLIK INDONESIA
 
  KETENTUAN PERALIHAN
 
- Pasal 79
+### Pasal 79 ^pasal-79
 
  (1) Sebelum Bappebti dibentuk berdasarkan ketentuan Undang-undang
 
@@ -2565,8 +2570,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 46 
-# (2) Sebelum Lembaga Kliring Berjangka dibentuk berdasarkan
+             - 46
+**(2) Sebelum Lembaga Kliring Berjangka dibentuk berdasarkan**
 
  ketentuan Undang-undang ini dan/atau peraturan pelaksanaannya,
 
@@ -2594,7 +2599,7 @@ REPUBLIK INDONESIA
 
  KETENTUAN PENUTUP
 
- Pasal 80
+### Pasal 80 ^pasal-80
 
  Dengan berlakunya Undang-undang ini, semua peraturan
 
@@ -2606,7 +2611,7 @@ REPUBLIK INDONESIA
 
  ketentuan yang baru berdasarkan Undang-undang ini.
 
- Pasal 81
+### Pasal 81 ^pasal-81
 
  Undang-undang ini mulai berlaku sejak tanggal diundangkan.
 
@@ -2619,8 +2624,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 47 
-# Agar setiap orang mengetahuinya, memerintahkan pengundangan
+                     - 47
+**Agar setiap orang mengetahuinya, memerintahkan pengundangan**
 
  Undang-undang ini dengan penempatannya dalam Lembaran Negara
 
@@ -2657,7 +2662,9 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 
-# PENJELASAN
+## Penjelasan
+
+### I. Umum
 
  ATAS
 
@@ -2681,14 +2688,13 @@ REPUBLIK INDONESIA
 
  Perdagangan…
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 2 
-# Perdagangan Berjangka Komoditi merupakan kegiatan bisnis yang kompleks yang melibatkan banyak pihak di dalamnya. Dalam kegiatannya perlu dasar hukum yang kuat untuk memberikan kepastian hukum serta melindungi masyarakat dari praktek perdagangan yang merugikan. Oleh karena itu, Perdagangan Berjangka Komoditi perlu diatur dalam bentuk Undang-undang.
+                     - 2
+**Perdagangan Berjangka Komoditi merupakan kegiatan bisnis yang kompleks yang melibatkan banyak pihak di dalamnya. Dalam kegiatannya perlu dasar hukum yang kuat untuk memberikan kepastian hukum serta melindungi masyarakat dari praktek perdagangan yang merugikan. Oleh karena itu, Perdagangan Berjangka Komoditi perlu diatur dalam bentuk Undang-undang.**
 
  Undang-undang tentang Perdagangan Berjangka Komoditi, antara lain, mengatur institusi Badan Pengawas Perdagangan Berjangka Komoditi, Bursa Berjangka Lembaga Kliring dan Penjaminan Berjangka, Pialang Perdagangan Berjangka, Penasehat Perdagangan Berjangka, Sentra Dana Perdagangan Berjangka, dan Pengelola Sentra Dana Perdagangan Berjangka serta mengatur mekanisme perdagangan, perlindungan bagi masyarakat, dan sanksi bagi pelanggarnya.
 
@@ -2717,8 +2723,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 3 
-# Pasal 4
+                     - 3
+**Pasal 4**
 
  Ayat (1)
 
@@ -2749,8 +2755,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 4 
-# Huruf b
+                     - 4
+**Huruf b**
 
  Yang dimaksud dengan melindungi kepentingan semua pihak adalah terhindarnya masyarakat dari praktek perdagangan yang merugikan, antara lain, membujuk dengan menjanjikan keuntungan, memberikan informasi yang menyesatkan, tidak menyalurkan amanat Nasabah sesuai dengan perintah, melaksanakan transaksi tanpa sepengetahuan atau tanpa perintah Nasabah, tidak menjelaskan resiko yang dihadapi kepada calon Nasabah, dan tidak menempatkan dana Nasabah pada rekening yang terpisah.
 
@@ -2785,8 +2791,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 5 
-# Angka 3
+                  - 5
+**Angka 3**
 
  Cukup jelas
 
@@ -2825,8 +2831,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 6 
-# Huruf e
+                  - 6
+**Huruf e**
 
  Pihak lain yang dapat ditunjuk Bappebti untuk melakukan pemeriksaan, sebagaimana dimaksud pada huruf ini, misalnya Bursa Berjangka dan Lembaga Kliring Berjangka untuk memeriksa Pialang Berjangka yang menjadi anggotanya, akuntan publik, konsultan hukum, ahli komoditi, dan ahli pemasaran untuk memeriksa kasus-kasus tertentu dari pemegang izin usaha, izin orang perseorangan, persetujuan, atau sertifikat pendaftaran.
 
@@ -2859,8 +2865,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-              - 7 
-# 2) memiliki keahlian di bidang Perdagangan Berjangka;
+              - 7
+**2) memiliki keahlian di bidang Perdagangan Berjangka;**
 
  3) tidak pernah dihukum karena melakukan tindak pidana;
 
@@ -2899,8 +2905,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 8 
-# Huruf j
+                  - 8
+**Huruf j**
 
  Persyaratan keuangan minimum terdiri dari persyaratan modal yang disetor dan kekayaan bersih yang harus dipertahankan setiap saat oleh Pihak. Kekayaan bersih yang harus dipertahankan ditetapkan dalam bentuk absolut dan persentase tertentu dari dana Nasabah yang dikelola oleh Pihak yang bersangkutan. Apabila jumlah absolut berbeda dengan jumlah persentase dari dana Nasabah yang dikelolanya, maka yang diambil adalah jumlah yang terbesar.
 
@@ -2927,8 +2933,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 9 
-# 2) menjanjikan keuntungan tanpa memberitahukan resiko yang dihadapi atau;
+                  - 9
+**2) menjanjikan keuntungan tanpa memberitahukan resiko yang dihadapi atau;**
 
  3) mengajak atau menganjurkan untuk membeli dan/atau menjual Komoditi berdasarkan Kontrak Berjangka tertentu tanpa analisis yang kuat.
 
@@ -2963,8 +2969,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 10 
-# Huruf q
+                     - 10
+**Huruf q**
 
  Cukup jelas
 
@@ -3013,8 +3019,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 11 
-# Pasal 9
+                     - 11
+**Pasal 9**
 
  Dalam menghadapi lingkungan strategis yang berubah dengan cepat antara lain, perubahan di bidang ekonomi, politik, teknologi dan komunikasi, Bappebti harus dapat secara dini mengantisipasi perubahan tersebut. Untuk itu, diperlukan kegiatan penelitian dan pengembangan yang melibatkan tenaga ahli dan/atau komite.
 
@@ -3051,8 +3057,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 12 
-# Ayat (4)
+                     - 12
+**Ayat (4)**
 
  Sebagai Anggota Bursa Berjangka, Pedagang Berjangka hanya berhak bertransaksi untuk rekeningnya sendiri dan/atau untuk kelompok usahanya. Pedagang Berjangka terbuka bagi berbagai bentuk badan usaha dan orang perseorangan yang berkegiatan sebagai produsen, petani perseorangan, koperasi, organisasi petani, pedagang, eksportir, dan prosesor yang ingin berperan langsung atau tidak langsung dalam Perdagangan Berjangka.
 
@@ -3091,8 +3097,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 13 
-# Ayat (3)
+                     - 13
+**Ayat (3)**
 
  Penerbit atau penjual Opsi wajib memenuhi persyaratan khusus, antara lain, kemampuan keuangan, keahlian, kredibilitas, dan pengalaman dalam kegiatan Perdagangan Berjangka. Persyaratan ini diperlukan karena penerbit atau penjual Opsi adalah Pihak yang dengan sengaja mengambil resiko dengan memberi hak bagi pembeli Opsi untuk membeli atau menjual suatu Kontrak Berjangka pada tingkat harga tertentu. Resiko bagi penerbit atau penjual Opsi timbul karena ia berkewajiban membeli atau menjual Kontrak Berjangka tersebut meskipun harga pada saat itu merugikannya apabila pembeli Opsi menggunakan haknya. Oleh karena itu, penerbit atau penjual Opsi wajib memenuhi persyaratan tertentu untuk mendapatkan persetujuan dari Bappebti.
 
@@ -3131,8 +3137,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 14 
-# Huruf c
+                     - 14
+**Huruf c**
 
  Cukup jelas
 
@@ -3177,8 +3183,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                 - 15 
-# Informasi tersebut hanya dapat diberikan dalam rangka pemeriksaan dan penyidikan berdasarkan ketentuan Undang-undang ini dan/atau peraturan pelaksanaannya.
+                 - 15
+**Informasi tersebut hanya dapat diberikan dalam rangka pemeriksaan dan penyidikan berdasarkan ketentuan Undang-undang ini dan/atau peraturan pelaksanaannya.**
 
  Huruf d
 
@@ -3221,8 +3227,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 16 
-# Ayat (4)
+                     - 16
+**Ayat (4)**
 
  Cukup jelas
 
@@ -3265,8 +3271,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 17 
-# 3) penetapan persyaratan Kontrak Berjangka yang tidak jelas dan tidak lengkap; dan
+                     - 17
+**3) penetapan persyaratan Kontrak Berjangka yang tidak jelas dan tidak lengkap; dan**
 
  4) perkembangan harga yang tidak wajar.
 
@@ -3311,8 +3317,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 18 
-# Pasal 21
+                     - 18
+**Pasal 21**
 
  Ayat (1)
 
@@ -3353,8 +3359,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 19 
-# Pasal 24
+                     - 19
+**Pasal 24**
 
  Lembaga Kliring Berjangka menyediakan sistem pelaksanaan kliring atas transaksi yang terjadi di Bursa Berjangka untuk menjamin penyelesaian keuangan yang berkaitan dengan Kontrak Berjangka yang masih dimiliki oleh Anggota Kliring Berjangka sampai dengan jatuh tempo dan menyelesaikan penyerahan Komoditi pada saat Kontrak Berjangka tertentu jatuh tempo.
 
@@ -3397,8 +3403,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 20 
-# Pasal 27
+                     - 20
+**Pasal 27**
 
  Ayat (1)
 
@@ -3445,8 +3451,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 21 
-# Huruf b
+                     - 21
+**Huruf b**
 
  Persyaratan keuangan minimum yang ditetapkan Lembaga Kliring Berjangka tidak boleh lebih rendah daripada jumlah yang ditetapkan oleh Bappebti.
 
@@ -3485,8 +3491,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 22 
-# Pasal 30
+                     - 22
+**Pasal 30**
 
  Peraturan Pemerintah tersebut mengatur, antara lain, persyaratan dan tata cara yang berkaitan dengan pendirian Lembaga Kliring Berjangka, pemberian dan pencabutan izin usaha, kewajiban, kewenangan, dan penghentian kegiatan serta pembubaran badan hukum Lembaga Kliring Berjangka.
 
@@ -3523,8 +3529,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 23 
-# Pasal 32
+                     - 23
+**Pasal 32**
 
  Apabila persyaratan tertentu telah dipenuhi oleh Pialang Berjangka tertentu, yaitu mendapatkan bukti kerja sama dengan Pialang Berjangka luar negeri tertentu, menyerahkan uang jaminan, dan memenuhi persyaratan modal yang besarnya ditentukan oleh Bappebti, maka Bappebti memberikan persetujuan kepada Pialang Berjangka tersebut untuk menyalurkan amanat itu ke luar negeri.
 
@@ -3561,8 +3567,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 24 
-# Ayat (3)
+                     - 24
+**Ayat (3)**
 
  Wakil Penasehat Berjangka adalah orang perseorangan yang berdasarkan kesepakatan dengan Penasehat Berjangka, melaksanakan sebagian fungsi Penasehat Berjangka. Wakil Penasehat Berjangka, atas nama perusahaan, berwenang berhubungan langsung dengan calon klien atau klien dalam rangka melakukan transaksi Kontrak Berjangka di Bursa Berjangka.
 
@@ -3611,8 +3617,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 25 
-# Pasal 39
+                     - 25
+**Pasal 39**
 
  Ayat (1)
 
@@ -3655,8 +3661,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 26 
-# Ayat (2)
+                     - 26
+**Ayat (2)**
 
  Pembelian kembali Setifikat Penyertaan dilakukan oleh Pengelola Sentra Dana Berjangka dan dibebankan kepada rekening Sentra Dana Berjangka. Dana yang digunakan untuk membeli kembali Sertifikat Penyertaan yang dilakukan oleh Pengelola Sentra Dana Berjangka berasal dari kekayaan Sentra Dana Berjangka.
 
@@ -3695,8 +3701,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 27 
-# Huruf b
+                     - 27
+**Huruf b**
 
  Untuk menghindari terjadinya transaksi berulang-ulang dengan maksud mendapatkan komisi yang berlebihan, Pengelola Sentra Dana Berjangka dilarang menggunakan jasa Pialang Berjangka yang berafiliasi dengannya.
 
@@ -3741,8 +3747,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 28 
-# Ganti rugi dibayarkan dalam persentase tertentu dari Dana Kompensasi yang tersedia di Bursa Berjangka, sesuai dengan peraturan Bursa Berjangka. Pembatasan ini diperlukan agar Dana Kompensasi selalu tersedia di Bursa Berjangka.
+                     - 28
+**Ganti rugi dibayarkan dalam persentase tertentu dari Dana Kompensasi yang tersedia di Bursa Berjangka, sesuai dengan peraturan Bursa Berjangka. Pembatasan ini diperlukan agar Dana Kompensasi selalu tersedia di Bursa Berjangka.**
 
  Ayat (2)
 
@@ -3791,8 +3797,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 29 
-# Ayat (2)
+                     - 29
+**Ayat (2)**
 
  Cukup jelas
 
@@ -3835,8 +3841,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 30 
-# Ayat (4)
+                     - 30
+**Ayat (4)**
 
  Pialang Berjangka dalam memberikan rekomendasi kepada seorang Nasabah yang melakukan transaksi tertentu harus berdasarkan pertimbangan yang objektif. Apabila dalam memberikan rekomendasi tersebut ada kaitannya dengan kepentingan pribadi atau kelompoknya, Pialang Berjangka wajib terlebih dahulu memberitahukannya kepada Nasabah secara jelas.
 
@@ -3885,8 +3891,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 31 
-# Ayat (3)
+                     - 31
+**Ayat (3)**
 
  Cukup jelas
 
@@ -3931,8 +3937,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 32 
-# Ayat (4)
+                     - 32
+**Ayat (4)**
 
  Cukup jelas
 
@@ -3965,8 +3971,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 33 
-# Huruf c
+                     - 33
+**Huruf c**
 
  Informasi merupakan hal yang sangat penting bagi calon Nasabah dalam memutuskan keikutsertaannya dalam Perdagangan Berjangka. Sehubungan dengan itu, ketentuan ini melarang adanya tindakan membuat dan/atau menyebarluaskan informasi yang tidak benar yang dapat menciptakan gambaran yang menyesatkan (misleading statement/information) tentang keadaan pasokan dan permintaan Komoditi yang Kontrak Berjangkanya diperdagangkan di Bursa Berjangka agar bergerak ke arah yang diinginkan Pihak yang menyebarluaskan pernyataan atau informasi palsu. Sebagai contoh adalah penyebarluasan pernyataan atau informasi tentang terjadinya bencana alam di negara penghasil utama Komoditi yang Kontrak Berjangkanya diperdagangkan di Bursa Berjangka, yang sesungguhnya informasi tersebut tidak benar.
 
@@ -4003,8 +4009,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 34 
-# Ayat (2)
+                     - 34
+**Ayat (2)**
 
  Batas maksimum pada ayat ini terdiri dari batas maksimum yang bersifat umum dan bersifat khusus. Yang dimaksud dengan batas maksimum yang bersifat umum adalah batas maksimum posisi terbuka yang dimiliki secara langsung atau tidak langsung oleh Pihak di luar Pihak yang melakukan lindung nilai (hedger). Batas maksimum yang bersifat khusus ditetapkan hanya untuk Pihak yang melakukan lindung nilai sesuai dengan tata cara yang ditetapkan oleh Bappebti.
 
@@ -4041,8 +4047,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 35 
-# Ayat (2)
+                     - 35
+**Ayat (2)**
 
  Apabila diperlukan laporan sewaktu-waktu untuk kelengkapan data dan informasi mengenai kegiatan para Pihak dalam transaksi Kontrak Berjangka dan/atau ditemukan indikasi atau laporan penyimpangan terhadap ketentuan Undang-undang ini dan/atau peraturan pelaksanaannya, Bappebti dapat mewajibkan pemegang izin, persetujuan, dan sertifikat pendaftaran untuk menyampaikan laporan.
 
@@ -4079,8 +4085,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 36 
-# Pasal 66
+                     - 36
+**Pasal 66**
 
  Ayat (1)
 
@@ -4117,8 +4123,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 37 
-# Pasal 68
+                     - 37
+**Pasal 68**
 
  Ayat (1)
 
@@ -4175,8 +4181,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 38 
-# Ayat (5)
+                     - 38
+**Ayat (5)**
 
  Sesuai dengan ketentuan Undang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana, Penyidik Pejabat Pegawai Negeri Sipil menyerahkan hasil penyidikannya kepada Penyidik Pejabat Polisi Negara Republik Indonesia, yang selanjutnya wajib segera menyampaikannya kepada penuntut umum. Dalam hal ini, kata melalui pada ayat ini tidak berarti bahwa Penyidik Pejabat Polisi Negara Republik Indonesia dapat atau perlu melakukan penyidikan ulang karena sejak awal sampai dengan berlangsungnya penyidikan, Penyidik Pejabat Polisi Negara Republik Indonesia telah memberikan bimbingan teknis penyidikan, termasuk pemberkasan hasil penyidikan.
 
@@ -4225,8 +4231,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 39 
-# Pasal 73
+                     - 39
+**Pasal 73**
 
  Ayat (1)
 
@@ -4275,8 +4281,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 40 
-# Pasal 79
+                     - 40
+**Pasal 79**
 
  Ayat (1)
 
@@ -4303,4 +4309,3 @@ REPUBLIK INDONESIA
 ```
 
 -----
-

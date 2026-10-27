@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan Kedua UU Desa
+**Perubahan Kedua UU Desa**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -34,13 +40,13 @@ last_updated: 2026-10-28
 
 <!-- image -->
 
-## UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 3 TAHUN 2024 TENTANG PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 2OI4
+**UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 3 TAHUN 2024 TENTANG PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 2OI4**
 
-## TENTANG DESA
+**TENTANG DESA**
 
-## DENGAN RAHMAT TUHAN YANG MAHA ESA
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
-## PRESIDEN REPUBLIK INDONESIA,
+**PRESIDEN REPUBLIK INDONESIA,**
 
 - Menimbang a. bahwa Desa memiliki hak asal usul dan hak tradisional dalam mengatur dan mengurus kepentingan masyarakat setempat dan berperan mewujudkan cita-cita kemerdekaan berdasarkan Undang-Undang Dasar Negara
 - Republik Indonesia Tahun 1945;
@@ -58,17 +64,17 @@ Mengingat
 2. Indonesia Tahun 1945;
 2. Undang-Undang Nomor 6 Tahun 2Ol4 tentang Desa (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 7 , Tambahan Lembaran Negara Republik Indonesia Nomor 5495) sebagaimana telah diubah dengan UndangUndang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856);
 
-## Dengan Persetujuan Bersama
+**Dengan Persetujuan Bersama**
 
-## DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA
+**DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA**
 
-## MEMUTUSKAN:
+**MEMUTUSKAN:**
 
 Menetapkan UNDANG-UNDANG TENTANG PERUBAHAN KEDUA ATAS
 
 UNDANG-UNDANG NOMOR 6 TAHUN 2OT4 TENTANG DESA.
 
-## Pasal I
+**Pasal I**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 2Ol4 tentang Desa (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 5495) sebagaimana telah diubah dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi UndangUndang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856), diubah sebagai berikut:
 
@@ -76,17 +82,17 @@ Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 2Ol4 tentang Desa (Lembaran
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 1. Ketentuan Pasal 2 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 2
+### Pasal 2 ^pasal-2
 
 Desa menyelenggarakan pemerintahan, pembangunan, pembinaan kemasyarakatan, dan pemberdayaan masyarakat berdasarkan pancasila, undang-Undang Dasar Negara Republik Indonesia Tahun Lg4s, Negara Kesatuan Republik Indonesia, dan Bhinneka tunggaf lka sesuai dengan ketentuan peraturan perundang-undangan.
 
 2. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 4
+### Pasal 4 ^pasal-4
 
 Pengaturan Desa bertujuan:
 
@@ -106,14 +112,14 @@ g.meningkatkan...
 - i. memperkuat masyarakat Desa sebagai subjek pembangunan.
 3. Di antara Pasal 5 dan Pasal 6 disisipkan 1 (satu) pasal, yakni Pasal 5A sehingga berbunyi sebagai berikut:
 
-## Pasal 5A
+**Pasal 5A**
 
 - (1) Desa yang berada di kawasan suaka alam, kawasan pelestarian alam, hutan produksi, dan kebun produksi berhak mendapatkan dana konservasi dan/atau dana rehabilitasi berdasarkan ketentuan peraturan perundang-undangan.
 2. (21 Ketentuan mengenai dana konservasi dan/atau dana rehabilitasi sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 4. Penjelasan Pasal 8 ayat (3) huruf h diubah sebagaimana tercantum dalam penjelasan.
 5. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26
+### Pasal 26 ^pasal-26
 
 - (1) Kepala Desa bertugas menyelenggarakan pemerintahan, pembangunan, pembinaan kemasyarakatan, dan pemberdayaan masyarakat di Desa sesuai dengan ketentuan peraturan perundangundangan.
 - (2) Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1), Kepala Desa berwenang:
@@ -173,7 +179,7 @@ j. mengelola
 - q. memberikan informasi kepada masyarakat Desa.
 6. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 27
+### Pasal 27 ^pasal-27
 
 Dalam melaksanakan tugas, kewenangan, hak, dan kewajiban sebagaimana dimaksud dalam Pasal 26, Kepala Desa wajib:
 
@@ -190,7 +196,7 @@ f.menyampaikan...
 - f. menyampaikan laporan pertanggungjawaban penyelenggaraan Pemerintahan Desa pada akhir masa jabatan kepada bupati/wali kota.
 7. Ketentuan Pasal 33 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 33
+### Pasal 33 ^pasal-33
 
 Calon Kepala Desa wajib memenuhi persyaratan:
 
@@ -211,7 +217,7 @@ Calon Kepala Desa wajib memenuhi persyaratan:
 1. syarat lain yang diatur dalam Peraturan Daerah kabupaten/kota.
 8. Di antara Pasal 34 dan Pasal 35 disisipkan I (satu) pasal, yakni Pasal 34A sehingga berbunyi sebagai berikut:
 
-## Pasal 34A
+**Pasal 34A**
 
 - (1) Calon Kepala Desa paling sedikit berjumlah 2 (dua) orang.
 - (2) Dalam hal jumlah calon Kepala Desa sebagaimana dimaksud pada ayat (1) tidak terpenuhi dan hanya terdapat 1 (satu) calon Kepala Desa terdaftar, panitia pemilihan Kepala Desa memperpanjang masa pendaftaran calon Kepala Desa selama 15 (lima belas) hari.
@@ -220,7 +226,7 @@ Calon Kepala Desa wajib memenuhi persyaratan:
 - (5) Ketentuan lebih lanjut mengenai tata cara pemilihan 1 (satu) calon Kepala Desa diatur dengan Peraturan Pemerintah.
 9. Ketentuan Pasal 39 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 39
+### Pasal 39 ^pasal-39
 
 - (1) Kepala Desa memegang jabatan selama 8 (delapan) tahun terhitung sejak tanggal pelantikan.
 
@@ -232,7 +238,7 @@ Calon Kepala Desa wajib memenuhi persyaratan:
 10. Penjelasan Pasal 48 diubah sebagaimana tercantum dalam penjelasan.
 - ll.Ketentuan Pasal 50 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 50
+### Pasal 50 ^pasal-50
 
 - (1) Perangkat Desa sebagaimana dimaksud dalam Pasal 48 diangkat dari warga Desa yang memenuhi persyaratan:
 - a. bertakwa kepada T\rhan Yang Maha Esa;
@@ -242,7 +248,7 @@ Calon Kepala Desa wajib memenuhi persyaratan:
 - (2) Ketentuan lebih lanjut mengenai perangkat Desa sebagaimana dimaksud dalam Pasal 48, Pasal 49, dan Pasal 50 ayat (1) diatur dalam Peraturan Daerah kabupaten/kota berdasarkan Peraturan Pemerintah.
 7. l2.Di antara Pasal 50 dan Pasal 51 disisipkan 1 (satu) pasal, yakni Pasal 5OA sehingga berbunyi sebagai berikut:
 
-## Pasal 50A
+**Pasal 50A**
 
 Perangkat Desa dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 49 ayat (1), berhak:
 
@@ -256,20 +262,20 @@ c. mendapatkan. . .
 - c. mendapatkan tunjangan purnatugas 1 (satu) kali di akhir masa jabatan sesuai kemampuan Keuangan Desa yang diatur dalam Peraturan Pemerintah.
 13. Di antara Pasal 53 dan Pasal 54 disisipkan 1 (satu) pasal, yakni Pasal 53A sehingga berbunyi sebagai berikut:
 
-## Pasal 53A
+**Pasal 53A**
 
 Dalam rangka meningkatkan kompetensi dan akuntabilitas kinerja Pemerintah Desa maka perlu dilakukan penatalaksanaan Pemerintah Desa yang diatur lebih lanjut dengan Peraturan Pemerintah.
 
 14. Ketentuan Pasal 56 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56
+### Pasal 56 ^pasal-56
 
 - (1) Anggota Badan Permusyawaratan Desa merupakan wakil dari penduduk Desa berdasarkan keterwakilan wilayah yang pengisiannya dilakukan secara demokratis dengan memperhatikan 30% (tiga puluh persen) keterwakilan perempuan.
 2. (21 Masa keanggotaan Badan Permusyawaratan Desa selama 8 (delapan) tahun terhitung sejak tanggal pengucapan sumpah/janji dan dapat dipilih kembali dalam jabatan yang sama.
 - (3) Anggota Badan Permusyawaratan Desa sebagaimana dimaksud pada ayat (1) dapat dipilih untuk masa keanggotaan paling banyak 2 (dua) kali secara berturut-turut atau tidak secara berturut-turut.
 15. Ketentuan Pasal 57 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 57
+### Pasal 57 ^pasal-57
 
 Persyaratan calon anggota Badan Permusyawaratan Desa adalah:
 
@@ -287,7 +293,7 @@ b. memegang
 - g. wakil penduduk Desa yang dipilih secara demokratis.
 16. Ketentuan Pasal 62 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62
+### Pasal 62 ^pasal-62
 
 Anggota Badan Permusyawaratan Desa berhak:
 
@@ -303,7 +309,7 @@ Anggota Badan Permusyawaratan Desa berhak:
 
 17. Ketentuan Pasal 67 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 67
+### Pasal 67 ^pasal-67
 
 - (1) Desa berhak:
 - a. mengatur dan mengurus kepentingan masyarakat setempat berdasarkan hak asal usul, adat istiadat, dan nilai sosial budaya masyarakat setempat;
@@ -317,7 +323,7 @@ Anggota Badan Permusyawaratan Desa berhak:
 - e. memberikan dan meningkatkan pelayanan kepada masyarakat setempat.
 18. Ketentuan Pasal 72 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 72
+### Pasal 72 ^pasal-72
 
 - (1) Pendapatan Desa sebagaimana dimaksud dalam Pasal 7I ayat (2) bersumber dari:
 - a. pendapatan asli Desa terdiri atas hasil usaha, hasil aset, swadaya dan partisipasi, gotongroyong, dan lain-lain pendapatan asli Desa;
@@ -342,13 +348,13 @@ Anggota Badan Permusyawaratan Desa berhak:
 - (8) Ketentuan lebih lanjut mengenai pendapatan Desa dan penyaluran dana alokasi umum sebagaimana dimaksud pada ayat (1) dan ayat (5) diatur dalam Peraturan Pemerintah.
 19. Di antara Pasal 72 dan Pasal 73 disisipkan 1 (satu) pasal, yakni Pasal 72A sehingga berbunyi sebagai berikut:
 
-## Pasal 72A
+**Pasal 72A**
 
 Pendapatan Desa seb aimana dimaksud dalam Pasal 72 dikelola sesuai dengan prioritas Pembangunan Desa, pendidikan, pendidikan kemasyarakatan, pembinaan kemasyarakatan, dan pemberdayaan masyarakat guna menciptakan lapangan kerja yang meningkatkan perekonomian dan kesejahteraan masyarakat Desa.
 
 20. Ketentuan Pasal 74 diubah sehingga berbunyi sebagai berikut:
 
-## PasalT4
+**PasalT4**
 
 - (1) Belanja Desa diprioritaskan untuk memenuhi kebutuhan pembangunan yang disepakati dalam Musyawarah Desa dan sesuai dengan prioritas Pemerintah Daerah kabupaten/kota, Pemerintah Daerah provinsi, dan Pemerintah.
 2. (21 Prioritas kebutuhan pembangunan sebagaimana dimaksud pada ayat (1) termasuk pemberian insentif bagi rukun tetangga dan rukun warga sesuai dengan pertimbangan kemampuan keuangan daerah.
@@ -358,14 +364,14 @@ Pendapatan Desa seb aimana dimaksud dalam Pasal 72 dikelola sesuai dengan priori
 
 21. Ketentuan Pasal 78 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 78
+### Pasal 78 ^pasal-78
 
 - (1) Pembangunan Desa bertujuan menciptakan kesejahteraan masyarakat Desa dan kualitas hidup manusia serta penanggulangan kesenjangan sosial ekonomi melalui pemenuhan kebutuhan dasar, pembangunan sarana dan prasarana Desa, pengembangan potensi ekonomi lokal, serta pemanfaatan sumber daya alam dan lingkungan secara berkelanjutan bagi kehidupan dan penghidupan masyarakat setempat.
 2. (21 Pembangunan Desa meliputi tahap perencanaan, pelaksanaan, dan pengawasan.
 - (3) Pembangunan Desa sebagaimana dimaksud pada ayat (21 mengedepankan kebersamaan, kekeluargaan, dan kegotongroyongan guna mewujudkan pengarusutamaan perdamaian dan keadilan sosial.
 4. 22.Ketentuan Pasal 79 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 79
+### Pasal 79 ^pasal-79
 
 - (1) Pemerintah Desa menJrusun perencanaan Pembangunan Desa sesuai dengan kewenangannya dengan mengacu pada perencanaan pembangunan kabupaten/kota.
 2. (21 Perencanaan Pembangunan Desa sebagaimana dimaksud pada ayat (1) disusun secara berjangka meliputi:
@@ -383,7 +389,7 @@ Pendapatan Desa seb aimana dimaksud dalam Pasal 72 dikelola sesuai dengan priori
 - (7) Perencanaan Pembangunan Desa sebagaimana dimaksud pada ayat (1) merupakan salah satu sumber masukan dalam perencanaan pembangunan kabupaten/kota.
 23. Ketentuan Pasal 86 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 86
+### Pasal 86 ^pasal-86
 
 - (1) Desa berhak mendapatkan akses informasi melalui sistem informasi Desa yang dikembangkan oleh Pemerintah Daerah kabupaten / kota.
 2. (21 Pemerintah dan Pemerintah Daerah wajib mengembangkan sistem informasi Desa dan pembangunan Kawasan Perdesaan.
@@ -396,7 +402,7 @@ Pendapatan Desa seb aimana dimaksud dalam Pasal 72 dikelola sesuai dengan priori
 - (6) Pemerintah Daerah kabupaten/kota menyediakan informasi perencanaan pembangunan kabupaten/ kota untuk Desa.
 - 24.Di antara Pasal 87 dan Pasal 88 disisipkan 1 (satu) pasal, yakni Pasal 87A sehingga berbunyi sebagai berikut:
 
-## Pasal 87A
+**Pasal 87A**
 
 - (1) Pengelolaan BUM Desa sebagaimana dimaksud dalam Pasal 87 ayat (2) dilakukan secara profesional untuk mendapatkan keuntungan bagi peningkatan kesej ahteraan masyarakat.
 - (2) BUM Desa sebagaimana dimaksud pada ayat (1) dapat bekerja sama dengan badan usaha milik negara, badan usaha milik daerah, badan usaha milik swasta, dan/atau koperasi.
@@ -406,9 +412,9 @@ Pendapatan Desa seb aimana dimaksud dalam Pasal 72 dikelola sesuai dengan priori
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
-## Pasal 1 18
+**Pasal 1 18**
 
 Pada saat Undang-Undang ini berlaku:
 
@@ -420,11 +426,11 @@ Pada saat Undang-Undang ini berlaku:
 - f. Perangkat Desa yang berstatus sebagai pegawai negeri sipil melaksanakan tugasnya sampai ditetapkan penempatannya yang diatur dengan Peraturan Pemerintah.
 7. 26.Di antara Pasal l2l dan Pasal 122 disisipkan 1 (satu) pasal, yakni Pasal l2lL sehingga berbunyi sebagai berikut:
 
-## Pasal l2IA
+**Pasal l2IA**
 
 Pemerintah harus melaporkan pelaksanaan UndangUndang ini kepada Dewan Perwakilan Rakyat Republik Indonesia melalui alat kelengkapan yang menangani urusan di bidang legislasi paling lambat 3 (tiga) tahun sejak Undang-Undang ini berlaku.
 
-## Pasal II
+**Pasal II**
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
@@ -446,7 +452,7 @@ dan
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
@@ -456,7 +462,7 @@ ttd.
 
 JOKO WIDODO
 
-## I. UMUM
+**I. UMUM**
 
 Desa memiliki hak asal usul dan hak tradisional dalam mengatur dan mengurus kepentingan masyarakat setempat dan berperan mewujudkan cita-cita kemerdekaan berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
 
@@ -470,17 +476,19 @@ perubahan dilakukan terhadap beberapa pasal dan/atau ayat dalam Undang-Undang No
 
 <!-- image -->
 
-## PENJELASAN ATAS
+## Penjelasan
 
-## UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 3 TAHUN 2024
+### I. Umum
 
-## TENTANG
+**UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 3 TAHUN 2024**
 
-## PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 2OT4
+**TENTANG**
 
-## TENTANG DESA
+**PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 6 TAHUN 2OT4**
 
-## II. PASAL DEMI PASAL
+**TENTANG DESA**
+
+### II. Pasal demi Pasal
 
 Pasal I Angka 1 Pasal 2 Cukup jelas. Angka 2 Pasal 4 Cukup jelas. Angka 3 Pasal 5A Cukup jelas. Angka 4 Pasal 8 Ayat (1) Pembentukan Desa dapat berupa: a. pemekaran dari 1 (satu) Desa menjadi 2 (dua) Desa atau lebih; b. penggabungan bagian Desa dari Desa yang bersanding menjadi 1 (satu) Desa; atau c. penggabungan beberapa Desa menjadi 1 (satu) Desa baru.
 
@@ -526,11 +534,11 @@ Huruf c
 
 Yang dimaksud dengan "tunjangan" antara lain adalah tunjangan istri/suami, tunjangan anak, tunjangan kinerja, dan tunjangan hasil pemanfaatan tanah milik Desa atau yang sejenis dengan itu (contohnya tanah bengkok di Jawa, tanah pencaton di Madura, tanah nagari di Sumatera Barat, dan lain sebagainya).
 
-## Huruf d
+**Huruf d**
 
 Yang dimaksud dengan "tunjangan purnatugas" adalah penerimaan yang sah sebagai penghargaan bagi Kepala Desa yang telah selesai melaksanakan jabatannya dalam bentuk uang atau yang setara dengan itu.
 
-## Huruf e
+**Huruf e**
 
 Yang dimaksud dengan "pelindungan hukum" adalah upaya melindungi Kepala Desa dalam menjalankan tugas dan wewenang penyelenggaraan Pemerintahan Desa antara lain dalam penggunaan anggaran Desa untuk kepentingan program pembangunan Desa, kecuali ditemukan penyimpangan berdasarkan temuan audit Badan Pengawasan Keuangan dan Pembangunan (BPKP).
 
@@ -543,9 +551,7 @@ Ayat (a)
 Cukup jelas.
 
 Angka 6
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Huruf a
 
 Yang dimaksud dengan "informasi penyelenggaraan Pemerintahan Desa", antara lain, adalah informasi mengenai penggunaan dana Desa bagi pelaksanaan program Pembangunan Desa, sehingga masyarakat mengetahui capaian program Pembangunan Desa dan prioritas penggunaan dana Desa.
@@ -571,9 +577,7 @@ Huruf f
 Cukup jelas.
 
 Angka 7
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Cukup jelas.
 
 Angka 8
@@ -583,26 +587,20 @@ Pasal 34A
 Cukup jelas.
 
 Angka 9
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Cukup jelas.
 
 <!-- image -->
 
-## Angka 10
-
-Pasal 48
-
+**Angka 10**
+#### Pasal 48 ^penjelasan-pasal-48
 Yang dimaksud dengan "Perangkat Desa" adalah unsur staf yang membantu Kepala Desa dalam pen5rusunan kebijakan dan koordinasi yang diwadahi dalam sekretariat Desa dan unsur pendukung tugas Kepala Desa dalam pelaksanaan kebijakan yang diwadahi dalam bentuk pelaksana teknis dan unsur kewilayahan.
 
-## Angka 1 1
-
-Pasal 50
-
+**Angka 1 1**
+#### Pasal 50 ^penjelasan-pasal-50
 Cukup jelas.
 
-## Angka 12
+**Angka 12**
 
 Pasal 50A
 
@@ -629,9 +627,7 @@ Cukup jelas.
 AngkaL4...
 
 Angka 14
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56
 Ayat (1)
 
 Yang dimaksud dengan "dilakukan secara demokratis" yaitu dapat diproses melalui proses pemilihan secara langsung dan melalui proses musyawarah perwakilan.
@@ -645,15 +641,11 @@ Ayat (3)
 Cukup jelas.
 
 Angka 15
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
 
 Angka 16
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Huruf a
 
 Cukup jelas.
@@ -686,16 +678,12 @@ Huruf g
 
 Yang dimaksud dengan "tunjangan purnatugas" adalah penerimaan yang sah sebagai penghargaan bagi anggota Badan Permusyawaratan Desa yang telah selesai melaksanakan jabatannya dalam bentuk uang atau setara dengan itu.
 
-## Angka 17
-
-Pasal 67
-
+**Angka 17**
+#### Pasal 67 ^penjelasan-pasal-67
 Cukup jelas.
 
 Angka 18
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Ayat (1)
 
 Huruf a
@@ -789,21 +777,15 @@ Yang dimaksud dengan "kebutuhan primer" adalah kebutuhan pangan, sandang, dan pa
 Yang dimaksud dengan "pelayanan dasar' adalah antara lain pendidikan, kesehatan, infrastruktur dasar, dan jaminan sosial.
 
 Angka 2l
-
-Pasal 78
-
+#### Pasal 78 ^penjelasan-pasal-78
 Cukup jelas.
 
 Angka 22
-
-Pasal 79
-
+#### Pasal 79 ^penjelasan-pasal-79
 Cukup jelas.
 
 Angka 23
-
-Pasal 86
-
+#### Pasal 86 ^penjelasan-pasal-86
 Cukup jelas.
 
 <!-- image -->
@@ -815,3 +797,21 @@ Angka 24 Pasal 87A Cukup jelas. Angka 25 Pasal 1 18 Cukup jelas. Angka 26 Pasal 
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6914
+
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 86 | [[#^penjelasan-pasal-86]] |

@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penetapan Perppu 2-2008 tentang Perubahan Kedua atas UU 23-1999 tentang BI
+**Penetapan Perppu 2-2008 tentang Perubahan Kedua atas UU 23-1999 tentang BI**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -80,10 +86,9 @@ Tahun 1999 tentang Bank Indonesia;
 
 d. bahwa . . .
 
-
 -----
 
-                       - 2 
+                       - 2
 d. bahwa perubahan terhadap ketentuan yang
 mengatur mengenai kredit atau pembiayaan
 berdasarkan prinsip syariah dari Bank Indonesia
@@ -133,10 +138,9 @@ Nomor 4357);
 
 Dengan . . .
 
-
 -----
 
-                       - 3 
+                       - 3
 Dengan Persetujuan Bersama
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
@@ -153,7 +157,7 @@ TAHUN 2008 TENTANG PERUBAHAN KEDUA ATAS
 UNDANG-UNDANG NOMOR 23 TAHUN 1999 TENTANG
 BANK INDONESIA MENJADI UNDANG-UNDANG.
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Peraturan Pemerintah Pengganti Undang-Undang Nomor
 2 Tahun 2008 tentang Perubahan Kedua Atas UndangUndang Nomor 23 Tahun 1999 tentang Bank Indonesia
@@ -162,17 +166,16 @@ Nomor 142, Tambahan Lembaran Negara Republik
 Indonesia Nomor 4901) ditetapkan menjadi UndangUndang dan melampirkannya sebagai bagian yang tidak
 terpisahkan dari Undang-Undang ini.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 Undang-Undang ini mulai berlaku pada tanggal
 diundangkan.
 
 Agar . . .
 
-
 -----
 
-                         - 4 
+                         - 4
 Agar setiap orang mengetahuinya memerintahkan
 pengundangan Undang-Undang ini dengan
 penempatannya dalam Lembaran Negara Republik
@@ -207,10 +210,11 @@ Bidang Perekonomian dan Industri,
 
 SETIO SAPTO NUGROHO
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 
@@ -225,8 +229,6 @@ PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG
 NOMOR 2 TAHUN 2008 TENTANG PERUBAHAN KEDUA ATAS UNDANGUNDANG NOMOR 23 TAHUN 1999 TENTANG BANK INDONESIA MENJADI
 
 UNDANG-UNDANG
-
-I. UMUM
 
 Dampak krisis keuangan global saat ini berimbas pada berbagai negara
 termasuk Indonesia, karena sistem keuangan global saling interdependensi.
@@ -257,10 +259,9 @@ Bank Indonesia.
 
 Penetapan . . .
 
-
 -----
 
-                        - 2 
+                        - 2
 Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun
 2008 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun
 1999 tentang Bank Indonesia oleh Presiden berdasarkan Pasal 22 ayat (1)
@@ -275,14 +276,11 @@ Dewan Perwakilan Rakyat untuk ditetapkan menjadi Undang-Undang sesuai
 dengan Pasal 22 ayat (2) Undang-Undang Dasar Negara Republik Indonesia
 Tahun 1945.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup Jelas
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup Jelas
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4962
@@ -387,15 +385,11 @@ Nomor 23 Tahun 1999 tentang Bank Indonesia
 Nomor 7, Tambahan Lembaran Negara Republik
 Indonesia Nomor 4357) diubah sehingga berbunyi sebagai
 berikut:
-
-Pasal 11 ...
-
-
+#### Pasal 11 ^penjelasan-pasal-11
 -----
 
-           - 5           
-Pasal 11
-
+           - 5
+#### Pasal 11 ^penjelasan-pasal-11-2
 (1) Bank Indonesia dapat memberikan kredit atau
 pembiayaan berdasarkan Prinsip Syariah untuk
 jangka waktu paling lama 90 (sembilan puluh) hari
@@ -520,9 +514,7 @@ Negara Republik Indonesia Tahun 1945.
 II. PASAL DEMI PASAL
 
 Pasal I
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11-3
 Ayat (1)
 
 Pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah
@@ -614,3 +606,12 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4901
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 11 | [[#^penjelasan-pasal-11-2]] |
+| Pasal 11 | [[#^penjelasan-pasal-11-3]] |

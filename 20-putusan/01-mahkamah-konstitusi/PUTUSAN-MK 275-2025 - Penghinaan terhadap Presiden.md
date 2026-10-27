@@ -19,10 +19,16 @@ sumber: "https://peraturan.bpk.go.id/DownloadUjiMateri/249/putusan_mkri_275_PUU-
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Putusan MK Nomor 275/PUU-XXIII/2025 — Penghinaan terhadap Presiden dan/atau Wakil Presiden (Pasal 220 ayat (1) KUHP)
+**Putusan MK Nomor 275/PUU-XXIII/2025 — Penghinaan terhadap Presiden dan/atau Wakil Presiden (Pasal 220 ayat (1) KUHP)**
 
 **Status:** `berlaku`
 
@@ -90,7 +96,6 @@ Alamat : Jalan Fajar Baru XIII, Blok FF Nomor 46, RT/RW
 Jakarta Barat
 
 Selanjutnya disebut sebagai --------------------------------------- Pemohon IV;
-
 
 -----
 
@@ -162,7 +167,6 @@ Alamat : Kp. Pulo, RT/RW 005/001, Kedungwaringin,
 
 Bojong Gede, Kabupaten Bogor
 
-
 -----
 
 Selanjutnya disebut sebagai --------------------------------------- Pemohon XI;
@@ -230,7 +234,6 @@ kuasa;
 Selanjutnya Pemohon I sampai dengan Pemohon XV disebut sebagai ----------------
 ---------------------------------------------------------------------------------------- para Pemohon;
 
-
 -----
 
 [1.2] Membaca permohonan para Pemohon;
@@ -266,7 +269,7 @@ Mahkamah pada tanggal 26 Januari 2026, pada pokoknya menguraikan hal-hal
 
 sebagai berikut.
 
-# I. KEWENANGAN MAHKAMAH
+**I. KEWENANGAN MAHKAMAH**
 
 1. Bahwa Pasal 24 ayat (2) Perubahan Ketiga Undang-Undang Dasar Negara
 
@@ -291,7 +294,6 @@ memutus perselisihan tentang hasil Pemilihan Umum”.
 3. Bahwa lebih lanjut Pasal 9 ayat (1) Undang-Undang Nomor 12 Tahun 2011
 
 tentang Pembentukan Peraturan Perundang-Undangan sebagaimana
-
 
 -----
 
@@ -356,7 +358,6 @@ konstitusionalitas undang-undang yaitu: Undang-Undang Nomor 1 Tahun
 
 bahwa objek permohonan _a quo memenuhi syarat sebagai objek_
 
-
 -----
 
 permohonan pengujian materiil Undang-Undang terhadap UUD 1945.
@@ -367,7 +368,7 @@ mengadili, dan memutus konstitusionalitas Undang-Undang terhadap
 
 UUD 1945 dalam perkara a quo yang diajukan oleh PARA PEMOHON.
 
-# II. KEDUDUKAN HUKUM (LEGAL STANDING) DAN KERUGIAN
+**II. KEDUDUKAN HUKUM (LEGAL STANDING) DAN KERUGIAN**
 
 **KONSTITUSIONAL PARA PEMOHON**
 
@@ -424,7 +425,6 @@ memiliki Kartu Tanda Penduduk (KTP) dan merupakan seorang
 mahasiswa Prodi Hukum Universitas Terbuka [Bukti P-7 dan P-19];
 
 f. Bahwa PEMOHON VI merupakan perseorangan WNI yang telah sah
-
 
 -----
 
@@ -496,7 +496,6 @@ mengajukan permohonan pengujian UU terhadap UUD NRI 1945.
 
 Selanjutnya PARA PEMOHON akan menguraikan kerugian konstitusional
 
-
 -----
 
 yang dialami sehubungan dengan berlakunya UU yang diujikan
@@ -567,7 +566,6 @@ dan sikap sesuai dengan hati nurani”.
 
 d) Pasal 28E ayat (3) UUD NRI Tahun 1945, menyatakan “Setiap orang
 
-
 -----
 
 berhak atas kebebasan berserikat, berkumpul, dan mengeluarkan
@@ -634,7 +632,6 @@ penalaran wajar dapat dipastikan akan terjadi, serta adanya hubungan
 sebab akibat (causal verband) antara berlakunya pasal yang diuji dengan
 
 kerugian hak konstitusional PARA PEMOHON, yang akan dijelaskan
-
 
 -----
 
@@ -705,7 +702,6 @@ Pemohon XIII atas kepastian hukum yang adil serta kebebasan
 
 berpendapat sebagaimana dijamin UUD NRI 1945.
 
-
 -----
 
 d) Pemohon XIV mengalami kerugian konstitusional yang nyata, aktual,
@@ -775,7 +771,6 @@ e) Pemohon XV merupakan perorangan Warga Negara Indonesia yang
 
 berstatus sebagai penyandang disabilitas, yang hak konstitusionalnya
 
-
 -----
 
 dijamin oleh Undang-Undang Dasar Negara Republik Indonesia Tahun
@@ -804,7 +799,9 @@ Presiden atau Wakil Presiden" dalam pasal _a quo tidak didefinisikan_
 
 secara jelas dan tegas, baik dalam pasal tersebut maupun dalam
 
-penjelasan KUHP. Sehingga menimbulkan ketidakpastian hukum
+## Penjelasan
+
+### I. Umum
 
 mengenai batasan perbuatan yang dapat dikualifikasikan sebagai
 
@@ -845,7 +842,6 @@ dalam diskursus publik yang sah dalam negara demokratis. Akibatnya,
 berbagai bentuk ekspresi, termasuk diskusi, ceramah ilmiah,
 
 presentasi, publikasi akademik, filosofis, maupun ekspresi personal
-
 
 -----
 
@@ -917,7 +913,6 @@ martabat" dalam Pasal 218, 219 dan 220 KUHP yang tidak memiliki
 
 batasan yang jelas dan terukur telah menimbulkan ketidakpastian
 
-
 -----
 
 hukum, sehingga membuka ruang penafsiran subjektif dan tindakan
@@ -984,10 +979,9 @@ kerugian hak konstitusional sebagaimana tertuang dalam Putusan
 Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan Nomor 011/PUU
 V/2007.
 
-
 -----
 
-# III. ALASAN PERMOHONAN
+**III. ALASAN PERMOHONAN**
 
 Bahwa Mahkamah Konstitusi telah menyatakan ”...Martabat Presiden dan
 
@@ -1053,7 +1047,6 @@ berat lainnya, atau perbuatan tercela maupun apabila terbukti tidak lagi
 
 memenuhi syarat sebagai Presiden dan/atau Wakil Presiden”, karena upaya
 upaya melakukan klarifikasi tersebut dapat ditafsirkan sebagai penghinaan
-
 
 -----
 
@@ -1124,7 +1117,6 @@ pengingkaran terhadap asas kedaulatan rakyat.
 
 219, Pasal 220 ayat (1) dan ayat (2) KUHP tidak hanya mencederai kontrak
 
-
 -----
 
 sosial, tetapi juga melanggar prinsip fundamental etika Immanuel Kant
@@ -1194,7 +1186,6 @@ ayat (2) KUHP bertentangan dengan Pasal 27 ayat (1) UUD 1945
 tentang Persamaan di Hadapan Hukum;
 c. Ketentuan Pasal 218 ayat (1) dan (2), Pasal 219, Pasal 220 ayat (1) dan
 
-
 -----
 
 ayat (2) KUHP bertentangan dengan 28E ayat (2) dan (3) serta Pasal 28F
@@ -1204,7 +1195,7 @@ Maka PARA PEMOHON akan menjelaskan lebih rinci hal-hal terkait dalil
 
 dalil permohonan, sebagai berikut:
 
-## A. Ketentuan Pasal 218 ayat (1) dan ayat (2), Pasal 219, Pasal 220 ayat (1)
+**A. Ketentuan Pasal 218 ayat (1) dan ayat (2), Pasal 219, Pasal 220 ayat (1)**
 
 **dan ayat (2) KUHP bertentangan dengan 28E ayat (2) dan ayat (3) serta**
 
@@ -1263,7 +1254,6 @@ kepastian hukum yang jelas.
 menciptakan fear effect, yaitu suatu kondisi psikologis di mana warga
 
 negara merasa takut dan terintimidasi sehingga secara sukarela
-
 
 -----
 
@@ -1334,7 +1324,6 @@ yang demokratis.
 
 17. Bahwa Pasal 19 Universal Declaration of Human Rights (UDHR)
 
-
 -----
 
 menyatakan bahwa:
@@ -1397,7 +1386,6 @@ dapat dilakukan secara proporsional melalui ketentuan umum
 mengenai penghinaan, tanpa memerlukan delik khusus; dan e.
 Apabila suatu saat terjadi impeachment presiden karena melanggar
 konstitusi, maka tidak ada yany berani bersaksi karena takut terkena
-
 
 -----
 
@@ -1468,7 +1456,6 @@ dalam konteks unjuk rasa dan ekspresi publik; dan (iii) dapat menjadi
 hambatan bagi upaya klarifikasi dan pertanggungjawaban Presiden dan/atau
 
 Wakil Presiden, termasuk dalam konteks mekanisme konstitusional sebagaimana
-
 
 -----
 
@@ -1544,7 +1531,6 @@ menolak pencarian "asal usul" (Ursprung) yang murni dan abadi dan
 |Perbuatan|Penghinaan|Menyerang<br>Kehormatan/harkat<br>dan martabat|
 |Ancaman<br>Pidana|1 tahun 4 bulan<br>penjara|3 tahun<br>6 <br>bulan<br>penjara|
 
-
 -----
 
 berfokus pada keturunan (Herkunft) dan kemunculan (Entstehung).
@@ -1614,7 +1600,6 @@ pada musuh publik (hostis). [Floyd Seyward Lear, Treason in Roman and
 _Germanic Law: Collected Papers, (Austin: University of Texas Press,_
 
 1965)]. Hukum ini sudah tertuang dalam Hukum Dua Belas Meja yang
-
 
 -----
 
@@ -1686,7 +1671,6 @@ pemenggalan untuk bangsawan (honestiores). [Floyd Seyward Lear,
 
 _Treason in Roman and Germanic Law:_ _Collected Papers, (Austin:_
 
-
 -----
 
 University of Texas Press, 1965)].
@@ -1756,7 +1740,6 @@ _Crimen Laesae Maiestas: A Study of Roman Influences in old Poland,_
 _Lublin: Wydanictwo KUL, 2013]._
 
 34. Bahwa berlanjut pada pasal 99, majestaet verbrechen 9mencakup
-
 
 -----
 
@@ -1828,7 +1811,6 @@ Sin Po sering menjadi target sensor dan penuntutan. Artikel satiris yang
 
 menggambarkan Gubernur Jenderal sebagai tiran, pamflet politik yang
 
-
 -----
 
 mempertanyakan legitimasi Ratu Belanda, atau pidato yang menyindir
@@ -1898,7 +1880,6 @@ Informasi dan Transaksi Elektronik (UU ITE) No. 11 Tahun 2008 pada
 tanggal 21 April 2008 dan mulai berlaku dua tahun setelahnya, yakni 21
 
 April 2010. Dalam UU tersebut, terdapat tiga pasal karet yang dipandang
-
 
 -----
 
@@ -1970,7 +1951,6 @@ Technology, 2021].
 
 merespons kritik yang ditujukan kepada pejabat negara atau kebijakan
 
-
 -----
 
 pemerintah. Penangkapan serta penuntutan yang terjadi ditujukan sebagai
@@ -2041,7 +2021,6 @@ yang menunjukkan ketidakpatuhan yang jelas terhadap Putusan
 
 Mahkamah Konstitusi yang final dan mengikat.
 
-
 -----
 
 42. Bahwa penghidupan kembali substansi norma yang telah dibatalkan
@@ -2064,7 +2043,7 @@ Nomor 1 Tahun 2023, sehingga delik khusus menjadi tidak proporsional
 
 dan diskriminatif.
 
-## B. Ketentuan Pasal 218 ayat (1) dan (2), Pasal 219, Pasal 220 ayat (1) dan
+**B. Ketentuan Pasal 218 ayat (1) dan (2), Pasal 219, Pasal 220 ayat (1) dan**
 
 **ayat (2) KUHP bertentangan dengan Pasal 27 ayat (1) UUD 1945 tentang**
 
@@ -2085,13 +2064,11 @@ penghinaan dalam KUHP yaitu sebagai berikut:
 |Presiden/Wakil<br>Presiden|tindak<br>pidana<br>penghinaan<br>terhadap<br>Presiden dan/atau Wakil<br>Presiden diatur dalam<br>Pasal<br>218 KUHP.|Ancaman<br>pidananya<br>berupa:<br>● pidana<br>penjara<br>paling lama 3 (tiga)<br>tahun 6 bulan; atau<br>● pidana<br>denda paling<br>banyak kategori IV.|
 |Orang biasa|tindak<br>pidana<br>Penghinaan<br>terhadap<br>orang<br>(biasa)<br>diatur dalam Pasal 433<br>sampai dengan<br>Pasal<br>442 KUHP,<br>yang<br>meliputi<br>pencemaran,<br>pencemaran<br>tertulis,<br>fitnah,<br>penghinaan<br>ringan,<br>pengaduan<br>fitnah, persangkaan<br>palsu,<br>serta|Paling<br>ringan:<br>pidana penjara 6 (enam)<br>bulan<br>atau<br>denda<br>kategori<br>II<br>(Penghinaan<br>Ringan-<br>Pasal<br>436); dan<br>Paling<br>berat:<br>pidana<br>penjara 3 (tiga) tahun 6<br>(enam) bulan<br>atau<br>denda kategori<br>IV<br>(Fitnah,<br>Pengaduan<br>Fitnah,<br>dan|
 
-
 -----
 
 |Col1|pencemaran terhadap<br>orang mati.|Persangkaan Palsu<br>Pasal 434, Pasal 437,<br>dan Pasal 438).|
 |---|---|---|
 |Pemerintah dan<br>Lembaga<br>Negara|tindak pidana<br>penghinaan<br>terhadap<br>pemerintah<br>atau<br>lembaga negara diatur<br>dalam Pasal 240 sampai<br>dengan<br>Pasal<br>241<br>KUHP.|Ancaman<br>pidananya<br>berkisar: Paling ringan:<br>● pidana<br>penjara<br>1 <br>(satu) tahun 6 (enam)<br>bulan atau pidana<br>denda<br>kategori<br>II<br>[Pasal 240 ayat (1)];<br>● Paling berat: pidana<br>penjara 4<br>(empat)<br>tahun atau pidana<br>denda kategori IV,<br>apabila  perbuatan<br>tersebut  dilakukan<br>melalui<br>penyiaran/teknologi<br>informasi<br>dan<br>berakibat<br>terjadinya<br>kerusuhan<br>dalam<br>masyarakat<br>[Pasal<br>241 ayat (2)].|
-
 
 Tabel. Perbandingan Perlakuan Hukum terhadap Penghinaan dalam
 
@@ -2128,7 +2105,6 @@ diferensiasi bentuk perbuatan, tingkat kesalahan, maupun akibat yang
 ditimbulkan, sehingga menempatkan Presiden dan/atau Wakil Presiden
 
 sebagai subjek hukum yang memperoleh perlindungan pidana istimewa.
-
 
 -----
 
@@ -2200,7 +2176,6 @@ dikritik adalah Presiden yang tidak akuntabel dan diktator.
 
 (1788) mendukung konsep martabat sebagai sesuatu yang tidak hanya
 
-
 -----
 
 dimiliki oleh makhluk empiris dengan akal (rational) dan kebijaksanaan
@@ -2270,7 +2245,6 @@ umumnya, tanpa kekhususan jabatan atau kekuatan tertentu.
 
 55. Bahwa apabila mengukur menggunakan empat variabel tersebut terlihatlah
 
-
 -----
 
 bahwa jabatan adalah entitas yang memiliki ‘Harga’ (Preis) dan bukan
@@ -2335,7 +2309,6 @@ _no sublimity in him insofar as he is subject to the moral law, but there_
 _certainly is insofar as he is at the same time lawgiving with respect to_
 _it and only for that reason subordinated to it.” [Immanuel Kant,_
 _Groundwork of_ _The_ _Metaphysics of_ _Morals,_ _Cambridge:_
-
 
 -----
 
@@ -2407,7 +2380,6 @@ Ia memberikan
 
 60. Bahwa oleh karenanya, telah sampailah pada penghujung upaya
 
-
 -----
 
 dekonstruksi ini. Setelah memetakan hakikat dari martabat, subyek dan
@@ -2477,7 +2449,6 @@ sendiri.
 61. Bahwa Dalam sistem presidensial seperti yang dianut Indonesia, Presiden
 
 adalah Kepala Negara sekaligus Kepala Pemerintahan. Ia bukan entitas
-
 
 -----
 
@@ -2549,7 +2520,6 @@ sebagai organisasi jabatan (Ambten organisatie) dan Presiden sebagai
 
 pribadi kodrati (natuurlijke persoon). Sebagaimana telah Para Pemohon
 
-
 -----
 
 jelaskan bahwa negara dan jabatan adalah unit fiktif, maka jabatan
@@ -2606,7 +2576,7 @@ adalah kesalahan konseptual yang digunakan untuk membenarkan
 
 perlindungan hukum pidana yang berlebihan dan tidak proporsional.
 
-## C. Ketentuan Pasal 218 ayat (1) dan (2), Pasal 219, Pasal 220 ayat (1) dan
+**C. Ketentuan Pasal 218 ayat (1) dan (2), Pasal 219, Pasal 220 ayat (1) dan**
 
 **ayat (2) KUHP bertentangan dengan Pasal 28D ayat (1) UUD 1945 tentang**
 
@@ -2619,7 +2589,6 @@ crimen, nulla poena sine lege certa", yang bermakna Tidak ada kejahatan
 dan tidak ada hukuman tanpa ada hukum yang jelas dan pasti. Artinya
 
 setiap norma pidana harus dirumuskan secara jelas, tegas, dan pasti
-
 
 -----
 
@@ -2689,7 +2658,6 @@ takut.
 
 MEMPERTAHANKAN delik penghinaan tersebut sebagai berikut:
 
-
 -----
 
 penghinaan pejabat dan
@@ -2717,14 +2685,12 @@ penerbitan apapun yang
 |UNI EMIRAT ARAB|Pasal 16<br>Undang-Undang<br>Keamanan<br>Negara Federal|<br>3–15 tahun penjara|Melarang penghinaan,<br>tantangan, atau<br>ancaman terhadap<br>Presiden, Wakil<br>Presiden, Raja, atau<br>penguasa lainnya.<br>Pasal 373 dan 378 juga<br>relevan untuk<br>penghinaan pejabat dan<br>simbol nasional.|
 |ARAB SAUDI|Pasal 6 & 30<br>Undang-Undang<br>Keamanan<br>Negara dan<br>Undang-Undang<br>Pers &<br>Penerbitan|<br> <br>Hukuman mati,<br>penjara, atau<br>denda besar<br>(Pasal 6)<br>Pencabutan izin<br>penerbitan (Pasal<br>30)|Pasal 6 melindungi<br>keamanan negara,<br>kesatuan, dan<br>kehormatan<br>Raja/keluarganya.<br>Pasal 30 melarang<br>penerbitan apapun yang<br>menghina Raja atau|
 
-
 -----
 
 |Col1|Col2|Col3|keluarganya.|
 |---|---|---|---|
 |RUSIA|Pasal 319<br>Undang-Undang<br>Penistaan<br>terhadap Simbol<br>Negara (2013)|<br> <br>Denda: 300.000<br>rubel (~$4.000)<br>atau 15 hari<br>penjara Jika di<br>depan<br>umum/media:<br>Denda 1,5 juta<br>rubel (~$20.000)<br>atau 3 tahun<br>penjara|Melarang ekspresi<br>publik yang<br>menunjukkan<br>penghinaan terhadap<br>simbol-simbol negara<br>atau penguasa publik<br>Rusia Berlaku juga<br>untuk orang asing di<br>wilayah Rusia.|
 |KOREA UTARA|Pasal 63<br>Konstitusi Korea<br>Utara|<br>Penjara, pekerjaan<br>paksa, atau<br>hukuman mati|<br>Melarang tindakan<br>apapun yang<br>mencemarkan nama<br>baik pemimpin tertinggi,<br>membahayakan<br>keamanan negara, atau<br>merusak sistem<br>sosialis. Termasuk<br>produksi/penyebaran<br>materi yang mengejek<br>pemimpin.|
-
 
 Tabel. Negara yang Mempertahankan Delik Penghinaan Khusus
 
@@ -2736,14 +2702,12 @@ khusus, sebagai berikut:
 |---|---|---|---|
 |AMERIKA<br>SERIKAT|TIDAK ADA<br>lèse-majest é<br>law<br>(federal)|First Amendment<br>melindungi<br>kebebasan<br>berbicara,<br>termasuk<br>kritik<br>yang tajam, salah,|First Amendment menjadi<br>landasan: Presiden dapat<br>dikritik bahkan dengan cara<br>yang tajam. Standar actual<br>malice:<br>Pejabat<br>publik<br>harus<br>membuktikan|
 
-
 -----
 
 |Col1|Col2|atau pedas<br>terhadap<br>Presiden.<br>Defamation law<br>ada namun<br>dengan standar<br>actual malice<br>(New York Times<br>Co.v. Sullivan,<br>1964).|kesengajaan atau kelalaian<br>besar untuk memenangkan<br>kasus pencemaran nama<br>baik. Ini merefleksikan<br>kepercayaan pada<br>kebebasan berekspresi<br>sebagai pilar demokrasi.|
 |---|---|---|---|
 |INGGRIS|TIDAK ADA<br>delik<br>lèse-majest é<br>modern|Monarki<br>dapat<br>dikritik<br>dengan<br>bebas.<br>Media<br>memiliki<br>Kebebasan luas.<br>Libel dan slander<br>law ada namun<br>dengan<br>standar<br>yang<br>jelas<br>dan<br>ketat<br>untuk<br>membuktikan<br>kerugian nyata.|Tradisi<br>parlemen<br>dan<br>kebebasan pers sangat<br>kuat.<br>Kepercayaan<br>pada<br>demokrasi prosedural.<br>Monarki konstitusional<br>mengakui<br>bahwa<br>kepala<br>negara dapat dipersoalkan<br>melalui kritik, satira, dan<br>diskursus publik<br>yang terbuka.|
 |JERMAN|TIDAK ADA<br>delik khusus<br>untuk<br>menghina<br>kepala<br>negara|Strafgesetzbuc h<br>memiliki<br>ketentuan<br>penghinaan<br>umum<br>(Beleidigung)<br>namun<br>Bundesverfass<br>ungsgericht<br>(Mahkamah<br>Konstitusi<br>Federal)|Penafsiran konstitusional<br>yang ketat melindungi kritik<br>sah. Ketentuan penghinaan<br>TIDAK PERNAH digunakan<br>untuk membungkam kritik<br>publik terhadap pejabat<br>negara. Prioritas pada<br>kebebasan berekspresi<br>dalam konteks publik.|
-
 
 -----
 
@@ -2752,12 +2716,10 @@ khusus, sebagai berikut:
 |KANADA|TIDAK ADA<br>lèse-majesté|Charter of Rights<br>and<br>Freedoms<br>melindungi<br>kebebasan<br>berbicara.<br>Saluran<br>kontrol<br>publik<br>(parliamentary<br>accountability)<br>berfungsi penuh.<br>Defamation<br>law<br>ada<br>dengan<br>standar<br>yang<br>jelas dan adil.|Kepercayaan<br>pada<br>mekanisme<br>demokratis<br>untuk mengontrol pejabat<br>publik.<br>Kebebasan<br>berekspresi dilihat sebagai<br>alat<br>fundamental<br>untuk<br>akuntabilitas<br>pemerintah,<br>bukan ancaman terhadap<br>martabat.|
 |AUSTRALIA|TIDAK ADA<br>Delik<br>penghinaan<br>khusus<br>untuk<br>kepala negara|Kepala<br>Pemerintahan<br>dapat<br>dikritik.<br>Kebebasan<br>pers<br>sangat<br>luas.<br>Defamation<br>law<br>ada<br>namun<br>dengan<br>standar<br>yang mendukung<br>diskursus<br>publik<br>yang robust.|Sistem<br>parlementer<br>dan<br>tradisi kebebasan pers yang<br>kuat.<br>Keyakinan<br>bahwa<br>kritik terhadap pemerintah<br>adalah bagian normal dari<br>demokrasi dan akuntabilitas<br>publik.|
 
-
 -----
 
 |PRANCIS|MENGHARUS<br>KAN<br>lèse-majesté<br>pada 2013|Reformasi hak<br>asasi manusia<br>2013 menghapus<br>seluruh pasal<br>penghinaan<br>kepala negara.<br>Presiden dapat<br>dikritik<br>sebagaimana<br>pejabat publik<br>lainnya.<br>Defamation law<br>yang lebih<br>terbatas<br>dipertahankan.|Reformasi konsisten dengan<br>standar HAM internasional<br>dan perkembangan<br>demokrasi modern.<br>Pengakuan bahwa<br>perlindungan istimewa<br>kepada pejabat publik<br>bertentangan dengan prinsip<br>kesetaraan dan kebebasan<br>berekspresi.|
 |---|---|---|---|
-
 
 75. Bahwa jelas Negara-negara yang menghormati demokrasi dan hak asasi
 
@@ -2797,7 +2759,6 @@ keberlakuan Pasal 218, sehingga eksistensi norma dalam Pasal 219 dan
 
 Pasal 220 KUHP sepenuhnya bergantung pada sah atau tidaknya Pasal
 
-
 -----
 
 218;
@@ -2818,7 +2779,7 @@ perundang-undangan, maka Pasal 219, Pasal 220 ayat (1) dan ayat (2) a
 
 _quo juga harus dinyatakan batal demi hukum._
 
-# IV. PETITUM
+**IV. PETITUM**
 
 Bahwa dari seluruh dalil-dalil yang diuraikan di atas dan bukti-bukti terlampir,
 
@@ -2862,7 +2823,6 @@ Kitab Undang-Undang Hukum Pidana;
 
 2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik
 Indonesia Tahun 1945;
-
 
 -----
 
@@ -2930,7 +2890,6 @@ Ika Saputri;
 26. Bukti P-26 : _Printout_ Kartu Tanda Mahasiswa atas nama Tjhin Okky
 Graswi;
 
-
 -----
 
 27. Bukti P-27 : _Printout_ Kartu Tanda Penduduk atas nama Bernita
@@ -2994,7 +2953,6 @@ Kolonialisme adalah soal penindasan manusia atas manusia lainnya. Maka
 untuk mengatakan KUHP sebagai titik berangkat dari kolonialisme
 
 mengharuskan kita untuk melihat dengan pendekatan apa KUHP ini
-
 
 -----
 
@@ -3066,7 +3024,6 @@ kelanggengan kolonialisme. Masyarakat setempat yang tertib dan pasif
 
 adalah alat utama untuk memastikan kenyamanan penguasa dalam
 
-
 -----
 
 melakukan eksploitasi. Karena itulah, dibuat aturan main yang bisa
@@ -3133,7 +3090,6 @@ jajahan.”
 - Tertib: berperilaku sesuai dengan nilai-nilai kelompok mayoritas dan
 
 kenyamanan penguasa serta pemilik modal.
-
 
 -----
 
@@ -3205,7 +3161,6 @@ proporsional, dan lebih selaras dengan prinsip negara hukum yang
 
 demokratis.
 
-
 -----
 
   - Sampai di mana hukum pidana patut digunakan dan dalam batas apa ia tetap
@@ -3224,7 +3179,6 @@ _Tangkapan Layar dari Laporan Komisi Pencari Fakta, Fakta Di Balik Demonstrasi_
 
 _Agustus 2025 (Feb 2026), hlm. 75_
 
-
 -----
 
 _Tangkapan Layar dari Laporan Komisi Pencari Fakta, Fakta Di Balik Demonstrasi_
@@ -3240,7 +3194,6 @@ _Tangkapan Layar dari UNOHCR FactSheet_
 Ketertiban dalam kaca mata apa dan siapa?
 
    - Karena itulah, pemidanaan harus selalu juga dipandang dalam kaca mata
-
 
 -----
 
@@ -3312,7 +3265,6 @@ Filsafat yang bergumul dengan hal tersebut sesungguhnya adalah philosophy of
 
 _positive law [Béla Pokol, "The Social Scientification of Legal Science [and thus_
 
-
 -----
 
 its actual creation in the future],” Jogelméleti Szemele Journal of Legal Theory,
@@ -3379,7 +3331,6 @@ Perubahan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945:
 Latar Belakang Proses, dan Hasil Pembahasan 1999-2002, Buku IV tentang
 
 Kekuasaan Pemerintah Negara, Jilid I, halaman 490 (Jakarta: Sekretariat
-
 
 -----
 
@@ -3450,7 +3401,6 @@ tekstual. Sekalipun keadaan itu diklaim sebagai keadaan sosial, namun keadaan
 
 tersebut belum tentu menggambarkan suatu suatu kenyataan. Seorang filsuf
 
-
 -----
 
 Axel Hägerström [1868-1939] berangkat dari problem filsafat Neo-Kantian, telah
@@ -3519,7 +3469,6 @@ lagi, keadaan semacam ini bukanlah realitas di mata Hägerström. Maka itulah,
 sebagai seorang Neo-Kantian, Hägerström kembali kepada ide dasar Kant
 
 tentang adanya suatu konstruksi psikologis mengenai suatu realitas. Kata
-
 
 -----
 
@@ -3591,7 +3540,6 @@ tentang tindakan-tindakan manusia, yang salah satunya bersifat appetitive. Ini
 
 artinya kita bisa memaknai, sekalipun hukum sudah diatur secara positif, namun
 
-
 -----
 
 pengaturan itu tak mungkin lepas dari hasrat. Maka itu, pernyataan positif
@@ -3659,7 +3607,6 @@ berasal dari pasal tentang _lese majeste_ untuk melindungi Ratu Belanda.
 
 Dengan demikian, sudah tidak sesuai lagi dengan sistem ketatanegaraan
 
-
 -----
 
 Indonesia saat ini, yaitu Indonesia merupakan negara republik dengan
@@ -3725,7 +3672,6 @@ penghinaan, jika perbuatan sebagaimana dimaksud pada ayat (1)
 jelas-jelas dilakukan untuk kepentingan umum demi kebenaran atau
 pembelaan diri.
 
-
 -----
 
 **Jadi ini dalam rangka perlindungan kepentingan umum atau**
@@ -3782,7 +3728,6 @@ Bab 19 Tindak Pidana Penghinaan. Pasal 540 sampai dengan 550.
 Oke-oke supaya kita punya pemahaman yang sama saja.
 
 **PEMERINTAH (Prof. ENNY. N):**
-
 
 -----
 
@@ -3841,7 +3786,6 @@ mengatakan bahwa kritik _it’s oke,_ tapi kritik itu dilakukan untuk
 kepentingan umum juga. Banyak hal penghinaan itu, walaupun yang
 dihinakan itu benar, saya ingat waktu itu di DPR memberi contoh
 
-
 -----
 
 bagaimana kalau Bapak Ketua Panja disebutkan keluar dari panti pijat.
@@ -3899,7 +3843,6 @@ Presiden dan Wakil Presiden;
 b. Menghilangkan sifat represif negara; dan
 
 c. Dikelompokkan sebagai delik aduan.
-
 
 -----
 
@@ -3971,7 +3914,6 @@ dengan menggunakan preseden yang lahir dari norma yang secara struktur
 
 berbeda.
 
-
 -----
 
 7. Bahwa dalam pendekatan hukum tata negara, Presiden Republik Indonesia
@@ -4038,7 +3980,6 @@ konstitusional. Bahwa perlindungan semacam ini juga diterapkan bagi
 kepala negara sahabat. Berdasarkan kesamaan rasio kebijakan kriminal
 
 maka perbuatan yang dilarang dilakukan terhadap kepala negara sahabat,
-
 
 -----
 
@@ -4108,7 +4049,6 @@ Negara Jerman melindungi harkat dan martabat presiden dalam Deutsches
 _Strafgesetzbuch._ Berdasarkan _Deutsches Strafgesetzbuch,_ Jerman
 
 memberikan perlindungan lebih pada presiden dari tindak pidana
-
 
 -----
 
@@ -4180,7 +4120,6 @@ dan bertentangan dengan norma. Dalam buku anotasi KUHP Nasional karya
 
 Eddy O.S. Hiariej dan Topo Santoso, disebutkan bahwa penghinaan adalah
 
-
 -----
 
 _rechtsdelicten atau_ _felonies atau mala in se dan bukan_ _wetsdelicten atau_
@@ -4250,7 +4189,6 @@ norma hukum yang memberikan perlindungan terhadap kehormatan kepala
 negara atau simbol negara sebagai bagian dari upaya menjaga stabilitas
 
 institusi konstitusional. Sebagai perbandingan, Thailand melalui Pasal 112
-
 
 -----
 
@@ -4322,7 +4260,6 @@ tersebut maka upaya paksa berupa penahanan tidak dapat dilakukan
 
 terhadap orang yang nantinya menjadi tersangka. Apabila terjadi perbedaan
 
-
 -----
 
 persepsi antara aparat penegak hukum dengan tersangka mengenai apakah
@@ -4388,7 +4325,6 @@ merumuskannya”.
 Dengan demikian, berdasarkan _ratio decidendi tersebut, pengujian materiil_
 
 terkait kriminalisasi maupun dekriminalisasi serta merumuskan kembali suatu
-
 
 -----
 
@@ -4458,7 +4394,6 @@ Presiden merupakan pejabat publik yang memperoleh mandat dari rakyat
 
 dan harus terbuka terhadap kritik dan pengawasan publik, sehingga
 
-
 -----
 
 pemberian perlindungan pidana istimewa bertentangan dengan prinsip
@@ -4526,7 +4461,6 @@ kepresidenan.
 dirancang untuk membedakan secara tegas antara kritik yang merupakan
 
 bagian dari praktik demokrasi dengan penghinaan yang berbentuk nistaan,
-
 
 -----
 
@@ -4598,7 +4532,6 @@ perlindungan terhadap hak asasi manusia dengan kepentingan ketertiban sosial
 
 dalam negara hukum yang demokratis sebagaimana dijamin oleh UUD 1945.
 
-
 -----
 
 B.
@@ -4666,7 +4599,6 @@ nya itu dapat menjadi justifikasi bagi pembentukan norma hukum dalam Pasal 218
 KUHP Baru, yaitu:
 
 “Menimbang bahwa oleh karena itu delik penghinaan terhadap Presiden
-
 
 -----
 
@@ -4736,7 +4668,6 @@ Bab XVII KUHP tentang Tindak Pidana Penghinaan, khususnya Pasal 433, Pasal
 
 434, dan Pasal 436 KUHP, sehingga perasaan subjektif dari yang terhina dapat
 
-
 -----
 
 senantiasa diuji objektivitas perbuatannya dengan memberi kesempatan bagi orang
@@ -4805,7 +4736,6 @@ membedakan dengan tegas antara “kritik” dan “delik” (menista atau memfit
 ini sejalan dengan Pasal 19 ayat (3) ICCPR yang sudah dirafitikasi Indonesia lewat
 
 UU No. 12 Tahun 2005 yang mengatur bahwa hak untuk berpendapat dapat dibatasi
-
 
 -----
 
@@ -4877,7 +4807,6 @@ Republik: “Any person who insults the President of the Republic shall be
 
 _sentenced to a penalty of imprisonment for a term of one to four years.”_
 
-
 -----
 
 5. Polandia: Pasal 135 ayat (2) KUHP Polandia: Menghina Presiden Republik:
@@ -4947,7 +4876,6 @@ _their discharge, shall be punishable by a fine in the amount up to 40 thousand_
 _roubles, or in the amount of the wage or salary, or any other income of the_
 
 _convicted person for a period of up to three months, or by compulsory works for_
-
 
 -----
 
@@ -5019,7 +4947,6 @@ keadilan untuk memperlakukan sama terhadap yang sama, dan beda terhadap yang
 
 berbeda.
 
-
 -----
 
 Di tengah berbagai tantangan dalam kehidupan berbangsa dan bernegara,
@@ -5089,7 +5016,6 @@ Federal President) dan Pasal 299 ayat (3) KUHP Turki yang menyebutkan bahwa
 
 _the Minister of Justice.)”_
 
-
 -----
 
 NEGARA YANG MASIH MENGATUR DELIK SERUPA
@@ -5101,7 +5027,6 @@ NEGARA YANG MASIH MENGATUR DELIK SERUPA
 |3.|Portugal<br>Sistem:<br>semi-<br>presidensial, di mana<br>Presiden dan Perdana<br>Menteri<br>sama-sama<br>memiliki peran dalam<br>pemerintahan,<br>meskipun pengelolaan<br>pemerintahan<br>sehari-<br>hari berada di tangan<br>Perdana Menteri.|Pasal 328 KUHP Portugal/ Código Penal<br>Penghinaan atau pencemaran nama baik<br>terhadap Presiden<br>_Art. 328 of the Portuguese Criminal Code_<br>_punishes insult or defamation against the_<br>_President of Portugal with three months in_<br>_prison or a fine. If commiged publicly or_<br>_through the media, the punishment increases_<br>_to a prison term of between six months to three_<br>_years and a minimum fine of 60 days._|
 |4.|Turki<br>Sistem: presidensial, di<br>mana<br>Presiden<br>memegang kekuasaan|_Offences against the Symbols of State_<br>_Sovereignty and the Reputation of its Organs._<br>_Insultng the President of the Republic (Ar,cle_<br>_299 Türk Ceza Kanunu)_|
 
-
 -----
 
 |Col1|ekseku,f sebagai kepala<br>negara dan kepala<br>pemerintahan sekaligus|Menghina Presiden Republik<br>1) Any person who insults the President of the<br>Republic shall be sentenced to a penalty of<br>imprisonment for a term of one to four years.<br>2) (Amended on 29/6/2005 – By Ar,cle 35 of<br>the Law no. 5377) Where the offence is<br>commiged in public, the sentence to be<br>imposed shall be increased by one sixth.<br>3) The initiation of a prosecution for such<br>offence shall be subject to the permission of<br>the Minister of Justice.|
@@ -5110,14 +5035,12 @@ NEGARA YANG MASIH MENGATUR DELIK SERUPA
 |6.|Islandia (Iceland)<br>Sistem:<br>republik<br>parlementer di mana<br>Presiden<br>berfungsi<br>sebagai kepala negara,<br>sedangkan kekuasaan<br>pemerintahan<br>sehari-<br>hari<br>dijalankan<br>oleh<br>Perdana Menteri dan<br>kabinet<br>yang<br>bertanggung<br>jawab<br>kepada parlemen.|_Art. 101 Penal Code_<br>Mencemarkan Nama Baik Orang Lain Dengan<br>Penghinaan Dalam Kata-Kata Atau Perbuatan<br>(Pemberatan<br>Jika<br>Dilakukan<br>Terhadap<br>Presiden Atau Yang Menjalankan Kuasa<br>Presiden):<br>1)_If an action for which punishment is_<br>_prescribed in Chapter XXIII, XXIV or XXV of_<br>_this Act is directed at [the President]1) or a_<br>_person exercising [presidential powers]1) and_<br>_which is not covered by Article 99 or Article_<br>_100, the punishment prescribed for the offence_<br>_may be increased, though not to more than_<br>_double that which is prescribed._<br>2)_ [If such an acXon is directed against the_<br>_President’s closest relatives in such a way as_<br>_may be considered to be directed against his_<br>_or her home, the punishment may be increased_<br>_by the addition of up to one half again.]_<br>_Contoh Bab XXV: Art. 234 Anyone who_<br>_defames another person by insults in word or_<br>_deed and anyone who disseminates such_<br>_defamation, shall be fined or [imprisoned] 1) for_<br>_up to 1 year_|
 |7.|Slovenia<br>Sistem:<br>republik<br>parlementer di mana|_Insult to the Republic of Slovenia (Ar,cle 163)_<br>Menghina Presiden (Sebagai Pemberatan<br>Delik Penghinaan Terhadap Orang Lain|
 
-
 -----
 
 |Col1|Presiden berfungsi<br>sebagai kepala negara,<br>sedangkan<br>pemerintahan<br>dijalankan oleh Perdana<br>Menteri yang<br>bertanggung jawab<br>kepada parlemen.|1) Whoever publicly commits any of the<br>offences under Articles 158 to 162 of this Penal<br>Code against the Republic of Slovenia or<br>against the President of the Republic with<br>respect to the exercising of his duties shall be<br>punished by a fine or sentenced to<br>imprisonment for not more than one year.<br>2) The same punishment shall be imposed on<br>anyone who has publicly desecrated the flag,<br>coat-of arms or national anthem of the<br>Republic of Slovenia<br>Article 158: (1) Whoever insults another<br>person shall be punished by a fine or<br>sentenced to imprisonment for not more than<br>three months.|
 |---|---|---|
 |8.|Kamerun<br>Sistem:<br>Republik<br>presidensial di mana<br>Presiden<br>memegang<br>kekuasaan<br>ekseku,f<br>sebagai kepala negara<br>dan<br>kepala<br>pemerintahan,<br>sementara<br>Perdana<br>Menteri<br>berperan<br>membantu pelaksanaan<br>kebijakan pemerintah.|_Section 153Penal Code_<br>Penghinaan Terhadap Presiden Republik<br>_1) Contempt of President (1) Whoever_<br>_commits a contempt of the President of the_<br>_Republic or any person exercising the whole or_<br>_a part of their prerogatives, or of any foreign_<br>_Head of State shall be punished with_<br>_imprisonment for from 1 (one) to 58 5 (five)_<br>_years or with fine of from CF AF 20 000 (twenty_<br>_thousand) to CF AF 20.000.000 twenty million)_<br>_or with both such imprisonment and fine._<br>_2) Whoever commits a contempt of any foreign_<br>_Head of Government, or of any minister in_<br>_charge of foreign affairs of a foreign_<br>_Government, or of a diplomatic representative_<br>_accredited to the Government of the Republic_<br>_shall be punished with imprisonment for from 6_<br>_(six) months to 2 (two) years or with fine of from_<br>_CFAF 20 000 (twenty thousand) to CFAF 20_<br>_000 000 (twenty million), or with both such_<br>_imprisonment and fine._<br>_3) The truth of the defamatory matter may_<br>_never be proved._|
 |9.|Rusia<br>Sistem:<br>semi-<br>presidensial,<br>tetapi<br>dalam<br>praktiknya<br>Presiden<br>memiliki<br>kedudukan<br>dan<br>kewenangan<br>yang<br>sangat<br>kuat<br>dibandingkan Perdana<br>Menteri,<br>sehingga<br>kekuasaan<br>eksekutif<br>terpusat pada Presiden.|_Article 319 Penal Code:_<br>Penghinaan Terhadap Perwakilan Otoritas<br>Selama Ia Menjalankan Tugas Resminya<br>_Insult of a Representative of the Authority_<br>_Public insult of a representative of the authority_<br>_during the discharge by him of his official_<br>_duties, or in connection with their discharge,_<br>_shall be punishable by a fine in the amount up_<br>_to 40 thousand roubles, or in the amount of the_<br>_wage or salary, or any other income of the_<br>_convicted person for a period of up to three_<br>_months, or by compulsory works for a term of_|
-
 
 -----
 
@@ -5136,7 +5059,6 @@ KHUSUS
 |2.|Norwegia<br>Sistem:<br>parlementer dalam<br>bentuk<br>monarki<br>kons,tusional.|Pasal 101 ayat 2 KUHP Norwegia (Penal Code 1902)<br>Mencemarkan nama baik Raja_Any person who_<br>_defames the King or the Regent shall be liable to_<br>_detention or imprisonment for a term not exceeding five_<br>_years._<br>Dalam Penal Code Norwegia 2005 (berlaku 2015),<br>ketentuan tersebut sudah dihapus, NAMUN, ketentuan<br>menghina pejabat publik masih dipertahankan dalam<br>Pasal 156 ayat (2) Penal Code: “_Any person who_<br>_through abusive language or other improper conduct_<br>_insults a public official during or because of the_ <br>_performance of his/her duties shall be subject to a_<br>_penalty of a fine_.”<br>Sumber: https://lovdata.no/dokument/NLE/lov/2005-05-<br>20-28/%2A?utmsource|
 |3.|Belgia<br>Sistem:<br>parlementer dalam<br>bentuk<br>monarki<br>kons,tusional<br>federal|_<br>_Loi du 6 avril 1847 portant répression des offenses_<br>_envers le Roi_(Undang-Undang 6 April 1847 tentang<br>Penindakan Penghinaan terhadap Raja) <br>_Article 1: Anyone, either in public places or mee,ngs, by_<br>_speeches, shouts or threats, or by writings, prints,_<br>_images or emblems of any kind, which have been_<br>_displayed, distributed or sold, put up for sale or exposed_<br>_to the public eyes, has been guilty of offensing the_<br>_personality of the King, shall be punished by_<br>_imprisonment of six months to three years, and a fine of_<br>_300 to 3,000 francs._|
 
-
 -----
 
 |Col1|Col2|Catatan: Ketentuan tersebut dihapus oleh MK Belgia:<br>https://fr.constcourt.be/public/f/2021/2021-157f.pdf|
@@ -5146,14 +5068,12 @@ KHUSUS
 |6.|Ghana<br>Sistem:<br>Presidensial|Pasal 183A KUHP Ghana (1960)<br>_Section 183A—Limitation on Institution of Proceedings._<br>_Any person who with intent to bring the President into_<br>_hatred, ridicule or contempt publishes any defamatory or_<br>_insulting maher whether by writing, print, word of mouth_<br>_or in any other manner whatsoever concerning the_<br>_President shall be guilty of an offence and liable on_<br>_summary conviction to a fine not exceeding ¢7 million or_<br>_to imprisonment not exceeding three years or to both._<br>Catatan: Ketentuan tersebut sudah dicabut berdasarkan<br>Amandemen KUHP Ghana tahun 2001 terkait salah<br>satunya adalah Pasal 183A melalui Act 602. Sumber:<br>hgps://ghalii.org/akn/gh/act/2001/602/eng%402 001-08-<br>17/|
 |7.|Peru|Article 374.-Contempt<br>Pasal 374 KUHP Peru (Codigo Penale)|
 
-
 -----
 
 |Col1|Sistem: semi-<br>presidensial|Which threatens, insults or otherwise offends the dignity<br>or decorum of a public official because of the exercise of<br>their functions or exercising time, it shall be punished<br>with imprisonment not exceeding three years. If the<br>victim is President of one of the branches of<br>government, the penalty shall be not less than two nor<br>more than four years.<br>Keterangan: ketentuan yang berlaku khusus Presiden<br>dicabut oleh Undang-Undang Nomor 27975, yang<br>diterbitkan pada tanggal 29/05/2003 (tapi yang terhadap<br>pejabat publik tidak dicabut)<br>Sumber:<br>https://www.legalatlas.net/sites/default/files/law/Peru C<br>_<br>riminalCo de 1991.pdf|
 |---|---|---|
 |8.|Zambia<br>Sistem:<br>presidensial|_<br>Pasal 69 KUHP Republik Zambia<br>_Any person who, with intent to bring the President into_<br>_hatred, ridicule or contempt, publishes any defamatory_<br>_or insulting maher, whether by writing, print, word of_<br>_mouth or in any other manner, is guilty of an offence and_<br>_is liable on conviction to imprisonment for a period not_<br>_exceeding three years._<br>Keterangan: ketentuan itu dihapus sejak tahun 2022,<br>sumber: THE PENAL CODE (AMENDMENT) BILL,<br>2022<br>sumber:<br>https://www.parliament.gov.zm/sites/default/file<br>s/documents/bills/N.A.B%2025%2C%20Penal%2<br>0Code%20%28Amendment%29%2C%202022.pdf|
 |9.|Hungaria<br>Sistem:<br>Parlementer.|Pasal 232 ayat (1) KUHP Hungaria (1993)<br>_(1) Anyone who in front of another person states a fact,_<br>_spreads a rumour or uses an expression directly_<br>_referring to such a fact, capable of offending the honour_<br>_of an official person or the honour of the authority_<br>_through_<br>_the_<br>_defamation_<br>_of_<br>_the_<br>_official_<br>_person_<br>_representing the authority is to be punished for the_<br>_misdemeanour by imprisonment for up to two years,_<br>_public labour or a fine._<br>Keterangan: ketentuan ini dibatalkan oleh Putusan MK<br>Hungaria (Decision No. 36/1994 (VI. 24.) AB) Sumber:<br>https://hunmedialaw.org/dokumentum/156/03_<br>361994ABEN.pdf?|
-
 
 Adapun perbandingan dari keduanya selalu terbuka untuk dicek dan dikritisi
 
@@ -5166,7 +5086,6 @@ kekeliruan penerjemahan atau bahkan adanya pembaruan yang tidak
 terpublikasikan informasinya.
 
 [2.5] Menimbang bahwa Mahkamah telah menerima kesimpulan dari para
-
 
 -----
 
@@ -5231,7 +5150,6 @@ pidana akibat mengkritik sebuah lembaga negara, tidakkah itu akan menimbulkan
 keresahan di masyarakat dan menjadi bad publication bagi pemerintah? Apabila ada
 
 rakyat dilaporkan pidana karena mengkritik presiden, apakah rakyat akan menjadi
-
 
 -----
 
@@ -5301,7 +5219,6 @@ Kamerun berada di bawah kediktatoran Paul Biya yang saat ini sudah 44 tahun
 
 menjabat Presiden Kamerun dan menjadikannya presiden terlama di dunia.
 
-
 -----
 
 1 negara lain yang disebut adalah Türkiye (Turki). Sebelum referendum 2017,
@@ -5366,7 +5283,6 @@ kedudukan hukum (legal standing) atau tidak sebagaimana diatur dalam Pasal
 berdasarkan Putusan Mahkamah Konstitusi Nomor 006/PUU-III/2005 dan
 
 Perkara Nomor 011/PUU-V/2007.
-
 
 -----
 
@@ -5438,7 +5354,6 @@ UndangUndang Penyesuaian KUHP.
 
 2) Yang terkait dengan penghinaan kepada lembaga negara, ya. Saya
 
-
 -----
 
 memang ini tidak langsung dengan yang diuji, Pak Wamen, ya, tapi ini
@@ -5507,7 +5422,6 @@ Undang-Undang Nomor 1 Tahun 2026.
 lingkup perlindungan dalam Pasal 240 dan Pasal 241 KUHP hanya
 
 kepada enam lembaga negara, yaitu Presiden dan Wakil Presiden,
-
 
 -----
 
@@ -5579,7 +5493,6 @@ menyesuaikan dengan kondisi masyarakat di mana hukum itu mau
 
 diberlakukan.” Nah, secara konseptual, itu apa teori yang bisa
 
-
 -----
 
 membenarkan itu, Prof. Eddy, terutama dalam hal-hal penyusunan
@@ -5650,7 +5563,6 @@ Mahkamah, Putusan Mahkamah Nomor 4/2022, ya, … 12 … 2012, 20 …
 
 2012 … Nomor 4/2012. Kemudian di dalam putusan Mahkamah, itu pasal
 
-
 -----
 
 yang kebetulan muncul di Pasal 237, itu persis dengan Pasal 69
@@ -5718,7 +5630,6 @@ mengenai kealpaan, Pasal 38 dan Pasal 39 KUHP mengenai
 pertanggungjawaban pidana, serta Pasal 1 ayat (1) dan ayat (2) KUHP
 
 yang menegaskan asas legalitas dan larangan penggunaan analogi
-
 
 -----
 
@@ -5789,7 +5700,6 @@ kerangka perlindungan terhadap simbol negara sebagaimana
 
 diamanatkan oleh Pasal 36A Undang-Undang Dasar Negara Republik
 
-
 -----
 
 Indonesia Tahun 1945 yang menentukan bahwa Lambang Negara
@@ -5858,7 +5768,6 @@ KUHP Tahun 2017 sehingga tidak lagi menjadi objek perubahan
 substansial pada tahap pembahasan berikutnya. Namun demikian,
 
 pembentuk undang-undang tidak sekadar memindahkan norma
-
 
 -----
 
@@ -5929,7 +5838,6 @@ berubah, kenapa harus 10 tahun misalnya, ukurannya apa?
 
 Terhadap pertanyaan Yang Mulia Hakim Daniel Yusmic Pancastaki Foekh,
 
-
 -----
 
 Pemerintah memberikan tanggapan sebagai berikut:
@@ -5998,7 +5906,6 @@ implementasi dari arah kebijakan yang telah dibangun melalui Putusan
 Mahkamah Konstitusi sebelumnya. Dalam persidangan, Pemerintah
 
 menyatakan secara tegas bahwa “angka 10 itu Mahkamah Konstitusi,
-
 
 -----
 
@@ -6070,7 +5977,6 @@ umum? Supaya ini klir, kan? Karena itu juga ambigu juga di situ.
 
 Karena kalau pembelaan diri kan sudah diatur di Pasal 31 sampai sifat
 
-
 -----
 
 melawan hukumnya yang hilang ataukah sifat kesalahannya yang
@@ -6140,7 +6046,6 @@ diusulkan kepada Ketua Mahkamah Agung, masih dalam konteks
 yudisialnya. Kemudian … nah, kalau itu karena sudah dalam wilayah
 
 penilaian pemasyarakatan, ada wilayah eksekutifnya, boleh saja
-
 
 -----
 
@@ -6212,7 +6117,6 @@ KUHP. Sebaliknya, pembentuk undang-undang secara sengaja
 
 merumuskan frasa tersebut sebagai alasan penghapus pidana khusus
 
-
 -----
 
 yang berdiri sendiri untuk memberikan perlindungan lebih luas
@@ -6282,7 +6186,6 @@ kohabitasi. Kalau anak atau orang tua tidak mengadu, itu namanya
 diadu absolut, berbeda dengan pencemaran nama baik. Kalau
 
 pencemaran nama baik yang dalam pasal penghinaan biasa itu, maka
-
 
 -----
 
@@ -6354,7 +6257,6 @@ kepentingan penegakan hukum dan penghormatan terhadap
 
 kemungkinan rehabilitasi terpidana.
 
-
 -----
 
 12) Bahwa mekanisme perubahan pidana mati menjadi pidana penjara
@@ -6425,7 +6327,6 @@ Agung didasarkan pada fakta bahwa institusi yang melakukan
 
 penilaian terhadap terpidana, seperti kepolisian, kejaksaan, dan
 
-
 -----
 
 lembaga pemasyarakatan, berada dalam lingkup kekuasaan
@@ -6494,7 +6395,6 @@ ratio decidendi Putusan Mahkamah Konstitusi Nomor 013-022/PUU
 IV/2006 yang menegaskan bahwa perlindungan terhadap kehormatan
 
 Presiden dan/atau Wakil Presiden tetap dimungkinkan sepanjang
-
 
 -----
 
@@ -6566,7 +6466,6 @@ dibatasi untuk melindungi hak, reputasi, serta kehormatan orang lain
 
 maupun menjaga ketertiban umum dalam masyarakat demokratis.
 
-
 -----
 
 f. Bahwa ancaman pidana dalam Pasal 218 KUHP telah dirumuskan secara
@@ -6634,7 +6533,6 @@ Indonesia Tahun 1945, dapat memberikan putusan sebagai berikut:
 
 menyatakan permohonan Pemohon tidak dapat diterima (niet onvankelijk
 
-
 -----
 
 _verklaard);_
@@ -6695,7 +6593,6 @@ menguji undang-undang terhadap UUD NRI Tahun 1945.
 konstitusionalitas undang-undang, in casu norma Pasal 218, Pasal 219, dan Pasal
 
 220 Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum
-
 
 -----
 
@@ -6761,7 +6658,6 @@ bahwa anggapan kerugian hak dan/atau kewenangan konstitusional sebagaimana
 
 dimaksud dalam Pasal 51 ayat (1) UU MK harus memenuhi 5 (lima) syarat, yaitu:
 
-
 -----
 
 a. adanya hak dan/atau kewenangan konstitusional Pemohon yang diberikan oleh
@@ -6822,7 +6718,6 @@ harkat dan martabat terhadap Presiden dan/ atau Wakil Presiden dengan
 maksud agar isinya diketahui atau lebih diketahui umum, dipidana dengan
 pidana penjara paling lama 4 (empat) tahun atau pidana denda paling
 banyak kategori IV.
-
 
 -----
 
@@ -6894,7 +6789,6 @@ menyebabkan Pemohon I sampai dengan Pemohon XV menjadi rentan
 
 dikriminalisasi akibat norma-norma a quo menempatkan ekspresi non-koersif dan
 
-
 -----
 
 pertukaran gagasan sebagai perbuatan yang berisiko dipidana. Oleh karena itu,
@@ -6960,7 +6854,6 @@ kesalahan dan dampak perbuatannya, bahkan disertai mekanisme delik aduan
 serta pembatasan melalui alasan pembenar seperti kepentingan umum dan
 
 pembelaan diri. Kondisi demikian menimbulkan ketidaksetaraan perlakuan
-
 
 -----
 
@@ -7030,7 +6923,6 @@ Bahwa berdasarkan uraian dalil-dalil permohonan tersebut di atas, dalam
 
 petitum permohonan para Pemohon, pada pokoknya memohon kepada Mahkamah
 
-
 -----
 
 untuk menyatakan Pasal 218, Pasal 219, dan Pasal 220 UU 1/2023 bertentangan
@@ -7095,7 +6987,6 @@ Nomor 282/PUU-XXIII/2025, Permohonan Nomor 26/PUU-XXIV/2026, Permohonan
 
 Nomor 27/PUU-XXIV/2026, dan Permohonan Nomor 29/PUU-XXIV/2026.
 
-
 -----
 
 Bahwa pemeriksaan persidangan dengan cara penggabungan tersebut
@@ -7158,7 +7049,6 @@ dalam undang-undang yang telah dilakukan pengujian konstitusionalitasnya dan
 telah diputus oleh Mahkamah hanya dapat dimohonkan pengujian kembali apabila
 
 terdapat dasar pengujian dan/atau alasan permohonan yang berbeda. Berkenaan
-
 
 -----
 
@@ -7230,7 +7120,6 @@ pada bagian alasan permohonan, permohonan a quo memiliki alasan-alasan
 
 permohonan yang pada pokoknya inkonstitusionalitas Pasal 218, Pasal 219, dan
 
-
 -----
 
 Pasal 220 UU 1/2023 tidak hanya terletak pada sifat delik aduan, melainkan
@@ -7298,7 +7187,6 @@ b. Apakah sifat delik aduan dan mekanisme pengaduan sebagaimana diatur dalam
 
 Pasal 220 UU 1/2023 merupakan pembatasan yang konstitusional dalam
 
-
 -----
 
 penegakan tindak pidana terhadap penyerangan kehormatan atau harkat dan
@@ -7363,7 +7251,6 @@ merupakan hak konstitusional berdasarkan UUD NRI Tahun 1945, tetapi juga
 
 merupakan bagian dari komitmen internasional Indonesia dalam perlindungan hak
 hak sipil dan politik.
-
 
 -----
 
@@ -7433,7 +7320,6 @@ aparat penegak hukum dituntut untuk menerapkan ambang batas yang tinggi dan
 
 melakukan penilaian secara cermat, kontekstual, serta proporsional agar tidak
 
-
 -----
 
 setiap ekspresi satiris atau menyinggung, serta-merta dikualifikasikan sebagai
@@ -7499,7 +7385,6 @@ Pasal 136 bis, dan Pasal 137 KUHP bertentangan dengan UUD NRI Tahun 1945
 
 dan tidak mempunyai kekuatan hukum mengikat. Oleh karena itu, setelah
 
-
 -----
 
 mencermati secara saksama antara Putusan Mahkamah Konstitusi Nomor 013
@@ -7562,7 +7447,6 @@ tersebut bertentangan dengan Pasal 27 ayat (1), Pasal 28D ayat (1), Pasal 28E ay
 (2) dan ayat (3), serta Pasal 28F UUD NRI Tahun 1945. Berkenaan dengan dalil
 
 para Pemohon a quo, Mahkamah mempertimbangkan sebagai berikut.
-
 
 -----
 
@@ -7632,7 +7516,6 @@ tetapi juga untuk menjaga kehormatan dan kewibawaan institusi kepresidenan
 
 dalam penyelenggaraan kehidupan bernegara.
 
-
 -----
 
 **[3.16.2]** Bahwa lebih lanjut, berkenaan dengan Pasal 218 ayat (2) UU 1/2023,
@@ -7697,7 +7580,6 @@ paling lama 4 (empat) tahun atau pidana denda paling banyak kategori IV.
 Berkenaan dengan norma Pasal 219 UU 1/2023 tersebut, apabila dicermati,
 
 Mahkamah menilai, tidak terdapat ketidakjelasan dan ketidakpastian hukum yang
-
 
 -----
 
@@ -7764,7 +7646,6 @@ dituntut atas dasar pengaduan. Article 232 (2) The Penal Code of Japan
 menentukan bahwa Perdana Menteri akan membuatkan pengaduan atas
 nama Kaisar, Ratu, Nenek Suri, Ibu Suri guna pengajuan penuntutan, dan
 
-
 -----
 
 apabila penghinaan dimaksud dilakukan terhadap seorang raja atau
@@ -7829,7 +7710,6 @@ selain presiden dan/atau wakil presiden yang tidak menjadi sasaran perbuatan
 dimaksud. Oleh karena itu, konstruksi pasal penghinaan presiden dan/atau wakil
 
 presiden dalam KUHP lama membuka ruang yang lebih besar bagi penerapan
-
 
 -----
 
@@ -7901,7 +7781,6 @@ wakil presiden dapat dilakukan langsung atau dengan memberikan kuasa khusus
 
 kepada kuasa hukum.
 
-
 -----
 
 Bahwa berdasarkan hal tersebut di atas, penegasan mengenai subjek
@@ -7970,7 +7849,6 @@ sehingga dalil para Pemohon adalah tidak beralasan menurut hukum. Sementara
 
 itu, berkenaan dengan norma Pasal 220 ayat (1) UU 1/2023 telah ternyata tidak
 
-
 -----
 
 memberikan kepastian hukum yang adil sebagaimana dijamin dalam Pasal 28D ayat
@@ -8030,7 +7908,6 @@ Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia
 
 Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor
 
-
 -----
 
 6842) bertentangan dengan Undang-Undang Dasar Negara Republik Indonesia
@@ -8085,16 +7962,13 @@ Presiden atau yang mewakili.
 
 **ANGGOTA-ANGGOTA,**
 
-
 **ttd.**
 
 **Saldi Isra**
 
-
 **ttd.**
 
 **Daniel Yusmic P. Foekh**
-
 
 -----
 
@@ -8110,7 +7984,6 @@ Presiden atau yang mewakili.
 
 **Adies Kadir**
 
-
 **ttd.**
 
 **Enny Nurbaningsih**
@@ -8123,13 +7996,10 @@ Presiden atau yang mewakili.
 
 **Liliek Prisbawono Adi**
 
-
 **PANITERA PENGGANTI,**
 
 **ttd.**
 
 **Aqmarina Rasika**
 
-
 -----
-

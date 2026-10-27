@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Pasar Modal
+**Pasar Modal**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -37,7 +43,7 @@ last_updated: 2026-10-28
 PRESIDEN
 REPUBLIK INDONESIA
 
-# UNDANG-UNDANG REPUBLIK INDONESIA
+**UNDANG-UNDANG REPUBLIK INDONESIA**
 
  NOMOR 8 TAHUN 1995
 
@@ -87,14 +93,13 @@ REPUBLIK INDONESIA
 
  Mengingat :…
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 2 
-# Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 33 Undang-Undang Dasar
+                     - 2
+**Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 33 Undang-Undang Dasar**
 
  1945;
 
@@ -116,7 +121,7 @@ REPUBLIK INDONESIA
 
  KETENTUAN UMUM
 
- Pasal 1
+### Pasal 1 ^pasal-1
 
  Dalam Undang-undang ini yang dimaksud dengan:
 
@@ -143,8 +148,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 3 
-# d. hubungan antara perusahaan dengan Pihak, baik langsung
+             - 3
+**d. hubungan antara perusahaan dengan Pihak, baik langsung**
 
  maupun tidak langsung, mengendalikan atau dikendalikan oleh
 
@@ -207,8 +212,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 4 
-# 8. Kustodian adalah Pihak yang memberikan jasa penitipan Efek dan
+             - 4
+**8. Kustodian adalah Pihak yang memberikan jasa penitipan Efek dan**
 
  harta lain yang berkaitan dengan Efek serta jasa lain, termasuk
 
@@ -273,8 +278,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 5 
-# 16. Penitipan Kolektif adalah jasa penitipan atas Efek yang dimiliki
+             - 5
+**16. Penitipan Kolektif adalah jasa penitipan atas Efek yang dimiliki**
 
  bersama oleh lebih dari satu Pihak yang kepentingannya diwakili
 
@@ -333,8 +338,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 6 
-# 25. Prinsip…
+             - 6
+**25. Prinsip…**
 
  25. Prinsip Keterbukaan adalah pedoman umum yang mensyaratkan
 
@@ -374,7 +379,7 @@ REPUBLIK INDONESIA
 
  Efek yang bersifat utang.
 
- Pasal 2
+### Pasal 2 ^pasal-2
 Menteri menetapkan kebijaksanaan umum di bidang
 Pasar Modal.
 
@@ -385,19 +390,18 @@ Pasar Modal.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-         - 7 
-# BAB II
+         - 7
+**BAB II**
 
  BADAN PENGAWAS PASAR MODAL
 
- Pasal 3
+### Pasal 3 ^pasal-3
 
 ```
 
-# BAB II…
+**BAB II…**
 
-
-# (1) Pembinaan, pengaturan, dan pengawasan sehari-hari kegiatan Pasar
+**(1) Pembinaan, pengaturan, dan pengawasan sehari-hari kegiatan Pasar**
 
  Modal dilakukan oleh Badan Pengawas Pasar Modal yang
 
@@ -405,7 +409,7 @@ REPUBLIK INDONESIA
 
  (2) Bapepam berada di bawah dan bertanggung jawab kepada Menteri.
 
- Pasal 4
+### Pasal 4 ^pasal-4
 ```
 Pembinaan, pengaturan, dan pengawasan sebagaimana
 dimaksud dalam Pasal 3 dilaksanakan oleh Bapepam
@@ -414,7 +418,7 @@ Pasar Modal yang teratur, wajar, dan efisien
 serta melindungi kepentingan pemodal dan
 masyarakat.
 
- Pasal 5
+### Pasal 5 ^pasal-5
 
  Dalam melaksanakan ketentuan sebagaimana dimaksud dalam Pasal 3
 
@@ -439,8 +443,8 @@ masyarakat.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 8 
-# Perantara Pedagang Efek, dan Wakil Manajer Investasi; dan
+             - 8
+**Perantara Pedagang Efek, dan Wakil Manajer Investasi; dan**
 
  3) persetujuan bagi Bank Kustodian;
 
@@ -505,8 +509,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 9 
-# rangka pelaksanaan wewenang Bapepam sebagaimana dimaksud
+             - 9
+**rangka pelaksanaan wewenang Bapepam sebagaimana dimaksud**
 
  dalam huruf g;
 
@@ -563,15 +567,14 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 10 
-# BAB III
+   - 10
+**BAB III**
 
 ```
 
-# BAB III…
+**BAB III…**
 
-
-# BURSA EFEK, LEMBAGA KLIRING DAN PENJAMINAN, SERTA LEMBAGA
+**BURSA EFEK, LEMBAGA KLIRING DAN PENJAMINAN, SERTA LEMBAGA**
 
  PENYIMPANAN DAN PENYELESAIAN
 
@@ -583,7 +586,7 @@ REPUBLIK INDONESIA
 
  Perizinan
 
- Pasal 6
+### Pasal 6 ^pasal-6
 
  (1) Yang dapat menyelenggarakan kegiatan usaha sebagai Bursa Efek
 
@@ -599,7 +602,7 @@ REPUBLIK INDONESIA
 
  Tujuan dan Kepemilikan
 
- Pasal 7
+### Pasal 7 ^pasal-7
 
  (1) Bursa Efek didirikan dengan tujuan menyelenggarakan perdagangan
 
@@ -611,14 +614,13 @@ REPUBLIK INDONESIA
 
  mengawasi kegiatan Anggota Bursa Efek.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 11 
-# (3) Rencana...
+             - 11
+**(3) Rencana...**
 
  (3) Rencana anggaran tahunan dan penggunaan laba Bursa Efek wajib
 
@@ -626,7 +628,7 @@ REPUBLIK INDONESIA
 
  dilaporkan kepada Bapepam.
 
- Pasal 8
+### Pasal 8 ^pasal-8
 Yang dapat menjadi pemegang saham Bursa Efek
 adalah Perusahaan Efek yang telah memperoleh izin
 usaha untuk melakukan kegiatan sebagai Perantara
@@ -636,7 +638,7 @@ Pedagang Efek.
 
  Peraturan Bursa Efek dan Satuan Pemeriksa
 
- Pasal 9
+### Pasal 9 ^pasal-9
 
  (1) Bursa Efek wajib menetapkan peraturan mengenai keanggotaan,
 
@@ -667,12 +669,12 @@ Pedagang Efek.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 12 
-# Pasal 10
+   - 12
+### Pasal 10 ^pasal-10
 
 ```
 
-# Pasal 10…
+**Pasal 10…**
 
 ```
 Bursa Efek dilarang membuat ketentuan yang
@@ -680,12 +682,12 @@ menghambat anggotanya menjadi Anggota Bursa Efek
 lain atau menghambat adanya persaingan yang
 sehat.
 
-# Pasal 11
+### Pasal 11 ^pasal-11
 Peraturan yang wajib dibuat oleh Bursa Efek,
 termasuk perubahannya, mulai berlaku setelah
 mendapat persetujuan Bapepam.
 
- Pasal 12
+### Pasal 12 ^pasal-12
 
  (1) Bursa Efek wajib mempunyai satuan pemeriksa yang bertugas
 
@@ -714,8 +716,8 @@ mendapat persetujuan Bapepam.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-          - 13 
-# Bagian Kedua
+          - 13
+**Bagian Kedua**
 
  Lembaga Kliring dan Penjaminan serta Lembaga
 
@@ -725,14 +727,13 @@ REPUBLIK INDONESIA
 
  Perizinan
 
- Pasal 13
+### Pasal 13 ^pasal-13
 
 ```
 
-# Bagian…
+**Bagian…**
 
-
-# (1) Yang dapat menyelenggarakan kegiatan usaha sebagai Lembaga
+**(1) Yang dapat menyelenggarakan kegiatan usaha sebagai Lembaga**
 
  Kliring dan Penjaminan atau Lembaga Penyimpanan dan
 
@@ -752,7 +753,7 @@ REPUBLIK INDONESIA
 
  Tujuan dan Kepemilikan
 
- Pasal 14
+### Pasal 14 ^pasal-14
 
  (1) Lembaga Kliring dan Penjaminan didirikan dengan tujuan
 
@@ -762,14 +763,13 @@ REPUBLIK INDONESIA
 
  (2) Lembaga Penyimpanan dan Penyelesaian didirikan dengan tujuan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 14 
-# menyediakan jasa Kustodian sentral dan penyelesaian transaksi
+             - 14
+**menyediakan jasa Kustodian sentral dan penyelesaian transaksi**
 
  yang teratur, wajar, dan efisien.
 
@@ -789,7 +789,7 @@ REPUBLIK INDONESIA
 
  dilaporkan kepada Bapepam.
 
- Pasal 15
+### Pasal 15 ^pasal-15
 
  (1) Yang dapat menjadi pemegang saham Lembaga Kliring dan
 
@@ -809,7 +809,7 @@ REPUBLIK INDONESIA
 
  Lembaga Penyimpanan dan Penyelesaian
 
- Pasal 16
+### Pasal 16 ^pasal-16
 
  (1) Lembaga Kliring dan Penjaminan wajib menetapkan peraturan
 
@@ -820,8 +820,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 15 
-# mengenai kegiatan kliring dan penjaminan penyelesaian Transaksi
+             - 15
+**mengenai kegiatan kliring dan penjaminan penyelesaian Transaksi**
 
  Bursa, termasuk ketentuan mengenai biaya pemakaian jasa.
 
@@ -841,7 +841,7 @@ REPUBLIK INDONESIA
 
  Penyelesaian.
 
- Pasal 17
+### Pasal 17 ^pasal-17
 Peraturan yang wajib ditetapkan oleh Lembaga
 Kliring dan Penjaminan atau Lembaga Penyimpanan
 dan Penyelesaian, termasuk perubahannya, mulai
@@ -855,7 +855,7 @@ berlaku setelah mendapat persetujuan Bapepam.
 
  Bentuk Hukum dan Perizinan
 
- Pasal 18
+### Pasal 18 ^pasal-18
 
  (1) Reksa Dana dapat berbentuk:
 
@@ -868,8 +868,8 @@ berlaku setelah mendapat persetujuan Bapepam.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 16 
-# b. kontrak investasi kolektif.
+             - 16
+**b. kontrak investasi kolektif.**
 
  (2) Reksa Dana sebagaimana dimaksud dalam ayat (1) huruf a dapat
 
@@ -893,7 +893,7 @@ REPUBLIK INDONESIA
 
  Pemerintah.
 
- Pasal 19
+### Pasal 19 ^pasal-19
 
  (1) Pemegang saham Reksa Dana terbuka dapat menjual kembali
 
@@ -928,8 +928,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 17 
-# Pasal 20
+             - 17
+### Pasal 20 ^pasal-20
 
  (1) Manajer Investasi sebagai pengelola Reksa Dana terbuka berbentuk
 
@@ -969,7 +969,7 @@ REPUBLIK INDONESIA
 
  Pengelolaan
 
- Pasal 21
+### Pasal 21 ^pasal-21
 
  (1) Pengelolaan Reksa Dana, baik yang berbentuk Perseroan maupun
 
@@ -984,8 +984,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 18 
-# (2) Kontrak pengelolaan Reksa Dana berbentuk Perseroan dibuat oleh
+             - 18
+**(2) Kontrak pengelolaan Reksa Dana berbentuk Perseroan dibuat oleh**
 
  direksi dengan Manajer Investasi.
 
@@ -1001,20 +1001,20 @@ REPUBLIK INDONESIA
 
  Pasal 22…
 
- Pasal 22
+### Pasal 22 ^pasal-22
 Manajer Investasi Reksa Dana terbuka berbentuk
 Perseroan dan kontrak investasi kolektif wajib
 menghitung nilai pasar wajar dari Efek dalam
 portofolio setiap hari bursa berdasarkan
 ketentuan yang ditetapkan oleh Bapepam.
 
- Pasal 23
+### Pasal 23 ^pasal-23
 Nilai saham Reksa Dana terbuka berbentuk
 Perseroan dan nilai Unit Penyertaan kontrak
 investasi kolektif ditentukan berdasarkan nilai
 aktiva bersih.
 
- Pasal 24
+### Pasal 24 ^pasal-24
 
  (1) Reksa Dana dilarang menerima dan atau memberikan pinjaman
 
@@ -1033,8 +1033,8 @@ aktiva bersih.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 19 
-# Pasal 25
+             - 19
+### Pasal 25 ^pasal-25
 
  (1) Semua kekayaan Reksa Dana wajib disimpan pada Bank Kustodian.
 
@@ -1048,7 +1048,7 @@ REPUBLIK INDONESIA
 
  Pasal 26…
 
- Pasal 26
+### Pasal 26 ^pasal-26
 
  (1) Kontrak penyimpanan kekayaan Reksa Dana berbentuk Perseroan
 
@@ -1062,7 +1062,7 @@ REPUBLIK INDONESIA
 
  lebih lanjut oleh Bapepam.
 
- Pasal 27
+### Pasal 27 ^pasal-27
 
  (1) Manajer Investasi wajib dengan itikad baik dan penuh tanggung
 
@@ -1085,8 +1085,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 20 
-# Pasal 28
+             - 20
+### Pasal 28 ^pasal-28
 
  (1) Saham Reksa Dana terbuka berbentuk Perseroan diterbitkan tanpa
 
@@ -1112,7 +1112,7 @@ REPUBLIK INDONESIA
 
  berbentuk Perseroan berasal dari kekayaan Reksa Dana.
 
- Pasal 29
+### Pasal 29 ^pasal-29
 
  (1) Reksa Dana yang berbentuk Perseroan tidak diwajibkan untuk
 
@@ -1139,8 +1139,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 21 
-# Pasal 30
+             - 21
+### Pasal 30 ^pasal-30
 
  (1) Yang dapat melakukan kegiatan usaha sebagai Perusahaan Efek
 
@@ -1176,7 +1176,7 @@ REPUBLIK INDONESIA
 
  lanjut dengan Peraturan Pemerintah.
 
- Pasal 31
+### Pasal 31 ^pasal-31
 Perusahaan Efek bertanggung jawab terhadap segala
 kegiatan yang berkaitan dengan Efek yang
 dilakukan oleh direktur, pegawai, dan Pihak lain
@@ -1193,8 +1193,8 @@ yang bekerja untuk perusahaan tersebut.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 22 
-# Pasal 32
+             - 22
+### Pasal 32 ^pasal-32
 
  (1) Yang dapat melakukan kegiatan sebagai Wakil Penjamin Emisi
 
@@ -1210,7 +1210,7 @@ REPUBLIK INDONESIA
 
  Pasal 33…
 
- Pasal 33
+### Pasal 33 ^pasal-33
 
  (1) Orang perseorangan yang memiliki izin untuk bertindak sebagai
 
@@ -1230,7 +1230,7 @@ REPUBLIK INDONESIA
 
  Perizinan Penasihat Investasi
 
- Pasal 34
+### Pasal 34 ^pasal-34
 
  (1) Yang dapat melakukan kegiatan sebagai Penasihat Investasi adalah
 
@@ -1245,14 +1245,14 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 23 
-# lanjut dengan Peraturan Pemerintah.
+             - 23
+**lanjut dengan Peraturan Pemerintah.**
 
  Bagian Keempat
 
  Pedoman Perilaku
 
- Pasal 35
+### Pasal 35 ^pasal-35
 
  Perusahaan Efek atau Penasihat Investasi dilarang:
 
@@ -1292,7 +1292,7 @@ REPUBLIK INDONESIA
 
  terpenuhi seluruhnya.
 
- Pasal 36
+### Pasal 36 ^pasal-36
 
 ```
 
@@ -1301,8 +1301,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 24 
-# Perusahaan Efek atau Penasihat Investasi wajib:
+             - 24
+**Perusahaan Efek atau Penasihat Investasi wajib:**
 
  a. mengetahui latar belakang, keadaan keuangan, dan tujuan investasi
 
@@ -1312,7 +1312,7 @@ REPUBLIK INDONESIA
 
  transaksi, dan kondisi keuangannya.
 
- Pasal 37
+### Pasal 37 ^pasal-37
 
  Perusahaan Efek yang menerima Efek dari nasabahnya wajib:
 
@@ -1328,7 +1328,7 @@ REPUBLIK INDONESIA
 
  nasabahnya sesuai dengan tata cara yang ditetapkan oleh Bapepam.
 
- Pasal 38
+### Pasal 38 ^pasal-38
 Perusahaan Efek yang bertindak sebagai Perantara
 Pedagang Efek dilarang melakukan transaksi atas
 Efek yang tercatat pada Bursa Efek untuk Pihak
@@ -1346,13 +1346,13 @@ instruksi tersebut.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 25 
-# Pasal 39
+             - 25
+### Pasal 39 ^pasal-39
 Penjamin Emisi Efek wajib mematuhi semua
 ketentuan dalam kontrak penjaminan emisi Efek
 sebagaimana dimuat dalam Pernyataan Pendaftaran.
 
- Pasal 40
+### Pasal 40 ^pasal-40
 Perusahaan Efek yang bertindak sebagai Penjamin
 Emisi Efek harus mengungkapkan dalam Prospektus
 adanya hubungan Afiliasi atau hubungan lain yang
@@ -1362,7 +1362,7 @@ Emiten.
  Pasal 41…
 ...
 
- Pasal 41
+### Pasal 41 ^pasal-41
 Dalam hal Perusahaan Efek bertindak sebagai
 Manajer Investasi dan juga sebagai Perantara
 Pedagang Efek atau Pihak terafiliasi dari
@@ -1374,7 +1374,7 @@ Dana yang lebih tinggi dari komisi atau biaya
 yang dipungut oleh Perantara Pedagang Efek yang
 tidak terafiliasi.
 
- Pasal 42
+### Pasal 42 ^pasal-42
 Perusahaan Efek yang bertindak sebagai Manajer
 Investasi atau Pihak terafiliasinya dilarang
 
@@ -1390,7 +1390,7 @@ langsung maupun tidak langsung, yang dapat
 mempengaruhi Manajer Investasi yang bersangkutan
 untuk membeli atau menjual Efek untuk Reksa Dana.
 
-# BAB VI
+**BAB VI**
 
  LEMBAGA PENUNJANG PASAR MODAL
 
@@ -1402,7 +1402,7 @@ untuk membeli atau menjual Efek untuk Reksa Dana.
 
  Persetujuan
 
- Pasal 43
+### Pasal 43 ^pasal-43
 
  (1) Yang dapat menyelenggarakan kegiatan usaha sebagai Kustodian
 
@@ -1420,7 +1420,7 @@ untuk membeli atau menjual Efek untuk Reksa Dana.
 
  Efek yang Dititipkan
 
- Pasal 44
+### Pasal 44 ^pasal-44
 
  (1) Kustodian yang menyelenggarakan kegiatan penitipan bertanggung
 
@@ -1439,25 +1439,25 @@ untuk membeli atau menjual Efek untuk Reksa Dana.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 27 
-# (3) Efek yang disimpan atau dicatat pada rekening Efek Kustodian
+             - 27
+**(3) Efek yang disimpan atau dicatat pada rekening Efek Kustodian**
 
  bukan merupakan bagian dari harta Kustodian tersebut.
 
- Pasal 45
+### Pasal 45 ^pasal-45
 Kustodian hanya dapat mengeluarkan Efek atau dana
 yang tercatat pada rekening Efek atas perintah
 tertulis dari pemegang rekening atau Pihak yang
 diberi wewenang untuk bertindak atas namanya.
 
- Pasal 46
+### Pasal 46 ^pasal-46
 Kustodian wajib memberikan ganti rugi kepada
 pemegang rekening atas setiap kerugian yang
 timbul akibat kesalahannya.
 
  Pasal 47…
 
- Pasal 47
+### Pasal 47 ^pasal-47
 
  (1) Kustodian atau Pihak terafiliasinya dilarang memberikan
 
@@ -1482,8 +1482,8 @@ timbul akibat kesalahannya.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 28 
-# permintaan Pihak-Pihak yang berperkara;
+             - 28
+**permintaan Pihak-Pihak yang berperkara;**
 
  d. Pejabat Pajak untuk kepentingan perpajakan;
 
@@ -1536,10 +1536,10 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 29 
-# Biro Administrasi Efek
+             - 29
+**Biro Administrasi Efek**
 
- Pasal 48
+### Pasal 48 ^pasal-48
 
  (1) Yang dapat menyelenggarakan kegiatan usaha sebagai Biro
 
@@ -1553,7 +1553,7 @@ REPUBLIK INDONESIA
 
  Peraturan Pemerintah.
 
- Pasal 49
+### Pasal 49 ^pasal-49
 
  (1) Pendaftaran pemilikan Efek dalam buku daftar pemegang Efek
 
@@ -1575,7 +1575,7 @@ REPUBLIK INDONESIA
 
  Wali Amanat
 
- Pasal 50
+### Pasal 50 ^pasal-50
 
  (1) Kegiatan usaha sebagai Wali Amanat dapat dilakukan oleh:
 
@@ -1586,8 +1586,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 30 
-# a. Bank Umum; dan
+             - 30
+**a. Bank Umum; dan**
 
  b. Pihak lain yang ditetapkan dengan Peraturan Pemerintah.
 
@@ -1601,7 +1601,7 @@ REPUBLIK INDONESIA
 
  lanjut dengan Peraturan Pemerintah.
 
- Pasal 51
+### Pasal 51 ^pasal-51
 
  (1) Wali Amanat dilarang mempunyai hubungan Afiliasi dengan
 
@@ -1627,12 +1627,12 @@ REPUBLIK INDONESIA
 
  Bapepam.
 
- Pasal 52
+### Pasal 52 ^pasal-52
 Emiten dan Wali Amanat wajib membuat kontrak
 perwaliamanatan sesuai dengan ketentuan yang
 ditetapkan oleh Bapepam.
 
- Pasal 53
+### Pasal 53 ^pasal-53
 Wali Amanat wajib memberikan ganti rugi kepada
 
 ```
@@ -1648,7 +1648,7 @@ sebagaimana diatur dalam Undang-undang ini dan
 atau peraturan pelaksanaannya serta kontrak
 perwaliamanatan.
 
-# Pasal 54
+### Pasal 54 ^pasal-54
 Wali Amanat dilarang merangkap sebagai penanggung
 dalam emisi Efek bersifat utang yang sama.
 
@@ -1662,7 +1662,7 @@ dalam emisi Efek bersifat utang yang sama.
 
  Penyelesaian Transaksi Bursa
 
- Pasal 55
+### Pasal 55 ^pasal-55
 
  (1) Penyelesaian Transaksi Bursa dapat dilaksanakan dengan
 
@@ -1691,8 +1691,8 @@ dalam emisi Efek bersifat utang yang sama.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 32 
-# (4) Untuk menjamin penyelesaian Transaksi Bursa sebagaimana
+             - 32
+**(4) Untuk menjamin penyelesaian Transaksi Bursa sebagaimana**
 
  dimaksud dalam ayat (2), Lembaga Kliring dan Penjaminan dapat
 
@@ -1710,7 +1710,7 @@ REPUBLIK INDONESIA
 
  Penitipan Kolektif
 
- Pasal 56
+### Pasal 56 ^pasal-56
 
  (1) Efek dalam Penitipan Kolektif pada Lembaga Penyimpanan dan
 
@@ -1753,8 +1753,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 33 
-# investasi kolektif tersebut.
+             - 33
+**investasi kolektif tersebut.**
 
  (4) Emiten wajib menerbitkan sertifikat atau konfirmasi kepada
 
@@ -1774,13 +1774,13 @@ REPUBLIK INDONESIA
 
  sebagaimana dimaksud dalam ayat (1) dan ayat (2).
 
- Pasal 57
+### Pasal 57 ^pasal-57
 Dalam Penitipan Kolektif, Efek dari jenis dan
 klasifikasi yang sama yang diterbitkan oleh
 Emiten tertentu dianggap sepadan dan dapat
 dipertukarkan antara satu dan yang lain.
 
- Pasal 58
+### Pasal 58 ^pasal-58
 
  (1) Kustodian wajib mencatat mutasi kepemilikan Efek dalam
 
@@ -1807,8 +1807,8 @@ dipertukarkan antara satu dan yang lain.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 34 
-# (3) Emiten wajib menolak pencatatan Efek ke dalam Penitipan Kolektif
+             - 34
+**(3) Emiten wajib menolak pencatatan Efek ke dalam Penitipan Kolektif**
 
  apabila Efek tersebut hilang atau musnah, kecuali Pihak yang
 
@@ -1824,7 +1824,7 @@ REPUBLIK INDONESIA
 
  pemeriksaan perkara pidana.
 
- Pasal 59
+### Pasal 59 ^pasal-59
 
  (1) Pemegang rekening sewaktu-waktu berhak menarik dana dan atau
 
@@ -1854,7 +1854,7 @@ REPUBLIK INDONESIA
 
  Pasal 60…
 
- Pasal 60
+### Pasal 60 ^pasal-60
 
  (1) Pemegang rekening yang efeknya tercatat dalam Penitipan Kolektif
 
@@ -1867,8 +1867,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 35 
-# (2) Emiten, Lembaga Penyimpanan dan Penyelesaian, Bank Kustodian,
+             - 35
+**(2) Emiten, Lembaga Penyimpanan dan Penyelesaian, Bank Kustodian,**
 
  atau Perusahaan Efek wajib segera menyerahkan dividen, bunga,
 
@@ -1876,16 +1876,16 @@ REPUBLIK INDONESIA
 
  dalam Penitipan Kolektif kepada pemegang rekening.
 
- Pasal 61
+### Pasal 61 ^pasal-61
 Efek dalam Penitipan Kolektif, kecuali Efek atas
 rekening Reksa Dana, dapat dipinjamkan atau
 dijaminkan.
 
- Pasal 62
+### Pasal 62 ^pasal-62
 Anggaran dasar Emiten wajib memuat ketentuan
 mengenai Penitipan Kolektif.
 
- Pasal 63
+### Pasal 63 ^pasal-63
 Ketentuan mengenai Penitipan Kolektif diatur
 lebih lanjut oleh Bapepam.
 
@@ -1897,7 +1897,7 @@ lebih lanjut oleh Bapepam.
 
  Pendaftaran
 
- Pasal 64
+### Pasal 64 ^pasal-64
 
  (1) Profesi Penunjang Pasar Modal terdiri dari:
 
@@ -1914,8 +1914,8 @@ lebih lanjut oleh Bapepam.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 36 
-# c. Penilai;
+             - 36
+**c. Penilai;**
 
  d. Notaris; dan
 
@@ -1931,7 +1931,7 @@ REPUBLIK INDONESIA
 
  Modal ditetapkan dengan Peraturan Pemerintah.
 
- Pasal 65
+### Pasal 65 ^pasal-65
 
  (1) Pendaftaran Profesi Penunjang Pasar Modal di Bapepam menjadi
 
@@ -1974,8 +1974,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 37 
-# menggunakan jasa Profesi Penunjang Pasar Modal tersebut untuk
+             - 37
+**menggunakan jasa Profesi Penunjang Pasar Modal tersebut untuk**
 
  menunjuk Profesi Penunjang Pasar Modal lain untuk melakukan
 
@@ -1985,20 +1985,20 @@ REPUBLIK INDONESIA
 
  Kewajiban
 
- Pasal 66
+### Pasal 66 ^pasal-66
 Setiap Profesi Penunjang Pasar Modal wajib
 menaati kode etik dan standar profesi yang
 ditetapkan oleh asosiasi profesi masing-masing
 sepanjang tidak bertentangan dengan Undang-undang
 ini dan atau peraturan pelaksanaannya.
 
- Pasal 67
+### Pasal 67 ^pasal-67
 Dalam melakukan kegiatan usaha di bidang Pasar
 Modal, Profesi Penunjang Pasar Modal wajib
 memberikan pendapat atau penilaian yang
 independen.
 
- Pasal 68
+### Pasal 68 ^pasal-68
 
  Akuntan yang terdaftar pada Bapepam yang memeriksa laporan keuangan
 
@@ -2023,8 +2023,8 @@ independen.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 38 
-# Undang-undang ini dan atau peraturan pelaksanaannya; atau
+             - 38
+**Undang-undang ini dan atau peraturan pelaksanaannya; atau**
 
  b. hal-hal yang dapat membahayakan keadaan keuangan lembaga
 
@@ -2034,7 +2034,7 @@ REPUBLIK INDONESIA
 
  Standar Akuntansi
 
- Pasal 69
+### Pasal 69 ^pasal-69
 
  (1) Laporan keuangan yang disampaikan kepada Bapepam wajib
 
@@ -2054,7 +2054,7 @@ REPUBLIK INDONESIA
 
  Pernyataan Pendaftaran
 
- Pasal 70
+### Pasal 70 ^pasal-70
 
  (1) Yang dapat melakukan Penawaran Umum hanyalah Emiten yang
 
@@ -2077,8 +2077,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 39 
-# a. penawaran Efek yang bersifat utang yang jatuh temponya tidak
+             - 39
+**a. penawaran Efek yang bersifat utang yang jatuh temponya tidak**
 
  lebih dari satu tahun;
 
@@ -2092,7 +2092,7 @@ REPUBLIK INDONESIA
 
  e. penawaran Efek lain yang ditetapkan oleh Bapepam.
 
- Pasal 71
+### Pasal 71 ^pasal-71
 Tidak satu Pihak pun dapat menjual Efek dalam
 Penawaran Umum, kecuali pembeli atau pemesan
 menyatakan dalam formulir pemesanan Efek bahwa
@@ -2101,7 +2101,7 @@ memperoleh kesempatan untuk membaca Prospektus
 berkenaan dengan Efek yang bersangkutan sebelum
 atau pada saat pemesanan dilakukan.
 
- Pasal 72
+### Pasal 72 ^pasal-72
 
  (1) Penjamin Pelaksana Emisi Efek ditunjuk oleh Emiten.
 
@@ -2124,22 +2124,22 @@ atau pada saat pemesanan dilakukan.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 40 
-# Pasal 73
+   - 40
+### Pasal 73 ^pasal-73
 
 ```
 
-# Pasal 73…
+**Pasal 73…**
 
 ```
 Setiap Perusahaan Publik wajib menyampaikan
 Pernyataan Pendaftaran kepada Bapepam.
 
-# Bagian Kedua
+**Bagian Kedua**
 
  Tata Cara Penyampaian Pernyataan Pendaftaran
 
- Pasal 74
+### Pasal 74 ^pasal-74
 
  (1) Pernyataan Pendaftaran menjadi efektif pada hari ke-45 (keempat
 
@@ -2178,15 +2178,14 @@ Pernyataan Pendaftaran kepada Bapepam.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 41 
-# Pasal 75
+   - 41
+### Pasal 75 ^pasal-75
 
 ```
 
-# Pasal 75…
+**Pasal 75…**
 
-
-# (1) Bapepam wajib memperhatikan kelengkapan, kecukupan,
+**(1) Bapepam wajib memperhatikan kelengkapan, kecukupan,**
 
  objektivitas, kemudahan untuk dimengerti, dan kejelasan dokumen
 
@@ -2198,7 +2197,7 @@ REPUBLIK INDONESIA
 
  kelemahan suatu Efek.
 
- Pasal 76
+### Pasal 76 ^pasal-76
 ```
 Jika dalam Pernyataan Pendaftaran dinyatakan
 bahwa Efek akan dicatatkan pada Bursa Efek dan
@@ -2207,7 +2206,7 @@ penawaran atas Efek batal demi hukum dan
 pembayaran pesanan Efek dimaksud wajib
 dikembalikan kepada pemesan.
 
- Pasal 77
+### Pasal 77 ^pasal-77
 Ketentuan mengenai persyaratan dan tata cara
 penyampaian Pernyataan Pendaftaran diatur lebih
 lanjut oleh Bapepam.
@@ -2216,7 +2215,7 @@ lanjut oleh Bapepam.
 
  Prospektus dan Pengumuman
 
- Pasal 78
+### Pasal 78 ^pasal-78
 
  (1) Setiap Prospektus dilarang memuat keterangan yang tidak benar
 
@@ -2229,8 +2228,8 @@ lanjut oleh Bapepam.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 42 
-# tentang Fakta Material yang diperlukan agar Prospektus tidak
+             - 42
+**tentang Fakta Material yang diperlukan agar Prospektus tidak**
 
  memberikan gambaran yang menyesatkan.
 
@@ -2246,7 +2245,7 @@ REPUBLIK INDONESIA
 
  (3) Ketentuan mengenai Prospektus diatur lebih lanjut oleh Bapepam.
 
- Pasal 79
+### Pasal 79 ^pasal-79
 
  (1) Setiap pengumuman dalam media massa yang berhubungan dengan
 
@@ -2273,21 +2272,20 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-       - 43 
-# Bagian Keempat
+       - 43
+**Bagian Keempat**
 
  Tanggung Jawab atas Informasi
 
  yang Tidak Benar atau Menyesatkan
 
- Pasal 80
+### Pasal 80 ^pasal-80
 
 ```
 
-# Bagian…
+**Bagian…**
 
-
-# (1) Jika Pernyataan Pendaftaran dalam rangka Penawaran Umum
+**(1) Jika Pernyataan Pendaftaran dalam rangka Penawaran Umum**
 
  memuat informasi yang tidak benar tentang Fakta Material atau
 
@@ -2329,14 +2327,13 @@ REPUBLIK INDONESIA
 
  yang cukup untuk memastikan bahwa:
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 44 
-# a. pernyataan atau keterangan yang dimuat dalam Pernyataan
+             - 44
+**a. pernyataan atau keterangan yang dimuat dalam Pernyataan**
 
  Pendaftaran adalah benar; dan
 
@@ -2354,7 +2351,7 @@ REPUBLIK INDONESIA
 
  5 (lima) tahun sejak Pernyataan Pendaftaran efektif.
 
- Pasal 81
+### Pasal 81 ^pasal-81
 
  (1) Setiap Pihak yang menawarkan atau menjual Efek dengan
 
@@ -2385,21 +2382,20 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-               - 45 
-# Bagian Kelima
+               - 45
+**Bagian Kelima**
 
  Hak Memesan Efek Terlebih Dahulu, Benturan Kepentingan,
 
  Penawaran Tender, Penggabungan, Peleburan, dan Pengambilalihan
 
- Pasal 82
+### Pasal 82 ^pasal-82
 
 ```
 
-# Bagian…
+**Bagian…**
 
-
-# (1) Bapepam dapat mewajibkan Emiten atau Perusahaan Publik untuk
+**(1) Bapepam dapat mewajibkan Emiten atau Perusahaan Publik untuk**
 
  memberikan hak memesan Efek terlebih dahulu kepada setiap
 
@@ -2433,7 +2429,7 @@ REPUBLIK INDONESIA
 
  lanjut oleh Bapepam.
 
- Pasal 83
+### Pasal 83 ^pasal-83
 ```
 Setiap Pihak yang melakukan penawaran tender
 
@@ -2449,9 +2445,9 @@ wajib mengikuti ketentuan mengenai keterbukaan,
 kewajaran, dan pelaporan yang ditetapkan oleh
 Bapepam.
 
-# Pasal 84…
+**Pasal 84…**
 
- Pasal 84
+### Pasal 84 ^pasal-84
 Emiten atau Perusahaan Publik yang melakukan
 penggabungan, peleburan, atau pengambilalihan
 perusahaan lain wajib mengikuti ketentuan
@@ -2463,7 +2459,7 @@ perundang-undangan lainnya yang berlaku.
 
  PELAPORAN DAN KETERBUKAAN INFORMASI
 
- Pasal 85
+### Pasal 85 ^pasal-85
 Bursa Efek, Lembaga Kliring dan Penjaminan,
 Lembaga Penyimpanan dan Penyelesaian, Reksa Dana,
 Perusahaan Efek, Penasihat Investasi, Biro
@@ -2472,7 +2468,7 @@ dan Pihak lainnya yang telah memperoleh izin,
 persetujuan, atau pendaftaran dari Bapepam wajib
 menyampaikan laporan kepada Bapepam.
 
- Pasal 86
+### Pasal 86 ^pasal-86
 
  (1) Emiten yang Pernyataan Pendaftarannya telah menjadi efektif atau
 
@@ -2485,8 +2481,8 @@ menyampaikan laporan kepada Bapepam.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 47 
-# kepada Bapepam dan mengumumkan laporan tersebut kepada
+             - 47
+**kepada Bapepam dan mengumumkan laporan tersebut kepada**
 
  masyarakat; dan menyampaikan laporan kepada Bapepam dan
 
@@ -2506,7 +2502,7 @@ REPUBLIK INDONESIA
 
  berdasarkan ketentuan yang ditetapkan oleh Bapepam.
 
- Pasal 87
+### Pasal 87 ^pasal-87
 
  (1) Direktur atau komisaris Emiten atau Perusahaan Publik wajib
 
@@ -2530,7 +2526,7 @@ REPUBLIK INDONESIA
 
  Perusahaan Publik tersebut.
 
- Pasal 88
+### Pasal 88 ^pasal-88
 
 ```
 
@@ -2543,7 +2539,7 @@ REPUBLIK INDONESIA
 sebagaimana dimaksud dalam Pasal 85, Pasal 86,
 dan Pasal 87 diatur lebih lanjut oleh Bapepam.
 
-# Pasal 89
+### Pasal 89 ^pasal-89
 
  (1) Informasi yang wajib disampaikan oleh setiap Pihak kepada
 
@@ -2563,7 +2559,7 @@ dan Pasal 87 diatur lebih lanjut oleh Bapepam.
 
  PERDAGANGAN ORANG DALAM
 
- Pasal 90
+### Pasal 90 ^pasal-90
 
  Dalam kegiatan perdagangan Efek, setiap Pihak dilarang secara langsung
 
@@ -2596,8 +2592,8 @@ dan Pasal 87 diatur lebih lanjut oleh Bapepam.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 49 
-# Pasal 91
+             - 49
+### Pasal 91 ^pasal-91
 Setiap Pihak dilarang melakukan tindakan, baik
 langsung maupun tidak langsung, dengan tujuan
 untuk menciptakan gambaran semu atau menyesatkan
@@ -2606,7 +2602,7 @@ atau harga Efek di Bursa Efek.
 
  Pasal 92…
 
- Pasal 92
+### Pasal 92 ^pasal-92
 Setiap Pihak, baik sendiri-sendiri maupun
 bersama-sama dengan Pihak lain, dilarang
 melakukan 2 (dua) transaksi Efek atau lebih, baik
@@ -2615,7 +2611,7 @@ menyebabkan harga Efek di Bursa Efek tetap, naik,
 atau turun dengan tujuan mempengaruhi Pihak lain
 untuk membeli, menjual, atau menahan Efek.
 
- Pasal 93
+### Pasal 93 ^pasal-93
 
  Setiap Pihak dilarang, dengan cara apa pun, membuat pernyataan atau
 
@@ -2639,14 +2635,13 @@ untuk membeli, menjual, atau menahan Efek.
 
 -----
 
-# tersebut.
-
+**tersebut.**
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 50 
-# Pasal 94
+   - 50
+### Pasal 94 ^pasal-94
 
 ```
 ```
@@ -2655,9 +2650,9 @@ dapat dilakukan oleh Perusahaan Efek yang bukan
 merupakan tindakan yang dilarang sebagaimana
 dimaksud dalam Pasal 91 dan Pasal 92.
 
-# Pasal 95…
+**Pasal 95…**
 
- Pasal 95
+### Pasal 95 ^pasal-95
 
  Orang dalam dari Emiten atau Perusahaan Publik yang mempunyai
 
@@ -2671,7 +2666,7 @@ dimaksud dalam Pasal 91 dan Pasal 92.
 
  Perusahaan Publik yang bersangkutan.
 
- Pasal 96
+### Pasal 96 ^pasal-96
 
  Orang dalam sebagaimana dimaksud dalam Pasal 95 dilarang:
 
@@ -2692,8 +2687,8 @@ dimaksud dalam Pasal 91 dan Pasal 92.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 51 
-# Pasal 97
+             - 51
+### Pasal 97 ^pasal-97
 
  (1) Setiap Pihak yang berusaha untuk memperoleh informasi orang
 
@@ -2719,7 +2714,7 @@ REPUBLIK INDONESIA
 
  pembatasan.
 
- Pasal 98
+### Pasal 98 ^pasal-98
 
  Perusahaan Efek yang memiliki informasi orang dalam mengenai Emiten
 
@@ -2735,7 +2730,7 @@ REPUBLIK INDONESIA
 
  nasabahnya mengenai Efek yang bersangkutan.
 
- Pasal 99
+### Pasal 99 ^pasal-99
 
 ```
 
@@ -2748,11 +2743,11 @@ REPUBLIK INDONESIA
 tidak termasuk transaksi Efek yang dilarang
 sebagaimana dimaksud dalam Pasal 95 dan Pasal 96.
 
-# BABXII
+**BABXII**
 
  PEMERIKSAAN
 
- Pasal 100
+### Pasal 100 ^pasal-100
 
  (1) Bapepam dapat mengadakan pemeriksaan terhadap setiap Pihak
 
@@ -2803,8 +2798,8 @@ sebagaimana dimaksud dalam Pasal 95 dan Pasal 96.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 53 
-# Undang-undang ini dan atau peraturan pelaksanaannya untuk
+             - 53
+**Undang-undang ini dan atau peraturan pelaksanaannya untuk**
 
  melakukan tindakan tertentu yang diperlukan dalam rangka
 
@@ -2832,7 +2827,7 @@ REPUBLIK INDONESIA
 
  PENYIDIKAN
 
- Pasal 101
+### Pasal 101 ^pasal-101
 
  (1) Dalam hal Bapepam berpendapat pelanggaran terhadap
 
@@ -2863,8 +2858,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 54 
-# seseorang tentang adanya tindak pidana di bidang Pasar Modal;
+             - 54
+**seseorang tentang adanya tindak pidana di bidang Pasar Modal;**
 
  b. melakukan penelitian atas kebenaran laporan atau keterangan
 
@@ -2925,8 +2920,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 55 
-# (5) Penyidik sebagaimana dimaksud dalam ayat (2) memberitahukan
+             - 55
+**(5) Penyidik sebagaimana dimaksud dalam ayat (2) memberitahukan**
 
  dimulainya penyidikan dan menyampaikan hasil penyidikannya
 
@@ -2958,7 +2953,7 @@ REPUBLIK INDONESIA
 
  SANKSI ADMINISTRATIF
 
- Pasal 102
+### Pasal 102 ^pasal-102
 
  (1) Bapepam mengenakan sanksi administratif atas pelanggaran
 
@@ -2987,8 +2982,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 56 
-# e. pencabutan izin usaha;
+             - 56
+**e. pencabutan izin usaha;**
 
  f. pembatalan persetujuan; dan
 
@@ -3006,7 +3001,7 @@ REPUBLIK INDONESIA
 
  KETENTUAN PIDANA
 
- Pasal 103
+### Pasal 103 ^pasal-103
 
  (1) Setiap Pihak yang melakukan kegiatan di Pasar Modal tanpa izin,
 
@@ -3035,8 +3030,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 57 
-# Pasal 104
+             - 57
+### Pasal 104 ^pasal-104
 Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 90, Pasal 91, Pasal 92,
 Pasal 93, Pasal 95, Pasal 96, Pasal 97 ayat (1),
@@ -3044,7 +3039,7 @@ dan Pasal 98 diancam dengan pidana penjara paling
 lama 10 (sepuluh) tahun dan denda paling banyak
 Rp15.000.000.000,00 (lima belas miliar rupiah).
 
- Pasal 105
+### Pasal 105 ^pasal-105
 Manajer Investasi dan atau Pihak terafiliasinya
 yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 42 diancam dengan pidana kurungan
@@ -3053,7 +3048,7 @@ banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
  Pasal 106…
 
- Pasal 106
+### Pasal 106 ^pasal-106
 
  (1) Setiap Pihak yang melakukan pelanggaran atas ketentuan
 
@@ -3071,7 +3066,7 @@ banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
  Rp5.000.000.000,00 (lima miliar rupiah).
 
- Pasal 107
+### Pasal 107 ^pasal-107
 Setiap Pihak yang dengan sengaja bertujuan menipu
 atau merugikan Pihak lain atau menyesatkan
 
@@ -3091,7 +3086,7 @@ diancam dengan pidana penjara paling lama 3
 (tiga) tahun dan denda paling banyak
 Rp5.000.000.000,00 (lima miliar rupiah).
 
-# Pasal 108
+### Pasal 108 ^pasal-108
 Ancaman pidana penjara atau pidana kurungan dan
 denda sebagaimana dimaksud dalam Pasal 103, Pasal
 104, Pasal 105, Pasal 106, dan Pasal 107 berlaku
@@ -3101,14 +3096,14 @@ pelanggaran Pasal-Pasal dimaksud.
 
  Pasal 109…
 
- Pasal 109
+### Pasal 109 ^pasal-109
 Setiap Pihak yang tidak mematuhi atau menghambat
 pelaksanaan ketentuan sebagaimana dimaksud dalam
 Pasal 100 diancam dengan pidana kurungan paling
 lama 1 (satu) tahun dan denda paling banyak
 Rp1.000.000.000,00 (satu miliar rupiah).
 
- Pasal 110
+### Pasal 110 ^pasal-110
 
  (1) Tindak pidana sebagaimana dimaksud dalam Pasal 103 ayat (2),
 
@@ -3121,8 +3116,8 @@ Rp1.000.000.000,00 (satu miliar rupiah).
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 59 
-# (2) Tindak pidana sebagaimana dimaksud dalam Pasal 103 ayat (1),
+             - 59
+**(2) Tindak pidana sebagaimana dimaksud dalam Pasal 103 ayat (1),**
 
  Pasal 104, Pasal 106, dan Pasal 107 adalah kejahatan.
 
@@ -3130,7 +3125,7 @@ REPUBLIK INDONESIA
 
  KETENTUAN LAIN-LAIN
 
- Pasal 111
+### Pasal 111 ^pasal-111
 Setiap Pihak yang menderita kerugian sebagai
 akibat dari pelanggaran atas Undang-undang ini
 dan atau peraturan pelaksanaannya dapat menuntut
@@ -3142,7 +3137,7 @@ pelanggaran tersebut.
 
  Pasal 112…
 
- Pasal 112
+### Pasal 112 ^pasal-112
 Bapepam dan Bank Indonesia wajib mengadakan
 konsultasi dan atau koordinasi sesuai dengan
 fungsi masing-masing dalam mengawasi kegiatan
@@ -3158,12 +3153,12 @@ di Pasar Modal.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 60 
-# BABXVII
+             - 60
+**BABXVII**
 
  KETENTUAN PERALIHAN
 
- Pasal 113
+### Pasal 113 ^pasal-113
 Setiap perusahaan yang telah memenuhi kriteria
 sebagai Perusahaan Publik sebagaimana diatur
 dalam Undang-undang ini dan belum menyampaikan
@@ -3173,7 +3168,7 @@ wajib memenuhi ketentuan dalam Undang-undang ini
 selambat-lambatnya 2 (dua) tahun setelah
 Undang-undang ini diundangkan.
 
- Pasal 114
+### Pasal 114 ^pasal-114
 
  Dengan berlakunya Undang-undang ini, maka:
 
@@ -3212,8 +3207,8 @@ Undang-undang ini diundangkan.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 61 
-# berdasarkan izin usaha sebagai Lembaga Kliring Penyimpanan dan
+             - 61
+**berdasarkan izin usaha sebagai Lembaga Kliring Penyimpanan dan**
 
  Penyelesaian tetap dapat dilaksanakan untuk jangka waktu
 
@@ -3223,7 +3218,7 @@ REPUBLIK INDONESIA
 
  KETENTUAN PENUTUP
 
- Pasal 115
+### Pasal 115 ^pasal-115
 Dengan berlakunya Undang-undang ini,
 Undang-undang Nomor 15 Tahun 1952 tentang
 penetapan Undang-undang Darurat tentang Bursa
@@ -3231,7 +3226,7 @@ penetapan Undang-undang Darurat tentang Bursa
 Undang-undang (Lembaran Negara Tahun 1952 Nomor
 67) dinyatakan tidak berlaku lagi.
 
- Pasal 116
+### Pasal 116 ^pasal-116
 Undang-undang ini mulai berlaku pada tanggal 1
 Januari 1996.
 
@@ -3248,8 +3243,8 @@ Indonesia.
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 62 
-# Disahkan di Jakarta
+                     - 62
+**Disahkan di Jakarta**
 
  pada tanggal 10 Nopember 1995
 
@@ -3280,7 +3275,9 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 
-# PENJELASAN
+## Penjelasan
+
+### I. Umum
 
  ATAS
 
@@ -3304,14 +3301,13 @@ REPUBLIK INDONESIA
 
  Ketentuan…
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 2 
-# Ketentuan yang mengatur tentang kegiatan Pasar Modal yaitu Undang-undang Nomor 15 Tahun 1952 tentang penetapan "Undang-undang Darurat tentang Bursa (Lembaran Negara Tahun 1951 Nomor 79) sebagai Undang-undang (Lembaran Negara Tahun 1952 Nomor 67) tersebut dirasakan sudah tidak sesuai lagi dengan perkembangan yang ada pada saat ini oleh karena ketentuan yang ada dalam Undang-undang tersebut tidak mengatur hal-hal yang sangat penting dalam kegiatan Pasar Modal, yaitu kewajiban Pihak-Pihak dalam suatu Penawaran Umum untuk memenuhi Prinsip Keterbukaan, serta terutama ketentuan-ketentuan yang mengatur tentang perlindungan kepada masyarakat umum. Selain itu, dengan perkembangan yang sangat pesat di bidang ekonomi, ditambah lagi dengan globalisasi ekonomi, maka sudah saatnya apabila ketentuan-ketentuan tentang kegiatan Pasar Modal diatur dalam suatu Undang-undang yang baru, dengan tetap mengacu pada Pancasila dan Undang-Undang Dasar 1945.
+                     - 2
+**Ketentuan yang mengatur tentang kegiatan Pasar Modal yaitu Undang-undang Nomor 15 Tahun 1952 tentang penetapan "Undang-undang Darurat tentang Bursa (Lembaran Negara Tahun 1951 Nomor 79) sebagai Undang-undang (Lembaran Negara Tahun 1952 Nomor 67) tersebut dirasakan sudah tidak sesuai lagi dengan perkembangan yang ada pada saat ini oleh karena ketentuan yang ada dalam Undang-undang tersebut tidak mengatur hal-hal yang sangat penting dalam kegiatan Pasar Modal, yaitu kewajiban Pihak-Pihak dalam suatu Penawaran Umum untuk memenuhi Prinsip Keterbukaan, serta terutama ketentuan-ketentuan yang mengatur tentang perlindungan kepada masyarakat umum. Selain itu, dengan perkembangan yang sangat pesat di bidang ekonomi, ditambah lagi dengan globalisasi ekonomi, maka sudah saatnya apabila ketentuan-ketentuan tentang kegiatan Pasar Modal diatur dalam suatu Undang-undang yang baru, dengan tetap mengacu pada Pancasila dan Undang-Undang Dasar 1945.**
 
  Di dalam Undang-undang ini diatur tentang adanya kewajiban bagi perusahaan yang melakukan Penawaran Umum atau perusahaan yang memenuhi persyaratan sebagai Perusahaan Publik untuk menyampaikan informasi mengenai keadaan usahanya, baik dari segi keuangan, manajemen, produksi maupun hal yang berkaitan dengan kegiatan usahanya kepada masyarakat. Informasi tersebut mempunyai arti yang sangat penting bagi masyarakat sebagai bahan pertimbangan untuk melakukan investasi. Oleh karena itu, dalam Undang-undang ini diatur mengenai adanya ketentuan yang mewajibkan Pihak yang melakukan Penawaran Umum dan memperdagangkan efeknya di pasar sekunder untuk memenuhi Prinsip Keterbukaan. Kegagalan atas kewajiban tersebut mengakibatkan Pihak yang melakukan atau yang terkait dengan Penawaran Umum bertanggung jawab atas kerugian yang diderita masyarakat dan dapat dituntut secara pidana apabila ternyata terkandung unsur penipuan. Dalam kaitannya dengan itu, di dalam Undang-undang ini diatur pula kewajiban-kewajiban yang melingkupi Pihak-Pihak yang berkaitan dengan Penawaran Umum seperti Penjamin Emisi Efek, Akuntan, Konsultan Hukum, Notaris, Penilai, dan profesi lainnya, untuk mematuhi kewajiban-kewajiban yang harus mereka penuhi, disertai dengan ancaman berupa sanksi ganti rugi dan atau ancaman pidana atas kegagalan mematuhi kewajiban yang ada berdasarkan Undang-undang ini.
 
@@ -3326,8 +3322,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 3 
-# PASAL… PASAL DEMI PASAL
+                     - 3
+**PASAL… PASAL DEMI PASAL**
 
  Pasal 1
  Angka 1
@@ -3356,8 +3352,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                - 4 
-# Tuan A… Tuan A mengendalikan PT X.
+                - 4
+**Tuan A… Tuan A mengendalikan PT X.**
 
  Sebagai contoh, hubungan perusahaan dengan Pihak yang tidak langsung mengendalikan perusahaan tersebut adalah sebagai berikut:
 
@@ -3390,8 +3386,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                   - 5 
-# Angka 2… Angka 2
+                   - 5
+**Angka 2… Angka 2**
  Cukup jelas
 
  Angka 3
@@ -3420,10 +3416,10 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 6 
+   - 6
 ```
 
-# Angka 8…
+**Angka 8…**
 
  Angka 8
  Penitipan Efek sebagaimana dimaksud dalam angka ini termasuk pula Penitipan Kolektif.
@@ -3454,14 +3450,13 @@ REPUBLIK INDONESIA
  Angka 14
  Pemberian nasihat kepada Pihak lain sebagaimana dimaksud dalam angka ini
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                   - 7 
-# mencakup pemberian nasihat yang dilakukan secara lisan atau tertulis, termasuk melalui penerbitan dalam media massa.
+                   - 7
+**mencakup pemberian nasihat yang dilakukan secara lisan atau tertulis, termasuk melalui penerbitan dalam media massa.**
 
  Angka 15… Angka 15
  Penawaran Umum dalam angka ini meliputi penawaran Efek oleh Emiten yang dilakukan dalam wilayah Republik Indonesia atau kepada warga negara Indonesia dengan menggunakan media massa atau ditawarkan kepada lebih dari 100 (seratus) Pihak atau telah dijual kepada lebih dari 50 (lima puluh) Pihak dalam batas nilai serta batas waktu tertentu.
@@ -3486,8 +3481,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                   - 8 
-# Sebagai… Sebagai contoh, Efek dalam Penitipan Kolektif pada Lembaga Penyimpanan dan Penyelesaian yang terdaftar dalam buku daftar pemegang Efek Emiten atas nama Lembaga Penyimpanan dan Penyelesaian tetap diakui oleh Emiten bahwa Efek tersebut dimiliki bersama oleh lebih dari satu Pihak yang diwakili oleh Lembaga Penyimpanan dan Penyelesaian. Efek dalam Penitipan Kolektif pada Bank Kustodian atau Perusahaan Efek yang dicatat dalam rekening Efek pada Lembaga Penyimpanan dan Penyelesaian tetap diakui oleh Lembaga Penyimpanan dan Penyelesaian bahwa Efek tersebut dimiliki bersama oleh lebih dari satu Pihak yang diwakili oleh Bank Kustodian atau Perusahaan Efek tersebut.
+                   - 8
+**Sebagai… Sebagai contoh, Efek dalam Penitipan Kolektif pada Lembaga Penyimpanan dan Penyelesaian yang terdaftar dalam buku daftar pemegang Efek Emiten atas nama Lembaga Penyimpanan dan Penyelesaian tetap diakui oleh Emiten bahwa Efek tersebut dimiliki bersama oleh lebih dari satu Pihak yang diwakili oleh Lembaga Penyimpanan dan Penyelesaian. Efek dalam Penitipan Kolektif pada Bank Kustodian atau Perusahaan Efek yang dicatat dalam rekening Efek pada Lembaga Penyimpanan dan Penyelesaian tetap diakui oleh Lembaga Penyimpanan dan Penyelesaian bahwa Efek tersebut dimiliki bersama oleh lebih dari satu Pihak yang diwakili oleh Bank Kustodian atau Perusahaan Efek tersebut.**
 
  Angka 17
  Cukup jelas
@@ -3527,8 +3522,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 9 
-# Angka 28… Angka 28
+                     - 9
+**Angka 28… Angka 28**
  Pinjam-meminjam Efek dapat terjadi dalam hal Anggota Bursa Efek tidak memiliki Efek yang mencukupi untuk menyelesaikan kewajibannya yang timbul akibat jual beli Efek yang dilakukannya di Bursa Efek.
 
  Kontrak lain mengenai harga Efek mencakup, antara lain opsi terhadap indeks harga saham.
@@ -3563,8 +3558,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 10 
-# Angka 1)
+                  - 10
+**Angka 1)**
  Cukup jelas
 
  Angka 2)
@@ -3594,8 +3589,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 11 
-# tersebut, antara lain: 1. kehilangan kewarganegaraan Indonesia atau tidak cakap melakukan perbuatan hukum; 2. dinyatakan pailit; 3. dihukum karena melakukan tindak pidana; 4. melakukan perbuatan tercela di bidang Pasar Modal pada khususnya dan di bidang keuangan pada umumnya;
+                  - 11
+**tersebut, antara lain: 1. kehilangan kewarganegaraan Indonesia atau tidak cakap melakukan perbuatan hukum; 2. dinyatakan pailit; 3. dihukum karena melakukan tindak pidana; 4. melakukan perbuatan tercela di bidang Pasar Modal pada khususnya dan di bidang keuangan pada umumnya;**
 
  5. Tidak… 5. Tidak memiliki akhlak dan moral yang baik; atau 6. melakukan pelanggaran yang cukup material atas ketentuan peraturan perundang-undangan Pasar Modal.
 
@@ -3620,8 +3615,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 12 
-# melindungi kepentingan pemodal dan atau Pasar Modal, Bapepam memiliki kewenangan untuk menghentikan iklan atau promosi tersebut dan mewajibkan Pihak yang bersangkutan untuk meluruskannya dengan cara memperbaiki iklan atau promosi dimaksud.
+                  - 12
+**melindungi kepentingan pemodal dan atau Pasar Modal, Bapepam memiliki kewenangan untuk menghentikan iklan atau promosi tersebut dan mewajibkan Pihak yang bersangkutan untuk meluruskannya dengan cara memperbaiki iklan atau promosi dimaksud.**
 
  Angka 2)… Angka 2)
  Apabila iklan atau promosi tersebut pada angka 1) di atas mengakibatkan kerugian kepada Pihak lain termasuk pemodal, Bapepam memiliki kewenangan untuk mewajibkan Pihak tersebut mengambil langkah-langkah yang diperlukan untuk mengatasi akibat yang ditimbulkan, antara lain berupa pembayaran ganti rugi.
@@ -3645,8 +3640,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 13 
-# Emiten tidak mengungkapkan keadaan perusahaan yang sebenarnya.
+                  - 13
+**Emiten tidak mengungkapkan keadaan perusahaan yang sebenarnya.**
 
  Huruf k… Huruf k
  Yang dimaksud dengan "keadaan darurat dalam huruf ini adalah suatu keadaan memaksa di luar kemampuan Pihak sebagai akibat, antara lain, adanya perang, peristiwa alam seperti gempa bumi atau banjir, pemogokan, sabotase atau huru-hara, turunnya sebagian besar atau keseluruhan harga Efek yang tercatat di Bursa Efek sedemikian besar dan material sifatnya yang terjadi secara mendadak (crash), atau kegagalan sistem perdagangan atau penyelesaian transaksi.
@@ -3666,8 +3661,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 14 
-# Yang dimaksud dengan biaya pendaftaran dalam huruf ini adalah biaya-biaya yang dipungut dalam rangka pendaftaran Wali Amanat dan Profesi Penunjang Pasar Modal yang meliputi pendaftaran Akuntan, Penilai, Notaris, dan Konsultan Hukum.
+                  - 14
+**Yang dimaksud dengan biaya pendaftaran dalam huruf ini adalah biaya-biaya yang dipungut dalam rangka pendaftaran Wali Amanat dan Profesi Penunjang Pasar Modal yang meliputi pendaftaran Akuntan, Penilai, Notaris, dan Konsultan Hukum.**
 
  Yang…
 
@@ -3689,8 +3684,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 15 
-# Huruf o
+                     - 15
+**Huruf o**
  Cukup jelas
 
  Huruf p
@@ -3718,8 +3713,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 16 
-# e. latar belakang ekonomis pendirian Bursa Efek.
+                     - 16
+**e. latar belakang ekonomis pendirian Bursa Efek.**
 
  Pasal 7
  Ayat (1)
@@ -3742,8 +3737,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 17 
-# kepada Bapepam untuk memperoleh persetujuan. Rencana anggaran tahunan dan penggunaan laba dimaksud dilaksanakan setelah memperoleh persetujuan Bapepam.
+                     - 17
+**kepada Bapepam untuk memperoleh persetujuan. Rencana anggaran tahunan dan penggunaan laba dimaksud dilaksanakan setelah memperoleh persetujuan Bapepam.**
 
  Pasal 8
 
@@ -3774,8 +3769,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 18 
-# Ayat (3)
+                     - 18
+**Ayat (3)**
 
  Pendapatan Bursa Efek pada dasarnya berasal dari pungutan berupa iuran anggota, biaya transaksi, dan biaya pencatatan Efek. Penggunaan pungutan dimaksud diperkenankan untuk membiayai pelaksanaan fungsinya agar perdagangan Efek di Bursa Efek yang dilakukan oleh para anggotanya dapat terlaksana dengan teratur, wajar, dan efisien.
 
@@ -3808,8 +3803,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 19 
-# Efek serta Bapepam dapat mengambil tindakan atau langkah-langkah yang diperlukan untuk mengatasi masalah-masalah yang ditemukan, baik pada Anggota Bursa Efek maupun Bursa Efek.
+                     - 19
+**Efek serta Bapepam dapat mengambil tindakan atau langkah-langkah yang diperlukan untuk mengatasi masalah-masalah yang ditemukan, baik pada Anggota Bursa Efek maupun Bursa Efek.**
 
  Ayat (3)
 
@@ -3842,8 +3837,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 20 
-# menetapkan hak dan kewajiban para Anggota Bursa Efek atas transaksi yang mereka lakukan sehingga mereka mengetahui hak dan kewajiban masing-masing.
+                  - 20
+**menetapkan hak dan kewajiban para Anggota Bursa Efek atas transaksi yang mereka lakukan sehingga mereka mengetahui hak dan kewajiban masing-masing.**
 
  Ayat (2)
 
@@ -3874,8 +3869,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 21 
-# Lembaga Penyimpanan dan Penyelesaian sebelum diajukan kembali kepada Bapepam untuk memperoleh persetujuan. Rencana anggaran tahunan dan penggunaan laba dimaksud dapat dilaksanakan setelah memperoleh persetujuan Bapepam.
+                     - 21
+**Lembaga Penyimpanan dan Penyelesaian sebelum diajukan kembali kepada Bapepam untuk memperoleh persetujuan. Rencana anggaran tahunan dan penggunaan laba dimaksud dapat dilaksanakan setelah memperoleh persetujuan Bapepam.**
 
  Pasal 15…
 
@@ -3900,8 +3895,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 22 
-# Ayat (1)
+                     - 22
+**Ayat (1)**
 
  Agar kliring dan penjaminan penyelesaian Transaksi Bursa dapat terlaksana secara teratur, wajar, dan efisien, perlu suatu aturan yang jelas yang dapat melindungi kepentingan para pemakai jasa. Untuk itu, kepada Lembaga Kliring dan Penjaminan diberi kewenangan untuk menetapkan peraturan-peraturan yang mengikat dan wajib ditaati oleh para pemakai jasa tersebut.
 
@@ -3934,8 +3929,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 23 
-# Huruf b
+                     - 23
+**Huruf b**
 
  Kontrak investasi kolektif adalah kontrak antara Manajer Investasi dan Bank Kustodian yang mengikat pemegang Unit Penyertaan di mana Manajer Investasi diberi wewenang untuk mengelola portofolio investasi kolektif dan Bank Kustodian diberi wewenang untuk melaksanakan Penitipan Kolektif.
 
@@ -3976,8 +3971,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 24 
-# Cukup jelas
+                     - 24
+**Cukup jelas**
 
  Ayat (2)
 
@@ -4012,8 +4007,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 25 
-# Ayat (1)
+                  - 25
+**Ayat (1)**
 
  Pembelian kembali Unit Penyertaan Reksa Dana berbentuk kontrak investasi kolektif dilakukan oleh Manajer Investasi dan dibebankan kepada rekening Reksa Dana. Dana yang dipergunakan untuk membeli kembali Unit Penyertaan yang dilakukan oleh Manajer Investasi berasal dari kekayaan Reksa Dana.
 
@@ -4042,10 +4037,10 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 26 
+   - 26
 ```
 
-# Huruf d
+**Huruf d**
 
  Yang dimaksud dengan "hal-hal lain dalam huruf ini adalah sebagaimana dimaksud dalam penjelasan Pasal 19 ayat (3) huruf d.
 
@@ -4072,14 +4067,13 @@ REPUBLIK INDONESIA
 
  Nilai pasar wajar suatu Efek adalah harga pasar atau kurs Efek itu sendiri apabila Efek tersebut secara aktif diperdagangkan di Bursa Efek. Namun, nilai pasar wajar dapat berbeda dengan harga pasar apabila transaksi atas Efek tersebut tidak aktif atau tidak ditransaksikan dalam kurun waktu tertentu. Dalam hal demikian, kriteria penentuan nilai pasar wajar diperhitungkan sesuai dengan ketentuan yang ditetapkan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 27 
-# oleh Bapepam.
+                     - 27
+**oleh Bapepam.**
 
  Yang dimaksud dengan "hari bursa dalam Pasal ini adalah hari dimana Bursa Efek melakukan kegiatan.
 
@@ -4120,8 +4114,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 28 
-# dibatasi. Manajer Investasi hanya bertindak sebagai pengelola, sedangkan Bank Kustodian menyimpan dan mengadministrasikan kekayaan Reksa Dana. Untuk menjamin hal tersebut Manajer Investasi dilarang terafiliasi dengan Bank Kustodian.
+                     - 28
+**dibatasi. Manajer Investasi hanya bertindak sebagai pengelola, sedangkan Bank Kustodian menyimpan dan mengadministrasikan kekayaan Reksa Dana. Untuk menjamin hal tersebut Manajer Investasi dilarang terafiliasi dengan Bank Kustodian.**
 
  Ayat (3)
  Nilai aktiva bersih Reksa Dana terbuka dihitung dan diumumkan setiap hari bursa. Nilai aktiva bersih Reksa Dana tertutup dihitung dan diumumkan sekurang-kurangnya sekali dalam seminggu.
@@ -4154,8 +4148,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 29 
-# Investasi untuk melaksanakan tugasnya dengan sebaik mungkin untuk kepentingan Reksa Dana.
+                     - 29
+**Investasi untuk melaksanakan tugasnya dengan sebaik mungkin untuk kepentingan Reksa Dana.**
 
  Ayat (2)
 
@@ -4186,8 +4180,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 30 
-# Dana yang dimaksud dalam ayat ini, antara lain, adalah kas dan hasil penjualan portofolio Reksa Dana.
+                     - 30
+**Dana yang dimaksud dalam ayat ini, antara lain, adalah kas dan hasil penjualan portofolio Reksa Dana.**
 
  Pasal 29
 
@@ -4222,8 +4216,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 31 
-# pemerintah yang mengatur dan mengawasinya, maka Bapepam dapat melaksanakan kewenangannya berdasarkan Undang-undang ini dan atau peraturan pelaksanaannya.
+                     - 31
+**pemerintah yang mengatur dan mengawasinya, maka Bapepam dapat melaksanakan kewenangannya berdasarkan Undang-undang ini dan atau peraturan pelaksanaannya.**
 
  Ayat (4)
 
@@ -4264,8 +4258,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 32 
-# a. keahlian dan pengalaman; dan b. tata cara pengajuan permohonan izin.
+                     - 32
+**a. keahlian dan pengalaman; dan b. tata cara pengajuan permohonan izin.**
 
  Pasal 33
 
@@ -4298,8 +4292,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 33 
-# a. persyaratan yang wajib dipenuhi oleh calon Penasihat Investasi, antara lain memiliki izin orang perseorangan sebagai Wakil Manajer Investasi; dan b. tata cara pengajuan permohonan menjadi Penasihat Investasi.
+                     - 33
+**a. persyaratan yang wajib dipenuhi oleh calon Penasihat Investasi, antara lain memiliki izin orang perseorangan sebagai Wakil Manajer Investasi; dan b. tata cara pengajuan permohonan menjadi Penasihat Investasi.**
 
  Pasal 35
 
@@ -4332,8 +4326,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 34 
-# dalam suatu Efek bersamaan dengan nasabahnya, mereka wajib memberitahukan hal tersebut kepada nasabahnya sebelum memberikan rekomendasi.
+                     - 34
+**dalam suatu Efek bersamaan dengan nasabahnya, mereka wajib memberitahukan hal tersebut kepada nasabahnya sebelum memberikan rekomendasi.**
 
  Kepentingan dalam Efek timbul, antara lain apabila:
 
@@ -4364,8 +4358,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 35 
-# Investasi dapat menentukan arah dalam pemberian jasanya sesuai dengan keadaan nasabah sehingga dapat dihindarkan keadaan di mana Perusahaan Efek atau Penasihat Investasi menyalahgunakan kepercayaan yang diberikan untuk kepentingan sendiri dengan mengorbankan kepentingan nasabahnya.
+                     - 35
+**Investasi dapat menentukan arah dalam pemberian jasanya sesuai dengan keadaan nasabah sehingga dapat dihindarkan keadaan di mana Perusahaan Efek atau Penasihat Investasi menyalahgunakan kepercayaan yang diberikan untuk kepentingan sendiri dengan mengorbankan kepentingan nasabahnya.**
 
  Selain itu, Perusahaan Efek atau Penasihat Investasi wajib menyimpan dengan baik segala catatan yang berhubungan dengan pesanan, transaksi, dan kegiatan investasi nasabah. Dengan demikian, catatan tersebut sewaktu-waktu dapat diketahui oleh nasabah untuk kepentingan pembuktian.
 
@@ -4390,8 +4384,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 36 
-# Pasal 38
+                     - 36
+**Pasal 38**
 
  Larangan sebagaimana dimaksud dalam Pasal ini berlaku bagi Perusahaan Efek yang bertindak selaku Perantara Pedagang Efek dalam hal yang bersangkutan akan membeli Efek untuk kepentingan sendiri atau Pihak terafiliasinya di mana pada saat yang bersamaan terdapat pesanan beli dari Pihak yang tidak terafiliasi dengan persyaratan transaksi Efek yang sama atau lebih tinggi dari persyaratan transaksi Efek untuk kepentingan Perantara Pedagang Efek yang bersangkutan atau Pihak terafiliasinya. Akan tetapi, dalam hal Perantara Pedagang Efek dimaksud membeli Efek dengan persyaratan transaksi Efek yang lebih tinggi dibandingkan dengan persyaratan yang diajukan oleh Pihak yang tidak terafiliasi, Perantara Pedagang Efek dimaksud dapat membeli Efek tersebut, baik untuk kepentingan dirinya sendiri maupun Pihak terafiliasinya.
 
@@ -4412,8 +4406,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 37 
-# itu harus dicantumkan dalam Prospektus.
+                     - 37
+**itu harus dicantumkan dalam Prospektus.**
 
  Kontrak penjaminan emisi Efek dapat berbentuk kesanggupan penuh (full commitment) atau kesanggupan terbaik (best effort). Dengan kesanggupan penuh, Penjamin Emisi Efek bertanggung jawab mengambil sisa Efek yang tidak terjual, sedangkan dengan kesanggupan terbaik, Penjamin Emisi Efek tidak bertanggung jawab terhadap sisa Efek yang tidak terjual, tetapi berusaha dengan sebaik-baiknya untuk menjualkan Efek Emiten.
 
@@ -4444,8 +4438,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 38 
-# pemegang saham Reksa Dana berbentuk Perseroan atau pemegang Unit Penyertaan kontrak investasi kolektif, Manajer Investasi dilarang menerima imbalan dalam bentuk apapun yang dapat mempengaruhi keputusannya dalam melakukan pembelian atau penjualan Efek untuk Reksa Dana tersebut.
+                     - 38
+**pemegang saham Reksa Dana berbentuk Perseroan atau pemegang Unit Penyertaan kontrak investasi kolektif, Manajer Investasi dilarang menerima imbalan dalam bentuk apapun yang dapat mempengaruhi keputusannya dalam melakukan pembelian atau penjualan Efek untuk Reksa Dana tersebut.**
 
  Komisi yang diperoleh Perusahaan Efek dalam rangka pemberian jasa sebagai Perantara Pedagang Efek dengan tidak melanggar ketentuan sebagaimana dimaksud dalam Pasal 41 dan imbalan lain yang berkaitan dengan pengelolaan dana investasi sebagaimana dituangkan dalam kontrak pengelolaan investasi bukan merupakan imbalan yang dilarang berdasarkan ketentuan ini.
 
@@ -4474,8 +4468,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 39 
-# Cukup jelas
+                     - 39
+**Cukup jelas**
 
  Ayat (2)
 
@@ -4508,8 +4502,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 40 
-# Penjaminan perlu diberi kesempatan untuk memperoleh keterangan mengenai rekening Efek pada Kustodian, termasuk Bank Kustodian.
+                     - 40
+**Penjaminan perlu diberi kesempatan untuk memperoleh keterangan mengenai rekening Efek pada Kustodian, termasuk Bank Kustodian.**
 
  Di samping itu, dalam rangka penyelenggaraan daftar pemegang Efek dan pembagian hak-hak yang berkaitan dengan Efek, termasuk dividen, Biro Administrasi Efek juga perlu diberikan kesempatan untuk memperoleh keterangan mengenai rekening Efek pada Kustodian, termasuk Bank Kustodian.
 
@@ -4542,8 +4536,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 41 
-# Yang dimaksud dengan "persyaratan dan tata cara perizinan dalam ayat ini adalah ketentuan mengenai, antara lain: a. persyaratan penyediaan sarana; b. persyaratan tenaga ahli; c. persyaratan permodalan; dan d. tata cara pengajuan permohonan izin.
+                     - 41
+**Yang dimaksud dengan "persyaratan dan tata cara perizinan dalam ayat ini adalah ketentuan mengenai, antara lain: a. persyaratan penyediaan sarana; b. persyaratan tenaga ahli; c. persyaratan permodalan; dan d. tata cara pengajuan permohonan izin.**
 
  Pasal 49
 
@@ -4574,8 +4568,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 42 
-# Pasal 51
+                     - 42
+**Pasal 51**
 
  Ayat (1)
 
@@ -4606,8 +4600,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 43 
-# a. utang pokok dan bunga serta manfaat lain dari Emiten; b. saat jatuh tempo; c. jaminan (jika ada); d. agen pembayaran; dan e. tugas dan fungsi Wali Amanat.
+                     - 43
+**a. utang pokok dan bunga serta manfaat lain dari Emiten; b. saat jatuh tempo; c. jaminan (jika ada); d. agen pembayaran; dan e. tugas dan fungsi Wali Amanat.**
 
  Pasal 53
 
@@ -4636,8 +4630,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 44 
-# c. penyelesaian Transaksi Bursa secara elektronik atau cara lain yang mungkin ditemukan dan diterapkan di masa datang sesuai dengan perkembangan teknologi; dan d. penyelesaian Transaksi Bursa lain yang wajib dilaksanakan apabila terdapat peraturan perundang-undangan baru.
+                     - 44
+**c. penyelesaian Transaksi Bursa secara elektronik atau cara lain yang mungkin ditemukan dan diterapkan di masa datang sesuai dengan perkembangan teknologi; dan d. penyelesaian Transaksi Bursa lain yang wajib dilaksanakan apabila terdapat peraturan perundang-undangan baru.**
 
  Ayat (2)
 
@@ -4666,8 +4660,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 45 
-# Ketentuan ini dimaksudkan untuk memastikan bahwa para pemegang rekening pada Lembaga Penyimpanan dan Penyelesaian berdasarkan Undang-undang ini diakui sebagai pemilik Efek atau Pihak yang berhak atas Efek di mana kepentingannya diwakili oleh Lembaga Penyimpanan dan Penyelesaian dengan mencatatkan nama Lembaga Penyimpanan dan Penyelesaian tersebut dalam buku daftar pemegang Efek Emiten.
+                  - 45
+**Ketentuan ini dimaksudkan untuk memastikan bahwa para pemegang rekening pada Lembaga Penyimpanan dan Penyelesaian berdasarkan Undang-undang ini diakui sebagai pemilik Efek atau Pihak yang berhak atas Efek di mana kepentingannya diwakili oleh Lembaga Penyimpanan dan Penyelesaian dengan mencatatkan nama Lembaga Penyimpanan dan Penyelesaian tersebut dalam buku daftar pemegang Efek Emiten.**
 
  Ayat (2)
 
@@ -4694,8 +4688,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 46 
-# Penyelesaian, Bank Kustodian, atau Perusahaan Efek untuk memberikan tanda bukti pencatatan sebagai konfirmasi kepada pemegang rekening dari Lembaga Penyimpanan dan Penyelesaian, Bank Kustodian, atau Perusahaan Efek dimaksud.
+                     - 46
+**Penyelesaian, Bank Kustodian, atau Perusahaan Efek untuk memberikan tanda bukti pencatatan sebagai konfirmasi kepada pemegang rekening dari Lembaga Penyimpanan dan Penyelesaian, Bank Kustodian, atau Perusahaan Efek dimaksud.**
 
  Pasal 57
 
@@ -4723,8 +4717,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 47 
-# Ketentuan ayat ini dimaksudkan untuk menjamin bahwa Efek yang dimasukkan dalam Penitipan Kolektif adalah Efek yang baik dalam arti bebas dari permasalahan, termasuk dari gugatan Pihak mana pun yang menyatakan berhak atas Efek dimaksud. Hal ini diperlukan agar Efek yang masuk dalam Penitipan Kolektif benar-benar Efek yang siap untuk diperjualbelikan. Efek yang hilang atau musnah dianggap Efek yang bermasalah, sehingga tidak dapat dimasukkan dalam Penitipan Kolektif. Namun, kemungkinan dapat terjadi bahwa Efek yang hilang atau musnah tersebut dimiliki oleh Pihak dan tidak dialihkan kepada Pihak lain serta Pihak tersebut dapat membuktikan bahwa Efek tersebut adalah milik sendiri. Dalam hal ini, Emiten dapat menerima pencatatan Efek dimaksud ke dalam Penitipan Kolektif dan mengambil alih tanggung jawab terhadap pencatatan Efek dimaksud ke dalam Penitipan Kolektif.
+                     - 47
+**Ketentuan ayat ini dimaksudkan untuk menjamin bahwa Efek yang dimasukkan dalam Penitipan Kolektif adalah Efek yang baik dalam arti bebas dari permasalahan, termasuk dari gugatan Pihak mana pun yang menyatakan berhak atas Efek dimaksud. Hal ini diperlukan agar Efek yang masuk dalam Penitipan Kolektif benar-benar Efek yang siap untuk diperjualbelikan. Efek yang hilang atau musnah dianggap Efek yang bermasalah, sehingga tidak dapat dimasukkan dalam Penitipan Kolektif. Namun, kemungkinan dapat terjadi bahwa Efek yang hilang atau musnah tersebut dimiliki oleh Pihak dan tidak dialihkan kepada Pihak lain serta Pihak tersebut dapat membuktikan bahwa Efek tersebut adalah milik sendiri. Dalam hal ini, Emiten dapat menerima pencatatan Efek dimaksud ke dalam Penitipan Kolektif dan mengambil alih tanggung jawab terhadap pencatatan Efek dimaksud ke dalam Penitipan Kolektif.**
 
  Ayat (4)
 
@@ -4752,8 +4746,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 48 
-# Pasal 60
+                     - 48
+**Pasal 60**
 
  Ayat (1)
 
@@ -4780,8 +4774,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 49 
-# Ketentuan mengenai Penitipan Kolektif diperlukan agar pemegang Efek, khususnya pemegang saham, secara jelas mengetahui dan dapat melaksanakan hak-haknya atas Efek yang tercatat dalam Penitipan Kolektif.
+                     - 49
+**Ketentuan mengenai Penitipan Kolektif diperlukan agar pemegang Efek, khususnya pemegang saham, secara jelas mengetahui dan dapat melaksanakan hak-haknya atas Efek yang tercatat dalam Penitipan Kolektif.**
 
  Pasal 63
  Cukup jelas
@@ -4820,10 +4814,10 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 50 
+   - 50
 ```
 
-# Ayat (3)…
+**Ayat (3)…**
 
  Ayat (3)
 
@@ -4849,16 +4843,15 @@ REPUBLIK INDONESIA
 
  Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 51 
+   - 51
 ```
 
-# Pasal 66…
+**Pasal 66…**
 
  Pasal 66
 
@@ -4884,14 +4877,13 @@ REPUBLIK INDONESIA
 
  Meskipun pengaturan suatu hal tertentu sudah diatur dalam Standar Akuntansi Keuangan sebagaimana dimaksud dalam penjelasan ayat (1), tetapi apabila belum mencakup hal-hal yang dibutuhkan di Pasar Modal seperti dalam rangka
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 52 
-# memenuhi asas keterbukaan, Bapepam dapat menetapkan ketentuan mengenai hal tersebut secara khusus untuk melindungi kepentingan publik.
+                     - 52
+**memenuhi asas keterbukaan, Bapepam dapat menetapkan ketentuan mengenai hal tersebut secara khusus untuk melindungi kepentingan publik.**
  Pasal 70… Pasal 70
 
  Ayat (1)
@@ -4924,13 +4916,12 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 53 
+   - 53
 ```
 
-# Cukup jelas
+**Cukup jelas**
 
-
-# Pasal 73…
+**Pasal 73…**
 
  Pasal 73
 
@@ -4959,14 +4950,13 @@ REPUBLIK INDONESIA
 
  Pasal 75
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 54 
-# Ayat (1)
+                     - 54
+**Ayat (1)**
 
  Cukup jelas
  Ayat (2)… Ayat (2)
@@ -5004,8 +4994,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 55 
-# menggunakan keterangan yang tidak benar dengan menyebutkan bahwa Bapepam telah memberikan persetujuan, izin, pengesahan, penelitian, atau penilaian atas berbagai segi keunggulan suatu Efek dengan maksud untuk mempengaruhi masyarakat agar membeli Efek yang ditawarkan.
+                     - 55
+**menggunakan keterangan yang tidak benar dengan menyebutkan bahwa Bapepam telah memberikan persetujuan, izin, pengesahan, penelitian, atau penilaian atas berbagai segi keunggulan suatu Efek dengan maksud untuk mempengaruhi masyarakat agar membeli Efek yang ditawarkan.**
 
  Ayat (3)… Ayat (3)
 
@@ -5039,8 +5029,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 56 
-# Pendaftaran. Oleh karena itu, pemodal hanya dapat menuntut ganti rugi atas kerugian yang timbul akibat dari pendapat atau penilaian yang diberikan Profesi Penunjang Pasar Modal.
+                     - 56
+**Pendaftaran. Oleh karena itu, pemodal hanya dapat menuntut ganti rugi atas kerugian yang timbul akibat dari pendapat atau penilaian yang diberikan Profesi Penunjang Pasar Modal.**
 
  Ayat (3)…
 
@@ -5076,8 +5066,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 57 
-# untuk terlebih dahulu memperoleh persetujuan mayoritas dari pemegang saham independen.
+                     - 57
+**untuk terlebih dahulu memperoleh persetujuan mayoritas dari pemegang saham independen.**
 
  Ayat (3)… Ayat (3)
 
@@ -5102,8 +5092,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 58 
-# Ketentuan yang dimaksud dalam Pasal ini ditujukan untuk melindungi kepentingan pemodal dari praktik yang merugikan pemodal dalam transaksi penggabungan, peleburan, atau pengambilalihan, termasuk penyertaan yang melibatkan Emiten atau Perusahaan Publik, dengan mewajibkan Emiten atau Perusahaan Publik dimaksud untuk memenuhi Prinsip Keterbukaan dan pelaporan yang ditetapkan oleh Bapepam. Pelaksanaan ketentuan ini dilakukan tanpa mengurangi ketentuan Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatas.
+                     - 58
+**Ketentuan yang dimaksud dalam Pasal ini ditujukan untuk melindungi kepentingan pemodal dari praktik yang merugikan pemodal dalam transaksi penggabungan, peleburan, atau pengambilalihan, termasuk penyertaan yang melibatkan Emiten atau Perusahaan Publik, dengan mewajibkan Emiten atau Perusahaan Publik dimaksud untuk memenuhi Prinsip Keterbukaan dan pelaporan yang ditetapkan oleh Bapepam. Pelaksanaan ketentuan ini dilakukan tanpa mengurangi ketentuan Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatas.**
 
  Pasal 85…
 
@@ -5136,8 +5126,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 59 
-# diwajibkan menyampaikan laporan sebagaimana dimaksud dalam ayat (1). Persyaratan dimaksud, antara lain, berupa penentuan maksimal jumlah pemegang saham dan modal disetor Perusahaan Publik yang tidak diwajibkan untuk menyampaikan laporan sebagaimana dimaksud dalam ayat (1). Ketentuan ini tidak berarti bahwa Perusahaan Publik yang Pernyataan Pendaftarannya telah menjadi efektif tidak wajib menyampaikan laporan sebagaimana dimaksud dalam ayat (1) meskipun tidak memenuhi persyaratan sebagai Perusahaan Publik.
+                     - 59
+**diwajibkan menyampaikan laporan sebagaimana dimaksud dalam ayat (1). Persyaratan dimaksud, antara lain, berupa penentuan maksimal jumlah pemegang saham dan modal disetor Perusahaan Publik yang tidak diwajibkan untuk menyampaikan laporan sebagaimana dimaksud dalam ayat (1). Ketentuan ini tidak berarti bahwa Perusahaan Publik yang Pernyataan Pendaftarannya telah menjadi efektif tidak wajib menyampaikan laporan sebagaimana dimaksud dalam ayat (1) meskipun tidak memenuhi persyaratan sebagai Perusahaan Publik.**
 
  Pasal 87…
 
@@ -5174,8 +5164,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 60 
-# Yang dimaksud dengan pengecualian dalam ayat ini, antara lain berupa formula rahasia produk atau jasa yang dihasilkan oleh perusahaan.
+                     - 60
+**Yang dimaksud dengan pengecualian dalam ayat ini, antara lain berupa formula rahasia produk atau jasa yang dihasilkan oleh perusahaan.**
 
  Pasal 90
 
@@ -5203,8 +5193,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 61 
-# Pasal 95
+                     - 61
+**Pasal 95**
 
  Yang dimaksud dengan orang dalam dalam Pasal ini adalah: a. komisaris, direktur, atau pegawai Emiten atau Perusahaan Publik; b. pemegang saham utama Emiten atau Perusahaan Publik; c. orang perseorangan yang karena kedudukan atau profesinya atau karena hubungan usahanya dengan Emiten atau Perusahaan Publik memungkinkan orang tersebut memperoleh informasi orang dalam; atau
 
@@ -5232,8 +5222,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 62 
-# Yang dimaksud dengan "transaksi dalam huruf ini adalah semua bentuk transaksi yang terjadi antara Emiten atau Perusahaan Publik dan perusahaan lain, termasuk transaksi atas Efek perusahaan lain tersebut yang dilakukan oleh Emiten atau Perusahaan Publik yang bersangkutan.
+                     - 62
+**Yang dimaksud dengan "transaksi dalam huruf ini adalah semua bentuk transaksi yang terjadi antara Emiten atau Perusahaan Publik dan perusahaan lain, termasuk transaksi atas Efek perusahaan lain tersebut yang dilakukan oleh Emiten atau Perusahaan Publik yang bersangkutan.**
 
  Pasal 96…
 
@@ -5258,8 +5248,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 63 
-# a. berusaha memperoleh informasi orang dalam dengan cara mencuri; b. berusaha memperoleh informasi orang dalam dengan cara membujuk orang dalam; dan c. berusaha memperoleh informasi orang dalam dengan cara kekerasan atau ancaman.
+                     - 63
+**a. berusaha memperoleh informasi orang dalam dengan cara mencuri; b. berusaha memperoleh informasi orang dalam dengan cara membujuk orang dalam; dan c. berusaha memperoleh informasi orang dalam dengan cara kekerasan atau ancaman.**
 
  Ayat (2)
 
@@ -5288,8 +5278,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 64 
-# sebagai bukti atas pelanggaran terhadap Undang-undang ini dan atau peraturan pelaksanaannya.
+                  - 64
+**sebagai bukti atas pelanggaran terhadap Undang-undang ini dan atau peraturan pelaksanaannya.**
 
  Ayat (2)
 
@@ -5312,8 +5302,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 65 
-# a. tata cara penyusunan program pemeriksaan; b. tata cara pelaksanaan pemeriksaan; dan c. tata cara pelaporan hasil pemeriksaan.
+                     - 65
+**a. tata cara penyusunan program pemeriksaan; b. tata cara pelaksanaan pemeriksaan; dan c. tata cara pelaporan hasil pemeriksaan.**
 
  Ayat (4)
 
@@ -5342,8 +5332,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                  - 66 
-# lingkungan Bapepam yang diangkat oleh Menteri Kehakiman sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+                  - 66
+**lingkungan Bapepam yang diangkat oleh Menteri Kehakiman sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.**
 
  Ayat (3)
 
@@ -5391,8 +5381,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 67 
-# Yang dimaksud dengan aparat penegak hukum lain dalam ayat ini antara lain aparat penegak hukum dari Kepolisian Republik Indonesia, Direktorat Jenderal Imigrasi, Departemen Kehakiman, dan Kejaksaan Agung.
+                     - 67
+**Yang dimaksud dengan aparat penegak hukum lain dalam ayat ini antara lain aparat penegak hukum dari Kepolisian Republik Indonesia, Direktorat Jenderal Imigrasi, Departemen Kehakiman, dan Kejaksaan Agung.**
 
  Ayat 7
  Cukup jelas
@@ -5431,10 +5421,10 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-   - 68 
+   - 68
 ```
 
-# Cukup jelas
+**Cukup jelas**
 
  Huruf g
  Cukup jelas
@@ -5460,11 +5450,9 @@ REPUBLIK INDONESIA
 
  Ayat (1)
 
+**Pasal 105…**
 
-# Pasal 105…
-
-
-# Ayat ini menegaskan bahwa setiap Penawaran Umum harus dilakukan sesuai dengan ketentuan yang diatur dalam Pasal 70 ayat (1). Sesuai dengan ketentuan Pasal 1 angka 6, Emiten diartikan sebagai Pihak yang melakukan Penawaran Umum sehingga wajib menyampaikan Pernyataan Pendaftaran kepada Bapepam dan Pernyataan Pendaftaran tersebut telah menjadi efektif. Oleh karena itu, setiap Pihak yang bermaksud melakukan Penawaran Umum wajib memenuhi ketentuan Pasal 70 ayat (1) dan apabila dilanggar diancam dengan pidana berdasarkan ketentuan ayat ini. Ayat (2)
+**Ayat ini menegaskan bahwa setiap Penawaran Umum harus dilakukan sesuai dengan ketentuan yang diatur dalam Pasal 70 ayat (1). Sesuai dengan ketentuan Pasal 1 angka 6, Emiten diartikan sebagai Pihak yang melakukan Penawaran Umum sehingga wajib menyampaikan Pernyataan Pendaftaran kepada Bapepam dan Pernyataan Pendaftaran tersebut telah menjadi efektif. Oleh karena itu, setiap Pihak yang bermaksud melakukan Penawaran Umum wajib memenuhi ketentuan Pasal 70 ayat (1) dan apabila dilanggar diancam dengan pidana berdasarkan ketentuan ayat ini. Ayat (2)**
 
  Yang dimaksud dengan Pihak dalam ayat ini adalah Perusahaan Publik sebagaimana dimaksud dalam Pasal 1 angka 22.
 
@@ -5476,14 +5464,13 @@ REPUBLIK INDONESIA
 
  Pasal 109
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 69 
-# Cukup jelas
+                     - 69
+**Cukup jelas**
 
  Pasal 110
 
@@ -5528,4 +5515,3 @@ REPUBLIK INDONESIA
 ```
 
 -----
-

@@ -23,17 +23,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penetapan Status dan Tindak Lanjut Pengawasan Perusahaan Perasuransian, Lembaga Penjamin, dan Dana Pensiun
+**Penetapan Status dan Tindak Lanjut Pengawasan Perusahaan Perasuransian, Lembaga Penjamin, dan Dana Pensiun**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/350218/peraturan-ojk-no-37-tahun-2025
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/350218/peraturan-ojk-no-37-tahun-2025)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -82,7 +87,6 @@ Penguatan Sektor Keuangan (Lembaran Negara
 Republik Indonesia Tahun 2023 Nomor 4, Tambahan
 Lembaran Negara Republik Indonesia Nomor 6845);
 
-
 -----
 
 2. Undang-Undang Nomor 40 Tahun 2014 tentang
@@ -119,7 +123,7 @@ DAN DANA PENSIUN.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
 dengan:
 1. Perusahaan Perasuransian, Lembaga Penjamin, dan
@@ -141,7 +145,6 @@ bertugas melakukan pengawasan secara umum
 dan/atau khusus sesuai dengan anggaran dasar serta
 memberi nasihat kepada Direksi bagi PPDP yang
 berbentuk badan hukum perseroan terbatas, atau yang
-
 
 -----
 
@@ -178,7 +181,7 @@ menentukan Direksi, Dewan Komisaris, atau yang
 setara dengan Direksi atau Dewan Komisaris pada
 perusahaan perasuransian.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Peraturan Otoritas Jasa Keuangan ini mengatur
 penetapan status dan tindak lanjut pengawasan bagi
 PPDP.
@@ -200,7 +203,6 @@ sebagaimana dimaksud dalam ketentuan
 peraturan perundang-undangan mengenai
 penjaminan; dan
 
-
 -----
 
 c. dana pensiun sebagaimana dimaksud dalam
@@ -214,7 +216,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) Otoritas Jasa Keuangan berwenang menetapkan status
 pengawasan terhadap PPDP.
 (2) Status pengawasan sebagaimana dimaksud pada ayat
@@ -243,7 +245,7 @@ faktor sebagaimana dimaksud pada ayat (3).
 Bagian Kedua
 Kriteria dan Jangka Waktu Status Pengawasan Intensif
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Otoritas Jasa Keuangan menetapkan PPDP dengan
 status pengawasan intensif sebagaimana dimaksud
 dalam Pasal 3 ayat (2) huruf b, jika memenuhi kriteria:
@@ -260,7 +262,6 @@ dimaksud pada ayat (1) huruf c ditentukan sebagai
 berikut:
 a. bagi perusahaan perasuransian, memenuhi
 parameter kuantitatif:
-
 
 -----
 
@@ -318,10 +319,9 @@ dari 100% (seratus persen); dan/atau
 kali dan lebih kecil atau sama dengan 50 (lima
 puluh kali).
 
-
 -----
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Otoritas Jasa Keuangan menetapkan PPDP dengan
 status pengawasan intensif sebagaimana dimaksud
 dalam Pasal 4 ayat (1) untuk jangka waktu paling lama
@@ -352,7 +352,7 @@ dimaksud pada ayat (2) berakhir, Otoritas Jasa
 Keuangan menetapkan peningkatan status
 pengawasan.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) PPDP yang memenuhi kriteria sebagaimana dimaksud
 dalam Pasal 4 dapat tidak ditetapkan pada status
 pengawasan intensif dalam jangka waktu tertentu oleh
@@ -377,7 +377,6 @@ peleburan, atau pengambilalihan;
 b. tidak menindaklanjuti proses penambahan modal
 disetor;
 
-
 -----
 
 c. mengalami pemburukan kondisi keuangan;
@@ -387,7 +386,7 @@ usaha,
 Otoritas Jasa Keuangan menetapkan sebagai PPDP
 dengan status pengawasan intensif.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Otoritas Jasa Keuangan dapat menetapkan perubahan
 status pengawasan dari status pengawasan intensif
 menjadi status pengawasan normal jika kondisi PPDP
@@ -401,7 +400,7 @@ Direksi dan Dewan Komisaris PPDP.
 Bagian Ketiga
 Kriteria dan Jangka Waktu Status Pengawasan Khusus
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Otoritas Jasa Keuangan menetapkan PPDP dengan
 status pengawasan khusus sebagaimana dimaksud
 dalam Pasal 3 ayat (2) huruf c, jika memenuhi kriteria:
@@ -436,7 +435,6 @@ dengan 24 (dua puluh empat) bulan dan
 akumulasi kekurangan iuran lebih besar atau
 sama dengan 24 (dua puluh empat) kali ratarata iuran jatuh tempo per bulan;
 
-
 -----
 
 c. bagi dana pensiun pemberi kerja yang
@@ -460,7 +458,7 @@ puluh persen); dan/atau
 2. _gearing ratio lebih besar dari 50 (lima puluh)_
 kali.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Otoritas Jasa Keuangan menetapkan PPDP dengan
 status pengawasan khusus sebagaimana dimaksud
 dalam Pasal 8 ayat (1) untuk jangka waktu paling lama
@@ -488,10 +486,9 @@ mengikuti jangka waktu dalam perubahan rencana
 tindak yang telah mendapatkan pernyataan tidak
 keberatan.
 
-
 -----
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) PPDP yang memenuhi kriteria sebagaimana dimaksud
 dalam Pasal 8 dapat tidak ditetapkan pada status
 pengawasan khusus dalam jangka waktu tertentu oleh
@@ -523,7 +520,7 @@ usaha,
 Otoritas Jasa Keuangan menetapkan sebagai PPDP
 dalam status pengawasan khusus.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Otoritas Jasa Keuangan dapat menetapkan perubahan
 status pengawasan dari status pengawasan khusus
 menjadi status pengawasan normal atau pengawasan
@@ -542,12 +539,11 @@ Bagian Kesatu
 
 Umum
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Dalam hal PPDP dengan status pengawasan normal
 sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a
 dinilai memiliki permasalahan signifikan yang
 berpotensi membahayakan kelangsungan usahanya,
-
 
 -----
 
@@ -558,7 +554,7 @@ dimaksud pada ayat (1) wajib melaksanakan tindakan
 pengawasan yang diperintahkan Otoritas Jasa
 Keuangan.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Otoritas Jasa Keuangan menyampaikan surat
 pemberitahuan penetapan status pengawasan PPDP
 sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf b
@@ -579,7 +575,7 @@ PPDP.
 Bagian Kedua
 Rencana Tindak
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) PPDP dengan status pengawasan normal sebagaimana
 dimaksud dalam Pasal 12 ayat (1), status pengawasan
 intensif sebagaimana dimaksud dalam Pasal 4 ayat (1),
@@ -606,7 +602,6 @@ f. tidak membagikan _surplus underwriting dana_
 _tabarru’ kepada perusahaan dan/atau peserta;_
 g. memberikan _qardh dan/atau hibah kepada dana_
 _tabarru’ dan/atau dana tanahud;_
-
 
 -----
 
@@ -650,7 +645,7 @@ pendiri dalam hal tindakan dalam rencana tersebut
 merupakan kewenangan rapat umum pemegang
 saham, rapat umum anggota, atau rapat pendiri.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) Rencana tindak sebagaimana dimaksud dalam Pasal 14
 ayat (1) harus memperoleh pernyataan tidak keberatan
 dari Otoritas Jasa Keuangan.
@@ -665,7 +660,6 @@ pengawasan khusus.
 ayat (1) dinilai masih memerlukan perbaikan, Otoritas
 Jasa Keuangan dalam jangka waktu 15 (lima belas) hari
 kerja terhitung sejak rencana tindak diterima secara
-
 
 -----
 
@@ -701,7 +695,7 @@ dapat melaksanakan rencana tindak setelah
 mendapatkan pernyataan tidak keberatan dari Otoritas
 Jasa Keuangan.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) PPDP wajib melaksanakan rencana tindak yang telah
 memperoleh pernyataan tidak keberatan dari Otoritas
 Jasa Keuangan sebagaimana dimaksud dalam Pasal 15
@@ -726,12 +720,11 @@ a. permasalahan PPDP;
 b. tindakan perbaikan yang telah dilakukan oleh
 PPDP; dan
 
-
 -----
 
 c. waktu pelaksanaan perbaikan.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) PPDP dapat mengajukan permohonan perubahan
 rencana tindak yang telah memperoleh pernyataan
 tidak keberatan dari Otoritas Jasa Keuangan dengan
@@ -760,7 +753,7 @@ tidak keberatan.
 Bagian Ketiga
 Pembatasan Kegiatan Usaha Tertentu PPDP
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) Dalam hal Otoritas Jasa Keuangan menilai:
 a. kondisi PPDP semakin memburuk;
 b. terdapat kegiatan usaha tertentu yang menjadi
@@ -784,7 +777,6 @@ PSP, Pengendali Perusahaan Perasuransian, pendiri,
 dan/atau pemberi kerja disertai dengan jangka waktu
 pembatasan kegiatan usaha tertentu.
 
-
 -----
 
 (3) Otoritas Jasa Keuangan dapat mengumumkan
@@ -792,7 +784,7 @@ pengenaan pembatasan kegiatan usaha tertentu
 terhadap PPDP sebagaimana dimaksud pada ayat (1),
 pada situs web Otoritas Jasa Keuangan.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) PPDP yang dikenai pembatasan kegiatan usaha
 tertentu sebagaimana dimaksud dalam Pasal 18 ayat (1)
 wajib:
@@ -812,7 +804,7 @@ ayat (2).
 Bagian Keempat
 PPDP yang Tidak Dapat Disehatkan
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) PPDP dengan status pengawasan khusus ditetapkan
 oleh Otoritas Jasa Keuangan tidak dapat disehatkan,
 apabila:
@@ -838,13 +830,12 @@ pendiri, dan/atau pemberi kerja.
 izin usaha PPDP sebagaimana dimaksud pada ayat (2)
 pada situs web Otoritas Jasa Keuangan.
 
-
 -----
 
 Bagian Kelima
 Sanksi Administratif
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) PPDP yang melanggar ketentuan Pasal 12 ayat (2), Pasal
 13 ayat (2), Pasal 14 ayat (1), ayat (4), Pasal 15 ayat (5),
 Pasal 16 ayat (1), ayat (2), dan/atau Pasal 19 dikenai
@@ -855,7 +846,7 @@ b. penurunan tingkat kesehatan.
 sebagaimana dimaksud pada ayat (1) huruf a, Otoritas
 Jasa Keuangan mencabut sanksi peringatan tertulis.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 Terhadap pelanggaran ketentuan sanksi administratif
 sebagaimana dimaksud dalam Pasal 21 ayat (1), Otoritas
 Jasa Keuangan dapat melakukan penilaian kembali
@@ -866,7 +857,7 @@ pihak utama lembaga jasa keuangan.
 BAB IV
 TATA CARA PENYAMPAIAN LAPORAN
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Penyampaian dokumen sebagaimana dimaksud dalam
 Pasal 14 ayat (1), Pasal 15 ayat (5), Pasal 16 ayat (2),
 dan/atau Pasal 17 ayat (2) kepada Otoritas Jasa
@@ -896,18 +887,17 @@ b. penyampaian melalui surat elektronik atau secara
 luring dibuktikan dengan tanda terima dari
 Otoritas Jasa Keuangan.
 
-
 -----
 
 BAB V
 KETENTUAN LAIN LAIN
 
-Pasal 24
+### Pasal 24 ^pasal-24
 Otoritas Jasa Keuangan berdasarkan pertimbangan tertentu
 dapat memberikan persetujuan atau kebijakan yang berbeda
 dengan Peraturan Otoritas Jasa Keuangan ini.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 Penetapan status pengawasan bagi lembaga penjamin untuk
 pertama kali didasarkan pada:
 a. hasil penilaian tingkat kesehatan lembaga penjamin
@@ -915,7 +905,7 @@ untuk periode tahun 2026; dan
 b. parameter kuantitatif berdasarkan laporan keuangan
 tahun 2026 yang telah diaudit.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 Ketentuan mengenai kriteria Tingkat Kesehatan PPDP dalam
 penetapan status pengawasan sebagaimana dimaksud
 dalam Pasal 4 ayat (1) huruf a dan huruf b dan Pasal 8 ayat
@@ -927,7 +917,7 @@ penilaian tingkat kesehatan PPDP.
 BAB VI
 KETENTUAN PERALIHAN
 
-Pasal 27
+### Pasal 27 ^pasal-27
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. Penetapan perusahaan perasuransian dan dana
@@ -947,7 +937,7 @@ Keuangan Nomor 9/POJK.05/2021 tentang Penetapan
 Status dan Tindak Lanjut Pengawasan Lembaga Jasa
 Keuangan Nonbank.
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) Setiap sanksi administratif yang telah dikenakan
 terhadap PPDP berdasarkan Peraturan Otoritas Jasa
 Keuangan Nomor 9/POJK.05/2021 tentang Penetapan
@@ -955,7 +945,6 @@ Status dan Tindak Lanjut Pengawasan Lembaga Jasa
 Keuangan Nonbank dinyatakan tetap berlaku
 sepanjang tidak bertentangan dengan Peraturan
 Otoritas Jasa Keuangan ini.
-
 
 -----
 
@@ -970,7 +959,7 @@ Keuangan ini.
 BAB VII
 KETENTUAN PENUTUP
 
-Pasal 29
+### Pasal 29 ^pasal-29
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, ketentuan pelaksanaan dari Peraturan Otoritas
 Jasa Keuangan Nomor 9/POJK.05/2021 tentang Penetapan
@@ -981,7 +970,7 @@ Republik Indonesia Nomor 6690), dinyatakan tetap berlaku
 sepanjang tidak bertentangan dengan Peraturan Otoritas
 Jasa Keuangan ini.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, ketentuan mengenai penetapan status dan tindak
 lanjut pengawasan dalam Peraturan Otoritas Jasa Keuangan
@@ -992,10 +981,9 @@ Nomor 144, Tambahan Lembaran Negara Republik
 Indonesia Nomor 6690), dicabut dan dinyatakan tidak
 berlaku.
 
-Pasal 31
+### Pasal 31 ^pasal-31
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku 6
 (enam) bulan sejak tanggal diundangkan.
-
 
 -----
 
@@ -1026,16 +1014,15 @@ SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR   Ж
 
-
 Ѽ
-
 
 Ж
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -1047,8 +1034,6 @@ TENTANG
 PENETAPAN STATUS DAN TINDAK LANJUT PENGAWASAN PERUSAHAAN
 
 PERASURANSIAN, LEMBAGA PENJAMIN, DAN DANA PENSIUN
-
-I. UMUM
 
 PPDP yang sehat merupakan salah satu persyaratan untuk
 mendukung terciptanya sistem perekonomian nasional yang tangguh
@@ -1086,21 +1071,16 @@ Mekanisme exit policy bagi PPDP yang efektif dan efisien pada akhirnya
 akan meningkatkan pelindungan konsumen PPDP dan meningkatkan
 kepercayaan konsumen kepada PPDP.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
 
 
 -----
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Cukup jelas.
@@ -1136,9 +1116,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Cukup jelas.
@@ -1254,7 +1232,7 @@ menggunakan rumus sebagai berikut:
 |---|---|
 
 
-# =
+**=**
 
 
 𝑃𝑖𝑢𝑡𝑎𝑛𝑔 𝐼𝑢𝑟𝑎𝑛
@@ -1264,20 +1242,20 @@ menggunakan rumus sebagai berikut:
 
 𝑃𝑖𝑢𝑡𝑎𝑛𝑔 𝐼𝑢𝑟𝑎𝑛
 
-# = 
+**=**
 
 (𝐴𝑘𝑢𝑚𝑢𝑙𝑎𝑠𝑖 𝑖𝑢𝑟𝑎𝑛 𝑗𝑎𝑡𝑢ℎ 𝑡𝑒𝑚𝑝𝑜/𝑗𝑢𝑚𝑙𝑎ℎ 𝑏𝑢𝑙𝑎𝑛)
 
 𝑅𝑝230.000.000
 
-# = 
+**=**
 
 (𝑅𝑝250.000.000/7𝑏𝑢𝑙𝑎𝑛 )
 
 
 𝑅𝑝230.000.000
 
-# = 
+**=**
 
 𝑅𝑝35.714.285 [= 6,44]
 
@@ -1344,7 +1322,7 @@ menghitung akumulasi kekurangan iuran
 menggunakan rumus sebagai berikut:
 
 
-# =
+**=**
 
 
 𝑃𝑖𝑢𝑡𝑎𝑛𝑔 𝐼𝑢𝑟𝑎𝑛
@@ -1354,20 +1332,20 @@ menggunakan rumus sebagai berikut:
 
 𝑃𝑖𝑢𝑡𝑎𝑛𝑔 𝐼𝑢𝑟𝑎𝑛
 
-# = 
+**=**
 
 (𝐴𝑘𝑢𝑚𝑢𝑙𝑎𝑠𝑖 𝑖𝑢𝑟𝑎𝑛 𝑗𝑎𝑡𝑢ℎ 𝑡𝑒𝑚𝑝𝑜/𝑗𝑢𝑚𝑙𝑎ℎ 𝑏𝑢𝑙𝑎𝑛)
 
 𝑅𝑝230.000.000
 
-# = 
+**=**
 
 (𝑅𝑝250.000.000/7𝑏𝑢𝑙𝑎𝑛 )
 
 
 𝑅𝑝230.000.000
 
-# = 
+**=**
 
 𝑅𝑝35.714.285 [= 6,44]
 
@@ -1420,7 +1398,7 @@ menghitung akumulasi kekurangan iuran
 menggunakan rumus sebagai berikut:
 
 
-# =
+**=**
 
 
 𝑃𝑖𝑢𝑡𝑎𝑛𝑔 𝐼𝑢𝑟𝑎𝑛
@@ -1430,20 +1408,20 @@ menggunakan rumus sebagai berikut:
 
 𝑃𝑖𝑢𝑡𝑎𝑛𝑔 𝐼𝑢𝑟𝑎𝑛
 
-# = 
+**=**
 
 (𝐴𝑘𝑢𝑚𝑢𝑙𝑎𝑠𝑖 𝑖𝑢𝑟𝑎𝑛 𝑗𝑎𝑡𝑢ℎ 𝑡𝑒𝑚𝑝𝑜/𝑗𝑢𝑚𝑙𝑎ℎ 𝑏𝑢𝑙𝑎𝑛)
 
 𝑅𝑝210.000.000
 
-# = 
+**=**
 
 (𝑅𝑝250.000.000/7𝑏𝑢𝑙𝑎𝑛 )
 
 
 𝑅𝑝210.000.000
 
-# = 
+**=**
 
 𝑅𝑝35.714.285 [= 5,88]
 
@@ -1479,9 +1457,7 @@ Lihat penjelasan huruf a angka 2.
 Angka 2
 
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Perhitungan jangka waktu status pengawasan PPDP paling
@@ -1512,9 +1488,7 @@ sebelumnya.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 PPDP yang tidak ditetapkan ke dalam status PPDP dalam
@@ -1543,13 +1517,9 @@ adalah pembubaran dana pensiun.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Cukup jelas.
@@ -1605,9 +1575,7 @@ Lihat penjelasan Pasal 4 ayat (2) huruf a angka 2.
 Angka 2
 
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Ayat (1)
 
 Perhitungan jangka waktu status pengawasan PPDP paling
@@ -1625,9 +1593,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Huruf a
@@ -1645,17 +1611,11 @@ Lihat penjelasan Pasal 6 ayat (2).
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Cukup jelas.
@@ -1670,9 +1630,7 @@ Ayat (3)
 
 Penilaian Otoritas Jasa Keuangan berdasarkan pada
 kompleksitas permasalahan dan kapasitas usaha PPDP.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Cukup jelas.
@@ -1692,29 +1650,17 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Huruf a
@@ -1734,24 +1680,16 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
 
 
 -----
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Pemberian persetujuan atau kebijakan yang berbeda dimaksudkan
 antara lain untuk:
 a. mendukung kebijakan nasional;
@@ -1765,13 +1703,9 @@ berdampak pada ekonomi dan sosial, sehingga membutuhkan
 perhatian dan penanganan oleh semua pihak terkait serta diatur
 dalam ketentuan lain atas pertimbangan dalam menghadapi
 kemungkinan kejadian luar biasa.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Penetapan status pengawasan bagi lembaga penjamin yang
 didasarkan pada penilaian tingkat kesehatan mulai berlaku pada
 saat hasil penilaian tingkat kesehatan lembaga penjamin untuk
@@ -1786,25 +1720,15 @@ tanggal 15 Februari 2027. Penetapan status pengawasan lembaga
 penjamin dengan menggunakan parameter Peringkat Komposit
 pada penilaian tingkat kesehatan mulai diterapkan setelah 15
 Februari 2027.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR   ⸙
@@ -1815,3 +1739,38 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR   ⸙
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |

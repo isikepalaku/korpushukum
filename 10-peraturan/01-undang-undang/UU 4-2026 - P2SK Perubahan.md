@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan atas UU Nomor 4 Tahun 2023 tentang P2SK
+**Perubahan atas UU Nomor 4 Tahun 2023 tentang P2SK**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -34,15 +40,15 @@ last_updated: 2026-10-28
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDOT{ESI,A
+**PRESIDEN REPUBLIK INDOT{ESI,A**
 
-## UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 4 TAHUN 2026 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 4 TAHUN 2023
+**UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 4 TAHUN 2026 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 4 TAHUN 2023**
 
-## TENTANG PENGEMBANGAN DAN PENGUATAN SEKTOR KEUANGAN
+**TENTANG PENGEMBANGAN DAN PENGUATAN SEKTOR KEUANGAN**
 
-## DENGAN RAHMATTUHAN YANG MAHA ESA
+**DENGAN RAHMATTUHAN YANG MAHA ESA**
 
-## PRESIDEN REPUBLIK INDONESIA,
+**PRESIDEN REPUBLIK INDONESIA,**
 
 Menimbang a, bahwa negara perlu mewujudkan perekonomian nasional yang tangguh melalui optimalisasi pengembangan dan penguatan sektor keuangan sebagai ikhtiar dalam me4iaga keseimbangan kemajuan dan kesatuan ekonomi nasional untuk mewujudkan masyarakat Indonesia yang adil, makmur, dan sejahtera sebagaimana amanat Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun
 
@@ -55,7 +61,7 @@ Mengingat
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 1. Pasal 20, Pasal 2 1, Pasal 23D, Pasal 33, dan Pasal 34 UndangUndang Dasar Negara Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 34 Tahun 1964 tentang Dana Pertanggungan Wajib Kecelakaan Lalu-Lintas Jalan (kmbaran Negara Republik Indonesia Tahun 1964 Nomor 138, Tambahan kmbaran Negara Republik Indonesia Nomor 272t1;
@@ -66,7 +72,7 @@ Mengingat
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 7. Undang-Undang Nomor 21 Tahun 2OO8 tentang Perbankan Syariah (Irmbaran Negara Republik Indonesia Tahun 2008 Nomor 94, Tambahan kmbaran Negara Republik Indonesia Nomor 4867) sebagaimana telah beberapa kali diubah teralrtrir dengan Undang-Undang Nomor 4 Tahun 2O23 tentang Pengembangan dan Pengu.atan Sektor Keuangan (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 68a5);
 8. Undang-Undang Nomor 2l Tahun 2O1 1 tentang Otoritas Jasa Keuangan (kmbaran Negara Republik Indonesia Tahun 2Oll Nomor 111, Tambahan kmbaran Negara Republik Indonesia Nomor 5253) sebagaimana telah diubah dengan UndangUndang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan (lcmbaran Negara Republik Indonesia Tahun 2023 Nomor 4, Tambahan kmbaran Negara Republik Indonesia Nomor 6845);
@@ -78,25 +84,25 @@ Dengan . . .
 
 <!-- image -->
 
-## PRESTDEN REPUBLIK INDONESIA
+**PRESTDEN REPUBLIK INDONESIA**
 
-## Dengan Persetujuan Bersama
+**Dengan Persetujuan Bersama**
 
-## DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan
+**DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan**
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
-## MEMUTUSKAN:
+**MEMUTUSKAN:**
 
 Menetapkan UNDANG-UNDANG TENTANG PERUBAHAN ATAS UNDANGUNDANG NOMOR 4 TAHUN 2023 TENTANG PENGEMBANGAN DAN PENGUATAN SEKTOR KEUANGAN.
 
-## Pasal I
+**Pasal I**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 6845) diubah sebagai berikut:
 
 1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -166,7 +172,7 @@ dalam mata uang Rupiah atau valuta asing.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 34. Pemegang Saham Pengendali yang selanjutnya disingkat PSP adalah badan hukum, orang perseorangan, dan/ atau kelompok usaha baik yang secara langsung maupun tidak langsung memiliki saham atau yang setara dengan saham pada pihak yang melakukan kegiatan di sektor jasa keuangan dan/ atau mempunyai kemampuan untuk melakukan pengendalian atas pihak dimaksud.
 35. Pemegang Saham Pengendali Terakhir (ultimate sharelnldersl yang selanjutnya disingkat PSPI adalah orang perseorangan atau negara yang secara langsung ataupun tidak langsung memiliki saham perusahaan dan merupakan pengendali terakhir atau pemilik manfaat teraktrir (ultimate beneficial ouner) dari suatu perusahaan atau kelompok usaha.
@@ -180,7 +186,7 @@ dalam mata uang Rupiah atau valuta asing.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 41. Inklusi Keuangan adalah ketersediaan akses pemanfaatan atas produk dan/ atau layanan pelaku usaha sektor keuangan yang terjangkau, berkualitas, dan berkelanjutan sesuai dengan kebutuhan dan kemampuan masyarakat untuk meningkatkan kesejahteraan keuangan masyarakat.
 42. Konsumen adalah setiap orang yang memiliki dan/ atau memanfaatkan produk dan/ atau layanan yang disediakan oleh pelaku usaha sektor keuangan.
@@ -206,12 +212,12 @@ dalam mata uang Rupiah atau valuta asing.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -t2-
 2. Ketentuan Pasal 1 pada angka 1 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -232,7 +238,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 9. Bank Sistemik adalah Bank yang karena ukuran aset, modal, dan kewajiban; luas jaringan atau kompleksitas transaksi atas jasa perbankan; serta keterkaitan dengan sektor keuangan lain dapat mengakibatkan gagalnya sebagian atau keseluruhan Bank lain atau sektor jasa keuangan, baik secara operasional maupun finansial, jika Bank tersebut mengalami gangguan atau gagd.
 10. Penjaminan Simpanan Nasabah Bank yang selanjutnya disebut Penjaminan adalah penjaminan yang dilaksanakan oleh Lembaga Penjamin Simpanan atas Simpanan nasabah Bank.
@@ -247,11 +253,11 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 3. Ketentuan Pasal 2 pada angka 2 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 2
+### Pasal 2 ^pasal-2
 
 - (1) Berdasarkan undang-undang mengenai Lembaga Penjamin Simpanan dibentuk Lembaga Penjamin Simpanan.
 2. (21 Lembaga Penjamin Simpanan sebagaimana dimaksud pada ayat (1) merupakan badan hukum.
@@ -259,7 +265,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 4. (41 Lembaga Penjamin Simpanan bertanggung jawab kepada Presiden.
 4. Ketentuan Pasal 4 pada angka 4 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 4
+### Pasal 4 ^pasal-4
 
 Lembaga Penjamin Simpanan berfungsi:
 
@@ -270,7 +276,7 @@ Lembaga Penjamin Simpanan berfungsi:
 - e. melakukan resolusi Perusahaan Asuransi dan Perusahaan Asuransi Syariah.
 5. Ketentuan Pasal 5 pada angka 5 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 5
+### Pasal 5 ^pasal-5
 
 - (1) Dalam menjalankan fungsi menjamin Simpanan Nasabah Penyimpan sebagaimana dimaksud dalam Pasal 4 huruf a, Lembaga Penjamin Simpanan bertugas:
 - a. merumuskan dan menetapkan kebijakan pelaksanaan Penj aminan; dan
@@ -278,7 +284,7 @@ Lembaga Penjamin Simpanan berfungsi:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (21 Dalam menjalankan fungsi menjamin polis asuransi sebagaimana dimaksud dalam Pasal 4 huruf b, Lembaga Penjamin Simpanan bertugas:
 - a. merumuskan dan menetapkan kebijakan pelaksanaan program penjaminan polis; dan
@@ -294,12 +300,12 @@ Lembaga Penjamin Simpanan berfungsi:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -16-
 6. Ketentuan Pasal 6 pada angka 6 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 6
+### Pasal 6 ^pasal-6
 
 - (1) Dalam rangka melaksanakan tugas sebagaimana dimaksud dalam Pasal 5, Lembaga Penjamin Simpanan berwenang:
 - a. menetapkan dan memungut premi Penjaminan dan iuran berkala penjaminan polis;
@@ -329,7 +335,7 @@ Lembaga Penjamin Simpanan berfungsi:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,'I
+**PRESIDEN REPUBLIK INDONESI,'I**
 
 - mengambil alih dan menjalankan segala hak dan wewenang pemegang saham, termasuk hak dan wewenang RUPS; a.
 - menguasai dan mengelola aset dan kewajiban Bank Dalam Resolusi serta Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi; b
@@ -338,25 +344,25 @@ Lembaga Penjamin Simpanan berfungsi:
 7. Di antara angka 6 dan angka 7 dalam Pasal 7 disisipkan 1 (satu) angka yakni angka 6a sehingga berbunyi sebagai berikut:
 - 6a. Di antara Pasal 7 dan Pasal 8 disisipkan 1 (satu) pasal, yakni Pasal 7A sehingga berbunyi sebagai berikut:
 
-## Pasal 7A
+**Pasal 7A**
 
 Ketua Dewan Komisioner Lembaga Penjamin Simpanan, Wakil Ketua Dewan Komisioner Lembaga Penjamin Simpanan, anggota Dewan Komisioner kmbaga Penjamin Simpanan, serta pejabat dan pegawai kmbaga Penjamin Simpanan dalam pelaksanaan Undang-Undang ini mendapat pelindungan hukum jika dalam melaksanakan tugas didasarkan pada iktikad baik dan sesuai dengan ketentuan peraturan perundang-undangan.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESI,A
+**PRESIDEN REPUBUK INDONESI,A**
 
 - -19-
 8. Di antara angka 15 dan angka 16 dalam Pasal 7, disisipkan 3 (tiga) angkayalni angka 15a, angka 15b, dan angka 15c sehingga berbunyi sebagai berikut:
 - 15a. Di antara Bab IV dan Bab V, disisipkan 1 (satu) bab, yakni Bab IVA sehingga berbunyi sebagai berikut:
 
-## BAB IVA
+**BAB IVA**
 
 PENANGANAN BANK DALAM RESOLUSI SERTA PERUSAHAAN ASURANSI DAN PERUSAHAAN ASURANSI SYARIAH DALAM RESOLUSI SEBELUM KEPUTUSAN CARA PENANGANAN
 
 - 15b. Di antara Pasal 2O dan Pasal 21 disisipkan 1 (satu) pasal, yakni Pasal 20A sehingga berbunyi sebagai berikut:
 
-## Pasal 2OA
+**Pasal 2OA**
 
 - (1) Setelah Lembaga Penjamin Simpanan menerima pemberitahuan tertulis dari Otoritas Jasa Keuangan atas penetapan Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan 'Asuransi Syariah Dalam Resolusi sebagaimana dimaksud dalam Pasal 6 ayat (2), Lembaga Penjamin Simpanan dapat melakukan:
 - a. tindakan pengalihan kepada investor; penyehatan dengan melibatkan pemegang saham, investor, dan/atau kreditur; pengalihan dan/ atau penarikan kembali saham milik pemegang saham lama; dan tindakan lainnya selaku RUPS Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi; atau
@@ -364,20 +370,20 @@ PENANGANAN BANK DALAM RESOLUSI SERTA PERUSAHAAN ASURANSI DAN PERUSAHAAN ASURANSI
 
 <!-- image -->
 
-## PRESIDEI{ REPUBUK INDONESI,A
+**PRESIDEI{ REPUBUK INDONESI,A**
 
 - -20-
 - (2) Ketentuan lebih lanjut mengenai tindakan Lembaga Penjamin Simpanan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan kmbaga Penjamin Simpanan.
 - 15c. Judul Bab V diubah sehingga berbunyi sebagai berikut:
 
-## BAB V
+**BAB V**
 
 PEI.IYELESAIAN DAN PENANGANAN BANK DALAM RESOLUSI SERTA PERUSAHAAN ASURANSI DAN PERUSAHAAN ASURANSI SYARIAH DALAM RESOLUSI
 
 9. Di antara angka 17 dan angka 18 dalam Pasal 7 disisipkan 2 (dua) angka, yakni angka 17a dan angka 17b sehingga berbunyi sebagai berikut:
 - 17a. Di antara Pasal 22 dan Pasal 23 disisipkan 1 (satu) pasal, yakni PasaT 22A sehingga berbunyi sebagai berikut:
 
-## Pasal 22A
+**Pasal 22A**
 
 - (1) Terhadap Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang ditetapkan sebagai Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi, Lembaga Penjamin Simpanan melakukan penyelamatan atau tidak melakukan penyelamatan Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi.
 2. (21 Pemilihan untuk melakukan penyelamatan atau tidak melakukan penyelamatan Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan pertimbangan:
@@ -406,31 +412,31 @@ PEI.IYELESAIAN DAN PENANGANAN BANK DALAM RESOLUSI SERTA PERUSAHAAN ASURANSI DAN 
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INOONESIA
+**PRESIDEN REPUBUK INOONESIA**
 
 - l7b.Judut Bagran Kedua dalam BAB V, diubah sehingga berbunyi sebagai berikut:
 
-## Bagian Kedua
+**Bagian Kedua**
 
 Penyelamatan Bank Dalam Resolusi Selain Bank Sistemik serta Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi
 
 10. Di antara angka 18 dan angka 19 dalam Pasal 7 disisipkan I (satu) angka, yakni angka 18a sehingga berbunyi sebagai berikut:
 - 18a. Di antara PasaT 24 dan Pasal 25 disisipkan 1 (satu) pasal, yakni Pasal 24A sehingga berbunyi sebagai berikut:
 
-## Pasal 24A
+**Pasal 24A**
 
 - (1) Lembaga Penjamin Simpanan melakukan penyelamatan Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang ditetapkan sebagai Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi dalam hal pertimbangan sebagaimana dimaksud dalam Pasal 22A ayat (21 telah terpenuhi.
 2. (21 Pemegang saham, anggota direksi, dan anggota dewan komisaris serta pegawai dan mantan pegawai Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang ditetapkan sebagai Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi wajib untuk setiap saat memberikan segala data dan informasi yang diperlukan oleh l,embaga Penjamin Simpanan'
 - (3) Ketentuan lebih lanjut mengenai tata cara melakukan penyelamatan sebagaimana dimaksud pada ayat (1) diatur da-lam Peraturan Lembaga Penj amin Simpanan.
 11. Ketentuan Pasal 25 pada angka 19 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 25
+### Pasal 25 ^pasal-25
 
 Terhitung sejak kmbaga Penjamin Simpanan menerima pemberitahuan tertulis dari Otoritas Jasa Keuangan atas penetapan:
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INOONESI,A
+**PRESIDEN REFUBLIK INOONESI,A**
 
 - a. Bank selain Bank Sistemik sebagai Bank Da1am Resolusi; dan
 - b. Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi,
@@ -439,7 +445,7 @@ Lrmbaga Penjamin Simpanan mengambil alih hak dan wewenang RUPS, kepemilikan, kep
 
 - 1.2. Ketentuan Pasal 26 pada angka 20 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 26
+### Pasal 26 ^pasal-26
 
 - (1) Setelah Lembaga Penjamin Simpanan mengambil alih hak dan wewen€rng RUPS, kepemilikan, kepengurusan, dan kepentingan lain pada Bank, Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi sebagaimana dimaksud dalam Pasal 25, Lembaga Penjamin Simpanan dapat melakukan tindakan:
 - a. menguasai, mengelola, dan melakukan tindakan kepemilikan atas aset milik atau yang menjadi hak Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah dan/atau kewajiban Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah;
@@ -451,7 +457,7 @@ e. melakukan . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -24-
 - e. melakukan penggabungan atau peleburan dengan Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah lain;
@@ -461,7 +467,7 @@ e. melakukan . . .
 13. Di antara atgka 20 dan angka 21 dalam Pasal 7 disisipkan 1 (satu) angka, yakni angka 20a sehingga berbunyi sebagai berikut:
 - 20a. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 
-## Pasai 27
+**Pasai 27**
 
 Seluruh biaya penyelamatan Bank, Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang dikeluarkan oleh Lembaga Penjamin Simpanan menjadi penyertaan modal sementara Iembaga Penjamin Simpanan pada Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah.
 
@@ -469,15 +475,15 @@ Seluruh biaya penyelamatan Bank, Perusahaan Asuransi dan Perusahaan Asuransi Sya
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
-## Pasal 28
+### Pasal 28 ^pasal-28
 
 - (1) Dalam hal ekuitas Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah bernilai positif pada saat Lembaga Penjamin Simpanan menerima pemberitahuan tertulis atas penetapan Bank selain Bank Sistemik sebagai Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi dari Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 25, PSP lama mendapatkan bagian dari hasil penjualan saham Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah yang telah diselamatkan sebesar proporsional kepemilikan PSP terhadap ekuitas Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah pada saat kmbaga Penjamin Simpanan menerima pemberitahuan tertulis.
 2. (21 Dalam hal ekuitas Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah bemilai nol atau negatif pada saat Lembaga Penjamin Simpanan menerima pemberitahuan tertulis atas penetapan Bank selain Bank Sistemik sebagai Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi dari Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 25, PSP lama tidak memiliki hak atas hasil penjualan saham Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah setelah penyelamatan.
 15. Ketentuan Pasal 29 pada angka 22 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 29
+### Pasal 29 ^pasal-29
 
 - (1) Penggunaan hasil penjualan saham Bank, Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi sebagaimana dimaksud dalam Pasal 28 ayat (1) dilakukan dengan urutan:
 - a. pengembalian seluruh biaya penyelamatan yang telah dikeluarkan oleh Lembaga Penjamin Simpanan; dan
@@ -486,19 +492,19 @@ b. pengembalian . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 - b. pengembalian kepada PSP lama sebesar proporsional kepemilikan PSP lama terhadap ekuitas Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah pada saat kmbaga Penjamin Simpanan menerima pemberitahuan tertulis atas penetapan Bank selain Bank Sistemik sebagai Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi dari Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 25.
 2. (21 Dalam hal setelah penggunaan hasil penjualan saham Bank, Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi sebagaimana dimaksud pada ayat (1) masih ada sisa, sisa hasil penjualan saham Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah dibagi secara proporsional kepada Lembaga Penjamin Simpanan dan PSP lama sesuai dengan perbandingan pengembalian seluruh biaya penyelamatan sebagaimana dimaksud pada ayat (1) huruf a dan pengembalian kepada PSP lama sebagaimana dimaksud pada ayat (1) huruf b.
 16. Ketentuan Pasal 30 pada angka 23 daLanrr Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 30
+### Pasal 30 ^pasal-30
 
 - (1) Lembaga Penjamin Simpanan wajib menjual seluruh saham yang dimiliki oleh Lembaga Penjamin Simpanan dan PSP lama Bank selain Bank Sistemik yang ditetapkan sebagai Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang ditetapkan sebagai Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi dalam jangka waktu paling lama 3 (tiga) tahun terhitung sejak l.embaga Penjamin Simpanan menetapkan untuk menyelamatkan Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (2) Penjualan saham sebagaimana dimaksud pada ayat (1) dilakukan secara terbuka dan transparan, dengan tetap mempertimbangkan tingkat pengembalian yang optimal.
 - (3) Tingkat pengembalian yang optimal sebagaimana dimaksud pada ayat (2) paling sedikit sebesar seluruh penempatan modal sementara yang dikeluarkan oleh Lembaga Penjamin Simpanan.
@@ -507,7 +513,7 @@ b. pengembalian . . .
 17. Di antara angka 23 dan ang!&lt;a 24 dalam Pasal 7 disisipkan 1 (satu) angka, yakni ang$a23a sehingga berbunyi sebagai berikut:
 - 23a. Judul Bagian Ketiga dalam BAB V, diubah sehingga berbunyi sebagai berikut:
 
-## Bagian Ketiga
+**Bagian Ketiga**
 
 Bank Dalam Resolusi Selain Bank Sistemik serta Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang Tidak Diselamatkan
 
@@ -515,9 +521,9 @@ Bank Dalam Resolusi Selain Bank Sistemik serta Perusahaan Asuransi dan Perusahaa
 
 <!-- image -->
 
-## PRESIOEN REPUBLIK INDONESI,A
+**PRESIOEN REPUBLIK INDONESI,A**
 
-## Pasal 31
+### Pasal 31 ^pasal-31
 
 - (1) Dalam hal Lembaga Penjamin Simpanan memutuskan untuk tidak melakukan penyelamatan atau tidak melanjutkan proses penyelamatan, lembaga Penjamin Simpanan meminta pencabutan iz;rn usaha Bank selain Bank Sistemik yang ditetapkan sebagai Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang ditetapkan sebagai Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi kepada Otoritas Jasa Keuangan sesuai dengan ketentuan peraturan perundang-undangan.
 2. l2l Lembaga Penjamin Simpanan melaksanakan pembayaran klaim penjaminan nasabah kepada:
@@ -525,7 +531,7 @@ Bank Dalam Resolusi Selain Bank Sistemik serta Perusahaan Asuransi dan Perusahaa
 - b. pemegang polis, tertanggung, atau peserta Perusahaan Asuransi dan Perusahaan Asuransi Syariah sesuai dengan ketentuan program penjaminan polis.
 19. Ketentuan Pasal 63 pada angka 37 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 63
+### Pasal 63 ^pasal-63
 
 - (l) Organ Lembaga Penjamin Simpanan berupa Dewan Komisioner.
 - (21 Dewan Komisioner merupakan pimpinan Lembaga Penjamin Simpanan.
@@ -534,7 +540,7 @@ Bank Dalam Resolusi Selain Bank Sistemik serta Perusahaan Asuransi dan Perusahaa
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (5) Pemb"gan dan/ atau perubahan pembidangan, tugas, tata tertib, dan tata cara pelaksanaan tugas dan wewenang Dewan Komisioner dalam melaksanakan ketentuan sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan Dewan Komisioner setelah dikonsultasikan dengan DPR.
 - (6) Dewan Komisioner berwenang mewakili Lembaga Penjamin Simpanan di dalam dan di luar pengadilan.
@@ -543,7 +549,7 @@ Bank Dalam Resolusi Selain Bank Sistemik serta Perusahaan Asuransi dan Perusahaa
 - (9) Ketentuan lebih lanjut mengenai pendelegasian wewenang sebagaimana dimaksud pada ayat (7) diatur dalam Peraturan Dewan Komisioner.
 20. Ketentuan Pasal 65 pada angka 39 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 65
+### Pasal 65 ^pasal-65
 
 - (1) Anggota Dewan Komisioner berjumlah 7 (tujuh) orang terdiri atas:
 - a. 1 (satu) orang pejabat paling rendah setingkat pejabat pimpinan tinggi madya di lingkungan Kementerian Keuangan yang ditunjuk oleh Menteri Keuangan;
@@ -552,7 +558,7 @@ Bank Dalam Resolusi Selain Bank Sistemik serta Perusahaan Asuransi dan Perusahaa
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - d. 4 (empat) orang anggota yang berasal dari dalam dan/ atau dari luar Lembaga Penjamin Simpanan.
 2. (21 Anggota Dewan Komisioner sebagaimana dimaksud pada ayat (1) huruf d terdiri atas:
@@ -571,12 +577,12 @@ Bank Dalam Resolusi Selain Bank Sistemik serta Perusahaan Asuransi dan Perusahaa
 
 <!-- image -->
 
-## tlrT{JttI{Il 3
+**tlrT{JttI{Il 3**
 
 - -31 -
 21. Ketentuan Pasal 67 pada angka 42 ddarn Pasa1 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 67
+### Pasal 67 ^pasal-67
 
 Calon anggota Dewan Komisioner harus memenuhi persyaratan sebagai berikut:
 
@@ -594,11 +600,11 @@ Calon anggota Dewan Komisioner harus memenuhi persyaratan sebagai berikut:
 
 <!-- image -->
 
-## T
+**T**
 
 22. Ketentuan Pasal 69 pada angka 43 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 69
+### Pasal 69 ^pasal-69
 
 - (1) Anggota Dewan Komisioner hanya dapat diberhentikan oleh Presiden apabila:
 - a. berhalangan tetap;
@@ -615,7 +621,7 @@ Calon anggota Dewan Komisioner harus memenuhi persyaratan sebagai berikut:
 
 <!-- image -->
 
-## REPUBLIK INDONESI,A
+**REPUBLIK INDONESI,A**
 
 - (5) Dalam hal anggota Dewan Komisioner diberhentikan, anggota Dewan Komisioner penggantinya harus ditetapkan paling lama 3 (tiga) bulan terhitung sejak tanggal pemberhentian.
 - (6) Masa jabatan anggota Dewan Komisioner yang diangkat untuk menggantikan anggota yang diberhentikan bukan karena masa jabatannya beralhir sebagaimana dimaksud pada ayat (l) huruf b adalah:
@@ -623,7 +629,7 @@ Calon anggota Dewan Komisioner harus memenuhi persyaratan sebagai berikut:
 - b. 5 (lima) tahun.
 23. Ketentuan Pasal 71 pada angka 45 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 71
+### Pasal 71 ^pasal-71
 
 - (l) Dewan Komisioner wajib mengadakan rapat secara berkala paling sedikit 1 (satu) bulan 1 (satu) kali dengan agenda yang memuat:
 - a. menetapkan kebijakan Penjaminan dan penjaminan polis berdasarkan Undang-Undang ini;
@@ -635,7 +641,7 @@ e.menerlma...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESI,A
+**PRESIDEN REPUBUK INDONESI,A**
 
 - e. menerima dan mengevaluasi hal lain yang dilaporkan anggota Dewan Komisioner; dan
 - f. hal lain yang berhubungan dengan tugas Lembaga Penjamin Simpanan.
@@ -646,7 +652,7 @@ e.menerlma...
 7. 24.Di antara angl&lt;a 47 dan angka 48 dalam disisipkan 1 (satu) angka yakni ang)&lt;a 47a, berbunyi sebagai berikut: Pasal 7, sehingga
 - 47a. Ketentuan Pasal 74 diubah sebagai berikut: sehingga berbunyi
 
-## Pasal 74
+### Pasal 74 ^pasal-74
 
 - (1) Dewan Komisioner menetapkan struktur organisasi, uraian tugas dan jabatan, serta prosedur operasional Lembaga Penjamin Simpanan.
 2. (21 Dewan Komisioner membentuk komite audit dan komite lainnya sesuai dengan kebutuhan.
@@ -654,12 +660,12 @@ e.menerlma...
 
 <!-- image -->
 
-## PRES!DEN REPUBLIK INDOT{ESIA
+**PRES!DEN REPUBLIK INDOT{ESIA**
 
 - (4) Struktur organisasi, uraian tugas dan jabatan, prosedur operasional Lembaga Penjamin Simpanan sebagaimana dimaksud pada ayat (1) dan pembentukan, keanggotaan, dan tugas komite sebagaimana dimaksud pada ayat (21 ditetapkan dengan Keputusan Dewan Komisioner.
 25. Ketentuan Pasal 86 pada angka 57 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 86
+### Pasal 86 ^pasal-86
 
 - (1) Dewan Komisioner anggaran tahunan. menJrusun rencana kerja dan
 2. (21 Rencana kerja dan anggaran tahunan sebagaimana dimaksud pada ayat (1) memuat:
@@ -674,7 +680,7 @@ e.menerlma...
 
 <!-- image -->
 
-## PRESIOEN REFUBUK INDOT{ESIA
+**PRESIOEN REFUBUK INDOT{ESIA**
 
 - -36-
 - (71 Rencana kerja dan anggaran tahunan sebagaimana dimaksud pada ayat (1) yang memuat:
@@ -696,13 +702,13 @@ Pasal 86A
 
 <!-- image -->
 
-## PRESIDEN REFUBUK INDONESI,A
+**PRESIDEN REFUBUK INDONESI,A**
 
 - (2) Standar yang wajar di sektor jasa keuangan sebagaimana dimaksud pada ayat (1) termasuk perlakuan khusus terhadap standar biaya, proses pengadaan barang dan jasa, pengelolaan sumber daya manusia, organisasi, dan remunerasi.
 - (3) Ketentuan mengenai standar biaya, proses pengadaan barang dan jasa, pengelolaan sumber daya manusia, organisasi, dan remunerasi sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Lembaga Penjamin Simpanan setelah mendapatkan persetqjuan dari DPR.
 - 57b. Ketentuan Pasal 87 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 87
+### Pasal 87 ^pasal-87
 
 - (l) Dewan Komisioner menyampaikan rencana kerja dan anggaran tahunan yang telah ditetapkan sebagaimana dimaksud dalam Pasal 86 ayat (7) kepada Presiden dan DPR.
 - (21 Dewan Komisioner menyampaikan evaluasi pelaksanaan anggaran tahun berjalan sebagaimana dimaksud dalam Pasal 86 ayat (3) kepada Presiden dan DPR.
@@ -713,22 +719,22 @@ Pasal 86A
 
 <!-- image -->
 
-## PRESIDE]iI REFUBLIK INDOT{ESI,A
+**PRESIDE]iI REFUBLIK INDOT{ESI,A**
 
 - 27.Di arfiara angka 61 dan angka 62 dalam Pasal 7 disisipkan 2 (dua) angka, yakni angka 61a dan angka 61b sehingga berbunyi sebagai berikut:
 - 61a. Di antara Bab XI dan Bab XII disisipkan 1 (satu) bab, yakni Bab XIA sehingga berbunyi sebagai berikut:
 
-## BAB XIA TUGAS LAIN
+**BAB XIA TUGAS LAIN**
 
 - 61b. Di antara Pasal 9O dan Pasal 91 disisipkan I (satu) pasal, yakni Pasal 9OA sehingga berbunyi sebagai berikut:
 
-## Pasal 90A
+**Pasal 90A**
 
 - (U Dalam rangka mendukung pelaksanaan tugasnya, Lembaga Penjamin Simpanan melaksanakan program edukasi serta pemberdayaan masyarakat dan lingkungan yang dilakukan secara inklusif.
 - (21 Ketentuan mengenai program edukasi serta pemberdayaan masyarakat dan lingkungan yang dilakukan secara inklusif sebagaimana dimaksud pada ayat (1) dan tata kelolanya diatur dengan Peraturan Lembaga Penjamin Simpanan.
 28. Ketentuan Pasal 95A pada angka 65 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 95A
+**Pasal 95A**
 
 Pemegang saham, anggota direksi, dan anggota dewan komisaris serta pegawai dan mantan pegawai Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang melanggar ketentuan mengenai kewajiban pemberian data dan informasi sebagaimana dimaksud dalam Pasal 24 ayat (21 atau Pasal 24A ayat (2) dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan/ atau pidana denda paling banyak kategori III.
 
@@ -736,12 +742,12 @@ Pemegang saham, anggota direksi, dan anggota dewan komisaris serta pegawai dan m
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - -39-
 29. Ketentuan Pasal 6 pada angka 4 dalam Pasal 8 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 - (1) Otoritas Jasa Keuangan melaksanakan tugas pengaturan dan pengawasan terhadap:
 - a. kegiatan jasa keuangan di sektor Perbankan;
@@ -782,14 +788,14 @@ Pasal 8C
 - (3) Ketentuan mengenai kewenangan penetapan dan pengaturan kebijakan sebagaimana dimaksud pada ayat (1) dan ayall2l diatur dalam Peraturan Otoritas Jasa Keuangan setelah berkonsultasi dengan DPR yang menghasilkan rekomendasi.
 32. Ketentuan Pasal 10 pada angka 7 dalam Pasal 8 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 - (1) Otoritas Jasa Komisioner. Keuangan dipimpin oleh Dewan
 2. (21 Ketua Dewan Komisioner bertindak sebagai pimpinan Dewan Komisioner.
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESI,A
+**PRESIDEN REFUBLIK INDONESI,A**
 
 - (3) Dewan Komisioner beranggotakan 11 (sebelas) orang anggota yang ditetapkan dengan Keputusan Presiden.
 - (4) Susunan Dewan Komisioner sebagaimana dimaksud pada ayat (3) terdiri atas:
@@ -810,7 +816,7 @@ Pasal 10
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (6) Ketua Dewan Komisioner memimpin pelaksanaan koordinasi pengawasan terintegrasi di sektor keuangan sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf i.
 2. (71 Pembagian dan/ atau perubahan pembidangan dan tugas Dewan Komisioner sebagaimana dimaksud pada ayat (4) dapat dilakukan penyesuaian dengan mempertimbangkan kebutuhan dan keseimbangan tanggung jawab dalam pelaksanaan tugas anggota Dewan Komisioner.
@@ -825,12 +831,12 @@ Pasal 10
 
 <!-- image -->
 
-## PRESIDEI{ REPUBLIK INDONESIA
+**PRESIDEI{ REPUBLIK INDONESIA**
 
 - -44-
 - 7a. Ketentuan Pasa1 11 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 11
+### Pasal 11 ^pasal-11
 
 - (1) Anggota Dewan Komisioner sebagaimana dimaksud dalam Pasal l0 ayat (4) huruf a sampai dengan huruf i dipilih oleh DPR berdasarkan calon anggota yang diusulkan oleh Presiden.
 2. (21 Pemilihan dan penentuan calon anggota Dewan Komisioner untuk diusulkan kepada Presiden sebagaimana dimaksud pada ayat (1) dapat dilaksanakan oleh Panitia Seleksi yang dibentuk dengan Keputusan Presiden:
@@ -839,7 +845,7 @@ Pasal 10
 - (3) Susunan keanggotaan dan tata pelaksanaan seleksi oleh Panitia sebagaimana dimaksud pada ayat (2) dalam Peraturan Fresiden. cara Seleksi diatur
 - 7b. Ketentuan Pasal 12 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 12
+### Pasal 12 ^pasal-12
 
 DPR memilih calon anggota Dewan Komisioner yang diusulkan Presiden melalui mekanisme sebagaimana diatur dalam Peraturan DPR tentang Tata Tertib.
 
@@ -847,32 +853,32 @@ DPR memilih calon anggota Dewan Komisioner yang diusulkan Presiden melalui mekan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -45-
 - 7c. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 13
+### Pasal 13 ^pasal-13
 
 - (1) Anggota Dewan Komisioner sebagaimana dimaksud dalam Pasal 1O ayat (a) huruf j diangkat dan ditetapkan Presiden berdasarkan usulan Gubernur Bank Indonesia.
 2. (21 Anggota Dewan Komisioner sebagaimana dimaksud dalam Pasal 10 ayat (4) huruf k diangkat dan ditetapkan Presiden berdasarkan usulan Menteri Keuangan.
 - 7d. Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 14
+### Pasal 14 ^pasal-14
 
 - (1) Ketua, Wakil Ketua, dan anggota Dewan Komisioner diangkat dan ditetapkan dengan Keputusan Presiden.
 2. (21 Pembagian tugas di antara anggota Dewan Komisioner sebagaimana dimaksud dalam Pasal 10 ayat (4) huruf b sampai dengan huruf i diputuskan berdasarkan rapat Dewan Komisioner dan ditetapkan dengan Keputusan Dewan Komisioner.
 - (3) Anggota Dewan Komisioner sebagaimana dimaksud dalam Pasal 10 ayat (4) huruf a sampai dengan huruf i diangkat untuk masa jabatan 5 (lima) tahun dan dapat diangkat kembafi untuk 1 (satu) kali masa jabatan.
 34. Ketentuan Pasal 17 pada angka 9 dalam Pasal 8 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 17
+### Pasal 17 ^pasal-17
 
 - (1) Anggota Dewan Komisioner tidak dapat diberhentikan sebelum masa jabatannya berakhir, kecuali apabila memenuhi alasan sebagai berikut:
 - a. meninggal ...
 
 <!-- image -->
 
-## PRESIDETTI REPUBUK INDONESI,A
+**PRESIDETTI REPUBUK INDONESI,A**
 
 - -46-
 - a. meninggal dunia;
@@ -890,13 +896,13 @@ DPR memilih calon anggota Dewan Komisioner yang diusulkan Presiden melalui mekan
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - -47-
 35. Di antara angka 9 dan angka 1O dalam Pasal 8 disisipkan 2 (dua) angka, yakni angka 9a dan angka 9b sehingga berbunyi sebagai berikut:
 - 9a. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 18
+### Pasal 18 ^pasal-18
 
 - (1) Dalam hal anggota Dewan Komisioner sebagaimana dimaksud dalam Pasal 10 ayat (4) huruf a sampai dengan huruf i, diberhentikan karena alasan sebagaimana dimaksud dalam Pasal l7 ayat (1) hurufa, hurufb, hurufd, huruf e, huruf f, huruf g, huruf h, huruf i, dan/atau huruf j, dilaksanakan penggantian anggota Dewan Komisioner antarwaktu sesuai dengan ta,tz- cara pemilihan anggota Dewan Komisioner sebagaimana diatur dalam Undang-Undang ini.
 2. (21 Anggota Dewan Komisioner pengganti diangkat untuk menggantikan jabatan anggota Dewan Komisioner yang diberhentikan sebagaimana dimaksud pada ayat (1):
@@ -905,18 +911,18 @@ DPR memilih calon anggota Dewan Komisioner yang diusulkan Presiden melalui mekan
 - (3) Penggantian anggota Dewan Komisioner sebagaimana dimaksud pada ayat (1) tidak dilakukan apabila sisa masa jabatan anggota Dewan Komisioner yang diberhentikan kurang dari 1 (satu) tahun.
 - 9b. Di antara Pasal 21 dan Pasal 22 disisipkan 1 (satu) pasal, yakni Pasal 2lA sehingga berbunyi sebagai berikut:
 
-## Pasal 21A
+**Pasal 21A**
 
 Ketua Dewan Komisioner Otoritas Jasa Keuangan, Wakil Ketua Dewan Komisioner Otoritas Jasa Keuangan, anggota Dewan Komisioner Otoritas Jasa Keuangan, serta pejabat dan pegawai Otoritas Jasa Keuangan dalam pelaksanaan Undang-Undang ini mendapat pelindungan hukum jika dalam melaksanakan tugas didasarkan pada iktikad baik dan sesuai dengan ketentuan peraturan perundangundangan'
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -48-
 36. Ketentuan Pasal 25 pada angka 11 dalam Pasal 8 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 25
+### Pasal 25 ^pasal-25
 
 - (1) Ketua Dewan Komisioner berwenang mewakili Otoritas Jasa Keuangan di dalam dan di luar pengadilan.
 2. (21 Ketua Dewan Komisioner dapat mendelegasikan wewenang sebagaimana dimaksud pada ayat (l) kepada 1 (satu) atau lebih anggota Dewan Komisioner lain, dan/atau pejabat Otoritas Jasa Keuangan untuk mewakili Otoritas Jasa Keuangan yang khusus dikuasakan untuk itu.
@@ -924,7 +930,7 @@ Ketua Dewan Komisioner Otoritas Jasa Keuangan, Wakil Ketua Dewan Komisioner Otor
 - (4) Ketentuan lebih lanjut mengenai pendelegasian wewenang sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Dewan Komisioner.
 37. Ketentuan Pasal 35 pada angka 13 dalam Pasal 8 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+### Pasal 35 ^pasal-35
 
 - (1) Anggaran Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 34 ayat (2) digunakan untuk membiayai kegiatan operasional, administrasi, pengadaan aset, dan kegiatan pendukung lainnya.
 2. (21 Anggaran dan penggunaan anggaran sebagaimana dimaksud pada ayat (1) ditetapkan berdasarkan standar yang wajar di sektor jasa keuangan.
@@ -934,28 +940,28 @@ Ketua Dewan Komisioner Otoritas Jasa Keuangan, Wakil Ketua Dewan Komisioner Otor
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -49-
 - (41 Ketentuan mengenai standar biaya, proses pengadaan barang dan jasa, pengelolaan sumber daya manusia, organisasi, dan remunerasi sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Otoritas Jasa Keuangan setelah mendapatkan persetqjuan dari DPR.
 38. Di antara angka 13 dan angka 14 dalam Pasal 8 disisipkan I (satu) angka, yakni angka 13a sehingga berbunyi sebagai berikut:
 - 13a. Ketentuan Pasal 36 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 36
+### Pasal 36 ^pasal-36
 
 - (1) Untuk penetapan rencana kerja dan anggaran sebagaimana dimaksud dalam Pasal 34 ayat (1), Otoritas Jasa Keuangan terlebih dahulu meminta persetujuan DPR.
 2. (21 Dalam hal Otoritas Jasa Keuangan memerlukan perubahan anggar€rn yang mengakibatkan penambahan anggaran pada tahun berjalan, perubahan dilakukan setelah mendapatkan persetujuan DPR.
 - (3) Dalam hal rencana kerja dan anggaran sebagaimana dimaksud pada ayat (1) tidak mendapat persetujuan DPR, Otoritas Jasa Keuangan dapat melakukan pengeluaran paling banyak sebesar anggaran tahun sebelumnya.
 39. Ketentuan Pasal 37 pada angka 15 dalam Pasal 8 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 37
+### Pasal 37 ^pasal-37
 
 - (1) Terhadap pihak yang melakukan kegiatan di sektor jasa keuangan dan kegiatan sebagaimana dimaksud dalam Undang-Undang ini dikenai pungutan.
 2. (21 Pihak yang melakukan kegiatan di sektor jasa keuangan dan kegiatan sebagaimana dimaksud dalam Undang-Undang ini wajib membayar pungutan sebagaimana dimal&lt;sud pada ayat (1).
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - -50-
 - (3) Pungutan sebagaimana dimaksud pada ayat (1) bukan merupakan objek pajak penghasilan.
@@ -975,32 +981,32 @@ Pasal 37B
 
 <!-- image -->
 
-## IIT{JTtr{T
+**IIT{JTtr{T**
 
 - (21 Pelaksanaan hapus buku dan hapus tagih terhadap aset berupa piutang dan aset lainnya dilalsanakan sesuai dengan tata kelola yang baik.
 - (3) Ketentuan lebih lanjut mengenai hapus buku dan hapus tagih sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Dewan Komisioner Otoritas Jasa Keuangan setelah dikonsultasikan dengan DPR.
 41. Di antara angka 19 dan angka 2O dalam Pasal 8 disisipkan 4 (empat) angka, yakni angka 19a, angka 19b, angka 19c, dan angka 19d sehingga berbunyi sebagai berikut:
 - 19a. Ketentuan Pasal 41 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 41
+### Pasal 41 ^pasal-41
 
 - (1) Otoritas Jasa Keuangan kepada kmbaga Penjamin Simpanan mengenai Bank atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah bermasalah yang sedang dalam upaya penyehatan oleh Otoritas Jasa Keuangan sebagaimana dimaksud dalam peraturan penrndang-undangan.
 2. (21 Dalam hal Otoritas Jasa Keuangan Bank tertentu mengalami kesulitan likuiditas dan/ atau kondisi kesehatan memburuk, Otoritas Jasa Keuang€rn segera ke Bank Indonesia untuk melakukan langkahJangkah sesuai dengan kewenangan Bank Indonesia.
 3. 19b.Ketentuan PasaL 42 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 42
+### Pasal 42 ^pasal-42
 
 lembaga Penjamin Simpanan dapat melakukan pemeriksaan terhadap Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah yang terkait dengan fungsi, tugas dan wewenanglya, serta berkoordinasi terlebih dahulu dengan Otoritas Jasa Keuangan.
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
 - -52-
 
 19c. Di antara Bab X dan Bab XI disisipkan 1 (satu) bab, yakni Bab XA sehingga berbunyi sebagai berikut:
 
-## BAB XA TUGAS LAIN
+**BAB XA TUGAS LAIN**
 
 - 19d. Di antara Pasal 47 dan Pasal 48 disisipkan 1 (satu) pasal, yakni Pasal 47A sehingga berbunyi sebagai berikut:
 
@@ -1015,7 +1021,7 @@ Pasal 47A
 7. 2lb. Ketentuan Pasal 51 dihapus.
 45. Ketentuan Pasal 7 pada angka 2 daTam Pasal 9 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 - (l) Bank Indonesia bertujuan mencapai stabilitas nilai rupiah, memelihara stabilitas Sistem Pembayaran, dan turut menjaga stabilitas Sistem Keuangan dalam rangka mendukung pertumbuhan ekonomi yang berkelanjutan.
 
@@ -1023,20 +1029,20 @@ Pasal 7
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONEISI,A
+**PRESIDEN REFUBLIK INDONEISI,A**
 
 - (21 Bank Indonesia dalam mencapai tujuan sebagaimana dimaksud pada ayat (1) melaksanakan kebijakan dan bauran kebijakan Bank Indonesia yang dapat menciptakan lingkungan ekonomi yang kondusif bagi pertumbuhan sektor riil dan penciptaan lapangan kerja.
 46. Di antara atgka24 dan angka 25 dalam Pasa1 9 disisipkan 1 (satu) angka yakni angka 24a sehingga berbunyi sebagai berikut:
 - 24a. Di antara Pasal 35D dan Pasal 36 disisipkan 1 (satu) pasal, yakni Pasal 35E sehingga berbunyi sebagai berikut:
 
-## Pasal 35E
+**Pasal 35E**
 
 Gubernur, Deputi Gubernur Senior, dan Deputi Gubernur, serta pejabat dan pegawai Bank Indonesia dalam pelaksanaan Undang-Undang ini mendapat pelindungan hukum jika dalam melaksanakan tugas didasarkan pada iktikad baik dan sesuai dengan ketentuan peraturan perundang-undangan.
 
 - 47.Di antara angka 25 dan angka 26 daJarrr Pasal 9, disisipkan 1 (satu) angka yakni angka 25a sehingga berbunyi sebagai berikut:
 - 25a. Ketentuan Pasal 39 diubah sebagai berikut: sehingga berbunyi
 
-Pasal 39
+### Pasal 39 ^pasal-39
 
 - (1) Dewan Gubernur mewakili Bank Indonesia di dalam dan di luar pengadilan.
 2. (21 Kewenangan mewakili sebagaimana dimaksud pada ayat (l) dilaksanakan oleh Gubernur.
@@ -1049,7 +1055,7 @@ Pasal 39
 48. Di antara an gka 27 dan angl&lt;a 28 dalam Pasal 9 disisipkan 1 angka, yakni angka 27a sehingga berbunyi sebagai berikut:
 - 27a. Ketentuan Pasal 43 sebagai berikut: diubah sehingga berbunyi
 
-Pasal 43
+### Pasal 43 ^pasal-43
 
 - (1) Rapat Dewan Gubernur diselenggarakan:
 - a. minimal 1 (satu) kali dalam 1 (satu) bulan untuk menetapkan kebijakan umum di bidang moneter yang dihadiri oleh 1 (satu) orang menteri atau lebih yang mewakili Pemerintah dengan hak bicara tanpa hak suara; dan
@@ -1067,7 +1073,7 @@ Pasal 43
 49. Di antara angka 28 dan arrgka 29 dalam Pasal 9 disisipkan 4 (empat) angka, yakni angka 28a, angka 28b, ang)&lt;a 28c, dan angka 28d sehingga berbunyi sebagai berikut:
 - 28a. Ketentuan Pasal 48 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 48
+### Pasal 48 ^pasal-48
 
 - (1) Anggota Dewan Gubernur tidak dapat diberhentikan dalam masa jabatannya, kecuali karena yang bersangkutan:
 - a. mengundurkan diri;
@@ -1083,13 +1089,13 @@ Pasal 43
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 - -56-
 
 28b. Ketentuan Pasal 50 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 50
+### Pasal 50 ^pasal-50
 
 - (1) Dalam hal terjadi kekosongan jabatan Gubernur, Deputi Gubernur Senior, dan/ atau Deputi Gubernur karena hal-hal sebagaimana dimaksud dalam Pasal 46 ayat (21 dan ayat (3), Pasal 47 ayat (2) dan Pasal 48, Presiden mengangkat Gubernur, Deputi Gubernur Senior, dan/ atau Deputi Gubernur yang baru sesuai dengan ketentuan dalam Pasal 4l ayat (1), ayat (21, ayat (3), ayat (a), dan ayat (5), untuk:
 - a. sisa masa jabatan yang digantikannya; atau
@@ -1098,7 +1104,7 @@ Pasal 50
 - (3) Dalam hal Deputi Gubernur Senior sebagaimana dimaksud pada ayat (2) juga berhalangan, Deputi Gubernur yang paling lama masa jabatannya menjalankan tugas pekerjaan Gubernur sebagai pejabat Gubernur sementara.
 - 28c. Di antara Bab IX dan Bab X disisipkan 1 (satu) bab, yakni Bab IXA sehingga berbunyi sebagai berikut:
 
-## BAB IXA TUGAS LAIN
+**BAB IXA TUGAS LAIN**
 
 - 28d. Di antara Pasal 57 dan Pasal 58 disisipkan 1 (satu) pasal, yakni Pasal 57A sehingga berbunyi sebagai berikut:
 
@@ -1110,12 +1116,12 @@ Pasal 57A
 
 <!-- image -->
 
-## TItrFIEEiN tN
+**TItrFIEEiN tN**
 
 - (21 Ketentuan mengenai program edukasi serta pemberdayaan masyarakat dan lingkungan yang dilakukan secara inklusif sebagaimana dimaksud pada ayat (1) dan tata kelolanya diatur dengan Peraturan Bank Indonesia.
 50. Ketentuan Pasal 60 pada angka 32 dalam Pasal 9 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 60
+### Pasal 60 ^pasal-60
 
 - (1) Tahun anggaran Bank Indonesia adalah tahun kalender.
 - (2) Paling lambat 3O (tiga puluh) hari sebelum dimulai tahun anggaran, Dewan Gubernur menetapkan anggaran tahunan Bank Indonesia.
@@ -1129,14 +1135,14 @@ Pasal 57A
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDOiIESI,A
+**PRESIDEN REPUBLIK INDOiIESI,A**
 
 - -58-
 - (8) Anggaran untuk kebijakan moneter, Sistem Pembayaran, dan makroprudensial sebagaimana dimaksud pada ayat (3) huruf b wajib dilaporkan secara khusus kepada DPR.
 51. Di antara angka 32 dan angka 33 dalam Pasal 9 disisipkan 1 (satu) angka, yakni angka 32a sehingga berbunyi sebagai berikut:
 - 32a. Di antara Pasal 60 dan Pasal 61 disisipkan 1 (satu) pasal, yakni Pasal 60A sehingga berbunyi sebagai berikut:
 
-## Pasa1 60A
+**Pasa1 60A**
 
 - (1) Anggaran tahunan untuk kegiatan operasional sebagaimana dimaksud dalam Pasal 60 ayat (3) huruf a ditetapkan berdasarkan standar yang wajar di sektor jasa keuangan.
 2. (21 Standar yang wajar di sektor jasa keuangan sebagaimana dimaksud pada ayat (1) termasuk perlakuan khusus terhadap standar biaya, proses pengadaan barang dan jasa, pengelolaan sumber daya manusia, organisasi, dan remunerasi.
@@ -1162,7 +1168,7 @@ Pasal 9A
 - (3) Hasil evaluasi kinerja dan rekomendasi sebagaimana dimaksud pada ayat (2) disampaikan oleh pimpinan DPR kepada lembaga sebagaimana dimaksud pada ayat (1) dan Pemerintah, untuk ditindaklanjuti dan bersifat mengikat.
 54. Ketentuan Pasal 1 pada angka 1 dalam Pasal 14 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+### Pasal 1 ^pasal-1
 
 - Perbankan adalah segala sesuatu yang menyangkut tentang Bank, mencakup kelembagaan, kegiatan usaha, serta cara dan proses dalam melaksanakan kegiatan usahanya. 1
 - Bank adalah badan usaha yang menghimpun dana dari masyarakat dalam bentuk simpanan dan menyalurkannya kepada masyarakat dalam bentuk kredit atau pembiayaan dan dapat melakukan kegiatan usaha layanan jasa keuangan lainnya dalam rangka meningkatkan taraf hidup rakyat. 2
@@ -1181,7 +1187,7 @@ Pasal 9A
 
 <!-- image -->
 
-## PRESIDEN REX'UBLIK INDONESI,A
+**PRESIDEN REX'UBLIK INDONESI,A**
 
 12. Pembiayaan Berdasarkan Prinsip Syariah adalah penyediaan dana atau tagihan yang dipersamakan dengan itu berdasarkan persetqiuan atau kesepakatan antara Bank dan pihak lain yang mewajibkan pihak yang dibiayai untuk mengembalikan dana atau tagihan tersebut setelah jangka waktu tertentu dengan imbalan atau bagi hasil.
 13. Prinsip Syariah adalah prinsip hukum Islam berdasarkan fatwa dan/ atau pernyataan kesesuaian syariah yang dikeluarkan oleh lembaga yang memiliki kewenangan dalam penetapan fatwa di bidang syariah.
@@ -1197,7 +1203,7 @@ Pasal 9A
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -62-
 21. Pihak Terafiliasi adalah:
@@ -1219,7 +1225,7 @@ Pasal 9A
 29. Otoritas Jasa Keuangan adalah lembaga negara yang independen yang mempunyai fungsi, tugas, dan wewenang pengaturan, pengawasan, pemeriksaan, dan penyidikan sebagaimana dimaksud dalam undang-undang mengenai Otoritas Jasa Keuangan.
 55. Ketentuan Pasal 7 pada angka 3 dalam Pasal 14 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 7
+### Pasal 7 ^pasal-7
 
 - (1) Selain melakukan kegiatan usaha sebagaimana dimaksud dalam Pasal 6 ayat (1), Bank Umum dapat:
 - a. melakukan kegiatan penyertaan modal pada LJK dan/atau perusahaan lain yang mendukung industri Perbankan;
@@ -1228,7 +1234,7 @@ Pasal 9A
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESI,A
+**PRESIDEN REFUBLIK INDONESI,A**
 
 - -64-
 - c. bertindak sebagai pendiri Dana Pensiun dan pengurus Dana Pensiun sesuai dengan ketentuan peraturan perundang-undangan mengenai Dana Pensiun;
@@ -1241,20 +1247,20 @@ Pasal 9A
 56. Di antara angka 23 dan angka 24 dalarn Pasal 14 disisipkan 1 (satu) angka, yakni angka 23a sehingga berbunyi sebagai berikut:
 - 23a.Di antara Pasal 28A dan Pasal 29 disisipkan 1 (satu) pasal, yakni Pasal 28B sehingga berbunyi sebagai berikut:
 
-## Pasal 28El
+**Pasal 28El**
 
 - (1) Dalam rangka penguatan struktur, daya saing, dan ketahanan Perbankan nasional, Otoritas Jasa Keuangan menyusun peta jalan konsolidasi Bank Umum.
 
 <!-- image -->
 
-## PRESIDEiI REFUBLIK INDONEST,A
+**PRESIDEiI REFUBLIK INDONEST,A**
 
 - -65-
 - (21 Ketentuan lebih lanjut mengenai peta jalan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Otoritas Jasa Keuangan dengan berpedoman pada ketentuan peraturan perundang-undangan di bidang Perbankan.
 57. Ketentuan Pasal 37D pada angka 35 dalam Pasal 14 dihapus.
 58. Ketentuan Pasal 1 pada angka I dalam Pasal 15 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-Undang ini yang dimalsud dengan:
 
@@ -1267,7 +1273,7 @@ Dalam Undang-Undang ini yang dimalsud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 6. Bank Perekonomian Rakyat yang selanjutnya disingkat BPR adalah jenis Bank Konvensional yang dalam kegiatannya tidak memberikan jasa dalam lalu lintas giral secara langsung.
 2. 7 . Bank Syariah adalah badan usaha yang menghimpun dana dari masyarakat dalam bentuk simpanan dan investasi dan menyalurkan kepada masyarakat dalam bentuk pembiayaan dan dapat melakukan kegiatan usaha layanan jasa keuangan lainnya berdasarkan Prinsip Syariah.
@@ -1281,7 +1287,7 @@ Dalam Undang-Undang ini yang dimalsud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBL|K INDONESI,A
+**PRESIDEN REPUBL|K INDONESI,A**
 
 14. Rahasia Bank adalah informasi yang berhubungan dengan keterangan mengenai nasabah penyimpan dan simpanan dari nasabah penyimpan serta nasabah investor dan investasi dari nasabah investor.
 15. Pihak Terafiliasi adalah:
@@ -1295,7 +1301,7 @@ Dalam Undang-Undang ini yang dimalsud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 - -68-
 19. Nasabah Penerima Fasilitas adalah Nasabah yang memperoleh fasilitas dana atau yang dipersamakan dengan ihr, berdasarkan Prinsip Syariah.
@@ -1310,7 +1316,7 @@ Dalam Undang-Undang ini yang dimalsud dengan:
 
 <!-- image -->
 
-## PRESIDEN REFUBUK INDONESIA
+**PRESIDEN REFUBUK INDONESIA**
 
 26. Pembiayaan adalah penyediaan dana atau tagihan yang dapat dipersamakan dengan itu berdasarkan persetujuan atau kesepakatan antara Bank Syariah dan/atau UUS dan pihak lain yang mewajibkan pihak yang dibiayai dan/ atau diberi fasilitas dana untuk mengembalikan dana tersebut setelah jangka waktu tertentu dengan imbalan ujrah tartpa imbalan, atau bagi hasil, yang meliputi transaksi bagi hasil, transaksi sewa-menyewa, transaksi jual beli, transaksi pinjam meminjam, dan transaksi sewamenyewa jasa sesuai dengan Prinsip Syariah.
 27. Agtnan adalah jaminan tambahan yang diserahkan Nasabah Penerima Fasilitas kepada Bank Syariah dan/ atau UUS dalam rangka pemberian fasilitas Pembiayaan.
@@ -1334,15 +1340,15 @@ Dalam Undang-Undang ini yang dimalsud dengan:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDOilESIA
+**PRESIDEN REPUBLIK INDOilESIA**
 
-## Pasal 17B
+**Pasal 17B**
 
 - (1) Dalam rangka penguatan struktur, daya saing, dan ketahanan Perbankan nasional, Otoritas Jasa Keuangan men5rusun peta jalan konsolidasi Bank Umum Syariah.
 - 12) Ketentuan lebih lanjut mengenai peta jalan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Otoritas Jasa Keuangan dengan berpedoman pada ketentuan peraturan perundang-undangan di bidang Perbankan Syariah.
 60. Ketentuan Pasal 20 pada angka 12 dalam Pasal 15 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 20
+### Pasal 20 ^pasal-20
 
 - (1) Selain melakukan kegiatan usaha sebagaimana dimaksud dalam Pasal 19 ayat (1), Bank Umum Syariah dapat:
 - a. melakukan kegiatan valuta asing berdasarkan Prinsip Syariah;
@@ -1370,7 +1376,7 @@ f. melakukan . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDOilESI,A
+**PRESIDEN REPUBLIK INDOilESI,A**
 
 - d. menyelenggarakan kegiatan atau produk Bank yang berdasarkan Prinsip Syariah dengan menggunakan sarana elektronik;
 - e. menerbitkan, menawarkan, dan memperdagangkan surat berharga jangka pendek berdasarkan Prinsip Syariah baik secara langsung maupun tidak langsung melalui Pasar u*g;
@@ -1385,13 +1391,13 @@ f. melakukan . . .
 
 <!-- image -->
 
-## PRESIDEI{ REFUBUK INDONES[A
+**PRESIDEI{ REFUBUK INDONES[A**
 
-## Bagian Kesatu A Produk Investasi Perbankan Syariah
+**Bagian Kesatu A Produk Investasi Perbankan Syariah**
 
 - 15b. Di antara Pasal 22 dan Pasal 23 disisipkan I (satu) pasal, yakni Pasal 22A sehingga berbunyi sebagai berikut:
 
-## Pasal 22A
+**Pasal 22A**
 
 - (1) Hasil penyelesaian aset yang digunakan sebagai dasar produk Investasi Perbankan Syariah, hanya dapat dibagikan atau dikembalikan kepada Nasabah Investor.
 2. (21 Dalam hal Nasabah Investor mengalami kepailitan atau kegagalan, aset yang digunakan sebagai dasar produk Investasi Perbankan Syariah diperhitungkan dalam aset yang dipailitkan atau dilikuidasi.
@@ -1399,7 +1405,7 @@ f. melakukan . . .
 63. Di antara angka 3 dan angka 4 dalam Pasd 22 disisipkan 1 (satu) angka yakni angka 3a sehingga berbunyi sebagai berikut:
 - 3a. Ketentuan Pasal 8 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 8
+### Pasal 8 ^pasal-8
 
 - (l) Bursa Efek merupakan perseroan terbatas yang didirikan oleh sejumlah badan usaha berbentuk perseroan terbatas yang satu dengan lainnya tidak terafiliasi.
 - 12) Pendiri Bursa Efek sebagaimana dimaksud pada ayat (1) dapat menjadi Anggota Bursa Efek.
@@ -1413,13 +1419,13 @@ f. melakukan . . .
 65. Di antara angka 4 dan angka 5 dalam Pasal 22 disisipkan I (satu) angka, yakni angka 4a sehingga berbunyi sebagai berikut:
 - 4a. Di antara Pasal 8A dan Pasa-l 9 disisipkan 1 (satu) pasal, yakni Pasal 8El sehingga berbunyi sebagai berikut:
 
-## Pasal 88
+### Pasal 88 ^pasal-88
 
 - (1) Kementerian Keuangan, Bank Indonesia, dan Badan Pengelola Investasi Daya Anagata Nusantara dapat menjadi pemegang saham Bursa Efek.
 2. (21 Kepemilikan saham oleh pihak sebagaimana dimaksud pada ayat (1) dengan tetap mempertahankan independensi Bursa Efek.
 66. Ketentuan Pasal l0OA pada angka 40 dalam Pasal 22 diubah, sehingga berbunyi sebagai berikut:
 
-## Pasal lO0A
+**Pasal lO0A**
 
 - (1) Otoritas Jasa Keuangan dapat menetapkan untuk tidak melanjutkan ke tahap penyelidikan terhadap dugaan terjadinya tindak pidana sebagaimana diatur dalam Undang-Undang ini.
 2. (21 Dalam menetapkan untuk tidak melanjutkan ke tahap penyelidikan sebagaimana dimaksud pada ayat (1), Otoritas Jasa Keuangan melakukan penilaian dengan mempertimbangkan:
@@ -1435,7 +1441,7 @@ f. melakukan . . .
 - 67.Di antara angka 4O dan angka 41 dalam PasaT 22 disisipkan 1 (satu) angka yakni angka 40a sehingga berbunyi:
 - 40a.Di antara Pasal 1O0D dan Pasal 101 disisipkan 1 (satu) pasal, yakni Pasal 1O0E sehingga berbunyi sebagai berikut:
 
-## Pasal 10OE
+**Pasal 10OE**
 
 - (1) Penetapan tindakan administratif sebagaimana dimaksud dalam Pasal 100A ayat (3), harus memenuhi persyaratan:
 - a. mengembalikan keuntungan yang diperoleh;
@@ -1446,7 +1452,7 @@ f. melakukan . . .
 
 <!-- image -->
 
-## PRESIDEN REFUBUK INDOilESI,A
+**PRESIDEN REFUBUK INDOilESI,A**
 
 - (21 Dalam hal Otoritas Jasa Keuangan menetapkan untuk tidak menetapkan tindakan administratif sebagaimana dimaksud dalam Pasal 10OA ayat (3), Otoritas Jasa Keuangan melimpahkan perkara kepada penyidik Kepolisian Negara Republik Indonesia.
 - (3) Setelah pelimpahan perkara sebagaimana dimaksud pada ayat (2) dilakukan, penyidik Kepolisian Negara Republik Indonesia menindaklanjuti ke tahap penyelidikan.
@@ -1454,13 +1460,13 @@ f. melakukan . . .
 68. Ketentuan Pasal 101 pada angka 41 dalam Pasal 22 dihapus.
 69. Di antara Paragraf 1 dan Paragraf 2 Bag1an Kelima pada Bab V, disisipkan I (satu) Paragraf yakni Paragraf 1A sehingga berbunyi sebagai berikut:
 
-## Paragraf 1A
+**Paragraf 1A**
 
 Transfer Margin dalam Transaksi di Pasar Keuangan
 
 70. Di antara Pasal 39 dan Pasal 4O disisipkan I (satu) pasal, yakni Pasal 39A sehingga berbunyi sebagai berikut:
 
-## Pasal 39A
+**Pasal 39A**
 
 - (1) Da1am memastikan penyelesaian transaksi di pasar keuangan, pelaku transaksi di pasar keuangan melakukan:
 - a. penyerahan margin awal sebagai jaminan; dan/ atau
@@ -1470,7 +1476,7 @@ Transfer Margin dalam Transaksi di Pasar Keuangan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 - (21 Transfer margin sebagaimana dimaksud pada ayat (1) huruf b dilakukan melalui pengalihan hak milik atas margin yang digunakan dalam pemenuhan kewajiban yang timbul dari perubahan atas nilai transaksi sepanjang dipersyaratkan atau diperjanjikan dalam pe{anjian.
 - (3) Transfer margin sslagaimana dimaksud pada ayal (2) memenuhi ketentuan paling sedikit:
@@ -1488,7 +1494,7 @@ dari pihak yang mengalami wanprestasi sepanjang dilakukan sesuai dengan praktik 
 
 <!-- image -->
 
-## PRESIDEN REPUBUK TNDONESI,A
+**PRESIDEN REPUBUK TNDONESI,A**
 
 - -79-
 71. Setelah Bagian Ketqjuh pada Bab V ditambahkan I (satu) bagian, yakni Bagian Kedelapan sehingga berbunyi sebagai berikut:
@@ -1510,7 +1516,7 @@ Pasal 50A
 
 <!-- image -->
 
-## PRESIDEN REFUBUK INDONEST,A
+**PRESIDEN REFUBUK INDONEST,A**
 
 - (71 Ketentuan sebagaimana dimaksud pada ayat (5) dan ayat (6) berlaku untuk transaksi yang dilakukan di pasar primer.
 - (8) Investor sebagaimana dimaksud pada ayat (4) dapat memindahtangankan dan menjaminkan surat utang sebagaimana dimaksud pada ayat (2) huruf b.
@@ -1518,7 +1524,7 @@ Pasal 50A
 - (1O) Ketentuan lebih lanjut mengenai penerbitan surat utang khusus sebagaimana dimaksud pada ayat (2) huruf b diatur dalam Peraturan Pemerintah.
 73. Ketentuan Pasal 51 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 51
+### Pasal 51 ^pasal-51
 
 Dalam rangka pengembangan dan penguatan sektor keuangan melalui penataan di sektor perasuransian, Undang-Undang ini mengubah, menghapus, dan/ atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
 
@@ -1529,11 +1535,11 @@ Dalam rangka pengembangan dan penguatan sektor keuangan melalui penataan di sekt
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -81 -
 
-## Pasal 20
+### Pasal 20 ^pasal-20
 
 - (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, dan perusahaan reasuransi syariah wajib membentuk Dana Jaminan dalam bentuk dan jumlah yang ditetapkan oleh Otoritas Jasa Keuangan.
 2. (21 Dana Jaminan sebagaimana dimaksud pada ayat (1) wajib disesuaikan jumlahnya dengan perkembangan usaha, dengan ketentuan tidak kurang dari yang dipersyaratkan pada awal pendirian.
@@ -1549,7 +1555,7 @@ Dalam rangka pengembangan dan penguatan sektor keuangan melalui penataan di sekt
 - -82-
 75. Ketentuan Pasal 53 pada angka 19 dalam Pasal 52 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
 - (1) Perusahaan Asuransi dan Perusahaan Asuransi Syariah wajib menjadi peserta program penjaminan polis.
 - (2) Penyelenggaraan program penjaminan polis sebagaimana dimaksud pada ayat (1) diatur dalam undang-undang.
@@ -1562,25 +1568,25 @@ Ketentuan dalam Undang-Undang Nomor 34 Tahun 1964 tentang Dana Pertanggungan Waj
 
 - Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut: 1
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 - (l) Setiap orang yang menjadi korban meninggal dunia, luka-luka, dan/ atau cacat tetap akibat kecelakaan lalu lintas jalan yang disebabkan oleh dan/ atau melibatkan alat angkutan lalu lintas jalan sebagaimana dimaksud dalam Pasal I atau ahli warisnya, diberikan ganti kerugian yang bersumber dari Dana sebesar jumlah yang ditentukan berdasarkan Peraturan Pemerintah.
 - (21 Untuk melaksanakan pembayaran ganti rugi kepada korban atau ahli warisnya sebagaimana dimaksud pada ayat (1), Menteri dapat menunjuk instansi Pemerintah.
 
 <!-- image -->
 
-## PRESIDEiI REPUBUK INDOIIIESI,A
+**PRESIDEiI REPUBUK INDOIIIESI,A**
 
 78. Ketentuan Pasal 79 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 79
+### Pasal 79 ^pasal-79
 
 - (l) Berdasarkan Undang-Undang ini diselenggarakan program penjaminan polis.
 - (21 Penyelenggaraan program penjaminan polis sebagaimana dimaksud pada ayat (l) bertujuan untuk melindungi pemegang polis, tertanggung, atau peserta dari kegagalan Perusahaan Asuransi dan Perusahaan Asuransi Syariah dalam memenuhi kewajibannya akibat mengalami kesulitan keuangan.
 - (3) Program penjaminan polis dapat menggunakan Prinsip Syariah.
 79. Ketentuan Pasal 81 berikut: diubah sehingga berbunyi sebagai
 
-## Pasal 81
+### Pasal 81 ^pasal-81
 
 - (1) Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang menjadi peserta program penjaminan polis wajib:
 - a. menyerahkan dokumen sebagai berikut:
@@ -1591,7 +1597,7 @@ Pasal 4
 
 <!-- image -->
 
-## PRESIDEI{ REFUBUK INDONES'A
+**PRESIDEI{ REFUBUK INDONES'A**
 
 - -44-
 - a) komitmen dan kesediaan masingmasing anggota direksi, anggota dewan komisaris, dan pengendali atau yang setara dengan anggota direksi, anggota dewan komisaris, dan pengendali pada badan hukum berbentuk koperasi atau Usaha Bersama, untuk mematuhi seluruh ketentuan sebagaimana diatur dalam Peraturan Lembaga Penjamin Simpanan;
@@ -1607,13 +1613,13 @@ Pasal 4
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDOI{ESI,A
+**PRESIDEN REFUBLIK INDOI{ESI,A**
 
 - -85-
 - (21 Ketentuan lebih lanjut mengenai kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan kmbaga Penjamin Simpanan.
 80. Ketentuan Pasal 83 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 83
+### Pasal 83 ^pasal-83
 
 - (1) Program penjaminan polis hanya menjamin unsur proteksi dari produk asuransi pada lini usaha tertentu.
 - (2) Program asuransi sosial dan program asuransi wajib dikecualikan dari program penjaminan polis.
@@ -1621,7 +1627,7 @@ Pasal 4
 4. (41 Ketentuan lebih lanjut mengenai pengecualian program asuransi sosial dan program asuransi wajib sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
 81. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 84
+### Pasal 84 ^pasal-84
 
 - (1) Dalam hal Lembaga Penjamin Simpanan memutuskan untuk tidak melakukan penyelamatan atau tidak melanjutkan proses penyelamatan Penrsahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi, Lembaga Penjamin Simpanan melakukan tindakan:
 - a. pengalihan sebagian atau seluruh aset dan/ atau kervajiban kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah penerima atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara;
@@ -1630,7 +1636,7 @@ b. pembayaran . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK II{DO]{ESIA
+**PRESIDEN REPUBLIK II{DO]{ESIA**
 
 - -86-
 - b. pembayaran atas selisih kurang antara nilai aset dan/ atau kewajiban yang dialihkan sebagai akibat dari tindakan sebagaimana dimaksud dalam hurrf a;
@@ -1640,7 +1646,7 @@ b. pembayaran . . .
 - (21 Ketentuan lebih lanjut mengenai pelaksanaan kewenangan Lembaga Penjamin Simpanan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 82. Ketenhran Pasal 90 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 90
+### Pasal 90 ^pasal-90
 
 - (1) Otoritas Jasa Keuangan memberitahukan secara tertulis kepada lembaga Penjamin Simpanan setiap penetapan status pengawasan Perusahaan Asuransi dan Perusahaan Asuransi Syariah.
 - (2) Status pengawasan Perusahaan Asuransi dan Perusahaan Asuransi Syariah sebagaimana dimaksud pada ayat (1) terdiri atas:
@@ -1652,7 +1658,7 @@ b. pembayaran . . .
 
 <!-- image -->
 
-## PRESIDEN REI'UBLIK INDONEStrA
+**PRESIDEN REI'UBLIK INDONEStrA**
 
 - a. memerintahkan Perusahaan Asuransi dan Perusahaan Asuransi Syariah untuk menjual sebagian atau seluruh aset dan/atau mengalihkan kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah kepada pihak lain;
 - b. memerintahkan Perusahaan Asuransi dan Perusahaan Asuransi Syariah untuk menyerahkan pengelolaan seluruh atau sebagian kegiatan Perusahaan Asuransi dan Perusahaan Asuransi Syariah kepada pihak lain;
@@ -1670,7 +1676,7 @@ Otoritas Jasa Keuangan berkoordinasi dengan Lembaga Penjamin Simpanan.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONES]A
+**PRESIDEN REPUBLIK INDONES]A**
 
 - (5) Otoritas Jasa Keuangan memerintahkan Perusahaan Asuransi dan Perusahaan Asuransi Syariah dalam penyehatan untuk:
 - a. menjaga kondisi keuangan Perusahaan Asuransi dan Perusahaan Asuransi Syariah sehingga tidak terjadi penurunan aset dan/ atau peningkatan kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah secara materiel; dan
@@ -1683,13 +1689,13 @@ Otoritas Jasa Keuangan berkoordinasi dengan Lembaga Penjamin Simpanan.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDOT{ESI,A
+**PRESIDEN REPUBLIK INDOT{ESI,A**
 
 - -89-
 - (11) Ketentuan lebih lanjut mengenai kriteria penetapan status pengawasErn Perusahaan Asuransi dan Perusahaan Asuransi Syariah sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Otoritas Jasa Keuangan.
 83. Di antara Pasal 90 dan Pasal 91 disisipkan 6 (enam) pasal, yalni Pasal 9OA, Pasal 908, Pasal 9OC, Pasal 9OD, Pasal 90E, dan Pasal 9OF sehingga berbunyi sebagai berikut:
 
-## Pasal 90A
+**Pasal 90A**
 
 - (l) Dalam hal berdasarkan:
 - a. pengawasEul dan pemeriksaan sesuai dengan kewenangan yang dimiliki oleh Otoritas Jasa Keuangan dan Lembaga Penjamin Simpanan; dan/atau
@@ -1699,7 +1705,7 @@ ditemukan potensi permasalahan Perusahaan Asuransi dan Perusahaan Asuransi Syari
 
 - (21 Pemeriksaan bersama sebagaimana dimaksud pada ayat (1) dapat dilakukan sebagai langkah antisipatif dan/atau penanganan permasalahan Perusahaan Asuransi dan Perusahaan Asuransi Syariah.
 
-## Pasal 90B
+**Pasal 90B**
 
 - (1) Dalam pengalihan sebagian atau seluruh aset dan/ atau kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah penerima atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara sebagaimana dimaksud dalam Pasal 84 ayat (1) huruf a, Lembaga Penjamin Simpanan berwenang:
 - a. menetapkan jenis dan kriteria aset dan kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang dialihkant
@@ -1712,7 +1718,7 @@ ditemukan potensi permasalahan Perusahaan Asuransi dan Perusahaan Asuransi Syari
 - d. melakukan wewenang lain.
 - (21 Ketentuan mengenai jenis dan kriteria aset dan kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang dialihkan sebagaimana dimaksud pada ayat (l) diatur dalam Peraturan t embaga Penjamin Simpanan.
 
-## Pasal 90C
+**Pasal 90C**
 
 - (1) Pengalihan sebagian atau seluruh aset dan/ atau kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi oleh Lembaga Penjamin Simpanan kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah penerima dan/atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara, terjadi demi hukum sejak akta pengalihan ditandatangani.
 2. (21 Pengalihan demi hukum sebagaimana dimaksud pada ayat (1) berlaku pula bagi perizinan untuk melakukan kegiatan tertentu yang dimiliki Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara.
@@ -1720,13 +1726,13 @@ ditemukan potensi permasalahan Perusahaan Asuransi dan Perusahaan Asuransi Syari
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDOT{EItIA
+**PRESIDEN REPUBLIK TNDOT{EItIA**
 
 - (3) Pengalihan perizinan sebagaimana dimaksud pada ayat (2) harus diikuti dengan proses penyesuaian sesuai dengan ketentuan peraturan perundangundangan.
 2. (41 Setelah dilakukan pengalihan sebagian atau seluruh aset dan/atau kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah penerima dan/ atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara, kmbaga Penjamin Simpanan meminta Otoritas Jasa Keuangan untuk mencabut izin usaha Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang telah dialihkan sebagian atau seluruh aset dan/ atau kewajibannya.
 - (5) Lembaga Penjamin Simpanan melakukan proses likuidasi terhadap Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang telah dicabut izin usahanya oleh Otoritas Jasa Keuangan.
 
-## Pasal 90D
+**Pasal 90D**
 
 - (1) Lembaga Penjamin Simpanan mendirikan Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara sebagaimana dimaksud dalam Pasal 84 ayat (1) huruf a untuk menerima pengalihan sebagian atau seluruh aset dan/ atau kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah dan menjalankan aktivitas usaha Perusahaan Asuransi dan Perusahaan Asuransi Syariah.
 2. l2l Dalam pendirian Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara oleh Lembaga Penjamin Simpanan sebagaimana dimaksud pada ayat (l), tidak berlaku ketentuan yang mewajibkan perseroan terbatas yang didirikan oleh 2 (dua) orang atau lebih sebagaimana dimaksud dalam undang-undang mengenai perseroan terbatas.
@@ -1735,7 +1741,7 @@ ditemukan potensi permasalahan Perusahaan Asuransi dan Perusahaan Asuransi Syari
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 - -92-
 - (3) Otoritas Jasa Keuangan memberikan izin Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara dalam 2 (dua) tahap:
@@ -1754,7 +1760,7 @@ ditemukan potensi permasalahan Perusahaan Asuransi dan Perusahaan Asuransi Syari
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INOONESIA
+**PRESIDEN REPUBLIK INOONESIA**
 
 - l7l Dalam hal Otoritas Jasa Keuangan belum memberikan persetujuan uji kemampuan dan kepatutan sebagaimana dimaksud pada ayat (6), Otoritas Jasa Keuangan memberikan persetqiuan sementara bagi calon anggota dewan komisaris dan calon direksi Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara, yang diberi wewenang penuh untuk menjalankan fungsi, tugas, dan tindakan sebagai anggota dewan komisaris dan/atau anggota direksi.
 - (8) Otoritas Jasa Keuangan menetapkan kebilakan yang berbeda terkait kewajiban permodalan bagi Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara untuk jangka waktu tertentu.
@@ -1762,13 +1768,13 @@ ditemukan potensi permasalahan Perusahaan Asuransi dan Perusahaan Asuransi Syari
 - (1O) Ketentuan lebih lanjut mengenai tata cara pendirian Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara sebagaimana dimaksud pada ayat (1) sampai dengan ayat(71dan jangkawaktu tertentu sebagaimana dimaksud pada ayat (8) diatur dalam Peraturan Otoritas Jasa Keuangan.
 - (11) Ketentuan lebih lanjut mengenai pinjaman Lembaga Penjamin Simpanan kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara sebagaimana dimaksud pada ayat (9) diatur dalam Peraturan Lembaga Penjamin Simpanan.
 
-## Pasal 90E
+**Pasal 90E**
 
 - (l) kmbaga Penjamin Simpanan harus menjual seluruh saham Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah atau pihak lain atau mengalihkan sejumlah aset dan kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 - (21 Penjualan seluruh saham Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara atau pengalihan seluruh aset dan kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara sebagaimana dimaksud pada ayat (1) dilakukan setelah fungsi utama Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara be{alan dar I atan terdapat investor.
 - (3) Penjualan seluruh saham Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara atau pengalihan seluruh aset dan kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan nilai wajar, secara terbuka, dan transparan.
@@ -1780,11 +1786,11 @@ ditemukan potensi permasalahan Perusahaan Asuransi dan Perusahaan Asuransi Syari
 
 <!-- image -->
 
-## PRESTDEN REPUBLIK INDONESIA
+**PRESTDEN REPUBLIK INDONESIA**
 
 - (71 Ketentuan lebih lanjut mengenai kriteria fungsi utama dari Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara telah berjalan dan/ atau terdapat investor sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Lembaga Penjamin Simpanan.
 
-## Pasal 90F
+**Pasal 90F**
 
 - (1) Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah penerima, yang merupakan emiten atau perusahaan publik, dan diperintahkan oleh kmbaga Penjamin Simpanan dan/ atau Otoritas Jasa Keuangan untuk:
 - a. melakukan penambahan modal disetor; dan/atau
@@ -1800,7 +1806,7 @@ dikecualikan dari ketentuan peraturan perundangundangan di bidang Pasar Modal me
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -96-
 - (3) Ketentuan sebagaimana dimaksud pada ayat (1) berlaku secara mutatis mutandis bagi pihak lain yang diperintahkan Lembaga Penjamin Simpanan untuk melakukan pengambilalihan pengendalian Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi.
@@ -1808,7 +1814,7 @@ dikecualikan dari ketentuan peraturan perundangundangan di bidang Pasar Modal me
 - (5) Ketentuan lebih lanjut mengenai perintah kmbaga Penjamin Simpanan kepada kustodian sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan kmbaga Penjamin Simpanan.
 84. Ketentuan Pasal 91 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 91
+### Pasal 91 ^pasal-91
 
 - (1) Dalam hal Lembaga Penjamin Simpanan memutuskan untuk tidak melakukan penyelamatan atau tidak melanjutkan proses penyelamatan, Lembaga Penjamin Simpanan meminta pencabutan izin usaha Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang ditetapkan sebagai Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi kepada Otoritas Jasa Keuangan sesuai dengan ketentuan peraturan perundang-undangan.
 2. (21 Otoritas Jasa Keuangan mencabut izin usaha Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi atas permintaan Lembaga Penjamin Simpanan sebagaimana dimaksud pada ayat (1).
@@ -1817,23 +1823,23 @@ dikecualikan dari ketentuan peraturan perundangundangan di bidang Pasar Modal me
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 85. Di antara Pasal 91 dan Pasa1 92 disisipkan 1 (satu) pasal, yakni Pasal 91A sehingga berbunyi sebagai berikut:
 
-## Pasal 9lA
+**Pasal 9lA**
 
 Ketentuan mengenai perpajakan penanganan Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi diatur dalam Peraturan Pemerintah.
 
 86. Ketentuan Pasal 93 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 93
+### Pasal 93 ^pasal-93
 
 Terhitung sejak Perusahaan Asuransi dan Perusahaan Asuransi Syariah ditetapkan sebagai Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi oleh Otoritas Jasa Keuangan, seluruh hak dan wewenang pemegang saham, termasuk hak dan wewenang rapat umum pemegang saham atau yang setara dengan pemegang saham dan rapat umum pemegang saham pada badan hukum berbentuk koperasi atau Usaha Bersama beralih kepada kmbaga Penjamin Simpanan.
 
 87. Ketentuan Pasal 98 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 98
+### Pasal 98 ^pasal-98
 
 - (1) Pembayaran kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah kepada para kreditur dilakukan dengan urutan sebagai berikut:
 - a. penggantian atas talangan pembayaran gaji pegawai yang terutang;
@@ -1843,7 +1849,7 @@ Terhitung sejak Perusahaan Asuransi dan Perusahaan Asuransi Syariah ditetapkan s
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 - e. kewajiban kepada Lembaga Penjamin Simpanan atas dukungan finansial (financial assistance) yang diberikan Lembaga Penjamin Simpanan kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi;
 - f. pajak yang terutang;
@@ -1856,15 +1862,15 @@ Terhitung sejak Perusahaan Asuransi dan Perusahaan Asuransi Syariah ditetapkan s
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 88. Di antara Pasal 101 dan Pasal 102 disisipkan 3 (tiga) pasal, yakni Pasal 101A, Pasal 1018, dan Pasal 101C sehingga berbunyi sebagai berikut:
 
-## Pasal 101A
+**Pasal 101A**
 
 Dalam hal terdapat sengketa dalam proses likuidasi, sengketa dimaksud diselesaikan melalui pengadilan niaga sesuai dengan ketentuan peraturan perundangundangan.
 
-## Pasal 101B
+**Pasal 101B**
 
 - (1) Dalam hal terdapat sengketa dalam proses likuidasi sebagaimana dimaksud dalam Pasal 101A, gugatan diajukan kepada Ketua Pengadilan Niaga dalam wilayah hukum tempat tinggal atau domisili tergugat.
 2. (21 Dalam hal salah satu pihak bertempat tinggal di luar wilayah Negara Kesatuan Republik Indonesia, gugatan diajukan kepada Ketua Pengadilan Niaga Jakarta Pusat.
@@ -1877,14 +1883,14 @@ Dalam hal terdapat sengketa dalam proses likuidasi, sengketa dimaksud diselesaik
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 - -100-
 - (71 Sidang pemeriksaan sampai dengan putusan atas gugatan sebagaimana dimaksud pada ayat (1) harus diselesaikan paling lama 9O (sembilan puluh) hari kerja terhitung sejak perkara diterima oleh majelis yang memeriksa perkara dan dapat diperpanjang paling lama 30 (tiga puluh) hari kerja atas persetqjuan ketua Mahkamah Agung.
 - (8) Putusan atas gugatan sebagaimana dimaksud pada ayat (1) yang memuat secara lengkap pertimbangan hukum yang mendasari putusan, harus diucapkan dalam sidang terbuka untuk umum.
 - (9) Isi putusan pengadilan niaga sebagaimana dimalsud pada ayat (8) wajib disampaikan oleh juru sita kepada para pihak paling lama 14 (empat belas) hari kerja terhitung sejak putusan atas gugatan sebagaimana dimaksud pada ayat (l) diucapkan.
 
-## Pasal 101C
+**Pasal 101C**
 
 - (1) Terhadap putusan pengadilan niaga sebagaimana dimaksud dalam Pasal 1O1B ayat (8) hanya dapat diajukan kasasi.
 2. l2l Permohonan kasasi sebagaimana dimaksud pada ayat (l) diajukan paling lama 14 (empat belas) hari kerja terhitung sejal tanggal putusan yang dimohonkan kasasi diucapkan atau diberitahukan kepada para pihak dengan mendaftarkan kepada panitera pada pengadilan niaga yang telah memutus gugatan.
@@ -1893,7 +1899,7 @@ Dalam hal terdapat sengketa dalam proses likuidasi, sengketa dimaksud diselesaik
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (5) Pemohon kasasi sudah harus menyampaikan memon kasasi kepada panitera dalam waktu paling lama 14 (empat belas) hari kerja terhitung sejak tanggal permohonan kasasi didaftarkan.
 - (6) Panitera wajib menyampaikan memori kasasi sebagaimana dimaksud pada ayat (5) kepada termohon kasasi paling lal:ra 2 (dua) hari kerja terhitung sejak memori kasasi diterima oleh panitera.
@@ -1906,20 +1912,20 @@ Dalam hal terdapat sengketa dalam proses likuidasi, sengketa dimaksud diselesaik
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -to2-
 - (13) Upaya hukum peninjauan kembali terhadap putusan kasasi sebagaimana dimaksud pada ayat (10) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 89. Ketentuan Pasal 103 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 103
+### Pasal 103 ^pasal-103
 
 - (1) Seluruh dana yang dikeluarkan oleh Lembaga Penjamin Simpanan dalam rangka pelaksanaan program penjaminan polis merupakan braya penanganan penjaminan polis bag Lembaga Penjamin Simpanan.
 2. (21 Dalam hal terdapat selisih kurang antara biaya penanganan penjaminan polis dan dana yang diterima Lembaga Penjamin Simpanan, selisih kurang tersebut bukan merupakan kerugian keuangan negara.
 - (3) Dalam hal terdapat selisih lebih antara dana atau biaya yang dikeluarkan lembaga Penjamin Simpanan untuk penanganan permasalahan Perusahaan Asuransi dan Perusahaan Asuransi Syariah dan pengembalian kepada Lembaga Penjamin Simpanan merupakan penambah kekayaan l.embaga Penjamin Simpanan.
 90. Di antara Bab XI dan Bab XII disisipkan 1 (satu) bab, yakni Bab XIA sehingga berbunyi sebagai berikut:
 
-## BAB xIA BURSA MINERAL DAN KOMODITAS STRATEGIS
+**BAB xIA BURSA MINERAL DAN KOMODITAS STRATEGIS**
 
 91. Di antara Pasal (satu) pasal, yakni sebagai berikut: 132 dan Pasal 133 disisipkan 1 Pasal L32A sehingga berbunyi
 
@@ -1927,11 +1933,11 @@ Pasal 132A. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 - -103-
 
-## Pasal 132A
+**Pasal 132A**
 
 - (1) Bursa mineral dan komoditas strategis merupakan suatu sistem pas€rr yang terorganisasi dan terintegrasi, yang menyelenggarakan perdagangan mineral dan komoditas strategis termasuk derivatifnya, yang didukung oleh ekosistem pendanaan, instrumen keuangan berbasis digital dengan mekanisme harga, mutu, penyelesaian transaksi, dan manajemen risiko, yang diatur dan diawasi oleh Otoritas Jasa Keuangan guna memperkuat ketahanan ekonomi, menjaga integritas pasar, serta mengoptimalkan nilai tambah sumber daya alam dan komoditas Indonesia.
 - (2) Bursa mineral dan komoditas strategis sebagaimana dimaksud pada ayat (1) diselenggarakan oleh penyelenggara pasar yang telah memperoleh izin usaha dari Otoritas Jasa Keuangan.
@@ -1944,7 +1950,7 @@ Pasal 132A. . .
 - e. sanksiadministratif.
 92. Ketentuan Pasal 213 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 213
+### Pasal 213 ^pasal-213
 
 - (1) Ruang lingkup ITSK meliputi:
 - a. sistem pembayaran;
@@ -1953,7 +1959,7 @@ Pasal 132A. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INOONESIA
+**PRESIDEN REPUBLIK INOONESIA**
 
 - -to4-
 - d. pengelolaaninvestasi;
@@ -1965,7 +1971,7 @@ Pasal 132A. . .
 - (21 Ketentuan lebih lanjut mengenai ruang lingkup ITSK sebagaimana dimaksud pada ayat (1) huruf a dan huruf h diatur dengan Peraturan Bank Indonesia dan Peraturan Otoritas Jasa Keuangan sesuai dengan kewenangan masing-masing.
 93. Ketentuan Pasal 215 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 215
+### Pasal 215 ^pasal-215
 
 - (1) Pihak yang menyelenggarakan ITSK terdiri atas:
 - a. LJK;
@@ -1985,13 +1991,13 @@ e. pemenuhan . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -105-
 - pemenuhan ketentuan peraturan perundangundangan. e
 94. Ketentuan Pasal 22O diubah sehingga berbunyi sebagai berikut:
 
-## PasaJ22O
+**PasaJ22O**
 
 - (1) Setiap penyelenggara ITSK wajib memenuhi ketentuan kepesertaan dalam asosiasi penyelenggara ITSK yang disetujui dan diatur oleh Bank Indonesia dan Otoritas Jasa Keuangan sesuai dengan kewenangan masing-masing.
 2. (21 Dalam menjalankan pengaturan bagi anggotanya, asosiasi penyelenggara ITSK harus mengacu pada ketentuan peraturan perundang-undangan.
@@ -1999,7 +2005,7 @@ e. pemenuhan . . .
 - (4) Pengaturan terkait koordinasi antara Bank Indonesia dan Otoritas Jasa Keuangan dengan asosiasi penyelenggara ITSK diatur oleh Bank Indonesia dan Otoritas Jasa Keuangan sesuai dengan kewenangan masing-masing.
 95. Di antara Pasal 221 dan Pasal 222 disisipkan 6 (enam) pasal, yakni Pasd 221A, Pasal 2218, Pasal 221C, Pasal 221D, Pasal 2218, dan Pasal 221F sehingga berbunyi sebagai berikut:
 
-## Pasal 22lA
+**Pasal 22lA**
 
 - (1) LJK Aset Kripto terdiri atas:
 - a. pedagang aset kripto;
@@ -2009,7 +2015,7 @@ e. pemenuhan . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -106-
 - e. pihak lain yang ditetapkan oleh Otoritas Jasa Keuangan sebagai LJK Aset l&amp;ipto.
@@ -2025,7 +2031,7 @@ e. pemenuhan . . .
 
 <!-- image -->
 
-## PRESIDEI{ REPUBUK INDOT{ESIA
+**PRESIDEI{ REPUBUK INDOT{ESIA**
 
 - b. memiliki rekening terpisah yang akan dipergunakan untuk penempatan seluruh dana konsumen sehubungan dengan perdagangan aset kripto.
 - (10) Otoritas Jasa Keuangan berwenang melakukan penilaian kemampuan dan kepatutan serta penilaian kembali terhadap pihak utama dari LJK Aset Kripto.
@@ -2034,25 +2040,25 @@ e. pemenuhan . . .
 - (13) LfK Aset Kripto sebagaimana dimaksud pada ayat (1) dimiliki oleh Setiap Orang atau hanya pihak tertentu sesuai dengan ketentuan peraturan perundangundangan.
 - (14) Ketentuan lebih lanjut mengenai IJK Aset Kripto sebagaimana dimaksud pada ayat (1) sampai dengan ayat (13) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
-## Pasal 22lB
+**Pasal 22lB**
 
 - (1) LJK Aset Kripto dan pihak terafiliasi wajib menjaga kerahasiaan rekening, transaksi, dan/ atau konsumen aset kripto.
 2. (21 Ketentuan lebih lanjut mengenai kerahasiaan rekening, transaksi, dan/ atau informasi konsumen aset kripto sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESIA
+**PRESIDEN REFUBLIK INDONESIA**
 
 - -108-
 
-## Pasa722lC
+**Pasa722lC**
 
 - (1) Dalam melaksanalan kewenangan pengaturan d€rn pengawasan terhadap kegiatan aset kripto, Otoritas Jasa Keuangan berwenang untuk:
 - a. menetapkan perizinan bagi LJK Aset Kripto, penunjang penyelenggaraan kegiatan aset kripto, atau pihak lain yang terkait dengan penyelenggaraan kegiatan aset kripto; dan
 - b. menetapkan kebijakan pengaturan dan pengawasan tertentu mengenai penyelenggaraan kegiatan aset kripto.
 4. (21 Ketentuan lebih lanjut mengenai kewenangan Otoritas Jasa Keuangan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
-## PasaJ22LD
+**PasaJ22LD**
 
 - (l) LJK Aset Ikipto dan/atau Setiap Orang yang terlibat dalam kegiatan penyelenggaraan aset kripto dilarang baik secara langsung maupun tidak langsung:
 - a. mengelabui pihak lain dengan cara apa pun sehingga pihak lain menggunalan jasanya, menyerahkan dana, membeli, menjual, mengalihkan, atau menahan produk dan/ atau layanan dari LJK Aset Kripto, dengan maksud menguntungkan diri sendiri dan/ atau pihak lain;
@@ -2060,7 +2066,7 @@ e. pemenuhan . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -109-
 - c. membuat pernyataan atau memberikan keterangan yang tidak benar atau menyesatkan sehingga memengaruhi harga aset kripto apabila pada saat pernyataan dibuat atau keterangan diberikan:
@@ -2076,21 +2082,21 @@ e. pemenuhan . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI"A
+**PRESIDEN REPUBLIK INDONESI"A**
 
 - (3) LJK Aset Kripto, penunjang penyelenggaraan kegiatan aset kripto, pendukung kegiatan penawaran aset kripto, persekutuan perdata, dan/atau pihak lain dalam kegiatan penawaran aset kripto dilarang untuk memberikan dokumen dan/ atau informasi yang tidak benar atau palsu dalam kegiatan penawaran aset kripto.
 
-## PasaJ22IE
+**PasaJ22IE**
 
 Dalam rangka Pelindungan Konsumen sebagaimana dimaksud dalam Pasal 2L6 ayat (3) huruf e, Otoritas Jasa Keuangan, dengan berkoordinasi dengan kementerian/lembaga terkait, berwenang untuk melakukan pembekuan dan/ atau pemblokiran atas penyelenggaraan transaksi dan/ atau perdagangan aset kripto oleh pihak asing atau dalam negeri di wilayah Republik Indonesia dan/ atau kepada Warga Negara Indonesia dan/ atau badan hukum Indonesia yang tidak sesuai dengan ketentuan peraturan perundangundangan.
 
-## Pasal 221F
+**Pasal 221F**
 
 Ketentuan mengenai LJK Aset Ikipto sebagaimana dimaksud dalam Pasal 221A, Pasal 2218, PasaL 221C, Pasal 221D, dan Pasal 221E berlaku secara mutatis mutandis terhadap LJK AKD selain Aset Kripto.
 
 96. Ketentuan Pasad 247 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 247
+### Pasal 247 ^pasal-247
 
 - (1) Untuk melindungi kepentingan masyarakat, Pemerintah membentuk satuan tugas yang bertugas mencegah dan menangani:
 - a. kegiatan usaha tanpa izin di sektor keuangan; dan/atau
@@ -2098,7 +2104,7 @@ Ketentuan mengenai LJK Aset Ikipto sebagaimana dimaksud dalam Pasal 221A, Pasal 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - 111-
 - l2l Kegiatan usaha tanpa izin di sektor keuangan sebagaimana dimaksud pada ayat (1) huruf a meliputi namun tidak terbatas pada:
@@ -2112,17 +2118,17 @@ Ketentuan mengenai LJK Aset Ikipto sebagaimana dimaksud dalam Pasal 221A, Pasal 
 - (6) Tindak lanjut pelaksanaan tugas sebagaimana dimaksud pada ayat (1) dan ayat (3) dilakukan oleh otoritas/ kementerian/ lembaga terkait sesuai dengan kewenangan masing-masing.
 97. Di antara Bab XVIII dan Bab XIX disisipkan 1 (satu) bab, yakni Bab XVIIIA sehingga berbunyi sebagai berikut:
 
-## BAB XVIIIA PUSAT FINANSIAL INTERNASIONAL INDONESIA
+**BAB XVIIIA PUSAT FINANSIAL INTERNASIONAL INDONESIA**
 
 98. Di antara. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 98. Di antara Pasal 248 dan Pasal 249 disisipkan 1 (satu) pasal, yakni Pasal 248A sehingga berbunyi sebagai berikut:
 
-## Pasal 248A
+**Pasal 248A**
 
 - (1) Dalam rangka mewujudkan visi nasional menuju pertumbuhan ekonomi yang berkelanjutan, serta mendorong pendalaman dan diversifikasi perekonomian nasional melalui kontribusi yang efektif terhadap sektor keuangan, Pemerintah membentuk Pusat Finansial Internasional Indonesia.
 2. (21 Pusat Finansial Internasional Indonesia sebagaimana dimaksud pada ayat (1) merupakan wilayah yang memiliki kemandirian keuangan dan administrasi serta kekhususan hukum tertentu yang mengadopsi, menginkorporasi, menerapkan, dan/ atau menyesuaikan dengan prinsip dan/ atau standar internasional.
@@ -2135,11 +2141,11 @@ Ketentuan mengenai LJK Aset Ikipto sebagaimana dimaksud dalam Pasal 221A, Pasal 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - 113 -
 
-## Pasal 250
+### Pasal 250 ^pasal-250
 
 - (1) Dalam hal te{adi piutang macet, perlu adanya kepastian hukum dalam rangka penangzrnan piutang macet pada Bank dan/ atau lembaga keuangan non-Bank baik yang berbentuk badan usaha milik negara maupun badan usaha milik daerah kepada Usaha Mikro, Kecil, dan Menengah.
 2. (21 Piutang macet pada Bank dan/atau lembaga keuangan non-Bank baik yang berbentuk badan usaha milik negara maupun badan usaha milik daerah kepada Usaha Mikro, Kecil, dan Menengah sebagaimana dimaksud pada ayat (1), dapat dilakukan penghapusbukuan dan penghapustagihan untuk mendukung kelancaran pemberian akses pembiayaan kepada Usaha Mikro, Kecil, dan Menengah.
@@ -2150,25 +2156,25 @@ Ketentuan mengenai LJK Aset Ikipto sebagaimana dimaksud dalam Pasal 221A, Pasal 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (71 Pemutalhiran data debitur atau nasabah yang diberikan penghapustagihan piutang yang dikategorikan sebagai lunas sesuai kebijakan pemerintah pada sistem layanan informasi keuangan yang diselenggarakan oleh Otoritas Jasa Keuangan, dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 - 1O0. Ketentuan Pasal 251 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 251
+### Pasal 251 ^pasal-251
 
 - (1) Kerugian yang dialami oleh Bank dan/ atau lembaga keuangan non-Bank baik yang berbentuk badan usaha milik negara maupun badan usaha milik daerah dalam melaksanakan penghapusbukuan dan/atau penghapustagihan piutang merupakan kerugian Bank dan/ atau lembaga keuangan non-Bank baik yang berbentuk badan usaha milik negara maupun badan usaha milik daerah yang bersangkutan.
 2. (21 Kerugian sebagaimana dimaksud pada ayat (1) bukan merupakan kerugian keuangan negara sepanjang dapat dibuktikan tindakan dilakukan berdasarkan iktikad baik, ketentuan peraturan perundangundangan, anggaran dasar, dan prinsip tata kelola perusahaan yang baik.
 - (3) Direksi dan dewan komisaris dalam melakukan penghapusbukuan dat/atau penghapustagihan piutang tidak dapat dipertanggungiawabkan atas kerugian yang terjadi sebagaimana dimaksud pada ayat (1).
 101. Ketentuan Pasal 16C pada angka 3 dalam Pasal 276 diubah, sehingga berbunyi sebagai berikut:
 
-## Pasal 16C
+**Pasal 16C**
 
 - (1) Otoritas Jasa Keuangan menetapkan Bank sebagai Bank dalam penyehatan sebagaimana dimaksud dalam Pasal 16A ayat (2) huruf b dalam hal Bank tidak memenuhi ketentuan yang ditetapkan oleh Otoritas Jasa Keuangan mengenai:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - a. tingkat kesehatan;
 - b. tingkat likuiditas; dan/atau
@@ -2185,7 +2191,7 @@ Ketentuan mengenai LJK Aset Ikipto sebagaimana dimaksud dalam Pasal 221A, Pasal 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - b. Otoritas Jasa Keuangan memastikan pelaksanaan rencana aksi pemulihan Bank umum atau langkah penyehatan yang ditetapkan oleh Otoritas Jasa Keuangan; dan/atau
 - c. lembaga Penjamin Simpanan melakukan:
@@ -2204,13 +2210,13 @@ Ketentuan mengenai LJK Aset Ikipto sebagaimana dimaksud dalam Pasal 221A, Pasal 
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - (9) Dalam rangka pelaksanaan kewenangan sebagaimana dimaksud pada ayat (8), Otoritas Jasa Keuangan berkoordinasi dengan Lembaga Penjamin Simpanan.
 2. (lO) Ketentuan mengenai pemenuhan tingkat kesehatan, tingkat likuiditas, dan tingkat permodalan sebagaimana dimalsud pada ayat (1) diatur dalam Peraturan Otoritas Jasa Keuangan.
 3. lO2.Ketentuan Pasal 2OB pada angka 13 dalam Pasal 276 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 20E}
+**Pasal 20E}**
 
 - (1) lembaga Penjamin Simpanan berwenang melakukan penempatan dana pada Bank Sistemik yang ditetapkan sebagai Bank dalam penyehatan.
 2. (21 Penempatan dana pada Bank Sistemik dalam penyehatan sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan permintaan Otoritas Jasa Keuangan, setelah Otoritas Jasa Keuangan melakukan analisis kelayakan permintaan Bank.
@@ -2223,7 +2229,7 @@ Ketentuan mengenai LJK Aset Ikipto sebagaimana dimaksud dalam Pasal 221A, Pasal 
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (5) Dalam rangka penempatan dana Lembaga Penjamin Simpanan pada Bank Sistemik yang ditetapkan sebagai Bank dalam penyehatan sebagaimana dimaksud pada ayat (1), Lembaga Penjamin Simpanan melakukan koordinasi melalui forum koordinasi sebagaimana dimaksud dalam Pasal l5A.
 - (6) Total periode penempatan dana kmbaga Penjamin Simpanan pada Bank Sistemik yang ditetapkan sebagai Bank dalam penyehatan sebagaimana dimalsud pada ayat (1) dilakukan paling lama 2 (dua) tahun termasuk perpanjangannya.
@@ -2232,7 +2238,7 @@ Ketentuan mengenai LJK Aset Ikipto sebagaimana dimaksud dalam Pasal 221A, Pasal 
 - (9) Ketentuan lebih lanjut mengenai penempatan dana lembaga Penjamin Simpanan pada Bank Sistemik yang ditetapkan sebagai Bank dalam penyehatan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 103. Di antara BAB XXII dan BAB X.XII disisipkan 2 (dua) bab dan 15 (lima belas) pasal, yakni BAB XXIIA dan BAB XXIIB serta Pasal 278A, Pasal 278B, Pasd 278C, Pasal 278D, Pasal 278E, Pasal 278F, Pasal 278G, Pasal 278H, Pasal 2781, Pasal 278J, Pasal 278K, Pasal 278L, Pasal 278M, Pasal 278N, dan Pasal 2780 sehingga berbunyi sebagai berikut:
 
-## BAB XXIIA
+**BAB XXIIA**
 
 PEI{YELIDIKAN KEUANGAN DAN PEI{YIDIKAN DI SEKTOR JASA
 
@@ -2240,13 +2246,13 @@ Bagian . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - 119 -
 
-## Bagran Kesatu Penyelidikan
+**Bagran Kesatu Penyelidikan**
 
-## Pasal 278A
+**Pasal 278A**
 
 - (1) Penyelidik karena kewajibannya mempunyai wewenang:
 - a. menerima laporan atau pengaduan dari seseorang mengenai adanya tindak pidana baik secara tertulis maupun melalui media telekomunikasi dan/ atau media elektronik;
@@ -2254,7 +2260,7 @@ Bagian . . .
 - c. mengadakan tindakan lain menurut hukum yang bertanggung j awab.
 5. (21 Penyelidik membuat dan menyampaikan laporan hasil pelaksanaan wewenang dan tindakan sebagaimana dimaksud pada ayat (1) kepada penyidik.
 
-## Pasal 278B
+**Pasal 278B**
 
 Ketentuan mengenai pelaksanaan penyelidikan di sektor jasa keuangan sebagaimana dimaksud dalam Pasal 278A dilaksanakan sesuai dengan Kitab Undang-Undang Hukum Acara Pidana.
 
@@ -2262,7 +2268,7 @@ Bagial 11.6r"
 
 Penyidikan
 
-## Pasal 278C
+**Pasal 278C**
 
 - (1) Penyidik tindak pidana di sektorjasa keuangan terdiri atas:
 - a. penyidik Kepolisian Negara Republik Indonesia; dan
@@ -2272,7 +2278,7 @@ Penyidikan
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - (21 Penyidik tindak pidana di sektor jasa keuangan sebagaimana dimaksud pada ayat (1) berwenang dan bertanggung jawab melakukan penyidikan tindak pidana di sektor jasa keuangan berdasarkan Kitab Undang-Undang Hukum Acara Pidana.
 - (3) Penyidik Otoritas Jasa Keuangan sebagaimana dimalsud pada ayat (1) huruf b dapat berasal dari:
@@ -2287,7 +2293,7 @@ Penyidikan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (9) Pengangkatan, pemindahan, pemberhentian, dan pelantikan penyidik Otoritas Jasa Keuangan sebagaimana dimaksud pada ayat (1) huruf b dilakukan atas dasar pertimbangan dan peraturan yang berlaku pada kementerian/lembaga asal penyidik Otoritas Jasa Keuangan.
 - (10) Penyidik Otoritas Jasa Keuangan sebagaimana dimaksud pada ayat (3) berwenang dan bertanggung jawab:
@@ -2303,7 +2309,7 @@ Penyidikan
 
 <!-- image -->
 
-## PRESIDEItI REPUBLIK INDONESIA
+**PRESIDEItI REPUBLIK INDONESIA**
 
 - -t22-
 - h. melakukan penggeledahan di setiap tempat tertentu yang diduga terdapat setiap barang bukti pembukuan, pencatatan, dan dokumen lain serta melakukan penyitaan terhadap barang yang dapat dljadikan bahan bukti dalam perkara tindak pidana di sektor jasa keuangan;
@@ -2320,33 +2326,33 @@ Penyidikan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (13) Dalam melaksanakan kewenangan dan tanggung jawabnya sebagaimana dimaksud pada ayat (10), penyidik Otoritas Jasa Keuangan berada di bawah koordinasi dan pengawasan penyidik Kepolisian Negara Republik Indonesia berdasarkan Kitab Undang-Undang Hukum Acara Pidana.
 - (14) Dalam melaksanakan kewenangan dan tanggung jawabnya sebagaimana dimaksud pada ayat (10), penyidik Otoritas Jasa Keuangan memberitahukan dimulainya penyidikan melalui penyidik Kepolisian Negara Republik Indonesia kepada penuntut umum.
 - (15) Dalam melaksanakan kewenangan dan tanggung jawabnya sebagaimana dimaksud pada ayat (lO), penyidik Otoritas Jasa Keuangan menyampaikan hasil penyidikannya melalui penyidik Kepolisian Negara Republik Indonesia untuk kemudian secara bersama-sama menyerahkan berkas perkara kepada penuntut umum sebagaimana diatur dalam Kitab Undang-Undang Hukum Acara Pidana dan peraturan pelaksanaannya.
 
-## Pasal 278D
+**Pasal 278D**
 
 - (1) Penyidik Pegawai Negeri Sipil sebagaimana dimaksud dalam Pasal 278C ayat (3) huruf b menyerahkan berkas perkara melalui penyidik Kepolisian Negara Republik Indonesia untuk kemudian secara bersamasama menyerahkan berkas perkara kepada penuntut umum.
 - (2) Penuntut umum wajib menindaklanjuti dan memutuskan tindak lanjut hasil penyidikan sesuai kewenangannya paling lama 90 (sembilan puluh) hari terhitung sejak diterimanya berkas perkara sebagaimana dimaksud pada ayat (1).
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - -t24-
 
-## Pasal 278E
+**Pasal 278E**
 
 - (1) Penyidik Pegawai Negeri Sipil yang dipekerjakan di Otoritas Jasa Keuangan hanya dapat ditarik dengan pemberitahuan paling singkat 6 (enam) bulan sebelum penarikan dan tidak sedang menangani perkara.
 - (2) Penyidik Pegawai Negeri Sipil diharuskan bekerja sama dengan instansi terkait.
 
-## BAB XXIIB PEI{YELESAIAN PERKARA DI SEKTOR JASA KEUANGAN MELALUI KEADILAN RESTORATIF
+**BAB XXIIB PEI{YELESAIAN PERKARA DI SEKTOR JASA KEUANGAN MELALUI KEADILAN RESTORATIF**
 
-## Bagian Kesatu Umum
+**Bagian Kesatu Umum**
 
-## Pasal 278F
+**Pasal 278F**
 
 - (1) Penyelesaian perkara di sektorjasa keuangan melalui keadilan restoratif dapat dilakukan pada tahap:
 - a. penyelidikan;
@@ -2360,15 +2366,15 @@ Penyidikan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -t25-
 
-## Pasal 278G
+**Pasal 278G**
 
 Dalam hal penyidik Otoritas Jasa Keuangan melakukan penyelesaian perkara di sektor jasa keuangan melalui keadilan restoratif pada tahap penyelidikan dan penyidikan sebagaimana dimaksud dalam Pasal 278F ayal (1) huruf a dan huruf b, penyidik Otoritas Jasa Keuangan berkoordinasi dengan penyidik Kepolisian Negara Republik Indonesia.
 
-## Pasal 278H
+**Pasal 278H**
 
 Penyelesaian perkara di sektor jasa keuangan melalui keadilan restoratif dilaksanakan sesuai dengan Kitab Undang-Undang Hukum Acara Pidana kecuali ditentukan lain dalam Undang-Undang ini dan peraturan pelaksanaannya.
 
@@ -2376,7 +2382,7 @@ Bagian Kedua Penyelesaian Perkara di Sektor Jasa Keuangan Melalui Keadilan Resto
 
 Paragraf 1 Tahap Penyelidikan
 
-## Pasal 278I
+**Pasal 278I**
 
 - (1) Penyelidik tindak pidana di sektor jasa keuangan berwenang menetapkan dimulainya, tidak dilakukannya, atau dihentikannya penyelidikan atas perintah penyidik tindak pidana di sektor jasa keuangan terhadap tindak pidana di sektor jasa keuangan.
 2. (21 Sebelum menetapkan dimulainya penyidikan sebagaimana dimaksud pada ayat (1), penyelidik tindak pidana di sektor jasa keuangan melakukan penyelidikan terhadap dugaan tindak pidana di sektor jasa keuangan.
@@ -2385,7 +2391,7 @@ Paragraf 1 Tahap Penyelidikan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI.A
+**PRESIDEN REPUBLIK INDONESI.A**
 
 - -126-
 - a. permohonan yang diajukan oleh pihak yang diduga melakukan tindak pidana atau keluarganya, dan/ atau korban tindak pidana atau keluarganya; atau
@@ -2400,14 +2406,14 @@ Paragraf 1 Tahap Penyelidikan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (8) Ganti rugi sebagaimana dimaksud pada ayat (7) merupakan hak dari pihak yang dirugikan.
 - (9) Dalam hat kesepakatan sebagaimana dimaksud pada ayat (71 telah dipenuhi seluruhnya oleh pihak yang diduga melakukan tindak pidana di sektor jasa keuangan atau keluarganya, penyelidik tindak pidana di sektor jasa keuangan menghentikan penyelidikan dan menerbitkan surat penghentian penyelidikan atas perintah penyidik di sektor jasa keuangan.
 3. (10)Surat penghentian penyelidikan sebagaimana dimaksud pada ayat (9) disampaikan oleh penyelidik Otoritas Jasa Keuangan kepada penyidik Otoritas Jasa Keuangan yang selanjutnya disampaikan kepada penyidik Kepolisian Negara Republik Indonesia untuk diberitahukan kepada penuntut umum dan dimintakan penetapan kepada ketua pengadilan negeri dalam jangka waktu paling lama 3 (tiga) hari.
 - (11) Surat penghentian penyelidikan sebagaimana dimaksud pada ayat (9) disampaikan oleh penyelidik Kepolisian Negara Republik Indonesia kepada penyidik Kepolisian Negara Republik Indonesia untuk diberitahukan kepada penuntut umum dan dimintakan penetapan kepada ketua pengadilan negeri dalam jangka waktu paling lama 3 (tiga) hari.
 
-## (12) Dalam hal:
+**(12) Dalam hal:**
 
 - a. penyelidik tindak pidana di sektor jasa keuangan tidak menyetujui permohonan penyelesaian perkara melalui keadilan restoratif atas dugaan tindak pidana; atau
 - b. pihak yang mengajukan permohonan penyelesaian perkara melalui keadilan restoratif atas dugaan tindak pidana tidak memenuhi sebeglan atau seluruh kesepakatan sebagaimana dimaksud padaayal(71,
@@ -2418,11 +2424,11 @@ Pasal 278J. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -t2a-
 
-## Pasal 278J
+**Pasal 278J**
 
 - (1) Selain ganti rugi sebagaimana dimaksud dalam Pasal 2781 ayat (8), pihak yang diduga melakukan tindak pidana di sektor jasa keuangan dapat dikenai tindakan administratif berupa pemberian sanksi administratif oleh Otoritas Jasa Keuangan.
 2. (21 Sanksi administratif sebagaimana dimaksud pada ayat (1), meliputi:
@@ -2435,23 +2441,23 @@ Pasal 278J. . .
 - g. pencabutan izin usaha; dan/ atau
 - h. sanksi administratif lain yang ditetapkan oleh Otoritas Jasa Keuangan.
 
-## Pasal 278K
+**Pasal 278K**
 
 - (1) Penyelesaian perkara melalui keadilan restoratif atas dugaan tindak pidana di bidang Pasar Modal pada tahap penyelidikan hanya dapat dilakukan oleh penyelidik Kepolisian Negara Republik Indonesia atas perintah penyidik Kepolisian Negara Republik Indonesia.
 2. (21 Dalam melakukan penilaian sebagaimana dimaksud dalam Pasal 278F ayat (2) di bidang Pasar Modal, penyelidik Kepolisian Negara Republik Indonesia mempertimbangkan minimal:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 - a. nilai transaksi dari tindak pidana atau dampak tindak pidana;
 - b. ada atau tidak adanya penyelesaian atas kerugian yang timbul akibat tindak pidana;
 - c. akibat tindak pidana terhadap kegiatan penawaran dan/ atau perdagangan Efek secara keseluruhan; dan
 - d. dampak kerugian terhadap sistem Pasar Modal atau kepentingan pemodal atau investor dan/atau masyarakat.
 
-## Paragraf 2 Tahap Penyidikan
+**Paragraf 2 Tahap Penyidikan**
 
-## Pasal 278L
+**Pasal 278L**
 
 - (1) Dalam hal penyidik tindak pidana di sektor jasa keuangan memutuskan suatu peristiwa merupakan tindak pidana, penyidik melakukan penyidikan.
 2. (21 Penyidik tindak pidana di sektor jasa keuangan berwenang menetapkan dimulainya, tidak dilakukannya, atau dihentikannya penyidikan terhadap tindak pidana di sektor jasa keuangan.
@@ -2464,7 +2470,7 @@ Pasal 278J. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESTA
+**PRESIDEN REPUBLIK INDONESTA**
 
 - (5) Dalam melakukan penilaian terhadap permohonan penyelesaian perkara di sektorjasa keuangan melalui keadilan restoratif dan perhitungan nilai kerugian atas tindak pidana sebagaimana dimaksud pada ayat (4), penyidik tindak pidana di sektor jasa keuangan mempertimbangkan minimal:
 - a. ada atau tidaknya penyelesaian atas kerugian yang timbul akibat tindak pidana;
@@ -2480,14 +2486,14 @@ Pasal 278J. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESI,A
+**PRESIDEN REPUBUK INDONESI,A**
 
 - (11) Surat penghentian penyidikan sebagaimana dimaksud pada ayat (9) diberitahukan oleh penyidik Kepolisian Negara Republik Indonesia kepada penuntut umum dan dimintakan penetapan kepada ketua pengadilan negeri dalam jangka waktu paling lama 3 (tiga) hari.
 - (12) Dalam hal tidak tercapai kesepakatan sebagaimana dimaksud pada ayat (7), penyidik tindak pidana di sektor jasa keuangan berwenang melanjutkan proses penyidikan.
 
-## Paragraf 3 Tahap Penuntutan
+**Paragraf 3 Tahap Penuntutan**
 
-## Pasal 278M
+**Pasal 278M**
 
 - (1) Pada tahap penuntutan, penyelesaian perkara di sektor jasa keuangan melalui keadilan restoratif dapat dilakukan melalui:
 - a. permohonan yang diajukan oleh tersangka atau keluarganya, dan/atau korban atau keluarganya; atau
@@ -2499,7 +2505,7 @@ Pasal 278J. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - (5) Kesepakatan sebagaimana dimaksud pada ayat (3) dibuktikan dengan surat kesepakatan penyelesaian perkara dan ditandatangani oleh tersangka dan penuntut umum.
 - (6) Berdasarkan surat kesepakatan sebagaimana dimaksud pada ayat (5) penuntut umum menerbitkan surat ketetapan penghentian penuntutan.
@@ -2507,11 +2513,11 @@ Pasal 278J. . .
 - (8) Dalam hal perkara berasal dari penyidik Otoritas Jasa Keuangan, penyidik Kepolisian Negara Republik Indonesia wajib memberitahukan penetapan pengadilan sebagaimana dimaksud pada ayat (6) kepada penyidik Otoritas Jasa Keuangan dalam jangka waktu paling lama 3 (tiga) hari terhitung sejak penetapan pengadilan disampaikan kepada penyidik Kepolisian Negara Republik Indonesia.
 - (9) Dalam hal tidak tercapai kesepakatan sebagaimana dimaksud pada ayat (3), penuntut umum berwenang melanjutkan proses penuntutan.
 
-## Paragral 4
+**Paragral 4**
 
-## Tahap Pemeriksaan di Sidang Pengadilan
+**Tahap Pemeriksaan di Sidang Pengadilan**
 
-## Pasal 278N
+**Pasal 278N**
 
 - (1) Dalam hal penyelesaian perkara di sektor jasa keuangan melalui keadilan restoratif sebagaimana dimalsud dalam Pasal 278I sampai dengan Pasal 278M tidak dapat dilakukan, penerapan penyelesaian perkara di sektor jasa keuangan melalui keadilan restoratif dapat dilakukan pada tahap pemeriksaan di sidang pengadilan melalui Putusan Pengadilan dan pelaksanaan Putusan Pengadilan.
 
@@ -2519,20 +2525,20 @@ Pasal 278J. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -133-
 - (21 Pada tahap pemeriksaan di sidang pengadilan, penyelesaian perkara di sektor jasa keuangan melalui keadilan restoratif dapat dilakukan melalui:
 - a. permohonan yang diajukan oleh terdakwa atau keluarganya, dan/ atau korban atau keluarganya; atau
 - b. penawaran dari hakim kepada korban atau terdakwa.
 
-## Pasal 2780
+### Pasal 2780 ^pasal-2780
 
 Ketentuan lebih lanjut mengenai pelaksanaan penyelesaian perkara melalui keadilan restoratif sebagaimana dimaksud dalam Pasal 278F sampai dengan Pasal 278N diatur dalam Peraturan Pemerintah.
 
 104. Di antara Pasal 3O4 dan Pasal 305 disisipkan 1 (satu) pasal, yakni Pasal 304A sehingga berbunyi sebagai berikut:
 
-## Pasal 304A
+**Pasal 304A**
 
 - (1) Setiap Orang yang melakukan kegiatan usaha sebagai IJK Aset Kripto dan/ atau LJK AKD selain Aset Kripto tanpa izin usaha dari Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 221A ayal (21 dan Pasal 221F dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau pidana denda paling banyak kategori VIII.
 2. l2l Setiap Orang yang melakukan pelanggaran ketentuan Pasal 221A ayat (8) dan Pasal 22lF dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan/ atau pidana denda paling banyak kategori VII.
@@ -2542,11 +2548,11 @@ Ketentuan lebih lanjut mengenai pelaksanaan penyelesaian perkara melalui keadila
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK TNDONESIA
+**PRESIDEN REPUBLIK TNDONESIA**
 
 - (4) LJK Aset Kripto, LrK AKD selain Aset Kripto, dan/atau Setiap Orang yang melanggar ketentuan dalam Pasal 22lD dan Pasal 221F dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/ atau pidana denda paling banyak kategori VIIL
 
-## Pasal II
+**Pasal II**
 
 1. Ketentuan mengenai persetujuan DPR atas rencana kerja dan anggaran tahunan untuk kegiatan operasional Lembaga Penjamin Simpanan sebagaimana dimaksud dalam Pasal 86 pada angka 25 dalam Pasal 7 mulai berlaku untuk tahun anggaran 2027.
 2. Persetujuan DPR atas rencana kerja dan anggaran tahunan untuk kegiatan operasional l,embaga Penjamin Simpanan untuk tahun anggaran 2027 diberikan paling lambat tanggal 31 Desember 2O26.
@@ -2563,7 +2569,7 @@ Ketentuan lebih lanjut mengenai pelaksanaan penyelesaian perkara melalui keadila
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - h. Pasal 30 pada angka 16 dalam Pasal 7, mulai berlaku pada tanggal 1 Januari 2030.
 6. Pada saat Undang-Undang ini mulai berlaku:
@@ -2614,13 +2620,13 @@ PRABOWO SUBIANTO
 
 <!-- image -->
 
-## EIII=FII'trN REPUBLIK INOONESIA
+**EIII=FII'trN REPUBLIK INOONESIA**
 
-## PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 4 TAHUN 2026 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 4 TAHUN 2023 TENTANG
+## Penjelasan
 
-## PENGEMBANGAN DAN PENGUATAN SEKTOR KEUANGAN
+### I. Umum
 
-## I. UMUM
+**PENGEMBANGAN DAN PENGUATAN SEKTOR KEUANGAN**
 
 Undang-Undang Nomor 4 Tahun 2O23 tentang Pengembangan dan Penguatan Sektor Keuangan dibentuk untuk mendukung upaya mewujudkan masyarakat Indonesia yang adil, makmur, dan sejahtera berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Perwujudan sektor keuangan yang dalam, inovatif, efisien, inklusif, dapat dipercaya, kuat, dan stabil melalui pengaturan dalam Undang-Undang Nomor 4 Tahun 2023 leatang Pengembangan dan Penguatan Sektor Keuangan akan mendorong pertumbuhan ekonomi yang tangguh, inklusif dan berkelanjutan (sustainable) menuju Indonesia yang sejahtera, maju, dan bermartabat, serta terpercaya. Dalam perkembangannya, terdapat 2 (dua) putusan Mahkamah Konstitusi terkait pengujian Undang-Undang Nomor 4 Tahun 2023 tenlang Pengembangan dan Penguatan Sektor Keuangan, yalni Putusan Mahkamah Konstitusi Nomor 59lPUU-XXll2O23 terkait penyidikan terhadap tindak pidana di sektor jasa keuangan dan Putusan Mahkamah Konstitusi Nomor SS/PUU-XXI 12024 terkait penetapan rencana kerja dan anggaran tahunan Lembaga Penjamin Simpanan. Berdasarkan putusan Mahkamah Konstitusi tersebut, serta adanya kebutuhan hukum untuk mengoptimalkan peran sektor keuangan perlu ditindaklanjuti dengan membentuk Undang-Undang tentang Perubahan atas Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan. Materi muatan Undang-Undang ini meliputi perbaikan, penyesuaian,
 
@@ -2644,7 +2650,7 @@ a.penguatan...
 
 <!-- image -->
 
-## Erl5trTilrl REPUBLIK INDONESI"A
+**Erl5trTilrl REPUBLIK INDONESI"A**
 
 - -3-
 - k. perubahan konsep mekanisme program penjaminan polis, sehingga Lembaga Penjamin Simpanan sebagai penyelenggara program penjaminan polis memiliki pilihan untuk menyelamatkan atau tidak menyelamatkan Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang ditetapkan Otoritas Jasa Keuangan sebagai Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi;
@@ -2663,13 +2669,13 @@ Pasal I Angka 1 Pasal 1 Cukup jelas.
 
 <!-- image -->
 
-## Ert=FITtI:N REPUBLIK INOONESIA
+**Ert=FITtI:N REPUBLIK INOONESIA**
 
 Andkz2 Pasal 1 Cukup jelas. Angka 3 Pasal 2 Ayat (1) Yang dimaksud dengan "undang-undang mengenai Lembaga Penjamin Simpanan" adalah UndangUndang Nomor 24 Tal:un 2004 tentang kmbaga Penjamin Simpanan. Ayat (2) Cukup jelas. Ayat (3) Independensi Lembaga Penjamin Simpanan mengandung arti bahwa dalam pelaksanaan fungsi, tugas, dan wewenangnya, Lemb"ga Penjamin Simpanan tidak bisa dicampurtangani oleh pihak mana pun termasuk oleh Pemerintah kecuali atas hal yang dinyatakan secara jelas di dalam UndangUndang ini. Mengingat bahwa kebijakan Penjaminan dan penjaminan polis dapat berdampak pada sektor perbankan, perasuransian, dan Iiskal maka di dalam Lembaga Penjamin Simpanan terdapat wakil dari setiap otoritas yang berwenang. Keberadaan para wakil otoritas dimaksudkan untuk bersamasama merumuskan kebljakan Penjaminan dan penjaminan polis yang dapat mendukung kebijakan pada masing-masing selrtor. Namun, pelaksanaan kebijakan tersebut sepenuhnya merupakan tanggung jawab dan kewenangan otoritas masingmasing. Sebagai contoh, dalam melaksanakan tugas penyelesaian Bank yang dicabut izin usahanya, khususnya dalam rangka penjualan/pengalihan aset Bank, kmbaga Penjamin Simpanan tidak dapat dipengaruhi oleh kepentingan pihak luar termasuk Pemerintah. Ayat (a) Cukup jelas.
 
 Angka4.. .
 
-## An.dka 4
+**An.dka 4**
 
 Pasal 4
 
@@ -2677,11 +2683,11 @@ Huruf a
 
 Penjaminan Nasabah Penyimpan juga mencakup Penjaminan bentuk yang setara dengan Simpanan bagi Bank yang menjalankan kegiatan usaha berdasarkan Prinsip Syariah.
 
-## Hurufb
+**Hurufb**
 
 Lembaga Penjamin Simpanan menjamin polis asuransi bagi pemegang polis, tertanggung, atau peserta.
 
-## Huruf c
+**Huruf c**
 
 Lembaga Penjamin Simpanan memelihara Stabilitas Sistem Keuangan bersama dengan Menteri Keuangan, Otoritas Jasa Keuangan, dan Bank Indonesia, sesuai dengan peran dan tugas masing-
 
@@ -2689,7 +2695,7 @@ masing.
 
 Lembaga Penjamin Simpanan berdasarkan UndangUndang ini diberi mandat sebagai risk minimizer yang memiliki fungsi untuk meminimalkan risiko terganggunya Stabilitas Sistem Keuangan, termasuk asesmen risiko Bank dan kewenangan untuk melakukan keterlibatan dini (earlg interuentionl dan resolusi Bank dalam penanganan permasalahan Bank. Keterlibatan dini (earlg intervenfion) Lembaga Penjamin Simpanan di antaranya dilakukan melalui pemeriksaan Bank dalam rangka persiapan penanganan permasalahan Bank dan penempatan dana.
 
-## Huruf d
+**Huruf d**
 
 Sebagai otoritas resolusi, Lembaga Penjamin Simpanan melaksanakan tindakan resolusi terhadap Bank yang mengalami permasalahan keuangan dengan cara:
 
@@ -2700,13 +2706,13 @@ Sebagai otoritas resolusi, Lembaga Penjamin Simpanan melaksanakan tindakan resol
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - 5-
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -6-
 
@@ -2716,38 +2722,38 @@ Hurufe . . .
 
 <!-- image -->
 
-## EII{IT]T{I] liTTIrI-:If iXTItd-lIt{JIn
+**EII{IT]T{I] liTTIrI-:If iXTItd-lIt{JIn**
 
-## Huruf e
+**Huruf e**
 
 Data dan laporan dapat diperoleh langsung dari Perusahaan Asuransi dan Perusahaan Asuransi Syariah atau dari Otoritas Jasa Keuangan dengan mekanisme yang diatur bersama antara trmbaga Penjamin Simpanan dan Otoritas Jasa Keuangan.
 
-## Huruf f
+**Huruf f**
 
 Cukup jelas.
 
-## Hurufg
+**Hurufg**
 
 Cukup jelas.
 
-## Hurufh
+**Hurufh**
 
 Pihak lain di antaranya mencakup akuntan publik, konsultan hukum, penasihat investasi, lembaga penelitian, perusahaan penilai, dan/atau pejabat lelang.
 
 T\rgas tertentu di antaranya mencakup melakukan verifikasi, membuat opini hukum, melakukan penelitian mengenai risiko penjaminan, dan/ atau melakukan likuidasi.
 
-## Huruf i
+**Huruf i**
 
 Cukup jelas.
 
-## Hurufj
+**Hurufj**
 
 Pemeriksaan Bank yang dilakukan Lembaga Penjamin Simpanan di antaranya dalam rangka:
 
 1. perhitungan premi Penjaminan, termasuk melakukan rekonsiliasi, verifikasi, dan/ata,u konfirmasi; dan/ atau
 2. penanganan permasalahan Bank, baik Bank dalam pengawasan normal maupun Bank dalam penyehatan.
 
-## Hurufk
+**Hurufk**
 
 Pemeriksaan Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang dilakukan Lembaga Penjamin Simpanan di antaranya dalam rangka:
 
@@ -2755,28 +2761,28 @@ Pemeriksaan Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang dilakukan L
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - 1 perhitungan iuran berkala, melakukan rekonsiliasi, dan/ atau konfirmasi; dan/ atau termasuk verifikasi,
 2. persiapan pelaksanaan progrzrm penjaminan polis terhadap Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang mengalami permasalahan keuangan.
 
-## Huruf I
+**Huruf I**
 
 Bank dalam penyehatan merupakan status pengawasan Bank yang ditetapkan oleh Otoritas Jasa Keuangan berdasarkan kriteria tertentu sebagai Bank dalam penyehatan.
 
-## Hurufm
+**Hurufm**
 
 Yang dimaksud dengan "pengelola statutef adalah orang perseorangan atau badan hukum yang ditunjuk oleh Lembaga Penjamin Simpanan untuk melaksanakan pengelolaan Bank yang menerima penempatan dana kmbaga Penjamin Simpanan guna mengupayakan agar Bank kembali menjadi sehat dan dapat mengembalikan penempatan dana tersebut kepada Lembaga Penjamin Simpanan.
 
-## Hurufn
+**Hurufn**
 
 Cukup jelas.
 
-## Huruf o
+**Huruf o**
 
 Cukup jelas.
 
-## Huruf p
+**Huruf p**
 
 Dalam menjalankan tugas dan fungsi turut aktif memelihara Stabilitas Sistem Keuangan, kmbaga Penjamin Simpanan dapat memberikan dukungan kepada Bank dalam pengembangan sistem pelaporan.
 
@@ -2784,24 +2790,24 @@ Huruf q . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -9
 
-## Hurufq
+**Hurufq**
 
 Dukungan finansial lfinancial assisfance) diberikan Lembaga Penjamin Simpanan untuk membayar klaim penjaminan sampai dengan diputuskan cara penanganan atas Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi, dan untuk membayar kegiatan operasional esensial dari Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang jumlahnya diputuskan oleh Lembaga Penjamin Simpanan. Dukungan finansial (financial assistanoe) dicatat sebagai kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi kepada Lembaga Penjamin Simpanan.
 
 Huruf r Cukup jelas.
 
-## Ayat (2)
+**Ayat (2)**
 
 Pemberitahuan tertulis Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi oleh Otoritas Jasa Keuangan kepada Lembaga Penjamin Simpanan adalah sebagai:
 
 - a. penyerahan penangan€rn Bank untuk dilakukan tindakan resolusi oleh kmbaga Penjamin Simpanan; atau
 - b. penyerahan penanganan terhadap Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi.
 
-## Huruf a
+**Huruf a**
 
 Dengan dilakukannya pengambilalihan segala hak dan wewenang pemegang saham, termasuk hak dan wewenang RUPS, Lembaga Penjamin Simpanan dapat melakukan antara lain:
 
@@ -2809,7 +2815,7 @@ Dengan dilakukannya pengambilalihan segala hak dan wewenang pemegang saham, term
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -10-
 2. pengamanan aset Bank Dalam Resolusi serta Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang diserahkan penanganan atau penyele saiannya kepada l.embaga Penjamin Simpanan; dan
@@ -2817,15 +2823,15 @@ Dengan dilakukannya pengambilalihan segala hak dan wewenang pemegang saham, term
 
 guna memaksimalkan pengembalian (recoueryl dana Penjaminan dan penjaminan polis.
 
-## Huruf b
+**Huruf b**
 
 Dengan ketentuan ini, Lembaga Penjamin ' Simpanan dapat menguasai, mengelola, dan melakukan tindakan kepemilikan seperti halnya sebagai pemilik.
 
-## Huruf c
+**Huruf c**
 
 Dalam hal peninjauan ulang, pembatalan, pengakhiran, dan/atau perubahan kontrak oleh Lembaga Penjamin Simpanan menimbulkan kerugian bagi suatu pihak, pihak tersebut hanya dapat menuntut penggantian yang tidak melebihi nilai manfaat yang telah diperoleh dari kontrak dimaksud setelah terlebih dahulu membuktikan secara nyata dan jelas kerugian yang dialaminya.
 
-## Huruf d
+**Huruf d**
 
 Yang dimaksud dengan pensalihan kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah termasuk pengalihan portofolio polis asuransi.
 
@@ -2837,7 +2843,7 @@ Pelindungan hukum antara lain:
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - 11-
 
@@ -2849,7 +2855,7 @@ Angka 8 Angka 15a Cukup jelas. Angka 15b Pasal 2OA Cukup jelas. Angka l5c Cukup 
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 ```
 Angka 14 Pasal 28 Ayat (1) Yang dimaksud dengan "ekuitas' adalah nilai aset setelah dikurangi kewaj iban. Ayat (2) Cukup jelas. Angka 15 Pasal 29 Cukup jelas. Angka 16 Pasal 30 Cukup jelas. Angka 17 Angka23a Cukup jelas. Angka 18 Pasal 31 Cukup jelas. Angka 19 Pasal 63 Ayat (1) Cukup jelas. Ayat(21 Cukup jelas. Ayat (3) Selain bertindak untuk dan atas nama lembaga yang dipimpinnya sebagai anggota Komite Stabilitas Sistem Keuangan, Ketua Dewan Komisioner bertindak sebagai pimpinan tertinggi dalam hubungan internal dan eksternal kelembagaan, antara lain dalam rapat dengan Komite Stabilitas Sistem Keuangan, Pemerintah, DPR, dan dalam pertemuan dengan lembaga internasional. Ayat (4) Cukup jelas.
@@ -2857,7 +2863,7 @@ Angka 14 Pasal 28 Ayat (1) Yang dimaksud dengan "ekuitas' adalah nilai aset sete
 
 <!-- image -->
 
-## PRESIDEil REFUBUK INDONESI,A
+**PRESIDEil REFUBUK INDONESI,A**
 
 ```
 Angka 20 Pasal 65 Ayat (1) Huruf a Merupakan pejabat ex-officio. Huruf b Merupakan Pejabat ex-officio. Huruf c Merupakan pejabat ex-oficio. Huruf d Anggota yang berasal dari luar Penjamin Simpanan Paling sedikit orang. Ayat (2) Cukup jelas. Ayat (5) Pembagian dan/atau perubahan pembidangan, tugas dan wewenang dilakukan dengan mempertimbangkan beban kinerja baik Ketua Dewan Komisioner, Wakil Ketua Dewan Komisioner, anggota Dewan Komisioner yang membidangi Penjaminan dan resolusi Bank, dan anggota Dewan Komisioner yang membidangi penjaminan polis. Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perencanaan pembangunan nasional, moneter, dan sektor jasa keuangan. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. kmbaga 2 (dua)
@@ -2867,7 +2873,7 @@ Ayat(s)...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perencanaan pembangunan nasional, moneter, dan sektor jasa keuangan. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup je1as. Angka2l Pasal 67 Cukup jelas. Ang)<a22 Pasal 69 Ayat (1) Huruf a Yang dimaksud dengan "berhalangan tetap" adalah meninggal dunia, kehilangan kewarganegaraan Indonesia, atau mengalami cacat fisik dan/ atau cacat mental yang tidak memungkinkan yang bersangkutan untuk melaksanakan tugasnya dengan baik. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Alasan yang sah di antaranya didasarkan pada surat keterangan dokter atau surat keterangan dari instansi yang berwenang. Huruf e Cukup jelas.
@@ -2875,7 +2881,7 @@ Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat te
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Huruf f Cukup jelas. Hurufg Cukup jelas. Huruf h Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Apabila anggota Dewan Komisioner pengganti menjabat selama setengah atau lebih masa jabatan, yang bersangkutan dihitung telah menjabat 1 (satu) kali masa jabatan. Angka 23 Pasal 71 Ayat (1) Rapat Dewan Komisioner meliputi rapat berkala dan rapat sewaktu-waktu. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Angka24 Angla 47a PasaT 74 Ayat (1) Cukup jelas.
@@ -2883,7 +2889,7 @@ Huruf f Cukup jelas. Hurufg Cukup jelas. Huruf h Cukup jelas. Ayat (2) Cukup jel
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 Ayat (2) T\rgas komite audit adalah melakukan evaluasi atas pelaksanaan tugas yang dilaksanakan oleh Kepala Eksekutif dan Direktur dalam rangka pengawasan yang dilakukan oleh Dewan Komisioner. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Angka 25 Pasal 86 Ayat (1) Cukup jelas. Ayat (2) Huruf a Rencana kerja dan anggaran tahunan untuk kegiatan operasional memuat beban umum dan administrasi untuk tahun anggaran berikutnya. Anggaran tahunan untuk kegiatan operasional, terdiri dari penjabaran dan keterkaitan tugas, fungsi, visi, misi, program, kegiatan, indikator kinerja utama, dan anggaran Lembaga Penjamin Simpanan yang digunakan untuk membiayai kegiatan operasional, administrasi, pengadaan aset dan kegiatan pendukung lainnya, yang dapat meliputi antara lain: L. biaya kepegawaian; 2. perjalanan dinas; 3. konsultan; 4. rapat; 5. publikasi dan kehumasan; 6. edukasi dan sosialisasi; 7. diskusi, diskusi kelompok, dan seminar; 8. rePresentasi; 9. perkantoran;
 
@@ -2892,7 +2898,7 @@ Ayat (2) T\rgas komite audit adalah melakukan evaluasi atas pelaksanaan tugas ya
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - -t7-
 12. transportasi dan kendaraan;
@@ -2900,7 +2906,7 @@ Ayat (2) T\rgas komite audit adalah melakukan evaluasi atas pelaksanaan tugas ya
 14. umum dan administrasi lainnya; dan
 15. penyusutan.
 
-## Hurufb
+**Hurufb**
 
 Anggaran tahunan untuk kebutuhan Penjaminan, penjaminan polis, penempatan dana, resolusi Bank, dan resolusi Perusahaan Asuransi dan Perusahaan Asuransi Syariah, merupakan anggaran lembaga Penjamin Simpanan yang digunakan untuk membiayai upaya, program, kegiatan yang berkaitan langsung dengan pelaksana fungsi Lembaga Penjamin Simpanan.
 
@@ -2936,7 +2942,7 @@ Ar:dka26 Angka 57a Pasal 86A AYat (1) Yang dimaksud dengan "standar yang wajar p
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Angka 61b Pasal 90A Cukup jelas. Angka 28 Pasal 95A Cukup jelas. Arrdaa29 Pasal 6 Ayat (1) Hurufa Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d IJK Lainnya di antaranya penyelenggara program jaminan sosial, pensiun, dan kesejahteraan, sebagaimana dimaksud dalam peraturan perundang-undangan mengenai pergadaian, penjaminan, lembaga pembiayaan ekspor Indonesia, perusahaan pembiayaan sekunder perumahan, dan pengelolaan dana masyaralat yang bersifat wajib, serta lembaga jasa keuangan lain yang dinyatakan diawasi oleh Otoritas Jasa Keuangan berdasarkan ketentuan peraturan perundang-undangan. Huruf e Cukup jelas. Huruf f Cukup jelas. Hurufg Pengelolaan dana publik lainnya mencakup dana yang dihimpun atau dikumpulkan dari masyarakat oleh lembaga tertentu yang dibentuk berdasarkan ketentuan peraturan perundang-undangan yang ditempatkan dan diinvestasikan di sektor jasa keuangan di antaranya dana pengelolaan keuangan haji dan dana tabungan perumahan ral<yat.
@@ -2944,7 +2950,7 @@ Angka 61b Pasal 90A Cukup jelas. Angka 28 Pasal 95A Cukup jelas. Arrdaa29 Pasal 
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESI,A
+**PRESIDEN REFUBLIK INDONESI,A**
 
 - -20-
 
@@ -2958,7 +2964,7 @@ Kewenangan
 
 <!-- image -->
 
-## lrlItEFIEtrN REPUBLIK INDONESIA
+**lrlItEFIEtrN REPUBLIK INDONESIA**
 
 Kewenangan untuk mengajukan pernyataan pailit bag perusahaan perasuransian sepenuhnya ada pada Otoritas Jasa Keuangan. Ketentuan ini diperlukan untuk membangun tingkat kepercayaan masyarakat terhadap Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau perusahaan reasuransi syariah sebagai lembaga pengelola risiko dan sekaligus sebagai lembaga pengelola dana masyarakat yang memiliki kedudukan strategis dalam pembangunan dan kehidupan Kewenangan untuk mengajukan pailit bagi Dana Pensiun sepenuhnya ada pada Otoritas Jasa Keuangan. Ketentuan ini diperlukan untuk membangun tingkat kepercayaan masyarakat terhadap Dana Pensiun, mengingat Dana Pensiun mengelola dana masyarakat dalam jumlah besar dan dana tersebut merupakan hak dari peserta yang banyak jumlahnya. Kewenangan untuk mengajukan permohonan pailit bagi pedagang aset kripto, bursa aset kripto, lembaga kliring penjaminan dan penyelesaian perdagangan aset kripto, pengelola tempat penyimpanan aset kripto secara terpusat, penerbit aset kripto sesuai dengan ketentuan peraturan perundang-undangan di sektor ITSK serta aset keuangan digital termasuk aset kripto, pedagang aset keuangan digital selain aset kripto, bursa aset keuangan digital selain aset kripto, lembaga kliring penjaminan dan penyelesaian perdagangan aset keuangan digital selain aset kripto, pengelola tempat penyimpanan aset keuangan digital selain aset kripto secara terpusat, serta penerbit aset keuangan digital selain aset kripto sesuai dengan ketentuan peraturan perundang-undangan di sektor ITSK serta aset keuangan digital termasuk aset kripto sepenuhnya ada pada Otoritas Jasa Keuangan. Ketentuan ini diperlukan untuk membangun kepercayaan masyarakat mengingat kegiatan para pihak tersebut di atas merupakan kegiatan yang berhubungan langsung dengan penghimpunan dana, penyaluran dana, dan/ atau pengelolaan dana milik konsumen dan/atau masyarakat. Yang dimaksud dengan "sepanjang pembubaran dan/atau kepailitannya tidak diatur berbeda oleh melaksanakan sebagian kewenangan Pemerintah dan
 
@@ -2966,7 +2972,7 @@ Undang-Undang lainnya" adalah LJK yang merupakan badan hukum sai generis.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 Dalam hal debitur mempunyai lebih dari I (satu) izin kegiatan usaha, kewenangan Otoritas Jasa Keuangan dalam pasal ini berlaku jika debitur mendapatkan bin utama dari Otoritas Jasa Keuangan.
 
@@ -2980,33 +2986,33 @@ Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
-## Huruf b
+**Huruf b**
 
 Cukup jelas.
 
-## Huruf c
+**Huruf c**
 
 Kepala Eksekutif Pengawas Perbankan memimpin tugas pengawasan terhadap kegiatan jasa keuangan di sektor Perbankan.
 
-## Huruf d
+**Huruf d**
 
 Kepala Eksekutif Pengawas Pasar Modal, Keuangan Derivatif, dan Bursa Karbon memimpin tugas pengawasan terhadap kegiatan jasa keuangan di sektor Pasar Modal, keuangan Derivatif, dan bursa karbon.
 
-## Huruf e
+**Huruf e**
 
 Kepala Eksekutif Pengawas Perasuransian, Penjaminan, dan Dana Pensiun memimpin tugas pengawasan terhadap kegiatan jasa keuangan di sektor perasuransian, penjaminan, dan dana pensiun.
 
-## Huruf f
+**Huruf f**
 
 Kepala Eksekutif Pengawas Lembaga Pembiayaan Perusahaan Modal Ventura, Lembaga Keuangan Mikro, dan kmbaga Jasa Keuangan Lainnya memimpin tugas pengawasan terhadap kegiatan jasa keuangan di sektor Lembaga Pembiayaan, perusahaan modal ventura, lembaga keuangan mikro, dan LJK Lainnya.
 
-## Hurufg
+**Hurufg**
 
 Kepala Eksekutif Pengawas Inovasi Teknologi Sektor Keuangan, Aset Keuangan Digitd, dan Aset Kripto memimpin tugas pengawaszln terhadap kegiatan jasa keuangan di sektor ITSK dan aset keuangan digital termasuk aset kripto.
 
-## Huruf h
+**Huruf h**
 
 Kepala Eksekutif Pengawas Perilaku Pelaku Usaha Jasa Keuangan, Edukasi, dan Pelindungan Konsumen memimpin tugas pengawasan terhadap perilaku pelaku usaha jasa keuangan, edukasi, dan Pelindungan Konsumen.
 
@@ -3014,7 +3020,7 @@ Pelindungan . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 Pelindungan Konsumen termasuk satuan tugas
 
@@ -3026,7 +3032,7 @@ Komisioner kepada DPR, Presiden menyampaikan natna-narna calon Dewan Komisioner.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONEISI,A
+**PRESIDEN REPUBLIK INDONEISI,A**
 
 Yang dimaksud dengan 'DPR' adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perencanaan pembangunan nasional, moneter, dan sektor jasa keuangan.
 
@@ -3038,11 +3044,11 @@ ditetapkan dengan Keputusan Presiden.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 Yang dimaksud dengan "diperkirakan secara medis" adalah perkiraan secara medis yang dibuktikan dengan keterangan tertulis dari dokter yang menerangkan bahwa anggota Dewan Komisioner yang bersangkutan tidak dapat melaksanakan tugas lebih dari 6 (enam) bulan berturut-turut.
 
-## Huruf e
+**Huruf e**
 
 Yang dimaksud dengan "tanpa alasan yang dapat dipertanggungiawabkan" adalah tidak adanya alasan yang kuat yang menyebabkan anggota Dewan Komisioner diberhentikan.
 
@@ -3054,11 +3060,11 @@ Huruf f Cukup jelas. Huruf g
 
 Cukup jelas.
 
-## Huruf h
+**Huruf h**
 
 Yang dimaksud dengan "semenda" adalah pertalian kekeluargaan karena perkawinan, yaitu pertalian antara salah seorang dari suami istri dan keluarga sedarah dari pihak lain.
 
-## Hurufi
+**Hurufi**
 
 Pelanggaran kode etik dalam ketentuan ini adalah pelanggaran yang dikategorikan pelanggaran berat dan dilaporkan oleh Dewan Komisioner kepada Dewan Perwakilan Rakyat.
 
@@ -3068,13 +3074,13 @@ Hurufj Cukup jelas. Huruf k Cukup jelas. Ayat (2) Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INOONESIA
+**PRESIDEN REPUBLIK INOONESIA**
 
 - Angka 35 Angka 9a Pasal 18 Ayat (1) Cukup jelas. Ayat (2) Apabila anggota Dewan Komisioner pengganti menjabat selama setengah atau lebih masa jabatan, yang bersangkutan dihitung telah menjabat 1 (satu) kali masa jabatan. Ayat (3) Yang dimaksud dengan "sisa masa jabatan anggota Dewan Komisioner yang diberhentikan kurang dari 1 (satu) tahun" adalah sisa masa jabatan terhitung sejak tanggal penetapan pemberhentian anggota Dewan Komisioner. Angka 9b Pasal 21A Pelindungan hukum antara lain: a. bantuan hukum dan pendampingan hukum yang diberikan oleh Otoritas Jasa Keuangan atau kuasa hukum yang ditunjuk; dan b. penggantian biaya pembelaan hukum oleh Otoritas Jasa Keuangan, meliputi biaya pengacara, biaya perkara, dan biaya lain yang diperlukan untuk membela diri atas tuntutan perdata maupun pidana. Angka 36 Pasal 25 Ayat (1) Cukup jelas. Ayat (21 Dewan Komisioner yang ditunjuk mewakili Otoritas Jasa Keuangan, antara lain dalam pelaksanaan ke{a sama antarinstansi dan hubungan internasional. Ayat (3) Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 Ayat (a) Cukup jelas. Angka 37 Pasal 35 Ayat (1) Yang dimaksud dengan "kegiatan operasional" adalah kegiatan penyelenggaraan pelaksanaan fungsi, tugas, dan wewenang Otoritas Jasa Keuangan, di antaranya mencakup pengaturan, pengawasan, penegakan hukum, edukasi, sosialisasi, diskusi publik, seminar, diskusi kelompok, dan/ atau Pelindungan Konsumen. Kegiatan administratif di antaranya mencakup kegiatan perkantoran, remunerasi, pendidikan dan pelatihan, dan/ atau pengembangan organisasi dan sumber daya manusia. Yang dimaksud dengan "aset" adalah aset lancar dan aset nonlancar, di antaranya mencakup persediaan, gedung, peralatan dan mesin, kendaraan, perlengkapan kantor, dan/atau infrastruktur teknologi informasi. Ayat(21 Yang dimaksud dengan ostandar yang wajar pada sektor jasa keuangan" adalah standar biaya yang lazim digunakan oleh sektor jasa keuangan atau regulator sektor jasa keuangan sejenis, baik nasional maupun internasional. Hal ini dilakukan agar Otoritas Jasa Keuangan dapat mengimbangi tuntutan dan dinamika sektor jasa keuangan, baik secara nasional maupun internasional. Ayat (s) Cukup jelas. Ayat (4) Yang dimaksud dengan 'DPR adalah alat
 
@@ -3082,7 +3088,7 @@ kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya d
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Angka 38 Angka 13a Pasal 36 Cukup jelas. Angka 39 Pasal 37 Ayat (1)
@@ -3114,7 +3120,7 @@ Penerimaan lainnya termasuk penerimaan yang berasal dari sanksi administratif. P
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
 - -30-
 
@@ -3130,13 +3136,13 @@ Angka 45 Pasal 7 Ayat (1) Sebagai bagian dari Negara Kesatuan Republik Indonesia
 
 Stabilitas . . .
 
-## Ayat (2)
+**Ayat (2)**
 
 bauran kebijakan untuk mencapai stabilitas nilai rupiah, memelihara stabilitas Sistem Pembayaran, dan turut menjaga Stabilitas Sistem Keuangan. Di samping itu, Bank Indonesia melakukan sinergi dengan kebijakan fiskal dan sektor riil Pemerintah untuk mendorong lingkungan ekonomi yang kondusif bagi pertumbuhan ekonomi dan penciptaan lapangan kerja, antara lain melalui terwujudnya iklim investasi, digitalisasi, daya saing ekspor, produktivitas sektor riil, pemberdayaan ekonomi masyarakat, serta pengembangan ekonomi inklusif dan hijau.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -32-
 
@@ -3144,7 +3150,7 @@ Stabilitas Sistem Pembayaran tercermin dari penyelenggaraan Sistem Pembayaran ya
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESI.A
+**PRESIDEN REFUBLIK INDONESI.A**
 
 ```
 Angka 46 Ang)<a24a Pasal 35E Pelindungan hukum antara lain:
@@ -3161,7 +3167,7 @@ Untuk. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -34-
 
@@ -3169,15 +3175,15 @@ Untuk hal lain tidak perlu dibahas dalam rapat Dewan Gubernur, tetapi cukup dite
 
 Yang dimaksud dengan "dihadiri oleh 1 (satu) orang menteri" adalah menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan. Dalam hal menteri berhalangan hadir, menteri tersebut dapat memberikan kuasa kepada pejabat paling rendah setingkat pejabat pimpinan tinggi madya menghadiri Rapat Dewan Gubernur.
 
-## Ayat (2)
+**Ayat (2)**
 
 Penyelenggaraan rapat Dewan Gubernur dapat dilakukan dengan memanfaatkan teknologi komunikasi misalnya melalui konferensi jarak jauh (teLeanferenel. Hd ini memungkinkan anggota Dewan Gubernur dapat mengikuti rapat Dewan Gubernur tanpa selalu harus hadir secara frsik dalam ruang rapat yang sarna,
 
-## Ayat (s)
+**Ayat (s)**
 
 Pengertian Gubernur pada ayat ini termasuk Deputi Gubernur Senior atau Deputi Gubernur yang bertindak sebagai pemimpin rapat menggantikan Gubernur yang karena sesuatu hal berhalangan hadir.
 
-## Ayat (4)
+**Ayat (4)**
 
 Yang dimaksud dengan "keadaan darurat' adalah situasi dan kondisi kritis yang apabila tidak diambil tindakan tertentu dapat berdampak negatif baik bagi Bank Indonesia maupun terhadap pelaksanaan tugas yang diberikan kepada Bank Indonesia berdasarkan undang-undang ini.
 
@@ -3187,7 +3193,7 @@ Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 ```
 Ayat (6) Cukup jelas. Angka 49 Angka 28a Pasal 48 Ayat (1) Hurufa Pengunduran diri sebagaimana disebut dalam pasal ini adalah diajukan secara sukarela oleh yang bersangkutan atau disebabkan oleh ketentuan sebagaimana dimaksud dalam Pasal 46 ayat (2) atau Pasd47 ayat(21. Huruf b Pemberhentian karena melakukan tindak pidana kejahatan sebagaimana dimaksud dalam pasal ini harus dibuktikan dengan keputusan pengadilan yang telah mempunyai kekuatan hukum tetap. Huruf c Tidak dapat dipertanggungiawabkan sebagaimana dimaksud dalam pasal ini adalah apabila anggota Dewan Gubernur tidak hadir secara frsik tanpa pemberitahuan kepada Dewan Gubernur. Huruf d Pailit dan tidak mampu memenuhi kewajiban adalah berdasarkan putusan pengadilan yang mempunyai kekuatan hukum tetap. Huruf e Yang dimaksud dengan "berhalangan tetap" adalah meninggal dunia, mengalami cacat fisik dan/ atau cacat mental yang tidak memungkinkan yang bersangkutan untuk melaksanakan tugasnya dengan baik, atau kehilangan kewarganegaraan Indonesia. Huruf f Cukup jelas. Ayat (21 Cukup jelas.
@@ -3195,7 +3201,7 @@ Ayat (6) Cukup jelas. Angka 49 Angka 28a Pasal 48 Ayat (1) Hurufa Pengunduran di
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 Apabila anggota Dewan Gubernur pengganti menjabat selama setengah atau lebih masa jabatan, yang bersangkutan dihitung telah menjabat 1 (satu) kali masa jabatan.
 
@@ -3216,17 +3222,17 @@ Yang dimaksud dengan "Deputi Gubernur yang paling lama masa jabatannya" adalah D
 Angka 28c Cukup jelas. Angka 28d Pasal 57A Cukup jelas. Angka 50 Pasal 60 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
 ```
 
-## Ayat (s)
+**Ayat (s)**
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -37-
 
 Apabila setelah tanggal 31 Desember belum mendapat persetujuan, anggaran yang digunakan adalah anggaran tahun anggaran sebelumnya.
 
-## Hurufa
+**Hurufa**
 
 Anggaran untuk kegiatan operasional terdiri dari penjabaran dan keterkaitan tugas, fungsi, visi, misi, program, kegiatan, indikator kinerja utama dan anggaran Bank Indonesia dalam mencapai tujuan Bank Indonesia.
 
@@ -3242,16 +3248,16 @@ Anggaran untuk kegiatan operasional tersebut terdiri dari upaya, kebijakan, prog
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 6. perumusan kebiiakan dan pelaksanaan program Bank Indonesia untuk meningkatkan inklusi ekonomi keuangan, dan Keuangan Berkelanjutan, baik secara ko4vensional maupun berdasarkan prinsip syariah, dan pelindungan konsumen; dan
 7. pengelolaan organisasi dan sumber daya untuk mewujudkan bank sentral, yang mengutamakan sistem tata kelola kebijakan dan kelembagaan yang baik dan profesional.
 
-## Huruf b
+**Huruf b**
 
 Penetapan klasifikasi penggunaan anggaran untuk kebijakan moneter, Sistem Pembayaran, dan makroprudensial disepakati bersama antara Bank Indonesia dan DPR yang dibahas secara khusus dan tertutup. DPR dalam hal ini adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perencanaan pembangunan nasional, moneter, dan sektor jasa keuangan.
 
-## Ayat (4)
+**Ayat (4)**
 
 Yang dimaksud dengan 'DPR adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perencanaan pembangunan nasional, moneter, dan sektor jasa keuangan.
 
@@ -3265,7 +3271,7 @@ Angka 51 Angka 32a Pasal 60A Ayat (1) Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Angka 52 Cukup jelas. Angka 53 Pasal 9A Cukup jelas. Angka 54 Pasal 1 Cukup jelas. Angka 55 Pasal 7 Ayat (1) Hurufa lembaga kliring, serta staitching compang. Hurufb Cukup jelas. Huruf c
@@ -3277,7 +3283,7 @@ Huruf d. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Huruf d Kerja sama dengan LJK lain di antaranya mencakup kerja sama pemasaran produk asuransi, pemasurran produk reksa dana, penyelenggaraan dana pensiun bagi karyawan Bank Umum, penyaluran kredit secara channeling, dan produk lainnya. Kerja sama dengan selain LJK di antaranya mencakup kerja sama dengan perusahaan di bidang teknologi informasi dalam mengembangkan layanan digital. Huruf e Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Angka 56 Angka 23a Pasal 28B Cukup jelas. Angka 57 Cukup jelas. Angka 58 Pasal 1 Cukup jelas. Angka 59 Angka 10a Pasal 17B Cukup jelas.
@@ -3285,7 +3291,7 @@ Huruf d Kerja sama dengan LJK lain di antaranya mencakup kerja sama pemasaran pr
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Angka 60 Pasal 20 Ayat (1) Huruf a Cukup jelas. Hurufb Cukup jelas. Huruf c Lembaga nonkeuangan yang mendukung industri Perbankan Syariah di antaranya perusahaan di bidang teknologi informasi, teknologi finansial, lembaga kliring, suitchin4 @mpanA, dan perusahaan yang melaksanakan bidang usaha yang mendukung Pembiayaan Perbankan Syariah. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i Cukup jelas. Hurufj Kerja sama dengan LJK lain seperti kerja sama pemasaran produk asuransi, pemasaran produk reksa dana, penyelenggaraan Dana Pensiun bagi karyawan Bank Umum Syariah, penyaluran Pembiayaan secala channeling, dart produk lainnya. Kerja sama dengan selain LJK seperti kerja sama dengan perusahaan di bidang teknologi informasi dalam mengembangkan layanan digital.
@@ -3295,7 +3301,7 @@ Hurufk. . .
 
 <!-- image -->
 
-## PRESTDEN REPUBLIK INDONESIA
+**PRESTDEN REPUBLIK INDONESIA**
 
 ```
 Hurufk
@@ -3307,7 +3313,7 @@ Cukup jelas. Hurufl Cukup jelas. Ayat (2) Huruf a Cukup jelas. Huruf b Cukup jel
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Ayat (6) Cukup jelas. Angka 61 Angka 15a Cukup jelas. Angka 15b Pasal 22A Ayat (1) Aset yang digunakan sebagai dasar (underlging asset) produk Investasi Perbankan Syariah, diinventarisasi secara terpisah dan hanya dapat digunakan untuk kepentingan Nasabah Investor sesuai dengan akad produk Investasi Perbankan Syariah. Ayat (2) Cukup jelas. Ang)<a62 Cukup jelas. Angka 63 Angka 3a Pasal 8 Ayat (1) Yang dimaksud dengan "sejumlah badan usaha" adalah jumlah minimum badan usaha yang dibutuhkan agar kegiatan transaksi di Bursa Efek dapat terlaksana dalam suasana persaingan yang sehat. Pendiri Bursa Efek tidak boleh berafiliasi antara satu dan lainnya serta terbuka seluas-luasnya bagt badan usaha yang memenuhi persyaratan untuk menghindari terjadinya persekongkolan dan penguasElan pasar oleh sekelompok perusahaan tertentu. Ayat (2) Cukup jelas.
@@ -3315,7 +3321,7 @@ Ayat (6) Cukup jelas. Angka 61 Angka 15a Cukup jelas. Angka 15b Pasal 22A Ayat (
 
 <!-- image -->
 
-## PRESIDEIiI REFUBLIK INDONESIA
+**PRESIDEIiI REFUBLIK INDONESIA**
 
 ```
 Ayat (3) Ketentuan ini mencerminkan sifat Bursa Efek yang bukan berdasarkan keanggotaan (mutual), melainkan bersifat demutual dan bersifat berorientasi laba Qrofit oriented). Hal ini dimaksudkan agar Bursa Efek dapat bergerak cepat sesuai dengan perkembangan globalisasi yang bergerak cepat. Dengan sifat berorientasi laba, Bursa Efek dapat menarik minat para investor besar yang memiliki peran besar untuk memajukan Bursa Efek. Dengan sifat demutual, Bursa Efek dimungkinkan menjadi perusahaan terbuka untuk umum. Peralihan atau proses dari Bursa Efek yang bersifat mutual dan tidak berorientasi laba (nonprofit oriented) menjadi demutual dan berorientasi laba Qrofit orienteQ dilakukan sesuai dengan ketentuan peraturan perundang-undangan. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Angka 64 Cukup jelas. Angka 65 Angka 4a Pasal 88 Cukup jelas. Angka 66 Pasal l00A Ayat (1) Pelanggaran yang terjadi di Pasar Modal sangat beragam dilihat dari segi jenis, modus operandi, atau kerugian yang mungkin ditimbulkannya.
@@ -3335,7 +3341,7 @@ didasarkan pada penerapan prinsip una uia yatg sanksi administratif. Prinsip ini
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Angka6T Angka 4Oa Pasal 1O0E Cukup jelas. Angka 68 Cukup jelas. Angka 69 Cukup jelas. Angka 70 Pasal 39A Ayat (1) Penyerahan margin awal sebagai jaminan dan transfer margin merupakan bentuk transfer kolateral sebagaimana dimaksud dalam UndangUndang ini. Huruf a Penyerahan margin awal sebagai jaminan dikenal dengan istilah inifral margin atau jenis margin lain yang dapat dipersamakan dengan itu. Huruf b Transfer margin dikenal dengan istilah uariation margin atau jenis margin lain yang dapat dipersamakan dengan itu. Ayat (2) Pengalihan hak mitk atas margin dalam transfer margin dikenal dengan isnlah tmnsfer of titl.e. Yang dimaksud dengan "perubahan atas nilai transaksi" adalah perubahan harga secara berkala (mark-to-market) dalam suatu transaksi keuangan yang dapat disebabkan oleh perubahan harga pasar antara lain perubahan nilai tukar, harga surat berharga, dan/ atau perubahan nilai margin yang telah diserahkan. Ayat (s) Cukup jelas. Ayat (4) Cukup jelas.
@@ -3343,7 +3349,7 @@ Angka6T Angka 4Oa Pasal 1O0E Cukup jelas. Angka 68 Cukup jelas. Angka 69 Cukup j
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Ayat (5) Cukup jelas. Ayat (6) Yang dimaksud dengan "otoritas sektor keuangan" adalah Bank Indonesia dan Otoritas Jasa Keuangan. Angka 71 Cukup jelas. AngkaT2 Pasal 5OA Cukup jelas. Angka 73 Pasal 51 Cukup jelas. Ang]<a74 Angka 8a Pasal 20 Ayat (1) Dana Jaminan dibentuk untuk memberikan jaminan atas penggantian sebagian atau seluruh hak Pemegang Polis, Tertanggung, atau Peserta dalam hal perusahaan harus dilikuidasi. Dengan demikian, Dana Jaminan merupakan bagian dari upaya melindungi Pemegang Polis, TertanggunS, atau Peserta. Ayat (2) Pada umumnya, perkembangan usaha mengakibatkan bertambahnya kewajiban perusahaan kepada Pemegang Polis, Tertanggung, atau Peserta. Hal ini juga berarti bertambah pula besar hak Pemegang Polis, Tertanggung, atau Peserta yang perlu dijamin pengembaliannya jika perusahaan dilikuidasi. Ayat (3) Ketentuan ini dimaksudkan agar penggunaan Dana Jaminan untuk mengembalikan sebagian atau seluruh hak Pemegang Polis, Tertanggung, atau Peserta pada saat perusahaan dilikuidasi
@@ -3353,9 +3359,9 @@ dapat diPastikan.
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 - -44-
 
@@ -3383,7 +3389,7 @@ Angka76.. .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 ```
 Angl<e.76 Cukup jelas. AngkaTT Pasal 52A Angka I Pasal 4 Ayat (1) Dalam hal korban atau ahli warisnya telah mendapat ganti kerugian sesuai ketentuan peraturan perundang-undangan mengenai dana pertanggungan wajib kecelakaan penumpang, tidak dapat diberikan ganti kerugian yang bersumber dari Dana. Ayat (21 Pelaksanaan pembayaran ganti rugi kepada korban/ ahli waris, akan diatur sedemikian rupa sehingga tidak menimbulkan biaya pada pihak yang menerima. Angka 78 Pasal 79 Ayat (1) Pengaturan ini dimaksudkan untuk melaksanakan Pasal 53 ayat {21 Undang-Undang Nomor 40 Tahun 20 L 4 tent:trLg Perasuransian. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. AndkaT9 Pasal 81 Ayat (1) Huruf a Surat pernyataan menjadi salah satu persyaratan pemenuhan syarat administratif penilaian kemampuan dan kepatutan oleh Otoritas Jasa Keuangan. Hurufb Cukup jelas.
@@ -3391,7 +3397,7 @@ Angl<e.76 Cukup jelas. AngkaTT Pasal 52A Angka I Pasal 4 Ayat (1) Dalam hal korb
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 - -50-
 
@@ -3403,7 +3409,7 @@ Angka82.. .
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESI,A
+**PRESIDEN REFUBLIK INDONESI,A**
 
 ```
 Angka 82 Pasal 90 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Huruf a Cukup jelas. Hurufb Cukup jelas. Huruf c Cukup jelas. Hurufd Yang dimaksud dengan "pengelola statute/ adalah orang perseorangan atau badan hukum yang ditetapkan Otoritas Jasa Keuangan untuk melaksanakan kewenangan Otoritas Jasa Keuangan. Ayat (4) Uji tuntas dan penjajakan kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah lain yang dilakukan oleh Lembaga Penjamin Simpanan dilakukan dalam rangka persiapan resolusi Perusahaan Asuransi dan Perusahaan Asuransi Syariah. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Data dan informasi yang disampaikan Otoritas Jasa Keuangan termasuk pada saat penetapan status Perusahaan Asuransi dan Perusahaan Asuransi
@@ -3413,7 +3419,7 @@ Syariah dalam upaya penyehatan dan posisi terkini.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESI.A
+**PRESIDEN REPUBUK INDONESI.A**
 
 ```
 Ayat (10) Cukup jelas. Ayat (11) Cukup jelas. Angka 83 Pasal 90A Cukup jelas. Pasal 90B Ayat (1) Huruf a Cukup jelas. Huruf b Lembaga Penjamin Simpanan perlu memiliki wewenang untuk mengalihkan kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah tanpa menunggu persetqluan dari pihak yang memiliki kepentingan atas kewajiban tersebut. Pihak lain di antaranya mencakup organ perusahaan seperti dewan komisaris dan rapat umum pemegang saham. Huruf c Cukup jelas. Huruf d Wewenang lain yang dimiliki Lembaga Penjamin Simpanan dan diperlukan untuk menerapkan cara penanganan melalui pengalihan sebagian atau seluruh aset danlatau kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah penerima atau kepada Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara antara lain wewenang untuk melikuidasi Perusahaan Asuransi dan Perusahaan Asuransi Syariah. Ayat (21 Cukup jelas. Pasal 90C Cukup jelas.
@@ -3421,25 +3427,25 @@ Ayat (10) Cukup jelas. Ayat (11) Cukup jelas. Angka 83 Pasal 90A Cukup jelas. Pa
 
 <!-- image -->
 
-## PRESIDEN REFUBUK INDONESIA
+**PRESIDEN REFUBUK INDONESIA**
 
 Pasal 90D Ayat (1) Pada dasarnya satu Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara digunakan untuk menerima pengalihan aset dan kewajiban dari satu Perusahaan Asuransi dan Perusahaan Asuransi Syariah. Dalam kondisi tertentu, satu Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara dapat digunakan Lembaga Penjamin Simpanan untuk menerima pengalihan aset dan kewajiban lebih dari satu Perusahaan Asuransi dan Perusahaan Asuransi Syariah. Ayat (2) Yang dimaksud dengan "orang" adalah orang perseorangan, baik warga negara Indonesia maupun warga negara asing, atau badan hukum, baik badan hukum Indonesia maupun badan hukum asing. Dengan ketentuan ini, L,embaga Penjamin Simpanan sebagai badan hukum menjadi pendiri dan satusatunya pemegang saham Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara. Pengecualian ini dimaksudkan agar Lembaga Penjamin Simpanan menguasai sepenuhnya pengoperasian Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara. Ayat (3) Cukup jelas. Ayat (4) Hurufa Cukup jelas. Hurufb Cukup jelas. Huruf c Pemenuhan persyaratan dapat menggunakan surat pernyataan dari [,embaga Penjamin Simpanan bahwa persyaratan tersebut akan dipenuhi dengan menggunakan data dan/ atau dokumen Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang akan dialihkan sebagian atau seluruh aset dan/ atau kewajibannya. Ayat (s) Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESA
+**PRESIDEN REPUBLIK INDONESA**
 
 - -54-
 
-## Ayat (6)
+**Ayat (6)**
 
 Uji kemampuan dan kepatutan bagi anggota dewan komisaris dan direksi Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara memperhatikan kebutuhan untuk beroperasinya Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara dalam waktu segera. Anggota dewan komisaris dan direksi Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara dinyatakan memenuhi persyaratan kemampuan dan kepatutan apabila yang bersangkutan tidak tercantum dalam daftar kredit macet dan daftar tidak lulus. Pada saat Perusahaan Asuransi dan Perusahaan Asuransi Syariah perEmtara dijual oleh Lembaga Penjamin Simpanan, anggota dewan komisaris dan direksi Perusahaan Asuransi dan Perusahaan Asuransi Syariah harus telah memenuhi persyaratan kemampuan dan kepatutan yang berlaku umum.
 
-## Ayat (7)
+**Ayat (7)**
 
 Persetqjuan sementara lagr calon anggota dewan komisaris dan calon direksi Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara tidak mengurangi penilaian kemampuan dan kompetensi yang bersangkutan dalam menjalankan tindakan, tugas, dan fungsi sebagai anggota dewan komisaris dan/atau anggota direksi.
 
-## Ayat (8)
+**Ayat (8)**
 
 Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara yang didirikan oleh Lembaga Penjamin Simpanan untuk menerima pengalihan sebagian atau seluruh aset dan/atau kewajiban Perusahaan Asuransi dan Perusahaan Asuransi Syariah dalam resolusi akan dialihkan kepemilikannya kepada pihak lain, sehingga kewajiban permodalan belum berlaku sepanjang Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara masih dalam penanganan Lembaga Penjamin Simpanan sampai dengan jangka wakhr tertentu. Perusahaan Asuransi dan Perusahaan Asuransi Syariah perantara dikecualikan dari penetapan status pengawasan sebagai Perusahaan Asuransi dan Perusahaan Asuransi Syariah dalam penyehatan.
 
@@ -3451,7 +3457,7 @@ Ayat (9) Cukup jelas. Ayat (10) Cukup jelas. Ayat (11) Cukup jelas. Pasal 90E Ay
 
 <!-- image -->
 
-## PRESTDEN REPUBLIK INDONESIA
+**PRESTDEN REPUBLIK INDONESIA**
 
 ```
 Angka 87 Pasal 98 Cukup jelas. Angka 88 Pasal 1O1A Cukup jelas. Pasal 1O1B Cukup jelas. Pasal lOlC Cukup je1as. Angka 89 Pasal 103 Cukup jelas. Angka 9O Cukup jelas. Angka 91 Pasal 132A Ayat (1) Penyelenggaraan bursa mineral dan komoditas strategis bertujuan antara lain untuk: a. menciptakan harga acuan Indonesia; b. memperkuat hilirisasi dan industrialisasi; c. meningkatkan daya saing nasional; d. memperkuat perekonomian nasional; e. menjaga integritas pasar; dan f. mengoptimalkan nilai tambah sumber daya alam dan komoditas Indonesia. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "DPR' adalah alat
@@ -3461,7 +3467,7 @@ kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya d
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 Ayat (4) Cukup jelas.
 
@@ -3473,17 +3479,17 @@ ITSK dalam sistem pembayaran di antaranya mencakup inovasi teknologi dalam tahap
 
 Aset kripto tidak dapat digunakan sebagai alat pembayaran secara langsung. Penggunaan aset kripto sebagai alat transaksi, sumber dana, dan transaksi dasar (underfuing) sehubungan dengan pembayaran baik mata uang rupiah maupun valuta asing tidak dimaknai sebagai alat pembayaran.
 
-## Hurufb
+**Hurufb**
 
 ITSK dalam penyelesaian transaksi surat berharga di antaranya mencakup inovasi teknologi dalam proses kliring, proses penyelesaian, dan pencatatan kepemilikan serta penyimpanan instrumen di Pasar Uang dan Pasar Valuta Asing, serta efek di Pasar Modal.
 
-## Huruf c
+**Huruf c**
 
 ITSK dalam penghimpunan modal di antaranya mencakup inovasi teknologi dalam penghimpunan dana masyarakat melalui penawaran efek dengan menggunakan jasa penyelenggara sistem elektronik (seanities crowdfundirq) dengan menggunakan jasa penyelenggara sistem elektronik dan memperhatikan ketentuan peraturan perundang-undangan terkait termasuk di bidang pasar modal.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - -58-
 
@@ -3497,7 +3503,7 @@ digital, termasuk aset kripto, meliputi:
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESI,A
+**PRESIDEN REPUBUK INDONESI,A**
 
 3. stableain yang digunakan sebagai alat transaksi setelah mendapatkan rekomendasi dari bursa dan persetqjuan Otoritas Jasa Keuangan;
 4. staking;
@@ -3516,21 +3522,21 @@ Hurufb. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
-## Hurufb
+**Hurufb**
 
 Termasuk dalam lingkup manajemen risiko di antaranya pengawasan aktif oleh pengurus, ketersediaan kebijakan dan prosedur serta pemenuhan kecukupan struktur organisasi, proses manajemen risiko dan fungsi manajemen risiko, serta sumber daya manusia, dan pengendalian intern.
 
-## Huruf c
+**Huruf c**
 
 Keamanan dan keandalan sistem informasi di antaranya mencakup ketersediaan kebijakan dan prosedur tertulis sistem informasi, penggunaan sistem yang aman dan andal, di antaranya pengamanan dan pelindungan kerahasiaan data, pengelolaan fraud, pemenuhan sertifikasi dan/atau standar keamanan dan keandalan sistem, pemeliharaan dan peningkatan keamanan teknologi, penerap€rn standar keamanan siber, pengamanan data dan/ atau informasi, dan pelalsanaan audit sistem informasi secara berkala.
 
-## Huruf d
+**Huruf d**
 
 Pelindungan Konsumen di arfiatarrya mencakup edukasi dan Literasi Keuangan, serta Pengawasan Perilaku Pasar (market anductl.
 
-## Huruf e
+**Huruf e**
 
 Ketentuan peraturan perundang-undangan di arrtarar:ya mencakup ketentuan terkait anti pencucian uang dan pencegahan pendanaan terorisme.
 
@@ -3540,7 +3546,7 @@ Angka 94 PasaJ22O Cukup jelas. Angka 95 Pasal 221A Ayat (l) Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESI,A
+**PRESIDEN REPUBLIK INDONESI,A**
 
 - -61 -
 
@@ -3548,7 +3554,7 @@ Ayat(21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Ketentuan ini tidak berlaku 
 
 <!-- image -->
 
-## t2ll{Jfrr{It REPUBLIK TNDONESIA
+**t2ll{Jfrr{It REPUBLIK TNDONESIA**
 
 - -62-
 
@@ -3590,7 +3596,7 @@ Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDOT{ESIA
+**PRESIDEN REFUBLIK INDOT{ESIA**
 
 ```
 Pasal 22lD Cukup jelas. Pasal 22lE Cukup jelas. Pasal 221F Cukup jelas. Angka 96 Pasal 247 Cukup jelas. Angka 97 Cukup jelas. Angka 98 Pasal 248A Ayat (1)
@@ -3614,7 +3620,7 @@ Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup
 
 <!-- image -->
 
-## PRESIDEN REFUBUK INDONESI,A
+**PRESIDEN REFUBUK INDONESI,A**
 
 - -64
 
@@ -3624,7 +3630,7 @@ Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 99 Pasal 250 Ayat (1) Usaha Mi
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESIA
+**PRESIDEN REFUBLIK INDONESIA**
 
 ```
 Ayat (4) Pemberitahuan tertulis Otoritas Jasa Keuangan kepada kmbaga Penjamin Simpanan dan Bank Indonesia disertai informasi terkini tindakan pengawasan yang telah dilakukan oleh Otoritas Jasa Keuangan kepada Bank. Ayat (5) Cukup jelas. Ayat (6) Huruf a Angka 1 Cukup jelas. Angka 2 Langkah penyehatan yang ditetapkan Otoritas Jasa Keuangan di antaranya menerbitkan perintah tertulis, menempatkan pengelola statuter, dan/atau melalui mekanisme lain berdasarkan undang-undang mengenai Otoritas Jasa Keuangan. Angka 3 Cukup jelas. Hurufb Cukup jelas. Huruf c Uji tuntas dan penjajakan kepada Bank lain yang dilakukan oleh Lembaga Penjamin Simpanan dilakukan dalam rangka persiapan resolusi Bank. Ayat (7) Hurufa Perintah Otoritas Jasa Keuangan kepada Bank dimaksudkan untuk menjaga kondisi keuangan Bank sehingga pada saat akan dilakukan penanganan Bank tidak terjadi perubahan secara material. Perintah Otoritas Jasa Keuangan kepada Bank dimaksudkan untuk melancarkan proses pengalihan aset dan/atau kewajiban Bank.
@@ -3634,7 +3640,7 @@ Hurufb. . .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESI,A
+**PRESIDEN REPUBUK INDONESI,A**
 
 ```
 Huruf b Dukungan tersebut dimaksudkan agar penyelesaian transaksi pengalihan aset dan/atau kewajiban Bank dapat dilakukan secepat mungkin dalam hal Lembaga Penjamin Simpanan melalrukan tindakan resolusi. Ayat (8) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Hurufd Yang dimaksud dengan "pengelola statute/ adalah orang perseorangan atau badan hukum yang ditetapkan Otoritas Jasa Keuangan untuk melaksanakan kewenangan Otoritas Jasa Keuangan. Ayat (9) Cukup jelas. Ayat (10) Perhitungan tingkat permodalan dapat ditambahkan dengan tambahan modal penyangga (bufferl. Pasal 20B Ayat (1) Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5)
@@ -3646,7 +3652,7 @@ Angka lO2 Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESIA
+**PRESIDEN REFUBLIK INDONESIA**
 
 Ayat (6)
 
@@ -3710,7 +3716,7 @@ Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
 - -68-
 
@@ -3718,7 +3724,7 @@ Pasal Pasal Pasal Ayat (3) Huruf a Yang dimaksud "keluarga" adalah seseorang yan
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDOi{ESI,A
+**PRESIDEN REPUBLIK INDOi{ESI,A**
 
 ```
 Ayat (3) Hurufa Lihat Penjelasan Pasal 27 81 ayat (3) huruf a. Hurufb Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup je1as. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Ayat (10) Cukup jelas. Ayat (11) Cukup jelas. Ayat (12) Cukup jelas. Pasal 278M Ayat (1) Hurufa Lihat Penjelasan Pasal 27 8l ayat (3) huruf a. Huruf b Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas.
@@ -3726,7 +3732,7 @@ Ayat (3) Hurufa Lihat Penjelasan Pasal 27 81 ayat (3) huruf a. Hurufb Cukup jela
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESIA
+**PRESIDEN REFUBLIK INDONESIA**
 
 ```
 Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Pasal 278N Ayat (1) Cukup jelas. Ayat (2) Huruf a Lihat Penjelasan Pasal 27 8l ayat (3) huruf a. Huruf b Cukup jelas. Pasal 2780 Cukup jelas. Angka 104 Pasal 304A Cukup jelas. Pasal II Cukup jelas.

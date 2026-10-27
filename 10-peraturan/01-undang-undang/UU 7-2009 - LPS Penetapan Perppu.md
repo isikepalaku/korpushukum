@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penetapan Perppu 3-2008 tentang Perubahan atas UU 24-2004 tentang LPS
+**Penetapan Perppu 3-2008 tentang Perubahan atas UU 24-2004 tentang LPS**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -78,10 +84,9 @@ Perubahan Atas Undang-Undang Nomor 24 Tahun
 
 d. bahwa . . .
 
-
 -----
 
-                      - 2                       
+                      - 2
 d. bahwa penambahan kriteria ancaman krisis yang
 berakibat merosotnya kepercayaan masyarakat
 terhadap perbankan dan membahayakan stabilitas
@@ -124,10 +129,9 @@ Nomor 4420);
 
 Dengan . . .
 
-
 -----
 
-                      - 3                       
+                      - 3
 Dengan Persetujuan Bersama
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
@@ -143,7 +147,7 @@ PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 3
 TAHUN 2008 TENTANG PERUBAHAN ATAS UNDANGUNDANG NOMOR 24 TAHUN 2004 TENTANG LEMBAGA
 PENJAMIN SIMPANAN MENJADI UNDANG-UNDANG.
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Peraturan Pemerintah Pengganti Undang-Undang Nomor
 3 Tahun 2008 tentang Perubahan Atas Undang-Undang
@@ -153,17 +157,16 @@ Simpanan (Lembaran Negara Republik Indonesia Tahun
 Indonesia Nomor 4902) ditetapkan menjadi UndangUndang dan melampirkannya sebagai bagian yang tidak
 terpisahkan dari Undang-Undang ini.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 Undang-Undang ini mulai berlaku pada tanggal
 diundangkan.
 
 Agar . . .
 
-
 -----
 
-                         - 4                         
+                         - 4
 Agar setiap orang mengetahuinya memerintahkan
 pengundangan Undang-Undang ini dengan
 penempatannya dalam Lembaran Negara Republik
@@ -198,10 +201,11 @@ Bidang Perekonomian dan Industri,
 
 SETIO SAPTO NUGROHO
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 
@@ -217,8 +221,6 @@ PENGGANTI UNDANG-UNDANG NOMOR 3 TAHUN 2008 TENTANG
 PERUBAHAN ATAS UNDANG-UNDANG NOMOR 24 TAHUN 2004 TENTANG
 
 LEMBAGA PENJAMIN SIMPANAN MENJADI UNDANG-UNDANG
-
-I. UMUM
 
 Kepercayaan masyarakat terhadap perbankan nasional merupakan salah
 satu kunci untuk memelihara stabilitas perbankan. Kepercayaan ini dapat
@@ -248,10 +250,9 @@ Tahun 2008 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun
 
 Penetapan . . .
 
-
 -----
 
-                        - 2                        
+                        - 2
 Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun
 2008 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2004
 tentang Lembaga Penjamin Simpanan oleh Presiden berdasarkan Pasal 22
@@ -265,13 +266,11 @@ mendapat persetujuan Dewan Perwakilan Rakyat untuk ditetapkan menjadi
 Undang-Undang sesuai dengan Pasal 22 ayat (2) Undang-Undang Dasar
 Negara Republik Indonesia Tahun 1945.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4963
@@ -357,9 +356,7 @@ Ketentuan Pasal 11 Undang-Undang Nomor 24 Tahun
 Negara Republik Indonesia Tahun 2004 Nomor 96,
 Tambahan Lembaran Negara Republik Indonesia Nomor
 4420) diubah sehingga berbunyi sebagai berikut:
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 (1) Nilai Simpanan yang dijamin untuk setiap nasabah
 
 pada satu bank paling banyak Rp100.000.000,00
@@ -507,8 +504,7 @@ mengantisipasi dampak dari krisis keuangan global.
 II. PASAL DEMI PASAL
 
 Pasal I
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11-2
 Ayat (1)
 
 Nilai yang dijamin diharapkan dapat melindungi seluruh
@@ -574,3 +570,11 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4902
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 11 | [[#^penjelasan-pasal-11-2]] |

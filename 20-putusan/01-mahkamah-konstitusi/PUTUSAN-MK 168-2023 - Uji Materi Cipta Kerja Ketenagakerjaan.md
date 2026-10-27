@@ -19,10 +19,16 @@ sumber: "JDIH BPK RI"
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Putusan MK 168-PUU-XXI-2023 Uji Materi UU Cipta Kerja (Ketenagakerjaan)
+**Putusan MK 168-PUU-XXI-2023 Uji Materi UU Cipta Kerja (Ketenagakerjaan)**
 
 **Status:** `berlaku`
 
@@ -30,17 +36,17 @@ last_updated: 2026-10-28
 
 <!-- image -->
 
-## PUTUSAN
+**PUTUSAN**
 
-## Nomor 168/PUU-XXI/2023
+**Nomor 168/PUU-XXI/2023**
 
-## DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA
+**DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA**
 
-## MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,
+**MAHKAMAH KONSTITUSI REPUBLIK INDONESIA,**
 
 [1.1] Yang mengadili perkara konstitusi pada tingkat pertama dan terakhir, menjatuhkan putusan dalam perkara Pengujian Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang diajukan oleh:
 
-## 1. Partai Buruh, yang diwakili oleh:
+**1. Partai Buruh, yang diwakili oleh:**
 
 | 1.1         | Nama            | :   | Agus Supriyadi                                                                                                                                                                        |
 |-------------|-----------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -162,11 +168,11 @@ Mendengar keterangan para Pemohon; Memeriksa bukti-bukti para Pemohon; Mendengar
 
 Membaca kesimpulan para Pemohon dan Presiden.
 
-## 2. DUDUK PERKARA
+**2. DUDUK PERKARA**
 
 [2.1] Menimbang bahwa para Pemohon telah mengajukan permohonan yang diterima di Kepaniteraan Mahkamah Konstitusi pada 1 Desember 2023 berdasarkan Akta Pengajuan Permohonan Pemohon Nomor 167/PUU/PAN.MK/AP3/12/2023 dan telah dicatat dalam Buku Registrasi Perkara Konstitusi pada 4 Desember 2023 dengan Nomor 168/PUU-XXI/2023, yang telah diperbaiki dan diterima Mahkamah pada 3 Januari 2024, pada pokoknya menguraikan hal-hal sebagai berikut:
 
-## A. Kewenangan Mahkamah Konstitusi
+**A. Kewenangan Mahkamah Konstitusi**
 
 1. Bahwa berdasarkan UUD 1945 Mahkamah Konstitusi memiliki sejumlah kewenangan sebagaimana dinyatakan dalam Pasal 24C ayat (1) yang berbunyi:
 
@@ -187,7 +193,7 @@ Terhadap UUD 1945.
 
 7. Bahwa pengujian sebagian ketentuan dalam UU 6/2023 mengubah, menghapus, atau menetapkan pengaturan baru dalam UU 13/2003 terhadap UUD 1945 sebagaimana dimaksud pada butir 6 Permohonan a quo diuraikan oleh Pemohon secara berurutan dalam tabel berikut:
 
-## TABEL A.1 PENGUJIAN SEBAGIAN KETENTUAN UU 6/2023 YANG MENGUBAH, MENGHAPUS, ATAU MENETAPKAN PENGATURAN BARU DALAM UU 6/2023 TERHADAP UUD 1945
+**TABEL A.1 PENGUJIAN SEBAGIAN KETENTUAN UU 6/2023 YANG MENGUBAH, MENGHAPUS, ATAU MENETAPKAN PENGATURAN BARU DALAM UU 6/2023 TERHADAP UUD 1945**
 
 |   NO. | KETENTUAN YANG DIUJI        | SUBSTANSI                              |
 |-------|-----------------------------|----------------------------------------|
@@ -521,7 +527,7 @@ Bahwa dibentuknya Konfederasi Serikat Pekerja Seluruh Indonesia (KSPSI) untuk me
 
 30
 
-## demi terciptanya hubungan industrial yang harmonis, dinamis dan berkeadilan.;
+**demi terciptanya hubungan industrial yang harmonis, dinamis dan berkeadilan.;**
 
 - 45.3. Bahwa tujuan KSPSI diperinci kembali dalam Pasal 8 Anggaran Dasar KSPSI yang antara lain menyebutkan bahwa KSPI bertujuan;
 - Melindungi serta membela hak dan kepentingan pekerja [Vide angka 2];
@@ -619,7 +625,7 @@ kepentingan yang sama'. Putusan-putusan dimaksud antara lain sebagai berikut:
 - h. Putusan Mahkamah Konstitusi Nomor 100/PUU-XVI/2018, tanggal 27 Februari 2019
 53. Bahwa oleh karena Pemohon II Pemohon III, Pemohon IV, dan Pemohon V, adalah kelompok orang yang mempunyai kepentingan yang sama, maka Pemohon II Pemohon III, Pemohon IV, dan Pemohon V merupakan subjek hukum yang dapat mengajukan diri sebagai Pemohon pengujian UU 6/2023 terhadap UUD 1945 sebagaimana dimaksud dalam ketentuan Pasal 51 ayat (1) huruf a UU MK jo. Pasal 3 huruf a PMK PUU;
 
-## B.3. Pemohon VI dan Pemohon VII Masing-Masing Adalah Perorangan Warga Negara Indonesia
+**B.3. Pemohon VI dan Pemohon VII Masing-Masing Adalah Perorangan Warga Negara Indonesia**
 
 54. Bahwa Pemohon VI dan Pemohon VII masing-masing adalah pekerja/buruh sebagaimana dimaksud dalam ketentuan Pasal 1 angka 6 UU SP/SB jo. Pasal 1 angka 3 UU 13/2003;
 
@@ -627,17 +633,17 @@ kepentingan yang sama'. Putusan-putusan dimaksud antara lain sebagai berikut:
 56. Bahwa Pemohon VII adalah Ade Triwanto, Warga Negara Indonesia, dengan NIK 3302020606980003 [Bukti P-32], karyawan/buruh di PT. Indonesia Polymer Compound dengan status sebagai Pekerja Kontrak berdasarkan Perjanjian Kerja Waktu Tertentu (PKWT) dan menjadi peserta BPJS Ketenagakerjaan;
 57. Bahwa berdasarkan uraian sebagaimana butir 56 sampai dengan butir 57 Permohonan a quo maka Pemohon VI dan Pemohon VII tergolong sebagai subjek perorangan warga negara yang dapat mengajukan diri sebagai Pemohon pengujian UU 6/2023 terhadap UUD 1945 sebagaimana dimaksud dalam ketentuan Pasal 51 ayat (1) huruf a UU MK jo. Pasal 3 huruf a PMK PUU.
 
-## B.4. KERUGIAN KONSTITUSIONAL PEMOHON
+**B.4. KERUGIAN KONSTITUSIONAL PEMOHON**
 
-## B.4.1. TENAGA KERJA ASING (TKA)
+**B.4.1. TENAGA KERJA ASING (TKA)**
 
 58. Bahwa Pemohon terbukti melangalami kerugian konstitusional atau setidak-tidaknya berpotensi mengalami kerugian konstitusional akibat berlakunya Pasal 81 angka 4 UU 6/2023 yang mengubah ketentuan Pasal 42 UU 13/2003 karena norma a quo mengatur ketentuan baru mengenai penempatan tenaga kerja asing sebagaimana lebih lanjut diuraikan pada tabel sebagai berikut:
 
-## TABEL B.1
+**TABEL B.1**
 
 KERUGIAN KONSTITUSIONAL PEMOHON TERKAIT PENGATURAN TENAGA KERJA ASING (TKA)
 
-## Akibat Pemberlakuan
+**Akibat Pemberlakuan**
 
 Pasal 81 angka 4 UU 6/2023 yang mengubah ketentuan Pasal 42 UU
 
@@ -650,7 +656,7 @@ Pasal 81 angka 4 UU 6/2023 yang mengubah ketentuan Pasal 42 UU
 | pekerja/buruh Indonesia, sehingga ketentuan Pasal 81 angka 4 UU 6/2023 yang mengubah ketentuan Pasal 42 UU 13/2003, secara lebih spesifik lagi ketentuan Pasal 42 ayat (1), ayat (3) huruf a dan huruf c, ayat (4), dan ayat (5) berpotensi merugikan hak konstitusional para Pemohon yang diberikan oleh Pasal 27 ayat (2), Pasal 28D ayat (2), dan Pasal 28D ayat (1) UUD 1945. Sehingga jelas ada hubungan sebab-akibat (causal verband) antara pasal yang dimohonkan dengan potensi kerugian konstitusional para Pemohon. Dimana apabila Mahkamah mengabulkan permohonan a quo, potensi kerugian tersebut tentu tidak akan terjadi.   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## B.4.2. Perjanjian Kerja Waktu Tertentu (PKWT)
+**B.4.2. Perjanjian Kerja Waktu Tertentu (PKWT)**
 
 59. Bahwa para Pemohon terbukti melangalami kerugian konstitusional atau setidak-tidaknya berpotensi mengalami kerugian konstitusional akibat berlakunya;
 - a. Pasal 81 angka 12 UU 6/2023 yang mengubah ketentuan Pasal 56 UU 13/2003;
@@ -661,13 +667,13 @@ Pasal 81 angka 4 UU 6/2023 yang mengubah ketentuan Pasal 42 UU
 
 karena norma a quo di atas memuat pengaturan baru mengenai Perjanjian Kerja Waktu Tertentu (PKWT) bagi pekerja kontrak sebagaimana lebih lanjut diuraikan pada tabel sebagai berikut:
 
-## TABEL B.2
+**TABEL B.2**
 
-## KERUGIAN KONSTITUSIONAL PEMOHON
+**KERUGIAN KONSTITUSIONAL PEMOHON**
 
 TERKAIT PENGATURAN PERJANJIAN KERJA WAKTU TERTENTU (PKWT)
 
-## Akibat Pemberlakuan
+**Akibat Pemberlakuan**
 
 Pasal 81 angka 12 UU 6/2023 yang mengubah ketentuan Pasal 56 UU 13/2003; Pasal 81 angka 13 UU 6/2023 yang mengubah ketentuan Pasal 57 UU 13/2003; Pasal 81 angka 15 UU 6/2023 yang mengubah ketentuan Pasal 59 UU 13/2003 1945; Pasal 81 angka 16 UU 6/2023 yang mengubah ketentuan Pasal 61 UU 13/2003; dan Pasal 81 angka 17 UU 6/2023 yang memuat Pasal 61A sebagai ketentuan baru yang disisipkan di antara Pasal 61 dan Pasal 62 UU 13/2003
 
@@ -696,7 +702,7 @@ Pasal 81 angka 12 UU 6/2023 yang mengubah ketentuan Pasal 56 UU 13/2003; Pasal 8
 | kontrak pekerja bersangkutan dengan nilai yang sudah dapat diperkirakan sesuai ketentuan undang-undang, dan bukan diberikan kompensasi yang nilainya tidak disebutkan dalam undang-undang. Dalam hal ini UU 6/2023 berpotensi menghilangkan hak pekerja/buruh untuk mendapatkan jaminan, perlindungan, dan kepastian hukum yang adil di hadapan hukum sebagaimana dimaksud dalam Pasal 28D ayat (1) UUD 1945; hak atas pekerjaan dan penghidupan yang layak bagi kemanusian sebagaimana dimaksud dalam Pasal 27 ayat (2) UUD 1945; dan hak untuk bekerja serta mendapat imbalan dan perlakuan yang adil dan layak dalam hubungan kerja sebagaimana dimaksud dalam Pasal 28D ayat (2) UUD 1945; 8. Bahwa berdasarkan uraian di atas, maka jelas dan nyata ketentuan Pasal yang dimohonkan Uji Materiil a quo berpotensi merugikan hak konstitusional para Pemohon, sebagaimana diatur dalam Pasal 27 ayat (2), Pasal 28D ayat (1) dan Pasal 28D ayat (2) UUD 1945. Sehingga jelas ada hubungan sebab-akibat (causal verband) antara pasal yang dimohonkan dengan potensi kerugian konstitusional para Pemohon. Dimana apabila Mahkamah mengabulkan permohonan a quo, potensi kerugian tersebut tentu tidak akan terjadi.   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## B.4.3. Pekerja Alih Daya (OUTSOURCING)
+**B.4.3. Pekerja Alih Daya (OUTSOURCING)**
 
 60. Bahwa Pemohon terbukti mengalami kerugian konstitusional atau setidaktidaknya berpotensi mengalami kerugian konstitusional akibat berlakunya;
 - a. Pasal 81 angka 18 UU 6/2023 yang mengubah ketentuan Pasal 64 UU 13/2003;
@@ -705,11 +711,11 @@ Pasal 81 angka 12 UU 6/2023 yang mengubah ketentuan Pasal 56 UU 13/2003; Pasal 8
 
 karena norma a quo memuat dan/atau berimplikasi menciptakan pengaturan baru mengenai pekerja alih daya (outsourcing) sebagaimana lebih lanjut diuraikan pada tabel berikut:
 
-## TABEL B.3
+**TABEL B.3**
 
-## KERUGIAN KONSTITUSIONAL PARA PEMOHON TERKAIT PENGATURAN PEKERJA ALIH DAYA (OUTSOURCING)
+**KERUGIAN KONSTITUSIONAL PARA PEMOHON TERKAIT PENGATURAN PEKERJA ALIH DAYA (OUTSOURCING)**
 
-## Akibat Pemberlakuan
+**Akibat Pemberlakuan**
 
 Pasal 81 angka 18 UU 6/2023 yang mengubah ketentuan Pasal 64 UU 13/2003; Pasal 81 angka 19 UU 6/2023 yang menghapus ketentuan Pasal 65 UU 13/2003; dan Pasal 81 angka 20 UU 6/2023 yang mengubah ketentuan Pasal 66 UU 13/2003
 
@@ -726,17 +732,17 @@ Pasal 81 angka 18 UU 6/2023 yang mengubah ketentuan Pasal 64 UU 13/2003; Pasal 8
 | ketentuan yang mengatur hak yang sama bagi pekerja outsourcing (sesuai dengan perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama atas perlindungan upah dan kesejahteraan, syarat-syarat kerja, serta perselisihan yang timbul dengan pekerja/buruh lainnya di perusahaan pengguna jasa pekerja/buruh). Hal ini berpotensi melanggar hak-hak pekerja/buruh yang dijamin oleh Pasal 27 ayat (2) UUD 1945, dan Pasal 28D ayat (1) UUD 1945 yang mengatur bahwa setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama dihadapan hukum, serta hak untuk bekerja serta mendapat imbalan dan perlakuan yang adil dan layak dalam hubungan kerja sebagaimana dijamin dalam Pasal 28D ayat (2) UUD 1945; 5. Bahwa berdasarkan uraian di atas, maka jelas dan nyata ketentuan Pasal yang dimohonkan Uji Materiil a quo berpotensi merugikan hak konstitusional Pemohon sebagaimana diatur dalam Pasal 27 ayat (2), Pasal 28D ayat (1) dan Pasal 28D ayat (2) UUD 1945. Sehingga jelas ada hubungan sebab-akibat (causal verband) antara pasal yang dimohonkan dengan potensi kerugian konstitusional para Pemohon. Dimana apabila Mahkamah mengabulkan permohonan a quo, potensi kerugian tersebut tentu tidak akan terjadi.   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## B.4.4. CUTI
+**B.4.4. CUTI**
 
 61. Bahwa Pemohon terbukti melangalami kerugian konstitusional atau setidak-tidaknya berpotensi mengalami kerugian konstitusional akibat berlakunya Pasal 81 angka 25 UU 6/2023 yang mengubah ketentuan Pasal 79 UU 13/2003 karena norma a quo memuat pengaturan baru mengenai cuti sebagaimana lebih lanjut diuraikan pada tabel sebagai berikut:
 
-## TABEL B.4
+**TABEL B.4**
 
-## KERUGIAN KONSTITUSIONAL PEMOHON TERKAIT CUTI DAN UPAH CUTI
+**KERUGIAN KONSTITUSIONAL PEMOHON TERKAIT CUTI DAN UPAH CUTI**
 
-## Akibat Pemberlakuan
+**Akibat Pemberlakuan**
 
-## Pasal 81 angka 25 UU 6/2023 yang mengubah ketentuan Pasal 79 UU 13/2003
+**Pasal 81 angka 25 UU 6/2023 yang mengubah ketentuan Pasal 79 UU 13/2003**
 
 53
 
@@ -749,7 +755,7 @@ Pasal 81 angka 18 UU 6/2023 yang mengubah ketentuan Pasal 64 UU 13/2003; Pasal 8
 | menimbulkan ketidakpastian hukum bagi pekerja/buruh untuk mendapatkan hak atas upah penuh selama menjalani hak istirahat tahunan dan/atau hak istirahat panjang, karena di satu sisi pekerja/buruh berhak untuk mendapatkan upah penuh selama menjalani hak istirahat tahunan dan/atau hak istirahat panjang sebagaimana diatur dalam Pasal 84 UU 13/2003, namun di sisi lain Pasal 79 ayat (2) sudah tidak lagi mengatur huruf c dan huruf d sebagaimana disebut di dalam Pasal 84 UU 13/2003. Oleh sebab pengaturan Pasal a quo itu berpotensi membuat pekerja/buruh tidak bisa mendapatkan hak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil sebagaimana dijamin dalam Pasal 2D ayat (1) UUD 1945 dan berpotensi tidak dapat menerima imbalan dan perlakuan yang adil dan layak dalam hubungan kerja yang berkaitan dengan hak istirahat/cuti dan hak upah istirahat/cuti oleh para pekerja sebagaimana hak tersebut semestinya dapat dipenuhi menurut Pasal 28D ayat (2) UUD 1945; yang pada gilirannya pekerja/buruh juga berpotensi tidak mendapatkan hak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan sebagaimana dijamin dalam Pasal 27 ayat (2) 1945. Dikaitkan dengan hak konstitusional lainnya sebagaimana dimaksud Pasal 28I ayat (4) 1945, minimnya peran Negara terhadap pengaturan cuti memberi indikasi tidak adanya perlindungan, pemajuan, penegakan, dan pemenuhan hak asasi manusia yang menjadi tanggung jawab negara, terutama pemerintah; 3. Bahwa berdasarkan uraian di atas, maka jelas dan nyata ketentuan Pasal yang dimohonkan Uji Materiil a quo berpotensi merugikan hak konstitusional para Pemohon, sebagaimana diatur dalam Pasal 27 ayat (2), Pasal 28D ayat (1) dan Pasal 28D ayat (2) UUD 1945. Sehingga jelas ada hubungan sebab-akibat (causal verband) antara pasal yang dimohonkan dengan potensi kerugian konstitusional para Pemohon. Dimana apabila Mahkamah mengabulkan permohonan a quo, potensi kerugian tersebut tentu tidak akan terjadi.   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## B.4.5. Upah Dan Upah Minimum
+**B.4.5. Upah Dan Upah Minimum**
 
 62. Bahwa Pemohon terbukti melangalami kerugian konstitusional atau setidaktidaknya berpotensi mengalami kerugian konstitusional akibat berlakunya:
 - a. Pasal 81 angka 27 UU 6/2023 yang mengubah ketentuan Pasal 88 UU 13/2003;
@@ -767,11 +773,11 @@ Pasal 81 angka 18 UU 6/2023 yang mengubah ketentuan Pasal 64 UU 13/2003; Pasal 8
 
 karena norma-norma a quo memuat dan/atau berimplikasi memunculkan pengaturan baru mengenai Upah dan Upah Minimum sebagaimana diuraikan dalam tabel di bawah ini.
 
-## TABEL B.5
+**TABEL B.5**
 
 KERUGIAN KONSTITUSIONAL PEMOHON TERKAIT PENGATURAN UPAH DAN UPAH MINIMUM
 
-## Akibat Pemberlakuan
+**Akibat Pemberlakuan**
 
 Pasal 81 angka 27 UU 6/2023 yang mengubah ketentuan Pasal 88 UU 13/2003; Pasal 81 angka 28 UU 6/2023 menyisipkan pasal-pasal baru di antara Pasal 88 dan 89 UU 13/2003, yaitu Pasal 88A, 88B, 88C, 88D, 88E, dan 88F; Pasal 81 angka 29 UU 6/2023 yang menghapus ketentuan Pasal 89 UU 13/2003; Pasal 81 angka 30 UU 6/2023 yang menghapus ketentuan Pasal 90
 
@@ -823,17 +829,17 @@ Pasal 92 ayat (1); Penjelasan Pasal 94; Pasal 95; Pasal 97; Pasal 98]
 | 20. Bahwa Pasal 81 angka 38 UU 6/2023 yang menghapus ketentuan Pasal 97 UU 13/2003 telah menghapus keberlanjutan pengaturan lebih lanjut mengenai ketentuan pengupahan. Pasal 97 UU 13/2003 berbunyi, Ketentuan mengenai penghasilan yang layak, kebijakan pengupahan, kebutuhan hidup layak, dan perlindungan pengupahan sebagaimana dimaksud dalam Pasal 88, penetapan upah minimum sebagaimana dimaksud dalam Pasal 89, dan pengenaan denda sebagaimana dimaksud dalam Pasal 95 ayat (1), ayat (2) dan ayat (3) diatur dengan Peraturan Pemerintah. Bahwa delegasi pengaturan merupakan hal yang penting untuk tetap diperhatikan dalam setiap pembentukan peraturan perundang- undangan, terutama level undang-undang. 21. Bahwa Pasal 81 angka 39 UU 6/2023 yang mengubah ketentuan Pasal 98 UU 13/2003 telah menghapus fungsi Dewan Pengupahan untuk merumuskan kebijakan pengupahan yang kemudian ditetapkan oleh pemerintah, sedangkan kedudukan dan fungsi Dewan Pengupahan, baik Dewan Pengupahan Nasional, Provinsi, dan Kabupaten/Kota merupakan institusi resmi yang didesain untuk dapat memberikan saran, pertimbangan, dan merumuskan kebijakan pengupahan yang kemudian ditetapkan oleh pemerintah, dalam rangka pengembangan sistem pengupahan nasional. Pengaturan dalam pasal a quo berpotensi merugikan hak konstitusional para Pemohon untuk memperoleh pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum sebagaimana dijamin Pasal 28D ayat (1) UUD 1945; 22. Bahwa berdasarkan uraian di atas, maka jelas dan nyata ketentuan Pasal yang dimohonkan Uji Materiil a quo berpotensi merugikan hak konstitusional para Pemohon, sebagaimana diatur dalam Pasal 27 ayat (2), Pasal 28C ayat (2), Pasal 28D ayat (1), Pasal 28D ayat (2) dan Pasal 28E ayat (3) UUD 1945. Sehingga jelas ada hubungan sebab-akibat (causal verband) antara pasal yang dimohonkan dengan potensi kerugian konstitusional para Pemohon. Dimana apabila Mahkamah mengabulkan permohonan a quo, potensi kerugian tersebut tentu tidak akan terjadi.   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## B.4.6. Pemutusan Hubungan Kerja (PHK)
+**B.4.6. Pemutusan Hubungan Kerja (PHK)**
 
 63. Bahwa para Pemohon berpotensi mengalami kerugian konstitusional akibat berlakunya Pasal 81 angka 40 UU 6/2023 yang mengubah
 
 ketentuan Pasal 151 UU 13/2003; Pasal 81 angka 41 UU 6/2023 yang menyisipkan pasal baru diantara Pasal 151 dan Pasal 152 UU 13/2003 yaitu Pasal 151A; Pasal 81 angka 45 UU 6/2023 yang menyisipkan pasal baru diantara Pasal 154 dan Pasal 155 UU 13/2003 yaitu Pasal 154A; dan Pasal 81 angka 49 UU 6/2023 yang menyisipkan pasal baru diantara Pasal 157 dan Pasal 158 UU 13/2003 yaitu Pasal 157A, karena norma a quo memuat pengaturan baru terkait Pemutusan Hubungan Kerja (PHK) sebagaimana lebih lanjut diuraikan pada tabel berikut.
 
-## TABEL B.6
+**TABEL B.6**
 
 KERUGIAN KONSTITUSIONAL PARA PEMOHON TERKAIT PENGATURAN PEMUTUSAN HUBUNGAN KERJA (PHK)
 
-## Akibat Pemberlakuan
+**Akibat Pemberlakuan**
 
 Pasal 81 angka 40 UU 6/2023 yang mengubah ketentuan Pasal 151 UU 13/2003; Pasal 81 angka 41 UU 6/2023 yang menyisipkan pasal baru diantara Pasal 151 dan Pasal 152 UU 13/2003 yaitu Pasal 151A; Pasal 81 angka 45 UU 6/2023 yang menyisipkan pasal baru diantara Pasal 154 dan Pasal 155 UU 13/2003 yaitu Pasal 154A; dan Pasal 81 angka 49 UU 6/2023 yang menyisipkan pasal baru diantara Pasal 157 dan Pasal 158 UU 13/2003 yaitu Pasal 157A
 
@@ -858,7 +864,7 @@ Pasal 81 angka 40 UU 6/2023 yang mengubah ketentuan Pasal 151 UU 13/2003; Pasal 
 | (2), Pasal 28D ayat (1) dan Pasal 28D ayat (2) UUD 1945. Sehingga jelas ada hubungan sebab-akibat (causal verband) antara pasal yang dimohonkan dengan potensi kerugian konstitusional para Pemohon. Dimana apabila Mahkamah mengabulkan permohonan a quo, potensi kerugian tersebut tentu tidak akan terjadi.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## B.4.7. Uang Pesangon (UP), Uang Penggantian Hak (UPH), Dan Uang Penghargaan Masa Kerja (UPMK)
+**B.4.7. Uang Pesangon (UP), Uang Penggantian Hak (UPH), Dan Uang Penghargaan Masa Kerja (UPMK)**
 
 64. Bahwa para Pemohon berpotensi mengalami kerugian konstitusional akibat berlakunya;
 - a. Pasal 81 angka 47 UU 6/2023 yang mengubah ketentuan Pasal 156 UU 13/2003;
@@ -876,11 +882,11 @@ karena norma a quo memuat dan/atau berimplikasi memunculkan pengaturan baru meng
 
 TABEL B.7
 
-## KERUGIAN KONSTITUSIONAL PEMOHON
+**KERUGIAN KONSTITUSIONAL PEMOHON**
 
 TERKAIT PENGATURAN UANG PESANGON (UP), UANG PENGGANTIAN HAK (UPH), DAN UANG PENGHARGAAN MASA KERJA (UPMK)
 
-## Akibat Pemberlakuan
+**Akibat Pemberlakuan**
 
 Pasal 81 angka 47 UU 6/2023 yang mengubah ketentuan Pasal 156 UU 13/2003; Pasal 81 angka 53 UU 6/2023 yang menghapus Pasal 161 UU 13/2003; Pasal 81 angka 54 UU 6/2023 yang menghapus Pasal 162 UU 13/2003; Pasal 81 angka 55 UU 6/2023 yang menghapus Pasal 163 UU 13/2003; Pasal 81 angka 56 UU 6/2023 yang menghapus Pasal 164 UU 13/2003; Pasal 81 angka 57 UU 6/2023 yang menghapus Pasal 165 UU 13/2003; Pasal 81 angka 58 UU 6/2023 yang menghapus Pasal 166 UU 13/2003; Pasal 81 angka 59 UU 6/2023 yang menghapus Pasal 167 UU 13/2003; Pasal 81 angka 61 UU 6/2023 yang menghapus Pasal 169 UU 13/2003; dan Pasal 81 angka 64 UU 6/2023 yang menghapus Pasal 172 UU 13/2003
 
@@ -962,11 +968,11 @@ Pasal 81 angka 55 UU 6/2023 yang menghapus Pasal 163 UU 13/2003; Pasal 81 angka 
 - C. Pokok Permohonan
 2. C.1. Tenaga Kerja Asing (TKA)
 
-## Konstitusionalitas Pasal 81 angka 4 UU 6/2023 yang mengubah ketentuan Pasal 42 UU 13/2003
+**Konstitusionalitas Pasal 81 angka 4 UU 6/2023 yang mengubah ketentuan Pasal 42 UU 13/2003**
 
 65. Bahwa Pasal a quo yang mengubah Pasal 42 UU 13/2003, sehingga berbunyi:
 
-## Pasal 42
+### Pasal 42 ^pasal-42
 
 - (1) Setiap pemberi kerja yang mempekerjakan tenaga kerja asing wajib memiliki rencana penggunaan tenaga kerja asing yang disahkan oleh Pemerintah Pusat.
 - (2) Pemberi kerja orang perseorangan dilarang mempekerjakan tenaga kerja asing.
@@ -1017,7 +1023,7 @@ Pasal 81 angka 55 UU 6/2023 yang menghapus Pasal 163 UU 13/2003; Pasal 81 angka 
 - seharusnya frasa '… rencana penggunaan tenaga kerja asing yang disahkan oleh Pemerintah Pusat' dalam ketentuan Pasal 42 ayat (1) UU 13/2003 sebagaimana telah diubah Pasal 81 angka 4 UU 6/2023 harus dimaknai sebagaimana ketentuan Pasal 43 UU 13/2003;
 79. Bahwa sebelum dihapus, ketentuan Pasal 43 UU 13/2003 berbunyi:
 
-## Pasal 43
+### Pasal 43 ^pasal-43
 
 - (1) Pemberi kerja yang menggunakan tenaga kerja asing harus memiliki rencana penggunaan tenaga kerja asing yang disahkan oleh Menteri atau pejabat yang ditunjuk.
 - (2) Rencana penggunaan tenaga kerja asing sebagaimana dimaksud dalam ayat (1) sekurang-kurangnya memuat keterangan:
@@ -1056,9 +1062,9 @@ Pasal 81 angka 55 UU 6/2023 yang menghapus Pasal 163 UU 13/2003; Pasal 81 angka 
 - d. Ketentuan Pasal 81 angka 4 UU 6/2023 yang mengubah ketentuan Pasal 42 ayat (4) UU 13/2003 bertentangan dengan UUD 1945 dan dinyatakan tidak memiliki kekuatan hukum mengikat, sepanjang tidak dimaknai 'Tenaga kerja asing dapat dipekerjakan di Indonesia hanya dalam hubungan kerja untuk jabatan tertentu dan waktu tertentu serta memiliki kompetensi antara lain pengetahuan, keahlian, keterampilan di bidang tertentu, dan pemahaman budaya Indonesia sesuai dengan jabatan yang akan diduduki';
 - e. Ketentuan Pasal 81 angka 4 UU 6/2023 yang mengubah ketentuan Pasal 42 ayat (5) UU 13/2003 bertentangan dengan UUD 1945 dan dinyatakan tidak memiliki kekuatan hukum mengikat, sepanjang tidak dimaknai 'Tenaga kerja asing dilarang menduduki jabatan yang mengurusi personalia dan/atau jabatan-jabatan tertentu.';
 
-## C.2. Perjanjian Kerja Waktu Tertentu (PKWT)
+**C.2. Perjanjian Kerja Waktu Tertentu (PKWT)**
 
-## Konstitusionalitas ketentuan Pasal 81 angka 12 UU 6/2023 yang mengubah ketentuan Pasal 56 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 12 UU 6/2023 yang mengubah ketentuan Pasal 56 UU 13/2003**
 
 102. Bahwa Pasal a quo telah mengubah ketentuan Pasal 56 UU 13/2003 dengan menambahkan 2 ayat, yakni ayat (3) dan (4) sehingga Pasal 56 berbunyi sebagai berikut:
 - (1) Perjanjian kerja dibuat untuk waktu tertentu atau untuk waktu tidak tertentu.
@@ -1134,7 +1140,7 @@ tenaga kerja dibandingkan pengaturan Pasal 59 UU 13/2003 yang sebelum perubahan.
 
 - bertentangan dengan ketentuan Pasal 28D ayat (2) UUD yang menjamin hak setiap orang untuk mendapat perlakuan yang adil dan layak dalam hubungan kerja;
 
-## Konstitusionalitas ketentuan Pasal 81 angka 13 UU 6/2023 yang mengubah ketentuan Pasal 57 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 13 UU 6/2023 yang mengubah ketentuan Pasal 57 UU 13/2003**
 
 124. Bahwa Pasal a quo mengubah ketentuan Pasal 57 UU 13/2003 dengan menghapuskan ayat (2) yang menyatakan:
 
@@ -1183,7 +1189,7 @@ pemenuhan hak asasi manusia adalah tanggung jawab negara, terutama pemerintah';
 
 'Menimbang oleh karena UU 4/2014 beserta lampirannya dinyatakan bertentangan dengan UUD 1945 dan dengan demikian tidak memiliki kekuatan hukum mengikat sebagaimana amar putusan yang akan disebutkan di bawah ini, maka Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan UndangUndang Nomor 8 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi dinyatakan berlaku kembali sebagaimana sebelum diubah oleh PERPU 1/2013 yang kemudian menjadi UU 4/2014' [vide Paragraf 3.26, hlm. 120]
 
-## Konstitusionalitas ketentuan Pasal 81 angka 15 UU 6/2023 yang mengubah ketentuan Pasal 59 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 15 UU 6/2023 yang mengubah ketentuan Pasal 59 UU 13/2003**
 
 144. Bahwa keberadaan Pasal a quo mengubah ketentuan Pasal 59 UU 13/2003 sehingga berbunyi sebagai berikut:
 
@@ -1251,7 +1257,7 @@ pemenuhan hak asasi manusia adalah tanggung jawab negara, terutama pemerintah';
 
 'Menimbang oleh karena UU 4/2014 beserta lampirannya dinyatakan bertentangan dengan UUD 1945 dan dengan demikian tidak memiliki kekuatan hukum mengikat sebagaimana amar putusan yang akan disebutkan di bawah ini, maka Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan UndangUndang Nomor 8 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi dinyatakan berlaku kembali sebagaimana sebelum diubah oleh PERPU 1/2013 yang kemudian menjadi UU 4/2014' [vide Paragraf 3.26, hlm. 120]
 
-## Konstitusionalitas Ketentuan Pasal 81 angka 16 UU 6/2023 yang mengubah ketentuan Pasal 61 UU 13/2003
+**Konstitusionalitas Ketentuan Pasal 81 angka 16 UU 6/2023 yang mengubah ketentuan Pasal 61 UU 13/2003**
 
 174. Bahwa keberadaan Pasal a quo telah mengubah ketentuan Pasal 61 UU 13/2003 dengan menambahkan frasa 'selesainya suatu pekerjaan tertentu' pada ayat (1) huruf c sehingga Pasal 61 ayat (1) berbunyi:
 - (1) Perjanjian kerja berakhir apabila:
@@ -1322,7 +1328,7 @@ Apabila salah satu pihak mengakhiri hubungan kerja sebelum berakhirnya jangka wa
 - ketidakpastian hukum sehingga berpotensi dijadikan dalil pembenar bagi pengusaha untuk secara leluasa melakukan pengakhiran perjanjian kerja (perjanjian kerja waktu tertentu yang didasarkan atas jangka waktu atau mengakhiri perjanjian kerja waktu tidak tertentu);serta (2) menimbulkan ketidakpastian hukum dalam pemberian uang kompensasi kepada pekerja/buruh yang diatur dalam Pasal 81 angka 17 yang menyisipkan Pasal 61A UU 6/2023 sehingga keberadaan Pasal a quo menimbulkan tidak adanya jaminan, perlindungan, dan kepastian hukum yang adil bagi pekerja/buruh dan oleh karenanya bertentangan secara bersyarat dengan Pasal 28D ayat (1) UUD NRI sepanjang tidak dimaknai 'selesainya suatu pekerjaan tertentu hanya dikenakan terhadap perjanjian kerja waktu tertentu yang didasarkan atas selesainya suatu pekerjaan tertentu sebagaimana diatur dalam Pasal 56 ayat (2) huruf b dan Pasal 59 ayat (1) UU 13/2003';
 222. Bahwa keberadaan Pasal a quo yang memberikan legalitas kepada pengusaha dan/atau pekerja/buruh untuk mengakhiri perjanjian kerja waktu tertentu yang didasarkan atas selesainya suatu pekerjaan tertentu ketika telah selesainya suatu pekerjaan tertentu yang diperjanjikan. Namun, disisi lain, keberadaan Pasal a quo justru menimbulkan, (1) ketidakpastian hukum sehingga berpotensi dijadikan dalil pembenar bagi pengusaha untuk secara leluasa melakukan pengakhiran perjanjian kerja (perjanjian kerja waktu tertentu yang didasarkan atas jangka waktu atau mengakhiri perjanjian kerja waktu tidak tertentu); serta (2) menimbulkan ketidakpastian hukum dalam pemberian uang kompensasi kepada pekerja/buruh yang diatur dalam Pasal 81 angka 17 yang menyisipkan Pasal 61A UU 6/2023 sehingga keberadaan Pasal a quo tidak mencerminkan adanya perlakuan yang adil dan layak dalam hubungan kerja dan oleh karenanya bertentangan secara bersyarat dengan Pasal 28D ayat (2) UUD NRI 1945 sepanjang tidak dimaknai 'selesainya suatu pekerjaan tertentu hanya dikenakan terhadap perjanjian kerja waktu tertentu yang didasarkan atas selesainya suatu pekerjaan tertentu sebagaimana diatur dalam Pasal 56 ayat (2) huruf b dan Pasal 59 ayat (1) UU 13/2003';
 
-## Konstitusionalitas ketentuan Pasal 81 angka 17 UU 6/2023 yang memuat ketentuan Pasal 61A sebagai ketentuan baru yang disisipkan di antara Pasal 61 dan Pasal 62 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 17 UU 6/2023 yang memuat ketentuan Pasal 61A sebagai ketentuan baru yang disisipkan di antara Pasal 61 dan Pasal 62 UU 13/2003**
 
 223. Bahwa keberadaan Pasal 81 angka 17 UU 6/2023 yang menyisipkan Pasal 61A di antara Pasal 61 dan Pasal 62 UU 13/2003 yang menyatakan:
 - (1) Dalam hal perjanjian kerja waktu tertentu berakhir sebagaimana dimaksud dalam Pasal 61 ayat (1) huruf b dan huruf c, pengusaha wajib memberikan uang kompensasi kepada pekerja/buruh.
@@ -1341,9 +1347,9 @@ Apabila salah satu pihak mengakhiri hubungan kerja sebelum berakhirnya jangka wa
 
 masih menyisakan sisa jangka waktu bekerja berdasarkan perjanjian kerja, apakah akan memperoleh uang kompensasi berdasarkan ketentuan Pasal a quo atau memperoleh uang ganti rugi berdasarkan ketentuan Pasal 62 UU 13/2003 sehingga keberadaan Pasal a quo mencerminkan adanya perlakuan yang tidak adil serta tidak layak bagi tenaga kerja dalam hubungan kerja sehingga bertentangan dengan ketentuan Pasal 28D ayat (2) UUD NRI 1945;
 
-## C.3. Pekerja Alih Daya (Outsourcing)
+**C.3. Pekerja Alih Daya (Outsourcing)**
 
-## Konstitusionalitas ketentuan Pasal 81 angka 18 yang mengubah ketentuan Pasal 64 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 18 yang mengubah ketentuan Pasal 64 UU 13/2003**
 
 232. Bahwa Pasal a quo mengubah ketentuan Pasal 64 UU 13/2003 sehingga berbunyi:
 - (1) Perusahaan dapat menyerahkan sebagian pelaksanaan pekerjaan kepada Perusahaan lainnya melalui perjanjian alih daya yang dibuat secara tertulis.
@@ -1394,7 +1400,7 @@ kemanusiaan. Tidak adanya jaminan kepastian hukum serta jaminan perlindungan pek
 245. Bahwa para Pemohon menyadari, disatu sisi apabila Mahkamah menyatakan Pasal 81 angka 18 UU 6/2023 yang mengubah ketentuan Pasal 64 UU 13/2003 bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1), dan Pasal 28D ayat (2) UUD 1945 dan tidak mempunyai kekuatan hukum mengikat, dapat terjadi kekosongan hukum (wetvacuum) dalam kaitannya dengan pengaturan pekerja alih daya (outsourcing) maka untuk mengatasi kekosongan hukum (wetvacuum) tersebut, para Pemohon memohon kepada Mahkamah untuk menyatakan Pasal 64 UU 13/2003 berlaku kembali sebagaimana sebelum diubah oleh UU 6/2023;
 246. Bahwa perihal pemberlakuan kembali ketentuan pasal-pasal di dalam Undang-Undang yang sudah pernah diubah dengan Undang-Undang baru/perubahan sudah pernah dilakukan oleh Mahkamah di dalam Putusan No. 1-2/PUU-XII/2014 dalam perkara pengujian Undang-Undang Nomor 4 Tahun 2014 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 1 Tahun 2013 tentang Perubahan Kedua Atas UndangUndang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi Menjadi Undang-Undang terhadap UUD 1945;
 
-## Konstitusionalitas ketentuan Pasal 81 angka 19 UU 6/2023 yang menghapus Pasal 65 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 19 UU 6/2023 yang menghapus Pasal 65 UU 13/2003**
 
 247. Bahwa Pasal 65 UU 13/2003 sebelum dihapus oleh ketentuan Pasal a quo mengatur selengkapnya sebagai berikut:
 - (1) Penyerahan sebagian pelaksanaan pekerjaan kepada perusahaan lain dilaksanakan melalui perjanjian pemborongan pekerjaan yang dibuat secara tertulis.
@@ -1463,7 +1469,7 @@ ketentuan peraturan perundang-undangan yang berlaku. Bahwa dalam konsep In House
 
 'Menimbang oleh karena UU 4/2014 beserta lampirannya dinyatakan bertentangan dengan UUD 1945 dan dengan demikian tidak memiliki kekuatan hukum mengikat sebagaimana amar putusan yang akan disebutkan di bawah ini, maka Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan Undang-Undang Nomor 8 Tahun 2011 tentang Perubahan Atas UndangUndang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi dinyatakan berlaku kembali sebagaimana sebelum diubah oleh PERPU 1/2013 yang kemudian menjadi UU 4/2014' [vide Paragraf 3.26, hlm. 120]
 
-## Konstitusionalitas ketentuan Pasal 81 angka 20 UU 6/2023 yang mengubah ketentuan Pasal 66 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 20 UU 6/2023 yang mengubah ketentuan Pasal 66 UU 13/2003**
 
 261. Bahwa ketentuan Pasal a quo yang mengubah ketentuan Pasal 66 UU 13/2003 mengatur:
 - (1) Hubungan Kerja antara perusahaan alih daya dengan Pekerja/Buruh yang dipekerjakannya didasarkan pada Perjanjian Kerja yang dibuat secara tertulis, baik perjanjian kerja waktu tertentu maupun perjanjian kerja waktu tidak tertentu.
@@ -1493,9 +1499,9 @@ ketentuan peraturan perundang-undangan yang berlaku. Bahwa dalam konsep In House
 
 'Menimbang oleh karena UU 4/2014 beserta lampirannya dinyatakan bertentangan dengan UUD 1945 dan dengan demikian tidak memiliki kekuatan hukum mengikat sebagaimana amar putusan yang akan disebutkan di bawah ini, maka Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan UndangUndang Nomor 8 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi dinyatakan berlaku kembali sebagaimana sebelum diubah oleh PERPU 1/2013 yang kemudian menjadi UU 4/2014' [vide Paragraf 3.26, hlm. 120]
 
-## C.4. Cuti
+**C.4. Cuti**
 
-## Konstitusionalitas Ketentuan Pasal 81 angka 25 UU 6/2023 yang mengubah ketentuan Pasal 79 UU 13/2003
+**Konstitusionalitas Ketentuan Pasal 81 angka 25 UU 6/2023 yang mengubah ketentuan Pasal 79 UU 13/2003**
 
 271. Bahwa Pasal a quo telah mengubah ketentuan Pasal 79 UU 13/2003, sehingga berbunyi sebagai berikut:
 - (1) Pengusaha wajib memberi:
@@ -1540,7 +1546,7 @@ Pasal 79 ayat (2) UU 13/2003 menurut para Pemohon berpotensi besar menjadikan ti
 
 289. Bahwa perihal pemberlakuan kembali ketentuan pasal-pasal di dalam Undang-Undang yang sudah pernah diubah dengan Undang-Undang baru/perubahan sudah pernah dilakukan oleh Mahkamah di dalam Putusan No. 1-2/PUU-XII/2014 dalam perkara pengujian Undang-Undang Nomor 4 Tahun 2014 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2013 tentang Perubahan Kedua Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi Menjadi Undang-Undang terhadap UUD 1945;
 
-## C.5. Upah Dan Upah Minimum
+**C.5. Upah Dan Upah Minimum**
 
 290. Bahwa esensialnya hubungan pekerjaan setelah adanya revolusi industriparadigma berkontrak adalah tanpa batas sebagai bentuk (unrestricted freedom of contract) sebagai pengaruh aliran filsafat politik ekonomi dan ekonomi yang liberal pada abad kesembilan belas;
 291. Bahwa perekonomian, berkembang aliran laissez faire yang dikemukakan oleh Vincent de gournay seorang fisiokrat yang menyatakan: 'laissez faire, laissez passer, le monde va alors de lui meme' yang artinya biarlah orang berkata, biarkan berlalu, dunia akan tetap berputar selalu. Kemudian semboyan ini kemudian dimaknai 'biarlah orang berbuat seperti yang mereka sukai tanpa campur tangan pemerintah'. (Ridwan Khairandi, Itikad Baik dalam Berkontrak di Berbagai Sistem Hukum, FH UII Press, 2017);
@@ -1592,7 +1598,7 @@ kesempatan bekerja secara penuh dan produktif berdasarkan kondisi yang menjamin 
 
 310. Bahwa Pasal 27 ayat (2) dan Pasal 28 ayat (2) UUD 1945 merupakan jaminan hak konstitusional bagi setiap warga negara untuk mendapatkan pekerjaan, standar pekerjaan yang layak guna mencapai standar penghidupan yang layak bagi kemanusiaan. Konstruksi hukum inilah yang kemudian seharusnya dipedomani dalam merumuskan aturan mengenai pengupahan. Apabila menyimpang dari konstruksi tersebut maka dipastikan melanggar konstitusi/UUD 1945.
 
-## Konstitusionalitas ketentuan Pasal 81 angka 27 UU 6/2023 yang mengubah ketentuan Pasal 88 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 27 UU 6/2023 yang mengubah ketentuan Pasal 88 UU 13/2003**
 
 311. Bahwa Pasal a quo mengubah ketentuan Pasal 88 UU 13/2003 sehingga berbunyi sebagai berikut:
 - (1) Setiap Pekerja/Buruh berhak atas penghidupan yang layak bagi kemanusiaan.
@@ -1648,7 +1654,7 @@ Konstitusionalitas Pasal 81 angka 28 UU 6/2023 yang menyisipkan pasalpasal baru 
 
 330. Bahwa diantara Pasal 88 dan 89 UU 6/2023 terdapat beberapa pasalpasal baru, diantaranya yaitu Pasal 88A, 88B, 88C, 88D, 88E, dan 88F sehingga berbunyi sebagai berikut:
 
-## Pasal 88A
+**Pasal 88A**
 
 - (1) Hak Pekerja/Buruh atas upah timbul pada saat terjadi hubungan kerja antara Pekerja/Buruh dengan Pengusaha dan berakhir pada saat putusnya Hubungan Kerja.
 - (2) Setiap Pekerja/Buruh berhak memperoleh Upah yang sama untuk pekerjaan yang sama nilainya.
@@ -1676,13 +1682,13 @@ Pasal 88C
 - (6) Dalam hal kabupaten/kota belum memiliki Upah minimum dan akan menetapkan Upah minimum, penetapan Upah minimum harus memenuhi syarat tertentu.
 - (7) Ketentuan lebih lanjut mengenai tata cara penetapan upah minimum sebagaimana dimaksud pada ayat (4) dan syarat tertentu sebagaimana dimaksud pada ayat (6) diatur dalam Peraturan Pemerintah.
 
-## Pasal 88D
+**Pasal 88D**
 
 - (1) Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (2) dihitung dengan menggunakan formula perhitungan upah minimum.
 - (2) Formula perhitungan upah minimum sebagaimana dimaksud pada ayat (1).
 - (3) Ketentuan lebih lanjut mengenai formula perhitungan upah minimum diatur dalam Peraturan Pemerintah.
 
-## Pasal 88E
+**Pasal 88E**
 
 - (1) Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (2) berlaku bagi pekerja/buruh dengan masa kerja kurang dari 1 (satu) tahun pada perusahaan yang bersangkutan.
 - (2) Pengusaha dilarang membayar upah lebih rendah dari upah minimum.
@@ -1741,11 +1747,11 @@ yang terdapat dalam hubungan ketenagakerjaan (antara buruh dengan pengusaha). Ka
 
 355. Bahwa berkaitan dengan peran aktif negara dalam rangka pelindungan dan pemenuhan hak-hak pekerja/buruh sudah berkali-kali ditegaskan oleh Mahkamah pada setiap putusannya, diantara putusan tersebut adalah sebagai berikut:
 
-## Putusan No. 13/PUU-XV/2017 Paragraf [3.13.1] hlm. 48
+**Putusan No. 13/PUU-XV/2017 Paragraf [3.13.1] hlm. 48**
 
 'Hak konstitusional sebagaimana diatur dalam Pasal 28D ayat (2) UUD 1945 adalah bagian dari hak asasi manusia yang tergolong ke dalam hakhak ekonomi, sosial, dan kebudayaan. Berbeda halnya dengan pemenuhan terhadap hak asasi manusia yang tergolong ke dalam hak-hal sipil dan politik yang pemenuhannya justru dilakukan dengan sesedikit mungkin campur tangan negara, bahkan dalam batas-batas tertentu negara tidak boleh campur tangan, pemenuhan terhadap hak-hak yang tergolong ke dalam hak-hak ekonomi, sosial, dan kebudayaan justru membutuhkan peran aktif negara sesuai kemampuan atau sumber daya yang dimiliki oleh tiap-tiap negara.'
 
-## Putusan No. 100/PUU-X/2012 Paragraf [3.10.3] hlm. 61
+**Putusan No. 100/PUU-X/2012 Paragraf [3.10.3] hlm. 61**
 
 'Bahwa hubungan ketenagakerjaan bukan semata-mata merupakan hubungan keperdataan karena hubungan tersebut telah menyangkut kepentingan yang lebih luas (ribuan buruh) artinya kepentingan publik, bahkan kepentingan negara, sehingga terdapat perbedaan yang tipis antara kepentingan privat dan kepentingan publik yang mengharuskan adanya pengaturan dan perlindungan secara adil oleh negara.'
 
@@ -1786,11 +1792,11 @@ hukum (wetvacuum) tersebut, para Pemohon memohon kepada Mahkamah untuk menyataka
 
 'Menimbang oleh karena UU 4/2014 beserta lampirannya dinyatakan bertentangan dengan UUD 1945 dan dengan demikian tidak memiliki kekuatan hukum mengikat sebagaimana amar putusan yang akan disebutkan di bawah ini, maka Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan UndangUndang Nomor 8 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi dinyatakan berlaku kembali sebagaimana sebelum diubah oleh PERPU 1/2013 yang kemudian menjadi UU 4/2014' [vide Paragraf 3.26, hlm. 120]
 
-## Konstitusionalitas Pasal 81 angka 29 UU 6/2023 yang menghapus ketentuan Pasal 89 UU 13/2003
+**Konstitusionalitas Pasal 81 angka 29 UU 6/2023 yang menghapus ketentuan Pasal 89 UU 13/2003**
 
 377. Bahwa Pasal 89 UU 13/2003 yang dihapus oleh ketentuan Pasal 81 angka 29 UU 6/2023 berbunyi sebagai berikut:
 
-## Pasal 89
+### Pasal 89 ^pasal-89
 
 - (1) Upah minimum sebagaimana dimaksud dalam Pasal 88 ayat (3) huruf a terdiri atas:
 - a. Upah minimum berdasarkan wilayah provinsi atau kabupaten/kota;
@@ -1803,11 +1809,11 @@ hukum (wetvacuum) tersebut, para Pemohon memohon kepada Mahkamah untuk menyataka
 - (4) Komponen serta pelaksanaan tahapan pencapaian kebutuhan hidup layak sebagaimana dimaksud dalam ayat (2) diatur dengan Keputusan Menteri.
 378. Bahwa penghapusan Pasal ini jelas bertentangan UUD NRI 1945 sebagaimana telah diuraikan sebelumnya. Para Pemohon memohon agar argumentasi dan dalil yang disampaikan di atas juga secara mutatis mutandis berlaku untuk bagian ini, terlebih Pasal-Pasal sisipan baru diantara Pasal 88 hingga Pasal 90 dalam UU 6/2023 tidak utuh sebagai Pasal yang ideal dalam mengatur pengupahan sebagaimana yang diatur dalam UU 13/2003. Artinya masih jauh lebih baik UU 13/2003, sehingga mohon kiranya agar Yang Mulia berkenan menyatakan Pasal-Pasal lama dalam UU 13/2003 tentang pengupahan dapat berlaku kembali;
 
-## Konstitusionalitas Pasal 81 angka 30 UU 6/2023 yang menghapus ketentuan Pasal 90 UU 13/2003
+**Konstitusionalitas Pasal 81 angka 30 UU 6/2023 yang menghapus ketentuan Pasal 90 UU 13/2003**
 
 379. Pasal 90 UU 13/2003 yang dihapus melalui ketentuan Pasal 81 angka 30 UU 6/2023 sebelumnya berbunyi:
 
-Pasal 90
+### Pasal 90 ^pasal-90
 
 - (1) Pengusaha dilarang membayar upah lebih rendah dari upah minimum sebagaimana dimaksud dalam Pasal 89.
 - (2) Bagi pengusaha yang tidak mampu membayar upah minimum sebagaimana dimaksud dalam Pasal 89 dapat dilakukan penangguhan.
@@ -1820,7 +1826,7 @@ Pasal 90
 383. Bahwa muatan Pasal 90 yang dihapus ini juga terdapat ketentuan pendelegian tata cara penangguhan ketidakmampuan pengusaha membayar upah ke dalam Keputusan Menteri. Bahwa delegasi pengaturan merupakan hal yang penting untuk tetap diperhatikan dalam setiap pembentukan peraturan perundang-undangan, terutama level undang-undang.
 384. Bahwa Pasal yang dihapus ini berpotensi merugikan hak konstitusional para Pemohon yang dijamin dalam Pasal 27 ayat (2) dan Pasal 28D ayat (2) UUD 1945, terlebih Pasal-Pasal sisipan baru diantara Pasal 88 hingga Pasal 90 90A dalam UU 6/2023 tidak utuh sebagai Pasal yang ideal dalam mengatur pengupahan sebagaimana yang diatur dalam Pasal 91 UU 13/2003 ini;
 
-## Konstitusionalitas Pasal 81 angka 31 UU 6/2023 yang menyisipkan pasalpasal baru di antara Pasal 90 dan 91 UU 13/2003, yakni Pasal 90A dan Pasal 90B
+**Konstitusionalitas Pasal 81 angka 31 UU 6/2023 yang menyisipkan pasalpasal baru di antara Pasal 90 dan 91 UU 13/2003, yakni Pasal 90A dan Pasal 90B**
 
 385. Bahwa Pasal 90A UU 13/2003 yang ditetapkan dalam Pasal 81 angka 31 UU 6/2023 yang berbunyi 'Upah di atas Upah minimum ditetapkan berdasarkan kesepakatan antara Pengusaha dan Pekerja/Buruh di perusahaan' mereduksi kedudukan dan peran para Pemohon yakni
 
@@ -1857,17 +1863,17 @@ Konstitusi Menjadi Undang-Undang terhadap UUD 1945, dengan pertimbangan hukum se
 
 'Menimbang oleh karena UU 4/2014 beserta lampirannya dinyatakan bertentangan dengan UUD 1945 dan dengan demikian tidak memiliki kekuatan hukum mengikat sebagaimana amar putusan yang akan disebutkan di bawah ini, maka Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan UndangUndang Nomor 8 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi dinyatakan berlaku kembali sebagaimana sebelum diubah oleh PERPU 1/2013 yang kemudian menjadi UU 4/2014' [vide Paragraf 3.26, hlm. 120]
 
-## Konstitusionalitas ketentuan Pasal 81 angka 32 UU 6/2023 yang menghapus ketentuan Pasal 91 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 32 UU 6/2023 yang menghapus ketentuan Pasal 91 UU 13/2003**
 
 402. Bahwa Pasal 91 UU 13/2003 yang dihapus oleh Pasal 81 angka 32 UU 6/2023 berbunyi,
 
-## Pasal 91
+### Pasal 91 ^pasal-91
 
 - (1) Pengaturan pengupahan yang ditetapkan atas kesepakatan antara pengusaha dan pekerja/buruh atau serikat pekerja/serikat buruh tidak boleh lebih rendah dari ketentuan pengupahan yang ditetapkan peraturan perundang-undangan yang berlaku.
 - (2) Dalam hal kesepakatan sebagaimana dimaksud dalam ayat (1) lebih rendah atau bertentangan dengan peraturan perundang-undangan, kesepakatan tersebut batal demi hukum, dan pengusaha wajib membayar upah pekerja/buruh menurut peraturan perundangundangan yang berlaku.
 423. Bahwa penghapusan Pasal a quo jelas bertentangan dengan Pasal 27 ayat (2) dan Pasal 28D ayat (2) UUD NRI 1945, terlebih Pasal 88A-88F dalam Pasal 81 angka 28 UU 6/2023 tidak utuh sebagai Pasal yang ideal dalam mengatur pengupahan sebagaimana yang diatur dalam Pasal 91 UU 13/2003 ini;
 
-## Konstitusionalitas ketentuan Pasal 81 angka 33 UU 6/2023 yang mengubah ketentuan Pasal 92 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 33 UU 6/2023 yang mengubah ketentuan Pasal 92 UU 13/2003**
 
 403. Bahwa Pasal ketentuan Pasal 81 angka 33 UU 6/2023 yang mengubah ketentuan Pasal 92 UU 13/2003 berbunyi sebagai berikut:
 - (1) Pengusaha wajib menyusun struktur dan skala Upah di Perusahaan dengan memperhatikan kemampuan Perusahaan dan produktivitas.
@@ -1887,7 +1893,7 @@ Konstitusi Menjadi Undang-Undang terhadap UUD 1945, dengan pertimbangan hukum se
 
 411. Bahwa oleh karena itu para Pemohon memohon kepada Mahkamah agar ketentuan Pasal 81 angka 33 UU 6/2023 yang mengubah ketentuan Pasal 92 ayat (1) UU 13/2003 dinyatakan bertentangan dengan UUD 1945 secara bersyarat sepanjang tidak dimaknai 'Pengusaha wajib menyusun struktur dan skala upah dengan memperhatikan golongan, jabatan, masa kerja, pendidikan, dan kompetensi'.
 
-## Konstitusionalitas ketentuan Pasal 81 angka 35 UU 6/2023 yang mengubah ketentuan Pasal 94 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 35 UU 6/2023 yang mengubah ketentuan Pasal 94 UU 13/2003**
 
 412. Bahwa ketentuan Pasal 81 angka 35 UU 6/2023 yang mengubah ketentuan Pasal 94 UU 13/2003, berbunyi 'Dalam hal komponen Upah terdiri atas Upah pokok dan tunjangan tetap, besarnya Upah pokok paling sedikit 75% (tujuh puluh lima persen) dari jumlah Upah pokok dan tunjangan tetap';
 413. Bahwa penjelasan Pasal 81 angka 35 UU 6/2023 yang mengubah ketentuan Pasal 94 UU 13/2003 berbunyi, Yang dimaksud dengan 'tunjangan tetap' adalah pembayaran kepada Pekerja/Buruh yang dilakukan secara teratur dan tidak dikaitkan dengan kehadiran Pekerja/Buruh atau pencapaian prestasi kerja tertentu';
@@ -1899,7 +1905,7 @@ Konstitusi Menjadi Undang-Undang terhadap UUD 1945, dengan pertimbangan hukum se
 417. Bahwa dengan berlakunya Pasal 81 angka 35 UU 6/2023 yang mengubah ketentuan Pasal 94 UU 13/2003 beserta penjelasannya telah merugikan hak konstitusional para Pemohon untuk memperoleh penghidupan yang layak bagi kemanusiaan, imbalan dan perlakuan yang adil dan layak melalui tunjangan tetap yang dalam pembayarannya dikaitkan (memperhitungkan) dengan kehadiran dan prestasi kerjanya sebagaimana dijamin Pasal 27 ayat (2), dan Pasal 28D ayat (2) UUD 1945;
 418. Bahwa Pasal 81 angka 35 UU 6/2023 yang mengubah ketentuan Pasal 94 UU 13/2003, sepanjang frasa 'Dalam hal komponen Upah terdiri atas Upah pokok dan tunjangan tetap, besarnya Upah pokok paling sedikit 75% (tujuh puluh lima persen) dari jumlah Upah pokok dan tunjangan tetap' bertentangan dengan Pasal 27 ayat (2), dan Pasal 28D ayat (2) UUD 1945 secara bersyarat (conditionally unconstitutional) apabila penjelasan pasalnya tidak dimaknai 'Yang dimaksud dengan 'tunjangan tetap' adalah pembayaran kepada Pekerja/Buruh yang dilakukan secara teratur dan dikaitkan dengan kehadiran Pekerja/Buruh atau pencapaian prestasi kerja tertentu'.
 
-## Konstitusionalitas ketentuan Pasal 81 angka 36 UU 6/2023 yang mengubah ketentuan Pasal 95 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 36 UU 6/2023 yang mengubah ketentuan Pasal 95 UU 13/2003**
 
 419. Bahwa ketentuan Pasal 81 angka 36 UU 6/2023 mengubah ketentuan Pasal 95 UU 13/2003, sehingga berbunyi:
 - (1) Dalam hal Perusahaan dinyatakan pailit atau dilikuidasi berdasarkan ketentuan peraturan perundang-undangan, Upah dan hak lainnya
@@ -1930,7 +1936,7 @@ atau dilikuidasi berdasarkan ketentuan peraturan perundang-undangan, sedangkan p
 
 'Menimbang oleh karena UU 4/2014 beserta lampirannya dinyatakan bertentangan dengan UUD 1945 dan dengan demikian tidak memiliki kekuatan hukum mengikat sebagaimana amar putusan yang akan disebutkan di bawah ini, maka Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan UndangUndang Nomor 8 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi dinyatakan berlaku kembali sebagaimana sebelum diubah oleh PERPU 1/2013 yang kemudian menjadi UU 4/2014' [vide Paragraf 3.26, hlm. 120]
 
-## Konstitusionalitas ketentuan Pasal 81 angka 38 UU 6/2023 yang menghapus ketentuan Pasal 97 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 38 UU 6/2023 yang menghapus ketentuan Pasal 97 UU 13/2003**
 
 432. Bahwa Pasal a quo yang menghapus ketentuan Pasal 97 UU 13/2003 telah menghapus keberlanjutan pengaturan lebih lanjut mengenai ketentuan pengupahan. Pasal 97 UU 13/2003 berbunyi, Ketentuan mengenai penghasilan yang layak, kebijakan pengupahan, kebutuhan hidup layak, dan perlindungan pengupahan sebagaimana dimaksud dalam Pasal 88, penetapan upah minimum sebagaimana dimaksud dalam Pasal 89, dan pengenaan denda sebagaimana dimaksud dalam Pasal 95 ayat (1), ayat (2) dan ayat (3) diatur dengan Peraturan Pemerintah.
 
@@ -1939,7 +1945,7 @@ atau dilikuidasi berdasarkan ketentuan peraturan perundang-undangan, sedangkan p
 433. Bahwa delegasi pengaturan merupakan hal yang penting untuk tetap diperhatikan dalam setiap pembentukan peraturan perundang-undangan, terutama level undang-undang.
 434. Bahwa dengan dihapuskannya Pasal 97 UU 13/2013 melalui ketentuan Pasal 81 angka 38 UU 6/2023 maka telah mereduksi hak konstitusional para Pemohon untuk mendapatkan pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum sebagaimana dijamin Pasal 28D ayat (1) UUD 1945) pengaturan pengupahan, khususnya mengenai penghasilan yang layak, kebijakan pengupahan, kebutuhan hidup layak, dan perlindungan pengupahan, penetapan upah minimum, dan pengenaan denda.
 
-## Konstitusionalitas ketentuan Pasal 81 angka 39 UU 6/2023 yang mengubah ketentuan Pasal 98 UU 13/2003
+**Konstitusionalitas ketentuan Pasal 81 angka 39 UU 6/2023 yang mengubah ketentuan Pasal 98 UU 13/2003**
 
 435. Bahwa Pasal a quo yang mengubah ketentuan Pasal 98 UU 13/2003 sehingga berbunyi sebagai berikut:
 - (1) Untuk memberikan saran dan pertimbangan kepada Pemerintah Pusat atau Pemerintah Daerah dalam perumusan kebijakan pengupahan serta pengembangan sistem pengupahan dibentuk dewan pengupahan.
@@ -1973,9 +1979,9 @@ Undang-Undang Nomor 21 Tahun 2000 tentang Serikat Pekerja/Serikat Buruh;
 
 'Menimbang oleh karena UU 4/2014 beserta lampirannya dinyatakan bertentangan dengan UUD 1945 dan dengan demikian tidak memiliki kekuatan hukum mengikat sebagaimana amar putusan yang akan disebutkan di bawah ini, maka Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan UndangUndang Nomor 8 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi dinyatakan berlaku kembali sebagaimana sebelum diubah oleh PERPU 1/2013 yang kemudian menjadi UU 4/2014' [vide Paragraf 3.26, hlm. 120]
 
-## C.6. Pemutusan Hubungan Kerja (PHK)
+**C.6. Pemutusan Hubungan Kerja (PHK)**
 
-## Konstitusionalitas Pasal 81 angka 40 UU 6/2023 yang mengubah ketentuan Pasal 151 UU 13/2003
+**Konstitusionalitas Pasal 81 angka 40 UU 6/2023 yang mengubah ketentuan Pasal 151 UU 13/2003**
 
 451. Bahwa ketentuan Pasal a quo yang mengubah ketentuan Pasal 151 UU 13/2003 menyebutkan sebagai berikut:
 - (1) Pengusaha, pekerja/buruh, serikat pekerja/serikat buruh, dan Pemerintah harus mengupayakan agar tidak terjadi pemutusan hubungan kerja.
@@ -2048,7 +2054,7 @@ oleh peraturan perundang-undangan. Secara lebih lengkap Mahkamah Konstitusi berp
 
 perlakuan yang adil dan layak dalam hubungan kerja yang diatur dalam Pasal 28D ayat (2) UUD NRI 1945. Sehingga, seharusnya dinyatakan bertentangan dengan konstitusi sepanjang tidak dimaknai (conditionally unconstitutional) sebagai berikut, 'Dalam hal perundingan bipartit sebagaimana dimaksud pada ayat (3) tidak mendapatkan kesepakatan, pemutusan hubungan kerja batal demi hukum, apabila tidak dilakukan melalui tahap berikutnya sesuai dengan mekanisme penyelesaian perselisihan hubungan industrial';
 
-## Konstitusionalitas Pasal 81 angka 41 UU 6/2023 yang menyisipkan ketentuan Pasal 151A di antara Pasal 151 dan Pasal 152 UU 13/2003
+**Konstitusionalitas Pasal 81 angka 41 UU 6/2023 yang menyisipkan ketentuan Pasal 151A di antara Pasal 151 dan Pasal 152 UU 13/2003**
 
 464. Bahwa Pasal 151A UU 13/2003 yang ditetapkan melalui Pasal 81 angka 41 UU 6/2023 berbunyi sebagai berikut:
 
@@ -2075,11 +2081,11 @@ Pemberitahuan sebagaimana dimaksud dalam Pasal 151 ayat (2) tidak perlu dilakuka
 
 secara tertulis atas kemauan sendiri tanpa ada indikasi adanya tekanan/intimidasi dari pengusaha.';
 
-## Konstitusionalitas Pasal 81 angka 45 UU 6/2023 yang menyisipkan Pasal 154A di antara Pasal 154 dan Pasal 155 UU 13/2003
+**Konstitusionalitas Pasal 81 angka 45 UU 6/2023 yang menyisipkan Pasal 154A di antara Pasal 154 dan Pasal 155 UU 13/2003**
 
 472. Bahwa ketentuan Pasal 154A akan banyak menimbulkan permasalahan. Salah satunya misalnya bisa ditemukan pada Pasal 154 ayat (1) huruf b yang berbunyi sebagai berikut berikut:
 
-## 'Pasal 154A
+**'Pasal 154A**
 
 - (1) Pemutusan hubungan kerja dapat terjadi karena alasan:
 
@@ -2130,7 +2136,7 @@ Rekomendasi International Labour Organization tentang pemutusan hubungan kerja t
 - kepastian hukum yang adil serta perlakuan yang sama dihadapan hukum dan hak untuk bekerja serta perlakuan yang adil dan layak dalam hubungan kerja;
 482. Bahwa berdasarkan dalil-dalil tersebut di atas, maka menurut para Pemohon, ketentuan Pasal 154A UU 6/2023 bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1) dan Pasal 28D ayat (2) UUD NRI 1945;
 
-## Konstitusionalitas Pasal 81 angka 49 UU 6/2023 yang menyisipkan Pasal 157A di antara Pasal 157 dan Pasal 158 UU 13/2003
+**Konstitusionalitas Pasal 81 angka 49 UU 6/2023 yang menyisipkan Pasal 157A di antara Pasal 157 dan Pasal 158 UU 13/2003**
 
 483. Bahwa ketentuan baru Pasal 157A yang terdapat dalam Pasal 81 angka 49 UU 6/2023 berbunyi sebagai berikut berikut.
 - (1) Selama penyelesaian perselisihan hubungan industrial, pengusaha dan pekerja/buruh harus tetap melaksanakan kewajibannya.
@@ -2206,7 +2212,7 @@ ditafsirkan sebagaimana pertimbangan yang diberikan Mahkamah Konstitusi;
 512. Bahwa dengan dikuranginya nilai Pesangon pada sejumlah Pasal 81 UU 6/2023, maka hal ini sama halnya mengurangi hak normatif pekerja dan mengurangi kebiasaan yang telah diberikan kepada pekerja;
 513. Bahwa dengan dikuranginya nilai pesangon pada sejumlah Pasal 81 UU 6/2023 mengakibatkan potensi berkurangnya nilai pesangon yang tercantum dalam Perjanjian Kerja Bersama. Dan hal ini dapat mengakibatkan terjadinya praktik diskriminasi dikarenakan hak pesangon pekerja sebelum Pasal 81 UU 6/2023 diberlakukan dapat berbeda dengan hak pesangon yang diterima setelah Pasal 81 UU 6/2023 diberlakukan. Tentunya Hal ini bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2) UUD NRI 1945.
 
-## Konstitusionalitas Pasal 81 angka 47 UU 6/2023 yang mengubah ketentuan Pasal 156 UU 13/2003
+**Konstitusionalitas Pasal 81 angka 47 UU 6/2023 yang mengubah ketentuan Pasal 156 UU 13/2003**
 
 514. Bahwa ketentuan 81 angka 47 UU 6/2023 yang mengubah ketentuan Pasal 156 UU 13/2003 berbunyi sebagai berikut:
 - (1) Dalam hal terjadi pemutusan hubungan kerja, pengusaha wajib membayar uang pesangon dan/atau uang penghargaan masa kerja dan uang penggantian hak yang seharusnya diterima.
@@ -2334,7 +2340,7 @@ tidak bekerja dan menerima upah dari pemberi kerja/perusahaan sebagaimana dijami
 
 'Menimbang oleh karena UU 4/2014 beserta lampirannya dinyatakan bertentangan dengan UUD 1945 dan dengan demikian tidak memiliki kekuatan hukum mengikat sebagaimana amar putusan yang akan disebutkan di bawah ini, maka Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan Undang-Undang Nomor 8 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi dinyatakan berlaku kembali sebagaimana sebelum diubah oleh PERPU 1/2013 yang kemudian menjadi UU 4/2014' [vide Paragraf 3.26, hlm. 120]
 
-## D. Petitum
+**D. Petitum**
 
 Berdasarkan alasan-alasan hukum dan konstitusional sebagaimana diuraikan di atas serta alat-alat bukti yang terlampir, maka para Pemohon dalam hal ini memohon kepada Majelis Hakim Mahkamah Konstitusi Republik Indonesia untuk memutus perkara a quo dengan amar putusan sebagai berikut:
 
@@ -2519,11 +2525,11 @@ Atau apabila Yang Mulia Majelis Hakim Konstitusi berpendapat lain mohon putusan 
 
 Selain itu, para Pemohon mengajukan ahli/saksi yang didengar keterangannya di depan persidangan dan juga menyerahkan keterangan tertulis ahli yang pada pokoknya menerangkan sebagai berikut:
 
-## Ahli para Pemohon:
+**Ahli para Pemohon:**
 
-## 1. Dr. Amalinda Savirani
+**1. Dr. Amalinda Savirani**
 
-## Pengantar
+**Pengantar**
 
 Jumlah kelompok buruh di sektor formal di Indonesia sebesar xxx, tapi tingkat kesejahteraan mereka terus menerus menurun yang mencakup jaminan sosial seperti upah, jaminan kesehatan, jaminan ketenagakerjaan, pensiun, dll. Penurunan kesejahteraan ini disebabkan oleh dua hal sekaligus. Pertama, aturan main yang dikeluarkan oleh pemerintah untuk meningkatkan investasi dengan cara mendorong fleksibilitas pasar tenaga kerja. UU Ciptakerja dan aturan turunannya menjadi fondasi legal institusional praktek penggerusan
 
@@ -2535,11 +2541,11 @@ hak-hak ekonomi kelompok buruh. Kedua, tren de-industrialisasi yang terus mengua
 
 kerangka analisa yang digunakan dalam tulisan ini yakni kewargaan industrial atau industrial citizenship, sebuah konsep yang menekankan dua hal sekaligus yang terkait satu sama lain, pertama kewajiban negara yang melekat pada pemenuhan hak pekerja, dan kedua, ruang yang digunakan dan dimanfaatkan oleh gerakan buruh untuk menuntut negara melakukan peran tsb. Kerangka ini akan digali lebih dalam dengan mengkontekstualisasikannya dengan tuntutan amandemen UU Cipta Kerja kluster ketenagakerjaan. Butirbutir kesimpulan akan menutup tulisan ini.
 
-## Profil kelas pekerja di Indonesia
+**Profil kelas pekerja di Indonesia**
 
 Data BPS tahun 2024 menunjukkan bahwa antara tahun 2021-2024, ada hampir 140 juta angkatan kerja di Indonesia. Dari jumlah ini, yang menjadi pegawai/buruh sebesar 37,68% (sekitar 52,7 juta), ada 23,03% (sekitar 32,2 juta) berusaha sendiri, dan 14,15% (sekitar 19,6 juta) berusaha dibantu buruh tetap. Dari pengelompokkan pegawai/buruh, jumlah tenaga kerja sektor industri mencapai 19,34 juta pada tahun 2023. Dalam konteks amandemen UU Cipta Kerja No 6/2023, yang kita bicarakan adalah nasib lebih dari 19 juta manusia. Kalau kita gabungkan dengan anggota keluarga dengan 1 anak, maka total manusia yang sedang kita bicarakan adalah 58 juta lebih. Selain itu, ekonom mensinyalir bahwa Indonesia sedang mengalami 'deindustrialisasi' (Matsumuto dan Ando 2008), yang ditandai dengan terus turunnya kontribusi sektor manufaktur terhadap pendapatan kotor nasional (GDP). Antara tahun 2008-2010 misalnya, sumbangan sektor manufaktur turun dari 27,8% menjadi 22%; dan turun lagi di masa pandemi COVID-19, menjadi 19,8% di tahun 2020. Antara tahun 2021-2023, penurunan terus terjadi masing-masing 19,25, 18,34; dan 18,25. Penanda lain dari tren deindustrialisasi adalah pertumbuhan sektor manufaktur yang lebih lambat dibandingkan sektor lain. Pada paruh kedua tahun 2023, pertumbuhan sektor ini sebesar 4,8% di bawah angka pertumbuhan ekonomi sebesar 5,17%.
 
-## Konteks: Kebijakan Ketenagakerjaan Neoliberal
+**Konteks: Kebijakan Ketenagakerjaan Neoliberal**
 
 David Harvey mendefinisikan konsep neoliberalisme sebagai 'manusia dapat mencapai potensi terbaiknya dengan melalui pemanfaatan kemampuan dan ketrampilan wirausaha individual, yang dikerangkai oleh aturan main
 
@@ -2561,7 +2567,7 @@ UU Cipta Kerja makin memperluas dan memperdalam praktek ini, dengan menambah mek
 
 tenaga kerja, dan pendalaman praktek informal di sektor formal, dengan akibat peningkatan kerentanan kelompok pekerja dalam bentuk berkurangnya keamanan kerja dan keuntungan sebagai pekerja. Artinya, negara lah yang mendorong praktek ini atau apa yang diargumentasikan Tjandraningsih (2012) sebagai 'state-sponsored precarious'.
 
-## Melepas tanggung jawab negara ke pasar
+**Melepas tanggung jawab negara ke pasar**
 
 Pembukaan UUD menyebutkan bahwa fungsi negara adalah melindungi dan mensejahterakan warganya, melalui beragam mekanisme pengaturan. Fleksibilitas merupakan bentuk negara melepas tanggung jawab kepada mekanisme pasar dalam menjamin hak kesejahteran kelas pekerja, atas nama efisiensi, produktifitas, dan pertumbuhan ekonomi. Praktek fleksibilitas telah mengurangi hak dasar kelompok pekerja secara signifikan. Negara yang seharusnya memperlakukan pekerja sebagai asset penting, lebih berpihak pada pemilik kapital dan mekanisme pasar atas nama peningkatan kompetisi global. Era rejim upah murah yang dulu dihapus oleh pemerintahan sebelumnya, kembali lagi dan bahkan lebih mendalam. Janji prinsip-prinsip neoliberal akan lebih terbukanya investasi dan pembukaan lapangan kerja baru melalui fleksibilitas pasar tenaga kerja dalam mendorong efisiensi ekonomi, dan pembukaan lapangan kerja baru oleh para investor, tidak terbukti. Investasi Indonesia tidak naik sejak dikeluarkannya UU Cipta Kerja. Di sini kita melihat jangan-jangan persoalannya bukanlah pada komponen upah buruh, melainkan pada inefisiensi tata kelola pemerintah ditandai dengan misalnya panjangnya rantai birokrasi dalam proses pengurusan ijin, and kebijakan yang tumpang tindih dan saling bertabrakan satu sama lain. Kasus maraknya penutupan pabrik tekstil belakangan ini yang memutus hubungan kerja lebih dari 13 ribu orang, disebabkan karena pemerintah yang membuka keran impor Tekstil dan Produk Tekstil (TPT) ke Indonesia melalui Peraturan Menteri Perdagangan No 8/2024 yang berakinat membanjirnya produk tekstil dari Cina dengan harga yang lebih murah. Laporan Tempo pada 29 Juni 2024 menyebutkan produk Cina membanjiri Indonesia secara illegal. Dari sini kita melihat bahwa akar masalah bukan pada soal upah buruh tapi
 
@@ -2569,7 +2575,7 @@ Pembukaan UUD menyebutkan bahwa fungsi negara adalah melindungi dan mensejahtera
 
 pada tata kelola impor artinya persoalannya. Setiap kali ada persoalan ketenagakerjaan, buruhlah yang pertama dikorbankan.
 
-## Kewargaan industrial (industrial citizenship) dan kewajiban negara menjamin hak kelas pekerja
+**Kewargaan industrial (industrial citizenship) dan kewajiban negara menjamin hak kelas pekerja**
 
 'Kewargaan industri' mengacu pada konsep campuran 'warga' (citizens), 'kewargaan' (citizenship), yang bekerja dalam ranah industrial. TH Marshall adalah orang yang pertama kali menggali dan mengkonseptualisasi gagasan citizenship dalam konteks kehidupan ekonomi pada tahun 1950, dan secara khusus mengkaitkannya dengan kelas pekerja, the working class (Strangeleman 2015), atau work-based citizenry. Intinya ia melihat sentralnya peran negara dalam pemenuhan hak dasar kelas pekerja di bidang kesehatan dan pendidikan agar kelompok ini dapat sepenuhnya menjadi 'warga' atau citizens, yang dengannya mereka dapat mewujudkan potensi maksimalnya sebagai warga. Selama ini konsep citizenship lebih sering beroperasi di ranah politik dan sosial tanpa dimensi ekonomi di dalamnya (Strangleman 2015). Padahal posisi kelas pekerja bukan semata beridentitas pekerja, tapi juga warga. Kelas pekerja tidak hanya semata menyediakan tenaga kerja mereka demi imbalan upah atas pekerjaan tsb, namun mereka juga memiliki hak dan tanggung jawab yang lebih luas di masyarakatnya. Terkait hak, dalam konsep kewargaan, ada peran negara yang wajib menjamin hak tsb. Ada 5 aspek kunci dari konsep kewargaan industrial ini. Dari kelimanya yang terpenting adalah hak sosial dan ekonomi kelompok buruh. Selain hak sebagai pekerja, konsep ini mengakui hak ekonomi dan sosial, termasuk hak pada akses pendidikan, kesehatan, keamanan sosial, dan kesempatan untuk pengembangan individu dan profesi (karir). Hak ini hanya mungkin terjadi bila ada jaminan keamanan bagi kelas bekerja untuk memiliki jaminan dan kepastian hukum dalam bekerja. Dengan kata lain ada negara di dalam konsep ini sebagai penjamin hak-hak kelas pekerja, dan hak-hak ini yang dilanggar dalam UU Cipta Kerja, buatan negara sendiri. Kewajiban negara pada kelas pekerja juga telah menjadi prinsip Organisasi Buruh Internasional (ILO). Lembaga ini menegaskan bahwa 'pemerintah bertanggungjawab dan berkewajiban untuk melindungi hak asasi manusia
 
@@ -2577,11 +2583,11 @@ pada tata kelola impor artinya persoalannya. Setiap kali ada persoalan ketenagak
 
 melalui perpaduan cerdas antara tindakan regulasi dan non-regulasi'. Terhadap dunia usaha, pemerintah juga bertanggungjawab untuk menciptakan lingkungan pendukung yang mendorong dan mendukung dunia usaha untuk bertindak secara bertanggungjawab, dalam rangka menjamin hak kelas pekerja.
 
-## Kesimpulan
+**Kesimpulan**
 
 Makalah ini menggarisbawahi tiga poin utama. Pertama, sentralnya peran negara dalam menjamin hak-hak kelas pekerja. Kelas pekerja bukanlah semata penyedia tenaga yang ditukar dengan upah, melainkan juga warganegara yang melekat di dalamnya kewajiban negara menjamin hak-hak tsb. Kedua, UU Ciptakerja merupakan bentuk dan cara negara melepaskan diri dari pemenuhan hak dasar warganya sebagai kelas pekerja. Kelas pekerja selalu menjadi lapis pertama yang dikorbankan di setiap kali terjadi persoalan inefisiensi ekonomi terjadi, padahal masalah ketenagakerjaan terkait dengan tata kelola sektor lain yang juga perlu dibenahi pemerintah. Ketiga, prinsip neoliberalisme membutuhkan tata kelola yang robust dalam menjamin investasi. Persoalannya juga terkait pada isu non ketenagakerjaan, yang tidak kunjung dibenahi oleh pemerintah.
 
-## 2. Dr. Zainal Arifin Mochtar, S.H., LL.M
+**2. Dr. Zainal Arifin Mochtar, S.H., LL.M**
 
 - A. Politik Hukum dan Relasi Negara-Buruh
 
@@ -2647,7 +2653,7 @@ penggunaan metode yang pasti, baku, dan standar memenuhi partisipasi masyarakat 
 
 khususnya klaster ketenagakerjaan dapat dinyatakan inkonstitusional.
 
-## C. Hal Lainnya
+**C. Hal Lainnya**
 
 Salah satu hal yang paling menakutkan sebenarnya adalah ketika mengalihkan sebagian besar pengaturan hak yang sebaiknya dijelaskan secara mendetail di dalam UU itu dalam aturan delegasi di aturan lebih lanjut baik PP maupun Perpres. Hal ini melanjutkan kebiasaan menggeser pengaturan yang seharusnya mendapatkan partisipasi yang bermakna menjadi pengaturan yang bersifat kebijakan internal pemerintah. Artinya,
 
@@ -2659,7 +2665,7 @@ apa yang seharusnya dibicarakan secara serius di tingkat pembentuk UU dengan seg
 
 Ada beberapa kesimpulan; Pertama, secara mendasar dapat dikatakan subtansi UU ini lahir tanpa adanya partisipasi yang memadai dan karenanya, banyak aturan aneh yang tetiba hadir dan menghiasi. Itu sebabnya mendapatkan penolakan keras dari pihak buruh yang memang tak diberikan ruang partisipasi yang memadai. Kedua, harus diingatkan kembali pada pemerintah dan DPR perihal UU yang seharusnya dengan partisipasi tetapi dipola menjadi tanpa partisipasi melalui Perpu. Inilah yang mengakibatkan begitu jauhnya UU ini dari realitas dan kenyataan yang ada. Ketiga, sangat terlihat politik hukum yang tak berimbang antara negara dan para pekerja/buruh. Sehingga ketika negara menjadi sangat pro pada pengusaha, maka ketidakimbangan itu nyata terjadi dalam subtansi UU ini. Herannya, negara masih melanjutkan dengan tradisi membiarkan ketidakimbangan itu untuk kemudian diatur lebih lanjut dalam aturan lanjutan pemerintah. Keempat, semakin didalami, semakin banyak praktik pengaturan aneh yang tidak dapat ditolerir dalam UU ini.
 
-## Saksi Pemohon:
+**Saksi Pemohon:**
 
 1. Said Iqbal
 - a. Bahwa yang pertama, dengan berlakunya undang-undang Cipta Kerja (Omnibus Law), secara fakta, di lapangan, banyak kerugian yang ditemui oleh para kaum buruh. Sebagai mantan ILO Governing Body, dalam sebuah undang-undang, tidak ada undang-undang di seluruh dunia, tidak ada undang-undang itu yang merangkum dua sisi mata uang. Sisi pertama tentang investasi, sisi kedua kesejahteraan. Ini pasti di seluruh dunia itu pisah karena dia akan berbenturan. Tapi pemerintah Indonesia dan DPR memaksa antara kepentingan investasi dengan kesejahteraan menjadi satu, maka terjadilah dalam klaster ketenagakerjaan, dalam fakta lapangan, downgrade semua.
@@ -2754,7 +2760,7 @@ pekerja yang di-PHK dengan alasan-alasan yang lain. Apakah itu meninggal dunia, 
 
 menyampaikan keterangan lisan di depan persidangan dan menyerahkan keterangan tertulis dan keterangan tertulis tambahan yang pada pokoknya menerangkan sebagai berikut:
 
-## I. Pokok Permohonan Para Pemohon
+**I. Pokok Permohonan Para Pemohon**
 
 Bahwa menurut Para Pemohon, muatan materi Pasal 81 angka 4 Pasal 42 ayat (1), ayat (3) huruf a dan huruf c, ayat (4), dan ayat (5); angka 12 Pasal 56 ayat (3) dan ayat (4); angka 13 Pasal 57; angka 15 Pasal 59; angka 16 Pasal 61 ayat (1) huruf c; angka 17 Pasal 61A; angka 18 Pasal 64; angka 19 Pasal 65; angka 20 Pasal 66; angka 25 Pasal 79; angka 27 Pasal 88; angka 28 Pasal 88A, Pasal 88B, Pasal 88C, Pasal 88D, Pasal 88E, dan Pasal 88F; angka 29 Pasal 89; angka 30 Pasal 90; angka 31 Pasal 90A dan Pasal 90B; angka 32 Pasal 91; angka 33 Pasal 92 ayat (1); angka 35 Pasal 94; angka 36 Pasal 95; angka 38 Pasal 97; angka 39 Pasal 98; angka 40 Pasal 151; angka 41 Pasal 151A; angka 45 Pasal 154A; angka 47 Pasal 156 ayat (2) dan ayat (4); angka 49 Pasal 157A; angka 53 Pasal 161; angka 54 Pasal 162; angka 55 Pasal 163; angka 56 Pasal 164; angka 57 Pasal 165; angka 58 Pasal 166; angka 59 Pasal 167; angka 61 Pasal 169; dan angka 64 Pasal 172 Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang bertentangan dengan:
 
@@ -2768,7 +2774,7 @@ Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kem
 
 Dengan alasan-alasan pada pokoknya sebagai berikut:
 
-## A. Tenaga Kerja Asing (TKA)
+**A. Tenaga Kerja Asing (TKA)**
 
 Bahwa dalam permohonannya para Pemohon mendalilkan:
 
@@ -2795,7 +2801,7 @@ Pasal 81 angka 4 UU 6/2023, yang mengubah ketentuan Pasal
 
 sesuai ketentuan undang-undang, dan bukan diberikan kompensasi yang nilainya tidak disebutkan dalam undangundang. Hal ini berpotensi merugikan pekerja/buruh sehingga bertentangan dengan Pasal 27 ayat (2) dan Pasal 28D ayat (1) dan ayat (2) UUD 1945.
 
-## C. Alih Daya
+**C. Alih Daya**
 
 Bahwa dalam permohonannya para Pemohon mendalilkan: Bahwa dalam permohonannya para Pemohon mendalilkan ketentuan Pasal 81 angka 18 UU 6/2023 yang telah mengubah ketentuan Pasal 64 UU 13/2003, Pasal 81 angka 19 UU 6/2023 yang telah menghapus ketentuan Pasal 65 UU UU 13/2003, dan Pasal 81 angka 20 UU 6/2023 yang telah mengubah ketentuan Pasal 66 UU 13/2003, yaitu:
 
@@ -2889,13 +2895,13 @@ dengan Pasal 157A ayat (3) sepanjang frasa "dilakukan sampai dengan selesainya p
 
 28D ayat (1) dan ayat (2) UUD 1945.
 
-## II. Penjelasan Pemerintah Terhadap Kedudukan Hukum (Legal Standing) Para Pemohon
+**II. Penjelasan Pemerintah Terhadap Kedudukan Hukum (Legal Standing) Para Pemohon**
 
 Sehubungan dengan kedudukan hukum Para Pemohon, Pemerintah berpendapat sebagai berikut:
 
 1. Bahwa berdasarkan ketentuan Pasal 51 UU MK serta Pasal 4 PMK 2/2021 menyebutkan bahwa para Pemohon adalah pihak yang menganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya undang-undang.
 
-## Pasal 51
+### Pasal 51 ^pasal-51
 
 - (1) Pemohon adalah pihak yang menganggap hak dan/atau kewenangan konstitusionalnya dirugikan oleh berlakunya undang-undang, yaitu:
 - a. perorangan warga negara Indonesia;
@@ -2933,11 +2939,11 @@ Ketentuan di atas dipertegas dalam penjelasannya, bahwa yang dimaksud dengan 'ha
 
 Berdasarkan uraian tersebut di atas, oleh karena tidak terdapat kerugian konstitusional dari Para Pemohon, maka menurut Pemerintah para Pemohon tidak memiliki kedudukan hukum (legal standing), dan adalah tepat jika Yang Mulia Majelis Hakim Mahkamah Konstitusi secara bijaksana menyatakan permohonan para Pemohon tidak dapat diterima (niet ontvankelijke verklaard).
 
-## III. Keterangan Pemerintah Terhadap Pokok Permohonan Para Pemohon
+**III. Keterangan Pemerintah Terhadap Pokok Permohonan Para Pemohon**
 
 Bahwa terhadap pengujian materiil UU 6/2023 tersebut dapat Pemerintah jelaskan hal-hal sebagai berikut:
 
-## A. Tenaga Kerja Asing (TKA)
+**A. Tenaga Kerja Asing (TKA)**
 
 Bahwa dalam permohonannya para Pemohon mendalilkan:
 
@@ -2969,7 +2975,7 @@ sebagai berikut:
 - a. Bahwa para Pemohon gagal memahami kontruksi hukum Pasal 81 angka 12 Pasal 56 ayat (3) dan ayat (4) UU 6/2023.
 - b. Bahwa diubahnya ketentuan Pasal 59 ayat (4) UU 13/2003 oleh UU 6/2023 tidak menghilangkan pemberian jaminan kepastian hukum atas pengaturan batasan jangka waktu atau selesainya suatu pekerjaan dalam PKWT. Hal tersebut secara tegas diatur dalam Pasal 81 angka 12 Pasal 56 ayat (2) jo. angka 15 Pasal 59 ayat (4) UU 6/2023, sebagai berikut:
 
-## Pasal 56 ayat (2)
+**Pasal 56 ayat (2)**
 
 Perjanjian kerja waktu tertentu sebagaimana dimaksud
 
@@ -3065,7 +3071,7 @@ Terhadap dalil tersebut, Pemerintah menolak dengan alasan sebagai berikut:
 - dalam undang-undang a quo disepakati pengaturan lebih lanjut mengenai uang kompensasi diatur dalam peraturan pemerintah (vide Pasal 81 angka 17 Pasal 61A ayat (3) UU 6/2023).
 - e. Dengan demikian, terhadap dalil para Pemohon yang menyatakan Pasal 81 angka 17 Pasal 61A UU 6/2023 bertentangan dengan Pasal 27 ayat (2) dan Pasal 28D ayat (1) dan ayat (2) UUD 1945 adalah tidak benar. Oleh karena itu, Pemerintah berpendapat bahwa para Pemohon dalam permohonan ini tidak memenuhi kualifikasi sebagai pihak yang hak konstitusionalnya dirugikan. Dengan demikian sudah sepatutnya Yang Mulia Ketua/Majelis Hakim Mahkamah Konstitusi menolak permohonan a quo.
 
-## C. Alih Daya
+**C. Alih Daya**
 
 Bahwa dalam permohonannya para Pemohon mendalilkan: Bahwa dalam permohonannya para Pemohon mendalilkan ketentuan Pasal 81 angka 18 UU 6/2023 yang telah mengubah ketentuan Pasal 64 UU 13/2003, Pasal 81 angka 19 UU 6/2023 yang telah menghapus ketentuan Pasal 65 UU 13/2003, dan Pasal 81 angka 20 UU 6/2023 yang telah mengubah ketentuan Pasal 66 UU 13/2003, yaitu:
 
@@ -3165,7 +3171,7 @@ Bahwa Pasal 81 angka 28 Pasal 88A ayat (7) UU 6/2023 yang menyatakan "pekerja/bu
 - b) nilai pertumbuhan ekonomi dikurangi inflasi kabupaten/kota yang bersangkutan selama 3 (tiga) tahun terakhir dari data yang tersedia pada periode yang sama, selalu positif, dan lebih tinggi dari nilai provinsi, sebagaimana diatur dalam ketentuan Pasal 31A PP 51/2023.
 - 4) Bahwa Pasal 81 angka 28 Pasal 88D UU 6/2023 mengenai kebutuhan hidup layak yang dipersoalkan oleh para Pemohon sesungguhnya telah tergambar melalui kondisi ekonomi dan ketenagakerjaan sebagaimana yang diatur dalam UU 6/2023. Kebutuhan hidup layak tersebut tercermin dalam upah minimum tahun berjalan, hal ini sejalan dengan UU 13/2003 di mana kebutuhan hidup layak digunakan sebagai dasar penetapan upah minimum dengan mempertimbangkan produktivitas dan pertumbuhan ekonomi. Upah minimum tahun berjalan tersebut selanjutnya akan digunakan sebagai dasar penetapan upah minimum dengan menggunakan formula penghitungan upah minimum sebagaimana diatur dalam UU 6/2023.
 
-## Adapun penyesuaian nilai kebutuhan hidup layak pada upah minimum yang akan ditetapkan tersebut secara langsung terkoreksi melalui perkalian antara upah
+**Adapun penyesuaian nilai kebutuhan hidup layak pada upah minimum yang akan ditetapkan tersebut secara langsung terkoreksi melalui perkalian antara upah**
 
 minimum tahun berjalan dengan inflasi tahun berjalan. Upah minimum yang dikalikan dengan inflasi ini akan memastikan daya beli dari upah minimum tidak akan berkurang. Hal ini didasarkan jenis-jenis kebutuhan yang ada dalam kebutuhan hidup layak juga merupakan jenisjenis kebutuhan untuk menentukan inflasi. Sehingga penggunaan tingkat inflasi (kondisi ekonomi) dalam perhitungan upah minimum pada dasarnya sama dengan nilai kebutuhan hidup layak.
 
@@ -3420,7 +3426,7 @@ sebagai berikut:
 - a. Bahwa ketentuan Pasal 161, Pasal 162, Pasal 163, Pasal 164, Pasal 165, Pasal 166, Pasal 167, Pasal 169 dan Pasal 172 UU 13/2003 mengenai alasan terjadinya PHK sudah diatur dalam Pasal 81 angka 45 Pasal 154A ayat (1) UU 6/2023 jo. PP 35/2021.
 - b. Bahwa perhitungan hak atas PHK pekerja/buruh akibat dari alasan PHK sebagaimana di atas, akan diatur dalam
 
-## IV. Petitum
+**IV. Petitum**
 
 Berdasarkan penjelasan dan argumentasi tersebut di atas, Pemerintah memohon kepada Yang Mulia Ketua/Majelis Hakim Mahkamah Konstitusi Republik Indonesia, dapat memberikan putusan sebagai berikut:
 
@@ -3436,7 +3442,7 @@ Peraturan Pemerintah sebagaimana sudah diatur dalam Pasal 81 angka 45 Pasal 154A
 - Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang yang diajukan Pemohon untuk seluruhnya;
 3. Menyatakan ketentuan Pasal 81 angka 4 Pasal 42 ayat (1), ayat (3) huruf a dan huruf c, ayat (4), dan ayat (5); angka 12 Pasal 56 ayat (3) dan ayat (4); angka 13 Pasal 57; angka 15 Pasal 59; angka 16 Pasal 61 ayat (1) huruf c; angka 17 Pasal 61A; angka 18 Pasal 64; angka 19 Pasal 65; angka 20 Pasal 66; angka 25 Pasal 79; angka 27 Pasal 88; angka 28 Pasal 88A, Pasal 88B, Pasal 88C, Pasal 88D, Pasal 88E, dan Pasal 88F; angka 29 Pasal 89; angka 30 Pasal 90; angka 31 Pasal 90A dan Pasal 90B; angka 32 Pasal 91; angka 33 Pasal 92 ayat (1); angka 35 Pasal 94; angka 36 Pasal 95; angka 38 Pasal 97; angka 39 Pasal 98; angka 40 Pasal 151; angka 41 Pasal 151A; angka 45 Pasal 154A; angka 47 Pasal 156 ayat (2) dan ayat (4); angka 49 Pasal 157A; angka 53 Pasal 161; angka 54 Pasal 162; angka 55 Pasal 163; angka 56 Pasal 164; angka 57 Pasal 165; angka 58 Pasal 166; angka 59 Pasal 167; angka 61 Pasal 169; dan angka 64 Pasal 172 UndangUndang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang tidak bertentangan dengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
 
-## Keterangan Tambahan Presiden I
+**Keterangan Tambahan Presiden I**
 
 - A. Pertanyaan dari Yang Mulia Hakim Anggota Mahkamah Konstitusi Prof. Dr. Enny Nurbaningsih, S.H., M. Hum.
 1. Apa sesungguhnya yang dimaksud dengan indeks tertentu dan keharusan keberadaannya dalam formula upah minimum, mohon berikan penjelasan?
@@ -3484,7 +3490,7 @@ Terhadap pertanyaan Yang Mulia Hakim Anggota, Pemerintah memberikan penjelasan/t
 |    5. |    2022 |                                                                    |                                                         4.675 |
 |    6. |    2023 |                                                                    |                                                         4.563 |
 
-## Sumber:
+**Sumber:**
 
 1. Tahun 2018 s.d. 2020 berdasarkan data Ditjen PHI dan Jamsos, Kemnaker.
 2. Tahun 2021 s.d. 2023 berdasarkan data Wajib Lapor Ketenagakerjaan di Perusahaan (WLKP) Kemnaker.
@@ -3587,7 +3593,7 @@ Mendasarkan pada hasil pengujian materiil UU 13/2003 a quo Majelis Hakim Mahkama
 
 Bahwa memperhatikan hal-hal tersebut, sudah seyogyanya UU 13/2003 untuk segera dilakukan perbaikan, mengingat cukup banyak pasal/ayat yang telah diajukan untuk diuji dan telah dinyatakan bertentangan terhadap UUD 1945 oleh Majelis Hakim Konstitusi. Di samping itu, tindakan perbaikan UU 13/2003 melalui UU Cipta Kerja in casu UU 6/2023 merupakan tindak lanjut dari putusan Mahkamah Konstitusi sebagaimana yang tertuang dalam amar putusan pengujian materiil UU 13/2003. Perbaikan terhadap UU 13/2003 juga untuk memastikan kembali bahwa pengaturan ketenagakerjaan dalam UU bidang ketenagakerjaan bersifat komprehensif dan memenuhi kriteria tata kelola regulasi dibanding sebelum dilakukannya perbaikan terhadap UU 13/2003.
 
-## B. Pertanyaan dari Yang Mulia Hakim Anggota Mahkamah Konstitusi Prof. Dr. Saldi Isra, S.H.
+**B. Pertanyaan dari Yang Mulia Hakim Anggota Mahkamah Konstitusi Prof. Dr. Saldi Isra, S.H.**
 
 Apakah peraturan pelaksana yang ada sekarang itu masih sama enggak dengan Undang Undang Cipta Kerja yang sebelum dibatalkan itu? Apa substansi yang berubah?
 
@@ -3604,9 +3610,9 @@ Terhadap pertanyaan Yang Mulia Hakim Anggota, Pemerintah memberikan penjelasan/t
 | 4. | Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan                                                     | Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan                                                     | Tetap                                                                                                                                                                                                      |
 | 5. | Permenaker 6/2021 tentang Penetapan Standar Kegiatan Usaha dan/atau Produk Pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Ketenagakerjaan | Permenaker 6/2021 tentang Penetapan Standar Kegiatan Usaha dan/atau Produk Pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Ketenagakerjaan | Tetap                                                                                                                                                                                                      |
 
-## Keterangan Tambahan Presiden II
+**Keterangan Tambahan Presiden II**
 
-## A. Pertanyaan dari Yang Mulia Hakim Anggota Mahkamah Konstitusi Prof. Dr. Enny Nurbaningsih, S.H., M. Hum.
+**A. Pertanyaan dari Yang Mulia Hakim Anggota Mahkamah Konstitusi Prof. Dr. Enny Nurbaningsih, S.H., M. Hum.**
 
 1. Apakah berbeda Keterangan Presiden yang disampaikan dalam Perkara 168/PUU-XXI/2023 dengan Keterangan Presiden yang disampaikan dalam perkara lainnya (40/PUU-XXI/2023 dan 61/PUU-XXI/2023), kalau beda apakah Keterangan Presiden Perkara 168/PUU-XXI/2023 sebagai pelengkap dari perkara sebelumnya, mohon berikan penjelasan?
 
@@ -3825,7 +3831,7 @@ Berikut daftar pasal yang dihapus dan direposisi dalam UU 6/2023:
 |   27. | Pasal 172 dihapus                                   |                                                                      | -                                                   |
 |   28. | Pasal 184 dihapus                                   | Pasal 185                                                            | -                                                   |
 
-## B. Pertanyaan dari Yang Mulia Hakim Anggota Mahkamah Konstitusi Dr. Daniel Yusmic Pancastaki Foekh, S.H., M.H.
+**B. Pertanyaan dari Yang Mulia Hakim Anggota Mahkamah Konstitusi Dr. Daniel Yusmic Pancastaki Foekh, S.H., M.H.**
 
 1. Berapa banyak TKA yang ada di Indonesia dan pada sektor apa saja TKA bekerja?
 
@@ -3840,9 +3846,9 @@ Bahwa berdasarkan laporan tahunan Badan Perlindungan Pekerja Migran Indonesia (B
 
 [2.4] Menimbang bahwa Pemohon menyerahkan kesimpulan yang diterima Mahkamah pada 25 Juli 2024 yang pada pokoknya menyimpulkan sebagai berikut:
 
-## A. Pokok-Pokok Kesimpulan
+**A. Pokok-Pokok Kesimpulan**
 
-## 1. Kewenangan Mahkamah
+**1. Kewenangan Mahkamah**
 
 - a. Bahwa sepanjang pemeriksaan perkara dalam persidangan ini, dapat dibuktikan bahwa permohonan Pemohon adalah berkenaan dengan pengujian Materiil UU 6/2023 klaster ketengakerjaan terhadap UUD 1945. Artinya objek pengujian yang dimohonkan oleh Pemohon masih dalam lingkup kewenangan Mahkamah Konstitusi;
 
@@ -3881,11 +3887,11 @@ karena norma a quo di atas memuat pengaturan baru mengenai Perjanjian Kerja Wakt
 2. Bahwa pada prinsipnya, perjanjian kerja dapat dibuat secara tertulis atau lisan sebagaimana dimaksud dalam Pasal 51 ayat (1) UndangUndang 13 Tahun 2003. Sebab untuk menentukan kekuatan hukum suatu perjanjian tidak terletak pada bentuknya, yaitu secara tertulis atau lisan, melainkan harus memenuhi syarat sahnya perjanjian sebagaimana diatur dalam Pasal 1320 KUH Perdata juncto Pasal 52 Undang-Undang 13
 3. Tahun 2003. 3. Bahwa UndangUndang 13/2003 mengatur perjanjian kerja dapat dibagi menjadi dua bentuk,
 
-## Keterangan Saksi Said Iqbal
+**Keterangan Saksi Said Iqbal**
 
 1. Betul di dalam aturannya karyawan kontrak, PP, dibatasi 5 tahun. Padahal periodenya tidak (tidak dibatasi). Orang bisa dikontrak 2 minggu, pecat. Orang dikontrak 1 bulan, pecat. Orang dikontrak 5 bulan, pecat. Di dalam UndangUndang 13/2003, ada periode dan batas waktu, jadi satu kesatuan. Kalau dia 3 periode, walaupun belum 5 tahun, tetap harus diangkat karyawan tetap, atau dipecat kalau tidak dibutuhkan. Kalau dia 3 periode 5 tahun, juga boleh. Sekarang enggak. Periodenya tidak dibatasi, sehingga dikontrak kapan saja dan menjelang hari Raya Idul Fitri, tidak bayar THR.
 
-## Keterangan Saksi Jazuli
+**Keterangan Saksi Jazuli**
 
 2. Dengan adanya Undang-Undang Cipta Kerja ini beserta aturan turunannya, saat ini kita banyak jumpai di seluruh perusahaanperusahaan,
 
@@ -4032,7 +4038,7 @@ Pasal 81 dan angka 20, Pasal 66 UndangUndang 6 Tahun 2023.
 | aturan dan sebagainya, di faktanya turunan PP- nya itu bahkan nol. Dalam keadaan mendesak, pengusaha bisa mem-PHK. Kalau dia PHK, dapat uang penggantian hak 15%. Padahal uang penggantian hak sudah dihapus, tidak sinkron antara pasal ke pasal.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## 4. Petitum
+**4. Petitum**
 
 Berdasarkan uraian kesimpulan di atas, maka para Pemohon dalam hal ini memohon kepada Majelis Hakim Mahkamah Konstitusi Republik Indonesia untuk memutus perkara a quo dengan amar putusan sebagai berikut:
 
@@ -4179,7 +4185,7 @@ Atau apabila Yang Mulia Majelis Hakim Konstitusi berpendapat lain mohon putusan 
 
 [2.5] Menimbang bahwa Presiden menyerahkan kesimpulan yang diterima Mahkamah pada tanggal 25 Juli 2024 yang pada pokoknya menyimpulkan sebagai berikut:
 
-## I. Para Pemohon Tidak Memiliki Kedudukan Hukum (Legal Standing)
+**I. Para Pemohon Tidak Memiliki Kedudukan Hukum (Legal Standing)**
 
 Sehubungan dengan kedudukan hukum Para Pemohon, Pemerintah berpendapat sebagai berikut:
 
@@ -4191,7 +4197,7 @@ mengenai kerugian sebagaimana dimaksud dalam Pasal 51 ayat (1) UU Nomor 24 Tahun
 
 Berdasarkan uraian tersebut, menurut Pemerintah adalah tepat dan sudah sepatutnya jika Yang Mulia Ketua/Anggota Majelis Hakim Konstitusi secara bijaksana menyatakan permohonan para Pemohon tidak dapat diterima (niet ontvankelijk verklaard).
 
-## II. Tanggapan Pemerintah Terhadap Pokok Permohonan Para Pemohon
+**II. Tanggapan Pemerintah Terhadap Pokok Permohonan Para Pemohon**
 
 - A. Tenaga Kerja Asing (TKA)
 
@@ -4257,7 +4263,7 @@ Para Pemohon, dalam permohonan a quo terkait Cuti, keliru dalam memahami konstru
 
 pengaturan alih daya sebagaimana diatur di dalam Pasal 81 angka 20 Pasal 66 UU 6/2023 telah menegaskan juga bahwa perjanjian kerja harus mensyaratkan pengalihan perlindungan hak-hak bagi pekerja/buruh apabila terjadi pergantian perusahaan alih daya sepanjang obyek pekerjaannya masih ada (Transfer of Undertaking Protection of Employment Right/TUPE) (vide Putusan Mahkamah Konstitusi No. 27/PUU-IX/2011). Pasal 81 angka 20 Pasal 66 juga mengatur bahwa perusahaan alih daya yang mempekerjakan pekerja/buruh harus berbentuk badan hukum dan wajib memenuhi perizinan berusaha yang diterbitkan oleh pemerintah pusat.
 
-## E. Upah dan Upah Minimum
+**E. Upah dan Upah Minimum**
 
 Para Pemohon, dalam permohonan a quo terkait pengupahan, keliru dalam memahami konstruksi hukum:
 
@@ -4388,7 +4394,7 @@ Bahwa Pemerintah menegaskan kembali, tidak diaturnya uang penggantian hak atas p
 
 Bahwa pengaturan alasan terjadinya PHK yang sebelumnya diatur dalam ketentuan Pasal 161 sampai dengan Pasal 169 dan Pasal 172 UU 13/2003 pengaturannya tetap ada sebagaimana yang tertuang dalam ketentuan Pasal 81 angka 45 Pasal 154A ayat (1) UU 6/2023 jo. PP 35/2021. Dengan demikian, ketentuan Pasal 81 angka 45 Pasal 154A UU 6/2023 jo. PP 35/2021 telah memberikan jaminan, pelindungan dan kepastian hukum terhadap hak pekerja/buruh akibat PHK.
 
-## III. Proses Persidangan Di Mahkamah Konstitusi
+**III. Proses Persidangan Di Mahkamah Konstitusi**
 
 Bahwa pada masa persidangan atas permohonan pengujian materiil UU 6/2023, terdapat pertanyaan Yang Mulia Majelis Hakim Konstitusi, keterangan Saksi dan keterangan Ahli Para Pemohon. Terhadap hal-hal tersebut, Pemerintah pada intinya memberikan tanggapan sebagai berikut:
 
@@ -4400,7 +4406,7 @@ Bahwa pada masa persidangan atas permohonan pengujian materiil UU 6/2023, terdap
 
 Bahwa kelas pekerja, kelas buruh adalah warga negara (citizens). Ketika kita mengatakan warga negara itu sebagai citizens, maka yang terlekat dalam konsep tersebut adalah kewajiban negara untuk memastikan hak-hak dasarnya sebagai pekerja.
 
-## Pemerintah perlu memberikan tanggapan sebagai berikut:
+**Pemerintah perlu memberikan tanggapan sebagai berikut:**
 
 Bahwa salah satu upaya pemerintah dalam memenuhi hakhak warga negara untuk memperoleh pekerjaan dan penghidupan yang layak adalah dengan melakukan berbagai
 
@@ -4416,7 +4422,7 @@ upaya termasuk diantaranya, menciptakan dan memperluas lapangan kerja serta mend
 
 Masalah paling mendasar dari UUCK adalah soal upah minimum, penghapusan UMSK, dan mekanisme penentuan UMK secara fakultatif.
 
-## Pemerintah perlu memberikan tanggapan sebagai berikut:
+**Pemerintah perlu memberikan tanggapan sebagai berikut:**
 
 Bahwa penetapan upah minimum oleh Pemerintah adalah langkah untuk melindungi pekerja/buruh agar upahnya tidak mencapai tingkat terendah yang dapat membahayakan kesehatannya. Di samping itu, penetapan upah minimum dalam UU 6/2023 bertujuan untuk dapat menjaga daya beli pekerja/buruh dan di sisi lain untuk dapat juga memberikan peluang bagi dunia usaha agar tetap mempunyai daya saing. Hal ini sejalan dengan penetapan kebijakan pengupahan yang bertujuan antara lain, untuk mewujudkan hubungan industrial yang harmonis, dinamis, berkeadilan, dan mampu mendorong
 
@@ -4428,7 +4434,7 @@ pertumbuhan ekonomi dan perluasan kesempatan kerja serta menahan laju inflasi. S
 
 Formula penentuan upah ini menggunakan tiga variabel. Satu, pertumbuhan ekonomi, Kedua inflasi dan Ketiga, indeks tertentu. Mengenai Indeks tertentu ini menjadi sangat rentan, oleh karena tidak jelas siapa yang menentukan indeks tertentu dan mengapa tidak dihapuskan saja indeks tertentu ini atau secara spesifik bisa ditegaskan.
 
-## Pemerintah perlu memberikan tanggapan sebagai berikut:
+**Pemerintah perlu memberikan tanggapan sebagai berikut:**
 
 Bahwa ketentuan mengenai indeks tertentu diatur dalam Pasal 81 angka 28 Pasal 88D ayat (2) UU 6/2023. Indeks tertentu dimaksud merupakan salah satu variabel yang terdapat dalam formula penghitungan upah minimum. Pasal 81 angka 28 Pasal 88D ayat (3) UU 6/2023 mengamanatkan bahwa ketentuan lebih lanjut mengenai formula penghitungan upah minimum yang didalamnya terdapat variabel indeks tertentu diatur dalam Peraturan Pemerintah (vide Peraturan Pemerintah Nomor 51 Tahun 2023 tentang Perubahan Atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan). Bahwa yang dimaksud dengan indeks tertentu dalam formula upah minimum yang disimbolkan dengan α (alfa) adalah wujud yang menggambarkan kontribusi tenaga kerja terhadap pertumbuhan ekonomi provinsi atau kabupaten/kota, mengingat pertumbuhan ekonomi di suatu daerah tidak hanya dari kontribusi para pekerja saja, tetapi juga terdapat faktor lain seperti belanja barang/jasa pemerintah, investasi, ekspor barang dan jasa, hasil produksi dari beberapa sektor seperti pertanian, manufaktur, perdagangan, dan pariwisata. Bahwa alasan perlunya indeks tertentu dalam formula penghitungan upah minimum adalah untuk titik keseimbangan agar angka kenaikan Upah Minimum terukur sehingga tidak memberatkan pengusaha dan tidak merugikan pekerja/buruh. Selain itu, dengan adanya indeks tertentu dalam formula penghitungan upah minimum akan membuka peluang kesempatan kerja di provinsi atau kabupaten/kota. Bahwa indeks tertentu merupakan rentang nilai 0,10 (nol koma satu nol) sampai dengan 0,30 (nol koma tiga nol) yang ditetapkan oleh Pemerintah dan bersumber dari Badan Pusat Statistik yang berasal dari hasil survey angkatan kerja nasional dan data Pendapatan Domestik Regional Bruto (PDRB) di setiap provinsi yang ada di Indonesia. Sedangkan untuk menentukan nilai indeks tertentu (dalam rentang nilai 0,10 (nol koma satu nol) sampai dengan 0,30 (nol koma tiga nol)) dilakukan perhitungannya oleh dewan pengupahan provinsi atau kabupaten/kota. Hal ini dimaksudkan untuk memberikan ruang dialog bagi dewan pengupahan provinsi atau dewan pengupahan kabupaten/kota yang anggotanya terdiri dari unsur pengusaha, pekerja/buruh, pemerintah dan akademisi/pakar, guna menentukan dan menyepakati nilai indeks tertentu dalam penetapan besaran upah minimum.
 
@@ -4437,7 +4443,7 @@ Bahwa ketentuan mengenai indeks tertentu diatur dalam Pasal 81 angka 28 Pasal 88
 
 UUCK rentan easy hiring dan easy firing terhadap pekerja. Hiring and firing sebenarnya secara kualitatif juga bisa dilihat dari haknya, bukan hanya pada hiring dan firing-nya, tapi ketika di-hiring pun, sudah ada juga mekanisme-mekanisme yang justru malah menciptakan kerentanan pada sektor tenaga kerja atau para pekerja atau kelompok buruh, yang kemudian membuat mereka sulit sekali untuk bisa mendapatkan haknya sebagai pekerja.
 
-## Pemerintah perlu memberikan tanggapan sebagai berikut:
+**Pemerintah perlu memberikan tanggapan sebagai berikut:**
 
 Bahwa Pemerintah tidak sependapat dengan keterangan Ahli, oleh karena keterangan Ahli hanya asumsi semata yang tidak objektif dan tidak berdasarkan fakta-fakta hukum dari ketentuan UU 6/2023. UU 6/2023 tidaklah menganut prinsip easy hiring dan easy firing. UU 6/2023 dibentuk justru untuk memberikan kesempatan yang seluas-luasnya bagi tenaga kerja untuk bekerja dan memberikan kepastian dalam pemenuhan hak-hak pekerja/buruh. Bahwa pada prinsipnya UU 6/2023 mengupayakan agar tidak terjadi Pemutusan Hubungan Kerja (PHK) sebagaimana yang diatur dalam Pasal 81 angka 40 Pasal 151 ayat (1) UU 6/2023 yang menyatakan 'Pengusaha, Pekerja/Buruh, Serikat Pekerja/Serikat Buruh, dan Pemerintah harus mengupayakan agar tidak terjadi Pemutusan Hubungan Kerja'. Ketentuan Pasal 81 angka 40 Pasal 151 UU 6/2023 merupakan bentuk penyelarasan dan harmonisasi dengan UU Nomor 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial (UU 2/2004). Prinsipnya, PHK hanya dapat terjadi dengan kesepakatan kedua belah pihak, kecuali dalam kasus tertentu yang membatasi kemampuan pekerja/buruh untuk bekerja kembali. Kesepakatan ini juga penting dalam setiap tahapan mekanisme PHK, memberikan posisi tawar kepada pekerja/buruh dan mencegah pengusaha bertindak sewenang-wenang. Pasal 151 UU 6/2023 menekankan upaya mencegah PHK, dan mekanisme penyelesaian perselisihan mengikuti aturan UU 2/2004. Terlebih lagi selama penyelesaian Perselisihan Hubungan Industrial, Pengusaha dan Pekerja/Buruh harus tetap melaksanakan kewajibannya sebagaimana diatur dalam Pasal 81 angka 49 Pasal 157A UU 6/2023.
 
@@ -4446,15 +4452,15 @@ Bahwa Pemerintah tidak sependapat dengan keterangan Ahli, oleh karena keterangan
 
 Politik hukum Undang-Undang Cipta Kerja ada ketidakjelasan di empat level yaitu kerja ideologis, kerja teknokratis, kerja politis, dan kerja aspiratif.
 
-## Pemerintah perlu memberikan tanggapan sebagai berikut:
+**Pemerintah perlu memberikan tanggapan sebagai berikut:**
 
 Bahwa Pemerintah tidak sependapat dengan keterangan Ahli, oleh karena Ahli sebenarnya mempermasalahkan proses pembentukan UU 6/2023 secara formiil bertentangan dengan UUD 1945, dimana keterangan Ahli yang demikian telah diperiksa dan telah dipertimbangkan oleh Majelis Hakim Mahkamah Konstitusi sebagaimana dalam Putusan Perkara Nomor 40/PUU-XXI/2023 tanggal 02 Oktober 2023, perkara Pengujian Formiil Undang-Undang Nomor 6 Tahun 2023
 
 tentang Penetapan Peraturan Pemerintah Pengganti Undang Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, yang amarnya sebagai berikut:
 
-## Mengadili:
+**Mengadili:**
 
-## Dalam Provisi:
+**Dalam Provisi:**
 
 Menyatakan untuk melanjutkan pemeriksaan pengujian materiil dalam perkara a quo.
 
@@ -4468,7 +4474,7 @@ Bahwa oleh hal tersebut di atas maka keterangan Ahli tersebut haruslah dikesampi
 
 Undang-Undang Cipta Kerja lebih condong pada keinginan pengusaha dibanding pada keinginan buruh dan memang pada dasarnya keinginan buruh ditiadakan sehingga daya tawarnya menjadi kecil, lalu kemudian hilang.
 
-## Pemerintah perlu memberikan tanggapan sebagai berikut:
+**Pemerintah perlu memberikan tanggapan sebagai berikut:**
 
 Bahwa Pemerintah tidak sependapat dengan keterangan Ahli, oleh karena Ahli hanya mengutip beberapa materiil ketentuan dalam UU 6/2023 yang lebih condong kepada pengusaha daripada keinginan pekerja/buruh, sedangkan sebaliknya Ahli tidak mengutip beberapa materiil ketentuan dalam UU 6/2023 yang lebih condong kepada pekerja/buruh daripada keinginan perusahaan. Oleh karena itu, argumentasi yang lebih menyeluruh dan mendalam dengan merujuk pada landasan hukum yang spesifik diperlukan untuk menyusun argumen hukum yang kuat. Sebagai contoh dengan berlakunya UU 6/2023 Pemerintah hadir memberikan perlindungan terhadap Pekerja/Buruh antara lain diberikannya perlindungan bagi Pekerja/Buruh yang telah berakhir hubungan PKWT dengan pemberian uang kompensasi, kejelasan dan kepastian pembayaran pesangon dengan pemberian sanksi pidana dalam hal pengusaha tidak membayar uang pesangon, pemberian sanksi pidana dalam hal pengusaha tidak membayar upah sesuai kesepakatan, program Jaminan Kehilangan Pekerjaan dan lain-lain.
 
@@ -4493,7 +4499,7 @@ XV/2017, tanggal 14 Desember 2017 yang menyatakan 'frasa
 - berorientasi dengan unskilled workers termasuk oleh karena sudah menghilangkan izin tertulis Menteri Tenaga Kerja.
 - g. Tidak ada kepastian Upah dalam cuti di Undang-Undang Cipta Kerja. Dalam pelaksanaan di lapangan, ketika buruh wanita mengambil cuti haid ataupun cuti melahirkan. Di dalam UndangUndang 13/2003 kalimatnya jelas, 'Upah tetap dibayar.' Di UndangUndang Cipta Kerja, frasa itu hilang.
 
-## Pemerintah perlu memberikan tanggapan sebagai berikut:
+**Pemerintah perlu memberikan tanggapan sebagai berikut:**
 
 Bahwa Pemerintah menolak keterangan saksi a quo karena yang disampaikan oleh saksi dalam persidangan merupakan pendapat, yang seharusnya keterangan saksi harus berdasarkan pada fakta atau peristiwa hukum atas apa yang saksi lihat, dengar dan alami secara langsung. Sehingga menurut Pemerintah sudah sepatutnya keterangan saksi dikesampingkan oleh Yang Mulia Majelis Hakim Mahkamah Konstitusi. Bahwa Pemerintah juga keberatan terhadap kedudukan saksi pada persidangan a quo, di mana saksi merupakan Presiden dari Partai Buruh yang merupakan satu kesatuan dengan Pemohon I, yaitu Partai Buruh.
 
@@ -4505,7 +4511,7 @@ Bahwa Pemerintah menolak keterangan saksi a quo karena yang disampaikan oleh sak
 - c. Upah Minimum Sektoral itu tidak ada dalam UUCK, makanya pekerja-pekerja yang memiliki tingkat risiko tinggi, disamaratakan dengan upah pekerja-pekerja yang tidak memiliki risiko.
 - d. Dulu kalau terjadi perusahaan pailit, maka upah dan haknya buruh didahulukan pembayarannya di atas kreditur-kreditur yang lain, apakah separatis atau konkuren. Tapi Pasal 95 Ayat (3) Cipta Kerja hanya upah buruh yang didahulukan, sementara hak lain termasuk pesangon, bonus, THR tidak jelas pembayarannya.
 
-## Pemerintah perlu memberikan tanggapan sebagai berikut:
+**Pemerintah perlu memberikan tanggapan sebagai berikut:**
 
 Bahwa Pemerintah menolak keterangan saksi a quo karena yang disampaikan oleh saksi dalam persidangan merupakan pendapat, yang seharusnya keterangan saksi harus berdasarkan pada fakta atau peristiwa hukum atas apa yang saksi lihat, dengar dan alami secara langsung. Sehingga menurut Pemerintah sudah sepatutnya keterangan saksi dikesampingkan oleh Yang Mulia Majelis Hakim Mahkamah Konstitusi.
 
@@ -4515,11 +4521,11 @@ Bahwa Pemerintah menolak keterangan saksi a quo karena yang disampaikan oleh sak
 
 akhirnya juga tidak mendapatkan hasil yang sesuai dengan yang diharapkan.
 
-## Pemerintah perlu memberikan tanggapan sebagai berikut:
+**Pemerintah perlu memberikan tanggapan sebagai berikut:**
 
 Bahwa Pemerintah menolak keterangan saksi a quo karena yang disampaikan oleh saksi dalam persidangan merupakan pendapat, yang seharusnya keterangan saksi harus berdasarkan pada fakta atau peristiwa hukum atas apa yang saksi lihat, dengar dan alami secara langsung. Sehingga menurut Pemerintah sudah sepatutnya keterangan saksi dikesampingkan oleh Yang Mulia Majelis Hakim Mahkamah Konstitusi.
 
-## IV. Petitum
+**IV. Petitum**
 
 Berdasarkan penjelasan dan pertimbangan tersebut di atas, Pemerintah memohon kepada Yang Mulia Ketua/Anggota Majelis Hakim Konstitusi Republik Indonesia, dapat memberikan putusan sebagai berikut:
 
@@ -4531,15 +4537,15 @@ tentang Cipta Kerja menjadi Undang-Undang tidak bertentangan dengan Undang-Undan
 
 [2.6] Menimbang bahwa untuk mempersingkat uraian dalam putusan ini, segala sesuatu yang terjadi di persidangan cukup ditunjuk dalam Berita Acara Persidangan dan Risalah Persidangan, yang merupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.
 
-## PERTIMBANGAN HUKUM
+**PERTIMBANGAN HUKUM**
 
-## Kewenangan Mahkamah
+**Kewenangan Mahkamah**
 
 [3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun 1945), Pasal 10 ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554, selanjutnya disebut UU MK), dan Pasal 29 ayat (1) huruf a Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 5076, selanjutnya disebut UU 48/2009), salah satu kewenangan konstitusional Mahkamah adalah mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk menguji undang-undang terhadap Undang-Undang Dasar.
 
 [3.2] Menimbang bahwa oleh karena permohonan yang diajukan a quo adalah pengujian konstitusionalitas norma undang-undang, in casu pengujian materiil Lampiran Undang-Undang Nomor 6 Tahun 2023 Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856, selanjutnya disebut UU 6/2023) terhadap UUD NRI Tahun 1945 maka Mahkamah berwenang mengadili permohonan a quo.
 
-## Kedudukan Hukum Para Pemohon
+**Kedudukan Hukum Para Pemohon**
 
 [3.3] Menimbang bahwa berdasarkan Pasal 51 ayat (1) UU MK beserta Penjelasannya, yang dapat mengajukan permohonan pengujian undang-undang terhadap UUD NRI Tahun 1945 adalah mereka yang menganggap hak dan/atau kewenangan konstitusionalnya yang diberikan oleh UUD NRI Tahun 1945 dirugikan oleh berlakunya suatu undang-undang, yaitu:
 
@@ -4562,75 +4568,75 @@ Dengan demikian, para Pemohon dalam pengujian undang-undang terhadap UUD NRI Tah
 - d. adanya hubungan sebab-akibat antara kerugian dimaksud dengan berlakunya undang-undang yang dimohonkan pengujian;
 - e. adanya kemungkinan bahwa dengan dikabulkannya permohonan maka kerugian konstitusional seperti yang didalilkan tidak akan atau tidak lagi terjadi.
 
-## [3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU MK
+**[3.5] Menimbang bahwa berdasarkan uraian ketentuan Pasal 51 ayat (1) UU MK**
 
 dan syarat-syarat kerugian hak dan/atau kewenangan konstitusional sebagaimana diuraikan pada Paragraf [3.3], sampai dengan Paragraf [3.4] di atas, selanjutnya Mahkamah akan mempertimbangkan kedudukan hukum para Pemohon sebagai berikut:
 
 - a. Bahwa para Pemohon mengajukan pengujian materiil Pasal-Pasal dalam UU 6/2023 sebagai berikut:
 
-## 1. Pasal 81 angka 4 UU 6/2023:
+**1. Pasal 81 angka 4 UU 6/2023:**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 4279) diubah sebagai berikut:
 
 4. Ketentuan Pasal 42 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 42: ayat (1):
+**Pasal 42: ayat (1):**
 
 Setiap Pemberi Kerja yang mempekerjakan Tenaga Kerja Asing wajib memiliki rencana penggunaan Tenaga Kerja Asing yang disahkan oleh Pemerintah Pusat.
 
-## ayat (3) huruf a :
+**ayat (3) huruf a :**
 
 Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku bagi:
 
 - a. direksi atau komisaris dengan kepemilikan saham tertentu atau pemegang saham sesuai dengan ketentuan peraturan perundangundangan;
 
-## ayat (3) huruf c :
+**ayat (3) huruf c :**
 
 - c. Tenaga Kerja Asing yang dibutuhkan oleh Pemberi Kerja pada jenis kegiatan produksi yang terhenti karena keadaan darurat, vokasi, Perusahaan rintisan (start-up berbasis teknologi, kunjungan bisnis, dan penelitian untuk jangka waktu tertentu.
 
-## ayat (4):
+**ayat (4):**
 
 Tenaga Kerja Asing dapat dipekerjakan di Indonesia hanya dalam Hubungan Kerja untuk jabatan tertentu dan waktu tertentu serta memiliki kompetensi sesuai dengan jabatan yang akan diduduki.
 
-## ayat (5) :
+**ayat (5) :**
 
 Tenaga Kerja Asing dilarang menduduki jabatan yang mengurusi personalia.
 
-## 2. Pasal 81 angka 12 UU 6/2023
+**2. Pasal 81 angka 12 UU 6/2023**
 
 Ketentuan Pasal 56 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56
+### Pasal 56 ^pasal-56
 
-## ayat (3)
+**ayat (3)**
 
 Jangka waktu atau selesainya suatu pekerjaan tertentu sebagaimana dimaksud pada ayat (2) ditentukan berdasarkan Perjanjian Kerja.
 
-## ayat (4)
+**ayat (4)**
 
 Ketentuan lebih lanjut mengenai perjanjian kerja waktu tertentu berdasarkan jangka waktu atau selesainya suatu pekerjaan tertentu diatur dalam Peraturan Pemerintah.
 
-## 3. Pasal 81 angka 13 UU 6/2023:
+**3. Pasal 81 angka 13 UU 6/2023:**
 
 Ketentuan Pasal 57 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 57
+### Pasal 57 ^pasal-57
 
-## ayat (1):
+**ayat (1):**
 
 Perjanjian kerja waktu tertentu dibuat secara tertulis serta harus menggunakan bahasa Indonesia dan huruf latin.
 
-## ayat (2):
+**ayat (2):**
 
 Dalam hal perjanjian kerja waktu tertentu dibuat dalam bahasa Indonesia dan bahasa asing, apabila kemudian terdapat perbedaan penafsiran antara keduanya, yang berlaku perjanjian kerja waktu tertentu yang dibuat dalam bahasa Indonesia.
 
-## 4. Pasal 81 angka 15 UU 6/2023:
+**4. Pasal 81 angka 15 UU 6/2023:**
 
 Ketentuan Pasal 59 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 59
+### Pasal 59 ^pasal-59
 
-## ayat (1)
+**ayat (1)**
 
 Perjanjian kerja waktu tertentu hanya dapat dibuat untuk pekerjaan tertentu yang menurut jenis dan sifat atau kegiatan pekerjaannya akan selesai dalam waktu tertentu, yaitu sebagai berikut:
 
@@ -4641,151 +4647,151 @@ Perjanjian kerja waktu tertentu hanya dapat dibuat untuk pekerjaan tertentu yang
 - d. pekerjaan yang berhubungan dengan produk baru, kegiatan baru, atau produk tambahan yang masih dalam percobaan atau penjajakan; atau
 - e. pekerjaan yang jenis dan sifat atau kegiatannya bersifat tidak tetap.
 
-## ayat (2)
+**ayat (2)**
 
 Perjanjian kerja waktu tertentu tidak dapat diadakan untuk pekerjaan yang bersifat tetap.
 
-## ayat (3)
+**ayat (3)**
 
 Perjanjian kerja waktu tertentu yang tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2) demi hukum menjadi perjanjian kerja waktu tidak tertentu.
 
-## ayat (4)
+**ayat (4)**
 
 Ketentuan lebih lanjut mengenai jenis dan sifat atau kegiatan pekerjaan, jangka waktu, dan batas waktu perpanjangan perjanjian kerja waktu tertentu diatur dalam Peraturan Pemerintah.
 
-## 5. Pasal 81 angka 16 UU 6/2023
+**5. Pasal 81 angka 16 UU 6/2023**
 
 Ketentuan Pasal 61 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 61
+### Pasal 61 ^pasal-61
 
-## ayat (1)
+**ayat (1)**
 
 Perjanjian Kerja berakhir apabila:
 
 - c. selesainya suatu pekerjaan tertentu;
 
-## 6. Pasal 81 angka 17 UU 6/2023:
+**6. Pasal 81 angka 17 UU 6/2023:**
 
 Di antara Pasal 61 dan Pasal 62 disisipkan 1 (satu) pasal, yakni Pasal 61A sehingga berbunyi sebagai berikut:
 
-## Pasal 61A
+**Pasal 61A**
 
-## ayat (1)
+**ayat (1)**
 
 Dalam hal perjanjian kerja waktu tertentu berakhir sebagaimana dimaksud dalam Pasal 61 ayat (1) huruf b dan huruf c, Pengusaha wajib memberikan uang kompensasi kepada Pekerja/ Buruh.
 
-## ayat (2)
+**ayat (2)**
 
 Uang kompensasi sebagaimana dimaksud pada ayat (1) diberikan kepada Pekerja/Buruh sesuai dengan masa kerja Pekerja/Buruh di Perusahaan yang bersangkutan.
 
-## ayat (3)
+**ayat (3)**
 
 Ketentuan lebih lanjut mengenai uang kompensasi diatur dalam Peraturan Pemerintah.
 
-## 7. Pasal 81 angka 18 UU 6/2023
+**7. Pasal 81 angka 18 UU 6/2023**
 
 Ketentuan Pasal 64 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 64
+### Pasal 64 ^pasal-64
 
-## ayat (1)
+**ayat (1)**
 
 Perusahaan dapat menyerahkan sebagian pelaksanaan pekerjaan kepada Perusahaan lainnya melalui perjanjian alih daya yang dibuat secara tertulis.
 
-## ayat (2)
+**ayat (2)**
 
 Pemerintah menetapkan sebagian pelaksanaan pekerjaan sebagaimana dimaksud pada ayat (1).
 
-## ayat (3)
+**ayat (3)**
 
 Ketentuan lebih lanjut mengenai penetapan sebagian pelaksanaan pekerjaan sebagaimana dimaksud pada ayat (21 diatur dalam Peraturan Pemerintah.
 
-## 8. Pasal 81 angka 19 UU 6/2023:
+**8. Pasal 81 angka 19 UU 6/2023:**
 
 Pasal 65 dihapus.
 
-## 9. Pasal 81 angka 20 UU 6/2023
+**9. Pasal 81 angka 20 UU 6/2023**
 
 Ketentuan Pasal 66 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 66
+### Pasal 66 ^pasal-66
 
-## ayat (1)
+**ayat (1)**
 
 Hubungan Kerja antara Perusahaan alih daya dengan Pekerja/Buruh yang dipekerjakannya didasarkan pada Perjanjian Kerja yang dibuat secara tertulis, baik perjanjian kerja waktu tertentu maupun perjanjian kerja waktu tidak tertentu.
 
-## ayat (2)
+**ayat (2)**
 
 Perlindungan Pekerja/Buruh, Upah dan kesejahteraan, syarat-syarat kerja, serta perselisihan yang timbul dilaksanakan sekurang-kurangnya sesuai dengan ketentuan peraturan perundang-undangan dan menjadi tanggung jawab Perusahaan alih daya.
 
-## ayat (3)
+**ayat (3)**
 
 Dalam hal Perusahaan alih daya mempekerjakan Pekerja/Buruh berdasarkan perjanjian kerja waktu tertentu sebagaimana dimaksud pada ayat (1), perjanjian kerja waktu tertentu tersebut harus mensyaratkan pengalihan pelindungan hak-hak bagi Pekerja/Buruh apabila terjadi pergantian Perusahaan alih daya dan sepanjang objek pekerjaannya tetap ada.
 
-## ayat (4)
+**ayat (4)**
 
 Perusahaan alih daya sebagaimana dimaksud pada ayat (1) berbentuk badan hukum dan wajib memenuhi Perizinan Berusaha yang diterbitkan oleh Pemerintah Pusat.
 
-## ayat (5)
+**ayat (5)**
 
 Perizinan Berusaha sebagaimana dimaksud pada ayat (41) harus memenuhi norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
 
-## ayat (6)
+**ayat (6)**
 
 Ketentuan lebih lanjut mengenai perlindungan Pekerja/Buruh sebagaimana dimaksud pada ayat (2) dan Perizinan Berusaha sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan Pemerintah.
 
-## 10. Pasal 81 angka 25 UU 6/2023
+**10. Pasal 81 angka 25 UU 6/2023**
 
 Ketentuan Pasal 79 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 79
+### Pasal 79 ^pasal-79
 
-## ayat (1)
+**ayat (1)**
 
 Pengusaha wajib memberi:
 
 - a. waktu istirahat; dan
 - b. cuti.
 
-## ayat (2)
+**ayat (2)**
 
 Waktu istirahat sebagaimana dimaksud pada ayat (1) huruf a wajib diberikan kepada Pekerja/Buruh paling sedikit meliputi:
 
 - a. istirahat antara jam kerja, paling sedikit setengah jam setelah bekerja selama 4 (empat) jam terus-menerus, dan waktu istirahat tersebut tidak termasuk jam kerja; dan
 - b. istirahat mingguan 1 (satu) hari untuk 6 (enam) hari kerja dalam 1 (satu) minggu.
 
-## ayat (3)
+**ayat (3)**
 
 Cuti sebagaimana dimaksud pada ayat (1) huruf b yang wajib diberikan kepada Pekerja/Buruh, yaitu cuti tahunan, paling sedikit 12 (dua belas) hari kerja setelah Pekerja/Buruh yang bersangkutan bekerja selama 12 (dua belas) bulan secara terus menerus.
 
-## ayat (4)
+**ayat (4)**
 
 Pelaksanaan cuti tahunan sebagaimana dimaksud pada ayat (3) diatur dalam Perjanjian Kerja, Peraturan Perusahaan, atau Perjanjian Kerja Bersama.
 
-## ayat (5)
+**ayat (5)**
 
 Selain waktu istirahat dan cuti sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3), Perusahaan tertentu dapat memberikan istirahat panjang yang diatur dalam Perjanjian Kerja, Peraturan Perusahaan, atau Perjanjian Kerja Bersama.
 
-## ayat (6)
+**ayat (6)**
 
 Ketentuan lebih lanjut mengenai Perusahaan tertentu sebagaimana dimaksud pada ayat (5) diatur dengan Peraturan Pemerintah.
 
-## 11. Pasal 81 angka 27 UU 6/2023
+**11. Pasal 81 angka 27 UU 6/2023**
 
 Ketentuan Pasal 88 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 88
+### Pasal 88 ^pasal-88
 
-## ayat (1)
+**ayat (1)**
 
 Setiap Pekerja/Buruh berhak atas penghidupan yang layak bagi kemanusiaan.
 
-## ayat (2)
+**ayat (2)**
 
 Pemerintah Pusat menetapkan kebijakan pengupahan sebagai salah satu upaya mewujudkan hak Pekerja/Buruh atas penghidupan yang layak bagi kemanusiaan.
 
-## ayat (3)
+**ayat (3)**
 
 Kebijakan pengupahan sebagaimana dimaksud pada ayat (2) meliputi:
 
@@ -4797,29 +4803,29 @@ Kebijakan pengupahan sebagaimana dimaksud pada ayat (2) meliputi:
 - f. hal-hal yang dapat diperhitungkan dengan Upah; dan
 - g. Upah sebagai dasar perhitungan atau pembayaran hak dan kewajiban lainnya.
 
-## ayat (4)
+**ayat (4)**
 
 Ketentuan lebih lanjut mengenai kebijakan pengupahan diatur dalam Peraturan Pemerintah.
 
-## 12. Pasal 81 angka 28 UU 6/2023
+**12. Pasal 81 angka 28 UU 6/2023**
 
 Di antara Pasal 88 dan Pasal 89 disisipkan 6 (enam) pasal, yakni Pasal 88A, Pasal 88B, Pasal 88C, Pasal 88D, Pasal 88E, dan Pasal 88F sehingga berbunyi sebagai berikut:
 
-## Pasal 88A
+**Pasal 88A**
 
-## ayat (1)
+**ayat (1)**
 
 Hak Pekerja/Buruh atas Upah timbul pada saat terjadi Hubungan Kerja antara Pekerja/Buruh dengan Pengusaha dan berakhir pada saat putusnya Hubungan Kerja.
 
-## ayat (2)
+**ayat (2)**
 
 Setiap Pekerja/Buruh berhak memperoleh Upah yang sama untuk pekerjaan yang sama nilainya.
 
-## ayat (3)
+**ayat (3)**
 
 Pengusaha wajib membayar Upah kepada Pekerja/ Buruh sesuai dengan kesepakatan.
 
-## ayat (4)
+**ayat (4)**
 
 Pengaturan pengupahan yang ditetapkan atas kesepakatan antara Pengusaha dan Pekerja/ Buruh atau Serikat Pekerja/Serikat Buruh tidak
 
@@ -4827,25 +4833,25 @@ Pengaturan pengupahan yang ditetapkan atas kesepakatan antara Pengusaha dan Peke
 
 boleh lebih rendah dari ketentuan pengupahan yang ditetapkan dalam peraturan perundang-undangan.
 
-## ayat (5)
+**ayat (5)**
 
 Dalam hal kesepakatan sebagaimana dimaksud pada ayat (4) lebih rendah atau bertentangan dengan peraturan perundang-undangan, kesepakatan tersebut batal demi hukum dan pengaturan pengupahan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
-## ayat (6)
+**ayat (6)**
 
 Pengusaha yang karena kesengajaan atau kelalaiannya mengakibatkan keterlambatan pembayaran Upah, dikenakan denda sesuai dengan persentase tertentu dari Upah Pekerja/Buruh.
 
-## ayat (7)
+**ayat (7)**
 
 Pekerja/Buruh yang melakukan pelanggaran karena kesengajaan atau kelalaiannya dapat dikenakan denda.
 
-## ayat (8)
+**ayat (8)**
 
 Pemerintah mengatur pengenaan denda kepada Pengusaha dan/atau Pekerja/Buruh dalam pembayaran Upah.
 
-## Pasal 88B
+**Pasal 88B**
 
-## ayat (1)
+**ayat (1)**
 
 Upah ditetapkan berdasarkan:
 
@@ -4853,161 +4859,161 @@ Upah ditetapkan berdasarkan:
 
 b. satuan hasil.
 
-## ayat (2)
+**ayat (2)**
 
 Ketentuan lebih lanjut mengenai Upah berdasarkan satuan waktu dan/atau satuan hasil sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
 
-## Pasal 88C
+**Pasal 88C**
 
-## ayat (1)
+**ayat (1)**
 
 Gubernur wajib menetapkan Upah minimum provinsi.
 
-## ayat (2)
+**ayat (2)**
 
 Gubernur dapat menetapkan Upah minimum kabupaten/kota.
 
-## ayat (3)
+**ayat (3)**
 
 Penetapan Upah minimum kabupaten/kota sebagaimana dimaksud pada ayat (2) dilakukan dalam hal hasil penghitungan Upah minimum kabupaten/kota lebih tinggi dari Upah minimum provinsi.
 
-## ayat (4)
+**ayat (4)**
 
 Upah minimum sebagaimana dimaksud pada ayat (1) dan ayat (2) ditetapkan berdasarkan kondisi ekonomi dan Ketenagakerjaan.
 
-## ayat (5)
+**ayat (5)**
 
 Kondisi ekonomi dan Ketenagakerjaan sebagaimana dimaksud pada ayat (4) menggunakan data yang bersumber dari lembaga yang berwenang di bidang statistik.
 
-## ayat (6)
+**ayat (6)**
 
 Dalam hal kabupaten/kota belum memiliki Upah minimum dan akan menetapkan Upah minimum, penetapan Upah minimum harus memenuhi syarat tertentu.
 
-## ayat (7)
+**ayat (7)**
 
 Ketentuan lebih lanjut mengenai tata cara penetapan Upah minimum sebagaimana dimaksud pada ayat (4) dan syarat tertentu sebagaimana dimaksud pada ayat (6) diatur dalam Peraturan Pemerintah.
 
-## Pasal 88D
+**Pasal 88D**
 
-## ayat (1)
+**ayat (1)**
 
 Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (2) dihitung dengan menggunakan formula penghitungan Upah minimum.
 
-## ayat (2)
+**ayat (2)**
 
 Formula penghitungan Upah minimum sebagaimana dimaksud pada ayat (1) mempertimbangkan variabel pertumbuhan ekonomi, inflasi, dan indeks tertentu.
 
-## ayat (3)
+**ayat (3)**
 
 Ketentuan lebih lanjut mengenai formula penghitungan Upah minimum diatur dalam Peraturan Pemerintah.
 
-## Pasal 88E
+**Pasal 88E**
 
-## ayat (1)
+**ayat (1)**
 
 Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (2) berlaku bagi Pekerja/Buruh dengan masa kerja kurang dari 1 (satu) tahun pada Perusahaan yang bersangkutan.
 
-## ayat (2)
+**ayat (2)**
 
 Pengusaha dilarang membayar Upah lebih rendah dari Upah minimum.
 
-## Pasal 88F
+**Pasal 88F**
 
 Dalam keadaan tertentu Pemerintah dapat menetapkan formula penghitungan Upah minimum yang berbeda dengan formula penghitungan Upah minimum sebagaimana dimaksud dalam Pasal 88D ayat (2).
 
-## 13. Pasal 81 angka 29 UU 6/2023
+**13. Pasal 81 angka 29 UU 6/2023**
 
 Pasal 89 dihapus.
 
-## 14. Pasal 81 angka 30 UU 6/2023
+**14. Pasal 81 angka 30 UU 6/2023**
 
 Pasal 90 dihapus.
 
-## 15. Pasal 81 angka 31 UU 6/2023
+**15. Pasal 81 angka 31 UU 6/2023**
 
 Di antara Pasal 90 dan Pasal 91 disisipkan 2 (dua) pasal, yakni Pasal 90A dan Pasal 90B sehingga berbunyi sebagai berikut:
 
-## Pasal 90A
+**Pasal 90A**
 
 Upah di atas Upah minimum ditetapkan berdasarkan kesepakatan antara Pengusaha dan Pekerja/Buruh di Perusahaan.
 
-## Pasal 90B
+**Pasal 90B**
 
-## ayat (1)
+**ayat (1)**
 
 Ketentuan Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (2) dikecualikan bagi usaha mikro dan kecil.
 
-## ayat (2)
+**ayat (2)**
 
 Upah pada usaha mikro dan kecil ditetapkan berdasarkan kesepakatan antara Pengusaha dan Pekerja/Buruh di Perusahaan.
 
-## ayat (3)
+**ayat (3)**
 
 Kesepakatan Upah sebagaimana dimaksud pada ayat (2) sekurangkurangnya sebesar persentase tertentu dari rata-rata konsumsi masyarakat berdasarkan data yang bersumber dari lembaga yang berwenang di bidang statistik.
 
-## ayat (4)
+**ayat (4)**
 
 Ketentuan lebih lanjut mengenai Upah bagi usaha mikro dan kecil diatur dalam Peraturan Pemerintah.
 
-## 16. Pasal 81 angka 32 UU 6/2023
+**16. Pasal 81 angka 32 UU 6/2023**
 
 Pasal 91 dihapus.
 
-## 17. Pasal 81 angka 33 UU 6/2023
+**17. Pasal 81 angka 33 UU 6/2023**
 
 Ketentuan Pasal 92 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 92
+### Pasal 92 ^pasal-92
 
-## ayat (1)
+**ayat (1)**
 
 Pengusaha wajib menyusun struktur dan skala Upah di Perusahaan dengan memperhatikan kemampuan Perusahaan dan produktivitas.
 
-## 18. Pasal 81 angka 35 UU 6/2023
+**18. Pasal 81 angka 35 UU 6/2023**
 
 Ketentuan Pasal 94 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 94
+### Pasal 94 ^pasal-94
 
 Dalam hal komponen Upah terdiri atas Upah pokok dan tunjangan tetap, besarnya Upah pokok paling sedikit 75% (tujuh puluh lima persen) dari jumlah Upah pokok dan tunjangan tetap.
 
-## 19. Pasal 81 angka 36 UU 6/2023
+**19. Pasal 81 angka 36 UU 6/2023**
 
 Ketentuan Pasal 95 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 95
+### Pasal 95 ^pasal-95
 
-## ayat (1)
+**ayat (1)**
 
 Dalam hal Perusahaan dinyatakan pailit atau dilikuidasi berdasarkan ketentuan peraturan perundang-undangan, Upah dan hak lainnya yang belum diterima oleh Pekerja/Buruh merupakan utang yang didahulukan pembayarannya.
 
-## ayat (2)
+**ayat (2)**
 
 Upah Pekerja/Buruh sebagaimana dimaksud pada ayat (1) didahulukan pembayarannya sebelum pembayaran kepada semua kreditur.
 
-## ayat (3)
+**ayat (3)**
 
 Hak lainnya dari Pekerja/Buruh sebagaimana dimaksud pada ayat (1) didahulukan pembayarannya atas semua kreditur kecuali para kreditur pemegang hak jaminan kebendaan.
 
-## 20. Pasal 81 angka 38 UU 6/2023
+**20. Pasal 81 angka 38 UU 6/2023**
 
-## Pasal 97 dihapus
+**Pasal 97 dihapus**
 
-## 21. Pasal 81 angka 39 UU 6/2023
+**21. Pasal 81 angka 39 UU 6/2023**
 
 Ketentuan Pasal 98 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 98
+### Pasal 98 ^pasal-98
 
 - (1) Untuk memberikan saran dan pertimbangan kepada Pemerintah Pusat atau Pemerintah Daerah dalam perumusan kebijakan pengupahan serta pengembangan sistem pengupahan dibentuk dewan pengupahan.
 - (2) Dewan pengupahan terdiri atas unsur pemerintah, organisasi Pengusaha, Serikat Pekerja/Serikat Buruh, pakar, dan akademisi.
 - (3) Ketentuan lebih lanjut mengenai tata cara pembentukan, komposisi keanggotaan, tata cara pengangkatan dan pemberhentian keanggotaan, serta tugas dan tata kerja dewan pengupahan diatur dalam Peraturan Pemerintah.
 
-## 22. Pasal 81 angka 40 UU 6/2023
+**22. Pasal 81 angka 40 UU 6/2023**
 
 Ketentuan Pasal 151 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 151
+### Pasal 151 ^pasal-151
 
 - (1) Pengusaha, Pekerja/Buruh, Serikat Pekerja/Serikat Buruh, dan Pemerintah harus mengupayakan agar tidak terjadi Pemutusan Hubungan Kerja.
 - (2) Dalam hal Pemutusan Hubungan Kerja tidak dapat dihindari, maksud dan alasan Pemutusan Hubungan Kerja diberitahukan oleh Pengusaha kepada Pekerja/Buruh dan/atau Serikat Pekeda/Serikat Buruh.
@@ -5058,7 +5064,7 @@ Pemberitahuan sebagaimana dimaksud dalam Pasal 151 ayat (2) tidak perlu dilakuka
 
 25. Pasal 81 angka 47 UU 6/2023 Ketentuan Pasal 156 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 156
+### Pasal 156 ^pasal-156
 
 - (1) Dalam hal tedadi Pemutusan Hubungan Kerja, Pengusaha wajib
 
@@ -5251,7 +5257,7 @@ mekanisme yang mutlak yang harus dilewati oleh pengusaha. Hal ini merupakan meka
 
 menimbulkan ketidakpastian hukum karena dapat ditafsirkan hanya penyelesaian dalam salah satu tahap penyelesaian perselisihan hubungan industrial. Hal tersebut tentu telah mengaburkan makna tingkatan yang memang harus dilalui dalam mekanisme penyelesaian perselisihan hubungan industrial, seperti penyelesaian pada tahap perundingan bipartit, apabila perundingan bipartit tidak ditemukan kata sepakat, maka dapat dilanjut tahap mediasi/konsiliasi/arbitrase, dan terakhir pada tahap penyelesaian perselisihan melalui pengadilan hubungan industrial bahkan untuk kasus tertentu bisa sampai dengan kasasi. Dengan berdasarkan hal tersebut ketentuan Pasal 81 angka 49 UU 6/2023 yang menentukan Pasal 157A tidak memberikan jaminan kepastian hukum yang adil sehingga potensial melanggar hak konstitusional para Pemohon sebagaimana dijamin dalam Pasal 28D ayat (1) UUD NRI Tahun1945
 
-## VII. Kerugian Hak Konstitusional Para Pemohon Terkait Pengaturan Uang Pesangon (UP), Uang Penggantian Hak (UPH), dan Uang Penghargaan Masa Kerja (UPMK)
+**VII. Kerugian Hak Konstitusional Para Pemohon Terkait Pengaturan Uang Pesangon (UP), Uang Penggantian Hak (UPH), dan Uang Penghargaan Masa Kerja (UPMK)**
 
 - a. Bahwa ketentuan Pasal 81 angka 47 UU 6/2023 yang mengubah ketentuan Pasal 156 UU 13/2003, di mana dalam ayat (2) terdapat frasa '… diberikan dengan ketentuan sebagai berikut: …' telah mengubah frasa sebelumnya yang berbunyi '… paling sedikit sebagai berikut: …'. Frasa tersebut menutup kemungkinan bagi perusahaan yang mampu membayar uang pesangon kepada pekerja/buruh lebih dari batas yang telah ditetapkan. Padahal faktanya selama ini, telah banyak perusahaan yang memberikan uang pesangon melebihi batas minimum dengan alasan untuk menghargai jasa dan dedikasi pekerja/buruh yang sudah mengabdi secara maksimal di suatu perusahaan. Dengan hilangnya frasa 'paling sedikit' perusahaan dapat secara kaku memberikan uang pesangon kepada pekerja/buruh sehingga tidak memberikan kepastian hukum yang adil.
 - b. Bahwa ketentuan Pasal 156 ayat (4) UU 6/2023 telah menghilangkan ketentuan 'penggantian perumahan serta pengobatan dan perawatan ditetapkan 15% (lima belas perseratus) dari uang pesangon dan/atau
@@ -5285,11 +5291,11 @@ Berdasarkan seluruh uraian yang dikemukakan oleh Pemohon I sampai dengan Pemohon
 
 [3.7] Menimbang bahwa dalam mendalilkan inkonstitusionalitas pasal-pasal yang dimohonkan pengujian, para Pemohon mengemukakan dalil-dalil permohonan (selengkapnya dimuat dalam bagian Duduk Perkara) yang apabila dirumuskan oleh Mahkamah pada pokoknya sebagai berikut.
 
-## A. Dalil Mengenai Penggunaan Tenaga Kerja Asing (TKA)
+**A. Dalil Mengenai Penggunaan Tenaga Kerja Asing (TKA)**
 
 Bahwa menurut Para Pemohon, norma Pasal 81 angka 4 UU 6/2023 yang mengubah norma Pasal 42 ayat (1); Pasal 42 ayat (3) huruf a; Pasal 42 ayat (3) huruf c; Pasal 42 ayat (4); dan Pasal 42 ayat (5) UU 13/2003 bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945 karena tidak menjamin hak atas pekerjaan yang layak. Sebab, perubahan norma dimaksud telah menghapus Izin Menggunakan Tenaga Kerja Asing (IMTA) yang digantikan dengan Rencana Penggunaan Tenaga Kerja Asing (RPTKA), sehingga berpotensi melemahkan mekanisme pengawasan negara terhadap Tenaga Kerja Asing (TKA) dan membuka pintu bagi masuknya TKA yang tidak terampil (unskilled labour) secara masif dengan mereduksi kesempatan kerja bagi tenaga kerja Indonesia dan memperkecil peluang penggunaan tenaga kerja lokal mendapatkan pekerjaan yang layak. Terlebih, pengesahan RPTKA hanya bersifat administratif tanpa mekanisme pengawasan yang ketat, sehingga tidak sesuai dengan konsep hukum perizinan sebagai keputusan yang bersegi 1 (satu) di mana pemberi izin dapat menegakkan izin yang diberikan, termasuk mengawasi izin tersebut.
 
-## B. Dalil Mengenai Perjanjian Kerja Waktu Tertentu (PKWT)
+**B. Dalil Mengenai Perjanjian Kerja Waktu Tertentu (PKWT)**
 
 Bahwa menurut para Pemohon, norma Pasal 81 angka 12 UU 6/2023 yang mengubah Pasal 56 UU 13/2003, khususnya pada ayat (3) dan ayat (4) UU 6/2023, Pasal 81 angka 13 Pasal 57 UU 6/2023 yang mengubah ketentuan Pasal 57 UU 13/2003, Pasal 81 angka 15 UU 6/2023 yang mengubah ketentuan Pasal 59 UU
 
@@ -5308,7 +5314,7 @@ bahkan seumur hidup. Selanjutnya, penghilangan kewajiban pengusaha untuk memberi
 
 menurut Pasal 62 UU 13/2003 perusahaan wajib membayarkan upah dari sisa masa kontrak pekerja bersangkutan dengan nilai yang sudah dapat diperkirakan sesuai ketentuan undang-undang, dan bukan diberikan kompensasi yang nilainya tidak disebutkan dalam undang-undang. Hal ini berpotensi merugikan pekerja/buruh untuk mendapatkan hak hidup yang layak dan kepastian hukum yang adil.
 
-## C. Dalil Mengenai Pekerja Alih Daya (Outsourcing):
+**C. Dalil Mengenai Pekerja Alih Daya (Outsourcing):**
 
 Bahwa menurut para Pemohon, norma Pasal 81 angka 18 UU 6/2023 yang mengubah Pasal 64 UU 13/2003, Pasal 81 angka 19 UU 6/2023 yang menghapus Pasal 65 UU 13/2003, dan Pasal 81 angka 20 UU 6/2023 yang mengubah ketentuan Pasal 66 UU 13/2003 bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1) dan (2), serta Pasal 28I ayat (4) UUD NRI Tahun 1945 dengan dalil-dalil sebagai berikut.
 
@@ -5318,7 +5324,7 @@ Bahwa menurut para Pemohon, norma Pasal 81 angka 18 UU 6/2023 yang mengubah Pasa
 - dengan dihapusnya Pasal 65 UU 13/2003, pekerja outsourcing tidak lagi mendapatkan jaminan kerja yang layak dan kepastian hukum. Oleh karena itu, para Pemohon memohon kepada Mahkamah untuk memberlakukan kembali Pasal 65 UU 13/2003.
 3. Bahwa menurut para Pemohon, norma Pasal 81 angka 20 UU 6/2023 yang mengubah ketentuan Pasal 66 UU 13/2003 telah menghilangkan batasan jenis pekerjaan yang dapat di-outsourcing-kan, berbeda dengan aturan sebelumnya yang membatasi outsourcing pada kegiatan penunjang atau yang tidak berhubungan langsung dengan proses produksi. Para Pemohon juga mendalilkan penghapusan ketentuan Pasal 66 ayat (2) huruf b dan huruf d UU 13/2003, yang sebelumnya mewajibkan perusahaan penyedia jasa pekerja (PPJP) untuk mensyaratkan pengalihan perlindungan hak pekerja apabila terjadi pergantian PPJP, serta ketentuan mengenai perubahan status hubungan kerja apabila syarat-syarat outsourcing, menjadi tidak terpenuhi. Hilangnya ketentuan ini melemahkan perlindungan hukum terhadap pekerja Oleh karena itu, para Pemohon memohon kepada Mahkamah untuk memberlakukan kembali Pasal 66 UU 13/2003.
 
-## D. Dalil Mengenai Cuti
+**D. Dalil Mengenai Cuti**
 
 Bahwa menurut para Pemohon, norma Pasal 81 angka 25 UU 6/2023 yang mengubah ketentuan Pasal 79 UU 13/2003 bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2) serta Pasal 28I ayat (4) UUD NRI Tahun 1945 dengan dalil-dalil sebagai berikut.
 
@@ -5327,7 +5333,7 @@ Bahwa menurut para Pemohon, norma Pasal 81 angka 25 UU 6/2023 yang mengubah kete
 - minggu" berpotensi membatasi istirahat mingguan hanya untuk 1 hari setelah 6 hari kerja, sehingga menimbulkan permasalahan bagi pekerja di perusahaan yang memberlakukan 5 hari kerja dalam sepekan dengan 2 hari istirahat. Oleh karena itu menurut para Pemohon hal ini bersifat diskriminatif karena tidak mengakomodasi hak pekerja di perusahaan dengan sistem 5 hari kerja.
 2. Bahwa menurut para Pemohon, norma Pasal 81 angka 25 UU 6/2023 yang mengubah Pasal 79 ayat (2) huruf d UU 13/2003 tidak lagi mengatur kewajiban pengusaha untuk memberikan istirahat panjang kepada pekerja/buruh, karena dalam Pasal 81 angka 25 UU 6/2023 yang mengubah ketentuan Pasal 79 UU 13/2003 terdapat ayat (5) yang tidak lagi menggunakan kata 'wajib', melainkan menggunakan kata 'dapat', di mana dalam hukum perundang-undangan konsekuensi kata 'dapat' tidak bersifat imperatif, melainkan fakultatif, sehingga tidak ada jaminan bagi pekerja/buruh untuk mendapat hak atas istirahat panjang. Oleh karena itu, para Pemohon memohon kepada Mahkamah untuk memberlakukan kembali Pasal 79 UU 13/2003 agar tidak terjadi ketidakpastian hukum.
 
-## E. Dalil Mengenai Upah Dan Minimum Upah
+**E. Dalil Mengenai Upah Dan Minimum Upah**
 
 Bahwa menurut para Pemohon, penghapusan Penjelasan Pasal 88 ayat (1) UU 13/2003, Pasal 81 angka 28 UU 6/2023 yang menyisipkan Pasal 88A, Pasal 88B, Pasal 88C, Pasal 88D, Pasal 88E, dan Pasal 88F di antara Pasal 88 dan 89 UU 13/2003, Pasal 81 angka 29 UU 6/2023 yang menghapus ketentuan Pasal 89 UU 13/2003, Pasal 81 angka 30 UU 6/2023 yang menghapus Pasal 90 UU 13/2003, Pasal 81 angka 31 UU 6/2023 yang menyisipkan Pasal 90A dan Pasal 90B di antara Pasal 90 dan Pasal 91 UU 13/2003, Pasal 81 angka 32 UU 6/2023 yang menghapus ketentuan Pasal 91 UU 13/2003, Pasal 81 angka 33 UU 6/2023 yang mengubah ketentuan Pasal 92 UU 13/2003, Penjelasan Pasal 81 angka 35 UU 6/2023 yang mengubah ketentuan Pasal 94 UU 13/2003, Pasal 81 angka 36 UU 6/2023 yang mengubah Pasal 95 UU 13/2003, Pasal 81 angka 38 UU 6/2023 yang menghapus Pasal 97 UU 13/2003, Pasal 81 angka 39 UU 6/2023 yang mengubah ketentuan Pasal 98 UU 13/2003, bertentangan dengan Pasal 27 ayat (2), Pasal 28, Pasal 28C, Pasal 28 ayat (1) dan ayat (2) UUD NRI Tahun 1945, dengan dalil-dalil sebagai berikut.
 
@@ -5360,7 +5366,7 @@ Bahwa menurut para Pemohon, penghapusan Penjelasan Pasal 88 ayat (1) UU 13/2003,
 - dalam hal pengaturan pengupahan. Sebelumnya, Pasal 97 UU 13/2003 mendelegasikan pengaturan lebih lanjut mengenai upah minimum, penghasilan yang layak, dan perlindungan pengupahan melalui Peraturan Pemerintah. Para Pemohon juga mendalilkan bahwa penghapusan ketentuan Pasal 97 UU 13/2003 menyebabkan ketidakpastian hukum terkait dengan pengupahan yang mengakibatkan pengurangan perlindungan hak pekerja atas penghasilan yang layak. Selain itu, menurut para Pemohon delegasi pengaturan dalam undangundang merupakan bagian penting dari proses legislasi yang seharusnya tidak diabaikan, karena berkaitan dengan kepastian hukum dan perlindungan terhadap hak-hak pekerja. Oleh karena itu, menurut para Pemohon Pasal 97 UU 13/2003 perlu dihidupkan kembali.
 11. Bahwa menurut para Pemohon, norma Pasal 81 angka 39 UU 6/2023 yang mengubah ketentuan Pasal 98 UU 13/2003 inkonstitusional. Sebab, norma Pasal 98 UU 13/2003 sebelumnya menentukan kewenangan dewan pengupahan merumuskan kebijakan pengupahan yang kemudian ditetapkan oleh pemerintah. Namun, dalam Pasal 81 angka 39 UU 6/2023 yang mengubah ketentuan Pasal 98 UU 13/2003 menyederhanakan peran Dewan Pengupahan hanya sebagai pemberi saran dan pertimbangan, tanpa kewenangan dalam merumuskan kebijakan. Perubahan ini dipandang sebagai upaya sentralisasi kewenangan dalam penetapan kebijakan pengupahan di tangan pemerintah, yang berpotensi melemahkan peran partisipatif dari unsur di dewan pengupahan, khususnya serikat pekerja. Para Pemohon juga mendalilkan penghapusan kewenangan Dewan Pengupahan dalam merumuskan kebijakan mengurangi akses serikat pekerja untuk memperjuangkan kepentingan pekerja secara efektif, sehingga bertentangan dengan Pasal 28 dan Pasal 28C UUD NRI Tahun 1945. Oleh karena itu, menurut para Pemohon Pasal 98 UU 13/2003 perlu diberlakukan kembali.
 
-## F. Dalil Mengenai Pemutusan Hubungan Kerja (PHK)
+**F. Dalil Mengenai Pemutusan Hubungan Kerja (PHK)**
 
 Bahwa menurut para Pemohon, norma Pasal 81 angka 40 UU 6/2023 yang mengubah ketentuan Pasal 151 UU 13/2003, norma Pasal 81 angka 41 UU 6/2023 yang menyisipkan ketentuan Pasal 151A di antara Pasal 151 dan Pasal 152 UU 13/2003, norma Pasal 81 angka 45 UU 6/2023 yang menyisipkan Pasal 154A di antara Pasal 154 dan Pasal 155 UU 13/2003, Pasal 81 angka 49 UU 6/2023 yang menyisipkan Pasal 157A di antara Pasal 157 dan Pasal 158 UU 13/2003, bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945, dengan dalil-dalil sebagi berikut.
 
@@ -5371,7 +5377,7 @@ Bahwa menurut para Pemohon, norma Pasal 81 angka 40 UU 6/2023 yang mengubah kete
 - bertentangan dengan Putusan Mahkamah Konstitusi Nomor 19/PUU-IX/2011 dan Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945.
 4. Bahwa menurut para Pemohon, norma Pasal 81 angka 49 UU 6/2023 yang menyisipkan Pasal 157A di antara Pasal 157 dan Pasal 158 UU 13/2003 inkonstitusional. Sebab, adanya frasa "harus tetap melaksanakan kewajibannya" menimbulkan ketidakpastian hukum karena dapat ditafsirkan berbeda. Selain itu menurut para Pemohon adanya frasa 'dengan tetap membayar upah' dalam Pasal 157A ayat (2) UU 6/2023 tidak jelas sehingga berpotensi multitafsir apabila tidak ada kewajiban membayar upah. Selanjutnya, terhadap frasa "dilakukan sampai dengan selesainya proses penyelesaian perselisihan hubungan industrial sesuai tingkatannya" dalam norma Pasal 157A ayat (3) UU 6/2023 juga menimbulkan ketidakpastian hukum bagi para pihak terkait dengan kapan kewajiban mereka berakhir.
 
-## G. Dalil Mengenai Uang Pesangon (UP), Uang Penggantian Hak (UPH), DAN Uang Penghargaan Masa Kerja (UPMK)
+**G. Dalil Mengenai Uang Pesangon (UP), Uang Penggantian Hak (UPH), DAN Uang Penghargaan Masa Kerja (UPMK)**
 
 Bahwa menurut para Pemohon, Pasal 81 angka 47 UU 6/2023 yang mengubah Pasal 156 UU 13/2003, Pasal 81 angka 53 sampai dengan Pasal 81 angka 64 UU 6/2023 (kecuali Pasal 81 angka 60, Pasal 81 angka 62, dan Pasal 81 angka 63) yang masing-masing menghapus ketentuan Pasal 161 sampai dengan Pasal 172 UU 13/2003 (kecuali Pasal 168, Pasal 170, dan Pasal 171) bertentangan dengan Pasal 28D ayat (1) UUD NRI Tahun 1945 dengan dalil-dalil sebagai berikut,
 
@@ -5538,7 +5544,7 @@ pengaturan lebih lanjut mengenai ketentuan UUD NRI Tahun 1945; b. perintah suatu
 
 [3.15] Menimbang bahwa setelah menguraikan hal-hal tersebut di atas, selanjutnya Mahkamah akan mempertimbangkan satu persatu dalil para Pemohon berdasarkan jenis isu konstitusional (klaster) yang dimohonkan oleh para Pemohon, sebagai berikut.
 
-## Dalil Penggunaan Tenaga Kerja Asing
+**Dalil Penggunaan Tenaga Kerja Asing**
 
 [3.15.1] Bahwa para Pemohon mempersoalkan konstitusionalitas norma Pasal 81 angka 4 UU 6/2023 yang mengubah Pasal 42 ayat (1), ayat (3) huruf a dan huruf c, ayat (4), dan ayat (5) UU 13/2003 berkenaan dengan penggunaan TKA. Para Pemohon mendalilkan perubahan norma dimaksud telah menghapus Izin Menggunakan Tenaga Kerja Asing (IMTA) dan menggantinya dengan Rencana Penggunaan Tenaga Kerja Asing (RPTKA), yang tidak diikuti dengan pengawasan sebagaimana halnya suatu izin sehingga berpotensi melemahkan mekanisme pengawasan negara terhadap TKA dan membuka pintu masuknya TKA yang tidak terampil (unskilled labour) secara masif yang dapat mereduksi kesempatan kerja bagi tenaga kerja Indonesia untuk mendapatkan pekerjaan yang layak. Menurut para Pemohon, ketentuan tersebut tidak menjamin hak atas perlindungan dan bekerja dengan imbalan dan penghidupan yang layak sebagaimana diatur dalam Pasal 27 ayat (2) serta Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945. Terhadap dalil para Pemohon a quo, Mahkamah mempertimbangkan sebagai berikut.
 
@@ -5612,7 +5618,7 @@ Berdasarkan pertimbangan hukum tersebut di atas, dalil para Pemohon berkenaan de
 
 Sedangkan berkenaan dengan norma Pasal 42 ayat (1) dan ayat (4) dalam Pasal 81 angka 4 UU 6/2023 telah ternyata melanggar hak atas pekerjaan dan penghidupan yang layak serta jaminan perlindungan dan kepastian hukum yang adil sebagaimana diatur dalam Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945, namun tidak sebagaimana yang didalilkan para Pemohon. Dengan demikian dalil para Pemohon adalah beralasan menurut hukum untuk sebagian
 
-## Dalil Perjanjian Kerja Waktu Tertentu (PKWT)
+**Dalil Perjanjian Kerja Waktu Tertentu (PKWT)**
 
 [3.15.3] Bahwa menurut para Pemohon, norma Pasal 81 angka 12 UU 6/2023 yang mengubah Pasal 56 UU 13/2003, khususnya pada ayat (3) dan ayat (4) UU 6/2023, Pasal 81 angka 13 UU 6/2023 yang mengubah ketentuan Pasal 57 UU 13/2003, Pasal 81 angka 15 UU 6/2023 yang mengubah ketentuan Pasal 59 UU 13/2003 khususnya pada ayat (3), Pasal 81 angka 16 UU 6/2023 yang mengubah ketentuan Pasal 61 UU 13/2003, dan Pasal 81 angka 17 UU 6/2023 yang memuat ketentuan Pasal 61A, bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2), dan Pasal 28I ayat (4) UUD NRI Tahun 1945.
 
@@ -5749,7 +5755,7 @@ dalil para Pemohon berkenaan dengan PKWT dalam norma Pasal 56 ayat (4) dalam Pas
 
 Sedangkan berkenaan dengan norma Pasal 56 ayat (3) dalam Pasal 81 angka 12 UU 6/2023 dan norma Pasal 57 ayat (1) dalam Pasal 81 angka 13 UU 6/2023 telah ternyata melanggar hak atas pekerjaan dan penghidupan yang layak, kepastian hukum serta perlindungan sebagaimana diatur dalam Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2), dan Pasal 28I ayat (4) UUD NRI Tahun 1945, namun tidak sebagaimana yang didalilkan para Pemohon. Dengan demikian, dalil para Pemohon adalah beralasan menurut hukum untuk sebagian.
 
-## Dalil Mengenai Pekerja Alih Daya (Outsourcing)
+**Dalil Mengenai Pekerja Alih Daya (Outsourcing)**
 
 [3.15.5] Bahwa menurut para Pemohon, norma Pasal 81 angka 18 UU 6/2023 yang mengubah Pasal 64 UU 13/2003; Pasal 81 angka 19 UU 6/2023 yang menghapus Pasal 65 UU 13/2003; dan Pasal 81 angka 20 UU 6/2023 yang mengubah Pasal 66 UU 13/2003, bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2), serta Pasal 28I ayat (4) UUD NRI Tahun 1945 dengan dalil-dalil sebagai berikut.
 
@@ -5842,7 +5848,7 @@ Sementara itu, berkaitan dengan dalil para Pemohon yang mempersoalkan penghapusa
 
 Sedangkan, berkenaan dengan norma Pasal 65 dalam Pasal 81 angka 19 UU 6/2023 yang menghapus Pasal 65 UU 13/2003 dan Pasal 66 dalam Pasal 81 angka 20 UU 6/2023 telah ternyata tidak melanggar hak atas pekerjaan dan penghidupan yang layak serta perlindungan dan kepastian hukum yang adil sebagaimana diatur dalam Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945, bukan sebagaimana yang didalilkan oleh para Pemohon. Dengan demikian, dalil para Pemohon adalah tidak beralasan menurut hukum
 
-## Dalil Mengenai Cuti
+**Dalil Mengenai Cuti**
 
 [3.15.7] Bahwa menurut para Pemohon, norma Pasal 81 angka 25 UU 6/2023 yang mengubah ketentuan Pasal 79 UU 13/2003 bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1), Pasal 28D ayat (2), dan Pasal 28I ayat (4) UUD NRI Tahun 1945 dengan dalil-dalil sebagai berikut.
 
@@ -5910,7 +5916,7 @@ Berdasarkan uraian pertimbangan hukum tersebut di atas, untuk memberikan kepasti
 
 Sedangkan berkenaan dengan norma Pasal 79 ayat (2) huruf b dan Pasal 79 ayat (5) dalam Pasal 81 angka 25 UU 6/2023 telah ternyata menimbulkan ketidakpastian hukum dan jaminan perlindungan penghidupan yang layak sebagaimana diatur dalam Pasal 27 ayat (2) dan Pasal 28D ayat (1) UUD NRI Tahun 1945, namun bukan sebagaimana yang didalilkan para Pemohon. Dengan demikian, dalil para Pemohon adalah beralasan menurut hukum untuk sebagian.
 
-## Dalil Mengenai Upah
+**Dalil Mengenai Upah**
 
 [3.15.9] Bahwa para Pemohon mempersoalkan konstitusionalitas norma Pasal 81 angka 27 UU 6/2023 yang mengubah Pasal 88 UU 13/2003; Pasal 81 angka 28 UU 6/2023 yang menyisipkan Pasal 88A, Pasal 88B, Pasal 88C, Pasal 88D, Pasal 88E, dan Pasal 88F di antara Pasal 88 dan Pasal 89 UU 13/2003; Pasal 81 angka 29 UU 6/2023 yang menghapus Pasal 89 UU 13/2003; Pasal 81 angka 30 UU 6/2023 yang menghapus Pasal 90 UU 13/2003; Pasal 81 angka 31 UU 6/2023 yang menyisipkan Pasal 90A dan Pasal 90B di antara Pasal 90 dan Pasal 91 UU 13/2003; Pasal 81 angka 32 UU 6/2023 yang menghapus Pasal 91 UU 13/2003; Pasal 81 angka 33 UU 6/2023 yang mengubah Pasal 92 UU 13/2003; Penjelasan Pasal 81 angka 35 UU 6/2023 yang mengubah Pasal 94 UU 13/2003; Pasal 81 angka 36 UU 6/2023 yang mengubah Pasal 95 UU 13/2003; Pasal 81 angka 38 UU 6/2023 yang menghapus Pasal 97 UU 13/2003; Pasal 81 angka 39 UU 6/2023 yang mengubah Pasal 98 UU 13/2003 bertentangan dengan UUD NRI Tahun 1945, dengan dalil-dalil yang pada pokoknya sebagai berikut.
 
@@ -6020,7 +6026,7 @@ Berkenaan dengan persoalan konstitusionalitas norma yang didalilkan para Pemohon
 
 [3.15.9.2.1] Bahwa terkait dengan dalil para Pemohon yang mempersoalkan konstitusionalitas norma Pasal 88A ayat (7) dalam Pasal 81 angka 28 UU 6/2023 yang menetapkan sanksi denda untuk pekerja/buruh yang melakukan pelanggaran kesengajaan atau kelalaian yang berpotensi mengurangi perlindungan hukum yang adil dan merugikan hak-hak pekerja, sehingga bertentangan dengan Pasal 28D ayat (1) UUD NRI Tahun 1945. Terkait dengan dalil para Pemohon a quo, penting terlebih dahulu Mahakmah mengutip norma Pasal 88A UU 6/2023 yang menyatakan:
 
-## Pasal 88A
+**Pasal 88A**
 
 - (1) Hak Pekerja/Buruh atas Upah timbul pada saat terjadi Hubungan Kerja antara Pekerja/Buruh dengan Pengusaha dan berakhir pada saat putusnya Hubungan Kerja.
 - (2) Setiap Pekerja/Buruh berhak memperoleh Upah yang sama untuk pekerjaan yang sama nilainya.
@@ -6038,21 +6044,21 @@ Setelah Mahkamah membaca secara saksama keseluruhan norma Pasal 88A dalam Pasal 
 
 pengenaan denda terhadap pekerja/buruh, jika tidak diatur secara jelas dan transparan, berpotensi merugikan hak-hak pekerja/buruh. Berkenaan dengan hal tersebut, tanpa Mahkamah bermaksud menilai legalitas PP, dalam kaitan ini PP 36/2021 telah secara rinci mengatur mengenai denda sebagai berikut:
 
-## Pasal 59
+### Pasal 59 ^pasal-59
 
 (1) Pengusaha atau Pekerja/Buruh yang melanggar ketentuan dalam Perjanjian Kerja, Peraturan Perusahaan, atau Perjanjian Kerja Bersama karena kesengajaan atau kelalaiannya dikenakan denda apabila diatur secara tegas dalam Perjanjian Kerja, Peraturan Perusahaan, atau Perjanjian Kerja Bersama. (2) Dalam hal denda tidak diatur dalam Perjanjian Kerja, Peraturan Perusahaan, atau Perjanjian Kerja Bersama maka pengenaan denda
 
 - mengacu pada ketentuan yang berlaku dalam Peraturan Pemerintah ini.
 
-## Pasal 60
+### Pasal 60 ^pasal-60
 
 (1) Denda kepada Pengusaha atau Pekerja/Buruh sebagaimana dimaksud dalam Pasal 59 dipergunakan hanya untuk kepentingan Pekerja/Buruh. (2) Jenis pelanggaran yang dapat dikenakan denda, besaran denda, dan penggunaan uang denda diatur dalam Perjanjian Kerja, Peraturan Perusahaan, atau Perjanjian Kerja Bersama.
 
-## Pasal 61
+### Pasal 61 ^pasal-61
 
 - (1) Pengusaha yang terlambat membayar dan/ atau tidak membayar Upah sebagaimana dimaksud dalam Pasal 55 ayat (1) dikenai denda, dengan ketentuan: a. mulai dari hari keempat sampai hari kedelapan terhitung tanggal seharusnya Upah dibayar, dikenakan denda sebesar 5% (lima persen) untuk setiap hari keterlambatan dari Upah yang seharusnya dibayarkan; b. sesudah hari kedelapan, apabila Upah masih belum dibayar, dikenakan denda keterlambatan sebagaimana dimaksud pada huruf a ditambah 1% (satu persen) untuk setiap hari keterlambatan dengan ketentuan 1 (satu) bulan tidak boleh melebihi 50% (lima puluh persen) dari Upah yang seharusnya dibayarkan; dan c. sesudah sebulan, apabila Upah mash belum dibayar, dikenakan denda keterlambatan sebagaimana dimaksud pada huruf a dan huruf b ditambah bunga sebesar suku bunga tertinggi yang berlaku pada bank pemerintah. (2) Pengenaan denda sebagaimana dimaksud pada ayat (1) tidak menghilangkan kewajiban Pengusaha untuk tetap membayar Upah kepada Pekerja/Buruh.
 
-## Pasal 62
+### Pasal 62 ^pasal-62
 
 (1) Pengusaha yang terlambat membayar tunjangan hari raya keagamaan kepada Pekerja/Buruh dikenai denda sebesar 5% (lima persen) dari total tunjangan hari raya keagamaan yang harus dibayar sejak berakhirnya batas waktu kewajiban Pengusaha untuk membayar.
 
@@ -6064,7 +6070,7 @@ Berdasarkan uraian pertimbangan hukum di atas, dalil para Pemohon terkait norma 
 
 [3.15.9.2.2] Bahwa para Pemohon mendalilkan norma Pasal 88B dalam Pasal 81 angka 28 UU 6/2023 yang menyebutkan penetapan upah berdasarkan satuan waktu dan/atau hasil telah menimbulkan kekhawatiran tentang ketidakpastian dan adanya pemaknaan ganda. Para Pemohon berpendapat bahwa ketentuan ini dapat mengarah pada praktik pengupahan yang eksploitatif dan tidak sesuai dengan konsep upah minimum yang ada sebelumnya. Terhadap dalil para Pemohon a quo, penting bagi Mahkamah terlebih dahulu mengutip rumusan norma Pasal 88B UU 6/2023 yang menyatakan:
 
-## Pasal 88B
+**Pasal 88B**
 
 - (1) Upah ditetapkan berdasarkan:
 - a. satuan waktu; dan/atau
@@ -6073,14 +6079,14 @@ Berdasarkan uraian pertimbangan hukum di atas, dalil para Pemohon terkait norma 
 
 Bahwa satuan waktu dimaksud ditetapkan secara per-jam; harian; atau bulanan. Sedangkan, satuan hasil dimaksud didasarkan pada hasil pekerjaan yang telah disepakati antara pengusaha dan pekerja/buruh. Setelah Mahkamah mencermati secara saksama norma Pasal 88B dalam Pasal 81 angka 28 UU 6/2023, ketentuan a quo harus dipahami sebagai upaya untuk menciptakan fleksibilitas dalam penetapan upah sesuai dengan kondisi dan karakteristik pekerjaan tertentu. Ketentuan mengenai upah dapat ditetapkan berdasarkan satuan waktu dan/atau satuan hasil bukanlah otomatis bertentangan dengan perlindungan hak-hak pekerja, sepanjang penerapannya memperhatikan prinsip keadilan, kesejahteraan, dan kepastian hukum. Oleh karena itu, pengaturan lebih lanjut dalam peraturan pemerintah, sebagaimana diamanatkan oleh Pasal 88B ayat (2) dalam Pasal 81 angka 28 UU 6/2023, menjadi sangat penting untuk memastikan bahwa upah berdasarkan satuan hasil tidak membuka ruang bagi praktik eksploitatif yang merugikan pekerja/buruh. Hal tersebut sesungguhnya juga telah diatur dalam PP 36/2021, yang secara rinci telah mengatur mengenai upah berdasarkan satuan waktu dan/atau satuan hasil sebagai berikut:
 
-## Pasal 14
+### Pasal 14 ^pasal-14
 
 Upah ditetapkan berdasarkan:
 
 - a. satuan waktu; dan/atau
 - b. satuan hasil.
 
-## Pasal 15
+### Pasal 15 ^pasal-15
 
 Upah berdasarkan satuan waktu sebagaimana dimaksud dalam Pasal 14 huruf a ditetapkan secara:
 
@@ -6088,7 +6094,7 @@ Upah berdasarkan satuan waktu sebagaimana dimaksud dalam Pasal 14 huruf a diteta
 - b. harian; atau
 - c. bulanan.
 
-## Pasal 16
+### Pasal 16 ^pasal-16
 
 - (1) Penetapan Upah per jam hanya dapat diperuntukkan bagi Pekerja/Buruh yang bekerja secara paruh waktu.
 - (2) Upah per jam dibayarkan berdasarkan kesepakatan antara Pengusaha dan Pekerja/Buruh.
@@ -6099,7 +6105,7 @@ Upah berdasarkan satuan waktu sebagaimana dimaksud dalam Pasal 14 huruf a diteta
 
 - (6) Peninjauan sebagaimana dimaksud pada ayat (5) dilakukan dan ditetapkan hasilnya oleh Menteri dengan mempertimbangkan hasil kajian yang dilaksanakan oleh dewan pengupahan nasional.
 
-## Pasal 17
+### Pasal 17 ^pasal-17
 
 Dalam hal Upah ditetapkan secara harian, perhitungan Upah sehari sebagai
 
@@ -6107,7 +6113,7 @@ berikut: a. bagi Perusahaan dengan sistem waktu kerja 6 (enam) hari dalam seming
 
 - Upah sebulan dibagi 21 (dua puluh satu).
 
-## Pasal 18
+### Pasal 18 ^pasal-18
 
 - (1) Upah berdasarkan satuan hasil sebagaimana dimaksud dalam Pasal 14 huruf b ditetapkan sesuai dengan hasil pekerjaan yang telah disepakati.
 - (2) Penetapan besarnya Upah sebagaimana dimaksud pada ayat (1) dilakukan oleh Pengusaha berdasarkan hasil kesepakatan antara Pekerja/Buruh dengan Pengusaha.
@@ -6116,7 +6122,7 @@ Dalam kaitan ini, ketentuan mengenai upah berdasarkan satuan waktu mencakup skem
 
 [3.15.9.2.3] Bahwa para Pemohon mendalilkan Pasal 88C dalam Pasal 81 angka 28 UU 6/2023 yang menghapus ketentuan Upah Minimum Sektoral (UMS) dan Upah Minimum Kabupaten/Kota (UMK) dalam praktiknya dapat mengurangi perlindungan terhadap pekerja, sehingga negara tidak lagi memberikan perlindungan yang memadai terhadap hak-hak pekerja. Terhadap dalil para Pemohon a quo, penting bagi Mahkamah terlebih dahulu mengutip norma Pasal 88C dalam Pasal 81 angka 28 UU 6/2023 yang menyatakan:
 
-## Pasal 88C
+**Pasal 88C**
 
 - (1) Gubernur wajib menetapkan Upah minimum provinsi.
 - (2) Gubernur dapat menetapkan Upah minimum kabupaten/kota.
@@ -6128,7 +6134,7 @@ Dalam kaitan ini, ketentuan mengenai upah berdasarkan satuan waktu mencakup skem
 
 Bahwa ketentuan a quo harus dipahami dalam kerangka kebijakan ekonomi dan ketenagakerjaan yang berusaha menyeimbangkan antara perlindungan pekerja dan pertumbuhan ekonomi daerah. Norma Pasal 88C dalam Pasal 81 angka 28 UU 6/2023 mengatur gubernur wajib menetapkan upah minimum provinsi, dan dapat menetapkan upah minimum kabupaten/kota. Namun, para Pemohon mendalilkan bahwa penghapusan upah minimum sektoral dan upah minimum kabupaten/kota (UMK) dapat mengurangi perlindungan terhadap pekerja. Terhadap dalil para Pemohon a quo, penting bagi Mahkamah untuk terlebih dahulu menguraikan ketentuan mengenai upah minimum sektoral yang sebelumnya diatur dalam Pasal 89 UU 13/2003 yang kemudian dihapus oleh Pasal 89 dalam Pasal 81 angka 29 UU 6/2023. Ketentuan Pasal 89 UU 13/2003 yang telah dihapus sebelumnya menyatakan:
 
-## Pasal 89
+### Pasal 89 ^pasal-89
 
 - (1) Upah minimum sebagaimana dimaksud dalam Pasal 88 ayat (3) huruf a
 
@@ -6147,7 +6153,7 @@ Setelah Mahkamah membaca secara saksama ketentuan di atas, menurut Mahkamah, upa
 
 [3.15.9.2.4] Bahwa para Pemohon juga mendalilkan Pasal 88D dalam Pasal 81 angka 28 UU 6/2023 mengabaikan pencapaian Kebutuhan Hidup Layak (KHL) dalam penghitungan upah minimum dengan merujuk pada ketentuan Pasal 3 Konvensi ILO No. 131 yang menyarankan pertimbangan KHL, biaya hidup, dan faktor ekonomi lainnya dalam penetapan upah minimum. Terhadap dalil para Pemohon a quo, penting terlebih dahulu diuraikan secara komprehensif rumusan norma Pasal 88D dalam Pasal 81 angka 28 UU 6/2023 yang menyatakan:
 
-## Pasal 88D
+**Pasal 88D**
 
 - (1) Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (2) dihitung dengan menggunakan formula perhitungan upah minimum.
 - (2) Formula perhitungan upah minimum sebagaimana dimaksud pada ayat (1) mempertimbangkan variabel pertumbuhan ekonomi, inflasi, dan indeks tertentu.
@@ -6157,7 +6163,7 @@ Bahwa setelah Mahkamah membaca secara saksama norma Pasal 88D dalam Pasal 81 ang
 
 Sementara berkenaan dengan frasa 'indeks tertentu' sebagaimana dimaksud dalam Pasal 88D ayat (2) dalam Pasal 81 angka 28 UU 6/2023 merupakan salah satu variabel yang juga digunakan dalam formula perhitungan upah minimum, selain ekonomi dan inflasi. Terhadap hal tersebut, yang menjadi pertanyaan adalah apa yang dimaksud dengan frasa "indeks tertentu" dalam Pasal 88D ayat (2) dalam Pasal 81 angka 28 UU 6/2023, karena hal tersebut tidak diberikan penjelasan. Untuk menjawab pertanyaan tersebut, penting bagi Mahkamah untuk menguraikan terlebih dahulu berkenaan dengan formula penghitungan upah minimum, di mana hal tersebut juga diatur dalam PP 51/2023, tanpa Mahkamah bermaksud menilai legalitas PP yang telah secara rinci mengatur mengenai formula penghitungan upah minimum sebagai berikut:
 
-## Pasal 26
+### Pasal 26 ^pasal-26
 
 - (1) Provinsi atau kabupaten/kota yang memiliki Upah minimum sebagaimana dimaksud dalam Pasal 25 ayat (3) huruf a melakukan penyesuaian nilai Upah minimum setiap tahun.
 - (2) Penyesuaian nilai Upah minimum sebagaimana dimaksud pada ayat (1) dihitung menggunakan formula penghitungan Upah minimum dengan mempertimbangkan variabel pertumbuhan ekonomi, inflasi, dan indeks tertentu.
@@ -6175,7 +6181,7 @@ Sementara berkenaan dengan frasa 'indeks tertentu' sebagaimana dimaksud dalam Pa
 
 (9) Jika nilai penyesuaian Upah minimum sebagaimana dimaksud pada ayat (5) lebih kecil atau sama dengan 0 (nol), Upah minimum yang akan ditetapkan sama dengan nilai Upah minimum tahun berjalan. (10) Data yang digunakan untuk penghitungan nilai penyesuaian Upah minimum sebagaimana dimaksud pada ayat (5) bersumber dari lembaga yang berwenang di bidang statistik.
 
-## Pasal 26A
+**Pasal 26A**
 
 - (1) Dalam hal nilai Upah minimum tahun berjalan pada wilayah tertentu melebihi rata-rata konsumsi rumah tangga dibagi rata-rata banyaknya anggota rumah tangga yang bekerja pada provinsi atau kabupaten/kota,
 
@@ -6183,7 +6189,7 @@ nilai penyesuaian Upah minimum dihitung dengan ketentuan: Nilai Penyesuaian UM(t
 
 - yang berwenang di bidang statistik.
 
-## Pasal 26B
+**Pasal 26B**
 
 Hasil penghitungan nilai Upah minimum yang akan ditetapkan dapat dibulatkan ke atas hingga satu satuan rupiah.
 
@@ -6199,7 +6205,7 @@ penggunaan tingkat inflasi dalam perhitungan upah minimum pada dasarnya sama den
 
 ketidakpastian hukum. Terhadap dalil para Pemohon a quo, penting terlebih dahulu Mahkamah mengutip norma Pasal 88E UU 6/2023 yang menyatakan:
 
-## Pasal 88E
+**Pasal 88E**
 
 - (1) Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (2) berlaku bagi Pekerja/Buruh dengan masa kerja kurang dari 1 (satu)
 
@@ -6213,7 +6219,7 @@ Berdasarkan uraian pertimbangan hukum tersebut di atas, menurut Mahkamah norma P
 
 [3.15.9.2.6] Bahwa para Pemohon mendalilkan Pasal 88F dalam Pasal 81 angka 28 UU 6/2023 memperlemah perlindungan hak pekerja dengan memberikan kekuasaan yang berlebihan kepada pemerintah untuk menetapkan formula penghitungan upah minimum yang berbeda. Terhadap dalil para Pemohon a quo, penting terlebih dahulu Mahkamah mengutip norma Pasal 88F dalam Pasal 81 angka 28 UU 6/2023 yang menyatakan;
 
-## Pasal 88F
+**Pasal 88F**
 
 Dalam keadaan tertentu Pemerintah dapat menetapkan formula penghitungan Upah minimum yang berbeda dengan formula penghitungan Upah minimum sebagaimana dimaksud dalam Pasal 88D ayat (2).
 
@@ -6231,7 +6237,7 @@ dimohonkan pengujian dikaitkan dengan Pasal 151 ayat (1) dalam Pasal 81 angka 40
 
 mencermati keseluruhan norma Pasal 89 UU 13/2003 yang telah dihapus atau tidak berlaku lagi mengatur mengenai upah minimum sebagaimana dinyatakan:
 
-## Pasal 89
+### Pasal 89 ^pasal-89
 
 (1) Upah minimum sebagaimana dimaksud dalam Pasal 88 ayat (3) huruf a dapat terdiri atas:
 
@@ -6244,7 +6250,7 @@ mencermati keseluruhan norma Pasal 89 UU 13/2003 yang telah dihapus atau tidak b
 
 Terhadap norma yang dihapus tersebut, menurut Mahkamah, penghapusan Pasal 89 UU 13/2003 oleh Pasal 81 angka 29 UU 6/2023 merupakan bagian dari upaya pembentuk undang-undang untuk memperbaiki dan menyesuaikan sistem pengupahan secara komprehensif dalam rangka melakukan reformasi di bidang ketenagakerjaan. Sebab, ketentuan mengenai 'upah minimum' juga telah diatur dan diakomodir, antara lain dalam Pasal 88C, Pasal 88D, Pasal 88E, dan Pasal 88F dalam Pasal 81 angka 28 UU 6/2023. Berkenaan dengan hal tersebut, Mahkamah perlu menegaskan bahwa dengan dihapusnya norma Pasal 89 UU 13/2003 dapat dibenarkan. Terlebih, upah minimum telah diatur dan diakomodir, antara lain dalam Pasal 88C, Pasal 88D, Pasal 88E, dan Pasal 88F dalam Pasal 81 angka 28 UU 6/2023. Oleh karena itu, tidak terdapat alasan yang kuat bagi Mahkamah untuk memberlakukan kembali norma a quo sebagaimana dimohonkan oleh para Pemohon. Dengan demikian, dalil para Pemohon a quo adalah tidak beralasan menurut hukum. [3.15.9.4] Bahwa para Pemohon mendalilkan norma Pasal 90 yang telah dihapus oleh Pasal 81 angka 30 UU 6/2023 bertentangan dengan UUD NRI Tahun 1945, dan memohon untuk memberlakukan kembali Pasal 90 UU 13/2003. Menurut para Pemohon, norma Pasal 90 UU 13/2003 sebelumnya mengatur larangan bagi pengusaha untuk membayar upah di bawah upah minimum, serta memberikan mekanisme penangguhan pembayaran upah minimum bagi pengusaha yang tidak mampu. Dengan dihapuskan Pasal 90 melalui Pasal 81 angka 30 UU 6/2023, tidak ada lagi ketentuan eksplisit yang melarang pengusaha membayar upah di bawah upah minimum. Berkenaan dengan dalil para Pemohon a quo, penting bagi Mahkamah untuk terlebih dahulu mengutip Pasal 90 UU 13/2003 yang menyatakan:
 
-## Pasal 90
+### Pasal 90 ^pasal-90
 
 - (1) Pengusaha dilarang membayar upah lebih rendah dari upah minimum sebagaimana dimaksud dalam Pasal 89.
 
@@ -6255,11 +6261,11 @@ Terhadap norma yang dihapus tersebut, menurut Mahkamah, tidak menyebabkan pengus
 
 [3.15.9.5] Bahwa para Pemohon mendalilkan norma Pasal 90A dan Pasal 90B dalam Pasal 81 angka 31 UU 6/2023 adalah bertentangan dengan UUD NRI Tahun 1945. Menurut para Pemohon, Pasal 90A dalam Pasal 81 angka 31 UU 6/2023 yang mengatur mengenai upah di atas upah minimum ditetapkan berdasarkan kesepakatan antara pengusaha dan pekerja/buruh di perusahaan, tanpa melibatkan serikat pekerja/serikat buruh. Para Pemohon juga mendalilkan bahwa Pasal 90A dalam Pasal 81 angka 31 UU 6/2023 tidak harmonis dengan Pasal 88A dalam Pasal 81 angka 28 UU 6/2023, yang mengatur bahwa pengaturan pengupahan harus melibatkan serikat pekerja/serikat buruh dan upah minimum tidak boleh lebih rendah dari ketentuan peraturan perundang-undangan. Selanjutnya, berkenaan dengan pengujian Pasal 90B dalam Pasal 81 angka 31 UU 6/2023, para Pemohon mendalilkan bahwa upah minimum tidak berlaku untuk usaha mikro dan kecil, serta penetapan upah hanya berdasarkan persentase konsumsi masyarakat. Terhadap dalil para Pemohon a quo, penting terlebih dahulu Mahkamah mengutip norma Pasal 90A dan Pasal 90B dalam Pasal 81 angka 31 UU 6/2023 yang menyatakan:
 
-## Pasal 90A
+**Pasal 90A**
 
 Upah di atas Upah minimum ditetapkan berdasarkan kesepakatan antara Pengusaha dan Pekerja/Buruh di perusahaan.
 
-## Pasal 90B
+**Pasal 90B**
 
 - (1) Ketentuan Upah minimum sebagaimana dimaksud dalam Pasal 88C ayat (1) dan ayat (2) dikecualikan bagi Usaha Mikro dan Kecil.
 - (2) Upah pada usaha mikro dan kecil ditetapkan berdasarkan kesepakatan antara Pengusaha dan Pekerja/Buruh di perusahaan.
@@ -6288,7 +6294,7 @@ Berkenaan dengan norma yang dipersoalkan oleh para Pemohon tersebut, karena dian
 
 pertumbuhan dan keberlanjutan sektor usaha tersebut. Dalam praktik, UMK menghadapi tantangan yang berbeda dibandingkan dengan usaha menengah dan besar, sehingga penetapan upah berdasarkan kesepakatan antara pengusaha dan pekerja/buruh menjadi solusi yang proporsional. Ketentuan mengenai upah pada UMK yang harus sekurang-kurangnya sebesar persentase tertentu dari rata-rata konsumsi masyarakat, berdasarkan data statistik resmi, juga menunjukkan adanya upaya menjaga keseimbangan antara kebutuhan pekerja dan kemampuan pengusaha yang berusaha di sektor UMK. Lebih lanjut, ketentuan mengenai penetapan upah dalam UMK juga telah diatur dalam PP 36/2021, sebagai berikut:
 
-## Pasal 36
+### Pasal 36 ^pasal-36
 
 - (1) Ketentuan Upah minimum sebagaimana dimaksud dalam Pasal 23 sampai dengan Pasal 35 dikecualikan bagi usaha mikro dan usaha kecil.
 - (2) Upah pada usaha mikro dan usaha kecil ditetapkan berdasarkan kesepakatan antara Pengusaha dengan Pekerja/Buruh di Perusahaan dengan ketentuan:
@@ -6296,11 +6302,11 @@ pertumbuhan dan keberlanjutan sektor usaha tersebut. Dalam praktik, UMK menghada
 - b. nilai Upah yang disepakati paling sedikit 25% (dua puluh lima persen) di atas garis kemiskinan di tingkat provinsi.
 - (3) Rata-rata konsumsi masyarakat dan garis kemiskinan sebagaimana dimaksud pada ayat (2) huruf a dan huruf b menggunakan data yang bersumber dari lembaga yang berwenang di bidang statistik.
 
-## Pasal 37
+### Pasal 37 ^pasal-37
 
 Usaha mikro dan usaha kecil sebagaimana dimaksud dalam Pasal 36 ayat (1) harus memenuhi kriteria tertentu yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.
 
-## Pasal 38
+### Pasal 38 ^pasal-38
 
 Usaha mikro dan usaha kecil yang dikecualikan dari ketentuan Upah minimum wajib mempertimbangkan faktor sebagai berikut:
 
@@ -6317,7 +6323,7 @@ kembali Pasal 91 UU 13/2003. Menurut para Pemohon, norma Pasal 91 UU 13/2003 yan
 
 Bahwa berkenaan dengan dalil para Pemohon a quo, setelah Mahkamah mencermati keseluruhan norma Pasal 81 angka 32 UU 6/2023, jika dibandingkan dengan ketentuan dalam undang-undang sebelumnya, in casu UU 13/2003, benar norma Pasal 91 UU 13/2003 telah dihapus atau tidak berlaku lagi. Norma yang mengatur mengenai kesepakatan pengupahan antara pengusaha dan pekerja/ buruh tidak boleh lebih rendah dari ketentuan pengupahan yang berlaku sebagaimana diatur dalam Pasal 91 UU 13/2003 yang dihapus dengan Pasal 81 angka 32 UU 6/2023. Dalam kaitan ini, penting bagi Mahkamah untuk menjelaskan norma yang terdapat dalam Pasal 91 UU 13/2003 yang sebelumnya menyatakan:
 
-## Pasal 91
+### Pasal 91 ^pasal-91
 
 - (1) Pengaturan pengupahan yang ditetapkan atas kesepakatan antara pengusaha dan pekerja/buruh atau serikat pekerja/serikat buruh tidak boleh lebih rendah dari ketentuan pengupahan yang ditetapkan peraturan perundang-undangan yang berlaku.
 - (2) Dalam hal kesepakatan sebagaimana dimaksud dalam ayat (1) lebih rendah atau bertentangan dengan peraturan perundang-undangan, kesepakatan tersebut batal demi hukum, dan pengusaha wajib membayar upah pekerja/buruh menurut peraturan perundangundangan yang berlaku.
@@ -6328,23 +6334,25 @@ upah minimum [vide Pasal 88C, Pasal 88D, Pasal 88E, dan Pasal 88F dalam Pasal Be
 
 penting terlebih dahulu bagi Mahkamah untuk memahami secara komprehensif penormaan yang dimohonkan pengujian yang disandingkan dengan pengaturan baik dalam UU 13/2003 maupun dalam peraturan pelaksananya PP 36/2021 sebagai berikut.
 
-## Pasal 92 ayat (1) dalam Pasal 81 angka 33 UU 6/2023
+**Pasal 92 ayat (1) dalam Pasal 81 angka 33 UU 6/2023**
 
 Pengusaha wajib menyusun struktur dan skala Upah di Perusahaan dengan memperhatikan kemampuan perusahaan dan produktivitas.
 
-## Pasal 92 ayat (1) UU 13/2023
+**Pasal 92 ayat (1) UU 13/2023**
 
 Pengusaha menyusun struktur dan skala upah dengan memperhatikan golongan, jabatan, masa kerja, pendidikan, dan kompetensi.
 
-## Penjelasan Pasal 92 ayat (1) UU 13/2023
+## Penjelasan
+
+### I. Umum
 
 Penyusunan struktur dan skala upah dimaksudkan sebagai pedoman penetapan upah sehingga terdapat kepastian upah tiap pekerja/buruh serta untuk mengurangi kesenjangan antara upah terendah dan tertinggi di perusahaan yang bersangkutan.
 
-## Pasal 21 PP 36/2021
+**Pasal 21 PP 36/2021**
 
 Pengusaha wajib menyusun dan menerapkan struktur dan skala Upah di Perusahaan dengan memperhatikan kemampuan Perusahaan dan produktivitas.
 
-## Penjelasan Pasal 21 PP 36/2021
+**Penjelasan Pasal 21 PP 36/2021**
 
 Faktor yang digunakan/dipilih untuk menilai atau membobot jabatan yang dapat dikompensasikan (compensable factor) dalam penyusunan struktur dan skala Upah antara lain pendidikan, keterampilan, dan pengalaman yang dipersyaratkan oleh jabatan
 
@@ -6368,7 +6376,7 @@ Bahwa berdasarkan seluruh uraian pertimbangan hukum tersebut di atas, norma Pasa
 
 [3.15.9.8] Bahwa para Pemohon juga mempersoalkan konstitusionalitas Penjelasan Pasal 94 dalam Penjelasan Pasal 81 angka 35 UU 6/2023 yang berbunyi, 'Yang dimaksud dengan 'tunjangan tetap' adalah pembayaran kepada Pekerja/Buruh yang dilakukan secara teratur dan tidak dikaitkan dengan kehadiran Pekerja/Buruh atau pencapaian prestasi kerja tertentu', karena mereduksi hak pekerja untuk mendapatkan imbalan yang adil, khususnya terkait dengan tunjangan tetap yang tidak lagi memperhitungkan kehadiran dan prestasi. Menurut para Pemohon, kehadiran dan prestasi kerja seharusnya diperhitungkan dalam tunjangan tetap. Oleh karena itu, para Pemohon memohon agar Penjelasan Pasal 94 dalam Pasal 81 angka 35 UU 6/2023 yang mengubah dimaknai 'Yang dimaksud dengan 'tunjangan tetap' adalah pembayaran kepada pekerja/buruh yang dilakukan secara teratur dan dikaitkan dengan kehadiran pekerja/buruh atau pencapaian prestasi kerja tertentu'. Setelah Mahkamah membaca secara saksama rumusan norma dalam Pasal 94 UU 13/2003 dan Pasal 81 angka 35 UU 6/2023 pada prinsipnya tidak ada perubahan yang substantif, hanya terdapat penyesuaian terkait dengan kata 'dari' menjadi 'atas' dan frasa 'sedikit-dikitnya' menjadi 'paling sedikit'. Sementara itu, pada bagian Penjelasan Pasal 94 UU 13/2003 dan Penjelasan Pasal 94 dalam Pasal 81 angka 35 UU 6/2023 pada prinsipnya perbedaan terletak pada tunjangan tetap yang tidak dikaitkan dengan kehadiran pekerja/buruh atau pencapaian prestasi kerja tertentu. Sehingga, yang dipersoalkan oleh para Pemohon adalah substansi penjelasan yang tidak mempertimbangkan kehadiran dan prestasi tertentu yang mereduksi hak para Pemohon untuk mendapatkan imbalan yang adil. Dalam kaitan dengan dalil para Pemohon a quo, tanpa Mahkamah bermaksud menilai legalitas PP 36/2021, hal tersebut telah diatur secara rinci dalam Pasal 7 PP 36/2021, sebagai berikut:
 
-## Pasal 7
+**Pasal 7**
 
 - (1) Upah terdiri atas komponen:
 - a. Upah tanpa tunjangan;
@@ -6398,7 +6406,7 @@ Bahwa sebelum Mahkamah mempertimbangkan dalil a quo, penting bagi Mahkamah untuk
 - (2) Upah Pekerja/Buruh sebagaimana dimaksud pada ayat (1) didahulukan pembayarannya sebelum pembayaran kepada semua kreditur.
 - (3) Hak lainnya dari Pekerja/Buruh sebagaimana dimaksud pada ayat (1) didahulukan pembayarannya atas semua kreditur kecuali para kreditur pemegang hak jaminan kebendaan.
 
-## Penjelasan ayat (1)
+**Penjelasan ayat (1)**
 
 Yang dimaksud dengan "didahulukan pembayarannya" yaitu pembayaran Upah Pekerja/Buruh didahulukan dari semua jenis kreditur termasuk kreditur separatis atau kreditur pemegang hak jaminan kebendaan, tagihan hak negara, kantor lelang dan badan umum yang dibentuk pemerintah.
 
@@ -6426,7 +6434,7 @@ Terkait dengan dalil para Pemohon a quo, setelah Mahkamah membaca secara saksama
 
 [3.15.9.11] Bahwa menurut para Pemohon, norma Pasal 98 dalam Pasal 81 angka 39 UU 6/2023 inkonstitusional karena menyederhanakan peran Dewan Pengupahan hanya sebagai pemberi saran dan pertimbangan, tanpa kewenangan merumuskan kebijakan, sehingga mengurangi akses serikat pekerja untuk memperjuangkan kepentingan pekerja secara efektif. Para Pemohon juga mendalilkan perubahan tersebut dipandang sebagai upaya sentralisasi kewenangan dalam penetapan kebijakan pengupahan di tangan pemerintah yang berpotensi melemahkan peran partisipatif dari unsur di Dewan Pengupahan, khususnya serikat pekerja. Oleh karena itu, menurut para Pemohon norma a quo bertentangan dengan Pasal 28 dan Pasal 28C UUD NRI Tahun 1945, dan memohon agar Pasal 98 UU 13/2003 diberlakukan kembali. Terkait dengan dalil para Pemohon a quo, penting terlebih dahulu bagi Mahkamah untuk mengutip norma Pasal 98 dalam Pasal 81 angka 39 UU 6/2023 yang menyatakan:
 
-## Pasal 98
+**Pasal 98**
 
 - (1) Untuk memberikan saran dan pertimbangan kepada Pemerintah Pusat atau Pemerintah Daerah dalam perumusan kebijakan pengupahan serta pengembangan sistem pengupahan dibentuk dewan pengupahan.
 - (2) Dewan pengupahan terdiri atas unsur Pemerintah, organisasi pengusaha, serikat pekerja/serikat buruh, pakar, dan akademisi.
@@ -6446,7 +6454,7 @@ Berdasarkan uraian pertimbangan hukum tersebut di atas, norma Pasal 98 ayat (1) 
 
 Sementara itu, berkenaan dengan norma Pasal 88 ayat (1), Pasal 88 ayat (2), Pasal 88 ayat (3) huruf b dalam Pasal 81 angka 27 UU 6/2023; Pasal 88C, Pasal 88D ayat (2), Pasal 88F dalam Pasal 81 angka 28 UU 6/2023; Pasal 90A dalam Pasal 81 angka 31 UU 6/2023; Pasal 92 ayat (1) dalam Pasal 81 angka 33 UU 6/2023; Pasal 95 ayat (3) dalam Pasal 81 angka 36 UU 6/2023; dan Pasal 98 ayat (1) dalam Pasal 81 angka 39 UU 6/2023, telah ternyata menimbulkan ketidakpastian hukum dan jaminan perlindungan penghidupan yang layak sebagaimana diatur dalam Pasal 27 ayat (2) dan Pasal 28D ayat (1) UUD NRI Tahun 1945, namun bukan sebagaimana yang didalilkan para Pemohon. Dengan demikian, dalil para Pemohon adalah beralasan menurut hukum untuk sebagian.
 
-## Dalil Mengenai Pemutusan Hubungan Kerja (PHK)
+**Dalil Mengenai Pemutusan Hubungan Kerja (PHK)**
 
 [3.15.11] Menimbang bahwa para Pemohon mendalilkan norma Pasal 81 angka 40 UU 6/2023 yang mengubah Pasal 151 ayat (4) UU 13/2003; Pasal 81 angka 41 UU 6/2023 yang menyisipkan ketentuan Pasal 151A di antara Pasal 151 dan Pasal 152 UU 13/2003; Pasal 81 angka 45 UU 6/2023 yang menyisipkan Pasal 154A di
 
@@ -6591,7 +6599,7 @@ Berdasarkan uraian pertimbangan hukum tersebut di atas, dalil para Pemohon berke
 
 Sementara itu, berkenaan dengan norma Pasal 151 ayat (3) dan ayat (4) dalam Pasal 81 angka 40 UU 6/2023 dan Pasal 157A ayat (3) dalam Pasal 81 angka 49 UU 6/2023 telah ternyata menimbulkan ketidakpastian hukum dan jaminan perlindungan penghidupan yang layak sebagaimana diatur dalam Pasal 27 ayat (2) dan Pasal 28D ayat (1) UUD NRI Tahun 1945, namun bukan sebagaimana yang didalilkan para Pemohon. Dengan demikian dalil para Pemohon adalah beralasan menurut hukum untuk sebagian.
 
-## Dalil Mengenai Uang Pesangon (UP), Uang Penggantian Hak (UPH), dan Uang Penghargaan Masa Kerja (UPMK)
+**Dalil Mengenai Uang Pesangon (UP), Uang Penggantian Hak (UPH), dan Uang Penghargaan Masa Kerja (UPMK)**
 
 [3.15.13] Bahwa para Pemohon mendalilkan norma Pasal 81 angka 47 UU 6/2023 yang mengubah Pasal 156 UU 13/2003, Pasal 81 angka 53 sampai dengan Pasal 81 angka 64 UU 6/2023 (kecuali Pasal 81 angka 60, Pasal 81 angka 62, dan Pasal 81 angka 63) yang masing-masing menghapus ketentuan Pasal 161 sampai dengan Pasal 172 UU 13/2003 (kecuali Pasal 168, Pasal 170, dan Pasal 171) bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945 dengan dalil-dalil sebagai berikut.
 
@@ -6651,13 +6659,13 @@ Dengan demikian, berdasarkan pertimbangan hukum tersebut, menurut Mahkamah permo
 
 [3.15.13.3] Bahwa selanjutnya para Pemohon mempersoalkan norma Pasal 161 dalam Pasal 81 angka 53 UU 6/2023; Pasal 162 dalam Pasal 81 angka 54 UU 6/2023, Pasal 163 dalam Pasal 81 angka 55 UU 6/2023; Pasal 164 dalam Pasal 81 angka 56 UU 6/2023; Pasal 165 dalam Pasal 81 angka 57 UU 6/2023; Pasal 166 dalam Pasal 81 angka 58 UU 6/2023; Pasal 167 dalam Pasal 81 angka 59 UU 6/2023; Pasal 169 dalam Pasal 81 angka 61 UU 6/2023; dan Pasal 172 dalam Pasal 81 angka 64 UU 6/2023 yang telah menghapus norma Pasal 161, Pasal 162, Pasal 163, Pasal 164, Pasal 165, Pasal 167, Pasal 169, dan Pasal 172 UU 13/2003. Menurut para Pemohon, penghapusan norma tersebut bertentangan dengan Pasal 27 ayat (2), Pasal 28D ayat (1) dan ayat (2) UUD NRI Tahun 1945, sehingga memohon kepada Mahkamah untuk memberlakukan kembali norma pasal-pasal a quo yang telah dihapus. Berkenaan dengan persoalan di atas, Mahkamah akan mengutip terlebih dahulu norma pasal-pasal yang dihapus.
 
-## Pasal 161 UU 13/2003:
+**Pasal 161 UU 13/2003:**
 
 - (1) Dalam hal pekerja/buruh melakukan pelanggaran ketentuan yang diatur dalam perjanjian kerja, peraturan perusahaan atau perjanjian kerja bersama, pengusaha dapat melakukan pemutusan hubungan kerja, setelah kepada pekerja/buruh yang bersangkutan diberikan surat peringatan pertama, kedua, dan ketiga secara berturut-turut.
 - (2) Surat peringatan sebagaimana dimaksud dalam ayat (1) masingmasing berlaku untuk paling lama 6 (enam) bulan, kecuali ditetapkan lain dalam perjanjian kerja, peraturan perusahaan atau perjanjian kerja bersama.
 - (3) Pekerja/buruh yang mengalami pemutusan hubungan kerja dengan alasan sebagaimana dimaksud dalam ayat (1) memperoleh uang pesangon sebesar 1 (satu) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja sebesar 1 (satu) kali ketentuan Pasal 156 ayat (3) dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4).
 
-## Pasal 162 UU 13/2003:
+**Pasal 162 UU 13/2003:**
 
 - (1) Pekerja/buruh yang mengundurkan diri atas kemauan sendiri, memperoleh uang penggantian hak sesuai ketentuan Pasal 156 ayat (4).
 - (2) Bagi pekerja/buruh yang mengundurkan diri atas kemauan sendiri, yang tugas dan fungsinya tidak mewakili kepentingan pengusaha secara langsung, selain menerima uang penggantian hak sesuai ketentuan Pasal 156 ayat (4) diberikan uang pisah yang besarnya dan pelaksanaannya diatur dalam perjanjian kerja, peraturan perusahaan atau perjanjian kerja bersama.
@@ -6672,15 +6680,15 @@ Dengan demikian, berdasarkan pertimbangan hukum tersebut, menurut Mahkamah permo
 
 (4) Pemutusan hubungan kerja dengan alasan pengunduran diri atas kemauan sendiri dilakukan tanpa penetapan lembaga penyelesaian perselisihan hubungan industrial
 
-## Pasal 163 UU 13/2003:
+**Pasal 163 UU 13/2003:**
 
 (1) Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh dalam hal terjadi peru-bahan status, penggabungan, peleburan, atau perubahan kepemilikan perusahaan dan pekerja/buruh tidak bersedia melanjutkan hubungan kerja, maka pekerja/buruh berhak atas uang pesangon sebesar 1 (satu) kali sesuai ketentuan Pasal 156 ayat (2), uang perhargaan masa kerja 1 (satu) kali ketentuan Pasal 156 ayat (3) dan uang penggantian hak sesuai ketentuan dalam Pasal 156 ayat (4). (2) Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh karena perubahan status, penggabungan, atau peleburan perusahaan, dan pengusaha tidak bersedia menerima pekerja/buruh di perusahaannya, maka pekerja/buruh berhak atas uang pesangon sebesar 2 (dua) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja 1 (satu) kali ketentuan dalam Pasal 156 ayat (3), dan uang penggantian hak sesuai ketentuan dalam Pasal 156 ayat (4).
 
-## Pasal 164 UU 13/2003:
+**Pasal 164 UU 13/2003:**
 
 (1) Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh karena perusahaan tutup yang disebabkan perusahaan mengalami kerugian secara terus menerus selama 2 (dua) tahun, atau keadaan memaksa (force majeur), dengan ketentuan pekerja/buruh berhak atas uang pesangon sebesar 1 (satu) kali ketentuan Pasal 156 ayat (2) uang penghargaan masa kerja sebesar 1 (satu) kali ketentuan Pasal 156 ayat (3) dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4). (2) Kerugian perusahaan sebagaimana dimaksud dalam ayat (1) harus dibuktikan dengan laporan keuangan 2 (dua) tahun terakhir yang telah diaudit oleh akuntan publik. (3) Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh karena perusahaan tutup bukan karena mengalami kerugian 2 (dua) tahun berturut-turut atau bukan karena keadaan memaksa (force majeur) tetapi perusahaan melakukan efisiensi, dengan ketentuan pekerja/buruh berhak atas uang pesangon sebesar 2 (dua) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja sebesar 1 (satu) kali ketentuan Pasal 156 ayat (3) dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4).
 
-## Pasal 165 UU 13/2003:
+**Pasal 165 UU 13/2003:**
 
 Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/ buruh karena perusahaan pailit, dengan ketentuan pekerja/buruh berhak atas
 
@@ -6688,15 +6696,15 @@ Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/ buruh karen
 
 uang pesangon sebesar 1 (satu) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja sebesar 1 (satu) kali ketentuan Pasal 156 ayat (3) dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4).
 
-## Pasal 166 UU 13/2003:
+**Pasal 166 UU 13/2003:**
 
 Dalam hal hubungan kerja berakhir karena pekerja/buruh meninggal dunia, kepada ahli warisnya diberikan sejumlah uang yang besar perhitungannya sama dengan perhitungan 2 (dua) kali uang pesangon sesuai ketentuan Pasal 156 ayat (2), 1 (satu) kali uang penghargaan masa kerja sesuai ketentuan Pasal 156 ayat (3), dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4).
 
-## Pasal 167 UU 13/2003:
+**Pasal 167 UU 13/2003:**
 
 (1) Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh karena memasuki usia pensiun dan apabila pengusaha telah mengikutkan pekerja/buruh pada program pensiun yang iurannya dibayar penuh oleh pengusaha, maka pekerja/buruh tidak berhak mendapatkan uang pesangon sesuai ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja sesuai ketentuan Pasal 156 ayat (3), tetapi tetap berhak atas uang penggantian hak sesuai ketentuan Pasal 156 ayat (4). (2) Dalam hal besarnya jaminan atau manfaat pensiun yang diterima sekaligus dalam program pensiun se-bagaimana dimaksud dalam ayat (1) ternyata lebih kecil daripada jumlah uang pesangon 2 (dua) kali ketentuan Pasal 156 ayat (2) dan uang penghargaan masa kerja 1 (satu) kali ketentuan Pasal 156 ayat (3), dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4), maka selisihnya dibayar oleh pengusaha (3) Dalam hal pengusaha telah mengikutsertakan pekerja/buruh dalam program pensiun yang iurannya/premi-nya dibayar oleh pengusaha dan pekerja/buruh, maka yang diperhitungkan dengan uang pesangon yaitu uang pensiun yang premi/iurannya dibayar oleh pengusaha. (4) Ketentuan sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) dapat diatur lain dalam perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama. (5) (5) Dalam hal pengusaha tidak mengikutsertakan pekerja/buruh yang mengalami pemutusan hubungan kerja karena usia pensiun pada program pensiun maka pengusaha wajib memberikan kepada pekerja/buruh uang pesangon sebesar 2 (dua) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja 1 (satu) kali ketentuan Pasal 156 ayat (3) dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4). (6) Hak atas manfaat pensiun sebagaimana yang dimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4) tidak menghilangkan hak pekerja/buruh atas jaminan hari tua yang bersifat wajib sesuai dengan peraturan perundangundangan yang berlaku.
 
-## Pasal 169 UU 13/2003:
+**Pasal 169 UU 13/2003:**
 
 (1) Pekerja/buruh dapat mengajukan permohonan pemutusan hubungan kerja kepada lembaga penyelesaian perselisihan hubungan industrial dalam hal pengusaha melakukan perbuatan sebagai berikut:
 
@@ -6712,7 +6720,7 @@ Dalam hal hubungan kerja berakhir karena pekerja/buruh meninggal dunia, kepada a
 
 (2) Pemutusan hubungan kerja dengan alasan sebagaimana dimaksud dalam ayat (1) pekerja/buruh berhak mendapat uang pesangon 2 (dua) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja 1 (satu) kali ketentuan Pasal 156 ayat (3), dan uang penggantian hak sesuai ketentuan Pasal 156 ayat (4). (3) Dalam hal pengusaha dinyatakan tidak melakukan perbuatan sebagaimana dimaksud dalam ayat (1) oleh lembaga penyelesaian perselisihan hubungan industrial maka pengusaha dapat melakukan pemutusan hubungan kerja tanpa penetapan lembaga penyelesaian perselisihan hubungan industrial dan pekerja/buruh yang bersangkutan tidak berhak atas uang pesangon sesuai ketentuan Pasal 156 ayat (2), dan uang penghargaan masa kerja sesuai ketentuan Pasal 156 ayat (3).
 
-## Pasal 172 UU 13/2003:
+**Pasal 172 UU 13/2003:**
 
 Pekerja/buruh yang mengalami sakit berkepanjangan, mengalami cacat akibat kecelakaan kerja dan tidak dapat melakukan pekerjaannya setelah melampaui batas 12 (dua belas) bulan dapat mengajukan pemutusan hubungan kerja dan diberikan uang pesangon 2 (dua) kali ketentuan Pasal 156 ayat (2), uang penghargaan masa kerja 2 (dua) kali ketentuan Pasal 156 ayat (3), dan uang pengganti hak 1 (satu) kali ketentuan Pasal 156 ayat (4). Setelah Mahkamah mencermati secara saksama norma pasal-pasal di atas, ternyata sebagian telah diatur antara lain dalam norma Pasal 153 ayat (2) dalam Pasal 81 angka 43 dan Pasal 154A dalam Pasal 81 angka 45 UU 6/2023 juga diatur secara tersebar antara lain dalam Pasal 36, Pasal 40, Pasal 41, Pasal 43, Pasal 44, Pasal 45, Pasal 46, Pasal 47 beserta Penjelasannya, Pasal 52 beserta Penjelasannya terkait audit, Pasal 55, Pasal 56, Pasal 57, dan Pasal 58 PP 35/2021. Pengaturannya tidak dilakukan secara sistematis sehingga menyulitkan untuk mensinkronkan antara norma yang dihapus dan yang masih tetap berlaku dalam Pasal 81 UU 6/2023. Terlebih, terhadap norma yang sudah dihapus telah ternyata masih diberlakukan dalam PP 35/2021, sehingga PP a quo tidak memiliki kejelasan dasar pengaturannya. Dengan demikian, berdasarkan pertimbangan hukum tersebut di atas, menurut Mahkamah oleh karena sebagian norma yang telah dihapus telah ternyata tetap diatur dalam UU 6/2023 meskipun tidak disusun secara sistematis, hal
 
@@ -6744,7 +6752,7 @@ Berdasarkan seluruh fakta yang dikemukakan di atas, perhimpitan norma yang diatu
 
 [3.17] Menimbang bahwa terhadap hal-hal lain dan selebihnya tidak dipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.
 
-## KONKLUSI:
+**KONKLUSI:**
 
 Berdasarkan penilaian atas fakta dan hukum sebagaimana diuraikan di atas, Mahkamah berkesimpulan:
 
@@ -6759,9 +6767,9 @@ Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang adalah beralasan menurut hu
 
 Berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 7 Tahun 2020 tentang Perubahan Ketiga Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 216, Tambahan Lembaran Negara Republik Indonesia Nomor 6554), dan UndangUndang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 5076);
 
-## 5. AMAR PUTUSAN
+**5. AMAR PUTUSAN**
 
-## Mengadili:
+**Mengadili:**
 
 1. Mengabulkan permohonan para Pemohon untuk sebagian;
 2. Menyatakan frasa 'Pemerintah Pusat' dalam Pasal 42 ayat (1) dalam Pasal 81 angka 4 Lampiran Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856) bertentangan dengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan tidak memiliki kekuatan hukum mengikat sepanjang tidak dimaknai, 'menteri yang bertanggungjawab di bidang (urusan) ketenagakerjaan, in casu menteri Tenaga Kerja';
@@ -6806,13 +6814,13 @@ Demikian diputus dalam Rapat Permusyawaratan Hakim oleh sembilan Hakim Konstitus
 
 <!-- image -->
 
-## KETUA,
+**KETUA,**
 
 ttd.
 
-## Suhartoyo
+**Suhartoyo**
 
-## ANGGOTA-ANGGOTA,
+**ANGGOTA-ANGGOTA,**
 
 ttd.
 
@@ -6844,6 +6852,6 @@ ttd.
 
 Arsul Sani
 
-## PANITERA PENGGANTI, ttd.
+**PANITERA PENGGANTI, ttd.**
 
 Saiful Anwar

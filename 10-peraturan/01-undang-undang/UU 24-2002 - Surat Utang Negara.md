@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Surat Utang Negara
+**Surat Utang Negara**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -37,7 +43,7 @@ last_updated: 2026-10-28
 PRESIDEN
 REPUBLIK INDONESIA
 
-# UNDANG-UNDANG REPUBLIK INDONESIA
+**UNDANG-UNDANG REPUBLIK INDONESIA**
  NOMOR 24 TAHUN 2002
  TENTANG SURAT UTANG NEGARA
 
@@ -67,14 +73,13 @@ REPUBLIK INDONESIA
 
  3. Undang…
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 2 
-# 3. Undang-undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 31, Tambahan Lembaran Negara Nomor 3472) sebagaimana telah diubah dengan Undang-undang Nomor 10 Tahun 1998 (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 182, Tambahan Lembaran Negara Nomor 3790);
+                     - 2
+**3. Undang-undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 31, Tambahan Lembaran Negara Nomor 3472) sebagaimana telah diubah dengan Undang-undang Nomor 10 Tahun 1998 (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 182, Tambahan Lembaran Negara Nomor 3790);**
 
  4. Undang-undang Nomor 8 Tahun 1995 tentang Pasar Modal (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 64, Tambahan Lembaran Negara Nomor 3608);
 
@@ -88,13 +93,13 @@ REPUBLIK INDONESIA
 
  BAB I KETENTUAN UMUM
 
- Pasal 1
+### Pasal 1 ^pasal-1
 
  Dalam Undang-undang ini yang dimaksud dengan : 1. Surat Utang Negara adalah surat berharga yang berupa surat pengakuan utang dalam mata uang rupiah maupun valuta asing yang dijamin pembayaran bunga dan pokoknya oleh Negara Republik Indonesia, sesuai dengan masa berlakunya. 2. Pasar Perdana adalah kegiatan penawaran dan penjualan Surat Utang Negara untuk pertama kali. 3. Pasar Sekunder adalah kegiatan perdagangan Surat Utang Negara yang telah dijual di Pasar Perdana. 4. Pemerintah adalah Pemerintah Pusat Negara Republik Indonesia. 5. Menteri adalah Menteri Keuangan Republik Indonesia.
 
  BAB II BENTUK DAN JENIS SURAT UTANG NEGARA
 
- Pasal 2
+### Pasal 2 ^pasal-2
 
  (1) Surat Utang Negara diterbitkan dalam bentuk warkat atau tanpa warkat.
 
@@ -105,26 +110,26 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 3 
-# (2) Surat... (2) Surat Utang Negara sebagaimana dimaksud dalam ayat (1) diterbitkan dalam bentuk yang diperdagangkan atau dalam bentuk yang tidak diperdagangkan di Pasar Sekunder.
+             - 3
+**(2) Surat... (2) Surat Utang Negara sebagaimana dimaksud dalam ayat (1) diterbitkan dalam bentuk yang diperdagangkan atau dalam bentuk yang tidak diperdagangkan di Pasar Sekunder.**
 
- Pasal 3
+### Pasal 3 ^pasal-3
 
  (1) Surat Utang Negara terdiri atas : a. Surat Perbendaharaan Negara; b. Obligasi Negara. (2) Surat Perbendaharaan Negara sebagaimana dimaksud dalam ayat (1) huruf a berjangka waktu sampai dengan 12 (dua belas) bulan dengan pembayaran bunga secara diskonto. (3) Obligasi Negara sebagaimana dimaksud dalam ayat (1) huruf b berjangka waktu lebih dari 12 (dua belas) bulan dengan kupon dan/atau dengan pembayaran bunga secara diskonto.
 
  BAB III TUJUAN PENERBITAN SURAT UTANG NEGARA
 
- Pasal 4
+### Pasal 4 ^pasal-4
 
  Surat Utang Negara diterbitkan untuk tujuan sebagai berikut: a. membiayai defisit Anggaran Pendapatan dan Belanja Negara; b. menutup kekurangan kas jangka pendek akibat ketidaksesuaian antara
  arus kas penerimaan dan pengeluaran dari Rekening Kas Negara dalam satu tahun anggaran; c. mengelola portofolio utang negara.
 
  BAB IV KEWENANGAN DAN KEWAJIBAN
- Pasal 5
+### Pasal 5 ^pasal-5
 
  (1) Kewenangan menerbitkan Surat Utang Negara untuk tujuan sebagaimana dimaksud dalam Pasal 4 berada pada Pemerintah. (2) Kewenangan sebagaimana dimaksud dalam ayat (1) dilaksana-kan oleh Menteri.
 
- Pasal 6
+### Pasal 6 ^pasal-6
 
  Dalam hal Pemerintah akan menerbitkan Surat Utang Negara untuk tujuan sebagaimana dimaksud dalam Pasal 4, Menteri terlebih dahulu berkonsultasi dengan Bank Indonesia.
 
@@ -135,18 +140,18 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 4 
-# Pasal 7… Pasal 7
+             - 4
+**Pasal 7… Pasal 7**
 
  (1) Penerbitan Surat Utang Negara harus terlebih dahulu mendapat persetujuan Dewan Perwakilan Rakyat. (2) Persetujuan sebagaimana dimaksud dalam ayat (1) diberikan atas nilai bersih maksimal Surat Utang Negara yang akan diterbitkan dalam satu tahun anggaran. (3) Persetujuan Dewan Perwakilan Rakyat sebagaimana dimaksud dalam ayat (1), diberikan pada saat pengesahan Anggaran Pendapatan dan Belanja Negara. (4) Dalam hal-hal tertentu, Menteri dapat menerbitkan Surat Utang Negara melebihi nilai bersih maksimal yang telah disetujui Dewan Perwakilan Rakyat sebagaimana dimaksud dalam ayat (2) setelah mendapat persetujuan terlebih dahulu dari Dewan Perwakilan Rakyat dan dilaporkan sebagai Perubahan Anggaran Pendapatan dan Belanja Negara tahun yang bersangkutan.
 
- Pasal 8
+### Pasal 8 ^pasal-8
 
  (1) Persetujuan Dewan Perwakilan Rakyat mengenai penerbitan Surat Utang Negara sebagaimana dimaksud dalam Pasal 7 ayat (1) meliputi pembayaran semua kewajiban bunga dan pokok yang timbul sebagai akibat penerbitan Surat Utang Negara dimaksud. (2) Pemerintah wajib membayar bunga dan pokok setiap Surat Utang Negara pada saat jatuh tempo. (3) Dana untuk membayar bunga dan pokok sebagaimana dimaksud dalam ayat (2) disediakan dalam Anggaran Pendapatan dan Belanja Negara setiap tahun sampai dengan berakhirnya kewajiban tersebut. (4) Dalam hal pembayaran kewajiban bunga dan pokok dimaksud melebihi perkiraan dana sebagaimana dimaksud dalam ayat (3), Menteri melakukan pembayaran dan menyampaikan realisasi pembayaran tersebut kepada Dewan Perwakilan Rakyat dalam pembahasan Perubahan Anggaran Pendapatan dan Belanja Negara.
 
  BAB V PENGELOLAAN SURAT UTANG NEGARA
 
- Pasal 9
+### Pasal 9 ^pasal-9
 
  (1) Pengelolaan Surat Utang Negara diselenggarakan oleh Menteri. (2) Pengelolaan Surat Utang Negara sebagaimana dimaksud dalam ayat (1) sekurang-kurangnya meliputi: a. penetapan strategi dan kebijakan pengelolaan Surat Utang
  Negara termasuk kebijakan pengendalian risiko; b. perencanaan dan penetapan struktur portofolio utang negara;
@@ -158,27 +163,27 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 5 
-# c. penerbitan... c. penerbitan Surat Utang Negara; d. penjualan Surat Utang Negara melalui lelang dan/atau tanpa
+             - 5
+**c. penerbitan... c. penerbitan Surat Utang Negara; d. penjualan Surat Utang Negara melalui lelang dan/atau tanpa**
  lelang; e. pembelian kembali Surat Utang Negara sebelum jatuh tempo; f. pelunasan; g. aktivitas lain dalam rangka pengembangan Pasar Perdana dan
  Pasar Sekunder Surat Utang Negara.
 
- Pasal 10
+### Pasal 10 ^pasal-10
 
  (1) Dalam rangka mendukung penyelenggaraan pengelolaan Surat Utang Negara sebagaimana dimaksud dalam Pasal 9, Menteri membuka rekening yang merupakan bagian dari Rekening Kas Negara. (2) Tata cara pembukaan dan pengelolaan rekening sebagaimana dimaksud dalam ayat (1) ditetapkan oleh Menteri.
 
- Pasal 11
+### Pasal 11 ^pasal-11
 
  Setiap Surat Utang Negara mencantumkan sekurang-kurangnya: a. nilai nominal, b. tanggal jatuh tempo, c. tanggal pembayaran bunga, d. tingkat bunga (kupon), e. frekuensi pembayaran bunga,
 
  f. cara perhitungan pembayaran bunga, g. ketentuan tentang hak untuk membeli kembali Surat Utang Negara
  sebelum jatuh tempo, h. ketentuan tentang pengalihan kepemilikan.
 
- Pasal 12
+### Pasal 12 ^pasal-12
 
  (1) Kegiatan penatausahaan yang mencakup pencatatan kepemilik-an, kliring dan setelmen, serta agen pembayar bunga dan pokok Surat Utang Negara dilaksanakan oleh Bank Indonesia. (2) Dalam menyelenggarakan kegiatan penatausahaan sebagaimana dimaksud dalam ayat (1), Bank Indonesia wajib membuat laporan pertanggungjawaban kepada Pemerintah.
 
- Pasal 13
+### Pasal 13 ^pasal-13
 
  (1) Menteri menunjuk Bank Indonesia sebagai agen untuk melaksanakan lelang Surat Perbendaharaan Negara di Pasar
 
@@ -189,32 +194,32 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 6 
-# Perdana.
+             - 6
+**Perdana.**
 
  (2) Menteri... (2) Menteri dapat menunjuk Bank Indonesia sebagai agen untuk melaksanakan lelang Obligasi Negara di Pasar Perdana. (3) Ketentuan mengenai metode lelang, jadwal pelaksanaan lelang, kriteria peserta lelang, dan hasil akhir lelang ditetapkan oleh Menteri.
 
- Pasal 14
+### Pasal 14 ^pasal-14
 
  Menteri dapat menunjuk Bank Indonesia dan/atau pihak lain sebagai agen untuk melaksanakan pembelian dan penjualan Surat Utang Negara di Pasar Sekunder.
 
- Pasal 15
+### Pasal 15 ^pasal-15
 
  Pengaturan dan pengawasan terhadap kegiatan perdagangan Surat Utang Negara dilakukan oleh instansi pemerintah yang melakukan pengaturan dan pengawasan di bidang pasar modal.
 
  BAB VI AKUNTABILITAS DAN TRANSPARANSI
 
- Pasal 16
+### Pasal 16 ^pasal-16
 
  (1) Menteri wajib menyelenggarakan penatausahaan dan membuat pertanggungjawaban atas pengelolaan Surat Utang Negara dan dana yang dikelola. (2) Pertanggungjawaban sebagaimana dimaksud dalam ayat (1) disampaikan sebagai bagian dari pertanggungjawaban pelaksa-naan Anggaran Pendapatan dan Belanja Negara.
 
- Pasal 17
+### Pasal 17 ^pasal-17
 
  Menteri wajib secara berkala mempublikasikan informasi tentang: a. kebijakan pengelolaan utang dan rencana penerbitan Surat Utang
  Negara yang meliputi perkiraan jumlah dan jadwal waktu penerbitan; b. jumlah Surat Utang Negara yang beredar beserta komposisinya,
  termasuk jenis valuta, struktur jatuh tempo dan tingkat bunga.
 
- Pasal 18
+### Pasal 18 ^pasal-18
 
  Tata cara penatausahaan, pertanggungjawaban, dan publikasi informasi sebagaimana dimaksud dalam Pasal 16 dan Pasal 17 ditetapkan dalam Peraturan Pemerintah.
 
@@ -225,23 +230,23 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-             - 7 
-# BAB VII… BAB VII KETENTUAN PIDANA
+             - 7
+**BAB VII… BAB VII KETENTUAN PIDANA**
 
- Pasal 19
+### Pasal 19 ^pasal-19
 
  (1) Setiap orang yang meniru Surat Utang Negara atau memalsukan Surat Utang Negara dengan maksud memperdagangkan atau dengan sengaja memperdagangkan Surat Utang Negara tiruan atau Surat Utang Negara palsu, dipidana dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 10 (sepuluh) tahun dan denda paling sedikit Rp10.000.000.000,00 (sepuluh miliar rupiah) dan paling banyak Rp20.000.000.000,00 (dua puluh miliar rupiah). (2) Setiap orang yang dengan sengaja menerbitkan Surat Utang Negara tidak berdasarkan Undang-undang ini, dipidana dengan pidana penjara paling singkat 10 (sepuluh) tahun dan paling lama 20 (dua puluh) tahun dan denda paling sedikit Rp 20.000.000.000,00 (dua puluh miliar rupiah) dan paling banyak Rp40.000.000.000,00 (empat puluh miliar rupiah).
 
  BAB VIII KETENTUAN PERALIHAN
 
- Pasal 20
+### Pasal 20 ^pasal-20
 
  Surat Utang atau Obligasi Negara yang telah diterbitkan oleh Pemerintah dalam rangka: a. program rekapitalisasi bank umum; b. pinjaman luar negeri dalam bentuk surat utang atau obligasi; c. pinjaman dalam negeri dalam bentuk surat utang; d. pembiayaan kredit program; dinyatakan sah dan tetap berlaku sampai
  dengan saat jatuh tempo.
 
  BAB IX KETENTUAN PENUTUP
 
- Pasal 21
+### Pasal 21 ^pasal-21
 
  Dengan berlakunya Undang-undang ini, ketentuan peraturan perundang-undangan yang mengatur penerbitan Surat Utang dan/atau Obligasi Negara sebelum berlakunya Undang-undang ini dinyatakan tidak berlaku.
 
@@ -252,8 +257,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 8 
-# Pasal 22
+                     - 8
+### Pasal 22 ^pasal-22
 
  Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
@@ -286,7 +291,10 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 
-# PENJELASAN
+## Penjelasan
+
+### I. Umum
+
  ATAS UNDANG-UNDANG REPUBLIK INDONESIA
  NOMOR 24 TAHUN 2002
  TENTANG SURAT UTANG NEGARA
@@ -299,14 +307,13 @@ REPUBLIK INDONESIA
 
  Dalam kegiatan di pasar keuangan, peranan pasar surat utang negara sangat strategis. Artinya, tingkat keuntungan (yield) dari surat utang negara, sebagai instrumen keuangan yang bebas risiko, dipergunakan oleh para pelaku pasar sebagai acuan atau referensi dalam menentukan tingkat keuntungan suatu investasi atau aset keuangan lain. Dengan demikian, penerbitan surat utang negara secara teratur dan terencana diperlukan untuk membentuk suatu tolok ukur yang dapat dipergunakan dalam menilai kewajaran suatu harga aset keuangan atau surat berharga. Adanya pasar keuangan yang efisien akan memberikan beberapa manfaat, antara lain, (1) memberikan peluang dan partisipasi yang lebih besar kepada pemodal untuk melakukan diversifikasi portofolio investasinya, (2) membantu terciptanya suatu tata kelola yang baik (good governance) dikarenakan adanya tingkat transparansi informasi keuangan yang tinggi dalam pasar modal, dan (3) membantu terwujudnya suatu sistem keuangan yang stabil karena berkurangnya risiko sistemik (systemic risk) akibat menurunnya ketergantungan pada modal yang berasal dari sistem perbankan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 2 
-# Dari… Dari sisi mobilisasi dana masyarakat melalui mekanisme APBN, penggunaan surat utang negara secara potensial dapat mengurangi ketergantungan pada pembiayaan luar negeri yang sangat rentan terhadap fluktuasi nilai tukar. Di samping itu, pengelolaan surat utang negara secara baik dapat mengurangi kerugian negara yang ditimbulkan oleh berbagai risiko keuangan dalam portofolio utang negara. Melalui mekanisme APBN, dengan sendirinya akan terselenggara pengawasan langsung oleh publik.
+                     - 2
+**Dari… Dari sisi mobilisasi dana masyarakat melalui mekanisme APBN, penggunaan surat utang negara secara potensial dapat mengurangi ketergantungan pada pembiayaan luar negeri yang sangat rentan terhadap fluktuasi nilai tukar. Di samping itu, pengelolaan surat utang negara secara baik dapat mengurangi kerugian negara yang ditimbulkan oleh berbagai risiko keuangan dalam portofolio utang negara. Melalui mekanisme APBN, dengan sendirinya akan terselenggara pengawasan langsung oleh publik.**
 
  Pelaku pasar keuangan sangat berkepentingan terhadap informasi tentang arah kebijakan pembangunan ekonomi nasional yang tercermin dalam APBN, mengingat implikasi kebijakan tersebut terhadap minat dan kesempatan investasi di pasar keuangan domestik. Persepsi pasar akan sangat tergantung pada konsistensi tindakan Pemerintah dalam menjalankan kebijakan tersebut. Di samping itu, para pemodal membutuhkan adanya kepastian hukum dan jaminan adanya pengelolaan pasar keuangan yang profesional dan berstandar internasional.
 
@@ -329,8 +336,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 3 
-# Berkenaan… Berkenaan dengan hal-hal di atas, perlu diperhatikan pula peraturan perundang-undangan yang berkaitan dengan Undang-undang ini, antara lain, Undang-undang Perbendaharaan Indonesia (Indische Comptabiliteitswet, Staatsblad Tahun 1925 Nomor 448) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 9 Tahun 1968 (Lembaran Negara Republik Indonesia Tahun 1968 Nomor 53, Tambahan Lembaran Negara Nomor 2860), Undang-undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 31, Tambahan Lembaran Negara Nomor 3472) sebagaimana telah diubah dengan Undang-undang Nomor 10 Tahun 1998 (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 182, Tambahan Lembaran Negara Nomor 3790), Undang-undang Nomor 8 Tahun 1995 tentang Pasar Modal (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 64, Tambahan Lembaran Negara Nomor 3608), dan Undang-undang Nomor 23 Tahun 1999 tentang Bank Indonesia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 66, Tambahan Lembaran Negara Nomor 3843).
+                     - 3
+**Berkenaan… Berkenaan dengan hal-hal di atas, perlu diperhatikan pula peraturan perundang-undangan yang berkaitan dengan Undang-undang ini, antara lain, Undang-undang Perbendaharaan Indonesia (Indische Comptabiliteitswet, Staatsblad Tahun 1925 Nomor 448) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 9 Tahun 1968 (Lembaran Negara Republik Indonesia Tahun 1968 Nomor 53, Tambahan Lembaran Negara Nomor 2860), Undang-undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 31, Tambahan Lembaran Negara Nomor 3472) sebagaimana telah diubah dengan Undang-undang Nomor 10 Tahun 1998 (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 182, Tambahan Lembaran Negara Nomor 3790), Undang-undang Nomor 8 Tahun 1995 tentang Pasar Modal (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 64, Tambahan Lembaran Negara Nomor 3608), dan Undang-undang Nomor 23 Tahun 1999 tentang Bank Indonesia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 66, Tambahan Lembaran Negara Nomor 3843).**
 
  PASAL DEMI PASAL
 
@@ -351,8 +358,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 4 
-# Pasal 3… Pasal 3
+                     - 4
+**Pasal 3… Pasal 3**
 
  Ayat (1)
  Cukup jelas
@@ -381,8 +388,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 5 
-# Pasal 5… Pasal 5
+                     - 5
+**Pasal 5… Pasal 5**
  Cukup jelas
 
  Pasal 6
@@ -411,8 +418,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 6 
-# 2. penerbitan… 2. penerbitan Obligasi Negara dalam rangka pengelolaan portofolio Surat Negara adakalanya dilakukan menjelang akhir tahun anggaran karena pertimbangan kondisi dan perkembangan pasar surat utang, sedangkan realisasi pembelian kembali (buyback) baru dilakukan pada tahun berikutnya (carry over) sehingga jumlah nilai bersih maksimal yang disetujui terlampaui.
+                     - 6
+**2. penerbitan… 2. penerbitan Obligasi Negara dalam rangka pengelolaan portofolio Surat Negara adakalanya dilakukan menjelang akhir tahun anggaran karena pertimbangan kondisi dan perkembangan pasar surat utang, sedangkan realisasi pembelian kembali (buyback) baru dilakukan pada tahun berikutnya (carry over) sehingga jumlah nilai bersih maksimal yang disetujui terlampaui.**
 
  Pasal 8
 
@@ -446,8 +453,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 7 
-# Pasal 11… Pasal 11
+                     - 7
+**Pasal 11… Pasal 11**
 
  Huruf a
  Cukup jelas
@@ -489,8 +496,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 8 
-# membantu penerbitan Surat-surat Utang Negara yang diterbitkan Pemerintah.
+                     - 8
+**membantu penerbitan Surat-surat Utang Negara yang diterbitkan Pemerintah.**
 
  Ayat (2)… Ayat (2)
  Lelang Obligasi Negara dilaksanakan oleh Bank Indonesia sampai pada saat Pemerintah dinilai telah siap serta mampu secara teknis untuk melaksanakan lelang bersama Bank Indonesia atau secara tersendiri. Ayat (3)
@@ -520,8 +527,8 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 9 
-# Pasal 18
+                     - 9
+**Pasal 18**
  Cukup jelas
 
  Pasal 19… Pasal 19
@@ -548,12 +555,11 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 ```
-                     - 10 
-# Cukup jelas
+                     - 10
+**Cukup jelas**
 
  TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4236
 
 ```
 
 -----
-

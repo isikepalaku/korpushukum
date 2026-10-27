@@ -19,10 +19,16 @@ sumber: "https://peraturan.bpk.go.id/DownloadUjiMateri/248/putusan_mkri_27_PUU-X
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Putusan MK Nomor 27/PUU-XXIV/2026 — Pasal 237 huruf c KUHP
+**Putusan MK Nomor 27/PUU-XXIV/2026 — Pasal 237 huruf c KUHP**
 
 **Status:** `berlaku`
 
@@ -89,7 +95,6 @@ Selanjutnya disebut sebagai -------------------------------------------- Pemohon
 
 Pekerjaan : Mahasiswa
 
-
 -----
 
 Alamat : Jalan Proklamasi Nomor 83A, RT/RW. 004/003,
@@ -154,7 +159,6 @@ sendiri, bertindak untuk dan atas nama Pemberi Kuasa;
 Selanjutnya Pemohon I sampai dengan Pemohon VII disebut sebagai ----------------
 ---------------------------------------------------------------------------------------- para Pemohon;
 
-
 -----
 
 [1.2] Membaca permohonan para Pemohon;
@@ -215,7 +219,6 @@ perselisihan tentang hasil Pemilihan Umum”;
 
 “Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan
 
-
 -----
 
 terakhir yang putusannya bersifat final untuk: a. menguji undangundang terhadap Undang-Undang Dasar Negara Republik Indonesia
@@ -275,7 +278,6 @@ konstitusionalitas undang-undang yaitu: Undang-Undang Nomor 1 Tahun
 7. Bahwa berdasarkan uraian sebagaimana tersebut di atas, telah nyata
 
 bahwa objek permohonan _a quo memenuhi syarat sebagai objek_
-
 
 -----
 
@@ -339,7 +341,6 @@ Undang ditentukan 5 syarat mengenai kerugian konstitusional, yaitu:
 
 a. Adanya hak konstitusional pemohon yang diberikan oleh Undang
 Undang Dasar Negara Republik Indonesia 1945.
-
 
 -----
 
@@ -405,7 +406,6 @@ dalam ketentuan Undang-Undang.”
 Pemohon telah mengalami kerugian konstitusional, baik yang bersifat
 
 spesifik (aktual) maupun potensial yang akan dijelaskan sebagai berikut:
-
 
 -----
 
@@ -475,7 +475,6 @@ dimasyarakatkan kepada seluruh warga negara Indonesia agar nilai
 nilai Pancasila mengakar kuat serta tidak terlepas dari bangsa Indonesia
 
 sebagai pemiliknya;
-
 
 -----
 
@@ -614,7 +613,6 @@ Pancasila dalam kehidupan bermasyarakat, berbangsa, dan bernegara.
 
 nyata dialami para Pemohon, maka para Pemohon memiliki kedudukan
 
-
 -----
 
 hukum (legal standing) sebagai para Pemohon pengujian undang-undang
@@ -682,7 +680,6 @@ melalui mitologi kuno yaitu burung yang menyerupai burung elang
 rajawali. Garuda digunakan sebagai Lambang Negara Kesatuan
 
 Republik Indonesia untuk menggambarkan bahwa Indonesia adalah
-
 
 -----
 
@@ -754,7 +751,6 @@ bersifat luas, abstrak, dan terbuka terhadap penafsiran subjektif,
 
 berpotensi menimbulkan _chilling effect bagi masyarakat dalam_
 
-
 -----
 
 menggunakan lambang negara sebagai bagian dari ekspresi kolektif
@@ -823,7 +819,6 @@ sehingga keberadaannya secara alamiah menimbulkan sikap
 
 penghormatan tanpa perlu adanya paksaan atau perintah. Dalam
 
-
 -----
 
 konteks ini, relasi manusia dengan lambang bersifat etik dan kultural,
@@ -891,7 +886,6 @@ sebagai lambang, maka secara konseptual terbuka ruang penafsiran,
 sebab lambang tidak memiliki makna tunggal yang tertutup. Ruang
 
 penafsiran tersebut merupakan konsekuensi alamiah dari kedalaman
-
 
 -----
 
@@ -963,7 +957,6 @@ _proportionality karena tujuan perlindungan martabat lambang negara_
 
 dapat dicapai melalui pengaturan administratif dan edukatif tanpa
 
-
 -----
 
 kriminalisasi, sementara dampak pembatasannya justru menekan
@@ -1030,7 +1023,6 @@ pengujian terhadap Pasal 237 huruf b KUHP memiliki konteks
 konstitusional yang berbeda dan lebih berat. Ketentuan tersebut kini
 
 tidak lagi bersifat administratif, melainkan diikuti ancaman pidana,
-
 
 -----
 
@@ -1100,7 +1092,6 @@ keikutsertaan dalam pemerintah dan/atau pembelaan negara, dan lain
 
 sebagainya;
 
-
 -----
 
 3. Bahwa perbedaan perlakuan hukum yang lahir dari ketidakjelasan
@@ -1169,7 +1160,6 @@ dalam Pasal 237 huruf b dan huruf c KUHP, dengan pola pembatasan
 
 yang pada hakikatnya sama, bahkan diperkuat melalui ancaman
 
-
 -----
 
 pidana. Pengulangan substansi norma yang telah dinyatakan
@@ -1237,7 +1227,6 @@ menimbulkan kriminalisasi yang sangat luas terhadap berbagai
 lembaga negara maupun warga negara, termasuk lembaga-lembaga
 
 negara yang dalam praktiknya menggunakan atribut dengan lambang
-
 
 -----
 
@@ -1309,7 +1298,6 @@ negara untuk secara bebas memelihara dan mengembangkan nilai-nilai
 
 budayanya. Dengan memperhatikan bahwa Pancasila yang
 
-
 -----
 
 dilambangkan dalam bentuk Garuda Pancasila merupakan suatu sistem
@@ -1379,7 +1367,6 @@ penggunaan sebagai lambang organisasi atau kelompok yang
 menimbulkan kesan memperoleh legitimasi atau restu negara, maupun
 
 penggunaan untuk penggalangan dana atau tindakan lain yang
-
 
 -----
 
@@ -1517,7 +1504,6 @@ Bahwa dari seluruh dalil-dalil yang diuraikan di atas dan bukti-bukti terlampir,
 
 dengan ini para Pemohon mohon kepada para Yang Mulia Majelis Hakim
 
-
 -----
 
 Mahkamah Konstitusi untuk kiranya berkenan memberikan putusan sebagai
@@ -1581,7 +1567,6 @@ Undang-Undang Hukum Pidana;
 2. Bukti P-2 : Fotokopi Undang-Undang Dasar Negara Republik Indonesia
 
 Tahun 1945;
-
 
 -----
 
@@ -1651,7 +1636,6 @@ berikut:
 
 …
 
-
 -----
 
 b. membuat lambang untuk perseorangan, partai politik, perkumpulan,
@@ -1718,7 +1702,6 @@ Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran
 Negara Republik Indonesia Nomor 6842) bertentangan dengan Undang
 Undang Dasar Negara Republik Indonesia Tahun 1945 dan tidak
 
-
 -----
 
 mempunyai kekuatan hukum mengikat sepanjang tidak dikecualikan
@@ -1782,7 +1765,6 @@ yang terjadi perlu diintegrasikan ke dalam sistem hukum pidana
 Indonesia dengan melakukan upaya rekodifikasi yang mencakup
 
 konsolidasi dan sinkronisasi peraturan hukum pidana baik vertikal
-
 
 -----
 
@@ -1852,7 +1834,6 @@ di Indonesia, yang mencerminkan bentuk demokratisasi dan
 
 modernisasi hukum. Perubahan ini, upaya Indonesia guna memiliki
 
-
 -----
 
 sistem hukum pidana yang berdaulat dan tidak lagi bergantung pada
@@ -1920,7 +1901,6 @@ rehabilitasi pelaku, sehingga di dalam melakukan pemidanaan, aparat
 
 penegak hukum, khususnya hakim, harus benar-benar melihat bahwa
 
-
 -----
 
 pidana perampasan kemerdekaan (penjara), hanya diterapkan sebagai
@@ -1986,7 +1966,6 @@ kehormatan dan kewibawaan yang wajib dilindungi. Perlindungan
 tersebut merupakan konsekuensi logis dari prinsip negara berdaulat
 
 dan negara hukum. Dengan mendudukan lambang negara sebagai
-
 
 -----
 
@@ -2056,7 +2035,6 @@ politik adalah tindakan yang dilindung.
 
 a. Menjaga marwah dan wibawa simbol kedaulatan;
 
-
 -----
 
 b. Mencegah penyalahgunaan dan komersialisasi;
@@ -2125,7 +2103,6 @@ yang dikemukakan oleh John Stuart Mill dalam bukunya "On Liberty"
 _which power can be rightfully exercised over any member of a_
 
 _civilized community, against his will, is to prevent harm to others",_
-
 
 -----
 
@@ -2197,7 +2174,6 @@ menggunakannya. Oleh karena itu, penggunaan bendera negara
 
 dengan iktikad buruk dapat menimbulkan implikasi serius, termasuk
 
-
 -----
 
 penyalahgunaan yurisdiksi dan perlindungan hukum negara yang
@@ -2267,7 +2243,6 @@ maka perbuatan tersebut tidak termasuk dalam ranah delik pidana
 
 ini.
 
-
 -----
 
 14. Bahwa pengaturan mengenai pembatasan penggunaan lambang
@@ -2325,7 +2300,6 @@ seseorang di mana pembatasan demikian, sesuai dengan Pasal
 28J ayat (2) UUD 1945, adalah kewenangan eksklusif
 pembentuk undang-undang” [vide Putusan Mahkamah
 Konstitusi Nomor 46/PUU-XIV/2016, hlm. 441-442].
-
 
 -----
 
@@ -2392,7 +2366,6 @@ b. Bahwa perdebatan mengenai pengaturan terkait lambang negara telah
 dibahas dalam beberapa rapat pembahasan Rancangan Undang
 Undang Kitab Undang-Undang Hukum Pidana (RUU KUHP). Hal tersebut
 
-
 -----
 
 antara lain tercermin dalam Risalah Pembahasan Tim Perumus KUHP
@@ -2457,7 +2430,6 @@ paling banyak ... nah kemudian ... ternyata apa yang diatur di dalam Pasal
 66 dan 67 Undang-Undang 24 Tahun 2009 ... itu digabungkan, sehingga
 ... merusak, merobek, menginjak-injak, ... bendera ... itu diancam pidana
 
-
 -----
 
 penjara paling lama 5 tahun. Ketika kami melakukan ... tapi ketika ... juga
@@ -2516,7 +2488,6 @@ ini akan dihilangkan dan ini harus dicabut sangsi pidananya ... nah inilah
 yang ... kalau ditanya “kenapa dikenakan sangsi pidana? Kalau saya
 baca di dalam konsiderans, eh penjelasan umum undang-undang
 
-
 -----
 
 tersebut dianggap bahwa ini bukan hanya sekedar... bendera, bahasa ...
@@ -2573,7 +2544,6 @@ membahas ... supaya tidak terulang lagi kita membahas hal yang sama.
 Mengenai lagu kebangsaan Indonesia Raya senada irama dan lain
 sebagainya. Kalau nada itu dapat improvisasi orkestra atau dangdut
 apakah itu disebut? ... karena itukan dalam suasana yang berbeda
-
 
 -----
 
@@ -2632,7 +2602,6 @@ konstitusinya ...saya kira dibuat semurah mungkin... sejauh yang bisa kita
 lakukan. Saya kira begitu. Jadi kalau pun harus konsekuensinya
 beberapa pasal yang ada diundang-undang lain dicabut ya apa boleh
 buat. Inilah kesempatan yang ... apa namanya ketentuan yang
-
 
 -----
 
@@ -2695,7 +2664,6 @@ Jadi apakah ... harus ...
 
 **F-PD (ERMA SURYANI RANIK, S.H., M.Si):**
 
-
 -----
 
 Saya kira Pasal ... kita hapus saja karena sudah cukup itu pengertian di
@@ -2752,7 +2720,6 @@ sampai 247.
 
 Izin Ketua. Itu artinya dikonsultasikan dengan pesan semangat dari ruang
 ini adalah melakukan pelenturan finalisasinya begitu saja.
-
 
 -----
 
@@ -2821,7 +2788,6 @@ bendera, lambang negara, dan lagu kebangsaan dipahami sebagai
 
 ditujukan untuk menjerat perbuatan yang dilakukan dengan maksud
 
-
 -----
 
 menghina, menodai, atau merendahkan kehormatan simbol negara,
@@ -2885,7 +2851,6 @@ sebagai kondisi tidak berfungsinya atau tidak dapat diaksesnya
 pelayanan publik akibat kerusakan yang timbul dari adanya pawai, unjuk
 
 rasa, atau demonstrasi.
-
 
 -----
 
@@ -2952,7 +2917,6 @@ berikut:
 a. Para Pemohon mendalilkan bahwa lambang negara Garuda Pancasila
 
 secara hakiki merupakan milik seluruh rakyat Indonesia, bukan milik eksklusif
-
 
 -----
 
@@ -3021,7 +2985,6 @@ diatur dalam Pasal 51 ayat (1) Undang-Undang tentang Mahkamah Konstitusi
 (UU MK) dan berdasarkan Putusan Mahkamah Konstitusi Nomor 006/PUU
 III/2005 dan Perkara Nomor 011/PUU-V/2007.
 
-
 -----
 
 **III. PENJELASAN PEMERINTAH TERHADAP MATERI YANG DIMOHONKAN**
@@ -3088,7 +3051,6 @@ Berdasarkan keterangan tersebut di atas, Pemerintah memohon kepada Yang
 
 Mulia Ketua dan Anggota Majelis Hakim Mahkamah Konstitusi Republik
 
-
 -----
 
 Indonesia yang memeriksa, mengadili, dan memutus permohonan pengujian
@@ -3146,7 +3108,6 @@ Jika kemudian kita telaah lebih dalam pasal-pasal _a quo, sebagaimana ahli_
 Bivitri Susanti sampaikan, seluruh pasal-pasal a quo ini sudah “kejauhan” dari
 
 jaminan perlindungan hak konstitusional.
-
 
 -----
 
@@ -3214,7 +3175,6 @@ setidak-tidaknya, sangat kecil daya gunanya. Lantas, kenapa harus diadakan
 
 pasal-pasal ini?
 
-
 -----
 
 Secara keadilan restoratif yang digadang-gadang sebagai terobosan negara ini.
@@ -3281,7 +3241,6 @@ _democratic backsliding di Türkiye, dimana Türkiye dikategorikan sebagai negar
 
 otoriter dan Erdogan dianggap sebagai strongman. Akibatnya, Uni Eropa terus
 
-
 -----
 
 mengulur keanggotaan Türkiye ke Uni Eropa semata-mata karena syarat
@@ -3346,7 +3305,6 @@ kesimpulan Presiden yang merupakan bagian tidak terpisahkan dengan
 
 keterangan Presiden yang dibacakan tanggal 9 Maret 2026 sebagai berikut:
 
-
 -----
 
 **I.** **KEDUDUKAN HUKUM (LEGAL STANDING) PARA PEMOHON**
@@ -3408,7 +3366,6 @@ terutama yang terkait dengan rumusan normanya, itu menjadikan
 yang ada di dalam KUHP itu sudah tidak berlaku, yang berlaku
 adalah rumusan yang ada di ... apa ... Undang-Undang
 Penyesuaian Pidana. Karena kalau kita baca, itu tidak hanya
-
 
 -----
 
@@ -3475,7 +3432,6 @@ perubahan yang dilakukan oleh pembentuk undang-undang
 secara yuridis telah menggantikan rumusan sebelumnya. Oleh
 
 karena itu, terhadap ketentuan yang telah mengalami perubahan,
-
 
 -----
 
@@ -3547,7 +3503,6 @@ Pasal 240 dan Pasal 241 KUHP kepada BPK maupun lembaga
 
 negara lainnya di luar enam lembaga yang telah ditentukan
 
-
 -----
 
 secara limitatif.
@@ -3613,7 +3568,6 @@ masyarakat (sociale belangen), dan kepentingan individu
 
 berbagai norma KUHP yang berupaya menyeimbangkan
 
-
 -----
 
 perlindungan hak asasi manusia dengan kebutuhan menjaga
@@ -3671,7 +3625,6 @@ Konstitusi dalam Putusan Nomor 4/PUU-X/2012 sebagai bagian
 dari rezim pengaturan administratif mengenai penggunaan
 
 Lambang Negara, sedangkan Pasal 237 KUHP merupakan
-
 
 -----
 
@@ -3741,7 +3694,6 @@ undang-undang menentukan lain. Dengan demikian, unsur
 kesengajaan (mens _rea)_ tetap menjadi syarat mutlak
 
 pemidanaan meskipun kata “dengan sengaja” tidak lagi
-
 
 -----
 
@@ -3813,7 +3765,6 @@ pidana selain kepentingan masyarakat (sociale belangen) dan
 
 kepentingan individu (individuale _belangen)._ Dalam
 
-
 -----
 
 keterangannya, Pemerintah menegaskan bahwa perlindungan
@@ -3884,7 +3835,6 @@ Kesatu KUHP yang tidak terdapat dalam konstruksi norma Ketika
 
 Pasal 69 huruf c Undang-Undang Nomor 24 Tahun 2009 diuji
 
-
 -----
 
 pada tahun 2012.
@@ -3949,7 +3899,6 @@ _Indonesian way atau solusi khas Indonesia yang berusaha_
 
 menyeimbangkan kebutuhan perlindungan masyarakat terhadap
 
-
 -----
 
 tindak pidana yang sangat serius dengan penghormatan
@@ -4003,7 +3952,9 @@ perkembangan perilaku, tingkat penyesalan, dan potensi
 
 reintegrasi sosial dari terpidana. Hal ini sejalan dengan
 
-penjelasan Pemerintah bahwa visi pemidanaan dalam KUHP
+## Penjelasan
+
+### I. Umum
 
 Nasional berorientasi pada reintegrasi sosial (social
 
@@ -4018,7 +3969,6 @@ masa percobaan tersebut.
 5) Bahwa pengaturan pidana mati dalam KUHP Nasional pada
 
 akhirnya menunjukkan adanya transformasi paradigma hukum
-
 
 -----
 
@@ -4079,7 +4029,6 @@ _3)_ Kemudian yang ketiga, berkaitan dengan pidana mati yang ini
 perubahan dari pidana mati menjadi pidana seumur hidup ini bisa
 diusulkan atau dilakukan oleh presiden atas pertimbangan Ketua
 Mahkamah Agung. Nah, dalam perspektif ini, mana yang
-
 
 -----
 
@@ -4142,7 +4091,6 @@ dilakukan demi kepentingan masyarakat luas. Oleh karena itu,
 kritik terhadap kebijakan pemerintah secara tegas tidak termasuk
 
 tindak pidana sebagaimana dimaksud dalam Pasal 218 KUHP.
-
 
 -----
 
@@ -4214,7 +4162,6 @@ karakter delik aduan absolut yang dipilih oleh pembentuk
 
 undang-undang.
 
-
 -----
 
 7) Bahwa apabila suaminya, istrinya berzina, suaminya meninggal
@@ -4284,7 +4231,6 @@ kemanusiaan; serta (iv) negara yang secara tegas
 
 mempertahankan dan menerapkan pidana mati.
 
-
 -----
 
 11) Bahwa Indonesia menganut pendekatan yang berbeda dari
@@ -4353,7 +4299,6 @@ merupakan bentuk kepatuhan pembentuk undang-undang
 
 terhadap putusan Mahkamah Konstitusi. Meskipun secara faktual
 
-
 -----
 
 seorang terpidana dapat menunjukkan perilaku baik dalam waktu
@@ -4420,7 +4365,6 @@ rangkaian dengan mekanisme grasi. Dalam konstruksi tersebut,
 komutasi baru dapat dipertimbangkan apabila permohonan grasi
 
 ditolak atau tidak dilaksanakan.
-
 
 -----
 
@@ -4492,7 +4436,6 @@ umum atau pembelaan diri, yang berfungsi sebagai instrumen
 
 perlindungan konstitusional terhadap kebebasan berekspresi,
 
-
 -----
 
 sehingga sekalipun terdapat pengaduan dari Presiden dan/atau
@@ -4563,7 +4506,6 @@ dan Anggota Majelis Hakim Mahkamah Konstitusi menyatakan permohonan
 
 para Pemohon ditolak.
 
-
 -----
 
 **III. PETITUM**
@@ -4625,7 +4567,6 @@ merupakan satu kesatuan yang tidak terpisahkan dengan putusan ini.
 [3.1] Menimbang bahwa berdasarkan Pasal 24C ayat (1) Undang-Undang
 
 Dasar Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun
-
 
 -----
 
@@ -4693,7 +4634,6 @@ Dengan demikian, Pemohon dalam pengujian undang-undang terhadap
 
 UUD NRI Tahun 1945 harus menjelaskan terlebih dahulu:
 
-
 -----
 
 a. kedudukannya sebagai Pemohon sebagaimana dimaksud dalam Pasal 51 ayat
@@ -4758,7 +4698,6 @@ Pemohon VII, yang pada pokoknya sebagai berikut:
 konstitusionalitasnya dalam permohonan a quo adalah norma Pasal 237 huruf
 
 b dan huruf c UU 1/2023, yang menyatakan sebagai berikut:
-
 
 -----
 
@@ -4830,7 +4769,6 @@ dan memahami makna yang terkandung di dalamnya. Oleh karena itu,
 
 pembatasan yang bersifat ketat dan berpotensi represif terhadap penggunaan
 
-
 -----
 
 simbol negara sebagaimana yang diatur dalam Pasal 237 huruf b dan huruf c
@@ -4899,7 +4837,6 @@ huruf b dan huruf c UU 1/2023, selanjutnya Mahkamah mempertimbangkan pokok
 
 permohonan.
 
-
 -----
 
 **Pokok Permohonan**
@@ -4966,7 +4903,6 @@ dimaksudkan untuk menghina, merendahkan martabat, atau melecehkan
 lambang negara, dan tidak berlaku terhadap penggunaan lambang negara
 
 dalam rangka ekspresi kebangsaan, penyampaian pendapat di muka umum,
-
 
 -----
 
@@ -5038,7 +4974,6 @@ tanpa batasan yang jelas mendorong masyarakat untuk membatasi diri,
 
 menghindari, atau bahkan menghentikan penggunaan lambang Garuda
 
-
 -----
 
 Pancasila dalam karya seni, pertunjukan budaya, kegiatan adat, pendidikan
@@ -5105,7 +5040,6 @@ yang diterima Mahkamah pada tanggal 18 Juni 2026 (selengkapnya dimuat dalam
 
 bagian Duduk Perkara).
 
-
 -----
 
 [3.10] Menimbang bahwa Presiden menyampaikan keterangan tertulis tanpa
@@ -5169,16 +5103,13 @@ keterpenuhan syarat yang termaktub dalam Pasal 60 UU MK dan Pasal 72
 
 Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2025 tentang Tata Beracara Dalam
 
-
 -----
 
 Perkara Pengujian Undang-Undang (PMK 7/2025), yang masing-masing
 
 menyatakan:
 
-
 Pasal 60 UU MK:
-
 
 (1) Terhadap materi muatan ayat, pasal, dan/atau bagian dalam undang-undang
 
@@ -5188,9 +5119,7 @@ yang telah diuji, tidak dapat dimohonkan pengujian kembali.
 materi muatan dalam Undang-Undang Dasar Negara Republik Indonesia
 Tahun 1945 yang dijadikan dasar pengujian berbeda.
 
-
 Pasal 72 PMK 7/2025:
-
 
 (1) Terhadap materi muatan, ayat, pasal, dan/atau bagian dalam undang-undang
 
@@ -5242,7 +5171,6 @@ mengikat dalam Putusan Mahkamah Konstitusi Nomor 4/PUU-X/2012. Dalam
 permohonan _a quo,_ alasan permohonan pada pokoknya penerapan norma Pasal
 
 237 huruf c UU 1/2023 berpotensi menimbulkan kriminalisasi yang sangat luas
-
 
 -----
 
@@ -5311,7 +5239,6 @@ b. membuat lambang untuk perseorangan, partai politik, perkumpulan,
 
 organisasi dan/atau perusahaan yang sama atau menyerupai lambang
 
-
 -----
 
 negara; atau
@@ -5377,7 +5304,6 @@ menimbulkan kerancuan;
 **[3.15.1] Tindakan (hukum) dari dua pihak yang memiliki lambang sama atau**
 mirip, akan dianggap sama; dan citranya akan saling dipertukarkan. Sepanjang
 
-
 -----
 
 kedua pihak yang menggunakan lambang yang sama atau mirip memang
@@ -5433,7 +5359,6 @@ Berdasarkan kutipan uraian pertimbangan hukum tersebut, Mahkamah
 menegaskan norma Pasal 57 huruf c UU 24/2009 adalah konstitusional. Menurut
 
 Mahkamah, pengaturan larangan membuat lambang untuk perseorangan, partai
-
 
 -----
 
@@ -5503,7 +5428,6 @@ diatur dalam Undang-Undang ini”. Pasal tersebut harus dimaknai secara
 sistematis dengan merujuk pada Pasal 51 dan Pasal 52 UU 24/2009 yang
 menyatakan:
 
-
 -----
 
 Pasal 51
@@ -5563,7 +5487,6 @@ memajukan kebudayaan nasional Indonesia di tengah peradaban dunia
 dengan menjamin kebebasan masyarakat dalam memelihara dan
 mengembangkan nilai-nilai budayanya”. Mahkamah berpendapat bahwa kata
 
-
 -----
 
 “menjamin” dalam Pasal 32 ayat (1) UUD 1945 harus diartikan sebagai
@@ -5622,7 +5545,6 @@ tersebut di atas, norma Pasal 57 huruf d UU 24/2009 yang menentukan larangan
 Undang ini”, serta sanksi pidana dalam norma Pasal 69 UU 24/2009 yang
 
 menyatakan, “Dipidana dengan pidana penjara paling lama 1 (satu) tahun atau
-
 
 -----
 
@@ -5693,7 +5615,6 @@ Pasal 57 huruf d UU 24/2009, namun oleh karena pada hakikatnya substansi norma
 
 Pasal 237 huruf c UU 1/2023 memiliki esensi yang sama dengan substansi yang
 
-
 -----
 
 berasal dari norma Pasal 57 huruf d UU 24/2009 yang kemudian menjadi bagian
@@ -5762,7 +5683,6 @@ sebagian.
 
 dipertimbangkan lebih lanjut karena dinilai tidak ada relevansinya.
 
-
 -----
 
 4. KONKLUSI
@@ -5821,7 +5741,6 @@ Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia
 
 Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor
 
-
 -----
 
 6842) bertentangan dengan Undang-Undang Dasar Negara Republik Indonesia
@@ -5870,7 +5789,6 @@ atau yang mewakili.
 
 **ANGGOTA-ANGGOTA,**
 
-
 **ttd.**
 
 **Saldi Isra**
@@ -5879,7 +5797,6 @@ atau yang mewakili.
 
 **Ridwan Mansyur**
 
-
 **ttd.**
 
 **Enny Nurbaningsih**
@@ -5887,7 +5804,6 @@ atau yang mewakili.
 **ttd.**
 
 **Arsul Sani**
-
 
 -----
 
@@ -5899,7 +5815,6 @@ atau yang mewakili.
 
 **Adies Kadir**
 
-
 **ttd.**
 
 **M. Guntur Hamzah**
@@ -5908,13 +5823,10 @@ atau yang mewakili.
 
 **Liliek Prisbawono Adi**
 
-
 **PANITERA PENGGANTI,**
 
 **ttd.**
 
 **Wilma Silalahi**
 
-
 -----
-

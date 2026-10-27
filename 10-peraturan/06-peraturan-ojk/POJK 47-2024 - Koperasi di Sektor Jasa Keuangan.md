@@ -23,17 +23,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Koperasi di Sektor Jasa Keuangan
+**Koperasi di Sektor Jasa Keuangan**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/348713/peraturan-ojk-no-47-tahun-2024
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/348713/peraturan-ojk-no-47-tahun-2024)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -79,13 +84,12 @@ MEMUTUSKAN:
 Menetapkan : PERATURAN OTORITAS JASA KEUANGAN TENTANG
 KOPERASI DI SEKTOR JASA KEUANGAN.
 
-
 -----
 
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini, yang
 dimaksud dengan:
 1. Koperasi adalah badan usaha yang beranggotakan
@@ -135,7 +139,6 @@ prinsip syariah.
 10. Perusahaan Modal Ventura yang selanjutnya disingkat
 PMV adalah badan hukum yang melakukan kegiatan
 usaha modal ventura.
-
 
 -----
 
@@ -196,7 +199,6 @@ restrukturisasi.
 21. Menteri adalah menteri yang menyelenggarakan urusan
 pemerintahan di bidang Koperasi.
 
-
 -----
 
 BAB II
@@ -206,7 +208,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Koperasi dapat melaksanakan kegiatan di dalam sektor
 jasa keuangan sesuai dengan ketentuan peraturan
 perundang-undangan.
@@ -256,13 +258,12 @@ b. Koperasi yang menjalankan usaha berdasarkan
 Prinsip Syariah memilih menjadi LJK berdasarkan
 Prinsip Syariah.
 
-
 -----
 
 Bagian Kedua
 Pengajuan Izin Koperasi sebagai Lembaga Jasa Keuangan
 
-Pasal 3
+### Pasal 3 ^pasal-3
 Untuk Koperasi yang mengajukan izin usaha sebagai LJK
 sejak awal pendirian, mekanisme permohonan izin usaha
 sebagai LJK mengikuti ketentuan peraturan perundangundangan di sektor jasa keuangan.
@@ -272,7 +273,7 @@ Transisi Koperasi yang Memilih menjadi
 
 Lembaga Jasa Keuangan
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Koperasi yang telah menjalankan kegiatan usaha dan
 memenuhi kriteria Koperasi yang melaksanakan
 kegiatan di sektor jasa keuangan sebagaimana
@@ -303,7 +304,7 @@ Bagian Keempat
 
 Permodalan
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Persyaratan Modal Sendiri bagi Koperasi yang memilih
 menjadi LJK sebagaimana dimaksud dalam Pasal 4 ayat
 (3) huruf a sebagai berikut:
@@ -314,7 +315,6 @@ rupiah), bagi BPR yang berkedudukan di zona
 2. Rp50.000.000.000,00 (lima puluh miliar
 rupiah), bagi BPR yang berkedudukan di zona
 2 (dua); dan
-
 
 -----
 
@@ -374,7 +374,6 @@ g. Perusahaan Pembiayaan Infrastruktur ditetapkan
 paling sedikit Rp1.000.000.000.000,00 (satu
 triliun rupiah);
 
-
 -----
 
 h. PMV ditetapkan paling sedikit
@@ -432,7 +431,6 @@ dimaksud pada ayat (1) dilaksanakan sesuai dengan
 ketentuan modal disetor minimum pada Peraturan
 Otoritas Jasa Keuangan mengenai LJK terkait.
 
-
 -----
 
 BAB III
@@ -444,7 +442,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Menteri menyerahkan daftar Koperasi yang telah
 menjalankan kegiatan usaha dan memenuhi kriteria
 Koperasi yang melaksanakan kegiatan di dalam sektor
@@ -485,14 +483,13 @@ telah memenuhi ketentuan peraturan perundangundangan mengenai sektor jasa keuang
 Bagian Kedua
 Persyaratan dan Tata Cara Permohonan Izin Usaha
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Izin Koperasi yang memilih menjadi LJK diberikan
 dalam bentuk izin usaha sebagai LJK sebagaimana
 dimaksud dalam Pasal 2 ayat (3).
 (2) Koperasi yang memilih menjadi LJK harus memenuhi:
 a. kriteria sebagaimana dimaksud dalam Pasal 4
 ayat (3);
-
 
 -----
 
@@ -540,7 +537,7 @@ penilaian kemampuan dan kepatutan.
 Bagian Kedua
 Persetujuan Permohonan Izin Usaha
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Untuk memberikan persetujuan atau penolakan
 permohonan izin usaha sebagaimana dimaksud dalam
 Pasal 7, Otoritas Jasa Keuangan melakukan:
@@ -549,7 +546,6 @@ sebagaimana dimaksud dalam Pasal 7 ayat (3);
 b. analisis pemenuhan rasio piutang pinjaman atau
 pembiayaan bermasalah sebagaimana dimaksud
 dalam Pasal 4 ayat (3) huruf b;
-
 
 -----
 
@@ -604,7 +600,6 @@ usaha.
 tersebut dilakukan secara tertulis dan disertai dengan
 alasan penolakan.
 
-
 -----
 
 (9) Otoritas Jasa Keuangan menginformasikan kepada
@@ -612,7 +607,7 @@ Menteri terkait dengan keputusan permohonan izin
 usaha sebagaimana dimaksud pada ayat (7) dan
 ayat (8).
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Dalam hal permohonan izin usaha yang disampaikan
 oleh Koperasi yang memilih menjadi LJK tidak
 memenuhi persyaratan sebagai LJK sebagaimana
@@ -634,7 +629,7 @@ perundang-undangan.
 sebagai LJK tetap menjadi kewenangan pengawasan
 Menteri.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Terhadap pemrosesan permohonan izin usaha sebagai
 LKM yang diajukan oleh Koperasi yang memilih menjadi
 LJK, Otoritas Jasa Keuangan berwenang untuk
@@ -660,7 +655,6 @@ d. penyesuaian cakupan wilayah operasional atau
 kegiatan usaha berdasarkan ketentuan
 peraturan perundang-undangan mengenai LKM;
 dan/atau
-
 
 -----
 
@@ -719,7 +713,6 @@ memenuhi persyaratan sebagaimana dimaksud pada
 ayat (1), Otoritas Jasa Keuangan mencabut izin usaha
 sebagai LKM yang diberikan kepada Koperasi.
 
-
 -----
 
 (7) Selain berdasarkan kondisi sebagaimana dimaksud
@@ -745,7 +738,7 @@ izin usaha.
 Bagian Ketiga
 Pengumuman Koperasi di Sektor Jasa Keuangan
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Koperasi yang memilih menjadi LJK wajib
 mengumumkan perubahan kegiatan usaha Koperasi
 menjadi LJK kepada masyarakat dalam:
@@ -768,13 +761,12 @@ pengumuman.
 Bagian Keempat
 Sanksi Administratif
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Koperasi yang memilih menjadi LJK yang melanggar
 ketentuan sebagaimana dimaksud dalam Pasal 8 ayat
 (2), Pasal 10 ayat (5), ayat (8), dan Pasal 11 ayat (1), ayat
 (3) dikenai sanksi administratif berupa peringatan
 tertulis.
-
 
 -----
 
@@ -805,7 +797,7 @@ PENGAWASAN KOPERASI YANG MEMILIH MENJADI
 
 LEMBAGA JASA KEUANGAN
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Otoritas Jasa Keuangan melakukan pengawasan
 terhadap Koperasi yang memilih menjadi LJK.
 (2) Pengawasan atas Koperasi yang memilih menjadi LJK
@@ -822,13 +814,12 @@ keuangan.
 BAB V
 PELINDUNGAN KONSUMEN
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Koperasi yang menjadi LJK menerapkan pelindungan
 konsumen dalam penyelenggaraan usaha sesuai
 dengan ketentuan peraturan perundang-undangan
 mengenai pelindungan konsumen dan masyarakat di
 sektor jasa keuangan.
-
 
 -----
 
@@ -842,7 +833,7 @@ keuangan.
 BAB VI
 KETENTUAN LAIN-LAIN
 
-Pasal 15
+### Pasal 15 ^pasal-15
 Otoritas Jasa Keuangan berdasarkan pertimbangan
 tertentu dapat memberikan persetujuan atau kebijakan
 yang berbeda dengan Peraturan Otoritas Jasa Keuangan
@@ -851,14 +842,14 @@ ini.
 BAB VII
 KETENTUAN PERALIHAN
 
-Pasal 16
+### Pasal 16 ^pasal-16
 Perjanjian pembiayaan yang telah dilakukan oleh
 Koperasi yang memilih menjadi LJK sebelum Peraturan
 Otoritas Jasa Keuangan ini berlaku, dinyatakan tetap
 berlaku sampai dengan berakhirnya perjanjian pembiayaan
 tersebut.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 Pada saat Peraturan Otoritas Jasa Keuangan ini
 diundangkan:
 a. Koperasi yang memilih menjadi LJK yang sedang
@@ -877,10 +868,9 @@ terkait.
 BAB VIII
 KETENTUAN PENUTUP
 
-Pasal 18
+### Pasal 18 ^pasal-18
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal diundangkan.
-
 
 -----
 
@@ -914,7 +904,6 @@ SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 60/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -923,10 +912,11 @@ ttd
 
 Aat Windradi
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -935,8 +925,6 @@ NOMOR 47 TAHUN 2024
 
 TENTANG
 KOPERASI DI SEKTOR JASA KEUANGAN
-
-I. UMUM
 
 Ketentuan Pasal 44B ayat (1) Undang-Undang Nomor 25 Tahun
 1992 tentang Perkoperasian sebagaimana telah diubah dengan UndangUndang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan
@@ -979,7 +967,6 @@ mengatur ketentuan mengenai peralihan koperasi yang memilih menjadi
 LJK yang berbadan hukum Koperasi. Adapun aspek pengaturan yang
 diperlukan adalah terkait dengan aspek kelembagaan (entry regulation)
 
-
 -----
 
 yaitu proses perizinan, termasuk di dalamnya mengenai konsekuensi
@@ -998,18 +985,13 @@ diharapkan proses pemberian izin yang dilakukan oleh Otoritas Jasa
 Keuangan kepada Koperasi yang menjalankan kegiatan di sektor jasa
 keuangan dapat berjalan secara efektif dan efisien.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Yang dimaksud dengan “ketentuan peraturan perundangundangan di sektor jasa keuangan” adalah peraturan mengenai
 perizinan dan kelembagaan LJK.
 Contoh: terdapat Koperasi DEH didirikan pada tanggal 1 Januari
@@ -1019,9 +1001,7 @@ instansi yang berwenang. Selanjutnya, yang bersangkutan
 mengajukan permohonan izin usaha sebagai LKM kepada Otoritas
 Jasa Keuangan dengan mengacu pada Peraturan Otoritas Jasa
 Keuangan mengenai perizinan usaha dan kelembagaan LKM.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Cukup jelas.
@@ -1046,20 +1026,14 @@ publik atau disusun oleh kantor jasa akuntan.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Cukup jelas.
 
 
 -----
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Cukup jelas.
@@ -1119,20 +1093,14 @@ urusan pemerintahan di bidang koperasi.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Cukup jelas.
 
 
 -----
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Huruf a
@@ -1184,9 +1152,7 @@ Hal lain di luar persyaratan izin usaha antara lain stabilitas
 sistem keuangan, kondisi makro ekonomi, kebijakan
 pemerintah, dan kebijakan moratorium terhadap kebijakan
 industri jasa keuangan tertentu oleh Otoritas Jasa Keuangan.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Huruf a
@@ -1207,21 +1173,13 @@ Cukup jelas.
 
 
 -----
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Pemberian persetujuan atau kebijakan yang berbeda dimaksudkan
 antara lain untuk:
 a. mendukung kebijakan nasional;
@@ -1235,17 +1193,11 @@ berdampak pada ekonomi dan sosial, sehingga membutuhkan
 perhatian dan penanganan oleh semua pihak terkait serta diatur
 dalam ketentuan lain atas pertimbangan dalam menghadapi
 kemungkinan kejadian luar biasa.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 128/OJK
@@ -2624,3 +2576,25 @@ MIRZA ADITYASWARA
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |

@@ -26,19 +26,25 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan POJK Kualitas Aset BUS dan UUS
+**Perubahan POJK Kualitas Aset BUS dan UUS**
 
 **Status:** `dicabut` · JDIH BPK: `Tidak Berlaku`
 
 > Sumber: `30-sumber/POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS.pdf`
 
-## Teks
+**Teks**
 - 1 -
 
-# SALINAN
+**SALINAN**
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -46,7 +52,7 @@ REPUBLIK INDONESIA
 
 NOMOR 19 /POJK.03/2018
 
-# TENTANG
+**TENTANG**
 
 PERUBAHAN ATAS PERATURAN OTORITAS JASA KEUANGAN NOMOR 16/POJK.03/2014 TENTANG PENILAIAN KUALITAS ASET BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH
 
@@ -68,19 +74,19 @@ d.  bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a sampai den
 
 - 2.    Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas Jasa Keuangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 111, Tambahan Lembaran Negara Republik Indonesia Nomor 5253);
 
-# MEMUTUSKAN:
+**MEMUTUSKAN:**
 
 - Menetapkan : PERATURAN OTORITAS JASA KEUANGAN TENTANG PERUBAHAN ATAS PERATURAN OTORITAS JASA KEUANGAN NOMOR 16/POJK.03/2014 TENTANG PENILAIAN KUALITAS ASET BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH.
 
-# Pasal I
+**Pasal I**
 
 Beberapa ketentuan dalam Peraturan Otoritas Jasa Keuangan Nomor 16/POJK.03/2014 tentang Penilaian Kualitas Aset Bank Umum Syariah dan Unit Usaha Syariah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 347, Tambahan Lembaran Negara Republik Indonesia Nomor 5625) diubah sebagai berikut:
 
 1. Ketentuan Bab III ditambahkan 1 (satu) bagian, yakni Bagian Kesebelas sehingga berbunyi sebagai berikut:
 
-# Bagian Kesebelas
+**Bagian Kesebelas**
 
-# Aset Produktif Berorientasi Ekspor
+**Aset Produktif Berorientasi Ekspor**
 
 Pasal 31A
 
@@ -98,7 +104,7 @@ persyaratan tertentu ditetapkan memiliki kualitas lancar.
 
    - c. ditetapkan oleh Undang-Undang dengan status _sovereign_ .
 
-# Pasal 31B
+**Pasal 31B**
 
 - (1) Jaminan sebagaimana dimaksud dalam Pasal 31A ayat (2) harus memenuhi persyaratan yaitu:
 
@@ -124,7 +130,7 @@ tagihan lain pada saat Aset Produktif jatuh tempo; atau
 
 - c. tidak dipenuhinya persyaratan lain selain pembayaran pokok dan/atau margin/bagi hasil/ _ujrah_ yang dapat mengakibatkan terjadi wanprestasi.
 
-# Pasal 31C
+**Pasal 31C**
 
 - (1) Penetapan kualitas Pembiayaan dan penyediaan dana lain berorientasi ekspor dapat hanya didasarkan atas ketepatan pembayaran pokok dan/atau margin/bagi hasil/ _ujrah_ yang merupakan bagian dari komponen dalam faktor penilaian berupa kemampuan membayar sebagaimana dimaksud dalam Pasal 8 ayat (3).
 
@@ -186,7 +192,7 @@ komposit tingkat kesehatan dan rasio KPMM bank induknya.
 
 2. Ketentuan Pasal 47 ditambahkan 1 (satu) ayat, yakni ayat (3) sehingga Pasal 47 berbunyi sebagai berikut:
 
-# Pasal 47
+### Pasal 47 ^pasal-47
 
    - (1) Agunan yang akan digunakan sebagai faktor pengurang PPA sebagaimana dimaksud dalam Pasal 45, paling sedikit harus dinilai oleh:
 
@@ -202,7 +208,7 @@ komposit tingkat kesehatan dan rasio KPMM bank induknya.
 
 - 8 -
 
-# Pasal 47A
+**Pasal 47A**
 
    - (1) Agunan berupa rumah tinggal yang akan digunakan sebagai faktor pengurang PPA sebagaimana dimaksud dalam Pasal 45 huruf b, paling sedikit harus dinilai oleh:
 
@@ -214,7 +220,7 @@ komposit tingkat kesehatan dan rasio KPMM bank induknya.
 
 4. Ketentuan Pasal 61 diubah dan ditambahkan 1 (satu) ayat, yakni ayat (7) sehingga Pasal 61 berbunyi sebagai berikut:
 
-# Pasal 61
+### Pasal 61 ^pasal-61
 
 - (1) Kualitas Pembiayaan setelah restrukturisasi ditetapkan sebagai berikut:
 
@@ -256,7 +262,7 @@ komposit tingkat kesehatan dan rasio KPMM bank induknya.
 
 - 11 -
 
-# Pasal 61A
+**Pasal 61A**
 
 - (1) Penetapan kualitas Pembiayaan yang direstrukturisasi untuk Pembiayaan berorientasi ekspor kepada usaha mikro dan/atau usaha kecil serta Pembiayaan berorientasi ekspor kepada usaha menengah yang diberikan oleh setiap Bank kepada 1 (satu) nasabah atau 1 (satu) proyek dengan jumlah sampai dengan Rp5.000.000.000,00 (lima miliar rupiah) ditetapkan:
 
@@ -268,7 +274,7 @@ komposit tingkat kesehatan dan rasio KPMM bank induknya.
 
 - (2) Dalam hal 3 (tiga) kali periode kewajiban pembayaran sebagaimana dimaksud pada ayat (1) telah terlampaui, penetapan kualitas Pembiayaan yang direstrukturisasi ditetapkan berdasarkan faktor penilaian atas ketepatan pembayaran pokok dan/atau margin/bagi hasil/ _ujrah_ .
 
-# Pasal II
+**Pasal II**
 
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal diundangkan.
 
@@ -300,27 +306,27 @@ ttd
 
 Yuliana
 
-# PENJELASAN
+## Penjelasan
 
-# ATAS
+### I. Umum
 
-# PERATURAN OTORITAS JASA KEUANGAN
+**ATAS**
 
-# REPUBLIK INDONESIA
+**PERATURAN OTORITAS JASA KEUANGAN**
+
+**REPUBLIK INDONESIA**
 
 NOMOR 19 /POJK.03/2018
 
-# TENTANG
+**TENTANG**
 
 PERUBAHAN ATAS PERATURAN OTORITAS JASA KEUANGAN NOMOR 16/POJK.03/2014 TENTANG PENILAIAN KUALITAS ASET BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH
-
-# I. UMUM
 
 Untuk meningkatkan pertumbuhan ekonomi Indonesia dan daya saing nasional, diperlukan upaya dalam mendorong fungsi intermediasi perbankan syariah melalui penyesuaian ketentuan mengenai penilaian kualitas aset bank. Ketentuan dimaksud diharapkan dapat meningkatkan potensi ekspansi Pembiayaan Bank yang dilakukan secara terukur dengan tetap memperhatikan prinsip kehati-hatian.
 
 Ketentuan dimaksud difokuskan untuk mendorong pertumbuhan Pembiayaan sektor prioritas yaitu sektor perumahan dan meningkatkan devisa melalui penyediaan dana berorientasi ekspor. Sehubungan dengan pertimbangan tersebut, diperlukan kebijakan perbankan dalam mendorong pertumbuhan ekonomi.
 
-# II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
 Pasal I
 
@@ -440,7 +446,7 @@ Huruf b
 
 Angka 1
 
-# Kecukupan KPMR meliputi:
+**Kecukupan KPMR meliputi:**
 
 - a. tata kelola risiko;
 
@@ -462,15 +468,15 @@ Angka 2
 
 Cukup jelas.
 
-# Angka 3
+**Angka 3**
 
 Yang dimaksud dengan “peringkat komposit” adalah peringkat komposit sebagaimana dimaksud dalam peraturan perundang-undangan Otoritas Jasa Keuangan mengenai penilaian tingkat kesehatan bank umum syariah dan unit usaha syariah.
 
-# Ayat (4)
+**Ayat (4)**
 
 Cukup jelas.
 
-# Ayat (5)
+**Ayat (5)**
 
 Bank dapat menggunakan hasil _self assessment_ tingkat kesehatan Bank sepanjang tidak ada permintaan untuk _prudential meeting_ terkait dengan hasil penilaian tingkat kesehatan Bank.
 
@@ -499,9 +505,7 @@ Huruf b
 2. 50 (lima puluh) nasabah terbesar dari unit usaha syariah, tidak termasuk nasabah dari bank induknya.
 
 Angka 2
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Ayat (1)
 
 Batasan Rp5.000.000.000,00 (lima miliar rupiah) diperhitungkan terhadap seluruh fasilitas yang diberikan kepada nasabah atau Kelompok Peminjam.
@@ -531,9 +535,7 @@ Penilaian agunan oleh penilai intern Bank mengacu pada standar penilaian yang di
 Cukup jelas.
 
 Angka 4
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61
 Ayat (1)
 
 Contoh:
@@ -563,3 +565,10 @@ Pasal II
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6251
+
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |

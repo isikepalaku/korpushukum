@@ -24,17 +24,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Bank Umum Syariah
+**Bank Umum Syariah**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/Bank-Umum-Syariah.aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/Bank-Umum-Syariah.aspx)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -81,7 +86,6 @@ Negara Republik Indonesia Nomor 4867);
 2. Undang-Undang Nomor 21 Tahun 2011 tentang
 Otoritas Jasa Keuangan (Lembaran Negara Republik
 
-
 -----
 
 Indonesia Tahun 2011 Nomor 111, Tambahan
@@ -100,7 +104,7 @@ UMUM SYARIAH.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini, yang
 dimaksud dengan:
 1. Bank Umum Syariah yang selanjutnya disebut Bank
@@ -140,7 +144,6 @@ KCP adalah kantor di bawah KC yang membantu KC
 melaksanakan kegiatan usaha perbankan.
 7. Kantor Fungsional yang selanjutnya disingkat KF
 adalah kantor Bank yang melaksanakan kegiatan
-
 
 -----
 
@@ -200,7 +203,6 @@ bersangkutan dapat dibuktikan telah melakukan
 pengendalian perusahaan atau Bank, baik secara
 langsung maupun tidak langsung.
 
-
 -----
 
 19. Kelompok Bank berdasarkan Modal Inti yang
@@ -219,7 +221,7 @@ dukungan serta memberikan nilai tambah dalam
 menunjang pelaksanaan aktivitas bisnis, layanan, dan
 operasional para pihak yang melaksanakan kerja sama.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Setiap pihak yang melakukan kegiatan penghimpunan
 dana dari masyarakat dalam bentuk simpanan wajib
 terlebih dahulu memperoleh izin usaha sebagai Bank
@@ -231,15 +233,15 @@ pihak yang melanggar ketentuan sebagaimana
 dimaksud pada ayat (1) dikenai sanksi administratif
 berupa penghentian dan penutupan kegiatan usaha.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 Bentuk badan hukum Bank berupa perseroan terbatas.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Bank didirikan dan melakukan kegiatan usaha dengan
 izin OJK.
 (2) KPBLN dibuka dengan izin OJK.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Bank wajib melaksanakan kegiatan usaha dengan
 menerapkan prinsip syariah serta menerapkan
 manajemen risiko dan tata kelola sesuai dengan
@@ -254,13 +256,12 @@ manajemen risiko bagi bank umum syariah dan unit
 usaha syariah serta ketentuan peraturan perundangundangan mengenai penerapan tata kelola bagi bank
 umum syariah.
 
-
 -----
 
 BAB II
 RENCANA KORPORASI
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Bank wajib menyusun rencana strategis dalam bentuk
 rencana korporasi.
 (2) Rencana korporasi sebagaimana dimaksud pada ayat (1)
@@ -273,7 +274,7 @@ dimaksud pada ayat (1).
 rencana korporasi sebagaimana dimaksud pada ayat (1)
 dikecualikan bagi bank perantara.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Rencana korporasi sebagaimana dimaksud dalam Pasal
 6 disusun untuk mencapai tujuan Bank dalam jangka
 panjang selama 5 (lima) tahun.
@@ -293,7 +294,7 @@ paling lambat pada akhir bulan November tahun
 sebelum periode awal dari 5 (lima) tahun rencana
 korporasi dimulai.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Dalam hal terdapat kondisi eksternal dan internal yang
 secara signifikan memengaruhi sasaran dan strategi
 Bank sebagaimana dimuat dalam rencana korporasi
@@ -314,7 +315,6 @@ periode sebelumnya;
 c. visi dan misi Bank;
 d. analisis lingkungan internal dan eksternal;
 
-
 -----
 
 e. sasaran dan strategi Bank;
@@ -322,7 +322,7 @@ f. rencana dan strategi Sinergi Perbankan; dan
 g. rencana dan strategi sinergi ekosistem ekonomi
 dan keuangan syariah.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Bank yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 6 ayat (1), ayat (2), Pasal 7 ayat
 (3), dan/atau Pasal 8 ayat (2) dikenai sanksi
@@ -353,7 +353,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Persyaratan dan mekanisme pendirian Bank terdiri atas:
 a. modal disetor;
 b. kepemilikan; dan
@@ -361,7 +361,7 @@ c. perizinan.
 (2) Pendirian Bank sebagaimana dimaksud pada ayat (1)
 tidak berlaku bagi pendirian bank perantara.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Modal disetor untuk mendirikan Bank ditetapkan
 paling sedikit Rp10.000.000.000.000,00 (sepuluh
 triliun rupiah).
@@ -372,10 +372,9 @@ dimaksud pada ayat (1) dengan pertimbangan tertentu.
 ayat (1) tidak berlaku untuk pendirian Bank hasil
 pemisahan unit usaha syariah.
 
-
 -----
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Bank didirikan dan/atau dimiliki oleh:
 a. warga negara Indonesia dan/atau badan hukum
 Indonesia;
@@ -392,12 +391,12 @@ Bagian Kedua
 
 Perizinan
 
-Pasal 13
+### Pasal 13 ^pasal-13
 Perizinan pendirian Bank dilakukan dalam 2 (dua) tahap:
 a. persetujuan prinsip; dan
 b. izin usaha.
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Permohonan untuk memperoleh persetujuan prinsip
 sebagaimana dimaksud dalam Pasal 13 huruf a
 diajukan paling sedikit oleh salah satu calon pemilik
@@ -410,7 +409,7 @@ harus disertai dengan pemenuhan setoran modal paling
 sedikit 40% (empat puluh persen) dari modal disetor
 sebagaimana dimaksud dalam Pasal 11.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) OJK memberikan persetujuan atau penolakan atas
 permohonan persetujuan prinsip sebagaimana
 dimaksud dalam Pasal 14 paling lama 60 (enam puluh)
@@ -428,11 +427,10 @@ calon PSP, calon Direksi, dan calon Dewan
 Komisaris; dan
 d. wawancara terhadap calon DPS.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Persetujuan prinsip sebagaimana dimaksud dalam
 Pasal 15 berlaku untuk jangka waktu 6 (enam) bulan
 terhitung sejak tanggal persetujuan prinsip diterbitkan.
-
 
 -----
 
@@ -456,7 +454,7 @@ pihak yang melanggar ketentuan sebagaimana
 dimaksud pada ayat (2) dikenai sanksi administratif
 berupa pembatalan proses perizinan pendirian Bank.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Permohonan untuk memperoleh izin usaha
 sebagaimana dimaksud dalam Pasal 13 huruf b
 diajukan oleh pihak yang telah memperoleh
@@ -468,7 +466,7 @@ Peraturan OJK ini.
 disertai dengan pelunasan modal disetor sebagaimana
 dimaksud dalam Pasal 11.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) OJK memberikan persetujuan atau penolakan atas
 permohonan izin usaha sebagaimana dimaksud dalam
 Pasal 13 huruf b paling lama 60 (enam puluh) hari kerja
@@ -486,12 +484,11 @@ c. wawancara atas calon DPS dalam hal terdapat
 penggantian DPS yang diajukan saat permohonan
 persetujuan prinsip.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) Bank yang telah memperoleh izin usaha dari OJK harus
 melakukan kegiatan usaha perbankan syariah paling
 lama 60 (enam puluh) hari kerja terhitung sejak tanggal
 izin usaha diterbitkan.
-
 
 -----
 
@@ -510,7 +507,7 @@ sesuai jangka waktu sebagaimana dimaksud pada ayat
 yang telah diterbitkan oleh OJK dinyatakan batal dan
 tidak berlaku.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Bank yang telah memperoleh izin usaha dari OJK wajib
 mencantumkan secara jelas kata “Syariah” sesudah
 kata “Bank” atau setelah nama Bank pada penulisan
@@ -524,7 +521,7 @@ tambahan dalam melaksanakan hubungan hukum,
 Bank wajib mencantumkan nama Bank sebagai
 identitas utama.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Bank yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 19 ayat (2), Pasal 20 ayat (1),
 dan/atau ayat (3) dikenai sanksi administratif berupa
@@ -552,13 +549,12 @@ administratif berupa larangan sebagai pihak utama
 sesuai dengan Peraturan OJK mengenai penilaian
 kembali bagi pihak utama lembaga jasa keuangan.
 
-
 -----
 
 BAB IV
 BANK DIGITAL
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) Bank dapat beroperasi sebagai Bank Digital.
 (2) Bank Digital wajib memiliki 1 (satu) kantor fisik sebagai
 KP.
@@ -569,7 +565,7 @@ a. tanpa kantor fisik selain KP sebagaimana dimaksud
 pada ayat (2); atau
 b. dapat menggunakan kantor fisik yang terbatas.
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Bank Digital sebagaimana dimaksud dalam Pasal 22
 harus memenuhi persyaratan:
 a. memiliki model bisnis dengan penggunaan
@@ -594,13 +590,13 @@ keuangan syariah.
 sebagaimana dimaksud pada ayat (1) selama beroperasi
 menjadi Bank Digital.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 Bank Digital sebagaimana dimaksud dalam Pasal 22 dapat
 beroperasi melalui:
 a. pendirian Bank baru sebagai Bank Digital; atau
 b. transformasi dari Bank menjadi Bank Digital.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) Ketentuan mengenai pendirian Bank sebagaimana
 dimaksud dalam Pasal 10 sampai dengan Pasal 21
 berlaku _mutatis mutandis terhadap pendirian Bank_
@@ -612,7 +608,6 @@ khusus dalam Peraturan OJK ini.
 a. setoran modal pada saat permohonan untuk
 memperoleh persetujuan prinsip pendirian Bank
 sebagaimana dimaksud dalam Pasal 14 ayat (2)
-
 
 -----
 
@@ -633,7 +628,7 @@ dituangkan dalam rencana bisnis pada saat
 permohonan untuk memperoleh persetujuan prinsip
 pendirian Bank.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 (1) Bank yang akan bertransformasi menjadi Bank Digital
 sebagaimana dimaksud dalam Pasal 24 huruf b harus
 memenuhi persyaratan sebagaimana dimaksud dalam
@@ -650,7 +645,7 @@ atau bertahap; dan/atau
 c. melakukan penambahan jaringan kantor
 dan/atau TPE.
 
-Pasal 27
+### Pasal 27 ^pasal-27
 Bank Digital sebagaimana dimaksud dalam Pasal 22 dapat:
 a. menggunakan tenaga kerja asing untuk jabatan Direksi,
 Pejabat Eksekutif, dan/atau tenaga ahli atau konsultan,
@@ -662,22 +657,21 @@ asing dan program alih pengetahuan di sektor
 perbankan; dan/atau
 b. melakukan Sinergi Perbankan.
 
-Pasal 28
+### Pasal 28 ^pasal-28
 Bank Digital wajib mengembangkan ekosistem keuangan
 digital dan/atau inklusi keuangan syariah sebagaimana
 dimaksud dalam Pasal 23 ayat (1) huruf f berdasarkan
 prinsip kehati-hatian dan memperhatikan asas pengelolaan
 perbankan yang sehat.
 
-
 -----
 
-Pasal 29
+### Pasal 29 ^pasal-29
 Bank yang beroperasi sebagai Bank Digital wajib memenuhi
 ketentuan peraturan perundang-undangan yang
 diberlakukan untuk Bank.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 (1) Bank yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 22 ayat (2), Pasal 23 ayat (2),
 Pasal 28, dan/atau Pasal 29 dikenai sanksi
@@ -704,7 +698,7 @@ keuangan.
 BAB V
 KEPEMILIKAN DAN PERUBAHAN MODAL BANK
 
-Pasal 31
+### Pasal 31 ^pasal-31
 Sumber dana yang digunakan untuk kepemilikan Bank
 dilarang:
 a. berasal dari pinjaman atau fasilitas pembiayaan dalam
@@ -712,7 +706,7 @@ bentuk apa pun dari Bank dan/atau pihak lain di
 Indonesia; dan
 b. berasal dari dan untuk tujuan pencucian uang.
 
-Pasal 32
+### Pasal 32 ^pasal-32
 (1) Kepemilikan Bank oleh badan hukum sebagaimana
 dimaksud dalam Pasal 12 ayat (1) paling tinggi
 sejumlah modal sendiri bersih badan hukum yang
@@ -724,14 +718,13 @@ untuk pendirian Bank atau pada saat badan hukum
 yang bersangkutan melakukan penambahan modal
 disetor Bank.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 Dalam hal diperlukan, OJK dapat menetapkan batasan
 kepemilikan Bank.
 
-
 -----
 
-Pasal 34
+### Pasal 34 ^pasal-34
 (1) Kepemilikan saham Bank oleh PSP dilarang diagunkan
 atau dijaminkan kepada pihak lain.
 (2) Larangan diagunkan atau dijaminkan kepada pihak
@@ -741,7 +734,7 @@ kewenangan untuk melakukan penyelamatan atau
 penanganan permasalahan bank atau lembaga lain
 yang ditunjuk oleh otoritas yang berwenang.
 
-Pasal 35
+### Pasal 35 ^pasal-35
 (1) Pihak yang menjadi pemilik Bank paling sedikit harus
 memenuhi persyaratan:
 a. memiliki akhlak dan moral yang baik;
@@ -756,20 +749,20 @@ badan hukum, persyaratan sebagaimana dimaksud
 pada ayat (1) berlaku bagi pemilik maupun pengurus
 dari badan hukum tersebut.
 
-Pasal 36
+### Pasal 36 ^pasal-36
 Pihak yang menjadi PSP harus memenuhi persyaratan
 sesuai dengan Peraturan OJK mengenai penilaian
 kemampuan dan kepatutan bagi pihak utama lembaga jasa
 keuangan.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 (1) Pemegang saham dilarang ikut serta dalam
 pengambilan keputusan operasional Bank.
 (2) Ketentuan sebagaimana dimaksud pada ayat (1)
 dikecualikan untuk pemegang saham yang menjadi
 Direksi atau pegawai Bank.
 
-Pasal 38
+### Pasal 38 ^pasal-38
 (1) Penggantian dan/atau penambahan PSP dilaksanakan
 sesuai dengan Peraturan OJK mengenai penilaian
 kemampuan dan kepatutan bagi pihak utama lembaga
@@ -784,10 +777,9 @@ dokumen tercantum dalam Lampiran I yang
 merupakan bagian tidak terpisahkan dari Peraturan
 OJK ini.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 Dalam hal terdapat perubahan modal disetor Bank yang
 disebabkan karena dividen yang dibagikan dalam bentuk
-
 
 -----
 
@@ -796,7 +788,7 @@ lama 10 (sepuluh) hari kerja setelah perubahan dilakukan,
 disertai dokumen tercantum dalam Lampiran I yang
 merupakan bagian tidak terpisahkan dari Peraturan OJK ini.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 (1) Bank wajib menginformasikan perubahan komposisi
 kepemilikan saham Bank yang tercatat dalam anggaran
 dasar dan tidak mengakibatkan perubahan
@@ -816,7 +808,7 @@ OJK ini.
 informasi komposisi atau daftar kepemilikan saham
 selain yang dimaksud pada ayat (2) dan ayat (3).
 
-Pasal 41
+### Pasal 41 ^pasal-41
 (1) Bank wajib menginformasikan perubahan komposisi
 kepemilikan saham Bank yang:
 a. tercatat dalam anggaran dasar yang disebabkan
@@ -838,7 +830,7 @@ beralihnya pengendalian Bank yang disebabkan oleh
 hibah atau waris, dikecualikan sebagai
 pengambilalihan.
 
-Pasal 42
+### Pasal 42 ^pasal-42
 Bank wajib menginformasikan perubahan modal dasar Bank
 kepada OJK paling lama 10 (sepuluh) hari kerja setelah
 tanggal persetujuan perubahan anggaran dasar dari instansi
@@ -846,16 +838,15 @@ yang berwenang, disertai dokumen tercantum dalam
 Lampiran I yang merupakan bagian tidak terpisahkan dari
 Peraturan OJK ini.
 
-
 -----
 
-Pasal 43
+### Pasal 43 ^pasal-43
 Pembelian kembali saham yang telah dikeluarkan oleh Bank
 wajib memperoleh persetujuan terlebih dahulu dari OJK dan
 dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
 
-Pasal 44
+### Pasal 44 ^pasal-44
 (1) Rencana penerbitan saham Bank melalui penawaran
 umum efek bersifat ekuitas wajib dicantumkan dalam
 Rencana Bisnis Bank dan memperoleh persetujuan
@@ -864,12 +855,12 @@ OJK.
 penawaran umum efek bersifat ekuitas dilaksanakan
 sesuai dengan ketentuan peraturan perundangundangan di sektor perbankan dan pasar modal.
 
-Pasal 45
+### Pasal 45 ^pasal-45
 Bank wajib mengadministrasikan dokumen terkait
 kepemilikan saham yang tercatat dalam anggaran dasar
 termasuk daftar pemegang saham dan perubahannya.
 
-Pasal 46
+### Pasal 46 ^pasal-46
 (1) Bank yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 31, Pasal 32 ayat (2), Pasal 34
 ayat (1), Pasal 37 ayat (1), Pasal 38 ayat (2), Pasal 39,
@@ -904,7 +895,6 @@ Pasal 43, Pasal 44 ayat (1), dan/atau Pasal 45, pihak
 utama Bank dapat dikenai sanksi administratif berupa
 larangan sebagai pihak utama sesuai dengan Peraturan
 
-
 -----
 
 OJK mengenai penilaian kembali bagi pihak utama
@@ -918,12 +908,12 @@ EKSEKUTIF BANK, SERTA PEMIMPIN KPBLN
 Bagian Kesatu
 Direksi dan Dewan Komisaris
 
-Pasal 47
+### Pasal 47 ^pasal-47
 Tugas dan tanggung jawab Direksi Bank dilaksanakan
 sesuai dengan ketentuan peraturan perundang-undangan
 mengenai penerapan tata kelola bagi bank umum syariah.
 
-Pasal 48
+### Pasal 48 ^pasal-48
 (1) Bank wajib memiliki paling sedikit 3 (tiga) orang
 anggota Direksi.
 (2) Seluruh anggota Direksi sebagaimana dimaksud pada
@@ -931,12 +921,12 @@ ayat (1) wajib berdomisili di Indonesia.
 (3) Direksi wajib dipimpin oleh presiden direktur atau
 direktur utama.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 Presiden direktur atau direktur utama sebagaimana
 dimaksud dalam Pasal 48 ayat (3) wajib berasal dari pihak
 yang independen terhadap PSP.
 
-Pasal 50
+### Pasal 50 ^pasal-50
 (1) Anggota Direksi dilarang merangkap jabatan sebagai
 anggota Direksi, anggota Dewan Komisaris, atau
 Pejabat Eksekutif pada bank, perusahaan, dan/atau
@@ -962,10 +952,9 @@ sebagai anggota Direksi Bank.
 puluh lima persen) dari modal disetor pada perusahaan
 lain.
 
-
 -----
 
-Pasal 51
+### Pasal 51 ^pasal-51
 (1) Mayoritas anggota Direksi dilarang saling memiliki
 hubungan keluarga sampai dengan derajat kedua
 dengan sesama anggota Direksi dan/atau dengan
@@ -974,13 +963,13 @@ anggota Dewan Komisaris.
 kepada pihak lain yang mengakibatkan pengalihan
 tugas dan fungsi Direksi.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 Tugas dan tanggung jawab Dewan Komisaris Bank
 dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan mengenai penerapan tata kelola bagi
 bank umum syariah.
 
-Pasal 53
+### Pasal 53 ^pasal-53
 (1) Bank wajib memiliki paling sedikit 3 (tiga) orang
 anggota Dewan Komisaris dan paling banyak sama
 dengan jumlah anggota Direksi.
@@ -993,7 +982,7 @@ komisaris atau komisaris utama.
 50% (lima puluh persen) dari jumlah anggota Dewan
 Komisaris.
 
-Pasal 54
+### Pasal 54 ^pasal-54
 (1) Anggota Dewan Komisaris dilarang melakukan rangkap
 jabatan sebagai anggota Direksi, anggota Dewan
 Komisaris, atau Pejabat Eksekutif pada:
@@ -1021,15 +1010,14 @@ yang bersangkutan tidak mengabaikan pelaksanaan
 tugas dan tanggung jawab sebagai anggota Dewan
 Komisaris Bank.
 
-
 -----
 
-Pasal 55
+### Pasal 55 ^pasal-55
 Mayoritas anggota Dewan Komisaris dilarang saling memiliki
 hubungan keluarga sampai dengan derajat kedua dengan
 sesama anggota Dewan Komisaris dan/atau anggota Direksi.
 
-Pasal 56
+### Pasal 56 ^pasal-56
 (1) Calon anggota Direksi atau calon anggota Dewan
 Komisaris Bank mengikuti penilaian kemampuan dan
 kepatutan sesuai dengan Peraturan OJK mengenai
@@ -1051,7 +1039,7 @@ Direksi atau anggota Dewan Komisaris Bank kepada
 OJK paling lama 10 (sepuluh) hari kerja setelah tanggal
 pengangkatan efektif, disertai dengan notulen RUPS.
 
-Pasal 57
+### Pasal 57 ^pasal-57
 (1) Dalam hal terdapat anggota Direksi atau anggota
 Dewan Komisaris Bank yang diberhentikan,
 mengundurkan diri, atau meninggal dunia, Bank wajib
@@ -1068,12 +1056,12 @@ Bagian Kedua
 
 DPS
 
-Pasal 58
+### Pasal 58 ^pasal-58
 Tugas dan tanggung jawab DPS Bank dilaksanakan sesuai
 dengan ketentuan peraturan perundang-undangan
 mengenai penerapan tata kelola bagi bank umum syariah.
 
-Pasal 59
+### Pasal 59 ^pasal-59
 (1) Bank wajib membentuk DPS yang berkedudukan di KP
 Bank.
 (2) Jumlah anggota DPS paling sedikit 2 (dua) orang atau
@@ -1082,14 +1070,13 @@ anggota Direksi.
 (3) DPS wajib dipimpin oleh seorang ketua yang berasal
 dari salah satu anggota DPS.
 
-
 -----
 
 (4) Anggota DPS dapat merangkap jabatan sebagai anggota
 DPS paling banyak pada 4 (empat) lembaga keuangan
 syariah lain.
 
-Pasal 60
+### Pasal 60 ^pasal-60
 Anggota DPS harus memenuhi persyaratan:
 a. integritas, yang paling sedikit mencakup:
 1. memiliki akhlak dan moral yang baik;
@@ -1118,7 +1105,7 @@ menyebabkan suatu perseroan dinyatakan pailit,
 dalam waktu 5 (lima) tahun terakhir sebelum
 dicalonkan.
 
-Pasal 61
+### Pasal 61 ^pasal-61
 (1) Bank wajib mengajukan calon anggota DPS untuk
 memperoleh persetujuan OJK sebelum menduduki
 jabatannya.
@@ -1128,7 +1115,7 @@ Majelis Ulama Indonesia.
 (3) Pengangkatan anggota DPS oleh RUPS berlaku efektif
 setelah mendapat persetujuan OJK.
 
-Pasal 62
+### Pasal 62 ^pasal-62
 (1) Permohonan untuk memperoleh persetujuan
 sebagaimana dimaksud dalam Pasal 61 ayat (1)
 diajukan oleh Bank kepada OJK disertai dengan
@@ -1140,7 +1127,6 @@ sebagaimana dimaksud pada ayat (1) diberikan OJK
 dengan mempertimbangkan antara lain:
 a. kelengkapan dan kesesuaian dokumen; dan
 b. wawancara terhadap calon anggota DPS.
-
 
 -----
 
@@ -1158,7 +1144,7 @@ DPS kepada OJK paling lama 10 (sepuluh) hari kerja
 setelah tanggal pengangkatan efektif disertai dengan
 notulen RUPS.
 
-Pasal 63
+### Pasal 63 ^pasal-63
 (1) Dalam hal terdapat anggota DPS yang diberhentikan,
 mengundurkan diri, atau meninggal dunia, Bank wajib
 menginformasikan kepada OJK paling lama 10
@@ -1173,7 +1159,7 @@ meninggal dunia.
 Bagian Ketiga
 Pemimpin KPBLN
 
-Pasal 64
+### Pasal 64 ^pasal-64
 (1) Calon pemimpin KPBLN wajib mengikuti penilaian
 kemampuan dan kepatutan sesuai dengan Peraturan
 OJK mengenai penilaian kemampuan dan kepatutan
@@ -1196,11 +1182,10 @@ dengan dokumen pengangkatan dari pejabat yang
 berwenang pada bank yang berkedudukan di luar
 negeri.
 
-Pasal 65
+### Pasal 65 ^pasal-65
 (1) Dalam hal terdapat pemimpin KPBLN yang
 diberhentikan, mengundurkan diri, atau meninggal
 dunia, KPBLN wajib menginformasikan kepada OJK
-
 
 -----
 
@@ -1216,7 +1201,7 @@ meninggal dunia.
 Bagian Keempat
 Pejabat Eksekutif
 
-Pasal 66
+### Pasal 66 ^pasal-66
 (1) Bank wajib melakukan penilaian terhadap calon
 Pejabat Eksekutif sebelum melakukan pengangkatan
 atau penggantian Pejabat Eksekutif.
@@ -1237,7 +1222,7 @@ e. kemampuan calon untuk menduduki posisi yang
 akan dijabat; dan
 f. rangkap jabatan.
 
-Pasal 67
+### Pasal 67 ^pasal-67
 (1) Dalam hal adanya kekosongan jabatan Pejabat
 Eksekutif atau Pejabat Eksekutif yang menjabat tidak
 dapat menjalankan tugas selama lebih dari 3 (tiga)
@@ -1251,7 +1236,7 @@ paling lama 6 (enam) bulan sejak tanggal penunjukan
 sementara Pejabat Eksekutif sebagaimana dimaksud
 pada ayat (1).
 
-Pasal 68
+### Pasal 68 ^pasal-68
 (1) Bank wajib melaporkan pengangkatan, pemberhentian,
 atau penggantian Pejabat Eksekutif serta penunjukan
 sementara Pejabat Eksekutif kepada OJK.
@@ -1260,7 +1245,6 @@ negatif berdasarkan penilaian OJK, Bank wajib
 mengakhiri masa jabatan Pejabat Eksekutif.
 (3) Rekam jejak negatif sebagaimana dimaksud pada ayat
 (2) meliputi:
-
 
 -----
 
@@ -1282,7 +1266,7 @@ Pejabat Eksekutif diterima oleh Bank.
 Bagian Kelima
 Tenaga Kerja Asing
 
-Pasal 69
+### Pasal 69 ^pasal-69
 Bank yang memanfaatkan tenaga kerja asing harus
 mematuhi persyaratan dan tata cara pemanfaatan tenaga
 kerja asing sesuai dengan ketentuan peraturan perundangundangan.
@@ -1290,7 +1274,7 @@ kerja asing sesuai dengan ketentuan peraturan perundangundangan.
 Bagian Keenam
 Sanksi Administratif
 
-Pasal 70
+### Pasal 70 ^pasal-70
 (1) Bank atau KPBLN yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 48, Pasal 49, Pasal
 50 ayat (1), ayat (3), Pasal 51, Pasal 53, Pasal 54 ayat
@@ -1319,7 +1303,6 @@ Pasal 63 ayat (1), Pasal 64 ayat (1), ayat (4), Pasal 65
 ayat (1), Pasal 66 ayat (1), Pasal 67 ayat (2), ayat (3),
 Pasal 68 ayat (1), ayat (2), dan/atau ayat (4), Bank atau
 KPBLN dikenai sanksi administratif berupa:
-
 
 -----
 
@@ -1351,20 +1334,20 @@ Bagian Kesatu
 
 Umum
 
-Pasal 71
+### Pasal 71 ^pasal-71
 (1) Jaringan kantor Bank terdiri atas KP, Kanwil, KC, KCP,
 KF, dan Kantor di Luar Negeri.
 (2) Untuk memperluas layanan kepada nasabah, Bank
 dapat menyediakan TPE.
 
-Pasal 72
+### Pasal 72 ^pasal-72
 Kantor Bank selain KP dan Kanwil sebagaimana dimaksud
 dalam Pasal 71 ayat (1) dapat menjalankan kegiatan layanan
 dan operasional kepada nasabah dengan menggunakan
 saluran elektronik dan/atau penyediaan TPE baik secara
 menyeluruh atau sebagian.
 
-Pasal 73
+### Pasal 73 ^pasal-73
 (1) Bank menetapkan kantor atau unit organisasi yang
 bertanggung jawab sebagai pengelola atas TPE yang
 disediakan.
@@ -1372,7 +1355,6 @@ disediakan.
 alamat, atau pengakhiran penyediaan TPE kepada OJK
 setelah pelaksanaan penyediaan, pemindahan alamat,
 atau pengakhiran penyediaan TPE.
-
 
 -----
 
@@ -1383,7 +1365,7 @@ Paragraf 1
 
 Umum
 
-Pasal 74
+### Pasal 74 ^pasal-74
 (1) Rencana pembukaan kantor Bank selain KP dan
 penyediaan TPE sebagaimana dimaksud dalam Pasal
 71 harus didasarkan atas analisis yang paling sedikit
@@ -1396,7 +1378,7 @@ kantor Bank.
 terkait rencana pembukaan kantor Bank sebagaimana
 dimaksud pada ayat (1).
 
-Pasal 75
+### Pasal 75 ^pasal-75
 Bank wajib mencantumkan rencana pembukaan kantor
 Bank berupa Kanwil, KC, KCP, dan Kantor di Luar Negeri
 untuk 1 (satu) tahun ke depan dalam Rencana Bisnis Bank.
@@ -1404,7 +1386,7 @@ untuk 1 (satu) tahun ke depan dalam Rencana Bisnis Bank.
 Paragraf 2
 Pembukaan Kanwil Bank
 
-Pasal 76
+### Pasal 76 ^pasal-76
 (1) Pembukaan Kanwil wajib memperoleh izin OJK.
 (2) Bank mengajukan permohonan izin pembukaan Kanwil
 sebagaimana dimaksud pada ayat (1) kepada OJK
@@ -1416,7 +1398,7 @@ dokumen tercantum dalam Lampiran I yang
 merupakan bagian tidak terpisahkan dari Peraturan
 OJK ini.
 
-Pasal 77
+### Pasal 77 ^pasal-77
 (1) OJK memberikan persetujuan atau penolakan atas
 permohonan izin pembukaan Kanwil sebagaimana
 dimaksud dalam Pasal 76.
@@ -1433,10 +1415,9 @@ sebagaimana dimaksud dalam Pasal 75; dan
 b. kelengkapan dan kesesuaian dokumen yang
 disampaikan.
 
-
 -----
 
-Pasal 78
+### Pasal 78 ^pasal-78
 (1) Bank harus melaksanakan pembukaan Kanwil paling
 lama 30 (tiga puluh) hari kerja sejak tanggal
 persetujuan OJK.
@@ -1454,7 +1435,7 @@ OJK setelah pelaksanaan pembukaan Kanwil.
 Paragraf 3
 Pembukaan KC Bank
 
-Pasal 79
+### Pasal 79 ^pasal-79
 (1) Pembukaan KC wajib memperoleh izin OJK.
 (2) Bank mengajukan permohonan izin pembukaan KC
 sebagaimana dimaksud pada ayat (1) kepada OJK
@@ -1466,7 +1447,7 @@ dokumen tercantum dalam Lampiran I yang
 merupakan bagian tidak terpisahkan dari Peraturan
 OJK ini.
 
-Pasal 80
+### Pasal 80 ^pasal-80
 (1) OJK memberikan persetujuan atau penolakan atas
 permohonan izin pembukaan KC sebagaimana
 dimaksud dalam Pasal 79.
@@ -1483,7 +1464,7 @@ sebagaimana dimaksud dalam Pasal 75; dan
 b. kelengkapan dan kesesuaian dokumen yang
 disampaikan.
 
-Pasal 81
+### Pasal 81 ^pasal-81
 (1) Bank harus melaksanakan pembukaan KC paling lama
 30 (tiga puluh) hari kerja sejak tanggal persetujuan OJK.
 (2) Dalam hal terdapat keadaan kahar atau pertimbangan
@@ -1492,7 +1473,6 @@ sebagaimana dimaksud pada ayat (1) dapat
 diperpanjang berdasarkan persetujuan OJK.
 (3) Dalam hal jangka waktu sebagaimana dimaksud pada
 ayat (1) atau ayat (2) Bank tidak melaksanakan
-
 
 -----
 
@@ -1504,7 +1484,7 @@ setelah pelaksanaan pembukaan KC.
 Paragraf 4
 Pembukaan KCP Bank
 
-Pasal 82
+### Pasal 82 ^pasal-82
 (1) KCP dapat berbentuk permanen atau berpindah.
 (2) Pembukaan KCP hanya dapat dilakukan setelah
 mendapat surat penegasan OJK.
@@ -1519,7 +1499,7 @@ KCP.
 Paragraf 5
 Pembukaan KF Bank
 
-Pasal 83
+### Pasal 83 ^pasal-83
 (1) KF dapat melakukan kegiatan operasional atau
 melakukan kegiatan selain operasional.
 (2) Bank wajib melaporkan pembukaan KF kepada OJK
@@ -1531,7 +1511,7 @@ pembukaan KF.
 Paragraf 6
 Pembukaan Kantor Bank di Luar Negeri
 
-Pasal 84
+### Pasal 84 ^pasal-84
 (1) Pembukaan Kantor di Luar Negeri wajib memperoleh
 izin OJK dan otoritas di negara setempat.
 (2) Bank yang dapat mengajukan pembukaan Kantor di
@@ -1551,10 +1531,9 @@ dokumen tercantum dalam Lampiran I yang
 merupakan bagian tidak terpisahkan dari Peraturan
 OJK ini.
 
-
 -----
 
-Pasal 85
+### Pasal 85 ^pasal-85
 (1) OJK memberikan persetujuan atau penolakan atas
 permohonan izin pembukaan Kantor di Luar Negeri
 sebagaimana dimaksud dalam Pasal 84.
@@ -1575,7 +1554,7 @@ dan melakukan analisis; dan
 c. kelengkapan dan kesesuaian dokumen yang
 disampaikan.
 
-Pasal 86
+### Pasal 86 ^pasal-86
 (1) Pembukaan Kantor di Luar Negeri harus dilaksanakan
 paling lama 1 (satu) tahun sejak tanggal persetujuan
 OJK.
@@ -1602,17 +1581,16 @@ Paragraf 1
 
 Umum
 
-Pasal 87
+### Pasal 87 ^pasal-87
 Bank dapat melakukan perubahan status atas kantor yang
 dimiliki.
-
 
 -----
 
 Paragraf 2
 Perubahan Status KCP menjadi KC
 
-Pasal 88
+### Pasal 88 ^pasal-88
 (1) Bank wajib mencantumkan rencana perubahan status
 KCP menjadi KC untuk 1 (satu) tahun ke depan dalam
 Rencana Bisnis Bank.
@@ -1624,7 +1602,7 @@ Pasal 80, dan Pasal 81.
 Paragraf 3
 Perubahan Status KC menjadi KCP
 
-Pasal 89
+### Pasal 89 ^pasal-89
 (1) Bank wajib mencantumkan rencana perubahan status
 KC menjadi KCP untuk 1 (satu) tahun ke depan dalam
 Rencana Bisnis Bank.
@@ -1648,7 +1626,7 @@ status.
 Paragraf 4
 Perubahan Status Kantor Bank Lainnya
 
-Pasal 90
+### Pasal 90 ^pasal-90
 Perubahan status kantor selain sebagaimana dimaksud
 dalam Pasal 88 dan Pasal 89 dilakukan dengan cara
 melakukan penutupan kantor Bank yang akan berubah
@@ -1659,20 +1637,19 @@ Peraturan OJK ini.
 Bagian Keempat
 Pemindahan Alamat Kantor Bank
 
-Pasal 91
+### Pasal 91 ^pasal-91
 Bank wajib mencantumkan rencana pemindahan alamat
 kantor Bank untuk 1 (satu) tahun ke depan dalam Rencana
 Bisnis Bank untuk:
 a. KP yang mengakibatkan perubahan tempat kedudukan
 dalam anggaran dasar;
 
-
 -----
 
 b. Kanwil ke provinsi yang berbeda; atau
 c. Kantor di Luar Negeri ke kota yang berbeda.
 
-Pasal 92
+### Pasal 92 ^pasal-92
 (1) Pemindahan alamat kantor Bank sebagaimana
 dimaksud dalam Pasal 91 wajib memperoleh izin dari
 OJK.
@@ -1705,7 +1682,7 @@ dengan akta persetujuan RUPS kepada OJK paling
 lama 5 (lima) hari kerja sejak tanggal persetujuan
 instansi yang berwenang.
 
-Pasal 93
+### Pasal 93 ^pasal-93
 (1) OJK memberikan persetujuan atau penolakan atas
 pemindahan alamat kantor Bank sebagaimana
 dimaksud dalam Pasal 92.
@@ -1723,10 +1700,9 @@ Bisnis Bank sebagaimana dimaksud dalam Pasal
 b. kelengkapan dan kesesuaian dokumen yang
 disampaikan.
 
-
 -----
 
-Pasal 94
+### Pasal 94 ^pasal-94
 (1) Bank yang telah memperoleh persetujuan pemindahan
 alamat kantor sebagaimana dimaksud dalam Pasal 91
 dari OJK serta persetujuan dari otoritas negara
@@ -1783,7 +1759,6 @@ pemindahan alamat paling lama sebelum pelaksanaan
 pemindahan alamat kantor Bank sebagaimana
 dimaksud pada ayat (2) melalui:
 
-
 -----
 
 a. surat kabar harian berbahasa Indonesia yang
@@ -1791,7 +1766,7 @@ beredar secara nasional;
 b. situs web Bank; dan/atau
 c. akun media sosial resmi Bank.
 
-Pasal 95
+### Pasal 95 ^pasal-95
 (1) Bank wajib menginformasikan rencana pemindahan
 alamat:
 a. KP yang tidak mengakibatkan perubahan tempat
@@ -1835,13 +1810,12 @@ d. akun media sosial resmi Bank,
 paling lama pada tanggal efektif pemindahan alamat
 sebagaimana dimaksud pada ayat (1).
 
-Pasal 96
+### Pasal 96 ^pasal-96
 (1) Bank dapat melakukan pemindahan sementara alamat
 kantor Bank karena keadaan kahar atau pertimbangan
 lain.
 (2) Bank wajib menginformasikan pemindahan sementara
 alamat kantor Bank sebagaimana dimaksud pada ayat
-
 
 -----
 
@@ -1859,12 +1833,12 @@ mengikuti ketentuan otoritas negara setempat.
 Bagian Kelima
 Penutupan Kantor Bank
 
-Pasal 97
+### Pasal 97 ^pasal-97
 Bank wajib mencantumkan rencana penutupan kantor
 Bank berupa Kanwil, KC, dan/atau Kantor di Luar Negeri
 untuk 1 (satu) tahun ke depan dalam Rencana Bisnis Bank.
 
-Pasal 98
+### Pasal 98 ^pasal-98
 (1) Penutupan kantor Bank berupa Kanwil, KC, dan/atau
 Kantor di Luar Negeri wajib memperoleh izin OJK.
 (2) Bank mengajukan permohonan izin penutupan kantor
@@ -1884,7 +1858,7 @@ dengan alasan penutupan kantor dan dokumen
 tercantum dalam Lampiran I yang merupakan bagian
 tidak terpisahkan dari Peraturan OJK ini.
 
-Pasal 99
+### Pasal 99 ^pasal-99
 (1) OJK memberikan persetujuan atau penolakan atas
 permohonan izin penutupan kantor Bank sebagaimana
 dimaksud dalam Pasal 98.
@@ -1901,10 +1875,9 @@ sebagaimana dimaksud dalam Pasal 97; dan
 b. kelengkapan dan kesesuaian dokumen yang
 disampaikan.
 
-
 -----
 
-Pasal 100
+### Pasal 100 ^pasal-100
 (1) Bank yang telah memperoleh persetujuan penutupan
 kantor sebagaimana dimaksud dalam Pasal 99 dari
 OJK serta persetujuan dari otoritas negara setempat
@@ -1955,12 +1928,11 @@ a. surat kabar harian berbahasa Indonesia;
 b. situs web Bank; dan/atau
 c. akun media sosial resmi Bank.
 
-Pasal 101
+### Pasal 101 ^pasal-101
 (1) Bank wajib menginformasikan rencana penutupan KCP
 atau KF yang melakukan kegiatan operasional kepada
 OJK paling lama 30 (tiga puluh) hari kerja sebelum
 tanggal efektif penutupan.
-
 
 -----
 
@@ -1995,7 +1967,7 @@ d. akun media sosial resmi Bank,
 paling lama pada tanggal efektif penutupan
 sebagaimana dimaksud pada ayat (1).
 
-Pasal 102
+### Pasal 102 ^pasal-102
 (1) Bank dapat melakukan penutupan sementara kantor
 Bank selain KP karena keadaan kahar atau
 pertimbangan lain.
@@ -2016,10 +1988,9 @@ tanggal efektif kembali beroperasi.
 (5) Penutupan sementara Kantor di Luar Negeri juga
 mengikuti ketentuan otoritas negara setempat.
 
-Pasal 103
+### Pasal 103 ^pasal-103
 Bank bertanggung jawab dalam penyelesaian seluruh hak
 dan kewajiban terhadap penutupan jaringan kantor Bank
-
 
 -----
 
@@ -2029,7 +2000,7 @@ terdapat tuntutan dikemudian hari.
 Bagian Keenam
 Penundaan atau Pembatalan oleh OJK
 
-Pasal 104
+### Pasal 104 ^pasal-104
 Berdasarkan pertimbangan OJK, Bank wajib menunda atau
 membatalkan rencana pembukaan, perubahan status,
 pemindahan alamat, pembatalan pemindahan alamat,
@@ -2039,7 +2010,7 @@ kantor Bank.
 Bagian Ketujuh
 Sanksi Administratif
 
-Pasal 105
+### Pasal 105 ^pasal-105
 (1) Bank yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 74 ayat (2), Pasal 75, Pasal 76
 ayat (1), Pasal 79 ayat (1), Pasal 82 ayat (5), Pasal 83
@@ -2080,7 +2051,6 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat (2)
 dan tetap melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 74 ayat (2), Pasal 75, Pasal 76 ayat (1),
 
-
 -----
 
 Pasal 79 ayat (1), Pasal 82 ayat (5), Pasal 83 ayat (3),
@@ -2117,7 +2087,7 @@ BANK
 Bagian Kesatu
 Perubahan Nama Bank
 
-Pasal 106
+### Pasal 106 ^pasal-106
 (1) Perubahan nama Bank wajib dilaksanakan sesuai
 dengan ketentuan peraturan perundang-undangan.
 (2) Bank wajib menyampaikan rencana perubahan nama
@@ -2141,7 +2111,6 @@ diterima secara lengkap.
 (5) Bank wajib mengumumkan perubahan nama Bank
 kepada masyarakat melalui:
 
-
 -----
 
 a. surat kabar harian berbahasa Indonesia;
@@ -2157,7 +2126,7 @@ pengumuman.
 Bagian Kedua
 Perubahan Logo Bank
 
-Pasal 107
+### Pasal 107 ^pasal-107
 (1) Bank wajib menyampaikan rencana perubahan logo
 Bank kepada OJK disertai dengan:
 a. desain logo baru; dan
@@ -2183,7 +2152,7 @@ ada.
 Bagian Ketiga
 Perubahan Anggaran Dasar Bank
 
-Pasal 108
+### Pasal 108 ^pasal-108
 (1) Perubahan anggaran dasar Bank harus mendapatkan
 persetujuan atau pemberitahuan perubahan anggaran
 dasar dari instansi yang berwenang.
@@ -2193,14 +2162,13 @@ paling lama 10 (sepuluh) hari kerja setelah tanggal
 pelaksanaan kegiatan operasional disertai dengan akta
 perubahan anggaran dasar dimaksud.
 
-Pasal 109
+### Pasal 109 ^pasal-109
 (1) Bank yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 106 ayat (1), ayat (2), ayat (3),
 ayat (5), ayat (6), Pasal 107, dan/atau Pasal 108 ayat (2)
 dikenai sanksi administratif berupa teguran tertulis.
 (2) Bank yang terlambat memenuhi kewajiban
 penyampaian bukti pengumuman, penyampaian
-
 
 -----
 
@@ -2233,7 +2201,7 @@ BAB IX
 
 KPBLN
 
-Pasal 110
+### Pasal 110 ^pasal-110
 (1) Bank yang berkantor pusat dan berkedudukan di luar
 negeri dan melaksanakan kegiatan usaha berdasarkan
 prinsip syariah, yang akan membuka KPBLN harus:
@@ -2258,10 +2226,9 @@ OJK ini.
 KPBLN sebagaimana dimaksud pada ayat (2) diajukan
 dalam Bahasa Indonesia dan Bahasa Inggris.
 
-Pasal 111
+### Pasal 111 ^pasal-111
 (1) OJK memberikan persetujuan atau penolakan atas
 permohonan izin pembukaan KPBLN sebagaimana
-
 
 -----
 
@@ -2281,7 +2248,7 @@ kerja sejak tanggal izin pembukaan dari OJK, izin
 pembukaan KPBLN yang telah diterbitkan oleh OJK
 dinyatakan batal dan tidak berlaku.
 
-Pasal 112
+### Pasal 112 ^pasal-112
 (1) Kegiatan yang dapat dilakukan oleh KPBLN:
 a. memberikan keterangan kepada pihak ketiga
 mengenai syarat dan tata cara dalam melakukan
@@ -2322,12 +2289,11 @@ KPBLN sesuai dengan Peraturan OJK mengenai
 penilaian kembali bagi pihak utama lembaga jasa
 keuangan; dan
 
-
 -----
 
 b. penutupan KPBLN.
 
-Pasal 113
+### Pasal 113 ^pasal-113
 (1) KPBLN wajib menyampaikan laporan kepada OJK
 tentang nasabah di Indonesia yang menerima
 pembiayaan atau fasilitas penyediaan dana lainnya,
@@ -2338,7 +2304,7 @@ posisi akhir bulan Maret, bulan Juni, bulan September,
 dan bulan Desember, wajib disampaikan paling lama 5
 (lima) hari kerja bulan berikutnya.
 
-Pasal 114
+### Pasal 114 ^pasal-114
 (1) KPBLN wajib menyampaikan rencana kerja untuk 1
 (satu) tahun ke depan kepada OJK.
 (2) Rencana kerja KPBLN sebagaimana dimaksud pada
@@ -2351,12 +2317,12 @@ sebagaimana dimaksud pada ayat (1) yang
 ditandatangani oleh pemimpin KPBLN kepada OJK
 paling lambat akhir bulan November.
 
-Pasal 115
+### Pasal 115 ^pasal-115
 KPBLN wajib melaporkan pemindahan alamat KPBLN
 kepada OJK paling lama 10 (sepuluh) hari kerja setelah
 tanggal efektif pelaksanaan pemindahan alamat KPBLN.
 
-Pasal 116
+### Pasal 116 ^pasal-116
 (1) Pemimpin KPBLN wajib menyampaikan perubahan
 nama dan/atau bentuk badan hukum kantor pusat
 dari KPBLN kepada OJK paling lama 30 (tiga puluh)
@@ -2369,7 +2335,7 @@ dari Peraturan OJK ini.
 nama yang baru paling lama 14 (empat belas) hari kerja
 setelah dokumen pendukung diterima secara lengkap.
 
-Pasal 117
+### Pasal 117 ^pasal-117
 (1) KPBLN yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 113, Pasal 114 ayat (1), ayat (3),
 Pasal 115, dan/atau Pasal 116 ayat (1) dikenai sanksi
@@ -2381,7 +2347,6 @@ sebagaimana dimaksud dalam Pasal 113 ayat (2), Pasal
 dikenai sanksi administratif berupa denda sebesar
 Rp1.000.000,00 (satu juta rupiah) per hari kerja dan
 paling banyak Rp30.000.000,00 (tiga puluh juta rupiah).
-
 
 -----
 
@@ -2409,7 +2374,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 118
+### Pasal 118 ^pasal-118
 (1) OJK melakukan pencabutan izin usaha Bank atau
 penutupan KPBLN.
 (2) Pencabutan izin usaha Bank atau penutupan KPBLN
@@ -2427,7 +2392,7 @@ yang berwenang; atau
 d. izin usaha kantor pusat KPBLN dicabut atau
 dilikuidasi oleh otoritas negara setempat.
 
-Pasal 119
+### Pasal 119 ^pasal-119
 Dalam hal Bank memenuhi persyaratan:
 a. tidak dalam status pengawasan khusus; dan
 b. melaksanakan tahapan dalam pencabutan izin usaha
@@ -2435,13 +2400,12 @@ sesuai dengan peraturan OJK ini,
 OJK melakukan pencabutan izin usaha Bank sebagaimana
 dimaksud dalam Pasal 118 ayat (2) huruf a angka 1.
 
-Pasal 120
+### Pasal 120 ^pasal-120
 (1) Pencabutan izin usaha bagi Bank sebagaimana
 dimaksud dalam Pasal 118 ayat (2) huruf a angka 1
 dilakukan dalam 2 (dua) tahap:
 a. persetujuan persiapan pencabutan izin usaha; dan
 b. keputusan pencabutan izin usaha.
-
 
 -----
 
@@ -2457,7 +2421,7 @@ Pencabutan Izin Usaha Bank atas Permintaan Pemilik atau
 
 Pemegang Saham
 
-Pasal 121
+### Pasal 121 ^pasal-121
 (1) Direksi Bank mengajukan permohonan persetujuan
 persiapan pencabutan izin usaha sebagaimana
 dimaksud dalam Pasal 120 ayat (1) huruf a kepada OJK,
@@ -2467,7 +2431,7 @@ OJK ini.
 (2) OJK dapat meminta dokumen lain selain sebagaimana
 dimaksud pada ayat (1).
 
-Pasal 122
+### Pasal 122 ^pasal-122
 (1) OJK menerbitkan persetujuan persiapan pencabutan
 izin usaha Bank paling lama 14 (empat belas) hari kerja
 setelah dokumen diterima secara lengkap berdasarkan
@@ -2490,7 +2454,7 @@ melakukan verifikasi atas penyelesaian hak dan
 kewajiban Bank sebagaimana dimaksud dalam
 huruf c.
 
-Pasal 123
+### Pasal 123 ^pasal-123
 (1) Dalam hal seluruh hak dan kewajiban Bank
 sebagaimana dimaksud dalam Pasal 122 huruf c telah
 diselesaikan, Direksi Bank mengajukan permohonan
@@ -2502,7 +2466,6 @@ OJK ini.
 sebagaimana dimaksud pada ayat (1), OJK melakukan
 penelitian atas kelengkapan dan kesesuaian dokumen
 sebagaimana dimaksud pada ayat (1).
-
 
 -----
 
@@ -2519,7 +2482,7 @@ apabila dikemudian hari masih terdapat kewajiban
 yang belum diselesaikan, kewajiban dimaksud menjadi
 tanggung jawab pemegang saham Bank.
 
-Pasal 124
+### Pasal 124 ^pasal-124
 Badan hukum Bank sebagaimana dimaksud dalam Pasal
 123 ayat (4) berakhir sejak tanggal pengumuman status
 badan hukum Bank berakhir sesuai dengan ketentuan
@@ -2530,7 +2493,7 @@ Penutupan KPBLN atas Permintaan Kantor Pusat dari
 
 KPBLN
 
-Pasal 125
+### Pasal 125 ^pasal-125
 (1) Pejabat yang berwenang di kantor pusat KPBLN
 mengajukan permohonan penutupan KPBLN
 sebagaimana dimaksud dalam Pasal 118 ayat (2) huruf
@@ -2550,7 +2513,7 @@ penyelesaian.
 Bagian Ketiga
 Pencabutan Izin Usaha sebagai Tindakan Resolusi Bank
 
-Pasal 126
+### Pasal 126 ^pasal-126
 (1) OJK melakukan pencabutan izin usaha Bank yang
 merupakan tindak lanjut dari resolusi Bank
 sebagaimana dimaksud dalam Pasal 118 ayat (2) huruf
@@ -2559,7 +2522,6 @@ c.
 dimaksud pada ayat (1) dilaksanakan sesuai dengan
 ketentuan peraturan perundang-undangan.
 
-
 -----
 
 Bagian Keempat
@@ -2567,7 +2529,7 @@ Penutupan KPBLN karena Pencabutan Izin Usaha Kantor
 
 Pusat dari KPBLN oleh Otoritas Negara Setempat
 
-Pasal 127
+### Pasal 127 ^pasal-127
 (1) KPBLN wajib menginformasikan kepada OJK paling
 lama 3 (tiga) hari kerja sejak kantor pusat KPBLN
 dicabut izin usaha oleh otoritas negara setempat.
@@ -2582,13 +2544,13 @@ b. menyelesaikan seluruh kewajiban.
 Bagian Kelima
 Tindak Lanjut Pencabutan Izin Usaha
 
-Pasal 128
+### Pasal 128 ^pasal-128
 Dalam hal Bank yang dicabut izin usaha berupa perusahaan
 terbuka, seluruh aspek pasar modal yang terkait dengan
 Bank diselesaikan sesuai dengan ketentuan peraturan
 perundang-undangan di sektor pasar modal.
 
-Pasal 129
+### Pasal 129 ^pasal-129
 (1) OJK mengumumkan pencabutan izin usaha Bank pada
 situs web OJK.
 (2) Bagi Bank yang memiliki Kantor di Luar Negeri,
@@ -2605,7 +2567,7 @@ berlaku bagi penutupan KPBLN sehubungan dengan
 izin usaha kantor pusat KPBLN dicabut atau dilikuidasi
 oleh otoritas negara setempat.
 
-Pasal 130
+### Pasal 130 ^pasal-130
 (1) Bank wajib menyampaikan kepada OJK laporan posisi
 keuangan penutupan Bank yang telah diaudit oleh
 akuntan publik paling lama 10 (sepuluh) hari kerja
@@ -2620,20 +2582,19 @@ keputusan penutupan KPBLN oleh OJK, disertai
 dengan dokumen daftar kewajiban KPBLN yang
 termasuk dalam skema penyelesaian.
 
-
 -----
 
 (3) OJK dapat meminta dokumen lain selain sebagaimana
 dimaksud pada ayat (1) dan ayat (2).
 
-Pasal 131
+### Pasal 131 ^pasal-131
 (1) Sejak tanggal pencabutan izin usaha, Direksi Bank
 dilarang melakukan perbuatan hukum berkaitan
 dengan hak dan kewajiban Bank.
 (2) Sejak tanggal keputusan penutupan, KPBLN dilarang
 melakukan kegiatan KPBLN.
 
-Pasal 132
+### Pasal 132 ^pasal-132
 (1) Bank atau KPBLN yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 122 ayat (2), Pasal
 127 ayat (1), ayat (3), Pasal 130 ayat (1), ayat (2),
@@ -2652,7 +2613,7 @@ kembali bagi pihak utama lembaga jasa keuangan.
 BAB XI
 SINERGI PERBANKAN
 
-Pasal 133
+### Pasal 133 ^pasal-133
 (1) Bank dapat melakukan Sinergi Perbankan.
 (2) Sinergi Perbankan sebagaimana dimaksud pada ayat (1)
 meliputi sinergi:
@@ -2663,7 +2624,7 @@ dengan Bank; atau
 c. Bank sebagai perusahaan induk terhadap lembaga
 jasa keuangan nonbank sebagai perusahaan anak.
 
-Pasal 134
+### Pasal 134 ^pasal-134
 (1) Dalam melaksanakan Sinergi Perbankan sebagaimana
 dimaksud dalam Pasal 133, kedua belah pihak harus
 membuat perjanjian kerja sama secara tertulis.
@@ -2679,7 +2640,6 @@ kerahasiaan dan keamanan informasi,
 termasuk kerahasiaan dan keamanan
 informasi untuk keperluan perlindungan data
 nasabah;
-
 
 -----
 
@@ -2726,7 +2686,7 @@ dikecualikan dari persetujuan OJK sesuai dengan
 Peraturan OJK mengenai penyelenggaraan teknologi
 informasi oleh bank umum.
 
-Pasal 135
+### Pasal 135 ^pasal-135
 (1) Pelaksanaan Sinergi Perbankan oleh Bank wajib
 disertai dengan opini DPS.
 (2) Pihak yang melaksanakan Sinergi Perbankan wajib
@@ -2739,7 +2699,6 @@ kerja sama.
 Bank wajib melaporkan kepada OJK paling lama 5 (lima)
 hari kerja sejak tanggal perubahan perjanjian kerja
 
-
 -----
 
 sama disertai dengan salinan perubahan perjanjian
@@ -2750,7 +2709,7 @@ Bank wajib melaporkan kepada OJK paling lama 30
 (tiga puluh) hari kerja sebelum tanggal efektif
 penghentian perjanjian kerja sama.
 
-Pasal 136
+### Pasal 136 ^pasal-136
 (1) Bank dan/atau bank umum konvensional yang
 melanggar ketentuan sebagaimana dimaksud dalam
 Pasal 134 ayat (6) dan/atau Pasal 135 dikenai sanksi
@@ -2786,7 +2745,7 @@ lembaga jasa keuangan.
 BAB XII
 PENYAMPAIAN PERIZINAN DAN LAPORAN
 
-Pasal 137
+### Pasal 137 ^pasal-137
 (1) Penyampaian terkait:
 a. permohonan untuk memperoleh izin dan/atau
 penyampaian informasi dan dokumen terkait
@@ -2798,7 +2757,6 @@ ayat (2), Pasal 92 ayat (2), Pasal 94 ayat (6), Pasal
 Pasal 100 ayat (6), Pasal 101 ayat (1), ayat (3), ayat
 (4), Pasal 106 ayat (2), ayat (3), Pasal 110 ayat (2),
 Pasal 116 ayat (1), Pasal 121 ayat (1), Pasal 123
-
 
 -----
 
@@ -2838,7 +2796,7 @@ terpisahkan dari Peraturan OJK ini.
 BAB XIII
 PENGELOMPOKAN BANK
 
-Pasal 138
+### Pasal 138 ^pasal-138
 (1) Berdasarkan Modal Inti yang dimiliki, Bank
 dikelompokkan menjadi 4 (empat) KBMI:
 a. KBMI 1 merupakan Bank dengan Modal Inti
@@ -2858,10 +2816,9 @@ rupiah).
 (2) KBMI untuk unit usaha syariah didasarkan pada Modal
 Inti bank umum konvensional yang menjadi induknya.
 
-
 -----
 
-Pasal 139
+### Pasal 139 ^pasal-139
 (1) Dalam hal diperlukan, OJK dapat menetapkan
 penginian pengelompokan Bank berdasarkan Modal
 Inti sebagaimana dimaksud dalam Pasal 138.
@@ -2873,7 +2830,7 @@ kinerja bank serta industri keuangan.
 BAB XIV
 KETENTUAN LAIN-LAIN
 
-Pasal 140
+### Pasal 140 ^pasal-140
 (1) Bank dapat mempertahankan jaringan kantor dan
 kegiatan usaha yang telah memperoleh persetujuan
 OJK sebelum Peraturan OJK ini berlaku.
@@ -2893,7 +2850,7 @@ KCP bagi Bank sebagaimana dimaksud pada ayat (2),
 disesuaikan dengan rencana penyesuaian penamaan
 dari Bank.
 
-Pasal 141
+### Pasal 141 ^pasal-141
 (1) Bank wajib menyampaikan risalah RUPS kepada OJK
 paling lama 14 (empat belas) hari kerja setelah
 diselenggarakannya RUPS, sepanjang risalah RUPS
@@ -2905,7 +2862,7 @@ dimaksud pada ayat (1) bagi Bank berupa perusahaan
 terbuka sesuai dengan Peraturan OJK mengenai
 penyelenggaraan RUPS perusahaan terbuka.
 
-Pasal 142
+### Pasal 142 ^pasal-142
 (1) Bank mengumumkan rencana untuk melakukan
 kegiatan operasional di luar hari kerja operasional,
 pada hari libur, dan/atau tidak beroperasi pada hari
@@ -2916,16 +2873,15 @@ a. surat kabar harian berbahasa Indonesia;
 b. situs web Bank; dan/atau
 c. akun media sosial resmi Bank.
 
-
 -----
 
-Pasal 143
+### Pasal 143 ^pasal-143
 Bank atau KPBLN wajib mengadministrasikan dokumen
 dalam pengajuan perizinan sesuai dengan Peraturan OJK ini,
 termasuk dokumen dan persyaratan administratif yang
 disampaikan secara daring.
 
-Pasal 144
+### Pasal 144 ^pasal-144
 Berdasarkan pengelompokan Bank menjadi 4 (empat) KBMI
 sebagaimana dimaksud dalam Pasal 138, dilakukan
 penyesuaian terhadap ketentuan kewajiban pembentukan
@@ -2934,7 +2890,7 @@ termasuk dalam BUKU 3 dan BUKU 4 menjadi berlaku
 untuk Bank yang termasuk dalam KBMI 2, KBMI 3, dan
 KBMI 4.
 
-Pasal 145
+### Pasal 145 ^pasal-145
 (1) Bank atau KPBLN yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 141 ayat (1)
 dan/atau Pasal 143 dikenai sanksi administratif
@@ -2969,16 +2925,15 @@ lembaga jasa keuangan.
 BAB XV
 KETENTUAN PERALIHAN
 
-Pasal 146
+### Pasal 146 ^pasal-146
 Perizinan kelembagaan Bank atau KPBLN yang masih dalam
 proses pada saat Peraturan OJK ini berlaku, tetap mengacu
 pada ketentuan peraturan perundang-undangan yang
 berlaku sebelum Peraturan OJK ini berlaku.
 
-
 -----
 
-Pasal 147
+### Pasal 147 ^pasal-147
 Bank yang telah memiliki rencana korporasi yang memenuhi
 ketentuan sebagaimana dimaksud dalam Pasal 6 ayat (2),
 Pasal 7 ayat (1) dan ayat (2) pada saat Peraturan OJK ini
@@ -2989,7 +2944,7 @@ ini berlaku.
 BAB XVI
 KETENTUAN PENUTUP
 
-Pasal 148
+### Pasal 148 ^pasal-148
 Pada saat Peraturan OJK ini mulai berlaku:
 a. Peraturan Bank Indonesia Nomor 11/3/PBI/2009
 tentang Bank Umum Syariah (Lembaran Negara
@@ -3015,7 +2970,7 @@ Syariah (Lembaran Negara Republik Indonesia Tahun
 Republik Indonesia Nomor 6419),
 dicabut dan dinyatakan tidak berlaku.
 
-Pasal 149
+### Pasal 149 ^pasal-149
 Pada saat Peraturan OJK ini mulai berlaku:
 a. Peraturan Otoritas Jasa Keuangan Nomor
 5/POJK.03/2016 tentang Rencana Bisnis Bank
@@ -3030,10 +2985,9 @@ Nomor 6040),
 dinyatakan tetap berlaku sepanjang tidak bertentangan
 dengan ketentuan dalam Peraturan OJK ini.
 
-Pasal 150
+### Pasal 150 ^pasal-150
 Peraturan OJK ini mulai berlaku setelah 3 (tiga) bulan
 terhitung sejak tanggal diundangkan.
-
 
 -----
 
@@ -3072,10 +3026,11 @@ ttd
 
 Mufli Asmawidjaja
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -3085,8 +3040,6 @@ NOMOR 16 /POJK.03/2022
 
 TENTANG
 BANK UMUM SYARIAH
-
-I. UMUM
 
 Sebagai lembaga intermediasi, bank berperan untuk berkontribusi
 dalam perekonomian melalui dukungan terhadap stabilitas dan
@@ -3129,16 +3082,13 @@ dan responsif, serta mampu bertindak adaptif terhadap perkembangan
 teknologi informasi yang pesat. Berdasarkan pertimbangan tersebut,
 diperlukan pembaruan pengaturan mengenai Bank Umum Syariah.
 
-
 -----
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Kegiatan menghimpun dana dari masyarakat oleh siapa pun
@@ -3151,14 +3101,11 @@ peraturan perundang-undangan tersendiri tidak dicakup
 dalam kegiatan usaha Bank sebagaimana Peraturan OJK ini.
 Ayat (2)
 Cukup jelas.
-
-Pasal 3
+#### Pasal 3 ^penjelasan-pasal-3
 Cukup jelas.
-
-Pasal 4
+#### Pasal 4 ^penjelasan-pasal-4
 Cukup jelas.
-
-Pasal 5
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Yang dimaksud dengan "prinsip syariah" adalah prinsip
@@ -3168,8 +3115,7 @@ dalam penetapan fatwa di bidang syariah.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 6
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 Yang dimaksud dengan “rencana korporasi (corporate plan)”
@@ -3195,8 +3141,7 @@ pencegahan dan penanganan krisis sistem keuangan.
 
 
 -----
-
-Pasal 7
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3264,8 +3209,7 @@ Ayat (3)
 Sebagai contoh, rencana korporasi periode tahun 2023 sampai
 dengan 2027 disampaikan kepada OJK paling lambat akhir
 bulan November 2022.
-
-Pasal 8
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Kondisi eksternal antara lain terjadi perlambatan ekonomi,
@@ -3307,11 +3251,9 @@ e. sasaran dan strategi Bank Syariah X terkini;
 f. rencana dan strategi Sinergi Perbankan terkini; dan
 g. rencana dan strategi sinergi ekosistem ekonomi dan
 keuangan syariah terkini.
-
-Pasal 9
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas.
-
-Pasal 10
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3322,9 +3264,7 @@ perantara.
 
 
 -----
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Modal disetor paling sedikit Rp10.000.000.000.000,00
@@ -3352,11 +3292,9 @@ Kewajiban modal disetor untuk pendirian Bank hasil
 pemisahan unit usaha syariah mengacu pada Peraturan OJK
 mengenai persyaratan dan tata cara pemisahan unit usaha
 syariah.
-
-Pasal 12
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-Pasal 13
+#### Pasal 13 ^penjelasan-pasal-13
 Huruf a
 
 Persetujuan prinsip merupakan persetujuan untuk melakukan
@@ -3366,8 +3304,7 @@ Huruf b
 Izin usaha merupakan izin yang diberikan untuk melakukan
 kegiatan usaha Bank setelah persetujuan prinsip diberikan
 dan persiapan pendirian Bank selesai dilakukan.
-
-Pasal 14
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Salah satu calon pemilik bertindak mewakili calon pemilik lain.
@@ -3375,8 +3312,7 @@ Dalam pelaksanaan, permohonan dapat diajukan oleh calon
 PSP atau calon pemegang saham mayoritas.
 Ayat (2)
 Cukup jelas.
-
-Pasal 15
+#### Pasal 15 ^penjelasan-pasal-15
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3398,8 +3334,7 @@ dan kepatutan bagi pihak utama lembaga jasa keuangan.
 Huruf d
 
 Cukup jelas.
-
-Pasal 16
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3423,15 +3358,11 @@ Ayat (4)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
+#### Pasal 19 ^penjelasan-pasal-19
 Ayat (1)
 
 Melakukan kegiatan usaha perbankan syariah yaitu Bank
@@ -3446,8 +3377,7 @@ memperoleh perizinan dari instansi lain untuk menunjang
 pelaksanaan kegiatan usaha perbankan syariah.
 Ayat (4)
 Cukup jelas.
-
-Pasal 20
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Contohnya: “PT Bank Syariah XYZ” atau “PT Bank XYZ
@@ -3466,11 +3396,9 @@ nasabah dan pihak terkait lain.
 Kewajiban mencantumkan nama Bank terkait dengan
 penggunaan logo antara lain dalam surat menyurat, kegiatan
 promosi, dan papan nama kantor Bank.
-
-Pasal 21
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
-
-Pasal 22
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3481,8 +3409,7 @@ Yang dimaksud dengan “kantor fisik yang terbatas” adalah
 keberadaan kantor fisik baik dari sisi jumlah, jenis, dan/atau
 lokasi kantor sebagai pendukung dari kegiatan usaha Bank
 Digital.
-
-Pasal 23
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 Huruf a
 
@@ -3525,8 +3452,7 @@ yang dapat digunakan secara bersama antar Bank Digital
 untuk melayani kebutuhan nasabah Bank Digital.
 Ayat (2)
 Cukup jelas.
-
-Pasal 24
+#### Pasal 24 ^penjelasan-pasal-24
 Huruf a
 Cukup jelas.
 Huruf b
@@ -3535,8 +3461,7 @@ Transformasi dari Bank menjadi Bank Digital yaitu Bank yang
 telah memperoleh izin usaha Bank sebelum Peraturan OJK ini
 berlaku yang mengubah strategi bisnis menjadi Bank Digital
 atau mengedepankan strategi bisnis menjadi digital.
-
-Pasal 25
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 
 Yang dimaksud dengan “mutatis mutandis” adalah ketentuan
@@ -3558,11 +3483,9 @@ merupakan TPE yang memberikan berbagai layanan
 perbankan.
 Ayat (4)
 Cukup jelas.
-
-Pasal 26
+#### Pasal 26 ^penjelasan-pasal-26
 Cukup jelas.
-
-Pasal 27
+#### Pasal 27 ^penjelasan-pasal-27
 Huruf a
 
 Termasuk dalam pengertian Pejabat Eksekutif antara lain
@@ -3574,11 +3497,9 @@ risiko, kepala satuan kerja kepatuhan, kepala satuan kerja
 audit intern, dan/atau pejabat lain yang setara.
 Huruf b
 Cukup jelas.
-Pasal 28
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Ketentuan peraturan perundang-undangan antara lain ketentuan
 mengenai kelembagaan, prudensial, produk, penerapan program
 
@@ -3588,11 +3509,9 @@ mengenai kelembagaan, prudensial, produk, penerapan program
 anti pencucian uang dan pencegahan pendanaan terorisme di
 sektor jasa keuangan, dan ketentuan terkait lain, termasuk
 pengaturan secara khusus mengenai Bank Digital.
-
-Pasal 30
+#### Pasal 30 ^penjelasan-pasal-30
 Cukup jelas.
-
-Pasal 31
+#### Pasal 31 ^penjelasan-pasal-31
 Huruf a
 
 Pihak lain antara lain lembaga keuangan nonbank atau badan
@@ -3605,8 +3524,7 @@ Huruf b
 
 Pencucian uang sebagaimana dimaksud dalam UndangUndang mengenai pencegahan dan pemberantasan tindak
 pidana pencucian uang.
-
-Pasal 32
+#### Pasal 32 ^penjelasan-pasal-32
 Ayat (1)
 
 Modal sendiri bersih bagi badan hukum perseroan terbatas
@@ -3617,17 +3535,13 @@ Modal sendiri bersih bagi badan hukum bukan perseroan
 terbatas yaitu aset neto dikurangi penyertaan.
 Ayat (2)
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Batasan kepemilikan Bank terkait dengan pendirian dan
 operasional, diperlukan untuk penataan struktur kepemilikan
 Bank atau memperkuat ketahanan industri perbankan nasional.
-
-Pasal 34
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35
+#### Pasal 35 ^penjelasan-pasal-35
 Ayat (1)
 
 Pemilik yaitu pemegang saham, PSP perseorangan dan/atau
@@ -3655,14 +3569,11 @@ penilaian kembali bagi pihak utama lembaga jasa
 keuangan.
 Ayat (2)
 Cukup jelas.
-
-Pasal 36
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup jelas.
-
-Pasal 37
+#### Pasal 37 ^penjelasan-pasal-37
 Cukup jelas.
-
-Pasal 38
+#### Pasal 38 ^penjelasan-pasal-38
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3673,11 +3584,9 @@ perseroan terbatas atau organ yang setara pada badan hukum
 lain.
 Ayat (3)
 Cukup jelas.
-
-Pasal 39
+#### Pasal 39 ^penjelasan-pasal-39
 Cukup jelas.
-
-Pasal 40
+#### Pasal 40 ^penjelasan-pasal-40
 Ayat (1)
 
 Perubahan komposisi kepemilikan yang wajib diinformasikan
@@ -3710,8 +3619,7 @@ melalui bursa efek.
 
 
 -----
-
-Pasal 41
+#### Pasal 41 ^penjelasan-pasal-41
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3723,37 +3631,27 @@ Ayat (4)
 Pengambilalihan yaitu pengambilalihan sesuai dengan
 Peraturan OJK mengenai penggabungan, peleburan,
 pengambilalihan, integrasi, dan konversi bank umum.
-
-Pasal 42
+#### Pasal 42 ^penjelasan-pasal-42
 Cukup jelas.
-
-Pasal 43
+#### Pasal 43 ^penjelasan-pasal-43
 Cukup jelas.
-
-Pasal 44
+#### Pasal 44 ^penjelasan-pasal-44
 Cukup jelas.
-
-Pasal 45
+#### Pasal 45 ^penjelasan-pasal-45
 Cukup jelas.
-
-Pasal 46
+#### Pasal 46 ^penjelasan-pasal-46
 Cukup jelas.
-
-Pasal 47
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Yang dimaksud dengan “independen” adalah tidak terdapat
 keterkaitan kepengurusan, kepemilikan dan/atau hubungan
 keuangan, serta hubungan keluarga sebagaimana dimaksud dalam
 ketentuan peraturan perundang-undangan mengenai penerapan
 tata kelola bagi bank umum syariah.
-
-Pasal 50
+#### Pasal 50 ^penjelasan-pasal-50
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3780,8 +3678,7 @@ Ayat (3)
 Perusahaan lain antara lain perusahaan-perusahaan lain di
 luar Bank yang bersangkutan, seperti lembaga keuangan bank
 dan nonbank, lembaga pembiayaan, atau perusahaan.
-
-Pasal 51
+#### Pasal 51 ^penjelasan-pasal-51
 Ayat (1)
 
 Yang dimaksud dengan “mayoritas” adalah lebih dari 50% dari
@@ -3790,11 +3687,9 @@ Ayat (2)
 
 Yang dimaksud dengan “pihak lain” adalah 1 (satu) orang atau
 lebih pegawai Bank atau orang lain.
-
-Pasal 52
+#### Pasal 52 ^penjelasan-pasal-52
 Cukup jelas.
-
-Pasal 53
+#### Pasal 53 ^penjelasan-pasal-53
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3811,8 +3706,7 @@ saham minoritas dan pemangku kepentingan lainnya.
 Komisaris independen sebagaimana dimaksud dalam
 ketentuan peraturan perundang-undangan mengenai
 penerapan tata kelola bagi bank umum syariah.
-
-Pasal 54
+#### Pasal 54 ^penjelasan-pasal-54
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -3847,24 +3741,17 @@ Huruf c
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Cukup jelas.
-
-Pasal 56
+#### Pasal 56 ^penjelasan-pasal-56
 Cukup jelas.
-
-Pasal 57
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
-
-Pasal 58
+#### Pasal 58 ^penjelasan-pasal-58
 Cukup jelas.
-
-Pasal 59
+#### Pasal 59 ^penjelasan-pasal-59
 Cukup jelas.
-
-Pasal 60
+#### Pasal 60 ^penjelasan-pasal-60
 Huruf a
 Angka 1
 Cukup jelas.
@@ -3902,32 +3789,21 @@ c. kegagalan dalam memenuhi kewajiban penyelesaian
 transaksi efek di perusahaan efek.
 Angka 2
 Cukup jelas.
-
-Pasal 61
+#### Pasal 61 ^penjelasan-pasal-61
 Cukup jelas.
-
-Pasal 62
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Cukup jelas.
-
-Pasal 64
+#### Pasal 64 ^penjelasan-pasal-64
 Cukup jelas.
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
-
-Pasal 66
+#### Pasal 66 ^penjelasan-pasal-66
 Cukup jelas.
-
-Pasal 67
-
+#### Pasal 67 ^penjelasan-pasal-67
 Cukup jelas.
-
-Pasal 68
+#### Pasal 68 ^penjelasan-pasal-68
 Ayat (1)
 
 Termasuk dalam pengertian pemberhentian yaitu
@@ -3942,18 +3818,13 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
-
-Pasal 69
+#### Pasal 69 ^penjelasan-pasal-69
 Cukup jelas.
-
-Pasal 70
+#### Pasal 70 ^penjelasan-pasal-70
 Cukup jelas.
-
-Pasal 71
+#### Pasal 71 ^penjelasan-pasal-71
 Cukup jelas.
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Bagi Kantor di Luar Negeri, pelaksanaan kegiatan layanan dan
 operasional dengan menggunakan saluran elektronik  dan/atau
 
@@ -3961,11 +3832,9 @@ operasional dengan menggunakan saluran elektronik  dan/atau
 -----
 
 penyediaan TPE berpedoman pada aturan otoritas negara setempat.
-
-Pasal 73
+#### Pasal 73 ^penjelasan-pasal-73
 Cukup jelas.
-
-Pasal 74
+#### Pasal 74 ^penjelasan-pasal-74
 Ayat (1)
 Huruf a
 Cukup jelas.
@@ -3977,17 +3846,13 @@ fisik dan teknologi informasi pendukung, dan perangkat
 penunjang lain.
 Ayat (2)
 Cukup jelas.
-
-Pasal 75
+#### Pasal 75 ^penjelasan-pasal-75
 Cukup jelas.
-
-Pasal 76
+#### Pasal 76 ^penjelasan-pasal-76
 Cukup jelas.
-
-Pasal 77
+#### Pasal 77 ^penjelasan-pasal-77
 Cukup jelas.
-
-Pasal 78
+#### Pasal 78 ^penjelasan-pasal-78
 Ayat (1)
 
 Pembukaan Kanwil dinyatakan efektif pada tanggal Bank
@@ -3999,14 +3864,11 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 Cukup jelas.
-
-Pasal 79
+#### Pasal 79 ^penjelasan-pasal-79
 Cukup jelas.
-
-Pasal 80
+#### Pasal 80 ^penjelasan-pasal-80
 Cukup jelas.
-
-Pasal 81
+#### Pasal 81 ^penjelasan-pasal-81
 Ayat (1)
 
 Pembukaan KC dinyatakan efektif pada tanggal Bank
@@ -4020,8 +3882,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 82
+#### Pasal 82 ^penjelasan-pasal-82
 Ayat (1)
 
 Yang dimaksud dengan “permanen” adalah kantor fisik KCP
@@ -4044,8 +3905,7 @@ Ayat (4)
 Cukup jelas.
 Ayat (5)
 Cukup jelas.
-
-Pasal 83
+#### Pasal 83 ^penjelasan-pasal-83
 Ayat (1)
 
 KF yang melakukan kegiatan operasional yaitu KF yang
@@ -4064,14 +3924,11 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 84
+#### Pasal 84 ^penjelasan-pasal-84
 Cukup jelas.
-
-Pasal 85
+#### Pasal 85 ^penjelasan-pasal-85
 Cukup jelas.
-
-Pasal 86
+#### Pasal 86 ^penjelasan-pasal-86
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -4090,20 +3947,16 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 87
+#### Pasal 87 ^penjelasan-pasal-87
 Cukup jelas.
-
-Pasal 88
+#### Pasal 88 ^penjelasan-pasal-88
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 
 Perubahan status KCP menjadi KC tanpa perlu dilakukan
 penutupan KCP.
-
-Pasal 89
-
+#### Pasal 89 ^penjelasan-pasal-89
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -4117,23 +3970,17 @@ Perubahan status KC menjadi KCP tanpa perlu dilakukan
 penutupan KC.
 Ayat (5)
 Cukup jelas.
-
-Pasal 90
-
+#### Pasal 90 ^penjelasan-pasal-90
 Sebagai contoh, perubahan status KF menjadi KC dilakukan
 dengan mengikuti persyaratan dan tata cara penutupan KF dan
 pembukaan KC.
-
-Pasal 91
+#### Pasal 91 ^penjelasan-pasal-91
 Cukup jelas.
-
-Pasal 92
+#### Pasal 92 ^penjelasan-pasal-92
 Cukup jelas.
-
-Pasal 93
+#### Pasal 93 ^penjelasan-pasal-93
 Cukup jelas.
-
-Pasal 94
+#### Pasal 94 ^penjelasan-pasal-94
 Ayat (1)
 
 Situs web yaitu kumpulan halaman web yang memuat
@@ -4166,11 +4013,9 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 95
+#### Pasal 95 ^penjelasan-pasal-95
 Cukup jelas.
-
-Pasal 96
+#### Pasal 96 ^penjelasan-pasal-96
 Ayat (1)
 
 Pertimbangan lain antara lain renovasi bangunan kantor.
@@ -4183,19 +4028,13 @@ sebelum dilakukan pemindahan sementara.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 97
+#### Pasal 97 ^penjelasan-pasal-97
 Cukup jelas.
-
-Pasal 98
-
+#### Pasal 98 ^penjelasan-pasal-98
 Cukup jelas.
-
-Pasal 99
+#### Pasal 99 ^penjelasan-pasal-99
 Cukup jelas.
-
-Pasal 100
-
+#### Pasal 100 ^penjelasan-pasal-100
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -4228,27 +4067,19 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
-
-Pasal 101
+#### Pasal 101 ^penjelasan-pasal-101
 Cukup jelas.
-
-Pasal 102
+#### Pasal 102 ^penjelasan-pasal-102
 Cukup jelas.
-
-Pasal 103
-
+#### Pasal 103 ^penjelasan-pasal-103
 Pihak lain antara lain kreditur, pegawai Bank.
-
-Pasal 104
-
+#### Pasal 104 ^penjelasan-pasal-104
 Pertimbangan OJK antara lain terdapat penurunan tingkat
 kesehatan Bank, peningkatan profil risiko, penurunan kondisi
 keuangan, dan/atau terkait inklusi keuangan pada suatu wilayah.
-
-Pasal 105
+#### Pasal 105 ^penjelasan-pasal-105
 Cukup jelas.
-
-Pasal 106
+#### Pasal 106 ^penjelasan-pasal-106
 Ayat (1)
 
 Tidak termasuk dalam perubahan nama dimaksud yaitu
@@ -4272,8 +4103,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 107
+#### Pasal 107 ^penjelasan-pasal-107
 Ayat (1)
 
 Cukup jelas.
@@ -4291,14 +4121,11 @@ Ayat (4)
 Dokumen pendukung antara lain perubahan anggaran dasar
 yang disetujui oleh instansi yang berwenang ketika perubahan
 logo mengakibatkan perubahan anggaran dasar.
-
-Pasal 108
+#### Pasal 108 ^penjelasan-pasal-108
 Cukup jelas.
-
-Pasal 109
+#### Pasal 109 ^penjelasan-pasal-109
 Cukup jelas.
-
-Pasal 110
+#### Pasal 110 ^penjelasan-pasal-110
 Ayat (1)
 Huruf a
 
@@ -4327,11 +4154,9 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-
-Pasal 111
+#### Pasal 111 ^penjelasan-pasal-111
 Cukup jelas.
-
-Pasal 112
+#### Pasal 112 ^penjelasan-pasal-112
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -4339,14 +4164,12 @@ Ayat (2)
 Kegiatan usaha bank sebagaimana dimaksud dalam UndangUndang mengenai perbankan syariah.
 Ayat (3)
 Cukup jelas.
-
-Pasal 113
+#### Pasal 113 ^penjelasan-pasal-113
 Cukup jelas.
 
 
 -----
-
-Pasal 114
+#### Pasal 114 ^penjelasan-pasal-114
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -4355,19 +4178,14 @@ Ayat (3)
 
 Sebagai contoh penyampaian rencana kerja tahun 2023
 disampaikan paling lambat akhir bulan November tahun 2022.
-
-Pasal 115
-
+#### Pasal 115 ^penjelasan-pasal-115
 Pelaporan pemindahan alamat KPBLN kepada OJK dilengkapi
 dengan alamat KPBLN yang terkini.
-
-Pasal 116
+#### Pasal 116 ^penjelasan-pasal-116
 Cukup jelas.
-
-Pasal 117
+#### Pasal 117 ^penjelasan-pasal-117
 Cukup jelas.
-
-Pasal 118
+#### Pasal 118 ^penjelasan-pasal-118
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -4391,8 +4209,7 @@ penanganan krisis sistem keuangan.
 Huruf d
 
 Cukup jelas.
-
-Pasal 119
+#### Pasal 119 ^penjelasan-pasal-119
 Huruf a
 
 Status pengawasan khusus sesuai dengan Peraturan OJK
@@ -4400,17 +4217,14 @@ mengenai penetapan status dan tindak lanjut pengawasan
 bank umum.
 Huruf b
 Cukup jelas.
-
-Pasal 120
+#### Pasal 120 ^penjelasan-pasal-120
 Cukup jelas.
-
-Pasal 121
+#### Pasal 121 ^penjelasan-pasal-121
 Cukup jelas.
 
 
 -----
-
-Pasal 122
+#### Pasal 122 ^penjelasan-pasal-122
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -4429,8 +4243,7 @@ melalui penyelesaian, pengalihan, dan/atau penitipan
 kepada bank lain di Indonesia, oleh Bank.
 Huruf d
 Cukup jelas.
-
-Pasal 123
+#### Pasal 123 ^penjelasan-pasal-123
 Ayat (1)
 
 Cukup jelas.
@@ -4446,34 +4259,27 @@ Ayat (5)
 
 Kewajiban antara lain kewajiban kepada nasabah jika masih
 ada agunan yang dikuasai oleh Bank.
-
-Pasal 124
+#### Pasal 124 ^penjelasan-pasal-124
 Cukup jelas.
-
-Pasal 125
+#### Pasal 125 ^penjelasan-pasal-125
 Cukup jelas.
-
-Pasal 126
+#### Pasal 126 ^penjelasan-pasal-126
 Ayat (1)
 Cukup jelas.
 Ayat (2)
 
 Ketentuan peraturan perundang-undangan antara lain yang
 terkait dengan Lembaga Penjamin Simpanan.
-
-Pasal 127
+#### Pasal 127 ^penjelasan-pasal-127
 Cukup jelas.
-
-Pasal 128
+#### Pasal 128 ^penjelasan-pasal-128
 Cukup jelas.
-
-Pasal 129
+#### Pasal 129 ^penjelasan-pasal-129
 Cukup jelas.
 
 
 -----
-
-Pasal 130
+#### Pasal 130 ^penjelasan-pasal-130
 Ayat (1)
 
 Penyampaian laporan posisi keuangan penutupan disertai
@@ -4482,14 +4288,11 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 Cukup jelas.
-
-Pasal 131
+#### Pasal 131 ^penjelasan-pasal-131
 Cukup jelas.
-
-Pasal 132
+#### Pasal 132 ^penjelasan-pasal-132
 Cukup jelas.
-
-Pasal 133
+#### Pasal 133 ^penjelasan-pasal-133
 Ayat (1)
 
 Sinergi Perbankan antara lain pemanfaatan infrastruktur yaitu
@@ -4523,8 +4326,7 @@ Huruf b
 Cukup jelas.
 Huruf c
 Cukup jelas.
-
-Pasal 134
+#### Pasal 134 ^penjelasan-pasal-134
 Ayat (1)
 
 Kerja sama kedua belah pihak tetap memperhatikan prinsip
@@ -4606,8 +4408,7 @@ Ayat (6)
 Cukup jelas.
 Ayat (7)
 Cukup jelas.
-
-Pasal 135
+#### Pasal 135 ^penjelasan-pasal-135
 Ayat (1)
 
 Opini DPS bertujuan untuk memastikan pelaksanaan Sinergi
@@ -4623,11 +4424,9 @@ terkait dengan pusat layanan nasabah dan diubah menjadi
 layanan pemasaran melalui elektronik (telemarketing).
 Ayat (4)
 Cukup jelas.
-
-Pasal 136
+#### Pasal 136 ^penjelasan-pasal-136
 Cukup jelas.
-
-Pasal 137
+#### Pasal 137 ^penjelasan-pasal-137
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -4642,8 +4441,7 @@ Ayat (3)
 Keadaan kahar termasuk kegagalan sistem persuratan OJK.
 Ayat (4)
 Cukup jelas.
-
-Pasal 138
+#### Pasal 138 ^penjelasan-pasal-138
 Ayat (1)
 
 Sebagai panduan, pengelompokan berdasarkan kegiatan
@@ -4666,11 +4464,9 @@ Indonesia, Kementerian terkait.
 
 Ayat (2)
 Cukup jelas.
-
-Pasal 139
+#### Pasal 139 ^penjelasan-pasal-139
 Cukup jelas.
-
-Pasal 140
+#### Pasal 140 ^penjelasan-pasal-140
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -4702,34 +4498,24 @@ b. dilakukan penutupan; dan/atau
 c. dilakukan kebijakan lain.
 Ayat (3)
 Cukup jelas.
-
-Pasal 141
+#### Pasal 141 ^penjelasan-pasal-141
 Cukup jelas.
-
-Pasal 142
+#### Pasal 142 ^penjelasan-pasal-142
 Cukup jelas.
-
-Pasal 143
+#### Pasal 143 ^penjelasan-pasal-143
 Cukup jelas.
-
-Pasal 144
-
+#### Pasal 144 ^penjelasan-pasal-144
 Pembentukan _capital conservation buffer sesuai dengan Peraturan_
 OJK mengenai kewajiban penyediaan modal minimum bank umum
 syariah.
-
-Pasal 145
-
+#### Pasal 145 ^penjelasan-pasal-145
 Cukup jelas.
-
-Pasal 146
+#### Pasal 146 ^penjelasan-pasal-146
 Cukup jelas.
 
 
 -----
-
-Pasal 147
-
+#### Pasal 147 ^penjelasan-pasal-147
 Contoh:
 Pada saat Peraturan OJK ini berlaku Bank telah memiliki rencana
 korporasi periode tahun 2021 sampai dengan 2025 yang masih
@@ -4743,14 +4529,11 @@ Peraturan OJK ini, Bank melakukan perubahan dan/atau
 penginian rencana korporasi periode tahun 2021 sampai dengan
 2025 dimaksud dan menyampaikan kepada OJK paling lambat
 akhir bulan November 2022.
-
-Pasal 148
+#### Pasal 148 ^penjelasan-pasal-148
 Cukup jelas.
-
-Pasal 149
+#### Pasal 149 ^penjelasan-pasal-149
 Cukup jelas.
-
-Pasal 150
+#### Pasal 150 ^penjelasan-pasal-150
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 11/OJK
@@ -5734,3 +5517,157 @@ Mufli Asmawidjaja
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 74 | [[#^penjelasan-pasal-74]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 80 | [[#^penjelasan-pasal-80]] |
+| Pasal 81 | [[#^penjelasan-pasal-81]] |
+| Pasal 82 | [[#^penjelasan-pasal-82]] |
+| Pasal 83 | [[#^penjelasan-pasal-83]] |
+| Pasal 84 | [[#^penjelasan-pasal-84]] |
+| Pasal 85 | [[#^penjelasan-pasal-85]] |
+| Pasal 86 | [[#^penjelasan-pasal-86]] |
+| Pasal 87 | [[#^penjelasan-pasal-87]] |
+| Pasal 88 | [[#^penjelasan-pasal-88]] |
+| Pasal 89 | [[#^penjelasan-pasal-89]] |
+| Pasal 90 | [[#^penjelasan-pasal-90]] |
+| Pasal 91 | [[#^penjelasan-pasal-91]] |
+| Pasal 92 | [[#^penjelasan-pasal-92]] |
+| Pasal 93 | [[#^penjelasan-pasal-93]] |
+| Pasal 94 | [[#^penjelasan-pasal-94]] |
+| Pasal 95 | [[#^penjelasan-pasal-95]] |
+| Pasal 96 | [[#^penjelasan-pasal-96]] |
+| Pasal 97 | [[#^penjelasan-pasal-97]] |
+| Pasal 98 | [[#^penjelasan-pasal-98]] |
+| Pasal 99 | [[#^penjelasan-pasal-99]] |
+| Pasal 100 | [[#^penjelasan-pasal-100]] |
+| Pasal 101 | [[#^penjelasan-pasal-101]] |
+| Pasal 102 | [[#^penjelasan-pasal-102]] |
+| Pasal 103 | [[#^penjelasan-pasal-103]] |
+| Pasal 104 | [[#^penjelasan-pasal-104]] |
+| Pasal 105 | [[#^penjelasan-pasal-105]] |
+| Pasal 106 | [[#^penjelasan-pasal-106]] |
+| Pasal 107 | [[#^penjelasan-pasal-107]] |
+| Pasal 108 | [[#^penjelasan-pasal-108]] |
+| Pasal 109 | [[#^penjelasan-pasal-109]] |
+| Pasal 110 | [[#^penjelasan-pasal-110]] |
+| Pasal 111 | [[#^penjelasan-pasal-111]] |
+| Pasal 112 | [[#^penjelasan-pasal-112]] |
+| Pasal 113 | [[#^penjelasan-pasal-113]] |
+| Pasal 114 | [[#^penjelasan-pasal-114]] |
+| Pasal 115 | [[#^penjelasan-pasal-115]] |
+| Pasal 116 | [[#^penjelasan-pasal-116]] |
+| Pasal 117 | [[#^penjelasan-pasal-117]] |
+| Pasal 118 | [[#^penjelasan-pasal-118]] |
+| Pasal 119 | [[#^penjelasan-pasal-119]] |
+| Pasal 120 | [[#^penjelasan-pasal-120]] |
+| Pasal 121 | [[#^penjelasan-pasal-121]] |
+| Pasal 122 | [[#^penjelasan-pasal-122]] |
+| Pasal 123 | [[#^penjelasan-pasal-123]] |
+| Pasal 124 | [[#^penjelasan-pasal-124]] |
+| Pasal 125 | [[#^penjelasan-pasal-125]] |
+| Pasal 126 | [[#^penjelasan-pasal-126]] |
+| Pasal 127 | [[#^penjelasan-pasal-127]] |
+| Pasal 128 | [[#^penjelasan-pasal-128]] |
+| Pasal 129 | [[#^penjelasan-pasal-129]] |
+| Pasal 130 | [[#^penjelasan-pasal-130]] |
+| Pasal 131 | [[#^penjelasan-pasal-131]] |
+| Pasal 132 | [[#^penjelasan-pasal-132]] |
+| Pasal 133 | [[#^penjelasan-pasal-133]] |
+| Pasal 134 | [[#^penjelasan-pasal-134]] |
+| Pasal 135 | [[#^penjelasan-pasal-135]] |
+| Pasal 136 | [[#^penjelasan-pasal-136]] |
+| Pasal 137 | [[#^penjelasan-pasal-137]] |
+| Pasal 138 | [[#^penjelasan-pasal-138]] |
+| Pasal 139 | [[#^penjelasan-pasal-139]] |
+| Pasal 140 | [[#^penjelasan-pasal-140]] |
+| Pasal 141 | [[#^penjelasan-pasal-141]] |
+| Pasal 142 | [[#^penjelasan-pasal-142]] |
+| Pasal 143 | [[#^penjelasan-pasal-143]] |
+| Pasal 144 | [[#^penjelasan-pasal-144]] |
+| Pasal 145 | [[#^penjelasan-pasal-145]] |
+| Pasal 146 | [[#^penjelasan-pasal-146]] |
+| Pasal 147 | [[#^penjelasan-pasal-147]] |
+| Pasal 148 | [[#^penjelasan-pasal-148]] |
+| Pasal 149 | [[#^penjelasan-pasal-149]] |
+| Pasal 150 | [[#^penjelasan-pasal-150]] |

@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Mata Uang
+**Mata Uang**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -69,9 +75,7 @@ d. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a, huruf b, dan huruf c, perlu
 membentuk Undang-Undang tentang Mata Uang;
 
-
 Mengingat
-
 
 : 1. Pasal 20, Pasal 21, dan Pasal 23B Undang-Undang Dasar
 Negara Republik Indonesia Tahun 1945;
@@ -91,10 +95,9 @@ Nomor 4962);
 
 Dengan . . .
 
-
 -----
 
-                        - 2 
+                        - 2
 Dengan Persetujuan Bersama
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
@@ -108,7 +111,7 @@ Menetapkan : UNDANG – UNDANG TENTANG MATA UANG.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -143,10 +146,9 @@ pengaman dan yang tahan lama.
 
 8. Rupiah . . .
 
-
 -----
 
-              - 3 
+              - 3
 8. Rupiah Tiruan adalah suatu benda yang bahan, ukuran,
 warna, gambar, dan/atau desainnya menyerupai Rupiah
 yang dibuat, dibentuk, dicetak, digandakan, atau
@@ -197,17 +199,16 @@ Undang-Undang tentang Hukum Acara Pidana.
 
 BAB II . . .
 
-
 -----
 
-              - 4 
+              - 4
 BAB II
 MACAM DAN HARGA RUPIAH
 
 Bagian Kesatu
 Macam Rupiah
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 (1) Mata Uang Negara Kesatuan Republik Indonesia adalah
 
@@ -224,7 +225,7 @@ dengan Rp.
 Bagian Kedua
 Harga Rupiah
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 (1) Harga Rupiah merupakan nilai nominal yang tercantum
 
@@ -247,10 +248,9 @@ kebutuhan masyarakat.
 
 BAB III . . .
 
-
 -----
 
-              - 5 
+              - 5
 BAB III
 CIRI, DESAIN, DAN BAHAN BAKU RUPIAH
 
@@ -258,11 +258,11 @@ Bagian Kesatu
 
 Ciri Rupiah
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 Ciri Rupiah terdiri atas ciri umum dan ciri khusus.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 (1) Ciri umum Rupiah kertas sebagaimana dimaksud dalam
 
@@ -304,16 +304,15 @@ terbuka, semi tertutup, dan tertutup.
 
 Pasal 6 . . .
 
-
 -----
 
-              - 6 
-Pasal 6
+              - 6
+### Pasal 6 ^pasal-6
 
 Rupiah sebagaimana dimaksud dalam Pasal 4 tidak memuat
 gambar orang yang masih hidup.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 (1) Gambar pahlawan nasional dan/atau Presiden
 dicantumkan sebagai gambar utama pada bagian depan
@@ -333,7 +332,7 @@ Keputusan Presiden.
 Bagian Kedua
 Desain Rupiah
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
 Desain Rupiah meliputi ciri, tanda tertentu, ukuran, dan
 unsur pengaman.
@@ -341,7 +340,7 @@ unsur pengaman.
 Bagian Ketiga
 Bahan Baku Rupiah
 
-Pasal 9
+### Pasal 9 ^pasal-9
 
 (1) Bahan baku Rupiah terdiri atas Kertas Uang atau Logam
 
@@ -356,11 +355,10 @@ Pemerintah.
 
 Pasal 10 . . .
 
-
 -----
 
-              - 7 
-Pasal 10
+              - 7
+### Pasal 10 ^pasal-10
 
 Ketentuan lebih lanjut mengenai ciri, desain, dan kriteria
 bahan baku Rupiah diatur dengan Peraturan Bank Indonesia.
@@ -372,7 +370,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 11
+### Pasal 11 ^pasal-11
 
 (1) Pengelolaan Rupiah meliputi tahapan:
 
@@ -398,7 +396,7 @@ dan/atau Pencabutan dan Penarikan Rupiah.
 dimaksud pada ayat (3), Bank Indonesia menentukan
 nomor seri uang kertas.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 Seluruh tahapan dalam Pengelolaan Rupiah sebagaimana
 dimaksud dalam Pasal 11 ayat (1) mengikuti prosedur
@@ -406,15 +404,14 @@ pengamanan.
 
 Bagian . . .
 
-
 -----
 
-              - 8 
+              - 8
 Bagian Kedua
 
 Perencanaan
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 (1) Perencanaan dan penentuan jumlah Rupiah yang dicetak
 
@@ -429,7 +426,7 @@ Bagian Ketiga
 
 Pencetakan
 
-Pasal 14
+### Pasal 14 ^pasal-14
 
 (1) Pencetakan Rupiah dilakukan oleh Bank Indonesia.
 
@@ -455,7 +452,7 @@ Bagian Keempat
 
 Pengeluaran
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 (1) Pengeluaran Rupiah dilakukan dan ditetapkan oleh Bank
 
@@ -468,10 +465,9 @@ materai.
 
 (3) Bank . . .
 
-
 -----
 
-              - 9 
+              - 9
 (3) Bank Indonesia menetapkan tanggal, bulan, dan tahun
 
 mulai berlakunya Rupiah.
@@ -480,7 +476,7 @@ Bagian Kelima
 
 Pengedaran
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 (1) Bank Indonesia merupakan satu-satunya lembaga yang
 
@@ -499,7 +495,7 @@ dengan Peraturan Bank Indonesia.
 Bagian Keenam
 Pencabutan dan Penarikan
 
-Pasal 17
+### Pasal 17 ^pasal-17
 
 (1) Pencabutan dan Penarikan Rupiah dari peredaran
 dilakukan dan ditetapkan oleh Bank Indonesia,
@@ -524,15 +520,14 @@ pada ayat (2) diatur dengan Peraturan Bank Indonesia.
 
 Bagian . . .
 
-
 -----
 
-            - 10 
+            - 10
 Bagian Ketujuh
 
 Pemusnahan
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 (1) Pemusnahan terhadap Rupiah yang ditarik dari peredaran
 
@@ -555,13 +550,13 @@ dan/atau
 
 c. Rupiah yang sudah tidak berlaku.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 
 Bank Indonesia wajib melaporkan Pengelolaan Rupiah
 sebagaimana dimaksud dalam Pasal 11 secara periodik setiap
 3 (tiga) bulan kepada Dewan Perwakilan Rakyat.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 
 (1) Untuk menjamin akuntabilitas pelaksanaan
 Pencetakan, Pengeluaran, dan Pemusnahan Rupiah,
@@ -575,14 +570,13 @@ sedikit 1 (satu) kali dalam 1 (satu) tahun.
 
 BAB V . . .
 
-
 -----
 
-            - 11 
+            - 11
 BAB V
 PENGGUNAAN RUPIAH
 
-Pasal 21
+### Pasal 21 ^pasal-21
 
 (1) Rupiah wajib digunakan dalam:
 
@@ -609,7 +603,7 @@ e. transaksi pembiayaan internasional.
 BAB VI
 PENUKARAN RUPIAH
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 (1) Untuk memenuhi kebutuhan Rupiah di masyarakat dalam
 
@@ -628,10 +622,9 @@ nominalnya.
 
 (2) Penukaran . . .
 
-
 -----
 
-            - 12 
+            - 12
 (2) Penukaran Rupiah yang rusak sebagian karena terbakar
 
 atau sebab lain sebagaimana dimaksud pada ayat (1)
@@ -653,7 +646,7 @@ Indonesia.
 BAB VII
 LARANGAN
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 (1) Setiap orang dilarang menolak untuk menerima Rupiah
 
@@ -668,7 +661,7 @@ dikecualikan untuk pembayaran atau untuk penyelesaian
 kewajiban dalam valuta asing yang telah diperjanjikan
 secara tertulis.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 
 (1) Setiap orang dilarang meniru Rupiah, kecuali untuk
 
@@ -681,11 +674,10 @@ Rupiah Tiruan.
 
 Pasal 25 . . .
 
-
 -----
 
-            - 13 
-Pasal 25
+            - 13
+### Pasal 25 ^pasal-25
 
 (1) Setiap orang dilarang merusak, memotong,
 menghancurkan, dan/atau mengubah Rupiah dengan
@@ -701,7 +693,7 @@ sudah dirusak, dipotong, dihancurkan, dan/atau diubah.
 yang sudah dirusak, dipotong, dihancurkan, dan/atau
 diubah.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 
 (1) Setiap orang dilarang memalsu Rupiah.
 
@@ -722,7 +714,7 @@ Republik Indonesia.
 
 Palsu.
 
-Pasal 27
+### Pasal 27 ^pasal-27
 
 (1) Setiap orang dilarang memproduksi, menjual, membeli,
 
@@ -739,14 +731,13 @@ atau dimaksudkan untuk membuat Rupiah Palsu.
 
 BAB VIII . . .
 
-
 -----
 
-            - 14 
+            - 14
 BAB VIII
 PEMBERANTASAN RUPIAH PALSU
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
 (1) Pemberantasan Rupiah Palsu dilakukan oleh Pemerintah
 
@@ -767,7 +758,7 @@ e. Bank Indonesia.
 jawab badan sebagaimana dimaksud pada ayat (1) diatur
 dengan Peraturan Presiden.
 
-Pasal 29
+### Pasal 29 ^pasal-29
 
 (1) Kewenangan untuk menentukan keaslian Rupiah berada
 
@@ -786,7 +777,7 @@ BAB IX
 PEMERIKSAAN
 TINDAK PIDANA TERHADAP RUPIAH
 
-Pasal 30
+### Pasal 30 ^pasal-30
 
 Pemeriksaan tindak pidana terhadap Rupiah dilaksanakan
 berdasarkan Undang-Undang tentang Hukum Acara Pidana,
@@ -794,11 +785,10 @@ kecuali ditentukan lain dalam Undang-Undang ini.
 
 Pasal 31 . . .
 
-
 -----
 
-            - 15 
-Pasal 31
+            - 15
+### Pasal 31 ^pasal-31
 
 Alat bukti dalam perkara tindak pidana terhadap Rupiah
 meliputi:
@@ -815,7 +805,7 @@ bentuk penyimpanan data; dan/atau
 2. data yang tersimpan dalam jaringan internet atau
 penyedia saluran komunikasi lainnya.
 
-Pasal 32
+### Pasal 32 ^pasal-32
 
 (1) Selain kewenangan Penyidik sebagaimana ditentukan
 
@@ -846,14 +836,13 @@ dihapus.
 
 BAB X . . .
 
-
 -----
 
-            - 16 
+            - 16
 BAB X
 KETENTUAN PIDANA
 
-Pasal 33
+### Pasal 33 ^pasal-33
 
 (1) Setiap orang yang tidak menggunakan Rupiah dalam:
 
@@ -881,7 +870,7 @@ pidana kurungan paling lama 1 (satu) tahun dan pidana
 denda paling banyak Rp200.000.000,00 (dua ratus juta
 rupiah).
 
-Pasal 34
+### Pasal 34 ^pasal-34
 
 (1) Setiap orang yang meniru Rupiah, kecuali untuk tujuan
 
@@ -900,11 +889,10 @@ tahun dan pidana denda paling banyak Rp200.000.000,00
 
 Pasal 35 . . .
 
-
 -----
 
-            - 17 
-Pasal 35
+            - 17
+### Pasal 35 ^pasal-35
 
 (1) Setiap orang yang dengan sengaja merusak, memotong,
 
@@ -931,7 +919,7 @@ dipidana dengan pidana penjara paling lama 10 (sepuluh)
 tahun dan pidana denda paling banyak
 Rp10.000.000.000,00 (sepuluh miliar rupiah).
 
-Pasal 36
+### Pasal 36 ^pasal-36
 
 (1) Setiap orang yang memalsu Rupiah sebagaimana
 dimaksud dalam Pasal 26 ayat (1) dipidana dengan pidana
@@ -957,10 +945,9 @@ dan pidana denda paling banyak Rp50.000.000.000,00
 
 (4) Setiap . . .
 
-
 -----
 
-            - 18 
+            - 18
 (4) Setiap orang yang membawa atau memasukkan Rupiah
 
 Palsu ke dalam dan/atau ke luar Wilayah Negara Kesatuan
@@ -976,7 +963,7 @@ dipidana dengan pidana penjara paling lama seumur hidup
 dan pidana denda paling banyak Rp100.000.000.000,00
 (seratus miliar rupiah).
 
-Pasal 37
+### Pasal 37 ^pasal-37
 
 (1) Setiap orang yang memproduksi, menjual, membeli,
 
@@ -998,7 +985,7 @@ dengan pidana penjara paling lama seumur hidup, dan
 pidana denda paling banyak Rp100.000.000.000,00
 (seratus miliar rupiah).
 
-Pasal 38
+### Pasal 38 ^pasal-38
 
 (1) Dalam hal perbuatan tindak pidana sebagaimana
 dimaksud dalam Pasal 33, Pasal 34, Pasal 35, serta Pasal
@@ -1011,10 +998,9 @@ ditambah 1/3 (satu per tiga).
 
 (2) Dalam . . .
 
-
 -----
 
-            - 19 
+            - 19
 (2) Dalam hal perbuatan sebagaimana dimaksud dalam Pasal
 
 36 ayat (1), ayat (2), ayat (3), dan ayat (4) dilakukan secara
@@ -1025,7 +1011,7 @@ dengan pidana penjara paling lama seumur hidup dan
 pidana denda paling banyak Rp100.000.000.000,00
 (seratus miliar rupiah).
 
-Pasal 39
+### Pasal 39 ^pasal-39
 
 (1) Pidana yang dijatuhkan terhadap korporasi berupa pidana
 
@@ -1048,7 +1034,7 @@ orang dapat dikenai pidana tambahan berupa pencabutan
 izin usaha dan/atau perampasan terhadap barang tertentu
 milik terpidana.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 
 (1) Dalam hal terpidana perseorangan tidak mampu
 membayar pidana denda sebagaimana dimaksud dalam
@@ -1060,16 +1046,15 @@ diganti dengan pidana kurungan selama 2 (dua) bulan.
 
 (2) Lama . . .
 
-
 -----
 
-            - 20 
+            - 20
 (2) Lama pidana kurungan pengganti sebagaimana dimaksud
 
 pada ayat (1) harus dicantumkan dalam putusan
 pengadilan.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
 (1) Tindak pidana sebagaimana dimaksud dalam Pasal 33 dan
 
@@ -1082,13 +1067,13 @@ Pasal 36, dan Pasal 37 adalah kejahatan.
 BAB XI
 KETENTUAN PERALIHAN
 
-Pasal 42
+### Pasal 42 ^pasal-42
 
 Rupiah kertas dengan ciri umum sebagaimana dimaksud
 dalam Pasal 5 ayat (1) mulai berlaku, dikeluarkan, dan
 diedarkan pada tanggal 17 Agustus 2014.
 
-Pasal 43
+### Pasal 43 ^pasal-43
 
 Pada saat Undang-Undang ini mulai berlaku, Rupiah kertas
 dan Rupiah logam yang telah dikeluarkan oleh Bank Indonesia
@@ -1098,7 +1083,7 @@ ditarik dari peredaran.
 BAB XII
 KETENTUAN PENUTUP
 
-Pasal 44
+### Pasal 44 ^pasal-44
 
 Pada saat Undang-Undang ini mulai berlaku, peraturan
 perundang-undangan yang ada dinyatakan masih tetap
@@ -1107,11 +1092,10 @@ ini.
 
 Pasal 45 . . .
 
-
 -----
 
-            - 21 
-Pasal 45
+            - 21
+### Pasal 45 ^pasal-45
 
 Pada saat Undang-Undang ini mulai berlaku, ketentuan BAB X
 Kitab Undang-Undang Hukum Pidana tentang pemalsuan
@@ -1119,7 +1103,7 @@ Mata Uang dan uang kertas dinyatakan masih tetap berlaku
 sepanjang tidak bertentangan dengan ketentuan dalam
 Undang-Undang ini.
 
-Pasal 46
+### Pasal 46 ^pasal-46
 
 Pada saat Undang-Undang ini mulai berlaku, Pasal 2, Pasal
 19, Pasal 20, Pasal 21, Pasal 22, dan Pasal 23 Undang-Undang
@@ -1135,23 +1119,22 @@ Undang-Undang (Lembaran Negara Republik Indonesia Tahun
 2009 Nomor 7, Tambahan Lembaran Negara Republik
 Indonesia Nomor 4962) dicabut dan dinyatakan tidak berlaku.
 
-Pasal 47
+### Pasal 47 ^pasal-47
 
 Peraturan perundang-undangan sebagai peraturan
 pelaksanaan Undang-Undang ini harus sudah ditetapkan
 paling lama 1 (satu) tahun sejak Undang-Undang ini
 diundangkan.
 
-Pasal 48
+### Pasal 48 ^pasal-48
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar . . .
 
-
 -----
 
-                      - 22 
+                      - 22
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Undang-Undang ini dengan penempatannya
 dalam Lembaran Negara Republik Indonesia.
@@ -1187,10 +1170,11 @@ Bidang Perekonomian,
 
 SETIO SAPTO NUGROHO
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 
@@ -1201,8 +1185,6 @@ NOMOR 7 TAHUN 2011
 TENTANG
 
 MATA UANG
-
-I. UMUM
 
 Negara Kesatuan Republik Indonesia sebagai negara yang merdeka dan
 berdaulat memiliki simbol kedaulatan negara yang harus dihormati dan
@@ -1238,10 +1220,9 @@ sesuai dengan kebutuhan perekonomian.
 
 Karena . . .
 
-
 -----
 
-                      - 2 
+                      - 2
 Karena melihat perannya yang sangat penting, uang harus dibuat
 sedemikian rupa agar sulit ditiru atau dipalsukan oleh pihak yang tidak
 bertanggung jawab. Di sinilah peran otoritas yang profesional sangat
@@ -1288,10 +1269,9 @@ sanksi pidana yang sangat berat.
 
 Secara . . .
 
-
 -----
 
-                         - 3 
+                         - 3
 Secara garis besar materi muatan yang diatur dalam Undang-Undang ini
 meliputi (i) pengaturan mengenai Rupiah secara fisik, yakni mengenai
 macam dan harga, ciri, desain, serta bahan baku Rupiah; (ii) pengaturan
@@ -1302,13 +1282,11 @@ larangan, dan pemberantasan Rupiah Palsu; serta (iv) pengaturan mengenai
 ketentuan pidana terkait masalah penggunaan, peniruan, perusakan, dan
 pemalsuan Rupiah.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Cukup jelas.
@@ -1323,9 +1301,7 @@ Selain simbol Rp (Rp ditulis tanpa tanda titik), dikenal juga IDR yang
 merupakan singkatan dari _Indonesian Rupiah, biasanya digunakan_
 dalam perdagangan internasional, baik dilaksanakan di dalam
 maupun di luar negeri.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Cukup jelas.
@@ -1356,13 +1332,9 @@ Ayat (5)
 
 Selama Undang-Undang mengenai perubahan harga Rupiah belum
 diundangkan, perubahan harga Rupiah tidak dapat dilakukan.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Huruf a
@@ -1415,19 +1387,13 @@ yang sederhana seperti kaca pembesar dan lampu ultraviolet (UV).
 Yang dimaksud “bersifat tertutup _(covert/forensic)” adalah unsur_
 pengaman yang hanya dapat dideteksi dengan menggunakan
 peralatan laboratorium/forensik.
-
-Pasal 6 . . .
-
-
+#### Pasal 6 ^penjelasan-pasal-6
 -----
 
-                      - 5 
-Pasal 6
-
+                      - 5
+#### Pasal 6 ^penjelasan-pasal-6-2
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Yang dimaksud dengan “pahlawan nasional” adalah pahlawan
@@ -1443,17 +1409,13 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Yang dimaksud dengan “tanda tertentu” mencakup warna, gambar,
 ukuran, besar, bahan Rupiah, dan tanda lainnya.
 
 Yang dimaksud dengan “unsur pengaman” termasuk di dalamnya ciri
 atau tanda yang dapat dipergunakan oleh tunanetra.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Ayat (1)
 
 Cukup jelas.
@@ -1467,13 +1429,9 @@ dalam upaya mencegah dan memberantas Rupiah Palsu, demikian
 pula badan yang mengoordinasikan pemberantasan Rupiah Palsu
 dapat memberikan masukan tentang aspek keamanan bahan baku
 Rupiah kepada Bank Indonesia.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Cukup jelas.
@@ -1497,13 +1455,9 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Yang dimaksud dengan “berkoordinasi” diwujudkan dalam
@@ -1516,9 +1470,7 @@ rusak dan yang ditarik dari peredaran.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Untuk menjaga kualitas keamanan Rupiah, dalam Pencetakan
@@ -1540,23 +1492,15 @@ Ayat (4)
 
 Yang dimaksud dengan “harga yang bersaing” adalah harga yang
 batasannya ditentukan berdasarkan peraturan perundangundangan mengenai pengadaan barang dan jasa.
-
-Pasal 15 . . .
-
-
+#### Pasal 15 ^penjelasan-pasal-15
 -----
 
-                      - 7 
-Pasal 15
-
+                      - 7
+#### Pasal 15 ^penjelasan-pasal-15-2
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Penetapan Pencabutan Rupiah memuat pengaturan mengenai
@@ -1578,9 +1522,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Ayat (1)
 
 Berkoordinasi sebagaimana dimaksud pada ayat ini
@@ -1595,25 +1537,17 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Yang dimaksud dengan “Dewan Perwakilan Rakyat” adalah alat
 kelengkapan Dewan Perwakilan Rakyat yang membidangi keuangan
 dan perbankan.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
-
-Pasal 21 . . .
-
-
+#### Pasal 21 ^penjelasan-pasal-21
 -----
 
-                      - 8 
-Pasal 21
-
+                      - 8
+#### Pasal 21 ^penjelasan-pasal-21-2
 Ayat (1)
 
 Huruf a
@@ -1633,9 +1567,7 @@ dan jenis pecahan dari nasabah kepada bank.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1)
 
 Cukup jelas.
@@ -1660,23 +1592,15 @@ robek atau uang yang mengerut.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Cukup jelas.
-
-Pasal 25 . . .
-
-
+#### Pasal 25 ^penjelasan-pasal-25
 -----
 
-                      - 9 
-Pasal 25
-
+                      - 9
+#### Pasal 25 ^penjelasan-pasal-25-2
 Ayat (1)
 
 Yang dimaksud dengan “merusak” adalah mengubah bentuk,
@@ -1690,21 +1614,13 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Ayat (1)
 
 Cukup jelas.
@@ -1718,17 +1634,11 @@ lain.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Ayat (1)
 
 Cukup jelas.
@@ -1752,75 +1662,41 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Cukup jelas.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Cukup jelas.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Cukup jelas.
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Cukup jelas.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Cukup jelas.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Cukup jelas.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Cukup jelas.
-
-Pasal 44 . . .
-
-
+#### Pasal 44 ^penjelasan-pasal-44
 -----
 
-                    - 11 
-Pasal 44
-
+                    - 11
+#### Pasal 44 ^penjelasan-pasal-44-2
 Cukup jelas.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Cukup jelas.
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Cukup jelas.
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5223.
@@ -1828,3 +1704,60 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5223.
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 6 | [[#^penjelasan-pasal-6-2]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-2]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 21 | [[#^penjelasan-pasal-21-2]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 25 | [[#^penjelasan-pasal-25-2]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 44 | [[#^penjelasan-pasal-44-2]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |

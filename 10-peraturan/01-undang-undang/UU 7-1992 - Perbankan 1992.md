@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perbankan
+**Perbankan**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -77,13 +83,12 @@ d. bahwa Undang-undang Nomor 14 Tahun 1967 tentang Pokok-pokok
 Perbankan dan beberapa Undang-undang di bidang perbankan
 lainnya yang berlaku sampai saat ini, sudah tidak dapat mengikuti
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-                  - 2 
+                  - 2
 perkembangan perekonomian nasional maupun internasional;
 
 e. bahwa untuk mencapai maksud di atas, perlu disusun
@@ -119,17 +124,16 @@ MEMUTUSKAN:
 
 Menetapkan : UNDANG-UNDANG TENTANG PERBANKAN.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 3 
+           - 3
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-undang ini yang dimaksud dengan :
 
@@ -166,13 +170,12 @@ dengan cara pemindahbukuan;
 
 8. Deposito berjangka adalah simpanan yang penarikannya hanya
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 4 
+           - 4
 dapat dilakukan pada waktu tertentu menurut perjanjian antara
 penyimpan dengan bank yang bersangkutan;
 
@@ -213,13 +216,12 @@ a. anggota dewan komisaris atau pengawas, direksi, pejabat, atau
 
 karyawan bank;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 5 
+           - 5
 b. anggota pengurus, badan pemeriksa, direksi, pejabat, atau
 
 karyawan bank, khusus bagi bank yang berbentuk hukum koperasi
@@ -249,24 +251,23 @@ Pemerintah adalah Pemerintah Republik Indonesia.
 BAB II
 ASAS, FUNGSI, DAN TUJUAN
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 Perbankan Indonesia dalam melakukan usahanya berasaskan demokrasi
 ekonomi dengan menggunakan prinsip kehati-hatian.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 Fungsi utama perbankan Indonesia adalah sebagai penghimpun dan
 penyalur dana masyarakat.
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 6 
-Pasal 4
+           - 6
+### Pasal 4 ^pasal-4
 
 Perbankan Indonesia bertujuan menunjang pelaksanaan pembangunan
 nasional dalam rangka meningkatkan pemerataan, pertumbuhan
@@ -280,7 +281,7 @@ Bagian Pertama
 
 Jenis Bank
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 (1) Menurut jenisnya, bank terdiri dari :
 
@@ -295,7 +296,7 @@ kepada kegiatan tertentu.
 Bagian Kedua
 Usahas Bank Umum
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 Usaha Bank Umum meliputi :
 
@@ -306,13 +307,12 @@ bentuk lainnya yang dipersamakan dengan itu;
 
 b. memberikan kredit;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 7 
+           - 7
 c. menerbitkan surat pengakuan hutang;
 
 d. membeli, menjual atau menjamin atas risiko sendiri maupun untuk
@@ -362,13 +362,12 @@ j. melakukan penempatan dana dari nasabah kepada nasabah lainnya
 
 dalam bentuk surat berharga yang tidak tercatat di bursa efek;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 8 
+           - 8
 k. membeli melalui pelelangan agunan baik semua maupun sebagian
 
 dalam hal debitur tidak memenuhi kewajibannya kepada bank,
@@ -389,7 +388,7 @@ n. melakukan kegiatan lain yang lazim dilakukan oleh bank sepanjang
 tidak bertentangan dengan Undang-undang ini dan peraturan
 perundang-undangan yang berlaku.
 
-Pasal  7
+### Pasal 7 ^pasal-7
 
 Selain melakukan kegiatan usaha sebagaimana dimaksud dalam
 
@@ -416,22 +415,21 @@ d. bertindak sebagai pendiri dana pensiun dan pengurus dana pensiun
 
 sesuai dengan ketentuan dalam peraturan perundang-undangan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 9 
+           - 9
 dana pensiun yang berlaku.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
 Dalam memberikan kredit, Bank Umum wajib mempunyai keyakinan
 atas kemampuan dan kesanggupan debitur untuk melunasi hutangnya
 sesuai dengan yang diperjanjikan.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 
 (1) Bank Umum yang menyelenggarakan kegiatan penitipan sebagai
 mana dimaksud dalam Pasal 6 huruf i, bertanggung jawab untuk
@@ -445,7 +443,7 @@ tersendiri.
 kan pada bank tersebut tidak dimasukkan dalam harta kepailitan
 dan wajib dikembalikan kepada penitip yang bersangkutan.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 Bank Umum dilarang:
 
@@ -459,14 +457,13 @@ c. melakukan usaha lain di luar kegiatan usaha sebagaimana dimaksud
 
 dalam Pasal 6 dan Pasal 7.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 10 
-Pasal 11
+           - 10
+### Pasal 11 ^pasal-11
 
 (1) Bank Indonesia menetapkan ketentuan mengenai batas
 maksimum pemberian kredit, pemberian jaminan, penempatan
@@ -510,16 +507,15 @@ sesuai dengan ketentuan yang ditetapkan oleh Bank Indonesia.
 (5) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (1)
 dan ayat (3) wajib dilaporkan sesuai dengan ketentuan yang
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 11 
+           - 11
 ditetapkan oleh Bank Indonesia.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 Pemerintah dapat menugaskan Bank Umum untuk melaksanakan pro
 gram pemerintah guna mengembangkan sektor-sektor perekonomian
@@ -531,7 +527,7 @@ ketentuan yang diatur lebih lanjut dengan Peraturan Pemerintah.
 Bagian Ketiga
 Usaha Bank Perkreditan Rakyat
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 Usaha Bank Perkreditan Rakyat meliputi:
 
@@ -552,14 +548,13 @@ d. menempatkan dananya dalam bentuk Sertifikat Bank Indonesia
 (SBI), deposito berjangka, sertifikat deposito dan/atau tabungan
 pada bank lain.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 12 
-Pasal 14
+           - 12
+### Pasal 14 ^pasal-14
 
 Bank Perkreditan Rakyat dilarang:
 
@@ -577,7 +572,7 @@ e. melakukan usaha lain di luar kegiatan usaha sebagaimana dimaksud
 
 dalam Pasal 13.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 Ketentuan sebagaimana dimaksud dalam Pasal 8 dan Pasal 11 berlaku
 juga bagi Bank Perkreditan Rakyat.
@@ -589,7 +584,7 @@ Bagian Pertama
 
 Perizinan
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 (1) Setiap pihak yang melakukan kegiatan menghimpun dana dari
 masyarakat dalam bentuk simpanan berupa giro, deposito
@@ -600,13 +595,12 @@ Perkreditan Rakyat dari Menteri, kecuali apabila kegiatan
 menghimpun dana dari masyarakat dimaksud diatur dengan
 Undang-undang tersendiri.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 13 
+           - 13
 (2) Izin usaha Bank Umum dan Bank Perkreditan Rakyat diberikan
 oleh Menteri setelah mendengar pertimbangan Bank Indonesia.
 
@@ -644,14 +638,13 @@ Perkreditan Rakyat.
 (5), dan tata cara perizinannya diatur lebih lanjut dengan
 Peraturan Pemerintah.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 14 
-Pasal 17
+           - 14
+### Pasal 17 ^pasal-17
 
 Untuk mendapatkan izin usaha sebagai Bank Umum yang berbentuk
 bank campuran, wajib dipenuhi persyaratan sebagaimana dimaksud
@@ -666,7 +659,7 @@ c. hal-hal lain yang menurut Dewan Moneter perlu diatur untuk
 
 kepentingan pembangunan nasional.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 (1) Pembukaan kantor cabang Bank Umum hanya dapat dilakukan
 dengan izin Menteri, setelah mendengar pertimbangan Bank
@@ -684,19 +677,18 @@ sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3)
 ditetapkan oleh Menteri setelah mendengar pertimbangan Bank
 Indonesia.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 
 (1) Pembukaan kantor cabang Bank Perkreditan Rakyat di ibukota
 negara, ibukota propinsi, ibukota kabupaten dan kotamadya,
 hanya dapat dilakukan dengan izin Menteri, setelah mendengar
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 15 
+           - 15
 pertimbangan Bank Indonesia.
 
 (2) Pembukaan kantor cabang di luar ibukota negara, ibukota
@@ -709,7 +701,7 @@ Perkreditan Rakyat sebagaimana dimaksud dalam ayat (1) dan
 ayat (2) ditetapkan oleh Menteri setelah mendengar
 pertimbangan Bank Indonesia.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 
 (1) Pembukaan kantor cabang, kantor cabang pembantu dan kantor
 perwakilan dari suatu bank yang berkedudukan di luar negeri
@@ -727,7 +719,7 @@ Peraturan Pemerintah.
 Bagian Kedua
 Bentuk Hukum
 
-Pasal 21
+### Pasal 21 ^pasal-21
 
 (1) Bentuk hukum suatu Bank Umum dapat berupa salah satu dari:
 
@@ -735,13 +727,12 @@ a. Perusahaan Perseroan (PERSERO);
 
 b. Perusahaan Daerah;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 16 
+           - 16
 c. Koperasi;
 
 d. Perseroan Terbatas.
@@ -765,7 +756,7 @@ Bagian Ketiga
 
 Kepemilikan
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 Bank Umum hanya dapat didirikan oleh:
 
@@ -778,33 +769,32 @@ b. Bank yang pendirinya sebagaimana dimaksud dalam huruf a dengan
 
 bank yang berkedudukan di luar negeri.
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 Bank Perkreditan Rakyat hanya dapat didirikan dan dimiliki oleh warga
 negara Indonesia, badan hukum Indonesia yang seluruh pemiliknya
 warga negara Indonesia, pemerintah daerah, atau dapat dimiliki
 bersama diantara ketiganya.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 17 
-Pasal 24
+           - 17
+### Pasal 24 ^pasal-24
 
 Bank Umum dan Bank Perkreditan Rakyat yang berbentuk hukum
 koperasi, kepemilikannya diatur berdasarkan ketentuan dalam
 Undang-undang tentang perkoperasian yang berlaku.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 
 Bank Umum dan Bank Perkreditan Rakyat yang berbentuk hukum
 perseroan terbatas, sahamnya hanya dapat diterbitkan dalam bentuk
 saham atas nama.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 
 (1) Bank Umum dapat melakukan emisi saham melalui bursa efek di
 Indonesia.
@@ -827,14 +817,13 @@ oleh negara.
 ayat (3), dan ayat (4) diatur lebih lanjut dengan Peraturan
 Pemerintah.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 18 
-Pasal 27
+           - 18
+### Pasal 27 ^pasal-27
 
 Perubahan kepemilikan bank wajib:
 
@@ -844,7 +833,7 @@ a. memenuhi ketentuan sebagaimana dimaksud dalam Pasal 16 ayat
 
 b. dilaporkan kepada Bank Indonesia.
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
 (1) Merger dan konsolidasi antar bank, serta akuisisi bank wajib
 terlebih dahulu mendapat izin Menteri setelah mendengar
@@ -856,7 +845,7 @@ dengan Peraturan Pemerintah.
 BAB V
 PEMBINAAN DAN PENGAWASAN
 
-Pasal 29
+### Pasal 29 ^pasal-29
 
 (1) Pembinaan dan pengawasan bank dilakukan oleh Bank Indonesia.
 
@@ -873,20 +862,19 @@ usaha sesuai dengan prinsip kehati-hatian.
 bank wajib menempuh cara-cara yang tidak merugikan bank dan
 kepentingan nasabah yang mempercayakan dananya kepada
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 19 
+           - 19
 bank.
 
 (5) Untuk kepentingan nasabah., bank menyediakan informasi
 mengenai kemungkinan timbulnya risiko kerugian bagi transaksi
 nasabah yang dilakukan melalui bank.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 
 (1) Bank wajib menyampaikan kepada Bank Indonesia, segala
 keterangan, dan penjelasan mengenai usahanya menurut tata
@@ -903,7 +891,7 @@ bersangkutan.
 sebagaimana dimaksud dalam ayat (1) dan ayat (2) tidak
 diumumkan dan bersifat rahasia.
 
-Pasal 31
+### Pasal 31 ^pasal-31
 
 (1) Bank Indonesia melakukan pemeriksaan terhadap bank, baik
 secara berkala maupun setiap waktu apabila diperlukan.
@@ -918,21 +906,20 @@ diperlukan;
 b. melakukan pemeriksaan khusus terhadap bank, dan
 melaporkan hasil pemeriksaan yang dilakukannya.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 20 
-Pasal 32
+           - 20
+### Pasal 32 ^pasal-32
 
 Jika dianggap perlu, Menteri dapat pula meminta Bank Indonesia
 untuk menyampaikan laporan mengenai hasil pemeriksaan bank atau
 meminta Bank Indonesia untuk melakukan pemeriksaan khusus
 terhadap bank dan melaporkan hasil pemeriksaan yang dilakukannya.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 
 (1) Laporan pemeriksaan bank sebagaimana dimaksud dalam Pasal 31
 dan Pasal 32 bersifat rahasia.
@@ -940,7 +927,7 @@ dan Pasal 32 bersifat rahasia.
 (2) Persyaratan dan tata cara pemeriksaan sebagaimana dimaksud
 dalam Pasal 31 dan Pasal 32 ditetapkan oleh Bank Indonesia.
 
-Pasal 34
+### Pasal 34 ^pasal-34
 
 (1) Bank wajib menyampaikan kepada Bank Indonesia neraca dan
 perhitungan laba/rugi tahunan serta penjelasannya, serta
@@ -953,25 +940,24 @@ akuntan publik.
 
 (3) Tahun buku bank adalah tahun takwim.
 
-Pasal  35
+### Pasal 35 ^pasal-35
 
 Bank wajib mengumumkan neraca dan perhitungan laba/rugi dalam
 waktu dan bentuk yang ditetapkan oleh Bank Indonesia.
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 21 
-Pasal  36
+           - 21
+### Pasal 36 ^pasal-36
 
 Bank Indonesia dapat menetapkan pengecualian dari ketentuan
 sebagaimana dimaksud dalam Pasal 34 ayat (2) bagi Bank Perkreditan
 Rakyat.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 
 (1) Apabila menurut penilaian Bank Indonesia suatu bank
 diperkirakan mengalami kesulitan yang membahayakan
@@ -1007,13 +993,12 @@ b. tindakan sebagaimana dimaksud dalam ayat (2) belum cukup
 
 untuk mengatasi kesulitan yang dihadapi bank;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 22 
+           - 22
 Bank Indonesia mengusulkan kepada Menteri untuk mencabut izin
 usaha bank tersebut.
 
@@ -1031,7 +1016,7 @@ DEWAN KOMISARIS, DIREKSI DAN
 
 TENAGA ASING
 
-Pasal 38
+### Pasal 38 ^pasal-38
 
 (1) Pengangkatan keanggotaan dewan komisaris dan direksi bank,
 wajib memenuhi ketentuan sebagaimana dimaksud dalam Pasal
@@ -1041,7 +1026,7 @@ wajib memenuhi ketentuan sebagaimana dimaksud dalam Pasal
 sebagaimana dimaksud dalam ayat (1) wajib dilaporkan kepada
 Bank Indonesia.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 
 (1) Dalam menjalankan kegiatannya, bank dapat menggunakan
 tenaga asing.
@@ -1050,17 +1035,16 @@ tenaga asing.
 dimaksud dalam ayat (1) ditetapkan dengan Peraturan
 Pemerintah.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 23 
+           - 23
 BAB VII
 RAHASIA BANK
 
-Pasal 40
+### Pasal 40 ^pasal-40
 
 (1) Bank dilarang memberikan keterangan yang tercatat pada bank
 tentang keadaan keuangan dan hal-hal lain dari nasabahnya,
@@ -1071,7 +1055,7 @@ dalam Pasal 41, Pasal 42, Pasal 43, dan Pasal 44.
 (2) Ketentuan sebagaimana dimaksud dalam ayat (1) berlaku pula
 bagi pihak terafiliasi.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
 (1) Untuk kepentingan perpajakan Menteri berwenang mengeluarkan
 perintah tertulis kepada Bank agar memberikan keterangan dan
@@ -1082,7 +1066,7 @@ keadaan keuangan nasabah tertentu kepada pejabat pajak.
 menyebutkan nama pejabat pajak dan nama nasabah wajib pajak
 yang dikehendaki keterangannya.
 
-Pasal 42
+### Pasal 42 ^pasal-42
 
 (1) Untuk kepentingan peradilan dalam perkara pidana, Menteri
 dapat memberi izin kepada polisi, jaksa atau hakim untuk
@@ -1093,27 +1077,26 @@ tersangka/terdakwa pada bank.
 tertulis atas permintaan tertulis dari Kepala Kepolisian Republik
 Indonesia, Jaksa Agung, atau Ketua Mahkamah Agung.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 24 
+           - 24
 (3) Permintaan sebagaimana dimaksud dalam ayat (2) harus
 menyebutkan nama dan jabatan polisi, jaksa atau hakim, nama
 tersangka/ terdakwa, sebab-sebab keterangan diperlukan dan
 hubungan perkara pidana yang bersangkutan dengan
 keterangan-keterangan yang diperlukan.
 
-Pasal 43
+### Pasal 43 ^pasal-43
 
 Dalam perkara perdata antara bank dengan nasabahnya, direksi bank
 yang bersangkutan dapat menginformasikan kepada pengadilan
 tentang keadaan keuangan nasabah yang bersangkutan dan
 memberikan keterangan lain yang relevan dengan perkara tersebut.
 
-Pasal 44
+### Pasal 44 ^pasal-44
 
 (1) Dalam rangka tukar menukar informasi antar bank, direksi bank
 dapat memberitahukan keadaan keuangan nasabahnya kepada
@@ -1122,24 +1105,23 @@ bank lain.
 (2) Ketentuan mengenai tukar menukar informasi sebagaimana
 dimaksud dalam ayat (1) diatur lebih lanjut oleh Bank Indonesia.
 
-Pasal 45
+### Pasal 45 ^pasal-45
 
 Pihak yang merasa dirugikan oleh keterangan yang diberikan oleh bank
 sebagaimana dimaksud dalam Pasal 41, Pasal 42, Pasal 43, dan Pasal
 44, berhak untuk mengetahui isi keterangan' tersebut dan meminta
 pembetulan jika terdapat kesalahan dalam keterangan yang diberikan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 25 
+           - 25
 BAB VIII
 KETENTUAN PIDANA DAN SANKSI ADMINISTRATIF
 
-Pasal 46
+### Pasal 46 ^pasal-46
 
 (1) Barang siapa menghimpun dana dari masyarakat dalam bentuk
 simpanan berupa giro, deposito berjangka, sertifikat deposito,
@@ -1157,7 +1139,7 @@ memberi perintah melakukan perbuatan itu atau yang bertindak
 sebagai pimpinan dalam perbuatan itu atau terhadap
 kedua-duanya.
 
-Pasal 47
+### Pasal 47 ^pasal-47
 
 (1) Barang siapa tanpa membawa perintah tertulis dari Menteri
 kepada bank sebagaimana dimaksud dalam Pasal 41 atau tanpa
@@ -1172,16 +1154,15 @@ terafiliasi lainnya yang dengan sengaja memberikan keterangan
 yang wajib dirahasiakan menurut Pasal 40, diancam dengan
 pidana penjara paling lama 2 (dua) tahun dan denda paling
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 26 
+           - 26
 banyak Rp. 2.000.000.000,- (dua milyar rupiah).
 
-Pasal 48
+### Pasal 48 ^pasal-48
 
 (1) Anggota dewan komisaris, direksi atau pegawai bank yang dengan
 sengaja tidak memberikan keterangan yang wajib dipenuhi
@@ -1196,7 +1177,7 @@ dimaksud dalam Pasal 30 ayat (1) dan ayat (2) dan Pasal 34 ayat
 (1) dan ayat (2), diancam dengan pidana kurungan paling lama 1
 (satu) tahun dan/atau denda paling banyak Rp. 1.000.000.000,(satu milyar rupiah).
 
-Pasal 49
+### Pasal 49 ^pasal-49
 
 (1) Anggota dewan komisaris, direksi atau pegawai bank yang dengan
 sengaja:
@@ -1218,13 +1199,12 @@ c. mengubah, mengaburkan, menyembunyikan, menghapus, atau
 menghilangkan adanya suatu pencatatan dalam pembukuan
 atau dalam laporan, maupun dalam dokumen atau laporan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 27 
+           - 27
 kegiatan usaha, laporan transaksi atau rekening suatu bank,
 atau dengan sengaja mengubah, mengaburkan,
 menghilangkan, menyembunyikan atau merusak catatan
@@ -1260,24 +1240,23 @@ perundang-undangan lainnya yang berlaku bagi bank,
 diancam dengan pidana penjara paling lama 6 (enam) tahun dan
 denda paling banyak Rp. 6.000.000.000,- (enam milyar rupiah).
 
-Pasal 50
+### Pasal 50 ^pasal-50
 
 Pihak terafiliasi yang dengan sengaja tidak melaksanakan
 langkah-langkah yang diperlukan untuk memastikan ketaatan bank
-
 
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 28 
+           - 28
 terhadap ketentuan dalam Undang-undang ini dan peraturan
 perundang-undangan lainnya yang berlaku bagi bank diancam dengan
 pidana penjara paling lama 6 (enam) tahun dan denda paling banyak
 Rp. 6.000.000.000,- (enam milyar rupiah).
 
-Pasal 51
+### Pasal 51 ^pasal-51
 
 (1) Tindak pidana sebagaimana dimaksud dalam Pasal 46, Pasal 47,
 Pasal 48 ayat (1), Pasal 49, dan Pasal 50 adalah kejahatan.
@@ -1285,7 +1264,7 @@ Pasal 48 ayat (1), Pasal 49, dan Pasal 50 adalah kejahatan.
 (2) Tindak pidana sebagaimana dimaksud dalam Pasal 48 ayat (2)
 adalah pelanggaran.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 
 Dengan tidak mengurangi ketentuan pidana sebagaimana dimaksud
 dalam Pasal 47, Pasal 48, dan Pasal 49, Bank Indonesia dapat
@@ -1294,7 +1273,7 @@ kewajibannya sebagaimana ditentukan dalam Undang-undang ini atau
 menyampaikan pertimbangan kepada Menteri untuk mencabut izin
 usaha bank yang bersangkutan.
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
 Dengan tidak mengurangi ketentuan pidana sebagaimana dimaksud
 dalam Pasal 50, Bank Indonesia dapat menetapkan sanksi administratif
@@ -1303,17 +1282,16 @@ sebagaimana ditentukan dalam Undang-undang ini atau menyampaikan
 pertimbangan kepada instansi yang berwenang untuk mencabut izin
 yang bersangkutan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 29 
+           - 29
 BAB IX
 KETENTUAN PERALIHAN
 
-Pasal 54
+### Pasal 54 ^pasal-54
 
 (1) Dengan berlakunya Undang-undang ini :
 
@@ -1357,13 +1335,12 @@ h. Undang-undang Nomor 22 Tahun 1968 tentang Bank Ekspor
 
 Impor Indonesia (Lembaran Negara Tahun 1968 Nomor 75,
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 30 
+           - 30
 Tambahan Lembaran Negara Nomor 2875),
 
 dinyatakan tetap berlaku untuk jangka waktu selama-lamanya
@@ -1380,7 +1357,7 @@ awal dari jangka waktu sebagaimana dimaksud dalam ayat (1),
 maka Undang-undang sebagaimana dimaksud dalam ayat (1),
 menjadi tidak berlaku lagi.
 
-Pasal 55
+### Pasal 55 ^pasal-55
 
 (1) Bank yang telah memiliki izin usaha dari Menteri pada saat
 Undang- undang ini mulai berlaku, dinyatakan telah memperoleh
@@ -1398,21 +1375,20 @@ kotamadya, tetap dapat melanjutkan usahanya sebagai Bank
 Perkreditan Rakyat hingga dapat ditingkatkan menjadi Bank
 Umum.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 31 
-Pasal 56
+           - 31
+### Pasal 56 ^pasal-56
 
 Ketentuan batas maksimum pemberian kredit sebagaimana dimaksud
 dalam Pasal 11 ayat (2) dan ayat (4), wajib dipenuhi oleh bank
 selambat-lambatnya dalam jangka waktu 5 (lima) tahun sejak mulai
 berlakunya Undang-undang ini.
 
-Pasal 57
+### Pasal 57 ^pasal-57
 
 Lembaga Keuangan Bukan Bank yang telah memiliki izin usaha dari
 Menteri pada saat Undang-undang ini mulai berlaku, dapat
@@ -1420,7 +1396,7 @@ menyesuaikan kegiatan usahanya sebagai bank berdasarkan ketentuan
 dalam Undang-undang ini, selambat-lambatnya dalam jangka waktu 1
 (satu) tahun sejak mulai berlakunya Undang-undang ini.
 
-Pasal 58
+### Pasal 58 ^pasal-58
 
 Bank Desa, Lumbung Desa, Bank Pasar, Bank Pegawai, Lumbung Pitih
 Nagari (LPN), Lembaga Perkreditan Desa (LPD), Badan Kredit Desa
@@ -1431,24 +1407,23 @@ dengan itu diberikan status sebagai Bank Perkreditan Rakyat
 berdasarkan Undang-undang ini dengan memenuhi persyaratan tata
 cara yang ditetapkan dengan Peraturan Pemerintah.
 
-Pasal 59
+### Pasal 59 ^pasal-59
 
 Peraturan perundang-undangan yang telah dikeluarkan sebelum
 berlakunya Undang-undang ini sepanjang tidak bertentangan dengan
 Undang-n undang ini, dinyatakan tetap berlaku sampai dengan
 dicabut, diganti atau diperbaharui.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 32 
+           - 32
 BAB X
 KETENTUAN PENUTUP
 
-Pasal 60
+### Pasal 60 ^pasal-60
 
 Dengan berlakunya Undang-undang ini maka :
 
@@ -1470,7 +1445,7 @@ Lembaran Negara Nomor 2842),
 
 dinyatakan tidak berlaku lagi.
 
-Pasal 61
+### Pasal 61 ^pasal-61
 
 Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
@@ -1478,13 +1453,12 @@ Agar setiap orang mengetahuinya, memerintahkan pengundangan
 Undang-undang ini dengan penempatannya dalam Lembaran Negara
 Republik Indonesia.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 33 
+           - 33
 Disahkan di Jakarta
 pada tanggal 25 Maret 1992
 
@@ -1504,14 +1478,16 @@ ttd
 
 MOERDIONO
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 34 
-PENJELASAN
+           - 34
+
+## Penjelasan
+
+### I. Umum
 
 ATAS
 UNDANG-UNDANG REPUBLIK INDONESIA
@@ -1549,13 +1525,12 @@ lembaga perbankan perlu senantiasa terdapat pembinaan dan
 pengawasan yang efektif, dengan didasari oleh landasan gerak yang
 kokoh agar lembaga perbankan di Indonesia mampu berfungsi secara
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 35 
+           - 35
 efisien, sehat, wajar, dan mampu menghadapi persaingan yang
 semakin bersifat global, mampu melindungi secara baik dana yang
 dititipkan masyarakat kepadanya, serta mampu menyalurkan dana
@@ -1591,13 +1566,12 @@ Sebagaimana diketahui, Undang-undang Perbankan 1967 tersebut
 disusun pada saat situasi dan kondisi perekonomian yang jauh berbeda
 dengan situasi dan kondisi perekonomian saat ini. Perkembangan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 36 
+           - 36
 perekonomian nasional maupun internasional yang senantiasa bergerak
 cepat disertai tantangan yang semakin luas perlu selalu dapat diikuti
 secara tanggap oleh perbankan nasional dalam menjalankan fungsi dan
@@ -1638,13 +1612,12 @@ pemenuhan ketentuan persyaratan kesehatan bank;
 
 5. Perluasan kesempatan untuk menyelenggarakan kegiatan di bidang
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 37 
+           - 37
 perbankan secara sehat dan bertanggung jawab, sekaligus
 mencegah terjadinya praktek-praktek yang merugikan kepentingan
 masyarakat luas.
@@ -1680,13 +1653,12 @@ Cukup jelas
 
 Pasal 5
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 38 
+           - 38
 Ayat (1)
 Cukup jelas
 
@@ -1720,13 +1692,12 @@ Huruf c
 Bank dapat menerbitkan surat pengakuan hutang baik yang
 berjangka pendek maupun yang berjangka panjang. Surat
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-         - 39 
+         - 39
 pengakuan hutang yang berjangka pendek adalah sebagaimana
 dimaksud dalam Pasal 100 sampai dengan Pasal 229 k Kitab
 Undang-undang Hukum Dagang, yang dalam pasar uang dikenal
@@ -1760,13 +1731,12 @@ Cukup jelas
 
 Butir 7
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-         - 40 
+         - 40
 Ketentuan ini dimaksud untuk menampung kemungkinan
 adanya jenis surat berharga lain, selain dari yang telah
 disebutkan pada butir 1 sampai dengan butir 6.
@@ -1801,13 +1771,12 @@ Dalam kegiatan ini bank berperan sebagai penghubung antara
 nasabah yang membutuhkan dana dengan nasabah yang memiliki
 dana.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 41 
+           - 41
 Huruf k
 
 Kewajiban bank dalam ketentuan ini, dimaksudkan untuk
@@ -1843,13 +1812,12 @@ bunga, membantu administrasi usaha nasabah dan lain-lain.
 
 Pasal 7
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 42 
+           - 42
 Cukup jelas
 
 Pasal 8
@@ -1884,13 +1852,12 @@ Cukup jelas
 Ayat (2)
 Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 43 
+           - 43
 Ayat (3)
 Cukup jelas
 
@@ -1926,13 +1893,12 @@ Kelompok (group) merupakan kumpulan orang atau badan yang
 satu sama lain mempunyai kaitan dalam hal kepemilikan,
 kepengurusan, dan/atau hubungan keuangan.
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-         - 44 
+         - 44
 Ayat (2)
 
 Bank Indonesia dapat menetapkan batas maksimum yang lebih
@@ -1967,13 +1933,12 @@ Cukup jelas
 Huruf f
 Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 45 
+           - 45
 Ayat (4)
 
 Bank Indonesia dapat menetapkan batas maksimum yang lebih
@@ -2008,13 +1973,12 @@ Huruf a
 Penyebutan "bentuk lainnya yang dipersamakan dengan itu"
 dimaksudkan untuk menampung kemungkinan adanya bentuk
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 46 
+           - 46
 penghimpunan dana dari masyarakat oleh Bank Perkreditan
 Rakyat yang serupa dengan deposito berjangka dan tabungan
 tetapi bukan giro atau simpanan lain yang dapat ditarik dengan
@@ -2049,13 +2013,12 @@ memenuhi ketentuan Bank Indonesia.
 
 Huruf c
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 47 
+           - 47
 Cukup jelas
 
 Huruf d
@@ -2091,13 +2054,12 @@ berdasarkan ketentuan dalam ayat ini. Terhadap kegiatan
 menghimpun dana masyarakat yang dilakukan oleh
 lembaga-lembaga tersebut, diatur dengan Undang-undang
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 48 
+           - 48
 tersendiri beserta peraturan pelaksanaannya.
 
 Ayat (2)
@@ -2133,13 +2095,12 @@ kepemilikan, dan kepengurusan, perlu diperhatikan.
 
 Pasal 17
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 49 
+           - 49
 Huruf a
 
 Dalam ketentuan mengenai jumlah kepemilikan dan
@@ -2174,13 +2135,12 @@ Cukup jelas
 
 Ayat (4)
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 50 
+           - 50
 Cukup jelas
 
 Pasal 19
@@ -2215,13 +2175,12 @@ permodalan, dan tersedianya tenaga yang profesional.
 
 Pasal 20
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 51 
+           - 51
 Ayat (1)
 
 Yang dimaksud dengan "bank yang berkedudukan di luar negeri"
@@ -2257,13 +2216,12 @@ Ayat (2)
 Huruf a
 Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 52 
+           - 52
 Huruf b
 Cukup jelas
 
@@ -2298,13 +2256,12 @@ Pasal 23
 
 Dalam hal Bank Perkreditan Rakyat dimiliki oleh badan hukum
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 53 
+           - 53
 Indonesia, maka badan hukum Indonesia dimaksud seluruh
 pemiliknya adalah warga negara Indonesia.
 
@@ -2341,13 +2298,12 @@ perseratus) dari modal disetor.
 Ayat (5)
 Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 54 
+           - 54
 Pasal 27
 
 Huruf a
@@ -2382,13 +2338,12 @@ Cukup jelas
 
 Pasal 29
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 55 
+           - 55
 Ayat (1), ayat (2), ayat (3) dan ayat (4)
 
 Mengingat bank terutama bekerja dengan dana dari masyarakat
@@ -2423,13 +2378,12 @@ Indonesia diperlukan mengingat keterangan tersebut dibutuhkan
 untuk memantau keadaan dari suatu bank. Pemantauan keadaan
 bank perlu dilakukan dalam rangka melindungi dana masyarakat
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 56 
+           - 56
 dan menjaga keberadaan lembaga perbankan.
 Kepercayaan masyarakat terhadap lembaga perbankan hanya
 dapat ditumbuhkan apabila lembaga perbankan dalam kegiatan
@@ -2464,13 +2418,12 @@ Pasal 33
 Ayat (1)
 Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 57 
+           - 57
 Ayat (2)
 
 Yang dimaksud dengan "persyaratan dan tata cara pemeriksaan"
@@ -2505,13 +2458,12 @@ Pasal 37
 Ayat (1)
 Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 58 
+           - 58
 Ayat (2)
 
 Dalam ayat ini ditetapkan langkah-langkah yang dapat dilakukan
@@ -2547,13 +2499,12 @@ Pasal 39
 
 Ayat (1)
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 59 
+           - 59
 Penggunaan tenaga asing oleh bank dimungkinkan, sesuai dengan
 kebutuhan bank yang bersangkutan.
 Dalam hal Bank Perkreditan Rakyat dan Bank Umum, tenaga asing
@@ -2588,13 +2539,12 @@ Kerahasiaan ini diperlukan untuk kepentingan bank sendiri yang
 memerlukan kepercayaan masyarakat yang menyimpan uangnya
 di bank. Masyarakat hanya akan mempercayakan uangnya pada
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 60 
+           - 60
 bank atau memanfaatkan jasa bank apabila dari bank ada
 jaminan bahwa pengetahuan bank tentang simpanan dan
 keadaan keuangan nasabah tidak akan disalahgunakan. Dengan
@@ -2630,13 +2580,12 @@ atau hakim, maksud pemeriksaan, pejabat yang berwenang
 mengajukan permohonan kepada Menteri, nama nasabah yang
 menjadi tersangka/terdakwa serta sebab-sebab keterangan
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 61 
+           - 61
 diperlukan dalam hubungan perkara pidana yang bersangkutan.
 
 Ayat (2)
@@ -2671,13 +2620,12 @@ Indonesia antara lain diatur mengenai tata cara penyampaian dan
 permintaan informasi serta bentuk dan jenis informasi tertentu
 yang dapat dipertukarkan, seperti indikator secara garis besar
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 62 
+           - 62
 dari kredit yang diterima nasabah, agunan, dan masuk tidaknya
 debitur yang bersangkutan dalam daftar kredit macet.
 
@@ -2713,13 +2661,12 @@ Ayat (1)
 Yang dimaksud dengan "pegawai bank" adalah pejabat bank yang
 diberi wewenang dan tanggung jawab untuk melaksanakan tugas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 63 
+           - 63
 operasional bank, dan karyawan yang mempunyai akses terhadap
 informal mengenai keadaan bank.
 
@@ -2754,13 +2701,12 @@ Pasal 51
 
 Ayat (1)
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 64 
+           - 64
 Perbuatan-perbuatan sebagaimana dimaksud dalam pasal- pasal
 tersebut dalam ayat ini digolongkan sebagai tindak pidana
 kejahatan, berarti bahwa terhadap perbuatan-perbuatan
@@ -2798,13 +2744,12 @@ b. penyampaian tegoran-tegoran tertulis;
 
 c. penurunan tingkat kesehatan bank;
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 65 
+           - 65
 d. larangan turut serta dalam kliring;
 
 e. pembekuan kegiatan usaha baik secara keseluruhan atau untuk
@@ -2849,13 +2794,12 @@ Cukup jelas
 Ayat (2)
 Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 66 
+           - 66
 Ayat (3)
 
 Penyesuaian bentuk hukum bank-bank milik negara sebagaimana
@@ -2890,13 +2834,12 @@ dimaksud, mengingat pada saat ini berlaku ketentuan batas
 maksimum pemberian kredit yang lebih tinggi daripada ketentuan
 sebagaimana dimaksud dalam Pasal 11 ayat (2) dan ayat (4).
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-           - 67 
+           - 67
 Pasal 57
 
 Penyesuaian usaha Lembaga Keuangan Bukan Bank menjadi bank
@@ -2928,18 +2871,15 @@ Pasal 60
 
 Cukup jelas
 
-
 -----
 
 PRESIDEN
 REPUBLIK INDONESIA
 
-  - 68 
+  - 68
 
 Pasal 61
 
 Cukup jelas
 
-
 -----
-

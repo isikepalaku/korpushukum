@@ -23,17 +23,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Kualitas Aset Bank Perekonomian Rakyat
+**Kualitas Aset Bank Perekonomian Rakyat**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/301670/peraturan-ojk-no-1-tahun-2024
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/301670/peraturan-ojk-no-1-tahun-2024)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -80,7 +85,6 @@ tentang Pengembangan dan Penguatan Sektor Keuangan
 4, Tambahan Lembaran Negara Republik Indonesia Nomor
 6845);
 
-
 -----
 
 2. Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas
@@ -100,7 +104,7 @@ KUALITAS ASET BANK PEREKONOMIAN RAKYAT.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini, yang dimaksud
 dengan:
 1. Bank Perekonomian Rakyat yang selanjutnya disingkat
@@ -139,7 +143,6 @@ maupun di luar pelelangan berdasarkan penyerahan
 secara sukarela oleh pemilik agunan atau berdasarkan
 kuasa untuk menjual di luar lelang dari pemilik agunan,
 dalam hal debitur tidak memenuhi kewajiban kepada BPR
-
 
 -----
 
@@ -190,7 +193,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) BPR wajib mengelola Aset berdasarkan prinsip kehatihatian.
 (2) Untuk melaksanakan prinsip kehati-hatian sebagaimana
 dimaksud pada ayat (1), Direksi BPR wajib menilai,
@@ -199,10 +202,9 @@ a. agar kualitas Aset Produktif tetap dalam kualitas
 baik; dan
 b. untuk penyelesaian Aset Nonproduktif.
 
-
 -----
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) BPR wajib melakukan penilaian dan penetapan kualitas
 Aset Produktif.
 (2) Dalam hal terjadi perbedaan penetapan kualitas Aset
@@ -218,7 +220,7 @@ Keuangan mengenai pelaporan bank perkreditan rakyat
 dan bank pembiayaan rakyat syariah melalui sistem
 pelaporan Otoritas Jasa Keuangan.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) BPR wajib menetapkan kualitas yang sama terhadap
 seluruh Aset Produktif yang sama untuk membiayai:
 a. 1 (satu) Debitur; atau
@@ -230,7 +232,7 @@ paling rendah.
 dikecualikan terhadap Aset Produktif yang ditetapkan
 berdasarkan faktor penilaian yang berbeda.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) BPR wajib menetapkan kualitas yang sama terhadap Aset
 Produktif yang diberikan oleh lebih dari 1 (satu) BPR yang
 digunakan untuk membiayai:
@@ -258,7 +260,6 @@ sebagaimana dimaksud pada ayat (1) dan ayat (2),
 kualitas yang ditetapkan oleh setiap BPR terhadap Aset
 Produktif wajib mengikuti kualitas yang paling rendah.
 
-
 -----
 
 (4) Ketentuan sebagaimana dimaksud pada ayat (3) dapat
@@ -270,7 +271,7 @@ dimaksud pada ayat (1) paling lama untuk posisi akhir
 bulan Maret, bulan Juni, bulan September, dan bulan
 Desember.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) BPR dapat menetapkan kualitas yang tidak sama untuk
 Aset Produktif yang diberikan kepada Debitur
 sebagaimana dimaksud dalam Pasal 4 ayat (1) atau Pasal
@@ -316,14 +317,13 @@ pada ayat (1), BPR melakukan penetapan sesuai dengan
 ketentuan sebagaimana dimaksud dalam Pasal 4 ayat (1)
 huruf a atau Pasal 5 ayat (1) huruf a.
 
-
 -----
 
 Bagian Kedua
 
 Kredit
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Kualitas Aset Produktif dalam bentuk Kredit yang
 diberikan oleh setiap BPR kepada 1 (satu) Debitur atau 1
 (satu) proyek atau usaha dinilai berdasarkan faktor
@@ -343,7 +343,7 @@ tercantum dalam Lampiran II yang merupakan bagian
 tidak terpisahkan dari Peraturan Otoritas Jasa Keuangan
 ini.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Penilaian terhadap prospek usaha sebagaimana dimaksud
 dalam Pasal 7 ayat (1) huruf a meliputi penilaian terhadap
 komponen:
@@ -370,20 +370,19 @@ d. kepatuhan terhadap perjanjian Kredit;
 e. kesesuaian penggunaan dana; dan
 f. kewajaran sumber pembayaran kewajiban.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 Penilaian kualitas Aset Produktif dalam bentuk Kredit
 sebagaimana dimaksud dalam Pasal 7 ayat (1) dan Pasal 8
 dilakukan dengan mempertimbangkan:
 a. signifikansi dan materialitas dari setiap faktor penilaian
 dan komponen; dan
 
-
 -----
 
 b. relevansi dari faktor penilaian dan komponen terhadap
 Debitur bersangkutan.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 Dalam hal terjadi kondisi yang menyebabkan Debitur tidak
 memiliki kemampuan membayar pokok dan/atau bunga
 sesuai perjanjian Kredit dengan BPR, Otoritas Jasa Keuangan
@@ -391,7 +390,7 @@ berwenang menurunkan kualitas Aset Produktif yang
 ditetapkan oleh BPR berdasarkan faktor penilaian
 sebagaimana dimaksud dalam Pasal 7 ayat (2).
 
-Pasal 11
+### Pasal 11 ^pasal-11
 Berdasarkan penilaian sebagaimana dimaksud dalam Pasal 7,
 kualitas Aset Produktif dalam bentuk Kredit ditetapkan:
 a. lancar;
@@ -400,12 +399,12 @@ c. kurang lancar;
 d. diragukan; atau
 e. macet.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 Dalam hal terdapat penyimpangan pemberian Kredit, BPR
 wajib menurunkan kualitas Aset Produktif dalam bentuk
 Kredit menjadi macet.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) BPR yang memberikan Kredit dengan tenggang waktu
 pembayaran, tunggakan angsuran pokok dan/atau bunga
 dihitung setelah tenggang waktu pembayaran berakhir.
@@ -416,7 +415,7 @@ perjanjian Kredit.
 Bagian Ketiga
 Surat Berharga
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) BPR hanya dapat memiliki Surat Berharga yang
 diterbitkan oleh Bank Indonesia, Pemerintah, dan/atau
 Pemerintah Daerah.
@@ -433,13 +432,12 @@ Berharga sebagaimana dimaksud pada ayat (3) tercantum
 dalam Lampiran II yang merupakan bagian tidak
 terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
 
-
 -----
 
 Bagian Keempat
 Penempatan pada Bank Lain
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) Kualitas Aset Produktif dalam bentuk Penempatan pada
 Bank Lain ditetapkan:
 a. lancar;
@@ -454,7 +452,7 @@ Otoritas Jasa Keuangan ini.
 Bagian Kelima
 Penyertaan Modal
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Penyertaan Modal diukur dan/atau dicatat dengan
 menggunakan:
 a. biaya perolehan; atau
@@ -481,7 +479,7 @@ ini.
 Bagian Keenam
 Aset Produktif yang Dijamin dengan Agunan Tunai
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Bagian dari Aset Produktif yang dijamin dengan agunan
 tunai ditetapkan memiliki kualitas lancar.
 (2) Agunan tunai berupa:
@@ -491,7 +489,6 @@ b. Surat Berharga yang diterbitkan oleh Bank Indonesia
 atau Pemerintah.
 (3) Agunan tunai sebagaimana dimaksud pada ayat (2) harus
 memenuhi persyaratan:
-
 
 -----
 
@@ -517,7 +514,7 @@ Bagian Ketujuh
 
 Sanksi
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) BPR yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 2, Pasal 3 ayat (1), ayat (3), Pasal 4 ayat (1),
 ayat (2), Pasal 5 ayat (1), ayat (3), ayat (5), Pasal 6 ayat (2),
@@ -549,10 +546,9 @@ Bagian Kesatu
 
 PPKA
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) BPR wajib menghitung PPKA berupa PPKA umum dan
 PPKA khusus untuk masing-masing Aset Produktif.
-
 
 -----
 
@@ -581,7 +577,7 @@ b. bagian dari Aset Produktif yang dijamin dengan
 agunan tunai sebagaimana dimaksud dalam Pasal
 17.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Nilai agunan yang diperhitungkan sebagai pengurang
 dalam perhitungan PPKA khusus sebagaimana dimaksud
 dalam Pasal 19 ayat (3) ditetapkan paling tinggi:
@@ -612,7 +608,6 @@ surat pengakuan tanah adat;
 f. 50% (lima puluh persen) dari harga pasar, harga
 sewa, atau harga pengalihan, untuk agunan berupa
 tempat usaha yang disertai bukti kepemilikan, surat
-
 
 -----
 
@@ -671,7 +666,6 @@ dalam pembentukan PPKA setelah jangka waktu 4
 (empat) tahun sejak penetapan kualitas Kredit
 menjadi macet.
 
-
 -----
 
 (4) Ketentuan sebagaimana dimaksud pada ayat (3) dapat
@@ -701,7 +695,7 @@ yang berbeda dari jangka waktu sebagaimana dimaksud
 pada ayat (3) berdasarkan analisis atas kondisi ekonomi
 wilayah setempat dan sekitarnya.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) BPR wajib melakukan penilaian atas agunan secara
 berkala untuk mengetahui nilai ekonomis agunan.
 (2) Agunan tidak diperhitungkan sebagai pengurang dalam
@@ -717,7 +711,7 @@ sebagai pengurang dalam pembentukan perhitungan
 PPKA jika terjadi penurunan nilai agunan secara
 signifikan.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) Dalam hal BPR tidak memenuhi ketentuan sebagaimana
 dimaksud dalam Pasal 20 dan Pasal 21, Otoritas Jasa
 Keuangan berwenang melakukan perhitungan kembali
@@ -730,21 +724,20 @@ dalam laporan yang disampaikan kepada Otoritas Jasa
 Keuangan mengacu pada ketentuan Otoritas Jasa
 Keuangan mengenai laporan bulanan BPR.
 
-
 -----
 
-Pasal 23
+### Pasal 23 ^pasal-23
 Bagian Penempatan pada Bank Lain yang memenuhi
 persyaratan kriteria penjaminan Lembaga Penjamin Simpanan
 dapat dijadikan sebagai faktor pengurang dalam pembentukan
 perhitungan PPKA umum dan khusus.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 BPR wajib membentuk PPKA dengan mekanisme yang sama
 dengan perhitungan PPKA sebagaimana dimaksud dalam Pasal
 19 sampai dengan Pasal 23.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 BPR wajib membentuk cadangan sebesar 100% (seratus
 persen) atas tagihan BPR yang timbul akibat pihak lawan tidak
 memenuhi kewajiban kepada BPR.
@@ -753,11 +746,11 @@ Bagian Kedua
 
 CKPN
 
-Pasal 26
+### Pasal 26 ^pasal-26
 BPR wajib membentuk CKPN sesuai standar akuntansi
 keuangan.
 
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) Dalam menghitung rasio KPMM, BPR wajib
 memperhitungkan CKPN yang dibentuk dan PPKA atas
 Aset Produktif.
@@ -775,7 +768,7 @@ Bagian Ketiga
 
 Sanksi
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) BPR yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 19 ayat (1), Pasal 21 ayat (1), ayat (3), Pasal
 22 ayat (2), Pasal 24, Pasal 25, Pasal 26, Pasal 27 ayat (1),
@@ -791,7 +784,6 @@ a. penurunan tingkat kesehatan BPR; dan/atau
 b. penghentian sementara sebagian kegiatan usaha.
 (3) Dalam hal BPR telah dikenai sanksi administratif
 sebagaimana dimaksud pada ayat (1) dan/atau ayat (2)
-
 
 -----
 
@@ -811,7 +803,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 29
+### Pasal 29 ^pasal-29
 (1) BPR dapat melakukan Restrukturisasi Kredit terhadap
 Debitur yang menurut penilaian BPR memenuhi kriteria:
 a. Debitur mengalami kesulitan pembayaran pokok
@@ -829,7 +821,7 @@ dilakukan dalam perjanjian Kredit.
 (4) Perjanjian Kredit sebagaimana dimaksud pada ayat (3)
 wajib merujuk perjanjian Kredit sebelumnya.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 (1) BPR dilarang melakukan Restrukturisasi Kredit dengan
 tujuan untuk menghindari:
 a. penurunan kualitas Kredit;
@@ -845,13 +837,12 @@ b. independensi;
 c. menghindari benturan kepentingan; dan
 d. kewajaran.
 
-Pasal 31
+### Pasal 31 ^pasal-31
 (1) Kualitas Kredit yang dilakukan Restrukturisasi Kredit
 sebagaimana dimaksud dalam Pasal 29 ditetapkan:
 a. paling tinggi kurang lancar untuk Kredit yang
 sebelum dilakukan Restrukturisasi Kredit
 kualitasnya tergolong diragukan atau macet; atau
-
 
 -----
 
@@ -871,12 +862,12 @@ huruf a.
 ayat (2) selanjutnya ditetapkan berdasarkan penilaian
 sebagaimana dimaksud dalam Pasal 7.
 
-Pasal 32
+### Pasal 32 ^pasal-32
 BPR wajib menerapkan perlakuan akuntansi Restrukturisasi
 Kredit sesuai dengan standar akuntansi keuangan dan
 pedoman akuntansi bagi BPR.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 Kualitas Kredit yang direstrukturisasi dengan pemberian
 tenggang waktu pembayaran sebagaimana dimaksud dalam
 Pasal 13 ayat (1) ditetapkan:
@@ -887,7 +878,7 @@ b. setelah tenggang waktu pembayaran berakhir, kualitas
 Kredit mengikuti penetapan kualitas sebagaimana
 dimaksud dalam Pasal 31.
 
-Pasal 34
+### Pasal 34 ^pasal-34
 Otoritas Jasa Keuangan dapat melakukan koreksi terhadap
 penetapan kualitas Kredit yang direstrukturisasi,
 pembentukan PPKA, dan pendapatan bunga yang telah diakui
@@ -906,14 +897,13 @@ d. Restrukturisasi Kredit tidak didukung dengan dokumen
 yang lengkap dan analisis yang memadai mengenai
 kemampuan membayar dan prospek usaha Debitur.
 
-
 -----
 
 Bagian Kedua
 
 Sanksi
 
-Pasal 35
+### Pasal 35 ^pasal-35
 (1) BPR yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 29 ayat (3), ayat (4), Pasal 30 ayat (1),
 dan/atau Pasal 32, dikenai sanksi administratif berupa
@@ -938,7 +928,7 @@ jasa keuangan.
 BAB V
 PROPERTI TERBENGKALAI
 
-Pasal 36
+### Pasal 36 ^pasal-36
 (1) BPR wajib melakukan identifikasi dan penetapan
 terhadap Properti Terbengkalai yang dimiliki.
 (2) Properti Terbengkalai sebagaimana dimaksud pada ayat
@@ -955,7 +945,7 @@ Keuangan, penetapan Properti Terbengkalai yang berlaku
 penetapan Properti Terbengkalai yang ditetapkan oleh
 Otoritas Jasa Keuangan.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 (1) BPR wajib melakukan upaya penyelesaian terhadap
 Properti Terbengkalai yang dimiliki.
 (2) BPR wajib mendokumentasikan upaya penyelesaian
@@ -965,7 +955,6 @@ Properti Terbengkalai sebagaimana dimaksud pada ayat
 tercatat pada laporan posisi keuangan sebagai faktor
 pengurang modal inti BPR dalam perhitungan KPMM
 sebesar:
-
 
 -----
 
@@ -985,7 +974,7 @@ berbeda dari jangka waktu sebagaimana dimaksud pada
 ayat (3) berdasarkan analisis atas kondisi ekonomi
 wilayah setempat dan sekitarnya.
 
-Pasal 38
+### Pasal 38 ^pasal-38
 (1) BPR yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 36 ayat (1), ayat (3), Pasal 37 ayat (1), ayat
 (2), dan/atau ayat (3) dikenai sanksi administratif berupa
@@ -1011,7 +1000,7 @@ BAB VI
 
 AYDA
 
-Pasal 39
+### Pasal 39 ^pasal-39
 (1) BPR wajib menetapkan kualitas Aset Produktif menjadi
 macet sebelum melakukan pengambilalihan AYDA.
 (2) Untuk melakukan pengambilalihan AYDA sebagaimana
@@ -1026,7 +1015,6 @@ b. di luar pelelangan, wajib dilakukan oleh:
 1. penilai independen untuk agunan dengan nilai
 paling sedikit Rp1.000.000.000,00 (satu miliar
 rupiah); dan
-
 
 -----
 
@@ -1055,7 +1043,7 @@ ketentuan peraturan perundang-undangan
 mengenai perlindungan konsumen dan masyarakat
 di sektor jasa keuangan.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 (1) Pengambilalihan AYDA sebagaimana dimaksud dalam
 Pasal 39 ayat (1) bersifat sementara dan wajib dicairkan
 secepatnya terhitung sejak pengambilalihan AYDA oleh
@@ -1086,7 +1074,6 @@ yang dimiliki lebih dari 2 (dua) tahun.
 (4) BPR wajib mendokumentasikan upaya pencairan AYDA
 sebagaimana dimaksud pada ayat (1).
 
-
 -----
 
 (5) BPR wajib menerapkan perlakuan akuntansi
@@ -1097,7 +1084,7 @@ berbeda dari jangka waktu sebagaimana dimaksud pada
 ayat (2) berdasarkan analisis atas kondisi ekonomi
 wilayah setempat dan sekitarnya.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 (1) BPR yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 39 ayat (1), ayat (2), ayat (3) huruf b, ayat (4),
 ayat (5), ayat (6), ayat (7), Pasal 40 ayat (1), ayat (2), ayat
@@ -1126,7 +1113,7 @@ lembaga jasa keuangan.
 BAB VII
 HAPUS BUKU
 
-Pasal 42
+### Pasal 42 ^pasal-42
 (1) Hapus buku dilarang dilakukan selain terhadap Aset
 Produktif yang memiliki kualitas macet dan telah
 didukung dengan pembentukan cadangan sebesar 100%
@@ -1134,7 +1121,7 @@ didukung dengan pembentukan cadangan sebesar 100%
 (2) Hapus buku dilarang dilakukan terhadap sebagian
 penyediaan dana.
 
-Pasal 43
+### Pasal 43 ^pasal-43
 (1) BPR dilarang melakukan hapus buku sebagaimana
 dimaksud dalam Pasal 42 kecuali BPR telah melakukan
 upaya untuk memperoleh kembali Aset Produktif yang
@@ -1144,14 +1131,13 @@ kembali Aset Produktif yang diberikan sebagaimana
 dimaksud pada ayat (1) dan dasar pertimbangan
 pelaksanaan hapus buku.
 
-
 -----
 
 (3) BPR wajib mengadministrasikan data dan informasi
 mengenai Aset Produktif yang telah dilakukan hapus
 buku.
 
-Pasal 44
+### Pasal 44 ^pasal-44
 (1) BPR yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 42 dan/atau Pasal 43 dikenai sanksi
 administratif berupa teguran tertulis.
@@ -1174,7 +1160,7 @@ utama lembaga jasa keuangan.
 BAB VIII
 Kebijakan Perkreditan dan Prosedur Perkreditan
 
-Pasal 45
+### Pasal 45 ^pasal-45
 (1) Untuk penyediaan dana dalam bentuk Kredit, BPR wajib:
 a. memiliki dan menerapkan kebijakan perkreditan dan
 prosedur perkreditan secara tertulis mengacu pada
@@ -1201,10 +1187,9 @@ dimaksud pada ayat (1).
 (4) Prosedur perkreditan sebagaimana dimaksud pada ayat
 (1) wajib disetujui oleh Direksi.
 
-
 -----
 
-Pasal 46
+### Pasal 46 ^pasal-46
 (1) Dewan Komisaris wajib melakukan pengawasan efektif
 terhadap pelaksanaan kebijakan perkreditan
 sebagaimana dimaksud dalam Pasal 45 ayat (1).
@@ -1244,7 +1229,7 @@ Kredit bermasalah; dan
 c. saran dan rekomendasi Dewan Komisaris terhadap
 pelaksanaan kebijakan perkreditan.
 
-Pasal 47
+### Pasal 47 ^pasal-47
 (1) BPR yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 45, Pasal 46 ayat (1), dan/atau ayat (3),
 dikenai sanksi administratif berupa teguran tertulis.
@@ -1261,7 +1246,6 @@ dan tetap melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 45, Pasal 46 ayat (1), dan/atau ayat (3), pihak
 utama BPR dapat dikenai sanksi administratif berupa
 
-
 -----
 
 larangan sebagai pihak utama sesuai dengan Peraturan
@@ -1271,7 +1255,7 @@ pihak utama lembaga jasa keuangan.
 BAB IX
 KETENTUAN PERALIHAN
 
-Pasal 48
+### Pasal 48 ^pasal-48
 Ketentuan mengenai Properti Terbengkalai sebagaimana
 dimaksud dalam Pasal 36 dan Pasal 37 dilaksanakan dengan
 ketentuan:
@@ -1291,7 +1275,7 @@ BPR memperhitungkan Properti Terbengkalai sebagai
 faktor pengurang modal inti dalam perhitungan KPMM
 sebagaimana dimaksud dalam Pasal 37.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 Ketentuan mengenai:
 a. penyertaan modal sebagaimana dimaksud dalam Pasal
 16; dan
@@ -1299,7 +1283,7 @@ b. CKPN sebagaimana dimaksud dalam Pasal 26 dan Pasal
 27,
 berlaku sejak tanggal 1 Januari 2025.
 
-Pasal 50
+### Pasal 50 ^pasal-50
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku,
 pembentukan PPKA sebagaimana dimaksud dalam Pasal 24
 dilakukan sampai dengan tanggal 31 Desember 2024.
@@ -1307,7 +1291,7 @@ dilakukan sampai dengan tanggal 31 Desember 2024.
 BAB X
 KETENTUAN PENUTUP
 
-Pasal 51
+### Pasal 51 ^pasal-51
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku,
 ketentuan sebagaimana dimaksud dalam Pasal 7 ayat (3) dan
 Pasal 8 ayat (5) Peraturan Otoritas Jasa Keuangan Nomor
@@ -1317,10 +1301,9 @@ Perkreditan Rakyat (Lembaran Negara Republik Indonesia
 Tahun 2015 Nomor 73, Tambahan Lembaran Negara Republik
 Indonesia Nomor 5686), dicabut dan dinyatakan tidak berlaku.
 
-
 -----
 
-Pasal 52
+### Pasal 52 ^pasal-52
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku,
 Peraturan Otoritas Jasa Keuangan Nomor 33/POJK.03/2018
 tentang Kualitas Aset Produktif dan Pembentukan Penyisihan
@@ -1329,17 +1312,15 @@ Penghapusan Aset Produktif Bank Perkreditan Rakyat
 258, Tambahan Lembaran Negara Republik Indonesia Nomor
 6284), dicabut dan dinyatakan tidak berlaku.
 
-Pasal 53
+### Pasal 53 ^pasal-53
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal diundangkan.
-
 
 -----
 
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Peraturan Otoritas Jasa Keuangan ini dengan
 penempatannya dalam Lembaran Negara Republik Indonesia.
-
 
 Ditetapkan di Jakarta
 pada tanggal 10 Januari 2024
@@ -1364,7 +1345,6 @@ YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 1/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Hukum 1
 Departemen Hukum
@@ -1373,10 +1353,11 @@ ttd
 
 Mufli Asmawidjaja
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -1387,8 +1368,6 @@ NOMOR 1 TAHUN 2024
 TENTANG
 KUALITAS ASET
 BANK PEREKONOMIAN RAKYAT
-
-I. UMUM
 
 BPR sebagai lembaga intermediasi yang melakukan kegiatan usaha
 menghimpun dan menyalurkan dana dari dan kepada masyarakat,
@@ -1420,14 +1399,11 @@ cakupan Aset Produktif, mekanisme dan jangka waktu penyelesaian
 AYDA, kewajiban pembentukan CKPN sesuai standar akuntansi
 keuangan, dan pengaturan lainnya.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Prinsip kehati-hatian dalam pengelolaan Aset khususnya
@@ -1448,9 +1424,7 @@ agar kualitas Aset tetap baik antara lain penerapan manajemen
 risiko kredit secara efektif, termasuk melalui penyusunan dan
 pelaksanaan kebijakan dan pedoman perkreditan sesuai
 dengan Peraturan Otoritas Jasa Keuangan ini.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Cukup jelas.
@@ -1463,9 +1437,7 @@ Debitur.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Proyek atau usaha yang sama termasuk proyek atau usaha
@@ -1519,9 +1491,7 @@ penilaian untuk penetapan kualitas Aset Produktif dalam
 bentuk Kredit dan Penempatan pada Bank Lain maka kualitas
 Aset Produktif dalam bentuk Kredit dan Penempatan pada
 Bank Lain dapat ditetapkan secara berbeda.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Proyek yang sama termasuk proyek yang menjadi sumber
@@ -1621,9 +1591,7 @@ sama.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 Huruf a
@@ -1661,9 +1629,7 @@ bentuk portable document format (.pdf).
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Prospek usaha termasuk prospek proyek yang menjadi bagian
@@ -1681,9 +1647,7 @@ persyaratan Kredit yang diperjanjikan.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Huruf a
@@ -1774,32 +1738,22 @@ Kewajaran sumber pembayaran kewajiban antara lain
 dinilai melalui kesesuaian sumber pembayaran kewajiban
 dengan proyek atau usaha yang dibiayai oleh BPR atau
 penghasilan Debitur bersangkutan.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Kondisi yang menyebabkan Debitur tidak memiliki kemampuan
 membayar pokok dan/atau bunga antara lain sumber pembayaran
 pokok dan/atau bunga berasal dari BPR yang sama.
 
 
 -----
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Penyimpangan pemberian Kredit antara lain Kredit yang diberikan
 dengan menggunakan identitas palsu atau identitas pihak lain yang
 tidak menikmati fasilitas Kredit tersebut.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Yang dimaksud dengan “tenggang waktu pembayaran” adalah
@@ -1813,21 +1767,13 @@ dimuat dalam perjanjian Kredit.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Cukup jelas.
@@ -1840,17 +1786,11 @@ Yang dimaksud dengan “diblokir” adalah tindakan mencegah
 pentransferan, pengubahan bentuk, penukaran, penempatan,
 pembagian, perpindahan, atau pergerakan agunan untuk
 jangka waktu tertentu.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Huruf a
@@ -2006,9 +1946,7 @@ antara lain didasarkan pada:
 a. tanah; dan/atau
 b. bangunan,
 di wilayah tersebut.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Ayat (1)
 
 Yang dimaksud dengan “penilaian atas agunan” adalah
@@ -2030,13 +1968,9 @@ Ayat (3)
 Yang dimaksud dengan “penurunan nilai agunan secara
 signifikan” antara lain penurunan nilai agunan yang
 disebabkan oleh kebakaran dan/atau bencana alam.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Yang dimaksud dengan “Lembaga Penjamin Simpanan” adalah
 Lembaga Penjamin Simpanan sebagaimana dimaksud dalam
 Undang-Undang mengenai Lembaga Penjamin Simpanan.
@@ -2113,29 +2047,17 @@ penempatan BPR X kepada bank Y adalah sebagai berikut:
 
 PPKA khusus = 10% x (Rp10.000.000.000,00 –
 Rp2.000.000.000,00) = Rp800.000.000,00
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Pihak lawan antara lain pelaku fraud.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Ayat (1)
 
 Cukup jelas.
@@ -2181,9 +2103,7 @@ Ayat (4)
 Yang dimaksud dengan “perjanjian Kredit sebelumnya” adalah
 seluruh perjanjian Kredit terkait yang masih berlaku antara
 BPR dengan Debitur.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Cukup jelas.
@@ -2219,9 +2139,7 @@ ketentuan peraturan perundang-undangan.
 
 
 -----
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Ayat (1)
 
 Cukup jelas.
@@ -2405,23 +2323,15 @@ Restrukturisasi Kredit.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Perlakuan akuntansi untuk Restrukturisasi Kredit diterapkan
 antara lain pengakuan kerugian yang timbul akibat Restrukturisasi
 Kredit.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Cukup jelas.
 
 |Periode|Pembayaran|Col3|Kualitas Kredit pada<br>Akhir Bulan<br>Penilaian|
@@ -2435,9 +2345,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Ayat (1)
 
 Properti Terbengkalai antara lain tanah dan/atau bangunan
@@ -2472,9 +2380,7 @@ Ayat (4)
 Penetapan Properti Terbengkalai oleh Otoritas Jasa Keuangan
 antara lain didasarkan pada hasil pemeriksaan Otoritas Jasa
 Keuangan mengenai pemanfaatan properti.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Ayat (1)
 
 Upaya penyelesaian antara lain dapat dilakukan dengan cara
@@ -2526,13 +2432,9 @@ Properti Terbengkalai = 100% x Rp350.000.000,00
 Ayat (4)
 
 Lihat penjelasan Pasal 20 ayat (6).
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Ayat (1)
 
 Cukup jelas.
@@ -2574,9 +2476,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Ayat (1)
 
 Yang dimaksud dengan “dicairkan secepatnya” adalah BPR
@@ -2674,13 +2574,9 @@ dimiliki lebih dari 4 (empat) tahun sampai dengan 6
 (enam) tahun; dan/atau
 c. 100% (seratus persen) dari nilai AYDA untuk AYDA yang
 dimiliki lebih dari 6 (enam) tahun.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Cukup jelas.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Ayat (1)
 
 Cukup jelas.
@@ -2688,9 +2584,7 @@ Ayat (2)
 
 Pelaksanaan hapus buku dilakukan terhadap seluruh
 penyediaan dana yang diberikan dalam satu perjanjian.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Ayat (1)
 
 Upaya untuk memperoleh kembali Aset Produktif yang
@@ -2708,13 +2602,9 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Cukup jelas.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Ayat (1)
 
 Evaluasi kebijakan perkreditan dan prosedur perkreditan
@@ -2729,9 +2619,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Ayat (1)
 
 Cukup jelas.
@@ -2761,36 +2649,22 @@ Huruf b
 Cukup jelas.
 Huruf c
 Cukup jelas.
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Cukup jelas.
 
 
 -----
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Cukup jelas.
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Cukup jelas.
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Cukup jelas.
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 71/OJK
@@ -4159,3 +4033,60 @@ Mufli Asmawidjaja
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |

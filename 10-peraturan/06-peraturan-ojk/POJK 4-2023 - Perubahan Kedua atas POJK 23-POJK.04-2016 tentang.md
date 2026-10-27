@@ -24,10 +24,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan Kedua atas POJK 23-POJK.04-2016 tentang Reksa Dana Berbentuk Kontrak Investasi Kolektif
+**Perubahan Kedua atas POJK 23-POJK.04-2016 tentang Reksa Dana Berbentuk Kontrak Investasi Kolektif**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -35,8 +41,7 @@ last_updated: 2026-10-28
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/Reksa-Dana-Berbentuk-Kontrak-Investasi-Kolektif.aspx)
 
-
-- 1 
+- 1
 
 OTORITAS JASA KEUANGAN
 
@@ -88,10 +93,9 @@ Pengembangan dan Penguatan Sektor Keuangan
 (Lembaran Negara Republik Indonesia Tahun 2023 Nomor
 4, Tambahan Lembaran Negara Republik Indonesia Nomor
 
-
 -----
 
-                        - 2 
+                        - 2
 6845);
 2. Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas
 Jasa Keuangan (Lembaran Negara Republik Indonesia
@@ -121,7 +125,7 @@ PERUBAHAN KEDUA ATAS PERATURAN OTORITAS JASA
 KEUANGAN NOMOR 23/POJK.04/2016 TENTANG REKSA
 DANA BERBENTUK KONTRAK INVESTASI KOLEKTIF.
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Beberapa ketentuan dalam Peraturan Otoritas Jasa Keuangan
 Nomor 23/POJK.04/2016 tentang Reksa Dana Berbentuk
 Kontrak Investasi Kolektif (Lembaran Negara Republik
@@ -146,10 +150,9 @@ a. batasan waktu kewajiban penghitungan dan
 penyampaian Nilai Pasar Wajar dari Efek dalam
 portofolio Reksa Dana oleh Manajer Investasi kepada
 
-
 -----
 
-          - 3 
+          - 3
 Bank Kustodian paling lambat pukul 17.00 WIB
 setiap hari bursa sebagaimana diatur dalam
 peraturan perundang-undangan mengenai Nilai
@@ -206,17 +209,16 @@ yang merupakan bagian tidak terpisahkan dari
 peraturan Otoritas Jasa Keuangan mengenai
 pelaporan dan pedoman akuntansi Reksa Dana setiap
 
-
 -----
 
-             - 4 
+             - 4
 hari paling lambat pukul 13.00 WIB pada hari kerja
 berikutnya.
 
 2. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) Bank Kustodian wajib memastikan dana hasil
 pembelian kembali Unit Penyertaan atau likuidasi
 Reksa Dana disampaikan ke rekening atas nama
@@ -265,10 +267,9 @@ h. turunnya peringkat Efek Bersifat Utang
 dan/atau sukuk atas sebagian besar atau
 seluruh portofolio investasi menjadi _non_
 
-
 -----
 
-             - 5 
+             - 5
 _investment grade;_
 i. pemenuhan peraturan perundang-undangan;
 dan/atau
@@ -305,7 +306,7 @@ Investasi Kolektif.
 (satu) ayat yakni ayat (4) sehingga Pasal 28 berbunyi
 sebagai berikut:
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) Bank Kustodian wajib menerbitkan dan
 menyampaikan surat atau bukti konfirmasi tertulis
 kepemilikan Unit Penyertaan Reksa Dana berbentuk
@@ -325,10 +326,9 @@ diterimanya perintah pembelian kembali Unit
 Penyertaan secara lengkap, untuk pembelian
 kembali Unit Penyertaan.
 
-
 -----
 
-             - 6 
+             - 6
 (3) Penyampaian surat atau bukti konfirmasi tertulis
 kepemilikan Unit Penyertaan Reksa Dana berbentuk
 Kontrak Investasi Kolektif kepada pemegang Unit
@@ -370,7 +370,7 @@ penjualan, pembelian kembali, atau pelunasan.
 5. Ketentuan Pasal 29 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 29
+### Pasal 29 ^pasal-29
 (1) Bank Kustodian wajib menyampaikan laporan Reksa
 Dana kepada setiap pemegang Unit Penyertaan Reksa
 Dana berbentuk Kontrak Investasi Kolektif dengan
@@ -384,10 +384,9 @@ b. paling lambat pada hari ke-12 (kedua belas)
 bulan Januari yang menggambarkan posisi akun
 pada tanggal 31 Desember; dan
 
-
 -----
 
-             - 7 
+             - 7
 c. laporan memuat informasi paling sedikit:
 1. nama, alamat, judul akun, dan nomor akun
 dari pemegang Unit Penyertaan;
@@ -414,7 +413,7 @@ terpadu.
 6. Ketentuan Pasal 37 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 37
+### Pasal 37 ^pasal-37
 (1) Pembayaran atas pembelian Unit Penyertaan Reksa
 Dana dapat menggunakan sistem pembayaran
 elektronik dan/atau mekanisme pendebetan rekening
@@ -441,10 +440,9 @@ yang melakukan kegiatan penjualan melalui sistem
 elektronik sebagaimana dimaksud pada ayat (3)
 wajib:
 
-
 -----
 
-          - 8 
+          - 8
 a. memperoleh persetujuan dari Otoritas Jasa
 Keuangan atas rencana penggunaan _virtual_
 _account_ yang disediakan oleh perusahaan
@@ -501,10 +499,9 @@ selalu berada pada zero balance pada akhir hari
 bursa dengan segera meneruskan dana hasil
 transaksi pembelian Reksa Dana ke rekening
 
-
 -----
 
-          - 9 
+          - 9
 Reksa Dana yang diadministrasikan oleh Bank
 Kustodian;
 c. standar operasional prosedur dan manajemen
@@ -561,14 +558,13 @@ b. penolakan; atau
 c. konfirmasi permintaan tindak lanjut untuk
 memenuhi persyaratan.
 
-
 -----
 
-            - 10 
+            - 10
 7. Diantara huruf d dan huruf e Pasal 45 disisipkan 1 (satu)
 huruf yakni huruf d1 sehingga berbunyi sebagai berikut:
 
-Pasal 45
+### Pasal 45 ^pasal-45
 Reksa Dana berbentuk Kontrak Investasi Kolektif wajib
 dibubarkan, apabila terjadi hal sebagai berikut:
 a. dalam jangka waktu 90 (sembilan puluh) hari bursa,
@@ -599,7 +595,7 @@ untuk membubarkan Reksa Dana.
 8. Ketentuan Pasal 46 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 46
+### Pasal 46 ^pasal-46
 Dalam hal Reksa Dana berbentuk Kontrak Investasi
 Kolektif dibubarkan karena kondisi sebagaimana
 dimaksud dalam Pasal 45 huruf a atau huruf b, Manajer
@@ -621,10 +617,9 @@ waktu sebagaimana dimaksud dalam Pasal 45 huruf
 a atau huruf b, untuk membayarkan hasil likuidasi
 berupa:
 
-
 -----
 
-            - 11 
+            - 11
 1. dana; dan/atau
 2. aset jika pemegang Unit Penyertaan menyetujui
 pembayaran dalam bentuk aset,
@@ -656,7 +651,7 @@ memiliki dana kelolaan.
 9. Ketentuan Pasal 47 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 47
+### Pasal 47 ^pasal-47
 (1) Dalam hal Reksa Dana berbentuk Kontrak Investasi
 Kolektif dibubarkan karena kondisi sebagaimana
 dimaksud dalam Pasal 45 huruf c, Manajer Investasi
@@ -682,10 +677,9 @@ mana yang lebih tinggi) dan dana hasil
 likuidasi tersebut diterima pemegang Unit
 Penyertaan paling lambat 7 (tujuh) hari
 
-
 -----
 
-            - 12 
+            - 12
 bursa sejak pembubaran atau likuidasi
 selesai dilakukan; atau
 2. aset hasil likuidasi Reksa Dana, jika
@@ -735,16 +729,15 @@ terhadap hasil penjualan.
 10. Ketentuan Pasal 48 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 48
+### Pasal 48 ^pasal-48
 Dalam hal Reksa Dana berbentuk Kontrak Investasi
 Kolektif dibubarkan karena kondisi sebagaimana
 dimaksud dalam Pasal 45 huruf d atau huruf d1, Manajer
 Investasi wajib:
 
-
 -----
 
-            - 13 
+            - 13
 a. menyampaikan laporan kondisi sebagaimana
 dimaksud dalam Pasal 45 huruf d atau huruf d1
 kepada Otoritas Jasa Keuangan dengan dilengkapi
@@ -786,7 +779,7 @@ terdaftar di Otoritas Jasa Keuangan.
 11. Ketentuan Pasal 49 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 49
+### Pasal 49 ^pasal-49
 Dalam hal Reksa Dana berbentuk Kontrak Investasi
 Kolektif dibubarkan karena kondisi sebagaimana
 dimaksud dalam Pasal 45 huruf e, Manajer Investasi wajib:
@@ -800,10 +793,9 @@ Manajer Investasi dan Bank Kustodian disertai
 alasan pembubaran; dan
 2. kondisi keuangan terakhir,
 
-
 -----
 
-            - 14 
+            - 14
 dan pada hari yang sama Manajer Investasi
 mengumumkan rencana pembubaran Reksa Dana
 kepada para pemegang Unit Penyertaan paling sedikit
@@ -860,10 +852,9 @@ Penyertaan Reksa Dana sebagaimana dimaksud dalam
 Pasal 46 huruf b, Pasal 47 ayat (1) huruf b angka 1, Pasal
 48 huruf b, Pasal 49 huruf b, dan Pasal 50A ayat (2) hanya
 
-
 -----
 
-            - 15 
+            - 15
 dapat dilakukan dalam kondisi sebagai berikut:
 a. Bursa Efek atau penyelenggara pasar dimana
 sebagian besar portofolio Efek Reksa Dana
@@ -920,10 +911,9 @@ c. mencatatkan setiap kelas yang ditetapkan dalam
 Reksa Dana ke dalam sistem pengelolaan
 investasi terpadu;
 
-
 -----
 
-            - 16 
+            - 16
 d. memberikan sosialisasi dan edukasi kepada
 nasabah terkait penerapan fitur multi kelas pada
 Reksa Dana yang dikelolanya; dan
@@ -981,10 +971,9 @@ Investasi Kolektif penyertaan terbatas pada Efek
 Bersifat Utang dan/atau sukuk korporasi kepada
 Otoritas Jasa Keuangan dengan ketentuan:
 
-
 -----
 
-         - 17 
+         - 17
 a. menyampaikan rencana tindak lanjut dan
 jangka waktu pemenuhan kewajiban penyertaan
 jaminan dari perusahaan sasaran; dan
@@ -1041,10 +1030,9 @@ a. beritikad baik dan profesional demi kepentingan
 investor melakukan pemantauan berkala atas kinerja
 Efek Bersifat Utang dan/atau sukuk korporasi dalam
 
-
 -----
 
-         - 18 
+         - 18
 restrukturisasi yang menjadi portofolio investasi
 Reksa Dana berbentuk Kontrak Investasi Kolektif
 penyertaan terbatas;
@@ -1101,10 +1089,9 @@ c. melakukan perubahan Kontrak Investasi
 Kolektif dan Prospektus Reksa Dana sesuai
 ketentuan Pasal 67.
 
-
 -----
 
-         - 19 
+         - 19
 Pasal 67F
 Manajer Investasi pengelola Reksa Dana Terproteksi
 yang mengalami restrukturisasi sebagaimana
@@ -1160,10 +1147,9 @@ Otoritas Jasa Keuangan memberikan tanggapan
 dalam jangka waktu paling lambat 45 (empat puluh
 lima) hari bursa.
 
-
 -----
 
-            - 20 
+            - 20
 (4) Tanggapan sebagaimana dimaksud pada ayat (3),
 dapat berupa:
 a. persetujuan;
@@ -1174,7 +1160,7 @@ memenuhi persyaratan.
 17. Ketentuan Pasal 76 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 76
+### Pasal 76 ^pasal-76
 (1) Setiap pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 2, Pasal 3, Pasal 4, Pasal 5
 ayat (2), ayat (3), ayat (4), Pasal 6 ayat (1), Pasal 7,
@@ -1218,10 +1204,9 @@ didahului pengenaan sanksi administratif berupa
 peringatan tertulis sebagaimana dimaksud pada ayat
 (4) huruf a.
 
-
 -----
 
-            - 21 
+            - 21
 (6) Sanksi administratif berupa denda sebagaimana
 dimaksud pada ayat (4) huruf b dapat dikenakan
 secara tersendiri atau secara bersama-sama dengan
@@ -1276,10 +1261,9 @@ berbentuk Kontrak Investasi Kolektif.
 5. Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal diundangkan.
 
-
 -----
 
-                      - 22 
+                      - 22
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Peraturan Otoritas Jasa Keuangan ini dengan
 penempatannya dalam Lembaran Negara Republik Indonesia.
@@ -1307,7 +1291,6 @@ YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 7/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Hukum 1
 Departemen Hukum
@@ -1316,12 +1299,13 @@ ttd
 
 Mufli Asmawidjaja
 
-
 -----
 
-- 1 
+- 1
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -1335,8 +1319,6 @@ PERUBAHAN KEDUA ATAS PERATURAN OTORITAS JASA KEUANGAN
 NOMOR 23/POJK.04/2016 TENTANG REKSA DANA BERBENTUK
 
 KONTRAK INVESTASI KOLEKTIF
-
-I. UMUM
 
 Reksa Dana merupakan salah satu alternatif investasi yang
 masih diminati bagi masyarakat pemodal. Selain karena harapan
@@ -1363,7 +1345,7 @@ _redemption, standar penerapan_ _“share class”, penghitungan Nilai_
 Aktiva Bersih Bagi Reksa Dana Berbasis Efek Luar Negeri, dan sistem
 pembayaran elektronik berupa virtual account.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
 Pasal I
 
@@ -1380,9 +1362,7 @@ negeri” adalah Reksa Dana berbasis Efek luar negeri
 dalam bentuk konvensional dan syariah.
 
 Angka 2
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1)
 
 Cukup jelas.
@@ -1473,9 +1453,7 @@ Ayat (4)
 Cukup jelas.
 
 Angka 4
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Ayat (1)
 
 Penyampaian surat atau bukti konfirmasi tertulis
@@ -1496,15 +1474,11 @@ Ayat (4)
 Cukup jelas.
 
 Angka 5
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Cukup jelas.
 
 Angka 6
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Ayat (1)
 
 Sistem pembayaran elektronik sebagaimana
@@ -1559,15 +1533,11 @@ Ayat (9)
 Cukup jelas.
 
 Angka 7
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Cukup jelas.
 
 Angka 8
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Huruf a
 
 Pengumuman pada surat kabar harian berbahasa
@@ -1586,9 +1556,7 @@ Cukup jelas.
 
                - 5 
 Angka 9
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Ayat (1)
 
 Huruf a
@@ -1608,15 +1576,11 @@ Ayat (2)
 Cukup jelas.
 
 Angka 10
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
 
 Angka 11
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Cukup jelas.
 
 Angka 12
@@ -1797,9 +1761,7 @@ Pasal 67G
 Cukup jelas.
 
 Angka 17
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76
 Cukup jelas.
 
 Pasal II
@@ -1811,3 +1773,17 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 32/OJK
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |

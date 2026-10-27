@@ -19,17 +19,22 @@ sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-33-Tahun-2025-Penilaian-Tingka
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penilaian Tingkat Kesehatan Perusahaan Perasuransian, Lembaga Penjamin, dan Dana Pensiun
+**Penilaian Tingkat Kesehatan Perusahaan Perasuransian, Lembaga Penjamin, dan Dana Pensiun**
 
 **Status:** `berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-33-Tahun-2025-Penilaian-Tingkat-Kesehatan-Perusahaan-Perasuransian-Lembaga-Penjamin-dan-Dana-Pensiun.aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/POJK-33-Tahun-2025-Penilaian-Tingkat-Kesehatan-Perusahaan-Perasuransian-Lembaga-Penjamin-dan-Dana-Pensiun.aspx)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -84,7 +89,6 @@ Republik Indonesia Nomor 6845);
 Penjaminan (Lembaran Negara Republik Indonesia
 Tahun 2016 Nomor 9, Tambahan Lembaran Negara
 
-
 -----
 
 Republik Indonesia Nomor 5835) sebagaimana telah
@@ -110,7 +114,7 @@ PENSIUN.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang
 dimaksud dengan:
 1. Perusahaan Perasuransian, Lembaga Penjamin, dan
@@ -144,7 +148,6 @@ penilaian Tingkat Kesehatan PPDP.
 6. Perusahaan Anak adalah perusahaan yang dimiliki
 dan/atau dikendalikan oleh PPDP secara langsung
 
-
 -----
 
 maupun tidak langsung, baik di dalam negeri maupun
@@ -158,7 +161,7 @@ berdasarkan fatwa dan/atau pernyataan kesesuaian
 syariah yang dikeluarkan oleh lembaga yang memiliki
 kewenangan dalam penetapan fatwa di bidang syariah.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Peraturan Otoritas Jasa Keuangan ini mengatur
 penilaian Tingkat Kesehatan bagi PPDP.
 (2) PPDP sebagaimana dimaksud pada ayat (1) meliputi:
@@ -197,7 +200,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) PPDP wajib memelihara dan/atau meningkatkan
 Tingkat Kesehatan PPDP dengan menerapkan prinsip
 kehati-hatian dan manajemen risiko dalam
@@ -205,7 +208,6 @@ melaksanakan kegiatan usaha.
 (2) Direksi dan Dewan Komisaris bertanggung jawab
 untuk memelihara dan memantau Tingkat Kesehatan
 PPDP serta mengambil langkah yang diperlukan untuk
-
 
 -----
 
@@ -227,7 +229,7 @@ penilaian tingkat kesehatan bagi unit syariah atau unit
 usaha syariah dengan menggunakan pendekatan risiko
 secara individual.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) PPDP wajib melakukan penilaian sendiri atas Tingkat
 Kesehatan PPDP sebagaimana dimaksud dalam Pasal 3
 ayat (3) sampai dengan ayat (5).
@@ -266,7 +268,6 @@ dimaksud pada ayat (7) huruf a jatuh pada hari libur,
 hasil penilaian sendiri Tingkat Kesehatan PPDP
 disampaikan pada hari kerja berikutnya.
 
-
 -----
 
 (9) Apabila batas akhir penyampaian hasil penilaian
@@ -276,7 +277,7 @@ atau libur bersama, Otoritas Jasa Keuangan
 berwenang menetapkan tanggal jatuh tempo
 penyampaian laporan.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Otoritas Jasa Keuangan melakukan penilaian Tingkat
 Kesehatan PPDP 1 (satu) kali dalam 1 (satu) tahun
 untuk posisi akhir bulan Desember.
@@ -289,7 +290,7 @@ ayat (2) dilakukan berdasarkan hasil pemeriksaan,
 laporan berkala yang disampaikan PPDP, dan/atau
 informasi lain.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 Dalam hal terdapat perbedaan hasil penilaian Tingkat
 Kesehatan PPDP yang dilakukan oleh Otoritas Jasa
 Keuangan sebagaimana dimaksud dalam Pasal 5 dengan
@@ -301,7 +302,7 @@ dilakukan oleh Otoritas Jasa Keuangan.
 Bagian Kedua
 Sanksi Administratif
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) PPDP yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 3 ayat (1), ayat (3), ayat (4), dan
 ayat (5), Pasal 4 ayat (1), ayat (3), ayat (4), dan ayat (7),
@@ -325,7 +326,6 @@ sejak berakhirnya batas waktu penyampaian,
 dinyatakan tidak menyampaikan hasil penilaian
 sendiri Tingkat Kesehatan PPDP.
 
-
 -----
 
 (4) PPDP yang dinyatakan tidak menyampaikan hasil
@@ -347,7 +347,7 @@ sendirinya.
 sebagaimana dimaksud pada ayat (1) huruf a, Otoritas
 Jasa Keuangan mencabut sanksi administratif.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 Terhadap pelanggaran ketentuan sanksi administratif
 sebagaimana dimaksud dalam Pasal 7, Otoritas Jasa
 Keuangan dapat melakukan penilaian kembali terhadap
@@ -359,7 +359,7 @@ BAB III
 MEKANISME PENILAIAN
 TINGKAT KESEHATAN PPDP SECARA INDIVIDUAL
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Penilaian Tingkat Kesehatan PPDP secara individual
 sebagaimana dimaksud dalam Pasal 3 ayat (3) bagi
 perusahaan perasuransian dan lembaga penjamin,
@@ -385,7 +385,6 @@ a. tata kelola perusahaan yang baik;
 b. profil risiko; dan
 c. rentabilitas.
 
-
 -----
 
 (4) Penilaian tingkat kesehatan unit syariah atau unit
@@ -397,7 +396,7 @@ PPDP secara individual sebagaimana dimaksud pada
 ayat (1) sampai dengan ayat (4) ditetapkan oleh Otoritas
 Jasa Keuangan.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Penilaian terhadap faktor tata kelola perusahaan yang
 baik sebagaimana dimaksud dalam Pasal 9 ayat (1)
 huruf a, ayat (2) huruf a, dan ayat (3) huruf a,
@@ -445,7 +444,6 @@ mengenai penerapan manajemen risiko bagi PPDP.
 (4) Penilaian terhadap faktor rentabilitas sebagaimana
 dimaksud dalam Pasal 9 ayat (1) huruf c, ayat (2) huruf
 
-
 -----
 
 c, dan ayat (3) huruf c, paling sedikit memuat penilaian
@@ -474,7 +472,7 @@ rentabilitas, faktor permodalan, dan faktor pendanaan
 sebagaimana dimaksud pada ayat (1) sampai dengan
 ayat (6) ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Setiap faktor penilaian Tingkat Kesehatan PPDP
 sebagaimana dimaksud dalam Pasal 9 ditetapkan
 peringkatnya berdasarkan kerangka analisis yang
@@ -503,7 +501,6 @@ c. penetapan peringkat faktor profil risiko
 berdasarkan analisis secara komprehensif dan
 terstruktur atas hasil penetapan sebagaimana
 dimaksud dalam huruf a dan huruf b dengan
-
 
 -----
 
@@ -538,7 +535,7 @@ rentabilitas, faktor permodalan, dan faktor pendanaan
 sebagaimana dimaksud pada ayat (3) sampai dengan
 ayat (7) ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Peringkat Komposit Tingkat Kesehatan PPDP
 ditetapkan berdasarkan analisis secara komprehensif
 dan terstruktur terhadap peringkat setiap faktor
@@ -563,7 +560,6 @@ ayat (2) huruf b, mencerminkan kondisi PPDP yang
 secara umum sehat sehingga dinilai mampu
 menghadapi pengaruh negatif yang signifikan dari
 perubahan kondisi bisnis dan faktor eksternal lainnya.
-
 
 -----
 
@@ -597,7 +593,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Penilaian Tingkat Kesehatan PPDP secara konsolidasi
 sebagaimana dimaksud dalam Pasal 3 ayat (4) bagi
 perusahaan perasuransian dan lembaga penjamin,
@@ -623,10 +619,9 @@ a. tata kelola perusahaan yang baik;
 b. profil risiko; dan
 c. rentabilitas.
 
-
 -----
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Penetapan peringkat faktor tata kelola perusahaan
 yang baik secara konsolidasi sebagaimana dimaksud
 dalam Pasal 13 ayat (1) huruf a, ayat (2) huruf a, dan
@@ -683,13 +678,12 @@ kelola perusahaan yang baik, faktor profil risiko, faktor
 rentabilitas, faktor permodalan, dan faktor pendanaan
 secara konsolidasi sebagaimana dimaksud pada ayat
 
-
 -----
 
 (1) sampai dengan ayat (5) ditetapkan oleh Otoritas
 Jasa Keuangan.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 PPDP yang melakukan penilaian Tingkat Kesehatan PPDP
 secara konsolidasi:
 a. mekanisme penetapan peringkat setiap faktor penilaian
@@ -704,7 +698,7 @@ sebagaimana dimaksud dalam Pasal 11 dan Pasal 12.
 Bagian Kedua
 Sanksi Administratif
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) PPDP yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 15 dikenai sanksi administratif
 berupa:
@@ -719,7 +713,7 @@ sendirinya.
 sebagaimana dimaksud pada ayat (1) huruf a, Otoritas
 Jasa Keuangan mencabut sanksi administratif.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 Terhadap pelanggaran ketentuan sanksi administratif
 sebagaimana dimaksud dalam Pasal 16, Otoritas Jasa
 Keuangan dapat melakukan penilaian kembali terhadap
@@ -730,7 +724,7 @@ lembaga jasa keuangan.
 BAB V
 TATA CARA PENYAMPAIAN
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) PPDP menyampaikan hasil penilaian sendiri Tingkat
 Kesehatan PPDP kepada Otoritas Jasa Keuangan
 sebagaimana dimaksud dalam Pasal 4 ayat (5) harus
@@ -741,7 +735,6 @@ mengalami gangguan teknis atau keadaan kahar
 sehingga PPDP tidak dapat menyampaikan hasil
 penilaian sendiri Tingkat Kesehatan PPDP
 sebagaimana dimaksud pada ayat (1), Otoritas Jasa
-
 
 -----
 
@@ -767,7 +760,7 @@ oleh Otoritas Jasa Keuangan.
 BAB VI
 KETENTUAN LAIN-LAIN
 
-Pasal 19
+### Pasal 19 ^pasal-19
 Penyampaian hasil penilaian sendiri Tingkat Kesehatan
 PPDP kepada Otoritas Jasa Keuangan sebagaimana
 dimaksud dalam Pasal 4 ayat (7) huruf a bagi lembaga
@@ -775,7 +768,7 @@ penjamin, pertama kali dilakukan untuk posisi Desember
 2026 yang disampaikan paling lambat pada tanggal 15
 Februari 2027.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 Otoritas Jasa Keuangan dapat memberikan persetujuan
 atau kebijakan yang berbeda dengan Peraturan Otoritas
 Jasa Keuangan ini berdasarkan pertimbangan tertentu.
@@ -783,7 +776,7 @@ Jasa Keuangan ini berdasarkan pertimbangan tertentu.
 BAB VII
 KETENTUAN PERALIHAN
 
-Pasal 21
+### Pasal 21 ^pasal-21
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. lembaga penjamin yang telah memperoleh izin usaha
@@ -802,7 +795,6 @@ dan Pasal 4 ayat (1), ayat (3), ayat (4), dan ayat (7), dalam
 jangka waktu paling lama 1 (satu) tahun terhitung sejak
 Peraturan Otoritas Jasa Keuangan ini diundangkan; dan
 
-
 -----
 
 c. sanksi administratif yang telah dikenakan kepada PPDP
@@ -813,7 +805,7 @@ ini, dinyatakan tetap berlaku.
 BAB VIII
 KETENTUAN PENUTUP
 
-Pasal 22
+### Pasal 22 ^pasal-22
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, ketentuan pelaksanaan dari Peraturan Otoritas
 Jasa Keuangan Nomor 28/POJK.05/2020 tentang Penilaian
@@ -824,7 +816,7 @@ Nomor 6504) dinyatakan masih tetap berlaku sepanjang
 tidak bertentangan dengan ketentuan dalam Peraturan
 Otoritas Jasa Keuangan ini.
 
-Pasal 23
+### Pasal 23 ^pasal-23
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, ketentuan mengenai Penilaian Tingkat Kesehatan
 bagi perusahaan perasuransian dan dana pensiun dalam
@@ -835,7 +827,7 @@ Republik Indonesia Tahun 2020 Nomor 120, Tambahan
 Lembaran Negara Republik Indonesia Nomor 6504), dicabut
 dan dinyatakan tidak berlaku.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, ketentuan Pasal 56 Peraturan Otoritas Jasa
 Keuangan Republik Indonesia Nomor 11 Tahun 2025
@@ -844,10 +836,9 @@ tentang Penyelenggaraan Usaha Lembaga Penjamin
 19/OJK, Tambahan Lembaran Negara Republik Indonesia
 Nomor 149/OJK), dicabut dan dinyatakan tidak berlaku.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal 1 Januari 2026.
-
 
 -----
 
@@ -878,13 +869,13 @@ SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR   Ж
 
-
 Д
-
 
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -895,8 +886,6 @@ TENTANG
 PENILAIAN TINGKAT KESEHATAN PERUSAHAAN PERASURANSIAN,
 
 LEMBAGA PENJAMIN, DAN DANA PENSIUN
-
-I. UMUM
 
 Tingkat Kesehatan PPDP merupakan cerminan dari kondisi dan
 kinerja PPDP sebagai sarana bagi Otoritas Jasa Keuangan dalam
@@ -937,21 +926,16 @@ Berdasarkan hal tersebut diatas perlu dilakukan penyempurnaan
 dengan menetapkan ketentuan mengenai penilaian Tingkat Kesehatan
 PPDP.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
 
 
 -----
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Tingkat Kesehatan PPDP dipelihara dan/atau ditingkatkan
@@ -1001,9 +985,7 @@ Penilaian tingkat kesehatan unit syariah atau unit usaha
 syariah secara individual merupakan bagian yang tidak
 terpisahkan dalam penilaian Tingkat Kesehatan PPDP yang
 menjadi induknya.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Cukup jelas.
@@ -1043,9 +1025,7 @@ Cukup jelas.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Cukup jelas.
@@ -1065,21 +1045,13 @@ berwenang; dan
 d. informasi yang diketahui secara umum seperti hasil
 penilaian dari lembaga pemeringkat dan informasi dari
 media massa.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Penilaian terhadap faktor Tingkat Kesehatan PPDP menggunakan
 parameter atau indikator yang antara lain diatur dalam ketentuan
 peraturan perundang-undangan mengenai aspek prudensial PPDP,
@@ -1089,9 +1061,7 @@ dan kesehatan keuangan.
 
 
 -----
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Prinsip tata kelola perusahaan yang baik mengacu pada
@@ -1135,9 +1105,7 @@ _gearing ratio, rasio likuiditas, ROA, dan ROE._
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Cukup jelas.
@@ -1164,9 +1132,7 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Cukup jelas.
@@ -1244,9 +1210,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Penilaian Tingkat Kesehatan PPDP dengan menggunakan
@@ -1262,9 +1226,7 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Cukup jelas.
@@ -1290,29 +1252,17 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Pemberian persetujuan atau kebijakan yang berbeda dimaksudkan
 antara lain untuk:
 a. mendukung kebijakan nasional;
@@ -1330,25 +1280,15 @@ berdampak pada ekonomi dan sosial, sehingga membutuhkan
 perhatian dan penanganan oleh semua pihak terkait serta diatur
 dalam ketentuan lain atas pertimbangan dalam menghadapi
 kemungkinan kejadian luar biasa.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR   ⸙
@@ -1359,3 +1299,32 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR   ⸙
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |

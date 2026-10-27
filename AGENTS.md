@@ -76,6 +76,44 @@ last_updated: 2026-10-28
    dibiarkan seolah lengkap.
 7. **Tanpa data perkara.** Nama tersangka/saksi, nomor LP, mutasi rekening, hasil OSINT tidak masuk vault.
 
+## Partisi teks & penjelasan (WAJIB)
+
+Penjelasan resmi (I. UMUM / II. PASAL DEMI PASAL) ada di **akhir** dokumen dan sering berubah antar
+amandemen. Karena itu setiap halaman wajib dipartisi dengan heading + anchor tetap:
+
+```
+## Batang Tubuh
+### Pasal 44 ^pasal-44
+## Penjelasan
+### I. Umum
+### II. Pasal demi Pasal
+#### Pasal 44 ^penjelasan-pasal-44
+## Peta Penjelasan     (tabel [[#^penjelasan-pasal-N]])
+```
+
+Aturan:
+
+1. **Jangan pernah menyalin teks penjelasan ke halaman lain.** Rujuk dengan wikilink/embed ke anchor:
+   - norma: `[[UU 4-2023 - P2SK#^pasal-44]]`
+   - penjelasan: `[[UU 4-2023 - P2SK#^penjelasan-pasal-44]]`
+   - kutipan inline di catatan analisis: `![[UU 4-2023 - P2SK#^penjelasan-pasal-44]]` (transclusion —
+     satu sumber kebenaran, ikut berubah bila halaman induk diperbaiki).
+2. **Anchor stabil.** `^pasal-N` dan `^penjelasan-pasal-N` tidak boleh diubah/dihapus; perubahan nomor
+   pasal cukup menambah anchor baru, jangan menimpa yang lama (link lama akan mati).
+3. **Penjelasan bukan norma.** `penjelasan_normatif: false` wajib ada di frontmatter; jangan mengutip
+   penjelasan sebagai dasar hukum tanpa menyebut pasal batang tubuhnya.
+4. **Versi penjelasan.** Bila peraturan diubah, penjelasan pada halaman induk adalah teks terkini
+   (`berlaku_mulai` + `diubah_oleh` menjadi penanda); teks penjelasan versi lama harus tetap dapat
+   dirujuk lewat halaman amandemennya, bukan ditumpuk di halaman induk.
+5. **Frontmatter partisi:** `penjelasan: ada|tidak`, `penjelasan_pasal_demi_pasal: true|false`,
+   `struktur_teks: terpartisi`, `anchor_pasal: true`.
+6. **Chunking RAG:** `90-log/manifest.jsonl` memuat `sections[]` (`path`, `anchor`, `chars`). Potong
+   chunk per heading terdalam, simpan `path` (mis. `Penjelasan > II. Pasal demi Pasal > Pasal 44`) dan
+   `anchor`; jangan memotong di tengah butir `Huruf a/b/c`. Retrieve batang tubuh dan penjelasan sebagai
+   dua chunk berbeda lalu gabungkan saat menjawab.
+7. **Konflik teks:** bila hasil ekstraksi memecah satu pasal jadi dua bagian (artefak halaman PDF),
+   gabungkan berdasar nomor pasal, bukan berdasar urutan baris.
+
 ## Alur kerja
 
 - **INGEST**: ekstrak teks → normalisasi frontmatter di atas → simpan PDF ke `30-sumber/` → perbarui

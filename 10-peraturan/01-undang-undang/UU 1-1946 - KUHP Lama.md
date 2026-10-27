@@ -25,25 +25,31 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# KUHP Lama
+**KUHP Lama**
 
 **Status:** `dicabut` · JDIH BPK: `Tidak Berlaku`
 
 > Sumber: `30-sumber/UU 1-1946 - KUHP Lama.pdf`
 
-## Teks
+**Teks**
 PRESIDEN REPUBLIK INDONESIA
 
-# UNDANG-UNDANG NOMOR 1 TAHUN 1946
+**UNDANG-UNDANG NOMOR 1 TAHUN 1946**
 
-# TENTANG
+**TENTANG**
 
-# PERATURAN HUKUM PIDANA
+**PERATURAN HUKUM PIDANA**
 
-# PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 Menimbang : bahwa sebelum dapat melakukan pembentukan Undang-undang hukum pidana baru, perlu peraturan hukum pidana disesuaikan dengan keadaan sekarang;
 
@@ -51,33 +57,33 @@ Mengingat : Akan pasal 5, ayat 1 Undang-Undang Dasar, pasal IV Aturan Peralihan 
 
 Dengan persetujuan Badan Pekerja Komite Nasional Pusat :
 
-# Memutuskan :
+**Memutuskan :**
 
 Menetapkan peraturan sebagai berikut :
 
 UNDANG-UNDANG TENTANG PERATURAN HUKUM PIDANA.
 
-# Pasal 1.
+**Pasal 1.**
 
 Dengan menyimpang seperlunya dari Peraturan Presiden Republik Indonesia tertanggal 10 Oktober 1945 No. 2, menetapkan, bahwa peraturan-peraturan hukum pidana yang sekarang berlaku, ialah peraturan-peraturan hukum pidana yang ada pada tanggal 8 Maret 1942.
 
-# Pasal 2.
+**Pasal 2.**
 
 Semua peraturan hukum pidana yang dikeluarkan oleh panglima tertinggi balatentara Hindia-Belanda dulu (Verordeningen van het Militair Gezag) dicabut.
 
-# Pasal 3.
+**Pasal 3.**
 
 Jikalau di dalam sesuatu peraturan hukum pidana ditulis dengan perkataan "Nederlandsch-Indie" atau "NederlandschIndisch(e) (en)", maka perkataan-perkataan itu harus dibaca "Indonesie" atau "Indonesishc(e) (en)".
 
-# Pasal 4.
+**Pasal 4.**
 
 Jikalau di dalam sesuatu peraturan hukum pidana suatu hak, kewajiban, kekuasaan atau perlindungan diberikan atau suatu larangan ditujukan kepada sesuatu pegawai, badan, jawatan dan sebagainya, yang sekarang tidak ada lagi, maka hak, kewajiban, kekuasaan atau perlindungan itu harus dianggap diberikan dan larangan tersebut ditujukan kepada pegawai, badan, jawatan dan sebagainya, yang harus dianggap menggantinya.
 
-# Pasal 5.
+**Pasal 5.**
 
 Peraturan hukum pidana, yang seluruhnya atau sebagian sekarang tidak dapat dijalankan, atau bertentangan dengan kedudukan Republik Indonesia sebagai negara merdeka, atau tidak mempunyai arti lagi, harus dianggap seluruh atau sebagian sementara tidak berlaku.
 
-# Pasal 6.
+**Pasal 6.**
 
 - (1) Nama Undang-undang hukum pidana "Wetboek van Strafrecht voor Nederlandsh-Indie" dirobah menjadi "Wetboek van Strafrecht".
 
@@ -141,7 +147,7 @@ Kitab Undang-undang hukum pidana dirobah sebagai berikut :
 
 22. Dalam pasal 131 perkataan "des konings of der Koningin" diganti dengan "van den President of van den Vice President"
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - 3 -
 
@@ -257,15 +263,15 @@ PRESIDEN REPUBLIK INDONESIA
 
 68. Dalam pasal 544 ayat (1) bagian kalimat "het hoofd van plaatselijk bestuur" (den regent) harus dibaca "het hoofd van den politie".
 
-# Pasal 9.
+**Pasal 9.**
 
 Barang siapa membikin benda semacam mata uang atau uang kertas dengan maksud untuk menjalankannya atau menyuruh menjalankannya sebagai alat pembayaran yang sah, dihukum dengan hukuman penjara setinggi-tingginya lima belas tahun.
 
-# Pasal 10.
+**Pasal 10.**
 
 Barang siapa dengan sengaja menjalankan sebagai alat pembayaran yang sah mata uang kertas, sedang ia sewaktu menerimanya mengetahui atau setidak-tidaknya patut dapat menduga bahwa benda-benda itu oleh pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, atau, dengan maksud untuk menjalankannya atau menyuruh menjalankannya sebagai alat pembayaran yang sah, menyediakannya atau memasukkannya ke dalam Indonesia, dihukum dengan hukuman penjara setinggitingginya lima belas tahun.
 
-# Pasal 11.
+**Pasal 11.**
 
 Barang siapa dengan sengaja menjalankan sebagai alat pembayaran yang sah mata uang atau uang kertas yang dari pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, dalam hal di luar keadaan sebagai yang tersebut dalam pasal yang baru lalu, dihukum dengan hukuman penjara setinggitingginya lima belas tahun.
 
@@ -273,29 +279,29 @@ PRESIDEN REPUBLIK INDONESIA
 
 - 5 -
 
-# Pasal 12.
+**Pasal 12.**
 
 Barang siapa menerima sebagai alat pembayaran atau penukaran atau sebagai hadiah atau penyimpan atau mengangkut mata uang atau uang kertas, sedangkan ia mengetahui, bahwa benda-benda itu oleh pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, dihukum dengan hukuman penjara setinggi-tingginya lima tahun.
 
-# Pasal 13.
+**Pasal 13.**
 
 Kalau orang dihukum karena melakukan salah satu kejahatan seperti tersebut dalam pasal-pasal 9, 10, 11 dan 12 maka mata uang atau uang kertas serta benda lain yang dipergunakan untuk melakukan salah satu kejahatan itu dirampas, juga kalau benda-benda itu bukan kepunyaan terhukum.
 
-# Pasal 14.
+**Pasal 14.**
 
 - (1) Barang siapa, dengan menyiarkan berita atau pemberitahuan bohong, dengan sengaja menerbitkan keonaran dikalangan rakyat, dihukum dengan hukuman penjara setinggitingginya sepuluh tahun.
 
 - (2) Barang siapa menyiarkan suatu berita atau mengeluarkan pemberitahuan, yang dapat menerbitkan keonaran dikalangan rakyat, sedangkan ia patut dapat menyangka bahwa berita atau pemberitahuan itu adalah bohong, dihukum dengan penjara setinggi-tingginya tiga tahun.
 
-# Pasal 15.
+**Pasal 15.**
 
 Barang siapa menyiarkan kabar yang tidak pasti atau kabar yang berkelebihan atau yang tidak lengkap, sedangkan ia mengerti setidak-tidaknya patut dapat menduga, bahwa kabar demikian akan atau mudah dapat menerbitkan keonaran dikalangan rakyat, dihukum dengan hukuman penjara setinggitingginya dua tahun.
 
-# Pasal 16.
+**Pasal 16.**
 
 Barang siapa terhadap bendera kebangsaan Indonesia dengan sengaja menjalankan suatu perbuatan yang dapat menimbulkan perasaan penghinaan kebangsaan, dihukum dengan hukuman penjara setinggi-tingginya satu tahun enam bulan.
 
-# Pasal 17.
+**Pasal 17.**
 
 Undang-undang ini mulai berlaku buat pulau Jawa dan Madura pada hari diumumkannya dan buat daerah lain pada hari yang akan ditetapkan oleh Presiden.
 
@@ -317,7 +323,9 @@ ttd
 
 A.G. PRINGGODIGDO
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 UNDANG-UNDANG NOMOR 1 TENTANG
 
@@ -339,7 +347,7 @@ Dirasa tak perlu memberi keterangan panjang lebar, bahwa menyempurnakan peratura
 
 Memang tidak dapat disangkal, bahwa peraturan-peraturan hukum pidana Jepang, yang berlaku ditanah kita, bersifat fascistisch, lagi pula tidak merupakan peraturan yang bulat, kerap kali tidak jelas dan mengandung banyak bukti, bahwa peraturan-peraturan itu disusun dengan tergesa-gesa pada masa yang tak tenang, sedang Gunsei Keizirei
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - 7 -
 
@@ -377,15 +385,15 @@ Istilah "hukum pidana" dalam arti "strafrecht" ialah istilah yang ditetapkan ole
 
 PENJELASAN SEPASAL DEMI SEPASAL.
 
-# Pasal I sampai VI.
+**Pasal I sampai VI.**
 
 Penjelasan telah diberikan dibagian penjelasan umum. Petunjuk-petunjuk dalam pasal I sampai V diatas dirasa perlu terhadap peraturan-peraturan hukum pidana yang belum dapat dirobah atau diganti sesuai dengan keadaan sekarang.
 
-# Pasal VII.
+**Pasal VII.**
 
 Tidak perlu diterangkan lagi.
 
-# Pasal VIII.
+**Pasal VIII.**
 
 No. 1 Pasal 105, 130, 132 dan 133 dihapuskan, (lihatlah No. 13, 19 dan 21).
 
@@ -433,25 +441,25 @@ No. 64 Pegawai yang dimaksud dalam pasal ini harus ditunjuk antara lain dalam pa
 
 No. 65 Kepala Polisi ditunjuk dalam pasal ini berhubung dengan kedudukannya sekarang.
 
-# Pasal IX sampai XIII
+**Pasal IX sampai XIII**
 
 Pasal-pasal ini dibutuhkan buat menindas usaha untuk mengacaukan peradaran uang di negeri kita dengan menyebarkan mata uang atau uang kertas yang oleh pihak Pemerintah kita tidak diakui sebagai alat pembayaran yang sah.
 
 Mata uang atau uang kertas yang tidak disebut dalam Maklumat Presiden Republik Indonesia tertanggal 3 Oktober 1945 No. 1/10 sebagai alat pembayaran yang sah, adalah buat daerah Jawa dan Madura alat pembayaran yang tidak sah.
 
-# Pasal IX.
+**Pasal IX.**
 
 Mengancam hukuman terhadap barang siapa membikin benda semacam mata uang atau uang kertas dengan maksud seperti diterangkan dalam pasal itu.
 
-# Pasal X dan pasal XI.
+**Pasal X dan pasal XI.**
 
 Disusun hampir sama dengan susunan pasal 245 dan pasal 249 Kitab undang-undang hukum pidana. Bedanya disebabkan oleh hal yang pasal X dan XI mengenai mata uang atau uang kertas yang tidak sah, sedangkan pasal 245 dan 249 Kitab undang-undang hukum pidana mengenai mata uang atau uang kertas palsu atau yang dipalsukan. Penjelasan dalam kitab-kitab tafsir tentang pasal 245 dan 249 Kitab undang-undang hukum pidana dapat dipergunakan untuk menafsirkan pasal X dan XI dari rancangan ini, dengan mengingat akan bedanya.
 
-# Pasal XIII.
+**Pasal XIII.**
 
 Merupakan pasangannya pasal 250 bis Kitab Undang-undang Hukum Pidana.
 
-# Pasal XIV dan pasal XV.
+**Pasal XIV dan pasal XV.**
 
 Menggantikan pasal 171 Kitab Undang-undang Hukum Pidana, yang pada masa pancaroba ini perlu diperluas.
 

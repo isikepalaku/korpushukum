@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perbankan Syariah
+**Perbankan Syariah**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -86,10 +92,9 @@ Indonesia Nomor 3790);
 
 3. Undang-Undang ...
 
-
 -----
 
-                        - 2 
+                        - 2
 3. Undang-Undang Nomor 23 Tahun 1999 tentang Bank
 Indonesia (Lembaran Negara Republik Indonesia Tahun 1999
 Nomor 66, Tambahan Lembaran Negara Republik Indonesia
@@ -123,7 +128,7 @@ BAB I
 
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -139,10 +144,9 @@ lainnya dalam rangka meningkatkan taraf hidup rakyat.
 
 3. Bank ...
 
-
 -----
 
-              - 3 
+              - 3
 3. Bank Indonesia adalah Bank Sentral Republik Indonesia
 sebagaimana dimaksud dalam Undang-Undang Dasar
 Negara Republik Indonesia Tahun 1945.
@@ -196,10 +200,9 @@ fatwa di bidang syariah.
 
 13. Akad ...
 
-
 -----
 
-              - 4 
+              - 4
 13. Akad adalah kesepakatan tertulis antara Bank Syariah
 atau UUS dan pihak lain yang memuat adanya hak dan
 kewajiban bagi masing-masing pihak sesuai dengan
@@ -253,10 +256,9 @@ bentuk lainnya yang dipersamakan dengan itu.
 
 21. Tabungan ...
 
-
 -----
 
-              - 5 
+              - 5
 21. Tabungan adalah Simpanan berdasarkan Akad _wadi’ah_
 atau Investasi dana berdasarkan Akad _mudharabah atau_
 Akad lain yang tidak bertentangan dengan Prinsip Syariah
@@ -317,10 +319,9 @@ hasil.
 
 26. Agunan . . .
 
-
 -----
 
-                - 6 
+                - 6
 26. Agunan adalah jaminan tambahan, baik berupa benda
 bergerak maupun benda tidak bergerak yang diserahkan
 oleh pemilik Agunan kepada Bank Syariah dan/atau UUS,
@@ -366,24 +367,23 @@ BAB II
 
 ASAS, TUJUAN, DAN FUNGSI
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 Perbankan Syariah dalam melakukan kegiatan usahanya
 berasaskan Prinsip Syariah, demokrasi ekonomi, dan prinsip
 kehati-hatian.
 Pasal 3 . . .
 
-
 -----
 
-                  - 7 
-Pasal 3
+                  - 7
+### Pasal 3 ^pasal-3
 
 Perbankan Syariah bertujuan menunjang pelaksanaan
 pembangunan nasional dalam rangka meningkatkan keadilan,
 kebersamaan, dan pemerataan kesejahteraan rakyat.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 (1) Bank Syariah dan UUS wajib menjalankan fungsi
 menghimpun dan menyalurkan dana masyarakat.
@@ -416,7 +416,7 @@ Bagian Kesatu
 
 Perizinan
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 (1) Setiap pihak yang akan melakukan kegiatan usaha Bank
 
@@ -438,10 +438,9 @@ e. kelayakan usaha.
 
 (3) Persyaratan .. .
 
-
 -----
 
-                - 8 
+                - 8
 (3) Persyaratan untuk memperoleh izin usaha UUS diatur lebih
 
 lanjut dengan Peraturan Bank Indonesia.
@@ -474,7 +473,7 @@ menjadi Bank Perkreditan Rakyat.
 usaha berdasarkan Prinsip Syariah wajib membuka UUS di
 kantor pusat Bank dengan izin Bank Indonesia.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 (1) Pembukaan Kantor Cabang Bank Syariah dan UUS hanya
 
@@ -498,21 +497,20 @@ Bagian Kedua
 
 Bentuk Badan Hukum
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 Bentuk badan hukum Bank Syariah adalah perseroan terbatas.
 
 Bagian ...
 
-
 -----
 
-                - 9 
+                - 9
 Bagian Ketiga
 
 Anggaran Dasar
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
 Di dalam anggaran dasar Bank Syariah selain memenuhi
 persyaratan anggaran dasar sebagaimana diatur dalam ketentuan
@@ -531,7 +529,7 @@ Bagian Keempat
 
 Pendirian dan Kepemilikan Bank Syariah
 
-Pasal 9
+### Pasal 9 ^pasal-9
 
 (1) Bank Umum Syariah hanya dapat didirikan dan/atau
 
@@ -566,35 +564,34 @@ Peraturan Bank Indonesia.
 
 Pasal 10 ...
 
-
 -----
 
-              - 10 
-Pasal 10
+              - 10
+### Pasal 10 ^pasal-10
 
 Ketentuan lebih lanjut mengenai perizinan, bentuk badan
 hukum, anggaran dasar, serta pendirian dan kepemilikan Bank
 Syariah sebagaimana dimaksud dalam Pasal 5 sampai dengan
 Pasal 9 diatur dengan Peraturan Bank Indonesia.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 
 Besarnya modal disetor minimum untuk mendirikan Bank
 Syariah ditetapkan dalam Peraturan Bank Indonesia.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 Saham Bank Syariah hanya dapat diterbitkan dalam bentuk
 saham atas nama.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 Bank Umum Syariah dapat melakukan penawaran umum efek
 melalui pasar modal sepanjang tidak bertentangan dengan Prinsip
 Syariah dan ketentuan peraturan perundang-undangan di bidang
 pasar modal.
 
-Pasal 14
+### Pasal 14 ^pasal-14
 
 (1) Warga negara Indonesia, warga negara asing, badan hukum
 
@@ -606,12 +603,12 @@ melalui bursa efek.
 dilaksanakan sesuai dengan ketentuan peraturan
 perundang-undangan.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 Perubahan kepemilikan Bank Syariah wajib memenuhi ketentuan
 sebagaimana dimaksud dalam Pasal 9 sampai dengan Pasal 14.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 (1) UUS dapat menjadi Bank Umum Syariah tersendiri setelah
 
@@ -623,11 +620,10 @@ Peraturan Bank Indonesia.
 
 Pasal 17 . . .
 
-
 -----
 
-                    - 11 
-Pasal 17
+                    - 11
+### Pasal 17 ^pasal-17
 
 (1) Penggabungan, Peleburan, dan Pengambilalihan Bank
 Syariah wajib terlebih dahulu mendapat izin dari Bank
@@ -652,12 +648,12 @@ Bagian Kesatu
 
 Jenis dan Kegiatan Usaha
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 Bank Syariah terdiri atas Bank Umum Syariah dan Bank
 Pembiayaan Rakyat Syariah.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 
 (1) Kegiatan usaha Bank Umum Syariah meliputi:
 
@@ -683,10 +679,9 @@ yang tidak bertentangan dengan Prinsip Syariah;
 
 e. menyalurkan .. .
 
-
 -----
 
-            - 12 
+            - 12
 e. menyalurkan Pembiayaan berdasarkan Akad qardh atau
 Akad lain yang tidak bertentangan dengan Prinsip
 Syariah;
@@ -743,10 +738,9 @@ ketentuan peraturan perundang-undangan.
 
 (2) Kegiatan ...
 
-
 -----
 
-              - 13 
+              - 13
 (2) Kegiatan usaha UUS meliputi:
 
 a. menghimpun dana dalam bentuk Simpanan berupa
@@ -802,10 +796,9 @@ antarpihak ketiga berdasarkan Prinsip Syariah;
 
 l. menyediakan .. .
 
-
 -----
 
-              - 14 
+              - 14
 l. menyediakan tempat untuk menyimpan barang dan
 surat berharga berdasarkan Prinsip Syariah;
 
@@ -822,7 +815,7 @@ perbankan dan di bidang sosial sepanjang tidak
 bertentangan dengan Prinsip Syariah dan sesuai dengan
 ketentuan peraturan perundang-undangan.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 
 (1) Selain melakukan kegiatan usaha sebagaimana dimaksud
 
@@ -862,10 +855,9 @@ Syariah, baik secara langsung maupun tidak langsung
 melalui pasar modal; dan
 i. menyediakan . . .
 
-
 -----
 
-              - 15 
+              - 15
 i. menyediakan produk atau melakukan kegiatan usaha
 Bank Umum Syariah lainnya yang berdasarkan Prinsip
 Syariah.
@@ -904,7 +896,7 @@ Syariah.
 wajib memenuhi ketentuan yang ditetapkan oleh Bank
 Indonesia dan ketentuan peraturan perundang-undangan.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 
 Kegiatan usaha Bank Pembiayaan Rakyat Syariah meliputi:
 
@@ -926,10 +918,9 @@ atau musyarakah;
 
 2. Pembiayaan .. .
 
-
 -----
 
-              - 16 
+              - 16
 2. Pembiayaan berdasarkan Akad _murabahah,_ _salam, atau_
 _istishna’;_
 
@@ -955,7 +946,7 @@ e. menyediakan produk atau melakukan kegiatan usaha Bank
 Syariah lainnya yang sesuai dengan Prinsip Syariah
 berdasarkan persetujuan Bank Indonesia.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 Setiap pihak dilarang melakukan kegiatan penghimpunan dana
 dalam bentuk Simpanan atau Investasi berdasarkan Prinsip
@@ -966,7 +957,7 @@ Bagian Kedua
 
 Kelayakan Penyaluran Dana
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 (1) Bank Syariah dan/atau UUS harus mempunyai keyakinan
 
@@ -984,15 +975,14 @@ Penerima Fasilitas.
 
 Bagian ...
 
-
 -----
 
-              - 17 
+              - 17
 Bagian Ketiga
 
 Larangan Bagi Bank Syariah dan UUS
 
-Pasal 24
+### Pasal 24 ^pasal-24
 
 (1) Bank Umum Syariah dilarang:
 
@@ -1023,7 +1013,7 @@ dimaksud dalam Pasal 20 ayat (2) huruf c; dan
 d. melakukan kegiatan usaha perasuransian, kecuali
 sebagai agen pemasaran produk asuransi syariah.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 
 Bank Pembiayaan Rakyat Syariah dilarang:
 
@@ -1048,11 +1038,10 @@ dimaksud dalam Pasal 21.
 
 Pasal 26 . . .
 
-
 -----
 
-                - 18 
-Pasal 26
+                - 18
+### Pasal 26 ^pasal-26
 
 (1) Kegiatan usaha sebagaimana dimaksud dalam Pasal 19,
 
@@ -1090,7 +1079,7 @@ Bagian Kesatu
 
 Pemegang Saham Pengendali
 
-Pasal 27
+### Pasal 27 ^pasal-27
 
 (1) Calon pemegang saham pengendali Bank Syariah wajib lulus
 
@@ -1115,10 +1104,9 @@ tidaknya Rapat Umum Pemegang Saham;
 
 c. dividen . . .
 
-
 -----
 
-              - 19 
+              - 19
 c. deviden yang dapat dibayarkan kepada pemegang
 saham pengendali paling banyak 10% (sepuluh persen)
 dan sisanya dibayarkan setelah pemegang saham
@@ -1137,14 +1125,14 @@ Bagian Kedua
 
 Dewan Komisaris dan Direksi
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
 Ketentuan mengenai syarat, jumlah, tugas, kewenangan,
 tanggung jawab, serta hal lain yang menyangkut dewan komisaris
 dan direksi Bank Syariah diatur dalam anggaran dasar Bank
 Syariah sesuai dengan ketentuan peraturan perundangundangan.
 
-Pasal 29
+### Pasal 29 ^pasal-29
 
 (1) Dalam jajaran direksi Bank Syariah sebagaimana dimaksud
 
@@ -1160,7 +1148,7 @@ Bank Indonesia dan peraturan perundang-undangan lainnya
 sebagaimana dimaksud pada ayat (1) diatur dengan
 Peraturan Bank Indonesia.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 
 (1) Calon dewan komisaris dan calon direksi wajib lulus uji
 
@@ -1174,10 +1162,9 @@ kompetensi dilakukan oleh Bank Indonesia.
 
 (3) Komisaris . . .
 
-
 -----
 
-              - 20 
+              - 20
 (3) Komisaris dan direksi yang tidak lulus uji kemampuan dan
 
 kepatutan wajib melepaskan jabatannya.
@@ -1187,7 +1174,7 @@ kepatutan wajib melepaskan jabatannya.
 kepatutan sebagaimana dimaksud pada ayat (1) dan ayat (2)
 diatur dengan Peraturan Bank Indonesia.
 
-Pasal 31
+### Pasal 31 ^pasal-31
 
 (1) Dalam menjalankan kegiatan Bank Syariah, direksi dapat
 
@@ -1202,7 +1189,7 @@ Bagian Ketiga
 
 Dewan Pengawas Syariah
 
-Pasal 32
+### Pasal 32 ^pasal-32
 
 (1) Dewan Pengawas Syariah wajib dibentuk di Bank Syariah
 
@@ -1228,7 +1215,7 @@ Bagian Keempat
 
 Penggunaan Tenaga Kerja Asing
 
-Pasal 33
+### Pasal 33 ^pasal-33
 
 (1) Dalam menjalankan kegiatannya, Bank Syariah dapat
 
@@ -1241,10 +1228,9 @@ peraturan perundang-undangan.
 
 BAB VI . . .
 
-
 -----
 
-              - 21 
+              - 21
 BAB VI
 
 TATA KELOLA, PRINSIP KEHATI-HATIAN,
@@ -1254,7 +1240,7 @@ Bagian Kesatu
 
 Tata Kelola Perbankan Syariah
 
-Pasal 34
+### Pasal 34 ^pasal-34
 
 (1) Bank Syariah dan UUS wajib menerapkan tata kelola yang
 
@@ -1276,7 +1262,7 @@ Bagian Kedua
 
 Prinsip Kehati-hatian
 
-Pasal 35
+### Pasal 35 ^pasal-35
 
 (1) Bank Syariah dan UUS dalam melakukan kegiatan usahanya
 
@@ -1307,18 +1293,17 @@ oleh Bank Indonesia.
 
 Pasal 36 . . .
 
-
 -----
 
-              - 22 
-Pasal 36
+              - 22
+### Pasal 36 ^pasal-36
 
 Dalam menyalurkan Pembiayaan dan melakukan kegiatan usaha
 lainnya, Bank Syariah dan UUS wajib menempuh cara-cara yang
 tidak merugikan Bank Syariah dan/atau UUS dan kepentingan
 Nasabah yang mempercayakan dananya.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 
 (1) Bank Indonesia menetapkan ketentuan mengenai batas
 
@@ -1368,10 +1353,9 @@ Indonesia.
 
 (5) Pelaksanaan ...
 
-
 -----
 
-              - 23 
+              - 23
 (5) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1)
 
 dan ayat (3) wajib dilaporkan sesuai dengan ketentuan yang
@@ -1381,7 +1365,7 @@ Bagian Ketiga
 
 Kewajiban Pengelolaan Risiko
 
-Pasal 38
+### Pasal 38 ^pasal-38
 
 (1) Bank Syariah dan UUS wajib menerapkan manajemen risiko,
 
@@ -1391,14 +1375,14 @@ prinsip mengenal nasabah, dan perlindungan nasabah.
 
 dengan Peraturan Bank Indonesia.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 
 Bank Syariah dan UUS wajib menjelaskan kepada Nasabah
 mengenai kemungkinan timbulnya risiko kerugian sehubungan
 dengan transaksi Nasabah yang dilakukan melalui Bank Syariah
 dan/atau UUS.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 
 (1) Dalam hal Nasabah Penerima Fasilitas tidak memenuhi
 
@@ -1430,10 +1414,9 @@ diatur dengan Peraturan Bank Indonesia.
 
 BAB VII . . .
 
-
 -----
 
-              - 24 
+              - 24
 BAB VII
 
 RAHASIA BANK
@@ -1442,7 +1425,7 @@ Bagian Kesatu
 
 Cakupan Rahasia Bank
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
 Bank dan Pihak Terafiliasi wajib merahasiakan keterangan
 mengenai Nasabah Penyimpan dan Simpanannya serta Nasabah
@@ -1452,7 +1435,7 @@ Bagian Kedua
 
 Pengecualian Rahasia Bank
 
-Pasal 42
+### Pasal 42 ^pasal-42
 
 (1) Untuk kepentingan penyidikan pidana perpajakan, pimpinan
 
@@ -1468,7 +1451,7 @@ pajak.
 menyebutkan nama pejabat pajak, nama nasabah wajib
 pajak, dan kasus yang dikehendaki keterangannya.
 
-Pasal 43
+### Pasal 43 ^pasal-43
 
 (1) Untuk kepentingan peradilan dalam perkara pidana,
 pimpinan Bank Indonesia dapat memberikan izin kepada
@@ -1486,10 +1469,9 @@ melakukan penyidikan.
 
 (3) Permintaan . . .
 
-
 -----
 
-              - 25 
+              - 25
 (3) Permintaan sebagaimana dimaksud pada ayat (2) harus
 
 menyebutkan nama dan jabatan penyidik, jaksa, atau hakim,
@@ -1497,12 +1479,12 @@ nama tersangka atau terdakwa, alasan diperlukannya
 keterangan, dan hubungan perkara pidana yang
 bersangkutan dengan keterangan yang diperlukan.
 
-Pasal 44
+### Pasal 44 ^pasal-44
 
 Bank wajib memberikan keterangan sebagaimana dimaksud
 dalam Pasal 42 dan Pasal 43.
 
-Pasal 45
+### Pasal 45 ^pasal-45
 
 Dalam perkara perdata antara Bank dan Nasabahnya, direksi
 Bank yang bersangkutan dapat menginformasikan kepada
@@ -1510,7 +1492,7 @@ pengadilan tentang keadaan keuangan Nasabah yang
 bersangkutan dan memberikan keterangan lain yang relevan
 dengan perkara tersebut.
 
-Pasal 46
+### Pasal 46 ^pasal-46
 
 (1) Dalam rangka tukar-menukar informasi antarbank, direksi
 
@@ -1522,7 +1504,7 @@ Nasabahnya kepada Bank lain.
 dimaksud pada ayat (1) diatur dalam Peraturan Bank
 Indonesia.
 
-Pasal 47
+### Pasal 47 ^pasal-47
 
 Atas permintaan, persetujuan, atau kuasa dari Nasabah
 Penyimpan atau Nasabah Investor yang dibuat secara tertulis,
@@ -1531,7 +1513,7 @@ Nasabah Penyimpan atau Nasabah Investor pada Bank yang
 bersangkutan kepada pihak yang ditunjuk oleh Nasabah
 Penyimpan atau Nasabah Investor tersebut.
 
-Pasal 48
+### Pasal 48 ^pasal-48
 
 Dalam hal Nasabah Penyimpan atau Nasabah Investor telah
 meninggal dunia, ahli waris yang sah dari Nasabah Penyimpan
@@ -1541,11 +1523,10 @@ Nasabah Investor tersebut.
 
 Pasal 49 ...
 
-
 -----
 
-              - 26 
-Pasal 49
+              - 26
+### Pasal 49 ^pasal-49
 
 Pihak yang merasa dirugikan oleh keterangan yang diberikan oleh
 Bank sebagaimana dimaksud dalam Pasal 42, Pasal 43, Pasal 45,
@@ -1557,12 +1538,12 @@ BAB VIII
 
 PEMBINAAN DAN PENGAWASAN
 
-Pasal 50
+### Pasal 50 ^pasal-50
 
 Pembinaan dan pengawasan Bank Syariah dan UUS dilakukan
 oleh Bank Indonesia.
 
-Pasal 51
+### Pasal 51 ^pasal-51
 
 (1) Bank Syariah dan UUS wajib memelihara tingkat kesehatan
 
@@ -1578,7 +1559,7 @@ berhubungan dengan usaha Bank Syariah dan UUS.
 dipenuhi oleh Bank Syariah dan UUS sebagaimana dimaksud
 pada ayat (1) diatur dengan Peraturan Bank Indonesia.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 
 (1) Bank Syariah dan UUS wajib menyampaikan segala
 keterangan dan penjelasan mengenai usahanya kepada Bank
@@ -1601,10 +1582,9 @@ berwenang:
 
 a. memeriksa . . .
 
-
 -----
 
-              - 27 
+              - 27
 a. memeriksa dan mengambil data/dokumen dari setiap
 tempat yang terkait dengan Bank;
 
@@ -1622,7 +1602,7 @@ dan UUS yang diperoleh berdasarkan ketentuan
 sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3)
 tidak diumumkan dan bersifat rahasia.
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
 (1) Bank Indonesia dapat menugasi kantor akuntan publik atau
 
@@ -1634,7 +1614,7 @@ Pasal 52 ayat (2).
 dimaksud pada ayat (1) diatur dengan Peraturan Bank
 Indonesia.
 
-Pasal 54
+### Pasal 54 ^pasal-54
 
 (1) Dalam hal Bank Syariah mengalami kesulitan yang
 membahayakan kelangsungan usahanya, Bank Indonesia
@@ -1661,10 +1641,9 @@ bersedia mengambil alih seluruh kewajibannya;
 
 g. meminta . . .
 
-
 -----
 
-              - 28 
+              - 28
 g. meminta Bank Syariah menyerahkan pengelolaan
 seluruh atau sebagian kegiatan Bank Syariah kepada
 pihak lain; dan/atau
@@ -1703,7 +1682,7 @@ BAB IX
 
 PENYELESAIAN SENGKETA
 
-Pasal 55
+### Pasal 55 ^pasal-55
 
 (1) Penyelesaian sengketa Perbankan Syariah dilakukan oleh
 
@@ -1720,15 +1699,14 @@ tidak boleh bertentangan dengan Prinsip Syariah.
 
 BAB X ...
 
-
 -----
 
-              - 29 
+              - 29
 BAB X
 
 SANKSI ADMINISTRATIF
 
-Pasal 56
+### Pasal 56 ^pasal-56
 
 Bank Indonesia menetapkan sanksi administratif kepada Bank
 Syariah atau UUS, anggota dewan komisaris, anggota Dewan
@@ -1739,7 +1717,7 @@ menjalankan usaha atau tugasnya atau tidak memenuhi
 kewajibannya sebagaimana ditentukan dalam Undang-Undang
 ini.
 
-Pasal 57
+### Pasal 57 ^pasal-57
 
 (1) Bank Indonesia mengenakan sanksi administratif kepada
 
@@ -1753,7 +1731,7 @@ yang melanggar Pasal 41 dan Pasal 44.
 ayat (1) tidak mengurangi ketentuan pidana sebagai akibat
 dari pelanggaran kerahasiaan bank.
 
-Pasal 58
+### Pasal 58 ^pasal-58
 
 (1) Sanksi administratif sebagaimana dimaksud dalam Undang
 Undang ini adalah:
@@ -1778,10 +1756,9 @@ yang tetap dengan persetujuan Bank Indonesia;
 
 g. pencantuman ...
 
-
 -----
 
-              - 30 
+              - 30
 g. pencantuman anggota pengurus, pegawai, dan
 pemegang saham Bank Syariah dan Bank Umum
 Konvensional yang memiliki UUS dalam daftar orang
@@ -1797,7 +1774,7 @@ BAB XI
 
 KETENTUAN PIDANA
 
-Pasal 59
+### Pasal 59 ^pasal-59
 
 (1) Setiap orang yang melakukan kegiatan usaha Bank Syariah,
 
@@ -1817,7 +1794,7 @@ hukum dimaksud dilakukan terhadap mereka yang memberi
 perintah untuk melakukan perbuatan itu dan/atau yang
 bertindak sebagai pemimpin dalam perbuatan itu.
 
-Pasal 60
+### Pasal 60 ^pasal-60
 
 (1) Setiap orang yang dengan sengaja tanpa membawa perintah
 
@@ -1832,10 +1809,9 @@ rupiah).
 
 (2) Anggota ...
 
-
 -----
 
-              - 31 
+              - 31
 (2) Anggota direksi, komisaris, pegawai Bank Syariah atau Bank
 
 Umum Konvensional yang memiliki UUS, atau Pihak
@@ -1847,7 +1823,7 @@ pidana denda paling sedikit Rp4.000.000.000,00 (empat
 miliar rupiah) dan paling banyak Rp8.000.000.000,00
 (delapan miliar rupiah).
 
-Pasal 61
+### Pasal 61 ^pasal-61
 
 Anggota dewan komisaris, direksi, atau pegawai Bank Syariah
 atau Bank Umum Konvensional yang memiliki UUS yang dengan
@@ -1858,7 +1834,7 @@ paling lama 7 (tujuh) tahun dan pidana denda paling sedikit
 Rp4.000.000.000,00 (empat miliar rupiah) dan paling banyak
 Rp15.000.000.000,00 (lima belas miliar rupiah).
 
-Pasal 62
+### Pasal 62 ^pasal-62
 
 (1) Anggota dewan komisaris, direksi, atau pegawai Bank
 
@@ -1891,16 +1867,15 @@ dalam Pasal 52
 
 dipidana . . .
 
-
 -----
 
-              - 32 
+              - 32
 dipidana dengan pidana kurungan paling singkat 1 (satu)
 tahun dan paling lama 2 (dua) tahun dan pidana denda
 paling sedikit Rp1.000.000.000,00 (satu miliar rupiah) dan
 paling banyak Rp2.000.000.000,00 (dua miliar rupiah).
 
-Pasal 63
+### Pasal 63 ^pasal-63
 
 (1) Anggota dewan komisaris, direksi, atau pegawai Bank
 
@@ -1946,10 +1921,9 @@ keluarganya, dalam rangka:
 
 1. mendapatkan ...
 
-
 -----
 
-              - 33 
+              - 33
 1. mendapatkan atau berusaha mendapatkan bagi
 orang lain dalam memperoleh uang muka, bank
 garansi, atau fasilitas penyaluran dana dari Bank
@@ -1973,7 +1947,7 @@ dan paling lama 8 (delapan) tahun dan pidana denda paling
 sedikit Rp5.000.000.000,00 (lima miliar rupiah) dan paling
 banyak Rp100.000.000.000,00 (seratus miliar rupiah).
 
-Pasal 64
+### Pasal 64 ^pasal-64
 
 Pihak Terafiliasi yang dengan sengaja tidak melaksanakan
 langkah-langkah yang diperlukan untuk memastikan ketaatan
@@ -1984,7 +1958,7 @@ pidana penjara paling singkat 3 (tiga) tahun dan paling lama 8
 Rp5.000.000.000,00 (lima miliar rupiah) dan paling banyak
 Rp100.000.000.000,00 (seratus miliar rupiah).
 
-Pasal 65
+### Pasal 65 ^pasal-65
 
 Pemegang saham yang dengan sengaja menyuruh anggota dewan
 komisaris, direksi, atau pegawai Bank Syariah atau Bank Umum
@@ -2000,11 +1974,10 @@ Rp200.000.000.000,00 (dua ratus miliar rupiah).
 
 Pasal 66 . . .
 
-
 -----
 
-              - 34 
-Pasal 66
+              - 34
+### Pasal 66 ^pasal-66
 
 (1) Anggota direksi atau pegawai Bank Syariah atau Bank
 
@@ -2051,14 +2024,13 @@ rupiah).
 
 BAB XII ...
 
-
 -----
 
-              - 35 
+              - 35
 BAB XII
 KETENTUAN PERALIHAN
 
-Pasal 67
+### Pasal 67 ^pasal-67
 (1) Bank Syariah atau UUS yang telah memiliki izin usaha pada
 
 saat Undang-Undang ini mulai berlaku dinyatakan telah
@@ -2068,7 +2040,7 @@ memperoleh izin usaha berdasarkan Undang-Undang ini.
 wajib menyesuaikan dengan ketentuan dalam UndangUndang ini paling lama 1 (satu) tahun sejak mulai
 berlakunya Undang-Undang ini.
 
-Pasal 68
+### Pasal 68 ^pasal-68
 (1) Dalam hal Bank Umum Konvensional memiliki UUS yang
 
 nilai asetnya telah mencapai paling sedikit 50% (lima puluh
@@ -2085,7 +2057,7 @@ Peraturan Bank Indonesia.
 BAB XIII
 KETENTUAN PENUTUP
 
-Pasal 69
+### Pasal 69 ^pasal-69
 Pada saat Undang-Undang ini mulai berlaku, segala ketentuan
 mengenai Perbankan Syariah yang diatur dalam Undang-Undang
 Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara
@@ -2097,15 +2069,14 @@ Tambahan Lembaran Negara Republik Indonesia Nomor 3790)
 beserta peraturan pelaksanaannya dinyatakan tetap berlaku
 sepanjang tidak bertentangan dengan Undang-Undang ini.
 
-Pasal 70
+### Pasal 70 ^pasal-70
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar . . .
 
-
 -----
 
-                        - 36 
+                        - 36
 Agar setiap orang mengetahuinya, memerintahkan pengundangan
 Undang-Undang ini dengan penempatannya dalam Lembaran
 Negara Republik Indonesia.
@@ -2140,10 +2111,11 @@ Bidang Perekonomian dan Industri,
 
 Setio Sapto Nugroho
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 
@@ -2154,8 +2126,6 @@ NOMOR 21 TAHUN 2008
 TENTANG
 
 PERBANKAN SYARIAH
-
-I. UMUM
 
 Sebagaimana diamanatkan oleh Pancasila dan Undang-Undang Dasar
 Negara Republik Indonesia Tahun 1945, tujuan pembangunan nasional
@@ -2193,10 +2163,9 @@ dinikmati oleh pemilik modal saja, tetapi juga oleh pengelola modal.
 
 Perbankan . . .
 
-
 -----
 
-                    - 38 
+                    - 38
 Perbankan Syariah sebagai salah satu sistem perbankan nasional
 memerlukan berbagai sarana pendukung agar dapat memberikan
 kontribusi yang maksimum bagi pengembangan ekonomi nasional. Salah
@@ -2243,10 +2212,9 @@ disepakati di dalam Akad oleh para pihak.
 
 Untuk . . .
 
-
 -----
 
-                      - 39 
+                      - 39
 Untuk menerapkan substansi undang-undang perbankan syariah ini,
 maka pengaturan terhadap UUS yang secara korporasi masih berada
 dalam satu entitas dengan Bank Umum Konvensional, di masa depan,
@@ -2262,14 +2230,11 @@ Syariah, dan yang tidak kalah penting diharapkan dapat memobilisasi
 dana dari negara lain yang mensyaratkan pengaturan terhadap Bank
 Syariah dalam undang-undang tersendiri.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Kegiatan usaha yang berasaskan Prinsip Syariah, antara lain, adalah
 kegiatan usaha yang tidak mengandung unsur:
 
@@ -2312,15 +2277,11 @@ Yang dimaksud dengan “prinsip kehati-hatian” adalah pedoman
 pengelolaan Bank yang wajib dianut guna mewujudkan perbankan
 yang sehat, kuat, dan efisien sesuai dengan ketentuan peraturan
 perundang-undangan.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Dalam mencapai tujuan menunjang pelaksanaan pembangunan
 nasional, Perbankan Syariah tetap berpegang pada Prinsip Syariah
 secara menyeluruh (kaffah) dan konsisten (istiqamah).
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Cukup jelas.
@@ -2336,8 +2297,7 @@ Cukup jelas.
 
 Ayat (4)
 Cukup jelas.
-
-Pasal 5
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 Cukup jelas.
 
@@ -2385,9 +2345,7 @@ Cukup jelas.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 Cukup jelas.
@@ -2405,13 +2363,9 @@ kegiatan usahanya membantu kantor induknya.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Huruf a
 
 Cukup jelas.
@@ -2444,9 +2398,7 @@ mendapatkan persetujuan Bank Indonesia;
 
 e. pelarangan penjaminan saham yang dimiliki oleh
 pemegang saham pengendali.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Ayat (1)
 
 Huruf a
@@ -2476,41 +2428,25 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-Pasal 13 . . .
-
-
+#### Pasal 13 ^penjelasan-pasal-13
 -----
 
-                    - 43 
-Pasal 13
-
+                    - 43
+#### Pasal 13 ^penjelasan-pasal-13-2
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Perubahan kepemilikan Bank Syariah yang tidak mengakibatkan
 perubahan pemegang saham pengendali cukup dilaporkan secara
 tertulis kepada Bank Indonesia.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 
 Cukup jelas.
@@ -2527,17 +2463,11 @@ b. persiapan sumber daya manusia;
 c. susunan organisasi dan kepengurusan; dan
 
 d. kelayakan usaha.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Ayat (1)
 
 Huruf a
@@ -2699,9 +2629,7 @@ dana kebajikan.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Huruf a
@@ -2769,17 +2697,11 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 
 Kemauan berkaitan dengan iktikad baik dari Nasabah
@@ -2843,15 +2765,11 @@ negeri, baik untuk masa yang telah lalu maupun yang akan
 datang sehingga dapat diketahui prospek pemasaran dari
 hasil proyek atau usaha calon Nasabah yang akan dibiayai
 dengan fasilitas Pembiayaan.
-
-Pasal 24 . . .
-
-
+#### Pasal 24 ^penjelasan-pasal-24
 -----
 
-                    - 49 
-Pasal 24
-
+                    - 49
+#### Pasal 24 ^penjelasan-pasal-24-2
 Ayat (1)
 
 Huruf a
@@ -2899,9 +2817,7 @@ tindakan UUS yang berkaitan dengan transaksi
 asuransi yang dipasarkan melalui kerja sama
 dimaksud menjadi tanggung jawab perusahaan
 asuransi syariah.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Huruf a
 
 Usaha yang bertentangan dengan Prinsip Syariah antara lain
@@ -2937,9 +2853,7 @@ Cukup jelas.
 Huruf f
 
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Cukup jelas.
@@ -2963,9 +2877,7 @@ orang.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Yang dimaksud dengan “pemegang saham pengendali”
@@ -3088,9 +3000,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Yang termasuk dalam pengertian peraturan perundang-undangan
 adalah Peraturan Bank Indonesia.
 
@@ -3102,15 +3012,11 @@ a. tugas dan tanggung jawab;
 b. pelaporan; dan
 
 c. perlindungan dalam pelaksanaan tugas.
-
-Pasal 29 . . .
-
-
+#### Pasal 29 ^penjelasan-pasal-29
 -----
 
-                    - 53 
-Pasal 29
-
+                    - 53
+#### Pasal 29 ^penjelasan-pasal-29-2
 Ayat (1)
 
 Cukup jelas.
@@ -3124,9 +3030,7 @@ a. tugas dan tanggung jawab;
 b. pelaporan; dan
 
 c. perlindungan dalam pelaksanaan tugas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Uji kemampuan dan kepatutan bertujuan untuk menjamin
@@ -3145,9 +3049,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Ayat (1)
 
 Yang dimaksud dengan “pejabat eksekutif” adalah pejabat
@@ -3159,9 +3061,7 @@ atau kepala satuan kerja audit internal.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Ayat (1)
 
 Cukup jelas.
@@ -3192,17 +3092,11 @@ c. masa kerja;
 d. komposisi keahlian;
 e. maksimal jabatan rangkap; dan
 f. pelaporan dewan pengawas syariah.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Ayat (1)
 
 Dalam rangka menjamin terlaksananya pengambilan
@@ -3231,19 +3125,13 @@ Syariah yang bersangkutan.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 36 . . .
-
-
+#### Pasal 36 ^penjelasan-pasal-36
 -----
 
-                    - 55 
-Pasal 36
-
+                    - 55
+#### Pasal 36 ^penjelasan-pasal-36-2
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Ayat (1)
 
 Penyaluran dana berdasarkan Prinsip Syariah oleh Bank
@@ -3320,9 +3208,7 @@ bank.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Ayat (1)
 
 Yang dimaksud dengan “manajemen risiko” adalah
@@ -3343,24 +3229,18 @@ transparansi produk, dan edukasi terhadap Nasabah.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Penjelasan yang diberikan kepada Nasabah mengenai
 kemungkinan timbulnya risiko kerugian Nasabah dimaksudkan
 untuk menjamin transparansi produk dan jasa Bank.
 
 Apabila informasi tersebut telah disediakan, Bank dianggap telah
 melaksanakan ketentuan ini.
-
-Pasal 40 . . .
-
-
+#### Pasal 40 ^penjelasan-pasal-40
 -----
 
-                    - 57 
-Pasal 40
-
+                    - 57
+#### Pasal 40 ^penjelasan-pasal-40-2
 Ayat (1)
 
 Pembelian Agunan oleh Bank melalui pelelangan
@@ -3402,13 +3282,9 @@ adalah Agunan yang pembiayaannya telah dikategorikan
 macet selama jangka waktu tertentu;
 
 b. Jangka waktu pencairan Agunan yang telah dibeli.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Cukup jelas.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Ayat (1)
 
 Yang dimaksud dengan “memperlihatkan bukti tertulis”,
@@ -3423,9 +3299,7 @@ Ayat (2) . . .
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Ayat (1)
 
 Cukup jelas.
@@ -3440,33 +3314,19 @@ setingkat menteri.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Cukup jelas.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Cukup jelas.
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Cukup jelas.
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Cukup jelas.
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Pembinaan yang dilakukan Bank Indonesia, antara lain, mengenai
 aspek kelembagaan, kepemilikan dan kepengurusan (termasuk uji
 kemampuan dan kepatutan), kegiatan usaha, pelaporan, serta
@@ -3483,9 +3343,7 @@ Pengawasan bank meliputi pengawasan tidak langsung (off-site
 _supervision) atas dasar laporan Bank dan pengawasan langsung_
 (on-site supervision) dalam bentuk pemeriksaan di kantor bank
 yang bersangkutan.
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Ayat (1)
 
 Bank Syariah dan UUS perlu menjaga tingkat kesehatannya
@@ -3494,9 +3352,7 @@ dalam rangka memelihara kepercayaan masyarakat.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Ayat (1)
 
 Cukup jelas.
@@ -3552,9 +3408,7 @@ pengawasan/pemeriksaan Bank Indonesia.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Ayat (1)
 
 Yang dimaksud dengan “pihak lainnya” adalah pihak yang
@@ -3564,9 +3418,7 @@ untuk melaksanakan pemeriksaan.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Ayat (1)
 
 Keadaan suatu Bank dikatakan mengalami kesulitan yang
@@ -3637,9 +3489,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Ayat (1)
 
 Cukup jelas.
@@ -3662,69 +3512,41 @@ d. melalui pengadilan dalam lingkungan Peradilan Umum.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 56 . . .
-
-
+#### Pasal 56 ^penjelasan-pasal-56
 -----
 
-                    - 62 
-Pasal 56
-
+                    - 62
+#### Pasal 56 ^penjelasan-pasal-56-2
 Pada dasarnya sanksi administratif dikenakan terhadap anggota
 komisaris atau anggota direksi secara personal yang melakukan
 kesalahan, tetapi tidak menutup kemungkinan sanksi administratif
 dikenakan secara kolektif apabila kesalahan tersebut dilakukan
 secara kolektif.
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
 Cukup jelas.
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59
 Cukup jelas.
-
-Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60
 Cukup jelas.
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61
 Cukup jelas.
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Cukup jelas.
-
-Pasal 64
-
+#### Pasal 64 ^penjelasan-pasal-64
 Cukup jelas.
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Cukup jelas.
-
-Pasal 66
-
+#### Pasal 66 ^penjelasan-pasal-66
 Cukup jelas.
-
-Pasal 67 . . .
-
-
+#### Pasal 67 ^penjelasan-pasal-67
 -----
 
-                      - 63 
-Pasal 67
-
+                      - 63
+#### Pasal 67 ^penjelasan-pasal-67-2
 Ayat (1)
 
 UUS yang telah memiliki izin usaha dalam ketentuan ini
@@ -3734,17 +3556,11 @@ Kantor Cabang Syariah pada Bank Umum Konvensional.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 68
-
+#### Pasal 68 ^penjelasan-pasal-68
 Cukup jelas.
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69
 Cukup jelas.
-
-Pasal 70
-
+#### Pasal 70 ^penjelasan-pasal-70
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4867
@@ -3754,3 +3570,84 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4867
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-2]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 24 | [[#^penjelasan-pasal-24-2]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 29 | [[#^penjelasan-pasal-29-2]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 36 | [[#^penjelasan-pasal-36-2]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 40 | [[#^penjelasan-pasal-40-2]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 56 | [[#^penjelasan-pasal-56-2]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 67 | [[#^penjelasan-pasal-67-2]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |

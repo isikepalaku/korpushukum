@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penyesuaian Pidana
+**Penyesuaian Pidana**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -36,11 +42,11 @@ Menimbang SALINAN
 
 <!-- image -->
 
-## UNDANG-UNDANG REPUBLIK INDONESIA NOMOR l TAHUN 2026 TENTANG PEI{YESUAIAN PIDANA
+**UNDANG-UNDANG REPUBLIK INDONESIA NOMOR l TAHUN 2026 TENTANG PEI{YESUAIAN PIDANA**
 
-## DENGAN RAHMAT TUHAN YANG MAHA ESA
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
-## PRESIDEN REPUBLIK INDONESIA,
+**PRESIDEN REPUBLIK INDONESIA,**
 
 - a. bahwa pembangunan hukum pidana nasional perlu didasarkan pada nilai dasar Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 yang menjunjung tinggi hak asasi manusia dan mengedepankan keadilan, kepastian, dan kemanfaatan hukum;
 - b. bahwa perkembangan masyarakat menuntut adanya sistem hukum pidana yang konsisten, adaptif, dan responsif terhadap perubahan sosial, sehingga diperlukan penyesuaian terhadap norrna hukum pidana yang berpotensi menimbulkan ketidakpastian dan ketidakadilan baik antara Undang-Undang di luar Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana dan Peraturan Daerah dengan Undang-Undang Nomor I Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana maupun di dalam Undang-Undang Nomor I Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana itu sendiri;
@@ -50,29 +56,29 @@ Mengingat
 
 <!-- image -->
 
-## iIitrEIEtrN REFUBLIK INDONESIA
+**iIitrEIEtrN REFUBLIK INDONESIA**
 
 - d.bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, serta untuk melaksanakan ketentuan Pasal 613 UndangUndang Nomor 1 Tahun 2023 tenlang Kitab UndangUndang Hukum Pidana, perlu membentuk UndangUndang tentang Penyesuaian Pidana;
 1. Pasal 5 ayat (1), Pasal 20, dan Pasal 28D ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842);
 
-## Dengan Persetujuan Bersama
+**Dengan Persetujuan Bersama**
 
-## DEWAN PERWAKII,AN RAKYAT REPUBLIK INDONESIA dan
+**DEWAN PERWAKII,AN RAKYAT REPUBLIK INDONESIA dan**
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 Menetapkan
 
-## MEMUTUSI(AN:
+**MEMUTUSI(AN:**
 
 UNDANG-UNDANG TENTANG PET{YESUAIAN PIDANA.
 
-## BAB I
+**BAB I**
 
 PEI.IYESUAIAN PIDANA DALAM UNDANG-UNDANG DI LUAR UNDANG-UNDANG NOMOR I TAHUN 2023 TENTANG KITAB UNDANG-UNDANG HUKUM PIDANA
 
-## Pasal I
+**Pasal I**
 
 - (l) Dalam hal Undang-Undang di luar Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana memuat ancaman pidana minimum khusus, ketentuan ancaman pidana minimum khusus dihapus.
 
@@ -82,7 +88,7 @@ PEI.IYESUAIAN PIDANA DALAM UNDANG-UNDANG DI LUAR UNDANG-UNDANG NOMOR I TAHUN 202
 
 - (2) Ketentuan sebagaimana dimaksud pada ayat (1) dikecualikan bagi Undang-Undang yang mengatur mengenai tindak pidana berat terhadap hak asasi manusia, tindak pidana terorisme, tindak pidana korupsi, dan tindak pidana pencucian uang.
 
-## Pasal II
+**Pasal II**
 
 - (1) Ketentuan pidana dalam Undang-Undang selain UndangUndang Nomor 1 Tahun 2023 tentang Kitab UndangUndang Hukum Pidana yang memuat ancaman pidana tunggal berupa pidana kurungan diubah dengan ketentuan:
 - a. pidana kurungan kurang dari 6 (enam) Bulan diubah menjadi pidana denda paling banyak kategori I; dan
@@ -131,20 +137,20 @@ b. ketentuan . . .
 - (10) Ketentuan sebagaimana dimaksud pada ayat (5) huruf b sampai dengan huruf h tidak berlaku untuk ketentuan pidana dalam Undang-Undang Nomor 35 Tahun 2OO9 tentang Narkotika sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tenlang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahtn2022 tenta:rg Cipta Kerja menjadi Undang-Undang.
 - (11) Penyesuaian ketentuan pidana sebagaimana dimaksud pada ayat (10) tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari UndangUndang ini.
 
-## Pasal III
+**Pasal III**
 
 - (l) Ketentuan pidana di luar Undang-Undang Nomor I Tahun 2O23 tentanlg Kitab Undang-Undang Hukum Pidana yang ancaman pidana penjaranya di atas 15 (lima belas) tahun tanpa alternatif pidana seumur hidup atau pidana mati, diubah menjadi pidana penjara paling lama 15 (lima belas) tahun.
 - (2) Ketentuan pidana di luar Undang-Undang Nomor 1 Tahun 2O23 tentang Kitab Undang-Undang Hukum Pidana yang ancaman pidana penjaranya seumur hidup tanpa alternatif pidana penjara maksimum atau pidana mati, diubah menjadi pidana penjara seumur hidup atau paling lama 20 (dua puluh) tahun.
 
-## BAB II PENYESUAIAN PIDANA DALAM PERATURAN DAERAH
+**BAB II PENYESUAIAN PIDANA DALAM PERATURAN DAERAH**
 
-## Pasal IV
+**Pasal IV**
 
 - (1) Ketentuan pidana dalam Peraturan Daerah yang memuat ancaman pidana tunggal berupa pidana kurungan diubah dengan ketentuan:
 
 <!-- image -->
 
-## I-,]I*rFITTI K INDONESIA
+**I-,]I*rFITTI K INDONESIA**
 
 - a. pidana kurungan kurang dari 6 (enam) Bulan diubah menjadi pidana denda paling banyak kategori I; dan
 - b. pidana kurungan 6 (enam) Bulan atau lebih diubah menjadi pidana denda paling banyak kategori II.
@@ -156,15 +162,15 @@ b. ketentuan . . .
 - b. pidana denda diubah berdasarkan ketentuan sebagaimana dimaksud pada ayat (2).
 - (4) Ketentuan sebagaimana dimaksud pada ayat (3) tidak diberlakukan terhadap Peraturan Daerah mengenai tindak pidana adat.
 
-## Pasal V
+**Pasal V**
 
 Ketentuan Pasal 15 Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan (Lembaran Negara Republik Indonesia Tahun 20ll Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 13 Talrrun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 12 Tahun 20ll tentang Pembentukan Peraturan Perundang-Undangan (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 143, Tambahan Lembaran Negara Republik Indonesia Nomor 6801), diubah sebagai berikut:
 
 <!-- image -->
 
-## ililiN REPUBUK INDONESIA
+**ililiN REPUBUK INDONESIA**
 
-## Pasal 15
+### Pasal 15 ^pasal-15
 
 - (1) Materi muatan mengenai ketentuan pidana hanya dapat dimuat dalam:
 - a. Undang-Undang;
@@ -172,11 +178,11 @@ Ketentuan Pasal 15 Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peratur
 - c. Peraturan Daerah Kabupaten/ Kota.
 - (2) Ketentuan pidana sebagaimana dimalsud pada ayat (1) huruf b dan huruf c hanya berupa ancaman pidana denda paling banyak kategori III.
 
-## Pasal VI
+**Pasal VI**
 
 Ketentuan Pasal 238 dalam Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 244, Tambahan lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2O22 ter,.tang Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tallun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856), diubah sebagai berikut:
 
-## Pasal 238
+### Pasal 238 ^pasal-238
 
 - (1) Perda dapat memuat ketentuan tentang pembebanan biaya paksaan penegakan/pelaksanaan Perda seluruhnya atau sebagian kepada pelanggar sesuai dengan ketentuan peraturan perundang-undangan.
 - (2) Perda hanya dapat memuat ancaman pidana denda paling banyak kategori III.
@@ -194,24 +200,24 @@ Ketentuan Pasal 238 dalam Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan
 - g. denda administratif; dan/ atau
 - h. sanksi administratif lain sesuai dengan ketentuan peraturan perundang-undangan.
 
-## BAB III
+**BAB III**
 
-## PERUBAHAN DAI,AM UNDANG-UNDANG NOMOR l TAHUN 2023 TENTANG KITAB UNDANG-UNDANG HUKUM PIDANA
+**PERUBAHAN DAI,AM UNDANG-UNDANG NOMOR l TAHUN 2023 TENTANG KITAB UNDANG-UNDANG HUKUM PIDANA**
 
-## Pasal VII
+**Pasal VII**
 
 Beberapa ketentuan dalam Undang-Undang Nomor 1 Tahun 2023 lentang Kitab Undang-Undang Hukum Pidana (l,embaran Negara Republik Indonesia Tahun 2023 Nomor l, Tambahan Lembaran Negara Republik Indonesia Nomor 6842), diubah sebagai berikut:
 
 1. Ketentuan ayat (3) dan ayat (5) Pasal 3 diubah, sehingga Pasal 3 berbunyi sebagai berikut:
 
-## Pasal 3
+### Pasal 3 ^pasal-3
 
 - (1) Dalam hal terdapat perubahan peraturan perundangundangan sesudah perbuatan terjadi, diberlakukan peraturan perundang-undangan yang baru, kecuali ketentuan peraturan perundang-undangan yang lama menguntungkan bagi pelaku dan pembantu Tindak Pidana.
 - (2) Dalam hal perbuatan yang terjadi tidak lagi merupakan Tindak Pidana menurut peraturan perundang-undangan yang baru, proses hukum terhadap tersangka atau terdakwa harus dihentikan demi hukum.
 
 <!-- image -->
 
-## REPUBUK INDONESIA
+**REPUBUK INDONESIA**
 
 - (3) Dalam hal ketentuan sebagaimana dimaksud pada ayat (21diterapkan terhadap tersangka atau terdakwa yang berada dalam tahanan, tersangka atau terdakwa dibebaskan oleh Pejabat yang berwenang sesuai dengan tingkat pemeriksaan.
 - (4) Dalam hal setelah putusan pemidanaan berkekuatan hukum tetap dan perbuatan yang terjadi tidak lagi merupakan Tindak Pidana menurut peraturan perundang-undangan yang baru, pelaksanaan putusan pemidanaan dihapuskan.
@@ -220,7 +226,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 1 Tahun 2023 lentang Kitab Undang-U
 - (7) Dalam hal setelah putusan pemidanaan berkekuatan hukum tetap dan perbuatan yang terjadi diancam dengan pidana yang lebih ringan menurut peraturan perundang-undangan yang baru, pelaksanaan putusan pemidanaan disesuaikan dengan batas pidana menurut peraturan perundang-undangan yang baru.
 2. Ketentuan ayat (3) Pasal 8 dihapus, sehingga Pasal 8 berbunyi sebagai berikut:
 
-## Pasal 8
+### Pasal 8 ^pasal-8
 
 - (1) Ketentuan pidana dalam Undang-Undang berlaku bagi setiap warga negara Indonesia yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia.
 - (2) Ketentuan sebagaimana dimaksud pada ayat (1) berlaku jika perbuatan tersebut juga merupakan Tindak Pidana di negara tempat Tindak Pidana dilakukan.
@@ -232,14 +238,14 @@ Beberapa ketentuan dalam Undang-Undang Nomor 1 Tahun 2023 lentang Kitab Undang-U
 - (5) Warga negara Indonesia di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana sebagaimana dimaksud pada ayat (l) tidak dapat dijatuhi pidana mati jika Tindak Pidana tersebut menurut hukum negara tempat Tindak Pidana tersebut dilakukan tidak diancam dengan pidana mati.
 3. Ketentuan Pasal 37 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 37
+### Pasal 37 ^pasal-37
 
 Dalam hal ditentukan oleh Undang-Undang, Setiap Orang dapat dipidana semata-mata karena telah dipenuhinya unsur Tindak Pidana tanpa memperhatikan adanya kesalahan.
 
 4. Penjelasan Pasal 48 diubah sebagaimana tercantum dalam Penjelasan.
 5. Ketentuan Pasal 49 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 49
+### Pasal 49 ^pasal-49
 
 - (1) Pertanggungjawaban atas Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 48 dikenakan terhadap Korporasi.
 - (2) Pertanggungjawaban Korporasi sebagaimana dimaksud pada ayat (1) dapat dikenakan kepada pengurus yang mempunyai kedudukan fungsional, pemberi perintah, pemegang kendali, dan/ atau pemilik manfaat Korporasi.
@@ -249,7 +255,7 @@ Dalam hal ditentukan oleh Undang-Undang, Setiap Orang dapat dipidana semata-mata
 
 6. Ketentuan Pasal 66 ditambahkan 1 (satu) ayat, yakni ayat (6), sehingga Pasal 66 berbunyi sebagai berikut:
 
-## Pasal 66
+### Pasal 66 ^pasal-66
 
 - (1) Pidana tambahan sebagaimana dimaksud dalam Pasal 64 huruf b terdiri atas:
 - a. pencabutan hak tertentu;
@@ -266,17 +272,17 @@ Dalam hal ditentukan oleh Undang-Undang, Setiap Orang dapat dipidana semata-mata
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 7. Ketentuan Pasal 69 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 69
+### Pasal 69 ^pasal-69
 
 - (1) Jika narapidana yang menjalani pidana penjara seumur hidup telah menjalani pidana penjara paling singkat l0 (sepuluh) tahun, pidana penjara seumur hidup dapat diubah menjadi pidana penjara 20 (dua puluh) tahun dengan Keputusan Presiden setelah mendapatkan pertimbangan Mahkamah Agung.
 - (2) Ketentuan mengenai tata cara perubahan pidana penjara seumur hidup menjadi pidana penjara 20 (dua puluh) tahun sebagaimana dimaksud pada ayat (l) diatur dengan Peraturan Pemerintah.
 8. Ketentuan Pasal 76 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 76
+### Pasal 76 ^pasal-76
 
 - (1) Pidana pengawasan sebagaimana dimaksud dalam Pasal 75 dijatuhkan paling lama sama dengan pidana penjara yang diancamkan yang tidak lebih dari 3 (tiga) tahun dan dijatuhkan kepada orang yang pertama kali melakukan Tindak Pidana.
 - (2) Dalam putusan pidana pengawasan ditetapkan syarat umum, berupa terpidana tidak akan melakukan Tindak Pidana lagi.
@@ -293,17 +299,17 @@ Dalam hal ditentukan oleh Undang-Undang, Setiap Orang dapat dipidana semata-mata
 - (8) Ketentuan lebih lanjut mengenai tata cara dan batas pengurangan dan perpanjangan masa pengawasan diatur dengan Peraturan Pemerintah.
 9. Ketentuan Pasal 77 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 77
+### Pasal 77 ^pasal-77
 
 Dalam hal terpidana selama menjalani pidana pengawasan melanggar syarat umum, pidana pengawasan dicabut dan terpidana menjalani pidana penjara karena pelanggaran syarat umum.
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 10. Ketentuan Pasal 82 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 82
+### Pasal 82 ^pasal-82
 
 - (l) Jika penyitaan dan pelelangan kekayaan atau pendapatan sebagaimana dimaksud dalam Pasal 81 ayat (3) tidak cukup atau tidak memungkinkan untuk dilaksanakan, pidana denda yang tidak dibayar tersebut diganti dengan pidana penjara.
 - l2l Lama pidana penjara pengganti sebagaimana dimaksud pada ayat (1) paling singkat 1 (satu) Hari dan paling larna 2 (dua) tahun.
@@ -312,7 +318,7 @@ Dalam hal terpidana selama menjalani pidana pengawasan melanggar syarat umum, pi
 - (5) Dalam hal terl'adi perubahan nilai uang, ketentuan besarnya pidana denda ditetapkan dengan Peraturan Pemerintah.
 11. Ketentuan Pasal 83 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 83
+### Pasal 83 ^pasal-83
 
 - (l) Terpidana selama menjalani pidana penjara pengganti berhak membayar pidana denda yang dijatuhkan.
 - (2) Besarnya denda yang dibayarkan mengurangi pidana penjara pengganti secara proporsional dengan memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 82 ayat (3).
@@ -320,17 +326,17 @@ Dalam hal terpidana selama menjalani pidana pengawasan melanggar syarat umum, pi
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 12. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 84
+### Pasal 84 ^pasal-84
 
 Setiap Orang yang telah berulang kali dijatuhi pidana denda untuk Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II dapat dijatuhi pidana penjara paling lama 6 (enam) Bulan dan pidana denda yang diperberat paling banyak 1/3 (satu per tiga).
 
 13. Ketentuan huruf b ayat (1) Pasal 90 diubah, sehingga Pasal 90 berbunyi sebagai berikut:
 
-## Pasal 9O
+**Pasal 9O**
 
 - (1) Jika pidana pencabutan hak dijatuhkan, lama pencabutan wajib ditentukan jika:
 - a. dijatuhi pidana mati atau pidana penjara seumur hidup, pencabutan hak dilakukan untuk selamanya;
@@ -343,11 +349,11 @@ Setiap Orang yang telah berulang kali dijatuhi pidana denda untuk Tindak Pidana 
 
 <!-- image -->
 
-## PRESIDEN REFUBUK INDONESIA
+**PRESIDEN REFUBUK INDONESIA**
 
 14. Ketentuan Pasal 91 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 9l
+**Pasal 9l**
 
 Pidana tambahan berupa perampasan Barang tertentu dan/atau tagihan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf b yang dapat dirampas meliputi Barang tertentu dan/atau tagihan milik terpidana:
 
@@ -359,7 +365,7 @@ Pidana tambahan berupa perampasan Barang tertentu dan/atau tagihan sebagaimana d
 - e. dari keuntungan ekonomi yang diperoleh, baik secara langsung maupun tidak langsung dari Tindak Pidana; dan/ atau
 15. Ketentuan ayat (3) Pasal 95 diubah, sehingga Pasal 95 berbunyi sebagai berikut:
 
-## Pasal 95
+### Pasal 95 ^pasal-95
 
 - (l) Pidana tambahan berupa pencabutan izin dikenakan kepada pelaku dan pembantu Tindak Pidana yang melakukan Tindak Pidana yang berkaitan dengan izin yang dimiliki.
 - (2) Pencabutan izin sebagaimana dimaksud pada ayat (1) dilakukan dengan mempertimbangkan:
@@ -370,13 +376,13 @@ Pidana tambahan berupa perampasan Barang tertentu dan/atau tagihan sebagaimana d
 
 <!-- image -->
 
-## REPTIBLIK INDONESIA
+**REPTIBLIK INDONESIA**
 
 - (4) Dalam hal dijatuhi pidana denda, pencabutan izin berlaku paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun.
 - (5) Pidana pencabutan izin mulai berlaku pada tanggal putusan pengadilan telah memperoleh kekuatan hukum tetap.
 16. Ketentuan ayat (1) Pasal 99 diubah, sehingga Pasal 99 berbunyi sebagai berikut:
 
-## Pasal 99
+### Pasal 99 ^pasal-99
 
 - (l) Pidana mati hanya dapat dilaksanakan setelah terpidana tidak menunjukkan sikap dan perbuatan yang terpuji dalam masa percobaan pidana mati dan tidak mengajukan permohonan grasi atau permohonan grasi bagi terpidana ditolak Presiden.
 - l2l Pidana mati sebagaimana dimaksud pada ayat (1) tidak dilaksanakan Di Muka Umum.
@@ -384,7 +390,7 @@ Pidana tambahan berupa perampasan Barang tertentu dan/atau tagihan sebagaimana d
 - (41 Pelaksanaan pidana mati terhadap perempuan hamil, perempuan yang sedang menyusui bayinya, atau orang yang sakit jiwa ditunda sampai perempuan tersebut melahirkan, perempuan tersebut tidak lagi menyusui bayinya, atau orang yang sakit jiwa tersebut sembuh.
 17. Ketentuan ayat (2) dan ayat (5) dihapus dan ketentuan ayat (1), ayat(41, dan ayat (6) Pasal 10O diubah, sehingga Pasal 100 berbunyi sebagai berikut:
 
-## Pasal 10O
+**Pasal 10O**
 
 - (l) Hakim menjatuhkan pidana mati dengan masa percobaan sebagaimana dimaksud dalam Pasal 99 selama 1O (sepuluh) tahun.
 - (2) Dihapus.
@@ -399,13 +405,13 @@ Pidana tambahan berupa perampasan Barang tertentu dan/atau tagihan sebagaimana d
 - (6) Selama masa percobaan sebagaimana dimaksud pada ayat (1), pidana mati tidak dapat dilaksanakan.
 18. Ketentuan Pasal 101 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 101
+### Pasal 101 ^pasal-101
 
 Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan selama 1O (sepuluh) tahun sejak grasi ditolak bukan karena terpidana melarikan diri, pidana mati demi hukum diubah menjadi pidana penjara seumur hidup.
 
 19. Ketentuan Pasal 103 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 103
+### Pasal 103 ^pasal-103
 
 - (l) Tindakan yang dapat dikenakan dengan pidana pokok berupa: bersama-sama
 - a. konseling;
@@ -416,7 +422,7 @@ Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan 
 
 <!-- image -->
 
-## iIitrEIEtrN REPIJELIK INDONESIA
+**iIitrEIEtrN REPIJELIK INDONESIA**
 
 - (2) Dalam hal Tindakan sebagaimana dimaksud pada ayat (1) tidak dilaksanakan, atas perintah jaksa terpidana dijatuhi pidana penjara pengganti.
 - (3) Pidana penjara pengganti sebagaimana dimaksud pada ayat (2) dijatuhkan paling singkat 3 (tiga) Hari untuk setiap kali terpidana tidak melaksanakan Tindakan yang dijatuhkan.
@@ -431,7 +437,7 @@ Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan 
 - (7) Jenis, jangka waktu, tempat, dan/atau pelaksanaan tindakan sebagaimana dimaksud pada ayat (1) sampai dengan ayat (6) ditetapkan dalam putusan pengadilan.
 20. Ketentuan Pasal 120 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 120
+### Pasal 120 ^pasal-120
 
 - (1) Pidana tambahan bagi Korporasi sebagaimana dimaksud dalam Pasal 118 huruf b terdiri atas:
 - a. pembayaran ganti rugi;
@@ -457,14 +463,14 @@ Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan 
 
 <!-- image -->
 
-## PRESIDEN BUK INDON
+**PRESIDEN BUK INDON**
 
 - (6) Pemenuhan kewajiban adat sebagaimana dimaksud pada ayat (1) huruf d dianggap sebanding dengan pidana denda paling sedikit kategori IV.
 - (7) Dalam hal pidana tambahan berupa pemenuhan kewajiban adat sebagaimana dimaksud pada ayat (1) huruf d tidak dipenuhi, pelaksanaan kewajiban adat diganti dengan ganti rrgi yang nilainya setara dengan pidana denda kategori IV.
 - (8) Dalam hal ganti rugi sebagaimana dimaksud pada ayat (71 tidak dipenuhi, kekayaan atau pendapatan Korporasi dapat disita dan dilelang oleh jaksa untuk memenuhi ganti rugi yang tidak dipenuhi.
 21. Ketentuan Pasal 121 ditambahkan 1 (satu) ayat yakni ayat (3), sehingga Pasal 121 berbunyi sebagai berikut:
 
-## Pasal 121
+### Pasal 121 ^pasal-121
 
 - (1) Pidana denda untuk Korporasi dijatuhi paling sedikit kategori IV, kecuali ditentukan lain oleh UndangUndang.
 - (2) Dalam hal Tindak Pidana yang dilakukan diancam dengan:
@@ -477,7 +483,7 @@ Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan 
 
 22. Ketenluan Pasal 132 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 132
+### Pasal 132 ^pasal-132
 
 - (l) Kewenangan penuntutan dinyatakan gugur jika:
 - a. ada putusan pengadilan yang telah memperoleh kekuatan hukum tetap terhadap Setiap Orang atas perkara yang sama;
@@ -499,11 +505,11 @@ Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan 
 
 <!-- image -->
 
-## PRESIDEN NEPUBLIK INDONESIA
+**PRESIDEN NEPUBLIK INDONESIA**
 
 23. Ketentuan Pasal 136 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 136
+### Pasal 136 ^pasal-136
 
 - (1) Kewenangan penuntutan dinyatakan gugur karena kedaluwarsa apabila:
 - a. setelah melampaui waktu 3 (tiga) tahun untuk Tindak Pidana yang diancam dengan pidana penjara paling lama 1 (satu) tahun dan/atau hanya denda paling banyak kategori III;
@@ -518,58 +524,58 @@ Jika permohonan grasi terpidana mati ditolak dan pidana mati tidak dilaksanakan 
 
 <!-- image -->
 
-## PRESIDEN R,EPUBUK INDONESIA
+**PRESIDEN R,EPUBUK INDONESIA**
 
 24. Ketentuan Pasal 196 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 196
+### Pasal 196 ^pasal-196
 
 - (1) Setiap Orang yang melakukan permufakatan jahat untuk melakukan Tindak Pidana sebagaimana dimaksud dalam Pasal 191 sampai dengian Pasal 193 dipidana.
 - (2) Setiap Orang yang melakukan permufakatan jahat atau persiapan untuk melakukan Tindak Pidana sebagaimana dimaksud dalam Pasal 194 dipidana.
 - (3) Setiap Orang yang mempersiapkan perubahan ketatanegaraan secara konstitusional, tidak dipidana.
 25. Ketentuan ayat (1) Pasal 243 diubah, sehingga Pasal 243 berbunyi sebagai berikut:
 
-## Pasal 243
+### Pasal 243 ^pasal-243
 
 - (1) Setiap Orang yang menyiarkan, mempertunjukkan, atau menempelkan tulisan atau gambar sehingga terlihat oleh umum atau memperdengarkan rekaman sehingga terdengar oleh umum atau menyebarluaskan dengan sarana teknologi informasi, yang berisi pernyataan perasaan permusuhan dengan maksud agar isinya diketahui atau lebih diketahui oleh umum, terhadap satu atau beberapa golongan atau kelompok penduduk Indonesia berdasarkan ras, kebangsaan, etnis, warna kulit, jenis kelamin, atau disabilitas yang berakibat timbulnya Kekerasan terhadap orang atau Barang, dipidana dengan pidana penjara paling lama 4 (empat) tahun atau pidana denda paling banyak kategori IV.
 - (2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1) melakukan Tindak Pidana tersebut dalam menjalankan profesinya dan pada waktu itu belum lewat 2 (dua) tahun sejal adanya putusan pemidanaan yang telah memperoleh kekuatan hukum tetap karena melakukan Tindak Pidana yang sama, pelaku dapat dijatuhi pidana tambahan berupa pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf f.
 
 <!-- image -->
 
-## PRESIDEN REP]JELIK INDONESIA
+**PRESIDEN REP]JELIK INDONESIA**
 
 26. Ketentuan Pasal 251 ditambahkan I (satu) ayat yakni ayat (3), sehingga Pasal 251 berbunyi sebagai berikut:
 
-## Pasal 251
+### Pasal 251 ^pasal-251
 
 - (1) Setiap Orang yang memberi obat atau meminta seorang perempuan untuk menggunakan obat dengan memberitahukan atau menimbulkan harapan bahwa obat tersebut dapat mengakibatkan gugurnya kandungan, dipidana dengan pidana penjara paling lama 4 (empat) tahun atau pidana denda paling banyak kategori IV.
 - (2) Jika Setiap Orang sebagaimana dimaksud pada ayat (1) melakukan perbuatan tersebut dalam menjalankan profesinya dapat dijatuhi pidana tambahan berupa pencabutan h2k sslagairnanz dimaksud dalam Pasal 86 huruf f.
 - (3) Perbuatan sebagaimana dimaksud pada ayat (l) dikecualikan untuk pemberian obat kepada perempuan yang mentpakan Korban Tindak Pidana perkosaan atau Tindak Pidana kekerasan seksual lain yang menyebabkan kehamilan yang umur kehamilannya tidak melebihi 14 (empat belas) minggu atau memiliki indikasi kedaruratan medis.
 27. Ketentuan Pasal 263 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 263
+### Pasal 263 ^pasal-263
 
 Setiap Orang yang menyiarkan atau menyebarluaskan berita atau pemberitahuan padahal diketahuinya bahwa berita atau pemberitahuan tersebut bohong yang mengakibatkan kerusuhan dalam masyarakat, dipidana dengan pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak kategori V.
 
 28. Ketentuan Pasal 264 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal264
+**Pasal264**
 
 Setiap Orang yang menyiarkan berita yang tidak pasti, berlebih-lebihan, atau yang tidak lengkap sedangkan diketahuinya bahwa berita demikian mengakibatkan kerusuhan di masyarakat, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori III.
 
 <!-- image -->
 
-## P]IESIDEN REPTIBLIK INDONESIA
+**P]IESIDEN REPTIBLIK INDONESIA**
 
 29. Ketentuan Pasal 281 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 281
+### Pasal 281 ^pasal-281
 
 Setiap Orang dengan maksud untuk menghalanghalangi, mengintimidasi, atau Pejabat yang melaksanakan tugas penyidikan, penuntutan, pemeriksaan di sidang pengadilan, atau putusan pengadilan yang dilakukan dengan cara memaksa atau membujuknya agar melakukan atau tidak melakukan tugasnya dipidana dengan pidana penjara paling lama 7 (tujuh) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori VI.
 
 30. Ketentuan Pasal 295 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 295
+### Pasal 295 ^pasal-295
 
 - (l) Dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V, Setiap Orang yang:
 - a. menggunakan Kekerasan, Ancaman Kekerasan, atau cara lain terhadap saksi dan/ atau Korban sehingga tidak dapat memberikan keterangannya dalam proses peradilan; atau
@@ -581,31 +587,31 @@ Setiap Orang dengan maksud untuk menghalanghalangi, mengintimidasi, atau Pejabat
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -28-
 
 31. Ketentuan Pasal 296 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 296
+### Pasal 296 ^pasal-296
 
 Setiap Orang yang menghalang-halangi saksi dan/atau Korban yang mengakibatkan tidak memperoleh pelindungan atau halnya, dipidana dengan pidana penjara paling lama 7 (tqjuh) tahun atau pidana denda paling banyak kategori V.
 
 32. Ketentuan Pasal 297 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 297
+### Pasal 297 ^pasal-297
 
 Setiap Orang yang menyebabkan saksi, Korban, dan/atau keluarganya kehilangan pekerjaan karena saksi dan/atau Korban memberikan kesaksian yang benar dalam proses peradilan, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana denda paling banyak kategori V.
 
 33. Ketentuan Pasal 299 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 299
+### Pasal 299 ^pasal-299
 
 Setiap Orang yang secara melawan hukum memberitahukan keberadaan saksi dan/ atau Korban yang sedang dilindungi dalam suatu tempat kediaman sementara atau tempat kediaman baru, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana denda paling banyak kategori V.
 
 34. Ketentuan Pasal 3OO diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 30O
+**Pasal 30O**
 
 - (1) Setiap Orang Di Muka Umum yang:
 - a. melakukan perbuatan yang bersifat permusuhan;
@@ -616,19 +622,19 @@ terhadap orang lain, golongan, atau kelompok atas dasar agama atau kepercayaan d
 
 <!-- image -->
 
-## .f;TiEIEtrN REFUELIK INDONESIA
+**.f;TiEIEtrN REFUELIK INDONESIA**
 
 - (2) Setiap perbuatan atau pernyataan tertulis maupun lisan yang dilakukan secara objektif, terbatas untuk kalangan sendiri, atau bersifat ilmiah mengenai sesuatu agama atau kepercayaan yang disertai dengan usaha untuk menghindari adanya kata atau susunan kalimat yang bersifat permusuhan, pernyataan kebencian atau permusuhan, atau hasutan untuk melakukan permusuhan, Kekerasan, atau diskriminasi bukan merupakan Tindak Pidana sebagaimana dimaksud pada ayat (1).
 35. Ketentuan Pasal 332 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 332
+### Pasal 332 ^pasal-332
 
 - (l) Setiap Orang yang tanpa hak atau melawan hukum mengakses Komputer dan/ atau sistem elektronik milik orang lain dengan cara apa pun, dipidana dengan pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak kategori V.
 - (2) Setiap Orang yang tanpa hak atau melawan hukum mengakses Komputer danlatau sistem elektronik dengan cara apa pun dengan tujuan untuk memperoleh Informasi Elektronik dan/ atau dokumen elektronik, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana denda paling banyak kategori V.
 - (3) Setiap Orang yang tanpa hak atau melawan hukum mengakses Komputer dan/ atau sistem elektronik dengan cara apa pun dengan melanggar, menerobos, melampaui, atau menjebol sistem pengamanan, dipidana dengan pidana penjara paling lama , 8 (delapan) tahun atau pidana denda paling banyak kategori VI.
 36. Ketentuan Pasal 375 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 375
+### Pasal 375 ^pasal-375
 
 - (1) Setiap Orang yang menyimpan secara lisik dengan cara apa pun yang diketahuinya merupakan mata uang palsu sebagaimana dimaksud dalam Pasal 374, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun atau pidana denda paling banyak kategori VII.
 
@@ -636,13 +642,13 @@ terhadap orang lain, golongan, atau kelompok atas dasar agama atau kepercayaan d
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (2) Setiap Orang yang mengedarkan dan/atau mata uang yang diketahuinya palsu sebagaimana dimaksud dalam Pasal 374, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun atau pidana denda paling banyak kategori MII.
 - (3) Setiap Orang yang membawa atau memasukkan mata uang ke dalam dan/ atau ke luar wilayah Negara Kesatuan Republik Indonesia sebagaimana dimalsud dalam Pasal 374, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun atau pidana denda paling banyak kategori VIII.
 37. Ketentuan ayat (l) Pasal 398 diubah, sehingga Pasal 398 berbunyi sebagai berikut:
 
-## Pasal 398
+### Pasal 398 ^pasal-398
 
 - (1) Setiap Orang dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V, jika:
 - a. membuat secara tidak benar atau memalsu paspor, Surat perjalanan laksana paspor, atau Surat yang diberikan menurut ketentuan Undang-Undang tentang pemberian izin kepada orang asing untuk masuk dan menetap di Indonesia; atau
@@ -654,29 +660,29 @@ dengan maksud untuk menggunakan atau meminta orang lain menggunakannya seolah-ol
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 38. Ketentuan ayat (1) Pasal 4O7 diubah, sehingga Pasal 407 berbunyi sebagai berikut:
 
-## Pasal 407
+### Pasal 407 ^pasal-407
 
 - (1) Setiap Orang yang memproduksi, membuat, memperbanyak, menggandakan, menyebarluaskan, menyiarkan, mengimpor, mengekspor, menawarkan, memperjualbelikan, menyewakan, atau menyediakan Pornografi, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun atau pidana denda paling banyak kategori VI.
 - (2) Perbuatan sebagaimana dimaksud pada ayat (1) tidak dipidana jika merupakan karya seni, budaya, olahraga, kesehatan, dan/ atau ilmu pengetahuan.
 39. Penjelasan Pasal 433 ayat (3) diubah sebagaimana tercantum dalam Penjelasan.
 40. Ketentuan ayat (1) Pasal 455 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 455
+### Pasal 455 ^pasal-455
 
 - (l) Setiap Orang yang melakukan perekrutan, pengangkutan, penampungan, pengiriman, pemindahan, atau penerimaan seseorang dengan Ancaman Kekerasan, penggunaan Kekerasan, penculikan, penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi rentan, penjeratan utang, atau memberi bayaran atau manfaat walaupun memperoleh persetujuan dari orang yang memegang kendali atas orang lain, untuk tujuan mengeksploitasi orang tersebut di wilayah Negara Kesatuan Republik Indonesia, dipidana karena melakukan Tindak Pidana perdagangan orang, dengan pidana penjara paling lama 15 (lima belas) tahun atau pidana denda paling banyak kategori VII.
 - (2) Jika perbuatan sebagaimana dimaksud pada ayat (l) mengakibatkan orang tereksploitasi, pelaku dipidana dengan pidana yang sama.
 
 <!-- image -->
 
-## PIIESTDEN REPUBLIK INDONESIA
+**PIIESTDEN REPUBLIK INDONESIA**
 
 41. Ketentuan Pasal 457 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 457
+### Pasal 457 ^pasal-457
 
 Setiap Orang yang melakukan perbuatan yang bertujuan mencari keuntungan, baik secara langsung maupun tidak langsung, untuk diri sendiri atau untuk orang lain dengan membawa seseorang atau kelompok orang, baik secara terorganisasi maupun tidak terorganisasi, atau memerintahkan orang lain untuk membawa seseorang atau kelompok orang, baik secara terorganisasi maupun tidak terorganisasi, yang tidak memiliki hak secara sah untuk memasuki wilayah Indonesia atau keluar dari wilayah Indonesia dan/ atau masuk wilayah negara lain, yang orang tersebut tidak memiliki hak untuk memasuki wilayah tersebut secara sah, baik dengan menggunakan dokumen sah maupun dokumen palsu, atau tanpa menggunakan dokumen perjalanan, baik melalui pemeriksaan imigrasi maupun tidak, dipidana karena penyelundupan manusia dengan pidana penjara paling lama 15 (lima belas) tahun atau pidana denda paling banyak kategori VII.
 
@@ -684,7 +690,7 @@ Setiap Orang yang melakukan perbuatan yang bertujuan mencari keuntungan, baik se
 43. Penjelasan Pasal 466 ayat (1) diubah sebagaimana tercantum dalam Penjelasan.
 44. Ketentuan Pasal 473 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 473
+### Pasal 473 ^pasal-473
 
 - (1) Setiap Orang yang dengan Kekerasan atau Ancaman Kekerasan memaksa seseorang bersetubuh dengannya, dipidana karena melakukan perkosaan, dengan pidana penjara paling lama 12 (dua belas) tahun.
 - (2) Termasuk Tindak Pidana perkosaan dan dipidana sebagaimana dimaksud pada ayat (1) meliputi perbuatan:
@@ -692,7 +698,7 @@ Setiap Orang yang melakukan perbuatan yang bertujuan mencari keuntungan, baik se
 
 <!-- image -->
 
-## tlll:Nl K INDONESIA
+**tlll:Nl K INDONESIA**
 
 - persetubuhan dengan Anak; b.
 - persetubuhan dengan seseorang, padahal diketahui bahwa orang lain tersebut dalam keadaan pingsan atau tidak berdaya; atau c.
@@ -708,7 +714,7 @@ Setiap Orang yang melakukan perbuatan yang bertujuan mencari keuntungan, baik se
 
 <!-- image -->
 
-## REPUBLIK INDONESIA PRESIDEN
+**REPUBLIK INDONESIA PRESIDEN**
 
 - (8) Jika salah satu Tindak Pidana sebagaimana dimaksud pada ayat (1) sampai dengan ayat (3) mengakibatkan matinya orang, pidananya dapat ditambah 1/3 (satu per tiga) dari ancaman pidana sebagaimana dimaksud pada ayat (1).
 - (9) Jika Korban sebagaimana dimaksud pada ayat (4) adalah Anak kandung, Anak tiri, atau Anak di bawah perwaliannya, pidananya dapat ditambah 1/3 (satu per tiga) dari ancaman pidana sebagaimana dimaksud pada ayat (4).
@@ -716,32 +722,32 @@ Setiap Orang yang melakukan perbuatan yang bertujuan mencari keuntungan, baik se
 - (11) Tindak Pidana sebagaimana dimaksud pada ayat (1) sampai dengan ayat (10) merupakan Tindak Pidana kekerasan seksual.
 45. Ketentuan ayat (1) Pasal 521 diubah, sehingga Pasal 521 berbunyi sebagai berikut:
 
-## Pasal 521
+### Pasal 521 ^pasal-521
 
 - (1) Setiap Orang yang secara melawan hukum merusak, menghancurkan, membuat tidak dapat dipakai, atau menghilangkan Barang yang sebagian atau seluruhnya milik orang lain, dipidana dengan pidana penjara paling lama 2 (dua) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori IV.
 - (2) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) mengakibatkan kerugian yang nilainya tidak lebih dari Rp500.000,O0 (lima ratus ribu rupiah), pelaku Tindak Pidana dipidana dengan pidana penjara paling lama 6 (enam) Bulan atau pidana denda paling banyak kategori II.
 
 <!-- image -->
 
-## l-!II+YI-I{I UK IND IA
+**l-!II+YI-I{I UK IND IA**
 
 -35-
 
 46. Ketentuan ayat l2l Pasal 597 diubah, sehingga Pasal 597 berbunyi sebagai berikut:
 
-## Pasal 597
+### Pasal 597 ^pasal-597
 
 - (1) Setiap Orang yang melakukan perbuatan yang menurut hukum yang hidup dalam masyarakat dinyatakan sebagai perbuatan yang dilarang, diancam dengan pidana.
 - (2) Pidana sebagaimana dimaksud pada ayat (l) berupa pemenuhan kewajiban adat sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf f atau Pasal 120 ayat (1) huruf d.
 47. Di. antara Pasal 599 dan Pasal 600 disisipkan I (satu) pasal yakni Pasal 599A, sehingga berbunyi sebagai berikut:
 
-## Pasal 599A
+**Pasal 599A**
 
 Ketentuan mengenai berlaku surutnya Tindak Pidana berat terhadap hak asasi manusia sebagaimana dimaksud dalam Pasal 598 dan Pasal 599 berlaku sesuai dengan ketentuan dalam Undang-Undang Nomor 26 Tahun 2O00 tentang Pengadilan Hak Asasi Manusia.
 
 48. Ketentuan Pasal 6O5 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 6O5
+**Pasal 6O5**
 
 Dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun dan pidana denda paling sedikit kategori III dan paling banyak kategori V, Setiap Orang yang:
 
@@ -752,13 +758,13 @@ Dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (
 
 49. Ketentuan Pasal 606 diubah, sehingga berbunyi sebagai berikut:
 
-## Pasal 6O6
+**Pasal 6O6**
 
 - (1) Setiap Orang yang memberikan hadiah atau janji kepada Pejabat dengan mengingat kekuasaan atau wewenang yang melekat pada jabatan atau kedudukannya, atau oleh pemberi hadiah atau janji dianggap melekat pada jabatan atau kedudukan tersebut, dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan pidana denda paling banyak kategori IV.
 - (2) Pejabat yang menerima hadiah atau janji sebagaimana dimaksud pada ayat (1), dipidana dengan pidana penjara paling lama 4 (empat) tahun dan pidana denda paling banyak kategori IV.
 50. Ketentuan Pasal 609 diubah, sehingga berbunyi sebagai berikut:
 
-## Pasal 609
+### Pasal 609 ^pasal-609
 
 - (1) Setiap Orang yang tanpa hak memiliki, menyimpan, menguasai, atau menyediakan:
 - a. Narkotika Golongan I bukan tanaman, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun dan/ atau pidana denda paling banyak kategori VI;
@@ -770,13 +776,13 @@ Dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 - b. Narkotika Golongan II yang beratnya melebihi 5 (lima) gram dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan/atau pidana denda paling banyak kategori VI; dan
 - c. Narkotika Golongan III yang beratnya melebihi 5 (lima) gram dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/ atau pidana denda paling banyak kategori VI.
 51. Ketentuan Pasal 610 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 610
+### Pasal 610 ^pasal-610
 
 - (1) Setiap Orang yang tanpa hak memproduksi, mengimpor, mengekspor, atau menyalurkan:
 - a. Narkotika Golongan I dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan/atau pidana denda paling banyak kategori V;
@@ -793,7 +799,7 @@ b. Narkotika. . .
 - c. Narkotika Golongan III yang beratnya melebihi 5 (lima) gram dipidana dengan pidana penjara paling lama 15 (lima belas) tahun dan/atau pidana denda paling banyak kategori VI.
 52. Ketentuan Pasal 613 ditambahkan 1 (satu) ayat yakni ayat (3), sehingga Pasal 613 berbunyi sebagai berikut:
 
-## Pasal 613
+### Pasal 613 ^pasal-613
 
 - (1) Pada saat Undang-Undang ini mulai berlaku, setiap Undang-Undang dan Peraturan Daerah yang memuat ketentuan pidana harus menyesuaikan dengan ketentuan Buku Kesatu Undang-Undang ini.
 - (2) Ketentuan mengenai penyesuaian ketentuan pidana sebagaimana dimaksud pada ayat (l) diatur dengan Undang-Undang.
@@ -803,11 +809,11 @@ b. Narkotika. . .
 
 <!-- image -->
 
-## FRESIDEN REPUELIK INDONESIA
+**FRESIDEN REPUELIK INDONESIA**
 
 55. Ketentuan huruf v ayat (1) dan ayat (14) dihapus dan huruf b, huruf r, huruf w, huruf y, huruf z, dan huruf aa ayat (l), ayat (6), dan ayat (18) Pasal 622 di:ubah, sehingga Pasal 622 berbunyi sebagai berikut:
 
-## Pasal 622
+### Pasal 622 ^pasal-622
 
 - (1) Pada saat Undang-Undang ini mulai berlaku, ketentuan dalam:
 - a. Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana (Berita Negara Republik Indonesia II Nomor 9);
@@ -820,7 +826,7 @@ f. Undang-Undang . . .
 
 <!-- image -->
 
-## K INDONESIA
+**K INDONESIA**
 
 - f. Undang-Undang Nomor 16 Prp. Tahun 1960 tentang Beberapa Perubahan Dalam Kitab Undang-Undang Hukum Pidana (Lembaran Negara Tahun 1960 Nomor 50, Tambahan Lembaran Negara Nomor 1976);
 - g. Undang-Undang Nomor 18 Prp. Tahun 1960 tentang Perubahan Jumlah Hukuman Denda dalam Kitab Undang-Undang Hukum Pidana dan dalam Ketentuan Pidana l,ainnya yang Dikeluarkan Sebelum Tanggal 17 Agustus 1945 (Lembaran Negara Tahun 1960 Nomor 52, Tambahan l,embaran Negara Nomor 1978);
@@ -853,7 +859,7 @@ f. Undang-Undang . . .
 
 <!-- image -->
 
-## TI:EFITII=N K INDONESIA
+**TI:EFITII=N K INDONESIA**
 
 - y. Pasal 120 ayat (f) dan Pasal 126 huruf e Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian (Lembaran Negara Republik Indonesia Tahun 2O11 Nomor 52, Tambahan Lembaran Negara Republik Indonesia Nomor 5216) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 63 Tahun 2024 tentang Perubahan Ketiga atas Undang-Undang Nomor 6 Tahun 20ll tentang Keimigrasian ([rmbaran Negara Republik Indonesia Tahun 2024 Nomor 227, Tambahan Lembaran Negara Republik Indonesia Nomor 6996);
 - z. Pasal 36 ayat (1), ayat (21, ayat (3), dan ayat (4) Undang-Undang Nomor 7 Tahun 2011 tentang Mata Uang (Lembaran Negara Republik Indonesia Tahun 2Ol1 Nomor 64, Tambahan l,embaran Negara Republik Indonesia Nomor 5223) sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan (Lembaran Negara Republik Indonesia Tahun 2O23 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 6845);
@@ -895,7 +901,7 @@ dicabut dan dinyatakan tidak berlaku.
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 - (10) Dalam hal ketentuan pasal mengenai Tindak Pidana terhadap informatika dan elektronika sebagaimana dimaksud pada ayat (l) huruf r diacu oleh ketentuan pasal Undang-Undang yang bersangkutan, pengacuannya diganti dengan pasal dalam UndangUndang ini dengan ketentuan sebagai berikut:
 - a. Pasal 27 ayat (1) dan Pasal 45 ayat (1) pengacuannya diganti dengan Pasal 407;
@@ -936,7 +942,7 @@ dicabut dan dinyatakan tidak berlaku.
 
 <!-- image -->
 
-## PRESIDEN REFUBUK INDONESIA
+**PRESIDEN REFUBUK INDONESIA**
 
 - (16) Dalam hal ketentuan pasal mengenai Tindak Pidana pencucian uang sebagaimana dimaksud pada ayat (1) huruf x diacu oleh ketentuan pasal Undang-Undang yang bersangkutan, pengacuannya diganti dengan pasal dalam Undang-Undang ini dengan ketentuan sebagai berikut:
 - b. Pasal 3 pengacuannya diganti dengan Pasal 6O7 ayat (1) huruf a;
@@ -955,7 +961,7 @@ dicabut dan dinyatakan tidak berlaku.
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 - (19) Dalam hal ketentuan pasal mengenai Tindak Pidana di bidang pangan sebagaimana dimaksud pada ayat (1) huruf aa mengacu Pasal 136 Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal 504 dalam Undang-Undang ini.
 - (20) Dalam hal ketentuan pasal mengenai Tindak Pidana pendanaan terorisme sebagaimana dimaksud pada ayat (1) huruf bb mengacu Pasal 4 Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal 602 dalam Undang-Undang ini.
@@ -965,15 +971,15 @@ dicabut dan dinyatakan tidak berlaku.
 - c. Pasal 39 pengacuannya diganti dengan Pasal 297; dan
 - d. Pasal 4l pengacuannya diganti dengan Pasal299.
 
-## BAB IV
+**BAB IV**
 
-## KETENTUAN PENUTUP
+**KETENTUAN PENUTUP**
 
-## Pasal VIII
+**Pasal VIII**
 
 Dalam hal terdapat ketentuan pidana dalam Undang-Undang di luar Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana yang belum diatur dalam Lampiran I Undang-Undang ini, berlaku ketentuan Pasal I sampai dengan Pasal III.
 
-## Pasal IX
+**Pasal IX**
 
 Undang-Undang ini mulai berlaku pada tanggal 2 Januari 2026.
 
@@ -1007,7 +1013,7 @@ Plh Perundang-undangan dan Hukum,
 
 <!-- image -->
 
-## I UMUM
+**I UMUM**
 
 Upaya pembaruan hukum pidana nasional telah diwujudkan dengan diundangkannya Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana (UU KUHP). UU KUHP dibentuk untuk mengganttkar: Wetboek uan Strafrecht sebagaimana ditetapkan dalam Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana yang telah beberapa kali diubah. UU KUHP berlaku setelah 3 (tiga) tahun terhitung sejak tanggal diundangkan, yaitu pada tangal 2 Janluari 2026.
 
@@ -1019,9 +1025,11 @@ Penyesuaian
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
-## PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR I TAHUN 2026 TENTANG PEI{YESUAIAN PIDANA
+## Penjelasan
+
+### I. Umum
 
 <!-- image -->
 
@@ -1037,7 +1045,7 @@ Penyesuaian tersebut penting dilakukan untuk mencegah ketidakpastian hukum serta
 
 Berdasarkan uraian di atas, perlu membentuk Undang-Undang tentang Penyesuaian Pidana gu.na memastikan adanya keselarasan, kepastian hukum, dan konsistensi perumusan sanksi pidana di seluruh peraturan perundang-undangan.
 
-## II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
 Pasal I Ayat (1) Ketentuan ini bertujuan untuk membatasi tindak pidana yang dapat mengatur ancaman pidana dengan pola minimum khusus. Ayat (2) Cukup jelas. Pasal II Ayat (1) Cukup jelas. Ayat (2) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Angka 1 Yang dimaksud dengan "keuntungan finansial" adalah tambahan nilai ekonomi yang diperoleh seseorang atau Korporasi sebagai akibat dari dilakukannya suatu Tindak Pidana. Angka2 Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Ketentuan ini dimaksudkan untuk mengecualikan beberapa
 
@@ -1097,10 +1105,9 @@ Pasal VI Pasal 238 Ayat (1) Dalam ketentuan ini, "biaya paksaan penegakan/pelaks
 
 pidana" adalah hanya untuk putusan pemidanaan yang lebih berat dari ancaman pidana maksimal dalam peraturan perundang-undangan yang baru, termasuk juga penyesuaian jenis ancaman pidana yang berbeda.
 
-## Angka 2
-
-Pasal 8 Cukup jelas. Angka 3 Pasal 37 Cukup jelas. Angka 4 Pasal 48 Cukup jelas. Angka 5 Pasal 49 Ketentuan ini dimaksudkan untuk memisahkan antara perbuatan pidana dan pertanggungiawaban pidana. Angka 6 Pasal 66 Ayat (l) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Ganti rugi dalam ketentuan ini sama dengan restitusi sebagaimana diatur dalam peraturan perundangundangan yang mengatur mengenai perlindungan saksi dan korban. Huruf e Cukup jelas. Huruf f
-
+**Angka 2**
+#### Pasal 8 ^penjelasan-pasal-8
+Cukup jelas. Angka 3 Pasal 37 Cukup jelas. Angka 4 Pasal 48 Cukup jelas. Angka 5 Pasal 49 Ketentuan ini dimaksudkan untuk memisahkan antara perbuatan pidana dan pertanggungiawaban pidana. Angka 6 Pasal 66 Ayat (l) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Ganti rugi dalam ketentuan ini sama dengan restitusi sebagaimana diatur dalam peraturan perundangundangan yang mengatur mengenai perlindungan saksi dan korban. Huruf e Cukup jelas. Huruf f
 Cukup jelas.
 
 <!-- image -->
@@ -1135,10 +1142,11 @@ Ayat (4)
 
 Pelaksanaan pidana mati terhadap perempuan hamil harus ditunda sampai ia melahirkan dan sampai bayi tidak lagi mengonsumsi air susu ibu. Hal ini dimaksudkan agar pelaksanaan pidana mati tidak mengakibatkan terjadinya pembunuhan terhadap 2 (dua) makhluk dan menjamin hal&lt; asasi bayi yang baru dilahirkan.
 
-## Angka 17
+**Angka 17**
 
 ```
-Pasal 100 Cukup jelas. Angka 18 Pasal 101 Cukup je1as. Angka 19 Pasal 103 Ayat (1)
+#### Pasal 100 ^penjelasan-pasal-100
+Cukup jelas. Angka 18 Pasal 101 Cukup je1as. Angka 19 Pasal 103 Ayat (1)
 ```
 
 Huruf a Yang dimaksud dengan "konseling" adalah proses pemberian bimbingan atau bantuan dalam rangka mengatasi masalah dan mengubah perilaku menjadi positif dan konstruktif.
@@ -1147,11 +1155,11 @@ Hurufb. . .
 
 <!-- image -->
 
-## Huruf b
+**Huruf b**
 
 Yang dimalsud dengan "rehabilitasi' antara lain, rehabilitasi medis atau rehabilitasi sosial sebagai proses pemulihan secara terpadu, baik fisik, mental maupun sosial, agar yang bersangkutan dapat kembali melaksanakan fungsi sosial yang positif dan konstruktif dalam rangka mengembalikannya untuk menjadi warga negara yang baik dan berguna.
 
-## Huruf c
+**Huruf c**
 
 Yang dimaksud dengan "pelatihan kerja" adalah kegiatan pemberian keterampilan kepada orang yang diberikan tindakan untuk mempersiapkannya kembali ke masyarakat dan memasuki lapangan kerja.
 
@@ -1187,9 +1195,9 @@ Yang dimaksud dengan "rehabilitasi" dalam ketentuan ini adalah proses pelayan€
 
 <!-- image -->
 
-## FRESIDEN REPUELIK INDONESIA
+**FRESIDEN REPUELIK INDONESIA**
 
-## Huruf b
+**Huruf b**
 
 ```
 Yang dimaksud dengan "seseorang" adalah pihak keluarga yang mampu merawat atau pihak lain yang memiliki kepedulian dan mampu untuk merawat yang bersangkutan. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Ayat (7) Cukup jelas. Angka 20 Pasal 120 Cukup jelas. Angka 21 Pasal 121 Cukup jelas. Angka22 Pasal 132 Dalam ketentuan ini yang dimaksud dengan "penuntutan" adalah proses peradilan yang dimulai dari penyidikan. Ayat (l) Huruf a Ketentuan ini berhubungan dengan asas ne bris inidem. Huruf b Apabila seorang tersangka atau terdakwa meninggal dunia, tidak dapat dilakukan penuntutan terhadap perkara tersebut. Tidak dilakukannya penuntutan karena kesalahan seseorang tidak dapat dilimpahkan kepada orang lain. Hurrf c Cukup jelas.
@@ -1199,15 +1207,15 @@ Huruf d . . .
 
 <!-- image -->
 
-## Huruf d
+**Huruf d**
 
 Bagi Tindak Pidana ringan yang hanya diancam dengan pidana denda paling banyak kategori II, dinilai cukup jika terhadap orang yang melakukan Tindak Pidana tersebut tidak dilakukan penuntutan, sepanjang membayar denda maksimum yang diancamkan. Penuntut umum harus menerima keinginan terdakwa untuk memenuhi maksimum denda tersebut.
 
-## Huruf e
+**Huruf e**
 
 Bagi Tindak Pidana yang diancam dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori III, jika penuntut umum menyetujui maka terdakwa dapat memenuhi maksimum denda untuk menggugurkan penuntutan.
 
-## Huruf f
+**Huruf f**
 
 Terhadap Tindak Pidana yang hanya dapat dituntut berdasarkan aduan maka apabila pengaduan ditarik kembali dianggap tidak ada pengaduan, sepanjang dilakukan dalam tenggang waktu sebagaimana dimaksud dalam Pasal 3O Undang-Undang ini.
 
@@ -1225,7 +1233,7 @@ Penentuan tenggang waktu kedaluwarsa disesuaikan dengan berat ringannya Tindak P
 
 <!-- image -->
 
-## FIIESIDEN REFUBUK INDONESIA
+**FIIESIDEN REFUBUK INDONESIA**
 
 ```
 Ayat (2) Ketentuan pada ayat ini disesuaikan dengan prinsip dalam hukum pidana yang memperlakukan secara khusus lagi Anak. Oleh karena itu, tenggang waktu kedaluwarsa terhadap Tindak Pidana yang dilakukan oleh Anak lebih singkat daripada Tindak Pidana yang dilakukan oleh orang dewasa. Ayat (3) Cukup jelas. Angka24 Pasal 196 Angka 25 Pasal 243 Ang)<a 26 Pasal 251 Cukup jelas. Angka2T Pasal 263 Ayat (l) Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Yang dimaksud dengan "mempersiapkan" misalnya, mempersiapkan perubahan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Ayat (1) Yang dimaksud dengan "disabilitas" adalah kondisi atau keadaan seseorang yang mengalami keterbatasan fisik, intelektual, mental, dan/ atau sensorik dalam jangka waktu lama yang dalam berinteraksi dengan lingkungan dapat mengalami hambatan dan kesulitan untuk berpartisipasi secara penuh dan efektif dengan warga negara lainnya berdasarkan kesamaan hak. Ayat (21 Cukup jelas.
@@ -1239,18 +1247,14 @@ Angka 28 Pasal 264 Lihat penjelasan Pasal 190 ayat (2). Angka 29 Pasal 281 Cukup
 
 ketentuan peraturan perundang-undangan di bidang keimigrasian.
 
-## Angka 38
-
-Pasal 407
-
+**Angka 38**
+#### Pasal 407 ^penjelasan-pasal-407
 Penafsiran pengertian Pornograli disesuaikan dengan standar yang berlaku pada masyarakat dalam waktu dan tempat tertentu (contemporary communitg standarQ.
 
 Membuat Pornografi dalam ketentuan ini tidak termasuk untuk diri sendiri atau kepentingan sendiri.
 
 Angka 39
-
-Pasal 433
-
+#### Pasal 433 ^penjelasan-pasal-433
 Ayat (1)
 
 Sifat dari perbuatan pencemaran dalam ketentuan ini merupakan perbuatan penghinaan yang dilakukan dengan cara menuduh, baik secara lisan, tulisan, maupun dengan gambar, yang menyerang kehormatan dan nama baik seseorang, sehingga merugikan orang tersebut. Perbuatan yang dituduhkan tidak perlu harus suatu Tindak Pidana. Tindak Pidana menumt ketentuan dalam pasal ini objeknya adalah orang perseorangan. Penistaan terhadap lembaga pemerintah atau sekelompok orang tidak termasuk ketentuan Pasal ini.
@@ -1264,25 +1268,19 @@ Ayat (3)
 Sifat melawan hukum dari perbuatan tersebut ditiadakan karena perbuatan tersebut dilakukan untuk kepentingan umum atau terpaksa membela diri.
 
 Angka 40
-
-Pasal 455
-
+#### Pasal 455 ^penjelasan-pasal-455
 Cukup jelas.
 
 Angka 4l
-
-Pasal 457
-
+#### Pasal 457 ^penjelasan-pasal-457
 Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN R,EPUELIK INDONESIA
+**PRESIDEN R,EPUELIK INDONESIA**
 
-## Ar:gka42
-
-Pasal 458
-
+**Ar:gka42**
+#### Pasal 458 ^penjelasan-pasal-458
 Ayat (1)
 
 Pembunuhan selalu diartikan bahwa Korban harus mati dan kematian ini dikehendaki oleh pelaku. Dengan demikian pengertian pembunuhan secara implisit mengandung unsur kesengajaan. Apabila tidak ada unsur kesengajaan atau tidak ada niat atau maksud untuk mematikan orang, tetapi kemudian ternyata orang tersebut mati, perbuatan tersebut tidak dapat dikualifikasikan sebagai Tindak Pidana pembunuhan menurut ayat ini.
@@ -1297,10 +1295,8 @@ Ayat (3)
 
 Cukup jelas.
 
-## Angka 43
-
-Pasal 466
-
+**Angka 43**
+#### Pasal 466 ^penjelasan-pasal-466
 Ayat (1)
 
 Ketentuan ini tidak memberi perumusan mengenai pengertian penganiayaan. Hal ini diserahkan kepada penilaian hakim untuk memberikan interpretasi terhadap kasus yang dihadapi sesuai dengan perkembangan nilainilai sosial dan budaya serta perkembangan dunia kedokteran. Ini berarti bahwa pengertian penganiayaan tidak harus berarti terbatas pada penganiayaan Iisik dan sebaliknya tidak setiap penderitaan fisik selalu diartikan sebagai penganiayaan.
@@ -1315,14 +1311,12 @@ Cukup jelas.
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 Ayat (4)
 
-## Angka 44
-
-Pasal 473
-
+**Angka 44**
+#### Pasal 473 ^penjelasan-pasal-473
 Cukup jelas. Ayat (s) Cukup jelas. Perbuatan dalam Pasal ini dimaksudkan untuk atau sebagai bagian dari kegiatan/kekerasan seksual. Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Yang dimaksud dengan "Korban" adalah suami atau istri. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Ayat (10) Cukup jelas. Ayat (11)
 
 Cukup jelas.
@@ -1359,11 +1353,11 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 7153
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 LAMPIRAN I UNDANG-UNDANG REPUBLIK INDONESIA NOMOR I TAHUN 2026 TENTANG PENYESUAIAN PIDANA
 
-## DAFTAR PERUBAHAN KETENTUAN PIDANA DALAM UNDANG-UNDANG DI LUAR UNDANG-UNDANG NOMOR I TAHUN 2023 TENTANG KITAB UNDANG-UNDANG HUKUM PIDANA
+**DAFTAR PERUBAHAN KETENTUAN PIDANA DALAM UNDANG-UNDANG DI LUAR UNDANG-UNDANG NOMOR I TAHUN 2023 TENTANG KITAB UNDANG-UNDANG HUKUM PIDANA**
 
 |   Nomor | Undang-Undang                                     | Pasal & ayat   | Ancaman Pidana setelah                                                                                      |
 |---------|---------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -1376,7 +1370,7 @@ LAMPIRAN I UNDANG-UNDANG REPUBLIK INDONESIA NOMOR I TAHUN 2026 TENTANG PENYESUAI
 
 <!-- image -->
 
-## iIrIIEIEtrN REFUBLIK INDONESIA
+**iIrIIEIEtrN REFUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                 | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                                 |
 |---------|-----------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1394,7 +1388,7 @@ LAMPIRAN I UNDANG-UNDANG REPUBLIK INDONESIA NOMOR I TAHUN 2026 TENTANG PENYESUAI
 
 <!-- image -->
 
-## PRESIDEN BUK INDONESIA
+**PRESIDEN BUK INDONESIA**
 
 |   Nomor | Undang-Undang                  | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|--------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -1410,7 +1404,7 @@ LAMPIRAN I UNDANG-UNDANG REPUBLIK INDONESIA NOMOR I TAHUN 2026 TENTANG PENYESUAI
 
 <!-- image -->
 
-## u l-*MItrtrN K INDONESIA
+**u l-*MItrtrN K INDONESIA**
 
 |   Nomor | Undang-Undang                                       | Pasal & ayat   | Ancaman Pidana setelah                                                                                                      |
 |---------|-----------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -1428,7 +1422,7 @@ LAMPIRAN I UNDANG-UNDANG REPUBLIK INDONESIA NOMOR I TAHUN 2026 TENTANG PENYESUAI
 
 <!-- image -->
 
-## E[ Tdd-iFIIET'N INDONESIA
+**E[ Tdd-iFIIET'N INDONESIA**
 
 |   Nomor | Undang-Undang                                   | Pasal & ayat   | Ancaman Pidana setelah                                                                                      |
 |---------|-------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -1443,7 +1437,7 @@ LAMPIRAN I UNDANG-UNDANG REPUBLIK INDONESIA NOMOR I TAHUN 2026 TENTANG PENYESUAI
 
 <!-- image -->
 
-## PITESIDEN INDONESIA
+**PITESIDEN INDONESIA**
 
 | Nomor   | Undang-Undang                                                           | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                                                              |
 |---------|-------------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1459,7 +1453,7 @@ LAMPIRAN I UNDANG-UNDANG REPUBLIK INDONESIA NOMOR I TAHUN 2026 TENTANG PENYESUAI
 
 <!-- image -->
 
-## trlrFEIIitrN REPUELIK INDONESIA
+**trlrFEIIitrN REPUELIK INDONESIA**
 
 | Nomor   | Undang-Undang                        |   Pasal & ayat | Ancaman Pidana setelah                                                                                                                                                      |
 |---------|--------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1472,7 +1466,7 @@ LAMPIRAN I UNDANG-UNDANG REPUBLIK INDONESIA NOMOR I TAHUN 2026 TENTANG PENYESUAI
 
 <!-- image -->
 
-## PRESIDEN INDONESIA
+**PRESIDEN INDONESIA**
 
 |   Nomor | Undang-Undang                                                | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|--------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -1491,7 +1485,7 @@ Tahun
 
 <!-- image -->
 
-## t=TtrEIEtrN KIN
+**t=TtrEIEtrN KIN**
 
 |   Nomor | Undang-Undang                                         | Pasal & ayat   | Ancaman Pidana setelah                                                                                      |
 |---------|-------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -1507,7 +1501,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                       | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                                                          |
 |---------|---------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1521,7 +1515,7 @@ Tahun
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                            | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                                                                                   |
 |---------|------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1536,7 +1530,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN NEPUBLIK INDONESIA
+**PRESIDEN NEPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                            | Pasal & ayat        | Ancaman Pidana setelah                                                                                                                      |
 |---------|------------------------------------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1554,7 +1548,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                                    | Pasal & ayat       | Ancaman Pidana setelah                                                                                                                                                       |
 |---------|--------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1570,7 +1564,7 @@ Tahun
 
 <!-- image -->
 
-## I PRESIDEN K INDONESIA
+**I PRESIDEN K INDONESIA**
 
 |   Nomor | Undang-Undang                                                       | Pasal & ayat   | Ancaman Pidana setelah                                                                                                      |
 |---------|---------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -1586,7 +1580,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                  | Pasal & ayat   | Ancaman Pidana setelah                                                                                                      |
 |---------|----------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -1602,7 +1596,7 @@ Tahun
 
 <!-- image -->
 
-## I=Iil:FITTFN K INDONESIA
+**I=Iil:FITTFN K INDONESIA**
 
 |   Nomor | Undang-Undang                                 | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|-----------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -1618,7 +1612,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -1634,7 +1628,7 @@ Tahun
 
 <!-- image -->
 
-## P]IESIDEN REPUEUK INDONESIA
+**P]IESIDEN REPUEUK INDONESIA**
 
 |   Nomor | Undang-Undang               | Pasal & ayat   | Ancaman Pidana setelah Penyesuaian                                                                                     |
 |---------|-----------------------------|----------------|------------------------------------------------------------------------------------------------------------------------|
@@ -1651,7 +1645,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESIA
+**PRESIDEN BLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                            | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|----------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -1669,7 +1663,7 @@ Tahun
 
 <!-- image -->
 
-## FEESIDEN REPUBLIK INDONESIA
+**FEESIDEN REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                              | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|--------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -1686,7 +1680,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESIA
+**PRESIDEN REFUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                   | Pasal & ayat   | Ancaman Pidana setelah                                                                                         |
 |---------|-------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------|
@@ -1700,7 +1694,7 @@ Tahun
 
 <!-- image -->
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 -22-
 
@@ -1718,7 +1712,7 @@ Tahun
 
 <!-- image -->
 
-## l-Ill{{fa]-{Il K IND A
+**l-Ill{{fa]-{Il K IND A**
 
 |   Nomor | Undang-Undang                     | Pasal & ayat   | Ancaman Pidana se telah                                                                                                     |
 |---------|-----------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -1734,7 +1728,7 @@ Tahun
 
 <!-- image -->
 
-## iI:I-{{FT{I] REPUBLIK INDONESIA
+**iI:I-{{FT{I] REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidaaa setelah                                                                                                      |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -1750,7 +1744,7 @@ Tahun
 
 <!-- image -->
 
-## PIIESIDEN REPUELIK INDONESIA
+**PIIESIDEN REPUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                                 | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-----------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -1766,7 +1760,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                            | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                             |
 |---------|--------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1782,7 +1776,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIOEN REPUELIK INDONESIA
+**PRESIOEN REPUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                                                                                                      |
 |---------|------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1799,7 +1793,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                         | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                                              |
 |---------|---------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1815,7 +1809,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN R.EPUEUK INDONESIA
+**PRESIDEN R.EPUEUK INDONESIA**
 
 |   Nomor | Undang-Undang                       | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                                   |
 |---------|-------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1829,7 +1823,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                            | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|----------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -1845,7 +1839,7 @@ Tahun
 
 <!-- image -->
 
-## l-Ifsffal-{Il K INDONESIA
+**l-Ifsffal-{Il K INDONESIA**
 
 -31 -
 
@@ -1863,7 +1857,7 @@ Tahun
 
 <!-- image -->
 
-## l-IJ-FIIIITN K IND A
+**l-IJ-FIIIITN K IND A**
 
 |   Nomor | Undang-Undang                   | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|---------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -1881,7 +1875,7 @@ Tahun
 
 <!-- image -->
 
-## PTIESIDEN REPUBLIK INDONESIA
+**PTIESIDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancamqn Pidana setelah                                                                                          |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -1897,7 +1891,7 @@ Tahun
 
 <!-- image -->
 
-## REPIJBLIK INDONESIA
+**REPIJBLIK INDONESIA**
 
 -34-
 
@@ -1913,7 +1907,7 @@ Tahun
 
 <!-- image -->
 
-## rf;FEIIitrN K INDONESIA
+**rf;FEIIitrN K INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                             |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -1929,7 +1923,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 |   Nomor | Undang-Undang                                       | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|-----------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -1945,7 +1939,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|--------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -1961,7 +1955,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                    | Pasal & ayat   | Ancaman Pidana setelah                                                                                             |
 |---------|----------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -1977,7 +1971,7 @@ Tahun
 
 <!-- image -->
 
-## TTIT{T;I{I UBLIK IND A
+**TTIT{T;I{I UBLIK IND A**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -1993,7 +1987,7 @@ Tahun
 
 <!-- image -->
 
-## K IND .:FIA
+**K IND .:FIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                             |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -2011,7 +2005,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REFIJBLIK INDONESIA
+**PRESIDEN REFIJBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -2027,7 +2021,7 @@ Tahun
 
 <!-- image -->
 
-## REFUBLIK INDONESIA
+**REFUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -2043,7 +2037,7 @@ Tahun
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                           | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|---------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -2060,7 +2054,7 @@ Tahun
 
 <!-- image -->
 
-## FRESIDEN REPI.JBLIK INDONESIA
+**FRESIDEN REPI.JBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                 |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------|
@@ -2076,7 +2070,7 @@ Tahun
 
 <!-- image -->
 
-## PR,ESIDEN BLIK INDONESIA
+**PR,ESIDEN BLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                        |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------|
@@ -2094,7 +2088,7 @@ Tahun
 
 <!-- image -->
 
-## PRESTDEN REPUBLIK INDONESIA
+**PRESTDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                 | Ancaman Pidana setelah               |
 |---------|-----------------|----------------|--------------------------------------------------------|--------------------------------------|
@@ -2111,7 +2105,7 @@ Tahun
 
 <!-- image -->
 
-## ]IEFUELIK INDONESIA
+**]IEFUELIK INDONESIA**
 
 -47-
 
@@ -2130,7 +2124,7 @@ Tahun
 
 <!-- image -->
 
-## PRES!DEN REFUEUK INDONESIA
+**PRES!DEN REFUEUK INDONESIA**
 
 -44-
 
@@ -2150,7 +2144,7 @@ Tahun
 
 <!-- image -->
 
-## tt'T{X REPUBLIK INDONESIA
+**tt'T{X REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                           | Pasal & ayat   | Ancaman Pidana setelah                                                                                        |
 |---------|-----------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------|
@@ -2166,7 +2160,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 |   Nomor | Undang-Undang                                                 | Pasal & ayat   | Ancaman Pidana setelah                                                                                      |
 |---------|---------------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -2183,7 +2177,7 @@ Tahun
 
 <!-- image -->
 
-## REPUBUK !NDONESIA
+**REPUBUK !NDONESIA**
 
 |   Nomor | Undang-Undang                                                       | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|---------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -2200,7 +2194,7 @@ Tahun
 
 <!-- image -->
 
-## PIIES!DEN REPUBLIK INDONESIA
+**PIIES!DEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -2216,7 +2210,7 @@ Tahun
 
 <!-- image -->
 
-## FRESIDEN REFUBUK INDONESIA
+**FRESIDEN REFUBUK INDONESIA**
 
 |   Nomor | Undang-Undang                   | Pasal & ayat   | Ancaman Pidana setelah                                                                                         |
 |---------|---------------------------------|----------------|----------------------------------------------------------------------------------------------------------------|
@@ -2233,7 +2227,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                           | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -2249,7 +2243,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESIA
+**PRESIDEN REFUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                             | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|-------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -2265,7 +2259,7 @@ Tahun
 
 <!-- image -->
 
-## FRESIDEN REFUELIK INOONESIA
+**FRESIDEN REFUELIK INOONESIA**
 
 |   Nomor | Undang-Undang                      | Pasal & ayat   | Ancaman Pidana setelah                                                                                             |
 |---------|------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -2281,7 +2275,7 @@ Tahun
 
 <!-- image -->
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                      | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -2297,7 +2291,7 @@ Tahun
 
 <!-- image -->
 
-## lIrLEItrtrN REPUELIK INDONESIA
+**lIrLEItrtrN REPUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                                         | Pasal & ayat   | Ancaman Pidana setelah                                                                                 |
 |---------|-------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------|
@@ -2315,7 +2309,7 @@ Tahun
 
 <!-- image -->
 
-## TIf+TfrI{Il K INDONESIA
+**TIf+TfrI{Il K INDONESIA**
 
 |   Nomor | Undang-Undang                      | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -2331,7 +2325,7 @@ Tahun
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 -60-
 
@@ -2349,7 +2343,7 @@ Tahun
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                       | Pasal & ayat   | Ancaman Pidana setelah                                                                                      |
 |---------|-------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -2367,7 +2361,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRES!DEN REPUEUK INDONESIA
+**PRES!DEN REPUEUK INDONESIA**
 
 -62-
 
@@ -2387,7 +2381,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## FIIESIDEN REFUBUK INDONESIA
+**FIIESIDEN REFUBUK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -2403,7 +2397,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## INDONESIA
+**INDONESIA**
 
 | Nomor   | Undang-Undang                  | Pasal & ayat   | Ancaman Pidana setelah                                                                                         |
 |---------|--------------------------------|----------------|----------------------------------------------------------------------------------------------------------------|
@@ -2421,7 +2415,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## ETFEITIIIN K INDONESIA
+**ETFEITIIIN K INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                  | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                               |
 |---------|----------------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2435,7 +2429,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## Ef+fl-tl{I BLIK IN
+**Ef+fl-tl{I BLIK IN**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -2453,7 +2447,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                         |
 |---------|-----------------|----------------|----------------------------------------------------------------------------------------------------------------|
@@ -2469,7 +2463,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## FRESIDEN BLIK INDONESIA
+**FRESIDEN BLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                 | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-----------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -2485,7 +2479,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## l-III.FIIIIiN K INDONESIA
+**l-III.FIIIIiN K INDONESIA**
 
 |   Nomor | Undang-Undang                          | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|----------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -2501,7 +2495,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                            | Pasal & ayat   | Ancaman Pidana setelah                                                                                         |
 |---------|----------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------|
@@ -2518,7 +2512,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN NEPUBLIK INDONESIA
+**PRESIDEN NEPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                    | Pasal & ayat   | Ancaman Pidana setelah                                                                                         |
 |---------|--------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------|
@@ -2534,7 +2528,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## INDONESIA
+**INDONESIA**
 
 |   Nomor | Undang-Undang                                                                       | Pasal & ayat         | Ancaman Pidana setelah                                                                                     |
 |---------|-------------------------------------------------------------------------------------|----------------------|------------------------------------------------------------------------------------------------------------|
@@ -2549,7 +2543,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESIA.
+**PRESIDEN REFUBLIK INDONESIA.**
 
 |   Nomor | Undang-Undang                                                      | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|--------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -2565,7 +2559,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## FRESIOEN REPUELTK INDONESIA
+**FRESIOEN REPUELTK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                               |
 |---------|-----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2583,7 +2577,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## BUK INDONESIA
+**BUK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                              |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2600,7 +2594,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -76rO2ayat(21 ...
 
@@ -2617,7 +2611,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -77 -
 
@@ -2637,7 +2631,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## FRESIDEN R,EPUBUK INDONESIA
+**FRESIDEN R,EPUBUK INDONESIA**
 
 \_78\_
 
@@ -2655,7 +2649,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## l-!ild.{tl]I{Il K INDONESIA
+**l-!ild.{tl]I{Il K INDONESIA**
 
 |   Nomor | Undang-Undang                      | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -2669,7 +2663,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN R.EPUBLIK INDONESIA
+**PRESIDEN R.EPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                      | Pasal & ayat   | Ancaman Pidana setclah                                                                                            |
 |---------|------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------|
@@ -2685,7 +2679,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang                                     | Pasd & ayat   | Ancaman Pidana setelah                                                                                         |
 |---------|---------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------|
@@ -2701,7 +2695,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -a2-
 
@@ -2719,7 +2713,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## BLIK INDONESIA
+**BLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -2738,7 +2732,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PEESIDEN REPTJBLIK INDONESIA
+**PEESIDEN REPTJBLIK INDONESIA**
 
 -84-
 
@@ -2756,7 +2750,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 | Nomor   | Undang-Undang                                   | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                                                   |
 |---------|-------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2772,7 +2766,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## u lrl{=FITII!N K INDONESIA
+**u lrl{=FITII!N K INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -2788,7 +2782,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -2804,7 +2798,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN NEFUBLIK INDONESIA
+**PRESIDEN NEFUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancarnan Pidana set€lah                                                                                             |
 |---------|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -2820,7 +2814,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPI.IBLIK INDONESIA
+**PRESIDEN REPI.IBLIK INDONESIA**
 
 -89-
 
@@ -2838,7 +2832,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESTDEN REPIJELIK INDONESIA
+**PRESTDEN REPIJELIK INDONESIA**
 
 |   Nomor | Undang-Undang                    | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|----------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -2854,7 +2848,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang                       | Pasal & ayat   | Ancaman Pidana setelah                                                                                             |
 |---------|-------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -2870,7 +2864,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## FRESIDEN ELIK INDON
+**FRESIDEN ELIK INDON**
 
 | Nomor   | Undang-Undang                                                                                                                                                                                                                    | Pasal & ayat   | Ancaman Pidana setclah                                                                                              |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -2885,7 +2879,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN K INDONESIA
+**PRESIDEN K INDONESIA**
 
 | Nomor   | Undang-Undang                                                                                                                                                                                                                           | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -2900,7 +2894,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPIJELIK INDONESIA
+**PRESIDEN REPIJELIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah Penyesuaian                                                                                 |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -2916,7 +2910,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPI.JBLIK INDONESIA
+**PRESIDEN REPI.JBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                        |
 |---------|-----------------|----------------|---------------------------------------------------------------------------------------------------------------|
@@ -2932,7 +2926,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PIIESIDEN REPTIBLIK INDONESIA
+**PIIESIDEN REPTIBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                             |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -2950,7 +2944,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## FRESIDEN REPTJBUK INDONESIA
+**FRESIDEN REPTJBUK INDONESIA**
 
 | Nomor   | Undang-Undang               | Pasal & ayat   | Ancaman Pidana setelah                                                                                             |
 |---------|-----------------------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -2966,7 +2960,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRES!DEN REPUELIK INDONESIA
+**PRES!DEN REPUELIK INDONESIA**
 
 -98-
 
@@ -2986,7 +2980,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PPESIDEN REPUBLIK INDONESIA
+**PPESIDEN REPUBLIK INDONESIA**
 
 -99-
 
@@ -3012,7 +3006,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah Penyesuaian                                                                                          |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -3030,7 +3024,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -101 -
 
@@ -3050,7 +3044,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -to2-
 
@@ -3068,7 +3062,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPIJELIK INDONESIA
+**PRESIDEN REPIJELIK INDONESIA**
 
 | Nomor   | Undang-Undang   |   Pasal & ayat | Ancaman Pidana setelah                                                                                                      |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -3084,7 +3078,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPIJBLIK INDONESIA
+**PRESIDEN REPIJBLIK INDONESIA**
 
 -lo4-
 
@@ -3102,7 +3096,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPI.JBLIK INOONESIA
+**PRESIDEN REPI.JBLIK INOONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -3118,7 +3112,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPIJELIK INDONESIA
+**PRESIDEN REPIJELIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                         | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -3134,7 +3128,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 | Nomor   | Undang-Undang                                      | Pasal & ayat   | Ancaman Pidana setelah Penyesuaian                                                                                                 |
 |---------|----------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------|
@@ -3150,7 +3144,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPIJELIK INDONESIA
+**PRESIDEN REPIJELIK INDONESIA**
 
 | Nomor   | Undang-Undang                                                        | Pasal & ayat   | Ancaman Pidana setelah                                                                                                      |
 |---------|----------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -3167,7 +3161,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBL|K INDONESIA
+**PRESIDEN REPUBL|K INDONESIA**
 
 -r09-
 
@@ -3185,7 +3179,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## REPUBLIK INDONESIA. PRESIDEN
+**REPUBLIK INDONESIA. PRESIDEN**
 
 - 110 -
 
@@ -3203,9 +3197,9 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
-## - 111-
+**- 111-**
 
 |   Nomor | Undang-Undang                                                                                          | Pasal & ayat   | Ancaman Pidana setelah Penyesuaian                                                                          |
 |---------|--------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -3223,9 +3217,9 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
-## \_tt2\_
+**\_tt2\_**
 
 | Nomor   | Undang-Undang                      | Pasal & ayat   | Ancaman Pidana setelah                                                                                      |
 |---------|------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -3243,7 +3237,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PIIESIDEN R,EPUBLIK INDONESIA
+**PIIESIDEN R,EPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                       | Pasal & ayat   | Ancaman Pidana setelah                                                                                             |
 |---------|-----------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -3259,7 +3253,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REFIJBUK INDONESIA
+**PRESIDEN REFIJBUK INDONESIA**
 
 | Nomor   | Undang-Undang                                   | Pasal & ayat   | Ancaman Pidana setelah                                                                                             |
 |---------|-------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -3275,7 +3269,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang                                                                                                                                     | Pasal & ayat   | Ancaman Pidana setelah Penyesuaian                                                                                                                                                                                                                                                                                                              |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3289,7 +3283,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 -116-
 
@@ -3308,7 +3302,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REFUELIK INDONESIA
+**PRESIDEN REFUELIK INDONESIA**
 
 | Nomor   | Undang-Undang                                                                    | Pasal & ayat         | Ancaman Pidana setelah                                                                                                                                                                             |
 |---------|----------------------------------------------------------------------------------|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3324,7 +3318,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## i.trETTLilTTNTitrNhEIA
+**i.trETTLilTTNTitrNhEIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3340,7 +3334,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 - 119 -
 
@@ -3357,7 +3351,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPI'BLIK INDONESIA
+**PRESIDEN REPI'BLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3373,7 +3367,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## BLIK INDONESIA
+**BLIK INDONESIA**
 
 | Nomor   |                                                                                                                                         | Pasal & ayat          |                                                                                                                     |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3390,7 +3384,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUEUK INDONESIA
+**PRESIDEN REPUEUK INDONESIA**
 
 | Nomor   | Undang-Undang                                                    | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3407,7 +3401,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## FRESIDEN REPUBLIK INDONESIA
+**FRESIDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pdsal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -3423,7 +3417,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDON
+**PRESIDEN REPUBLIK INDON**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -3441,7 +3435,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                              | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3459,7 +3453,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN PUBLIK INDONESIA
+**PRESIDEN PUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -3477,7 +3471,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## l-IrI-+Tf'I{I UBUK IND A
+**l-IrI-+Tf'I{I UBUK IND A**
 
 | Nomor   | Undang-Undang                                                                                                                                                                                                   | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3491,7 +3485,7 @@ ll4 ayat (21 . . .
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                                                                                                                                                                                                                                                                                                                              | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -3504,7 +3498,7 @@ t49...
 
 <!-- image -->
 
-## l-Itl-EILIiN UK INOONESIA
+**l-Itl-EILIiN UK INOONESIA**
 
 | Nomor   | Undang-Undang                                                                                                                                                                                               | Pasal & ayat   | Ancaman Pidana setelah                                                                                      |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -3515,7 +3509,7 @@ t49...
 
 <!-- image -->
 
-## FRESIDEN REFUBUK INDONESIA
+**FRESIDEN REFUBUK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                                                                                                                                                                                                                                            | Pasal & ayat   | Ancaman Pidana set€lah                                                                                       |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -3532,7 +3526,7 @@ t49...
 
 <!-- image -->
 
-## rfrFEltrtrN UK INDONESIA
+**rfrFEltrtrN UK INDONESIA**
 
 -131 -
 
@@ -3545,7 +3539,7 @@ t49...
 
 <!-- image -->
 
-## PTIES!DEN REFUBUK INDONESIA
+**PTIES!DEN REFUBUK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                                                                                                                                                                                                                                                                                   | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -3556,7 +3550,7 @@ t49...
 
 <!-- image -->
 
-## REPIJBLIK INDONESIA
+**REPIJBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                             |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------------|
@@ -3570,7 +3564,7 @@ t49...
 
 <!-- image -->
 
-## REPUEUK INDONESIA
+**REPUEUK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                                                                                   | Pasal & ayat        | Ancaman Pidana setelah                                                                                                                             |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3585,7 +3579,7 @@ t49...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat        | Ancaman Pidana setelah                                                                                                                             |
 |---------|-----------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3599,7 +3593,7 @@ t49...
 
 <!-- image -->
 
-## rFSItrtrN REPUBUK INDONESIA
+**rFSItrtrN REPUBUK INDONESIA**
 
 - 136-
 
@@ -3613,7 +3607,7 @@ t49...
 
 <!-- image -->
 
-## FRESIDEN REPUELIK INDONESIA
+**FRESIDEN REPUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                                                                                                                                                                                                                                                                              | Pasal & ayat   | Ancaman Pidana setelah                                                                                      |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -3624,7 +3618,7 @@ t49...
 
 <!-- image -->
 
-## ,f;FFItrIlN REFUBUK INDONESIA
+**,f;FFItrIlN REFUBUK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                                                                                                    | Pasal & ayat   | Ancaman Pidana setelah                                                                                                |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -3640,7 +3634,7 @@ t49...
 
 <!-- image -->
 
-## PR,ESIDEN REPUBLIK INDONESIA
+**PR,ESIDEN REPUBLIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                          | Pasal & ayat   | Ancaman Pidana setelah                                                                                                                               |
 |---------|--------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3656,7 +3650,7 @@ t49...
 
 <!-- image -->
 
-## R,EPIJELIK INDONESIA
+**R,EPIJELIK INDONESIA**
 
 | Nomor   | Undang-Undang                                                                                                                                                                                                                    | Pasal & ayat   | Ancaman Pidana setelah                                                                                       |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -3669,7 +3663,7 @@ t49...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 -t4t-
 
@@ -3684,7 +3678,7 @@ t49...
 
 <!-- image -->
 
-## PUELIK INDONESIA
+**PUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                                                        | Pasal & ayat                                                                                                  | Ancaman Pidana setelah                                                                                       |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -3700,7 +3694,7 @@ t49...
 
 <!-- image -->
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                                                                                              | Pasal & ayat   | Ancaman Pidana setelah                                                                                         |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------|
@@ -3716,7 +3710,7 @@ t49...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                      |
 |---------|-----------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -3732,7 +3726,7 @@ t49...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                                                                                                 | Pasal & ayat   | Ancaman Pidana setel,ah                                                                                     |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -3748,7 +3742,7 @@ t49...
 
 <!-- image -->
 
-## l-IiIlEItrtrN UK INN?NESIA
+**l-IiIlEItrtrN UK INN?NESIA**
 
 | Nomor   | Undang-Undang                                                                                                                | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|------------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3766,7 +3760,7 @@ t49...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 | Nomor   | Undang-Undang                                                                                                                                    | Pasal & ayat   | Ancaman Pidana setelah                                                                                     |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------|
@@ -3779,7 +3773,7 @@ t49...
 
 <!-- image -->
 
-## PR,ESIDEN REFUBUK INDONESIA
+**PR,ESIDEN REFUBUK INDONESIA**
 
 | Nomor   | Undang-Undang                                                                                                                                                                                                   | Pasal & ayat   | Ancaman Pidana setelah                                                                                         |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------|
@@ -3791,7 +3785,7 @@ t49...
 
 <!-- image -->
 
-## PRESIDEN REFUBLIK INDONESIA
+**PRESIDEN REFUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang                                                                                                                                                                                                       | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3805,7 +3799,7 @@ t49...
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 -150-
 
@@ -3820,7 +3814,7 @@ t49...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 | Nomor   | Undang-Undang                                                                                                                                                                                                                                                | Pasal & ayat   | Ancaman Pidana setelah                                                                                      |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
@@ -3831,7 +3825,7 @@ t49...
 
 <!-- image -->
 
-## PUELIK INDONESIA
+**PUELIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah                                                                                        |
 |---------|-----------------|----------------|---------------------------------------------------------------------------------------------------------------|
@@ -3847,7 +3841,7 @@ t49...
 
 <!-- image -->
 
-## BLIK INDONESIA
+**BLIK INDONESIA**
 
 |   Nomor | Undang-Undang                     | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|-----------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3863,7 +3857,7 @@ t49...
 
 <!-- image -->
 
-## illliFITal-N BLIK INDONESIA
+**illliFITal-N BLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setclah                                                                              |
 |---------|-----------------|----------------|-----------------------------------------------------------------------------------------------------|
@@ -3882,7 +3876,7 @@ t49...
 
 <!-- image -->
 
-## i!irFITatiN REPUBUK INDONESIA
+**i!irFITatiN REPUBUK INDONESIA**
 
 |   Nomor | Undang-Undang                                                                                                                    | Pasal & ayat   | Ancaman Pidana setelah                                                                                          |
 |---------|----------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -3899,7 +3893,7 @@ t49...
 
 <!-- image -->
 
-## BLIK INDONESIA
+**BLIK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah Penyesuaian                                                                                  |
 |---------|-----------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3915,7 +3909,7 @@ t49...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA,
+**PRESIDEN REPUBLIK INDONESIA,**
 
 |   Nomor | Undang-Undang                                                                                    | Pasal & ayat   | Ancaman Pidana setelah                                                                                              |
 |---------|--------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
@@ -3930,7 +3924,7 @@ t49...
 
 <!-- image -->
 
-## PRESIDEN ]IEPUEUK INDONESIA
+**PRESIDEN ]IEPUEUK INDONESIA**
 
 | Nomor   | Undang-Undang   | Pasal & ayat   | Ancaman Pidana setelah Penyesuaian                                                                           |
 |---------|-----------------|----------------|--------------------------------------------------------------------------------------------------------------|
@@ -3943,7 +3937,7 @@ PRESIDEN REPUBLIK INDONESIA,
 
 ttd.
 
-## PRABOWO SUBIANTO
+**PRABOWO SUBIANTO**
 
 Salinan sesuai dengan aslinya KEMENTERIAN SEKRETARIAT NEGARA REPUBLIK INDONESIA
 
@@ -3953,7 +3947,7 @@ Perundang-undangan dan trasi Hukum,
 
 <!-- image -->
 
-## FIIESIDEN REPUBUK INDONESIA
+**FIIESIDEN REPUBUK INDONESIA**
 
 LAMPIRAN II UNDANG-UNDANG REPUBLIK INDONESIA NOMOR l TAHUN 2026 TENTANG PEI\TYESUAIAN PIDANA
 
@@ -3970,7 +3964,7 @@ PERUBAHAN KETENTUAN PIDANA DALAM UNDANG-UNDANG NOMOR 35 TAHUN 2OO9 TENTANG NARKO
 
 <!-- image -->
 
-## PIIESIDEN BUK INDONESTA
+**PIIESIDEN BUK INDONESTA**
 
 | Pasal        | Perubahan Ketentual Pidana                                                                                                                                                                                  |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3989,7 +3983,7 @@ PERUBAHAN KETENTUAN PIDANA DALAM UNDANG-UNDANG NOMOR 35 TAHUN 2OO9 TENTANG NARKO
 
 <!-- image -->
 
-## PRESIDEN K INDONESIA
+**PRESIDEN K INDONESIA**
 
 | Pasal        | Perubahan Ketentuan Pidana                                                                                                                                           |
 |--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -4022,7 +4016,7 @@ PRESIDEN REPUBLIK INDONESIA,
 
 ttd.
 
-## PRABOWO SUBIANTO
+**PRABOWO SUBIANTO**
 
 Salinan sesuai dengan aslinya KEMENTERIAN SEKRETARIAT NEGARA REPUBLIK INDONESIA
 
@@ -4086,7 +4080,7 @@ RpsO.O00.00O,0o Rp450.000.O00,O0 Rp 1.500.00O.0O0,00 Rp4.O00.00O.0O0,O0 RpI.OOO.
 
 <!-- image -->
 
-## PRESIDEN INDONESIA
+**PRESIDEN INDONESIA**
 
 | Keterangan                | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |---------------------------|-------------------------------|----------------------------|
@@ -4122,7 +4116,7 @@ RpsO.O00.00O,0o Rp450.000.O00,O0 Rp 1.500.00O.0O0,00 Rp4.O00.00O.0O0,O0 RpI.OOO.
 
 <!-- image -->
 
-## EtFEITttiN REPUBUK INDONESIA
+**EtFEITttiN REPUBUK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4158,7 +4152,7 @@ RpsO.O00.00O,0o Rp450.000.O00,O0 Rp 1.500.00O.0O0,00 Rp4.O00.00O.0O0,O0 RpI.OOO.
 
 <!-- image -->
 
-## TI{'!FIIEI-N K INDONESIA
+**TI{'!FIIEI-N K INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4196,7 +4190,7 @@ RpsO.O00.00O,0o Rp450.000.O00,O0 Rp 1.500.00O.0O0,00 Rp4.O00.00O.0O0,O0 RpI.OOO.
 
 <!-- image -->
 
-## ETEFITdTN K INDONESIA
+**ETEFITdTN K INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4232,7 +4226,7 @@ Diatas...
 
 <!-- image -->
 
-## EIIIiEItrtrN KIN
+**EIIIiEItrtrN KIN**
 
 | Keterangan                                                                                                        | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |-------------------------------------------------------------------------------------------------------------------|-------------------------------|----------------------------|
@@ -4269,7 +4263,7 @@ Diatas...
 
 <!-- image -->
 
-## PRESIDEN BLIK INDONESIA
+**PRESIDEN BLIK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4305,7 +4299,7 @@ Diatas...
 
 <!-- image -->
 
-## PRESIDEN REPUBUK INDONESIA
+**PRESIDEN REPUBUK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4375,7 +4369,7 @@ Diatas...
 
 <!-- image -->
 
-## PRESIDEN REPUBLTK INDONESIA
+**PRESIDEN REPUBLTK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4447,7 +4441,7 @@ Diatas...
 
 <!-- image -->
 
-## PRESIDEN TIEPUBUK INDONESIA
+**PRESIDEN TIEPUBUK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4485,7 +4479,7 @@ Diatas...
 
 <!-- image -->
 
-## PRESIDEN ]IEFI.JBLIK INDONESIA
+**PRESIDEN ]IEFI.JBLIK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4521,7 +4515,7 @@ Diatas...
 
 <!-- image -->
 
-## PRES!DEN REPUBUK INDONESIA
+**PRES!DEN REPUBUK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4557,7 +4551,7 @@ Diatas...
 
 <!-- image -->
 
-## PRESIDEN REPUELIK INDONESIA
+**PRESIDEN REPUELIK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4593,7 +4587,7 @@ Diatas...
 
 <!-- image -->
 
-## PRESIDEN
+**PRESIDEN**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4631,7 +4625,7 @@ Diatas...
 
 <!-- image -->
 
-## PRESIDEN REPUBLIK INDONESIA
+**PRESIDEN REPUBLIK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4667,7 +4661,7 @@ Diatas...
 
 <!-- image -->
 
-## PRESIDEN REPIIBLIK INDONESIA
+**PRESIDEN REPIIBLIK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4703,7 +4697,7 @@ Diatas...
 
 <!-- image -->
 
-## PRESIDEN EUK INDONESIA
+**PRESIDEN EUK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4739,7 +4733,7 @@ Diatas...
 
 <!-- image -->
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4775,7 +4769,7 @@ Diatas...
 
 <!-- image -->
 
-## REPUELIK INDONESIA
+**REPUELIK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4811,7 +4805,7 @@ Diatas...
 
 <!-- image -->
 
-## FEPUELI( INDONESIA
+**FEPUELI( INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4847,7 +4841,7 @@ Diatas...
 
 <!-- image -->
 
-## P]TESIDEN
+**P]TESIDEN**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4883,7 +4877,7 @@ Diatas...
 
 <!-- image -->
 
-## BLIK INFIilITd{A
+**BLIK INFIilITd{A**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4919,7 +4913,7 @@ Diatas...
 
 <!-- image -->
 
-## REFUBLIK INDONESIA
+**REFUBLIK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4955,7 +4949,7 @@ Diatas...
 
 <!-- image -->
 
-## EEI-iEIEtrN UK INDONESIA
+**EEI-iEIEtrN UK INDONESIA**
 
 | Keterangan   | Pidana Denda (dalam Rupiah)   | Pidana Penjara Pengganti   |
 |--------------|-------------------------------|----------------------------|
@@ -4973,12 +4967,26 @@ PRESIDEN REPUBLIK INDONESIA,
 
 ttd
 
-## PRABOWO SUBIANTO
+**PRABOWO SUBIANTO**
 
 Salinan sesuai dengan aslinya KEMENTERIAN SEKRETARIAT NEGARA
 
-## REPUBLIK INDONESIA
+**REPUBLIK INDONESIA**
 
 Perundang-undangan dan Hukum,
 
 <!-- image -->
+
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 100 | [[#^penjelasan-pasal-100]] |
+| Pasal 407 | [[#^penjelasan-pasal-407]] |
+| Pasal 433 | [[#^penjelasan-pasal-433]] |
+| Pasal 455 | [[#^penjelasan-pasal-455]] |
+| Pasal 457 | [[#^penjelasan-pasal-457]] |
+| Pasal 458 | [[#^penjelasan-pasal-458]] |
+| Pasal 466 | [[#^penjelasan-pasal-466]] |
+| Pasal 473 | [[#^penjelasan-pasal-473]] |

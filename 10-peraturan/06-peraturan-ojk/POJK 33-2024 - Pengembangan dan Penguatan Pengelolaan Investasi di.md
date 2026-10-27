@@ -19,17 +19,22 @@ sumber: "https://ojk.go.id/id/regulasi/Pages/POJK-33-2024-Pengembangan-dan-Pengu
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Pengembangan dan Penguatan Pengelolaan Investasi di Pasar Modal
+**Pengembangan dan Penguatan Pengelolaan Investasi di Pasar Modal**
 
 **Status:** `berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-33-2024-Pengembangan-dan-Penguatan-Pengelolaan-Investasi-di-Pasar-Modal.aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/POJK-33-2024-Pengembangan-dan-Penguatan-Pengelolaan-Investasi-di-Pasar-Modal.aspx)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -81,10 +86,9 @@ Tahun 2023 tentang Pengembangan dan Penguatan
 Sektor Keuangan, perlu pengaturan lebih lanjut dalam
 Peraturan Otoritas Jasa Keuangan;
 
-
 -----
 
-                       - 2 
+                       - 2
 d. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a, huruf b, dan huruf c, perlu
 menetapkan Peraturan Otoritas Jasa Keuangan tentang
@@ -119,7 +123,7 @@ INVESTASI DI PASAR MODAL.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
 dengan:
 1. Efek adalah surat berharga atau kontrak investasi baik
@@ -142,10 +146,9 @@ saham dan selanjutnya dana dari penjualan saham
 tersebut diinvestasikan pada berbagai jenis efek yang
 diperdagangkan di pasar modal dan pasar uang.
 
-
 -----
 
-            - 3 
+            - 3
 4. Reksa Dana Luar Negeri adalah Reksa Dana atau
 bentuk lain yang dipersamakan dengan Reksa Dana
 yang dikelola oleh manajer investasi negara lain.
@@ -203,10 +206,9 @@ suami atau istri dari cucu;
 4. saudara dari suami atau istri beserta suami
 atau istrinya dari saudara yang bersangkutan;
 
-
 -----
 
-            - 4 
+            - 4
 atau
 5. suami atau istri dari saudara orang yang
 bersangkutan.
@@ -264,10 +266,9 @@ perundang-undangan di sektor jasa keuangan.
 LPE adalah Pihak yang melakukan kegiatan usaha
 pendanaan transaksi Efek.
 
-
 -----
 
-            - 5 
+            - 5
 BAB II
 REKSA DANA MENERIMA DAN/ATAU MEMBERIKAN
 
@@ -277,7 +278,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 2
+### Pasal 2 ^pasal-2
 Reksa Dana dalam Peraturan Otoritas Jasa Keuangan ini
 wajib mengikuti:
 a. Peraturan Otoritas Jasa Keuangan mengenai reksa
@@ -290,14 +291,14 @@ terkait lainnya,
 kecuali diatur khusus dalam Peraturan Otoritas Jasa
 Keuangan ini.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 Reksa Dana dapat menerima dan/atau memberikan
 pinjaman.
 
 Bagian Kedua
 Reksa Dana Menerima Pinjaman
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Dalam hal Manajer Investasi menentukan Reksa Dana
 menerima pinjaman, pinjaman tersebut wajib dalam
 bentuk dana dari LJK dan/atau LPE.
@@ -326,10 +327,9 @@ likuiditas Portofolio Investasi.
 (4) Bank kustodian wajib melakukan monitoring total
 pinjaman sebagaimana dimaksud pada ayat (2) huruf c.
 
-
 -----
 
-            - 6 
+            - 6
 (5) Dalam hal Manajer Investasi menentukan Reksa Dana
 menerima pinjaman sebagaimana dimaksud pada ayat
 (1) dari:
@@ -338,18 +338,18 @@ b. LJK yang memiliki hubungan Afiliasi dengan
 Manajer Investasi,
 Manajer Investasi wajib memastikan pinjaman tersebut
 memenuhi ketentuan:
-# 1. dilakukan untuk penyelesaian kendala likuiditas
+**1. dilakukan untuk penyelesaian kendala likuiditas**
 sebagai bagian dari pemenuhan transaksi
 pembelian kembali dan/atau pelunasan saham
 Reksa Dana Berbentuk Perseroan atau Unit
 Penyertaan Reksa Dana berbentuk Kontrak
 Investasi Kolektif;
-# 2. dilakukan dengan prinsip yang wajar dan
+**2. dilakukan dengan prinsip yang wajar dan**
 independen; dan
-# 3. tidak dikenakan biaya yang lebih tinggi dari biaya
+**3. tidak dikenakan biaya yang lebih tinggi dari biaya**
 yang dikenakan oleh LJK lain.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Dalam hal Reksa Dana menerima pinjaman dana dari
 LJK dan/atau LPE, Manajer Investasi wajib
 mengungkapkan informasi tersebut dalam:
@@ -368,7 +368,7 @@ c. risiko inheren dari penerimaan pinjaman.
 Bagian Ketiga
 Reksa Dana Memberikan Pinjaman
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Dalam hal Manajer Investasi menentukan Reksa Dana
 memberikan pinjaman, pinjaman tersebut wajib dalam
 bentuk Efek kepada Lembaga Kliring dan Penjaminan.
@@ -386,10 +386,9 @@ Reksa Dana; dan
 d. Efek yang dipinjamkan tidak sedang memiliki
 perikatan hukum dengan Pihak lain.
 
-
 -----
 
-            - 7 
+            - 7
 (3) Dalam hal Manajer Investasi menentukan Reksa Dana
 memberikan pinjaman, Manajer Investasi wajib
 mempertimbangkan:
@@ -398,7 +397,7 @@ transaksi pemberian pinjaman; dan
 b. manajemen portofolio yang efisien yang
 dipergunakan dalam pengelolaan Reksa Dana.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) Dalam hal Reksa Dana memberikan pinjaman Efek
 kepada Lembaga Kliring dan Penjaminan, Manajer
 Investasi wajib mengungkapkan informasi tersebut
@@ -415,18 +414,18 @@ b. benturan kepentingan dan mitigasi, jika terdapat
 benturan kepentingan; dan
 c. risiko inheren dari pemberian pinjaman.
 
-Pasal 8
+### Pasal 8 ^pasal-8
 Bentuk, jenis, besaran jaminan, dan pengelolaan risiko
 penjaminan atas transaksi pemberian pinjaman oleh Reksa
 Dana dilaksanakan sesuai dengan Peraturan Lembaga
 Kliring dan Penjaminan mengenai pinjam meminjam Efek.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 Setiap transaksi pemberian pinjaman oleh Reksa Dana wajib
 mengakibatkan perubahan kepemilikan atas Efek yang
 dipinjamkan.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Hak sehubungan dengan pemilikan Efek yang
 dipinjamkan wajib tetap dimiliki oleh Reksa Dana.
 (2) Perlakuan akuntansi atas Efek yang dipinjamkan wajib
@@ -435,7 +434,7 @@ mengacu pada Ketentuan Akuntansi.
 Bagian Keempat
 Kontrak dan Laporan
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Setiap transaksi pinjaman Reksa Dana wajib
 berdasarkan pada kontrak.
 (2) Dalam melakukan transaksi penerimaan pinjaman,
@@ -447,10 +446,9 @@ c. periode pinjaman;
 d. biaya pinjaman;
 e. peristiwa kegagalan;
 
-
 -----
 
-            - 8 
+            - 8
 f. mekanisme penyelesaian perselisihan; dan
 g. jangka waktu, perubahan, dan pengakhiran
 kontrak.
@@ -471,7 +469,7 @@ i. mekanisme penyelesaian perselisihan; dan
 j. jangka waktu, perubahan, dan pengakhiran
 kontrak.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Dalam hal Reksa Dana melakukan penerimaan
 dan/atau pemberian pinjaman, Manajer Investasi wajib
 menyampaikan laporan bulanan kepada Otoritas Jasa
@@ -494,7 +492,7 @@ pengisian, dan aplikasi penyampaian untuk laporan
 bulanan sebagaimana dimaksud pada ayat (1)
 ditetapkan oleh Otoritas Jasa Keuangan.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Dalam hal Otoritas Jasa Keuangan mengalami
 gangguan teknis dan/atau adanya pengembangan
 sistem pada batas waktu penyampaian laporan bulanan
@@ -508,10 +506,9 @@ c. melalui alamat surat elektronik Otoritas Jasa
 Keuangan; dan/atau
 d. melalui situs web Otoritas Jasa Keuangan.
 
-
 -----
 
-            - 9 
+            - 9
 (2) Otoritas Jasa Keuangan memberitahukan kepada
 Manajer Investasi bahwa gangguan teknis dan/atau
 adanya pengembangan sistem di Otoritas Jasa
@@ -543,7 +540,7 @@ a. melalui alamat surat elektronik Otoritas Jasa
 Keuangan; dan/atau
 b. secara luring.
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Dalam hal terjadi kerusakan pada laporan bulanan
 karena gangguan teknis atau gangguan lain pada
 sistem pelaporan Otoritas Jasa Keuangan, Otoritas
@@ -553,7 +550,7 @@ menyampaikan kembali laporan bulanan.
 bulanan atas permintaan Otoritas Jasa Keuangan
 sebagaimana dimaksud pada ayat (1).
 
-Pasal 15
+### Pasal 15 ^pasal-15
 Dalam melakukan keputusan investasi berupa penerimaan
 dan/atau pemberian pinjaman Reksa Dana, Manajer
 Investasi wajib tunduk pada Peraturan Otoritas Jasa
@@ -562,17 +559,16 @@ Keuangan mengenai pedoman perilaku Manajer Investasi.
 Bagian Kelima
 Sanksi Administratif
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 2, Pasal 4, Pasal 5, Pasal 6, Pasal
 7, Pasal 9, Pasal 10, Pasal 11, Pasal 12 ayat (1) dan ayat
 (4), Pasal 13 ayat (3), ayat (4), dan ayat (5), dan Pasal
 15, dikenai sanksi administratif.
 
-
 -----
 
-           - 10 
+           - 10
 (2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
 juga kepada Pihak yang menyebabkan terjadinya
 pelanggaran sebagaimana dimaksud pada ayat (1).
@@ -612,7 +608,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 17
+### Pasal 17 ^pasal-17
 Reksa Dana dapat membeli saham Reksa Dana Berbentuk
 Perseroan dan/atau Unit Penyertaan Reksa Dana berbentuk
 Kontrak Investasi Kolektif lain.
@@ -621,7 +617,7 @@ Bagian Kedua
 
 Reksa Dana
 
-Pasal 18
+### Pasal 18 ^pasal-18
 Reksa Dana dalam Peraturan Otoritas Jasa Keuangan ini
 wajib mengikuti:
 a. Peraturan Otoritas Jasa Keuangan mengenai reksa
@@ -631,17 +627,16 @@ dana berbentuk perseroan;
 c. Peraturan Otoritas Jasa Keuangan mengenai
 penerbitan dan persyaratan reksa dana syariah; dan
 
-
 -----
 
-           - 11 
+           - 11
 d. ketentuan peraturan perundang-undangan di sektor
 Pasar Modal yang mengatur mengenai reksa dana
 terkait lainnya,
 kecuali diatur khusus dalam Peraturan Otoritas Jasa
 Keuangan ini.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) Dalam hal Manajer Investasi menentukan Reksa Dana
 berinvestasi pada Efek Reksa Dana Luar Negeri,
 Manajer Investasi wajib menentukan komposisi
@@ -690,10 +685,9 @@ setiap Efek yang diperdagangkan di bursa efek luar
 negeri atau Efek Reksa Dana Luar Negeri paling
 tinggi 10% (sepuluh persen) dari nilai aktiva bersih.
 
-
 -----
 
-           - 12 
+           - 12
 (2) Manajer Investasi wajib menentukan komposisi
 Portofolio Efek dari Reksa Dana Syariah Berbasis Efek
 Syariah Luar Negeri dengan ketentuan sebagai berikut:
@@ -732,7 +726,7 @@ f. tidak sedang dalam pengenaan sanksi pada saat
 transaksi dilakukan; dan
 g. menghitung nilai aktiva bersih secara harian.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 Dalam hal Reksa Dana melakukan investasi pada Efek
 Reksa Dana Luar Negeri dan Efek Reksa Dana syariah luar
 negeri, Reksa Dana wajib melakukan investasi pada Efek
@@ -743,24 +737,23 @@ menandatangani secara penuh Multilateral _Memorandum of_
 _Understanding Concerning Consultation and Cooperation and_
 _the Exchange of Information._
 
-Pasal 21
+### Pasal 21 ^pasal-21
 Dalam hal Manajer Investasi menentukan Reksa Dana
 memiliki Efek Reksa Dana Luar Negeri dan Efek Reksa Dana
 syariah luar negeri yang dikelola oleh Pihak yang memiliki
 hubungan Afiliasi dengan Manajer Investasi, Manajer
 Investasi wajib memastikan transaksi atas Efek Reksa Dana
 
-
 -----
 
-           - 13 
+           - 13
 Luar Negeri dan Efek Reksa Dana syariah luar negeri
 dilakukan dengan prinsip yang wajar dan independen.
 
 Bagian Ketiga
 Reksa Dana Target Waktu
 
-Pasal 22
+### Pasal 22 ^pasal-22
 Reksa Dana Target Waktu dalam Peraturan Otoritas Jasa
 Keuangan ini wajib mengikuti:
 a. Peraturan Otoritas Jasa Keuangan mengenai reksa
@@ -775,7 +768,7 @@ terkait lainnya,
 kecuali diatur khusus dalam Peraturan Otoritas Jasa
 Keuangan ini.
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Nama Reksa Dana Target Waktu wajib mencantumkan:
 a. nama Manajer Investasi;
 b. nama yang mencerminkan jenis Reksa Dana;
@@ -793,7 +786,7 @@ benar; dan/atau
 d. tidak konsisten dengan kebijakan investasi Reksa
 Dana.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 (1) Manajer Investasi wajib menentukan komposisi
 Portofolio Efek dari Reksa Dana Target Waktu yang
 khusus berinvestasi pada Reksa Dana lain dengan
@@ -811,10 +804,9 @@ diperdagangkan di Indonesia berdasarkan
 ketentuan peraturan perundang-undangan di
 Indonesia;
 
-
 -----
 
-      - 14 
+      - 14
 2. Efek yang diperdagangkan di luar negeri,
 namun diterbitkan oleh:
 a) Pemerintah Republik Indonesia;
@@ -872,10 +864,9 @@ dengan ketentuan setiap dana investasi real
 estat berbentuk Kontrak Investasi Kolektif
 paling banyak 10% (sepuluh persen) dari nilai
 
-
 -----
 
-           - 15 
+           - 15
 aktiva bersih Reksa Dana pada setiap saat;
 dan/atau
 7. instrumen pasar uang dalam negeri.
@@ -919,7 +910,7 @@ Kolektif bagi Reksa Dana berbentuk Kontrak
 Investasi Kolektif; dan
 b. prospektus.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) Penghitungan nilai aktiva bersih Reksa Dana Target
 Waktu yang khusus berinvestasi pada Reksa Dana lain
 wajib:
@@ -933,10 +924,9 @@ Manajer Investasi atau bank kustodian pada 1
 nilai aktiva bersih Reksa Dana yang dilakukan bank
 kustodian Reksa Dana terbuka paling lambat pukul
 
-
 -----
 
-           - 16 
+           - 16
 10.00 WIB hari bursa berikutnya kepada Otoritas Jasa
 Keuangan dan pengumuman kepada masyarakat
 melalui surat kabar harian berperedaran nasional
@@ -946,7 +936,7 @@ nilai aktiva bersih Reksa Dana terbuka, tidak berlaku
 bagi Reksa Dana Target Waktu yang khusus
 berinvestasi pada Reksa Dana lain.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 (1) Bank kustodian wajib menyampaikan laporan yang
 memperlihatkan posisi keuangan dari masing-masing
 Reksa Dana Target Waktu yang khusus berinvestasi
@@ -972,7 +962,7 @@ pedoman akuntansi Reksa Dana, tidak berlaku bagi
 penyampaian laporan Reksa Dana Target Waktu yang
 khusus berinvestasi pada Reksa Dana lain.
 
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 dimaksud dalam Pasal 18, Pasal 19, Pasal 20, Pasal 21,
 Pasal 22, Pasal 23, Pasal 24, Pasal 25 ayat (1), dan Pasal
@@ -992,10 +982,9 @@ d. pembekuan kegiatan usaha;
 e. pencabutan izin usaha; dan/atau
 f. pembatalan persetujuan.
 
-
 -----
 
-           - 17 
+           - 17
 (5) Sanksi administratif sebagaimana dimaksud pada ayat
 (4) huruf b, huruf c, huruf d, huruf e, atau huruf f dapat
 dikenakan dengan atau tanpa didahului pengenaan
@@ -1013,7 +1002,7 @@ peraturan perundang-undangan di bidang Pasar Modal.
 BAB IV
 KETENTUAN PERALIHAN
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) Reksa Dana yang telah memperoleh pernyataan efektif
 sebelum berlakunya Peraturan Otoritas Jasa Keuangan
 ini dapat melakukan transaksi penerimaan pinjaman,
@@ -1043,24 +1032,23 @@ Otoritas Jasa Keuangan ini diundangkan.
 BAB V
 KETENTUAN LAIN-LAIN
 
-Pasal 29
+### Pasal 29 ^pasal-29
 Selain sanksi administratif sebagaimana dimaksud dalam
 Peraturan Otoritas Jasa Keuangan ini, Otoritas Jasa
 Keuangan dapat melakukan tindakan tertentu terhadap
 setiap Pihak yang melakukan pelanggaran ketentuan
 Peraturan Otoritas Jasa Keuangan ini.
 
-
 -----
 
-           - 18 
-Pasal 30
+           - 18
+### Pasal 30 ^pasal-30
 Otoritas Jasa Keuangan dapat mengumumkan pengenaan
 sanksi administratif sebagaimana dimaksud dalam
 Peraturan Otoritas Jasa Keuangan ini dan tindakan tertentu
 sebagaimana dimaksud dalam Pasal 29 kepada masyarakat.
 
-Pasal 31
+### Pasal 31 ^pasal-31
 Prinsip pelindungan konsumen sebagaimana dimaksud
 dalam Peraturan Otoritas Jasa Keuangan mengenai
 pelindungan konsumen dan masyarakat di sektor jasa
@@ -1075,7 +1063,7 @@ Kontrak Investasi Kolektif oleh Reksa Dana.
 BAB VI
 KETENTUAN PENUTUP
 
-Pasal 32
+### Pasal 32 ^pasal-32
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. Pasal 6 ayat (1) huruf p dan huruf q Peraturan Otoritas
@@ -1098,14 +1086,13 @@ Nomor 133, Tambahan Lembaran Negara Republik
 Indonesia Nomor 6080),
 dicabut dan dinyatakan tidak berlaku.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal diundangkan.
 
-
 -----
 
-                     - 19 
+                     - 19
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Peraturan Otoritas Jasa Keuangan ini
 dengan penempatannya dalam Lembaran Negara Republik
@@ -1133,7 +1120,6 @@ SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 45/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -1142,10 +1128,11 @@ ttd
 
 Aat Windradi
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -1157,8 +1144,6 @@ TENTANG
 PENGEMBANGAN DAN PENGUATAN PENGELOLAAN INVESTASI
 
 DI PASAR MODAL
-
-I. UMUM
 
 Penerbitan Undang-Undang Nomor 4 Tahun 2023 tentang
 Pengembangan dan Penguatan Sektor Keuangan diharapkan akan
@@ -1193,27 +1178,20 @@ ayat (3) Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan
 dan Penguatan Sektor Keuangan, perlu adanya pengaturan lebih
 lanjut dalam Peraturan Otoritas Jasa Keuangan.
 
-
 -----
 
-                     - 2 
-II. PASAL DEMI PASAL
+                     - 2
 
-Pasal 1
+### II. Pasal demi Pasal
 
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Yang dimaksud “pinjaman” termasuk pembiayaan atau transaksi
 yang tidak bertentangan dengan prinsip syariah.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Cukup jelas.
@@ -1258,13 +1236,9 @@ Angka 3
 
 Yang dimaksud dengan “biaya” antara lain
 komisi dan/atau bunga atas pinjaman.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Cukup jelas.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Ayat (1)
 
 Cukup jelas.
@@ -1294,21 +1268,13 @@ untuk Reksa Dana tanpa peningkatan risiko atau
 dengan tingkat risiko yang konsisten dengan profil
 risiko Reksa Dana atau diversifikasi risiko yang
 telah ditetapkan.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Yang dimaksud dengan “hak sehubungan dengan pemilikan
@@ -1332,9 +1298,7 @@ Ketentuan Akuntansi bagi Reksa Dana yaitu Peraturan
 Otoritas Jasa Keuangan mengenai penyusunan laporan
 keuangan produk investasi berbentuk Kontrak Investasi
 Kolektif dan ketentuan pelaksanaannya.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Kontrak dapat dibuat satu kali untuk beberapa transaksi
@@ -1400,9 +1364,7 @@ Cukup jelas.
 Huruf j
 
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Contoh penyampaian laporan bulanan Manajer Investasi
@@ -1423,9 +1385,7 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Cukup jelas.
@@ -1460,29 +1420,17 @@ oleh pejabat instansi yang berwenang dari daerah setempat.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Ayat (1)
 
 Reksa Dana Luar Negeri dapat berupa:
@@ -1537,21 +1485,13 @@ Cukup jelas.
 Huruf g
 
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Lihat penjelasan Pasal 4 ayat (5) huruf b angka 2.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 
 Contoh nama Reksa Dana Target Waktu yang dikelola oleh
@@ -1586,9 +1526,8 @@ Cukup jelas.
 
 -----
 
-                       - 7 
-Pasal 24
-
+                       - 7
+#### Pasal 24 ^penjelasan-pasal-24
 Ayat (1)
 
 Reksa Dana Target Waktu yang khusus berinvestasi pada
@@ -1605,43 +1544,25 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Tindakan tertentu antara lain memerintahkan bank kustodian
 untuk melakukan perbaikan pembukuan Reksa Dana terkait
 pemberian pinjaman.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 113/OJK
@@ -1649,3 +1570,40 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 113/OJK
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |

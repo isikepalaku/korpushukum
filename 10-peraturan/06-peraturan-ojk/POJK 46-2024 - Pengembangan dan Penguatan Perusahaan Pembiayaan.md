@@ -23,17 +23,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaan Infrastruktur, dan Perusahaan Modal Ventura
+**Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaan Infrastruktur, dan Perusahaan Modal Ventura**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/348711/peraturan-ojk-no-46-tahun-2024
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/348711/peraturan-ojk-no-46-tahun-2024)
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -86,7 +91,6 @@ Indonesia Nomor 6845);
 34/POJK.05/2015 tentang Perizinan Usaha dan
 Kelembagaan Perusahaan Modal Ventura (Lembaran
 
-
 -----
 
 Negara Republik Indonesia Tahun 2015 Nomor 316,
@@ -135,7 +139,7 @@ Bagian Kesatu
 
 Asas
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Peraturan Otoritas Jasa Keuangan ini dilaksanakan
 berdasarkan asas:
 a. kepentingan nasional;
@@ -146,7 +150,6 @@ e. akuntabilitas;
 f. keadilan;
 g. pelindungan konsumen;
 
-
 -----
 
 h. edukasi; dan
@@ -155,7 +158,7 @@ i. keterpaduan.
 Bagian Kedua
 Maksud dan Tujuan
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Peraturan Otoritas Jasa Keuangan ini dibentuk dengan
 maksud mendorong kontribusi Perusahaan
 Pembiayaan, Perusahaan Pembiayaan Syariah,
@@ -201,14 +204,13 @@ Perusahaan Pembiayaan Infrastruktur,
 Perusahaan Modal Ventura dan Perusahaan Modal
 Ventura Syariah.
 
-
 -----
 
 BAB II
 PENGEMBANGAN DAN
 PENGUATAN PERUSAHAAN PEMBIAYAAN
 
-Pasal 3
+### Pasal 3 ^pasal-3
 Dalam rangka pengembangan dan penguatan Perusahaan
 Pembiayaan, Peraturan Otoritas Jasa Keuangan ini
 mengubah, menghapus, dan/atau menetapkan pengaturan
@@ -236,7 +238,7 @@ Syariah Perusahaan Pembiayaan (Lembaran Negara
 Republik Indonesia Tahun 2019 Nomor 40, Tambahan
 Lembaran Negara Republik Indonesia Nomor 6320).
 
-Pasal 4
+### Pasal 4 ^pasal-4
 Beberapa ketentuan dalam Peraturan Otoritas Jasa
 Keuangan Nomor 47/POJK.05/2020 tentang Perizinan
 Usaha dan Kelembagaan Perusahaan Pembiayaan dan
@@ -247,7 +249,7 @@ sebagai berikut:
 1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 1
+### Pasal 1 ^pasal-1
 1. Perusahaan adalah perusahaan pembiayaan dan
 perusahaan pembiayaan syariah.
 2. Perusahaan Pembiayaan adalah badan hukum
@@ -261,7 +263,6 @@ pembiayaan yang dilakukan berdasarkan prinsip
 syariah.
 5. Prinsip Syariah adalah prinsip hukum Islam
 berdasarkan fatwa dan/atau pernyataan
-
 
 -----
 
@@ -321,7 +322,6 @@ konsumen baik badan usaha atau orang
 perseorangan yang melakukan perjanjian
 Pembiayaan Syariah dengan Perusahaan
 
-
 -----
 
 Pembiayaan Syariah atau Perusahaan Pembiayaan
@@ -379,7 +379,6 @@ aset dan kewajiban Perusahaan sebagai akibat
 pencabutan izin usaha Perusahaan dan
 pembubaran.
 
-
 -----
 
 21. Tim Likuidasi adalah tim yang bertugas
@@ -409,7 +408,7 @@ Keuangan.
 2. Ketentuan Pasal 2 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 2
+### Pasal 2 ^pasal-2
 Bentuk badan hukum Perusahaan terdiri atas:
 a. perseroan terbatas; dan
 b. koperasi.
@@ -417,7 +416,7 @@ b. koperasi.
 3. Ketentuan Pasal 3 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) Perusahaan hanya dapat dimiliki oleh:
 a. Negara Kesatuan Republik Indonesia;
 b. Pemerintah Daerah;
@@ -441,7 +440,6 @@ e dan kepemilikan warga negara asing
 sebagaimana dimaksud pada ayat (1) huruf f
 dilaksanakan sesuai dengan peraturan
 
-
 -----
 
 pemerintah mengenai kepemilikan asing pada
@@ -454,7 +452,7 @@ sesuai dengan ketentuan peraturan perundangundangan di bidang perkoperasian.
 4. Ketentuan Pasal 4 diubah, sehingga berbunyi sebagai
 berikut:
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Sumber dana penyertaan kepada Perusahaan
 dilarang:
 a. berasal dari pinjaman; dan
@@ -501,13 +499,12 @@ a. penyetoran modal pendirian Perusahaan;
 b. pembelian saham Perusahaan; dan/atau
 c. penambahan modal disetor Perusahaan.
 
-
 -----
 
 5. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Perusahaan wajib memiliki paling sedikit 1 (satu)
 PSP.
 (2) Perusahaan berbentuk perseroan terbatas wajib
@@ -561,7 +558,6 @@ pencucian uang, pendanaan terorisme, pendanaan
 proliferasi senjata pemusnah massal, dan
 kejahatan keuangan lain.
 
-
 -----
 
 (3) Perusahaan wajib menyampaikan laporan atas
@@ -577,7 +573,7 @@ Perusahaan.
 7. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Perusahaan harus menggunakan nama
 Perusahaan yang dimulai dengan bentuk badan
 hukum dan memuat kata:
@@ -608,7 +604,7 @@ pasal.
 9. Ketentuan Pasal 9 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Ketentuan mengenai:
 a. kepemilikan warga negara asing sebagaimana
 dimaksud dalam Pasal 3 ayat (1) huruf f; dan
@@ -621,7 +617,6 @@ Perusahaan.
 (2) Dalam hal peraturan pemerintah mengenai
 kepemilikan asing pada Perusahaan sebagaimana
 dimaksud pada ayat (1) belum berlaku maka:
-
 
 -----
 
@@ -676,13 +671,12 @@ ketenagalistrikan dan/atau pelayaran.
 10. Ketentuan Pasal 11 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Perusahaan wajib memiliki susunan organisasi
 yang menggambarkan fungsi paling sedikit:
 a. administrasi dan akuntansi;
 b. pemasaran, analisis kelayakan pembiayaan
 dan penagihan;
-
 
 -----
 
@@ -718,7 +712,7 @@ keputusan.
 11. Ketentuan Pasal 12 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Perusahaan melakukan kegiatan usaha setelah
 memperoleh izin usaha dari Otoritas Jasa
 Keuangan.
@@ -743,7 +737,6 @@ terakhir disertai dengan bukti persetujuan,
 dan/atau surat penerimaan pemberitahuan
 dari instansi berwenang;
 c. daftar pemegang saham, berupa:
-
 
 -----
 
@@ -802,7 +795,6 @@ Dewan Komisaris, atau anggota
 DPS pada perusahaan jasa
 keuangan yang dicabut izin
 usahanya karena melakukan
-
 
 -----
 
@@ -863,7 +855,6 @@ pernah dihukum karena
 melakukan tindak pidana
 di bidang usaha jasa
 
-
 -----
 
 keuangan dan/atau
@@ -921,7 +912,6 @@ pengangkatan anggota DPS, bagi Perusahaan
 Pembiayaan Syariah, yang disertai dengan
 surat penerimaan pemberitahuan dari
 instansi berwenang;
-
 
 -----
 
@@ -981,7 +971,6 @@ perluasan kegiatan usaha;
 c) rencana permodalan;
 d) rencana pendanaan;
 
-
 -----
 
 e) rencana pengembangan dan/atau
@@ -1038,10 +1027,9 @@ Komisaris, PSP, dan/atau anggota DPS.
 12. Ketentuan dalam Pasal 14 diubah sehingga berbunyi
 sebagai berikut:
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Perusahaan yang telah mendapat izin usaha dari
 Otoritas Jasa Keuangan wajib melakukan kegiatan
-
 
 -----
 
@@ -1100,7 +1088,6 @@ paling lambat 20 (dua puluh) hari kerja sejak
 tanggal surat permintaan kelengkapan dokumen
 yang disampaikan Otoritas Jasa Keuangan kepada
 Asosiasi.
-
 
 -----
 
@@ -1161,7 +1148,6 @@ Perusahaan;
 b. mengkoordinasikan dan menetapkan
 penyusunan pedoman perilaku;
 
-
 -----
 
 c. mengadakan pendidikan dan pelatihan yang
@@ -1190,7 +1176,7 @@ kepada Otoritas Jasa Keuangan paling lama 4
 14. Ketentuan Pasal 41 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 41
+### Pasal 41 ^pasal-41
 (1) Perusahaan Pembiayaan yang memiliki UUS wajib
 melakukan Pemisahan UUS jika:
 a. UUS memenuhi kriteria tertentu yang
@@ -1222,7 +1208,6 @@ dimaksud pada ayat (2).
 dan/atau modal inti UUS menurun dan tidak lagi
 mencapai persyaratan sebagaimana dimaksud
 
-
 -----
 
 pada ayat (2), kondisi dimaksud tidak
@@ -1236,7 +1221,7 @@ dan penguatan industri Pembiayaan Syariah.
 15. Ketentuan Pasal 49 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 49
+### Pasal 49 ^pasal-49
 (1) Perusahaan yang akan membuka Kantor Cabang
 harus memenuhi persyaratan:
 a. telah mencantumkan rencana pembukaan
@@ -1282,7 +1267,6 @@ Jasa Keuangan sebagaimana dimaksud pada ayat
 
 16. Pasal 50 dihapus.
 
-
 -----
 
 17. Pasal 51 dihapus.
@@ -1290,7 +1274,7 @@ Jasa Keuangan sebagaimana dimaksud pada ayat
 18. Ketentuan Pasal 54 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 54
+### Pasal 54 ^pasal-54
 (1) Perusahaan yang akan melakukan penutupan
 Kantor Cabang wajib mencantumkan rencana
 penutupan Kantor Cabang dalam rencana bisnis
@@ -1324,7 +1308,7 @@ Cabang lain.
 20. Ketentuan Pasal 58 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 58
+### Pasal 58 ^pasal-58
 (1) Perusahaan yang meningkatkan status kantor
 selain Kantor Cabang menjadi Kantor Cabang
 wajib menyampaikan laporan peningkatan status
@@ -1343,7 +1327,6 @@ Kantor Cabang sebagaimana dimaksud pada ayat
 (1) kepada Otoritas Jasa Keuangan dengan
 melampirkan dokumen:
 a. sistem dan prosedur kerja;
-
 
 -----
 
@@ -1372,7 +1355,7 @@ Jasa Keuangan sebagaimana dimaksud pada ayat
 21. Ketentuan Pasal 59 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 59
+### Pasal 59 ^pasal-59
 Larangan bagi Kantor Cabang sebagaimana dimaksud
 dalam Pasal 56 ayat (1) berlaku secara mutatis
 mutandis terhadap peningkatan status kantor selain
@@ -1382,7 +1365,7 @@ dimaksud dalam Pasal 58.
 22. Ketentuan Pasal 61 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 61
+### Pasal 61 ^pasal-61
 (1) Perusahaan yang memiliki UUS yang akan
 membuka Kantor Cabang UUS sebagaimana
 dimaksud dalam Pasal 60 ayat (1) harus telah
@@ -1405,7 +1388,6 @@ paling lambat 10 (sepuluh) hari kerja sejak tanggal
 pembukaan Kantor Cabang UUS.
 (3) Direksi harus menyampaikan laporan pembukaan
 Kantor Cabang UUS sebagaimana dimaksud pada
-
 
 -----
 
@@ -1441,7 +1423,7 @@ Jasa Keuangan sebagaimana dimaksud pada ayat
 25. Ketentuan Pasal 65 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 65
+### Pasal 65 ^pasal-65
 (1) Perusahaan yang akan melakukan penutupan
 Kantor Cabang UUS wajib mencantumkan rencana
 penutupan Kantor Cabang dalam rencana bisnis
@@ -1467,7 +1449,6 @@ kewajiban Debitur;
 b. bukti pengalihan atau penyelesaian hak dan
 kewajiban Debitur; dan
 
-
 -----
 
 c. bukti pengalihan atau pengalihan pelayanan
@@ -1479,7 +1460,7 @@ pusat atau Kantor Cabang UUS lain.
 27. Ketentuan Pasal 69 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 69
+### Pasal 69 ^pasal-69
 (1) Perusahaan yang meningkatkan status kantor
 selain Kantor Cabang UUS menjadi Kantor Cabang
 UUS wajib menyampaikan laporan peningkatan
@@ -1524,11 +1505,10 @@ Jasa Keuangan sebagaimana dimaksud pada ayat
 28. Ketentuan Pasal 70 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 70
+### Pasal 70 ^pasal-70
 Larangan bagi Kantor Cabang UUS sebagaimana
 dimaksud dalam Pasal 67 ayat (1) berlaku secara
 mutatis mutandis terhadap peningkatan status kantor
-
 
 -----
 
@@ -1538,7 +1518,7 @@ sebagaimana dimaksud dalam Pasal 69.
 29. Ketentuan Pasal 71 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 71
+### Pasal 71 ^pasal-71
 (1) Setiap perubahan kepemilikan Perusahaan wajib
 memperoleh persetujuan dari Otoritas Jasa
 Keuangan.
@@ -1591,7 +1571,6 @@ yang tidak mengakibatkan perubahan PSP, wajib
 dilaporkan kepada Otoritas Jasa Keuangan paling
 lambat 10 (sepuluh) hari kerja sejak tanggal
 
-
 -----
 
 perubahan modal disetor yang tidak
@@ -1614,7 +1593,7 @@ Perusahaan.
 31. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 73
+### Pasal 73 ^pasal-73
 (1) Untuk memperoleh persetujuan perubahan
 kepemilikan sebagaimana dimaksud dalam Pasal
 71 ayat (1), Direksi harus menyampaikan
@@ -1649,7 +1628,6 @@ mengakibatkan adanya pemegang saham
 baru selain PSP;
 g. surat pernyataan calon pemegang saham
 yang menyatakan bahwa:
-
 
 -----
 
@@ -1709,7 +1687,6 @@ m. bukti penempatan dana dalam escrow account
 dan/atau deposito berjangka, jika perubahan
 kepemilikan dilakukan melalui setoran tunai;
 
-
 -----
 
 n. laporan keuangan yang telah diaudit oleh
@@ -1754,7 +1731,7 @@ Perusahaan.
 32. Ketentuan Pasal 76 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 76
+### Pasal 76 ^pasal-76
 (1) Perusahaan wajib melaporkan pelaksanaan
 perubahan kepemilikan kepada Otoritas Jasa
 Keuangan paling lambat 15 (lima belas) hari kerja
@@ -1769,7 +1746,6 @@ a. salinan akta risalah RUPS dan/atau
 perubahan anggaran dasar bagi Perusahaan
 yang berbentuk badan hukum koperasi, yang
 menyetujui perubahan kepemilikan, dan
-
 
 -----
 
@@ -1815,7 +1791,7 @@ dalam Pasal 71 ayat (5) huruf d.
 33. Ketentuan Pasal 78 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 78
+### Pasal 78 ^pasal-78
 (1) Perusahaan yang akan melakukan Penggabungan
 atau Peleburan wajib memperoleh persetujuan dari
 Otoritas Jasa Keuangan.
@@ -1829,7 +1805,6 @@ mengurangi hak Debitur; dan
 c. kondisi keuangan Perusahaan hasil
 Penggabungan atau Peleburan tersebut harus
 memenuhi ketentuan tingkat kesehatan
-
 
 -----
 
@@ -1890,7 +1865,6 @@ d. _gearing ratio,_
 sebagaimana diatur dalam Peraturan Otoritas Jasa
 Keuangan mengenai penyelenggaraan usaha
 
-
 -----
 
 perusahaan pembiayaan serta Peraturan Otoritas
@@ -1901,7 +1875,7 @@ pembiayaan.
 34. Ketentuan Pasal 81 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 81
+### Pasal 81 ^pasal-81
 (1) Perusahaan yang menerima Penggabungan wajib
 melaporkan pelaksanaan RUPS yang menyetujui
 Penggabungan kepada Otoritas Jasa Keuangan
@@ -1925,7 +1899,7 @@ menggabungkan diri.
 35. Ketentuan Pasal 82 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 82
+### Pasal 82 ^pasal-82
 (1) Untuk pelaporan pelaksanaan RUPS yang
 menyetujui Penggabungan sebagaimana dimaksud
 dalam Pasal 81 ayat (1), Perusahaan yang
@@ -1948,11 +1922,10 @@ Keuangan.
 36. Ketentuan Pasal 83 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 83
+### Pasal 83 ^pasal-83
 (1) Otoritas Jasa Keuangan memberikan persetujuan
 atau penolakan atas permohonan izin
 pembentukan UUS sebagaimana dimaksud dalam
-
 
 -----
 
@@ -1991,7 +1964,7 @@ tertulis dan disertai alasan penolakan.
 37. Ketentuan Pasal 86 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 86
+### Pasal 86 ^pasal-86
 (1) Untuk pelaporan pelaksanaan RUPS yang
 menyetujui Peleburan sebagaimana dimaksud
 dalam Pasal 85 ayat (1), Perusahaan hasil
@@ -2009,13 +1982,12 @@ UUS yang sebelumnya dimiliki oleh Perusahaan
 yang meleburkan diri sebelum memperoleh izin
 dari Otoritas Jasa Keuangan.
 
-
 -----
 
 38. Ketentuan Pasal 87 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 87
+### Pasal 87 ^pasal-87
 (1) Otoritas Jasa Keuangan memberikan persetujuan
 atau penolakan atas permohonan izin
 pembentukan UUS sebagaimana dimaksud dalam
@@ -2054,7 +2026,7 @@ tertulis dan disertai alasan penolakan.
 39. Ketentuan Pasal 89 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 89
+### Pasal 89 ^pasal-89
 (1) Perusahaan Pembiayaan dapat melakukan
 konversi menjadi Perusahaan Pembiayaan
 Syariah.
@@ -2070,7 +2042,6 @@ dimaksud pada ayat (1), dengan melampirkan
 dokumen:
 a. rancangan akta risalah RUPS dan/atau
 perubahan anggaran dasar bagi Perusahaan
-
 
 -----
 
@@ -2126,13 +2097,12 @@ bagi calon anggota Direksi, calon anggota Dewan
 Komisaris, calon PSP, dan calon anggota DPS
 Perusahaan Pembiayaan Syariah.
 
-
 -----
 
 40. Ketentuan Pasal 90 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 90
+### Pasal 90 ^pasal-90
 (1) Otoritas Jasa Keuangan memberikan persetujuan
 atau penolakan atas permohonan izin konversi
 sebagaimana dimaksud dalam Pasal 89 ayat (2)
@@ -2169,7 +2139,7 @@ disertai dengan alasan penolakan.
 41. Ketentuan Pasal 91 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 91
+### Pasal 91 ^pasal-91
 (1) Perusahaan Pembiayaan yang telah memperoleh
 izin rencana pelaksanaan konversi dari Otoritas
 Jasa Keuangan harus melaksanakan RUPS paling
@@ -2185,10 +2155,9 @@ sebelumnya telah diberikan.
 42. Ketentuan Pasal 92 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 92
+### Pasal 92 ^pasal-92
 (1) Perusahaan Pembiayaan wajib melaporkan
 pelaksanaan RUPS yang menyetujui konversi
-
 
 -----
 
@@ -2249,7 +2218,6 @@ b. memberikan persetujuan atau penolakan
 perubahan izin usaha sebagai Perusahaan
 Pembiayaan Syariah yang mulai berlaku
 
-
 -----
 
 efektif terhitung sejak anggaran dasar
@@ -2295,7 +2263,7 @@ tertulis dan disertai dengan alasannya.
 43. Ketentuan Pasal 94 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 94
+### Pasal 94 ^pasal-94
 (1) Perusahaan yang melakukan perubahan anggaran
 dasar tertentu wajib melaporkan kepada Otoritas
 Jasa Keuangan paling lama 15 (lima belas) hari
@@ -2308,7 +2276,6 @@ Perusahaan;
 b. nama Perusahaan;
 c. tempat kedudukan kantor pusat Perusahaan;
 dan/atau
-
 
 -----
 
@@ -2328,7 +2295,7 @@ pembiayaan.
 44. Ketentuan Pasal 95 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 95
+### Pasal 95 ^pasal-95
 (1) Direksi harus menyampaikan pelaporan
 perubahan maksud dan tujuan serta kegiatan
 usaha Perusahaan sebagaimana dimaksud dalam
@@ -2370,13 +2337,12 @@ perubahan anggaran dasar disertai dengan bukti
 persetujuan atau pencatatan dari instansi
 berwenang.
 
-
 -----
 
 45. Ketentuan Pasal 96 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 96
+### Pasal 96 ^pasal-96
 (1) Perusahaan yang melakukan perubahan:
 a. anggota Direksi;
 
@@ -2399,7 +2365,7 @@ instansi berwenang.
 46. Ketentuan Pasal 98 diubah, sehingga berbunyi sebagai
 berikut:
 
-Pasal 98
+### Pasal 98 ^pasal-98
 (1) Perusahaan yang akan menghentikan kegiatan
 usaha wajib memperoleh persetujuan dari Otoritas
 Jasa Keuangan.
@@ -2430,7 +2396,6 @@ e. bukti penyelesaian pungutan Otoritas Jasa
 Keuangan dan denda administratif terutang;
 dan
 
-
 -----
 
 f. bukti penyelesaian pajak dan kewajiban
@@ -2445,7 +2410,7 @@ sendiri.
 47. Ketentuan Pasal 99 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 99
+### Pasal 99 ^pasal-99
 (1) Otoritas Jasa Keuangan memberikan persetujuan
 atau penolakan atas permohonan persetujuan
 penghentian kegiatan usaha sebagaimana
@@ -2487,10 +2452,9 @@ alasan penolakan.
 48. Ketentuan Pasal 100 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 100
+### Pasal 100 ^pasal-100
 Dalam hal Otoritas Jasa Keuangan memberikan
 persetujuan atas penghentian kegiatan usaha
-
 
 -----
 
@@ -2527,7 +2491,7 @@ Penundaan Kewajiban Pembayaran Utang
 52. Ketentuan Pasal 104 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 104
+### Pasal 104 ^pasal-104
 Otoritas Jasa Keuangan merupakan satu-satunya
 pihak yang berwenang mengajukan permohonan
 pernyataan pailit dan/atau permohonan penundaan
@@ -2550,10 +2514,9 @@ utang.
 54. Ketentuan Pasal 105 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 105
+### Pasal 105 ^pasal-105
 (1) Perusahaan bubar karena:
 a. keputusan RUPS;
-
 
 -----
 
@@ -2577,7 +2540,7 @@ c. Perusahaan telah menyelesaikan kewajiban.
 55. Ketentuan Pasal 106 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 106
+### Pasal 106 ^pasal-106
 (1) Perusahaan yang akan melakukan pembubaran
 karena keputusan RUPS atau rapat anggota wajib
 memperoleh persetujuan dari Otoritas Jasa
@@ -2596,7 +2559,7 @@ usaha Perusahaan.
 56. Ketentuan Pasal 109 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 109
+### Pasal 109 ^pasal-109
 (1) Perusahaan yang telah melakukan pembubaran
 sebagaimana dimaksud dalam Pasal 108 wajib
 melaporkan pelaksanaan pembubaran kepada
@@ -2611,7 +2574,7 @@ izin usaha Perusahaan.
 57. Ketentuan Pasal 110 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 110
+### Pasal 110 ^pasal-110
 (1) Dalam hal Perusahaan bubar berdasarkan:
 a. putusan pengadilan sebagaimana dimaksud
 dalam Pasal 105 ayat (1) huruf b; atau
@@ -2620,7 +2583,6 @@ diatur dalam undang-undang mengenai
 kepailitan dan penundaan kewajiban
 pembayaran utang sebagaimana dimaksud
 dalam Pasal 105 ayat (1) huruf d,
-
 
 -----
 
@@ -2642,7 +2604,7 @@ izin usaha Perusahaan.
 58. Ketentuan Pasal 111 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 111
+### Pasal 111 ^pasal-111
 (1) Pencabutan izin usaha Perusahaan dilakukan oleh
 Otoritas Jasa Keuangan.
 (2) Pencabutan izin usaha Perusahaan sebagaimana
@@ -2680,7 +2642,6 @@ ketentuan sebagaimana dimaksud pada ayat (2)
 huruf b.
 (5) Prosedur penyelesaian kewajiban oleh Perusahaan
 yang dicabut izin usahanya wajib dilaksanakan
-
 
 -----
 
@@ -2742,7 +2703,6 @@ b. akuntan publik sebagaimana dimaksud pada
 
 ayat (2) dan ayat (3).
 
-
 -----
 
 (7) Perusahaan wajib menunjuk penanggung jawab
@@ -2801,7 +2761,6 @@ dokumen sebagaimana dimaksud pada ayat (3),
 Otoritas Jasa Keuangan belum menerima
 kelengkapan dokumen dimaksud, Perusahaan
 dianggap membatalkan permohonan.
-
 
 -----
 
@@ -2862,7 +2821,6 @@ berwenang, serta mengumumkannya dalam
 Berita Negara Republik Indonesia, 2 (dua)
 surat kabar harian yang mempunyai
 
-
 -----
 
 peredaran yang luas, dan sistem elektronik
@@ -2920,7 +2878,6 @@ berikut:
 Bagian Kedua
 
 Tim Likuidasi
-
 
 -----
 
@@ -2980,7 +2937,6 @@ yang dibentuk oleh Otoritas Jasa Keuangan;
 dan
 f. mengajukan permohonan tertulis kepada Otoritas
 Jasa Keuangan untuk melakukan pengkinian data
-
 
 -----
 
@@ -3043,7 +2999,6 @@ Tim Likuidasi.
 diselesaikan dalam jangka waktu sebagaimana
 dimaksud pada ayat (1) maka:
 
-
 -----
 
 a. RUPS berwenang memperpanjang jangka
@@ -3099,7 +3054,6 @@ gugatan atau sengketa pada aset bermasalah
 Perusahaan dalam Likuidasi, Otoritas Jasa
 Keuangan dapat menunggu sampai ada putusan
 pengadilan yang berkekuatan hukum tetap.
-
 
 -----
 
@@ -3160,7 +3114,6 @@ Likuidasi yang berhenti sebelum jangka waktu
 penugasan Tim Likuidasi berakhir dengan
 pertimbangan jika anggota Tim Likuidasi:
 
-
 -----
 
 a. tidak menjalankan tugas dengan baik;
@@ -3216,7 +3169,6 @@ dengan ketentuan peraturan perundangundangan.
 (5) Remunerasi Tim Likuidasi merupakan komponen
 biaya Likuidasi yang menjadi beban Perusahaan
 dalam Likuidasi.
-
 
 -----
 
@@ -3274,7 +3226,6 @@ tersebut kepada Otoritas Jasa Keuangan.
 kerja dan anggaran biaya sebagaimana dimaksud
 pada ayat (1) ditetapkan oleh Otoritas Jasa
 Keuangan.
-
 
 -----
 
@@ -3335,7 +3286,6 @@ pesangon kepada anggota Direksi dan pegawai
 Perusahaan yang diindikasikan melakukan tindak
 pidana usaha jasa pembiayaan dan/atau tindak
 pidana lainnya yang dapat merugikan Perusahaan.
-
 
 -----
 
@@ -3398,7 +3348,6 @@ yang disusun oleh Tim Likuidasi.
 pada ayat (2) paling sedikit memuat tujuan dan
 ruang lingkup audit.
 
-
 -----
 
 (4) Penunjukan akuntan publik sebagaimana
@@ -3457,7 +3406,6 @@ Sementara Likuidasi oleh Otoritas Jasa Keuangan.
 (5) Tim Likuidasi wajib mengumumkan Neraca
 Sementara Likuidasi yang telah disetujui Otoritas
 Jasa Keuangan pada 2 (dua) surat kabar paling
-
 
 -----
 
@@ -3520,7 +3468,6 @@ pada Perusahaan dalam Likuidasi.
 (4) Otoritas Jasa Keuangan dapat menunjuk akuntan
 publik yang terdaftar pada Otoritas Jasa Keuangan
 
-
 -----
 
 atau pihak lain untuk dan atas nama Otoritas Jasa
@@ -3580,7 +3527,6 @@ pembayaran terakhir kepada kreditur termasuk
 tindak lanjut apabila kreditur tidak mengambil
 haknya dalam jangka waktu sampai dengan
 tanggal pembayaran terakhir.
-
 
 -----
 
@@ -3643,7 +3589,6 @@ laporan pertanggungjawaban tugas Tim Likuidasi
 kepada Otoritas Jasa Keuangan dengan tembusan
 kepada Pemegang Saham atau yang setara dengan
 
-
 -----
 
 pemegang saham pada badan hukum berbentuk
@@ -3699,7 +3644,6 @@ b. membubarkan Tim Likuidasi.
 huruf a dilakukan oleh Tim Likuidasi paling lama
 30 (tiga puluh) hari kerja sejak
 pertanggungjawaban diterima RUPS.
-
 
 -----
 
@@ -3760,7 +3704,6 @@ sebagaimana dimaksud dalam Pasal 111 ayat (1),
 pemegang saham atau yang setara dengan pemegang
 saham pada badan hukum berbentuk koperasi wajib
 
-
 -----
 
 bertanggung jawab atas setiap proses dan pelaksanaan
@@ -3782,7 +3725,7 @@ waktu sebagaimana dimaksud dalam Pasal 14 ayat
 76. Ketentuan Pasal 116 diubah sehingga berbunyi sebagai
 berikut
 
-Pasal 116
+### Pasal 116 ^pasal-116
 (1) Perusahaan yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 4 ayat (1) dan
 ayat (9), Pasal 5 ayat (1), ayat (2), ayat (3), dan ayat
@@ -3821,7 +3764,6 @@ a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
 
 usaha;
-
 
 -----
 
@@ -3882,7 +3824,6 @@ c. melakukan pencatatan rekam jejak terhadap
 pihak yang menyebabkan Perusahaan
 melanggar ketentuan sebagaimana dimaksud
 
-
 -----
 
 pada ayat (1) dalam sistem elektronik Otoritas
@@ -3940,7 +3881,6 @@ konsumen dan masyarakat umum.
 
 78. Ketentuan Pasal 117 dihapus.
 
-
 -----
 
 79. Di antara Pasal 117 dan Pasal 118 disisipkan 1 (satu)
@@ -3965,7 +3905,7 @@ ketentuan sebagaimana dimaksud pada ayat (1).
 ayat (1) harus ditandatangani oleh seluruh Direksi
 dan Dewan Komisaris.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 Beberapa ketentuan dalam Peraturan Otoritas Jasa
 Keuangan Nomor 35/POJK.05/2018 tentang
 Penyelenggaraan Usaha Perusahaan Pembiayaan (Lembaran
@@ -3979,7 +3919,7 @@ sebagai berikut:
 1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini, yang
 dimaksud dengan:
 1. Perusahaan Pembiayaan adalah badan hukum
@@ -4001,7 +3941,6 @@ yang diperjanjikan.
 5. _Finance Lease yang selanjutnya disebut Sewa_
 Pembiayaan adalah kegiatan pembiayaan dalam
 bentuk penyediaan barang oleh Perusahaan
-
 
 -----
 
@@ -4062,7 +4001,6 @@ secara tunai yang sumber dananya berasal dari
 debitur untuk pengadaan kendaraan bermotor
 dengan menggunakan cara Pembelian dengan
 
-
 -----
 
 Pembayaran secara Angsuran yang dibayarkan
@@ -4120,7 +4058,6 @@ Pembiayaan, baik di dalam maupun di luar
 pengadilan sesuai dengan ketentuan anggaran
 dasar bagi Perusahaan Pembiayaan berbentuk
 badan hukum perseroan terbatas, atau yang
-
 
 -----
 
@@ -4180,7 +4117,6 @@ dilekatkan, terasosiasi atau terkait dengan
 informasi elektronik lainnya yang digunakan
 sebagai alat verifikasi dan autentikasi
 
-
 -----
 
 sebagaimana dimaksud dalam undang-undang
@@ -4193,7 +4129,7 @@ Pembiayaan.
 2. Ketentuan ayat (2) Pasal 2 diubah sehingga berbunyi
 sebagai berikut:
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Kegiatan usaha Perusahaan Pembiayaan meliputi:
 a. Pembiayaan Investasi;
 b. Pembiayaan Modal Kerja;
@@ -4214,7 +4150,7 @@ Otoritas Jasa Keuangan.
 3. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Pembiayaan Investasi sebagaimana dimaksud
 dalam Pasal 2 ayat (1) huruf a wajib dilakukan
 dengan cara:
@@ -4241,7 +4177,6 @@ c. Anjak Piutang dengan Pemberian Jaminan
 dari Penjual Piutang;
 d. Anjak Piutang tanpa Pemberian Jaminan dari
 Penjual Piutang;
-
 
 -----
 
@@ -4290,7 +4225,7 @@ dalam Peraturan Otoritas Jasa Keuangan ini.
 5. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Perusahaan Pembiayaan yang akan melakukan
 kegiatan usaha pembiayaan lain sebagaimana
 dimaksud dalam Pasal 2 ayat (1) huruf d, kegiatan
@@ -4302,7 +4237,6 @@ harus memenuhi persyaratan sebagai berikut:
 a. rencana untuk melakukan kegiatan usaha
 pembiayaan lain, kegiatan usaha lain,
 dan/atau cara pembiayaan lain, telah
-
 
 -----
 
@@ -4362,7 +4296,6 @@ pada ayat (5), Otoritas Jasa Keuangan memberikan
 persetujuan atau penolakan sesuai dengan
 ketentuan sebagaimana dimaksud pada ayat (3).
 
-
 -----
 
 (7) Apabila dalam jangka waktu 20 (dua puluh) hari
@@ -4394,7 +4327,7 @@ alasan penolakan.
 6. Ketentuan Pasal 12 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 12
+### Pasal 12 ^pasal-12
 Pembiayaan Investasi dengan cara Pembiayaan Proyek
 wajib dilakukan dengan menggunakan 1 (satu) atau
 lebih cara pembiayaan sebagaimana dimaksud dalam
@@ -4403,7 +4336,7 @@ Pasal 4 ayat (1) huruf a sampai dengan huruf e.
 7. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Perusahaan Pembiayaan yang melakukan kegiatan
 Pembiayaan Investasi dengan cara Pembiayaan
 Infrastruktur harus memenuhi persyaratan
@@ -4424,7 +4357,6 @@ Otoritas Jasa Keuangan.
 (2) Pembiayaan Investasi dengan cara Pembiayaan
 Infrastruktur wajib dilakukan dengan
 
-
 -----
 
 menggunakan 1 (satu) atau lebih cara pembiayaan
@@ -4434,7 +4366,7 @@ huruf a sampai dengan huruf e.
 8. Ketentuan ayat (3) Pasal 14 dihapus sehingga berbunyi
 sebagai berikut:
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Fasilitas Modal Usaha sebagaimana dimaksud
 dalam Pasal 4 ayat (2) huruf e dilakukan dengan
 cara memberikan pembiayaan berdasarkan
@@ -4451,7 +4383,7 @@ Debitur.
 9. Ketentuan ayat (3) Pasal 15 dihapus sehingga berbunyi
 sebagai berikut:
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) Fasilitas Dana sebagaimana dimaksud dalam
 Pasal 4 ayat (3) huruf c dilakukan dengan cara
 memberikan pembiayaan berdasarkan kebutuhan
@@ -4468,7 +4400,7 @@ Debitur.
 10. Ketentuan Pasal 16 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Untuk dapat melakukan kegiatan Pembiayaan
 Modal Kerja dengan cara Fasilitas Modal Usaha
 dan Pembiayaan Multiguna dengan cara Fasilitas
@@ -4485,7 +4417,6 @@ Disetor paling rendah 150% (seratus lima
 puluh lima persen).
 (2) Piutang Pembiayaan Multiguna dengan cara
 Fasilitas Dana dilarang melebihi 25% (dua puluh
-
 
 -----
 
@@ -4530,7 +4461,7 @@ Dana.
 11. Ketentuan dan penjelasan Pasal 17 diubah sehingga
 berbunyi sebagai berikut:
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Pembiayaan Modal Kerja dengan cara Fasilitas
 Modal Usaha dan Pembiayaan Multiguna dengan
 cara Fasilitas Dana wajib memenuhi persyaratan:
@@ -4545,7 +4476,6 @@ ratus juta rupiah);
 c. memiliki agunan berupa kendaraan bermotor,
 mesin, tanah, bangunan, kapal, dan/atau
 alat berat;
-
 
 -----
 
@@ -4605,10 +4535,9 @@ pada ayat (1).
 13. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai
 berikut:
 
-
 -----
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) Dalam mendukung penyelenggaraan kegiatan
 usaha yang baik dan kegiatan pelaporan secara
 elektronik, Perusahaan Pembiayaan wajib memiliki:
@@ -4623,7 +4552,7 @@ ukuran Perusahaan Pembiayaan.
 14. Ketentuan Pasal 19 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) Perusahaan Pembiayaan dapat melakukan
 Layanan Pembiayaan Digital.
 (2) Sistem Elektronik yang digunakan dalam Layanan
@@ -4662,7 +4591,6 @@ usaha dengan memanfaatkan teknologi informasi;
 b. salah satu anggota Direksi dan pejabat 1 (satu)
 tingkat di bawah Direksi yang membidangi
 pengelolaan sistem informasi wajib memiliki
-
 
 -----
 
@@ -4722,7 +4650,6 @@ verifikasi, pengujian, dan keperluan lainnya.
 (4) Perusahaan Pembiayaan wajib memelihara _log_
 transaksi berdasarkan kebijakan retensi data
 
-
 -----
 
 sesuai dengan ketentuan peraturan perundangundangan.
@@ -4779,7 +4706,6 @@ pribadi dalam Sistem Elektronik paling singkat 5
 (lima) tahun sejak berakhirnya hubungan usaha.
 (2) Kecuali ditentukan lain oleh ketentuan peraturan
 perundang-undangan, pemilik data dapat
-
 
 -----
 
@@ -4840,7 +4766,6 @@ nama dan/atau merek Perusahaan Pembiayaan
 dalam seluruh proses penyaluran pembiayaan
 baik secara daring maupun luring.
 
-
 -----
 
 Pasal 19H
@@ -4898,7 +4823,6 @@ Otoritas Jasa Keuangan sebagaimana dimaksud
 pada ayat (6).
 (8) Dalam hal Direksi telah menyampaikan
 kelengkapan dokumen sebagaimana dimaksud
-
 
 -----
 
@@ -4960,7 +4884,6 @@ dengan memperhatikan:
 a. batas minimum usia calon Debitur;
 b. batas minimum penghasilan calon Debitur;
 
-
 -----
 
 c. kelayakan kemampuan pembayaran calon
@@ -5019,7 +4942,6 @@ yang relevan dengan kebutuhan penilaian;
 dan
 d. analisis calon Debitur.
 
-
 -----
 
 (3) Penilaian skor kredit (credit scoring) sebagaimana
@@ -5068,7 +4990,7 @@ ayat (1) ditetapkan oleh Otoritas Jasa Keuangan.
 17. Ketentuan Pasal 20 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Perusahaan Pembiayaan yang memiliki Tingkat
 Kesehatan paling rendah Peringkat Komposit 2 dan
 mempunyai nilai Rasio NPF Neto untuk
@@ -5077,7 +4999,6 @@ atau sama dengan 1% (satu persen) dapat
 menerapkan ketentuan besaran Uang Muka
 Pembiayaan Kendaraan Bermotor kepada Debitur
 sebagai berikut:
-
 
 -----
 
@@ -5138,7 +5059,6 @@ Multiguna, paling rendah 15% (lima belas
 persen) dari harga jual kendaraan yang
 bersangkutan.
 
-
 -----
 
 (4) Perusahaan Pembiayaan yang tidak memenuhi
@@ -5197,7 +5117,6 @@ pihak berwenang dan digunakan untuk
 kegiatan usaha yang relevan dengan izin
 usaha yang dimiliki.
 
-
 -----
 
 (7) Pembiayaan kendaraan bermotor yang diberikan
@@ -5225,7 +5144,7 @@ b. penjaminan atas piutang pembiayaan.
 18. Ketentuan Pasal 21 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Penerapan besaran Uang Muka Pembiayaan
 Kendaraan Bermotor sebagaimana dimaksud
 dalam Pasal 20 ayat (1) sampai dengan ayat (5)
@@ -5258,10 +5177,9 @@ dalam Pasal 20 ayat (1) sampai dengan ayat (5).
 19. Ketentuan Pasal 23 diubah sehingga berbunyi sebagai
 berikut:
 
-
 -----
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Perusahaan Pembiayaan wajib memenuhi
 ketentuan BMPP kepada pihak terkait paling tinggi
 50% (lima puluh persen) dari Modal Perusahaan
@@ -5318,7 +5236,6 @@ Perusahaan Pembiayaan; atau
 badan usaha sebagaimana dimaksud
 dalam huruf a sampai dengan huruf d;
 
-
 -----
 
 i. badan usaha di mana:
@@ -5341,7 +5258,7 @@ sebagaimana dimaksud pada ayat (4).
 20. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 24
+### Pasal 24 ^pasal-24
 (1) Perusahaan Pembiayaan wajib memenuhi
 ketentuan BMPP kepada 1 (satu) Debitur yang
 bukan merupakan pihak terkait sebagaimana
@@ -5379,7 +5296,6 @@ dengan Debitur lain;
 d. Debitur menerbitkan jaminan untuk
 mengambil alih dan/atau melunasi sebagian
 
-
 -----
 
 atau seluruh kewajiban Debitur lain dalam
@@ -5393,7 +5309,7 @@ pada Debitur lain.
 21. Ketentuan Pasal 25 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) Ketentuan BMPP sebagaimana dimaksud dalam
 Pasal 23 ayat (1), dan Pasal 24 ayat (1) dan ayat (2)
 dikecualikan bagi penyaluran pembiayaan yang
@@ -5437,7 +5353,6 @@ d. penggabungan usaha dan/atau perubahan
 struktur kepengurusan yang menyebabkan
 perubahan pihak terkait dan atau kelompok
 Debitur; dan/atau
-
 
 -----
 
@@ -5490,14 +5405,13 @@ dimaksud dalam Pasal 25 ayat (1).
 23. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 26
+### Pasal 26 ^pasal-26
 (1) Perusahaan Pembiayaan wajib melakukan mitigasi
 risiko pembiayaan.
 (2) Mitigasi risiko pembiayaan sebagaimana dimaksud
 pada ayat (1) dilakukan dengan cara:
 a. mengalihkan risiko pembiayaan melalui
 mekanisme asuransi kredit atau penjaminan
-
 
 -----
 
@@ -5521,7 +5435,7 @@ Keuangan ini.
 24. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) Perusahaan Pembiayaan yang melakukan mitigasi
 risiko dengan cara pengalihan risiko sebagaimana
 dimaksud dalam Pasal 26 ayat (2) huruf a wajib
@@ -5552,7 +5466,6 @@ amortisasi premi atas asuransi kredit terhadap
 asuransi kredit yang tidak lagi memberikan
 manfaat kepada Perusahaan Pembiayaan.
 
-
 -----
 
 25. Di antara Pasal 27 dan Pasal 28 disisipkan 2 (dua)
@@ -5571,7 +5484,7 @@ nilai klaim asuransi sebesar persentase dari nilai premi.
 26. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) Perusahaan Pembiayaan yang melakukan mitigasi
 risiko dengan cara pengalihan risiko sebagaimana
 dimaksud dalam Pasal 26 ayat (2) huruf b wajib
@@ -5604,7 +5517,7 @@ Perusahaan Pembiayaan.
 27. Ketentuan Pasal 29 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 29
+### Pasal 29 ^pasal-29
 (1) Perusahaan Pembiayaan yang melakukan mitigasi
 risiko dengan cara asuransi kredit, penjaminan
 kredit, dan/atau asuransi atas barang yang
@@ -5614,7 +5527,6 @@ yang menjadi agunan dari kegiatan Pembiayaan,
 wajib memperhitungkan klaim asuransi kredit,
 penjaminan kredit, dan/atau asuransi atas barang
 yang dibiayai dengan cara pembiayaan Sewa
-
 
 -----
 
@@ -5631,7 +5543,7 @@ pembiayaan.
 28. Ketentuan Pasal 31 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 31
+### Pasal 31 ^pasal-31
 Perusahaan Pembiayaan yang mencantumkan klausul
 pembebanan jaminan fidusia baik dalam perjanjian
 pembiayaan pokok maupun dalam dokumen terpisah
@@ -5643,7 +5555,7 @@ perjanjian pembiayaan.
 29. Ketentuan Pasal 33 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 33
+### Pasal 33 ^pasal-33
 (1) Seluruh perjanjian pembiayaan antara
 Perusahaan Pembiayaan dengan Debitur wajib
 dibuat secara tertulis.
@@ -5677,7 +5589,6 @@ sebagaimana dimaksud pada ayat (3) wajib
 dituangkan dalam pedoman penggunaan Tanda
 Tangan Elektronik dan dilaksanakan sesuai
 
-
 -----
 
 dengan ketentuan peraturan perundangundangan yang mengatur mengenai Tanda Tangan
@@ -5686,7 +5597,7 @@ Elektronik.
 31. Ketentuan Pasal 34 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 34
+### Pasal 34 ^pasal-34
 (1) Perjanjian pembiayaan sebagaimana dimaksud
 dalam Pasal 33 wajib paling sedikit memuat:
 a. jenis kegiatan usaha dan cara pembiayaan;
@@ -5736,7 +5647,6 @@ r. ilustrasi pembagian pokok piutang
 pembiayaan, bunga, dan outstanding pokok
 pembiayaan;
 
-
 -----
 
 s. ketentuan mengenai hak dan kewajiban para
@@ -5756,7 +5666,7 @@ simpanan jaminan.
 32. Ketentuan Pasal 68 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 68
+### Pasal 68 ^pasal-68
 (1) Perusahaan Pembiayaan dilarang melakukan
 penyertaan langsung selain pada:
 a. perusahaan di sektor jasa keuangan di
@@ -5786,7 +5696,7 @@ yang bersangkutan.
 33. Ketentuan Pasal 72 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 72
+### Pasal 72 ^pasal-72
 Perusahaan Pembiayaan yang akan melakukan
 penerbitan efek melalui penawaran umum
 sebagaimana dimaksud dalam Pasal 69 ayat (1) huruf d
@@ -5798,13 +5708,12 @@ b. memiliki Tingkat Kesehatan paling rendah
 Peringkat Komposit 2; dan
 c. memenuhi ketentuan gearing ratio.
 
-
 -----
 
 34. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 73
+### Pasal 73 ^pasal-73
 (1) Perusahaan Pembiayaan yang akan melakukan
 penerbitan efek melalui penawaran umum
 sebagaimana dimaksud dalam Pasal 69 ayat (1)
@@ -5852,12 +5761,11 @@ laporan diterima secara lengkap.
 35. Ketentuan Pasal 75 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 75
+### Pasal 75 ^pasal-75
 Perusahaan Pembiayaan yang akan melakukan
 penerbitan efek bersifat utang tidak melalui penawaran
 umum sebagaimana dimaksud dalam Pasal 69 ayat (1)
 huruf e wajib memenuhi persyaratan sebagai berikut:
-
 
 -----
 
@@ -5880,7 +5788,7 @@ Keuangan.
 36. Ketentuan Pasal 76 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 76
+### Pasal 76 ^pasal-76
 (1) Perusahaan Pembiayaan yang akan melakukan
 penerbitan efek bersifat utang tidak melalui
 penawaran umum sebagaimana dimaksud dalam
@@ -5918,7 +5826,6 @@ penting setelah tanggal laporan keuangan
 yang telah diaudit oleh kantor akuntan
 publik;
 
-
 -----
 
 g. pernyataan dari Direksi sesuai dengan format
@@ -5941,7 +5848,7 @@ laporan diterima.
 37. Ketentuan Pasal 79 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 79
+### Pasal 79 ^pasal-79
 (1) Perusahaan Pembiayaan wajib memenuhi
 ketentuan _gearing ratio paling rendah 0 (nol) kali_
 dan paling tinggi 10 (sepuluh) kali.
@@ -5973,20 +5880,19 @@ pasal.
 39. Ketentuan Pasal 81 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 81
+### Pasal 81 ^pasal-81
 Perusahaan Pembiayaan yang akan menerima
 pinjaman dalam bentuk valuta asing sebagaimana
 dimaksud dalam Pasal 80 ayat (1) wajib memiliki
 Tingkat Kesehatan ditetapkan paling rendah Peringkat
 Komposit 2.
 
-
 -----
 
 40. Ketentuan Pasal 82 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 82
+### Pasal 82 ^pasal-82
 Perusahaan Pembiayaan dilarang:
 a. menghimpun dana secara langsung dari
 masyarakat berbentuk giro, tabungan, deposito,
@@ -6017,7 +5923,7 @@ masyarakat atas layanan pengaduan.
 41. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 84
+### Pasal 84 ^pasal-84
 (1) Perusahaan Pembiayaan wajib memiliki rasio
 Saldo Piutang Pembiayaan (Outstanding Principal)
 neto terhadap total aset (financing to asset ratio)
@@ -6039,7 +5945,6 @@ pada ayat (2) yang telah memperoleh izin usaha
 pada saat Peraturan Otoritas Jasa Keuangan ini
 diundangkan wajib memiliki rasio Saldo Piutang
 Pembiayaan (Outstanding Principal) neto terhadap
-
 
 -----
 
@@ -6070,7 +5975,7 @@ PERMODALAN
 43. Ketentuan Pasal 87 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 87
+### Pasal 87 ^pasal-87
 Perusahaan Pembiayaan wajib memiliki Modal Inti
 paling sedikit Rp100.000.000.000,00 (seratus miliar
 rupiah).
@@ -6102,7 +6007,6 @@ persetujuan Otoritas Jasa Keuangan;
 b. tambahan modal disetor, yaitu penjumlahan
 dari agio/disagio saham, dan biaya emisi efek
 ekuitas;
-
 
 -----
 
@@ -6161,7 +6065,6 @@ dilunasi setelah memperoleh
 persetujuan dari Otoritas Jasa
 Keuangan; dan
 
-
 -----
 
 2. dalam hal terjadi likuidasi, hak tagih
@@ -6189,7 +6092,7 @@ pinjaman.
 45. Ketentuan Pasal 88 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 88
+### Pasal 88 ^pasal-88
 Perusahaan pembiayaan wajib memiliki rasio Modal Inti
 terhadap Modal Disetor paling rendah 50% (lima puluh
 persen).
@@ -6203,7 +6106,7 @@ TINGKAT KESEHATAN
 47. Ketentuan Pasal 89 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 89
+### Pasal 89 ^pasal-89
 (1) Perusahaan Pembiayaan wajib setiap waktu
 memenuhi persyaratan Tingkat Kesehatan dengan
 kondisi minimum Peringkat Komposit 2.
@@ -6216,12 +6119,11 @@ keuangan nonbank.
 48. Ketentuan Pasal 94 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 94
+### Pasal 94 ^pasal-94
 (1) Perusahaan Pembiayaan wajib menetapkan
 kualitas piutang pembiayaan yang sama terhadap
 1 (satu) Debitur dengan lebih dari 1 (satu)
 pembiayaan.
-
 
 -----
 
@@ -6281,7 +6183,6 @@ piutang pembiayaan.
 (2) Kebijakan restrukturisasi piutang pembiayaan
 sebagaimana dimaksud pada ayat (1) wajib
 disetujui oleh Dewan Komisaris.
-
 
 -----
 
@@ -6343,7 +6244,6 @@ dan reputasi yang baik.
 (3) Setiap tahapan dalam pelaksanaan restrukturisasi
 pembiayaan dan hasil analisis yang dilakukan
 
-
 -----
 
 Perusahaan Pembiayaan dan konsultan keuangan
@@ -6401,7 +6301,6 @@ pembiayaan; dan
 b. setelah 3 (tiga) kali periode kewajiban
 pembayaran kualitas piutang pembiayaan
 yang direstrukturisasi ditetapkan
-
 
 -----
 
@@ -6461,7 +6360,6 @@ proyek yang sama dengan jumlah kurang dari atau
 sama dengan Rp5.000.000.000,00 (lima miliar
 rupiah).
 
-
 -----
 
 50. Bagian Keempat dalam BAB XIX dihapus.
@@ -6475,7 +6373,7 @@ rupiah).
 54. Ketentuan Pasal 103 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 103
+### Pasal 103 ^pasal-103
 (1) Perusahaan Pembiayaan wajib menyampaikan
 laporan berkala kepada Otoritas Jasa Keuangan,
 berupa:
@@ -6502,7 +6400,7 @@ mengenai laporan bulanan.
 55. Ketentuan Pasal 104 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 104
+### Pasal 104 ^pasal-104
 (1) Perusahaan Pembiayaan wajib menyampaikan
 laporan keuangan tahunan yang telah diaudit oleh
 akuntan publik sebagaimana dimaksud dalam
@@ -6521,7 +6419,6 @@ penyampaian laporan pada hari kerja pertama
 berikutnya.
 (4) Dalam penyampaian laporan keuangan tahunan
 yang telah diaudit oleh akuntan publik
-
 
 -----
 
@@ -6574,7 +6471,7 @@ dari manfaatnya.
 61. Ketentuan Pasal 113 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 113
+### Pasal 113 ^pasal-113
 (1) Perusahaan Pembiayaan yang melanggar
 ketentuan sebagaimana dimaksud dalam Pasal 4
 ayat (1), ayat (2), ayat (3), dan ayat (4), Pasal 5 ayat
@@ -6582,7 +6479,6 @@ ayat (1), ayat (2), ayat (3), dan ayat (4), Pasal 5 ayat
 Pasal 12, Pasal 13 ayat (2), Pasal 14 ayat (2), Pasal
 15 ayat (2), Pasal 16 ayat (1) dan ayat (2), Pasal 17
 ayat (1), Pasal 17A ayat (5), Pasal 18 ayat (1), Pasal
-
 
 -----
 
@@ -6641,7 +6537,6 @@ ayat (1) huruf b sampai g dapat dikenakan dengan
 atau tanpa didahului pengenaan sanksi
 administratif berupa peringatan tertulis
 sebagaimana dimaksud pada ayat (1) huruf a.
-
 
 -----
 
@@ -6702,7 +6597,6 @@ pihak terkait Perusahaan yang menyebabkan
 Perusahaan Pembiayaan melanggar
 ketentuan sebagaimana dimaksud pada ayat
 
-
 -----
 
 (1) dalam sistem elektronik Otoritas Jasa
@@ -6738,7 +6632,7 @@ dimaksud pada ayat (1).
 ayat (1) harus ditandatangani oleh seluruh Direksi
 dan Dewan Komisaris.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 Beberapa ketentuan dalam Peraturan Otoritas Jasa
 Keuangan Nomor 10/POJK.05/2019 tentang
 Penyelenggaraan Usaha Perusahaan Pembiayaan Syariah
@@ -6749,7 +6643,7 @@ Tambahan Lembaran Negara Republik Indonesia Nomor
 1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 1
+### Pasal 1 ^pasal-1
 1. Perusahaan Syariah adalah perusahaan
 pembiayaan syariah dan unit usaha syariah.
 2. Perusahaan Pembiayaan adalah badan hukum
@@ -6763,7 +6657,6 @@ pembiayaan yang dilakukan berdasarkan prinsip
 syariah yang disalurkan oleh Perusahaan Syariah.
 5. Unit Usaha Syariah yang selanjutnya disingkat
 UUS adalah unit kerja dari kantor pusat
-
 
 -----
 
@@ -6822,7 +6715,6 @@ pihak.
 15. _Musyarakah adalah pembiayaan berdasarkan_
 akad kerja sama antara dua pihak atau lebih
 untuk suatu usaha tertentu, di mana masingmasing pihak memberikan kontribusi dana dengan
-
 
 -----
 
@@ -6883,7 +6775,6 @@ Bermotor adalah pembayaran di muka atau uang
 muka secara tunai yang sumber dananya berasal
 dari Konsumen untuk pengadaan kendaraan
 
-
 -----
 
 bermotor dengan menggunakan mekanisme
@@ -6943,7 +6834,6 @@ berbentuk badan hukum koperasi.
 Pembiayaan Syariah yang bertugas melakukan
 pengawasan secara umum dan/atau khusus
 
-
 -----
 
 sesuai dengan anggaran dasar serta memberi
@@ -7002,7 +6892,6 @@ sebagaimana dimaksud dalam undang-undang
 yang mengatur mengenai informasi dan transaksi
 elektronik.
 
-
 -----
 
 46. Peringkat Komposit adalah peringkat akhir hasil
@@ -7012,7 +6901,7 @@ Pembiayaan Syariah.
 2. Ketentuan ayat (2) dan ayat (3) Pasal 3 diubah sehingga
 berbunyi sebagai berikut:
 
-Pasal 3
+### Pasal 3 ^pasal-3
 (1) Perusahaan Syariah wajib memenuhi Prinsip
 Syariah dalam melaksanakan kegiatan usaha dan
 di dalam penggunaan akad.
@@ -7042,7 +6931,7 @@ d. penerapan akuntansi.
 3. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Pembiayaan Syariah meliputi:
 
 a. Pembiayaan Jual Beli;
@@ -7058,14 +6947,13 @@ keuangan.
 4. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) Pembiayaan Jual Beli sebagaimana dimaksud
 dalam Pasal 4 ayat (1) huruf a dilakukan dengan
 menggunakan akad:
 a. _Murabahah;_
 b. _Salam; dan/atau_
 c. _Istishna’._
-
 
 -----
 
@@ -7126,7 +7014,6 @@ secara umum.
 (3) Penghentian penyaluran kegiatan usaha
 Perusahaan Syariah sebagaimana dimaksud pada
 
-
 -----
 
 ayat (1) dapat dilakukan secara seluruhnya atau
@@ -7146,7 +7033,7 @@ pada ayat (1).
 6. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Dalam mendukung penyelenggaraan kegiatan
 usaha yang baik dan kegiatan pelaporan secara
 elektronik, Perusahaan Pembiayaan Syariah wajib
@@ -7161,7 +7048,7 @@ ukuran Perusahaan Pembiayaan Syariah.
 7. Ketentuan Pasal 14 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Perusahaan Pembiayaan Syariah dapat melakukan
 kegiatan Layanan Pembiayaan Syariah Digital.
 (2) Sistem Elektronik yang digunakan dalam kegiatan
@@ -7187,7 +7074,6 @@ PERUSAHAAN PEMBIAYAAN SYARIAH YANG
 MENYELENGGARAKAN LAYANAN PEMBIAYAAN SYARIAH
 
 DIGITAL
-
 
 -----
 
@@ -7247,7 +7133,6 @@ pribadi, data transaksi, dan data keuangan
 sebagaimana dimaksud pada ayat (1), ditetapkan
 oleh Otoritas Jasa Keuangan.
 
-
 -----
 
 Pasal 14C
@@ -7304,7 +7189,6 @@ lokasi dari gawai pemilik data pribadi.
 (3) Persetujuan sebagaimana dimaksud pada ayat (1)
 dapat dikecualikan sesuai dengan ketentuan
 peraturan perundang-undangan.
-
 
 -----
 
@@ -7364,7 +7248,6 @@ diatur dalam perjanjian.
 (6) Ketentuan penghapusan data pribadi
 dilaksanakan sesuai dengan ketentuan peraturan
 
-
 -----
 
 perundang-undangan mengenai perlindungan
@@ -7423,7 +7306,6 @@ penolakan atas permohonan sebagaimana
 dimaksud pada ayat (3) dalam jangka waktu paling
 lama 20 (dua puluh) hari kerja sejak permohonan
 diterima.
-
 
 -----
 
@@ -7486,7 +7368,6 @@ dimaksud dalam Pasal 14H ayat (1) sebelum Peraturan
 Otoritas Jasa Keuangan ini diundangkan wajib
 menyampaikan laporan kepada Otoritas Jasa
 
-
 -----
 
 Keuangan dengan melampirkan dokumen paling
@@ -7545,7 +7426,6 @@ Pasal 14K
 melaksanakan penilaian skor kredit (credit scoring)
 dalam menyalurkan Layanan Pembiayaan Syariah
 
-
 -----
 
 Digital tanpa melalui tatap muka secara fisik
@@ -7603,7 +7483,6 @@ Perusahaan Pembiayaan Syariah.
 evaluasi efektivitas penilaian skor kredit (credit
 _scoring) dalam mitigasi risiko Pembiayaan Syariah._
 
-
 -----
 
 (3) Evaluasi efektivitas penilaian skor kredit (credit
@@ -7622,7 +7501,7 @@ ayat (1) ditetapkan oleh Otoritas Jasa Keuangan.
 10. Ketentuan Pasal 15 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) Perusahaan Pembiayaan Syariah yang memiliki
 Tingkat Kesehatan paling rendah Peringkat
 Komposit 2 atau UUS yang memiliki peringkat
@@ -7661,7 +7540,6 @@ b. bagi kendaraan bermotor roda empat atau
 lebih yang digunakan untuk tujuan produktif,
 paling rendah 5% (lima persen) dari harga jual
 kendaraan yang bersangkutan; atau
-
 
 -----
 
@@ -7718,7 +7596,6 @@ bersangkutan.
 Aset Produktif Bermasalah Neto untuk
 Pembiayaan Syariah kendaraan bermotor lebih
 tinggi dari 5% (lima persen) wajib menerapkan
-
 
 -----
 
@@ -7777,13 +7654,12 @@ bersangkutan; dan
 b. penjaminan atas aset produktif Pembiayaan
 Syariah.
 
-
 -----
 
 11. Ketentuan Pasal 16 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Penerapan besaran Uang Muka Pembiayaan
 Syariah Kendaraan Bermotor sebagaimana
 dimaksud dalam Pasal 15 ayat (1) sampai dengan
@@ -7819,7 +7695,7 @@ sampai dengan ayat (5).
 12. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) Perusahaan Syariah wajib memenuhi ketentuan
 BMPPS kepada pihak terkait paling tinggi 50%
 (lima puluh persen) dari Modal Perusahaan
@@ -7837,7 +7713,6 @@ menghitung BMPPS sebagaimana dimaksud pada
 ayat (1) didasarkan pada Modal dalam laporan
 keuangan yang diajukan pada saat permohonan
 izin.
-
 
 -----
 
@@ -7898,7 +7773,6 @@ dewan komisaris atau direksi atau yang
 setara pada Perusahaan Pembiayaan
 yang memiliki UUS sebagaimana
 
-
 -----
 
 dimaksud dalam huruf e bertindak
@@ -7919,7 +7793,7 @@ sebagaimana dimaksud pada ayat (4).
 sebagaimana tercantum dalam penjelasan pasal demi
 pasal sehingga berbunyi sebagai berikut:.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) Perusahaan Syariah wajib memenuhi ketentuan
 BMPPS kepada 1 (satu) Konsumen yang bukan
 merupakan pihak terkait sebagaimana dimaksud
@@ -7959,7 +7833,6 @@ keuangan dengan Konsumen lain;
 d. Konsumen menerbitkan jaminan untuk
 mengambil alih dan/atau melunasi sebagian
 
-
 -----
 
 atau seluruh kewajiban Konsumen lain dalam
@@ -7973,7 +7846,7 @@ pada Konsumen lain.
 14. Ketentuan Pasal 20 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Ketentuan BMPPS sebagaimana dimaksud dalam
 Pasal 18 ayat (1), dan Pasal 19 ayat (1) dan ayat (2)
 dikecualikan bagi penyaluran Pembiayaan Syariah
@@ -8017,7 +7890,6 @@ d. penggabungan usaha dan/atau perubahan
 struktur kepengurusan yang menyebabkan
 perubahan pihak terkait dan atau kelompok
 Konsumen; dan/atau
-
 
 -----
 
@@ -8070,14 +7942,13 @@ dalam Pasal 20 ayat (1).
 16. Ketentuan Pasal 21 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Perusahaan Syariah wajib melakukan mitigasi
 risiko Pembiayaan Syariah.
 (2) Mitigasi risiko Pembiayaan Syariah sebagaimana
 dimaksud pada ayat (1) dilakukan dengan cara:
 a. mengalihkan risiko Pembiayaan Syariah
 melalui asuransi pembiayaan syariah atau
-
 
 -----
 
@@ -8101,7 +7972,7 @@ Keuangan ini.
 17. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) Perusahaan Syariah yang melakukan mitigasi
 risiko dengan cara pengalihan risiko sebagaimana
 dimaksud dalam Pasal 21 ayat (2) huruf a wajib
@@ -8139,7 +8010,6 @@ Perusahaan Syariah.
 pasal, yakni Pasal 22A dan Pasal 22B sehingga
 berbunyi sebagai berikut:
 
-
 -----
 
 Pasal 22A
@@ -8156,7 +8026,7 @@ Syariah sebesar persentase dari nilai premi.
 19. Ketentuan Pasal 23 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Perusahaan Syariah yang melakukan mitigasi
 risiko dengan cara pengalihan risiko sebagaimana
 dimaksud dalam Pasal 21 ayat (2) huruf b wajib
@@ -8191,7 +8061,7 @@ manfaat kepada Perusahaan Syariah.
 20. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 24
+### Pasal 24 ^pasal-24
 (1) Perusahaan Syariah yang melakukan mitigasi
 risiko dengan cara asuransi pembiayaan syariah,
 penjaminan syariah, dan/atau asuransi syariah
@@ -8199,7 +8069,6 @@ sebagaimana dimaksud dalam Pasal 21 ayat (2)
 huruf b, wajib memperhitungkan hasil klaim
 asuransi pembiayaan syariah, penjaminan
 syariah, dan/atau asuransi syariah atas barang
-
 
 -----
 
@@ -8216,7 +8085,7 @@ Pembiayaan Syariah.
 21. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 26
+### Pasal 26 ^pasal-26
 Perusahaan Syariah yang mencantumkan klausul
 pembebanan jaminan fidusia baik dalam perjanjian
 Pembiayaan Syariah pokok maupun dalam dokumen
@@ -8228,7 +8097,7 @@ tanggal perjanjian Pembiayaan Syariah.
 22. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) Seluruh perjanjian Pembiayaan Syariah antara
 Perusahaan Pembiayaan Syariah atau Perusahaan
 Pembiayaan yang mempunyai UUS dengan
@@ -8262,7 +8131,6 @@ dengan ketentuan peraturan perundangundangan.
 (4) Penggunaan Tanda Tangan Elektronik yang telah
 diamankan dengan sertifikat elektronik
 
-
 -----
 
 sebagaimana dimaksud pada ayat (3) wajib
@@ -8274,7 +8142,7 @@ Elektronik.
 24. Ketentuan Pasal 31 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 31
+### Pasal 31 ^pasal-31
 (1) Perjanjian Pembiayaan Syariah dalam Pembiayaan
 Syariah sebagaimana dimaksud dalam Pasal 28
 wajib paling sedikit memuat:
@@ -8321,7 +8189,6 @@ Konsumen wanprestasi (jika ada);
 p. ketentuan penjualan agunan dalam hal
 Konsumen wanprestasi (jika ada);
 
-
 -----
 
 q. ketentuan mengenai mekanisme pelunasan
@@ -8347,7 +8214,7 @@ mencantumkan nilai uang muka.
 25. Ketentuan Pasal 65 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 65
+### Pasal 65 ^pasal-65
 (1) Perusahaan Pembiayaan Syariah dilarang
 melakukan penyertaan langsung selain pada:
 a. perusahaan di sektor jasa keuangan di
@@ -8372,7 +8239,7 @@ pada saat melakukan penyertaan.
 26. Ketentuan Pasal 69 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 69
+### Pasal 69 ^pasal-69
 Perusahaan Syariah yang akan melakukan penerbitan
 efek syariah melalui penawaran umum sebagaimana
 dimaksud dalam Pasal 66 ayat (1) huruf d wajib
@@ -8383,7 +8250,6 @@ rencana bisnis Perusahaan Syariah;
 b. memiliki Tingkat Kesehatan paling rendah
 Peringkat Komposit 2; dan
 
-
 -----
 
 c. memenuhi ketentuan gearing ratio.
@@ -8391,7 +8257,7 @@ c. memenuhi ketentuan gearing ratio.
 27. Ketentuan Pasal 70 diubah sehingga Pasal 70 berbunyi
 sebagai berikut:
 
-Pasal 70
+### Pasal 70 ^pasal-70
 (1) Perusahaan Syariah yang akan melakukan
 penerbitan efek syariah melalui penawaran umum
 sebagaimana dimaksud dalam Pasal 66 ayat (1)
@@ -8443,8 +8309,7 @@ secara lengkap.
 28. Ketentuan Pasal 72 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 72
-
+### Pasal 72 ^pasal-72
 
 -----
 
@@ -8472,7 +8337,7 @@ Keuangan.
 29. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 73
+### Pasal 73 ^pasal-73
 (1) Perusahaan Syariah yang akan melakukan
 penerbitan sukuk tidak melalui penawaran umum
 sebagaimana dimaksud dalam Pasal 66 ayat (1)
@@ -8506,7 +8371,6 @@ ada) memuat informasi paling sedikit:
 e. proyeksi laporan keuangan 3 (tiga) tahun
 kedepan;
 
-
 -----
 
 f. informasi mengenai kejadian dan transaksi
@@ -8535,7 +8399,7 @@ laporan diterima.
 30. Ketentuan Pasal 76 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 76
+### Pasal 76 ^pasal-76
 (1) Perusahaan Syariah wajib memenuhi ketentuan
 _gearing ratio paling rendah 0 (nol) kali dan paling_
 tinggi 10 (sepuluh) kali.
@@ -8565,13 +8429,12 @@ bagi UUS.
 sebagaimana tercantum dalam penjelasan pasal demi
 pasal.
 
-
 -----
 
 32. Ketentuan Pasal 78 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 78
+### Pasal 78 ^pasal-78
 Perusahaan Syariah yang akan menerima pendanaan
 dalam bentuk valuta asing sebagaimana dimaksud
 dalam Pasal 77 ayat (1) wajib memenuhi Tingkat
@@ -8580,7 +8443,7 @@ Kesehatan paling rendah Peringkat Komposit 2.
 33. Ketentuan Pasal 79 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 79
+### Pasal 79 ^pasal-79
 Perusahaan Syariah dilarang:
 a. menghimpun dana secara langsung dari
 masyarakat berbentuk giro, tabungan, deposito,
@@ -8612,7 +8475,7 @@ masyarakat atas layanan pengaduan.
 34. Ketentuan Pasal 81 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 81
+### Pasal 81 ^pasal-81
 (1) Perusahaan Syariah wajib memiliki rasio Saldo
 Aset Produktif (Outstanding _Principal)_ neto
 terhadap total aset (financing to asset ratio) paling
@@ -8625,7 +8488,6 @@ kewajiban memiliki rasio Saldo Aset Produktif
 (financing to asset ratio) paling rendah 50% (lima
 puluh persen) sebagaimana dimaksud dalam ayat
 (1) dinyatakan mulai berlaku 2 (dua) tahun sejak
-
 
 -----
 
@@ -8668,7 +8530,7 @@ PERMODALAN
 36. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 84
+### Pasal 84 ^pasal-84
 (1) Perusahaan Pembiayaan Syariah wajib memiliki
 Modal Inti paling sedikit Rp100.000.000.000,00
 (seratus miliar rupiah).
@@ -8688,7 +8550,6 @@ b. Modal Pelengkap (Tier 2).
 (2) Bagi Perusahaan Pembiayaan Syariah berbentuk
 badan hukum koperasi, Modal Inti terdiri dari
 modal sendiri koperasi sebagaimana diatur dalam
-
 
 -----
 
@@ -8748,7 +8609,6 @@ instrumen keuangan; dan
 3. saldo surplus revaluasi aset tetap; dan
 j. komponen Modal Inti lainnya berdasarkan
 persetujuan Otoritas Jasa Keuangan.
-
 
 -----
 
@@ -8810,7 +8670,6 @@ utang dengan kategori sebagai berikut:
 a. memiliki karakteristik modal, bersifat
 subordinasi, pembayaran imbal hasil tidak
 
-
 -----
 
 dapat diakumulasikan, dan memiliki fitur
@@ -8847,7 +8706,7 @@ pemberi pinjaman.
 38. Ketentuan Pasal 85 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 85
+### Pasal 85 ^pasal-85
 Perusahaan Syariah wajib memiliki rasio Modal Inti
 terhadap Modal Disetor atau modal kerja bagi UUS
 paling rendah 50% (lima puluh persen).
@@ -8861,7 +8720,7 @@ TINGKAT KESEHATAN
 40. Ketentuan Pasal 86 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 86
+### Pasal 86 ^pasal-86
 (1) Perusahaan Syariah wajib setiap waktu memenuhi
 persyaratan Tingkat Kesehatan dengan kondisi
 minimum Peringkat Komposit 2.
@@ -8873,10 +8732,9 @@ kesehatan lembaga jasa keuangan nonbank.
 41. Ketentuan Pasal 91 diubah sehingga berbunyi sebagai
 berikut:
 
-
 -----
 
-Pasal 91
+### Pasal 91 ^pasal-91
 (1) Perusahaan Syariah wajib menetapkan kualitas
 aset produktif yang sama terhadap 1 (satu)
 Konsumen dengan lebih dari 1 (satu) Pembiayaan
@@ -8930,7 +8788,6 @@ a. objektivitas;
 b. independensi;
 c. menghindari benturan kepentingan; dan
 d. kewajaran.
-
 
 -----
 
@@ -8986,7 +8843,6 @@ direstrukturisasi.
 Perusahaan Syariah dapat membentuk satuan
 kerja khusus disesuaikan dengan kebutuhan
 masing-masing Perusahaan Syariah.
-
 
 -----
 
@@ -9044,7 +8900,6 @@ sesuai waktu yang diperjanjikan.
 (2) Penetapan kualitas aset produktif yang
 direstrukturisasi sampai dengan jumlah
 Rp1.000.000.000,00 (satu miliar rupiah):
-
 
 -----
 
@@ -9104,7 +8959,6 @@ nisbah, margin, hasil investasi/bagi hasil,
 dan/atau imbal jasa berakhir, kualitas aset
 produktif mengikuti penetapan kualitas aset
 
-
 -----
 
 produktif sebagaimana dimaksud dalam Pasal
@@ -9135,7 +8989,7 @@ Rp5.000.000.000,00 (lima miliar rupiah).
 47. Ketentuan Pasal 100 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 100
+### Pasal 100 ^pasal-100
 (1) Perusahaan Pembiayaan Syariah wajib
 menyampaikan laporan berkala kepada Otoritas
 Jasa Keuangan, berupa:
@@ -9158,14 +9012,13 @@ Keuangan mengenai laporan bulanan.
 48. Ketentuan Pasal 101 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 101
+### Pasal 101 ^pasal-101
 (1) Perusahaan Pembiayaan Syariah wajib
 menyampaikan laporan keuangan tahunan yang
 telah diaudit oleh akuntan publik sebagaimana
 dimaksud dalam Pasal 100 ayat (1) huruf b kepada
 Otoritas Jasa Keuangan paling lambat 4 (empat)
 bulan setelah tahun buku terakhir.
-
 
 -----
 
@@ -9226,7 +9079,6 @@ dari manfaatnya.
 
 52. Ketentuan Pasal 108 dihapus.
 
-
 -----
 
 53. Ketentuan Pasal 109 dihapus.
@@ -9234,7 +9086,7 @@ dari manfaatnya.
 54. Ketentuan Pasal 110 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 110
+### Pasal 110 ^pasal-110
 (1) Perusahaan Pembiayaan Syariah dan/atau
 Perusahaan Pembiayaan yang memiliki UUS yang
 melanggar ketentuan sebagaimana dimaksud
@@ -9285,7 +9137,6 @@ ayat (3), Pasal 95 ayat (1), Pasal 100 ayat (1), ayat
 (1), ayat (2), dan ayat (3), dan Pasal 103A ayat (1),
 dikenai sanksi administratif berupa:
 a. peringatan tertulis;
-
 
 -----
 
@@ -9346,7 +9197,6 @@ sebagaimana dimaksud pada ayat (1) namun
 pelanggaran telah diperbaiki, Otoritas Jasa
 Keuangan memberikan sanksi administratif
 
-
 -----
 
 berupa peringatan tertulis yang berakhir dengan
@@ -9403,12 +9253,11 @@ PENGEMBANGAN DAN PENGUATAN PERUSAHAAN
 
 PEMBIAYAAN INFRASTRUKTUR
 
-Pasal 7
+### Pasal 7 ^pasal-7
 Dalam rangka pengembangan dan penguatan Perusahaan
 Pembiayaan Infrastruktur, Peraturan Otoritas Jasa
 Keuangan ini mengubah, menghapus, dan/atau
 menetapkan pengaturan baru beberapa ketentuan yang
-
 
 -----
 
@@ -9418,7 +9267,7 @@ Infrastruktur (Lembaran Negara Republik Indonesia Tahun
 2020 Nomor 249, Tambahan Lembaran Negara Republik
 Indonesia Nomor 6576).
 
-Pasal 8
+### Pasal 8 ^pasal-8
 Beberapa ketentuan dalam Peraturan Otoritas Jasa
 Keuangan Nomor 46/POJK.05/2020 tentang Perusahaan
 Pembiayaan Infrastruktur (Lembaran Negara Republik
@@ -9428,7 +9277,7 @@ berikut:
 1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 1
+### Pasal 1 ^pasal-1
 1. Pembiayaan adalah penyediaan dana atau tagihan
 yang dapat dipersamakan, berdasarkan
 persetujuan atau kesepakatan pinjam meminjam
@@ -9469,7 +9318,6 @@ disingkat PSP adalah badan hukum, orang
 perseorangan, dan/atau kelompok usaha baik
 yang secara langsung maupun tidak langsung
 memiliki saham atau yang setara dengan saham
-
 
 -----
 
@@ -9530,7 +9378,6 @@ Infrastruktur yang selanjutnya disebut Tingkat
 Kesehatan adalah hasil penilaian kondisi
 Perusahaan Pembiayaan Infrastruktur yang
 
-
 -----
 
 dilakukan terhadap Tata Kelola Perusahaan yang
@@ -9586,10 +9433,9 @@ pelaksanaan Likuidasi.
 2. Ketentuan Pasal 2 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Kegiatan usaha Perusahaan Pembiayaan
 Infrastruktur meliputi:
-
 
 -----
 
@@ -9650,7 +9496,6 @@ Pembiayaan Infrastruktur yang seluruh kegiatan
 usahanya berdasarkan Prinsip Syariah atau
 dengan membentuk UUS.
 
-
 -----
 
 (6) Penyelenggaraan kegiatan usaha berdasarkan
@@ -9696,7 +9541,7 @@ ukuran Perusahaan Pembiayaan Infrastruktur.
 4. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 5
+### Pasal 5 ^pasal-5
 Bentuk badan hukum Perusahaan Pembiayaan
 Infrastruktur terdiri atas:
 a. perseroan terbatas; dan
@@ -9705,14 +9550,13 @@ b. koperasi.
 5. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) Perusahaan Pembiayaan Infrastruktur hanya
 dapat dimiliki oleh:
 a. Negara Kesatuan Republik Indonesia;
 b. Pemerintah Daerah;
 c. warga negara Indonesia;
 d. badan hukum Indonesia;
-
 
 -----
 
@@ -9745,7 +9589,7 @@ perkoperasian.
 6. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) PSP yang berbentuk badan hukum harus telah
 beroperasi paling sedikit 2 (dua) tahun sebelum
 melakukan penyertaan kepada Perusahaan
@@ -9773,7 +9617,6 @@ Jasa Keuangan.
 jasa keuangan yang berada dalam pengawasan
 Otoritas Jasa Keuangan, jumlah penyertaan modal
 pada Perusahaan Pembiayaan Infrastruktur harus
-
 
 -----
 
@@ -9834,7 +9677,6 @@ Infrastruktur, Otoritas Jasa Keuangan berwenang
 menetapkan PSP di luar PSP sebagaimana
 dimaksud pada ayat (1).
 
-
 -----
 
 (6) Tata cara penetapan PSP oleh Otoritas Jasa
@@ -9892,7 +9734,6 @@ perseroan terbatas; atau
 b. ketentuan peraturan perundang-undangan
 mengenai koperasi dan pengesahan koperasi
 
-
 -----
 
 bagi perusahaan berbentuk badan hukum
@@ -9901,7 +9742,7 @@ koperasi.
 8. Ketentuan Pasal 9 diubah diubah sehingga berbunyi
 sebagai berikut:
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) Perusahaan Pembiayaan Infrastruktur harus
 memiliki modal disetor pada saat pendirian paling
 sedikit Rp1.000.000.000.000,00 (satu triliun
@@ -9943,7 +9784,7 @@ persetujuan Otoritas Jasa Keuangan.
 9. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Ketentuan mengenai:
 a. kepemilikan warga negara asing sebagaimana
 dimaksud dalam Pasal 6 ayat (1) huruf f; dan
@@ -9953,7 +9794,6 @@ huruf e,
 dilaksanakan sesuai dengan Peraturan
 Pemerintah mengenai kepemilikan asing pada
 Perusahaan Pembiayaan Infrastruktur.
-
 
 -----
 
@@ -10011,10 +9851,9 @@ Otoritas Jasa Keuangan.
 10. Ketentuan Pasal 11 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Perusahaan Pembiayaan Infrastruktur wajib
 memiliki paling sedikit:
-
 
 -----
 
@@ -10075,7 +9914,6 @@ bersangkutan mengabaikan pelaksanaan tugas
 dan wewenang sebagai anggota Direksi
 Perusahaan Pembiayaan Infrastruktur.
 
-
 -----
 
 (9) Tidak termasuk rangkap jabatan sebagaimana
@@ -10097,7 +9935,7 @@ Infrastruktur.
 11. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Perusahaan Pembiayaan Infrastruktur wajib
 mempunyai susunan organisasi yang
 menggambarkan fungsi paling sedikit:
@@ -10135,7 +9973,6 @@ ayat (1) wajib didukung paling sedikit sistem
 pengolahan data yang dapat menghasilkan
 informasi yang lengkap, akurat, terkini, utuh, dan
 
-
 -----
 
 dapat dipertanggungjawabkan dalam pengambilan
@@ -10144,7 +9981,7 @@ keputusan.
 12. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) Perusahaan Pembiayaan Infrastruktur yang telah
 mendapat izin usaha dari Otoritas Jasa Keuangan
 wajib melakukan kegiatan usaha paling lambat 3
@@ -10195,7 +10032,6 @@ secara lengkap.
 (2) Dalam memberikan persetujuan atau penolakan
 sebagaimana dimaksud pada ayat (1), Otoritas
 Jasa Keuangan melakukan:
-
 
 -----
 
@@ -10256,7 +10092,6 @@ kepengurusan, anggaran dasar; dan/atau
 b. anggaran rumah tangga, kode etik, dan/atau
 program kerja.
 
-
 -----
 
 (3) Pelaporan sebaimana dimaksud pada ayat (2) atau
@@ -10307,7 +10142,7 @@ kepada Otoritas Jasa Keuangan paling lama 4
 14. Ketentuan Pasal 21 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Perusahaan Pembiayaan Infrastruktur yang
 menjalankan sebagian kegiatan usahanya
 berdasarkan Prinsip Syariah wajib membentuk
@@ -10317,7 +10152,6 @@ ayat (1) wajib dilakukan dengan memenuhi
 ketentuan:
 a. mengalokasikan modal kerja bagi UUS yang
 disisihkan secara terpisah;
-
 
 -----
 
@@ -10376,7 +10210,6 @@ berlaku;
 3. daftar riwayat hidup dengan dilengkapi
 pas foto berwarna yang terbaru
 berukuran 4 x 6 cm;
-
 
 -----
 
@@ -10438,7 +10271,6 @@ a. ekuitas UUS telah mencapai paling sedikit
 Rp1.000.000.000.000,00 (satu triliun rupiah);
 dan
 
-
 -----
 
 b. nilai aset UUS telah mencapai paling sedikit
@@ -10475,7 +10307,7 @@ Perusahaan Pembiayaan Infrastruktur Syariah.
 16. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 38
+### Pasal 38 ^pasal-38
 (1) Kualitas piutang Pembiayaan yang dikategorikan
 sebagai Pembiayaan bermasalah terdiri atas
 piutang Pembiayaan dengan kualitas kurang
@@ -10498,7 +10330,6 @@ pasal, yakni Pasal 43A, Pasal 43B, Pasal 43C, Pasal
 Pasal 43A
 (1) Pelampauan BMPP dapat disebabkan oleh hal:
 a. penurunan ekuitas;
-
 
 -----
 
@@ -10555,7 +10386,6 @@ pelaksanaan program pemerintah dan/atau
 penjaminan dari pemerintah sebagaimana dimaksud
 dalam Pasal 2 ayat (1) huruf e.
 
-
 -----
 
 Pasal 43D
@@ -10609,11 +10439,10 @@ Keuangan ini.
 18. Ketentuan Pasal 46 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 46
+### Pasal 46 ^pasal-46
 (1) Perusahaan Pembiayaan Infrastruktur wajib
 memenuhi rasio permodalan paling rendah 10%
 (sepuluh persen).
-
 
 -----
 
@@ -10669,13 +10498,12 @@ Pembiayaan Infrastruktur.
 21. Ketentuan Pasal 65 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 65
+### Pasal 65 ^pasal-65
 (1) Pencabutan izin usaha Perusahaan Pembiayaan
 Infrastruktur dilakukan oleh Otoritas Jasa
 Keuangan.
 (2) Pencabutan izin usaha Perusahaan Pembiayaan
 Infrastruktur sebagaimana dimaksud pada ayat (1)
-
 
 -----
 
@@ -10725,7 +10553,7 @@ perundang-undangan.
 22. Ketentuan Pasal 68 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 68
+### Pasal 68 ^pasal-68
 (1) Perusahaan Pembiayaan Infrastruktur yang akan
 menghentikan kegiatan usaha berdasarkan
 permintaan sendiri wajib mengajukan
@@ -10735,7 +10563,6 @@ kepada Otoritas Jasa Keuangan.
 melakukan permintaan pencabutan izin usaha
 sebagaimana dimaksud pada ayat (2) huruf a
 angka 1 dan huruf e harus memenuhi persyaratan:
-
 
 -----
 
@@ -10796,7 +10623,6 @@ permohonan.
 izin usaha berdasarkan permintaan sendiri
 sebagaimana dimaksud pada ayat (1) disetujui,
 Otoritas Jasa Keuangan menerbitkan surat
-
 
 -----
 
@@ -10859,7 +10685,6 @@ atau
 b. akuntan publik sebagaimana dimaksud pada
 ayat (2) dan ayat (3).
 
-
 -----
 
 (7) Perusahaan Pembiayaan Infrastruktur wajib
@@ -10918,7 +10743,6 @@ dokumen dari Otoritas Jasa Keuangan.
 kerja sejak tanggal surat permintaan kelengkapan
 dokumen sebagaimana dimaksud pada ayat (3),
 Otoritas Jasa Keuangan belum menerima
-
 
 -----
 
@@ -10980,7 +10804,6 @@ pembubaran kepada instansi yang
 berwenang, serta mengumumkannya dalam
 Berita Negara Republik Indonesia, 2 (dua)
 
-
 -----
 
 surat kabar harian yang mempunyai
@@ -11039,7 +10862,6 @@ Pembiayaan Infrastruktur.
 26. Setelah Bagian Kesatu BAB XX ditambahkan 1 (satu)
 bagian, yakni Bagian Kedua, sehingga berbunyi sebagai
 berikut:
-
 
 -----
 
@@ -11101,7 +10923,6 @@ Keuangan;
 e. melakukan pertanggungjawaban pelaksanaan
 Likuidasi kepada:
 
-
 -----
 
 1. RUPS, untuk Tim Likuidasi yang dibentuk
@@ -11162,7 +10983,6 @@ Jangka Waktu Likuidasi
 29. Di antara Pasal 69H dan Pasal 70 disisipkan 7 (tujuh)
 pasal, yakni Pasal 69I, Pasal 69J, Pasal 69K, Pasal 69L,
 
-
 -----
 
 Pasal 69M, Pasal 69N, dan Pasal 69O sehingga berbunyi
@@ -11221,7 +11041,6 @@ yang bersangkutan.
 (7) Dalam hal permohonan perpanjangan jangka
 waktu pelaksanaan Likuidasi ditolak, Otoritas
 Jasa Keuangan menyampaikan pemberitahuan
-
 
 -----
 
@@ -11283,7 +11102,6 @@ Likuidasi, dan pihak lain yang ditunjuk tidak boleh
 memiliki hubungan perkawinan, hubungan
 keluarga semenda, atau hubungan keluarga
 
-
 -----
 
 sedarah ke atas, ke bawah, dan ke samping sampai
@@ -11344,7 +11162,6 @@ Pembiayaan Infrastruktur;
 c. jaringan kantor Perusahaan Pembiayaan
 Infrastruktur dalam Likuidasi; dan/atau
 
-
 -----
 
 d. kualifikasi anggota Tim Likuidasi.
@@ -11402,7 +11219,6 @@ terakhir yang telah disetujui Otoritas Jasa
 Keuangan.
 (7) Dalam hal Otoritas Jasa Keuangan
 memperpanjang jangka waktu pelaksanaan
-
 
 -----
 
@@ -11464,7 +11280,6 @@ menghitung gaji terutang dan pesangon pegawai
 yang menjadi kewajiban Perusahaan Pembiayaan
 Infrastruktur kepada pegawai yang telah
 dilakukan pemutusan hubungan kerja.
-
 
 -----
 
@@ -11528,7 +11343,6 @@ e. melaksanakan penagihan piutang;
 f. melaksanakan pembayaran kewajiban kepada
 para kreditur; dan
 
-
 -----
 
 g. menitipkan bagian yang belum diambil oleh
@@ -11586,7 +11400,6 @@ penyusunan Neraca Sementara Likuidasi.
 (2) Tim Likuidasi menyampaikan Neraca Sementara
 Likuidasi kepada Otoritas Jasa Keuangan paling
 lama 60 (enam puluh) hari kerja setelah Tim
-
 
 -----
 
@@ -11648,7 +11461,6 @@ sebagai berikut:
 Bagian Keenam
 Pengawasan dan Pelaporan Likuidasi
 
-
 -----
 
 35. Di antara Pasal 69V dan Pasal 70 disisipkan 2 (dua)
@@ -11709,7 +11521,6 @@ berbunyi sebagai berikut:
 Pasal 69Y
 Pelaksanaan Likuidasi selesai dalam hal:
 
-
 -----
 
 a. seluruh kewajiban Perusahaan Pembiayaan
@@ -11768,7 +11579,6 @@ Pertanggungjawaban Tim Likuidasi
 
 39. Di antara Pasal 69Z dan Pasal 70 disisipkan 6 (enam)
 pasal, yakni Pasal 69AA, Pasal 69AB, Pasal 69AC, Pasal
-
 
 -----
 
@@ -11830,7 +11640,6 @@ a. meminta Tim Likuidasi untuk:
 1. mengumumkan berakhirnya Likuidasi
 dengan menempatkannya dalam:
 
-
 -----
 
 a) Berita Negara Republik Indonesia;
@@ -11889,7 +11698,6 @@ b. membubarkan Tim Likuidasi; dan
 c. memberhentikan Direksi, Dewan Komisaris,
 dan Dewan Pengawas Syariah non aktif.
 
-
 -----
 
 (3) Tindakan sebagaimana dimaksud pada ayat (2)
@@ -11938,7 +11746,7 @@ waktu sebagaimana dimaksud dalam Pasal 18 ayat
 41. Ketentuan Pasal 71 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 71
+### Pasal 71 ^pasal-71
 (1) Perusahaan Pembiayaan Infrastruktur melanggar
 ketentuan sebagaimana dimaksud dalam Pasal 2
 ayat (3) dan ayat (6), Pasal 3 ayat (2), Pasal 4 ayat
@@ -11949,7 +11757,6 @@ ayat (2), Pasal 9 ayat (3) dan ayat (4), Pasal 10 ayat
 (2) huruf a dan huruf e, Pasal 11 ayat (1), ayat (2),
 ayat (3), ayat (4), ayat (5), dan ayat (6), Pasal 12
 ayat (1) dan ayat (2), Pasal 13, Pasal 18 ayat (1),
-
 
 -----
 
@@ -12009,7 +11816,6 @@ ayat (3), Pasal 19 ayat (2), Pasal 20, Pasal 24 ayat
 (1), Pasal 47 ayat (1), Pasal 47A ayat (3), Pasal 49
 ayat (1), Pasal 50 ayat (1), Pasal 51 ayat (1), Pasal
 52 ayat (1), Pasal 59 ayat (1) dan ayat (5), Pasal 60
-
 
 -----
 
@@ -12071,7 +11877,6 @@ ketentuan sebagaimana dimaksud pada ayat (1),
 Otoritas Jasa Keuangan mencabut sanksi
 administratif berupa peringatan tertulis.
 
-
 -----
 
 (4) Dalam hal terjadi pelanggaran ketentuan
@@ -12130,8 +11935,7 @@ PENGEMBANGAN DAN PENGUATAN
 
 PERUSAHAAN MODAL VENTURA
 
-Pasal 9
-
+### Pasal 9 ^pasal-9
 
 -----
 
@@ -12145,7 +11949,7 @@ Kelembagaan Perusahaan Modal Ventura (Lembaran Negara
 Republik Indonesia Tahun 2015 Nomor 316, Tambahan
 Lembaran Negara Republik Indonesia Nomor 5786).
 
-Pasal 10
+### Pasal 10 ^pasal-10
 Beberapa ketentuan dalam Peraturan Otoritas Jasa
 Keuangan Nomor 34/POJK.05/2015 tentang Perizinan
 Usaha dan Kelembagaan Perusahaan Modal Ventura
@@ -12156,7 +11960,7 @@ Nomor 5786) diubah sebagai berikut:
 1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 1
+### Pasal 1 ^pasal-1
 1. Usaha Modal Ventura adalah kegiatan pembiayaan
 melalui penyertaan modal dan/atau pembiayaan
 untuk jangka waktu tertentu dalam rangka
@@ -12192,7 +11996,6 @@ mempunyai wewenang yang tidak diberikan
 kepada direksi atau dewan komisaris dalam batas
 yang ditentukan dalam undang-undang yang
 mengatur mengenai perseroan terbatas dan/atau
-
 
 -----
 
@@ -12253,7 +12056,6 @@ anggaran dasar bagi PMV atau PVMS berbadan
 hukum perseroan terbatas atau yang setara bagi
 badan hukum berbentuk koperasi.
 
-
 -----
 
 16. Kantor Cabang adalah kantor selain kantor pusat
@@ -12313,7 +12115,6 @@ keuangan yang berlaku.
 25. Neraca Sementara Likuidasi adalah neraca PMV
 atau PMVS per tanggal pencabutan izin usaha
 
-
 -----
 
 Perusahaan yang disusun oleh Tim Likuidasi
@@ -12341,7 +12142,7 @@ telah mendapat persetujuan tertulis dari OJK.
 2. Ketentuan Pasal 2 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) Bentuk badan hukum PMV dan PMVS terdiri atas:
 a. perseroan terbatas; dan
 b. koperasi.
@@ -12373,7 +12174,6 @@ dimaksud pada ayat (1) huruf f hanya dapat
 dilakukan melalui transaksi di pasar modal.
 (6) Ketentuan kepemilikan PMV dan PMVS yang
 berbentuk badan hukum koperasi sebagaimana
-
 
 -----
 
@@ -12434,7 +12234,6 @@ penerapan prinsip mengenali pemilik manfaat dari
 korporasi dalam rangka penerapan program anti
 pencucian uang, pendanaan terorisme, pendanaan
 
-
 -----
 
 proliferasi senjata pemusnah massal, dan dan
@@ -12451,7 +12250,7 @@ syarat sebagai pemilik manfaat PMV atau PMVS.
 4. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) Permohonan izin usaha sebagaimana dimaksud
 dalam Pasal 3 ayat (2), harus diajukan oleh Direksi
 kepada OJK dengan menggunakan format 1
@@ -12493,7 +12292,6 @@ terbatas;
 pokok dan simpanan wajib, bagi PMV
 atau PMVS berbentuk badan hukum
 koperasi;
-
 
 -----
 
@@ -12554,7 +12352,6 @@ a) fotokopi tanda pengenal berupa
 Kartu Tanda Penduduk (KTP) atau
 paspor yang masih berlaku;
 
-
 -----
 
 b) fotokopi Nomor Pokok Wajib Pajak
@@ -12613,7 +12410,6 @@ hukum tetap dalam 5 (lima)
 tahun terakhir; dan
 8) tidak pernah menjadi PSP,
 Direksi, Dewan Komisaris, atau
-
 
 -----
 
@@ -12674,7 +12470,6 @@ bidang usaha jasa keuangan
 dan/atau perekonomian
 dalam 5 (lima) tahun terakhir;
 
-
 -----
 
 6) tidak pernah dihukum karena
@@ -12733,7 +12528,6 @@ kewajiban para pihak; dan
 4. fotokopi Nomor Pokok Wajib Pajak
 (NPWP);
 
-
 -----
 
 h. rencana kerja untuk 5 (lima) tahun pertama
@@ -12767,7 +12561,7 @@ dalam rangka pemberian izin usaha.
 5. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) PMV atau PMVS yang telah mendapat izin usaha
 dari OJK wajib melakukan kegiatan usaha paling
 lambat 6 (enam) bulan terhitung sejak tanggal izin
@@ -12794,7 +12588,6 @@ b. fotokopi surat izin menetap dan/atau surat
 izin menggunakan tenaga kerja asing yang
 dikeluarkan oleh instansi berwenang bagi
 
-
 -----
 
 anggota Direksi dan/atau Dewan Komisaris
@@ -12807,7 +12600,7 @@ yang telah dikeluarkan.
 6. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) PMV harus menggunakan nama PMV yang dimulai
 dengan bentuk badan usaha dan memuat kata
 ventura.
@@ -12829,7 +12622,7 @@ koperasi.
 7. Ketentuan Pasal 9 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 9
+### Pasal 9 ^pasal-9
 (1) PMV atau PMVS harus memiliki Modal Disetor
 pada saat pendirian paling sedikit
 Rp50.000.000.000,00 (lima puluh miliar rupiah).
@@ -12846,7 +12639,7 @@ salah satu bank umum syariah di Indonesia.
 8. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) Ketentuan mengenai:
 a. kepemilikan warga negara asing
 sebagaimana dimaksud dalam Pasal 2 ayat
@@ -12854,7 +12647,6 @@ sebagaimana dimaksud dalam Pasal 2 ayat
 b. kepemilikan badan hukum asing
 sebagaimana dimaksud dalam Pasal 2 ayat
 (2) huruf e,
-
 
 -----
 
@@ -12909,13 +12701,12 @@ kepemilikan kepada OJK.
 9. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Sumber dana penyertaan kepada PMV dan PMVS
 dilarang:
 a. berasal dari pinjaman; dan
 b. berasal dari dan untuk tujuan kegiatan
 pencucian uang, pendanaan terorisme,
-
 
 -----
 
@@ -12959,7 +12750,7 @@ c. penambahan Modal Disetor PMV dan PMVS.
 10. Ketentuan Pasal 14 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) PMV dan PMVS wajib memiliki susunan organisasi
 yang menggambarkan fungsi paling sedikit:
 a. administrasi dan akuntansi;
@@ -12976,7 +12767,6 @@ kejahatan keuangan lain;
 f. pengelolaan sistem informasi;
 g. layanan pengaduan konsumen;
 h. pengendalian fraud; dan
-
 
 -----
 
@@ -13001,7 +12791,7 @@ keputusan.
 11. Ketentuan Pasal 15 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) PMV dan PMVS dapat menggunakan tenaga kerja
 asing.
 (2) PMV dan PMVS wajib memuat rencana
@@ -13036,7 +12826,6 @@ tenaga kerja asing kepada instansi yang
 menangani bidang ketenagakerjaan.
 (6) Tenaga kerja asing sebagaimana dimaksud pada
 ayat (1) untuk dipekerjakan sebagai:
-
 
 -----
 
@@ -13093,11 +12882,10 @@ disertai alasan penolakan.
 13. Ketentuan Pasal 16 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) PMV dan PMVS wajib terdaftar sebagai anggota
 asosiasi yang menaungi PMV dan PMVS di
 Indonesia.
-
 
 -----
 
@@ -13158,7 +12946,6 @@ membatalkan permohonan persetujuan.
 sebagaimana dimaksud pada ayat (1) disetujui,
 OJK menerbitkan surat persetujuan Asosiasi.
 
-
 -----
 
 (8) Dalam hal permohonan persetujuan Asosiasi
@@ -13216,7 +13003,6 @@ pada ayat (1) dan tugas sebagaimana dimaksud
 pada ayat (2), Asosiasi wajib memiliki dan
 menegakkan kode etik dan pedoman perilaku.
 
-
 -----
 
 (4) PMV dan PMVS wajib tunduk pada kode etik dan
@@ -13237,7 +13023,7 @@ tahun buku berakhir.
 15. Ketentuan Pasal 31 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 31
+### Pasal 31 ^pasal-31
 (1) PMV yang memiliki UUS wajib melakukan
 Pemisahan UUS jika:
 a. UUS UUS memenuhi kriteria tertentu yang
@@ -13274,7 +13060,6 @@ persyaratan sebagaimana dimaksud pada ayat (5),
 kondisi dimaksud tidak menghilangkan kewajiban
 PMV untuk melakukan Pemisahan UUS
 sebagaimana dimaksud pada ayat (1).
-
 
 -----
 
@@ -13336,7 +13121,6 @@ yang tidak mengakibatkan perubahan PSP
 sebagaimana dimaksud pada ayat (1), harus
 dilengkapi paling sedikit:
 
-
 -----
 
 a. perubahan anggaran dasar yang telah
@@ -13394,7 +13178,6 @@ e. rancangan akta jual beli saham, jika terjadi
 jual beli saham antara para pemegang saham;
 f. data calon pemegang saham selain PSP
 sebagaimana dimaksud dalam Pasal 12 ayat
-
 
 -----
 
@@ -13455,7 +13238,6 @@ menunjukkan penerimaan pinjaman, jika
 perubahan kepemilikan dilakukan dalam
 bentuk konversi pinjaman;
 
-
 -----
 
 m. bukti penempatan dana dalam escrow account
@@ -13513,7 +13295,6 @@ melakukan:
 a. analisis dan penelitian atas kelengkapan
 dokumen sebagaimana dimaksud dalam
 Pasal 34D ayat (1);
-
 
 -----
 
@@ -13574,7 +13355,6 @@ d. fotokopi bukti setoran penambahan modal
 disetor, jika penambahan modal disetor
 dilakukan dalam bentuk setoran tunai
 
-
 -----
 
 sebagaimana dimaksud dalam Pasal 34A ayat
@@ -13608,7 +13388,7 @@ dalam Pasal 34A ayat (4) huruf d.
 17. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 35
+### Pasal 35 ^pasal-35
 (1) PMV atau PMVS berbentuk badan hukum
 perseroan terbatas yang melakukan perubahan
 anggaran dasar tertentu wajib melaporkan kepada
@@ -13634,7 +13414,6 @@ d. tempat kedudukan kantor pusat PMV atau
 PMVS; dan/atau
 e. status PMV atau PMVS tertutup menjadi
 perseroan terbatas terbuka atau sebaliknya.
-
 
 -----
 
@@ -13695,10 +13474,9 @@ persetujuan dari instansi berwenang.
 18. Ketentuan Pasal 36 diubah sehingga berbunyi sebagai
 berikut:
 
-
 -----
 
-Pasal 36
+### Pasal 36 ^pasal-36
 (1) PMV atau PMVS yang melakukan perubahan:
 a. anggota Direksi; dan/atau
 b. anggota Dewan Komisaris,
@@ -13733,7 +13511,7 @@ b. terdapat perubahan PSP.
 19. Ketentuan Pasal 37 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 37
+### Pasal 37 ^pasal-37
 (1) PMVS dan UUS wajib melaporkan perubahan
 susunan DPS kepada OJK paling lama 15 (lima
 belas) hari kerja sejak pengangkatan sesuai
@@ -13750,13 +13528,12 @@ syariah tentang penunjukan anggota DPS.
 20. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 38
+### Pasal 38 ^pasal-38
 (1) PMV atau PMVS wajib melaporkan setiap kegiatan
 usaha baru yang akan dilaksanakannya kepada
 OJK.
 (2) Pelaporan sebagaimana dimaksud pada ayat (1)
 harus disampaikan oleh Direksi PMV atau PMVS
-
 
 -----
 
@@ -13803,7 +13580,7 @@ PENGGABUNGAN, PELEBURAN, DAN PEMISAHAN
 22. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 40
+### Pasal 40 ^pasal-40
 (1) PMV atau PMVS dapat melakukan:
 a. Penggabungan; atau
 b. Peleburan.
@@ -13818,10 +13595,9 @@ antara PMVS dengan PMVS lainnya.
 23. Ketentuan Pasal 41 diubah sehingga berbunyi sebagai
 berikut:
 
-
 -----
 
-Pasal 41
+### Pasal 41 ^pasal-41
 (1) PMV atau PMVS yang akan melakukan
 Penggabungan, atau Peleburan sebagaimana
 dimaksud dalam Pasal 40 ayat (1) wajib
@@ -13872,12 +13648,11 @@ dokumen permohonan diterima secara lengkap.
 24. Ketentuan Pasal 42 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 42
+### Pasal 42 ^pasal-42
 (1) PMV atau PMVS yang telah mendapatkan
 persetujuan Penggabungan atau Peleburan dari
 OJK harus melaksanakan Penggabungan atau
 Peleburan tersebut paling lama 60 (enam puluh)
-
 
 -----
 
@@ -13939,7 +13714,6 @@ alamat lengkap; dan
 6. dokumen yang menyatakan bahwa
 PMV atau PMVS yang meleburkan diri
 
-
 -----
 
 tidak mempunyai utang pajak dari
@@ -13987,7 +13761,7 @@ berikut:
 Bagian Kesatu
 Pencabutan Izin Usaha
 
-Pasal 53
+### Pasal 53 ^pasal-53
 (1) Pencabutan izin usaha PMV atau PMVS dilakukan
 oleh OJK.
 (2) Pencabutan izin usaha PMV atau PMVS
@@ -14001,7 +13775,6 @@ a. bubar sebagai tindak lanjut atas:
 sebagaimana diatur dalam undangundang mengenai kepailitan dan
 penundaan kewajiban pembayaran
 utang;
-
 
 -----
 
@@ -14047,7 +13820,7 @@ dengan ketentuan peraturan perundangundangan.
 26. Ketentuan Pasal 55 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 55
+### Pasal 55 ^pasal-55
 (1) PMV atau PMVS yang akan melakukan
 Pembubaran karena keputusan RUPS atau rapat
 anggota sebagaimana dimaksud dalam Pasal 53
@@ -14059,7 +13832,6 @@ harus memenuhi persyaratan tidak sedang
 dikenakan sanksi pembekuan sebagian atau
 seluruh kegiatan usaha dan sanksi pembatasan
 kegiatan usaha tertentu.
-
 
 -----
 
@@ -14121,7 +13893,6 @@ PMV atau PMVS yang bersangkutan.
 (7) Dalam hal permohonan persetujuan penghentian
 kegiatan usaha ditolak, penolakan tersebut
 
-
 -----
 
 dilakukan secara tertulis dan disertai dengan
@@ -14181,7 +13952,6 @@ sebagaimana dimaksud pada ayat (7) harus
 dilaporkan kepada paling lama 5 (lima) hari kerja
 sejak pemberitahuan pencabutan izin usaha dari
 OJK.
-
 
 -----
 
@@ -14243,7 +14013,6 @@ Pasal 56C
 (1) Dalam Pembubaran, Tim Likuidasi yang dibentuk
 oleh RUPS sebagaimana dimaksud dalam Pasal
 
-
 -----
 
 56B ayat (1) wajib mendaftarkan dan
@@ -14302,7 +14071,6 @@ pada ayat (1) huruf a.
 dimaksud pada ayat (1) huruf b memuat:
 a. Pembubaran dan dasar hukumnya;
 b. nama dan alamat Tim Likuidasi;
-
 
 -----
 
@@ -14365,7 +14133,6 @@ mengundurkan diri sebelum Likuidasi
 selesai, kecuali dengan persetujuan OJK;
 dan
 
-
 -----
 
 3. tidak berhak menerima gaji dan
@@ -14423,7 +14190,6 @@ di dalam maupun di luar pengadilan;
 b. melakukan perundingan dan tindakan lainnya
 dalam rangka penjualan aset dan penagihan
 piutang terhadap para Debitur;
-
 
 -----
 
@@ -14485,7 +14251,6 @@ b. laporan perkembangan proses Likuidasi
 sampai dengan tanggal permohonan beserta
 bukti pendukungnya; dan
 
-
 -----
 
 c. rencana kerja dan anggaran biaya selama
@@ -14543,7 +14308,6 @@ benturan kepentingan yang dapat merugikan PMV
 atau PMVS.
 (4) Salah satu anggota Tim Likuidasi ditetapkan
 sebagai ketua Tim Likuidasi.
-
 
 -----
 
@@ -14604,7 +14368,6 @@ Likuidasi sebelum jangka waktu penugasan Tim
 Likuidasi berakhir berdasarkan pertimbangan
 sebagaimana dimaksud pada ayat (1).
 
-
 -----
 
 (4) OJK dapat menunjuk pengganti anggota Tim
@@ -14664,7 +14427,6 @@ kepada kreditur;
 f. jumlah tenaga pendukung Tim Likuidasi yang
 diperlukan; dan
 
-
 -----
 
 g. biaya Likuidasi.
@@ -14720,7 +14482,6 @@ dan anggaran biaya sebagaimana dimaksud pada
 ayat (1) atau perbaikan atas rencana kerja dan
 anggaran biaya sebagaimana dimaksud pada ayat
 (3).
-
 
 -----
 
@@ -14784,7 +14545,6 @@ sebagai berikut:
 
 Pasal 56Q
 
-
 -----
 
 Dalam rangka pemberesan aset dan kewajiban PMV
@@ -14844,7 +14604,6 @@ pengadilan.
 (4) Hasil inventarisasi aset dan kewajiban
 sebagaimana dimaksud pada ayat (1) digunakan
 
-
 -----
 
 sebagai dasar dalam penyusunan dan merupakan
@@ -14902,7 +14661,6 @@ Seluruh biaya pelaksanaan Likuidasi yang tercantum
 dalam daftar biaya Likuidasi menjadi beban aset PMV
 atau PMVS dalam Likuidasi dan dikeluarkan terlebih
 dahulu dari setiap hasil pencairannya
-
 
 -----
 
@@ -14962,7 +14720,6 @@ sebagai berikut:
 
 Bagian Ketujuh
 Pengakhiran Likuidasi
-
 
 -----
 
@@ -15025,7 +14782,6 @@ sebagai berikut:
 Bagian Kedelapan
 Pertanggungjawaban Tim Likuidasi
 
-
 -----
 
 44. Di antara Pasal 56Z dan Pasal 57 disisipkan 6 (enam)
@@ -15086,7 +14842,6 @@ a. meminta Tim Likuidasi untuk:
 1. mengumumkan berakhirnya Likuidasi
 dengan menempatkannya dalam:
 
-
 -----
 
 a) Berita Negara Republik Indonesia;
@@ -15143,7 +14898,6 @@ pertanggungjawaban diterima oleh OJK.
 pertanggungjawaban Tim Likuidasi OJK dapat
 melakukan langkah lain sesuai dengan
 ketentuan peraturan perundang-undangan.
-
 
 -----
 
@@ -15207,7 +14961,6 @@ ayat (2), Pasal 42 ayat (5), dan ayat (7), Pasal 43
 ayat (5), Pasal 44 ayat (3), Pasal 46 ayat (2), Pasal
 48, Pasal 51 ayat (2), ayat (3), ayat (4), dan ayat (5),
 
-
 -----
 
 Pasal 55 ayat (2) dan ayat (3) harus disampaikan
@@ -15263,11 +15016,10 @@ sebagaimana dimaksud pada ayat (2).
 49. Ketentuan Pasal 59 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 59
+### Pasal 59 ^pasal-59
 (1) PMV atau PMVS yang melanggar ketentuan
 sebagaimana dimaksud dalam Pasal 2A ayat
 (1), ayat (2), ayat (3), dan ayat (4), Pasal 2B
-
 
 -----
 
@@ -15328,7 +15080,6 @@ dimaksud pada ayat (1) huruf g dikenakan paling
 banyak sebesar Rp50.000.000,00 (lima puluh juta
 rupiah).
 
-
 -----
 
 (5) Dalam hal PMV atau PMVS telah memenuhi
@@ -15388,7 +15139,6 @@ peringatan tertulis.
 sebagaimana dimaksud pada ayat (1) namun
 pelanggaran telah diperbaiki, OJK memberikan
 
-
 -----
 
 sanksi peringatan tertulis yang berakhir dengan
@@ -15438,7 +15188,7 @@ Kelembagaan Perusahaan Pembiayaan dan
 
 Perusahaan Pembiayaan Syariah
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Perusahaan menerapkan prinsip pelindungan
 konsumen dalam penyelenggaraan usaha sesuai
 dengan ketentuan peraturan perundang-undangan
@@ -15449,13 +15199,12 @@ pelindungan konsumen sebagaimana dimaksud pada
 ayat (1) dilaksanakan sesuai dengan ketentuan
 peraturan perundang-undangan mengenai
 
-
 -----
 
 pelindungan konsumen dan masyarakat di sektor jasa
 keuangan.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 (1) Perusahaan menyusun dan menerapkan strategi
 antifraud secara efektif.
 (2) Penyusunan dan penerapan strategi antifraud
@@ -15464,7 +15213,7 @@ sesuai dengan Peraturan Otoritas Jasa Keuangan
 mengenai penerapan strategi antifraud bagi lembaga
 jasa keuangan.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Perusahaan menerapkan program anti pencucian uang,
 pencegahan pendanaan terorisme, dan pencegahan
 pendanaan proliferasi senjata pemusnah massal secara
@@ -15479,7 +15228,7 @@ pendanaan terorisme, dan pencegahan pendanaan
 proliferasi senjata pemusnah massal di sektor jasa
 keuangan.
 
-Pasal 14
+### Pasal 14 ^pasal-14
 Otoritas Jasa Keuangan berdasarkan pertimbangan
 tertentu dapat memberikan persetujuan atau kebijakan
 yang berbeda dengan Peraturan Otoritas Jasa Keuangan
@@ -15490,7 +15239,7 @@ Ketentuan Lain-Lain mengenai Penyelenggaraan Usaha
 
 Perusahaan Pembiayaan
 
-Pasal 15
+### Pasal 15 ^pasal-15
 (1) Perusahaan Pembiayaan menerapkan prinsip
 pelindungan konsumen dalam penyelenggaraan usaha
 sesuai dengan ketentuan peraturan perundangundangan mengenai pelindungan konsumen dan
@@ -15502,10 +15251,9 @@ peraturan perundang-undangan mengenai
 pelindungan konsumen dan masyarakat di sektor jasa
 keuangan.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) Perusahaan Pembiayaan menyusun dan menerapkan
 strategi antifraud secara efektif.
-
 
 -----
 
@@ -15515,7 +15263,7 @@ sesuai dengan Peraturan Otoritas Jasa Keuangan
 mengenai penerapan strategi antifraud bagi lembaga
 jasa keuangan.
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) Perusahaan Pembiayaan menerapkan program anti
 pencucian uang, pencegahan pendanaan terorisme,
 dan pencegahan pendanaan proliferasi senjata
@@ -15530,7 +15278,7 @@ pendanaan terorisme, dan pencegahan pendanaan
 proliferasi senjata pemusnah massal di sektor jasa
 keuangan.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 Otoritas Jasa Keuangan berdasarkan pertimbangan
 tertentu dapat memberikan persetujuan atau kebijakan
 yang berbeda dengan Peraturan Otoritas Jasa Keuangan
@@ -15542,7 +15290,7 @@ Perusahaan Pembiayaan Syariah dan Unit Usaha Syariah
 
 Perusahaan Pembiayaan
 
-Pasal 19
+### Pasal 19 ^pasal-19
 (1) Perusahaan Pembiayaan Syariah menerapkan
 prinsip pelindungan konsumen dalam penyelenggaraan
 usaha sesuai dengan ketentuan peraturan
@@ -15556,10 +15304,9 @@ peraturan perundang-undangan mengenai
 pelindungan konsumen dan masyarakat di sektor jasa
 keuangan.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) Perusahaan Pembiayaan Syariah menyusun dan
 menerapkan strategi antifraud secara efektif.
-
 
 -----
 
@@ -15569,7 +15316,7 @@ sesuai dengan Peraturan Otoritas Jasa Keuangan
 mengenai penerapan strategi antifraud bagi lembaga
 jasa keuangan.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Perusahaan Pembiayaan Syariah menerapkan program
 anti pencucian uang, pencegahan pendanaan
 terorisme, dan pencegahan pendanaan proliferasi
@@ -15584,7 +15331,7 @@ pendanaan terorisme, dan pencegahan pendanaan
 proliferasi senjata pemusnah massal di sektor jasa
 keuangan.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 Otoritas Jasa Keuangan berdasarkan pertimbangan tertentu
 dapat memberikan persetujuan atau kebijakan yang berbeda
 dengan Peraturan Otoritas Jasa Keuangan ini.
@@ -15593,7 +15340,7 @@ Bagian Keempat
 Ketentuan Lain-Lain mengenai
 Perusahaan Pembiayaan Infrastruktur
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) Perusahaan Pembiayaan Infrastruktur menerapkan
 program anti pencucian uang, pencegahan pendanaan
 terorisme, dan pencegahan pendanaan proliferasi
@@ -15608,12 +15355,11 @@ pendanaan terorisme, dan pencegahan pendanaan
 proliferasi senjata pemusnah massal di sektor jasa
 keuangan.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 (1) Perusahaan Pembiayaan Infrastruktur menerapkan
 prinsip pelindungan konsumen dalam penyelenggaraan
 usaha sesuai dengan ketentuan peraturan perundangundangan mengenai pelindungan konsumen dan
 masyarakat di sektor jasa keuangan.
-
 
 -----
 
@@ -15624,7 +15370,7 @@ peraturan perundang-undangan mengenai
 pelindungan konsumen dan masyarakat di sektor jasa
 keuangan
 
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) Perusahaan Pembiayaan Infrastruktur menyusun dan
 menerapkan strategi antifraud secara efektif.
 (2) Penyusunan dan penerapan strategi antifraud
@@ -15633,7 +15379,7 @@ sesuai dengan Peraturan Otoritas Jasa Keuangan
 mengenai penerapan strategi antifraud bagi lembaga
 jasa keuangan.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 Otoritas Jasa Keuangan berdasarkan pertimbangan
 tertentu dapat memberikan persetujuan atau kebijakan
 yang berbeda dengan Peraturan Otoritas Jasa Keuangan
@@ -15644,7 +15390,7 @@ Ketentuan Lain-Lain mengenai Perizinan Usaha dan
 
 Kelembagaan Perusahaan Modal Ventura
 
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) Perusahaan PMV dan PMVS menerapkan program anti
 pencucian uang, pencegahan pendanaan terorisme,
 dan pencegahan pendanaan proliferasi senjata
@@ -15659,7 +15405,7 @@ pendanaan terorisme, dan pencegahan pendanaan
 proliferasi senjata pemusnah massal di sektor jasa
 keuangan.
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) PMV dan PMVS menyusun dan menerapkan strategi
 antifraud secara efektif.
 (2) Penyusunan dan penerapan strategi antifraud
@@ -15668,13 +15414,12 @@ sesuai dengan Peraturan Otoritas Jasa Keuangan
 mengenai penerapan strategi antifraud bagi lembaga
 jasa keuangan.
 
-Pasal 29
+### Pasal 29 ^pasal-29
 (1) PMV dan PMVS menerapkan prinsip pelindungan
 konsumen dalam penyelenggaraan usaha sesuai
 dengan ketentuan peraturan perundang-undangan
 mengenai pelindungan konsumen dan masyarakat di
 sektor jasa keuangan.
-
 
 -----
 
@@ -15685,7 +15430,7 @@ peraturan perundang-undangan mengenai
 pelindungan konsumen dan masyarakat di sektor jasa
 keuangan.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 OJK berdasarkan pertimbangan tertentu dapat memberikan
 persetujuan atau kebijakan yang berbeda dengan Peraturan
 Otoritas Jasa Keuangan ini.
@@ -15699,7 +15444,7 @@ Kelembagaan Perusahaan Pembiayaan dan Perusahaan
 
 Pembiayaan Syariah
 
-Pasal 31
+### Pasal 31 ^pasal-31
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. Bagi Perusahaan yang telah memperoleh izin usaha dan
@@ -15735,7 +15480,6 @@ pelanggaran tetap diselesaikan sepanjang tidak
 bertentangan dengan Peraturan Otoritas Jasa
 Keuangan ini.
 
-
 -----
 
 e. Proses likuidasi atas Perusahaan yang masih berjalan
@@ -15761,7 +15505,7 @@ Ketentuan Peralihan mengenai Penyelenggaraan Usaha
 
 Perusahaan Pembiayaan
 
-Pasal 32
+### Pasal 32 ^pasal-32
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. Bagi Perusahaan Pembiayaan yang telah memperoleh
@@ -15795,7 +15539,6 @@ dimaksud dalam Pasal 19A, 19C ayat (1), ayat (2),
 dan ayat (4);
 3. kewajiban terkait sistem pengamanan
 sebagaimana dimaksud dalam Pasal 19D;
-
 
 -----
 
@@ -15856,7 +15599,6 @@ g. Setiap rencana pemenuhan atas penyelesaian
 pelanggaran yang telah mendapatkan pernyataan tidak
 keberatan dari Otoritas Jasa Keuangan berdasarkan
 
-
 -----
 
 Peraturan Otoritas Jasa Keuangan Nomor
@@ -15889,7 +15631,7 @@ Perusahaan Pembiayaan Syariah dan Unit Usaha Syariah
 
 Perusahaan Pembiayaan
 
-Pasal 33
+### Pasal 33 ^pasal-33
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. Bagi Perusahaan Syariah yang telah memperoleh izin
@@ -15915,7 +15657,6 @@ diundangkan, ketentuan mengenai:
 mengendalikan Sistem Elektronik yang digunakan
 dalam Layanan Pembiayaan Digital sebagaimana
 dimaksud dalam Pasal 14 ayat (2);
-
 
 -----
 
@@ -15974,7 +15715,6 @@ e. Bagi Perusahaan Syariah yang telah diberikan surat
 pemberitahuan dan/atau diwajibkan menyampaikan
 rencana pemenuhan atas penyelesaian pelanggaran
 
-
 -----
 
 sebelum Peraturan Otoritas Jasa Keuangan ini
@@ -16022,7 +15762,7 @@ Bagian Keempat
 Ketentuan Peralihan mengenai
 Perusahaan Pembiayaan Infrastruktur
 
-Pasal 34
+### Pasal 34 ^pasal-34
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. Dalam hal anggota komisaris independen pada
@@ -16033,7 +15773,6 @@ bersangkutan dapat melanjutkan jabatan dimaksud
 sampai dengan berakhirnya masa jabatan dan tidak
 dapat diperpanjang kembali.
 b. Ketentuan mengenai:
-
 
 -----
 
@@ -16084,7 +15823,7 @@ Ketentuan Peralihan mengenai Perizinan Usaha dan
 
 Kelembagaan Perusahaan Modal Ventura
 
-Pasal 35
+### Pasal 35 ^pasal-35
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. Ketentuan mengenai:
@@ -16094,7 +15833,6 @@ manusia PMV atau PMVS sebagaimana dimaksud
 dalam Pasal 14 ayat (1) huruf d; dan
 2. pemenuhan persetujuan tertulis dari Otoritas Jasa
 Keuangan sebagaimana dimaksud dalam Pasal
-
 
 -----
 
@@ -16149,13 +15887,12 @@ ini, Otoritas Jasa Keuangan mencabut izin usaha 1
 (satu) bulan sejak Peraturan Otoritas Jasa Keuangan ini
 diundangkan.
 
-
 -----
 
 BAB VII
 KETENTUAN PENUTUP
 
-Pasal 36
+### Pasal 36 ^pasal-36
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, dalam Peraturan Otoritas Jasa Keuangan mengenai
 Perizinan Usaha dan Kelembagaan Perusahaan Pembiayaan
@@ -16165,7 +15902,7 @@ Keuangan sebagaimana dimaksud dalam Pasal 15E ayat (2)
 mulai berlaku pada tahun 2027 untuk periode laporan
 tahun 2026.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, dalam Peraturan Otoritas Jasa Keuangan mengenai
 Penyelenggaraan Usaha Perusahaan Pembiayaan, ketentuan
@@ -16175,14 +15912,14 @@ menggunakan modal inti (Tier 1) dan modal pelengkap (Tier
 mulai berlaku 1 (satu) tahun sejak Peraturan Otoritas Jasa
 Keuangan ini diundangkan.
 
-Pasal 38
+### Pasal 38 ^pasal-38
 Ketentuan terkait perhitungan Modal bagi Perusahaan
 Syariah menggunakan modal inti (Tier 1) dan modal
 pelengkap (Tier 2) sebagaimana dimaksud dalam Pasal 84A
 dinyatakan mulai berlaku 1 (satu) tahun sejak Peraturan
 Otoritas Jasa Keuangan ini diundangkan.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, dalam Peraturan Otoritas Jasa Keuangan mengenai
 Perusahaan Pembiayaan Infrastruktur, penyampaian
@@ -16191,7 +15928,7 @@ Infrastruktur kepada Otoritas Jasa Keuangan sebagaimana
 dimaksud dalam Pasal 18F ayat (2) mulai berlaku pada
 tahun 2027 untuk periode laporan tahun 2026.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku, dalam Peraturan Otoritas Jasa Keuangan mengenai
 Perizinan Usaha dan Kelembagaan Perusahaan Modal
@@ -16200,10 +15937,9 @@ PMVS kepada Otoritas Jasa Keuangan sebagaimana
 dimaksud dalam Pasal 17E ayat (2) mulai berlaku pada
 tahun 2027 untuk periode laporan tahun 2026.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal diundangkan.
-
 
 -----
 
@@ -16237,7 +15973,6 @@ SUPRATMAN ANDI AGTAS
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 59/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -16246,10 +15981,11 @@ ttd
 
 Aat Windradi
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -16263,8 +15999,6 @@ PENGEMBANGAN DAN PENGUATAN PERUSAHAAN PEMBIAYAAN,
 PERUSAHAAN PEMBIAYAAN INFRASTRUKTUR, DAN
 
 PERUSAHAAN MODAL VENTURA
-
-I. UMUM
 
 Dalam rangka menciptakan reformasi sektor keuangan Indonesia
 yang merupakan prasyarat utama untuk membangun perekonomian
@@ -16287,41 +16021,28 @@ pembiayaan, perusahaan pembiayaan syariah, perusahaan pembiayaan
 infrastruktur, perusahaan modal ventura, dan perusahaan modal
 ventura syariah.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Cukup jelas.
 
 
 -----
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Angka 1
-
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1-2
 Cukup jelas.
 
 Angka 2
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2-2
 Cukup jelas.
 
 Angka 3
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3-2
 Ayat (1)
 
 Huruf a
@@ -16360,9 +16081,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 4
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4-2
 Ayat (1)
 
 Huruf a
@@ -16446,9 +16165,7 @@ Ayat (9)
 Cukup jelas.
 
 Angka 5
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Kewajiban untuk memiliki PSP berlaku baik bagi
@@ -16520,18 +16237,14 @@ penunjukan Direksi dan/atau Dewan Komisaris,
 meskipun pihak dimaksud tidak dilihat dari struktur
 kepemilikan.
 Angka 7
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Cukup jelas.
 
 
 -----
 
 Angka 8
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Yang dimaksud dengan “modal disetor” adalah modal
 disetor sebagaimana dimaksud dalam undang-undang
 mengenai perseroan terbatas bagi Perusahaan yang
@@ -16542,9 +16255,7 @@ perundang-undangan mengenai perkoperasian bagi
 Perusahaan yang berbentuk badan hukum koperasi
 
 Angka 9
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Ayat (1)
 
 Cukup jelas.
@@ -16621,9 +16332,7 @@ Huruf f
 Cukup jelas.
 
 Angka 10
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Cukup jelas.
@@ -16643,9 +16352,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 11
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Cukup jelas.
@@ -16772,9 +16479,7 @@ penilaian kemampuan dan kepatutan bagi pihak
 utama lembaga jasa keuangan.
 
 Angka 12
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Cukup jelas.
 
 Angka 13
@@ -16825,9 +16530,7 @@ kantor akuntan publik yang telah terdaftar di
 Otoritas Jasa Keuangan.
 
 Angka 14
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Ayat (1)
 
 Cukup jelas.
@@ -16862,9 +16565,7 @@ Ayat (6)
 Cukup jelas.
 
 Angka 15
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Ayat (1)
 
 Huruf a
@@ -16926,9 +16627,7 @@ Angka 17
 Cukup jelas.
 
 Angka 18
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Ayat (1)
 
 Cukup jelas.
@@ -16951,9 +16650,7 @@ Angka 19
 Cukup jelas.
 
 Angka 20
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
 Ayat (1)
 
 Cukup jelas.
@@ -16989,18 +16686,14 @@ Ayat (5)
 Cukup jelas.
 
 Angka 21
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59
 Cukup jelas.
 
 Angka 22
 
 
 -----
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61
 Ayat (1)
 
 Cukup jelas.
@@ -17044,9 +16737,7 @@ Angka 24
 Cukup jelas.
 
 Angka 25
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Ayat (1)
 
 Cukup jelas.
@@ -17068,9 +16759,7 @@ Angka 26
 Cukup jelas.
 
 Angka 27
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69
 Ayat (1)
 
 Cukup jelas.
@@ -17110,15 +16799,11 @@ Ayat (5)
 Cukup jelas.
 
 Angka 28
-
-Pasal 70
-
+#### Pasal 70 ^penjelasan-pasal-70
 Cukup jelas.
 
 Angka 29
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71
 Ayat (1)
 
 Yang dimaksud dengan ”perubahan kepemilikan”
@@ -17150,9 +16835,7 @@ Pasal 71A
 Cukup jelas.
 
 Angka 31
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73
 Ayat (1)
 
 Huruf a
@@ -17220,15 +16903,11 @@ Ayat (4)
 Cukup jelas.
 
 Angka 32
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76
 Cukup jelas.
 
 Angka 33
-
-Pasal 78
-
+#### Pasal 78 ^penjelasan-pasal-78
 Ayat (1)
 
 Cukup jelas.
@@ -17279,39 +16958,27 @@ Ayat (5)
 Cukup jelas.
 
 Angka 34
-
-Pasal 81
-
+#### Pasal 81 ^penjelasan-pasal-81
 Cukup jelas.
 
 Angka 35
-
-Pasal 82
-
+#### Pasal 82 ^penjelasan-pasal-82
 Cukup jelas.
 
 Angka 36
-
-Pasal 83
-
+#### Pasal 83 ^penjelasan-pasal-83
 Cukup jelas.
 
 Angka 37
-
-Pasal 86
-
+#### Pasal 86 ^penjelasan-pasal-86
 Cukup jelas.
 
 Angka 38
-
-Pasal 87
-
+#### Pasal 87 ^penjelasan-pasal-87
 Cukup jelas.
 
 Angka 39
-
-Pasal 89
-
+#### Pasal 89 ^penjelasan-pasal-89
 Ayat (1)
 
 Cukup jelas.
@@ -17358,45 +17025,31 @@ Ayat (4)
 Cukup jelas.
 
 Angka 40
-
-Pasal 90
-
+#### Pasal 90 ^penjelasan-pasal-90
 Cukup jelas.
 
 Angka 41
-
-Pasal 91
-
+#### Pasal 91 ^penjelasan-pasal-91
 Cukup jelas.
 
 Angka 42
-
-Pasal 92
-
+#### Pasal 92 ^penjelasan-pasal-92
 Cukup jelas.
 
 Angka 43
-
-Pasal 94
-
+#### Pasal 94 ^penjelasan-pasal-94
 Cukup jelas.
 
 Angka 44
-
-Pasal 95
-
+#### Pasal 95 ^penjelasan-pasal-95
 Cukup jelas.
 
 Angka 45
-
-Pasal 96
-
+#### Pasal 96 ^penjelasan-pasal-96
 Cukup jelas.
 
 Angka 46
-
-Pasal 98
-
+#### Pasal 98 ^penjelasan-pasal-98
 Ayat (1)
 
 Yang dimaksud dengan ”menghentikan kegiatan
@@ -17430,15 +17083,11 @@ Ayat (4)
 Cukup jelas.
 
 Angka 47
-
-Pasal 99
-
+#### Pasal 99 ^penjelasan-pasal-99
 Cukup jelas.
 
 Angka 48
-
-Pasal 100
-
+#### Pasal 100 ^penjelasan-pasal-100
 Cukup jelas.
 
 Angka 49
@@ -17454,9 +17103,7 @@ Angka 51
 Cukup jelas.
 
 Angka 52
-
-Pasal 104
-
+#### Pasal 104 ^penjelasan-pasal-104
 Cukup jelas.
 
 Angka 53
@@ -17466,9 +17113,7 @@ Pasal 104A
 Cukup jelas.
 
 Angka 54
-
-Pasal 105
-
+#### Pasal 105 ^penjelasan-pasal-105
 Ayat (1)
 
 Cukup jelas.
@@ -17485,30 +17130,22 @@ Huruf c
 Lihat penjelasan Pasal 98 ayat (2) huruf c.
 
 Angka 55
-
-Pasal 106
-
+#### Pasal 106 ^penjelasan-pasal-106
 Cukup jelas.
 
 Angka 56
-
-Pasal 109
-
+#### Pasal 109 ^penjelasan-pasal-109
 Cukup jelas.
 
 
 -----
 
 Angka 57
-
-Pasal 110
-
+#### Pasal 110 ^penjelasan-pasal-110
 Cukup jelas.
 
 Angka 58
-
-Pasal 111
-
+#### Pasal 111 ^penjelasan-pasal-111
 Cukup jelas.
 
 Angka 59
@@ -17967,9 +17604,7 @@ Pasal 112AF
 Cukup jelas.
 
 Angka 76
-
-Pasal 116
-
+#### Pasal 116 ^penjelasan-pasal-116
 Cukup jelas.
 
 Angka 77
@@ -17994,18 +17629,12 @@ Angka 79
 Pasal 117A
 
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5-2
 Angka 1
-
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1-3
 Cukup jelas.
 Angka 2
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2-3
 Ayat (1)
 
 Huruf a
@@ -18069,9 +17698,7 @@ persetujuan kegiatan usaha lain sepanjang tidak
 melanggar ketentuan yang berlaku dan dalam
 rangka meningkatkan kinerja perusahaan.
 Angka 3
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4-3
 Ayat (1)
 
 Huruf a
@@ -18217,9 +17844,7 @@ Pasal 4A
 Cukup jelas.
 
 Angka 5
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5-3
 Ayat (1)
 
 Yang dimaksud dengan “kegiatan usaha pembiayaan
@@ -18264,15 +17889,11 @@ Ayat (9)
 Cukup jelas.
 
 Angka 6
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12-2
 Cukup jelas.
 
 Angka 7
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Ayat (1)
 
 Contoh objek Pembiayaan Infrastruktur:
@@ -18305,9 +17926,7 @@ Ayat (2)
 Cukup jelas.
 
 Angka 8
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-2
 Ayat (1)
 
 Cukup jelas.
@@ -18319,9 +17938,7 @@ Ayat (3)
 Dihapus.
 
 Angka 9
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Ayat (1)
 
 Yang dimaksud dengan “kebutuhan konsumtif”
@@ -18337,9 +17954,7 @@ Ayat (3)
 Dihapus.
 
 Angka 10
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 
 Cukup jelas.
@@ -18394,9 +18009,7 @@ Ayat (6)
 Cukup jelas.
 
 Angka 11
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Huruf a
@@ -18482,15 +18095,11 @@ Ayat (5)
 Cukup jelas.
 
 Angka 13
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
 
 Angka 14
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Ayat (1)
 
 Layanan Pembiayaan Digital dilakukan antara lain
@@ -18745,9 +18354,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 17
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Ayat (1)
 
 Cukup jelas.
@@ -18788,9 +18395,7 @@ b. penjaminan atas piutang pembiayaan dari
 korporasi yang bersangkutan.
 
 Angka 18
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Ayat (1)
 
 Cukup jelas.
@@ -18845,7 +18450,8 @@ diberikan: Rp500.000,00 Harga jual kendaraan roda
 dua: Rp10.000.000,00 – Rp500.000,00 =
 Rp9.500.000,00 Bagi Perusahaan Pembiayaan yang
 memenuhi kriteria sebagaimana dimaksud dalam
-Pasal 20 ayat (3), Uang Muka Pembiayaan Kendaraan
+#### Pasal 20 ^penjelasan-pasal-20-2
+ayat (3), Uang Muka Pembiayaan Kendaraan
 Bermotor yang harus dikenakan dan dibayar tunai
 sekaligus adalah 15% x Rp9.500.000,00 =
 Rp1.425.000,00.
@@ -18889,7 +18495,8 @@ Rp1.000.000,00 Harga jual kendaraan bermotor roda
 dua: Rp10.000.000,00 – Rp500.000,00 =
 Rp9.500.000,00 Bagi Perusahaan Pembiayaan yang
 memenuhi kriteria sebagaimana dimaksud dalam
-Pasal 20 ayat (3), Uang Muka Pembiayaan Kendaraan
+#### Pasal 20 ^penjelasan-pasal-20-3
+ayat (3), Uang Muka Pembiayaan Kendaraan
 Bermotor yang harus dikenakan adalah 15% x
 Rp9.500.000,00 = Rp1.425.000,00 Dengan demikian,
 biaya yang dibayar oleh Debitur bila biaya asuransi,
@@ -18906,9 +18513,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 19
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 
 Contoh perhitungan BMPP kepada seluruh pihak
@@ -19046,9 +18651,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 20
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Ayat (1)
 
 Contoh perhitungan BMPP per 1 (satu) Debitur yang
@@ -19154,9 +18757,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 21
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 
 Huruf a
@@ -19269,9 +18870,7 @@ Pasal 25C
 Cukup jelas.
 
 Angka 23
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Cukup jelas.
@@ -19290,9 +18889,7 @@ lain memastikan kelayakan dan kemampuan
 pembayaran calon Debitur.
 
 Angka 24
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Cukup jelas.
@@ -19356,27 +18953,19 @@ Pasal 27B
 Cukup jelas.
 
 Angka 26
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
 
 Angka 27
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Cukup jelas.
 
 Angka 28
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
 
 Angka 29
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Ayat (1)
 
 Dibuat secara tertulis antara lain dapat dilakukan
@@ -19393,9 +18982,7 @@ Pasal 33A
 Cukup jelas.
 
 Angka 31
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Ayat (1)
 
 Huruf a
@@ -19475,9 +19062,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 32
-
-Pasal 68
-
+#### Pasal 68 ^penjelasan-pasal-68
 Ayat (1)
 
 Huruf a
@@ -19504,15 +19089,11 @@ Ayat (5)
 Cukup jelas.
 
 Angka 33
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Cukup jelas.
 
 Angka 34
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73-2
 Ayat (1)
 
 Huruf a
@@ -19546,15 +19127,11 @@ Ayat (2)
 Cukup jelas.
 
 Angka 35
-
-Pasal 75
-
+#### Pasal 75 ^penjelasan-pasal-75
 Cukup jelas.
 
 Angka 36
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76-2
 Ayat (1)
 
 Huruf a
@@ -19593,9 +19170,7 @@ Ayat (2)
 Cukup jelas.
 
 Angka 37
-
-Pasal 79
-
+#### Pasal 79 ^penjelasan-pasal-79
 Ayat (1)
 
 Cukup jelas.
@@ -19635,9 +19210,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 38
-
-Pasal 80
-
+#### Pasal 80 ^penjelasan-pasal-80
 Ayat (1)
 
 Yang dimaksud dengan “full _hedge”_ adalah
@@ -19660,15 +19233,11 @@ utang dari piutang pembiayaan yang diterima oleh
 Perusahaan Pembiayaan.
 
 Angka 39
-
-Pasal 81
-
+#### Pasal 81 ^penjelasan-pasal-81-2
 Cukup jelas.
 
 Angka 40
-
-Pasal 82
-
+#### Pasal 82 ^penjelasan-pasal-82-2
 Huruf a
 
 Cukup jelas.
@@ -19703,9 +19272,7 @@ Huruf h
 Cukup jelas.
 
 Angka 41
-
-Pasal 84
-
+#### Pasal 84 ^penjelasan-pasal-84
 Cukup jelas.
 
 Angka 42
@@ -19713,9 +19280,7 @@ Angka 42
 Cukup jelas.
 
 Angka 43
-
-Pasal 87
-
+#### Pasal 87 ^penjelasan-pasal-87-2
 Cukup jelas.
 
 Angka 44
@@ -19760,9 +19325,7 @@ Cukup jelas.
 -----
 
 Angka 45
-
-Pasal 88
-
+#### Pasal 88 ^penjelasan-pasal-88
 Cukup jelas.
 
 Angka 46
@@ -19770,15 +19333,11 @@ Angka 46
 Cukup jelas.
 
 Angka 47
-
-Pasal 89
-
+#### Pasal 89 ^penjelasan-pasal-89-2
 Cukup jelas.
 
 Angka 48
-
-Pasal 94
-
+#### Pasal 94 ^penjelasan-pasal-94-2
 Cukup jelas.
 
 Angka 49
@@ -19908,9 +19467,7 @@ Cukup jelas.
 -----
 
 Angka 54
-
-Pasal 103
-
+#### Pasal 103 ^penjelasan-pasal-103
 Ayat (1)
 
 Akuntan publik terdaftar pada Otoritas Jasa
@@ -19928,9 +19485,7 @@ Ayat (4)
 Cukup jelas.
 
 Angka 55
-
-Pasal 104
-
+#### Pasal 104 ^penjelasan-pasal-104-2
 Cukup jelas.
 
 Angka 56
@@ -19956,25 +19511,17 @@ Angka 60
 Cukup jelas.
 
 Angka 61
-
-Pasal 113
-
+#### Pasal 113 ^penjelasan-pasal-113
 Cukup jelas.
 
 Angka 62
-
-Pasal 114
-
+#### Pasal 114 ^penjelasan-pasal-114
 Dihapus.
 Angka 63
-
-Pasal 115
-
+#### Pasal 115 ^penjelasan-pasal-115
 Dihapus.
 Angka 64
-
-Pasal 116
-
+#### Pasal 116 ^penjelasan-pasal-116-2
 Dihapus.
 
 Angka 65
@@ -19985,18 +19532,12 @@ Cukup jelas.
 
 
 -----
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6-2
 Angka 1
-
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1-4
 Cukup jelas.
 Angka 2
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3-3
 Ayat (1)
 
 Cukup jelas.
@@ -20022,9 +19563,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 3
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4-4
 Ayat (1)
 
 Cukup jelas
@@ -20038,9 +19577,7 @@ asuransi mikro, atau produk lain yang terkait dengan
 kegiatan jasa keuangan.
 
 Angka 4
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5-4
 Ayat (1)
 
 Cukup jelas.
@@ -20073,14 +19610,11 @@ Pasal 12A
 Cukup jelas.
 
 Angka 6
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13-2
 Cukup jelas.
 
 Angka 7
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-3
 Ayat (1)
 
 Layanan Pembiayaan Digital dilakukan antara lain
@@ -20331,9 +19865,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 10
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15-2
 Ayat (1)
 
 Cukup jelas.
@@ -20379,9 +19911,7 @@ b. penjaminan atas piutang Pembiayaan
 Syariah dari korporasi yang bersangkutan.
 
 Angka 11
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16-2
 Ayat (1)
 
 Cukup jelas.
@@ -20396,7 +19926,8 @@ kendaraan motor lebih tinggi dari 5% (lima persen),
 maka Perusahaan Syariah tersebut mengenakan
 ketentuan besaran Uang Muka Pembiayaan
 Kendaraan Bermotor sebagaimana dimaksud dalam
-Pasal 15 ayat (5). Penerapan besaran Uang Muka
+#### Pasal 15 ^penjelasan-pasal-15-3
+ayat (5). Penerapan besaran Uang Muka
 Pembiayaan Syariah Kendaraan Bermotor dimaksud
 berlaku mulai tanggal 1 Maret.
 Apabila berdasarkan laporan bulanan Perusahaan
@@ -20435,9 +19966,8 @@ Rp500.000,00 Harga jual kendaraan:
 Rp10.000.000,00 – Rp500.000,00 = Rp9.500.000,00
 Bagi Perusahaan Pembiayaan Syariah yang
 memenuhi kriteria sebagaimana dimaksud dalam
-Pasal 15 ayat (3), Uang Muka Pembiayaan Syariah
-
-
+#### Pasal 15 ^penjelasan-pasal-15-4
+ayat (3), Uang Muka Pembiayaan Syariah
 -----
 
 Kendaraan Bermotor roda dua yang harus dikenakan
@@ -20458,7 +19988,8 @@ kendaraan: Rp10.000.000,00 – Rp500.000,00 =
 Rp9.500.000,00
 Bagi Perusahaan Pembiayaan Syariah yang
 memenuhi kriteria sebagaimana dimaksud dalam
-Pasal 15 ayat (3), Uang Muka Pembiayaan Syariah
+#### Pasal 15 ^penjelasan-pasal-15-5
+ayat (3), Uang Muka Pembiayaan Syariah
 Kendaraan Bermotor roda dua yang harus dikenakan
 dan dibayar tunai sekaligus adalah 10% x
 Rp9.500.000,00 = Rp950.000,00
@@ -20503,9 +20034,7 @@ Cukup jelas.
 -----
 
 Angka 12
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18-2
 Ayat (1)
 
 Contoh perhitungan BMPPS kepada seluruh pihak
@@ -20644,9 +20173,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 13
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19-2
 Ayat (1)
 
 Contoh perhitungan BMPPS per 1 (satu) pihak tidak
@@ -20751,9 +20278,7 @@ Ayat (5)
 Cukup jelas.
 
 Angka 14
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20-4
 Ayat (1)
 
 Huruf a
@@ -20877,9 +20402,7 @@ Pasal 20C
 Cukup jelas.
 
 Angka 16
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21-2
 Ayat (1)
 
 Cukup jelas.
@@ -20894,9 +20417,7 @@ Syariah antara lain memastikan kelayakan dan
 kemampuan pembayaran calon Konsumen.
 
 Angka 17
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1)
 
 Cukup jelas.
@@ -20964,30 +20485,22 @@ Pasal 22B
 Cukup jelas.
 
 Angka 19
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23-2
 Cukup jelas.
 
 Angka 20
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24-2
 Cukup jelas.
 
 
 -----
 
 Angka 21
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26-2
 Cukup jelas.
 
 Angka 22
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28-2
 Ayat (1)
 
 Yang dimaksud dengan “dibuat secara tertulis”
@@ -21005,9 +20518,7 @@ Pasal 28A
 Cukup jelas.
 
 Angka 24
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31-2
 Ayat (1)
 
 Huruf a
@@ -21084,9 +20595,7 @@ Ayat (2)
 Cukup jelas.
 
 Angka 25
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65-2
 Ayat (1)
 
 Huruf a
@@ -21110,9 +20619,7 @@ Ayat (4)
 Cukup jelas.
 
 Angka 26
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69-2
 Yang dimaksud dengan “gearing _ratio”_ adalah
 perbandingan antara penjumlahan pinjaman, pinjaman
 subordinasi, dan efek bersifat utang dengan selisih antara
@@ -21120,9 +20627,7 @@ penjumlahan Modal dan pinjaman subordinasi dikurangi
 penyertaan.
 
 Angka 27
-
-Pasal 70
-
+#### Pasal 70 ^penjelasan-pasal-70-2
 Ayat (1)
 
 Huruf a
@@ -21159,15 +20664,11 @@ Ayat (2)
 Cukup jelas.
 
 Angka 28
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72-2
 Cukup jelas.
 
 Angka 29
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73-3
 Ayat (1)
 
 Huruf a
@@ -21206,9 +20707,7 @@ Ayat (2)
 Cukup jelas.
 
 Angka 30
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76-3
 Ayat (1)
 
 Cukup jelas.
@@ -21248,9 +20747,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 31
-
-Pasal 77
-
+#### Pasal 77 ^penjelasan-pasal-77
 Ayat (1)
 
 Yang dimaksud dengan _full_ _hedge_ adalah
@@ -21273,15 +20770,11 @@ utang dari piutang Pembiayaan Syariah yang
 diterima oleh Perusahaan Syariah.
 
 Angka 32
-
-Pasal 78
-
+#### Pasal 78 ^penjelasan-pasal-78-2
 Cukup jelas.
 
 Angka 33
-
-Pasal 79
-
+#### Pasal 79 ^penjelasan-pasal-79-2
 Huruf a
 
 Cukup jelas.
@@ -21315,9 +20808,7 @@ Huruf h
 Cukup jelas
 
 Angka 34
-
-Pasal 81
-
+#### Pasal 81 ^penjelasan-pasal-81-3
 Ayat (1)
 
 Cukup jelas.
@@ -21346,9 +20837,7 @@ Angka 35
 Cukup jelas.
 
 Angka 36
-
-Pasal 84
-
+#### Pasal 84 ^penjelasan-pasal-84-2
 Ayat (1)
 
 Cukup jelas.
@@ -21416,9 +20905,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 38
-
-Pasal 85
-
+#### Pasal 85 ^penjelasan-pasal-85
 Cukup jelas.
 
 Angka 39
@@ -21426,15 +20913,11 @@ Angka 39
 Cukup jelas.
 
 Angka 40
-
-Pasal 86
-
+#### Pasal 86 ^penjelasan-pasal-86-2
 Cukup jelas.
 
 Angka 41
-
-Pasal 91
-
+#### Pasal 91 ^penjelasan-pasal-91-2
 Cukup jelas.
 
 Angka 42
@@ -21565,9 +21048,7 @@ Angka 46
 Cukup jelas.
 
 Angka 47
-
-Pasal 100
-
+#### Pasal 100 ^penjelasan-pasal-100-2
 Ayat (1)
 
 Akuntan publik harus terdaftar pada Otoritas Jasa
@@ -21585,9 +21066,7 @@ Ayat (4)
 Cukup jelas.
 
 Angka 48
-
-Pasal 101
-
+#### Pasal 101 ^penjelasan-pasal-101
 Ayat (1)
 
 Cukup jelas.
@@ -21633,9 +21112,7 @@ Angka 53
 Cukup jelas.
 
 Angka 54
-
-Pasal 110
-
+#### Pasal 110 ^penjelasan-pasal-110-2
 Cukup jelas.
 
 Angka 55
@@ -21655,19 +21132,13 @@ Angka 58
 Pasal 113A
 
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Angka 1
-
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1-5
 Cukup jelas.
 
 Angka 2
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2-4
 Ayat (1)
 
 Huruf a
@@ -21826,24 +21297,18 @@ Pasal 4B
 Cukup jelas.
 
 Angka 4
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5-5
 Cukup jelas.
 
 
 -----
 
 Angka 5
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6-3
 Cukup jelas.
 
 Angka 6
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7-2
 Ayat (1)
 
 Cukup jelas.
@@ -21914,9 +21379,7 @@ Pasal 7C
 Cukup jelas.
 
 Angka 8
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9-2
 Ayat (1)
 
 Modal Disetor adalah modal disetor sebagaimana
@@ -21957,9 +21420,7 @@ mengenai rencana bisnis lembaga jasa keuangan
 nonbank dan peraturan pelaksanaannya.
 
 Angka 9
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Cukup jelas.
@@ -22031,9 +21492,7 @@ Huruf e
 Cukup jelas.
 
 Angka 10
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11-2
 Ayat (1)
 
 Huruf a
@@ -22083,9 +21542,7 @@ Ayat (9)
 Cukup jelas.
 
 Angka 11
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13-3
 Ayat (1)
 
 Cukup jelas.
@@ -22114,9 +21571,7 @@ Ayat (6)
 Cukup jelas.
 
 Angka 12
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18-3
 Ayat (1)
 
 Yang dimaksud dengan “melakukan kegiatan usaha”
@@ -22192,9 +21647,7 @@ kantor akuntan publik yang telah terdaftar di
 Otoritas Jasa Keuangan.
 
 Angka 14
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21-3
 Cukup jelas.
 
 Angka 15
@@ -22204,9 +21657,7 @@ Pasal 24A
 Cukup jelas.
 
 Angka 16
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Ayat (1)
 
 Cukup jelas.
@@ -22316,9 +21767,7 @@ Infrastruktur antara lain memastikan kelayakan dan
 kemampuan pembayaran calon debitur.
 
 Angka 18
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Ayat (1)
 
 Cukup jelas.
@@ -22350,15 +21799,11 @@ Pasal 64A
 Cukup jelas.
 
 Angka 21
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65-3
 Cukup jelas.
 
 Angka 22
-
-Pasal 68
-
+#### Pasal 68 ^penjelasan-pasal-68-2
 Ayat (1)
 
 Cukup jelas.
@@ -22819,9 +22264,7 @@ Angka 40
 Cukup jelas.
 
 Angka 41
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71-2
 Cukup jelas.
 
 Angka 42
@@ -22850,23 +22293,15 @@ Cukup jelas.
 
 
 -----
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9-3
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10-2
 Angka 1
-
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1-6
 Cukup jelas.
 
 Angka 2
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2-5
 Ayat (1)
 
 Cukup jelas.
@@ -22943,9 +22378,7 @@ Dewan Komisaris, meskipun pihak dimaksud tidak
 dilihat dari struktur kepemilikan.
 
 Angka 4
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4-5
 Ayat (1)
 
 Cukup jelas.
@@ -22997,9 +22430,7 @@ Huruf m
 Cukup jelas.
 
 Angka 5
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6-4
 Ayat (1)
 
 Cukup jelas.
@@ -23026,21 +22457,15 @@ Ayat (5)
 Cukup jelas.
 
 Angka 6
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7-3
 Cukup jelas.
 
 Angka 7
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9-4
 Cukup jelas.
 
 Angka 8
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10-3
 Ayat (1)
 
 Cukup jelas.
@@ -23113,9 +22538,7 @@ Huruf e
 Cukup jelas.
 
 Angka 9
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13-4
 Ayat (1)
 
 Cukup jelas.
@@ -23153,18 +22576,14 @@ Ayat (8)
 Cukup jelas.
 
 Angka 10
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-4
 Cukup jelas.
 
 
 -----
 
 Angka 11
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15-6
 Ayat (1)
 
 Anggota Direksi dan anggota Dewan Komisaris tidak
@@ -23202,9 +22621,7 @@ Pasal 15A
 Cukup jelas.
 
 Angka 13
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16-3
 Ayat (1)
 
 Penyelenggaraan program pengembangan
@@ -23254,9 +22671,7 @@ kantor akuntan publik yang telah terdaftar di
 Otoritas Jasa Keuangan.
 
 Angka 15
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31-3
 Cukup jelas.
 
 Angka 16
@@ -23312,30 +22727,22 @@ Pasal 34G
 Cukup jelas.
 
 Angka 17
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Cukup jelas.
 
 
 -----
 
 Angka 18
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup jelas.
 
 Angka 19
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Cukup jelas.
 
 Angka 20
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38-2
 Ayat (1)
 
 Yang dimaksud dengan “kegiatan usaha baru” adalah
@@ -23355,15 +22762,11 @@ Angka 21
 Cukup jelas.
 
 Angka 22
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Cukup jelas.
 
 Angka 23
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41-2
 Ayat (1)
 
 Cukup jelas.
@@ -23409,15 +22812,11 @@ Ayat (4)
 Cukup jelas.
 
 Angka 24
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Cukup jelas
 
 Angka 25
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Ayat (1)
 
 Cukup jelas.
@@ -23449,9 +22848,7 @@ Ayat (6)
 Cukup jelas.
 
 Angka 26
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Cukup jelas.
 
 Angka 27
@@ -23941,9 +23338,7 @@ Angka 48
 Cukup jelas.
 
 Angka 49
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59-2
 Cukup jelas.
 
 Angka 50
@@ -23970,21 +23365,13 @@ Cukup jelas.
 Pasal 61C
 
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11-3
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12-3
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13-5
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14-5
 Persetujuan atau kebijakan perizinan antara lain berupa
 pembatasan perizinan atau persetujuan kegiatan Perusahaan.
 Penetapan kebijakan didasarkan pada pertimbangan termasuk
@@ -24006,21 +23393,13 @@ industri dapat tumbuh secara optimal di masyarakat.
 Pertimbangan menjaga persaingan usaha yang sehat dimaksudkan
 agar penyelenggaraan Perusahaan dapat dilakukan secara jujur,
 tidak melawan hukum, atau tidak menghambat persaingan usaha.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15-7
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16-4
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17-2
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18-4
 Persetujuan atau kebijakan perizinan antara lain berupa
 pembatasan perizinan atau persetujuan kegiatan Perusahaan
 Pembiayaan.
@@ -24048,21 +23427,13 @@ Pertimbangan menjaga persaingan usaha yang sehat dimaksudkan
 agar penyelenggaraan Perusahaan Pembiayaan dapat dilakukan
 secara jujur, tidak melawan hukum, atau tidak menghambat
 persaingan usaha.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19-3
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20-5
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21-4
 Cukup jelas.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22-2
 Persetujuan atau kebijakan perizinan antara lain berupa
 pembatasan perizinan atau persetujuan kegiatan Perusahaan
 Pembiayaan Syariah.
@@ -24086,24 +23457,16 @@ Pertimbangan menjaga persaingan usaha yang sehat dimaksudkan
 agar penyelenggaraan Perusahaan Pembiayaan Syariah dapat
 dilakukan secara jujur, tidak melawan hukum, atau tidak
 menghambat persaingan usaha.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23-3
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24-3
 Cukup jelas.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25-2
 Cukup jelas.
 
 
 -----
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26-3
 Persetujuan atau kebijakan perizinan antara lain berupa
 pembatasan perizinan atau persetujuan kegiatan Perusahaan
 Pembiayaan Infrastruktur.
@@ -24127,21 +23490,13 @@ Pertimbangan menjaga persaingan usaha yang sehat dimaksudkan
 agar penyelenggaraan Perusahaan Pembiayaan Infrastruktur dapat
 dilakukan secara jujur, tidak melawan hukum, atau tidak
 menghambat persaingan usaha.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27-2
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28-3
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29-2
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Persetujuan atau kebijakan perizinan antara lain berupa
 pembatasan perizinan atau persetujuan kegiatan PMV dan PMVS.
 Penetapan kebijakan didasarkan pada pertimbangan termasuk
@@ -24166,17 +23521,11 @@ tidak melawan hukum, atau tidak menghambat persaingan usaha.
 
 
 -----
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31-4
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33-2
 Huruf a
 
 Cukup jelas.
@@ -24210,40 +23559,24 @@ Cukup jelas.
 Huruf j
 
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34-2
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35-2
 Cukup jelas.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36-2
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37-2
 Cukup jelas.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38-3
 Cukup jelas.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Cukup jelas.
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40-2
 Cukup jelas.
 
 
 -----
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41-3
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 127/OJK
@@ -24251,3 +23584,215 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 127/OJK
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-2]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-3]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-4]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-5]] |
+| Pasal 1 | [[#^penjelasan-pasal-1-6]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 2 | [[#^penjelasan-pasal-2-2]] |
+| Pasal 2 | [[#^penjelasan-pasal-2-3]] |
+| Pasal 2 | [[#^penjelasan-pasal-2-4]] |
+| Pasal 2 | [[#^penjelasan-pasal-2-5]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 3 | [[#^penjelasan-pasal-3-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 4 | [[#^penjelasan-pasal-4-2]] |
+| Pasal 4 | [[#^penjelasan-pasal-4-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4-4]] |
+| Pasal 4 | [[#^penjelasan-pasal-4-5]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 5 | [[#^penjelasan-pasal-5-2]] |
+| Pasal 5 | [[#^penjelasan-pasal-5-3]] |
+| Pasal 5 | [[#^penjelasan-pasal-5-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 6 | [[#^penjelasan-pasal-6-2]] |
+| Pasal 6 | [[#^penjelasan-pasal-6-3]] |
+| Pasal 6 | [[#^penjelasan-pasal-6-4]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 7 | [[#^penjelasan-pasal-7-2]] |
+| Pasal 7 | [[#^penjelasan-pasal-7-3]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 9 | [[#^penjelasan-pasal-9-2]] |
+| Pasal 9 | [[#^penjelasan-pasal-9-3]] |
+| Pasal 9 | [[#^penjelasan-pasal-9-4]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 10 | [[#^penjelasan-pasal-10-2]] |
+| Pasal 10 | [[#^penjelasan-pasal-10-3]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 11 | [[#^penjelasan-pasal-11-2]] |
+| Pasal 11 | [[#^penjelasan-pasal-11-3]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 12 | [[#^penjelasan-pasal-12-2]] |
+| Pasal 12 | [[#^penjelasan-pasal-12-3]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-2]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-3]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-4]] |
+| Pasal 13 | [[#^penjelasan-pasal-13-5]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-2]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-3]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-4]] |
+| Pasal 14 | [[#^penjelasan-pasal-14-5]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-2]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-3]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-4]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-5]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-6]] |
+| Pasal 15 | [[#^penjelasan-pasal-15-7]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 16 | [[#^penjelasan-pasal-16-2]] |
+| Pasal 16 | [[#^penjelasan-pasal-16-3]] |
+| Pasal 16 | [[#^penjelasan-pasal-16-4]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 17 | [[#^penjelasan-pasal-17-2]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 18 | [[#^penjelasan-pasal-18-2]] |
+| Pasal 18 | [[#^penjelasan-pasal-18-3]] |
+| Pasal 18 | [[#^penjelasan-pasal-18-4]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 19 | [[#^penjelasan-pasal-19-2]] |
+| Pasal 19 | [[#^penjelasan-pasal-19-3]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 20 | [[#^penjelasan-pasal-20-2]] |
+| Pasal 20 | [[#^penjelasan-pasal-20-3]] |
+| Pasal 20 | [[#^penjelasan-pasal-20-4]] |
+| Pasal 20 | [[#^penjelasan-pasal-20-5]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 21 | [[#^penjelasan-pasal-21-2]] |
+| Pasal 21 | [[#^penjelasan-pasal-21-3]] |
+| Pasal 21 | [[#^penjelasan-pasal-21-4]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 22 | [[#^penjelasan-pasal-22-2]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 23 | [[#^penjelasan-pasal-23-2]] |
+| Pasal 23 | [[#^penjelasan-pasal-23-3]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 24 | [[#^penjelasan-pasal-24-2]] |
+| Pasal 24 | [[#^penjelasan-pasal-24-3]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 25 | [[#^penjelasan-pasal-25-2]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 26 | [[#^penjelasan-pasal-26-2]] |
+| Pasal 26 | [[#^penjelasan-pasal-26-3]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 27 | [[#^penjelasan-pasal-27-2]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 28 | [[#^penjelasan-pasal-28-2]] |
+| Pasal 28 | [[#^penjelasan-pasal-28-3]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 29 | [[#^penjelasan-pasal-29-2]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 31 | [[#^penjelasan-pasal-31-2]] |
+| Pasal 31 | [[#^penjelasan-pasal-31-3]] |
+| Pasal 31 | [[#^penjelasan-pasal-31-4]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 33 | [[#^penjelasan-pasal-33-2]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 34 | [[#^penjelasan-pasal-34-2]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 35 | [[#^penjelasan-pasal-35-2]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 36 | [[#^penjelasan-pasal-36-2]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 37 | [[#^penjelasan-pasal-37-2]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 38 | [[#^penjelasan-pasal-38-2]] |
+| Pasal 38 | [[#^penjelasan-pasal-38-3]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 40 | [[#^penjelasan-pasal-40-2]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 41 | [[#^penjelasan-pasal-41-2]] |
+| Pasal 41 | [[#^penjelasan-pasal-41-3]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 59 | [[#^penjelasan-pasal-59-2]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 65 | [[#^penjelasan-pasal-65-2]] |
+| Pasal 65 | [[#^penjelasan-pasal-65-3]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 68 | [[#^penjelasan-pasal-68-2]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 69 | [[#^penjelasan-pasal-69-2]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 70 | [[#^penjelasan-pasal-70-2]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 71 | [[#^penjelasan-pasal-71-2]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 72 | [[#^penjelasan-pasal-72-2]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 73 | [[#^penjelasan-pasal-73-2]] |
+| Pasal 73 | [[#^penjelasan-pasal-73-3]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 76 | [[#^penjelasan-pasal-76-2]] |
+| Pasal 76 | [[#^penjelasan-pasal-76-3]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 78 | [[#^penjelasan-pasal-78-2]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 79 | [[#^penjelasan-pasal-79-2]] |
+| Pasal 80 | [[#^penjelasan-pasal-80]] |
+| Pasal 81 | [[#^penjelasan-pasal-81]] |
+| Pasal 81 | [[#^penjelasan-pasal-81-2]] |
+| Pasal 81 | [[#^penjelasan-pasal-81-3]] |
+| Pasal 82 | [[#^penjelasan-pasal-82]] |
+| Pasal 82 | [[#^penjelasan-pasal-82-2]] |
+| Pasal 83 | [[#^penjelasan-pasal-83]] |
+| Pasal 84 | [[#^penjelasan-pasal-84]] |
+| Pasal 84 | [[#^penjelasan-pasal-84-2]] |
+| Pasal 85 | [[#^penjelasan-pasal-85]] |
+| Pasal 86 | [[#^penjelasan-pasal-86]] |
+| Pasal 86 | [[#^penjelasan-pasal-86-2]] |
+| Pasal 87 | [[#^penjelasan-pasal-87]] |
+| Pasal 87 | [[#^penjelasan-pasal-87-2]] |
+| Pasal 88 | [[#^penjelasan-pasal-88]] |
+| Pasal 89 | [[#^penjelasan-pasal-89]] |
+| Pasal 89 | [[#^penjelasan-pasal-89-2]] |
+| Pasal 90 | [[#^penjelasan-pasal-90]] |
+| Pasal 91 | [[#^penjelasan-pasal-91]] |
+| Pasal 91 | [[#^penjelasan-pasal-91-2]] |
+| Pasal 92 | [[#^penjelasan-pasal-92]] |
+| Pasal 94 | [[#^penjelasan-pasal-94]] |
+| Pasal 94 | [[#^penjelasan-pasal-94-2]] |
+| Pasal 95 | [[#^penjelasan-pasal-95]] |
+| Pasal 96 | [[#^penjelasan-pasal-96]] |
+| Pasal 98 | [[#^penjelasan-pasal-98]] |
+| Pasal 99 | [[#^penjelasan-pasal-99]] |
+| Pasal 100 | [[#^penjelasan-pasal-100]] |
+| Pasal 100 | [[#^penjelasan-pasal-100-2]] |
+| Pasal 101 | [[#^penjelasan-pasal-101]] |
+| Pasal 103 | [[#^penjelasan-pasal-103]] |
+| Pasal 104 | [[#^penjelasan-pasal-104]] |
+| Pasal 104 | [[#^penjelasan-pasal-104-2]] |
+| Pasal 105 | [[#^penjelasan-pasal-105]] |
+| Pasal 106 | [[#^penjelasan-pasal-106]] |
+| Pasal 109 | [[#^penjelasan-pasal-109]] |
+| Pasal 110 | [[#^penjelasan-pasal-110]] |
+| Pasal 110 | [[#^penjelasan-pasal-110-2]] |
+| Pasal 111 | [[#^penjelasan-pasal-111]] |
+| Pasal 113 | [[#^penjelasan-pasal-113]] |
+| Pasal 114 | [[#^penjelasan-pasal-114]] |
+| Pasal 115 | [[#^penjelasan-pasal-115]] |
+| Pasal 116 | [[#^penjelasan-pasal-116]] |
+| Pasal 116 | [[#^penjelasan-pasal-116-2]] |

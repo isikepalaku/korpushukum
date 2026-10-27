@@ -25,23 +25,29 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Pelaporan dan Permintaan Informasi Debitur SLIK
+**Pelaporan dan Permintaan Informasi Debitur SLIK**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: `30-sumber/POJK 18-2017 - Pelaporan dan Permintaan Informasi Debitur SLIK.pdf`
 
-## Teks
-# SALINAN
+**Teks**
+**SALINAN**
 
 PERATURAN OTORITAS JASA KEUANGAN
 
 NOMOR 18 /POJK.03/2017
 
-# TENTANG
+**TENTANG**
 
 PELAPORAN DAN PERMINTAAN INFORMASI DEBITUR MELALUI
 
@@ -65,17 +71,17 @@ Menimbang  :  a. bahwa Otoritas Jasa Keuangan berwenang untuk mengatur dan menge
 
    3. Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas Jasa Keuangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 111, Tambahan Lembaran Negara Republik Indonesia Nomor 5253);
 
-# MEMUTUSKAN:
+**MEMUTUSKAN:**
 
 Menetapkan : PERATURAN OTORITAS JASA KEUANGAN TENTANG PELAPORAN DAN PERMINTAAN INFORMASI DEBITUR MELALUI SISTEM LAYANAN INFORMASI KEUANGAN.
 
 - 3 -
 
-# BAB I
+**BAB I**
 
-# KETENTUAN UMUM
+**KETENTUAN UMUM**
 
-# Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud dengan:
 
@@ -117,11 +123,11 @@ tentang Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan.
 
 14. Lembaga Pengelola Informasi Perkreditan yang selanjutnya disingkat LPIP adalah lembaga atau badan yang menghimpun dan mengolah data kredit dan data lain untuk menghasilkan informasi perkreditan sesuai dengan ketentuan peraturan perundang-undangan tentang LPIP.
 
-# BAB II
+**BAB II**
 
-# PELAPOR
+**PELAPOR**
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 - (1) Pihak yang wajib menjadi Pelapor adalah:
 
@@ -137,7 +143,7 @@ Pasal 2
 
 - (2) Ketentuan lebih lanjut mengenai tata cara untuk menjadi Pelapor bagi pihak sebagaimana dimaksud pada ayat (1) diatur dengan Surat Edaran OJK.
 
-# Pasal 3
+### Pasal 3 ^pasal-3
 
 - (1) Lembaga Jasa Keuangan Lainnya yang menyediakan layanan pinjam-meminjam uang berbasis teknologi informasi dan lembaga keuangan mikro dapat menjadi Pelapor dengan mengajukan permohonan dan mendapat persetujuan OJK dengan memenuhi persyaratan:
 
@@ -157,11 +163,11 @@ Pasal 2
 
 - (3) Ketentuan lebih lanjut mengenai tata cara untuk menjadi Pelapor bagi Lembaga Jasa Keuangan Lainnya yang menyediakan layanan pinjam-meminjam uang berbasis teknologi informasi, lembaga keuangan mikro, dan lembaga lain bukan LJK sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan Surat Edaran OJK.
 
-# BAB III
+**BAB III**
 
-# LAPORAN DEBITUR DAN KOREKSI LAPORAN DEBITUR
+**LAPORAN DEBITUR DAN KOREKSI LAPORAN DEBITUR**
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 - (1) Pelapor wajib menyampaikan Laporan Debitur kepada OJK secara lengkap, akurat, terkini, utuh, dan tepat waktu setiap bulan untuk posisi akhir bulan.
 
@@ -189,7 +195,7 @@ Pasal 4
 
 - (6) Ketentuan lebih lanjut mengenai cakupan Laporan Debitur sebagaimana dimaksud pada ayat (2) diatur dengan Surat Edaran OJK.
 
-# Pasal 5
+### Pasal 5 ^pasal-5
 
 - (1) Informasi mengenai keuangan Debitur sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf f dilaporkan dalam hal Debitur merupakan perusahaan atau pihak yang menerima Fasilitas Penyediaan Dana dari 1 (satu) Pelapor dan/atau pembiayaan bersama lebih dari 1 (satu) Pelapor, dengan jumlah seluruh Fasilitas Penyediaan Dana paling sedikit sebesar Rp5.000.000.000,00 (lima miliar rupiah).
 
@@ -197,13 +203,13 @@ Pasal 4
 
 - (3) Pelapor melaporkan informasi mengenai keuangan Debitur sebagaimana dimaksud pada ayat (2) paling lambat pada Laporan Debitur bulan Juni tahun berikutnya.
 
-# Pasal 6
+### Pasal 6 ^pasal-6
 
 Pelapor baru wajib menyampaikan Laporan Debitur untuk pertama kali kepada OJK paling lambat tanggal 12 pada bulan keempat terhitung sejak ditetapkan sebagai pelapor oleh OJK.
 
 - 8 -
 
-# Pasal 7
+### Pasal 7 ^pasal-7
 
 Pelapor wajib melakukan koreksi Laporan Debitur yang telah disampaikan kepada OJK dalam hal Laporan Debitur tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 4 atas dasar:
 
@@ -211,13 +217,13 @@ Pelapor wajib melakukan koreksi Laporan Debitur yang telah disampaikan kepada OJ
 
 - b. temuan OJK.
 
-# BAB IV
+**BAB IV**
 
-# PERIODE PENYAMPAIAN LAPORAN DEBITUR DAN
+**PERIODE PENYAMPAIAN LAPORAN DEBITUR DAN**
 
-# KOREKSI LAPORAN DEBITUR
+**KOREKSI LAPORAN DEBITUR**
 
-# Pasal 8
+### Pasal 8 ^pasal-8
 
 - (1) Pelapor wajib menyampaikan Laporan Debitur sebagaimana dimaksud dalam Pasal 4 ayat (1) secara bulanan paling lambat tanggal 12 bulan berikutnya setelah bulan Laporan Debitur.
 
@@ -239,7 +245,7 @@ Pelapor wajib melakukan koreksi Laporan Debitur yang telah disampaikan kepada OJ
 
 - (5) Pelapor dinyatakan telah menyampaikan Laporan Debitur dan/atau koreksi Laporan Debitur pada tanggal Laporan Debitur dan/atau koreksi Laporan Debitur diterima oleh OJK.
 
-# Pasal 9
+### Pasal 9 ^pasal-9
 
 - (1) Pelapor dinyatakan terlambat menyampaikan Laporan Debitur apabila melampaui batas waktu sebagaimana dimaksud dalam Pasal 8 ayat (1), ayat (3), dan ayat (4) sampai dengan akhir bulan setelah bulan Laporan Debitur.
 
@@ -251,13 +257,13 @@ Pelapor wajib melakukan koreksi Laporan Debitur yang telah disampaikan kepada OJ
 
 - (5) Keterlambatan koreksi Laporan Debitur yang disebabkan karena program peningkatan kualitas data yang dilaksanakan oleh OJK dikecualikan dari ketentuan sebagaimana dimaksud pada ayat (4).
 
-# BAB V
+**BAB V**
 
-# PENYAMPAIAN LAPORAN DEBITUR DAN KOREKSI
+**PENYAMPAIAN LAPORAN DEBITUR DAN KOREKSI**
 
-# LAPORAN DEBITUR
+**LAPORAN DEBITUR**
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 - (1) Pelapor hanya dapat menyampaikan Laporan Debitur dan/atau koreksi Laporan Debitur secara daring ( _online_ ) melalui SLIK.
 
@@ -277,17 +283,17 @@ Pasal 10
 
 - 11 -
 
-# Pasal 11
+### Pasal 11 ^pasal-11
 
 - (1) Dalam hal terjadi kerusakan pada Laporan Debitur dan/atau koreksi Laporan Debitur karena gangguan teknis atau gangguan lain pada sistem dan/atau jaringan komunikasi data, OJK dapat meminta Pelapor untuk menyampaikan kembali Laporan Debitur dan/atau koreksi Laporan Debitur.
 
 - (2) Pelapor wajib menyampaikan kembali Laporan Debitur dan/atau koreksi Laporan Debitur atas permintaan OJK sebagaimana dimaksud pada ayat (1).
 
-# BAB VI
+**BAB VI**
 
-# PENGKINIAN DATA LAPORAN DEBITUR
+**PENGKINIAN DATA LAPORAN DEBITUR**
 
-# Pasal 12
+### Pasal 12 ^pasal-12
 
 - (1) OJK dapat melakukan pengkinian data Laporan Debitur pada SLIK dalam hal Pelapor:
 
@@ -305,17 +311,17 @@ Pasal 10
 
 - 12 -
 
-# BAB VII
+**BAB VII**
 
-# KETERBUKAAN KEPADA DEBITUR
+**KETERBUKAAN KEPADA DEBITUR**
 
-# DAN INFORMASI DEBITUR
+**DAN INFORMASI DEBITUR**
 
-# Pasal 13
+### Pasal 13 ^pasal-13
 
 Pelapor wajib memberitahukan kepada Debitur mengenai penyampaian Laporan Debitur yang bersangkutan ke dalam SLIK.
 
-# Pasal 14
+### Pasal 14 ^pasal-14
 
 - (1) Pihak yang dapat meminta Informasi Debitur adalah:
 
@@ -345,7 +351,7 @@ Pelapor wajib memberitahukan kepada Debitur mengenai penyampaian Laporan Debitur
 
 - (3) Ketentuan lebih lanjut mengenai cakupan Informasi Debitur untuk masing-masing pihak sebagaimana dimaksud pada ayat (1) diatur dengan Surat Edaran OJK.
 
-# Pasal 15
+### Pasal 15 ^pasal-15
 
 - (1) Pelapor yang telah memenuhi kewajiban pelaporan sebagaimana dimaksud dalam Pasal 4 dapat meminta Informasi Debitur sebagaimana dimaksud dalam Pasal 14 ayat (2) kepada OJK secara daring ( _online_ ) melalui SLIK.
 
@@ -373,13 +379,13 @@ melalui kantor pusat Pelapor dan/atau kantor cabang Pelapor.
 
    - c. mengidentifikasi kualitas Debitur dalam rangka pemenuhan ketentuan OJK atau pihak lain yang berwenang.
 
-# Pasal 16
+### Pasal 16 ^pasal-16
 
 - (1) Pelapor wajib memberikan Informasi Debitur atas permintaan Debitur kepada Pelapor.
 
 - (2) Informasi Debitur yang diberikan oleh Pelapor atas permintaan Debitur sebagaimana dimaksud pada ayat (1), hanya dapat diberikan kepada Debitur dari Pelapor yang bersangkutan.
 
-# Pasal 17
+### Pasal 17 ^pasal-17
 
 - (1) Dalam hal Pelapor menolak memberikan Fasilitas Penyediaan Dana kepada Debitur atau calon Debitur atas dasar Informasi Debitur, Pelapor wajib memberikan penjelasan secara tertulis kepada Debitur atau calon Debitur.
 
@@ -387,7 +393,7 @@ melalui kantor pusat Pelapor dan/atau kantor cabang Pelapor.
 
 - (2) Penjelasan secara tertulis sebagaimana dimaksud pada ayat (1) diberikan dalam hal terdapat permintaan secara tertulis dari Debitur atau calon Debitur.
 
-# Pasal 18
+### Pasal 18 ^pasal-18
 
 - (1) Debitur dapat meminta Informasi Debitur atas nama Debitur yang bersangkutan kepada OJK atau kepada Pelapor dari Debitur yang bersangkutan.
 
@@ -395,11 +401,11 @@ melalui kantor pusat Pelapor dan/atau kantor cabang Pelapor.
 
 - (3) Ketentuan lebih lanjut mengenai tata cara permintaan Informasi Debitur oleh Debitur sebagaimana dimaksud pada ayat (2) diatur dengan Surat Edaran OJK.
 
-# Pasal 19
+### Pasal 19 ^pasal-19
 
 LPIP sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf c dapat memperoleh Informasi Debitur dalam rangka pelaksanaan kegiatan usaha sebagaimana diatur dalam ketentuan peraturan perundang-undangan mengenai LPIP.
 
-# Pasal 20
+### Pasal 20 ^pasal-20
 
 - (1) Pihak lain sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf d dapat meminta Informasi Debitur kepada OJK dalam rangka pelaksanaan peraturan perundang-undangan dan/atau berdasarkan nota kesepahaman dengan OJK.
 
@@ -421,19 +427,19 @@ dapat dilakukan dengan perjanjian dan/atau nota kesepahaman antara OJK dan pihak
 
    - b. pemohon menyatakan bertanggung jawab terhadap segala akibat yang timbul berkaitan dengan penggunaan Informasi Debitur.
 
-# Pasal 21
+### Pasal 21 ^pasal-21
 
 Pihak yang dapat meminta Informasi Debitur sebagaimana dimaksud dalam Pasal 14 ayat (1) bertanggung jawab terhadap segala akibat hukum yang timbul sehubungan dengan penggunaan Informasi Debitur untuk keperluan yang tidak sesuai dengan ketentuan peraturan perundangundangan dan Peraturan OJK ini.
 
-# BAB VIII
+**BAB VIII**
 
-# PENANGANAN DAN PENYELESAIAN PENGADUAN
+**PENANGANAN DAN PENYELESAIAN PENGADUAN**
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 Debitur dapat mengajukan pengaduan mengenai ketidakakuratan Informasi Debitur secara langsung kepada Pelapor yang bersangkutan.
 
-# Pasal 23
+### Pasal 23 ^pasal-23
 
 - (1) Pelapor wajib menindaklanjuti pengaduan mengenai ketidakakuratan Informasi Debitur yang diajukan oleh Debitur sebagaimana dimaksud dalam Pasal 22.
 
@@ -443,7 +449,7 @@ Debitur dapat mengajukan pengaduan mengenai ketidakakuratan Informasi Debitur se
 
 berdasarkan dokumen dan/atau data yang dimiliki oleh Pelapor dan/atau Debitur.
 
-# Pasal 24
+### Pasal 24 ^pasal-24
 
 - (1) Pelapor wajib menyelesaikan pengaduan mengenai ketidakakuratan Informasi Debitur sebagaimana dimaksud dalam Pasal 22 paling lama 20 (dua puluh) hari kerja setelah tanggal pengaduan diterima oleh Pelapor.
 
@@ -453,11 +459,11 @@ berdasarkan dokumen dan/atau data yang dimiliki oleh Pelapor dan/atau Debitur.
 
 - (4) Dalam hal Pelapor telah menyelesaikan pengaduan mengenai ketidakakuratan Informasi Debitur, Pelapor wajib menyampaikan hasil penyelesaian pengaduan kepada Debitur secara tertulis.
 
-# Pasal 25
+### Pasal 25 ^pasal-25
 
 Dalam hal Pelapor tidak dapat menyelesaikan pengaduan mengenai ketidakakuratan Informasi Debitur sebagaimana dimaksud dalam Pasal 24 ayat (1) dan ayat (2), Debitur dapat melakukan upaya penyelesaian pengaduan melalui OJK atau Lembaga Alternatif Penyelesaian Sengketa (LAPS).
 
-# Pasal 26
+### Pasal 26 ^pasal-26
 
 - (1) Dalam hal berdasarkan hasil penelitian atas permasalahan yang diadukan sebagaimana dimaksud dalam Pasal 23 ayat (2) merupakan pengaduan yang
 
@@ -467,13 +473,13 @@ disebabkan oleh kesalahan Pelapor, Pelapor menyampaikan koreksi Laporan Debitur 
 
 - (2) Koreksi Laporan Debitur kepada OJK sebagaimana dimaksud pada ayat (1) diperlakukan sebagai koreksi atas dasar temuan Pelapor sebagaimana dimaksud dalam Pasal 7 huruf a dan Pasal 8 ayat (2) huruf a.
 
-# BAB IX
+**BAB IX**
 
 KEBIJAKAN DAN PROSEDUR PELAPORAN, PERMINTAAN INFORMASI DEBITUR, DAN PENYELESAIAN PENGADUAN
 
 INFORMASI DEBITUR
 
-# Pasal 27
+### Pasal 27 ^pasal-27
 
 Pelapor wajib memiliki kebijakan dan prosedur tertulis mengenai penyampaian Laporan Debitur dan/atau koreksi Laporan Debitur yang paling sedikit mencakup:
 
@@ -485,7 +491,7 @@ Pelapor wajib memiliki kebijakan dan prosedur tertulis mengenai penyampaian Lapo
 
 - d. langkah yang dilakukan dalam hal terjadi gangguan atau keadaan kahar ( _force majeure_ ) untuk memastikan kesinambungan penyampaian Laporan Debitur dan/atau koreksi Laporan Debitur kepada OJK serta wewenang dan tanggung jawab pegawai yang ditunjuk.
 
-# Pasal 28
+### Pasal 28 ^pasal-28
 
 Pelapor wajib memiliki kebijakan dan prosedur tertulis mengenai permintaan dan penggunaan Informasi Debitur yang paling sedikit mencakup:
 
@@ -501,7 +507,7 @@ Pelapor wajib memiliki kebijakan dan prosedur tertulis mengenai permintaan dan p
 
 - e. pengamanan Informasi Debitur.
 
-# Pasal 29
+### Pasal 29 ^pasal-29
 
 Dalam rangka menyelesaikan pengaduan mengenai ketidakakuratan Informasi Debitur sebagaimana dimaksud dalam Pasal 22, Pelapor wajib memiliki kebijakan dan prosedur tertulis yang paling sedikit mencakup:
 
@@ -515,11 +521,11 @@ menangani pengaduan;
 
 - e. penatausahaan penanganan dan penyelesaian pengaduan.
 
-# BAB X
+**BAB X**
 
-# PEGAWAI PELAKSANA
+**PEGAWAI PELAKSANA**
 
-# Pasal 30
+### Pasal 30 ^pasal-30
 
 - (1) Pelapor wajib menunjuk pegawai pelaksana dan/atau pejabat yang mencakup fungsi untuk:
 
@@ -549,11 +555,11 @@ menangani pengaduan;
 
 paling lama 7 (tujuh) hari kerja setelah terjadi perubahan.
 
-# BAB XI
+**BAB XI**
 
-# PENGAWASAN
+**PENGAWASAN**
 
-Pasal 31
+### Pasal 31 ^pasal-31
 
 - (1) OJK melakukan pengawasan secara langsung dan/atau pengawasan secara tidak langsung terkait pelaksanaan SLIK terhadap Pelapor sebagaimana dimaksud dalam Pasal 2.
 
@@ -563,15 +569,15 @@ Pasal 31
 
 - (3) Pelapor wajib memberikan informasi kepada OJK dalam rangka pelaksanaan pengawasan sebagaimana dimaksud pada ayat (1) dan ayat (2).
 
-# BAB XII
+**BAB XII**
 
-# SANKSI
+**SANKSI**
 
-# Pasal 32
+### Pasal 32 ^pasal-32
 
 Pelapor yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (1), Pasal 4 ayat (1), Pasal 4 ayat (2), Pasal 4 ayat (4), Pasal 4 ayat (5), Pasal 6, Pasal 11 ayat (2), Pasal 13, Pasal 15 ayat (3), Pasal 15 ayat (4), Pasal 16 ayat (1), Pasal 17 ayat (1), Pasal 23 ayat (1), Pasal 23 ayat (2), Pasal 24 ayat (1), Pasal 24 ayat (3), Pasal 24 ayat (4), Pasal 27, Pasal 28, Pasal 29, Pasal 30 ayat (1), Pasal 30 ayat (3), Pasal 30 ayat (4), dan/atau Pasal 31 ayat (3) dikenakan sanksi administratif berupa teguran tertulis atau peringatan tertulis.
 
-# Pasal 33
+### Pasal 33 ^pasal-33
 
 - (1) Pelapor yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 8 ayat (1) dan dinyatakan terlambat menyampaikan Laporan Debitur sebagaimana dimaksud dalam Pasal 9 ayat (1) atau Pasal 10 ayat (3) dikenakan sanksi administratif berupa:
 
@@ -591,7 +597,7 @@ Pelapor yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (1), Pa
 
    - b. penundaan pemberian Informasi Debitur sampai dengan seluruh Laporan Debitur diterima oleh OJK.
 
-Pasal 34
+### Pasal 34 ^pasal-34
 
 - (1) Pelapor yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 8 ayat (2) huruf a dan dinyatakan terlambat menyampaikan koreksi Laporan Debitur sebagaimana dimaksud dalam Pasal 9 ayat (4) atau Pasal 10 ayat (3) dikenakan sanksi administratif berupa denda:
 
@@ -623,11 +629,11 @@ rupiah), sebesar Rp50.000,00 (lima puluh ribu rupiah) per Debitur paling banyak 
 
 - b. penundaan pemberian Informasi Debitur sampai dengan seluruh koreksi Laporan Debitur diterima oleh OJK.
 
-# Pasal 35
+### Pasal 35 ^pasal-35
 
 Pelapor yang meminta dan menggunakan Informasi Debitur tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 15 ayat (4) dikenakan sanksi administratif berupa denda sebesar Rp50.000.000,00 (lima puluh juta rupiah) untuk setiap Informasi Debitur.
 
-# Pasal 36
+### Pasal 36 ^pasal-36
 
 Pelapor sebagaimana dimaksud dalam Pasal 2, yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 7 huruf b, Pasal 8 ayat (1), Pasal 8 ayat (2) huruf a, Pasal 8 ayat (2) huruf b, Pasal 9 ayat (1), Pasal 9 ayat (2), Pasal 9 ayat (4), Pasal 10 ayat (3), dan Pasal 15 ayat (4), selain dikenakan sanksi administratif berupa teguran tertulis atau peringatan tertulis, denda, dan/atau sanksi administratif lainnya sebagaimana dimaksud dalam Pasal 32, Pasal 33, Pasal 34, dan/atau Pasal 35, dapat dikenakan sanksi administratif berupa:
 
@@ -643,15 +649,15 @@ Pelapor sebagaimana dimaksud dalam Pasal 2, yang melanggar ketentuan sebagaimana
 
 sesuai dengan ketentuan peraturan perundang-undangan.
 
-# Pasal 37
+### Pasal 37 ^pasal-37
 
 Bagi Pelapor baru, pelaksanaan pengenaan sanksi sebagaimana dimaksud dalam Pasal 33 ayat (1) huruf a, Pasal 33 ayat (2) huruf a, Pasal 34 ayat (1), Pasal 34 ayat (2), dan Pasal 34 ayat (3) huruf a, mulai berlaku 9 (sembilan) bulan sejak batas waktu sebagaimana dimaksud dalam Pasal 6.
 
-# BAB XIII
+**BAB XIII**
 
-# KETENTUAN PERALIHAN
+**KETENTUAN PERALIHAN**
 
-# Pasal 38
+### Pasal 38 ^pasal-38
 
 (1) Bank Umum, BPR, BPRS, Lembaga Pembiayaan yang memberikan Fasilitas Penyediaan Dana, dan Lembaga Jasa Keuangan Lainnya yang memberikan Fasilitas Penyediaan Dana, yang pada saat Peraturan OJK ini berlaku, telah menjadi Pelapor Sistem Informasi Debitur sebagaimana dimaksud dalam Peraturan Bank Indonesia Nomor 9/14/PBI/2007 tentang Sistem Informasi Debitur sebagaimana telah diubah dengan Peraturan Bank Indonesia Nomor 18/21/PBI/2016 tentang Perubahan atas Peraturan Bank Indonesia Nomor 9/14/PBI/2007 tentang Sistem Informasi Debitur menyampaikan:
 
@@ -671,11 +677,11 @@ paling lama 3 (tiga) bulan sejak Peraturan OJK ini mulai berlaku.
 
 - 26 -
 
-# BAB XIV
+**BAB XIV**
 
-# KETENTUAN PENUTUP
+**KETENTUAN PENUTUP**
 
-# Pasal 39
+### Pasal 39 ^pasal-39
 
 Pada saat Peraturan OJK ini mulai berlaku:
 
@@ -685,11 +691,11 @@ Pada saat Peraturan OJK ini mulai berlaku:
 
 - dicabut dan dinyatakan tidak berlaku sejak tanggal 1 Januari 2018.
 
-# Pasal 40
+### Pasal 40 ^pasal-40
 
 Ketentuan Pasal 14 ayat (1) huruf b, huruf c, dan huruf d, Pasal 17, Pasal 18, Pasal 19, Pasal 20, Pasal 22, Pasal 23, Pasal 24, Pasal 25, Pasal 26, Pasal 29, Pasal 33 ayat (1) huruf a, Pasal 33 ayat (2) huruf a, Pasal 34 ayat (1), Pasal 34 ayat (2), dan Pasal 34 ayat (3) huruf a, mulai berlaku sejak tanggal 1 Januari 2018.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
 Peraturan OJK ini mulai berlaku pada tanggal diundangkan.
 
@@ -721,21 +727,21 @@ ttd
 
 Yuliana
 
-# PENJELASAN
+## Penjelasan
 
-# ATAS
+### I. Umum
+
+**ATAS**
 
 PERATURAN OTORITAS JASA KEUANGAN
 
 NOMOR 18 /POJK.03/2017
 
-# TENTANG
+**TENTANG**
 
 PELAPORAN DAN PERMINTAAN INFORMASI DEBITUR MELALUI
 
 SISTEM LAYANAN INFORMASI KEUANGAN
-
-# I. UMUM
 
 Kemudahan akses perkreditan atau pembiayaan merupakan salah satu aspek penting dalam menciptakan sistem keuangan yang sehat dalam rangka mendukung pertumbuhan ekonomi suatu negara. Kemudahan akses perkreditan atau pembiayaan perlu didukung dengan adanya sistem informasi yang berfungsi sebagai sarana pertukaran informasi kredit antar lembaga jasa keuangan.
 
@@ -749,16 +755,14 @@ SLIK dapat dimanfaatkan untuk memperlancar proses penyediaan dana, penerapan man
 
 Dalam rangka meningkatkan efektivitas dan efisiensi penyelenggaraan SLIK diperlukan pengaturan mengenai pelaporan dan permintaan informasi debitur melalui SLIK.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1 Cukup jelas. Pasal 2 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Yang dimaksud dengan “Lembaga Jasa Keuangan Lainnya yang memberikan Fasilitas Penyediaan Dana” antara lain lembaga pembiayaan ekspor Indonesia, pergadaian, perusahaan pembiayaan sekunder perumahan.
-
+#### Pasal 1 ^penjelasan-pasal-1
+Cukup jelas. Pasal 2 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Yang dimaksud dengan “Lembaga Jasa Keuangan Lainnya yang memberikan Fasilitas Penyediaan Dana” antara lain lembaga pembiayaan ekspor Indonesia, pergadaian, perusahaan pembiayaan sekunder perumahan.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Ayat (1)
 
 Huruf a
@@ -796,9 +800,7 @@ Yang dimaksud dengan “perjanjian keikutsertaan dalam pelaporan dan permintaan 
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Cukup jelas.
@@ -811,7 +813,7 @@ Informasi mengenai Debitur, antara lain berisi informasi mengenai nama, nomor id
 
 - 4 -
 
-# Huruf b
+**Huruf b**
 
 Informasi mengenai Fasilitas Penyediaan Dana, antara lain berisi informasi mengenai jenis penyediaan dana, jumlah fasilitas yang diberikan serta kualitas penyediaan dana termasuk penyediaan dana yang dihapus buku, dihapus tagih atau diselesaikan dengan cara pengambilalihan agunan atau penyelesaian melalui peradilan.
 
@@ -850,9 +852,7 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Cukup jelas.
@@ -866,21 +866,15 @@ Ayat (3)
 Contoh:
 
 Informasi mengenai keuangan Debitur yang bersumber dari laporan keuangan tahunan Debitur bulan Desember 2018 disampaikan oleh Pelapor paling lambat tanggal 12 Juli 2019.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Yang dimaksud dengan “Pelapor baru” adalah Pelapor yang belum pernah menyampaikan Laporan Debitur dalam Sistem Informasi Debitur (SID) dan SLIK.
 
 Contoh:
 
 Pelapor ditetapkan sebagai pelapor oleh OJK pada bulan September 2018 maka Pelapor untuk pertama kali menyampaikan Laporan Debitur paling lambat tanggal 12 Januari 2019 untuk bulan data Desember 2018.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Contoh:
@@ -930,9 +924,7 @@ Yang termasuk kondisi tertentu yang berdampak signifikan pada periode penyampaia
 Ayat (5)
 
 Tanggal Laporan Debitur dan/atau koreksi Laporan Debitur diterima oleh OJK adalah tanggal yang tercantum pada tanda terima Laporan Debitur dan/atau koreksi Laporan Debitur dari SLIK untuk penyampaian secara daring ( _online_ ) maupun secara luring ( _offline_ ).
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Ayat (1)
 
 Contoh: Pelapor dinyatakan terlambat menyampaikan Laporan Debitur bulan Mei 2018, apabila Pelapor menyampaikan Laporan Debitur pada kurun waktu tanggal 13 Juni 2018 sampai dengan 30 Juni 2018.
@@ -948,9 +940,7 @@ Cukup jelas. Ayat (4)
 Contoh 1: Pelapor dinyatakan terlambat menyampaikan koreksi Laporan Debitur bulan Mei 2018, apabila koreksi Laporan Debitur disampaikan melampaui tanggal 12 Juni 2018. Contoh 2: Apabila temuan OJK disampaikan kepada Pelapor pada tanggal 1 Mei 2018 maka koreksi Laporan Debitur disampaikan paling lambat tanggal 12 Juni 2018. Ayat (5)
 
 Cukup jelas.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Yang dimaksud dengan “menyampaikan Laporan Debitur dan/atau koreksi Laporan Debitur secara daring ( _online_ )”
@@ -986,13 +976,9 @@ Yang dimaksud dengan “keadaan kahar ( _force majeure_ )” antara lain kebakar
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Cukup jelas.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Huruf a
@@ -1026,13 +1012,9 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Pemberitahuan kepada Debitur dapat dilakukan melalui sarana antara lain formulir, surat elektronik ( _electronic mail_ ), dan pesan singkat ( _short messages service_ ).
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Huruf a
@@ -1052,9 +1034,7 @@ Yang dimaksud dengan “pihak lain” adalah pihak yang berdasarkan peraturan pe
 dan wewenang berdasarkan peraturan perundangundangan.
 
 Ayat (2) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Informasi lain antara lain berupa informasi keuangan Debitur. Ayat (3) Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan “menatausahakan” adalah melakukan penatausahaan atas setiap permintaan Informasi Debitur baik secara manual maupun melalui sarana teknologi informasi. Ayat (4) Huruf a Cukup jelas. Huruf b Cukup jelas.
 
 - 12 -
@@ -1062,9 +1042,7 @@ Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan “men
 Huruf c
 
 Pihak lain yang berwenang antara lain otoritas pengawas Pelapor.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Ayat (1)
 
 Pemberian Informasi Debitur kepada Debitur dari Pelapor yang bersangkutan merupakan salah satu bentuk pelaksanaan transparansi Pelapor kepada Debitur.
@@ -1072,9 +1050,7 @@ Pemberian Informasi Debitur kepada Debitur dari Pelapor yang bersangkutan merupa
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Pemberian penjelasan secara tertulis kepada Debitur atau calon Debitur dilakukan dengan menggunakan surat pemberitahuan oleh Pelapor.
@@ -1082,9 +1058,7 @@ Pemberian penjelasan secara tertulis kepada Debitur atau calon Debitur dilakukan
 Ayat (2)
 
 Permintaan secara tertulis dari Debitur atau calon Debitur kepada Pelapor dilakukan dengan menggunakan surat permohonan.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Ayat (1)
 
 Cukup jelas.
@@ -1096,31 +1070,19 @@ Yang dimaksud dengan “disampaikan langsung oleh Debitur“ adalah Debitur yang
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
 
 - 13 -
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Cukup jelas.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Ayat (1)
 
 Tanggal pengaduan diterima adalah tanggal yang tercantum dalam administrasi pengaduan yang ditatausahakan oleh Pelapor.
@@ -1136,13 +1098,9 @@ Cukup jelas.
 Ayat (4)
 
 Penyelesaian pengaduan mengenai ketidakakuratan Informasi Debitur dibuktikan dengan dokumen kesepakatan penyelesaian pengaduan.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Cukup jelas.
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Pelapor menyampaikan koreksi Laporan Debitur kepada OJK segera setelah dilakukan koreksi.
@@ -1152,9 +1110,7 @@ Ayat (2)
 Cukup jelas.
 
 - 14 -
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Huruf a
 
 Cukup jelas.
@@ -1168,17 +1124,11 @@ Huruf c
 Cukup jelas. Huruf d
 
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-# Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Cukup jelas.
@@ -1196,9 +1146,7 @@ Ayat (4)
 Cukup jelas.
 
 - 15 -
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 - Ayat (1)
 
 Pengawasan dilakukan melalui:
@@ -1214,13 +1162,9 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-# Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Ayat (1)
 
 Huruf a
@@ -1260,9 +1204,7 @@ tidak menyampaikan Laporan Debitur bulan Mei 2018 sampai dengan batas akhir bula
 Huruf b
 
 Pelapor sebagaimana dimaksud pada contoh angka 1 dan angka 2 selain dikenakan sanksi administratif berupa denda juga dikenakan sanksi administratif berupa penundaan pemberian Informasi Debitur dari tanggal 13 Juni 2018 sampai dengan tanggal 10 Juli 2018.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Perhitungan aset sebagai dasar pengenaan sanksi administratif berupa denda pada ayat (1), ayat (2), dan ayat (3) berdasarkan jumlah aset pada saat posisi pelaporan. Ayat (1)
 
 Huruf a
@@ -1318,25 +1260,17 @@ Apabila Pelapor dengan aset kurang dari Rp500.000.000.000,00 (lima ratus miliar 
 Huruf b
 
 Pelapor sebagaimana dimaksud pada contoh angka 1 dan angka 2 selain dikenakan sanksi administratif berupa denda juga dikenakan sanksi administratif berupa penundaan pemberian Informasi Debitur dari tanggal 13 Maret 2018 sampai dengan tanggal 16 Maret 2018.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Cukup jelas.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Contoh:
 
 Pelapor ditetapkan menjadi Pelapor SLIK pada bulan September 2017, Pelapor mulai dikenakan sanksi untuk pelanggaran penyampaian Laporan Debitur bulan Oktober 2018 yang dilaporkan paling lambat tanggal 12 November 2018.
 
 - 20 -
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Ayat (1)
 
 Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4)
@@ -1346,17 +1280,56 @@ Laporan Debitur bulan Juni 2017 dilaporkan paling lambat tanggal 19 Juli 2017.
 Laporan Debitur bulan Juli 2017 dilaporkan paling lambat tanggal 22 Agustus 2017.
 
 Laporan Debitur secara luring ( _offline_ ) bulan Juli 2017 dilaporkan paling lambat tanggal 25 Agustus 2017.
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Sampai dengan tanggal 31 Desember 2017, kewajiban pelaporan mengikuti ketentuan sebagaimana diatur dalam Peraturan Bank Indonesia Nomor 9/14/PBI/2007 tanggal 30 November 2007 tentang Sistem Informasi Debitur sebagaimana telah diubah dengan Peraturan Bank Indonesia Nomor 18/21/PBI/2016 tentang Perubahan atas Peraturan Bank Indonesia Nomor 9/14/PBI/2007 tentang Sistem Informasi Debitur dan Peraturan OJK ini.
-
-# Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Cukup jelas.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6049
+
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |

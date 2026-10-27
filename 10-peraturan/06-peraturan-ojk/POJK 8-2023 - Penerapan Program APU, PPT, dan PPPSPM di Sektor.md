@@ -24,17 +24,22 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Penerapan Program APU, PPT, dan PPPSPM di Sektor Jasa Keuangan
+**Penerapan Program APU, PPT, dan PPPSPM di Sektor Jasa Keuangan**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/POJK-APU-PPT-dan-PPPSPM-di-SJK.aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/POJK-APU-PPT-dan-PPPSPM-di-SJK.aspx)
-
 
 OTORITAS JASA KEUANGAN
 
@@ -76,7 +81,6 @@ berkaitan dengan penerapan program anti pencucian
 uang, pencegahan pendanaan terorisme, dan pencegahan
 pendanaan proliferasi senjata pemusnah massal di sektor
 jasa keuangan;
-
 
 -----
 
@@ -126,7 +130,6 @@ Indonesia Nomor 6845);
 3. Undang-Undang Nomor 9 Tahun 2013 tentang
 Pencegahan dan Pemberantasan Tindak Pidana
 
-
 -----
 
 Pendanaan Terorisme (Lembaran Negara Republik
@@ -143,7 +146,7 @@ SEKTOR JASA KEUANGAN.
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
 dengan:
 1. Penyedia Jasa Keuangan yang selanjutnya disingkat PJK
@@ -172,7 +175,6 @@ selanjutnya disingkat DTTOT adalah daftar nama terduga
 teroris dan organisasi teroris sebagaimana dimaksud
 dalam peraturan perundang-undangan mengenai
 pencegahan dan pemberantasan TPPT.
-
 
 -----
 
@@ -221,7 +223,6 @@ dan/atau PPSPM.
 keuangan mencurigakan terkait TPPU, TPPT, dan/atau
 PPSPM.
 
-
 -----
 
 18. Transaksi Keuangan Tunai adalah transaksi keuangan
@@ -269,7 +270,6 @@ internasional.
 oleh FATF dan merupakan standar pencegahan dan
 pemberantasan TPPU, TPPT, dan/atau PPSPM.
 
-
 -----
 
 25. _Correspondent Banking adalah kegiatan suatu bank_
@@ -294,7 +294,7 @@ Transfer Dana.
 (satu) grup atau kelompok karena keterkaitan kepemilikan
 dan/atau pengendalian.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 (1) PJK sebagaimana dimaksud dalam Pasal 1 angka 1 terdiri
 atas:
 a. bank;
@@ -315,7 +315,6 @@ n. perusahaan pergadaian;
 o. lembaga keuangan mikro;
 p. penyelenggara layanan pendanaan bersama berbasis
 teknologi informasi;
-
 
 -----
 
@@ -358,7 +357,7 @@ KEWAJIBAN PENERAPAN PROGRAM APU, PPT, DAN PPPSPM
 
 DI SEKTOR JASA KEUANGAN
 
-Pasal 3
+### Pasal 3 ^pasal-3
 PJK wajib menerapkan program APU, PPT, dan PPPSPM secara
 efektif dengan memperhatikan risiko TPPU, TPPT, dan/atau
 PPSPM serta kegiatan, skala usaha, kompleksitas usaha,
@@ -366,14 +365,13 @@ dan/atau karakteristik usaha PJK yang mencakup:
 a. pengawasan aktif Direksi dan Dewan Komisaris;
 b. kebijakan dan prosedur;
 
-
 -----
 
 c. pengendalian intern;
 d. sistem informasi manajemen; dan
 e. sumber daya manusia dan pelatihan.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 (1) PJK wajib mengidentifikasi, menilai, dan memahami risiko
 TPPU, TPPT, dan/atau PPSPM terhadap Nasabah, negara
 atau area geografis, produk, jasa, transaksi atau jaringan
@@ -415,7 +413,6 @@ skala usaha, kompleksitas usaha, karakteristik usaha,
 dan/atau peristiwa atau perkembangan besar dalam
 manajemen dan operasional PJK, penyampaian dokumen
 
-
 -----
 
 penilaian risiko TPPU, TPPT, dan/atau PPSPM
@@ -427,7 +424,7 @@ format tercantum dalam Lampiran yang merupakan
 bagian tidak terpisahkan dari Peraturan Otoritas Jasa
 Keuangan ini.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 (1) PJK wajib memiliki kebijakan, pengawasan, dan prosedur
 pengelolaan serta mitigasi risiko TPPU, TPPT, dan/atau
 PPSPM yang mampu mengelola dan memitigasi risiko yang
@@ -439,7 +436,7 @@ mengevaluasi penerapannya.
 menetapkan tindakan yang lebih mendalam untuk
 mengelola dan memitigasi risiko.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 (1) PJK wajib mengelola dan memitigasi risiko yang telah
 diidentifikasi berdasarkan penilaian risiko sebagaimana
 dimaksud dalam Pasal 4.
@@ -447,7 +444,7 @@ dimaksud dalam Pasal 4.
 merupakan bagian dari penerapan manajemen risiko PJK
 secara keseluruhan.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 (1) PJK yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 3, Pasal 4 ayat (1), ayat (2), ayat (4), ayat (5),
 Pasal 5, dan/atau Pasal 6 ayat (1), dikenai sanksi
@@ -464,7 +461,6 @@ f. larangan sebagai pihak utama.
 sanksi administratif sebagaimana dimaksud pada ayat (1)
 kepada masyarakat.
 
-
 -----
 
 (3) Pengenaan sanksi administratif sebagaimana dimaksud
@@ -479,7 +475,7 @@ PENGAWASAN AKTIF DIREKSI DAN DEWAN KOMISARIS
 Bagian Kesatu
 Pengawasan Aktif Direksi
 
-Pasal 8
+### Pasal 8 ^pasal-8
 (1) Pengawasan aktif Direksi sebagaimana dimaksud dalam
 Pasal 3 huruf a, paling sedikit:
 a. mengusulkan kebijakan dan prosedur tertulis
@@ -513,7 +509,6 @@ dan/atau peristiwa atau perkembangan besar dalam
 manajemen dan operasional PJK, pelatihan yang berkaitan
 dengan penerapan program APU, PPT, dan PPPSPM
 
-
 -----
 
 sebagaimana dimaksud pada ayat (1) huruf f dapat
@@ -522,7 +517,7 @@ dilakukan lebih dari 1 (satu) kali.
 Bagian Kedua
 Pengawasan Aktif Dewan Komisaris
 
-Pasal 9
+### Pasal 9 ^pasal-9
 Pengawasan aktif Dewan Komisaris sebagaimana dimaksud
 dalam Pasal 3 huruf a, paling sedikit:
 a. memastikan PJK memiliki kebijakan dan prosedur
@@ -548,7 +543,7 @@ Paragraf 1
 
 Umum
 
-Pasal 10
+### Pasal 10 ^pasal-10
 (1) PJK wajib memiliki pengaturan manajemen kepatuhan
 penerapan program APU, PPT, dan PPPSPM, termasuk
 dengan melakukan penunjukan pejabat kepatuhan di
@@ -564,14 +559,13 @@ PPT, dan PPPSPM sebagaimana dimaksud pada ayat (2)
 dilakukan sesuai dengan kebutuhan PJK berdasarkan
 penilaian risiko TPPU, TPPT, dan/atau PPSPM, kegiatan,
 
-
 -----
 
 skala usaha, kompleksitas usaha, karakteristik usaha,
 dan/atau apabila terdapat peristiwa atau perkembangan
 besar dalam manajemen dan operasional PJK.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 (1) Unit kerja khusus dan/atau pejabat yang ditunjuk
 sebagaimana dimaksud dalam Pasal 10 ayat (2) ditetapkan
 sebagai bagian dari struktur organisasi PJK dan
@@ -608,10 +602,9 @@ informasi lainnya yang terkait.
 Paragraf 2
 Unit Kerja Khusus
 
-Pasal 12
+### Pasal 12 ^pasal-12
 Dalam hal PJK membentuk unit kerja khusus sebagai
 penanggung jawab penerapan program APU, PPT, dan PPPSPM
-
 
 -----
 
@@ -631,7 +624,7 @@ e. bersifat independen dari fungsi lain.
 Paragraf 3
 Penugasan Pejabat
 
-Pasal 13
+### Pasal 13 ^pasal-13
 (1) Dalam hal PJK menugaskan pejabat sebagai penanggung
 jawab penerapan program APU, PPT, dan PPPSPM
 sebagaimana dimaksud dalam Pasal 10 ayat (2), pejabat
@@ -648,7 +641,7 @@ dari fungsi audit internal.
 Paragraf 4
 Tugas dan Wewenang
 
-Pasal 14
+### Pasal 14 ^pasal-14
 (1) Penanggung jawab penerapan program APU, PPT, dan
 PPPSPM sebagaimana dimaksud dalam Pasal 10 ayat (2),
 mempunyai tugas meliputi:
@@ -660,7 +653,6 @@ atau jaringan distribusi (delivery channels), sebanyak
 b. menyusun, melakukan pengkinian, serta
 mengusulkan kebijakan dan prosedur penerapan
 program APU, PPT, dan PPPSPM yang telah disusun
-
 
 -----
 
@@ -709,7 +701,6 @@ memperhatikan ketentuan anti tipping-off;
 l. melakukan pengawasan terkait penerapan program
 APU, PPT, dan PPPSPM terhadap satuan kerja terkait;
 
-
 -----
 
 m. memastikan adanya identifikasi area yang berisiko
@@ -748,7 +739,7 @@ penilaian risiko TPPU, TPPT, dan/atau PPSPM
 sebagaimana dimaksud pada ayat (1) huruf a dapat
 dilakukan lebih dari 1 (satu) kali.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 Penanggung jawab penerapan program APU, PPT, dan PPPSPM
 sebagaimana dimaksud dalam Pasal 10 ayat (2), mempunyai
 wewenang meliputi:
@@ -757,7 +748,6 @@ yang ada di seluruh unit organisasi PJK;
 b. melakukan koordinasi dan pemantauan terhadap
 penerapan program APU, PPT, dan PPPSPM oleh unit kerja
 terkait;
-
 
 -----
 
@@ -774,7 +764,7 @@ Keuangan; dan
 e. melakukan kewenangan lain untuk penerapan program
 APU, PPT, dan PPPSPM.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 (1) PJK yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 10 ayat (1), ayat (2), dan/atau Pasal 11 ayat
 (5), dikenai sanksi administratif berupa:
@@ -797,7 +787,7 @@ Pasal 10 ayat (1), ayat (2), dan/atau Pasal 11 ayat (5).
 BAB IV
 KEBIJAKAN DAN PROSEDUR
 
-Pasal 17
+### Pasal 17 ^pasal-17
 (1) PJK wajib memiliki kebijakan dan prosedur sebagaimana
 dimaksud dalam Pasal 3 huruf b, untuk mengelola dan
 memitigasi risiko TPPU, TPPT, dan/atau PPSPM yang
@@ -806,7 +796,6 @@ diidentifikasi sesuai dengan penilaian risiko.
 (1) wajib dituangkan secara tertulis, dan dapat disertai
 dengan diagram alur dan penjelasan dari setiap tahapan
 prosedur pada diagram alur tersebut.
-
 
 -----
 
@@ -855,14 +844,13 @@ prosedur pelaksanaan program APU, PPT, dan PPPSPM
 sebagaimana dimaksud pada ayat (1) meliputi pula Cross
 _Border Correspondent Banking dan Transfer Dana._
 
-
 -----
 
 (9) PJK wajib menerapkan kebijakan dan prosedur penerapan
 program APU, PPT, dan PPPSPM sebagaimana dimaksud
 pada ayat (1) secara konsisten dan berkesinambungan.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 (1) PJK wajib mengidentifikasi dan melakukan penilaian
 risiko TPPU, TPPT, dan/atau PPSPM yang terkait dengan
 pengembangan produk dan praktik usaha baru, termasuk
@@ -877,7 +865,7 @@ atau digunakan.
 mengelola dan memitigasi risiko sebagaimana dimaksud
 pada ayat (1).
 
-Pasal 19
+### Pasal 19 ^pasal-19
 PJK wajib melakukan prosedur CDD pada saat:
 a. melakukan hubungan usaha dengan Calon Nasabah;
 b. terdapat transaksi keuangan dengan mata uang rupiah
@@ -891,7 +879,7 @@ e. PJK meragukan kebenaran informasi yang diberikan oleh
 Calon Nasabah, Nasabah, WIC, penerima kuasa, dan/atau
 Pemilik Manfaat (Beneficial Owner).
 
-Pasal 20
+### Pasal 20 ^pasal-20
 (1) PJK wajib mengelompokkan Calon Nasabah, Nasabah,
 WIC, dan Pemilik Manfaat (Beneficial Owner) berdasarkan
 tingkat risiko terjadinya TPPU, TPPT, dan/atau PPSPM.
@@ -903,7 +891,6 @@ a. identitas;
 b. lokasi usaha bagi Calon Nasabah, Nasabah, atau WIC
 berupa perusahaan;
 c. profil;
-
 
 -----
 
@@ -917,7 +904,7 @@ Nasabah, atau WIC; dan
 h. informasi lainnya yang dapat digunakan untuk
 mengukur tingkat risiko.
 
-Pasal 21
+### Pasal 21 ^pasal-21
 (1) Dalam melakukan hubungan usaha dengan Calon
 Nasabah, PJK wajib:
 a. melakukan identifikasi dengan meminta data,
@@ -951,7 +938,6 @@ a. pegawai PJK menggunakan perangkat lunak dan
 perangkat keras milik PJK atau menggunakan
 perangkat lunak dan perangkat keras milik pihak
 ketiga; dan
-
 
 -----
 
@@ -988,7 +974,7 @@ menambahkan faktor keaslian (authentication factor)
 lainnya, berupa sesuatu yang Calon Nasabah ketahui
 (something you know).
 
-Pasal 22
+### Pasal 22 ^pasal-22
 (1) Dalam hal PJK melakukan verifikasi melalui mekanisme
 pertemuan tatap muka secara elektronik atau melalui
 mekanisme tidak tatap muka secara elektronik, dengan
@@ -1000,7 +986,6 @@ tertulis dengan pihak ketiga.
 (2) PJK wajib memastikan pihak ketiga yang akan melakukan
 perjanjian kerja sama sebagaimana dimaksud pada ayat
 (1) telah memenuhi kriteria dan persyaratan:
-
 
 -----
 
@@ -1049,10 +1034,9 @@ lunak dan/atau perangkat keras milik pihak ketiga serta
 bertanggung jawab menjaga kerahasiaan data hasil
 verifikasi dimaksud.
 
-
 -----
 
-Pasal 23
+### Pasal 23 ^pasal-23
 (1) PJK dilarang membuka hubungan usaha atau memelihara
 rekening anonim atau rekening yang menggunakan nama
 fiktif.
@@ -1067,13 +1051,13 @@ kelengkapan dokumen Calon Nasabah atau Nasabah.
 Bagian Kesatu
 Identifikasi dan Verifikasi Calon Nasabah dan Nasabah
 
-Pasal 24
+### Pasal 24 ^pasal-24
 PJK wajib mengidentifikasi dan mengklasifikasikan Calon
 Nasabah, WIC, dan Nasabah ke dalam kelompok orang
 perseorangan, Korporasi, atau perikatan lainnya (legal
 _arrangement)._
 
-Pasal 25
+### Pasal 25 ^pasal-25
 (1) Identifikasi Calon Nasabah untuk mengetahui profil Calon
 Nasabah sebagaimana dimaksud dalam Pasal 21 ayat (1)
 huruf a, dilakukan melalui permintaan data dan informasi
@@ -1097,7 +1081,6 @@ j) nama gadis ibu kandung,
 2. identitas Pemilik Manfaat (Beneficial Owner), jika
 ada;
 3. sumber dana;
-
 
 -----
 
@@ -1146,7 +1129,6 @@ yang setara, baik yang dilakukan dalam 1 (satu) kali
 maupun beberapa kali transaksi dalam 1 (satu) hari
 kerja;
 
-
 -----
 
 b. informasi sebagaimana dimaksud pada ayat (1) huruf
@@ -1164,7 +1146,7 @@ c angka 1 dan angka 3 bagi WIC perikatan lainnya
 dari Rp100.000.000,00 (seratus juta rupiah) atau
 nilai yang setara.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 (1) PJK dalam mengidentifikasi Calon Nasabah dan WIC
 berupa orang perseorangan sebagaimana dimaksud dalam
 Pasal 25 ayat (1) huruf a dan Pasal 25 ayat (2) huruf a,
@@ -1194,13 +1176,12 @@ masyarakat indonesia di luar negeri.
 perseorangan sebagaimana dimaksud pada ayat (1), dapat
 digantikan dengan tanda tangan elektronik yang telah
 
-
 -----
 
 memenuhi peraturan perundang-undangan mengenai
 tanda tangan elektronik.
 
-Pasal 27
+### Pasal 27 ^pasal-27
 (1) PJK dalam mengidentifikasi Calon Nasabah dan WIC
 Korporasi berupa perusahaan, informasi sebagaimana
 dimaksud dalam Pasal 25 ayat (1) huruf b, wajib didukung
@@ -1243,7 +1224,6 @@ paling sedikit:
 1. nomor induk berusaha yang diterbitkan oleh
 instansi yang berwenang;
 
-
 -----
 
 2. kuasa kepada pihak yang ditunjuk mempunyai
@@ -1259,7 +1239,7 @@ digantikan dengan tanda tangan elektronik yang telah
 memenuhi peraturan perundang-undangan mengenai
 tanda tangan elektronik.
 
-Pasal 28
+### Pasal 28 ^pasal-28
 (1) PJK dalam mengidentifikasi Calon Nasabah dan WIC
 berupa Korporasi selain yang berbentuk perusahaan, PJK
 wajib meminta data dan informasi meliputi:
@@ -1292,7 +1272,6 @@ badan hukum maupun bukan badan hukum:
 1. bukti izin dari instansi yang berwenang;
 2. nama Korporasi;
 
-
 -----
 
 3. akta pendirian dan/atau anggaran dasar dan
@@ -1311,7 +1290,7 @@ anggaran rumah tangga, jika ada; dan
 mewakili perikatan lainnya (legal arrangement)
 dalam melakukan hubungan usaha dengan PJK.
 
-Pasal 29
+### Pasal 29 ^pasal-29
 (1) PJK dalam mengidentifikasi Calon Nasabah dan WIC
 berupa lembaga negara, instansi pemerintah, lembaga
 internasional, dan perwakilan negara asing, PJK wajib
@@ -1330,7 +1309,7 @@ melakukan hubungan usaha dengan PJK.
 elektronik sesuai dengan peraturan perundang-undangan
 mengenai tanda tangan elektronik.
 
-Pasal 30
+### Pasal 30 ^pasal-30
 (1) PJK wajib melakukan verifikasi atas data, informasi,
 dan/atau dokumen pendukung Calon Nasabah dan WIC
 sebagaimana dimaksud dalam Pasal 25, Pasal 26, Pasal
@@ -1340,7 +1319,6 @@ dan independen serta memastikan bahwa data tersebut
 merupakan data terkini.
 (2) PJK wajib melakukan verifikasi bahwa pihak yang
 bertindak untuk dan atas nama Nasabah telah
-
 
 -----
 
@@ -1374,7 +1352,7 @@ memperhatikan risiko TPPU, TPPT, dan/atau PPSPM
 dapat dikelola secara efektif dan tidak mengganggu
 kegiatan usaha secara normal.
 
-Pasal 31
+### Pasal 31 ^pasal-31
 PJK wajib memahami profil, maksud, dan tujuan hubungan
 usaha, dan transaksi yang dilakukan Nasabah dan Pemilik
 Manfaat (Beneficial Owner) melalui identifikasi dan verifikasi.
@@ -1382,14 +1360,13 @@ Manfaat (Beneficial Owner) melalui identifikasi dan verifikasi.
 Bagian Kedua
 Identifikasi dan Verifikasi Pemilik Manfaat (Beneficial Owner)
 
-Pasal 32
+### Pasal 32 ^pasal-32
 (1) PJK wajib memastikan Calon Nasabah, Nasabah, atau WIC
 yang membuka hubungan usaha atau melakukan
 transaksi bertindak untuk diri sendiri atau untuk
 kepentingan Pemilik Manfaat (Beneficial Owner).
 (2) Dalam hal Calon Nasabah, Nasabah, atau WIC berbentuk
 orang perseorangan bertindak untuk kepentingan Pemilik
-
 
 -----
 
@@ -1409,7 +1386,7 @@ Nasabah, Nasabah, atau WIC dan Pemilik Manfaat
 (Beneficial Owner), PJK wajib melakukan CDD atau EDD
 yang didasarkan pada tingkat risiko yang lebih tinggi.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 (1) Dalam hal Calon Nasabah, Nasabah, atau WIC yang
 merupakan orang perseorangan bukan merupakan
 Pemilik Manfaat (Beneficial Owner) atau Calon Nasabah,
@@ -1438,7 +1415,6 @@ a. informasi dan dokumen identitas yang memuat:
 6. kewarganegaraan;
 7. pekerjaan;
 8. alamat dan nomor telepon tempat kerja, jika ada;
-
 
 -----
 
@@ -1487,7 +1463,6 @@ a. PJK ragu mengenai pihak yang menjadi pengendali
 melalui kepemilikan merupakan Pemilik Manfaat
 (Beneficial Owner) sebagaimana dimaksud pada ayat
 (3); atau
-
 
 -----
 
@@ -1540,14 +1515,13 @@ dimaksud pada ayat (2).
 
 identitas Pemilik Manfaat (Beneficial Owner) dari Calon
 
-
 -----
 
 Nasabah, Nasabah, atau WIC, PJK wajib menolak untuk
 melakukan hubungan usaha atau transaksi dengan Calon
 Nasabah, Nasabah, atau WIC tersebut.
 
-Pasal 34
+### Pasal 34 ^pasal-34
 (1) Kewajiban verifikasi Pemilik Manfaat (Beneficial Owner)
 sebagaimana dimaksud dalam Pasal 30 berlaku pula
 terhadap Calon Nasabah, WIC, atau Nasabah berupa:
@@ -1579,7 +1553,7 @@ Identifikasi dan Verifikasi Calon Nasabah dan Nasabah
 
 Berisiko Tinggi
 
-Pasal 35
+### Pasal 35 ^pasal-35
 (1) PJK wajib memiliki sistem manajemen risiko yang
 memadai untuk menentukan Calon Nasabah, Nasabah,
 WIC, atau Pemilik Manfaat (Beneficial Owner) termasuk
@@ -1587,7 +1561,6 @@ kriteria berisiko tinggi.
 (2) Kriteria berisiko tinggi dari Calon Nasabah, Nasabah, WIC,
 atau Pemilik Manfaat (Beneficial Owner) sebagaimana
 dimaksud pada ayat (1), memperhatikan:
-
 
 -----
 
@@ -1619,12 +1592,12 @@ berisiko tinggi sebagaimana dimaksud pada ayat (2),
 didasarkan pada risiko yang akan diambil dan risiko yang
 bisa ditoleransi oleh PJK.
 
-Pasal 36
+### Pasal 36 ^pasal-36
 PJK wajib melakukan penilaian untuk menentukan Calon
 Nasabah, Nasabah, WIC, atau Pemilik Manfaat (Beneficial
 _Owner) sebagai PEP._
 
-Pasal 37
+### Pasal 37 ^pasal-37
 (1) Terhadap PEP asing, PEP domestik, dan orang yang diberi
 kewenangan untuk melakukan fungsi penting (prominent
 _function) oleh organisasi internasional, selain menerapkan_
@@ -1635,7 +1608,6 @@ Pemilik Manfaat (Beneficial Owner) memenuhi kriteria
 PEP;
 b. menunjuk pejabat senior yang bertanggung jawab
 atas hubungan usaha dengan Calon Nasabah,
-
 
 -----
 
@@ -1667,7 +1639,7 @@ dengan Nasabah, WIC, atau Pemilik Manfaat
 (Beneficial Owner) yang termasuk kriteria berisiko
 tinggi, termasuk PEP.
 
-Pasal 38
+### Pasal 38 ^pasal-38
 Terhadap PEP domestik atau orang yang diberi kewenangan
 untuk melakukan fungsi penting (prominent function) dalam
 organisasi internasional, selain menerapkan proses CDD, PJK
@@ -1681,10 +1653,9 @@ usaha antara PJK dengan Nasabah atau Pemilik Manfaat
 ketentuan sebagaimana dimaksud dalam Pasal 37 ayat (1)
 huruf b, huruf c, huruf d, dan huruf e.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 PJK wajib menerapkan ketentuan yang berlaku bagi Calon
 Nasabah, Nasabah, WIC, atau Pemilik Manfaat (Beneficial
-
 
 -----
 
@@ -1692,12 +1663,12 @@ _Owner) yang termasuk kriteria berisiko tinggi sebagaimana_
 dimaksud dalam Pasal 35 dan Pasal 36, terhadap anggota
 keluarga atau pihak yang terkait (close associates) dari PEP.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 PJK wajib menyusun dalam daftar tersendiri Calon Nasabah,
 Nasabah, WIC, atau Pemilik Manfaat (Beneficial Owner) yang
 memenuhi kriteria berisiko tinggi.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 (1) PJK wajib melakukan EDD dan langkah pencegahan
 (countermeasures) yang proporsional dan memadai
 terhadap risiko, hubungan usaha, transaksi, Calon
@@ -1722,7 +1693,7 @@ CDD terhadap Penerima Manfaat (Beneficiary) dari Asuransi
 
 Jiwa dan Produk Investasi lain Terkait Polis Asuransi
 
-Pasal 42
+### Pasal 42 ^pasal-42
 (1) Selain CDD yang dipersyaratkan bagi Calon Nasabah dan
 Pemilik Manfaat (Beneficial _Owner)_ sebagaimana
 dimaksud dalam Pasal 19, PJK wajib melakukan CDD
@@ -1733,7 +1704,6 @@ diidentifikasi atau ditetapkan dengan ketentuan:
 a. untuk penerima manfaat (beneficiary) yang telah
 diidentifikasi sebagai perorangan atau nonperorangan, PJK wajib meminta nama orang
 perseorangan atau Korporasi atau perikatan lainnya
-
 
 -----
 
@@ -1755,7 +1725,7 @@ pembayaran klaim asuransi.
 wajib dicatat dan dikelola sesuai dengan ketentuan dalam
 Peraturan Otoritas Jasa Keuangan ini.
 
-Pasal 43
+### Pasal 43 ^pasal-43
 (1) PJK wajib memasukkan penerima manfaat (beneficiary)
 dari polis asuransi jiwa sebagai salah satu faktor risiko
 yang relevan dalam pertimbangan penerapan EDD untuk
@@ -1767,7 +1737,7 @@ verifikasi terhadap identitas Pemilik Manfaat (Beneficial
 _Owner)_ dari penerima manfaat (beneficiary) pada saat
 pembayaran klaim asuransi.
 
-Pasal 44
+### Pasal 44 ^pasal-44
 (1) PJK wajib melakukan tindakan yang memadai untuk
 menentukan penerima manfaat (beneficiary) dan/atau
 Pemilik Manfaat (Beneficial Owner) dari penerima manfaat
@@ -1783,13 +1753,12 @@ usaha dengan pemegang polis dan mempertimbangkan
 untuk melaporkannya sebagai Transaksi Keuangan
 Mencurigakan.
 
-
 -----
 
 Bagian Kelima
 CDD Sederhana
 
-Pasal 45
+### Pasal 45 ^pasal-45
 (1) PJK dapat menerapkan prosedur CDD sederhana dari prosedur
 CDD sebagaimana dimaksud dalam Pasal 25, Pasal 26, Pasal
 27, Pasal 28, Pasal 29, dan Pasal 33, terhadap Calon Nasabah
@@ -1830,7 +1799,6 @@ ditetapkan.
 (4) Terhadap Calon Nasabah yang memenuhi ketentuan
 sebagaimana dimaksud pada ayat (1), PJK wajib meminta
 informasi dengan ketentuan:
-
 
 -----
 
@@ -1879,7 +1847,6 @@ dalam huruf b dan huruf c, dan Calon Nasabah yang
 tujuan pembukaan rekening terkait dengan program
 pemerintah.
 
-
 -----
 
 (6) Dalam hal PJK menerapkan prosedur CDD sederhana
@@ -1913,7 +1880,7 @@ yang bersangkutan.
 Bagian Keenam
 Pelaksanaan CDD oleh Pihak Ketiga
 
-Pasal 46
+### Pasal 46 ^pasal-46
 (1) PJK dapat menggunakan hasil identifikasi dan verifikasi
 yang telah dilakukan oleh pihak ketiga terhadap Calon
 Nasabah yang telah menjadi Nasabah pada pihak ketiga.
@@ -1925,7 +1892,6 @@ pihak ketiga dimaksud.
 verifikasi sebagaimana dimaksud pada ayat (1), PJK wajib:
 a. memahami maksud dan tujuan hubungan usaha
 sebagaimana dimaksud dalam Pasal 31; dan
-
 
 -----
 
@@ -1975,7 +1941,6 @@ otoritas yang berwenang.
 verifikasi sebagaimana dimaksud pada ayat (1), yang
 dilakukan oleh pihak ketiga yang merupakan
 
-
 -----
 
 Konglomerasi Keuangan yang sama, PJK atau perusahaan
@@ -1998,7 +1963,7 @@ PPT, dan PPPSPM di tingkat Konglomerasi Keuangan.
 Bagian Ketujuh
 Penundaan Transaksi dan Penghentian Sementara Transaksi
 
-Pasal 47
+### Pasal 47 ^pasal-47
 (1) PJK dapat melakukan penundaan transaksi sebagaimana
 dimaksud dalam peraturan perundang-undangan
 mengenai pencegahan dan pemberantasan TPPU.
@@ -2024,10 +1989,9 @@ dimaksud pada ayat (1) dan ayat (3), dilaksanakan sesuai
 dengan peraturan perundang-undangan mengenai
 pencegahan dan pemberantasan TPPU.
 
-
 -----
 
-Pasal 48
+### Pasal 48 ^pasal-48
 (1) Dalam hal terdapat permintaan dari Pusat Pelaporan dan
 Analisis Transaksi Keuangan, PJK wajib melakukan
 penghentian sementara untuk seluruh atau sebagian
@@ -2039,7 +2003,7 @@ TPPU.
 Bagian Kedelapan
 Penolakan Transaksi dan Penutupan Hubungan Usaha
 
-Pasal 49
+### Pasal 49 ^pasal-49
 (1) Dalam hal Calon Nasabah, Nasabah, atau WIC memenuhi
 kriteria:
 a. tidak memenuhi ketentuan sebagaimana dimaksud
@@ -2071,7 +2035,6 @@ termasuk percobaan transaksi terkait dengan TPPU, TPPT,
 dan/atau PPSPM, dan PJK meyakini bahwa proses CDD
 akan melanggar ketentuan _anti tipping-off, PJK wajib_
 
-
 -----
 
 menghentikan prosedur CDD dan melaporkan Transaksi
@@ -2085,7 +2048,7 @@ sebagaimana dimaksud pada ayat (1) sebagai Transaksi
 Keuangan Mencurigakan kepada Pusat Pelaporan dan
 Analisis Transaksi Keuangan.
 
-Pasal 50
+### Pasal 50 ^pasal-50
 Dalam hal dilakukan penutupan hubungan usaha
 sebagaimana dimaksud dalam Pasal 49 ayat (1), PJK wajib
 memberitahukan secara tertulis kepada Nasabah mengenai
@@ -2094,7 +2057,7 @@ penutupan hubungan usaha tersebut.
 Bagian Kesembilan
 Pengkinian dan Pemantauan
 
-Pasal 51
+### Pasal 51 ^pasal-51
 (1) PJK wajib melakukan pemantauan terhadap hubungan
 usaha dengan Nasabah dengan cara memantau transaksi
 Nasabah untuk memastikan bahwa transaksi yang
@@ -2118,10 +2081,9 @@ c. menyusun laporan realisasi pengkinian data.
 (5) Laporan sebagaimana dimaksud pada ayat (4) huruf b dan
 huruf c wajib mendapat persetujuan dari Direksi.
 
-
 -----
 
-Pasal 52
+### Pasal 52 ^pasal-52
 (1) PJK wajib melakukan analisis terhadap seluruh transaksi
 yang tidak sesuai dengan profil, karakteristik, dan/atau
 kebiasaan pola transaksi Nasabah.
@@ -2157,7 +2119,7 @@ a. Nasabah yang berasal dari Negara Berisiko Tinggi;
 dan
 b. PJK yang berkedudukan di Negara Berisiko Tinggi.
 
-Pasal 53
+### Pasal 53 ^pasal-53
 (1) PJK wajib memelihara dan mengkinikan DTTOT dan/atau
 DPPSPM yang disampaikan oleh Otoritas Jasa Keuangan
 melalui sistem yang disediakan oleh Otoritas Jasa
@@ -2166,7 +2128,6 @@ Keuangan.
 meminjamkan dana kepada atau untuk kepentingan orang
 atau Korporasi yang identitasnya tercantum dalam DTTOT
 dan/atau DPPSPM.
-
 
 -----
 
@@ -2215,7 +2176,6 @@ tembusan kepada Otoritas Jasa Keuangan.
 tanpa penundaan terkait DPPSPM sebagaimana dimaksud
 pada ayat (4), wajib:
 
-
 -----
 
 a. membuat berita acara Pemblokiran secara serta
@@ -2251,7 +2211,7 @@ Calon Nasabah, Nasabah, WIC, dan/atau Pemilik Manfaat
 Bagian Kesepuluh
 _Cross Border Correspondent Banking_
 
-Pasal 54
+### Pasal 54 ^pasal-54
 (1) Sebelum menyediakan jasa _Cross Border Correspondent_
 _Banking, bank umum wajib memahami kegiatan usaha_
 Bank Penerima dan/atau Bank Penerus dengan meminta
@@ -2263,7 +2223,6 @@ dipertanggungjawabkan;
 c. tingkat penerapan program APU, PPT, dan PPPSPM di
 negara tempat kedudukan Bank Penerima dan/atau
 Bank Penerus; dan
-
 
 -----
 
@@ -2284,7 +2243,7 @@ program APU, PPT, dan PPPSPM dari masing-masing pihak
 yang terkait dengan kegiatan Cross Border Correspondent
 _Banking._
 
-Pasal 55
+### Pasal 55 ^pasal-55
 Dalam hal terdapat:
 a. perubahan profil Bank Penerima dan/atau Bank Penerus
 yang bersifat substansial; dan/atau
@@ -2296,7 +2255,7 @@ pemantauan terhadap Bank Penerima dan/atau Bank Penerus
 yang disesuaikan dengan pendekatan berdasarkan risiko (risk
 _based approach)._
 
-Pasal 56
+### Pasal 56 ^pasal-56
 Dalam hal terdapat Nasabah yang mempunyai akses terhadap
 _payable through account dalam jasa Cross Border Correspondent_
 _Banking, Bank Pengirim wajib memastikan:_
@@ -2310,10 +2269,9 @@ b. Bank Penerima dan/atau Bank Penerus mampu
 menyediakan data dan/atau informasi CDD yang terkait
 atau relevan jika diminta oleh Bank Pengirim.
 
-
 -----
 
-Pasal 57
+### Pasal 57 ^pasal-57
 Bank Pengirim yang menyediakan jasa _Cross_ _Border_
 _Correspondent Banking wajib:_
 a. mendokumentasikan seluruh transaksi _Cross Border_
@@ -2330,7 +2288,7 @@ Bagian Kesebelas
 
 Transfer Dana
 
-Pasal 58
+### Pasal 58 ^pasal-58
 (1) Bagi bank yang melaksanakan kegiatan Transfer Dana
 baik di dalam wilayah Indonesia maupun secara lintas
 negara dilakukan dengan memperhatikan:
@@ -2359,7 +2317,6 @@ Dana;
 b. Bank Penerus wajib meneruskan pesan dan perintah
 Transfer Dana kepada Bank Penerima yang
 dilengkapi dengan informasi yang akurat yang
-
 
 -----
 
@@ -2391,7 +2348,7 @@ verifikasi atas identitas dari Nasabah atau WIC penerima
 dan menatausahakan informasi dimaksud sesuai dengan
 ketentuan penatausahaan dokumen.
 
-Pasal 59
+### Pasal 59 ^pasal-59
 (1) Dalam hal terdapat beberapa Transfer Dana dari 1 (satu)
 Nasabah atau WIC pengirim yang tergabung dalam 1 (satu)
 dokumen yang ditujukan kepada beberapa Nasabah
@@ -2404,10 +2361,9 @@ pada ayat (1) di negara Nasabah dan/atau WIC penerima.
 (3) Bank wajib mencantumkan nomor rekening atau nomor
 referensi transaksi Nasabah atau WIC pengirim.
 
-Pasal 60
+### Pasal 60 ^pasal-60
 Ketentuan sebagaimana dimaksud dalam Pasal 58
 dikecualikan terhadap:
-
 
 -----
 
@@ -2418,7 +2374,7 @@ menggunakan kartu; atau
 c. Transfer Dana yang dilakukan antar PJK dan untuk
 kepentingan PJK.
 
-Pasal 61
+### Pasal 61 ^pasal-61
 (1) Dalam hal informasi sebagaimana dimaksud dalam Pasal
 58 ayat (1) huruf a angka 1 tidak terpenuhi, Bank Pengirim
 wajib menolak untuk melaksanakan Transfer Dana.
@@ -2454,10 +2410,9 @@ risiko terkait Transfer Dana yang menjadi bagian dari
 kebijakan dan prosedur sebagaimana dimaksud dalam
 Pasal 17.
 
-
 -----
 
-Pasal 62
+### Pasal 62 ^pasal-62
 Dalam hal terdapat Transfer Dana yang memenuhi kriteria
 Transaksi Keuangan Mencurigakan sebagaimana dimaksud
 dalam peraturan perundang-undangan mengenai pencegahan
@@ -2469,7 +2424,7 @@ Pelaporan dan Analisis Transaksi Keuangan.
 Bagian Kedua Belas
 Penatausahaan Dokumen
 
-Pasal 63
+### Pasal 63 ^pasal-63
 (1) PJK wajib menatausahakan:
 a. dokumen yang terkait dengan data Calon Nasabah,
 Nasabah, dan/atau WIC dengan jangka waktu paling
@@ -2500,10 +2455,9 @@ paling lama 3 (tiga) hari kerja sejak PJK menerima
 permintaan dari Otoritas Jasa Keuangan dan/atau
 otoritas lain yang berwenang.
 
-
 -----
 
-Pasal 64
+### Pasal 64 ^pasal-64
 (1) PJK yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 17 ayat (1), ayat (2), ayat (3), ayat (5), ayat (7),
 ayat (9), Pasal 18, Pasal 19, Pasal 20 ayat (1), Pasal 21 ayat
@@ -2544,10 +2498,9 @@ dimaksud pada ayat (1).
 BAB V
 PENGENDALIAN INTERN
 
-Pasal 65
+### Pasal 65 ^pasal-65
 (1) PJK wajib memiliki sistem pengendalian intern yang efektif
 dan independen.
-
 
 -----
 
@@ -2563,7 +2516,7 @@ c. dilakukannya pemeriksaan secara independen untuk
 memastikan efektivitas penerapan program APU, PPT,
 dan PPPSPM.
 
-Pasal 66
+### Pasal 66 ^pasal-66
 (1) PJK yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 65 ayat (1), dikenai sanksi administratif
 berupa:
@@ -2588,7 +2541,7 @@ PENERAPAN PROGRAM APU, PPT, DAN PPPSPM DI
 
 JARINGAN KANTOR DAN PERUSAHAAN ANAK
 
-Pasal 67
+### Pasal 67 ^pasal-67
 (1) Konglomerasi Keuangan wajib menerapkan program APU,
 PPT, dan PPPSPM ke seluruh jaringan kantor dan
 perusahaan anak di dalam dan di luar negeri, serta
@@ -2596,7 +2549,6 @@ memantau pelaksanaan:
 a. kebijakan dan prosedur pertukaran informasi untuk
 tujuan CDD dan manajemen risiko terhadap TPPU,
 TPPT, dan/atau PPSPM; dan
-
 
 -----
 
@@ -2646,13 +2598,12 @@ perusahaan induk Konglomerasi Keuangan wajib
 menerapkan tindakan tambahan yang memadai untuk
 mengelola risiko TPPU, TPPT, dan PPSPM sebagaimana
 
-
 -----
 
 dimaksud pada ayat (6), serta menginformasikan kepada
 Otoritas Jasa Keuangan.
 
-Pasal 68
+### Pasal 68 ^pasal-68
 (1) PJK yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 67 dikenai sanksi administratif berupa:
 a. peringatan atau teguran tertulis yang disertai dengan
@@ -2674,7 +2625,7 @@ Pasal 67.
 BAB VII
 SISTEM INFORMASI MANAJEMEN
 
-Pasal 69
+### Pasal 69 ^pasal-69
 (1) PJK wajib memiliki sistem informasi manajemen yang
 dapat mengidentifikasi, menganalisa, memantau, dan
 menyediakan laporan secara efektif mengenai
@@ -2695,13 +2646,12 @@ sebagaimana dimaksud dalam Pasal 25 ayat (2) huruf a.
 (5) Sistem informasi sebagaimana dimaksud pada ayat (1),
 wajib mempertimbangkan faktor teknologi informasi yang
 
-
 -----
 
 berpotensi disalahgunakan oleh pelaku TPPU, TPPT,
 dan/atau PPSPM.
 
-Pasal 70
+### Pasal 70 ^pasal-70
 (1) PJK yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 69 ayat (1), ayat (3), ayat (4), dan/atau ayat
 (5) dikenai sanksi administratif berupa:
@@ -2724,7 +2674,7 @@ Pasal 69 ayat (1), ayat (3), ayat (4), dan/atau ayat (5).
 BAB VIII
 SUMBER DAYA MANUSIA DAN PELATIHAN
 
-Pasal 71
+### Pasal 71 ^pasal-71
 Untuk mencegah PJK digunakan sebagai media atau tujuan
 TPPU, TPPT, dan/atau PPSPM yang melibatkan pihak intern
 PJK, PJK wajib melakukan:
@@ -2739,10 +2689,9 @@ b. pengenalan dan pemantauan terhadap profil pegawai
 tidak tetap, termasuk tenaga ahli, dari mulai level paling
 rendah sampai dengan Direksi dan Dewan Komisaris.
 
-Pasal 72
+### Pasal 72 ^pasal-72
 (1) PJK wajib memberikan pelatihan tentang APU, PPT, dan
 PPPSPM kepada pejabat dan/atau pegawai sesuai dengan
-
 
 -----
 
@@ -2779,7 +2728,7 @@ c. mengikutsertakan pegawainya dalam pelatihan.
 berkesinambungan tentang APU, PPT, dan PPPSPM
 sebagaimana dimaksud pada ayat (1).
 
-Pasal 73
+### Pasal 73 ^pasal-73
 (1) PJK yang melanggar ketentuan sebagaimana dimaksud
 dalam Pasal 71, dan/atau Pasal 72 ayat (1), ayat (5),
 dikenai sanksi administratif berupa:
@@ -2791,7 +2740,6 @@ d. penurunan penilaian faktor pembentuk nilai tingkat
 kesehatan;
 e. pembekuan kegiatan usaha tertentu; dan/atau
 f. larangan sebagai pihak utama.
-
 
 -----
 
@@ -2806,7 +2754,7 @@ Pasal 71, dan/atau Pasal 72 ayat (1), ayat (5).
 BAB IX
 PELAPORAN
 
-Pasal 74
+### Pasal 74 ^pasal-74
 (1) PJK wajib menyampaikan laporan kepada Otoritas Jasa
 Keuangan mengenai:
 a. dokumen penilaian risiko TPPU, TPPT, dan/atau
@@ -2841,7 +2789,6 @@ sejak PJK menerima DTTOT dan DPPSPM; dan
 g. tembusan laporan nihil sebagaimana dimaksud
 dalam Pasal 53 ayat (9) dan ayat (10) paling lama 3
 
-
 -----
 
 (tiga) hari kerja sejak PJK menerima DTTOT dan
@@ -2864,7 +2811,7 @@ yang telah disampaikan kepada Otoritas Jasa Keuangan,
 PJK wajib menyampaikan perubahan tersebut paling lama
 7 (tujuh) hari kerja sejak perubahan dilakukan.
 
-Pasal 75
+### Pasal 75 ^pasal-75
 (1) Untuk kebutuhan pengawasan program APU, PPT, dan
 PPPSPM, PJK wajib menyampaikan data, informasi
 dan/atau dokumen berdasarkan:
@@ -2886,10 +2833,9 @@ dimaksud secara fisik atau melalui surat elektronik ke
 Otoritas Jasa Keuangan yang disampaikan kepada kepala
 satuan kerja pengawasan.
 
-Pasal 76
+### Pasal 76 ^pasal-76
 (1) PJK wajib menyampaikan laporan Transaksi Keuangan
 Mencurigakan, Transaksi Keuangan Tunai, dan laporan
-
 
 -----
 
@@ -2909,7 +2855,7 @@ dan/atau PPSPM.
 ditetapkan oleh Pusat Pelaporan dan Analisis Transaksi
 Keuangan.
 
-Pasal 77
+### Pasal 77 ^pasal-77
 (1) PJK wajib menyampaikan laporan Pemblokiran secara
 serta merta yang dilampiri dengan berita acara
 Pemblokiran secara serta merta terkait dengan DTTOT
@@ -2931,14 +2877,13 @@ sebagaimana dimaksud dalam Pasal 53 ayat (10) kepada
 Pusat Pelaporan dan Analisis Transaksi Keuangan paling
 lama 3 (tiga) hari kerja sejak PJK menerima DPPSPM.
 
-Pasal 78
+### Pasal 78 ^pasal-78
 (1) PJK yang terlambat menyampaikan laporan sebagaimana
 dimaksud dalam Pasal 74 ayat (1), ayat (2), ayat (3), ayat
 (5), Pasal 75 ayat (1), ayat (3), Pasal 76 ayat (1), dan Pasal
 77 dikenai:
 a. sanksi administratif dalam bentuk denda, berupa
 kewajiban membayar sejumlah uang sebesar
-
 
 -----
 
@@ -2988,7 +2933,6 @@ PJK menyampaikan laporan sebagaimana dimaksud
 dalam Pasal 74 ayat (1), ayat (2), ayat (3), Pasal 75 ayat (1),
 ayat (3), Pasal 76 ayat (1), dan Pasal 77 sampai dengan
 
-
 -----
 
 paling lama 30 (tiga puluh) hari kerja sejak batas waktu
@@ -3036,7 +2980,6 @@ paling banyak 1% (satu persen) dari total laba bersih
 tahun sebelumnya dengan batas paling banyak per tahun
 sebesar Rp50.000.000.000,00 (lima puluh miliar rupiah).
 
-
 -----
 
 (8) Pengenaan sanksi administratif dalam bentuk denda
@@ -3073,7 +3016,7 @@ merupakan laba bersih dari PJK lainnya tersebut.
 BAB X
 PERHITUNGAN SANKSI DENDA
 
-Pasal 79
+### Pasal 79 ^pasal-79
 (1) Pengenaan sanksi denda oleh Otoritas Jasa Keuangan
 sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf b,
 Pasal 16 ayat (1) huruf b, Pasal 64 ayat (1) huruf b, Pasal
@@ -3089,13 +3032,12 @@ bagi PJK.
 (2) Dalam hal PJK hanya merupakan salah satu unit/divisi di
 dalam PJK lain, perhitungan laba bersih sebagaimana
 
-
 -----
 
 dimaksud pada ayat (1) huruf b merupakan laba bersih
 dari PJK lainnya tersebut.
 
-Pasal 80
+### Pasal 80 ^pasal-80
 (1) Perhitungan pengenaan sanksi denda oleh Otoritas Jasa
 Keuangan sebagaimana dimaksud dalam Pasal 7 ayat (1)
 huruf b, Pasal 16 ayat (1) huruf b, Pasal 64 ayat (1) huruf
@@ -3112,7 +3054,7 @@ PENGAWASAN DAN PEMANTAUAN OLEH
 
 OTORITAS JASA KEUANGAN
 
-Pasal 81
+### Pasal 81 ^pasal-81
 (1) Otoritas Jasa Keuangan melakukan pengawasan dan
 pemantauan berbasis risiko serta memastikan kepatuhan
 penerapan program APU, PPT, dan PPPSPM oleh PJK.
@@ -3129,7 +3071,7 @@ bank melakukan Pemblokiran rekening tertentu.
 BAB XII
 KETENTUAN LAIN-LAIN
 
-Pasal 82
+### Pasal 82 ^pasal-82
 (1) PJK yang menggunakan jasa profesi penunjang wajib
 memastikan profesi penunjang menerapkan program APU,
 PPT, dan PPPSPM serta telah terdaftar dalam sistem
@@ -3138,7 +3080,6 @@ oleh Pusat Pelaporan dan Analisis Transaksi Keuangan.
 (2) Telah terdaftar dalam sistem informasi pelaporan APU,
 PPT, dan PPPSPM sebagaimana dimaksud pada ayat (1),
 dibuktikan dengan menunjukkan:
-
 
 -----
 
@@ -3151,12 +3092,12 @@ peraturan perundang-undangan mengenai sistem
 informasi pelaporan APU, PPT, dan PPPSPM kepada
 Pusat Pelaporan dan Analisis Transaksi Keuangan.
 
-Pasal 83
+### Pasal 83 ^pasal-83
 PJK bekerja sama dengan aparat penegak hukum dan otoritas
 yang berwenang untuk memberantas TPPU, TPPT, dan/atau
 PPSPM.
 
-Pasal 84
+### Pasal 84 ^pasal-84
 Dalam hal terdapat Peraturan Otoritas Jasa Keuangan
 mengenai pelaksanaan verifikasi Calon Nasabah yang bersifat
 khusus, mekanisme pertemuan tatap muka secara elektronik
@@ -3166,14 +3107,14 @@ berdasarkan Peraturan Otoritas Jasa Keuangan dimaksud.
 BAB XIII
 KETENTUAN PERALIHAN
 
-Pasal 85
+### Pasal 85 ^pasal-85
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku,
 PJK menyesuaikan penerapan program APU, PPT, dan PPPSPM
 dengan Peraturan Otoritas Jasa Keuangan ini paling lama 6
 (enam) bulan terhitung sejak Peraturan Otoritas Jasa
 Keuangan ini diundangkan.
 
-Pasal 86
+### Pasal 86 ^pasal-86
 (1) Bagi PJK yang baru diwajibkan menerapkan program APU,
 PPT, dan PPPSPM sesuai dengan peraturan perundangundangan, PJK menyesuaikan dengan Peraturan Otoritas
 Jasa Keuangan ini paling lama 12 (dua belas) bulan
@@ -3187,10 +3128,9 @@ Peraturan Otoritas Jasa Keuangan ini paling lama 6
 APU, PPT, dan PPPSPM sebagaimana dimaksud dalam
 peraturan perundang-undangan.
 
-
 -----
 
-Pasal 87
+### Pasal 87 ^pasal-87
 PJK yang melakukan pelanggaran terhadap ketentuan
 penerapan program APU, PPT, dan PPPSPM di sektor jasa
 keuangan sebelum berlakunya Peraturan Otoritas Jasa
@@ -3202,7 +3142,7 @@ berlaku pada saat pelanggaran terjadi.
 BAB XIV
 KETENTUAN PENUTUP
 
-Pasal 88
+### Pasal 88 ^pasal-88
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku,
 ketentuan pelaksanaan dari:
 a. Peraturan Otoritas Jasa Keuangan Nomor
@@ -3222,7 +3162,7 @@ Tambahan Lembaran Negara Republik Indonesia Nomor
 dinyatakan tetap berlaku sepanjang tidak bertentangan dengan
 Peraturan Otoritas Jasa Keuangan ini.
 
-Pasal 89
+### Pasal 89 ^pasal-89
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku:
 a. Peraturan Otoritas Jasa Keuangan Nomor
 12/POJK.01/2017 tentang Penerapan Anti Pencucian
@@ -3234,7 +3174,6 @@ b. Peraturan Otoritas Jasa Keuangan Nomor
 23/POJK.01/2019 tentang Perubahan Peraturan Otoritas
 Jasa Keuangan Nomor 12/POJK.01/2017 tentang
 
-
 -----
 
 Penerapan Anti Pencucian Uang dan Pencegahan
@@ -3244,10 +3183,9 @@ Tambahan Lembaran Negara Republik Indonesia Nomor
 6394),
 dicabut dan dinyatakan tidak berlaku.
 
-Pasal 90
+### Pasal 90 ^pasal-90
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
 tanggal diundangkan.
-
 
 -----
 
@@ -3278,7 +3216,6 @@ YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 11/OJK
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Hukum 1
 Departemen Hukum
@@ -3287,10 +3224,11 @@ ttd
 
 Mufli Asmawidjaja
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 PERATURAN OTORITAS JASA KEUANGAN
@@ -3304,8 +3242,6 @@ PENERAPAN PROGRAM ANTI PENCUCIAN UANG, PENCEGAHAN PENDANAAN
 TERORISME, DAN PENCEGAHAN PENDANAAN PROLIFERASI SENJATA
 
 PEMUSNAH MASSAL DI SEKTOR JASA KEUANGAN
-
-I. UMUM
 
 Sebagai bentuk mitigasi atas potensi risiko TPPU, TPPT, dan/atau
 PPSPM yang terus berkembang dan menjadi ancaman serius bagi banyak
@@ -3337,7 +3273,6 @@ sektor, termasuk sektor jasa keuangan. Sebagai contoh, UndangUndang tentang Cipt
 Pengembangan dan Penguatan Sektor Jasa Keuangan yang
 berdampak pada perlunya penyesuaian atas ketentuan penerapan
 
-
 -----
 
 program APU, PPT, dan PPPSPM di sektor jasa keuangan yang telah
@@ -3364,14 +3299,11 @@ Uang dan Pencegahan Pendanaan Terorisme di Sektor Jasa Keuangan
 sebagaimana telah diubah dengan Peraturan Otoritas Jasa Keuangan
 Nomor 23/POJK.01/2019.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Huruf a
@@ -3450,16 +3382,12 @@ Otoritas Jasa Keuangan, berdasarkan peraturan perundangundangan” antara lain P
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Cukup jelas.
 
 
 -----
-
-Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Cukup jelas.
@@ -3493,9 +3421,7 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Ayat (1)
 
 Cukup jelas.
@@ -3520,13 +3446,9 @@ dan/atau kantor perwakilan yang berkedudukan di wilayah
 
 yang mengalami peningkatan risiko dari yang semula rendah
 atau menengah menjadi tinggi.
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Cukup jelas.
-
-Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
 Ayat (1)
 
 Cukup jelas.
@@ -3538,9 +3460,7 @@ Otoritas Jasa Keuangan.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 8
-
+#### Pasal 8 ^penjelasan-pasal-8
 Ayat (1)
 
 Untuk kantor cabang dari PJK yang berkedudukan di luar negeri,
@@ -3588,9 +3508,7 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 9
-
+#### Pasal 9 ^penjelasan-pasal-9
 Huruf a
 
 Cukup jelas.
@@ -3609,9 +3527,7 @@ Frekuensi pembahasan terkait penerapan progam APU, PPT, dan
 PPPSPM dalam rapat Direksi dan Dewan Komisaris dilakukan
 sesuai dengan kebutuhan dan penilaian risiko masing-masing
 PJK.
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Ayat (1)
 
 Yang dimaksud dengan “manajemen kepatuhan penerapan
@@ -3649,9 +3565,7 @@ dengan tetap mempertimbangkan bahwa unit kerja yang
 melaksanakan kebijakan dan prosedur penerapan program
 APU, PPT, dan PPPSPM terpisah dari unit kerja yang
 mengawasi penerapannya.
-
-Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
 Ayat (1)
 
 Cukup jelas.
@@ -3671,17 +3585,11 @@ pengalaman dan/atau pengetahuan mengenai penerapan
 program APU, PPT, dan PPPSPM yang dapat dibuktikan antara
 lain dari rekam jejak pekerjaan, pendidikan, dan/atau sertifikat
 terkait.
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Cukup jelas.
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Cukup jelas.
-
-Pasal 14
-
+#### Pasal 14 ^penjelasan-pasal-14
 Ayat (1)
 
 Huruf a
@@ -3779,17 +3687,11 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Cukup jelas.
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Cukup jelas.
@@ -3850,13 +3752,9 @@ Cukup jelas.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Cukup jelas.
-
-Pasal 19
-
+#### Pasal 19 ^penjelasan-pasal-19
 Huruf a
 
 Cukup jelas.
@@ -3881,13 +3779,9 @@ dalam Peraturan Otoritas Jasa Keuangan ini.
 Huruf e
 
 Cukup jelas.
-
-Pasal 20
-
+#### Pasal 20 ^penjelasan-pasal-20
 Cukup jelas.
-
-Pasal 21
-
+#### Pasal 21 ^penjelasan-pasal-21
 Ayat (1)
 
 Cukup jelas.
@@ -3959,9 +3853,7 @@ Yang dimaksud dengan “sesuatu yang Calon Nasabah ketahui
 hanya diketahui oleh Calon Nasabah saja, seperti _username,_
 _password, personal identification number (PIN), atau bentuk lain_
 yang dapat dipersamakan.
-
-Pasal 22
-
+#### Pasal 22 ^penjelasan-pasal-22
 Ayat (1)
 
 Cukup jelas.
@@ -4044,9 +3936,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 23
-
+#### Pasal 23 ^penjelasan-pasal-23
 Ayat (1)
 
 Yang dimaksud dengan “rekening anonim atau rekening yang
@@ -4056,9 +3946,7 @@ dokumen identitas Nasabah yang bersangkutan.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Korporasi antara lain perseroan perseorangan perusahaan, yayasan,
 koperasi, perkumpulan keagamaan, partai politik, lembaga swadaya
 masyarakat atau organisasi non-profit, dan organisasi
@@ -4070,9 +3958,7 @@ kemasyarakatan.
 Yang dimaksud dengan “perikatan lainnya (legal arrangement)” adalah
 mengacu pada _trust atau bentuk hukum lainnya yang memiliki_
 kesamaan dengan trust, seperti wakaf.
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 
 Huruf a
@@ -4198,9 +4084,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Ayat (1)
 
 Yang dimaksud dengan “spesimen tanda tangan” adalah tanda
@@ -4235,9 +4119,7 @@ negara Indonesia.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Dokumen identitas perusahaan antara lain berupa:
@@ -4289,17 +4171,11 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Cukup jelas.
-
-Pasal 29
-
+#### Pasal 29 ^penjelasan-pasal-29
 Cukup jelas.
-
-Pasal 30
-
+#### Pasal 30 ^penjelasan-pasal-30
 Ayat (1)
 
 Untuk memastikan kebenaran identitas Nasabah perseorangan,
@@ -4334,17 +4210,11 @@ dilakukannya proses verifikasi.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 31
-
+#### Pasal 31 ^penjelasan-pasal-31
 Cukup jelas.
-
-Pasal 32
-
+#### Pasal 32 ^penjelasan-pasal-32
 Cukup jelas.
-
-Pasal 33
-
+#### Pasal 33 ^penjelasan-pasal-33
 Ayat (1)
 
 Yang dimaksud dengan “sumber yang dapat dipercaya” antara
@@ -4488,9 +4358,7 @@ Cukup jelas.
 Ayat (12)
 
 Cukup jelas.
-
-Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
 Ayat (1)
 
 Huruf a
@@ -4531,9 +4399,7 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 35
-
+#### Pasal 35 ^penjelasan-pasal-35
 Ayat (1)
 
 Cukup jelas.
@@ -4613,13 +4479,9 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 36
-
+#### Pasal 36 ^penjelasan-pasal-36
 Cukup jelas.
-
-Pasal 37
-
+#### Pasal 37 ^penjelasan-pasal-37
 Ayat (1)
 
 Huruf a
@@ -4652,16 +4514,12 @@ Huruf b
 Ketentuan ini berlaku bagi Nasabah yang statusnya
 mengalami perubahan dari Nasabah biasa menjadi PEP
 termasuk Nasabah yang baru teridentifikasi sebagai PEP.
-
-Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
 Yang dimaksud “organisasi internasional” antara lain _International_
 _Monetary Fund (IMF), World Bank, United Nations (UN), Organization for_
 _Economic Co-operation and Development (OECD),_ _Asian Development_
 _Bank (ADB), dan Islamic Development Bank (IDB)._
-
-Pasal 39
-
+#### Pasal 39 ^penjelasan-pasal-39
 Yang dimaksud dengan “anggota keluarga dari PEP” adalah anggota
 keluarga PEP sampai dengan derajat kedua, baik horizontal maupun
 vertikal, yaitu:
@@ -4689,13 +4547,9 @@ antara lain:
 2. pihak yang secara umum dan diketahui publik mempunyai
 hubungan dekat dengan PEP, contohnya adalah supir, asisten
 pribadi, sekretaris pribadi.
-
-Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
 Cukup jelas.
-
-Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
 Ayat (1)
 
 Cukup jelas.
@@ -4746,9 +4600,7 @@ Ayat (4)
 
 Otoritas terkait antara lain Pusat Pelaporan dan Analisis
 Transaksi Keuangan.
-
-Pasal 42
-
+#### Pasal 42 ^penjelasan-pasal-42
 Ayat (1)
 
 Huruf a
@@ -4772,17 +4624,11 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
-
-Pasal 43
-
+#### Pasal 43 ^penjelasan-pasal-43
 Cukup jelas.
-
-Pasal 44
-
+#### Pasal 44 ^penjelasan-pasal-44
 Cukup jelas.
-
-Pasal 45
-
+#### Pasal 45 ^penjelasan-pasal-45
 Ayat (1)
 
 Yang dimaksud dengan “analisis risiko” mengacu pada penilaian
@@ -4875,9 +4721,7 @@ sehingga digolongkan sebagai risiko rendah.
 Ayat (9)
 
 Cukup jelas.
-
-Pasal 46
-
+#### Pasal 46 ^penjelasan-pasal-46
 Ayat (1)
 
 Cukup jelas.
@@ -4940,17 +4784,11 @@ Konglomerasi Keuangan tersebut berada.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
 Cukup jelas.
-
-Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
 Cukup jelas.
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Ayat (1)
 
 Huruf a
@@ -5012,13 +4850,9 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Cukup jelas.
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Ayat (1)
 
 Cukup jelas.
@@ -5067,8 +4901,7 @@ PJK untuk mengevaluasi tingkat risiko Nasabah.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 52
+#### Pasal 52 ^penjelasan-pasal-52
 Ayat (1)
 
 Cukup jelas.
@@ -5093,9 +4926,7 @@ Cukup jelas.
 
 
 -----
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Ayat (1)
 
 PJK memelihara DTTOT dan DPPSPM bertujuan untuk
@@ -5205,9 +5036,7 @@ penghindaran sanksi.
 
 
 -----
-
-Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
 Ayat (1)
 
 Huruf a
@@ -5263,23 +5092,15 @@ Cukup jelas.
 
 
 -----
-
-Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
 Cukup jelas.
-
-Pasal 56
-
+#### Pasal 56 ^penjelasan-pasal-56
 Yang dimaksud dengan “payable through account” adalah rekening
 koresponden yang digunakan secara langsung oleh pihak ketiga untuk
 melakukan transaksi atas nama pihak ketiga tersebut.
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57
 Cukup jelas.
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
 Ayat (1)
 
 Huruf a
@@ -5377,9 +5198,7 @@ perundang-undangan mengenai kerahasiaan.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 59
-
+#### Pasal 59 ^penjelasan-pasal-59
 Ayat (1)
 
 Yang dimaksud dengan “bank” dapat berupa Bank Pengirim,
@@ -5394,9 +5213,7 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60
 Huruf a
 
 Yang dimaksud dengan “layanan perbankan digital” adalah
@@ -5411,9 +5228,7 @@ mandiri, dan kartu kredit.
 Huruf c
 
 Cukup jelas.
-
-Pasal 61
-
+#### Pasal 61 ^penjelasan-pasal-61
 Ayat (1)
 
 Cukup jelas.
@@ -5431,13 +5246,9 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
 Cukup jelas.
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Ayat (1)
 
 Salah satu tujuan penatausahaan dokumen dimaksudkan untuk
@@ -5476,13 +5287,9 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
-
-Pasal 64
-
+#### Pasal 64 ^penjelasan-pasal-64
 Cukup jelas.
-
-Pasal 65
-
+#### Pasal 65 ^penjelasan-pasal-65
 Ayat (1)
 
 Sistem pengendalian intern yang efektif dan independen
@@ -5507,16 +5314,12 @@ dan PPPSPM, PJK antara lain melakukan uji kepatuhan,
 termasuk penggunaan _sample testing terhadap kebijakan_
 dan prosedur yang terkait dengan penerapan program APU,
 PPT, dan PPPSPM.
-
-Pasal 66
-
+#### Pasal 66 ^penjelasan-pasal-66
 Cukup jelas.
 
 
 -----
-
-Pasal 67
-
+#### Pasal 67 ^penjelasan-pasal-67
 Ayat (1)
 
 Huruf a
@@ -5552,13 +5355,9 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
-
-Pasal 68
-
+#### Pasal 68 ^penjelasan-pasal-68
 Cukup jelas.
-
-Pasal 69
-
+#### Pasal 69 ^penjelasan-pasal-69
 Ayat (1)
 
 Sistem informasi manajemen yang dimiliki PJK dapat digunakan
@@ -5587,13 +5386,9 @@ Faktor teknologi informasi yang berpotensi disalahgunakan
 antara lain kemudahan akses terhadap akun orang lain dan
 kemungkinan penggunaan dokumen palsu dalam pembukaan
 hubungan usaha secara elektronik.
-
-Pasal 70
-
+#### Pasal 70 ^penjelasan-pasal-70
 Cukup jelas.
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71
 Huruf a
 
 Yang dimaksud dengan “pegawai tidak tetap” antara lain:
@@ -5606,9 +5401,7 @@ Huruf b
 
 Pengenalan dan pemantauan terhadap profil pegawai (know your
 _employee) mencakup karakter, perilaku, dan gaya hidup pegawai._
-
-Pasal 72
-
+#### Pasal 72 ^penjelasan-pasal-72
 Ayat (1)
 Cukup jelas.
 Ayat (2)
@@ -5638,13 +5431,9 @@ Evaluasi atas pelatihan dapat dilakukan antara lain melalui pre_test dan post-te
 
 
 -----
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73
 Cukup jelas.
-
-Pasal 74
-
+#### Pasal 74 ^penjelasan-pasal-74
 Ayat (1)
 
 Huruf a
@@ -5698,9 +5487,7 @@ kebijakan otoritas yang berwenang.
 
 
 -----
-
-Pasal 75
-
+#### Pasal 75 ^penjelasan-pasal-75
 Ayat (1)
 
 Data, informasi dan/atau dokumen antara lain mengenai
@@ -5712,17 +5499,11 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76
 Cukup jelas.
-
-Pasal 77
-
+#### Pasal 77 ^penjelasan-pasal-77
 Cukup jelas.
-
-Pasal 78
-
+#### Pasal 78 ^penjelasan-pasal-78
 Ayat (1)
 
 Cukup jelas.
@@ -5929,9 +5710,7 @@ PJK lain” adalah PJK berupa Kustodian tersebut yang hanya
 merupakan salah satu unit/divisi di dalam PJK berupa Bank.
 Atas contoh tersebut, perhitungan laba bersih adalah laba bersih
 milik Bank.
-
-Pasal 79
-
+#### Pasal 79 ^penjelasan-pasal-79
 Ayat (1)
 
 Huruf a
@@ -5978,9 +5757,7 @@ Amanat, atau DPLK yang merupakan unit usaha dari bank umum
 paling banyak 1% (satu persen) dari laba bersih milik bank umum
 tahun 2023 dengan batas paling banyak Rp100.000.000.000,00
 (seratus miliar rupiah).
-
-Pasal 80
-
+#### Pasal 80 ^penjelasan-pasal-80
 Ayat (1)
 
 Cukup jelas.
@@ -6003,9 +5780,7 @@ denda akan dikenakan oleh Otoritas Jasa Keuangan pada tahun
 sanksi denda tersebut paling banyak 1% (satu persen) dari total
 laba bersih tahun 2025 dengan batas paling banyak
 Rp100.000.000.000,00 (seratus miliar rupiah).
-
-Pasal 81
-
+#### Pasal 81 ^penjelasan-pasal-81
 Ayat (1)
 
 Cukup jelas.
@@ -6029,13 +5804,9 @@ Ayat (4)
 Yang dimaksud dengan “rekening tertentu” antara lain rekening
 simpanan dan rekening kredit atau rekening pembiayaan
 berdasarkan prinsip syariah.
-
-Pasal 82
-
+#### Pasal 82 ^penjelasan-pasal-82
 Cukup jelas.
-
-Pasal 83
-
+#### Pasal 83 ^penjelasan-pasal-83
 Termasuk dalam bekerja sama dengan aparat penegak hukum yang
 dimaksudkan pada ayat ini adalah menyampaikan dokumen atau
 informasi kepada penegak hukum terkait dengan identitas Nasabah
@@ -6044,33 +5815,19 @@ asal dari TPPU sesuai dengan peraturan perundang-undangan
 mengenai pencegahan dan pemberantasan TPPU.
 Otoritas yang berwenang adalah otoritas terkait penerapan APU PPT
 dan PPPSPM selain Otoritas Jasa Keuangan.
-
-Pasal 84
-
+#### Pasal 84 ^penjelasan-pasal-84
 Cukup jelas.
-
-Pasal 85
-
+#### Pasal 85 ^penjelasan-pasal-85
 Cukup jelas.
-
-Pasal 86
-
+#### Pasal 86 ^penjelasan-pasal-86
 Cukup jelas.
-
-Pasal 87
-
+#### Pasal 87 ^penjelasan-pasal-87
 Cukup jelas.
-
-Pasal 88
-
+#### Pasal 88 ^penjelasan-pasal-88
 Cukup jelas.
-
-Pasal 89
-
+#### Pasal 89 ^penjelasan-pasal-89
 Cukup jelas.
-
-Pasal 90
-
+#### Pasal 90 ^penjelasan-pasal-90
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 36/OJK
@@ -6156,3 +5913,97 @@ Mufli Asmawidjaja
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 7 | [[#^penjelasan-pasal-7]] |
+| Pasal 8 | [[#^penjelasan-pasal-8]] |
+| Pasal 9 | [[#^penjelasan-pasal-9]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 11 | [[#^penjelasan-pasal-11]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 14 | [[#^penjelasan-pasal-14]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 19 | [[#^penjelasan-pasal-19]] |
+| Pasal 20 | [[#^penjelasan-pasal-20]] |
+| Pasal 21 | [[#^penjelasan-pasal-21]] |
+| Pasal 22 | [[#^penjelasan-pasal-22]] |
+| Pasal 23 | [[#^penjelasan-pasal-23]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 30 | [[#^penjelasan-pasal-30]] |
+| Pasal 31 | [[#^penjelasan-pasal-31]] |
+| Pasal 32 | [[#^penjelasan-pasal-32]] |
+| Pasal 33 | [[#^penjelasan-pasal-33]] |
+| Pasal 34 | [[#^penjelasan-pasal-34]] |
+| Pasal 35 | [[#^penjelasan-pasal-35]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 37 | [[#^penjelasan-pasal-37]] |
+| Pasal 38 | [[#^penjelasan-pasal-38]] |
+| Pasal 39 | [[#^penjelasan-pasal-39]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 41 | [[#^penjelasan-pasal-41]] |
+| Pasal 42 | [[#^penjelasan-pasal-42]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 44 | [[#^penjelasan-pasal-44]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 46 | [[#^penjelasan-pasal-46]] |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 48 | [[#^penjelasan-pasal-48]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 54 | [[#^penjelasan-pasal-54]] |
+| Pasal 55 | [[#^penjelasan-pasal-55]] |
+| Pasal 56 | [[#^penjelasan-pasal-56]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 59 | [[#^penjelasan-pasal-59]] |
+| Pasal 60 | [[#^penjelasan-pasal-60]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |
+| Pasal 62 | [[#^penjelasan-pasal-62]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 64 | [[#^penjelasan-pasal-64]] |
+| Pasal 65 | [[#^penjelasan-pasal-65]] |
+| Pasal 66 | [[#^penjelasan-pasal-66]] |
+| Pasal 67 | [[#^penjelasan-pasal-67]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 69 | [[#^penjelasan-pasal-69]] |
+| Pasal 70 | [[#^penjelasan-pasal-70]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 72 | [[#^penjelasan-pasal-72]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 74 | [[#^penjelasan-pasal-74]] |
+| Pasal 75 | [[#^penjelasan-pasal-75]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |
+| Pasal 78 | [[#^penjelasan-pasal-78]] |
+| Pasal 79 | [[#^penjelasan-pasal-79]] |
+| Pasal 80 | [[#^penjelasan-pasal-80]] |
+| Pasal 81 | [[#^penjelasan-pasal-81]] |
+| Pasal 82 | [[#^penjelasan-pasal-82]] |
+| Pasal 83 | [[#^penjelasan-pasal-83]] |
+| Pasal 84 | [[#^penjelasan-pasal-84]] |
+| Pasal 85 | [[#^penjelasan-pasal-85]] |
+| Pasal 86 | [[#^penjelasan-pasal-86]] |
+| Pasal 87 | [[#^penjelasan-pasal-87]] |
+| Pasal 88 | [[#^penjelasan-pasal-88]] |
+| Pasal 89 | [[#^penjelasan-pasal-89]] |
+| Pasal 90 | [[#^penjelasan-pasal-90]] |

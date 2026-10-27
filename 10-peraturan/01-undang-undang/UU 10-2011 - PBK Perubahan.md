@@ -23,10 +23,16 @@ verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Perubahan atas UU 32-1997 tentang Perdagangan Berjangka Komoditi
+**Perubahan atas UU 32-1997 tentang Perdagangan Berjangka Komoditi**
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
@@ -78,13 +84,11 @@ Undang-Undang tentang Perubahan atas Undang-Undang
 Nomor 32 Tahun 1997 tentang Perdagangan Berjangka
 Komoditi;
 
-
 Mengingat . . .
-
 
 -----
 
-                       - 2 
+                       - 2
 Mengingat : 1. Pasal 20 ayat (1), Pasal 21, dan Pasal 33 Undang-Undang
 Dasar Negara Republik Indonesia Tahun 1945;
 
@@ -118,7 +122,7 @@ sebagai berikut:
 1. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 1. Perdagangan Berjangka Komoditi yang selanjutnya
@@ -134,13 +138,11 @@ Komoditi, yang dapat diperdagangkan dan menjadi
 subjek Kontrak Berjangka, Kontrak Derivatif Syariah,
 dan/atau Kontrak Derivatif lainnya.
 
-
 3. Badan . . .
-
 
 -----
 
-           - 3 
+           - 3
 3. Badan Pengawas Perdagangan Berjangka Komoditi
 yang selanjutnya disebut Bappebti adalah lembaga
 pemerintah yang tugas pokoknya melakukan
@@ -193,13 +195,11 @@ Derivatif selain Kontrak Berjangka dan Kontrak
 Derivatif Syariah, untuk dan atas nama sendiri dalam
 Sistem Perdagangan Alternatif.
 
-
 12. Peserta . . .
-
 
 -----
 
-           - 4 
+           - 4
 12. Peserta Sistem Perdagangan Alternatif adalah Pialang
 Berjangka yang merupakan Anggota Kliring Berjangka
 yang melakukan kegiatan jual beli Kontrak Derivatif
@@ -244,13 +244,11 @@ dan mendapatkan penjaminan dalam rangka
 penyelesaian transaksi Kontrak Berjangka, Kontrak
 Derivatif Syariah, dan/atau Kontrak Derivatif lainnya.
 
-
 17. Pialang . . .
-
 
 -----
 
-           - 5 
+           - 5
 17. Pialang Perdagangan Berjangka yang selanjutnya
 disebut Pialang Berjangka adalah badan usaha yang
 melakukan kegiatan jual beli Komoditi berdasarkan
@@ -297,13 +295,11 @@ dan/atau kesalahan yang dilakukan oleh Anggota
 Bursa Berjangka dalam kedudukannya sebagai Pialang
 Berjangka.
 
-
 24. Margin . . .
-
 
 -----
 
-              - 6 
+              - 6
 24. Margin adalah sejumlah uang atau surat berharga
 yang harus ditempatkan oleh Nasabah pada Pialang
 Berjangka, Pialang Berjangka pada Anggota Kliring
@@ -318,7 +314,7 @@ urusan pemerintahan di bidang perdagangan.
 2. Ketentuan Pasal 2 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 (1) Menteri menetapkan kebijakan umum di bidang
 
@@ -331,7 +327,7 @@ diatur dengan Peraturan Menteri.
 3. Ketentuan Pasal 3 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 Komoditi yang dapat dijadikan subjek Kontrak Berjangka,
 Kontrak Derivatif Syariah, dan/atau Kontrak Derivatif
@@ -340,7 +336,7 @@ lainnya diatur dengan Peraturan Kepala Bappebti.
 4. Ketentuan Pasal 4 ayat (1) dan ayat (3) diubah sehingga
 Pasal 4 berbunyi sebagai berikut:
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 (1) Pengaturan, pengembangan, pembinaan, dan
 pengawasan sehari-hari kegiatan Perdagangan
@@ -354,17 +350,15 @@ kepada Menteri.
 
 dengan Peraturan Presiden.
 
-
 5. Ketentuan . . .
-
 
 -----
 
-              - 7 
+              - 7
 5. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 Pengaturan, pengembangan, pembinaan, dan pengawasan
 sebagaimana dimaksud dalam Pasal 4 ayat (1), dilakukan
@@ -385,7 +379,7 @@ harga yang transparan.
 6. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 Untuk melaksanakan ketentuan sebagaimana dimaksud
 dalam Pasal 4 dan Pasal 5, Bappebti berwenang:
@@ -410,13 +404,11 @@ Berjangka;
 4. sertifikat pendaftaran kepada Pedagang
 Berjangka;
 
-
 5. persetujuan . . .
-
 
 -----
 
-           - 8 
+           - 8
 5. persetujuan kepada Pialang Berjangka dalam
 negeri untuk menyalurkan amanat Nasabah
 dalam negeri ke Bursa Berjangka luar negeri;
@@ -469,13 +461,11 @@ h. menyetujui peraturan dan tata tertib Bursa Berjangka
 dan Lembaga Kliring Berjangka, termasuk
 perubahannya;
 
-
 i. memberikan . . .
-
 
 -----
 
-           - 9 
+           - 9
 i. memberikan persetujuan terhadap Kontrak Berjangka,
 Kontrak Derivatif Syariah, dan/atau Kontrak Derivatif
 lainnya yang akan digunakan sebagai dasar jual beli
@@ -528,13 +518,11 @@ terhadap keputusan Bursa Berjangka atau Lembaga
 Kliring Berjangka serta memutuskan untuk
 menguatkan atau membatalkannya;
 
-
 q. membentuk . . .
-
 
 -----
 
-             - 10 
+             - 10
 q. membentuk sarana penyelesaian permasalahan yang
 berkaitan dengan kegiatan Perdagangan Berjangka;
 
@@ -556,7 +544,7 @@ pelaksanaannya.
 7. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 Bursa Berjangka didirikan dengan tujuan
 menyelenggarakan transaksi Kontrak Berjangka, Kontrak
@@ -566,7 +554,7 @@ teratur, wajar, efisien, efektif, dan transparan.
 8. Ketentuan Pasal 12 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 (1) Bursa Berjangka merupakan perseroan terbatas yang
 
@@ -586,17 +574,15 @@ perseorangan dan/atau badan hukum Indonesia.
 
 Perdagangan Berjangka secara profesional.
 
-
 9. Ketentuan . . .
-
 
 -----
 
-             - 11 
+             - 11
 9. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 Penyaluran amanat Nasabah ke Bursa Berjangka luar
 negeri hanya dapat dilakukan ke Bursa Berjangka dan
@@ -607,7 +593,7 @@ Bappebti.
 10. Ketentuan Pasal 15 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 (1) Bursa Berjangka dapat menyelenggarakan transaksi
 
@@ -622,7 +608,7 @@ Peraturan Kepala Bappebti.
 11. Ketentuan Pasal 16 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 Bursa Berjangka bertugas:
 
@@ -638,13 +624,11 @@ penggunaan laba Bursa Berjangka sesuai dengan
 ketentuan yang ditetapkan oleh dan dilaporkan
 kepada Bappebti;
 
-
 c. melakukan . . .
-
 
 -----
 
-             - 12 
+             - 12
 c. melakukan pengawasan pasar atas setiap transaksi
 Kontrak Derivatif selain Kontrak Berjangka dan
 Kontrak Derivatif Syariah, dari Penyelenggara dan
@@ -655,7 +639,7 @@ d. menyusun peraturan dan tata tertib Bursa Berjangka.
 12. Ketentuan Pasal 17 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 17
+### Pasal 17 ^pasal-17
 
 (1) Bursa Berjangka wajib:
 
@@ -691,13 +675,11 @@ persyaratan keuangan dan pelaporan, sesuai
 dengan ketentuan Undang-Undang ini dan/atau
 peraturan pelaksanaannya; dan
 
-
 i. mengawasi . . .
-
 
 -----
 
-             - 13 
+             - 13
 i. mengawasi transaksi Kontrak Berjangka, Kontrak
 Derivatif Syariah, dan/atau Kontrak Derivatif
 lainnya.
@@ -724,7 +706,7 @@ memperoleh persetujuan Bappebti.
 13. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 Bursa Berjangka berwenang:
 
@@ -754,13 +736,11 @@ Derivatif Syariah, dan/atau Kontrak Derivatif lainnya,
 termasuk mencegah kemungkinan terjadinya
 manipulasi harga;
 
-
 g. menetapkan . . .
-
 
 -----
 
-             - 14 
+             - 14
 g. menetapkan mekanisme penyelesaian pengaduan dan
 perselisihan sehubungan dengan transaksi Kontrak
 Berjangka, Kontrak Derivatif Syariah, dan/atau
@@ -781,7 +761,7 @@ Pialang Peserta Sistem Perdagangan Alternatif.
 14. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 24
+### Pasal 24 ^pasal-24
 
 Lembaga Kliring Berjangka didirikan dengan tujuan
 mendukung terciptanya transaksi Kontrak Berjangka,
@@ -792,7 +772,7 @@ lainnya yang teratur, wajar, efisien, efektif, dan transparan.
 (satu) ayat, yakni ayat (4) sehingga Pasal 25 berbunyi
 sebagai berikut:
 
-Pasal 25
+### Pasal 25 ^pasal-25
 
 (1) Penyelenggaraan Bursa Berjangka dilengkapi dengan
 
@@ -814,13 +794,11 @@ dan bersifat mandiri; atau
 b. Badan usaha yang merupakan bagian dari Bursa
 Berjangka.
 
-
 (4) Badan . . .
-
 
 -----
 
-             - 15 
+             - 15
 (4) Badan usaha yang menyelenggarakan tugas
 penerimaan pendaftaran dan penjaminan penyelesaian
 transaksi Kontrak Derivatif lainnya dari Penyelenggara
@@ -832,7 +810,7 @@ badan usaha.
 16. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 26
+### Pasal 26 ^pasal-26
 
 Lembaga Kliring Berjangka bertugas:
 a. menyediakan fasilitas yang cukup untuk
@@ -851,7 +829,7 @@ Berjangka.
 17. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 27
+### Pasal 27 ^pasal-27
 
 (1) Lembaga Kliring Berjangka wajib:
 
@@ -868,13 +846,11 @@ Kontrak Derivatif lainnya yang disebabkan
 kegagalan anggotanya dalam memenuhi
 kewajiban kepada Lembaga Kliring Berjangka;
 
-
 d. menjamin . . .
-
 
 -----
 
-             - 16 
+             - 16
 d. menjamin kerahasiaan informasi posisi keuangan
 serta kegiatan usaha Anggota Kliring Berjangka,
 kecuali informasi tersebut diberikan dalam rangka
@@ -902,7 +878,7 @@ memperoleh persetujuan Bappebti.
 18. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
 Lembaga Kliring Berjangka berwenang:
 
@@ -928,13 +904,11 @@ e. memperoleh informasi yang diperlukan dari Bursa
 Berjangka yang berhubungan dengan transaksi yang
 dilakukan oleh Anggota Kliring Berjangka; dan
 
-
 f. mengambil . . .
-
 
 -----
 
-             - 17 
+             - 17
 f. mengambil langkah-langkah untuk menjamin
 terlaksananya mekanisme kliring dan penjaminan
 penyelesaian transaksi Kontrak Berjangka, Kontrak
@@ -983,13 +957,11 @@ mendaftarkan setiap transaksi Kontrak Derivatif
 lainnya ke Lembaga Kliring Berjangka untuk dijamin
 penyelesaiannya.
 
-
 20. Mengubah . . .
-
 
 -----
 
-               - 18 
+               - 18
 20. Mengubah judul Bab IV sehingga judul Bab IV berbunyi
 sebagai berikut:
 
@@ -1039,13 +1011,11 @@ wadah berbadan hukum yang didirikan dengan tujuan
 untuk memperjuangkan kepentingan para anggotanya
 dan pengembangan industri Perdagangan Berjangka.
 
-
 (2) Setiap . . .
-
 
 -----
 
-             - 19 
+             - 19
 (2) Setiap Pihak yang telah memperoleh izin usaha, izin,
 
 persetujuan, atau sertifikat pendaftaran wajib menjadi
@@ -1069,7 +1039,7 @@ Peraturan Perundang-undangan.
 ayat, yakni ayat (1a), dan ayat (2) diubah sehingga Pasal 49
 berbunyi sebagai berikut:
 
-Pasal 49
+### Pasal 49 ^pasal-49
 
 (1) Setiap Pihak dilarang melakukan kegiatan
 Perdagangan Berjangka, kecuali kegiatan tersebut
@@ -1094,20 +1064,18 @@ dari pihak ketiga, kecuali transaksi tersebut dilakukan
 berdasarkan ketentuan Undang-Undang ini dan/atau
 peraturan pelaksanaannya.
 
-
 24. Di antara . . .
-
 
 -----
 
-             - 20 
+             - 20
 24. Di antara ketentuan Pasal 50 ayat (1) dan ayat (2)
 disisipkan 1 (satu) ayat yakni ayat (1a), ketentuan ayat (2)
 dan ayat (4) diubah, dan ditambahkan 2 (dua) ayat yakni
 ayat (5) dan ayat (6) sehingga Pasal 50 berbunyi sebagai
 berikut:
 
-Pasal 50
+### Pasal 50 ^pasal-50
 
 (1) Pialang Berjangka wajib mengetahui latar belakang,
 
@@ -1155,13 +1123,11 @@ Kontrak Derivatif lainnya wajib terlebih dahulu
 memberitahukan apabila ada kepentingan Pialang
 Berjangka yang bersangkutan.
 
-
 (5) Nasabah . . .
-
 
 -----
 
-             - 21 
+             - 21
 (5) Nasabah dapat melakukan pengisian,
 penandatanganan, dan penyampaian dokumen
 berkaitan dalam kegiatan Perdagangan Berjangka
@@ -1180,7 +1146,7 @@ Bappebti.
 25. Ketentuan Pasal 51 ayat (1) dan ayat (5) diubah sehingga
 Pasal 51 berbunyi sebagai berikut:
 
-Pasal 51
+### Pasal 51 ^pasal-51
 
 (1) Pialang Berjangka, sebelum melaksanakan transaksi
 
@@ -1214,13 +1180,11 @@ yang bersangkutan, sehubungan dengan transaksi
 Kontrak Berjangka, Kontrak Derivatif Syariah,
 dan/atau Kontrak Derivatif lainnya.
 
-
 (6) Apabila . . .
-
 
 -----
 
-             - 22 
+             - 22
 (6) Apabila Pialang Berjangka dinyatakan pailit, dana
 
 milik Nasabah yang berada dalam penguasaan Pialang
@@ -1231,7 +1195,7 @@ atau kreditornya.
 26. Ketentuan Pasal 52 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 52
+### Pasal 52 ^pasal-52
 
 (1) Pialang Berjangka dilarang melakukan transaksi
 Kontrak Berjangka, Kontrak Derivatif Syariah,
@@ -1270,13 +1234,11 @@ atas Kontrak Berjangka, Kontrak Derivatif Syariah,
 dan/atau Kontrak Derivatif lainnya untuk rekeningnya
 sendiri.
 
-
 (6) Pialang . . .
-
 
 -----
 
-             - 23 
+             - 23
 (6) Pialang Berjangka wajib mendahulukan transaksi
 
 Kontrak Berjangka, Kontrak Derivatif Syariah,
@@ -1286,7 +1248,7 @@ Nasabahnya.
 27. Ketentuan Pasal 53 ayat (4) diubah sehingga Pasal 53
 berbunyi sebagai berikut:
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
 (1) Penasihat Berjangka berkewajiban mengetahui latar
 
@@ -1317,7 +1279,7 @@ Berjangka yang bersangkutan.
 28. Ketentuan Pasal 57 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 57
+### Pasal 57 ^pasal-57
 
 (1) Dalam Perdagangan Kontrak Berjangka, Kontrak
 
@@ -1331,13 +1293,11 @@ Derivatif Syariah, dan/atau Kontrak Derivatif
 lainnya dengan posisi beli baik secara langsung
 maupun tidak langsung dalam waktu bersamaan;
 
-
 b. membeli . . .
-
 
 -----
 
-           - 24 
+           - 24
 b. membeli atau menjual Kontrak Berjangka,
 Kontrak Derivatif Syariah, dan/atau Kontrak
 Derivatif lainnya baik secara langsung maupun
@@ -1384,13 +1344,11 @@ dan dikliringkan dengan cara yang sama
 sebagaimana amanat lain yang
 ditransaksikan di Bursa Berjangka; atau
 
-
 d. secara . . .
-
 
 -----
 
-             - 25 
+             - 25
 d. secara langsung atau tidak langsung
 memengaruhi pihak lain untuk melakukan
 transaksi Kontrak Berjangka, Kontrak Derivatif
@@ -1401,7 +1359,7 @@ keuntungan di luar kewajaran.
 29. Ketentuan Pasal 58 ayat (1) diubah sehingga Pasal 58
 berbunyi sebagai berikut:
 
-Pasal 58
+### Pasal 58 ^pasal-58
 
 (1) Setiap Pihak dilarang memiliki, baik secara langsung
 
@@ -1417,7 +1375,7 @@ maksimum.
 30. Ketentuan Pasal 63 ayat (2) diubah sehingga Pasal 63
 berbunyi sebagai berikut:
 
-Pasal 63
+### Pasal 63 ^pasal-63
 
 (1) Bursa Berjangka, Lembaga Kliring Berjangka, Pialang
 
@@ -1444,17 +1402,15 @@ pendaftaran wajib menyampaikan laporan yang terkait
 dengan Perdagangan Berjangka apabila diminta oleh
 Bappebti.
 
-
 31. Ketentuan . . .
-
 
 -----
 
-             - 26 
+             - 26
 31. Ketentuan Pasal 68 ayat (2), ayat (3), dan ayat (4) diubah
 sehingga Pasal 68 berbunyi sebagai berikut:
 
-Pasal 68
+### Pasal 68 ^pasal-68
 
 (1) Pejabat Pegawai Negeri Sipil tertentu di lingkungan
 
@@ -1502,13 +1458,11 @@ lain untuk membekukan rekening Pihak yang
 disangka melakukan atau terlibat tindak pidana
 di bidang Perdagangan Berjangka;
 
-
 h. Meminta . . .
-
 
 -----
 
-             - 27 
+             - 27
 h. meminta bantuan tenaga ahli dalam melakukan
 
 penyidikan tindak pidana di bidang Perdagangan
@@ -1548,7 +1502,7 @@ bantuan kepada aparat penegak hukum.
 32. Ketentuan Pasal 71 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 71
+### Pasal 71 ^pasal-71
 
 (1) Setiap Pihak yang melakukan kegiatan Perdagangan
 
@@ -1562,13 +1516,11 @@ Rp10.000.000.000,00 (sepuluh miliar rupiah) dan
 paling banyak Rp20.000.000.000,00 (dua puluh miliar
 rupiah).
 
-
 (2) Setiap . . .
-
 
 -----
 
-             - 28 
+             - 28
 (2) Setiap Pihak yang melakukan kegiatan tanpa memiliki
 
 persyaratan, persetujuan, atau penetapan
@@ -1595,7 +1547,7 @@ juta rupiah).
 33. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 73
+### Pasal 73 ^pasal-73
 
 Setiap Pihak yang memanfaatkan setiap informasi yang
 diperoleh untuk kepentingan pribadi atau mengungkapkan
@@ -1622,13 +1574,11 @@ paling lama 4 (empat) tahun, dan denda paling sedikit
 Rp1.000.000.000,00 (satu miliar rupiah) dan paling
 banyak Rp4.000.000.000,00 (empat miliar rupiah).
 
-
 (2) Setiap . . .
-
 
 -----
 
-           - 29 
+           - 29
 (2) Setiap Pihak yang tidak menjamin kerahasiaan data
 
 dan informasi mengenai Nasabah, klien, atau peserta
@@ -1677,13 +1627,11 @@ paling sedikit Rp1.000.000.000,00 (satu miliar rupiah)
 dan paling banyak Rp4.000.000.000,00 (empat miliar
 rupiah).
 
-
 Pasal 73C . . .
-
 
 -----
 
-           - 30 
+           - 30
 Pasal 73C
 
 (1) Setiap Pihak yang menerima dan/atau memberikan
@@ -1733,10 +1681,9 @@ miliar rupiah) dan paling banyak Rp20.000.000.000,00
 
 (2) Setiap . . .
 
-
 -----
 
-           - 31 
+           - 31
 (2) Setiap Pihak yang menyalurkan amanat untuk
 melakukan transaksi Kontrak Berjangka, Kontrak
 Derivatif Syariah, dan/atau Kontrak Derivatif lainnya
@@ -1784,13 +1731,11 @@ tahun, dan denda paling sedikit Rp1.000.000.000,00
 (satu miliar rupiah) dan paling banyak
 Rp4.000.000.000,00 (empat miliar rupiah).
 
-
 Pasal 73E . . .
-
 
 -----
 
-           - 32 
+           - 32
 Pasal 73E
 
 (1) Setiap Pihak yang tidak menyampaikan Dokumen
@@ -1837,13 +1782,11 @@ denda paling sedikit Rp1.000.000.000,00 (satu miliar
 rupiah) dan paling banyak Rp4.000.000.000,00 (empat
 miliar rupiah).
 
-
 (4) Setiap . . .
-
 
 -----
 
-           - 33 
+           - 33
 (4) Setiap Pihak yang tidak melaporkan kepada Bappebti
 
 melalui Bursa Berjangka posisi terbuka Kontrak
@@ -1888,13 +1831,11 @@ paling sedikit Rp1.000.000.000,00 (satu miliar rupiah)
 dan paling banyak Rp5.000.000.000,00 (lima miliar
 rupiah).
 
-
 (2) Setiap . . .
-
 
 -----
 
-             - 34 
+             - 34
 (2) Setiap Pihak yang tidak mengelola setiap Sentra Dana
 
 Berjangka dalam suatu lembaga yang terpisah dari
@@ -1928,7 +1869,7 @@ Rp4.000.000.000,00 (empat miliar rupiah).
 36. Ketentuan Pasal 77 diubah sehingga berbunyi sebagai
 berikut:
 
-Pasal 77
+### Pasal 77 ^pasal-77
 
 Bappebti, Bank Indonesia, badan yang mengawasi pasar
 modal dan lembaga keuangan, dan lembaga yang
@@ -1941,10 +1882,9 @@ Berjangka.
 
 37. Di antara . . .
 
-
 -----
 
-             - 35 
+             - 35
 37. Di antara Pasal 80 dan Pasal 81 disisipkan 1 (satu) pasal,
 yakni Pasal 80A sehingga berbunyi sebagai berikut:
 
@@ -1985,13 +1925,11 @@ diundangkan.
 2. Undang-Undang ini mulai berlaku pada tanggal
 diundangkan.
 
-
 Agar . . .
-
 
 -----
 
-                      - 36 
+                      - 36
 Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Undang-Undang ini dengan penempatannya
 dalam Lembaran Negara Republik Indonesia.
@@ -2031,10 +1969,11 @@ ttd
 
 Setio Sapto Nugroho
 
-
 -----
 
-PENJELASAN
+## Penjelasan
+
+### I. Umum
 
 ATAS
 
@@ -2047,8 +1986,6 @@ TENTANG
 PERUBAHAN ATAS UNDANG-UNDANG NOMOR 32 TAHUN 1997
 
 TENTANG PERDAGANGAN BERJANGKA KOMODITI
-
-I. UMUM
 
 Salah satu tugas utama pemerintah adalah meningkatkan kesejahteraan
 rakyat melalui peningkatan dan pemberdayaan ekonomi nasional.
@@ -2077,13 +2014,11 @@ distribusi, dan pengolahan. Dari semua risiko tersebut, yang paling sulit
 diperkirakan adalah risiko akibat terjadinya fluktuasi harga, khususnya
 harga di bidang komoditi.
 
-
 Indonesia . . .
-
 
 -----
 
-                       - 2 
+                       - 2
 Indonesia sangat beruntung sebagai salah satu negara penghasil komoditi
 dunia yang memiliki manfaat ekonomi yang tinggi karena sebagian besar
 hasilnya dijual ke pasar internasional (ekspor). Sebagai ilustrasi, komoditi
@@ -2112,20 +2047,16 @@ Dengan dibentuknya Undang-Undang ini, dapat mengakomodasi
 kebutuhan terhadap praktik di bidang Perdagangan Berjangka Komoditi
 secara global.
 
-II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
 Pasal I
 
 Angka 1
-
-Pasal 1
-
+#### Pasal 1 ^penjelasan-pasal-1
 Cukup jelas.
 
 Angka 2
-
-Pasal 2
-
+#### Pasal 2 ^penjelasan-pasal-2
 Ayat (1)
 
 Yang dimaksud dengan “kebijakan umum” adalah
@@ -2148,9 +2079,7 @@ Ayat (2)
 Cukup jelas.
 
 Angka 3
-
-Pasal 3
-
+#### Pasal 3 ^penjelasan-pasal-3
 Komoditi yang diperdagangkan, dalam hal ini biasanya berciri
 harganya fluktuatif, memiliki standar mutu tertentu, dan
 tersedia dalam jumlah cukup besar serta diperdagangkan
@@ -2164,8 +2093,7 @@ dengan cepat merespons perkembangan Perdagangan
 Berjangka yang bersifat global.
 
 Angka 4
-
-Pasal 4
+#### Pasal 4 ^penjelasan-pasal-4
 Ayat (1)
 
 Yang dimaksud dengan “pengaturan” adalah pengaturan
@@ -2216,9 +2144,7 @@ Ayat (3)
 Cukup jelas.
 
 Angka 5
-
-Pasal 5
-
+#### Pasal 5 ^penjelasan-pasal-5
 Huruf a
 
 Untuk mewujudkan kegiatan Perdagangan Berjangka
@@ -2270,9 +2196,7 @@ negeri serta bagi petani sebagai dasar dalam pengambilan
 keputusan yang sekaligus memperkuat daya tawarmenawar.
 
 Angka 6
-
-Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
 Huruf a
 
 Untuk memberi kejelasan bagi masyarakat terhadap
@@ -2736,9 +2660,7 @@ Berjangka bagi perekonomian nasional dan
 masyarakat.
 
 Angka 7
-
-Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
 Bursa Berjangka didirikan untuk menyelenggarakan dan
 menyediakan sistem dan sarana Perdagangan Berjangka.
 Dengan tersedianya sistem dan sarana yang baik, Anggota
@@ -2751,9 +2673,7 @@ melakukan pengawasan terhadap anggotanya dengan lebih
 efektif.
 
 Angka 8
-
-Pasal 12
-
+#### Pasal 12 ^penjelasan-pasal-12
 Ayat (1)
 
 Yang dimaksud dengan “sejumlah badan usaha” adalah
@@ -2810,21 +2730,15 @@ keahlian di bidang Perdagangan Berjangka, baik warga
 negara Indonesia maupun warga negara asing.
 
 Angka 9
-
-Pasal 13
-
+#### Pasal 13 ^penjelasan-pasal-13
 Cukup jelas.
 
 Angka 10
-
-Pasal 15
-
+#### Pasal 15 ^penjelasan-pasal-15
 Cukup jelas.
 
 Angka 11
-
-Pasal 16
-
+#### Pasal 16 ^penjelasan-pasal-16
 Huruf a
 
 Cukup jelas.
@@ -2870,9 +2784,7 @@ Huruf d
 Cukup jelas.
 
 Angka 12
-
-Pasal 17
-
+#### Pasal 17 ^penjelasan-pasal-17
 Ayat (1)
 
 Huruf a
@@ -3022,9 +2934,7 @@ Angka 13 . . .
 
                   - 18 
 Angka 13
-
-Pasal 18
-
+#### Pasal 18 ^penjelasan-pasal-18
 Huruf a
 
 Bursa Berjangka mengevaluasi kelengkapan dan
@@ -3123,9 +3033,7 @@ Huruf i
 Cukup jelas.
 
 Angka 14
-
-Pasal 24
-
+#### Pasal 24 ^penjelasan-pasal-24
 Lembaga Kliring Berjangka menyediakan sistem pelaksanaan
 kliring atas transaksi yang terjadi di Bursa Berjangka untuk
 menjamin penyelesaian keuangan yang berkaitan dengan
@@ -3144,9 +3052,7 @@ Angka 15 . . .
 
                   - 20 
 Angka 15
-
-Pasal 25
-
+#### Pasal 25 ^penjelasan-pasal-25
 Ayat (1)
 
 Lembaga Kliring Berjangka merupakan institusi yang
@@ -3179,9 +3085,7 @@ badan usaha”, memungkinkan untuk memberikan izin
 usaha kepada satu atau lebih badan usaha.
 
 Angka 16
-
-Pasal 26
-
+#### Pasal 26 ^penjelasan-pasal-26
 Huruf a
 
 Lembaga Kliring Berjangka menyediakan fasilitas yang
@@ -3214,9 +3118,7 @@ Angka 17 . . .
 
                   - 21 
 Angka 17
-
-Pasal 27
-
+#### Pasal 27 ^penjelasan-pasal-27
 Ayat (1)
 
 Huruf a
@@ -3274,9 +3176,7 @@ Angka 18 . . .
 
                   - 22 
 Angka 18
-
-Pasal 28
-
+#### Pasal 28 ^penjelasan-pasal-28
 Huruf a
 
 Lembaga Kliring Berjangka mengevaluasi kelengkapan
@@ -3392,15 +3292,11 @@ Pasal 44B
 Cukup jelas.
 
 Angka 23
-
-Pasal 49
-
+#### Pasal 49 ^penjelasan-pasal-49
 Cukup jelas.
 
 Angka 24
-
-Pasal 50
-
+#### Pasal 50 ^penjelasan-pasal-50
 Ayat (1)
 
 Cukup jelas.
@@ -3481,9 +3377,7 @@ Ayat (6)
 Cukup jelas.
 
 Angka 25
-
-Pasal 51
-
+#### Pasal 51 ^penjelasan-pasal-51
 Ayat (1)
 
 Cukup jelas.
@@ -3511,9 +3405,7 @@ Ayat (6)
 Cukup jelas.
 
 Angka 26
-
-Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
 Ayat (1)
 
 Pelaksanaan amanat transaksi Kontrak Berjangka,
@@ -3559,9 +3451,7 @@ Ayat (6)
 Cukup jelas.
 
 Angka 27
-
-Pasal 53
-
+#### Pasal 53 ^penjelasan-pasal-53
 Ayat (1)
 
 Cukup jelas.
@@ -3591,9 +3481,7 @@ Ayat (4)
 Cukup jelas.
 
 Angka 28
-
-Pasal 57
-
+#### Pasal 57 ^penjelasan-pasal-57
 Ayat (1)
 
 Huruf a
@@ -3723,15 +3611,11 @@ Berjangka, Kontrak Derivatif Syariah, dan/atau
 Kontrak Derivatif lainnya.
 
 Angka 29
-
-Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
 Cukup jelas.
 
 Angka 30
-
-Pasal 63
-
+#### Pasal 63 ^penjelasan-pasal-63
 Ayat (1)
 
 Cukup jelas.
@@ -3756,9 +3640,7 @@ pemegang izin, persetujuan, dan sertifikat pendaftaran
 untuk menyampaikan laporan.
 
 Angka 31
-
-Pasal 68
-
+#### Pasal 68 ^penjelasan-pasal-68
 Ayat (1)
 
 Pejabat Pegawai Negeri Sipil tertentu di Bappebti yang
@@ -3816,15 +3698,11 @@ Ayat (6)
 Cukup jelas.
 
 Angka 32
-
-Pasal 71
-
+#### Pasal 71 ^penjelasan-pasal-71
 Cukup jelas.
 
 Angka 33
-
-Pasal 73
-
+#### Pasal 73 ^penjelasan-pasal-73
 Cukup jelas.
 
 Angka 34
@@ -3858,9 +3736,7 @@ Pasal 73G
 Cukup jelas.
 
 Angka 35
-
-Pasal 76
-
+#### Pasal 76 ^penjelasan-pasal-76
 Dihapus.
 
 
@@ -3871,9 +3747,7 @@ Angka 36 . . .
 
                       - 31 
 Angka 36
-
-Pasal 77
-
+#### Pasal 77 ^penjelasan-pasal-77
 Konsultasi atau koordinasi dilakukan sepanjang masalah atau
 kegiatan tersebut berkaitan dengan bidang tugas dan fungsi
 Bank Indonesia dan/atau badan yang mengawasi pasar modal
@@ -3900,3 +3774,38 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5232
 
 -----
 
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 1 | [[#^penjelasan-pasal-1]] |
+| Pasal 2 | [[#^penjelasan-pasal-2]] |
+| Pasal 3 | [[#^penjelasan-pasal-3]] |
+| Pasal 4 | [[#^penjelasan-pasal-4]] |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 6 | [[#^penjelasan-pasal-6]] |
+| Pasal 10 | [[#^penjelasan-pasal-10]] |
+| Pasal 12 | [[#^penjelasan-pasal-12]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 16 | [[#^penjelasan-pasal-16]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 18 | [[#^penjelasan-pasal-18]] |
+| Pasal 24 | [[#^penjelasan-pasal-24]] |
+| Pasal 25 | [[#^penjelasan-pasal-25]] |
+| Pasal 26 | [[#^penjelasan-pasal-26]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 49 | [[#^penjelasan-pasal-49]] |
+| Pasal 50 | [[#^penjelasan-pasal-50]] |
+| Pasal 51 | [[#^penjelasan-pasal-51]] |
+| Pasal 52 | [[#^penjelasan-pasal-52]] |
+| Pasal 53 | [[#^penjelasan-pasal-53]] |
+| Pasal 57 | [[#^penjelasan-pasal-57]] |
+| Pasal 58 | [[#^penjelasan-pasal-58]] |
+| Pasal 63 | [[#^penjelasan-pasal-63]] |
+| Pasal 68 | [[#^penjelasan-pasal-68]] |
+| Pasal 71 | [[#^penjelasan-pasal-71]] |
+| Pasal 73 | [[#^penjelasan-pasal-73]] |
+| Pasal 76 | [[#^penjelasan-pasal-76]] |
+| Pasal 77 | [[#^penjelasan-pasal-77]] |

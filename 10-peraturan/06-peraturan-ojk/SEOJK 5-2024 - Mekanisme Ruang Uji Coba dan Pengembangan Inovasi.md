@@ -19,17 +19,22 @@ sumber: "https://ojk.go.id/id/regulasi/Pages/Mekanisme-Ruang-Uji-Coba-dan-Pengem
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
 last_updated: 2026-10-28
+penjelasan: ada
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
 ---
 
+## Batang Tubuh
 
-# Mekanisme Ruang Uji Coba dan Pengembangan Inovasi
+**Mekanisme Ruang Uji Coba dan Pengembangan Inovasi**
 
 **Status:** `berlaku`
 
 > Sumber: https://ojk.go.id/id/regulasi/Pages/Mekanisme-Ruang-Uji-Coba-dan-Pengembangan-Inovasi.aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/Mekanisme-Ruang-Uji-Coba-dan-Pengembangan-Inovasi.aspx)
-
 
 Yth.
 1. Pihak yang akan mengajukan permohonan menjadi Peserta ruang uji
@@ -81,7 +86,6 @@ mewakili perusahaan, baik di dalam maupun di luar pengadilan
 sesuai dengan ketentuan anggaran dasar bagi perusahaan yang
 berbentuk badan hukum perseroan terbatas atau yang setara
 dengan Direksi bagi perusahaan yang berbentuk badan hukum lain.
-
 
 -----
 
@@ -142,7 +146,6 @@ rekomendasi dari pengawas terkait di Otoritas Jasa Keuangan.
 menyelenggarakan ITSK untuk melakukan permohonan menjadi
 Peserta kepada Otoritas Jasa Keuangan.
 
-
 -----
 
 4. Pihak yang menyelenggarakan ITSK sebagaimana dimaksud pada
@@ -200,7 +203,6 @@ masyarakat di Indonesia;
 2. inovasi yang memenuhi unsur kebaruan dan/atau memiliki unsur
 pembeda signifikan dengan yang telah dilakukan sebelumnya di
 sektor keuangan;
-
 
 -----
 
@@ -263,7 +265,6 @@ Keuangan.
 penolakan menjadi Peserta paling lama 20 (dua puluh) hari kerja
 sejak dokumen diterima dengan lengkap.
 
-
 -----
 
 IX. PROSES UJI COBA DAN PENGEMBANGAN INOVASI
@@ -324,7 +325,6 @@ dimaksud pada angka 6 belum tersedia dan/atau mengalami
 gangguan, penyampaian laporan sebagaimana dimaksud pada
 angka 1 disampaikan dalam bentuk dokumen elektronik melalui
 
-
 -----
 
 [surat elektronik melalui alamat mailingroomsumitro@ojk.go.id dan](mailto:mailingroomsumitro@ojk.go.id)
@@ -383,7 +383,6 @@ pengembangan inovasi; dan
 b. surat pernyataan Peserta bahwa Peserta akan menyelesaikan
 seluruh kewajiban Peserta sesuai dengan _exit policy_ yang
 tertuang pada Rencana Pengujian.
-
 
 -----
 
@@ -446,7 +445,6 @@ b. tidak lulus.
 2. Peserta dinyatakan lulus sebagaimana dimaksud pada angka 1
 huruf a apabila memenuhi kriteria paling sedikit:
 
-
 -----
 
 a. telah melaksanakan skenario uji coba dan pengembangan
@@ -490,7 +488,6 @@ Alur proses mekanisme _Sandbox, sebagaimana tercantum dalam_
 Lampiran IV yang merupakan bagian tidak terpisahkan dari Surat
 Edaran Otoritas Jasa Keuangan ini.
 
-
 -----
 
 XVI. PENUTUP
@@ -511,7 +508,6 @@ ttd
 
 HASAN FAWZI
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -519,7 +515,6 @@ Departemen Hukum
 ttd
 
 Aat Windradi
-
 
 -----
 
@@ -529,7 +524,6 @@ REPUBLIK INDONESIA
 NOMOR 5/SEOJK.07/2024
 TENTANG
 MEKANISME RUANG UJI COBA DAN PENGEMBANGAN INOVASI
-
 
 -----
 
@@ -568,7 +562,11 @@ yang akan diuji coba? (Ya/Tidak)
 Jika ya, jelaskan …
 
 II. Penilaian terhadap Kriteria Kelayakan
-Penjelasan bahwa inovasi yang akan diuji coba:
+
+## Penjelasan
+
+### I. Umum
+
 1. Memiliki cakupan ruang lingkup pada sektor jasa keuangan di
 Indonesia.
 Diisi dengan penjelasan mengenai produk, aktivitas, layanan,
@@ -589,7 +587,6 @@ Diisi dengan penjelasan mengenai produk, aktivitas, layanan,
 dan/atau model bisnis calon Peserta merupakan inovasi yang baru
 atau menawarkan solusi yang memiliki perbedaan yang signifikan,
 paling sedikit meliputi:
-
 
 -----
 
@@ -652,7 +649,6 @@ b. apa dukungan yang dibutuhkan oleh calon Peserta dalam
 melakukan uji coba atas produk, aktivitas, layanan, dan/atau
 model bisnis yang dikembangkan oleh calon Peserta?
 
-
 -----
 
 c. apa regulasi yang menjadi tantangan bagi calon Peserta dalam
@@ -660,7 +656,6 @@ mengembangkan produk, aktivitas, layanan, dan/atau model
 bisnis?
 Tanda Tangan
 Ditandatangani oleh anggota Direksi.
-
 
 -----
 
@@ -674,7 +669,6 @@ B. RENCANA PENGUJIAN SANDBOX
 |4.|Data pengujian|Diisi dengan:<br>Data yang dipergunakan oleh calon Peserta dalam<br>melakukan pengujian.|
 |5.|Batasan jumlah<br>Konsumen,<br>mitra, dan<br>transaksi|Diisi dengan:<br>• <br>Jumlah Konsumen yang diperlukan untuk<br>melakukan pengujian dan alasan penetapan<br>jumlah tersebut.<br>• <br>Segmen Konsumen (berikan penjelasan yang<br>detail terkait pemilihan segmen Konsumen<br>baik retail maupun non-retail, dan alasan<br>pemilihan).<br>• <br>Penjelasan strategi yang dilakukan untuk<br>memenuhi jumlah dan segmen Konsumen<br>tersebut (misalnya: iklan atau Konsumen<br>yang dimiliki oleh mitra).<br>• <br>Jumlah mitra/testing partner (LJK dan non-<br>LJK) yang dibutuhkan dalam pengujian dan<br>alasan penetapan jumlah tersebut.<br>• <br>Jenis mitra (berikan penjelasan yang detail<br>tentang jenis mitra dan alasan pemilihan).<br>• <br>Batas maksimum frekuensi, nilai, dan/atau<br>volume transaksi.|
 
-
 -----
 
 |6.|Jangka waktu<br>dan rencana<br>tahapan<br>pelaksanaan|Diisi dengan:<br>• Jangka waktu yang dibutuhkan oleh calon<br>Peserta untuk melakukan pengujian.<br>• Tahapan penting pencapaian (milestone) dan<br>lini masa (timeline) yang perlu dipersiapkan<br>untuk memastikan keberhasilan IKU.|
@@ -685,7 +679,6 @@ B. RENCANA PENGUJIAN SANDBOX
 |10. <br>|Sumber daya dan<br>infrastruktur<br>pengujian|Diisi dengan<br>• <br>Deskripsi pekerjaan dan pembagian tanggung<br>jawab dalam pelaksanaan_Sandbox_. <br>• <br>Kesiapan permodalan.<br>• <br>Kesiapan sumber daya manusia (termasuk<br>tenaga ahli/_expertise_) yang dimiliki.<br>• <br>Kebutuhan sumber daya manusia (termasuk<br>tenaga ahli/_expertise_) yang dibutuhkan.<br>• <br>Infrastruktur<br>pendukung<br>yang<br>dimiliki<br>(misalnya:_software_, _hardware_, algoritma).<br>• <br>Infrastruktur pendukung yang diperlukan<br>dalam<br>pengujian<br>(misalnya:<br>_software_, <br>_hardware_, algoritma).|
 |11. <br>|_Exit policy_|Diisi dengan:<br>• <br>Penjelasan terkait perencanaan kelangsungan<br>bisnis (_business continuity plan_) yang dimiliki<br>oleh calon Peserta.<br>• <br>Rencana penyelesaian hak dan kewajiban<br>apabila calon Peserta memutuskan untuk<br>mengakhiri uji coba dan pengembangan lebih<br>awal,<br>atau<br>jika<br>OJK<br>mengharuskan<br>perusahaan untuk menghentikan uji coba<br>lebih awal.<br>• <br>Penjelasan terkait mekanisme penanganan<br>Konsumen apabila terjadi kegagalan pada<br>proses<br>uji<br>coba<br>(misalnya:<br>mekanisme<br>pengembalian dana Konsumen, penanganan<br>klaim Konsumen, dan komunikasi kepada<br>Konsumen).|
 |12. <br>|Skenario uji coba<br>dan|Diisi dengan:|
-
 
 -----
 
@@ -702,7 +695,6 @@ mengendalikan dana Konsumen.
 |13. <br>|Indikator Kinerja<br>Utama|Diisi dengan:<br>• <br>Indikator pencapaian dari skenario yang<br>dilakukan uji coba.<br>• <br>Parameter yang menunjukkan bahwa uji coba<br>telah berhasil berdasarkan indikator yang<br>ditetapkan.<br>• <br>Hasil yang diharapkan oleh calon Peserta dari<br>pengujian yang dilakukan.<br>Contoh:<br>**IKU Operasional Bisnis **<br>Net Promoter Score (NPS) <br>Tingkat<br>kepuasan<br>pelanggan<br>/ <br>_Customer Satisfaction Score_ (CSAT) <br>Rasio<br>penyelesaian<br>pengaduan<br>Konsumen<br>Rata-rata<br>pemasukan<br>per<br>Konsumen /_Average revenue per_<br>_user_ (ARPU) <br>_Customer Retention Rate_ (CRR) <br>Penjualan/_Revenue_ <br>**IKU Pengujian**<br>Jumlah pengujian skenario yang<br>dilakukan<br>Rasio<br>keberhasilan<br>pengujian<br>skenario <br>Rata-rata waktu layanan /_Average_<br>_service time_ <br>Jumlah<br>mitigasi<br>risiko<br>yang<br>diterapkan|
 |14. <br>|Strategi APU/PPT<br>dan anti-_fraud_|Diisi dengan:<br>Rencana dan penerapan strategi program anti<br>pencucian uang dan pencegahan pendanaan<br>terorisme (misalnya:_melakukan customer due_<br>_diligence_ atau_enhanced due diligence_), dan<br>pencegahan fraud di sektorjasa keuangan.|
 |15. <br>|Informasi<br>tambahan<br>lainnya|Misalnya diisi dengan:<br>• <br>rencana modal tambahan calon Peserta dan<br>batasan pada mitra yang memegang atau<br>mengendalikan dana Konsumen.<br>• <br>rencana kesiapan dan ketahanan siber.|
-
 
 -----
 
@@ -753,13 +745,10 @@ Kode Pos ...
 
 No. Telepon/Fax Perusahaan : ....................................................
 
-
 Alamat Situs Web
 Perusahaan (bila ada)
 
-
 : ....................................................
-
 
 Email Perusahaan : ....................................................
 
@@ -770,7 +759,6 @@ dokumen-dokumen sebagai berikut:
 dengan dokumen:
 
 a. Akta pendirian badan hukum atau badan usaha; dan
-
 
 -----
 
@@ -810,7 +798,6 @@ ttd
 
 HASAN FAWZI
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -818,7 +805,6 @@ Departemen Hukum
 ttd
 
 Aat Windradi
-
 
 -----
 
@@ -828,7 +814,6 @@ REPUBLIK INDONESIA
 NOMOR 5/SEOJK.07/2024
 TENTANG
 MEKANISME RUANG UJI COBA DAN PENGEMBANGAN INOVASI
-
 
 -----
 
@@ -860,9 +845,7 @@ ada).
 
 e. Kemajuan (progres) indikator kinerja utama (IKU).
 
-
 2. Ringkasan uji coba dan pengembangan
-
 
 a. Jumlah Konsumen dan segmen Konsumen.
 
@@ -894,11 +877,9 @@ e. Identifikasi risiko yang didapatkan setelah melakukan pengujian dan
 
 berpotensi merugikan Konsumen (bila ada).
 
-
 -----
 
 2. Tantangan dalam proses pengujian
-
 
 a. Tantangan yang ditemukan pada saat pengujian (misalnya:
 
@@ -925,12 +906,9 @@ e. Jumlah dana/aset Konsumen yang disimpan pada akhir periode
 
 pengujian (bila ada).
 
-
 4. Langkah selanjutnya
 
-
 Rencana perusahaan pada triwulan selanjutnya.
-
 
 -----
 
@@ -994,7 +972,6 @@ _Rp.10.000,-_
 ..................................
 (Nama jelas dan tanda tangan)
 
-
 -----
 
 Ditetapkan di Jakarta
@@ -1010,7 +987,6 @@ ttd
 
 HASAN FAWZI
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -1018,7 +994,6 @@ Departemen Hukum
 ttd
 
 Aat Windradi
-
 
 -----
 
@@ -1029,16 +1004,13 @@ NOMOR 5/SEOJK.07/2024
 TENTANG
 MEKANISME RUANG UJI COBA DAN PENGEMBANGAN INOVASI
 
-
 -----
 
 A. LAPORAN AKHIR SANDBOX
 
 Laporan Akhir Sandbox
 
-
 I. Ringkasan Eksekutif
-
 
 1. Ringkasan partisipasi perusahaan dalam Sandbox
 
@@ -1052,9 +1024,7 @@ insiden yang terjadi
 
 5. Pemenuhan indikator kinerja utama (IKU)
 
-
 II. Ringkasan uji coba dan pengembangan inovasi
-
 
 1. Jumlah Konsumen dan segmen Konsumen.
 
@@ -1076,9 +1046,7 @@ penanganannya.
 
 5. Identifikasi hasil pengujian yang berpotensi merugikan Konsumen.
 
-
 III. Kepatuhan terhadap peraturan
-
 
 1. Tindakan yang dilakukan dalam rangka memastikan kepatuhan
 terhadap ketentuan yang berlaku.
@@ -1086,11 +1054,9 @@ terhadap ketentuan yang berlaku.
 2. Penjelasan terhadap setiap tantangan yang dihadapi sehubungan
 dengan peraturan dan penanganannya.
 
-
 -----
 
 IV. Dampak dan manfaat Konsumen
-
 
 1. Tingkat kepuasan Konsumen dan/atau mitra.
 
@@ -1105,9 +1071,7 @@ ditangani (bila ada).
 periode pengujian dan masalah dana/aset Konsumen selama
 periode Sandbox (bila ada).
 
-
 V. Aspek Operasional
-
 
 1. Insiden operasional dan langkah-langkah yang diambil untuk
 mengatasinya (bila ada).
@@ -1124,9 +1088,7 @@ VI. _Lesson learned_
 1. Hal yang dipelajari dari pengujian yang dilakukan oleh Peserta di
 _Sandbox._
 
-
 VII. Langkah selanjutnya
-
 
 1. Rencana perusahaan setelah Sandbox.
 
@@ -1135,7 +1097,6 @@ memungkinkan perusahaan bertransisi keluar dari Sandbox (bila
 ada).
 Misalnya penghapusan pembatasan atau kerangka peraturan
 baru yang perlu dibuat.
-
 
 -----
 
@@ -1193,18 +1154,15 @@ KEUANGAN DIGITAL DAN ASET KRIPTO
 OTORITAS JASA KEUANGAN
 REPUBLIK INDONESIA,
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
 
 ttd
 
-
 ttd
 
 HASAN FAWZI
-
 
 -----
 
@@ -1215,15 +1173,11 @@ NOMOR 5/SEOJK.07/2024
 TENTANG
 MEKANISME RUANG UJI COBA DAN PENGEMBANGAN INOVASI
 
-
 -----
 
 1
 
-
 ALUR MEKANISME SANDBOX
-
-
 
   - Peserta secara aktif:
 ✓ melakukan uji coba
@@ -1256,8 +1210,6 @@ melakukan
 pemantauan secara
 langsung maupun tidak
 
-
-
   - OJK dapat
 melakukan
 pembatalan
@@ -1281,8 +1233,6 @@ penghentian
 Sandbox oleh
 OJK.
 
-
-
   - Calon Peserta:
 LJK dan/atau pihak
 lain (Non-LJK) yang
@@ -1298,10 +1248,8 @@ rekomendasi dari
 pengawas terkait di
 OJK.
 
-
 *)  OJK berwenang menetapkan jangka waktu uji coba dan
 pengembangan inovasi yang berbeda dari jangka waktu 1 tahun
-
 
 **Proses Uji Coba**
 
@@ -1310,38 +1258,29 @@ pengembangan inovasi yang berbeda dari jangka waktu 1 tahun
 
 **Inovasi**
 
-
 **Persetujuan atau**
 
 **Penolakan**
 **Menjadi Peserta**
-
 
 OJK memberikan
 persetujuan atau
 penolakan menjadi
 Peserta.
 
-
 **Hasil Sandbox**
-
 
 **Periode Pendaftaran**
 
 **Peserta Sandbox**
 
-
 **Lulus**
-
 
 **(20 Hari Kerja)**
 
-
 **LJK**
 
-
 **Lulus**
-
 
 -----
 
@@ -1358,7 +1297,6 @@ ttd
 
 HASAN FAWZI
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Pengembangan Hukum
 Departemen Hukum
@@ -1367,6 +1305,4 @@ ttd
 
 Aat Windradi
 
-
 -----
-
