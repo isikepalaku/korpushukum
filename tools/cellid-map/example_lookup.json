@@ -1,9 +1,0 @@
-{
-  "latitude": -5.1580683,
-  "longitude": 119.5742523,
-  "accuracy_m": 486,
-  "label": "Telkomsel LTE — ECI 87305749",
-  "detail": "Google Geolocation estimate, derived from eNB 341038 and CID 21. Not an operator-confirmed BTS coordinate.",
-  "looked_up_at": "2026-09-13T17:17:28+08:00",
-  "rings_m": [450, 620, 1000]
-}

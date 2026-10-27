@@ -19,14 +19,15 @@ data/
 # ── Git ──
 .git/
 
+# ── Berkas bantuan runtime plugin Obsidian Git (dibuat ulang tiap load) ──
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
+# ── Python cache ──
+__pycache__/
+*.pyc
+
 # ── Log / cache sementara ──
 *.log
 *.tmp
 
-# ── Artefak analisis berat (regenerable — jangan di-commit) ──
-analisis/**/*.apk
-analisis/direktori-putusan/blutter-out/
-analisis/direktori-putusan/blutter-in/
-analisis/direktori-putusan/jadx/
-analisis/direktori-putusan/apk/
-analisis/direktori-putusan/full/
+
