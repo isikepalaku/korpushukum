@@ -1,0 +1,211 @@
+---
+id: MOC_UU_1_2025
+judul: "Map of Content - Perubahan Ketiga UU BUMN"
+kode_uu: UU_1_2025
+type: moc
+tags: [moc, hukum/tipidter, uu/uu_1_2025]
+last_updated: 2026-11-01
+---
+
+# Perubahan Ketiga UU BUMN (UU_1_2025)
+
+> Map of Content untuk penelusuran ringkas pasal hukum oleh AI/LLM.
+
+## Daftar Pasal
+
+- [[Pasal_1A]]: Pasal 1A
+- [[Pasal_2]]: - (U Tujuan pendirian BUMN adalah:
+- [[Pasal_2L]]: Pasal 2L
+- [[Pasal_2O]]: Pasal 2O
+- [[Pasal_3A]]: - (l) Presiden selaku Kepala Pemerintahan memegang kekuasaan pengelolaan BUMN sebagal lagian dari kekuasaan pemerintahan negara da...
+- [[Pasal_3B]]: Pasal 3B
+- [[Pasal_3C]]: Untuk melaksanakan tugas sebagaimana dimaksud dalam Pasal 38, Menteri selaku wakil Pemerintah Pusat dengan persetqiuan Presiden be...
+- [[Pasal_3D]]: Ketentuan lebih lanjut mengenai tugas Menteri selaku wakil Pemerintah Pusat sebagai regulator sebagaimana dimaksud dalam Pasal 38 ...
+- [[Pasal_3E]]: - (1) Dalam melaksanakan pengelolaan BUMN, Presiden melimpahkan sebagian kepada Badan yang dibentuk dengan Undang-Undang ini.
+- [[Pasal_3F]]: - (l) Badan bertugas untuk melakukan pengelolaan BUMN.
+- [[Pasal_3G]]: - (l) Modal Badan bersumber dari:
+- [[Pasal_3H]]: - (1) Badan dapat melakukan investasi, baik secara langsung maupun tidak langsung, melakukan kerja sama dengan Holding lrwestasi, ...
+- [[Pasal_3I]]: - (1) Untuk nilai aset, Badan dapat melakukan pengelolaan aset melalui kerja sama dengan pihak ketiga.
+- [[Pasal_3J]]: - (l) Aset Badan dapat berasal dari:
+- [[Pasal_3K]]: Pemeriksaan pengelolaan dan tanggung jawab keuangan Badan dilakukan oleh Badan Pemeriksa Keuangan.
+- [[Pasal_3L]]: - (U Badan berkedudukan dan berkantor pusat di Ibukota Negara.
+- [[Pasal_3M]]: Organ Badan terdiri atas:
+- [[Pasal_3N]]: - (l) Dewan pengawas terdiri atas:
+- [[Pasal_3P]]: Ketentuan lebih lanjut mengenai dewan pengawas sebagaimana dimaksud dalam Pasal 3N dan Pasal 30 diatur dalam Peraturan Pemerintah.
+- [[Pasal_3Q]]: - (l) Badan pelaksana sebagaimana dimaksud dalam Pasal 3M huruf b berasal dari unsur profesional.
+- [[Pasal_3R]]: - (1) Untuk dapat diangkat sebagai anggota badan pelaksana, seseorang harus memenuhi persyaratan:
+- [[Pasal_3T]]: - (1) Badan pelaksana bertugas pen!urusanoperasional Badan.
+- [[Pasal_3U]]: Badan pelaksana pembidangan setiap anggota badan pelaksana dengan persetujuan dewan pen8awas.
+- [[Pasal_3V]]: - (l) Badan pelaksana membentuk komite yang berasal dari badan pelaksana, pegawai Badan, dan pihak lain yang memiliki pengalaman y...
+- [[Pasal_3W]]: - (1) Presiden membentuk dewan penasihat.
+- [[Pasal_3X]]: - (1) Organ dan pegawai Badan bukan merupakan penyelenggara negara.
+- [[Pasal_3Y]]: Menteri, organ, dan pegawai Badan, tidak dapat dimintai pertanggungiawaban hukum atas kerugian jika dapat membuktikan:
+- [[Pasal_4]]: - Modal BUMN berasal dari APBN dan non-APBN. (l)
+- [[Pasal_4A]]: - (U Setiap penyertaan modal negara dalam rangka pendirian Badan, Holding Investasi, Holding Operasional, dan BUMN yang dananya be...
+- [[Pasal_4C]]: - (1) Negara Republik Indonesia memiliki saham seri A Dwiwarna dengan hak istimewa pada Holding Investasi, Holdirq Operasional, da...
+- [[Pasal_5]]: Pasal 5
+- [[Pasal_6]]: Pasal 6
+- [[Pasal_6O]]: Pasal 6O
+- [[Pasal_7]]: Pasal 7
+- [[Pasal_7O]]: - (1) Dewan Komisaris atau Dewan Pengawas wajib membentuk komite audit yang bekerja secara kolektif dan berfungsi membantu Dewan K...
+- [[Pasal_8]]: Pasal 8
+- [[Pasal_8O]]: - (l) Komite privatisasi bertugas untuk:
+- [[Pasal_9]]: Bentuk badan hukum BUMN terdiri atas Persero dan Perum.
+- [[Pasal_9A]]: BUMN mempunyai tempat kedudukan dalam wilayah Negara Kesatuan Republik Indonesia yang ditentukan dalam anggaran dasar.
+- [[Pasal_9C]]: - (l) Dewan Komisaris atau Dewan Pengawas melakukan pengawasan terhadap BUMN atas kebijakan dan pelaksanaan pengurusan serta membe...
+- [[Pasal_9D]]: Dalam melaksanakan pengurusan sebagaimana dimaksud dalam Pasal 98 dan pengawasan sebagaimana dimaksud dalam Pasal 9C, Direksi, Dew...
+- [[Pasal_9E]]: Setiap anggota Direksi, Dewan Komisaris, dan Dewan Pengawas dilarang mengambil keuntungan pribadi baik secara langsung maupun tida...
+- [[Pasal_9F]]: - (1) Anggota Direksi tidak dapat dimintai pertanggungiawaban hukum atas kerugian jika dapat membuktikan:
+- [[Pasal_9G]]: Anggota Direksi, Dewan Komisaris, dan Dewan Pengawas BUMN bukan merupakan penyelenggara negara.
+- [[Pasal_9H]]: - (l) Anggota Direksi, anggota Dewan Komisaris, dan anggota Dewan Pengawas tidak berwenang mewakili BUMN, jika:
+- [[Pasal_9O]]: Pasal 9O
+- [[Pasal_10]]: Pasal 10
+- [[Pasal_12]]: Tujuan Persero adalah:
+- [[Pasal_13]]: Organ Persero terdiri atas:
+- [[Pasal_14]]: - (1) Menteri menghadiri RUPS selaku pemegang saham negara pada Persero.
+- [[Pasal_14A]]: - (l) Direksi Persero terdiri atas 1 (satu) orang anggota Direksi Persero atau lebih.
+- [[Pasal_15A]]: - (1) Untuk dapat diangkat menjadi anggota Direksi Persero, calon anggota Direksi Persero harus memenuhi persyaratan:
+- [[Pasal_15B]]: Pasal 15B
+- [[Pasal_15C]]: - (l) Anggota Direksi Persero wajib menandatangani kontrak manajemen dan pakta integritas sebelum ditetapkan pengangkatannya sebag...
+- [[Pasal_15D]]: Masa jabatan anggota Direksi Persero ditetapkan oleh RUPS.
+- [[Pasal_15E]]: - (l) Jabatan Direksi Persero berhenti apabila:
+- [[Pasal_15F]]: Dengan memperhatikan sifat khusus masing-masing Persero, Direksi Persero dapat mengangkat seorang sekretaris perusahaan.
+- [[Pasal_15I]]: Pasal 15I
+- [[Pasal_15J]]: Direksi Persero wajib memelihara daftar, risalah, dokumen keuangan, dan dokumen perusahaan lainnya sebagaimana diatur dalam ketent...
+- [[Pasal_16]]: Pasal 16
+- [[Pasal_17]]: Pasal 17
+- [[Pasal_18]]: Pasal 18
+- [[Pasal_19]]: Pasal 19
+- [[Pasal_22]]: Pasal 22
+- [[Pasal_23]]: Pasal 23
+- [[Pasal_24]]: Pasal 24
+- [[Pasal_25]]: Pasal 25
+- [[Pasal_26]]: Pasal 26
+- [[Pasal_26A]]: - (l) Dewan Komisaris berjumlah paling sedikit 2 (dua) orang atau lebih.
+- [[Pasal_27A]]: - (l) Untuk dapat diangkat menjadi Dewan Komisaris, calon Dewan Komisaris harus memenuhi persyaratan:
+- [[Pasal_27B]]: Pasal 27B
+- [[Pasal_27D]]: Masa jabatan anggota Dewan Komisaris ditetapkan oleh RUPS.
+- [[Pasal_27E]]: Pasal 27E
+- [[Pasal_27F]]: - (1) Dewan Komisaris melakukan pengawasan atas kebijakan pengurusErn, jalannya pengurusan pada umumnya, baik mengenai Persero mau...
+- [[Pasal_27G]]: - (l) Dalam anggaran dasar dapat ditetapkan pemberian wewenang kepada Dewan Komisaris untuk memberikan persetujuan kepada Direksi ...
+- [[Pasal_27H]]: **Dewan Komisaris wajib:**
+- [[Pasal_28]]: Pasal 28
+- [[Pasal_29]]: Pasal 29
+- [[Pasal_30]]: - (1) Dewan pengawas bertugas melakukan pengawasan atas penyelenggaraan Badan yang dilakukan oleh badan pelaksana.
+- [[Pasal_32]]: - (l) Badan hanya dapat dibubarkan dengan Undang-Undang.
+- [[Pasal_33]]: Pasal 33
+- [[Pasal_34]]: - (1) Persero dapat menjadi Persero Terbuka dengan melakukan penjualan saham di pasar modal.
+- [[Pasal_35]]: - (l) Pendirian Perum harus memenuhi kriteria antara
+- [[Pasal_36]]: Tujuan pendirian Perum adalah:
+- [[Pasal_37]]: Organ Perum terdiri atas:
+- [[Pasal_38]]: - (1) Menteri memberikan persetujuan atas kebijakan pengembangan usaha Perum yang diusulkan oleh Direksi Perum.
+- [[Pasal_39]]: Menteri tidak bertanggung jawab atas segala akibat perbuatan hukum yang dibuat Perum dan tidak bertanggung jawab atas kerugian Per...
+- [[Pasal_42]]: - (1) Setiap tahun buku Perum wajib menyisihkan jumlah tertentu dari laba bersih untuk cadangan.
+- [[Pasal_43A]]: - (1) Direksi Perum terdiri atas I (satu) orang anggota Direksi Perum atau lebih.
+- [[Pasal_43C]]: - (l) Untuk dapat diangkat menjadi anggota Direksi Perum harus memenuhi persyaratan:
+- [[Pasal_43D]]: Anggota Direksi Perum dilarang merangkap jabatan sebagai:
+- [[Pasal_43E]]: - (l) Anggota Direksi Perum wajib kontrak manajemen dan pakta integritas sebelum ditetapkan pengangkatannya sebagai anggota Direks...
+- [[Pasal_43F]]: Masa jabatan anggota Direksi Perum ditetapkan oleh Menteri.
+- [[Pasal_43G]]: - (l) Jabatan Direksi Perum berhenti apabila:
+- [[Pasal_43H]]: Dengan memperhatikan sifat khusus masing-masing Perum, Direksi Perum dapat mengangkat seorang sekretaris perusahaan.
+- [[Pasal_43I]]: - (1) Direksi Perum wajib menyiapkan rencana kerja jangka panjang yang merupakan rencana strategis yang memuat sasaran dan tujuan ...
+- [[Pasal_43J]]: - (l) Direksi Perum wajib menyampaikan laporan tahunan kepada Menteri dalam jangka waktu paling lama 6 (enam) bulan setelah tahun ...
+- [[Pasal_43K]]: Ketentuan lebih lanjut mengenai rencana ke{a se[agaimsna dimaksud dalam Pasal 43I dan laporan tahunan Perum sebagaimana dimaksud d...
+- [[Pasal_43L]]: Direksi Perum wajib memelihara daftar, risalah, dokumen keuangan, dan dokumen perusahaan lainnya sebagaimana diatur dalam ketentua...
+- [[Pasal_43M]]: - (1) Direksi Perum hanya dapat mengajukan permohonan ke pengadilan negeri agar Perum dinyatakan pailit berdasarkan persetqiuan Me...
+- [[Pasal_44]]: Pasal 44
+- [[Pasal_45]]: Pasal 45
+- [[Pasal_46]]: Pasal 46
+- [[Pasal_47]]: Pasal 47
+- [[Pasal_48]]: Keuntungan atau kerugian yang dialami BUMN merupakan keuntungan atau kerugian BUMN.
+- [[Pasal_49]]: Pasal 49
+- [[Pasal_50]]: Pasal 50
+- [[Pasal_51]]: Pasal 51
+- [[Pasal_52]]: Pasal 52
+- [[Pasal_53]]: Pasal 53
+- [[Pasal_54]]: Pasal 54
+- [[Pasal_55]]: Pasal 55
+- [[Pasal_55A]]: - (1) Dewan Pengawas orang. paling sedikit 2 (dua)
+- [[Pasal_56]]: dan pemberhentian Dewan Pengawas dilakukan oleh Menteri.
+- [[Pasal_56A]]: - (1) Untuk dapat diangkat menjadi Dewan Pengawas harus memenuhi persyaratan:
+- [[Pasal_56C]]: - (1) Anggota Dewan Pengawas wajib kontrak manajemen dan pakta integritas sebelum ditetapkan pengangkatannya sebagai anggota Dewan...
+- [[Pasal_56D]]: Masa jabatan anggota Dewan Pengawas ditetapkan oleh Menteri.
+- [[Pasal_56E]]: - (1) Jabatan anggota Dewan Pengawas berhenti apabila:
+- [[Pasal_56F]]: - (1) Dewan Pengawas melakukan pengawas.rn atas kebijakan pengurus.rn, jalannya pengurusan pada umumnya, baik mengenai Perum maupu...
+- [[Pasal_56G]]: - (1) Dalam anggaran dasar dapat ditetapkan pemberian wewenang kepada Dewan Pengawas untuk memberikan persetujuan kepada Direksi P...
+- [[Pasal_56H]]: **Dewan Pengawas wajib:**
+- [[Pasal_56I]]: Ketentuan lebih lanjut mengenai pendirian dan diatur dalam Peraturan Pemerintah. Penlm
+- [[Pasal_57]]: Pasal 57
+- [[Pasal_59]]: Pasal 59
+- [[Pasal_62]]: Pasal 62
+- [[Pasal_62A]]: - (U Aset BUMN wajib dikelola oleh BUMN dengan prinsip tata kelola perusahaan yang baik.
+- [[Pasal_62C]]: Ketentuan lebih lanjut mengenai pengelolaan Aset BUMN sebagaimana dimaksud dalam Pasal 62A dan BUMN pengelola aset sebagaimana dim...
+- [[Pasal_62D]]: - (1) BUMN mempunyai wewenang untuk melakukan hapus buku dan/atau hapus tagih.
+- [[Pasal_62E]]: BUMN dapat melakukan hapus tagih piutang yang telah dihapus buku dengan persetqiuan Menteri untuk Perum dan Badan untuk Persero.
+- [[Pasal_62F]]: - (1) BUMN melaporkan pelaksanaan hapus buku dan hapus tagrh kepada Menteri dan Badan.
+- [[Pasal_62G]]: Badan melaporkan pelaksanaan hapus buku dan hapus tagih kepada alat kelengkapan DPR RI yang membidangi BUMN dan Presiden.
+- [[Pasal_62H]]: Ketentuan lebih lanjut mengenai tata cara hapus buku atas Aset BUMN sebagaimana dimaksud dalam Pasal 62D dan hapus tagih sebagaima...
+- [[Pasal_62I]]: - (1) Penggabungan, Peleburan, Pengambilalihan, atau Pemisahan BUMN diusulkan oleh Menteri kepada Presiden.
+- [[Pasal_62J]]: - (l) Penggabungan, Peleburan, Pengambilalihan, atau Pemisahan BUMN dilaksanakan oleh Menteri setelah ditetapkan Peraturan Pemerin...
+- [[Pasal_62K]]: - (l) mengakibatkan BUMN yang menggabungkan atau meleburkan diri berakhir karena hukum. atau Peleburan BUMN
+- [[Pasal_62L]]: Ketentuan lebih lanjut mengenai Penggabungan, Peleburan, Pengambilalihan, dan Pemisahan BUMN sebagaimana dimalsud dalam Pasal 62I ...
+- [[Pasal_62M]]: - (l) Untuk mendukung pencapaian tujuan pendirian BUMN sebagaimana dimaksud dalam Pasal 2 ayat (1), BUMN dapat membentuk Anak Usah...
+- [[Pasal_62N]]: Pembentukan Anak Usaha BUMN merupakan bagian dari rencana kerja dan anggaran Holding
+- [[Pasal_67]]: - (1) Pada setiap BUMN dibentuk satuan pengawasan
+- [[Pasal_67A]]: Satuan pengawasan intern mempunyai tugas:
+- [[Pasal_68]]: Atas permintaan tertulis Dewan Komisaris atau Dewan Pengawas, Direksi memberikan keterangan hasil atau hasil pelaksanaan tugas sat...
+- [[Pasal_69]]: Direksi wajib memperhatikan dan segera mengambil langkah yang diperlukan atas setiap laporan hasil pemeriksaan yang dibuat oleh sa...
+- [[Pasal_71]]: - (l) Pemeriksaan laporan keuangan perusahaan tahunan dilakukan oleh akuntan publik yang ditetapkan oleh RUPS untuk Persero dan di...
+- [[Pasal_71A]]: Pemeriksaan pengelolaan dan tanggung jawab keuangan BUMN dilakukan oleh akuntan publik yang terdaftar pada Badan Pemeriksa Keuanga...
+- [[Pasal_72A]]: T\rjuan Restrukturisasi adalah untuk:
+- [[Pasal_73]]: - (1) Restrukturisasi dengan maksud untuk penyehatan sebagaimana dimaksud dalam Pasal 72 ayat (ll huruf c dan untuk penyelamatan s...
+- [[Pasal_73A]]: - (l) Untuk mengkaji dan memutuskan penyelamatan BUMN, Pemerintah Pusat membentuk komite
+- [[Pasal_73B]]: - (1) Komite penyelamatan bertugas untuk:
+- [[Pasal_74]]: Privatisasi dilakukan dengan tujuan untuk:
+- [[Pasal_75]]: Privatisasi dilakukan dengan memperhatikan prinsip transparansi, kemandirian, akuntabilitas, pertanggungjawaban, kewajaran, kehati...
+- [[Pasal_76]]: - (1) Persero yang dapat di-Privatisasi paling sedikit
+- [[Pasal_78]]: Privatisasi dilaksanakan dengan cara:
+- [[Pasal_78A]]: Presiden dapat melakukan Privatisasi setelah alat kelengkapan DPR RI yang membidangi BUMN memberikan persetqiuan.
+- [[Pasal_79]]: - (U Untuk membahas dan memutuskan kebiiakan tentang Privatisasi, sehubungan dengan kebijakan lintas sektoral, Presiden membentuk ...
+- [[Pasal_81]]: - (1) Dalam melaksanakan Privatisasi, Menteri bertugas untuk:
+- [[Pasal_82]]: - (1) Privatisasi harus didahului dengan tindakan seleksi atas Persero dan mendasarkan pada kriteria yang ditetapkan dalam Peratur...
+- [[Pasal_83]]: Pasal 83
+- [[Pasal_84]]: Pasal 84
+- [[Pasal_85]]: - (l) Setiap or:rng dan/atau badan hukum yang mempunyai potensi benturan kepentingan dilarang terlibat dalam proses Privatisasi.
+- [[Pasal_86]]: Ketentuan lebih lanjut mengenai tata cara Privatisasi BUMN, komite privatisasi, dan tata cara penyetoran hasil Privatisasi sebagai...
+- [[Pasal_86A]]: Pasal 86A
+- [[Pasal_86C]]: Pembubaran Persero yang dilakukan berdasarkan ketentuan sebagaimana dimaksud dalam Pasal 868 ayat (l) huruf a dilaporkan oleh Ment...
+- [[Pasal_86D]]: - (1) Pembubaran Persero sebagaimana dimaksud dalam Pasal 86C wajib diikuti dengan likuidasi.
+- [[Pasal_86E]]: - (1) Perum dapat dibubarkan karena:
+- [[Pasal_86F]]: Pembubaran Perum yang dilakukan berdasarkan ketentuan sebagaimana dimaksud dalam Pasal 86E ayat (l) huruf a diusulkan oleh Menteri...
+- [[Pasal_86G]]: Pengadilan dapat membubarkan Perum se dimaksud dalam Pasal 86E ayat (1) huruf c atas permohonan Menteri,
+- [[Pasal_86H]]: Likuidasi dalam hal pembubaran Perum sebagaimana dimaksuddalam Pasal 86E ayat (l) huruf e dilakukan sesuai dengan ketentuan dalam ...
+- [[Pasal_86I]]: Dalam hal tidak ditentukan lain dalam Peraturan Pemerintah tentang pembubaran Perum, sisa kekayaan
+- [[Pasal_86J]]: Pasal 86J
+- [[Pasal_86K]]: - (l) Perum yang sudah dinyatakan bubar hanya dapat melakukan perbuatan hukum untuk melakukan pemberesan kekayaan dalam proses lik...
+- [[Pasal_86L]]: Ketentuan lebih lanjut mengenai pembubaran BUMN sebagaimana dimaksud dalam Pasal 868 sampai dengan Pasal 86K diatur dalam Peratura...
+- [[Pasal_86M]]: - (U Presiden dapat memberikan hak monopoli kepada BUMN atau Anak Usaha BUMN untuk memproduksi dan/ atau memasarkan barang dan/ata...
+- [[Pasal_87]]: - (1) Dalam penyelenggaraan BUMN, BUMN didukungoleh sumber daya manusia yang profesional dan berdaya saing global.
+- [[Pasal_87A]]: BUMN dapat mempekedakan tenaga kerja asing sesuai dengan ketentuan peraturan perundang-undangan.
+- [[Pasal_87B]]: - (1) Untuk meningkatkan kompetensi sumber daya manusia BUMN, kementerian yang menyelenggarakan urusan pemerintahan di bidang BUMN...
+- [[Pasal_87C]]: - (1) Pemerintah Pusat dapat memberikan penugasan khusus kepada BUMN atau Anak Usaha BUMN untuk fungsi kemanfaatan umum, penelitia...
+- [[Pasal_87D]]: - (U Dalam rangka penugasan khusus sebagaimana dimaksud dalam Pasal 87C, Menteri melakukan koordinasi dengan Menteri Keuangan dan ...
+- [[Pasal_87E]]: - (1) BUMN, Anak Usaha BUMN, dan melaksanakan tanggung jawab sosial wajib dan
+- [[Pasal_87F]]: - (l) Setiap sengketa yang terjadi antar-BUMN, Anak Usaha BUMN, dan/atau perusahaan terafiliasi diselesaikan dengan cara mencapai ...
+- [[Pasal_88]]: Pasal 88
+- [[Pasal_93]]: Dengan berlakunya Undang-Undang ini, terhadap segala penugasan yang masih berlangsung, mengikuti ketentuan
+- [[Pasal_93A]]: Dalam hal Persero bergerak di bidang perbankan, ketentuan mengenai jangka waktu likuidasi Persero sebagaimana dimaksud dalam Pasal...
+- [[Pasal_94]]: BUMN wajib dengan ketentuan UndangUndang ini paling lama I (satu) tahun terhitung sejak
+- [[Pasal_94A]]: Pada saat Undang-Undang ini mulai berlaku:
+- [[Pasal_94B]]: Peraturan pelaksanaan dari Undang-Undang ini harus ditetapkan paling lama 6 (enam) bulan terhitung sejak
+- [[Pasal_98]]: Pasal 98
+- [[Pasal_158]]: Anggota Direksi Persero dilarang merangkap jabatan sebagai:
+- [[Pasal_271]]: Ketentuan lebih lanjut mengenai pendirian dan diatur dalam Peraturan Pemerintah. Persero
+- [[Pasal_438]]: Pengangkatan dan pemberhentian anggota Direksi Perum ditetapkan oleh Menteri.
+- [[Pasal_554]]: Pasal 554
+- [[Pasal_568]]: **Dewan Pengawas dilarang merangkap jabatan sebagai:**
+- [[Pasal_620]]: Ketentuan lebih lanjut mengenai pembentukan Anak Usaha BUMN sebagaimana dimaksud dalam Pasal 62M
+- [[Pasal_628]]: - (l) Menteri mengusulkan pendirian BUMN pengelola aset kepada Presiden disertai dengan kajian pendirian BUMN.
+- [[Pasal_738]]: Pasal 738
+- [[Pasal_788]]: Rencana Privatisasi sebagaimana dimaksud dalam Pasal 78A harus dalam program tahunan Privatisasi yang disusun oleh Menteri.
+- [[Pasal_868]]: - (1) Pembubaran Persero terjadi:

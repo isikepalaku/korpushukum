@@ -1,0 +1,51 @@
+---
+id: POJK_39_2024_Pasal_93
+uu_induk: Pergadaian
+kode_uu: POJK_39_2024
+pasal: '93'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/keuangan
+- uu/pojk_39_2024
+---
+
+# Pasal 93 — Pergadaian
+
+## Batang Tubuh
+
+administratif berupa:
+a. peringatan tertulis; dan/atau
+b. pembatalan persetujuan.
+(2) Sanksi administratif sebagaimana pada ayat (1) huruf b
+dapat dikenakan dengan atau tanpa didahului
+pengenaan sanksi administratif berupa peringatan
+tertulis sebagaimana dimaksud pada ayat (1) huruf a.
+(3) Dalam hal Asosiasi telah memenuhi ketentuan
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa
+
+-----
+
+Keuangan mencabut sanksi administratif berupa
+peringatan tertulis.
+(4) Dalam hal terjadi pelanggaran ketentuan sebagaimana
+dimaksud pada ayat (1) dan pelanggaran telah
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi
+administratif berupa peringatan tertulis yang berakhir
+dengan sendirinya.
+(5) Selain sanksi administratif sebagaimana dimaksud
+pada ayat (1), Otoritas Jasa Keuangan berwenang
+melakukan pencatatan rekam jejak terhadap pihak
+yang menyebabkan Asosiasi melanggar ketentuan
+sebagaimana dimaksud pada ayat (1) dalam sistem
+elektronik Otoritas Jasa Keuangan.
+
+BAB XI
+PENCABUTAN IZIN USAHA
+
+Bagian Kesatu
+Pencabutan Izin Usaha
+
+## Penjelasan Resmi
+
+Cukup jelas.

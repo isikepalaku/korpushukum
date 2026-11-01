@@ -1,0 +1,26 @@
+---
+id: UU_1_2023_Pasal_1
+uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum
+  Pidana
+kode_uu: UU_1_2023
+pasal: '1'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/pidana
+- uu/uu_1_2023
+---
+
+# Pasal 1 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
+
+## Batang Tubuh
+
+Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana dan tindakan sebagaimana dimaksud dalam Pasal 68 sampai dengan Pasal 110 diatur dengan Peraturan Pemerintah.
+
+Bagian Ketiga Diversi, Tindakan, dan Pidana bagi Anak
+
+Paragraf 1 Diversi
+
+## Penjelasan Resmi
+
+Cukup jelas.

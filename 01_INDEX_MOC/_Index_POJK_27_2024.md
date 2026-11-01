@@ -1,0 +1,155 @@
+---
+id: MOC_POJK_27_2024
+judul: "Map of Content - Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto"
+kode_uu: POJK_27_2024
+type: moc
+tags: [moc, hukum/keuangan, uu/pojk_27_2024]
+last_updated: 2026-11-01
+---
+
+# Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto (POJK_27_2024)
+
+> Map of Content untuk penelusuran ringkas pasal hukum oleh AI/LLM.
+
+## Daftar Pasal
+
+- [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
+- [[Pasal_2]]: (1) Kegiatan penyelenggaraan perdagangan Aset Keuangan
+- [[Pasal_3]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital
+- [[Pasal_4]]: (1) Aset Keuangan Digital yang dapat diperdagangkan di
+- [[Pasal_5]]: (3) Setelah jangka waktu penghentian sebagaimana
+- [[Pasal_6]]: (1) Pedagang wajib menghentikan perdagangan Aset
+- [[Pasal_7]]: (1) Pedagang wajib melakukan penyelesaian terhadap Aset
+- [[Pasal_8]]: (1) Selain memenuhi kriteria Aset Keuangan Digital
+- [[Pasal_9]]: (1) Bursa menetapkan Daftar Aset Kripto.
+- [[Pasal_10]]: (1) Dalam menetapkan Daftar Aset Kripto sebagaimana
+- [[Pasal_11]]: (1) Pedagang dapat menyampaikan usulan penambahan
+- [[Pasal_12]]: BAB III
+- [[Pasal_13]]: (1) Bursa wajib melakukan evaluasi atas Aset Kripto dalam
+- [[Pasal_14]]: (1) Otoritas Jasa Keuangan berwenang melakukan
+- [[Pasal_15]]: (1) Pedagang wajib menghentikan perdagangan Aset Kripto
+- [[Pasal_16]]: (1) Pedagang wajib melakukan penyelesaian terhadap Aset
+- [[Pasal_17]]: (1) Pelanggaran terhadap ketentuan sebagaimana
+- [[Pasal_18]]: (1) Badan hukum Bursa berbentuk perseroan terbatas.
+- [[Pasal_19]]: (1) Bursa yang mengajukan izin usaha kepada Otoritas
+- [[Pasal_20]]: (1) Selain persyaratan permodalan sebagaimana dimaksud
+- [[Pasal_21]]: (1) Bursa harus memenuhi persyaratan sistem
+- [[Pasal_22]]: (1) Peraturan dan tata tertib Bursa sebagaimana dimaksud
+- [[Pasal_23]]: (1) Saham Bursa hanya dapat dimiliki oleh:
+- [[Pasal_24]]: 
+- [[Pasal_25]]: Bursa bertanggung jawab mengawasi pelaksanaan transaksi
+- [[Pasal_26]]: ayat (8), Pasal 30 ayat (2), Pasal 32 ayat (1), ayat (2),
+- [[Pasal_27]]: Badan hukum Lembaga Kliring Penjaminan dan
+- [[Pasal_28]]: (1) Lembaga Kliring Penjaminan dan Penyelesaian yang
+- [[Pasal_29]]: (1) Sistem penjaminan penyelesaian transaksi milik
+- [[Pasal_30]]: (1) Peraturan dan tata tertib Lembaga Kliring Penjaminan
+- [[Pasal_31]]: (1) Saham Lembaga Kliring Penjaminan dan Penyelesaian
+- [[Pasal_32]]: (1) Lembaga Kliring Penjaminan dan Penyelesaian wajib
+- [[Pasal_33]]: Lembaga Kliring Penjaminan dan Penyelesaian bertanggung
+- [[Pasal_34]]: (1) Lembaga Kliring Penjaminan dan Penyelesaian wajib
+- [[Pasal_35]]: Badan hukum Pengelola Tempat Penyimpanan berbentuk
+- [[Pasal_36]]: ayat (8), Pasal 39, Pasal 40 ayat (1), ayat (5), ayat (6),
+- [[Pasal_37]]: (1) Pengelola Tempat Penyimpanan harus memenuhi
+- [[Pasal_38]]: Pengelola Tempat Penyimpanan dapat didirikan dan dimiliki
+- [[Pasal_39]]: (1) Pengelola Tempat Penyimpanan wajib memiliki anggota
+- [[Pasal_40]]: (1) Pengelola Tempat Penyimpanan wajib melaksanakan
+- [[Pasal_41]]: ayat (2), Pasal 43, Pasal 45 ayat (2), ayat (3), ayat (7),
+- [[Pasal_42]]: (1) Pengelola Tempat Penyimpanan harus menerapkan tata
+- [[Pasal_43]]: Pengelola Tempat Penyimpanan wajib memiliki sistem
+- [[Pasal_44]]: Badan hukum Pedagang berbentuk perseroan terbatas.
+- [[Pasal_45]]: (1) Pedagang yang mengajukan izin usaha kepada Otoritas
+- [[Pasal_46]]: g. tata cara perdagangan dan perubahan tata cara
+- [[Pasal_47]]: (1) Dalam hal Pedagang berperan menjadi _market maker_
+- [[Pasal_48]]: (1) Pedagang dapat didirikan dan dimiliki oleh:
+- [[Pasal_49]]: dikenakan sanksi administratif berupa:
+- [[Pasal_50]]: (1) Pedagang wajib memenuhi ketentuan:
+- [[Pasal_51]]: i. pemberian akses atau kerja sama dengan pihak
+- [[Pasal_52]]: (1) Dalam menjalankan ruang lingkup kegiatan
+- [[Pasal_53]]: Pedagang dalam menjalankan kegiatan perdagangan Aset
+- [[Pasal_54]]: (1) Pelanggaran terhadap ketentuan sebagaimana
+- [[Pasal_55]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital
+- [[Pasal_56]]: (1) Persetujuan atau penolakan atas permohonan izin
+- [[Pasal_57]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital yang
+- [[Pasal_58]]: Otoritas Jasa Keuangan berwenang mencabut izin usaha
+- [[Pasal_59]]: Apabila terdapat kewajiban Penyelenggara Perdagangan Aset
+- [[Pasal_60]]: bertanggung jawab terhadap permasalahan integritas,
+- [[Pasal_61]]: (1) Dalam hal Pihak Utama sebagaimana dimaksud dalam
+- [[Pasal_62]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital
+- [[Pasal_63]]: 
+- [[Pasal_64]]: (1) Direksi Penyelenggara Perdagangan Aset Keuangan
+- [[Pasal_65]]: 68, Pasal 69, Pasal 70, Pasal 74 ayat (1), ayat (2),
+- [[Pasal_66]]: (1) Dewan Komisaris Penyelenggara Perdagangan Aset
+- [[Pasal_67]]: (1) Dewan Komisaris Penyelenggara Perdagangan Aset
+- [[Pasal_68]]: Anggota Direksi dan anggota Dewan Komisaris
+- [[Pasal_69]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital
+- [[Pasal_70]]: (1) Pegawai pada Penyelenggara Perdagangan Aset
+- [[Pasal_71]]: Pelaksanaan fungsi kepatuhan dan audit internal
+- [[Pasal_72]]: (1) Pelaksanaan fungsi manajemen risiko sebagaimana
+- [[Pasal_73]]: (1) Pelaksana fungsi kepatuhan dan audit internal serta
+- [[Pasal_74]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital
+- [[Pasal_75]]: (1) Direksi Penyelenggara Perdagangan Aset Keuangan
+- [[Pasal_76]]: administratif atas pelanggaran tidak menyampaikan
+- [[Pasal_77]]: (1) Anggota Direksi, anggota Dewan Komisaris, dan
+- [[Pasal_78]]: (1) Pelanggaran terhadap ketentuan sebagaimana
+- [[Pasal_79]]: Penyelenggara Perdagangan Aset Keuangan Digital wajib
+- [[Pasal_80]]: (1) Dalam penerimaan calon Konsumen, Pedagang wajib
+- [[Pasal_81]]: (1) Dalam proses penerimaan calon Konsumen, Pedagang
+- [[Pasal_82]]: (7), Pasal 92, Pasal 93 ayat (1), ayat (2), Pasal 94 ayat
+- [[Pasal_83]]: (1) Dalam proses penerimaan calon Konsumen
+- [[Pasal_84]]: (1) Pedagang harus menyediakan fasilitas kepada calon
+- [[Pasal_85]]: oleh Pedagang setelah mendapat persetujuan dari
+- [[Pasal_86]]: (1) Penempatan dana Konsumen pada rekening yang
+- [[Pasal_87]]: (1) Rekening yang terpisah sebagaimana dimaksud dalam
+- [[Pasal_88]]: Pedagang wajib memberikan kuasa kepada Lembaga Kliring
+- [[Pasal_89]]: Bank penyimpan dana Konsumen yang bekerja sama
+- [[Pasal_90]]: (1) Konsumen hanya dapat menjual Aset Keuangan Digital
+- [[Pasal_91]]: (1) Pedagang wajib menjaga keamanan dan bertanggung
+- [[Pasal_92]]: (1) Pengelola Tempat Penyimpanan wajib memiliki
+- [[Pasal_93]]: (1) Pedagang dilarang memfasilitasi transaksi Aset
+- [[Pasal_94]]: (1) Konsumen harus melakukan penyelesaian seluruh
+- [[Pasal_95]]: (1) Penarikan Aset Keuangan Digital oleh Konsumen dari
+- [[Pasal_96]]: (1) Dalam memberikan jasa perpindahan atau transfer
+- [[Pasal_97]]: (1) Penyelenggara perdagangan Aset Keuangan Digital
+- [[Pasal_98]]: (1) Dalam kegiatan perdagangan Aset Keuangan Digital,
+- [[Pasal_99]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital
+- [[Pasal_100]]: (1) Pedagang wajib menyelesaikan seluruh hak dan
+- [[Pasal_101]]: (1) Pelanggaran terhadap ketentuan sebagaimana
+- [[Pasal_102]]: (3) Dalam hal permohonan persetujuan sebagaimana
+- [[Pasal_103]]: Penyedia jasa pembayaran sebagaimana dimaksud dalam
+- [[Pasal_104]]: Penyedia jasa fasilitasi transaksi Aset Keuangan Digital
+- [[Pasal_105]]: Penyedia jasa pembayaran dan penyedia jasa fasilitasi
+- [[Pasal_106]]: (1) Pelanggaran terhadap ketentuan sebagaimana
+- [[Pasal_107]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital
+- [[Pasal_108]]: (1) Laporan berkala sebagaimana dimaksud dalam Pasal
+- [[Pasal_109]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital yang
+- [[Pasal_110]]: (1) Laporan insidental sebagaimana dimaksud dalam Pasal
+- [[Pasal_111]]: Laporan lain sebagaimana dimaksud dalam Pasal 107 ayat
+- [[Pasal_112]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital
+- [[Pasal_113]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital yang
+- [[Pasal_114]]: (1) Otoritas Jasa Keuangan melakukan pengawasan
+- [[Pasal_115]]: (1) Pengawasan secara langsung sebagaimana dimaksud
+- [[Pasal_116]]: Pengawasan secara tidak langsung sebagaimana dimaksud
+- [[Pasal_117]]: (1) Pelanggaran terhadap ketentuan sebagaimana
+- [[Pasal_118]]: (1) Penyelenggara Perdagangan Aset Keuangan Digital dan
+- [[Pasal_119]]: Pasal 119
+- [[Pasal_120]]: Pasal 120
+- [[Pasal_121]]: Pasal 121
+- [[Pasal_122]]: Pasal 122
+- [[Pasal_123]]: Pasal 123
+- [[Pasal_124]]: Pasal 124
+- [[Pasal_125]]: Pasal 125
+- [[Pasal_126]]: Pasal 126
+- [[Pasal_127]]: Pasal 127
+- [[Pasal_128]]: Pasal 128
+- [[Pasal_129]]: Pasal 129
+- [[Pasal_130]]: Pasal 130
+- [[Pasal_131]]: Pasal 131
+- [[Pasal_132]]: Pasal 132
+- [[Pasal_133]]: Pasal 133
+- [[Pasal_134]]: Pasal 134
+- [[Pasal_135]]: Pasal 135
+- [[Pasal_136]]: Pasal 136
+- [[Pasal_137]]: Pasal 137
+- [[Pasal_138]]: Pasal 138
+- [[Pasal_139]]: Pasal 139
+- [[Pasal_140]]: Pasal 140

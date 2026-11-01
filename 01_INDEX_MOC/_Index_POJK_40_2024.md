@@ -1,0 +1,253 @@
+---
+id: MOC_POJK_40_2024
+judul: "Map of Content - Layanan Pendanaan Bersama Berbasis Teknologi Informasi"
+kode_uu: POJK_40_2024
+type: moc
+tags: [moc, hukum/keuangan, uu/pojk_40_2024]
+last_updated: 2026-11-01
+---
+
+# Layanan Pendanaan Bersama Berbasis Teknologi Informasi (POJK_40_2024)
+
+> Map of Content untuk penelusuran ringkas pasal hukum oleh AI/LLM.
+
+## Daftar Pasal
+
+- [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini yang
+- [[Pasal_2]]: perundang-undangan di bidang perkoperasian.
+- [[Pasal_3]]: (1) Penyelenggara hanya dapat dimiliki oleh:
+- [[Pasal_4]]: (1) Penyelenggara wajib menetapkan paling sedikit 1 (satu)
+- [[Pasal_5]]: (1) Setiap pihak dilarang menjadi PSP pada lebih dari 1
+- [[Pasal_6]]: (1) PSP wajib bertanggung jawab atas kerugian yang
+- [[Pasal_7]]: (1) Penyelenggara harus memiliki Modal Disetor pada saat
+- [[Pasal_8]]: (1) Sumber dana penyertaan kepada Penyelenggara
+- [[Pasal_9]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_10]]: (1) Penyelenggara yang melaksanakan kegiatan usaha
+- [[Pasal_11]]: (1) Penyelenggara yang telah memperoleh izin usaha dari
+- [[Pasal_12]]: (1) Penyelenggara wajib melakukan Pendanaan paling
+- [[Pasal_13]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_14]]: (1) Penyelenggara konvensional dapat melakukan konversi
+- [[Pasal_15]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_16]]: (1) Penyelenggara yang telah memperoleh izin konversi dari
+- [[Pasal_16B]]: (1) Penilaian terhadap faktor permodalan sebagaimana
+- [[Pasal_17]]: (1) Penyelenggara wajib melaporkan pelaksanaan RUPS
+- [[Pasal_18]]: (1) Penyelenggara berdasarkan Prinsip Syariah hasil
+- [[Pasal_19]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_20]]: (1) Penyelenggara dapat membentuk UUS.
+- [[Pasal_21]]: ayat (1), ayat (2), Pasal 25, Pasal 26, Pasal 27 ayat (1),
+- [[Pasal_22]]: (1) Pembentukan UUS sebagaimana dimaksud dalam Pasal
+- [[Pasal_23]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_24]]: 
+- [[Pasal_25]]: (1) Penyelenggara yang memiliki UUS wajib memiliki
+- [[Pasal_26]]: (1) UUS wajib dipimpin oleh seorang pimpinan UUS.
+- [[Pasal_27]]: (1) Penyelenggara wajib melaporkan perubahan pimpinan
+- [[Pasal_28]]: 
+- [[Pasal_29]]: (1) Pemisahan UUS dapat dilakukan dalam bentuk:
+- [[Pasal_30]]: (1) Penyelenggara berdasarkan Prinsip Syariah hasil
+- [[Pasal_31]]: Pemisahan UUS sebagaimana dimaksud dalam Pasal 28
+- [[Pasal_32]]: Penyelenggara yang akan melakukan Pemisahan UUS wajib
+- [[Pasal_33]]: (1) Penyelenggara sebagaimana dimaksud dalam Pasal 28
+- [[Pasal_34]]: Kewajiban melakukan pemisahan UUS atas perintah
+- [[Pasal_35]]: 
+- [[Pasal_36]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_37]]: (1) Penyelenggara yang akan melakukan rencana
+- [[Pasal_38]]: melaksanakan RUPS yang menyetujui Pemisahan UUS
+- [[Pasal_39]]: 
+- [[Pasal_40]]: (1) Dalam memproses pelaporan sebagaimana dimaksud
+- [[Pasal_41]]: (1) Penyelenggara yang telah memperoleh persetujuan atau
+- [[Pasal_42]]: (1) Penyelenggara yang melakukan Pemisahan UUS wajib
+- [[Pasal_43]]: sanksi administratif berupa:
+- [[Pasal_44]]: 
+- [[Pasal_45]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_46]]: Penyelenggara yang telah memperoleh persetujuan rencana
+- [[Pasal_47]]: (1) Penyelenggara wajib melaporkan penghentian kegiatan
+- [[Pasal_48]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_49]]: (1) Penyelenggara wajib memastikan calon Pihak Utama
+- [[Pasal_50]]: (1) Dalam hal Pihak Utama terindikasi terlibat dan/atau
+- [[Pasal_51]]: (1) Penyelenggara wajib memastikan anggota Direksi,
+- [[Pasal_52]]: (1) Penyelenggara wajib memiliki tenaga ahli yang
+- [[Pasal_53]]: (1) Penyelenggara yang akan menggunakan tenaga kerja
+- [[Pasal_54]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_55]]: 
+- [[Pasal_56]]: sanksi administratif berupa:
+- [[Pasal_57]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_58]]: (1) Perubahan kepemilikan yang mengakibatkan terjadinya
+- [[Pasal_59]]: 
+- [[Pasal_60]]: melaksanakan RUPS yang menyetujui perubahan
+- [[Pasal_61]]: (1) Penyelenggara yang telah memperoleh persetujuan
+- [[Pasal_62]]: (1) Penyelenggara yang mendapatkan persetujuan
+- [[Pasal_63]]: (1) Penyelenggara yang melakukan perubahan kepemilikan
+- [[Pasal_64]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_65]]: 
+- [[Pasal_66]]: 
+- [[Pasal_67]]: (1) Penyelenggara yang melakukan perubahan:
+- [[Pasal_68]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_69]]: (1) Penyelenggara dapat melakukan:
+- [[Pasal_70]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_71]]: (1) Penyelenggara yang telah memperoleh persetujuan
+- [[Pasal_72]]: 
+- [[Pasal_73]]: (1) Untuk pelaporan pelaksanaan RUPS yang menyetujui
+- [[Pasal_74]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_75]]: izin pembentukan UUS sebagaimana dimaksud dalam
+- [[Pasal_76]]: 
+- [[Pasal_77]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_78]]: (1) Penyelenggara hasil Peleburan wajib melaporkan
+- [[Pasal_79]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_80]]: (1) Penyelenggara wajib terdaftar sebagai anggota Asosiasi.
+- [[Pasal_81]]: (1) Asosiasi harus mendapatkan persetujuan tertulis dari
+- [[Pasal_82]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_83]]: 
+- [[Pasal_84]]: c. pengurus Asosiasi merupakan anggota Direksi
+- [[Pasal_85]]: (1) Asosiasi wajib menyampaikan laporan tahunan kepada
+- [[Pasal_86]]: (1) Asosiasi wajib memastikan pengurus Asosiasi
+- [[Pasal_87]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_88]]: (1) Asosiasi yang melanggar ketentuan sebagaimana
+- [[Pasal_89]]: (1) Pencabutan izin usaha Penyelenggara dilakukan oleh
+- [[Pasal_90]]: Otoritas Jasa Keuangan merupakan satu-satunya pihak
+- [[Pasal_91]]: Ketentuan mengenai mekanisme kepailitan dan penundaan
+- [[Pasal_92]]: Dalam hal pemberesan harta Penyelenggara yang
+- [[Pasal_93]]: (1) Penyelenggara yang akan menghentikan kegiatan
+- [[Pasal_94]]: Dalam hal Otoritas Jasa Keuangan memberikan persetujuan
+- [[Pasal_95]]: (1) Penyelenggara wajib melaporkan pelaksanaan
+- [[Pasal_96]]: (1) Penyelenggara harus menghentikan kegiatan usaha
+- [[Pasal_97]]: (1) Direksi wajib menyusun dan menyampaikan Neraca
+- [[Pasal_98]]: (1) Penyelenggara yang dicabut izin usahanya wajib
+- [[Pasal_99]]: sanksi administratif berupa:
+- [[Pasal_100]]: (1) Apabila dalam jangka waktu sebagaimana dimaksud
+- [[Pasal_101]]: Sejak keputusan RUPS sebagaimana dimaksud dalam Pasal
+- [[Pasal_102]]: (1) Sejak terbentuknya Tim Likuidasi sebagaimana
+- [[Pasal_103]]: a. mewakili Penyelenggara dalam Likuidasi yang berkaitan
+- [[Pasal_104]]: Dalam melaksanakan tugas sebagaimana dimaksud dalam
+- [[Pasal_105]]: (1) Pelaksanaan Likuidasi oleh Tim Likuidasi wajib
+- [[Pasal_106]]: (1) Anggota Tim Likuidasi untuk setiap Penyelenggara
+- [[Pasal_107]]: (1) Penunjukan Tim Likuidasi dilakukan dengan
+- [[Pasal_108]]: (1) Dalam hal anggota Tim Likuidasi dibentuk oleh RUPS,
+- [[Pasal_109]]: (1) Anggota Tim Likuidasi diberikan remunerasi yang
+- [[Pasal_110]]: (1) Tim Likuidasi menyusun rencana kerja dan anggaran
+- [[Pasal_111]]: (1) Rencana kerja dan anggaran biaya sebagaimana
+- [[Pasal_112]]: (1) Dalam melaksanakan tugas menyelesaikan hal yang
+- [[Pasal_113]]: Dalam pemberesan aset dan kewajiban Penyelenggara
+- [[Pasal_114]]: (1) Setelah menerima Neraca Penutupan dari Otoritas Jasa
+- [[Pasal_115]]: (1) Tim Likuidasi melakukan inventarisasi aset dan
+- [[Pasal_116]]: (1) Tim Likuidasi menyusun Neraca Sementara Likuidasi
+- [[Pasal_117]]: (1) Pencairan aset tidak bermasalah sebagaimana
+- [[Pasal_118]]: Seluruh biaya pelaksanaan Likuidasi yang tercantum dalam
+- [[Pasal_119]]: (1) Otoritas Jasa Keuangan melakukan pengawasan atas
+- [[Pasal_120]]: (1) Tim Likuidasi wajib menyampaikan laporan realisasi
+- [[Pasal_121]]: Pelaksanaan Likuidasi selesai dalam hal:
+- [[Pasal_122]]: (1) Dalam hal jangka waktu pelaksanaan Likuidasi
+- [[Pasal_123]]: (1) Dalam hal Tim Likuidasi dibentuk oleh RUPS
+- [[Pasal_124]]: (1) RUPS mempertimbangkan pendapat Otoritas Jasa
+- [[Pasal_125]]: (1) Dalam hal Tim Likuidasi yang dibentuk oleh Otoritas
+- [[Pasal_126]]: (1) Status badan hukum Penyelenggara yang dilikuidasi
+- [[Pasal_127]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_128]]: (1) Pihak yang melanggar ketentuan sebagaimana
+- [[Pasal_129]]: Dalam hal terjadi pelanggaran ketentuan sebagaimana
+- [[Pasal_130]]: (1) Kegiatan usaha Penyelenggara terdiri atas:
+- [[Pasal_131]]: 
+- [[Pasal_132]]: (1) Dalam menjalankan kegiatan usaha sebagaimana
+- [[Pasal_133]]: (1) Kegiatan usaha berdasarkan Prinsip Syariah
+- [[Pasal_134]]: Penyelenggara wajib memenuhi prinsip keadilan (adl),
+- [[Pasal_135]]: Penyelenggara wajib mencantumkan kegiatan usaha
+- [[Pasal_136]]: (1) Kegiatan usaha Penyelenggara sebagaimana dimaksud
+- [[Pasal_137]]: (1) Penyelenggara wajib menyediakan akses yang sama
+- [[Pasal_138]]: (1) Pemberi Dana dapat berasal dari dalam dan/atau luar
+- [[Pasal_139]]: (1) Penyelenggara dilarang melakukan Pendanaan selain
+- [[Pasal_140]]: (1) Penyelenggara wajib memenuhi ketentuan batas
+- [[Pasal_141]]: (1) Penyelenggara wajib mencantumkan nama
+- [[Pasal_142]]: mulai berlaku paling lama 3 (tiga) bulan sejak Peraturan
+- [[Pasal_143]]: Perjanjian pelaksanaan LPBBTI wajib paling sedikit terdiri
+- [[Pasal_144]]: (1) Perjanjian antara Penyelenggara dan Pemberi Dana
+- [[Pasal_145]]: (1) Perjanjian Pendanaan antara Pemberi Dana dan
+- [[Pasal_146]]: Penyelenggara wajib memastikan Pengguna telah membaca
+- [[Pasal_147]]: Setiap perubahan Perjanjian Pendanaan antara Pemberi
+- [[Pasal_148]]: (1) Penyelenggara wajib melakukan mitigasi risiko paling
+- [[Pasal_149]]: (1) Penyelenggara wajib menerapkan mitigasi
+- [[Pasal_150]]: (1) Penyelenggara wajib melaksanakan penilaian skor
+- [[Pasal_151]]: (1) Penyelenggara wajib menyusun pedoman penilaian skor
+- [[Pasal_152]]: (1) Direksi wajib bertanggung jawab atas penilaian skor
+- [[Pasal_153]]: (1) Penyelenggara wajib menggunakan:
+- [[Pasal_154]]: administratif berupa:
+- [[Pasal_155]]: d. pemenuhan jumlah penyertaan langsung
+- [[Pasal_156]]: (1) Penyelenggara dapat melakukan kerja sama dengan
+- [[Pasal_157]]: (1) Penyelenggara dapat melakukan kerja sama pertukaran
+- [[Pasal_158]]: Dalam menjalankan kegiatan usaha, Penyelenggara
+- [[Pasal_159]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_160]]: (1) Penyelenggara wajib menggunakan Sistem Elektronik
+- [[Pasal_161]]: (1) Penyelenggara wajib:
+- [[Pasal_162]]: (1) Penyelenggara wajib menyediakan rekam jejak audit
+- [[Pasal_163]]: (1) Penyelenggara wajib melakukan pengamanan terhadap
+- [[Pasal_164]]: (1) Penyelenggara wajib memperoleh persetujuan dari
+- [[Pasal_165]]: (1) Penyelenggara wajib menyimpan Data Pribadi dalam
+- [[Pasal_166]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_167]]: (1) Penyelenggara wajib memenuhi persyaratan Tingkat
+- [[Pasal_169]]: (1) Penyelenggara wajib setiap saat memiliki Ekuitas
+- [[Pasal_170]]: Penyelenggara wajib menjaga rasio Ekuitas dibandingkan
+- [[Pasal_171]]: (1) Kualitas Pendanaan Penyelenggara terdiri atas:
+- [[Pasal_172]]: (1) Penilaian terhadap faktor kualitas Pendanaan
+- [[Pasal_173]]: Penilaian terhadap faktor rentabilitas sebagaimana
+- [[Pasal_174]]: (1) Penilaian terhadap faktor likuiditas sebagaimana
+- [[Pasal_175]]: Penilaian terhadap faktor manajemen sebagaimana
+- [[Pasal_176]]: (1) Setiap faktor penilaian Tingkat Kesehatan sebagaimana
+- [[Pasal_177]]: (1) Peringkat komposit ditetapkan berdasarkan analisis
+- [[Pasal_178]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_179]]: (1) Penyelenggara menerapkan prinsip pelindungan
+- [[Pasal_180]]: (1) Penyelenggara menerapkan program anti pencucian
+- [[Pasal_181]]: (1) Penyelenggara menyusun dan menerapkan strategi
+- [[Pasal_182]]: (1) Penyelenggara dapat membuka kantor cabang.
+- [[Pasal_183]]: ayat (1), Pasal 186 ayat (1), ayat (4), Pasal 187 ayat (1),
+- [[Pasal_184]]: (1) Penyelenggara dapat melakukan perubahan nama
+- [[Pasal_185]]: (1) Penyelenggara wajib melaporkan perubahan alamat
+- [[Pasal_186]]: disampaikan melalui sistem jaringan komunikasi data
+- [[Pasal_187]]: (1) Penyelenggara wajib menyampaikan data transaksi
+- [[Pasal_188]]: ayat (4), ayat (5), ayat (6), ayat (9), ayat (10), dan/atau
+- [[Pasal_189]]: (1) Penyelenggara wajib menyusun laporan sebagaimana
+- [[Pasal_190]]: a. peringatan tertulis;
+- [[Pasal_191]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_192]]: (1) Penyelenggara wajib menerapkan prinsip tata kelola
+- [[Pasal_193]]: (1) Otoritas Jasa Keuangan melakukan penilaian terhadap
+- [[Pasal_194]]: (1) Penyelenggara wajib menyusun laporan penerapan tata
+- [[Pasal_195]]: Pelaksanaan prinsip tata kelola perusahaan yang baik
+- [[Pasal_196]]: (1) Penyelenggara wajib memiliki paling sedikit 2 (dua)
+- [[Pasal_197]]: (1) Penyelenggara wajib memiliki paling sedikit 1 (satu)
+- [[Pasal_198]]: (1) Penyelenggara berdasarkan Prinsip Syariah wajib
+- [[Pasal_199]]: (1) Penyelenggara wajib menyusun pedoman
+- [[Pasal_200]]: (1) Penyelenggara wajib memiliki unit audit internal yang
+- [[Pasal_201]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_202]]: (1) Penyelenggara wajib menerapkan Manajemen Risiko
+- [[Pasal_203]]: (1) Penyelenggara wajib:
+- [[Pasal_204]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_205]]: (1) Otoritas Jasa Keuangan memiliki kewenangan untuk
+- [[Pasal_206]]: (1) Status pengawasan Penyelenggara ditetapkan oleh
+- [[Pasal_207]]: Penetapan Penyelenggara dalam status pengawasan intensif
+- [[Pasal_208]]: (1) Penyelenggara dengan status pengawasan intensif
+- [[Pasal_209]]: pengawasan intensif atau pengawasan khusus jika:
+- [[Pasal_210]]: (1) Penyelenggara dengan status pengawasan khusus
+- [[Pasal_211]]: Penyelenggara dengan status pengawasan khusus
+- [[Pasal_212]]: (1) Dalam hal Otoritas Jasa Keuangan menetapkan
+- [[Pasal_213]]: Tindak lanjut status pengawasan dan tata cara
+- [[Pasal_214]]: (1) Permohonan perizinan, permohonan persetujuan dan
+- [[Pasal_215]]: (1) Penyelenggara wajib menetapkan pemilik manfaat dari
+- [[Pasal_216]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_217]]: Otoritas Jasa Keuangan berdasarkan pertimbangan
+- [[Pasal_218]]: (1) Otoritas Jasa Keuangan berwenang meminta
+- [[Pasal_219]]: (1) Penyelenggara yang melanggar ketentuan sebagaimana
+- [[Pasal_220]]: Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
+- [[Pasal_221]]: (1) Izin usaha Penyelenggara yang telah diterbitkan
+- [[Pasal_222]]: Ketentuan terkait Modal Disetor sebagaimana dimaksud
+- [[Pasal_223]]: (1) Sertifikat kompetensi kerja di bidang teknologi finansial
+- [[Pasal_224]]: (1) Dalam hal Penyelenggara telah menggunakan tenaga
+- [[Pasal_225]]: (1) Asosiasi yang telah ditunjuk secara resmi oleh Otoritas
+- [[Pasal_226]]: Penyelenggara yang telah memperoleh izin usaha pada saat
+- [[Pasal_227]]: (1) Perjanjian Pendanaan yang telah ditandatangani
+- [[Pasal_228]]: (1) Produk asuransi kredit dan/atau penjaminan kredit
+- [[Pasal_229]]: Penyelenggara yang telah memperoleh izin usaha pada saat
+- [[Pasal_230]]: Penyelenggara yang telah memperoleh izin usaha pada saat
+- [[Pasal_231]]: (1) Ketentuan mengenai persyaratan Tingkat Kesehatan
+- [[Pasal_232]]: Penyelenggara yang telah memperoleh izin usaha sebelum
+- [[Pasal_233]]: Penyelenggara yang telah memperoleh izin usaha pada saat
+- [[Pasal_234]]: (1) Sanksi administratif yang telah dikenakan terhadap
+- [[Pasal_235]]: Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
+- [[Pasal_236]]: Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
+- [[Pasal_237]]: Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
+- [[Pasal_252]]: 282 ayat (3) Undang-Undang Nomor 4 Tahun 2023 tentang

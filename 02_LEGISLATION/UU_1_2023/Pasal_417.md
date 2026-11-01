@@ -1,0 +1,22 @@
+---
+id: UU_1_2023_Pasal_417
+uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum
+  Pidana
+kode_uu: UU_1_2023
+pasal: '417'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/pidana
+- uu/uu_1_2023
+---
+
+# Pasal 417 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
+
+## Batang Tubuh
+
+Setiap Orang yang memberi atau be{anji akan memberi hadiah wibawa yang timbul dari hubungan keadaan atau dengan penyesatan menggerakkan orang yang diketahui atau patut diduga Anak, untuk melakukan perbuatan cabul atau membiarkan terhadap dirinya dilakukan perbuatan cabul, dipidana dengan pidana penjara paling lama 9 (sembilan) tahun.
+
+## Penjelasan Resmi
+
+Cukup jelas.

@@ -1,0 +1,76 @@
+---
+id: UU_21_2008_Pasal_52
+uu_induk: Perbankan Syariah
+kode_uu: UU_21_2008
+pasal: '52'
+status: BERLAKU_AKTIF
+substantive_explanation: true
+tags:
+- hukum/keuangan
+- uu/uu_21_2008
+---
+
+# Pasal 52 — Perbankan Syariah
+
+## Batang Tubuh
+
+(2) Persyaratan dan tata cara pemeriksaan sebagaimana
+dimaksud pada ayat (1) diatur dengan Peraturan Bank
+Indonesia.
+
+## Penjelasan Resmi
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
+
+Huruf a
+
+Yang dimaksud dengan “data/dokumen” adalah segala
+jenis data atau dokumen, baik tertulis maupun
+elektronis, yang terkait dengan objek pengawasan
+Bank Indonesia.
+
+Yang dimaksud dengan “setiap tempat yang terkait
+dengan Bank” adalah setiap bagian ruangan dari
+kantor bank dan tempat lain di luar bank yang terkait
+dengan objek pengawasan Bank Indonesia.
+
+Huruf b
+
+Yang dimaksud dengan “data/dokumen” adalah segala
+jenis data atau dokumen, baik tertulis maupun
+elektronis yang terkait dengan objek pengawasan Bank
+Indonesia.
+
+Yang dimaksud dengan “setiap pihak” adalah orang
+atau badan hukum yang memiliki pengaruh terhadap
+pengambilan keputusan dan operasional Bank, baik
+langsung maupun tidak langsung, antara lain, ultimate
+_shareholder atau pihak tertentu yang namanya tidak_
+tercantum sebagai pegawai, pengurus atau pemegang
+saham bank tetapi dapat memengaruhi kegiatan
+operasional bank atau keputusan manajemen bank.
+
+Huruf c . . .
+
+-----
+
+ - 60 
+Huruf c
+
+Yang dimaksud dengan “rekening Simpanan maupun
+rekening Pembiayaan” adalah rekening-rekening, baik
+yang ada pada Bank yang diawasi/diperiksa maupun
+pada Bank lain, yang terkait dengan objek
+pengawasan/pemeriksaan Bank Indonesia.
+
+Ayat (4)
+
+Cukup jelas.

@@ -1,0 +1,23 @@
+---
+id: UU_20_2025_Pasal_336
+uu_induk: KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum
+  Acara Pidana
+kode_uu: UU_20_2025
+pasal: '336'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/pidana
+- uu/uu_20_2025
+---
+
+# Pasal 336 — KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Acara Pidana
+
+## Batang Tubuh
+
+**Pelaksanaan putusan harus dihadiri oleh hakim pengawas**
+dan [jaksa ]yang menangani perkara.
+
+## Penjelasan Resmi
+
+**Cukup [jelas.]**

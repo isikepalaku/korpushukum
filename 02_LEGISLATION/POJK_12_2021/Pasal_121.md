@@ -1,0 +1,25 @@
+---
+id: POJK_12_2021_Pasal_121
+uu_induk: Bank Umum
+kode_uu: POJK_12_2021
+pasal: '121'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/keuangan
+- uu/pojk_12_2021
+---
+
+# Pasal 121 — Bank Umum
+
+## Batang Tubuh
+
+KPBLN wajib melaporkan pemindahan alamat KPBLN
+
+kepada OJK paling lama 10 (sepuluh) hari kerja setelah
+
+tanggal efektif pelaksanaan pemindahan alamat KPBLN.
+
+## Penjelasan Resmi
+
+Cukup jelas.

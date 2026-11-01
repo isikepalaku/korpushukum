@@ -1,0 +1,131 @@
+---
+id: MOC_UU_8_1995
+judul: "Map of Content - Pasar Modal"
+kode_uu: UU_8_1995
+type: moc
+tags: [moc, hukum/keuangan, uu/uu_8_1995]
+last_updated: 2026-11-01
+---
+
+# Pasar Modal (UU_8_1995)
+
+> Map of Content untuk penelusuran ringkas pasal hukum oleh AI/LLM.
+
+## Daftar Pasal
+
+- [[Pasal_1]]: 1995 tentang Perseroan Terbatas.
+- [[Pasal_2]]: Menteri menetapkan kebijaksanaan umum di bidang
+- [[Pasal_3]]: ```
+- [[Pasal_4]]: ```
+- [[Pasal_5]]: Dalam melaksanakan ketentuan sebagaimana dimaksud dalam Pasal 3
+- [[Pasal_6]]: (1) Yang dapat menyelenggarakan kegiatan usaha sebagai Bursa Efek
+- [[Pasal_7]]: (1) Bursa Efek didirikan dengan tujuan menyelenggarakan perdagangan
+- [[Pasal_8]]: Yang dapat menjadi pemegang saham Bursa Efek
+- [[Pasal_9]]: (1) Bursa Efek wajib menetapkan peraturan mengenai keanggotaan,
+- [[Pasal_10]]: ```
+- [[Pasal_11]]: Peraturan yang wajib dibuat oleh Bursa Efek,
+- [[Pasal_12]]: (1) Bursa Efek wajib mempunyai satuan pemeriksa yang bertugas
+- [[Pasal_13]]: dan Pasal 64 diancam dengan pidana penjara paling lama 5 (lima)
+- [[Pasal_14]]: (1) Lembaga Kliring dan Penjaminan didirikan dengan tujuan
+- [[Pasal_15]]: (1) Yang dapat menjadi pemegang saham Lembaga Kliring dan
+- [[Pasal_16]]: (1) Lembaga Kliring dan Penjaminan wajib menetapkan peraturan
+- [[Pasal_17]]: Peraturan yang wajib ditetapkan oleh Lembaga
+- [[Pasal_18]]: (1) Reksa Dana dapat berbentuk:
+- [[Pasal_19]]: (1) Pemegang saham Reksa Dana terbuka dapat menjual kembali
+- [[Pasal_20]]: (1) Manajer Investasi sebagai pengelola Reksa Dana terbuka berbentuk
+- [[Pasal_21]]: (1) Pengelolaan Reksa Dana, baik yang berbentuk Perseroan maupun
+- [[Pasal_22]]: Manajer Investasi Reksa Dana terbuka berbentuk
+- [[Pasal_23]]: Nilai saham Reksa Dana terbuka berbentuk
+- [[Pasal_24]]: (1) Reksa Dana dilarang menerima dan atau memberikan pinjaman
+- [[Pasal_25]]: (1) Semua kekayaan Reksa Dana wajib disimpan pada Bank Kustodian.
+- [[Pasal_26]]: (1) Kontrak penyimpanan kekayaan Reksa Dana berbentuk Perseroan
+- [[Pasal_27]]: (1) Manajer Investasi wajib dengan itikad baik dan penuh tanggung
+- [[Pasal_28]]: (1) Saham Reksa Dana terbuka berbentuk Perseroan diterbitkan tanpa
+- [[Pasal_29]]: (1) Reksa Dana yang berbentuk Perseroan tidak diwajibkan untuk
+- [[Pasal_30]]: (1) Yang dapat melakukan kegiatan usaha sebagai Perusahaan Efek
+- [[Pasal_31]]: Perusahaan Efek bertanggung jawab terhadap segala
+- [[Pasal_32]]: (1) Yang dapat melakukan kegiatan sebagai Wakil Penjamin Emisi
+- [[Pasal_33]]: (1) Orang perseorangan yang memiliki izin untuk bertindak sebagai
+- [[Pasal_34]]: (1) Yang dapat melakukan kegiatan sebagai Penasihat Investasi adalah
+- [[Pasal_35]]: Perusahaan Efek atau Penasihat Investasi dilarang:
+- [[Pasal_36]]: ```
+- [[Pasal_37]]: Perusahaan Efek yang menerima Efek dari nasabahnya wajib:
+- [[Pasal_38]]: Perusahaan Efek yang bertindak sebagai Perantara
+- [[Pasal_39]]: Penjamin Emisi Efek wajib mematuhi semua
+- [[Pasal_40]]: Perusahaan Efek yang bertindak sebagai Penjamin
+- [[Pasal_41]]: Dalam hal Perusahaan Efek bertindak sebagai
+- [[Pasal_42]]: Perusahaan Efek yang bertindak sebagai Manajer
+- [[Pasal_43]]: (1) Yang dapat menyelenggarakan kegiatan usaha sebagai Kustodian
+- [[Pasal_44]]: (1) Kustodian yang menyelenggarakan kegiatan penitipan bertanggung
+- [[Pasal_45]]: Kustodian hanya dapat mengeluarkan Efek atau dana
+- [[Pasal_46]]: Kustodian wajib memberikan ganti rugi kepada
+- [[Pasal_47]]: (1) Kustodian atau Pihak terafiliasinya dilarang memberikan
+- [[Pasal_48]]: (1) Yang dapat menyelenggarakan kegiatan usaha sebagai Biro
+- [[Pasal_49]]: (1) Pendaftaran pemilikan Efek dalam buku daftar pemegang Efek
+- [[Pasal_50]]: (1) Kegiatan usaha sebagai Wali Amanat dapat dilakukan oleh:
+- [[Pasal_51]]: (1) Wali Amanat dilarang mempunyai hubungan Afiliasi dengan
+- [[Pasal_52]]: Emiten dan Wali Amanat wajib membuat kontrak
+- [[Pasal_53]]: Wali Amanat wajib memberikan ganti rugi kepada
+- [[Pasal_54]]: Wali Amanat dilarang merangkap sebagai penanggung
+- [[Pasal_55]]: (1) Penyelesaian Transaksi Bursa dapat dilaksanakan dengan
+- [[Pasal_56]]: (1) Efek dalam Penitipan Kolektif pada Lembaga Penyimpanan dan
+- [[Pasal_57]]: Dalam Penitipan Kolektif, Efek dari jenis dan
+- [[Pasal_58]]: (1) Kustodian wajib mencatat mutasi kepemilikan Efek dalam
+- [[Pasal_59]]: (1) Pemegang rekening sewaktu-waktu berhak menarik dana dan atau
+- [[Pasal_60]]: (1) Pemegang rekening yang efeknya tercatat dalam Penitipan Kolektif
+- [[Pasal_61]]: Efek dalam Penitipan Kolektif, kecuali Efek atas
+- [[Pasal_62]]: Anggaran dasar Emiten wajib memuat ketentuan
+- [[Pasal_63]]: Ketentuan mengenai Penitipan Kolektif diatur
+- [[Pasal_64]]: (1) Profesi Penunjang Pasar Modal terdiri dari:
+- [[Pasal_65]]: (1) Pendaftaran Profesi Penunjang Pasar Modal di Bapepam menjadi
+- [[Pasal_66]]: Setiap Profesi Penunjang Pasar Modal wajib
+- [[Pasal_67]]: Dalam melakukan kegiatan usaha di bidang Pasar
+- [[Pasal_68]]: Akuntan yang terdaftar pada Bapepam yang memeriksa laporan keuangan
+- [[Pasal_69]]: (1) Laporan keuangan yang disampaikan kepada Bapepam wajib
+- [[Pasal_70]]: (1) Yang dapat melakukan Penawaran Umum hanyalah Emiten yang
+- [[Pasal_71]]: Tidak satu Pihak pun dapat menjual Efek dalam
+- [[Pasal_72]]: (1) Penjamin Pelaksana Emisi Efek ditunjuk oleh Emiten.
+- [[Pasal_73]]: ```
+- [[Pasal_74]]: (1) Pernyataan Pendaftaran menjadi efektif pada hari ke-45 (keempat
+- [[Pasal_75]]: **(1) Bapepam wajib memperhatikan kelengkapan, kecukupan,**
+- [[Pasal_76]]: ```
+- [[Pasal_77]]: Ketentuan mengenai persyaratan dan tata cara
+- [[Pasal_78]]: (1) Setiap Prospektus dilarang memuat keterangan yang tidak benar
+- [[Pasal_79]]: (1) Setiap pengumuman dalam media massa yang berhubungan dengan
+- [[Pasal_80]]: ```
+- [[Pasal_81]]: (1) Setiap Pihak yang menawarkan atau menjual Efek dengan
+- [[Pasal_82]]: ```
+- [[Pasal_83]]: ```
+- [[Pasal_84]]: Emiten atau Perusahaan Publik yang melakukan
+- [[Pasal_85]]: Bursa Efek, Lembaga Kliring dan Penjaminan,
+- [[Pasal_86]]: (1) Emiten yang Pernyataan Pendaftarannya telah menjadi efektif atau
+- [[Pasal_87]]: (1) Direktur atau komisaris Emiten atau Perusahaan Publik wajib
+- [[Pasal_88]]: ```
+- [[Pasal_89]]: (1) Informasi yang wajib disampaikan oleh setiap Pihak kepada
+- [[Pasal_90]]: Dalam kegiatan perdagangan Efek, setiap Pihak dilarang secara langsung
+- [[Pasal_91]]: Setiap Pihak dilarang melakukan tindakan, baik
+- [[Pasal_92]]: Setiap Pihak, baik sendiri-sendiri maupun
+- [[Pasal_93]]: dan Pasal 98 diancam dengan pidana penjara paling
+- [[Pasal_94]]: ```
+- [[Pasal_95]]: Orang dalam dari Emiten atau Perusahaan Publik yang mempunyai
+- [[Pasal_96]]: Orang dalam sebagaimana dimaksud dalam Pasal 95 dilarang:
+- [[Pasal_97]]: (1) Setiap Pihak yang berusaha untuk memperoleh informasi orang
+- [[Pasal_98]]: Perusahaan Efek yang memiliki informasi orang dalam mengenai Emiten
+- [[Pasal_99]]: ```
+- [[Pasal_100]]: lama 1 (satu) tahun dan denda paling banyak
+- [[Pasal_101]]: (1) Dalam hal Bapepam berpendapat pelanggaran terhadap
+- [[Pasal_102]]: (1) Bapepam mengenakan sanksi administratif atas pelanggaran
+- [[Pasal_103]]: (1) Setiap Pihak yang melakukan kegiatan di Pasar Modal tanpa izin,
+- [[Pasal_104]]: BABXVI
+- [[Pasal_105]]: ```
+- [[Pasal_106]]: (1) Setiap Pihak yang melakukan pelanggaran atas ketentuan
+- [[Pasal_107]]: Setiap Pihak yang dengan sengaja bertujuan menipu
+- [[Pasal_108]]: Ancaman pidana penjara atau pidana kurungan dan
+- [[Pasal_109]]: Setiap Pihak yang tidak mematuhi atau menghambat
+- [[Pasal_110]]: (1) Tindak pidana sebagaimana dimaksud dalam Pasal 103 ayat (2),
+- [[Pasal_111]]: Setiap Pihak yang menderita kerugian sebagai
+- [[Pasal_112]]: Bapepam dan Bank Indonesia wajib mengadakan
+- [[Pasal_113]]: Setiap perusahaan yang telah memenuhi kriteria
+- [[Pasal_114]]: Dengan berlakunya Undang-undang ini, maka:
+- [[Pasal_115]]: Dengan berlakunya Undang-undang ini,
+- [[Pasal_116]]: Undang-undang ini mulai berlaku pada tanggal 1

@@ -1,0 +1,21 @@
+---
+id: POJK_29_2025_Pasal_5
+uu_induk: Perubahan atas POJK 39-2024 tentang Pergadaian
+kode_uu: POJK_29_2025
+pasal: '5'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/keuangan
+- uu/pojk_29_2025
+---
+
+# Pasal 5 — Perubahan atas POJK 39-2024 tentang Pergadaian
+
+## Batang Tubuh
+
+
+
+## Penjelasan Resmi
+
+Cukup jelas.

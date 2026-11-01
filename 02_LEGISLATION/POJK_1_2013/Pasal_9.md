@@ -1,0 +1,21 @@
+---
+id: POJK_1_2013_Pasal_9
+uu_induk: Perlindungan Konsumen Sektor Jasa Keuangan
+kode_uu: POJK_1_2013
+pasal: '9'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/keuangan
+- uu/pojk_1_2013
+---
+
+# Pasal 9 — Perlindungan Konsumen Sektor Jasa Keuangan
+
+## Batang Tubuh
+
+Pelaku Usaha Jasa Keuangan wajib memberikan pemahaman kepada Konsumen mengenai hak dan kewajiban Konsumen.
+
+## Penjelasan Resmi
+
+Cukup jelas.

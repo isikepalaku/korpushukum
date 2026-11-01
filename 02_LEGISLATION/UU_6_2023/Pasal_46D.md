@@ -1,0 +1,23 @@
+---
+id: UU_6_2023_Pasal_46D
+uu_induk: Cipta Kerja
+kode_uu: UU_6_2023
+pasal: 46D
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/tipidter
+- uu/uu_6_2023
+---
+
+# Pasal 46D — Cipta Kerja
+
+## Batang Tubuh
+
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
+
+## Penjelasan Resmi
+
+```
+
+```

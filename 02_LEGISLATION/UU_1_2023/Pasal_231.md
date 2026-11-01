@@ -1,0 +1,28 @@
+---
+id: UU_1_2023_Pasal_231
+uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum
+  Pidana
+kode_uu: UU_1_2023
+pasal: '231'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/pidana
+- uu/uu_1_2023
+---
+
+# Pasal 231 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
+
+## Batang Tubuh
+
+Setiap Orang yang menodai bendera kebangsaan dari negara sahabat, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori III.
+
+**BAB IV**
+
+**TINDAK PIDANA TERHADAP PEI{YELENGGARAAN RAPAT**
+
+**LEMBAGA LEGISLATIF DAN BADAN PEMERINTAH**
+
+## Penjelasan Resmi
+
+Cukup jelas.

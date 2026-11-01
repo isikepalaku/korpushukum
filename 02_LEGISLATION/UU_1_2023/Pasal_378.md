@@ -1,0 +1,24 @@
+---
+id: UU_1_2023_Pasal_378
+uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum
+  Pidana
+kode_uu: UU_1_2023
+pasal: '378'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/pidana
+- uu/uu_1_2023
+---
+
+# Pasal 378 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
+
+## Batang Tubuh
+
+Setiap Orang yang menerima mata uang atau uang kertas yang dikeluarkan oleh negara yang kemudian diketahui tidak asli, dipalsu atau dirusak, namun tetap mengedarkannya, kecuali yang ditentukan dalam Pasal 375 dan Pasal 377, dipidana dengan pidana penjara paling lama 9 (sembilan) Bulan atau pidana denda paling banyak kategori II.
+
+**EITI;EIEEN] REFUELIK INDONESIA**
+
+## Penjelasan Resmi
+
+Cukup jelas.

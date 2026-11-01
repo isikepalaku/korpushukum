@@ -1,0 +1,170 @@
+---
+id: MOC_POJK_7_2024
+judul: "Map of Content - Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah"
+kode_uu: POJK_7_2024
+type: moc
+tags: [moc, hukum/keuangan, uu/pojk_7_2024]
+last_updated: 2026-11-01
+---
+
+# Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah (POJK_7_2024)
+
+> Map of Content untuk penelusuran ringkas pasal hukum oleh AI/LLM.
+
+## Daftar Pasal
+
+- [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
+- [[Pasal_2]]: a. persetujuan prinsip; dan
+- [[Pasal_3]]: (1) BPR dan BPR Syariah didirikan oleh:
+- [[Pasal_4]]: BPR dan BPR Syariah berbentuk badan hukum:
+- [[Pasal_5]]: BPR atau BPR Syariah harus memiliki anggaran dasar yang
+- [[Pasal_6]]: (1), Pasal 17 ayat (1), Pasal 18 ayat (1), Pasal 19 ayat (1),
+- [[Pasal_7]]: (1) Modal disetor sebagaimana dimaksud dalam Pasal 6 ayat
+- [[Pasal_8]]: Pendirian BPR atau BPR Syariah sebagaimana dimaksud dalam
+- [[Pasal_9]]: (1) Permohonan untuk memperoleh persetujuan prinsip
+- [[Pasal_10]]: (1) Persetujuan prinsip sebagaimana dimaksud dalam Pasal 9
+- [[Pasal_11]]: (1) Permohonan untuk memperoleh izin usaha sebagaimana
+- [[Pasal_12]]: (1) BPR atau BPR Syariah yang telah memperoleh izin usaha
+- [[Pasal_13]]: (1) BPR yang telah memperoleh izin usaha dari OJK dapat
+- [[Pasal_14]]: dikenai sanksi administratif berupa:
+- [[Pasal_15]]: (1) Permohonan untuk memperoleh perubahan izin usaha
+- [[Pasal_16]]: dengan Peraturan OJK mengenai pelaporan BPR atau BPR
+- [[Pasal_17]]: (1) BPR atau BPR Syariah hasil perubahan izin usaha dari
+- [[Pasal_18]]: (1) BPR atau BPR Syariah hasil perubahan izin usaha dari
+- [[Pasal_19]]: (1) BPR atau BPR Syariah hasil perubahan izin usaha dari
+- [[Pasal_20]]: BPR atau BPR Syariah hasil perubahan izin usaha dari BUK
+- [[Pasal_21]]: Pelaksanaan penghentian kegiatan usaha sebagaimana
+- [[Pasal_22]]: (1) BPR atau BPR Syariah hasil perubahan izin usaha dari
+- [[Pasal_23]]: (1) Perubahan izin usaha sebagaimana dimaksud dalam Pasal
+- [[Pasal_24]]: BUK atau BUS yang ditetapkan menjadi BPR atau BPR Syariah
+- [[Pasal_25]]: Ketentuan sebagaimana dimaksud dalam Pasal 16 sampai
+- [[Pasal_26]]: (1) BPR atau BPR Syariah yang melanggar ketentuan
+- [[Pasal_27]]: (1) BUK atau BUS yang melanggar ketentuan sebagaimana
+- [[Pasal_28]]: BPR Syariah dikenai sanksi administratif berupa:
+- [[Pasal_29]]: Pemilik BPR atau BPR Syariah yang berbentuk badan hukum
+- [[Pasal_30]]: (1) Kepemilikan BPR atau BPR Syariah oleh badan hukum
+- [[Pasal_31]]: dan/atau Pasal 37 ayat (1) dikenai sanksi administratif
+- [[Pasal_32]]: Pemilik BPR atau BPR Syariah dilarang menarik kembali modal
+- [[Pasal_33]]: (1) Pemilik BPR atau BPR Syariah harus memenuhi
+- [[Pasal_34]]: (1) Dalam hal terdapat perubahan pemilik, anggota direksi,
+- [[Pasal_35]]: (1) BPR atau BPR Syariah dapat melakukan penawaran
+- [[Pasal_36]]: BPR atau BPR Syariah wajib mengadministrasikan dokumen
+- [[Pasal_37]]: (1) BPR atau BPR Syariah wajib memperoleh persetujuan OJK
+- [[Pasal_38]]: (1) BPR atau BPR Syariah menyampaikan permohonan
+- [[Pasal_39]]: (1) BPR atau BPR Syariah harus menyelenggarakan RUPS
+- [[Pasal_40]]: (2) dikenai sanksi administratif berupa denda sebesar
+- [[Pasal_41]]: (1) BPR atau BPR Syariah wajib menyampaikan laporan:
+- [[Pasal_42]]: (1) BPR atau BPR Syariah wajib menyampaikan laporan
+- [[Pasal_43]]: (1) BPR atau BPR Syariah yang melanggar ketentuan
+- [[Pasal_44]]: 48 ayat (2), Pasal 52 ayat (4), dan/atau Pasal 55 ayat (2),
+- [[Pasal_45]]: (1) BPR atau BPR Syariah wajib memiliki paling sedikit 2 (dua)
+- [[Pasal_46]]: (1) Anggota Direksi harus memiliki pendidikan formal paling
+- [[Pasal_47]]: (1) BPR Syariah wajib memiliki DPS yang berkedudukan di
+- [[Pasal_48]]: (1) Anggota Direksi dan anggota Dewan Komisaris, harus
+- [[Pasal_49]]: (1) BPR atau BPR Syariah harus menyelenggarakan RUPS
+- [[Pasal_50]]: (1) Dalam hal BPR atau BPR Syariah telah menyelenggarakan
+- [[Pasal_51]]: (1) Dalam hal terdapat perubahan jabatan anggota Direksi
+- [[Pasal_52]]: (1) BPR atau BPR Syariah wajib menyampaikan laporan
+- [[Pasal_53]]: (1) Pengangkatan kembali anggota Direksi dan anggota
+- [[Pasal_54]]: (1) BPR dan BPR Syariah wajib menyampaikan laporan
+- [[Pasal_55]]: (1) OJK melakukan penelitian terhadap laporan mengenai
+- [[Pasal_56]]: (1) BPR atau BPR Syariah yang melanggar ketentuan
+- [[Pasal_57]]: Jaringan kantor BPR atau BPR Syariah terdiri atas Kantor
+- [[Pasal_58]]: (1) BPR atau BPR Syariah dapat menyediakan Terminal
+- [[Pasal_59]]: (1) BPR atau BPR Syariah dapat melakukan pembukaan
+- [[Pasal_60]]: (1) Wilayah Provinsi Daerah Khusus Ibukota Jakarta,
+- [[Pasal_61]]: (1) BPR atau BPR Syariah harus menetapkan hari dan jam
+- [[Pasal_62]]: (3), Pasal 69 ayat (1), Pasal 71 ayat (5), Pasal 72 ayat (2),
+- [[Pasal_63]]: (1) BPR atau BPR Syariah menyampaikan permohonan untuk
+- [[Pasal_64]]: (1) BPR atau BPR Syariah harus melaksanakan pembukaan
+- [[Pasal_65]]: (1) BPR atau BPR Syariah wajib memperoleh izin OJK untuk
+- [[Pasal_66]]: (1) BPR atau BPR Syariah menyampaikan permohonan untuk
+- [[Pasal_67]]: (1) BPR atau BPR Syariah harus melaksanakan pembukaan
+- [[Pasal_68]]: (1) Sentra Keuangan Khusus hanya dapat melakukan
+- [[Pasal_69]]: (1) BPR atau BPR Syariah wajib memperoleh izin OJK untuk
+- [[Pasal_70]]: (1) BPR atau BPR Syariah menyampaikan permohonan untuk
+- [[Pasal_71]]: 78 ayat (3), Pasal 81 ayat (5), Pasal 83 ayat (5), dan/atau
+- [[Pasal_72]]: (1) Kantor Kas BPR atau BPR Syariah hanya dapat melakukan
+- [[Pasal_73]]: -----
+- [[Pasal_74]]: (1) BPR atau BPR Syariah wajib memperoleh persetujuan OJK
+- [[Pasal_75]]: (1) BPR atau BPR Syariah menyampaikan permohonan untuk
+- [[Pasal_76]]: (1) BPR atau BPR Syariah harus melaksanakan pemindahan
+- [[Pasal_77]]: (1) BPR atau BPR Syariah wajib mengumumkan rencana
+- [[Pasal_78]]: (1) BPR atau BPR Syariah dapat melakukan pemindahan
+- [[Pasal_79]]: (1) BPR atau BPR Syariah dapat melakukan perubahan status
+- [[Pasal_80]]: (1) BPR atau BPR Syariah wajib memperoleh izin OJK untuk
+- [[Pasal_81]]: dan/atau Pasal 86 ayat (2) dikenai sanksi administratif
+- [[Pasal_82]]: (1) BPR atau BPR Syariah menyampaikan permohonan untuk
+- [[Pasal_83]]: (1) BPR atau BPR Syariah yang memperoleh persetujuan
+- [[Pasal_84]]: (1) BPR atau BPR Syariah wajib memperoleh persetujuan OJK
+- [[Pasal_85]]: denda sebesar Rp100.000,00 (seratus ribu rupiah) per hari
+- [[Pasal_86]]: (1) BPR atau BPR Syariah wajib mengumumkan rencana
+- [[Pasal_87]]: (1) BPR atau BPR Syariah yang melanggar ketentuan
+- [[Pasal_88]]: (1) Perubahan nama BPR atau BPR Syariah dilaksanakan
+- [[Pasal_89]]: berlakunya Peraturan OJK ini.
+- [[Pasal_90]]: (1) BPR atau BPR Syariah wajib mengumumkan perubahan
+- [[Pasal_91]]: (1), BPR atau BPR Syariah dikenai sanksi administratif
+- [[Pasal_92]]: (1) BPR atau BPR Syariah menyampaikan permohonan
+- [[Pasal_93]]: (1) Persetujuan prinsip perubahan bentuk badan hukum BPR
+- [[Pasal_94]]: (1) BPR atau BPR Syariah menyampaikan permohonan
+- [[Pasal_95]]: denda sebesar Rp100.000,00 (seratus ribu rupiah) per hari
+- [[Pasal_96]]: (1) Pembubaran badan hukum lama sebagaimana dimaksud
+- [[Pasal_97]]: (1) BPR atau BPR Syariah yang melanggar ketentuan
+- [[Pasal_98]]: 109 ayat (4), Pasal 114 ayat (1), Pasal 127 ayat (1), Pasal
+- [[Pasal_99]]: (1) Penggabungan atau Peleburan dapat dilakukan antara:
+- [[Pasal_100]]: skema Penggabungan atau Peleburan.
+- [[Pasal_101]]: (1) LKM yang akan melakukan Penggabungan dengan BPR
+- [[Pasal_102]]: (1) BPR atau BPR Syariah hasil Penggabungan atau Peleburan
+- [[Pasal_103]]: (1) Direksi masing-masing BPR, BPR Syariah, dan/atau LKM
+- [[Pasal_104]]: (1) Direksi BPR, BPR Syariah, dan/atau LKM yang akan
+- [[Pasal_105]]: (1) Direksi BPR, BPR Syariah, dan/atau LKM menyampaikan
+- [[Pasal_106]]: (1) Direksi BPR, BPR Syariah, dan/atau LKM yang akan
+- [[Pasal_107]]: (1) Kreditur dapat mengajukan keberatan kepada BPR, BPR
+- [[Pasal_108]]: (1) Pemegang saham termasuk PSP yang tidak setuju
+- [[Pasal_109]]: (1) Rancangan Penggabungan atau Peleburan harus
+- [[Pasal_110]]: (1) Direksi masing-masing BPR, BPR Syariah, atau LKM yang
+- [[Pasal_111]]: (1) Direksi dari masing-masing BPR, BPR Syariah, atau LKM
+- [[Pasal_112]]: (1) BPR atau BPR Syariah hasil Penggabungan
+- [[Pasal_113]]: Izin Penggabungan atau Peleburan bagi:
+- [[Pasal_114]]: (1) BPR atau BPR Syariah yang telah memperoleh izin
+- [[Pasal_115]]: (1) Pengambilalihan BPR atau BPR Syariah dapat dilakukan
+- [[Pasal_116]]: (1) Perubahan kepemilikan saham BPR atau BPR Syariah
+- [[Pasal_117]]: (1) Direksi BPR atau BPR Syariah yang akan diambil alih dan
+- [[Pasal_118]]: (1) Direksi BPR atau BPR Syariah yang akan diambil alih
+- [[Pasal_119]]: (1) Direksi BPR atau BPR Syariah yang akan diambil alih dan
+- [[Pasal_120]]: (1) Direksi BPR atau BPR Syariah yang akan diambil alih dan
+- [[Pasal_121]]: (1) Kreditur dapat mengajukan keberatan kepada BPR atau
+- [[Pasal_122]]: (1) Pemegang saham termasuk PSP yang tidak setuju
+- [[Pasal_123]]: (1) Rancangan Pengambilalihan sebagaimana dimaksud
+- [[Pasal_124]]: (1) Direksi BPR atau BPR Syariah yang diambil alih dan pihak
+- [[Pasal_125]]: (1) Rancangan Pengambilalihan yang telah disetujui oleh OJK
+- [[Pasal_126]]: Izin Pengambilalihan bagi:
+- [[Pasal_127]]: dengan Peraturan OJK mengenai pelaporan BPR atau BPR
+- [[Pasal_128]]: (1) OJK berwenang memerintahkan BPR atau BPR Syariah
+- [[Pasal_129]]: (1) BPR atau BPR Syariah yang melanggar ketentuan
+- [[Pasal_130]]: pihak utama BPR atau BPR Syariah dikenai sanksi
+- [[Pasal_131]]: (1) Bagi BPR atau BPR Syariah yang telah memenuhi kondisi
+- [[Pasal_132]]: (1) BPR atau BPR Syariah dalam kepemilikan dan/atau
+- [[Pasal_133]]: administratif berupa teguran tertulis.
+- [[Pasal_134]]: (1) Dalam hal PSP memiliki dan/atau mengendalikan BPR
+- [[Pasal_135]]: Dalam hal PSP, BPR, atau BPR Syariah tidak melaksanakan
+- [[Pasal_136]]: (1) OJK memberikan relaksasi kepada BPR atau BPR Syariah
+- [[Pasal_137]]: (1) BPR atau BPR Syariah yang melanggar ketentuan
+- [[Pasal_138]]: BPR Syariah dikenai sanksi administratif berupa:
+- [[Pasal_139]]: dapat dikenai sanksi administratif berupa larangan
+- [[Pasal_140]]: (1) BPR atau BPR Syariah yang melanggar ketentuan
+- [[Pasal_141]]: (1) BPR atau BPR Syariah dapat menyampaikan permohonan
+- [[Pasal_142]]: (1) BPR atau BPR Syariah menyampaikan permohonan
+- [[Pasal_143]]: administratif berupa:
+- [[Pasal_144]]: (1) BPR atau BPR Syariah menyampaikan permohonan
+- [[Pasal_145]]: Status badan hukum BPR atau BPR Syariah berakhir atau
+- [[Pasal_146]]: (1) BPR atau BPR Syariah yang melanggar ketentuan
+- [[Pasal_147]]: BPR atau BPR Syariah dikenai sanksi administratif
+- [[Pasal_148]]: (1) BPR yang berbentuk badan hukum selain Perseroan
+- [[Pasal_149]]: (1) BPR atau BPR Syariah yang melanggar ketentuan
+- [[Pasal_150]]: Pada saat Peraturan OJK ini mulai berlaku, BPR atau BPR
+- [[Pasal_151]]: (1) BPR atau BPR Syariah yang telah memperoleh:
+- [[Pasal_152]]: Penilaian mengenai kriteria kepemilikan dan/atau
+- [[Pasal_153]]: Pada saat Peraturan OJK ini mulai berlaku, Peraturan OJK
+- [[Pasal_154]]: Pada saat Peraturan OJK ini mulai berlaku:
+- [[Pasal_155]]: Peraturan OJK ini mulai berlaku pada tanggal diundangkan.

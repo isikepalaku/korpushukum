@@ -1,0 +1,30 @@
+---
+id: POJK_8_2023_Pasal_48
+uu_induk: Penerapan Program APU, PPT, dan PPPSPM di Sektor Jasa Keuangan
+kode_uu: POJK_8_2023
+pasal: '48'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/keuangan
+- uu/pojk_8_2023
+---
+
+# Pasal 48 — Penerapan Program APU, PPT, dan PPPSPM di Sektor Jasa Keuangan
+
+## Batang Tubuh
+
+(1) Dalam hal terdapat permintaan dari Pusat Pelaporan dan
+Analisis Transaksi Keuangan, PJK wajib melakukan
+penghentian sementara untuk seluruh atau sebagian
+transaksi.
+(2) Penghentian sementara sebagaimana dimaksud pada ayat
+(1), dilaksanakan sesuai dengan peraturan perundangundangan mengenai pencegahan dan pemberantasan
+TPPU.
+
+Bagian Kedelapan
+Penolakan Transaksi dan Penutupan Hubungan Usaha
+
+## Penjelasan Resmi
+
+Cukup jelas.

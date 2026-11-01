@@ -1,0 +1,88 @@
+---
+id: POJK_46_2024_Pasal_56A
+uu_induk: Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaan
+  Infrastruktur, dan Perusahaan Modal Ventura
+kode_uu: POJK_46_2024
+pasal: 56A
+status: BERLAKU_AKTIF
+substantive_explanation: true
+tags:
+- hukum/keuangan
+- uu/pojk_46_2024
+---
+
+# Pasal 56A — Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaan Infrastruktur, dan Perusahaan Modal Ventura
+
+## Batang Tubuh
+
+(1) Direksi wajib menyusun dan menyampaikan
+Neraca Penutupan kepada OJK paling lama 15
+(lima belas) hari kerja sejak tanggal pencabutan
+izin usaha PMV atau PMVS.
+(2) Apabila dalam jangka waktu sebagaimana
+dimaksud pada ayat (1) Neraca Penutupan tidak
+disampaikan kepada OJK, OJK menunjuk
+akuntan publik untuk menyusun Neraca
+Penutupan dengan batas waktu tertentu.
+(3) Batas waktu tertentu sebagaimana dimaksud pada
+ayat (2) paling lama 50 (lima puluh) hari kerja sejak
+tanggal penunjukan akuntan publik tersebut.
+(4) Dalam hal Neraca Penutupan disusun oleh
+akuntan publik sebagaimana dimaksud pada ayat
+(2), tanggung jawab atas Neraca Penutupan
+dimaksud tetap pada Direksi.
+(5) Biaya penyusunan Neraca Penutupan oleh
+akuntan publik sebagaimana dimaksud pada ayat
+(2) menjadi beban PMV atau PMVS.
+(6) OJK menyampaikan neraca penutupan kepada
+Tim Likuidasi setelah menerima neraca penutupan
+yang disusun dan disampaikan oleh:
+a. Direksi sebagaimana dimaksud pada ayat (1);
+atau
+b. akuntan publik sebagaimana dimaksud pada
+ayat (2) dan ayat (3).
+(7) PMV atau PMVS wajib menunjuk penanggung
+jawab dan pegawai yang bertugas sebagai gugus
+tugas dan pusat layanan untuk melayani
+kepentingan Debitur dan masyarakat sampai
+dengan terbentuknya Tim Likuidasi.
+(8) Penunjukan penanggung jawab dan pegawai yang
+bertugas sebagai gugus tugas dan pusat layanan
+sebagaimana dimaksud pada ayat (7) harus
+dilaporkan kepada paling lama 5 (lima) hari kerja
+sejak pemberitahuan pencabutan izin usaha dari
+OJK.
+
+-----
+
+## Penjelasan Resmi
+
+Ayat (1)
+
+Cukup jelas.
+Ayat (2)
+
+Cukup jelas.
+Ayat (3)
+
+Cukup jelas.
+Ayat (4)
+
+Yang dimaksud dengan “tanggung jawab” adalah
+tanggung jawab atas penyusunan, kebenaran isi, dan
+penyampaian Neraca Penutupan.
+
+-----
+
+Ayat (5)
+
+Cukup jelas.
+Ayat (6)
+
+Cukup jelas.
+Ayat (7)
+
+Cukup jelas.
+Ayat (8)
+
+Cukup jelas.

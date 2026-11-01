@@ -1,0 +1,31 @@
+---
+id: UU_8_1995_Pasal_32
+uu_induk: Pasar Modal
+kode_uu: UU_8_1995
+pasal: '32'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/keuangan
+- uu/uu_8_1995
+---
+
+# Pasal 32 — Pasar Modal
+
+## Batang Tubuh
+
+(1) Yang dapat melakukan kegiatan sebagai Wakil Penjamin Emisi
+
+ Efek, Wakil Perantara Pedagang Efek, atau Wakil Manajer
+
+ Investasi hanya orang perseorangan yang telah memperoleh izin
+
+ dari Bapepam.
+
+ (2) Persyaratan dan tata cara perizinan Wakil Perusahaan Efek diatur
+
+ lebih lanjut dengan Peraturan Pemerintah.
+
+## Penjelasan Resmi
+
+Cukup jelas.

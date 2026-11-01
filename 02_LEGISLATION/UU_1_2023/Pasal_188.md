@@ -1,0 +1,30 @@
+---
+id: UU_1_2023_Pasal_188
+uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum
+  Pidana
+kode_uu: UU_1_2023
+pasal: '188'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/pidana
+- uu/uu_1_2023
+---
+
+# Pasal 188 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
+
+## Batang Tubuh
+
+- (1) Setiap Orang yang menyebarkan dan mengembangkan ajaran komunisme/marxisme-leninisme atau paham lain yang bertentangan dengan Pancasila Di Muka Umum dengan lisan atau tulisan termasuk menyebarkan atau mengembangkan melalui media apa pun, dipidana dengan pidana penjara paling lama 4 (empat) tahun.
+2. (21 Dalam hal perbuatan sebagaimana dimaksud pada ayat (1) dilakukan dengan maksud mengubah atau mengganti Pancasila sebagai dasar negara, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun.
+- (3) Dalam hal perbuatan sebagaimana dimaksud pada ayal (1) atau ayat (2) mengakibatkan terjadinya kerusuhan dalam masyarakat atau kerugian Harta Kekayaan, dipidana dengan pidana penjara paling lama l0 (sepuluh) tahun.
+4. l4l Dalam hal perbuatan sebagaimana dimaksud pada ayat (3) mengakibatkan orang menderita Luka Berat, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun.
+- (5) Dalam hal perbuatan sebagaimana dimaksud pada ayat (3) mengakibatkan matinya orang, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
+
+(6)Tidak. . .
+
+- (6) Tidak dipidana orang yang melakukan kajian terhadap ajaran komunisme/marxisme-leninisme atau paham lain yang bertentangan dengan Pancasila untuk kepentingan ilmu pengetahuan.
+
+## Penjelasan Resmi
+
+Cukup jelas.

@@ -1,0 +1,25 @@
+---
+id: UU_17_2023_Pasal_333
+uu_induk: Kesehatan
+kode_uu: UU_17_2023
+pasal: '333'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/tipidter
+- uu/uu_17_2023
+---
+
+# Pasal 333 — Kesehatan
+
+## Batang Tubuh
+
+Ketentuan lebih lanjut mengenai standar, sistem, dan tata kelola Sediaan Farmasi, Alat Kesehatan, dan Perbekalan Kesehatan lainnya pada kondisi darurat, bencana, KLB, atau Wabah diatur dengan Peraturan Pemerintah.
+
+## BAB X
+
+## TEKNOLOGI KESEHATAN
+
+## Penjelasan Resmi
+
+Cukup jelas.

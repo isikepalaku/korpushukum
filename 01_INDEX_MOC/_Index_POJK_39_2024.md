@@ -1,0 +1,266 @@
+---
+id: MOC_POJK_39_2024
+judul: "Map of Content - Pergadaian"
+kode_uu: POJK_39_2024
+type: moc
+tags: [moc, hukum/keuangan, uu/pojk_39_2024]
+last_updated: 2026-11-01
+---
+
+# Pergadaian (POJK_39_2024)
+
+> Map of Content untuk penelusuran ringkas pasal hukum oleh AI/LLM.
+
+## Daftar Pasal
+
+- [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini, yang
+- [[Pasal_2]]: Bentuk badan hukum Perusahaan terdiri atas:
+- [[Pasal_3]]: (1) Perusahaan hanya dapat dimiliki oleh:
+- [[Pasal_4]]: (1) Kepemilikan badan hukum asing sebagaimana
+- [[Pasal_5]]: (1) Perusahaan wajib menetapkan paling sedikit 1 (satu)
+- [[Pasal_6]]: (2) Perusahaan yang akan melakukan perubahan
+- [[Pasal_7]]: (1) Sumber dana penyertaan kepada Perusahaan dilarang:
+- [[Pasal_8]]: (1) Nama Perusahaan harus dicantumkan secara jelas
+- [[Pasal_9]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_10]]: Keuangan.
+- [[Pasal_11]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_12]]: (1) Perusahaan yang telah memperoleh izin usaha dari
+- [[Pasal_13]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_14]]: (1) Perusahaan Pergadaian dapat melakukan konversi
+- [[Pasal_15]]: (1) Untuk memperoleh izin konversi sebagaimana
+- [[Pasal_16]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_16B]]: (1) Perusahaan wajib memenuhi ketentuan BMPP kepada
+- [[Pasal_17]]: (1) Perusahaan Pergadaian yang telah memperoleh izin
+- [[Pasal_18]]: 
+- [[Pasal_19]]: (1) Perusahaan Pergadaian Syariah hasil konversi wajib
+- [[Pasal_20]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_21]]: (1) Perusahaan Pergadaian dapat membentuk UUS.
+- [[Pasal_22]]: (1) Perusahaan Pergadaian yang menyelenggarakan
+- [[Pasal_23]]: 
+- [[Pasal_24]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_25]]: (1) UUS wajib menyelenggarakan kegiatan usaha
+- [[Pasal_26]]: (1) Perusahaan Pergadaian yang memiliki UUS wajib
+- [[Pasal_27]]: 
+- [[Pasal_28]]: (1) Perusahaan Pergadaian dapat melakukan Pemisahan
+- [[Pasal_29]]: (1) Pemisahan UUS dapat dilakukan dalam bentuk:
+- [[Pasal_30]]: (1) Perusahaan Pergadaian Syariah hasil Pemisahan
+- [[Pasal_31]]: (1) Pemisahan UUS harus memenuhi persyaratan:
+- [[Pasal_32]]: ayat (1), Pasal 38 ayat (1), Pasal 41 ayat (1), Pasal 42
+- [[Pasal_33]]: Kewajiban melakukan Pemisahan UUS atas perintah
+- [[Pasal_34]]: (1) Perusahaan Pergadaian yang akan melakukan
+- [[Pasal_35]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_36]]: (1) Perusahaan Pergadaian yang akan melakukan
+- [[Pasal_37]]: (1) Dalam memproses pelaporan sebagaimana dimaksud
+- [[Pasal_38]]: 
+- [[Pasal_39]]: (1) Dalam memproses pelaporan sebagaimana dimaksud
+- [[Pasal_40]]: (1) Perusahaan Pergadaian yang telah memperoleh
+- [[Pasal_41]]: (1) Perusahaan Pergadaian yang melakukan Pemisahan
+- [[Pasal_42]]: (1) Perusahaan Pergadaian Syariah baru hasil Pemisahan
+- [[Pasal_43]]: 
+- [[Pasal_44]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_45]]: administratif berupa:
+- [[Pasal_46]]: (1) Perusahaan wajib melaporkan penghentian kegiatan
+- [[Pasal_47]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_48]]: Perusahaan wajib mencantumkan keterangan atau
+- [[Pasal_49]]: (1) Perusahaan dapat melakukan pembukaan Kantor
+- [[Pasal_50]]: (1) Perusahaan wajib melaporkan pembukaan Kantor
+- [[Pasal_51]]: 
+- [[Pasal_52]]: (1) Perusahaan dilarang membuka atau mengubah alamat
+- [[Pasal_53]]: (1) Perusahaan wajib melaporkan penutupan Kantor
+- [[Pasal_54]]: Ketentuan mengenai persyaratan dan tata cara pembukaan,
+- [[Pasal_55]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_56]]: (1) Perusahaan wajib memiliki paling sedikit 1 (satu) orang
+- [[Pasal_57]]: (1) Perusahaan yang 25% (dua puluh lima persen) atau
+- [[Pasal_58]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_59]]: sanksi administratif berupa:
+- [[Pasal_60]]: (1) Perusahaan yang mempekerjakan tenaga kerja asing
+- [[Pasal_61]]: (1) Calon tenaga kerja asing yang akan menduduki jabatan
+- [[Pasal_62]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_63]]: (1) Setiap perubahan kepemilikan wajib memperoleh
+- [[Pasal_64]]: (1) Perusahaan yang telah mendapatkan izin usaha pada
+- [[Pasal_65]]: 
+- [[Pasal_66]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_67]]: (1) Dalam hal perubahan kepemilikan Perusahaan
+- [[Pasal_68]]: (1) Perusahaan yang mendapatkan persetujuan perubahan
+- [[Pasal_69]]: (1) Perusahaan dapat melakukan perubahan lingkup
+- [[Pasal_70]]: 
+- [[Pasal_71]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_72]]: (1) Dalam hal terjadi pemekaran wilayah provinsi atau
+- [[Pasal_73]]: sanksi administratif berupa:
+- [[Pasal_74]]: 
+- [[Pasal_75]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_76]]: Perusahaan dapat melakukan:
+- [[Pasal_77]]: (1) Perusahaan yang akan melakukan Penggabungan atau
+- [[Pasal_78]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_79]]: (1) Perusahaan yang telah memperoleh persetujuan
+- [[Pasal_80]]: izin pembentukan UUS sebagaimana dimaksud dalam
+- [[Pasal_81]]: 
+- [[Pasal_82]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_83]]: (1) Perusahaan hasil Penggabungan wajib melaporkan
+- [[Pasal_84]]: a. analisis dan penelitian atas kelengkapan dokumen
+- [[Pasal_85]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_86]]: 
+- [[Pasal_87]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_88]]: (1) Perusahaan wajib terdaftar sebagai anggota Asosiasi.
+- [[Pasal_89]]: (1) Asosiasi harus mendapat persetujuan tertulis dari
+- [[Pasal_90]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
+- [[Pasal_91]]: (1) Asosiasi wajib melaporkan setiap perubahan:
+- [[Pasal_92]]: (1) Asosiasi berperan membangun pengawasan berbasis
+- [[Pasal_93]]: administratif berupa:
+- [[Pasal_94]]: (1) Asosiasi wajib menyampaikan laporan tahunan kepada
+- [[Pasal_95]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_96]]: (1) Asosiasi yang melanggar ketentuan sebagaimana
+- [[Pasal_97]]: (1) Pencabutan izin usaha Perusahaan dilakukan oleh
+- [[Pasal_98]]: (1) Otoritas Jasa Keuangan merupakan satu-satunya
+- [[Pasal_99]]: 
+- [[Pasal_100]]: 103 ayat (1), ayat (7), Pasal 104 ayat (1), ayat (10),
+- [[Pasal_101]]: (1) Perusahaan wajib melaporkan pelaksanaan kewajiban
+- [[Pasal_102]]: (1) Perusahaan harus menghentikan kegiatan usaha sejak
+- [[Pasal_103]]: (1) Direksi wajib menyusun dan menyampaikan Neraca
+- [[Pasal_104]]: (1) Perusahaan yang dicabut izin usahanya wajib
+- [[Pasal_105]]: (1) Dalam Pembubaran, Tim Likuidasi yang dibentuk oleh
+- [[Pasal_106]]: (1) Apabila dalam jangka waktu sebagaimana dalam Pasal
+- [[Pasal_107]]: Perusahaan disebut Perusahaan dalam Likuidasi dan wajib
+- [[Pasal_108]]: -----
+- [[Pasal_109]]: a. mewakili Perusahaan dalam Likuidasi yang berkaitan
+- [[Pasal_110]]: Dalam melaksanakan tugas sebagaimana dimaksud dalam
+- [[Pasal_111]]: (3), Pasal 165 ayat (2), Pasal 189 ayat (2), dan/atau
+- [[Pasal_112]]: (1) Anggota Tim Likuidasi untuk setiap Perusahaan dalam
+- [[Pasal_113]]: (1) Penunjukan Tim Likuidasi dilakukan dengan
+- [[Pasal_114]]: (1) Dalam hal anggota Tim Likuidasi dibentuk oleh RUPS,
+- [[Pasal_115]]: (1) Anggota Tim Likuidasi diberikan remunerasi yang
+- [[Pasal_116]]: (1) Tim Likuidasi menyusun rencana kerja dan anggaran
+- [[Pasal_117]]: (1) Rencana kerja dan anggaran biaya sebagaimana
+- [[Pasal_118]]: (1) Dalam melaksanakan tugas menyelesaikan hal yang
+- [[Pasal_119]]: Dalam pemberesan aset dan kewajiban Perusahaan
+- [[Pasal_120]]: (1) Setelah menerima Neraca Penutupan dari Otoritas Jasa
+- [[Pasal_121]]: (1) Tim Likuidasi melakukan inventarisasi aset dan
+- [[Pasal_122]]: (1) Tim Likuidasi menyusun Neraca Sementara Likuidasi
+- [[Pasal_123]]: (1) Pencairan aset tidak bermasalah sebagaimana
+- [[Pasal_124]]: Seluruh biaya pelaksanaan Likuidasi yang tercantum dalam
+- [[Pasal_125]]: (1) Otoritas Jasa Keuangan melakukan pengawasan atas
+- [[Pasal_126]]: (1) Tim Likuidasi wajib menyampaikan laporan realisasi
+- [[Pasal_127]]: Pelaksanaan Likuidasi selesai dalam hal:
+- [[Pasal_128]]: (1) Dalam hal jangka waktu pelaksanaan Likuidasi
+- [[Pasal_129]]: (1) Dalam hal Tim Likuidasi dibentuk oleh RUPS
+- [[Pasal_130]]: Dalam hal Tim Likuidasi yang dibentuk oleh RUPS
+- [[Pasal_131]]: (1) Dalam hal Tim Likuidasi yang dibentuk oleh Otoritas
+- [[Pasal_132]]: (1) Status badan hukum Perusahaan yang dilikuidasi
+- [[Pasal_133]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_134]]: (1) Pihak yang melanggar ketentuan sebagaimana
+- [[Pasal_135]]: Dalam hal terjadi pelanggaran ketentuan sebagaimana
+- [[Pasal_136]]: (1) Kegiatan usaha utama Perusahaan dilakukan melalui
+- [[Pasal_137]]: Perusahaan wajib memiliki rasio pemberian Pinjaman
+- [[Pasal_138]]: Perusahaan yang memberikan Pinjaman dengan Benda
+- [[Pasal_139]]: (1) Perusahaan yang akan melakukan kegiatan yang
+- [[Pasal_140]]: (1) Perusahaan yang akan melakukan kegiatan usaha lain
+- [[Pasal_141]]: Pelaksanaan kegiatan usaha berdasarkan Prinsip Syariah
+- [[Pasal_142]]: (1) Kegiatan usaha berdasarkan Prinsip Syariah
+- [[Pasal_143]]: 148 ayat (5), ayat (6), Pasal 149, Pasal 151 ayat (1), ayat
+- [[Pasal_144]]: (1) Perusahaan wajib memiliki tempat penyimpanan Benda
+- [[Pasal_145]]: (1) Perusahaan wajib memiliki pedoman tertulis
+- [[Pasal_146]]: (1) Perusahaan wajib memberikan nilai taksiran atas
+- [[Pasal_147]]: (1) Perusahaan wajib memenuhi nilai minimum
+- [[Pasal_148]]: (1) Dalam hal Pinjaman dengan Benda Jaminan
+- [[Pasal_149]]: (1) Dalam hal Nasabah telah melunasi Pinjaman beserta
+- [[Pasal_150]]: Syarat dan tata cara penjualan Benda Jaminan berdasarkan
+- [[Pasal_151]]: (1) Perusahaan wajib memberitahukan dan
+- [[Pasal_152]]: (1) Perusahaan yang memiliki kegiatan usaha
+- [[Pasal_153]]: (1) Seluruh perjanjian antara Perusahaan dan Nasabah
+- [[Pasal_154]]: Perjanjian sebagaimana dimaksud dalam Pasal 153 ayat (1)
+- [[Pasal_155]]: (1) Perusahaan wajib menyerahkan perjanjian
+- [[Pasal_156]]: (1) Perjanjian sebagaimana dimaksud dalam Pasal 153
+- [[Pasal_157]]: kegiatan ini berada pada pemilik dana.
+- [[Pasal_158]]: (1) Perusahaan wajib memastikan dalam melaksanakan
+- [[Pasal_159]]: (1) Perusahaan wajib memastikan dalam melaksanakan
+- [[Pasal_160]]: Dalam melakukan kerja sama Pinjaman melalui Pinjaman
+- [[Pasal_161]]: (1) Dalam mendukung penyelenggaraan kegiatan usaha
+- [[Pasal_162]]: (1) Perusahaan dapat mengalihkan pelaksanaan, evaluasi,
+- [[Pasal_163]]: (1) Perusahaan dapat melakukan kegiatan usaha dengan
+- [[Pasal_164]]: Perusahaan yang melakukan kegiatan usaha dengan
+- [[Pasal_165]]: (1) Perusahaan wajib melaporkan kegiatan usaha dengan
+- [[Pasal_166]]: (1) Perusahaan dapat melakukan kerja sama dengan
+- [[Pasal_167]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_169]]: b. kualitas piutang Pinjaman dengan Benda Jaminan
+- [[Pasal_170]]: (1) Pelampauan BMPP dapat disebabkan oleh hal:
+- [[Pasal_171]]: (1) Dalam hal Perusahaan melakukan pelanggaran BMPP
+- [[Pasal_172]]: (1) Perusahaan wajib melakukan penyelesaian
+- [[Pasal_173]]: Perusahaan dilarang:
+- [[Pasal_174]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_175]]: Desember 2026.
+- [[Pasal_176]]: (1) Perusahaan wajib menetapkan kualitas piutang
+- [[Pasal_177]]: (1) Perusahaan wajib menilai, memantau, dan melakukan
+- [[Pasal_178]]: (1) Perusahaan dapat melakukan restrukturisasi terhadap
+- [[Pasal_179]]: (1) Perusahaan wajib menghitung cadangan penyisihan
+- [[Pasal_180]]: (1) Perusahaan wajib membentuk cadangan kerugian
+- [[Pasal_181]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_182]]: dalam bentuk valuta asing wajib melakukan lindung
+- [[Pasal_183]]: Dalam hal Perusahaan menerima pinjaman dari lembaga
+- [[Pasal_184]]: Perusahaan yang menerima pinjaman subordinasi
+- [[Pasal_185]]: Perusahaan yang akan melakukan penerbitan efek melalui
+- [[Pasal_186]]: Ketentuan penerbitan efek melalui penawaran umum
+- [[Pasal_187]]: (1) Perusahaan yang akan melakukan penerbitan efek
+- [[Pasal_188]]: (1) Dalam hal Perusahaan menerbitkan efek bersifat utang
+- [[Pasal_189]]: (1) Perusahaan yang akan melakukan penerbitan efek
+- [[Pasal_190]]: (1) Perusahaan dengan lingkup wilayah usaha nasional
+- [[Pasal_191]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_192]]: (1) Perusahaan dilarang melakukan penyertaan langsung
+- [[Pasal_193]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_194]]: (1) Perusahaan wajib memenuhi Ekuitas paling sedikit:
+- [[Pasal_195]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_196]]: (1) Perusahaan wajib memenuhi persyaratan Tingkat
+- [[Pasal_197]]: (1) Penilaian terhadap faktor permodalan sebagaimana
+- [[Pasal_198]]: Penilaian terhadap faktor kualitas piutang Pinjaman
+- [[Pasal_199]]: Penilaian terhadap faktor rentabilitas sebagaimana
+- [[Pasal_200]]: (1) Penilaian terhadap faktor likuiditas sebagaimana
+- [[Pasal_201]]: Penilaian terhadap faktor manajemen sebagaimana
+- [[Pasal_202]]: (1) Setiap faktor penilaian Tingkat Kesehatan sebagaimana
+- [[Pasal_203]]: (1) Peringkat Komposit ditetapkan berdasarkan analisis
+- [[Pasal_204]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_205]]: (1) Perusahaan wajib menyampaikan laporan berkala
+- [[Pasal_206]]: (1) Kewajiban menyampaikan laporan keuangan tahunan
+- [[Pasal_207]]: (1) Laporan keuangan tahunan sebagaimana dimaksud
+- [[Pasal_208]]: (1) Laporan keuangan tahunan sebagaimana dimaksud
+- [[Pasal_209]]: Selain laporan berkala sebagaimana dimaksud dalam Pasal
+- [[Pasal_210]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_211]]: (1) Perusahaan menerapkan prinsip pelindungan
+- [[Pasal_212]]: (1) Perusahaan menyusun dan menerapkan strategi
+- [[Pasal_213]]: (1) Perusahaan menerapkan program anti pencucian uang,
+- [[Pasal_214]]: komunikasi data Otoritas Jasa Keuangan.
+- [[Pasal_215]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_216]]: (1) Otoritas Jasa Keuangan memiliki kewenangan untuk
+- [[Pasal_217]]: (1) Status pengawasan Perusahaan ditetapkan oleh
+- [[Pasal_218]]: Penetapan Perusahaan dalam status pengawasan intensif
+- [[Pasal_219]]: (1) Perusahaan dengan status pengawasan intensif
+- [[Pasal_220]]: Penetapan Perusahaan dalam status pengawasan khusus
+- [[Pasal_221]]: (1) Perusahaan dengan status pengawasan khusus
+- [[Pasal_222]]: Perusahaan yang memenuhi kriteria pengawasan intensif
+- [[Pasal_223]]: Perusahaan dengan status pengawasan khusus ditetapkan
+- [[Pasal_224]]: (1) Dalam hal Otoritas Jasa Keuangan menetapkan
+- [[Pasal_225]]: Tindak lanjut status pengawasan dan tata cara
+- [[Pasal_226]]: (1) Permohonan perizinan, permohonan persetujuan, dan
+- [[Pasal_227]]: (1) Perusahaan wajib menyimpan dokumen cetak atas
+- [[Pasal_228]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_229]]: (1) Otoritas Jasa Keuangan berwenang meminta
+- [[Pasal_230]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
+- [[Pasal_231]]: Otoritas Jasa Keuangan berdasarkan pertimbangan
+- [[Pasal_232]]: (1) Izin usaha perusahaan pergadaian swasta yang telah
+- [[Pasal_233]]: Permohonan perizinan dan permohonan persetujuan yang
+- [[Pasal_234]]: Perusahaan yang telah mendapatkan izin usaha pada
+- [[Pasal_235]]: Ketentuan pemenuhan kewajiban Modal Disetor
+- [[Pasal_236]]: Bagi Perusahaan yang telah memperoleh izin usaha pada
+- [[Pasal_237]]: (1) Perusahaan yang telah memperoleh izin usaha setelah
+- [[Pasal_238]]: Bagi Perusahaan yang telah memperoleh izin usaha pada
+- [[Pasal_239]]: Bagi Perusahaan yang telah memperoleh izin usaha pada
+- [[Pasal_240]]: Perusahaan yang telah memperoleh izin usaha pada saat
+- [[Pasal_241]]: Ketentuan mengenai penilaian Tingkat Kesehatan
+- [[Pasal_242]]: Bagi Perusahaan yang telah memperoleh izin usaha pada
+- [[Pasal_243]]: (1) Perusahaan yang telah memperoleh izin usaha pada
+- [[Pasal_244]]: (1) Perusahaan yang telah memperoleh izin usaha dengan
+- [[Pasal_245]]: (1) Perjanjian terkait pemberian Pinjaman dengan Benda
+- [[Pasal_246]]: (1) Sertifikat kompetensi kerja di bidang penaksiran Benda
+- [[Pasal_247]]: (1) Sanksi administratif yang telah dikenakan terhadap
+- [[Pasal_248]]: Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
+- [[Pasal_249]]: Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
+- [[Pasal_250]]: Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
+- [[Pasal_252]]: 282 ayat (3) Undang-Undang Nomor 4 Tahun 2023 tentang

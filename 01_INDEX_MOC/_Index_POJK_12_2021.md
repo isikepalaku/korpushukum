@@ -1,0 +1,175 @@
+---
+id: MOC_POJK_12_2021
+judul: "Map of Content - Bank Umum"
+kode_uu: POJK_12_2021
+type: moc
+tags: [moc, hukum/keuangan, uu/pojk_12_2021]
+last_updated: 2026-11-01
+---
+
+# Bank Umum (POJK_12_2021)
+
+> Map of Content untuk penelusuran ringkas pasal hukum oleh AI/LLM.
+
+## Daftar Pasal
+
+- [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini, yang
+- [[Pasal_2]]: (1) Setiap pihak yang melakukan kegiatan penghimpunan
+- [[Pasal_3]]: Bentuk badan hukum Bank BHI dilaksanakan sesuai
+- [[Pasal_4]]: Kantor dari bank yang berbadan hukum dan memiliki
+- [[Pasal_5]]: Bank BHI dan KCBLN didirikan dan melakukan kegiatan
+- [[Pasal_6]]: (1) Bank wajib menerapkan manajemen risiko dan tata
+- [[Pasal_7]]: atau KCBLN dalam jangka panjang selama 5 (lima)
+- [[Pasal_8]]: (1) Rencana korporasi sebagaimana dimaksud dalam
+- [[Pasal_9]]: (1) Dalam hal terdapat kondisi eksternal dan internal
+- [[Pasal_10]]: (1) Bank BHI atau KCBLN yang melanggar ketentuan
+- [[Pasal_11]]: (1) Pendirian Bank BHI mengacu pada persyaratan dan
+- [[Pasal_12]]: (1) Modal disetor untuk mendirikan Bank BHI ditetapkan
+- [[Pasal_13]]: (1) Bank BHI didirikan dan/atau dimiliki oleh:
+- [[Pasal_14]]: puluh) hari kerja setelah dokumen permohonan
+- [[Pasal_15]]: -----
+- [[Pasal_16]]: terhitung sejak tanggal persetujuan prinsip
+- [[Pasal_17]]: (1) Persetujuan prinsip sebagaimana dimaksud dalam
+- [[Pasal_18]]: Permohonan untuk memperoleh izin usaha sebagaimana
+- [[Pasal_19]]: (1) Persetujuan atau penolakan atas permohonan izin
+- [[Pasal_20]]: denda sebesar Rp1.000.000,00 (satu juta rupiah) per
+- [[Pasal_21]]: (1) Bank BHI yang telah memperoleh izin usaha dari OJK
+- [[Pasal_22]]: (1) Bank BHI yang melanggar ketentuan sebagaimana
+- [[Pasal_23]]: 
+- [[Pasal_24]]: (1) Bank BHI yang beroperasi sebagai Bank Digital
+- [[Pasal_25]]: Bank Digital sebagaimana dimaksud dalam Pasal 23 dapat
+- [[Pasal_26]]: (1) Ketentuan mengenai pendirian Bank BHI sebagaimana
+- [[Pasal_27]]: (1) Bank BHI yang akan bertransformasi menjadi Bank
+- [[Pasal_28]]: Bank BHI yang beroperasi sebagai Bank Digital
+- [[Pasal_29]]: administratif berupa teguran tertulis.
+- [[Pasal_30]]: Komisaris, dan/atau Pejabat Eksekutif Bank BHI
+- [[Pasal_31]]: (1) Bank BHI yang melanggar ketentuan sebagaimana
+- [[Pasal_32]]: Sumber dana yang digunakan untuk kepemilikan Bank
+- [[Pasal_33]]: (1) Kepemilikan Bank BHI oleh badan hukum
+- [[Pasal_34]]: Dalam hal diperlukan, OJK dapat menetapkan batasan
+- [[Pasal_35]]: (1) Kepemilikan saham Bank BHI oleh PSP dilarang
+- [[Pasal_36]]: (1) Pihak yang menjadi pemilik Bank BHI paling sedikit
+- [[Pasal_37]]: Pihak yang dapat menjadi PSP harus memenuhi
+- [[Pasal_38]]: 
+- [[Pasal_39]]: 
+- [[Pasal_40]]: (1) Dalam hal terdapat perubahan modal disetor Bank
+- [[Pasal_41]]: 
+- [[Pasal_42]]: sanksi administratif berupa denda sebesar
+- [[Pasal_43]]: Komisaris, dan/atau Pejabat Eksekutif Bank BHI
+- [[Pasal_44]]: Pembelian kembali saham yang telah dikeluarkan oleh
+- [[Pasal_45]]: (1) Rencana penerbitan saham Bank BHI melalui
+- [[Pasal_46]]: Bank BHI wajib mengadministrasikan dokumen terkait
+- [[Pasal_47]]: (1) Bank BHI yang melanggar ketentuan sebagaimana
+- [[Pasal_48]]: Pemenuhan persyaratan, jumlah, komposisi, kriteria,
+- [[Pasal_49]]: (1) Calon anggota Direksi atau calon anggota Dewan
+- [[Pasal_50]]: (1) Dalam hal terdapat anggota Direksi atau anggota
+- [[Pasal_51]]: (1) Bank BHI atau KCBLN wajib melakukan penilaian
+- [[Pasal_52]]: (1) Dalam hal adanya kekosongan jabatan Pejabat
+- [[Pasal_53]]: (1) Bank BHI atau KCBLN wajib melaporkan
+- [[Pasal_54]]: Bank yang memanfaatkan tenaga kerja asing harus
+- [[Pasal_55]]: (1) Bank BHI, KCBLN, atau KPBLN yang melanggar
+- [[Pasal_56]]: (1) Jaringan kantor Bank BHI terdiri dari KP, Kanwil, KC,
+- [[Pasal_57]]: Kantor Bank BHI selain KP dan Kanwil sebagaimana
+- [[Pasal_58]]: (1) Bank BHI menetapkan kantor atau unit organisasi
+- [[Pasal_59]]: (1) Rencana pembukaan kantor Bank BHI selain KP dan
+- [[Pasal_60]]: 74, Pasal 75, Pasal 80, Pasal 82, Pasal 83, Pasal 84,
+- [[Pasal_61]]: a. terhadap rencana pembukaan Kanwil yang telah
+- [[Pasal_62]]: (1) OJK memberikan persetujuan atau penolakan atas
+- [[Pasal_63]]: (1) Bank BHI harus melaksanakan pembukaan Kanwil
+- [[Pasal_64]]: Pasal 69ayat (1), Pasal 71 ayat (4), Pasal 73 ayat (1),
+- [[Pasal_65]]: (1) OJK memberikan persetujuan atau penolakan atas
+- [[Pasal_66]]: 
+- [[Pasal_67]]: 86, Pasal 88 dan Pasal 90 berlaku mutatis mutandis
+- [[Pasal_68]]: (5), dan/atau Pasal 111 ayat (2), disampaikan
+- [[Pasal_69]]: (1) Pembukaan Kantor di Luar Negeri wajib memperoleh
+- [[Pasal_70]]: (1) OJK memberikan persetujuan atau penolakan atas
+- [[Pasal_71]]: sanksi administratif sesuai dengan Peraturan OJK
+- [[Pasal_72]]: Bank BHI dapat melakukan perubahan status atas kantor
+- [[Pasal_73]]: (1) Bank BHI wajib mencantumkan rencana perubahan
+- [[Pasal_74]]: ayat (1), Pasal 79 ayat (1), ayat (5), ayat (6), ayat (7),
+- [[Pasal_75]]: Perubahan status kantor selain sebagaimana dimaksud
+- [[Pasal_76]]: berlaku mutatis mutandis terhadap pemindahan
+- [[Pasal_77]]: Bank BHI dikenai sanksi administratif berupa:
+- [[Pasal_78]]: (1) OJK memberikan persetujuan atau penolakan atas
+- [[Pasal_79]]: (1) Bank BHI yang telah memperoleh persetujuan
+- [[Pasal_80]]: (1) Bank BHI wajib menginformasikan rencana
+- [[Pasal_81]]: (1) Bank BHI dapat melakukan pemindahan sementara
+- [[Pasal_82]]: Bank BHI wajib mencantumkan rencana penutupan kantor
+- [[Pasal_83]]: (1) Penutupan kantor Bank BHI berupa Kanwil, KC,
+- [[Pasal_84]]: (1) OJK memberikan persetujuan atau penolakan atas
+- [[Pasal_85]]: (4), Pasal 91 ayat (2), ayat (3), Pasal 98 ayat (1),
+- [[Pasal_86]]: sanksi administratif sesuai dengan Peraturan OJK
+- [[Pasal_87]]: terhadap penutupan sementara jaringan kantor
+- [[Pasal_88]]: Bank BHI bertanggung jawab dalam penyelesaian seluruh
+- [[Pasal_89]]: Berdasarkan pertimbangan OJK, Bank BHI wajib menunda
+- [[Pasal_90]]: pembukaan, perubahan status, pemindahan alamat,
+- [[Pasal_91]]: (1) Perubahan nama Bank BHI wajib dilaksanakan sesuai
+- [[Pasal_92]]: (1) Bank BHI wajib menyampaikan rencana perubahan
+- [[Pasal_93]]: (1) Bank BHI yang melanggar ketentuan sebagaimana
+- [[Pasal_94]]: (1) Perubahan kegiatan usaha Bank BHI menjadi bank
+- [[Pasal_95]]: sebesar Rp1.000.000,00 (satu juta rupiah) per hari
+- [[Pasal_96]]: (1) Bank BHI yang melanggar ketentuan sebagaimana
+- [[Pasal_97]]: dikenai sanksi administratif berupa:
+- [[Pasal_98]]: (1) Permohonan untuk memperoleh persetujuan prinsip
+- [[Pasal_99]]: ayat (1), Pasal 113 ayat (1),
+- [[Pasal_100]]: (1) Bank BHI yang melanggar ketentuan sebagaimana
+- [[Pasal_101]]: dalam bentuk salinan bilyet deposito pada Bank
+- [[Pasal_102]]: 60 (enam puluh) hari kerja setelah dokumen
+- [[Pasal_103]]: (1) Permohonan untuk memperoleh persetujuan prinsip
+- [[Pasal_104]]: terhitung sejak tanggal persetujuan prinsip
+- [[Pasal_105]]: (1) Persetujuan prinsip sebagaimana dimaksud dalam
+- [[Pasal_106]]: (1) Permohonan untuk memperoleh izin usaha
+- [[Pasal_107]]: (1) Persetujuan atau penolakan atas permohonan izin
+- [[Pasal_108]]: (1) KCBLN yang telah memperoleh izin usaha dari OJK
+- [[Pasal_109]]: (1) Jaringan kantor KCBLN terdiri dari KCBLN, KCP, KF,
+- [[Pasal_110]]: (1) Ketentuan mengenai jaringan kantor Bank BHI selain
+- [[Pasal_111]]: (1) KCBLN menetapkan kantor atau unit organisasi yang
+- [[Pasal_112]]: dan/atau Pasal 114, KCBLN dikenai sanksi
+- [[Pasal_113]]: (2), dan/atau ayat (3), Direksi dan/atau Pejabat
+- [[Pasal_114]]: denda sebesar Rp1.000.000,00 (satu juta rupiah) per
+- [[Pasal_115]]: (1) KCBLN yang melanggar ketentuan sebagaimana diatur
+- [[Pasal_116]]: dan/atau Pasal 134 ayat (1), disampaikan melalui
+- [[Pasal_117]]: (1) Persetujuan atau penolakan atas permohonan izin
+- [[Pasal_118]]: (1) Kegiatan yang dapat dilakukan oleh KPBLN:
+- [[Pasal_119]]: (1) KPBLN wajib menyampaikan laporan kepada OJK
+- [[Pasal_120]]: (1) dikenai sanksi administratif berupa denda sebesar
+- [[Pasal_121]]: KPBLN wajib melaporkan pemindahan alamat KPBLN
+- [[Pasal_122]]: (1) Pemimpin KPBLN wajib menyampaikan perubahan
+- [[Pasal_123]]: (1) KPBLN yang melanggar ketentuan sebagaimana
+- [[Pasal_124]]: (1) OJK melakukan pencabutan izin usaha Bank BHI atau
+- [[Pasal_125]]: Dalam hal bank BHI atau KCBLN memenuhi persyaratan:
+- [[Pasal_126]]: (1) Pencabutan izin usaha bagi Bank BHI atau
+- [[Pasal_127]]: (1) Direksi Bank BHI atau pemimpin KCBLN mengajukan
+- [[Pasal_128]]: (1) Berdasarkan permohonan sebagaimana dimaksud
+- [[Pasal_129]]: pengumuman status badan hukum Bank BHI berakhir
+- [[Pasal_130]]: Badan hukum Bank BHI sebagaimana dimaksud dalam
+- [[Pasal_131]]: Status izin usaha KCBLN berakhir sejak tanggal keputusan
+- [[Pasal_132]]: (1) Pejabat yang berwenang di kantor pusat KPBLN
+- [[Pasal_133]]: (1) OJK melakukan pencabutan izin usaha Bank BHI atau
+- [[Pasal_134]]: (1) KCBLN atau KPBLN wajib menginformasikan kepada
+- [[Pasal_135]]: (1) KCBLN yang membentuk tim penyelesai sebagaimana
+- [[Pasal_136]]: Terhadap Bank BHI yang dicabut izin usaha berupa
+- [[Pasal_137]]: (1) OJK mengumumkan pencabutan izin usaha Bank BHI
+- [[Pasal_138]]: OJK melakukan pengawasan atas kegiatan atau tindak
+- [[Pasal_139]]: 140 dikenai sanksi administratif berupa teguran
+- [[Pasal_140]]: (1) Sejak tanggal pencabutan izin usaha, Direksi Bank
+- [[Pasal_141]]: (1) Bank BHI, KCBLN, atau KPBLN yang melanggar
+- [[Pasal_142]]: (1) Bank BHI dapat melakukan Sinergi Perbankan.
+- [[Pasal_143]]: administratif berupa teguran tertulis.
+- [[Pasal_144]]: sanksi administratif berupa denda sebesar
+- [[Pasal_145]]: (1) Bank BHI dan/atau bank umum yang melaksanakan
+- [[Pasal_146]]: (1) Penyampaian terkait:
+- [[Pasal_147]]: (1) Berdasarkan Modal Inti yang dimiliki, bank
+- [[Pasal_148]]: (1) Dalam hal diperlukan, OJK dapat menetapkan
+- [[Pasal_149]]: (1) Bank BHI atau KCBLN dapat mempertahankan
+- [[Pasal_150]]: denda sebesar Rp1.000.000,00 (satu juta rupiah) per
+- [[Pasal_151]]: (1) Bank BHI atau KCBLN mengumumkan rencana untuk
+- [[Pasal_152]]: Bank BHI, KCBLN atau KPBLN wajib mengadministrasikan
+- [[Pasal_153]]: Berdasarkan pengelompokan bank menjadi 4 (empat) KBMI
+- [[Pasal_154]]: (1) Bank BHI, KCBLN, atau KPBLN yang melanggar
+- [[Pasal_155]]: Terhadap Bank BHI atau KCBLN yang dicabut izin usaha
+- [[Pasal_156]]: Terhadap perizinan kelembagaan Bank BHI, KCBLN, atau
+- [[Pasal_157]]: Bank BHI atau KCBLN yang telah memiliki rencana
+- [[Pasal_158]]: Pada saat Peraturan OJK ini mulai berlaku:
+- [[Pasal_159]]: Pada saat Peraturan OJK ini mulai berlaku:
+- [[Pasal_160]]: Peraturan OJK ini mulai berlaku setelah 3 (tiga) bulan

@@ -1,0 +1,23 @@
+---
+id: POJK_39_2024_Pasal_54
+uu_induk: Pergadaian
+kode_uu: POJK_39_2024
+pasal: '54'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/keuangan
+- uu/pojk_39_2024
+---
+
+# Pasal 54 — Pergadaian
+
+## Batang Tubuh
+
+Ketentuan mengenai persyaratan dan tata cara pembukaan,
+perubahan alamat, dan penutupan Kantor Cabang,
+sebagaimana dimaksud dalam Pasal 49, Pasal 50 ayat (1),
+
+## Penjelasan Resmi
+
+Cukup jelas.

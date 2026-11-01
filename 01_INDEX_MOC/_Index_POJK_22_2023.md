@@ -1,0 +1,140 @@
+---
+id: MOC_POJK_22_2023
+judul: "Map of Content - Pelindungan Konsumen dan Masyarakat di Sektor Jasa Keuangan"
+kode_uu: POJK_22_2023
+type: moc
+tags: [moc, hukum/keuangan, uu/pojk_22_2023]
+last_updated: 2026-11-01
+---
+
+# Pelindungan Konsumen dan Masyarakat di Sektor Jasa Keuangan (POJK_22_2023)
+
+> Map of Content untuk penelusuran ringkas pasal hukum oleh AI/LLM.
+
+## Daftar Pasal
+
+- [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
+- [[Pasal_2]]: PUJK sebagaimana dimaksud dalam Pasal 1 angka 2 terdiri
+- [[Pasal_3]]: (1) PUJK dalam menyelenggarakan kegiatan usaha wajib
+- [[Pasal_4]]: (1) PUJK wajib beriktikad baik dalam melakukan kegiatan
+- [[Pasal_5]]: (1) PUJK dilarang menyetujui permohonan penggunaan
+- [[Pasal_6]]: PUJK berhak mendapat pelindungan hukum dari tindakan
+- [[Pasal_7]]: (1) PUJK berhak memastikan adanya iktikad baik calon
+- [[Pasal_8]]: (1) PUJK wajib memiliki dan menerapkan kebijakan dan
+- [[Pasal_9]]: (1) PUJK wajib mencegah Direksi, Dewan Komisaris, Pegawai,
+- [[Pasal_10]]: (1) PUJK wajib bertanggung jawab atas kerugian Konsumen
+- [[Pasal_11]]: (1) PUJK wajib melaksanakan kegiatan untuk meningkatkan
+- [[Pasal_12]]: (1) PUJK wajib melaksanakan kegiatan untuk meningkatkan
+- [[Pasal_13]]: (1) PUJK wajib menyusun dan menyampaikan:
+- [[Pasal_14]]: (1) PUJK wajib menyampaikan laporan rencana sebagaimana
+- [[Pasal_15]]: (1) PUJK wajib menyampaikan laporan realisasi sebagaimana
+- [[Pasal_16]]: (1) PUJK dapat melakukan penyesuaian atau perubahan
+- [[Pasal_17]]: (1) Penyampaian laporan rencana, laporan realisasi,
+- [[Pasal_18]]: Kewajiban pelaksanaan kegiatan untuk peningkatan Literasi
+- [[Pasal_19]]: (1) PUJK wajib menjaga kerahasiaan dan keamanan data
+- [[Pasal_20]]: (1) Dalam penggunaan data dan/atau informasi Konsumen,
+- [[Pasal_21]]: (1) PUJK dapat melakukan transfer data dan/atau informasi
+- [[Pasal_22]]: (1) PUJK dilarang:
+- [[Pasal_23]]: (1) Ketentuan sebagaimana dimaksud dalam Pasal 22 ayat
+- [[Pasal_24]]: (1) Dalam pelaksanaan kegiatan usaha, PUJK wajib
+- [[Pasal_25]]: (1) PUJK wajib melakukan perancangan produk dan/atau
+- [[Pasal_26]]: (1) PUJK wajib melakukan pengujian produk dan/atau
+- [[Pasal_27]]: Kewajiban sebagaimana dimaksud dalam Pasal 26
+- [[Pasal_28]]: (1) PUJK wajib memiliki pedoman penetapan nilai/harga
+- [[Pasal_29]]: (1) PUJK wajib menyediakan informasi mengenai produk
+- [[Pasal_30]]: (1) PUJK wajib menyediakan ringkasan informasi produk
+- [[Pasal_31]]: Kewajiban penyediaan ringkasan informasi produk dan/atau
+- [[Pasal_32]]: (1) PUJK wajib memberikan informasi mengenai produk
+- [[Pasal_33]]: (1) PUJK wajib menyampaikan ringkasan informasi produk
+- [[Pasal_34]]: Pasal 34
+- [[Pasal_35]]: Pasal 35
+- [[Pasal_36]]: Pasal 36
+- [[Pasal_37]]: Pasal 37
+- [[Pasal_38]]: Pasal 38
+- [[Pasal_39]]: Pasal 39
+- [[Pasal_40]]: Pasal 40
+- [[Pasal_41]]: Pasal 41
+- [[Pasal_42]]: Pasal 42
+- [[Pasal_43]]: Pasal 43
+- [[Pasal_44]]: Pasal 44
+- [[Pasal_45]]: Pasal 45
+- [[Pasal_46]]: Pasal 46
+- [[Pasal_47]]: Pasal 47
+- [[Pasal_48]]: Pasal 48
+- [[Pasal_49]]: Pasal 49
+- [[Pasal_50]]: Pasal 50
+- [[Pasal_51]]: Pasal 51
+- [[Pasal_52]]: Pasal 52
+- [[Pasal_53]]: Pasal 53
+- [[Pasal_54]]: Pasal 54
+- [[Pasal_55]]: Pasal 55
+- [[Pasal_56]]: Pasal 56
+- [[Pasal_57]]: Pasal 57
+- [[Pasal_58]]: Pasal 58
+- [[Pasal_59]]: Pasal 59
+- [[Pasal_60]]: Pasal 60
+- [[Pasal_61]]: Pasal 61
+- [[Pasal_62]]: Pasal 62
+- [[Pasal_63]]: Pasal 63
+- [[Pasal_64]]: Pasal 64
+- [[Pasal_65]]: Pasal 65
+- [[Pasal_66]]: Pasal 66
+- [[Pasal_67]]: Pasal 67
+- [[Pasal_68]]: Pasal 68
+- [[Pasal_69]]: Pasal 69
+- [[Pasal_70]]: Pasal 70
+- [[Pasal_71]]: Pasal 71
+- [[Pasal_72]]: Pasal 72
+- [[Pasal_73]]: Pasal 73
+- [[Pasal_74]]: Pasal 74
+- [[Pasal_75]]: Pasal 75
+- [[Pasal_76]]: Pasal 76
+- [[Pasal_77]]: Pasal 77
+- [[Pasal_78]]: Pasal 78
+- [[Pasal_79]]: Pasal 79
+- [[Pasal_80]]: Pasal 80
+- [[Pasal_81]]: Pasal 81
+- [[Pasal_82]]: Pasal 82
+- [[Pasal_83]]: Pasal 83
+- [[Pasal_84]]: Pasal 84
+- [[Pasal_85]]: Pasal 85
+- [[Pasal_86]]: Pasal 86
+- [[Pasal_87]]: Pasal 87
+- [[Pasal_88]]: Pasal 88
+- [[Pasal_89]]: Pasal 89
+- [[Pasal_90]]: Pasal 90
+- [[Pasal_91]]: Pasal 91
+- [[Pasal_92]]: Pasal 92
+- [[Pasal_93]]: Pasal 93
+- [[Pasal_94]]: Pasal 94
+- [[Pasal_95]]: Pasal 95
+- [[Pasal_96]]: Pasal 96
+- [[Pasal_97]]: Pasal 97
+- [[Pasal_98]]: Pasal 98
+- [[Pasal_99]]: Pasal 99
+- [[Pasal_100]]: Pasal 100
+- [[Pasal_101]]: Pasal 101
+- [[Pasal_102]]: Pasal 102
+- [[Pasal_103]]: Pasal 103
+- [[Pasal_104]]: Pasal 104
+- [[Pasal_105]]: Pasal 105
+- [[Pasal_106]]: Pasal 106
+- [[Pasal_107]]: Pasal 107
+- [[Pasal_108]]: Pasal 108
+- [[Pasal_109]]: Pasal 109
+- [[Pasal_110]]: Pasal 110
+- [[Pasal_111]]: Pasal 111
+- [[Pasal_112]]: Pasal 112
+- [[Pasal_113]]: Pasal 113
+- [[Pasal_114]]: Pasal 114
+- [[Pasal_115]]: Pasal 115
+- [[Pasal_116]]: Pasal 116
+- [[Pasal_117]]: Pasal 117
+- [[Pasal_118]]: Pasal 118
+- [[Pasal_119]]: Pasal 119
+- [[Pasal_120]]: Pasal 120
+- [[Pasal_121]]: Pasal 121
+- [[Pasal_122]]: Pasal 122
+- [[Pasal_123]]: Pasal 123
+- [[Pasal_124]]: Pasal 124
+- [[Pasal_125]]: Pasal 125

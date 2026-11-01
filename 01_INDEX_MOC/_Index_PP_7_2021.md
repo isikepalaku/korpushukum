@@ -1,0 +1,150 @@
+---
+id: MOC_PP_7_2021
+judul: "Map of Content - Kemudahan, Pelindungan, dan Pemberdayaan Koperasi dan UMKM"
+kode_uu: PP_7_2021
+type: moc
+tags: [moc, hukum/keuangan, uu/pp_7_2021]
+last_updated: 2026-11-01
+---
+
+# Kemudahan, Pelindungan, dan Pemberdayaan Koperasi dan UMKM (PP_7_2021)
+
+> Map of Content untuk penelusuran ringkas pasal hukum oleh AI/LLM.
+
+## Daftar Pasal
+
+- [[Pasal_1]]: (l ) Komisi Pengawas Persaingan Usaha melakukan
+- [[Pasal_2]]: **(1) Dalam melakukan pemberdayaan Koperasi melalui**
+- [[Pasal_3]]: kewenanganrrya ["men5rusun ]rencana tahunan dan menyediakan alokasi anggaran program kemudahan, pelindungan, dan pemberciayaan usa...
+- [[Pasal_4]]: **Koperasi memperoleh status badan hukum pada tanggal**
+- [[Pasal_5]]: **Pembentukan Koperasi dilakukan dengan akta pendirian yang memuat anggaran dasar.**
+- [[Pasal_6]]: **(1) Dalam pembentukan Koperasi sebagaimana dimaksud**
+- [[Pasal_7]]: **Pemerintah Pusat dan Pemerintah Daerah melakukan pembinaan dan pendampingan bagi kelompok masyarakat yang akan membentuk Koperas...
+- [[Pasal_8]]: **(1) Rapat anggota dapat dilaksanakan secara daring danl**
+- [[Pasal_8I]]: **(1) Kementerian/lembaga pemerintah nonkementerian dan perangkat daerah wajib menggunakan**
+- [[Pasal_9]]: **(1) Pemerintah Pusat dan Pemerintah Daerah melakukan**
+- [[Pasal_10]]: Pasal 10
+- [[Pasal_12]]: **(1) Kelebihan kemampuan pelayanan Koperasi dapat**
+- [[Pasal_12L]]: Pasal 12L
+- [[Pasal_13]]: **(1) Koperasi dapat menjalankan kegiatan usaha**
+- [[Pasal_13O]]: Pasal 13O
+- [[Pasal_14]]: **(1) Koperasi syariah melaksanakan kegiatan usaha**
+- [[Pasal_15]]: **(1) Usaha simpan pinjam dan pembiayaan syariah hanya**
+- [[Pasal_16]]: Koperasi syariah yang menjalankan fungsi sosial dalam bentuk baitul maal sebagaimana dimaksud dalam Pasal 14 ayat (3) atau Koperas...
+- [[Pasal_17]]: **(1) Koperasi syariah wajib mempunyai dewan pengawas**
+- [[Pasal_18]]: (1) Kementerian dan/atau kementerian yang
+- [[Pasal_19]]: **a. rncnefapkan bidang kegiatan ekonomi yang hanya**
+- [[Pasal_20]]: Pasal 20
+- [[Pasal_22]]: **(1) Program kemudahan, pelindungan, dan**
+- [[Pasal_23]]: **Pemerintah Daerah melaporkan hasil pelaksanaan program kemudahan, pelindungan, dan pemberdayaan usaha Koperasi yang dibiayai mel...
+- [[Pasal_24]]: **(1) Pemerintah Pusat melalui Kementerian melakukan**
+- [[Pasal_25]]: **a. penyelenggaraan tenaga kerja bongkar muat oleh**
+- [[Pasal_26]]: **(1) Pemberdayaan bagi Koperasi di sektor kelautan dan**
+- [[Pasal_27]]: **(1) Dalarn hal belum terdapat Koperasi di sektor kerautan**
+- [[Pasal_28]]: **(1) Pemerintah lDusat dan pemerintah Daerah**
+- [[Pasal_29]]: **(1) Pemberdayaan bagi Koperasi di sektor angkutan**
+- [[Pasal_30]]: **(1) Pembinaan dan pengawasan kepada Koperasi tenaga**
+- [[Pasal_31]]: **Pemberdayaan bagi Koperasi di sektor kehutanan**
+- [[Pasal_32]]: **Setiap pemegang Perizinan Berusaha pernanfaatan hutan pada hutan lindung wajib melaksanakan kerja sama dengan Koperasi.**
+- [[Pasal_33]]: **(1) Pemberdayaalr bagi Koperasi di sektor perdagangan**
+- [[Pasal_34]]: Pasal 34
+- [[Pasal_35]]: **(1) Usaha Mikro, Kecil, dan Menengah dikelompokkan**
+- [[Pasal_36]]: **(1) Untuk kepentingan tertentu, selain [kriteria ] [modal]**
+- [[Pasal_37]]: **(1) Usaha Mikro, Kecil, dan Menengah dalam melakukan**
+- [[Pasal_38]]: **(1) Perizinan Berusaha untuk Usaha Mikro, Kecil, dan**
+- [[Pasal_39]]: **(1) Pemerintah Pusat dan Pemerintah Daerah melakukan**
+- [[Pasal_40]]: **Dalam hal pelaku Usaha Mikro dan Usaha Kecil tidak dapat mengakses Perizinan Berusaha secara daring, Dinas, perangkat di tingkat...
+- [[Pasal_41]]: **(1) Pemerintah Pusat dan Pemerintah Daerah**
+- [[Pasal_42]]: Usaha Mikro dan Usaha Kecil [yang ][baru mendirikan ] [usaha] dapat langsung mengajukan [permohonan ][nomor ] [induk] berusaha, se...
+- [[Pasal_43]]: 
+- [[Pasal_44]]: Nomor induk berusaha untuk Usaha Mikro dan [Usaha Kecil]
+- [[Pasal_45]]: **(1) Pertzinantunggal, sertifikat standar dan/atau [izinbagr]**
+- [[Pasal_46]]: **Pendaftaran pertzinan tunggal, [pemenuhan ][kepemilikan] sertifikat standar dan/atau [izin, dan ] [perpanjangan] sertifikat [jam...
+- [[Pasal_47]]: **a. persyaratan yang harus dipenuhi oleh pemohon; b. tata cara mengajukan permohonan izin usaha; dan c. pembebasan biaya perizina...
+- [[Pasal_48]]: **(1) Pemerintah Pusat dan Pemerintah Daerah wajib**
+- [[Pasal_49]]: **Untuk memperoleh layanan bantuan dair pendampingan hukurn sebagaimana dimaksud daiam Pasal 48 Usaha Mikro ian Usaha Kecil harus ...
+- [[Pasal_50]]: **(1) Pern€rintah Pusat dan Pemerintah Daerah dapat**
+- [[Pasal_51]]: **Dalam upalra pemberian layanan ba.ntuan ciatn**
+- [[Pasal_52]]: **(1) ['enrbc-'rian layanan bantuan dan pendampingern**
+- [[Pasal_53]]: Pasal 53
+- [[Pasal_54]]: Pasal 54
+- [[Pasal_55]]: **(1) Basis data tunggal Usaha Mikro, Kecil, dan Menengah**
+- [[Pasal_56]]: **(1) Untuk pengumpulan data sebagaimana dimaksud**
+- [[Pasal_57]]: Penyelenggaraan basis data [tunggal ][Usaha ][Mikro, ][Kecil, ][dan]
+- [[Pasal_58]]: (1) Kementerian menyebarluaskan [data ][Usaha ][Mikro,]
+- [[Pasal_59]]: Penyelenggaraan basis data tunggal Usaha Mikro, Kecil, dan
+- [[Pasal_60]]: **(1) Kementerian/lembaga darr Pemerintah Daerah, badan**
+- [[Pasal_61]]: Pasal 61
+- [[Pasal_62]]: **(1) Alokasi besaran penyediaan tempat promosi dan**
+- [[Pasal_63]]: **(1) Penyediaan tempat promosi untuk Usaha Mikro dan**
+- [[Pasal_64]]: **(1) Pengelolaan ternpat promosi dan pengembangan**
+- [[Pasal_65]]: **(1) Penyelenggara infrastruktur publik yang mengelola**
+- [[Pasal_66]]: **Kementerian atau Dinas melakukan [pengawasan terhadap] penyelenggaraan pelaksanaan tempat [promosi ][dan] pengembangan Usaha Mik...
+- [[Pasal_67]]: Penyeienggara infrastruktur [publik ]menetapkan [biaya ][sewa]
+- [[Pasal_68]]: **(1) Pemerintah Pusat mendorong [implementasi]**
+- [[Pasal_69]]: **(1) Pengelolaan terpadu Usaha Mikro dan [Usaha ][Kecil]**
+- [[Pasal_70]]: **Pemerintah memberikan kemuclahan, [pendampingan, dan] fasilitasi untuk implementasi [pengelolaan ] [terpadu ] [Usaha] Mikro dan ...
+- [[Pasal_71]]: **Kemudahan, pendampingan, dan fasilitasi [sebagaimana] dimaksud dalam Pasal 70 meliPuti:**
+- [[Pasal_72]]: **(1) Penentuan lokasi pengelolaan terpadu Usaha Mikro**
+- [[Pasal_73]]: **(1) Pengelolaan terpadu Usaha Mikro dan Usaha Kecil**
+- [[Pasal_74]]: **Menteri mengoordinasikan dan mengendalikan**
+- [[Pasal_75]]: **Dunia usaha dan masyarakat berperan serta secara aktif**
+- [[Pasal_76]]: **Koordinasi dan pengendalian pengelolaan terpadu Usaha Mikro dan Usaha Kecil dalarn penataan klaster dilakukan di tingkat nasiona...
+- [[Pasal_77]]: Pasal 77
+- [[Pasal_78]]: **Pembiayaan pengeloiaan terpadu Usaha Mikro dan Usaha Kecil bersurnber dari:**
+- [[Pasal_79]]: (i ) liemerrtet ian yang rrcri5relsnggarakan urusan
+- [[Pasal_80]]: **(1) Kegiatan LJsaha Itlikro dan Usaha Kecil dapat dijadikan**
+- [[Pasal_81]]: Pasal 81
+- [[Pasal_82]]: **(1) Kementerian yang menyelenggarakan urusan**
+- [[Pasal_83]]: **(1) Kementerian/lembaga pemerintah nonkementerian**
+- [[Pasal_84]]: **(1) Pembayaran kontrak pengadaan barang/jasa**
+- [[Pasal_85]]: (1) Monitoring dan evaluasi [pengadaan ][barang/jasa]
+- [[Pasal_86]]: Pasal 86
+- [[Pasal_87]]: **Realisasi pelaksanaan pengalokasian 407o (empat [puluh]**
+- [[Pasal_88]]: **(1) Pemerintah Pusat dan Pemerintah Daerah**
+- [[Pasal_89]]: **(1) Pemerintah Pusat mengalokasikan bidang usaha**
+- [[Pasal_90]]: **(1) Pemeliharaan terhadap fasilitas utama dan fasilitas**
+- [[Pasal_92]]: **(1) Pengembangan Usaha Mikro, Kecil, dan [Menengah]**
+- [[Pasal_93]]: **Kocrdinasi dan pcr,gendahan pemberdayaan Usaha Mikro, K-ecil, lan NIet .^nguh mel.prrti pcr^yusllnan rjan pengintegrasian, pclak...
+- [[Pasal_94]]: **(1) Menteri mengoordinasikan dan mengendalikan**
+- [[Pasal_95]]: **(1) Dalam rnengoordinasikan dan mengendalikan**
+- [[Pasal_96]]: **(1) Bupati/wali kota atau pejabat yang ditunjuk**
+- [[Pasal_97]]: **(1) Dunia usaha dan masyarakat berperan serta secara**
+- [[Pasal_98]]: **Koordinasi dan pengendalian kemudahan, pelindungan, dan pemberdayaan Usaha Mikro, Kecil, dan Menengah**
+- [[Pasal_99]]: **(1) Dalam mengoortlinasikan dan mengendalikan**
+- [[Pasal_100]]: Biaya pelaksanaan koordinasi dan pengendalian bersumber
+- [[Pasal_101]]: **(1) Ketentuan upah minimum provinsi dan upah**
+- [[Pasal_103]]: **(1) Kementerian dan Pemerintah Daerah sesuai dengan**
+- [[Pasal_104]]: **(1) Kemitraan antara Usaha Mikro, Usaha Kecil, dan**
+- [[Pasal_105]]: **(1) Kemitraan mencakup proses alih keterampilan bidang**
+- [[Pasal_106]]: **(1) Kemitraan sebagaimana dimaksud dalam Pasal 105**
+- [[Pasal_107]]: **a. usaha besar berkedudukan sebagai inti dan Usaha**
+- [[Pasal_108]]: **(1) Dalam pola kemitraan subkontrak sebagaimana**
+- [[Pasal_109]]: **(1) Dalam pola kemitraan waralaba sebagaimana**
+- [[Pasal_110]]: Pasal 110
+- [[Pasal_111]]: Pasal 111
+- [[Pasal_113]]: Pasal 113
+- [[Pasal_115]]: Pasal 115
+- [[Pasal_116]]: Pasal 116
+- [[Pasal_118]]: Pasal 118
+- [[Pasal_119]]: Pasal 119
+- [[Pasal_120]]: **(1) Pengenaan sanksi administratif dilakukan terhadap**
+- [[Pasal_121]]: **(1) Berdasarkan lapor.an sebagaimana dimaksud dalam**
+- [[Pasal_123]]: (f ) Penrerintah Pusat Daerah
+- [[Pasal_124]]: **(1) Usaha Mikro dan Usaha Kecil diberi**
+- [[Pasal_125]]: **(1) Pemerintah Daerah' rnemberikan bantudn mo.Jal**
+- [[Pasal_126]]: **Terhadap Usaha Mikro dan Usaha Kecil yang berorientasi ekspor, dapat diberikan insentil kepabeanan, berupa**
+- [[Pasal_129]]: **(1) lt.rcia.n usaha milik negara menyediakan perrl>iayaarn**
+- [[Pasal_130]]: **(1) Pemerintah Pusat dan Pemerintah Daerah dapat**
+- [[Pasal_131]]: Usaha besar menyediakan pembiayaan dalam bentuk
+- [[Pasal_132]]: **(1) Penyelenggaraan Inkubasi bertujuan untuk:**
+- [[Pasal_133]]: **(1) Lembaga inkubator sebagaimana. dimaksud dalam**
+- [[Pasal_134]]: **(1) Penyelenggaraan Inkubasi dilakukan oleh lembaga**
+- [[Pasal_135]]: **(1) Pemerintah Pusat dan Pemerintah Daerah melakukan**
+- [[Pasal_136]]: **(1) Pernerintah Pusat dan .Pernerintah Daerah**
+- [[Pasal_137]]: **(1) Pemarrtauan dan evaluasi penyelenggaraan**
+- [[Pasal_139]]: **(1) Pemerintah Fusat mengalokasikan DAK untuk mendanai program/kegiatan kemudahan,**
+- [[Pasal_140]]: Pada saat Peraturan Pemerintah ini mulai berlaku:
+- [[Pasal_141]]: Pada saat Peraturan Pernerintah ini mulai berlaku, seluruh
+- [[Pasal_142]]: Pada saat Peraturan Pemerintah ini mulai berlaku:
+- [[Pasal_143]]: **Peraturan Pemerintah ini mulai ber'laku pada tanggal diundangkan.**

@@ -1,0 +1,27 @@
+---
+id: UU_1_2023_Pasal_575
+uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum
+  Pidana
+kode_uu: UU_1_2023
+pasal: '575'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/pidana
+- uu/uu_1_2023
+---
+
+# Pasal 575 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
+
+## Batang Tubuh
+
+- (1) Setiap Orang yang secara melawan hukum merusak, menghancurkan, atau membuat tidak dapat dipakai bangunan untuk pengamanan lalu lintas udara atau menggagalkan usaha untuk pengamanan bangunan tersebut, dipidana dengan pidana penjara paling lama 7 (tqiuh) tahun.
+
+**If x**
+
+- (21 Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) menimbulkan bahaya bagi keamanan lalu lintas udara, dipidana dengan pidana penjara paling lama 9 (sembilan) tahun.
+- (3) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) mengakibatkan matinya orang, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
+
+## Penjelasan Resmi
+
+Cukup jelas.

@@ -1,0 +1,22 @@
+---
+id: UU_1_2023_Pasal_376
+uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum
+  Pidana
+kode_uu: UU_1_2023
+pasal: '376'
+status: BERLAKU_AKTIF
+substantive_explanation: false
+tags:
+- hukum/pidana
+- uu/uu_1_2023
+---
+
+# Pasal 376 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
+
+## Batang Tubuh
+
+Setiap Orang yang mengurangi nilai mata uang dengan maksud untuk mengedarkan atau meminta mengedarkan mata uang yang dikurangi nilainya dipidana karena merusak mata uang, dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana denda paling banyak kategori VI.
+
+## Penjelasan Resmi
+
+Cukup jelas.

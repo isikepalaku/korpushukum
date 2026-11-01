@@ -1,0 +1,42 @@
+---
+id: POJK_33_2025_Pasal_20
+uu_induk: Penilaian Tingkat Kesehatan Perusahaan Perasuransian, Lembaga Penjamin,
+  dan Dana Pensiun
+kode_uu: POJK_33_2025
+pasal: '20'
+status: BERLAKU_AKTIF
+substantive_explanation: true
+tags:
+- hukum/keuangan
+- uu/pojk_33_2025
+---
+
+# Pasal 20 — Penilaian Tingkat Kesehatan Perusahaan Perasuransian, Lembaga Penjamin, dan Dana Pensiun
+
+## Batang Tubuh
+
+Otoritas Jasa Keuangan dapat memberikan persetujuan
+atau kebijakan yang berbeda dengan Peraturan Otoritas
+Jasa Keuangan ini berdasarkan pertimbangan tertentu.
+
+BAB VII
+KETENTUAN PERALIHAN
+
+## Penjelasan Resmi
+
+Pemberian persetujuan atau kebijakan yang berbeda dimaksudkan
+antara lain untuk:
+a. mendukung kebijakan nasional;
+b. menjaga kepentingan publik;
+c. menjaga pertumbuhan industri; dan/atau
+d. menjaga persaingan usaha yang sehat.
+
+-----
+
+Kondisi yang memerlukan pertimbangan tertentu, antara lain,
+kejadian luar biasa yang dapat mengakibatkan terjadinya
+peningkatan kesakitan dan kematian yang besar dan juga
+berdampak pada ekonomi dan sosial, sehingga membutuhkan
+perhatian dan penanganan oleh semua pihak terkait serta diatur
+dalam ketentuan lain atas pertimbangan dalam menghadapi
+kemungkinan kejadian luar biasa.
