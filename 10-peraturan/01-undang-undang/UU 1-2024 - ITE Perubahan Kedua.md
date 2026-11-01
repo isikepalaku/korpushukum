@@ -180,7 +180,7 @@ SK No l90l88A
 
 4. Penjelasan ayat (1) dan ayat (2) Pasal 15 diubah sebagaimana tercantum dalam penjelasan.
 
-5. Di antara Pasal 16 dan Pasal 17 disisipkan 2<sup>(dua)</sup> pasal, yakni Pasal 16A dan Pasal 168 sehingga berbunyi sebagai berikut:
+5. Di antara Pasal 16 dan Pasal 17 disisipkan 2<sup>(dua)</sup> pasal, yakni Pasal 16A dan Pasal 16B sehingga berbunyi sebagai berikut:
 
 **Pasal 16A**
 
@@ -208,7 +208,7 @@ ihtrEILtriIi REPI'BUK INDONESIA
 
 - (5) Ketentuan lebih lanjut mengenai pelindungan sebagaimana dimaksud pada ayat (1) sampai dengan ayat (4) diatur dalam Peraturan Pemerintah.
 
-### Pasal 168 ^pasal-168
+### Pasal 16B ^pasal-16b
 
    - (1) Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 16A dikenai sanksi administratif.
 
@@ -287,7 +287,7 @@ SK No l90l9l A
 
 Setiap Orang dengan sengaja menyerang kehormatan atau nama baik orang lain dengan cara menuduhkan suatu hal, dengan maksud supaya hal tersebut diketahui umum dalam bentuk Informasi Elektronik dan/ atau Dokumen Elektronik yang dilakukan melalui Sistem Elektronik.
 
-### Pasal 278 ^pasal-278
+### Pasal 27B ^pasal-27b
 
 - (1) Setiap Orang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik, dengan maksud untuk menguntungkan diri sendiri atau orang lain secara melawan hukum, memaksa orang dengan ancaman kekerasan untuk:
 
@@ -544,7 +544,7 @@ SK No 190202A
 
    - b. memberi utang, membuat pengakuan utang, atau menghapuskan piutang,
 
-sebagaimana dimaksud dalam Pasal 278 ayat (Ll dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
+sebagaimana dimaksud dalam Pasal 27B ayat (Ll dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
 - (9) Dalam hal perbuatan sebagaimana dimaksud pada ayat (8) dilakukan dalam lingkungan keluarga, penuntutan pidana hanya dapat dilakukan atas aduan.
 
@@ -562,7 +562,7 @@ SK No 190289A
 
 - b. memberi utang, membuat pengakuan utang, atau menghapuskan piutang,
 
-sebagaimana dimaksud dalam Pasal 278 ayat<sup>(21</sup> dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp 1.000.000.000,00 (satu miliar rupiah).
+sebagaimana dimaksud dalam Pasal 27B ayat<sup>(21</sup> dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp 1.000.000.000,00 (satu miliar rupiah).
 
    - (11) Tindak pidana sebagaimana dimaksud pada ayat (10) hanya dapat dituntut atas pengaduan korban tindak pidana.
 
@@ -881,7 +881,7 @@ Yang dimaksud dengan<sup>omekanisme</sup> pelaporan penyalahgunaan" adalah tala,
 Ayat (5) 
 
 Cukup<sup>jelas.</sup>
-#### Pasal 168 ^penjelasan-pasal-168
+#### Pasal 16B ^penjelasan-pasal-16b
 Cukup<sup>jelas.</sup> 
 
 Angka6. . . 
@@ -1227,4 +1227,4 @@ SK No 190287A
 | Pasal 40 | [[#^penjelasan-pasal-40]] |
 | Pasal 43 | [[#^penjelasan-pasal-43]] |
 | Pasal 45 | [[#^penjelasan-pasal-45]] |
-| Pasal 168 | [[#^penjelasan-pasal-168]] |
+| Pasal 16B | [[#^penjelasan-pasal-16b]] |

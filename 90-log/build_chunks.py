@@ -127,9 +127,10 @@ def kind_of(path):
 
 def pasal_of(anchor, title, path):
     for cand in (anchor or "", title or "", path or ""):
-        m = re.search(r"pasal[- ](\d+)", cand, re.I)
+        m = re.search(r"pasal[- ]([0-9]+[a-z]*)", cand, re.I)
         if m:
-            return int(m.group(1))
+            val = m.group(1).upper()
+            return int(val) if val.isdigit() else val
     return None
 
 

@@ -206,9 +206,9 @@ class IndonesianLegalParser:
 
     def parse_pasal(self):
         """Memotong Batang Tubuh per pasal (mendukung Pasal 1, 27A, 45B, dll)."""
-        # Tangkap pola pasal di awal baris
+        # Tangkap pola pasal di awal baris (mendukung Pasal 27, 27A, 27B, 45B, dll)
         pattern = re.compile(
-            r"(?im)^#{0,6}\s*(?:\*\*)?Pasal\s+([0-9]+[A-Za-z]?)(?:\*\*)?\b[^\n]*\n",
+            r"(?im)^#{0,6}\s*(?:\*\*)?Pasal\s+([0-9]+[A-Za-z]*)(?:\*\*)?\b[^\n]*\n",
             re.MULTILINE
         )
         matches = list(pattern.finditer(self.batang_tubuh_raw))
@@ -216,7 +216,7 @@ class IndonesianLegalParser:
         if not matches:
             # Coba pola UU Perubahan: "Ketentuan Pasal 5 diubah..."
             alt_pattern = re.compile(
-                r"(?im)(?:^|\n)(?:[0-9]+\.\s*)?Ketentuan\s+Pasal\s+([0-9]+[A-Za-z]?)\s+(?:diubah|dihapus|ditambah)[^\n]*\n",
+                r"(?im)(?:^|\n)(?:[0-9]+\.\s*)?(?:Ketentuan\s+)?Pasal\s+([0-9]+[A-Za-z]*)\s+(?:diubah|dihapus|ditambah)[^\n]*\n",
                 re.MULTILINE
             )
             matches = list(alt_pattern.finditer(self.batang_tubuh_raw))
@@ -257,9 +257,9 @@ class IndonesianLegalParser:
         if not self.penjelasan_pasal_raw:
             return
 
-        # Pola pencocokan pasal di bagian penjelasan
+        # Pola pencocokan pasal di bagian penjelasan (mendukung Pasal 27, 27A, 45B, dll)
         pattern = re.compile(
-            r"(?im)^#{0,6}\s*(?:\*\*)?(?:Pasal|Angka\s+\d+\s*\n\s*(?:#{0,6}\s*)?Pasal)\s+([0-9]+[A-Za-z]?)(?:\*\*)?\b[^\n]*\n",
+            r"(?im)^#{0,6}\s*(?:\*\*)?(?:Pasal|Angka\s+\d+\s*\n\s*(?:#{0,6}\s*)?Pasal)\s+([0-9]+[A-Za-z]*)(?:\*\*)?\b[^\n]*\n",
             re.MULTILINE
         )
         matches = list(pattern.finditer(self.penjelasan_pasal_raw))
