@@ -1,0 +1,1442 @@
+{
+  "10-peraturan\\01-undang-undang\\UU 1-1946 - KUHP Lama.md": {
+    "mtime": 1793124328.916659,
+    "seen": 1793554199.3372512,
+    "ast_hash": "f94869566f4c41a088d4aadf695f6ed3",
+    "semantic_hash": "f94869566f4c41a088d4aadf695f6ed3"
+  },
+  "10-peraturan\\01-undang-undang\\UU 1-2013 - LKM.md": {
+    "mtime": 1793124328.9186654,
+    "seen": 1793554199.3372576,
+    "ast_hash": "9fd3eb8d3a73368f5aec1a3465e9c83a",
+    "semantic_hash": "9fd3eb8d3a73368f5aec1a3465e9c83a"
+  },
+  "10-peraturan\\01-undang-undang\\UU 1-2016 - Penjaminan.md": {
+    "mtime": 1793124328.921283,
+    "seen": 1793554199.3372602,
+    "ast_hash": "25e0842dd956fc43ce09473e1debedd0",
+    "semantic_hash": "25e0842dd956fc43ce09473e1debedd0"
+  },
+  "10-peraturan\\01-undang-undang\\UU 1-2023 - KUHP.md": {
+    "mtime": 1793124328.924164,
+    "seen": 1793554199.337262,
+    "ast_hash": "fb9853c38531eb66faa01df2d2c43b52",
+    "semantic_hash": "fb9853c38531eb66faa01df2d2c43b52"
+  },
+  "10-peraturan\\01-undang-undang\\UU 1-2024 - ITE Perubahan Kedua.md": {
+    "mtime": 1793552928.3639512,
+    "seen": 1793554199.3372629,
+    "ast_hash": "cb5cc81842b9063eee404c3f9558aaef",
+    "semantic_hash": "cb5cc81842b9063eee404c3f9558aaef"
+  },
+  "10-peraturan\\01-undang-undang\\UU 1-2025 - BUMN Perubahan Ketiga.md": {
+    "mtime": 1793124328.9399295,
+    "seen": 1793554199.3372638,
+    "ast_hash": "933308cd636d6f180fed62319eea04d4",
+    "semantic_hash": "933308cd636d6f180fed62319eea04d4"
+  },
+  "10-peraturan\\01-undang-undang\\UU 1-2026 - Penyesuaian Pidana.md": {
+    "mtime": 1793124328.9412057,
+    "seen": 1793554199.3372653,
+    "ast_hash": "7d0d3fa154395047383794210c55fed5",
+    "semantic_hash": "7d0d3fa154395047383794210c55fed5"
+  },
+  "10-peraturan\\01-undang-undang\\UU 10-1998 - Perbankan 1998.md": {
+    "mtime": 1793525097.3905594,
+    "seen": 1793554199.337266,
+    "ast_hash": "42d435c8f310e973d920aae653f641e9",
+    "semantic_hash": "42d435c8f310e973d920aae653f641e9"
+  },
+  "10-peraturan\\01-undang-undang\\UU 10-2011 - PBK Perubahan.md": {
+    "mtime": 1793124328.9565203,
+    "seen": 1793554199.3372667,
+    "ast_hash": "5ca21fe934d669917515386c35ea4783",
+    "semantic_hash": "5ca21fe934d669917515386c35ea4783"
+  },
+  "10-peraturan\\01-undang-undang\\UU 11-2008 - ITE.md": {
+    "mtime": 1793528941.2551901,
+    "seen": 1793554199.3372674,
+    "ast_hash": "650899d35076b56f2b670d1b7c746416",
+    "semantic_hash": "650899d35076b56f2b670d1b7c746416"
+  },
+  "10-peraturan\\01-undang-undang\\UU 14-2025 - Haji dan Umrah Perubahan Ketiga.md": {
+    "mtime": 1793519064.2816837,
+    "seen": 1793554199.3372686,
+    "ast_hash": "40153bf36ea0eca71683ddf101b49de4",
+    "semantic_hash": "40153bf36ea0eca71683ddf101b49de4"
+  },
+  "10-peraturan\\01-undang-undang\\UU 16-2025 - BUMN Perubahan Keempat.md": {
+    "mtime": 1793519064.4000597,
+    "seen": 1793554199.3372695,
+    "ast_hash": "7ca265e49de5bf723abd41fa3cf7f160",
+    "semantic_hash": "7ca265e49de5bf723abd41fa3cf7f160"
+  },
+  "10-peraturan\\01-undang-undang\\UU 17-2023 - Kesehatan.md": {
+    "mtime": 1793519064.5319788,
+    "seen": 1793554199.3372703,
+    "ast_hash": "0ef3445b5cbb7ed45277bc89de3d5e44",
+    "semantic_hash": "0ef3445b5cbb7ed45277bc89de3d5e44"
+  },
+  "10-peraturan\\01-undang-undang\\UU 18-2025 - Kepariwisataan Perubahan Ketiga.md": {
+    "mtime": 1793519064.7525067,
+    "seen": 1793554199.3372712,
+    "ast_hash": "8c153d31edf242b70a65dd831f62c8e0",
+    "semantic_hash": "8c153d31edf242b70a65dd831f62c8e0"
+  },
+  "10-peraturan\\01-undang-undang\\UU 19-2016 - ITE Perubahan Pertama.md": {
+    "mtime": 1793528933.8429737,
+    "seen": 1793554199.3372724,
+    "ast_hash": "c7519928ac31870a8e88f046659dbe54",
+    "semantic_hash": "c7519928ac31870a8e88f046659dbe54"
+  },
+  "10-peraturan\\01-undang-undang\\UU 2-2009 - LPEI.md": {
+    "mtime": 1793124328.957042,
+    "seen": 1793554199.3372731,
+    "ast_hash": "fbbac784fff8d2e0b12ab7b947afdd0d",
+    "semantic_hash": "fbbac784fff8d2e0b12ab7b947afdd0d"
+  },
+  "10-peraturan\\01-undang-undang\\UU 2-2025 - Minerba Perubahan Keempat.md": {
+    "mtime": 1793124328.957042,
+    "seen": 1793554199.3372738,
+    "ast_hash": "39d840c5a69c4e054a52f6c388320c19",
+    "semantic_hash": "39d840c5a69c4e054a52f6c388320c19"
+  },
+  "10-peraturan\\01-undang-undang\\UU 20-2025 - KUHAP.md": {
+    "mtime": 1793124328.973286,
+    "seen": 1793554199.3372746,
+    "ast_hash": "847578ed9e2d07bcb7006154d53850f0",
+    "semantic_hash": "847578ed9e2d07bcb7006154d53850f0"
+  },
+  "10-peraturan\\01-undang-undang\\UU 21-2008 - Perbankan Syariah.md": {
+    "mtime": 1793124328.973286,
+    "seen": 1793554199.3372757,
+    "ast_hash": "92f500707bbda6b6a5732f53e05c6065",
+    "semantic_hash": "92f500707bbda6b6a5732f53e05c6065"
+  },
+  "10-peraturan\\01-undang-undang\\UU 21-2011 - OJK.md": {
+    "mtime": 1793124328.982349,
+    "seen": 1793554199.3372765,
+    "ast_hash": "377497f2b9be8de7d6c8fc4d56cd3050",
+    "semantic_hash": "377497f2b9be8de7d6c8fc4d56cd3050"
+  },
+  "10-peraturan\\01-undang-undang\\UU 22-2001 - Migas.md": {
+    "mtime": 1793124328.982349,
+    "seen": 1793554199.3372772,
+    "ast_hash": "d21c9085e41faf16fa4522d40b5aeb17",
+    "semantic_hash": "d21c9085e41faf16fa4522d40b5aeb17"
+  },
+  "10-peraturan\\01-undang-undang\\UU 23-1999 - Bank Indonesia.md": {
+    "mtime": 1793124328.9904437,
+    "seen": 1793554199.3372781,
+    "ast_hash": "0e08571822cb0b0d473d098a7ba938ed",
+    "semantic_hash": "0e08571822cb0b0d473d098a7ba938ed"
+  },
+  "10-peraturan\\01-undang-undang\\UU 23-2006 - Administrasi Kependudukan.md": {
+    "mtime": 1793124328.9904437,
+    "seen": 1793554199.3372793,
+    "ast_hash": "a9fb12017f90623bb39a12b2b86e6cb0",
+    "semantic_hash": "a9fb12017f90623bb39a12b2b86e6cb0"
+  },
+  "10-peraturan\\01-undang-undang\\UU 24-2002 - Surat Utang Negara.md": {
+    "mtime": 1793124328.9904437,
+    "seen": 1793554199.33728,
+    "ast_hash": "7e9db206f7e97a498cc38699c77f3acf",
+    "semantic_hash": "7e9db206f7e97a498cc38699c77f3acf"
+  },
+  "10-peraturan\\01-undang-undang\\UU 24-2004 - LPS.md": {
+    "mtime": 1793124328.9984224,
+    "seen": 1793554199.337281,
+    "ast_hash": "5b3cfd7f6bc7062763c918756af8cb3e",
+    "semantic_hash": "5b3cfd7f6bc7062763c918756af8cb3e"
+  },
+  "10-peraturan\\01-undang-undang\\UU 24-2013 - Adminduk Perubahan.md": {
+    "mtime": 1793124329.0024784,
+    "seen": 1793554199.3372817,
+    "ast_hash": "3481c9e03a7336b5c34903d32b994fa0",
+    "semantic_hash": "3481c9e03a7336b5c34903d32b994fa0"
+  },
+  "10-peraturan\\01-undang-undang\\UU 25-1992 - Perkoperasian.md": {
+    "mtime": 1793124329.0073805,
+    "seen": 1793554199.337283,
+    "ast_hash": "156b59fc0317a3dd37aebf6c96f42598",
+    "semantic_hash": "156b59fc0317a3dd37aebf6c96f42598"
+  },
+  "10-peraturan\\01-undang-undang\\UU 27-2022 - PDP.md": {
+    "mtime": 1793519064.8014984,
+    "seen": 1793554199.3372836,
+    "ast_hash": "98859fe09021a15d9c4e7411036cd42e",
+    "semantic_hash": "98859fe09021a15d9c4e7411036cd42e"
+  },
+  "10-peraturan\\01-undang-undang\\UU 3-2004 - BI Perubahan.md": {
+    "mtime": 1793124329.0073805,
+    "seen": 1793554199.3372843,
+    "ast_hash": "9acde5aa17a5ffbcbbe7a8e941b4c13d",
+    "semantic_hash": "9acde5aa17a5ffbcbbe7a8e941b4c13d"
+  },
+  "10-peraturan\\01-undang-undang\\UU 3-2024 - Desa Perubahan Kedua.md": {
+    "mtime": 1793124329.0073805,
+    "seen": 1793554199.337285,
+    "ast_hash": "cea4358e51e99c320cd42c1d5fa57ad1",
+    "semantic_hash": "cea4358e51e99c320cd42c1d5fa57ad1"
+  },
+  "10-peraturan\\01-undang-undang\\UU 32-1997 - Perdagangan Berjangka Komoditi.md": {
+    "mtime": 1793124329.0148575,
+    "seen": 1793554199.337286,
+    "ast_hash": "02d380586ce7ff320daeb7b0dd0b8f99",
+    "semantic_hash": "02d380586ce7ff320daeb7b0dd0b8f99"
+  },
+  "10-peraturan\\01-undang-undang\\UU 4-1996 - Hak Tanggungan atas Tanah.md": {
+    "mtime": 1793519064.8460088,
+    "seen": 1793554199.337287,
+    "ast_hash": "77e923563d628b34ae92662e14a4c033",
+    "semantic_hash": "77e923563d628b34ae92662e14a4c033"
+  },
+  "10-peraturan\\01-undang-undang\\UU 4-2023 - P2SK.md": {
+    "mtime": 1793124329.0360215,
+    "seen": 1793554199.3372877,
+    "ast_hash": "82f638567c07cb91790e3ab9faab0a41",
+    "semantic_hash": "82f638567c07cb91790e3ab9faab0a41"
+  },
+  "10-peraturan\\01-undang-undang\\UU 4-2026 - P2SK Perubahan.md": {
+    "mtime": 1793124329.0406697,
+    "seen": 1793554199.3372884,
+    "ast_hash": "987801c1870b58e485b10409b0b4281e",
+    "semantic_hash": "987801c1870b58e485b10409b0b4281e"
+  },
+  "10-peraturan\\01-undang-undang\\UU 40-2004 - SJSN.md": {
+    "mtime": 1793124329.0459733,
+    "seen": 1793554199.3372893,
+    "ast_hash": "f0482c4d9dadeb9362991854c8a4cc9e",
+    "semantic_hash": "f0482c4d9dadeb9362991854c8a4cc9e"
+  },
+  "10-peraturan\\01-undang-undang\\UU 40-2014 - Perasuransian.md": {
+    "mtime": 1793124329.0459733,
+    "seen": 1793554199.33729,
+    "ast_hash": "a5c0180fce4738b50f858f34b3f8b703",
+    "semantic_hash": "a5c0180fce4738b50f858f34b3f8b703"
+  },
+  "10-peraturan\\01-undang-undang\\UU 42-1999 - Jaminan Fidusia.md": {
+    "mtime": 1793124329.0459733,
+    "seen": 1793554199.337291,
+    "ast_hash": "640613e5ecbd01469e0526fb1970a421",
+    "semantic_hash": "640613e5ecbd01469e0526fb1970a421"
+  },
+  "10-peraturan\\01-undang-undang\\UU 5-2026 - Kepolisian Perubahan Ketiga.md": {
+    "mtime": 1793519684.4518738,
+    "seen": 1793554199.3372917,
+    "ast_hash": "ef84a86250fad3691740baf22a2cd9cf",
+    "semantic_hash": "ef84a86250fad3691740baf22a2cd9cf"
+  },
+  "10-peraturan\\01-undang-undang\\UU 6-2009 - BI Penetapan Perppu.md": {
+    "mtime": 1793124329.0459733,
+    "seen": 1793554199.3372924,
+    "ast_hash": "3d2464b522cc25199e55d5d34ff268e4",
+    "semantic_hash": "3d2464b522cc25199e55d5d34ff268e4"
+  },
+  "10-peraturan\\01-undang-undang\\UU 6-2023 - Cipta Kerja.md": {
+    "mtime": 1793124329.0840082,
+    "seen": 1793554199.3372936,
+    "ast_hash": "5fc03c6c26890671d76935b2add27b4d",
+    "semantic_hash": "5fc03c6c26890671d76935b2add27b4d"
+  },
+  "10-peraturan\\01-undang-undang\\UU 63-2024 - Keimigrasian Perubahan Ketiga.md": {
+    "mtime": 1793124329.0840082,
+    "seen": 1793554199.3372943,
+    "ast_hash": "f8d937b5f683055c9a34724a9679dcf5",
+    "semantic_hash": "f8d937b5f683055c9a34724a9679dcf5"
+  },
+  "10-peraturan\\01-undang-undang\\UU 65-2024 - Paten Perubahan Ketiga.md": {
+    "mtime": 1793519064.8964412,
+    "seen": 1793554199.337295,
+    "ast_hash": "cbc88cce0a8e8657adc3f74d4299c32a",
+    "semantic_hash": "cbc88cce0a8e8657adc3f74d4299c32a"
+  },
+  "10-peraturan\\01-undang-undang\\UU 66-2024 - Pelayaran Perubahan Ketiga.md": {
+    "mtime": 1793519064.9342947,
+    "seen": 1793554199.3372958,
+    "ast_hash": "a061ff456fea81b5e2c6d45a4283db9c",
+    "semantic_hash": "a061ff456fea81b5e2c6d45a4283db9c"
+  },
+  "10-peraturan\\01-undang-undang\\UU 7-1992 - Perbankan 1992.md": {
+    "mtime": 1793124329.090314,
+    "seen": 1793554199.3372972,
+    "ast_hash": "cb4bf24ffc95222cf5e3ed9a9bbed55d",
+    "semantic_hash": "cb4bf24ffc95222cf5e3ed9a9bbed55d"
+  },
+  "10-peraturan\\01-undang-undang\\UU 7-2009 - LPS Penetapan Perppu.md": {
+    "mtime": 1793124329.090314,
+    "seen": 1793554199.337298,
+    "ast_hash": "36b0e4816bfa66b75e201377eae49478",
+    "semantic_hash": "36b0e4816bfa66b75e201377eae49478"
+  },
+  "10-peraturan\\01-undang-undang\\UU 7-2011 - Mata Uang.md": {
+    "mtime": 1793124329.090314,
+    "seen": 1793554199.3372989,
+    "ast_hash": "6300654a327d155fb554ed026fb19afa",
+    "semantic_hash": "6300654a327d155fb554ed026fb19afa"
+  },
+  "10-peraturan\\01-undang-undang\\UU 8-1995 - Pasar Modal.md": {
+    "mtime": 1793124329.0977502,
+    "seen": 1793554199.3372998,
+    "ast_hash": "43e7b2a19b4d2444b96bc482d4b3e999",
+    "semantic_hash": "43e7b2a19b4d2444b96bc482d4b3e999"
+  },
+  "10-peraturan\\01-undang-undang\\UU 9-2016 - PPKSK.md": {
+    "mtime": 1793124329.0977502,
+    "seen": 1793554199.3373005,
+    "ast_hash": "1b91845544ba956f3455c8954624abed",
+    "semantic_hash": "1b91845544ba956f3455c8954624abed"
+  },
+  "10-peraturan\\03-peraturan-pemerintah\\PP 17-2025 - Pelindungan Anak dalam Sistem Elektronik.md": {
+    "mtime": 1793519182.3950768,
+    "seen": 1793554199.3373013,
+    "ast_hash": "241ae38f7bf9276e5fb15fd0369b1629",
+    "semantic_hash": "241ae38f7bf9276e5fb15fd0369b1629"
+  },
+  "10-peraturan\\03-peraturan-pemerintah\\PP 21-2015 - Pendaftaran Jaminan Fidusia.md": {
+    "mtime": 1793124329.1056225,
+    "seen": 1793554199.3373022,
+    "ast_hash": "0f7173bfd832dce4c26a01c7a0affe64",
+    "semantic_hash": "0f7173bfd832dce4c26a01c7a0affe64"
+  },
+  "10-peraturan\\03-peraturan-pemerintah\\PP 33-2026 - Pelaksanaan UU PDP.md": {
+    "mtime": 1793124329.107402,
+    "seen": 1793554199.337303,
+    "ast_hash": "135924b3635582e867beb66be3f3612a",
+    "semantic_hash": "135924b3635582e867beb66be3f3612a"
+  },
+  "10-peraturan\\03-peraturan-pemerintah\\PP 40-2019 - Pelaksanaan UU Adminduk.md": {
+    "mtime": 1793124329.107402,
+    "seen": 1793554199.3373039,
+    "ast_hash": "49288f73e1abc4ef837060d2a8a66167",
+    "semantic_hash": "49288f73e1abc4ef837060d2a8a66167"
+  },
+  "10-peraturan\\03-peraturan-pemerintah\\PP 7-2021 - Koperasi dan UMKM.md": {
+    "mtime": 1793124329.107402,
+    "seen": 1793554199.3373046,
+    "ast_hash": "dbcdd00a4cba35b6b03b3d6ddfd69487",
+    "semantic_hash": "dbcdd00a4cba35b6b03b3d6ddfd69487"
+  },
+  "10-peraturan\\03-peraturan-pemerintah\\PP 71-2019 - PSTE.md": {
+    "mtime": 1793124329.1241353,
+    "seen": 1793554199.3373053,
+    "ast_hash": "d8691931df9b1d9ffd4f8a65b6566f0c",
+    "semantic_hash": "d8691931df9b1d9ffd4f8a65b6566f0c"
+  },
+  "10-peraturan\\03-peraturan-pemerintah\\PP 80-2019 - PMSE.md": {
+    "mtime": 1793124329.1241353,
+    "seen": 1793554199.337306,
+    "ast_hash": "0fed1df00e9592525f5ec131777e7385",
+    "semantic_hash": "0fed1df00e9592525f5ec131777e7385"
+  },
+  "10-peraturan\\04-peraturan-presiden\\PERPRES 82-2022 - Pelindungan Infrastruktur Informasi Vital.md": {
+    "mtime": 1793519182.424072,
+    "seen": 1793554199.337307,
+    "ast_hash": "0b27d2956de494e1cd6b56e33e771d5f",
+    "semantic_hash": "0b27d2956de494e1cd6b56e33e771d5f"
+  },
+  "10-peraturan\\04-peraturan-presiden\\PERPRES 96-2018 - Pendaftaran Penduduk dan Pencatatan Sipil.md": {
+    "mtime": 1793519182.4355366,
+    "seen": 1793554199.3373077,
+    "ast_hash": "b25122bb60703e5c048c0b879a0c9ba6",
+    "semantic_hash": "b25122bb60703e5c048c0b879a0c9ba6"
+  },
+  "10-peraturan\\05-peraturan-menteri\\INSTRUKSI 1-2023 - Pemberantasan Perjudian Online.md": {
+    "mtime": 1793553174.6778102,
+    "seen": 1793554199.3373086,
+    "ast_hash": "3af8ca32c87fc88d113df7ceaa7f2db4",
+    "semantic_hash": "3af8ca32c87fc88d113df7ceaa7f2db4"
+  },
+  "10-peraturan\\05-peraturan-menteri\\KEPMENKOMDIGI 140-2026 - Layanan Jejaring dan Media Sosial Risiko Tinggi.md": {
+    "mtime": 1793553174.6239882,
+    "seen": 1793554199.3373094,
+    "ast_hash": "b102559dac1020eb19a6ce176d8beb16",
+    "semantic_hash": "b102559dac1020eb19a6ce176d8beb16"
+  },
+  "10-peraturan\\05-peraturan-menteri\\KEPMENKOMDIGI 142-2026 - Indikator dan Penilaian Risiko Akses Anak.md": {
+    "mtime": 1793553174.674808,
+    "seen": 1793554199.3373103,
+    "ast_hash": "dcfd139fb82882611a008ed12a0f3a59",
+    "semantic_hash": "dcfd139fb82882611a008ed12a0f3a59"
+  },
+  "10-peraturan\\05-peraturan-menteri\\KEPMENKOMDIGI 219-2026 - Perubahan Kepmen 142-2026 Risiko Anak.md": {
+    "mtime": 1793553174.676808,
+    "seen": 1793554199.337311,
+    "ast_hash": "aaa68d5ec7f220e48279483f24ef5229",
+    "semantic_hash": "aaa68d5ec7f220e48279483f24ef5229"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMEN-ESDM 11-2022 - PERUBAHAN ATAS PERATURAN MENTERI ENERGI DAN SUMB.md": {
+    "mtime": 1793530858.1820374,
+    "seen": 1793554199.337312,
+    "ast_hash": "790998af0290f7779eb131e850dc2049",
+    "semantic_hash": "790998af0290f7779eb131e850dc2049"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMEN-ESDM 20-2021 - PERHITUNGAN HARGA JUAL ECERAN BAHAN BAKAR MINYAK.md": {
+    "mtime": 1793530858.1820374,
+    "seen": 1793554199.337313,
+    "ast_hash": "2d4f204d6921000dca99ba646b7f3a8d",
+    "semantic_hash": "2d4f204d6921000dca99ba646b7f3a8d"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENDAGRI 108-2019 - Pelaksanaan Perpres 96-2018 Adminduk.md": {
+    "mtime": 1793519182.5079067,
+    "seen": 1793554199.3373137,
+    "ast_hash": "c18c539d2328c11b6fbb0ffa05ffc07d",
+    "semantic_hash": "c18c539d2328c11b6fbb0ffa05ffc07d"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENDAGRI 72-2022 - Blangko KTP-el dan Identitas Digital.md": {
+    "mtime": 1793519182.5630195,
+    "seen": 1793554199.3373144,
+    "ast_hash": "4cdf6e51b56d0d2a7ffc95a6bad87bfc",
+    "semantic_hash": "4cdf6e51b56d0d2a7ffc95a6bad87bfc"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENDAGRI 95-2019 - Sistem Informasi Administrasi Kependudukan.md": {
+    "mtime": 1793519182.5994756,
+    "seen": 1793554199.3373153,
+    "ast_hash": "f1b12940cf9e3c2a985831874d864616",
+    "semantic_hash": "f1b12940cf9e3c2a985831874d864616"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENKOMDIGI 9-2026 - Pelaksanaan PP 17-2025 Pelindungan Anak.md": {
+    "mtime": 1793519182.668146,
+    "seen": 1793554199.337316,
+    "ast_hash": "0c1959604691783beb226d1a8e608eef",
+    "semantic_hash": "0c1959604691783beb226d1a8e608eef"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENKOMINFO 10-2021 - Perubahan PSE Lingkup Privat.md": {
+    "mtime": 1793519182.694507,
+    "seen": 1793554199.3373168,
+    "ast_hash": "832a5ca3eb3959b7b3e58a8040d0a243",
+    "semantic_hash": "832a5ca3eb3959b7b3e58a8040d0a243"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENKOMINFO 19-2014 - Penanganan Situs Bermuatan Negatif.md": {
+    "mtime": 1793519182.6955738,
+    "seen": 1793554199.3373177,
+    "ast_hash": "fcefecc44fcf6757151232e229e8ff56",
+    "semantic_hash": "fcefecc44fcf6757151232e229e8ff56"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENKOMINFO 20-2016 - PDP dalam Sistem Elektronik.md": {
+    "mtime": 1793519182.7037375,
+    "seen": 1793554199.3373184,
+    "ast_hash": "2a11111b66114d86c50ecfbe947aad19",
+    "semantic_hash": "2a11111b66114d86c50ecfbe947aad19"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENKOMINFO 5-2020 - PSE Lingkup Privat.md": {
+    "mtime": 1793519182.7204428,
+    "seen": 1793554199.3373194,
+    "ast_hash": "8a9d2e59068a76f70dad86f3d7dc7d0d",
+    "semantic_hash": "8a9d2e59068a76f70dad86f3d7dc7d0d"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENKOP 2-2024 - Kebijakan Akuntansi Koperasi.md": {
+    "mtime": 1793519182.7354622,
+    "seen": 1793554199.33732,
+    "ast_hash": "27eefd8866dee0b44a6ae3f81f54989e",
+    "semantic_hash": "27eefd8866dee0b44a6ae3f81f54989e"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENKOP 8-2023 - Usaha Simpan Pinjam Koperasi.md": {
+    "mtime": 1793519182.7676222,
+    "seen": 1793554199.337321,
+    "ast_hash": "7156a64c25918e960ea69361a7d7729b",
+    "semantic_hash": "7156a64c25918e960ea69361a7d7729b"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENKUMHAM 10-2013 - Pendaftaran Fidusia Elektronik.md": {
+    "mtime": 1793519182.828995,
+    "seen": 1793554199.3373218,
+    "ast_hash": "fbb00df8ed7442d3e5b5e8a3379192ce",
+    "semantic_hash": "fbb00df8ed7442d3e5b5e8a3379192ce"
+  },
+  "10-peraturan\\05-peraturan-menteri\\PERMENKUMHAM 25-2021 - Perubahan Pendaftaran Fidusia Elektronik.md": {
+    "mtime": 1793519182.8400333,
+    "seen": 1793554199.3373225,
+    "ast_hash": "61dc1586163428a070de4a89c7caf046",
+    "semantic_hash": "61dc1586163428a070de4a89c7caf046"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 1-2013 - Perlindungan Konsumen Sektor Jasa Keuangan.md": {
+    "mtime": 1793519182.8600585,
+    "seen": 1793554199.3373232,
+    "ast_hash": "061157fbff6a12ab376f88748c6bac93",
+    "semantic_hash": "061157fbff6a12ab376f88748c6bac93"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 1-2024 - Kualitas Aset Bank Perekonomian Rakyat.md": {
+    "mtime": 1793124329.1414042,
+    "seen": 1793554199.3373241,
+    "ast_hash": "bfbca3c2cd5cb8b300ccd3d7b3d81c9b",
+    "semantic_hash": "bfbca3c2cd5cb8b300ccd3d7b3d81c9b"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 11-2022 - Penyelenggaraan Teknologi Informasi oleh Bank Umum.md": {
+    "mtime": 1793124329.1414042,
+    "seen": 1793554199.3373249,
+    "ast_hash": "59576e40c565440c7121f046c9edba7e",
+    "semantic_hash": "59576e40c565440c7121f046c9edba7e"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 12-2021 - Bank Umum.md": {
+    "mtime": 1793519182.922447,
+    "seen": 1793554199.3373258,
+    "ast_hash": "3cc3a026e4d3c1c3d1e1c118618bcf8d",
+    "semantic_hash": "3cc3a026e4d3c1c3d1e1c118618bcf8d"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 16-2022 - Bank Umum Syariah.md": {
+    "mtime": 1793124329.1576574,
+    "seen": 1793554199.3373265,
+    "ast_hash": "114c2cb4259ff4e37cf96569057d8f9a",
+    "semantic_hash": "114c2cb4259ff4e37cf96569057d8f9a"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 17-2025 - Penawaran Efek Melalui Layanan Urun Dana Berbasis.md": {
+    "mtime": 1793124329.168686,
+    "seen": 1793554199.3373272,
+    "ast_hash": "06b44d88aaa3b3ee7aa47c49a51b1b17",
+    "semantic_hash": "06b44d88aaa3b3ee7aa47c49a51b1b17"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 18-2017 - Pelaporan dan Permintaan Informasi Debitur SLIK.md": {
+    "mtime": 1793124329.168686,
+    "seen": 1793554199.3373282,
+    "ast_hash": "cc79d55e2b854ee5fb942cd3a1bc8da8",
+    "semantic_hash": "cc79d55e2b854ee5fb942cd3a1bc8da8"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS.md": {
+    "mtime": 1793124329.170691,
+    "seen": 1793554199.3373291,
+    "ast_hash": "d58b7778ad520403049042439f72c3a2",
+    "semantic_hash": "d58b7778ad520403049042439f72c3a2"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 22-2023 - Pelindungan Konsumen dan Masyarakat di Sektor Jasa.md": {
+    "mtime": 1793124329.174074,
+    "seen": 1793554199.3373299,
+    "ast_hash": "906c2d35e6645368b409fc09adb7ad42",
+    "semantic_hash": "906c2d35e6645368b409fc09adb7ad42"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 22-2024 - Laporan Berkala Perusahaan Perasuransian.md": {
+    "mtime": 1793124329.182457,
+    "seen": 1793554199.3373306,
+    "ast_hash": "af4119079c41d32e2099818d59372888",
+    "semantic_hash": "af4119079c41d32e2099818d59372888"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 23-2025 - Perubahan atas POJK 27-2024 (Aset Keuangan Digital.md": {
+    "mtime": 1793124329.182457,
+    "seen": 1793554199.3373318,
+    "ast_hash": "2cd32ff1496633f70a880bf0a32dd55e",
+    "semantic_hash": "2cd32ff1496633f70a880bf0a32dd55e"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 24-2025 - Pengelolaan Rekening pada Bank Umum.md": {
+    "mtime": 1793124329.189152,
+    "seen": 1793554199.3373358,
+    "ast_hash": "6358449dc664d98cf1b15390d8bba350",
+    "semantic_hash": "6358449dc664d98cf1b15390d8bba350"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 27-2024 - Penyelenggaraan Perdagangan Aset Keuangan Digital.md": {
+    "mtime": 1793124329.1907992,
+    "seen": 1793554199.3373365,
+    "ast_hash": "0be52ae87c1aa2fc28e100e6503a3d31",
+    "semantic_hash": "0be52ae87c1aa2fc28e100e6503a3d31"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 29-2025 - Perubahan atas POJK 39-2024 tentang Pergadaian.md": {
+    "mtime": 1793124329.1907992,
+    "seen": 1793554199.3373375,
+    "ast_hash": "f301f06de7232de7edb8db881068b402",
+    "semantic_hash": "f301f06de7232de7edb8db881068b402"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 3-2024 - Penyelenggaraan Inovasi Teknologi Sektor Keuangan.md": {
+    "mtime": 1793124329.1907992,
+    "seen": 1793554199.3373384,
+    "ast_hash": "0f616c2fedb998e276525dfe5bbdd2e3",
+    "semantic_hash": "0f616c2fedb998e276525dfe5bbdd2e3"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 33-2024 - Pengembangan dan Penguatan Pengelolaan Investasi di.md": {
+    "mtime": 1793124329.205624,
+    "seen": 1793554199.3373392,
+    "ast_hash": "4fa6edfea7514ad603a050a390d9de5e",
+    "semantic_hash": "4fa6edfea7514ad603a050a390d9de5e"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 33-2025 - Penilaian Tingkat Kesehatan Perusahaan.md": {
+    "mtime": 1793124329.2069976,
+    "seen": 1793554199.3373399,
+    "ast_hash": "9be5bdc7800e49ca4906990680a37c20",
+    "semantic_hash": "9be5bdc7800e49ca4906990680a37c20"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 36-2024 - Perubahan atas POJK 69-POJK.05-2016.md": {
+    "mtime": 1793124329.2069976,
+    "seen": 1793554199.3373408,
+    "ast_hash": "eea29558d3e10a4e7769e101d775b91d",
+    "semantic_hash": "eea29558d3e10a4e7769e101d775b91d"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 37-2025 - Penetapan Status dan Tindak Lanjut Pengawasan.md": {
+    "mtime": 1793124329.2126634,
+    "seen": 1793554199.3373418,
+    "ast_hash": "70dfd0fd4a5ee1d6a8a74a9e68e40247",
+    "semantic_hash": "70dfd0fd4a5ee1d6a8a74a9e68e40247"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 39-2024 - Pergadaian.md": {
+    "mtime": 1793124329.222293,
+    "seen": 1793554199.3373425,
+    "ast_hash": "b2b38d8a7b55aacdede589827e4cdad9",
+    "semantic_hash": "b2b38d8a7b55aacdede589827e4cdad9"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 4-2023 - Perubahan Kedua atas POJK 23-POJK.04-2016 tentang.md": {
+    "mtime": 1793124329.2239172,
+    "seen": 1793554199.3373432,
+    "ast_hash": "ed050c07cdd7d3c498d968c0997f5612",
+    "semantic_hash": "ed050c07cdd7d3c498d968c0997f5612"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 40-2024 - Layanan Pendanaan Bersama Berbasis Teknologi.md": {
+    "mtime": 1793124329.230867,
+    "seen": 1793554199.337344,
+    "ast_hash": "46d06d74f08cefaabde238b69156e92b",
+    "semantic_hash": "46d06d74f08cefaabde238b69156e92b"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 42-2017 - Kebijakan Perkreditan Bank Umum.md": {
+    "mtime": 1793124329.230867,
+    "seen": 1793554199.337345,
+    "ast_hash": "6397cd34d186614954f1e99fd5374f58",
+    "semantic_hash": "6397cd34d186614954f1e99fd5374f58"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 46-2024 - Pengembangan dan Penguatan Perusahaan Pembiayaan.md": {
+    "mtime": 1793124329.2569609,
+    "seen": 1793554199.3373456,
+    "ast_hash": "fdcdd7037f881d8fbe87a063580165ed",
+    "semantic_hash": "fdcdd7037f881d8fbe87a063580165ed"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 47-2024 - Koperasi di Sektor Jasa Keuangan.md": {
+    "mtime": 1793124329.2606575,
+    "seen": 1793554199.3373463,
+    "ast_hash": "168028b38bfbf1b863a5ea2af80fa9ec",
+    "semantic_hash": "168028b38bfbf1b863a5ea2af80fa9ec"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 6-2026 - Perilaku Penyampai Informasi Sektor Jasa Keuangan.md": {
+    "mtime": 1793528781.0333593,
+    "seen": 1793554199.337347,
+    "ast_hash": "fd59b8ecfb3fd488ad7dd7b52d95b191",
+    "semantic_hash": "fd59b8ecfb3fd488ad7dd7b52d95b191"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 65-2016 - Manajemen Risiko BUS dan UUS.md": {
+    "mtime": 1793124329.2626624,
+    "seen": 1793554199.337348,
+    "ast_hash": "98a611461a5714bd47ce79fc1afb6aaa",
+    "semantic_hash": "98a611461a5714bd47ce79fc1afb6aaa"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 69-2016 - Penyelenggaraan Usaha Perusahaan Asuransi.md": {
+    "mtime": 1793519183.015772,
+    "seen": 1793554199.337349,
+    "ast_hash": "a300ec94e2fa4e4c063b2921b7201aa1",
+    "semantic_hash": "a300ec94e2fa4e4c063b2921b7201aa1"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 7-2024 - Bank Perekonomian Rakyat dan Bank Perekonomian.md": {
+    "mtime": 1793124329.2722504,
+    "seen": 1793554199.3373497,
+    "ast_hash": "f4dc77bcff3a9026c48a84f0b01881d0",
+    "semantic_hash": "f4dc77bcff3a9026c48a84f0b01881d0"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 7-2026 - Modal Minimum BPR.md": {
+    "mtime": 1793528781.0333593,
+    "seen": 1793554199.3373504,
+    "ast_hash": "cd868310129eee73cd470f09c8eafc24",
+    "semantic_hash": "cd868310129eee73cd470f09c8eafc24"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 8-2023 - Penerapan Program APU, PPT, dan PPPSPM di Sektor.md": {
+    "mtime": 1793124329.274146,
+    "seen": 1793554199.3373513,
+    "ast_hash": "ed71154d0a0078aebf4e7a3ad3730a4c",
+    "semantic_hash": "ed71154d0a0078aebf4e7a3ad3730a4c"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 8-2024 - Produk Asuransi dan Saluran Pemasaran Produk.md": {
+    "mtime": 1793124329.2825258,
+    "seen": 1793554199.3373523,
+    "ast_hash": "e03611f4d17757b07877946bfd9cd978",
+    "semantic_hash": "e03611f4d17757b07877946bfd9cd978"
+  },
+  "10-peraturan\\06-peraturan-ojk\\POJK 8-2026 - Pelaporan Data Transaksi LPBBTI.md": {
+    "mtime": 1793528781.0333593,
+    "seen": 1793554199.337353,
+    "ast_hash": "c9a6351292630463b058c204e796eb66",
+    "semantic_hash": "c9a6351292630463b058c204e796eb66"
+  },
+  "10-peraturan\\06-peraturan-ojk\\SEOJK 19-2023 - Penyelenggaraan Layanan Pendanaan Bersama Berbasis.md": {
+    "mtime": 1793525115.0706155,
+    "seen": 1793554199.3373537,
+    "ast_hash": "0c55066e9d6475698d1ee12b73e73504",
+    "semantic_hash": "0c55066e9d6475698d1ee12b73e73504"
+  },
+  "10-peraturan\\06-peraturan-ojk\\SEOJK 20-2024 - Penyelenggaraan Perdagangan Aset Keuangan Digital.md": {
+    "mtime": 1793525115.0815947,
+    "seen": 1793554199.3373547,
+    "ast_hash": "2e8ee571cd61822b20aab9b765fce294",
+    "semantic_hash": "2e8ee571cd61822b20aab9b765fce294"
+  },
+  "10-peraturan\\06-peraturan-ojk\\SEOJK 5-2024 - Mekanisme Ruang Uji Coba dan Pengembangan Inovasi.md": {
+    "mtime": 1793525115.0815947,
+    "seen": 1793554199.3373556,
+    "ast_hash": "e3130d983ef366009e7b53c2fad3d85b",
+    "semantic_hash": "e3130d983ef366009e7b53c2fad3d85b"
+  },
+  "10-peraturan\\06-peraturan-ojk\\SEOJK 6-2024 - Pendaftaran Penyelenggara Inovasi Teknologi Sektor.md": {
+    "mtime": 1793519183.0641508,
+    "seen": 1793554199.3373563,
+    "ast_hash": "c7afcae0eab6611b7820c6ae7d28ceac",
+    "semantic_hash": "c7afcae0eab6611b7820c6ae7d28ceac"
+  },
+  "10-peraturan\\06-peraturan-ojk\\SEOJK 8-2015 - Penilaian Kualitas Aset BUS dan UUS.md": {
+    "mtime": 1793519183.0658193,
+    "seen": 1793554199.3373573,
+    "ast_hash": "33246cfdaf378132576a15d682762709",
+    "semantic_hash": "33246cfdaf378132576a15d682762709"
+  },
+  "10-peraturan\\08-peraturan-polri\\PERPOL 8-2021 - Penanganan Tindak Pidana Keadilan Restoratif.md": {
+    "mtime": 1793528781.0333593,
+    "seen": 1793554199.337358,
+    "ast_hash": "5ef3ba526885fb0582157a6305aa1908",
+    "semantic_hash": "5ef3ba526885fb0582157a6305aa1908"
+  },
+  "10-peraturan\\08-peraturan-polri\\SE-KAPOLRI 2-2021 - Penegakan Hukum UU ITE.md": {
+    "mtime": 1793553174.6788087,
+    "seen": 1793554199.337359,
+    "ast_hash": "0dabe7f9d7d5ecc378d0eb1b8f0b3487",
+    "semantic_hash": "0dabe7f9d7d5ecc378d0eb1b8f0b3487"
+  },
+  "10-peraturan\\09-instrumen-lain\\INPRES 18-1998 - Peningkatan Pembinaan Perkoperasian.md": {
+    "mtime": 1793519183.0678694,
+    "seen": 1793554199.3373597,
+    "ast_hash": "318d80fc978e5c06f8cfbb74ef1c6cbd",
+    "semantic_hash": "318d80fc978e5c06f8cfbb74ef1c6cbd"
+  },
+  "10-peraturan\\09-instrumen-lain\\INPRES 4-1984 - Pembinaan dan Pengembangan KUD.md": {
+    "mtime": 1793519183.0689065,
+    "seen": 1793554199.3373604,
+    "ast_hash": "ef96a56d52bbbabacd6dfed854a0b6bb",
+    "semantic_hash": "ef96a56d52bbbabacd6dfed854a0b6bb"
+  },
+  "10-peraturan\\09-instrumen-lain\\JUKRAH 2021 - Izin Presiden dan Mendagri.md": {
+    "mtime": 1793519183.0735397,
+    "seen": 1793554199.3373613,
+    "ast_hash": "90ee75df50c00da2528e6011b837e7be",
+    "semantic_hash": "90ee75df50c00da2528e6011b837e7be"
+  },
+  "10-peraturan\\09-instrumen-lain\\SKB 229-2021 - Pedoman Implementasi UU ITE.md": {
+    "mtime": 1793553174.6778102,
+    "seen": 1793554199.3373623,
+    "ast_hash": "81dc5d9b999dbac9c12126bc219f52a0",
+    "semantic_hash": "81dc5d9b999dbac9c12126bc219f52a0"
+  },
+  "01-moc\\Indeks Penjelasan.md": {
+    "mtime": 1793553236.3620377,
+    "seen": 1793554199.337363,
+    "ast_hash": "b1d7eef34faff0de9bd14d63f469b315",
+    "semantic_hash": "b1d7eef34faff0de9bd14d63f469b315"
+  },
+  "01-moc\\Keuangan.md": {
+    "mtime": 1793528827.2865279,
+    "seen": 1793554199.3373637,
+    "ast_hash": "94458712de17d43b41779ee5b7f3a070",
+    "semantic_hash": "94458712de17d43b41779ee5b7f3a070"
+  },
+  "01-moc\\Pertanahan.md": {
+    "mtime": 1793125142.4311674,
+    "seen": 1793554199.3373644,
+    "ast_hash": "d5ac102659c7ade00d3f75d852f10bc9",
+    "semantic_hash": "d5ac102659c7ade00d3f75d852f10bc9"
+  },
+  "01-moc\\Pidana.md": {
+    "mtime": 1793528827.322204,
+    "seen": 1793554199.3373654,
+    "ast_hash": "2b1bcfe4e8606de33f57e51b190f0e1f",
+    "semantic_hash": "2b1bcfe4e8606de33f57e51b190f0e1f"
+  },
+  "01-moc\\Siber.md": {
+    "mtime": 1793553198.190241,
+    "seen": 1793554199.3373663,
+    "ast_hash": "6115820b713fc9cca7807376901fc476",
+    "semantic_hash": "6115820b713fc9cca7807376901fc476"
+  },
+  "01-moc\\Tipidter.md": {
+    "mtime": 1793530858.1302898,
+    "seen": 1793554199.337367,
+    "ast_hash": "68c878d569da2491e50d1e677966949c",
+    "semantic_hash": "68c878d569da2491e50d1e677966949c"
+  },
+  "01-moc\\Umum.md": {
+    "mtime": 1793519684.5248194,
+    "seen": 1793554199.3373678,
+    "ast_hash": "460e43183a621e005b400c47bcb016aa",
+    "semantic_hash": "460e43183a621e005b400c47bcb016aa"
+  },
+  "01-moc\\_Index_JUKRAH_1_2021.md": {
+    "mtime": 1793522666.0715365,
+    "seen": 1793554199.3373687,
+    "ast_hash": "62f43cb4ab7d5bbd53fd10aaa342bd3c",
+    "semantic_hash": "62f43cb4ab7d5bbd53fd10aaa342bd3c"
+  },
+  "01-moc\\_Index_JUKRAH_2021.md": {
+    "mtime": 1793519183.0750864,
+    "seen": 1793554199.3373697,
+    "ast_hash": "2d24c891e29ded7071b0ded475d221aa",
+    "semantic_hash": "2d24c891e29ded7071b0ded475d221aa"
+  },
+  "01-moc\\_Index_PERMENDAGRI_108_2019.md": {
+    "mtime": 1793522663.4521322,
+    "seen": 1793554199.3373704,
+    "ast_hash": "a8d38aa04b7ad074b8c8dda643abaecb",
+    "semantic_hash": "a8d38aa04b7ad074b8c8dda643abaecb"
+  },
+  "01-moc\\_Index_PERMENDAGRI_72_2022.md": {
+    "mtime": 1793522663.4780774,
+    "seen": 1793554199.3373713,
+    "ast_hash": "6393d88d3e6adff7281d0cce4ac023f8",
+    "semantic_hash": "6393d88d3e6adff7281d0cce4ac023f8"
+  },
+  "01-moc\\_Index_PERMENDAGRI_95_2019.md": {
+    "mtime": 1793522663.5462694,
+    "seen": 1793554199.337372,
+    "ast_hash": "8a56c6884f5e81feab4b5c96f3804a05",
+    "semantic_hash": "8a56c6884f5e81feab4b5c96f3804a05"
+  },
+  "01-moc\\_Index_PERMENKOMDIGI_9_2026.md": {
+    "mtime": 1793522663.5888047,
+    "seen": 1793554199.337373,
+    "ast_hash": "fbb13aef0214b2e78c2d1ae23de14c29",
+    "semantic_hash": "fbb13aef0214b2e78c2d1ae23de14c29"
+  },
+  "01-moc\\_Index_PERMENKOMINFO_20_2016.md": {
+    "mtime": 1793522663.6151376,
+    "seen": 1793554199.3373737,
+    "ast_hash": "f1d98c6d54ac905a077eb5d49823f778",
+    "semantic_hash": "f1d98c6d54ac905a077eb5d49823f778"
+  },
+  "01-moc\\_Index_PERMENKOP_2_2024.md": {
+    "mtime": 1793522663.635182,
+    "seen": 1793554199.3373744,
+    "ast_hash": "8d6c5ea2a4a2d7d5193dffd26525227a",
+    "semantic_hash": "8d6c5ea2a4a2d7d5193dffd26525227a"
+  },
+  "01-moc\\_Index_PERMENKOP_8_2023.md": {
+    "mtime": 1793522663.708595,
+    "seen": 1793554199.3373754,
+    "ast_hash": "72d27183e4d33d6326d7c8edd8759d9d",
+    "semantic_hash": "72d27183e4d33d6326d7c8edd8759d9d"
+  },
+  "01-moc\\_Index_PERMENKUMHAM_10_2013.md": {
+    "mtime": 1793522663.7164652,
+    "seen": 1793554199.337376,
+    "ast_hash": "654a8d9bff2502a453a2f48ac205fe58",
+    "semantic_hash": "654a8d9bff2502a453a2f48ac205fe58"
+  },
+  "01-moc\\_Index_PERMENKUMHAM_25_2021.md": {
+    "mtime": 1793522663.7320504,
+    "seen": 1793554199.337377,
+    "ast_hash": "f1380fbeb15e2b1d6050ddcb1a7339f4",
+    "semantic_hash": "f1380fbeb15e2b1d6050ddcb1a7339f4"
+  },
+  "01-moc\\_Index_PERMEN_ESDM_11_2022.md": {
+    "mtime": 1793530858.1302898,
+    "seen": 1793554199.3373778,
+    "ast_hash": "40cfdd6615d2e3a1f5d28138329a2dfc",
+    "semantic_hash": "40cfdd6615d2e3a1f5d28138329a2dfc"
+  },
+  "01-moc\\_Index_PERMEN_ESDM_20_2021.md": {
+    "mtime": 1793530858.1302898,
+    "seen": 1793554199.3373787,
+    "ast_hash": "1575c29d1c631a4c94ae1ecc4446024c",
+    "semantic_hash": "1575c29d1c631a4c94ae1ecc4446024c"
+  },
+  "01-moc\\_Index_PERPRES_96_2018.md": {
+    "mtime": 1793522663.3703742,
+    "seen": 1793554199.3373797,
+    "ast_hash": "e99ad012ab30546de287755e0579a878",
+    "semantic_hash": "e99ad012ab30546de287755e0579a878"
+  },
+  "01-moc\\_Index_POJK_11_2022.md": {
+    "mtime": 1793522663.8758214,
+    "seen": 1793554199.3373804,
+    "ast_hash": "6d2ac3d2bd017797682aa6228c3b8977",
+    "semantic_hash": "6d2ac3d2bd017797682aa6228c3b8977"
+  },
+  "01-moc\\_Index_POJK_12_2021.md": {
+    "mtime": 1793522663.9702837,
+    "seen": 1793554199.3373811,
+    "ast_hash": "0641c91ce8c31444c4dbe495af3b6038",
+    "semantic_hash": "0641c91ce8c31444c4dbe495af3b6038"
+  },
+  "01-moc\\_Index_POJK_16_2022.md": {
+    "mtime": 1793522664.0843391,
+    "seen": 1793554199.337382,
+    "ast_hash": "448b6301cb0c61334e66077be6f45770",
+    "semantic_hash": "448b6301cb0c61334e66077be6f45770"
+  },
+  "01-moc\\_Index_POJK_17_2025.md": {
+    "mtime": 1793522664.2324812,
+    "seen": 1793554199.3373828,
+    "ast_hash": "a9b27472fd204a14af05094e98d8e84b",
+    "semantic_hash": "a9b27472fd204a14af05094e98d8e84b"
+  },
+  "01-moc\\_Index_POJK_18_2017.md": {
+    "mtime": 1793522664.2643917,
+    "seen": 1793554199.337384,
+    "ast_hash": "572b3aaccf972e3d4e1c3c7be8830370",
+    "semantic_hash": "572b3aaccf972e3d4e1c3c7be8830370"
+  },
+  "01-moc\\_Index_POJK_19_2018.md": {
+    "mtime": 1793522664.2731571,
+    "seen": 1793554199.3373847,
+    "ast_hash": "022b36ccb9cc51d63dacb356e64f1309",
+    "semantic_hash": "022b36ccb9cc51d63dacb356e64f1309"
+  },
+  "01-moc\\_Index_POJK_1_2013.md": {
+    "mtime": 1793522663.760756,
+    "seen": 1793554199.3373857,
+    "ast_hash": "5d0832f02c1f3d3c417c351c2b3c8e09",
+    "semantic_hash": "5d0832f02c1f3d3c417c351c2b3c8e09"
+  },
+  "01-moc\\_Index_POJK_1_2024.md": {
+    "mtime": 1793522663.8203785,
+    "seen": 1793554199.3373866,
+    "ast_hash": "7f16366ec9885b9c73fb96ea1e7901a1",
+    "semantic_hash": "7f16366ec9885b9c73fb96ea1e7901a1"
+  },
+  "01-moc\\_Index_POJK_22_2023.md": {
+    "mtime": 1793522664.3906653,
+    "seen": 1793554199.3373876,
+    "ast_hash": "70a03d16b8c9d35b4bb470e204a92a08",
+    "semantic_hash": "70a03d16b8c9d35b4bb470e204a92a08"
+  },
+  "01-moc\\_Index_POJK_22_2024.md": {
+    "mtime": 1793522664.4043136,
+    "seen": 1793554199.3373883,
+    "ast_hash": "a1ac61fd2d511d9d7b9e8e728fcc63e2",
+    "semantic_hash": "a1ac61fd2d511d9d7b9e8e728fcc63e2"
+  },
+  "01-moc\\_Index_POJK_23_2025.md": {
+    "mtime": 1793522664.4690375,
+    "seen": 1793554199.3373892,
+    "ast_hash": "dae6336668fd6a8b3c7ee976ced68601",
+    "semantic_hash": "dae6336668fd6a8b3c7ee976ced68601"
+  },
+  "01-moc\\_Index_POJK_24_2025.md": {
+    "mtime": 1793522664.485595,
+    "seen": 1793554199.3373902,
+    "ast_hash": "71596d0c88f9f2b913b50d7b4b3e7a3e",
+    "semantic_hash": "71596d0c88f9f2b913b50d7b4b3e7a3e"
+  },
+  "01-moc\\_Index_POJK_27_2024.md": {
+    "mtime": 1793522664.6159012,
+    "seen": 1793554199.337391,
+    "ast_hash": "0f187e307c925cbf608af9f79e4e3ab7",
+    "semantic_hash": "0f187e307c925cbf608af9f79e4e3ab7"
+  },
+  "01-moc\\_Index_POJK_29_2025.md": {
+    "mtime": 1793522664.6491787,
+    "seen": 1793554199.3373919,
+    "ast_hash": "770897e48ec13b476e85da5ca91f9852",
+    "semantic_hash": "770897e48ec13b476e85da5ca91f9852"
+  },
+  "01-moc\\_Index_POJK_33_2024.md": {
+    "mtime": 1793522664.7252078,
+    "seen": 1793554199.3373926,
+    "ast_hash": "fefb147dffd911ca5a03a2bcd3e0b625",
+    "semantic_hash": "fefb147dffd911ca5a03a2bcd3e0b625"
+  },
+  "01-moc\\_Index_POJK_33_2025.md": {
+    "mtime": 1793522664.738193,
+    "seen": 1793554199.3373935,
+    "ast_hash": "017bf262e2b8c92ba54b71c007488557",
+    "semantic_hash": "017bf262e2b8c92ba54b71c007488557"
+  },
+  "01-moc\\_Index_POJK_36_2024.md": {
+    "mtime": 1793522664.7919962,
+    "seen": 1793554199.3373942,
+    "ast_hash": "74d8ba5ea99919f1e9a15f9dcbe45911",
+    "semantic_hash": "74d8ba5ea99919f1e9a15f9dcbe45911"
+  },
+  "01-moc\\_Index_POJK_37_2025.md": {
+    "mtime": 1793522664.8188338,
+    "seen": 1793554199.3373952,
+    "ast_hash": "b7e33cb4eccc94780052836674366c3d",
+    "semantic_hash": "b7e33cb4eccc94780052836674366c3d"
+  },
+  "01-moc\\_Index_POJK_39_2024.md": {
+    "mtime": 1793522665.0002701,
+    "seen": 1793554199.337396,
+    "ast_hash": "5d0a521b4c49c4d973e82a55a6ec7c24",
+    "semantic_hash": "5d0a521b4c49c4d973e82a55a6ec7c24"
+  },
+  "01-moc\\_Index_POJK_3_2024.md": {
+    "mtime": 1793522664.6987352,
+    "seen": 1793554199.3373966,
+    "ast_hash": "f28878aeabf8a650467744a34b690752",
+    "semantic_hash": "f28878aeabf8a650467744a34b690752"
+  },
+  "01-moc\\_Index_POJK_40_2024.md": {
+    "mtime": 1793522665.2465377,
+    "seen": 1793554199.3373976,
+    "ast_hash": "5cef0d4570faa5f7b20f51316cdfb58d",
+    "semantic_hash": "5cef0d4570faa5f7b20f51316cdfb58d"
+  },
+  "01-moc\\_Index_POJK_42_2017.md": {
+    "mtime": 1793522665.2567735,
+    "seen": 1793554199.3373985,
+    "ast_hash": "d84d3ed7cc59a5ae3e0741a019216e4e",
+    "semantic_hash": "d84d3ed7cc59a5ae3e0741a019216e4e"
+  },
+  "01-moc\\_Index_POJK_46_2024.md": {
+    "mtime": 1793522665.5370326,
+    "seen": 1793554199.3373995,
+    "ast_hash": "428631eef0d2dfb8cb650654521a4054",
+    "semantic_hash": "428631eef0d2dfb8cb650654521a4054"
+  },
+  "01-moc\\_Index_POJK_47_2024.md": {
+    "mtime": 1793522665.5986788,
+    "seen": 1793554199.3374007,
+    "ast_hash": "5d62258f2a95bad64581c0d0e3f4b98d",
+    "semantic_hash": "5d62258f2a95bad64581c0d0e3f4b98d"
+  },
+  "01-moc\\_Index_POJK_4_2023.md": {
+    "mtime": 1793522665.0331578,
+    "seen": 1793554199.3374014,
+    "ast_hash": "68b1902b8258badcd66879d0be1b773e",
+    "semantic_hash": "68b1902b8258badcd66879d0be1b773e"
+  },
+  "01-moc\\_Index_POJK_65_2016.md": {
+    "mtime": 1793522665.6257162,
+    "seen": 1793554199.337402,
+    "ast_hash": "6f8d3b59c4ff343d996944d4bc5ee521",
+    "semantic_hash": "6f8d3b59c4ff343d996944d4bc5ee521"
+  },
+  "01-moc\\_Index_POJK_69_2016.md": {
+    "mtime": 1793522665.6894875,
+    "seen": 1793554199.3374028,
+    "ast_hash": "83443ca2b7e48bf9cef7badc231f0f90",
+    "semantic_hash": "83443ca2b7e48bf9cef7badc231f0f90"
+  },
+  "01-moc\\_Index_POJK_7_2024.md": {
+    "mtime": 1793522665.8388577,
+    "seen": 1793554199.337404,
+    "ast_hash": "9c86505e05d7e924e05da0b54c51b4c7",
+    "semantic_hash": "9c86505e05d7e924e05da0b54c51b4c7"
+  },
+  "01-moc\\_Index_POJK_8_2023.md": {
+    "mtime": 1793522665.9195962,
+    "seen": 1793554199.3374047,
+    "ast_hash": "8917f324e5f9a3c6d747582476c0bd3e",
+    "semantic_hash": "8917f324e5f9a3c6d747582476c0bd3e"
+  },
+  "01-moc\\_Index_POJK_8_2024.md": {
+    "mtime": 1793522665.9829915,
+    "seen": 1793554199.3374054,
+    "ast_hash": "f3f9a8e6be05eb6a716d01e59ca7945a",
+    "semantic_hash": "f3f9a8e6be05eb6a716d01e59ca7945a"
+  },
+  "01-moc\\_Index_PP_17_2025.md": {
+    "mtime": 1793522662.8857155,
+    "seen": 1793554199.3374062,
+    "ast_hash": "f01d405e77d424a08bda992b451a1c19",
+    "semantic_hash": "f01d405e77d424a08bda992b451a1c19"
+  },
+  "01-moc\\_Index_PP_21_2015.md": {
+    "mtime": 1793522662.9025786,
+    "seen": 1793554199.3374088,
+    "ast_hash": "424f65c161624280ebd008b66546f36e",
+    "semantic_hash": "424f65c161624280ebd008b66546f36e"
+  },
+  "01-moc\\_Index_PP_33_2026.md": {
+    "mtime": 1793522663.0360422,
+    "seen": 1793554199.3374095,
+    "ast_hash": "66e9139be107009a3d2df5b2d1c03eb3",
+    "semantic_hash": "66e9139be107009a3d2df5b2d1c03eb3"
+  },
+  "01-moc\\_Index_PP_40_2019.md": {
+    "mtime": 1793522663.0851097,
+    "seen": 1793554199.3374104,
+    "ast_hash": "2cef1d385ce85c2743511c60eb32bf77",
+    "semantic_hash": "2cef1d385ce85c2743511c60eb32bf77"
+  },
+  "01-moc\\_Index_PP_71_2019.md": {
+    "mtime": 1793522663.2625296,
+    "seen": 1793554199.3374114,
+    "ast_hash": "1d3f50846d4957172eff9c4c57e943f9",
+    "semantic_hash": "1d3f50846d4957172eff9c4c57e943f9"
+  },
+  "01-moc\\_Index_PP_7_2021.md": {
+    "mtime": 1793522663.1921685,
+    "seen": 1793554199.337412,
+    "ast_hash": "98ac24e317a242b5150cb83ab06c48ca",
+    "semantic_hash": "98ac24e317a242b5150cb83ab06c48ca"
+  },
+  "01-moc\\_Index_PP_80_2019.md": {
+    "mtime": 1793522663.322806,
+    "seen": 1793554199.337413,
+    "ast_hash": "3bfaf7c9791b13bb0e01ac967bcad655",
+    "semantic_hash": "3bfaf7c9791b13bb0e01ac967bcad655"
+  },
+  "01-moc\\_Index_UU_10_1998.md": {
+    "mtime": 1793525097.3872864,
+    "seen": 1793554199.3374138,
+    "ast_hash": "cb422a751f6ffb410f806dc9c4e016d7",
+    "semantic_hash": "cb422a751f6ffb410f806dc9c4e016d7"
+  },
+  "01-moc\\_Index_UU_10_2011.md": {
+    "mtime": 1793522660.0923085,
+    "seen": 1793554199.3374147,
+    "ast_hash": "c17c37b0466c564b5dc3f4290a35dca3",
+    "semantic_hash": "c17c37b0466c564b5dc3f4290a35dca3"
+  },
+  "01-moc\\_Index_UU_11_2008.md": {
+    "mtime": 1793524952.0692825,
+    "seen": 1793554199.3374155,
+    "ast_hash": "abdd1b8cebc3f3a0c1eec0dfd22f42d4",
+    "semantic_hash": "abdd1b8cebc3f3a0c1eec0dfd22f42d4"
+  },
+  "01-moc\\_Index_UU_14_2025.md": {
+    "mtime": 1793522660.1529408,
+    "seen": 1793554199.3374164,
+    "ast_hash": "0d13901123a78e0252279766f330bd9f",
+    "semantic_hash": "0d13901123a78e0252279766f330bd9f"
+  },
+  "01-moc\\_Index_UU_16_2025.md": {
+    "mtime": 1793522660.2185555,
+    "seen": 1793554199.3374171,
+    "ast_hash": "1a58b6efb9f67d0edb7115ea5256fbf2",
+    "semantic_hash": "1a58b6efb9f67d0edb7115ea5256fbf2"
+  },
+  "01-moc\\_Index_UU_17_2023.md": {
+    "mtime": 1793522660.5023756,
+    "seen": 1793554199.337418,
+    "ast_hash": "0ba8823b9f82dc3acb25017fef00780a",
+    "semantic_hash": "0ba8823b9f82dc3acb25017fef00780a"
+  },
+  "01-moc\\_Index_UU_18_2025.md": {
+    "mtime": 1793522660.5353963,
+    "seen": 1793554199.337419,
+    "ast_hash": "307a346d93d58e8c24947d1c89a3debc",
+    "semantic_hash": "307a346d93d58e8c24947d1c89a3debc"
+  },
+  "01-moc\\_Index_UU_19_2016.md": {
+    "mtime": 1793525062.819932,
+    "seen": 1793554199.3374197,
+    "ast_hash": "760eb51792b207829a5cf71236ce04ca",
+    "semantic_hash": "760eb51792b207829a5cf71236ce04ca"
+  },
+  "01-moc\\_Index_UU_1_1946.md": {
+    "mtime": 1793522659.283301,
+    "seen": 1793554199.3374207,
+    "ast_hash": "2c341e2b09ae87ddc4d4fb67841411c7",
+    "semantic_hash": "2c341e2b09ae87ddc4d4fb67841411c7"
+  },
+  "01-moc\\_Index_UU_1_2013.md": {
+    "mtime": 1793522659.3094482,
+    "seen": 1793554199.3374217,
+    "ast_hash": "cdec5dbafc87868e6bf3607dbf714182",
+    "semantic_hash": "cdec5dbafc87868e6bf3607dbf714182"
+  },
+  "01-moc\\_Index_UU_1_2016.md": {
+    "mtime": 1793522659.3524516,
+    "seen": 1793554199.3374224,
+    "ast_hash": "2f78c87c21e470c33758e22a73663e9e",
+    "semantic_hash": "2f78c87c21e470c33758e22a73663e9e"
+  },
+  "01-moc\\_Index_UU_1_2023.md": {
+    "mtime": 1793522659.7373893,
+    "seen": 1793554199.337423,
+    "ast_hash": "953b5abdbb104042dc9150d5a7cdd2b8",
+    "semantic_hash": "953b5abdbb104042dc9150d5a7cdd2b8"
+  },
+  "01-moc\\_Index_UU_1_2024.md": {
+    "mtime": 1793522659.7588325,
+    "seen": 1793554199.337424,
+    "ast_hash": "7b0b5bfc788fd716588275a60a69a431",
+    "semantic_hash": "7b0b5bfc788fd716588275a60a69a431"
+  },
+  "01-moc\\_Index_UU_1_2025.md": {
+    "mtime": 1793522659.882133,
+    "seen": 1793554199.337425,
+    "ast_hash": "83979766f95bc8333dd455135e26beec",
+    "semantic_hash": "83979766f95bc8333dd455135e26beec"
+  },
+  "01-moc\\_Index_UU_1_2026.md": {
+    "mtime": 1793522660.034275,
+    "seen": 1793554199.337426,
+    "ast_hash": "9a466afb5d51dacab9a9b575c0ae188f",
+    "semantic_hash": "9a466afb5d51dacab9a9b575c0ae188f"
+  },
+  "01-moc\\_Index_UU_20_2025.md": {
+    "mtime": 1793522660.8654895,
+    "seen": 1793554199.3374267,
+    "ast_hash": "303f8d02a7a1c6488f699027d986148a",
+    "semantic_hash": "303f8d02a7a1c6488f699027d986148a"
+  },
+  "01-moc\\_Index_UU_21_2008.md": {
+    "mtime": 1793522660.9191191,
+    "seen": 1793554199.3374274,
+    "ast_hash": "b3666917e99274603aeae37206672865",
+    "semantic_hash": "b3666917e99274603aeae37206672865"
+  },
+  "01-moc\\_Index_UU_21_2011.md": {
+    "mtime": 1793522660.968886,
+    "seen": 1793554199.3374283,
+    "ast_hash": "e494740bec6a3dd46b382b5271a1e458",
+    "semantic_hash": "e494740bec6a3dd46b382b5271a1e458"
+  },
+  "01-moc\\_Index_UU_22_2001.md": {
+    "mtime": 1793522661.0189457,
+    "seen": 1793554199.3374293,
+    "ast_hash": "0d0826dbdcf24ad64b2832cb3b7820f8",
+    "semantic_hash": "0d0826dbdcf24ad64b2832cb3b7820f8"
+  },
+  "01-moc\\_Index_UU_23_1999.md": {
+    "mtime": 1793522661.079599,
+    "seen": 1793554199.33743,
+    "ast_hash": "327eb303bb102863041b8908194130fc",
+    "semantic_hash": "327eb303bb102863041b8908194130fc"
+  },
+  "01-moc\\_Index_UU_23_2006.md": {
+    "mtime": 1793522661.146173,
+    "seen": 1793554199.3374307,
+    "ast_hash": "ec0eca8cf927711de201ecaa34faa59a",
+    "semantic_hash": "ec0eca8cf927711de201ecaa34faa59a"
+  },
+  "01-moc\\_Index_UU_24_2002.md": {
+    "mtime": 1793522661.1690295,
+    "seen": 1793554199.337432,
+    "ast_hash": "a333f662c61c2349ff12f60fcb17e9cf",
+    "semantic_hash": "a333f662c61c2349ff12f60fcb17e9cf"
+  },
+  "01-moc\\_Index_UU_24_2004.md": {
+    "mtime": 1793522661.2383747,
+    "seen": 1793554199.3374326,
+    "ast_hash": "c05539154dae06d057e62669bc6d9429",
+    "semantic_hash": "c05539154dae06d057e62669bc6d9429"
+  },
+  "01-moc\\_Index_UU_24_2013.md": {
+    "mtime": 1793522661.2538004,
+    "seen": 1793554199.3374336,
+    "ast_hash": "60dcd72aef35f552202903ab0ef31771",
+    "semantic_hash": "60dcd72aef35f552202903ab0ef31771"
+  },
+  "01-moc\\_Index_UU_25_1992.md": {
+    "mtime": 1793522661.3020606,
+    "seen": 1793554199.3374343,
+    "ast_hash": "d90c4aca6cb60a7859eafa1ef159f637",
+    "semantic_hash": "d90c4aca6cb60a7859eafa1ef159f637"
+  },
+  "01-moc\\_Index_UU_27_2022.md": {
+    "mtime": 1793522661.3483212,
+    "seen": 1793554199.3374355,
+    "ast_hash": "44019cd7b62d1a28d8102da0928932b6",
+    "semantic_hash": "44019cd7b62d1a28d8102da0928932b6"
+  },
+  "01-moc\\_Index_UU_2_2009.md": {
+    "mtime": 1793522660.57528,
+    "seen": 1793554199.3374362,
+    "ast_hash": "cf3157c7c043272f0dd4539690201141",
+    "semantic_hash": "cf3157c7c043272f0dd4539690201141"
+  },
+  "01-moc\\_Index_UU_2_2025.md": {
+    "mtime": 1793522660.6166346,
+    "seen": 1793554199.337437,
+    "ast_hash": "da4f5e6aa96c5ff221cbb5c400969231",
+    "semantic_hash": "da4f5e6aa96c5ff221cbb5c400969231"
+  },
+  "01-moc\\_Index_UU_32_1997.md": {
+    "mtime": 1793522661.4433494,
+    "seen": 1793554199.3374376,
+    "ast_hash": "4f4c5e40daaa1b8ef25d35b952d9199f",
+    "semantic_hash": "4f4c5e40daaa1b8ef25d35b952d9199f"
+  },
+  "01-moc\\_Index_UU_3_2004.md": {
+    "mtime": 1793522661.3605177,
+    "seen": 1793554199.3374383,
+    "ast_hash": "86191113daf61e7d4dc29646c7e8fc11",
+    "semantic_hash": "86191113daf61e7d4dc29646c7e8fc11"
+  },
+  "01-moc\\_Index_UU_3_2024.md": {
+    "mtime": 1793522661.3762455,
+    "seen": 1793554199.3374393,
+    "ast_hash": "6c53a533b16804ee10ae7854f7724f8d",
+    "semantic_hash": "6c53a533b16804ee10ae7854f7724f8d"
+  },
+  "01-moc\\_Index_UU_40_2004.md": {
+    "mtime": 1793522662.0358117,
+    "seen": 1793554199.3374403,
+    "ast_hash": "b370e39f5cea2a73211da44fd5ff7f2f",
+    "semantic_hash": "b370e39f5cea2a73211da44fd5ff7f2f"
+  },
+  "01-moc\\_Index_UU_40_2014.md": {
+    "mtime": 1793522662.1175063,
+    "seen": 1793554199.337441,
+    "ast_hash": "82184af94af49225010a8f0360f6f317",
+    "semantic_hash": "82184af94af49225010a8f0360f6f317"
+  },
+  "01-moc\\_Index_UU_42_1999.md": {
+    "mtime": 1793522662.1354175,
+    "seen": 1793554199.3374422,
+    "ast_hash": "cd5501c20e29a9fe8bacd1efd303f66d",
+    "semantic_hash": "cd5501c20e29a9fe8bacd1efd303f66d"
+  },
+  "01-moc\\_Index_UU_4_1996.md": {
+    "mtime": 1793522661.4593692,
+    "seen": 1793554199.3374429,
+    "ast_hash": "9ba69074e350847f6efd1bd455fb9a8b",
+    "semantic_hash": "9ba69074e350847f6efd1bd455fb9a8b"
+  },
+  "01-moc\\_Index_UU_4_2023.md": {
+    "mtime": 1793522661.8997824,
+    "seen": 1793554199.3374436,
+    "ast_hash": "da1e9cfcd304925f9082b336eed0d286",
+    "semantic_hash": "da1e9cfcd304925f9082b336eed0d286"
+  },
+  "01-moc\\_Index_UU_4_2026.md": {
+    "mtime": 1793522661.9998095,
+    "seen": 1793554199.3374445,
+    "ast_hash": "2670d18ceda8788015f0adeb4f27e076",
+    "semantic_hash": "2670d18ceda8788015f0adeb4f27e076"
+  },
+  "01-moc\\_Index_UU_5_2026.md": {
+    "mtime": 1793522662.1546516,
+    "seen": 1793554199.3374453,
+    "ast_hash": "67ac1af3ccc3491a90abe7c5e39e3242",
+    "semantic_hash": "67ac1af3ccc3491a90abe7c5e39e3242"
+  },
+  "01-moc\\_Index_UU_63_2024.md": {
+    "mtime": 1793522662.5724032,
+    "seen": 1793554199.3374462,
+    "ast_hash": "e571db2b3d53015a29c29cef6953f722",
+    "semantic_hash": "e571db2b3d53015a29c29cef6953f722"
+  },
+  "01-moc\\_Index_UU_65_2024.md": {
+    "mtime": 1793522662.5998926,
+    "seen": 1793554199.337447,
+    "ast_hash": "5590dca21125ab2d2bc2ab7f51c01156",
+    "semantic_hash": "5590dca21125ab2d2bc2ab7f51c01156"
+  },
+  "01-moc\\_Index_UU_66_2024.md": {
+    "mtime": 1793522662.635529,
+    "seen": 1793554199.3374476,
+    "ast_hash": "9c204e3540ad59e50861a2eda596b04e",
+    "semantic_hash": "9c204e3540ad59e50861a2eda596b04e"
+  },
+  "01-moc\\_Index_UU_6_2009.md": {
+    "mtime": 1793522662.1621783,
+    "seen": 1793554199.3374484,
+    "ast_hash": "ce4d87daf0eb53e368811e72c68e8b93",
+    "semantic_hash": "ce4d87daf0eb53e368811e72c68e8b93"
+  },
+  "01-moc\\_Index_UU_6_2023.md": {
+    "mtime": 1793522662.562287,
+    "seen": 1793554199.3374496,
+    "ast_hash": "7a388a8b0a5230425321112973623f9f",
+    "semantic_hash": "7a388a8b0a5230425321112973623f9f"
+  },
+  "01-moc\\_Index_UU_7_1992.md": {
+    "mtime": 1793522662.6821449,
+    "seen": 1793554199.3374503,
+    "ast_hash": "f6b8db3795229eeda568ea76adb2f919",
+    "semantic_hash": "f6b8db3795229eeda568ea76adb2f919"
+  },
+  "01-moc\\_Index_UU_7_2009.md": {
+    "mtime": 1793522662.6875887,
+    "seen": 1793554199.337451,
+    "ast_hash": "3050d896e93f82f6c86a842d30d8605f",
+    "semantic_hash": "3050d896e93f82f6c86a842d30d8605f"
+  },
+  "01-moc\\_Index_UU_7_2011.md": {
+    "mtime": 1793522662.7190166,
+    "seen": 1793554199.3374517,
+    "ast_hash": "199551a7c81ee07bc5a6529218a0e8bf",
+    "semantic_hash": "199551a7c81ee07bc5a6529218a0e8bf"
+  },
+  "01-moc\\_Index_UU_8_1995.md": {
+    "mtime": 1793522662.8027055,
+    "seen": 1793554199.337453,
+    "ast_hash": "71eff7f7ccab445cc87d3dedbc3fe6ee",
+    "semantic_hash": "71eff7f7ccab445cc87d3dedbc3fe6ee"
+  },
+  "01-moc\\_Index_UU_9_2016.md": {
+    "mtime": 1793522662.8521557,
+    "seen": 1793554199.3374538,
+    "ast_hash": "528d45fd7b65e45485b3b060b35b79b9",
+    "semantic_hash": "528d45fd7b65e45485b3b060b35b79b9"
+  },
+  "01-moc\\_MASTER_INDEX.md": {
+    "mtime": 1793525135.9837842,
+    "seen": 1793554199.3374546,
+    "ast_hash": "56dc7e88b7e30d4a4e740068c7d026c8",
+    "semantic_hash": "56dc7e88b7e30d4a4e740068c7d026c8"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 139-2025 - Pembayaran Manfaat Dana Pensiun.md": {
+    "mtime": 1793125126.1982527,
+    "seen": 1793554199.3374555,
+    "ast_hash": "f201b0f1283ac488016ed3cac229d2b9",
+    "semantic_hash": "f201b0f1283ac488016ed3cac229d2b9"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 151-2024 - Pasal 53 ayat (1) UU PDP.md": {
+    "mtime": 1793121259.411997,
+    "seen": 1793554199.3374565,
+    "ast_hash": "25f3251f6ea7ca9253ba6eda2fcf5738",
+    "semantic_hash": "25f3251f6ea7ca9253ba6eda2fcf5738"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 164-2025 - Dana Pensiun Sukarela.md": {
+    "mtime": 1793125126.221238,
+    "seen": 1793554199.3374572,
+    "ast_hash": "5ef4a32267abe78cd3710c3de3f97063",
+    "semantic_hash": "5ef4a32267abe78cd3710c3de3f97063"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 168-2023 - Uji Materi Cipta Kerja Ketenagakerjaan.md": {
+    "mtime": 1793125126.2499409,
+    "seen": 1793554199.337458,
+    "ast_hash": "c04c032f1af736f122c80fafc9cfa805",
+    "semantic_hash": "c04c032f1af736f122c80fafc9cfa805"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 18-2019 - Eksekusi Jaminan Fidusia.md": {
+    "mtime": 1793121259.422503,
+    "seen": 1793554199.3374586,
+    "ast_hash": "95f3ec8aa8d410014d6dc34dbda170e5",
+    "semantic_hash": "95f3ec8aa8d410014d6dc34dbda170e5"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 2-2021 - Penegasan Eksekusi Fidusia.md": {
+    "mtime": 1793125126.2713165,
+    "seen": 1793554199.3374598,
+    "ast_hash": "a9cb36cff74dcb09c43f0c39a62366d8",
+    "semantic_hash": "a9cb36cff74dcb09c43f0c39a62366d8"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 27-2026 - Pasal 237 huruf c KUHP.md": {
+    "mtime": 1793125126.2897782,
+    "seen": 1793554199.3374605,
+    "ast_hash": "4c5aa5c073a0e3daed0dfe5dad596bd6",
+    "semantic_hash": "4c5aa5c073a0e3daed0dfe5dad596bd6"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 273-2025 - Uji Materi Cipta Kerja Tarif Telekomunikasi.md": {
+    "mtime": 1793121259.430501,
+    "seen": 1793554199.3374612,
+    "ast_hash": "131fb9db196ac6d318ade3571fb35a8a",
+    "semantic_hash": "131fb9db196ac6d318ade3571fb35a8a"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 275-2025 - Penghinaan terhadap Presiden.md": {
+    "mtime": 1793125126.3124535,
+    "seen": 1793554199.3374622,
+    "ast_hash": "38c00d015bd61ab48dc7042a1a370fbd",
+    "semantic_hash": "38c00d015bd61ab48dc7042a1a370fbd"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 282-2025 - Penghinaan Pemerintah.md": {
+    "mtime": 1793121259.4325018,
+    "seen": 1793554199.3374648,
+    "ast_hash": "7a031e79e42993ffff908e4add71a539",
+    "semantic_hash": "7a031e79e42993ffff908e4add71a539"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 39-2023 - Formil UU Cipta Kerja.md": {
+    "mtime": 1793125126.341479,
+    "seen": 1793554199.3374658,
+    "ast_hash": "775055f80471e22c83edff2e2b322864",
+    "semantic_hash": "775055f80471e22c83edff2e2b322864"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 59-2023 - Penyidikan Tindak Pidana Sektor Jasa Keuangan.md": {
+    "mtime": 1793125126.3698921,
+    "seen": 1793554199.3374667,
+    "ast_hash": "409b9da1db3a780f5ce6a1f11ea08478",
+    "semantic_hash": "409b9da1db3a780f5ce6a1f11ea08478"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 85-2024 - Independensi LPS.md": {
+    "mtime": 1793125126.3956413,
+    "seen": 1793554199.3374677,
+    "ast_hash": "b07f5d5ab1edd45a78597aba9e9d7c6e",
+    "semantic_hash": "b07f5d5ab1edd45a78597aba9e9d7c6e"
+  },
+  "20-putusan\\01-mahkamah-konstitusi\\PUTUSAN-MK 95-2023 - Permohonan Tidak Dapat Diterima.md": {
+    "mtime": 1793121259.448727,
+    "seen": 1793554199.3374684,
+    "ast_hash": "79d9568e1cfd1e448b055bee712e90e3",
+    "semantic_hash": "79d9568e1cfd1e448b055bee712e90e3"
+  }
+}
