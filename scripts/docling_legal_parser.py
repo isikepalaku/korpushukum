@@ -363,9 +363,27 @@ class IndonesianLegalParser:
 
         if target_file_path:
             file_path = Path(target_file_path)
+            file_path.parent.mkdir(parents=True, exist_ok=True)
         else:
             base = Path(out_dir)
-            target_dir = base / "10-peraturan" / "01-undang-undang"
+            folder_map = {
+                "UU": "10-peraturan/01-undang-undang",
+                "PERPPU": "10-peraturan/02-perppu",
+                "PP": "10-peraturan/03-peraturan-pemerintah",
+                "PERPRES": "10-peraturan/04-peraturan-presiden",
+                "POJK": "10-peraturan/06-peraturan-ojk",
+                "SEOJK": "10-peraturan/06-peraturan-ojk",
+                "PBI": "10-peraturan/07-peraturan-bi",
+                "PERKAP": "10-peraturan/08-peraturan-polri",
+                "PERPOL": "10-peraturan/08-peraturan-polri",
+                "SE-KAPOLRI": "10-peraturan/08-peraturan-polri",
+                "INPRES": "10-peraturan/09-instrumen-lain",
+                "SKB": "10-peraturan/09-instrumen-lain",
+                "JUKRAH": "10-peraturan/09-instrumen-lain",
+                "PUTUSAN-MK": "20-putusan/01-mahkamah-konstitusi",
+            }
+            sub = folder_map.get(self.jenis, "10-peraturan/05-peraturan-menteri" if "PERMEN" in self.jenis or "KEPMEN" in self.jenis or "INSTRUKSI" in self.jenis else "10-peraturan/01-undang-undang")
+            target_dir = base / sub
             target_dir.mkdir(parents=True, exist_ok=True)
             doc_filename = f"{self.jenis} {self.nomor}-{self.tahun} - {safe_short}.md"
             file_path = target_dir / doc_filename
@@ -441,7 +459,7 @@ class IndonesianLegalParser:
         file_path.write_text("\n".join(bt_lines), encoding="utf-8")
         print(f"[OK] Mode UU-KB: Berhasil membuat berkas korpus di: {file_path}")
 
-    def execute(self, mode: str = "both", out_dir: str = "."):
+    def execute(self, mode: str = "both", out_dir: str = ".", target_file_path: Optional[str] = None):
         self.load_document()
         self.split_sections()
         self.parse_pasal()
@@ -452,7 +470,7 @@ class IndonesianLegalParser:
         if mode in ("atomic", "both"):
             self.export_atomic_mode(out_dir)
         if mode in ("uukb", "both"):
-            self.export_uukb_mode(out_dir)
+            self.export_uukb_mode(out_dir, target_file_path=target_file_path)
 
 
 def main():

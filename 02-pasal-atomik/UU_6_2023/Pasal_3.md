@@ -10,8 +10,8 @@ tags:
 - uu/uu_6_2023
 status_berlaku: diubah
 diamandemen_oleh:
-- '[[02-pasal-atomik/UU_1_2026/Pasal_3|UU 1/2026 Pasal 3]]'
 - '[[02-pasal-atomik/UU_63_2024/Pasal_3|UU 63/2024 Pasal 3]]'
+- '[[02-pasal-atomik/UU_1_2026/Pasal_3|UU 1/2026 Pasal 3]]'
 mengamandemen:
 - '[[02-pasal-atomik/UU_21_2008/Pasal_3|UU 21/2008 Pasal 3]]'
 - '[[02-pasal-atomik/UU_22_2001/Pasal_3|UU 22/2001 Pasal 3]]'

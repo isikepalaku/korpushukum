@@ -23,6 +23,8 @@ SORT tahun DESC
 
 | ID | Judul | Jenis | Status |
 | --- | --- | --- | --- |
+| PERMEN-ESDM 11/2022 | [[PERMEN-ESDM 11-2022 - PERUBAHAN ATAS PERATURAN MENTERI ENERGI DAN SUMB|PERMEN-ESDM 11-2022 - PERUBAHAN ATAS PERATURAN MENTERI ENERGI DAN SUMB]] | PERMEN-ESDM | berlaku |
+| PERMEN-ESDM 20/2021 | [[PERMEN-ESDM 20-2021 - PERHITUNGAN HARGA JUAL ECERAN BAHAN BAKAR MINYAK|PERMEN-ESDM 20-2021 - PERHITUNGAN HARGA JUAL ECERAN BAHAN BAKAR MINYAK]] | PERMEN-ESDM | berlaku |
 | UU 1/2026 | [[UU 1-2026 - Penyesuaian Pidana\|Penyesuaian Pidana]] | UU | berlaku |
 | UU 5/2026 | [[UU 5-2026 - Kepolisian Perubahan Ketiga\|Perubahan Ketiga UU Kepolisian]] | UU | berlaku |
 | PUTUSAN-MK 273/2025 | [[PUTUSAN-MK 273-2025 - Uji Materi Cipta Kerja Tarif Telekomunikasi\|Putusan MK 273-PUU-XXIII-2025 Uji Materi UU Cipta Kerja (Tarif Te]] | PUTUSAN-MK | berlaku |

@@ -659,8 +659,18 @@
       "sha256": "ee2222dba13aabf36c4958384b7e73f57a692f484fddf51f82282b411f27b4a5",
       "file": "10-peraturan/09-instrumen-lain/SKB 229-2021 - Pedoman Implementasi UU ITE.md",
       "status": "berlaku"
+    },
+    "PERMEN-ESDM 11/2022": {
+      "sha256": "998038581e9c2fccb404a4cfa55ec3770264da84886d66359c0f26819a1d077a",
+      "file": "10-peraturan/05-peraturan-menteri/PERMEN-ESDM 11-2022 - PERUBAHAN ATAS PERATURAN MENTERI ENERGI DAN SUMB.md",
+      "status": "berlaku"
+    },
+    "PERMEN-ESDM 20/2021": {
+      "sha256": "f16c40851802534586784e2e9e4400350f1cf72c7ca565a57a9b2013a40f79ea",
+      "file": "10-peraturan/05-peraturan-menteri/PERMEN-ESDM 20-2021 - PERHITUNGAN HARGA JUAL ECERAN BAHAN BAKAR MINYAK.md",
+      "status": "diubah"
     }
   },
-  "synced_at": "2026-11-01T18:30:09.424682",
-  "total_chunks_synced": 140
+  "synced_at": "2026-11-01T18:56:01.670343",
+  "total_chunks_synced": 0
 }

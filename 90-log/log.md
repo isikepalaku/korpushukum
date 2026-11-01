@@ -146,3 +146,13 @@ last_updated: 2026-10-28
 
 - Menambahkan regulasi operasional SE-KAPOLRI 2/2021 tentang SE-KAPOLRI 2-2021 - Penerapan UU ITE Ruang Digital
 - Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] ingest-auto | PERMEN-ESDM 20/2021
+
+- Inisiasi dokumen PERMEN-ESDM 20/2021 (Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 20 Ta...). Mengubah: [], Mencabut: [].
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] ingest-auto | PERMEN-ESDM 11/2022
+
+- Inisiasi dokumen PERMEN-ESDM 11/2022 (Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 11 Ta...). Mengubah: ['PERMEN-ESDM 20/2021'], Mencabut: [].
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.

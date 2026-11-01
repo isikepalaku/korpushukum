@@ -38,6 +38,7 @@ FOLDER_MAPPING = {
     "PERMENKOMINFO": "10-peraturan/05-peraturan-menteri",
     "PERMENKOMDIGI": "10-peraturan/05-peraturan-menteri",
     "PERMENKOP": "10-peraturan/05-peraturan-menteri",
+    "PERMEN-ESDM": "10-peraturan/05-peraturan-menteri",
     "KEPMEN": "10-peraturan/05-peraturan-menteri",
     "KEPMENKOMDIGI": "10-peraturan/05-peraturan-menteri",
     "INSTRUKSI": "10-peraturan/05-peraturan-menteri",
@@ -102,10 +103,13 @@ def extract_metadata_heuristics(sample_text: str, filename: str) -> Dict[str, An
     }
 
     # 1. Deteksi Jenis
-    for j in sorted(FOLDER_MAPPING.keys(), key=len, reverse=True):
-        if re.search(rf"\b{j}\b", filename, re.I) or re.search(rf"\b{j}\b", sample_text[:1000], re.I):
-            meta["jenis"] = j
-            break
+    if "menteri energi dan sumber daya mineral" in sample_text[:1500].lower() or "permen-esdm" in filename.lower() or "permen_esdm" in filename.lower():
+        meta["jenis"] = "PERMEN-ESDM"
+    else:
+        for j in sorted(FOLDER_MAPPING.keys(), key=len, reverse=True):
+            if re.search(rf"\b{j}\b", filename.replace("_", "-"), re.I) or re.search(rf"\b{j}\b", sample_text[:1000], re.I):
+                meta["jenis"] = j
+                break
 
     # 2. Deteksi Nomor dan Tahun
     m_no_thn = re.search(r"(?:NOMOR|NO\.?)\s*(\d+)\s+TAHUN\s+(\d{4})", sample_text[:2000], re.I)
@@ -139,25 +143,56 @@ def extract_metadata_heuristics(sample_text: str, filename: str) -> Dict[str, An
         meta["bidang"] = "keuangan"
     elif any(k in txt_lower for k in ["kuhp", "pidana", "tindak pidana", "kriminal", "kejahatan"]):
         meta["bidang"] = "pidana"
-    elif any(k in txt_lower for k in ["lingkungan", "kehutanan", "tambang", "mineral", "batubara", "perikanan", "tipidter"]):
+    elif any(k in txt_lower for k in ["minyak", "bbm", "gas bumi", "esdm", "lingkungan", "kehutanan", "tambang", "mineral", "batubara", "perikanan", "tipidter"]):
         meta["bidang"] = "tipidter"
     elif any(k in txt_lower for k in ["tanah", "agraria", "hak tanggungan", "pertanahan"]):
         meta["bidang"] = "pertanahan"
 
     # 5. Deteksi Relasi Perubahan (Mengubah)
-    # Contoh: "PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 11 TAHUN 2008..."
-    m_ubah = re.finditer(r"(?:Perubahan.*?atas\s+)?(Undang-Undang|UU|Peraturan Pemerintah|PP)\s+(?:Nomor|No\.?)\s*(\d+)\s+Tahun\s+(\d{4})", sample_text[:3000], re.I)
-    for u in m_ubah:
-        u_jenis = "UU" if "undang" in u.group(1).lower() or "uu" == u.group(1).lower() else "PP"
-        u_id = f"{u_jenis} {u.group(2)}/{u.group(3)}"
-        if u_id != meta["id"] and u_id not in meta["mengubah"]:
-            meta["mengubah"].append(u_id)
+    # HANYA jika judul mengandung 'Perubahan'
+    if "perubahan" in meta["judul"].lower():
+        m_ubah = re.finditer(r"(?:Perubahan.*?atas\s+)?(Undang-Undang|UU|Peraturan Pemerintah|PP|Peraturan Presiden|Perpres|Peraturan Menteri[^\d\n]*|Permen[^\d\n]*|POJK)\s+(?:Nomor|No\.?)\s*(\d+)\s+Tahun\s+(\d{4})", meta["judul"], re.I)
+        for u in m_ubah:
+            u_raw = u.group(1).lower()
+            if "undang" in u_raw or u_raw == "uu":
+                u_jenis = "UU"
+            elif "pemerintah" in u_raw or u_raw == "pp":
+                u_jenis = "PP"
+            elif "presiden" in u_raw or "perpres" in u_raw:
+                u_jenis = "PERPRES"
+            elif "ojk" in u_raw or "pojk" in u_raw:
+                u_jenis = "POJK"
+            elif "menteri" in u_raw or "permen" in u_raw:
+                if "esdm" in u_raw or "energi" in u_raw or "ESDM" in meta["jenis"]:
+                    u_jenis = "PERMEN-ESDM"
+                else:
+                    u_jenis = meta["jenis"] if "PERMEN" in meta["jenis"] else "PERMEN"
+            else:
+                u_jenis = meta["jenis"]
+            u_id = f"{u_jenis} {u.group(2)}/{u.group(3)}"
+            if u_id != meta["id"] and u_id not in meta["mengubah"]:
+                meta["mengubah"].append(u_id)
 
     # 6. Deteksi Relasi Pencabutan (Mencabut)
     # Biasanya ada di Ketentuan Penutup: "...dicabut dan dinyatakan tidak berlaku"
-    m_cabut = re.finditer(r"(Undang-Undang|UU|Peraturan Pemerintah|PP)\s+(?:Nomor|No\.?)\s*(\d+)\s+Tahun\s+(\d{4})[^\n\.\;]*?(?:dicabut\s+dan\s+dinyatakan\s+tidak\s+berlaku)", sample_text[-4000:], re.I)
+    m_cabut = re.finditer(r"(Undang-Undang|UU|Peraturan Pemerintah|PP|Peraturan Presiden|Perpres|Peraturan Menteri[^\d\n]*|Permen[^\d\n]*|POJK)\s+(?:Nomor|No\.?)\s*(\d+)\s+Tahun\s+(\d{4})[^\n\.\;]*?(?:dicabut\s+dan\s+dinyatakan\s+tidak\s+berlaku)", sample_text[-4000:], re.I)
     for c in m_cabut:
-        c_jenis = "UU" if "undang" in c.group(1).lower() or "uu" == c.group(1).lower() else "PP"
+        c_raw = c.group(1).lower()
+        if "undang" in c_raw or c_raw == "uu":
+            c_jenis = "UU"
+        elif "pemerintah" in c_raw or c_raw == "pp":
+            c_jenis = "PP"
+        elif "presiden" in c_raw or "perpres" in c_raw:
+            c_jenis = "PERPRES"
+        elif "ojk" in c_raw or "pojk" in c_raw:
+            c_jenis = "POJK"
+        elif "menteri" in c_raw or "permen" in c_raw:
+            if "esdm" in c_raw or "energi" in c_raw:
+                c_jenis = "PERMEN-ESDM"
+            else:
+                c_jenis = meta["jenis"] if "PERMEN" in meta["jenis"] else "PERMEN"
+        else:
+            c_jenis = meta["jenis"]
         c_id = f"{c_jenis} {c.group(2)}/{c.group(3)}"
         if c_id != meta["id"] and c_id not in meta["mencabut"]:
             meta["mencabut"].append(c_id)
@@ -342,6 +377,8 @@ class LegalCorpusPipeline:
 
         # 2. Siapkan Parameter Parser
         kode_clean = doc_id.replace(" ", "_").replace("/", "_")
+        target_dir = self.root_dir / FOLDER_MAPPING.get(inferred["jenis"], "10-peraturan/01-undang-undang")
+        target_file = target_dir / f"{inferred['jenis']} {inferred['nomor']}-{inferred['tahun']} - {inferred['judul_singkat']}.md"
         parser = IndonesianLegalParser(
             source_path=str(file_path),
             kode_uu=kode_clean,
@@ -350,12 +387,13 @@ class LegalCorpusPipeline:
             nomor=inferred["nomor"],
             tahun=inferred["tahun"],
             bidang=inferred["bidang"],
+            jenis=inferred["jenis"],
             is_pdf=is_pdf
         )
 
         # 3. Eksekusi Parsing & Ekspor
-        parser.execute(mode=self.mode, out_dir=str(self.root_dir))
-        self.existing_ids[doc_id] = self.root_dir / FOLDER_MAPPING.get(inferred["jenis"], "10-peraturan/01-undang-undang") / f"{inferred['jenis']} {inferred['nomor']}-{inferred['tahun']} - {inferred['judul_singkat']}.md"
+        parser.execute(mode=self.mode, out_dir=str(self.root_dir), target_file_path=str(target_file))
+        self.existing_ids[doc_id] = target_file
 
         # 4. Sinkronisasi Siklus Hidup Norma (Amandemen & Pencabutan)
         for target_ubah in inferred.get("mengubah", []):
@@ -420,6 +458,12 @@ def main():
     manual_meta = {}
     if args.code:
         manual_meta["id"] = args.code
+        parts = args.code.split()
+        if len(parts) == 2 and "/" in parts[1]:
+            manual_meta["jenis"] = parts[0]
+            no_thn = parts[1].split("/")
+            manual_meta["nomor"] = int(no_thn[0])
+            manual_meta["tahun"] = int(no_thn[1])
     if args.name:
         manual_meta["judul"] = args.name
     if args.bidang:
