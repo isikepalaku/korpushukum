@@ -6,23 +6,25 @@ nomor: 142
 tahun: 2026
 judul: Indikator dan Penilaian Risiko Akses Anak
 judul_singkat: Indikator dan Penilaian Risiko Akses Anak
-status: perlu-verifikasi
-status_catatan: 'Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. '
+status: diubah
 mencabut: []
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: []
+diubah_oleh:
+- KEPMENKOMDIGI 219/2026
 terkait: []
 bidang:
 - siber
 tags:
 - jenis/kepmenkomdigi
 - bidang/siber
-- status/perlu-verifikasi
+- status/diubah
 sumber: https://jdih.komdigi.go.id/produk_hukum/view/id/1009/t/keputusan+menteri+komunikasi+dan+digital+nomor+142+tahun+2026
 kelengkapan: lengkap
-verifikasi: tidak-tersedia
-last_updated: '2026-11-01'
+verifikasi: sudah
+verifikasi_sumber: JDIH Komdigi
+verifikasi_tanggal: '2026-11-02'
+last_updated: '2026-11-02'
 struktur_teks: datar
 anchor_pasal: false
 penjelasan: tidak
@@ -34,7 +36,7 @@ penjelasan_normatif: false
 
 # Indikator dan Penilaian Risiko Akses Anak
 
-**Status:** `perlu-verifikasi`
+**Status:** `diubah` (oleh [[KEPMENKOMDIGI 219-2026 - Perubahan Kepmen 142-2026 Risiko Anak|Kepmenkomdigi 219/2026]])
 
 > Sumber: https://jdih.komdigi.go.id/produk_hukum/view/id/1009/t/keputusan+menteri+komunikasi+dan+digital+nomor+142+tahun+2026
 

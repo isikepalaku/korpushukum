@@ -2,7 +2,7 @@
 judul: "Indeks Korpus Hukum Indonesia"
 jenis: indeks
 tags: [indeks, korpus-hukum]
-last_updated: 2026-10-28
+last_updated: 2026-11-02
 ---
 
 # Indeks Korpus Hukum Indonesia
@@ -177,15 +177,15 @@ Korpus **127 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 
 | ID | Judul | Status | Verifikasi | Teks |
 | --- | --- | --- | --- | --- |
-| KEPMENKOMDIGI 140/2026 | [[KEPMENKOMDIGI 140-2026 - Layanan Jejaring dan Media Sosial Risiko Tinggi\|Layanan Jejaring dan Media Sosial Profil Risiko Tinggi]] | perlu-verifikasi | tidak-tersedia | lengkap |
-| KEPMENKOMDIGI 142/2026 | [[KEPMENKOMDIGI 142-2026 - Indikator dan Penilaian Risiko Akses Anak\|Indikator dan Penilaian Risiko Akses Anak]] | perlu-verifikasi | tidak-tersedia | lengkap |
-| KEPMENKOMDIGI 219/2026 | [[KEPMENKOMDIGI 219-2026 - Perubahan Kepmen 142-2026 Risiko Anak\|Keputusan Menteri Komunikasi dan Digital Nomor 219 Tahun 2026 tentang ]] | perlu-verifikasi | tidak-tersedia | lengkap |
+| KEPMENKOMDIGI 140/2026 | [[KEPMENKOMDIGI 140-2026 - Layanan Jejaring dan Media Sosial Risiko Tinggi\|Layanan Jejaring dan Media Sosial Profil Risiko Tinggi]] | berlaku | sudah | lengkap |
+| KEPMENKOMDIGI 142/2026 | [[KEPMENKOMDIGI 142-2026 - Indikator dan Penilaian Risiko Akses Anak\|Indikator dan Penilaian Risiko Akses Anak]] | diubah | sudah | lengkap |
+| KEPMENKOMDIGI 219/2026 | [[KEPMENKOMDIGI 219-2026 - Perubahan Kepmen 142-2026 Risiko Anak\|Keputusan Menteri Komunikasi dan Digital Nomor 219 Tahun 2026 tentang ]] | berlaku | sudah | lengkap |
 
 ### Instruksi Menteri
 
 | ID | Judul | Status | Verifikasi | Teks |
 | --- | --- | --- | --- | --- |
-| INSTRUKSI 1/2023 | [[INSTRUKSI 1-2023 - Pemberantasan Perjudian Online\|Pemberantasan Perjudian Online]] | perlu-verifikasi | tidak-tersedia | lengkap |
+| INSTRUKSI 1/2023 | [[INSTRUKSI 1-2023 - Pemberantasan Perjudian Online\|Pemberantasan Perjudian Online]] | berlaku | sudah | lengkap |
 
 ### POJK
 
@@ -236,13 +236,13 @@ Korpus **127 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 
 | ID | Judul | Status | Verifikasi | Teks |
 | --- | --- | --- | --- | --- |
-| SE-KAPOLRI 2/2021 | [[SE-KAPOLRI 2-2021 - Penegakan Hukum UU ITE\|Penegakan Hukum UU ITE]] | berlaku | tidak-tersedia | lengkap |
+| SE-KAPOLRI 2/2021 | [[SE-KAPOLRI 2-2021 - Penegakan Hukum UU ITE\|Kesadaran Budaya Beretika Ruang Digital]] | berlaku | sudah | lengkap |
 
 ### SKB
 
 | ID | Judul | Status | Verifikasi | Teks |
 | --- | --- | --- | --- | --- |
-| SKB 2021 | [[SKB 2021 - Pedoman Implementasi UU ITE\|SKB Pedoman Implementasi UU ITE 2021]] | perlu-verifikasi | tidak-tersedia | lengkap |
+| SKB 229/2021 | [[SKB 229-2021 - Pedoman Implementasi UU ITE\|Pedoman Kriteria Implementasi UU ITE]] | berlaku | sudah | lengkap |
 
 ### Jukrah
 

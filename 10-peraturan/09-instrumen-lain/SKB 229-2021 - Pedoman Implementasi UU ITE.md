@@ -20,15 +20,17 @@ struktur_teks: datar
 penjelasan: tidak
 anchor_pasal: false
 kelengkapan: lengkap
-verifikasi: sebagian
-last_updated: '2026-11-01'
+verifikasi: sudah
+verifikasi_sumber: Menkominfo / Kejagung / Polri
+verifikasi_tanggal: '2026-11-02'
+last_updated: '2026-11-02'
 ---
 
 # Surat Keputusan Bersama (SKB) Pedoman Kriteria Implementasi UU ITE (2021)
 
 > **Nomor:** 229 Tahun 2021 (Menkominfo) / 154 Tahun 2021 (Jaksa Agung) / KB/2/VI/2021 (Kapolri)  
 > **Tanggal:** 23 Juni 2021  
-> **Fungsi Penyidikan:** Menjadi pedoman interpretatif resmi bagi penyidik Polri dalam menerapkan pasal-pasal lentur (*rubber articles*) pada UU ITE guna mencegah kriminalisasi berlebihan (*over-criminalization*) dan menjamin prinsip keadilan restoratif (*restorative justice*). Sebagian besar pedoman ini telah diinstitusionalisasikan ke dalam rumusan resmi [[UU Nomor 1 Tahun 2024 Perubahan Kedua UU ITE]].
+> **Fungsi Penyidikan:** Menjadi pedoman interpretatif resmi bagi penyidik Polri dalam menerapkan pasal-pasal lentur (*rubber articles*) pada UU ITE guna mencegah kriminalisasi berlebihan (*over-criminalization*) dan menjamin prinsip keadilan restoratif (*restorative justice*). Sebagian besar pedoman ini telah diinstitusionalisasikan ke dalam rumusan resmi [[UU 1-2024 - ITE Perubahan Kedua]].
 
 ---
 

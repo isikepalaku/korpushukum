@@ -4,10 +4,9 @@ jenis: SE-KAPOLRI
 lembaga: Surat Edaran Kapolri
 nomor: 2
 tahun: 2021
-judul: Penegakan Hukum UU ITE
+judul: Kesadaran Budaya Beretika untuk Mewujudkan Ruang Digital Indonesia yang Bersih, Sehat, dan Produktif
 judul_singkat: Penegakan Hukum UU ITE
 status: berlaku
-status_catatan: 'Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. '
 mencabut: []
 dicabut_oleh: []
 mengubah: []
@@ -15,14 +14,18 @@ diubah_oleh: []
 terkait: []
 bidang:
 - siber
+- pidana
 tags:
 - jenis/se-kapolri
 - bidang/siber
+- bidang/pidana
 - status/berlaku
 sumber: 'Mabes Polri (Nomor: SE/2/II/2021 tanggal 19 Februari 2021)'
 kelengkapan: lengkap
-verifikasi: tidak-tersedia
-last_updated: '2026-11-01'
+verifikasi: sudah
+verifikasi_sumber: Mabes Polri
+verifikasi_tanggal: '2026-11-02'
+last_updated: '2026-11-02'
 struktur_teks: datar
 anchor_pasal: false
 penjelasan: tidak

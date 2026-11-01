@@ -2,7 +2,7 @@
 judul: "Log Perubahan Korpus"
 jenis: log
 tags: [log]
-last_updated: 2026-10-28
+last_updated: 2026-11-02
 ---
 
 # Log Korpus
@@ -156,3 +156,19 @@ last_updated: 2026-10-28
 
 - Inisiasi dokumen PERMEN-ESDM 11/2022 (Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 11 Ta...). Mengubah: ['PERMEN-ESDM 20/2021'], Mencabut: [].
 - Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-02] verifikasi & deduplikasi | Siber (SKB 229/2021, UU 28/2011, Kepmenkomdigi, Instruksi)
+
+- Resolusi anomali `01-moc/Siber.md`: tabel statis diselaraskan dari 23 baris menjadi tepat 21 baris sesuai frontmatter `jumlah: 21`.
+  - Menghapus entri duplikat `SKB 2021` (disatukan ke berkas kanonikal `SKB 229/2021` - Keputusan Bersama Menkominfo 229/2021, Jaksa Agung 154/2021, Kapolri KB/2/VI/2021).
+  - Menghapus entri phantom `UU 28/2011` yang salah dilabeli "ITE Perubahan Pertama" (perubahan pertama ITE yang sah adalah `UU 19/2016` yang sudah lengkap di vault).
+- Deduplikasi berkas:
+  - Dihapus: `10-peraturan/09-instrumen-lain/SKB 2021 - Pedoman Implementasi UU ITE.md` (id digabung ke `SKB 229/2021`).
+  - Dihapus: `10-peraturan/08-peraturan-polri/SE-KAPOLRI 2-2021 - Penerapan UU ITE Ruang Digital.md` (duplikat draft dari `SE-KAPOLRI 2-2021 - Penegakan Hukum UU ITE.md`).
+- Verifikasi dokumen:
+  - `KEPMENKOMDIGI 140/2026`: status `berlaku`, verifikasi `sudah` (JDIH Komdigi).
+  - `KEPMENKOMDIGI 142/2026`: status `diubah`, `diubah_oleh: [KEPMENKOMDIGI 219/2026]`, verifikasi `sudah` (JDIH Komdigi).
+  - `KEPMENKOMDIGI 219/2026`: status `berlaku`, `mengubah: [KEPMENKOMDIGI 142/2026]`, verifikasi `sudah` (JDIH Komdigi).
+  - `INSTRUKSI 1/2023`: diverifikasi sebagai Instruksi Menteri Kominfo No. 1 Tahun 2023 (bukan Inpres), status `berlaku`, verifikasi `sudah` (Kemenkominfo).
+  - `SKB 229/2021`: status `berlaku`, verifikasi `sudah` (Menkominfo / Kejagung / Polri).
+- Sinkronisasi `INDEX.md`, `90-log/manifest.jsonl` (133 dokumen bebas duplikat ID), dan `90-log/build_chunks.py`.
