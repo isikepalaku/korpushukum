@@ -8,6 +8,11 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_7_2009
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_11|UU 4/2023 Pasal 11]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_24_2004/Pasal_11|UU 24/2004 Pasal 11]]'
 ---
 
 # Pasal 11 — Penetapan Perppu 3-2008 tentang Perubahan atas UU 24-2004 tentang LPS

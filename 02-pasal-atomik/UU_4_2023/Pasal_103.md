@@ -8,6 +8,12 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_103|UU 4/2026 Pasal 103]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_24_2004/Pasal_103|UU 24/2004 Pasal 103]]'
+- '[[02-pasal-atomik/UU_8_1995/Pasal_103|UU 8/1995 Pasal 103]]'
 ---
 
 # Pasal 103 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

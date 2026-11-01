@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_24_2004
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_98|UU 4/2023 Pasal 98]]'
+mengamandemen: []
 ---
 
 # Pasal 98 — Lembaga Penjamin Simpanan

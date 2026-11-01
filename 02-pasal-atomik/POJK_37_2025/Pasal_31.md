@@ -9,6 +9,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_37_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 31 — Penetapan Status dan Tindak Lanjut Pengawasan Perusahaan Perasuransian, Lembaga Penjamin, dan Dana Pensiun

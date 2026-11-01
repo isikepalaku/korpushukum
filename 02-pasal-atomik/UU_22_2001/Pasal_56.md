@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_22_2001
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_6_2023/Pasal_56|UU 6/2023 Pasal 56]]'
+mengamandemen: []
 ---
 
 # Pasal 56 — Minyak dan Gas Bumi

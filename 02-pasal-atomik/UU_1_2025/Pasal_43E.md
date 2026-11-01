@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 43E — Perubahan Ketiga UU BUMN

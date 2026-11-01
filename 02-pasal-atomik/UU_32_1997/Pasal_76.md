@@ -8,6 +8,11 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_32_1997
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_10_2011/Pasal_76|UU 10/2011 Pasal 76]]'
+- '[[02-pasal-atomik/UU_4_2023/Pasal_76|UU 4/2023 Pasal 76]]'
+mengamandemen: []
 ---
 
 # Pasal 76 — Perdagangan Berjangka Komoditi

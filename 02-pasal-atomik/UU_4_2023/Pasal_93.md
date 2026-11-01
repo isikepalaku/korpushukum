@@ -8,6 +8,12 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_93|UU 4/2026 Pasal 93]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_24_2004/Pasal_93|UU 24/2004 Pasal 93]]'
+- '[[02-pasal-atomik/UU_8_1995/Pasal_93|UU 8/1995 Pasal 93]]'
 ---
 
 # Pasal 93 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

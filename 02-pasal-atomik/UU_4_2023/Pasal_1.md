@@ -8,6 +8,28 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_1|UU 4/2026 Pasal 1]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_1_2013/Pasal_1|UU 1/2013 Pasal 1]]'
+- '[[02-pasal-atomik/UU_1_2016/Pasal_1|UU 1/2016 Pasal 1]]'
+- '[[02-pasal-atomik/UU_10_2011/Pasal_1|UU 10/2011 Pasal 1]]'
+- '[[02-pasal-atomik/UU_2_2009/Pasal_1|UU 2/2009 Pasal 1]]'
+- '[[02-pasal-atomik/UU_21_2008/Pasal_1|UU 21/2008 Pasal 1]]'
+- '[[02-pasal-atomik/UU_21_2011/Pasal_1|UU 21/2011 Pasal 1]]'
+- '[[02-pasal-atomik/UU_23_1999/Pasal_1|UU 23/1999 Pasal 1]]'
+- '[[02-pasal-atomik/UU_24_2002/Pasal_1|UU 24/2002 Pasal 1]]'
+- '[[02-pasal-atomik/UU_24_2004/Pasal_1|UU 24/2004 Pasal 1]]'
+- '[[02-pasal-atomik/UU_25_1992/Pasal_1|UU 25/1992 Pasal 1]]'
+- '[[02-pasal-atomik/UU_32_1997/Pasal_1|UU 32/1997 Pasal 1]]'
+- '[[02-pasal-atomik/UU_40_2004/Pasal_1|UU 40/2004 Pasal 1]]'
+- '[[02-pasal-atomik/UU_6_2009/Pasal_1|UU 6/2009 Pasal 1]]'
+- '[[02-pasal-atomik/UU_7_1992/Pasal_1|UU 7/1992 Pasal 1]]'
+- '[[02-pasal-atomik/UU_7_2009/Pasal_1|UU 7/2009 Pasal 1]]'
+- '[[02-pasal-atomik/UU_7_2011/Pasal_1|UU 7/2011 Pasal 1]]'
+- '[[02-pasal-atomik/UU_8_1995/Pasal_1|UU 8/1995 Pasal 1]]'
+- '[[02-pasal-atomik/UU_9_2016/Pasal_1|UU 9/2016 Pasal 1]]'
 ---
 
 # Pasal 1 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

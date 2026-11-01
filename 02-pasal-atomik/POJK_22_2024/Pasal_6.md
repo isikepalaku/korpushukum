@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_22_2024
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 6 — Laporan Berkala Perusahaan Perasuransian

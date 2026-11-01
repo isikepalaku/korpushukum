@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_24_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 8 — Pengelolaan Rekening pada Bank Umum

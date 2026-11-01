@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/pojk_12_2021
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 4 — Bank Umum

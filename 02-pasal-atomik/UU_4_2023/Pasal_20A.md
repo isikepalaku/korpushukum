@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 20A — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

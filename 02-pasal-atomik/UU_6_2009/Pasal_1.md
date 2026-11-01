@@ -9,6 +9,11 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_6_2009
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_1|UU 4/2023 Pasal 1]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_23_1999/Pasal_1|UU 23/1999 Pasal 1]]'
 ---
 
 # Pasal 1 — Penetapan Perppu 2-2008 tentang Perubahan Kedua atas UU 23-1999 tentang BI

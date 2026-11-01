@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_3_2024
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 9 — Penyelenggaraan Inovasi Teknologi Sektor Keuangan

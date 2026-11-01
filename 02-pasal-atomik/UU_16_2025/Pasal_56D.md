@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_16_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 56D — Perubahan Keempat UU BUMN

@@ -8,6 +8,11 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_32_1997
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_10_2011/Pasal_28|UU 10/2011 Pasal 28]]'
+- '[[02-pasal-atomik/UU_4_2023/Pasal_28|UU 4/2023 Pasal 28]]'
+mengamandemen: []
 ---
 
 # Pasal 28 — Perdagangan Berjangka Komoditi

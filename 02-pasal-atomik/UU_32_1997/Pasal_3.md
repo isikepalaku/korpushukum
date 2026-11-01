@@ -8,6 +8,11 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_32_1997
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_10_2011/Pasal_3|UU 10/2011 Pasal 3]]'
+- '[[02-pasal-atomik/UU_4_2023/Pasal_3|UU 4/2023 Pasal 3]]'
+mengamandemen: []
 ---
 
 # Pasal 3 — Perdagangan Berjangka Komoditi

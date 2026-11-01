@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_21A|UU 4/2026 Pasal 21A]]'
+mengamandemen: []
 ---
 
 # Pasal 21A — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

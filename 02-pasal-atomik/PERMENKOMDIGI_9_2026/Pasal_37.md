@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/permenkomdigi_9_2026
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 37 — Pelaksanaan PP 17 Tahun 2025 Pelindungan Anak

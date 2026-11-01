@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/pojk_1_2013
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 22 — Perlindungan Konsumen Sektor Jasa Keuangan

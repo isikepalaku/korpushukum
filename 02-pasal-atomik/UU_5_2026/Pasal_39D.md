@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/umum
 - uu/uu_5_2026
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 39D — Kepolisian Perubahan Ketiga

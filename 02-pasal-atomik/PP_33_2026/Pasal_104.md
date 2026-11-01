@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/pp_33_2026
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 104 — Peraturan Pelaksanaan UU PDP

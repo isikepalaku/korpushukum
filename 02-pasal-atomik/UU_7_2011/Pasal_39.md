@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_7_2011
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_39|UU 4/2023 Pasal 39]]'
+mengamandemen: []
 ---
 
 # Pasal 39 — Mata Uang

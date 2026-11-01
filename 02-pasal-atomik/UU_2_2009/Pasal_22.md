@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_2_2009
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_22|UU 4/2023 Pasal 22]]'
+mengamandemen: []
 ---
 
 # Pasal 22 — Lembaga Pembiayaan Ekspor Indonesia

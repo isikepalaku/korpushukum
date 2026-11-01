@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_21_2011
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_69|UU 4/2023 Pasal 69]]'
+mengamandemen: []
 ---
 
 # Pasal 69 — Otoritas Jasa Keuangan

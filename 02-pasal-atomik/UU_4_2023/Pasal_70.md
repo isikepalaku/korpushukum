@@ -8,6 +8,16 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_21_2008/Pasal_70|UU 21/2008 Pasal 70]]'
+- '[[02-pasal-atomik/UU_21_2011/Pasal_70|UU 21/2011 Pasal 70]]'
+- '[[02-pasal-atomik/UU_23_1999/Pasal_70|UU 23/1999 Pasal 70]]'
+- '[[02-pasal-atomik/UU_24_2004/Pasal_70|UU 24/2004 Pasal 70]]'
+- '[[02-pasal-atomik/UU_32_1997/Pasal_70|UU 32/1997 Pasal 70]]'
+- '[[02-pasal-atomik/UU_40_2014/Pasal_70|UU 40/2014 Pasal 70]]'
+- '[[02-pasal-atomik/UU_8_1995/Pasal_70|UU 8/1995 Pasal 70]]'
 ---
 
 # Pasal 70 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

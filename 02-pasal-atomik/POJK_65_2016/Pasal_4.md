@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_65_2016
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 4 — Manajemen Risiko BUS dan UUS

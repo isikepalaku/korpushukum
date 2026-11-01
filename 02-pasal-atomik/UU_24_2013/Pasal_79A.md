@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_24_2013
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 79A — Perubahan atas UU 23-2006 tentang Administrasi Kependudukan

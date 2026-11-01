@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_40_2014
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 4L — Perasuransian

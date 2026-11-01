@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/umum
 - uu/jukrah_2021
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 90 — HALAMAN 1

@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_18_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 171 — Perubahan Ketiga UU Kepariwisataan

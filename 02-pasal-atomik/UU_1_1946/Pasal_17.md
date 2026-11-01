@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/pidana
 - uu/uu_1_1946
+status_berlaku: dicabut
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 17 — KUHP Lama

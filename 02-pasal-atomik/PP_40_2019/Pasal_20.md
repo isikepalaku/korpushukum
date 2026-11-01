@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/pp_40_2019
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 20 — Pelaksanaan UU Administrasi Kependudukan

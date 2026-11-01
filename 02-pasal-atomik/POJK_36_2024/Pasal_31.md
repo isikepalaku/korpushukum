@@ -9,6 +9,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/pojk_36_2024
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 31 — Perubahan atas POJK 69-POJK.05-2016 (Penyelenggaraan Usaha Perusahaan Asuransi, Asuransi Syariah, Reasuransi, dan Reasuransi Syariah)

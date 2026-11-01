@@ -8,6 +8,11 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_21_2008
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_43|UU 4/2023 Pasal 43]]'
+- '[[02-pasal-atomik/UU_6_2023/Pasal_43|UU 6/2023 Pasal 43]]'
+mengamandemen: []
 ---
 
 # Pasal 43 — Perbankan Syariah

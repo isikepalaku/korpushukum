@@ -9,6 +9,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/permenkumham_25_2021
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 19 — Perubahan atas Permenkumham 10-2013 (Pendaftaran Jaminan Fidusia Secara Elektronik)

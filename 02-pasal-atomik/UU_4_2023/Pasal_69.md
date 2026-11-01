@@ -8,6 +8,18 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_69|UU 4/2026 Pasal 69]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_21_2008/Pasal_69|UU 21/2008 Pasal 69]]'
+- '[[02-pasal-atomik/UU_21_2011/Pasal_69|UU 21/2011 Pasal 69]]'
+- '[[02-pasal-atomik/UU_23_1999/Pasal_69|UU 23/1999 Pasal 69]]'
+- '[[02-pasal-atomik/UU_24_2004/Pasal_69|UU 24/2004 Pasal 69]]'
+- '[[02-pasal-atomik/UU_32_1997/Pasal_69|UU 32/1997 Pasal 69]]'
+- '[[02-pasal-atomik/UU_40_2014/Pasal_69|UU 40/2014 Pasal 69]]'
+- '[[02-pasal-atomik/UU_8_1995/Pasal_69|UU 8/1995 Pasal 69]]'
+- '[[02-pasal-atomik/UU_9_2016/Pasal_69|UU 9/2016 Pasal 69]]'
 ---
 
 # Pasal 69 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

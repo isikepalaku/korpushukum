@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/siber
 - uu/uu_27_2022
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 53 — Pelindungan Data Pribadi

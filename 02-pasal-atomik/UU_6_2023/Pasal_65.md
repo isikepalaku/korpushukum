@@ -8,6 +8,11 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_21_2008/Pasal_65|UU 21/2008 Pasal 65]]'
+- '[[02-pasal-atomik/UU_25_1992/Pasal_65|UU 25/1992 Pasal 65]]'
 ---
 
 # Pasal 65 — Cipta Kerja

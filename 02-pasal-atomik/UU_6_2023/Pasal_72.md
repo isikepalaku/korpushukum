@@ -8,6 +8,11 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_3_2024/Pasal_72|UU 3/2024 Pasal 72]]'
+- '[[02-pasal-atomik/UU_63_2024/Pasal_72|UU 63/2024 Pasal 72]]'
+mengamandemen: []
 ---
 
 # Pasal 72 — Cipta Kerja

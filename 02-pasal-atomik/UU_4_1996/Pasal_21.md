@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_1996
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 21 — Hak Tanggungan atas Tanah

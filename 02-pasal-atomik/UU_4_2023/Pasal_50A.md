@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_50A|UU 4/2026 Pasal 50A]]'
+mengamandemen: []
 ---
 
 # Pasal 50A — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

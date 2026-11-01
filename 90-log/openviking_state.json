@@ -46,7 +46,7 @@
       "status": "berlaku"
     },
     "UU 11/2008": {
-      "sha256": "76081743ff013e04aa8ac59b0d527e6aa8605e1c127a79787d92dee702c6f839",
+      "sha256": "6e2c5042b48612c5c3f9c08ddf42a5a4cc6d6abfa31bb9fb759f41d11c02fdea",
       "file": "10-peraturan/01-undang-undang/UU 11-2008 - ITE.md",
       "status": "diubah"
     },
@@ -71,7 +71,7 @@
       "status": "berlaku"
     },
     "UU 19/2016": {
-      "sha256": "6d179b6d0e2d8ebff9ded650af1566e2cdfd04651ac66f77dd8fe474c0f23738",
+      "sha256": "a2e3ae38256058621786a395daff68b60e903a23e1e4416734f1990dca454d47",
       "file": "10-peraturan/01-undang-undang/UU 19-2016 - ITE Perubahan Pertama.md",
       "status": "berlaku"
     },
@@ -541,8 +541,8 @@
       "status": "berlaku"
     },
     "SE-KAPOLRI 2/2021": {
-      "sha256": "f3aee3aaec8e14d3d25ed41f78e5b5a17ce35ae0266d7291a137f6270296a781",
-      "file": "10-peraturan/08-peraturan-polri/SE-KAPOLRI 2-2021 - Penegakan Hukum UU ITE.md",
+      "sha256": "569b418652d616ec5a7cdd5e01b57189655ae8c1b846d84c50749e69deb6af54",
+      "file": "10-peraturan/08-peraturan-polri/SE-KAPOLRI 2-2021 - Penerapan UU ITE Ruang Digital.md",
       "status": "berlaku"
     },
     "INPRES 18/1998": {
@@ -634,8 +634,33 @@
       "sha256": "a40b89ae1e2de421aa9c1bda0f9a1d6268c723c44be21544c4cc4adfcb322a73",
       "file": "20-putusan/01-mahkamah-konstitusi/PUTUSAN-MK 95-2023 - Permohonan Tidak Dapat Diterima.md",
       "status": "berlaku"
+    },
+    "POJK 6/2026": {
+      "sha256": "2c5e906bad7fa7a78c75640c5e9600ca2ed4b4713e02509510de9e55539cc9e2",
+      "file": "10-peraturan/06-peraturan-ojk/POJK 6-2026 - Perilaku Penyampai Informasi Sektor Jasa Keuangan.md",
+      "status": "berlaku"
+    },
+    "POJK 7/2026": {
+      "sha256": "cfffbc39bd28816fad1f4596a1ee568e38afd053ba7a1c7e495dadb5dadecc7b",
+      "file": "10-peraturan/06-peraturan-ojk/POJK 7-2026 - Modal Minimum BPR.md",
+      "status": "berlaku"
+    },
+    "POJK 8/2026": {
+      "sha256": "939ffe8f222a624478ab73fb0a257e126ad384813a227722d45041a40cfd6216",
+      "file": "10-peraturan/06-peraturan-ojk/POJK 8-2026 - Pelaporan Data Transaksi LPBBTI.md",
+      "status": "berlaku"
+    },
+    "PERPOL 8/2021": {
+      "sha256": "12eaf8dbc93098b44b102dd60b37a13f70774b20e7f4744bfddefea90628b1b3",
+      "file": "10-peraturan/08-peraturan-polri/PERPOL 8-2021 - Penanganan Tindak Pidana Keadilan Restoratif.md",
+      "status": "berlaku-sebagian"
+    },
+    "SKB 229/2021": {
+      "sha256": "ee2222dba13aabf36c4958384b7e73f57a692f484fddf51f82282b411f27b4a5",
+      "file": "10-peraturan/09-instrumen-lain/SKB 229-2021 - Pedoman Implementasi UU ITE.md",
+      "status": "berlaku"
     }
   },
-  "synced_at": "2026-11-01T17:31:43.612776",
-  "total_chunks_synced": 43
+  "synced_at": "2026-11-01T18:30:09.424682",
+  "total_chunks_synced": 140
 }

@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/pojk_11_2022
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 6 — Penyelenggaraan Teknologi Informasi oleh Bank Umum

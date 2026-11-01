@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_8_1995
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_109|UU 4/2023 Pasal 109]]'
+mengamandemen: []
 ---
 
 # Pasal 109 — Pasar Modal

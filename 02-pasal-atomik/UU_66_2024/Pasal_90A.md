@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_66_2024
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 90A — Perubahan Ketiga UU Pelayaran

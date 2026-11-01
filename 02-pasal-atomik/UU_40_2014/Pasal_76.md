@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_40_2014
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_76|UU 4/2023 Pasal 76]]'
+mengamandemen: []
 ---
 
 # Pasal 76 — Perasuransian

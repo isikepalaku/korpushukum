@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/uu_27_2022
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 60 — Pelindungan Data Pribadi

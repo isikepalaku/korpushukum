@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/pidana
 - uu/permendagri_95_2019
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 48 — Sistem Informasi Administrasi Kependudukan

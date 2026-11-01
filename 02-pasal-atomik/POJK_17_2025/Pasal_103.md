@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_17_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 103 — Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi

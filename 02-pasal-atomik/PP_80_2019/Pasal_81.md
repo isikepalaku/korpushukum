@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/siber
 - uu/pp_80_2019
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 81 — Perdagangan Melalui Sistem Elektronik

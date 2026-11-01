@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2025/Pasal_71|UU 1/2025 Pasal 71]]'
+mengamandemen: []
 ---
 
 # Pasal 71 — Cipta Kerja

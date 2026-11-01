@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_2_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_6_2023/Pasal_17|UU 6/2023 Pasal 17]]'
 ---
 
 # Pasal 17 — Perubahan Keempat UU Minerba

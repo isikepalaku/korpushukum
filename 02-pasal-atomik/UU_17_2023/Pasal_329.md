@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_17_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 329 — Kesehatan

@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_24_2004
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_93|UU 4/2023 Pasal 93]]'
+mengamandemen: []
 ---
 
 # Pasal 93 — Lembaga Penjamin Simpanan

@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_23_1999
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_30|UU 4/2023 Pasal 30]]'
+mengamandemen: []
 ---
 
 # Pasal 30 — Bank Indonesia

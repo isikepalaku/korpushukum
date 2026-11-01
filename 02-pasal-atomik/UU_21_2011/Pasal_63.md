@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_21_2011
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_63|UU 4/2023 Pasal 63]]'
+mengamandemen: []
 ---
 
 # Pasal 63 — Otoritas Jasa Keuangan

@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_63_2024/Pasal_102|UU 63/2024 Pasal 102]]'
+mengamandemen: []
 ---
 
 # Pasal 102 — Cipta Kerja

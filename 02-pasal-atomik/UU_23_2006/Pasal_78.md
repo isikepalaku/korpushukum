@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/pidana
 - uu/uu_23_2006
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 78 — Administrasi Kependudukan

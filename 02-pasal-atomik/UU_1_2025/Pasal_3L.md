@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_6_2023/Pasal_3L|UU 6/2023 Pasal 3L]]'
 ---
 
 # Pasal 3L — Perubahan Ketiga UU BUMN

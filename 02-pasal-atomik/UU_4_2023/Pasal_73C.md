@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_10_2011/Pasal_73C|UU 10/2011 Pasal 73C]]'
 ---
 
 # Pasal 73C — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

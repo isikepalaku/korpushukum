@@ -8,6 +8,10 @@ judul: ITE Perubahan Pertama
 judul_singkat: ITE Perubahan Pertama
 status: berlaku
 status_bpk: Berlaku
+mengubah:
+- UU 11/2008
+diubah_oleh:
+- UU 1/2024
 bidang:
 - siber
 tags:

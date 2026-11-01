@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_24_2004
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_57|UU 4/2023 Pasal 57]]'
+mengamandemen: []
 ---
 
 # Pasal 57 — Lembaga Penjamin Simpanan

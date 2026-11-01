@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_23_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/POJK_27_2024/Pasal_4|POJK 27/2024 Pasal 4]]'
 ---
 
 # Pasal 4 — Perubahan atas POJK 27-2024 (Aset Keuangan Digital Termasuk Aset Kripto)

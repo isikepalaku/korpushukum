@@ -23,6 +23,9 @@ SORT tahun DESC
 
 | ID | Judul | Jenis | Status |
 | --- | --- | --- | --- |
+| POJK 8/2026 | [[POJK 8-2026 - Pelaporan Data Transaksi LPBBTI|POJK 8-2026 - Pelaporan Data Transaksi LPBBTI]] | POJK | berlaku |
+| POJK 7/2026 | [[POJK 7-2026 - Modal Minimum BPR|POJK 7-2026 - Modal Minimum BPR]] | POJK | berlaku |
+| POJK 6/2026 | [[POJK 6-2026 - Perilaku Penyampai Informasi Sektor Jasa Keuangan|POJK 6-2026 - Perilaku Penyampai Informasi Sektor Jasa Keuangan]] | POJK | berlaku |
 | UU 4/2026 | [[UU 4-2026 - P2SK Perubahan\|Perubahan atas UU Nomor 4 Tahun 2023 tentang P2SK]] | UU | berlaku |
 | POJK 17/2025 | [[POJK 17-2025 - Penawaran Efek Melalui Layanan Urun Dana Berbasis\|Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Infor]] | POJK | berlaku |
 | POJK 23/2025 | [[POJK 23-2025 - Perubahan atas POJK 27-2024 (Aset Keuangan Digital\|Perubahan atas POJK 27-2024 (Aset Keuangan Digital Termasuk Aset ]] | POJK | berlaku |

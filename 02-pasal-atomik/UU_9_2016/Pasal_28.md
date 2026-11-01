@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_9_2016
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_28|UU 4/2023 Pasal 28]]'
+mengamandemen: []
 ---
 
 # Pasal 28 — Pencegahan dan Penanganan Krisis Sistem Keuangan

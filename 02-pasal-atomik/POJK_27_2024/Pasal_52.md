@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/pojk_27_2024
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/POJK_23_2025/Pasal_52|POJK 23/2025 Pasal 52]]'
+mengamandemen: []
 ---
 
 # Pasal 52 — Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto

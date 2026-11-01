@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_1_2026
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_1_2023/Pasal_473|UU 1/2023 Pasal 473]]'
 ---
 
 # Pasal 473 — Penyesuaian Pidana

@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_10_2011
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 73E — Perubahan atas UU 32-1997 tentang Perdagangan Berjangka Komoditi

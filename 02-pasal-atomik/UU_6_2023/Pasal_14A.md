@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2025/Pasal_14A|UU 1/2025 Pasal 14A]]'
+mengamandemen: []
 ---
 
 # Pasal 14A — Cipta Kerja

@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/siber
 - uu/pp_71_2019
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 5L — Penyelenggaraan Sistem dan Transaksi Elektronik

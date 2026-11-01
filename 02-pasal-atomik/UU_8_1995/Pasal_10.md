@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_8_1995
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_10|UU 4/2023 Pasal 10]]'
+mengamandemen: []
 ---
 
 # Pasal 10 — Pasar Modal

@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/pidana
 - uu/perpres_96_2018
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 16 — Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil

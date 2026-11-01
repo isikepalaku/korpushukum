@@ -23,6 +23,7 @@ SORT tahun DESC
 
 | ID | Judul | Jenis | Status |
 | --- | --- | --- | --- |
+| PERPOL 8/2021 | [[PERPOL 8-2021 - Penanganan Tindak Pidana Keadilan Restoratif|PERPOL 8-2021 - Penanganan Tindak Pidana Keadilan Restoratif]] | PERPOL | berlaku-sebagian |
 | PUTUSAN-MK 27/2026 | [[PUTUSAN-MK 27-2026 - Pasal 237 huruf c KUHP\|Putusan MK Nomor 27/PUU-XXIV/2026 — Pasal 237 huruf c KUHP]] | PUTUSAN-MK | berlaku |
 | PUTUSAN-MK 275/2025 | [[PUTUSAN-MK 275-2025 - Penghinaan terhadap Presiden\|Putusan MK Nomor 275/PUU-XXIII/2025 — Penghinaan terhadap Preside]] | PUTUSAN-MK | berlaku |
 | UU 20/2025 | [[UU 20-2025 - KUHAP\|KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Un]] | UU | berlaku |

@@ -9,6 +9,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/pojk_4_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 67E — Perubahan Kedua atas POJK 23-POJK.04-2016 tentang Reksa Dana Berbentuk Kontrak Investasi Kolektif

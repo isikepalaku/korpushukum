@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/permenkominfo_20_2016
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 3 — Perlindungan Data Pribadi dalam Sistem Elektronik

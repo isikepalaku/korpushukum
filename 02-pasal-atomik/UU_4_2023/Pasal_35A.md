@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_10_2011/Pasal_35A|UU 10/2011 Pasal 35A]]'
 ---
 
 # Pasal 35A — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

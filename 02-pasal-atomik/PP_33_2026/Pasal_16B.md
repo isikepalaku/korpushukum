@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/pp_33_2026
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 16B — Peraturan Pelaksanaan UU PDP

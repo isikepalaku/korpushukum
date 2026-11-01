@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_6_2023/Pasal_26|UU 6/2023 Pasal 26]]'
 ---
 
 # Pasal 26 — Perubahan Ketiga UU BUMN

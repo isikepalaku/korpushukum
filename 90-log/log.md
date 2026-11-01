@@ -116,3 +116,33 @@ last_updated: 2026-10-28
 
 - Inisiasi dokumen UU 10/1998 (Perbankan 1998...). Mengubah: ['UU 7/1992', 'UU 13/1968'], Mencabut: [].
 - Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] INGEST | POJK 6/2026
+
+- Menambahkan regulasi operasional POJK 6/2026 tentang POJK 6-2026 - Perilaku Penyampai Informasi Sektor Jasa Keuangan
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] INGEST | POJK 7/2026
+
+- Menambahkan regulasi operasional POJK 7/2026 tentang POJK 7-2026 - Modal Minimum BPR
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] INGEST | POJK 8/2026
+
+- Menambahkan regulasi operasional POJK 8/2026 tentang POJK 8-2026 - Pelaporan Data Transaksi LPBBTI
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] INGEST | PERPOL 8/2021
+
+- Menambahkan regulasi operasional PERPOL 8/2021 tentang PERPOL 8-2021 - Penanganan Tindak Pidana Keadilan Restoratif
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] INGEST | SKB 229/2021
+
+- Menambahkan regulasi operasional SKB 229/2021 tentang SKB 229-2021 - Pedoman Implementasi UU ITE
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] INGEST | SE-KAPOLRI 2/2021
+
+- Menambahkan regulasi operasional SE-KAPOLRI 2/2021 tentang SE-KAPOLRI 2-2021 - Penerapan UU ITE Ruang Digital
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.

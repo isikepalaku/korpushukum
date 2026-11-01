@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/uu_19_2016
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2024/Pasal_45A|UU 1/2024 Pasal 45A]]'
+mengamandemen: []
 ---
 
 # Pasal 45A — ITE Perubahan Pertama

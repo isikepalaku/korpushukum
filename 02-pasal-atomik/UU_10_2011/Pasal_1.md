@@ -8,6 +8,11 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_10_2011
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_1|UU 4/2023 Pasal 1]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_32_1997/Pasal_1|UU 32/1997 Pasal 1]]'
 ---
 
 # Pasal 1 — Perubahan atas UU 32-1997 tentang Perdagangan Berjangka Komoditi

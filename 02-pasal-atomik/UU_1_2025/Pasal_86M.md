@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 86M — Perubahan Ketiga UU BUMN

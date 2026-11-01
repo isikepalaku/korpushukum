@@ -8,6 +8,11 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_25_1992
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_6|UU 4/2023 Pasal 6]]'
+- '[[02-pasal-atomik/UU_6_2023/Pasal_6|UU 6/2023 Pasal 6]]'
+mengamandemen: []
 ---
 
 # Pasal 6 — Perkoperasian

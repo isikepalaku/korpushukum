@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_65_2024
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 55A — Perubahan Ketiga UU Paten

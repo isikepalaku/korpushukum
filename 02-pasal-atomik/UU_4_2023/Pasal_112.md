@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_8_1995/Pasal_112|UU 8/1995 Pasal 112]]'
 ---
 
 # Pasal 112 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

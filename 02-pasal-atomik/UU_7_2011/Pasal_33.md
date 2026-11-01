@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_7_2011
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_33|UU 4/2023 Pasal 33]]'
+mengamandemen: []
 ---
 
 # Pasal 33 — Mata Uang

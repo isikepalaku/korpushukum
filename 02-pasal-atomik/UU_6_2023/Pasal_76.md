@@ -8,6 +8,11 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2025/Pasal_76|UU 1/2025 Pasal 76]]'
+- '[[02-pasal-atomik/UU_1_2026/Pasal_76|UU 1/2026 Pasal 76]]'
+mengamandemen: []
 ---
 
 # Pasal 76 — Cipta Kerja

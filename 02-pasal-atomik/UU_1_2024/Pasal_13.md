@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/siber
 - uu/uu_1_2024
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_11_2008/Pasal_13|UU 11/2008 Pasal 13]]'
 ---
 
 # Pasal 13 — UU Nomor 1 Tahun 2024 Perubahan Kedua UU ITE

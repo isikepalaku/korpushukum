@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_24_2013
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_23_2006/Pasal_87|UU 23/2006 Pasal 87]]'
 ---
 
 # Pasal 87 — Perubahan atas UU 23-2006 tentang Administrasi Kependudukan

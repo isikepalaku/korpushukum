@@ -8,6 +8,11 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_21_2008
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_64|UU 4/2023 Pasal 64]]'
+- '[[02-pasal-atomik/UU_6_2023/Pasal_64|UU 6/2023 Pasal 64]]'
+mengamandemen: []
 ---
 
 # Pasal 64 — Perbankan Syariah

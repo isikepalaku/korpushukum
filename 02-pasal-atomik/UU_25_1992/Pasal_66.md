@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_25_1992
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_66|UU 4/2023 Pasal 66]]'
+mengamandemen: []
 ---
 
 # Pasal 66 — Perkoperasian

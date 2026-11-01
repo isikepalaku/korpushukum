@@ -8,6 +8,11 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_10_2011
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_52|UU 4/2023 Pasal 52]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_32_1997/Pasal_52|UU 32/1997 Pasal 52]]'
 ---
 
 # Pasal 52 — Perubahan atas UU 32-1997 tentang Perdagangan Berjangka Komoditi

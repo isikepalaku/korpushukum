@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_19_2018
+status_berlaku: dicabut
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 47A — Perubahan POJK Kualitas Aset BUS dan UUS

@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_16C|UU 4/2026 Pasal 16C]]'
+mengamandemen: []
 ---
 
 # Pasal 16C — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

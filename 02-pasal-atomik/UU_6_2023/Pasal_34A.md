@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_3_2024/Pasal_34A|UU 3/2024 Pasal 34A]]'
+mengamandemen: []
 ---
 
 # Pasal 34A — Cipta Kerja

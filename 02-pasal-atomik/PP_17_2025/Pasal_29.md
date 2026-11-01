@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/pp_17_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 29 — Tata Kelola Penyelenggaraan Sistem Elektronik dalam Pelindungan Anak

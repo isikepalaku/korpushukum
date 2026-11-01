@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 73B — Perubahan Ketiga UU BUMN

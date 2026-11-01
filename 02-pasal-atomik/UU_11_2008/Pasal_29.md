@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/uu_11_2008
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2024/Pasal_29|UU 1/2024 Pasal 29]]'
+mengamandemen: []
 ---
 
 # Pasal 29 — ITE

@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_16_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 3C — Perubahan Keempat UU BUMN

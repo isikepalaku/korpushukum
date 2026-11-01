@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2026
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_50A|UU 4/2023 Pasal 50A]]'
 ---
 
 # Pasal 50A — Perubahan atas UU Nomor 4 Tahun 2023 tentang P2SK

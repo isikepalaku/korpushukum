@@ -8,6 +8,11 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/uu_11_2008
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2024/Pasal_40|UU 1/2024 Pasal 40]]'
+- '[[02-pasal-atomik/UU_19_2016/Pasal_40|UU 19/2016 Pasal 40]]'
+mengamandemen: []
 ---
 
 # Pasal 40 — ITE

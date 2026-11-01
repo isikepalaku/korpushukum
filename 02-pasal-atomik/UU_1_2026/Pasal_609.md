@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_1_2026
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_1_2023/Pasal_609|UU 1/2023 Pasal 609]]'
 ---
 
 # Pasal 609 — Penyesuaian Pidana

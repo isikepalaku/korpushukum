@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_63_2024/Pasal_97|UU 63/2024 Pasal 97]]'
+mengamandemen: []
 ---
 
 # Pasal 97 — Cipta Kerja

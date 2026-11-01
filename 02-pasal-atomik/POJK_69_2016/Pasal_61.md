@@ -9,6 +9,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/pojk_69_2016
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 61 — Penyelenggaraan Usaha Perusahaan Asuransi, Perusahaan Asuransi Syariah, Perusahaan Reasuransi, dan Perusahaan Reasuransi Syariah

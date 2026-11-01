@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/uu_19_2016
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_11_2008/Pasal_1|UU 11/2008 Pasal 1]]'
 ---
 
 # Pasal 1 — ITE Perubahan Pertama

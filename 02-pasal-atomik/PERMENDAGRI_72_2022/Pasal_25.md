@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/pidana
 - uu/permendagri_72_2022
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 25 — Standar Blangko KTP-el dan Penyelenggaraan Identitas Kependudukan Digital

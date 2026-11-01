@@ -9,6 +9,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_46_2024
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 68 — Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaan Infrastruktur, dan Perusahaan Modal Ventura

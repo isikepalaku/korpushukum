@@ -8,6 +8,13 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_84|UU 4/2026 Pasal 84]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_24_2004/Pasal_84|UU 24/2004 Pasal 84]]'
+- '[[02-pasal-atomik/UU_40_2014/Pasal_84|UU 40/2014 Pasal 84]]'
+- '[[02-pasal-atomik/UU_8_1995/Pasal_84|UU 8/1995 Pasal 84]]'
 ---
 
 # Pasal 84 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

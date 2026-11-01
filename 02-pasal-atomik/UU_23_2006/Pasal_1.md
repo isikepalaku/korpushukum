@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/pidana
 - uu/uu_23_2006
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_24_2013/Pasal_1|UU 24/2013 Pasal 1]]'
+mengamandemen: []
 ---
 
 # Pasal 1 — Administrasi Kependudukan

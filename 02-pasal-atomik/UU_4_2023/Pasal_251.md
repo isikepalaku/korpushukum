@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_251|UU 4/2026 Pasal 251]]'
+mengamandemen: []
 ---
 
 # Pasal 251 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/pojk_27_2024
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/POJK_23_2025/Pasal_56|POJK 23/2025 Pasal 56]]'
+mengamandemen: []
 ---
 
 # Pasal 56 — Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto

@@ -8,6 +8,11 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2025/Pasal_75|UU 1/2025 Pasal 75]]'
+- '[[02-pasal-atomik/UU_2_2025/Pasal_75|UU 2/2025 Pasal 75]]'
+mengamandemen: []
 ---
 
 # Pasal 75 — Cipta Kerja

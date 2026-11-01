@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_10_2011
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_30B|UU 4/2023 Pasal 30B]]'
+mengamandemen: []
 ---
 
 # Pasal 30B — Perubahan atas UU 32-1997 tentang Perdagangan Berjangka Komoditi

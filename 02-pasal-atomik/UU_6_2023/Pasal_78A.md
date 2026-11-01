@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2025/Pasal_78A|UU 1/2025 Pasal 78A]]'
+mengamandemen: []
 ---
 
 # Pasal 78A — Cipta Kerja

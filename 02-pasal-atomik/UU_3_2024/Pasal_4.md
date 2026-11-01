@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_3_2024
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_6_2023/Pasal_4|UU 6/2023 Pasal 4]]'
 ---
 
 # Pasal 4 — Perubahan Kedua UU Desa

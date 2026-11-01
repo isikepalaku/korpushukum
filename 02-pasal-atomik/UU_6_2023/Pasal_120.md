@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2026/Pasal_120|UU 1/2026 Pasal 120]]'
+mengamandemen: []
 ---
 
 # Pasal 120 — Cipta Kerja

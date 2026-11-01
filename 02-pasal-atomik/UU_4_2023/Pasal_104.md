@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_8_1995/Pasal_104|UU 8/1995 Pasal 104]]'
 ---
 
 # Pasal 104 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

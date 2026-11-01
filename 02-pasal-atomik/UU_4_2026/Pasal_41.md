@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/uu_4_2026
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_41|UU 4/2023 Pasal 41]]'
 ---
 
 # Pasal 41 — Perubahan atas UU Nomor 4 Tahun 2023 tentang P2SK

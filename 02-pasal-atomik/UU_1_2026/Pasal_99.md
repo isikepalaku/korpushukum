@@ -8,6 +8,11 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_1_2026
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_1_2023/Pasal_99|UU 1/2023 Pasal 99]]'
+- '[[02-pasal-atomik/UU_6_2023/Pasal_99|UU 6/2023 Pasal 99]]'
 ---
 
 # Pasal 99 — Penyesuaian Pidana

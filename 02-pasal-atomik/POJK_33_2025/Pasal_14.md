@@ -9,6 +9,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_33_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 14 — Penilaian Tingkat Kesehatan Perusahaan Perasuransian, Lembaga Penjamin, dan Dana Pensiun

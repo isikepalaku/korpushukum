@@ -8,6 +8,17 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_71|UU 4/2026 Pasal 71]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_10_2011/Pasal_71|UU 10/2011 Pasal 71]]'
+- '[[02-pasal-atomik/UU_21_2011/Pasal_71|UU 21/2011 Pasal 71]]'
+- '[[02-pasal-atomik/UU_23_1999/Pasal_71|UU 23/1999 Pasal 71]]'
+- '[[02-pasal-atomik/UU_24_2004/Pasal_71|UU 24/2004 Pasal 71]]'
+- '[[02-pasal-atomik/UU_32_1997/Pasal_71|UU 32/1997 Pasal 71]]'
+- '[[02-pasal-atomik/UU_40_2014/Pasal_71|UU 40/2014 Pasal 71]]'
+- '[[02-pasal-atomik/UU_8_1995/Pasal_71|UU 8/1995 Pasal 71]]'
 ---
 
 # Pasal 71 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

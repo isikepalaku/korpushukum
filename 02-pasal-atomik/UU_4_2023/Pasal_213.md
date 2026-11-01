@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_213|UU 4/2026 Pasal 213]]'
+mengamandemen: []
 ---
 
 # Pasal 213 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

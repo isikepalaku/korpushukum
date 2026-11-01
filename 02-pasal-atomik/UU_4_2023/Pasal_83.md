@@ -8,6 +8,13 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_83|UU 4/2026 Pasal 83]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_24_2004/Pasal_83|UU 24/2004 Pasal 83]]'
+- '[[02-pasal-atomik/UU_40_2014/Pasal_83|UU 40/2014 Pasal 83]]'
+- '[[02-pasal-atomik/UU_8_1995/Pasal_83|UU 8/1995 Pasal 83]]'
 ---
 
 # Pasal 83 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

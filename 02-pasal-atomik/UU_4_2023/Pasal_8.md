@@ -8,6 +8,26 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2026/Pasal_8|UU 4/2026 Pasal 8]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_1_2013/Pasal_8|UU 1/2013 Pasal 8]]'
+- '[[02-pasal-atomik/UU_1_2016/Pasal_8|UU 1/2016 Pasal 8]]'
+- '[[02-pasal-atomik/UU_2_2009/Pasal_8|UU 2/2009 Pasal 8]]'
+- '[[02-pasal-atomik/UU_21_2008/Pasal_8|UU 21/2008 Pasal 8]]'
+- '[[02-pasal-atomik/UU_21_2011/Pasal_8|UU 21/2011 Pasal 8]]'
+- '[[02-pasal-atomik/UU_23_1999/Pasal_8|UU 23/1999 Pasal 8]]'
+- '[[02-pasal-atomik/UU_24_2002/Pasal_8|UU 24/2002 Pasal 8]]'
+- '[[02-pasal-atomik/UU_24_2004/Pasal_8|UU 24/2004 Pasal 8]]'
+- '[[02-pasal-atomik/UU_25_1992/Pasal_8|UU 25/1992 Pasal 8]]'
+- '[[02-pasal-atomik/UU_32_1997/Pasal_8|UU 32/1997 Pasal 8]]'
+- '[[02-pasal-atomik/UU_40_2004/Pasal_8|UU 40/2004 Pasal 8]]'
+- '[[02-pasal-atomik/UU_40_2014/Pasal_8|UU 40/2014 Pasal 8]]'
+- '[[02-pasal-atomik/UU_7_1992/Pasal_8|UU 7/1992 Pasal 8]]'
+- '[[02-pasal-atomik/UU_7_2011/Pasal_8|UU 7/2011 Pasal 8]]'
+- '[[02-pasal-atomik/UU_8_1995/Pasal_8|UU 8/1995 Pasal 8]]'
+- '[[02-pasal-atomik/UU_9_2016/Pasal_8|UU 9/2016 Pasal 8]]'
 ---
 
 # Pasal 8 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/siber
 - uu/uu_1_2024
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 16B — UU Nomor 1 Tahun 2024 Perubahan Kedua UU ITE

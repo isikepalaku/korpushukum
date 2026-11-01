@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/umum
 - uu/uu_5_2026
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 38 — Kepolisian Perubahan Ketiga

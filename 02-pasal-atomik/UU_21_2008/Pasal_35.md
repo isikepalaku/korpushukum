@@ -8,6 +8,11 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_21_2008
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_35|UU 4/2023 Pasal 35]]'
+- '[[02-pasal-atomik/UU_6_2023/Pasal_35|UU 6/2023 Pasal 35]]'
+mengamandemen: []
 ---
 
 # Pasal 35 — Perbankan Syariah

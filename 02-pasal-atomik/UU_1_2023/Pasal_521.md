@@ -9,6 +9,10 @@ substantive_explanation: false
 tags:
 - hukum/pidana
 - uu/uu_1_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2026/Pasal_521|UU 1/2026 Pasal 521]]'
+mengamandemen: []
 ---
 
 # Pasal 521 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana

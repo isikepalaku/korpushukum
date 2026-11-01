@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_6_2023/Pasal_35|UU 6/2023 Pasal 35]]'
 ---
 
 # Pasal 35 — Perubahan Ketiga UU BUMN

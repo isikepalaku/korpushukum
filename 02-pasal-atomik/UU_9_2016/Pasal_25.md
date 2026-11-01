@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_9_2016
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_4_2023/Pasal_25|UU 4/2023 Pasal 25]]'
+mengamandemen: []
 ---
 
 # Pasal 25 — Pencegahan dan Penanganan Krisis Sistem Keuangan

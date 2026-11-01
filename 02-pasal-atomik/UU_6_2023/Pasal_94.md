@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2025/Pasal_94|UU 1/2025 Pasal 94]]'
+mengamandemen: []
 ---
 
 # Pasal 94 — Cipta Kerja

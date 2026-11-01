@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/permenkumham_10_2013
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 10 — Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik

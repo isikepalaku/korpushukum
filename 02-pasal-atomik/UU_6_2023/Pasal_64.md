@@ -8,6 +8,13 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_63_2024/Pasal_64|UU 63/2024 Pasal 64]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_21_2008/Pasal_64|UU 21/2008 Pasal 64]]'
+- '[[02-pasal-atomik/UU_22_2001/Pasal_64|UU 22/2001 Pasal 64]]'
+- '[[02-pasal-atomik/UU_25_1992/Pasal_64|UU 25/1992 Pasal 64]]'
 ---
 
 # Pasal 64 — Cipta Kerja

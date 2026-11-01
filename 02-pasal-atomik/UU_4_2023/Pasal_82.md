@@ -8,6 +8,12 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_24_2004/Pasal_82|UU 24/2004 Pasal 82]]'
+- '[[02-pasal-atomik/UU_40_2014/Pasal_82|UU 40/2014 Pasal 82]]'
+- '[[02-pasal-atomik/UU_8_1995/Pasal_82|UU 8/1995 Pasal 82]]'
 ---
 
 # Pasal 82 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)

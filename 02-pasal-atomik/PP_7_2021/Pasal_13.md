@@ -8,6 +8,9 @@ substantive_explanation: false
 tags:
 - hukum/keuangan
 - uu/pp_7_2021
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 13 — Kemudahan, Pelindungan, dan Pemberdayaan Koperasi dan UMKM

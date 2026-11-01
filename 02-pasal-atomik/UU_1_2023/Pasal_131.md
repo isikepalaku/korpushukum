@@ -9,6 +9,9 @@ substantive_explanation: false
 tags:
 - hukum/pidana
 - uu/uu_1_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 131 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana

@@ -9,6 +9,9 @@ substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_20_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 206 — KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Acara Pidana

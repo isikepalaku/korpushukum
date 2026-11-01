@@ -8,6 +8,9 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_23_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 3A — Perubahan atas POJK 27-2024 (Aset Keuangan Digital Termasuk Aset Kripto)

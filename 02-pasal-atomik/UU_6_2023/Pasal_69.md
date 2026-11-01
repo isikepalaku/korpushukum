@@ -8,6 +8,12 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_1_2025/Pasal_69|UU 1/2025 Pasal 69]]'
+- '[[02-pasal-atomik/UU_1_2026/Pasal_69|UU 1/2026 Pasal 69]]'
+mengamandemen:
+- '[[02-pasal-atomik/UU_21_2008/Pasal_69|UU 21/2008 Pasal 69]]'
 ---
 
 # Pasal 69 — Cipta Kerja

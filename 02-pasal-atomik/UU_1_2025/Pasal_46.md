@@ -8,6 +8,10 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_6_2023/Pasal_46|UU 6/2023 Pasal 46]]'
 ---
 
 # Pasal 46 — Perubahan Ketiga UU BUMN

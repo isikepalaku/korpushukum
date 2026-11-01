@@ -9,6 +9,9 @@ substantive_explanation: false
 tags:
 - hukum/pidana
 - uu/permendagri_108_2019
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
 ---
 
 # Pasal 100 — Peraturan Pelaksanaan Perpres 96-2018 (Pendaftaran Penduduk dan Pencatatan Sipil)

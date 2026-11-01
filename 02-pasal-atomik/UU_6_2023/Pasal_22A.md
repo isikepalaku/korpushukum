@@ -8,6 +8,10 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: diubah
+diamandemen_oleh:
+- '[[02-pasal-atomik/UU_2_2025/Pasal_22A|UU 2/2025 Pasal 22A]]'
+mengamandemen: []
 ---
 
 # Pasal 22A — Cipta Kerja

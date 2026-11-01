@@ -8,6 +8,14 @@ substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_21_2008/Pasal_20|UU 21/2008 Pasal 20]]'
+- '[[02-pasal-atomik/UU_22_2001/Pasal_20|UU 22/2001 Pasal 20]]'
+- '[[02-pasal-atomik/UU_25_1992/Pasal_20|UU 25/1992 Pasal 20]]'
+- '[[02-pasal-atomik/UU_40_2004/Pasal_20|UU 40/2004 Pasal 20]]'
+- '[[02-pasal-atomik/UU_7_1992/Pasal_20|UU 7/1992 Pasal 20]]'
 ---
 
 # Pasal 20 — Cipta Kerja

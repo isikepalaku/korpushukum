@@ -8,6 +8,11 @@ substantive_explanation: true
 tags:
 - hukum/siber
 - uu/uu_1_2024
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_11_2008/Pasal_45|UU 11/2008 Pasal 45]]'
+- '[[02-pasal-atomik/UU_19_2016/Pasal_45|UU 19/2016 Pasal 45]]'
 ---
 
 # Pasal 45 — UU Nomor 1 Tahun 2024 Perubahan Kedua UU ITE
