@@ -58,6 +58,7 @@ Penjelasan resmi (I. UMUM / II. PASAL DEMI PASAL) sudah dipartisi per pasal deng
 | [[POJK 4-2023 - Perubahan Kedua atas POJK 23-POJK.04-2016 tentang]] | 11 | 8 | 3 | 73% |
 | [[POJK 22-2024 - Laporan Berkala Perusahaan Perasuransian]] | 22 | 7 | 15 | 32% |
 | [[POJK 47-2024 - Koperasi di Sektor Jasa Keuangan]] | 19 | 7 | 12 | 37% |
+| [[UU 11-2008 - ITE]] | 53 | 6 | 47 | 11% |
 | [[UU 27-2022 - PDP]] | 9 | 6 | 3 | 67% |
 | [[POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS]] | 3 | 3 | 0 | 100% |
 | [[UU 1-2013 - LKM]] | 43 | 3 | 40 | 7% |
@@ -70,6 +71,7 @@ Penjelasan resmi (I. UMUM / II. PASAL DEMI PASAL) sudah dipartisi per pasal deng
 | [[UU 63-2024 - Keimigrasian Perubahan Ketiga]] | 1 | 1 | 0 | 100% |
 | [[UU 65-2024 - Paten Perubahan Ketiga]] | 1 | 1 | 0 | 100% |
 | [[UU 66-2024 - Pelayaran Perubahan Ketiga]] | 7 | 1 | 6 | 14% |
+| [[UU 10-1998 - Perbankan 1998]] | 1 | 0 | 1 | 0% |
 | [[UU 17-2023 - Kesehatan]] | 3 | 0 | 3 | 0% |
 
 ## Cara memakai

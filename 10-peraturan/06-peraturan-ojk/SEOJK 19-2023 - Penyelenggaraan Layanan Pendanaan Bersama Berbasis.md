@@ -19,8 +19,8 @@ verifikasi: belum
 penjelasan: tidak
 penjelasan_pasal_demi_pasal: false
 penjelasan_normatif: false
-struktur_teks: terpartisi
-anchor_pasal: true
+struktur_teks: datar
+anchor_pasal: false
 last_updated: '2026-11-01'
 ---
 

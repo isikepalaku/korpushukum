@@ -106,3 +106,13 @@ last_updated: 2026-10-28
 
 - Inisiasi dokumen UU 28/2011 (ITE Perubahan Pertama...). Mengubah: ['PP 68/1998'], Mencabut: [].
 - Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] ingest-auto | UU 19/2016
+
+- Inisiasi dokumen UU 19/2016 (ITE Perubahan Pertama...). Mengubah: ['UU 11/2008'], Mencabut: [].
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] ingest-auto | UU 10/1998
+
+- Inisiasi dokumen UU 10/1998 (Perbankan 1998...). Mengubah: ['UU 7/1992', 'UU 13/1968'], Mencabut: [].
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.

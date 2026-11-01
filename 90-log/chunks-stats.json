@@ -1,16 +1,16 @@
 {
  "generated": "2026-11-01",
- "total_chunks": 25259,
+ "total_chunks": 25453,
  "by_kind": {
-  "batang-tubuh": 7536,
-  "penjelasan-umum": 1771,
-  "penjelasan-pasal": 5893,
-  "isi": 10051,
-  "penjelasan": 8
+  "batang-tubuh": 7525,
+  "penjelasan-umum": 1745,
+  "penjelasan-pasal": 5949,
+  "isi": 10223,
+  "penjelasan": 11
  },
- "substantive_penjelasan": 3611,
- "cukup_jelas": 2282,
- "avg_chars": 867,
+ "substantive_penjelasan": 3620,
+ "cukup_jelas": 2329,
+ "avg_chars": 863,
  "max_chars": 2504,
  "docs": 127,
  "source": "sections[] dari frontmatter heading (## / ### / ####)"

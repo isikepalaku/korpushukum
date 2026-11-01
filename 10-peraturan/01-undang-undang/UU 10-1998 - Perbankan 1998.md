@@ -1,3580 +1,1256 @@
 ---
-id: "UU 10/1998"
+id: UU 10/1998
 jenis: UU
-lembaga: "Undang-Undang"
+lembaga: Undang-Undang
 nomor: 10
 tahun: 1998
-judul: "Perubahan atas UU 7-1992 tentang Perbankan"
-judul_singkat: "Perbankan 1998"
+judul: Perbankan 1998
+judul_singkat: Perbankan 1998
 status: berlaku
-status_bpk: "Berlaku"
-ditetapkan: 1998-11-10
-berlaku_mulai: 1998-11-10
-mencabut: ["PERPPU 21/1960"]
-dicabut_oleh: []
-mengubah: ["UU 7/1992"]
-diubah_oleh: ["PERPPU 2/2022", "UU 11/2020", "UU 4/2023", "UU 6/2023"]
-terkait: []
-bidang: [keuangan]
-tags: [jenis/uu, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/45486/uu-no-10-tahun-1998"
+status_bpk: Berlaku
+bidang:
+- keuangan
+tags:
+- jenis/uu
+- bidang/keuangan
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
 penjelasan: ada
 penjelasan_pasal_demi_pasal: false
 penjelasan_normatif: false
 struktur_teks: terpartisi
 anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
 ## Batang Tubuh
 
-**Perubahan atas UU 7-1992 tentang Perbankan**
+**Perbankan 1998**
 
-**Status:** `berlaku` · JDIH BPK: `Berlaku`
+## UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 10 TAHUN 1998 TENTANG
 
-> Sumber: https://peraturan.bpk.go.id/Details/45486/uu-no-10-tahun-1998
+## PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1992 TENTANG PERBANKAN
 
-> Sumber: [JDIH BPK](https://peraturan.bpk.go.id/Details/45486/uu-no-10-tahun-1998)
+## DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+## PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang : a. bahwapembangunannasionalmerupakanupayapembangunanyang berkesinambungan dalam rangka mewujudkan masyarakat Indonesia yang adil dan makmur berdasarkan Pancasila dan Undang-Undang Dasar 1945;
+
+- b. bahwa dalam menghadapi perkembangan perekonomian nasional yang senantiasa bergerak cepat, kompetitif, dan terintegrasi dengan tantangan yang semakin kompleks serta sistem keuangan yang semakin maju, diperlukan penyesuaian kebijakan di bidang ekonomi, termasuk Perbankan;
+- c. bahwadalammemasukieraglobalisasidandengantelahdiratifikasi beberapa perjanjian internasional di bidang perdagangan barang dan jasa, diperlukan penyesuaian terhadap peraturan perundang-undangan di bidang perekonomian khususnya sektor Perbankan;
+- d. bahwaberdasarkanpertimbangantersebutpadahurufa,hurufb,dan huruf c di atas, dipandang perlu mengubah Undang-undang Nomor 7 Tahun 1992 tentang Perbankan dengan Undang-undang;
+
+## PRESIDEN REPUBLIK INDONESIA
+
+Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 23, dan Pasal 33 Undang-Undang Dasar 1945;
+
+2. Undang-undang Nomor 13 Tahun 1968 tentang Bank Sentral (Lembaran Negara Tahun 1968 Nomor 63, Tambahan Lembaran Negara Nomor 2865);
+3. Undang-undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Tahun 1992 Nomor 31, Tambahan Lembaran Negara Nomor 3472);
+
+## Dengan Persetujuan
+
+## DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+
+## MEMUTUSKAN:
+
+Menetapkan : UNDANG-UNDANG TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1992 TENTANG PERBANKAN.
+
+## Pasal I
+
+Mengubah beberapa ketentuan dalam Undang-undang Nomor 7 Tahun 1992 tentang Perbankan sebagai berikut:
+
+1. Ketentuan Pasal 1 diubah, sehingga Pasal 1 seluruhnya berbunyi sebagai berikut:
+
+## "Pasal 1
+
+Dalam Undang-undang ini yang dimaksud dengan:
+
+1. Perbankan adalah segala sesuatu yang menyangkut tentang bank, mencakup kelembagaan, kegiatan usaha, serta cara dan proses dalam melaksanakan kegiatan usahanya;
+2. Bank adalah badan usaha yang menghimpun dana dari masyarakat dalam bentuk simpanan dan menyalurkannya kepada masyarakat dalam bentuk kredit dan atau bentuk-bentuk lainnya dalam rangka meningkatkan taraf hidup rakyat banyak;
+3. Bank Umum adalah bank yang melaksanakan kegiatan usaha secara konvensional dan atau berdasarkan Prinsip Syariah yang dalam kegiatannya memberikan jasa dalam lalu lintas pembayaran;
+4. Bank Perkreditan Rakyat adalah bank yang melaksanakan kegiatan usaha secara konvensional atau berdasarkan Prinsip Syariah yang dalam kegiatannya tidak memberikan jasa dalam lalu lintas pembayaran;
+5. Simpanan adalah dana yang dipercayakan oleh masyarakat kepada bank berdasarkan perjanjian penyimpanan dana dalam bentuk giro, deposito, sertifikat deposito, tabungan dan atau bentuk lainnya yang dipersamakan dengan itu;
+6. Giro adalah simpanan yang penarikannya dapat dilakukan setiap saat dengan menggunakan cek, bilyet giro, sarana perintah pembayaran lainnya, atau dengan pemindahbukuan;
+7. Deposito adalah simpanan yang penarikannya hanya dapat dilakukan pada waktu tertentu berdasarkan perjanjian Nasabah Penyimpan dengan bank;
+8. SertifikatDepositoadalahsimpanandalambentukdepositoyang sertifikat bukti penyimpanannya dapat dipindahtangankan;
+
+9. Tabungan adalah simpanan yang penarikannya hanya dapat dilakukan menurut syarat tertentu yang disepakati, tetapi tidak dapat ditarik dengan cek, bilyet giro, dan atau alat lainnya yang dipersamakan dengan itu;
+2. 10.Surat Berharga adalah surat pengakuan utang, wesel, saham obligasi, sekuritas kredit, atau setiap derivatifnya, atau kepentingan lain, atau suatu kewajiban dari penerbit, dalam bentuk yang lazim diperdagangkan dalam pasar modal dan pasar uang;
+3. 11.Kredit adalah penyediaan uang atau tagihan yang dapat dipersamakan dengan itu, berdasarkan persetujuan atau kesepakatan pinjam-meminjam antara bank dengan pihak lain yang mewajibkan pihak peminjam untuk melunasi utangnya setelah jangka waktu tertentu dengan pemberian bunga;
+12. Pembiayaan berdasarkan Prinsip Syariah adalah penyediaan uang atau tagihan yang dipersamakan dengan itu berdasarkan persetujuan atau kesepakatan antara bank dengan pihak lain yang mewajibkan pihak yang dibiayai untuk mengembalikan uang atau tagihan tersebut setelah jangka waktu tertentu dengan imbalan atau bagi hasil;
+5. 13.Prinsip Syariah adalah aturan perjanjian berdasarkan hukum Islam antara bank dengan pihak lain untuk menyimpan dana dan atau pembiayaan kegiatan usaha, atau kegiatan lainnya yang dinyatakan sesuai dengan syariah, antara lain pembiayaan berdasarkan prinsip bagi hasil (mudharabah), pembiayaan berdasarkan prinsip penyertaan modal (musharakah), prinsip jual beli barang dengan memperoleh keuntungan (murabahah), atau pembiayaan barang modal berdasarkan prinsip sewa murni tanpa
+
+## PRESIDEN REPUBLIK INDONESIA
+
+pilihan (ijarah), atau dengan adanya pilihan pemindahan kepemilikan atas barang yang disewa dari pihak bank oleh pihak lain (ijarah wa iqtina);
+
+- 14.Penitipan adalah penyimpanan harta berdasarkan perjanjian atau kontrak antara Bank Umum dengan penitip, dengan ketentuan Bank Umum yang bersangkutan tidak mempunyai hak kepemilikan atas harta tersebut;
+- 15.Wali Amanat adalah kegiatan usaha yang dapat dilakukan oleh Bank Umum untuk mewakili kepentingan pemegang surat berharga berdasarkan perjanjian antara Bank Umum dengan emiten surat berharga yang bersangkutan;
+16. Nasabah adalah pihak yang menggunakan jasa bank;
+- 17.Nasabah Penyimpan adalah nasabah yang menempatkan dananya di bank dalam bentuk simpanan berdasarkan perjanjian bank dengan nasabah yang bersangkutan;
+- 18.Nasabah Debitur adalah nasabah yang memperoleh fasilitas kredit atau pembiayaan berdasarkan Prinsip Syariah atau yang dipersamakan dengan itu berdasarkan perjanjian bank dengan nasabah yang bersangkutan;
+- 19.Kantor Cabang adalah kantor bank yang secara langsung bertanggung jawab kepada kantor pusat bank yang bersangkutan, dengan alamat tempat usaha yang jelas dimana kantor cabang tersebut melakukan usahanya;
+- 20.Bank Indonesia adalah Bank Sentral Republik Indonesia sebagaimana dimaksud dalam Undang-undang yang berlaku;
+- 21.Pimpinan Bank Indonesia adalah pimpinan sebagaimana dimaksud dalam Undang-undang yang berlaku;
+22. Pihak Terafiliasi adalah:
+- a. anggotaDewanKomisaris,pengawas,Direksiataukuasanya,
+
+大
+
+pejabat, atau karyawan bank;
+
+- b. anggota pengurus, pengawas, pengelola atau kuasanya, pejabat, atau karyawan bank, khusus bagi bank yang berbentuk hukum koperasi sesuai dengan peraturan perundang-undangan yang berlaku;
+- c. pihak yang memberikan jasanya kepada bank, antara lain akuntan publik, penilai, konsultan hukum dan konsultan lainnya;
+- d. pihak yang menurut penilaian Bank Indonesia turut serta mempengaruhi pengelolaan bank, antara lain pemegang saham dan keluarganya, keluarga Komisaris, keluarga pengawas, keluarga Direksi, keluarga pengurus;
+4. 23.Agunan adalah jaminan tambahan yang diserahkan Nasabah Debitur kepada bank dalam rangka pemberian fasilitas kredit atau pembiayaan berdasarkan Prinsip Syariah;
+5. 24.Lembaga Penjamin Simpanan adalah badan hukum yang menyelenggarakan kegiatan penjaminan atas simpanan Nasabah Penyimpan melalui skim asuransi, dana penyangga, atau skim lainnya;
+6. 25.Merger adalah penggabungan dari dua bank atau lebih, dengan cara tetap mempertahankan berdirinya salah satu bank dan membubarkan bank-bank lainnya dengan atau tanpa melikuidasi;
+7. 26.Konsolidasi adalah penggabungan dari dua bank atau lebih, dengan cara tetap mempertahankan berdirinya salah satu bank dan membubarkan bank-bank lainnya dengan atau tanpa melikuidasi;
+27. Akuisisi adalah pengambilalihan kepemilikan suatu bank;
+9. 28.Rahasia Bank adalah segala sesuatu yang berhubungan dengan
+
+## PRESIDEN REPUBLIK INDONESIA
+
+keterangan mengenai nasabah penyimpanan dan simpanannya."
+
+2. KetentuanPasal6hurufkdihapus.
+3. Ketentuan pasal 6 huruf m diubah, sehingga Pasal 6 huruf m menjadi berbunyi sebagai berikut :
+
+## "Pasal 6
+
+- m. menyediakan pembiayaan dan atau melakukan kegiatan lain berdasarkan Prinsip Syariah, sesuai dengan ketentuan yang ditetapkan oleh Bank Indonesia."
+4. Ketentuan Pasal 7 huruf c, sehingga Pasal 7 huruf c menjadi berbunyi sebagai berikut :
+
+## "Pasal 7
+
+- c. melakukan kegiatan penyertaan modal sementara untuk mengatasi akibat kegagalan kredit atau kegagalan pembiayaan berdasarkan Prinsip Syariah, dengan syarat harus menarik kembali penyertaannya, dengan memenuhi ketentuan yang ditetapkan oleh Bank Indonesia; dan"
+5. Ketentuan Pasal 8 diubah, sehingga Pasal 8 seluruhnya berbunyi sebagai berikut:
+
+## "Pasal 8
+
+- (1)Dalam memberikan kredit atau pembiayaan berasarkan Prinsip Syariah, Bank Umum wajib mempunyai keyakinan berdasarkan analisis yang mendalam atau itikad dan kemampuan serta kesanggupan Nasabah Debitur untuk melunasi utangnya atau mengembalikan pembiayaan dimaksud sesuai dengan yang diperjanjikan.
+
+## PRESIDEN REPUBLIK INDONESIA
+
+- (2)Bank Umum wajib memiliki dan menerapkan pedoman perkreditan dan pembiayaan berdasarkan Prinsip Syariah, sesuai dengan ketentuan yang ditetapkan oleh Bank Indonesia."
+6. Ketentuan Pasal 11 ayat (1) dan ayat (3) diubah, serta menambah ayat baru di antara ayat (4) dan ayat (5) yang dijadikan ayat (4A), sehingga Pasal 11 ayat (1), ayat (3), dan ayat (4A) menjadi berbunyi sebagai berikut:
+
+"Pasal 11
+
+- (1)Bank Indonesia menetapkan ketentuan mengenai batas maksimum pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah, pemberian jaminan, penempatan investasi surat berharga atau hal lain yang serupa, yang dapat dilakukan oleh Bank kepada peminjam atau sekelompok peminjam yang terkait, termasuk kepada perusahaan-perusahaan dalam kelompok yang sama dengan bank yang bersangkutan.
+- (3)Bank Indonesia menetapkan ketentuan mengenai batas maksimum pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah, pemberian jaminan, penempatan investasi surat berharga, atau hal lain yang serupa yang dapat dilakukan oleh bank kepada:
+- a. pemegangsahamyangmemiliki10%(sepuluhperseratus) atau lebih dari modal disetor bank;
+- b. anggotaDewanKomisaris;
+- c. anggotaDireksi;
+
+## PRESIDEN REPUBLIK INDONESIA
+
+- d. keluarga dari pihak sebagaimana dimaksud dalam huhruf a, huruf b, dan huruf c;
+- e. pejabatbanklainnya;dan
+- f. perusahaan-perusahaan yang di dalamnya terdapat kepentingan dari pihak-pihak sebagaimana dimaksud dalam huruf a, huruf b, huruf c, huruf d, dan huruf e.
+4. (4A)Dalam memberikan kredit atau pembiayaan berdasarkan Prinsip Syariah, bank dilarang melampaui batas maksimum pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah sebagaimana diatur dalam ayat (1), ayat (2), ayat (3), dan ayat (4)."
+7. Ketentuan Pasal 12 diubah, sehingga Pasal 12 seluruhnya menjadi berbunyi sebagai berikut:
+
+## "Pasal 12
+
+- (1)Untuk menunjang pelaksanaan program peningkatan taraf hidup rakyat banyak melalui pemberdayaan koperasi, usaha kecil dan menengah, Pemerintah bersama Bank Indonesia dapat melakukan kerjasama dengan Bank Umum.
+- (2)Ketentuan mengenai kerjasama dengan Bank Umum sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah."
+8. Menambah ketentuan baru di antara Pasal 12 dan Pasal 13 yang
+
+## PRESIDEN REPUBLIK INDONESIA
+
+dijadikan Pasal 12A, yang berbunyi sebagai berikut:
+
+## "Pasal 12
+
+- (1)Bank Umum dapat membeli sebagian atau seluruh agunan, baik melalui pelelangan maupun di luar pelelangan berdasarkan penyerahan secara sukarela oleh pemilik agunan atau berdasarkan kuasa untuk menjual di luar lelang dari pemilik agunan dalam hal Nasabah Debitur tidak memenuhi kewajibannya kepada bank, dengan ketentuan agunan yang dibeli tersebut wajib dicairkan secepatnya.
+- (2)Ketentuan mengenai tata cara pembelian agunan dan pencairannya sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah."
+9. Ketentuan Pasal 13 huruf c diubah, sehingga Pasal 13 huruf c menjadi berbunyi sebagai berikut:
+
+## "Pasal 13
+
+- c. menyediakan pembiayaan dan penempatan dana berdasarkan Prinsip Syariah, sesuai dengan ketentuan yang ditetapkan oleh Bank Indonesia."
+2. 10.Ketentuan Pasal 16 diubah, sehingga Pasal 16 seluruhnya berbunyi sebagai berikut:
+
+## "Pasal 16
+
+- (1) Setiap pihak yang melakukan kegiatan menghimpun dana dari masyarakat dalam bentuk simpanan wajib terlebih dahulu memperoleh izin usaha sebagai Bank Umum atau Bank Perkreditan Rakyat dari Pimpinan Bank Indonesia, kecuali apabila kegiatan menghimpun dana dari masyarakat dimaksud diatur dengan Undang-undang tersendiri.
+- (2) Untuk memperoleh izin usaha Bank Umum dan Bank Perkreditan Rakyat sebagaimana dimaksud dalam ayat (1), wajib dipenuhi persyaratan sekurang-kurangnya tentang:
+- a. susunanorganisasidankepengurusan;
+- b. permodalan;
+- c. kepemilikan;
+- d. keahliandibidangPerbankan;
+- e. kelayakanrencanakerja.
+- (3) Persyaratan dan tata cara perizinan bank sebagaimana dimaksud dalam ayat (2) ditetapkan oleh Bank Indonesia."
+11. Ketentuan Pasal 17 dihapus.
+10. 12.Ketentuan Pasal 18 diubah, sehingga Pasal 18 seluruhnya menjadi berbunyi sebagai berikut:
+
+## "Pasal 18
+
+- (1) Pembukaan kantor cabang Bank Umum hanya dapat dilakukan dengan izin Pimpinan Bank Indonesia.
+2. (2)Pembukaan kantor cabang, kantor perwakilan, dan jenis-jenis kantor lainnya di luar negeri dari Bank Umum hanya dapat dilakukan dengan izin Pimpinan Bank Indonesia.
+- (3) Pembukaan kantor di bawah kantor cabang Bank Umum wajib dilaporkan terlebih dahulu kepada Bank Indonesia.
+4. (4)Persyaratan dan tata cara pembukaan kantor Bank Umum sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) ditetapkan oleh Bank Indonesia."
+5. 13.Ketentuan pasal 19 diubah, sehingga pasal 19 seluruhnya berbunyi sebagai berikut:
+
+## "Pasal 19
+
+- (1) Pembukaan kantor cabang Bank Perkreditan Rakyat hanya dapat
+
+dilakukan dengan izin Pimpinan Bank Indonesia. (2)Persyaratan dan tata cara pembukaan kantor Bank Perkreditan Rakyat sebagaimana dimaksud dalam ayat (1) ditetapkan oleh
+
+- Bank Indonesia."
+- 14.Ketentuan Pasal 20 ayat (1) diubah, sehingga Pasal 20 ayat (1) menjadi berbunyi sebagai berikut:
+
+## PRESIDEN REPUBLIK INDONESIA
+
+## "Pasal 20
+
+- (1) Pembukaan kantor cabang, kantor cabang pembantu, dan kantor perwakilan dari suatu bank yang berkedudukan di luar negeri, hanya dapat dilakukan dengan izin Pimpinan Bank Indonesia."
+2. 15.Ketentuan Pasal 21 ayat (1) diubah, sehingga Pasal 21 ayat (1) menjadi berbunyi sebagai berikut:
+
+## "Pasal 21
+
+- (1) Bentuk hukum suatu Bank Umum dapat berupa:
+- a. PerseroanTerbatas;
+- b. Koperasi; atau
+- c. PerusahaanDaerah."
+5. 16.Ketentuan Pasal 22 diubah, sehingga Pasal 22 seluruhnya menjadi berbunyi sebagai berikut:
+
+## "Pasal 22
+
+- (1) Bank Umum hanya dapat didirikan oleh:
+- a. Warga negara Indonesia dan atau badan hukum Indonesia; atau
+
+## PRESIDEN REPUBLIK INDONESIA
+
+- b. Warga negara Indonesia dan atau badan hukum Indonesia dengan warga negara asing dan atau badan hukum asing secara kemitraan.
+- (2) Ketentuan mengenai persyaratan pendirian yang wajib dipenuhi pihak-pihak sebagaimana dimaksud dalam ayat (1) ditetapkan oleh Bank Indonesia."
+- 17.Ketentuan Pasal 26 diubah, sehingga Pasal 26 seluruhnya menjadi berbunyi sebagai berikut:
+
+## "Pasal 26
+
+- (1) Bank Umum dapat melakukan emisi saham melalui bursa efek.
+2. (2)Warga negara Indonesia, warga negara asing, badan hukum Indonesia dan atau badan hukum asing dapat membeli saham Bank Umum, baik secara langsung dan atau melalui bursa efek.
+3. (3)Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (2) diatur lebih lanjut dengan Peraturan Pemerintah."
+4. 18.Ketentuan Pasal 27 diubah, sehingga Pasal 27 seluruhnya berbunyi sebagai berikut:
+
+## "Pasal 27
+
+Perubahan kepemilikan bank wajib:
+
+- a. memenuhi ketentuan sebagaimana dimaksud dalam Pasal 16 ayat (3), Pasal 22, Pasal 23, Pasal 24, Pasal 25, dan Pasal 26; dan
+- b. dilaporkankepadaBankIndonesia."
+
+## PRESIDEN REPUBLIK INDONESIA
+
+- 19.Ketentuan Pasal 28 ayat (1) diubah, sehingga Pasal 28 ayat (1) menjadi berbunyi sebagai berikut:
+
+## "Pasal 28
+
+- (1) Merger, konsolidasi, dan akuisisi wajib terlebih dahulu mendapat izin Pimpinan Bank Indonesia."
+2. 20.Ketentuan Pasal 29 diubah, sehingga Pasal 29 seluruhnya menjadi berbunyi sebagai berikut:
+
+## "Pasal 29
+
+- (1) Pembinaan dan pengawasan bank dilakukan oleh Bank Indonesia.
+2. (2)Bank wajib memelihara tingkat kesehatan bank sesuai dengan ketentuan kecukupan modal, kualitas aset, kualitas manajemen, likuiditas, rentabilitas, solvabilitas, dan aspek lain yang berhubungan dengan usaha bank, dan wajib melakukan kegiatan usaha sesuai dengan prinsip kehati-hatian.
+- (3) Dalam memberikan kredit atau pembiayaan berdasarkan Prinsip Syariah dan melakukan kegiatan usaha lainnya, bank wajib menempuh cara-cara yang tidak merugikan bank dan kepentingan nasabah yang mempercayakan dananya kepada bank.
+- (4) Untuk kepentingan nasabah, bank wajib menyediakan informasi mengenai kemungkinan timbulnya risiko kerugian sehubungan dengan transaksi nasabah yang dilakukan melalui bank.
+
+## PRESIDEN REPUBLIK INDONESIA
+
+- (5) Ketentuan yang wajib dipenuhi oleh bank sebagaimana dimaksud dalam ayat (2), ayat (3), dan ayat (4) ditetapkan oleh Bank Indonesia."
+2. 21.Ketentuan Pasal 31 diubah, sehingga Pasal 31 seluruhnya sebagai berikut:
+
+## "Pasal 31
+
+Bank Indonesia melakukan pemeriksaan terhadap Bank, baik secara berkala maupun setiap waktu apabila diperlukan."
+
+- 22.Menambah ketentuan baru di antara Pasal 31 dan Pasal 32 yang dijadikan Pasal 31A, yang berbunyi sebagai berikut:
+
+## "Pasal 31
+
+Bank Indonesia dapat menugaskan Akuntan Publik untuk dan atas nama Bank Indonesia melaksanakan pemeriksaan terhadap bank sebagaimana dimaksud dalam Pasal 31."
+
+23. Ketentuan Pasal 32 dihapus.
+2. 24.Ketentuan Pasal 33 diubah, sehingga Pasal 33 seluruhnya menjadi berbunyi sebagai berikut:
 
 PRESIDEN
-REPUBLIK INDONESIA
 
-**UNDANG-UNDANG REPUBLIK INDONESIA**
+## "Pasal 33
 
- NOMOR 10 TAHUN 1998
+- (1) Laporan pemeriksaan bank sebagaimana dimaksud dalam Pasal 31 dan Pasal 31A bersifat rahasia.
+2. (2)Persyaratan dan tata cara pemeriksaan sebagaimana dimaksud dalam Pasal 31 dan Pasal 31A ditetapkan oleh Bank Indonesia."
+3. 25.Ketentuan Pasal 37 diubah, sehingga Pasal 37 seluruhnya menjadi berbunyi sebagai berikut:
 
- TENTANG
+## "Pasal 37
 
- PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1992
+- (1) Dalam hal suatu bank mengalami kesulitan yang membahayakan kelangsungan usahanya, Bank Indonesia dapat melakukan tindakan agar:
+- a. pemegangsahammenambahmodal;
+- b. pemegang saham mengganti Dewan Komisaris dan atau Direksi bank;
+- c. bankmenghapusbukukankreditataupembiayaanberdasarkan Prinsip Syariah yang macet dan memperhitungkan kerugian bank dengan modalnya;
+- d. bankmelakukanmergerataukonsolidasidenganbanklain;
+- e. bank dijual kepada pembeli yang bersedia mengambil alih seluruh kewajiban;
+- f. bank menyerahkan pengelolaan seluruh atau sebagian kegiatan bank kepada pihak lain;
 
- TENTANG PERBANKAN
+## PRESIDEN REPUBLIK INDONESIA
 
- DENGAN RAHMAT TUHAN YANG MAHA ESA
+- g. bank menjual sebagian atau seluruh harta dan atau kewajiban bank kepada bank atau pihak lain.
 
- PRESIDEN REPUBLIK INDONESIA,
+(2) Apabila:
 
- Menimbang : a. bahwa pembangunan nasional merupakan upaya pembangunan yang
+- a. tindakansebagaimanadimaksuddalamayat(1)belumcukup untuk mengatasi kesulitan yang dihadapi bank; dan
+- b. menurut penilaian Bank Indonesia keadaan suatu bank dapat membahayakan sistem Perbankan, Pimpinan Bank Indonesia dapat mencabut izin usaha bank dan memerintahkan Direksi bank untuk segera menyelenggarakan Rapat Umum Pemegang Saham guna membubarkan badan hukum bank dan membentuk tim likuidasi.
+3. (3)Dalam hal Direksi bank tidak menyelenggarakan Rapat Umum Pemegang Saham sebagaimana dimaksud dalam ayat (2), Pimpinan Bank Indonesia meminta kepada pengadilan untuk mengeluarkan penetapan yang berisi pembubaran badan hukum bank, penunjukan tim likuidasi, dan perintah pelaksanaan likuidasi sesuai dengan peraturan perundang-undangan yang berlaku."
+4. 26.Menambah 2 (dua) ketentuan baru di antara Pasal 37 dan Pasal 38 yang dijadikan Pasal 37A dan Pasal 37B, yang masing-masing berbunyi sebagai berikut:
 
- berkesinambungan dalam rangka mewujudkan masyarakat Indonesia
+## "Pasal 37A
 
- yang adil dan makmur berdasarkan Pancasila dan Undang-Undang
+- (1)Apabila menurut penilaian Bank Indonesia terjadi kesulitan Perbankan yang membahayakan perekonomian nasional, atas permintaan Bank Indonesia, Pemerintah setelah berkonsultasi kepada Dewan Perwakilan Rakyat Republik Indonesia dapat
 
- Dasar 1945;
+## PRESIDEN REPUBLIK INDONESIA
 
- b. bahwa dalam menghadapi perkembangan perekonomian nasional
+- membentuk badan khusus yang bersifat sementara dalam rangka penyehatan Perbankan.
+- (2) Badan khusus sebagaimana dimaksud dalam ayat (1) melakukan program penyehatan terhadap bank-bank yang ditetapkan dan diserahkan kepada badan dimaksud.
+- (3)Dalam melaksanakan program penyehatan terhadap bank-bank, badan khusus sebagaimana dimaksud dalam ayat (1) mempunyai wewenang sebagaimana dimaksud dalam Pasal 37 ayat (1) serta wewenang lain yaitu:
+- a. mengambil alih dan menjalankan segala hak dan wewenang pemegang saham termasuk hak dan wewenang Rapat Umum Pemegang Saham;
+- b. mengambil alih dan melaksanakan segala hak dan wewenang Direksi dan Komisaris bank;
+- c. menguasai, mengelola dan melakukan tindakan kepemilikan atas c kekayaan milik atau yang menjadi hak-hak bank, termasuk kekayaan bank yang berada pada pihak manapun, baik di dalammaupun di luar negeri;
+- d. meninjau ulang, membatalkan, mengakhiri, dan atau mengubah kontrak yang mengikat bank dengan pihak ketiga, yang menurut pertimbangan badan khusus merugikan bank;
+- e. menjual atau mengalihkan kekayaan bank, Direksi, Komisaris, dan pemegang saham tertentu di dalam negeri ataupun di luar negeri, baik secara langsung maupun melalui penawaran umum;
+- f. menjual atau mengalihkan tagihan bank dan atau menyerahkan pengelolaannya kepada pihak lain, tanpa memerlukan persetujuan Nasabah Debitur;
 
- yang senantiasa bergerak cepat, kompetitif, dan terintegrasi dengan
+## PRESIDEN REPUBLIK INDONESIA
 
- tantangan yang semakin kompleks serta sistem keuangan yang
+- g. mengalihkanpengelolaankekayaandanataumenajemenbank kepada pihak lain;
+- h. melakukan penyertaan modal sementara pada bank, secara langsung atau melalui pengonversian tagihan badan khusus menjadi penyertaan modal pada bank;
+- i. melakukan panagihan piutang bank yang sudah pasti dengan penerbitan Surat Paksa;
+- j. melakukan pengosongan atas tanah dan atau bangunan milik atau yang menjadi hak bank yang dikuasai oleh pihak lain, baik sendiri maupun dengan bantuan alat negara penegak hukum yang berwenang;
+- k. melakukan penelitian dan pemeriksaan untuk memperoleh segala keterangan yang diperlukan dari dan mengenai bank dalam program penyehatan, dan pihak manapun yang terlibat atau patut terlibat, atau mengetahui kegiatan yang merugikan bank dalam program penyehatan tersebut;
+- l. menghitung dan menetapkan kerugian yang dialami bank dalam program penyehatan dan membebankan kerugian tersebut kepada modal bank yang bersangkutan, dan bilamana kerugian tersebut terjadi karena kesalahan atau kelalian Direksi, Komisaris, dan atau pemegang saham, maka kerugian tersebut akan dibebankan kepada yang bersangkutan;
+- m. menetapkan jumlah tambahan modal yang wajib disetor oleh pemegang saham bank dalam program penyehatan;
+- n. melakukan tindakan lain yang diperlukan untuk menunjang pelaksanaan wewenang sebagaimana dimaksud dalam huruf a sampai dengan huruf m.
 
- semakin maju, diperlukan penyesuaian kebijakan di bidang ekonomi,
+## PRESIDEN REPUBLIK INDONESIA
 
- termasuk Perbankan;
+- (4) Tindakan penyehatan Perbankan oleh badan khusus sebagaimana dimaksud dalam ayat (3) adalah sah berdasarkan Undang-undang ini.
+- (5) Atas permintaan badan khusus sebagaimana dimaksud dalam ayat (1), bank dalam program penyehatan wajib memberikan segala keterangan dan penjelasan mengenai usahanya termasuk memberikan kesempatan bagi pemeriksaan buku-buku dan berkas yang ada padanya, dan wajib memberikan bantuan yang diperlukan dalam rangka memperoleh keterangan, dokumen, dan penjelasan yang diperoleh bank dimaksud.
+- (6) Pihak-pihak sebagaimana dimaksud dalam ayat (3) huruf k wajib memberikan keterangan dan penjelasan yang diminta oleh badan khusus.
+4. (7)Badan khusus sebagaimana dimaksud dalam ayat (1) wajib menyampaikan laporan kegiatan kepada Menteri Keuangan.
+5. (8)Apabila menurut penilaian Pemerintah, badan khusus telah menyelesaikan tugasnya, Pemerintah menyatakan berakhirnya badan khusus tersebut;
+6. (9)Ketentuan yang diperlukan bagi pelaksanaan Pasal ini diatur lebih lanjut dengan Peraturan Pemerintah.
 
- c. bahwa dalam memasuki era globalisasi dan dengan telah diratifikasi
+### Pasal 37B ^pasal-37b
 
- beberapa perjanjian internasional di bidang perdagangan barang dan
+- (1)Setiap bank wajib menjamin dana masyarakat yang disimpan pada bank yang bersangkutan.
+- (2)Untuk menjamin simpan masyarakat pada bank sebagaimana dimaksud dalam ayat (1) dibentuk Lembaga Penjamin Simpanan.
 
- jasa, diperlukan penyesuaian terhadap peraturan
+## PRESIDEN REPUBLIK INDONESIA
 
- perundang-undangan di bidang perekonomian khususnya sektor
+- (3) Lembaga Penjamin Simpanan sebagaimana dimaksud dalam ayat (2) berbentuk badan hukum Indonesia.
+2. (4)Ketentuan mengenai penjamin dana masyarakat dan Lembaga Penjamin Simpanan, diatur lebih lanjut dengan Peraturan Pemerintah."
+3. 27.Ketentuan Pasal 40 diubah, sehingga Pasal 40 seluruhnya berbunyi sebagai berikut :
 
- Perbankan;
+## "Pasal 40
 
- d. bahwa berdasarkan pertimbangan tersebut pada huruf a, huruf b, dan
+- (1)Bank Wajib merahasiakan keterangan mengenai Nasabah Penyimpan dan simpanannya, kecuali dalam hal sebagaimana dimaksud dalam Pasal 41, Pasal 41A, Pasal 42, Pasal 44, dan Pasal 44A.
+- (2)Ketentuan sebagaimana dimaksud dalam ayat (1) berlaku pula bagi Pihak Terafiliasi."
+- 28.Ketentuan Pasal 41 ayat (1) diubah, sehingga Pasal 41 ayat (1) menjadi berbunyi sebagai berikut:
+- (1)Untuk kepentingan perpajakan, Pimpinan Bank Indonesia atas permintaan Menteri Keuangan berwenang mengeluarkan perintah tertulis kepada bank agar memberikan keterangan dan memperlihatkan bukti-bukti tertulis serta surat-surat mengenai keadaan keuangan Nasabah Penyimpan tertentu kepada pejabat pajak."
+- 29.Menambah ketentuan baru di antara Pasal 41 dan Pasal 42 yang dijadikan Pasal 41A, yang berbunyi sebagai berikut:
 
- huruf c di atas, dipandang perlu mengubah Undang-undang Nomor 7
+## PRESIDEN REPUBLIK INDONESIA
 
- Tahun 1992 tentang Perbankan dengan Undang-undang;
+## "Pasal 41A
 
------
+- (1) Untuk penyelesaian piutang bank yang sudah diserahkan kepada Badan Urusan Piutang dan Lelang Negara/Panitia Urusan Piutang Negara, Pimpinan Bank Indonesia memberikan izin kepada pejabat Badan Urusan Piutang dan Lelang Negara/Panitia Urusan Piutang Negara untuk memperoleh keterangan dari bank mengenai simpanan Nasabah Debitur.
+2. (2)Izin sebagaimana dimaksud dalam ayat (1) diberikan secara tertulis atas permintaan tertulis dari Kepala Badan Urusan Piutang dan Lelang Negara/Ketua Panitia Urusan Piutang Negara.
+3. (3)Permintaan sebagaimana dimaksud dalam ayat (2) harus menyebutkan nama dan jabatan pejabat Badan Urusan Piutang dan Lelang Negara/Panitia Urusan Piutang Negara, nama Nasabah Debitur yang bersangkutan dan
+4. 30.Ketentuan Pasal 42 diubah, sehingga Pasal 42 seluruhnya menjadi berbunyi sebagai berikut:
 
-PRESIDEN
-REPUBLIK INDONESIA
+## "Pasal 42
 
-                            - 2
-**Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 23, dan Pasal 33**
+- (1)Untuk kepentingan peradilan dalam perkara pidana, Pimpinan Bank Indonesia dapat memberikan izin kepada polisi, jaksa, atau hakim untuk memperoleh keterangan dari bank mengenai simpanan tersangka atau terdakwa pada bank.
+- (2)Izin sebagaimana dimaksud dalam ayat (1) diberikan secara tertulis atas permintaan tertulis dari Kepala Kepolisisan Republik Indonesia, Jaksa Agung, atau Ketua Mahkamah Agung.
 
- Undang-Undang Dasar 1945;
+## PRESIDEN REPUBLIK INDONESIA
 
- 2. Undang-undang Nomor 13 Tahun 1968 tentang Bank Sentral
+- (3)Permintaan sebagaimana dimaksud dalam ayat (2) harus menyebutkan nama dan jabatan polisi, jaksa, atau hakim, nama tersangka atau terdakwa, alasan diperlukannya keterangan dan hubungan perkara pidana yang bersangkutan dengan keterangan yang diperlukan."
+- 31.Menambah ketentuan baru di antara Pasal 42 dan Pasal 43 yang dijadikan Pasal 42A, yang berbunyi sebagai berikut:
 
- (Lembaran Negara Tahun 1968 Nomor 63, Tambahan Lembaran
+## "Pasal 42
 
- Negara Nomor 2865);
+Bank wajib memberikan keterangan sebagaimana dimaksud dalam Pasal 41, Pasal 41A, dan Pasal 42."
 
- 3. Undang-undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran
+- 32.Menambah ketentuan baru di antara Pasal 44 dan Pasal 45 yang dijadikan Pasal 44A, yang berbunyi sebagai berikut:
 
- Negara Tahun 1992 Nomor 31, Tambahan Lembaran Negara Nomor
+## "Pasal 44A
 
- 3472);
+- (1) Atas permintaan, persetujuan atau kuasa dari Nasabah Penyimpan yang dibuat secara tertulis, bank wajib memberikan keterangan mengenai simpan Nasabah Penyimpan pada bank yang bersangkutan kepada pihak yang ditunjuk oleh Nasabah Penyimpan tersebut.
+- (2) Dalam hal Nasabah Penyimpan telah meninggal dunia, ahli waris yang sah dari Nasabah Penyimpan yang bersangkutan berhak memperoleh keterangan mengenai simpanan Nasabah Penyimpan tersebut."
 
- Dengan Persetujuan
+## PRESIDEN REPUBLIK INDONESIA
 
- DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+- 33.Keterangan Pasal 46 ayat (1) diubah, sehingga Pasal 46 ayat (1) menjadi berbunyi sebagai berikut:
+- (1) Barang siapa menghimpun dana dari masyarakat dalam bentuk simpanan tanpa izin usaha dari Pimpinan Bank Indonesia sebagaimana dimaksud dalam Pasal 16, diancam dengan pidana penjara sekurang-kurangnya 5 (lima) tahun dan paling lama 15 (lima belas) tahun serta denda sekurang-kurangnya Rp 10.000.000.000,00 (sepuluh miliar rupiah) dan paling banyak Rp 20.000.000.000,00 (dua puluh miliar rupiah)."
+- 34.Ketentuan Pasal 47 diubah, sehingga Pasal 47 seluruhnya menjadi berbunyi sebagai berikut:
 
- MEMUTUSKAN:
+## "Pasal 47
 
- Menetapkan : UNDANG-UNDANG TENTANG PERUBAHAN ATAS
+- (1)Barang siapa tanpa membawa perintah tertulis atau izin dari Pimpinan Bank Indonesia sebagaimana dimaksud dalam Pasal 41, Pasal 41A, dan Pasal 42, dengan sengaja memaksa bank atau Pihak Terafiliasi untuk memberikan keterangan sebagaimana dimaksud dalam Pasal 40, diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 4 (empat) tahun serta denda sekurang-kurangnya Rp 10.000.000.000,00 (sepuluh miliar rupiah) dan paling banyak Rp 200.000.000.000,00 (dua ratus miliar rupiah).
+- (2)Anggota Dewan Komisaris, Direksi, pegawai bank atau Pihak Terafiliasi lainnya yang sengaja memberikan keterangan yang wajib dirahasiakan menurut Pasal 40, diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun serta denda sekurang-kurangnya Rp 4.000.000.000,00 (empat miliar rupiah) dan paling banyak Rp 8.000.000.000,00 (delapan miliar rupiah)."
 
- UNDANG-UNDANG NOMOR 7 TAHUN 1992 TENTANG
+## PRESIDEN REPUBLIK INDONESIA
 
- PERBANKAN.
+- 35.Menambah ketentuan baru di antara Pasal 47 dan Pasal 48 yang dijadikan Pasal 47A, yang berbunyi sebagai berikut:
 
- Pasal I
+## "Pasal 47A
 
- Mengubah beberapa ketentuan dalam Undang-undang Nomor 7 Tahun
+Anggota Dewan Komisaris, Direksi, atau pegawai bank yang dengan sengaja tidak memberikan keterangan yang wajib dipenuhi sebagaimana dimaksud dalam Pasal 42A dan Pasal 44a, diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 7 (tujuh) tahun serta denda sekurang-kurangnya Rp4.000.000.000.00 (empat miliar rupiah) dan paling banyak Rp15.000.000.000,00 (lima belas miliar rupiah)."
 
- 1992 tentang Perbankan sebagai berikut:
+- 36.Ketentuan Pasal 48 diubah, sehingga Pasal 48 seluruhnya menjadi berbunyi sebagai berikut:
 
- 1. Ketentuan Pasal 1 diubah, sehingga Pasal 1 seluruhnya berbunyi
+## "Pasal 48
 
- sebagai berikut:
+- (1)Anggota Dewan Komisaris, Direksi, atau pegawai bank yang dengan sengaja tidak memberikan keterangan yang wajib dipenuhi sebagaimana dimaksud dalam Pasal 30 ayat (1) dan ayat (2) dan Pasal 34 ayat (1) dan ayat (2), diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 10 (sepuluh) tahun serta denda sekurang-kurangnya Rp5.000.000.000,00 (lima miliar rupiah) dan paling banyak Rp100.000.000,000,00 (seratus miliar rupiah)."
+- (2)Anggota Dewan Komisaris, Direksi, atau pegawai bank yang dengan lalai memberikan keterangan yang wajib dipenuhi sebagaimana dimaksud dalam Pasal 30 ayat (1) dan ayat (2) dan Pasal 34 ayat (1) dan ayat (2), diancam dengan pidana kurungan
 
- "Pasal 1
+## PRESIDEN REPUBLIK INDONESIA
 
- Dalam Undang-undang ini yang dimaksud dengan:
+sekurang-kurangnya 1 (satu) tahun dan paling lama 2 (dua) tahun dan atau denda sekurang-kurangnya Rp 1.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp 2.000.000.000,00 (dua miliar rupiah)."
 
------
+- 37.Ketentuan Pasal 49 diubah, sehingga Pasal 49 seluruhnya berbunyi sebagai berikut:
 
-PRESIDEN
-REPUBLIK INDONESIA
+## "Pasal 49
 
-               - 3
-**1. Perbankan adalah segala sesuatu yang menyangkut tentang bank,**
+- (1)Anggota Dewan Komisaris, Direksi, atau pegawai bank yang dengan sengaja:
+- a. membuat atau menyebabkan adanya pencatatan palsu dalam pembukuan atau dalam proses laporan, maupun dalam dokumen atau laporan kegiatan usaha, laporan transaksi atau rekening suatu bank;
+- b. menghilangkan atau tidak memasukkan atau menyebabkan tidak dilakukannya pencatatan dalam pembukuan atau dalam laporan, maupun dalam dokumen atau laporan kegiatan usaha, laporan transaksi atau rekening suatu bank;
+- c. mengubah,mengaburkan,menyembunyikan,menghapus, atau menghilangkan adanya suatu pencatatan dalam pembukuan atau dalam laporan, maupun dalam dokumen atau laporan kegiatan usaha, laporan transaksi atau rekening suatu bank, atau dengan sengaja mengubah, mengaburkan, menghilangkan, menyembunyikan atau merusak catatan pembukuan tersebut, diancam dengan pidana penjara sekurang-kurangnya 5 (lima) tahun dan paling lama 15 (lima belas) tahun serta denda sekurang-kurangnya
 
- mencakup kelembagaan, kegiatan usaha, serta cara dan proses
+Rp10.000.000.000,00 (sepuluh miliar rupiah) dan paling banyak Rp200.000.000.000,00 (dua ratus miliar rupiah).
 
- dalam melaksanakan kegiatan usahanya;
+- (2)Anggota Dewan Komisaris, Direksi, atau pegawai bank yang dengan sengaja:
+- a. meminta atau menerima, mengizinkan atau menyetujui untuk menerima suatu imbalan, komisi, uang tambahan, pelayanan, uang atau barang berharga, untuk keuntungan pribadinya atau untuk keuntungan keluarganya, dalam rangka mendapatkan atau berusaha mendapatkan bagi orang lain dalam memperoleh uang muka, bank garansi, atau fasilitas kredit dari bank, atau dalam rangka pembelian atau pendiskontoan oleh bank atas surat-surat wesel, surat promes, cek, dan kertas dagang atau bukti kewajiban lainnya, ataupun dalam rangka memberikan persetujuan bagi orang lain untuk melaksanakan penarikan dana yang melebihi batas kreditnya pada bank;
+- b. tidakmelaksanakanlangkah-langkahyangdiperlukanuntuk memastikan ketaatan bank terhadap ketentuan dalam Undang-undang ini dan ketentuan peraturan perundang-undangan lainnya yang berlaku bagi bank, diancam dengan pidana penjara sekurang-kurangnya 3 (tiga) tahun dan paling lama 8 (delapan) tahun serta denda sekurang-kurangnya Rp5.000.000.000,00 (lima miliar rupiah) dan paling banyak Rp100.000.000.000,00 (seratus miliar rupiah)."
+- 38.Ketentuan Pasal 50 diubah, sehingga Pasal 50 seluruhnya menjadi berbunyi sebagai berikut:
 
- 2. Bank adalah badan usaha yang menghimpun dana dari
+大
 
- masyarakat dalam bentuk simpanan dan menyalurkannya kepada
+## "Pasal 50
 
- masyarakat dalam bentuk kredit dan atau bentuk-bentuk lainnya
+Pihak Terafiliasi yang dengan sengaja tidak melaksanakan langkah-langkah yang diperlukan untuk memastikan ketaatan bank terhadap ketentuan dalam Undang-undang ini dan peraturan perundang-undangan lainnya yang berlaku bagi bank, diancam dengan pidana penjara sekurang-kurang 3 (tiga) tahun dan paling lama 8 (delapan) tahun serta denda sekurang-kurangnya Rp5.000.000.000,00 (lima miliar rupiah) dan paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
 
- dalam rangka meningkatkan taraf hidup rakyat banyak;
+- 39.Menambah ketentuan Pasal 50 dan Pasal 51 yang dijadikan Pasal 50A, yang berbunyi sebagai berikut:
 
- 3. Bank Umum adalah bank yang melaksanakan kegiatan usaha
+## "Pasal 50A
 
- secara konvensional dan atau berdasarkan Prinsip Syariah yang
+Pemegang saham yang dengan sengaja menyuruh Dewan Komisaris, Direksi, atau pegawai bank untuk melakukan atau tidak melakukan tindakan yang mengakibatkan bank tidak melaksanakan langkah-langkah yang diperlukan untuk memastikan ketaatan bank terhadap ketentuan dalam Undang-undang ini dan ketentuan peraturan perundang-undangan lainnya yang berlaku bagi bank, diancam dengan pidana penjara sekurang-kurangnya 7 (tujuh) tahun dan paling lama 15 (lima belas) tahun serta denda sekurang-kurangnya Rp10.000.000.000,00 (sepuluh miliar rupiah) dan paling banyak Rp200.000.000.000,00 (dua ratus miliar rupiah)."
 
- dalam kegiatannya memberikan jasa dalam lalu lintas
+- 40.Ketentuan Pasal 51 ayat (1) diubah, sehingga Pasal 51 ayat (1) menjadi berbunyi sebagai berikut:
 
- pembayaran;
+## PRESIDEN REPUBLIK INDONESIA
 
- 4. Bank Perkreditan Rakyat adalah bank yang melaksanakan
+## "Pasal 51
 
- kegiatan usaha secara konvensional atau berdasarkan Prinsip
+- (1) Tindak pidana sebagaimana dimaksud dalam Pasal 46, Pasal 47, Pasal 47A, Pasal 48 ayat (1), Pasal 49, Pasal 50, dan Pasal 50A adalah kejahatan."
+2. 41.Ketentuan Pasal 52 diubah, sehingga Pasal 52 seluruhnya berbunyi sebagai berikut:
 
- Syariah yang dalam kegiatannya tidak memberikan jasa dalam
+## "Pasal 52
 
- lalu lintas pembayaran;
+- (1)Dengan tidak mengurangi ketentuan pidana sebagaimana dimaksud dalam Pasal 47, Pasal 47A, Pasal 48, Pasal 49, dan Pasal 50A, Bank Indonesia dapat menetapkan sanksi administratif kepada bank yang tidak memenuhi kewajibannya sebagaimana dimaksud dalam Undang-Undang ini, atau Pimpinan Bank Indonesia dapat mencabut izin usaha bank yang bersangkutan.
+- (2)Sanksi administratif sebagaimana dimaksud dalam ayat (1), antara lain adalah:
+- a. dendauang;
+- b. tegurantertulis;
+- c. penurunantingkatkesehatanbank;
+- d. laranganuntukturutsertadalamkegiatankliring;
+- e. pembekuankegiatanusahatertentu,baikuntukkantorcabang tertentu maupun untuk bank secara keseluruhan;
+- f. pemberhentianpengurusbankdanselanjutnyamenunjukdan
 
- 5. Simpanan adalah dana yang dipercayakan oleh masyarakat
+## PRESIDEN REPUBLIK INDONESIA
 
- kepada bank berdasarkan perjanjian penyimpanan dana dalam
+mengangkat pengganti sementara sampai Rapat Umum Pemegang Saham atau Rapat Anggota Koperasi mengangkat pengganti yang tetap dengan persetujuan Bank Indonesia;
 
- bentuk giro, deposito, sertifikat deposito, tabungan dan atau
+- g. pencantuman anggota, pengurus, pegawai bank, pemegang saham dalam daftar orang tercela di bidang Perbankan.
+- (3) Pelaksanaan lebih lanjut mengenai sanksi administratif ditetapkan oleh Bank Indonesia."
+3. 42.Ketentuan Pasal 55 diubah, sehingga Pasal 55 seluruhnya menjadi berbunyi sebagai berikut:
 
- bentuk lainnya yang dipersamakan dengan itu;
+## "Pasal 55
 
- 6. Giro adalah simpanan yang penarikannya dapat dilakukan setiap
+Bank yang telah memiliki izin usaha pada saat Undang-undang ini mulai berlaku, dinyatakan telah memperoleh izin usaha berdasarkan Undang-undang ini."
 
- saat dengan menggunakan cek, bilyet giro, sarana perintah
+- 43.Menambah ketentuan baru di antara Pasal 59 dan Pasal 60 yang dijadikan Pasal 59A, yang berbunyi sebagai berikut:
 
- pembayaran lainnya, atau dengan pemindahbukuan;
+## "Pasal 59A
 
- 7. Deposito adalah simpanan yang penarikannya hanya dapat
+Badan khusus yang melakukan tugas penyehatan Perbankan yang telah ada sebelum berlakunya Undang-Undang ini dinyatakan tetap berlaku."
 
- dilakukan pada waktu tertentu berdasarkan perjanjian Nasabah
+## Pasal II
 
- Penyimpan dengan bank;
+1. Dengan berlakunya Undang-undang ini, Peraturan tentang Usaha Perkreditan Yang Diselenggarakan Oleh Kelurahan Di Daerah Kadipaten Paku Alaman (Rijksblaad Dari Daerah Paku Alaman
 
- 8. Sertifikat Deposito adalah simpanan dalam bentuk deposito yang
+Tahun 1937 Nomor 9), dinyatakan tidak berlaku.
 
- sertifikat bukti penyimpanannya dapat dipindahtangankan;
+2. Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
------
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
-PRESIDEN
-REPUBLIK INDONESIA
+Disahkan di Jakarta pada tanggal 10 Nopember 1998
 
-               - 4
-**9. Tabungan adalah simpanan yang penarikannya hanya dapat**
+ttd.
 
- dilakukan menurut syarat tertentu yang disepakati, tetapi tidak
+BACHARUDDIN JUSUF HABIBIE
 
- dapat ditarik dengan cek, bilyet giro, dan atau alat lainnya yang
+Diundangkan di Jakarta pada tanggal 10 Nopember 1998 MENTERI NEGARA SEKRETARIS NEGARA REPUBLIK INDONESIA,
 
- dipersamakan dengan itu;
+ttd.
 
- 10.Surat Berharga adalah surat pengakuan utang, wesel, saham
+AKBAR TANDJUNG
 
- obligasi, sekuritas kredit, atau setiap derivatifnya, atau
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1998 NOMOR 182
 
- kepentingan lain, atau suatu kewajiban dari penerbit, dalam
+## UMUM
 
- bentuk yang lazim diperdagangkan dalam pasar modal dan pasar
+Pembangunan nasional yang dilaksanakan selama ini merupakan upaya pembangunan yang berkesinambungan dalam rangka mewujudkan masyarakat yang adil dan makmur berdasarkan Pancasila dan Undang-Undang Dasar 1945. Guna mencapai tujuan tersebut, pelaksanaan pembangunan harus senantiasa memperhatikan keserasian, keselasaran, dan keseimbangan berbagai unsur pembangunan, termasuk di bidang ekonomi dan keuangan.
 
- uang;
+Perkembangan ekonomi nasional dewasa ini menunjukkan arah yang semakin menyatu dengan ekonomi regional dan internasional yang dapat menunjang sekaligus dapat berdampak kurang menguntungkan. Sementara itu, perkembangan perekonomian nasional senantiasa bergerak cepat dengan tantangan yang semakin kompleks. Oleh karena itu, diperlukan berbagai penyesuaian kebijakan di bidang ekonomi termasuk sektor Perbankan sehingga diharapkan akan dapat memperbaiki dan memperkukuh perekonomian nasional.
 
- 11.Kredit adalah penyediaan uang atau tagihan yang dapat
-
- dipersamakan dengan itu, berdasarkan persetujuan atau
-
- kesepakatan pinjam-meminjam antara bank dengan pihak lain
-
- yang mewajibkan pihak peminjam untuk melunasi utangnya
-
- setelah jangka waktu tertentu dengan pemberian bunga;
-
- 12.Pembiayaan berdasarkan Prinsip Syariah adalah penyediaan uang
-
- atau tagihan yang dipersamakan dengan itu berdasarkan
-
- persetujuan atau kesepakatan antara bank dengan pihak lain yang
-
- mewajibkan pihak yang dibiayai untuk mengembalikan uang atau
-
- tagihan tersebut setelah jangka waktu tertentu dengan imbalan
-
- atau bagi hasil;
-
- 13.Prinsip Syariah adalah aturan perjanjian berdasarkan hukum
-
- Islam antara bank dengan pihak lain untuk menyimpan dana dan
-
- atau pembiayaan kegiatan usaha, atau kegiatan lainnya yang
-
- dinyatakan sesuai dengan syariah, antara lain pembiayaan
-
- berdasarkan prinsip bagi hasil (mudharabah), pembiayaan
-
- berdasarkan prinsip penyertaan modal (musharakah), prinsip jual
-
- beli barang dengan memperoleh keuntungan (murabahah), atau
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-               - 5
-**pilihan (ijarah), atau dengan adanya pilihan pemindahan**
-
- kepemilikan atas barang yang disewa dari pihak bank oleh pihak
-
- lain (ijarah wa iqtina);
-
- 14.Penitipan adalah penyimpanan harta berdasarkan perjanjian atau
-
- kontrak antara Bank Umum dengan penitip, dengan ketentuan
-
- Bank Umum yang bersangkutan tidak mempunyai hak
-
- kepemilikan atas harta tersebut;
-
- 15.Wali Amanat adalah kegiatan usaha yang dapat dilakukan oleh
-
- Bank Umum untuk mewakili kepentingan pemegang surat
-
- berharga berdasarkan perjanjian antara Bank Umum dengan
-
- emiten surat berharga yang bersangkutan;
-
- 16.Nasabah adalah pihak yang menggunakan jasa bank;
-
- 17.Nasabah Penyimpan adalah nasabah yang menempatkan dananya
-
- di bank dalam bentuk simpanan berdasarkan perjanjian bank
-
- dengan nasabah yang bersangkutan;
-
- 18.Nasabah Debitur adalah nasabah yang memperoleh fasilitas
-
- kredit atau pembiayaan berdasarkan Prinsip Syariah atau yang
-
- dipersamakan dengan itu berdasarkan perjanjian bank dengan
-
- nasabah yang bersangkutan;
-
- 19.Kantor Cabang adalah kantor bank yang secara langsung
-
- bertanggung jawab kepada kantor pusat bank yang bersangkutan,
-
- dengan alamat tempat usaha yang jelas dimana kantor cabang
-
- tersebut melakukan usahanya;
-
- 20.Bank Indonesia adalah Bank Sentral Republik Indonesia
-
- sebagaimana dimaksud dalam Undang-undang yang berlaku;
-
- 21.Pimpinan Bank Indonesia adalah pimpinan sebagaimana
-
- dimaksud dalam Undang-undang yang berlaku;
-
- 22.Pihak Terafiliasi adalah:
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-               - 6
-**pejabat, atau karyawan bank;**
-
- b. anggota pengurus, pengawas, pengelola atau kuasanya,
-
- pejabat, atau karyawan bank, khusus bagi bank yang
-
- berbentuk hukum koperasi sesuai dengan peraturan
-
- perundang-undangan yang berlaku;
-
- c. pihak yang memberikan jasanya kepada bank, antara lain
-
- akuntan publik, penilai, konsultan hukum dan konsultan
-
- lainnya;
-
- d. pihak yang menurut penilaian Bank Indonesia turut serta
-
- mempengaruhi pengelolaan bank, antara lain pemegang
-
- saham dan keluarganya, keluarga Komisaris, keluarga
-
- pengawas, keluarga Direksi, keluarga pengurus;
-
- 23.Agunan adalah jaminan tambahan yang diserahkan Nasabah
-
- Debitur kepada bank dalam rangka pemberian fasilitas kredit atau
-
- pembiayaan berdasarkan Prinsip Syariah;
-
- 24.Lembaga Penjamin Simpanan adalah badan hukum yang
-
- menyelenggarakan kegiatan penjaminan atas simpanan Nasabah
-
- Penyimpan melalui skim asuransi, dana penyangga, atau skim
-
- lainnya;
-
- 25.Merger adalah penggabungan dari dua bank atau lebih, dengan
-
- cara tetap mempertahankan berdirinya salah satu bank dan
-
- membubarkan bank-bank lainnya dengan atau tanpa melikuidasi;
-
- 26.Konsolidasi adalah penggabungan dari dua bank atau lebih,
-
- dengan cara tetap mempertahankan berdirinya salah satu bank
-
- dan membubarkan bank-bank lainnya dengan atau tanpa
-
- melikuidasi;
-
- 27.Akuisisi adalah pengambilalihan kepemilikan suatu bank;
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                 - 7
-**keterangan mengenai nasabah penyimpanan dan simpanannya."**
-
- 2. Ketentuan Pasal 6 huruf k dihapus.
-
- 3. Ketentuan pasal 6 huruf m diubah, sehingga Pasal 6 huruf m menjadi
-
- berbunyi sebagai berikut :
-
- "Pasal 6
-
- m. menyediakan pembiayaan dan atau melakukan kegiatan lain
-
- berdasarkan Prinsip Syariah, sesuai dengan ketentuan yang
-
- ditetapkan oleh Bank Indonesia."
-
- 4. Ketentuan Pasal 7 huruf c, sehingga Pasal 7 huruf c menjadi
-
- berbunyi sebagai berikut :
-
- "Pasal 7
-
- c. melakukan kegiatan penyertaan modal sementara untuk
-
- mengatasi akibat kegagalan kredit atau kegagalan pembiayaan
-
- berdasarkan Prinsip Syariah, dengan syarat harus menarik
-
- kembali penyertaannya, dengan memenuhi ketentuan yang
-
- ditetapkan oleh Bank Indonesia; dan"
-
- 5. Ketentuan Pasal 8 diubah, sehingga Pasal 8 seluruhnya berbunyi
-
- sebagai berikut:
-
- "Pasal 8
-
- (1) Dalam memberikan kredit atau pembiayaan berasarkan Prinsip
-
- Syariah, Bank Umum wajib mempunyai keyakinan berdasarkan
-
- analisis yang mendalam atau itikad dan kemampuan serta
-
- kesanggupan Nasabah Debitur untuk melunasi utangnya atau
-
- mengembalikan pembiayaan dimaksud sesuai dengan yang
-
- diperjanjikan.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                 - 8
-**(2) Bank Umum wajib memiliki dan menerapkan pedoman**
-
- perkreditan dan pembiayaan berdasarkan Prinsip Syariah, sesuai
-
- dengan ketentuan yang ditetapkan oleh Bank Indonesia."
-
- 6. Ketentuan Pasal 11 ayat (1) dan ayat (3) diubah, serta menambah
-
- ayat baru di antara ayat (4) dan ayat (5) yang dijadikan ayat (4A),
-
- sehingga Pasal 11 ayat (1), ayat (3), dan ayat (4A) menjadi berbunyi
-
- sebagai berikut:
-
- "Pasal 11
-
- (1) Bank Indonesia menetapkan ketentuan mengenai batas
-
- maksimum pemberian kredit atau pembiayaan berdasarkan
-
- Prinsip Syariah, pemberian jaminan, penempatan investasi
-
- surat berharga atau hal lain yang serupa, yang dapat dilakukan
-
- oleh Bank kepada peminjam atau sekelompok peminjam yang
-
- terkait, termasuk kepada perusahaan-perusahaan dalam
-
- kelompok yang sama dengan bank yang bersangkutan.
-
- (3) Bank Indonesia menetapkan ketentuan mengenai batas
-
- maksimum pemberian kredit atau pembiayaan berdasarkan
-
- Prinsip Syariah, pemberian jaminan, penempatan investasi
-
- surat berharga, atau hal lain yang serupa yang dapat dilakukan
-
- oleh bank kepada:
-
- a. pemegang saham yang memiliki 10% (sepuluh perseratus)
-
- atau lebih dari modal disetor bank;
-
- b. anggota Dewan Komisaris;
-
- c. anggota Direksi;
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                 - 9
-**d. keluarga dari pihak sebagaimana dimaksud dalam huhruf**
-
- a, huruf b, dan huruf c;
-
- e. pejabat bank lainnya; dan
-
- f. perusahaan-perusahaan yang di dalamnya terdapat
-
- kepentingan dari pihak-pihak sebagaimana dimaksud
-
- dalam huruf a, huruf b, huruf c, huruf d, dan huruf e.
-
- (4A)Dalam memberikan kredit atau pembiayaan berdasarkan
-
- Prinsip Syariah, bank dilarang melampaui batas maksimum
-
- pemberian kredit atau pembiayaan berdasarkan Prinsip
-
- Syariah sebagaimana diatur dalam ayat (1), ayat (2), ayat (3),
-
- dan ayat (4)."
-
- 7. Ketentuan Pasal 12 diubah, sehingga Pasal 12 seluruhnya menjadi
-
- berbunyi sebagai berikut:
-
- "Pasal 12
-
- (1)Untuk menunjang pelaksanaan program peningkatan taraf hidup
-
- rakyat banyak melalui pemberdayaan koperasi, usaha kecil dan
-
- menengah, Pemerintah bersama Bank Indonesia dapat melakukan
-
- kerjasama dengan Bank Umum.
-
- (2) Ketentuan mengenai kerjasama dengan Bank Umum
-
- sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan
-
- Peraturan Pemerintah."
-
- 8. Menambah ketentuan baru di antara Pasal 12 dan Pasal 13 yang
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                - 10
-**dijadikan Pasal 12A, yang berbunyi sebagai berikut:**
-
- "Pasal 12
-
- (1) Bank Umum dapat membeli sebagian atau seluruh agunan,
-
- baik melalui pelelangan maupun di luar pelelangan
-
- berdasarkan penyerahan secara sukarela oleh pemilik agunan
-
- atau berdasarkan kuasa untuk menjual di luar lelang dari
-
- pemilik agunan dalam hal Nasabah Debitur tidak memenuhi
-
- kewajibannya kepada bank, dengan ketentuan agunan yang
-
- dibeli tersebut wajib dicairkan secepatnya.
-
- (2) Ketentuan mengenai tata cara pembelian agunan dan
-
- pencairannya sebagaimana dimaksud dalam ayat (1) diatur
-
- lebih lanjut dengan Peraturan Pemerintah."
-
- 9. Ketentuan Pasal 13 huruf c diubah, sehingga Pasal 13 huruf c
-
- menjadi berbunyi sebagai berikut:
-
- "Pasal 13
-
- c. menyediakan pembiayaan dan penempatan dana berdasarkan
-
- Prinsip Syariah, sesuai dengan ketentuan yang ditetapkan oleh
-
- Bank Indonesia."
-
- 10.Ketentuan Pasal 16 diubah, sehingga Pasal 16 seluruhnya berbunyi
-
- sebagai berikut:
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                - 11
-**"Pasal 16**
-
- (1) Setiap pihak yang melakukan kegiatan menghimpun dana dari
-
- masyarakat dalam bentuk simpanan wajib terlebih dahulu
-
- memperoleh izin usaha sebagai Bank Umum atau Bank
-
- Perkreditan Rakyat dari Pimpinan Bank Indonesia, kecuali
-
- apabila kegiatan menghimpun dana dari masyarakat dimaksud
-
- diatur dengan Undang-undang tersendiri.
-
- (2) Untuk memperoleh izin usaha Bank Umum dan Bank Perkreditan
-
- Rakyat sebagaimana dimaksud dalam ayat (1), wajib dipenuhi
-
- persyaratan sekurang-kurangnya tentang:
-
- a. susunan organisasi dan kepengurusan;
-
- b. permodalan;
-
- c. kepemilikan;
-
- d. keahlian di bidang Perbankan;
-
- e. kelayakan rencana kerja.
-
- (3) Persyaratan dan tata cara perizinan bank sebagaimana dimaksud
-
- dalam ayat (2) ditetapkan oleh Bank Indonesia."
-
- 11.Ketentuan Pasal 17 dihapus.
-
- 12.Ketentuan Pasal 18 diubah, sehingga Pasal 18 seluruhnya menjadi
-
- berbunyi sebagai berikut:
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                - 12
-**"Pasal 18**
-
- (1) Pembukaan kantor cabang Bank Umum hanya dapat dilakukan
-
- dengan izin Pimpinan Bank Indonesia.
-
- (2) Pembukaan kantor cabang, kantor perwakilan, dan jenis-jenis
-
- kantor lainnya di luar negeri dari Bank Umum hanya dapat
-
- dilakukan dengan izin Pimpinan Bank Indonesia.
-
- (3) Pembukaan kantor di bawah kantor cabang Bank Umum wajib
-
- dilaporkan terlebih dahulu kepada Bank Indonesia.
-
- (4) Persyaratan dan tata cara pembukaan kantor Bank Umum
-
- sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3)
-
- ditetapkan oleh Bank Indonesia."
-
- 13.Ketentuan pasal 19 diubah, sehingga pasal 19 seluruhnya berbunyi
-
- sebagai berikut:
-
- "Pasal 19
-
- (1) Pembukaan kantor cabang Bank Perkreditan Rakyat hanya dapat
-
- dilakukan dengan izin Pimpinan Bank Indonesia.
-
- (2) Persyaratan dan tata cara pembukaan kantor Bank Perkreditan
-
- Rakyat sebagaimana dimaksud dalam ayat (1) ditetapkan oleh
-
- Bank Indonesia."
-
- 14.Ketentuan Pasal 20 ayat (1) diubah, sehingga Pasal 20 ayat (1)
-
- menjadi berbunyi sebagai berikut:
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                - 13
-**"Pasal 20**
-
- (1) Pembukaan kantor cabang, kantor cabang pembantu, dan kantor
-
- perwakilan dari suatu bank yang berkedudukan di luar negeri,
-
- hanya dapat dilakukan dengan izin Pimpinan Bank Indonesia."
-
- 15.Ketentuan Pasal 21 ayat (1) diubah, sehingga Pasal 21 ayat (1)
-
- menjadi berbunyi sebagai berikut:
-
- "Pasal 21
-
- (1) Bentuk hukum suatu Bank Umum dapat berupa:
-
- a. Perseroan Terbatas;
-
- b. Koperasi; atau
-
- c. Perusahaan Daerah."
-
- 16.Ketentuan Pasal 22 diubah, sehingga Pasal 22 seluruhnya menjadi
-
- berbunyi sebagai berikut:
-
- "Pasal 22
-
- (1) Bank Umum hanya dapat didirikan oleh:
-
- a. Warga negara Indonesia dan atau badan hukum Indonesia;
-
- atau
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                - 14
-**b. Warga negara Indonesia dan atau badan hukum Indonesia**
-
- dengan warga negara asing dan atau badan hukum asing
-
- secara kemitraan.
-
- (2) Ketentuan mengenai persyaratan pendirian yang wajib dipenuhi
-
- pihak-pihak sebagaimana dimaksud dalam ayat (1) ditetapkan
-
- oleh Bank Indonesia."
-
- 17.Ketentuan Pasal 26 diubah, sehingga Pasal 26 seluruhnya menjadi
-
- berbunyi sebagai berikut:
-
- "Pasal 26
-
- (1) Bank Umum dapat melakukan emisi saham melalui bursa efek.
-
- (2) Warga negara Indonesia, warga negara asing, badan hukum
-
- Indonesia dan atau badan hukum asing dapat membeli saham
-
- Bank Umum, baik secara langsung dan atau melalui bursa efek.
-
- (3) Pelaksanaan ketentuan sebagaimana dimaksud dalam ayat (2)
-
- diatur lebih lanjut dengan Peraturan Pemerintah."
-
- 18.Ketentuan Pasal 27 diubah, sehingga Pasal 27 seluruhnya berbunyi
-
- sebagai berikut:
-
- "Pasal 27
-
- Perubahan kepemilikan bank wajib:
-
- a. memenuhi ketentuan sebagaimana dimaksud dalam Pasal 16 ayat
-
- (3), Pasal 22, Pasal 23, Pasal 24, Pasal 25, dan Pasal 26; dan
-
- b dilaporkan kepada Bank Indonesia "
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                - 15
-**19.Ketentuan Pasal 28 ayat (1) diubah, sehingga Pasal 28 ayat (1)**
-
- menjadi berbunyi sebagai berikut:
-
- "Pasal 28
-
- (1) Merger, konsolidasi, dan akuisisi wajib terlebih dahulu mendapat
-
- izin Pimpinan Bank Indonesia."
-
- 20.Ketentuan Pasal 29 diubah, sehingga Pasal 29 seluruhnya menjadi
-
- berbunyi sebagai berikut:
-
- "Pasal 29
-
- (1) Pembinaan dan pengawasan bank dilakukan oleh Bank Indonesia.
-
- (2) Bank wajib memelihara tingkat kesehatan bank sesuai dengan
-
- ketentuan kecukupan modal, kualitas aset, kualitas manajemen,
-
- likuiditas, rentabilitas, solvabilitas, dan aspek lain yang
-
- berhubungan dengan usaha bank, dan wajib melakukan kegiatan
-
- usaha sesuai dengan prinsip kehati-hatian.
-
- (3) Dalam memberikan kredit atau pembiayaan berdasarkan Prinsip
-
- Syariah dan melakukan kegiatan usaha lainnya, bank wajib
-
- menempuh cara-cara yang tidak merugikan bank dan kepentingan
-
- nasabah yang mempercayakan dananya kepada bank.
-
- (4) Untuk kepentingan nasabah, bank wajib menyediakan informasi
-
- mengenai kemungkinan timbulnya risiko kerugian sehubungan
-
- dengan transaksi nasabah yang dilakukan melalui bank.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                - 16
-**(5) Ketentuan yang wajib dipenuhi oleh bank sebagaimana dimaksud**
-
- dalam ayat (2), ayat (3), dan ayat (4) ditetapkan oleh Bank
-
- Indonesia."
-
- 21.Ketentuan Pasal 31 diubah, sehingga Pasal 31 seluruhnya sebagai
-
- berikut:
-
- "Pasal 31
-
- Bank Indonesia melakukan pemeriksaan terhadap Bank, baik secara
-
- berkala maupun setiap waktu apabila diperlukan."
-
- 22.Menambah ketentuan baru di antara Pasal 31 dan Pasal 32 yang
-
- dijadikan Pasal 31A, yang berbunyi sebagai berikut:
-
- "Pasal 31
-
- Bank Indonesia dapat menugaskan Akuntan Publik untuk dan atas
-
- nama Bank Indonesia melaksanakan pemeriksaan terhadap bank
-
- sebagaimana dimaksud dalam Pasal 31."
-
- 23.Ketentuan Pasal 32 dihapus.
-
- 24.Ketentuan Pasal 33 diubah, sehingga Pasal 33 seluruhnya menjadi
-
- berbunyi sebagai berikut:
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                - 17
-**"Pasal 33**
-
- (1) Laporan pemeriksaan bank sebagaimana dimaksud dalam Pasal
-
- 31 dan Pasal 31A bersifat rahasia.
-
- (2) Persyaratan dan tata cara pemeriksaan sebagaimana dimaksud
-
- dalam Pasal 31 dan Pasal 31A ditetapkan oleh Bank Indonesia."
-
- 25.Ketentuan Pasal 37 diubah, sehingga Pasal 37 seluruhnya menjadi
-
- berbunyi sebagai berikut:
-
- "Pasal 37
-
- (1) Dalam hal suatu bank mengalami kesulitan yang membahayakan
-
- kelangsungan usahanya, Bank Indonesia dapat melakukan
-
- tindakan agar:
-
- a. pemegang saham menambah modal;
-
- b. pemegang saham mengganti Dewan Komisaris dan atau
-
- Direksi bank;
-
- c. bank menghapusbukukan kredit atau pembiayaan berdasarkan
-
- Prinsip Syariah yang macet dan memperhitungkan kerugian
-
- bank dengan modalnya;
-
- d. bank melakukan merger atau konsolidasi dengan bank lain;
-
- e. bank dijual kepada pembeli yang bersedia mengambil alih
-
- seluruh kewajiban;
-
- f. bank menyerahkan pengelolaan seluruh atau sebagian
-
- kegiatan bank kepada pihak lain;
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                - 18
-**g. bank menjual sebagian atau seluruh harta dan atau kewajiban**
-
- bank kepada bank atau pihak lain.
-
- (2) Apabila:
-
- a. tindakan sebagaimana dimaksud dalam ayat (1) belum cukup
-
- untuk mengatasi kesulitan yang dihadapi bank; dan
-
- b. menurut penilaian Bank Indonesia keadaan suatu bank dapat
-
- membahayakan sistem Perbankan, Pimpinan Bank Indonesia
-
- dapat mencabut izin usaha bank dan memerintahkan Direksi
-
- bank untuk segera menyelenggarakan Rapat Umum
-
- Pemegang Saham guna membubarkan badan hukum bank dan
-
- membentuk tim likuidasi.
-
- (3) Dalam hal Direksi bank tidak menyelenggarakan Rapat Umum
-
- Pemegang Saham sebagaimana dimaksud dalam ayat (2),
-
- Pimpinan Bank Indonesia meminta kepada pengadilan untuk
-
- mengeluarkan penetapan yang berisi pembubaran badan hukum
-
- bank, penunjukan tim likuidasi, dan perintah pelaksanaan
-
- likuidasi sesuai dengan peraturan perundang-undangan yang
-
- berlaku."
-
- 26.Menambah 2 (dua) ketentuan baru di antara Pasal 37 dan Pasal 38
-
- yang dijadikan Pasal 37A dan Pasal 37B, yang masing-masing
-
- berbunyi sebagai berikut:
-
- "Pasal 37A
-
- (1) Apabila menurut penilaian Bank Indonesia terjadi kesulitan
-
- Perbankan yang membahayakan perekonomian nasional, atas
-
- permintaan Bank Indonesia, Pemerintah setelah berkonsultasi
-
- kepada Dewan Perwakilan Rakyat Republik Indonesia dapat
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-             - 19
-**membentuk badan khusus yang bersifat sementara dalam rangka**
-
- penyehatan Perbankan.
-
- (2) Badan khusus sebagaimana dimaksud dalam ayat (1) melakukan
-
- program penyehatan terhadap bank-bank yang ditetapkan dan
-
- diserahkan kepada badan dimaksud.
-
- (3) Dalam melaksanakan program penyehatan terhadap bank-bank,
-
- badan khusus sebagaimana dimaksud dalam ayat (1) mempunyai
-
- wewenang sebagaimana dimaksud dalam Pasal 37 ayat (1) serta
-
- wewenang lain yaitu:
-
- a. mengambil alih dan menjalankan segala hak dan wewenang
-
- pemegang saham termasuk hak dan wewenang Rapat Umum
-
- Pemegang Saham;
-
- b. mengambil alih dan melaksanakan segala hak dan wewenang
-
- Direksi dan Komisaris bank;
-
- c. menguasai, mengelola dan melakukan tindakan kepemilikan
-
- atas c kekayaan milik atau yang menjadi hak-hak bank,
-
- termasuk kekayaan bank yang berada pada pihak manapun,
-
- baik di dalam maupun di luar negeri;
-
- d. meninjau ulang, membatalkan, mengakhiri, dan atau
-
- mengubah kontrak yang mengikat bank dengan pihak ketiga,
-
- yang menurut pertimbangan badan khusus merugikan bank;
-
- e. menjual atau mengalihkan kekayaan bank, Direksi,
-
- Komisaris, dan pemegang saham tertentu di dalam negeri
-
- ataupun di luar negeri, baik secara langsung maupun melalui
-
- penawaran umum;
-
- f. menjual atau mengalihkan tagihan bank dan atau
-
- menyerahkan pengelolaannya kepada pihak lain, tanpa
-
- memerlukan persetujuan Nasabah Debitur;
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-           - 20
-**g. mengalihkan pengelolaan kekayaan dan atau menajemen bank**
-
- kepada pihak lain;
-
- h. melakukan penyertaan modal sementara pada bank, secara
-
- langsung atau melalui pengonversian tagihan badan khusus
-
- menjadi penyertaan modal pada bank;
-
- i. melakukan panagihan piutang bank yang sudah pasti dengan
-
- penerbitan Surat Paksa;
-
- j. melakukan pengosongan atas tanah dan atau bangunan milik
-
- atau yang menjadi hak bank yang dikuasai oleh pihak lain,
-
- baik sendiri maupun dengan bantuan alat negara penegak
-
- hukum yang berwenang;
-
- k. melakukan penelitian dan pemeriksaan untuk memperoleh
-
- segala keterangan yang diperlukan dari dan mengenai bank
-
- dalam program penyehatan, dan pihak manapun yang terlibat
-
- atau patut terlibat, atau mengetahui kegiatan yang merugikan
-
- bank dalam program penyehatan tersebut;
-
- l. menghitung dan menetapkan kerugian yang dialami bank
-
- dalam program penyehatan dan membebankan kerugian
-
- tersebut kepada modal bank yang bersangkutan, dan bilamana
-
- kerugian tersebut terjadi karena kesalahan atau kelalian
-
- Direksi, Komisaris, dan atau pemegang saham, maka kerugian
-
- tersebut akan dibebankan kepada yang bersangkutan;
-
- m. menetapkan jumlah tambahan modal yang wajib disetor oleh
-
- pemegang saham bank dalam program penyehatan;
-
- n. melakukan tindakan lain yang diperlukan untuk menunjang
-
- pelaksanaan wewenang sebagaimana dimaksud dalam huruf
-
- a sampai dengan huruf m.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-             - 21
-**(4) Tindakan penyehatan Perbankan oleh badan khusus sebagaimana**
-
- dimaksud dalam ayat (3) adalah sah berdasarkan Undang-undang
-
- ini.
-
- (5) Atas permintaan badan khusus sebagaimana dimaksud dalam ayat
-
- (1), bank dalam program penyehatan wajib memberikan segala
-
- keterangan dan penjelasan mengenai usahanya termasuk
-
- memberikan kesempatan bagi pemeriksaan buku-buku dan berkas
-
- yang ada padanya, dan wajib memberikan bantuan yang
-
- diperlukan dalam rangka memperoleh keterangan, dokumen, dan
+Sektor Perbankan yang memiliki posisi strategis sebagai lembaga intermediasi dan penunjang merupakan faktor yang sangat menentukan dalam proses penyesuaian dimaksud. Sehubungan dengan itu, diperlukan penyempurnaan terhadap sistem Perbankan nasional yang bukan hanya mencakup upaya penyehatan bank secara individual melainkan juga penyehatan sistem Perbankan secara menyeluruh. Upaya penyehatan Perbankan nasional menjadi tanggung jawab bersama antara Pemerintah, bank-bank itu sendiri dan masyarakat pengguna jasa bank. Adanya tanggung jawab bersama tersebut dapat membantu memelihara tingkat kesehatan Perbankan nasional sehingga dapat berperan secara maksimal dalam perekonomian nasional.
 
 ## Penjelasan
 
 ### I. Umum
 
- (6) Pihak-pihak sebagaimana dimaksud dalam ayat (3) huruf k wajib
+## PENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 10 TAHUN 1998 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1992 TENTANG PERBANKAN
 
- memberikan keterangan dan penjelasan yang diminta oleh badan
+Agar pembinaan dan pengawasan bank dapat terlaksana secara efektif, kewenangan dan tanggung jawab mengenai perizinan bank, yang semula berada pada Menteri Keuangan, menjadi berada pada Pimpinan Bank Indonesia sehingga Bank Indonesia memiliki kewenangan dan tanggung jawab yang utuh untuk menetapkan perizinan, pembinaan dan pengawasan bank serta pengenaan sanksi terhadap bank yang tidak mematuhi peraturan perbankan yang berlaku. Dengan demikian, Bank Indonesia kewenangan dan tanggung jawab untuk menilai dan memutuskan kelayakan pendirian suatu bank dan atau pembukaan kantor cabang.
 
- khusus.
+Prinsip kehati-hatian harus dipegang teguh sedangkan ketentuan menge nai usaha bank perlu disempurnakan terutama yang berkaitan dengan penyaluran dana, termasuk di dalamnya peningkatan peranan Analisis Mengenai Dampak Lingkungan (AMDAL) bagi perusahaan berskala besar dan atau berisiko tinggi.
 
- (7) Badan khusus sebagaimana dimaksud dalam ayat (1) wajib
+Peranan Perbankan nasional perlu ditingkatkan sesuai dengan fungsinya dalam menghimpun dan menyalurkan dana masyarakat dengan lebih memperhatikan pembiayaan kegiatan sektor perekonomian nasional dengan prioritas kepada koperasi, pengusaha kecil dan menengah, serta berbagai lapisan masyarakat tanpa diskriminasi sehingga akan memperkuat struktur perekonomian nasional. Demikian pula bank perlu memberikan perhatian yang lebih besar dalam meningkatkan kinerja perekonomian di wilayah operasi tiap-tiap kantor.
 
- menyampaikan laporan kegiatan kepada Menteri Keuangan.
+Sementara itu, peranan bank yang menyelenggarakan kegiatan usaha berdasrakan Prinsip Syariah perlu ditingkatkan untuk menampung aspirasi dan kebutuhan masyarakat. Oleh karena itu, Undang-undang ini memberikan kesempatan yang seluas-luasnya bagi masyarakat untuk mendirikan bank yang menyelenggarakan kegiatan usaha berdasarkan Prinsip Syariah, termasuk pemberian kesempatan kepada Bank Umum untuk membuka kantor cabangnya yang khusus melakukan kegiatan berdasarkan Prinsip Syariah.
 
- (8) Apabila menurut penilaian Pemerintah, badan khusus telah
+Dalam rangka meningkatkan fungsi kontrol sosial terhadap Perbankan, ketentuan mengenai Rahasia Bank yang selama ini sangat tertutup harus ditinjau ulang, Rahasia Bank dimaksud merupakan salah satu unsur yang harus dimiliki oleh setiap bank sebagai lembaga kepercayaan masyarakat yang mengelola dana masyarakat, tetapi tidak seluruh aspek yang ditatausahakan bank merupakan hal-hal yang dirahasiakan.
 
- menyelesaikan tugasnya, Pemerintah menyatakan berakhirnya
+Untuk menunjang kinerja Perbankan nasional diperlukan lembaga penunjang, baik yang dimaksudkan untuk sementara waktu dalam rangka mengatasi persoalan Perbankan yang dihadapi dewasa ini maupun yang sifatnya lebih permanen seperti Lembaga Penjamin Simpanan. Guna memperkuat lembaga Perbankan sebagai lembaga kepercayaan masyarakat, diperlukan peraturan mengenai tanggung jawab pemegang saham yang dengan sengaja menyebabkan tidak ditaatinya ketentuan Perbankan dengan dikenai ancaman sanksi pidana yang berat.
 
- badan khusus tersebut;
+Sejalan dengan perkembangan tersebut di atas, dengan komitmen Indonesia dalam berbagai forum internasional seperti World Trade Organization (WTO), Asia Pasific Economic Cooperation (APEC), dan Association of South East Asian Nations (ASEAN) diperlukan berbagai penyesuaian dalam peraturan Perbankan nasional termasuk pembukaan akses pasar dan perlakuan non diskriminatif terhadap pihak asing. Upaya liberalisasi di bidang Perbankan dilakukan sedemikian rupa sehingga dapat sekaligus meningkatkan kinerja Perabankan nasional. Oleh kerena itu, perlu diberikan kesempatan yang lebih besar kepada pihak asing untuk berperan serta dalam memiliki bank nasional sehingga tetap terjadi kemitraan dengan pihak nasional.
 
- (9) Ketentuan yang diperlukan bagi pelaksanaan Pasal ini diatur
+Dalam hubungan ini, perlu diperhatikan pula peraturan perundang-undangan yang berkaitan dengan Undang-undang ini, antara lain Undang-undang Nomor 5 Tahun 1962 tentang Perusahaan Daerah, Undang-undang Nomor 25 Tahun 1992 tentang Perkoperasian, Undang-undang Nomor 7 Tahun 1994 tentang Pengesahan Agreement Establishing Word Trade Organization, Undang-undang Nomor 1 Tahun 1995 tentang Perseroan Terbatas, Undang-undang Nomor 8 Tahun 1995 tentang Pasar Modal, Undang-undang Nomor 9 Tahun 1995 tentang Usaha Kecil, dan Undang-undang Nomor 4 Taun 1996 tentang Hak Tanggungan Atas Tanah Berserta Benda-benda Yang Berkaitan Dengan Tanah.
 
- lebih lanjut dengan Peraturan Pemerintah.
+## PASAL DEMI PASAL
 
- Pasal 37B
+Pasal I Angka 1
 
- (1) Setiap bank wajib menjamin dana masyarakat yang disimpan
+## PRESIDEN REPUBLIK INDONESIA
 
- pada bank yang bersangkutan.
+Butir 1 sampai dengan Butir 28
 
- (2) Untuk menjamin simpan masyarakat pada bank sebagaimana
+Cukup jelas
 
- dimaksud dalam ayat (1) dibentuk Lembaga Penjamin Simpanan.
+Angka 2
 
------
+Cukup jelas
 
-PRESIDEN
-REPUBLIK INDONESIA
+Angka 3
 
-                - 22
-**(3) Lembaga Penjamin Simpanan sebagaimana dimaksud dalam ayat**
+Cukup jelas
 
- (2) berbentuk badan hukum Indonesia.
+## Pasal 6
 
- (4) Ketentuan mengenai penjamin dana masyarakat dan Lembaga
+Huruf m
 
- Penjamin Simpanan, diatur lebih lanjut dengan Peraturan
+Bank Umum yang melakukan kegiatan usaha secara konvensional dapat juga melakukan kegiatan usaha berdasarkan Prinsip Syariah melalui:
 
- Pemerintah."
+- a. pendiriankantorcabangataukantordibawahkantorcabangbaru,atau
+- b. pengubahan kantor cabang atau kantor di bawah kantor cabang yang melakukan kegiatan usaha secara konvensional menjadi kantor yang melakukan kegiatan berdasarkan Prinsip Syariah. Dalam rangka persiapan perubahan kantor cabang tersebut, kantor cabang atau kantor di bawah kantor cabang yang sebelumnya melakukan kegiatan usaha secara konvensional dapat terlebih dahulu membentuk unit tersendiri yang melaksanakan kegiatan berdasarkan Prinsip Syariah di dalam kantor bank tersebut.
 
- 27.Ketentuan Pasal 40 diubah, sehingga Pasal 40 seluruhnya berbunyi
+Bank Umum berdasarkan Prinsip Syariah tidak melakukan kegiatan usaha secara konvensional.
 
- sebagai berikut :
+Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
 
- "Pasal 40
+- a. kegiatanusahadanproduk-produkbankberdasarkanPrinsipSyariah;
+- b. pembentukandantugasDewanPengawasSyariah;
+- c. persyaratanbagipembukaanKantorCabangyangmelakukankegiatanusaha secara konvensional untuk melakukan kegiatan usaha berdasarkan Prinsip Syariah.
 
- (1) Bank Wajib merahasiakan keterangan mengenai Nasabah
+## Angka 4
 
- Penyimpan dan simpanannya, kecuali dalam hal sebagaimana
+Cukup jelas
 
- dimaksud dalam Pasal 41, Pasal 41A, Pasal 42, Pasal 44, dan
+## Pasal 7
 
- Pasal 44A.
+Huruf c
 
- (2) Ketentuan sebagaimana dimaksud dalam ayat (1) berlaku pula
+Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
 
- bagi Pihak Terafiliasi."
+- a. penyertaanmodalsementaraolehbankberasaldarikonversikegagalankredit atau kegagalan pembiayaan berdasarkan Prinsip Syariah pada perusahaan yang bersangkutan;
+- b. persyaratankegagalankreditataukegagalanpembiayaanberdasarkanPrinsip Syariah yang dapat dikonversi menjadi penyertaan modal;
+- c. penyertaanmodaltersebutwajibditarikkembaliapabila:
+- i) telah melebihi jangka waktu paling lama 5 (lima) tahun; atau
+5. ii) perusahaantelahmemperolehlaba;
+- d. penyertaan sementara tersebut wajib dihapuskan dari neraca bank, apabila dalam jangka waktu paling lama 5 (lima) tahun, bank belum berhasil menarik penyertaannya;
+- e. pelaporankepadaBankIndonesiamengenaipenyertaanmodalsementaraoleh Bank.
 
- 28.Ketentuan Pasal 41 ayat (1) diubah, sehingga Pasal 41 ayat (1)
+Angka 5
 
- menjadi berbunyi sebagai berikut:
+Cukup jelas
 
- (1) Untuk kepentingan perpajakan, Pimpinan Bank Indonesia atas
+## Pasal 8
 
- permintaan Menteri Keuangan berwenang mengeluarkan perintah
+Ayat (1)
 
- tertulis kepada bank agar memberikan keterangan dan
+Kredit atau pembiayaan berdasarkan Prinsip Syariah yang diberikan oleh bank mengandung risiko, sehingga dalam pelaksanaannya bank harus memperhatikan asas-asas perkreditan atau pembiayaan berdasarkan Prinsip Syariah yang sehat. Untuk mengurangi risiko tersebut, jaminan pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah dalam arti keyakinan atas kemampuan dan kesanggupan Nasabah Debitur untuk melunasi kewajibannya sesuai dengan yang diperjanjikan merupakan faktor penting yang harus diperhatikan oleh bank.
 
- memperlihatkan bukti-bukti tertulis serta surat-surat mengenai
+## PRESIDEN REPUBLIK INDONESIA
 
- keadaan keuangan Nasabah Penyimpan tertentu kepada pejabat
+Untuk memperoleh keyakinan tersebut, sebelum memberikan kredit, bank harus melakukan penilaian yang seksama terhadap watak, kemampuan, modal, agunan, dana prospek usaha dari Nasabah Debitur.
 
- pajak."
+Mengingat bahwa agunan sebagai salah satu unsur pemberian kredit, maka apabila berdasarkan unsur-unsur lain telah dapat diperoleh keyakinan atas kemampuan Nasabah Debitur mengembalikan utangnya, agunan hanya dapat berupa barang, proyek, atau hak tagih yang dibiayai dengan kredit yang bersangkutan. Tanah yang kepemilikannya didasarkan pada hukum, dan lain-lain yang sejenis dapat digunakan sebagai agunan. Bank tidak wajib meminta agunan berupa barang yang tidak berkaitan langsung dengan obyek yang dibiayai, yang lazim dikenal dengan agunan tambahan.
 
- 29.Menambah ketentuan baru di antara Pasal 41 dan Pasal 42 yang
+Di samping itu, bank dalam memberikan kredit atau pembiayaan berdasarkan Prinsip Syariah harus pula memperhatikan hasil Analisis Mengenai Dampak Lingkungan (AMDAL) bagi perusahaan yang berskala besar dan atau risiko tinggi agar proyek yang dibiayai tetap menjaga kelestarian lingkungan.
 
- dijadikan Pasal 41A, yang berbunyi sebagai berikut:
+Ayat (2)
 
------
+Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
 
-PRESIDEN
-REPUBLIK INDONESIA
+- a. pemberiankreditataupembiayaanberdasarkanPrinsipSyariahdibuatdalam bentuk perjanjian tertulis;
+- b. bankharusmemilikikeyakinanataskemampuandankesanggupanNasabah Debitur yang antara lain diperoleh dari penilaian yang seksama terhadap watak,kemampuan,modal, agunan,danprospekusahadariNasabahDebitur;
+- c. kewajibanbankuntukmenyusundanmenetapkanprosedurpemberiankredit atau pembiayaan berdasarkan Prinsip Syariah;
+- d. kewajibanbankuntukmemberikaninformasiyangjelasmengenaiprosedur dan persyaratan kredit atau pembiayaan berdasarkan Prinsip Syariah;
+- e. laranganbankuntukmemberikankreditataupembiayaanberdasarkanPrinsip Syariah dengan persyaratan yang berbeda kepada Nasabah Debitur dan atau pihak-pihak terafiliasi;
+- f. penyelesaiansengketa.
 
-                - 23
-**"Pasal 41A**
+Angka 6 Cukup jelas
 
- (1) Untuk penyelesaian piutang bank yang sudah diserahkan kepada
+## Pasal 11
 
- Badan Urusan Piutang dan Lelang Negara/Panitia Urusan Piutang
+Pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah oleh bank mengandung risiko kegagalan atau kemacetan dalam pelunasannya, sehingga dapat berpengaruh terhadap kesehatan bank. Mengingat bahwa kredit atau pembiayaan dimaksud bersumber dari dana masyarakat yang disimpan pada bank, risiko yang dihadapi bank dapat berpengaruh pula kepada keamanan dana masyarakat tersebut. Oleh karena itu, untuk memelihara kesehatan dan meningkatkan daya tahannya, bank diwajibkan menyebar risiko dengan mengatur penyaluran kredit atau pemberian pembiayaan berdasarkan Prinsip Syariah, pemberian jaminan ataupun fasilitas lain sedemikian rupa sehingga tidak terpusat pada Nasabah Debitur atau kelompokNasabahDebitur tertentu.
 
- Negara, Pimpinan Bank Indonesia memberikan izin kepada
+Ayat (1)
 
- pejabat Badan Urusan Piutang dan Lelang Negara/Panitia Urusan
+Kelompok (grup) merupakan kumpulan orang atau badan yang satu sama lain mempunyai kaitan dalam hal kepemilikan, kepengurusan, dan atau hubungan keuangan.
 
- Piutang Negara untuk memperoleh keterangan dari bank
+Ayat (3)
 
- mengenai simpanan Nasabah Debitur.
+Huruf a
 
- (2) Izin sebagaimana dimaksud dalam ayat (1) diberikan secara
+Cukup jelas
 
- tertulis atas permintaan tertulis dari Kepala Badan Urusan
+Huruf b
 
- Piutang dan Lelang Negara/Ketua Panitia Urusan Piutang
+Cukup jelas
 
- Negara.
+Huruf d
 
- (3) Permintaan sebagaimana dimaksud dalam ayat (2) harus
+Yang dimaksud dengan keluarga dalam ketentuan ini adalah hubungan keluarga sampai dengan derajat kedua baik menurut garis keturunan lurus maupun ke samping termasuk mertua, menantu dan ipar.
 
- menyebutkan nama dan jabatan pejabat Badan Urusan Piutang
+Huruf e
 
- dan Lelang Negara/Panitia Urusan Piutang Negara, nama
+## PRESIDEN REPUBLIK INDONESIA
 
- Nasabah Debitur yang bersangkutan dan
+Cukup jelas Huruf f Cukup jelas
 
- 30.Ketentuan Pasal 42 diubah, sehingga Pasal 42 seluruhnya menjadi
+Ayat (4A)
 
- berbunyi sebagai berikut:
+Larangan ini dimaksudkan agar dalam memberikan kredit atau pembiayaan berdasarkan Prinsip Syariah, bank menerapkan asas-asas perkreditan yang sehat. Bank dinyatakan melakukan pelanggaran atas ayat ini pada saat pemberiannya, saldo kredit atau pembiayaan tersebut melampaui batas maksimum yang telah ditetapkan oleh Bank Indonesia.
 
- "Pasal 42
+Angka 7
 
- (1) Untuk kepentingan peradilan dalam perkara pidana, Pimpinan
+Cukup jelas
 
- Bank Indonesia dapat memberikan izin kepada polisi, jaksa, atau
+Pasal 12
 
- hakim untuk memperoleh keterangan dari bank mengenai
+Ayat (1)
 
- simpanan tersangka atau terdakwa pada bank.
+Dalam rangka penjabaran atas ketentuan mengenai asas, fungsi, dan tujuan Perbankan pelaksanaanya senantiasa disesuaikan dengan tuntutan perkembangan pembangunan nasional, sepanjang tidak bertentangan dengan program meneter Bank Indonesia.
 
- (2) Izin sebagaimana dimaksud dalam ayat (1) diberikan secara
+Ayat (2)
 
- tertulis atas permintaan tertulis dari Kepala Kepolisisan Republik
+Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan Pemerintah memuat antara lain:
 
- I d i J k A t K t M hk h A
+- a. Kewajiban Bank Umum untuk menyalurkan kredit atau pembiayaan berdasarkan Prinsip Syariah kepada koperasi, usaha kecil dan menengah dengan prosedur dan persyaratan yang mudah dan lunak;
+- b. Programpeningkatantarafhiduprakyatbanyakyangberupapenyediaan kredit dengan bunga rendah atau pembiayaan berdasarkan Prinsip Syariah dengan tingkat bagi hasil yang rendah;
 
------
+大
 
-PRESIDEN
-REPUBLIK INDONESIA
+## PRESIDEN REPUBLIK INDONESIA
 
-                - 24
-**(3) Permintaan sebagaimana dimaksud dalam ayat (2) harus**
+- c. SubsidibunyaataubagihasilyangmenjadibebanAnggaranPendapatan dan Belanja Negara.
 
- menyebutkan nama dan jabatan polisi, jaksa, atau hakim, nama
+Angka 8
 
- tersangka atau terdakwa, alasan diperlukannya keterangan dan
+Pasal 12
 
- hubungan perkara pidana yang bersangkutan dengan keterangan
+Cukup jelas Ayat (1) Pembelian agunan oleh bank melalui pelelangan dimaksudkan untuk membantu bank agar dapat mempercepat penyelesaian kewajiban Nasabah Debiturnya. Dalam hal bank sebagai pembeli agunan Nasabah Debiturnya, status bank adalah sama dengan pembeli bukan bank lainnya. Bank dimungkinan membeli agunan di luar pelelangan dimaksudkan agar dapat mempercepat penyelesaian kewajiban Nasabah Debiturnya. Bank tidak diperbolehkan memiliki agunan yang dibelinya dan secepat-cepatnya harus dijual kembali agar hasil penjualan agunan dapat segera dimanfaatkan oleh bank. Ayat (2) Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan Pemerintah memuat antara lain: a. Agunanyangdapatdibeliolehbankadalahagunanyang kreditnya telah dikategorikan macet selama jangka waktu tertentu; b. Agunanyangtelahdibeliwajibdicairkanselambat-lambatnya dalam jangka waktu satu tahun; c. Dalamjangkawaktusatutahun,bankdapatmenangguhkan kewajiban-kewajiban berkaitan dengan pengalihan hak atas agunan yang bersangkutan sesuai dengan peraturan perundang-undangan yang berlaku. Angka 9 Cukup jelas
 
- yang diperlukan."
+## Pasal 13
 
- 31.Menambah ketentuan baru di antara Pasal 42 dan Pasal 43 yang
+Huruf c
 
- dijadikan Pasal 42A, yang berbunyi sebagai berikut:
+Bank Perkreditan Rakyat yang melaksanakan kegiatan usahanya berdasarkan Prinsip Syariah tidak diperkenankan melaksanakan kegiatan secara konvensional. Demikian juga Bank Perkreditan Rakyat yang melakukan kegiatan usaha secara konvensional tidak diperkenankan melakukan kegiatan berdasarkan Prinsip Syariah.
 
- "Pasal 42
+Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
 
- Bank wajib memberikan keterangan sebagaimana dimaksud dalam
+- a. Kegiatanusahadanproduk-produkbankberdasarkanPrinsipSyariah;
+- b. PembentukandantugasDewanPengawasSyariah.
 
- Pasal 41, Pasal 41A, dan Pasal 42."
+Angka 10 Cukup jelas
 
- 32.Menambah ketentuan baru di antara Pasal 44 dan Pasal 45 yang
+Pasal 16 Ayat (1)
 
- dijadikan Pasal 44A, yang berbunyi sebagai berikut:
+Kegiatan menghimpun dana dari masyarakat oleh siapapun pada dasarnya merupakan kegiatan yang perlu diawasi, mengingat dalam kegiatan itu terkait kepentingan masyarakat yang dananya disimpan pada pihak yang menghimpun dana tersebut. Sehubungan dengan itu dalam ayat ini ditegaskan bahwa kegiatan menghimpun dana dari masyarakat dalam bentuk simpanan hanya dapat dilakukan oleh pihak yang telah memperoleh izin usaha sebagai Bank Umum atau sebagai
 
- "Pasal 44A
+Bank Perkreditan Rakyat.
 
- (1) Atas permintaan, persetujuan atau kuasa dari Nasabah Penyimpan
+Namun, di masyarakat terdapat pula jenis lembaga lainnya yang juga melakukan kegiatan penghimpunan dana dari masyarakat dalam bentuk simpanan atau semacam simpanan, misalnya yang dilakukan oleh kantor pos, oleh dana pensiun, atau oleh perusahaan asuransi. Kegiatan lembaga-lembaga tersebut tidak cukup sebagai kegiatan usaha Perbankan berdasarkan ketentuan dalam ayat ini. Kegiatan penghimpunan dana dari masyarakat yang dilakukan oleh lembaga-lembaga tersebut, diatur dengan undang-undang tersendiri.
 
- yang dibuat secara tertulis, bank wajib memberikan keterangan
+Ayat (2)
 
- mengenai simpan Nasabah Penyimpan pada bank yang
+Dalam hal memberikan izin usaha sebagai Bank Umum dan Bank Perkreditan Rakyat, Bank Indonesia selain memperhatikan pemenuhan persyaratan sebagaimana dimaksud dalam ayat ini, juga wajib memperhatikan tingkat persaingan yang sehat antar bank, tingkat kejenuhan jumlah bank dalam suatu wilayah tertentu, serta pemerataan pembangunan ekonomi nasional.
 
- bersangkutan kepada pihak yang ditunjuk oleh Nasabah
+## Huruf a
 
- Penyimpan tersebut.
+Pada Bank Umum dimungkinkan kepengurusan pihak asing sepanjang sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
- (2) Dalam hal Nasabah Penyimpan telah meninggal dunia, ahli waris
+Huruf b
 
- yang sah dari Nasabah Penyimpan yang bersangkutan berhak
+Cukup jelas
 
- memperoleh keterangan mengenai simpanan Nasabah Penyimpan
+Huruf c
 
- tersebut."
+Persyaratan kepemilikan dimaksud termasuk jumlah serta komposisi kepemilikan pihak asing yang diizinkan pada Bank Umum.
 
------
+Huruf d
 
-PRESIDEN
-REPUBLIK INDONESIA
+Cukup jelas
 
-                - 25
-**33.Keterangan Pasal 46 ayat (1) diubah, sehingga Pasal 46 ayat (1)**
+Huruf e
 
- menjadi berbunyi sebagai berikut:
+Cukup jelas
 
- (1) Barang siapa menghimpun dana dari masyarakat dalam bentuk
+Ayat (3)
 
- simpanan tanpa izin usaha dari Pimpinan Bank Indonesia
+Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
 
- sebagaimana dimaksud dalam Pasal 16, diancam dengan pidana
+- a. persyaratan untuk menjadi pengurus bank antara lain menyangkut keahlian di bidang Perbankan dan konduite yang baik;
+- b. laranganadanyahubungankeluargadiantarapengurusbank;
+- c. modal disetorminimum untuk pendirian Bank Umum dan Bank Perkreditan Rakyat;
+- d. batasmaksimumkepemilikandankepengurusan;
+- e. kelayakanrencanakerja;
+- f. bataswaktupemberianizinpendirianbank.
 
- penjara sekurang-kurangnya 5 (lima) tahun dan paling lama 15
+## PRESIDEN REPUBLIK INDONESIA
 
- (lima belas) tahun serta denda sekurang-kurangnya Rp
+Angka 11
 
- 10.000.000.000,00 (sepuluh miliar rupiah) dan paling banyak Rp
+Cukup jelas
 
- 20.000.000.000,00 (dua puluh miliar rupiah)."
+Angka 12
 
- 34.Ketentuan Pasal 47 diubah, sehingga Pasal 47 seluruhnya menjadi
+Cukup jelas
 
- berbunyi sebagai berikut:
+Pasal 18
 
- "Pasal 47
+```
+Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3)
+```
 
- (1) Barang siapa tanpa membawa perintah tertulis atau izin dari
+Yang dimaksud dengan kantor di bawah kantor cabang antara lain mencakup kantor cabang pembantu dan kantor kas. Dalam rangka memenuhi penyediaan layanan jasa Perbankan, dimungkinkan pula pembukaan jenis kantor lain di bawah kantor cabang, misalnya tempat pembayaran (payment point), kas mobil, dan anjungan tunai mandiri (ATM).
 
- Pimpinan Bank Indonesia sebagaimana dimaksud dalam Pasal
+Rencana pembukaan kantor cabang wajib terlebih dahulu dilaporkan kepada Bank Indonesia.
 
- 41, Pasal 41A, dan Pasal 42, dengan sengaja memaksa bank atau
+Ayat (4)
 
- Pihak Terafiliasi untuk memberikan keterangan sebagaimana
+Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
 
- dimaksud dalam Pasal 40, diancam dengan pidana penjara
+- a. persyaratantingkatkesehatanbank;
+- b. tingkatpersainganyangsehatantarbank;
+- c. tingkatkejenuhanjumlahbankdalamsuatuwilayahtertentu;
+- d. pemerataanpembangunanekonominasional;
+- e. batas waktu pemberian izin pembukaan kantor selambat-lambatnya 60 (enam puluh) hari setelah dokumen permohonan diterima secara lengkap;
 
- sekurang-kurangnya 2 (dua) tahun dan paling lama 4 (empat)
+大
 
- tahun serta denda sekurang-kurangnya Rp 10.000.000.000,00
+- f. bataswaktudanalasanpenolakan;
+- g. bataswaktupelaporanpembukaankantordibawahkantorcabang.
 
- (sepuluh miliar rupiah) dan paling banyak Rp
+Angka 13
 
- 200.000.000.000,00 (dua ratus miliar rupiah).
+Cukup jelas
 
- (2) Anggota Dewan Komisaris, Direksi, pegawai bank atau Pihak
+## Pasal 19
 
- Terafiliasi lainnya yang sengaja memberikan keterangan yang
+Ayat (1)
 
- wajib dirahasiakan menurut Pasal 40, diancam dengan pidana
+Dalam memberikan izin pembukaan kantor cabang Bank Perkreditan Rakyat, Bank Indonesia selain memperhatikan pemenuhan persyaratan sebagaimana dimaksud dalam ayat iini, juga wajib memperhatikan tingkat persaingan yang sehat antar bank, tingkat kejenuhan jumlah bank dalam suatu wilayah tertentu, serta pemerataan pembangunan ekonomi nasional.
 
- penjara sekurang-kurangnya 2 (dua) tahun serta denda
+Pembukaan kantor di bawah kantor cabang Bank Perkreditan Rakyat tidak memerlukan izin. Rencana pembukaan kantor dimaksud wajib terlebih dahulu dilaporkan kepada Bank Indonesia.
 
- sekurang-kurangnya Rp 4.000.000.000,00 (empat miliar rupiah)
+Ayat (2) Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
 
- dan paling banyak Rp 8.000.000.000,00 (delapan miliar rupiah)."
+antara lain:
 
------
+- a. persyaratantingkatkesehatanBankPerkreditanRakyat;
+- b. tingkatpersainganyangsehatantarBankPerkreditan Rakyat;
+- c. tingkatkejenuhanjumlahKantorBankPerkreditanRakyatdalam suatu wilayah tertentu;
+- d. pemerataanpembangunanekonominasional;
+- e. batas waktu pemberian izin pembukaan kantor selambat-lambatnya 60 (enam puluh) hari setelah dokumen permohonan diterima secara lengkap;
+- f. bataswaktudanalasanpenolakan;
 
-PRESIDEN
-REPUBLIK INDONESIA
+Angka 14 Cukup jelas
 
-                - 26
-**35.Menambah ketentuan baru di antara Pasal 47 dan Pasal 48 yang**
+Pasal 20
 
- dijadikan Pasal 47A, yang berbunyi sebagai berikut:
+Ayat (1)
 
- "Pasal 47A
+Yang dimaksud dengan bank yang berkedudukan di luar negeri adalah bank yang didirikan berdasarkan hukum asing dan berkantor pusat di luar negeri. Dengan demikian, bank yang bersangkutan tunduk pada hukum di tempat bank tersebut didirikan.
 
- Anggota Dewan Komisaris, Direksi, atau pegawai bank yang dengan
+Dalam memberikan izin pembukaan jenis kantor-kantor dimaksud, Bank Indonesia selain memperhatikan tingkat kesehatan bank juga memperhatikan tingkat persaingan yang sehat antar bank, tingkat kejenuhan jumlah kantor bank dalam suatu wilayah tertentu serta pemerataan pembangunan ekonomi nasional.
 
- sengaja tidak memberikan keterangan yang wajib dipenuhi
+Angka 15
 
- sebagaimana dimaksud dalam Pasal 42A dan Pasal 44a, diancam
+Cukup jelas
 
- dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling
+Pasal 21
 
- lama 7 (tujuh) tahun serta denda sekurang-kurangnya
+Ayat (1)
 
- Rp4.000.000.000.00 (empat miliar rupiah) dan paling banyak
+Cukup jelas
 
- Rp15.000.000.000,00 (lima belas miliar rupiah)."
+Angka 16
 
- 36.Ketentuan Pasal 48 diubah, sehingga Pasal 48 seluruhnya menjadi
+Cukup jelas
 
- berbunyi sebagai berikut:
+Pasal 22
 
- "Pasal 48
+Ayat (1)
 
- (1) Anggota Dewan Komisaris, Direksi, atau pegawai bank yang
+Huruf a
 
- dengan sengaja tidak memberikan keterangan yang wajib
+Yang termasuk dalam pengertian badan hukum Indonesia antara lain adalah Negara Republik Indonesia, Badan Usaha Milik Negara, Badan Usaha Milik Daerah, koperasi, dan badan usaha milik swasta.
 
- dipenuhi sebagaimana dimaksud dalam Pasal 30 ayat (1) dan ayat
+## PRESIDEN REPUBLIK INDONESIA
 
- (2) dan Pasal 34 ayat (1) dan ayat (2), diancam dengan pidana
+Huruf b
 
- penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 10
+Dalam hal salah satu pihak yang akan mendirikan Bank Umum adalah badan hukum asing, yang bersangkutan terlebih dahulu harus memperoleh rekomedasi dari otoritas moneter negara asal. Rekomendasi dimaksud sekurang-kurangnya memuat keterangan bahwa badan hukum asing yang bersangkutan mempunyai reputasi yang baik dan tidak pernah melakukan perbuatan tercela di bidang Perbankan.
 
- (sepuluh) tahun serta denda sekurang-kurangnya
+## Ayat (2)
 
- Rp5.000.000.000,00 (lima miliar rupiah) dan paling banyak
+Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
 
- Rp100.000.000,000,00 (seratus miliar rupiah)."
+- a. kepemilikansaham;
+- b. persyaratandokumenyangharusdipenuhi;
+- c. kondisikeuangancalonpendiribank.
 
- (2) Anggota Dewan Komisaris, Direksi, atau pegawai bank yang
+Angka 17 Cukup jelas
 
- dengan lalai memberikan keterangan yang wajib dipenuhi
+## Pasal 26
 
- sebagaimana dimaksud dalam Pasal 30 ayat (1) dan ayat (2) dan
+Ayat (1)
 
- P l 34 t (1) d t (2) di d id k
+Ketentuan dalam ayat ini dimaksudkan untuk memperkuat struktur permodalan, penyebaran kepemilikan, dan meningkatkan kinerja bank tersebut.
 
------
+Emisi saham dapat dilakukan melalui bursa efek di Indonesia dan atau di luar negeri.
 
-PRESIDEN
-REPUBLIK INDONESIA
+Ayat (2)
 
-                - 27
-**sekurang-kurangnya 1 (satu) tahun dan paling lama 2 (dua) tahun**
+Ketentuan dalam ayat ini dimaksudkan untuk membuka kesempatan yang lebih luas kepada berbagai pihak, baik Indonesia maupun asing untuk turut serta memiliki Bank Umum.
 
- dan atau denda sekurang-kurangnya Rp 1.000.000.000,00 (satu
+## PRESIDEN REPUBLIK INDONESIA
 
- miliar rupiah) dan paling banyak Rp 2.000.000.000,00 (dua
+Ayat (3)
 
- miliar rupiah)."
+Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan Pemerintah memuat antara lain:
 
- 37.Ketentuan Pasal 49 diubah, sehingga Pasal 49 seluruhnya berbunyi
+- a. Persyaratan kepemilikan saham termasuk kondisi keuangan calon pemilik bank;
+- b. Persyaratandokumenyangharusdipenuhi.
 
- sebagai berikut:
+Angka 18
 
- "Pasal 49
+Cukup jelas
 
- (1) Anggota Dewan Komisaris, Direksi, atau pegawai bank yang
+Pasal 27
 
- dengan sengaja:
+Huruf a
 
- a. membuat atau menyebabkan adanya pencatatan palsu dalam
+Cukup jelas
 
- pembukuan atau dalam proses laporan, maupun dalam
+Huruf b
 
- dokumen atau laporan kegiatan usaha, laporan transaksi atau
+Rencana pengalihan kepemilikan bank yang dilakukan secara langsung harus dilaporkan terlebih dahulu kepada Bank Indonesia. Pelaporan ini dimaksudkan untuk memastikan agar peralihan kepemilikan dilakukan kepada pihak-pihak yang memenuhi persyaratan sebagai pemilik bank.
 
- rekening suatu bank;
+Peralihan kepemilikan saham bank yang dilakukan melalui bursa efek dilaporkan kepada Bank Indonesia apabila kepemilikan suatu pihak melalui bursa efek tersebut telah mencapai jumlah tertentu yang dapat mempengaruhi jalannya pengelolaan bank sesuai dengan ketentuan yang ditetapkan oleh Bank Indonesia.
 
- b. menghilangkan atau tidak memasukkan atau menyebabkan
+Angka 19
 
- tidak dilakukannya pencatatan dalam pembukuan atau dalam
+Cukup jelas
 
- laporan, maupun dalam dokumen atau laporan kegiatan usaha,
+## Pasal 28
 
- laporan transaksi atau rekening suatu bank;
+Ayat (1)
 
- c. mengubah, mengaburkan, menyembunyikan, menghapus, atau
+Dalam melakukan merger, konsuldasi, dan akuisisi, wajib dihindarkan timbulnya pemusatan kekuatan ekonomi pada suatu kelompok dalam bentuk monopoli yang merugikan masyarakat. Demikian pula merger, konsolidasi, dan akuisisi yang dilakukan, tidak boleh merugikan kepentingan para nasabah.
 
- menghilangkan adanya suatu pencatatan dalam pembukuan
+## PRESIDEN REPUBLIK INDONESIA
 
- atau dalam laporan, maupun dalam dokumen atau laporan
+Angka 20 Cukup jelas
 
- kegiatan usaha, laporan transaksi atau rekening suatu bank,
+Pasal 29
 
- atau dengan sengaja mengubah, mengaburkan,
+Ayat (1), ayat (2), dan ayat (3)
 
- menghilangkan, menyembunyikan atau merusak catatan
+Yang dimaksud dengna pembinaan dalam ayat (1) ini adalah upaya-upaya yang dilakukan dengan cara menetapkan peraturan yang menyangkut aspek kelembagaan, kepemilikan, pengurusan, kegiatan usaha, pelaporan serta aspek lain yang berhubungan dengan kegiatan operasional bank.
 
- pembukuan tersebut, diancam dengan pidana penjara
+Yang dimaksud dengan pengawasan dalam ayat (1) ini meliputi pengawasan tidak langsung yang terutama dalam bentuk pengawasan dini melalui penelitian, analisis, dan evaluasi laporan bank, dan pengawasan langsung dalam bentuk pemeriksaan yang disusul dengan tindakan-tindakan perbaikan.
 
- sekurang-kurangnya 5 (lima) tahun dan paling lama 15 (lima
+Sejalan dengan itu, Bank Indonesia diberi wewenang, tanggung jawab, dan kewajiban secara utuh untuk melakukan pembinaan dan pengawasan terhadap bank dengan menempuh upaya-upaya baik yang bersifat preventif maupun represif.
 
- belas) tahun serta denda sekurang-kurangnya
+Di pihak lain, bank wajib memiliki dan menerapkan sistem pengawasan intern dalam rangka menjamin terlaksananya proses pengambilan keputusan dalam pengelolaan bank yang sesuai dengan prinsip kehati-hatian.
 
------
+Mengingat bank terutama bekerja dengan dana dari masyarakat yang disimpan pada bank atas dasar kepercayaan, setiap bank perlu terus menjaga kesehatannya dan memelihara kepercayaan masyarakat padanya.
 
-PRESIDEN
-REPUBLIK INDONESIA
+Ayat (4)
 
-                - 28
-**Rp10.000.000.000,00 (sepuluh miliar rupiah) dan paling**
+Penyediaan informasi mengenai kemungkinan timbulnya risiko kerugian nasabah dimaksudkan agar akses untuk memperoleh informasi perihal kegiatan usaha dan kondisi bank menjadi lebih terbuka yang sekaligus menjamin adanya transparansi dalam dunia Perbankan.
 
- banyak Rp200.000.000.000,00 (dua ratus miliar rupiah).
+## PRESIDEN REPUBLIK INDONESIA
 
- (2) Anggota Dewan Komisaris, Direksi, atau pegawai bank yang
+Informasi tersebut dapat memuat keadaan bank, termasuk kecukupan modal dan kualitas aset.
 
- dengan sengaja:
+Apabila informasi tersebut telah disediakan, bank dianggap telah melaksanakan ketentuan ini. Informasi tersebut perlu diberikan dalam hal bank bertindak sebagai perantara penempatan dana dari nasabah, atau pembelian/penjualan surat berharga untuk kepetingan dan atas perintah nasabahnya.
 
- a. meminta atau menerima, mengizinkan atau menyetujui untuk
+Ayat (5)
 
- menerima suatu imbalan, komisi, uang tambahan, pelayanan,
+Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
 
- uang atau barang berharga, untuk keuntungan pribadinya atau
+- a. ruanglingkuppembinaandanpengawasan;
+- b. kriteriapenilaiantingkatkesehatan;
+- c. prinsipkehati-hatiandalampengelolaan;
+- d. pedomanpemberianinformasikepadanasabah.
 
- untuk keuntungan keluarganya, dalam rangka mendapatkan
+## Angka 21
 
- atau berusaha mendapatkan bagi orang lain dalam
+Cukup jelas
 
- memperoleh uang muka, bank garansi, atau fasilitas kredit
+## Pasal 31
 
- dari bank, atau dalam rangka pembelian atau pendiskontoan
+Pada dasarnya pemeriksaan yang dilakukan oleh Bank Indonesia dilaksanakan secara berkala sekurang-kurangnya satu tahun sekali untuk setiap bank. Di samping itu, pemeriksaan dapat dilakukan setiap waktu jika dipandang perlu untuk meyakinkan hasil pengawasan tidak langsung dan apabila terdapat indikasi adanyapenyimpangan dari praktek Perbankan yang sehat.
 
- oleh bank atas surat-surat wesel, surat promes, cek, dan kertas
+Terhadap keuangan negara yang dikelola oleh suatu bank, Badan Pemeriksa Keuangan dapat melakukan pemeriksaan pada bank yang bersangkutan.
 
- dagang atau bukti kewajiban lainnya, ataupun dalam rangka
+Angka 22
 
- memberikan persetujuan bagi orang lain untuk melaksanakan
+Cukup jelas
 
- penarikan dana yang melebihi batas kreditnya pada bank;
+## Pasal 31A
 
- b. tidak melaksanakan langkah-langkah yang diperlukan untuk
+Pemeriksaan terhadap bank yang dilakukan oleh Akuntan Publik adalah pemeriksaan setempat yang merupakan bentuk pendelegasian wewenang Bank Indonesia selaku otoritas pembina dan pengawas bank.
 
- memastikan ketaatan bank terhadap ketentuan dalam
+Angka 23
 
- Undang-undang ini dan ketentuan peraturan
+Cukup jelas
 
- perundang-undangan lainnya yang berlaku bagi bank,
+Angka 24
 
- diancam dengan pidana penjara sekurang-kurangnya 3 (tiga)
+Cukup jelas
 
- tahun dan paling lama 8 (delapan) tahun serta denda
+## Pasal 33
 
- sekurang-kurangnya Rp5.000.000.000,00 (lima miliar rupiah)
+Ayat (1)
 
- dan paling banyak Rp100.000.000.000,00 (seratus miliar
+Cukup jelas
 
- rupiah)."
+Ayat (2)
 
- 38.Ketentuan Pasal 50 diubah, sehingga Pasal 50 seluruhnya menjadi
+Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
 
- berbunyi sebagai berikut:
+- a. jenisprodedur,danruanglingkuppemeriksaan;
+- b. jangkawaktudanpelaporanhasilpemeriksaan;
+- c. tindaklanjuthasilpemeriksaan.
 
------
+Angka 25
 
-PRESIDEN
-REPUBLIK INDONESIA
+Cukup jelas
 
-                - 29
-**"Pasal 50**
+## Pasal 37
 
- Pihak Terafiliasi yang dengan sengaja tidak melaksanakan
+Ayat (1)
 
- langkah-langkah yang diperlukan untuk memastikan ketaatan bank
+Keadaan suatu bank dikatakan mengalami kesulitan yang membahayakan kelangsungan usahanya apabila berdasarkan penilaian Bank Indonesia, kondisi bank semakin memburuk, antara lain ditandai dengan menurunnya permodalan, kualitas aset likuiditas dan rentabilitas, serta pengelolaan bank yang tidak dilakukan berdasarkan prinsip kehati-hatian dan asas Perbankan yang sehat.
 
- terhadap ketentuan dalam Undang-undang ini dan peraturan
+Dalam ayat ini ditetapkan langkah-langkah yang perlu dilakukan terhadap
 
- perundang-undangan lainnya yang berlaku bagi bank, diancam
+## PRESIDEN REPUBLIK INDONESIA
 
- dengan pidana penjara sekurang-kurang 3 (tiga) tahun dan paling
+bank yang mengalami kesulitan dan membahayakan kelangsungan usahanya, agar tidak terjadi pencabutan izin usahanya dan atau tindakan likuiditas sebagaimana dimaksud dalam ayat (2).
 
- lama 8 (delapan) tahun serta denda sekurang-kurangnya
+Langkah-langkah dimaksud dilakukan dalam rangka mempertahankan/menyelamatkan bank sebagai lembaga kepercayaan masyarakat.
 
- Rp5.000.000.000,00 (lima miliar rupiah) dan paling banyak
+Yang dimaksud dengan pihak lain dalam ayat ini adalah pihak-pihak di luar bank yang bersangkutan, baik bank lain, badan usaha lain maupun individu yang memenuhi persyaratan.
 
- Rp100.000.000.000,00 (seratus miliar rupiah).
+Kriteria membahayakan sistem perbankan yaitu apabila tingkat kesulitan yang dialami dalam melakukan kegiatan usaha, suatu bank tidak mampu memenuhi kewajiban-kewajibannya kepada bank lain, sehingga pada gilirannya akan menimbulkan dampak berantai kepada bank-bank lain.
 
- 39.Menambah ketentuan Pasal 50 dan Pasal 51 yang dijadikan Pasal
+Ayat (2) Ayat (3) Cukup jelas Angka 26
 
- 50A, yang berbunyi sebagai berikut:
+Cukup jelas
 
- "Pasal 50A
+## Pasal 37A
 
- Pemegang saham yang dengan sengaja menyuruh Dewan Komisaris,
+Ayat (1) dan Ayat (2)
 
- Direksi, atau pegawai bank untuk melakukan atau tidak melakukan
+Yang dimaksud dengan kesulitan Perbankan yang membahayakan perekonomian nasional adalah suatu kondisi sistem perbankan yang menurut penilaian Bank Indonesia terjadi krisis kepercayaan masyarakat terhadap Perbankan yang berdampak kepada hajat hidup orang banyak.
 
- tindakan yang mengakibatkan bank tidak melaksanakan
+Hal ini memerlukan peran langsung dari Pemerintah untuk menanggulanginya melalui kebijakan dan tindakan yang berdampak pada Anggaran Pendapatan dan Belanja Negara.
 
- langkah-langkah yang diperlukan untuk memastikan ketaatan bank
+## PRESIDEN REPUBLIK INDONESIA
 
- terhadap ketentuan dalam Undang-undang ini dan ketentuan
+Mengingat hal tersebut diatas, dalam hal pembentukan badan khusus sebagaimana dimaksud dalam ayat (1), Pemerintah memerlukan konsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia. Konsultasi tersebut dilakukan dengan Komisi yang membidangi keuangan dan perbankan untuk mendapatkan persetujuan.
 
- peraturan perundang-undangan lainnya yang berlaku bagi bank,
+Badan khusus dimaksud ditetapkan dengan Keputusan Presiden dan bertanggung jawab kepada Menteri Keuangan.
 
- diancam dengan pidana penjara sekurang-kurangnya 7 (tujuh) tahun
+Badan khusus dimaksud dalam ketentuan ini bersifat sementara sampai dengan selesainya tugas yang diberikan kepada badan ini yaitu:
 
- dan paling lama 15 (lima belas) tahun serta denda
+- a. penyehatanbankyangdiserahkanolehBankIndonesia;
+- b. penyelesaianasetbankbaikasetfisikmaupunkewajibandebiturmelalui Unit Pengelola Aset (Asset Management Unit);
+- c. Pengupayaan pengembalian uang negara yang telah tersalur kepada bank-bank.
 
- sekurang-kurangnya Rp10.000.000.000,00 (sepuluh miliar rupiah)
+Ayat (3)
 
- dan paling banyak Rp200.000.000.000,00 (dua ratus miliar rupiah)."
+Huruf a
 
- 40.Ketentuan Pasal 51 ayat (1) diubah, sehingga Pasal 51 ayat (1)
+Dengan dilakukannya pengambilalihan segala hak dan wewenang pemegang saham termasuk hak dan wewenang Rapat Umum Pemegang Saham, badan khusus dapat melakukan pengelolaan dan pengurusan bank dalam program penyehatan, selanjutnya segala hak dan wewenang pemegang saham termasuk hak dan wewenang Rapat Umum Pemegang Saham bank dalam program penyehatan menjadi beralih kepada badan khusus.
 
- menjadi berbunyi sebagai berikut:
+Huruf b
 
------
+Cukup jelas
 
-PRESIDEN
-REPUBLIK INDONESIA
+Huruf c
 
-                - 30
-**"Pasal 51**
+Dengan ketentuan ini badan khusus dapat menguasai, mengelola dan melakukan tindakan kepemilikan seperti halnya sebagai pemilik.
 
- (1) Tindak pidana sebagaimana dimaksud dalam Pasal 46, Pasal 47,
+## Huruf d
 
- Pasal 47A, Pasal 48 ayat (1), Pasal 49, Pasal 50, dan Pasal 50A
+Dalam hal peninjauan ulang, pembatalan, pengakhiran, dan atau perubahan kontrak oleh badan khusus tersebut menimbulkan kerugian bagi suatu pihak, pihak tersebut hanya dapat menuntut penggantian yang tidak melebihi nilai manfaat yang telah diperoleh dari kontrak dimaksud setelah terlebih dahulu membuktikan secara nyata dan jelas kerugian yang dialaminya.
 
- adalah kejahatan."
+Huruf e
 
- 41.Ketentuan Pasal 52 diubah, sehingga Pasal 52 seluruhnya berbunyi
+Penjualan atau pengalihan kekayaan oleh badan khusus diikuti dengan beralihnya hak kebendaan kepada pembeli. Dengan demikian pembeli memperoleh kepastian hukum beralihnya hak atas kekayaan tersebut.
 
- sebagai berikut:
+Penjualan atau pengalihan dapat dilakukan secara langsung atau melalui penawaran secara langsung atau melalui penawaran umum untuk memperoleh harga terbaik.
 
- "Pasal 52
+Huruf f
 
- (1) Dengan tidak mengurangi ketentuan pidana sebagaimana
+Pihak lain menurut ayat ini adalah peserorangan, Badan Usaha Milik Negara, badan usaha swasta, dan atau badan hukum lainnya.
 
- dimaksud dalam Pasal 47, Pasal 47A, Pasal 48, Pasal 49, dan
+Huruf g
 
- Pasal 50A, Bank Indonesia dapat menetapkan sanksi
+Cukup jelas
 
- administratif kepada bank yang tidak memenuhi kewajibannya
+Huruf i
 
- sebagaimana dimaksud dalam Undang-Undang ini, atau
+Menurut ketentuan ini atas piutang bank terhadap pihak ketiga yang diambilalih badan khusus, badan khusus dapat melakukan tindakan penagihan piutang dengan penerbitan Surat Paksa, dengan berdasarkan pada catatan uang debitur yang bersangkutan pada bank dalam program penyehatan.
 
- Pimpinan Bank Indonesia dapat mencabut izin usaha bank yang
+Surat Paksa ini berkepala kata-kata "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA" mempunyai kekuatan eksekutorial dan kedudukan hukum yang sama dengan putusan pengadilan yang telah memiliki kekuatan hukum
 
- bersangkutan.
+## PRESIDEN REPUBLIK INDONESIA
 
- (2) Sanksi administratif sebagaimana dimaksud dalam ayat (1),
+tetap. Dalam hal tindakan penagihan piutang tidak diindahkan oleh pihak berutang, badan khusus dapat melakukan penyitaan atas hak kekayaan milik pihak yang berutang tersebut, dan selanjutnya dapat melakukan pelelangan atas harta pihak yang berutang dalam rangka pengembalian piutang dimaksud. Harta yang tidak dapat disita meliputi perlengkapan rumah tangga, buku-buku, dan peralatan kerja untuk kelangsungan hidup dari yang berutang. Walaupun badan khusus ini diberikan kewenangan untuk melakukan penagihan paksa, tata cara pelaksanaannya tetap memperhatikan aspek kepastian hukum dan keadilan.
 
- antara lain adalah:
+Huruf j
 
- a. denda uang;
+Cukup jelas
 
- b. teguran tertulis;
+Huruf k
 
- c. penurunan tingkat kesehatan bank;
+Untuk memperoleh keterangan dimaksud, badan khusus dapat meminta bantuan alat negara penegak hukum yang berwenang.
 
- d. larangan untuk turut serta dalam kegiatan kliring;
+Yang dimaksud pihak manapun adalah Pihak Terafiliasi dan pihak-pihak lain yang terlibat atau patut terlibat, termasuk badan hukum yang dimiliki oleh bank atau Pihak Terafiliasi.
 
- e. pembekuan kegiatan usaha tertentu, baik untuk kantor cabang
+Huruf l
 
- tertentu maupun untuk bank secara keseluruhan;
+Kerugian yang dimaksud dapat disebabkan oleh transaksi tidak wajar yang melibatkan bank dalam program ini.
 
- f. pemberhentian pengurus bank dan selanjutnya menunjuk dan
+Transaksi tidak wajar antara lain:
 
------
+- a. transaksiyangmenguntungkanpihak-pihaktertentusecaratidak sah;
+- b. transaksi yang berisikan syarat-syarat yang merupakan hasil negoisasi antara pihak-pihak yang tidak berafiliasi; atau
+- c. transaksiyangmengakibatkanbanktersebutmenerimanilaiyang tidak sepadan dengan nilai yang dilepaskan atau diserahkan oleh bank itu.
 
-PRESIDEN
-REPUBLIK INDONESIA
+Huruf m Cukup jelas Huruf n Tindakan lain yang dimaksud antara lain membentuk suatu divisi dalam badan khusus atau membentuk dan atau melakukan penyertaan modal dalam suatu badan hukum. Ayat (4) Upaya hukum yang dilakukan oleh pihak manapun tidak mencegah atau menunda pelaksanaan tindakan hukum yang dilakukan oleh badan khusus sebagaimana dimaksud dalam Pasal ini. Dalam hal atas upaya hukum tersebut dikeluarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap (in kracht) memenanagkan pihak manapun tersebut, badan khusus wajib mematuhi putusan pengadilan tersebut. Ayat (5) Cukup jelas Ayat (6) Cukup jelas Ayat (7) Cukup jelas Ayat (8) Cuku jelas Ayat (9) Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan Pemerintah memuat antara lain: a. pendirianbadankhusus;
 
-                - 31
-**mengangkat pengganti sementara sampai Rapat Umum**
+大
 
- Pemegang Saham atau Rapat Anggota Koperasi mengangkat
+- b. anggarandanpengeluaranbadankhusus;
+- c. tatacarapenagihanpiutangbankdalamprogrampenyehatan;
+- d. tatacarapenyertaanmodaluntuksementara;
+- e. pembubaran;
+- f. tatacarapenyehatanbank.
 
- pengganti yang tetap dengan persetujuan Bank Indonesia;
+Pasal 37B Ayat (1)
 
- g. pencantuman anggota, pengurus, pegawai bank, pemegang
+Cukup jelas
 
- saham dalam daftar orang tercela di bidang Perbankan.
+## Ayat (2)
 
- (3) Pelaksanaan lebih lanjut mengenai sanksi administratif ditetapkan
+Pembentukan Lembaga Penjamin Simpanan diperlukan dalam rangka melindungi kepentingan nasabah dan sekaligus meningkatkan kepercayaan masyarakat kepada bank. Dalam menyelenggarakan penjaminan simpanan dana masyarakat pada
 
- oleh Bank Indonesia."
+bank, Lembaga Penjamin Simpanan dapat menggunakan:
 
- 42.Ketentuan Pasal 55 diubah, sehingga Pasal 55 seluruhnya menjadi
+- a. skimdanabersama;
+- b. skimasuransi;atau
+- c. skimlainnyayangdisetujuiolehBankIndonesia.
 
- berbunyi sebagai berikut:
+Ayat (3)
 
- "Pasal 55
+Cukup jelas
 
- Bank yang telah memiliki izin usaha pada saat Undang-undang ini
+## Ayat (4)
 
- mulai berlaku, dinyatakan telah memperoleh izin usaha berdasarkan
+Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan Pemerintah memuat antara lain:
 
- Undang-undang ini."
+- a. pembentukanLembagaPenjaminSimpanan;
+- b. strukturorganisasi;
+- c. pilihanskimpenjaminan;
+- d. kewajibanbankuntukmenjadianggota.
 
- 43.Menambah ketentuan baru di antara Pasal 59 dan Pasal 60 yang
+Angka 27 Cukup jelas
 
- dijadikan Pasal 59A, yang berbunyi sebagai berikut:
+## Pasal 40
 
- "Pasal 59A
+Apabila nasabah bank adalah Nasabah Penyimpanan yang sekaligus juga sebagai Nasabah Debitur, bank wajib tetap merahasiakan keterangan tentang nasabah dalam kedudukannya sebagai Nasabah Penyimpanan.
 
- Badan khusus yang melakukan tugas penyehatan Perbankan yang
+Keterangan mengenai nasabah selain sebagai Nasabah Penyimpan, bukan merupakan keterangan yang wajib dirahasiakan bank.
 
- telah ada sebelum berlakunya Undang-Undang ini dinyatakan tetap
+Bagi bank yang melakukan kegiatan sebagai lembaga penunjang pasar modal, misalnya bank selaku kustodian dan atau Wali Amanat, tunduk pada ketentuan perundang-undangan di bidang pasar modal.
 
- berlaku."
+Ayat (2)
 
- Pasal II
+Cukup jelas
 
- 1. Dengan berlakunya Undang-undang ini, Peraturan tentang Usaha
+Angka 28
 
- Perkreditan Yang Diselenggarakan Oleh Kelurahan Di Daerah
+Cukup jelas
 
- Kadipaten Paku Alaman (Rijksblaad Dari Daerah Paku Alaman
+## Pasal 41
 
------
+Ayat (1)
 
-PRESIDEN
-REPUBLIK INDONESIA
+Cukup jelas
 
-                          - 32
-**Tahun 1937 Nomor 9), dinyatakan tidak berlaku.**
+Angka 29
 
- 2. Undang-undang ini mulai berlaku pada tanggal diundangkan.
+Cukup jelas
 
- Agar setiap orang mengetahuinya, memerintahkan pengundangan
+Pasal 41A
 
- Undang-undang ini dengan penempatannya dalam Lembaran Negara
+Ayat (1)
 
- Republik Indonesia.
+Cukup jelas
 
- Disahkan di Jakarta
+Ayat (2)
 
- pada tanggal 10 Nopember 1998
+Cukup jelas
 
- PRESIDEN REPUBLIK INDONESIA
+## PRESIDEN REPUBLIK INDONESIA
 
- ttd.
+```
+Ayat (3) Cukup jelas Angka 30 Cukup jelas Pasal 42 Ayat (1) Kata dapat dimaksudkan untuk memberikan penegasan bahwa izin oleh Pimpinan Bank Indonesia akan diberikan sepanjang permintaan tersebut telah memenuhi ketentuan sebagaimana dimaksud dalam ayat (3). Ayat (2) Pemberian izin oleh Bank Indonesia harus dilakukan selambat-lambatnya 14 (empat belas) hari setelah dokumen permintaan diterima secara lengkap. Ayat (3) Cukup jelas Angka 31 Cukup jelas Pasal 42A Cukup jelas Angka 32 Pasal 44A Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+```
 
- BACHARUDDIN JUSUF HABIBIE
+```
+Pasal 46 Ayat (1) Cukup jelas Ayat 34 Pasal 47 Ayat (1) Cukup jelas Ayat (2) Yang dimaksud dengan pegawai bank adalah semua pejabat dan karyawan bank. Angka 35 Pasal 47A Cukup jelas Angka 36 Pasal 48 Ayat (1) Yang dimaksud dengan pegawai bank adalah pejabat bank yang diberi wewenang dan tanggung jawab untuk melaksanakan tugas operasional bank, dan karyawan yang mempunyai akses terhadap informasi mengenai keadaan bank. Ayat (2) Cukup jelas Angka 37 Pasal 49 Ayat (1) Yang dimaksud dengan pegawai bank adalah semua pejabat dan karyawan bank. Ayat (2)
+```
 
- Diundangkan di Jakarta
+Huruf a
 
- pada tanggal 10 Nopember 1998
+Yang dimaksud dengan pegawai bank adalah semua pejabat bank dan karyawan bank.
 
- MENTERI NEGARA SEKRETARIS NEGARA
+Huruf b
 
- REPUBLIK INDONESIA,
+Yang dimaksud dengan pegawai bank adalah pejabat bank yang mempunyai wewenang dan tanggung jawab tentang hal-hal yang berkaitan dengan usaha bank yang bersangkutan.
 
- ttd.
+Angka 38
 
- AKBAR TANDJUNG
+Pasal 50
 
- LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1998 NOMOR 182
+Cukup jelas
 
------
+Angka 39
 
-PRESIDEN
-REPUBLIK INDONESIA
+Pasal 50A
 
-**PENJELASAN**
+Cukup jelas
 
- ATAS
+Angka 40
 
- UNDANG-UNDANG REPUBLIK INDONESIA
+Pasal 51
 
- NOMOR 10 TAHUN 1998
+Ayat (1)
 
- TENTANG
+Perbuatan-perbuatan sebagaimana dimaksud dalam pasal-pasal tersebut dalam ayat ini digolongkan sebagai tindak pidana kejahatan, berarti bahwa terhadap perbuatan-perbuatan dimaksud akan dikenakan ancaman hukuman yang lebih berat dibandingkan dengan apabila hanya sekedar sebagai pelanggaran. Hal ini mengingat bahwa bank adalah lembaga yang menyimpan dana yang dipercayakan masyarakat kepadanya, sehingga perbuatan yang dapat mengakibatkan rusaknya kepercayaan masyarakat kepada bank, yang pada dasarnya juga akan merugikan bank maupun masyarakat, perlu selalu dihindarkan.
 
- PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 1992
+Dengan digolongkan sebagai tindak kejahatan, diharapkan akan dapat lebih terbentuk ketaatan yang tinggi terhadap ketentuan dalam Undang-undang ini.
 
- TENTANG PERBANKAN
+## PRESIDEN REPUBLIK INDONESIA
 
- UMUM
+## PRESIDEN REPUBLIK INDONESIA
 
- Pembangunan nasional yang dilaksanakan selama ini merupakan upaya
+Mengenai tindak pidana kejahatan yang dilakukan oleh anggota Komisaris, Direksi, atau pegawai Bank Perkreditan Rakyat pada dasarnya berlaku ketentuan-ketentuan tentang sanksi pidana dalam Bab VIII, mengingat sifat ancaman pidana dimaksud berlaku umum.
 
- pembangunan yang berkesinambungan dalam rangka mewujudkan masyarakat yang adil
+Angka 41
 
- dan makmur berdasarkan Pancasila dan Undang-Undang Dasar 1945. Guna mencapai
+Pasal 52
 
- tujuan tersebut, pelaksanaan pembangunan harus senantiasa memperhatikan keserasian,
+Ayat (1)
 
- keselasaran, dan keseimbangan berbagai unsur pembangunan, termasuk di bidang
+Cukup jelas
 
- ekonomi dan keuangan.
+Ayat (2)
 
- Perkembangan ekonomi nasional dewasa ini menunjukkan arah yang semakin
+Cukup jelas
 
- menyatu dengan ekonomi regional dan internasional yang dapat menunjang sekaligus
+Ayat (3)
 
- dapat berdampak kurang menguntungkan. Sementara itu, perkembangan perekonomian
+Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
 
- nasional senantiasa bergerak cepat dengan tantangan yang semakin kompleks. Oleh
+- a. jenis-jenissanksiadministratif;
+- b. tatacarapelaksanaansanksiadministratif;
+- c. tindaklanjutpelaksanaansanksiadministratif;
+- d. pengawasanpelaksanaansanksiadministratif.
 
- karena itu, diperlukan berbagai penyesuaian kebijakan di bidang ekonomi termasuk sektor
+Angka 42
 
- Perbankan sehingga diharapkan akan dapat memperbaiki dan memperkukuh
+Cukup jelas
 
- perekonomian nasional.
+Pasal 55
 
- Sektor Perbankan yang memiliki posisi strategis sebagai lembaga intermediasi dan
+Cukup jelas
 
- penunjang merupakan faktor yang sangat menentukan dalam proses penyesuaian
+Angka 43
 
- dimaksud. Sehubungan dengan itu, diperlukan penyempurnaan terhadap sistem Perbankan
+Cukup jelas
 
- nasional yang bukan hanya mencakup upaya penyehatan bank secara individual
+大
 
- melainkan juga penyehatan sistem Perbankan secara menyeluruh. Upaya penyehatan
+Badan khusus yang dimaksud dalam ketentuan ini bersifat sementara, dengan tugas khusus melakukan langkah-langkah yang diperlukan untuk menyehatkan
 
- Perbankan nasional menjadi tanggung jawab bersama antara Pemerintah, bank-bank itu
+Perbankan nasional. Badan yang telah ada saat ini dalam rangka melakukan upaya penyehatan perbankan, tetap dapat melakukan tugas penyehatan perbankan berdasarkan
 
- sendiri dan masyarakat pengguna jasa bank. Adanya tanggung jawab bersama tersebut
+Undang-undang.
 
- dapat membantu memelihara tingkat kesehatan Perbankan nasional sehingga dapat
+## Pasal II
 
- berperan secara maksimal dalam perekonomian nasional.
+Cukup jelas
 
------
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3790
 
-PRESIDEN
-REPUBLIK INDONESIA
+## Peta Penjelasan
 
-                            - 2
-**Agar pembinaan dan pengawasan bank dapat terlaksana secara efektif,**
-
- kewenangan dan tanggung jawab mengenai perizinan bank, yang semula berada pada
-
- Menteri Keuangan, menjadi berada pada Pimpinan Bank Indonesia sehingga Bank
-
- Indonesia memiliki kewenangan dan tanggung jawab yang utuh untuk menetapkan
-
- perizinan, pembinaan dan pengawasan bank serta pengenaan sanksi terhadap bank yang
-
- tidak mematuhi peraturan perbankan yang berlaku. Dengan demikian, Bank Indonesia
-
- kewenangan dan tanggung jawab untuk menilai dan memutuskan kelayakan pendirian
-
- suatu bank dan atau pembukaan kantor cabang.
-
- Prinsip kehati-hatian harus dipegang teguh sedangkan ketentuan menge nai usaha
-
- bank perlu disempurnakan terutama yang berkaitan dengan penyaluran dana, termasuk di
-
- dalamnya peningkatan peranan Analisis Mengenai Dampak Lingkungan (AMDAL) bagi
-
- perusahaan berskala besar dan atau berisiko tinggi.
-
- Peranan Perbankan nasional perlu ditingkatkan sesuai dengan fungsinya dalam
-
- menghimpun dan menyalurkan dana masyarakat dengan lebih memperhatikan
-
- pembiayaan kegiatan sektor perekonomian nasional dengan prioritas kepada koperasi,
-
- pengusaha kecil dan menengah, serta berbagai lapisan masyarakat tanpa diskriminasi
-
- sehingga akan memperkuat struktur perekonomian nasional. Demikian pula bank perlu
-
- memberikan perhatian yang lebih besar dalam meningkatkan kinerja perekonomian di
-
- wilayah operasi tiap-tiap kantor.
-
- Sementara itu, peranan bank yang menyelenggarakan kegiatan usaha berdasrakan
-
- Prinsip Syariah perlu ditingkatkan untuk menampung aspirasi dan kebutuhan masyarakat.
-
- Oleh karena itu, Undang-undang ini memberikan kesempatan yang seluas-luasnya bagi
-
- masyarakat untuk mendirikan bank yang menyelenggarakan kegiatan usaha berdasarkan
-
- Prinsip Syariah, termasuk pemberian kesempatan kepada Bank Umum untuk membuka
-
- kantor cabangnya yang khusus melakukan kegiatan berdasarkan Prinsip Syariah.
-
- Dalam rangka meningkatkan fungsi kontrol sosial terhadap Perbankan, ketentuan
-
- mengenai Rahasia Bank yang selama ini sangat tertutup harus ditinjau ulang, Rahasia
-
- Bank dimaksud merupakan salah satu unsur yang harus dimiliki oleh setiap bank sebagai
-
- lembaga kepercayaan masyarakat yang mengelola dana masyarakat, tetapi tidak seluruh
-
- aspek yang ditatausahakan bank merupakan hal-hal yang dirahasiakan.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                            - 3
-**Untuk menunjang kinerja Perbankan nasional diperlukan lembaga penunjang, baik**
-
- yang dimaksudkan untuk sementara waktu dalam rangka mengatasi persoalan Perbankan
-
- yang dihadapi dewasa ini maupun yang sifatnya lebih permanen seperti Lembaga
-
- Penjamin Simpanan. Guna memperkuat lembaga Perbankan sebagai lembaga kepercayaan
-
- masyarakat, diperlukan peraturan mengenai tanggung jawab pemegang saham yang
-
- dengan sengaja menyebabkan tidak ditaatinya ketentuan Perbankan dengan dikenai
-
- ancaman sanksi pidana yang berat.
-
- Sejalan dengan perkembangan tersebut di atas, dengan komitmen Indonesia dalam
-
- berbagai forum internasional seperti World Trade Organization (WTO), Asia Pasific
-
- Economic Cooperation (APEC), dan Association of South East Asian Nations (ASEAN)
-
- diperlukan berbagai penyesuaian dalam peraturan Perbankan nasional termasuk
-
- pembukaan akses pasar dan perlakuan non diskriminatif terhadap pihak asing. Upaya
-
- liberalisasi di bidang Perbankan dilakukan sedemikian rupa sehingga dapat sekaligus
-
- meningkatkan kinerja Perabankan nasional. Oleh kerena itu, perlu diberikan kesempatan
-
- yang lebih besar kepada pihak asing untuk berperan serta dalam memiliki bank nasional
-
- sehingga tetap terjadi kemitraan dengan pihak nasional.
-
- Dalam hubungan ini, perlu diperhatikan pula peraturan perundang-undangan yang
-
- berkaitan dengan Undang-undang ini, antara lain Undang-undang Nomor 5 Tahun 1962
-
- tentang Perusahaan Daerah, Undang-undang Nomor 25 Tahun 1992 tentang
-
- Perkoperasian, Undang-undang Nomor 7 Tahun 1994 tentang Pengesahan Agreement
-
- Establishing Word Trade Organization, Undang-undang Nomor 1 Tahun 1995 tentang
-
- Perseroan Terbatas, Undang-undang Nomor 8 Tahun 1995 tentang Pasar Modal,
-
- Undang-undang Nomor 9 Tahun 1995 tentang Usaha Kecil, dan Undang-undang Nomor
-
- 4 Taun 1996 tentang Hak Tanggungan Atas Tanah Berserta Benda-benda Yang Berkaitan
-
- Dengan Tanah.
-
- PASAL DEMI PASAL
-
- Pasal I
-
- Angka 1
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                            - 4
-**Butir 1 sampai dengan Butir 28**
-
- Cukup jelas
-
- Angka 2
-
- Cukup jelas
-
- Angka 3
-
- Cukup jelas
-
- Pasal 6
-
- Huruf m
-
- Bank Umum yang melakukan kegiatan usaha secara konvensional dapat
-
- juga melakukan kegiatan usaha berdasarkan Prinsip Syariah melalui:
-
- a. pendirian kantor cabang atau kantor di bawah kantor cabang baru, atau
-
- b. pengubahan kantor cabang atau kantor di bawah kantor cabang yang
-
- melakukan kegiatan usaha secara konvensional menjadi kantor yang
-
- melakukan kegiatan berdasarkan Prinsip Syariah. Dalam rangka persiapan
-
- perubahan kantor cabang tersebut, kantor cabang atau kantor di bawah kantor
-
- cabang yang sebelumnya melakukan kegiatan usaha secara konvensional dapat
-
- terlebih dahulu membentuk unit tersendiri yang melaksanakan kegiatan
-
- berdasarkan Prinsip Syariah di dalam kantor bank tersebut.
-
- Bank Umum berdasarkan Prinsip Syariah tidak melakukan kegiatan usaha
-
- secara konvensional.
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
-
- antara lain:
-
- a. kegiatan usaha dan produk-produk bank berdasarkan Prinsip Syariah;
-
- b. pembentukan dan tugas Dewan Pengawas Syariah;
-
- c. persyaratan bagi pembukaan Kantor Cabang yang melakukan kegiatan usaha
-
- secara konvensional untuk melakukan kegiatan usaha berdasarkan Prinsip
-
- Syariah.
-
- Angka 4
-
- Cukup jelas
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                            - 5
-**Pasal 7**
-
- Huruf c
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
-
- antara lain:
-
- a. penyertaan modal sementara oleh bank berasal dari konversi kegagalan kredit
-
- atau kegagalan pembiayaan berdasarkan Prinsip Syariah pada perusahaan yang
-
- bersangkutan;
-
- b. persyaratan kegagalan kredit atau kegagalan pembiayaan berdasarkan Prinsip
-
- Syariah yang dapat dikonversi menjadi penyertaan modal;
-
- c. penyertaan modal tersebut wajib ditarik kembali apabila:
-
- i) telah melebihi jangka waktu paling lama 5 (lima) tahun; atau
-
- ii) perusahaan telah memperoleh laba;
-
- d. penyertaan sementara tersebut wajib dihapuskan dari neraca bank, apabila
-
- dalam jangka waktu paling lama 5 (lima) tahun, bank belum berhasil menarik
-
- penyertaannya;
-
- e. pelaporan kepada Bank Indonesia mengenai penyertaan modal sementara oleh
-
- Bank.
-
- Angka 5
-
- Cukup jelas
-
- Pasal 8
-
- Ayat (1)
-
- Kredit atau pembiayaan berdasarkan Prinsip Syariah yang diberikan oleh
-
- bank mengandung risiko, sehingga dalam pelaksanaannya bank harus
-
- memperhatikan asas-asas perkreditan atau pembiayaan berdasarkan Prinsip Syariah
-
- yang sehat. Untuk mengurangi risiko tersebut, jaminan pemberian kredit atau
-
- pembiayaan berdasarkan Prinsip Syariah dalam arti keyakinan atas kemampuan
-
- dan kesanggupan Nasabah Debitur untuk melunasi kewajibannya sesuai dengan
-
- yang diperjanjikan merupakan faktor penting yang harus diperhatikan oleh bank.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                        - 6
-**Untuk memperoleh keyakinan tersebut, sebelum memberikan kredit, bank**
-
- harus melakukan penilaian yang seksama terhadap watak, kemampuan, modal,
-
- agunan, dana prospek usaha dari Nasabah Debitur.
-
- Mengingat bahwa agunan sebagai salah satu unsur pemberian kredit, maka
-
- apabila berdasarkan unsur-unsur lain telah dapat diperoleh keyakinan atas
-
- kemampuan Nasabah Debitur mengembalikan utangnya, agunan hanya dapat
-
- berupa barang, proyek, atau hak tagih yang dibiayai dengan kredit yang
-
- bersangkutan. Tanah yang kepemilikannya didasarkan pada hukum, dan lain-lain
-
- yang sejenis dapat digunakan sebagai agunan. Bank tidak wajib meminta agunan
-
- berupa barang yang tidak berkaitan langsung dengan obyek yang dibiayai, yang
-
- lazim dikenal dengan agunan tambahan.
-
- Di samping itu, bank dalam memberikan kredit atau pembiayaan
-
- berdasarkan Prinsip Syariah harus pula memperhatikan hasil Analisis Mengenai
-
- Dampak Lingkungan (AMDAL) bagi perusahaan yang berskala besar dan atau
-
- risiko tinggi agar proyek yang dibiayai tetap menjaga kelestarian lingkungan.
-
- Ayat (2)
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat antara lain:
-
- a. pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah dibuat dalam
-
- bentuk perjanjian tertulis;
-
- b. bank harus memiliki keyakinan atas kemampuan dan kesanggupan Nasabah
-
- Debitur yang antara lain diperoleh dari penilaian yang seksama terhadap
-
- watak, kemampuan, modal, agunan, dan prospek usaha dari Nasabah Debitur;
-
- c. kewajiban bank untuk menyusun dan menetapkan prosedur pemberian kredit
-
- atau pembiayaan berdasarkan Prinsip Syariah;
-
- d. kewajiban bank untuk memberikan informasi yang jelas mengenai prosedur
-
- dan persyaratan kredit atau pembiayaan berdasarkan Prinsip Syariah;
-
- e. larangan bank untuk memberikan kredit atau pembiayaan berdasarkan Prinsip
-
- Syariah dengan persyaratan yang berbeda kepada Nasabah Debitur dan atau
-
- pihak-pihak terafiliasi;
-
- f. penyelesaian sengketa.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                            - 7
-**Angka 6**
-
- Cukup jelas
-
- Pasal 11
-
- Pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah oleh bank
-
- mengandung risiko kegagalan atau kemacetan dalam pelunasannya, sehingga dapat
-
- berpengaruh terhadap kesehatan bank. Mengingat bahwa kredit atau pembiayaan
-
- dimaksud bersumber dari dana masyarakat yang disimpan pada bank, risiko yang
-
- dihadapi bank dapat berpengaruh pula kepada keamanan dana masyarakat tersebut.
-
- Oleh karena itu, untuk memelihara kesehatan dan meningkatkan daya tahannya,
-
- bank diwajibkan menyebar risiko dengan mengatur penyaluran kredit atau
-
- pemberian pembiayaan berdasarkan Prinsip Syariah, pemberian jaminan ataupun
-
- fasilitas lain sedemikian rupa sehingga tidak terpusat pada Nasabah Debitur atau
-
- kelompok Nasabah Debitur tertentu.
-
- Ayat (1)
-
- Kelompok (grup) merupakan kumpulan orang atau badan yang satu sama
-
- lain mempunyai kaitan dalam hal kepemilikan, kepengurusan, dan atau hubungan
-
- keuangan.
-
- Ayat (3)
-
- Huruf a
-
- Cukup jelas
-
- Huruf b
-
- Cukup jelas
-
- Huruf d
-
- Yang dimaksud dengan keluarga dalam ketentuan ini adalah
-
- hubungan keluarga sampai dengan derajat kedua baik menurut
-
- garis keturunan lurus maupun ke samping termasuk mertua,
-
- menantu dan ipar.
-
- Huruf e
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                            - 8
-**Cukup jelas**
-
- Huruf f
-
- Cukup jelas
-
- Ayat (4A)
-
- Larangan ini dimaksudkan agar dalam memberikan kredit atau pembiayaan
-
- berdasarkan Prinsip Syariah, bank menerapkan asas-asas perkreditan yang sehat.
-
- Bank dinyatakan melakukan pelanggaran atas ayat ini pada saat pemberiannya,
-
- saldo kredit atau pembiayaan tersebut melampaui batas maksimum yang telah
-
- ditetapkan oleh Bank Indonesia.
-
- Angka 7
-
- Cukup jelas
-
- Pasal 12
-
- Ayat (1)
-
- Dalam rangka penjabaran atas ketentuan mengenai asas, fungsi, dan tujuan
-
- Perbankan pelaksanaanya senantiasa disesuaikan dengan tuntutan perkembangan
-
- pembangunan nasional, sepanjang tidak bertentangan dengan program meneter
-
- Bank Indonesia.
-
- Ayat (2)
-
- Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan
-
- Pemerintah memuat antara lain:
-
- a. Kewajiban Bank Umum untuk menyalurkan kredit atau pembiayaan
-
- berdasarkan Prinsip Syariah kepada koperasi, usaha kecil dan menengah
-
- dengan prosedur dan persyaratan yang mudah dan lunak;
-
- b. Program peningkatan taraf hidup rakyat banyak yang berupa penyediaan
-
- kredit dengan bunga rendah atau pembiayaan berdasarkan Prinsip
-
- Syariah dengan tingkat bagi hasil yang rendah;
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                            - 9
-**c. Subsidi bunya atau bagi hasil yang menjadi beban Anggaran Pendapatan**
-
- dan Belanja Negara.
-
- Angka 8
-
- Cukup jelas
-
- Pasal 12
-
- Ayat (1)
-
- Pembelian agunan oleh bank melalui pelelangan dimaksudkan untuk
-
- membantu bank agar dapat mempercepat penyelesaian kewajiban Nasabah
-
- Debiturnya. Dalam hal bank sebagai pembeli agunan Nasabah Debiturnya, status
-
- bank adalah sama dengan pembeli bukan bank lainnya.
-
- Bank dimungkinan membeli agunan di luar pelelangan dimaksudkan agar
-
- dapat mempercepat penyelesaian kewajiban Nasabah Debiturnya.
-
- Bank tidak diperbolehkan memiliki agunan yang dibelinya dan
-
- secepat-cepatnya harus dijual kembali agar hasil penjualan agunan dapat segera
-
- dimanfaatkan oleh bank.
-
- Ayat (2)
-
- Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan
-
- Pemerintah memuat antara lain:
-
- a. Agunan yang dapat dibeli oleh bank adalah agunan yang
-
- kreditnya telah dikategorikan macet selama jangka waktu tertentu;
-
- b. Agunan yang telah dibeli wajib dicairkan selambat-lambatnya
-
- dalam jangka waktu satu tahun;
-
- c. Dalam jangka waktu satu tahun, bank dapat menangguhkan
-
- kewajiban-kewajiban berkaitan dengan pengalihan hak atas agunan yang
-
- bersangkutan sesuai dengan peraturan perundang-undangan yang berlaku.
-
- Angka 9
-
- Cukup jelas
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 10
-**Pasal 13**
-
- Huruf c
-
- Bank Perkreditan Rakyat yang melaksanakan kegiatan usahanya
-
- berdasarkan Prinsip Syariah tidak diperkenankan melaksanakan kegiatan secara
-
- konvensional. Demikian juga Bank Perkreditan Rakyat yang melakukan kegiatan
-
- usaha secara konvensional tidak diperkenankan melakukan kegiatan berdasarkan
-
- Prinsip Syariah.
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
-
- antara lain:
-
- a. Kegiatan usaha dan produk-produk bank berdasarkan Prinsip Syariah;
-
- b. Pembentukan dan tugas Dewan Pengawas Syariah.
-
- Angka 10
-
- Cukup jelas
-
- Pasal 16
-
- Ayat (1)
-
- Kegiatan menghimpun dana dari masyarakat oleh siapapun pada dasarnya
-
- merupakan kegiatan yang perlu diawasi, mengingat dalam kegiatan itu terkait
-
- kepentingan masyarakat yang dananya disimpan pada pihak yang menghimpun
-
- dana tersebut. Sehubungan dengan itu dalam ayat ini ditegaskan bahwa kegiatan
-
- menghimpun dana dari masyarakat dalam bentuk simpanan hanya dapat dilakukan
-
- oleh pihak yang telah memperoleh izin usaha sebagai Bank Umum atau sebagai
-
- Bank Perkreditan Rakyat.
-
- Namun, di masyarakat terdapat pula jenis lembaga lainnya yang juga
-
- melakukan kegiatan penghimpunan dana dari masyarakat dalam bentuk simpanan
-
- atau semacam simpanan, misalnya yang dilakukan oleh kantor pos, oleh dana
-
- pensiun, atau oleh perusahaan asuransi. Kegiatan lembaga-lembaga tersebut tidak
-
- cukup sebagai kegiatan usaha Perbankan berdasarkan ketentuan dalam ayat ini.
-
- Kegiatan penghimpunan dana dari masyarakat yang dilakukan oleh
-
- lembaga-lembaga tersebut, diatur dengan undang-undang tersendiri.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                      - 11
-**Ayat (2)**
-
- Dalam hal memberikan izin usaha sebagai Bank Umum dan Bank
-
- Perkreditan Rakyat, Bank Indonesia selain memperhatikan pemenuhan persyaratan
-
- sebagaimana dimaksud dalam ayat ini, juga wajib memperhatikan tingkat
-
- persaingan yang sehat antar bank, tingkat kejenuhan jumlah bank dalam suatu
-
- wilayah tertentu, serta pemerataan pembangunan ekonomi nasional.
-
- Huruf a
-
- Pada Bank Umum dimungkinkan kepengurusan pihak asing sepanjang
-
- sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
-
- Huruf b
-
- Cukup jelas
-
- Huruf c
-
- Persyaratan kepemilikan dimaksud termasuk jumlah serta komposisi
-
- kepemilikan pihak asing yang diizinkan pada Bank Umum.
-
- Huruf d
-
- Cukup jelas
-
- Huruf e
-
- Cukup jelas
-
- Ayat (3)
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
-
- antara lain:
-
- a. persyaratan untuk menjadi pengurus bank antara lain menyangkut
-
- keahlian di bidang Perbankan dan konduite yang baik;
-
- b. larangan adanya hubungan keluarga di antara pengurus bank;
-
- c. modal disetorminimum untuk pendirian Bank Umum dan Bank
-
- Perkreditan Rakyat;
-
- d. batas maksimum kepemilikan dan kepengurusan;
-
- e. kelayakan rencana kerja;
-
- f. batas waktu pemberian izin pendirian bank.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 12
-**Angka 11**
-
- Cukup jelas
-
- Angka 12
-
- Cukup jelas
-
- Pasal 18
-
- Ayat (1)
-
- Cukup jelas
-
- Ayat (2)
-
- Cukup jelas
-
- Ayat (3)
-
- Yang dimaksud dengan kantor di bawah kantor cabang antara lain
-
- mencakup kantor cabang pembantu dan kantor kas. Dalam rangka memenuhi
-
- penyediaan layanan jasa Perbankan, dimungkinkan pula pembukaan jenis kantor
-
- lain di bawah kantor cabang, misalnya tempat pembayaran (payment point), kas
-
- mobil, dan anjungan tunai mandiri (ATM).
-
- Rencana pembukaan kantor cabang wajib terlebih dahulu dilaporkan kepada
-
- Bank Indonesia.
-
- Ayat (4)
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
-
- antara lain:
-
- a. persyaratan tingkat kesehatan bank;
-
- b. tingkat persaingan yang sehat antar bank;
-
- c. tingkat kejenuhan jumlah bank dalam suatu wilayah tertentu;
-
- d. pemerataan pembangunan ekonomi nasional;
-
- e. batas waktu pemberian izin pembukaan kantor selambat-lambatnya
-
- 60 (enam puluh) hari setelah dokumen permohonan diterima secara
-
- lengkap;
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 13
-**f. batas waktu dan alasan penolakan;**
-
- g. batas waktu pelaporan pembukaan kantor di bawah kantor cabang.
-
- Angka 13
-
- Cukup jelas
-
- Pasal 19
-
- Ayat (1)
-
- Dalam memberikan izin pembukaan kantor cabang Bank Perkreditan
-
- Rakyat, Bank Indonesia selain memperhatikan pemenuhan persyaratan
-
- sebagaimana dimaksud dalam ayat iini, juga wajib memperhatikan tingkat
-
- persaingan yang sehat antar bank, tingkat kejenuhan jumlah bank dalam suatu
-
- wilayah tertentu, serta pemerataan pembangunan ekonomi nasional.
-
- Pembukaan kantor di bawah kantor cabang Bank Perkreditan Rakyat tidak
-
- memerlukan izin. Rencana pembukaan kantor dimaksud wajib terlebih dahulu
-
- dilaporkan kepada Bank Indonesia.
-
- Ayat (2)
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
-
- antara lain:
-
- a. persyaratan tingkat kesehatan Bank Perkreditan Rakyat;
-
- b. tingkat persaingan yang sehat antar Bank Perkreditan Rakyat;
-
- c. tingkat kejenuhan jumlah Kantor Bank Perkreditan Rakyat dalam
-
- suatu wilayah tertentu;
-
- d. pemerataan pembangunan ekonomi nasional;
-
- e. batas waktu pemberian izin pembukaan kantor selambat-lambatnya
-
- 60 (enam puluh) hari setelah dokumen permohonan diterima secara
-
- lengkap;
-
- f. batas waktu dan alasan penolakan;
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 14
-**Angka 14**
-
- Cukup jelas
-
- Pasal 20
-
- Ayat (1)
-
- Yang dimaksud dengan bank yang berkedudukan di luar negeri adalah bank
-
- yang didirikan berdasarkan hukum asing dan berkantor pusat di luar negeri.
-
- Dengan demikian, bank yang bersangkutan tunduk pada hukum di tempat bank
-
- tersebut didirikan.
-
- Dalam memberikan izin pembukaan jenis kantor-kantor dimaksud, Bank
-
- Indonesia selain memperhatikan tingkat kesehatan bank juga memperhatikan
-
- tingkat persaingan yang sehat antar bank, tingkat kejenuhan jumlah kantor bank
-
- dalam suatu wilayah tertentu serta pemerataan pembangunan ekonomi nasional.
-
- Angka 15
-
- Cukup jelas
-
- Pasal 21
-
- Ayat (1)
-
- Cukup jelas
-
- Angka 16
-
- Cukup jelas
-
- Pasal 22
-
- Ayat (1)
-
- Huruf a
-
- Yang termasuk dalam pengertian badan hukum Indonesia antara lain
-
- adalah Negara Republik Indonesia, Badan Usaha Milik Negara, Badan
-
- Usaha Milik Daerah, koperasi, dan badan usaha milik swasta.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 15
-**Huruf b**
-
- Dalam hal salah satu pihak yang akan mendirikan Bank Umum
-
- adalah badan hukum asing, yang bersangkutan terlebih dahulu harus
-
- memperoleh rekomedasi dari otoritas moneter negara asal. Rekomendasi
-
- dimaksud sekurang-kurangnya memuat keterangan bahwa badan hukum
-
- asing yang bersangkutan mempunyai reputasi yang baik dan tidak pernah
-
- melakukan perbuatan tercela di bidang Perbankan.
-
- Ayat (2)
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
-
- antara lain:
-
- a. kepemilikan saham;
-
- b. persyaratan dokumen yang harus dipenuhi;
-
- c. kondisi keuangan calon pendiri bank.
-
- Angka 17
-
- Cukup jelas
-
- Pasal 26
-
- Ayat (1)
-
- Ketentuan dalam ayat ini dimaksudkan untuk memperkuat struktur
-
- permodalan, penyebaran kepemilikan, dan meningkatkan kinerja bank
-
- tersebut.
-
- Emisi saham dapat dilakukan melalui bursa efek di Indonesia dan
-
- atau di luar negeri.
-
- Ayat (2)
-
- Ketentuan dalam ayat ini dimaksudkan untuk membuka kesempatan
-
- yang lebih luas kepada berbagai pihak, baik Indonesia maupun asing untuk
-
- turut serta memiliki Bank Umum.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 16
-**Ayat (3)**
-
- Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan
-
- Pemerintah memuat antara lain:
-
- a. Persyaratan kepemilikan saham termasuk kondisi keuangan calon
-
- pemilik bank;
-
- b. Persyaratan dokumen yang harus dipenuhi.
-
- Angka 18
-
- Cukup jelas
-
- Pasal 27
-
- Huruf a
-
- Cukup jelas
-
- Huruf b
-
- Rencana pengalihan kepemilikan bank yang dilakukan secara langsung
-
- harus dilaporkan terlebih dahulu kepada Bank Indonesia. Pelaporan ini
-
- dimaksudkan untuk memastikan agar peralihan kepemilikan dilakukan kepada
-
- pihak-pihak yang memenuhi persyaratan sebagai pemilik bank.
-
- Peralihan kepemilikan saham bank yang dilakukan melalui bursa efek
-
- dilaporkan kepada Bank Indonesia apabila kepemilikan suatu pihak melalui bursa
-
- efek tersebut telah mencapai jumlah tertentu yang dapat mempengaruhi jalannya
-
- pengelolaan bank sesuai dengan ketentuan yang ditetapkan oleh Bank Indonesia.
-
- Angka 19
-
- Cukup jelas
-
- Pasal 28
-
- Ayat (1)
-
- Dalam melakukan merger, konsuldasi, dan akuisisi, wajib dihindarkan
-
- timbulnya pemusatan kekuatan ekonomi pada suatu kelompok dalam bentuk
-
- monopoli yang merugikan masyarakat. Demikian pula merger, konsolidasi, dan
-
- akuisisi yang dilakukan, tidak boleh merugikan kepentingan para nasabah.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 17
-**Angka 20**
-
- Cukup jelas
-
- Pasal 29
-
- Ayat (1), ayat (2), dan ayat (3)
-
- Yang dimaksud dengna pembinaan dalam ayat (1) ini adalah upaya-upaya
-
- yang dilakukan dengan cara menetapkan peraturan yang menyangkut aspek
-
- kelembagaan, kepemilikan, pengurusan, kegiatan usaha, pelaporan serta aspek lain
-
- yang berhubungan dengan kegiatan operasional bank.
-
- Yang dimaksud dengan pengawasan dalam ayat (1) ini meliputi
-
- pengawasan tidak langsung yang terutama dalam bentuk pengawasan dini melalui
-
- penelitian, analisis, dan evaluasi laporan bank, dan pengawasan langsung dalam
-
- bentuk pemeriksaan yang disusul dengan tindakan-tindakan perbaikan.
-
- Sejalan dengan itu, Bank Indonesia diberi wewenang, tanggung jawab, dan
-
- kewajiban secara utuh untuk melakukan pembinaan dan pengawasan terhadap
-
- bank dengan menempuh upaya-upaya baik yang bersifat preventif maupun
-
- represif.
-
- Di pihak lain, bank wajib memiliki dan menerapkan sistem pengawasan
-
- intern dalam rangka menjamin terlaksananya proses pengambilan keputusan dalam
-
- pengelolaan bank yang sesuai dengan prinsip kehati-hatian.
-
- Mengingat bank terutama bekerja dengan dana dari masyarakat yang
-
- disimpan pada bank atas dasar kepercayaan, setiap bank perlu terus menjaga
-
- kesehatannya dan memelihara kepercayaan masyarakat padanya.
-
- Ayat (4)
-
- Penyediaan informasi mengenai kemungkinan timbulnya risiko kerugian
-
- nasabah dimaksudkan agar akses untuk memperoleh informasi perihal kegiatan
-
- usaha dan kondisi bank menjadi lebih terbuka yang sekaligus menjamin adanya
-
- transparansi dalam dunia Perbankan.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 18
-**Informasi tersebut dapat memuat keadaan bank, termasuk kecukupan modal**
-
- dan kualitas aset.
-
- Apabila informasi tersebut telah disediakan, bank dianggap telah
-
- melaksanakan ketentuan ini. Informasi tersebut perlu diberikan dalam hal bank
-
- bertindak sebagai perantara penempatan dana dari nasabah, atau
-
- pembelian/penjualan surat berharga untuk kepetingan dan atas perintah
-
- nasabahnya.
-
- Ayat (5)
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
-
- antara lain:
-
- a. ruang lingkup pembinaan dan pengawasan;
-
- b. kriteria penilaian tingkat kesehatan;
-
- c. prinsip kehati-hatian dalam pengelolaan;
-
- d. pedoman pemberian informasi kepada nasabah.
-
- Angka 21
-
- Cukup jelas
-
- Pasal 31
-
- Pada dasarnya pemeriksaan yang dilakukan oleh Bank Indonesia
-
- dilaksanakan secara berkala sekurang-kurangnya satu tahun sekali untuk setiap
-
- bank. Di samping itu, pemeriksaan dapat dilakukan setiap waktu jika dipandang
-
- perlu untuk meyakinkan hasil pengawasan tidak langsung dan apabila terdapat
-
- indikasi adanyapenyimpangan dari praktek Perbankan yang sehat.
-
- Terhadap keuangan negara yang dikelola oleh suatu bank, Badan Pemeriksa
-
- Keuangan dapat melakukan pemeriksaan pada bank yang bersangkutan.
-
- Angka 22
-
- Cukup jelas
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 19
-**Pasal 31A**
-
- Pemeriksaan terhadap bank yang dilakukan oleh Akuntan Publik adalah
-
- pemeriksaan setempat yang merupakan bentuk pendelegasian wewenang Bank
-
- Indonesia selaku otoritas pembina dan pengawas bank.
-
- Angka 23
-
- Cukup jelas
-
- Angka 24
-
- Cukup jelas
-
- Pasal 33
-
- Ayat (1)
-
- Cukup jelas
-
- Ayat (2)
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
-
- antara lain:
-
- a. jenis prodedur, dan ruang lingkup pemeriksaan;
-
- b. jangka waktu dan pelaporan hasil pemeriksaan;
-
- c. tindak lanjut hasil pemeriksaan.
-
- Angka 25
-
- Cukup jelas
-
- Pasal 37
-
- Ayat (1)
-
- Keadaan suatu bank dikatakan mengalami kesulitan yang membahayakan
-
- kelangsungan usahanya apabila berdasarkan penilaian Bank Indonesia, kondisi
-
- bank semakin memburuk, antara lain ditandai dengan menurunnya permodalan,
-
- kualitas aset likuiditas dan rentabilitas, serta pengelolaan bank yang tidak
-
- dilakukan berdasarkan prinsip kehati-hatian dan asas Perbankan yang sehat.
-
- Dalam ayat ini ditetapkan langkah-langkah yang perlu dilakukan terhadap
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 20
-**bank yang mengalami kesulitan dan membahayakan kelangsungan usahanya, agar**
-
- tidak terjadi pencabutan izin usahanya dan atau tindakan likuiditas sebagaimana
-
- dimaksud dalam ayat (2).
-
- Langkah-langkah dimaksud dilakukan dalam rangka
-
- mempertahankan/menyelamatkan bank sebagai lembaga kepercayaan masyarakat.
-
- Yang dimaksud dengan pihak lain dalam ayat ini adalah pihak-pihak di luar
-
- bank yang bersangkutan, baik bank lain, badan usaha lain maupun individu yang
-
- memenuhi persyaratan.
-
- Ayat (2)
-
- Kriteria membahayakan sistem perbankan yaitu apabila tingkat kesulitan
-
- yang dialami dalam melakukan kegiatan usaha, suatu bank tidak mampu
-
- memenuhi kewajiban-kewajibannya kepada bank lain, sehingga pada gilirannya
-
- akan menimbulkan dampak berantai kepada bank-bank lain.
-
- Ayat (3)
-
- Cukup jelas
-
- Angka 26
-
- Cukup jelas
-
- Pasal 37A
-
- Ayat (1) dan Ayat (2)
-
- Yang dimaksud dengan kesulitan Perbankan yang membahayakan
-
- perekonomian nasional adalah suatu kondisi sistem perbankan yang menurut
-
- penilaian Bank Indonesia terjadi krisis kepercayaan masyarakat terhadap
-
- Perbankan yang berdampak kepada hajat hidup orang banyak.
-
- Hal ini memerlukan peran langsung dari Pemerintah untuk
-
- menanggulanginya melalui kebijakan dan tindakan yang berdampak pada
-
- Anggaran Pendapatan dan Belanja Negara.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                      - 21
-**Mengingat hal tersebut diatas, dalam hal pembentukan badan khusus**
-
- sebagaimana dimaksud dalam ayat (1), Pemerintah memerlukan konsultasi dengan
-
- Dewan Perwakilan Rakyat Republik Indonesia. Konsultasi tersebut dilakukan
-
- dengan Komisi yang membidangi keuangan dan perbankan untuk mendapatkan
-
- persetujuan.
-
- Badan khusus dimaksud ditetapkan dengan Keputusan Presiden dan
-
- bertanggung jawab kepada Menteri Keuangan.
-
- Badan khusus dimaksud dalam ketentuan ini bersifat sementara sampai
-
- dengan selesainya tugas yang diberikan kepada badan ini yaitu:
-
- a. penyehatan bank yang diserahkan oleh Bank Indonesia;
-
- b. penyelesaian aset bank baik aset fisik maupun kewajiban debitur melalui
-
- Unit Pengelola Aset (Asset Management Unit);
-
- c. Pengupayaan pengembalian uang negara yang telah tersalur kepada
-
- bank-bank.
-
- Ayat (3)
-
- Huruf a
-
- Dengan dilakukannya pengambilalihan segala hak dan
-
- wewenang pemegang saham termasuk hak dan wewenang Rapat
-
- Umum Pemegang Saham, badan khusus dapat melakukan
-
- pengelolaan dan pengurusan bank dalam program penyehatan,
-
- selanjutnya segala hak dan wewenang pemegang saham termasuk
-
- hak dan wewenang Rapat Umum Pemegang Saham bank dalam
-
- program penyehatan menjadi beralih kepada badan khusus.
-
- Huruf b
-
- Cukup jelas
-
- Huruf c
-
- Dengan ketentuan ini badan khusus dapat menguasai,
-
- mengelola dan melakukan tindakan kepemilikan seperti halnya
-
- sebagai pemilik.
-
------
-
-**Huruf d**
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-         - 22
-**Dalam hal peninjauan ulang, pembatalan, pengakhiran, dan**
-
-**atau perubahan kontrak oleh badan khusus tersebut menimbulkan**
-
- kerugian bagi suatu pihak, pihak tersebut hanya dapat menuntut
-
- penggantian yang tidak melebihi nilai manfaat yang telah diperoleh
-
- dari kontrak dimaksud setelah terlebih dahulu membuktikan secara
-
- nyata dan jelas kerugian yang dialaminya.
-
- Huruf e
-
- Penjualan atau pengalihan kekayaan oleh badan khusus diikuti
-
- dengan beralihnya hak kebendaan kepada pembeli. Dengan demikian
-
- pembeli memperoleh kepastian hukum beralihnya hak atas kekayaan
-
- tersebut.
-
- Penjualan atau pengalihan dapat dilakukan secara langsung
-
- atau melalui penawaran secara langsung atau melalui penawaran
-
- umum untuk memperoleh harga terbaik.
-
- Huruf f
-
- Pihak lain menurut ayat ini adalah peserorangan, Badan
-
- Usaha Milik Negara, badan usaha swasta, dan atau badan hukum
-
- lainnya.
-
- Huruf g
-
- Cukup jelas
-
- Huruf i
-
- Menurut ketentuan ini atas piutang bank terhadap pihak ketiga
-
- yang diambilalih badan khusus, badan khusus dapat melakukan
-
- tindakan penagihan piutang dengan penerbitan Surat Paksa, dengan
-
- berdasarkan pada catatan uang debitur yang bersangkutan pada bank
-
- dalam program penyehatan.
-
- Surat Paksa ini berkepala kata-kata "DEMI KEADILAN
-
- BERDASARKAN KETUHANAN YANG MAHA ESA"
-
- mempunyai kekuatan eksekutorial dan kedudukan hukum yang sama
-
- dengan putusan pengadilan yang telah memiliki kekuatan hukum
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                  - 23
-**tetap. Dalam hal tindakan penagihan piutang tidak diindahkan oleh**
-
- pihak berutang, badan khusus dapat melakukan penyitaan atas hak
-
- kekayaan milik pihak yang berutang tersebut, dan selanjutnya dapat
-
- melakukan pelelangan atas harta pihak yang berutang dalam rangka
-
- pengembalian piutang dimaksud. Harta yang tidak dapat disita
-
- meliputi perlengkapan rumah tangga, buku-buku, dan peralatan kerja
-
- untuk kelangsungan hidup dari yang berutang. Walaupun badan
-
- khusus ini diberikan kewenangan untuk melakukan penagihan paksa,
-
- tata cara pelaksanaannya tetap memperhatikan aspek kepastian
-
- hukum dan keadilan.
-
- Huruf j
-
- Cukup jelas
-
- Huruf k
-
- Untuk memperoleh keterangan dimaksud, badan khusus dapat
-
- meminta bantuan alat negara penegak hukum yang berwenang.
-
- Yang dimaksud pihak manapun adalah Pihak Terafiliasi dan
-
- pihak-pihak lain yang terlibat atau patut terlibat, termasuk badan
-
- hukum yang dimiliki oleh bank atau Pihak Terafiliasi.
-
- Huruf l
-
- Kerugian yang dimaksud dapat disebabkan oleh transaksi
-
- tidak wajar yang melibatkan bank dalam program ini.
-
- Transaksi tidak wajar antara lain:
-
- a. transaksi yang menguntungkan pihak-pihak tertentu secara tidak
-
- sah;
-
- b. transaksi yang berisikan syarat-syarat yang merupakan hasil
-
- negoisasi antara pihak-pihak yang tidak berafiliasi; atau
-
- c. transaksi yang mengakibatkan bank tersebut menerima nilai yang
-
- tidak sepadan dengan nilai yang dilepaskan atau diserahkan oleh
-
- bank itu.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                      - 24
-**Huruf m**
-
- Cukup jelas
-
- Huruf n
-
- Tindakan lain yang dimaksud antara lain membentuk suatu
-
- divisi dalam badan khusus atau membentuk dan atau melakukan
-
- penyertaan modal dalam suatu badan hukum.
-
- Ayat (4)
-
- Upaya hukum yang dilakukan oleh pihak manapun tidak mencegah
-
- atau menunda pelaksanaan tindakan hukum yang dilakukan oleh badan
-
- khusus sebagaimana dimaksud dalam Pasal ini. Dalam hal atas upaya
-
- hukum tersebut dikeluarkan putusan pengadilan yang telah mempunyai
-
- kekuatan hukum tetap (in kracht) memenanagkan pihak manapun tersebut,
-
- badan khusus wajib mematuhi putusan pengadilan tersebut.
-
- Ayat (5)
-
- Cukup jelas
-
- Ayat (6)
-
- Cukup jelas
-
- Ayat (7)
-
- Cukup jelas
-
- Ayat (8)
-
- Cuku jelas
-
- Ayat (9)
-
- Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan
-
- Pemerintah memuat antara lain:
-
- a. pendirian badan khusus;
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 25
-**b. anggaran dan pengeluaran badan khusus;**
-
- c. tata cara penagihan piutang bank dalam program penyehatan;
-
- d. tata cara penyertaan modal untuk sementara;
-
- e. pembubaran;
-
- f. tata cara penyehatan bank.
-
- Pasal 37B
-
- Ayat (1)
-
- Cukup jelas
-
- Ayat (2)
-
- Pembentukan Lembaga Penjamin Simpanan diperlukan dalam rangka
-
- melindungi kepentingan nasabah dan sekaligus meningkatkan kepercayaan
-
- masyarakat kepada bank.
-
- Dalam menyelenggarakan penjaminan simpanan dana masyarakat pada
-
- bank, Lembaga Penjamin Simpanan dapat menggunakan:
-
- a. skim dana bersama;
-
- b. skim asuransi; atau
-
- c. skim lainnya yang disetujui oleh Bank Indonesia.
-
- Ayat (3)
-
- Cukup jelas
-
- Ayat (4)
-
- Pokok-pokok ketentuan yang diatur lebih lanjut dengan Peraturan
-
- Pemerintah memuat antara lain:
-
- a. pembentukan Lembaga Penjamin Simpanan;
-
- b. struktur organisasi;
-
- c. pilihan skim penjaminan;
-
- d. kewajiban bank untuk menjadi anggota.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 26
-**Angka 27**
-
- Cukup jelas
-
- Pasal 40
-
- Apabila nasabah bank adalah Nasabah Penyimpanan yang sekaligus juga sebagai
-
- Nasabah Debitur, bank wajib tetap merahasiakan keterangan tentang nasabah
-
- dalam kedudukannya sebagai Nasabah Penyimpanan.
-
- Keterangan mengenai nasabah selain sebagai Nasabah Penyimpan, bukan
-
- merupakan keterangan yang wajib dirahasiakan bank.
-
- Bagi bank yang melakukan kegiatan sebagai lembaga penunjang pasar modal,
-
- misalnya bank selaku kustodian dan atau Wali Amanat, tunduk pada ketentuan
-
- perundang-undangan di bidang pasar modal.
-
- Ayat (2)
-
- Cukup jelas
-
- Angka 28
-
- Cukup jelas
-
- Pasal 41
-
- Ayat (1)
-
- Cukup jelas
-
- Angka 29
-
- Cukup jelas
-
- Pasal 41A
-
- Ayat (1)
-
- Cukup jelas
-
- Ayat (2)
-
- Cukup jelas
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 27
-**Ayat (3)**
-
- Cukup jelas
-
- Angka 30
-
- Cukup jelas
-
- Pasal 42
-
- Ayat (1)
-
- Kata dapat dimaksudkan untuk memberikan penegasan bahwa izin oleh
-
- Pimpinan Bank Indonesia akan diberikan sepanjang permintaan tersebut telah
-
- memenuhi ketentuan sebagaimana dimaksud dalam ayat (3).
-
- Ayat (2)
-
- Pemberian izin oleh Bank Indonesia harus dilakukan selambat-lambatnya
-
- 14 (empat belas) hari setelah dokumen permintaan diterima secara lengkap.
-
- Ayat (3)
-
- Cukup jelas
-
- Angka 31
-
- Cukup jelas
-
- Pasal 42A
-
- Cukup jelas
-
- Angka 32
-
- Pasal 44A
-
- Ayat (1)
-
- Cukup jelas
-
- Ayat (2)
-
- Cukup jelas
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 28
-**Pasal 46**
-
- Ayat (1)
-
- Cukup jelas
-
- Ayat 34
-
- Pasal 47
-
- Ayat (1)
-
- Cukup jelas
-
- Ayat (2)
-
- Yang dimaksud dengan pegawai bank adalah semua pejabat dan karyawan
-
- bank.
-
- Angka 35
-
- Pasal 47A
-
- Cukup jelas
-
- Angka 36
-
- Pasal 48
-
- Ayat (1)
-
- Yang dimaksud dengan pegawai bank adalah pejabat bank yang diberi
-
- wewenang dan tanggung jawab untuk melaksanakan tugas operasional bank, dan
-
- karyawan yang mempunyai akses terhadap informasi mengenai keadaan bank.
-
- Ayat (2)
-
- Cukup jelas
-
- Angka 37
-
- Pasal 49
-
- Ayat (1)
-
- Yang dimaksud dengan pegawai bank adalah semua pejabat dan karyawan
-
- bank.
-
- Ayat (2)
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-     - 29
-
-**Huruf a**
-
- Yang dimaksud dengan pegawai bank adalah semua pejabat bank
-
- dan karyawan bank.
-
- Huruf b
-
- Yang dimaksud dengan pegawai bank adalah pejabat bank
-
- yang mempunyai wewenang dan tanggung jawab tentang hal-hal
-
- yang berkaitan dengan usaha bank yang bersangkutan.
-
- Angka 38
-
- Pasal 50
-
- Cukup jelas
-
- Angka 39
-
- Pasal 50A
-
- Cukup jelas
-
- Angka 40
-
- Pasal 51
-
- Ayat (1)
-
- Perbuatan-perbuatan sebagaimana dimaksud dalam pasal-pasal tersebut
-
- dalam ayat ini digolongkan sebagai tindak pidana kejahatan, berarti bahwa
-
- terhadap perbuatan-perbuatan dimaksud akan dikenakan ancaman hukuman yang
-
- lebih berat dibandingkan dengan apabila hanya sekedar sebagai pelanggaran. Hal
-
- ini mengingat bahwa bank adalah lembaga yang menyimpan dana yang
-
- dipercayakan masyarakat kepadanya, sehingga perbuatan yang dapat
-
- mengakibatkan rusaknya kepercayaan masyarakat kepada bank, yang pada
-
- dasarnya juga akan merugikan bank maupun masyarakat, perlu selalu dihindarkan.
-
- Dengan digolongkan sebagai tindak kejahatan, diharapkan akan dapat lebih
-
- terbentuk ketaatan yang tinggi terhadap ketentuan dalam Undang-undang ini.
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 30
-**Mengenai tindak pidana kejahatan yang dilakukan oleh anggota Komisaris,**
-
- Direksi, atau pegawai Bank Perkreditan Rakyat pada dasarnya berlaku
-
- ketentuan-ketentuan tentang sanksi pidana dalam Bab VIII, mengingat sifat
-
- ancaman pidana dimaksud berlaku umum.
-
- Angka 41
-
- Pasal 52
-
- Ayat (1)
-
- Cukup jelas
-
- Ayat (2)
-
- Cukup jelas
-
- Ayat (3)
-
- Pokok-pokok ketentuan yang ditetapkan oleh Bank Indonesia memuat
-
- antara lain:
-
- a. jenis-jenis sanksi administratif;
-
- b. tata cara pelaksanaan sanksi administratif;
-
- c. tindak lanjut pelaksanaan sanksi administratif;
-
- d. pengawasan pelaksanaan sanksi administratif.
-
- Angka 42
-
- Cukup jelas
-
- Pasal 55
-
- Cukup jelas
-
- Angka 43
-
- Cukup jelas
-
- Pasal 59A
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-                          - 31
-**Badan khusus yang dimaksud dalam ketentuan ini bersifat sementara, dengan tugas**
-
- khusus melakukan langkah-langkah yang diperlukan untuk menyehatkan
-
- Perbankan nasional.
-
- Badan yang telah ada saat ini dalam rangka melakukan upaya penyehatan
-
- perbankan, tetap dapat melakukan tugas penyehatan perbankan berdasarkan
-
- Undang-undang.
-
- Pasal II
-
- Cukup jelas
-
- TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3790
-
------
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-37b|Pasal 37B]] | [[#^penjelasan-pasal-37b|Penjelasan]] | - |

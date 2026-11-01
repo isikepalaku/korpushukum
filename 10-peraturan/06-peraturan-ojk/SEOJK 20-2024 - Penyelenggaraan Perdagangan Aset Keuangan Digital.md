@@ -22,8 +22,8 @@ last_updated: 2026-10-28
 penjelasan: ada
 penjelasan_pasal_demi_pasal: false
 penjelasan_normatif: false
-struktur_teks: terpartisi
-anchor_pasal: true
+struktur_teks: datar
+anchor_pasal: false
 ---
 
 ## Batang Tubuh
