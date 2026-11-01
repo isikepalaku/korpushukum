@@ -7,9 +7,9 @@ Menangani:
   1. Validasi duplikasi (Skip jika sudah ada, Tambah jika belum ada, Force overwrite).
   2. Ekstraksi otomatis metadata (Jenis, Nomor, Tahun, Judul, Relasi Mengubah/Mencabut).
   3. Parsing deterministik PDF/MD via Docling + Regex Stitcher.
-  4. Pengelompokan berkas ke folder hierarki (10-peraturan/ & 02_LEGISLATION/).
+  4. Pengelompokan berkas ke folder hierarki (10-peraturan/ & 02-pasal-atomik/).
   5. Manajemen siklus hidup norma: Memberi mark simetris 'diubah' / 'dicabut' pada peraturan terdahulu.
-  6. Pembaruan otomatis MOC Kategori (40-kategori/) dan Append Audit Log (90-log/log.md).
+  6. Pembaruan otomatis MOC Kategori (01-moc/) dan Append Audit Log (90-log/log.md).
 """
 
 import os
@@ -247,8 +247,8 @@ class LegalCorpusPipeline:
             print(f"[!] Gagal memperbarui status relasi target {target_id}: {e}")
 
     def update_category_moc(self, bidang: str, doc_id: str, safe_name: str, jenis: str, status: str):
-        """Menambahkan entri baru ke tabel statis 40-kategori/<bidang>.md."""
-        cat_file = self.root_dir / "40-kategori" / f"{bidang.capitalize()}.md"
+        """Menambahkan entri baru ke tabel statis 01-moc/<bidang>.md."""
+        cat_file = self.root_dir / "01-moc" / f"{bidang.capitalize()}.md"
         if not cat_file.exists():
             return
 
@@ -267,7 +267,7 @@ class LegalCorpusPipeline:
                 # sub_parts[0] = sisa baris header, sub_parts[1] = garis pembatas | --- |, sub_parts[2] = baris data
                 updated_table = f"{parts[0]}{table_header}{sub_parts[0]}\n{sub_parts[1]}\n{new_row}\n{sub_parts[2]}"
                 cat_file.write_text(updated_table, encoding="utf-8")
-                print(f"[MOC] Menambahkan {doc_id} ke MOC 40-kategori/{bidang.capitalize()}.md")
+                print(f"[MOC] Menambahkan {doc_id} ke MOC 01-moc/{bidang.capitalize()}.md")
         except Exception as e:
             print(f"[!] Gagal memperbarui MOC kategori: {e}")
 

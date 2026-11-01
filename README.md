@@ -43,17 +43,18 @@ tempat, dan chunk RAG tetap punya `anchor` unik.
   maks 2.504). Pisah `batang-tubuh` (9.195) / `penjelasan-umum` (4.837) / `penjelasan-pasal` (5.773) /
   `isi` (4.159). Regenerasi: `python 90-log/build_chunks.py`.
 - Penjelasan "Cukup jelas" ditandai `substantive: false` (2.238 chunk) supaya tidak mengotori retrieval.
-- `40-kategori/Indeks Penjelasan.md` — dokumen mana yang penjelasannya substantif vs formalitas.
+- `01-moc/Indeks Penjelasan.md` — dokumen mana yang penjelasannya substantif vs formalitas.
 - Teks pasal ada di badan markdown (di bawah H1). Frontmatter YAML = metadata yang sudah bersih.
 - Dokumen `kelengkapan: sumber-pdf-saja` **belum punya teks** — jangan di-embed sebelum diekstrak.
 
 ## Struktur
 
 ```
+01-moc/          MOC per regulasi & MOC per bidang hukum
+02-pasal-atomik/ pasal atomik terjahit batang tubuh + penjelasan
 10-peraturan/    peraturan perundang-undangan (per jenis, hierarki UU 12/2011)
 20-putusan/      putusan MK & pengadilan
 30-sumber/       PDF/HTML asli
-40-kategori/     MOC per bidang hukum
 50-glosarium/    istilah + pasal sumber
 90-log/          log.md, manifest.jsonl
 ```

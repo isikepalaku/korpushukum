@@ -4,9 +4,9 @@ batch_export_karpathy.py
 ========================
 Mengekspor seluruh dokumen terpartisi (72 peraturan) dari 10-peraturan/
 ke format Karpathy LLM-Wiki:
-  - 02_LEGISLATION/<KODE_DOKUMEN>/Pasal_<NO>.md (terjahit Batang Tubuh + Penjelasan)
-  - 01_INDEX_MOC/_Index_<KODE_DOKUMEN>.md (MOC daftar ringkas per pasal)
-  - 01_INDEX_MOC/_MASTER_INDEX.md (Master MOC seluruh regulasi)
+  - 02-pasal-atomik/<KODE_DOKUMEN>/Pasal_<NO>.md (terjahit Batang Tubuh + Penjelasan)
+  - 01-moc/_Index_<KODE_DOKUMEN>.md (MOC daftar ringkas per pasal)
+  - 01-moc/_MASTER_INDEX.md (Master MOC seluruh regulasi)
 """
 
 import os
@@ -56,8 +56,8 @@ def run_batch_export():
     print(f"[*] Ditemukan {len(target_docs)} dokumen berstatus 'terpartisi'.")
 
     out_root = VAULT_ROOT
-    moc_dir = out_root / "01_INDEX_MOC"
-    leg_dir = out_root / "02_LEGISLATION"
+    moc_dir = out_root / "01-moc"
+    leg_dir = out_root / "02-pasal-atomik"
     moc_dir.mkdir(parents=True, exist_ok=True)
     leg_dir.mkdir(parents=True, exist_ok=True)
 
@@ -151,8 +151,8 @@ def run_batch_export():
     print(f"[OK] BATCH EXPORT SELESAI DALAM {elapsed:.2f} DETIK")
     print(f"    - Berhasil diekspor : {sukses} peraturan")
     print(f"    - Gagal / Kosong    : {gagal} peraturan")
-    print(f"    - Total Pasal Atomik: {total_pasal:,} file markdown di 02_LEGISLATION/")
-    print(f"    - Total Indeks MOC  : {sukses} file di 01_INDEX_MOC/")
+    print(f"    - Total Pasal Atomik: {total_pasal:,} file markdown di 02-pasal-atomik/")
+    print(f"    - Total Indeks MOC  : {sukses} file di 01-moc/")
     print(f"    - Master Index      : {master_file}")
     print("=" * 70)
 

@@ -184,8 +184,8 @@ def main():
     print(f"[SUCCESS] Regulasi {jenis.upper()} {nomor}/{tahun} berhasil di-ingest ke korpushukum!")
     print(f"Lokasi Berkas:")
     print(f"  - Korpus Terpartisi : 10-peraturan/.../{jenis.upper()} {nomor}-{tahun} - {short_name}.md")
-    print(f"  - Pasal Atomik      : 02_LEGISLATION/{code_id}/Pasal_*.md")
-    print(f"  - Indeks MOC        : 01_INDEX_MOC/_Index_{code_id}.md")
+    print(f"  - Pasal Atomik      : 02-pasal-atomik/{code_id}/Pasal_*.md")
+    print(f"  - Indeks MOC        : 01-moc/_Index_{code_id}.md")
     print("=" * 70)
 
     if args.auto_commit:

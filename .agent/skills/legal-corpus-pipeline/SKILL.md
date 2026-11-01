@@ -39,9 +39,9 @@ Skill otomatisasi untuk memproses dokumen hukum resmi Indonesia (Undang-Undang, 
    - Jika dokumen baru `mencabut` dokumen lama: Dokumen lama otomatis ditandai `dicabut_oleh: [ID_BARU]`, status menjadi `dicabut`, dan disematkan callout bahaya `> [!CAUTION] PERATURAN INI TELAH DICABUT OLEH [[...]]`.
 4. **Dual Output Generation (Hybrid)**:
    - **Mode Karpathy LLM-Wiki**:
-     - `02_LEGISLATION/<KODE_UU>/Pasal_<NO>.md` (1 berkas per pasal terjahit dengan penjelasannya).
-     - `01_INDEX_MOC/_Index_<KODE_UU>.md` (Daftar ringkas pasal & inti ayat 1).
-     - `01_INDEX_MOC/_MASTER_INDEX.md` (Peta hierarkis seluruh peraturan untuk retrieval 2-tahap).
+     - `02-pasal-atomik/<KODE_UU>/Pasal_<NO>.md` (1 berkas per pasal terjahit dengan penjelasannya).
+     - `01-moc/_Index_<KODE_UU>.md` (Daftar ringkas pasal & inti ayat 1).
+     - `01-moc/_MASTER_INDEX.md` (Peta hierarkis seluruh peraturan untuk retrieval 2-tahap).
    - **Mode UU-KB Native**:
      - `10-peraturan/<subfolder>/<JENIS> <NO>-<TAHUN> - <JUDUL SINGKAT>.md` (1 berkas terpartisi dengan anchor unik `^pasal-X` dan `^penjelasan-pasal-X` sesuai kontrak `AGENTS.md`).
 5. **OpenViking Incremental Loader**:
@@ -80,9 +80,9 @@ Skill otomatisasi untuk memproses dokumen hukum resmi Indonesia (Undang-Undang, 
 - **`scripts/docling_legal_parser.py`**: Engine ekstraksi deterministik Docling RapidOCR, splitter Batang Tubuh vs Penjelasan, dan stitching ayat.
 - **`scripts/pipeline_orchestrator.py`**: Orchestrator batch/single dengan sub-second pre-check dan sinkronisasi graf siklus hidup.
 - **`scripts/build_manifest.py`**: Membangun `90-log/manifest.jsonl` lengkap dengan section offsets dan SHA256 hashes.
-- **`90-log/build_chunks.py`**: Membangun `90-log/chunks.jsonl.gz` dan `40-kategori/Indeks Penjelasan.md`.
+- **`90-log/build_chunks.py`**: Membangun `90-log/chunks.jsonl.gz` dan `01-moc/Indeks Penjelasan.md`.
 - **`scripts/openviking_ingest.py`**: Loader inkremental untuk OpenViking / Hermes Vector DB (`--check`, `--sync`, `--force`).
-- **`scripts/batch_export_karpathy.py`**: Batch generator untuk seluruh folder `02_LEGISLATION/` dan `01_INDEX_MOC/`.
+- **`scripts/batch_export_karpathy.py`**: Batch generator untuk seluruh folder `02-pasal-atomik/` dan `01-moc/`.
 
 ---
 

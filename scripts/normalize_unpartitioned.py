@@ -6,7 +6,7 @@ Memproses 41 berkas peraturan yang belum terpartisi di 10-peraturan/:
 1. Mengidentifikasi berkas yang memiliki struktur pasal (Group 1 - ~25 regulasi).
 2. Mempartisi ulang berkas menjadi standar UU-KB (## Batang Tubuh, ### Pasal X ^pasal-x, ## Penjelasan, ## Peta Penjelasan)
    dan mengupdate frontmatter menjadi struktur_teks: terpartisi, anchor_pasal: true.
-3. Mengekspor langsung ke format Karpathy LLM-Wiki (02_LEGISLATION/ & 01_INDEX_MOC/).
+3. Mengekspor langsung ke format Karpathy LLM-Wiki (02-pasal-atomik/ & 01-moc/).
 4. Untuk dokumen non-pasal (Instruksi, Kepmen, SE, Inpres - ~10 regulasi):
    Menstandarkan frontmatter ke struktur_teks: datar, anchor_pasal: false sesuai AGENTS.md aturan 8.
 5. Memperbarui _MASTER_INDEX.md.
@@ -93,7 +93,7 @@ def run_normalization():
                 if num_pasal > 0:
                     # 1. Update berkas di 10-peraturan/ (UU-KB Native in-place)
                     parser.export_uukb_mode(str(VAULT_ROOT), target_file_path=str(fpath))
-                    # 2. Ekspor ke 02_LEGISLATION/ & 01_INDEX_MOC/ (Karpathy Wiki)
+                    # 2. Ekspor ke 02-pasal-atomik/ & 01-moc/ (Karpathy Wiki)
                     parser.export_atomic_mode(str(VAULT_ROOT))
 
                     berhasil_partisi += 1

@@ -4,7 +4,7 @@
 Jalankan:  python 90-log/build_chunks.py
 Output  :  90-log/chunks.jsonl.gz      (satu JSON per baris; artefak turunan, tidak di-commit)
            90-log/chunks-stats.json    (ringkasan; di-commit)
-           40-kategori/Indeks Penjelasan.md
+           01-moc/Indeks Penjelasan.md
 Butuh   :  Python 3.10+ (stdlib saja)
 """
 import gzip
@@ -234,8 +234,8 @@ lines += ["",
           "```", "",
           "Chunk mesin: `90-log/chunks.jsonl.gz` (satu baris JSON per chunk; field `kind`, `pasal`, "
           "`substantive`, `path`, `anchor`). Regenerasi: `python 90-log/build_chunks.py`.", ""]
-os.makedirs(os.path.join(ROOT, "40-kategori"), exist_ok=True)
-open(os.path.join(ROOT, "40-kategori", "Indeks Penjelasan.md"), "w", encoding="utf-8",
+os.makedirs(os.path.join(ROOT, "01-moc"), exist_ok=True)
+open(os.path.join(ROOT, "01-moc", "Indeks Penjelasan.md"), "w", encoding="utf-8",
      newline="\n").write("\n".join(lines))
 
 print(json.dumps(stats, ensure_ascii=False, indent=1))

@@ -13,6 +13,8 @@ peraturan/putusan. Fokus: teks otoritatif + metadata yang bisa dipercaya mesin. 
 ## Struktur wajib
 
 ```
+01-moc/                             Map of Content (per regulasi & per bidang hukum)
+02-pasal-atomik/                    Pasal atomik terjahit batang tubuh + penjelasan
 10-peraturan/01-undang-undang/      UU
 10-peraturan/02-perppu/             Perppu
 10-peraturan/03-peraturan-pemerintah/  PP
@@ -25,7 +27,6 @@ peraturan/putusan. Fokus: teks otoritatif + metadata yang bisa dipercaya mesin. 
 20-putusan/01-mahkamah-konstitusi/  Putusan MK (uji materi)
 20-putusan/02-pengadilan/           Putusan pengadilan lain
 30-sumber/                          PDF/HTML asli (nama sama dengan halaman markdown)
-40-kategori/                        MOC per bidang hukum (Dataview + daftar statis)
 50-glosarium/                       Istilah + pasal sumber
 90-log/                             log.md (append-only) + manifest JSONL
 ```
@@ -126,7 +127,7 @@ Aturan:
   `anchor`, `kind` (`batang-tubuh|penjelasan-umum|penjelasan-pasal|isi`), `pasal`, `part`,
   `substantive`, `chars`, `sha256`, `text`.
 - `90-log/chunks-stats.json` — ringkasan (jumlah chunk per `kind`, rasio "Cukup jelas").
-- `40-kategori/Indeks Penjelasan.md` — tabel kualitas penjelasan per dokumen.
+- `01-moc/Indeks Penjelasan.md` — tabel kualitas penjelasan per dokumen.
 
 Aturan pakai: chunk `kind=penjelasan-pasal` dengan `substantive=false` adalah "Cukup jelas" — jangan
 di-embed sebagai isi, cukup disimpan sebagai penanda bahwa pasal itu tidak butuh penjelasan tambahan.
@@ -136,8 +137,8 @@ lalu gabungkan dengan menyebut pasal + anchor.
 ## Alur kerja
 
 - **INGEST**: ekstrak teks → normalisasi frontmatter di atas → simpan PDF ke `30-sumber/` → perbarui
-  `40-kategori/` dan `INDEX.md` → tambah entri di `90-log/log.md` → commit.
-- **QUERY**: baca `INDEX.md` → `40-kategori/<bidang>.md` → halaman peraturan → kutip dengan `[[id]]` + pasal.
+  `01-moc/` dan `INDEX.md` → tambah entri di `90-log/log.md` → commit.
+- **QUERY**: baca `INDEX.md` → `01-moc/<bidang>.md` → halaman peraturan → kutip dengan `[[id]]` + pasal.
 - **LINT**: cek id duplikat, link mati, relasi asimetris, `status` kosong, stub menua, frontmatter rusak,
   dan `last_updated` usang. Laporkan sebelum mengubah.
 - **VERIFIKASI STATUS**: cocokkan `status` ke JDIH BPK; setelah dicek ubah `verifikasi: sudah`.

@@ -4,7 +4,7 @@ docling_legal_parser.py
 =======================
 Parser Dokumen Hukum Indonesia (Undang-Undang, Perppu, PP, dll.) berbasis Docling.
 Mendukung DUA mode output (Hybrid):
-  1. Mode 'atomic': Karpathy LLM-Wiki format (01_INDEX_MOC/_Index_<KODE>.md & 02_LEGISLATION/<KODE>/Pasal_<NO>.md)
+  1. Mode 'atomic': Karpathy LLM-Wiki format (01-moc/_Index_<KODE>.md & 02-pasal-atomik/<KODE>/Pasal_<NO>.md)
      dengan Batang Tubuh dan Penjelasan Resmi yang dijahit (stitched) per pasal.
   2. Mode 'uukb': Format resmi Obsidian Korpus UU-KB (1 berkas terpartisi dengan anchor ^pasal-X dan
      ^penjelasan-pasal-X, siap di-ingest ke 10-peraturan/ dan diproses build_chunks.py).
@@ -297,8 +297,8 @@ class IndonesianLegalParser:
     def export_atomic_mode(self, out_dir: str):
         """Mode Karpathy LLM-Wiki: 1 berkas per pasal + Map of Content."""
         base = Path(out_dir)
-        leg_dir = base / "02_LEGISLATION" / self.kode_uu
-        moc_dir = base / "01_INDEX_MOC"
+        leg_dir = base / "02-pasal-atomik" / self.kode_uu
+        moc_dir = base / "01-moc"
 
         leg_dir.mkdir(parents=True, exist_ok=True)
         moc_dir.mkdir(parents=True, exist_ok=True)
