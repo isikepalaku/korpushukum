@@ -23,6 +23,7 @@ SORT tahun DESC
 
 | ID | Judul | Jenis | Status |
 | --- | --- | --- | --- |
+| UU 28/2011 | [[UU 28-2011 - ITE Perubahan Pertama|UU 28-2011 - ITE Perubahan Pertama]] | UU | berlaku |
 | KEPMENKOMDIGI 140/2026 | [[KEPMENKOMDIGI 140-2026 - Layanan Jejaring dan Media Sosial Risiko Tinggi\|Layanan Jejaring dan Media Sosial Profil Risiko Tinggi]] | KEPMENKOMDIGI | perlu-verifikasi |
 | KEPMENKOMDIGI 142/2026 | [[KEPMENKOMDIGI 142-2026 - Indikator dan Penilaian Risiko Akses Anak\|Indikator dan Penilaian Risiko Akses Anak]] | KEPMENKOMDIGI | perlu-verifikasi |
 | KEPMENKOMDIGI 219/2026 | [[KEPMENKOMDIGI 219-2026 - Perubahan Kepmen 142-2026 Risiko Anak\|Keputusan Menteri Komunikasi dan Digital Nomor 219 Tahun 2026 ten]] | KEPMENKOMDIGI | perlu-verifikasi |

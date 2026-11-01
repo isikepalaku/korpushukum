@@ -96,3 +96,13 @@ last_updated: 2026-10-28
 
 - Inisiasi dokumen UU 5/2026 (Kepolisian Perubahan Ketiga...). Mengubah: ['UU 2/2002', 'UU 2/2022', 'UU 6/2023', 'UU 20/2023'], Mencabut: [].
 - Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] ingest-auto | UU 11/2008
+
+- Inisiasi dokumen UU 11/2008 (ITE...). Mengubah: [], Mencabut: [].
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
+
+## [2026-11-01] ingest-auto | UU 28/2011
+
+- Inisiasi dokumen UU 28/2011 (ITE Perubahan Pertama...). Mengubah: ['PP 68/1998'], Mencabut: [].
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.
