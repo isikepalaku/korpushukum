@@ -1,25 +1,35 @@
 ---
-id: "KEPMENKOMDIGI 140/2026"
+id: KEPMENKOMDIGI 140/2026
 jenis: KEPMENKOMDIGI
-lembaga: "Keputusan Menteri Komunikasi dan Digital"
+lembaga: Keputusan Menteri Komunikasi dan Digital
 nomor: 140
 tahun: 2026
-judul: "Layanan Jejaring dan Media Sosial Profil Risiko Tinggi"
-judul_singkat: "Layanan Jejaring dan Media Sosial Risiko Tinggi"
+judul: Layanan Jejaring dan Media Sosial Profil Risiko Tinggi
+judul_singkat: Layanan Jejaring dan Media Sosial Risiko Tinggi
 status: perlu-verifikasi
-status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
+status_catatan: 'Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. '
 mencabut: []
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
-bidang: [siber]
-tags: [jenis/kepmenkomdigi, bidang/siber, status/perlu-verifikasi]
-sumber: "https://jdih.komdigi.go.id/produk_hukum/view/id/1008/t/keputusan+menteri+komunikasi+dan+digital+nomor+140+tahun+2026"
+bidang:
+- siber
+tags:
+- jenis/kepmenkomdigi
+- bidang/siber
+- status/perlu-verifikasi
+sumber: https://jdih.komdigi.go.id/produk_hukum/view/id/1008/t/keputusan+menteri+komunikasi+dan+digital+nomor+140+tahun+2026
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Layanan Jejaring dan Media Sosial Profil Risiko Tinggi

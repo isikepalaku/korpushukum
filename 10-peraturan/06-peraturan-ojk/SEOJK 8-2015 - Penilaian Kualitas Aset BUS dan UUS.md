@@ -1,27 +1,37 @@
 ---
-id: "SEOJK 8/2015"
+id: SEOJK 8/2015
 jenis: SEOJK
-lembaga: "Surat Edaran Otoritas Jasa Keuangan"
+lembaga: Surat Edaran Otoritas Jasa Keuangan
 nomor: 8
 tahun: 2015
-judul: "Penilaian Kualitas Aset BUS dan UUS"
-judul_singkat: "Penilaian Kualitas Aset BUS dan UUS"
+judul: Penilaian Kualitas Aset BUS dan UUS
+judul_singkat: Penilaian Kualitas Aset BUS dan UUS
 status: berlaku
-status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
+status_catatan: 'Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. '
 mencabut: []
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
-bidang: [keuangan]
-tags: [jenis/seojk, bidang/keuangan, status/berlaku]
-sumber: "30-sumber/SEOJK 8-2015 - Penilaian Kualitas Aset BUS dan UUS.pdf"
+bidang:
+- keuangan
+tags:
+- jenis/seojk
+- bidang/keuangan
+- status/berlaku
+sumber: 30-sumber/SEOJK 8-2015 - Penilaian Kualitas Aset BUS dan UUS.pdf
 kelengkapan: lengkap
-parser: "pymupdf4llm 2.0"
+parser: pymupdf4llm 2.0
 parsed_at: 2026-10-28
 verifikasi: tidak-tersedia
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Penilaian Kualitas Aset BUS dan UUS

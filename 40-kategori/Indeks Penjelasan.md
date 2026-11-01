@@ -2,7 +2,7 @@
 judul: "Indeks Penjelasan"
 jenis: indeks
 tags: [indeks, penjelasan]
-last_updated: 2026-10-28
+last_updated: 2026-11-01
 ---
 
 # Indeks Penjelasan
@@ -58,16 +58,19 @@ Penjelasan resmi (I. UMUM / II. PASAL DEMI PASAL) sudah dipartisi per pasal deng
 | [[POJK 4-2023 - Perubahan Kedua atas POJK 23-POJK.04-2016 tentang]] | 11 | 8 | 3 | 73% |
 | [[POJK 22-2024 - Laporan Berkala Perusahaan Perasuransian]] | 22 | 7 | 15 | 32% |
 | [[POJK 47-2024 - Koperasi di Sektor Jasa Keuangan]] | 19 | 7 | 12 | 37% |
+| [[UU 27-2022 - PDP]] | 9 | 6 | 3 | 67% |
 | [[POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS]] | 3 | 3 | 0 | 100% |
 | [[UU 1-2013 - LKM]] | 43 | 3 | 40 | 7% |
 | [[UU 6-2009 - BI Penetapan Perppu]] | 6 | 3 | 3 | 50% |
 | [[UU 7-2009 - LPS Penetapan Perppu]] | 5 | 3 | 2 | 60% |
-| [[UU 14-2025 - Haji dan Umrah Perubahan Ketiga]] | 1 | 1 | 0 | 100% |
-| [[UU 16-2025 - BUMN Perubahan Keempat]] | 1 | 1 | 0 | 100% |
-| [[UU 18-2025 - Kepariwisataan Perubahan Ketiga]] | 1 | 1 | 0 | 100% |
+| [[UU 14-2025 - Haji dan Umrah Perubahan Ketiga]] | 85 | 1 | 84 | 1% |
+| [[UU 16-2025 - BUMN Perubahan Keempat]] | 4 | 1 | 3 | 25% |
+| [[UU 18-2025 - Kepariwisataan Perubahan Ketiga]] | 14 | 1 | 13 | 7% |
+| [[UU 5-2026 - Kepolisian Perubahan Ketiga]] | 10 | 1 | 9 | 10% |
 | [[UU 63-2024 - Keimigrasian Perubahan Ketiga]] | 1 | 1 | 0 | 100% |
 | [[UU 65-2024 - Paten Perubahan Ketiga]] | 1 | 1 | 0 | 100% |
-| [[UU 17-2023 - Kesehatan]] | 1 | 0 | 1 | 0% |
+| [[UU 66-2024 - Pelayaran Perubahan Ketiga]] | 7 | 1 | 6 | 14% |
+| [[UU 17-2023 - Kesehatan]] | 3 | 0 | 3 | 0% |
 
 ## Cara memakai
 

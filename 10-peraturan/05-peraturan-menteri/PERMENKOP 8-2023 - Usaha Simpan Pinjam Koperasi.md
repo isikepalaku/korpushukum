@@ -1,30 +1,32 @@
 ---
-id: "PERMENKOP 8/2023"
+id: PERMENKOP 8/2023
 jenis: PERMENKOP
-lembaga: "Peraturan Menteri Koperasi dan UKM"
+lembaga: PERMENKOP
 nomor: 8
 tahun: 2023
-judul: "Usaha Simpan Pinjam oleh Koperasi"
-judul_singkat: "Usaha Simpan Pinjam Koperasi"
+judul: Usaha Simpan Pinjam oleh Koperasi
+judul_singkat: Usaha Simpan Pinjam Koperasi
 status: berlaku
-status_bpk: "Berlaku"
-ditetapkan: 2023-06-16
-berlaku_mulai: 2023-06-20
-mencabut: []
-dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
-terkait: []
-bidang: [keuangan]
-tags: [jenis/permenkop, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/260414/permenkop-ukm-no-8-tahun-2023"
+status_bpk: Berlaku
+bidang:
+- keuangan
+tags:
+- jenis/permenkop
+- bidang/keuangan
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Usaha Simpan Pinjam oleh Koperasi**
 
 # Usaha Simpan Pinjam oleh Koperasi
 
@@ -33,7 +35,6 @@ last_updated: 2026-10-28
 > Sumber: https://peraturan.bpk.go.id/Details/260414/permenkop-ukm-no-8-tahun-2023
 
 > Sumber: [JDIH BPK](https://peraturan.bpk.go.id/Details/260414/permenkop-ukm-no-8-tahun-2023)
-
 
 # BERITA NEGARA REPUBLIK INDONESIA
 
@@ -80,7 +81,6 @@ Undang-Undang Nomor 2 Tahun 2022 tentang Cipta
 Kerja menjadi Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 2023 Nomor 41, Tambahan
 Lembaran Negara Republik Indonesia Nomor 6856);
-
 
 -----
 
@@ -139,13 +139,13 @@ Menetapkan : PERATURAN MENTERI KOPERASI DAN USAHA KECIL DAN
 MENENGAH TENTANG USAHA SIMPAN PINJAM OLEH
 KOPERASI.
 
-
 -----
 
 BAB I
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
+
 Dalam Peraturan Menteri ini yang dimaksud dengan:
 1. Koperasi adalah badan usaha yang beranggotakan orang
 seorang atau badan hukum Koperasi dengan
@@ -193,7 +193,6 @@ anggota.
 12. Pengelola adalah anggota Koperasi dan/atau pihak ketiga
 yang diangkat oleh Pengurus dan diberi wewenang untuk
 mengelola usaha Koperasi.
-
 
 -----
 
@@ -253,7 +252,6 @@ usaha USP/USPPS Koperasi.
 oleh Koperasi yang bersifat tetap yang digunakan untuk
 menanggung risiko kerugian, sehingga harus berasal dari
 
-
 -----
 
 Modal Sendiri atau sumber dana yang memiliki
@@ -310,7 +308,6 @@ memutuskan pemberian pinjaman.
 Kantor Cabang dalam menjalankan kegiatan usaha
 untuk menghimpun dana.
 
-
 -----
 
 40. Standar Operasional Manajemen adalah struktur tugas,
@@ -366,7 +363,6 @@ atau lebih untuk suatu usaha tertentu, di mana masingmasing pihak memberikan kon
 dengan ketentuan bahwa keuntungan dibagi sesuai
 dengan nisbah yang disepakati atau proporsional, dan
 Risiko akan ditanggung bersama secara proporsional.
-
 
 -----
 
@@ -426,7 +422,6 @@ Pinjam selanjutnya disingkat PMPJ adalah prinsip yang
 diterapkan KSP/KSPPS untuk mengetahui identitas
 anggota dan Koperasi lain, memantau kegiatan transaksi
 
-
 -----
 
 anggota dan Koperasi lain termasuk pelaporan transaksi
@@ -472,18 +467,19 @@ PENDIRIAN
 Bagian Kesatu
 Usaha Simpan Pinjam oleh Koperasi
 
-Pasal 2
+### Pasal 2 ^pasal-2
+
 Usaha simpan pinjam oleh Koperasi dilaksanakan oleh:
 a. KSP/KSPPS; dan
 b. USP/USPPS Koperasi.
-
 
 -----
 
 Bagian Kedua
 Pembentukan KSP/KSPPS
 
-Pasal 3
+### Pasal 3 ^pasal-3
+
 (1) KSP/KSPPS sebagaimana dimaksud dalam Pasal 2 huruf
 a dapat berbentuk:
 a. primer; dan
@@ -494,7 +490,8 @@ huruf a dibentuk paling sedikit oleh 9 (sembilan) orang.
 (1) huruf b dibentuk paling sedikit oleh 3 (tiga)
 KSP/KSPPS.
 
-Pasal 4
+### Pasal 4 ^pasal-4
+
 (1) Pendirian KSP/KSPPS dilaksanakan dengan
 memperhatikan kelayakan usaha serta manfaat bagi
 anggotanya.
@@ -516,7 +513,8 @@ badan hukum Koperasi.
 Bagian Ketiga
 Pembentukan USP/USPPS Koperasi
 
-Pasal 5
+### Pasal 5 ^pasal-5
+
 (1) USP/USPPS Koperasi dapat dibentuk oleh Koperasi
 primer dan Koperasi sekunder.
 (2) Pembentukan USP/USPPS Koperasi sebagaimana
@@ -531,7 +529,6 @@ mengajukan permohonan Izin Usaha Simpan Pinjam.
 (1) wajib dikelola secara terpisah dengan unit usaha
 lainnya.
 
-
 -----
 
 BAB III
@@ -541,7 +538,8 @@ Bagian Kesatu
 
 Umum
 
-Pasal 6
+### Pasal 6 ^pasal-6
+
 (1) Menteri menetapkan kegiatan usaha simpan pinjam oleh
 Koperasi sebagai kegiatan usaha dengan tingkat Risiko
 tinggi.
@@ -570,28 +568,16 @@ Menteri ini.
 Bagian Kedua
 Izin Usaha Simpan Pinjam oleh Koperasi
 
-Pasal 7
-(1) Izin usaha sebagaimana dimaksud dalam Pasal 6 ayat (4)
-huruf a merupakan Izin Usaha Simpan Pinjam oleh
-Koperasi yang terdiri atas:
-a. Izin usaha KSP atau KSPPS; dan
-b. Izin usaha USP atau USPPS Koperasi.
-(2) Dalam hal KSP/KSPPS akan membuka Jaringan
-Pelayanan wajib memiliki Izin Jaringan Pelayanan
-sebagaimana dimaksud dalam Pasal 6 ayat (4) huruf b.
-(3) Jaringan Pelayanan sebagaimana dimaksud pada ayat (2)
-terdiri atas:
-a. Kantor Cabang;
-b. Kantor Cabang Pembantu; dan
-c. Kantor Kas.
+### Pasal 7 ^pasal-7
 
+22 ayat (7) huruf a, Pasal 22 ayat (7) huruf d, Pasal 22
+ayat (7) huruf e, Pasal 23 ayat (7), Pasal 24 ayat (2), Pasal
+26 ayat (2), Pasal 26 ayat (4), Pasal 26 ayat (6), Pasal 27
+ayat (1), Pasal 27 ayat (3), Pasal 28 ayat (2), Pasal 28 ayat
+(3), Pasal 28 ayat (4), Pasal 30 ayat (11), Pasal 31 ayat (2),
 
------
+### Pasal 8 ^pasal-8
 
-Bagian Ketiga
-Persyaratan Izin Usaha
-
-Pasal 8
 (1) Pengajuan Izin usaha oleh KSP/KSPPS dan USP/USPPS
 Koperasi harus melengkapi persyaratan meliputi:
 a. bukti setoran Modal Usaha Awal pada Koperasi
@@ -646,7 +632,6 @@ deposito pada bank;
 KSP/KSPPS dan lembaga keuangan lainnya;
 3. pembelian instrumen saham dan obligasi di
 pasar modal; dan
-
 
 -----
 
@@ -713,7 +698,6 @@ provinsi.
 huruf a untuk KSP/KSPPS Sekunder dalam bentuk
 tabungan dengan rincian:
 
-
 -----
 
 a. paling sedikit Rp750.000.000,00 (tujuh ratus lima
@@ -752,7 +736,8 @@ Izin Jaringan Pelayanan
 Paragraf 1
 Jaringan Pelayanan Kantor Cabang
 
-Pasal 9
+### Pasal 9 ^pasal-9
+
 Persyaratan Izin Jaringan Pelayanan Kantor Cabang
 sebagaimana dimaksud dalam Pasal 7 ayat (3) huruf a
 meliputi:
@@ -775,7 +760,6 @@ yang telah mempunyai kekuatan hukum tetap;
 3. tidak pernah dinyatakan pailit atau menyebabkan
 suatu badan usaha dinyatakan pailit berdasarkan
 putusan pengadilan yang telah mempunyai
-
 
 -----
 
@@ -819,7 +803,8 @@ Kantor Cabang KSP/KSPPS.
 Paragraf 2
 Jaringan Pelayanan Kantor Cabang Pembantu
 
-Pasal 10
+### Pasal 10 ^pasal-10
+
 Persyaratan Izin Jaringan Pelayanan Kantor Cabang
 Pembantu sebagaimana dimaksud dalam Pasal 7 ayat (3)
 huruf b meliputi:
@@ -831,7 +816,6 @@ c. hasil audit dari akuntan publik dengan opini wajar;
 d. hasil tingkat pemeriksaan kesehatan yang dinyatakan
 sehat pada 1 (satu) tahun terakhir;
 e. anggaran dasar Koperasi;
-
 
 -----
 
@@ -885,13 +869,13 @@ Cabang Pembantu KSP/KSPPS; dan
 n. sertifikat kompetensi calon kepala Jaringan Pelayanan
 Kantor Cabang Pembantu KSP/KSPPS.
 
-
 -----
 
 Paragraf 3
 Jaringan Pelayanan Kantor Kas
 
-Pasal 11
+### Pasal 11 ^pasal-11
+
 Persyaratan Izin Jaringan Pelayanan Kantor Kas sebagaimana
 dimaksud dalam Pasal 7 ayat (3) huruf c meliputi:
 a. Izin usaha dan telah melaksanakan kegiatan simpan
@@ -944,7 +928,6 @@ Keuangan,
 l. bukti kepemilikan dan/atau sewa kantor, papan nama
 Koperasi, dan sarana kerja;
 
-
 -----
 
 m. daftar nama dan riwayat hidup calon pimpinan dan
@@ -959,7 +942,8 @@ Kantor Cabang, Kantor Cabang Pembantu, dan Kantor Kas
 
 KSP/KSPPS
 
-Pasal 12
+### Pasal 12 ^pasal-12
+
 (1) Calon Kepala Jaringan Pelayanan Kantor Cabang, Kantor
 Cabang Pembantu, dan Kantor Kas harus memiliki
 integritas yang dibuktikan dengan surat pernyataan
@@ -982,7 +966,8 @@ diketahui oleh Pengurus.
 ayat (1) tercantum dalam Lampiran III yang merupakan
 bagian tidak terpisahkan dari Peraturan Menteri ini.
 
-Pasal 13
+### Pasal 13 ^pasal-13
+
 Menteri melalui Deputi menetapkan tata cara pelaksanaan uji
 kelayakan dan kepatutan sebagaimana dimaksud dalam Pasal
 8 ayat (1) huruf f.
@@ -990,7 +975,8 @@ kelayakan dan kepatutan sebagaimana dimaksud dalam Pasal
 Bagian Kelima
 Tata Cara Penerbitan Izin Usaha Simpan Pinjam
 
-Pasal 14
+### Pasal 14 ^pasal-14
+
 (1) Pengajuan permohonan Izin Usaha Simpan Pinjam oleh
 Koperasi sebagaimana dimaksud dalam Pasal 6 ayat (4)
 melalui sistem perizinan pada lembaga pemerintah yang
@@ -1003,7 +989,6 @@ dimaksud dalam Pasal 8 sampai dengan Pasal 12.
 kewenangannya melakukan verifikasi dokumen
 persyaratan sebagaimana dimaksud pada ayat (2) paling
 lama 3 (tiga) hari kerja.
-
 
 -----
 
@@ -1035,7 +1020,8 @@ sebagaimana dimaksud pada ayat (1) tercantum dalam
 Lampiran IV yang merupakan bagian tidak terpisahkan
 dari Peraturan Menteri ini.
 
-Pasal 15
+### Pasal 15 ^pasal-15
+
 (1) Dalam hal Koperasi melakukan perubahan nama dan
 alamat kantor, Izin usaha dan/atau Izin Jaringan
 Pelayanan harus diubah melalui sistem perizinan pada
@@ -1045,7 +1031,8 @@ pemerintahan di bidang koordinasi penanaman modal.
 sebagaimana dimaksud pada ayat (1) dilaksanakan
 sesuai dengan ketentuan peraturan perundangundangan.
 
-Pasal 16
+### Pasal 16 ^pasal-16
+
 Segala bentuk pelayanan Perizinan Berusaha Berbasis Risiko
 sektor usaha simpan pinjam oleh Koperasi tidak dikenakan
 biaya.
@@ -1053,7 +1040,8 @@ biaya.
 Bagian Keenam
 Perbaikan, Pembatalan, atau Pencabutan Izin Usaha
 
-Pasal 17
+### Pasal 17 ^pasal-17
+
 (1) Dalam hal terdapat kekeliruan atau perubahan data,
 perizinan berusaha yang telah diterbitkan dapat
 dilakukan perbaikan.
@@ -1061,7 +1049,6 @@ dilakukan perbaikan.
 ketidakbenaran dan pemalsuan data, dokumen, dan
 informasi yang dilakukan dengan sengaja oleh Koperasi,
 perizinan berusaha yang telah diterbitkan dapat
-
 
 -----
 
@@ -1076,7 +1063,8 @@ kewenangannya.
 Bagian Ketujuh
 Masa Berlaku Izin
 
-Pasal 18
+### Pasal 18 ^pasal-18
+
 Izin Usaha Simpan Pinjam berlaku selama badan hukum
 Koperasi berdiri dan menjalankan kegiatan usaha sesuai
 dengan ketentuan peraturan perundang-undangan.
@@ -1084,7 +1072,8 @@ dengan ketentuan peraturan perundang-undangan.
 Bagian Kedelapan
 Klasifikasi Baku Lapangan Usaha Indonesia
 
-Pasal 19
+### Pasal 19 ^pasal-19
+
 KBLI yang dapat digunakan untuk kegiatan usaha simpan
 pinjam oleh Koperasi terdiri atas:
 a. KBLI 64141;
@@ -1096,7 +1085,8 @@ f. KBLI 64146;
 g. KBLI 64147; dan
 h. KBLI 64148.
 
-Pasal 20
+### Pasal 20 ^pasal-20
+
 (1) KBLI 64141 sebagaimana dimaksud dalam Pasal 19
 huruf a mencakup Koperasi primer yang hanya
 melaksanakan usaha simpan pinjam.
@@ -1121,7 +1111,6 @@ Sedekah, dan Wakaf (maal).
 (7) KBLI 64147 sebagaimana dimaksud dalam Pasal 19
 huruf g mencakup Koperasi sekunder yang
 
-
 -----
 
 melaksanakan usaha simpan pinjam dan pembiayaan
@@ -1136,13 +1125,15 @@ Sedekah, dan Wakaf (maal).
 BAB IV
 STANDAR OPERASIONAL MANAJEMEN
 
-Pasal 21
+### Pasal 21 ^pasal-21
+
 Standar Operasional Manajemen merupakan panduan bagi
 Pengawas, Pengurus, dan Pengelola KSP/KSPPS dan
 USP/USPPS Koperasi dalam memberikan pelayanan prima
 bagi anggota dan/atau Koperasi lain.
 
-Pasal 22
+### Pasal 22 ^pasal-22
+
 (1) KSP/KSPPS dan USP/USPPS Koperasi wajib menyusun
 dan menerapkan Standar Operasional Manajemen.
 (2) Standar Operasional Manajemen wajib diterapkan dalam
@@ -1184,7 +1175,6 @@ d. pelayanan Pinjaman dan pembiayaan kepada unit
 lain;
 e. batasan maksimum Pinjaman dan pembiayaan;
 f. biaya administrasi Pinjaman dan pembiayaan;
-
 
 -----
 
@@ -1241,7 +1231,8 @@ KSP dan USP Koperasi
 Paragraf 1
 Penghimpunan dan Penyaluran Dana
 
-Pasal 23
+### Pasal 23 ^pasal-23
+
 (1) KSP dan USP Koperasi melakukan kegiatan:
 a. penghimpunan dana; dan
 b. penyaluran dana.
@@ -1249,7 +1240,6 @@ b. penyaluran dana.
 (1) huruf a meliputi:
 a. tabungan Koperasi dari anggota dan/atau Koperasi
 lain dengan jangka waktu periode penarikan dana
-
 
 -----
 
@@ -1278,14 +1268,16 @@ kerja sama.
 usaha selain yang diatur sebagaimana dimaksud pada
 ayat (2) sampai dengan ayat (6).
 
-Pasal 24
+### Pasal 24 ^pasal-24
+
 (1) Kegiatan usaha simpan pinjam dilaksanakan dengan:
 a. memperhatikan tingkat kesehatan; dan
 b. menerapkan prinsip kehati-hatian.
 (2) KSP dan USP Koperasi dilarang melakukan kegiatan
 usaha pada sektor riil.
 
-Pasal 25
+### Pasal 25 ^pasal-25
+
 (1) KSP dan USP Koperasi harus memiliki sistem informasi
 pelayanan anggota.
 (2) Sistem informasi pelayanan anggota sebagaimana
@@ -1295,7 +1287,8 @@ pengendalian dan pengambilan keputusan.
 Paragraf 2
 Simpanan
 
-Pasal 26
+### Pasal 26 ^pasal-26
+
 (1) KSP dan USP Koperasi dapat memiliki keragaman produk
 Simpanan.
 (2) Penerbitan dan Pemberian nama produk Simpanan KSP
@@ -1308,7 +1301,6 @@ Rapat Anggota.
 (4) Imbalan berupa bunga atau dalam bentuk lainnya
 sebagaimana dimaksud pada ayat (3) paling tinggi 9%
 (sembilan persen) per tahun.
-
 
 -----
 
@@ -1326,7 +1318,8 @@ Paragraf 3
 
 Pinjaman
 
-Pasal 27
+### Pasal 27 ^pasal-27
+
 (1) Pelaksanaan pemberian Pinjaman oleh KSP dan USP
 Koperasi wajib memperhatikan kemampuan likuiditas
 dan tingkat kualitas Aset yang sehat.
@@ -1342,7 +1335,8 @@ sebagaimana dimaksud pada ayat (3) dapat dilaksanakan
 sesuai dengan kondisi pasar keuangan dan usaha
 simpan pinjam Koperasi yang ditetapkan oleh Menteri.
 
-Pasal 28
+### Pasal 28 ^pasal-28
+
 (1) Dalam hal Koperasi telah menyalurkan pinjaman kepada
 anggota dan Koperasi lain melampaui 90% (sembilan
 puluh persen) dana yang dihimpun dari anggota
@@ -1369,14 +1363,14 @@ melalui ketetapan rapat anggota.
 pada ayat (1) huruf c dan huruf d paling tinggi 5% (lima
 persen) dari keseluruhan dana KSP dan USP Koperasi.
 
-
 -----
 
 Paragraf 4
 
 Jaminan
 
-Pasal 29
+### Pasal 29 ^pasal-29
+
 (1) Untuk mengurangi Risiko pemberian Pinjaman, KSP dan
 USP Koperasi harus:
 a. menerapkan Simpanan Wajib Pinjaman yang
@@ -1405,7 +1399,8 @@ KSPPS dan USPPS Koperasi
 Paragraf 1
 Penghimpunan dan Penyaluran Dana
 
-Pasal 30
+### Pasal 30 ^pasal-30
+
 (1) KSPPS dan USPPS Koperasi melakukan kegiatan:
 a. penghimpunan dana; dan
 b. penyaluran dana.
@@ -1429,7 +1424,6 @@ lain dengan jangka waktu periode penarikan dana
 tidak terikat dan dapat diambil sewaktu-waktu,
 berdasarkan Akad _Wadiah_ atau _Mudharabah;_
 dan/atau
-
 
 -----
 
@@ -1470,7 +1464,8 @@ usaha selain yang diatur sebagaimana dimaksud pada
 ayat (2), ayat (3), ayat (4), ayat (6), ayat (7), ayat (8), ayat
 (9), dan ayat (10).
 
-Pasal 31
+### Pasal 31 ^pasal-31
+
 (1) Kegiatan usaha simpan pinjam dan pembiayaan syariah
 dilaksanakan dengan:
 a. memperhatikan tingkat kesehatan; dan
@@ -1478,97 +1473,36 @@ b. menerapkan prinsip kehati-hatian.
 (2) KSPPS dan USPPS Koperasi dilarang melakukan kegiatan
 usaha pada sektor riil.
 
-Pasal 32
+### Pasal 32 ^pasal-32
+
 (1) KSPPS dan USPPS Koperasi harus memiliki sistem
 informasi pelayanan anggota.
 (2) Sistem informasi pelayanan anggota sebagaimana
 dimaksud pada ayat (1) digunakan sebagai alat
 pengendalian dan pengambilan keputusan.
 
-
 -----
 
 Paragraf 2
 Kegiatan Sosial Maal
 
-Pasal 33
-(1) KSPPS atau USPPS Koperasi melaksanakan kegiatan
-sosial _maal_ untuk pemberdayaan anggota dan
-masyarakat di bidang sosial dan ekonomi.
-(2) Kegiatan sosial _maal dilakukan melalui penghimpunan,_
-pengelolaan dan penyaluran dana Zakat, Infak, Sedekah,
-dan Wakaf serta dana kebajikan dan sosial lainnya sesuai
-dengan ketentuan peraturan perundang-undangan dan
-Prinsip Syariah.
-(3) Kegiatan sosial _maal wajib dilaporkan dalam laporan_
-sumber dan penggunaan dana Zakat, Infak, Sedekah,
-dan Wakaf serta dana kebajikan dan sosial lainnya,
-terpisah dari laporan keuangan kegiatan usaha Koperasi.
-(4) Laporan sebagaimana dimaksud pada ayat (3) wajib
-disampaikan kepada Menteri/gubernur/bupati/wali kota
-sesuai dengan wilayah keanggotaan melalui laporan
-tahunan.
-
-Paragraf 3
-Simpanan
-
-Pasal 34
-(1) KSPPS dan USPPS Koperasi dapat memiliki keragaman
-produk Simpanan.
-(2) Penerbitan dan pemberian nama produk Simpanan
-sebagaimana dimaksud pada ayat (1) wajib ditetapkan
-pada rapat Pengurus setelah mendapat pertimbangan
-Dewan Pengawas Syariah.
-(3) Simpanan diberikan imbalan berupa bagi hasil, imbal
-jasa, bonus, atau dalam bentuk lainnya yang besarnya
-ditetapkan oleh Pengurus dalam rapat anggota.
-(4) Imbalan berupa bagi hasil atau dalam bentuk lainnya
-sebagaimana dimaksud pada ayat (3) wajib
-memperhatikan Akad, kelaziman, dan kepatutan.
-(5) Nilai imbalan bagi hasil sebagaimana dimaksud pada
-ayat (4) sebanding dengan hasil paling tinggi 9%
-(sembilan persen) per tahun dari nilai Simpanan.
-(6) Perubahan penetapan imbalan bagi hasil maksimal
-sebagaimana dimaksud pada ayat (5) ditetapkan oleh
-Menteri.
-(7) Perhitungan bagi hasil untuk Simpanan yang
-menggunakan Akad _Mudharabah_ berasal dari
-pendapatan operasional utama KSPPS atau USPPS
-Koperasi.
-(8) Perhitungan imbal jasa atau bonus yang bersifat sukarela
-untuk Simpanan yang menggunakan Akad _Wadiah_
-didasarkan kepada kebijakan operasional KSPPS atau
-USPPS Koperasi.
-(9) KSPPS dan USPPS Koperasi wajib menjamin keamanan
-Simpanan anggota dan Koperasi lain.
+### Pasal 33 ^pasal-33
 
 
------
 
-(10) KSPPS dan USPPS Koperasi dapat mengasuransikan
+### Pasal 34 ^pasal-34
 
-Simpanan anggota dan Koperasi lain kepada perusahaan
-asuransi syariah.
 
-Paragraf 4
-Pinjaman dan Pembiayaan
 
-Pasal 35
-(1) Pelaksanaan pemberian Pinjaman dan pembiayaan oleh
-KSPPS dan USPPS Koperasi wajib memperhatikan
-kemampuan likuiditas dan tingkat kualitas Aset yang
-sehat.
-(2) Dalam menyalurkan Pinjaman dan pembiayaan, KSPPS
-dan USPPS Koperasi menetapkan marjin, nisbah bagi
-hasil, imbal jasa, dan bonus atau bentuk lainnya yang
-besarnya wajib ditetapkan oleh Pengurus dalam rapat
-anggota.
-(3) Pada transaksi Akad _Musyarakah, KSPPS atau USPPS_
-Koperasi wajib melakukan pembinaan kepada anggota
-untuk memisahkan antara harta pribadi dengan harta
-yang digunakan untuk usaha.
+### Pasal 35 ^pasal-35
 
-Pasal 36
+ayat (4), Pasal 39 ayat (2), Pasal 39 ayat (3), Pasal 41
+ayat (2), Pasal 41 ayat (3), Pasal 44, Pasal 47, Pasal 52
+ayat (1), Pasal 53 ayat (5), Pasal 54 ayat (1), Pasal 54 ayat
+(3), Pasal 57 ayat (1), Pasal 59 ayat (1), Pasal 59 ayat (4),
+
+### Pasal 36 ^pasal-36
+
 (1) Dalam hal koperasi telah menyalurkan Pinjaman dan
 pembiayaan kepada anggota dan Koperasi lain
 melampaui 90% (sembilan puluh persen) dana yang
@@ -1601,11 +1535,11 @@ Paragraf 5
 
 Jaminan
 
-Pasal 37
+### Pasal 37 ^pasal-37
+
 (1) Untuk mengurangi Risiko pemberian Pinjaman dan
 pembiayaan, KSPPS dan USPPS Koperasi harus:
 a. menerapkan Simpanan Wajib pembiayaan yang
-
 
 -----
 
@@ -1638,7 +1572,8 @@ Usaha Koperasi Sekunder
 Paragraf 1
 KSP Sekunder dan USP Koperasi Sekunder
 
-Pasal 38
+### Pasal 38 ^pasal-38
+
 KSP Sekunder atau USP Koperasi Sekunder
 menyelenggarakan kegiatan meliputi:
 a. usaha simpan pinjam antar-Koperasi;
@@ -1655,7 +1590,8 @@ h. pemantauan dan evaluasi, supervisi, dan bantuan teknis;
 dan
 i. pengadaan sarana usaha anggotanya.
 
-Pasal 39
+### Pasal 39 ^pasal-39
+
 (1) Dalam hal terdapat kelebihan dana, KSP Sekunder atau
 USP Koperasi sekunder dapat menempatkan kelebihan
 dana tersebut dalam bentuk:
@@ -1670,7 +1606,6 @@ d. investasi pada instrumen lainnya.
 pada ayat (1) huruf c dan huruf d wajib dilaksanakan
 melalui ketetapan rapat anggota.
 
-
 -----
 
 (3) Penempatan kelebihan dana sebagaimana dimaksud
@@ -1681,7 +1616,8 @@ sekunder.
 Paragraf 2
 KSPPS Sekunder dan USPPS Koperasi Sekunder
 
-Pasal 40
+### Pasal 40 ^pasal-40
+
 KSPPS Sekunder atau USPPS Koperasi sekunder
 menyelenggarakan kegiatan meliputi:
 a. usaha simpan pinjam dan pembiayaan syariah
@@ -1699,7 +1635,8 @@ i. pemantauan dan evaluasi, supervisi, dan bantuan teknis;
 dan
 j. pengadaan sarana usaha anggotanya.
 
-Pasal 41
+### Pasal 41 ^pasal-41
+
 (1) Dalam hal terdapat kelebihan dana, KSPPS Sekunder dan
 USPPS Koperasi sekunder dapat menempatkan kelebihan
 dana tersebut dalam bentuk:
@@ -1727,10 +1664,10 @@ BMPP
 Paragraf 1
 Dasar Perhitungan BMPP
 
-Pasal 42
+### Pasal 42 ^pasal-42
+
 (1) Dasar Perhitungan BMPP untuk KSP/KSPPS
 berdasarkan saldo Pinjaman.
-
 
 -----
 
@@ -1739,7 +1676,8 @@ merupakan saldo pokok dari plafon Pinjaman yang sudah
 disepakati bersama dalam sebuah perjanjian Pinjaman di
 KSP/KSPPS.
 
-Pasal 43
+### Pasal 43 ^pasal-43
+
 (1) KSP/KSPPS memberikan Pinjaman, pembiayaan,
 dan/atau dalam bentuk lainnya berdasarkan prinsip
 kehati-hatian dan BMPP.
@@ -1765,7 +1703,8 @@ KSP/KSPPS.
 Paragraf 2
 BMPP kepada Pihak Terkait
 
-Pasal 44
+### Pasal 44 ^pasal-44
+
 (1) Pemberian Pinjaman kepada pihak terkait ditetapkan
 
 paling tinggi 10% (sepuluh persen) dari Modal Sendiri
@@ -1777,7 +1716,8 @@ KSP/KSPPS.
 Paragraf 3
 BMPP kepada Pihak Tidak Terkait
 
-Pasal 45
+### Pasal 45 ^pasal-45
+
 Pemberian Pinjaman kepada pihak tidak terkait ditetapkan
 paling tinggi 15% (lima belas persen) dari Modal Sendiri
 KSP/KSPPS.
@@ -1785,10 +1725,10 @@ KSP/KSPPS.
 Paragraf 4
 _Digital Financial Service_
 
-Pasal 46
+### Pasal 46 ^pasal-46
+
 KSP/KSPPS atau USP/USPPS Koperasi dapat melaksanakan
 kegiatan usaha simpan pinjam secara digital financial service.
-
 
 -----
 
@@ -1796,7 +1736,8 @@ Paragraf 5
 
 Larangan
 
-Pasal 47
+### Pasal 47 ^pasal-47
+
 KSP/KSPPS dan USP/USPPS Koperasi dilarang:
 a. membuat suatu perikatan atau perjanjian atau
 menetapkan persyaratan yang mewajibkan KSP/KSPPS
@@ -1808,7 +1749,8 @@ Pelanggaran BMPP.
 Bagian Kelima
 Restrukturisasi Usaha
 
-Pasal 48
+### Pasal 48 ^pasal-48
+
 (1) Restrukturisasi usaha untuk KSP/KSPPS dilakukan
 melalui:
 a. penggabungan;
@@ -1845,54 +1787,20 @@ hasil Restrukturisasi.
 BAB VI
 SKALA USAHA
 
-Pasal 49
-Dalam rangka menetapkan kebijakan pengembangan,
-pelindungan, dan kemudahan berusaha bagi KSP/KSPPS,
+### Pasal 49 ^pasal-49
 
+setiap 3 (tiga) bulan kepada Menteri, gubernur, atau
+bupati/wali kota.
+(3) Laporan keuangan tahunan KSP/KSPPS yang termasuk
+dalam klasifikasi usaha KSP/KSPPS III dan IV
+sebagaimana dimaksud pada ayat (2) wajib
+dipublikasikan melalui media elektronik atau nonelektronik.
 
------
+BAB XII
+KETENTUAN LAIN-LAIN
 
-dibagi dalam 4 (empat) tingkat klasifikasi usaha Koperasi
-sebagai berikut:
-a. klasifikasi usaha KSP/KSPPS I memiliki jumlah anggota
-paling banyak 5.000 (lima ribu) orang, jumlah Modal
-Sendiri paling banyak Rp2.500.000.000,00 (dua miliar
-lima ratus juta rupiah), dan/atau jumlah Aset paling
-banyak Rp15.000.000.000,00 (lima belas miliar rupiah);
-b. klasifikasi usaha KSP/KSPPS II memiliki jumlah anggota
-lebih dari 5.000 (lima ribu) orang sampai dengan paling
-banyak 10.000 (sepuluh ribu) orang, jumlah Modal
-Sendiri lebih dari Rp2.500.000.000,00 (dua miliar lima
-ratus juta rupiah) sampai dengan paling banyak
-Rp15.000.000.000,00 (lima belas miliar rupiah),
-dan/atau jumlah Aset lebih dari Rp15.000.000.000,00
-(lima belas miliar rupiah) sampai dengan paling banyak
-Rp100.000.000.000,00 (seratus miliar rupiah);
-c. klasifikasi usaha KSP/KSPPS III memiliki jumlah anggota
-lebih dari 10.000 (sepuluh ribu) orang sampai dengan
-paling banyak 30.000 (tiga puluh ribu) orang, jumlah
-Modal Sendiri lebih dari Rp15.000.000.000,00 (lima belas
-miliar rupiah) sampai dengan paling banyak
-Rp50.000.000.000,00 (lima puluh miliar rupiah),
-dan/atau jumlah Aset lebih dari
-Rp100.000.000.000,00 (seratus miliar rupiah) sampai
-dengan paling banyak Rp500.000.000.000,00 (lima
-ratus miliar rupiah); dan
-d. klasifikasi usaha KSP/KSPPS IV memiliki jumlah anggota
-lebih dari 30.000 (tiga puluh ribu) orang, jumlah Modal
-Sendiri lebih dari Rp50.000.000.000,00 (lima puluh
-miliar rupiah), dan/atau jumlah Aset lebih dari
-Rp500.000.000.000,00 (lima ratus miliar rupiah).
+### Pasal 50 ^pasal-50
 
-BAB VII
-PENGURUS, PENGELOLA, PENGAWAS, DAN DEWAN
-
-PENGAWAS SYARIAH
-
-Bagian Kesatu
-Pengurus dan Pengelola
-
-Pasal 50
 (1) Pengurus KSP/KSPPS dan Koperasi yang memiliki
 USP/USPPS dipilih dari dan oleh anggota Koperasi serta
 diangkat dalam rapat anggota.
@@ -1908,7 +1816,6 @@ a. telah menjadi anggota Koperasi paling singkat 2
 b. memiliki pengetahuan, kemampuan, dan/atau
 pengalaman tentang pengelolaan organisasi dan
 usaha;
-
 
 -----
 
@@ -1942,7 +1849,8 @@ anggaran dasar.
 (3) huruf a dikecualikan untuk pembentukan Koperasi
 baru.
 
-Pasal 51
+### Pasal 51 ^pasal-51
+
 (1) Pengurus KSP/KSPPS dan Koperasi yang memiliki
 USP/USPPS bertanggungjawab mengenai segala kegiatan
 pengelolaan Koperasi dan usahanya kepada rapat
@@ -1951,7 +1859,8 @@ anggota.
 USP/USPPS diberhentikan oleh anggota dalam rapat
 anggota.
 
-Pasal 52
+### Pasal 52 ^pasal-52
+
 (1) Pengurus KSP/KSPPS dilarang:
 
 a. merangkap jabatan sebagai Pengawas atau Dewan
@@ -1966,10 +1875,10 @@ sebagai Pengurus atau Pengawas pada KSP/KSPPS
 lainnya untuk jangka waktu paling lama 1 (satu) periode
 kepengurusan.
 
-
 -----
 
-Pasal 53
+### Pasal 53 ^pasal-53
+
 (1) Pengurus Koperasi yang menjalankan kegiatan usaha
 simpan pinjam dapat mengangkat Pengelola KSP/KSPPS
 atau USP/USPPS Koperasi dengan mengajukan rencana
@@ -1998,7 +1907,8 @@ b. wewenang, tanggung jawab, hak dan kewajiban
 masing-masing pihak; dan
 c. penyelesaian perselisihan.
 
-Pasal 54
+### Pasal 54 ^pasal-54
+
 (1) Pengurus dan Pengelola wajib merahasiakan segala
 sesuatu yang berhubungan dengan Simpanan Anggota.
 (2) Ketentuan sebagaimana dimaksud pada ayat (1)
@@ -2016,7 +1926,8 @@ Bagian Kedua
 
 Pengawas
 
-Pasal 55
+### Pasal 55 ^pasal-55
+
 (1) Pengawas KSP/KSPPS dan Koperasi yang memiliki
 USP/USPPS dipilih dari dan oleh anggota serta diangkat
 pada rapat anggota.
@@ -2024,7 +1935,6 @@ pada rapat anggota.
 yang melaksanakan usaha simpan pinjam atau usaha
 simpan pinjam dan pembiayaan syariah berasal dari
 perwakilan yang diusulkan KSP/KSPPS anggotanya.
-
 
 -----
 
@@ -2063,14 +1973,16 @@ anggaran dasar.
 (3) huruf a dapat dikecualikan untuk pembentukan
 Koperasi baru.
 
-Pasal 56
+### Pasal 56 ^pasal-56
+
 (1) Pengawas KSP/KSPPS dan Koperasi yang memiliki
 USP/USPPS bertanggung jawab pada rapat anggota.
 (2) Pengawas KSP/KSPPS dan Koperasi yang memiliki
 USP/USPPS diberhentikan oleh anggota dalam rapat
 anggota.
 
-Pasal 57
+### Pasal 57 ^pasal-57
+
 (1) Pengawas KSP/KSPPS dilarang:
 
 a. merangkap jabatan sebagai Pengurus atau Dewan
@@ -2086,10 +1998,10 @@ sebagai Pengurus atau Pengawas pada KSP/KSPPS
 lainnya untuk jangka waktu paling lama 1 (satu) periode
 kepengurusan.
 
-
 -----
 
-Pasal 58
+### Pasal 58 ^pasal-58
+
 Apabila ditemukan permasalahan keuangan yang berpotensi
 menjadi kasus hukum, Pengawas KSP/KSPPS dan Koperasi
 yang memiliki USP/USPPS dapat meminta bantuan akuntan
@@ -2098,7 +2010,8 @@ publik untuk melakukan audit khusus.
 Bagian Ketiga
 Dewan Pengawas Syariah
 
-Pasal 59
+### Pasal 59 ^pasal-59
+
 (1) KSPPS/USPPS Koperasi wajib memiliki Dewan Pengawas
 Syariah yang mendapatkan rekomendasi dari lembaga
 yang memiliki kewenangan dalam penetapan fatwa di
@@ -2134,24 +2047,12 @@ KSPPS dan Koperasi yang memiliki USPPS dapat
 menetapkan persyaratan lain yang diatur dalam
 anggaran dasar.
 
-Pasal 60
-(1) Dewan Pengawas Syariah yang diangkat dari luar anggota
-KSPPS ditetapkan untuk masa jabatan 3 (tiga) tahun dan
-dapat diperpanjang berdasarkan keputusan rapat
-anggota.
-(2) Dewan Pengawas Syariah bertanggung jawab kepada
-rapat anggota.
-(3) Dewan Pengawas Syariah diberhentikan dalam rapat
-anggota.
+### Pasal 60 ^pasal-60
 
 
------
 
-(4) Dewan Pengawas Syariah dilarang merangkap jabatan
-sebagai Pengurus dan Pengawas pada KSPPS/USPPS
-Koperasi yang sama.
+### Pasal 61 ^pasal-61
 
-Pasal 61
 (1) Dewan Pengawas Syariah memiliki tugas sebagai berikut:
 a. memberikan nasihat dan saran kepada Pengurus
 dan Pengawas serta mengawasi kegiatan Koperasi
@@ -2172,7 +2073,8 @@ kepada lembaga yang memiliki kewenangan dalam
 penetapan fatwa di bidang syariah paling sedikit 1 (satu)
 tahun sekali.
 
-Pasal 62
+### Pasal 62 ^pasal-62
+
 KSPPS dalam satu wilayah kabupaten/kota dapat membentuk
 Dewan Pengawas Syariah bersama dalam rangka
 melaksanakan prinsip kerja sama antar Koperasi,
@@ -2185,41 +2087,12 @@ Bagian Kesatu
 
 Umum
 
-Pasal 63
-(1) KSP/KSPPS wajib menyediakan Modal Sendiri dan dapat
-ditambah dengan Modal Pinjaman dan/atau Modal
-Penyertaan.
-(2) Koperasi yang memiliki USP/USPPS Koperasi wajib
-menyediakan sebagian modal dari Koperasi untuk Modal
-Tetap kegiatan simpan pinjam.
-(3) Modal USP/USPPS Koperasi berupa Modal Tetap dan
-modal tidak tetap.
-(4) Modal USP/USPPS Koperasi sebagaimana dimaksud pada
-ayat (3) dikelola secara terpisah dari unit lainnya dalam
-Koperasi yang bersangkutan.
-(5) Jumlah Modal Sendiri sebagaimana dimaksud pada ayat
-(1) dan Modal Tetap USP/USPPS Koperasi sebagaimana
-dimaksud pada ayat (2) tidak boleh berkurang jumlahnya
-dari jumlah yang semula.
+### Pasal 63 ^pasal-63
 
 
------
 
-(6) Jumlah Simpanan Pokok, Simpanan Wajib, Simpanan
-lain yang memiliki karakteristik sama dengan Simpanan
-Wajib, dan/atau Modal Penyertaan untuk setiap anggota
-pada KSP/KSPPS Primer paling tinggi 20% (dua puluh
-persen) dari Modal Sendiri.
-(7) Jumlah Simpanan Pokok, Simpanan Wajib, dan
-Simpanan lain yang memiliki karakteristik sama dengan
-Simpanan Wajib, serta Modal Penyertaan dari 1 (satu)
-KSP/KSPPS Primer pada KSP/KSPPS Sekunder paling
-tinggi 50% (lima puluh persen) dari Modal Sendiri.
+### Pasal 64 ^pasal-64
 
-Bagian Kedua
-Modal Usaha Awal
-
-Pasal 64
 (1) Modal Usaha Awal terdiri atas Simpanan Pokok,
 Simpanan Wajib, dan Hibah, untuk Izin usaha
 KSP/KSPPS Primer atau Sekunder.
@@ -2230,7 +2103,8 @@ Koperasi primer atau Koperasi sekunder.
 Bagian Ketiga
 Modal Pinjaman
 
-Pasal 65
+### Pasal 65 ^pasal-65
+
 (1) Modal Pinjaman KSP/KSPPS sebagaimana dimaksud
 dalam Pasal 63 ayat (1) terdiri atas:
 a. Pinjaman KSP/KSPPS dari bank dan/atau lembaga
@@ -2247,7 +2121,8 @@ persen) dari jumlah Aset KSP/KSPPS.
 Bagian Keempat
 Modal Penyertaan
 
-Pasal 66
+### Pasal 66 ^pasal-66
+
 Modal Penyertaan sebagaimana dimaksud dalam pasal 63
 ayat (1) mempunyai karakteristik:
 a. diterbitkan oleh KSP/KSPPS atas dasar kelayakan usaha
@@ -2257,11 +2132,11 @@ c. menanggung Risiko kerugian usaha; dan
 d. memiliki perjanjian antara KSP/KSPPS dengan Pemodal
 yang melakukan Modal Penyertaan.
 
-Pasal 67
+### Pasal 67 ^pasal-67
+
 Perjanjian antara KSP/KSPPS dengan Pemodal sebagaimana
 dimaksud dalam Pasal 66 huruf d dibuat secara tertulis dan
 paling sedikit memuat:
-
 
 -----
 
@@ -2276,15 +2151,12 @@ h. tata cara pengalihan Modal Penyertaan yang dimiliki
 Pemodal dalam Koperasi; dan
 i. penyelesaian perselisihan.
 
-Pasal 68
-Modal Penyertaan yang dihimpun dari Pemodal paling tinggi
-25% (dua puluh lima persen) dari Aset KSP/KSPPS.
+### Pasal 68 ^pasal-68
 
-Bagian Kelima
+ayat (1), Pasal 80 ayat (3), Pasal 80 ayat (4), Pasal 82,
 
-Apex
+### Pasal 69 ^pasal-69
 
-Pasal 69
 (1) KSP/KSPPS dalam upaya memperkuat likuiditas
 keuangan, modal, dukungan teknis, pemantauan, dan
 supervisi harus membentuk Apex atau bergabung kepada
@@ -2294,7 +2166,8 @@ a. KSP/KSPPS yang ditunjuk oleh anggota untuk
 menjalankan fungsi koordinator Apex; dan/atau
 b. KSP/KSPPS Sekunder.
 
-Pasal 70
+### Pasal 70 ^pasal-70
+
 Apex sebagaimana dimaksud dalam Pasal 69 melaksanakan
 fungsi:
 a. pengumpulan dana bersama;
@@ -2302,7 +2175,8 @@ b. penyediaan dukungan finansial;
 c. penyediaan dukungan teknis; dan
 d. pemantauan dan supervisi.
 
-Pasal 71
+### Pasal 71 ^pasal-71
+
 Pembentukan Apex KSP/KSPPS bertujuan untuk:
 a. melindungi anggota KSP/KSPPS;
 b. meningkatkan kapasitas KSP/KSPPS dalam pengelolaan
@@ -2317,7 +2191,6 @@ lembaga penyedia layanan keuangan simpan pinjam
 dalam rangka menghadapi persaingan global, serta untuk
 mendukung terciptanya keuangan inklusif.
 
-
 -----
 
 BAB IX
@@ -2326,7 +2199,8 @@ PERAN PEMERINTAH DAN PEMERINTAH DAERAH
 Bagian Kesatu
 Bimbingan dan Pelindungan
 
-Pasal 72
+### Pasal 72 ^pasal-72
+
 (1) Menteri, gubernur, dan bupati/wali kota memberikan
 fasilitasi bimbingan dan pelindungan kepada usaha
 simpan pinjam Koperasi.
@@ -2358,7 +2232,8 @@ Cabang, Kantor Cabang Pembantu, dan Kantor Kas
 KSP/KSPPS dan USP/USPPS Koperasi yang
 berkedudukan di wilayahnya.
 
-Pasal 73
+### Pasal 73 ^pasal-73
+
 Bimbingan pelaksanaan usaha simpan pinjam oleh Koperasi
 sebagaimana dimaksud dalam Pasal 72 ayat (1) meliputi:
 a. mendorong, mengembangkan, dan membantu
@@ -2376,7 +2251,6 @@ simpan pinjam oleh Koperasi;
 f. memfasilitasi pemanfaatan teknologi dan informasi
 komunikasi;
 
-
 -----
 
 g. mendorong penerapan pemeriksaan kesehatan usaha
@@ -2390,7 +2264,8 @@ permasalahan yang dihadapi oleh usaha simpan pinjam
 oleh Koperasi dengan tetap memperhatikan anggaran
 dasar dan prinsip Koperasi.
 
-Pasal 74
+### Pasal 74 ^pasal-74
+
 (1) Pelindungan terhadap usaha simpan pinjam oleh
 Koperasi sebagaimana dimaksud dalam Pasal 72 ayat (1),
 Menteri, gubernur, dan bupati/wali kota dapat
@@ -2408,14 +2283,12 @@ daerah/wilayah dengan anggota lebih besar dari 25%
 diusahakan oleh lembaga jasa keuangan lainnya tanpa
 bekerjasama dengan Koperasi.
 
-
 Bagian Kedua
-
 
 Iklim Usaha
 
+### Pasal 75 ^pasal-75
 
-Pasal 75
 (1) Menteri, gubernur, dan bupati/wali kota menciptakan
 iklim usaha kondusif untuk mengembangkan usaha
 simpan pinjam oleh Koperasi.
@@ -2435,33 +2308,22 @@ dan kepatutan Pengurus, standar kompetensi
 Pengelola; dan
 h. menyusun pedoman pelaksanaan tugas Pengawas.
 
-
 -----
 
 BAB X
 PRINSIP MENGENALI PENGGUNA JASA
 
-
 LAYANAN SIMPAN PINJAM
-
 
 Bagian Kesatu
 Penerapan Prinsip
 
-Pasal 76
-(1) KSP/KSPPS dan USP/USPPS Koperasi wajib menerapkan
-PMPJ.
-(2) Dalam menerapkan PMPJ sebagaimana dimaksud pada
-ayat (1), KSP/KSPPS dan USP/USPPS Koperasi wajib:
-a. menetapkan kebijakan dan prosedur dalam
-mengidentifikasi anggota dan Koperasi lain;
-b. menetapkan kebijakan dan prosedur pemantauan
-terhadap rekening dan transaksi anggota dan
-Koperasi lain; dan
-c. menetapkan kebijakan dan prosedur manajemen
-Risiko yang berkaitan dengan penerapan PMPJ.
+### Pasal 76 ^pasal-76
 
-Pasal 77
+
+
+### Pasal 77 ^pasal-77
+
 (1) Pengurus KSP/KSPPS dan Pengurus Koperasi yang
 
 memiliki USP/USPPS wajib bertanggung jawab atas
@@ -2484,12 +2346,14 @@ Pembentukan Tim Satuan Tugas Pengawasan dan Pelaporan
 
 Transaksi Mencurigakan
 
-Pasal 78
+### Pasal 78 ^pasal-78
+
 KSP/KSPPS dan USP/USPPS Koperasi wajib membentuk unit
 satuan tugas pengawasan dan pelaporan transaksi
 mencurigakan.
 
-Pasal 79
+### Pasal 79 ^pasal-79
+
 (1) Menteri, gubernur, atau bupati/wali kota sesuai dengan
 kewenangannya dapat membentuk satuan tugas
 pengawasan dan pelaporan transaksi mencurigakan
@@ -2501,13 +2365,13 @@ mencurigakan sebagaimana dimaksud pada ayat (1)
 ditetapkan oleh Menteri, gubernur, atau bupati/wali kota
 sesuai dengan kewenangannya.
 
-
 -----
 
 Bagian Ketiga
 Identifikasi Anggota
 
-Pasal 80
+### Pasal 80 ^pasal-80
+
 (1) Sebelum KSP/KSPPS dan USP/USPPS Koperasi
 melakukan transaksi dengan anggota dan Koperasi lain,
 KSP/KSPPS dan USP/USPPS Koperasi wajib meminta
@@ -2527,7 +2391,8 @@ menggunakan media elektronik dalam pelayanan jasa
 KSP/KSPPS dan USP/USPPS Koperasi wajib melakukan
 pertemuan dengan anggota dan Koperasi lain sekurangkurangnya pada saat pembukaan rekening Simpanan.
 
-Pasal 81
+### Pasal 81 ^pasal-81
+
 Dokumen pendukung sebagaimana dimaksud dalam Pasal 80
 ayat (2) bagi:
 a. anggota paling sedikit terdiri atas:
@@ -2555,13 +2420,13 @@ dana;
 6. dokumen identitas Pengurus yang berwenang
 mewakili Koperasi lain.
 
-
 -----
 
 Bagian Keempat
 Pemantauan Rekening dan Transaksi
 
-Pasal 82
+### Pasal 82 ^pasal-82
+
 (1) KSP/KSPPS dan USP/USPPS Koperasi wajib melakukan
 pemantauan rekening dan transaksi dengan anggota dan
 Koperasi lain.
@@ -2573,25 +2438,20 @@ dalam Pasal 80 dan Pasal 81.
 Bagian Kelima
 Pembaruan dan Pencatatan Data
 
-Pasal 83
-(1) KSP/KSPPS dan USP/USPPS Koperasi wajib melakukan
+### Pasal 83 ^pasal-83
 
-pembaruan data dalam hal terdapat perubahan terhadap
-dokumen sebagaimana dimaksud dalam Pasal 81.
-(2) KSP/KSPPS dan USP/USPPS Koperasi wajib mencatat
 
-dan menyimpan dalam jangka waktu paling lama 2 (dua)
-tahun sejak anggota dan Koperasi lain menutup rekening
-Simpanan.
 
-Pasal 84
+### Pasal 84 ^pasal-84
+
 KSP/KSPPS dan USP/USPPS Koperasi harus memiliki sistem
 pencatatan yang dapat mengidentifikasi, menganalisa,
 memantau, dan menyediakan laporan secara efektif mengenai
 karakteristik transaksi yang dilakukan oleh anggota dan
 Koperasi lain.
 
-Pasal 85
+### Pasal 85 ^pasal-85
+
 KSP/KSPPS dan USP/USPPS Koperasi wajib mengelola profil
 anggota dan Koperasi lain paling sedikit meliputi informasi
 mengenai:
@@ -2601,19 +2461,19 @@ c. rekening lain yang dimiliki;
 d. aktivitas transaksi normal; dan
 e. tujuan pembukaan rekening Simpanan.
 
-Pasal 86
+### Pasal 86 ^pasal-86
+
 KSP/KSPPS dan USP/USPPS Koperasi wajib menyampaikan
 salinan kebijakan dan prosedur sebagaimana dimaksud dalam
-Pasal 76 ayat (2) kepada Menteri.
 
-Pasal 87
+### Pasal 87 ^pasal-87
+
 (1) KSP/KSPPS dan USP/USPPS Koperasi wajib
 menyampaikan laporan transaksi keuangan
 mencurigakan kepada lembaga yang mempunyai fungsi
 pencegahan dan pemberantasan tindak pidana pencucian
 uang paling lambat 3 (tiga) hari kerja setelah diketahui
 adanya unsur transaksi keuangan mencurigakan.
-
 
 -----
 
@@ -2625,7 +2485,8 @@ dengan ketentuan peraturan perundang-undangan.
 Bagian Keenam
 Pelaporan PMPJ
 
-Pasal 88
+### Pasal 88 ^pasal-88
+
 (1) KSP/KSPPS dan USP/USPPS Koperasi wajib
 menyampaikan laporan transaksi keuangan tunai yang
 melebihi Rp500.000.000 (lima ratus juta rupiah) kepada
@@ -2640,20 +2501,16 @@ uang.
 BAB XI
 PENGAWASAN DAN PELAPORAN
 
-
 Bagian Kesatu
-
 
 Pengawasan
 
-
 Paragraf 1
-
 
 Umum
 
+### Pasal 89 ^pasal-89
 
-Pasal 89
 (1) Pengawasan terhadap KSP/KSPPS dan USP/USPPS
 Koperasi dilakukan oleh:
 a. Menteri bagi KSP/KSPPS dan USP/USPPS Koperasi
@@ -2671,13 +2528,13 @@ c. profil Risiko;
 d. kinerja keuangan; dan
 e. permodalan.
 
-Pasal 90
+### Pasal 90 ^pasal-90
+
 (1) Izin usaha dan/atau Izin Jaringan Pelayanan
 sebagaimana dimaksud dalam Pasal 89 ayat (2) huruf a
 paling sedikit meliputi perizinan usaha simpan pinjam
 berbasis Risiko, dan Jaringan Pelayanan Kantor
 Cabang/Kantor Cabang Pembantu/Kantor Kas.
-
 
 -----
 
@@ -2699,7 +2556,8 @@ kepatutan pengelolaan permodalan.
 Paragraf 2
 Kewenangan dan Tugas Pengawasan
 
-Pasal 91
+### Pasal 91 ^pasal-91
+
 (1) Bupati/wali kota melaksanakan pengawasan Jaringan
 Pelayanan Kantor Cabang, Kantor Cabang Pembantu,
 dan Kantor Kas yang berkedudukan di wilayahnya untuk
@@ -2714,7 +2572,8 @@ b. gubernur untuk KSP/KSPPS dan USP/USPPS
 Koperasi dengan wilayah keanggotaan lintas daerah
 kabupaten/kota dalam 1 (satu) daerah provinsi.
 
-Pasal 92
+### Pasal 92 ^pasal-92
+
 (1) Pelaksanaan Pengawasan KSP/KSPPS dan USP/USPPS
 Koperasi sebagaimana dimaksud dalam Pasal 89 ayat (1)
 dapat dilakukan oleh tim Pengawas KSP/KSPPS dan
@@ -2729,13 +2588,13 @@ Koperasi paling sedikit terdiri atas ketua dan anggota.
 ditetapkan oleh Deputi/Kepala Dinas
 provinsi/kabupaten/kota.
 
-Pasal 93
+### Pasal 93 ^pasal-93
+
 Tugas pelaksanaan Pengawasan KSP/KSPPS dan USP/USPPS
 Koperasi meliputi:
 a. pengawasan terhadap seluruh fasilitas sarana dan
 prasarana yang berhubungan dengan pelaksanaan
 kegiatan usaha KSP/KSPPS dan USP/USPPS Koperasi;
-
 
 -----
 
@@ -2754,7 +2613,8 @@ KSP/KSPPS dan USP/USPPS Koperasi dengan tingkat
 kesehatan dalam pengawasan atau dalam pengawasan
 khusus.
 
-Pasal 94
+### Pasal 94 ^pasal-94
+
 Tim Pengawas KSP/KSPPS dan USP/USPPS Koperasi
 bertanggung jawab kepada:
 a. Menteri melalui Deputi untuk pengawasan KSP/KSPPS
@@ -2770,58 +2630,8 @@ kewenangan pemerintah daerah kabupaten/kota.
 Paragraf 3
 Jenis Pelaksanaan Pengawasan
 
-Pasal 95
-(1) Jenis pelaksanaan pengawasan KSP/KSPPS dan
-USP/USPPS Koperasi meliputi:
-a. pengawasan rutin; dan
-b. pengawasan sewaktu-waktu.
-(2) Jenis pelaksanaan pengawasan KSP/KSPPS dan
-USP/USPPS Koperasi sebagaimana dimaksud pada ayat
-(1) dapat dilakukan dengan menggunakan media
-teknologi informasi.
+### Pasal 95 ^pasal-95
 
-Pasal 96
-(1) Pengawasan rutin sebagaimana dimaksud dalam Pasal
-95 ayat (1) huruf a dapat dilakukan:
-a. secara langsung (on-site); atau
-b. secara tidak langsung (off-site),
-kepada KSP/KSPPS dan USP/USPPS Koperasi.
-(2) Pengawasan secara langsung (on-site) sebagaimana
-dimaksud pada ayat (1) huruf a dilakukan dengan
-mencari, mengumpulkan, mengolah, dan mengevaluasi
-data dan/atau keterangan mengenai KSP/KSPPS dan
-USP/USPPS Koperasi yang dilakukan di kantor Koperasi
-dan di tempat lain yang terkait langsung maupun tidak
-langsung dengan kegiatan KSP/KSPPS dan USP/USPPS
-Koperasi.
-
-
------
-
-(3) Pengawasan secara tidak langsung (off-site) sebagaimana
-dimaksud pada ayat (1) huruf b dilakukan dengan
-menganalisa dan memeriksa dokumen dan laporan
-tertulis yang wajib disampaikan secara berkala oleh
-KSP/KSPPS dan USP/USPPS Koperasi kepada Deputi
-atau Kepala Dinas sesuai dengan wilayah keanggotaan.
-(4) Dokumen dan laporan tertulis sebagaimana dimaksud
-pada ayat (3) paling sedikit meliputi:
-a. perubahan anggaran dasar, anggaran rumah tangga,
-Pengurus/Pengawas, dan alamat Koperasi;
-b. laporan pertanggungjawaban tahunan Pengurus dan
-Pengawas, berita acara, dan pernyataan keputusan
-rapat anggota ditandatangani oleh pimpinan,
-sekretaris rapat, dan salah satu wakil anggota; dan
-c. Rencana Kerja dan rencana anggaran pendapatan
-dan belanja Koperasi.
-(5) Selain Dokumen dan laporan tertulis sebagaimana
-dimaksud pada ayat (4), KSP/KSPPS dan USP/USPPS
-Koperasi dapat memberikan laporan keuangan yang telah
-dilakukan audit oleh akuntan publik.
-
-Pasal 97
-Pengawasan sewaktu-waktu sebagaimana dimaksud dalam
-Pasal 95 ayat (1) huruf b dilaksanakan berdasarkan:
 a. perintah dari pejabat yang berwenang sesuai dengan
 ketentuan peraturan perundang-undangan;
 b. laporan dari masyarakat yang disampaikan secara resmi
@@ -2832,28 +2642,42 @@ khusus dan dapat melibatkan instansi terkait.
 Paragraf 4
 Hasil Pengawasan
 
-Pasal 98
+### Pasal 96 ^pasal-96
+
+ayat (1), Pasal 106 ayat (2), dan Pasal 108 ayat (5) dikenai
+sanksi administrasi.
+(2) Sanksi administratif sebagaimana dimaksud pada ayat
+(1) berupa:
+a. teguran tertulis pertama dan kedua;
+b. penurunan penilaian kesehatan;
+c. usulan pemberhentian sementara terhadap
+Pengurus dan/atau Pengelola;
+d. pembekuan sementara Izin Usaha Simpan Pinjam
+pencabutan Izin Usaha Simpan Pinjam; dan/atau
+e. penutupan USP/USPPS Koperasi atau pembubaran
+KSP/KSPPS.
+(3) Pengenaan sanksi administratif sebagaimana dimaksud
+pada ayat (2), dilaksanakan sesuai dengan ketentuan
+peraturan perundang-undangan.
+
+-----
+
+BAB XIV
+KETENTUAN PERALIHAN
+
+### Pasal 97 ^pasal-97
+
+Pengawasan sewaktu-waktu sebagaimana dimaksud dalam
+
+### Pasal 98 ^pasal-98
+
 Hasil pengawasan KSP/KSPPS dan USP/USPPS Koperasi
 berupa LHPKK.
 
-Pasal 99
-(1) LHPKK berisi dokumen laporan tertulis hasil
-pemeriksaan kesehatan Koperasi dan pemberian skor
-tingkat kesehatan KSP/KSPPS dan USP/USPPS Koperasi.
-(2) Tingkat kesehatan KSP/KSPPS dan USP/USPPS Koperasi
-sebagaimana dimaksud pada ayat (1) terdiri atas:
-a. sehat;
-b. cukup sehat;
-c. dalam pengawasan; atau
-d. dalam pengawasan khusus.
+### Pasal 99 ^pasal-99
 
-Pasal 100
-(1) Terhadap KSP/KSPPS dan USP/USPPS Koperasi dengan
-tingkat kesehatan sehat sebagaimana dimaksud dalam
-Pasal 99 ayat (2) huruf a atau cukup sehat sebagaimana
 dimaksud dalam Pasal 99 ayat (2) huruf b diberikan
 sertifikat kesehatan.
-
 
 -----
 
@@ -2877,12 +2701,19 @@ USP/USPPS Koperasi melalui media elektronik.
 Paragraf 5
 Kerja Sama Pengawasan
 
-Pasal 101
+### Pasal 100 ^pasal-100
+
+(1) Terhadap KSP/KSPPS dan USP/USPPS Koperasi dengan
+tingkat kesehatan sehat sebagaimana dimaksud dalam
+
+### Pasal 101 ^pasal-101
+
 Dalam rangka sinergitas dan koordinasi, pengawasan
 KSP/KSPPS dan USP/USPPS Koperasi dapat dilakukan
 melalui kerja sama dengan instansi terkait.
 
-Pasal 102
+### Pasal 102 ^pasal-102
+
 Dalam hal diperlukan, Deputi atau Kepala Dinas dapat
 menunjuk akuntan publik untuk melakukan audit dengan
 biaya dibebankan kepada KSP/KSPPS dan USP/USPPS
@@ -2891,7 +2722,8 @@ Koperasi yang bersangkutan.
 Paragraf 6
 Tahapan Pengawasan
 
-Pasal 103
+### Pasal 103 ^pasal-103
+
 Tahapan pengawasan KSP/KSPPS dan USP/USPPS Koperasi
 terdiri atas:
 a. persiapan pemeriksaan secara langsung;
@@ -2899,7 +2731,8 @@ b. pelaksanaan pemeriksaan;
 c. pelaporan hasil pemeriksaan; dan/atau
 d. penerapan sanksi administratif.
 
-Pasal 104
+### Pasal 104 ^pasal-104
+
 (1) Pengawasan terhadap KSP/KSPPS dan USP/USPPS
 Koperasi dilakukan untuk meningkatkan kepercayaan
 anggota dan para pihak terhadap Koperasi yang
@@ -2913,20 +2746,17 @@ menteri yang menyelenggarakan urusan pemerintahan di
 bidang keuangan sesuai dengan ketentuan peraturan
 perundang-undangan.
 
-
 -----
 
 (3) Hasil audit sebagaimana dimaksud pada ayat (2)
 dilaporkan pada rapat anggota.
 
-
 Bagian Kedua
-
 
 Pelaporan
 
+### Pasal 105 ^pasal-105
 
-Pasal 105
 (1) KSP/KSPPS yang termasuk dalam klasifikasi usaha
 KSP/KSPPS I sebagaimana dimaksud dalam Pasal 49
 huruf a dan KSP/KSPPS yang termasuk dalam klasifikasi
@@ -2938,18 +2768,9 @@ bupati/wali kota.
 KSP/KSPPS III sebagaimana dimaksud dalam Pasal 49
 huruf c dan KSP/KSPPS yang termasuk dalam klasifikasi
 usaha KSP/KSPPS IV sebagaimana dimaksud dalam
-Pasal 49 huruf d wajib menyampaikan laporan keuangan
-setiap 3 (tiga) bulan kepada Menteri, gubernur, atau
-bupati/wali kota.
-(3) Laporan keuangan tahunan KSP/KSPPS yang termasuk
-dalam klasifikasi usaha KSP/KSPPS III dan IV
-sebagaimana dimaksud pada ayat (2) wajib
-dipublikasikan melalui media elektronik atau nonelektronik.
 
-BAB XII
-KETENTUAN LAIN-LAIN
+### Pasal 106 ^pasal-106
 
-Pasal 106
 (1) KSP/KSPPS dan USP/USPPS Koperasi wajib melaporkan
 kegiatan usahanya secara elektronik kepada Menteri
 berkaitan dengan pelayanan penghimpunan dana,
@@ -2972,10 +2793,10 @@ a. KSP/KSPPS dan USP/USPPS Koperasi; atau
 b. Koperasi yang melaksanakan kegiatan di dalam
 sektor jasa keuangan.
 
-
 -----
 
-Pasal 107
+### Pasal 107 ^pasal-107
+
 (1) Menteri melakukan penilaian terhadap laporan kegiatan
 usaha simpan pinjam oleh Koperasi sebagaimana
 dimaksud dalam Pasal 106.
@@ -3007,8 +2828,9 @@ usaha modal ventura dan kegiatan usaha lain yang
 ditetapkan dalam Undang-Undang mengenai sektor
 jasa keuangan.
 
-Pasal 108
-(1) Hasil penilaian sebagaimana dimaksud dalam Pasal  107
+### Pasal 108 ^pasal-108
+
+(1) Hasil penilaian sebagaimana dimaksud dalam Pasal 107
 dilakukan untuk menetapkan status Koperasi ke dalam
 kategori:
 a. KSP/KSPPS dan USP/USPPS Koperasi; atau
@@ -3032,7 +2854,6 @@ d. melakukan pengintegrasian kerja sama dengan
 
 KSP/KSPPS yang telah memiliki Izin usaha.
 
-
 -----
 
 (4) Koperasi yang melakukan pengintegrasian sebagaimana
@@ -3047,52 +2868,14 @@ bagi USP/USPPS Koperasi.
 BAB XIII
 SANKSI ADMINISTRATIF
 
-Pasal 109
+### Pasal 109 ^pasal-109
+
 (1) KSP/KSPPS dan/atau USP/USPPS yang melakukan
 pelanggaran atas ketentuan sebagaimana dimaksud
 dalam Pasal 5 ayat (3), Pasal 5 ayat (4), Pasal 6 ayat (2),
-Pasal 7 ayat (2), Pasal 22 ayat (1), Pasal 22 ayat (2), Pasal
-22 ayat (7) huruf a, Pasal 22 ayat (7) huruf d, Pasal 22
-ayat (7) huruf e, Pasal 23 ayat (7), Pasal 24 ayat (2), Pasal
-26 ayat (2), Pasal 26 ayat (4), Pasal 26 ayat (6), Pasal 27
-ayat (1), Pasal 27 ayat (3), Pasal 28 ayat (2), Pasal 28 ayat
-(3), Pasal 28 ayat (4), Pasal 30 ayat (11), Pasal 31 ayat (2),
-Pasal 33 ayat (3), Pasal 33 ayat (4), Pasal 34 ayat (2),
-Pasal 34 ayat (4), Pasal 34 ayat (5), Pasal 34 ayat (9),
-Pasal 35, Pasal 36 ayat (2), Pasal 36 ayat (3), Pasal 36
-ayat (4), Pasal 39 ayat (2), Pasal 39 ayat (3), Pasal 41
-ayat (2), Pasal 41 ayat (3), Pasal 44, Pasal 47, Pasal 52
-ayat (1), Pasal 53 ayat (5), Pasal 54 ayat (1), Pasal 54 ayat
-(3), Pasal 57 ayat (1), Pasal 59 ayat (1), Pasal 59 ayat (4),
-Pasal 60 ayat (4), Pasal 63 ayat (1), Pasal 63 ayat (2),
-Pasal 63 ayat (6), Pasal 63 ayat (7), Pasal 65 ayat (2),
-Pasal 68, Pasal 76, Pasal 77 ayat (1), Pasal 78, Pasal 80
-ayat (1), Pasal 80 ayat (3), Pasal 80 ayat (4), Pasal 82,
-Pasal 83, Pasal 85, Pasal 86, Pasal 87 ayat (1), Pasal 88,
-Pasal 96 ayat (3), Pasal 104 ayat (2), Pasal 105, Pasal 106
-ayat (1), Pasal 106 ayat (2), dan Pasal 108 ayat (5) dikenai
-sanksi administrasi.
-(2) Sanksi administratif sebagaimana dimaksud pada ayat
-(1) berupa:
-a. teguran tertulis pertama dan kedua;
-b. penurunan penilaian kesehatan;
-c. usulan pemberhentian sementara terhadap
-Pengurus dan/atau Pengelola;
-d. pembekuan sementara Izin Usaha Simpan Pinjam
-pencabutan Izin Usaha Simpan Pinjam; dan/atau
-e. penutupan USP/USPPS Koperasi atau pembubaran
-KSP/KSPPS.
-(3) Pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (2), dilaksanakan sesuai dengan ketentuan
-peraturan perundang-undangan.
 
+### Pasal 110 ^pasal-110
 
------
-
-BAB XIV
-KETENTUAN PERALIHAN
-
-Pasal 110
 Pada saat Peraturan Menteri ini mulai berlaku:
 a. KSP/KSPPS dan USP/USPPS Koperasi yang telah
 memiliki Izin Usaha Simpan Pinjam tetap dapat
@@ -3112,7 +2895,8 @@ tahun sejak Peraturan Menteri ini berlaku.
 BAB XV
 KETENTUAN PENUTUP
 
-Pasal 111
+### Pasal 111 ^pasal-111
+
 Pada saat Peraturan Menteri ini mulai berlaku:
 a. Peraturan Menteri Koperasi dan Usaha Kecil dan
 Menengah Nomor 15/Per/M.KUKM/IX/2015 tentang
@@ -3140,7 +2924,6 @@ Menengah Nomor 11 Tahun 2018 tentang Perizinan
 Usaha Simpan Pinjam Koperasi (Berita Negara Republik
 Indonesia Tahun 2019 Nomor 827); dan
 
-
 -----
 
 f. Ketentuan Pasal 1 angka 35, Pasal 59, Pasal 60, Pasal
@@ -3151,7 +2934,8 @@ tentang Penyelenggaraan dan Pembinaan Perkoperasian
 833),
 dicabut dan dinyatakan tidak berlaku.
 
-Pasal 112
+### Pasal 112 ^pasal-112
+
 Peraturan Menteri ini mulai berlaku pada tanggal
 diundangkan.
 
@@ -3182,6 +2966,123 @@ ttd.
 
 ASEP N. MULYANA
 
-
 -----
 
+## Penjelasan
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-1|Pasal 1]] | [[#^penjelasan-pasal-1|Penjelasan]] | - |
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | - |
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | - |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-8|Pasal 8]] | [[#^penjelasan-pasal-8|Penjelasan]] | - |
+| [[#^pasal-9|Pasal 9]] | [[#^penjelasan-pasal-9|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | - |
+| [[#^pasal-12|Pasal 12]] | [[#^penjelasan-pasal-12|Penjelasan]] | - |
+| [[#^pasal-13|Pasal 13]] | [[#^penjelasan-pasal-13|Penjelasan]] | - |
+| [[#^pasal-14|Pasal 14]] | [[#^penjelasan-pasal-14|Penjelasan]] | - |
+| [[#^pasal-15|Pasal 15]] | [[#^penjelasan-pasal-15|Penjelasan]] | - |
+| [[#^pasal-16|Pasal 16]] | [[#^penjelasan-pasal-16|Penjelasan]] | - |
+| [[#^pasal-17|Pasal 17]] | [[#^penjelasan-pasal-17|Penjelasan]] | - |
+| [[#^pasal-18|Pasal 18]] | [[#^penjelasan-pasal-18|Penjelasan]] | - |
+| [[#^pasal-19|Pasal 19]] | [[#^penjelasan-pasal-19|Penjelasan]] | - |
+| [[#^pasal-20|Pasal 20]] | [[#^penjelasan-pasal-20|Penjelasan]] | - |
+| [[#^pasal-21|Pasal 21]] | [[#^penjelasan-pasal-21|Penjelasan]] | - |
+| [[#^pasal-22|Pasal 22]] | [[#^penjelasan-pasal-22|Penjelasan]] | - |
+| [[#^pasal-23|Pasal 23]] | [[#^penjelasan-pasal-23|Penjelasan]] | - |
+| [[#^pasal-24|Pasal 24]] | [[#^penjelasan-pasal-24|Penjelasan]] | - |
+| [[#^pasal-25|Pasal 25]] | [[#^penjelasan-pasal-25|Penjelasan]] | - |
+| [[#^pasal-26|Pasal 26]] | [[#^penjelasan-pasal-26|Penjelasan]] | - |
+| [[#^pasal-27|Pasal 27]] | [[#^penjelasan-pasal-27|Penjelasan]] | - |
+| [[#^pasal-28|Pasal 28]] | [[#^penjelasan-pasal-28|Penjelasan]] | - |
+| [[#^pasal-29|Pasal 29]] | [[#^penjelasan-pasal-29|Penjelasan]] | - |
+| [[#^pasal-30|Pasal 30]] | [[#^penjelasan-pasal-30|Penjelasan]] | - |
+| [[#^pasal-31|Pasal 31]] | [[#^penjelasan-pasal-31|Penjelasan]] | - |
+| [[#^pasal-32|Pasal 32]] | [[#^penjelasan-pasal-32|Penjelasan]] | - |
+| [[#^pasal-33|Pasal 33]] | [[#^penjelasan-pasal-33|Penjelasan]] | - |
+| [[#^pasal-34|Pasal 34]] | [[#^penjelasan-pasal-34|Penjelasan]] | - |
+| [[#^pasal-35|Pasal 35]] | [[#^penjelasan-pasal-35|Penjelasan]] | - |
+| [[#^pasal-36|Pasal 36]] | [[#^penjelasan-pasal-36|Penjelasan]] | - |
+| [[#^pasal-37|Pasal 37]] | [[#^penjelasan-pasal-37|Penjelasan]] | - |
+| [[#^pasal-38|Pasal 38]] | [[#^penjelasan-pasal-38|Penjelasan]] | - |
+| [[#^pasal-39|Pasal 39]] | [[#^penjelasan-pasal-39|Penjelasan]] | - |
+| [[#^pasal-40|Pasal 40]] | [[#^penjelasan-pasal-40|Penjelasan]] | - |
+| [[#^pasal-41|Pasal 41]] | [[#^penjelasan-pasal-41|Penjelasan]] | - |
+| [[#^pasal-42|Pasal 42]] | [[#^penjelasan-pasal-42|Penjelasan]] | - |
+| [[#^pasal-43|Pasal 43]] | [[#^penjelasan-pasal-43|Penjelasan]] | - |
+| [[#^pasal-44|Pasal 44]] | [[#^penjelasan-pasal-44|Penjelasan]] | - |
+| [[#^pasal-45|Pasal 45]] | [[#^penjelasan-pasal-45|Penjelasan]] | - |
+| [[#^pasal-46|Pasal 46]] | [[#^penjelasan-pasal-46|Penjelasan]] | - |
+| [[#^pasal-47|Pasal 47]] | [[#^penjelasan-pasal-47|Penjelasan]] | - |
+| [[#^pasal-48|Pasal 48]] | [[#^penjelasan-pasal-48|Penjelasan]] | - |
+| [[#^pasal-49|Pasal 49]] | [[#^penjelasan-pasal-49|Penjelasan]] | - |
+| [[#^pasal-50|Pasal 50]] | [[#^penjelasan-pasal-50|Penjelasan]] | - |
+| [[#^pasal-51|Pasal 51]] | [[#^penjelasan-pasal-51|Penjelasan]] | - |
+| [[#^pasal-52|Pasal 52]] | [[#^penjelasan-pasal-52|Penjelasan]] | - |
+| [[#^pasal-53|Pasal 53]] | [[#^penjelasan-pasal-53|Penjelasan]] | - |
+| [[#^pasal-54|Pasal 54]] | [[#^penjelasan-pasal-54|Penjelasan]] | - |
+| [[#^pasal-55|Pasal 55]] | [[#^penjelasan-pasal-55|Penjelasan]] | - |
+| [[#^pasal-56|Pasal 56]] | [[#^penjelasan-pasal-56|Penjelasan]] | - |
+| [[#^pasal-57|Pasal 57]] | [[#^penjelasan-pasal-57|Penjelasan]] | - |
+| [[#^pasal-58|Pasal 58]] | [[#^penjelasan-pasal-58|Penjelasan]] | - |
+| [[#^pasal-59|Pasal 59]] | [[#^penjelasan-pasal-59|Penjelasan]] | - |
+| [[#^pasal-60|Pasal 60]] | [[#^penjelasan-pasal-60|Penjelasan]] | - |
+| [[#^pasal-61|Pasal 61]] | [[#^penjelasan-pasal-61|Penjelasan]] | - |
+| [[#^pasal-62|Pasal 62]] | [[#^penjelasan-pasal-62|Penjelasan]] | - |
+| [[#^pasal-63|Pasal 63]] | [[#^penjelasan-pasal-63|Penjelasan]] | - |
+| [[#^pasal-64|Pasal 64]] | [[#^penjelasan-pasal-64|Penjelasan]] | - |
+| [[#^pasal-65|Pasal 65]] | [[#^penjelasan-pasal-65|Penjelasan]] | - |
+| [[#^pasal-66|Pasal 66]] | [[#^penjelasan-pasal-66|Penjelasan]] | - |
+| [[#^pasal-67|Pasal 67]] | [[#^penjelasan-pasal-67|Penjelasan]] | - |
+| [[#^pasal-68|Pasal 68]] | [[#^penjelasan-pasal-68|Penjelasan]] | - |
+| [[#^pasal-69|Pasal 69]] | [[#^penjelasan-pasal-69|Penjelasan]] | - |
+| [[#^pasal-70|Pasal 70]] | [[#^penjelasan-pasal-70|Penjelasan]] | - |
+| [[#^pasal-71|Pasal 71]] | [[#^penjelasan-pasal-71|Penjelasan]] | - |
+| [[#^pasal-72|Pasal 72]] | [[#^penjelasan-pasal-72|Penjelasan]] | - |
+| [[#^pasal-73|Pasal 73]] | [[#^penjelasan-pasal-73|Penjelasan]] | - |
+| [[#^pasal-74|Pasal 74]] | [[#^penjelasan-pasal-74|Penjelasan]] | - |
+| [[#^pasal-75|Pasal 75]] | [[#^penjelasan-pasal-75|Penjelasan]] | - |
+| [[#^pasal-76|Pasal 76]] | [[#^penjelasan-pasal-76|Penjelasan]] | - |
+| [[#^pasal-77|Pasal 77]] | [[#^penjelasan-pasal-77|Penjelasan]] | - |
+| [[#^pasal-78|Pasal 78]] | [[#^penjelasan-pasal-78|Penjelasan]] | - |
+| [[#^pasal-79|Pasal 79]] | [[#^penjelasan-pasal-79|Penjelasan]] | - |
+| [[#^pasal-80|Pasal 80]] | [[#^penjelasan-pasal-80|Penjelasan]] | - |
+| [[#^pasal-81|Pasal 81]] | [[#^penjelasan-pasal-81|Penjelasan]] | - |
+| [[#^pasal-82|Pasal 82]] | [[#^penjelasan-pasal-82|Penjelasan]] | - |
+| [[#^pasal-83|Pasal 83]] | [[#^penjelasan-pasal-83|Penjelasan]] | - |
+| [[#^pasal-84|Pasal 84]] | [[#^penjelasan-pasal-84|Penjelasan]] | - |
+| [[#^pasal-85|Pasal 85]] | [[#^penjelasan-pasal-85|Penjelasan]] | - |
+| [[#^pasal-86|Pasal 86]] | [[#^penjelasan-pasal-86|Penjelasan]] | - |
+| [[#^pasal-87|Pasal 87]] | [[#^penjelasan-pasal-87|Penjelasan]] | - |
+| [[#^pasal-88|Pasal 88]] | [[#^penjelasan-pasal-88|Penjelasan]] | - |
+| [[#^pasal-89|Pasal 89]] | [[#^penjelasan-pasal-89|Penjelasan]] | - |
+| [[#^pasal-90|Pasal 90]] | [[#^penjelasan-pasal-90|Penjelasan]] | - |
+| [[#^pasal-91|Pasal 91]] | [[#^penjelasan-pasal-91|Penjelasan]] | - |
+| [[#^pasal-92|Pasal 92]] | [[#^penjelasan-pasal-92|Penjelasan]] | - |
+| [[#^pasal-93|Pasal 93]] | [[#^penjelasan-pasal-93|Penjelasan]] | - |
+| [[#^pasal-94|Pasal 94]] | [[#^penjelasan-pasal-94|Penjelasan]] | - |
+| [[#^pasal-95|Pasal 95]] | [[#^penjelasan-pasal-95|Penjelasan]] | - |
+| [[#^pasal-96|Pasal 96]] | [[#^penjelasan-pasal-96|Penjelasan]] | - |
+| [[#^pasal-97|Pasal 97]] | [[#^penjelasan-pasal-97|Penjelasan]] | - |
+| [[#^pasal-98|Pasal 98]] | [[#^penjelasan-pasal-98|Penjelasan]] | - |
+| [[#^pasal-99|Pasal 99]] | [[#^penjelasan-pasal-99|Penjelasan]] | - |
+| [[#^pasal-100|Pasal 100]] | [[#^penjelasan-pasal-100|Penjelasan]] | - |
+| [[#^pasal-101|Pasal 101]] | [[#^penjelasan-pasal-101|Penjelasan]] | - |
+| [[#^pasal-102|Pasal 102]] | [[#^penjelasan-pasal-102|Penjelasan]] | - |
+| [[#^pasal-103|Pasal 103]] | [[#^penjelasan-pasal-103|Penjelasan]] | - |
+| [[#^pasal-104|Pasal 104]] | [[#^penjelasan-pasal-104|Penjelasan]] | - |
+| [[#^pasal-105|Pasal 105]] | [[#^penjelasan-pasal-105|Penjelasan]] | - |
+| [[#^pasal-106|Pasal 106]] | [[#^penjelasan-pasal-106|Penjelasan]] | - |
+| [[#^pasal-107|Pasal 107]] | [[#^penjelasan-pasal-107|Penjelasan]] | - |
+| [[#^pasal-108|Pasal 108]] | [[#^penjelasan-pasal-108|Penjelasan]] | - |
+| [[#^pasal-109|Pasal 109]] | [[#^penjelasan-pasal-109|Penjelasan]] | - |
+| [[#^pasal-110|Pasal 110]] | [[#^penjelasan-pasal-110|Penjelasan]] | - |
+| [[#^pasal-111|Pasal 111]] | [[#^penjelasan-pasal-111|Penjelasan]] | - |
+| [[#^pasal-112|Pasal 112]] | [[#^penjelasan-pasal-112|Penjelasan]] | - |

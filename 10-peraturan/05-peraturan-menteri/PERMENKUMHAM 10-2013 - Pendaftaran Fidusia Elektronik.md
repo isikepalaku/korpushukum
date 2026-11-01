@@ -1,31 +1,32 @@
 ---
-id: "PERMENKUMHAM 10/2013"
+id: PERMENKUMHAM 10/2013
 jenis: PERMENKUMHAM
-lembaga: "Peraturan Menteri Hukum dan HAM"
+lembaga: PERMENKUMHAM
 nomor: 10
 tahun: 2013
-judul: "Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik"
-judul_singkat: "Pendaftaran Fidusia Elektronik"
-status: dicabut
-status_bpk: "Tidak Berlaku"
-status_catatan: "JDIH BPK: Tidak Berlaku (dicek 2026-10-28). "
-ditetapkan: 2013-03-05
-berlaku_mulai: 2013-03-05
-mencabut: []
-dicabut_oleh: ["PERMENKUMHAM 25/2021"]
-mengubah: []
-diubah_oleh: []
-terkait: []
-bidang: [keuangan]
-tags: [jenis/permenkumham, bidang/keuangan, status/dicabut]
-sumber: "https://peraturan.bpk.go.id/Details/174250/permenkumham-no-10-tahun-2013"
+judul: Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik
+judul_singkat: Pendaftaran Fidusia Elektronik
+status: berlaku
+status_bpk: Berlaku
+bidang:
+- keuangan
+tags:
+- jenis/permenkumham
+- bidang/keuangan
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik**
 
 # Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik
 
@@ -34,7 +35,6 @@ last_updated: 2026-10-28
 > Sumber: https://peraturan.bpk.go.id/Details/174164/permenkumham
 
 > Sumber: [JDIH BPK](https://peraturan.bpk.go.id/Details/174164/permenkumham)
-
 
 # BERITA NEGARA REPUBLIK INDONESIA
 
@@ -75,7 +75,6 @@ Jaminan Fidusia Secara Elektronik;
 
 Mengingat : 1. Undang-Undang Nomor 42 Tahun 1999 tentang
 Jaminan Fidusia (Lembaran Negara Republik
-
 
 -----
 
@@ -126,7 +125,6 @@ Nomor M.HH-05.OT.01.01 Tahun 2010 tentang
 Organisasi dan Tata Kerja Kementerian Hukum dan
 Hak Asasi Manusia Republik Indonesia;
 
-
 -----
 
 MEMUTUSKAN:
@@ -139,7 +137,7 @@ BAB I
 
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Menteri ini, yang dimaksud dengan:
 
@@ -173,7 +171,7 @@ di bidang hukum dan hak asasi manusia.
 untuk menerima permohonan dan menandatangani secara elektronik
 Sertifikat Jaminan Fidusia.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 (1) Permohonan Pendaftaran Jaminan Fidusia Secara Elektronik diajukan
 
@@ -182,7 +180,6 @@ kepada Menteri.
 (2) Pendaftaran Jaminan Fidusia sebagaimana dimaksud pada ayat (1)
 
 meliputi:
-
 
 -----
 
@@ -198,7 +195,7 @@ TATA CARA PENDAFTARAN PERMOHONAN JAMINAN FIDUSIA
 
 SECARA ELEKTRONIK
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 (1) Pendaftaran permohonan Jaminan Fidusia secara elektronik
 dilakukan dengan mengisi formulir aplikasi.
@@ -249,7 +246,6 @@ Jaminan Fidusia melalui Bank Persepsi.
 
 Pemohon mencetak sertifikat Jaminan Fidusia yang telah
 
-
 -----
 
 ditandatangani secara elektronik oleh Pejabat Pendaftaran Jaminan
@@ -261,7 +257,7 @@ TATA CARA PENDAFTARAN PERUBAHAN JAMINAN FIDUSIA
 
 SECARA ELEKTRONIK
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 (1) Pendaftaran perubahan Jaminan Fidusia secara elektronik dilakukan
 
@@ -310,12 +306,11 @@ Jaminan Fidusia melalui Bank Persepsi.
 Pemohon mencetak sertifikat perubahan Jaminan Fidusia yang telah
 ditandatangani secara elektronik oleh Pejabat.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 (1) Dalam hal pendaftaran perubahan Jaminan Fidusia dilakukan
 
 terhadap pendaftaran Jaminan Fidusia yang belum dilakukan secara
-
 
 -----
 
@@ -373,7 +368,7 @@ BAB IV
 
 TATA CARA PENDAFTARAN PENGHAPUSAN JAMINAN FIDUSIA
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 (1) Jaminan Fidusia hapus karena:
 
@@ -382,7 +377,6 @@ a. hapusnya utang yang dijamin dengan Fidusia;
 b. pelepasan hak atas Jaminan Fidusia oleh penerima fidusia; atau
 
 c. musnahnya benda yang menjadi objek Jaminan Fidusia.
-
 
 -----
 
@@ -414,7 +408,7 @@ BAB V
 
 KETENTUAN LAIN-LAIN
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 (1) Dalam hal terjadi kesalahan pengisian formulir setelah Pemohon
 
@@ -430,7 +424,7 @@ BAB VI
 
 KETENTUAN PERALIHAN
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
 Terhadap permohonan Pendaftaran Jaminan Fidusia yang diajukan
 sebelum berlakunya Peraturan Menteri ini, harus diselesaikan secara
@@ -441,18 +435,17 @@ BAB VII
 
 KETENTUAN PENUTUP
 
-Pasal 9
+### Pasal 9 ^pasal-9
 
 Pada saat Peraturan Menteri ini mulai berlaku, Keputusan Menteri
 Kehakiman dan Hak Asasi Manusia Nomor M.01.UM.01.06 Tahun 2000
-
 
 -----
 
 tentang Bentuk Formulir dan Tata Cara Pendaftaran Jaminan Fidusia,
 dicabut dan dinyatakan tidak berlaku.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 Peraturan Menteri ini mulai berlaku pada tanggal ditetapkan.
 
@@ -474,6 +467,21 @@ REPUBLIK INDONESIA,
 
 AMIR SYAMSUDIN
 
-
 -----
 
+## Penjelasan
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-1|Pasal 1]] | [[#^penjelasan-pasal-1|Penjelasan]] | - |
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | - |
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | - |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-8|Pasal 8]] | [[#^penjelasan-pasal-8|Penjelasan]] | - |
+| [[#^pasal-9|Pasal 9]] | [[#^penjelasan-pasal-9|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |

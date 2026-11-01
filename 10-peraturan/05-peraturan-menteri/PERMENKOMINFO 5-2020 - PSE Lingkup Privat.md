@@ -1,29 +1,42 @@
 ---
-id: "PERMENKOMINFO 5/2020"
+id: PERMENKOMINFO 5/2020
 jenis: PERMENKOMINFO
-lembaga: "Peraturan Menteri Komunikasi dan Informatika"
+lembaga: Peraturan Menteri Komunikasi dan Informatika
 nomor: 5
 tahun: 2020
-judul: "Penyelenggara Sistem Elektronik Lingkup Privat"
-judul_singkat: "PSE Lingkup Privat"
+judul: Penyelenggara Sistem Elektronik Lingkup Privat
+judul_singkat: PSE Lingkup Privat
 status: berlaku
-status_bpk: "Berlaku"
+status_bpk: Berlaku
 ditetapkan: 2020-11-16
 berlaku_mulai: 2020-11-24
-mencabut: ["PERMENKOMINFO 19/2014", "PERMENKOMINFO 36/2014"]
+mencabut:
+- PERMENKOMINFO 19/2014
+- PERMENKOMINFO 36/2014
 dicabut_oleh: []
 mengubah: []
-diubah_oleh: ["PERMENKOMINFO 10/2021"]
+diubah_oleh:
+- PERMENKOMINFO 10/2021
 terkait: []
-bidang: [siber]
-tags: [jenis/permenkominfo, bidang/siber, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/203049/permenkominfo-no-5-tahun-2020"
+bidang:
+- siber
+tags:
+- jenis/permenkominfo
+- bidang/siber
+- status/berlaku
+sumber: https://peraturan.bpk.go.id/Details/203049/permenkominfo-no-5-tahun-2020
 kelengkapan: lengkap
 verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
+verifikasi_sumber: JDIH BPK
 verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Penyelenggara Sistem Elektronik Lingkup Privat

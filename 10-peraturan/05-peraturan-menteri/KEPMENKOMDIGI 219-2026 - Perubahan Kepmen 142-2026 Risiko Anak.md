@@ -1,25 +1,36 @@
 ---
-id: "KEPMENKOMDIGI 219/2026"
+id: KEPMENKOMDIGI 219/2026
 jenis: KEPMENKOMDIGI
-lembaga: "Keputusan Menteri Komunikasi dan Digital"
+lembaga: Keputusan Menteri Komunikasi dan Digital
 nomor: 219
 tahun: 2026
-judul: "Keputusan Menteri Komunikasi dan Digital Nomor 219 Tahun 2026 tentang Perubahan atas Keputusan Menteri Nomor 142 Tahun 2026"
-judul_singkat: "Perubahan Kepmen 142-2026 Risiko Anak"
+judul: Keputusan Menteri Komunikasi dan Digital Nomor 219 Tahun 2026 tentang Perubahan
+  atas Keputusan Menteri Nomor 142 Tahun 2026
+judul_singkat: Perubahan Kepmen 142-2026 Risiko Anak
 status: perlu-verifikasi
-status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
+status_catatan: 'Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. '
 mencabut: []
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
-bidang: [siber]
-tags: [jenis/kepmenkomdigi, bidang/siber, status/perlu-verifikasi]
-sumber: "https://jdih.komdigi.go.id/produk_hukum/view/id/1011/t/keputusan+menteri+komunikasi+dan+digital+nomor+219+tahun+2026"
+bidang:
+- siber
+tags:
+- jenis/kepmenkomdigi
+- bidang/siber
+- status/perlu-verifikasi
+sumber: https://jdih.komdigi.go.id/produk_hukum/view/id/1011/t/keputusan+menteri+komunikasi+dan+digital+nomor+219+tahun+2026
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Keputusan Menteri Komunikasi dan Digital Nomor 219 Tahun 2026 tentang Perubahan atas Keputusan Menteri Nomor 142 Tahun 2026

@@ -1,30 +1,33 @@
 ---
-id: "POJK 69/2016"
+id: POJK 69/2016
 jenis: POJK
-lembaga: "Peraturan Otoritas Jasa Keuangan"
+lembaga: POJK
 nomor: 69
 tahun: 2016
-judul: "Penyelenggaraan Usaha Perusahaan Asuransi, Perusahaan Asuransi Syariah, Perusahaan Reasuransi, dan Perusahaan Reasuransi Syariah"
-judul_singkat: "Penyelenggaraan Usaha Perusahaan Asuransi"
+judul: Penyelenggaraan Usaha Perusahaan Asuransi, Perusahaan Asuransi Syariah, Perusahaan
+  Reasuransi, dan Perusahaan Reasuransi Syariah
+judul_singkat: Penyelenggaraan Usaha Perusahaan Asuransi
 status: berlaku
-status_bpk: "Berlaku"
-ditetapkan: 2016-12-23
-berlaku_mulai: 2016-12-28
-mencabut: []
-dicabut_oleh: []
-mengubah: []
-diubah_oleh: ["POJK 38/2020"]
-terkait: []
-bidang: [keuangan]
-tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/128416/peraturan-ojk-no-69pojk052016-tahun-2016"
+status_bpk: Berlaku
+bidang:
+- keuangan
+tags:
+- jenis/pojk
+- bidang/keuangan
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Penyelenggaraan Usaha Perusahaan Asuransi, Perusahaan Asuransi Syariah, Perusahaan Reasuransi, dan Perusahaan Reasuransi Syariah**
 
 # Penyelenggaraan Usaha Perusahaan Asuransi, Perusahaan Asuransi Syariah, Perusahaan Reasuransi, dan Perusahaan Reasuransi Syariah
 
@@ -34,11 +37,9 @@ last_updated: 2026-10-28
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/128416/peraturan-ojk-no-69pojk052016-tahun-2016)
 
-
 OTORITAS JASA KEUANGAN
 
 REPUBLIK INDONESIA
-
 
 PERATURAN OTORITAS JASA KEUANGAN
 
@@ -58,54 +59,7 @@ DEWAN KOMISIONER OTORITAS JASA KEUANGAN,
 
 Menimbang : bahwa untuk melaksanakan ketentuan Pasal 5 ayat (3),
 
-Pasal 18 ayat (4), Pasal 26 ayat (2), Pasal 28 ayat (6), Pasal
-
-29 ayat (5), Pasal 31 ayat (5), dan Pasal 39 ayat (3) Undang
-Undang Nomor 40 Tahun 2014 tentang Perasuransian,
-
-perlu menetapkan Peraturan Otoritas Jasa Keuangan
-
-tentang Penyelenggaraan Usaha Perusahaan Asuransi,
-
-Perusahaan Asuransi Syariah, Perusahaan Reasuransi, dan
-
-Perusahaan Reasuransi Syariah;
-
-Mengingat : 1. Undang-Undang Nomor 21 Tahun 2011 tentang
-
-Otoritas Jasa Keuangan (Lembaran Negara Republik
-
-Indonesia Tahun 2011 Nomor 111, Tambahan
-
-Lembaran Negara Republik Indonesia Nomor 5253);
-
-2. Undang-Undang Nomor 40 Tahun 2014 tentang
-
-Perasuransian (Lembaran Negara Republik Indonesia
-
-Tahun 2014 Nomor 337, Tambahan Lembaran Negara
-
-Republik Indonesia Nomor 5618);
-
-
------
-
-                       - 2 
-MEMUTUSKAN:
-
-Menetapkan : PERATURAN OTORITAS JASA KEUANGAN TENTANG
-
-PENYELENGGARAAN USAHA PERUSAHAAN ASURANSI,
-
-PERUSAHAAN ASURANSI SYARIAH, PERUSAHAAN
-
-REASURANSI, DAN PERUSAHAAN REASURANSI SYARIAH.
-
-BAB I
-
-KETENTUAN UMUM
-
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Otoritas Jasa Keuangan ini yang
 
@@ -159,10 +113,9 @@ tertanggung, atau pihak lain yang berhak dalam hal
 
 tertanggung meninggal dunia atau tetap hidup, atau
 
-
 -----
 
-            - 3 
+ - 3 
 pembayaran lain kepada pemegang polis, tertanggung,
 
 atau pihak lain yang berhak pada waktu tertentu yang
@@ -237,10 +190,9 @@ Perasuransian.
 
 risiko berdasarkan prinsip syariah atas risiko yang
 
-
 -----
 
-            - 4 
+ - 4 
 dihadapi oleh Perusahaan Asuransi Syariah,
 
 perusahaan penjaminan syariah, atau perusahaan
@@ -311,10 +263,9 @@ Syariah yang melakukan penempatan reasuransi atau
 
 reasuransi syariah.
 
-
 -----
 
-            - 5 
+ - 5 
 18. Perusahaan Ceding adalah:
 
 a. Perusahaan Asuransi Umum yang mengalihkan
@@ -387,10 +338,9 @@ Reasuransi Syariah atau unit syariah pada
 
 Perusahaan Reasuransi.
 
-
 -----
 
-            - 6 
+ - 6 
 19. Prinsip Syariah adalah prinsip hukum Islam dalam
 
 kegiatan perasuransian berdasarkan fatwa yang
@@ -462,10 +412,9 @@ undangan yang mendasari program asuransi wajib
 
 untuk memperoleh manfaat sebagaimana dimaksud
 
-
 -----
 
-            - 7 
+ - 7 
 dalam Undang-Undang Nomor 40 Tahun 2014 tentang
 
 Perasuransian.
@@ -540,10 +489,9 @@ kesepakatan tertentu, beserta hak dan kewajiban para
 
 pihak sesuai Prinsip Syariah.
 
-
 -----
 
-            - 8 
+ - 8 
 31. Akad _Tabarru’ adalah Akad_ _hibah dalam bentuk_
 
 pemberian dana dari satu peserta kepada Dana
@@ -616,10 +564,9 @@ berdasarkan komposisi kekayaan yang digabungkan
 
 dan telah disepakati sebelumnya.
 
-
 -----
 
-            - 9 
+ - 9 
 36. Program Asuransi Wajib adalah program yang
 
 diwajibkan peraturan perundang-undangan bagi
@@ -663,7 +610,7 @@ Perusahaan Asuransi Syariah, Perusahaan Reasuransi,
 
 dan Perusahaan Reasuransi Syariah
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 (1) Perusahaan Asuransi Umum hanya dapat
 
@@ -687,65 +634,18 @@ usaha anuitas, lini usaha asuransi kesehatan, dan lini
 
 usaha asuransi kecelakaan diri.
 
-
 -----
 
-           - 10 
+ - 10 
 (3) Perusahaan Reasuransi hanya dapat
 
 menyelenggarakan Usaha Reasuransi.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
-(1) Perusahaan Asuransi Umum Syariah dan Unit Syariah
+ayat (3), Pasal 8 ayat (1), ayat (2), dan ayat (3),
 
-pada Perusahaan Asuransi Umum hanya dapat
-
-menyelenggarakan:
-
-a. Usaha Asuransi Umum Syariah, termasuk lini
-
-usaha asuransi kesehatan berdasarkan Prinsip
-
-Syariah dan lini usaha asuransi kecelakaan diri
-
-berdasarkan Prinsip Syariah; dan
-
-b. Usaha Reasuransi Syariah untuk risiko
-
-Perusahaan Asuransi Umum Syariah atau Unit
-
-Syariah pada Perusahaan Asuransi Umum lain.
-
-(2) Perusahaan Asuransi Jiwa Syariah dan Unit Syariah
-
-pada Perusahaan Asuransi Jiwa hanya dapat
-
-menyelenggarakan Usaha Asuransi Jiwa Syariah
-
-termasuk lini usaha anuitas berdasarkan Prinsip
-
-Syariah, lini usaha asuransi kesehatan berdasarkan
-
-Prinsip Syariah, dan lini usaha asuransi kecelakaan
-
-diri berdasarkan Prinsip Syariah.
-
-(3) Perusahaan Reasuransi Syariah dan Unit Syariah
-
-pada Perusahaan Reasuransi hanya dapat
-
-menyelenggarakan Usaha Reasuransi Syariah.
-
-Bagian Kedua
-
-Perluasan Ruang Lingkup Usaha Asuransi Umum,
-
-Usaha Asuransi Jiwa, Usaha Asuransi Umum Syariah,
-
-dan Usaha Asuransi Jiwa Syariah
-
-Pasal 4
+### Pasal 4 ^pasal-4
 
 Ruang lingkup usaha Perusahaan Asuransi atau
 
@@ -759,10 +659,9 @@ a. Perusahaan Asuransi Umum hanya dapat melakukan
 
 perluasan ruang lingkup usaha pada:
 
-
 -----
 
-           - 11 
+ - 11 
 1. kegiatan usaha PAYDI;
 
 2. kegiatan usaha berbasis imbalan jasa (fee based);
@@ -829,64 +728,39 @@ Asuransi Syariah hasil _spin-off_ paling lama 2 (dua)
 
 tahun sejak dilakukannya spin-off.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
-(1) Rencana perluasan ruang lingkup usaha yang akan
+(1) dan ayat (2), Pasal 9, Pasal 12 ayat (3), Pasal
 
-dilakukan oleh Perusahaan Asuransi, Perusahaan
+14, Pasal 15 ayat (1), ayat (2), ayat (4), dan ayat
 
+(5), Pasal 16 ayat (1) dan ayat (2), Pasal 17, Pasal
 
------
+18, Pasal 19, Pasal 20, ayat (3), dan ayat (4), Pasal
 
-           - 12 
-Asuransi Syariah, atau Unit Syariah pada Perusahaan
+24, Pasal 25 ayat (1), Pasal 26, Pasal 27 ayat (2),
 
-Asuransi wajib dicantumkan dalam rencana bisnis
+### Pasal 6 ^pasal-6
 
-Perusahaan Asuransi atau Perusahaan Asuransi
+perluasan ruang lingkup usaha pada kegiatan usaha
 
-Syariah.
+Asuransi Kredit dan Suretyship wajib memenuhi peraturan
 
-(2) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
+perundang-undangan di bidang penyelenggaraan usaha
 
-atau Unit Syariah pada Perusahaan Asuransi yang
+Asuransi Kredit dan _Suretyship_ serta memperhatikan
 
-akan melakukan perluasan ruang lingkup usaha
+peraturan perundang-undangan di bidang penjaminan.
 
-sebagaimana dimaksud dalam Pasal 4, wajib terlebih
+BAB III
 
-dahulu mendapatkan persetujuan dari OJK.
+STANDAR PERILAKU USAHA
 
-Pasal 6
+Bagian Kesatu
 
-Untuk memperoleh persetujuan perluasan ruang lingkup
+Pra Penjualan, Keagenan, dan Pialang
 
-usaha sebagaimana dimaksud dalam Pasal 4 Perusahaan
-
-Asuransi, Perusahaan Asuransi Syariah, atau Unit Syariah
-
-pada Perusahaan Asuransi harus memenuhi ketentuan:
-
-a. tingkat solvabilitas minimum Perusahaan Asuransi,
-
-Perusahaan Asuransi Syariah, atau Unit Syariah pada
-
-Perusahaan Asuransi;
-
-b. tidak sedang dikenai sanksi pembatasan kegiatan
-
-usaha untuk Perusahaan Asuransi, Perusahaan
-
-Asuransi Syariah, atau Unit Syariah pada Perusahaan
-
-Asuransi; dan
-
-c. berdasarkan hasil penilaian risiko yang dilakukan oleh
-
-OJK memiliki tingkat risiko rendah atau sedang
-rendah.
-
-Pasal 7
+### Pasal 7 ^pasal-7
 
 (1) Selain memenuhi ketentuan sebagaimana dimaksud
 
@@ -908,10 +782,9 @@ miliar rupiah) untuk Perusahaan Asuransi
 
 Umum;
 
-
 -----
 
-           - 13 
+ - 13 
 b. memiliki modal sendiri paling sedikit sebesar
 
 Rp150.000.000.000,00 (seratus lima puluh miliar
@@ -962,37 +835,7 @@ menghentikan pemasaran PAYDI.
 
 (4) Persetujuan dari OJK sebagaimana dimaksud dalam
 
-Pasal 5 ayat (2) bagi Perusahaan Asuransi Umum,
-
-Perusahaan Asuransi Umum Syariah, dan Unit
-
-Syariah pada Perusahaan Asuransi Umum diberikan
-
-dalam bentuk surat persetujuan PAYDI.
-
-(5) Selain memenuhi ketentuan dalam Pasal 5 dan Pasal
-
-6, untuk memperoleh persetujuan sebagaimana
-
-dimaksud pada ayat (4) harus juga memenuhi
-
-persyaratan sebagaimana diatur dalam peraturan OJK
-
-mengenai produk asuransi dan pemasaran produk
-
-asuransi dan peraturan pelaksanaannya.
-
-
------
-
-           - 14 
-(6) Ketentuan lebih lanjut mengenai PAYDI sebagaimana
-
-dimaksud pada ayat (1) sampai dengan ayat (4) diatur
-
-dalam Surat Edaran OJK mengenai PAYDI.
-
-Pasal 8
+### Pasal 8 ^pasal-8
 
 (1) Selain memenuhi ketentuan sebagaimana dimaksud
 
@@ -1058,10 +901,9 @@ dikenai sanksi administratif berupa sanksi
 
 pembatasan kegiatan usaha, Perusahaan Asuransi,
 
-
 -----
 
-           - 15 
+ - 15 
 Perusahaan Asuransi Syariah, dan Unit Syariah pada
 
 Perusahaan Asuransi wajib menghentikan kegiatan
@@ -1082,35 +924,13 @@ kontrak yang telah disepakati sampai berakhirnya
 
 kontrak tersebut dan tidak dapat diperpanjang.
 
-Pasal 9
+### Pasal 9 ^pasal-9
 
-Perusahaan Asuransi, Perusahaan Asuransi Syariah, atau
+ayat (1), ayat (2), ayat (4), dan ayat (5), Pasal 16
 
-Unit Syariah pada Perusahaan Asuransi yang melakukan
+ayat (1) dan ayat (2), Pasal 17, Pasal 18, Pasal 19,
 
-kegiatan usaha berbasis imbalan jasa (fee based) wajib
-
-memiliki sistem pengendalian internal secara tertulis
-
-terhadap produk berbasis imbalan jasa (fee based) yang
-
-akan dipasarkan, paling sedikit memuat:
-
-a. pemberian wewenang dan tanggung jawab yang dapat
-
-menghindari timbulnya benturan kepentingan (conflict
-
-_of interest);_
-
-b. prosedur operasi standar pelaksanaan kegiatan
-
-produk berbasis imbalan jasa (fee based); dan
-
-c. upaya dan tindakan yang dilakukan untuk
-
-memperbaiki penyimpangan yang terjadi.
-
-Pasal 10
+### Pasal 10 ^pasal-10
 
 (1) Untuk mendapatkan persetujuan perluasan ruang
 
@@ -1132,15 +952,14 @@ permintaan kelengkapan dokumen terhadap
 
 permohonan perluasan ruang lingkup usaha berbasis
 
-
 -----
 
-           - 16 
+ - 16 
 jasa (fee based) paling lama 20 (dua puluh) hari kerja
 
 setelah permohonan diterima secara lengkap.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 
 (1) Apabila dalam jangka waktu 20 (dua puluh) hari kerja
 
@@ -1178,7 +997,7 @@ harus menyampaikan kembali permohonannya kepada
 
 OJK.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 (1) Total pendapatan jasa yang diperoleh Perusahaan
 
@@ -1206,10 +1025,9 @@ Syariah yang diterima dari kegiatan Usaha Asuransi
 
 Umum Syariah atau Usaha Asuransi Jiwa Syariah
 
-
 -----
 
-           - 17 
+ - 17 
 dalam satu periode tahun buku berdasarkan laporan
 
 keuangan tahunan yang telah diaudit.
@@ -1226,31 +1044,11 @@ dalam satu periode tahun buku berdasarkan laporan
 
 keuangan tahunan yang telah diaudit.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 Selain memenuhi ketentuan sebagaimana dimaksud dalam
 
-Pasal 6, Perusahaan Asuransi Umum yang melakukan
-
-perluasan ruang lingkup usaha pada kegiatan usaha
-
-Asuransi Kredit dan Suretyship wajib memenuhi peraturan
-
-perundang-undangan di bidang penyelenggaraan usaha
-
-Asuransi Kredit dan _Suretyship_ serta memperhatikan
-
-peraturan perundang-undangan di bidang penjaminan.
-
-BAB III
-
-STANDAR PERILAKU USAHA
-
-Bagian Kesatu
-
-Pra Penjualan, Keagenan, dan Pialang
-
-Pasal 14
+### Pasal 14 ^pasal-14
 
 Perusahaan atau Unit Syariah wajib menyediakan
 
@@ -1264,7 +1062,7 @@ atau Perusahaan _Ceding terkait produk asuransi atau_
 
 produk asuransi syariah yang dipasarkan.
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 (1) Dalam melakukan promosi atau iklan, Perusahaan
 
@@ -1272,10 +1070,9 @@ atau Unit Syariah wajib melakukan upaya terbaik
 
 untuk memastikan bahwa informasi yang diberikan
 
-
 -----
 
-           - 18 
+ - 18 
 dalam promosi atau iklan tersebut disampaikan secara
 
 akurat, jelas, dan tidak menyesatkan.
@@ -1338,7 +1135,7 @@ sedikit sebagaimana diatur pada ayat (4) huruf a, huruf b,
 
 dan huruf f.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 
@@ -1348,10 +1145,9 @@ menggunakan Agen Asuransi wajib memastikan
 
 bahwa Agen Asuransi:
 
-
 -----
 
-           - 19 
+ - 19 
 a. memiliki sertifikat keagenan sesuai dengan
 
 bidang usahanya; dan
@@ -1426,11 +1222,11 @@ konsekuensi yang timbul dari penutupan asuransi
 
 yang dilakukan oleh Agen Asuransi bersangkutan.
 
-
 -----
 
-           - 20 
-Pasal 17
+ - 20
+
+### Pasal 17 ^pasal-17
 
 (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 
@@ -1504,10 +1300,9 @@ membujuk dan/atau mempengaruhi pemegang
 
 polis, tertanggung, atau peserta untuk merubah
 
-
 -----
 
-           - 21 
+ - 21 
 spesifikasi polis yang ada atau mengganti polis
 
 yang ada dengan polis yang baru pada
@@ -1526,7 +1321,7 @@ Asuransi, Perusahaan Asuransi Syariah, atau
 
 Unit Syariah pada Perusahaan Asuransi lainnya.
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 Perusahaan Asuransi, Perusahaan Asuransi Syariah, atau
 
@@ -1580,10 +1375,9 @@ kerja sejak ada keputusan penerimaan atau penolakan
 
 pertanggungan;
 
-
 -----
 
-           - 22 
+ - 22 
 d. menginformasikan dokumen yang diperlukan untuk
 
 pengajuan formulir permohonan penutupan asuransi;
@@ -1606,7 +1400,7 @@ pertanggungan asuransi secara lengkap sesuai dengan
 
 dokumen yang disampaikan.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 
 Dalam hal Agen Asuransi tidak lagi menjadi Agen Asuransi
 
@@ -1628,23 +1422,11 @@ b. memberikan informasi Agen Asuransi pengganti atau
 
 petugas pelayanan pelanggan (customer service officer).
 
-Pasal 20
+### Pasal 20 ^pasal-20
 
-Perusahaan Asuransi, Perusahaan Asuransi Syariah, atau
+ayat (1), Pasal 26, Pasal 27 ayat (2), Pasal 28,
 
-Unit Syariah pada Perusahaan Asuransi wajib memberikan
-
-pengetahuan secara berkelanjutan paling sedikit 2 (dua)
-
-kali dalam 1 (satu) tahun mengenai produk asuransi atau
-
-produk asuransi syariah yang dipasarkan termasuk tata
-
-cara pemasaran, dan prosedur pengajuan klaim kepada
-
-Agen Asuransi.
-
-Pasal 21
+### Pasal 21 ^pasal-21
 
 (1) Penyelesaian sengketa Perusahaan Asuransi,
 
@@ -1652,10 +1434,9 @@ Perusahaan Asuransi Syariah, atau Unit Syariah pada
 
 Perusahaan Asuransi sebagai akibat dari penggunaan
 
-
 -----
 
-           - 23 
+ - 23 
 Agen Asuransi dalam rangka kegiatan pemasaran
 
 produk asuransi, diselesaikan secara musyawarah dan
@@ -1674,7 +1455,7 @@ Asuransi Syariah, atau Unit Syariah pada Perusahaan
 
 Asuransi.
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 (1) Perusahaan atau Unit Syariah dapat menerima
 
@@ -1714,7 +1495,7 @@ Bagian Kedua
 
 Polis, Premi, atau Kontribusi
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 Dalam hal penutupan asuransi atau asuransi syariah
 
@@ -1724,17 +1505,16 @@ asuransi syariah dinyatakan mulai berlaku dan mengikat
 
 para pihak terhitung sejak Premi atau kontribusi diterima
 
-
 -----
 
-           - 24 
+ - 24 
 oleh Agen Asuransi dan/atau Perusahaan Asuransi,
 
 Perusahaan Asuransi Syariah, atau Unit Syariah pada
 
 Perusahaan Asuransi.
 
-Pasal 24
+### Pasal 24 ^pasal-24
 
 (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 
@@ -1800,10 +1580,9 @@ Syariah, atau Unit Syariah pada Perusahaan Asuransi
 
 wajib mengembalikan paling sedikit sejumlah Premi
 
-
 -----
 
-           - 25 
+ - 25 
 atau kontribusi yang telah dibayarkan dikurangi
 
 biaya, ditambah dengan hasil investasi atau dikurangi
@@ -1832,7 +1611,7 @@ Perusahaan Asuransi Syariah, atau Unit Syariah pada
 
 Perusahaan Asuransi.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 
 (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 
@@ -1856,7 +1635,7 @@ diinformasikan hanya kepada pemegang polis kecuali
 
 atas permintaan tertanggung atau peserta.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 
 Perusahaan Asuransi, Perusahaan Asuransi Syariah, atau
 
@@ -1870,11 +1649,11 @@ Asuransi di dalam polis atau dokumen yang merupakan
 
 kesatuan dengannya.
 
-
 -----
 
-           - 26 
-Pasal 27
+ - 26
+
+### Pasal 27 ^pasal-27
 
 (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah, atau
 
@@ -1902,259 +1681,23 @@ dalam hal Agen Asuransi menerima pembayaran Premi
 
 atau kontribusi.
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
-Perusahaan Asuransi, Perusahaan Asuransi Syariah, atau
 
-Unit Syariah pada Perusahaan Asuransi wajib bertanggung
 
-jawab atas pembayaran klaim atau manfaat yang timbul
+### Pasal 29 ^pasal-29
 
-apabila Agen Asuransi telah menerima Premi atau
 
-kontribusi, tetapi belum menyerahkannya kepada
 
-Perusahaan Asuransi, Perusahaan Asuransi Syariah, atau
+### Pasal 30 ^pasal-30
 
-Unit Syariah pada Perusahaan Asuransi tersebut.
 
-Pasal 29
 
-(1) Perusahaan atau Unit Syariah dapat membuka
+### Pasal 31 ^pasal-31
 
-kesempatan kepada pemegang polis, tertanggung,
 
-peserta, atau Perusahaan _Ceding_ untuk melakukan
 
-pembayaran Premi atau kontribusi melalui
-
-Perusahaan Pialang Asuransi atau Perusahaan
-
-Pialang Reasuransi.
-
-(2) Dalam hal pembayaran Premi atau kontribusi yang
-
-diterima oleh Perusahaan Pialang Asuransi atau
-
-Perusahaan Pialang Reasuransi telah diserahkan
-
-kepada Perusahaan atau Unit Syariah, pembayaran
-
-klaim atau manfaat yang timbul merupakan
-
-tanggung jawab Perusahaan atau Unit Syariah.
-
-
------
-
-           - 27 
-(3) Pembayaran klaim atau manfaat yang timbul
-
-sebagaimana dimaksud pada ayat (2) berlaku
-
-apabila:
-
-a. pemegang polis, tertanggung, peserta, atau
-
-Perusahaan _Ceding_ membayar Premi atau
-
-kontribusi dalam jangka waktu pembayaran
-
-Premi atau kontribusi yang ditentukan di dalam
-
-polis atau perjanjian reasuransi; dan
-
-b. risiko yang terjadi dijamin di dalam polis atau
-
-perjanjian reasuransi.
-
-(4) Dalam hal Perusahaan atau Unit Syariah belum
-
-menerima pembayaran Premi atau kontribusi dari
-
-Perusahaan Pialang Asuransi atau Perusahaan
-
-Pialang Reasuransi dalam jangka waktu paling lama
-
-1 (satu) hari kerja setelah berakhirnya jangka waktu
-
-yang ditentukan dalam polis, Perusahaan atau Unit
-
-Syariah dapat menerbitkan surat pembatalan polis
-
-atau perjanjian reasuransi kepada pialang asuransi
-
-untuk disampaikan kepada pemegang polis,
-
-tertanggung, peserta, atau Perusahaan _Ceding_ dan
-
-Perusahaan atau Unit Syariah tidak bertanggung
-
-jawab atas pembayaran klaim atau manfaat yang
-
-timbul.
-
-(5) Dalam hal Perusahaan atau Unit Syariah tidak
-
-melakukan pembatalan polis atau perjanjian
-
-reasuransi dan menerima pembayaran Premi atau
-
-kontribusi melalui Perusahaan Pialang Asuransi atau
-
-Perusahaan Pialang Reasuransi setelah berakhirnya
-
-jangka waktu yang ditentukan di dalam polis atau
-
-perjanjian reasuransi, Perusahaan atau Unit Syariah
-
-wajib bertanggung jawab atas pembayaran klaim
-
-atau manfaat yang timbul sejak Premi atau
-
-kontribusi diterima.
-
-(6) Dalam hal Perusahaan atau Unit Syariah menerima
-
-pembayaran Premi atau kontribusi melalui
-
-Perusahaan Pialang Asuransi atau Perusahaan Pialang
-
-Reasuransi setelah berakhirnya jangka waktu yang
-
-
------
-
-           - 28 
-ditentukan di dalam polis atau perjanjian reasuransi
-
-dan tidak melakukan pembatalan polis atau perjanjian
-
-reasuransi dalam jangka waktu 3 (tiga) hari sejak
-
-Premi dan kontribusi diterima, Perusahaan atau Unit
-
-Syariah wajib bertanggung jawab atas pembayaran
-
-klaim atau manfaat yang timbul sejak Premi atau
-
-kontribusi diterima.
-
-(7) Dalam hal terjadi klaim sebelum Perusahaan atau
-
-Unit Syariah menerima pembayaran Premi atau
-
-kontribusi dari Perusahaan Pialang Asuransi atau
-
-Perusahaan Pialang Reasuransi, Perusahaan atau
-
-Unit Syariah wajib membantu pemegang polis,
-
-tertanggung, peserta, atau Perusahaan _Ceding_ dalam
-
-penyelesaian klaim kepada Perusahaan Pialang
-
-Asuransi atau Perusahaan Pialang Reasuransi.
-
-(8) Dalam hal penyelesaian klaim sebagaimana
-
-dimaksud pada ayat (6) menggunakan perusahaan
-
-penilai kerugian asuransi, biaya yang timbul dapat
-
-dibebankan kepada Perusahaan Pialang Asuransi
-
-atau Perusahaan Pialang Reasuransi.
-
-(9) Dalam hal penutupan asuransi melalui Perusahaan
-
-Pialang Asuransi, Perusahaan Asuransi, Perusahaan
-
-Asuransi Syariah, atau Unit Syariah pada
-
-Perusahaan Asuransi dilarang melakukan _off-set_
-
-antara Premi atau kontribusi dengan klaim.
-
-Pasal 30
-
-(1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
-
-atau Unit Syariah pada Perusahaan Asuransi wajib
-
-memberikan konfirmasi kepada Perusahaan Pialang
-
-Asuransi atau Perusahaan Pialang Reasuransi
-
-terhadap rincian pembayaran masing-masing polis
-
-atau perjanjian reasuransi yang disampaikan
-
-Perusahaan Pialang Asuransi dalam jangka waktu
-
-paling lama 15 (lima belas) hari kerja setelah rincian
-
-pembayaran Premi atau kontribusi masing-masing
-
-polis atau perjanjian reasuransi diterima.
-
-
------
-
-           - 29 
-(2) Perusahaan Reasuransi, Perusahaan Reasuransi
-
-Syariah, atau Unit Syariah pada Perusahaan
-
-Reasuransi wajib memberikan konfirmasi atau
-
-verifikasi kepada Perusahaan Pialang Reasuransi
-
-terhadap rincian pembayaran yang disampaikan
-
-Perusahaan Pialang Reasuransi dalam jangka waktu
-
-paling lama 15 (lima belas) hari kerja setelah rincian
-
-pembayaran Premi atau kontribusi diterima.
-
-Pasal 31
-
-(1) Perusahaan atau Unit Syariah wajib membayar
-
-imbalan jasa keperantaraan atau komisi yang
-
-menjadi hak Perusahaan Pialang Asuransi atau
-
-Perusahaan Pialang Reasuransi paling lama 7 (tujuh)
-
-hari kerja setelah konfirmasi atas rincian
-
-pembayaran diterima oleh Perusahaan atau Unit
-
-Syariah, kecuali ditentukan lain dalam perjanjian
-
-kerja sama.
-
-(2) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
-
-atau Unit Syariah pada Perusahaan Asuransi
-
-hanya dapat memberikan bagian dari Premi atau
-
-kontribusi yang merupakan imbalan jasa
-
-keperantaraan atau komisi kepada pihak yang
-
-terlibat dalam proses pemasaran produk asuransi
-
-atau asuransi syariah.
-
-Bagian Ketiga
-
-Perjanjian Reasuransi atau Perjanjian Reasuransi Syariah
-
-Pasal 32
+### Pasal 32 ^pasal-32
 
 Setiap Perusahaan Asuransi, Perusahaan Asuransi
 
@@ -2166,11 +1709,11 @@ perjanjian reasuransi atau perjanjian reasuransi syariah
 
 otomatis.
 
-
 -----
 
-           - 30 
-Pasal 33
+ - 30
+
+### Pasal 33 ^pasal-33
 
 (1) Perjanjian reasuransi atau perjanjian reasuransi
 
@@ -2214,7 +1757,7 @@ Bagian Keempat
 
 _Underwriting_
 
-Pasal 34
+### Pasal 34 ^pasal-34
 
 Perusahaan atau Unit Syariah wajib memiliki pedoman
 
@@ -2226,45 +1769,17 @@ dilakukan secara hati-hati dan sesuai dengan praktik
 
 perasuransian yang berlaku umum.
 
-Pasal 35
-
-Perusahaan Asuransi, Perusahaan Asuransi Syariah, atau
-
-Unit Syariah pada Perusahaan Asuransi sebelum
-
-melakukan penutupan asuransi wajib memastikan bahwa
-
-seluruh risiko yang ditanggung sudah ter-cover oleh
-
-Perusahaan Asuransi, Perusahaan Asuransi Syariah, atau
+### Pasal 35 ^pasal-35
 
 
------
 
-           - 31 
-Unit Syariah pada Perusahaan Asuransi yang
+### Pasal 36 ^pasal-36
 
-bersangkutan dan/atau penanggung ulang/reasuradur.
+ayat (1) dan ayat (3), Pasal 39 ayat (1), ayat (2),
 
-Bagian Kelima
+dan ayat (3), Pasal 40, Pasal 41, Pasal 44 ayat (3),
 
-Penyelesaian Klaim
-
-Pasal 36
-
-Perusahaan atau Unit Syariah wajib memiliki pedoman
-
-penyelesaian klaim untuk produk yang dipasarkan, yang
-
-mencerminkan bahwa penanganan klaim telah dilakukan
-
-melalui proses yang cepat, sederhana, mudah diakses, dan
-
-adil serta sesuai dengan praktik perasuransian yang
-
-berlaku umum.
-
-Pasal 37
+### Pasal 37 ^pasal-37
 
 (1) Perusahaan atau Unit Syariah dilarang melakukan
 
@@ -2292,45 +1807,13 @@ atau Unit Syariah dilarang mengabaikan hasil
 
 penilaian kerugian tanpa didasari argumen yang kuat.
 
-Pasal 38
+### Pasal 38 ^pasal-38
 
-(1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
+ayat (2), dan ayat (3), Pasal 40, Pasal 41, Pasal 44
 
-atau Unit Syariah pada Perusahaan Asuransi hanya
+ayat (3), Pasal 45 ayat (1), ayat (2), dan ayat (3),
 
-dapat meminta dokumen sebagai persyaratan
-
-pengajuan klaim sesuai dengan yang tertera dalam
-
-polis.
-
-
------
-
-           - 32 
-(2) Dalam hal polis mencantumkan dokumen dan/atau
-
-syarat lain sebagai persyaratan pengajuan klaim,
-
-dokumen dan/atau syarat lain tersebut harus:
-
-a. relevan dengan pertanggungan; dan
-
-b. wajar dalam proses penyelesaian klaim.
-
-(3) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
-
-atau Unit Syariah pada Perusahaan Asuransi dilarang
-
-melakukan pembayaran klaim asuransi melalui pihak
-
-ketiga, kecuali Perusahaan Pialang Asuransi, pihak
-
-penyedia layanan klaim, atau pihak yang telah
-
-mendapatkan persetujuan dari penerima manfaat.
-
-Pasal 39
+### Pasal 39 ^pasal-39
 
 (1) Dalam hal Perusahaan Asuransi, Perusahaan Asuransi
 
@@ -2380,10 +1863,9 @@ terkait dengan kerugian yang terjadi atas objek
 
 asuransi; dan
 
-
 -----
 
-           - 33 
+ - 33 
 c. ketentuan yang menyatakan bahwa setiap
 
 pelaksanaan penilaian kerugian atas objek
@@ -2406,7 +1888,7 @@ mengatur kinerja, atau tahapan penyelesaian penilai
 
 kerugian.
 
-Pasal 40
+### Pasal 40 ^pasal-40
 
 (1) Perusahaan atau Unit Syariah wajib menyelesaikan
 
@@ -2456,10 +1938,9 @@ klaim yang berkekuatan hukum tetap (inkracht) atau
 
 ditetapkan lain dalam putusan pengadilan.
 
-
 -----
 
-           - 34 
+ - 34 
 (4) Perusahaan atau Unit Syariah dilarang melakukan
 
 pembayaran klaim melalui Perusahaan Pialang
@@ -2474,7 +1955,7 @@ Bagian Keenam
 
 Keahlian di Bidang Perasuransian
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
 (1) Perusahaan atau Unit Syariah wajib menerapkan segenap
 
@@ -2490,7 +1971,7 @@ kegiatan usahanya wajib memiliki tenaga ahli dan
 
 aktuaris yang sesuai dengan bidang usahanya.
 
-Pasal 42
+### Pasal 42 ^pasal-42
 
 (1) Tenaga ahli Perusahaan Asuransi, Perusahaan
 
@@ -2528,10 +2009,9 @@ d. turut serta dalam penerapan manajemen risiko di
 
 Perusahaan Asuransi, Perusahaan Asuransi
 
-
 -----
 
-           - 35 
+ - 35 
 Syariah atau Unit Syariah pada Perusahaan
 
 Asuransi; dan
@@ -2566,7 +2046,7 @@ Asuransi, Perusahaan Asuransi Syariah, atau
 
 Unit Syariah pada Perusahaan Asuransi.
 
-Pasal 43
+### Pasal 43 ^pasal-43
 
 (1) Tenaga ahli Perusahaan Reasuransi, Perusahaan
 
@@ -2604,10 +2084,9 @@ d. turut serta dalam penerapan manajemen risiko di
 
 Perusahaan Reasuransi, Perusahaan Reasuransi
 
-
 -----
 
-           - 36 
+ - 36 
 Syariah, atau Unit Syariah pada Perusahaan
 
 Reasuransi; dan
@@ -2644,7 +2123,7 @@ Reasuransi, Perusahaan Reasuransi Syariah, atau
 
 Unit Syariah pada Perusahaan Reasuransi.
 
-Pasal 44
+### Pasal 44 ^pasal-44
 
 (1) Aktuaris Perusahaan atau Unit Syariah memiliki tugas
 
@@ -2680,10 +2159,9 @@ proses reasuransi di Perusahaan atau Unit
 
 Syariah;
 
-
 -----
 
-           - 37 
+ - 37 
 g. menyusun perkiraan kemampuan Perusahaan
 
 atau Unit Syariah untuk memenuhi kewajiban di
@@ -2726,45 +2204,13 @@ Bagian Ketujuh
 
 Penanganan Keluhan atau Pengaduan
 
-Pasal 45
+### Pasal 45 ^pasal-45
 
-(1) Perusahaan atau Unit Syariah wajib menyelesaikan
+ayat (1) dan ayat (2), Pasal 47, Pasal 48 ayat (1)
 
-setiap keluhan atau pengaduan terkait produk
+dan ayat (2), Pasal 49, Pasal 50, Pasal 51 ayat (2),
 
-asuransi yang diajukan oleh pemegang polis,
-
-tertanggung, peserta, atau Perusahaan _Ceding._
-
-(2) Perusahaan atau Unit Syariah wajib memiliki dan
-
-melaksanakan mekanisme penanganan keluhan atau
-
-pengaduan dari pemegang polis, tertanggung,
-
-peserta, atau Perusahaan _Ceding._
-
-(3) Mekanisme pelayanan dan penyelesaian keluhan
-
-atau pengaduan sebagaimana dimaksud pada ayat
-
-(1) wajib diberitahukan kepada pemegang polis,
-
-tertanggung, peserta, atau Perusahaan _Ceding._
-
-
------
-
-           - 38 
-(4) Mekanisme penanganan keluhan atau pengaduan
-
-diadministrasikan dan/atau didokumentasikan
-
-secara elektronik, dan dimuat ke dalam situs web
-
-Perusahaan.
-
-Pasal 46
+### Pasal 46 ^pasal-46
 
 (1) Perusahaan atau Unit Syariah wajib memiliki unit
 
@@ -2800,21 +2246,11 @@ Bagian Kedelapan
 
 Sarana Komunikasi dan Teknologi Informasi
 
-Pasal 47
+### Pasal 47 ^pasal-47
 
-Perusahaan atau Unit Syariah wajib menyediakan
 
-berbagai sarana komunikasi dan informasi yang mudah
 
-untuk diakses oleh pemegang polis, tertanggung, peserta,
-
-atau Perusahaan _Ceding,_ yang paling sedikit meliputi
-
-alamat surat, surat elektronik, telepon, faksimile, dan
-
-situs web.
-
-Pasal 48
+### Pasal 48 ^pasal-48
 
 (1) Situs web Perusahaan atau Unit Syariah
 
@@ -2822,10 +2258,9 @@ sebagaimana dimaksud dalam Pasal 47 wajib
 
 memuat informasi paling sedikit:
 
-
 -----
 
-           - 39 
+ - 39 
 a. profil Perusahaan atau Unit Syariah yang
 
 secara lengkap antara lain mencantumkan:
@@ -2900,10 +2335,9 @@ Perusahaan atau Unit Syariah paling lama 20 (dua
 
 puluh) hari kerja setelah terjadi perubahan informasi
 
-
 -----
 
-           - 40 
+ - 40 
 sebagaimana pada ayat (1) huruf a sampai dengan
 
 huruf h.
@@ -2920,7 +2354,7 @@ diatur dalam peraturan OJK mengenai situs web
 
 emiten atau perusahaan publik.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 
 (1) Kegiatan usaha Perusahaan atau Unit Syariah wajib
 
@@ -2950,31 +2384,84 @@ data (data _center)_ dan pusat pemulihan bencana
 
 (disaster _recovery_ _center)_ di wilayah Indonesia.
 
-Pasal 50
+### Pasal 50 ^pasal-50
 
-Data sebagaimana dimaksud dalam Pasal 49 ayat (3)
+ayat (1), ayat (2), ayat (4), ayat (5), ayat (6), dan
 
-wajib paling sedikit terdiri dari:
+ayat (8), Pasal 55 ayat (2), Pasal 56 ayat (2) dan
 
-a. data dan informasi terkait data pribadi pemegang
+ayat (4), Pasal 57 ayat (2) dan ayat (4), Pasal 58
 
-polis, tertanggung, atau peserta;
+ayat (2), Pasal 59 ayat (2), Pasal 60 ayat (1), ayat
 
-b. data dan informasi yang berkaitan dengan transaksi
+(6), dan ayat (7), Pasal 61, Pasal 63, Pasal 65 ayat
 
-pembayaran Premi atau klaim;
+(2), Pasal 66 ayat (1), ayat (4), dan ayat (5), Pasal
 
-c. data dan informasi kependudukan; dan
+67 ayat (3), ayat (5), ayat (6), dan ayat (7), Pasal
 
-d. data dan informasi di bidang administrasi badan
+68, Pasal 69, Pasal 71 ayat (1), ayat (2), ayat (3),
 
-hukum.
+ayat (5), ayat (6), dan ayat (7), Pasal 72 ayat (1),
 
+ayat (3), dan ayat (4), Pasal 73, Pasal 75 ayat (1),
+
+dan Pasal 76 ayat (1) Peraturan OJK ini dilakukan
+
+oleh Unit Syariah dikenai sanksi administratif
+
+berupa:
+
+a. peringatan tertulis;
+
+b. pembatasan kegiatan usaha Unit Syariah, untuk
+
+sebagian atau seluruh kegiatan usaha; dan
+
+c. pencabutan izin pembentukan Unit Syariah.
+
+(3) Sanksi administratif sebagaimana dimaksud pada
+
+ayat (1) atau ayat (2) dilakukan secara bertahap.
 
 -----
 
-           - 41 
-Pasal 51
+ - 63 
+(4) Selain sanksi administratif sebagaimana dimaksud
+
+pada ayat (1) dan ayat (2), OJK dapat
+
+menambahkan sanksi tambahan berupa:
+
+a. larangan untuk memasarkan produk asuransi
+
+atau produk asuransi syariah untuk lini usaha
+
+tertentu; dan/atau
+
+b. larangan menjadi pemegang saham, pengendali,
+
+direksi, dewan komisaris, atau yang setara
+
+dengan pemegang saham, pengendali, direksi,
+
+dan dewan komisaris, atau menduduki jabatan
+
+eksekutif di bawah direksi, atau yang setara
+
+dengan jabatan eksekutif di bawah direksi,
+
+pada perusahaan perasuransian.
+
+(5) OJK dapat mengenakan sanksi pencabutan izin
+
+usaha tanpa didahului pengenaan sanksi
+
+administratif yang lain terhadap pelanggaran
+
+ketentuan Pasal 8 ayat (3) Peraturan OJK ini.
+
+### Pasal 51 ^pasal-51
 
 (1) Perusahaan atau Unit Syariah dapat
 
@@ -3008,7 +2495,7 @@ eksternal Perusahaan atau Unit Syariah
 
 sewaktu-waktu apabila dibutuhkan.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 
 Perusahaan atau Unit Syariah dapat menyelenggarakan
 
@@ -3024,35 +2511,19 @@ SYARIAH, USAHA ASURANSI JIWA SYARIAH,
 
 DAN USAHA REASURANSI SYARIAH
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
-Perusahaan Asuransi Syariah, Perusahaan Reasuransi
+(5), ayat (6), dan ayat (8), Pasal 55 ayat (2), Pasal
 
-Syariah, atau Unit Syariah dalam menyelenggarakan
+56 ayat (2) dan ayat (4), Pasal 57 ayat (2), Pasal
 
-kegiatan usahanya wajib menerapkan prinsip dasar sebagai
+58 ayat (2), Pasal 59 ayat (2), Pasal 60 ayat (1),
 
-berikut:
+ayat (6), dan ayat (7), Pasal 61, Pasal 63, Pasal 65
 
-a. dipenuhinya prinsip keadilan ('adl), dapat dipercaya
+ayat (2), Pasal 66 ayat (1), ayat (4), dan ayat (5),
 
-(amanah), keseimbangan (tawazun), kemaslahatan
-
-(maslahah), dan keuniversalan (syumul); dan
-
-
------
-
-           - 42 
-b. tidak mengandung hal-hal yang diharamkan, seperti
-
-ketidakpastian atau ketidakjelasan (gharar), perjudian
-
-(maysir), bunga (riba), penganiayaan (zhulm), suap
-
-(risywah), maksiat, dan objek haram.
-
-Pasal 54
+### Pasal 54 ^pasal-54
 
 (1) Polis asuransi syariah dan perjanjian reasuransi
 
@@ -3116,10 +2587,9 @@ Akad Tijarah dalam rangka kegiatan lain.
 
 _Mudharabah, dan Akad Mudharabah Musytarakah,_
 
-
 -----
 
-           - 43 
+ - 43 
 Perusahaan Asuransi Syariah, Perusahaan Reasuransi
 
 Syariah, atau Unit Syariah wajib menanggung seluruh
@@ -3136,7 +2606,7 @@ Asuransi Syariah, Perusahaan Reasuransi Syariah,
 
 atau Unit Syariah.
 
-Pasal 55
+### Pasal 55 ^pasal-55
 
 (1) Perusahaan Asuransi Syariah, Perusahaan Reasuransi
 
@@ -3156,7 +2626,7 @@ Nasional Majelis Ulama Indonesia dan terlebih dahulu
 
 memperoleh persetujuan dari OJK.
 
-Pasal 56
+### Pasal 56 ^pasal-56
 
 (1) Akad _Tabarru’ atau Akad_ _Hibah_ _Tanahud_ yang
 
@@ -3188,10 +2658,9 @@ d. cara dan waktu pembayaran kontribusi;
 
 e. cara dan waktu pembayaran santunan/klaim;
 
-
 -----
 
-           - 44 
+ - 44 
 f. ketentuan mengenai boleh atau tidaknya
 
 kontribusi ditarik kembali oleh pemegang polis
@@ -3238,7 +2707,7 @@ syariah untuk program pensiun; dan
 
 f. ketentuan lain yang disepakati.
 
-Pasal 57
+### Pasal 57 ^pasal-57
 
 (1) Akad Wakalah bil Ujrah digunakan dalam kegiatan
 
@@ -3264,10 +2733,9 @@ h. kegiatan lain sesuai dengan kesepakatan dalam
 
 polis.
 
-
 -----
 
-           - 45 
+ - 45 
 (2) Akad Wakalah bil Ujrah wajib memuat paling sedikit
 
 sebagai berikut:
@@ -3312,7 +2780,7 @@ Perusahaan Reasuransi Syariah, atau Unit Syariah
 
 tidak berhak memperoleh bagian dari hasil investasi.
 
-Pasal 58
+### Pasal 58 ^pasal-58
 
 (1) Akad _Mudharabah digunakan dalam pengelolaan_
 
@@ -3338,10 +2806,9 @@ Syariah, Perusahaan Reasuransi Syariah, atau
 
 Unit Syariah sebagai mudharib (pengelola dana);
 
-
 -----
 
-           - 46 
+ - 46 
 c. batasan wewenang yang diberikan pemegang
 
 polis atau peserta kepada Perusahaan Asuransi
@@ -3356,7 +2823,7 @@ hasil investasi; dan
 
 e. ketentuan lain yang disepakati.
 
-Pasal 59
+### Pasal 59 ^pasal-59
 
 (1) Akad _Mudharabah_ _Musytarakah_ digunakan dalam
 
@@ -3410,15 +2877,14 @@ hasil investasi; dan
 
 f. ketentuan lain yang disepakati.
 
-
 -----
 
-           - 47 
+ - 47 
 BAB V
 
 PENGALIHAN SEBAGIAN PORTOFOLIO PERTANGGUNGAN
 
-Pasal 60
+### Pasal 60 ^pasal-60
 
 (1) Pengalihan sebagian portofolio pertanggungan oleh
 
@@ -3485,10 +2951,9 @@ memberikan surat persetujuan atau penolakan atas
 
 pengalihan portofolio paling lama 14 (empat belas) hari
 
-
 -----
 
-           - 48 
+ - 48 
 kerja sejak laporan hasil pemeriksaan langsung final
 
 ditetapkan.
@@ -3541,7 +3006,7 @@ tertanggung, peserta, atau Perusahaan _Ceding_
 
 yang menolak pengalihan portofolio.
 
-Pasal 61
+### Pasal 61 ^pasal-61
 
 (1) Perusahaan atau Unit Syariah wajib memberikan
 
@@ -3559,10 +3024,9 @@ pengumuman sebagaimana dimaksud dalam Pasal 60
 
 ayat (6) huruf b.
 
-
 -----
 
-           - 49 
+ - 49 
 (2) Dalam hal pemegang polis, tertanggung, peserta, atau
 
 Perusahaan _Ceding_ menolak pertanggungannya
@@ -3575,7 +3039,7 @@ Unit Syariah wajib mengembalikan hak pemegang
 
 polis, tertanggung, peserta, atau Perusahaan Ceding.
 
-Pasal 62
+### Pasal 62 ^pasal-62
 
 (1) Pengembalian hak pemegang polis, tertanggung,
 
@@ -3633,10 +3097,9 @@ nilai tunai pada tanggal pemegang polis,
 
 tertanggung, peserta, atau Perusahaan _Ceding_
 
-
 -----
 
-           - 50 
+ - 50 
 menyampaikan penolakan atas pengalihan
 
 pertanggungannya; atau
@@ -3669,7 +3132,7 @@ dengan biaya administrasi termasuk biaya
 
 pengakhiran polis atau surrender charge.
 
-Pasal 63
+### Pasal 63 ^pasal-63
 
 (1) Perusahaan atau Unit Syariah wajib menyelesaikan
 
@@ -3699,21 +3162,20 @@ SEBAGIAN FUNGSI DALAM PENYELENGGARAAN
 
 USAHANYA
 
-Pasal 64
+### Pasal 64 ^pasal-64
 
 Perusahaan atau Unit Syariah dapat melakukan kerja
 
 sama dengan pihak lain dalam rangka memperoleh bisnis
 
-
 -----
 
-           - 51 
+ - 51 
 atau melaksanakan sebagian fungsi dalam
 
 penyelenggaraan usahanya.
 
-Pasal 65
+### Pasal 65 ^pasal-65
 
 (1) Kerja sama dalam rangka memperoleh bisnis
 
@@ -3779,15 +3241,14 @@ mengenai Agen Asuransi sebagaimana diatur
 
 dalam Pasal 17 ayat (1); dan
 
-
 -----
 
-           - 52 
+ - 52 
 d. melaporkan perjanjian kerja sama dengan
 
 badan usaha dimaksud kepada OJK.
 
-Pasal 66
+### Pasal 66 ^pasal-66
 
 (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 
@@ -3855,160 +3316,41 @@ dan tidak memiliki benturan kepentingan dengan
 
 pemegang polis, tertanggung, peserta, dan/atau
 
-
 -----
 
-           - 53 
+ - 53 
 Perusahaan Pialang Asuransi atau Perusahaan Pialang
 
 Reasuransi.
 
-Pasal 67
+### Pasal 67 ^pasal-67
 
-(1) Kerja sama dalam rangka melaksanakan sebagian
 
-fungsi sebagaimana dimaksud dalam Pasal 64
 
-dilakukan kepada penyedia jasa dengan perjanjian
+### Pasal 68 ^pasal-68
 
-alih daya.
+(3), ayat (5), ayat (6), dan ayat (7), Pasal 72 ayat
 
-(2) Bentuk perjanjian alih daya dilakukan Perusahaan
+(1), ayat (3), dan ayat (4), Pasal 73, Pasal 75 ayat
 
-atau Unit Syariah melalui perjanjian:
+(1), dan Pasal 76 ayat (1) Peraturan OJK ini
 
-a. pemborongan pekerjaan; dan/atau
+dikenai sanksi administratif berupa:
 
-b. penyediaan jasa tenaga kerja.
+a. peringatan tertulis;
 
-(3) Perusahaan atau Unit Syariah hanya dapat
+b. pembatasan kegiatan usaha, untuk sebagian
 
-melakukan perjanjian alih daya dengan perusahaan
+atau seluruh kegiatan usaha; dan
 
-penyedia jasa yang memenuhi persyaratan paling
-
-sedikit:
-
-a. berbentuk badan hukum Indonesia;
-
-b. memiliki izin usaha yang masih berlaku dari
-
-instansi berwenang sesuai bidang usahanya;
-
-c. memiliki kinerja keuangan dan reputasi yang
-
-baik serta pengalaman yang cukup;
-
-d. memiliki sumber daya manusia yang mendukung
-
-pelaksanaan pekerjaan yang dialihdayakan;
-
-e. memiliki sarana dan prasarana yang dibutuhkan
-
-dalam alih daya;
-
-f. memiliki standar kompetensi sesuai dengan
-
-standar bisnisnya; dan
-
-g. tidak memiliki benturan kepentingan.
-
-(4) Perusahaan atau Unit Syariah dapat melakukan
-
-perjanjian alih daya dengan perusahaan penyedia
-
-jasa berbentuk badan hukum asing pada kegiatan:
-
-a. penelitian dan pengembangan produk;
-
-b. sistem informasi; dan/atau
-
-c. bidang lain yang belum dapat dipenuhi oleh
-
-perusahaan penyedia jasa di Indonesia.
-
-(5) Dalam hal Perusahaan atau Unit Syariah melakukan
-
-perjanjian alih daya dengan perusahaan penyedia
-
+c. pencabutan izin usaha.
 
 -----
 
-           - 54 
-jasa berbadan hukum asing sebagaimana dimaksud
+ - 62 
+(2) Dalam hal pelanggaran ketentuan dalam Pasal 3,
 
-pada ayat (4) wajib dilaporkan kepada OJK paling
-
-lambat 14 (empat belas) hari sebelum perjanjian
-
-kerja sama ditanda tangani.
-
-(6) Perjanjian alih daya sebagaimana dimaksud pada
-
-ayat (2) wajib memuat ketentuan yang mengatur
-
-paling sedikit mengenai jenis, nilai, dan jangka
-
-waktu pengalihan fungsi penyelenggaraan usaha.
-
-(7) Perusahaan atau Unit Syariah wajib melakukan
-
-pengendalian atas sebagian fungsi penyelenggaraan
-
-usaha yang dialihkan kepada pihak lain yang
-
-levelnya sama dengan pengendalian yang dilakukan
-
-di internal Perusahaan atau Unit Syariah.
-
-(8) Perusahaan atau Unit Syariah tetap bertanggung
-
-jawab terhadap fungsi yang dialihkan kepada
-
-perusahaan penyedia jasa.
-
-Pasal 68
-
-(1) Kerja sama dalam rangka melaksanakan sebagian
-
-fungsi penyelenggaraan usahanya sebagaimana
-
-dimaksud dalam Pasal 64, wajib memenuhi
-
-ketentuan sebagai berikut:
-
-a. dilakukan dengan perintah langsung dari
-
-Perusahaan atau Unit Syariah;
-
-b. tidak menghambat kegiatan Perusahaan atau
-
-Unit Syariah; dan
-
-c. dituangkan dalam perjanjian tertulis.
-
-(2) Dalam pelaksanaan kerja sama sebagaimana
-
-dimaksud pada ayat (1), Perusahaan atau Unit
-
-Syariah wajib memiliki dan menerapkan standar
-
-seleksi dan akuntabilitas.
-
-(3) Perusahaan atau Unit Syariah wajib memastikan
-
-bahwa kerja sama dalam rangka melaksanakan
-
-sebagian fungsi dilakukan sesuai dengan perjanjian
-
-yang dibuat dan ketentuan peraturan perundang
-undangan.
-
-
------
-
-           - 55 
-Pasal 69
+### Pasal 69 ^pasal-69
 
 Perusahaan atau Unit Syariah dilarang melakukan kerja
 
@@ -4028,7 +3370,7 @@ PENUTUPAN ASURANSI SECARA
 
 BERSAMA-SAMA (KO-ASURANSI)
 
-Pasal 70
+### Pasal 70 ^pasal-70
 
 (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 
@@ -4077,10 +3419,9 @@ Syariah, atau Unit Syariah pada Perusahaan Asuransi
 
 telah memiliki lini usaha yang sama namun belum
 
-
 -----
 
-           - 56 
+ - 56 
 memiliki produk yang sama, penutupan asuransi
 
 secara bersama-sama (ko-asuransi) dapat dilakukan
@@ -4091,7 +3432,7 @@ Syariah, atau Unit Syariah pada Perusahaan Asuransi
 
 memiliki retensi sendiri yang cukup.
 
-Pasal 71
+### Pasal 71 ^pasal-71
 
 (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 
@@ -4153,10 +3494,9 @@ anggota (member).
 
 atau Unit Syariah pada Perusahaan Asuransi wajib
 
-
 -----
 
-           - 57 
+ - 57 
 mencantumkan nama Perusahaan Asuransi,
 
 Perusahaan Asuransi Syariah, atau Unit Syariah pada
@@ -4215,16 +3555,15 @@ Bagian Kesatu
 
 Anti Fraud
 
-Pasal 72
+### Pasal 72 ^pasal-72
 
 (1) Dalam rangka mengendalikan risiko terjadinya _fraud,_
 
 Perusahaan atau Unit Syariah wajib melaksanakan
 
-
 -----
 
-           - 58 
+ - 58 
 fungsi pengendalian _fraud dan menerapkan strategi_
 
 anti fraud.
@@ -4299,10 +3638,9 @@ paling sedikit memuat:
 
 4) informasi singkat mengenai modus; dan
 
-
 -----
 
-           - 59 
+ - 59 
 5) indikasi kerugian.
 
 (5) Ketentuan lebih lanjut mengenai pengendalian _fraud_
@@ -4323,7 +3661,7 @@ Anti Pencucian Uang dan
 
 Pencegahan Pendanaan Terorisme
 
-Pasal 73
+### Pasal 73 ^pasal-73
 
 (1) Perusahaan atau Unit Syariah wajib menerapkan
 
@@ -4347,7 +3685,7 @@ BAB IX
 
 PROGRAM ASURANSI WAJIB
 
-Pasal 74
+### Pasal 74 ^pasal-74
 
 (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 
@@ -4369,11 +3707,11 @@ atau Unit Syariah pada Perusahaan Asuransi
 
 dilaksanakan secara kompetitif.
 
-
 -----
 
-           - 60 
-Pasal 75
+ - 60
+
+### Pasal 75 ^pasal-75
 
 (1) Program Asuransi Wajib dapat dilakukan
 
@@ -4413,7 +3751,7 @@ dalam Pasal 74 ayat (1) dapat diselenggarakan
 
 secara individual maupun secara konsorsium.
 
-Pasal 76
+### Pasal 76 ^pasal-76
 
 (1) Setiap Perusahaan Asuransi, Perusahaan Asuransi
 
@@ -4439,191 +3777,18 @@ sebagaimana diatur dalam peraturan OJK mengenai
 
 produk asuransi dan pemasaran asuransi.
 
-
 -----
 
-           - 61 
+ - 61 
 BAB X
 
 SANKSI
 
-Pasal 77
+### Pasal 77 ^pasal-77
 
 (1) Pelanggaran terhadap ketentuan dalam Pasal 2,
 
-Pasal 3, Pasal 4, Pasal 5, Pasal 7 ayat (2) dan
-
-ayat (3), Pasal 8 ayat (1), ayat (2), dan ayat (3),
-
-Pasal 9, Pasal 12, Pasal 13, Pasal 14, Pasal 15
-
-ayat (1), ayat (2), ayat (4), dan ayat (5), Pasal 16
-
-ayat (1) dan ayat (2), Pasal 17, Pasal 18, Pasal 19,
-
-Pasal 20, ayat (3), dan ayat (4), Pasal 24, Pasal 25
-
-ayat (1), Pasal 26, Pasal 27 ayat (2), Pasal 28,
-
-Pasal 29 ayat (5), ayat (6), dan ayat (8), Pasal 30,
-
-Pasal 31, Pasal 32, Pasal 33, Pasal 34, Pasal 35,
-
-Pasal 36, Pasal 37 ayat (1) dan ayat (3), Pasal 38
-
-ayat (1) dan ayat (3), Pasal 39 ayat (1), ayat (2),
-
-dan ayat (3), Pasal 40, Pasal 41, Pasal 44 ayat (3),
-
-Pasal 45 ayat (1), ayat (2), dan ayat (3), Pasal 46
-
-ayat (1) dan ayat (2), Pasal 47, Pasal 48 ayat (1)
-
-dan ayat (2), Pasal 49, Pasal 50, Pasal 51 ayat (2),
-
-Pasal 53, Pasal 54 ayat (1), ayat (2), ayat (4), ayat
-
-(5), ayat (6), dan ayat (8), Pasal 55 ayat (2), Pasal
-
-56 ayat (2) dan ayat (4), Pasal 57 ayat (2), Pasal
-
-58 ayat (2), Pasal 59 ayat (2), Pasal 60 ayat (1),
-
-ayat (6), dan ayat (7), Pasal 61, Pasal 63, Pasal 65
-
-ayat (2), Pasal 66 ayat (1), ayat (4), dan ayat (5),
-
-Pasal 67 ayat (3), ayat (5), ayat (6), dan ayat (7),
-
-Pasal 68, Pasal 69, Pasal 71 ayat (1), ayat (2), ayat
-
-(3), ayat (5), ayat (6), dan ayat (7), Pasal 72 ayat
-
-(1), ayat (3), dan ayat (4), Pasal 73, Pasal 75 ayat
-
-(1), dan Pasal 76 ayat (1) Peraturan OJK ini
-
-dikenai sanksi administratif berupa:
-
-a. peringatan tertulis;
-
-b. pembatasan kegiatan usaha, untuk sebagian
-
-atau seluruh kegiatan usaha; dan
-
-c. pencabutan izin usaha.
-
-
------
-
-           - 62 
-(2) Dalam hal pelanggaran ketentuan dalam Pasal 3,
-
-Pasal 5, Pasal 7 ayat (2) dan ayat (3), Pasal 8 ayat
-
-(1) dan ayat (2), Pasal 9, Pasal 12 ayat (3), Pasal
-
-14, Pasal 15 ayat (1), ayat (2), ayat (4), dan ayat
-
-(5), Pasal 16 ayat (1) dan ayat (2), Pasal 17, Pasal
-
-18, Pasal 19, Pasal 20, ayat (3), dan ayat (4), Pasal
-
-24, Pasal 25 ayat (1), Pasal 26, Pasal 27 ayat (2),
-
-Pasal 28, Pasal 29 ayat (5), ayat (6), dan ayat (8),
-
-Pasal 30, Pasal 31, Pasal 32, Pasal 33, Pasal 34,
-
-Pasal 35, Pasal 36, Pasal 37 ayat (1) dan ayat (3),
-
-Pasal 38 ayat (1) dan ayat (3), Pasal 39 ayat (1),
-
-ayat (2), dan ayat (3), Pasal 40, Pasal 41, Pasal 44
-
-ayat (3), Pasal 45 ayat (1), ayat (2), dan ayat (3),
-
-Pasal 47, Pasal 48 ayat (1) dan ayat (2), Pasal 49,
-
-Pasal 50, Pasal 51 ayat (2), Pasal 53, Pasal 54
-
-ayat (1), ayat (2), ayat (4), ayat (5), ayat (6), dan
-
-ayat (8), Pasal 55 ayat (2), Pasal 56 ayat (2) dan
-
-ayat (4), Pasal 57 ayat (2) dan ayat (4), Pasal 58
-
-ayat (2), Pasal 59 ayat (2), Pasal 60 ayat (1), ayat
-
-(6), dan ayat (7), Pasal 61, Pasal 63, Pasal 65 ayat
-
-(2), Pasal 66 ayat (1), ayat (4), dan ayat (5), Pasal
-
-67 ayat (3), ayat (5), ayat (6), dan ayat (7), Pasal
-
-68, Pasal 69, Pasal 71 ayat (1), ayat (2), ayat (3),
-
-ayat (5), ayat (6), dan ayat (7), Pasal 72 ayat (1),
-
-ayat (3), dan ayat (4), Pasal 73, Pasal 75 ayat (1),
-
-dan Pasal 76 ayat (1) Peraturan OJK ini dilakukan
-
-oleh Unit Syariah dikenai sanksi administratif
-
-berupa:
-
-a. peringatan tertulis;
-
-b. pembatasan kegiatan usaha Unit Syariah, untuk
-
-sebagian atau seluruh kegiatan usaha; dan
-
-c. pencabutan izin pembentukan Unit Syariah.
-
-(3) Sanksi administratif sebagaimana dimaksud pada
-
-ayat (1) atau ayat (2) dilakukan secara bertahap.
-
-
------
-
-           - 63 
-(4) Selain sanksi administratif sebagaimana dimaksud
-
-pada ayat (1) dan ayat (2), OJK dapat
-
-menambahkan sanksi tambahan berupa:
-
-a. larangan untuk memasarkan produk asuransi
-
-atau produk asuransi syariah untuk lini usaha
-
-tertentu; dan/atau
-
-b. larangan menjadi pemegang saham, pengendali,
-
-direksi, dewan komisaris, atau yang setara
-
-dengan pemegang saham, pengendali, direksi,
-
-dan dewan komisaris, atau menduduki jabatan
-
-eksekutif di bawah direksi, atau yang setara
-
-dengan jabatan eksekutif di bawah direksi,
-
-pada perusahaan perasuransian.
-
-(5) OJK dapat mengenakan sanksi pencabutan izin
-
-usaha tanpa didahului pengenaan sanksi
-
-administratif yang lain terhadap pelanggaran
-
-ketentuan Pasal 8 ayat (3) Peraturan OJK ini.
-
-Pasal 78
+### Pasal 78 ^pasal-78
 
 (1) Dalam hal Perusahaan melakukan pelanggaran
 
@@ -4653,11 +3818,11 @@ dikenakan denda administratif sebesar
 
 Rp100.000.000,00 (seratus juta rupiah).
 
-
 -----
 
-           - 64 
-Pasal 79
+ - 64
+
+### Pasal 79 ^pasal-79
 
 Prosedur dan tata cara pengenaan sanksi diatur dalam
 
@@ -4669,7 +3834,7 @@ BAB XI
 
 KETENTUAN PERALIHAN
 
-Pasal 80
+### Pasal 80 ^pasal-80
 
 (1) Perusahaan Asuransi Umum yang telah
 
@@ -4699,7 +3864,7 @@ tentang Penyelenggaraan Lini Usaha Asuransi Kredit
 
 dan _Suretyship._
 
-Pasal 81
+### Pasal 81 ^pasal-81
 
 (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 
@@ -4725,10 +3890,9 @@ penyebaran risiko untuk satu objek pertanggungan
 
 yang dilakukan secara kasus per kasus sebelum
 
-
 -----
 
-           - 65 
+ - 65 
 Peraturan OJK ini diundangkan, tetap berlaku
 
 sampai berakhirnya pertanggungan dimaksud.
@@ -4745,7 +3909,7 @@ sebelum Peraturan OJK ini diundangkan, tetap
 
 berlaku sampai berakhirnya kerja sama dimaksud.
 
-Pasal 82
+### Pasal 82 ^pasal-82
 
 Dalam hal peraturan OJK mengenai prosedur dan tata
 
@@ -4767,7 +3931,7 @@ Ketiga atas Peraturan Pemerintah Nomor 73 Tahun 1992
 
 tentang Penyelenggaraan Usaha Perasuransian.
 
-Pasal 83
+### Pasal 83 ^pasal-83
 
 Perusahaan Asuransi atau Perusahaan Asuransi Syariah
 
@@ -4787,16 +3951,15 @@ BAB XII
 
 KETENTUAN PENUTUP
 
-Pasal 84
+### Pasal 84 ^pasal-84
 
 Peraturan OJK ini mulai berlaku pada tanggal
 
 diundangkan.
 
-
 -----
 
-                     - 66 
+ - 66 
 Agar setiap orang mengetahuinya, memerintahkan
 
 pengundangan Peraturan OJK ini dengan penempatannya
@@ -4829,7 +3992,6 @@ YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 302
 
-
 Salinan sesuai dengan aslinya
 
 Direktur Hukum 1
@@ -4840,6 +4002,95 @@ ttd
 
 Yuliana
 
-
 -----
 
+## Penjelasan
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-1|Pasal 1]] | [[#^penjelasan-pasal-1|Penjelasan]] | - |
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | - |
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | - |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-8|Pasal 8]] | [[#^penjelasan-pasal-8|Penjelasan]] | - |
+| [[#^pasal-9|Pasal 9]] | [[#^penjelasan-pasal-9|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | - |
+| [[#^pasal-12|Pasal 12]] | [[#^penjelasan-pasal-12|Penjelasan]] | - |
+| [[#^pasal-13|Pasal 13]] | [[#^penjelasan-pasal-13|Penjelasan]] | - |
+| [[#^pasal-14|Pasal 14]] | [[#^penjelasan-pasal-14|Penjelasan]] | - |
+| [[#^pasal-15|Pasal 15]] | [[#^penjelasan-pasal-15|Penjelasan]] | - |
+| [[#^pasal-16|Pasal 16]] | [[#^penjelasan-pasal-16|Penjelasan]] | - |
+| [[#^pasal-17|Pasal 17]] | [[#^penjelasan-pasal-17|Penjelasan]] | - |
+| [[#^pasal-18|Pasal 18]] | [[#^penjelasan-pasal-18|Penjelasan]] | - |
+| [[#^pasal-19|Pasal 19]] | [[#^penjelasan-pasal-19|Penjelasan]] | - |
+| [[#^pasal-20|Pasal 20]] | [[#^penjelasan-pasal-20|Penjelasan]] | - |
+| [[#^pasal-21|Pasal 21]] | [[#^penjelasan-pasal-21|Penjelasan]] | - |
+| [[#^pasal-22|Pasal 22]] | [[#^penjelasan-pasal-22|Penjelasan]] | - |
+| [[#^pasal-23|Pasal 23]] | [[#^penjelasan-pasal-23|Penjelasan]] | - |
+| [[#^pasal-24|Pasal 24]] | [[#^penjelasan-pasal-24|Penjelasan]] | - |
+| [[#^pasal-25|Pasal 25]] | [[#^penjelasan-pasal-25|Penjelasan]] | - |
+| [[#^pasal-26|Pasal 26]] | [[#^penjelasan-pasal-26|Penjelasan]] | - |
+| [[#^pasal-27|Pasal 27]] | [[#^penjelasan-pasal-27|Penjelasan]] | - |
+| [[#^pasal-28|Pasal 28]] | [[#^penjelasan-pasal-28|Penjelasan]] | - |
+| [[#^pasal-29|Pasal 29]] | [[#^penjelasan-pasal-29|Penjelasan]] | - |
+| [[#^pasal-30|Pasal 30]] | [[#^penjelasan-pasal-30|Penjelasan]] | - |
+| [[#^pasal-31|Pasal 31]] | [[#^penjelasan-pasal-31|Penjelasan]] | - |
+| [[#^pasal-32|Pasal 32]] | [[#^penjelasan-pasal-32|Penjelasan]] | - |
+| [[#^pasal-33|Pasal 33]] | [[#^penjelasan-pasal-33|Penjelasan]] | - |
+| [[#^pasal-34|Pasal 34]] | [[#^penjelasan-pasal-34|Penjelasan]] | - |
+| [[#^pasal-35|Pasal 35]] | [[#^penjelasan-pasal-35|Penjelasan]] | - |
+| [[#^pasal-36|Pasal 36]] | [[#^penjelasan-pasal-36|Penjelasan]] | - |
+| [[#^pasal-37|Pasal 37]] | [[#^penjelasan-pasal-37|Penjelasan]] | - |
+| [[#^pasal-38|Pasal 38]] | [[#^penjelasan-pasal-38|Penjelasan]] | - |
+| [[#^pasal-39|Pasal 39]] | [[#^penjelasan-pasal-39|Penjelasan]] | - |
+| [[#^pasal-40|Pasal 40]] | [[#^penjelasan-pasal-40|Penjelasan]] | - |
+| [[#^pasal-41|Pasal 41]] | [[#^penjelasan-pasal-41|Penjelasan]] | - |
+| [[#^pasal-42|Pasal 42]] | [[#^penjelasan-pasal-42|Penjelasan]] | - |
+| [[#^pasal-43|Pasal 43]] | [[#^penjelasan-pasal-43|Penjelasan]] | - |
+| [[#^pasal-44|Pasal 44]] | [[#^penjelasan-pasal-44|Penjelasan]] | - |
+| [[#^pasal-45|Pasal 45]] | [[#^penjelasan-pasal-45|Penjelasan]] | - |
+| [[#^pasal-46|Pasal 46]] | [[#^penjelasan-pasal-46|Penjelasan]] | - |
+| [[#^pasal-47|Pasal 47]] | [[#^penjelasan-pasal-47|Penjelasan]] | - |
+| [[#^pasal-48|Pasal 48]] | [[#^penjelasan-pasal-48|Penjelasan]] | - |
+| [[#^pasal-49|Pasal 49]] | [[#^penjelasan-pasal-49|Penjelasan]] | - |
+| [[#^pasal-50|Pasal 50]] | [[#^penjelasan-pasal-50|Penjelasan]] | - |
+| [[#^pasal-51|Pasal 51]] | [[#^penjelasan-pasal-51|Penjelasan]] | - |
+| [[#^pasal-52|Pasal 52]] | [[#^penjelasan-pasal-52|Penjelasan]] | - |
+| [[#^pasal-53|Pasal 53]] | [[#^penjelasan-pasal-53|Penjelasan]] | - |
+| [[#^pasal-54|Pasal 54]] | [[#^penjelasan-pasal-54|Penjelasan]] | - |
+| [[#^pasal-55|Pasal 55]] | [[#^penjelasan-pasal-55|Penjelasan]] | - |
+| [[#^pasal-56|Pasal 56]] | [[#^penjelasan-pasal-56|Penjelasan]] | - |
+| [[#^pasal-57|Pasal 57]] | [[#^penjelasan-pasal-57|Penjelasan]] | - |
+| [[#^pasal-58|Pasal 58]] | [[#^penjelasan-pasal-58|Penjelasan]] | - |
+| [[#^pasal-59|Pasal 59]] | [[#^penjelasan-pasal-59|Penjelasan]] | - |
+| [[#^pasal-60|Pasal 60]] | [[#^penjelasan-pasal-60|Penjelasan]] | - |
+| [[#^pasal-61|Pasal 61]] | [[#^penjelasan-pasal-61|Penjelasan]] | - |
+| [[#^pasal-62|Pasal 62]] | [[#^penjelasan-pasal-62|Penjelasan]] | - |
+| [[#^pasal-63|Pasal 63]] | [[#^penjelasan-pasal-63|Penjelasan]] | - |
+| [[#^pasal-64|Pasal 64]] | [[#^penjelasan-pasal-64|Penjelasan]] | - |
+| [[#^pasal-65|Pasal 65]] | [[#^penjelasan-pasal-65|Penjelasan]] | - |
+| [[#^pasal-66|Pasal 66]] | [[#^penjelasan-pasal-66|Penjelasan]] | - |
+| [[#^pasal-67|Pasal 67]] | [[#^penjelasan-pasal-67|Penjelasan]] | - |
+| [[#^pasal-68|Pasal 68]] | [[#^penjelasan-pasal-68|Penjelasan]] | - |
+| [[#^pasal-69|Pasal 69]] | [[#^penjelasan-pasal-69|Penjelasan]] | - |
+| [[#^pasal-70|Pasal 70]] | [[#^penjelasan-pasal-70|Penjelasan]] | - |
+| [[#^pasal-71|Pasal 71]] | [[#^penjelasan-pasal-71|Penjelasan]] | - |
+| [[#^pasal-72|Pasal 72]] | [[#^penjelasan-pasal-72|Penjelasan]] | - |
+| [[#^pasal-73|Pasal 73]] | [[#^penjelasan-pasal-73|Penjelasan]] | - |
+| [[#^pasal-74|Pasal 74]] | [[#^penjelasan-pasal-74|Penjelasan]] | - |
+| [[#^pasal-75|Pasal 75]] | [[#^penjelasan-pasal-75|Penjelasan]] | - |
+| [[#^pasal-76|Pasal 76]] | [[#^penjelasan-pasal-76|Penjelasan]] | - |
+| [[#^pasal-77|Pasal 77]] | [[#^penjelasan-pasal-77|Penjelasan]] | - |
+| [[#^pasal-78|Pasal 78]] | [[#^penjelasan-pasal-78|Penjelasan]] | - |
+| [[#^pasal-79|Pasal 79]] | [[#^penjelasan-pasal-79|Penjelasan]] | - |
+| [[#^pasal-80|Pasal 80]] | [[#^penjelasan-pasal-80|Penjelasan]] | - |
+| [[#^pasal-81|Pasal 81]] | [[#^penjelasan-pasal-81|Penjelasan]] | - |
+| [[#^pasal-82|Pasal 82]] | [[#^penjelasan-pasal-82|Penjelasan]] | - |
+| [[#^pasal-83|Pasal 83]] | [[#^penjelasan-pasal-83|Penjelasan]] | - |
+| [[#^pasal-84|Pasal 84]] | [[#^penjelasan-pasal-84|Penjelasan]] | - |

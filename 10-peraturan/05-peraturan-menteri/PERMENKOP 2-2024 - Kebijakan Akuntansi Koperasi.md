@@ -1,30 +1,32 @@
 ---
-id: "PERMENKOP 2/2024"
+id: PERMENKOP 2/2024
 jenis: PERMENKOP
-lembaga: "Peraturan Menteri Koperasi dan UKM"
+lembaga: PERMENKOP
 nomor: 2
 tahun: 2024
-judul: "Kebijakan Akuntansi Koperasi"
-judul_singkat: "Kebijakan Akuntansi Koperasi"
+judul: Kebijakan Akuntansi Koperasi
+judul_singkat: Kebijakan Akuntansi Koperasi
 status: berlaku
-status_bpk: "Berlaku"
-ditetapkan: 2024-01-10
-berlaku_mulai: 2024-01-16
-mencabut: ["PERMENKOP 12/2015", "PERMENKOP 13/2015", "PERMENKOP 14/2015"]
-dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
-terkait: []
-bidang: [keuangan]
-tags: [jenis/permenkop, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/308465/permenkop-ukm-no-2-tahun-2024"
+status_bpk: Berlaku
+bidang:
+- keuangan
+tags:
+- jenis/permenkop
+- bidang/keuangan
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Kebijakan Akuntansi Koperasi**
 
 # Kebijakan Akuntansi Koperasi
 
@@ -33,7 +35,6 @@ last_updated: 2026-10-28
 > Sumber: https://peraturan.bpk.go.id/Details/308465/permenkop-ukm-no-2-tahun-2024
 
 > Sumber: [JDIH BPK](https://peraturan.bpk.go.id/Details/308465/permenkop-ukm-no-2-tahun-2024)
-
 
 **MENTERI KOPERASI DAN USAHA KECIL DAN MENENGAH**
 
@@ -53,7 +54,6 @@ last_updated: 2026-10-28
  Mengingat 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik
  Indonesia Tahun 1945; 2. Undang-Undang Nomor 25 Tahun 1992 tentang Perkoperasian (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor 3502) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Unclang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6841); 3. Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran Negara Republik Indor..esia Tahun 2008 Nomor 166, Tambahan Lembaran Negara Republik Indonesia Nomor 4916); 4. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran
 
-
 -----
 
 ###### -2-
@@ -68,41 +68,35 @@ last_updated: 2026-10-28
 
  Pasall
 
-                                              -
+ -
 ###### Dalam Peraturan Menteri ini yang dimaksud dengan:
  1. Koperasi adalah badan usaha yang beranggotakan orang .
  seorang atau badan hukum Koperasi dengan . melandaskan kegiatannya berdasarkan prinsip Koperasi sekaligus sebagai gerakan ekonomi rakyat yang berdasar atas asas kekeluargaan.
 
-
 -----
-
--3-
 
 ###### 2. Kegiatan Usaha Simpan Pinjam adalah kegiatan yang dilakukan untuk menghimpun dana dan menyalurkannya melalui Kegiatan Usaha Simpan Pinjam dari dan untuk anggota Koperasi yang bersangkutan, darr/atau Koperasi lain, termasuk yang melaksanakan pembiayaan sesuai prinsip syariah. 3. Koperasi Simpan Pinjam yang selanjutnya disingkat KSP adalah Koperasi yang kegiatannya hanya usaha simpan
 pmjam.
 ###### 4. Koperasi Simpan Pinjam dan Pembiayaan Syariah yang selanjutnya disingkat KSPPSadalah Koperasiyang hanya melaksanakan kegiatan usaha simpan, pinjam, dan pembiayaan sesuai prinsip syariah, termasuk mengelola - zakat, infak, sedekah, dan wakaf. 5. Unit Simpan Pinjam Koperasi yang selanjutnya disebut USP Koperasi adalah unit Koperasi yang bergerak di bidang usaha simpan pinjam sebagai bagian dari kegiatan usaha Koperasiyang bersangkutan. 6. Unit Simpan Pinjam dan Pembiayaan Syariah Koperasi yang selanjutnya disebut USPPS Koperasi adalah unit usaha Koperasi yang bergerak di bidang usaha simpan, pmjam, dan pembiayaan sesuai prinsip syariah, termasuk mengelola zakat, infak, sedekah, dan wakaf sebagai bagian dari kegiatan usaha Koperasi yang bersangkutan. 7. Koperasi Sektor Riiladalah Koperasiyang melaksanakan usaha yang menghasilkan barang dan jasa selain sektor jasa keuangan dan usaha simpan pinjam. 8. Rapat Anggota Tahunan adalah rapat anggota untuk merninta pertanggungjawaban pengurus dan pengawas yang dilaksanakan paling sedikit 1 (satu) kali dalam
  setahun. 9. Pengurus adalah anggota Koperasi yang diangkat dan dipilih dalam rapat anggota untuk mengurus organisasi dan usaha Koperasidan merupakan perangkat organisasi Koperasi yang bertanggung jawab penuh atas kepengurusan Koperasi untuk kepentingan dan tujuan Koperasi, serta mewakiliKoperasibaik di dalam maupun di luar pengadilan sesuai dengan ketentuan anggaran dasar. 10. Standar Akuntansi Keuangan yang selanjutnya disingkat SAKadalah kerangka standar pelaporan keuangan yang mencakup pilar-pilar SAKyang ditetapkan oleh Ikatan Akuntan Indonesia. 11. SAK Indonesia adalah Pernyataan Standar Akuntansi Keuangan (PSAK)dan Interpretasi Standar Akuntansi Keuangan (ISAK)yang diterbitkan oleh Ikatan Akuntan Indonesia serta peraturan regulator pasar modal untuk entitas yang berada di bawah pengawasannya, sepanjang peraturan regulator pasar modal tersebut tidak bertentangan dengan PSAKdan ISAKyang spesifikuntuk suatu transaksi, peristiwa,atau kondisi. 12. SAK Indonesia untuk Entitas Privat adalah SAKyang diterbitkan oleh Ikatan Akuntan Indonesia yang dapat
 
-
 -----
-
--4-
 
 ###### digunakan oleh entitas privat/ entitas tanpa akuntabilitas publik yang memenuhi persyaratan yang ditetapkan dalam SAKdimaksud. 13. SAKIndonesia untuk Entitas Mikro Kecil dan Menengah adalah SAK yang diterbitkan oleh Ikatan Akuntan Indonesia yang dapat digunakan oleh entitas mikro, keeil, dan menengah yang memenuhi persyaratan yang ditetapkan dalam SAKdimaksud, 14. Laporan Keuangan adalah suatu penyajian terstruktur dari posisi keuangan, kinerja keuangan, dan arus kas Koperasi. 15. Akuntan Publik adalah seseorang yang telah memperoleh izin untuk memberikan jasa berdasarkan Undang- Undang tentang Akuntan Publik. 16. Kantor Akuntan Publik adalah badan usaha yang didirikan berdasarkan ketentuan peraturan perundang- undangan dan mendapatkan izin usaha berdasarkan Undang-Undang tentang Akuntan Publik. 17. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan bidang Koperasi dan usaha kecil dan menengah. 18. Kementerian adalah kementerian yang menyelenggarakan urusan pemerintahan bidang Koperasi dan usaha kecil ...- dan menengah. 19. Deputi adalah unit kerja eselon I di Kementerian yang mempunyai tugas menyelenggarakan perumusan kebijakan serta koordinasi dan sinkronisasi pelaksanaan kebijakan di bidang perkoperasian. 20. Dinas adalah dinas yang menyelenggarakan urusan pemerintahan daerah di bidang Koperasi dan usaha mikro, keeil, dan menengah.
 
 BAB II
 ###### AKUNTANSIKOPERASI
 
- Pasal2 (1) Peraturan Menteri ini disusun sebagai pedoman bagi Koperasi dalam menyusun Laporan Keuangan. (2) Menteri menetapkan kebijakan akuntansi Koperasi berdasarkan SAKyang berlaku di Indonesia.
+### Pasal 2 ^pasal-2
 
- Pasal3
+
+
+### Pasal 3 ^pasal-3
+
 (I) Ruang lingkup kebijakan akuntansi Koperasi meliputi:
 ###### a. kebijakan akuntansi KSPIUSP Koperasi; b. kebijakan akuntansi KSPPS/USPPSKoperasi; dan e. kebijakan akuntansi Koperasi Sektor Riil. (2) Kebijakan akuntansi KSP/USP Koperasi sebagaimana dimaksud pada ayat (1)huruf a terdiri atas: a. penyajian Laporan Keuangan; b. akuntansi aset; e. akuntansi liabilitas; dan d. akuntansi ekuitas. (3) Kebijakan akuntansi KSPPS/USPPS Koperasi_ sebagaimana dimaksud pada ayat (1)huruf b terdiri atas:
 
-
 -----
-
--5-
 
 ###### a. penyajian Laporan Keuangan; b. akuntansi aset; c. akuntansi liabilitas; d. akuntansi dana syirkah temporer; dan e. akuntansi ekuitas. (4) Kebijakan akuntansi Koperasi Sektor Riil sebagaimana dimaksud pada ayat (1) huruf c terdiri atas: a. penyajian Laporan Keuangan; b. akuntansi aset; c. akuntansi liabilitas; dan d. akuntansi ekuitas.
 
@@ -115,17 +109,16 @@ BAB II
 BAB **III**
 ###### LAPORANKEUANGANKOPERASI
 
- Pasal 5 (1) KSPjUSP Koperasi, KSPPSjUSPPS Koperasi, Koperasi
- Sektor Riil, dan Koperasi yang menjalankan kegiatan usaha di sektor jasa keuangan wajib menyusun dan menyajikan Laporan Keuangan sesuai dengan kebijakan akuntansi sebagaimana dimaksud dalam Pasa14. (2) Kebijakan akuntansi penyusunan dan penyajian Laporan
+### Pasal 5 ^pasal-5
+
+Sektor Riil, dan Koperasi yang menjalankan kegiatan usaha di sektor jasa keuangan wajib menyusun dan menyajikan Laporan Keuangan sesuai dengan kebijakan akuntansi sebagaimana dimaksud dalam Pasa14. (2) Kebijakan akuntansi penyusunan dan penyajian Laporan
  Keuangan KSPjUSP Koperasi dan KSPPSjUSPPS Koperasi sesuai dengan SAK Indonesia untuk Entitas Privat tercantum dalam Lampiran I yang merupakan bagian tidak terpisahkan dari Peraturan Menteriini.
 
- Pasal6 (1) Laporan Keuangan sebagaimana dimaksud dalam Pasal 5
- terdiri atas: a. Laporan Keuangan tahunan; dan b. Laporan Keuangan periodik.
+### Pasal 6 ^pasal-6
 
+terdiri atas: a. Laporan Keuangan tahunan; dan b. Laporan Keuangan periodik.
 
 -----
-
--6-
 
 ###### (2) Laporan Keuangan tahunan sebagaimana dimaksud pada
  ayat (1) huruf a disusun oleh Pengurus KSPjUSP Koperasi, KSPPSjUSPPSKoperasi, Koperasi Sektor Riil, dan Koperasiyang menjalankan kegiatan usaha di sektor jasa keuangan sebagai satu kesatuan laporan tahunan
@@ -133,12 +126,13 @@ BAB **III**
  Rapat AnggotaTahunan.
 (3) Laporan Keuangan periodik sebagaimana dimaksud
 ###### dalam ayat (1) huruf b disusun oleh Pengurus KSPjUSP Koperasidan KSPPSjUSPPSKoperasiterdiri atas: a. triwulanan; b. semesteran; dan c. sewaktu-waktu dalam hal diperlukan.
-(4) Laporan Keuangan triwulanan sebagaimana dimaksud                     -
+(4) Laporan Keuangan triwulanan sebagaimana dimaksud -
 ###### pada ayat (3) huruf a dibuat untuk periode 3 (tiga) bulanan.
 (5) Laporan Keuangan semesteran sebagaimana dimaksud
 ###### pada ayat (3) huruf b dibuat untuk periode 6 (enam) bulanan.
 
- Pasal7
+### Pasal 7 ^pasal-7
+
 (1) Laporan Keuangan sebagaimana dimaksud dalam Pasa16
 ###### wajib disusun dalam Bahasa Indonesia.
 (2) Mata uang pelaporan yang disajikan dalam Laporan
@@ -152,7 +146,6 @@ BAB **III**
 (2) Laporan Keuangan bagi KSPPSj USPPS Koperasi yang
 ###### menggunakan SAK Indonesia untuk Entitas Privat meliputi: a. laporan posisi keuangan; '.- b. laporan perhitungan hasil usaha; c. laporan perubahan ekuitas; d. laporan arus kas; e. laporan rekonsiliasi pendapatan dan bagi hasil; f. laporan sumber dan penyaluran dana zakat; g. laporan sumber dan penggunaan dana kebajikan; dan h. catatan atas Laporan Keuangan.
 
-
 -----
 
 ###### -7-
@@ -161,25 +154,23 @@ BAB **III**
 (1) KSPjUSP Koperasi, KSPPSjUSPPS Koperasi, Koperasi
 ###### Sektor Riil, dan Koperasi yang menjalankan kegiatan usaha di sektor jasa keuangan wajib menyampaikan Laporan Keuangan tahunan kepada Kementerian danj atau Dinas sesuai dengan kewenangannya. (2) Selain menyampaikan Laporan Keuangan tahunan sebagaimana dimaksud pada ayat (1): a. KSP dan KSPPS wajib menyampaikan Laporan Keuangan periodik sesuai dengan ketentuan - peraturan perundang-undangan mengenai usaha simpan pinjam oleh Koperasi; dan b. USP KoperasijUSPPS Koperasi wajib menyampaikan Laporan Keuangan semesteran sebagaimana dimaksud dalam Pasal 6 ayat (5). (3) Laporan Keuangan tahunan USP KoperasijUSPPS Koperasi sebagaimana dimaksud pada ayat (1) dan Laporan Keuangan periodik USP KoperasijUSPPS Koperasi sebagaimana dimaksud pada ayat (2) huruf b disusun secara terpisah dengan Laporan Keuangan Koperasi yang bersangkutan sesuai dengan ketentuan peraturan perundang-undangan mengenai usaha simpan pinjam oleh Koperasi. (4) Penyampaian Laporan Keuangan tahunan sebagaimana dimaksud pada ayat (1) dan Laporan Keuangan periodik sebagaimana dimaksud pada ayat (2) meliputi: a. bagi Koperasi dengan wilayah keanggotaan dalam 1 (satu) kabupatenjkota menyampaikan Laporan Keuangan kepada bupatijwali kota; b. bagi Koperasi dengan wilayah keanggotaan lintas kabupatenjkota dalam 1 (satu) provmsi menyampaikan Laporan Keuangan kepada gubernur; dan c. bagi Koperasi dengan wilayah keanggotaan lintas provinsi menyampaikan Laporan Keuangan kepada Menteri.
 
- Pasal 10
+### Pasal 10 ^pasal-10
+
 (1) Laporan Keuangan wajib disampaikan melalui sistem
 ###### pelaporan secara elektronik yang dibuat oleh Kementerian. (2) Dalam kondisi tertentu KSPj USP Koperasi, KSPPSjUSPPS Koperasi, dan Koperasi Sektor Riil dapat menyampaikan Laporan Keuangan secara manual. (3) Kondisi tertentu sebagaimana dimaksud pada ayat (2) terdiri atas: a. Koperasi berkedudukan di daerah yang belum tersedia fasilitas jaringan telekomunikasi; b. Koperasi baru beroperasi dengan jangka waktu paling lama 2 (dua) bulan setelah melakukan kegiatan operasional; danj atau c. Keadaan kahar yang menyebabkan kerusakan danj atau gangguan pada pangkalan data atau jaringan komunikasi.
 
-
 -----
-
--8-
 
 ###### (4) Penyampaian Laporan Keuangan secara manual dalam kondisi tertentu sebagaimana dimaksud pada ayat (3) huruf a dan huruf b dilakukan melalui surat pemberitahuan beserta alasan dari Pengurus Koperasi kepada Kementerian danjatau Dinas. (5) Format surat pemberitahuan sebagaimana dimaksud pada ayat (4) tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
 
- Pasal 11 (1) Laporan Keuangan tahunan sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf a wajib disampaikan paling lambat: a. tanggal 30 (tiga puluh) bulan April untuk Koperasi primer; dan b. tanggal 30 (tiga puluh) bulan Juni untuk Koperasi sekunder. (2) Laporan Keuangan triwulanan sebagaimana dimaksud dalam Pasal 6 ayat (3) huruf a wajib disampaikan paling lambat: a. tanggal 20 (dua puluh) bulan April tahun berjalan untuk triwulan I; b. tanggal 20 (dua puluh) bulan Juli tahun berjalan untuk triwulan II; dan c. tanggal 20 (dua puluh) bulan Oktober tahun berjalan untuk triwulan III. (3) Laporan Keuangan semesteran sebagaimana dimaksud dalam Pasal 6 ayat (3) huruf b berupa Laporan Keuangan bulan Januari sampai dengan akhir bulan Juni.
+### Pasal 11 ^pasal-11
+
 (4) Laporan Keuangan semesteran sebagaimana dimaksud
 ###### pada ayat (3) wajib disampaikan paling lambat setiap tanggal 20 (dua puluh) bulan Juli tahun berjalan.
 
  BABIV AUDITLAPORANKEUANGAN
 
- Pasal12 (1) Laporan Keuangan tahunan KSPjUSP Koperasi dan KSPPSjUSPPS Koperasi yang mempunyai modal paling sedikit Rp5.000.000.000,00 (lima miliar rupiah) dalam 1 (satu) tahun buku, wajib diaudit oleh Akuntan Publik. (2) Menteri melalui Deputi menetapkan kriteria Koperasi Sektor Riil yang wajib diaudit oleh Akuntan Publik. (3) Akuntan Publik yang melakukan audit Laporan Keuangan tahunan sebagaimana dimaksud pada ayat (1) dan ayat (2) serta Kantor Akuntan Publik harus terdaftar di Kementerian dan kementerian yang menyelenggarakan urusan pemerintahan bidang keuangan sesuai dengan ketentuan peraturan perundang-undangan. (4) Akuntan Publik melakukan audit Laporan Keuangan pada KSPjUSP Koperasi, KSPPSjUSPPS Koperasi, dan Koperasi Sektor Riil yang sarna paling lama 3 (tiga) tahun berturut-turut dengan periode jeda 2 (dua) tahun.
-
+### Pasal 12 ^pasal-12
 
 -----
 
@@ -192,14 +183,14 @@ BABV
 
  Pasa113 KSPjUSP Koperasi, KSPPSjUSPPS Koperasi, dan Koperasi Sektor Riil wajib menerapkan kebijakan akuntansi Koperasi yang menggunakan SAK Indonesia untuk Entitas Privat paling lambat tahun buku 2025.
 
- Pasal14 KSPjUSP Koperasi, KSPPSjUSPPS Koperasi, dan Koperasi Sektor Riil wajib diaudit oleh Akuntan Publik dan Kantor Akuntan Publik yang terdaftar di Kernenterian paling lambat tahun buku 2025.
+### Pasal 14 ^pasal-14
 
 BABVI
 ###### SANKSIADMINISTRATIF
 
- Pasal15 (1) KSPjUSP Koperasi, KSPPSjUSPPS Koperasi, Koperasi Sektor Riil, dan Koperasi yang menjalankan kegiatan usaha di sektor jasa keuangan yang melanggar ketentuan sebagaimana dimaksud dalam Pas a! 4 ayat (1), Pasal 5 ayat (1), Pasal 6 ayat (2), Pasal 7 ayat (1), Pasa17 ayat (3), Pas a! 9 ayat (1), Pasal 9 ayat (2), Pasal 10 ayat (1), Pasal _ 11 ayat (1), Pasal 11 ayat (2), Pasal 11 ayat (4), Pasal 12 ayat (1), Pasal 12 ayat (2), Pasal 13, dan Pasal 14 dikenai
- sanksi administratif oleh Menteri, gubernur, atau bupatijwali kota sesuai dengan kewenangannya. (2) Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa: a. teguran tertulis pertama dan kedua; b. penangguhan penerbitan sertifikat nomor induk Koperasi; c. penurunan penilaian kesehatan; d. pembekuan sementara izin us aha simpan pinjam; e. pencabutan izin usaha simpan pinjam; danj atau f. penutupan uSP KoperasijUSPPS Koperasi atau pembubaran Koperasi. (3) Ketentuan lebih lanjut mengenai tata cara pengenaan _ sanksi administratif sebagaimana dimaksud pada ayat (2) ,. ditetapkan oleh Menteri.
+### Pasal 15 ^pasal-15
 
+sanksi administratif oleh Menteri, gubernur, atau bupatijwali kota sesuai dengan kewenangannya. (2) Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa: a. teguran tertulis pertama dan kedua; b. penangguhan penerbitan sertifikat nomor induk Koperasi; c. penurunan penilaian kesehatan; d. pembekuan sementara izin us aha simpan pinjam; e. pencabutan izin usaha simpan pinjam; danj atau f. penutupan uSP KoperasijUSPPS Koperasi atau pembubaran Koperasi. (3) Ketentuan lebih lanjut mengenai tata cara pengenaan _ sanksi administratif sebagaimana dimaksud pada ayat (2) ,. ditetapkan oleh Menteri.
 
 -----
 
@@ -207,10 +198,11 @@ BABVI
 
  BAB VII KETENTUANPENUTUP
 
- Pasal16 Pada saat Peraturan Menteri ini mulai berlaku: a. Peraturan Menteri Koperasi dan Usaha Kecil dan Menengah Nomor 12jPerjM.KUKMjIXj2015 tentang Pedoman Umum Akuntansi Koperasi Sektor Riil (Berita Negara Republik Indonesia Tahun 2015 Nomor 1491); b. Peraturan Menteri Koperasi dan Usaha Kecil dan Menengah Nomor 13jPerjM.KUKMjIXj2015 tentang Pedoman Akuntansi Usaha Simpan Pinjam Koperasi (Berita Negara Republik Indonesia Tahun 2015 Nomor 1492); c. Peraturan Menteri Koperasi dan Usaha Kecil dan Menengah Nomor 14jPerjM.KUKMjIXj2015 tentang Pedoman Akuntansi Usaha Simpan Pinjam dan Pembiayaan Syariah oleh Koperasi (Berita Negara Republik Indonesia Tahun 2015 Nomor 1493); dan d. ketentuan terkait pelaporan keuangan sebagaimana diatur dalam Pasal 2 ayat (4) dan Pasal 2 ayat (5) Peraturan Menteri Koperasi dan Usaha Kecil dan Menengah Nomor 3 Tahun 2021 ten tang Pelaksanaan Peraturan Pemerintah Nomor 7 Tahun 2021 ten tang Kemudahan, Pelindungan, dan Pemberdayaan Koperasi - dan Usaha Mikro, Kecil, dan Menengah (Berita Negara Republik Indonesia Tahun 2021 Nomor 641), dicabut dan dinyatakan tidak berlaku.
+### Pasal 16 ^pasal-16
 
- Pasal17 Peraturan Menteri im mulai berlaku pada tanggal diundangkan.
 
+
+### Pasal 17 ^pasal-17
 
 -----
 
@@ -244,7 +236,6 @@ BABVI
 
 tNtP 1leFf~-2M2tOO1 '1'21oo~
 
-
 -----
 
 ###### -12-
@@ -269,7 +260,6 @@ KEBIJAKAN AKUNTANSI KOPERASI
  dampak perubahan dalam kebijakan akuntansi dan koreksi kesalahan yang diakui pada periode tersebut dan jumlah transaksi ekuitas dengan Anggotadalam kapasitasnya sebagai pemilikselama periodetersebut. , 5. Laporanarus kas
  Laporan keuangan yang menyediakan informasi mengenai perubahan kas dan setara kas Koperasiuntuk suatu periode, menunjukkan secara terpisah perubahan selama periode dari aktivitas operasi, aktivitas investasi dan aktivitas pendanaan. 6. Laporansumber dan penyaluran dana zakat Laporanyang menyajikan sumber dan penyaluran dana zakat. 7. Laporan sumber dan penggunaan dana kebajikan Laporan yang menyajikan sumber-sumber dan penggunaan dana kebajikan selain dana zakat. 8. Laporanrekonsiliasi pendapatan dan bagi hasil Laporan rekonsiliasi pendapatan dan bagi hasil yang merupakan rekonsiliasi antara pendapatan yang menggunakan dasar akrual dan pendapatan yang dibagihasilkan kepada Anggota dan Koperasi lain yang menggunakan dasar kas. 9. Catatan atas laporan keuangan Catatan yang berisi informasipenjelasan atas apa yang disajikan dalam laporan posisi keuangan, laporan perhitungan hasil usaha, laporan
 
-
 -----
 
 ###### -13-
@@ -281,7 +271,6 @@ KEBIJAKAN AKUNTANSI KOPERASI
 ###### 1. Aset Sumber daya yang dikendalikan oleh Koperasi sebagai akibat dari peristiwa (transaksi dan peristiwa lain) inasa lalu dan dari mana manfaat ekonomikmasa depan diharapkan mengalir ke Koperasi. 2. Liabilitas Kewajiban saat ini Koperasi yang timbul dari peristiwa (transaksi dan peristiwa lain) masa lalu yang penyelesaiannya diperkirakan mengakibatkan arus keluar dari sumber daya Koperasi yang mengandung manfaat ekonomik. 3. Dana syirkah ternporer Dana yang diterima dengan jangka waktu tertentu dad Anggota, Koperasi lain, dan pihak lain dimana Koperasi memiliki hak untuk mengelola dana tersebut dengan pembagian hasil berdasarkan kesepakatan. 4. Ekuitas Hak residual (sisa) atas aset Koperasi setelah dikurangi seluruh liabilitas dari/atau dana syirkah temporer. 5. Kas Kas (cash on hand), rekening giro dan tabungan pada bank, dan simpanan pada Koperasilain. ,.' 6. Setara kas Penempatan dana jangka pendek yang dimiliki Koperasi, sangat likuid yang segera dapat dikonversi menjadi kas dalam jumlah yang dapat
  ditentukan dan memilikirisiko perubahan nilai yang tidak signifikan. 7. Pinjaman yang diberikan Penyediaan uang atau tagihan yang dapat dipersamakan dengan itu, berdasarkan persetujuan atau kesepakatan pinjam meminjam antara Koperasidengan Anggotadanl atau Koperasilain. 8. Pembiayaan yang diberikan Penyediaan uang atau tagihan yang dipersamakan dengan itu, berdasarkan persetujuan atau kesepakatan antara Koperasi dengan Anggota danl atau Koperasi lain dengan mengembalikan uang atau
  tagihan tersebut setelah jangka waktu tertentu dengan imbalan sesuai dengan akad yang menggunakan prinsip syariah. 9. Qardh Akad pinjaman dana kepada Anggota dan/ atau Koperasi lain dengan ketentuan bahwa Anggotadanl atau Koperasilain wajib mengembalikan dana yang diterimanya pada waktu yang telah disepakati. 10.Pinjaman qardh Pinjaman yang diberikan Koperasi kepada Anggota atau Koperasi lain dengan akad qardh: 11.Murabahah Akadjual beli suatu barang dengan menegaskan harga belinya kepada Anggotadan/ atau Koperasi lain, dan membayamya dengan harga yang lebih sebagai keuntungan yang disepakati.
-
 
 -----
 
@@ -301,10 +290,7 @@ _(mudharib)._
 
 "."
 
-
 -----
-
--15-
 
 ###### 26.Arnortisasi . Alokasisistematis atas jumlah tersusutkan dari suatu aset takberwujud
  selarna umur manfaatnya. ',' 27. Akumulasi amortisasi
@@ -312,7 +298,6 @@ _(mudharib)._
 
 **BAGIAN** **IV:** **LAPORAN** **PERHITUNGAN** **BASIL** **USABA**
 ###### 1. Penghasilan Kenaikan manfaat ekonomik selama periode pelaporan dalam bentuk arus masuk atau peningkatan aset atau penurunan liabilitas yang mengakibatkan kenaikan ekuitas, selain yang berkaitan dengan partisipasi modal dari Anggota. 2. Pendapatan Arus masuk bruto dari manfaat ekonomik yang timbul dari aktivitas normal Koperasi selama suatu periode jika arus masuk tersebut mengakibatkan kenaikan ekuitas yang tidak berasal dari partisipasi modal dari Anggota. 3. Beban Penurunan manfaat ekonomik selama periode pelaporan dalam bentuk ' arus keluar atau deplesi aset atau terjadinya liabilitas yang mengakibatkan penurunan ekuitas, selain yang berkaitan dengan pembagian SHUkepada Anggota.
-
 
 -----
 
@@ -329,7 +314,6 @@ _(mudharib)._
 
 **BAGIAN** **VII:** **LAPORAN** **SUMBER** **DAN** **PENGGUNAAN** **DANA** **KEBAJIKAN**
 ###### 1. Infak Harta diluar zakat yang dikeluarkan oleh Anggota atau Koperasi untuk kemaslahatan umum. 2. Dana infak Dana yang bersumber dad infak yang diterima oleh Koperasi. 3. Sedekah Harta atau non harta yang dikeluarkan oleh Anggota atau Koperasi diluar zakat untuk kemaslahatan umum. 4. Dana sedekah Dana yang bersumber dari sedekah yang diterima oleh Koperasi.
-
 
 -----
 
@@ -372,10 +356,7 @@ _(mudharib)._
 
  1.9. Laporan Arus Kas Laporan arus kas disajikan menjadi arus kas dari-operasidengan metode langsung, arus kas dari investasi, dan arus kas dari pendanaan.
 
-
 -----
-
--18-
 
 ###### 1.10. Catatan Atas Laporan Keuangan Catatan atas laporan keuangan mencakup pernyataan kepatuhan terhadap SAK Indonesia untuk Entitas Privat, ringkasan kebijakan akuntansi yang signifikan, informasi pendukung pos-pos laporan _ keuangan, dan pengungkapan lain.
 
@@ -394,10 +375,7 @@ _(mudharib)._
 1. Aset takberwujud adalah aset nonmoneter yang dapat diidentifikasi
 ###### tanpa wujud fisiko 2. Aset takberwujud berasal dari perolehan eksternal.
 
-
 -----
-
--19-
 
 ###### Kebijakan akuntansi 3. Aset takberwujud diakui dan diukur dengan modelbiaya.
 
@@ -411,7 +389,6 @@ _(mudharib)._
 
  3.3. Imbalan Kerja Pengertian
  1. Imbalan kerja adalah seluruh bentuk imbalan yang diberikan oleh KSPjUSP Koperasi sebagai pertukaran atas jasa yang diberikan oleh pekerja, Pengurus, dan pengawas. 2. Imbala.nkerja terdiri atas: 1) Imbalan kerja jangka pendek yaitu imbalan kerja (selain pesangon) yang jatuh tempo seluruhnya dalam waktu 12 (dua belas) bulan setelah akhir periodepekerja memberikanjasanya. 2) Imbalan pascakerja yaitu imbalan kerja (selain pesangon) yang terutang setelah pekerja menyelesaikan kontrak kerjanya. Imbalan pascakerja diklasifikasikan menjadi iuran pasti dan imbalanj manfaat pasti. 3) Imbalan kerja jangka panjang lain yaitu imbalan kerja (selain imbalan pascakerja dan pesangon) yang tidak seluruhnya jatuh tempo dalam waktu 12 (dua belas) bulan setelah pekerja memberikanjasanya.
-
 
 -----
 
@@ -434,10 +411,7 @@ _(mudharib)._
  4.4. Ekuitas Lain Pengertian
  1. Ekuitas lain adalah unsur ekuitas yang tidak terrnasuk sirnpanan pokok, simpanan wajib, modal tetap, modal tambahan, Sisa Hasil Usaha, dan dana cadangan.
 
-
 -----
-
--21-
 
 ###### 2. Ekuitas lain timbul dari transaksi ekuitas yang tidak menimbulkan kewajiban kontraktual KSP/USP Koperasi untuk menyerahkan kas atau aset keuangan lain. Kebijakan akuntansi 3. Elruitas lain disajikan dalam pos tersendiri di ekuitas.
 
@@ -448,7 +422,6 @@ _(mudharib)._
 
  20xl 20x2 ASET Kas dan setara kas x x Piutang bunga x x Pinjaman anggota x x Penyisihan pinjaman (x) (x) Pinjaman koperasi lain x x Penyisihan pinjaman (x) (x) Aset tetap x x Alrumulasi penyusutan (x) (x) Aset takberwujud x x Akumulasi amortisasi (x) (xl Aset lain x x Total aset x x LIABILITAS Utang bunga x x Simpanan anggota x x Simpanan koperasi lain x x Utang pinjaman x x Liabilitas imbalan kerja x x Liabilitas lain x x Total liabilitas x x EKUITAS Simpanan pokok/ modal tetap x x Simpanan wajibj modal tambahan x x Cadangan umum x x Cadangan risiko x x Sisa hasil usaha x x Ekuitas lain x x Total ekuitas x x Totalliabilitas dan ekuitas x x
 
-
 -----
 
 ###### -22-
@@ -457,7 +430,6 @@ _(mudharib)._
  KOPERASI/UNIT SIMPAN PINJAM Laporan Perhitungan Hasit Usaha Tahun yang berakhir 31 Desember 20x1 dan 2Ox2
 
  20xl 20x2 PARTISIPASI ANGGOTA Pendapatan bunga x x Pendapatan usaha lain x x Jumlah partisipasi anggota x x BEBANUSAHA Beban bunga x x Beban penyisihan x x Beban kepegawaian x x Beban administrasi dan umum x x Beban penyusutan dan amortisasi x x Beban usaha lain x x Jumlah beban usaha x x SISA HASIL USAHA BRUTO Hasil investasi x x Beban perkoperasian x x PENDAPATAN & BEBAN LAIN Pendapatan lain x x Beban lain x x Sisa hasil usaha sebelum pajak x x Beban pajak penghasilan x x SISA HASIL USAHA x x Penghasilan komprehensif lain x x PENGHASILAN KOMPREHENSIF x x
-
 
 -----
 
@@ -484,10 +456,7 @@ _(mudharib)._
 **SALDOAWAL** x x
 **SALDO AKHIR** x x
 
-
 -----
-
--24-
 
 4. CONTOH LAPORAN 'PERUBAHAN EKUITAS BAGI KSP JUSP KOPERASI
 
@@ -506,63 +475,62 @@ Saldo 1 Januari x x x x x x
 20xl
 Perubahan
 ekuitas di 20xl:
-Sisa hasil usaha ~ ~ x ~ ~         -
-Penghasilan        -        -        -        -        - x
+Sisa hasil usaha ~ ~ x ~ ~ -
+Penghasilan - - - - - x
 komprehensif
 lain
-Pembagian sisa       -       - [x] x x       -
+Pembagian sisa - - [x] x x -
 hasil usaha
-Penambahan x x       -       -       -       -
+Penambahan x x - - - -
 modal
 
-simpanan x x        -        -        -        -
+simpanan x x - - - -
 pokok/ modal
 tetap
-simpanan x x        -        -        -        -
+simpanan x x - - - -
 wajib/ modal
 tambahan
-Pengurangan (x) (x)       -       -       -       -
+Pengurangan (x) (x) - - - -
 modal
 
-simpanan (x) (x]        -        -        -        -
+simpanan (x) (x] - - - -
 pokok/ modal
 tetap
 
-simpanan (x) (x]        -        -        -        -
+simpanan (x) (x] - - - -
 wajib/ modal
 tambahan
 Saldo 31 x x x x x x
 Desember 20xl
 Perubahan
 ekuitas di 20x2: ,0'",
-Sisa hasil usaha        -        - x        -        -        -
-Penghasilan        -        -        -        -        - x
+Sisa hasil usaha - - x - - -
+Penghasilan - - - - - x
 komprehensif
 lain
-Pembagian sisa       -       - [x) x x       -
+Pembagian sisa - - [x) x x -
 hasil usaha
-Penambahan x x       -       -       -       -
+Penambahan x x - - - -
 modal
 
-simpanan x x        -        -        -        -
+simpanan x x - - - -
 pokok/ modal
 tetap
-simpanan x x        -        -        -        -
+simpanan x x - - - -
 wajib/ modal
 tambahan
-Pengurangan (x) (x)       -       -       -       -
+Pengurangan (x) (x) - - - -
 modal
 
-simpanan (x) [x]        -        -        -        -
+simpanan (x) [x] - - - -
 pokok/ modal
 tetap
 
-simpanan (xl (xl        -        -        -        -
+simpanan (xl (xl - - - -
 wajib/ modal
 tambahan
 Saldo 31 x x x x x x
 Descmber 20x2
-
 
 -----
 
@@ -612,10 +580,7 @@ Descmber 20x2
 
  1.8. Laporan Perubahan Ekuitas Laporan perubahan ekuitas disajikan sebagai laporan tersendiri dan tidak digabung dengan laporan perhitungan hasil usaha.
 
-
 -----
-
--26-
 
 ###### 1.9. Laporan Arus Kas Laporan arus kas disajikan menjadi arus kas dari operasi dengan metode langsung, arus kas dari investasi, dan arus kas dari pendanaan.
 
@@ -634,7 +599,6 @@ Descmber 20x2
  2.1. Pinjaman yang Diberikan Pengertian
  1. Pinjaman yang diberikan adalah penyediaan uang berdasarkan persetujuan atau kesepakatan pinjam meminjam antara Koperasi dengan Anggotadan/ atau Koperasilain. 2. Pinjaman yang diberikan merupakan pinjaman qardh yaitu pinjaman dana kepada Anggota dan/ atau Koperasi lain dengan ketentuan bahwa Anggota dan/ atau Koperasi lain wajib mengembalikan dana yang diterimanya pada waktu yang telah disepakati. Kebijakan Akuntansi 3. Pinjaman qardh diakui dan diukur sebesar jumlah yang dipinjamkan. 4. Penyisihan pinjaman qardh tidak tertagih ditentukan berdasarkan bukti objektif (incurred loss) yang dihitung secara individual untuk pinjaman yang jumlahnya signifikan dan secara kolektif untuk pinjaman yang jumlahnya tidak signifikan, tanpa unsur nilai waktu atas uang (time value of money).
 
-
 -----
 
 ###### -27-
@@ -644,10 +608,7 @@ Descmber 20x2
 ##### danl atau Koperasi lain, dan membayarnya dengan harga yang lebih
 ###### sebagai keuntungan yang disepakati. 4. Pembiayaan mudharabah adalah pembiayaan dengan akad atau sistem kerja sarna dimana Koperasi menyerahkan dana kepada Anggota dan/ atau Koperasi lain untuk dikelola dengan ketentuan bahwa keuntungan yang diperoleh (dari hasil pengelolaan tersebut] dibagi antara kedua pihak sesuai dengan nisbah yang disepakati, sedangkan kerugian ditanggung oleh pemilik dana (shahib al ma~ sepanjang tidak ada kelalaian dari Anggota danl atau Koperasi lain (mudharib). 5. Pembiayaan musyarakah adalah pembiayaan dengan akad kerja sarna antara Koperasi dengan Anggota atau Koperasi lain untuk suatu usaha tertentu, di mana masing-masing pihak memberikan kontribusi dana (modal)dengan ketentuan bahwa keuntungan dibagi sesuai dengan nisbah yang disepakati atau proporsional, dan risiko akan ditanggung bersarna secara proporsional. 6. Pembiayaan ijarah adalah pembiayaan dengan akad sewa antara Koperasidengan Anggotaatau Koperasilain, untuk mempertukarkan manfaat dan ujrah, baik manfaat aset maupun jasa. Kebijakan Akuntansi 7. Pendapatan murabahah diukur secara proporsional jika Koperasi memilikirisiko yang signifikan terkait persediaan, atau secara efektif jika Koperasitidak memilikirisikoyang signifikanterkait persediaan. 8. Pendapatan bagi hasil mudharabah diukur sebesar nisbah berdasarkan laba bruto (grossprofit) atau laba neto (net profi~. 9. Pendapatan bagi hasil musyarakah diukur sebesar nisbah berdasarkan laba bruto (grossprofi~ atau laba neto (net profit). 10.Pendapatan ijarah diukur sebagai berikut: 1) Ijarah aset diukur secara merata selama masa akad. 2) Ijarah jasa secara langsung diukur sesuai kemajuan (progress) pemberianjasa. 3) Ijarah jasa secara tidak langsung diakui secara neto sebesar selisih antara jumlah yang ditagihkan kepada tnusta'jir akhir dan jumlah yang dibayarkan kepada ajir awal. 11.Penyisihan pembiayaan tidak tertagih ditentukan berdasarkan bukti objektif (incurred loss) yang dihitung secara individual untuk pembiayaan yang jumlahnya signifikan dan secara kolektif untuk pembiayaan yang jumlahnya tidak signifikan, tanpa unsur nilai waktu atas uang (time value of money).
 
-
 -----
-
--28-
 
 ###### 2.3. Aset Tetap Pengertian
  1. Asettetap adalah aset berwujud yang dimilikiuntuk digunakan dalam . - penyediaanjasa, direntalkan kepada pihak lain dalam kegiatan usaha sehari-hari, atau tujuan administratif dan digunakan selarna lebih dari satu periode. 2. Asettetap dapat dikelompokanantara lain menjadi tanah, bangunan, kendaraan, kornputer, furnitur, dan lain-lain. Kebijakan akuntansi 3. Asettetap diakui dan diukur dengan modelbiaya.
@@ -667,10 +628,7 @@ Descmber 20x2
  1. Imbalan kerja adalah seluruh bentuk imbalan yang diberikan oleh KSPPSjUSPPSKoperasi pertukaran atas jasa yang diberikan oleh pekerja, Pengurus, dan pengawas. 2. Imbalan kerja terdiri atas: 1) Imbalan kerja jangka pendek yaitu adalah imbalan kerja (selain pesangon) yang jatuh tempo seluruhnya dalam waktu 12 (dua belas) bulan setelah akhir periodepekerja memberikanjasanya. 2) Imbalan pascakerja yaitu imbalan kerja (selain pesangon) yang terutang setelah pekerja menyelesaikan kontrak kerjanya. Imbalan pascakerja diklasifikasikan menjadi iuran pasti dan imbalanj'manfaat pasti. 3) Imbalan kerja jangka panjang lain yaitu imbalan kerja (selain imbalan pascakerja dan pesangon) yang tidak seluruhnya jatuh tempo dalam waktu 12 (dua belas) bulan setelah pekerja memberikanjasanya. 4) Pesangon yaitu imbalan kerja yang terutang akibat keputusan ~. Koperasi untuk memberhentikan pekerja sebelum usia pensiun normal, atau keputusan pekerja menerima tawaran untuk mengundurkan diri secara sukare1a dengan imbalan pesangon
  tertentu (pensiun dini).
 
-
 -----
-
--29-
 
 ###### Kebijakan akuntansi 3. Imbalan kerja diakui pada saat pekerja telah memberikan jasanya kepada Koperasidalam suatu periodetertentu. 4. Imbalan kerja jangka pendek dan imbalan pesangon diukur pada jumlah yang harus dibayarkan. 5. Imbalan pascakerja dan imbalan kerja jangka panjang lain pada jumlah yang telah didiskonto. 6. Keuntungan/kerugian aktuarial diakui di laba rugi.
 
@@ -691,10 +649,7 @@ Descmber 20x2
  5.2 Modal Tetap dan Tambahan Pengertian
  1. Modaltetap adalah modal yang ditempatkan oleh Koperasipada awal pendirian Koperasi. 2. Modal tambahan adalah tarnbahan modal yang ditempatkan oleh Koperasisetelah pendirian Koperasi. Kebijakan akuntansi 3. Modaltetap dan tarnbahan disajikan di ekuitas.
 
-
 -----
-
--30-
 
 ###### 5.3 Sis a Basil Usaha dan Dana Cadangan Pengertian
  1. Sisa hasil usaha adalah laba atau rugi bersih KSPPSjUSPPSKoperasi yang diperoleh dalam periode berjalan. 2. Dana cadangan adalah penyisihan SHU yang dimaksudkan untuk memupuk modal sendiri dan menutup kerugian KSPPS/USPPS Koperasi bila diperlukan. Kebijakan akuntansi 3. Sisa hasil usaha dan dana cadangan disajikan di ekuitas.
@@ -712,17 +667,13 @@ Descmber 20x2
  Pinjaman qardh x x Pinjaman koperasi lain:
  Pinjaman qardh x x Pembiayaan anggota: Pembiayaan murabahah x x Penyisihan pembiayaan (x) (J9_ Pembiayaan istishna x x Penyisihan pembiayaan (x) (x) Pembiayaan mudharabah x x Penyisihan pembiayaan (x) (x) Pembiayaan musyarakah x x Penyisihan pembiayaan (x) (x) Aset ijarah x x Akumulasi penyusutan [x] (x) Pembiayaan kO__2_erasilain: x x Pembiayaan murabahah x x Penyisihan pembiayaan (x) (x) Pembiayaan istishna x x Penyisihan pembiayaan (xl (x)
 
-
 -----
 
 ###### -31-
 
  Pembiayaan mudharabah x x Penyisihan pembiayaan (xj_ (xl_ Pembiayaan musyarakah x x Penyisihan pembiayaan (x) (x) Aset ijarah x x Akumulasi penyusutan (x) (x) Aset tetap x x Akumulasi penyusutan (x) (x) Aset takberwujud x x Akumulasi amortisasi (x) (x) Aset lain x x Total aset x x LIABILITAS Utang bagi hasil x x Dana zakat x x Dana kebajikan x x Simpanan wadiah anggota x x Sirnpanan wadiah koperasi lain x x Liabilitas imbalan kerja x x Liabilitas lain x x Totalliabilitas x x DANASYIRKAH TEMPORER Simpanan anggota x x Simpanan koperasi lain x x Pembiayaan diterima x x Total dana syirkah te~porer x x EKUITAS y Sim_Qananpokok/ modal tetap x x Simpanan wajib/ modal tambahan x x Cadangan umum x x Cadangan risiko x x Sisa hasil usaha x x Ekuitas lain x x Total ekuitas x x Totalliabilitas, dana syirkah temporer, dan ekuitas x x
 
-
 -----
-
--32-
 
 ###### 2. CONTOH LAPORAN PERHITUNGAN HASIL USAHA BAGI KSPPSjUSPPS KOPERASI
 
@@ -745,7 +696,6 @@ Descmber 20x2
 **SiSA** **HASIL** **USAHA** x x
 ###### Penghasilan komprehensif lain x x
 **PENGHASILAN** **KOM'PREHENSIF** x x
-
 
 -----
 
@@ -771,12 +721,11 @@ Descmber 20x2
 **Jumlah** **arus** **kas** **pendanaan** x x
 ###### ~NAlKAN (PENURUNAN) x x
 
-                                                                             -
+ -
 
 **SALDOAWAL** x x
 
 **SALDOAKHIR** x x
-
 
 -----
 
@@ -799,58 +748,57 @@ Saldo 1 Januari x x x x x x
 20x1
 Perubahan ekuitas
 di 2Oxl:
-Sisa hasil usaha         -         - x         -         -         -
-Penghasilan        -        -        -        -        - x
+Sisa hasil usaha - - x - - -
+Penghasilan - - - - - x
 komprehensif lain
 
-Pembagian sisa        -        - (x) x x        -
+Pembagian sisa - - (x) x x -
 hasil usaha
 Penambahan modal
 
-simpanan x x         -         -         -         -
+simpanan x x - - - -
 pokok / modal
 tetap
-simpanan wajib x x         -         -         -         -
+simpanan wajib x x - - - -
 / modal
 tambahan
 Pengurangan
 modal
 
-simpanan (x)         -         -         -         -         -
+simpanan (x) - - - - -
 pokok / -modal
 tetap
-simpanan wajib (x)         -         -         -         -         -
+simpanan wajib (x) - - - - -
 ###### I modal
 tambahan
 Saldo 31 Desember x x x x x x
 20xl
 Perubahan ekuitas
 di 20x2:
-Sisa hasil usaha         -         - x         -         -         -
-Penghasilan        -        -        -        -        - x
+Sisa hasil usaha - - x - - -
+Penghasilan - - - - - x
 komprehensif lain
-Pembagian sisa        -        - (x) x x        -
+Pembagian sisa - - (x) x x -
 hasil usaha
 Penambahan modal
 
-simpanan x x         -         -         -         -
+simpanan x x - - - -
 pokok / modal
 tetap
-simpanan wajib -:it x         -         -         -         -
+simpanan wajib -:it x - - - -
 / modal
 tambahan
 Pengurangan
 modal
 
-simpanan (x) (x)         -         -         -         -
+simpanan (x) (x) - - - -
 pokok / modal
 tetap
-simpanan wajib [x] (x)         -         -         -         -
+simpanan wajib [x] (x) - - - -
 / modal
 tambahan
 Saldo 31 Desember x x x x x x
 20x2
-
 
 -----
 
@@ -873,7 +821,6 @@ Saldo 31 Desember x x x x x x
 **Jumlah** x x
 **PENDAPATAN** **TERSEDIA** **UNTUK** **BAGI** **HASIL** x x
 ###### Bagihasil untuk koperasi x x Bagihasil untuk pemilik dana x x Sudah dibagikan x x Belum dibagikan x x
-
 
 -----
 
@@ -942,7 +889,6 @@ ttd.
 
 TETEN MASDUKI
 
-
 -----
 
 ###### -37-
@@ -990,6 +936,23 @@ TETEN MASDUKI
 
  TETEN MASDUKI
 
-
 -----
 
+## Penjelasan
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | - |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | - |
+| [[#^pasal-12|Pasal 12]] | [[#^penjelasan-pasal-12|Penjelasan]] | - |
+| [[#^pasal-14|Pasal 14]] | [[#^penjelasan-pasal-14|Penjelasan]] | - |
+| [[#^pasal-15|Pasal 15]] | [[#^penjelasan-pasal-15|Penjelasan]] | - |
+| [[#^pasal-16|Pasal 16]] | [[#^penjelasan-pasal-16|Penjelasan]] | - |
+| [[#^pasal-17|Pasal 17]] | [[#^penjelasan-pasal-17|Penjelasan]] | - |

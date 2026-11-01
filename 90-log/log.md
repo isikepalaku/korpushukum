@@ -91,3 +91,8 @@ last_updated: 2026-10-28
 - Koreksi struktur: 9 putusan MK yang sempat dipartisi dikembalikan ke `struktur_teks: datar` —
   putusan hanya *mengutip* Penjelasan pasal, bukan punya bagian penjelasan sendiri.
 - `chunks-stats.json` di-commit sebagai penanda versi ekspor.
+
+## [2026-11-01] ingest-auto | UU 5/2026
+
+- Inisiasi dokumen UU 5/2026 (Kepolisian Perubahan Ketiga...). Mengubah: ['UU 2/2002', 'UU 2/2022', 'UU 6/2023', 'UU 20/2023'], Mencabut: [].
+- Pipeline: Docling + Deterministic Regex Stitcher + Relational Graph Syncer.

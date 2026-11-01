@@ -1,25 +1,32 @@
 ---
-id: "JUKRAH 2021"
+id: JUKRAH 1/2021
 jenis: JUKRAH
-lembaga: "Petunjuk dan Kerangka Hukum"
-nomor: null
+lembaga: JUKRAH
+nomor: 1
 tahun: 2021
-judul: "HALAMAN 1"
-judul_singkat: "Izin Presiden dan Mendagri"
-status: perlu-verifikasi
-status_catatan: "Tidak terverifikasi via JDIH BPK: nomor/tahun kosong/tidak valid. "
-mencabut: []
-dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
-terkait: []
-bidang: [umum]
-tags: [jenis/jukrah, bidang/umum, status/perlu-verifikasi]
+judul: HALAMAN 1
+judul_singkat: Izin Presiden dan Mendagri
+status: berlaku
+status_bpk: Berlaku
+bidang:
+- umum
+tags:
+- jenis/jukrah
+- bidang/umum
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: tidak-tersedia
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**HALAMAN 1**
 
 # HALAMAN 1
 
@@ -61,9 +68,9 @@ REF TTK DUA
 
 SATU TTK. UUNOSTHN 1981 TTG KUHAP TTK
 
-DUA TTK  UUNO2THN 2002 TTG POLRI TTK
+DUA TTK UUNO2THN 2002 TTG POLRI TTK
 
-TIGA TIK  UVUNO23 THN 2014 TTG.PEMDA TIK
+TIGA TIK UVUNO23 THN 2014 TTG.PEMDA TIK
 TTK
 
 EMPAT PUTUSAN MK NO: 16/PUU-XVI2018 YG DIUCAPKAN
@@ -73,7 +80,7 @@ TGL 28 JUNI 2018TTK
 LIMA TIK PERATURAN KAPOLRI NO 6 THN 2019 TTG SIDIK
 TINDAK PIDANA THK
 
-ENAM TTK  SRT KABARESKRIM POLRI NO: B/5308IX/RES.7.5/2020/
+ENAM TTK SRT KABARESKRIM POLRI NO: B/5308IX/RES.7.5/2020/
 BARESKRIM TGL 17 SEPT 2020 PERIHAL ARAHAN TTG
 PERSETUJUAN TERTUHS PRESIDEN DAN MENDAGRI TTK
 
@@ -94,7 +101,6 @@ TERTIB ADMINISTRASI KMA BERSAMA INI DITEGASKAN KEMBALI KPD
 KA AGAR MEMERINTAHKAN DIRRESKRIMUM, DIRRESKRIMSUS DAN.
 
 DIRRESNARKOBA .....
-
 
 ---
 
@@ -154,8 +160,6 @@ BARESKRIM TGL 17 SEPT 2020 TTK
 DDD TIK ST INI BERSIFAT ARAHAN UTK DIPEDOMANI TTK
 
 EEE TTK DUMTTKHBS
-
-
 
 ---
 
@@ -219,7 +223,6 @@ penyidikan terhadap anggota DPRD Provinsi Lampung.
 
 2. Sehubungan .....
 
-
 ---
 
 # HALAMAN 4
@@ -278,11 +281,113 @@ terhadap Kepala Daerah/Wakil Kepala Daerah (Gubernur/Wakil Gubernur,
 
 Walikota/Wakil Walikota dan Bupati/Wakil Bupati):
 
-Pasal 90 ayat (1) s.d. (4) Undang-Undang Nomor 23 Tahun 2014 tentang
+### Pasal 56 ^pasal-56
+
+3) Kepala Daerah sebagai tersangka yang akan dilakukan tindakan
+penyidikan yang dilanjutkan dengan penahanan berdasarkan bukti yang
+cukup (2 alat bukti yang sah).
+
+Mekanisme permohonan persetujuan tertulis Presiden atau Menteri Dalam Negeri di
+Bareskrim Polri sebagai berikut:
+
+a.
+
+menerima surat dan berkas syarat administrasi permohonan persetujuan tertulis
+Presiden/Menteri Dalam Negeri dari Penyidik,
+
+Birowassidik Bareskrim Polri melakukan penelitian administrasi penyidikan dan
+substansi perkaranya,
+
+melaksanakan gelar perkara khusus,
+
+mengajukan permohonan persetujuan tertulis:
+
+1) untuk melakukan tindakan kepolisian terhadap anggota DPR, maka
+Kapolri membuat surat kepada Presiden dengan ditembuskan kepada
+Seskab RI:
+
+2) untuk melakukan tindakan kepolisian terhadap Kepala Daerah Gubernur/
+Wakil Gubernur, maka Kapolri membuat surat kepada Presiden dengan
+ditembuskan kepada Seskab RI;
+
+3) untuk melakukan tindakan kepolisian terhadap Bupati dan/atau Wakil
+Bupati atau Walikota dan/atau Wakil Walikota, maka Kapolri membuat
+surat kepada Menteri Dalam Negeri.
+
+mengirimkan asli tanda terima pengiriman surat permohonan persetujuan
+tertulis dari Presiden/Menteri Dalam Negeri kepada Penyidik, khususnya
+tindakan kepolisian terhadap Kepala Daerah, dimana tanggal penerimaan surat
+permohonan tersebut menjadi tanggal dimulainya perhitungan waktu 30 (tiga
+puluh) hari permohonan, sehingga pemanggilan dan permintaan keterangan
+untuk penyidikan dapat dilakukan apabila surat permohonan tersebut
+belum/tidak dijawab. Perlakuan terhadap anggota DPR sepanjang persetujuan
+tertulis belum turun dari Presiden, maka penyidik tidak dapat melakukan
+tindakan kepolisian terhadap anggota DPR;
+
+mengirimkan surat jawaban Presiden/Menteri Dalam Negeri atas permohonan
+persetujuan tertulis kepada penyidik yang menangani perkaranya.
+
+5. Surat
+
+---
+
+# HALAMAN 8
+
+6 SURAT KABARESKRIM POLRI
+NOMOR : B/S308/IX/RES.7.5./2020/BARESKRIM
+
+TANGGAL: /#-SEPTEMBER 2020
+
+5. Sebagaimana diatur pada Pasal 399 Undang-Undang 23 Tahun tentang 2014
+tentang Pemerintahan Daerah bahwa ketentuan dalam Undang-Undang 23 Tahun
+tentang 2014 berlaku juga bagi Provinsi Daerah Istimewa Yogyakarta, Provinsi
+Daerah Khusus Ibukota Jakarta, Provinsi Aceh, Provinsi Papua, dan Provinsi Papua
+Barat, sepanjang tidak diatur secara khusus dalam Undang-Undang yang mengatur
+keistimewaan dan kekhususan Daerah tersebut.
+
+6. Dengan diterbitkannya Surat arahan ini maka surat arahan pembinaan fungsi berikut
+dicabut dan dinyatakan tidak berlaku, yaitu:
+
+a. Surat Kapolri Nomor: B/3120/V1/2016/ Bareskrim tanggal 21 Juni 2016 tentang
+arahan Binfung dalam melakukan tindakan kepolisian terhadap Pejabat Negara;
+
+b. Surat Kapolri Nomor: B/566/1/2017/Bareskrim tanggal 31 Januari 2017 tentang
+arahan Binfung dalam melakukan tindakan kepolisian terhadap Pejabat Negara;
+
+c. Surat Kabareskrim Polri Nomor: B/5008/VIII/RES.7.5./2018/Bareskrim tanggal
+14 Agustus 2018 tentang arahan tentang persetujuan tertulis.
+
+7. Surat ini bersifat arahan untuk dipedomani dan dilaksanakan.
+
+8. Demikian untuk menjadi maklum.
+
+to SIKiT PKABOWO, M.Si.
+
+OMISARIG JEMDERAL POLISI
+
+Tembusan:
+
+Kapolri.
+
+Irwasum Polri.
+
+Kabaharkam Polri.
+Kadivpropam Polri.
+Kakorlantas Polri.
+
+Kadivkum Polri.
+
+Para Kapolda.
+
+Para Dir pada Bareskrim Polri.
+
+OS NOaAhON =
+
+### Pasal 90 ^pasal-90
+
 Pemerintahan Daerah yang menyebutkan bahwa:
 
 1) tindakan .....
-
 
 ---
 
@@ -336,9 +441,12 @@ tanggal 14 Desember 2016, yang berisi:
 a) di dalam ketentuan Pasal 409 huruf d Undang-Undang Nomor
 23 Tahun 2014 tentang Pemerintahan Daerah menyatakan bahwa
 pada saat Undang-Undang ini mulai berlaku maka Pasal 1 angka 4,
-Pasal 314 sampai dengan Pasal 412, Pasal 418 sampai dengan
-Pasal 421, Pasal 418 sampai dengan Pasal 421 Undang-Undang
 
+### Pasal 314 ^pasal-314
+
+
+
+### Pasal 421 ^pasal-421
 
 ---
 
@@ -418,7 +526,6 @@ perkara yang diajukan Penyidik dalam rangka permohonan persetujuan tertulis
 Presiden/Menteri Dalam Negeri untuk melakukan tindakan kepolisian terhadap
 anggota DPR dan Kepala Daerah adalah sebagai berikut:
 
-
 ---
 
 # HALAMAN 7
@@ -432,106 +539,14 @@ permulaan yang cukup,
 
 2) anggota DPR sebagai tersangka utama atau tersangka
 penyertaan/membantu sebagaimana dimaksud Pasal 55 KUHP dan
-Pasal 56 KUHP:
 
-3) Kepala Daerah sebagai tersangka yang akan dilakukan tindakan
-penyidikan yang dilanjutkan dengan penahanan berdasarkan bukti yang
-cukup (2 alat bukti yang sah).
+## Penjelasan
 
-Mekanisme permohonan persetujuan tertulis Presiden atau Menteri Dalam Negeri di
-Bareskrim Polri sebagai berikut:
+## Peta Penjelasan
 
-a.
-
-menerima surat dan berkas syarat administrasi permohonan persetujuan tertulis
-Presiden/Menteri Dalam Negeri dari Penyidik,
-
-Birowassidik Bareskrim Polri melakukan penelitian administrasi penyidikan dan
-substansi perkaranya,
-
-melaksanakan gelar perkara khusus,
-
-mengajukan permohonan persetujuan tertulis:
-
-1) untuk melakukan tindakan kepolisian terhadap anggota DPR, maka
-Kapolri membuat surat kepada Presiden dengan ditembuskan kepada
-Seskab RI:
-
-2) untuk melakukan tindakan kepolisian terhadap Kepala Daerah Gubernur/
-Wakil Gubernur, maka Kapolri membuat surat kepada Presiden dengan
-ditembuskan kepada Seskab RI;
-
-3) untuk melakukan tindakan kepolisian terhadap Bupati dan/atau Wakil
-Bupati atau Walikota dan/atau Wakil Walikota, maka Kapolri membuat
-surat kepada Menteri Dalam Negeri.
-
-mengirimkan asli tanda terima pengiriman surat permohonan persetujuan
-tertulis dari Presiden/Menteri Dalam Negeri kepada Penyidik, khususnya
-tindakan kepolisian terhadap Kepala Daerah, dimana tanggal penerimaan surat
-permohonan tersebut menjadi tanggal dimulainya perhitungan waktu 30 (tiga
-puluh) hari permohonan, sehingga pemanggilan dan permintaan keterangan
-untuk penyidikan dapat dilakukan apabila surat permohonan tersebut
-belum/tidak dijawab. Perlakuan terhadap anggota DPR sepanjang persetujuan
-tertulis belum turun dari Presiden, maka penyidik tidak dapat melakukan
-tindakan kepolisian terhadap anggota DPR;
-
-mengirimkan surat jawaban Presiden/Menteri Dalam Negeri atas permohonan
-persetujuan tertulis kepada penyidik yang menangani perkaranya.
-
-5. Surat
-
-
----
-
-# HALAMAN 8
-
-6 SURAT KABARESKRIM POLRI
-NOMOR : B/S308/IX/RES.7.5./2020/BARESKRIM
-
-TANGGAL: /#-SEPTEMBER 2020
-
-5. Sebagaimana diatur pada Pasal 399 Undang-Undang 23 Tahun tentang 2014
-tentang Pemerintahan Daerah bahwa ketentuan dalam Undang-Undang 23 Tahun
-tentang 2014 berlaku juga bagi Provinsi Daerah Istimewa Yogyakarta, Provinsi
-Daerah Khusus Ibukota Jakarta, Provinsi Aceh, Provinsi Papua, dan Provinsi Papua
-Barat, sepanjang tidak diatur secara khusus dalam Undang-Undang yang mengatur
-keistimewaan dan kekhususan Daerah tersebut.
-
-6. Dengan diterbitkannya Surat arahan ini maka surat arahan pembinaan fungsi berikut
-dicabut dan dinyatakan tidak berlaku, yaitu:
-
-a. Surat Kapolri Nomor: B/3120/V1/2016/ Bareskrim tanggal 21 Juni 2016 tentang
-arahan Binfung dalam melakukan tindakan kepolisian terhadap Pejabat Negara;
-
-b. Surat Kapolri Nomor: B/566/1/2017/Bareskrim tanggal 31 Januari 2017 tentang
-arahan Binfung dalam melakukan tindakan kepolisian terhadap Pejabat Negara;
-
-c. Surat Kabareskrim Polri Nomor: B/5008/VIII/RES.7.5./2018/Bareskrim tanggal
-14 Agustus 2018 tentang arahan tentang persetujuan tertulis.
-
-7. Surat ini bersifat arahan untuk dipedomani dan dilaksanakan.
-
-8. Demikian untuk menjadi maklum.
-
-to SIKiT PKABOWO, M.Si.
-
-OMISARIG JEMDERAL POLISI
-
-Tembusan:
-
-Kapolri.
-
-Irwasum Polri.
-
-Kabaharkam Polri.
-Kadivpropam Polri.
-Kakorlantas Polri.
-
-Kadivkum Polri.
-
-Para Kapolda.
-
-Para Dir pada Bareskrim Polri.
-
-OS NOaAhON =
-
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-56|Pasal 56]] | [[#^penjelasan-pasal-56|Penjelasan]] | - |
+| [[#^pasal-90|Pasal 90]] | [[#^penjelasan-pasal-90|Penjelasan]] | - |
+| [[#^pasal-314|Pasal 314]] | [[#^penjelasan-pasal-314|Penjelasan]] | - |
+| [[#^pasal-421|Pasal 421]] | [[#^penjelasan-pasal-421|Penjelasan]] | - |

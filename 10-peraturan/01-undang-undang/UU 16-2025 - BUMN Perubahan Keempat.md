@@ -1,30 +1,32 @@
 ---
-id: "UU 16/2025"
+id: UU 16/2025
 jenis: UU
-lembaga: "Undang-Undang"
+lembaga: Undang-Undang
 nomor: 16
 tahun: 2025
-judul: "Perubahan Keempat UU BUMN"
-judul_singkat: "BUMN Perubahan Keempat"
+judul: Perubahan Keempat UU BUMN
+judul_singkat: BUMN Perubahan Keempat
 status: berlaku
-status_bpk: "Berlaku"
-ditetapkan: 2025-10-06
-berlaku_mulai: 2025-10-06
-mencabut: []
-dicabut_oleh: []
-mengubah: ["UU 1/2025", "UU 11/2020", "UU 19/2003", "UU 6/2023"]
-diubah_oleh: []
-terkait: []
-bidang: [tipidter]
-tags: [jenis/uu, bidang/tipidter, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/330668/uu-no-16-tahun-2025"
+status_bpk: Berlaku
+bidang:
+- tipidter
+tags:
+- jenis/uu
+- bidang/tipidter
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: ada
+penjelasan_pasal_demi_pasal: true
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Perubahan Keempat UU BUMN**
 
 # Perubahan Keempat UU BUMN
 
@@ -35,8 +37,6 @@ last_updated: 2026-10-28
 ## Menimbang
 
 a
-
-<!-- image -->
 
 ## UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 16 TAHUN 2025 TENTANG
 
@@ -50,92 +50,11 @@ a
 - b bahwa untuk mengoptimalkan pengelolaan Badan Usaha Milik Negara dibutuhkan transformasi kelembegaan yang efektif dan efisien serta paradigma usaha atau bisnis, namun tetap dapat dipertanggungjawabkan dan kewenangan negara dalam pengawasan tetap berlaku guna memberikan kontribusi bagr perkembangan perekonomian nasional pada umumnya dan penerimaan negara pada khususnya;
 - bahwa Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor I Tahun 2025 tentang Perubahan Ketiga atas UndangUndang Nomor 19 Tahun 2OO3 tentang Badan Usaha Milik Negara, perlu dilakukan penyesuaian materi muatan sesuai kebutuhan hukum masyarakat, sehingga perlu diubah; c
 
-<!-- image -->
-
 ## PRESIDEN REPUELIK INDONESIA
 
 - d bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Undang-Undang tentang Perubahan Keempat atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara;
 
-Pasal 5 ayat (1), Pasal 20, Pasal 21, dan Pasal 33 UndangUndang Dasar Negara Republik Indonesia Tahun 1945; Mengingat 1.
-
-- Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia Nomor XVI/MPR/ 1998 tentang Politik Ekonomi Dalam Rangka Demokrasi Ekonomi; 2.
-- Undang-Undang Nomor 19 Tahun 20O3 tentang Badan Usaha Milik Negara (l,embaran Negara Republik Indonesia Tahun 20O3 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 42971 sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor I Tahun 2025 tenlang Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (kmbaran Negara Republik Indonesia Tahun 2O25 Nomor 25, Tambahan Lembaran Negara Republik Indonesia Nomor 7O97); 3.
-
-## Dengan Persetujuan Bersama
-
-## DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA
-
-## MEMUTUSKAN:
-
-Menetapkan UNDANG-UNDANG TENTANG PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 19 TAHUN 2OO3 TENTANG BADAN USAHA MILIK NEGARA.
-
-Pasall...
-
-<!-- image -->
-
-## FRESIDEN REPUBUK INDONESIA
-
-## Pasal I
-
-Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 7O, Tambahan Lembaran Negara Republik Indonesia Nomor 42971 yang telah beberapa kali diubah dengan Undang-Undang:
-
-- a. Nomor 11 Tahun 2O2O tentang Cipta Kerja (kmbaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573);
-- b. Nomor 6 Tahun 2023 tentan:g Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 lentangCipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan kmbaran Negara Republik Indonesia Nomor 6856);
-- c. Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2025 Nomor 25, Tambahan Lembaran Negara Republik Indonesia Nomor 7O97);
-
-diubah sebagai berikut:
-
-- l. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
-
-## Pasal I
-
-Dalam Undang-Undang ini yang dimaksud dengan:
-
-1. Badan Usaha Milik Negara yang selanjutnya disingkat BUMN adalah badan usaha yang memenuhi minimal salah satu ketentuan berikut:
-- a. seluruh atau sebagian besar modalnya dimiliki oleh Negara Republik Indonesia melalui penyertaan langsung; atau
-- b. terdapat hak istimewa yang dimiliki Negara Republik Indonesia.
-2. Anak Usaha BUMN adalah anak perusahaan BUMN dan turunannya yang didirikan oleh BUMN dalam rangka memenuhi kepentingan usaha BUMN.
-
-<!-- image -->
-
-## FRESIDEN FEPUEUK INDONESIA
-
-3. Perusahaan Perseroan yang selanjutnya disebut Persero adalah BUMN yang berbentuk persero€rn terbatas yang tujuan utamanya memperoleh keuntungan.
-4. Perusahaan Perseroan Terbuka yang selanjutnya disebut Persero Terbuka adalah Persero yang modal dan jumlah pemegang sahamnya memenuhi kriteria tertentu atau Persero yang melakukan penawaran umum sesuai dengan ketentuan peraturan perundang-undangan di bidang pasar modal.
-5. Perusahaan Umum yang selanjutnya disebut Perum adalah BUMN yang seluruh modalnya dimiliki Negara Republik Indonesia dan tidak terbagi atas saham, yang tqjuan utamanya untuk menyediakan dan menjamin ketersediaan barang dan/atau jasa bagi kemanfaatan umum dalam rangka pemenuhan hajat hidup orang banyak atau untuk kebutuhan strategis berdasarkan prinsip pengelolaan perusahaan.
-6. Anggaran Pendapatan dan Belanja Negara yang selanjutnya disingkat APBN adalah rencana keuangan tahunan pemerintahan negara yang disetujui oleh Dewan Perwakilan Rakyat Republik Indonesia.
-7. Dewan Komisaris adalah organ Persero yang bertugas melakukan pengawasan sebagaimana dimaksud dalam undang-undang mengenai perseroan terbatas.
-8. Dewan Pengawas adalah organ Perum yang bertugas melakukan pengawasan secara umum dan/atau khusus sesuai dengan anggaran dasar serta memberi nasihat kepada Direksi.
-9. Direksi adalah organ BUMN yang berwenang dan bertanggung jawab penuh atas pengurusan BUMN untuk kepentingan BUMN, sesuai dengan maksud dan tujuan BUMN, baik di dalam maupun di luar pengadilan sesuai dengan ketentuan anggaran dasar.
-10. Aset BUMN adalah segala bentuk barang atau bentuk kekayaan yang dimiliki oleh BUMN yang dapat dinilai dengan uang dan memiliki nilai tukar dan/atau nilai ekonomi.
-
-<!-- image -->
-
-11. Restrukturisasi adalah perbuatan hukum yang dilakukan dalam rangka peningkatan kinerja, penambahan nilai, penyehatan, atau perusahaan.
-12. Penggabungan adalah perbuatan hukum yang dilakukan oleh 1 (satu) BUMN atau lebih untuk menggabungkan diri dengan BUMN lain yang telah ada yang mengakibatkan aktiva dan pasiva dari BUMN yang menggabungkan diri beralih karena hukum kepada BUMN yang menerima penggabungan dan selanjutnya status badan hukum BUMN yang menggabungkan diri berakhir karena hukum.
-13. Peleburan adalah perbuatan htkum yang dilakukan oleh 2 (dua) BUMN atau lebih untuk meleburkan diri dengan cara mendirikan I (satu) BUMN baru yang karena hukum memperoleh aktiva dan pasiva dari BUMN yang meleburkan diri dan status badan hukum BUMN yang meleburkan diri berakhir karena hukum.
-14. Pengambilalihan adalah perbuatan hukum yang dilakukan oleh BUMN dalam rangka mengambil alih saham BUMN dan/atau perseroan terbatas lain yang mengakibatkan beralihnya pengendalian BUMN atau perseroan terbatas lain tersebut.
-15. Pemisahan adalah perbuatan hukum yang dilakukan oleh BUMN untuk memisahkan usaha yang mengakibatkan seluruh aktiva dan pasiva BUMN beralih karena hukum kepada 2 (dua) BUMN atau lebih atau sebagian aktiva dan pasiva BUMN beralih karena hukum kepada 1 (satu) BUMN atau lebih.
-16. Privatisasi adalah penjualan saham milik Negara Republik Indonesia pada Persero, baik sebagian maupun seluruhnya, kepada pihak lain.
-17. Rapat Umum Pemegang Saham yang selanjutnya disingkat RUPS adalah organ Perseroan yang mempunyai wewenang yang tidak diberikan kepada Direksi atau Dewan Komisaris dalam batas yang ditentukan sebagaimana dimaksud dalam undangundang mengenai perseroan terbatas.
-18. Hari adalah hari kerja.
-
-<!-- image -->
-
-19. Pemerintah Pusat adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan Negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
-- 2O. Dewan Perwakilan Ralryat Republik Indonesia yang selanjutnya disingkat DPR RI adalah Dewan Perwakilan Rakyat Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
-21. Badan Pengaturan BUMN yang selanjutnya disebut BP BUMN adalah lembaga pemerintah yang menyelenggarakan tugas pemerintahan di bidang pengaturan BUMN.
-22. Menteri Keuangan adalah menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.
-23. Badan Pengelola Investasi Daya Anagata Nusantara yang selanjutnya disebut Badan adalah badan yang melaksanakan tugas pemerintah di bidang pengelolaan BUMN sebagaimana diatur dalam Undang-Undang ini.
-24. Perusahaan Induk Investasi yang selanjutnya disebut Holding Investasi adalah perusahaan yang mempunyai tugas untuk melakukan pengelolaan dividen dan/ atau pemberdayaan Aset BUMN serta tugas lain yang ditetapkan oleh Badan.
-25. Perusahaan Induk Operasional yang selanjutnya disebut Holding Operasional adalah perusahaan yang mempunyai tugas untuk melakukan pengawasan terhadap kegiatan operasional BUMN serta tugas lain yang ditetapkan oleh Badan.
-8. 2.Ketentuan...
-
-<!-- image -->
-
-- 2 Ketentuan Pasal 2 diubah sehingga berbunyi sebagai berikut:
-
-## Pasal 2
+### Pasal 2 ^pasal-2
 
 - (1) Tujuan pendirian BUMN adalah:
 - a. memperolehkeuntungan;
@@ -149,11 +68,9 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (3) Negara Republik Indonesia memiliki saham 1% (satu persen) pada BUMN yang merupakan saham seri A Dwiwarna melalui kepala BP BUMN dan 99Yo (sembilan puluh sembilan persen) pada BUMN yang merupakan saham seri B melalui Badan.
 11. Ketentuan Pasal 3A diubah sehingga berbunyi sebagai berikut: 3
 
-## Pasal 3A
+### Pasal 3A ^pasal-3a
 
 - (1) Presiden selaku Kepala Pemerintahan memegang kekuasaan pengelolaan BUMN sebagai bagran dari kekuasaan pemerintahan negara dalam bidang pengelolaan keuangan negara.
-
-<!-- image -->
 
 ## PRESIDEN ELIK INDONESIA
 
@@ -164,13 +81,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 - (6) Ketentuan mengenai pembentukan BP BUMN sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Presiden.
 6. 4 Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 3E}
-
-Kepala BP BUMN selaku wakil Pemerintah Pusat sebagai regulator bertugas untuk menetapkan kebijakan, mengatur, membina, dan mengawasi penyelenggaraan kebijakan pengelolaan BUMN.
-
-- Ketentuan Pasal 3C diubah sehingga berbunyi sebagai berikut: 5
-
-## Pasal 3C
+### Pasal 3C ^pasal-3c
 
 Untuk melaksanakan tugas sebagaimana dimaksud dalam Pasal 3E}, kepala BP BUMN selaku wakil Pemerintah Pusat dengan persetujuan Presiden berwenang:
 
@@ -178,8 +89,6 @@ Untuk melaksanakan tugas sebagaimana dimaksud dalam Pasal 3E}, kepala BP BUMN se
 - b. menetapkan kebijakan tata kelola BUMN;
 
 c. menetapkan . . .
-
-<!-- image -->
 
 - c. menetapkan peta jalan BUMN dan menyampaikan kepada alat kelengkapan DPR RI yang membidangi BUMN;
 - d. mengatur dan memberikan penugasan kepada BUMN;
@@ -194,17 +103,15 @@ c. menetapkan . . .
 - m. melaksanakan kewenangan lain yang ditetapkan oleh Presiden.
 12. 6 Ketentuan Pasal 3D diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 3D
+### Pasal 3D ^pasal-3d
 
 Ketentuan lebih lanjut mengenai tugas kepala BP BUMN selaku wakil Pemerintah Pusat sebagai regulator sebagaimana dimaksud dalam Pasal 3B dan kewenangan kepala BP BUMN selaku wakil Pemerintah Pusat sebagaimana dimaksud dalam Pasal 3C diatur dalam Peraturan Pemerintah.
 
 - Ketentuan Pasal 3E diubah sehingga berbunyi sebagai berikut: 7
 
-<!-- image -->
-
 ## iI:IiFIf.TTIl K INDONESIA
 
-## Pasal 3E
+### Pasal 3E ^pasal-3e
 
 - (1) Dalam melaksanakan pengelolaan BUMN, Presiden melimpahkan sebagian kewenangannya kepada Badan yang dibentuk dengan Undang-Undang ini.
 2. l2l Badan sebagaimana dimaksud pada ayat (1) merupakan badan hukum Indonesia yang sepenuhnya dimiliki oleh Pemerintah Indonesia.
@@ -213,7 +120,7 @@ Ketentuan lebih lanjut mengenai tugas kepala BP BUMN selaku wakil Pemerintah Pus
 - (5) Dalam rangka memastikan kontribusi dividen untuk pengelolaan investasi, kepala BP BUMN menempatkan perwakilannya di Badan, Holding Investasi, dan Holding Operasional atas persetqjuan Presiden.
 6. 8 Ketentuan Pasal 3F diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 3F
+### Pasal 3F ^pasal-3f
 
 - (1) bertugas untuk melakukan pengelolaan Badan BUMN.
 2. t2t Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1), Badan berwenang:
@@ -223,8 +130,6 @@ Ketentuan lebih lanjut mengenai tugas kepala BP BUMN selaku wakil Pemerintah Pus
 - d. menyetujui usulan hapus buku dan/atau hapus tagih atas Aset BUMN yang diusulkan oleh Holdirq Investasi alanu Holding Operasional;
 
 e. memberikan . . .
-
-<!-- image -->
 
 - e. memberikan pinjaman, menerima pinjaman, dan mengagunkan aset dengan persetujuan Presiden;
 - f. bertindak sebagai penjamin Holding Investasi dengan persetqiuan dewan pengawas;
@@ -241,7 +146,7 @@ e. memberikan . . .
 9. program enuironmental, social, and governane (E,SGI.
 14. 9 Ketentuan Pasal 3G diubah sehingga berbunyi sebagai berikut:
 
-Pasal 3G
+### Pasal 3G ^pasal-3g
 
 - (1) Modal Badan bersumber dari:
 - a. penyertaan modal negara; dan/atau
@@ -249,15 +154,13 @@ Pasal 3G
 4. l2l Penyertaan modal negara sebagaimana dimaksud pada ayat (1) huruf a dapat berasal dari:
 - a. dana tunai;
 
-<!-- image -->
-
 - b. barang milik negara yang berasal dari APBN atau perolehal lain yang sah; dan/atau
 - c. saham milik negara.
 - (3) Modal Badan ditetapkan paling sedikit sebesar Rp 1.O00.000.O00.000.000,00 (seribu triliun rupiah).
 - (4) Modal Badan sebagaimana dimaksud pada ayat (3) dapat dilakukan penambahan melalui penyertaan modal negara dan/atau sumber lain.
 10. Ketentuan Pasal 3H diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 3H
+### Pasal 3H ^pasal-3h
 
 - (l) Badan dapat melakukan investasi, baik secara langsung maupun tidak langsung, dan melakukan kerja sama dengan pihak ketiga.
 - (21 Keuntungan atau kerugian yang dialami Badan dalam melaksanakan investasi sebagaimana dimaksud pada ayat (1) merupakan keuntungan atau kerugian Badan sebelum dilakukannya pencadangan.
@@ -265,13 +168,11 @@ Pasal 3G
 - (4) Ketentuan lebih lanjut mengenai pencadangan untuk menutup atau menanggung risiko kerugian dalam berinvestasi dan/ atau melakukan akumulasi modal sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Pemerintah.
 - ll. Ketentuan Pasal 3N diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 3N
+### Pasal 3N ^pasal-3n
 
 - (1) Dewan pengawas terdiri atas:
 - a. ketua merangkap anggota;
 - b. wakil ketua merangkap anggota;
-
-<!-- image -->
 
 - c sinkronisasi dan koordinasi serta pengendalian pelaksanaan urusan kementerian dalam penyelenggaraan pemerintahan di bidang perekonomian, kementerian yang menyelenggarakan urusan pemerintahan di bidang keuangan, kementerian yang menyelenggarakan urusan pemerintahan di bidang investasi, dan BP BUMN sebagai anggota; dan perwakilan dari kementerian yang
 - d. pejabat negara atau pihak lain sebagai anggota.
@@ -279,18 +180,16 @@ Pasal 3G
 - (3) Ketua, wakil ketua, dan anggota dewan pengawas sebagaimana dimaksud pada ayat (1) diangkat untuk masa jabatan 5 (lima) tahun dan hanya dapat diangkat kembali untuk 1 (satu) kali masa jabatan berikutnya.
 12. Ketentuan Pasal 3X diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 3X
+### Pasal 3X ^pasal-3x
 
 - (1) Organ dan pegawai Badan tunduk pada peraturan perundang-undangan yang mengatur mengenai tata kelola pemerintahan dan bisnis yang baik.
 2. (21 Badan menetapkan sistem kepegawaian, sistem penggajian, penghargaan, program pensiun dan tunjangan hari tua, serta penghasilan lain bagi pegawai Badan.
 - (3) Badan tidak dapat dipailitkan, kecuali dapat dibuktikan dalam keadaan insolven.
 13. Ketentuan Pasal 3Y diubah sehingga berbunyi sebagai berikut:
 
-<!-- image -->
-
 ## K INDONESIA
 
-## Pasal 3Y
+### Pasal 3Y ^pasal-3y
 
 Kepala BP BUMN serta organ dan pegawai Badan, tidak dapat dimintai pertanggungiawaban hukum atas kerugian jika dapat membuktikan:
 
@@ -309,8 +208,6 @@ Kepala BP BUMN serta organ dan pegawai Badan, tidak dapat dimintai pertanggungia
 ## Pasal 3AB
 
 - (1) Dalam menjalankan kewenangan Badan sebagaimana dimaksud dalam Pasal 3F ayat (2), Badan mendirikan Holding Investasi.
-
-<!-- image -->
 
 - (21 HoLding Investasi mempunyai tugas untuk:
 - a. melakukanpengelolaaninvestasi;
@@ -334,8 +231,6 @@ Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 3AB ayat (2), Holding 
 - h. mengusulkan kontrak manajemen kepada Badan untuk mendapatkan persetujuan; dan
 - i. tindakan lain yang ditetapkan oleh kepala BP BUMN atau Badan atau diatur dalam anggaran dasar Holding Investasi.
 
-<!-- image -->
-
 17. Ketentuan Pasal 3AE diubah sehingga berbunyi sebagai berikut:
 
 Pasal 3AE
@@ -354,8 +249,6 @@ Pasal 3AE
 - a. anggota Direksi Hoding Investasi yang lain;
 
 b. anggota . . .
-
-<!-- image -->
 
 - b. anggota Dewan Komisaris Holding Investasi;
 - c. pegawai Holding Investasi;
@@ -378,8 +271,6 @@ b. anggota . . .
 
 c. sehat . . .
 
-<!-- image -->
-
 ## triFEli'trN EUK IND
 
 - c. sehat jasmani dan rohani;
@@ -399,8 +290,6 @@ c. sehat . . .
 - (3) Ketentuan lebih lanjut mengenai persyaratan Dewan Komisaris Holding Investasi sebagaimana dimaksud pada ayat (l) dan larangan Dewan Komisaris Holding Investasi sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan BP BUMN.
 
 2O. Ketentuan . . .
-
-<!-- image -->
 
 20. Ketentuan Pasal 3AK diubah sehingga berbunyi sebagai berikut:
 
@@ -426,8 +315,6 @@ Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 3AK ayat (21, Holding 
 
 f. mengusulkan . . .
 
-<!-- image -->
-
 ## PRESIDEN REPUBLIK INDONESIA
 
 - mengusulkan kontrak manajemen Holding Operasional kepada Badan untuk mendapatkan persetqiuan; dan f.
@@ -435,7 +322,7 @@ f. mengusulkan . . .
 22. Pasal3AM dihapus.
 23. Ketentuan Pasal 4A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 4A
+### Pasal 4A ^pasal-4a
 
 - (1) Setiap penyertaan modal negara dalam rangka pendirian Badan dan BUMN yang dananya berasal dari APBN sglagaimana dimaksud dalam Pasal 4 ayat (3) ditetapkan dengan Peraturan Pemerintah.
 2. (21 Setiap perubahan penyertaan modal negara yang dananya berasal dari APBN sebagaimana dimaksud dalam Pasal 4 ayat (3), berupa penambahan atau pengurangan modal, termasuk perubahan struktur kepemilikan negara atas saham Persero ditetapkan dengan Peraturan Pemerintah.
@@ -449,8 +336,6 @@ kepada alat kelengkapan DPR RI yang membidangi BUMN untuk mendapat persetujuan.
 
 (4) Penyertaan . . .
 
-<!-- image -->
-
 ## FRESIDEN BUK INDONESIA
 
 - (4) Penyertaan modal negara dalam rangka pendirian BUMN sebagaimana dimaksud pada ayat (1) dan perubahan penyertaan modal negara kepada BUMN sebagaimana dimaksud pada ayat (2) dilaksanakan oleh kepala BP BUMN.
@@ -458,20 +343,12 @@ kepada alat kelengkapan DPR RI yang membidangi BUMN untuk mendapat persetujuan.
 - (6) Ketentuan lebih lanjut mengenai tata cara penyertaan modal negara dalam rangka pendirian BUMN sebagaimana dimaksud pada ayat (1) dan perubahan penyertaan modal negara sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
 24. Ketentuan Pasal 4E} diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 48
-
-Keuntungan sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf a atau kerugian yang dialami oleh BUMN merupakan keuntungan atau kerugian pada BUMN.
-
-25. Ketentuan Pasal 4C diubah sehingga berbunyi sebagai berikut:
-
-## Pasal 4C
+### Pasal 4C ^pasal-4c
 
 - (l) Negara Republik Indonesia memiliki saham seri A Dwiwarna dengan hak istimewa pada BUMN.
 - (21 Kepemilikan saham seri A Dwiwarna dengan hak istimewa yang dimiliki Negara Republik Indonesia sebagaimana dimaksud pada ayat (1) melalui BP BUMN dan dividennya dapat dikelola secara langsung oleh BP BUMN setelah mendapatkan persetujuan dari Presiden.
 - (3) Saham seri A Dwiwarna dengan hak istimewa sebagaimana dimaksud pada ayat (1) memiliki hakhak istimewa paling sedikit sebagai berikut:
 - a. hak untuk menyetujui dalam RUPS;
-
-<!-- image -->
 
 - b. hak untuk mengusulkan agenda RUPS;
 - c. hak untuk meminta dan mengakses data dan dokumen perusahaan sesuai dengan ketentuan peraturan perundang-undangan ;
@@ -481,24 +358,97 @@ Keuntungan sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf a atau kerugian yan
 26. Pasal 9G dihapus.
 27. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 10
+### Pasal 4O ^pasal-4o
+
+Ketentuan mengenai tata cara pemindahtanganan, pembebanan atas aktiva tetap Perum, serta penerimaan pinjaman jangka menengah/panjang dan pemberian pinjaman dalam bentuk dan cara apa pun, serta tidak menagih lagl dan menghapuskan dari pembukuan piutang dan persediaan barang oleh Perum diatur dengan Peraturan BP BUMN.
+
+42. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 5 ^pasal-5
+
+- Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia Nomor XVI/MPR/ 1998 tentang Politik Ekonomi Dalam Rangka Demokrasi Ekonomi; 2.
+- Undang-Undang Nomor 19 Tahun 20O3 tentang Badan Usaha Milik Negara (l,embaran Negara Republik Indonesia Tahun 20O3 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 42971 sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor I Tahun 2025 tenlang Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (kmbaran Negara Republik Indonesia Tahun 2O25 Nomor 25, Tambahan Lembaran Negara Republik Indonesia Nomor 7O97); 3.
+
+## Dengan Persetujuan Bersama
+
+## DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONESIA
+
+## MEMUTUSKAN:
+
+Menetapkan UNDANG-UNDANG TENTANG PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 19 TAHUN 2OO3 TENTANG BADAN USAHA MILIK NEGARA.
+
+Pasall...
+
+## FRESIDEN REPUBUK INDONESIA
+
+## Pasal I
+
+Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 7O, Tambahan Lembaran Negara Republik Indonesia Nomor 42971 yang telah beberapa kali diubah dengan Undang-Undang:
+
+- a. Nomor 11 Tahun 2O2O tentang Cipta Kerja (kmbaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573);
+- b. Nomor 6 Tahun 2023 tentan:g Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 lentangCipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan kmbaran Negara Republik Indonesia Nomor 6856);
+- c. Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2025 Nomor 25, Tambahan Lembaran Negara Republik Indonesia Nomor 7O97);
+
+diubah sebagai berikut:
+
+- l. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
+
+## Pasal I
+
+Dalam Undang-Undang ini yang dimaksud dengan:
+
+1. Badan Usaha Milik Negara yang selanjutnya disingkat BUMN adalah badan usaha yang memenuhi minimal salah satu ketentuan berikut:
+- a. seluruh atau sebagian besar modalnya dimiliki oleh Negara Republik Indonesia melalui penyertaan langsung; atau
+- b. terdapat hak istimewa yang dimiliki Negara Republik Indonesia.
+2. Anak Usaha BUMN adalah anak perusahaan BUMN dan turunannya yang didirikan oleh BUMN dalam rangka memenuhi kepentingan usaha BUMN.
+
+## FRESIDEN FEPUEUK INDONESIA
+
+3. Perusahaan Perseroan yang selanjutnya disebut Persero adalah BUMN yang berbentuk persero€rn terbatas yang tujuan utamanya memperoleh keuntungan.
+4. Perusahaan Perseroan Terbuka yang selanjutnya disebut Persero Terbuka adalah Persero yang modal dan jumlah pemegang sahamnya memenuhi kriteria tertentu atau Persero yang melakukan penawaran umum sesuai dengan ketentuan peraturan perundang-undangan di bidang pasar modal.
+5. Perusahaan Umum yang selanjutnya disebut Perum adalah BUMN yang seluruh modalnya dimiliki Negara Republik Indonesia dan tidak terbagi atas saham, yang tqjuan utamanya untuk menyediakan dan menjamin ketersediaan barang dan/atau jasa bagi kemanfaatan umum dalam rangka pemenuhan hajat hidup orang banyak atau untuk kebutuhan strategis berdasarkan prinsip pengelolaan perusahaan.
+6. Anggaran Pendapatan dan Belanja Negara yang selanjutnya disingkat APBN adalah rencana keuangan tahunan pemerintahan negara yang disetujui oleh Dewan Perwakilan Rakyat Republik Indonesia.
+7. Dewan Komisaris adalah organ Persero yang bertugas melakukan pengawasan sebagaimana dimaksud dalam undang-undang mengenai perseroan terbatas.
+8. Dewan Pengawas adalah organ Perum yang bertugas melakukan pengawasan secara umum dan/atau khusus sesuai dengan anggaran dasar serta memberi nasihat kepada Direksi.
+9. Direksi adalah organ BUMN yang berwenang dan bertanggung jawab penuh atas pengurusan BUMN untuk kepentingan BUMN, sesuai dengan maksud dan tujuan BUMN, baik di dalam maupun di luar pengadilan sesuai dengan ketentuan anggaran dasar.
+10. Aset BUMN adalah segala bentuk barang atau bentuk kekayaan yang dimiliki oleh BUMN yang dapat dinilai dengan uang dan memiliki nilai tukar dan/atau nilai ekonomi.
+
+11. Restrukturisasi adalah perbuatan hukum yang dilakukan dalam rangka peningkatan kinerja, penambahan nilai, penyehatan, atau perusahaan.
+12. Penggabungan adalah perbuatan hukum yang dilakukan oleh 1 (satu) BUMN atau lebih untuk menggabungkan diri dengan BUMN lain yang telah ada yang mengakibatkan aktiva dan pasiva dari BUMN yang menggabungkan diri beralih karena hukum kepada BUMN yang menerima penggabungan dan selanjutnya status badan hukum BUMN yang menggabungkan diri berakhir karena hukum.
+13. Peleburan adalah perbuatan htkum yang dilakukan oleh 2 (dua) BUMN atau lebih untuk meleburkan diri dengan cara mendirikan I (satu) BUMN baru yang karena hukum memperoleh aktiva dan pasiva dari BUMN yang meleburkan diri dan status badan hukum BUMN yang meleburkan diri berakhir karena hukum.
+14. Pengambilalihan adalah perbuatan hukum yang dilakukan oleh BUMN dalam rangka mengambil alih saham BUMN dan/atau perseroan terbatas lain yang mengakibatkan beralihnya pengendalian BUMN atau perseroan terbatas lain tersebut.
+15. Pemisahan adalah perbuatan hukum yang dilakukan oleh BUMN untuk memisahkan usaha yang mengakibatkan seluruh aktiva dan pasiva BUMN beralih karena hukum kepada 2 (dua) BUMN atau lebih atau sebagian aktiva dan pasiva BUMN beralih karena hukum kepada 1 (satu) BUMN atau lebih.
+16. Privatisasi adalah penjualan saham milik Negara Republik Indonesia pada Persero, baik sebagian maupun seluruhnya, kepada pihak lain.
+17. Rapat Umum Pemegang Saham yang selanjutnya disingkat RUPS adalah organ Perseroan yang mempunyai wewenang yang tidak diberikan kepada Direksi atau Dewan Komisaris dalam batas yang ditentukan sebagaimana dimaksud dalam undangundang mengenai perseroan terbatas.
+18. Hari adalah hari kerja.
+
+19. Pemerintah Pusat adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan Negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+- 2O. Dewan Perwakilan Ralryat Republik Indonesia yang selanjutnya disingkat DPR RI adalah Dewan Perwakilan Rakyat Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+21. Badan Pengaturan BUMN yang selanjutnya disebut BP BUMN adalah lembaga pemerintah yang menyelenggarakan tugas pemerintahan di bidang pengaturan BUMN.
+22. Menteri Keuangan adalah menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.
+23. Badan Pengelola Investasi Daya Anagata Nusantara yang selanjutnya disebut Badan adalah badan yang melaksanakan tugas pemerintah di bidang pengelolaan BUMN sebagaimana diatur dalam Undang-Undang ini.
+24. Perusahaan Induk Investasi yang selanjutnya disebut Holding Investasi adalah perusahaan yang mempunyai tugas untuk melakukan pengelolaan dividen dan/ atau pemberdayaan Aset BUMN serta tugas lain yang ditetapkan oleh Badan.
+25. Perusahaan Induk Operasional yang selanjutnya disebut Holding Operasional adalah perusahaan yang mempunyai tugas untuk melakukan pengawasan terhadap kegiatan operasional BUMN serta tugas lain yang ditetapkan oleh Badan.
+8. 2.Ketentuan...
+
+- 2 Ketentuan Pasal 2 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 10 ^pasal-10
 
 - (l) Pendirian dan penyelenggaraan Persero dilaksanakan sesuai dengan ketentuan peraturan perundangundangan yang mengatur mengenai perseroan terbatas, kecuali ditentukan lain dalam UndangUndang ini.
 - (2) Pendirian Persero diusulkan oleh kepala BP BUMN kepada Presiden disertai dengan kajian pendirian Persero.
 28. Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 14
+### Pasal 14 ^pasal-14
 
 - (1) Kepala BP BUMN menghadiri RUPS selaku pemegang saham negara pada Persero.
 2. l2l Kepala BP BUMN bertindak selaku RUPS dalam hal seluruh saham Persero dimiliki oleh negara atau bertindak selaku pemegang saham pada Persero dalam hal tidak seluruh sahamnya dimiliki oleh negara.
-
-<!-- image -->
 
 ## PRESIOEN R,EPUBLIK INDONESIA
 
 29. Ketentuan Pasal 15A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 15A
+### Pasal 15A ^pasal-15a
 
 - (1) Untuk dapat diangkat menjadi anggota Direksi Persero, calon anggota Direksi Persero harus memenuhi persyaratan:
 - a. warga negara Indonesia;
@@ -512,8 +462,6 @@ Keuntungan sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf a atau kerugian yan
 - a. dinyatakan pailit;
 - b. menjadi anggota Direksi, Dewan Komisaris, atau Dewan Pengawas yang berdasarkan putusan pengadilan berkekuatan hukum tetap dinyatakan sebagai penyebab suatu Persero atau Perum dinyatakan pailit; atau
 
-<!-- image -->
-
 ## EI:EIIitrNl INDONESIA
 
 - c. dihukum karena melakukan tindak pidana yang merugikan keuangan negara dan/ atau yang berkaitan dengan sektor keuangan, dan/atau tindak pidana lain dengan ancaman hukuman paling singkat 5 (lima) tahun.
@@ -521,19 +469,17 @@ Keuntungan sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf a atau kerugian yan
 30. Penjelasan Pasal 15B diubah sebagaimana tercantum dalam penjelasan.
 31. Ketentuan Pasal lSC diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 15C
+### Pasal 15C ^pasal-15c
 
 - (1) Anggota Direksi Persero wajib menandatangani kontrak manajemen dan pakta integritas sebelum ditetapkan pengangkatannya sebagai anggota Direksi Persero.
 2. (21 Kontrak manajemen sebagaimana dimaksud pada ayat (l) disampaikan oleh anggota Direksi Persero kepada kepala BP BUMN, kepala badan pelaksana, dan/atau RUPS.
 32. Ketentuan Pasal l5G diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 15G
+### Pasal 15G ^pasal-15g
 
 - (1) Direksi Persero wajib menyiapkan rencana kerja jangka panjang yang merupakan rencana strategis yang memuat sasaran dan tujuan Persero yang hendak dicapai dalam jangka waktu 5 (lima) tahun.
 2. (21 Rencana kerja jangka panjang sebagaimana dimaksud pada ayat (l) yang telah ditandatangani bersama dengan Dewan Komisaris disampaikan kepada RUPS untuk mendapatkan persetujuan.
 - (3) Direksi Persero wajib menyusun rencana kerja tahunan sebelum dimulainya tahun buku yang akan datang.
-
-<!-- image -->
 
 ## PRESIDEN REPUBUK INDONESIA
 
@@ -550,23 +496,21 @@ Ketentuan lebih lanjut mengenai rencana kerja sebagaimana dimaksud dalam Pasal 1
 
 34. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 27
+### Pasal 27 ^pasal-27
 
 - (1) Pengangkatan dan pemberhentian Dewan Komisaris dilakukan oleh RUPS.
 2. (21 Dalam hal kepala BP BUMN bertindak selaku RUPS, pengangkatan dan pemberhentian Dewan Komisaris ditetapkan oleh kepala BP BUMN.
-35. Penjelasan Pasal 278 diubal: sebagaimana tercantum dalam penjelasan.
-
-<!-- image -->
+35. Penjelasan Pasal 27B diubal: sebagaimana tercantum dalam penjelasan.
 
 36. Ketentuan Pasal 27C diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 27C
+### Pasal 27C ^pasal-27c
 
 - (l) Dewan Komisaris wajib menandatangani kontrak manajemen dan pakta integritas sebelum ditetapkan pengangkatannya sebagai Dewan Komisaris.
 - (21 Kontrak manajemen sebagaimana dimaksud pada ayat (1) disampaikan oleh anggota Dewan Komisaris kepada kepala BP BUMN, kepala badan pelaksana, dan/atau RUPS.
 37. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 35
+### Pasal 35 ^pasal-35
 
 - (1) Pendirian Perum harus memenuhi kriteria antara lain:
 - a. bidang usaha atau kegiatannya berkaitan dengan kepentingan orang banyak;
@@ -580,13 +524,11 @@ Ketentuan lebih lanjut mengenai rencana kerja sebagaimana dimaksud dalam Pasal 1
 - b. anggaran dasar; dan
 - c. kepala BP BUMN sebagai pemilik modal.
 
-<!-- image -->
-
 ## LIiI*Tf.I{n K IND
 
 38. Ketentuan Pasal 37 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 37
+### Pasal 37 ^pasal-37
 
 Organ Perum terdiri atas:
 
@@ -595,14 +537,14 @@ Organ Perum terdiri atas:
 - c. Dewan Pengawas,
 39. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 38
+### Pasal 38 ^pasal-38
 
 - (1) Kepala BP BUMN memberikan persetujuan atas kebijakan pengembangan usaha Perum yang diusulkan oleh Direksi Perum.
 2. (21 Kebijakan pengembangan usaha Perum sebagaimana dimaksud pada ayat (1) diusulkan oleh Direksi Perum kepada kepala BP BUMN setelah mendapat persetujuan dari Dewan Pengawas.
 - (3) Kebijakan sebagaimana dimaksud pada ayat (1) ditetapkan sesuai dengan tujuan Perum yang bersangkutan.
 40. Ketentuan Pasal 39 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 39
+### Pasal 39 ^pasal-39
 
 Kepala BP BUMN tidak bertanggung jawab atas segala akibat perbuatan hukum yang dibuat Perum dan tidak bertanggung jawab atas kerugian Perum melebihi nilai kekayaan negara dalam Perum, kecuali apabila kepala BP BUMN:
 
@@ -610,39 +552,33 @@ Kepala BP BUMN tidak bertanggung jawab atas segala akibat perbuatan hukum yang d
 - b. terlibat dalam perbuatan melawan hukum yang dilakukan oleh Perum; atau
 - c. baik langsung maupun tidak langsung secara melawan hukum menggunakan kekayaan Perum.
 
-<!-- image -->
-
 ## PRESIDEN ELIK INDONESIA
 
 41. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 4O
+### Pasal 40 ^pasal-40
 
-Ketentuan mengenai tata cara pemindahtanganan, pembebanan atas aktiva tetap Perum, serta penerimaan pinjaman jangka menengah/panjang dan pemberian pinjaman dalam bentuk dan cara apa pun, serta tidak menagih lagl dan menghapuskan dari pembukuan piutang dan persediaan barang oleh Perum diatur dengan Peraturan BP BUMN.
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
-42. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
-
-## Pasal 43
+### Pasal 43 ^pasal-43
 
 Penggunaan laba bersih Perum termasuk penentuan jumlah penyisihan untuk cadangan sebagaimana dimaksud dalam Pasal 42 ditetapkan oleh kepala BP BUMN.
 
 43. Ketentuan Pasal 43A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43A
+### Pasal 43A ^pasal-43a
 
 - (1) Direksi Perum terdiri atas I (satu) orang anggota Direksi Perum atau lebih.
 2. (21 Dalam hal Direksi Perum terdiri atas 2 (dua) anggota Direksi Perum atau lebih, pembagian tugas dan wewenang pengurusan di antara anggota Direksi Perum ditetapkan oleh kepala BP BUMN.
 44. Ketentuan Pasal 43B diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43B
+### Pasal 43B ^pasal-43b
 
 Pengangkatan dan pemberhentian anggota Direksi Perum ditetapkan oleh kepala BP BUMN.
 
-<!-- image -->
-
 45. Ketentuan Pasal 43C diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43C
+### Pasal 43C ^pasal-43c
 
 - (l) Untuk dapat diangkat menjadi anggota Direksi Perum harus memenuhi persyaratan:
 - a. warga negara Indonesia;
@@ -658,38 +594,34 @@ Pengangkatan dan pemberhentian anggota Direksi Perum ditetapkan oleh kepala BP B
 
 c. dihukum . . .
 
-<!-- image -->
-
 - c. dihukum karena melakukan tindak pidana yang merugikan keuangan negara dan/ atau yang berkaitan dengan sektor keuangan, dan/atau tindak pidana lain dengan ancaman hukuman paling singkat 5 (lima) tahun.
 - (3) Ketentuan lebih lanjut mengenai persyaratan Direksi Perum sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan BP BUMN.
 46. Penjelasan Pasal 43D diubah sebagaimana tercantum dalam penjelasan.
 47. Ketentuan Pasal 43E diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43E
+### Pasal 43E ^pasal-43e
 
 - (l) Anggota Direksi Perum wajib menandatangani kontrak manajemen dan pakta integritas sebelum ditetapkan pengangkatannya sebagai anggota Direksi Perum.
 - (21 Kontrak manajemen sebagaimana dimaksud pada ayat (1) disampaikan oleh anggota Direksi Perum kepada kepala BP BUMN.
 48. Ketentuan Pasal 43F diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43F
+### Pasal 43F ^pasal-43f
 
 Masa jabatan anggota Direksi Perum ditetapkan oleh kepala BP BUMN.
 
 49. Ketentuan Pasal 43G diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43G
+### Pasal 43G ^pasal-43g
 
 - (1) Jabatan Direksi Perum berhenti apabila:
 - a. meninggal dunia atau berhalangan tetap;
-
-<!-- image -->
 
 - b. masa jabatannya berakhir; atau
 - c. diberhentikan sebelum masa jabatannya berakhir karena tidak lagi memenuhi persyaratan sebagai Direksi Perum sebagaimana dimaksud dalam Pasal 43C atau diberhentikan oleh kepala BP BUMN.
 3. l2l Dalam hal anggota Direksi Perum diberhentikan sebelum jabatannya berakhir sebagaimana dimaksud pada ayat (1) huruf c, kepala BP BUMN wajib memberi kesempatan pada Direksi Perum yang bersangkutan untuk membela diri.
 50. Ketentuan Pasal 43I diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43I
+### Pasal 43I ^pasal-43i
 
 - (1) Direksi Perum wajib menyiapkan rencana kerja jangka panjang yang merupakan rencana strategis yang memuat sasaran dan tujuan Perum yang hendak dicapai dalam jangka waktu 5 (lima) tahun.
 2. (21 Rencana kerja jangka panjang sebagaimana dimaksud pada ayat (1) yang telah ditandatangani bersama Dewan Pengawas disampaikan kepada kepala BP BUMN untuk mendapatkan persetujuan.
@@ -698,15 +630,13 @@ Masa jabatan anggota Direksi Perum ditetapkan oleh kepala BP BUMN.
 - (5) Rencana kerja tahunan sebagaimana dimaksud pada ayat (3) disampaikan kepada kepala BP BUMN untuk mendapatkan persetqjuan.
 - (6) Rencana kerja tahunan sebagaimana dimaksud pada ayat (3) harus ditelaah terlebih dahulu oleh Dewan Pengawas sebelum disampaikan kepada kepala BP BUMN.
 
-<!-- image -->
-
 ## K INDONESIA
 
 - l7l Dalam hal rencana kerja tahunan yang disampaikan belum mendapatkan persetqjuan dari kepala BP BUMN, rencana kerja tahunan tahun yang lampau diberlakukan.
 - (8) Ketentuan lebih lanjut mengenai rencana kerja jangka panjang sebagaimana dimaksud pada ayat (1) dan rencana kerja tahunan sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan BP BUMN.
 51. Ketentuan Pasal 43J diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43J
+### Pasal 43J ^pasal-43j
 
 - (1) Direksi Perum wajib menyampaikan laporan tahunan kepada kepala BP BUMN dalam jangka waktu paling lama 6 (enam) bulan setelah tahun buku Perum berakhir untuk memperoleh persetujuan.
 - (2) Laporan tahunan sebagaimana dimaksud pada ayat (1) paling sedikit memuat:
@@ -718,8 +648,6 @@ Masa jabatan anggota Direksi Perum ditetapkan oleh kepala BP BUMN.
 
 f. nama . . .
 
-<!-- image -->
-
 ## K INDONESIA
 
 - f. nama anggota Direksi Perum dan anggota Dewan Pengawas; dan
@@ -729,17 +657,15 @@ f. nama . . .
 - (5) Dalam ha1 terdapat anggota Direksi Perum atau anggota Dewan Pengawas yang tidak menandatangani laporan tahunan sebagaimana dimaksud pada ayat (3) dan tidak memberi alasan secara tertulis, yang bersangkutan dianggap telah menyetujui isi laporan tahunan.
 52. Ketentuan Pasal 43K diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43K
+### Pasal 43K ^pasal-43k
 
 Ketentuan lebih lanjut mengenai rencana kerja sebagaimana dimaksud dalam Pasal 43I dan laporan tahunan Perum sebagaimana dimaksud dalam Pasal 43J diatur dalam Peraturan BP BUMN.
 
 53. Ketentuan Pasal 43M diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 43M
+### Pasal 43M ^pasal-43m
 
 - (1) Direksi Perum hanya dapat mengajukan permohonan ke pengadilan negeri agar Perum dinyatakan pailit berdasarkan persetujuan kepala BP BUMN.
-
-<!-- image -->
 
 ## iIJ+Tf.T{Il K IND
 
@@ -748,21 +674,25 @@ Ketentuan lebih lanjut mengenai rencana kerja sebagaimana dimaksud dalam Pasal 4
 - (41 Dalam hal kesalahan atau kelalaian Direksi Perum sebagaimana dimaksud pada ayat (2) menimbulkan kerugian bagi Perum, kepala BP BUMN mewakili Perum melakukan tuntutan atau gugatan terhadap Direksi Perum melalui pengadilan.
 54. Ketentuan Pasal 56 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56
+### Pasal 48 ^pasal-48
+
+Keuntungan sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf a atau kerugian yang dialami oleh BUMN merupakan keuntungan atau kerugian pada BUMN.
+
+25. Ketentuan Pasal 4C diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 56 ^pasal-56
 
 Pengangkatan dan pemberhentian Dewan Pengawas dilakukan oleh kepala BP BUMN.
 
 55. Ketentuan Pasal 56A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56A
+### Pasal 56A ^pasal-56a
 
 - (1) Untuk dapat diangkat menjadi Dewan Pengawas harus memenuhi persyaratan:
 - a. warga negara Indonesia;
 - b. sehat jasmani dan rohani;
 - c. tidak memiliki hubungan keluarga baik sedarah maupun semenda dalam garis keturunan lurus dan/ atau ke samping sampai dengan derajat kedua dengan Direksi Perum dan Dewan Pengawas;
 - d. memiliki pengetahuan yang memadai pada salah satu kegiatan bidang usaha Perum tersebut;
-
-<!-- image -->
 
 - e. memiliki integritas, kepemimpinan, pengalaman, kejujuran, perilaku yang baik, serta dedikasi yang tinggi untuk memajukan dan mengembangkan Perum; dan
 - f. persyaratan lain berdasarkan ketentuan peraturan perundang-undangan.
@@ -774,24 +704,22 @@ Pengangkatan dan pemberhentian Dewan Pengawas dilakukan oleh kepala BP BUMN.
 56. Penjelasan Pasal 568 diubah sebagaimana tercantum dalam penjelasan.
 57. Ketentuan Pasal 56C diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56C
+### Pasal 56C ^pasal-56c
 
 - (l) Anggota Dewan Pengawas wajib menandatangani kontrak manajemen dan pakta integritas sebelum ditetapkan pengangkatannya sebagai anggota Dewan Pengawas.
-
-<!-- image -->
 
 ## REPUBUK INDONESIA
 
 - (21 Kontrak manajemen sebagaimana dimaksud pada ayat (1) disampaikan oleh anggota Dewan Pengawas kepada kepala BP BUMN.
 58. Ketentuan Pasal 56D diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56D
+### Pasal 56D ^pasal-56d
 
 Masa jabatan anggota Dewan Pengawas ditetapkan oleh kepala BP BUMN.
 
 59. Ketentuan Pasal 56E diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56E
+### Pasal 56E ^pasal-56e
 
 - (1) Jabatan anggota Dewan Pengawas berhenti apabila:
 - a. meninggal dunia atau berhalangan tetap;
@@ -800,7 +728,7 @@ Masa jabatan anggota Dewan Pengawas ditetapkan oleh kepala BP BUMN.
 5. l2l Dalam hal anggota Dewan Pengawas diberhentikan sebelum jabatannya berakhir sebagaimana dimaksud pada ayat (l) huruf c, kepala BP BUMN wajib memberi kesempatan pada Dewan Pengawas yang bersangkutan untuk membela diri.
 - 6O. Ketentuan Pasal 56H diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 56H
+### Pasal 56H ^pasal-56h
 
 Dewan Pengawas wajib:
 
@@ -809,14 +737,12 @@ Dewan Pengawas wajib:
 
 c. memberikan . . .
 
-<!-- image -->
-
 ## FRESIDEN REFUBUK INDONESIA
 
 - memberikan laporan tentang tugas pengawasan yang telah dilakukan selama tahun buku yang baru lampau kepada kepala BP BUMN. c
 61. Ketentuan Pasal 62A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62A
+### Pasal 62A ^pasal-62a
 
 - (1) Aset BUMN wajib dikelola oleh BUMN dengan prinsip tata kelola perusahaan yang baik.
 2. (21 Pengurusan Aset BUMN sebagaimana dimaksud pada ayat (1) dilakukan oleh Direksi berdasarkan mekanisme yang diatur oleh Direksi dengan memperhatikan pembatasan kewenangan Direksi yang diatur dalam ketentuan peraturan perundangundangan, anggaran dasar, dan/atau keputusan RUPS/kepala BP BUMN.
@@ -824,14 +750,12 @@ c. memberikan . . .
 4. l4l Aset BUMN yang dapat dipindahtangankan dengan pihak ketiga sebagaimana dimaksud pada ayat (3) tidak termasuk Aset BUMN yang berada pada cabangcabang produksi yang penting bagi negara dan menguasai hajat hidup orang banyak serta Aset BUMN yang berupa bumi, air, dan kekayaan alam yang terkandung di dalamnya.
 62. Ketentuan Pasal 62El diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62B
+### Pasal 62B ^pasal-62b
 
 - (l) Kepala BP BUMN mengusulkan pendirian BUMN pengelola aset kepada Presiden disertai dengan kajian pendirian BUMN.
 - (21 BUMN pengelola aset sebagaimana dimaksud pada ayat (1) memiliki kewenangan:
 - a. pengelolaan Aset BUMN;
 - b. Restrukturisasi baik bidang keuangan maupun bisnis dan/ atau revitalisasi BUMN;
-
-<!-- image -->
 
 ## F,EFUBUK INOONESIA
 
@@ -842,60 +766,50 @@ c. memberikan . . .
 - (4) Ketentuan lebih lanjut mengenai BUMN pengelola aset sebagaimana dimaksud pada ayat (1) dan ayal (21 diatur dalam Peraturan BP BUMN.
 63. Ketentuan Pasal 62C diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62C
+### Pasal 62C ^pasal-62c
 
 Ketentuan lebih lanjut mengenai pengelolaan Aset BUMN sebagaimana dimaksud dalam Pasal 62A dan BUMN pengelola aset sebagaimana dimaksud dalam Pasal 628 diatur dalam Peraturan BP BUMN.
 
 64. Ketentuan Pasal 62E diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62E
+### Pasal 62E ^pasal-62e
 
 BUMN dapat melakukan hapus tagih piutang yang telah dihapus buku dengan persetujuan kepala BP BUMN untuk Perum dan Badan untuk Persero.
 
 65. Ketentuan Pasal 62F diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62F
+### Pasal 62F ^pasal-62f
 
 - (1) BUMN melaporkan pelaksanaan hapus buku dan hapus tagih kepada kepala BP BUMN dan Badan.
-
-<!-- image -->
 
 ## FRESIDEN REPUBLIK INDONESIA
 
 - (21 Laporan pelaksanaan sebagaimana dimaksud pada ayat (1) disampaikan dalam laporan tahunan BUMN dan/ atau sewaktu-waktu apabila diperlukan.
 66. Ketentuan Pasal 62H diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62H
+### Pasal 62H ^pasal-62h
 
 Ketentuan lebih lanjut mengenai tata cara hapus buku atas Aset BUMN sebagaimana dimaksud dalam Pasal 62D dan hapus tagih sebagaimana dimaksud dalam Pasal 62E, serta tata cara pelaporan sebagaimana dimaksud dalam Pasal 62F ditetapkan dalam Peraturan BP BUMN.
 
 67. Ketentuan Pasal 62I diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62I
+### Pasal 62I ^pasal-62i
 
 - (1) Penggabungan, Peleburan, Pengambilalihan, atau Pemisahan BUMN diusulkan oleh kepala BP BUMN kepada Presiden.
 2. (21 Penggabungan, Peleburan, Pengambilalihan, atau Pemisahan BUMN ditetapkan dengan Peraturan Pemerintah.
 68. Ketentuan Pasal 62J diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 62J
+### Pasal 62J ^pasal-62j
 
 - (1) Penggabungan, Peleburan, Pengambilalihan, atau Pemisahan BUMN dilaksanakan oleh kepala BP BUMN setelah ditetapkan Peraturan Pemerintah mengenai Penggabungan, Peleburan, Pengambilalihan, atau Pemisahan BUMN.
 2. (21 Rencana dan pelaksanaan Penggabungan, Peleburan, Pengambilalihan, atau Pemisahan BUMN sebagaimana dimaksud pada ayat (1) dilaporkan kepada alat kelengkapan DPR RI yang membidangi BUMN.
-
-<!-- image -->
 
 ## iI:I*If.I{Il K INDONESIA
 
 - (3) Terhitung sejak berlakunya Penggabungan atau Peleburan BUMN sebagaimana dimaksud pada ayat (l), segala kekayaan, hak, dan kewajiban BUMN y€rng menggabungkan diri atau meleburkan diri beralih karena hukum kepada BUMN yang menerima Penggabungan atau BUMN hasil Peleburan.
 69. Ketentuan Pasal 620 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 620
-
-Ketentuan lebih lanjut mengenai pembentukan Anak Usaha BUMN sebagaimana dimaksud dalam Pasal 62M dan Pasal 62N diatur dalam Peraturan BP BUMN.
-
-70. Ketentuan Pasal 70 diubah sehingga berbunyi sebagai berikut:
-
-## Pasal 70
+### Pasal 70 ^pasal-70
 
 - (1) Dewan Komisaris atau Dewan Pengawas wajib membentuk komite audit yang bekerja secara kolektif dan berfungsi membantu Dewan Komisaris atau Dewan Pengawas dalam melaksanakan tugasnya.
 2. (21 Komite audit sebagaimana dimaksud pada ayat (l) dipimpin oleh seorang ketua yang bertanggung jawab kepada Dewan Komisaris atau Dewan Pengawas.
@@ -903,18 +817,16 @@ Ketentuan lebih lanjut mengenai pembentukan Anak Usaha BUMN sebagaimana dimaksud
 4. (41 Ketentuan lebih lanjut mengenai komite audit sebagaimana dimaksud pada ayat (l) dan komite lain sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan BP BUMN.
 71. Ketentuan Pasal 71 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 71
+### Pasal 71 ^pasal-71
 
 - (1) Pemeriksaan laporan keuangan perusahaan tahunan dilakukan oleh akuntan publik yang ditetapkan oleh RUPS untuk Persero dan ditetapkan oleh kepala BP BUMN untuk Perum.
-
-<!-- image -->
 
 ## PRESIOEN REPUBLIK INDONESIA
 
 - (21 Badan Pemeriksa Keuangan berwenang melakukan pemeriksaan terhadap BUMN sesuai dengan ketentuan peraturan perundang-undangan.
 72. Ketentuan Pasal 72 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal72
+### Pasal 72 ^pasal-72
 
 - (1) Maksud dari Restrukturisasi BUMN adalah untuk melakukan:
 - a. peningkatan kinerja;
@@ -930,32 +842,28 @@ Ketentuan lebih lanjut mengenai pembentukan Anak Usaha BUMN sebagaimana dimaksud
 - a. memiliki dampak sosial ekonomi yang luas untuk negara; dan/ atau
 - b. memiliki manfaat bagi hidup orang banyak.
 
-<!-- image -->
-
 ## PRESIDEN REPUBLIK INOONESIA
 
 - (6) BUMN ditetapkan untuk dibubarkan jika tidak dipenuhi satu atau lebih persyaratan sebagaimana dimaksud pada ayat (4) atau ayat (5).
 2. (71 Ketentuan lebih lanjut mengenai persyaratan Restrukturisasi BUMN sebagaimana dimaksud pada ayat (4) dan ayat (5) diatur dalam Peraturan Pemerintah.
 73. Ketentuan Pasal 73A diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 73A
+### Pasal 73A ^pasal-73a
 
 - (1) Untuk mengkaji dan memutuskan penyelamatan BUMN, Pemerintah Pusat membentuk komite penyelamatan.
 2. (21 Komite penyelamatan dipimpin oleh kepala BP BUMN, dengan beranggotakan Menteri Keuangan dan menteri teknis.
 - (3) Keanggotaan komite penyelamatan sebagaimana dimaksud pada ayat (21 ditetapkan dengan Keputusan Presiden.
 74. Ketentuan Pasal 78B diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 78B
+### Pasal 78B ^pasal-78b
 
 Rencana Privatisasi sebagaimana dimaksud dalam Pasal 78A harus dituangkan dalam program tahunan Privatisasi yang disusun oleh kepala BP BUMN.
 
 75. Ketentuan Pasal 79 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 79
+### Pasal 79 ^pasal-79
 
 - (l) Untuk membahas dan memutuskan kebijakan tentang Privatisasi, sehubungan dengan kebijakan lintas sektoral, Presiden membentuk sebuah komite privatisasi sebagai wadah koordinasi.
-
-<!-- image -->
 
 ## PRESIDEN ELIK INDONESIA
 
@@ -963,7 +871,7 @@ Rencana Privatisasi sebagaimana dimaksud dalam Pasal 78A harus dituangkan dalam 
 - (3) Keanggotaan komite dimaksud pada ayat Keputusan Presiden. privatisasi sebagaimana (21 ditetapkan dengan
 76. Ketentuan Pasal 81 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 81
+### Pasal 81 ^pasal-81
 
 - (1) Dalam melaksanalan Privatisasi, kepala BP BUMN bertugas untuk:
 - a. men5rusun program tahunan Privatisasi;
@@ -977,18 +885,16 @@ Rencana Privatisasi sebagaimana dimaksud dalam Pasal 78A harus dituangkan dalam 
 - e. menyiapkan perkiraan nilai yang dapat diperoleh dari program Privatisasi suatu BUMN.
 77. Ketentuan Pasal 86C diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 86C
+### Pasal 86C ^pasal-86c
 
 Pembubaran Persero yang dilakukan berdasarkan ketentuan sebagaimana dimaksud dalam Pasal 868 ayat (1) huruf a dilaporkan oleh kepala BP BUMN kepada Presiden.
-
-<!-- image -->
 
 ## itrNI-FIA IN
 
 - 44
 78. Ketentuan Pasal 86E diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 86E
+### Pasal 86E ^pasal-86e
 
 - a. ditetapkan oleh Peraturan Pemerintah berdasarkan usulan Pemerintah Pusat;
 - (1) Perum dapat dibubarkan karena:
@@ -1001,23 +907,21 @@ Pembubaran Persero yang dilakukan berdasarkan ketentuan sebagaimana dimaksud dal
 - (3) Likuidasi sebagaimana dimaksud pada ayat (2) dilakukan oleh likuidator yang ditunjuk oleh kepala BP BUMN.
 79. Ketentuan Pasal 86F diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 86F
+### Pasal 86F ^pasal-86f
 
 Pembubaran Perum yang dilakukan berdasarkan ketentuan sebagaimana dimaksud dalam Pasal 86E ayat (1) huruf a diusulkan oleh kepala BP BUMN kepada Presiden setelah berkonsultasi dengan alat kelengkapan DPR RI yang membidangi BUMN.
 
 80. Ketentuan Pasal 86G diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 86G
+### Pasal 86G ^pasal-86g
 
 Pengadilan dapat membubarkan Perum sebagaimana dimaksud dalam Pasal 86E ayat (1) huruf c atas permohonan kepala BP BUMN.
-
-<!-- image -->
 
 ## FRESIDEN REPUBUK INDONESIA
 
 81. Ketentuan Pasal 86K diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 86K
+### Pasal 86K ^pasal-86k
 
 - (1) Perum yang sudah dinyatakan bubar hanya dapat melakukan perbuatan hukum untuk melakukan pemberesan kekayaan dalam proses likuidasi.
 2. l2l Pemberesan kekayaan sebagaimana dimaksud pada ayat (l) meliputi:
@@ -1028,15 +932,13 @@ Pengadilan dapat membubarkan Perum sebagaimana dimaksud dalam Pasal 86E ayat (1)
 - e. tindakan lain yang perlu dilakukan dalam pelaksanaan pemberesan kekayaan.
 82. Ketentuan Pasal 87 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 87
+### Pasal 87 ^pasal-87
 
 - (1) Dalam penyelenggaraan BUMN, BUMN didukung oleh sumber daya manusia yang profesional dan berdaya saing global.
 2. (21 Sumber daya manusia sebagaimana dimaksud pada ayat (1) merupakan karyawan BUMN yang pengangkatan, pemberhentian, kedudukan, hak, dan kewajibannya ditetapkan berdasarkan peraturan perusahaan atau perjanjian kerja bersama yang minimal sesuai dengan ketentuan peraturan perundang-undangan di bidang ketenagakerjaan.
 - (3) Karyawan BUMN sebagaimana dimaksud pada ayat (21 dapat berasal dari masyarakat setempat dan/ atau penyandang disabilitas sesuai dengan ketentuan peraturan perundang-undangan.
 - (4) Kar5rawan BUMN sebagaimana dimaksud pada ayat (21 dapat menduduki posisi jabatan Direksi, Dewan Komisaris, Dewan Pengawas, atau jabatan manajerial lain di BUMN dengan mendasarkan pada kesetaraan gender.
 - (5) Karyawan BUMN sebagaimana dimaksud pada ayat (21 dapat ditugaskan dan/atau diperbantukan ke BUMN lain untuk jangka waktu tertentu.
-
-<!-- image -->
 
 ## FRESIDEN REPUEUK INDONESIA,
 
@@ -1051,13 +953,11 @@ Pengadilan dapat membubarkan Perum sebagaimana dimaksud dalam Pasal 86E ayat (1)
 - (21 Ketentuan lebih lanjut mengenai pendidikan dan pelatihan sumber daya manusia sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan BP BUMN.
 84. Ketentuan Pasal 87C diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 87C
+### Pasal 87C ^pasal-87c
 
 - (1) Pemerintah Pusat dapat memberikan penugasan khusus kepada BUMN atau Anak Usaha BUMN untuk menyelenggarakan fungsi kemanfaatan umum, penelitian dan pengembangan, serta inovasi nasional.
 2. l2l Penugasan khusus sebagaimana dimaksud pada ayat (f) ditetapkan oleh Presiden.
 - (3) Penugasan khusus sebagaimana dimaksud pada ayat (1) dilakukan dengan tetap memperhatikan tujuan BUMN serta mempertimbangkan kemampuan BUMN atau Anak Usaha BUMN.
-
-<!-- image -->
 
 ## PRESIDEN REPUEUK INDONESIA
 
@@ -1066,20 +966,18 @@ Pengadilan dapat membubarkan Perum sebagaimana dimaksud dalam Pasal 86E ayat (1)
 - (6) Ketentuan lebih lanjut mengenai penugasan khusus sebagaimana dimaksud pada ayat (l) sampai dengan ayat (5) diatur dalam Peraturan Pemerintah.
 85. Ketentuan Pasal 87D diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 87D
+### Pasal 87D ^pasal-87d
 
 - (1) Dalam rangka penugasan khusus sebagaimana dimaksud dalam Pasal 87C, kepala BP BUMN melakukan koordinasi dengan Menteri Keuangan dan menteri teknis.
 2. (21 Koordinasi kepala BP BUMN dengan Menteri Keuangan dan menteri teknis sebagaimana dimaksud pada ayat (1) ditetapkan dengan surat keputusan bersama.
 86. Ketentuan Pasal 87E diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 87E
+### Pasal 87E ^pasal-87e
 
 - (l) BUMN, Anak Usaha BUMN, dan turunannya wajib melaksanakan tanggung jawab sosial dan lingkungan.
 - (21 Tanggung jawab sosial dan lingkungan sebagaimana dimaksud pada ayat (l) dilaksanakan melalui:
 - a. pembinaan, pelatihan, pemberdayaan, dan kerja sama dengan usaha mikro, kecil, menengah, dan koperasi, serta lembaga lain; dan
 - b. pembinaan masyarakat di seluruh wilayah Negara Kesatuan Republik Indonesia dengan mengutamakan masyarakat di wilayah sekitar BUMN berada.
-
-<!-- image -->
 
 ## PRESIDEN REPUEUK INDONESIA
 
@@ -1092,17 +990,15 @@ Pengadilan dapat membubarkan Perum sebagaimana dimaksud dalam Pasal 86E ayat (1)
 - (6) Ketentuan lebih lanjut mengenai pelaksanaan tanggung jawab sosial dan lingkungan sebagaimana dimaksud pada ayat (1) sampai dengan ayat (5) diatur dalam Peraturan BP BUMN.
 87. Di antara Pasal 88 dan Pasal 89 disisipkan 1 (satu) pasal, yakni Pasal 89A sehingga berbunyi sebagai berikut:
 
-## Pasal 89A
+### Pasal 89A ^pasal-89a
 
 Perlakuan perpajakan atas transaksi yang melibatkan Badan, HoLding lnvestasi, Holding Operasional, dan entitas yang dimilikinya, serta pihak ketiga yang bertransaksi dengan Badan, Holding Investasi, Holding Operasional, dan entitas yang dimilikinya diatur dengan atau berdasarkan Peraturan Pemerintah.
 
 88. Ketentuan Pasal 93 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal 93
+### Pasal 93 ^pasal-93
 
 - (1) Segala penugasan yang telah ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang BUMN dan menteri teknis sebelum UndangUndang ini berlaku tetap dapat dilaksanakan sampai dengan berakhirnya jangka waktu penugasan.
-
-<!-- image -->
 
 ## EtrEIEl{N EUK IND A
 
@@ -1115,25 +1011,21 @@ Perlakuan perpajakan atas transaksi yang melibatkan Badan, HoLding lnvestasi, Ho
 - c. kepemilikan saham pada BUMN yang tercatat atas nama menteri yang menyelenggarakan urusan pemerintahan di bidang BUMN beralih kepada BP BUMN.
 89. Di antara Pasal 94El dan Pasal 95 disisipkan 4 (empat) pasal, yakni Pasal 94C, Pasal 94D, Pasal 94E, dan Pasal 94F sehingga berbunyi sebagai berikut:
 
-## Pasal 94C
+### Pasal 94C ^pasal-94c
 
 Pada saat BP BUMN dibentuk, Pasal 5 ayat (3) UndangUndang Nomor 39 Tahun 2O08 tentang Kementerian Negara sebagaimana telah diubah dengan UndangUndang Nomor 6l Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2OOa tentang Kementerian Negara yang mengatur mengenai urusan pemerintahan dalam rangka penajaman, koordinasi, dan sinkronisasi program pemerintah di bidang BUMN dicabut dan dinyatakan tidak berlaku.
 
-<!-- image -->
-
 ## BUK INDONESIA
 
--50-
-
-## Pasal 94D
+### Pasal 94D ^pasal-94d
 
 Dengan berlakunya Undang-Undang ini, semua nomenklatur menteri yang menyelenggarakan urusan pemerintahan di bidang BUMN dimaknai sebagai kepala BP BUMN.
 
-## Pasal 94E
+### Pasal 94E ^pasal-94e
 
 BP BUMN dibentuk paling lambat 3 (tiga) bulan terhitung sejak Undang-Undang ini mulai berlaku.
 
-## Pasal 94F
+### Pasal 94F ^pasal-94f
 
 Pengalihan kepemilikan 1% (satu persen) saham seri A Dwiwarna pada Holding Investasi dan Holding Operasional kepada Badan dilakukan paling lambat 3 (tiga) bulan terhitung sejak Undang-Undang ini mulai berlaku.
 
@@ -1157,13 +1049,7 @@ Salinan sesuai dengan aslinya
 
 KEMENTERIAN SEKRETARIAT NEGARA REPUBLIK INDONESIA
 
-<!-- image -->
-
-<!-- image -->
-
 ## PRESIDEN REPUEUK INDONESIA
-
--51-
 
 Agar setiap pengundangan penempatannya Indonesia. orang mengetahuinya, memerintahkan Undang-Undang ini dengan dalam Lembaran Negara Republik
 
@@ -1175,8 +1061,6 @@ ttd
 
 PRABOWO SUBIANTO
 
-<!-- image -->
-
 ## PIIESIDEN REPUBUK INDONESIA
 
 ## PENJEI,ASAN ATAS UNDANG.UNDANG REPUBLIK INDONESIA
@@ -1184,6 +1068,16 @@ PRABOWO SUBIANTO
 ## NOMOR 16 TAHUN 2025 TENTANG
 
 ## PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG NOMOR 19 TAHUN 2OO3 TENTANG BADAN USAHA MILIK NEGARA
+
+### Pasal 620 ^pasal-620
+
+Ketentuan lebih lanjut mengenai pembentukan Anak Usaha BUMN sebagaimana dimaksud dalam Pasal 62M dan Pasal 62N diatur dalam Peraturan BP BUMN.
+
+70. Ketentuan Pasal 70 diubah sehingga berbunyi sebagai berikut:
+
+## Penjelasan
+
+### I. Umum
 
 ## I. UMUM
 
@@ -1193,8 +1087,6 @@ Prinsip tersebut menjadi legitimasi dan dasar hukum bagi Negara untuk menguasai 
 
 Peranan BUMN dalam pembangunan ekonomi nasional sangat penting dan strategis, antara lain karena memberikan sumbangan bagr perkembangan perekonomian nasional pada umumnya dan penerimaan Negara pada khususnya, memperoleh keuntungan, menyediakan barang dan/ atau jasa yang bermutu dan berdaya saing tinggi, menyediakan barang dan/ atau jasa bagi kemanfaatan umum dalam rangka pemenuhan hajat hidup orang banyak atau untuk kebutuhan strategis, menjadi perintis kegiatan usaha yang belum dapat dilaksanakan oleh sektor swasta dan koperasi, melakukan pemberdayaan, memberikan dukungan, dan membangun kemitraan dengan usaha mikro, kecil, menengah, koperasi, serta masyarakat.
 
-<!-- image -->
-
 ## PRESIDEN INDONESIA
 
 Upaya peningkatan efisiensi BUMN sangat penting dilakukan untuk mendorong kinerja BUMN agar mampu berperan sebagai salah satu alat Negara untuk meningkatkan kesejahteraan ralgrat dengan memberi pelayanan yang lebih baik kepada masyarakat dan tidak membebani keuangan Negara. Mengingat peran strategis BUMN baik secara sosiologis maupun ekonomis dalam mencapai tujuan negara kesejahteraan, diperlukan BUMN yang berdaya saing secara global.
@@ -1203,49 +1095,17 @@ Dalam pelaksanaan Undang-Undang Nomor 1 Tahun 2025 tentang Perubahan Ketiga atas
 
 Dalam Undang-Undang ini, materi perubahan antara lain mencakup perubahan nomenklatur kelembagaan yang menyelenggarakan tugas pemerintahan di bidang BUMN, pemisahan fungsi pengawasan dan operasional, kepemilikan saham seri A Dwiwarna oleh Negara Republik Indonesia dengan hak istimewa pada BUMN, larangan organ BUMN merangkap jabatan lain termasuk menteri dan wakil menteri, dan pemeriksaan keuangan BUMN oleh Badan Pemeriksa Keuangan.
 
-## II. PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
-```
-Pasal I Angka I Pasal 1 Cukup jelas. Angka 2 Cukup jelas. Angka 3 Pasal 3A Ayat (1)
-```
-
-```
-Cukup jelas.
-```
-
-<!-- image -->
-
-## PRESIDEN
-
-Ayat (2t
+#### Pasal 2 ^penjelasan-pasal-2
 
 Cukup jelas.
 
-Ayat (3)
+#### Pasal 3A ^penjelasan-pasal-3a
 
 Cukup jelas.
 
-Ayat (4)
-
-Cukup jelas.
-
-Ayat (s)
-
-Kekuasaan yang dikuasakan kepada BP BUMN dan/ atau Badan termasuk kekuasaan Pemerintah Pusat selaku pemegang saham pada BUMN dan pemilik modal pada Perum, kecuali pada BUMN yang ditetapkan sebagai alat fiskal sesuai dengan ketentuan peraturan perundang-undangan.
-
-Ayat (6)
-
-Cukup jelas.
-
-## Angka 4
-
-Pasal 38
-
-Cukup jelas.
-
-Angka 5
-
-Pasal 3C
+#### Pasal 3C ^penjelasan-pasal-3c
 
 Huruf a
 
@@ -1267,8 +1127,6 @@ Huruf e
 
 Cukup jelas.
 
-<!-- image -->
-
 ## PRESIDEN NEPUBUK INDONESIA
 
 Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i Cukup jelas. Hurufj Cukup jelas. Huruf k Cukup jelas. Huruf I Cukup jelas. Huruf m Yang dimaksud dengan "kewenangan lain" adalah kewenangan lain yang terkait dengan pengurusan dan pengawasan BUMN.
@@ -1277,21 +1135,15 @@ Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i Cukup jel
 Angka 6 Pasal 3D Cukup jelas. Angka 7 Pasal 3E Cukup jelas. Angka 8 Pasal 3F Cukup jelas.
 ```
 
-<!-- image -->
-
 ```
 Angka 9 Pasal 3G Cukup jelas. Angka 10 Pasal 3H Cukup jelas. Angka 11 Pasal 3N Cukup jelas. Angka 12 Pasal 3X Cukup jelas. Angka 13 Pasal 3Y Cukup jelas. Angka 14 Pasal 3AA Cukup jelas. Angka 15 Pasal 3AB Cukup jelas. Angka 16 Pasal 3AC Cukup jelas.
 ```
-
-<!-- image -->
 
 ## K INDONESIA
 
 ```
 Angka 17 Pasal 3AE Cukup jelas. Angka 18 Pasal 3AH Cukup jetas. Angka 19 Pasd 3AI Cukup jelas. Angka 20 Pasal 3AK Cukup jelas. Angka 21 Pasal 3AL Cukup jelas. Ang)<a 22 Pasal 3AM Dihapus. Angka 23 Pasal 4A Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
 ```
-
-<!-- image -->
 
 Ayat (3) Hurufa Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Penyertaan modal negara dalam rangka penugasan Pemerintah Pusat diberikan kepada Badan untuk diteruskan kepada BUMN penerima penugasan. Ayat (a) Cukup jelas. Ayat (s) BUMN adalah badan hukum privat yang modalnya merupakan milik dan tanggung jawab BUMN sebagai badan hukum, baik yang berasal dari APBN maupun non APBN. Oleh karenanya harus dibina dan dikelola berdasarkan prinsip-prinsip tata kelola perusahaan yang baik. Ayat (6) Cukup jelas.
 
@@ -1302,8 +1154,6 @@ Pasal 4El
 Dalam ketentuan ayat ini modal dan kekayaan BUMN merupakan milik BUMN. Setiap keuntungan atau kerugian yang dialami oleh BUMN menrpakan keuntungan atau kerugian BUMN sehingga bukan merupakan keuntungan atau kerugian negara.
 
 Keuntungan atau kerugian BUMN termasuk tetapi tidak terbatas pada keuntungan atau kerugian BUMN yang timbul dari pengelolaan sebagian atau seluruh aset kekayaan BUMN dalam kegiatan investasi dan/atau operasional BUMN bersangkutan.
-
-<!-- image -->
 
 ```
 Angka 25 Pasal 4C Cukup jelas. AngJ<a26 Pasal 9G Dihapus. Ang)<a 27 Pasal 10 Cukup jelas. Angka 28 Pasal 14 Cukup jelas. Ang$a29 Pasal 15A Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c
@@ -1317,8 +1167,6 @@ Yang dimaksud dengan "hubungan keluarga sampai dengan dera.iat kedua" adalah:
 - c. suami atau istri dari anak (derajat satu vertikal);
 
 d. kakek. . .
-
-<!-- image -->
 
 - d. kakek dan nenek dari suami atau istri (derajat dua vertikal);
 - e. suami atau istri dari cucu (derajat dua vertikal);
@@ -1338,8 +1186,6 @@ Huruf e Cukup jelas. Huruf f Cukup jelas. Hurufg Cukup jelas. Ayat (2) Hurufa Cu
 ```
 
 Hurufb . . .
-
-<!-- image -->
 
 ## PRESIDEN REPUBLIK INDONESIA
 
@@ -1379,15 +1225,11 @@ Huruf e
 
 Yang dimaksud dengan "jabatan lain" termasuk menteri dan wakil menteri.
 
-<!-- image -->
-
 ```
 Angka 31 Pasal 15C Ayat (1) Yang dimaksud dengan "kontrak manajemen" adalah statement of corporate intent (SCI), antara lain memenuhi segala target yang disepakati antara pemegang saham, Dewan Komisaris, dan Direksi. Kontrak manajemen tersebut dapat diperbaharui setiap tahun untuk disesuaikan dengan kondisi dan perkembangan perusahaan. Ayat (2) Cukup jelas. Angka 32 Pasal 15G Ayat (1) Cukup jelas.
 ```
 
 - memuat janji atau pernyataan Direksi untuk Ayat (2) Rencana kerja jangka panjang memuat antara lain: a. evaluasi pelaksanaan rencana kerja sebelumnya; b. posisi perusahaan saat ini; c. asumsi-asumsi yang dipakai dalam penJrusunan; d. misi Persero, sasaran usaha, strategi usaha, kebijakan perusahaan, dan program kerja; e. anggErran perusahaan yang dirinci atas setiap anggaran program kerja; dan f. proyeksi keuangan Persero. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat(s)...
-
-<!-- image -->
 
 Dalam kedudukannya selaku RUPS, pengangkatan dan pemberhentian cukup dilakukan dengan keputusan kepala BP BUMN. Keputusan kepala BP BUMN tersebut mempunyai kekuatan hukum yang sama dengan keputusan yang diambil secara
 
@@ -1419,11 +1261,7 @@ Kepala BP BUMN sebagai perwakilan pemilik modal Perum memberikan persetujuan ata
 
 Kepala . . .
 
-<!-- image -->
-
 ## PRESIDEN REPUBLIK INOONESIA
-
-<!-- image -->
 
 ## PRESIDEN REPUBLIK INDONESIA
 
@@ -1449,7 +1287,99 @@ Perum dibedakan dengan Persero karena sifat usahanya. Perum dalam usahanya lebih
 
 ## Angka 4l
 
-Pasal 40
+#### Pasal 3D ^penjelasan-pasal-3d
+
+Cukup jelas.
+
+#### Pasal 3E ^penjelasan-pasal-3e
+
+Cukup jelas.
+
+#### Pasal 3F ^penjelasan-pasal-3f
+
+Cukup jelas.
+
+#### Pasal 3G ^penjelasan-pasal-3g
+
+Cukup jelas.
+
+#### Pasal 3H ^penjelasan-pasal-3h
+
+Cukup jelas.
+
+#### Pasal 3N ^penjelasan-pasal-3n
+
+Cukup jelas.
+
+#### Pasal 3X ^penjelasan-pasal-3x
+
+Cukup jelas.
+
+#### Pasal 3Y ^penjelasan-pasal-3y
+
+Cukup jelas.
+
+#### Pasal 4A ^penjelasan-pasal-4a
+
+Cukup jelas.
+
+#### Pasal 4C ^penjelasan-pasal-4c
+
+Cukup jelas.
+
+#### Pasal 4O ^penjelasan-pasal-4o
+
+Cukup jelas.
+
+#### Pasal 5 ^penjelasan-pasal-5
+
+Cukup jelas.
+
+#### Pasal 10 ^penjelasan-pasal-10
+
+Cukup jelas.
+
+#### Pasal 14 ^penjelasan-pasal-14
+
+Cukup jelas.
+
+#### Pasal 15A ^penjelasan-pasal-15a
+
+Cukup jelas.
+
+#### Pasal 15C ^penjelasan-pasal-15c
+
+Cukup jelas.
+
+#### Pasal 15G ^penjelasan-pasal-15g
+
+Cukup jelas.
+
+#### Pasal 27 ^penjelasan-pasal-27
+
+Cukup jelas.
+
+#### Pasal 27C ^penjelasan-pasal-27c
+
+Cukup jelas.
+
+#### Pasal 35 ^penjelasan-pasal-35
+
+Cukup jelas.
+
+#### Pasal 37 ^penjelasan-pasal-37
+
+Cukup jelas.
+
+#### Pasal 38 ^penjelasan-pasal-38
+
+Cukup jelas.
+
+#### Pasal 39 ^penjelasan-pasal-39
+
+Cukup jelas.
+
+#### Pasal 40 ^penjelasan-pasal-40
 
 Peraturan BP BUMN tersebut mengatur antara lain, tindakan-tindakan Direksi Perum yang perlu mendapat persetqjuan Dewan Pengawas dan/ atau perlu mendapat persetqjuan kepala BP BUMN yang meliputi antara lain, persetujuan untuk:
 
@@ -1457,15 +1387,13 @@ Peraturan BP BUMN tersebut mengatur antara lain, tindakan-tindakan Direksi Perum
 
 b. pemberian . . .
 
-<!-- image -->
-
 - b. pemberian pinjaman;
 - c. pelepasan aktiva; dan
 - d. penghapusan piutang macet dan persediaan barang.
 
 ## Angla 42
 
-Pasal 43
+#### Pasal 43 ^penjelasan-pasal-43
 
 Berdasarkan ketentuan ini, kepala BP BUMN dapat menetapkan bahwa sebagian atau seluruh laba bersih akan digunakan untuk pembagian dividen kepada pemilik modal, atau pembagian lain seperti tantiem untuk Direksi Perum dan Dewan Pengawas, bonus untuk karyawan, cadangan dana sosial dan lain-lain, atau penempatan laba bersih tersebut dalam cadangan Perrm yang antara lain diperuntukkan bagi perluasan usaha Perum.
 
@@ -1476,8 +1404,6 @@ Angka 43 Pasal 43A Ayat (l) Direksi Perum terdiri atas direktur utama dan/atau d
 ```
 Cukup jelas.
 ```
-
-<!-- image -->
 
 ## FRESIDEN REPUBUK INDONESIA
 
@@ -1504,15 +1430,11 @@ Yang dimaksud dengan "keahlian" adalah kompetensi atas bisnis inti BUMN yang aka
 
 !l
 
-<!-- image -->
-
 ```
 Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Ayat (2) Hurufa Cukup jelas. Huruf b Huruf c Cukup jelas. Ayat (3) Cukup jelas. Untuk menentukan anggota Direksi atau anggota Dewan Komisaris/ Dewan Pengawas dapat dinyatakan sebagai penyebab Persero atau Perum dinyatakan pailit harus didasarkan pada gugatan dan/ atau tuntutan yang dapat diajukan kepada anggota Direksi dan/ atau anggota Dewan Komisaris/Dewan Pengawas yang menjabat pada saat Persero atau Perum dinyatakan pailit, dan/ atau kepada anggota Direksi dan/ atau anggota Dewan Komisaris/ Dewan Pengawas periode sebelum Persero atau Perum dinyatakan pailit. Angka 46 Pasal 43D Huruf a Cukup jelas.
 ```
 
 Huruf b . . .
-
-<!-- image -->
 
 ## FRESIDEN REPUBLIK INDONESIA
 
@@ -1524,8 +1446,6 @@ Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Yang dimaksud dengan "jabatan 
 a. evaluasi pelaksanaan rencana kerja sebelumnya;
 ```
 
-<!-- image -->
-
 - b. posisi perusahaan saat ini;
 - c. asumsi-asumsi yang dipakai dalam penyusunan;
 - d. misi Perum, sasaran usaha, strategi usaha, kebijakan perusahaan, dan program kerja;
@@ -1535,8 +1455,6 @@ a. evaluasi pelaksanaan rencana kerja sebelumnya;
 ```
 Ayat Ayat Ayat Ayat Ayat Ayat Ayat Angka 51 Pasal 43J Ayat (1) Cukup jelas. Ayat (21 Cukup jelas. (2t Cukup jelas. (3) Cukup jelas. (4) Cukup jelas. (s) Cukup jelas. (6) Cukup jelas. 17t Cukup jelas. (8) Cukup jelas.
 ```
-
-<!-- image -->
 
 Ayat (3)
 
@@ -1550,15 +1468,43 @@ Ayat (5)
 
 Cukup jelas.
 
-Angka 52
-
-Pasal 43K
+#### Pasal 43A ^penjelasan-pasal-43a
 
 Cukup jelas.
 
-Angka 53
+#### Pasal 43B ^penjelasan-pasal-43b
 
-Pasal 43M
+Cukup jelas.
+
+#### Pasal 43C ^penjelasan-pasal-43c
+
+Cukup jelas.
+
+#### Pasal 43E ^penjelasan-pasal-43e
+
+Cukup jelas.
+
+#### Pasal 43F ^penjelasan-pasal-43f
+
+Cukup jelas.
+
+#### Pasal 43G ^penjelasan-pasal-43g
+
+Cukup jelas.
+
+#### Pasal 43I ^penjelasan-pasal-43i
+
+Cukup jelas.
+
+#### Pasal 43J ^penjelasan-pasal-43j
+
+Cukup jelas.
+
+#### Pasal 43K ^penjelasan-pasal-43k
+
+Cukup jelas.
+
+#### Pasal 43M ^penjelasan-pasal-43m
 
 Ayat (l)
 
@@ -1571,8 +1517,6 @@ Kesalahan atau kelalaian Direksi Perum yang dimaksud dalam ayat ini harus dapat 
 Ayat (3)
 
 Cukup jelas.
-
-<!-- image -->
 
 ## Ayat (a)
 
@@ -1594,8 +1538,6 @@ Yang dimaksud dengan "hubungan keluarga sampai dengan derajat kedua" adalah:
 - C. suami atau istri dari saudara kandung atau tiri orang yang bersangkutan (dera.iat dua horizontal).
 2. Hubungan . . .
 
-<!-- image -->
-
 2. Hubungan keluarga karena keturunan adalah hubungan seseorang dengan:
 - a. orang tua dan anak (derajat satu vertikal);
 - b. kakek dan nenek serta cucu (derajat dua vertikal); dan
@@ -1605,21 +1547,15 @@ Yang dimaksud dengan "hubungan keluarga sampai dengan derajat kedua" adalah:
 
 Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Ayat (2) Huruf a Cukup jelas. Hurufb Untuk menentukan anggota Direksi atau anggota Dewan Komisaris/ Dewan Pengawas dapat dinyatakan sebagai penyebab Persero atau Perum dinyatakan pailit harus didasarkan pada gugatan dan/ atau tuntutan yang dapat diajukan kepada anggota Direksi dan/ atau anggota Dewan Komisaris/Dewan Pengawas yang menjabat pada saat Persero atau Perum dinyatakan pailit, danlatau kepada anggota Direksi dan/ atau anggota Dewan Komisaris/ Dewan Pengawas periode sebelum Persero atau Perum dinyatakan pailit. Huruf c Cukup jelas. Ayat (3) Cukup jelas.
 
-<!-- image -->
-
 ```
 Angka 56 Pasal 56El Huruf a Cukup jelas. Hurufb Yang dimaksud dengan tabatan lain" termasuk menteri dan wakil menteri. Angka 57 Pasal 56C Ayat (l) Yang dimaksud dengan "kontral< manajemen" adalah statement of corporate intent (SCI) antara lain memuat janji atau pernyataan Dewan Pengawas untuk memenuhi segala target yang disepakati antara Direksi Perum dan Dewan Pengawas. Kontrak manajemen tersebut dapat diperbaharui setiap tahun untuk disesuaikan dengan kondisi dan perkembangan perusahaan. Ayat (2) Cukup jelas. Angka 58 Pasal 56D Cukup jelas. Angka 59 Pasal 56E Cukup jelas. Angka 6O Pasal 56H
 ```
 
 Cukup jelas.
 
-<!-- image -->
-
 ```
 Angka 6l Pasal 62A Ayat (l) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Kerja sama dengan pihak ketiga tetap menempatkan Pemerintah Pusat memegang kedudukan menentukan dalam pengambilan kebijakan dan keputusan. Ayat (4) Cukup jelas. Angka 62 Pasal 62El Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Surat berharga yang dikelola BUMN pengelola aset dapat berupa reksadana. Ayat (4) Cukup jelas. Angka 63 Pasal 62C Cukup jelas. Angka64 Pasal 62E Cukup jelas.
 ```
-
-<!-- image -->
 
 ```
 Angka 65 Pasal 62F Cukup jelas. Angka 66 Pasal 62H Cukup jelas. Angka 67 Pasal 62I Cukup jelas. Angka 68 Pasal 62J Angka 69 Pasal 620 Cukup jelas. Angka 7O Pasal 70 Ayat (1) Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (s) Terhadap pemindahan segala kekayaan, hak, dan kewajiban BUMN yang menggabungkan diri atau meleburkan diri tidak dibutuhkan akta/ perjanjian pemindahtanganan segala kekayaan, hak, dan kewajiban tersendiri.
@@ -1629,17 +1565,13 @@ Angka 65 Pasal 62F Cukup jelas. Angka 66 Pasal 62H Cukup jelas. Angka 67 Pasal 6
 Cukup jelas.
 ```
 
-<!-- image -->
-
 ```
-Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "komite lain" antara lain komite nominasi dan remunerasi serta komite manajemen risiko. Ayat (a) Cukup jelas. Angka 71 Pasal 71 Cukup jelas. AngkaT2 Pasal72 Ayat (1) Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (s) Huruf a Yang dimaksud dengan "memiliki dampak sosial ekonomi yang luas untuk negara" adalah BUMN tersebut memiliki keterkaitan 'uffi*",if **i"il"x;'"f "xS'?ff "rlilY.,.i$l:
+Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "komite lain" antara lain komite nominasi dan remunerasi serta komite manajemen risiko. Ayat (a) Cukup jelas. Angka 71 Pasal 71 Cukup jelas. AngkaT2 Pasal 72 Ayat (1) Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (s) Huruf a Yang dimaksud dengan "memiliki dampak sosial ekonomi yang luas untuk negara" adalah BUMN tersebut memiliki keterkaitan 'uffi*",if **i"il"x;'"f "xS'?ff "rlilY.,.i$l:
 ```
 
 memiliki penugasan negara atau memiliki risiko yang sistemik baik ke sektor keuangan maupun sektor lainnya.
 
 Hurufb. . .
-
-<!-- image -->
 
 Yang dimaksud dengan omemiliki manfaat bagi hidup orang banyalC adalah BUMN tersebut memiliki manfaat yang tinggi, tidak dapat digantikan dengan BUMN lain (tidak ada substitusi), serta memiliki dampak yang besar terhadap kedaulatan dan ketahanan nasional.
 
@@ -1649,24 +1581,251 @@ Huruf b Ayat (6) Cukup jelas. Ayat (71 Cukup jelas. Angka 73 Pasal 73A Cukup jel
 
 Cukup jelas.
 
-<!-- image -->
-
 ## PRESIDEN REPUBUK INDONESIA
 
 ```
 Angka 78 Pasal 86E Cukup jelas. Angka 79 Pasal 86F Cukup jelas. Angka 80 Pasal 86G Cukup jelas. Angka 81 Pasal 86K Cukup jelas. Angka 82 Pasal 87 Cukup jelas. Angka 83 Pasal 87El Cukup jelas. Angka 84 Pasal 87C Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
 ```
 
-<!-- image -->
-
 ```
 Ayat Ayat Ayat Ayat Angka 85 Pasal 87D Cukup jelas. Angka 86 Pasal 87E Cukup jelas. Angka 87 Pasal 89A Cukup jelas. Angka 88 Pasal 93 Cukup jelas. (3) Cukup jelas. (4) Pendanaan atas semua biaya yang telah dikeluarkan oleh BUMN termasuk margin yang diharapkan sepanjang dalam tingkat kewajaran sesuai dengan penugaszrn yang diberikan. Pelaksanaan penugasan khusus oleh BUMN termasuk memberikan dukungan dalam bentuk penyertaan modal negara, pinjaman, penjaminan Pemerintah Pusat, atau dukungan lainnya. (s) Cukup jelas. (6) Cukup jelas.
 ```
-
-<!-- image -->
 
 Angka 89 Pasal 94C Cukup jelas. Pasal 94D Cukup jelas. Pasal 94E Cukup jelas. Pasal 94F Cukup jelas.
 
 Pasal II Cukup jelas.
 
 ## TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 7142
+
+#### Pasal 48 ^penjelasan-pasal-48
+
+Cukup jelas.
+
+#### Pasal 56 ^penjelasan-pasal-56
+
+Cukup jelas.
+
+#### Pasal 56A ^penjelasan-pasal-56a
+
+Cukup jelas.
+
+#### Pasal 56C ^penjelasan-pasal-56c
+
+Cukup jelas.
+
+#### Pasal 56D ^penjelasan-pasal-56d
+
+Cukup jelas.
+
+#### Pasal 56E ^penjelasan-pasal-56e
+
+Cukup jelas.
+
+#### Pasal 56H ^penjelasan-pasal-56h
+
+Cukup jelas.
+
+#### Pasal 62A ^penjelasan-pasal-62a
+
+Cukup jelas.
+
+#### Pasal 62B ^penjelasan-pasal-62b
+
+Cukup jelas.
+
+#### Pasal 62C ^penjelasan-pasal-62c
+
+Cukup jelas.
+
+#### Pasal 62E ^penjelasan-pasal-62e
+
+Cukup jelas.
+
+#### Pasal 62F ^penjelasan-pasal-62f
+
+Cukup jelas.
+
+#### Pasal 62H ^penjelasan-pasal-62h
+
+Cukup jelas.
+
+#### Pasal 62I ^penjelasan-pasal-62i
+
+Cukup jelas.
+
+#### Pasal 62J ^penjelasan-pasal-62j
+
+Cukup jelas.
+
+#### Pasal 70 ^penjelasan-pasal-70
+
+Cukup jelas.
+
+#### Pasal 71 ^penjelasan-pasal-71
+
+Cukup jelas.
+
+#### Pasal 72 ^penjelasan-pasal-72
+
+Cukup jelas.
+
+#### Pasal 73A ^penjelasan-pasal-73a
+
+Cukup jelas.
+
+#### Pasal 78B ^penjelasan-pasal-78b
+
+Cukup jelas.
+
+#### Pasal 79 ^penjelasan-pasal-79
+
+Cukup jelas.
+
+#### Pasal 81 ^penjelasan-pasal-81
+
+Cukup jelas.
+
+#### Pasal 86C ^penjelasan-pasal-86c
+
+Cukup jelas.
+
+#### Pasal 86E ^penjelasan-pasal-86e
+
+Cukup jelas.
+
+#### Pasal 86F ^penjelasan-pasal-86f
+
+Cukup jelas.
+
+#### Pasal 86G ^penjelasan-pasal-86g
+
+Cukup jelas.
+
+#### Pasal 86K ^penjelasan-pasal-86k
+
+Cukup jelas.
+
+#### Pasal 87 ^penjelasan-pasal-87
+
+Cukup jelas.
+
+#### Pasal 87C ^penjelasan-pasal-87c
+
+Cukup jelas.
+
+#### Pasal 87D ^penjelasan-pasal-87d
+
+Cukup jelas.
+
+#### Pasal 87E ^penjelasan-pasal-87e
+
+Cukup jelas.
+
+#### Pasal 89A ^penjelasan-pasal-89a
+
+Cukup jelas.
+
+#### Pasal 93 ^penjelasan-pasal-93
+
+Cukup jelas.
+
+#### Pasal 94C ^penjelasan-pasal-94c
+
+Cukup jelas.
+
+#### Pasal 94D ^penjelasan-pasal-94d
+
+Cukup jelas.
+
+#### Pasal 94E ^penjelasan-pasal-94e
+
+Cukup jelas.
+
+#### Pasal 94F ^penjelasan-pasal-94f
+
+Cukup jelas.
+
+#### Pasal 620 ^penjelasan-pasal-620
+
+Cukup jelas.
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3a|Pasal 3A]] | [[#^penjelasan-pasal-3a|Penjelasan]] | - |
+| [[#^pasal-3c|Pasal 3C]] | [[#^penjelasan-pasal-3c|Penjelasan]] | ✓ |
+| [[#^pasal-3d|Pasal 3D]] | [[#^penjelasan-pasal-3d|Penjelasan]] | - |
+| [[#^pasal-3e|Pasal 3E]] | [[#^penjelasan-pasal-3e|Penjelasan]] | - |
+| [[#^pasal-3f|Pasal 3F]] | [[#^penjelasan-pasal-3f|Penjelasan]] | - |
+| [[#^pasal-3g|Pasal 3G]] | [[#^penjelasan-pasal-3g|Penjelasan]] | - |
+| [[#^pasal-3h|Pasal 3H]] | [[#^penjelasan-pasal-3h|Penjelasan]] | - |
+| [[#^pasal-3n|Pasal 3N]] | [[#^penjelasan-pasal-3n|Penjelasan]] | - |
+| [[#^pasal-3x|Pasal 3X]] | [[#^penjelasan-pasal-3x|Penjelasan]] | - |
+| [[#^pasal-3y|Pasal 3Y]] | [[#^penjelasan-pasal-3y|Penjelasan]] | - |
+| [[#^pasal-4a|Pasal 4A]] | [[#^penjelasan-pasal-4a|Penjelasan]] | - |
+| [[#^pasal-4c|Pasal 4C]] | [[#^penjelasan-pasal-4c|Penjelasan]] | - |
+| [[#^pasal-4o|Pasal 4O]] | [[#^penjelasan-pasal-4o|Penjelasan]] | - |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-14|Pasal 14]] | [[#^penjelasan-pasal-14|Penjelasan]] | - |
+| [[#^pasal-15a|Pasal 15A]] | [[#^penjelasan-pasal-15a|Penjelasan]] | - |
+| [[#^pasal-15c|Pasal 15C]] | [[#^penjelasan-pasal-15c|Penjelasan]] | - |
+| [[#^pasal-15g|Pasal 15G]] | [[#^penjelasan-pasal-15g|Penjelasan]] | - |
+| [[#^pasal-27|Pasal 27]] | [[#^penjelasan-pasal-27|Penjelasan]] | - |
+| [[#^pasal-27c|Pasal 27C]] | [[#^penjelasan-pasal-27c|Penjelasan]] | - |
+| [[#^pasal-35|Pasal 35]] | [[#^penjelasan-pasal-35|Penjelasan]] | - |
+| [[#^pasal-37|Pasal 37]] | [[#^penjelasan-pasal-37|Penjelasan]] | - |
+| [[#^pasal-38|Pasal 38]] | [[#^penjelasan-pasal-38|Penjelasan]] | - |
+| [[#^pasal-39|Pasal 39]] | [[#^penjelasan-pasal-39|Penjelasan]] | - |
+| [[#^pasal-40|Pasal 40]] | [[#^penjelasan-pasal-40|Penjelasan]] | ✓ |
+| [[#^pasal-43|Pasal 43]] | [[#^penjelasan-pasal-43|Penjelasan]] | ✓ |
+| [[#^pasal-43a|Pasal 43A]] | [[#^penjelasan-pasal-43a|Penjelasan]] | - |
+| [[#^pasal-43b|Pasal 43B]] | [[#^penjelasan-pasal-43b|Penjelasan]] | - |
+| [[#^pasal-43c|Pasal 43C]] | [[#^penjelasan-pasal-43c|Penjelasan]] | - |
+| [[#^pasal-43e|Pasal 43E]] | [[#^penjelasan-pasal-43e|Penjelasan]] | - |
+| [[#^pasal-43f|Pasal 43F]] | [[#^penjelasan-pasal-43f|Penjelasan]] | - |
+| [[#^pasal-43g|Pasal 43G]] | [[#^penjelasan-pasal-43g|Penjelasan]] | - |
+| [[#^pasal-43i|Pasal 43I]] | [[#^penjelasan-pasal-43i|Penjelasan]] | - |
+| [[#^pasal-43j|Pasal 43J]] | [[#^penjelasan-pasal-43j|Penjelasan]] | - |
+| [[#^pasal-43k|Pasal 43K]] | [[#^penjelasan-pasal-43k|Penjelasan]] | - |
+| [[#^pasal-43m|Pasal 43M]] | [[#^penjelasan-pasal-43m|Penjelasan]] | ✓ |
+| [[#^pasal-48|Pasal 48]] | [[#^penjelasan-pasal-48|Penjelasan]] | - |
+| [[#^pasal-56|Pasal 56]] | [[#^penjelasan-pasal-56|Penjelasan]] | - |
+| [[#^pasal-56a|Pasal 56A]] | [[#^penjelasan-pasal-56a|Penjelasan]] | - |
+| [[#^pasal-56c|Pasal 56C]] | [[#^penjelasan-pasal-56c|Penjelasan]] | - |
+| [[#^pasal-56d|Pasal 56D]] | [[#^penjelasan-pasal-56d|Penjelasan]] | - |
+| [[#^pasal-56e|Pasal 56E]] | [[#^penjelasan-pasal-56e|Penjelasan]] | - |
+| [[#^pasal-56h|Pasal 56H]] | [[#^penjelasan-pasal-56h|Penjelasan]] | - |
+| [[#^pasal-62a|Pasal 62A]] | [[#^penjelasan-pasal-62a|Penjelasan]] | - |
+| [[#^pasal-62b|Pasal 62B]] | [[#^penjelasan-pasal-62b|Penjelasan]] | - |
+| [[#^pasal-62c|Pasal 62C]] | [[#^penjelasan-pasal-62c|Penjelasan]] | - |
+| [[#^pasal-62e|Pasal 62E]] | [[#^penjelasan-pasal-62e|Penjelasan]] | - |
+| [[#^pasal-62f|Pasal 62F]] | [[#^penjelasan-pasal-62f|Penjelasan]] | - |
+| [[#^pasal-62h|Pasal 62H]] | [[#^penjelasan-pasal-62h|Penjelasan]] | - |
+| [[#^pasal-62i|Pasal 62I]] | [[#^penjelasan-pasal-62i|Penjelasan]] | - |
+| [[#^pasal-62j|Pasal 62J]] | [[#^penjelasan-pasal-62j|Penjelasan]] | - |
+| [[#^pasal-70|Pasal 70]] | [[#^penjelasan-pasal-70|Penjelasan]] | - |
+| [[#^pasal-71|Pasal 71]] | [[#^penjelasan-pasal-71|Penjelasan]] | - |
+| [[#^pasal-72|Pasal 72]] | [[#^penjelasan-pasal-72|Penjelasan]] | - |
+| [[#^pasal-73a|Pasal 73A]] | [[#^penjelasan-pasal-73a|Penjelasan]] | - |
+| [[#^pasal-78b|Pasal 78B]] | [[#^penjelasan-pasal-78b|Penjelasan]] | - |
+| [[#^pasal-79|Pasal 79]] | [[#^penjelasan-pasal-79|Penjelasan]] | - |
+| [[#^pasal-81|Pasal 81]] | [[#^penjelasan-pasal-81|Penjelasan]] | - |
+| [[#^pasal-86c|Pasal 86C]] | [[#^penjelasan-pasal-86c|Penjelasan]] | - |
+| [[#^pasal-86e|Pasal 86E]] | [[#^penjelasan-pasal-86e|Penjelasan]] | - |
+| [[#^pasal-86f|Pasal 86F]] | [[#^penjelasan-pasal-86f|Penjelasan]] | - |
+| [[#^pasal-86g|Pasal 86G]] | [[#^penjelasan-pasal-86g|Penjelasan]] | - |
+| [[#^pasal-86k|Pasal 86K]] | [[#^penjelasan-pasal-86k|Penjelasan]] | - |
+| [[#^pasal-87|Pasal 87]] | [[#^penjelasan-pasal-87|Penjelasan]] | - |
+| [[#^pasal-87c|Pasal 87C]] | [[#^penjelasan-pasal-87c|Penjelasan]] | - |
+| [[#^pasal-87d|Pasal 87D]] | [[#^penjelasan-pasal-87d|Penjelasan]] | - |
+| [[#^pasal-87e|Pasal 87E]] | [[#^penjelasan-pasal-87e|Penjelasan]] | - |
+| [[#^pasal-89a|Pasal 89A]] | [[#^penjelasan-pasal-89a|Penjelasan]] | - |
+| [[#^pasal-93|Pasal 93]] | [[#^penjelasan-pasal-93|Penjelasan]] | - |
+| [[#^pasal-94c|Pasal 94C]] | [[#^penjelasan-pasal-94c|Penjelasan]] | - |
+| [[#^pasal-94d|Pasal 94D]] | [[#^penjelasan-pasal-94d|Penjelasan]] | - |
+| [[#^pasal-94e|Pasal 94E]] | [[#^penjelasan-pasal-94e|Penjelasan]] | - |
+| [[#^pasal-94f|Pasal 94F]] | [[#^penjelasan-pasal-94f|Penjelasan]] | - |
+| [[#^pasal-620|Pasal 620]] | [[#^penjelasan-pasal-620|Penjelasan]] | - |

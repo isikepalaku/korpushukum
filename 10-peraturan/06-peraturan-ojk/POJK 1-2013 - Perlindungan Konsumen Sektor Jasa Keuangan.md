@@ -1,33 +1,32 @@
 ---
-id: "POJK 1/2013"
+id: POJK 1/2013
 jenis: POJK
-lembaga: "Peraturan Otoritas Jasa Keuangan"
+lembaga: POJK
 nomor: 1
 tahun: 2013
-judul: "Perlindungan Konsumen Sektor Jasa Keuangan"
-judul_singkat: "Perlindungan Konsumen Sektor Jasa Keuangan"
-status: dicabut
-status_bpk: "Tidak Berlaku"
-status_catatan: "JDIH BPK: Tidak Berlaku (dicek 2026-10-28). "
-ditetapkan: 2013-07-26
-berlaku_mulai: 2014-08-06
-mencabut: []
-dicabut_oleh: ["POJK 6/2022", "POJK 76/2016"]
-mengubah: []
-diubah_oleh: []
-terkait: []
-bidang: [keuangan]
-tags: [jenis/pojk, bidang/keuangan, status/dicabut]
-sumber: "https://peraturan.bpk.go.id/Details/128325/peraturan-ojk-no-1pojk072013-tahun-2013"
+judul: Perlindungan Konsumen Sektor Jasa Keuangan
+judul_singkat: Perlindungan Konsumen Sektor Jasa Keuangan
+status: berlaku
+status_bpk: Berlaku
+bidang:
+- keuangan
+tags:
+- jenis/pojk
+- bidang/keuangan
+- status/berlaku
 kelengkapan: lengkap
-parser: "pymupdf4llm 2.0"
-parsed_at: 2026-10-28
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Perlindungan Konsumen Sektor Jasa Keuangan**
 
 # Perlindungan Konsumen Sektor Jasa Keuangan
 
@@ -64,17 +63,15 @@ Menetapkan : PERATURAN OTORITAS JASA KEUANGAN TENTANG PERLINDUNGAN KONSUMEN SEKT
 
 # KETENTUAN UMUM
 
-# Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud dengan:
 
 1. Pelaku Usaha Jasa Keuangan adalah Bank Umum, Bank Perkreditan Rakyat, Perusahaan Efek, Penasihat Investasi, Bank Kustodian, Dana Pensiun, Perusahaan Asuransi, Perusahaan Reasuransi, Lembaga Pembiayaan, Perusahaan Gadai, dan Perusahaan Penjaminan, baik yang melaksanakan kegiatan usahanya secara konvensional maupun secara syariah.
 
-2. Konsumen adalah pihak-pihak yang  menempatkan dananya dan/atau memanfaatkan pelayanan yang tersedia di Lembaga
+2. Konsumen adalah pihak-pihak yang menempatkan dananya dan/atau memanfaatkan pelayanan yang tersedia di Lembaga
 
 Jasa...
-
-- 2 -
 
 Jasa Keuangan antara lain nasabah pada Perbankan, pemodal di Pasar Modal, pemegang polis pada perasuransian, dan peserta pada Dana Pensiun, berdasarkan peraturan perundang-undangan di sektor jasa keuangan.
 
@@ -100,8 +97,6 @@ Jasa Keuangan antara lain nasabah pada Perbankan, pemodal di Pasar Modal, pemega
 
 kehilangan...
 
-- 3 -
-
 kehilangan manfaat, dan tanggung jawab hukum kepada pihak ketiga, yang timbul dari peristiwa dari tak pasti.
 
 13. Perusahaan Asuransi Jiwa adalah perusahaan asuransi yang memberikan jasa dalam penanggulangan risiko yang dikaitkan dengan hidup atau meninggalnya seseorang yang dipertanggungkan.
@@ -114,7 +109,7 @@ kehilangan manfaat, dan tanggung jawab hukum kepada pihak ketiga, yang timbul da
 
 17. Perusahaan Penjaminan adalah badan hukum yang bergerak di bidang keuangan dengan kegiatan usaha pokok melakukan penjaminan.
 
-# Pasal 2
+### Pasal 2 ^pasal-2
 
 Perlindungan Konsumen menerapkan prinsip:
 
@@ -134,15 +129,11 @@ Perlindungan Konsumen menerapkan prinsip:
 
 # SEKTOR JASA KEUANGAN
 
-# Pasal 3
+### Pasal 3 ^pasal-3
 
 Pelaku Usaha Jasa Keuangan berhak untuk memastikan adanya itikad baik Konsumen dan mendapatkan informasi dan/atau dokumen mengenai Konsumen yang akurat, jujur, jelas, dan tidak menyesatkan.
 
-Pasal 4...
-
-- 4 -
-
-Pasal 4
+### Pasal 4 ^pasal-4
 
 - (1) Pelaku Usaha Jasa Keuangan wajib menyediakan dan/atau menyampaikan informasi mengenai produk dan/atau layanan yang akurat, jujur, jelas, dan tidak menyesatkan.
 
@@ -150,35 +141,33 @@ Pasal 4
 
 - (3) Informasi sebagaimana dimaksud pada ayat (1) wajib:
 
-   - a. disampaikan pada saat memberikan penjelasan kepada Konsumen mengenai hak dan kewajibannya;
+ - a. disampaikan pada saat memberikan penjelasan kepada Konsumen mengenai hak dan kewajibannya;
 
-   - b. disampaikan pada saat membuat perjanjian dengan Konsumen; dan
+ - b. disampaikan pada saat membuat perjanjian dengan Konsumen; dan
 
-   - c. dimuat pada saat disampaikan melalui berbagai media antara lain melalui iklan di media cetak atau elektronik.
+ - c. dimuat pada saat disampaikan melalui berbagai media antara lain melalui iklan di media cetak atau elektronik.
 
-# Pasal 5
+### Pasal 5 ^pasal-5
 
 Pelaku Usaha Jasa Keuangan wajib menyampaikan informasi yang terkini dan mudah diakses kepada Konsumen tentang produk dan/atau layanan.
 
-# Pasal 6
+### Pasal 6 ^pasal-6
 
 - (1) Pelaku Usaha Jasa Keuangan wajib menyampaikan informasi kepada Konsumen tentang penerimaan, penundaan atau penolakan permohonan produk dan/atau layanan.
 
 - (2) Dalam hal Pelaku Usaha Jasa Keuangan menyampaikan informasi tentang penundaan atau penolakan permohonan produk dan/atau layanan sebagaimana dimaksud pada ayat (1), Pelaku Usaha Jasa Keuangan wajib menyampaikan alasan penundaan atau penolakannya kecuali diatur lain oleh peraturan perundang-undangan.
 
-# Pasal 7
+### Pasal 7 ^pasal-7
 
 - (1) Pelaku Usaha Jasa Keuangan wajib menggunakan istilah, frasa, dan/atau kalimat yang sederhana dalam Bahasa Indonesia yang mudah dimengerti oleh Konsumen dalam setiap dokumen yang:
 
-   - a. memuat hak dan kewajiban Konsumen;
+ - a. memuat hak dan kewajiban Konsumen;
 
-   - b. dapat digunakan Konsumen untuk mengambil keputusan; dan
+ - b. dapat digunakan Konsumen untuk mengambil keputusan; dan
 
-   - c. memuat persyaratan dan dapat mengikat Konsumen secara hukum.
+ - c. memuat persyaratan dan dapat mengikat Konsumen secara hukum.
 
 (2) Bahasa...
-
-- 5 -
 
 - (2) Bahasa Indonesia dalam dokumen sebagaimana dimaksud pada ayat (1) dapat disandingkan dengan bahasa lain jika diperlukan.
 
@@ -188,41 +177,39 @@ Pelaku Usaha Jasa Keuangan wajib menyampaikan informasi yang terkini dan mudah d
 
 - (5) Dalam hal dokumen sebagaimana dimaksud dalam ayat (1) berdasarkan ketentuan peraturan perundang-undangan menggunakan bahasa asing, bahasa asing tersebut harus disandingkan dengan Bahasa Indonesia.
 
-# Pasal 8
+### Pasal 8 ^pasal-8
 
 - (1) Pelaku Usaha Jasa Keuangan wajib menyusun dan menyediakan ringkasan informasi produk dan/atau layanan.
 
 - (2) Ringkasan informasi produk dan/atau layanan sebagaimana dimaksud pada ayat (1) wajib dibuat secara tertulis, sekurangkurangnya memuat:
 
-   - a. manfaat, risiko, dan biaya produk dan/atau layanan; dan
+ - a. manfaat, risiko, dan biaya produk dan/atau layanan; dan
 
-   - b. syarat dan ketentuan.
+ - b. syarat dan ketentuan.
 
-# Pasal 9
+### Pasal 9 ^pasal-9
 
 Pelaku Usaha Jasa Keuangan wajib memberikan pemahaman kepada Konsumen mengenai hak dan kewajiban Konsumen.
 
-# Pasal 10
+### Pasal 10 ^pasal-10
 
-- (1) Pelaku Usaha Jasa Keuangan wajib memberikan informasi mengenai biaya  yang harus ditanggung Konsumen untuk setiap produk dan/atau layanan yang disediakan oleh Pelaku Usaha Jasa Keuangan.
+- (1) Pelaku Usaha Jasa Keuangan wajib memberikan informasi mengenai biaya yang harus ditanggung Konsumen untuk setiap produk dan/atau layanan yang disediakan oleh Pelaku Usaha Jasa Keuangan.
 
 - (2) Pelaku Usaha Jasa Keuangan dilarang memberikan fasilitas secara otomatis yang mengakibatkan tambahan biaya tanpa persetujuan tertulis dari Konsumen.
 
-# Pasal 11
+### Pasal 11 ^pasal-11
 
-- (1) Sebelum Konsumen menandatangani dokumen dan/atau perjanjian produk dan/atau layanan, Pelaku Usaha Jasa Keuangan wajib menyampaikan dokumen yang berisi  syarat dan ketentuan produk dan/atau layanan kepada Konsumen.
+- (1) Sebelum Konsumen menandatangani dokumen dan/atau perjanjian produk dan/atau layanan, Pelaku Usaha Jasa Keuangan wajib menyampaikan dokumen yang berisi syarat dan ketentuan produk dan/atau layanan kepada Konsumen.
 
 (2) Syarat...
 
-- 6 -
-
 - (2) Syarat dan ketentuan produk dan/atau layanan sebagaimana dimaksud pada ayat (1) sekurang-kurangnya memuat:
 
-   - a. rincian biaya, manfaat, dan risiko; dan
+ - a. rincian biaya, manfaat, dan risiko; dan
 
-   - b. prosedur pelayanan dan penyelesaian pengaduan di Pelaku Usaha Jasa Keuangan.
+ - b. prosedur pelayanan dan penyelesaian pengaduan di Pelaku Usaha Jasa Keuangan.
 
-# Pasal 12
+### Pasal 12 ^pasal-12
 
 - (1) Pelaku Usaha Jasa Keuangan wajib menginformasikan kepada Konsumen setiap perubahan manfaat, biaya, risiko, syarat, dan ketentuan yang tercantum dalam dokumen dan/atau perjanjian mengenai produk dan/atau layanan Pelaku Usaha Jasa Keuangan.
 
@@ -232,11 +219,11 @@ Pelaku Usaha Jasa Keuangan wajib memberikan pemahaman kepada Konsumen mengenai h
 
 - (4) Dalam hal Konsumen sudah diberikan waktu untuk menyampaikan pendapatnya sebagaimana dimaksud pada ayat (2) dan Konsumen tidak memberikan pendapatnya maka Pelaku Usaha Jasa Keuangan menganggap Konsumen menyetujui perubahan tersebut.
 
-# Pasal 13
+### Pasal 13 ^pasal-13
 
 Pelaku Usaha Jasa Keuangan wajib menyusun pedoman penetapan biaya atau harga produk dan/atau layanan jasa keuangan.
 
-# Pasal 14
+### Pasal 14 ^pasal-14
 
 - (1) Pelaku Usaha Jasa Keuangan wajib menyelenggarakan edukasi dalam rangka meningkatkan literasi keuangan kepada Konsumen dan/atau masyarakat.
 
@@ -244,69 +231,63 @@ Pelaku Usaha Jasa Keuangan wajib menyusun pedoman penetapan biaya atau harga pro
 
 - (3) Ketentuan lebih lanjut mengenai laporan rencana penyelenggaraan edukasi sebagaimana dimaksud pada ayat (2) diatur dalam Surat Edaran Otoritas Jasa Keuangan.
 
-Pasal 15...
-
-- 7 -
-
-Pasal 15
+### Pasal 15 ^pasal-15
 
 - (1) Pelaku Usaha Jasa Keuangan wajib memberikan akses yang setara kepada setiap Konsumen sesuai klasifikasi Konsumen atas produk dan/atau layanan Pelaku Usaha Jasa Keuangan.
 
 - (2) Klasifikasi Konsumen sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh Pelaku Usaha Jasa Keuangan berdasarkan:
 
-   - (a) latar belakang Konsumen;
+ - (a) latar belakang Konsumen;
 
-   - (b) keterangan mengenai pekerjaan;
+ - (b) keterangan mengenai pekerjaan;
 
-   - (c) rata-rata penghasilan;
+ - (c) rata-rata penghasilan;
 
-   - (d) maksud dan tujuan menggunakan produk dan/atau layanan Pelaku Usaha Jasa Keuangan; atau
+ - (d) maksud dan tujuan menggunakan produk dan/atau layanan Pelaku Usaha Jasa Keuangan; atau
 
-   - (e) informasi lain yang digunakan untuk menentukan klasifikasi Konsumen.
+ - (e) informasi lain yang digunakan untuk menentukan klasifikasi Konsumen.
 
-# Pasal 16
+### Pasal 16 ^pasal-16
 
 Pelaku Usaha Jasa Keuangan wajib memperhatikan kesesuaian antara kebutuhan dan kemampuan Konsumen dengan produk dan/atau layanan ditawarkan kepada Konsumen.
 
-# Pasal 17
+### Pasal 17 ^pasal-17
 
 Pelaku Usaha Jasa Keuangan dilarang menggunakan strategi pemasaran produk dan/atau layanan yang merugikan Konsumen dengan memanfaatkan kondisi Konsumen yang tidak memiliki pilihan lain dalam mengambil keputusan.
 
-# Pasal 18
+### Pasal 18 ^pasal-18
 
 - (1) Pelaku Usaha Jasa Keuangan dapat menjual produk dan/atau layanan dalam satu paket dengan produk dan/atau layanan lain ( _bundling product/service_ ).
 
 - (2) Dalam hal Pelaku Usaha Jasa Keuangan menjual produk dan/atau layanan sebagaimana dimaksud pada ayat (1), maka :
 
-   - a. Pelaku Usaha Jasa Keuangan dilarang memaksa Konsumen untuk membeli produk dan/atau layanan lain dalam paket produk dan/atau layanan tersebut; dan
+ - a. Pelaku Usaha Jasa Keuangan dilarang memaksa Konsumen untuk membeli produk dan/atau layanan lain dalam paket produk dan/atau layanan tersebut; dan
 
-   - b. Konsumen dapat memilih penyedia produk dan/atau layanan lain dalam paket produk dan/atau layanan tersebut.
+ - b. Konsumen dapat memilih penyedia produk dan/atau layanan lain dalam paket produk dan/atau layanan tersebut.
 
 - (3) Dalam hal produk dan/atau layanan lain dalam paket produk dan/atau layanan yang ditawarkan merupakan pilihan
 
 Konsumen...
 
-- 8 -
-
 Konsumen, maka risiko atas pilihan tersebut menjadi tanggung jawab Konsumen.
 
-# Pasal 19
+### Pasal 19 ^pasal-19
 
-Pelaku Usaha Jasa Keuangan dilarang melakukan penawaran produk dan/atau layanan kepada Konsumen dan/atau masyarakat melalui sarana komunikasi pribadi  tanpa persetujuan Konsumen.
+Pelaku Usaha Jasa Keuangan dilarang melakukan penawaran produk dan/atau layanan kepada Konsumen dan/atau masyarakat melalui sarana komunikasi pribadi tanpa persetujuan Konsumen.
 
-# Pasal 20
+### Pasal 20 ^pasal-20
 
 - (1) Pelaku Usaha Jasa Keuangan wajib mencantumkan dan/atau menyebutkan dalam setiap penawaran atau promosi produk dan/atau layanan:
 
-   - a. nama dan/atau logo Pelaku Usaha Jasa Keuangan; dan b. pernyataan bahwa Pelaku Usaha Jasa Keuangan terdaftar dan diawasi oleh Otoritas Jasa Keuangan.
+ - a. nama dan/atau logo Pelaku Usaha Jasa Keuangan; dan b. pernyataan bahwa Pelaku Usaha Jasa Keuangan terdaftar dan diawasi oleh Otoritas Jasa Keuangan.
 
-- (2) Dalam hal penjualan produk dan/atau layanan hanya dapat dilakukan oleh orang perorangan yang terdaftar di Otoritas Jasa Keuangan, dalam penawaran atau promosi sebagaimana dimaksud pada ayat (1) wajib mencantumkan pernyataan bahwa orang perorangan dimaksud  terdaftar dan diawasi oleh Otoritas Jasa Keuangan.
+- (2) Dalam hal penjualan produk dan/atau layanan hanya dapat dilakukan oleh orang perorangan yang terdaftar di Otoritas Jasa Keuangan, dalam penawaran atau promosi sebagaimana dimaksud pada ayat (1) wajib mencantumkan pernyataan bahwa orang perorangan dimaksud terdaftar dan diawasi oleh Otoritas Jasa Keuangan.
 
-# Pasal 21
+### Pasal 21 ^pasal-21
 
 Pelaku Usaha Jasa Keuangan wajib memenuhi keseimbangan, keadilan, dan kewajaran dalam pembuatan perjanjian dengan Konsumen.
 
-# Pasal 22
+### Pasal 22 ^pasal-22
 
 - (1) Dalam hal Pelaku Usaha Jasa Keuangan menggunakan perjanjian baku, perjanjian baku tersebut wajib disusun sesuai dengan peraturan perundang-undangan.
 
@@ -314,11 +295,9 @@ Pelaku Usaha Jasa Keuangan wajib memenuhi keseimbangan, keadilan, dan kewajaran 
 
 - (3) Perjanjian baku sebagaimana dimaksud pada ayat (2) yang digunakan oleh Pelaku Usaha Jasa Keuangan dilarang:
 
-   - a. menyatakan pengalihan tanggung jawab atau kewajiban Pelaku Usaha Jasa Keuangan kepada Konsumen;
+ - a. menyatakan pengalihan tanggung jawab atau kewajiban Pelaku Usaha Jasa Keuangan kepada Konsumen;
 
 b. menyatakan...
-
-- 9 -
 
 - b. menyatakan bahwa Pelaku Usaha Jasa Keuangan berhak menolak pengembalian uang yang telah dibayar oleh Konsumen atas produk dan/atau layanan yang dibeli;
 
@@ -332,93 +311,83 @@ b. menyatakan...
 
 - g. menyatakan bahwa Konsumen memberi kuasa kepada Pelaku Usaha Jasa Keuangan untuk pembebanan hak tanggungan, hak gadai, atau hak jaminan atas produk dan/atau layanan yang dibeli oleh Konsumen secara angsuran.
 
-# Pasal 23
+### Pasal 23 ^pasal-23
 
 - (1) Pelaku Usaha Jasa Keuangan, agen penjual, dan pengurus/pegawai dari Pelaku Usaha Jasa Keuangan wajib menghindari benturan kepentingan antara Pelaku Usaha Jasa Keuangan dengan Konsumen.
 
 - (2) Pelaku Usaha Jasa Keuangan wajib menyediakan informasi mengenai adanya benturan kepentingan atau potensi benturan kepentingan.
 
-# Pasal 24
+### Pasal 24 ^pasal-24
 
 Pelaku Usaha Jasa Keuangan wajib menyediakan layanan khusus kepada Konsumen dengan kebutuhan khusus.
 
-Pasal 25...
+### Pasal 25 ^pasal-25
 
-- 10 -
+Pelaku Usaha Jasa Keuangan wajib menjaga keamanan simpanan, dana, atau aset Konsumen yang berada dalam tanggung jawab Pelaku Usaha Jasa Keuangan.
 
-# Pasal 25
-
-Pelaku Usaha Jasa Keuangan wajib menjaga  keamanan simpanan, dana, atau aset Konsumen yang berada dalam tanggung jawab Pelaku Usaha Jasa Keuangan.
-
-# Pasal 26
+### Pasal 26 ^pasal-26
 
 Pelaku Usaha Jasa Keuangan wajib memberikan tanda bukti kepemilikan produk dan/atau pemanfaatan layanan kepada Konsumen tepat pada waktunya sesuai dengan perjanjian dengan Konsumen.
 
-# Pasal 27
+### Pasal 27 ^pasal-27
 
-Pelaku Usaha Jasa Keuangan wajib memberikan laporan kepada Konsumen tentang posisi saldo dan mutasi simpanan, dana, aset, atau kewajiban Konsumen secara akurat, tepat waktu, dan dengan cara atau sarana  sesuai dengan perjanjian dengan Konsumen.
+Pelaku Usaha Jasa Keuangan wajib memberikan laporan kepada Konsumen tentang posisi saldo dan mutasi simpanan, dana, aset, atau kewajiban Konsumen secara akurat, tepat waktu, dan dengan cara atau sarana sesuai dengan perjanjian dengan Konsumen.
 
-# Pasal 28
+### Pasal 28 ^pasal-28
 
 Pelaku Usaha Jasa Keuangan wajib melaksanakan instruksi Konsumen sesuai dengan perjanjian dengan Konsumen dan ketentuan peraturan perundang-undangan.
 
-# Pasal 29
+### Pasal 29 ^pasal-29
 
 Pelaku Usaha Jasa Keuangan wajib bertanggung jawab atas kerugian Konsumen yang timbul akibat kesalahan dan/atau kelalaian, pengurus, pegawai Pelaku Usaha Jasa Keuangan dan/atau pihak ketiga yang bekerja untuk kepentingan Pelaku Usaha Jasa Keuangan.
 
-# Pasal 30
+### Pasal 30 ^pasal-30
 
 - (1) Pelaku Usaha Jasa Keuangan wajib mencegah pengurus, pengawas, dan pegawainya dari perilaku:
 
-   - a. memperkaya atau menguntungkan diri sendiri atau pihak lain,
+ - a. memperkaya atau menguntungkan diri sendiri atau pihak lain,
 
-   - b. menyalahgunakan kewenangan, kesempatan, atau sarana yang ada padanya karena jabatan atau kedudukannya,
+ - b. menyalahgunakan kewenangan, kesempatan, atau sarana yang ada padanya karena jabatan atau kedudukannya,
 
-   - yang dapat merugikan Konsumen.
+ - yang dapat merugikan Konsumen.
 
 (2) Pengurus...
 
-- 11 -
-
 - (2) Pengurus dan pegawai Pelaku Usaha Jasa Keuangan wajib mentaati kode etik dalam melayani Konsumen, yang telah ditetapkan oleh masing-masing Pelaku Usaha Jasa Keuangan.
 
-- (3) Pelaku Usaha Jasa Keuangan wajib bertanggung jawab kepada Konsumen atas  tindakan yang dilakukan oleh pihak ketiga yang bertindak untuk kepentingan Pelaku Usaha Jasa Keuangan.
+- (3) Pelaku Usaha Jasa Keuangan wajib bertanggung jawab kepada Konsumen atas tindakan yang dilakukan oleh pihak ketiga yang bertindak untuk kepentingan Pelaku Usaha Jasa Keuangan.
 
-# Pasal 31
+### Pasal 31 ^pasal-31
 
 - (1) Pelaku Usaha Jasa Keuangan dilarang dengan cara apapun, memberikan data dan/atau informasi mengenai Konsumennya kepada pihak ketiga.
 
 - (2) Larangan sebagaimana dimaksud pada ayat (1) dikecualikan dalam hal:
 
-   - a. Konsumen memberikan persetujuan tertulis; dan/atau
+ - a. Konsumen memberikan persetujuan tertulis; dan/atau
 
-   - b. diwajibkan oleh peraturan perundang-undangan.
+ - b. diwajibkan oleh peraturan perundang-undangan.
 
 - (3) Dalam hal Pelaku Usaha Jasa Keuangan memperoleh data dan/atau informasi pribadi seseorang dan/atau sekelompok orang dari pihak lain dan Pelaku Usaha Jasa Keuangan akan menggunakan data dan/atau informasi tersebut untuk melaksanakan kegiatannya, Pelaku Usaha Jasa Keuangan wajib memiliki pernyataan tertulis bahwa pihak lain dimaksud telah memperoleh persetujuan tertulis dari seseorang dan/atau sekelompok orang tersebut untuk memberikan data dan/atau informasi pribadi dimaksud kepada pihak manapun, termasuk Pelaku Usaha Jasa Keuangan.
 
 - (4) Pembatalan atau perubahan sebagian persetujuan atas pengungkapan data dan atau informasi sebagaimana dimaksud pada ayat (2) huruf a dilakukan secara tertulis oleh Konsumen dalam bentuk surat pernyataan.
 
-# Pasal 32
+### Pasal 32 ^pasal-32
 
 - (1) Pelaku Usaha Jasa Keuangan wajib memiliki dan melaksanakan mekanisme pelayanan dan penyelesaian pengaduan bagi Konsumen.
 
 - (2) Mekanisme pelayanan dan penyelesaian pengaduan sebagaimana dimaksud pada ayat (1) wajib diberitahukan kepada Konsumen.
 
-# Pasal 33
+### Pasal 33 ^pasal-33
 
 Pelaku Usaha Jasa Keuangan dilarang mengenakan biaya apapun kepada Konsumen atas pengajuan pengaduan.
 
-Pasal 34...
-
-- 12 -
-
-Pasal 34
+### Pasal 34 ^pasal-34
 
 - (1) Pelaku Usaha Jasa Keuangan wajib melaporkan secara berkala adanya pengaduan Konsumen dan tindak lanjut pelayanan dan penyelesaian pengaduan Konsumen dimaksud kepada Otoritas Jasa Keuangan, dalam hal ini Kepala Eksekutif yang melakukan pengawasan atas kegiatan Pelaku Usaha Jasa Keuangan.
 
 - (2) Laporan sebagaimana dimaksud pada ayat (1) disampaikan paling lambat pada tanggal 10 (sepuluh) setiap 3 (tiga) bulan. Apabila tanggal 10 (sepuluh) jatuh pada hari libur, maka penyampaian laporan dimaksud dilakukan pada hari kerja pertama setelah hari libur dimaksud.
 
-# Pasal 35
+### Pasal 35 ^pasal-35
 
 - (1) Pelaku Usaha Jasa Keuangan wajib segera menindaklanjuti dan menyelesaikan pengaduan paling lambat 20 hari kerja setelah tanggal penerimaan pengaduan.
 
@@ -426,31 +395,29 @@ Pasal 34
 
 - (3) Kondisi tertentu sebagaimana dimaksud pada ayat (2) adalah:
 
-   - a. kantor Pelaku Usaha Jasa Keuangan yang menerima pengaduan tidak sama dengan kantor Pelaku Usaha Jasa Keuangan tempat terjadinya permasalahan yang diadukan dan terdapat kendala komunikasi di antara kedua kantor Pelaku Usaha Jasa Keuangan tersebut;
+ - a. kantor Pelaku Usaha Jasa Keuangan yang menerima pengaduan tidak sama dengan kantor Pelaku Usaha Jasa Keuangan tempat terjadinya permasalahan yang diadukan dan terdapat kendala komunikasi di antara kedua kantor Pelaku Usaha Jasa Keuangan tersebut;
 
-   - b. transaksi keuangan yang diadukan oleh Konsumen memerlukan penelitian khusus terhadap dokumen-dokumen Pelaku Usaha Jasa Keuangan; dan/atau
+ - b. transaksi keuangan yang diadukan oleh Konsumen memerlukan penelitian khusus terhadap dokumen-dokumen Pelaku Usaha Jasa Keuangan; dan/atau
 
-   - c. terdapat hal-hal lain di luar kendali Pelaku Usaha Jasa Keuangan seperti adanya keterlibatan pihak ketiga di luar Pelaku Usaha Jasa Keuangan dalam transaksi keuangan yang dilakukan oleh Konsumen.
+ - c. terdapat hal-hal lain di luar kendali Pelaku Usaha Jasa Keuangan seperti adanya keterlibatan pihak ketiga di luar Pelaku Usaha Jasa Keuangan dalam transaksi keuangan yang dilakukan oleh Konsumen.
 
 - (4) Perpanjangan jangka waktu penyelesaian pengaduan sebagaimana dimaksud pada ayat (2) wajib diberitahukan secara tertulis kepada Konsumen yang mengajukan pengaduan sebelum jangka waktu sebagaimana dimaksud pada ayat (1) berakhir.
 
-# Pasal 36
+### Pasal 36 ^pasal-36
 
 - (1) Pelaku Usaha Jasa Keuangan wajib memiliki unit kerja dan/atau fungsi untuk menangani dan menyelesaikan pengaduan yang diajukan Konsumen.
 
 (2) Kewenangan...
 
-- 13 -
-
 - (2) Kewenangan unit kerja dan/atau fungsi sebagaimana dimaksud pada ayat (1) wajib diatur dalam mekanisme pelayanan dan penyelesaian pengaduan sebagaimana dimaksud dalam Pasal 32.
 
 - (3) Pelaku Usaha Jasa Keuangan wajib menunjuk 1 (satu) orang pegawai di setiap kantor Pelaku Usaha Jasa Keuangan untuk menangani penyelesaian pengaduan Konsumen.
 
-# Pasal 37
+### Pasal 37 ^pasal-37
 
 Dalam hal pengaduan Konsumen terkait transaksi atau kegiatan melibatkan pegawai Pelaku Usaha Jasa Keuangan yang memiliki kewenangan untuk menangani pengaduan atau pegawai Pelaku Usaha Jasa Keuangan yang menyelesaikan pengaduan tersebut, maka penanganan dan penyelesaian pengaduan wajib dilakukan oleh pegawai lain.
 
-# Pasal 38
+### Pasal 38 ^pasal-38
 
 Setelah menerima pengaduan Konsumen, Pelaku Usaha Jasa Keuangan wajib melakukan:
 
@@ -460,23 +427,21 @@ Setelah menerima pengaduan Konsumen, Pelaku Usaha Jasa Keuangan wajib melakukan:
 
 - c. menyampaikan pernyataan maaf dan menawarkan ganti rugi ( _redress/remedy_ ) atau perbaikan produk dan atau layanan, jika pengaduan Konsumen benar.
 
-Pasal 39
+### Pasal 39 ^pasal-39
 
 - (1) Dalam hal tidak mencapai kesepakatan penyelesaian pengaduan, Konsumen dapat melakukan penyelesaian sengketa di luar pengadilan atau melalui pengadilan.
 
 - (2) Penyelesaian sengketa di luar pengadilan sebagaimana dimaksud pada ayat (1) dilakukan melalui lembaga alternatif penyelesaian sengketa.
 
-- (3) Dalam hal penyelesaian sengketa tidak dilakukan melalui lembaga alternatif penyelesaian sengketa sebagaimana dimaksud pada ayat (2), Konsumen dapat  menyampaikan permohonan kepada Otoritas Jasa Keuangan untuk memfasilitasi penyelesaian pengaduan Konsumen yang dirugikan oleh pelaku di Pelaku Usaha Jasa Keuangan.
+- (3) Dalam hal penyelesaian sengketa tidak dilakukan melalui lembaga alternatif penyelesaian sengketa sebagaimana dimaksud pada ayat (2), Konsumen dapat menyampaikan permohonan kepada Otoritas Jasa Keuangan untuk memfasilitasi penyelesaian pengaduan Konsumen yang dirugikan oleh pelaku di Pelaku Usaha Jasa Keuangan.
 
 BAB III...
-
-- 14 -
 
 # BAB III
 
 PENGADUAN KONSUMEN DAN PEMBERIAN FASILITAS PENYELESAIAN PENGADUAN OLEH OTORITAS JASA KEUANGAN
 
-Pasal 40
+### Pasal 40 ^pasal-40
 
 - (1) Konsumen dapat menyampaikan pengaduan yang berindikasi sengketa antara Pelaku Usaha Jasa Keuangan dengan Konsumen kepada Otoritas Jasa Keuangan.
 
@@ -484,13 +449,13 @@ Pasal 40
 
 - (3) Pengaduan sebagaimana dimaksud pada ayat (1) dan ayat (2) disampaikan kepada Otoritas Jasa Keuangan, dalam hal ini Anggota Dewan Komisioner yang membidangi edukasi dan perlindungan Konsumen.
 
-# Pasal 41
+### Pasal 41 ^pasal-41
 
 Pemberian fasilitas penyelesaian pengaduan Konsumen oleh Otoritas Jasa Keuangan dilakukan terhadap pengaduan yang berindikasi sengketa di sektor jasa keuangan sebagaimana dimaksud dalam Pasal 40 ayat (1) dan harus memenuhi persyaratan sebagai berikut: a. Konsumen mengalami kerugian finansial yang ditimbulkan oleh:
 
-   1. Pelaku Usaha Jasa Keuangan di bidang Perbankan, Pasar Modal, Dana Pensiun, Asuransi Jiwa, Pembiayaan, Perusahaan Gadai, atau Penjaminan, paling banyak sebesar Rp500.000.000,00 (lima ratus juta rupiah);
+ 1. Pelaku Usaha Jasa Keuangan di bidang Perbankan, Pasar Modal, Dana Pensiun, Asuransi Jiwa, Pembiayaan, Perusahaan Gadai, atau Penjaminan, paling banyak sebesar Rp500.000.000,00 (lima ratus juta rupiah);
 
-   2. Pelaku Usaha Jasa Keuangan di bidang asuransi umum paling banyak sebesar Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah);
+ 2. Pelaku Usaha Jasa Keuangan di bidang asuransi umum paling banyak sebesar Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah);
 
 - b. Konsumen mengajukan permohonan secara tertulis disertai dengan dokumen pendukung yang berkaitan dengan pengaduan;
 
@@ -502,21 +467,19 @@ Pemberian fasilitas penyelesaian pengaduan Konsumen oleh Otoritas Jasa Keuangan 
 
 f. pengaduan...
 
-- 15 -
-
 - f. pengaduan yang diajukan belum pernah difasilitasi oleh Otoritas Jasa Keuangan; dan
 
 - g. pengajuan penyelesaian pengaduan tidak melebihi 60 (enam puluh) hari kerja sejak tanggal surat hasil penyelesaian Pengaduan yang disampaikan Pelaku Usaha Jasa Keuangan kepada Konsumen.
 
-# Pasal 42
+### Pasal 42 ^pasal-42
 
 Pemberian fasilitas penyelesaian pengaduan yang dilaksanakan oleh Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 41 merupakan upaya mempertemukan Konsumen dan Pelaku Usaha Jasa Keuangan untuk mengkaji ulang permasalahan secara mendasar dalam rangka memperoleh kesepakatan penyelesaian.
 
-# Pasal 43
+### Pasal 43 ^pasal-43
 
 Otoritas Jasa Keuangan menunjuk fasilitator untuk melaksanakan fungsi penyelesaian pengaduan.
 
-# Pasal 44
+### Pasal 44 ^pasal-44
 
 Otoritas Jasa Keuangan memulai proses fasilitasi setelah Konsumen dan Pelaku Usaha Jasa Keuangan sepakat untuk difasilitasi oleh Otoritas Jasa Keuangan yang dituangkan dalam perjanjian fasilitasi yang memuat:
 
@@ -524,17 +487,13 @@ Otoritas Jasa Keuangan memulai proses fasilitasi setelah Konsumen dan Pelaku Usa
 
 - b. persetujuan untuk patuh dan tunduk pada aturan fasilitasi yang ditetapkan oleh Otoritas Jasa Keuangan.
 
-# Pasal 45
+### Pasal 45 ^pasal-45
 
 - (1) Pelaksanaan proses fasilitasi sampai dengan ditandatanganinya Akta Kesepakatan dilakukan dalam jangka waktu paling lama 30 (tiga puluh) hari kerja sejak Konsumen dan Pelaku Usaha Jasa Keuangan menandatangani perjanjian fasilitasi sebagaimana dimaksud dalam Pasal 44.
 
 - (2) Jangka waktu proses fasilitasi sebagaimana dimaksud pada ayat (1) dapat diperpanjang sampai dengan 30 (tiga puluh) hari kerja berikutnya berdasarkan Akta Kesepakatan Konsumen dan Pelaku Usaha Jasa Keuangan.
 
-Pasal 46...
-
-- 16 -
-
-# Pasal 46
+### Pasal 46 ^pasal-46
 
 - (1) Kesepakatan antara Konsumen dan Pelaku Usaha Jasa Keuangan yang dihasilkan dari proses fasilitasi sebagaimana dimaksud dalam Pasal 45 dituangkan dalam Akta Kesepakatan yang ditandatangani oleh Konsumen dan Pelaku Usaha Jasa Keuangan.
 
@@ -544,19 +503,19 @@ Pasal 46...
 
 # PENGENDALIAN INTERNAL
 
-# Pasal 47
+### Pasal 47 ^pasal-47
 
 - (1) Direksi atau pengurus Pelaku Usaha Jasa Keuangan bertanggung jawab atas ketaatan pelaksanaan ketentuan Peraturan ini.
 
 - (2) Dewan Komisaris atau pengawas Pelaku Usaha Jasa Keuangan melakukan pengawasan atas pelaksanaan tanggung jawab Direksi atau pengurus terhadap ketaatan pelaksanaan ketentuan Peraturan ini.
 
-# Pasal 48
+### Pasal 48 ^pasal-48
 
-- (1) Pelaku Usaha Jasa Keuangan wajib  memiliki sistem pengawasan bagi Direksi atau pengurus dalam rangka perlindungan Konsumen.
+- (1) Pelaku Usaha Jasa Keuangan wajib memiliki sistem pengawasan bagi Direksi atau pengurus dalam rangka perlindungan Konsumen.
 
-- (2) Pelaku Usaha Jasa Keuangan wajib  membentuk sistem pelaporan untuk menjamin optimalisasi pengawasan Direksi atau pengurus terhadap ketaatan pelaksanaan Peraturan ini.
+- (2) Pelaku Usaha Jasa Keuangan wajib membentuk sistem pelaporan untuk menjamin optimalisasi pengawasan Direksi atau pengurus terhadap ketaatan pelaksanaan Peraturan ini.
 
-# Pasal 49
+### Pasal 49 ^pasal-49
 
 - (1) Pelaku Usaha Jasa Keuangan wajib memiliki dan menerapkan kebijakan dan prosedur tertulis perlindungan Konsumen.
 
@@ -564,61 +523,57 @@ Pasal 46...
 
 (3) Kebijakan...
 
-- 17 -
-
 - (3) Kebijakan dan prosedur sebagaimana dimaksud pada ayat (1) wajib ditaati oleh pengurus dan pegawai Pelaku Usaha Jasa Keuangan.
 
-# Pasal 50
+### Pasal 50 ^pasal-50
 
 - (1) Pelaku Usaha Jasa Keuangan wajib memiliki sistem pengendalian internal terkait dengan perlindungan Konsumen.
 
 - (2) Sistem pengendalian internal sebagaimana dimaksud pada ayat
 
-   - (1) sekurang-kurangnya mencakup:
+ - (1) sekurang-kurangnya mencakup:
 
-   - a. kepatuhan Pelaku Usaha Jasa Keuangan terhadap pelaksanaan prinsip-prinsip perlindungan Konsumen; dan
+ - a. kepatuhan Pelaku Usaha Jasa Keuangan terhadap pelaksanaan prinsip-prinsip perlindungan Konsumen; dan
 
-   - b. sistem pelaporan dan monitoring terhadap tindak lanjut pengaduan Konsumen.
+ - b. sistem pelaporan dan monitoring terhadap tindak lanjut pengaduan Konsumen.
 
 # BAB V
 
-# PENGAWASAN  PERLINDUNGAN KONSUMEN
+# PENGAWASAN PERLINDUNGAN KONSUMEN
 
 # SEKTOR JASA KEUANGAN
 
-# Pasal 51
+### Pasal 51 ^pasal-51
 
 - (1) Otoritas Jasa Keuangan melakukan pengawasan kepatuhan Pelaku Usaha Jasa Keuangan terhadap penerapan ketentuan perlindungan Konsumen.
 
 - (2) Pengawasan sebagaimana dimaksud pada ayat (1) meliputi pengawasan secara langsung maupun tidak langsung.
 
-# Pasal 52
+### Pasal 52 ^pasal-52
 
-- (1) Dalam rangka pelaksanaan pengawasan kepatuhan Pelaku Usaha Jasa Keuangan terhadap penerapan ketentuan perlindungan Konsumen sebagaimana dimaksud dalam Pasal 51,  Otoritas Jasa Keuangan berwenang meminta data dan informasi dari Pelaku Usaha Jasa Keuangan berkaitan dengan pelaksanaan ketentuan perlindungan Konsumen.
+- (1) Dalam rangka pelaksanaan pengawasan kepatuhan Pelaku Usaha Jasa Keuangan terhadap penerapan ketentuan perlindungan Konsumen sebagaimana dimaksud dalam Pasal 51, Otoritas Jasa Keuangan berwenang meminta data dan informasi dari Pelaku Usaha Jasa Keuangan berkaitan dengan pelaksanaan ketentuan perlindungan Konsumen.
 
 - (2) Permintaan data dan informasi sebagaimana dimaksud pada ayat (1) dapat dilakukan secara berkala atau sewaktu-waktu apabila diperlukan.
 
 BAB VI...
 
-- 18 -
-
 # BAB VI
 
 # SANKSI
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
 - (1) Pelaku Usaha Jasa Keuangan dan/atau pihak yang melanggar ketentuan dalam Peraturan Otoritas Jasa Keuangan ini dikenakan sanksi administratif, antara lain berupa:
 
-   - a. Peringatan tertulis;
+ - a. Peringatan tertulis;
 
-   - b. Denda yaitu kewajiban untuk membayar sejumlah uang tertentu;
+ - b. Denda yaitu kewajiban untuk membayar sejumlah uang tertentu;
 
-   - c. Pembatasan kegiatan usaha;
+ - c. Pembatasan kegiatan usaha;
 
-   - d. Pembekuan kegiatan usaha; dan
+ - d. Pembekuan kegiatan usaha; dan
 
-   - e. Pencabutan izin kegiatan usaha.
+ - e. Pencabutan izin kegiatan usaha.
 
 - (2) Sanksi sebagaimana dimaksud pada ayat (1) huruf b, huruf c, huruf d, atau huruf e dapat dikenakan dengan atau tanpa didahului pengenaan sanksi peringatan tertulis sebagaimana dimaksud pada ayat (1) huruf a.
 
@@ -632,27 +587,25 @@ Pasal 53
 
 # KETENTUAN PERALIHAN
 
-# Pasal 54
+### Pasal 54 ^pasal-54
 
 Perjanjian baku yang telah dibuat oleh Pelaku Usaha Jasa Keuangan sebelum berlakunya Peraturan Otoritas Jasa Keuangan ini, wajib disesuaikan dengan ketentuan sebagaimana diatur dalam Pasal 22 paling lambat pada saat berlakunya Peraturan Otoritas Jasa Keuangan ini.
 
 BAB VIII...
 
-- 19 -
-
 # BAB VIII
 
 # KETENTUAN PENUTUP
 
-# Pasal 55
+### Pasal 55 ^pasal-55
 
 Ketentuan-ketentuan pelaksanaan yang mengatur perlindungan Konsumen di sektor jasa keuangan dinyatakan tetap berlaku sepanjang tidak bertentangan dengan Peraturan Otoritas Jasa Keuangan ini.
 
-# Pasal 56
+### Pasal 56 ^pasal-56
 
 Pelaku Usaha Jasa Keuangan wajib memiliki kelengkapan internal untuk melaksanakan Peraturan Otoritas Jasa Keuangan ini paling lama 1 (satu) tahun terhitung sejak Peraturan Otoritas Jasa Keuangan ini diundangkan.
 
-# Pasal 57
+### Pasal 57 ^pasal-57
 
 Peraturan Otoritas Jasa Keuangan ini mulai berlaku setelah 1 (satu) tahun terhitung sejak tanggal diundangkan.
 
@@ -677,3 +630,67 @@ LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2013 NOMOR 118 Salinan sesuai dengan as
 Ttd.
 
 MUFLI ASMAWIDJAJA
+
+## Penjelasan
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-1|Pasal 1]] | [[#^penjelasan-pasal-1|Penjelasan]] | - |
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | - |
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | - |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-8|Pasal 8]] | [[#^penjelasan-pasal-8|Penjelasan]] | - |
+| [[#^pasal-9|Pasal 9]] | [[#^penjelasan-pasal-9|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | - |
+| [[#^pasal-12|Pasal 12]] | [[#^penjelasan-pasal-12|Penjelasan]] | - |
+| [[#^pasal-13|Pasal 13]] | [[#^penjelasan-pasal-13|Penjelasan]] | - |
+| [[#^pasal-14|Pasal 14]] | [[#^penjelasan-pasal-14|Penjelasan]] | - |
+| [[#^pasal-15|Pasal 15]] | [[#^penjelasan-pasal-15|Penjelasan]] | - |
+| [[#^pasal-16|Pasal 16]] | [[#^penjelasan-pasal-16|Penjelasan]] | - |
+| [[#^pasal-17|Pasal 17]] | [[#^penjelasan-pasal-17|Penjelasan]] | - |
+| [[#^pasal-18|Pasal 18]] | [[#^penjelasan-pasal-18|Penjelasan]] | - |
+| [[#^pasal-19|Pasal 19]] | [[#^penjelasan-pasal-19|Penjelasan]] | - |
+| [[#^pasal-20|Pasal 20]] | [[#^penjelasan-pasal-20|Penjelasan]] | - |
+| [[#^pasal-21|Pasal 21]] | [[#^penjelasan-pasal-21|Penjelasan]] | - |
+| [[#^pasal-22|Pasal 22]] | [[#^penjelasan-pasal-22|Penjelasan]] | - |
+| [[#^pasal-23|Pasal 23]] | [[#^penjelasan-pasal-23|Penjelasan]] | - |
+| [[#^pasal-24|Pasal 24]] | [[#^penjelasan-pasal-24|Penjelasan]] | - |
+| [[#^pasal-25|Pasal 25]] | [[#^penjelasan-pasal-25|Penjelasan]] | - |
+| [[#^pasal-26|Pasal 26]] | [[#^penjelasan-pasal-26|Penjelasan]] | - |
+| [[#^pasal-27|Pasal 27]] | [[#^penjelasan-pasal-27|Penjelasan]] | - |
+| [[#^pasal-28|Pasal 28]] | [[#^penjelasan-pasal-28|Penjelasan]] | - |
+| [[#^pasal-29|Pasal 29]] | [[#^penjelasan-pasal-29|Penjelasan]] | - |
+| [[#^pasal-30|Pasal 30]] | [[#^penjelasan-pasal-30|Penjelasan]] | - |
+| [[#^pasal-31|Pasal 31]] | [[#^penjelasan-pasal-31|Penjelasan]] | - |
+| [[#^pasal-32|Pasal 32]] | [[#^penjelasan-pasal-32|Penjelasan]] | - |
+| [[#^pasal-33|Pasal 33]] | [[#^penjelasan-pasal-33|Penjelasan]] | - |
+| [[#^pasal-34|Pasal 34]] | [[#^penjelasan-pasal-34|Penjelasan]] | - |
+| [[#^pasal-35|Pasal 35]] | [[#^penjelasan-pasal-35|Penjelasan]] | - |
+| [[#^pasal-36|Pasal 36]] | [[#^penjelasan-pasal-36|Penjelasan]] | - |
+| [[#^pasal-37|Pasal 37]] | [[#^penjelasan-pasal-37|Penjelasan]] | - |
+| [[#^pasal-38|Pasal 38]] | [[#^penjelasan-pasal-38|Penjelasan]] | - |
+| [[#^pasal-39|Pasal 39]] | [[#^penjelasan-pasal-39|Penjelasan]] | - |
+| [[#^pasal-40|Pasal 40]] | [[#^penjelasan-pasal-40|Penjelasan]] | - |
+| [[#^pasal-41|Pasal 41]] | [[#^penjelasan-pasal-41|Penjelasan]] | - |
+| [[#^pasal-42|Pasal 42]] | [[#^penjelasan-pasal-42|Penjelasan]] | - |
+| [[#^pasal-43|Pasal 43]] | [[#^penjelasan-pasal-43|Penjelasan]] | - |
+| [[#^pasal-44|Pasal 44]] | [[#^penjelasan-pasal-44|Penjelasan]] | - |
+| [[#^pasal-45|Pasal 45]] | [[#^penjelasan-pasal-45|Penjelasan]] | - |
+| [[#^pasal-46|Pasal 46]] | [[#^penjelasan-pasal-46|Penjelasan]] | - |
+| [[#^pasal-47|Pasal 47]] | [[#^penjelasan-pasal-47|Penjelasan]] | - |
+| [[#^pasal-48|Pasal 48]] | [[#^penjelasan-pasal-48|Penjelasan]] | - |
+| [[#^pasal-49|Pasal 49]] | [[#^penjelasan-pasal-49|Penjelasan]] | - |
+| [[#^pasal-50|Pasal 50]] | [[#^penjelasan-pasal-50|Penjelasan]] | - |
+| [[#^pasal-51|Pasal 51]] | [[#^penjelasan-pasal-51|Penjelasan]] | - |
+| [[#^pasal-52|Pasal 52]] | [[#^penjelasan-pasal-52|Penjelasan]] | - |
+| [[#^pasal-53|Pasal 53]] | [[#^penjelasan-pasal-53|Penjelasan]] | - |
+| [[#^pasal-54|Pasal 54]] | [[#^penjelasan-pasal-54|Penjelasan]] | - |
+| [[#^pasal-55|Pasal 55]] | [[#^penjelasan-pasal-55|Penjelasan]] | - |
+| [[#^pasal-56|Pasal 56]] | [[#^penjelasan-pasal-56|Penjelasan]] | - |
+| [[#^pasal-57|Pasal 57]] | [[#^penjelasan-pasal-57|Penjelasan]] | - |

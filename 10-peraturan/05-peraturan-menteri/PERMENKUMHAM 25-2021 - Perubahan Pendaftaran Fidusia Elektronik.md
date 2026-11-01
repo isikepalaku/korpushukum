@@ -1,30 +1,32 @@
 ---
-id: "PERMENKUMHAM 25/2021"
+id: PERMENKUMHAM 25/2021
 jenis: PERMENKUMHAM
-lembaga: "Peraturan Menteri Hukum dan HAM"
+lembaga: PERMENKUMHAM
 nomor: 25
 tahun: 2021
-judul: "Perubahan atas Permenkumham 10-2013 (Pendaftaran Jaminan Fidusia Secara Elektronik)"
-judul_singkat: "Perubahan Pendaftaran Fidusia Elektronik"
+judul: Perubahan atas Permenkumham 10-2013 (Pendaftaran Jaminan Fidusia Secara Elektronik)
+judul_singkat: Perubahan Pendaftaran Fidusia Elektronik
 status: berlaku
-status_bpk: "Berlaku"
-ditetapkan: 2021-07-13
-berlaku_mulai: 2021-07-19
-mencabut: ["PERMENKUMHAM 10/2013"]
-dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
-terkait: []
-bidang: [keuangan]
-tags: [jenis/permenkumham, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/174164/permenkumham-no-25-tahun-2021"
+status_bpk: Berlaku
+bidang:
+- keuangan
+tags:
+- jenis/permenkumham
+- bidang/keuangan
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Perubahan atas Permenkumham 10-2013 (Pendaftaran Jaminan Fidusia Secara Elektronik)**
 
 # Perubahan atas Permenkumham 10-2013 (Pendaftaran Jaminan Fidusia Secara Elektronik)
 
@@ -33,7 +35,6 @@ last_updated: 2026-10-28
 > Sumber: https://peraturan.bpk.go.id/Details/174164/permenkumham
 
 > Sumber: [JDIH BPK](https://peraturan.bpk.go.id/Details/174164/permenkumham)
-
 
 # BERITA NEGARA REPUBLIK INDONESIA
 
@@ -86,7 +87,6 @@ menetapkan Peraturan Menteri Hukum dan Hak Asasi
 Manusia tentang Tata Cara Pendaftaran, Perubahan,
 
 dan Penghapusan Jaminan Fidusia;
-
 
 -----
 
@@ -162,7 +162,6 @@ Republik Indonesia (Berita Negara Republik Indonesia
 
 Tahun 2018 Nomor 1135);
 
-
 -----
 
 MEMUTUSKAN:
@@ -177,7 +176,7 @@ BAB I
 
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Menteri ini yang dimaksud dengan:
 
@@ -233,7 +232,6 @@ lainnya.
 
 pemerintahan di bidang hukum dan hak asasi manusia.
 
-
 -----
 
 7. Pejabat Pendaftaran Jaminan Fidusia yang selanjutnya
@@ -249,7 +247,7 @@ undangan.
 
 8. Hari adalah hari kalender.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 (1) Pengaturan dalam Peraturan Menteri ini terdiri atas:
 
@@ -285,7 +283,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 (1) Untuk mendapatkan Hak Akses sebagaimana dimaksud
 
@@ -300,7 +298,6 @@ dari:
 a. Notaris;
 
 b. korporasi; atau
-
 
 -----
 
@@ -320,7 +317,7 @@ Bagian Kedua
 
 Hak Akses Bagi Notaris
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 Pengajuan Hak Akses untuk sistem pendaftaran Jaminan
 
@@ -332,7 +329,7 @@ Bagian Ketiga
 
 Hak Akses Bagi Korporasi
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 Dalam mengajukan permohonan Hak Akses bagi industri
 
@@ -354,7 +351,7 @@ perbankan; dan
 
 e. alamat surat elektronik Pemohon.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 Dalam mengajukan permohonan Hak Akses bagi industri
 
@@ -368,7 +365,6 @@ a. identitas Pemohon;
 
 b. nomor pokok wajib pajak Pemohon;
 
-
 -----
 
 c. nomor dan tanggal izin usaha sebagai industri keuangan
@@ -379,7 +375,7 @@ d. jenis bidang usaha industri keuangan nonbank; dan
 
 e. alamat surat elektronik Pemohon.
 
-Pasal 7
+### Pasal 7 ^pasal-7
 
 Dalam mengajukan permohonan Hak Akses bagi bentuk
 
@@ -405,25 +401,27 @@ Bagian Keempat
 
 Hak Akses Bagi Perseorangan
 
-Pasal 8
+### Pasal 8 ^pasal-8
 
-Dalam mengajukan permohonan Hak Akses oleh
+permohonan ulang Hak Akses sebagaimana dimaksud
 
-perseorangan sebagaimana dimaksud dalam Pasal 3 ayat (2)
+pada ayat (4).
 
-huruf c, Pemohon mengisi formulir permohonan Hak Akses
+(6) Pemohon sebagaimana dimaksud pada ayat (2)
 
-yang paling sedikit memuat:
+bertanggung jawab atas penggunaan Hak Akses.
 
-a. identitas Pemohon;
+BAB III
 
-b. nomor pokok wajib pajak Pemohon;
+TATA CARA PERMOHONAN PENDAFTARAN
 
-c. nomor induk kependudukan Pemohon; dan
+JAMINAN FIDUSIA
 
-d. alamat surat elektronik Pemohon.
+Bagian Kesatu
 
-Pasal 9
+Pendaftaran
+
+### Pasal 9 ^pasal-9
 
 (1) Permohonan Hak Akses dikenai biaya sesuai dengan
 
@@ -436,7 +434,6 @@ Kementerian Hukum dan Hak Asasi Manusia.
 (2) Pemohon yang telah membayar biaya sebagaimana
 
 dimaksud pada ayat (1) mendapatkan Hak Akses.
-
 
 -----
 
@@ -464,27 +461,7 @@ mengajukan permohonan ulang.
 
 sebagaimana dimaksud dalam Pasal 3 sampai dengan
 
-Pasal 8 berlaku secara mutatis mutandis terhadap
-
-permohonan ulang Hak Akses sebagaimana dimaksud
-
-pada ayat (4).
-
-(6) Pemohon sebagaimana dimaksud pada ayat (2)
-
-bertanggung jawab atas penggunaan Hak Akses.
-
-BAB III
-
-TATA CARA PERMOHONAN PENDAFTARAN
-
-JAMINAN FIDUSIA
-
-Bagian Kesatu
-
-Pendaftaran
-
-Pasal 10
+### Pasal 10 ^pasal-10
 
 (1) Pendaftaran Jaminan Fidusia dilakukan oleh Pemohon
 
@@ -505,7 +482,6 @@ dimaksud pada ayat (1) memuat:
 a. identitas pihak pemberi fidusia dan penerima
 
 fidusia;
-
 
 -----
 
@@ -549,7 +525,7 @@ f. biaya pendaftaran Jaminan Fidusia sesuai dengan
 
 ketentuan peraturan perundang-undangan.
 
-Pasal 11
+### Pasal 11 ^pasal-11
 
 (1) Pemohon melakukan pembayaran biaya pendaftaran
 
@@ -571,14 +547,13 @@ Jaminan Fidusia yang telah ditandatangani secara
 
 elektronik oleh Pejabat.
 
-
 -----
 
 Bagian Kedua
 
 Perbaikan
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 (1) Dalam hal terjadi kesalahan pengisian data dalam
 
@@ -624,50 +599,43 @@ negara bukan pajak yang berlaku pada Kementerian
 
 Hukum dan Hak Asasi Manusia.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
-(1) Permohonan perbaikan sertifikat Jaminan Fidusia
+(2), dan Pasal 15 berlaku secara mutatis mutandis
 
-sebagaimana dimaksud dalam Pasal 12 ayat (4) diajukan
+terhadap permohonan perbaikan sertifikat perubahan
 
-dengan mengisi formulir permohonan perbaikan secara
+Jaminan Fidusia.
 
-elektronik.
+(3) Permohonan perbaikan sertifikat perubahan Jaminan
 
-(2) Formulir permohonan perbaikan sertifikat Jaminan
+Fidusia sebagaimana dimaksud pada ayat (1)
 
-Fidusia sebagaimana dimaksud pada ayat (1) paling
+melampirkan dokumen pendukung yang meliputi:
 
-sedikit memuat:
+a. surat permohonan perbaikan sertifikat perubahan
 
-a. nomor dan tanggal sertifikat Jaminan Fidusia yang
+Jaminan Fidusia;
 
-akan diperbaiki;
+b. salinan sertifikat perubahan Jaminan Fidusia yang
 
+akan diperbaiki; dan
+
+c. salinan akta Jaminan Fidusia atau dokumen lainnya
+
+yang memuat keterangan perubahan Jaminan
+
+Fidusia.
 
 -----
 
-b. data perbaikan; dan
+BAB V
 
-c. keterangan perbaikan.
+TATA CARA PEMBERITAHUAN PENGHAPUSAN
 
-(3) Permohonan perbaikan sertifikat Jaminan Fidusia
+SERTIFIKAT JAMINAN FIDUSIA
 
-sebagaimana dimaksud pada ayat (1) melampirkan
-
-dokumen pendukung yang meliputi:
-
-a. surat permohonan perbaikan sertifikat Jaminan
-
-Fidusia;
-
-b. salinan sertifikat Jaminan Fidusia yang akan
-
-diperbaiki; dan
-
-c. salinan akta Jaminan Fidusia.
-
-Pasal 14
+### Pasal 14 ^pasal-14
 
 (1) Permohonan perbaikan sertifikat Jaminan Fidusia
 
@@ -713,7 +681,6 @@ pada ayat (5), Pemohon dapat mengajukan permohonan
 
 kembali.
 
-
 -----
 
 BAB IV
@@ -726,7 +693,7 @@ Bagian Kesatu
 
 Perubahan
 
-Pasal 15
+### Pasal 15 ^pasal-15
 
 (1) Dalam hal terjadi kesalahan pengisian atau perubahan
 
@@ -762,7 +729,7 @@ penerimaan negara bukan pajak yang berlaku pada
 
 Kementerian Hukum dan Hak Asasi Manusia.
 
-Pasal 16
+### Pasal 16 ^pasal-16
 
 (1) Permohonan perubahan sertifikat Jaminan Fidusia
 
@@ -784,7 +751,6 @@ b. nama dan tempat kedudukan Notaris;
 
 c. data perubahan; dan
 
-
 -----
 
 d. keterangan perubahan.
@@ -803,7 +769,7 @@ Bagian Kedua
 
 Perbaikan
 
-Pasal 18
+### Pasal 18 ^pasal-18
 
 (1) Dalam hal terjadi kesalahan pengisian data dalam
 
@@ -819,44 +785,7 @@ Jaminan Fidusia kepada Menteri.
 
 sertifikat Jaminan Fidusia sebagaimana dimaksud dalam
 
-Pasal 13 ayat (2) dan ayat (3), Pasal 14 ayat (1) dan ayat
-
-(2), dan Pasal 15 berlaku secara mutatis mutandis
-
-terhadap permohonan perbaikan sertifikat perubahan
-
-Jaminan Fidusia.
-
-(3) Permohonan perbaikan sertifikat perubahan Jaminan
-
-Fidusia sebagaimana dimaksud pada ayat (1)
-
-melampirkan dokumen pendukung yang meliputi:
-
-a. surat permohonan perbaikan sertifikat perubahan
-
-Jaminan Fidusia;
-
-b. salinan sertifikat perubahan Jaminan Fidusia yang
-
-akan diperbaiki; dan
-
-c. salinan akta Jaminan Fidusia atau dokumen lainnya
-
-yang memuat keterangan perubahan Jaminan
-
-Fidusia.
-
-
------
-
-BAB V
-
-TATA CARA PEMBERITAHUAN PENGHAPUSAN
-
-SERTIFIKAT JAMINAN FIDUSIA
-
-Pasal 19
+### Pasal 19 ^pasal-19
 
 (1) Jaminan Fidusia hapus karena:
 
@@ -900,7 +829,7 @@ c. nama dan tempat kedudukan Notaris; dan
 
 d. tanggal hapusnya Jaminan Fidusia.
 
-Pasal 20
+### Pasal 20 ^pasal-20
 
 (1) Berdasarkan pemberitahuan penghapusan sebagaimana
 
@@ -920,10 +849,9 @@ Jaminan Fidusia yang bersangkutan tidak dapat
 
 didaftarkan kembali.
 
-
 -----
 
-Pasal 21
+### Pasal 21 ^pasal-21
 
 (1) Dalam hal terjadi kesalahan pengisian tanggal pelunasan
 
@@ -959,7 +887,7 @@ BAB VI
 
 KETENTUAN LAIN-LAIN
 
-Pasal 22
+### Pasal 22 ^pasal-22
 
 Seluruh data yang diisi dalam permohonan Hak Akses,
 
@@ -981,14 +909,13 @@ BAB VII
 
 KETENTUAN PERALIHAN
 
-Pasal 23
+### Pasal 23 ^pasal-23
 
 Pada saat Peraturan Menteri ini berlaku:
 
 a. terhadap pendaftaran Jaminan Fidusia yang belum
 
 dilakukan secara elektronik, permohonan perubahan
-
 
 -----
 
@@ -1016,7 +943,7 @@ BAB VIII
 
 KETENTUAN PENUTUP
 
-Pasal 24
+### Pasal 24 ^pasal-24
 
 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan
 
@@ -1028,12 +955,11 @@ Elektronik (Berita Negara Republik Indonesia Tahun 2013
 
 Nomor 419), dicabut dan dinyatakan tidak berlaku.
 
-Pasal 25
+### Pasal 25 ^pasal-25
 
 Peraturan Menteri ini mulai berlaku pada tanggal
 
 diundangkan.
-
 
 -----
 
@@ -1071,6 +997,35 @@ ttd.
 
 BENNY RIYANTO
 
-
 -----
 
+## Penjelasan
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-1|Pasal 1]] | [[#^penjelasan-pasal-1|Penjelasan]] | - |
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | - |
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | - |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-8|Pasal 8]] | [[#^penjelasan-pasal-8|Penjelasan]] | - |
+| [[#^pasal-9|Pasal 9]] | [[#^penjelasan-pasal-9|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | - |
+| [[#^pasal-12|Pasal 12]] | [[#^penjelasan-pasal-12|Penjelasan]] | - |
+| [[#^pasal-13|Pasal 13]] | [[#^penjelasan-pasal-13|Penjelasan]] | - |
+| [[#^pasal-14|Pasal 14]] | [[#^penjelasan-pasal-14|Penjelasan]] | - |
+| [[#^pasal-15|Pasal 15]] | [[#^penjelasan-pasal-15|Penjelasan]] | - |
+| [[#^pasal-16|Pasal 16]] | [[#^penjelasan-pasal-16|Penjelasan]] | - |
+| [[#^pasal-18|Pasal 18]] | [[#^penjelasan-pasal-18|Penjelasan]] | - |
+| [[#^pasal-19|Pasal 19]] | [[#^penjelasan-pasal-19|Penjelasan]] | - |
+| [[#^pasal-20|Pasal 20]] | [[#^penjelasan-pasal-20|Penjelasan]] | - |
+| [[#^pasal-21|Pasal 21]] | [[#^penjelasan-pasal-21|Penjelasan]] | - |
+| [[#^pasal-22|Pasal 22]] | [[#^penjelasan-pasal-22|Penjelasan]] | - |
+| [[#^pasal-23|Pasal 23]] | [[#^penjelasan-pasal-23|Penjelasan]] | - |
+| [[#^pasal-24|Pasal 24]] | [[#^penjelasan-pasal-24|Penjelasan]] | - |
+| [[#^pasal-25|Pasal 25]] | [[#^penjelasan-pasal-25|Penjelasan]] | - |

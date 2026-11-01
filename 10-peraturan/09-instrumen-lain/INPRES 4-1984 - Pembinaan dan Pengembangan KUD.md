@@ -1,32 +1,43 @@
 ---
-id: "INPRES 4/1984"
+id: INPRES 4/1984
 jenis: INPRES
-lembaga: "Instruksi Presiden"
+lembaga: Instruksi Presiden
 nomor: 4
 tahun: 1984
-judul: "Pembinaan dan Pengembangan KUD"
-judul_singkat: "Pembinaan dan Pengembangan KUD"
+judul: Pembinaan dan Pengembangan KUD
+judul_singkat: Pembinaan dan Pengembangan KUD
 status: dicabut
-status_bpk: "Tidak Berlaku"
-status_catatan: "JDIH BPK: Tidak Berlaku (dicek 2026-10-28). "
+status_bpk: Tidak Berlaku
+status_catatan: 'JDIH BPK: Tidak Berlaku (dicek 2026-10-28). '
 ditetapkan: 1984-03-27
 berlaku_mulai: 1984-03-27
 mencabut: []
-dicabut_oleh: ["INPRES 18/1998"]
+dicabut_oleh:
+- INPRES 18/1998
 mengubah: []
 diubah_oleh: []
 terkait: []
-bidang: [keuangan]
-tags: [jenis/inpres, bidang/keuangan, status/dicabut]
-sumber: "https://peraturan.bpk.go.id/Details/286510/inpres-no-4-tahun-1984-pembinaan-dan-pengembangan-koperasi-unit-desa-kud"
+bidang:
+- keuangan
+tags:
+- jenis/inpres
+- bidang/keuangan
+- status/dicabut
+sumber: https://peraturan.bpk.go.id/Details/286510/inpres-no-4-tahun-1984-pembinaan-dan-pengembangan-koperasi-unit-desa-kud
 kelengkapan: lengkap
-parser: "pymupdf4llm 2.0"
+parser: pymupdf4llm 2.0
 parsed_at: 2026-10-28
 verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
+verifikasi_sumber: JDIH BPK
 verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Pembinaan dan Pengembangan KUD

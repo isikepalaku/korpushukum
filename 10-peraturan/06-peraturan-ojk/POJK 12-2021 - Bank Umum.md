@@ -1,30 +1,32 @@
 ---
-id: "POJK 12/2021"
+id: POJK 12/2021
 jenis: POJK
-lembaga: "Peraturan Otoritas Jasa Keuangan"
+lembaga: POJK
 nomor: 12
 tahun: 2021
-judul: "Bank Umum"
-judul_singkat: "Bank Umum"
+judul: Bank Umum
+judul_singkat: Bank Umum
 status: berlaku
-status_bpk: "Berlaku"
-ditetapkan: 2021-07-30
-berlaku_mulai: 2021-10-30
-mencabut: ["POJK 17/2018", "POJK 6/2016", "Peraturan BI No. 13/27/PBI/2011"]
-dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
-terkait: []
-bidang: [keuangan]
-tags: [jenis/pojk, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/227209/peraturan-ojk-no-12pojk032021-tahun-2021"
+status_bpk: Berlaku
+bidang:
+- keuangan
+tags:
+- jenis/pojk
+- bidang/keuangan
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Bank Umum**
 
 # Bank Umum
 
@@ -33,7 +35,6 @@ last_updated: 2026-10-28
 > Sumber: https://peraturan.bpk.go.id/Details/227209/peraturan-ojk-no-12pojk032021-tahun-2021
 
 > Sumber: [OJK/JDIH](https://peraturan.bpk.go.id/Details/227209/peraturan-ojk-no-12pojk032021-tahun-2021)
-
 
 # LEMBARAN NEGARA REPUBLIK INDONESIA
 
@@ -90,7 +91,6 @@ ketentuan;
 d. bahwa berdasarkan pertimbangan sebagaimana
 
 dimaksud dalam huruf a, huruf b, dan huruf c, perlu
-
 
 -----
 
@@ -154,12 +154,11 @@ BAB I
 
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Otoritas Jasa Keuangan ini, yang
 
 dimaksud dengan:
-
 
 -----
 
@@ -237,7 +236,6 @@ bawah organisasi Kanwil.
 
 kantor Bank BHI yang melaksanakan kegiatan usaha
 
-
 -----
 
 perbankan yang secara langsung bertanggung jawab
@@ -313,7 +311,6 @@ terbatas, atau organ atau pihak yang setara bagi Bank
 BHI dengan bentuk badan hukum selain perseroan
 
 terbatas.
-
 
 -----
 
@@ -391,7 +388,6 @@ yang telah dialokasikan sebagai CEMA sesuai dengan
 
 Peraturan OJK mengenai kewajiban penyediaan modal
 
-
 -----
 
 minimum bank umum bagi KCBLN.
@@ -454,7 +450,7 @@ menunjang pelaksanaan aktivitas bisnis, layanan, dan
 
 operasional para pihak yang melakukan kerja sama.
 
-Pasal 2
+### Pasal 2 ^pasal-2
 
 (1) Setiap pihak yang melakukan kegiatan penghimpunan
 
@@ -480,13 +476,13 @@ dimaksud pada ayat (1) dikenai sanksi administratif
 
 berupa penghentian dan penutupan kegiatan usaha.
 
-Pasal 3
+### Pasal 3 ^pasal-3
 
 Bentuk badan hukum Bank BHI dilaksanakan sesuai
 
 dengan ketentuan peraturan perundang-undangan.
 
-Pasal 4
+### Pasal 4 ^pasal-4
 
 Kantor dari bank yang berbadan hukum dan memiliki
 
@@ -498,13 +494,13 @@ a. KCBLN; dan
 
 b. KPBLN.
 
-Pasal 5
+### Pasal 5 ^pasal-5
 
 Bank BHI dan KCBLN didirikan dan melakukan kegiatan
 
 usaha dengan izin OJK.
 
-Pasal 6
+### Pasal 6 ^pasal-6
 
 (1) Bank wajib menerapkan manajemen risiko dan tata
 
@@ -522,42 +518,13 @@ sesuai dengan Peraturan OJK mengenai manajemen
 
 risiko, dan mengenai tata kelola bagi bank umum.
 
-
 -----
 
 BAB II
 
 RENCANA KORPORASI
 
-Pasal 7
-
-(1) Bank BHI atau KCBLN wajib menyusun rencana
-
-strategis dalam bentuk rencana korporasi.
-
-(2) Rencana korporasi sebagaimana dimaksud pada ayat
-
-(1) wajib disusun oleh Direksi dan disetujui oleh
-
-Dewan Komisaris.
-
-(3) Bank BHI atau KCBLN menyelaraskan penyusunan
-
-Rencana Bisnis Bank dengan rencana korporasi
-
-sebagaimana dimaksud pada ayat (1).
-
-(4) Kewajiban penyusunan rencana strategis dalam
-
-bentuk rencana korporasi sebagaimana dimaksud
-
-pada ayat (1) dikecualikan bagi bank perantara.
-
-Pasal 8
-
-(1) Rencana korporasi sebagaimana dimaksud dalam
-
-Pasal 7 disusun untuk mencapai tujuan Bank BHI
+### Pasal 7 ^pasal-7
 
 atau KCBLN dalam jangka panjang selama 5 (lima)
 
@@ -587,12 +554,15 @@ sebelum periode awal dari 5 (lima) tahun rencana
 
 korporasi dimulai.
 
-Pasal 9
+### Pasal 8 ^pasal-8
+
+(1) Rencana korporasi sebagaimana dimaksud dalam
+
+### Pasal 9 ^pasal-9
 
 (1) Dalam hal terdapat kondisi eksternal dan internal
 
 yang secara signifikan mempengaruhi sasaran dan
-
 
 -----
 
@@ -634,7 +604,7 @@ d. analisis lingkungan internal dan eksternal; dan
 
 e. sasaran dan strategi Bank BHI atau KCBLN.
 
-Pasal 10
+### Pasal 10 ^pasal-10
 
 (1) Bank BHI atau KCBLN yang melanggar ketentuan
 
@@ -668,7 +638,6 @@ administratif sebagaimana dimaksud pada ayat (1)
 
 dan/atau ayat (2), dan melanggar ketentuan
 
-
 -----
 
 sebagaimana dimaksud dalam Pasal 7 ayat (1), ayat
@@ -693,7 +662,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 11
+### Pasal 11 ^pasal-11
 
 (1) Pendirian Bank BHI mengacu pada persyaratan dan
 
@@ -709,7 +678,7 @@ c. perizinan.
 
 (1) tidak berlaku bagi pendirian bank perantara.
 
-Pasal 12
+### Pasal 12 ^pasal-12
 
 (1) Modal disetor untuk mendirikan Bank BHI ditetapkan
 
@@ -725,14 +694,13 @@ sebagaimana dimaksud pada ayat (1) dengan
 
 pertimbangan tertentu.
 
-Pasal 13
+### Pasal 13 ^pasal-13
 
 (1) Bank BHI didirikan dan/atau dimiliki oleh:
 
 a. warga negara Indonesia dan/atau badan hukum
 
 Indonesia; atau
-
 
 -----
 
@@ -754,188 +722,7 @@ Bagian Kedua
 
 Perizinan
 
-Pasal 14
-
-Perizinan pendirian Bank BHI dilakukan dalam 2 (dua)
-
-tahap:
-
-a. persetujuan prinsip merupakan persetujuan untuk
-
-melakukan persiapan pendirian Bank BHI; dan
-
-b. izin usaha merupakan izin yang diberikan untuk
-
-melakukan kegiatan usaha Bank BHI setelah
-
-persiapan sebagaimana dimaksud dalam huruf a
-
-selesai dilakukan.
-
-Pasal 15
-
-(1) Permohonan untuk memperoleh persetujuan prinsip
-
-sebagaimana dimaksud dalam Pasal 14 huruf a
-
-diajukan paling sedikit oleh salah satu calon pemilik
-
-atau calon PSP kepada OJK, disertai dengan:
-
-a. rancangan akta pendirian badan hukum Bank
-
-BHI, termasuk rancangan anggaran dasar paling
-
-sedikit memuat:
-
-1) nama dan tempat kedudukan;
-
-2) kegiatan usaha sebagai Bank BHI;
-
-3) permodalan;
-
-4) kepemilikan;
-
-5) wewenang, tanggung jawab, dan masa
-
-jabatan Direksi serta Dewan Komisaris; dan
-
-6) Direksi dan Dewan Komisaris wajib
-
-memperoleh persetujuan dari OJK sebelum
-
-
------
-
-menjalankan tindakan, tugas, dan fungsinya;
-
-b. data kepemilikan Bank BHI berupa daftar calon
-
-pemegang saham berikut rincian kepemilikan
-
-saham masing-masing;
-
-c. daftar susunan calon Direksi dan calon Dewan
-
-Komisaris Bank BHI disertai dengan pemenuhan
-
-dokumen persyaratan administratif sesuai dengan
-
-ketentuan OJK mengenai penilaian kemampuan
-
-dan kepatutan bagi pihak utama lembaga jasa
-
-keuangan;
-
-d. rencana susunan dan struktur organisasi serta
-
-sumber daya manusia Bank BHI;
-
-e. studi kelayakan pendirian Bank BHI yang
-
-disusun oleh pihak independen, disertai rencana
-
-bisnis;
-
-f. rencana korporasi Bank BHI;
-
-g. pedoman manajemen risiko, sistem pengendalian
-
-intern, sistem teknologi informasi yang
-
-digunakan, dan pedoman mengenai pelaksanaan
-
-tata kelola Bank BHI;
-
-h. sistem dan prosedur kerja Bank BHI;
-
-i. bukti setoran modal paling sedikit 40% (empat
-
-puluh persen) dari modal disetor sebagaimana
-
-dimaksud dalam Pasal 12, dalam bentuk salinan
-
-bilyet deposito pada Bank BHI di Indonesia dan
-
-atas nama “Dewan Komisioner OJK qq. salah satu
-
-calon pemilik untuk pendirian Bank BHI yang
-
-bersangkutan”, dengan mencantumkan
-
-keterangan bahwa pencairan dilakukan dengan
-
-persetujuan tertulis dari OJK;
-
-j. surat pernyataan dari pemegang saham Bank
-
-BHI, bahwa setoran modal sebagaimana
-
-dimaksud dalam huruf i:
-
-1) tidak berasal dari pinjaman atau fasilitas
-
-pembiayaan dalam bentuk apapun dari bank
-
-dan/atau pihak lain di Indonesia; dan
-
-
------
-
-2) tidak berasal dari dan untuk tujuan
-
-pencucian uang; dan
-
-k. struktur kelompok usaha yang terkait dengan
-
-badan hukum sebagai calon PSP sampai dengan
-
-pemilik dan pengendali terakhir.
-
-(2) Daftar calon pemegang saham sebagaimana dimaksud
-
-pada ayat (1) huruf b merupakan:
-
-a. perorangan, disertai pemenuhan persyaratan
-
-sesuai dengan ketentuan OJK mengenai penilaian
-
-kemampuan dan kepatutan bagi pihak utama
-
-lembaga jasa keuangan;
-
-b. badan hukum, disertai pemenuhan persyaratan
-
-sesuai dengan ketentuan OJK mengenai penilaian
-
-kemampuan dan kepatutan bagi pihak utama
-
-lembaga jasa keuangan; atau
-
-c. pemerintah, baik pusat atau daerah, disertai:
-
-1) dokumen yang menyatakan keputusan
-
-pendirian bank oleh pemerintah yang sesuai
-
-dengan ketentuan peraturan perundang
-undangan; dan
-
-2) pemenuhan persyaratan sesuai dengan
-
-ketentuan OJK mengenai penilaian
-
-kemampuan dan kepatutan bagi pihak
-
-utama lembaga jasa keuangan.
-
-Pasal 16
-
-(1) Persetujuan atau penolakan atas permohonan
-
-persetujuan prinsip sebagaimana dimaksud dalam
-
-Pasal 14 huruf a diberikan OJK paling lama 60 (enam
+### Pasal 14 ^pasal-14
 
 puluh) hari kerja setelah dokumen permohonan
 
@@ -950,7 +737,6 @@ melakukan:
 a. penelitian atas kelengkapan dan kesesuaian
 
 dokumen;
-
 
 -----
 
@@ -968,11 +754,11 @@ calon PSP, calon Direksi, dan calon Dewan
 
 Komisaris.
 
-Pasal 17
+### Pasal 15 ^pasal-15
 
-(1) Persetujuan prinsip sebagaimana dimaksud dalam
+-----
 
-Pasal 16 berlaku untuk jangka waktu 6 (enam) bulan
+### Pasal 16 ^pasal-16
 
 terhitung sejak tanggal persetujuan prinsip
 
@@ -1018,12 +804,15 @@ berupa pembatalan proses perizinan pendirian Bank
 
 BHI.
 
-Pasal 18
+### Pasal 17 ^pasal-17
+
+(1) Persetujuan prinsip sebagaimana dimaksud dalam
+
+### Pasal 18 ^pasal-18
 
 Permohonan untuk memperoleh izin usaha sebagaimana
 
 dimaksud dalam Pasal 14 huruf b diajukan oleh pihak yang
-
 
 -----
 
@@ -1089,7 +878,7 @@ dan/atau pihak lain di Indonesia; dan
 
 uang.
 
-Pasal 19
+### Pasal 19 ^pasal-19
 
 (1) Persetujuan atau penolakan atas permohonan izin
 
@@ -1098,7 +887,6 @@ usaha sebagaimana dimaksud dalam Pasal 14 huruf b
 diberikan oleh OJK paling lama 60 (enam puluh) hari
 
 kerja setelah dokumen permohonan diterima secara
-
 
 -----
 
@@ -1122,76 +910,7 @@ Direksi, dan/atau calon Dewan Komisaris yang
 
 diajukan saat permohonan persetujuan prinsip.
 
-Pasal 20
-
-(1) Bank BHI yang telah memperoleh izin usaha dari OJK
-
-harus melakukan kegiatan usaha perbankan paling
-
-lama 60 (enam puluh) hari kerja terhitung sejak
-
-tanggal izin usaha diterbitkan.
-
-(2) Direksi Bank BHI wajib melaporkan pelaksanaan
-
-kegiatan usaha sebagaimana dimaksud pada ayat (1)
-
-kepada OJK dengan batas waktu paling lama 10
-
-(sepuluh) hari kerja setelah tanggal pelaksanaan
-
-kegiatan operasional.
-
-(3) Dalam hal terdapat keadaan kahar atau pertimbangan
-
-lain yang dapat diterima oleh OJK, jangka waktu
-
-sebagaimana dimaksud pada ayat (1) dapat
-
-diperpanjang berdasarkan persetujuan OJK.
-
-(4) Dalam hal Bank BHI yang telah memperoleh izin
-
-usaha belum melakukan kegiatan usaha sesuai jangka
-
-waktu sebagaimana dimaksud pada ayat (1) atau ayat
-
-(3), izin usaha dan persetujuan prinsip yang telah
-
-diterbitkan oleh OJK menjadi tidak berlaku.
-
-Pasal 21
-
-(1) Bank BHI yang telah memperoleh izin usaha dari OJK
-
-wajib mencantumkan secara jelas kata “Bank” pada
-
-penulisan nama Bank BHI.
-
-(2) Dalam hal Bank BHI menggunakan logo sebagai
-
-identitas tambahan dalam melaksanakan hubungan
-
-
------
-
-hukum, Bank BHI wajib mencantumkan nama Bank
-
-BHI sebagai identitas utama.
-
-Pasal 22
-
-(1) Bank BHI yang melanggar ketentuan sebagaimana
-
-dimaksud dalam Pasal 20 ayat (2) dan/atau Pasal 21
-
-dikenai sanksi administratif berupa teguran tertulis.
-
-(2) Bank BHI yang terlambat memenuhi kewajiban
-
-penyampaian laporan sebagaimana dimaksud dalam
-
-Pasal 20 ayat (2) dikenai sanksi administratif berupa
+### Pasal 20 ^pasal-20
 
 denda sebesar Rp1.000.000,00 (satu juta rupiah) per
 
@@ -1233,30 +952,47 @@ sesuai dengan Peraturan OJK mengenai penilaian
 
 kembali bagi pihak utama lembaga jasa keuangan.
 
-
 -----
 
 BAB IV
 
 BANK DIGITAL
 
-Pasal 23
+### Pasal 21 ^pasal-21
 
-(1) Bank BHI dapat beroperasi sebagai Bank Digital.
+(1) Bank BHI yang telah memperoleh izin usaha dari OJK
 
-(2) Bank BHI sebagaimana dimaksud pada ayat (1) wajib
+wajib mencantumkan secara jelas kata “Bank” pada
 
-memiliki 1 (satu) kantor fisik sebagai KP.
+penulisan nama Bank BHI.
 
-(3) Bank Digital melaksanakan kegiatan usaha melalui
+(2) Dalam hal Bank BHI menggunakan logo sebagai
 
-saluran elektronik tanpa kantor fisik selain KP
+identitas tambahan dalam melaksanakan hubungan
 
-sebagaimana dimaksud pada ayat (2), atau dapat
+-----
 
-menggunakan kantor fisik yang terbatas.
+hukum, Bank BHI wajib mencantumkan nama Bank
 
-Pasal 24
+BHI sebagai identitas utama.
+
+### Pasal 22 ^pasal-22
+
+(1) Bank BHI yang melanggar ketentuan sebagaimana
+
+dimaksud dalam Pasal 20 ayat (2) dan/atau Pasal 21
+
+dikenai sanksi administratif berupa teguran tertulis.
+
+(2) Bank BHI yang terlambat memenuhi kewajiban
+
+penyampaian laporan sebagaimana dimaksud dalam
+
+### Pasal 23 ^pasal-23
+
+
+
+### Pasal 24 ^pasal-24
 
 (1) Bank BHI yang beroperasi sebagai Bank Digital
 
@@ -1306,10 +1042,9 @@ sebagaimana dimaksud pada ayat (1) selama
 
 beroperasi menjadi Bank Digital.
 
-
 -----
 
-Pasal 25
+### Pasal 25 ^pasal-25
 
 Bank Digital sebagaimana dimaksud dalam Pasal 23 dapat
 
@@ -1319,7 +1054,7 @@ a. pendirian Bank BHI baru sebagai Bank Digital; atau
 
 b. transformasi dari Bank BHI menjadi Bank Digital.
 
-Pasal 26
+### Pasal 26 ^pasal-26
 
 (1) Ketentuan mengenai pendirian Bank BHI sebagaimana
 
@@ -1353,38 +1088,7 @@ dimaksud dalam Pasal 24 dicantumkan dalam
 
 rencana bisnis sebagaimana dimaksud dalam
 
-Pasal 15 ayat (1) huruf e.
-
-(3) Dalam hal Bank BHI yang beroperasi sebagai Bank
-
-Digital melalui pendirian Bank BHI baru sebagaimana
-
-dimaksud dalam Pasal 25 huruf a akan membuka
-
-jaringan kantor selain KP, pembukaan jaringan kantor
-
-berupa KC dan/atau KF yang melakukan kegiatan
-
-selain operasional dan/atau dapat menyediakan TPE.
-
-(4) Pembukaan jaringan kantor berupa KC dan/atau KF
-
-yang melakukan kegiatan selain operasional dan/atau
-
-penyediaan TPE sebagaimana dimaksud pada ayat (3)
-
-dituangkan dalam rencana bisnis pada saat
-
-permohonan untuk memperoleh persetujuan prinsip
-
-pendirian Bank BHI sebagaimana dimaksud dalam
-
-Pasal 15 ayat (1) huruf e.
-
-
------
-
-Pasal 27
+### Pasal 27 ^pasal-27
 
 (1) Bank BHI yang akan bertransformasi menjadi Bank
 
@@ -1418,7 +1122,7 @@ c. melakukan penambahan jaringan kantor
 
 dan/atau TPE.
 
-Pasal 28
+### Pasal 28 ^pasal-28
 
 Bank BHI yang beroperasi sebagai Bank Digital
 
@@ -1444,36 +1148,7 @@ dan/atau
 
 b. melakukan Sinergi Perbankan.
 
-Pasal 29
-
-Dalam hal Bank Digital mengembangkan ekosistem
-
-keuangan digital dan/atau inklusi keuangan sebagaimana
-
-dimaksud dalam Pasal 24 ayat (1) huruf f, wajib
-
-dilaksanakan secara pruden dan memperhatikan asas
-
-
------
-
-pengelolaan perbankan yang sehat.
-
-Pasal 30
-
-Bank BHI yang beroperasi sebagai Bank Digital wajib
-
-memenuhi ketentuan peraturan perundang-undangan yang
-
-diberlakukan untuk Bank BHI.
-
-Pasal 31
-
-(1) Bank BHI yang melanggar ketentuan sebagaimana
-
-dimaksud dalam Pasal 23 ayat (2), Pasal 24 ayat (2),
-
-Pasal 29, dan/atau Pasal 30 dikenai sanksi
+### Pasal 29 ^pasal-29
 
 administratif berupa teguran tertulis.
 
@@ -1483,29 +1158,7 @@ sebagaimana dimaksud pada ayat (1), dan belum
 
 memenuhi ketentuan sebagaimana dimaksud dalam
 
-Pasal 23 ayat (2), Pasal 24 ayat (2), Pasal 29, dan/atau
-
-Pasal 30, Bank BHI dikenai sanksi administratif
-
-berupa:
-
-a. pembatasan layanan perbankan digital tertentu;
-
-b. larangan melakukan ekspansi kegiatan usaha;
-
-dan/atau
-
-c. pembekuan kegiatan usaha tertentu.
-
-(3) Dalam hal Bank BHI telah dikenai sanksi administratif
-
-sebagaimana dimaksud pada ayat (1) dan/atau ayat
-
-(2) dan melanggar ketentuan sebagaimana dimaksud
-
-dalam Pasal 23 ayat (2), Pasal 24 ayat (2), Pasal 29,
-
-Pasal 30, dan/atau ayat (2), PSP, Direksi, Dewan
+### Pasal 30 ^pasal-30
 
 Komisaris, dan/atau Pejabat Eksekutif Bank BHI
 
@@ -1517,7 +1170,6 @@ mengenai penilaian kembali bagi pihak utama lembaga
 
 jasa keuangan.
 
-
 -----
 
 BAB V
@@ -1526,7 +1178,13 @@ KEPEMILIKAN DAN PERUBAHAN MODAL BANK
 
 BERBADAN HUKUM INDONESIA
 
-Pasal 32
+### Pasal 31 ^pasal-31
+
+(1) Bank BHI yang melanggar ketentuan sebagaimana
+
+dimaksud dalam Pasal 23 ayat (2), Pasal 24 ayat (2),
+
+### Pasal 32 ^pasal-32
 
 Sumber dana yang digunakan untuk kepemilikan Bank
 
@@ -1540,7 +1198,7 @@ Indonesia; dan
 
 b. berasal dari dan untuk tujuan pencucian uang.
 
-Pasal 33
+### Pasal 33 ^pasal-33
 
 (1) Kepemilikan Bank BHI oleh badan hukum
 
@@ -1562,13 +1220,13 @@ pada saat badan hukum yang bersangkutan
 
 melakukan penambahan modal disetor Bank BHI.
 
-Pasal 34
+### Pasal 34 ^pasal-34
 
 Dalam hal diperlukan, OJK dapat menetapkan batasan
 
 kepemilikan Bank BHI.
 
-Pasal 35
+### Pasal 35 ^pasal-35
 
 (1) Kepemilikan saham Bank BHI oleh PSP dilarang
 
@@ -1586,10 +1244,9 @@ penanganan permasalahan bank atau lembaga lain
 
 yang ditunjuk oleh otoritas yang berwenang.
 
-
 -----
 
-Pasal 36
+### Pasal 36 ^pasal-36
 
 (1) Pihak yang menjadi pemilik Bank BHI paling sedikit
 
@@ -1617,7 +1274,7 @@ dimaksud pada ayat (1) berlaku bagi pemilik maupun
 
 pengurus dari badan hukum yang bersangkutan.
 
-Pasal 37
+### Pasal 37 ^pasal-37
 
 Pihak yang dapat menjadi PSP harus memenuhi
 
@@ -1627,54 +1284,15 @@ penilaian kemampuan dan kepatutan bagi pihak utama
 
 lembaga jasa keuangan.
 
-Pasal 38
-
-(1) Pemegang saham dilarang ikut serta dalam
-
-pengambilan keputusan operasional Bank BHI.
-
-(2) Ketentuan sebagaimana dimaksud pada ayat (1)
-
-dikecualikan untuk pemegang saham yang menjadi
-
-pengurus atau karyawan Bank BHI.
-
-Pasal 39
-
-(1) Penggantian dan/atau penambahan PSP dilaksanakan
-
-sesuai dengan ketentuan OJK mengenai penilaian
-
-kemampuan dan kepatutan bagi pihak utama lembaga
-
-jasa keuangan.
-
-(2) Dalam hal terdapat perubahan direksi dan/atau
-
-dewan komisaris dari PSP berupa badan hukum, PSP
-
-melalui Bank BHI wajib menginformasikan perubahan
-
-kepada OJK paling lama 10 (sepuluh) hari kerja sejak
+### Pasal 38 ^pasal-38
 
 
------
 
-perubahan Direksi dan/atau Dewan Komisaris.
+### Pasal 39 ^pasal-39
 
-(3) Informasi sebagaimana dimaksud pada ayat (2)
 
-disertai dengan:
 
-a. berita acara RUPS dari PSP berupa badan
-
-hukum; dan
-
-b. akta perubahan anggaran dasar dari PSP berupa
-
-badan hukum.
-
-Pasal 40
+### Pasal 40 ^pasal-40
 
 (1) Dalam hal terdapat perubahan modal disetor Bank
 
@@ -1694,227 +1312,11 @@ a. risalah RUPS; dan
 
 b. akta perubahan anggaran dasar.
 
-Pasal 41
+### Pasal 41 ^pasal-41
 
-(1) Bank BHI wajib menginformasikan perubahan
 
-komposisi kepemilikan saham Bank BHI yang tercatat
 
-dalam anggaran dasar dan tidak mengakibatkan
-
-perubahan pengendalian kepada OJK paling lama 10
-
-(sepuluh) hari kerja setelah perubahan dilakukan.
-
-(2) Laporan perubahan komposisi kepemilikan
-
-sebagaimana dimaksud pada ayat (1) yang diakibatkan
-
-karena penambahan modal disetor wajib disertai
-
-dengan:
-
-a. bukti penyetoran modal;
-
-b. risalah RUPS;
-
-c. surat pernyataan dari pemegang saham, bahwa
-
-penambahan modal:
-
-1) tidak berasal dari pinjaman atau fasilitas
-
-pembiayaan dalam bentuk apapun dari Bank
-
-dan/atau pihak lain di Indonesia, dan
-
-
------
-
-2) tidak berasal dari dan untuk tujuan
-
-pencucian uang;
-
-d. data kepemilikan berupa daftar pemegang saham
-
-setelah penambahan modal disetor berikut
-
-komposisi masing-masing kepemilikan saham;
-
-dan
-
-e. akta perubahan anggaran dasar berikut bukti
-
-penerimaan pemberitahuan perubahan anggaran
-
-dasar dari instansi yang berwenang.
-
-(3) Laporan perubahan komposisi kepemilikan
-
-sebagaimana dimaksud pada ayat (1) yang tidak
-
-mengubah jumlah modal disetor wajib disertai dengan:
-
-a. dokumen sebagaimana dimaksud pada ayat (2)
-
-huruf b sampai dengan huruf e; dan
-
-b. salinan dokumen pengalihan saham.
-
-(4) OJK dapat meminta Bank BHI untuk menyampaikan
-
-laporan komposisi atau daftar kepemilikan saham
-
-selain yang dimaksud pada ayat (2) dan ayat (3).
-
-Pasal 42
-
-(1) Bank BHI wajib menginformasikan perubahan
-
-komposisi kepemilikan saham Bank BHI yang:
-
-a. tercatat dalam anggaran dasar yang disebabkan
-
-oleh hibah atau waris saham; dan
-
-b. tidak mengakibatkan perubahan modal disetor,
-
-kepada OJK paling lama 10 (sepuluh) hari kerja
-
-setelah perubahan komposisi kepemilikan dilakukan.
-
-(2) Informasi sebagaimana dimaksud pada ayat (1)
-
-disertai dengan:
-
-a. akta hibah atau akta waris;
-
-b. data kepemilikan berupa daftar pemegang saham
-
-berikut komposisi masing-masing kepemilikan
-
-saham setelah hibah atau waris saham; dan
-
-c. dokumen persyaratan administratif untuk
-
-penilaian kemampuan dan kepatutan dalam hal
-
-pihak penerima hibah atau waris memenuhi
-
-kriteria pengendali, atau surat pernyataan yang
-
-
------
-
-bermaterai cukup yang menyatakan bahwa pihak
-
-penerima hibah atau waris memenuhi
-
-persyaratan sebagaimana dimaksud dalam Pasal
-
-36 ayat (1) dalam hal pihak penerima hibah atau
-
-waris tidak memenuhi kriteria pengendali.
-
-(3) Dalam hal perubahan kepemilikan saham
-
-sebagaimana dimaksud pada ayat (1) menyebabkan
-
-penerima hibah atau waris saham memenuhi kriteria
-
-pengendali, dilakukan penilaian kemampuan dan
-
-kepatutan.
-
-(4) Perubahan kepemilikan saham yang mengakibatkan
-
-beralihnya pengendalian Bank BHI yang disebabkan
-
-oleh hibah atau waris, dikecualikan sebagai
-
-pengambilalihan.
-
-Pasal 43
-
-(1) Bank BHI wajib menginformasikan perubahan modal
-
-dasar Bank BHI kepada OJK paling lama 10 (sepuluh)
-
-hari kerja setelah tanggal persetujuan perubahan
-
-anggaran dasar dari instansi yang berwenang.
-
-(2) Informasi sebagaimana dimaksud pada ayat (1)
-
-disertai dengan:
-
-a. risalah RUPS; dan
-
-b. akta perubahan anggaran dasar yang telah
-
-disetujui oleh instansi berwenang.
-
-Pasal 44
-
-Pembelian kembali saham yang telah dikeluarkan oleh
-
-Bank BHI wajib memperoleh persetujuan terlebih dahulu
-
-dari OJK dan dilaksanakan sesuai dengan ketentuan
-
-peraturan perundang-undangan.
-
-Pasal 45
-
-(1) Rencana penerbitan saham Bank BHI melalui
-
-penawaran umum efek bersifat ekuitas wajib
-
-dicantumkan dalam Rencana Bisnis Bank dan
-
-memperoleh persetujuan OJK.
-
-
------
-
-(2) Persyaratan dan tata cara penerbitan saham melalui
-
-penawaran umum efek bersifat ekuitas dilaksanakan
-
-sesuai dengan ketentuan peraturan perundang
-undangan di sektor perbankan dan pasar modal.
-
-Pasal 46
-
-Bank BHI wajib mengadministrasikan dokumen terkait
-
-kepemilikan saham yang tercatat dalam anggaran dasar
-
-termasuk daftar pemegang saham dan perubahannya.
-
-Pasal 47
-
-(1) Bank BHI yang melanggar ketentuan sebagaimana
-
-dimaksud dalam Pasal 32, Pasal 33 ayat (2), Pasal 35
-
-ayat (1), Pasal 38 ayat (1), Pasal 39 ayat (2), Pasal 40
-
-ayat (1), Pasal 41 ayat (1), ayat (2), ayat (3), Pasal 42
-
-ayat (1), Pasal 43 ayat (1), Pasal 44, Pasal 45 ayat (1),
-
-dan/atau Pasal 46 dikenai sanksi administratif berupa
-
-teguran tertulis.
-
-(2) Bank BHI yang terlambat memenuhi kewajiban
-
-penyampaian informasi sebagaimana dimaksud dalam
-
-Pasal 39 ayat (2), Pasal 40 ayat (1), Pasal 41 ayat (1),
-
-Pasal 42 ayat (1), dan/atau Pasal 43 ayat (1) dikenai
+### Pasal 42 ^pasal-42
 
 sanksi administratif berupa denda sebesar
 
@@ -1942,7 +1344,6 @@ dan/atau Pasal 46, Bank BHI dikenai sanksi
 
 administratif berupa:
 
-
 -----
 
 a. larangan melakukan ekspansi kegiatan usaha;
@@ -1959,11 +1360,7 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 dalam Pasal 32, Pasal 33 ayat (2), Pasal 35 ayat (1),
 
-Pasal 38 ayat (1), Pasal 39 ayat (2), Pasal 40 ayat (1),
-
-Pasal 41 ayat (1), ayat (2), ayat (3), Pasal 42 ayat (1),
-
-Pasal 43 ayat (1), Pasal 44, Pasal 45 ayat (1), Pasal 46,
+### Pasal 43 ^pasal-43
 
 ayat (2), dan/atau ayat (3), PSP, Direksi, Dewan
 
@@ -1989,7 +1386,64 @@ NEGERI, SERTA PEMIMPIN KANTOR PERWAKILAN DARI
 
 BANK YANG BERKEDUDUKAN DI LUAR NEGERI
 
-Pasal 48
+### Pasal 44 ^pasal-44
+
+Pembelian kembali saham yang telah dikeluarkan oleh
+
+Bank BHI wajib memperoleh persetujuan terlebih dahulu
+
+dari OJK dan dilaksanakan sesuai dengan ketentuan
+
+peraturan perundang-undangan.
+
+### Pasal 45 ^pasal-45
+
+(1) Rencana penerbitan saham Bank BHI melalui
+
+penawaran umum efek bersifat ekuitas wajib
+
+dicantumkan dalam Rencana Bisnis Bank dan
+
+memperoleh persetujuan OJK.
+
+-----
+
+(2) Persyaratan dan tata cara penerbitan saham melalui
+
+penawaran umum efek bersifat ekuitas dilaksanakan
+
+sesuai dengan ketentuan peraturan perundang
+undangan di sektor perbankan dan pasar modal.
+
+### Pasal 46 ^pasal-46
+
+Bank BHI wajib mengadministrasikan dokumen terkait
+
+kepemilikan saham yang tercatat dalam anggaran dasar
+
+termasuk daftar pemegang saham dan perubahannya.
+
+### Pasal 47 ^pasal-47
+
+(1) Bank BHI yang melanggar ketentuan sebagaimana
+
+dimaksud dalam Pasal 32, Pasal 33 ayat (2), Pasal 35
+
+ayat (1), Pasal 38 ayat (1), Pasal 39 ayat (2), Pasal 40
+
+ayat (1), Pasal 41 ayat (1), ayat (2), ayat (3), Pasal 42
+
+ayat (1), Pasal 43 ayat (1), Pasal 44, Pasal 45 ayat (1),
+
+dan/atau Pasal 46 dikenai sanksi administratif berupa
+
+teguran tertulis.
+
+(2) Bank BHI yang terlambat memenuhi kewajiban
+
+penyampaian informasi sebagaimana dimaksud dalam
+
+### Pasal 48 ^pasal-48
 
 Pemenuhan persyaratan, jumlah, komposisi, kriteria,
 
@@ -2001,7 +1455,7 @@ dilaksanakan sesuai dengan ketentuan OJK mengenai
 
 kepengurusan Bank BHI, KCBLN, atau KPBLN.
 
-Pasal 49
+### Pasal 49 ^pasal-49
 
 (1) Calon anggota Direksi atau calon anggota Dewan
 
@@ -2012,7 +1466,6 @@ atau calon pemimpin KPBLN wajib mengikuti penilaian
 kemampuan dan kepatutan sesuai dengan ketentuan
 
 OJK mengenai penilaian kemampuan dan kepatutan
-
 
 -----
 
@@ -2074,7 +1527,7 @@ berwenang pada bank yang berkedudukan di luar
 
 negeri.
 
-Pasal 50
+### Pasal 50 ^pasal-50
 
 (1) Dalam hal terdapat anggota Direksi atau anggota
 
@@ -2087,7 +1540,6 @@ mengundurkan diri, atau meninggal dunia, Bank BHI,
 KCBLN, atau KPBLN wajib menginformasikan kepada
 
 OJK paling lama 10 (sepuluh) hari kerja sejak tanggal
-
 
 -----
 
@@ -2103,7 +1555,7 @@ dokumen pendukung pemberhentian, pengunduran
 
 diri, dan/atau yang menyatakan meninggal dunia.
 
-Pasal 51
+### Pasal 51 ^pasal-51
 
 (1) Bank BHI atau KCBLN wajib melakukan penilaian
 
@@ -2143,7 +1595,7 @@ akan dijabat; dan
 
 f. rangkap jabatan.
 
-Pasal 52
+### Pasal 52 ^pasal-52
 
 (1) Dalam hal adanya kekosongan jabatan Pejabat
 
@@ -2161,7 +1613,6 @@ dimaksud pada ayat (1) wajib dilakukan penilaian
 
 sebagaimana dimaksud dalam Pasal 51.
 
-
 -----
 
 (3) Bank BHI atau KCBLN wajib mengangkat Pejabat
@@ -2172,7 +1623,7 @@ sejak tanggal penunjukan sementara Pejabat Eksekutif
 
 sebagaimana dimaksud pada ayat (1).
 
-Pasal 53
+### Pasal 53 ^pasal-53
 
 (1) Bank BHI atau KCBLN wajib melaporkan
 
@@ -2226,7 +1677,7 @@ dari OJK mengenai rekam jejak negatif Pejabat
 
 Eksekutif diterima oleh Bank BHI atau KCBLN.
 
-Pasal 54
+### Pasal 54 ^pasal-54
 
 Bank yang memanfaatkan tenaga kerja asing harus
 
@@ -2238,7 +1689,7 @@ kerja asing sesuai dengan ketentuan peraturan perundang
 
 undangan.
 
-Pasal 55
+### Pasal 55 ^pasal-55
 
 (1) Bank BHI, KCBLN, atau KPBLN yang melanggar
 
@@ -2308,7 +1759,6 @@ Komisaris, dan/atau Pejabat Eksekutif Bank BHI atau
 
 KCBLN, atau pemimpin KPBLN, dapat dikenai sanksi
 
-
 -----
 
 administratif berupa larangan sebagai pihak utama
@@ -2325,7 +1775,7 @@ Bagian Kesatu
 
 Umum
 
-Pasal 56
+### Pasal 56 ^pasal-56
 
 (1) Jaringan kantor Bank BHI terdiri dari KP, Kanwil, KC,
 
@@ -2335,7 +1785,7 @@ KCP, KF, dan Kantor di Luar Negeri.
 
 BHI dapat menyediakan TPE.
 
-Pasal 57
+### Pasal 57 ^pasal-57
 
 Kantor Bank BHI selain KP dan Kanwil sebagaimana
 
@@ -2347,7 +1797,7 @@ menggunakan saluran elektronik dan/atau penyediaan TPE
 
 baik secara menyeluruh atau sebagian.
 
-Pasal 58
+### Pasal 58 ^pasal-58
 
 (1) Bank BHI menetapkan kantor atau unit organisasi
 
@@ -2363,7 +1813,6 @@ OJK setelah pelaksanaan penyediaan, pemindahan
 
 alamat, atau pengakhiran penyediaan TPE.
 
-
 -----
 
 Bagian Kedua
@@ -2374,7 +1823,7 @@ Paragraf 1
 
 Umum
 
-Pasal 59
+### Pasal 59 ^pasal-59
 
 (1) Rencana pembukaan kantor Bank BHI selain KP dan
 
@@ -2398,46 +1847,25 @@ analisis terkait rencana pembukaan kantor Bank BHI
 
 sebagaimana dimaksud pada ayat (1).
 
-Pasal 60
+### Pasal 60 ^pasal-60
 
-Bank BHI wajib mencantumkan rencana pembukaan
+74, Pasal 75, Pasal 80, Pasal 82, Pasal 83, Pasal 84,
 
-kantor Bank BHI berupa Kanwil, KC, dan Kantor di Luar
+### Pasal 61 ^pasal-61
 
-Negeri untuk 1 (satu) tahun ke depan dalam Rencana
+a. terhadap rencana pembukaan Kanwil yang telah
 
-Bisnis Bank.
+dicantumkan dalam Rencana Bisnis Bank,
 
-Paragraf 2
+sebagaimana dimaksud dalam Pasal 60; dan
 
-Pembukaan Kanwil Bank Berbadan Hukum Indonesia
+b. kelengkapan dan kesesuaian dokumen yang
 
-Pasal 61
+disampaikan sebagaimana dimaksud dalam Pasal
 
-(1) Pembukaan Kanwil wajib memperoleh izin OJK.
+61 ayat (3).
 
-(2) Bank BHI mengajukan permohonan izin kepada OJK
-
-paling lama 30 (tiga puluh) hari kerja sebelum rencana
-
-pelaksanaan pembukaan Kanwil.
-
-(3) Permohonan izin diajukan oleh pejabat Bank BHI yang
-
-berwenang sesuai ketentuan internal Bank BHI,
-
-disertai dengan dokumen:
-
-
------
-
-a. struktur organisasi dan cakupan wilayah kerja
-
-Kanwil; dan
-
-b. tugas dan kewenangan Kanwil.
-
-Pasal 62
+### Pasal 62 ^pasal-62
 
 (1) OJK memberikan persetujuan atau penolakan atas
 
@@ -2461,21 +1889,7 @@ lengkap.
 
 permohonan izin sebagaimana dimaksud dalam
 
-Pasal 61, OJK melakukan penelitian:
-
-a. terhadap rencana pembukaan Kanwil yang telah
-
-dicantumkan dalam Rencana Bisnis Bank,
-
-sebagaimana dimaksud dalam Pasal 60; dan
-
-b. kelengkapan dan kesesuaian dokumen yang
-
-disampaikan sebagaimana dimaksud dalam Pasal
-
-61 ayat (3).
-
-Pasal 63
+### Pasal 63 ^pasal-63
 
 (1) Bank BHI harus melaksanakan pembukaan Kanwil
 
@@ -2499,7 +1913,6 @@ melaksanakan pembukaan Kanwil, persetujuan OJK
 
 menjadi tidak berlaku.
 
-
 -----
 
 (4) Bank BHI wajib melaporkan pembukaan Kanwil
@@ -2512,47 +1925,11 @@ Pembukaan Kantor Cabang Bank
 
 Berbadan Hukum Indonesia
 
-Pasal 64
+### Pasal 64 ^pasal-64
 
-(1) Pembukaan KC wajib memperoleh izin OJK.
+Pasal 69ayat (1), Pasal 71 ayat (4), Pasal 73 ayat (1),
 
-(2) Bank BHI mengajukan permohonan izin kepada OJK
-
-paling lama 30 (tiga puluh) hari kerja sebelum rencana
-
-pelaksanaan pembukaan KC.
-
-(3) Permohonan izin diajukan oleh pejabat Bank BHI yang
-
-berwenang sesuai ketentuan internal Bank BHI,
-
-disertai dengan:
-
-a. dokumen penegasan dari pejabat satuan kerja
-
-kepatuhan yang berwenang yang menyatakan
-
-bahwa Bank BHI telah:
-
-1) melaksanakan persiapan operasional dalam
-
-rangka pembukaan KC; dan
-
-2) melakukan studi kelayakan yang paling
-
-sedikit memuat potensi ekonomi, peluang
-
-pasar, tingkat persaingan yang sehat antar
-
-bank, dan tingkat kejenuhan jumlah bank;
-
-dan
-
-b. rencana bisnis KC selama 12 (dua belas) bulan
-
-ke depan.
-
-Pasal 65
+### Pasal 65 ^pasal-65
 
 (1) OJK memberikan persetujuan atau penolakan atas
 
@@ -2570,109 +1947,85 @@ dimaksud dalam Pasal 64 ayat (3) diterima secara
 
 lengkap.
 
-
 -----
 
 (3) Untuk memberikan persetujuan atau penolakan atas
 
 permohonan izin sebagaimana dimaksud dalam
 
-Pasal 64, OJK melakukan penelitian:
+### Pasal 66 ^pasal-66
 
-a. terhadap rencana pembukaan KC telah
 
-dicantumkan dalam Rencana Bisnis Bank,
 
-sebagaimana dimaksud dalam Pasal 60; dan
+### Pasal 67 ^pasal-67
 
-b. kelengkapan dan kesesuaian dokumen yang
+86, Pasal 88 dan Pasal 90 berlaku mutatis mutandis
 
-disampaikan sebagaimana dimaksud dalam
+terhadap pembukaan, perubahan status, pemindahan
 
-Pasal 64 ayat (3).
+alamat, pembatalan pemindahan alamat, penutupan,
 
-Pasal 66
+dan/atau pembatalan penutupan kantor di bawah
 
-(1) Bank BHI harus melaksanakan pembukaan KC paling
+KCBLN berupa kantor dibawah KCP.
 
-lama 30 (tiga puluh) hari kerja sejak tanggal
+(5) Ketentuan mengenai pembukaan, perubahan status,
 
-persetujuan OJK.
+pemindahan alamat, pembatalan pemindahan alamat,
 
-(2) Dalam hal terdapat keadaan kahar atau pertimbangan
+penutupan, dan/atau pembatalan penutupan kantor
 
-lain yang dapat diterima oleh OJK, jangka waktu
+Bank BHI berupa KF sebagaimana dimaksud dalam
 
-sebagaimana dimaksud pada ayat (1) dapat
+### Pasal 68 ^pasal-68
 
-diperpanjang berdasarkan persetujuan OJK.
+(5), dan/atau Pasal 111 ayat (2), disampaikan
 
-(3) Dalam hal setelah jangka waktu sebagaimana
+melalui sistem pelaporan OJK dengan tata cara
 
-dimaksud pada ayat (1) atau ayat (2) Bank BHI tidak
+sesuai dengan Peraturan OJK mengenai
 
-melaksanakan pembukaan KC, persetujuan OJK
+pelaporan bank umum melalui sistem pelaporan
 
-menjadi tidak berlaku.
+OJK, dan jangka waktu pelaporan disesuaikan
 
-(4) Bank BHI wajib melaporkan pembukaan KC kepada
+pada periode laporan dimana pelaksanaan
 
-OJK setelah pelaksanaan pembukaan KC.
+aktivitas yang dilaporkan telah terealisasi efektif.
 
-Paragraf 4
+(2) Penyampaian terkait:
 
-Pembukaan Kantor Cabang Pembantu
+a. informasi dan/atau data selain sebagaimana
 
-Bank Berbadan Hukum Indonesia
-
-Pasal 67
-
-(1) KCP dapat berbentuk permanen atau berpindah
-
-(mobile).
-
-(2) Bank BHI wajib melaporkan pembukaan KCP kepada
-
-OJK setelah pelaksanaan pembukaan KCP.
-
-(3) Bank BHI wajib menggabungkan laporan keuangan
-
-KCP dengan laporan keuangan KC sejak tanggal
-
-pembukaan KCP.
-
+dimaksud pada ayat (1); atau
 
 -----
 
-Paragraf 5
+b. dalam hal sistem perizinan dan/atau sistem
 
-Pembukaan Kantor Fungsional
+pelaporan sebagaimana dimaksud pada ayat (1)
 
-Bank Berbadan Hukum Indonesia
+belum tersedia atau terdapat keadaan kahar,
 
-Pasal 68
+dilakukan melalui sistem persuratan OJK.
 
-(1) KF dapat melakukan kegiatan operasional atau
+(3) Dalam hal sistem persuratan OJK sebagaimana
 
-melakukan kegiatan selain operasional.
+dimaksud pada ayat (2) terdapat keadaan kahar,
 
-(2) Bank BHI wajib melaporkan pembukaan KF kepada
+penyampaian dilakukan secara luring kepada OJK.
 
-OJK setelah pelaksanaan pembukaan KF.
+(4) Mekanisme penyampaian daring dan luring mengacu
 
-(3) Bank BHI wajib menggabungkan laporan keuangan KF
+pada lampiran yang merupakan bagian tidak
 
-dengan laporan keuangan KC atau KP sejak tanggal
+terpisahkan dari Peraturan OJK ini.
 
-pembukaan KF.
+BAB XVI
 
-Paragraf 6
+PENGELOMPOKAN BANK
 
-Pembukaan Kantor Bank Berbadan Hukum Indonesia
-
-di Luar Negeri
-
-Pasal 69
+### Pasal 69 ^pasal-69
 
 (1) Pembukaan Kantor di Luar Negeri wajib memperoleh
 
@@ -2711,7 +2064,6 @@ a. dokumen dari pejabat satuan kerja kepatuhan
 yang berwenang yang menyatakan bahwa Bank
 
 BHI telah:
-
 
 -----
 
@@ -2755,7 +2107,7 @@ dan prosedur sebagaimana aturan otoritas negara
 
 setempat.
 
-Pasal 70
+### Pasal 70 ^pasal-70
 
 (1) OJK memberikan persetujuan atau penolakan atas
 
@@ -2787,7 +2139,6 @@ Negeri telah dicantumkan dalam Rencana Bisnis
 
 Bank sebagaimana dimaksud dalam Pasal 60;
 
-
 -----
 
 b. terhadap pemenuhan persyaratan Bank BHI
@@ -2802,60 +2153,25 @@ disampaikan sebagaimana dimaksud dalam Pasal
 
 69 ayat (4).
 
-Pasal 71
+### Pasal 71 ^pasal-71
 
-(1) Pembukaan Kantor di Luar Negeri harus dilaksanakan
+sanksi administratif sesuai dengan Peraturan OJK
 
-paling lama 1 (satu) tahun sejak tanggal persetujuan
+mengenai pelaporan bank umum melalui sistem
 
-OJK.
+pelaporan OJK.
 
-(2) Dalam hal terdapat keadaan kahar atau pertimbangan
+BAB VIII
 
-lain yang dapat diterima oleh OJK, jangka waktu
+PERUBAHAN NAMA DAN LOGO
 
-sebagaimana dimaksud pada ayat (1) dapat
+BANK BERBADAN HUKUM INDONESIA
 
-diperpanjang berdasarkan persetujuan OJK.
+Bagian Kesatu
 
-(3) Dalam hal setelah jangka waktu sebagaimana
+Perubahan Nama Bank Berbadan Hukum Indonesia
 
-dimaksud pada ayat (1) atau ayat (2) Bank BHI tidak
-
-melaksanakan pembukaan Kantor di Luar Negeri,
-
-persetujuan OJK menjadi tidak berlaku.
-
-(4) Bank BHI wajib menyampaikan salinan izin
-
-pembukaan Kantor di Luar Negeri dari otoritas negara
-
-setempat kepada OJK paling lama 10 (sepuluh) hari
-
-kerja sejak tanggal efektif pembukaan Kantor di Luar
-
-Negeri.
-
-(5) Bank BHI wajib melaporkan pembukaan Kantor di
-
-Luar Negeri kepada OJK setelah tanggal efektif
-
-pelaksanaan pembukaan Kantor di Luar Negeri.
-
-
------
-
-Bagian Ketiga
-
-Perubahan Status Kantor Bank
-
-Berbadan Hukum Indonesia
-
-Paragraf 1
-
-Umum
-
-Pasal 72
+### Pasal 72 ^pasal-72
 
 Bank BHI dapat melakukan perubahan status atas kantor
 
@@ -2867,7 +2183,7 @@ Perubahan Status Kantor Cabang Pembantu
 
 menjadi Kantor Cabang
 
-Pasal 73
+### Pasal 73 ^pasal-73
 
 (1) Bank BHI wajib mencantumkan rencana perubahan
 
@@ -2889,70 +2205,17 @@ Perubahan Status Kantor Cabang
 
 menjadi Kantor Cabang Pembantu
 
-Pasal 74
+### Pasal 74 ^pasal-74
 
-(1) Bank BHI wajib mencantumkan rencana perubahan
+ayat (1), Pasal 79 ayat (1), ayat (5), ayat (6), ayat (7),
 
-status KC menjadi KCP untuk 1 (satu) tahun ke depan
+ayat (8), Pasal 80 ayat (2), ayat (5), Pasal 81 ayat (2),
 
-dalam Rencana Bisnis Bank.
+ayat (3), Pasal 82, Pasal 83 ayat (1), Pasal 85 ayat (1),
 
-(2) Bank BHI wajib menginformasikan perubahan status
+ayat (5), ayat (6), ayat (7), Pasal 86 ayat (2), ayat (5),
 
-KC menjadi KCP kepada OJK paling lama 30 (tiga
-
-puluh) hari kerja sebelum rencana pelaksanaan
-
-perubahan status.
-
-
------
-
-(3) Penyampaian informasi kepada OJK sebagaimana
-
-dimaksud pada ayat (2) disertai dengan:
-
-a. alasan perubahan status; dan
-
-b. analisis Bank BHI terkait:
-
-1) kondisi bisnis KC setelah perubahan status
-
-menjadi KCP serta mitigasi yang diperlukan;
-
-dan
-
-2) rencana penyelesaian hak dan kewajiban KC
-
-kepada nasabah dan pihak lain sehubungan
-
-dengan perubahan status KC menjadi KCP.
-
-(4) Bank BHI wajib melaksanakan perubahan status KC
-
-menjadi KCP paling cepat 14 (empat belas) hari kerja
-
-sejak tanggal penyampaian informasi kepada OJK dan
-
-paling lama pada tanggal rencana pelaksanaan
-
-perubahan status sebagaimana dimaksud pada ayat
-
-(2).
-
-(5) Bank BHI wajib melaporkan perubahan status KC
-
-menjadi KCP kepada OJK setelah pelaksanaan
-
-perubahan status.
-
-Paragraf 4
-
-Perubahan Status Kantor Bank Berbadan
-
-Hukum Indonesia Lainnya
-
-Pasal 75
+### Pasal 75 ^pasal-75
 
 Perubahan status kantor selain sebagaimana dimaksud
 
@@ -2966,7 +2229,6 @@ BHI yang baru dengan memenuhi persyaratan dan tata
 
 cara sesuai dengan Peraturan OJK ini.
 
-
 -----
 
 Bagian Keempat
@@ -2975,149 +2237,67 @@ Pemindahan Alamat Kantor Bank
 
 Berbadan Hukum Indonesia
 
-Pasal 76
+### Pasal 76 ^pasal-76
 
-Bank BHI yang berencana melakukan pemindahan alamat:
+berlaku mutatis mutandis terhadap pemindahan
 
-a. KP yang mengakibatkan perubahan tempat
+alamat KCBLN ke provinsi yang berbeda.
 
-kedudukan dalam anggaran dasar;
+(7) Ketentuan mengenai pemindahan alamat KP Bank BHI
 
-b. Kanwil ke provinsi yang berbeda; atau
-
-c. Kantor di Luar Negeri ke kota yang berbeda,
-
-untuk 1 (satu) tahun ke depan wajib mencantumkan dalam
-
-Rencana Bisnis Bank.
-
-Pasal 77
-
-(1) Pemindahan alamat kantor Bank BHI berupa KP,
-
-Kanwil, dan/atau Kantor di Luar Negeri sebagaimana
-
-dimaksud dalam Pasal 76 wajib memperoleh izin dari
-
-OJK.
-
-(2) Bank BHI mengajukan permohonan izin kepada OJK
-
-sebagaimana dimaksud pada ayat (1) paling lama:
-
-a. 30 (tiga puluh) hari kerja sebelum rencana
-
-pelaksanaan pemindahan alamat kantor Bank
-
-BHI berupa KP dan/atau Kanwil; atau
-
-b. 30 (tiga puluh) hari kerja sebelum rencana
-
-penyampaian permohonan pemindahan alamat
-
-Kantor di Luar Negeri sebagaimana ketentuan
-
-pemindahan alamat Kantor di Luar Negeri oleh
-
-otoritas negara setempat.
-
-(3) Permohonan izin diajukan oleh pejabat Bank BHI yang
-
-berwenang sesuai ketentuan internal Bank BHI,
-
-disertai dengan:
-
-a. alasan pemindahan alamat;
-
-b. dokumen dari pejabat satuan kerja kepatuhan
-
-yang berwenang yang menyatakan bahwa Bank
-
-BHI telah melaksanakan persiapan operasional
-
-dalam rangka pemindahan alamat;
-
+yang tidak mengakibatkan perubahan tempat
 
 -----
 
-c. bagi pemindahan alamat kantor Bank BHI berupa
+kedudukan dalam anggaran dasar sebagaimana
 
-Kantor di Luar Negeri, dilengkapi dengan
+dimaksud dalam Pasal 80 dan Pasal 90 berlaku
 
-dokumen dari pejabat satuan kerja kepatuhan
+mutatis mutandis terhadap pemindahan alamat
 
-yang berwenang yang menyatakan bahwa Bank
+KCBLN dalam provinsi yang sama.
 
-BHI telah:
+(8) Ketentuan mengenai pemindahan sementara alamat
 
-1) melakukan studi kelayakan yang paling
+kantor Bank BHI sebagaimana dimaksud dalam Pasal
 
-sedikit memuat potensi ekonomi, peluang
+81 dan Pasal 90 berlaku mutatis mutandis terhadap
 
-pasar, tingkat persaingan yang sehat antar
+pemindahan sementara alamat jaringan kantor
 
-bank, dan tingkat kejenuhan jumlah bank,
+KCBLN.
 
-untuk Kantor di Luar Negeri selain kantor
+(9) Ketentuan mengenai penutupan sementara kantor
 
-perwakilan;
+Bank BHI selain KP sebagaimana dimaksud dalam
 
-2) melakukan analisis terkait kondisi bisnis
+### Pasal 77 ^pasal-77
 
-Kantor di Luar Negeri selain kantor
+ayat (7), ayat (8), Pasal 80 ayat (2), ayat (5), Pasal 81
 
-perwakilan setelah pemindahan alamat serta
+ayat (2), ayat (3), Pasal 82, Pasal 83 ayat (1), Pasal 85
 
-mitigasi yang diperlukan; dan
+ayat (1), ayat (5), ayat (6), ayat (7), Pasal 86 ayat (2),
 
-3) menyusun rencana penyelesaian hak dan
+ayat (5), Pasal 87 ayat (2), ayat (4), dan/atau Pasal 89,
 
-kewajiban Kantor di Luar Negeri kepada
+Bank BHI dikenai sanksi administratif berupa:
 
-nasabah dan/atau pihak lain sehubungan
+a. larangan melakukan ekspansi kegiatan usaha;
 
-dengan pemindahan alamat; dan
+dan/atau
 
-d. informasi tahapan yang akan dilakukan dalam
+b. pembekuan kegiatan usaha tertentu.
 
-pelaksanaan pemindahan alamat Kantor di Luar
+(4) Dalam hal Bank BHI telah dikenai sanksi administratif
 
-Negeri secara tepat waktu yang mengacu pada
+sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
-proses dan prosedur sebagaimana aturan otoritas
+(2), dan melanggar ketentuan sebagaimana dimaksud
 
-negara setempat.
+dalam Pasal 59 ayat (2), Pasal 60, Pasal 61 ayat (1),
 
-(4) Pemindahan alamat KP yang mengakibatkan
-
-perubahan tempat kedudukan dalam anggaran dasar
-
-sebagaimana dimaksud dalam Pasal 76 huruf a,
-
-pengajuan izin pemindahan alamat dapat disampaikan
-
-secara bersamaan dengan pengajuan persetujuan
-
-perubahan anggaran dasar mengenai tempat
-
-kedudukan kepada instansi yang berwenang sesuai
-
-dengan ketentuan peraturan perundang-undangan.
-
-(5) Bank BHI menyampaikan persetujuan perubahan
-
-anggaran dasar sebagaimana dimaksud pada ayat (4)
-
-disertai dengan akta persetujuan RUPS kepada OJK
-
-paling lama 5 (lima) hari kerja sejak tanggal
-
-persetujuan instansi yang berwenang.
-
-
------
-
-Pasal 78
+### Pasal 78 ^pasal-78
 
 (1) OJK memberikan persetujuan atau penolakan atas
 
@@ -3139,23 +2319,7 @@ secara lengkap.
 
 permohonan izin sebagaimana dimaksud dalam
 
-Pasal 77, OJK melakukan penelitian:
-
-a. terhadap rencana pemindahan alamat kantor
-
-Bank BHI telah dicantumkan dalam Rencana
-
-Bisnis Bank, sebagaimana dimaksud dalam Pasal
-
-76; dan
-
-b. kelengkapan dan kesesuaian dokumen yang
-
-disampaikan sebagaimana dimaksud dalam Pasal
-
-77 ayat (3) dan ayat (5).
-
-Pasal 79
+### Pasal 79 ^pasal-79
 
 (1) Bank BHI yang telah memperoleh persetujuan
 
@@ -3188,7 +2352,6 @@ paling lama 5 (lima) hari kerja sejak tanggal
 persetujuan OJK atau mengikuti ketentuan otoritas
 
 negara setempat bagi pemindahan alamat Kantor di
-
 
 -----
 
@@ -3266,7 +2429,6 @@ rencana pemindahan alamat sebagaimana dimaksud
 
 pada ayat (1), Bank BHI wajib mengumumkan
 
-
 -----
 
 pembatalan pemindahan alamat paling lama sebelum
@@ -3283,7 +2445,7 @@ b. situs web Bank BHI; dan/atau
 
 c. akun media sosial resmi Bank BHI.
 
-Pasal 80
+### Pasal 80 ^pasal-80
 
 (1) Bank BHI wajib menginformasikan rencana
 
@@ -3341,7 +2503,6 @@ pemindahan alamat.
 
 dimaksud pada ayat (1) dan/atau ayat (3) batal
 
-
 -----
 
 dilaksanakan, Bank BHI wajib menyampaikan
@@ -3374,7 +2535,7 @@ paling lama pada tanggal efektif pemindahan alamat
 
 sebagaimana dimaksud pada ayat (1).
 
-Pasal 81
+### Pasal 81 ^pasal-81
 
 (1) Bank BHI dapat melakukan pemindahan sementara
 
@@ -3408,14 +2569,13 @@ beroperasi pada alamat sebelumnya.
 
 mengikuti ketentuan otoritas negara setempat.
 
-
 -----
 
 Bagian Kelima
 
 Penutupan Kantor Bank Berbadan Hukum Indonesia
 
-Pasal 82
+### Pasal 82 ^pasal-82
 
 Bank BHI wajib mencantumkan rencana penutupan kantor
 
@@ -3425,7 +2585,7 @@ Negeri untuk 1 (satu) tahun ke depan dalam Rencana
 
 Bisnis Bank.
 
-Pasal 83
+### Pasal 83 ^pasal-83
 
 (1) Penutupan kantor Bank BHI berupa Kanwil, KC,
 
@@ -3481,7 +2641,6 @@ penyelesaian hak dan kewajiban KC kepada
 
 nasabah dan/atau pihak lain; atau
 
-
 -----
 
 c. bagi penutupan Kantor di Luar Negeri, disertai
@@ -3506,7 +2665,7 @@ yang mengacu pada proses dan prosedur
 
 sebagaimana aturan otoritas negara setempat.
 
-Pasal 84
+### Pasal 84 ^pasal-84
 
 (1) OJK memberikan persetujuan atau penolakan atas
 
@@ -3542,243 +2701,37 @@ disampaikan sebagaimana dimaksud dalam Pasal
 
 83 ayat (3).
 
-Pasal 85
+### Pasal 85 ^pasal-85
 
-(1) Bank BHI yang telah memperoleh persetujuan
+(4), Pasal 91 ayat (2), ayat (3), Pasal 98 ayat (1),
 
-penutupan kantor sebagaimana dimaksud dalam Pasal
+### Pasal 86 ^pasal-86
 
-84 dari OJK serta persetujuan dari otoritas negara
+sanksi administratif sesuai dengan Peraturan OJK
 
-setempat bagi Kantor di Luar Negeri, wajib
+mengenai perizinan secara elektronik di sektor jasa
 
-mengumumkan rencana penutupan kantor melalui:
-
-
------
-
-a. surat kabar harian berbahasa Indonesia;
-
-b. situs web Bank BHI; dan/atau
-
-c. akun media sosial resmi Bank BHI,
-
-paling lama 5 (lima) hari kerja sejak tanggal
-
-persetujuan OJK atau mengikuti ketentuan otoritas
-
-negara setempat bagi penutupan Kantor di Luar
-
-Negeri.
-
-(2) Bank BHI melaksanakan penutupan kantor Bank BHI
-
-paling lama 30 (tiga puluh) hari kerja sejak tanggal
-
-persetujuan OJK, atau mengikuti ketentuan otoritas
-
-negara setempat bagi penutupan Kantor di Luar
-
-Negeri.
-
-(3) Dalam hal terdapat keadaan kahar atau pertimbangan
-
-lain yang dapat diterima oleh OJK, jangka waktu
-
-sebagaimana dimaksud pada ayat (2) dapat
-
-diperpanjang berdasarkan persetujuan OJK.
-
-(4) Dalam hal setelah jangka waktu sebagaimana
-
-dimaksud pada ayat (2) atau ayat (3) Bank BHI tidak
-
-melaksanakan penutupan kantor, persetujuan OJK
-
-menjadi tidak berlaku.
-
-(5) Bank BHI wajib menyampaikan kepada OJK dokumen
-
-bukti penyelesaian:
-
-a. hak dan kewajiban Kanwil kepada pihak lain;
-
-b. hak dan kewajiban KC kepada nasabah dan/atau
-
-pihak lain; atau
-
-c. hak dan kewajiban Kantor di Luar Negeri kepada
-
-nasabah dan/atau pihak lain, serta salinan
-
-persetujuan penutupan Kantor di Luar Negeri dari
-
-otoritas negara setempat,
-
-paling lama 10 (sepuluh) hari kerja sejak tanggal
-
-efektif penutupan Kanwil, KC, atau Kantor di Luar
-
-Negeri.
-
-(6) Dalam hal penutupan kantor Bank BHI sebagaimana
-
-dimaksud dalam Pasal 83 batal dilaksanakan, Bank
-
-BHI wajib menyampaikan informasi pembatalan
-
-kepada OJK paling lama sebelum pelaksanaan
-
-penutupan kantor Bank BHI sebagaimana dimaksud
-
+keuangan.
 
 -----
 
-pada ayat (2).
+(6) Bank BHI yang melanggar ketentuan sebagaimana
 
-(7) Dalam hal penutupan kantor Bank BHI sebagaimana
+dimaksud dalam Pasal 58 ayat (2), Pasal 63 ayat (4),
 
-dimaksud dalam Pasal 83 batal dilaksanakan dan
+### Pasal 87 ^pasal-87
 
-Bank BHI telah mengumumkan rencana penutupan
+terhadap penutupan sementara jaringan kantor
 
-kantor sebagaimana dimaksud pada ayat (1), Bank
+KCBLN selain KCBLN.
 
-BHI wajib mengumumkan pembatalan penutupan
-
-paling lama sebelum pelaksanaan penutupan kantor
-
-Bank BHI sebagaimana dimaksud pada ayat (2)
-
-melalui:
-
-a. surat kabar harian berbahasa Indonesia;
-
-b. situs web Bank BHI; dan/atau
-
-c. akun media sosial resmi Bank BHI.
-
-Pasal 86
-
-(1) Bank BHI wajib menginformasikan rencana penutupan
-
-KCP atau KF yang melakukan kegiatan operasional
-
-kepada OJK paling lama 30 (tiga puluh) hari kerja
-
-sebelum tanggal efektif penutupan.
-
-(2) Bank BHI wajib mengumumkan rencana penutupan
-
-KCP atau KF yang melakukan kegiatan operasional
-
-sebagaimana dimaksud pada ayat (1) melalui:
-
-a. pemberitahuan di lokasi kantor;
-
-b. surat kabar harian berbahasa Indonesia;
-
-c. situs web Bank BHI; dan/atau
-
-d. akun media sosial resmi Bank BHI,
-
-paling cepat 5 (hari) hari kerja setelah tanggal
-
-penyampaian informasi kepada OJK sebagaimana
-
-dimaksud pada ayat (1).
-
-(3) Bank BHI wajib menginformasikan rencana penutupan
-
-KF yang melakukan kegiatan selain operasional
-
-kepada OJK paling lama 10 (sepuluh) hari kerja
-
-sebelum tanggal efektif penutupan.
-
-(4) Dalam hal penutupan kantor sebagaimana dimaksud
-
-pada ayat (1) dan/atau ayat (3) batal dilaksanakan,
-
-Bank BHI wajib menyampaikan informasi pembatalan
-
-kepada OJK paling lama pada tanggal efektif
-
-penutupan sebagaimana dimaksud pada ayat (1).
-
-
------
-
-(5) Dalam hal penutupan kantor sebagaimana dimaksud
-
-pada ayat (1) batal dilaksanakan dan telah dilakukan
-
-pengumuman sebagaimana dimaksud pada ayat (2),
-
-Bank BHI wajib mengumumkan pembatalan rencana
-
-penutupan kantor Bank BHI melalui:
-
-a. pemberitahuan di lokasi kantor;
-
-b. surat kabar harian berbahasa Indonesia;
-
-c. situs web Bank BHI; dan/atau
-
-d. akun media sosial resmi Bank BHI,
-
-paling lama pada tanggal efektif penutupan
-
-sebagaimana dimaksud pada ayat (1).
-
-Pasal 87
-
-(1) Bank BHI dapat melakukan penutupan sementara
-
-kantor Bank BHI selain KP karena keadaan kahar atau
-
-kondisi lain sesuai dengan kebutuhan Bank BHI.
-
-(2) Bank BHI wajib menginformasikan penutupan
-
-sementara kantor Bank BHI selain KP sebagaimana
-
-dimaksud pada ayat (1) kepada OJK paling lambat
-
-pada saat pelaksanaan penutupan sementara.
-
-(3) Bank BHI menjamin terselenggaranya pelayanan
-
-nasabah melalui dukungan jaringan layanan
-
-perbankan yang dimiliki Bank BHI sehubungan
-
-dengan penutupan sementara kantor Bank BHI selain
-
-KP sebagaimana dimaksud pada ayat (1).
-
-(4) Dalam hal penutupan sementara kantor Bank BHI
-
-selain KP sebagaimana dimaksud pada ayat (1) akan
-
-diselesaikan dan akan kembali efektif beroperasi, Bank
-
-BHI wajib menginformasikan kepada OJK paling
-
-lambat pada saat tanggal efektif kembali beroperasi.
-
-(5) Penutupan sementara Kantor di Luar Negeri juga
-
-mengikuti ketentuan otoritas negara setempat.
-
-Pasal 88
+### Pasal 88 ^pasal-88
 
 Bank BHI bertanggung jawab dalam penyelesaian seluruh
 
 hak dan kewajiban terhadap penutupan jaringan kantor
 
 Bank BHI kepada nasabah dan/atau pihak lain, termasuk
-
 
 -----
 
@@ -3788,7 +2741,7 @@ Bagian Keenam
 
 Penundaan atau Pembatalan oleh Otoritas Jasa Keuangan
 
-Pasal 89
+### Pasal 89 ^pasal-89
 
 Berdasarkan pertimbangan OJK, Bank BHI wajib menunda
 
@@ -3804,155 +2757,23 @@ Bagian Ketujuh
 
 Sanksi Administratif
 
-Pasal 90
+### Pasal 90 ^pasal-90
 
-(1) Bank BHI yang melanggar ketentuan sebagaimana
+pembukaan, perubahan status, pemindahan alamat,
 
-dimaksud dalam Pasal 59 ayat (2), Pasal 60, Pasal 61
+pembatalan pemindahan alamat, penutupan,
 
-ayat (1), Pasal 64 ayat (1), Pasal 67 ayat (3), Pasal 68
+dan/atau pembatalan penutupan kantor di bawah
 
-ayat (3), Pasal 69 ayat (1), Pasal 71 ayat (4), Pasal 73
+KCBLN berupa KF.
 
-ayat (1), Pasal 74 ayat (1), ayat (2), ayat (4), Pasal 76,
+(6) Ketentuan mengenai pemindahan alamat KP Bank BHI
 
-Pasal 77 ayat (1), Pasal 79 ayat (1), ayat (5), ayat (6),
+yang mengakibatkan perubahan tempat kedudukan
 
-ayat (7), ayat (8), Pasal 80 ayat (2), ayat (5), Pasal 81
+dalam anggaran dasar sebagaimana dimaksud dalam
 
-ayat (2), ayat (3), Pasal 82, Pasal 83 ayat (1), Pasal 85
-
-ayat (1), ayat (5), ayat (6), ayat (7), Pasal 86 ayat (2),
-
-ayat (5), Pasal 87 ayat (2), ayat (4), dan/atau Pasal 89,
-
-dikenai sanksi administratif berupa teguran tertulis.
-
-(2) Bank BHI yang terlambat memenuhi kewajiban
-
-penyampaian informasi atau dokumen sebagaimana
-
-dimaksud dalam Pasal 71 ayat (4), Pasal 79 ayat (5),
-
-ayat (7), Pasal 81 ayat (2), ayat (3), Pasal 85 ayat (5),
-
-Pasal 87 ayat (2), dan/atau ayat (4), dikenai sanksi
-
-administratif berupa denda sebesar Rp1.000.000,00
-
-(satu juta rupiah) per hari kerja dan paling banyak
-
-Rp30.000.000,00 (tiga puluh juta rupiah).
-
-(3) Dalam hal Bank BHI telah dikenai sanksi administratif
-
-sebagaimana dimaksud pada ayat (1) dan/atau ayat
-
-
------
-
-(2), dan belum memenuhi ketentuan sebagaimana
-
-dimaksud dalam Pasal 59 ayat (2), Pasal 60, Pasal 61
-
-ayat (1), Pasal 64 ayat (1), Pasal 67 ayat (3), Pasal 68
-
-ayat (3), Pasal 69 ayat (1), Pasal 71 ayat (4), Pasal 73
-
-ayat (1), Pasal 74 ayat (1), ayat (2), ayat (4), Pasal 76,
-
-Pasal 77 ayat (1), Pasal 79 ayat (1), ayat (5), ayat (6),
-
-ayat (7), ayat (8), Pasal 80 ayat (2), ayat (5), Pasal 81
-
-ayat (2), ayat (3), Pasal 82, Pasal 83 ayat (1), Pasal 85
-
-ayat (1), ayat (5), ayat (6), ayat (7), Pasal 86 ayat (2),
-
-ayat (5), Pasal 87 ayat (2), ayat (4), dan/atau Pasal 89,
-
-Bank BHI dikenai sanksi administratif berupa:
-
-a. larangan melakukan ekspansi kegiatan usaha;
-
-dan/atau
-
-b. pembekuan kegiatan usaha tertentu.
-
-(4) Dalam hal Bank BHI telah dikenai sanksi administratif
-
-sebagaimana dimaksud pada ayat (1) dan/atau ayat
-
-(2), dan melanggar ketentuan sebagaimana dimaksud
-
-dalam Pasal 59 ayat (2), Pasal 60, Pasal 61 ayat (1),
-
-Pasal 64 ayat (1), Pasal 67 ayat (3), Pasal 68 ayat (3),
-
-Pasal 69ayat (1), Pasal 71 ayat (4), Pasal 73 ayat (1),
-
-Pasal 74 ayat (1), ayat (2), ayat (4), Pasal 76, Pasal 77
-
-ayat (1), Pasal 79 ayat (1), ayat (5), ayat (6), ayat (7),
-
-ayat (8), Pasal 80 ayat (2), ayat (5), Pasal 81 ayat (2),
-
-ayat (3), Pasal 82, Pasal 83 ayat (1), Pasal 85 ayat (1),
-
-ayat (5), ayat (6), ayat (7), Pasal 86 ayat (2), ayat (5),
-
-Pasal 87 ayat (2), ayat (4), Pasal 89, ayat (2), dan/atau
-
-ayat (3), PSP, Direksi, Dewan Komisaris, dan/atau
-
-Pejabat Eksekutif Bank BHI dapat dikenai sanksi
-
-administratif berupa larangan sebagai pihak utama
-
-sesuai dengan Peraturan OJK mengenai penilaian
-
-kembali bagi pihak utama lembaga jasa keuangan.
-
-(5) Bank BHI yang melanggar ketentuan sebagaimana
-
-dimaksud dalam Pasal 80 ayat (1), ayat (3), ayat (4),
-
-Pasal 86 ayat (1), ayat (3), dan/atau ayat (4), dikenai
-
-sanksi administratif sesuai dengan Peraturan OJK
-
-mengenai perizinan secara elektronik di sektor jasa
-
-keuangan.
-
-
------
-
-(6) Bank BHI yang melanggar ketentuan sebagaimana
-
-dimaksud dalam Pasal 58 ayat (2), Pasal 63 ayat (4),
-
-Pasal 66 ayat (4), Pasal 67 ayat (2), Pasal 68 ayat (2),
-
-Pasal 71 ayat (5), dan/atau Pasal 74 ayat (5), dikenai
-
-sanksi administratif sesuai dengan Peraturan OJK
-
-mengenai pelaporan bank umum melalui sistem
-
-pelaporan OJK.
-
-BAB VIII
-
-PERUBAHAN NAMA DAN LOGO
-
-BANK BERBADAN HUKUM INDONESIA
-
-Bagian Kesatu
-
-Perubahan Nama Bank Berbadan Hukum Indonesia
-
-Pasal 91
+### Pasal 91 ^pasal-91
 
 (1) Perubahan nama Bank BHI wajib dilaksanakan sesuai
 
@@ -3996,7 +2817,6 @@ Bank BHI kepada masyarakat melalui:
 
 a. surat kabar harian berbahasa Indonesia;
 
-
 -----
 
 b. situs web Bank BHI; dan/atau
@@ -4019,7 +2839,7 @@ Bagian Kedua
 
 Perubahan Logo Bank Berbadan Hukum Indonesia
 
-Pasal 92
+### Pasal 92 ^pasal-92
 
 (1) Bank BHI wajib menyampaikan rencana perubahan
 
@@ -4063,10 +2883,9 @@ dimaksud pada ayat (2) dan dokumen pendukung, jika
 
 ada.
 
-
 -----
 
-Pasal 93
+### Pasal 93 ^pasal-93
 
 (1) Bank BHI yang melanggar ketentuan sebagaimana
 
@@ -4128,7 +2947,6 @@ Peraturan OJK mengenai penilaian kembali bagi pihak
 
 utama lembaga jasa keuangan.
 
-
 -----
 
 BAB IX
@@ -4137,7 +2955,7 @@ PERUBAHAN KEGIATAN USAHA DAN ANGGARAN DASAR
 
 BANK BERBADAN HUKUM INDONESIA
 
-Pasal 94
+### Pasal 94 ^pasal-94
 
 (1) Perubahan kegiatan usaha Bank BHI menjadi bank
 
@@ -4159,33 +2977,7 @@ telah menjadi bank umum yang melaksanakan
 
 kegiatan usaha berdasarkan prinsip syariah.
 
-Pasal 95
-
-Bank BHI wajib melaporkan kepada OJK setiap perubahan
-
-anggaran dasar Bank BHI paling lama 10 (sepuluh) hari
-
-kerja setelah tanggal pelaksanaan kegiatan operasional,
-
-setelah diterimanya persetujuan atau pemberitahuan
-
-perubahan anggaran dasar dari instansi yang berwenang,
-
-disertai dengan akta perubahan anggaran dasar dimaksud.
-
-Pasal 96
-
-(1) Bank BHI yang melanggar ketentuan sebagaimana
-
-dimaksud dalam Pasal 94 ayat (2) dan/atau Pasal 95
-
-dikenai sanksi administratif berupa teguran tertulis.
-
-(2) Bank BHI yang terlambat memenuhi kewajiban
-
-penyampaian laporan sebagaimana dimaksud dalam
-
-Pasal 95 dikenai sanksi administratif berupa denda
+### Pasal 95 ^pasal-95
 
 sebesar Rp1.000.000,00 (satu juta rupiah) per hari
 
@@ -4198,7 +2990,6 @@ juta rupiah).
 sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2), dan belum memenuhi ketentuan sebagaimana
-
 
 -----
 
@@ -4238,48 +3029,59 @@ PERUBAHAN BENTUK BADAN HUKUM BANK BERBADAN
 
 HUKUM INDONESIA
 
-Pasal 97
+### Pasal 96 ^pasal-96
 
-(1) Perubahan bentuk badan hukum Bank BHI wajib
+(1) Bank BHI yang melanggar ketentuan sebagaimana
 
-dilakukan dengan persetujuan OJK.
+dimaksud dalam Pasal 94 ayat (2) dan/atau Pasal 95
 
-(2) Perubahan bentuk badan hukum Bank BHI
+dikenai sanksi administratif berupa teguran tertulis.
 
-sebagaimana dimaksud pada ayat (1) hanya dapat
+(2) Bank BHI yang terlambat memenuhi kewajiban
 
-dilakukan oleh Bank BHI dengan bentuk badan
+penyampaian laporan sebagaimana dimaksud dalam
 
-hukum selain perseroan terbatas menjadi perseroan
+### Pasal 97 ^pasal-97
 
-terbatas.
+dikenai sanksi administratif berupa:
 
-(3) Perizinan perubahan bentuk badan hukum Bank BHI
+a. larangan melakukan ekspansi kegiatan usaha;
 
-sebagaimana dimaksud pada ayat (1), dilakukan
+dan/atau
 
-dalam 2 (dua) tahap:
+b. pembekuan kegiatan usaha tertentu.
 
-a. persetujuan prinsip, merupakan persetujuan
+(3) Dalam hal Bank BHI telah dikenai sanksi administratif
 
-untuk melakukan persiapan perubahan bentuk
+sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
-badan hukum Bank BHI; dan
+(2) dan melanggar ketentuan sebagaimana dimaksud
 
-b. persetujuan pengalihan izin usaha, merupakan
-
-persetujuan yang diberikan untuk mengalihkan
-
-izin usaha dari badan hukum selain perseroan
-
+dalam Pasal 97 ayat (1), Pasal 99 ayat (4), dan/atau
 
 -----
 
-terbatas kepada badan hukum perseroan
+ayat (2), PSP, Direksi, Dewan Komisaris, dan/atau
 
-terbatas.
+Pejabat Eksekutif Bank BHI dapat dikenai sanksi
 
-Pasal 98
+administratif berupa larangan sebagai pihak utama
+
+sesuai dengan Peraturan OJK mengenai penilaian
+
+kembali bagi pihak utama lembaga jasa keuangan.
+
+BAB XI
+
+KANTOR CABANG DARI BANK YANG BERKEDUDUKAN
+
+DI LUAR NEGERI
+
+Bagian Kesatu
+
+Umum
+
+### Pasal 98 ^pasal-98
 
 (1) Permohonan untuk memperoleh persetujuan prinsip
 
@@ -4345,7 +3147,6 @@ pihak sebagaimana dimaksud pada ayat (1) huruf
 
 e.
 
-
 -----
 
 (3) Persetujuan atau penolakan atas permohonan
@@ -4386,82 +3187,11 @@ persetujuan prinsip yang telah diterbitkan oleh OJK
 
 menjadi tidak berlaku.
 
-Pasal 99
+### Pasal 99 ^pasal-99
 
-(1) Permohonan untuk pengalihan izin usaha Bank dari
+ayat (1), Pasal 113 ayat (1),
 
-badan hukum sebelumnya kepada badan hukum baru
-
-sebagaimana dimaksud dalam Pasal 97 ayat (3) huruf
-
-b, diajukan oleh Bank BHI yang telah memperoleh
-
-persetujuan prinsip kepada OJK, disertai dengan:
-
-a. akta pendirian badan hukum baru termasuk
-
-anggaran dasar yang telah disahkan oleh instansi
-
-berwenang;
-
-b. pemenuhan sebagaimana dimaksud dalam Pasal
-
-98 ayat (1) huruf e dan huruf f jika terjadi
-
-perubahan; dan
-
-c. rancangan berita acara pengalihan seluruh hak
-
-dan kewajiban dari badan hukum sebelumnya
-
-kepada badan hukum baru.
-
-(2) Untuk memberikan persetujuan atau penolakan atas
-
-permohonan sebagaimana dimaksud pada ayat (1),
-
-
------
-
-OJK melakukan:
-
-a. penelitian atas kelengkapan dan kesesuaian
-
-dokumen; dan
-
-b. penilaian kemampuan dan kepatutan dalam hal
-
-terdapat penggantian atas calon PSP, Direksi dan
-
-Dewan Komisaris yang diajukan saat permohonan
-
-persetujuan prinsip.
-
-(3) Persetujuan atau penolakan atas permohonan
-
-pengalihan izin usaha dari badan hukum sebelumnya
-
-kepada badan hukum baru diberikan OJK paling lama
-
-30 (tiga puluh) hari kerja setelah dokumen
-
-permohonan diterima secara lengkap.
-
-(4) Pelaksanaan perubahan bentuk badan hukum Bank
-
-BHI wajib diumumkan melalui:
-
-a. surat kabar harian berbahasa Indonesia;
-
-b. situs web Bank BHI; dan/atau
-
-c. akun media sosial resmi Bank BHI,
-
-paling lama 5 (lima) hari kerja setelah tanggal
-
-persetujuan pengalihan izin usaha dari OJK.
-
-Pasal 100
+### Pasal 100 ^pasal-100
 
 (1) Bank BHI yang melanggar ketentuan sebagaimana
 
@@ -4477,101 +3207,65 @@ sebagaimana dimaksud pada ayat (1), dan belum
 
 memenuhi ketentuan sebagaimana dimaksud dalam
 
-Pasal 97 ayat (1) dan/atau Pasal 99 ayat (4), Bank BHI
+### Pasal 101 ^pasal-101
 
-dikenai sanksi administratif berupa:
+dalam bentuk salinan bilyet deposito pada Bank
 
-a. larangan melakukan ekspansi kegiatan usaha;
+BHI di Indonesia dan atas nama "Dewan
 
-dan/atau
+Komisioner OJK qq. KCBLN yang bersangkutan”,
 
-b. pembekuan kegiatan usaha tertentu.
+dengan mencantumkan keterangan bahwa
 
-(3) Dalam hal Bank BHI telah dikenai sanksi administratif
+pencairan dilakukan dengan persetujuan tertulis
 
-sebagaimana dimaksud pada ayat (1) dan/atau ayat
+dari OJK; dan
 
-(2) dan melanggar ketentuan sebagaimana dimaksud
+q. surat pernyataan dari kantor pusat KCBLN bahwa
 
-dalam Pasal 97 ayat (1), Pasal 99 ayat (4), dan/atau
+setoran CEMA sebagaimana dimaksud dalam
 
+huruf p tidak berasal dari dan untuk tujuan
 
------
-
-ayat (2), PSP, Direksi, Dewan Komisaris, dan/atau
-
-Pejabat Eksekutif Bank BHI dapat dikenai sanksi
-
-administratif berupa larangan sebagai pihak utama
-
-sesuai dengan Peraturan OJK mengenai penilaian
-
-kembali bagi pihak utama lembaga jasa keuangan.
-
-BAB XI
-
-KANTOR CABANG DARI BANK YANG BERKEDUDUKAN
-
-DI LUAR NEGERI
-
-Bagian Kesatu
-
-Umum
-
-Pasal 101
-
-(1) Bank yang berkantor pusat dan berkedudukan di luar
-
-negeri yang akan membuka KCBLN harus:
-
-a. memiliki kinerja dan reputasi yang baik;
-
-b. memiliki komitmen untuk berkontribusi dalam
-
-perekonomian Indonesia;
-
-c. memiliki total aset termasuk 100 (seratus) besar
-
-dunia dalam 3 (tiga) tahun terakhir; dan
-
-d. memenuhi CEMA paling sedikit
-
-Rp10.000.000.000.000,00 (sepuluh triliun
-
-rupiah).
-
-(2) OJK dapat menetapkan CEMA minimum yang berbeda
-
-dari yang ditetapkan sebagaimana pada ayat (1) huruf
-
-d dengan pertimbangan tertentu.
-
-Bagian Kedua
-
-Perizinan
-
-Pasal 102
-
-Perizinan pembukaan KCBLN dilakukan dalam 2 (dua)
-
-tahap:
-
-a. persetujuan prinsip, merupakan persetujuan untuk
-
-melakukan persiapan pembukaan KCBLN; dan
-
+pencucian uang.
 
 -----
 
-b. izin usaha, merupakan izin yang diberikan untuk
+(2) Permohonan persetujuan prinsip sebagaimana
 
-melakukan kegiatan usaha KCBLN setelah persiapan
+dimaksud pada ayat (1) diajukan dalam bahasa
 
-sebagaimana dimaksud dalam huruf a selesai
+Indonesia dan bahasa Inggris.
 
-dilakukan.
+### Pasal 102 ^pasal-102
 
-Pasal 103
+60 (enam puluh) hari kerja setelah dokumen
+
+permohonan diterima secara lengkap.
+
+(2) Untuk memberikan persetujuan atau penolakan
+
+sebagaimana dimaksud pada ayat (1), OJK
+
+melakukan:
+
+a. penelitian atas kelengkapan dan kesesuaian
+
+dokumen;
+
+b. analisis yang mencakup paling sedikit mengenai
+
+tingkat persaingan yang sehat antar bank, tingkat
+
+kejenuhan jumlah bank, dan pemerataan
+
+pembangunan ekonomi Indonesia; dan
+
+c. penilaian kemampuan dan kepatutan terhadap
+
+calon Direksi KCBLN.
+
+### Pasal 103 ^pasal-103
 
 (1) Permohonan untuk memperoleh persetujuan prinsip
 
@@ -4635,7 +3329,6 @@ g. salinan dokumen yang menyatakan tentang
 
 tingkat kesehatan bank yang berkedudukan di
 
-
 -----
 
 luar negeri selama 3 (tiga) tahun terakhir dari
@@ -4688,76 +3381,7 @@ paling sedikit 40% (empat puluh persen) dari
 
 persyaratan CEMA sebagaimana dimaksud dalam
 
-Pasal 101 ayat (1) huruf d atau Pasal 101 ayat (2)
-
-dalam bentuk salinan bilyet deposito pada Bank
-
-BHI di Indonesia dan atas nama "Dewan
-
-Komisioner OJK qq. KCBLN yang bersangkutan”,
-
-dengan mencantumkan keterangan bahwa
-
-pencairan dilakukan dengan persetujuan tertulis
-
-dari OJK; dan
-
-q. surat pernyataan dari kantor pusat KCBLN bahwa
-
-setoran CEMA sebagaimana dimaksud dalam
-
-huruf p tidak berasal dari dan untuk tujuan
-
-pencucian uang.
-
-
------
-
-(2) Permohonan persetujuan prinsip sebagaimana
-
-dimaksud pada ayat (1) diajukan dalam bahasa
-
-Indonesia dan bahasa Inggris.
-
-Pasal 104
-
-(1) Persetujuan atau penolakan atas permohonan
-
-persetujuan prinsip sebagaimana dimaksud dalam
-
-Pasal 102 huruf a diberikan oleh OJK paling lama
-
-60 (enam puluh) hari kerja setelah dokumen
-
-permohonan diterima secara lengkap.
-
-(2) Untuk memberikan persetujuan atau penolakan
-
-sebagaimana dimaksud pada ayat (1), OJK
-
-melakukan:
-
-a. penelitian atas kelengkapan dan kesesuaian
-
-dokumen;
-
-b. analisis yang mencakup paling sedikit mengenai
-
-tingkat persaingan yang sehat antar bank, tingkat
-
-kejenuhan jumlah bank, dan pemerataan
-
-pembangunan ekonomi Indonesia; dan
-
-c. penilaian kemampuan dan kepatutan terhadap
-
-calon Direksi KCBLN.
-
-Pasal 105
-
-(1) Persetujuan prinsip sebagaimana dimaksud dalam
-
-Pasal 104 berlaku untuk jangka waktu 6 (enam) bulan
+### Pasal 104 ^pasal-104
 
 terhitung sejak tanggal persetujuan prinsip
 
@@ -4783,7 +3407,6 @@ berdasarkan persetujuan OJK.
 
 prinsip belum mengajukan permohonan izin usaha
 
-
 -----
 
 kepada OJK sesuai jangka waktu sebagaimana pada
@@ -4804,7 +3427,11 @@ berupa pembatalan proses perizinan pembukaan
 
 KCBLN.
 
-Pasal 106
+### Pasal 105 ^pasal-105
+
+(1) Persetujuan prinsip sebagaimana dimaksud dalam
+
+### Pasal 106 ^pasal-106
 
 (1) Permohonan untuk memperoleh izin usaha
 
@@ -4858,7 +3485,6 @@ digunakan untuk operasional KCBLN;
 
 5) Nomor Pokok Wajib Pajak; dan
 
-
 -----
 
 6) Nomor Induk Berusaha;
@@ -4877,7 +3503,7 @@ ayat (1) diajukan dalam bahasa Indonesia dan bahasa
 
 Inggris.
 
-Pasal 107
+### Pasal 107 ^pasal-107
 
 (1) Persetujuan atau penolakan atas permohonan izin
 
@@ -4907,7 +3533,7 @@ yang diajukan pada saat permohonan
 
 persetujuan prinsip.
 
-Pasal 108
+### Pasal 108 ^pasal-108
 
 (1) KCBLN yang telah memperoleh izin usaha dari OJK
 
@@ -4928,7 +3554,6 @@ kepada OJK dengan batas waktu paling lama 10
 (sepuluh) hari kerja setelah tanggal pelaksanaan
 
 kegiatan operasional.
-
 
 -----
 
@@ -4956,7 +3581,7 @@ Jaringan Kantor dari Kantor Cabang dari Bank yang
 
 Berkedudukan di Luar Negeri
 
-Pasal 109
+### Pasal 109 ^pasal-109
 
 (1) Jaringan kantor KCBLN terdiri dari KCBLN, KCP, KF,
 
@@ -4966,7 +3591,7 @@ dan kantor di bawah KCP.
 
 dapat menyediakan TPE.
 
-Pasal 110
+### Pasal 110 ^pasal-110
 
 (1) Ketentuan mengenai jaringan kantor Bank BHI selain
 
@@ -5000,115 +3625,13 @@ kantor KCBLN selain KCBLN dan penyediaan TPE.
 
 pemindahan alamat, pembatalan pemindahan alamat,
 
-
 -----
 
 penutupan, dan/atau pembatalan penutupan kantor
 
 Bank BHI berupa KC sebagaimana dimaksud dalam
 
-Pasal 60, Pasal 64, Pasal 65, Pasal 66, Pasal 73, Pasal
-
-74, Pasal 75, Pasal 80, Pasal 82, Pasal 83, Pasal 84,
-
-Pasal 85, Pasal 88 dan Pasal 90 berlaku mutatis
-
-mutandis terhadap pembukaan, perubahan status,
-
-pemindahan alamat, pembatalan pemindahan alamat,
-
-penutupan, dan/atau pembatalan penutupan kantor
-
-di bawah KCBLN berupa KCP.
-
-(4) Ketentuan mengenai pembukaan, perubahan status,
-
-pemindahan alamat, pembatalan pemindahan alamat,
-
-penutupan, dan/atau pembatalan penutupan kantor
-
-Bank BHI berupa KCP sebagaimana dimaksud dalam
-
-Pasal 67, Pasal 73, Pasal 74, Pasal 75, Pasal 80, Pasal
-
-86, Pasal 88 dan Pasal 90 berlaku mutatis mutandis
-
-terhadap pembukaan, perubahan status, pemindahan
-
-alamat, pembatalan pemindahan alamat, penutupan,
-
-dan/atau pembatalan penutupan kantor di bawah
-
-KCBLN berupa kantor dibawah KCP.
-
-(5) Ketentuan mengenai pembukaan, perubahan status,
-
-pemindahan alamat, pembatalan pemindahan alamat,
-
-penutupan, dan/atau pembatalan penutupan kantor
-
-Bank BHI berupa KF sebagaimana dimaksud dalam
-
-Pasal 68, Pasal 75, Pasal 80, Pasal 86, Pasal 88 dan
-
-Pasal 90 berlaku mutatis mutandis terhadap
-
-pembukaan, perubahan status, pemindahan alamat,
-
-pembatalan pemindahan alamat, penutupan,
-
-dan/atau pembatalan penutupan kantor di bawah
-
-KCBLN berupa KF.
-
-(6) Ketentuan mengenai pemindahan alamat KP Bank BHI
-
-yang mengakibatkan perubahan tempat kedudukan
-
-dalam anggaran dasar sebagaimana dimaksud dalam
-
-Pasal 76, Pasal 77, Pasal 78, Pasal 79 dan Pasal 90
-
-berlaku mutatis mutandis terhadap pemindahan
-
-alamat KCBLN ke provinsi yang berbeda.
-
-(7) Ketentuan mengenai pemindahan alamat KP Bank BHI
-
-yang tidak mengakibatkan perubahan tempat
-
-
------
-
-kedudukan dalam anggaran dasar sebagaimana
-
-dimaksud dalam Pasal 80 dan Pasal 90 berlaku
-
-mutatis mutandis terhadap pemindahan alamat
-
-KCBLN dalam provinsi yang sama.
-
-(8) Ketentuan mengenai pemindahan sementara alamat
-
-kantor Bank BHI sebagaimana dimaksud dalam Pasal
-
-81 dan Pasal 90 berlaku mutatis mutandis terhadap
-
-pemindahan sementara alamat jaringan kantor
-
-KCBLN.
-
-(9) Ketentuan mengenai penutupan sementara kantor
-
-Bank BHI selain KP sebagaimana dimaksud dalam
-
-Pasal 87 dan Pasal 90 berlaku mutatis mutandis
-
-terhadap penutupan sementara jaringan kantor
-
-KCBLN selain KCBLN.
-
-Pasal 111
+### Pasal 111 ^pasal-111
 
 (1) KCBLN menetapkan kantor atau unit organisasi yang
 
@@ -5124,145 +3647,7 @@ setelah pelaksanaan penyediaan, pemindahan alamat
 
 atau pengakhiran penyediaan TPE.
 
-Pasal 112
-
-Berdasarkan pertimbangan OJK, KCBLN wajib menunda
-
-atau membatalkan rencana pembukaan, perubahan status,
-
-pemindahan alamat, pembatalan pemindahan alamat,
-
-penutupan, dan/atau pembatalan penutupan jaringan
-
-kantor KCBLN.
-
-
------
-
-Bagian Keempat
-
-Perubahan Nama, Bentuk Badan Hukum, dan Logo Kantor
-
-Cabang dari Bank yang Berkedudukan di Luar Negeri
-
-Pasal 113
-
-(1) KCBLN wajib menyampaikan perubahan nama
-
-dan/atau bentuk badan hukum kantor pusat dari
-
-KCBLN kepada OJK paling lama 30 (tiga puluh) hari
-
-kerja setelah perubahan nama dan/atau bentuk
-
-badan hukum disahkan oleh otoritas negara setempat,
-
-disertai dengan dokumen pendukung.
-
-(2) OJK memberikan penetapan penggunaan izin usaha
-
-yang dimiliki untuk KCBLN dengan nama yang baru
-
-paling lama 14 (empat belas) hari kerja setelah
-
-dokumen diterima secara lengkap.
-
-(3) KCBLN wajib mengumumkan perubahan nama
-
-dan/atau bentuk badan hukum kantor pusat dari
-
-KCBLN kepada masyarakat melalui:
-
-a. surat kabar harian berbahasa Indonesia;
-
-b. situs web KCBLN; dan/atau
-
-c. akun media sosial resmi KCBLN,
-
-paling lama 5 (lima) hari kerja sejak tanggal penetapan
-
-OJK sebagaimana dimaksud pada ayat (2).
-
-(4) Bukti pengumuman kepada masyarakat sebagaimana
-
-dimaksud pada ayat (3) wajib disampaikan kepada
-
-OJK paling lama 10 (sepuluh) hari kerja sejak tanggal
-
-pengumuman.
-
-Pasal 114
-
-(1) KCBLN wajib mengumumkan perubahan logo kepada
-
-masyarakat melalui:
-
-a. surat kabar harian berbahasa Indonesia;
-
-b. situs web KCBLN; dan/atau
-
-c. akun media sosial resmi KCBLN,
-
-paling lama 5 (lima) hari kerja setelah tanggal efektif
-
-perubahan logo di Indonesia.
-
-
------
-
-(2) KCBLN wajib menginformasikan pelaksanaan
-
-perubahan logo kepada OJK paling lama 10 (sepuluh)
-
-hari kerja sejak tanggal efektif perubahan logo di
-
-Indonesia sebagaimana dimaksud pada ayat (1).
-
-(3) Penyampaian informasi sebagaimana dimaksud pada
-
-ayat (2) wajib disertai dengan bukti pengumuman
-
-kepada masyarakat sebagaimana dimaksud pada ayat
-
-(1) dan dokumen pendukung.
-
-Pasal 115
-
-(1) KCBLN yang melanggar ketentuan sebagaimana diatur
-
-dalam Pasal 108 ayat (2), Pasal 111 ayat (2), Pasal 112,
-
-Pasal 113 ayat (1), ayat (3), ayat (4), dan/atau Pasal
-
-114 dikenai sanksi administratif berupa teguran
-
-tertulis.
-
-(2) KCBLN yang terlambat memenuhi kewajiban
-
-penyampaian laporan, informasi, atau bukti
-
-pengumuman sebagaimana dimaksud dalam Pasal
-
-108 ayat (2), Pasal 113 ayat (1), ayat (4), dan/atau
-
-Pasal 114 ayat (2) dikenai sanksi administratif berupa
-
-denda sebesar Rp1.000.000,00 (satu juta rupiah) per
-
-hari kerja dan paling banyak Rp30.000.000,00 (tiga
-
-puluh juta rupiah).
-
-(3) Dalam hal KCBLN telah dikenai sanksi administratif
-
-sebagaimana dimaksud pada ayat (1) dan/atau ayat
-
-(2), dan belum memenuhi ketentuan sebagaimana
-
-dimaksud dalam Pasal 108 ayat (2), Pasal 111 ayat (2),
-
-Pasal 112, Pasal 113 ayat (1), ayat (3), ayat (4),
+### Pasal 112 ^pasal-112
 
 dan/atau Pasal 114, KCBLN dikenai sanksi
 
@@ -5282,10 +3667,9 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 dalam Pasal 108 ayat (2), Pasal 111 ayat (2), Pasal 112,
 
-
 -----
 
-Pasal 113 ayat (1), ayat (3), ayat (4), Pasal 114, ayat
+### Pasal 113 ^pasal-113
 
 (2), dan/atau ayat (3), Direksi dan/atau Pejabat
 
@@ -5303,181 +3687,53 @@ KANTOR PERWAKILAN DARI BANK YANG
 
 BERKEDUDUKAN DI LUAR NEGERI
 
-Pasal 116
+### Pasal 114 ^pasal-114
 
-(1) Bank yang berkantor pusat dan berkedudukan di luar
+denda sebesar Rp1.000.000,00 (satu juta rupiah) per
 
-negeri yang akan membuka KPBLN harus:
+hari kerja dan paling banyak Rp30.000.000,00 (tiga
 
-a. memiliki kinerja dan reputasi yang baik;
+puluh juta rupiah).
 
-b. memiliki komitmen untuk berkontribusi dalam
+(3) Dalam hal KCBLN telah dikenai sanksi administratif
 
-perekonomian Indonesia;
+sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
-c. memiliki total aset termasuk 200 (dua ratus)
+(2), dan belum memenuhi ketentuan sebagaimana
 
-besar dunia dalam 3 (tiga) tahun terakhir; dan
+dimaksud dalam Pasal 108 ayat (2), Pasal 111 ayat (2),
 
-d. menempatkan deposito atas nama “Dewan
+### Pasal 115 ^pasal-115
 
-Komisioner OJK qq. KPBLN” di Bank BHI paling
+(1) KCBLN yang melanggar ketentuan sebagaimana diatur
 
-sedikit Rp3.000.000.000.000,00 (tiga triliun
+dalam Pasal 108 ayat (2), Pasal 111 ayat (2), Pasal 112,
 
-rupiah), dengan mencantumkan keterangan
+### Pasal 116 ^pasal-116
 
-bahwa pencairan dilakukan pada saat penutupan
+ayat (1), Pasal 129 ayat (1), Pasal 132 ayat (1),
 
-KPBLN dan dengan persetujuan tertulis dari OJK.
+dan/atau Pasal 134 ayat (1), disampaikan melalui
 
-(2) Permohonan untuk memperoleh izin pembukaan
+sistem perizinan OJK dengan tata cara sesuai
 
-KPBLN sebagaimana dimaksud pada ayat (1) diajukan
+dengan Peraturan OJK mengenai perizinan secara
 
-oleh pejabat berwenang bank yang berkedudukan di
+elektronik di sektor jasa keuangan; atau
 
-luar negeri kepada OJK, disertai dengan:
+b. pelaporan pelaksanaan sebagaimana dimaksud
 
-a. tujuan pembukaan KPBLN di Indonesia;
+dalam Pasal 53 ayat (1), Pasal 58 ayat (2), Pasal
 
-b. salinan akta pendirian badan hukum bank yang
+63 ayat (4), Pasal 66 ayat (4), Pasal 67 ayat (2),
 
-berkedudukan di luar negeri, termasuk anggaran
-
-dasar yang telah disahkan oleh instansi
-
-berwenang di negara setempat, disertai dengan
-
-terjemahannya dalam bahasa Indonesia atau
-
-bahasa Inggris;
-
-
------
-
-c. salinan dokumen dan/atau informasi resmi
-
-terkait izin usaha bank yang berkedudukan di
-
-luar negeri yang dikeluarkan oleh otoritas negara
-
-setempat;
-
-d. salinan dokumen yang menyatakan bahwa bank
-
-yang berkedudukan di luar negeri:
-
-1) memiliki kinerja dan reputasi baik; dan
-
-2) memiliki total aset termasuk 200 (dua ratus)
-
-besar dunia dalam 3 (tiga) tahun terakhir;
-
-e. salinan dokumen dan/atau persetujuan dari
-
-otoritas perbankan tempat kantor pusat bank
-
-untuk membuka KPBLN di Indonesia;
-
-f. laporan keuangan konsolidasi 3 (tiga) tahun
-
-terakhir dari bank yang berkedudukan di luar
-
-negeri, yang telah diaudit oleh kantor akuntan
-
-publik internasional yang independen;
-
-g. laporan keuangan terkini dari bank yang
-
-berkedudukan di luar negeri;
-
-h. calon pemimpin KPBLN disertai dengan
-
-pemenuhan dokumen persyaratan administratif
-
-sesuai dengan ketentuan OJK mengenai penilaian
-
-kemampuan dan kepatutan bagi pihak utama
-
-lembaga jasa keuangan;
-
-i. rencana susunan dan struktur organisasi serta
-
-sumber daya manusia KPBLN;
-
-j. surat pernyataan dari pejabat berwenang bank
-
-yang berkedudukan di luar negeri yang
-
-menyatakan komitmen KPBLN untuk
-
-berkontribusi dalam perekonomian Indonesia;
-
-k. rencana kerja KPBLN dalam jangka waktu 1 (satu)
-
-tahun pertama;
-
-l. daftar nasabah atau calon nasabah bank yang
-
-berkedudukan di luar negeri di Indonesia beserta
-
-rincian portofolio kredit;
-
-m. daftar nama bank koresponden di Indonesia; dan
-
-n. salinan bilyet deposito sebagaimana dimaksud
-
-pada ayat (1) huruf d.
-
-
------
-
-(3) Permohonan untuk memperoleh izin pembukaan
-
-KPBLN sebagaimana dimaksud pada ayat (2) diajukan
-
-dalam bahasa Indonesia dan bahasa Inggris.
-
-Pasal 117
+### Pasal 117 ^pasal-117
 
 (1) Persetujuan atau penolakan atas permohonan izin
 
 pembukaan KPBLN sebagaimana dimaksud dalam
 
-Pasal 116 diberikan OJK paling lama 30 (tiga puluh)
-
-hari kerja setelah dokumen permohonan diterima
-
-secara lengkap.
-
-(2) Untuk memberikan persetujuan atau penolakan
-
-sebagaimana dimaksud pada ayat (1), OJK
-
-melakukan:
-
-a. penelitian atas kelengkapan dan kesesuaian
-
-dokumen; dan
-
-b. penilaian kemampuan dan kepatutan terhadap
-
-calon pemimpin KPBLN.
-
-(3) Dalam hal KPBLN yang telah memperoleh izin
-
-pembukaan belum melakukan kegiatan sebagai
-
-KPBLN dalam waktu 60 (enam puluh) hari kerja sejak
-
-tanggal izin pembukaan dari OJK, izin pembukaan
-
-KPBLN yang telah diterbitkan oleh OJK menjadi tidak
-
-berlaku.
-
-Pasal 118
+### Pasal 118 ^pasal-118
 
 (1) Kegiatan yang dapat dilakukan oleh KPBLN:
 
@@ -5502,7 +3758,6 @@ menghubungi instansi atau lembaga guna
 keperluan kantor pusat atau kantor cabang di
 
 luar negeri;
-
 
 -----
 
@@ -5560,7 +3815,7 @@ keuangan; dan
 
 b. penutupan KPBLN.
 
-Pasal 119
+### Pasal 119 ^pasal-119
 
 (1) KPBLN wajib menyampaikan laporan kepada OJK
 
@@ -5578,83 +3833,9 @@ September, dan bulan Desember, wajib disampaikan
 
 paling lama 5 (lima) hari kerja bulan berikutnya.
 
-
 -----
 
-Pasal 120
-
-(1) KPBLN wajib menyampaikan rencana kerja untuk 1
-
-(satu) tahun ke depan kepada OJK.
-
-(2) Rencana kerja KPBLN sebagaimana dimaksud pada
-
-ayat (1) memuat rincian kegiatan yang akan dilakukan
-
-KPBLN untuk 1 (satu) tahun ke depan dengan
-
-mengacu pada kegiatan KPBLN sebagaimana
-
-dimaksud dalam Pasal 118 ayat (1).
-
-(3) KPBLN wajib menyampaikan rencana kerja
-
-sebagaimana dimaksud pada ayat (1) yang
-
-ditandatangani oleh pemimpin KPBLN kepada OJK
-
-paling lambat akhir bulan November.
-
-Pasal 121
-
-KPBLN wajib melaporkan pemindahan alamat KPBLN
-
-kepada OJK paling lama 10 (sepuluh) hari kerja setelah
-
-tanggal efektif pelaksanaan pemindahan alamat KPBLN.
-
-Pasal 122
-
-(1) Pemimpin KPBLN wajib menyampaikan perubahan
-
-nama dan/atau bentuk badan hukum kantor pusat
-
-dari KPBLN kepada OJK paling lama 30 (tiga puluh)
-
-hari kerja setelah perubahan nama dan/atau bentuk
-
-badan hukum disahkan oleh otoritas negara setempat,
-
-disertai dengan dokumen pendukung.
-
-(2) OJK memberikan penetapan nama KPBLN dengan
-
-nama yang baru paling lama 14 (empat belas) hari
-
-kerja setelah dokumen pendukung diterima secara
-
-lengkap.
-
-Pasal 123
-
-(1) KPBLN yang melanggar ketentuan sebagaimana
-
-dimaksud dalam Pasal 119, Pasal 120 ayat (1), ayat
-
-(3), Pasal 121, dan/atau Pasal 122 ayat (1) dikenai
-
-sanksi administratif berupa teguran tertulis.
-
-(2) KPBLN yang terlambat memenuhi kewajiban
-
-penyampaian laporan, infomasi, atau dokumen
-
-
------
-
-sebagaimana dimaksud dalam Pasal 119 ayat (2),
-
-Pasal 120 ayat (3), Pasal 121, dan/atau Pasal 122 ayat
+### Pasal 120 ^pasal-120
 
 (1) dikenai sanksi administratif berupa denda sebesar
 
@@ -5712,14 +3893,61 @@ Bagian Kesatu
 
 Umum
 
-Pasal 124
+### Pasal 121 ^pasal-121
+
+KPBLN wajib melaporkan pemindahan alamat KPBLN
+
+kepada OJK paling lama 10 (sepuluh) hari kerja setelah
+
+tanggal efektif pelaksanaan pemindahan alamat KPBLN.
+
+### Pasal 122 ^pasal-122
+
+(1) Pemimpin KPBLN wajib menyampaikan perubahan
+
+nama dan/atau bentuk badan hukum kantor pusat
+
+dari KPBLN kepada OJK paling lama 30 (tiga puluh)
+
+hari kerja setelah perubahan nama dan/atau bentuk
+
+badan hukum disahkan oleh otoritas negara setempat,
+
+disertai dengan dokumen pendukung.
+
+(2) OJK memberikan penetapan nama KPBLN dengan
+
+nama yang baru paling lama 14 (empat belas) hari
+
+kerja setelah dokumen pendukung diterima secara
+
+lengkap.
+
+### Pasal 123 ^pasal-123
+
+(1) KPBLN yang melanggar ketentuan sebagaimana
+
+dimaksud dalam Pasal 119, Pasal 120 ayat (1), ayat
+
+(3), Pasal 121, dan/atau Pasal 122 ayat (1) dikenai
+
+sanksi administratif berupa teguran tertulis.
+
+(2) KPBLN yang terlambat memenuhi kewajiban
+
+penyampaian laporan, infomasi, atau dokumen
+
+-----
+
+sebagaimana dimaksud dalam Pasal 119 ayat (2),
+
+### Pasal 124 ^pasal-124
 
 (1) OJK melakukan pencabutan izin usaha Bank BHI atau
 
 pencabutan izin usaha KCBLN atau penutupan
 
 KPBLN.
-
 
 -----
 
@@ -5759,7 +3987,7 @@ d. sebagai tindak lanjut resolusi Bank BHI atau
 
 KCBLN oleh otoritas yang berwenang.
 
-Pasal 125
+### Pasal 125 ^pasal-125
 
 Dalam hal bank BHI atau KCBLN memenuhi persyaratan:
 
@@ -5775,7 +4003,7 @@ pencabutan izin usaha KCBLN sebagaimana dimaksud
 
 dalam Pasal 124 ayat (2) huruf a angka 1) dan huruf b.
 
-Pasal 126
+### Pasal 126 ^pasal-126
 
 (1) Pencabutan izin usaha bagi Bank BHI atau
 
@@ -5790,7 +4018,6 @@ a. persetujuan persiapan pencabutan izin usaha;
 dan
 
 b. keputusan pencabutan izin usaha.
-
 
 -----
 
@@ -5810,7 +4037,7 @@ atau Pencabutan Izin Usaha Kantor Cabang dari Bank yang
 
 Berkedudukan di Luar Negeri
 
-Pasal 127
+### Pasal 127 ^pasal-127
 
 (1) Direksi Bank BHI atau pemimpin KCBLN mengajukan
 
@@ -5862,14 +4089,13 @@ pemeriksaan instansi perpajakan untuk 3 (tiga)
 
 tahun terakhir sebelum tanggal permohonan.
 
-
 -----
 
 (2) OJK dapat meminta dokumen lain selain sebagaimana
 
 dimaksud pada ayat (1).
 
-Pasal 128
+### Pasal 128 ^pasal-128
 
 (1) Berdasarkan permohonan sebagaimana dimaksud
 
@@ -5937,154 +4163,27 @@ dapat dilakukan setelah keputusan pencabutan izin
 
 usaha KCBLN dikeluarkan oleh OJK, KCBLN dapat
 
-
 -----
 
 membentuk tim penyelesai.
 
-Pasal 129
-
-(1) Dalam hal seluruh hak dan kewajiban Bank BHI atau
-
-KCBLN sebagaimana dimaksud dalam Pasal 128 ayat
-
-(1) huruf c dan ayat (2) telah diselesaikan, Direksi
-
-Bank BHI atau Direksi KCBLN mengajukan
-
-permohonan pencabutan izin usaha Bank BHI atau
-
-KCBLN kepada OJK, disertai dengan dokumen yang
-
-paling sedikit memuat:
-
-a. laporan pelaksanaan penghentian kegiatan usaha
-
-Bank BHI atau KCBLN;
-
-b. pelaksanaan pengumuman sebagaimana
-
-dimaksud dalam Pasal 128 ayat (1) huruf b;
-
-c. laporan pelaksanaan penyelesaian hak dan
-
-kewajiban Bank BHI atau KCBLN, termasuk
-
-penyelesaian yang berupa skema penyelesaian
-
-bagi KCBLN;
-
-d. laporan hasil verifikasi dari kantor akuntan
-
-publik atas penyelesaian hak dan kewajiban Bank
-
-BHI atau KCBLN sebagaimana dimaksud dalam
-
-huruf c; dan
-
-e. surat pernyataan dari:
-
-1) pemegang saham bahwa langkah-langkah
-
-penyelesaian kewajiban Bank BHI telah
-
-diselesaikan dan apabila terdapat tuntutan
-
-dikemudian hari, penyelesaian kewajiban
-
-Bank BHI menjadi tanggung jawab pemegang
-
-saham; atau
-
-2) pejabat berwenang kantor pusat KCBLN
-
-bahwa:
-
-a) langkah-langkah penyelesaian
-
-kewajiban KCBLN telah diselesaikan
-
-termasuk langkah penyelesaian berupa
-
-skema penyelesaian; dan
-
-b) apabila terdapat tuntutan dikemudian
-
-hari menjadi tanggung jawab kantor
-
-
------
-
-pusat KCBLN; dan
-
-3) kantor akuntan publik yang menyatakan
-
-berdasarkan hasil verifikasi hak dan
-
-kewajiban Bank BHI atau KCBLN
-
-sebagaimana dimaksud dalam huruf d telah
-
-diselesaikan.
-
-(2) Berdasarkan permohonan pencabutan izin usaha
-
-sebagaimana dimaksud pada ayat (1), OJK melakukan
-
-penelitian atas kelengkapan dan kesesuaian dokumen
-
-sebagaimana dimaksud pada ayat (1).
-
-(3) OJK menerbitkan keputusan pencabutan izin usaha
-
-Bank BHI atau KCBLN paling lama 30 (tiga puluh) hari
-
-kerja setelah dokumen sebagaimana dimaksud pada
-
-ayat (1) diterima secara lengkap.
-
-(4) Setelah OJK menerbitkan keputusan pencabutan izin
-
-usaha Bank BHI atau KCBLN sebagaimana dimaksud
-
-pada ayat (3):
-
-a. Bank BHI melaksanakan proses pembubaran
-
-badan hukum sesuai dengan ketentuan
-
-peraturan perundangan-undangan; atau
-
-b. KCBLN melaksanakan proses penutupan KCBLN.
-
-(5) Sejak tanggal pencabutan izin usaha diterbitkan OJK,
-
-apabila dikemudian hari masih terdapat kewajiban
-
-yang belum diselesaikan, kewajiban dimaksud menjadi
-
-tanggung jawab pemegang saham Bank BHI atau
-
-kantor pusat KCBLN.
-
-Pasal 130
-
-Badan hukum Bank BHI sebagaimana dimaksud dalam
-
-Pasal 129 ayat (4) huruf a berakhir sejak tanggal
+### Pasal 129 ^pasal-129
 
 pengumuman status badan hukum Bank BHI berakhir
 
 sesuai dengan ketentuan peraturan perundang-undangan.
 
-Pasal 131
+### Pasal 130 ^pasal-130
+
+Badan hukum Bank BHI sebagaimana dimaksud dalam
+
+### Pasal 131 ^pasal-131
 
 Status izin usaha KCBLN berakhir sejak tanggal keputusan
 
 OJK mengenai pencabutan izin usaha KCBLN sebagaimana
 
 dimaksud dalam Pasal 129 ayat (3).
-
 
 -----
 
@@ -6094,7 +4193,7 @@ Penutupan Kantor Perwakilan dari Bank yang
 
 Berkedudukan di Luar Negeri
 
-Pasal 132
+### Pasal 132 ^pasal-132
 
 (1) Pejabat yang berwenang di kantor pusat KPBLN
 
@@ -6148,14 +4247,13 @@ termasuk langkah penyelesaian berupa skema
 
 penyelesaian.
 
-
 -----
 
 Bagian Ketiga
 
 Pencabutan Izin Usaha sebagai Tindakan Resolusi Bank
 
-Pasal 133
+### Pasal 133 ^pasal-133
 
 (1) OJK melakukan pencabutan izin usaha Bank BHI atau
 
@@ -6187,7 +4285,7 @@ Kantor Perwakilan dari Bank yang Berkedudukan di Luar
 
 Negeri oleh Otoritas Negara Setempat
 
-Pasal 134
+### Pasal 134 ^pasal-134
 
 (1) KCBLN atau KPBLN wajib menginformasikan kepada
 
@@ -6219,7 +4317,6 @@ termasuk seluruh jaringan kantor di
 
 bawahnya;
 
-
 -----
 
 2) menyelesaikan seluruh hak dan kewajiban;
@@ -6250,7 +4347,7 @@ Bagian Kelima
 
 Tim Penyelesai
 
-Pasal 135
+### Pasal 135 ^pasal-135
 
 (1) KCBLN yang membentuk tim penyelesai sebagaimana
 
@@ -6284,14 +4381,13 @@ dalam jangka waktu sebagaimana dimaksud pada ayat
 
 (3), penyelesaian dilakukan oleh kantor pusat KCBLN.
 
-
 -----
 
 Bagian Keenam
 
 Tindak Lanjut Pencabutan Izin Usaha
 
-Pasal 136
+### Pasal 136 ^pasal-136
 
 Terhadap Bank BHI yang dicabut izin usaha berupa
 
@@ -6301,7 +4397,7 @@ ketentuan peraturan perundang-undangan di sektor pasar
 
 modal.
 
-Pasal 137
+### Pasal 137 ^pasal-137
 
 (1) OJK mengumumkan pencabutan izin usaha Bank BHI
 
@@ -6339,7 +4435,7 @@ kantor pusat KCBLN atau KPBLN dicabut atau
 
 dilikuidasi oleh otoritas negara setempat.
 
-Pasal 138
+### Pasal 138 ^pasal-138
 
 OJK melakukan pengawasan atas kegiatan atau tindak
 
@@ -6353,89 +4449,9 @@ termasuk pengawasan terhadap kegiatan tim penyelesai
 
 bagi KCBLN.
 
-
 -----
 
-Pasal 139
-
-(1) Bank BHI wajib menyampaikan kepada OJK neraca
-
-penutupan Bank BHI yang telah diaudit oleh akuntan
-
-publik paling lama 10 (sepuluh) hari kerja sejak
-
-tanggal keputusan pencabutan izin usaha dari OJK.
-
-(2) Pihak yang berwenang mewakili kantor pusat KCBLN
-
-wajib menyampaikan laporan pelaksanaan penutupan
-
-sebagaimana dimaksud dalam Pasal 129 ayat (4) huruf
-
-b kepada OJK disertai dengan neraca penutupan
-
-KCBLN yang telah diaudit oleh akuntan publik paling
-
-lama 10 (sepuluh) hari kerja setelah tanggal
-
-keputusan pencabutan izin usaha dari OJK.
-
-(3) Dalam hal penyelesaian hak dan kewajiban KCBLN
-
-dilakukan oleh tim penyelesai, neraca penutupan
-
-KCBLN sebagaimana dimaksud pada ayat (2) termasuk
-
-memuat daftar pos keuangan yang akan diselesaikan
-
-oleh tim penyelesai.
-
-(4) Laporan pelaksanaan penutupan KPBLN yang telah
-
-memperoleh persetujuan OJK sebagaimana dimaksud
-
-dalam Pasal 132 ayat (2) wajib disampaikan oleh pihak
-
-yang berwenang mewakili kantor pusat KPBLN kepada
-
-OJK paling lama 10 (sepuluh) hari kerja setelah
-
-tanggal keputusan penutupan KPBLN oleh OJK,
-
-disertai dengan dokumen daftar kewajiban KPBLN
-
-yang termasuk dalam skema penyelesaian.
-
-(5) OJK dapat meminta dokumen lain selain sebagaimana
-
-dimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (4).
-
-Pasal 140
-
-(1) Sejak tanggal pencabutan izin usaha, Direksi Bank
-
-BHI atau Direksi KCBLN dilarang melakukan
-
-perbuatan hukum berkaitan dengan hak dan
-
-kewajiban Bank BHI atau KCBLN.
-
-(2) Sejak tanggal keputusan penutupan, KPBLN dilarang
-
-melakukan kegiatan KPBLN.
-
-
------
-
-Pasal 141
-
-(1) Bank BHI, KCBLN, atau KPBLN yang melanggar
-
-ketentuan sebagaimana dimaksud dalam Pasal 128
-
-ayat (1), Pasal 134 ayat (1), ayat (3), Pasal 135 ayat (1),
-
-Pasal 139 ayat (1), ayat (2), ayat (4), dan/atau Pasal
+### Pasal 139 ^pasal-139
 
 140 dikenai sanksi administratif berupa teguran
 
@@ -6467,7 +4483,31 @@ BAB XIV
 
 SINERGI PERBANKAN
 
-Pasal 142
+### Pasal 140 ^pasal-140
+
+(1) Sejak tanggal pencabutan izin usaha, Direksi Bank
+
+BHI atau Direksi KCBLN dilarang melakukan
+
+perbuatan hukum berkaitan dengan hak dan
+
+kewajiban Bank BHI atau KCBLN.
+
+(2) Sejak tanggal keputusan penutupan, KPBLN dilarang
+
+melakukan kegiatan KPBLN.
+
+-----
+
+### Pasal 141 ^pasal-141
+
+(1) Bank BHI, KCBLN, atau KPBLN yang melanggar
+
+ketentuan sebagaimana dimaksud dalam Pasal 128
+
+ayat (1), Pasal 134 ayat (1), ayat (3), Pasal 135 ayat (1),
+
+### Pasal 142 ^pasal-142
 
 (1) Bank BHI dapat melakukan Sinergi Perbankan.
 
@@ -6496,7 +4536,6 @@ untuk pengembangan perbankan syariah.
 (4) Sinergi Perbankan sebagaimana dimaksud pada ayat
 
 (1) meliputi sinergi:
-
 
 -----
 
@@ -6534,179 +4573,7 @@ lembaga jasa keuangan nonbank sebagai
 
 perusahaan anak.
 
-Pasal 143
-
-(1) Dalam melaksanakan Sinergi Perbankan sebagaimana
-
-dimaksud dalam Pasal 142, kedua belah pihak harus
-
-membuat perjanjian kerja sama secara tertulis.
-
-(2) Perjanjian kerja sama sebagaimana dimaksud pada
-
-ayat (1) paling sedikit mencakup:
-
-a. pihak yang melakukan kerja sama;
-
-b. tujuan dan ruang lingkup kerja sama;
-
-c. jangka waktu perjanjian kerja sama; dan
-
-d. hak dan kewajiban setiap pihak paling sedikit
-
-mengenai:
-
-1) kewajiban kedua belah pihak untuk menjaga
-
-kerahasiaan dan keamanan informasi (non
-
-_disclosure agreement), termasuk kerahasiaan_
-
-dan keamanan informasi untuk keperluan
-
-perlindungan data nasabah;
-
-2) tanggung jawab atas kerugian, dalam hal
-
-terjadi kegagalan sistem, _fraud, dan/atau_
-
-kegagalan dari faktor internal dan eksternal
-
-
------
-
-lain;
-
-3) mitigasi risiko termasuk dalam hal terjadi
-
-penghentian kerja sama sebelum jatuh
-
-tempo;
-
-4) penanganan pengaduan nasabah, dalam hal
-
-sinergi berhubungan dengan nasabah secara
-
-langsung;
-
-5) aspek alih pengetahuan, dalam hal sinergi
-
-melibatkan sumber daya manusia dari pihak
-
-yang melakukan sinergi; dan
-
-6) pengelolaan dan pemeliharaan dokumentasi
-
-dari aktivitas atau ruang lingkup yang
-
-dilakukan kerjasama.
-
-(3) Perjanjian kerja sama disusun oleh kedua belah pihak
-
-disertai dengan dokumen dari pejabat satuan kerja
-
-kepatuhan yang berwenang yang menyatakan bahwa
-
-Sinergi Perbankan telah memenuhi aspek
-
-sebagaimana dimaksud pada ayat (2).
-
-(4) Sinergi Perbankan yang dituangkan dalam perjanjian
-
-kerja sama secara tertulis sebagaimana dimaksud
-
-pada ayat (1) didasarkan pada hubungan kerja sama
-
-secara wajar.
-
-(5) Pihak yang menerima manfaat bertanggung jawab atas
-
-risiko yang timbul atas keputusan bisnis, layanan,
-
-dan/atau operasional dari pelaksanaan Sinergi
-
-Perbankan.
-
-(6) Kedua belah pihak wajib memastikan bahwa
-
-pelaksanaan Sinergi Perbankan sesuai dengan
-
-perjanjian kerja sama.
-
-(7) Sinergi terkait dengan penyediaan jasa teknologi
-
-informasi:
-
-a. penyediaan jasa teknologi informasi selain
-
-aplikasi terhadap pihak sebagaimana dimaksud
-
-dalam Pasal 142 ayat (4); dan
-
-b. penyediaan jasa teknologi informasi berupa
-
-aplikasi terhadap pihak sebagaimana dimaksud
-
-dalam Pasal 142 ayat (4) huruf a dan huruf b,
-
-
------
-
-dikecualikan dari persetujuan OJK sesuai dengan
-
-ketentuan OJK mengenai penerapan manajemen risiko
-
-dalam penggunaan teknologi informasi oleh bank
-
-umum.
-
-Pasal 144
-
-(1) Pihak yang bersinergi wajib menyampaikan salinan
-
-perjanjian kerja sama kepada OJK paling lama 5 (lima)
-
-hari kerja sejak tanggal perjanjian kerja sama.
-
-(2) Pelaksanaan Sinergi Perbankan oleh Bank BHI dengan
-
-bank umum yang melaksanakan kegiatan usaha
-
-berdasarkan prinsip syariah atau Bank BHI yang
-
-memiliki unit usaha syariah, wajib disertai dengan
-
-opini dewan pengawas syariah.
-
-(3) Dalam hal terdapat perubahan dari perjanjian kerja
-
-sama, Bank BHI wajib melaporkan kepada OJK paling
-
-lama 5 (lima) hari kerja sejak tanggal perubahan
-
-perjanjian kerja sama disertai dengan salinan
-
-perubahan perjanjian kerja sama.
-
-(4) Dalam hal akan terdapat penghentian kerja sama
-
-sebelum jangka waktu perjanjian kerja sama selesai,
-
-Bank BHI wajib melaporkan kepada OJK paling lama
-
-30 (tiga puluh) hari kerja sebelum tanggal efektif
-
-penghentian perjanjian kerja sama.
-
-Pasal 145
-
-(1) Bank BHI dan/atau bank umum yang melaksanakan
-
-kegiatan usaha berdasarkan prinsip syariah yang
-
-melanggar ketentuan sebagaimana dimaksud dalam
-
-Pasal 143 ayat (6) dan/atau Pasal 144 dikenai sanksi
+### Pasal 143 ^pasal-143
 
 administratif berupa teguran tertulis.
 
@@ -6718,10 +4585,9 @@ terlambat memenuhi kewajiban penyampaian
 
 dokumen atau laporan sebagaimana dimaksud dalam
 
-Pasal 144 ayat (1), ayat (3), dan/atau ayat (4), dikenai
+### Pasal 144 ^pasal-144
 
 sanksi administratif berupa denda sebesar
-
 
 -----
 
@@ -6785,14 +4651,21 @@ penilaian kembali bagi pihak utama lembaga jasa
 
 keuangan.
 
-
 -----
 
 BAB XV
 
 PENYAMPAIAN PERIZINAN DAN LAPORAN
 
-Pasal 146
+### Pasal 145 ^pasal-145
+
+(1) Bank BHI dan/atau bank umum yang melaksanakan
+
+kegiatan usaha berdasarkan prinsip syariah yang
+
+melanggar ketentuan sebagaimana dimaksud dalam
+
+### Pasal 146 ^pasal-146
 
 (1) Penyampaian terkait:
 
@@ -6810,82 +4683,7 @@ ayat (2), Pasal 77 ayat (2), Pasal 79 ayat (6), Pasal
 
 80 ayat (1), ayat (3), ayat (4), Pasal 83 ayat (2),
 
-Pasal 85 ayat (6), Pasal 86 ayat (1), ayat (3), ayat
-
-(4), Pasal 91 ayat (2), ayat (3), Pasal 98 ayat (1),
-
-Pasal 99 ayat (1), Pasal 103 ayat (1), Pasal 106
-
-ayat (1), Pasal 113 ayat (1),
-
-Pasal 116 ayat (2), Pasal 122 ayat (1), Pasal 127
-
-ayat (1), Pasal 129 ayat (1), Pasal 132 ayat (1),
-
-dan/atau Pasal 134 ayat (1), disampaikan melalui
-
-sistem perizinan OJK dengan tata cara sesuai
-
-dengan Peraturan OJK mengenai perizinan secara
-
-elektronik di sektor jasa keuangan; atau
-
-b. pelaporan pelaksanaan sebagaimana dimaksud
-
-dalam Pasal 53 ayat (1), Pasal 58 ayat (2), Pasal
-
-63 ayat (4), Pasal 66 ayat (4), Pasal 67 ayat (2),
-
-Pasal 68 ayat (2), Pasal 71 ayat (5), Pasal 74 ayat
-
-(5), dan/atau Pasal 111 ayat (2), disampaikan
-
-melalui sistem pelaporan OJK dengan tata cara
-
-sesuai dengan Peraturan OJK mengenai
-
-pelaporan bank umum melalui sistem pelaporan
-
-OJK, dan jangka waktu pelaporan disesuaikan
-
-pada periode laporan dimana pelaksanaan
-
-aktivitas yang dilaporkan telah terealisasi efektif.
-
-(2) Penyampaian terkait:
-
-a. informasi dan/atau data selain sebagaimana
-
-dimaksud pada ayat (1); atau
-
-
------
-
-b. dalam hal sistem perizinan dan/atau sistem
-
-pelaporan sebagaimana dimaksud pada ayat (1)
-
-belum tersedia atau terdapat keadaan kahar,
-
-dilakukan melalui sistem persuratan OJK.
-
-(3) Dalam hal sistem persuratan OJK sebagaimana
-
-dimaksud pada ayat (2) terdapat keadaan kahar,
-
-penyampaian dilakukan secara luring kepada OJK.
-
-(4) Mekanisme penyampaian daring dan luring mengacu
-
-pada lampiran yang merupakan bagian tidak
-
-terpisahkan dari Peraturan OJK ini.
-
-BAB XVI
-
-PENGELOMPOKAN BANK
-
-Pasal 147
+### Pasal 147 ^pasal-147
 
 (1) Berdasarkan Modal Inti yang dimiliki, bank
 
@@ -6931,7 +4729,6 @@ KCBLN, bank umum yang melaksanakan kegiatan
 
 usaha secara syariah, dan unit usaha syariah Bank
 
-
 -----
 
 sebagaimana dimaksud dalam Undang-Undang
@@ -6942,7 +4739,7 @@ mengenai perbankan syariah.
 
 Modal Inti Bank yang menjadi induk.
 
-Pasal 148
+### Pasal 148 ^pasal-148
 
 (1) Dalam hal diperlukan, OJK dapat menetapkan
 
@@ -6962,7 +4759,7 @@ BAB XVII
 
 KETENTUAN LAIN-LAIN
 
-Pasal 149
+### Pasal 149 ^pasal-149
 
 (1) Bank BHI atau KCBLN dapat mempertahankan
 
@@ -7002,38 +4799,69 @@ KCP bagi Bank BHI atau kantor di bawah KCP bagi
 
 KCBLN sebagaimana dimaksud pada ayat (2),
 
-
 -----
 
 disesuaikan dengan rencana penyesuaian penamaan
 
 dari Bank BHI atau KCBLN.
 
-Pasal 150
+### Pasal 150 ^pasal-150
 
-(1) Bank BHI wajib menyampaikan risalah RUPS kepada
+denda sebesar Rp1.000.000,00 (satu juta rupiah) per
 
-OJK paling lama 14 (empat belas) hari kerja setelah
+hari kerja dan paling banyak Rp30.000.000,00 (tiga
 
-diselenggarakannya RUPS, sepanjang risalah RUPS
+puluh juta rupiah).
 
-dimaksud belum disampaikan sebagai kelengkapan
+(3) Dalam hal Bank BHI, KCBLN, atau KPBLN telah
 
-dokumen dalam Peraturan OJK ini atau ketentuan
+dikenai sanksi administratif sebagaimana dimaksud
 
-OJK lain.
+pada ayat (1) dan/atau ayat (2), dan belum memenuhi
 
-(2) Jangka waktu penyampaian risalah RUPS
+ketentuan sebagaimana dimaksud dalam Pasal 150
 
-sebagaimana dimaksud pada ayat (1) bagi Bank BHI
+ayat (1) dan/atau Pasal 152, Bank BHI, KCBLN, atau
 
-berupa perusahaan terbuka sesuai dengan Peraturan
+KPBLN dikenai sanksi administratif berupa:
 
-OJK mengenai penyelenggaraan RUPS perusahaan
+a. larangan melakukan ekspansi kegiatan usaha;
 
-terbuka.
+b. pembekuan kegiatan usaha tertentu; dan/atau
 
-Pasal 151
+c. pembatasan dan/atau larangan melakukan
+
+kegiatan KPBLN.
+
+(4) Dalam hal Bank BHI, KCBLN, atau KPBLN telah
+
+dikenai sanksi administratif sebagaimana dimaksud
+
+pada ayat (1) dan/atau ayat (2) dan melanggar
+
+ketentuan sebagaimana dimaksud dalam Pasal 150
+
+ayat (1), Pasal 152, ayat (2), dan/atau ayat (3), PSP,
+
+Direksi, Dewan Komisaris, dan/atau Pejabat Eksekutif
+
+Bank BHI atau KCBLN, atau pemimpin KPBLN, dapat
+
+dikenai sanksi administratif berupa larangan sebagai
+
+pihak utama sesuai dengan Peraturan OJK mengenai
+
+penilaian kembali bagi pihak utama lembaga jasa
+
+keuangan.
+
+-----
+
+BAB XVIII
+
+KETENTUAN PERALIHAN
+
+### Pasal 151 ^pasal-151
 
 (1) Bank BHI atau KCBLN mengumumkan rencana untuk
 
@@ -7053,7 +4881,7 @@ b. situs web Bank BHI atau KCBLN; dan/atau
 
 c. akun media sosial resmi Bank BHI atau KCBLN.
 
-Pasal 152
+### Pasal 152 ^pasal-152
 
 Bank BHI, KCBLN atau KPBLN wajib mengadministrasikan
 
@@ -7063,14 +4891,13 @@ Peraturan OJK ini, termasuk dokumen dan persyaratan
 
 administratif yang disampaikan secara daring.
 
-Pasal 153
+### Pasal 153 ^pasal-153
 
 Berdasarkan pengelompokan bank menjadi 4 (empat) KBMI
 
 sebagaimana dimaksud dalam Pasal 147, dilakukan
 
 penyesuaian terhadap ketentuan:
-
 
 -----
 
@@ -7144,10 +4971,9 @@ untuk Bank BHI dan KCBLN yang termasuk dalam
 
 KBMI 2, KBMI 3, dan KBMI 4.
 
-
 -----
 
-Pasal 154
+### Pasal 154 ^pasal-154
 
 (1) Bank BHI, KCBLN, atau KPBLN yang melanggar
 
@@ -7161,64 +4987,7 @@ administratif berupa teguran tertulis.
 
 penyampaian dokumen sebagaimana dimaksud dalam
 
-Pasal 150 ayat (1) dikenai sanksi administratif berupa
-
-denda sebesar Rp1.000.000,00 (satu juta rupiah) per
-
-hari kerja dan paling banyak Rp30.000.000,00 (tiga
-
-puluh juta rupiah).
-
-(3) Dalam hal Bank BHI, KCBLN, atau KPBLN telah
-
-dikenai sanksi administratif sebagaimana dimaksud
-
-pada ayat (1) dan/atau ayat (2), dan belum memenuhi
-
-ketentuan sebagaimana dimaksud dalam Pasal 150
-
-ayat (1) dan/atau Pasal 152, Bank BHI, KCBLN, atau
-
-KPBLN dikenai sanksi administratif berupa:
-
-a. larangan melakukan ekspansi kegiatan usaha;
-
-b. pembekuan kegiatan usaha tertentu; dan/atau
-
-c. pembatasan dan/atau larangan melakukan
-
-kegiatan KPBLN.
-
-(4) Dalam hal Bank BHI, KCBLN, atau KPBLN telah
-
-dikenai sanksi administratif sebagaimana dimaksud
-
-pada ayat (1) dan/atau ayat (2) dan melanggar
-
-ketentuan sebagaimana dimaksud dalam Pasal 150
-
-ayat (1), Pasal 152, ayat (2), dan/atau ayat (3), PSP,
-
-Direksi, Dewan Komisaris, dan/atau Pejabat Eksekutif
-
-Bank BHI atau KCBLN, atau pemimpin KPBLN, dapat
-
-dikenai sanksi administratif berupa larangan sebagai
-
-pihak utama sesuai dengan Peraturan OJK mengenai
-
-penilaian kembali bagi pihak utama lembaga jasa
-
-keuangan.
-
-
------
-
-BAB XVIII
-
-KETENTUAN PERALIHAN
-
-Pasal 155
+### Pasal 155 ^pasal-155
 
 Terhadap Bank BHI atau KCBLN yang dicabut izin usaha
 
@@ -7230,7 +4999,7 @@ dengan tugas dan fungsi tim likuidasi atau tim penyelesai
 
 berakhir.
 
-Pasal 156
+### Pasal 156 ^pasal-156
 
 Terhadap perizinan kelembagaan Bank BHI, KCBLN, atau
 
@@ -7242,7 +5011,7 @@ perundang-undangan yang berlaku sebelum Peraturan OJK
 
 ini berlaku.
 
-Pasal 157
+### Pasal 157 ^pasal-157
 
 Bank BHI atau KCBLN yang telah memiliki rencana
 
@@ -7262,7 +5031,7 @@ BAB XIX
 
 KETENTUAN PENUTUP
 
-Pasal 158
+### Pasal 158 ^pasal-158
 
 Pada saat Peraturan OJK ini mulai berlaku:
 
@@ -7277,7 +5046,6 @@ Lembaran Negara Republik Indonesia Nomor 4976)
 sebagaimana telah diubah dengan Peraturan Bank
 
 Indonesia Nomor 13/27/PBI/2011 tentang Perubahan
-
 
 -----
 
@@ -7351,10 +5119,9 @@ Bank Umum,
 
 dicabut dan dinyatakan tidak berlaku.
 
-
 -----
 
-Pasal 159
+### Pasal 159 ^pasal-159
 
 Pada saat Peraturan OJK ini mulai berlaku:
 
@@ -7394,12 +5161,11 @@ dinyatakan tetap berlaku sepanjang tidak bertentangan
 
 dengan ketentuan dalam Peraturan OJK ini.
 
-Pasal 160
+### Pasal 160 ^pasal-160
 
 Peraturan OJK ini mulai berlaku setelah 3 (tiga) bulan
 
 terhitung sejak tanggal diundangkan.
-
 
 -----
 
@@ -7435,7 +5201,6 @@ ttd
 
 YASONNA H. LAOLY
 
-
 -----
 
 -----
@@ -7466,3 +5231,169 @@ YASONNA H. LAOLY
 
 -----
 
+## Penjelasan
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-1|Pasal 1]] | [[#^penjelasan-pasal-1|Penjelasan]] | - |
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | - |
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | - |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-8|Pasal 8]] | [[#^penjelasan-pasal-8|Penjelasan]] | - |
+| [[#^pasal-9|Pasal 9]] | [[#^penjelasan-pasal-9|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | - |
+| [[#^pasal-12|Pasal 12]] | [[#^penjelasan-pasal-12|Penjelasan]] | - |
+| [[#^pasal-13|Pasal 13]] | [[#^penjelasan-pasal-13|Penjelasan]] | - |
+| [[#^pasal-14|Pasal 14]] | [[#^penjelasan-pasal-14|Penjelasan]] | - |
+| [[#^pasal-15|Pasal 15]] | [[#^penjelasan-pasal-15|Penjelasan]] | - |
+| [[#^pasal-16|Pasal 16]] | [[#^penjelasan-pasal-16|Penjelasan]] | - |
+| [[#^pasal-17|Pasal 17]] | [[#^penjelasan-pasal-17|Penjelasan]] | - |
+| [[#^pasal-18|Pasal 18]] | [[#^penjelasan-pasal-18|Penjelasan]] | - |
+| [[#^pasal-19|Pasal 19]] | [[#^penjelasan-pasal-19|Penjelasan]] | - |
+| [[#^pasal-20|Pasal 20]] | [[#^penjelasan-pasal-20|Penjelasan]] | - |
+| [[#^pasal-21|Pasal 21]] | [[#^penjelasan-pasal-21|Penjelasan]] | - |
+| [[#^pasal-22|Pasal 22]] | [[#^penjelasan-pasal-22|Penjelasan]] | - |
+| [[#^pasal-23|Pasal 23]] | [[#^penjelasan-pasal-23|Penjelasan]] | - |
+| [[#^pasal-24|Pasal 24]] | [[#^penjelasan-pasal-24|Penjelasan]] | - |
+| [[#^pasal-25|Pasal 25]] | [[#^penjelasan-pasal-25|Penjelasan]] | - |
+| [[#^pasal-26|Pasal 26]] | [[#^penjelasan-pasal-26|Penjelasan]] | - |
+| [[#^pasal-27|Pasal 27]] | [[#^penjelasan-pasal-27|Penjelasan]] | - |
+| [[#^pasal-28|Pasal 28]] | [[#^penjelasan-pasal-28|Penjelasan]] | - |
+| [[#^pasal-29|Pasal 29]] | [[#^penjelasan-pasal-29|Penjelasan]] | - |
+| [[#^pasal-30|Pasal 30]] | [[#^penjelasan-pasal-30|Penjelasan]] | - |
+| [[#^pasal-31|Pasal 31]] | [[#^penjelasan-pasal-31|Penjelasan]] | - |
+| [[#^pasal-32|Pasal 32]] | [[#^penjelasan-pasal-32|Penjelasan]] | - |
+| [[#^pasal-33|Pasal 33]] | [[#^penjelasan-pasal-33|Penjelasan]] | - |
+| [[#^pasal-34|Pasal 34]] | [[#^penjelasan-pasal-34|Penjelasan]] | - |
+| [[#^pasal-35|Pasal 35]] | [[#^penjelasan-pasal-35|Penjelasan]] | - |
+| [[#^pasal-36|Pasal 36]] | [[#^penjelasan-pasal-36|Penjelasan]] | - |
+| [[#^pasal-37|Pasal 37]] | [[#^penjelasan-pasal-37|Penjelasan]] | - |
+| [[#^pasal-38|Pasal 38]] | [[#^penjelasan-pasal-38|Penjelasan]] | - |
+| [[#^pasal-39|Pasal 39]] | [[#^penjelasan-pasal-39|Penjelasan]] | - |
+| [[#^pasal-40|Pasal 40]] | [[#^penjelasan-pasal-40|Penjelasan]] | - |
+| [[#^pasal-41|Pasal 41]] | [[#^penjelasan-pasal-41|Penjelasan]] | - |
+| [[#^pasal-42|Pasal 42]] | [[#^penjelasan-pasal-42|Penjelasan]] | - |
+| [[#^pasal-43|Pasal 43]] | [[#^penjelasan-pasal-43|Penjelasan]] | - |
+| [[#^pasal-44|Pasal 44]] | [[#^penjelasan-pasal-44|Penjelasan]] | - |
+| [[#^pasal-45|Pasal 45]] | [[#^penjelasan-pasal-45|Penjelasan]] | - |
+| [[#^pasal-46|Pasal 46]] | [[#^penjelasan-pasal-46|Penjelasan]] | - |
+| [[#^pasal-47|Pasal 47]] | [[#^penjelasan-pasal-47|Penjelasan]] | - |
+| [[#^pasal-48|Pasal 48]] | [[#^penjelasan-pasal-48|Penjelasan]] | - |
+| [[#^pasal-49|Pasal 49]] | [[#^penjelasan-pasal-49|Penjelasan]] | - |
+| [[#^pasal-50|Pasal 50]] | [[#^penjelasan-pasal-50|Penjelasan]] | - |
+| [[#^pasal-51|Pasal 51]] | [[#^penjelasan-pasal-51|Penjelasan]] | - |
+| [[#^pasal-52|Pasal 52]] | [[#^penjelasan-pasal-52|Penjelasan]] | - |
+| [[#^pasal-53|Pasal 53]] | [[#^penjelasan-pasal-53|Penjelasan]] | - |
+| [[#^pasal-54|Pasal 54]] | [[#^penjelasan-pasal-54|Penjelasan]] | - |
+| [[#^pasal-55|Pasal 55]] | [[#^penjelasan-pasal-55|Penjelasan]] | - |
+| [[#^pasal-56|Pasal 56]] | [[#^penjelasan-pasal-56|Penjelasan]] | - |
+| [[#^pasal-57|Pasal 57]] | [[#^penjelasan-pasal-57|Penjelasan]] | - |
+| [[#^pasal-58|Pasal 58]] | [[#^penjelasan-pasal-58|Penjelasan]] | - |
+| [[#^pasal-59|Pasal 59]] | [[#^penjelasan-pasal-59|Penjelasan]] | - |
+| [[#^pasal-60|Pasal 60]] | [[#^penjelasan-pasal-60|Penjelasan]] | - |
+| [[#^pasal-61|Pasal 61]] | [[#^penjelasan-pasal-61|Penjelasan]] | - |
+| [[#^pasal-62|Pasal 62]] | [[#^penjelasan-pasal-62|Penjelasan]] | - |
+| [[#^pasal-63|Pasal 63]] | [[#^penjelasan-pasal-63|Penjelasan]] | - |
+| [[#^pasal-64|Pasal 64]] | [[#^penjelasan-pasal-64|Penjelasan]] | - |
+| [[#^pasal-65|Pasal 65]] | [[#^penjelasan-pasal-65|Penjelasan]] | - |
+| [[#^pasal-66|Pasal 66]] | [[#^penjelasan-pasal-66|Penjelasan]] | - |
+| [[#^pasal-67|Pasal 67]] | [[#^penjelasan-pasal-67|Penjelasan]] | - |
+| [[#^pasal-68|Pasal 68]] | [[#^penjelasan-pasal-68|Penjelasan]] | - |
+| [[#^pasal-69|Pasal 69]] | [[#^penjelasan-pasal-69|Penjelasan]] | - |
+| [[#^pasal-70|Pasal 70]] | [[#^penjelasan-pasal-70|Penjelasan]] | - |
+| [[#^pasal-71|Pasal 71]] | [[#^penjelasan-pasal-71|Penjelasan]] | - |
+| [[#^pasal-72|Pasal 72]] | [[#^penjelasan-pasal-72|Penjelasan]] | - |
+| [[#^pasal-73|Pasal 73]] | [[#^penjelasan-pasal-73|Penjelasan]] | - |
+| [[#^pasal-74|Pasal 74]] | [[#^penjelasan-pasal-74|Penjelasan]] | - |
+| [[#^pasal-75|Pasal 75]] | [[#^penjelasan-pasal-75|Penjelasan]] | - |
+| [[#^pasal-76|Pasal 76]] | [[#^penjelasan-pasal-76|Penjelasan]] | - |
+| [[#^pasal-77|Pasal 77]] | [[#^penjelasan-pasal-77|Penjelasan]] | - |
+| [[#^pasal-78|Pasal 78]] | [[#^penjelasan-pasal-78|Penjelasan]] | - |
+| [[#^pasal-79|Pasal 79]] | [[#^penjelasan-pasal-79|Penjelasan]] | - |
+| [[#^pasal-80|Pasal 80]] | [[#^penjelasan-pasal-80|Penjelasan]] | - |
+| [[#^pasal-81|Pasal 81]] | [[#^penjelasan-pasal-81|Penjelasan]] | - |
+| [[#^pasal-82|Pasal 82]] | [[#^penjelasan-pasal-82|Penjelasan]] | - |
+| [[#^pasal-83|Pasal 83]] | [[#^penjelasan-pasal-83|Penjelasan]] | - |
+| [[#^pasal-84|Pasal 84]] | [[#^penjelasan-pasal-84|Penjelasan]] | - |
+| [[#^pasal-85|Pasal 85]] | [[#^penjelasan-pasal-85|Penjelasan]] | - |
+| [[#^pasal-86|Pasal 86]] | [[#^penjelasan-pasal-86|Penjelasan]] | - |
+| [[#^pasal-87|Pasal 87]] | [[#^penjelasan-pasal-87|Penjelasan]] | - |
+| [[#^pasal-88|Pasal 88]] | [[#^penjelasan-pasal-88|Penjelasan]] | - |
+| [[#^pasal-89|Pasal 89]] | [[#^penjelasan-pasal-89|Penjelasan]] | - |
+| [[#^pasal-90|Pasal 90]] | [[#^penjelasan-pasal-90|Penjelasan]] | - |
+| [[#^pasal-91|Pasal 91]] | [[#^penjelasan-pasal-91|Penjelasan]] | - |
+| [[#^pasal-92|Pasal 92]] | [[#^penjelasan-pasal-92|Penjelasan]] | - |
+| [[#^pasal-93|Pasal 93]] | [[#^penjelasan-pasal-93|Penjelasan]] | - |
+| [[#^pasal-94|Pasal 94]] | [[#^penjelasan-pasal-94|Penjelasan]] | - |
+| [[#^pasal-95|Pasal 95]] | [[#^penjelasan-pasal-95|Penjelasan]] | - |
+| [[#^pasal-96|Pasal 96]] | [[#^penjelasan-pasal-96|Penjelasan]] | - |
+| [[#^pasal-97|Pasal 97]] | [[#^penjelasan-pasal-97|Penjelasan]] | - |
+| [[#^pasal-98|Pasal 98]] | [[#^penjelasan-pasal-98|Penjelasan]] | - |
+| [[#^pasal-99|Pasal 99]] | [[#^penjelasan-pasal-99|Penjelasan]] | - |
+| [[#^pasal-100|Pasal 100]] | [[#^penjelasan-pasal-100|Penjelasan]] | - |
+| [[#^pasal-101|Pasal 101]] | [[#^penjelasan-pasal-101|Penjelasan]] | - |
+| [[#^pasal-102|Pasal 102]] | [[#^penjelasan-pasal-102|Penjelasan]] | - |
+| [[#^pasal-103|Pasal 103]] | [[#^penjelasan-pasal-103|Penjelasan]] | - |
+| [[#^pasal-104|Pasal 104]] | [[#^penjelasan-pasal-104|Penjelasan]] | - |
+| [[#^pasal-105|Pasal 105]] | [[#^penjelasan-pasal-105|Penjelasan]] | - |
+| [[#^pasal-106|Pasal 106]] | [[#^penjelasan-pasal-106|Penjelasan]] | - |
+| [[#^pasal-107|Pasal 107]] | [[#^penjelasan-pasal-107|Penjelasan]] | - |
+| [[#^pasal-108|Pasal 108]] | [[#^penjelasan-pasal-108|Penjelasan]] | - |
+| [[#^pasal-109|Pasal 109]] | [[#^penjelasan-pasal-109|Penjelasan]] | - |
+| [[#^pasal-110|Pasal 110]] | [[#^penjelasan-pasal-110|Penjelasan]] | - |
+| [[#^pasal-111|Pasal 111]] | [[#^penjelasan-pasal-111|Penjelasan]] | - |
+| [[#^pasal-112|Pasal 112]] | [[#^penjelasan-pasal-112|Penjelasan]] | - |
+| [[#^pasal-113|Pasal 113]] | [[#^penjelasan-pasal-113|Penjelasan]] | - |
+| [[#^pasal-114|Pasal 114]] | [[#^penjelasan-pasal-114|Penjelasan]] | - |
+| [[#^pasal-115|Pasal 115]] | [[#^penjelasan-pasal-115|Penjelasan]] | - |
+| [[#^pasal-116|Pasal 116]] | [[#^penjelasan-pasal-116|Penjelasan]] | - |
+| [[#^pasal-117|Pasal 117]] | [[#^penjelasan-pasal-117|Penjelasan]] | - |
+| [[#^pasal-118|Pasal 118]] | [[#^penjelasan-pasal-118|Penjelasan]] | - |
+| [[#^pasal-119|Pasal 119]] | [[#^penjelasan-pasal-119|Penjelasan]] | - |
+| [[#^pasal-120|Pasal 120]] | [[#^penjelasan-pasal-120|Penjelasan]] | - |
+| [[#^pasal-121|Pasal 121]] | [[#^penjelasan-pasal-121|Penjelasan]] | - |
+| [[#^pasal-122|Pasal 122]] | [[#^penjelasan-pasal-122|Penjelasan]] | - |
+| [[#^pasal-123|Pasal 123]] | [[#^penjelasan-pasal-123|Penjelasan]] | - |
+| [[#^pasal-124|Pasal 124]] | [[#^penjelasan-pasal-124|Penjelasan]] | - |
+| [[#^pasal-125|Pasal 125]] | [[#^penjelasan-pasal-125|Penjelasan]] | - |
+| [[#^pasal-126|Pasal 126]] | [[#^penjelasan-pasal-126|Penjelasan]] | - |
+| [[#^pasal-127|Pasal 127]] | [[#^penjelasan-pasal-127|Penjelasan]] | - |
+| [[#^pasal-128|Pasal 128]] | [[#^penjelasan-pasal-128|Penjelasan]] | - |
+| [[#^pasal-129|Pasal 129]] | [[#^penjelasan-pasal-129|Penjelasan]] | - |
+| [[#^pasal-130|Pasal 130]] | [[#^penjelasan-pasal-130|Penjelasan]] | - |
+| [[#^pasal-131|Pasal 131]] | [[#^penjelasan-pasal-131|Penjelasan]] | - |
+| [[#^pasal-132|Pasal 132]] | [[#^penjelasan-pasal-132|Penjelasan]] | - |
+| [[#^pasal-133|Pasal 133]] | [[#^penjelasan-pasal-133|Penjelasan]] | - |
+| [[#^pasal-134|Pasal 134]] | [[#^penjelasan-pasal-134|Penjelasan]] | - |
+| [[#^pasal-135|Pasal 135]] | [[#^penjelasan-pasal-135|Penjelasan]] | - |
+| [[#^pasal-136|Pasal 136]] | [[#^penjelasan-pasal-136|Penjelasan]] | - |
+| [[#^pasal-137|Pasal 137]] | [[#^penjelasan-pasal-137|Penjelasan]] | - |
+| [[#^pasal-138|Pasal 138]] | [[#^penjelasan-pasal-138|Penjelasan]] | - |
+| [[#^pasal-139|Pasal 139]] | [[#^penjelasan-pasal-139|Penjelasan]] | - |
+| [[#^pasal-140|Pasal 140]] | [[#^penjelasan-pasal-140|Penjelasan]] | - |
+| [[#^pasal-141|Pasal 141]] | [[#^penjelasan-pasal-141|Penjelasan]] | - |
+| [[#^pasal-142|Pasal 142]] | [[#^penjelasan-pasal-142|Penjelasan]] | - |
+| [[#^pasal-143|Pasal 143]] | [[#^penjelasan-pasal-143|Penjelasan]] | - |
+| [[#^pasal-144|Pasal 144]] | [[#^penjelasan-pasal-144|Penjelasan]] | - |
+| [[#^pasal-145|Pasal 145]] | [[#^penjelasan-pasal-145|Penjelasan]] | - |
+| [[#^pasal-146|Pasal 146]] | [[#^penjelasan-pasal-146|Penjelasan]] | - |
+| [[#^pasal-147|Pasal 147]] | [[#^penjelasan-pasal-147|Penjelasan]] | - |
+| [[#^pasal-148|Pasal 148]] | [[#^penjelasan-pasal-148|Penjelasan]] | - |
+| [[#^pasal-149|Pasal 149]] | [[#^penjelasan-pasal-149|Penjelasan]] | - |
+| [[#^pasal-150|Pasal 150]] | [[#^penjelasan-pasal-150|Penjelasan]] | - |
+| [[#^pasal-151|Pasal 151]] | [[#^penjelasan-pasal-151|Penjelasan]] | - |
+| [[#^pasal-152|Pasal 152]] | [[#^penjelasan-pasal-152|Penjelasan]] | - |
+| [[#^pasal-153|Pasal 153]] | [[#^penjelasan-pasal-153|Penjelasan]] | - |
+| [[#^pasal-154|Pasal 154]] | [[#^penjelasan-pasal-154|Penjelasan]] | - |
+| [[#^pasal-155|Pasal 155]] | [[#^penjelasan-pasal-155|Penjelasan]] | - |
+| [[#^pasal-156|Pasal 156]] | [[#^penjelasan-pasal-156|Penjelasan]] | - |
+| [[#^pasal-157|Pasal 157]] | [[#^penjelasan-pasal-157|Penjelasan]] | - |
+| [[#^pasal-158|Pasal 158]] | [[#^penjelasan-pasal-158|Penjelasan]] | - |
+| [[#^pasal-159|Pasal 159]] | [[#^penjelasan-pasal-159|Penjelasan]] | - |
+| [[#^pasal-160|Pasal 160]] | [[#^penjelasan-pasal-160|Penjelasan]] | - |

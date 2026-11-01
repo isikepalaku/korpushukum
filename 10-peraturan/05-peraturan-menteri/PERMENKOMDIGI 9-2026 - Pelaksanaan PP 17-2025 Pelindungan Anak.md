@@ -1,31 +1,32 @@
 ---
-id: "PERMENKOMDIGI 9/2026"
+id: PERMENKOMDIGI 9/2026
 jenis: PERMENKOMDIGI
-lembaga: "Peraturan Menteri Komunikasi dan Digital"
+lembaga: PERMENKOMDIGI
 nomor: 9
 tahun: 2026
-judul: "Pelaksanaan PP 17 Tahun 2025 Pelindungan Anak"
-judul_singkat: "Pelaksanaan PP 17-2025 Pelindungan Anak"
+judul: Pelaksanaan PP 17 Tahun 2025 Pelindungan Anak
+judul_singkat: Pelaksanaan PP 17-2025 Pelindungan Anak
 status: berlaku
-status_bpk: "Berlaku"
-ditetapkan: 2026-03-06
-berlaku_mulai: 2026-03-06
-mencabut: []
-dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
-terkait: ["PP 17/2025"]
-bidang: [siber]
-tags: [jenis/permenkomdigi, bidang/siber, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/346040/permenkomdigi-no-9-tahun-2026"
-sumber_alternatif: "https://jdih.komdigi.go.id/produk_hukum/view/id/1007/t/peraturan+menteri+komunikasi+dan+digital+nomor+9+tahun+2026"
+status_bpk: Berlaku
+bidang:
+- siber
+tags:
+- jenis/permenkomdigi
+- bidang/siber
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Pelaksanaan PP 17 Tahun 2025 Pelindungan Anak**
 
 # Pelaksanaan PP 17 Tahun 2025 Pelindungan Anak
 
@@ -34,9 +35,6 @@ last_updated: 2026-10-28
 > Sumber: https://jdih.komdigi.go.id/produk_hukum/view/id/1007/t/peraturan+menteri+komunikasi+dan+digital+nomor+9+tahun+2026
 
 > Sumber resmi: [https://jdih.komdigi.go.id/produk_hukum/view/id/1007/t/peraturan+menteri+komunikasi+dan+digital+nomor+9+tahun+2026](https://jdih.komdigi.go.id/produk_hukum/view/id/1007/t/peraturan+menteri+komunikasi+dan+digital+nomor+9+tahun+2026)
-
-
-
 
 PERATURAN MENTERI KOMUNIKASI DAN DIGITAL REPUBLIK INDONESIA NOMOR 9 TAHUN 2026 TENTANG 
 
@@ -58,17 +56,15 @@ PERATURAN PELAKSANAAN PERATURAN PEMERINTAH NOMOR 17 TAHUN 2025 TENTANG TATA KELO
 
 - 5. Peraturan Menteri Komunikasi dan Digital Nomor 1 Tahun 2025 tentang Organisasi dan Tata Kerja Kementerian Komunikasi dan Digital (Berita Negara Republik Indonesia Tahun 2025 Nomor 17); 
 
-- 2 - 
-
 # MEMUTUSKAN: 
 
 - Menetapkan : PERATURAN MENTERI KOMUNIKASI DAN DIGITAL TENTANG PERATURAN PELAKSANAAN PERATURAN PEMERINTAH NOMOR 17 TAHUN 2025 TENTANG TATA KELOLA PENYELENGGARAAN SISTEM ELEKTRONIK DALAM PELINDUNGAN ANAK. 
 
 # BAB I 
 
-# KETENTUAN UMUM 
+# KETENTUAN UMUM
 
-# Pasal 1 
+### Pasal 1 ^pasal-1
 
 Dalam Peraturan Menteri ini yang dimaksud dengan: 
 
@@ -94,8 +90,6 @@ Dalam Peraturan Menteri ini yang dimaksud dengan:
 
 11. Kementerian adalah kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan 
 
-- 3 - 
-
 # informasi. 
 
 12. Direktur Jenderal adalah direktur jenderal yang mempunyai tugas menyelenggarakan perumusan dan pelaksanaan kebijakan di bidang pengawasan ruang digital dan pelindungan Data Pribadi. 
@@ -110,9 +104,9 @@ BATASAN MINIMUM USIA ANAK, RENTANG USIA ANAK, DAN VERIFIKASI PENGGUNA ANAK
 
 # Bagian Kesatu 
 
-# Batasan Minimum Usia Anak yang Dapat Menggunakan Produk, Layanan, dan Fitur 
+# Batasan Minimum Usia Anak yang Dapat Menggunakan Produk, Layanan, dan Fitur
 
-# Pasal 2 
+### Pasal 2 ^pasal-2
 
 - (1) Penyelenggara Sistem Elektronik wajib menyediakan informasi mengenai batasan minimum usia Anak yang dapat menggunakan produk atau layanannya. 
 
@@ -120,23 +114,21 @@ BATASAN MINIMUM USIA ANAK, RENTANG USIA ANAK, DAN VERIFIKASI PENGGUNA ANAK
 
 - (3) Batasan minimum usia Anak sebagaimana dimaksud pada ayat (2) berusia paling rendah 3 (tiga) tahun dengan pengelompokan rentang usia Anak yang meliputi: 
 
-   - a. usia 3 (tiga) hingga 5 (lima) tahun; 
+ - a. usia 3 (tiga) hingga 5 (lima) tahun; 
 
-   - b. usia 6 (enam) hingga 9 (sembilan) tahun; 
+ - b. usia 6 (enam) hingga 9 (sembilan) tahun; 
 
-   - c. usia 10 (sepuluh) hingga 12 (dua belas) tahun; 
+ - c. usia 10 (sepuluh) hingga 12 (dua belas) tahun; 
 
-   - d. usia 13 (tiga belas) hingga 15 (lima belas) tahun; dan e. usia 16 (enam belas) hingga belum berusia 18 (delapan belas) tahun. 
+ - d. usia 13 (tiga belas) hingga 15 (lima belas) tahun; dan e. usia 16 (enam belas) hingga belum berusia 18 (delapan belas) tahun. 
 
 - (4) Dalam penyediaan informasi mengenai batasan minimum usia Anak dan rentang usia Anak yang dapat menggunakan Produk, Layanan, dan Fitur sebagaimana dimaksud pada ayat (2) dan ayat (3), Penyelenggara Sistem Elektronik wajib memastikan bahwa Produk, Layanan, dan Fitur yang dikembangkan dan/atau diselenggarakannya sesuai dengan batasan minimum usia Anak dan rentang usia Anak yang menggunakan atau mengakses, atau yang mungkin menggunakan atau mengakses Produk, Layanan, dan Fitur tersebut. 
 
 - (5) Dalam memastikan pelaksanaan kewajiban sebagaimana dimaksud pada ayat (2), Penyelenggara Sistem Elektronik mempertimbangkan kebutuhan Anak yang disesuaikan dengan tahapan tumbuh kembang berdasarkan batasan minimum usia Anak dan rentang usia Anak sebagaimana dimaksud pada ayat (3). 
 
-- (6) Penyelenggara Sistem Elektronik tidak menargetkan Produk, Layanan, dan Fiturnya bagi Anak di bawah usia 3 (tiga) tahun. 
+- (6) Penyelenggara Sistem Elektronik tidak menargetkan Produk, Layanan, dan Fiturnya bagi Anak di bawah usia 3 (tiga) tahun.
 
-- 4 - 
-
-# Pasal 3 
+### Pasal 3 ^pasal-3
 
 - (1) Informasi mengenai batasan minimum usia Anak yang dapat menggunakan Produk, Layanan, dan Fitur sebagaimana dimaksud dalam Pasal 2 ayat (2) harus disediakan Penyelenggara Sistem Elektronik dalam bahasa yang mudah dipahami serta dalam format dan dengan cara yang mudah digunakan atau diakses oleh Anak dan orang tua atau wali Anak. 
 
@@ -146,37 +138,35 @@ BATASAN MINIMUM USIA ANAK, RENTANG USIA ANAK, DAN VERIFIKASI PENGGUNA ANAK
 
 - (4) Penyelenggara Sistem Elektronik dan Penyelenggara Sistem Elektronik lain sebagaimana dimaksud pada ayat (3) harus menyediakan informasi mengenai batasan minimum usia Anak sebagaimana dimaksud pada ayat (1) dan menyampaikan perubahan sebagaimana dimaksud 
 
-   - pada ayat (2). 
+ - pada ayat (2). 
 
 - (5) Penyelenggara Sistem Elektronik dan Penyelenggara Sistem Elektronik lain sebagaimana dimaksud pada ayat (4) harus menyimpan dokumentasi informasi mengenai batasan minimum usia Anak dan perubahannya selama Produk, Layanan, dan Fitur masih dapat diakses oleh 
 
-   - Anak. 
+ - Anak. 
 
 - (6) Dalam hal Produk, Layanan, dan Fitur sudah tidak dapat diakses oleh Anak, Penyelenggara Sistem Elektronik dan Penyelenggara Sistem Elektronik lain sebagaimana dimaksud pada ayat (4) harus menyimpan dokumentasi batasan minimum usia Anak dan perubahannya sesuai dengan peraturan perundang-undangan. 
 
 # Bagian Kedua 
 
-- Penilaian Mandiri untuk Memastikan Produk, Layanan, dan Fitur Sesuai dengan Batasan Minimum Usia Anak dan Rentang Usia Anak 
+- Penilaian Mandiri untuk Memastikan Produk, Layanan, dan Fitur Sesuai dengan Batasan Minimum Usia Anak dan Rentang Usia Anak
 
-# Pasal 4 
+### Pasal 4 ^pasal-4
 
 - (1) Penyelenggara Sistem Elektronik wajib melakukan penilaian mandiri untuk memastikan bahwa Produk, Layanan, dan Fitur yang dikembangkan dan/atau diselenggarakannya sesuai dengan batasan minimum usia Anak dan rentang usia Anak sebagaimana dimaksud dalam Pasal 2 ayat (3). 
 
 - (2) Penilaian mandiri sebagaimana dimaksud pada ayat (1) paling sedikit memuat: 
 
-   - a. pertimbangan kebutuhan Anak berdasarkan batasan minimum usia Anak dan rentang usia Anak sebagaimana dimaksud dalam Pasal 2 ayat (3) yang dapat dipenuhi dengan Produk, Layanan, dan Fitur yang diselenggarakan oleh Penyelenggara Sistem Elektronik; 
+ - a. pertimbangan kebutuhan Anak berdasarkan batasan minimum usia Anak dan rentang usia Anak sebagaimana dimaksud dalam Pasal 2 ayat (3) yang dapat dipenuhi dengan Produk, Layanan, dan Fitur yang diselenggarakan oleh Penyelenggara Sistem Elektronik; 
 
-   - b. pertimbangan risiko yang berhubungan dengan 
+ - b. pertimbangan risiko yang berhubungan dengan 
 
-- 5 - 
+ - penyelenggaraan Produk, Layanan, dan Fitur dalam memenuhi kebutuhan Anak; dan 
 
-      - penyelenggaraan Produk, Layanan, dan Fitur dalam memenuhi kebutuhan Anak; dan 
-
-   - c. keterlibatan pihak internal dan eksternal organisasi Penyelenggara Sistem Elektronik dalam mempertimbangkan kebutuhan sebagaimana dimaksud dalam huruf a dan/atau mempertimbangkan risiko sebagaimana dimaksud dalam huruf b. 
+ - c. keterlibatan pihak internal dan eksternal organisasi Penyelenggara Sistem Elektronik dalam mempertimbangkan kebutuhan sebagaimana dimaksud dalam huruf a dan/atau mempertimbangkan risiko sebagaimana dimaksud dalam huruf b. 
 
 - (3) Penyelenggara Sistem Elektronik wajib mendokumentasikan hasil penilaian mandiri beserta perubahannya. 
 
-         - Pasal 5 
+ - Pasal 5 
 
 - (1) Dokumentasi hasil penilaian mandiri sebagaimana dimaksud dalam Pasal 4 ayat (3) disahkan atau ditetapkan oleh Penyelenggara Sistem Elektronik. 
 
@@ -188,21 +178,19 @@ BATASAN MINIMUM USIA ANAK, RENTANG USIA ANAK, DAN VERIFIKASI PENGGUNA ANAK
 
 - (5) Dalam hal Produk, Layanan, dan Fitur sudah tidak dapat diakses oleh Anak, Penyelenggara Sistem Elektronik harus menyimpan dokumentasi hasil penilaian mandiri dan perubahannya sesuai dengan ketentuan peraturan perundang-undangan. 
 
-# Bagian Ketiga Penetapan Desain Pelindungan Anak 
+# Bagian Ketiga Penetapan Desain Pelindungan Anak
 
-# Pasal 6 
+### Pasal 6 ^pasal-6
 
 Penyelenggara Sistem Elektronik harus memiliki dan menerapkan desain pelindungan Anak untuk memastikan bahwa konten yang dapat diakses Anak dalam Produk, Layanan, dan Fitur sesuai dengan batasan minimum usia Anak dan rentang usia Anak sebagaimana dimaksud dalam Pasal 2 ayat (3), dan tidak bertentangan dengan ketentuan peraturan perundang-undangan. 
 
-# Bagian Keempat Verifikasi Pengguna Anak 
+# Bagian Keempat Verifikasi Pengguna Anak
 
-Pasal 7 
+### Pasal 7 ^pasal-7
 
 - (1) Penyelenggara Sistem Elektronik wajib menyediakan mekanisme verifikasi pengguna Anak. 
 
 - (2) Dalam menyediakan mekanisme verifikasi pengguna Anak sebagaimana dimaksud pada ayat (1), Penyelenggara Sistem Elektronik menerapkan langkah teknis dan operasional untuk melakukan verifikasi usia Anak yang menggunakan atau mengakses Produk, Layanan, dan Fitur sesuai dengan batasan minimum usia Anak dan 
-
-- 6 - 
 
 rentang usia Anak sebagaimana dimaksud dalam Pasal 2 ayat (3). 
 
@@ -220,83 +208,79 @@ rentang usia Anak sebagaimana dimaksud dalam Pasal 2 ayat (3).
 
 # PENILAIAN TINGKAT RISIKO, PENILAIAN MANDIRI, PELAPORAN, DAN PENETAPAN PROFIL RISIKO PRODUK, LAYANAN, DAN FITUR 
 
-# Bagian Kesatu Penilaian Tingkat Risiko 
+# Bagian Kesatu Penilaian Tingkat Risiko
 
-Pasal 8 
+### Pasal 8 ^pasal-8
 
 - (1) Produk, Layanan, dan Fitur dinilai tingkat risikonya terhadap Anak. 
 
 - (2) Produk, Layanan, dan Fitur sebagaimana dimaksud pada ayat (1) meliputi: a. Produk, Layanan, dan Fitur yang secara khusus dirancang untuk digunakan atau diakses oleh Anak; atau 
 
-   - b. Produk, Layanan, dan Fitur yang mungkin digunakan atau diakses oleh Anak. 
+ - b. Produk, Layanan, dan Fitur yang mungkin digunakan atau diakses oleh Anak. 
 
 - (3) Tingkat risiko sebagaimana dimaksud pada ayat (1) terdiri atas: 
 
-   - a. tingkat risiko tinggi; atau 
+ - a. tingkat risiko tinggi; atau 
 
-   - b. tingkat risiko rendah. 
+ - b. tingkat risiko rendah. 
 
 - (4) Penilaian tingkat risiko sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan aspek sebagai berikut: 
 
-   - a. berkontak dengan orang lain yang tidak dikenal; 
+ - a. berkontak dengan orang lain yang tidak dikenal; 
 
-   - b. terpapar pada konten pornografi, konten kekerasan, konten yang berbahaya bagi keselamatan nyawa, dan konten lain yang tidak sesuai peruntukan Anak; 
+ - b. terpapar pada konten pornografi, konten kekerasan, konten yang berbahaya bagi keselamatan nyawa, dan konten lain yang tidak sesuai peruntukan Anak; 
 
-   - c. eksploitasi Anak sebagai konsumen; 
+ - c. eksploitasi Anak sebagai konsumen; 
 
-   - d. mengancam keamanan Data Pribadi Anak; 
+ - d. mengancam keamanan Data Pribadi Anak; 
 
-   - e. menimbulkan adiksi; 
+ - e. menimbulkan adiksi; 
 
-   - f. gangguan kesehatan psikologis Anak; dan 
+ - f. gangguan kesehatan psikologis Anak; dan 
 
-   - g. gangguan fisiologis Anak. 
+ - g. gangguan fisiologis Anak. 
 
 - (5) Jika Produk, Layanan, dan Fitur memiliki nilai tingkat risiko tinggi pada salah satu atau lebih aspek sebagaimana dimaksud pada ayat (4), Produk, Layanan, dan Fitur tersebut dikategorikan memiliki profil risiko tinggi. 
 
 - (6) Jika Produk, Layanan, dan Fitur memiliki nilai tingkat 
 
-- 7 - 
-
 risiko rendah pada semua aspek sebagaimana dimaksud pada ayat (4), Produk, Layanan, dan Fitur tersebut dikategorikan memiliki profil risiko rendah. 
 
-# Bagian Kedua Penilaian Mandiri 
+# Bagian Kedua Penilaian Mandiri
 
-# Pasal 9 
+### Pasal 9 ^pasal-9
 
-Penyelenggara Sistem Elektronik wajib melakukan penilaian mandiri terhadap aspek sebagaimana dimaksud dalam Pasal 8 ayat (4) dalam Produk, Layanan, dan Fitur yang dikembangkan dan/atau diselenggarakan oleh Penyelenggara Sistem Elektronik. 
+Penyelenggara Sistem Elektronik wajib melakukan penilaian mandiri terhadap aspek sebagaimana dimaksud dalam Pasal 8 ayat (4) dalam Produk, Layanan, dan Fitur yang dikembangkan dan/atau diselenggarakan oleh Penyelenggara Sistem Elektronik.
 
-# Pasal 10 
+### Pasal 10 ^pasal-10
 
 - (1) Aspek berkontak dengan orang lain yang tidak dikenal sebagaimana dimaksud dalam Pasal 8 ayat (4) huruf a merupakan risiko yang dihadapi Anak dalam berkomunikasi atau berinteraksi dengan orang lain yang tidak dikenal melalui Produk, Layanan, dan Fitur. 
 
 - (2) Dalam hal Penyelenggara Sistem Elektronik menyediakan Produk, Layanan, dan Fitur yang memungkinkan Anak sebagai pengguna berkontak dengan orang lain yang tidak dikenal, Penyelenggara Sistem Elektronik harus menyediakan teknologi kontrol orang tua. 
 
-- (3) Teknologi kontrol orang tua sebagaimana dimaksud pada ayat (2) digunakan oleh orang tua atau wali Anak untuk memberikan persetujuan atau tidak memberikan persetujuan terhadap Anak sebagai pengguna untuk berkontak dengan orang lain yang tidak dikenal. 
+- (3) Teknologi kontrol orang tua sebagaimana dimaksud pada ayat (2) digunakan oleh orang tua atau wali Anak untuk memberikan persetujuan atau tidak memberikan persetujuan terhadap Anak sebagai pengguna untuk berkontak dengan orang lain yang tidak dikenal.
 
-# Pasal 11 
+### Pasal 11 ^pasal-11
 
 - (1) Penyelenggara Sistem Elektronik melakukan penilaian mandiri terhadap risiko yang dihadapi Anak dalam berkomunikasi atau berinteraksi dengan orang lain yang tidak dikenal melalui Produk, Layanan, dan Fitur sebagaimana dimaksud dalam Pasal 10 ayat (1) dengan mempertimbangkan indikator paling sedikit: 
 
-   - a. akun Anak ditemukan oleh orang lain yang tidak dikenal; 
+ - a. akun Anak ditemukan oleh orang lain yang tidak dikenal; 
 
-   - b. konten Anak ditemukan oleh orang lain yang tidak dikenal; 
+ - b. konten Anak ditemukan oleh orang lain yang tidak dikenal; 
 
-   - c. akun dan/atau konten Anak direkomendasikan pengguna lain secara otomatis dalam berbagai bentuk berdasarkan profil Anak; 
+ - c. akun dan/atau konten Anak direkomendasikan pengguna lain secara otomatis dalam berbagai bentuk berdasarkan profil Anak; 
 
-   - d. informasi mengenai akun Anak atau profil Anak ditampilkan dalam profil pengguna; 
+ - d. informasi mengenai akun Anak atau profil Anak ditampilkan dalam profil pengguna; 
 
-   - e. Anak berkomunikasi atau berinteraksi dengan orang lain yang tidak dikenal melalui Produk, Layanan, dan Fitur termasuk komunikasi dalam berbagai bentuk; 
+ - e. Anak berkomunikasi atau berinteraksi dengan orang lain yang tidak dikenal melalui Produk, Layanan, dan Fitur termasuk komunikasi dalam berbagai bentuk; 
 
-   - f. Produk, Layanan, dan Fitur dapat dikonfigurasi orang lain untuk membuat forum, kegiatan, atau sejenisnya sehingga Anak dapat berkomunikasi, berinteraksi, atau terhubung dengan orang lain yang tidak dikenal; dan 
+ - f. Produk, Layanan, dan Fitur dapat dikonfigurasi orang lain untuk membuat forum, kegiatan, atau sejenisnya sehingga Anak dapat berkomunikasi, berinteraksi, atau terhubung dengan orang lain yang tidak dikenal; dan 
 
 - g. indikator lain yang ditetapkan oleh Menteri. 
 
-- (2) Penetapan indikator lain sebagaimana dimaksud pada ayat (1) huruf g dilakukan berdasarkan evaluasi terhadap indikator sebagaimana dimaksud pada ayat (1). 
+- (2) Penetapan indikator lain sebagaimana dimaksud pada ayat (1) huruf g dilakukan berdasarkan evaluasi terhadap indikator sebagaimana dimaksud pada ayat (1).
 
-- 8 - 
-
-# Pasal 12 
+### Pasal 12 ^pasal-12
 
 - (1) Aspek terpapar pada konten pornografi, konten kekerasan, konten yang berbahaya bagi keselamatan nyawa, dan konten lain yang tidak sesuai peruntukan Anak sebagaimana dimaksud dalam Pasal 8 ayat (4) huruf b merupakan risiko dapat diaksesnya konten tersebut oleh Anak melalui Produk, Layanan, dan Fitur. 
 
@@ -304,59 +288,57 @@ Penyelenggara Sistem Elektronik wajib melakukan penilaian mandiri terhadap aspek
 
 - (3) Konten lain yang tidak sesuai peruntukan Anak sebagaimana dimaksud pada ayat (1) merupakan teks, gambar, suara, dan video yang menampilkan informasi yang tidak sesuai dengan tahap perkembangan fisik, sosial, emosional, dan/atau kognitif Anak sehingga dapat menimbulkan gangguan kesehatan mental maupun fisik Anak. 
 
-      - Pasal 13 
+ - Pasal 13 
 
 - (1) Penyelenggara Sistem Elektronik melakukan penilaian mandiri terhadap risiko dapat diaksesnya konten sebagaimana dimaksud dalam Pasal 12 oleh Anak dengan mempertimbangkan indikator paling sedikit: 
 
-   - a. Produk, Layanan, dan Fitur yang dapat memungkinkan orang lain berkomunikasi dan mengirimkan konten kepada Anak atau memungkinkan Anak mengakses konten yang dikirimkan oleh orang lain sebagaimana dimaksud dalam Pasal 12; 
+ - a. Produk, Layanan, dan Fitur yang dapat memungkinkan orang lain berkomunikasi dan mengirimkan konten kepada Anak atau memungkinkan Anak mengakses konten yang dikirimkan oleh orang lain sebagaimana dimaksud dalam Pasal 12; 
 
-   - b. Produk, Layanan, dan Fitur yang dapat memungkinkan pemberian rekomendasi konten sebagaimana dimaksud dalam Pasal 12 kepada Anak secara otomatis dalam berbagai bentuk berdasarkan profil pengguna Anak termasuk menggunakan kecerdasan buatan; 
+ - b. Produk, Layanan, dan Fitur yang dapat memungkinkan pemberian rekomendasi konten sebagaimana dimaksud dalam Pasal 12 kepada Anak secara otomatis dalam berbagai bentuk berdasarkan profil pengguna Anak termasuk menggunakan kecerdasan buatan; 
 
-   - c. Produk, Layanan, dan Fitur yang memungkinkan munculnya iklan yang memuat konten sebagaimana dimaksud dalam Pasal 12; 
+ - c. Produk, Layanan, dan Fitur yang memungkinkan munculnya iklan yang memuat konten sebagaimana dimaksud dalam Pasal 12; 
 
-   - d. Produk, Layanan, dan Fitur dapat dikonfigurasi untuk membuat forum, kegiatan, atau sejenisnya dalam Produk, Layanan, dan Fitur tersebut, sehingga pengguna dapat menghubungkan atau mengumpulkan Anak dalam forum, kegiatan, atau sejenisnya yang dimaksud dan para penggunanya dapat mengakses atau mentransmisikan konten sebagaimana dimaksud dalam Pasal 12; dan 
+ - d. Produk, Layanan, dan Fitur dapat dikonfigurasi untuk membuat forum, kegiatan, atau sejenisnya dalam Produk, Layanan, dan Fitur tersebut, sehingga pengguna dapat menghubungkan atau mengumpulkan Anak dalam forum, kegiatan, atau sejenisnya yang dimaksud dan para penggunanya dapat mengakses atau mentransmisikan konten sebagaimana dimaksud dalam Pasal 12; dan 
 
 - e. indikator lain yang ditetapkan oleh Menteri. 
 
 - (2) Penetapan indikator lain sebagaimana dimaksud pada ayat (1) huruf e dilakukan berdasarkan evaluasi terhadap indikator sebagaimana dimaksud pada ayat (1). 
 
-      - Pasal 14 
+ - Pasal 14 
 
 - (1) Aspek eksploitasi Anak sebagai konsumen sebagaimana dimaksud dalam Pasal 8 ayat (4) huruf c merupakan risiko yang dihadapi Anak sebagai target atau tujuan untuk penawaran barang atau jasa oleh Penyelenggara Sistem Elektronik atau pihak lain yang bekerja sama dengan Penyelenggara Sistem Elektronik melalui penggunaan Produk, Layanan, dan Fitur oleh Anak. 
 
-- 9 - 
+- (2) Barang atau jasa sebagaimana dimaksud pada ayat (1) termasuk Produk, Layanan, dan Fitur.
 
-- (2) Barang atau jasa sebagaimana dimaksud pada ayat (1) termasuk Produk, Layanan, dan Fitur. 
-
-# Pasal 15 
+### Pasal 15 ^pasal-15
 
 - (1) Penyelenggara Sistem Elektronik melakukan penilaian mandiri terhadap risiko yang dihadapi Anak sebagai target atau tujuan untuk penawaran barang atau jasa oleh Penyelenggara Sistem Elektronik atau pihak lain yang bekerja sama dengan Penyelenggara Sistem Elektronik melalui penggunaan Produk, Layanan, dan Fitur oleh Anak sebagaimana dimaksud dalam Pasal 14 berdasarkan indikator paling sedikit: 
 
-   - a. penargetan Anak untuk kepentingan penawaran barang dan jasa oleh Penyelenggara Sistem Elektronik atau pihak lain yang bekerja sama dengan Penyelenggara Sistem Elektronik, baik dalam bentuk iklan, konten berbayar, atau sejenisnya; 
+ - a. penargetan Anak untuk kepentingan penawaran barang dan jasa oleh Penyelenggara Sistem Elektronik atau pihak lain yang bekerja sama dengan Penyelenggara Sistem Elektronik, baik dalam bentuk iklan, konten berbayar, atau sejenisnya; 
 
-   - b. penyediaan atau penyelenggaraan Produk, Layanan, dan Fitur berdasarkan pembayaran baik satu kali maupun secara berlangganan ( _subscription_ ); 
+ - b. penyediaan atau penyelenggaraan Produk, Layanan, dan Fitur berdasarkan pembayaran baik satu kali maupun secara berlangganan ( _subscription_ ); 
 
-   - c. penyediaan atau pemberian fasilitas sistem pembayaran untuk membeli barang dan jasa yang ditawarkan; 
+ - c. penyediaan atau pemberian fasilitas sistem pembayaran untuk membeli barang dan jasa yang ditawarkan; 
 
-   - d. mengoptimalkan performa iklan, penentuan harga, ataupun strategi penjualan yang diperuntukkan bagi peningkatan keuntungan penjualan barang atau jasa berdasarkan hasil pemrofilan Anak melalui penggunaan atau pemanfaatan Produk, Layanan, dan Fitur; dan 
+ - d. mengoptimalkan performa iklan, penentuan harga, ataupun strategi penjualan yang diperuntukkan bagi peningkatan keuntungan penjualan barang atau jasa berdasarkan hasil pemrofilan Anak melalui penggunaan atau pemanfaatan Produk, Layanan, dan Fitur; dan 
 
-   - e. indikator lain yang ditetapkan oleh Menteri. 
+ - e. indikator lain yang ditetapkan oleh Menteri. 
 
-- (2) Penetapan indikator lain sebagaimana dimaksud pada ayat (1) huruf e dilakukan berdasarkan evaluasi terhadap indikator sebagaimana dimaksud pada ayat (1). 
+- (2) Penetapan indikator lain sebagaimana dimaksud pada ayat (1) huruf e dilakukan berdasarkan evaluasi terhadap indikator sebagaimana dimaksud pada ayat (1).
 
-# Pasal 16 
+### Pasal 16 ^pasal-16
 
 - (1) Aspek mengancam keamanan Data Pribadi Anak sebagaimana dimaksud dalam Pasal 8 ayat (4) huruf d merupakan risiko yang dihadapi Anak dari pemrosesan Data Pribadi Anak melalui Produk, Layanan, dan Fitur. 
 
 - (2) Penyelenggara Sistem Elektronik melakukan penilaian mandiri terhadap risiko yang dihadapi Anak dari pemrosesan Data Pribadi Anak melalui Produk, Layanan, dan Fitur sebagaimana dimaksud pada ayat (1) berdasarkan indikator paling sedikit: 
 
-   - a. pengumpulan dan/atau pemrosesan data pengguna Anak tanpa pengawasan dari orang tua/wali; 
+ - a. pengumpulan dan/atau pemrosesan data pengguna Anak tanpa pengawasan dari orang tua/wali; 
 
-   - b. menampilkan Data Pribadi pengguna Anak kepada publik secara baku; 
+ - b. menampilkan Data Pribadi pengguna Anak kepada publik secara baku; 
 
-   - c. pengguna Anak dapat mengubah pengaturan privasi tanpa persetujuan orang tua/wali; 
+ - c. pengguna Anak dapat mengubah pengaturan privasi tanpa persetujuan orang tua/wali; 
 
-   - d. penyusunan dan penerapan langkah keamanan berdasarkan sifat dan risiko dari Data Pribadi yang harus dilindungi dalam pemrosesan Data Pribadi pengguna Anak; 
+ - d. penyusunan dan penerapan langkah keamanan berdasarkan sifat dan risiko dari Data Pribadi yang harus dilindungi dalam pemrosesan Data Pribadi pengguna Anak; 
 
 - e. melaksanakan ketentuan peraturan perundangundangan di bidang pelindungan Data Pribadi; dan 
 
@@ -364,51 +346,47 @@ Penyelenggara Sistem Elektronik wajib melakukan penilaian mandiri terhadap aspek
 
 - (3) Aspek mengancam keamanan Data Pribadi Anak sebagaimana dimaksud pada ayat (1), didasarkan pada penilaian atas indikator yang dilakukan Penyelenggara 
 
-- 10 - 
-
 Sistem Elektronik sebagai Pengendali Data Pribadi atau Prosesor Data Pribadi sebagaimana yang dimuat dalam penilaian dampak pelindungan Data Pribadi sesuai dengan ketentuan peraturan perundang-undangan di bidang pelindungan Data Pribadi. 
 
-- (4) Penetapan indikator lain sebagaimana dimaksud pada ayat (2) huruf f dilakukan berdasarkan evaluasi terhadap indikator sebagaimana dimaksud pada ayat (2). 
+- (4) Penetapan indikator lain sebagaimana dimaksud pada ayat (2) huruf f dilakukan berdasarkan evaluasi terhadap indikator sebagaimana dimaksud pada ayat (2).
 
-# Pasal 17 
+### Pasal 17 ^pasal-17
 
 - (1) Aspek menimbulkan adiksi sebagaimana dimaksud dalam Pasal 8 ayat (4) huruf e merupakan risiko yang dihadapi Anak atas penggunaan Produk, Layanan, dan Fitur secara berlebihan dan/atau semakin meningkat ( _intens_ ). 
 
 - (2) Penyelenggara Sistem Elektronik melakukan penilaian mandiri terhadap risiko yang dihadapi Anak sebagaimana dimaksud pada ayat (1) berdasarkan indikator paling sedikit: 
 
-   - a. penerapan teknologi; 
+ - a. penerapan teknologi; 
 
-   - b. desain; dan c. indikator lain yang ditetapkan oleh Menteri, yang mendorong Anak untuk terus menggunakan Produk, Layanan, dan Fitur secara berlebihan dan/atau semakin meningkat ( _intens_ ). 
+ - b. desain; dan c. indikator lain yang ditetapkan oleh Menteri, yang mendorong Anak untuk terus menggunakan Produk, Layanan, dan Fitur secara berlebihan dan/atau semakin meningkat ( _intens_ ). 
 
-- (3) Penetapan indikator lain sebagaimana dimaksud pada ayat (2) huruf c dilakukan berdasarkan evaluasi terhadap indikator sebagaimana dimaksud pada ayat (2). 
+- (3) Penetapan indikator lain sebagaimana dimaksud pada ayat (2) huruf c dilakukan berdasarkan evaluasi terhadap indikator sebagaimana dimaksud pada ayat (2).
 
-# Pasal 18 
+### Pasal 18 ^pasal-18
 
 - (1) Aspek gangguan kesehatan psikologis Anak sebagaimana dimaksud dalam Pasal 8 ayat (4) huruf f merupakan risiko Anak mengalami gangguan terhadap kondisi emosional, kognitif, dan/atau psikososial Anak yang dipengaruhi risiko: 
 
-   - a. berkomunikasi atau berinteraksi dengan orang lain yang tidak dikenal sebagaimana dimaksud dalam Pasal 10; 
+ - a. berkomunikasi atau berinteraksi dengan orang lain yang tidak dikenal sebagaimana dimaksud dalam Pasal 10; 
 
-   - b. terpapar pada konten sebagaimana dimaksud dalam Pasal 12; 
+ - b. terpapar pada konten sebagaimana dimaksud dalam Pasal 12; 
 
-   - c. penargetan Anak untuk penawaran barang atau jasa sebagaimana dimaksud dalam Pasal 14; 
+ - c. penargetan Anak untuk penawaran barang atau jasa sebagaimana dimaksud dalam Pasal 14; 
 
-   - d. pemrosesan Data Pribadi yang mengancam keamanan Data Pribadi Anak sebagaimana dimaksud dalam Pasal 16 ayat (1); dan/atau 
+ - d. pemrosesan Data Pribadi yang mengancam keamanan Data Pribadi Anak sebagaimana dimaksud dalam Pasal 16 ayat (1); dan/atau 
 
-   - e. penggunaan Produk, Layanan, dan Fitur secara berlebihan dan/atau semakin meningkat ( _intens_ ) sebagaimana dimaksud dalam Pasal 17 ayat (1). 
+ - e. penggunaan Produk, Layanan, dan Fitur secara berlebihan dan/atau semakin meningkat ( _intens_ ) sebagaimana dimaksud dalam Pasal 17 ayat (1). 
 
 - (2) Penyelenggara Sistem Elektronik melakukan penilaian mandiri terhadap risiko Anak mengalami gangguan terhadap kondisi emosional, kognitif, dan/atau psikososial sebagaimana dimaksud pada ayat (1) berdasarkan indikator paling sedikit: 
 
-   - a. berkomunikasi atau berinteraksi dengan orang lain yang tidak dikenal sebagaimana dimaksud dalam Pasal 11; 
+ - a. berkomunikasi atau berinteraksi dengan orang lain yang tidak dikenal sebagaimana dimaksud dalam Pasal 11; 
 
-   - b. terpapar pada konten sebagaimana dimaksud dalam Pasal 13; 
+ - b. terpapar pada konten sebagaimana dimaksud dalam Pasal 13; 
 
-   - c. penargetan Anak untuk penawaran barang atau jasa sebagaimana dimaksud dalam Pasal 15; 
+ - c. penargetan Anak untuk penawaran barang atau jasa sebagaimana dimaksud dalam Pasal 15; 
 
-   - d. pemrosesan Data Pribadi yang mengancam 
+ - d. pemrosesan Data Pribadi yang mengancam 
 
-- 11 - 
-
-   - keamanan Data Pribadi Anak sebagaimana dimaksud dalam Pasal 16 ayat (2); 
+ - keamanan Data Pribadi Anak sebagaimana dimaksud dalam Pasal 16 ayat (2); 
 
 - e. penggunaan Produk, Layanan, dan Fitur secara berlebihan dan/atau semakin meningkat ( _intens_ ) sebagaimana dimaksud dalam Pasal 17 ayat (2); dan 
 
@@ -416,7 +394,7 @@ Sistem Elektronik sebagai Pengendali Data Pribadi atau Prosesor Data Pribadi seb
 
 - (3) Penetapan indikator lain sebagaimana dimaksud pada ayat (2) huruf f dilakukan berdasarkan evaluasi terhadap indikator sebagaimana dimaksud pada ayat (2). 
 
-      - Pasal 19 
+ - Pasal 19 
 
 - (1) Aspek gangguan fisiologis Anak sebagaimana dimaksud dalam Pasal 8 ayat (4) huruf g merupakan risiko terhadap kondisi fisik tubuh atau fungsi biologis Anak sebagai akibat penggunaan Produk, Layanan, dan Fitur. 
 
@@ -426,17 +404,17 @@ Sistem Elektronik sebagai Pengendali Data Pribadi atau Prosesor Data Pribadi seb
 
 <mark>Petunjuk teknis penilaian tingkat risiko berdasarkan aspek dan indikator sebagaimana dimaksud dalam Pasal 10 sampai dengan Pasal 19 ditetapkan oleh Menteri.</mark> 
 
-# <mark>Bagian Ketiga Pelaporan</mark> 
+# <mark>Bagian Ketiga Pelaporan</mark>
 
-# Pasal 21 
+### Pasal 21 ^pasal-21
 
 - (1) Dalam melaksanakan kewajiban penilaian mandiri sebagaimana dimaksud dalam Pasal 9, Penyelenggara Sistem Elektronik melaporkan hasil penilaian mandiri atas Produk, Layanan, dan Fitur beserta bukti pendukung kepada Menteri melalui Direktur Jenderal. 
 
 - (2) Dalam melaporkan hasil penilaian mandiri sebagaimana dimaksud pada ayat (1) Penyelenggara Sistem Elektronik memastikan dan bertanggung jawab secara hukum bahwa keterangan, data, informasi, dan dokumen yang disampaikan dengan benar, akurat, lengkap, dan tidak menyesatkan. 
 
-- (3) Dalam melaporkan hasil penilaian mandiri sebagaimana dimaksud pada ayat (1), Penyelenggara Sistem Elektronik menunjuk pejabat dalam organisasi Penyelenggara Sistem Elektronik sebagai narahubung. 
+- (3) Dalam melaporkan hasil penilaian mandiri sebagaimana dimaksud pada ayat (1), Penyelenggara Sistem Elektronik menunjuk pejabat dalam organisasi Penyelenggara Sistem Elektronik sebagai narahubung.
 
-# Pasal 22 
+### Pasal 22 ^pasal-22
 
 Dalam hal Penyelenggara Sistem Elektronik memberikan keterangan, data, informasi, dan/atau dokumen yang tidak benar dan/atau menyesatkan dalam laporan penilaian mandiri, menjadi pertimbangan bagi Menteri untuk: 
 
@@ -446,11 +424,9 @@ Dalam hal Penyelenggara Sistem Elektronik memberikan keterangan, data, informasi
 
 - c. melaporkan kepada aparat penegak hukum. 
 
-- 12 - 
+# Bagian Keempat Verifikasi
 
-# Bagian Keempat Verifikasi 
-
-# Pasal 23 
+### Pasal 23 ^pasal-23
 
 - (1) Menteri melakukan verifikasi terhadap hasil penilaian mandiri yang disampaikan oleh Penyelenggara Sistem Elektronik sebagaimana dimaksud dalam Pasal 21. 
 
@@ -458,129 +434,123 @@ Dalam hal Penyelenggara Sistem Elektronik memberikan keterangan, data, informasi
 
 - (3) Dalam melakukan verifikasi sebagaimana dimaksud pada ayat (1), Direktur Jenderal dapat menugaskan, menunjuk, dan/atau melibatkan ahli atau profesional. 
 
-- (4) Tata cara verifikasi terhadap hasil penilaian mandiri ditetapkan dengan Keputusan Menteri. 
+- (4) Tata cara verifikasi terhadap hasil penilaian mandiri ditetapkan dengan Keputusan Menteri.
 
-# Pasal 24 
+### Pasal 24 ^pasal-24
 
 - (1) Dalam hal terdapat ketidaksesuaian antara hasil penilaian mandiri yang dilaporkan dengan keterangan, data, informasi, dan/atau dokumen yang disampaikan oleh Penyelenggara Sistem Elektronik, Direktur Jenderal berwenang meminta konfirmasi atau klarifikasi kepada Penyelenggara Sistem Elektronik berupa keterangan, data, informasi, dan/atau dokumen tambahan yang dibutuhkan dalam proses verifikasi. 
 
 - (2) Penyelenggara Sistem Elektronik harus memenuhi permintaan sebagaimana dimaksud pada ayat (1) dalam jangka waktu yang ditetapkan oleh Direktur Jenderal. 
 
-- (3) Dalam hal Penyelenggara Sistem Elektronik tidak memenuhi permintaan sebagaimana dimaksud pada ayat (2),  Penyelenggara Sistem Elektronik dinyatakan tidak memenuhi kewajiban penilaian mandiri atas Produk, Layanan, dan Fitur. 
+- (3) Dalam hal Penyelenggara Sistem Elektronik tidak memenuhi permintaan sebagaimana dimaksud pada ayat (2), Penyelenggara Sistem Elektronik dinyatakan tidak memenuhi kewajiban penilaian mandiri atas Produk, Layanan, dan Fitur. 
 
 - (4) Penyelenggara Sistem Elektronik yang dinyatakan tidak memenuhi kewajiban penilaian mandiri atas Produk, Layanan, dan Fitur sebagaimana dimaksud pada ayat (3) melakukan penilaian mandiri sebagaimana dimaksud dalam Pasal 9 sampai dengan Pasal 19. 
 
 # Bagian Kelima 
 
-Penetapan Profil Risiko Produk, Layanan, dan Fitur 
+Penetapan Profil Risiko Produk, Layanan, dan Fitur
 
-# Pasal 25 
+### Pasal 25 ^pasal-25
 
 - (1) Berdasarkan verifikasi sebagaimana dimaksud dalam Pasal 23, Menteri menetapkan profil risiko Produk, Layanan, dan Fitur yang dikembangkan dan/atau diselenggarakan oleh Penyelenggara Sistem Elektronik. 
 
 - (2) Penetapan profil risiko sebagaimana dimaksud pada ayat (1) berupa: 
 
-   - a. profil risiko tinggi; atau 
+ - a. profil risiko tinggi; atau 
 
-   - b. profil risiko rendah. 
+ - b. profil risiko rendah. 
 
 - (3) Menteri mendelegasikan kewenangan penetapan profil risiko Produk, Layanan, dan Fitur sebagaimana dimaksud pada ayat (1) kepada Direktur Jenderal. 
 
-- 13 - 
-
 # Bagian Keenam 
 
-Penilaian Mandiri Ulang, Pelaporan Hasil Penilaian Mandiri Ulang, Verifikasi Ulang, dan Penetapan Profil Risiko Baru 
+Penilaian Mandiri Ulang, Pelaporan Hasil Penilaian Mandiri Ulang, Verifikasi Ulang, dan Penetapan Profil Risiko Baru
 
-# Pasal 26 
+### Pasal 26 ^pasal-26
 
 - (1) Dalam hal terdapat perubahan tingkat risiko atas Produk, Layanan, dan Fitur yang telah ditetapkan profil risikonya, Penyelenggara Sistem Elektronik melakukan penilaian mandiri ulang dan pelaporan hasil penilaian mandiri ulang terhadap aspek dan indikator yang relevan yang terdampak akibat perubahan tersebut. 
 
 - (2) Perubahan tingkat risiko sebagaimana dimaksud pada ayat (1) dapat berasal dari: 
 
-   - a. penyesuaian dan/atau penerapan teknologi, langkah teknis operasional, dan/atau kontrol terhadap Produk, Layanan, dan Fitur yang berdampak pada perubahan profil risiko yang dilakukan oleh Penyelenggara Sistem Elektronik; 
+ - a. penyesuaian dan/atau penerapan teknologi, langkah teknis operasional, dan/atau kontrol terhadap Produk, Layanan, dan Fitur yang berdampak pada perubahan profil risiko yang dilakukan oleh Penyelenggara Sistem Elektronik; 
 
-   - b. laporan atau aduan Anak sebagai pengguna, orang tua, atau wali Anak kepada Penyelenggara Sistem Elektronik; 
+ - b. laporan atau aduan Anak sebagai pengguna, orang tua, atau wali Anak kepada Penyelenggara Sistem Elektronik; 
 
-   - c. laporan dari masyarakat kepada Penyelenggara Sistem Elektronik; dan/atau 
+ - c. laporan dari masyarakat kepada Penyelenggara Sistem Elektronik; dan/atau 
 
-   - d. laporan atau informasi dari kementerian/lembaga kepada Penyelenggara Sistem Elektronik. 
+ - d. laporan atau informasi dari kementerian/lembaga kepada Penyelenggara Sistem Elektronik. 
 
 - (3) Penyelenggara Sistem Elektronik dalam melakukan penilaian mandiri ulang dan pelaporan hasil penilaian mandiri ulang sebagai akibat adanya perubahan tingkat risiko harus menerapkan evaluasi atas penilaian tingkat risiko berdasarkan aspek dan indikator yang terdampak akibat perubahan sebagaimana dimaksud pada ayat (1). 
 
 - (4) Evaluasi atas penilaian tingkat risiko sebagaimana dimaksud pada ayat (3) dapat dilaksanakan terhadap: 
 
-   - <mark>a. desain keamanan (</mark> _<mark>safety by design</mark>_ <mark>) dan desain privasi (</mark> _<mark>privacy by design</mark>_ <mark>);</mark> 
+ - <mark>a. desain keamanan (</mark> _<mark>safety by design</mark>_ <mark>) dan desain privasi (</mark> _<mark>privacy by design</mark>_ <mark>);</mark> 
 
-   - <mark>b. keterlibatan kontrol atau pengawasan orang tua (</mark> _<mark>parental control</mark>_ <mark>);</mark> 
+ - <mark>b. keterlibatan kontrol atau pengawasan orang tua (</mark> _<mark>parental control</mark>_ <mark>);</mark> 
 
-   - <mark>c. privasi dan pelindungan Data Pribadi;</mark> 
+ - <mark>c. privasi dan pelindungan Data Pribadi;</mark> 
 
-   - <mark>d. moderasi konten, termasuk iklan;</mark> 
+ - <mark>d. moderasi konten, termasuk iklan;</mark> 
 
-   - <mark>e. kurasi konten, termasuk iklan;</mark> 
+ - <mark>e. kurasi konten, termasuk iklan;</mark> 
 
-   - <mark>f. audit secara berkala;</mark> 
+ - <mark>f. audit secara berkala;</mark> 
 
-   - <mark>g. pembatasan/kontrol terhadap transaksi (</mark> _<mark>in apps purchase</mark>_ <mark>);</mark> 
+ - <mark>g. pembatasan/kontrol terhadap transaksi (</mark> _<mark>in apps purchase</mark>_ <mark>);</mark> 
 
-   - <mark>h. pembatasan penggunaan Produk, Layanan, dan Fitur;</mark> 
+ - <mark>h. pembatasan penggunaan Produk, Layanan, dan Fitur;</mark> 
 
-   - <mark>i. verifikasi dan identifikasi pengguna yang tidak dikenal;</mark> 
+ - <mark>i. verifikasi dan identifikasi pengguna yang tidak dikenal;</mark> 
 
-   - <mark>j. verifikasi usia atau</mark> _<mark>age assurance</mark>_ <mark>;</mark> 
+ - <mark>j. verifikasi usia atau</mark> _<mark>age assurance</mark>_ <mark>;</mark> 
 
-   - <mark>k. kontrol transaksi pengeluaran akun pengguna Anak; l. deklarasi konten berbayar oleh Penyelenggara Sistem Elektronik;</mark> 
+ - <mark>k. kontrol transaksi pengeluaran akun pengguna Anak; l. deklarasi konten berbayar oleh Penyelenggara Sistem Elektronik;</mark> 
 
-   - <mark>m. pengembalian uang dan/atau barang dan jaminan pengembalian uang dan barang yang dibeli oleh Anak;</mark> 
+ - <mark>m. pengembalian uang dan/atau barang dan jaminan pengembalian uang dan barang yang dibeli oleh Anak;</mark> 
 
-   - <mark>n. pelaporan terkait risiko; dan/atau</mark> 
+ - <mark>n. pelaporan terkait risiko; dan/atau</mark> 
 
-   - <mark>o. mekanisme lain yang ditentukan oleh Penyelenggara Sistem Elektronik dalam rangka evaluasi atas Produk, Layanan, dan Fitur.</mark> 
+ - <mark>o. mekanisme lain yang ditentukan oleh Penyelenggara Sistem Elektronik dalam rangka evaluasi atas Produk, Layanan, dan Fitur.</mark> 
 
 - (5) Berdasarkan hasil penilaian mandiri ulang, Penyelenggara Sistem Elektronik melaporkan hasil penilaian mandiri 
 
-- 14 - 
-
 ulang sebagaimana dimaksud pada ayat (1) kepada Menteri. 
 
-- (6) Menteri melakukan verifikasi dan penetapan profil risiko berdasarkan penilaian mandiri ulang dan pelaporan  hasil penilaian mandiri ulang sebagaimana dimaksud pada ayat (1). 
+- (6) Menteri melakukan verifikasi dan penetapan profil risiko berdasarkan penilaian mandiri ulang dan pelaporan hasil penilaian mandiri ulang sebagaimana dimaksud pada ayat (1). 
 
 - (7) Profil risiko yang ditetapkan oleh Menteri sebagaimana dimaksud dalam Pasal 25 ayat (1) masih tetap berlaku sampai dengan Menteri menetapkan perubahan profil risiko sebagaimana dimaksud pada ayat (6). 
 
-- (8) Penyelenggara Sistem Elektronik menyesuaikan profil risiko atas Produk, Layanan, dan Fitur dan/atau batasan minimum usia Anak setelah Menteri menetapkan profil risiko baru terhadap perubahan tersebut sebagaimana dimaksud pada ayat (6). 
+- (8) Penyelenggara Sistem Elektronik menyesuaikan profil risiko atas Produk, Layanan, dan Fitur dan/atau batasan minimum usia Anak setelah Menteri menetapkan profil risiko baru terhadap perubahan tersebut sebagaimana dimaksud pada ayat (6).
 
-# Pasal 27 
+### Pasal 27 ^pasal-27
 
 - (1) Dalam hal terdapat perubahan tingkat risiko sebagaimana dimaksud dalam Pasal 26, Penyelenggara Sistem Elektronik melakukan: 
 
-   - a. identifikasi pengguna Anak yang mungkin terdampak akibat perubahan profil risiko; dan 
+ - a. identifikasi pengguna Anak yang mungkin terdampak akibat perubahan profil risiko; dan 
 
-   - b. pemberian notifikasi kepada pengguna Anak yang mungkin terdampak akibat perubahan profil risiko. 
+ - b. pemberian notifikasi kepada pengguna Anak yang mungkin terdampak akibat perubahan profil risiko. 
 
-- (2) Notifikasi sebagaimana dimaksud pada ayat (1) huruf b disampaikan dalam bahasa yang mudah dipahami serta dalam format dan dengan cara yang mudah digunakan atau diakses oleh Anak dan orang tua atau wali Anak dalam Produk, Layanan, dan Fitur. 
+- (2) Notifikasi sebagaimana dimaksud pada ayat (1) huruf b disampaikan dalam bahasa yang mudah dipahami serta dalam format dan dengan cara yang mudah digunakan atau diakses oleh Anak dan orang tua atau wali Anak dalam Produk, Layanan, dan Fitur.
 
-# Pasal 28 
+### Pasal 28 ^pasal-28
 
 Ketentuan mengenai penilaian mandiri, pelaporan hasil penilaian mandiri, verifikasi hasil penilaian mandiri, dan penetapan profil risiko sebagaimana dimaksud dalam Pasal 9 sampai dengan Pasal 25 berlaku secara mutatis mutandis terhadap penilaian mandiri ulang, pelaporan hasil penilaian mandiri ulang, verifikasi hasil penilaian mandiri ulang, dan penetapan profil risiko baru berdasarkan perubahan sebagaimana dimaksud dalam Pasal 26. 
 
-# Bagian Ketujuh Akun Anak dan Profil Risiko 
+# Bagian Ketujuh Akun Anak dan Profil Risiko
 
-# Pasal 29 
+### Pasal 29 ^pasal-29
 
 - (1) Penyelenggara Sistem Elektronik yang mengharuskan atau mensyaratkan mendaftar atau memiliki akun untuk menggunakan atau mengakses Produk, Layanan, dan Fitur wajib menjamin tersedianya teknologi serta berfungsinya secara efektif langkah teknis dan operasional bagi orang tua atau wali Anak untuk dapat melakukan pengawasan terhadap penggunaan Produk, Layanan, dan Fitur melalui akun Anak. 
 
 - (2) Penyelenggara Sistem Elektronik yang mengharuskan atau mensyaratkan mendaftar atau memiliki akun untuk menggunakan atau mengakses Produk, Layanan, dan Fitur wajib mengikuti batasan minimum usia Anak sesuai ketentuan sebagai berikut: 
 
-   - a. Anak berusia di bawah 13 (tiga belas) tahun sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf a, huruf b, dan huruf c dapat memiliki akun pada 
-
-- 15 - 
+ - a. Anak berusia di bawah 13 (tiga belas) tahun sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf a, huruf b, dan huruf c dapat memiliki akun pada 
 
 Produk, Layanan, dan Fitur yang secara khusus dirancang untuk digunakan atau diakses oleh Anak dan memiliki profil risiko rendah dengan persetujuan orang tua; 
 
-   - b. Anak berusia 13 (tiga belas) tahun hingga belum berusia 16 (enam belas) tahun sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf d dapat memiliki akun hanya pada Produk, Layanan, dan Fitur yang memiliki profil risiko rendah dengan persetujuan orang tua; 
+ - b. Anak berusia 13 (tiga belas) tahun hingga belum berusia 16 (enam belas) tahun sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf d dapat memiliki akun hanya pada Produk, Layanan, dan Fitur yang memiliki profil risiko rendah dengan persetujuan orang tua; 
 
-   - c. Anak berusia 16 (enam belas) tahun hingga belum berusia 18 (delapan belas) tahun sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf e dapat memiliki akun untuk Produk, Layanan, dan Fitur dengan persetujuan orang tua. 
+ - c. Anak berusia 16 (enam belas) tahun hingga belum berusia 18 (delapan belas) tahun sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf e dapat memiliki akun untuk Produk, Layanan, dan Fitur dengan persetujuan orang tua. 
 
 - (3) Profil risiko sebagaimana dimaksud pada ayat (2) didasarkan pada penetapan profil risiko Produk, Layanan, dan Fitur yang ditetapkan oleh Menteri sebagaimana dimaksud dalam Pasal 25 ayat (1). 
 
@@ -588,115 +558,87 @@ Produk, Layanan, dan Fitur yang secara khusus dirancang untuk digunakan atau dia
 
 # Bagian Kedelapan 
 
-# Layanan Jejaring dan Media Sosial 
+# Layanan Jejaring dan Media Sosial
 
-Pasal 30 
+### Pasal 30 ^pasal-30
 
 - (1) Layanan jejaring dan media sosial yang disediakan Penyelenggara Sistem Elektronik dikategorikan sebagai Produk, Layanan, dan Fitur dengan profil risiko tinggi kecuali ditentukan lain berdasarkan hasil penilaian mandiri dan penetapan profil risiko oleh Menteri. 
 
 - (2) Layanan jejaring dan media sosial sebagaimana dimaksud pada ayat (1) merupakan layanan yang memenuhi kondisi sebagai berikut: 
 
-   - a. memungkinkan interaksi sosial dalam jaringan antara dua atau lebih pengguna; 
+ - a. memungkinkan interaksi sosial dalam jaringan antara dua atau lebih pengguna; 
 
-   - b. memungkinkan pengguna untuk berhubungan, atau berinteraksi dengan beberapa atau semua pengguna lainnya; dan/atau 
+ - b. memungkinkan pengguna untuk berhubungan, atau berinteraksi dengan beberapa atau semua pengguna lainnya; dan/atau 
 
-   - c. memungkinkan pengguna mengunggah material pada Produk, Layanan, dan Fitur. 
+ - c. memungkinkan pengguna mengunggah material pada Produk, Layanan, dan Fitur. 
 
 - (3) Dalam melaksanakan kewajiban mengikuti batasan minimum usia Anak, Penyelenggara Sistem Elektronik yang menyelenggarakan Produk, Layanan, dan Fitur sebagaimana dimaksud pada ayat (1) harus menonaktifkan akun Anak yang berusia di bawah 16 (enam belas) tahun. 
 
 - (4) Layanan jejaring dan media sosial yang disediakan oleh Penyelenggara Sistem Elektronik sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Menteri. 
 
-- 16 - 
-
 # BAB IV 
 
 # PENGAWASAN PENYELENGGARAAN SISTEM ELEKTRONIK DALAM PELINDUNGAN ANAK 
 
-# Bagian Kesatu Umum 
+# Bagian Kesatu Umum
 
-# Pasal 31 
-
-- (1) Pengawasan pelaksanaan tata kelola Penyelenggaraan Sistem Elektronik dalam pelindungan Anak dilaksanakan oleh Menteri. 
-
-- (2) Dalam melakukan pengawasan sebagaimana dimaksud pada ayat (1), Menteri berwenang: 
-
-   - a. melakukan pemantauan dan/atau penelusuran terhadap pelaksanaan kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik; 
-
-   - b. menerima laporan atau aduan terkait dugaan pelanggaran kewajiban pelindungan Anak yang dilakukan oleh Penyelenggara Sistem Elektronik dalam Penyelenggaraan Sistem Elektronik; 
-
-- c. melakukan pemeriksaan untuk menindaklanjuti pemantauan dan/atau penelusuran sebagaimana dimaksud dalam huruf a dan/atau laporan atau aduan sebagaimana dimaksud dalam huruf b; dan 
-
-- d. melakukan pengendalian berdasarkan hasil pemeriksaan sebagaimana dimaksud dalam huruf c. 
-
-- (3) Menteri mendelegasikan pelaksanaan pengawasan sebagaimana dimaksud pada ayat (2) kepada Direktur Jenderal. 
-
-      - Pasal 32 
-
-- (1) Keterangan, data, informasi, dan/atau dokumen yang disediakan dan/atau diserahkan oleh Penyelenggara Sistem Elektronik digunakan untuk kepentingan pelaksanaan pengawasan sebagaimana dimaksud dalam Pasal 31. 
-
-- (2) Perlindungan terhadap keterangan, data, informasi, dan/atau dokumen sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. 
-
-# Pasal 33 
-
-- (1) Penanganan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik dilaksanakan dengan tahapan sebagai berikut: 
-
-   - a. temuan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; dan 
-
-   - b. pemeriksaan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik. 
-
-- (2) Temuan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik sebagaimana dimaksud pada ayat (1) huruf a dapat berasal dari: 
-
-   - a. hasil pemantauan dan/atau penelusuran sebagaimana dimaksud dalam Pasal 31 ayat (2) huruf a; dan/atau 
-
-   - b. laporan atau aduan sebagaimana dimaksud dalam 
-
-- 17 - 
-
-Pasal 31 ayat (2) huruf b. 
+### Pasal 31 ^pasal-31
 
 - (3) Pemeriksaan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik sebagaimana dimaksud pada ayat (1) huruf b didasarkan pada temuan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik sebagaimana dimaksud pada ayat (2). 
 
-- (4) Pengenaan sanksi administratif didasarkan pada hasil pemeriksaan  sebagaimana dimaksud pada ayat (1) huruf b. 
+- (4) Pengenaan sanksi administratif didasarkan pada hasil pemeriksaan sebagaimana dimaksud pada ayat (1) huruf b. 
 
 # Bagian Kedua 
 
-# Pemantauan dan/atau Penelusuran 
+# Pemantauan dan/atau Penelusuran
 
-# Pasal 34 
+### Pasal 33 ^pasal-33
+
+- (1) Penanganan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik dilaksanakan dengan tahapan sebagai berikut: 
+
+ - a. temuan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; dan 
+
+ - b. pemeriksaan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik. 
+
+- (2) Temuan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik sebagaimana dimaksud pada ayat (1) huruf a dapat berasal dari: 
+
+ - a. hasil pemantauan dan/atau penelusuran sebagaimana dimaksud dalam Pasal 31 ayat (2) huruf a; dan/atau 
+
+ - b. laporan atau aduan sebagaimana dimaksud dalam
+
+### Pasal 34 ^pasal-34
 
 - (1) Direktur Jenderal melakukan pemantauan dan/atau penelusuran sebagaimana dimaksud dalam Pasal 33 ayat (2) huruf a melalui: 
 
-   - a. pemantauan aktivitas transaksi elektronik Penyelenggara Sistem Elektronik dalam mematuhi kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; 
+ - a. pemantauan aktivitas transaksi elektronik Penyelenggara Sistem Elektronik dalam mematuhi kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; 
 
-   - b. penelusuran Orang terkait dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; 
+ - b. penelusuran Orang terkait dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; 
 
-   - c. pengumpulan dan permintaan keterangan, data, informasi, dan/atau dokumen terkait pelaksanaan kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; 
+ - c. pengumpulan dan permintaan keterangan, data, informasi, dan/atau dokumen terkait pelaksanaan kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; 
 
-   - d. tindakan berbagi informasi dengan kementerian/lembaga dan/atau institusi penegak hukum terkait pelaksanaan kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; dan 
+ - d. tindakan berbagi informasi dengan kementerian/lembaga dan/atau institusi penegak hukum terkait pelaksanaan kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; dan 
 
-   - e. pemberian peringatan kepada Penyelenggara Sistem Elektronik mengenai praktik penyelenggaraan Produk, Layanan, dan Fitur yang dinilai berpotensi melanggar hak Anak. 
+ - e. pemberian peringatan kepada Penyelenggara Sistem Elektronik mengenai praktik penyelenggaraan Produk, Layanan, dan Fitur yang dinilai berpotensi melanggar hak Anak. 
 
 - (2) Pemantauan dan/atau penelusuran sebagaimana dimaksud pada ayat (1) didasarkan pada informasi, data, dan keterangan yang dapat diakses secara publik. 
 
 - (3) Pelaksanaan pemantauan aktivitas elektronik, penelusuran Orang, dan/atau pengumpulan dan permintaan sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan huruf c, dapat: 
 
-   - a. meminta bantuan teknis dan keahlian kepada kementerian/lembaga; dan/atau 
+ - a. meminta bantuan teknis dan keahlian kepada kementerian/lembaga; dan/atau 
 
-   - b. memerintahkan kepada Penyelenggara Sistem Elektronik dan ahli untuk memberikan bantuan teknis dan keahlian. 
+ - b. memerintahkan kepada Penyelenggara Sistem Elektronik dan ahli untuk memberikan bantuan teknis dan keahlian. 
 
 - (4) Pemantauan dan/atau penelusuran sebagaimana dimaksud pada ayat (1) huruf a dan huruf b dapat dilakukan dengan memanfaatkan teknologi informasi yang diselenggarakan oleh: 
 
-   - a. Kementerian; b. kementerian/lembaga pemerintah lain; dan/atau 
+ - a. Kementerian; b. kementerian/lembaga pemerintah lain; dan/atau 
 
-   - c. Penyelenggara Sistem Elektronik lingkup privat. 
+ - c. Penyelenggara Sistem Elektronik lingkup privat. 
 
 - (5) Pemanfaatan teknologi informasi sebagaimana dimaksud pada ayat (4) huruf b atau huruf c dilaksanakan sesuai dengan tugas dan fungsi, kewenangan, dan ketentuan peraturan perundang-undangan. 
 
-- 18 - 
+# Bagian Ketiga Laporan atau Aduan
 
-# Bagian Ketiga Laporan atau Aduan 
-
-# Pasal 35 
+### Pasal 35 ^pasal-35
 
 - (1) Laporan atau aduan sebagaimana dimaksud dalam Pasal 33 ayat (2) huruf b disampaikan kepada Menteri melalui Direktur Jenderal secara tertulis atau elektronik. 
 
@@ -706,53 +648,51 @@ Pasal 31 ayat (2) huruf b.
 
 - (4) Laporan atau aduan sebagaimana dimaksud pada ayat (1) disampaikan dengan melampirkan dokumen dan informasi lengkap dan benar terkait: 
 
-   - a. identitas seseorang atau pihak yang mengajukan laporan atau aduan; 
+ - a. identitas seseorang atau pihak yang mengajukan laporan atau aduan; 
 
-   - b. identitas Penyelenggara Sistem Elektronik; 
+ - b. identitas Penyelenggara Sistem Elektronik; 
 
-   - c. dugaan pelanggaran kewajiban Pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan; dan 
+ - c. dugaan pelanggaran kewajiban Pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan; dan 
 
-   - d. keterangan dan/atau bukti yang memuat fakta, data, atau petunjuk terjadinya pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik. 
+ - d. keterangan dan/atau bukti yang memuat fakta, data, atau petunjuk terjadinya pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik. 
 
 - (5) Direktorat Jenderal memberikan tanda bukti penerimaan laporan atau aduan kepada seseorang atau pihak yang mengajukan laporan atau aduan. 
 
-# Bagian Keempat Pemeriksaan Pendahuluan 
+# Bagian Keempat Pemeriksaan Pendahuluan
 
-# Pasal 36 
+### Pasal 36 ^pasal-36
 
 - (1) Direktorat Jenderal melakukan pemeriksaan pendahuluan terhadap dokumen pelaporan atau pengaduan sebagaimana dimaksud dalam Pasal 35 ayat (4) paling lama 3 (tiga) Hari sejak diterimanya laporan atau aduan. 
 
 - (2) Direktorat Jenderal menentukan jangka waktu penyelesaian pemeriksaan pendahuluan berdasarkan: 
 
-   - a. tingkat kesulitan penanganan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik; 
+ - a. tingkat kesulitan penanganan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik; 
 
-   - b. jumlah Anak yang terkena dampak atau mungkin terdampak akibat insiden dari dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik; dan/atau 
+ - b. jumlah Anak yang terkena dampak atau mungkin terdampak akibat insiden dari dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik; dan/atau 
 
 - c. kelengkapan dokumen dan informasi sebagaimana dimaksud dalam Pasal 35 ayat (4). 
 
 - (3) Dalam hal Direktorat Jenderal menyimpulkan berdasarkan hasil pemeriksaan pendahuluan terdapat 
 
-- 19 - 
+kekurangan dokumen dan/atau informasi sebagaimana dimaksud dalam Pasal 35 ayat (4), Direktorat Jenderal memberitahukan secara tertulis atau elektronik kepada Orang, Badan Publik, atau pihak yang menyampaikan laporan atau seseorang atau pihak yang menyampaikan aduan untuk melengkapi dokumen dan/atau informasi yang dimaksud.
 
-kekurangan dokumen dan/atau informasi sebagaimana dimaksud dalam Pasal 35 ayat (4), Direktorat Jenderal memberitahukan secara tertulis atau elektronik kepada Orang, Badan Publik, atau pihak yang menyampaikan laporan atau seseorang atau pihak yang menyampaikan aduan untuk melengkapi dokumen dan/atau informasi yang dimaksud. 
-
-# Pasal 37 
+### Pasal 37 ^pasal-37
 
 - (1) Tingkat kesulitan penanganan dugaan pelanggaran kewajiban pelindungan Anak sebagaimana dimaksud dalam Pasal 36 ayat (2) huruf a didasarkan pada pertimbangan: a. kedudukan domisili Penyelenggara Sistem Elektronik; 
 
-   - b. sifat lintas batas negara dalam penyelenggaraan Produk, Layanan, dan Fitur; dan 
+ - b. sifat lintas batas negara dalam penyelenggaraan Produk, Layanan, dan Fitur; dan 
 
-   - c. kompleksitas Produk, Layanan, dan Fitur, termasuk teknologi yang terintegrasi dalam Produk, Layanan, dan Fitur. 
+ - c. kompleksitas Produk, Layanan, dan Fitur, termasuk teknologi yang terintegrasi dalam Produk, Layanan, dan Fitur. 
 
 - (2) Jumlah Anak yang terkena dampak atau mungkin terdampak akibat insiden dari dugaan pelanggaran kewajiban pelindungan Anak sebagaimana dimaksud dalam Pasal 36 ayat (2) huruf b didasarkan pada pertimbangan: 
 
-   - a. jumlah laporan atau aduan yang disampaikan telah mencapai paling sedikit 25 (dua puluh lima) Anak; 
+ - a. jumlah laporan atau aduan yang disampaikan telah mencapai paling sedikit 25 (dua puluh lima) Anak; 
 
-   - b. perkiraan jumlah Anak yang mungkin terdampak dapat mencapai paling sedikit 25 (dua puluh lima) Anak; dan 
+ - b. perkiraan jumlah Anak yang mungkin terdampak dapat mencapai paling sedikit 25 (dua puluh lima) Anak; dan 
 
-   - c. domisili Anak sebagaimana dimaksud dalam huruf a atau huruf b berasal dari paling sedikit 2 (dua) provinsi. 
+ - c. domisili Anak sebagaimana dimaksud dalam huruf a atau huruf b berasal dari paling sedikit 2 (dua) provinsi.
 
-# Pasal 38 
+### Pasal 38 ^pasal-38
 
 - (1) Dalam hal Direktorat Jenderal menyimpulkan berdasarkan hasil pemeriksaan pendahuluan memerlukan klarifikasi, validasi, atau penjelasan mengenai dokumen dan/atau informasi sebagaimana dimaksud dalam Pasal 35 ayat (4), Direktorat Jenderal berwenang memanggil Orang, Badan Publik, atau pihak yang menyampaikan laporan atau seseorang atau pihak yang menyampaikan aduan untuk mendapatkan keterangan, data, informasi, dan/atau dokumen yang diperlukan. 
 
@@ -762,25 +702,23 @@ kekurangan dokumen dan/atau informasi sebagaimana dimaksud dalam Pasal 35 ayat (
 
 - (4) Berita acara pemeriksaan pendahuluan sebagaimana dimaksud pada ayat (3) paling sedikit memuat: a. hari, tanggal, tempat, dan waktu pemeriksaan; b. identitas lengkap pemeriksa; 
 
-   - c. identitas lengkap pihak yang menyampaikan laporan atau aduan; 
+ - c. identitas lengkap pihak yang menyampaikan laporan atau aduan; 
 
-- 20 - 
+ - d. dugaan pelanggaran kewajiban disertai dengan dasar hukumnya; dan 
 
-   - d. dugaan pelanggaran kewajiban disertai dengan dasar hukumnya; dan 
+ - e. keterangan, data, informasi, dan/atau dokumen yang terkait dengan laporan atau aduan. 
 
-   - e. keterangan, data, informasi, dan/atau dokumen yang terkait dengan laporan atau aduan. 
+- (5) Berita acara pemeriksaan pendahuluan ditandatangani oleh subjek hukum pelapor atau pengadu.
 
-- (5) Berita acara pemeriksaan pendahuluan ditandatangani oleh subjek hukum pelapor atau pengadu. 
-
-# Pasal 39 
+### Pasal 39 ^pasal-39
 
 - (1) Dalam hal Direktorat Jenderal menyimpulkan berdasarkan hasil pemeriksaan pendahuluan yang dituangkan dalam bentuk berita acara pemeriksaan pendahuluan sebagaimana dimaksud dalam Pasal 38 ayat (3), terdapat cukup informasi untuk menindaklanjuti laporan atau aduan, Direktorat Jenderal melakukan pemeriksaan lanjutan. 
 
 - (2) Dalam hal Direktorat Jenderal menyimpulkan berdasarkan hasil pemeriksaan pendahuluan sebagaimana dimaksud dalam Pasal 38 ayat (1) tidak terdapat cukup informasi untuk menindaklanjuti laporan atau aduan, Direktorat Jenderal berwenang menghentikan pemeriksaan dan menyampaikan pemberitahuan secara tertulis atau elektronik kepada Orang, Badan Publik, atau pihak yang menyampaikan laporan atau seseorang atau pihak yang menyampaikan aduan. 
 
-- (3) Dalam hal Direktorat Jenderal menyimpulkan berdasarkan hasil pemeriksaan pendahuluan sebagaimana dimaksud dalam Pasal 38 ayat (1), Direktorat Jenderal tidak berwenang menindaklanjuti laporan atau aduan, Direktorat Jenderal menyampaikan pemberitahuan secara tertulis atau elektronik hal yang dimaksud kepada Orang, Badan Publik, atau pihak yang menyampaikan laporan atau seseorang atau pihak yang menyampaikan aduan. 
+- (3) Dalam hal Direktorat Jenderal menyimpulkan berdasarkan hasil pemeriksaan pendahuluan sebagaimana dimaksud dalam Pasal 38 ayat (1), Direktorat Jenderal tidak berwenang menindaklanjuti laporan atau aduan, Direktorat Jenderal menyampaikan pemberitahuan secara tertulis atau elektronik hal yang dimaksud kepada Orang, Badan Publik, atau pihak yang menyampaikan laporan atau seseorang atau pihak yang menyampaikan aduan.
 
-# Pasal 40 
+### Pasal 40 ^pasal-40
 
 Dalam menyelesaikan pemeriksaan pendahuluan, Direktorat Jenderal dapat: 
 
@@ -792,15 +730,13 @@ Dalam menyelesaikan pemeriksaan pendahuluan, Direktorat Jenderal dapat:
 
 # Pemeriksaan Lanjutan 
 
-      - Pasal 41 
+ - Pasal 41 
 
 - (1) Direktorat Jenderal melakukan pemeriksaan lanjutan terhadap dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik berdasarkan hasil pemantauan dan/atau penelusuran sebagaimana dimaksud dalam Pasal 34 ayat (1) dan hasil pemeriksaan pendahuluan sebagaimana dimaksud dalam Pasal 39 ayat (1). 
 
 - (2) Dalam rangka melakukan pemeriksaan lanjutan sebagaimana dimaksud pada ayat (1), Direktorat Jenderal melaksanakan: 
 
-   - a. pemanggilan dan menghadirkan setiap 
-
-- 21 - 
+ - a. pemanggilan dan menghadirkan setiap 
 
 - Penyelenggara Sistem Elektronik, Orang, dan/atau Badan Publik yang terkait dengan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik; 
 
@@ -816,9 +752,9 @@ Dalam menyelesaikan pemeriksaan pendahuluan, Direktorat Jenderal dapat:
 
 - g. pelaporan dugaan tindak pidana yang diketahui dan/atau ditemukan berdasarkan hasil pemeriksaan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik kepada aparat penegak hukum; dan 
 
-- h. berbagi informasi dengan kementerian/lembaga dan/atau institusi penegak hukum terkait pelaksanaan kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik. 
+- h. berbagi informasi dengan kementerian/lembaga dan/atau institusi penegak hukum terkait pelaksanaan kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik.
 
-Pasal 42 
+### Pasal 42 ^pasal-42
 
 - (1) Direktorat Jenderal melakukan pemanggilan kepada Penyelenggara Sistem Elektronik yang diduga melakukan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik melalui pemberitahuan secara tertulis atau elektronik. 
 
@@ -828,71 +764,67 @@ Pasal 42
 
 - (4) Dalam hal alamat kedudukan hukum dan/atau alamat surat elektronik Penyelenggara Sistem Elektronik yang 
 
-- 22 - 
+tidak terdaftar secara resmi di Kementerian atau telah berubah tanpa pemberitahuan resmi kepada Direktorat Jenderal, Kementerian melakukan pemanggilan melalui pengumuman dalam situs resmi Kementerian dan dianggap sebagai surat pemberitahuan.
 
-tidak terdaftar secara resmi di Kementerian atau telah berubah tanpa pemberitahuan resmi kepada Direktorat Jenderal, Kementerian melakukan pemanggilan melalui pengumuman dalam situs resmi Kementerian dan dianggap sebagai surat pemberitahuan. 
-
-# Pasal 43 
+### Pasal 43 ^pasal-43
 
 - (1) Pemanggilan kepada Penyelenggara Sistem Elektronik sebagaimana dimaksud dalam Pasal 42 dilakukan untuk: a. menyampaikan adanya dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; 
 
-   - b. memberikan kesempatan kepada Penyelenggara Sistem Elektronik untuk memberikan keterangan, pembelaan diri, dan/atau pendapatnya; dan 
+ - b. memberikan kesempatan kepada Penyelenggara Sistem Elektronik untuk memberikan keterangan, pembelaan diri, dan/atau pendapatnya; dan 
 
-   - c. memberitahukan konsekuensi sanksi administratif yang dapat dikenakan atas pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik. 
+ - c. memberitahukan konsekuensi sanksi administratif yang dapat dikenakan atas pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik. 
 
 - (2) Pemanggilan terhadap Penyelenggara Sistem Elektronik yang diduga melakukan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik sebagaimana dimaksud pada ayat (1) dilakukan sebanyak 3 (tiga) kali. 
 
-- (3) Pemanggilan sebagaimana dimaksud pada ayat (2) memuat tanggal dan tempat pemeriksaan. 
+- (3) Pemanggilan sebagaimana dimaksud pada ayat (2) memuat tanggal dan tempat pemeriksaan.
 
-# Pasal 44 
+### Pasal 44 ^pasal-44
 
 - (1) Penentuan tanggal pemeriksaan sebagaimana dimaksud dalam Pasal 43 ayat (3) mempertimbangkan paling sedikit: a. domisili Penyelenggara Sistem Elektronik atau domisili perwakilan Penyelenggara Sistem Elektronik di Indonesia; dan 
 
-   - b. kategori dari pelanggaran kewajiban yang diduga dilakukan oleh Penyelenggara Sistem Elektronik. 
+ - b. kategori dari pelanggaran kewajiban yang diduga dilakukan oleh Penyelenggara Sistem Elektronik. 
 
 - (2) Dalam hal Penyelenggara Sistem Elektronik yang diduga melakukan pelanggaran kewajiban tidak hadir pada waktu yang ditentukan dalam pemanggilan pertama, Direktorat Jenderal melakukan pemanggilan kedua paling lambat 7 (tujuh) Hari sejak tanggal pemeriksaan pada 
 
-   - pemanggilan pertama. 
+ - pemanggilan pertama. 
 
 - (3) Dalam hal Penyelenggara Sistem Elektronik yang diduga melakukan pelanggaran kewajiban tidak hadir pada waktu yang ditentukan dalam pemanggilan kedua sebagaimana dimaksud pada ayat (2), Direktorat Jenderal melakukan pemanggilan ketiga paling lambat 7 (tujuh) Hari sejak tanggal pemeriksaan pada pemanggilan kedua. 
 
-- (4) Dalam hal Penyelenggara Sistem Elektronik yang diduga melakukan pelanggaran kewajiban tidak hadir pada tanggal pemeriksaan pemanggilan ketiga sebagaimana dimaksud pada ayat (3), Direktur Jenderal berwenang mengenakan sanksi administratif berdasarkan alat bukti dan keterangan yang ada tanpa dilakukan pemeriksaan terhadap Penyelenggara Sistem Elektronik. 
+- (4) Dalam hal Penyelenggara Sistem Elektronik yang diduga melakukan pelanggaran kewajiban tidak hadir pada tanggal pemeriksaan pemanggilan ketiga sebagaimana dimaksud pada ayat (3), Direktur Jenderal berwenang mengenakan sanksi administratif berdasarkan alat bukti dan keterangan yang ada tanpa dilakukan pemeriksaan terhadap Penyelenggara Sistem Elektronik.
 
-# Pasal 45 
+### Pasal 45 ^pasal-45
 
 - (1) Pemeriksaan terhadap Penyelenggara Sistem Elektronik yang dipanggil sebagaimana dimaksud dalam Pasal 42 dilakukan secara fisik di kantor Kementerian. 
 
 - (2) Dalam hal pemeriksaan secara fisik sebagaimana 
 
-- 23 - 
-
 dimaksud pada ayat (1) tidak dimungkinkan, pemeriksaan terhadap Penyelenggara Sistem Elektronik dapat dilakukan secara virtual. 
 
 - (3) Penentuan pemeriksaan secara fisik sebagaimana dimaksud pada ayat (1) atau secara virtual sebagaimana dimaksud pada ayat (2) harus mempertimbangkan paling sedikit: 
 
-   - a. domisili Penyelenggara Sistem Elektronik atau domisili perwakilan Penyelenggara Sistem Elektronik di Indonesia; dan/atau 
+ - a. domisili Penyelenggara Sistem Elektronik atau domisili perwakilan Penyelenggara Sistem Elektronik di Indonesia; dan/atau 
 
-   - b. kepentingan pemeriksaan. 
+ - b. kepentingan pemeriksaan. 
 
 - (4) Kepentingan pemeriksaan sebagaimana dimaksud pada ayat (3) huruf b paling sedikit meliputi: 
 
-   - a. menjaga kerahasiaan pemeriksaan; dan/atau b. kebutuhan pemeriksaan fisik terhadap Penyelenggara Sistem Elektronik atau Sistem Elektronik yang diselenggarakan Penyelenggara Sistem Elektronik. 
+ - a. menjaga kerahasiaan pemeriksaan; dan/atau b. kebutuhan pemeriksaan fisik terhadap Penyelenggara Sistem Elektronik atau Sistem Elektronik yang diselenggarakan Penyelenggara Sistem Elektronik.
 
-# Pasal 46 
+### Pasal 46 ^pasal-46
 
-Direktorat Jenderal melakukan klarifikasi dan/atau validasi atas keterangan, data, informasi, dan/atau dokumen yang diterima sebagaimana dimaksud dalam Pasal 41 ayat (2) huruf b. 
+Direktorat Jenderal melakukan klarifikasi dan/atau validasi atas keterangan, data, informasi, dan/atau dokumen yang diterima sebagaimana dimaksud dalam Pasal 41 ayat (2) huruf b.
 
-# Pasal 47 
+### Pasal 47 ^pasal-47
 
 - (1) Pemeriksaan terhadap Penyelenggara Sistem Elektronik yang dipanggil terkait dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik dilakukan secara tertutup. 
 
 - (2) Pemeriksaan sebagaimana dimaksud pada ayat (1) dapat menghadirkan atau mengikutsertakan: 
 
-   - a. pihak yang mengajukan laporan atau aduan; b. ahli yang ditunjuk oleh Direktorat Jenderal atau Penyelenggara Sistem Elektronik; dan/atau 
+ - a. pihak yang mengajukan laporan atau aduan; b. ahli yang ditunjuk oleh Direktorat Jenderal atau Penyelenggara Sistem Elektronik; dan/atau 
 
-   - c. pihak lain yang dibutuhkan oleh Direktorat Jenderal atau Penyelenggara Sistem Elektronik. 
+ - c. pihak lain yang dibutuhkan oleh Direktorat Jenderal atau Penyelenggara Sistem Elektronik.
 
-# Pasal 48 
+### Pasal 48 ^pasal-48
 
 - (1) Penyelenggara Sistem Elektronik yang menerima pemberitahuan sebagaimana dimaksud dalam Pasal 42 dapat memberikan kuasa tertulis untuk mewakili Penyelenggara Sistem Elektronik dalam pemeriksaan. 
 
@@ -902,97 +834,91 @@ Direktorat Jenderal melakukan klarifikasi dan/atau validasi atas keterangan, dat
 
 - (4) Surat kuasa sebagaimana dimaksud pada ayat (1) paling sedikit memuat: 
 
-   - a. judul surat kuasa; b. identitas pemberi kuasa; 
+ - a. judul surat kuasa; b. identitas pemberi kuasa; 
 
-   - c. identitas penerima kuasa; 
+ - c. identitas penerima kuasa; 
 
-   - d. pernyataan pemberian kuasa khusus hal-hal yang dikuasakan secara jelas dan tegas; 
+ - d. pernyataan pemberian kuasa khusus hal-hal yang dikuasakan secara jelas dan tegas; 
 
-   - e. tempat dan tanggal pemberian kuasa; f. tanda tangan pemberi dan penerima kuasa; dan g. meterai sesuai dengan ketentuan peraturan perundang-undangan. 
+ - e. tempat dan tanggal pemberian kuasa; f. tanda tangan pemberi dan penerima kuasa; dan g. meterai sesuai dengan ketentuan peraturan perundang-undangan. 
 
-- 24 - 
+- (5) Pencabutan surat kuasa oleh pemberi kuasa kepada penerima kuasa hanya dapat dilakukan secara tertulis atau elektronik sebelum pemeriksaan dilakukan oleh Direktorat Jenderal.
 
-- (5) Pencabutan surat kuasa oleh pemberi kuasa kepada penerima kuasa hanya dapat dilakukan secara tertulis atau elektronik sebelum pemeriksaan dilakukan oleh Direktorat Jenderal. 
-
-# Pasal 49 
+### Pasal 49 ^pasal-49
 
 - (1) Pemeriksaan terhadap Penyelenggara Sistem Elektronik yang diduga melakukan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik dituangkan dalam berita acara pemeriksaan lanjutan. 
 
-- (2) Berita acara pemeriksaan lanjutan sebagaimana dimaksud pada ayat (1)  paling sedikit memuat: 
+- (2) Berita acara pemeriksaan lanjutan sebagaimana dimaksud pada ayat (1) paling sedikit memuat: 
 
-   - a. hari, tanggal, tempat, dan waktu pemeriksaan; 
+ - a. hari, tanggal, tempat, dan waktu pemeriksaan; 
 
-   - b. identitas lengkap pemeriksa; 
+ - b. identitas lengkap pemeriksa; 
 
-   - c. identitas lengkap Penyelenggara Sistem Elektronik yang menerima pemberitahuan; 
+ - c. identitas lengkap Penyelenggara Sistem Elektronik yang menerima pemberitahuan; 
 
-   - d. dugaan pelanggaran kewajiban disertai dengan dasar hukumnya; 
+ - d. dugaan pelanggaran kewajiban disertai dengan dasar hukumnya; 
 
-   - e. keterangan, pembelaan diri, dan/atau pendapat Penyelenggara Sistem Elektronik; dan 
+ - e. keterangan, pembelaan diri, dan/atau pendapat Penyelenggara Sistem Elektronik; dan 
 
-   - f. konsekuensi jenis sanksi administratif yang dapat dikenakan. 
+ - f. konsekuensi jenis sanksi administratif yang dapat dikenakan. 
 
 - (3) Berita acara pemeriksaan lanjutan ditandatangani oleh Penyelenggara Sistem Elektronik atau kuasanya. 
 
 - (4) Dalam hal Penyelenggara Sistem Elektronik tidak bersedia menandatangani berita acara pemeriksaan lanjutan sebagaimana dimaksud pada ayat (3) dengan alasan atau tanpa alasan, Direktorat Jenderal mencatat dalam berita acara pemeriksaan lanjutan bahwa Penyelenggara Sistem Elektronik tidak bersedia menandatangani berita acara pemeriksaan lanjutan disertai alasan atau tanpa alasan yang disampaikan Penyelenggara Sistem Elektronik. 
 
-- (5) Berita acara pemeriksaan lanjutan yang tidak ditandatangani oleh Penyelenggara Sistem Elektronik sebagaimana dimaksud pada ayat (4) tetap berlaku sebagai dasar untuk pengenaan sanksi administratif. 
+- (5) Berita acara pemeriksaan lanjutan yang tidak ditandatangani oleh Penyelenggara Sistem Elektronik sebagaimana dimaksud pada ayat (4) tetap berlaku sebagai dasar untuk pengenaan sanksi administratif.
 
-# Pasal 50 
+### Pasal 50 ^pasal-50
 
 - (1) Pemeriksaan terhadap Orang, Badan Publik, ahli, atau pihak lain yang memberikan keterangan yang dibutuhkan dalam pemeriksaan lanjutan dituangkan dan ditandatangani dalam berita acara pemeriksaan lanjutan. 
 
-- (2) Berita acara pemeriksaan lanjutan sebagaimana dimaksud pada ayat (1)  paling sedikit memuat: 
+- (2) Berita acara pemeriksaan lanjutan sebagaimana dimaksud pada ayat (1) paling sedikit memuat: 
 
-   - a. hari, tanggal, tempat, dan waktu pemeriksaan; b. identitas lengkap pemeriksa; 
+ - a. hari, tanggal, tempat, dan waktu pemeriksaan; b. identitas lengkap pemeriksa; 
 
-   - c. identitas lengkap dari Orang, Badan Publik, ahli, atau pihak lain yang menerima pemberitahuan; 
+ - c. identitas lengkap dari Orang, Badan Publik, ahli, atau pihak lain yang menerima pemberitahuan; 
 
-   - d. dugaan pelanggaran kewajiban disertai dengan dasar hukumnya; dan 
+ - d. dugaan pelanggaran kewajiban disertai dengan dasar hukumnya; dan 
 
-   - e. keterangan dari Orang, Badan Publik, ahli, atau pihak lain sesuai dengan kapasitas pemanggilan dalam pemberian keterangan yang dibutuhkan dalam pemeriksaan lanjutan. 
+ - e. keterangan dari Orang, Badan Publik, ahli, atau pihak lain sesuai dengan kapasitas pemanggilan dalam pemberian keterangan yang dibutuhkan dalam pemeriksaan lanjutan.
 
-Pasal 51 
+### Pasal 51 ^pasal-51
 
 Dalam melakukan pemeriksaan dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik, Direktorat Jenderal dapat berkoordinasi dengan 
 
-- 25 - 
+kementerian/lembaga dan/atau institusi penegak hukum yang berkaitan dengan objek pemeriksaan.
 
-kementerian/lembaga dan/atau institusi penegak hukum yang berkaitan dengan objek pemeriksaan. 
-
-# Pasal 52 
+### Pasal 52 ^pasal-52
 
 - (1) Penyelenggara Sistem Elektronik harus memberikan atau menyerahkan keterangan, data, informasi, dan/atau dokumen yang benar, akurat, lengkap, dan tidak menyesatkan dalam pemeriksaan. 
 
 - (2) Dalam hal Penyelenggara Sistem Elektronik tidak dapat memberikan atau menyerahkan keterangan, data, informasi, dan/atau dokumen pada waktu pemeriksaan, Penyelenggara Sistem Elektronik memberikan atau menyerahkannya pada waktu yang ditentukan oleh Direktorat Jenderal. 
 
-- (3) Dalam hal Penyelenggara Sistem Elektronik tidak memberikan, tidak menyerahkan, atau menolak untuk memberikan atau menyerahkan keterangan, data, informasi, dan/atau dokumen yang diperlukan untuk kepentingan pemeriksaan dugaan pelanggaran kewajiban Pelindungan Anak dalam Penyelenggaraan Sistem Elektronik pada waktu yang ditentukan oleh Direktorat Jenderal sebagaimana dimaksud pada ayat (2),  Direktorat Jenderal berwenang mengenakan sanksi administratif terhadap dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik berdasarkan alat bukti atau keterangan yang ada. 
+- (3) Dalam hal Penyelenggara Sistem Elektronik tidak memberikan, tidak menyerahkan, atau menolak untuk memberikan atau menyerahkan keterangan, data, informasi, dan/atau dokumen yang diperlukan untuk kepentingan pemeriksaan dugaan pelanggaran kewajiban Pelindungan Anak dalam Penyelenggaraan Sistem Elektronik pada waktu yang ditentukan oleh Direktorat Jenderal sebagaimana dimaksud pada ayat (2), Direktorat Jenderal berwenang mengenakan sanksi administratif terhadap dugaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik berdasarkan alat bukti atau keterangan yang ada. 
 
-- (4) Pemberian atau penyerahan keterangan, data, informasi, dan/atau dokumen yang tidak benar, tidak akurat, tidak lengkap, atau menyesatkan dalam pemeriksaan merupakan dasar bagi Direktorat Jenderal dalam menilai tingkat kepatuhan pelaksanaan kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik dan/atau untuk mengenakan sanksi administratif yang lebih berat. 
+- (4) Pemberian atau penyerahan keterangan, data, informasi, dan/atau dokumen yang tidak benar, tidak akurat, tidak lengkap, atau menyesatkan dalam pemeriksaan merupakan dasar bagi Direktorat Jenderal dalam menilai tingkat kepatuhan pelaksanaan kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik dan/atau untuk mengenakan sanksi administratif yang lebih berat.
 
-# Pasal 53 
+### Pasal 53 ^pasal-53
 
 - (1) Pemeriksaan dugaan pelanggaran didasarkan pada kecukupan bukti yang relevan, andal, dan valid. 
 
 - (2) Pemeriksaan sebagaimana dimaksud pada ayat (1) menghasilkan kesimpulan berupa: 
 
-   - a. bukan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; 
+ - a. bukan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; 
 
-   - b. pelanggaran atas kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; atau 
+ - b. pelanggaran atas kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik; atau 
 
-   - c. perbuatan tindak pidana. 
+ - c. perbuatan tindak pidana. 
 
-# Bagian Keenam Pengendalian 
+# Bagian Keenam Pengendalian
 
-# Pasal 54 
+### Pasal 54 ^pasal-54
 
 Pengendalian sebagaimana dimaksud dalam Pasal 31 ayat (2) huruf d dilakukan melalui: 
 
 - a. pengenaan sanksi administratif atas pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik; 
 
 - b. pemberian perintah kepada Penyelenggara Sistem Elektronik dalam rangka tindak lanjut hasil pemeriksaan pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh 
-
-- 26 - 
 
 # Penyelenggara Sistem Elektronik; 
 
@@ -1006,41 +932,39 @@ Pengendalian sebagaimana dimaksud dalam Pasal 31 ayat (2) huruf d dilakukan mela
 
 # BAB V 
 
-# TATA CARA PENGAJUAN KEBERATAN ATAS PENGENAAN SANKSI ADMINISTRATIF 
+# TATA CARA PENGAJUAN KEBERATAN ATAS PENGENAAN SANKSI ADMINISTRATIF
 
-# Pasal 55 
+### Pasal 55 ^pasal-55
 
 - (1) Penyelenggara Sistem Elektronik dapat mengajukan Keberatan atas pengenaan sanksi administratif berupa teguran tertulis dan/atau denda administratif kepada 
 
-   - Direktur Jenderal. 
+ - Direktur Jenderal. 
 
 - (2) Penyelenggara Sistem Elektronik dapat mengajukan Keberatan atas pengenaan sanksi administratif berupa penghentian sementara dan/atau pemutusan akses kepada Menteri. 
 
 - (3) Sanksi administratif sebagaimana dimaksud pada ayat (1) dan ayat (2) merupakan sanksi administratif yang dilaksanakan sesuai dengan ketentuan Peraturan Pemerintah di bidang tata kelola pelindungan Anak dalam Penyelenggaraan Sistem Elektronik. 
 
-- (4) Upaya Keberatan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak menunda pelaksanaan keputusan. 
+- (4) Upaya Keberatan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak menunda pelaksanaan keputusan.
 
-# Pasal 56 
+### Pasal 56 ^pasal-56
 
 - (1) Penyelenggara Sistem Elektronik dapat mengajukan Keberatan secara tertulis kepada Direktur Jenderal atau Menteri sebagaimana dimaksud dalam Pasal 55 ayat (1) atau ayat (2) dalam waktu paling lambat 21 (dua puluh satu) Hari terhitung sejak: 
 
-   - a. Penyelenggara Sistem Elektronik menerima keputusan sanksi administratif; atau 
+ - a. Penyelenggara Sistem Elektronik menerima keputusan sanksi administratif; atau 
 
 - b. keputusan sanksi administratif diumumkan dalam situs resmi Kementerian. 
 
-- (2) Keberatan sebagaimana dimaksud pada ayat (1) mencantumkan alamat elektronik atau alamat domisili dari Penyelenggara Sistem Elektronik. 
+- (2) Keberatan sebagaimana dimaksud pada ayat (1) mencantumkan alamat elektronik atau alamat domisili dari Penyelenggara Sistem Elektronik.
 
-# Pasal 57 
+### Pasal 57 ^pasal-57
 
 - (1) Direktur Jenderal atau Menteri menyelesaikan Keberatan yang disampaikan oleh Penyelenggara Sistem Elektronik sebagaimana dimaksud dalam Pasal 55. 
-
-- 27 - 
 
 - (2) Direktur Jenderal atau Menteri menyelesaikan permohonan Keberatan sebagaimana dimaksud pada ayat (1) paling lambat 20 (dua puluh) Hari terhitung sejak permohonan diterima Direktur Jenderal atau Menteri yang dicatat dalam buku surat masuk Direktur Jenderal atau Menteri. 
 
 - (3) Keputusan terhadap Keberatan sebagaimana dimaksud pada ayat (1) dapat berupa: 
 
-   - a. menerima pengajuan Keberatan; atau b. menolak pengajuan Keberatan disertai dengan alasannya. 
+ - a. menerima pengajuan Keberatan; atau b. menolak pengajuan Keberatan disertai dengan alasannya. 
 
 - (4) Dalam hal Keberatan sebagaimana dimaksud pada ayat (1) diterima, Direktur Jenderal atau Menteri menetapkan keputusan sesuai dengan permohonan Keberatan. 
 
@@ -1052,7 +976,7 @@ Pengendalian sebagaimana dimaksud dalam Pasal 31 ayat (2) huruf d dilakukan mela
 
 - (8) Dalam hal Keberatan ditolak, Direktur Jenderal atau Menteri mengirimkan surat penolakan. 
 
-      - Pasal 58 
+ - Pasal 58 
 
 - (1) Keputusan Keberatan ditetapkan paling lambat 5 (lima) Hari setelah tenggang waktu penyelesaian sebagaimana dimaksud dalam Pasal 57 ayat (2). 
 
@@ -1060,23 +984,21 @@ Pengendalian sebagaimana dimaksud dalam Pasal 31 ayat (2) huruf d dilakukan mela
 
 - (3) Direktur Jenderal atau Menteri menyampaikan: 
 
-   - a. keputusan sebagaimana dimaksud dalam Pasal 57 ayat (4); atau 
+ - a. keputusan sebagaimana dimaksud dalam Pasal 57 ayat (4); atau 
 
-   - b. surat penolakan sebagaimana dimaksud dalam Pasal 57 ayat (8), 
+ - b. surat penolakan sebagaimana dimaksud dalam Pasal 57 ayat (8), 
 
-   - ke alamat elektronik atau alamat domisili Penyelenggara Sistem Elektronik yang disebutkan dalam surat Keberatan sebagaimana dimaksud dalam Pasal 56 ayat (2). 
+ - ke alamat elektronik atau alamat domisili Penyelenggara Sistem Elektronik yang disebutkan dalam surat Keberatan sebagaimana dimaksud dalam Pasal 56 ayat (2).
 
-# Pasal 59 
+### Pasal 59 ^pasal-59
 
-Menteri dapat menugaskan Direktur Jenderal untuk menerima dan menetapkan keputusan Keberatan untuk dan atas nama Menteri terkait pengenaan sanksi administratif berupa penghentian sementara dan/atau pemutusan akses. 
+Menteri dapat menugaskan Direktur Jenderal untuk menerima dan menetapkan keputusan Keberatan untuk dan atas nama Menteri terkait pengenaan sanksi administratif berupa penghentian sementara dan/atau pemutusan akses.
 
-# Pasal 60 
+### Pasal 60 ^pasal-60
 
-Dalam hal Penyelenggara Sistem Elektronik tidak menerima atas penyelesaian Keberatan oleh Menteri, Penyelenggara Sistem Elektronik dapat mengajukan gugatan kepada pengadilan tata usaha negara untuk menilai ada atau tidak ada unsur penyalahgunaan wewenang dalam keputusan dan/atau tindakan. 
+Dalam hal Penyelenggara Sistem Elektronik tidak menerima atas penyelesaian Keberatan oleh Menteri, Penyelenggara Sistem Elektronik dapat mengajukan gugatan kepada pengadilan tata usaha negara untuk menilai ada atau tidak ada unsur penyalahgunaan wewenang dalam keputusan dan/atau tindakan.
 
-- 28 - 
-
-# Pasal 61 
+### Pasal 61 ^pasal-61
 
 - (1) Dalam hal terdapat putusan peradilan tata usaha negara yang telah mempunyai kekuatan hukum mengikat dan final terhadap keputusan sanksi administratif yang dalam amar putusannya membatalkan dan/atau mencabut keputusan sanksi administratif terhadap Penyelenggara Sistem Elektronik, pembatalan dan/atau pencabutan ditetapkan paling lama 14 (empat belas) Hari sejak salinan putusan diterima Menteri. 
 
@@ -1084,24 +1006,17 @@ Dalam hal Penyelenggara Sistem Elektronik tidak menerima atas penyelesaian Keber
 
 # BAB VI 
 
-# KETENTUAN PENUTUP 
+# KETENTUAN PENUTUP
 
-# Pasal 62 
+### Pasal 62 ^pasal-62
 
-Pada saat Peraturan Menteri ini mulai berlaku, pelaporan hasil penilaian mandiri atas Produk, Layanan, dan Fitur oleh Penyelenggara Sistem Elektronik sebagaimana dimaksud dalam Pasal 21 ayat (1) disampaikan kepada Menteri melalui Direktur Jenderal paling lambat 3 (tiga) bulan sejak Peraturan Menteri ini diundangkan. 
+Pada saat Peraturan Menteri ini mulai berlaku, pelaporan hasil penilaian mandiri atas Produk, Layanan, dan Fitur oleh Penyelenggara Sistem Elektronik sebagaimana dimaksud dalam Pasal 21 ayat (1) disampaikan kepada Menteri melalui Direktur Jenderal paling lambat 3 (tiga) bulan sejak Peraturan Menteri ini diundangkan.
 
-Pasal 63 
+### Pasal 63 ^pasal-63
 
 Peraturan Menteri ini mulai berlaku pada tanggal diundangkan. 
 
-- 29 - 
-
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia. 
-
-
-
-<!-- Start of picture text -->
-Br<br><!-- End of picture text -->
 
 Ditetapkan di Jakarta pada tanggal 6 Maret 2026 
 
@@ -1117,7 +1032,66 @@ DIREKTUR JENDERAL PERATURAN PERUNDANG-UNDANGAN KEMENTERIAN HUKUM REPUBLIK INDONE
 
 Ѽ a DHAHANA PUTRA 
 
-BERITA NEGARA REPUBLIK INDONESIA TAHUN 2026 NOMOR      Ж 163 . 
+BERITA NEGARA REPUBLIK INDONESIA TAHUN 2026 NOMOR Ж 163 .
 
+## Penjelasan
 
+## Peta Penjelasan
 
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-1|Pasal 1]] | [[#^penjelasan-pasal-1|Penjelasan]] | - |
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | - |
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-8|Pasal 8]] | [[#^penjelasan-pasal-8|Penjelasan]] | - |
+| [[#^pasal-9|Pasal 9]] | [[#^penjelasan-pasal-9|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | - |
+| [[#^pasal-12|Pasal 12]] | [[#^penjelasan-pasal-12|Penjelasan]] | - |
+| [[#^pasal-15|Pasal 15]] | [[#^penjelasan-pasal-15|Penjelasan]] | - |
+| [[#^pasal-16|Pasal 16]] | [[#^penjelasan-pasal-16|Penjelasan]] | - |
+| [[#^pasal-17|Pasal 17]] | [[#^penjelasan-pasal-17|Penjelasan]] | - |
+| [[#^pasal-18|Pasal 18]] | [[#^penjelasan-pasal-18|Penjelasan]] | - |
+| [[#^pasal-21|Pasal 21]] | [[#^penjelasan-pasal-21|Penjelasan]] | - |
+| [[#^pasal-22|Pasal 22]] | [[#^penjelasan-pasal-22|Penjelasan]] | - |
+| [[#^pasal-23|Pasal 23]] | [[#^penjelasan-pasal-23|Penjelasan]] | - |
+| [[#^pasal-24|Pasal 24]] | [[#^penjelasan-pasal-24|Penjelasan]] | - |
+| [[#^pasal-25|Pasal 25]] | [[#^penjelasan-pasal-25|Penjelasan]] | - |
+| [[#^pasal-26|Pasal 26]] | [[#^penjelasan-pasal-26|Penjelasan]] | - |
+| [[#^pasal-27|Pasal 27]] | [[#^penjelasan-pasal-27|Penjelasan]] | - |
+| [[#^pasal-28|Pasal 28]] | [[#^penjelasan-pasal-28|Penjelasan]] | - |
+| [[#^pasal-29|Pasal 29]] | [[#^penjelasan-pasal-29|Penjelasan]] | - |
+| [[#^pasal-30|Pasal 30]] | [[#^penjelasan-pasal-30|Penjelasan]] | - |
+| [[#^pasal-31|Pasal 31]] | [[#^penjelasan-pasal-31|Penjelasan]] | - |
+| [[#^pasal-33|Pasal 33]] | [[#^penjelasan-pasal-33|Penjelasan]] | - |
+| [[#^pasal-34|Pasal 34]] | [[#^penjelasan-pasal-34|Penjelasan]] | - |
+| [[#^pasal-35|Pasal 35]] | [[#^penjelasan-pasal-35|Penjelasan]] | - |
+| [[#^pasal-36|Pasal 36]] | [[#^penjelasan-pasal-36|Penjelasan]] | - |
+| [[#^pasal-37|Pasal 37]] | [[#^penjelasan-pasal-37|Penjelasan]] | - |
+| [[#^pasal-38|Pasal 38]] | [[#^penjelasan-pasal-38|Penjelasan]] | - |
+| [[#^pasal-39|Pasal 39]] | [[#^penjelasan-pasal-39|Penjelasan]] | - |
+| [[#^pasal-40|Pasal 40]] | [[#^penjelasan-pasal-40|Penjelasan]] | - |
+| [[#^pasal-42|Pasal 42]] | [[#^penjelasan-pasal-42|Penjelasan]] | - |
+| [[#^pasal-43|Pasal 43]] | [[#^penjelasan-pasal-43|Penjelasan]] | - |
+| [[#^pasal-44|Pasal 44]] | [[#^penjelasan-pasal-44|Penjelasan]] | - |
+| [[#^pasal-45|Pasal 45]] | [[#^penjelasan-pasal-45|Penjelasan]] | - |
+| [[#^pasal-46|Pasal 46]] | [[#^penjelasan-pasal-46|Penjelasan]] | - |
+| [[#^pasal-47|Pasal 47]] | [[#^penjelasan-pasal-47|Penjelasan]] | - |
+| [[#^pasal-48|Pasal 48]] | [[#^penjelasan-pasal-48|Penjelasan]] | - |
+| [[#^pasal-49|Pasal 49]] | [[#^penjelasan-pasal-49|Penjelasan]] | - |
+| [[#^pasal-50|Pasal 50]] | [[#^penjelasan-pasal-50|Penjelasan]] | - |
+| [[#^pasal-51|Pasal 51]] | [[#^penjelasan-pasal-51|Penjelasan]] | - |
+| [[#^pasal-52|Pasal 52]] | [[#^penjelasan-pasal-52|Penjelasan]] | - |
+| [[#^pasal-53|Pasal 53]] | [[#^penjelasan-pasal-53|Penjelasan]] | - |
+| [[#^pasal-54|Pasal 54]] | [[#^penjelasan-pasal-54|Penjelasan]] | - |
+| [[#^pasal-55|Pasal 55]] | [[#^penjelasan-pasal-55|Penjelasan]] | - |
+| [[#^pasal-56|Pasal 56]] | [[#^penjelasan-pasal-56|Penjelasan]] | - |
+| [[#^pasal-57|Pasal 57]] | [[#^penjelasan-pasal-57|Penjelasan]] | - |
+| [[#^pasal-59|Pasal 59]] | [[#^penjelasan-pasal-59|Penjelasan]] | - |
+| [[#^pasal-60|Pasal 60]] | [[#^penjelasan-pasal-60|Penjelasan]] | - |
+| [[#^pasal-61|Pasal 61]] | [[#^penjelasan-pasal-61|Penjelasan]] | - |
+| [[#^pasal-62|Pasal 62]] | [[#^penjelasan-pasal-62|Penjelasan]] | - |
+| [[#^pasal-63|Pasal 63]] | [[#^penjelasan-pasal-63|Penjelasan]] | - |

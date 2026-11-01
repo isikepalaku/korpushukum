@@ -1,31 +1,42 @@
 ---
-id: "INPRES 18/1998"
+id: INPRES 18/1998
 jenis: INPRES
-lembaga: "Instruksi Presiden"
+lembaga: Instruksi Presiden
 nomor: 18
 tahun: 1998
-judul: "Peningkatan Pembinaan Perkoperasian"
-judul_singkat: "Peningkatan Pembinaan Perkoperasian"
+judul: Peningkatan Pembinaan Perkoperasian
+judul_singkat: Peningkatan Pembinaan Perkoperasian
 status: berlaku
-status_bpk: "Berlaku"
+status_bpk: Berlaku
 ditetapkan: 1998-07-07
 berlaku_mulai: 1998-07-07
-mencabut: ["INPRES 4/1984"]
+mencabut:
+- INPRES 4/1984
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
-bidang: [keuangan]
-tags: [jenis/inpres, bidang/keuangan, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/285830/inpres-no-18-tahun-1998-peningkatan-pembinaan-dan-pengembangan-perkoperasian"
+bidang:
+- keuangan
+tags:
+- jenis/inpres
+- bidang/keuangan
+- status/berlaku
+sumber: https://peraturan.bpk.go.id/Details/285830/inpres-no-18-tahun-1998-peningkatan-pembinaan-dan-pengembangan-perkoperasian
 kelengkapan: lengkap
-parser: "pymupdf4llm 2.0"
+parser: pymupdf4llm 2.0
 parsed_at: 2026-10-28
 verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
+verifikasi_sumber: JDIH BPK
 verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Peningkatan Pembinaan Perkoperasian

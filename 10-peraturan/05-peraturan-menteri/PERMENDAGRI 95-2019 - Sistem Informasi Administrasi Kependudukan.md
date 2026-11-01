@@ -1,38 +1,38 @@
 ---
-id: "PERMENDAGRI 95/2019"
+id: PERMENDAGRI 95/2019
 jenis: PERMENDAGRI
-lembaga: "Peraturan Menteri Dalam Negeri"
+lembaga: PERMENDAGRI
 nomor: 95
 tahun: 2019
-judul: "Sistem Informasi Administrasi Kependudukan"
-judul_singkat: "Sistem Informasi Administrasi Kependudukan"
+judul: Sistem Informasi Administrasi Kependudukan
+judul_singkat: Sistem Informasi Administrasi Kependudukan
 status: berlaku
-status_bpk: "Berlaku"
-ditetapkan: 2019-11-04
-berlaku_mulai: 2019-11-19
-mencabut: []
-dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
-terkait: []
-bidang: [pidana]
-tags: [jenis/permendagri, bidang/pidana, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/138603/permendagri-no-95-tahun-2019"
+status_bpk: Berlaku
+bidang:
+- pidana
+tags:
+- jenis/permendagri
+- bidang/pidana
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Sistem Informasi Administrasi Kependudukan**
 
 # Sistem Informasi Administrasi Kependudukan
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/138603/permendagri-no-95-tahun-2019
-
-<!-- Halaman 1 -->
 
 BERITA NEGARA 
 REPUBLIK INDONESIA 
@@ -86,11 +86,8 @@ Kependudukan
 (Lembaran Negara Republik Indonesia Tahun 2006 
 www.peraturan.go.id
 
-
-<!-- Halaman 2 -->
-
 2019, No. 1478 
--2- 
+
 Nomor 124, Tambahan Lembaran Negara Republik 
 Indonesia Nomor 4674); 
 2. 
@@ -141,10 +138,11 @@ MEMUTUSKAN:
 Menetapkan : PERATURAN MENTERI DALAM NEGERI TENTANG SISTEM 
 INFORMASI ADMINISTRASI KEPENDUDUKAN. 
  
-BAB I  
-KETENTUAN UMUM 
- 
-Pasal 1 
+BAB I 
+KETENTUAN UMUM
+
+### Pasal 1 ^pasal-1
+
 Dalam Peraturan Menteri ini yang dimaksud dengan: 
 1. 
 Administrasi Kependudukan adalah rangkaian kegiatan 
@@ -153,11 +151,8 @@ data kependudukan melalui pendaftaran penduduk,
 pencatatan sipil, pengelolaan informasi administrasi 
 www.peraturan.go.id
 
-
-<!-- Halaman 3 -->
-
 2019, No. 1478 
--3- 
+
 kependudukan serta pendayagunaan hasilnya untuk 
 pelayanan publik dan pembangunan sektor lain. 
 2. 
@@ -210,7 +205,7 @@ Kerja
 Pelaksana 
 adalah 
 perangkat 
-kabupaten/kota, unit pelaksana teknis, desa/kelurahan,  
+kabupaten/kota, unit pelaksana teknis, desa/kelurahan, 
 perwakilan Republik Indonesia di luar negeri yang 
 bertanggung 
 jawab 
@@ -243,11 +238,8 @@ surat
 keterangan kependudukan. 
 www.peraturan.go.id
 
-
-<!-- Halaman 4 -->
-
 2019, No. 1478 
--4- 
+
 11. Pencatatan Sipil adalah pencatatan peristiwa penting 
 yang dialami oleh seseorang dalam register pencatatan 
 sipil pada dinas kependudukan dan pencatatan sipil. 
@@ -316,11 +308,8 @@ Datadan
 perangkat pendukung pada Penyelenggara pusat yang 
 www.peraturan.go.id
 
-
-<!-- Halaman 5 -->
-
 2019, No. 1478 
--5- 
+
 menghimpun dan mengintegrasikan Data Kependudukan 
 dari 
 hasil 
@@ -372,10 +361,11 @@ membidangi
 urusan 
 pemerintahan dalam negeri. 
 25. Kementerian adalah kementerian yang menyelenggarakan 
-urusan pemerintahan dalam negeri. 
- 
-Pasal 2 
-SIAK bertujuan untuk:  
+urusan pemerintahan dalam negeri.
+
+### Pasal 2 ^pasal-2
+
+SIAK bertujuan untuk: 
 a. 
 meningkatkan kualitas pelayanan Pendaftaran Penduduk 
 dan Pencatatan Sipil; 
@@ -386,11 +376,8 @@ Pencatatan Sipil yang akurat, lengkap, dan mutakhir;
 dan 
 www.peraturan.go.id
 
-
-<!-- Halaman 6 -->
-
 2019, No. 1478 
--6- 
+
 c. 
 mewujudkan pertukaran data secara sistemik melalui 
 sistem 
@@ -401,63 +388,44 @@ tetap
 menjamin 
 kerahasiaan data. 
  
-BAB II  
+BAB II 
 RUANG LINGKUP SISTEM INFORMASI 
-ADMINISTRASI KEPENDUDUKAN 
- 
-Pasal 3 
-(1) 
-SIAK merupakan satu kesatuan rangkaian program yang 
-meliputi unsur: 
-a. 
-Basis Data;  
-b. 
-perangkat teknologi informasi dan komunikasi;  
-c. 
-sumber daya manusia; 
-d. 
-pemberi dan pemegang Hak Akses;  
-e. 
-lokasi Basis Data; 
-f. 
-pengelolaan Basis Data; 
-g. 
-pemeliharaan Basis Data; 
-h. 
-pengamanan Basis Data; 
-i. 
-pengawasan Basis Data;  
-j. 
-perangkat pendukung; 
-k. 
-tempat pelayanan; 
-l. 
-Pusat Data; 
-m. 
-Data Cadangan;  
-n. 
-Pusat Data Cadangan; dan 
-o. 
-jaringan komunikasi data. 
-(2) 
-Selain unsur SIAK sebagaimana dimaksud pada ayat (1), 
-juga terdapat unsur penunjang meliputi: 
-a. 
-pusat Pengembangan SIAK; dan 
-b. 
-pusat bantuan layanan dan call center. 
- 
+ADMINISTRASI KEPENDUDUKAN
+
+### Pasal 3 ^pasal-3
+
 www.peraturan.go.id
 
-
-<!-- Halaman 7 -->
-
 2019, No. 1478 
--7- 
-Bagian Kesatu 
-Basis Data 
+
+a. 
+penelitian dalam rangka Pengembangan SIAK; 
+b. 
+pengembangan hasil Pengkajian SIAK; 
+c. 
+uji coba hasil penelitian dan Pengembangan SIAK; 
+dan 
+d. 
+simulasi hasil Pengembangan SIAK. 
+(2) 
+Lokasi 
+pusat 
+Pengembangan 
+SIAK 
+sebagaimana 
+dimaksud pada ayat (1), berada pada Pusat Data atau di 
+luar Pusat Data. 
+(3) 
+Pusat Pengembangan SIAK mempunyai perangkat keras, 
+perangkat lunak dan Basis Data yang menyerupai Pusat 
+Data dan dilengkapi dengan sarana penunjang pekerjaan 
+lainnya. 
  
-Pasal 4 
+Bagian Kelimabelas 
+Pusat Bantuan Pelayanan dan Call Center
+
+### Pasal 4 ^pasal-4
+
 (1) 
 Basis Data sebagaimana dimaksud dalam Pasal 3 ayat (1) 
 huruf a, menggunakan sistem Basis Data sangat besar 
@@ -469,9 +437,10 @@ sesuai
 dengan 
 ketentuan 
 peraturan 
-perundang-undangan. 
- 
-Pasal 5 
+perundang-undangan.
+
+### Pasal 5 ^pasal-5
+
 (1) 
 Basis Data sebagaimana dimaksud dalam Pasal 4, 
 merupakan 
@@ -482,14 +451,15 @@ hasil
 Pendaftaran 
 Penduduk dan Pencatatan Sipil. 
 (2) 
-Basis Data sebagaimana dimaksud pada  ayat (1), 
-memuat:  
+Basis Data sebagaimana dimaksud pada ayat (1), 
+memuat: 
 a. 
 data wilayah; dan 
 b. 
-Data Perseorangan. 
- 
-Pasal 6 
+Data Perseorangan.
+
+### Pasal 6 ^pasal-6
+
 (1) 
 Basis Data sebagaimana dimaksud dalam Pasal 5 ayat 
 (2), dilakukan melalui perekaman data menggunakan 
@@ -513,95 +483,52 @@ tempat perekaman Data Kependudukan.
  
 www.peraturan.go.id
 
+2019, No. 1478
 
-<!-- Halaman 8 -->
+### Pasal 7 ^pasal-7
 
-2019, No. 1478 
--8- 
-Pasal 7 
-(1) 
-Data wilayah sebagaimana dimaksud dalam Pasal 5 ayat 
-(2) huruf a, terdiri dari: 
 a. 
-nama dan kode wilayah provinsi; 
+NIK/NIT; 
 b. 
-nama dan kode wilayah kabupaten/kota; 
+nomor KK; 
 c. 
-nama dan kode wilayah kecamatan atau nama 
-lainnya; 
+nama lengkap; 
 d. 
-nama dan kode wilayah desa/kelurahan atau nama 
-lainnya; dan 
+nomor akta kelahiran; 
 e. 
-nama 
-dan 
-kode 
-wilayah 
-perwakilan 
-Republik 
-Indonesia di luar negeri. 
-(2) 
-Data Perseorangan sebagaimana dimaksud dalam Pasal 5 
-ayat (2) huruf b, terdiri dari: 
-a. 
-data Pendaftaran Penduduk; dan 
-b. 
-data Pencatatan Sipil. 
-(3) 
-Data Pendaftaran Penduduk sebagaimana dimaksud 
-pada ayat (2) huruf a, terdiri dari: 
-a. 
-data keluarga; 
-b. 
-biodata Penduduk; 
-c. 
-biodata WNI di luar wilayah Negara Kesatuan 
-Republik  Indonesia; dan 
-d. 
-data biometrik. 
-(4) 
-Data Pencatatan Sipil sebagaimana dimaksud pada ayat 
-(2) huruf b, terdiri dari:  
-a. 
-kelahiran; 
-b. 
-lahir mati; 
-c. 
-perkawinan 
-d. 
-pembatalan perkawinan; 
-e. 
-perceraian; 
+jenis kelamin lama; 
 f. 
-pembatalan perceraian; 
+jenis kelamin baru; 
 g. 
-kematian; 
+tempat kelahiran; 
 h. 
-pengangkatan anak; 
+tanggal kelahiran; 
 i. 
-pengakuan anak; 
+alamat; 
 j. 
-pengesahan anak; 
+pendidikan terakhir; 
 k. 
-perubahan nama; 
+agama/kepercayaan; 
 l. 
-perubahan status kewarganegaraan; 
+pekerjaan; 
 m. 
-peristiwa penting lainnya; 
+kewarganegaraan; 
+n. 
+nomor putusan pengadilan; 
+o. 
+tanggal putusan pengadilan; 
+p. 
+nama pengadilan; dan 
+q. 
+kedudukan lembaga peradilan. 
+ 
 www.peraturan.go.id
 
+2019, No. 1478
 
-<!-- Halaman 9 -->
+### Pasal 8 ^pasal-8
 
-2019, No. 1478 
--9- 
-n. 
-pembetulan akta; dan 
-o. 
-pembatalan akta. 
- 
-Pasal 8 
-(1)  Data keluarga sebagaimana dimaksud dalam Pasal 7 ayat 
+(1) Data keluarga sebagaimana dimaksud dalam Pasal 7 ayat 
 (3) huruf a, terdiri dari: 
 a. 
 data keluarga Penduduk; dan 
@@ -609,7 +536,7 @@ b.
 data keluarga WNI di luar wilayah Negara Kesaturan 
 Republik Indonesia. 
  
-(2)  Data keluarga Penduduk sebagaimana dimaksud pada 
+(2) Data keluarga Penduduk sebagaimana dimaksud pada 
 ayat (1) huruf a, terdiri dari elemen data: 
 a. 
 nomor KK; 
@@ -627,7 +554,7 @@ g.
 kode pos; dan 
 h. 
 nomor telepon. 
-(3)  Data keluarga WNI di luar wilayah Negara Kesaturan 
+(3) Data keluarga WNI di luar wilayah Negara Kesaturan 
 Republik Indonesia sebagaimana dimaksud pada ayat (1) 
 huruf b, terdiri dari elemen data: 
 a. 
@@ -639,192 +566,18 @@ alamat;
 d. 
 kode pos negara; dan 
 e. 
-nomor telepon negara. 
+nomor telepon negara.
+
+### Pasal 9 ^pasal-9
+
+dengan Pasal 26 berpedoman sesuai dengan ketentuan 
+peraturan perundang-undangan. 
  
-Pasal 9 
-(1)  Biodata Penduduk sebagaimana dimaksud dalam Pasal 7 
-ayat (3) huruf b, terdiri dari data untuk: 
-a. 
-WNI; dan 
-b. 
-Orang Asing. 
-(2)  Biodata Penduduk untuk WNI sebagaimana dimaksud 
-pada ayat (1) huruf a, terdiri dari elemen data: 
-a. 
-NIK/NIT; 
-www.peraturan.go.id
+Bagian Kedua 
+Perangkat Teknologi Informasi dan Komunikasi
 
+### Pasal 10 ^pasal-10
 
-<!-- Halaman 10 -->
-
-2019, No. 1478 
--10- 
-b. 
-alamat sebelumnya; 
-c. 
-nomor paspor; 
-d. 
-tanggal berakhir paspor; 
-e. 
-nama lengkap; 
-f. 
-jenis kelamin; 
-g. 
-tempat lahir; 
-h. 
-tanggal/bulan/tahun lahir; 
-i. 
-kepemilikan akta lahir/surat lahir; 
-j. 
-nomor akta kelahiran; 
-k. 
-golongan darah; 
-l. 
-agama; 
-m. 
-kepercayaan terhadap Tuhan Yang Maha Esa; 
-n. 
-status perkawinan; 
-o. 
-akta perkawinan/buku nikah; 
-p. 
-nomor akta perkawinan/buku nikah; 
-q. 
-tanggal perkawinan; 
-r. 
-akta cerai/surat cerai; 
-s. 
-nomor akta perceraian/surat cerai; 
-t. 
-tanggal perceraian; 
-u. 
-status hubungan dalam keluarga; 
-v. 
-kelainan fisik dan mental; 
-w. 
-penyandang cacat; 
-x. 
-pendidikan terakhir; 
-y. 
-jenis pekerjaan; 
-z. 
-NIK ibu; 
-aa. nama lengkap ibu; 
-ab. NIK ayah; 
-ac. nama lengkap ayah; 
-ad. nama ketua rukun tetangga; 
-ae. nama ketua rukun warga; 
-af. 
-nomor KK; 
-ag. gelar agama; 
-ah. gelar akademis; 
-ai. 
-gelar bangsawan; 
-aj. 
-nomor kode provinsi; 
-ak. nomor kode kabupaten/kota; 
-al. 
-nomor kode kecamatan; dan 
-www.peraturan.go.id
-
-
-<!-- Halaman 11 -->
-
-2019, No. 1478 
--11- 
-am. nomor kode desa/kelurahan. 
-(3)  Biodata Penduduk untuk Orang Asing sebagaimana 
-dimaksud pada ayat (1) huruf b, terdiri dari elemen data: 
-a. 
-nomor KK; 
-b. 
-NIK;  
-c. 
-nama keluarga; 
-d. 
-nama pertama; 
-e. 
-jenis kelamin;  
-f. 
-tempat lahir;  
-g. 
-tanggal/bulan/tahun lahir; 
-h. 
-golongan darah;  
-i. 
-agama; 
-j. 
-kepercayaan terhadap Tuhan Yang Maha Esa; 
-k. 
-status perkawinan; 
-l. 
-status hubungan dalam keluarga;  
-m. 
-pendidikan terakhir;  
-n. 
-jenis pekerjaan; 
-o. 
-NIK ibu kandung; 
-p. 
-nama ibu kandung;  
-q. 
-NIK ayah;  
-r. 
-nama ayah;  
-s. 
-alamat keluarga; 
-t. 
-kewarganegaraan; 
-u. 
-kebangsaan; 
-v. 
-tanda tangan; 
-w. 
-gelar agama/kepercayaan; 
-x. 
-gelar akademis; 
-y. 
-gelar bangsawan; 
-z. 
-tanda tangan; 
-aa. asal kedatangan; 
-ab. tujuan kedatangan; 
-ac. nomor paspor; 
-ad. tanggal terbit paspor; 
-ae. tanggal berakhir paspor; 
-af. 
-dokumen imigrasi; 
-ag. nomor dokumen imigrasi; 
-ah. tempat dokumen imigrasi diterbitkan; 
-www.peraturan.go.id
-
-
-<!-- Halaman 12 -->
-
-2019, No. 1478 
--12- 
-ai. 
-tanggal dokumen imigrasi diterbitkan; 
-aj. 
-tanggal berakhir dokumen imigrasi; 
-ak. tempat kedatangan pertama; 
-al. 
-tanggal kedatangan pertama; 
-am. nama sponsor; 
-an. alamat sponsor; 
-ao. tipe sponsor; 
-ap. nomor rukun tetangga sponsor; 
-aq. nomor rukun warga sponsor; 
-ar. kode pos sponsor;  
-as. telepon sponsor. 
-at. 
-nomor kode provinsi; 
-au. nomor kode kabupaten/kota; 
-av. nomor kode kecamatan; dan 
-aw. nomor kode desa/kelurahan. 
- 
-Pasal 10 
- 
 Biodata WNI di luar wilayah Negara Kesatuan Republik 
 Indonesia sebagaimana dimaksud dalam Pasal 7 ayat (3) 
 huruf c, terdiri dari elemen data: 
@@ -861,11 +614,8 @@ n.
 nama negara; 
 www.peraturan.go.id
 
-
-<!-- Halaman 13 -->
-
 2019, No. 1478 
--13- 
+
 o. 
 kode pos di luar wilayah Negara Kesatuan Republik 
 Indonesia; 
@@ -922,34 +672,31 @@ av. NIK ayah;
 aw. nama ayah; 
 www.peraturan.go.id
 
-
-<!-- Halaman 14 -->
-
 2019, No. 1478 
--14- 
+
 ax. gelar akademis; dan 
-ay. gelar bangsawan. 
- 
-Pasal 11 
- 
-(1)  Data biometrik sebagaimana dimaksud dalam Pasal 7 
-ayat (3) huruf d, terdiri dari:  
+ay. gelar bangsawan.
+
+### Pasal 11 ^pasal-11
+
+(1) Data biometrik sebagaimana dimaksud dalam Pasal 7 
+ayat (3) huruf d, terdiri dari: 
 a. 
 sidik jari tangan; 
 b. 
 iris mata; dan 
 c. 
 pasfoto. 
-(2)  Data Biometrik sebagaimana dimaksud pada ayat (1), 
+(2) Data Biometrik sebagaimana dimaksud pada ayat (1), 
 sesuai 
 dengan 
 ketentuan 
 peraturan 
 perundang-
-undangan. 
- 
-Pasal 12 
- 
+undangan.
+
+### Pasal 12 ^pasal-12
+
 Data Kelahiran sebagaimana dimaksud dalam Pasal 7 ayat (4) 
 huruf a, terdiri dari elemen data: 
 a. 
@@ -996,11 +743,8 @@ u.
 alamat ibu; 
 www.peraturan.go.id
 
-
-<!-- Halaman 15 -->
-
 2019, No. 1478 
--15- 
+
 v. 
 tanggal perkawinan; 
 w. 
@@ -1051,16 +795,13 @@ bf.
 tanggal pelaporan kelahiran dari luar negeri; dan 
 www.peraturan.go.id
 
-
-<!-- Halaman 16 -->
-
 2019, No. 1478 
--16- 
+
 bg. nomor surat keterangan pelaporan kelahiran dari luar 
-negeri. 
- 
-Pasal 13 
- 
+negeri.
+
+### Pasal 13 ^pasal-13
+
 Data lahir mati sebagaimana dimaksud dalam Pasal 7 ayat (4) 
 huruf b, terdiri dari elemen data: 
 a. 
@@ -1122,25 +863,22 @@ ad. pekerjaan pelapor;
 ae. alamat pelapor; 
 www.peraturan.go.id
 
-
-<!-- Halaman 17 -->
-
 2019, No. 1478 
--17- 
+
 af. 
 nama petugas pelayanan; dan 
-ag. nomor surat keterangan lahir mati. 
- 
-Pasal 14 
- 
+ag. nomor surat keterangan lahir mati.
+
+### Pasal 14 ^pasal-14
+
 Data perkawinan sebagaimana dimaksud dalam Pasal 7 ayat 
-(4) huruf c, terdiri dari elemen data:  
+(4) huruf c, terdiri dari elemen data: 
 a. 
 NIK/NIT suami; 
 b. 
 nomor KK suami; 
 c. 
-nomor paspor suami;  
+nomor paspor suami; 
 d. 
 nama lengkap suami; 
 e. 
@@ -1194,11 +932,8 @@ ad. nama organisasi kepercayaan;
 ae. tempat lahir ibu dari suami; 
 www.peraturan.go.id
 
-
-<!-- Halaman 18 -->
-
 2019, No. 1478 
--18- 
+
 af. 
 tanggal, bulan, tahun lahir ibu dari suami; 
 ag. alamat ibu dari suami; 
@@ -1248,11 +983,8 @@ bo. pekerjaan ibu dari istri;
 bp. NIK/NIT saksi I; 
 www.peraturan.go.id
 
-
-<!-- Halaman 19 -->
-
 2019, No. 1478 
--19- 
+
 bq. nama lengkap saksi I; 
 br. kewarganegaraan saksi I; 
 bs. agama/kepercayaan saksi I; 
@@ -1291,190 +1023,23 @@ ct.
 nomor, tanggal, bulan, tahun akta kelahiran anak; 
 cu. nama notaris, nomor dan tanggal, bulan dan tahun akta 
 notaris mengenai perjanjian perkawinan; 
-cv. nomor akta kawin;  
+cv. nomor akta kawin; 
 cw. tanggal akta perkawinan; 
-cx. tanggal cetak kutipan akta perkawinan;  
+cx. tanggal cetak kutipan akta perkawinan; 
 cy. nama petugas pelayanan; dan 
 www.peraturan.go.id
 
-
-<!-- Halaman 20 -->
-
 2019, No. 1478 
--20- 
+
 cz. nomenklatur, nama, nomor induk pegawai, tanda tangan 
-pejabat Pencatatan Sipil. 
- 
-Pasal 15 
- 
-Data pembatalan perkawinan sebagaimana dimaksud dalam 
-Pasal 7 ayat (4) huruf d, terdiri dari elemen data: 
-a. 
-NIK/NIT suami; 
-b. 
-nomor KK suami; 
-c. 
-nomor paspor suami;  
-d. 
-nama lengkap suami; 
-e. 
-kewarganegaraan suami; 
-f. 
-tempat lahir suami; 
-g. 
-tanggal, bulan, tahun lahir suami; 
-h. 
-alamat suami; 
-i. 
-pendidikan terakhir suami; 
-j. 
-agama/kepercayaan suami; 
-k. 
-nama organisasi penghayat kepercayaan; 
-l. 
-pekerjaan suami; 
-m. 
-perkawinan suami yang ke; 
-n. 
-istri suami yang ke (bagi yang poligami); 
-o. 
-NIK/NIT ayah dari suami; 
-p. 
-nama lengkap ayah dari suami; 
-q. 
-kewarganegaraan ayah dari suami; 
-r. 
-agama/kepercayaan ayah dari suami; 
-s. 
-nama organisasi kepercayaan; 
-t. 
-tempat lahir ayah dari suami; 
-u. 
-tanggal, bulan, tahun lahir ayah dari suami; 
-v. 
-alamat ayah dari suami; 
-w. 
-pekerjaan ayah dari suami; 
-x. 
-NIK/NIT ibu dari suami; 
-y. 
-nama lengkap ibu dari suami; 
-z. 
-kewarganegaraan ibu dari suami; 
-a. 
-agama/kepercayaan ibu dari suami; 
-b. 
-nama organisasi kepercayaan; 
-c. 
-tempat lahir ibu dari suami; 
-d. 
-tanggal, bulan, tahun lahir ibu dari suami; 
-e. 
-alamat ibu dari suami; 
-www.peraturan.go.id
+pejabat Pencatatan Sipil.
 
+### Pasal 15 ^pasal-15
 
-<!-- Halaman 21 -->
+Data pembatalan perkawinan sebagaimana dimaksud dalam
 
-2019, No. 1478 
--21- 
-f. 
-pekerjaan ibu dari suami; 
-g. 
-NIK/NIT istri; 
-h. 
-nomor KK istri; 
-i. 
-nomor paspor istri; 
- 
-j. 
-nama lengkap istri; 
-k. 
-kewarganegaraan istri; 
-l. 
-tempat lahir istri; 
-m. 
-tanggal, bulan, tahun lahir istri; 
-n. 
-alamat istri; 
-o. 
-pendidikan terakhir istri; 
-p. 
-agama/kepercayaan istri; 
-q. 
-nama organisasi penghayat kepercayaan; 
-r. 
-pekerjaan istri; 
-s. 
-perkawinan istri yang ke; 
-t. 
-NIK/NIT ayah dari istri; 
-u. 
-nama lengkap ayah dari istri; 
-v. 
-kewarganegaraan ayah dari istri; 
-w. 
-agama/kepercayaan ayah dari istri; 
-x. 
-nama organisasi kepercayaan; 
-y. 
-tempat lahir ayah dari istri; 
-z. 
-tanggal, bulan, tahun lahir ayah dari istri; 
-a. 
-alamat ayah dari istri; 
-b. 
-pekerjaan ayah dari istri; 
-c. 
-NIK/NIT ibu dari istri; 
-d. 
-nama lengkap ibu dari istri; 
-e. 
-kewarganegaraan ibu dari istri; 
-f. 
-agama/kepercayaan ibu dari istri; 
-g. 
-nama organisasi kepercayaan; 
-h. 
-tempat lahir ibu dari istri; 
-i. 
-tanggal, bulan, tahun lahir ibu dari istri; 
-j. 
-alamat ibu dari istri; 
-k. 
-pekerjaan ibu dari istri; 
-l. 
-tanggal perkawinan secara agama yang dibatalkan; 
-m. 
-nomor akta dan tanggal perkawinan yang dibatalkan; 
-n. 
-nomor, tanggal, bulan, tahun putusan pengadilan; 
-o. 
-alasan pembatalan; 
-p. 
-nama pengadilan; 
-www.peraturan.go.id
+### Pasal 16 ^pasal-16
 
-
-<!-- Halaman 22 -->
-
-2019, No. 1478 
--22- 
-q. 
-nomor putusan/penetapan pengadilan; 
-r. 
-tanggal putusan/penetapan pengadilan; 
-s. 
-nama petugas pelayanan; 
-t. 
-nomenklatur, nama, nomor induk pegawai, tanda tangan 
-pejabat Pencatatan Sipil; dan 
-u. 
-tanggal pelaporan perkawinan jika akta perkawinan terbit 
-di luar negeri. 
- 
-Pasal 16 
- 
 Data Perceraian sebagaimana dimaksud dalam Pasal 7 ayat 
 (4) huruf e, terdiri dari elemen data: 
 a. 
@@ -1507,7 +1072,7 @@ NIK/NIT bekas istri;
 n. 
 nomor KK bekas istri; 
 o. 
-nomor paspor bekas istri;  
+nomor paspor bekas istri; 
 p. 
 nama lengkap bekas istri; 
 q. 
@@ -1532,11 +1097,8 @@ z.
 nomor akta kawin; 
 www.peraturan.go.id
 
-
-<!-- Halaman 23 -->
-
 2019, No. 1478 
--23- 
+
 aa. tanggal akta kawin; 
 ab. tempat pencatatan perkawinan; 
 ac. nomor putusan pengadilan; 
@@ -1551,108 +1113,21 @@ ah. hari, tanggal, bulan, tahun melapor;
 ai. 
 domisili perceraian; 
 aj. 
-nomor akta perceraian;  
+nomor akta perceraian; 
 ak. nama petugas pelayanan; 
 al. 
 nomenklatur, nama, nomor induk pegawai, tanda tangan 
-pejabat Pencatatan Sipil;  
+pejabat Pencatatan Sipil; 
 am. nama dan tanda tangan pelapor; dan 
 an. tanggal pelaporan perkawinan jika akta perkawinan terbit 
-di luar negeri. 
- 
-Pasal 17 
- 
- 
-Data pembatalan perceraian sebagaimana dimaksud dalam 
-Pasal 7 ayat (4) huruf f, terdiri dari elemen data: 
-a. 
-NIK/NIT suami; 
-b. 
-nomor KK suami; 
-c. 
-nama lengkap suami; 
-d. 
-kewarganegaraan suami; 
-e. 
-tempat lahir suami; 
-f. 
-tanggal, bulan, tahun suami; 
-g. 
-alamat suami; 
-h. 
-pendidikan terakhir suami; 
-i. 
-agama/kepercayaan suami; 
-j. 
-nama organisasi kepercayaan; 
-k. 
-pekerjaan suami; 
-l. 
-perceraian yang ke; 
-m. 
-perkawinan yang ke; 
-n. 
-istri yang ke (bagi yang berpoligami); 
-o. 
-NIK/NIT istri; 
-www.peraturan.go.id
+di luar negeri.
 
+### Pasal 17 ^pasal-17
 
-<!-- Halaman 24 -->
+Data pembatalan perceraian sebagaimana dimaksud dalam
 
-2019, No. 1478 
--24- 
-p. 
-nomor KK istri; 
-q. 
-nama lengkap istri; 
-r. 
-kewarganegaraan istri; 
-s. 
-tempat lahir istri; 
-t. 
-tanggal, bulan, tahun istri; 
-u. 
-alamat istri; 
-v. 
-pendidikan terakhir istri; 
-w. 
-agama/kepercayaan istri; 
-x. 
-nama organisasi kepercayaan; 
-y. 
-pekerjaan istri; 
-z. 
-perceraian yang ke; 
-aa. perkawinan yang ke; 
-ab. jumlah anak; 
-ac. yang mengajukan pembatalan perceraian; 
-ad. nomor akta perkawinan; 
-ae. tanggal, bulan, tahun akta perkawinan; 
-af. 
-tempat pencatatan perkawinan; 
-ag. nomor akta perceraian; 
-ah. tanggal, bulan, tahun akta perceraian; 
-ai. 
-nomor putusan pengadilan; 
-aj. 
-tanggal, bulan, tahun putusan pengadilan; 
-ak. nama pengadilan; 
-al. 
-kedudukan lembaga peradilan; 
-am. tanggal, 
-bulan, 
-tahun 
-pelaporan 
-perceraian 
-jika 
-perceraian terjadi di luar negeri; 
-an. nama petugas pelayanan; dan 
-ao. nomor surat keterangan pembatalan perceraian. 
- 
-Pasal 18 
- 
- 
+### Pasal 18 ^pasal-18
+
 Data kematian sebagaimana dimaksud dalam Pasal 7 ayat (4) 
 huruf g, terdiri dari elemen data: 
 a. 
@@ -1669,11 +1144,8 @@ f.
 tempat lahir; 
 www.peraturan.go.id
 
-
-<!-- Halaman 25 -->
-
 2019, No. 1478 
--25- 
+
 g. 
 agama/kepercayaan; 
 h. 
@@ -1689,7 +1161,7 @@ waktu kematian;
 m. 
 sebab kematian; 
 n. 
-tempat kematian;  
+tempat kematian; 
 o. 
 yang menerangkan kematian; 
 p. 
@@ -1737,15 +1209,12 @@ ap. tanggal, bulan, tahun lahir saksi II;
 aq. pekerjaan saksi II; dan 
 www.peraturan.go.id
 
-
-<!-- Halaman 26 -->
-
 2019, No. 1478 
--26- 
-ar. alamat saksi II. 
- 
-Pasal 19 
- 
+
+ar. alamat saksi II.
+
+### Pasal 19 ^pasal-19
+
 Data pengangkatan anak sebagaimana dimaksud dalam Pasal 
 7 ayat (4) huruf h, terdiri dari elemen data: 
 a. 
@@ -1812,11 +1281,8 @@ ad. pekerjaan ayah kandung;
 ae. NIK/NIT ibu (orang yang mengangkat); 
 www.peraturan.go.id
 
-
-<!-- Halaman 27 -->
-
 2019, No. 1478 
--27- 
+
 af. 
 nomor KK ibu (orang yang mengangkat); 
 ag. nomor akta perkawinan ibu (orang yang mengangkat); 
@@ -1829,7 +1295,7 @@ ak. tempat lahir ibu (orang yang mengangkat);
 al. 
 tanggal lahir ibu (orang yang mengangkat); 
 am. alamat ibu (orang yang mengangkat); 
-an. agama/kepercayaan ibu (orang yang mengangkat);  
+an. agama/kepercayaan ibu (orang yang mengangkat); 
 ao. pekerjaan ibu (orang yang mengangkat); 
 ap. NIK/NIT ayah (orang yang mengangkat); 
 aq. nomor KK ayah (orang yang mengangkat); 
@@ -1863,21 +1329,18 @@ tanggal dikukuhkan surat keterangan pengangkatan
 anak; dan 
 www.peraturan.go.id
 
-
-<!-- Halaman 28 -->
-
 2019, No. 1478 
--28- 
+
 bk. dinas 
 kependudukan 
 dan 
 pencatatan 
 sipil 
 kabupaten/kota yang mengukuhkan surat keterangan 
-pengangkatan anak. 
- 
-Pasal 20 
- 
+pengangkatan anak.
+
+### Pasal 20 ^pasal-20
+
 Data pengakuan anak sebagaimana dimaksud dalam Pasal 7 
 ayat (4) huruf i, terdiri dari elemen data: 
 a. 
@@ -1942,11 +1405,8 @@ ab. tempat lahir saksi I;
 ac. tanggal, bulan, tahun lahir saksi I; 
 www.peraturan.go.id
 
-
-<!-- Halaman 29 -->
-
 2019, No. 1478 
--29- 
+
 ad. pekerjaan saksi I; 
 ae. alamat saksi I; 
 af. 
@@ -1963,10 +1423,10 @@ alamat saksi II;
 am. nomor putusan/penetapan pengadilan; 
 an. tanggal putusan/penetapan pengadilan; 
 ao. nama pengadilan; dan 
-ap. kedudukan lembaga peradilan. 
- 
-Pasal 21 
- 
+ap. kedudukan lembaga peradilan.
+
+### Pasal 21 ^pasal-21
+
 Data pengesahan anak sebagaimana dimaksud dalam Pasal 7 
 ayat (4) huruf j, terdiri dari elemen data: 
 a. 
@@ -2014,11 +1474,8 @@ s.
 nomor akta perkawinan/buku nikah; 
 www.peraturan.go.id
 
-
-<!-- Halaman 30 -->
-
 2019, No. 1478 
--30- 
+
 t. 
 NIK/NIT ayah kandung; 
 u. 
@@ -2030,7 +1487,7 @@ tanggal, bulan, tahun lahir ayah kandung;
 x. 
 pekerjaan ayah kandung; 
 y. 
-alamat ayah kandung;  
+alamat ayah kandung; 
 z. 
 nomor akta perkawinan/buku nikah; 
 aa. NIK/NIT saksi I; 
@@ -2053,11 +1510,11 @@ am. pekerjaan saksi II;
 an. alamat saksi II; 
 ao. nomor putusan/penetapan pengadilan; 
 ap. tanggal putusan/penetapan pengadilan; 
-aq. nama pengadilan; dan  
-ar. kedudukan lembaga peradilan. 
- 
-Pasal 22 
- 
+aq. nama pengadilan; dan 
+ar. kedudukan lembaga peradilan.
+
+### Pasal 22 ^pasal-22
+
 Data perubahan nama sebagaimana dimaksud dalam Pasal 7 
 ayat (4) huruf k, terdiri dari elemen data: 
 a. 
@@ -2075,11 +1532,8 @@ tanggal/bulan/tahun penerbitan akta-akta Pencatatan
 Sipil; 
 www.peraturan.go.id
 
-
-<!-- Halaman 31 -->
-
 2019, No. 1478 
--31- 
+
 g. 
 instansi pelaksana/kantor perwakilan/instansi negara 
 lain yang menerbitkan akta-akta Pencatatan Sipil; 
@@ -2108,10 +1562,10 @@ tanggal/bulan/tahun;
 r. 
 putusan pengadilan; dan 
 s. 
-nama pengadilan kedudukan lembaga peradilan. 
- 
-Pasal 23 
- 
+nama pengadilan kedudukan lembaga peradilan.
+
+### Pasal 23 ^pasal-23
+
 Data 
 perubahan 
 status 
@@ -2151,11 +1605,8 @@ n.
 nama suami atau istri; 
 www.peraturan.go.id
 
-
-<!-- Halaman 32 -->
-
 2019, No. 1478 
--32- 
+
 o. 
 NIK suami atau istri; 
 p. 
@@ -2187,57 +1638,15 @@ menyelenggarakan
 urusan 
 pemerintahan 
 di 
-bidang  
-hukum dan hak asasi manusia. 
- 
-Pasal 24 
- 
-Data peristiwa penting lainnya sebagaimana dimaksud dalam 
-Pasal 7 ayat (4) huruf m, terdiri dari elemen data: 
-a. 
-NIK/NIT; 
-b. 
-nomor KK; 
-c. 
-nama lengkap; 
-d. 
-nomor akta kelahiran; 
-e. 
-jenis kelamin lama; 
-f. 
-jenis kelamin baru; 
-g. 
-tempat kelahiran; 
-h. 
-tanggal kelahiran; 
-i. 
-alamat; 
-j. 
-pendidikan terakhir; 
-k. 
-agama/kepercayaan; 
-l. 
-pekerjaan; 
-m. 
-kewarganegaraan; 
-n. 
-nomor putusan pengadilan; 
-o. 
-tanggal putusan pengadilan; 
-p. 
-nama pengadilan; dan 
-q. 
-kedudukan lembaga peradilan. 
- 
-www.peraturan.go.id
+bidang 
+hukum dan hak asasi manusia.
 
+### Pasal 24 ^pasal-24
 
-<!-- Halaman 33 -->
+Data peristiwa penting lainnya sebagaimana dimaksud dalam
 
-2019, No. 1478 
--33- 
-Pasal 25 
- 
+### Pasal 25 ^pasal-25
+
 Data pembetulan akta sebagaimana dimaksud dalam Pasal 7 
 ayat (4) huruf n, terdiri dari elemen data: 
 a. 
@@ -2285,10 +1694,10 @@ tanggal putusan pengadilan;
 u. 
 nama pengadilan; dan 
 v. 
-kedudukan lembaga peradilan. 
- 
-Pasal 26 
- 
+kedudukan lembaga peradilan.
+
+### Pasal 26 ^pasal-26
+
 Data pembatalan akta sebagaimana dimaksud dalam Pasal 7 
 ayat (4) huruf o, terdiri dari elemen data: 
 a. 
@@ -2305,11 +1714,8 @@ f.
 jenis kelamin; 
 www.peraturan.go.id
 
-
-<!-- Halaman 34 -->
-
 2019, No. 1478 
--34- 
+
 g. 
 tempat lahir; 
 h. 
@@ -2331,10 +1737,10 @@ tanggal/bulan/tahun putusan pengadilan;
 p. 
 nama pengadilan; dan 
 q. 
-kedudukan lembaga pengadilan. 
- 
-Pasal 27 
- 
+kedudukan lembaga pengadilan.
+
+### Pasal 27 ^pasal-27
+
 Dalam 
 hal 
 terdapat 
@@ -2342,27 +1748,27 @@ penambahan
 selain 
 elemen 
 data 
-sebagaimana dimaksud dalam Pasal 8 ayat (2) dan ayat (3), 
-Pasal 9 ayat (2) dan ayat (3), Pasal 10, Pasal 12 sampai 
-dengan Pasal 26 berpedoman sesuai dengan ketentuan 
-peraturan perundang-undangan. 
- 
-Bagian Kedua 
-Perangkat Teknologi Informasi dan Komunikasi 
- 
-Pasal 28 
- 
-Perangkat teknologi informasi dan komunikasi sebagaimana 
-dimaksud dalam Pasal 3 ayat (1) huruf b, terdiri dari: 
+sebagaimana dimaksud dalam Pasal 8 ayat (2) dan ayat (3),
+
+### Pasal 28 ^pasal-28
+
 a. 
-perangkat keras; 
+media jaringan lokal dengan kabel dan nirkabel yang 
+dapat mengkomunikasikan data; 
+www.peraturan.go.id
+
+2019, No. 1478 
+
 b. 
-perangkat lunak; dan 
+media jaringan tertutup; dan 
 c. 
-jaringan komunikasi data. 
+media jaringan tertutup di atas jaringan publik. 
  
-Pasal 29 
- 
+Bagian Ketiga 
+Sumber Daya Manusia
+
+### Pasal 29 ^pasal-29
+
 (1) 
 Perangkat keras sebagaimana dimaksud dalam Pasal 28 
 huruf a, terdiri dari: 
@@ -2375,11 +1781,8 @@ perangkat penyimpanan data pada Pusat Data dan
 Pusat Data Cadangan; 
 www.peraturan.go.id
 
-
-<!-- Halaman 35 -->
-
 2019, No. 1478 
--35- 
+
 d. 
 perangkat tape backup pada Pusat Data dan Pusat 
 Data Cadangan; 
@@ -2438,115 +1841,17 @@ program aplikasi SIAK; dan
 f. 
 sistem aplikasi biometrik KTP-el. 
 (4) 
-Jaringan komunikasi data sebagaimana dimaksud dalam 
-Pasal 28 huruf c, terdiri dari: 
-a. 
-media jaringan lokal dengan kabel dan nirkabel yang 
-dapat mengkomunikasikan data; 
-www.peraturan.go.id
+Jaringan komunikasi data sebagaimana dimaksud dalam
 
+### Pasal 30 ^pasal-30
 
-<!-- Halaman 36 -->
+atasnya sesuai dengan tugasnya. 
+(2) 
+Pelaporan sebagaimana dimaksud pada ayat (1), sebagai 
+bahan evaluasi untuk meningkatkan pelaksanaan tugas.
 
-2019, No. 1478 
--36- 
-b. 
-media jaringan tertutup; dan 
-c. 
-media jaringan tertutup di atas jaringan publik. 
- 
-Bagian Ketiga 
-Sumber Daya Manusia 
- 
-Pasal 30 
- 
-Sumber daya manusia sebagaimana dimaksud dalam Pasal 3 
-ayat (1) huruf c, terdiri dari: 
-a. 
-pejabat administrator yang membidangi:  
-1) 
-Pusat Data dan Pusat Data Cadangan; dan  
-2) 
-pengelolaan data SIAK.  
-melaksanakan 
-tugas 
-sebagaimana 
-diatur 
-dalam 
-Peraturan Menteri mengenai organisasi dan tata kerja. 
-b. 
-pejabat pengawas yang membidangi: 
-1) 
-Pusat Data; 
-2) 
-Pusat Data Cadangan; 
-3) 
-aplikasi SIAK; 
-4) 
-jaringan komunikasi data; 
-5) 
-pengolahan Data Kependudukan; dan 
-6) 
-penyajian Data Kependudukan. 
-melaksanakan 
-tugas 
-sebagaimana 
-diatur 
-dalam 
-Peraturan Menteri mengenai organisasi dan tata kerja. 
-c. 
-manajer pusat Pengembangan SIAK; 
-d. 
-manajer pusat pelayanan bantuan dan call center; 
-e. 
-supervisor pelayanan bantuan; 
-f. 
-supervisor pelayanan call center; 
-g. 
-administrator Basis Data SIAK; 
-h. 
-administrator aplikasi SIAK; 
-i. 
-administrator perangkat keras pusat Pengembangan 
-SIAK; 
-j. 
-administrator jaringan pusat Pengembangan SIAK; 
-k. 
-administrator perangkat keras Pusat Data; 
-l. 
-administrator perangkat keras Pusat Data Cadangan; 
-m. 
-administrator jaringan Pusat Data; 
-n. 
-administrator jaringan Pusat Data Cadangan; 
-o. 
-administrator pengelolaan data SIAK; 
-www.peraturan.go.id
+### Pasal 31 ^pasal-31
 
-
-<!-- Halaman 37 -->
-
-2019, No. 1478 
--37- 
-p. 
-administrator 
-pengelolaan 
-SIAK 
-di 
-Satuan 
-Kerja 
-Pelaksana; 
-q. 
-instruktur pelatihan SIAK; 
-r. 
-verifikator aplikasi SIAK pada Satuan Kerja Pelaksana; 
-s. 
-operator aplikasi SIAK pada Satuan Kerja Pelaksana; dan 
-t. 
-tenaga pendukung operasional SIAK. 
- 
-Pasal 31 
- 
 (1) 
 Manajer 
 pusat 
@@ -2573,10 +1878,10 @@ operasional
 perangkat 
 pusat 
 Pengembangan SIAK, pengkajian dan Pengembangan 
-SIAK. 
- 
-Pasal 32 
- 
+SIAK.
+
+### Pasal 32 ^pasal-32
+
 (1) 
 Manajer pusat pelayanan bantuan dan call center 
 sebagaimana dimaksud dalam Pasal 30 huruf d, melekat 
@@ -2587,10 +1892,10 @@ komunikasi.
 Manajer pusat pelayanan bantuan dan call center 
 sebagaimana dimaksud pada ayat (1), bertugas untuk 
 bertanggung jawab terhadap operasional pusat pelayanan 
-bantuan dan call center. 
- 
-Pasal 33 
- 
+bantuan dan call center.
+
+### Pasal 33 ^pasal-33
+
 (1) 
 Supervisor pelayanan bantuan sebagaimana dimaksud 
 dalam Pasal 30 huruf e, melekat pada pejabat pengawas 
@@ -2601,11 +1906,8 @@ Supervisor pelayanan bantuan sebagaimana dimaksud
 pada ayat (1), bertugas: 
 www.peraturan.go.id
 
-
-<!-- Halaman 38 -->
-
 2019, No. 1478 
--38- 
+
 a. 
 mengidentifikasi permasalahan layanan bantuan 
 yang digunakan secara komprehensif; 
@@ -2614,10 +1916,10 @@ memantau terhadap kinerja layanan bantuan secara
 optimal; dan 
 c. 
 melakukan pengawasan terhadap beroperasinya 
-layanan bantuan yang digunakan. 
- 
-Pasal 34 
- 
+layanan bantuan yang digunakan.
+
+### Pasal 34 ^pasal-34
+
 (1) 
 Supervisor pelayanan call center sebagaimana dimaksud 
 dalam Pasal 30 huruf f, melekat pada pejabat pengawas 
@@ -2635,10 +1937,10 @@ secara optimal; dan
 c. 
 melakukan 
 pengawasan terhadap beroperasinya 
-layanan call center yang digunakan. 
- 
-Pasal 35 
- 
+layanan call center yang digunakan.
+
+### Pasal 35 ^pasal-35
+
 (1) 
 Administrator Basis Data SIAK sebagaimana dimaksud 
 dalam Pasal 30 huruf g, melekat pada jabatan fungsional 
@@ -2667,18 +1969,15 @@ e.
 melakukan pemulihan Basis Data; dan 
 www.peraturan.go.id
 
-
-<!-- Halaman 39 -->
-
 2019, No. 1478 
--39- 
+
 f. 
 membuat dan menonaktifkan Hak Akses atas 
 persetujuan pejabat pengawas yang membidangi 
-aplikasi SIAK. 
- 
-Pasal 36 
- 
+aplikasi SIAK.
+
+### Pasal 36 ^pasal-36
+
 (1) 
 Administrator aplikasi SIAK sebagaimana dimaksud 
 dalam Pasal 30 huruf h, melekat pada jabatan fungsional 
@@ -2706,10 +2005,10 @@ persetujuan pejabat pengawas aplikasi SIAK; dan
 g. 
 melakukan pemutakhiran versi aplikasi SIAK atas 
 persetujuan pejabat pengawas yang membidangi 
-aplikasi SIAK. 
- 
-Pasal 37 
- 
+aplikasi SIAK.
+
+### Pasal 37 ^pasal-37
+
 (1) 
 Administrator perangkat keras pusat Pengembangan 
 SIAK sebagaimana dimaksud dalam Pasal 30 huruf i, 
@@ -2732,11 +2031,8 @@ pusat
 Pengembangan SIAK; 
 www.peraturan.go.id
 
-
-<!-- Halaman 40 -->
-
 2019, No. 1478 
--40- 
+
 b. 
 mengidentifikasi 
 permasalahan 
@@ -2757,61 +2053,51 @@ beroperasinya perangkat keras pusat Pengembangan
 SIAK yang digunakan; dan 
 e. 
 memberikan rekomendasi kepada pejabat pengawas 
-yang membidangi jaringan komunikasi data. 
- 
-Pasal 38 
- 
-(1) 
-Administrator 
-jaringan 
-pusat 
-Pengembangan 
-SIAK 
-sebagaimana dimaksud dalam Pasal 30 huruf j, melekat 
-pada 
-jabatan 
-fungsional 
-umum 
-yang 
-membidangi 
-jaringan komunikasi data. 
-(2) 
-Administrator 
-jaringan 
-pusat 
-Pengembangan 
-SIAK 
-sebagaimana dimaksud pada ayat (1), bertugas: 
+yang membidangi jaringan komunikasi data.
+
+### Pasal 38 ^pasal-38
+
+ayat (1), Pasal 42 ayat (1), Pasal 43 ayat (1) dan Pasal 48 ayat 
+(1), belum dapat dipenuhi oleh Menteri melalui Direktur 
+Jenderal Kependudukan dan Pasal 44 ayat (1), Pasal 45 ayat 
+(1), Pasal 46 ayat (1), Pasal 47 ayat (1) dan Pasal 48 ayat (1), 
+belum dapat dipenuhi oleh gubernur dan bupati/wali kota, 
+pengisian sumber daya manusia dilakukan dengan cara: 
 a. 
-menginventarisasi jaringan pusat Pengembangan 
-SIAK; 
-b. 
-mengidentifikasi 
-permasalahan 
-jaringan 
-pusat 
-Pengembangan 
-SIAK 
-yang 
-digunakan 
-secara 
-komprehensif; 
-c. 
-memantau kinerja jaringan pusat Pengembangan 
-SIAKsecara optimal; 
-d. 
-mengawasi 
-pemeliharaan 
+mengoptimalkan sumber daya manusia yang tersedia; 
 dan 
-pengamanan 
-beroperasinya jaringan pusat Pengembangan SIAK 
-yang digunakan; dan 
-e. 
-memberikan rekomendasi kepada pejabat pengawas 
-yang membidangi jaringan komunikasi data. 
+b. 
+mempekerjakan 
+pegawai 
+negeri 
+sipil 
+dari 
+lembaga 
+pemerintah 
+lainnya/perangkat 
+daerah 
+lainnya, 
+perguruan tinggi atau tenaga ahli/tenaga pendukung 
+perseorangan yang mempunyai kemampuan di bidangnya 
+sesuai 
+dengan 
+ketentuan 
+peraturan 
+perundang-
+undangan. 
  
-Pasal 39 
  
+ 
+ 
+www.peraturan.go.id
+
+2019, No. 1478 
+
+Bagian Keempat 
+Pemberi dan Pemegang Hak Akses
+
+### Pasal 39 ^pasal-39
+
 (1) 
 Administrator perangkat keras Pusat Data sebagaimana 
 dimaksud dalam Pasal 30 huruf k, melekat pada jabatan 
@@ -2819,11 +2105,8 @@ fungsional umum yang membidangi infrastruktur pada
 Pusat Data. 
 www.peraturan.go.id
 
-
-<!-- Halaman 41 -->
-
 2019, No. 1478 
--41- 
+
 (2) 
 Administrator perangkat keras Pusat Data sebagaimana 
 dimaksud pada ayat (1), bertugas: 
@@ -2847,10 +2130,10 @@ beroperasinya perangkat keras Pusat Data yang
 digunakan; dan 
 e. 
 memberikan rekomendasi kepada pejabat pengawas 
-yang membidangi Pusat Data. 
- 
-Pasal 40 
- 
+yang membidangi Pusat Data.
+
+### Pasal 40 ^pasal-40
+
 (1) 
 Administrator perangkat keras Pusat Data Cadangan 
 sebagaimana dimaksud dalam Pasal 30 huruf l, melekat 
@@ -2887,10 +2170,10 @@ pengamanan beroperasinya perangkat keras Pusat
 Data Cadangan yang digunakan; dan 
 e. 
 memberikan rekomendasi kepada pejabat pengawas 
-yang membidangi Pusat Data Cadangan. 
- 
-Pasal 41 
- 
+yang membidangi Pusat Data Cadangan.
+
+### Pasal 41 ^pasal-41
+
 (1) 
 Administrator 
 jaringan 
@@ -2901,11 +2184,8 @@ dimaksud dalam Pasal 30 huruf m, melekat pada jabatan
 fungsional umum yang membidangi jaringan Pusat Data. 
 www.peraturan.go.id
 
-
-<!-- Halaman 42 -->
-
 2019, No. 1478 
--42- 
+
 (2) 
 Administrator 
 jaringan 
@@ -2930,10 +2210,10 @@ jaringan
 Pusat Data yang digunakan; dan 
 e. 
 memberikan rekomendasi kepada pejabat pengawas 
-yang membidangi Pusat Data. 
- 
-Pasal 42 
- 
+yang membidangi Pusat Data.
+
+### Pasal 42 ^pasal-42
+
 (1) 
 Administrator 
 jaringan 
@@ -2974,10 +2254,10 @@ jaringan
 Pusat Data Cadangan yang digunakan; dan 
 e. 
 memberikan rekomendasi kepada pejabat pengawas 
-yang membidangi Pusat Data Cadangan. 
- 
-Pasal 43 
- 
+yang membidangi Pusat Data Cadangan.
+
+### Pasal 43 ^pasal-43
+
 (1) 
 Administrator 
 pengelolaan 
@@ -2987,11 +2267,8 @@ sebagaimana
 dimaksud dalam Pasal 30 huruf o, melekat pada jabatan 
 www.peraturan.go.id
 
-
-<!-- Halaman 43 -->
-
 2019, No. 1478 
--43- 
+
 fungsional umum yang membidangi pengelolaan data 
 SIAK. 
 (2) 
@@ -3008,10 +2285,10 @@ b.
 melakukan verifikasi dan validasi data; dan 
 c. 
 melakukan pengolahan data untuk penyajian dan 
-pemanfaatan data berskala nasional. 
- 
-Pasal 44 
- 
+pemanfaatan data berskala nasional.
+
+### Pasal 44 ^pasal-44
+
 (1) 
 Administrator pengelolaan SIAK Satuan Kerja Pelaksana 
 sebagaimana dimaksud dalam Pasal 30 huruf p, melekat 
@@ -3051,35 +2328,15 @@ SIAK pada pusat layanan bantuan; dan
 f. 
 melakukan koordinasi penyelesaian permasalahan 
 layanan adminstrasi kependudukan melalui aplikasi 
-SIAK ke pusat. 
- 
-Pasal 45 
- 
+SIAK ke pusat.
+
+### Pasal 45 ^pasal-45
+
 (1) 
-Instruktur pelatihan SIAK sebagaimana dimaksud dalam 
-Pasal 30 huruf q, yaitu aparatur sipil negara yang telah 
-mengikuti pelatihan bidang SIAK. 
-(2) 
-Instruktur pelatihan SIAK sebagaimana dimaksud pada 
-ayat (1), bertugas: 
-www.peraturan.go.id
+Instruktur pelatihan SIAK sebagaimana dimaksud dalam
 
+### Pasal 46 ^pasal-46
 
-<!-- Halaman 44 -->
-
-2019, No. 1478 
--44- 
-a. 
-melakukan pelatihan operasional SIAK; 
-b. 
-mengawasi pelaksanaan pelatihan operasional SIAK; 
-dan 
-c. 
-memberikan penilaian ujian pelatihan operasional 
-SIAK. 
- 
-Pasal 46 
- 
 (1) 
 Verifikator aplikasi SIAK pada Satuan Kerja Pelaksana 
 sebagaimana dimaksud dalam Pasal 30 huruf r, melekat 
@@ -3102,10 +2359,10 @@ memberikan persetujuan atau penolakan hasil input
 operator SIAK; dan 
 c. 
 memberikan persetujuan atau penolakan proses 
-pencetakan Dokumen Kependudukan. 
- 
-Pasal 47 
- 
+pencetakan Dokumen Kependudukan.
+
+### Pasal 47 ^pasal-47
+
 (1) 
 Operator aplikasi SIAK pada Satuan Kerja Pelaksana 
 sebagaimana dimaksud dalam Pasal 30 huruf s, melekat 
@@ -3123,10 +2380,10 @@ a.
 melakukan perekaman data Pendaftaran Penduduk 
 dan Pencatatan Sipil; dan 
 b. 
-melakukan pencetakan Dokumen Kependudukan. 
- 
-Pasal 48 
- 
+melakukan pencetakan Dokumen Kependudukan.
+
+### Pasal 48 ^pasal-48
+
 (1) 
 Tenaga 
 pendukung 
@@ -3137,11 +2394,8 @@ dimaksud dalam Pasal 30 huruf t, melekat pada jabatan
 fungsional umum yang membidangi operasional SIAK. 
 www.peraturan.go.id
 
-
-<!-- Halaman 45 -->
-
 2019, No. 1478 
--45- 
+
 (2) 
 Tenaga 
 pendukung 
@@ -3161,107 +2415,20 @@ komputer,
 perangkat 
 pendingin 
 ruangan, perangkat catu daya listrik dan alat pemadam 
-kebakaran. 
- 
-Pasal 49 
- 
+kebakaran.
+
+### Pasal 49 ^pasal-49
+
 (1) 
-Sumber daya manusia sebagaimana dimaksud dalam 
-Pasal 30, melakukan pelaporan pada pejabat langsung di 
-atasnya sesuai dengan tugasnya.   
-(2) 
-Pelaporan sebagaimana dimaksud pada ayat (1), sebagai 
-bahan evaluasi untuk meningkatkan pelaksanaan tugas. 
- 
-Pasal 50 
- 
+Sumber daya manusia sebagaimana dimaksud dalam
+
+### Pasal 50 ^pasal-50
+
 Dalam hal sumber daya manusia sebagaimana dimaksud 
-dalam Pasal 35 ayat (1), Pasal 36 ayat (1), Pasal 37 ayat (1), 
-Pasal 38 ayat (1), Pasal 39 ayat (1), Pasal 40 ayat (1), Pasal 41 
-ayat (1), Pasal 42 ayat (1), Pasal 43 ayat (1) dan Pasal 48 ayat 
-(1), belum dapat dipenuhi oleh Menteri melalui Direktur 
-Jenderal Kependudukan dan Pasal 44 ayat (1), Pasal 45 ayat 
-(1), Pasal 46 ayat (1), Pasal 47 ayat (1) dan Pasal 48 ayat (1), 
-belum dapat dipenuhi oleh gubernur dan bupati/wali kota, 
-pengisian sumber daya manusia dilakukan dengan cara: 
-a. 
-mengoptimalkan sumber daya manusia yang tersedia; 
-dan 
-b. 
-mempekerjakan 
-pegawai 
-negeri 
-sipil 
-dari 
-lembaga 
-pemerintah 
-lainnya/perangkat 
-daerah 
-lainnya, 
-perguruan tinggi atau tenaga ahli/tenaga pendukung 
-perseorangan yang mempunyai kemampuan di bidangnya 
-sesuai 
-dengan 
-ketentuan 
-peraturan 
-perundang-
-undangan. 
- 
- 
- 
- 
-www.peraturan.go.id
+dalam Pasal 35 ayat (1), Pasal 36 ayat (1), Pasal 37 ayat (1),
 
+### Pasal 51 ^pasal-51
 
-<!-- Halaman 46 -->
-
-2019, No. 1478 
--46- 
-Bagian Keempat 
-Pemberi dan Pemegang Hak Akses 
- 
-Pasal 51 
- 
-(1) 
-Menteri selaku pemberi dan pemegang Hak Akses SIAK 
-sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf d. 
-(2) 
-Menteri memberikan mandat kepada Direktur Jenderal 
-Kependudukan 
-dan 
-Pencatatan 
-Sipil 
-sebagai 
-penanggungjawab pemberi dan pemegang Hak Akses. 
-(3) 
-Hak Akses SIAK sebagaimana dimaksud pada ayat (1), 
-terdiri dari Hak Akses untuk Penyelenggara dan Satuan 
-Kerja Pelaksana. 
- 
-Pasal 52 
- 
-(1) 
-Penyelenggara sebagaimana dimaksud dalam Pasal 51 
-ayat (3), terdiri dari: 
-a. 
-Sekretaris Direktorat Jenderal Kependudukan dan 
-Pencatatan Sipil; 
-b. 
-Direktur 
-Pengelolaan 
-Informasi 
-Administrasi 
-Kependudukan; dan 
-c. 
-sumber 
-daya 
-manusia 
-sebagaimana 
-dimaksud 
-dalam Pasal 30 huruf a sampai dengan huruf o. 
-(2) 
-Satuan Kerja Pelaksana sebagaimana dimaksud dalam 
-Pasal 51 ayat (3), terdiri dari sumber daya manusia 
 sebagaimana dimaksud dalam Pasal 30 huruf p, huruf r, 
 dan huruf s. 
 (3) 
@@ -3288,31 +2455,52 @@ Kepala Satuan Kerja Pelaksana melaporkan perubahan
 Hak Akses sebagaimana dimaksud pada ayat (2), kepada 
 www.peraturan.go.id
 
-
-<!-- Halaman 47 -->
-
 2019, No. 1478 
--47- 
-atasan langsung.  
+
+atasan langsung. 
 (6) 
 Pelaporan sebagaimana dimaksud pada ayat (4) dan ayat 
 (5), digunakan sebagai penunjukan kepada pemegang 
 Hak Akses baru. 
  
 Bagian Kelima 
-Lokasi Basis Data  
- 
-Pasal 53 
- 
+Lokasi Basis Data
+
+### Pasal 52 ^pasal-52
+
+(1) 
+Penyelenggara sebagaimana dimaksud dalam Pasal 51 
+ayat (3), terdiri dari: 
+a. 
+Sekretaris Direktorat Jenderal Kependudukan dan 
+Pencatatan Sipil; 
+b. 
+Direktur 
+Pengelolaan 
+Informasi 
+Administrasi 
+Kependudukan; dan 
+c. 
+sumber 
+daya 
+manusia 
+sebagaimana 
+dimaksud 
+dalam Pasal 30 huruf a sampai dengan huruf o. 
+(2) 
+Satuan Kerja Pelaksana sebagaimana dimaksud dalam
+
+### Pasal 53 ^pasal-53
+
 Lokasi Basis Data sebagaimana dimaksud dalam Pasal 3 ayat 
 (1) huruf e, diatur sesuai dengan ketentuan peraturan 
 perundang-undangan. 
  
 Bagian Keenam 
-Pengelolaan Basis Data  
- 
-Pasal 54 
- 
+Pengelolaan Basis Data
+
+### Pasal 54 ^pasal-54
+
 Pengelolaan Basis Data sebagaimana dimaksud dalam Pasal 3 
 ayat 
 (1) 
@@ -3322,10 +2510,10 @@ dilakukan
 oleh 
 Direktorat 
 Jenderal 
-Kependudukan dan Pencatatan Sipil. 
- 
-Pasal 55 
- 
+Kependudukan dan Pencatatan Sipil.
+
+### Pasal 55 ^pasal-55
+
 Pengelolaan Basis Data sebagaimana dimaksud dalam Pasal 
 54, terdiri dari: 
 a. 
@@ -3347,35 +2535,20 @@ program pendukung.
  
 www.peraturan.go.id
 
-
-<!-- Halaman 48 -->
-
 2019, No. 1478 
--48- 
+
 Bagian Ketujuh 
-Pemeliharaan Basis Data 
+Pemeliharaan Basis Data
+
+### Pasal 56 ^pasal-56
+
+data jika terjadi kegagalan fungsi pada Pusat Data. 
  
-Pasal 56 
- 
-Pemeliharaan Basis Data sebagaimana dimaksud dalam Pasal 
-3 ayat (1) huruf g, meliputi: 
-a. 
-Basis Data; 
-b. 
-perangkat keras; 
-c. 
-perangkat lunak; 
-d. 
-jaringan komunikasi data; 
-e. 
-Pusat Data;  
-f. 
-Data Cadangan; dan 
-g. 
-Pusat Data Cadangan. 
- 
-Pasal 57 
- 
+Bagian Kedelapan 
+Pengamanan Basis Data
+
+### Pasal 57 ^pasal-57
+
 Pemeliharaan Basis Data sebagaimana dimaksud dalam Pasal 
 56 
 huruf 
@@ -3384,10 +2557,10 @@ dilakukan
 dengan 
 cara 
 penambahan, 
-pembaharuan dan penghapusan data dalam Basis Data. 
- 
-Pasal 58 
- 
+pembaharuan dan penghapusan data dalam Basis Data.
+
+### Pasal 58 ^pasal-58
+
 (1) 
 Pemeliharaan perangkat keras sebagaimana dimaksud 
 dalam Pasal 56 huruf b, terdiri dari: 
@@ -3423,11 +2596,8 @@ Pelaksana sebagaimana dimaksud pada ayat (1) huruf b,
 dilakukan dengan memperpanjang dukungan teknik 
 www.peraturan.go.id
 
-
-<!-- Halaman 49 -->
-
 2019, No. 1478 
--49- 
+
 tahunan terhadap: 
 a. 
 perangkat komputer; 
@@ -3440,10 +2610,10 @@ perangkat pencetakan Dokumen Kependudukan;
 e. 
 perangkat pemindai dokumen; dan 
 f. 
-perangkat perekaman tanda tangan elektronik. 
- 
-Pasal 59 
- 
+perangkat perekaman tanda tangan elektronik.
+
+### Pasal 59 ^pasal-59
+
 (1) 
 Pemeliharaan perangkat lunak sebagaimana dimaksud 
 dalam Pasal 56 huruf c, terdiri dari: 
@@ -3477,10 +2647,10 @@ tahunan terhadap:
 a. 
 sistem operasi; dan 
 b. 
-sistem pendukung lainnya. 
- 
-Pasal 60 
- 
+sistem pendukung lainnya.
+
+### Pasal 60 ^pasal-60
+
 Pemeliharaan 
 jaringan 
 komunikasi 
@@ -3498,11 +2668,8 @@ jaringan
 komunikasi data; 
 www.peraturan.go.id
 
-
-<!-- Halaman 50 -->
-
 2019, No. 1478 
--50- 
+
 b. 
 melakukan uji unjuk kerja jaringan komunikasi data 
 yang digunakan; 
@@ -3514,24 +2681,24 @@ optimalisasi
 jaringan 
 komunikasi data; 
 d. 
-melakukan pembaruan dan peningkatan fungsi terhadap  
+melakukan pembaruan dan peningkatan fungsi terhadap 
 sistem penunjang jaringan; 
 e. 
 melakukan pemecahan masalah jaringan komunikasi 
 data; dan 
 f. 
 melakukan penggantian perangkat jaringan komunikasi 
-data yang  fungsinya tidak optimal. 
- 
-Pasal 61 
- 
+data yang fungsinya tidak optimal.
+
+### Pasal 61 ^pasal-61
+
 Pemeliharaan 
 Pusat 
 Data 
 dan 
 Pusat 
 Data 
-Cadangan  
+Cadangan 
 sebagaimana dimaksud dalam Pasal 56 huruf e dan huruf g, 
 dilakukan terhadap: 
 a. 
@@ -3545,45 +2712,26 @@ perangkat penyimpanan daya listrik;
 e. 
 perangkat penyimpan data monitoring; dan 
 f. 
-kebersihan ruangan. 
- 
-Pasal 62 
- 
-Pemeliharaan Data Cadangan sebagaimana dimaksud dalam 
-Pasal 56 huruf f, dilakukan untuk menjamin ketersediaan 
-data jika terjadi kegagalan fungsi pada Pusat Data. 
- 
-Bagian Kedelapan 
-Pengamanan Basis Data 
- 
-Pasal 63 
- 
-Pengamanan Basis Data sebagaimana dimaksud dalam Pasal 
-3 ayat (1) huruf h, meliputi: 
+kebersihan ruangan.
+
+### Pasal 62 ^pasal-62
+
+Pemeliharaan Data Cadangan sebagaimana dimaksud dalam
+
+### Pasal 63 ^pasal-63
+
 a. 
-Basis Data; 
+menempatkan Data Cadangan di luar Pusat Data dan 
+Pusat Data Cadangan yang aman; dan 
 b. 
-perangkat keras; 
-c. 
-perangkat lunak; 
-d. 
-jaringan komunikasi data; 
-www.peraturan.go.id
-
-
-<!-- Halaman 51 -->
-
-2019, No. 1478 
--51- 
-e. 
-Pusat Data;  
-f. 
-Data Cadangan; dan 
-g. 
-Pusat Data Cadangan. 
+menempatkan Data Cadangan pada ruangan dengan 
+kondisi suhu dan kelembapan yang memenuhi standar. 
  
-Pasal 64 
- 
+Bagian Kesembilan 
+Pengawasan Basis Data
+
+### Pasal 64 ^pasal-64
+
 Pengamanan Basis Data sebagaimana dimaksud dalam Pasal 
 63 huruf a, dilakukan dengan cara, antara lain: 
 a. 
@@ -3593,7 +2741,7 @@ b.
 memastikan sistem Data Cadangan berfungsi dengan 
 baik; 
 c. 
-melakukan penggantian kata kunci secara berkala;  
+melakukan penggantian kata kunci secara berkala; 
 d. 
 menyusun rencana dan melakukan uji coba sistem 
 pemulihan Data Cadangan ke server Basis Data; 
@@ -3602,10 +2750,10 @@ menerapkan sistem manajemen pengguna Basis Data;
 dan 
 f. 
 membuat Hak Akses untuk setiap level pengguna Basis 
-Data. 
- 
-Pasal 65 
- 
+Data.
+
+### Pasal 65 ^pasal-65
+
 Pengamanan perangkat keras pada Pusat Data, Pusat Data 
 Cadangan 
 dan 
@@ -3620,14 +2768,14 @@ melakukan penempatan perangkat keras pada bangunan
 dengan konstruksi kuat, tahan gempa, dan bebas dari 
 banjir; 
 b. 
-memberikan nomor seri dan stiker label pada perangkat  
+memberikan nomor seri dan stiker label pada perangkat 
 keras; dan 
 c. 
 memasang kamera pengawas pada ruangan perangkat 
-keras. 
- 
-Pasal 66 
- 
+keras.
+
+### Pasal 66 ^pasal-66
+
 Pengamanan perangkat lunak pada Pusat Data, Pusat Data 
 Cadangan 
 dan 
@@ -3639,11 +2787,8 @@ dimaksud dalam Pasal 63 huruf c, dilakukan dengan cara
 antara lain: 
 www.peraturan.go.id
 
-
-<!-- Halaman 52 -->
-
 2019, No. 1478 
--52- 
+
 a. 
 melakukan pemasangan antivirus yang diperbaharui 
 secara berkala pada server dan komputer kerja; 
@@ -3660,10 +2805,10 @@ pengguna perangkat lunak wajib merahasiakan dan
 menyimpan dengan baik kode otorisasi dan kata kunci; 
 dan 
 f. 
-menutup aplikasi layanan pada saat tidak digunakan. 
- 
-Pasal 67 
- 
+menutup aplikasi layanan pada saat tidak digunakan.
+
+### Pasal 67 ^pasal-67
+
 Pengamanan 
 jaringan 
 komunikasi 
@@ -3687,17 +2832,17 @@ evaluasi
 sistem 
 keamanan 
 jaringan 
-komunikasi data. 
- 
-Pasal 68 
- 
+komunikasi data.
+
+### Pasal 68 ^pasal-68
+
 Pengamanan 
 Pusat 
 Data 
 dan 
 Pusat 
 Data 
-Cadangan  
+Cadangan 
 sebagaimana dimaksud dalam Pasal 63 huruf e dan huruf g, 
 dilakukan dengan cara antara lain: 
 a. 
@@ -3711,7 +2856,7 @@ peralatan
 identifikasi 
 personil 
 berupa 
-identifikasi biometrik  untuk akses ke area sensitif; 
+identifikasi biometrik untuk akses ke area sensitif; 
 d. 
 menerapkan penggunaan kartu akses; dan 
 e. 
@@ -3719,27 +2864,14 @@ memasang kamera pengawas.
  
 www.peraturan.go.id
 
+2019, No. 1478
 
-<!-- Halaman 53 -->
+### Pasal 69 ^pasal-69
 
-2019, No. 1478 
--53- 
-Pasal 69 
- 
-Pengamanan Data Cadangan sebagaimana dimaksud dalam 
-Pasal 63 huruf f, dilakukan dengan cara antara lain: 
-a. 
-menempatkan Data Cadangan di luar Pusat Data dan 
-Pusat Data Cadangan yang aman; dan 
-b. 
-menempatkan Data Cadangan pada ruangan dengan 
-kondisi suhu dan kelembapan yang memenuhi standar. 
- 
-Bagian Kesembilan 
-Pengawasan Basis Data 
- 
-Pasal 70 
- 
+Pengamanan Data Cadangan sebagaimana dimaksud dalam
+
+### Pasal 70 ^pasal-70
+
 Pengawasan Basis Data sebagaimana dimaksud dalam Pasal 3 
 ayat (1) huruf i, meliputi: 
 a. 
@@ -3751,14 +2883,14 @@ perangkat lunak;
 d. 
 jaringan komunikasi data; 
 e. 
-Pusat Data;  
+Pusat Data; 
 f. 
 Data Cadangan; dan 
 g. 
-Pusat Data Cadangan. 
- 
-Pasal 71 
- 
+Pusat Data Cadangan.
+
+### Pasal 71 ^pasal-71
+
 Pengawasan Basis Data sebagaimana dimaksud dalam Pasal 
 70 huruf a, dilakukan dengan cara antara lain: 
 a. 
@@ -3776,10 +2908,10 @@ Basis
 Data 
 kecuali 
 untuk 
-kepentingan lembaga. 
- 
-Pasal 72 
- 
+kepentingan lembaga.
+
+### Pasal 72 ^pasal-72
+
 Pengawasan perangkat keras pada Pusat Data, Pusat Data 
 Cadangan 
 dan 
@@ -3791,11 +2923,8 @@ dimaksud dalam Pasal 70 huruf b, dilakukan dengan cara
 antara lain: 
 www.peraturan.go.id
 
-
-<!-- Halaman 54 -->
-
 2019, No. 1478 
--54- 
+
 a. 
 membuat buku inventarisasi barang perangkat keras; 
 b. 
@@ -3812,10 +2941,10 @@ pencetakan
 KTP-el 
 yang 
 digunakan di Satuan Kerja Pelaksana memenuhi standar 
-alat pencetakan KTP-el. 
- 
-Pasal 73 
- 
+alat pencetakan KTP-el.
+
+### Pasal 73 ^pasal-73
+
 Pengawasan perangkat lunak pada Pusat Data, Pusat Data 
 Cadangan 
 dan 
@@ -3830,10 +2959,10 @@ memastikan masa dukungan perangkat lunak masih
 berlaku; dan 
 b. 
 memastikan jumlah lisensi perangkat lunak yang dimiliki 
-sesuai dengan kebutuhan. 
- 
-Pasal 74 
- 
+sesuai dengan kebutuhan.
+
+### Pasal 74 ^pasal-74
+
 Pengawasan 
 jaringan 
 komunikasi 
@@ -3853,17 +2982,17 @@ langkah
 tindak 
 lanjut 
 mengatasi 
-permasalahan dan kebutuhan jaringan komunikasi data. 
- 
-Pasal 75 
- 
+permasalahan dan kebutuhan jaringan komunikasi data.
+
+### Pasal 75 ^pasal-75
+
 Pengawasan 
 Pusat 
 Data 
 dan 
 Pusat 
 Data 
-Cadangan  
+Cadangan 
 sebagaimana dimaksud dalam Pasal 70 huruf e dan huruf g, 
 dilakukan dengan cara antara lain: 
 a. 
@@ -3875,20 +3004,17 @@ standar
 pengelolaan Pusat Data dan Pusat Data Cadangan; 
 www.peraturan.go.id
 
-
-<!-- Halaman 55 -->
-
 2019, No. 1478 
--55- 
+
 b. 
 memastikan penerapan sistem pelaporan mingguan dan 
 bulanan berdasarkan kompilasi dari laporan harian; dan 
 c. 
 melakukan rapat pengelola Pusat Data dan Pusat Data 
-Cadangan 1 (satu) bulan sekali. 
- 
-Pasal 76 
- 
+Cadangan 1 (satu) bulan sekali.
+
+### Pasal 76 ^pasal-76
+
 Selain pengawasan sebagaimana dimaksud dalam Pasal 70, 
 dilakukan juga pengawasan terhadap sumber daya manusia 
 yang dilakukan dengan cara antara lain: 
@@ -3926,10 +3052,10 @@ ayat (1), Pasal 33 ayat (1) dan Pasal 34 ayat (1) terhadap
 penyimpangan prosedur kerja bawahannya. 
  
 Bagian Kesepuluh 
-Perangkat Pendukung 
- 
-Pasal 77 
- 
+Perangkat Pendukung
+
+### Pasal 77 ^pasal-77
+
 Perangkat pendukung sebagaimana dimaksud dalam Pasal 3 
 ayat (1) huruf j, terdiri dari perangkat: 
 a. 
@@ -3946,11 +3072,8 @@ f.
 peralatan identifikasi personil; 
 www.peraturan.go.id
 
-
-<!-- Halaman 56 -->
-
 2019, No. 1478 
--56- 
+
 g. 
 pemantau 
 kondisi 
@@ -3964,27 +3087,27 @@ h.
 elektrikal mekanikal. 
  
 Bagian Kesepuluh 
-Tempat Pelayanan 
- 
-Pasal 78 
- 
+Tempat Pelayanan
+
+### Pasal 78 ^pasal-78
+
 Tempat pelayanan sebagaimana dimaksud dalam Pasal 3 ayat 
 (1) huruf k, dilakukan pada Satuan Kerja Pelaksana atau 
 tempat pelayanan lainnya yang tersambung dengan server 
 SIAK. 
  
 Bagian Kesebelas 
-Pusat Data dan Pusat Data Cadangan 
- 
-Pasal 79 
- 
+Pusat Data dan Pusat Data Cadangan
+
+### Pasal 79 ^pasal-79
+
 (1) 
 Pusat Data dan Pusat Data Cadangan sebagaimana 
 dimaksud dalam Pasal 3 ayat (1) huruf l dan huruf n, 
 dalam pengelolaan Kementerian. 
 (2) 
 Pusat Data dan Pusat Data Cadangan sebagaimana 
-dimaksud pada ayat (1), menggunakan referensi  standar 
+dimaksud pada ayat (1), menggunakan referensi standar 
 Pusat Data yang memperhatikan aspek kesehatan, 
 keselamatan 
 manusia, 
@@ -4007,18 +3130,15 @@ kali dalam 1 (satu) tahun.
  
 www.peraturan.go.id
 
-
-<!-- Halaman 57 -->
-
 2019, No. 1478 
--57- 
+
 (5) 
 Menteri melalui Direktorat Jenderal Kependudukan dan 
 Pencatatan Sipil membangun Pusat Data dan Pusat Data 
-Cadangan. 
- 
-Pasal 80 
- 
+Cadangan.
+
+### Pasal 80 ^pasal-80
+
 (1) 
 Pusat Data Cadangan merupakan Pusat Data pengganti 
 sementara. 
@@ -4031,54 +3151,19 @@ Keadaan kahar sebagaimana dimaksud pada ayat (2),
 disebabkan karena kejadian luar biasa dan bencana. 
  
 Bagian Keduabelas 
-Data Cadangan  
- 
-Pasal 81  
+Data Cadangan
+
+### Pasal 81 ^pasal-81
+
 Data Cadangan sebagaimana dimaksud dalam Pasal 3 ayat (1) 
 huruf m, dilakukan untuk menjamin ketersediaan data 
 apabila terjadi kegagalan fungsi data utama. 
  
 Bagian Ketigabelas 
-Jaringan Komunikasi Data 
- 
-Pasal 82  
-(1) 
-Jaringan komunikasi data sebagaimana dimaksud dalam 
-Pasal 3 ayat (1) huruf o, terdiri dari jaringan komunikasi 
-data yang diatur sesuai dengan ketentuan peraturan 
-perundang-undangan. 
-(2) 
-Selain jaringan komunikasi data sebagaimana dimaksud 
-pada ayat (1), terdapat jaringan komunikasi data yang 
-menghubungkan: 
-a. 
-tempat pelayanan pada Satuan Kerja Pelaksana, 
-Penyelenggara dan tempat pelayanan lainnya ke 
-Pusat Data dan/atau Pusat Data Cadangan; 
-www.peraturan.go.id
+Jaringan Komunikasi Data
 
+### Pasal 82 ^pasal-82
 
-<!-- Halaman 58 -->
-
-2019, No. 1478 
--58- 
-b. 
-pusat Pengembangan SIAK ke tempat pelayanan 
-pada Satuan Kerja Pelaksana, Penyelenggara dan 
-tempat pelayanan lainnya; dan 
-c. 
-Direktorat Jenderal Kependudukan dan Pencatatan 
-Sipil, Pusat Data,Pusat Data Cadangan dan pusat 
-Pengembangan SIAK. 
-(3) 
-Pengalur jaringan komunikasi data pada Pusat Data dan 
-Pusat Data Cadangan sebagaimana dimaksud pada ayat 
-(2) huruf a, bersifat saling menggantikan/redundant. 
- 
-Pasal 83  
-(1) 
-Jaringan komunikasi data sebagaimana dimaksud dalam 
-Pasal 82, bersifat tertutup dan terjamin keamanannya 
 dengan dilakukan enkripsi end to end. 
 (2) 
 Penggunaan jaringan publik dari tempat pelayanan 
@@ -4094,9 +3179,15 @@ service
 milik 
 Direktorat 
 Jenderal 
-Kependudukan dan Pencatatan Sipil. 
- 
-Pasal 84  
+Kependudukan dan Pencatatan Sipil.
+
+### Pasal 83 ^pasal-83
+
+(1) 
+Jaringan komunikasi data sebagaimana dimaksud dalam
+
+### Pasal 84 ^pasal-84
+
 (1) 
 Tipe jaringan komunikasi data yang disediakan yaitu 
 teresterial dan satelit. 
@@ -4111,46 +3202,15 @@ Aperture Terminal (VSAT).
  
 Bagian Keempatbelas 
 Pusat Pengembangan 
-Sistem Informasi Administrasi Kependudukan 
- 
-Pasal 85  
+Sistem Informasi Administrasi Kependudukan
+
+### Pasal 85 ^pasal-85
+
 (1) 
-Pusat Pengembangan SIAK sebagaimana dimaksud dalam 
-Pasal 3 ayat (2) huruf a, merupakan tempat: 
-www.peraturan.go.id
+Pusat Pengembangan SIAK sebagaimana dimaksud dalam
 
+### Pasal 86 ^pasal-86
 
-<!-- Halaman 59 -->
-
-2019, No. 1478 
--59- 
-a. 
-penelitian dalam rangka Pengembangan SIAK; 
-b. 
-pengembangan hasil Pengkajian SIAK; 
-c. 
-uji coba hasil penelitian dan Pengembangan SIAK; 
-dan 
-d. 
-simulasi hasil Pengembangan SIAK. 
-(2) 
-Lokasi 
-pusat 
-Pengembangan 
-SIAK 
-sebagaimana 
-dimaksud pada ayat (1), berada pada Pusat Data atau di 
-luar Pusat Data. 
-(3) 
-Pusat Pengembangan SIAK mempunyai perangkat keras, 
-perangkat lunak dan Basis Data yang menyerupai Pusat 
-Data dan dilengkapi dengan sarana penunjang pekerjaan 
-lainnya. 
- 
-Bagian Kelimabelas 
-Pusat Bantuan Pelayanan dan Call Center 
- 
-Pasal 86  
 (1) 
 Pusat bantuan pelayanan dan call center sebagaimana 
 dimaksud dalam Pasal 3 ayat (2) huruf b, terdiri dari 
@@ -4192,18 +3252,15 @@ ditandatangani Direktur Jenderal Kependudukan dan
 Pencatatan Sipil. 
 www.peraturan.go.id
 
-
-<!-- Halaman 60 -->
-
 2019, No. 1478 
--60- 
+
 BAB III 
 PENGKAJIAN DAN PENGEMBANGAN SISTEM INFORMASI 
-ADMINISTRASI KEPENDUDUKAN 
- 
-Pasal 87 
- 
-Pengkajian  dan Pengembangan SIAK, dilakukan oleh: 
+ADMINISTRASI KEPENDUDUKAN
+
+### Pasal 87 ^pasal-87
+
+Pengkajian dan Pengembangan SIAK, dilakukan oleh: 
 a. 
 Kementerian melalui Direktorat Jenderal Kependudukan 
 dan Pencatatan Sipil untuk skala nasional; 
@@ -4222,9 +3279,10 @@ pencatatan
 sipil 
 untuk 
 skala 
-kabupaten/kota. 
- 
-Pasal 88  
+kabupaten/kota.
+
+### Pasal 88 ^pasal-88
+
 (1) 
 Kementerian melalui Direktorat Jenderal Kependudukan 
 dan Pencatatan Sipil, melakukan pengkajian terhadap 
@@ -4247,37 +3305,10 @@ sumber daya manusia;
 c. 
 perangkat pendukung; dan 
 d. 
-tempat pelayanan. 
- 
-Pasal 89  
-(1) 
-Pengkajian SIAK sebagaimana dimaksud dalam Pasal 87 
-dilakukan sewaktu-waktu berdasarkan kebutuhan. 
-(2) 
-Gubernur menyampaikan usulan Pengkajian SIAK di 
-daerah 
-provinsi 
-kepada 
-Menteri 
-melalui 
-Direktur 
-Jenderal Kependudukan dan Pencatatan Sipil. 
-www.peraturan.go.id
+tempat pelayanan.
 
+### Pasal 89 ^pasal-89
 
-<!-- Halaman 61 -->
-
-2019, No. 1478 
--61- 
-(3) 
-Bupati/Wali Kota menyampaikan usulan Pengkajian 
-SIAK di daerah kabupaten/kota kepada Menteri dengan 
-tembusan disampaikan kepada gubernur. 
- 
-Pasal 90  
-(1) 
-Usulan Pengkajian SIAK sebagaimana dimaksud dalam 
-Pasal 89 ayat (2) dan ayat (3), paling sedikit memuat: 
 a. 
 proposal; dan 
 b. 
@@ -4306,9 +3337,15 @@ softcopy atau media lainnya.
 (4) 
 Hasil kajian SIAK sebagaimana dimaksud pada ayat (1) 
 huruf b, berupa rekomendasi penyempurnaan SIAK yang 
-akan ditindaklanjuti oleh Kementerian. 
- 
-Pasal 91  
+akan ditindaklanjuti oleh Kementerian.
+
+### Pasal 90 ^pasal-90
+
+(1) 
+Usulan Pengkajian SIAK sebagaimana dimaksud dalam
+
+### Pasal 91 ^pasal-91
+
 (1) 
 Menteri melalui Direktur Jenderal Kependudukan dan 
 Pencatatan Sipil membentuk tim Pengkajian SIAK 
@@ -4330,11 +3367,8 @@ Jenderal
 Kependudukan dan Pencatatan Sipil. 
 www.peraturan.go.id
 
-
-<!-- Halaman 62 -->
-
 2019, No. 1478 
--62- 
+
 (4) 
 Tim Pengkajian SIAK sebagaimana dimaksud pada ayat 
 (3), melakukan inventarisasi, evaluasi, dan uji manfaat 
@@ -4366,46 +3400,15 @@ Tim Pengkajian SIAK membuat daftar hasil inventarisasi,
 evaluasi, dan uji manfaat yang telah diterima atau ditolak 
 oleh Menteri melalui Direktur Jenderal Kependudukan 
 dan Pencatatan Sipil sebagaimana dimaksud pada ayat 
-(6). 
- 
-Pasal 92  
-(1) 
-Kementerian melalui Direktorat Jenderal Kependudukan 
-dan Pencatatan Sipil mengembangkan seluruh unsur 
-SIAK sebagaimana dimaksud dalam Pasal 3. 
-(2) 
-Pemerintah daerah provinsi dan daerah kabupaten/kota 
-melakukan Pengembangan SIAK terhadap: 
-a. 
-perangkat teknologi informasi dan komunikasi; 
-b. 
-sumber daya manusia; 
-c. 
-perangkat pendukung; dan 
-d. 
-tempat pelayanan. 
-(3) 
-Pengembangan SIAK sebagaimana dimaksud pada ayat 
-(2), dilarang mengubah, merusak aplikasi SIAK standar 
-nasional 
-dan 
-mengubah 
-struktur 
-Basis 
-Data 
-Kependudukan. 
-www.peraturan.go.id
+(6).
 
+### Pasal 92 ^pasal-92
 
-<!-- Halaman 63 -->
+BAB X 
+KETENTUAN PENUTUP
 
-2019, No. 1478 
--63- 
-BAB IV 
-PENGELOLAAN SISTEM INFORMASI 
-ADMINISTRASI KEPENDUDUKAN 
- 
-Pasal 93  
+### Pasal 93 ^pasal-93
+
 (1) 
 Pengelolaan SIAK meliputi: 
 a. 
@@ -4426,10 +3429,11 @@ mengatur
 standar 
 operasional prosedur. 
  
-BAB V  
-PENGELOLAAN DATA KEPENDUDUKAN 
- 
-Pasal 94  
+BAB V 
+PENGELOLAAN DATA KEPENDUDUKAN
+
+### Pasal 94 ^pasal-94
+
 (1) 
 Basis Data hasil pelayanan melalui SIAK menghasilkan 
 Data Kependudukan. 
@@ -4443,9 +3447,10 @@ penyajian data.
 (3) 
 Hasil pengolahan data sebagaimana dimaksud pada ayat 
 (2) huruf a, digunakan untuk berbagai keperluan sesuai 
-dengan ketentuan peraturan perundang-undangan. 
- 
-Pasal 95  
+dengan ketentuan peraturan perundang-undangan.
+
+### Pasal 95 ^pasal-95
+
 Pengolahan data sebagaimana dimaksud dalam Pasal 94 ayat 
 (2) huruf a, terdiri dari: 
 a. 
@@ -4458,12 +3463,10 @@ pengolahan data lainnya.
  
 www.peraturan.go.id
 
+2019, No. 1478
 
-<!-- Halaman 64 -->
+### Pasal 96 ^pasal-96
 
-2019, No. 1478 
--64- 
-Pasal 96  
 (1) 
 Pembersihan data sebagaimana dimaksud dalam Pasal 
 95 huruf a, meliputi: 
@@ -4546,11 +3549,8 @@ persetujuan pembersihan data Penduduk sesuai
 dengan surat permohonan; dan 
 www.peraturan.go.id
 
-
-<!-- Halaman 65 -->
-
 2019, No. 1478 
--65- 
+
 d. 
 pejabat pengawas Pusat Data melakukan penyalinan 
 histori data dan pembersihan data setelah mendapat 
@@ -4558,9 +3558,10 @@ persetujuan dari pejabat administrator Pusat Data.
 (5) 
 Tata cara pembersihan Data Kependudukan sebagaimana 
 dimaksud pada ayat (1), sesuai petunjuk teknis yang 
-mengatur standar operasional prosedur. 
- 
-Pasal 97  
+mengatur standar operasional prosedur.
+
+### Pasal 97 ^pasal-97
+
 (1) 
 Pemadanan data sebagaimana dimaksud dalam Pasal 95 
 huruf 
@@ -4575,14 +3576,16 @@ Pemadanan data sebagaimana dimaksud pada ayat (1),
 hanya dilakukan 1 (satu) kali. 
 (3) 
 Data hasil pemadanan dimanfaatkan oleh Kementerian 
-dan lembaga pengguna. 
- 
-Pasal 98  
+dan lembaga pengguna.
+
+### Pasal 98 ^pasal-98
+
 Pengolahan data lainnya sebagaimana dimaksud dalam Pasal 
 95 huruf c, merupakan pengolahan data sesuai dengan 
-kebutuhan. 
- 
-Pasal 99  
+kebutuhan.
+
+### Pasal 99 ^pasal-99
+
 (1) 
 Penyajian data sebagaimana dimaksud dalam Pasal 94 
 ayat (2) huruf b, disajikan berupa: 
@@ -4612,11 +3615,8 @@ sebagaimana
 dimaksud pada ayat (1) huruf c, menggunakan Data 
 www.peraturan.go.id
 
-
-<!-- Halaman 66 -->
-
 2019, No. 1478 
--66- 
+
 Kependudukan bersih semester pertama. 
 (5) 
 Penyajian daftar Penduduk potensial pemilih pemilu 
@@ -4628,10 +3628,10 @@ peraturan
 perundang-
 undangan. 
 BAB VI 
-PEMBINAAN 
- 
-Pasal 100 
- 
+PEMBINAAN
+
+### Pasal 100 ^pasal-100
+
 (1) 
 Menteri 
 melakukan 
@@ -4654,10 +3654,11 @@ Pembinaan sebagaimana dimaksud pada ayat (1), ayat (2)
 dan ayat (3) meliputi sosialisasi dan bimbingan teknis 
 pelaksanaan SIAK. 
  
-BAB VII  
-MONITORING, EVALUASI, DAN PELAPORAN 
- 
-Pasal 101  
+BAB VII 
+MONITORING, EVALUASI, DAN PELAPORAN
+
+### Pasal 101 ^pasal-101
+
 (1) 
 Menteri melalui Direktur Jenderal Kependudukan dan 
 Pencatatan Sipil melakukan monitoring, evaluasi, dan 
@@ -4670,11 +3671,8 @@ pelaporan terhadap pelaksanaan SIAK untuk skala
 provinsi. 
 www.peraturan.go.id
 
-
-<!-- Halaman 67 -->
-
 2019, No. 1478 
--67- 
+
 (3) 
 Bupati/Wali Kota melalui dinas kependudukan dan 
 pencatatan sipil kabupaten/kota melakukan monitoring, 
@@ -4715,9 +3713,10 @@ laporan
 dan 
 rekomendasi 
 hasil 
-monitoring dan evaluasi. 
- 
-Pasal 102  
+monitoring dan evaluasi.
+
+### Pasal 102 ^pasal-102
+
 (1) 
 Bupati/Wali Kota menyampaikan laporan pengelolaan 
 SIAK daerah kabupaten/kota sebagaimana dimaksud 
@@ -4743,20 +3742,17 @@ November.
  
 BAB VIII 
  
-PENDANAAN 
- 
-Pasal 103 
- 
+PENDANAAN
+
+### Pasal 103 ^pasal-103
+
 (1) 
 Pendanaan pelaksanaan SIAK Kementerian bersumber 
 dari anggaran pendapatan dan belanja negara. 
 www.peraturan.go.id
 
-
-<!-- Halaman 68 -->
-
 2019, No. 1478 
--68- 
+
 (2) 
 Pendanaan pelaksanaan SIAK daerah provinsi bersumber 
 dari anggaran pendapatan dan belanja daerah provinsi. 
@@ -4766,10 +3762,10 @@ bersumber dari anggaran pendapatan dan belanja daerah
 kabupaten/kota. 
  
 BAB IX 
-SANKSI ADMINISTRATIF 
- 
-Pasal 104 
- 
+SANKSI ADMINISTRATIF
+
+### Pasal 104 ^pasal-104
+
 Menteri 
 melalui 
 Direktur 
@@ -4784,21 +3780,16 @@ komunikasi
 data 
 dan 
 menonaktifkan penggunaan aplikasi SIAK kepada Satuan 
-Kerja Pelaksana yang melanggar ketentuan Pasal 52 ayat (3), 
-Pasal 92 ayat (3) dan Pasal 102. 
- 
-BAB X  
-KETENTUAN PENUTUP 
- 
- 
-Pasal 105 
- 
+Kerja Pelaksana yang melanggar ketentuan Pasal 52 ayat (3),
+
+### Pasal 105 ^pasal-105
+
 Pada saat Peraturan Menteri ini mulai berlaku, Kementerian 
 menerapkan SIAK dengan sistem informasi terpusat yang 
-dilaksanakan secara bertahap sampai dengan Tahun 2021. 
- 
-Pasal 106 
- 
+dilaksanakan secara bertahap sampai dengan Tahun 2021.
+
+### Pasal 106 ^pasal-106
+
 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan 
 Menteri Dalam Negeri Nomor 25 Tahun 2011 tentang 
 Pedoman, Pengkajian, Pengembangan dan Pengelolaan Sistem 
@@ -4808,9 +3799,10 @@ Kependudukan
 (Berita 
 Negara 
 Republik Indonesia Tahun 2011 Nomor 362), dicabut dan 
-dinyatakan tidak berlaku. 
-Pasal 107 
- 
+dinyatakan tidak berlaku.
+
+### Pasal 107 ^pasal-107
+
 Peraturan 
 Menteri 
 ini 
@@ -4821,11 +3813,8 @@ tanggal
 diundangkan. 
 www.peraturan.go.id
 
-
-<!-- Halaman 69 -->
-
 2019, No. 1478 
--69- 
+
 Agar 
 setiap 
 orang 
@@ -4861,7 +3850,7 @@ Diundangkan di Jakarta
 pada tanggal 19 November 2019 
  
  
-DIREKTUR JENDERAL  
+DIREKTUR JENDERAL 
 PERATURAN PERUNDANG-UNDANGAN 
 KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA 
 REPUBLIK INDONESIA, 
@@ -4873,3 +3862,117 @@ ttd
 WIDODO EKATJAHJANA 
  
 www.peraturan.go.id
+
+## Penjelasan
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-1|Pasal 1]] | [[#^penjelasan-pasal-1|Penjelasan]] | - |
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | - |
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | - |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-8|Pasal 8]] | [[#^penjelasan-pasal-8|Penjelasan]] | - |
+| [[#^pasal-9|Pasal 9]] | [[#^penjelasan-pasal-9|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | - |
+| [[#^pasal-12|Pasal 12]] | [[#^penjelasan-pasal-12|Penjelasan]] | - |
+| [[#^pasal-13|Pasal 13]] | [[#^penjelasan-pasal-13|Penjelasan]] | - |
+| [[#^pasal-14|Pasal 14]] | [[#^penjelasan-pasal-14|Penjelasan]] | - |
+| [[#^pasal-15|Pasal 15]] | [[#^penjelasan-pasal-15|Penjelasan]] | - |
+| [[#^pasal-16|Pasal 16]] | [[#^penjelasan-pasal-16|Penjelasan]] | - |
+| [[#^pasal-17|Pasal 17]] | [[#^penjelasan-pasal-17|Penjelasan]] | - |
+| [[#^pasal-18|Pasal 18]] | [[#^penjelasan-pasal-18|Penjelasan]] | - |
+| [[#^pasal-19|Pasal 19]] | [[#^penjelasan-pasal-19|Penjelasan]] | - |
+| [[#^pasal-20|Pasal 20]] | [[#^penjelasan-pasal-20|Penjelasan]] | - |
+| [[#^pasal-21|Pasal 21]] | [[#^penjelasan-pasal-21|Penjelasan]] | - |
+| [[#^pasal-22|Pasal 22]] | [[#^penjelasan-pasal-22|Penjelasan]] | - |
+| [[#^pasal-23|Pasal 23]] | [[#^penjelasan-pasal-23|Penjelasan]] | - |
+| [[#^pasal-24|Pasal 24]] | [[#^penjelasan-pasal-24|Penjelasan]] | - |
+| [[#^pasal-25|Pasal 25]] | [[#^penjelasan-pasal-25|Penjelasan]] | - |
+| [[#^pasal-26|Pasal 26]] | [[#^penjelasan-pasal-26|Penjelasan]] | - |
+| [[#^pasal-27|Pasal 27]] | [[#^penjelasan-pasal-27|Penjelasan]] | - |
+| [[#^pasal-28|Pasal 28]] | [[#^penjelasan-pasal-28|Penjelasan]] | - |
+| [[#^pasal-29|Pasal 29]] | [[#^penjelasan-pasal-29|Penjelasan]] | - |
+| [[#^pasal-30|Pasal 30]] | [[#^penjelasan-pasal-30|Penjelasan]] | - |
+| [[#^pasal-31|Pasal 31]] | [[#^penjelasan-pasal-31|Penjelasan]] | - |
+| [[#^pasal-32|Pasal 32]] | [[#^penjelasan-pasal-32|Penjelasan]] | - |
+| [[#^pasal-33|Pasal 33]] | [[#^penjelasan-pasal-33|Penjelasan]] | - |
+| [[#^pasal-34|Pasal 34]] | [[#^penjelasan-pasal-34|Penjelasan]] | - |
+| [[#^pasal-35|Pasal 35]] | [[#^penjelasan-pasal-35|Penjelasan]] | - |
+| [[#^pasal-36|Pasal 36]] | [[#^penjelasan-pasal-36|Penjelasan]] | - |
+| [[#^pasal-37|Pasal 37]] | [[#^penjelasan-pasal-37|Penjelasan]] | - |
+| [[#^pasal-38|Pasal 38]] | [[#^penjelasan-pasal-38|Penjelasan]] | - |
+| [[#^pasal-39|Pasal 39]] | [[#^penjelasan-pasal-39|Penjelasan]] | - |
+| [[#^pasal-40|Pasal 40]] | [[#^penjelasan-pasal-40|Penjelasan]] | - |
+| [[#^pasal-41|Pasal 41]] | [[#^penjelasan-pasal-41|Penjelasan]] | - |
+| [[#^pasal-42|Pasal 42]] | [[#^penjelasan-pasal-42|Penjelasan]] | - |
+| [[#^pasal-43|Pasal 43]] | [[#^penjelasan-pasal-43|Penjelasan]] | - |
+| [[#^pasal-44|Pasal 44]] | [[#^penjelasan-pasal-44|Penjelasan]] | - |
+| [[#^pasal-45|Pasal 45]] | [[#^penjelasan-pasal-45|Penjelasan]] | - |
+| [[#^pasal-46|Pasal 46]] | [[#^penjelasan-pasal-46|Penjelasan]] | - |
+| [[#^pasal-47|Pasal 47]] | [[#^penjelasan-pasal-47|Penjelasan]] | - |
+| [[#^pasal-48|Pasal 48]] | [[#^penjelasan-pasal-48|Penjelasan]] | - |
+| [[#^pasal-49|Pasal 49]] | [[#^penjelasan-pasal-49|Penjelasan]] | - |
+| [[#^pasal-50|Pasal 50]] | [[#^penjelasan-pasal-50|Penjelasan]] | - |
+| [[#^pasal-51|Pasal 51]] | [[#^penjelasan-pasal-51|Penjelasan]] | - |
+| [[#^pasal-52|Pasal 52]] | [[#^penjelasan-pasal-52|Penjelasan]] | - |
+| [[#^pasal-53|Pasal 53]] | [[#^penjelasan-pasal-53|Penjelasan]] | - |
+| [[#^pasal-54|Pasal 54]] | [[#^penjelasan-pasal-54|Penjelasan]] | - |
+| [[#^pasal-55|Pasal 55]] | [[#^penjelasan-pasal-55|Penjelasan]] | - |
+| [[#^pasal-56|Pasal 56]] | [[#^penjelasan-pasal-56|Penjelasan]] | - |
+| [[#^pasal-57|Pasal 57]] | [[#^penjelasan-pasal-57|Penjelasan]] | - |
+| [[#^pasal-58|Pasal 58]] | [[#^penjelasan-pasal-58|Penjelasan]] | - |
+| [[#^pasal-59|Pasal 59]] | [[#^penjelasan-pasal-59|Penjelasan]] | - |
+| [[#^pasal-60|Pasal 60]] | [[#^penjelasan-pasal-60|Penjelasan]] | - |
+| [[#^pasal-61|Pasal 61]] | [[#^penjelasan-pasal-61|Penjelasan]] | - |
+| [[#^pasal-62|Pasal 62]] | [[#^penjelasan-pasal-62|Penjelasan]] | - |
+| [[#^pasal-63|Pasal 63]] | [[#^penjelasan-pasal-63|Penjelasan]] | - |
+| [[#^pasal-64|Pasal 64]] | [[#^penjelasan-pasal-64|Penjelasan]] | - |
+| [[#^pasal-65|Pasal 65]] | [[#^penjelasan-pasal-65|Penjelasan]] | - |
+| [[#^pasal-66|Pasal 66]] | [[#^penjelasan-pasal-66|Penjelasan]] | - |
+| [[#^pasal-67|Pasal 67]] | [[#^penjelasan-pasal-67|Penjelasan]] | - |
+| [[#^pasal-68|Pasal 68]] | [[#^penjelasan-pasal-68|Penjelasan]] | - |
+| [[#^pasal-69|Pasal 69]] | [[#^penjelasan-pasal-69|Penjelasan]] | - |
+| [[#^pasal-70|Pasal 70]] | [[#^penjelasan-pasal-70|Penjelasan]] | - |
+| [[#^pasal-71|Pasal 71]] | [[#^penjelasan-pasal-71|Penjelasan]] | - |
+| [[#^pasal-72|Pasal 72]] | [[#^penjelasan-pasal-72|Penjelasan]] | - |
+| [[#^pasal-73|Pasal 73]] | [[#^penjelasan-pasal-73|Penjelasan]] | - |
+| [[#^pasal-74|Pasal 74]] | [[#^penjelasan-pasal-74|Penjelasan]] | - |
+| [[#^pasal-75|Pasal 75]] | [[#^penjelasan-pasal-75|Penjelasan]] | - |
+| [[#^pasal-76|Pasal 76]] | [[#^penjelasan-pasal-76|Penjelasan]] | - |
+| [[#^pasal-77|Pasal 77]] | [[#^penjelasan-pasal-77|Penjelasan]] | - |
+| [[#^pasal-78|Pasal 78]] | [[#^penjelasan-pasal-78|Penjelasan]] | - |
+| [[#^pasal-79|Pasal 79]] | [[#^penjelasan-pasal-79|Penjelasan]] | - |
+| [[#^pasal-80|Pasal 80]] | [[#^penjelasan-pasal-80|Penjelasan]] | - |
+| [[#^pasal-81|Pasal 81]] | [[#^penjelasan-pasal-81|Penjelasan]] | - |
+| [[#^pasal-82|Pasal 82]] | [[#^penjelasan-pasal-82|Penjelasan]] | - |
+| [[#^pasal-83|Pasal 83]] | [[#^penjelasan-pasal-83|Penjelasan]] | - |
+| [[#^pasal-84|Pasal 84]] | [[#^penjelasan-pasal-84|Penjelasan]] | - |
+| [[#^pasal-85|Pasal 85]] | [[#^penjelasan-pasal-85|Penjelasan]] | - |
+| [[#^pasal-86|Pasal 86]] | [[#^penjelasan-pasal-86|Penjelasan]] | - |
+| [[#^pasal-87|Pasal 87]] | [[#^penjelasan-pasal-87|Penjelasan]] | - |
+| [[#^pasal-88|Pasal 88]] | [[#^penjelasan-pasal-88|Penjelasan]] | - |
+| [[#^pasal-89|Pasal 89]] | [[#^penjelasan-pasal-89|Penjelasan]] | - |
+| [[#^pasal-90|Pasal 90]] | [[#^penjelasan-pasal-90|Penjelasan]] | - |
+| [[#^pasal-91|Pasal 91]] | [[#^penjelasan-pasal-91|Penjelasan]] | - |
+| [[#^pasal-92|Pasal 92]] | [[#^penjelasan-pasal-92|Penjelasan]] | - |
+| [[#^pasal-93|Pasal 93]] | [[#^penjelasan-pasal-93|Penjelasan]] | - |
+| [[#^pasal-94|Pasal 94]] | [[#^penjelasan-pasal-94|Penjelasan]] | - |
+| [[#^pasal-95|Pasal 95]] | [[#^penjelasan-pasal-95|Penjelasan]] | - |
+| [[#^pasal-96|Pasal 96]] | [[#^penjelasan-pasal-96|Penjelasan]] | - |
+| [[#^pasal-97|Pasal 97]] | [[#^penjelasan-pasal-97|Penjelasan]] | - |
+| [[#^pasal-98|Pasal 98]] | [[#^penjelasan-pasal-98|Penjelasan]] | - |
+| [[#^pasal-99|Pasal 99]] | [[#^penjelasan-pasal-99|Penjelasan]] | - |
+| [[#^pasal-100|Pasal 100]] | [[#^penjelasan-pasal-100|Penjelasan]] | - |
+| [[#^pasal-101|Pasal 101]] | [[#^penjelasan-pasal-101|Penjelasan]] | - |
+| [[#^pasal-102|Pasal 102]] | [[#^penjelasan-pasal-102|Penjelasan]] | - |
+| [[#^pasal-103|Pasal 103]] | [[#^penjelasan-pasal-103|Penjelasan]] | - |
+| [[#^pasal-104|Pasal 104]] | [[#^penjelasan-pasal-104|Penjelasan]] | - |
+| [[#^pasal-105|Pasal 105]] | [[#^penjelasan-pasal-105|Penjelasan]] | - |
+| [[#^pasal-106|Pasal 106]] | [[#^penjelasan-pasal-106|Penjelasan]] | - |
+| [[#^pasal-107|Pasal 107]] | [[#^penjelasan-pasal-107|Penjelasan]] | - |

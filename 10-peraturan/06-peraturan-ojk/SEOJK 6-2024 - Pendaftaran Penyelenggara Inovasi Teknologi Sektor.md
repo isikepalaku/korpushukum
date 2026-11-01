@@ -1,25 +1,35 @@
 ---
-id: "SEOJK 6/2024"
+id: SEOJK 6/2024
 jenis: SEOJK
-lembaga: "Surat Edaran Otoritas Jasa Keuangan"
+lembaga: Surat Edaran Otoritas Jasa Keuangan
 nomor: 6
 tahun: 2024
-judul: "Pendaftaran Penyelenggara Inovasi Teknologi Sektor Keuangan"
-judul_singkat: "Pendaftaran Penyelenggara Inovasi Teknologi Sektor"
+judul: Pendaftaran Penyelenggara Inovasi Teknologi Sektor Keuangan
+judul_singkat: Pendaftaran Penyelenggara Inovasi Teknologi Sektor
 status: berlaku
-status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
+status_catatan: 'Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. '
 mencabut: []
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
-bidang: [keuangan]
-tags: [jenis/seojk, bidang/keuangan, status/berlaku]
-sumber: "https://ojk.go.id/id/regulasi/Pages/Pendaftaran-Penyelenggara-Inovasi-Teknologi-Sektor-Keuangan.aspx"
+bidang:
+- keuangan
+tags:
+- jenis/seojk
+- bidang/keuangan
+- status/berlaku
+sumber: https://ojk.go.id/id/regulasi/Pages/Pendaftaran-Penyelenggara-Inovasi-Teknologi-Sektor-Keuangan.aspx
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Pendaftaran Penyelenggara Inovasi Teknologi Sektor Keuangan

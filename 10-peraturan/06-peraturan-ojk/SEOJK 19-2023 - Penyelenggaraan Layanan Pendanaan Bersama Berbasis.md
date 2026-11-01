@@ -1,26 +1,32 @@
 ---
-id: "SEOJK 19/2023"
+id: SEOJK 19/2023
 jenis: SEOJK
-lembaga: "Surat Edaran Otoritas Jasa Keuangan"
+lembaga: SEOJK
 nomor: 19
 tahun: 2023
-judul: "Penyelenggaraan Layanan Pendanaan Bersama Berbasis Teknologi Informasi"
-judul_singkat: "Penyelenggaraan Layanan Pendanaan Bersama Berbasis"
+judul: Penyelenggaraan Layanan Pendanaan Bersama Berbasis Teknologi Informasi
+judul_singkat: Penyelenggaraan Layanan Pendanaan Bersama Berbasis
 status: berlaku
-status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
-mencabut: []
-dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
-terkait: []
-bidang: [keuangan]
-tags: [jenis/seojk, bidang/keuangan, status/berlaku]
-sumber: "https://ojk.go.id/id/regulasi/Pages/Penyelenggaraan-Layanan-Pendanaan-Bersama-Berbasis-Teknologi-Informasi-(LPBBTI).aspx"
+status_bpk: Berlaku
+bidang:
+- keuangan
+tags:
+- jenis/seojk
+- bidang/keuangan
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: tidak-tersedia
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Penyelenggaraan Layanan Pendanaan Bersama Berbasis Teknologi Informasi**
 
 # Penyelenggaraan Layanan Pendanaan Bersama Berbasis Teknologi Informasi
 
@@ -29,7 +35,6 @@ last_updated: 2026-10-28
 > Sumber: https://ojk.go.id/id/regulasi/Pages/Penyelenggaraan-Layanan-Pendanaan-Bersama-Berbasis-Teknologi-Informasi-(LPBBTI).aspx
 
 > Sumber: [OJK/JDIH](https://ojk.go.id/id/regulasi/Pages/Penyelenggaraan-Layanan-Pendanaan-Bersama-Berbasis-Teknologi-Informasi-(LPBBTI).aspx)
-
 
 Yth.
 Direksi Penyelenggara Layanan Pendanaan Bersama Berbasis Teknologi
@@ -48,7 +53,9 @@ BERBASIS TEKNOLOGI INFORMASI
 
 Sehubungan dengan amanat Pasal 25 ayat (3), Pasal 26 ayat (8), Pasal
 29 ayat (2) dan ayat (3), Pasal 35 ayat (6), Pasal 36 ayat (9), Pasal 44 ayat (2),
-Pasal 51 ayat (3), Pasal 101 ayat (6), dan Pasal 104 ayat (2) Peraturan Otoritas
+
+### Pasal 51 ^pasal-51
+
 Jasa Keuangan Nomor 10/POJK.05/2022 tentang Layanan Pendanaan
 Bersama Berbasis Teknologi Informasi (Lembaran Negara Republik Indonesia
 Tahun 2022 Nomor 2/OJK, Tambahan Lembaran Negara Republik Indonesia
@@ -78,7 +85,6 @@ elektronik yang berfungsi mempersiapkan, mengumpulkan,
 mengolah, menganalisis, menyimpan, menampilkan,
 mengumumkan, mengirimkan, dan/atau menyebarkan informasi
 elektronik di bidang layanan jasa keuangan.
-
 
 -----
 
@@ -132,7 +138,6 @@ f. penyediaan sarana pengaduan; dan
 g. penyediaan informasi terkait Pendanaan bagi Pengguna.
 3. Kegiatan usaha pengelolaan sebagaimana dimaksud pada angka 1
 huruf b yaitu Penyelenggara melakukan kegiatan verifikasi identitas
-
 
 -----
 
@@ -189,7 +194,6 @@ c. Penyelenggara adalah badan hukum Indonesia yang
 menyediakan, mengelola, dan mengoperasikan LPBBTI baik
 secara konvensional atau berdasarkan Prinsip Syariah;
 
-
 -----
 
 d. Penyelenggara berizin dan diawasi oleh Otoritas Jasa
@@ -244,7 +248,6 @@ Penyelenggara;
 2) melakukan klarifikasi dan konfirmasi baik melalui tatap
 muka secara langsung, tatap muka secara elektronik,
 
-
 -----
 
 dan/atau tidak tatap muka secara elektronik kepada
@@ -298,7 +301,6 @@ e) laporan yang dapat menunjukkan transaksi
 operasional dan laba rugi terakhir; dan
 f) dokumen pendukung lainnya;
 
-
 -----
 
 e. analisis calon Pemberi Dana sebagaimana dimaksud dalam
@@ -350,7 +352,6 @@ dan/atau tidak tatap muka secara elektronik kepada
 calon Penerima Dana sebagaimana diatur dalam
 Peraturan Otoritas Jasa Keuangan mengenai penerapan
 program anti pencucian uang, pencegahan pendanaan
-
 
 -----
 
@@ -406,7 +407,6 @@ c) swafoto; dan
 d) nomor rekening (jika diperlukan);
 2) badan usaha (termasuk badan hukum) paling sedikit:
 
-
 -----
 
 a) kartu tanda penduduk/surat izin
@@ -458,7 +458,6 @@ h) pekerjaan;
 i) penghasilan;
 j) sumber penghasilan; dan
 k) alamat domisili lengkap;
-
 
 -----
 
@@ -514,7 +513,6 @@ ketentuan, manfaat ekonomi, dan/atau denda
 keterlambatan yang tidak wajar bagi Penerima Dana, yang
 tidak memperhatikan kemampuan membayar kembali
 
-
 -----
 
 (repayment capacity) Penerima Dana, atau Pendanaan
@@ -569,7 +567,6 @@ Informasi sebagaimana dimaksud pada angka 3 huruf b adalah
 pekerjaan terkait dengan pengembangan Teknologi Informasi dan
 operasional Teknologi Informasi.
 
-
 -----
 
 8. Pekerjaan yang termasuk operasional Teknologi Informasi
@@ -622,7 +619,6 @@ Januari 2024;
 nilai Pendanaan yang tercantum dalam perjanjian
 Pendanaan, yang berlaku selama 1 (satu) tahun sejak 1
 Januari 2025; dan
-
 
 -----
 
@@ -681,7 +677,6 @@ f) biaya lainnya Rp5.000,00 (lima ribu rupiah);
 g) total manfaat ekonomi = Rp40.000,00 (empat puluh ribu
 rupiah) + Rp 45.000,00 (empat puluh lima ribu rupiah) +
 
-
 -----
 
 Rp5.000,00 (lima ribu rupiah) = Rp90.000,00 (sembilan
@@ -737,7 +732,6 @@ c. melakukan penagihan atas Pendanaan yang disalurkan secara
 optimal;
 d. memfasilitasi pengalihan risiko Pendanaan; dan
 
-
 -----
 
 e. memfasilitasi pengalihan risiko atas objek jaminan, jika ada
@@ -789,7 +783,6 @@ berdampingan dengan bahasa asing.
 11. Penggunaan asuransi atau penjaminan sebagaimana dimaksud
 pada angka 6 merupakan kesepakatan antara Pemberi Dana
 dengan perusahaan asuransi atau perusahaan penjaminan.
-
 
 -----
 
@@ -844,7 +837,6 @@ Pengguna;
 b. penyampaian setiap perubahan tujuan pemanfaatan data dan
 informasi kepada Pengguna, jika ada; dan
 
-
 -----
 
 c. media dan metode yang digunakan dalam memperoleh serta
@@ -895,7 +887,6 @@ jatuh tempo 60 (enam puluh) hari kalender sampai dengan 90
 e. macet apabila terdapat keterlambatan pembayaran pokok
 dan/atau manfaat ekonomi Pendanaan yang telah melampaui
 jatuh tempo 90 (sembilan puluh) hari kalender.
-
 
 -----
 
@@ -960,7 +951,6 @@ TWP 30 = [Posisi akhir wanprestasi di atas 30 hari kalender ] X 100 %
 
 Total posisi akhir
 
-
 -----
 
 c. TKB 60 = 100% −TWP 60
@@ -1024,7 +1014,6 @@ pokok etika penagihan sebagai berikut:
 pihak lain yang bekerja sama dengan Penyelenggara, yang
 dilengkapi dengan foto diri yang bersangkutan;
 
-
 -----
 
 2) penagihan tidak diperkenankan dilakukan dengan
@@ -1081,7 +1070,6 @@ ketentuan dan peraturan perundang-undangan;
 5) kewajiban para pihak untuk melindungi hak dan
 kepentingan Pengguna terkait dengan penagihan yang
 dilakukan;
-
 
 -----
 
@@ -1141,7 +1129,6 @@ diselesaikan; atau
 b. portofolio dialihkan kepada Penyelenggara dengan prinsip
 penyelenggaraan usaha yang sejenis.
 
-
 -----
 
 3. Penyelesaian hak dan kewajiban Penyelenggara kepada Pengguna
@@ -1193,7 +1180,6 @@ ttd
 
 AGUSMAN
 
-
 Salinan ini sesuai dengan aslinya
 Direktur Hukum 1
 Departemen Hukum
@@ -1202,6 +1188,12 @@ ttd
 
 Mufli Asmawidjaja
 
-
 -----
 
+## Penjelasan
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-51|Pasal 51]] | [[#^penjelasan-pasal-51|Penjelasan]] | - |

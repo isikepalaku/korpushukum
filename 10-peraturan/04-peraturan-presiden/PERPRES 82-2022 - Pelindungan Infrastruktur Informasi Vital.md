@@ -1,13 +1,13 @@
 ---
-id: "PERPRES 82/2022"
+id: PERPRES 82/2022
 jenis: PERPRES
-lembaga: "Peraturan Presiden"
+lembaga: Peraturan Presiden
 nomor: 82
 tahun: 2022
-judul: "Pelindungan Infrastruktur Informasi Vital"
-judul_singkat: "Pelindungan Infrastruktur Informasi Vital"
+judul: Pelindungan Infrastruktur Informasi Vital
+judul_singkat: Pelindungan Infrastruktur Informasi Vital
 status: berlaku
-status_bpk: "Berlaku"
+status_bpk: Berlaku
 ditetapkan: 2022-05-24
 berlaku_mulai: 2022-05-24
 mencabut: []
@@ -15,15 +15,25 @@ dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
-bidang: [siber]
-tags: [jenis/perpres, bidang/siber, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/211029/perpres-no-82-tahun-2022"
+bidang:
+- siber
+tags:
+- jenis/perpres
+- bidang/siber
+- status/berlaku
+sumber: https://peraturan.bpk.go.id/Details/211029/perpres-no-82-tahun-2022
 kelengkapan: lengkap
 verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
+verifikasi_sumber: JDIH BPK
 verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Pelindungan Infrastruktur Informasi Vital

@@ -1,29 +1,41 @@
 ---
-id: "UU 19/2016"
+id: UU 19/2016
 jenis: UU
-lembaga: "Undang-Undang"
+lembaga: Undang-Undang
 nomor: 19
 tahun: 2016
-judul: "Perubahan atas UU 11-2008 tentang ITE"
-judul_singkat: "ITE Perubahan Pertama"
+judul: Perubahan atas UU 11-2008 tentang ITE
+judul_singkat: ITE Perubahan Pertama
 status: berlaku
-status_bpk: "Berlaku"
+status_bpk: Berlaku
 ditetapkan: 2016-11-25
 berlaku_mulai: 2016-11-25
 mencabut: []
 dicabut_oleh: []
-mengubah: ["UU 11/2008"]
-diubah_oleh: ["UU 1/2024"]
+mengubah:
+- UU 11/2008
+diubah_oleh:
+- UU 1/2024
 terkait: []
-bidang: [siber]
-tags: [jenis/uu, bidang/siber, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/37582/uu-no-19-tahun-2016"
+bidang:
+- siber
+tags:
+- jenis/uu
+- bidang/siber
+- status/berlaku
+sumber: https://peraturan.bpk.go.id/Details/37582/uu-no-19-tahun-2016
 kelengkapan: lengkap
 verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
+verifikasi_sumber: JDIH BPK
 verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Perubahan atas UU 11-2008 tentang ITE

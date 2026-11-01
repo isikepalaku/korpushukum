@@ -1,38 +1,38 @@
 ---
-id: "PERMENDAGRI 72/2022"
+id: PERMENDAGRI 72/2022
 jenis: PERMENDAGRI
-lembaga: "Peraturan Menteri Dalam Negeri"
+lembaga: PERMENDAGRI
 nomor: 72
 tahun: 2022
-judul: "Standar Blangko KTP-el dan Penyelenggaraan Identitas Kependudukan Digital"
-judul_singkat: "Blangko KTP-el dan Identitas Digital"
+judul: Standar Blangko KTP-el dan Penyelenggaraan Identitas Kependudukan Digital
+judul_singkat: Blangko KTP-el dan Identitas Digital
 status: berlaku
-status_bpk: "Berlaku"
-ditetapkan: 2022-04-01
-berlaku_mulai: 2022-04-13
-mencabut: []
-dicabut_oleh: []
-mengubah: []
-diubah_oleh: []
-terkait: []
-bidang: [pidana]
-tags: [jenis/permendagri, bidang/pidana, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/247759/permendagri-no-72-tahun-2022"
+status_bpk: Berlaku
+bidang:
+- pidana
+tags:
+- jenis/permendagri
+- bidang/pidana
+- status/berlaku
 kelengkapan: lengkap
-verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
-verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+verifikasi: belum
+penjelasan: tidak
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
+struktur_teks: terpartisi
+anchor_pasal: true
+last_updated: '2026-11-01'
 ---
 
+## Batang Tubuh
+
+**Standar Blangko KTP-el dan Penyelenggaraan Identitas Kependudukan Digital**
 
 # Standar Blangko KTP-el dan Penyelenggaraan Identitas Kependudukan Digital
 
 **Status:** `berlaku` · JDIH BPK: `Berlaku`
 
 > Sumber: https://peraturan.bpk.go.id/Details/247759/permendagri-no-72-tahun-2022
-
-<!-- Halaman 1 -->
 
 MENTERI DALAM NEGERI 
 REPUBLIK INDONESIA 
@@ -78,10 +78,7 @@ bahwa Peraturan Menteri Dalam Negeri Nomor 38 Tahun
 2009 tentang Standar dan Spesifikasi Perangkat Keras, 
 Perangkat Lunak, dan Blangko Kartu Tanda Penduduk 
 Berbasis Nomor Induk Kependudukan Secara Nasional 
-<!-- Halaman 2 -->
 
-- 2 - 
- 
 sebagaimana telah diubah dengan Peraturan Menteri 
 Dalam Negeri Nomor 6 Tahun 2011 tentang Perubahan 
 atas Peraturan Menteri Dalam Negeri Nomor 38 Tahun 
@@ -106,110 +103,11 @@ Penyelenggaraan
 Identitas Kependudukan Digital; 
  
 Mengingat 
-:  1. 
-Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik 
-Indonesia Tahun 1945; 
-2. 
-Undang-Undang 
-Nomor 
-23 
-Tahun 
-2006 
-tentang 
-Administrasi Kependudukan (Lembaran Negara Republik 
-Indonesia Tahun 2006 Nomor 124, Tambahan Lembaran 
-Negara Republik Indonesia Nomor 4674) sebagaimana 
-telah diubah dengan Undang-Undang Nomor 24 Tahun 
-2013 tentang Perubahan atas Undang-Undang Nomor 23 
-Tahun 
-2006 
-tentang 
-Administrasi 
-Kependudukan 
-(Lembaran Negara Republik Indonesia Tahun 2013 Nomor 
-232, Tambahan Lembaran Negara Republik Indonesia 
-Nomor 5475); 
-3. 
-Undang-Undang 
-Nomor 
-39 
-Tahun 
-2008 
-tentang 
-Kementerian 
-Negara 
-(Lembaran 
-Negara 
-Republik 
-Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran 
-Negara Republik Indonesia Nomor 4916); 
-4. 
-Peraturan Pemerintah Nomor 40 Tahun 2019 tentang 
-Pelaksanaan Undang-Undang Nomor 23 Tahun 2006 
-tentang Administrasi Kependudukan sebagaimana telah
+: 1.
 
+### Pasal 1 ^pasal-1
 
-<!-- Halaman 3 -->
-
-- 3 - 
- 
-diubah dengan Undang-Undang Nomor 24 Tahun 2013 
-tentang Perubahan atas Undang-Undang Nomor 23 Tahun 
-2006 tentang Administrasi Kependudukan (Lembaran 
-Negara Republik Indonesia Tahun 2019 Nomor 102, 
-Tambahan Lembaran Negara Republik Indonesia Nomor  
-6354); 
-5. 
-Peraturan Presiden Nomor 26 Tahun 2009 tentang 
-Penerapan Kartu Tanda Penduduk Berbasis Nomor Induk 
-Kependudukan 
-Secara 
-Nasional 
-sebagaimana 
-telah 
-beberapa kali diubah terakhir dengan Peraturan Presiden 
-Nomor 112 Tahun 2013 tentang Perubahan Keempat atas 
-Peraturan Presiden Nomor 26 Tahun 2009 tentang 
-Penerapan Kartu Tanda Penduduk Berbasis Nomor Induk 
-Kependudukan 
-Secara 
-Nasional 
-(Lembaran 
-Negara 
-Republik Indonesia Tahun 2013 Nomor 257); 
-6. 
-Peraturan Presiden Nomor 11 Tahun 2015 tentang 
-Kementerian Dalam Negeri (Lembaran Negara Republik 
-Indonesia Tahun 2015 Nomor 12); 
-7. 
-Peraturan Menteri Dalam Negeri Nomor 95 Tahun 2019 
-tentang Sistem Informasi Administrasi Kependudukan 
-(Berita Negara Republik Indonesia Tahun 2019 Nomor 
-1478); 
-8. 
-Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2021 
-tentang Organisasi Tata Kerja Kementerian Dalam Negeri 
-(Berita Negara Republik Indonesia Tahun 2021 Nomor 
-398); 
- 
-MEMUTUSKAN: 
-Menetapkan : PERATURAN MENTERI DALAM NEGERI TENTANG STANDAR 
-DAN SPESIFIKASI PERANGKAT KERAS, PERANGKAT LUNAK, 
-DAN BLANGKO KARTU TANDA PENDUDUK ELEKTRONIK 
-SERTA PENYELENGGARAAN IDENTITAS KEPENDUDUKAN 
-DIGITAL.
-
-
-<!-- Halaman 4 -->
-
-- 4 - 
- 
-BAB I  
-KETENTUAN UMUM 
- 
-Pasal 1 
- 
-Dalam Peraturan Menteri ini, yang dimaksud dengan:  
+Dalam Peraturan Menteri ini, yang dimaksud dengan: 
 1. 
 Administrasi Kependudukan adalah rangkaian kegiatan 
 penataan dan penertiban dalam penerbitan dokumen dan 
@@ -241,7 +139,7 @@ NIK adalah nomor identitas Penduduk yang bersifat unik
 atau khas, tunggal, dan melekat pada seseorang yang 
 terdaftar sebagai Penduduk Indonesia. 
 5. 
-Kartu Tanda  Penduduk  Elektronik yang selanjutnya 
+Kartu Tanda Penduduk Elektronik yang selanjutnya 
 disingkat KTP-el adalah kartu tanda penduduk yang 
 dilengkapi dengan cip yang merupakan identitas resmi 
 penduduk sebagai bukti diri yang diterbitkan oleh dinas 
@@ -252,7 +150,7 @@ teknis
 dinas 
 kependudukan 
 dan 
-pencatatan sipil.  
+pencatatan sipil. 
 6. 
 Perangkat Keras adalah perangkat komputer, perangkat 
 jaringan dan komunikasi, media penyimpanan data dan 
@@ -266,17 +164,12 @@ sistem
 Administrasi 
 Kependudukan.
 
-
-<!-- Halaman 5 -->
-
-- 5 - 
- 
 8. 
 Blangko KTP-el adalah media berupa kartu pintar yang 
 digunakan untuk menyimpan identitas penduduk. 
 9. 
 Menteri adalah menteri yang menyelenggarakan urusan 
-pemerintahan dalam negeri.  
+pemerintahan dalam negeri. 
 10. Kementerian adalah kementerian yang menyelenggarakan 
 urusan pemerintahan dalam negeri. 
 11. Direktur Jenderal Kependudukan dan Pencatatan Sipil 
@@ -341,14 +234,9 @@ Republik
 Indonesia, dan Konsulat Republik Indonesia di luar 
 wilayah Negara Kesatuan Republik Indonesia.
 
-
-<!-- Halaman 6 -->
-
-- 6 - 
- 
 17. Data Pribadi adalah data perseorangan tertentu yang 
 disimpan, dirawat, dan juga dijaga kebenaran serta 
-dilindungi kerahasiaannya.  
+dilindungi kerahasiaannya. 
 18. Identitas 
 Kependudukan 
 Digital 
@@ -361,13 +249,13 @@ sebagai identitas yang bersangkutan.
 19. Quick Response Code selanjutnya disebut QR Code adalah 
 suatu kode matriks dua dimensi terenkripsi yang 
 digunakan untuk verifikasi dan validasi dengan cara 
-memindai QR Code menggunakan gawai.  
+memindai QR Code menggunakan gawai. 
 20. Pengguna adalah lembaga negara, kementerian/lembaga 
 pemerintah nonkementerian, dan/atau badan hukum 
 Indonesia yang diberikan hak akses untuk pemanfaatan 
 data kependudukan dan KTP-el sesuai dengan bidangnya 
 dengan mempertimbangkan aspek perlindungan data 
-perorangan dan keamanan negara.  
+perorangan dan keamanan negara. 
 21. Prinsipal atau Produsen Perangkat Keras yang selanjutnya 
 disebut Produsen adalah badan hukum yang melakukan 
 pengendalian atas hak atas kekayaan intelektual dan 
@@ -381,100 +269,44 @@ Perangkat Keras yang telah memiliki sertifikat atau
 dokumen lain yang memberikan keterangan penunjukan 
 dari Produsen untuk melakukan penjualan produk.
 
-
-<!-- Halaman 7 -->
-
-- 7 - 
- 
-BAB II  
+BAB II 
 STANDAR DAN SPESIFIKASI PERANGKAT KERAS, 
 PERANGKAT LUNAK, DAN BLANGKO KTP-EL 
  
 Bagian Kesatu 
-Standar dan Spesifikasi 
- 
-Pasal 2 
- 
-(1) 
-Menteri 
-melalui 
-Dirjen 
-menetapkan 
-standar 
-dan 
-spesifikasi Perangkat Keras, Perangkat Lunak, dan 
-Blangko KTP-el. 
-(2) 
-Perangkat keras sebagaimana dimaksud pada ayat (1) 
-meliputi: 
-a. Cip; 
-b. Blangko KTP-el; 
-c. perangkat pemindai iris (iris scanner); 
-d. perangkat pemindai sidik jari (fingerprint scanner); 
-e. perangkat perekam tanda tangan (signature pad); 
-f. 
-perangkat kamera;  
-g. perangkat pencetak KTP-el (printer); dan 
-h. perangkat anjungan dukcapil mandiri yang terintegrasi 
-dengan SIAK. 
-(3) 
-Perangkat Lunak sebagaimana dimaksud pada ayat (1) 
-merupakan SIAK sesuai dengan ketentuan peraturan 
-perundang-undangan. 
-(4) 
-Blangko KTP-el sebagaimana dimaksud pada ayat (1) 
-memuat cip yang dapat digunakan untuk pemuatan data 
-dan/atau aplikasi tambahan. 
- 
-Pasal 3 
- 
-(1) 
-Untuk memastikan kesesuaian standar dan spesifikasi 
-terhadap Perangkat Keras sebagaimana dimaksud dalam 
-Pasal 2 ayat (2) dilakukan pengujian komponen dan 
+Standar dan Spesifikasi
+
+### Pasal 2 ^pasal-2
+
 pengujian teknis. 
 (2) 
-Cip sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf a 
-hanya dapat dilakukan pengujian teknis.
-
-
-<!-- Halaman 8 -->
-
-- 8 - 
- 
-(3) 
-Pengujian 
-komponen 
-terhadap 
-Perangkat 
-Keras 
-sebagaimana dimaksud pada ayat (1) dilakukan oleh 
-lembaga pemerintah nonkementerian yang membidangi 
-industri. 
-(4) 
-Pengujian teknis terhadap Perangkat Keras sebagaimana 
-dimaksud pada ayat (1) dilakukan oleh Dirjen bersama 
-pimpinan lembaga pemerintah nonkementerian yang 
-membidangi pengkajian dan penerapan teknologi serta 
-membidangi keamanan siber dan sandi negara.  
-(5) 
+Pengujian teknis sebagaimana dimaksud pada ayat (1) 
+dilakukan 
+oleh 
 Dirjen 
 bersama 
 pimpinan 
 lembaga 
-pemerintah 
-nonkementerian sebagaimana dimaksud pada ayat (4) 
-melakukan perjanjian kerja sama untuk melakukan 
-pengujian teknis terhadap Perangkat Keras. 
- 
-Pasal 4 
- 
+pemerintah nonkementerian yang membidangi: 
+a. riset dan inovasi khususnya terkait pengkajian dan 
+penerapan teknologi; dan 
+b. keamanan siber dan sandi negara, 
+sesuai dengan ketentuan peraturan perundang-undangan.
+
+### Pasal 3 ^pasal-3
+
+(1) 
+Untuk memastikan kesesuaian standar dan spesifikasi 
+terhadap Perangkat Keras sebagaimana dimaksud dalam
+
+### Pasal 4 ^pasal-4
+
 (1) 
 Pengujian komponen Perangkat Keras 
 sebagaimana 
 dimaksud dalam Pasal 3 ayat (3) dilakukan melalui 
 sertifikasi tingkat komponen dalam negeri sesuai dengan 
-ketentuan peraturan perundang-undangan.  
+ketentuan peraturan perundang-undangan. 
 (2) 
 Permohonan sertifikasi sebagaimana dimaksud pada ayat 
 (1) dilakukan dengan tahapan: 
@@ -492,7 +324,7 @@ c.
 Dirjen 
 menindaklanjuti 
 permohonan 
-sertifikasi  
+sertifikasi 
 sebagaimana dimaksud dalam huruf a atau huruf b 
 dengan membuat surat persetujuan pengajuan 
 sertifikasi Perangkat Keras disertai surat pengantar 
@@ -509,11 +341,6 @@ menyelenggarakan urusan pemerintahan di bidang
 perindustrian sebagai dasar dilakukannya sertifikasi 
 Perangkat Keras;
 
-
-<!-- Halaman 9 -->
-
-- 9 - 
- 
 e. 
 kementerian 
 yang 
@@ -522,17 +349,17 @@ urusan
 pemerintahan di bidang perindustrian menerbitkan 
 sertifikat tingkat komponen dalam negeri; 
 f. 
-sertifikat sebagaimana dimaksud dalam huruf e  
+sertifikat sebagaimana dimaksud dalam huruf e 
 disampaikan kepada Dirjen; dan 
 g. 
 Dirjen melaporkan sertifikat sebagaimana dimaksud 
 dalam huruf f kepada Menteri. 
 (3) 
 Proses pengajuan sertifikasi sebagaimana dimaksud pada 
-ayat (2) tidak dipungut biaya. 
- 
-Pasal 5 
- 
+ayat (2) tidak dipungut biaya.
+
+### Pasal 5 ^pasal-5
+
 (1) 
 Pengujian komponen 
 Perangkat Keras 
@@ -540,179 +367,70 @@ sebagaimana
 dimaksud dalam Pasal 4 ayat (1) dengan memenuhi tingkat 
 komponen dalam negeri paling sedikit 15% (lima belas 
 persen) sesuai dengan ketentuan peraturan perundang-
-undangan.  
+undangan. 
 (2) 
 Dalam hal tingkat komponen dalam negeri belum 
 mencapai 15% (lima belas persen) sebagaimana dimaksud 
 pada ayat (1), diberi waktu memenuhi pencapaian tingkat 
-komponen dalam negeri paling lambat 31 Desember 2023. 
- 
-Pasal 6 
- 
+komponen dalam negeri paling lambat 31 Desember 2023.
+
+### Pasal 6 ^pasal-6
+
 (1) 
 Untuk memastikan kesesuaian standar dan spesifikasi 
-terhadap Perangkat Lunak sebagaimana dimaksud dalam 
-Pasal 2 ayat (3) yang terdapat di dalam cip dilakukan 
-pengujian teknis. 
-(2) 
-Pengujian teknis sebagaimana dimaksud pada ayat (1) 
-dilakukan 
-oleh 
-Dirjen 
-bersama 
-pimpinan 
-lembaga 
-pemerintah nonkementerian yang membidangi: 
-a. riset dan inovasi khususnya terkait pengkajian dan 
-penerapan teknologi; dan 
-b. keamanan siber dan sandi negara,  
-sesuai dengan ketentuan peraturan perundang-undangan.
+terhadap Perangkat Lunak sebagaimana dimaksud dalam
 
+### Pasal 7 ^pasal-7
 
-<!-- Halaman 10 -->
-
-- 10 - 
- 
-Pasal 7 
- 
-(1) 
-Pengujian teknis Perangkat Keras sebagaimana dimaksud 
-dalam Pasal 3 ayat (1) dan Perangkat Lunak sebagaimana 
-dimaksud dalam Pasal 6 ayat (1) dilakukan dengan cara: 
-a. Produsen 
-atau 
-Distributor 
-mengajukan 
-surat 
-permohonan pengujian teknis Perangkat Keras kepada 
-Dirjen; 
-b. Dalam 
-hal 
-Produsen 
-tidak 
-mengajukan 
-surat 
-permohonan pengujian teknis Perangkat Keras kepada 
-Dirjen 
-sebagaimana 
-dimaksud 
-dalam 
-huruf 
-a, 
-Distributor mengajukan permohonan pengujian teknis 
-Perangkat Keras kepada Dirjen; 
-c. Dirjen 
-menugaskan 
-direktorat 
-yang 
-menangani 
-pemanfaatan cip serta Perangkat Keras perekaman dan 
-pencetakan 
-KTP-el 
-untuk 
-melakukan 
-verifikasi 
-keabsahan sebagai Produsen dan Distributor; 
-d. hasil verifikasi berupa penolakan atau persetujuan dari 
-Dirjen; 
-e. dalam hal verifikasi ditolak, Dirjen memberikan surat 
-disertai alasan penolakan; 
-f. 
-dalam 
-hal 
-hasil 
-verifikasi 
-disetujui, 
-Dirjen 
-menyampaikan surat kepada lembaga pemerintah 
-nonkementerian yang membidangi pengkajian dan 
-penerapan teknologi serta membidangi keamanan siber 
-dan sandi negara untuk melakukan pengujian; 
-g. surat dari Dirjen sebagaimana dimaksud dalam huruf 
-f sebagai dasar dilakukan pengujian oleh lembaga 
-pengujian teknis; 
-h. lembaga 
-pengujian 
-teknis 
-menerbitkan 
-surat 
-keterangan hasil pengujian terhadap Perangkat Keras 
-yang telah sesuai dengan spesifikasi;  
-i. 
-Perangkat Keras yang telah sesuai dengan spesifikasi 
-akan diuji fungsionalnya dengan Perangkat Lunak; 
-j. 
-Hasil pengujian fungsional Perangkat Keras dalam 
-huruf i disampaikan kepada Menteri melalui Dirjen 
-k. Dirjen melaporkan hasil pengujian kepada Menteri.
-
-
-<!-- Halaman 11 -->
-
-- 11 - 
- 
-(2) 
-Proses 
-pengajuan 
-pengujian 
-teknis 
-sebagaimana 
-dimaksud pada ayat (1) tidak dipungut biaya. 
- 
-Pasal 8 
- 
-(1) 
-Sertifikat tingkat komponen dalam negeri sebagaimana 
-dimaksud dalam Pasal 4 ayat (2) huruf e dan surat 
-keterangan hasil pengujian sebagaimana dimaksud dalam 
-Pasal 7 ayat (1) huruf h, selanjutnya dilakukan 
 inventarisasi oleh Dirjen. 
 (2) 
 Inventarisasi sebagaimana dimaksud pada ayat (1) 
 digunakan sebagai dokumen untuk mengetahui informasi 
 atau data dari Produsen atau Distributor yang telah 
 mendapatkan sertifikat dan surat keterangan hasil 
-pengujian sebagaimana dimaksud pada ayat (1). 
- 
-Pasal 9 
- 
+pengujian sebagaimana dimaksud pada ayat (1).
+
+### Pasal 8 ^pasal-8
+
+(1) 
+Sertifikat tingkat komponen dalam negeri sebagaimana 
+dimaksud dalam Pasal 4 ayat (2) huruf e dan surat 
+keterangan hasil pengujian sebagaimana dimaksud dalam
+
+### Pasal 9 ^pasal-9
+
 Ketentuan mengenai uraian standar dan spesifikasi Perangkat 
 Keras dan Perangkat Lunak tercantum dalam Lampiran yang 
 merupakan bagian yang tidak terpisahkan dari Peraturan 
 Menteri ini. 
  
 Bagian Kedua 
-Blangko KTP-el 
- 
-Pasal 10 
- 
-(1)  Pemuatan data dan/atau aplikasi tambahan sebagaimana 
+Blangko KTP-el
+
+### Pasal 10 ^pasal-10
+
+(1) Pemuatan data dan/atau aplikasi tambahan sebagaimana 
 dimaksud dalam Pasal 2 ayat (4), digunakan terhadap 
 selain data kependudukan yang menunjang fungsi 
 multiguna Perangkat Keras dan Perangkat Lunak melalui 
 penginputan data. 
-(2)  Penginputan data sebagaimana dimaksud pada ayat (1) 
+(2) Penginputan data sebagaimana dimaksud pada ayat (1) 
 dilakukan oleh: 
 a. Disdukcapil Kabupaten/Kota; atau 
 b. pemanfaat cip KTP-el. 
-(3)  Pemanfaat cip KTP-el sebagaimana dimaksud pada ayat (2) 
+(3) Pemanfaat cip KTP-el sebagaimana dimaksud pada ayat (2) 
 huruf b yaitu Pengguna yang sudah melakukan perjanjian 
 kerja sama.
 
+### Pasal 11 ^pasal-11
 
-<!-- Halaman 12 -->
-
-- 12 - 
- 
-Pasal 11 
- 
-(1)  Pemanfaat cip KTP-el dalam menggunakan pemuatan data 
+(1) Pemanfaat cip KTP-el dalam menggunakan pemuatan data 
 dan/atau aplikasi tambahan dilakukan melalui: 
 a. perjanjian kerja sama yang telah ada sebelumnya 
 dengan cara adendum yang memuat substansi 
 pemanfaatan cip KTP-el; atau 
-b. perjanjian kerja sama baru.  
-(2)  Pemuatan 
+b. perjanjian kerja sama baru. 
+(2) Pemuatan 
 data 
 dan/atau 
 aplikasi 
@@ -734,37 +452,32 @@ pemanfaatan data dengan menambahkan substansi
 pemanfaatan cip KTP-el atau membuat perjanjian kerja 
 sama baru; dan 
 d. dalam hal ditolak, Dirjen memberikan surat disertai 
-dengan alasan penolakan. 
- 
-Pasal 12 
- 
+dengan alasan penolakan.
+
+### Pasal 12 ^pasal-12
+
 Ketentuan mengenai uraian Blangko KTP-el tercantum dalam 
 Lampiran yang merupakan bagian yang tidak terpisahkan dari 
 Peraturan Menteri ini. 
  
-BAB III  
-PENYELENGGARAAN IDENTITAS KEPENDUDUKAN DIGITAL 
- 
-Pasal 13 
- 
-(1) 
-KTP-el berbentuk fisik dan/atau digital. 
+BAB III 
+PENYELENGGARAAN IDENTITAS KEPENDUDUKAN DIGITAL
+
+### Pasal 13 ^pasal-13
+
+terdapat 
+dokumen 
+kependudukan lainnya dan data balikan dari Pengguna 
+yang dimuat dalam Identitas Kependudukan Digital. 
 (2) 
-KTP-el berbentuk digital sebagaimana dimaksud pada ayat 
-(1) dimuat dalam Identitas Kependudukan Digital yang 
-merepresentasikan Penduduk dalam aplikasi digital yang 
-melekat pada seseorang yang terdaftar sebagai Penduduk
+Dokumen kependudukan lainnya sebagaimana dimaksud 
+pada ayat (1) yaitu biodata Penduduk, kartu keluarga, 
+surat keterangan Kependudukan, dan akta pencatatan 
+sipil sesuai dengan ketentuan peraturan perundang-
+undangan.
 
+### Pasal 14 ^pasal-14
 
-<!-- Halaman 13 -->
-
-- 13 - 
- 
-dan memastikan identitas tersebut merupakan orang yang 
-bersangkutan. 
- 
-Pasal 14 
- 
 Identitas Kependudukan Digital bertujuan untuk: 
 a. mengikuti penerapan teknologi informasi dan komunikasi 
 mengenai digitalisasi kependudukan; 
@@ -782,15 +495,15 @@ sistem
 autentikasi 
 guna 
 mencegah 
-pemalsuan dan kebocoran data 
- 
-Pasal 15 
- 
+pemalsuan dan kebocoran data
+
+### Pasal 15 ^pasal-15
+
 (1) 
 Identitas Kependudukan Digital berfungsi untuk: 
 a. pembuktian identitas; 
 b. autentikasi identitas; dan 
-c. otorisasi identitas.  
+c. otorisasi identitas. 
 (2) 
 Pembuktian identitas sebagaimana dimaksud pada ayat 
 (1) huruf a dilakukan melalui verifikasi data identitas 
@@ -814,10 +527,10 @@ terhadap
 data 
 Identitas 
 Kependudukan Digital untuk dapat diakses oleh Pengguna 
-data.  
- 
-Pasal 16 
- 
+data.
+
+### Pasal 16 ^pasal-16
+
 (1) 
 Penyelenggaraan 
 Identitas 
@@ -825,25 +538,20 @@ Kependudukan
 Digital 
 dilakukan oleh Menteri.
 
-
-<!-- Halaman 14 -->
-
-- 14 - 
- 
 (2) 
 Penyelenggaraan 
 Identitas 
 Kependudukan 
 Digital 
-sebagaimana dimaksud pada ayat (1)  terintegrasi dengan 
-SIAK terpusat.  
+sebagaimana dimaksud pada ayat (1) terintegrasi dengan 
+SIAK terpusat. 
 (3) 
 Penyelenggaraan 
 Identitas 
 Kependudukan 
 Digital 
 sebagaimana dimaksud pada ayat (2) diterbitkan oleh 
-Ditjen melalui pelayanan secara daring.  
+Ditjen melalui pelayanan secara daring. 
 (4) 
 Dalam 
 hal 
@@ -853,50 +561,33 @@ daring
 sebagaimana 
 dimaksud pada ayat (3) tidak dapat dilakukan, pelayanan 
 dilakukan secara luring dengan metode autentikasi dan 
-otorisasi yang disepakati oleh Pengguna dengan Ditjen. 
- 
-Pasal 17 
- 
+otorisasi yang disepakati oleh Pengguna dengan Ditjen.
+
+### Pasal 17 ^pasal-17
+
 (1) 
 Selain KTP-el yang berbentuk digital 
 sebagaimana 
 dimaksud 
-dalam 
-Pasal 
-13, 
-terdapat 
-dokumen 
-kependudukan lainnya dan data balikan dari Pengguna 
-yang dimuat dalam Identitas Kependudukan Digital. 
-(2) 
-Dokumen kependudukan lainnya sebagaimana dimaksud 
-pada ayat (1) yaitu biodata Penduduk, kartu keluarga, 
-surat keterangan Kependudukan, dan akta pencatatan 
-sipil sesuai dengan ketentuan peraturan perundang-
-undangan. 
- 
-Pasal 18 
- 
-(1)  Setiap Penduduk yang telah memiliki KTP-el fisik dapat 
+dalam
+
+### Pasal 18 ^pasal-18
+
+(1) Setiap Penduduk yang telah memiliki KTP-el fisik dapat 
 memiliki Identitas Kependudukan Digital. 
-(2)  Identitas Kependudukan Digital sebagaimana dimaksud 
+(2) Identitas Kependudukan Digital sebagaimana dimaksud 
 dalam Pasal 13 ayat (2) diperoleh Penduduk dengan 
 memenuhi persyaratan: 
 a. memiliki gawai pintar; dan 
 b. telah memiliki KTP-el fisik atau belum pernah memiliki 
-KTP-el fisik tetapi sudah melakukan perekaman.  
-(3)  Pelaksanaan Identitas Kependudukan Digital dilakukan 
+KTP-el fisik tetapi sudah melakukan perekaman. 
+(3) Pelaksanaan Identitas Kependudukan Digital dilakukan 
 terhadap Penduduk sebagaimana dimaksud pada ayat (1) 
 secara bertahap dengan mempertimbangkan penerapan 
 SIAK terpusat di kabupaten/kota.
 
+### Pasal 19 ^pasal-19
 
-<!-- Halaman 15 -->
-
-- 15 - 
- 
-Pasal 19 
- 
 Penyelenggaraan penerbitan Identitas Kependudukan Digital 
 dilakukan dengan cara: 
 a. Penduduk yang telah melakukan perekaman KTP-el dan 
@@ -909,7 +600,7 @@ Kependudukan Digital melalui gawai pintar;
 b. Penduduk melakukan registrasi pada laman aplikasi 
 Identitas Kependudukan Digital dengan: 
 1) mengisi NIK, alamat surat elektronik, nomor telepon 
-gawai pintar; dan  
+gawai pintar; dan 
 2) melakukan swafoto bergerak wajah atau menggunakan 
 biometrik 
 iris 
@@ -923,7 +614,7 @@ c. Nomor telepon gawai pintar sebagaimana dimaksud dalam
 huruf b angka 1 dapat diurus oleh kepala keluarga dalam 1 
 (satu) kartu keluarga; 
 d. Dirjen melakukan verifikasi dan validasi atas registrasi 
-Penduduk sebagaimana dimaksud dalam huruf b;  
+Penduduk sebagaimana dimaksud dalam huruf b; 
 e. verifikasi dan validasi sebagaimana dimaksud dalam huruf 
 d berupa persetujuan atau penolakan penerbitan Identitas 
 Kependudukan Digital; 
@@ -936,10 +627,10 @@ Penduduk melalui surat elektronik atau media lainnya; dan
 h. Dirjen mengaktifkan aplikasi Identitas Kependudukan 
 Digital pada gawai pintar Penduduk dan menerbitkan QR 
 Code yang dibaca menggunakan aplikasi pembaca/ 
-pemindai dari Kementerian. 
- 
-Pasal 20 
- 
+pemindai dari Kementerian.
+
+### Pasal 20 ^pasal-20
+
 (1) 
 Dalam 
 hal 
@@ -956,18 +647,13 @@ identification number sebagaimana dimaksud dalam Pasal
 19 huruf f, Penduduk mengoperasionalkan pada gawai 
 pintar dengan cara:
 
-
-<!-- Halaman 16 -->
-
-- 16 - 
- 
 a. login dengan menggunakan personal identification 
 number dan akan muncul beranda aplikasi Identitas 
 Kependudukan Digital; dan 
 b. Penduduk yang berhasil masuk beranda aplikasi 
 Identitas Kependudukan Digital melakukan pelayanan 
 Administrasi Kependudukan dan menampilkan data 
-balikan dari Pengguna.  
+balikan dari Pengguna. 
 (2) 
 Data balikan dari Pengguna sebagaimana dimaksud pada 
 ayat (1) huruf b terintegrasi secara otomatis dalam 
@@ -986,10 +672,10 @@ ayat
 (3) 
 melakukan 
 konfigurasi dan penyesuaian aplikasi untuk dapat 
-memanfaatkan Identitas Kependudukan Digital. 
- 
-Pasal 21 
- 
+memanfaatkan Identitas Kependudukan Digital.
+
+### Pasal 21 ^pasal-21
+
 (1) 
 Keamanan Identitas Kependudukan Digital berpedoman 
 pada International Organization for Standardization/ 
@@ -1000,7 +686,7 @@ peraturan perundang-undangan.
 (2) 
 Keamanan Identitas Kependudukan Digital sebagaimana 
 dimaksud pada ayat (1) melalui: 
-a. pemberian personal identification number;  
+a. pemberian personal identification number; 
 b. pemberian menu lepas perangkat pada aplikasi 
 Identitas 
 Kependudukan 
@@ -1013,11 +699,6 @@ c. pemblokiran Identitas Kependudukan Digital jika
 gawai pintar dilaporkan hilang oleh Penduduk kepada 
 Menteri melalui Dirjen.
 
-
-<!-- Halaman 17 -->
-
-- 17 - 
- 
 (3) 
 Tata 
 cara 
@@ -1028,10 +709,10 @@ perangkat
 dan 
 pemblokiran sebagaimana dimaksud pada ayat (2) huruf b 
 dan huruf c, dilakukan sesuai dengan standar operasional 
-prosedur yang dikeluarkan oleh Dirjen. 
- 
-Pasal 22 
- 
+prosedur yang dikeluarkan oleh Dirjen.
+
+### Pasal 22 ^pasal-22
+
 Penerapan 
 keamanan 
 Identitas 
@@ -1058,25 +739,25 @@ sesuai
 dengan 
 ketentuan 
 peraturan 
-perundang-undangan. 
- 
-Pasal 23 
- 
+perundang-undangan.
+
+### Pasal 23 ^pasal-23
+
 Ketentuan mengenai standar protokol Identitas Kependudukan 
 Digital tercantum dalam Lampiran yang merupakan bagian 
 tidak terpisahkan dari Peraturan Menteri ini. 
  
 BAB IV 
  
-PEMBINAAN DAN PENGAWASAN 
- 
-Pasal 24 
- 
+PEMBINAAN DAN PENGAWASAN
+
+### Pasal 24 ^pasal-24
+
 (1) 
 Menteri melalui Dirjen melakukan pembinaan dan 
 pengawasan pelaksanaan Identitas Kependudukan Digital 
 pada Disdukcapil Provinsi, Disdukcapil Kabupaten/Kota, 
-Perwakilan Republik Indonesia, dan Pengguna.  
+Perwakilan Republik Indonesia, dan Pengguna. 
 (2) 
 Gubernur 
 melakukan 
@@ -1088,7 +769,7 @@ Identitas
 Kependudukan 
 Digital 
 pada 
-Disdukcapil Provinsi dan Disdukcapil Kabupaten/Kota.  
+Disdukcapil Provinsi dan Disdukcapil Kabupaten/Kota. 
 (3) 
 Bupati/wali kota melakukan pembinaan dan pengawasan 
 Identitas 
@@ -1098,17 +779,12 @@ pada
 Disdukcapil 
 Kabupaten/Kota dan UPT Disdukcapil Kabupaten/Kota.
 
-
-<!-- Halaman 18 -->
-
-- 18 - 
- 
 BAB V 
  
-PENDANAAN 
- 
-Pasal 25 
- 
+PENDANAAN
+
+### Pasal 25 ^pasal-25
+
 Pendanaan 
 penerbitan 
 Identitas 
@@ -1116,7 +792,7 @@ Kependudukan
 Digital 
 dibebankan pada: 
 a. anggaran pendapatan dan belanja negara; 
-b. anggaran pendapatan dan belanja daerah provinsi;  
+b. anggaran pendapatan dan belanja daerah provinsi; 
 c. anggaran pendapatan dan belanja daerah kabupaten/kota; 
 dan/atau 
 d. sumber pendapatan lain-lain yang sah dan tidak mengikat 
@@ -1124,10 +800,10 @@ sesuai dengan ketentuan peraturan perundang-undangan.
  
 BAB VI 
  
-KETENTUAN PENUTUP 
- 
-Pasal 26 
- 
+KETENTUAN PENUTUP
+
+### Pasal 26 ^pasal-26
+
 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan 
 Menteri Dalam Negeri Nomor 38 Tahun 2009 tentang Standar 
 dan Spesifikasi Perangkat Keras, Perangkat Lunak, dan 
@@ -1139,17 +815,12 @@ tentang Perubahan atas Peraturan Menteri Dalam Negeri Nomor
 Keras, Perangkat Lunak, dan Blangko Kartu Tanda Penduduk 
 Berbasis Nomor Induk Kependudukan Secara Nasional (Berita 
 Negara Republik Indonesia Tahun 2011 Nomor 55), dicabut dan 
-dinyatakan tidak berlaku. 
- 
-Pasal 27 
- 
+dinyatakan tidak berlaku.
+
+### Pasal 27 ^pasal-27
+
 Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
 
-
-<!-- Halaman 19 -->
-
-- 19 - 
- 
 Agar 
 setiap 
 orang 
@@ -1170,11 +841,11 @@ MUHAMMAD TITO KARNAVIAN
 Diundangkan di Jakarta 
 pada tanggal 13 April 2022 
  
-DIREKTUR JENDERAL  
+DIREKTUR JENDERAL 
 PERATURAN PERUNDANG-UNDANGAN 
 KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA 
 REPUBLIK INDONESIA, 
-           ttd 
+ ttd 
 BENNY RIYANTO 
  
  
@@ -1182,20 +853,15 @@ BERITA NEGARA REPUBLIK INDONESIA TAHUN 2022 NOMOR 397
 Salinan sesuai dengan aslinya 
 Kepala Biro Hukum, 
  
-            ttd 
+ ttd 
  
 R. Gani Muhamad, SH, MAP 
 Pembina Utama Muda (IV/c) 
 NIP. 19690818 199603 1001
 
-
-<!-- Halaman 20 -->
-
-- 20 - 
- 
 LAMPIRAN 
 PERATURAN MENTERI DALAM NEGERI 
-REPUBLIK INDONESIA  
+REPUBLIK INDONESIA 
 NOMOR 72 TAHUN 2022 
 TENTANG STANDAR DAN SPESIFIKASI 
 PERANGKAT 
@@ -1211,12 +877,12 @@ KEPENDUDUKAN DIGITAL
  
  
 URAIAN STANDAR DAN SPESIFIKASI PERANGKAT KERAS, PERANGKAT 
-LUNAK, DAN BLANGKO KARTU TANDA PENDUDUK ELEKTRONIK            
+LUNAK, DAN BLANGKO KARTU TANDA PENDUDUK ELEKTRONIK 
 SERTA PENYELENGGARAAN IDENTITAS KEPENDUDUKAN DIGITAL 
  
 I. STANDAR DAN SPESIFIKASI PERANGKAT KERAS DAN PERANGKAT LUNAK 
-A. Standar dan Spesifikasi Perangkat Keras  
-1. Cip  
+A. Standar dan Spesifikasi Perangkat Keras 
+1. Cip 
 a. Struktur data dalam cip mencakup data KTP-el serta data 
 dan/atau aplikasi multiguna meliputi: 
 1) Struktur data KTP-el 
@@ -1236,11 +902,6 @@ format INCITS 378 MIN:A atau SNI ISO/IEC 19794-
 INCITS atau proprietary yang sudah diuji dalam hal 
 interoperabilitas oleh NIST; dan
 
-
-<!-- Halaman 21 -->
-
-- 21 - 
- 
 (3) Tanda 
 tangan 
 elektronik 
@@ -1292,11 +953,6 @@ reader/writer dan cip;
 4) Algoritma enskripsi bersifat simetris (symmetric) berdasarkan 
 algoritma: minimum 3DES dengan panjang kunci 168 bit,
 
-
-<!-- Halaman 22 -->
-
-- 22 - 
- 
 advanced encryption standard (AES) atau lebih tinggi 
 dan/atau algoritma lainnya sesuai kebutuhan; 
 5) Memenuhi syarat ketunggalan transaksi (anti tear), supported 
@@ -1327,33 +983,28 @@ e. Lain-lain meliputi hal sebagai berikut:
 4) Memerlukan pasokan daya (voltage) dari 2,7 volt sampai 
 dengan 3,6 volt. 
 2. Perangkat pembaca dan penulis (card encoder) KTP-el pada blangko 
-kartu terdiri dari beberapa hal sebagai berikut:  
-a. Smart card encoder  
+kartu terdiri dari beberapa hal sebagai berikut: 
+a. Smart card encoder 
 1) Standar: SNI ISO/IEC 14443-1:2013, SNI ISO/IEC 14443-
 2:2013, SNI ISO/IEC 14443-3:2015, SNI ISO/IEC 14443-
 4:2015, SNI ISO/IEC 14443-1:2018, SNI ISO/IEC 14443-
-4:2018, SNI ISO/IEC 14443-3:2018.  
-2) Frekuensi: 13,56 MHz ± 7 KHz.  
-3) Baudrate [kbit/s]: 106, 212, 424, 848 kbps.  
+4:2018, SNI ISO/IEC 14443-3:2018. 
+2) Frekuensi: 13,56 MHz ± 7 KHz. 
+3) Baudrate [kbit/s]: 106, 212, 424, 848 kbps. 
 4) Kuat medan operasi: dari 1,5 A/m (rms) sampai dengan 7,5 
-A/m (rms).  
-5) Jarak transaksi: maksimum 10 cm.  
+A/m (rms). 
+5) Jarak transaksi: maksimum 10 cm. 
 6) Slot Secure Access Module (SAM): mendukung paling sedikit 1 
-slot SAM (SAM ditanam di dalam smart card encoder).  
+slot SAM (SAM ditanam di dalam smart card encoder). 
 7) Keamanan: Memiliki mekanisme perlindungan keamanan 
-terhadap SAM.  
+terhadap SAM. 
 8) Interface: USB
 
-
-<!-- Halaman 23 -->
-
-- 23 - 
- 
 9) Autentikasi: mendukung autentikasi dua arah antara smart 
-card encoder dan cip  
-10) Protokol: T=0, T=1, dan T=CL.  
+card encoder dan cip 
+10) Protokol: T=0, T=1, dan T=CL. 
 11) Komunikasi dengan Komputer (Host Protocol): personal 
-computer/smart card (PC/SC) pada windows atau linux.  
+computer/smart card (PC/SC) pada windows atau linux. 
 12) Fitur/Fungsi: 
 a) menuliskan data ke dalam cip KTP-el. 
 b) melakukan verifikasi keabsahan cip KTP-el. 
@@ -1367,7 +1018,7 @@ melakukan aktivasi cip KTP-el.
 g) menyimpan riwayat transaksi. 
 h) mampu mengirimkan hasil pembacaan data KTP-el 
 (rekaman biodata, pas photo, tanda tangan) ke perangkat 
-komputasi eksternal.  
+komputasi eksternal. 
 i) 
 indikator berhasil atau tidaknya sebuah transaksi (visual 
 berupa layar LCD atau setara, atau audio berupa buzzer 
@@ -1376,23 +1027,18 @@ atau setara).
 terhadap data dan/atau aplikasi tambahan untuk kebutuhan 
 multiguna disesuaikan dengan kebutuhan pemanfaatan dan 
 persyaratan keamanan pengunaan data (baca dan tulis). 
-14) Lain-lain : software development kit.  
-b. SAM pada smart card encoder  
+14) Lain-lain : software development kit. 
+b. SAM pada smart card encoder 
 1) Cip: smart card kontak (contact smart card) berbasis 
-microprocessor.  
+microprocessor. 
 2) Standar: SNI ISO/IEC 7816-1:2013, SNI ISO/IEC 7816-
 2:2013, SNI ISO/IEC 7816-3:2015, SNI ISO/IEC 7816-4:2015 
-(protokol T=1).  
+(protokol T=1). 
 3) Instruction Set: SNI ISO/IEC 7816-1:2013, SNI ISO/IEC 7816-
-2:2013, SNI ISO/IEC 7816-3:2015, SNI ISO/IEC 7816-4:2015.  
-4) Kapasitas EEPROM: minimal 32 KB.  
+2:2013, SNI ISO/IEC 7816-3:2015, SNI ISO/IEC 7816-4:2015. 
+4) Kapasitas EEPROM: minimal 32 KB. 
 5) Daya tahan penyimpanan data: paling singkat 10 tahun.
 
-
-<!-- Halaman 24 -->
-
-- 24 - 
- 
 6) Crypto co-processor: memiliki 
 crypto co-processor 
 yang 
@@ -1400,16 +1046,16 @@ mendukung algoritma penyandian minimal pada 3-Key Triple-
 DES (3KTDEA) dengan panjang kunci paling rendah 168-bit, 
 algoritma hash SHA256 serta mendukung digital signature 
 dengan menggunakan ECDSA 256-bit dengan point curve 
-secp256r1 dan/atau algoritma lainnya sesuai kebutuhan.  
+secp256r1 dan/atau algoritma lainnya sesuai kebutuhan. 
 7) Pembangkit bilangan acak: standar FIPS 140-2 atau AIS-31 
-(P2).  
+(P2). 
 8) Sertifikasi keamanan: memiliki sertifikasi keamanan dengan 
 tingkat jaminan keamanan paling rendah common criteria 
 EAL5+ atau FIPS 140-2 (atau standar FIPS yang lebih terbaru) 
-paling rendah tingkat 4.  
+paling rendah tingkat 4. 
 9) Mutual authentication : mendukung proses autentikasi dua 
 arah antara smart card dan encoder dengan mekanisme 
-umpan-balik (mutual authentication).   
+umpan-balik (mutual authentication). 
 10) Anti cloning : memiliki proteksi terhadap penggandaan secara 
 ilegal. 
 11) Mode: dengan fungsi baca tulis. 
@@ -1418,7 +1064,7 @@ kode kunci. Kode kunci adalah metode yang digunakan selain
 menggunakan kartu SAM secara fisik. Penggunaan kode kunci 
 setelah dilakukan Proof of Concept (PoC) dan memenuhi 
 standar keamanan informasi. 
-3. Perangkat server yang meliputi:  
+3. Perangkat server yang meliputi: 
 a. Platform perangkat server berbentuk rak mounted atau blade; 
 b. Kinerja (performance) perangkat server bersifat upgradeable dan 
 scalable; 
@@ -1434,11 +1080,6 @@ menyesuaikan dengan perkembangan teknologi perangkat; dan
 g. Sistem ABIS dapat mengolah gambar (image) sidik jari, iris, pas 
 foto dalam bentuk minutiae.
 
-
-<!-- Halaman 25 -->
-
-- 25 - 
- 
 4. Perangkat klien yang meliputi: 
 a. Platform perangkat keras berbasis PC dan berbasis laptop untuk 
 pelayanan mobile; 
@@ -1456,25 +1097,25 @@ dilengkapi dengan perangkat smart card encoder beserta SAM
 atau kode kunci, perangkat pemindai sidik jari, perangkat 
 pemindai iris, perangkat pemindai tanda tangan, perangkat 
 kamera dan perangkat pencetak KTP-el. 
-5. Pemindai sidik jari (fingerprint scanner) yang meliputi:  
+5. Pemindai sidik jari (fingerprint scanner) yang meliputi: 
 a. Pemindai hidup (live scanner) berbasis optik, pemindai sepuluh 
-jari (ten finger scanner);  
+jari (ten finger scanner); 
 b. Pemindai dengan kemampuan resolusi (scanner resolution) paling 
 rendah 356 x 292 pixels 500 dpi; 
 c. Driver berbasis linux/windows atau yang setara; 
 d. Ukuran pelat minimal 3,2 inch x 3,0 inch; 
-e. Area pelat aktif minimal 3,2 inch x 3,0 inch;  
+e. Area pelat aktif minimal 3,2 inch x 3,0 inch; 
 f. 
 Format pengambilan single rolled/flat finger, four finger slaps, two 
 thumbs; 
 g. Kecepatan tangkap empat jari dan dua ibu jari minimal 3 frames 
-per second;  
+per second; 
 h. Gambar pixel empat jari kanan dan kiri serta dua ibu jari minimal 
 1600 x 1500 Pixels; 
 i. 
 Distortion ± 1%; 
 j. 
-Tingkat abu-abu minimal 256;  
+Tingkat abu-abu minimal 256; 
 k. Antarmuka (interface) USB minimal 2.0; 
 l. 
 Sertifikasi FBI Appendix F, CE, FCC, KCC, BIS, RoHS, IP54, SNI IEC 
@@ -1482,12 +1123,7 @@ Sertifikasi FBI Appendix F, CE, FCC, KCC, BIS, RoHS, IP54, SNI IEC
 6. Pemindai iris (iris scanner) yang meliputi: 
 a. Dapat digenggam atau dipegang (hand-held)/diletakkan;
 
-
-<!-- Halaman 26 -->
-
-- 26 - 
- 
-b. Resolusi spatial minimal  60% @4.0 Lp/mm; 
+b. Resolusi spatial minimal 60% @4.0 Lp/mm; 
 c. Resolusi pixel minimal 16 pixel/mm; 
 d. Kedalaman pixel minimal 8 bits/pixel; 
 e. Jarak pengambilan minimal 20 mm; 
@@ -1510,7 +1146,7 @@ e. Data conversion rate minimal 300 points per second;
 f. 
 Antarmuka (interface)USB minimal 2.0; dan 
 g. Supported OS windows/linux. 
-8. Perangkat kamera yang meliputi:  
+8. Perangkat kamera yang meliputi: 
 a. Model type APS-C digital SLR; 
 b. Sensor high quality CCD or CMOS; 
 c. Image resolution minimal 12 Mega Pixel; 
@@ -1524,19 +1160,14 @@ i.
 PC Connectivity minimal USB 2.0; 
 j. 
 Lensa minimal 18 mm; 
-k. Tinggi tripod minimal  48 cm; dan 
+k. Tinggi tripod minimal 48 cm; dan 
 l. 
-Tripod bahan metal, aluminium, atau sejenisnya.  
+Tripod bahan metal, aluminium, atau sejenisnya. 
 9. Perangkat perekaman dapat dimungkinkan untuk diintegrasikan 
 menjadi satu alat dengan mengikuti minimal spesifikasi yang sudah 
 ditentukan di atas (misal: iris scanner dan kamera menjadi satu alat, 
 signature pad dan finger print menjadi satu alat, dan lainnya).
 
-
-<!-- Halaman 27 -->
-
-- 27 - 
- 
 10. Perangkat alat cetak KTP-el meliputi: 
 a. Metode pencetakan menggunakan High Definition Printing (HDP), 
 thermal transfer (re-transfer printing); 
@@ -1567,8 +1198,8 @@ linux; dan
 f) 
 Tegangan listrik: 100-240 VAC 
  
-B. Standar dan spesifikasi Perangkat Lunak  
-1. Automated Biometric Identification System (ABIS), terdiri atas:  
+B. Standar dan spesifikasi Perangkat Lunak 
+1. Automated Biometric Identification System (ABIS), terdiri atas: 
 a. Sidik jari tak tergantung putaran (rotation independent) dan dapat 
 diputar hingga 360 derajat; 
 b. Pemadanan (matching) mendukung 1:N pemadanan (matching) 
@@ -1579,14 +1210,9 @@ c. Jenis pencarian (type of searches) meliputi sepuluh sidik jari
 dan tambahan fungsi pencarian berdasarkan empat empat dua 
 sidik jari atau satu sidik jari dan mata serta foto;
 
-
-<!-- Halaman 28 -->
-
-- 28 - 
- 
 d. Hasil pemadanan (matching results) ditampilkan dalam bentuk 
 daftar ketukan (hit list) dengan layar terbelah (split screen) dan 
-ambang batas yang dapat disesuaikan (adjustable threshold);  
+ambang batas yang dapat disesuaikan (adjustable threshold); 
 e. Sistem 
 yang 
 dikembangkan 
@@ -1601,7 +1227,7 @@ Kapasitas penyimpanan (storage capacity) bersifat tak terbatas
 berskala (scalable performance); 
 2. Pasfoto terintegrasi secara penuh (fully integrated) atau mudah untuk 
 antarmuka (interface) dengan basis data yang sudah ada dan 
-memenuhi jpeg color image compression;  
+memenuhi jpeg color image compression; 
 3. Biodata terintegrasi secara penuh (fully integrated) atau mudah untuk 
 antarmuka (interface) dengan basis data yang sudah ada; 
 4. Hasil pemadanan sidik jari (matching results finger) pernah masuk 
@@ -1617,20 +1243,15 @@ processors), dan memiliki kemampuan pencarian data tak terbatas
 7. Aplikasi untuk perekaman KTP-el (B-Enroller) memiliki fungsi sebagai 
 berikut: 
 a. Citra sidik jari (fingerprint images) memiliki sifat: 
-1) Minimum 500 dpi, 256 gray level;  
+1) Minimum 500 dpi, 256 gray level; 
 2) ANSI/NIST compliant; dan 
-3) WSQ compression: 1:10 for ten prints, 1:15 for latent prints.  
+3) WSQ compression: 1:10 for ten prints, 1:15 for latent prints. 
 b. Image sidik jari (fingerprint image) mengikuti standar ANSI/NIST 
 ITL-1-2000 atau SNI ISO/IEC 19794-5:2011, SNI ISO/IEC 19794-
-5:2011, SNI ISO/IEC 19794-13:2018;  
+5:2011, SNI ISO/IEC 19794-13:2018; 
 c. Finger print scanner, iris scanner, signature pad, perangkat 
 kamera dapat saling terintegrasi di aplikasi perekaman;
 
-
-<!-- Halaman 29 -->
-
-- 29 - 
- 
 d. Terintegrasi dengan data kependudukan, tanda tangan, pas foto 
 dan minutiae sidik jari telunjuk kanan dan kiri sebagai primary 
 atau jari lainnya sebagai primary dalam hal exception; 
@@ -1644,7 +1265,7 @@ dilakukan perekaman sebagaimana biasanya;
 f. 
 Apabila kedua tangan Penduduk dan iris tidak bisa dilakukan 
 perekaman maka dilakukan pengecualian dan dilanjutkan 
-perekaman dan penunggalan dengan menggunakan wajah;  
+perekaman dan penunggalan dengan menggunakan wajah; 
 g. Data hasil perekaman biometrik Penduduk dapat dikirimkan ke 
 data center pusat dengan menggunakan web service agar dapat 
 dilakukan proses penunggalan. 
@@ -1662,19 +1283,14 @@ sidik jari secara live capture dan atau iris mata secara live capture
 dan atau pasfoto secara live capture; 
 d. Melakukan proses penggantian paspoto dan atau tanda tangan 
 perekaman sebelumnya dengan adanya proses verifikasi terlebih 
-dahulu.  
+dahulu. 
  
 II. STANDAR DAN SPESIFIKASI BLANGKO KARTU TANDA PENDUDUK 
-ELEKTRONIK  
+ELEKTRONIK 
 A. Material terbuat dari bahan PET/PETF/PETG/PC = PET (polyethylene 
 terephthalate), PETF (polyethylene terephthalate film), PETG (polyethylene 
 terephthalate glycol) atau PC (polycarbonate);
 
-
-<!-- Halaman 30 -->
-
-- 30 - 
- 
 B. Teknologi printing background blangko KTP-el menggunakan offset 
 printing; 
 C. Teknologi 
@@ -1725,11 +1341,6 @@ gambar peta kepulauan Indonesia di dalam bola dunia;
 b. Lapisan personalisasi yang terlaminasi atau terlapisi oleh overlay; 
 dan
 
-
-<!-- Halaman 31 -->
-
-- 31 - 
- 
 c. Teknologi ultraviolet invisible full colour spectrum design. 
 G. Desain blangko KTP-el untuk warga negara Indonesia: 
  
@@ -1748,7 +1359,7 @@ G. Desain blangko KTP-el untuk warga negara Indonesia:
  
  
  
-H. Desain blangko KTP-el untuk warga negara asing:  
+H. Desain blangko KTP-el untuk warga negara asing: 
  
  
  
@@ -1782,11 +1393,6 @@ H. Desain blangko KTP-el untuk warga negara asing:
 7 
 6
 
-
-<!-- Halaman 32 -->
-
-- 32 - 
- 
 Keterangan: 
 1. Tulisan Kartu Tanda Penduduk; 
 2. Lambang burung garuda pancasila; 
@@ -1797,7 +1403,7 @@ Keterangan:
 7. Fitur keamanan teknologi ultraviolet invisible full colour spectrum 
 design. 
  
-III. STANDAR PROTOKOL IDENTITAS KEPENDUDUKAN DIGITAL  
+III. STANDAR PROTOKOL IDENTITAS KEPENDUDUKAN DIGITAL 
 A. Standar protokol yang dipergunakan untuk membuat Identitas 
 Kependudukan Digital dan protokol komunikasi pertukaran data 
 Identitas Kependudukan Digital berdasarkan standar terbuka seperti 
@@ -1817,8 +1423,42 @@ Salinan sesuai dengan aslinya
 Kepala Biro Hukum, 
  
  
-             ttd 
+ ttd 
  
 R. Gani Muhamad, SH, MAP 
 Pembina Utama Muda (IV/c) 
 NIP. 19690818 199603 1001
+
+## Penjelasan
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-1|Pasal 1]] | [[#^penjelasan-pasal-1|Penjelasan]] | - |
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | - |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | - |
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | - |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-8|Pasal 8]] | [[#^penjelasan-pasal-8|Penjelasan]] | - |
+| [[#^pasal-9|Pasal 9]] | [[#^penjelasan-pasal-9|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | - |
+| [[#^pasal-12|Pasal 12]] | [[#^penjelasan-pasal-12|Penjelasan]] | - |
+| [[#^pasal-13|Pasal 13]] | [[#^penjelasan-pasal-13|Penjelasan]] | - |
+| [[#^pasal-14|Pasal 14]] | [[#^penjelasan-pasal-14|Penjelasan]] | - |
+| [[#^pasal-15|Pasal 15]] | [[#^penjelasan-pasal-15|Penjelasan]] | - |
+| [[#^pasal-16|Pasal 16]] | [[#^penjelasan-pasal-16|Penjelasan]] | - |
+| [[#^pasal-17|Pasal 17]] | [[#^penjelasan-pasal-17|Penjelasan]] | - |
+| [[#^pasal-18|Pasal 18]] | [[#^penjelasan-pasal-18|Penjelasan]] | - |
+| [[#^pasal-19|Pasal 19]] | [[#^penjelasan-pasal-19|Penjelasan]] | - |
+| [[#^pasal-20|Pasal 20]] | [[#^penjelasan-pasal-20|Penjelasan]] | - |
+| [[#^pasal-21|Pasal 21]] | [[#^penjelasan-pasal-21|Penjelasan]] | - |
+| [[#^pasal-22|Pasal 22]] | [[#^penjelasan-pasal-22|Penjelasan]] | - |
+| [[#^pasal-23|Pasal 23]] | [[#^penjelasan-pasal-23|Penjelasan]] | - |
+| [[#^pasal-24|Pasal 24]] | [[#^penjelasan-pasal-24|Penjelasan]] | - |
+| [[#^pasal-25|Pasal 25]] | [[#^penjelasan-pasal-25|Penjelasan]] | - |
+| [[#^pasal-26|Pasal 26]] | [[#^penjelasan-pasal-26|Penjelasan]] | - |
+| [[#^pasal-27|Pasal 27]] | [[#^penjelasan-pasal-27|Penjelasan]] | - |

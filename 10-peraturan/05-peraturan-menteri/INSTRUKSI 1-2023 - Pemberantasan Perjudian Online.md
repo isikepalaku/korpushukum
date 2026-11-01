@@ -1,25 +1,35 @@
 ---
-id: "INSTRUKSI 1/2023"
+id: INSTRUKSI 1/2023
 jenis: INSTRUKSI
-lembaga: "Instruksi Menteri"
+lembaga: Instruksi Menteri
 nomor: 1
 tahun: 2023
-judul: "Pemberantasan Perjudian Online"
-judul_singkat: "Pemberantasan Perjudian Online"
+judul: Pemberantasan Perjudian Online
+judul_singkat: Pemberantasan Perjudian Online
 status: perlu-verifikasi
-status_catatan: "Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. "
+status_catatan: 'Tidak terverifikasi via JDIH BPK: tidak ditemukan di sitemap BPK. '
 mencabut: []
 dicabut_oleh: []
 mengubah: []
 diubah_oleh: []
 terkait: []
-bidang: [siber]
-tags: [jenis/instruksi, bidang/siber, status/perlu-verifikasi]
-sumber: "Kementerian Komunikasi dan Informatika RI (Instruksi Menteri No. 1 Tahun 2023)"
+bidang:
+- siber
+tags:
+- jenis/instruksi
+- bidang/siber
+- status/perlu-verifikasi
+sumber: Kementerian Komunikasi dan Informatika RI (Instruksi Menteri No. 1 Tahun 2023)
 kelengkapan: lengkap
 verifikasi: tidak-tersedia
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Pemberantasan Perjudian Online

@@ -1,29 +1,40 @@
 ---
-id: "PERMENKOMINFO 10/2021"
+id: PERMENKOMINFO 10/2021
 jenis: PERMENKOMINFO
-lembaga: "Peraturan Menteri Komunikasi dan Informatika"
+lembaga: Peraturan Menteri Komunikasi dan Informatika
 nomor: 10
 tahun: 2021
-judul: "Perubahan atas Permenkominfo 5-2020 tentang PSE Lingkup Privat"
-judul_singkat: "Perubahan PSE Lingkup Privat"
+judul: Perubahan atas Permenkominfo 5-2020 tentang PSE Lingkup Privat
+judul_singkat: Perubahan PSE Lingkup Privat
 status: berlaku
-status_bpk: "Berlaku"
+status_bpk: Berlaku
 ditetapkan: 2021-05-21
 berlaku_mulai: 2021-05-21
 mencabut: []
 dicabut_oleh: []
-mengubah: ["PERMENKOMINFO 5/2020"]
+mengubah:
+- PERMENKOMINFO 5/2020
 diubah_oleh: []
 terkait: []
-bidang: [siber]
-tags: [jenis/permenkominfo, bidang/siber, status/berlaku]
-sumber: "https://peraturan.bpk.go.id/Details/203121/permenkominfo-no-10-tahun-2021"
+bidang:
+- siber
+tags:
+- jenis/permenkominfo
+- bidang/siber
+- status/berlaku
+sumber: https://peraturan.bpk.go.id/Details/203121/permenkominfo-no-10-tahun-2021
 kelengkapan: lengkap
 verifikasi: sudah
-verifikasi_sumber: "JDIH BPK"
+verifikasi_sumber: JDIH BPK
 verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+last_updated: '2026-11-01'
+struktur_teks: datar
+anchor_pasal: false
+penjelasan: tidak
+penjelasan_normatif: false
 ---
+
+
 
 
 # Perubahan atas Permenkominfo 5-2020 tentang PSE Lingkup Privat
