@@ -82,3 +82,4 @@ print(f"- UU tanpa MOC: {len(uu_missing)}")
 if uu_missing:
     for u in uu_missing:
         print(f"  - {u[0]}: {u[1]}")
+
