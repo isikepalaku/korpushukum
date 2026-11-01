@@ -10,8 +10,8 @@ tags:
 - uu/uu_23_1999
 status_berlaku: diubah
 diamandemen_oleh:
-- '[[02-pasal-atomik/UU_6_2009/Pasal_1|UU 6/2009 Pasal 1]]'
 - '[[02-pasal-atomik/UU_4_2023/Pasal_1|UU 4/2023 Pasal 1]]'
+- '[[02-pasal-atomik/UU_6_2009/Pasal_1|UU 6/2009 Pasal 1]]'
 mengamandemen: []
 ---
 

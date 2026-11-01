@@ -10,8 +10,8 @@ tags:
 - uu/uu_21_2008
 status_berlaku: diubah
 diamandemen_oleh:
-- '[[02-pasal-atomik/UU_6_2023/Pasal_65|UU 6/2023 Pasal 65]]'
 - '[[02-pasal-atomik/UU_4_2023/Pasal_65|UU 4/2023 Pasal 65]]'
+- '[[02-pasal-atomik/UU_6_2023/Pasal_65|UU 6/2023 Pasal 65]]'
 mengamandemen: []
 ---
 

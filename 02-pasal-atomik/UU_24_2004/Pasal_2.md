@@ -10,8 +10,8 @@ tags:
 - uu/uu_24_2004
 status_berlaku: diubah
 diamandemen_oleh:
-- '[[02-pasal-atomik/UU_7_2009/Pasal_2|UU 7/2009 Pasal 2]]'
 - '[[02-pasal-atomik/UU_4_2023/Pasal_2|UU 4/2023 Pasal 2]]'
+- '[[02-pasal-atomik/UU_7_2009/Pasal_2|UU 7/2009 Pasal 2]]'
 mengamandemen: []
 ---
 
