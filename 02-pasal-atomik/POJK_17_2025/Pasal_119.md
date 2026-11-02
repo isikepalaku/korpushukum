@@ -18,8 +18,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 Selain pembelian kembali saham sebagaimana dimaksud
-dalam Pasal 118, Penerbit dapat membeli kembali sahamnya
-untuk memenuhi ketentuan Pasal 62 Undang-Undang
+dalam
+
+Pasal 118, Penerbit dapat membeli kembali sahamnya
+untuk memenuhi ketentuan
+
+Pasal 62
+Undang-Undang
 mengenai perseroan terbatas.
 
 ## Penjelasan Resmi

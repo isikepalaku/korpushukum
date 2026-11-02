@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '133'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,4 +25,14 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Cukup jelas. Ayat(21
+Ketentuan ini hanya berlaku untuk Tindak Pidana yang diancam dengan pidana tambahan berupa perampasan Barang dan/ atau tagihan.
+
+**REPUEUI( INDONESIA**
+
+**Ayat (3)**
+
+Meskipun Tindak Pidana yang dilakukan terlebih dahulu sudah gugur hak penuntutannya berdasarkan
+
+Pasal 132
+ayat (1) huruf e dan huruf f narnun apabila terdakwa mengulangi perbuatannya, maka terhadap Tindak Pidana yang kedua dan selanjutnya tetap berlaku ketentuan pemberatan ancarnan pidana bagi pengulangan Tindak Pidana sesuai dengan ketentuan yang berlaku untuk itu.

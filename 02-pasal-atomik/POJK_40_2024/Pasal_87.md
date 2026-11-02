@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam, Pasal 80 dan/atau Pasal 84 ayat (4),
+dimaksud dalam,
+
+Pasal 80
+dan/atau Pasal 84 ayat (4),
 ayat (6) dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -63,7 +66,10 @@ dalam Sistem Elektronik Otoritas Jasa Keuangan.
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

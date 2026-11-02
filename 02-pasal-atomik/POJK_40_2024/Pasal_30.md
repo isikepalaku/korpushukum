@@ -20,9 +20,15 @@ mengamandemen: []
 (1) Penyelenggara berdasarkan Prinsip Syariah hasil
 Pemisahan dengan cara pendirian Penyelenggara
 berdasarkan Prinsip Syariah baru sebagaimana
-dimaksud dalam Pasal 29 ayat (1) huruf a dikecualikan
+dimaksud dalam
+
+Pasal 29
+ayat (1) huruf a dikecualikan
 dari ketentuan Modal Disetor minimum sebagaimana
-dimaksud dalam Pasal 7 ayat (1) pada saat pendirian.
+dimaksud dalam
+
+Pasal 7
+ayat (1) pada saat pendirian.
 (2) Modal Disetor Penyelenggara berdasarkan Prinsip
 Syariah hasil Pemisahan UUS dapat dipenuhi dalam
 bentuk:

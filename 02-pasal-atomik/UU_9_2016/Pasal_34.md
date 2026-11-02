@@ -18,9 +18,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-mengusulkan kepada Presiden untuk memutuskan
-perubahan besaran nilai simpanan nasabah penyimpan pada
-Bank yang dijamin oleh Lembaga Penjamin Simpanan.
+Dalam hal Presiden memutuskan Stabilitas Sistem Keuangan
+dalam kondisi Krisis Sistem Keuangan sebagaimana dimaksud
+dalam
+
+Pasal 32
+ayat (9), Presiden dapat menerima sebagian
+atau seluruh rekomendasi langkah penanganan yang
+disampaikan oleh Komite Stabilitas Sistem Keuangan
+sebagaimana dimaksud dalam Pasal 32 ayat (8).
+
+Pasal 35 . . .
+
+-----
+
+ - 24
 
 ## Penjelasan Resmi
 

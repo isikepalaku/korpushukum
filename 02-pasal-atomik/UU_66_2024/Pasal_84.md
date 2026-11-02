@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Untuk melaksanakan fungsi sebagaimana dimaksud dalam Pasal 83, penyelenggara pelabuhan pada Pelabuhan yang diusahakan secara komersial mempunyai wewenang:
+Untuk melaksanakan fungsi sebagaimana dimaksud dalam
+
+Pasal 83, penyelenggara pelabuhan pada Pelabuhan yang diusahakan secara komersial mempunyai wewenang:
 
 - a. mengatur dan mengawasi penggunaan lahan daratan dan perairan Pelabuhan;
 - b. mengawasi penggunaan Daerah Lingkungan Kerja (DLKr) dan Daerah Lingkungan Kepentingan (DLKp) Pelabuhan;

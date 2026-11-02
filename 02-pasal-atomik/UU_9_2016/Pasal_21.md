@@ -105,6 +105,12 @@ ayat (1) dan persiapan penanganan Bank Sistemik
 sebagaimana dimaksud pada ayat (2) diatur dalam
 Peraturan Otoritas Jasa Keuangan.
 
+Pasal 22 . . .
+
+-----
+
+ - 17
+
 ## Penjelasan Resmi
 
 Ayat (1)

@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) KPBLN yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 119, Pasal 120 ayat (1), ayat
+dimaksud dalam Pasal 119,
+
+Pasal 120
+ayat (1), ayat
 
 (3), Pasal 121, dan/atau Pasal 122 ayat (1) dikenai
 
@@ -31,7 +34,10 @@ penyampaian laporan, infomasi, atau dokumen
 
 -----
 
-sebagaimana dimaksud dalam Pasal 119 ayat (2),
+sebagaimana dimaksud dalam
+
+Pasal 119
+ayat (2),
 
 ## Penjelasan Resmi
 

@@ -22,7 +22,9 @@ Ketentuan mengenai persyaratan dan tata cara perizinan, penghentian,
 
  dan pembubaran Lembaga Kliring Berjangka sebagaimana dimaksud
 
- dalam Pasal 25 dan Pasal 29, diatur lebih lanjut dengan Peraturan
+ dalam Pasal 25 dan
+
+Pasal 29, diatur lebih lanjut dengan Peraturan
 
  Pemerintah.
 

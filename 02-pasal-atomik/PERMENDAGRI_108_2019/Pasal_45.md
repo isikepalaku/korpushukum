@@ -21,7 +21,10 @@ mengamandemen: []
 (1) 
 Pencatatan kelahiran Orang Asing di wilayah Negara 
 Kesatuan Republik Indonesia sebagaimana dimaksud 
-dalam Pasal 42 huruf c, dengan memenuhi persyaratan 
+dalam
+
+Pasal 42
+huruf c, dengan memenuhi persyaratan 
 sesuai dengan ketentuan Peraturan Presiden mengenai 
 persyaratan dan tata cara Pendaftaran Penduduk dan 
 Pencatatan Sipil. 

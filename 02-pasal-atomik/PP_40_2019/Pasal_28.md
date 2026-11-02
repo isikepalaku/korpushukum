@@ -4,7 +4,7 @@ uu_induk: Pelaksanaan UU Administrasi Kependudukan
 kode_uu: PP_40_2019
 pasal: '28'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/pp_40_2019
@@ -32,7 +32,10 @@ Menteri.
 (41 Menteri dalam pelaksanaan pembinaan aparatur
 penyelenggara urusan Administrasi Kependudukan
 bagi WNI di luar Negara Kesatuan Republik Indonesia
-sebagaimana dimaksud dalam Pasal 7 huruf a angka 2
+sebagaimana dimaksud dalam
+
+Pasal 7
+huruf a angka 2
 berkoordinasi dengan menteri yang menyelenggarakan
 urusan pemerintahan di bidang hubungan luar negeri.
 (5) Menteri yang menyelenggarakan urusan pemerintahan
@@ -44,3 +47,8 @@ Negara Kesatuan Republik Indonesia.
 ## Penjelasan Resmi
 
 Cukup jelas
+
+Pasal 29...
+
+PRES IDEN
+REPUBLIK INDONESIA

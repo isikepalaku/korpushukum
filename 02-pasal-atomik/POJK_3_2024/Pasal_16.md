@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Otoritas Jasa Keuangan dapat menentukan Peserta
-yang lulus sebagaimana dimaksud dalam Pasal 14 ayat
+yang lulus sebagaimana dimaksud dalam
+
+Pasal 14
+ayat
 (2) huruf a untuk melakukan pendaftaran sebelum
 mengajukan izin usaha berdasarkan pertimbangan
 yang dilakukan oleh Otoritas Jasa Keuangan.
@@ -43,7 +46,10 @@ ditetapkan oleh Otoritas Jasa Keuangan.
 
 Ayat (1)
 
-Lihat penjelasan Pasal 15 ayat (3).
+Lihat penjelasan
+
+Pasal 15
+ayat (3).
 Ayat (2)
 
 Cukup jelas.

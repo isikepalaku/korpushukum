@@ -18,15 +18,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(5), ayat (6), dan ayat (8), Pasal 55 ayat (2), Pasal
+(5), ayat (6), dan ayat (8), Pasal 55 ayat (2), Pasal 56 ayat (2) dan ayat (4), Pasal 57 ayat (2), Pasal 58 ayat (2), Pasal 59 ayat (2), Pasal 60 ayat (1),
 
-56 ayat (2) dan ayat (4), Pasal 57 ayat (2), Pasal
+ayat (6), dan ayat (7),
 
-58 ayat (2), Pasal 59 ayat (2), Pasal 60 ayat (1),
+Pasal 61, Pasal 63, Pasal 65
 
-ayat (6), dan ayat (7), Pasal 61, Pasal 63, Pasal 65
+ayat (2),
 
-ayat (2), Pasal 66 ayat (1), ayat (4), dan ayat (5),
+Pasal 66
+ayat (1), ayat (4), dan ayat (5),
 
 ## Penjelasan Resmi
 

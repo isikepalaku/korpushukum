@@ -20,9 +20,15 @@ mengamandemen: []
 
 (1) Dalam hal anggota Dewan Komisioner sebagaimana
 
-dimaksud dalam Pasal 10 ayat (4) huruf a sampai
+dimaksud dalam
+
+Pasal 10
+ayat (4) huruf a sampai
 dengan huruf g, diberhentikan karena alasan
-sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf a,
+sebagaimana dimaksud dalam
+
+Pasal 17
+ayat (1) huruf a,
 huruf b, huruf d, huruf e, huruf f, huruf g, huruf h,
 huruf i, dan/atau huruf j, dilaksanakan penggantian
 anggota Dewan Komisioner antarwaktu sesuai dengan

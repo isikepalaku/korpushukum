@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengawasan, pemantauan, dan evaluasi sebagaimana dimaksud dalam Pasal 119A sampai dengan Pasal 119H menggunakan Sistem Informasi Kementerian.
+Pengawasan, pemantauan, dan evaluasi sebagaimana dimaksud dalam
+
+Pasal 119A sampai dengan Pasal 119H menggunakan Sistem Informasi Kementerian.
 
 ## Penjelasan Resmi
 

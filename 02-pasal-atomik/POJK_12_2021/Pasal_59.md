@@ -19,9 +19,10 @@ mengamandemen: []
 
 (1) Rencana pembukaan kantor Bank BHI selain KP dan
 
-penyediaan TPE sebagaimana dimaksud dalam Pasal
+penyediaan TPE sebagaimana dimaksud dalam
 
-56 harus didasarkan atas analisis yang paling sedikit
+Pasal 56
+harus didasarkan atas analisis yang paling sedikit
 
 memuat:
 

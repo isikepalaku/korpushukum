@@ -27,6 +27,10 @@ Privatisasi dilaksanakan dengan cara:
 135. Di antara Pasal 78 dan Pasal 79 disisipkan 2 (dua) pasal, yakni Pasal 78A dan Pasal 78B sehingga berbunyi
 6. sebagai berikut:
 
+**Pasal 78A**
+
+Presiden dapat melakukan Privatisasi setelah alat kelengkapan DPR RI yang membidangi BUMN memberikan persetqiuan.
+
 ## Penjelasan Resmi
 
 Huruf a
@@ -41,4 +45,6 @@ Penawaran kepada investor dalam negeri dilakukan dengan memperhatikan nilai-nila
 
 Hurufc...
 
-**Angka 135**
+**Angka 135**Pasal 78A
+
+Cukup jelas.

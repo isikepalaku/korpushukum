@@ -18,44 +18,26 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-untuk mufakat.
+(1) Pengambilan keputusan Komite Stabilitas Sistem
+Keuangan dilakukan dalam rapat Komite Stabilitas Sistem
+Keuangan.
 
-(2) Dalam hal tidak tercapai mufakat, usulan keputusan yang
-
-diajukan oleh anggota Komite Stabilitas Sistem Keuangan
-dinyatakan ditolak dan pendapat akhir setiap anggota
-Komite Stabilitas Sistem Keuangan didokumentasikan.
-
-(3) Usulan keputusan yang dinyatakan ditolak sebagaimana
-
-dimaksud pada ayat (2) dapat diajukan kembali dalam
-rapat Komite Stabilitas Sistem Keuangan paling lambat
-1x24 (satu kali dua puluh empat) jam.
-
-(4) Dalam hal rapat Komite Stabilitas Sistem Keuangan
-
-sebagaimana dimaksud pada ayat (3) tidak mencapai
-mufakat, pengambilan keputusan dilakukan berdasarkan
-suara terbanyak.
-
-(5) Setiap keputusan rapat Komite Stabilitas Sistem Keuangan
-
-ditandatangani oleh seluruh anggota Komite Stabilitas
-Sistem Keuangan sebagaimana dimaksud dalam Pasal 4
-ayat (3).
-
-(6) Anggota Komite Stabilitas Sistem Keuangan yang tidak
-
-hadir dalam rapat, dianggap menyetujui keputusan rapat
-tanpa harus menandatangani keputusan rapat.
-
-Bagian . . .
+(2) Pengambilan . . .
 
 -----
 
- - 10
-Bagian Kelima
-Pertukaran Data dan Informasi
+ - 9
+(2) Pengambilan keputusan sebagaimana dimaksud pada ayat
+
+(1) dilakukan oleh Menteri Keuangan, Gubernur Bank
+Indonesia, dan Ketua Dewan Komisioner Otoritas Jasa
+Keuangan.
+
+(3) Ketua Dewan Komisioner Lembaga Penjamin Simpanan
+
+berhak menyampaikan pendapat dalam rapat Komite
+Stabilitas Sistem Keuangan, tetapi tidak berhak
+memberikan suara dalam pengambilan keputusan.
 
 ## Penjelasan Resmi
 

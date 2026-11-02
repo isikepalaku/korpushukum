@@ -22,8 +22,10 @@ dan memiliki kewajiban untuk membayar denda atas
 kewajiban penyampaian Laporan Berkala, tidak
 menyampaikan Laporan Berkala, atau kesalahan
 informasi atas Laporan Berkala tetap diwajibkan untuk
-membayar denda sebagaimana dimaksud dalam Pasal
-14 ayat (4) sampai dengan ayat (9).
+membayar denda sebagaimana dimaksud dalam
+
+Pasal 14
+ayat (4) sampai dengan ayat (9).
 (2) Tata cara penagihan sanksi denda administratif
 mengikuti Peraturan Otoritas Jasa Keuangan mengenai
 tata cara penagihan sanksi administratif berupa denda

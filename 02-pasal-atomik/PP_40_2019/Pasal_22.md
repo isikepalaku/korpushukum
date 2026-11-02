@@ -20,7 +20,9 @@ mengamandemen: []
 Bupati/wali kota melaksanakan kewenangan kegiatan
 pelayanan masyarakat di
 bidang Administrasi
-Kependudukan sebagaimana dimaksud dalam Pasal 18
+Kependudukan sebagaimana dimaksud dalam
+
+Pasal 18
 ayat (2) huruf e secara terus menerus, cepat, tepat, mudah,
 dan tidak memungut biaya dari Penduduk.
 

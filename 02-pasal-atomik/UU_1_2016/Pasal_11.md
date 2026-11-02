@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Lembaga Penjamin yang berbentuk badan hukum koperasi
-sebagaimana dimaksud dalam Pasal 7 huruf c yang
+sebagaimana dimaksud dalam
+
+Pasal 7
+huruf c yang
 melakukan kegiatan penjaminan tidak dapat bertindak
 sebagai Penerima Jaminan dan/atau Terjamin.
 

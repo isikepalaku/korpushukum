@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '248'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -27,5 +27,18 @@ mengamandemen: []
 Penawaran untuk Melakukan Tindak Pidana
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Ketentuan ini mengahrr mengenai penggerakan yang gagal. Menurut pasal ini, orang yang menggerakkan sudah dapat dipidana, walaupun orang yang digerakkan itu belum melakukan Tindak Pidana atau percobaan yang danat dipidana. Penggerakan ini harus menggunakan sarana yang ditentukan dalam
+
+Pasal 20
+huruf d. Penggerak tidak dapat dipidana apabila tidak jadinya orang yang digeraldran melakukan Tindak Pidana atau percobaan yang dapat dipidana itu karena suahr hal yang terletak pada kemauan penggerak sendiri, misalnya penggerak menarik kembali anjurannya, menghalang-halangi, dan lain{ain.
+
+Ayat(21
+
+Cukup jelas.
+
+Ayat (3)
 
 Cukup jelas.

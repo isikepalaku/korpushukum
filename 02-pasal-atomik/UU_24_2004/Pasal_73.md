@@ -28,7 +28,10 @@ Dalam hal anggota Dewan Komisioner mempunyai
 
  memberikan suara dalam pengambilan keputusan sebagaimana
 
- dimaksud dalam Pasal 72 ayat (1) dan ayat (2).
+ dimaksud dalam
+
+Pasal 72
+ayat (1) dan ayat (2).
 
 ## Penjelasan Resmi
 

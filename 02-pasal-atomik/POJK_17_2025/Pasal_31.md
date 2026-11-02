@@ -20,6 +20,13 @@ mengamandemen: []
 Penilaian kemampuan dan kepatutan dilakukan untuk
 menilai calon Pihak Utama sebagaimana dimaksud dalam
 
+Pasal 30
+harus memenuhi persyaratan:
+a. integritas dan kelayakan keuangan bagi calon PSP atau
+anggota pendiri bagi koperasi; dan
+b. integritas, reputasi keuangan, dan kompetensi bagi
+calon anggota Direksi dan anggota Dewan Komisaris.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -34,7 +34,10 @@ mengamandemen: []
  selama 3 (tiga) tahun.
 
  (2) Selambat-lambatnya 3 (tiga) minggu sejak Undang-undang ini
- berlaku, Presiden mengusulkan calon Deputi Gubernur Senior menurut ketentuan yang ditetapkan dalam Pasal 40 dan pasal 41 untuk masa jabatan pertama selama 5 (lima) tahun.
+ berlaku, Presiden mengusulkan calon Deputi Gubernur Senior menurut ketentuan yang ditetapkan dalam
+
+Pasal 40
+dan Pasal 41 untuk masa jabatan pertama selama 5 (lima) tahun.
 
  (3) Anggota Dewan gubernur sebagaimana dimaksud pada ayat (1)
  huruf b, huruf c, dan huruf d disetujui oleh Dewan Perwakilan Rakyat berdasarkan usul Gubernur.

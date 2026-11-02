@@ -19,11 +19,16 @@ mengamandemen: []
 
 (1) Bank BHI yang akan bertransformasi menjadi Bank
 
-Digital sebagaimana dimaksud dalam Pasal 25 huruf b
+Digital sebagaimana dimaksud dalam
+
+Pasal 25
+huruf b
 
 harus memenuhi persyaratan sebagaimana dimaksud
 
-dalam Pasal 24.
+dalam
+
+Pasal 24.
 
 (2) Upaya pemenuhan persyaratan sebagaimana
 

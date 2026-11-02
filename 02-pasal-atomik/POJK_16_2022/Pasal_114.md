@@ -23,7 +23,10 @@ mengamandemen: []
 ayat (1) memuat perincian kegiatan yang akan
 dilakukan KPBLN untuk 1 (satu) tahun ke depan
 dengan mengacu pada kegiatan KPBLN sebagaimana
-dimaksud dalam Pasal 113 ayat (1).
+dimaksud dalam
+
+Pasal 113
+ayat (1).
 (3) KPBLN wajib menyampaikan rencana kerja
 sebagaimana dimaksud pada ayat (1) yang
 ditandatangani oleh pemimpin KPBLN kepada OJK

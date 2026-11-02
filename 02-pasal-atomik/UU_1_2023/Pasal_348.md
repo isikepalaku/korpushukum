@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '348'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Setiap Orang yang dengan Kekerasan atau Ancaman Kekerasan melawan seorang Pejaba
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Perlawanan yang dimaksud dalam ketentuan ini dilalrukan tidak saja terhadap pegawai negeri yang sedarg menjalankan tugas yang sah, melainkan juga terhadap or€rng yang membantu, meskipun bukan pegawai negeri.

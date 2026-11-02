@@ -27,8 +27,7 @@ mengamandemen: []
 
 - (5) Lamanya pidana penjara sebagaimspa dimaksud pada ayat (4) yang ditentukan oleh hakim, dicantumkan dalam putusan pengadilan. 
 
-###### Pasal T2 
-
+###### Pasal 72
 - (1) Dafam hal penyitaan dan pelelangan harta kekayaan atau pendapatan sebagaimana dimaksud dalam Pasal 71 ayat (4) dilakukan terhadap terpidana Korporasi dan tidak cukup untuk melunasi pidana 
 
 - . denda, Korporasi dikenakan pidana pengganti berupa pembekuan sebagian atau seluruh kegiatan usaha Korporasi untuk jangka wa.ktu paling lama 5 (lima) tahun. 

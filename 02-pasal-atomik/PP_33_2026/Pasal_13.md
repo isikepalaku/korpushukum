@@ -23,6 +23,12 @@ mengamandemen: []
 
 - {3] Pemrosesan Data Pribadi oleh Prosesor Data Pribadi yang ditunjuk oleh Pengendah Data Pribadi sebagaimana dimaksud pada ayat (1) merupakan tanggung jawab Pengendali Data Pribadi.
 
+Pasal 4. .,
+
+**PRESIDEN REPUBLIK INDONESIA**
+
+13.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

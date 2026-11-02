@@ -57,11 +57,17 @@ Bagian Ketiga Ruang Lingkup
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 4 Pasal 5 Cukup jelas. Pasal 6 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 4 Ayat (1) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
+Cukup jelas.
+
+Pasal 4
+Pasal 5 Cukup jelas. Pasal 6 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 4 Ayat (1) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
 ```
 
 ```
-Ayat (4) Cukup jelas. Angka 3 Pasal 5 Cukup jelas. Angka 4 Pasal 6 Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Dalam menetapkan kriteria dan indikator, Komite Stabilitas Sistem Keuangan mempertimbangkan kerangka kerja penilaian kondisi Stabilitas Sistem Keuangan yang digunakan oleh setiap anggota Komite Stabilitas Sistem Keuangan. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Hurufh Cukup jelas. Huruf i Cukup jelas. Angka 5 Pasal 7 Ayat (1) Cukup jelas.
+Ayat (4) Cukup jelas. Angka 3
+
+Pasal 5
+Cukup jelas. Angka 4 Pasal 6 Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Dalam menetapkan kriteria dan indikator, Komite Stabilitas Sistem Keuangan mempertimbangkan kerangka kerja penilaian kondisi Stabilitas Sistem Keuangan yang digunakan oleh setiap anggota Komite Stabilitas Sistem Keuangan. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Hurufh Cukup jelas. Huruf i Cukup jelas. Angka 5 Pasal 7 Ayat (1) Cukup jelas.
 ```
 
 Ayat (2) ...
@@ -93,3 +99,11 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
+
+Angka 6
+
+Pasal 8A
+
+Cukup jelas.
+
+Angka 7

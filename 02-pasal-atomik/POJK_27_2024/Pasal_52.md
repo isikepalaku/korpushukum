@@ -19,10 +19,16 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam menjalankan ruang lingkup kegiatan
-sebagaimana dimaksud dalam Pasal 51 ayat (1) dan
+sebagaimana dimaksud dalam
+
+Pasal 51
+ayat (1) dan
 ayat (2), Pedagang dilarang:
 a. menjalankan kegiatan usaha lain selain
-sebagaimana tercantum dalam Pasal 51 ayat (1)
+sebagaimana tercantum dalam
+
+Pasal 51
+ayat (1)
 dan ayat (2);
 b. memberikan akses atau melakukan kerja sama
 dengan pihak lain yang akan bertindak sebagai

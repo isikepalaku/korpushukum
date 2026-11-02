@@ -11,9 +11,7 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_54|UU 1/2013 Pasal 54]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_54|UU 1/2016 Pasal 54]]'
-- '[[02-pasal-atomik/UU_10_2011/Pasal_54|UU 10/2011 Pasal 54]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_54|UU 21/2008 Pasal 54]]'
 - '[[02-pasal-atomik/UU_21_2011/Pasal_54|UU 21/2011 Pasal 54]]'
 - '[[02-pasal-atomik/UU_23_1999/Pasal_54|UU 23/1999 Pasal 54]]'
@@ -85,13 +83,19 @@ Cukup jelas.
 Huruf j ...
 
 ```
-Huruf j Cukup jelas. Huruf k Cukup jelas. Huruf 1 Cukup jelas. Hurufm Cukup jelas. Huruf n Cukup jelas. Huruf o Cukup jelas. Ayat (2) Pemberitahuan secara tertulis oleh Otoritas Jasa Keuangan kepada Lembaga Penjamin Simpanan adalah sebagai penyerahan penanganan Bank Syariah untuk dilakukan tindakan resolusi oleh Lembaga Penjamin Simpanan. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Angka45 Pasal 54A Ayat (1) Cukup jelas.
+Huruf j Cukup jelas. Huruf k Cukup jelas. Huruf 1 Cukup jelas. Hurufm Cukup jelas. Huruf n Cukup jelas. Huruf o Cukup jelas. Ayat (2) Pemberitahuan secara tertulis oleh Otoritas Jasa Keuangan kepada Lembaga Penjamin Simpanan adalah sebagai penyerahan penanganan Bank Syariah untuk dilakukan tindakan resolusi oleh Lembaga Penjamin Simpanan. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Angka45
+
+Pasal 54A Ayat (1) Cukup jelas.
 ```
 
 Ayat (2) ...
 
 ```
-Ayat (2) Pihak lain di antaranya mencakup pelapor sistem layanan informasi keuangan, debitur, dan lembaga pengelola informasi perkreditan. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Pasal 54B Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "pegawai Bank Syariah atau Bank Umum Konvensional yang memiliki UUS" adalah semua pejabat dan karyawan Bank Syariah atau Bank Umum Konvensional yang memiliki UUS. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 46 Pasal 59 Cukup jelas. Angka 47 Pasal 60 Cukup jelas.
+Ayat (2) Pihak lain di antaranya mencakup pelapor sistem layanan informasi keuangan, debitur, dan lembaga pengelola informasi perkreditan. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
+
+Pasal 54B Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "pegawai Bank Syariah atau Bank Umum Konvensional yang memiliki UUS" adalah semua pejabat dan karyawan Bank Syariah atau Bank Umum Konvensional yang memiliki UUS. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 46 Pasal 59 Cukup jelas. Angka 47 Pasal 60 Cukup jelas.
 ```
 
 Angka 48 ...
+
+Angka 48

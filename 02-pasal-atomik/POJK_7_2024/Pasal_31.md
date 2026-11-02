@@ -17,14 +17,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dan/atau Pasal 37 ayat (1) dikenai sanksi administratif
-berupa teguran tertulis.
-(2) Dalam hal BPR atau BPR Syariah telah dikenai sanksi
-administratif sebagaimana dimaksud pada ayat (1) dan
-
------
-
-tetap melanggar ketentuan sebagaimana dimaksud dalam
+Sumber dana yang digunakan untuk kepemilikan BPR atau
+BPR Syariah dilarang berasal:
+a. dari pinjaman atau fasilitas pembiayaan dalam bentuk
+apapun dari bank dan/atau pihak lain; dan/atau
+b. dari dan untuk tujuan pencucian uang, pendanaan
+terorisme, dan/atau proliferasi senjata pemusnah
+massal.
 
 ## Penjelasan Resmi
 

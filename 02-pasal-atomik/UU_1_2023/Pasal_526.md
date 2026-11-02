@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan sebagaimana dimaksud dalam Pasal 481 berlaku juga bagi Tindak Pidana sebagaimana dimaksud dalam Pasal 521 sampai dengan Pasal 525.
+Ketentuan sebagaimana dimaksud dalam Pasal 481 berlaku juga bagi Tindak Pidana sebagaimana dimaksud dalam
+
+Pasal 521
+sampai dengan Pasal 525.
 
 **BAB XXX TINDAK PIDANA JABATAN**
 

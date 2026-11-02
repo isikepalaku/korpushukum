@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '302'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,5 +24,13 @@ mengamandemen: []
 Bagian Kedua Tindak Pidana terhadap Kehidupan Beragama atau Kepercayaan dan Sarana Ibadah
 
 ## Penjelasan Resmi
+
+Ayat (l)
+
+Ketentuan ini bukan mempakan pembatasan bagr seseorang untuk berpindah agama atau kepercayaan yang ada di Negara Kesatuan 
+
+.
+
+Ayat (2)
 
 Cukup jelas.

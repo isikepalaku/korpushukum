@@ -17,7 +17,30 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Untuk pelaporan pelaksanaan RUPS yang menyetujui
+Penggabungan sebagaimana dimaksud dalam
 
+Pasal 80
+ayat (1), Perusahaan yang menerima Penggabungan
+dapat mengajukan permohonan izin pembentukan UUS
+yang sebelumnya dimiliki oleh Perusahaan yang
+menggabungkan diri atas namanya kepada Otoritas
+Jasa Keuangan.
+(2) Untuk memperoleh izin pembentukan UUS
+sebagaimana dimaksud pada ayat (1), Direksi harus
+mengajukan permohonan izin kepada Otoritas Jasa
+Keuangan dengan melampirkan dokumen persyaratan
+izin pembentukan UUS bagi Perusahaan yang
+menerima Penggabungan tercantum dalam Lampiran
+pada tabel 27 yang merupakan bagian tidak
+terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
+(3) Perusahaan yang menerima Penggabungan dilarang
+menjalankan UUS yang sebelumnya dimiliki oleh
+
+-----
+
+Perusahaan yang menggabungkan diri sebelum
+memperoleh izin dari Otoritas Jasa Keuangan.
 
 ## Penjelasan Resmi
 

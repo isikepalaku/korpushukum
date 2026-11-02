@@ -20,7 +20,9 @@ mengamandemen: []
 
 Ketentuan terkait perhitungan Modal bagi Perusahaan
 Syariah menggunakan modal inti (Tier 1) dan modal
-pelengkap (Tier 2) sebagaimana dimaksud dalam Pasal 84A
+pelengkap (Tier 2) sebagaimana dimaksud dalam
+
+Pasal 84A
 dinyatakan mulai berlaku 1 (satu) tahun sejak Peraturan
 Otoritas Jasa Keuangan ini diundangkan.
 

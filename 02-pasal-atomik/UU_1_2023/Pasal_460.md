@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '460'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,6 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Ketentuan ini memuat peringanan ancEunan pidana yang didasarkan pada pertimbangan bahwa rasa takut seorang ibu yang melahirkan diketahui orang lain sudah dianggap suatu penderitaan. Ayat (2) Cukup jelas. Ayat (3) Karena orang lain yang turut serta dalam pembunuhan sebagaimana
+
+dimaksud pada ayat (1) dan ayat (21 tidak berada dalam kondisi psikologis yang sama dengan kondisi seorang ibu yang melakukan Tindak Pidana tersebut maka dalam prinsip penyertaan tidak berlaku dalam ketentuan ayat ini.

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemutusan Akses dilakukan terhadap Informasi Elektronik dan/ atau Dokumen Elektronik sebagaimana dimaksud dalam Pasal 95 dengan klasifikasi:
+Pemutusan Akses dilakukan terhadap Informasi Elektronik dan/ atau Dokumen Elektronik sebagaimana dimaksud dalam
+
+Pasal 95
+dengan klasifikasi:
 
 - a. melanggar ketentuan peraturan perundang-undangan;
 

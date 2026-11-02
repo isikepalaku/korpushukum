@@ -61,6 +61,12 @@ mengamandemen: []
 
  6. pemrosesan Data Pribadi untuk kegiatan operasional melayani masyarakat yang terkait dengan aktivitas Transaksi Elektronik.
 
+Pasal 3...
+
+SK No011689 A
+
+FRESIDEN REPUBLIK INDONESIA
+
 ## Penjelasan Resmi
 
 Ayat (1) Cukupjelas.

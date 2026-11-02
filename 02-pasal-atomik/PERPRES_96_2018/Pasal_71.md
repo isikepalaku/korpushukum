@@ -26,7 +26,7 @@ Dokumen Kependudukan yang belum tersimpan dalam SIAK.
 Ketentuan
 Penduduk
 Menteri.
-Pasal T2
+Pasal 72
 lebih lanjut mengenai pelayanan Pendaftaran
 dan Pencatatan Sipil diatur dalam Peraturan
 BAB IV

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pemuatan data dan/atau aplikasi tambahan sebagaimana 
-dimaksud dalam Pasal 2 ayat (4), digunakan terhadap 
+dimaksud dalam
+
+Pasal 2
+ayat (4), digunakan terhadap 
 selain data kependudukan yang menunjang fungsi 
 multiguna Perangkat Keras dan Perangkat Lunak melalui 
 penginputan data. 

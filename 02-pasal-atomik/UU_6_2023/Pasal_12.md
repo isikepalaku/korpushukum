@@ -50,7 +50,10 @@ Persyaratan Penanaman Modal ditujukan untuk bidang usaha yang diprioritaskan ole
 3. Bidang usaha bagi usaha mikro, kecil, dan menengah dan persyaratan kemitraan antara usaha besar dengan usaha mikro, kecil, dan menengah tidak termasuk kemitraan sebagai pemegang saham; dan
 4. Bidang usaha terbuka dengan persyaratan tertentu.
 
-Angka 3 Pasal 13 Ayat (1) Dalam rangka pelindungan koperasi dan usaha mikro,
+Angka 3
+
+Pasal 13
+Ayat (1) Dalam rangka pelindungan koperasi dan usaha mikro,
 
 kecil, dan menengah:
 
@@ -60,7 +63,10 @@ kecil, dan menengah:
 2. Mengalokasikan bidang usaha untuk koperasi dan usaha mikro, kecil, dan menengah, serta bidang usaha untuk usaha besar dengan syarat harus bekerjasama melalui kemitraan dengan koperasi dan usaha mikro, kecil, dan menengah, sesuai dengan ketentuan peraturan perundang-undangan di bidang usaha mikro, kecil, dan menengah.
 
 ```
-Angka 4 Pasal 18 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Huruf a Cukup je1as. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d
+Angka 4
+
+Pasal 18
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Huruf a Cukup je1as. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d
 ```
 
 ```
@@ -74,7 +80,10 @@ Huruf e
 Yang dimaksud dengan "industri pionir" adalah industri yang memiliki keterkaitan yang luas, memberi nilai tambah dan eksternalitas yang tinggi, memperkenalkan teknologi baru, serta memiliki nilai strategis bagi perekonomian nasional. Huruf f
 
 ```
-Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i Cukup jelas. Hurufj Cukup jelas. Huruf k Cukup jelas. Ayat (4) Cukup jelas. Angka 5 Pasal 25 Cukup jelas. Pasal 78 Pasal 22 Ayat (1) Huruf a Cukup jelas.
+Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i Cukup jelas. Hurufj Cukup jelas. Huruf k Cukup jelas. Ayat (4) Cukup jelas. Angka 5
+
+Pasal 25
+Cukup jelas. Pasal 78 Pasal 22 Ayat (1) Huruf a Cukup jelas.
 ```
 
 Hurufb . . .

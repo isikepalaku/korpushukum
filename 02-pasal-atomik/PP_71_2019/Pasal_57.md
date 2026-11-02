@@ -43,6 +43,8 @@ d. autentikasi .
 
 ## Penjelasan Resmi
 
+Ayat (1) Cukupjelas.
+
 Ayat(2)...
 
 FRESIDEN REPUELIK TNDONESTA

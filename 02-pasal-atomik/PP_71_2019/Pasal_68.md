@@ -23,6 +23,12 @@ mengamandemen: []
 
 - b layanan pengiriman elektronik tercatat tidak tersertifikasi .
 
+Pasal 69...
+
+SK No011722 A
+
+PRESIDEN REPUBLIK TNDONESTA
+
 ## Penjelasan Resmi
 
 Cukupjelas.

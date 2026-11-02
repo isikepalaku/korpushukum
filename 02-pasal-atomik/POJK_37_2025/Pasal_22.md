@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Terhadap pelanggaran ketentuan sanksi administratif
-sebagaimana dimaksud dalam Pasal 21 ayat (1), Otoritas
+sebagaimana dimaksud dalam
+
+Pasal 21
+ayat (1), Otoritas
 Jasa Keuangan dapat melakukan penilaian kembali
 terhadap pihak utama PPDP sesuai dengan Peraturan
 Otoritas Jasa Keuangan mengenai penilaian kembali bagi

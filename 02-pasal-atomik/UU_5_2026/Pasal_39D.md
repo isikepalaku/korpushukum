@@ -23,8 +23,7 @@ Pasal II . . .
 
 ## PRESIDEN REPUBLIK INDONESIA
 
-## Pasal II
-
+## Pasal 11
 1. Pada saat Undang-Undang ini mulai berlaku, ketentuan tentang batas usia pensiun sebagai berikut:
 - a. batas usia pensiun bagi Anggota Kepolisian Negara Republik Indonesia sebagaimana dimaksud dalam Pasal 30 ayat (5) berlaku bagi Anggota Kepolisian Negara Republik Indonesia yang berusia 56 (lima puluh enam) tahun pada saat Undang-Undang ini mulai berlaku;
 - b. Anggota Kepolisian Negara Republik Indonesia yang berusia 57 (lima puluh tujuh) tahun pada saat Undang-Undang ini mulai berlaku, batas usia pensiun diperpanjang sampai dengan anggota tersebut berusia 59 (lima puluh sembilan) tahun; dan

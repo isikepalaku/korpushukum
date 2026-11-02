@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan mengenai pelaporan keuangan sebagaimana dimaksud dalam Pasal 271 ayat (1) dilakukan oleh PUSK dan pihak yang melakukan interaksi bisnis dengan sektor keuangan dilaksanakan paling lambat 3 (tiga) tahun terhitung sejak Undang-Undang ini diundangkan.
+Ketentuan mengenai pelaporan keuangan sebagaimana dimaksud dalam
+
+Pasal 271
+ayat (1) dilakukan oleh PUSK dan pihak yang melakukan interaksi bisnis dengan sektor keuangan dilaksanakan paling lambat 3 (tiga) tahun terhitung sejak Undang-Undang ini diundangkan.
 
 **Bagian Kesebelas**
 

@@ -24,6 +24,12 @@ oleh sekretariat Forum Koordinasi Stabilitas Sistem Keuangan
 sampai dengan terbentuknya sekretariat Komite Stabilitas
 Sistem Keuangan berdasarkan ketentuan Undang-Undang ini.
 
+Pasal 52 . . .
+
+-----
+
+ - 32
+
 ## Penjelasan Resmi
 
 Cukup jelas.

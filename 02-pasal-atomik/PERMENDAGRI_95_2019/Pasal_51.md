@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sebagaimana dimaksud dalam Pasal 30 huruf p, huruf r, 
+sebagaimana dimaksud dalam
+
+Pasal 30
+huruf p, huruf r, 
 dan huruf s. 
 (3) 
 Sumber daya manusia Penyelenggara dan Satuan Kerja 

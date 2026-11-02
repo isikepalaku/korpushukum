@@ -18,7 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bagian Kedua Bantuan Hukum
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

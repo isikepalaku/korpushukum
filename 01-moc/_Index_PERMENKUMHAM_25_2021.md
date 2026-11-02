@@ -4,7 +4,7 @@ judul: "Map of Content - Perubahan atas Permenkumham 10-2013 (Pendaftaran Jamina
 kode_uu: PERMENKUMHAM_25_2021
 type: moc
 tags: [moc, hukum/keuangan, uu/permenkumham_25_2021]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Perubahan atas Permenkumham 10-2013 (Pendaftaran Jaminan Fidusia Secara Elektronik) (PERMENKUMHAM_25_2021)

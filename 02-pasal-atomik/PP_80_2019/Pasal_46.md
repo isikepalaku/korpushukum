@@ -25,6 +25,10 @@ mengamandemen: []
 
 - (4) Isi Konfirmasi Elektronik harrrs sama dengan informasi Penawaran Secara Elektronik.
 
+Pasal 47...
+
+PRESIDEN REFUELIK TNDONESIA -24-
+
 ## Penjelasan Resmi
 
 Ayat (1) 

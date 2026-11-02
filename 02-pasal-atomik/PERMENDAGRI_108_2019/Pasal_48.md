@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) 
 Dalam hal pencatatan kelahiran sebagaimana dimaksud 
-dalam Pasal 42 tidak dapat memenuhi persyaratan 
+dalam
+
+Pasal 42
+tidak dapat memenuhi persyaratan 
 berupa: 
 a. buku nikah/kutipan akta perkawinan atau bukti 
 lain yang sah; dan 
@@ -31,7 +34,10 @@ dicatat dalam register akta kelahiran dan kutipan akta
 kelahiran sebagai anak seorang ibu. 
 (2) 
 Dalam hal pencatatan kelahiran sebagaimana dimaksud 
-dalam Pasal 42 tidak dapat memenuhi persyaratan 
+dalam
+
+Pasal 42
+tidak dapat memenuhi persyaratan 
 berupa: 
 a. buku nikah/kutipan akta perkawinan atau bukti 
 lain yang sah; dan 

@@ -18,7 +18,34 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Pembiayaan Ekspor Nasional sebagaimana dimaksud
 
+dalam
+
+Pasal 3
+diberikan dalam bentuk:
+
+a. Pembiayaan;
+
+b. Penjaminan; dan/atau
+
+c. Asuransi.
+
+(2) Pembiayaan Ekspor Nasional sebagaimana dimaksud
+
+pada ayat (1) dapat dilaksanakan berdasarkan Prinsip
+Syariah.
+
+(3) Pembiayaan Ekspor Nasional sebagaimana dimaksud
+
+pada ayat (1), diberikan kepada badan usaha baik badan
+usaha yang berbentuk badan hukum maupun tidak
+berbentuk badan hukum termasuk perorangan.
+
+(4) Badan usaha sebagaimana dimaksud pada ayat (3) dapat
+
+berdomisili di dalam atau di luar wilayah Negara Republik
+Indonesia.
 
 ## Penjelasan Resmi
 

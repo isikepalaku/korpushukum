@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '253'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -18,10 +18,12 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang mengetahui adanya permufakatan jahat untuk melakukan salah satu Tindak Pidana sebagaimana dimaksud dalam Pasal 191 sampai dengan Pasal 194, Pasal 205, Pasal 2O8, Pasal 212, Pasal 308, atau Pasal 310, tidak memberitahukan kepada Pejabat yang berwenang atau kepada orang yang terancam padahal masih ada waktu untuk mencegah dilakukannya Tindak Pidana tersebut, jika Tindak Pidana tersebut benar-benar terjadi, dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori II.
+Setiap Orang yang mengetahui adanya permufakatan jahat untuk melakukan salah satu Tindak Pidana sebagaimana dimaksud dalam Pasal 191 sampai dengan
+
+Pasal 194, Pasal 205, Pasal 2O8, Pasal 212, Pasal 308, atau Pasal 310, tidak memberitahukan kepada Pejabat yang berwenang atau kepada orang yang terancam padahal masih ada waktu untuk mencegah dilakukannya Tindak Pidana tersebut, jika Tindak Pidana tersebut benar-benar terjadi, dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori II.
 
 Paragraf 2 Tidak Memberitahukan Kepada Pejabat yang Berwenang Adanya Orang yang Berencana Melakukan Tindak Pidana
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Untuk dapat dipidana berdasarkan ketentuan ini, Tindak Pidana itu harus jadi dilalrukan atau benar-benar terjadi. Jika tidak terjadi maka tidak dapat dipidana.

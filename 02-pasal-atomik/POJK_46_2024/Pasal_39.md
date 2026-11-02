@@ -23,7 +23,9 @@ berlaku, dalam Peraturan Otoritas Jasa Keuangan mengenai
 Perusahaan Pembiayaan Infrastruktur, penyampaian
 laporan tahunan Asosiasi Perusahaan Pembiayaan
 Infrastruktur kepada Otoritas Jasa Keuangan sebagaimana
-dimaksud dalam Pasal 18F ayat (2) mulai berlaku pada
+dimaksud dalam
+
+Pasal 18F ayat (2) mulai berlaku pada
 tahun 2027 untuk periode laporan tahun 2026.
 
 ## Penjelasan Resmi

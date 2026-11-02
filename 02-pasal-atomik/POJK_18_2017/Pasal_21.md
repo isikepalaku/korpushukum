@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pihak yang dapat meminta Informasi Debitur sebagaimana dimaksud dalam Pasal 14 ayat (1) bertanggung jawab terhadap segala akibat hukum yang timbul sehubungan dengan penggunaan Informasi Debitur untuk keperluan yang tidak sesuai dengan ketentuan peraturan perundangundangan dan Peraturan OJK ini.
+Pihak yang dapat meminta Informasi Debitur sebagaimana dimaksud dalam
+
+Pasal 14
+ayat (1) bertanggung jawab terhadap segala akibat hukum yang timbul sehubungan dengan penggunaan Informasi Debitur untuk keperluan yang tidak sesuai dengan ketentuan peraturan perundangundangan dan Peraturan OJK ini.
 
 **BAB VIII**
 

@@ -18,9 +18,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 192 ayat (1), ayat (6), Pasal 193
-ayat (3), Pasal 194 ayat (1), ayat (3), Pasal 195, Pasal
-196, Pasal 197 ayat (1), ayat (2), ayat (3), ayat (5), ayat
+dimaksud dalam Pasal 192 ayat (1), ayat (6),
+
+Pasal 193
+ayat (3),
+
+Pasal 194
+ayat (1), ayat (3), Pasal 195, Pasal 196, Pasal 197 ayat (1), ayat (2), ayat (3), ayat (5), ayat
 (6), ayat (7), Pasal 198, Pasal 199 ayat (1) ayat (4),
 dan/atau Pasal 200 ayat (1), ayat (3), ayat (5) dikenai
 sanksi administratif berupa:
@@ -76,7 +80,10 @@ Penerapan Manajemen Risiko
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

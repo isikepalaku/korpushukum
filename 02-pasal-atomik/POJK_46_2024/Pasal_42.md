@@ -5,7 +5,7 @@ uu_induk: Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaa
 kode_uu: POJK_46_2024
 pasal: '42'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_46_2024
@@ -76,7 +76,10 @@ berwenang;
 peleburan yang telah disetujui atau
 dicatat oleh instansi yang berwenang;
 4. daftar kepemilikan sebagaimana
-dimaksud dalam Pasal 4 ayat (2) huruf
+dimaksud dalam
+
+Pasal 4
+ayat (2) huruf
 b;
 5. daftar rincian Kantor Cabang beserta
 alamat lengkap; dan
@@ -133,3 +136,5 @@ Pencabutan Izin Usaha
 ## Penjelasan Resmi
 
 Cukup jelas
+
+Angka 25

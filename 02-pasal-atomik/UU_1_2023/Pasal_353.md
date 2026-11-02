@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '353'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,8 @@ Setiap Orang yang mencegah, menghalang-halangi, atau menggagalkan tindakan yang 
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "mencegah" adalah berusaha agar Pejabat yang berwenang yang bersangkutan tidak sempat bertindak.
+
+Yang dimaksud dengan "menghalang-halangf adalah apabila Pejabat yang berwenang tersebut sudah bertindak dan dicegah untuk melakukan tindakannya.
+
+Yang dimaksud dengan omenggagalkan" adalah meniadakan hasil tindakan yang telah dilakukan Pejabat yang berwenang yang bersangkutan.

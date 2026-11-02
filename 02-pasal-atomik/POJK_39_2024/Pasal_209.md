@@ -17,8 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Selain laporan berkala sebagaimana dimaksud dalam Pasal
-205 ayat (1), Perusahaan wajib menyampaikan laporan
+Selain laporan berkala sebagaimana dimaksud dalam
+
+Pasal 205
+ayat (1), Perusahaan wajib menyampaikan laporan
 sewaktu-waktu jika diperlukan oleh Otoritas Jasa
 Keuangan.
 

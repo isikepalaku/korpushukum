@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) 
 Pencatatan pengesahan anak sebagaimana dimaksud 
-dalam Pasal 75 ayat (2) huruf b, dilaporkan pada 
+dalam
+
+Pasal 75
+ayat (2) huruf b, dilaporkan pada 
 Perwakilan 
 Republik 
 Indonesia 

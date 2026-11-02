@@ -17,36 +17,40 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-disampaikan melalui sistem jaringan komunikasi data
-Otoritas Jasa Keuangan.
-(2) Dengan penyampaian permohonan perizinan,
-permohonan persetujuan, dan pelaporan kepada
-Otoritas Jasa Keuangan secara dalam jaringan
-sebagaimana dimaksud pada ayat (1), Penyelenggara
-tidak perlu menyampaikan dokumen cetak.
-(3) Penyelenggara wajib mempertanggungjawabkan setiap
-dokumen yang disampaikan secara dalam jaringan
-melalui sistem jaringan komunikasi data Otoritas Jasa
-Keuangan merupakan dokumen sesuai dengan
-dokumen aslinya.
-(4) Dalam hal sistem jaringan komunikasi data Otoritas
-Jasa Keuangan sebagaimana dimaksud pada ayat (1)
-belum tersedia atau mengalami gangguan teknis,
+(1) Penyelenggara wajib melaporkan perubahan:
+a. model bisnis; dan/atau
+b. sistem operasi gawai yang digunakan pada Sistem
+Elektronik,
+kepada Otoritas Jasa Keuangan paling lama 15 (lima
+belas) hari kerja terhitung sejak model bisnis dan/atau
+jenis operasi gawai yang digunakan pada Sistem
+Elektronik direalisasikan.
 
 -----
 
-Penyelenggara menyampaikan permohonan perizinan,
-permohonan persetujuan, dan pelaporan dalam bentuk
-data elektronik melalui surat elektronik yang
-ditetapkan oleh Otoritas Jasa Keuangan.
-(5) Ketentuan lebih lanjut mengenai permohonan
-perizinan, permohonan persetujuan dan pelaporan
-melalui sistem jaringan komunikasi data Otoritas Jasa
-Keuangan sebagaimana dimaksud pada ayat (1)
-ditetapkan oleh Otoritas Jasa Keuangan.
+(2) Rencana perubahan model bisnis dan/atau jenis
+operasi gawai yang digunakan pada Sistem Elektronik
+harus terlebih dahulu dimuat dalam rencana bisnis
+sebagaimana diatur dalam Peraturan Otoritas Jasa
+Keuangan mengenai rencana bisnis lembaga jasa
+keuangan nonbank.
+(3) Pelaporan atas perubahan model bisnis dan/atau
+sistem operasi gawai yang digunakan pada Sistem
+Elektronik sebagaimana dimaksud pada ayat (1) harus
+disampaikan oleh Direksi kepada Otoritas Jasa
+Keuangan melampirkan dengan dokumen pelaporan
+perubahan model bisnis tercantum dalam Lampiran
+pada tabel 34 dan tabel 35 yang merupakan bagian
+tidak terpisahkan dari Peraturan Otoritas Jasa
+Keuangan ini.
+(4) Penyelenggara wajib memerhatikan ketentuan
+peraturan perundang-undangan dalam melaksanakan
+perubahan model bisnis dan/atau sistem operasi gawai
+yang digunakan pada Sistem Elektronik sebagaimana
+dimaksud pada ayat (1).
 
-BAB XXIII
-PEMILIK MANFAAT
+Bagian Kelima
+Laporan Data Transaksi Pendanaan
 
 ## Penjelasan Resmi
 

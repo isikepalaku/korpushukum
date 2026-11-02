@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '568'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Nakhoda Kapal Indonesia yang tanpa alasan yang sah menolak permintaan untuk meng
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Perbuatan yang dimaksud dalam ketentuan ini merupakan perbuatan yang menghambat penegakan hukum.

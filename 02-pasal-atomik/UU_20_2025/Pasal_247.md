@@ -26,7 +26,14 @@ negara atau dimusnahkan atau dirusak sehingga tidak
 **dapat dipergunakan lagi. (21 Dalam hal barang bukti yang disita diserahkan kepada**
  pihak yang paling berhak, pengadilan menetapkan supaya barang bukti diserahkan segera sesudah sidang selesai.
 **(3) Perintah penyerahan barang bukti dilakukan tanpa**
-**disertai suatu syarat apapun, kecuali dalam hal Putusan Pengadilan belum mempunyai kekuatan hukum tetap.**
+**disertai suatu syarat apapun, kecuali dalam hal Putusan Pengadilan belum mempunyai kekuatan hukum tetap.**Pasal 248...
+
+-----
+
+PRESIDEN
+REFUBUK INDONESIA
+
+**-131 -**
 
 ## Penjelasan Resmi
 

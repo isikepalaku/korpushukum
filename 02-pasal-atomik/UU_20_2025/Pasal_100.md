@@ -21,13 +21,62 @@ mengamandemen: []
 **(1) Penahanan sebagaimana dimaksud dalam Pasal 99**
 
 **hanya dapat dilakukan berdasarkan surat perintah Penahanan atau penetapan Hakim terhadap Tersangka atau Terdakwa yang melakukan tindak pidana atau melakukan percobaan atau pembantuan melakukan tindak pidana yang diancam dengan pidana penjara 5 (lima) tahun atau lebih. (21 Penahanan juga dapat dilakukan terhadap tindak**
- pidana yang diatur dalam Pasal 213, Pasal 24O
- ayat (21, Pasal 241 ayat (21, Pasal 242, Pasal 243 ayat (1), Pasal 244, Pasal 247, Pasal 250 ayat (1), Pasal 252, Pasal 263 ayat (21, Pasal 264, Pasal 300, Pasal 302, Pasal 3O3 ayat (21, Pasal 3O4, Pasal 305 ayat (l), Pasal 347, Pasal 420, Pasal 421, Pasal 425, Pasal 448 ayat (1) dar: (21, Pasal 462, Pasal 466 ayat (1), Pasal 467 ayat (1), Pasal 472, Pasal 483,
+ pidana yang diatur dalam Pasal 213,
+
+Pasal 240
+ayat (21,
+
+Pasal 241
+ayat (21, Pasal 242, Pasal 243 ayat (1), Pasal 244, Pasal 247, Pasal 250 ayat (1), Pasal 252, Pasal 263 ayat (21, Pasal 264, Pasal 300, Pasal 302, Pasal 3O3 ayat (21, Pasal 3O4, Pasal 305 ayat (l), Pasal 347, Pasal 420, Pasal 421, Pasal 425, Pasal 448 ayat (1) dar: (21, Pasal 462, Pasal 466 ayat (1), Pasal 467 ayat (1), Pasal 472, Pasal 483,
+Pasal 486,
+
+Pasal 492, Pasal 496, Pasal 527, Pasal 553
+**ayat (1) huruf a dan huruf b, Pasal 569 ayat (1), dan**Pasal 591 Kitab Undang-Undang Hukum Pidana.
+**(3) Surat perintah Penahanan atau penetapan Hakim**
+
+**sebagaimana dimaksud pada ayat (1) dan ayat (21 harus mencantumkan:**
+**a. identitas Tersangka atau Terdakwa; b. alasan Penahanan; c. uraian singkat perkara tindak pidana yang**
+
+**dipersangkakan atau didakwakan; dan**
+**d. tempat Tersangka atau Terdakwa ditahan. l4l [Dalam ][waktu ] [paling ][lama ] [1 ][(satu) ][Hari terhitung ] [sejak]**
+
+Penahanan, tembusan surat perintah Penahanan atau
+**penetapan Hakim sebagaimana dimaksud pada ayat (3) harus diberikan kepada:**
+**a. Keluarga atau wali Tersangka atau Terdakwa; b. orang yang ditunjuk oleh Tersangka atau**
+
+**Terdakwa; dan/ atau**
+**c. komandan kesatuan Tersangka atau Terdakwa,**
+
+**dalam hal Tersangka atau Terdakwa yang ditahan adalah anggota Tentara Nasional Indonesia karena melakukan tindak pidana umum.**
+
+(5) Penahanan . . .
+
+-----
+
+Eltl=FITEIiN
+REPUBUK INDONESIA
+
+**-53-**
+
+ (5) Penahanan sebagaimana dimaksud dalam Pasal 99,
+
+**dilakukan terhadap Tersangka atau Terdakwa yang**
+diduga melakukan tindak pidana berdasarkan minimal
+**2 (dua) alat bukti yang sah jika Tersangka atau**
+Terdakwa:
+
+**a. mengabaikan panggilan Penyidik sebanyak 2 (dua)**
+ kali berturut-turut tanpa alasan yang sah; b. memberikan informasi tidak sesuai falta pada saat
+ pemeriksaan; c. menghambat proses pemeriksaan; d. berupaya melarikan diri; e. berupaya merusak dan menghilangkan barang
+ bukti;
+**f. melakukan ulang tindak pidana;**
+**g. terancam keselamatannya atas persetujuan atau**
+ permintaan Tersangka atau Terdakwa; dan/atau h. mempengaruhi Saksi untuk tidak mengatakan
+ kejadian sebenarnya.
 
 ## Penjelasan Resmi
 
 Cukup [jelas.]
 
-Pasal l0l
-
+Pasal 101
 **Cukup [jelas.]**

@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Jika Tindak Pidana sebagaimana dimaksud dalam Pasal 591 yang nilai Barangnya tidak lebih dari Rp500.000,00 (lima ratus ribu rupiah), dipidana karena penadahan ringan, dengan pidana denda paling banyak kategori II.
+Jika Tindak Pidana sebagaimana dimaksud dalam
+
+Pasal 591
+yang nilai Barangnya tidak lebih dari Rp500.000,00 (lima ratus ribu rupiah), dipidana karena penadahan ringan, dengan pidana denda paling banyak kategori II.
 
 Bagian Kedua Tindak Pidana Penerbitan dan Pencetakan
 

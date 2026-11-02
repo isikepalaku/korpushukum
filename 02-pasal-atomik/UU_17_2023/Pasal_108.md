@@ -27,8 +27,7 @@ mengamandemen: []
 
 ## Bagian Kesembilan Belas Kesehatan Bencana
 
-## Pasal 1O9
-
+## Pasal 109
 - (1) Pemerintah Pusat dan Pemerintah Daerah bertanggung jawab atas ketersediaan sumber daya, fasilitas, dan pelaksanaan Pelayanan Kesehatan pada bencana secara menyeluruh dan berkesinambungan.
 2. (21 Pelayanan Kesehatan pada bencana sebagaimana dimaksud pada ayat (1) meliputi:
 - a. perencanaanKesehatanprabencana;
@@ -70,8 +69,7 @@ Ayat (4)
 
 Cukup jelas.
 
-## Pasal 1O9
-
+## Pasal 109
 Ayat (1)
 
 Yang dimaksud dengan 'bencana' adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu kehidupan dan penghidupan masyarakat yang disebabkan, baik oleh faktor alam dan/ atau faktor nonalam maupun faktor manusia sehingga mengakibatkan timbulnya korban manusia, kerusakan lingkungan, kerugian harta benda, dan dampak psikologis.

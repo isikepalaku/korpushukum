@@ -20,7 +20,10 @@ mengamandemen: []
 
 Dalam hal penanganan Bank Gagal sebagaimana dimaksud
 
- dalam Pasal 32 tidak dapat dilakukan, LPS melakukan
+ dalam
+
+Pasal 32
+tidak dapat dilakukan, LPS melakukan
 
  penanganan Bank Gagal dimaksud tanpa mengikutsertakan
 

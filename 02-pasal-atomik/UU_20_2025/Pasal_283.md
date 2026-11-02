@@ -18,7 +18,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Ketentuan lebih lanjut mengenai jenis, bentuk, dan warna pakaian sidang serta atribut dan hal yang berhubungan dengan perangkat kelengkapan sebagaimana dimaksud dalam Pasal 2al ayat (21 diatur dalam Peraturan Pemerintah.**
+**Ketentuan lebih lanjut mengenai jenis, bentuk, dan warna pakaian sidang serta atribut dan hal yang berhubungan dengan perangkat kelengkapan sebagaimana dimaksud dalam Pasal 2al ayat (21 diatur dalam Peraturan Pemerintah.**Pasal 284...
+
+-----
+
+FRESIDEN
+REPUBLIK INDONESIA
+
+**-146-**
 
 ## Penjelasan Resmi
 

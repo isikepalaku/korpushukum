@@ -42,7 +42,10 @@ Ayat (2)
 
 Huruf a
 
-Lihat penjelasan Pasal 35 ayat (3) huruf a.
+Lihat penjelasan
+
+Pasal 35
+ayat (3) huruf a.
 Huruf b
 
 Kondisi keuangan dan tingkat kesehatan antara lain
@@ -57,4 +60,7 @@ standar penyelenggaraan teknologi informasi yang berlaku
 bagi BPR dan BPR Syariah.
 Huruf d
 
-Lihat penjelasan Pasal 62 ayat (2) huruf d.
+Lihat penjelasan
+
+Pasal 62
+ayat (2) huruf d.

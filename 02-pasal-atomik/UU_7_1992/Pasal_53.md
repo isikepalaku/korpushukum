@@ -20,7 +20,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dengan tidak mengurangi ketentuan pidana sebagaimana dimaksud
-dalam Pasal 50, Bank Indonesia dapat menetapkan sanksi administratif
+dalam
+
+Pasal 50, Bank Indonesia dapat menetapkan sanksi administratif
 kepada pihak terafiliasi yang tidak memenuhi kewajibannya
 sebagaimana ditentukan dalam Undang-undang ini atau menyampaikan
 pertimbangan kepada instansi yang berwenang untuk mencabut izin

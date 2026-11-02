@@ -17,19 +17,24 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-h. pengakuan anak sebagaimana dimaksud dalam Pasal
-49 ayat (1);
-i. pengesahan anak sebagaimana dimaksud dalam Pasal
-50 ayat (1);
-j. perubahan nama sebagaimana dimaksud dalam Pasal
-52 ayat (2);
-k. perubahan
-status
-kewarganegaraan
-di
-Indonesia
-sebagaimana dimaksud dalam Pasal 53 ayat (1); atau
-l. Peristiwa Penting lainnya sebagaimana dimaksud dalam
+(1) Pencatatan pengangkatan anak dilaksanakan berdasarkan
+penetapan pengadilan di tempat tinggal pemohon.
+(2) Pencatatan pengangkatan anak sebagaimana dimaksud
+pada ayat (1) wajib dilaporkan oleh Penduduk kepada
+Instansi
+Pelaksana
+yang
+menerbitkan
+Kutipan
+Akta
+Kelahiran paling lambat 30 (tiga puluh) hari setelah
+diterimanya salinan penetapan pengadilan oleh Penduduk.
+(3) Berdasarkan laporan sebagaimana dimaksud pada ayat (2),
+Pejabat Pencatatan Sipil membuat catatan pinggir pada
+Register Akta Kelahiran dan Kutipan Akta Kelahiran.
+Paragraf 2
+Pencatatan Pengangkatan Anak Warga Negara Asing
+di luar Wilayah Republik Indonesia
 
 ## Penjelasan Resmi
 

@@ -19,15 +19,35 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-b. melakukan usaha perasuransian;
+Selain melakukan kegiatan usaha sebagaimana dimaksud dalam
 
-c. melakukan usaha lain di luar kegiatan usaha sebagaimana dimaksud
+Pasal 6, Bank Umum dapat pula:
 
-dalam Pasal 6 dan Pasal 7.
+a. melakukan kegiatan dalam valuta asing dengan memenuhi
+
+ketentuan yang ditetapkan oleh Bank Indonesia;
+
+b. melakukan kegiatan penyertaan modal pada bank atau perusahaan
+
+lain di bidang keuangan, seperti sewa guna usaha, modal ventura,
+perusahaan efek, asuransi, serta lembaga kliring penyelesaian dan
+penyimpanan, dengan memenuhi ketentuan yang ditetapkan oleh
+Bank Indonesia;
+
+c. melakukan kegiatan penyertaan modal sementara untuk mengatasi
+
+akibat kegagalan kredit, dengan syarat harus menarik kembali
+penyertaannya, dengan memenuhi ketentuan yang ditetapkan oleh
+Bank Indonesia; dan
+
+d. bertindak sebagai pendiri dana pensiun dan pengurus dana pensiun
+
+sesuai dengan ketentuan dalam peraturan perundang-undangan
 
 -----
 
- - 10
+ - 9
+dana pensiun yang berlaku.
 
 ## Penjelasan Resmi
 

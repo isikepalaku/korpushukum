@@ -17,17 +17,31 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sanksi administratif sesuai dengan Peraturan OJK
-mengenai pelaporan bank umum melalui sistem
-pelaporan OJK.
+(1) Pembukaan Kantor di Luar Negeri harus dilaksanakan
+paling lama 1 (satu) tahun sejak tanggal persetujuan
+OJK.
+(2) Dalam hal terdapat keadaan kahar atau pertimbangan
+lain yang dapat diterima OJK, jangka waktu
+sebagaimana dimaksud pada ayat (1) dapat
+diperpanjang berdasarkan persetujuan OJK.
+(3) Dalam hal setelah jangka waktu sebagaimana
+dimaksud pada ayat (1) atau ayat (2) Bank tidak
+melaksanakan pembukaan Kantor di Luar Negeri,
+persetujuan OJK dinyatakan batal dan tidak berlaku.
+(4) Bank wajib menyampaikan salinan izin pembukaan
+Kantor di Luar Negeri dari otoritas negara setempat
+kepada OJK paling lama 10 (sepuluh) hari kerja sejak
+tanggal efektif pembukaan Kantor di Luar Negeri.
+(5) Bank wajib melaporkan pembukaan Kantor di Luar
+Negeri kepada OJK setelah tanggal efektif pelaksanaan
+pembukaan Kantor di Luar Negeri.
 
-BAB VIII
-PERUBAHAN NAMA, LOGO, DAN ANGGARAN DASAR
+Bagian Ketiga
+Perubahan Status Kantor Bank
 
-BANK
+Paragraf 1
 
-Bagian Kesatu
-Perubahan Nama Bank
+Umum
 
 ## Penjelasan Resmi
 

@@ -31,16 +31,6 @@ BABVII ...
 
 **Tindak Pidana terhadap Agama dan Kepercayaan**
 
-**Pasal 3O0**
-
-Setiap Orang Di Muka Umum yang:
-
-- a. melakukan perbuatan yang bersifat permusuhan;
-- b. menyatakan kebencian atau permusuhan; atau
-- c. menghasut untuk melakukan atau diskriminasi, Kekerasan,
-
-terhadap agama, kepercayaan orang lain, golongan, atau kelompok atas dasar agama atau kepercayaan di Indonesia, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.
-
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -17,7 +17,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Suatu Penawaran Secara Elektronik tidak dapat ditarik kembali jika terhadap penawaran tersebut telah dilakukan Penerimaan Secara Elektronik oleh pihak lain, kecuali pembatalan atas Penawaran Secara Elektronik tersebut juga disepakati oleh pihak yang menerima penawaran.
+- (1) PMSE dapat dilakukan oleh Pelaku Usaha, Konsumen, Pribadi, dan instansi penyelenggara negara sesuai dengan ketentuan peraturan perundang-undangan yang selanjutnya disebut para pihak.
+
+- (2) PMSE merupakan hubungan hukum privat yang dapat dilakukan antara:
+
+ - a. Pelaku Usaha dengan Pelaku Usaha;
+
+ - b. Pelaku Usaha dengan Konsumen;
+
+c. Pribadi
+
+**PRES IDEN REPUELIK INDONESIA**
+
+- c. Pribadi dengan Pribadi, sesuai dengan ketentuan peraturan perundang-undangan; dan
+
+- d. instansi penyelenggara negara dengan Pelaku Usaha, sesuai dengan ketentuan peraturan perundangundangan
 
 ## Penjelasan Resmi
 

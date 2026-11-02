@@ -36,3 +36,19 @@ Angkutan Laut Khusus baik dalam negeri maupun luar negeri dapat diselenggarakan 
 Ayat (21
 
 Cukup jelas.
+
+Angka 4
+
+Pasal 14A
+
+Ayat (1)
+
+Yang dimaksud dengan obelum tersedia" adalah jumlah dan jadwal saat diperlukan kapal berbendera Indonesia tersebut tidak tersedia atau belum mencukupi kebutuhan.
+
+Ayat (2)
+
+Cukup jelas.
+
+Angka5...
+
+**Angka 5**

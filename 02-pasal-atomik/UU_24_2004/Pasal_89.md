@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) LPS wajib menyampaikan laporan tahunan sebagaimana
 
- dimaksud dalam Pasal 88 kepada Presiden dan Dewan
+ dimaksud dalam
+
+Pasal 88
+kepada Presiden dan Dewan
 
  Perwakilan Rakyat, paling lambat tanggal 30 April tahun
 

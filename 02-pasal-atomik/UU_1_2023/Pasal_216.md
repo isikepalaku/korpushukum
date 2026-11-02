@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang melakukan permufakatan jahat dan persiapan untuk melakukan Tindak Pidana sebagaimana dimaksud dalam Pasal 210 atau Pasal 212 dipidana.
+Setiap Orang yang melakukan permufakatan jahat dan persiapan untuk melakukan Tindak Pidana sebagaimana dimaksud dalam Pasal 210 atau
+
+Pasal 212
+dipidana.
 
 **BAB II TINDAK PIDANA TERHADAP MARTABAT PRESIDEN DAN/ATAU WAKIL PRESIDEN**
 

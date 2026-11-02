@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data perkawinan sebagaimana dimaksud dalam Pasal 7 ayat 
+Data perkawinan sebagaimana dimaksud dalam
+
+Pasal 7
+ayat 
 (4) huruf c, terdiri dari elemen data: 
 a. 
 NIK/NIT suami; 

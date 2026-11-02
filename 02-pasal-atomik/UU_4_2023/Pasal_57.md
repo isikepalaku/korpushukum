@@ -11,7 +11,6 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_57|UU 1/2013 Pasal 57]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_57|UU 1/2016 Pasal 57]]'
 - '[[02-pasal-atomik/UU_10_2011/Pasal_57|UU 10/2011 Pasal 57]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_57|UU 21/2008 Pasal 57]]'

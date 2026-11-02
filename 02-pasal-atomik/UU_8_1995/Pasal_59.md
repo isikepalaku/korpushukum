@@ -44,6 +44,8 @@ mengamandemen: []
 
  peradilan dalam perkara perdata atau pidana.
 
+Pasal 60…
+
 ## Penjelasan Resmi
 
 Cukup jelas.

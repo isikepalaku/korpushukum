@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pendataan Penduduk rentan administrasi kependudukan 
-sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf f, diatur 
+sebagaimana dimaksud dalam
+
+Pasal 2
+ayat (1) huruf f, diatur 
 sesuai dengan ketentuan peraturan perundang-undangan. 
  
 Bagian Kedelapan 

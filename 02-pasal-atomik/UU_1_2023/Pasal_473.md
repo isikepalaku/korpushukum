@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '473'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -51,4 +51,9 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
+Perbuatan dalam Pasal ini dimaksudkan untuk atau sebagai bagian dari kegiatan/ kekerasan seksual. Ayat (1) Cukup jelas. Ayat(21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (a)
 Cukup jelas.
+
+EfltrtrtrI]IEEf,trEln
+
+Ayat (s) Cukup jelas. Ayat (6) Yang dimaksud dengan "Korban" adalah suami atau istri. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Ayat (1o) Cukup jelas. Ayat (11) Cukup jelas.

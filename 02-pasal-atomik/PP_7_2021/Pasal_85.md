@@ -29,9 +29,7 @@ evaluasi pengadaan barang/jasa [pada sistem ] [informasi]
 
 (3) Monitoring dan evaluasi dilakukan [secara ][regtrler dan]
 
-**dilaporkan kepada Presiden [paling ][sedikit 2 ][(dua) ][kali] dalam 1 (satu) tahun [pada ][bulan ][Juni ][dan ][f)esember] O":" [tahun ][berjalan.]**
-
- Pasal. . .
+**dilaporkan kepada Presiden [paling ][sedikit 2 ][(dua) ][kali] dalam 1 (satu) tahun [pada ][bulan ][Juni ][dan ][f)esember] O":" [tahun ][berjalan.]**Pasal. . .
 
 -----
 

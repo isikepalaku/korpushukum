@@ -25,6 +25,33 @@ FRESIDEN REPUBLIK TNDONESIA
 
 BAB VIII PERAN PEMERINTAH
 
+Pasal 90
+Peran Pemerintah dalam penyelenggaraan sistem dan Transaksi Elektronik meliputi :
+
+- a. memfasilitasi pemanfaatan Teknologi Informasi dan Transaksi Elektronik sesuai dengan ketentuan peraturan perundang-undangan;
+
+- b. melindungi kepentingan umum dari segalajenis gangguan sebagai akibat penyalahgunaan Informasi Elektronik dan Transaksi Elektronik yang mengganggu ketertiban umum, sesuai dengan ketentuan peraturan perundang-undangan;
+
+- c. melakukan pencegahan penyebarluasan dan penggunaan Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan yang dilarang sesuai dengan ketentuan peraturan perundang-undangan; dan
+
+- d. menetapkan Instansi atau institusi yang memiliki Data Elektronik strategis yang waj ib dilindungi.
+
+Pasal 91
+Peran Pemerintah untuk memfasilitasi pemanfaatan Teknologi Informasi dan Transaksi Elektronik sebagaimana dimaksud dalam
+
+Pasal 90
+huruf a meliputi:
+
+- a. penetapan kebijakan;
+
+- b. pelaksanaankebijakan;
+
+- c. fasilitasiinfrastruktur;
+
+- d. promosi dan edukasi; dan
+
+- e. pengawasan.
+
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

@@ -17,15 +17,38 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dan/atau Pasal 86 ayat (2) dikenai sanksi administratif
-sesuai dengan Peraturan OJK mengenai pelaporan BPR
-dan BPR Syariah melalui sistem pelaporan OJK.
+(1) BPR atau BPR Syariah yang memperoleh izin perubahan
+status menjadi Kantor Cabang atau Sentra Keuangan
+Khusus harus melaksanakan pembukaan Kantor Cabang
+atau Sentra Keuangan Khusus paling lama 20 (dua puluh)
+hari kerja setelah tanggal izin dari OJK.
+(2) Dalam hal BPR atau BPR Syariah tidak melaksanakan
+perubahan status menjadi Kantor Cabang atau Sentra
+Keuangan Khusus dalam jangka waktu sebagaimana
+dimaksud pada ayat (1), izin yang telah diberikan menjadi
+batal dan tidak berlaku.
+(3) BPR atau BPR Syariah wajib mengumumkan pelaksanaan
+perubahan status menjadi Kantor Cabang atau Sentra
+Keuangan Khusus melalui papan pengumuman di kantor
+BPR atau BPR Syariah yang disetujui perubahan
+statusnya paling lama 5 (lima) hari kerja setelah BPR atau
+BPR Syariah memperoleh izin dari OJK.
 
-BAB VI
-PERUBAHAN NAMA DAN BENTUK BADAN HUKUM
+-----
 
-Bagian Kesatu
-Perubahan Nama
+(4) BPR atau BPR Syariah wajib menyampaikan laporan
+pelaksanaan perubahan status menjadi Kantor Cabang
+atau Sentra Keuangan Khusus secara daring melalui
+sistem pelaporan OJK pada periode laporan tanggal
+pelaksanaan pembukaan Kantor Cabang atau Sentra
+Keuangan Khusus, disertai dengan bukti pengumuman
+sebagaimana dimaksud pada ayat (3).
+(5) Dalam hal sistem pelaporan OJK secara daring belum
+tersedia, BPR atau BPR Syariah wajib menyampaikan
+laporan sebagaimana dimaksud pada ayat (4) secara luring
+paling lama 10 (sepuluh) hari kerja setelah tanggal
+pelaksanaan pembukaan Kantor Cabang atau Sentra
+Keuangan Khusus.
 
 ## Penjelasan Resmi
 

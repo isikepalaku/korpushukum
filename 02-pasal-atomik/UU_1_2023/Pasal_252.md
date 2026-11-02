@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '252'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -28,5 +28,11 @@ Bagian Ketiga Tidak Melaporkan atau Memberitahukan Adanya Orang yang Hendak Mela
 Paragraf 1 Tidak Melaporkan Adanya Permufakatan Jahat
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Ketentuan ini dimaksudkan untuk mencegah praktik main hakim sendiri yang dilakukan oleh warga. terhadap seseorang yang menyatakan dirinya mempunyai kekuatan gaib dan mampu melalrukan perbuatan yang dapat menimbulkan penderitaan bagi orang lain.
+
+**Ayat(21**
 
 Cukup jelas.

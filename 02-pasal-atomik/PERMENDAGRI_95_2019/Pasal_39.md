@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Administrator perangkat keras Pusat Data sebagaimana 
-dimaksud dalam Pasal 30 huruf k, melekat pada jabatan 
+dimaksud dalam
+
+Pasal 30
+huruf k, melekat pada jabatan 
 fungsional umum yang membidangi infrastruktur pada 
 Pusat Data. 
 www.peraturan.go.id

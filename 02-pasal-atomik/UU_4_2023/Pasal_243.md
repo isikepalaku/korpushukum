@@ -19,6 +19,8 @@ mengamandemen: []
 
 Pemerintah, Bank Indonesia, dan Otoritas Jasa Keuangan melakukan koordinasi dalam rangka Pelindungan Konsumen di sektor keuangan.
 
+Pasal 244 ...
+
 ## Penjelasan Resmi
 
 Pelindungan Konsumen termasuk pengaturan dan pengawasan Pelindungan Konsumen, penanganan pengaduan Konsumen, penyelesaian sengketa, dan edukasi Konsumen.

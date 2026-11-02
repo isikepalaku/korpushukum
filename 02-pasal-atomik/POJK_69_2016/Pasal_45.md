@@ -18,9 +18,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1) dan ayat (2), Pasal 47, Pasal 48 ayat (1)
+ayat (1) dan ayat (2),
 
-dan ayat (2), Pasal 49, Pasal 50, Pasal 51 ayat (2),
+Pasal 47, Pasal 48 ayat (1)
+
+dan ayat (2),
+
+Pasal 49, Pasal 50, Pasal 51 ayat (2),
 
 ## Penjelasan Resmi
 

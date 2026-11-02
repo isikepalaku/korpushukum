@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '506'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Setiap Orang yang dengan maksud mengr:ntungkan diri sendiri atau or€rng lain s
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+keuntungan yang dapat diharapkan.

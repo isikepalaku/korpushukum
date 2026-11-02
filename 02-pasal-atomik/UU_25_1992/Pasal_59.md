@@ -19,7 +19,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Organisasi yang dibentuk sebagaimana dimaksud dalam Pasal 57 ayat
+Organisasi yang dibentuk sebagaimana dimaksud dalam
+
+Pasal 57
+ayat
 (1) disahkan oleh Pemerintah.
 
 BAB XII

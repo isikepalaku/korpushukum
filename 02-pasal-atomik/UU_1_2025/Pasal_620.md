@@ -17,9 +17,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai pembentukan Anak Usaha BUMN sebagaimana dimaksud dalam Pasal 62M
+Ketentuan lebih lanjut mengenai pembentukan Anak Usaha BUMN sebagaimana dimaksud dalam
 
-dan Pasal 62N diatur dalam Peraturan Menteri.
+Pasal 62M
+
+dan
+
+Pasal 62N diatur dalam Peraturan Menteri.
 
 112. Bagian Pertama Bab VI diubah sehingga berbunyi sebagai berikut:
 

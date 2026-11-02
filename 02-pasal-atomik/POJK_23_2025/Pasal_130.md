@@ -30,8 +30,7 @@ Lampiran bagian L dan bagian M
 
 Dihapus.
 
-Pasal II
-
+Pasal 11
 Angka 1
 
 Cukup jelas.
@@ -56,7 +55,9 @@ Sebelum peraturan dan tata tertib Bursa terkait perdagangan
 derivatif Aset Keuangan Digital berlaku, Pedagang yang telah
 melakukan pemberitahuan untuk melaksanakan kegiatan jual
 dan/atau beli derivatif Aset Keuangan Digital atas amanat
-Konsumen sebagaimana dimaksud pada Pasal 51A ayat (1)
+Konsumen sebagaimana dimaksud pada
+
+Pasal 51A ayat (1)
 tunduk pada ketentuan pialang berjangka pada peraturan dan
 tata tertib Bursa dan peraturan dan tata tertib Lembaga Kliring
 Penjaminan dan Penyelesaian tentang perdagangan berjangka

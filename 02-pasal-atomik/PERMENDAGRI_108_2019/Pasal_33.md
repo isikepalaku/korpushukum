@@ -24,7 +24,10 @@ Negara
 Kesatuan 
 Republik 
 Indonesia 
-sebagaimana dimaksud dalam Pasal 27 huruf c, terdiri 
+sebagaimana dimaksud dalam
+
+Pasal 27
+huruf c, terdiri 
 dari: 
 a. Orang Asing yang memiliki Izin Tinggal Tetap; dan 
 b. Orang Asing yang memiliki Izin Tinggal Terbatas. 

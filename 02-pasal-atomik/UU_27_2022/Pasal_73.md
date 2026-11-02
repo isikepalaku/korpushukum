@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan sebagaimana dimaksud dalam Pasal 7L dan Pdsal 72 juga berlaku dalam hal penjatuhan pidana tambahan berupa pembayaran ganti kerugian. 
+Ketentuan sebagaimana dimaksud dalam
+
+Pasal 7L
+dan Pdsal 72 juga berlaku dalam hal penjatuhan pidana tambahan berupa pembayaran ganti kerugian. 
 
 ###### BAB XV 
 

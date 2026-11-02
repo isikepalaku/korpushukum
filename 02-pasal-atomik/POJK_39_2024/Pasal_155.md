@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan wajib menyerahkan perjanjian
-sebagaimana dimaksud dalam Pasal 153 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 153
+ayat (2)
 kepada Nasabah.
 (2) Perusahaan wajib mengadministrasikan, menyimpan,
 dan memelihara salinan perjanjian sebagaimana

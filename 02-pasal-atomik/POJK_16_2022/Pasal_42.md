@@ -17,9 +17,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dikenai sanksi administratif berupa teguran tertulis.
-(2) Bank yang terlambat memenuhi kewajiban
-penyampaian informasi sebagaimana dimaksud dalam
+Bank wajib menginformasikan perubahan modal dasar Bank
+kepada OJK paling lama 10 (sepuluh) hari kerja setelah
+tanggal persetujuan perubahan anggaran dasar dari instansi
+yang berwenang, disertai dokumen tercantum dalam
+Lampiran I yang merupakan bagian tidak terpisahkan dari
+Peraturan OJK ini.
+
+-----
 
 ## Penjelasan Resmi
 

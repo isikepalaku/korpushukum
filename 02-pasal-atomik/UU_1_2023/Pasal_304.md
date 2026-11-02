@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '304'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Setiap Orang yang Di Muka Umum melakukan penghinaan terhadap orang yang sedang m
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Seseorang atau umat yang sedang menjalankan atau memimpin ibadah atau seorang petugas agama atau kepercayaan yang sedang melakukan tugasnya harus dihormati. Karena itu, perbuatan mengejek atau mengolok-olok hal tersebut patut dipidana karena melanggar asas hidup bermasyarakat yang menghormati kebebasan memeluk agama atau kepercayaan dan kebebasan dalam menjalankan ibadah, di samping dapa.t menimbulkan benturan dalam dan di antara kelompok masyarakat.

@@ -17,25 +17,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-109 ayat (4), Pasal 114 ayat (1), Pasal 127 ayat (1), Pasal
-128 ayat (3), dan/atau ayat (4) pihak utama BPR atau BPR
-Syariah dikenai sanksi administratif berupa:
-a. larangan sebagai pihak utama sesuai dengan
-Peraturan OJK mengenai penilaian kembali bagi
-pihak utama lembaga jasa keuangan; dan/atau
-
------
-
-b. penundaan pembayaran dividen sampai dengan PSP
-melakukan Penggabungan atau Peleburan.
-(4) Selain sanksi administratif sebagaimana dimaksud pada
-ayat (1) dan/atau ayat (2), BPR, BPR Syariah, dan/atau
-PSP dapat dikenai sanksi administratif berupa denda
-paling sedikit Rp10.000.000,00 (sepuluh juta rupiah) dan
-paling banyak Rp100.000.000,00 (seratus juta rupiah)
-untuk setiap pelanggaran yang dilakukan.
-(5) BPR atau BPR Syariah yang melanggar ketentuan
-sebagaimana dimaksud dalam Pasal 114 ayat (2) dan/atau
+(1) Penggabungan, Peleburan, dan Pengambilalihan BPR atau
+BPR Syariah dapat dilakukan atas:
+a. inisiatif BPR atau BPR Syariah; atau
+b. perintah OJK.
+(2) Penggabungan, Peleburan, dan Pengambilalihan
+sebagaimana dimaksud pada ayat (1) wajib memperoleh
+izin dari OJK.
 
 ## Penjelasan Resmi
 

@@ -26,9 +26,10 @@ mengamandemen: []
 
  (2) Bank sebagaimana dimaksud pada ayat (1) wajib
 
- memenuhi ketentuan sebagaimana dimaksud dalam Pasal
+ memenuhi ketentuan sebagaimana dimaksud dalam
 
- 9 huruf a, huruf b, dan huruf c dalam jangka waktu paling
+Pasal 9
+huruf a, huruf b, dan huruf c dalam jangka waktu paling
 
  lama 2 (dua) bulan sejak LPS beroperasi secara efektif.
 

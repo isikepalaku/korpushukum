@@ -14,7 +14,6 @@ diamandemen_oleh:
 mengamandemen:
 - '[[02-pasal-atomik/UU_1_2013/Pasal_39|UU 1/2013 Pasal 39]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_39|UU 1/2016 Pasal 39]]'
-- '[[02-pasal-atomik/UU_10_2011/Pasal_39|UU 10/2011 Pasal 39]]'
 - '[[02-pasal-atomik/UU_2_2009/Pasal_39|UU 2/2009 Pasal 39]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_39|UU 21/2008 Pasal 39]]'
 - '[[02-pasal-atomik/UU_21_2011/Pasal_39|UU 21/2011 Pasal 39]]'
@@ -34,7 +33,10 @@ mengamandemen:
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai badan pengelola instrumen keuangan (special purpose vehicle) dan/atau pengelola dana perwalian (trustee) sebagaimana dimaksud dalam Pasal 34 sampai dengan Pasal 38 dan perlakuan perpajakannya diatur dalam Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai badan pengelola instrumen keuangan (special purpose vehicle) dan/atau pengelola dana perwalian (trustee) sebagaimana dimaksud dalam
+
+Pasal 34
+sampai dengan Pasal 38 dan perlakuan perpajakannya diatur dalam Peraturan Pemerintah.
 
 Paragraf 2 ...
 

@@ -4,7 +4,7 @@ judul: "Map of Content - Lembaga Keuangan Mikro"
 kode_uu: UU_1_2013
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_1_2013]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Lembaga Keuangan Mikro (UU_1_2013)
@@ -18,10 +18,10 @@ last_updated: 2026-11-01
 - [[Pasal_3]]: LKM bertujuan untuk:
 - [[Pasal_4]]: Pendirian LKM paling sedikit harus memenuhi persyaratan:
 - [[Pasal_5]]: (1) Bentuk badan hukum sebagaimana dimaksud dalam Pasal 4 huruf a
-- [[Pasal_6]]: 14, Pasal 18, Pasal 24, Pasal 27, Pasal 29 ayat (1), dan Pasal 30
+- [[Pasal_6]]: LKM dilarang dimiliki, baik langsung maupun tidak langsung, oleh warga
 - [[Pasal_7]]: (1) Sumber permodalan LKM disesuaikan dengan ketentuan peraturan
-- [[Pasal_8]]: 
-- [[Pasal_9]]: BAB IV
+- [[Pasal_8]]: LKM hanya dapat dimiliki oleh:
+- [[Pasal_9]]: (1) Sebelum menjalankan kegiatan usaha, LKM harus memiliki izin usaha
 - [[Pasal_10]]: Ketentuan lebih lanjut mengenai permodalan sebagaimana dimaksud
 - [[Pasal_11]]: (1) Kegiatan usaha LKM meliputi jasa pengembangan usaha dan
 - [[Pasal_12]]: (1) Penyaluran Pinjaman atau Pembiayaan dan pengelolaan Simpanan
@@ -33,14 +33,14 @@ last_updated: 2026-11-01
 - [[Pasal_18]]: LKM yang tempat kedudukan dan cakupan wilayah usahanya mengalami
 - [[Pasal_19]]: (1) Untuk menjamin Simpanan masyarakat pada LKM, Pemerintah
 - [[Pasal_20]]: Pengurus LKM dapat melakukan tukar-menukar informasi dan data
-- [[Pasal_21]]: (satu) tahun dan paling lama 3 (tiga) tahun serta pidana denda paling
+- [[Pasal_21]]: (1) Anggota dewan komisaris atau pengawas, direksi atau pengurus,
 - [[Pasal_22]]: (1) LKM dapat melakukan penggabungan atau peleburan dengan 1 (satu)
 - [[Pasal_23]]: (1) Dalam hal LKM mengalami kesulitan likuiditas dan solvabilitas yang
 - [[Pasal_24]]: Untuk kepentingan pengguna jasa, LKM harus menyediakan informasi
 - [[Pasal_25]]: Untuk perlindungan Penyimpan dan masyarakat, Otoritas Jasa Keuangan
 - [[Pasal_26]]: Otoritas Jasa Keuangan melakukan pelayanan pengaduan Penyimpan
 - [[Pasal_27]]: LKM wajib bertransformasi menjadi bank jika:
-- [[Pasal_28]]: terhadap LKM.
+- [[Pasal_28]]: (1) Pembinaan, pengaturan, dan pengawasan LKM dilakukan oleh
 - [[Pasal_29]]: (1) LKM wajib melakukan dan memelihara pencatatan dan/atau
 - [[Pasal_30]]: (1) LKM wajib menyampaikan kepada Otoritas Jasa Keuangan:
 - [[Pasal_31]]: Dalam rangka pembinaan dan pengawasan sebagaimana dimaksud dalam

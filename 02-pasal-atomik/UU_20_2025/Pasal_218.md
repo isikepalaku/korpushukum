@@ -31,7 +31,14 @@ mengamandemen: []
 **saudara ibu atau saudara bapak, juga mereka yang mempunyai hubungan karena perkawinan dan anak- anak saudara Terdakwa sampai dera-iat ketiga; dan/atau**
 **d. berstatus sebagai suami atau istri Terdakwa atau**
 
-**pernah sebagai suami atau istri Terdakwa.**
+**pernah sebagai suami atau istri Terdakwa.**Pasal 219. . .
+
+-----
+
+PRESIDEN
+R,EPUBUK INDONESIA
+
+**- 118 -**
 
 ## Penjelasan Resmi
 

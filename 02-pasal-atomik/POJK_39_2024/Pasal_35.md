@@ -19,12 +19,17 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan persetujuan rencana
-Pemisahan UUS sebagaimana dimaksud dalam Pasal
-34 ayat (2) dalam jangka waktu paling lambat 20 (dua
+Pemisahan UUS sebagaimana dimaksud dalam
+
+Pasal 34
+ayat (2) dalam jangka waktu paling lambat 20 (dua
 puluh) hari kerja sejak dokumen permohonan diterima
 secara lengkap.
 (2) Perusahaan Pergadaian yang melakukan Pemisahan
-UUS sebagaimana dimaksud dalam Pasal 34 ayat (1)
+UUS sebagaimana dimaksud dalam
+
+Pasal 34
+ayat (1)
 tetap dapat melakukan kegiatan usaha pergadaian dan
 kegiatan usaha pergadaian berdasarkan Prinsip
 Syariah sampai dengan Otoritas Jasa Keuangan
@@ -34,7 +39,10 @@ permohonan persetujuan Pemisahan UUS.
 sebagaimana dimaksud pada ayat (1), Otoritas Jasa
 Keuangan melakukan:
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud Pasal 34 ayat (2);
+sebagaimana dimaksud
+
+Pasal 34
+ayat (2);
 
 -----
 
@@ -49,7 +57,10 @@ e. analisis pemenuhan ketentuan peraturan
 perundang-undangan di bidang pergadaian
 Syariah.
 (4) Dalam hal terdapat kekurangan dokumen sebagaimana
-yang dimaksud dalam Pasal 34 ayat (2), Otoritas Jasa
+yang dimaksud dalam
+
+Pasal 34
+ayat (2), Otoritas Jasa
 Keuangan menyampaikan permintaan kelengkapan
 dokumen kepada Perusahaan.
 (5) Perusahaan harus menyampaikan kelengkapan

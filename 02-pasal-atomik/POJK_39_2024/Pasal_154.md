@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Perjanjian sebagaimana dimaksud dalam Pasal 153 ayat (1)
+Perjanjian sebagaimana dimaksud dalam
+
+Pasal 153
+ayat (1)
 wajib memenuhi ketentuan penyusunan perjanjian sesuai
 dengan peraturan perundang-undangan mengenai
 pelindungan konsumen dan masyarakat.

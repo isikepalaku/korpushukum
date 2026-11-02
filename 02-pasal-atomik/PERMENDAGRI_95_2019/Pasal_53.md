@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Lokasi Basis Data sebagaimana dimaksud dalam Pasal 3 ayat 
+Lokasi Basis Data sebagaimana dimaksud dalam
+
+Pasal 3
+ayat 
 (1) huruf e, diatur sesuai dengan ketentuan peraturan 
 perundang-undangan. 
  

@@ -17,7 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-- (1) Pelanggaran terhadap Ketentuan Pasal 15 ayat (2), Pasal 29, Pasal 30 ayat (1), Pasal 33 ayat (1), Pasal 36 ayat (1), Pasal 38 aya (2), Pasal 39 ayat (4), Pasal 58, Pasal 62 ayat (1) dan ayat (5), Pasal 67 ayat (1), Pasal 69 ayat (1) dan ayat (2), Pasal 71 ayat (1) dan ayat (6), Pasal 74 ayat (1), Pasal 77 ayat (1) dan ayat (4), Pasal 80 ayat (1), Pasal 82 ayat (1), Pasal 64 ayat (1), Pasal 87 ayat (1), Pasal 92 ayat (1), Pasal 99 ayat (1), Pasal 103 avat (1), Pasal 114 ayat (1), Pasal 115 ayat (1), Pasal 120 ayat (1), Pasal 123 ayat (1), Pasal 125 ayat (1), Pasal 126 ayat {1}, Pasal 129, Pasal 130 ayat (1) , Pasa! 133 ayat (1), Pasal 138 ayat (1), Pasal 139 ayat (1), Pasal 140, Pasal 142 ayat (1), Pasal 50 ayat (2), dan Pasal 165 ayat (1), ayat (2), dan ayat (3) dikenai sanksi administratif.
+- (1) Pelanggaran terhadap Ketentuan Pasal 15 ayat (2), Pasal 29, Pasal 30 ayat (1), Pasal 33 ayat (1), Pasal 36 ayat (1), Pasal 38 aya (2), Pasal 39 ayat (4), Pasal 58, Pasal 62 ayat (1) dan ayat (5), Pasal 67 ayat (1), Pasal 69 ayat (1) dan ayat (2), Pasal 71 ayat (1) dan ayat (6), Pasal 74 ayat (1), Pasal 77 ayat (1) dan ayat (4), Pasal 80 ayat (1), Pasal 82 ayat (1), Pasal 64 ayat (1), Pasal 87 ayat (1), Pasal 92 ayat (1), Pasal 99 ayat (1), Pasal 103 avat (1), Pasal 114 ayat (1), Pasal 115 ayat (1), Pasal 120 ayat (1), Pasal 123 ayat (1), Pasal 125 ayat (1), Pasal 126 ayat {1}, Pasal 129, Pasal 130 ayat (1) , Pasal 133 ayat (1), Pasal 138 ayat (1), Pasal 139 ayat (1), Pasal 140, Pasal 142 ayat (1), Pasal 50 ayat (2), dan Pasal 165 ayat (1), ayat (2), dan ayat (3) dikenai sanksi administratif.
 
 - (2) Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
 

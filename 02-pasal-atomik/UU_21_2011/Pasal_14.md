@@ -24,7 +24,10 @@ diangkat dan ditetapkan dengan Keputusan Presiden.
 
 (2) Pembagian tugas di antara anggota Dewan Komisioner
 
-sebagaimana dimaksud dalam Pasal 10 ayat (4) huruf b
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (4) huruf b
 sampai dengan huruf g diputuskan berdasarkan rapat
 Dewan Komisioner dan ditetapkan dengan Keputusan
 Dewan Komisioner.
@@ -35,9 +38,7 @@ Dewan Komisioner.
 
 - 14
 
-(3) Anggota Dewan Komisioner sebagaimana dimaksud Pasal
-
-10 ayat (4) huruf a sampai dengan huruf g diangkat
+(3) Anggota Dewan Komisioner sebagaimana dimaksud Pasal 10 ayat (4) huruf a sampai dengan huruf g diangkat
 untuk masa jabatan 5 (lima) tahun dan dapat diangkat
 kembali untuk 1 (satu) kali masa jabatan.
 

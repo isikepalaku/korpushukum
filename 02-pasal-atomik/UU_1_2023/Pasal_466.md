@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '466'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,5 +26,18 @@ mengamandemen: []
 - (5) Percobaan melakukan Tindak Pidana sebagaimana dimaksud pada ayat (1), tidak dipidana.
 
 ## Penjelasan Resmi
+
+Ayat (l)
+
+Kdtentuan ini tidak memberi perumusan mengenai pengertian penganiayaan. Hal ini diserahkan kepa.da penilaian hakim untuk memberikan interpretasi terhadap kasus yang dihadapi sesuai dengan perkembangan nilai-nilai sosial dan budaya serta perkembangan dunia kedokteran. Ini berarti bahwa pengertian penganiayaan tidak harus berarti terbatas pada penganiayaan fisik dan sebaliknya tidak setiap penderitaan fisik selalu diartikan sebagai penganiayaan.
+
+Dalam ketenhran ini juga tidak dicantumkan unsur "dengan seng4ia" karena hal tersebut sudah diatur dalam
+
+Pasal 36
+dan Pasal 54 huruf j dalam rangka pemberatan pidana.
+
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
+
+Ayat (s)
 
 Cukup jelas.

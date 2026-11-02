@@ -87,3 +87,5 @@ Ayat (4)
 Yang dimaksud dengan ”dapat diberikan kepada satu
 badan usaha”, memungkinkan untuk memberikan izin
 usaha kepada satu atau lebih badan usaha.
+
+Angka 16

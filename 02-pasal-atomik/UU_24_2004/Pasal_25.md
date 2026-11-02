@@ -18,7 +18,12 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-hasil penjualan saham bank setelah penyelamatan.
+Setelah persyaratan sebagaimana dimaksud dalam
+
+Pasal 24
+dipenuhi, RUPS menyerahkan segala hak dan wewenangnya
+
+ kepada LPS.
 
 ## Penjelasan Resmi
 

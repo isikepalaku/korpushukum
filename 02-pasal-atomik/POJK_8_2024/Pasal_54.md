@@ -17,28 +17,22 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-administratif berupa:
-a. peringatan tertulis;
-b. penurunan tingkat kesehatan; dan/atau
-c. larangan untuk memasarkan Produk Asuransi
-atau Produk Asuransi dengan Prinsip Syariah
-untuk lini usaha tertentu.
-(2) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 52 ayat (2) Pasal 53 ayat (1) dan
-dikenai sanksi administratif tambahan berupa denda
-administratif sebesar Rp100.000.000,00 (seratus juta
-rupiah).
-(3) Dalam hal terjadi pelanggaran ketentuan sebagaimana
-dimaksud pada ayat (1) namun pelanggaran telah
-diperbaiki, Otoritas Jasa Keuangan memberikan
-sanksi peringatan tertulis yang berakhir dengan
-sendirinya.
-(4) Dalam hal pelanggaran atas ketentuan sebagaimana
-dimaksud pada ayat (1) telah dipenuhi, Otoritas Jasa
-Keuangan mencabut sanksi peringatan tertulis.
+(1) Perusahaan Asuransi dan Perusahaan Asuransi
+Syariah yang memasarkan Produk Asuransi Mikro
+melalui tenaga pemasar sebagaimana dimaksud dalam
 
-Bagian Ketiga
-Penilaian Kembali terhadap Pihak Utama
+Pasal 48
+ayat (1) huruf e wajib menyelenggarakan atau
+mengadakan pelatihan bagi tenaga pemasar dimaksud.
+(2) Pelatihan sebagaimana dimaksud pada ayat (1) paling
+sedikit mencakup:
+a. pelatihan mengenai Produk Asuransi Mikro yang
+akan dipasarkan; dan
+b. pelatihan mengenai pengetahuan dasar asuransi.
+(3) Ketentuan lebih lanjut mengenai pemasaran Produk
+Asuransi Mikro melalui tenaga pemasar sebagaimana
+dimaksud pada ayat (1) ditetapkan oleh Otoritas Jasa
+Keuangan.
 
 ## Penjelasan Resmi
 

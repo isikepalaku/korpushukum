@@ -20,8 +20,9 @@ mengamandemen: []
 (1) 
 Kementerian melalui Direktorat Jenderal Kependudukan 
 dan Pencatatan Sipil, melakukan pengkajian terhadap 
-seluruh unsur SIAK sebagaimana dimaksud dalam Pasal 
-3. 
+seluruh unsur SIAK sebagaimana dimaksud dalam
+
+Pasal 3. 
 (2) 
 Pemerintah daerah provinsi melalui dinas kependudukan 
 dan pencatatan sipil provinsi dan pemerintah daerah 

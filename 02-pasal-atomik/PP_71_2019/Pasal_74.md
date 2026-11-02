@@ -21,4 +21,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-
+Cukupjelas.

@@ -17,7 +17,15 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+Perusahaan Asuransi yang menyelenggarakan dan
+memasarkan Produk Asuransi Mikro wajib menerbitkan
+Polis Asuransi yang memuat ketentuan sebagaimana
+dimaksud dalam
 
+Pasal 12
+huruf a, huruf b, huruf c, huruf
+d, huruf f, huruf g huruf h, huruf l, huruf m, huruf n, huruf
+p, huruf q, dan huruf s.
 
 ## Penjelasan Resmi
 

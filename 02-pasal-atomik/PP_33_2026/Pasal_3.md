@@ -27,6 +27,10 @@ mengamandemen: []
 
  - c. kegiatan pemrosesan Data Pribadi yang tidak diperuntukkan bagi publik.
 
+Pasal 4. .
+
+**PRESIDEN REPUBLIK INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

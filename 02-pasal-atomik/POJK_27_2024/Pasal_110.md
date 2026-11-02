@@ -17,8 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Laporan insidental sebagaimana dimaksud dalam Pasal
-107 ayat (1) huruf b meliputi:
+(1) Laporan insidental sebagaimana dimaksud dalam Pasal 107 ayat (1) huruf b meliputi:
 a. perubahan nama;
 b. perubahan alamat;
 c. pembukaan kantor cabang atau kantor selain

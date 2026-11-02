@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pembubaran Perum yang dilakukan berdasarkan ketentuan sebagaimana dimaksud dalam Pasal 86E ayat (1) huruf a diusulkan oleh kepala BP BUMN kepada Presiden setelah berkonsultasi dengan alat kelengkapan DPR RI yang membidangi BUMN.
+Pembubaran Perum yang dilakukan berdasarkan ketentuan sebagaimana dimaksud dalam
+
+Pasal 86E ayat (1) huruf a diusulkan oleh kepala BP BUMN kepada Presiden setelah berkonsultasi dengan alat kelengkapan DPR RI yang membidangi BUMN.
 
 80. Ketentuan Pasal 86G diubah sehingga berbunyi sebagai berikut:
 

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan penerbitan efek melalui penawaran umum
-sebagaimana dimaksud dalam Pasal 182 ayat (1) huruf d
+sebagaimana dimaksud dalam
+
+Pasal 182
+ayat (1) huruf d
 mengacu ketentuan peraturan perundang-undangan di
 bidang pasar modal.
 

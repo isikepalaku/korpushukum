@@ -42,7 +42,10 @@ negeri yang memutus pada tingkat pertama.
 **diberitahukan kepada Terdakwa dan Penuntut Umum oleh panitera pengadilan negeri dan selanjutnya pemberitahuan tersebut dicatat dalam salinan putusan pengadilan tinggi.**
 **(9) Ketentuan mengenai putusan pengadilan negeri**
 
-sebagaimana dimaksud dalam Pasal 250 berlaku juga
+sebagaimana dimaksud dalam
+
+Pasal 250
+berlaku juga
 bagi putusan pengadilan tinggi.
 **(10) Da1am hal Terdakwa bertempat tinggal di luar daerah**
  hukum pengadilan negeri, panitera meminta bantuan

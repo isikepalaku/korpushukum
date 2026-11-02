@@ -21,6 +21,10 @@ mengamandemen: []
 
 - (2) Kewajiban menjaga kerahasiaan Data Pribadi sebagaimana dimaksud pada ayat (1), termasuk memastikan Prosesor Data Pribadi yang ditunjuk oleh Pengendali Data Pribadi mampu mendukung kewajiban Pengendali Data Pribadi dalam menjaga kerahasiaan Data Pribadi.
 
+Pasal 126...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

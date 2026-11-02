@@ -25,6 +25,10 @@ mengamandemen: []
 
 - (2) Kewajiban pemberitahuan kepada masyarakat sebagaimana dimaksud pada ayat (1) dilaksanakan stcara umum melalui media elektronik dan/atau fhonelektronik.
 
+Pasal 116...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

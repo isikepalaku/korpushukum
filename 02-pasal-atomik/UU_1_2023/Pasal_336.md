@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '336'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -27,5 +27,25 @@ Dipidana dengan pidana penjara paling lama 6 (enam) Bulan atau pidana denda pali
 - e. memelihara hewan buas yang berbahaya tidak melaporkan kepada Pejabat yang berwenang.
 
 ## Penjelasan Resmi
+
+Hurufa
+
+Yang dimaksud dengan "mengusik hewan" adalah membuat hewan bereaksi panik sehingga menyebabkan hewan tersebut agresif, menimbulkan kegelisahan, ketakutan pada hewan yang dapat membahayakan manusia, hewan, dan Barang.
+
+Huruf b
+
+Cukup jelas.
+
+Hurufc
+
+Cukup jelas.
+
+Hurufd
+
+Cukup jelas.
+
+Huruf e. ..
+
+Hurufe
 
 Cukup jelas.

@@ -56,8 +56,76 @@ dimaksud pada ayat (1) huruf b dilaksanakan
 sesuai dengan ketentuan peraturan perundangundangan di bidang perkoperasian.
 
 3. Di antara Pasal 2 dan Pasal 3 disisipkan 2 (dua) pasal,
-yakni Pasal 2A dan Pasal 2B yakni Pasal 2A sehingga
+yakni Pasal 2A dan
+
+Pasal 2B yakni Pasal 2A sehingga
 berbunyi sebagai berikut:
+
+Pasal 2A
+(1) PMV atau PMVS wajib memiliki paling sedikit 1
+(satu) PSP.
+(2) PMV atau PMVS berbentuk perseroan terbatas
+wajib menetapkan badan hukum, orang
+perseorangan, dan/atau kelompok usaha yang
+memiliki:
+a. jumlah nominal saham atau modal PMV atau
+PMVS sebesar 25% (dua puluh lima persen)
+atau lebih dari jumlah nominal saham yang
+dikeluarkan dan mempunyai hak suara; atau
+b. jumlah nominal saham atau modal PMV atau
+PMVS kurang dari 25% (dua puluh lima
+persen) dari jumlah nominal saham yang
+dikeluarkan dan mempunyai hak suara,
+namun yang bersangkutan dapat dibuktikan
+telah melakukan pengendalian Perusahaan
+baik secara langsung maupun tidak langsung,
+sebagai PSP.
+(3) PMV atau PMVS berbentuk koperasi wajib
+menetapkan paling sedikit 1 (satu) PSP melalui
+mekanisme rapat anggota atau mekanisme lain
+dilaksanakan sesuai dengan ketentuan peraturan
+perundang-undangan di bidang perkoperasian.
+(4) Dalam hal pemegang saham yang memenuhi
+kriteria sebagai PSP lebih dari 1 (satu) pihak, PMV
+atau PMVS wajib menetapkan semua pemegang
+saham yang memenuhi kriteria sebagai PSP
+tersebut menjadi PSP.
+(5) Dalam hal terdapat PSP lain yang belum
+ditetapkan oleh PMV atau PMVS, Otoritas Jasa
+Keuangan berwenang menetapkan PSP di luar PSP
+sebagaimana dimaksud pada ayat (1).
+(6) Tata cara penetapan PSP oleh Otoritas Jasa
+Keuangan sebagaimana dimaksud pada ayat (1)
+dikecualikan dari Peraturan Otoritas Jasa
+Keuangan mengenai penilaian kemampuan dan
+kepatutan bagi pihak utama lembaga jasa
+keuangan.
+
+Pasal 2B
+(1) PMV atau PMVS wajib menetapkan pemilik
+manfaat dari PMV atau PMVS.
+(2) Penetapan pemilik manfaat PMV atau PMVS
+dilaksanakan sesuai dengan ketentuan peraturan
+perundang-undangan yang mengatur mengenai
+penerapan prinsip mengenali pemilik manfaat dari
+korporasi dalam rangka penerapan program anti
+pencucian uang, pendanaan terorisme, pendanaan
+
+-----
+
+proliferasi senjata pemusnah massal, dan dan
+kejahatan keuangan lain.
+(3) PMV atau PMVS wajib menyampaikan laporan atas
+penetapan pemilik manfaat sebagaimana
+dimaksud pada ayat (1) atau perubahan pemilik
+manfaat, paling lambat 10 (sepuluh) hari kerja
+setelah dilakukannya penetapan atau perubahan
+atas pemilik manfaat PMV atau PMVS.
+(4) OJK dapat menetapkan pihak yang memenuhi
+syarat sebagai pemilik manfaat PMV atau PMVS.
+
+4. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai
+berikut:
 
 ## Penjelasan Resmi
 
@@ -99,3 +167,40 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
+
+Angka 3
+
+Pasal 2A
+
+Cukup jelas.
+
+Pasal 2B
+
+Ayat (1)
+
+Cukup jelas.
+Ayat (2)
+
+Cukup jelas.
+Ayat (3)
+
+Cukup jelas.
+Ayat (4)
+
+Pemilik manfaat biasa dikenal sebagai _beneficial_
+_owner._
+Yang dimaksud dengan”pihak yang memenuhi
+syarat sebagai pemilik manfaat PMV atau PMVS”
+adalah pihak yang berdasarkan identifikasi dan
+verifikasi atas identitas yang dilakukan oleh
+Otoritas Jasa Keuangan dapat dibuktikan bahwa
+
+-----
+
+pihak dimaksud memiliki kemampuan
+mengendalikan PMV atau PMVS atau perikatan
+lainnya, antara lain, penunjukan Direksi dan/atau
+Dewan Komisaris, meskipun pihak dimaksud tidak
+dilihat dari struktur kepemilikan.
+
+Angka 4

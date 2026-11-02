@@ -18,7 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Berkaitan dengan kewenangan di bidang perizinan sebagaimana dimaksud dalam Pasal 24, Bank Indonesia :
+Berkaitan dengan kewenangan di bidang perizinan sebagaimana dimaksud dalam
+
+Pasal 24, Bank Indonesia :
 
  a. memberikan dan mencabut izin usaha Bank;
 

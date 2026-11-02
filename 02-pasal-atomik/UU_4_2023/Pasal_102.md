@@ -25,7 +25,10 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Ayat (1) Cukup jelas. Ayat (2) Lembaga Penjamin Simpanan dapat melakukan pemisahan pencatatan program penjaminan polis bagi Perusahaan Asuransi dan Perusahaan Asuransi Syariah dengan mempertimbangkan kesiapan industri asuransi syariah dan kesiapan penyelenggara program penjaminan polis. Ayat (3) Cukup jelas. Pasal 103 Cukup jelas. Pasal 104 Cukup jelas. Pasal 105 Pasa162 Ayat (1) Cukup jelas. Ayat (2) Konsolidasi penjaminan dilakukan dalam upaya untuk memperkuat ekosistem penjaminan yang efektif, efisien, sehat, dan berdaya saing, serta memberikan daya dukung bagi perekonomian nasional. Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Ayat (4) Cukup jelas. Pasal 106 Ayat (1) Huruf a Cukup jelas.
+Ayat (1) Cukup jelas. Ayat (2) Lembaga Penjamin Simpanan dapat melakukan pemisahan pencatatan program penjaminan polis bagi Perusahaan Asuransi dan Perusahaan Asuransi Syariah dengan mempertimbangkan kesiapan industri asuransi syariah dan kesiapan penyelenggara program penjaminan polis. Ayat (3) Cukup jelas.
+
+Pasal 103
+Cukup jelas. Pasal 104 Cukup jelas. Pasal 105 Pasal 62 Ayat (1) Cukup jelas. Ayat (2) Konsolidasi penjaminan dilakukan dalam upaya untuk memperkuat ekosistem penjaminan yang efektif, efisien, sehat, dan berdaya saing, serta memberikan daya dukung bagi perekonomian nasional. Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Ayat (4) Cukup jelas. Pasal 106 Ayat (1) Huruf a Cukup jelas.
 ```
 
 Huruf b ...
@@ -82,7 +85,10 @@ Cukup jelas.
 
 Cukup jelas.
 
-Huruf d Huruf e Ayat (6) Cukup jelas. Pasal 107 Cukup jelas. Pasal 108 Cukup jelas. Pasal 109 Cukup jelas. Pasal 110 Ayat (1) Cukup jelas.
+Huruf d Huruf e Ayat (6) Cukup jelas.
+
+Pasal 107
+Cukup jelas. Pasal 108 Cukup jelas. Pasal 109 Cukup jelas. Pasal 110 Ayat (1) Cukup jelas.
 
 Ayat (2)
 

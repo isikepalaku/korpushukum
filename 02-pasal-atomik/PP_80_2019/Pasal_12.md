@@ -29,6 +29,10 @@ mengamandemen: []
 
  - (1) diatur dengan Peraturan Menteri.
 
+Pasal 13. . .
+
+PRESIDEN REPUELIK INDONESIA -9-
+
 ## Penjelasan Resmi
 
 Cukupjelas.

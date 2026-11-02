@@ -34,7 +34,10 @@ rangka mengatasi kesulitan likuiditas bagi LKM lain dalam wilayah
 kabupaten/kota yang sama; dan
 
 f. melakukan usaha di luar kegiatan usaha sebagaimana dimaksud
-dalam Pasal 11 ayat (1).
+dalam
+
+Pasal 11
+ayat (1).
 
 ## Penjelasan Resmi
 

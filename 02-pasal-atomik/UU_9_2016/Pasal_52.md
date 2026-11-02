@@ -18,8 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penetapan Bank Sistemik sebagaimana dimaksud dalam Pasal
-17 ayat (2) dilakukan paling lambat 3 (tiga) bulan sejak
+Penetapan Bank Sistemik sebagaimana dimaksud dalam
+
+Pasal 17
+ayat (2) dilakukan paling lambat 3 (tiga) bulan sejak
 diundangkannya Undang-Undang ini.
 
 BAB VIII

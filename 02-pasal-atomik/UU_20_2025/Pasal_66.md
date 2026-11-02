@@ -18,7 +18,11 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(l) Denda damai sebagaimana dimaksud dalam**
+**(l) Denda damai sebagaimana dimaksud dalam**Pasal 65 huruf i merupakan mekanisme penghentian
+**perkara di luar pengadilan dengan membayar denda yang disetujui oleh Jaksa Agung sesuai dengan**
+ ketentuan peraturan perundang-undangan. (21 Ketentuan lebih lanjut mengenai tata cara pelaksanaan
+
+denda damai diatur dalam Peraturan Pemerintah.
 
 ## Penjelasan Resmi
 

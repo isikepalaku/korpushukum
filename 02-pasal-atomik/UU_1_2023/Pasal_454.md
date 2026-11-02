@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '454'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -29,4 +29,17 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Cukup jelas. Ayat (2)
+
+Pengertian "membawa pergi perempuan" atau "melarikan perempuan" dalam ketentuan ini berbeda dengan "penculikan" dalam
+
+Pasal 450
+dan "penyanderaan" dalam Pasal 451.
+
+Tindakan membawa pergi perempuan umufirnya terjadi antara laki-laki $ang melarikan) dan perempuan $ang dilarikan) berkaitan dengan hubungan cinta, dan karena itu perbuatan tersebut dilakukan atas persetujuan pihak perempuan.
+
+Unsur Tindak Pidana pada ayat ini dikaitkan dengan umur yang belum dewasa dari perempuan yang dibawa perg. Di samping unsur di bawah umur, yang perlu diperhatikan yaitu yang bersangkutan masih berada dalam pengawasan Orang T\ra atau walinya.
+
+Unsur Tindak Pidana d:lam ketentueut ini tidak dikaitkan dengan umur perempuan yang dibawa lari, masih belum dewasa, atau masih di bawah umur, baik dalam status perkawinan ataupun tidak, tetapi jika perempuan tersebut dilarikan dengan tipu muslihat, Kekerasan atau dengan Ancaman Kekerasan, maka ancaman pidananya lebih berat.
+
+Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas.

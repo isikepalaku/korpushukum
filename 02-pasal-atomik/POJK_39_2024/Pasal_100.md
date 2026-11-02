@@ -17,34 +17,24 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-103 ayat (1), ayat (7), Pasal 104 ayat (1), ayat (10),
-dan/atau Pasal 107 dikenai sanksi administratif berupa
-denda administratif.
-(2) Sanksi administratif sebagaimana pada ayat (1) huruf b
-sampai dengan huruf d dapat dikenakan dengan atau
-tanpa didahului pengenaan sanksi administratif berupa
-peringatan tertulis sebagaimana dimaksud pada ayat
-(1) huruf a.
-(3) Sanksi denda administratif sebagaimana dimaksud
-pada ayat (1) huruf d dikenakan paling banyak
-Rp50.000.000,00 (lima puluh juta rupiah).
-(4) Dalam hal Perusahaan telah memenuhi ketentuan
-sebagaimana dimaksud pada ayat (1), Otoritas Jasa
-Keuangan mencabut sanksi administratif.
-(5) Dalam hal terjadi pelanggaran ketentuan sebagaimana
-dimaksud pada ayat (1) dan pelanggaran telah
-diperbaiki, Otoritas Jasa Keuangan memberikan sanksi
-peringatan tertulis yang berakhir dengan sendirinya.
-(6) Selain sanksi administratif sebagaimana dimaksud
-pada ayat (1), Otoritas Jasa Keuangan berwenang:
-a. melakukan penilaian kembali terhadap pihak
-utama yang menyebabkan Perusahaan melanggar
-ketentuan sebagaimana dimaksud pada ayat (1);
-dan/atau
-b. melakukan pencatatan rekam jejak terhadap pihak
-yang menyebabkan Perusahaan melanggar
-ketentuan sebagaimana dimaksud pada ayat (1)
-dalam sistem elektronik Otoritas Jasa Keuangan.
+Dalam hal Otoritas Jasa Keuangan memberikan persetujuan
+pencabutan izin usaha berdasarkan permintaan sendiri
+sebagaimana dimaksud dalam
+
+Pasal 99
+ayat (9), Perusahaan
+wajib:
+a. menghentikan seluruh kegiatan usaha Perusahaan;
+b. mengumumkan rencana penghentian kegiatan usaha
+dan rencana penyelesaian kewajiban Perusahaan dalam
+surat kabar harian selama 3 (tiga) hari berturut-turut
+paling lambat 15 (lima belas) hari kerja sejak tanggal
+surat persetujuan rencana pencabutan izin usaha
+berdasarkan permintaan sendiri; dan
+c. menunjuk akuntan publik untuk melakukan audit
+terhadap laporan posisi keuangan akhir termasuk
+melakukan verifikasi untuk memastikan penyelesaian
+seluruh hak dan kewajiban Perusahaan.
 
 ## Penjelasan Resmi
 

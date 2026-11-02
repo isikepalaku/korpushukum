@@ -19,8 +19,9 @@ mengamandemen: []
 
 (1) Bank BHI yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 97 ayat (1) dan/atau Pasal 99
+dimaksud dalam Pasal 97 ayat (1) dan/atau
 
+Pasal 99
 ayat (4) dikenai sanksi administratif berupa teguran
 
 tertulis.

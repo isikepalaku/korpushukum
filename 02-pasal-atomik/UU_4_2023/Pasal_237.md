@@ -43,7 +43,10 @@ Tidak termasuk penambahan modal tanpa hak memesan efek terlebih dahulu (private 
 Huruf c ...
 
 ```
-Huruf c Cukup jelas. Huruf d Cukup jelas. Pasal 238 Ayat (1)
+Huruf c Cukup jelas. Huruf d Cukup jelas.
+
+Pasal 238
+Ayat (1)
 ```
 
 Yang dimaksud dengan "keseimbangan" adalah pembuatan perjanjian dilakukan dengan mempertimbangkan kesetaraan hak dan kewajiban antara PUSK dengan Konsumen.

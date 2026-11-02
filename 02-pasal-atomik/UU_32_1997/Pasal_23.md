@@ -22,9 +22,9 @@ Ketentuan mengenai persyaratan dan tata cara pendirian, perizinan,
 
  penghentian, dan pembubaran Bursa Berjangka sebagaimana dimaksud
 
- dalam Pasal 12, Pasal 13, Pasal 14, Pasal 19, Pasal 20, Pasal 21 dan Pasal
+ dalam Pasal 12,
 
- 22 diatur lebih lanjut dengan Peraturan Pemerintah.
+Pasal 13, Pasal 14, Pasal 19, Pasal 20, Pasal 21 dan Pasal 22 diatur lebih lanjut dengan Peraturan Pemerintah.
 
  Bagian Kedua
 

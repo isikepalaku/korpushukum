@@ -26,7 +26,10 @@ di
 wilayah 
 Negara 
 Kesatuan Republik Indonesia sebagaimana dimaksud 
-dalam Pasal 66 huruf a, dengan memenuhi persyaratan 
+dalam
+
+Pasal 66
+huruf a, dengan memenuhi persyaratan 
 sesuai dengan ketentuan Peraturan Presiden mengenai 
 persyaratan dan tata cara Pendaftaran Penduduk dan 
 Pencatatan Sipil. 

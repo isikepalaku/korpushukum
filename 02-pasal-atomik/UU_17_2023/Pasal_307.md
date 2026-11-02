@@ -17,14 +17,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Putusan dari majelis sebagaimana dimaksud dalam Pasal 304 dapat diajukan peninjauan kembati kepada Menteri dalam hal:
+Putusan dari majelis sebagaimana dimaksud dalam
+
+Pasal 304
+dapat diajukan peninjauan kembati kepada Menteri dalam hal:
 
 - a. ditemukan bukti baru;
 - b. kesalahan penerapan pelanggaran disiplin; atau
 - c. terdapat dugaan konflik kepentingan pada pemeriksa dan yang diperiksa.
 
-## Pasal 3O8
-
+## Pasal 308
 - (1) Tenaga Medis atau Tenaga Kesehatan yang diduga melakukan perbuatan yang melanggar hukum dalam pelaksanaan Pelayanan Kesehatan yang dapat dikenai sanksi pidana, terlebih dahulu harus dimintakan rekomendasi dari majelis sebagaimana dimaksud dalam Pasal 304.
 
 ## NEPUELIK INDONESIA

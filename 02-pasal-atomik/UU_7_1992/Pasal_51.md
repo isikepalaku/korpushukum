@@ -20,6 +20,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Tindak pidana sebagaimana dimaksud dalam Pasal 46, Pasal 47,
+Pasal 48
+ayat (1),
+
+Pasal 49, dan Pasal 50 adalah kejahatan.
+
+(2) Tindak pidana sebagaimana dimaksud dalam Pasal 48 ayat (2)
+adalah pelanggaran.
 
 ## Penjelasan Resmi
 

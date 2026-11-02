@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Untuk melaksanakan tugas pengawasan sebagaimana
-dimaksud dalam Pasal 6, OJK mempunyai wewenang:
+dimaksud dalam
+
+Pasal 6, OJK mempunyai wewenang:
 
 a. menetapkan kebijakan operasional pengawasan terhadap
 kegiatan jasa keuangan;

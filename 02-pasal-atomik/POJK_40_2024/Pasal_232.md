@@ -22,11 +22,16 @@ Peraturan Otoritas Jasa Keuangan ini diundangkan,
 kewajiban terkait:
 a. pemuatan laporan keuangan tahunan yang telah
 diaudit oleh akuntan publik yang terdaftar di Otoritas
-Jasa Keuangan sebagaimana dimaksud dalam Pasal
-189 ayat (9) ke dalam situs web Penyelenggara; dan
+Jasa Keuangan sebagaimana dimaksud dalam
+
+Pasal 189
+ayat (9) ke dalam situs web Penyelenggara; dan
 b. pengungkapan hal audit utama dalam laporan
 keuangan tahunan yang telah diaudit oleh akuntan
-publik sebagaimana dimaksud dalam Pasal 190 ayat
+publik sebagaimana dimaksud dalam
+
+Pasal 190
+ayat
 (1),
 untuk pertama kali mulai berlaku pada periode laporan
 keuangan tahunan yang berakhir 31 Desember 2025.

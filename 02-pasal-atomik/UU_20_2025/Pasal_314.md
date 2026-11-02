@@ -23,7 +23,27 @@ mengamandemen: []
 **tetap dari pengadilan lain selain Mahkamah Agung dapat diajukan I (satu) kali permohonan kasasi demi kepentingan hukum oleh Jaksa Agung.**
 **(2) Putusan kasasi demi kepentingan hukum**
 
-**sebagaimana dimaksud pada ayat (l) tidak boleh merugikan pihak yang berkepentingan.**
+**sebagaimana dimaksud pada ayat (l) tidak boleh merugikan pihak yang berkepentingan.**Pasal 3 15
+**(1) Permohonan kasasi demi kepentingan hukum**
+
+**sebagaimana dimaksud dalam Pasal 314 ayat (1) disampaikan secara tertulis oleh Jaksa Agung kepada Mahkamah Agung melalui panitera pengadilan yang telah memutus perkara pada tingkat pertama, disertai risalah yang memuat alasan permintaan tersebut.**
+
+(2) Salinan . . .
+
+-----
+
+**-161 -**
+
+**l2l [Salinan ][risalah ][sebagaimana ] dimaksud [pada ]ayat (1)**
+
+**dalam jangka waktu paling lama 2 (dua) Hari oleh**
+**panitera disampaikan kepada pihak yang**
+**berkepentingan.**
+**(3) Ketua pengadilan sebagaimana dimaksud pada ayat (1)**
+
+**dalam jangka waktu paling lama 2 (dua) Hari**
+**meneruskan permintaan tersebut kepada**
+**Mahkamah Agung.**
 
 ## Penjelasan Resmi
 

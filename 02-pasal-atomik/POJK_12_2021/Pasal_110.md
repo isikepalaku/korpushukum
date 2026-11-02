@@ -27,8 +27,9 @@ menggunakan saluran elektronik dan/atau
 
 penyediaan TPE baik secara menyeluruh atau
 
-sebagian sebagaimana dimaksud dalam Pasal 57
+sebagian sebagaimana dimaksud dalam
 
+Pasal 57
 berlaku mutatis mutandis terhadap jaringan kantor
 
 KCBLN selain KCBLN.
@@ -39,7 +40,10 @@ kantor Bank BHI selain KP dan penyediaan TPE
 
 termasuk administrasi dokumen analisis sebagaimana
 
-dimaksud dalam Pasal 59 dan Pasal 90 berlaku
+dimaksud dalam Pasal 59 dan
+
+Pasal 90
+berlaku
 
 mutatis mutandis terhadap rencana pembukaan
 

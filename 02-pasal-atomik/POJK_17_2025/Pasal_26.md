@@ -23,7 +23,10 @@ lambat 5 (lima) hari kerja sejak terjadi perubahan
 kepemilikan.
 (2) Laporan sebagaimana dimaksud pada ayat (1) wajib
 disertai dengan dokumen sebagaimana dimaksud
-dalam Pasal 21 ayat (1) huruf b.
+dalam
+
+Pasal 21
+ayat (1) huruf b.
 
 Bagian Keenam
 Permohonan Persetujuan atas Perubahan Sistem

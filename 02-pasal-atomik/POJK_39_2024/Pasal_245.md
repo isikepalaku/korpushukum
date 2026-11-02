@@ -26,7 +26,10 @@ diundangkan, dinyatakan tetap berlaku sampai dengan
 perjanjian berakhir.
 (2) Perjanjian terkait kerja sama Perusahaan dengan pihak
 lain melalui Pinjaman penerusan atau Pinjaman
-bersama sebagaimana dimaksud dalam Pasal 157 ayat
+bersama sebagaimana dimaksud dalam
+
+Pasal 157
+ayat
 (1) yang telah ditandatangani sebelum Peraturan
 Otoritas Jasa Keuangan ini diundangkan, dinyatakan
 tetap berlaku sampai dengan perjanjian berakhir.

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penyelenggara pelabuhan pada Pelabuhan yang belum diusahakan secara komersial sebagaimana dimaksud dalam Pasal 81 ayat (1) mempunyai tugas dan tanggung jawab:
+Penyelenggara pelabuhan pada Pelabuhan yang belum diusahakan secara komersial sebagaimana dimaksud dalam
+
+Pasal 81
+ayat (1) mempunyai tugas dan tanggung jawab:
 
 - a. penyediaan lahan daratan dan perairan Pelabuhan;
 

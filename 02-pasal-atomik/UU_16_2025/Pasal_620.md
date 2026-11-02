@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai pembentukan Anak Usaha BUMN sebagaimana dimaksud dalam Pasal 62M dan Pasal 62N diatur dalam Peraturan BP BUMN.
+Ketentuan lebih lanjut mengenai pembentukan Anak Usaha BUMN sebagaimana dimaksud dalam Pasal 62M dan
+
+Pasal 62N diatur dalam Peraturan BP BUMN.
 
 70. Ketentuan Pasal 70 diubah sehingga berbunyi sebagai berikut:
 

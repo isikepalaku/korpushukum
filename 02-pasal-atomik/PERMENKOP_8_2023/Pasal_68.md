@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), Pasal 80 ayat (3), Pasal 80 ayat (4), Pasal 82,
+ayat (1),
+
+Pasal 80
+ayat (3), Pasal 80 ayat (4), Pasal 82,
 
 ## Penjelasan Resmi
 

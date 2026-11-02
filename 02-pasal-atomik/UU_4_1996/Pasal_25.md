@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Sepanjang tidak bertentangan dengan ketentuan dalam Undang-undang ini, semua peraturan perundang-undangan mengenai pembebanan Hak Tanggungan kecuali ketentuan-ketentuan sebagaimana dimaksud dalam Pasal 29 tetap berlaku sampai ditetapkannya peraturan pelaksanaan Undang-undang ini dan dalam penerapannya disesuaikan dengan ketentuan dalam Undang-undang ini.
+Sepanjang tidak bertentangan dengan ketentuan dalam Undang-undang ini, semua peraturan perundang-undangan mengenai pembebanan Hak Tanggungan kecuali ketentuan-ketentuan sebagaimana dimaksud dalam
+
+Pasal 29
+tetap berlaku sampai ditetapkannya peraturan pelaksanaan Undang-undang ini dan dalam penerapannya disesuaikan dengan ketentuan dalam Undang-undang ini.
 
 ## Penjelasan Resmi
 

@@ -22,6 +22,10 @@ saat Peraturan Otoritas Jasa Keuangan ini diundangkan,
 kewajiban terkait kualitas piutang Pinjaman dengan Benda
 Jaminan berdasarkan Gadai sebagaimana dimaksud dalam
 
+Pasal 175
+ayat (1) huruf a mulai berlaku tanggal 31
+Desember 2026.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

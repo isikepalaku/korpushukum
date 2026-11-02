@@ -22,6 +22,12 @@ Direksi/pengurus Lembaga Penjamin yang dengan sengaja
 memberikan laporan, informasi, data, dan/atau dokumen
 kepada Otoritas Jasa Keuangan sebagaimana dimaksud dalam
 
+Pasal 28
+ayat (1) secara tidak benar, palsu, dan/atau
+menyesatkan dipidana dengan pidana penjara paling lama 5
+(lima) tahun dan pidana denda paling banyak
+Rp10.000.000.000,00 (sepuluh miliar rupiah).
+
 ## Penjelasan Resmi
 
 Cukup jelas.

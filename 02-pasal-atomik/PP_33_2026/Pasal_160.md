@@ -39,6 +39,32 @@ SK No2744264
 
 - (4) Dalam hal transfer Data Pribadi lanjutan, Pengendali Data Pribadi dan/atau Prosesor Data Pribadi sebagaimana dimakeud pada ayat (2) harus tunduk pada kelentuan peraturan perundang-undangan.
 
+**Pasal 16]**
+
+Dalam melaksanakan transfer Data Pribadi sebagaimana dimakstid dalam
+
+Pasal 160, Pengendali Data Pribadi dan/atau Prosesor Data Pribadi harus:
+
+- a, melakukan perekaman dan pemetaan siklus transfer Data Pribaci dan implikasinya;
+
+- b, memastikan bahwa Data Pribadi yang ditransier cukup, relevan, dan terbatas sesuai dengan tujuan transfer Data Pribadi;
+
+- c. mengidentifikasi instrumen hukum yang digunakan sebagai rujukan untuk proses transfer Data Pribadi sesuai dengan ketentuan peraturan perundangundangan;
+
+- d. melakukan penilaian efektivitas instrumen hukum yang digunakan untuk proses transfer Data Pribadi yang akan dilakukan sebelum melakukan transfer Data Pribadi;
+
+- € menggunakan instrumen pelengkap apabila dibutuhkan, baik berupa instrumen kontraktual, teknis, dan/atau organisasional;
+
+- Eis menerapkan langkah prosedural yang dapat ditempuh jika akan menggunakan instrumen pelengkap; dan
+
+- g mengevaluasi ulang secara berkala dalam kurun waktu vang memadai.
+
+Pasal 162.
+
+PRESIDEN REPUBSLIK INDONESIA
+
+~B4-
+
 ## Penjelasan Resmi
 
 Cukup jelas.

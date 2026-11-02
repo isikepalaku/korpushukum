@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 39-2024 tentang Pergadaian
 kode_uu: POJK_29_2025
 pasal: '75'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_29_2025
@@ -18,10 +18,19 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan
-sebagaimana dimaksud dalam Pasal 63 ayat (1),
-ayat (2), ayat (6), Pasal 64 ayat (1), Pasal 65A ayat
+sebagaimana dimaksud dalam
+
+Pasal 63
+ayat (1),
+ayat (2), ayat (6),
+
+Pasal 64
+ayat (1), Pasal 65A ayat
 (1), ayat (4), Pasal 68 ayat (1), Pasal 69 ayat (5),
-ayat (7), ayat (9), Pasal 70 ayat (1), Pasal 72 ayat
+ayat (7), ayat (9),
+
+Pasal 70
+ayat (1), Pasal 72 ayat
 (2), ayat (4), Pasal 73 ayat (1), dan/atau Pasal 74
 ayat (1) dikenai sanksi administratif berupa:
 a. peringatan tertulis;
@@ -69,11 +78,12 @@ Perusahaan melanggar ketentuan
 sebagaimana dimaksud pada ayat (1) dalam
 sistem elektronik Otoritas Jasa Keuangan.
 
-18. Ketentuan ayat (6) Pasal 115 dihapus sehingga Pasal
-115 berbunyi sebagai berikut:
+18. Ketentuan ayat (6) Pasal 115 dihapus sehingga Pasal 115 berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
 Cukup jelas.
 
 -----
+
+Angka 18

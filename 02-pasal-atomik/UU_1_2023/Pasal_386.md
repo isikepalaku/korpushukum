@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '386'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,5 +24,11 @@ mengamandemen: []
 4. l2l Setiap Orang sebagaimana dimaksud pada ayat (1) dapat dijatuhi pidana tambahan berupa pengumuman putusan hakim sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf c.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Untuk menjamin keabsahan dan ketepatan ukuran, takaran, atau timbangan yang dipergunakan dalam perdagangan, terdapat ketentuan peraturan perundang-undangan yang mewajibkan Barang yang digunakan untuk mengukur, menakar dan menimbang (termasuk kelengkapannya) ditera oleh Pejabat yang berwenang untuk ihr. Kewajiban tera ini untuk mencegah terjadinya praktik perdagangan yang tidak sehat yang at&lt;an merugikan konsumen. Ketentuan ini dimaksudkan untuk mencegah terjadinya pemalsuan atas tera tersebut.
+
+Ayat (2)
 
 Cukup jelas.

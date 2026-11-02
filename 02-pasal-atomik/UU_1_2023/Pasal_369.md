@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang dalam masa damai, dengan salah satu cara sebagaimana dimaksud dalam Pasal 20 huruf b menganjurkan supaya terjadi huru-hara atau pemberontakan di kalangan Tentara Nasional Indonesia, atau dengan salah satu cara sebagaimana dimaksud dalam Pasal 2l ayat (1) memudahkan huru-hara atau pemberontakan, dipidana dengan pidana penjara paling lama 6 (enam) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori V.
+Setiap Orang yang dalam masa damai, dengan salah satu cara sebagaimana dimaksud dalam
+
+Pasal 20
+huruf b menganjurkan supaya terjadi huru-hara atau pemberontakan di kalangan Tentara Nasional Indonesia, atau dengan salah satu cara sebagaimana dimaksud dalam Pasal 2l ayat (1) memudahkan huru-hara atau pemberontakan, dipidana dengan pidana penjara paling lama 6 (enam) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori V.
 
 **PRESIDEN REPUBL|K INDONESIA**
 

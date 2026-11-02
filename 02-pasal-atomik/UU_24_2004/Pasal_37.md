@@ -26,7 +26,10 @@ mengamandemen: []
 
  melakukan penyetoran modal sebagaimana dimaksud
 
- dalam Pasal 33 huruf a.
+ dalam
+
+Pasal 33
+huruf a.
 
  (2) Biaya penanganan Bank Gagal yang dikeluarkan oleh LPS
 

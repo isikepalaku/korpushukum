@@ -20,12 +20,21 @@ mengamandemen: []
 
 **(l) Perintah untuk melepaskan Terdakwa dari tahanan**
 
-sebagaimana dimaksud dalam Pasal 244 ayat (4) dan
+sebagaimana dimaksud dalam
+
+Pasal 244
+ayat (4) dan
 **ayat (5) dilaksanakan oleh Penuntut Umum dalam waktu paling lama 1 (satu) Hari setelah putusan diucapkan.**
 **(2) Dalam waktu paling lama 3 (tiga) Hari setelah putusan**
 
 **diucapkan, Penuntut Umum harus membuat dan laporan tertulis kepada ketua pengadilan yang bersangkutan mengenai pelaksanaan perintah tersebut dengan melampirkan surat**
 pelepasan.
+
+Pasal 246. . .
+
+-----
+
+**- 130-**
 
 ## Penjelasan Resmi
 

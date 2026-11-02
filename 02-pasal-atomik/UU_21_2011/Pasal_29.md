@@ -33,6 +33,12 @@ dirugikan oleh pelaku di Lembaga Jasa Keuangan
 sesuai dengan peraturan perundang-undangan di
 sektor jasa keuangan.
 
+Pasal 30 ...
+
+-----
+
+- 23
+
 ## Penjelasan Resmi
 
 Dalam rangka penyelesaian pengaduan Konsumen, OJK dapat

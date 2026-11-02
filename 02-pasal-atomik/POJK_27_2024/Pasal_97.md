@@ -45,7 +45,10 @@ perdagangan di Pasar Aset Keuangan Digital
 
 Ayat (1)
 
-Lihat penjelasan Pasal 80 ayat (8).
+Lihat penjelasan
+
+Pasal 80
+ayat (8).
 Ayat (2)
 
 Cukup jelas.

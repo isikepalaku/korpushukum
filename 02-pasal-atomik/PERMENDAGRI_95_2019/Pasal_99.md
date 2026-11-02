@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) 
-Penyajian data sebagaimana dimaksud dalam Pasal 94 
+Penyajian data sebagaimana dimaksud dalam
+
+Pasal 94
 ayat (2) huruf b, disajikan berupa: 
 a. 
 data agregat kependudukan; 

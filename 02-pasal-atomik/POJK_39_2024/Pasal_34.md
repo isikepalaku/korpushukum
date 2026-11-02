@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Perusahaan Pergadaian yang akan melakukan
 Pemisahan UUS berdasarkan permintaan sendiri
-sebagaimana dimaksud dalam Pasal 28 ayat (1) wajib
+sebagaimana dimaksud dalam
+
+Pasal 28
+ayat (1) wajib
 memperoleh persetujuan dari Otoritas Jasa Keuangan.
 (2) Untuk memperoleh persetujuan rencana Pemisahan
 UUS sebagaimana dimaksud pada ayat (1), Direksi

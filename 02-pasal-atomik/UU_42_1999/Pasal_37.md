@@ -21,7 +21,10 @@ mengamandemen: []
  ada sebelum berlakunya Undang-undang ini, tetap berlaku sepanjang tidak bertentangan dengan Undang-undang ini.
 
  (2) Dalam jangka waktu selambat-lambatnya 60 (enam puluh) hari
- terhitung sejak berdirinya Kantor Pendaftaran Fidusia, semua perjanjian Jaminan Fidusia harus sesuai dengan ketentuan dalam Undang-undang ini, kecuali ketentuan mengenai kewajiban pembuatan akta Jaminan Fidusia sebagaimana dimaksud dalam pasal 5 ayat (1).
+ terhitung sejak berdirinya Kantor Pendaftaran Fidusia, semua perjanjian Jaminan Fidusia harus sesuai dengan ketentuan dalam Undang-undang ini, kecuali ketentuan mengenai kewajiban pembuatan akta Jaminan Fidusia sebagaimana dimaksud dalam
+
+Pasal 5
+ayat (1).
 
  (3) Jika dalam jangka waktu sebagaimana dimaksud dalam ayat (2)
  tidak dilakukan penyesuaian, maka perjanjian Jaminan Fidusia tersebut bukan merupakan hak agunan atas kebendaan sebagaimana dimaksud dalam Undang-undang ini.

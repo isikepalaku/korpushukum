@@ -25,6 +25,16 @@ PRESIDEN REFUELIK INDONESIA
 
 - (2) Setiap PMSE yang bersifat lintas negara wajib memenuhi ketentuan peraturan perrrndang-undangan yang mengatur ekspor atau impor dan peraturan perundangundangan di bidang informasi dan transaksi elektronik.
 
+Pasal 10
+- (1) Pihak yang melakukan PMSE atas Barang dan/atau Jasa yang berdampak terhadap kerentanan keamanan nasional harus mendapatkan seatitg clearance dari instansi yang berwenang.
+
+- (2) Jenis Barang dan/atau Jasa sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan peraturan perundangundangan.
+
+- (3) Tata cara mendapatkan seanritg clearance dilakukan sesuai dengan ketentuan peraturan perundangundangan.
+
+Pasal 11
+Setiap Pelaku Usaha yang melakukan PMSE wajib memenuhi persyaratan umum sesuai dengan ketentuan peraturan perundang-undangan.
+
 ## Penjelasan Resmi
 
 Ayat (1) 

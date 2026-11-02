@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) 
-Basis Data sebagaimana dimaksud dalam Pasal 4, 
+Basis Data sebagaimana dimaksud dalam
+
+Pasal 4, 
 merupakan 
 satu 
 kesatuan 

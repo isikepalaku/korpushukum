@@ -23,7 +23,10 @@ jaringan
 Pusat 
 Data 
 Cadangan 
-sebagaimana dimaksud dalam Pasal 30 huruf n, melekat 
+sebagaimana dimaksud dalam
+
+Pasal 30
+huruf n, melekat 
 pada 
 jabatan 
 fungsional 

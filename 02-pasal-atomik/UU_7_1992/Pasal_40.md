@@ -23,7 +23,9 @@ mengamandemen: []
 tentang keadaan keuangan dan hal-hal lain dari nasabahnya,
 yang wajib dirahasiakan oleh bank menurut kelaziman dalam
 dunia perbankan, kecuali dalam hal sebagaimana dimaksud
-dalam Pasal 41, Pasal 42, Pasal 43, dan Pasal 44.
+dalam Pasal 41,
+
+Pasal 42, Pasal 43, dan Pasal 44.
 
 (2) Ketentuan sebagaimana dimaksud dalam ayat (1) berlaku pula
 bagi pihak terafiliasi.

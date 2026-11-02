@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '358'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,5 +26,11 @@ mengamandemen: []
 Pengabaian terhadap Wajib Bela Negara
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Ketentuan ini dimaksudkan bahwa kewajiban Setiap Orang untuk membantu Pejabat yang berwenang dalam melaksanakan tugasnya sesuai dengan ketentuan peraturan perundang-undangan, seperti adanya bahaya lagi keamanan umum atau pada wakhr seseorang tertangkap tangan melakukan Tindak Pidana, dan sebagainya. Karena itu, perbuatan tidak membantu padahal perbuatan itu tidak akan membahayakan dirinya patut dicela.
+
+Ayat(21
 
 Cukup jelas.

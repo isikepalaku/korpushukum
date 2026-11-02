@@ -17,16 +17,28 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Denda administratif sebagaimana dimaksud pada ayat (1)
-paling banyak Rp 1.000.000,00 (satu juta rupiah).
-(3) Ketentuan
-lebih
-lanjut
-mengenai
-penetapan
-denda
-administratif sebagaimana dimaksud pada ayat (2) diatur
-dalam Peraturan Presiden.
+(1) Pencatatan Peristiwa Penting lainnya dilakukan oleh
+Pejabat Pencatatan Sipil atas permintaan Penduduk yang
+bersangkutan setelah adanya putusan pengadilan negeri
+yang telah memperoleh kekuatan hukum tetap.
+(2)
+ Pencatatan
+Peristiwa
+Penting
+lainnya
+sebagaimana
+dimaksud pada ayat (1) paling lambat 30 (tiga puluh) hari
+sejak diterimanya salinan penetapan pengadilan.
+(3) Ketentuan lebih lanjut mengenai persyaratan dan tata cara
+pencatatan
+Peristiwa
+Penting
+lainnya
+diatur
+dalam
+Peraturan Presiden.
+Bagian Kesebelas
+Pelaporan Penduduk yang Tidak Mampu Melaporkan Sendiri
 
 ## Penjelasan Resmi
 

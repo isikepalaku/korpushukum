@@ -18,9 +18,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 205 ayat (1), Pasal 206 ayat (2),
-ayat (3), Pasal 207, Pasal 208 ayat (1), dan/atau Pasal
-209 dikenai sanksi administratif berupa:
+dimaksud dalam Pasal 205 ayat (1),
+
+Pasal 206
+ayat (2),
+ayat (3),
+
+Pasal 207, Pasal 208 ayat (1), dan/atau Pasal 209 dikenai sanksi administratif berupa:
 
 -----
 
@@ -70,7 +74,10 @@ PELINDUNGAN KONSUMEN DAN MASYARAKAT
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

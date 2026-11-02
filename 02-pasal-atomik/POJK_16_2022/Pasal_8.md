@@ -17,26 +17,34 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-berupa:
-a. larangan melakukan ekspansi kegiatan usaha;
-dan/atau
-b. pembekuan kegiatan usaha tertentu.
-(3) Dalam hal Bank telah dikenai sanksi administratif
-sebagaimana dimaksud pada ayat (1) dan/atau ayat (2),
-dan tetap melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 6 ayat (1), ayat (2), Pasal 7 ayat (3),
-dan/atau Pasal 8 ayat (2), pihak utama Bank dapat
-dikenai sanksi administratif berupa larangan sebagai
-pihak utama sesuai dengan Peraturan OJK mengenai
-penilaian kembali bagi pihak utama lembaga jasa
-keuangan.
+(1) Dalam hal terdapat kondisi eksternal dan internal yang
+secara signifikan memengaruhi sasaran dan strategi
+Bank sebagaimana dimuat dalam rencana korporasi
+yang sedang berjalan, Bank dapat melakukan
+perubahan rencana korporasi.
+(2) Perubahan rencana korporasi sebagaimana dimaksud
+pada ayat (1) wajib disusun oleh Direksi dan disetujui
+oleh Dewan Komisaris.
+(3) Bank menyampaikan perubahan rencana korporasi
+kepada OJK sewaktu-waktu dalam periode 5 (lima)
+tahunan rencana korporasi sebagaimana dimaksud
+dalam
 
-BAB III
-PENDIRIAN BANK
+Pasal 7.
+(4) Perubahan rencana korporasi sebagaimana dimaksud
+pada ayat (2) paling sedikit memuat:
+a. alasan perubahan rencana korporasi;
+b. evaluasi pelaksanaan rencana korporasi Bank
+periode sebelumnya;
+c. visi dan misi Bank;
+d. analisis lingkungan internal dan eksternal;
 
-Bagian Kesatu
+-----
 
-Umum
+e. sasaran dan strategi Bank;
+f. rencana dan strategi Sinergi Perbankan; dan
+g. rencana dan strategi sinergi ekosistem ekonomi
+dan keuangan syariah.
 
 ## Penjelasan Resmi
 

@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PPDP yang memenuhi kriteria sebagaimana dimaksud
-dalam Pasal 4 dapat tidak ditetapkan pada status
+dalam
+
+Pasal 4
+dapat tidak ditetapkan pada status
 pengawasan intensif dalam jangka waktu tertentu oleh
 Otoritas Jasa Keuangan, jika PPDP:
 a. dalam proses penggabungan, peleburan, atau

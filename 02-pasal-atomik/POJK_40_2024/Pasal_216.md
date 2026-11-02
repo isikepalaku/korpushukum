@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 214 ayat (3) dan/atau Pasal 215
+dimaksud dalam Pasal 214 ayat (3) dan/atau
+
+Pasal 215
 ayat (1), ayat (3) dikenai sanksi administratif berupa
 dikenai sanksi administratif berupa:
 a. peringatan tertulis;
@@ -72,7 +74,10 @@ KETENTUAN LAIN-LAIN
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

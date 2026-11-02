@@ -26,3 +26,5 @@ Dihapus.
 Angka 11
 
 Cukup jelas.
+
+Angka 12

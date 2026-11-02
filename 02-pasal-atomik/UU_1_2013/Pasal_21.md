@@ -18,9 +18,40 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(satu) tahun dan paling lama 3 (tiga) tahun serta pidana denda paling
-sedikit Rp50.000.000,00 (lima puluh juta rupiah) dan paling banyak
-Rp1.000.000.000,00 (satu miliar rupiah).
+(1) Anggota dewan komisaris atau pengawas, direksi atau pengurus,
+
+pegawai, dan pihak terafiliasi LKM wajib merahasiakan informasi
+Penyimpan dan Simpanan.
+
+(2) Kewajiban merahasiakan informasi sebagaimana dimaksud pada ayat
+
+(1) tidak berlaku dalam hal informasi Penyimpan dan Simpanan
+untuk:
+
+a. kepentingan perpajakan;
+
+b. kepentingan peradilan dalam perkara pidana;
+
+c. kepentingan peradilan dalam perkara perdata; atau
+
+d. hal lain yang ditetapkan dalam Peraturan Otoritas Jasa
+Keuangan.
+
+(3) Anggota direksi atau pengurus, dan pegawai LKM wajib memberikan
+
+informasi Penyimpan dan Simpanan untuk kepentingan sebagaimana
+dimaksud pada ayat (2).
+
+-----
+
+(4) Ketentuan lebih lanjut mengenai tata cara untuk memperoleh
+
+informasi sebagaimana dimaksud pada ayat (2) dan ayat (3) diatur
+dalam Peraturan Otoritas Jasa Keuangan.
+
+BAB VII
+
+PENGGABUNGAN, PELEBURAN, DAN PEMBUBARAN
 
 ## Penjelasan Resmi
 

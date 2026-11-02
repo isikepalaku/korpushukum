@@ -18,6 +18,8 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+Permufakatan jahat melakukan Tindak Pidana tidak
+
 dipidana, jika pelaku:
 
 - a. menarik diri dari kesepakatan itu; atau

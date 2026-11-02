@@ -17,29 +17,25 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-terhitung sejak tanggal persetujuan prinsip diterbitkan.
+(1) OJK memberikan persetujuan atau penolakan atas
+permohonan persetujuan prinsip sebagaimana
+dimaksud dalam
 
------
-
-(2) Pihak yang telah memperoleh persetujuan prinsip
-sebagaimana dimaksud pada ayat (1) dilarang
-melakukan kegiatan usaha perbankan sebelum
-memperoleh izin usaha.
-(3) Dalam hal terdapat keadaan kahar atau pertimbangan
-lain yang dapat diterima oleh OJK, jangka waktu
-sebagaimana dimaksud pada ayat (1) dapat
-diperpanjang berdasarkan persetujuan OJK.
-(4) Dalam hal pihak yang telah memperoleh persetujuan
-prinsip tidak mengajukan permohonan izin usaha
-kepada OJK sampai dengan berakhirnya jangka waktu
-sebagaimana dimaksud pada ayat (1) atau ayat (3),
-persetujuan prinsip yang telah diterbitkan oleh OJK
-dinyatakan batal dan tidak berlaku.
-(5) Tanpa mengesampingkan sanksi pidana sesuai dengan
-ketentuan peraturan perundang-undangan, terhadap
-pihak yang melanggar ketentuan sebagaimana
-dimaksud pada ayat (2) dikenai sanksi administratif
-berupa pembatalan proses perizinan pendirian Bank.
+Pasal 14
+paling lama 60 (enam puluh)
+hari kerja setelah dokumen permohonan diterima
+secara lengkap.
+(2) Untuk memberikan persetujuan atau penolakan
+sebagaimana dimaksud pada ayat (1), OJK melakukan:
+a. penelitian atas kelengkapan dan kesesuaian
+dokumen;
+b. analisis yang mencakup paling sedikit tingkat
+persaingan yang sehat antar bank dan tingkat
+kejenuhan jumlah bank;
+c. penilaian kemampuan dan kepatutan terhadap
+calon PSP, calon Direksi, dan calon Dewan
+Komisaris; dan
+d. wawancara terhadap calon DPS.
 
 ## Penjelasan Resmi
 

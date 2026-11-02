@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '41'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -18,14 +18,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-- (1) Setiap Orang yang melakukan persetubuhan dengan orang yang bukan suami atau istrinya, dipidana karena perzinaan, dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori II.
+Dalam hal anak yang belum berumur 12 (dua belas) tahun melakukan atau diduga melakukan Tindak Pidana, penyidik, pembimbing kemasyarakatan, dan pekerja sosial profesional mengambil keputusan untuk:
 
-- (21 Terhadap Tindak Pidana sebagaimana dimaksud pada ayat (1) tidak dilakukan penuntutan kecuali atas pengaduan:
-- a. suami atau istri lagi orang yang terikat perkawinan.
-- b. Orang Tua atau anaknya bagi orang yang tidak terikat perkawinan.
-- (3) Terhadap pengaduan sebagaimana dimaksud pada ayal l2l tidak berlaku ketentuan sebagaimana dimaksud dalam Pasal 25, Pasal 26, dan Pasal 30.
-- (4) Pengaduan dapat ditarik kembali selama pemeriksaan di sidang pengadilan belum dimulai.
+- a. menyerahkan kembali kepada Orang T\ra/wali; atau
+- b. mengikutsertakan dalam program pendidikan, pembinaan, dan pembimbingan di instansi pemerintah atau lembaga penyelenggaraan kesejahteraan sosial di instansi yang menangani bidang kesejahteraan sosial, baik pada tingkat pusat maupun daerah, paling lama 6 (enam) Bulan.
 
 ## Penjelasan Resmi
 
+**Huruf a**
+
 Cukup jelas.
+
+**Hurufb**
+
+Keikutsertaan dalam program pendidikan, pembinaan, dan dalam ketentuan ini termasuk rehabilitasi sosial dan rehabilitasi psikososial.
+
+Dalam ketenhran ini, anak yang masih sekolah tetap dapat mengikuti pendidikan formal, baik yang diselenggarakan oleh instansi pemerintah nraupun swasta.
+
+Dalam pelaksanaan program pendidikan, pembinaan, dan pembimbingan dapat melibatkan dinas pendidikan, dinas sosial, pembimbing kemasyarakatan, lembaga pendidikan, dan lembaga penyelenggaraan kesejahteraan sosial.

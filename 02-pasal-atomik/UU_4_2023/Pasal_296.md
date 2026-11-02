@@ -17,7 +17,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang memberikan dokumen, data, informasi, dan/ a tau laporan yang berkaitan dengan penjaminan polis sebagaimana dimaksud dalam Pasal 81 ayat (1) huruf a, huruf d, atau huruf e, atau Pasal 89 ayat (2) yang tidak benar, palsu, dan/atau menyesatkan dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (tiga) tahun dan pidana denda paling sedikit Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak Rp3.000.000.000,00 (tiga miliar rupiah).
+Setiap Orang yang memberikan dokumen, data, informasi, dan/ a tau laporan yang berkaitan dengan penjaminan polis sebagaimana dimaksud dalam
+
+Pasal 81
+ayat (1) huruf a, huruf d, atau huruf e, atau Pasal 89 ayat (2) yang tidak benar, palsu, dan/atau menyesatkan dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (tiga) tahun dan pidana denda paling sedikit Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak Rp3.000.000.000,00 (tiga miliar rupiah).
+
+Pasal 297 ...
+
+**PRESIDEN REPUBUK INOONESIA**
 
 ## Penjelasan Resmi
 

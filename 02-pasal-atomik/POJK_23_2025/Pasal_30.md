@@ -20,7 +20,10 @@ mengamandemen:
 
 (1) Peraturan dan tata tertib Lembaga Kliring
 Penjaminan dan Penyelesaian sebagaimana
-dimaksud dalam Pasal 28 ayat (3) huruf b harus
+dimaksud dalam
+
+Pasal 28
+ayat (3) huruf b harus
 paling sedikit memuat:
 a. persyaratan menjadi Anggota Kliring;
 b. hak dan kewajiban Anggota Kliring;
@@ -63,8 +66,42 @@ Kewajiban, Tanggung Jawab, Tugas, dan Kewenangan
 
 Lembaga Kliring Penjaminan dan Penyelesaian
 
-39. Di antara Pasal 32 dan Pasal 33 disisipkan 1 (satu)
-pasal, yakni Pasal 32A sehingga berbunyi sebagai
+39. Di antara
+
+Pasal 32
+dan Pasal 33 disisipkan 1 (satu)
+pasal, yakni
+
+Pasal 32A sehingga berbunyi sebagai
+berikut:
+
+Pasal 32A
+Lembaga Kliring Penjaminan dan Penyelesaian wajib:
+a. mempertahankan ekuitas paling sedikit 80%
+(delapan puluh persen) dari modal disetor
+sebagaimana dimaksud dalam
+
+Pasal 28
+ayat (1);
+b. memastikan dalam pelaksanaan kegiatan
+Lembaga Kliring Penjaminan dan Penyelesaian,
+modal disetor dan penambahan modal disetor
+memenuhi ketentuan sebagaimana dimaksud
+dalam
+
+Pasal 28
+ayat (2); dan
+c. memastikan ketentuan sebagaimana dimaksud
+dalam Pasal 28 dan
+
+Pasal 29
+selalu terpenuhi
+dalam pelaksanaan kegiatan Lembaga Kliring
+Penjaminan dan Penyelesaian.
+
+-----
+
+40. Ketentuan Pasal 34 diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -119,3 +156,12 @@ Cukup jelas.
 Angka 38
 
 Cukup jelas.
+
+Angka 39
+
+Pasal 32A
+Cukup jelas.
+
+-----
+
+Angka 40

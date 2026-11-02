@@ -17,22 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-a. pembatasan layanan perbankan digital tertentu;
-b. larangan melakukan ekspansi kegiatan usaha;
-dan/atau
-c. pembekuan kegiatan usaha tertentu.
-(3) Dalam hal Bank telah dikenai sanksi administratif
-sebagaimana dimaksud pada ayat (1) dan/atau ayat (2)
-dan tetap melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 22 ayat (2), Pasal 23 ayat (2), Pasal 28,
-dan/atau Pasal 29, pihak utama Bank dapat dikenai
-sanksi administratif berupa larangan sebagai pihak
-utama sesuai dengan Peraturan OJK mengenai
-penilaian kembali bagi pihak utama lembaga jasa
-keuangan.
-
-BAB V
-KEPEMILIKAN DAN PERUBAHAN MODAL BANK
+Bank yang beroperasi sebagai Bank Digital wajib memenuhi
+ketentuan peraturan perundang-undangan yang
+diberlakukan untuk Bank.
 
 ## Penjelasan Resmi
 

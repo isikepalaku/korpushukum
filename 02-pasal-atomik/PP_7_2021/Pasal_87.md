@@ -27,8 +27,7 @@ Pencatatan dan Pembukuan Sistem Aplikasi Laporan Keuangan
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
- Pasal. . .
+**Cukup [jelas.]**Pasal. . .
 
 -----
 

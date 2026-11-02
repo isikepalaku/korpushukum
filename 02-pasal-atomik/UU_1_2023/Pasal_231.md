@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '231'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -28,4 +28,4 @@ Setiap Orang yang menodai bendera kebangsaan dari negara sahabat, dipidana denga
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "menodai" adalah perbuatan dalam bentuk apa pun yang dilakukan dengan maksud untuk menghina.

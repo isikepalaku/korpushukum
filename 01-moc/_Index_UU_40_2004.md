@@ -4,7 +4,7 @@ judul: "Map of Content - Sistem Jaminan Sosial Nasional"
 kode_uu: UU_40_2004
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_40_2004]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Sistem Jaminan Sosial Nasional (UU_40_2004)
@@ -44,7 +44,7 @@ last_updated: 2026-11-01
 - [[Pasal_29]]: (1) Jaminan kecelakaan kerja diselenggarakan secara nasional berdasarkan
 - [[Pasal_30]]: Peserta jaminan kecelakaan kerja adalah seseorang yang telah membayar
 - [[Pasal_31]]: (1) Peserta yang mengalami kecelakaan kerja berhak mendapatkan manfaat
-- [[Pasal_32]]: 
+- [[Pasal_32]]: (1) Manfaat jaminan kecelakaan kerja sebagaimana dimaksud dalam Pasal 31 ayat (1) diberikan pada fasilitas kesehatan milik Pemerin...
 - [[Pasal_33]]: Ketentuan lebih lanjut mengenai besarnya manfaat uang tunai, hak ahli waris,
 - [[Pasal_34]]: (1) Besarnya iuran jaminan kecelakaan kerja adalah sebesar persentase
 - [[Pasal_35]]: (1) Jaminan hari tua diselenggarakan secara nasional berdasarkan prinsip

@@ -29,16 +29,11 @@ Tanggungan yang bersangkutan untuk menetapkan pembersihan itu dan sekaligus mene
 (4) Permohonan pembersihan obyek
 Hak Tanggungan dari Hak Tanggungan yang membebaninya sebagaimana dimaksud pada ayat (3) tidak dapat dilakukan oleh pembeli benda tersebut, apabila pembelian demikian itu dilakukan dengan jual beli sukarela dan dalam Akta
 Pemberian Hak Tanggungan yang bersangkutan para pihak telah dengan tegas memperjanjikan bahwa obyek Hak Tanggungan tidak akan dibersihkan dari beban
-Hak Tanggungan sebagaimana dimaksud dalam Pasal 11 ayat (2) huruf f.
-BAB V EKSEKUSI HAK TANGGUNGAN Pasal 20
-(1) Apabi1a debitor cidera janji, maka berdasarkan :
-a. hak pemegang Hak Tanggungan pertama untuk menjual obyek Hak Tanggungan sebagaimana dimaksud dalam Pasal
-6, atau b. titel eksekutorial yang terdapat dalam sertipikat Hak Tanggungan sebagaimana dimaksud dalam Pasal 14 ayat (2), obyek Hak Tanggungan dijual melalui pelelangan umum menurut tata cara yang ditentukan dalam peraturan perundang-undangan untuk pelunasan piutang pemegang Hak Tanggungan dengan hak mendahulu dari pada kreditor-kreditor lainnya.
-(2) Atas kesepakatan pemberi dan pemegang Hak Tanggungan, penjualan obyek Hak Tanggungan dapat dilaksanakan di bawah tangan jika dengan demikian itu akan dapat diperoleh harga tertinggi yang menguntungkan semua pihak.
-(3) Pelaksanaan penjualan sebagaimana dimaksud pada ayat (2) hanya dapat dilakukan setelah lewat waktu
-1 (satu) bulan sejak diberitahukan secara tertulis oleh pemberi dan/atau pemegang Hak Tanggungan kepada pihak-pihak yang berkepentingan dan diumumkan sedikit-dikitnya dalam 2 (dua) surat kabar yang beredar di daerah yang bersangkutan dan/atau media massa setempat, serta tidak ada pihak yang menyatakan keberatan.
-(4) Setiap janji untuk melaksanakan eksekusi Hak Tanggungan dengan cara yang bertentangan dengan ketentuan pada ayat (1), ayat (2), dan ayat (3) batal demi hukum.
-(5) Sampai saat pengumuman untuk lelang dikeluarkan, penjualan sebagaimana dimaksud pada ayat (1) dapat dihindarkan dengan pelunasan utang yang dijamin dengan Hak Tanggungan itu beserta biaya-biaya eksekusi yang telah dikeluarkan.
+Hak Tanggungan sebagaimana dimaksud dalam
+
+Pasal 11
+ayat (2) huruf f.
+BAB V EKSEKUSI HAK TANGGUNGAN
 
 ## Penjelasan Resmi
 

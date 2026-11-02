@@ -19,7 +19,17 @@ mengamandemen: []
 
 Ketentuan lebih lanjut mengenai tata cara, bentuk, dan
 format permohonan persetujuan penyelenggaraan Produk
-Asuransi sebagaimana dimaksud dalam Pasal 36, Pasal 37,
+Asuransi sebagaimana dimaksud dalam Pasal 36,
+
+Pasal 37,
+Pasal 38, dan
+
+Pasal 40
+ditetapkan oleh Otoritas Jasa
+Keuangan.
+
+Bagian Ketiga
+Pelaporan Produk Asuransi
 
 ## Penjelasan Resmi
 

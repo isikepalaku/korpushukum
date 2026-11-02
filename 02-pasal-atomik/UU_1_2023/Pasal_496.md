@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '496'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Setiap Orang yang memperoleh secara curang suatu jasa untuk diri sendiri atau or
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini dimaksudkan untuk melindungi seseorang dari kerugian ekonomi melalui pemberian jasa kepada orang lain yang dilakukan akibat perbuatan cur€rng dari orang lain tersebut. Misalnya, seseorang secara curang memanfaatkan kebaikan orang lain mempergunakan nomor dan saluran telepon dan membebankan biaya pembicaraan atau sambungan teleponnya kepada pelanggan telepon.

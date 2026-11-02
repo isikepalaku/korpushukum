@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Perusahaan Syariah yang akan melakukan
 penerbitan efek syariah melalui penawaran umum
-sebagaimana dimaksud dalam Pasal 66 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 66
+ayat (1)
 huruf d wajib melaporkan rencana penerbitan efek
 syariah paling lambat 2 (dua) bulan sebelum rapat
 umum pemegang saham yang menyetujui
@@ -104,3 +107,5 @@ ditemukan selama proses audit.
 Ayat (2)
 
 Cukup jelas.
+
+Angka 28

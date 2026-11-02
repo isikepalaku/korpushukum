@@ -18,21 +18,20 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-a. gambar lambang negara ”Garuda Pancasila”;
-b. frasa ”Republik Indonesia”;
-c. sebutan pecahan dalam angka sebagai nilai
-nominalnya; dan
-d. tahun emisi.
+(1) Mata Uang Negara Kesatuan Republik Indonesia adalah
 
-(3) Setiap pecahan Rupiah selain memiliki ciri umum
+Rupiah.
 
-sebagaimana dimaksud pada ayat (1) dan ayat (2) juga
-memiliki ciri khusus sebagai pengaman yang terdapat
-pada desain, bahan, dan teknik cetak.
+(2) Macam Rupiah terdiri atas Rupiah kertas dan Rupiah
 
-(4) Ciri khusus sebagaimana dimaksud pada ayat (3) bersifat
+logam.
 
-terbuka, semi tertutup, dan tertutup.
+(3) Rupiah sebagaimana dimaksud pada ayat (1) disimbolkan
+
+dengan Rp.
+
+Bagian Kedua
+Harga Rupiah
 
 ## Penjelasan Resmi
 

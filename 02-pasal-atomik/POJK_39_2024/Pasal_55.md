@@ -18,8 +18,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 48, Pasal 50 ayat (1), Pasal 51
-ayat (1), Pasal 52 ayat (1), dan/atau Pasal 53 ayat (1)
+dimaksud dalam Pasal 48,
+
+Pasal 50
+ayat (1), Pasal 51
+ayat (1),
+
+Pasal 52
+ayat (1), dan/atau Pasal 53 ayat (1)
 dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -73,7 +79,10 @@ Penaksir
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

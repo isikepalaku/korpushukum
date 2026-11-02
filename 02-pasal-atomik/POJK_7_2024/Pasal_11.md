@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Permohonan untuk memperoleh izin usaha sebagaimana
-dimaksud dalam Pasal 8 huruf b diajukan kepada OJK
+dimaksud dalam
+
+Pasal 8
+huruf b diajukan kepada OJK
 disertai dengan dokumen persyaratan pengajuan
 persetujuan permohonan izin usaha BPR atau BPR
 Syariah tercantum dalam Lampiran Bagian C yang
@@ -67,7 +70,10 @@ Huruf a
 Cukup jelas.
 Huruf b
 Angka 1
-Lihat penjelasan Pasal 9 ayat (4) huruf b angka 2.
+Lihat penjelasan
+
+Pasal 9
+ayat (4) huruf b angka 2.
 Angka 2
 
 Cukup jelas.

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai terapi berbasis sel dan/ atau sel punca sebagaimana dimaksud dalam Pasal 135 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai terapi berbasis sel dan/ atau sel punca sebagaimana dimaksud dalam
+
+Pasal 135
+diatur dengan Peraturan Pemerintah.
 
 ## PNESIDEN FEPUBUK INDONESIA
 

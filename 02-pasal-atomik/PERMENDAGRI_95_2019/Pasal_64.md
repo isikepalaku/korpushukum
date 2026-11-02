@@ -17,8 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengamanan Basis Data sebagaimana dimaksud dalam Pasal 
-63 huruf a, dilakukan dengan cara, antara lain: 
+Pengamanan Basis Data sebagaimana dimaksud dalam
+
+Pasal 63
+huruf a, dilakukan dengan cara, antara lain: 
 a. 
 melakukan pemindahan data sebagai Data Cadangan 
 secara berkala; 

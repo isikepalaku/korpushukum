@@ -46,6 +46,9 @@ berlaku secara mutatis mutandis terhadap Bank selain Bank Sistemik.
 
 Yang dimaksud dengan "mutatis mutandis" adalah ketentuan mengenai pemberian pinjaman likuiditas jangka pendek atau pembiayaan likuiditas jangka pendek berdasarkan Prinsip Syariah kepada Bank Sistemik dan penempatan dana Lembaga Penjamin Simpanan pada Bank, dengan perubahan kecil atau yang perlu untuk disesuaikan, berlaku juga untuk Bank selain Bank Sistemik.
 
-Contoh: Penggantian frasa "Bank Sistemik" dalam Pasal 20 menjadi frasa "Bank selain Bank Sistemik".
+Contoh: Penggantian frasa "Bank Sistemik" dalam
+
+Pasal 20
+menjadi frasa "Bank selain Bank Sistemik".
 
 **Angka 25**

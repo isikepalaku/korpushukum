@@ -18,8 +18,43 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 49, Pasal 50 ayat (2), ayat (3),
-ayat (4), Pasal 51, Pasal 52 ayat (2), Pasal 53 ayat (1),
+dimaksud dalam Pasal 49,
+
+Pasal 50
+ayat (2), ayat (3),
+ayat (4),
+
+Pasal 51, Pasal 52 ayat (2), Pasal 53 ayat (1),
+Pasal 54
+ayat (1), dan/atau
+
+Pasal 55
+dikenakan sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. penurunan tingkat kesehatan; dan/atau
+c. larangan untuk memasarkan Produk Asuransi
+atau Produk Asuransi dengan Prinsip Syariah
+untuk lini usaha tertentu.
+(2) Pelanggaran terhadap ketentuan sebagaimana
+dimaksud dalam Pasal 52 ayat (2)
+
+Pasal 53
+ayat (1) dan
+dikenai sanksi administratif tambahan berupa denda
+administratif sebesar Rp100.000.000,00 (seratus juta
+rupiah).
+(3) Dalam hal terjadi pelanggaran ketentuan sebagaimana
+dimaksud pada ayat (1) namun pelanggaran telah
+diperbaiki, Otoritas Jasa Keuangan memberikan
+sanksi peringatan tertulis yang berakhir dengan
+sendirinya.
+(4) Dalam hal pelanggaran atas ketentuan sebagaimana
+dimaksud pada ayat (1) telah dipenuhi, Otoritas Jasa
+Keuangan mencabut sanksi peringatan tertulis.
+
+Bagian Ketiga
+Penilaian Kembali terhadap Pihak Utama
 
 ## Penjelasan Resmi
 

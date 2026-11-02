@@ -17,14 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (6), ayat (7), Pasal 101 ayat (2), ayat (5), Pasal 102
-ayat (2), ayat (4), dan/atau Pasal 104, pihak utama
-Bank dapat dikenai sanksi administratif berupa
-larangan sebagai pihak utama sesuai dengan Peraturan
-OJK mengenai penilaian kembali bagi pihak utama
-lembaga jasa keuangan.
-(5) Bank yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 95 ayat (1), ayat (3), ayat (4),
+Bank wajib mencantumkan rencana penutupan kantor
+Bank berupa Kanwil, KC, dan/atau Kantor di Luar Negeri
+untuk 1 (satu) tahun ke depan dalam Rencana Bisnis Bank.
 
 ## Penjelasan Resmi
 

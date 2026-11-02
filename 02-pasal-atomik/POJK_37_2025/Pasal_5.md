@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan menetapkan PPDP dengan
 status pengawasan intensif sebagaimana dimaksud
-dalam Pasal 4 ayat (1) untuk jangka waktu paling lama
+dalam
+
+Pasal 4
+ayat (1) untuk jangka waktu paling lama
 1 (satu) tahun terhitung sejak tanggal surat
 pemberitahuan Otoritas Jasa Keuangan.
 (2) Otoritas Jasa Keuangan dapat menetapkan
@@ -30,7 +33,9 @@ a. jangka waktu status pengawasan intensif berakhir;
 dan
 b. berdasarkan penilaian Otoritas Jasa Keuangan,
 PPDP masih memenuhi kriteria sebagaimana
-dimaksud dalam Pasal 4,
+dimaksud dalam
+
+Pasal 4,
 paling banyak 1 (satu) kali dengan jangka waktu paling
 lama 1 (satu) tahun.
 (3) Penetapan perpanjangan jangka waktu status

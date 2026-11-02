@@ -22,7 +22,10 @@ perubahan
 status 
 kewarganegaraan 
 sebagaimana 
-dimaksud dalam Pasal 7 ayat (4) huruf l, terdiri dari elemen 
+dimaksud dalam
+
+Pasal 7
+ayat (4) huruf l, terdiri dari elemen 
 data: 
 a. 
 NIK/NIT; 

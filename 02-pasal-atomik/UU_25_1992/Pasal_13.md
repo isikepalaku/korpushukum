@@ -21,7 +21,9 @@ mengamandemen: []
 
 Ketentuan mengenai persyaratan dan tata cara pengesahan atau
 penolakan pengesahan akta pendirian, dan perubahan Anggaran Dasar
-sebagaimana dimaksud dalam Pasal 9, Pasal 10, Pasal 11, dan Pasal 12
+sebagaimana dimaksud dalam Pasal 9,
+
+Pasal 10, Pasal 11, dan Pasal 12
 diatur lebih lanjut dengan Peraturan Pemerintah.
 
 ## Penjelasan Resmi

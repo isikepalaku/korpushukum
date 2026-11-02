@@ -56,3 +56,5 @@ atau Unit Syariah pada Perusahaan Asuransi.
 Ayat (2)
 
 Cukup jelas.
+
+Angka 20

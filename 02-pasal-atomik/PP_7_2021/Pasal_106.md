@@ -41,10 +41,18 @@ d penyum berluaran (outsourcing)
 **pada ayat (1) pelaku usaha didampingi oleh pendamping. (41 Pendampingan yang dilakukan oleh pendamping**
  sebagaimana dimaksud pada ayat (3) dilaksanakan oleh Pemerintah Daerah provinsi.
 
+Pasal 107
+Dalam pola kemitraan inti-plasma sebagaimana dimaksud dalam Pasal 106 ayat (1) huruf a:
+**a. usaha besar berkedudukan sebagai inti dan Usaha**
+
+**Mikro, Kecil, dan Menengah berkedudukan sebagai plilsma; atau**
+**b. Usaha Menengah berkedudukan sebagai inti dan**
+
+**Usaha Mikro dan Usaha Kecil berkedudukan sebagai**
+plasma.
+
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal t07
+**Cukup [jelas.]**Pasal t07
 
 **Cukup [jelas.]**

@@ -17,7 +17,24 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+(1) Bank wajib menginformasikan perubahan komposisi
+kepemilikan saham Bank yang tercatat dalam anggaran
+dasar dan tidak mengakibatkan perubahan
+pengendalian kepada OJK paling lama 10 (sepuluh) hari
+kerja setelah perubahan dilakukan.
+(2) Informasi sebagaimana dimaksud pada ayat (1) yang
+diakibatkan karena penambahan modal disetor wajib
+disertai dokumen tercantum dalam Lampiran I yang
+merupakan bagian tidak terpisahkan dari Peraturan
+OJK ini.
+(3) Informasi sebagaimana dimaksud pada ayat (1) yang
+tidak mengubah jumlah modal disetor wajib disertai
+dokumen tercantum dalam Lampiran I yang
+merupakan bagian tidak terpisahkan dari Peraturan
+OJK ini.
+(4) OJK dapat meminta Bank untuk menyampaikan
+informasi komposisi atau daftar kepemilikan saham
+selain yang dimaksud pada ayat (2) dan ayat (3).
 
 ## Penjelasan Resmi
 

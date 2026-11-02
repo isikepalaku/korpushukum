@@ -18,9 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BAB XII
-
-KONEKSITAS
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

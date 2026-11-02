@@ -12,7 +12,6 @@ status_berlaku: diubah
 diamandemen_oleh:
 - '[[02-pasal-atomik/UU_4_2026/Pasal_50|UU 4/2026 Pasal 50]]'
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_50|UU 1/2013 Pasal 50]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_50|UU 1/2016 Pasal 50]]'
 - '[[02-pasal-atomik/UU_10_2011/Pasal_50|UU 10/2011 Pasal 50]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_50|UU 21/2008 Pasal 50]]'
@@ -51,3 +50,31 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
+
+Angka 15
+
+Pasal 39A
+
+Ayat (1)
+
+Program Asuransi Wajib di antaranya mencakup asuransi tanggung jawab hukum pihak ketiga (third party liability) terkait kecelakaan lalu lintas, asuransi kebakaran, dan asuransi rumah tinggal terhadap risiko bencana.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
+
+```
+Cukup jelas.
+```
+
+Ayat (4)
+
+Dalam penyusunan Peraturan Pemerintah, Pemerintah dapat berkoordinasi dengan Otoritas Jasa Keuangan.
+
+Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan.
+
+Angka 17 ...
+
+Angka 17

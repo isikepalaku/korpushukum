@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pencairan aset tidak bermasalah sebagaimana
-dimaksud dalam Pasal 121 ayat (2) dilakukan setelah
+dimaksud dalam
+
+Pasal 121
+ayat (2) dilakukan setelah
 Neraca Sementara Likuidasi disetujui oleh Otoritas
 Jasa Keuangan.
 (2) Dalam hal Neraca Sementara Likuidasi belum disetujui
@@ -32,7 +35,10 @@ menggunakan harga pasar wajar.
 (4) Pencairan aset dan/atau penagihan piutang dilakukan
 oleh Tim Likuidasi sesuai dengan rencana dan cara
 yang tercantum dalam rencana kerja dan anggaran
-biaya sebagaimana dimaksud dalam Pasal 116 ayat (2)
+biaya sebagaimana dimaksud dalam
+
+Pasal 116
+ayat (2)
 huruf c dan d.
 
 ## Penjelasan Resmi

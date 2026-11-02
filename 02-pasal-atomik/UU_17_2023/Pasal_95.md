@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai penanggulangan penyakit tidak menular sebagaimana dimaksud dalam Pasal 93 dan Pasal 94 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai penanggulangan penyakit tidak menular sebagaimana dimaksud dalam Pasal 93 dan
+
+Pasal 94
+diatur dengan Peraturan Pemerintah.
 
 ## K INDONESIA
 

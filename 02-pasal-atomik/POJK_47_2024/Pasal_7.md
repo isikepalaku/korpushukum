@@ -17,35 +17,61 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-memberitahukan kepada Koperasi yang memilih
-menjadi LJK untuk melengkapi kekurangan dokumen
-dan menyampaikan kembali kepada Otoritas Jasa
-Keuangan paling lambat 20 (dua puluh) hari kerja
-sejak tanggal pemberitahuan dari Otoritas Jasa
-Keuangan.
-(5) Dalam hal Koperasi yang memilih menjadi LJK tidak
-melengkapi, memperbaiki, dan/atau memperbarui
-kekurangan dokumen dalam batas waktu sebagaimana
-dimaksud pada ayat (4), Koperasi yang memilih
-menjadi LJK dianggap membatalkan permohonan izin
-usaha.
-(6) Otoritas Jasa Keuangan memberikan persetujuan atau
-penolakan atas permohonan izin usaha paling lama 20
-(dua puluh) hari kerja sejak permohonan izin usaha dan
-dokumen diterima secara lengkap.
-(7) Dalam hal permohonan izin usaha disetujui, Otoritas
-Jasa Keuangan menetapkan keputusan pemberian izin
-usaha.
-(8) Dalam hal permohonan izin usaha ditolak, penolakan
-tersebut dilakukan secara tertulis dan disertai dengan
-alasan penolakan.
+(1) Izin Koperasi yang memilih menjadi LJK diberikan
+dalam bentuk izin usaha sebagai LJK sebagaimana
+dimaksud dalam
+
+Pasal 2
+ayat (3).
+(2) Koperasi yang memilih menjadi LJK harus memenuhi:
+a. kriteria sebagaimana dimaksud dalam Pasal 4
+ayat (3);
 
 -----
 
-(9) Otoritas Jasa Keuangan menginformasikan kepada
-Menteri terkait dengan keputusan permohonan izin
-usaha sebagaimana dimaksud pada ayat (7) dan
-ayat (8).
+b. ketentuan Pengurus, Pengawas dan/atau
+Pengelola;
+c. ketentuan DPS bagi Koperasi yang menjalankan
+kegiatan usaha berdasarkan Prinsip Syariah;
+d. persyaratan kesiapan operasional;
+e. ketentuan mengenai penyusunan rencana bisnis
+atau rencana kerja; dan
+f. persyaratan lain berdasarkan pertimbangan
+Otoritas Jasa Keuangan sesuai dengan ketentuan
+peraturan perundang-undangan sektoral di
+masing-masing LJK.
+(3) Dalam memperoleh izin usaha sebagaimana dimaksud
+pada ayat (1) Pengurus harus mengajukan permohonan
+izin usaha kepada Otoritas Jasa Keuangan dengan
+melampirkan dokumen sesuai daftar persyaratan
+lampiran izin usaha tercantum dalam Lampiran II yang
+merupakan bagian tidak terpisahkan dari Peraturan
+Otoritas Jasa Keuangan ini.
+(4) Permohonan izin usaha Koperasi yang memilih menjadi
+LJK sebagaimana dimaksud pada ayat (1) tercantum
+dalam Lampiran III pada format 2 yang merupakan
+bagian tidak terpisahkan dari Peraturan Otoritas Jasa
+Keuangan ini.
+(5) Pengajuan permohonan izin usaha sebagaimana
+dimaksud pada ayat (3) ditujukan kepada:
+Kepala Eksekutif Pengawas Lembaga Pembiayaan,
+Perusahaan Modal Ventura, Lembaga Keuangan Mikro,
+dan Lembaga Jasa Keuangan Lainnya
+U.p. Kepala Departemen Perizinan, Pemeriksaan
+Khusus, dan Pengendalian Kualitas Pengawasan
+Lembaga Pembiayaan, Perusahaan Modal Ventura,
+Lembaga Keuangan Mikro dan Lembaga Jasa Keuangan
+Lainnya, yang disampaikan melalui Kantor Otoritas
+Jasa Keuangan sesuai tempat kedudukan Koperasi
+yang memilih menjadi LJK tercantum dalam Lampiran
+III pada format 3 yang merupakan bagian tidak
+terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
+(6) Permohonan izin usaha sebagaimana dimaksud pada
+ayat (3) dilakukan bersamaan dengan permohonan
+penilaian kemampuan dan kepatutan.
+
+Bagian Kedua
+Persetujuan Permohonan Izin Usaha
 
 ## Penjelasan Resmi
 

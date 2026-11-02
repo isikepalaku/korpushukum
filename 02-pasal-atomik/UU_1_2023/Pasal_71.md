@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '71'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -27,14 +27,20 @@ mengamandemen: []
 - (3) Pidana denda yang dapat dijatuhkan berdasarkan ketentuan sebagaimana dimaksud pada ayat (1) adalah pidana denda paling banyak kategori V dan pidana denda paling sedikit kategori III.
 - (41 Ketentuan sebagaimana dimaksud pada ayat (21 huruf c tidak berlaku bagi orang yang pernah dijatuhi pidana penjara untuk Tindak Pidana yang dilakukan sebelum berumur 18 (delapan belas) tahun.
 
-Pasal T2
-
-- (1) Narapidana yang telah menjalani paling singkat 2l 3 ldua per tiga) dari pidana penjara yang dijatuhkan dengan ketentuan 213 ldua per tiga) tersebut tidak kurang dari 9 (sembilan) Bulan dapat diberi pembebasan bersyarat.
-2. (21 Narapidana yang menjalani beberapa pidana penjara berturut turut rlianggap jumlah pidananya sebagai 1 (satu) pidana.
-- (3) Dalam memberikan pembebasan bersyarat sebagaimana dimaksud pada ayat (1), ditentukan masa percobaan dan syarat yang harus dipenuhi selama masa percobaan.
-- (4) Masa percobaan sebagaimana dimaksud pada ayat (3) sama dengan sisa waktu pidana penjara yang belum dijalani ditambah dengan 1 (satu) tahun.
-- (5) Narapidana sebagaimana dimaksud pada ayat (1) yang ditahan sebagai tersangka atau terdakwa dalam perkara lain tidak diperhitungkan waktu penahanannya sebagai masa percobaan.
-
 ## Penjelasan Resmi
 
+Ayat (l)
+
+Ketentuan ini dimaksudkan untuk mengatasi sifat kaku dari pemmusan pidana yang bersifat tunggal yang seolah-olah mengharuskan hakim untuk hanya menjatutrkan pidana penjara. Di samping itu, hal tersebut dimaksudkan pula untuk menghindari penjatuhan pidana penjara yang pendek.
+
+Ayat (2)
+
 Cukup jelas.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
+
+Berdasarkan ketentuan ini kewenangan hakim untuk menjatuhkan pidana denda sebagai pengganti pidana penjara, dibatasi dengan ketentuan pelaku Tindak Pidana tetap dijatuhi pidana penjara meskipun diancam dengan pidana tunggal apabila yang bersangkutan pernah dijatuhi pidana penjara karena Tindak Pidana yang dilakukannya setelah berumur 18 (delapan belas) tahun.

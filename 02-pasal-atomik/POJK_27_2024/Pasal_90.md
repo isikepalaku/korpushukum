@@ -22,7 +22,10 @@ jika Konsumen memiliki saldo Aset Keuangan Digital
 pada Pedagang.
 (2) Penempatan Aset Keuangan Digital milik Konsumen
 pada _Wallet_ milik Pedagang sebagaimana dimaksud
-dalam Pasal 85 ayat (1) huruf b, dilakukan melalui
+dalam
+
+Pasal 85
+ayat (1) huruf b, dilakukan melalui
 pemindahan dari _Wallet_ milik Konsumen atau _Wallet_
 bukan milik Konsumen kepada Wallet Pedagang.
 (3) Pedagang sebelum menerima penempatan sejumlah

@@ -35,7 +35,10 @@ SK No27216l A
 
  3. faktor lain yang memberatkan lebih banyak dengan faktor yang 
 
- berdasarkan pertimbangan sebagaimana dimaksud dalam Pasal 4O ayat (5). 
+ berdasarkan pertimbangan sebagaimana dimaksud dalam
+
+Pasal 40
+ayat (5). 
 
 - (21 Penghentian sementara sebagaimana dimaksud pada ayat (l) dilakukan terhadap Produk, Layanan, dan/ atau Fitur. 
 

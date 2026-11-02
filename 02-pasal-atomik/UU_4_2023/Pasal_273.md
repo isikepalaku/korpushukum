@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai kewajiban penyusunan dan penyampaian laporan keuangan, standar laporan keuangan, dan komite standar sebagaimana dimaksud dalam Pasal 271 dan platform bersama pelaporan keuangan (financial reporting single window) sebagaimana dimaksud dalam Pasal 272 diatur dalam Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai kewajiban penyusunan dan penyampaian laporan keuangan, standar laporan keuangan, dan komite standar sebagaimana dimaksud dalam
+
+Pasal 271
+dan platform bersama pelaporan keuangan (financial reporting single window) sebagaimana dimaksud dalam Pasal 272 diatur dalam Peraturan Pemerintah.
 
 **BAB XXI**
 

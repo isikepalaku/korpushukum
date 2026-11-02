@@ -35,6 +35,26 @@ mengamandemen: []
 
 - (2) Penolakan sebagaimana dimaksud pada ayat (1) disampaikan paling lambat 3 x 24 (tiga keali dua puluh empat) jam terhitung sejak permintaan diterima dan terverifiast,
 
+Pasal 101...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
+Pasal 101
+Dalam melaksanakan penundaan dan pembatasan pemrosesan Data Pribadi, Pengendali Date Pribadi hanya dapat melakukan penyimpanan Data Pribadi atas Subjck Data Pribadi yang bersangkutan sampai dengan penundaan dan pembatasan pemrosesan Data Pribadi berakhir atau diakhiri oleh Subjek Data Pribadi.
+
+Pasal 102
+- (1) Dalam pelaksanaan penundasn dan pembatasan pernrosesan Data Pribadi sebagaimana dimaksud dalam Pasal 101, Pengendali Data Pribadi dapat:
+
+ - a. memindahkan Data Pribadi ke sistem lain yang tidak terhubung dengan pemrosesan Data Pribadi fainnya untuk sementara;
+
+ - b, mermbuat Data Pribadi tidak dapat diakses oleh pihak lainnya;
+
+ - ce. mengeluarkan Data Pribadi yang telah dipublikasikan dan situs web yang dikelola oleh Pengendali Data Pribadi untuk sementara; dan/atau
+
+ - qd. melakukan langkah teknis lain yang relevan
+
+- (2) Data Pribadi yang telah ditandai sebagai Data Pribadi yang ditunda dan dibatasi harus teridentifikast secara jelas dalam sistem yang menyimpan Data Pribadi.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -19,11 +19,7 @@ mengamandemen: []
 
 Pemegang Hak Tanggungan adalah orang perseorangan atau badan hukum yang berkedudukan sebagai pihak yang berpiutang.
 BAB IV TATA CARA PEMBERIAN, PENDAFTARAN, PERALIHAN, DAN
-HAPUSNYA HAK TANGGUNGAN Pasal
-10
-(1) Pemberian Hak Tanggungan didahului dengan janji untuk memberikan Hak Tanggungan sebagai jaminan pelunasan utang tertentu, yang dituangkan di dalam dan merupakan bagian tak terpisahkan dari perjanjian utang-piutang yang bersangkutan atau perjanjian lainnya yang menimbulkan utang tersebut.
-(2) Pemberian Hak Tanggungan dilakukan dengan pembuatan Akta Pemberian Hak Tanggungan oleh PPAT sesuai dengan peraturan perundang-undangan yang berlaku.
-(3) Apabila obyek Hak Tanggungan berupa hak atas tanah yang berasal dari konversi hak lama yang telah memenuhi syarat untuk didaftarkan akan tetapi pendaftarannya belum dilakukan, pemberian Hak Tanggungan dilakukan bersamaan dengan permohonan pendaftaran hak atas tanah yang bersangkutan.
+HAPUSNYA HAK TANGGUNGAN
 
 ## Penjelasan Resmi
 

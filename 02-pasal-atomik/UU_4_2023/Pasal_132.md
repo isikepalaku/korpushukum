@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan mengenai penyelenggaraan kegiatan usaha bulion (bullion) sebagaimana dimaksud dalam Pasal 130 diatur dalam Peraturan Otoritas Jasa Keuangan yang paling sedikit memuat:
+Ketentuan mengenai penyelenggaraan kegiatan usaha bulion (bullion) sebagaimana dimaksud dalam
+
+Pasal 130
+diatur dalam Peraturan Otoritas Jasa Keuangan yang paling sedikit memuat:
 
 a. pentahapan ...
 

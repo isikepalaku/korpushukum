@@ -50,7 +50,9 @@ cara
 penerbitan biodata karena perubahan elemen data 
 berlaku secara mutatis mutandis terhadap persyaratan 
 dan tata cara pencatatan biodata sebagaimana dimaksud 
-dalam Pasal 4 sampai dengan Pasal 7. 
+dalam Pasal 4 sampai dengan
+
+Pasal 7. 
  
  
 www.peraturan.go.id

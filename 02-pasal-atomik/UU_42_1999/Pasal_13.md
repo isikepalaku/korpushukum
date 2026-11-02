@@ -49,4 +49,7 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Ketentuan ini dimaksudkan agar Kantor Pendaftaran Fidusia tidak melakukan penilaian terhadap kebenaran yang dicantumkan dalam pernyataan Pendaftaran jaminan Fidusia, akan tetapi hanya melakukan pengecekan data sebagaimana dimaksud dalam Pasal 13 ayat (2). Ayat (4) Cukup jelas
+Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Ketentuan ini dimaksudkan agar Kantor Pendaftaran Fidusia tidak melakukan penilaian terhadap kebenaran yang dicantumkan dalam pernyataan Pendaftaran jaminan Fidusia, akan tetapi hanya melakukan pengecekan data sebagaimana dimaksud dalam
+
+Pasal 13
+ayat (2). Ayat (4) Cukup jelas

@@ -23,7 +23,9 @@ Nasabah, Nasabah, WIC, atau Pemilik Manfaat (Beneficial
 -----
 
 _Owner) yang termasuk kriteria berisiko tinggi sebagaimana_
-dimaksud dalam Pasal 35 dan Pasal 36, terhadap anggota
+dimaksud dalam Pasal 35 dan
+
+Pasal 36, terhadap anggota
 keluarga atau pihak yang terkait (close associates) dari PEP.
 
 ## Penjelasan Resmi

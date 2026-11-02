@@ -18,8 +18,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 93 ayat (1), Pasal 94, Pasal 95
-ayat (1), dan/atau Pasal 97 ayat (7) dikenai sanksi
+dimaksud dalam Pasal 93 ayat (1),
+
+Pasal 94, Pasal 95
+ayat (1), dan/atau
+
+Pasal 97
+ayat (7) dikenai sanksi
 administratif berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -34,7 +39,9 @@ g. denda administratif.
 -----
 
 (2) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 98 ayat (1) dan/atau Pasal 101
+dimaksud dalam Pasal 98 ayat (1) dan/atau
+
+Pasal 101
 dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 b. larangan menjadi PSP, Direksi, Dewan Komisaris,
@@ -81,10 +88,16 @@ dalam Sistem Elektronik Otoritas Jasa Keuangan.
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (3)
 
 Cukup jelas.

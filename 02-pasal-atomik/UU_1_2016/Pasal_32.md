@@ -47,6 +47,17 @@ e. belum melakukan kegiatan usaha paling lambat 4
 (empat) bulan setelah tanggal izin usaha ditetapkan
 sebagaimana dimaksud dalam Pasal 19 ayat (1) dan
 
+Pasal 24
+ayat (1); atau
+
+f. belum melakukan kegiatan usaha paling lambat 3
+
+(tiga) bulan setelah tanggal izin UUS ditetapkan
+sebagaimana dimaksud dalam
+
+Pasal 21
+ayat (1).
+
 ## Penjelasan Resmi
 
 Cukup jelas.

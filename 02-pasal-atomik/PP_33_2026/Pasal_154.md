@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penerapan pengecualian hak untuk kepentingan statistik dan penelitian ilmiah sebagaimana dimaksud dalam Pasal 148 ayat (1) hurufe harus memenuhi kriteria:
+Penerapan pengecualian hak untuk kepentingan statistik dan penelitian ilmiah sebagaimana dimaksud dalam
+
+Pasal 148
+ayat (1) hurufe harus memenuhi kriteria:
 
 - a. kepentingan statistik dan penelitian ilmiah yang sifatnya nonkomersial;
 

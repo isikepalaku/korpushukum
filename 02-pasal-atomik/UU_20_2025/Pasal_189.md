@@ -18,20 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dalam suatu pemeriksaan perkara pidana oleh pengadilan negeri menimbulkan kerugian bagi orang lain, Halim ketua sidang atas permintaan orang itu dapat menetapkan untuk menggabungkan perkara gugatan ganti rugi kepada perkara pidana itu.
-
-(2) Permintaan . . .
-
------
-
-PRESIDEN
-REPUBUK INDONESIA
-
-**-to2-**
-
-**(2) Permintaan sebagaimana dimaksud pada ayat (1)**
- hanya dapat diajukan dalam waktu paling lambat sebelum Penuntut Umum mengajukan tuntutan pidana. (3) Dalam hal Penuntut Umum tidak hadir, permintaan
- diajukan dalam waktu paling lambat sebelum Hakim menjatuhkan putusan.
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 
@@ -43,3 +30,6 @@ saat yang sama diperiksa serta diputus sekaligus dengan perkara
  Cukup [jelas.]
  Ayat (3)
  Tidak hadirnya Penuntut Umum adalah dalam hal acara pemeriksaan cepat.
+
+Pasal 190
+**Cukup jelas.**

@@ -20,8 +20,9 @@ mengamandemen: []
 (1) Dalam hal Calon Nasabah, Nasabah, atau WIC memenuhi
 kriteria:
 a. tidak memenuhi ketentuan sebagaimana dimaksud
-dalam Pasal 21, Pasal 25, Pasal 26, Pasal 27, Pasal
-28, Pasal 29, dan Pasal 33;
+dalam Pasal 21,
+
+Pasal 25, Pasal 26, Pasal 27, Pasal 28, Pasal 29, dan Pasal 33;
 b. diketahui dan/atau patut diduga menggunakan
 dokumen palsu;
 c. menyampaikan informasi yang diragukan

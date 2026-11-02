@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penyelenggara Sertifikasi Elektronik sebagaimana dimaksud dalam Pasal 13 ayat (1) sampai dengan ayat (5) harus menyediakan informasi yang akurat, jelas, dan pasti kepada setiap pengguna jasa, yang meliputi:
+Penyelenggara Sertifikasi Elektronik sebagaimana dimaksud dalam
+
+Pasal 13
+ayat (1) sampai dengan ayat (5) harus menyediakan informasi yang akurat, jelas, dan pasti kepada setiap pengguna jasa, yang meliputi:
 
 - a. metode yang digunakan untuk mengidentifikasi Penanda Tangan;
 - b. hal yang dapat digunakan untuk mengetahui data diri pembuat Tanda Tangan Elektronik; dan

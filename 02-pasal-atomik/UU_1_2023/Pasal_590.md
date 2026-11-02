@@ -32,4 +32,4 @@ Bagian Kesatu Tindak Pidana Penadahan
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

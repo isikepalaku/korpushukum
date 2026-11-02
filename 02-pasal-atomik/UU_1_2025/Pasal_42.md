@@ -24,6 +24,11 @@ mengamandemen:
 - (4) Kewajiban penyisihan untuk cadangan sebagaimana dimaksud pada ayat (1) berlaku apabila Perum mempunyai saldo laba yang positif.
 76. Di antara Pasal 43 dan Pasal 44 disisipkan 13 (tiga belas) pasal, yakni Pasal 43A, Pasal 438, Pasal 43C, Pasal 43D, Pasal 43E, Pasal 43F, Pasal 43G, Pasal 43H, Pasal 43I, Pasal 43J, Pasal 43K, Pasal 43L, dan Pasal 43M sehingga berbunyi sebagai berikut:
 
+**Pasal 43A**
+
+- (1) Direksi Perum terdiri atas I (satu) orang anggota Direksi Perum atau lebih.
+2. (21 Dalam hal Direksi Perum terdiri atas 2 (dua) anggota Direksi Perum atau lebih, tugas dan wewenang pengurusan di antara anggota Direksi Perum ditetapkan oleh Menteri.
+
 ## Penjelasan Resmi
 
 Cukup jelas.
@@ -35,7 +40,9 @@ Direksi Perum terdiri atas direktur utama dan/ atau
 direktur lainnya sesuai dengan kebutuhan. Direktur lainnya sesuai dengan kebutuhan antara lain direktur sumber daya manusia dan direktur keuangan dan/ atau aset. Cukup jelas. Cukup jelas.
 
 ```
-Angj<a76 Pasal 43A Ayat (l) Ayat (2) Cukup jelas. Pasal 43B Cukup jelas. Pasal 43C Ayat (1) Huruf a Huruf b Huruf c
+Angj<a76
+
+Pasal 43A Ayat (l) Ayat (2) Cukup jelas. Pasal 43B Cukup jelas. Pasal 43C Ayat (1) Huruf a Huruf b Huruf c
 ```
 
 Yang dimaksud dengan "hubungan keluarga sampai dengan derajat kedua" adalah:
@@ -81,3 +88,95 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
+
+Pasal 43D
+
+Cukup jelas.
+
+Pasal 43E
+
+Ayat (1)
+
+Yang dimaksud dengan "kontrak manajemen" adalah statement of anporate intent (SCI) antara lain memuat janji atau pernyataan Direksi Perum untuk memenuhi segala target yang disepakati antara Menteri, Dewan Pengawas, dan Direksi Perum. Kontrak manajemen tersebut dapat diperbaharui setiap tahun untuk disesuaikan dengan kondisi dan perkembangan perusahaan.
+
+Ayat (21
+
+Cukup jelas.
+
+Pasal 43F
+
+Cukup jelas.
+
+Pasal 43G...
+
+Pasal 43G Cukup jelas.
+
+Pasal 43H Cukup jelas. Pasal 43I
+
+Ayat (1)
+
+Rencana kerja jangka panjang memuat antara lain:
+
+- a. evaluasi pelaksanaan rencana sebelumnya;
+- b. posisi perusahaan saat ini;
+- c. asumsi-asumsi yang dipakai dalam penJrusunan;
+- d. misi Perum, sasaran usaha, strategi usaha, kebijakan perusahaan, dan program kerja;
+- e. anggaran perusahaan yang dirinci atas setiap anggar.rn progrErm kerja; dan
+- f. proyeksi keuangan Perum.
+
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8)
+
+Cukup jelas.
+
+**Pasal 43J**
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
+
+Dewan Pengawas sebelum menandatangani laporan tahunan yang disampaikan oleh Direksi Perum, wajib membahas secara bersama-sama dengan Direksi Perum. Dengan ditandatangani bersama, semua anggota Direksi Perum dan Dewan Pengawas jawab atas isi laporan tahunan dimaksud.
+
+Ayat (4)
+
+Alasan anggota Direksi Perum atau anggota Dewan Pengawas tidak menandatangani perlu dijelaskan secara tertulis kepada Menteri agar Menteri dapat sebagai salah satu bahan pertimbangan dalam memberikan penilaian terhadap laporan tersebut.
+
+Ayat (5)
+
+Cukup jelas.
+
+Pasal 43K
+
+Cukup jelas.
+
+Pasal 43L
+Yang dimaksud dengan "dokumen perusahaan lainnya" adalah data, catatan, dan/atau keterangan yang dibuat dan/ atau diterima oleh perusahaan dalam rangka pelaksanaan kegiatannya, baik tertulis di atas kertas atau sarana lain namun terekam dalam bentuk corak apapun yang dapat dilihat, dibaca, atau didengar.
+
+Pasal 43M
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat(2)...
+
+**PRESIDEN REPUBLIK INDONES]A**
+
+Ayat (2)
+
+Kesalahan atau kelalaian Direksi Perum yang dimaksud dalam ayat ini harus dapat dibuktikan terlebih dahulu dan diputuskan oleh pengadilan yang berwenang sebelum pertanggungiawaban secara tanggung renteng dapat dilaksanakan.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
+
+Cukup jelas.
+
+Ang)&lt;a77

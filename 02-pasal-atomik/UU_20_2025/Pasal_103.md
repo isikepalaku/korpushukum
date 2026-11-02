@@ -21,7 +21,10 @@ mengamandemen: []
 **(l) Penuntut Umum dapat melakukan Penahanan untuk**
 
 **kepentingan pemeriksaan pada tahap Penuntutan**
-sebagaimana dimaksud dalam Pasal 99 ayat (5) untuk
+sebagaimana dimaksud dalam
+
+Pasal 99
+ayat (5) untuk
 **jangka waktu paling lama 20 (dua puluh) Hari.**
 **(2) Apabila jangka waktu Penahanan sebagaimana**
 

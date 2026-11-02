@@ -17,12 +17,33 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-b. untuk properti yang dimiliki setelah Peraturan Otoritas
-Jasa Keuangan berlaku, ditetapkan sebagai Properti
-Terbengkalai sebagaimana dimaksud dalam Pasal 36 dan
-BPR memperhitungkan Properti Terbengkalai sebagai
-faktor pengurang modal inti dalam perhitungan KPMM
-sebagaimana dimaksud dalam Pasal 37.
+(1) BPR wajib melakukan upaya penyelesaian terhadap
+Properti Terbengkalai yang dimiliki.
+(2) BPR wajib mendokumentasikan upaya penyelesaian
+Properti Terbengkalai sebagaimana dimaksud pada ayat
+(1).
+(3) BPR wajib memperhitungkan Properti Terbengkalai yang
+tercatat pada laporan posisi keuangan sebagai faktor
+pengurang modal inti BPR dalam perhitungan KPMM
+sebesar:
+
+-----
+
+a. 15% (lima belas persen) dari nilai Properti
+Terbengkalai yang dimiliki lebih dari 1 (satu) tahun
+sampai dengan 3 (tiga) tahun sejak ditetapkan
+sebagai Properti Terbengkalai;
+b. 50% (lima puluh persen) dari nilai Properti
+Terbengkalai yang dimiliki lebih dari 3 (tiga) tahun
+sampai dengan 5 (lima) tahun sejak ditetapkan
+sebagai Properti Terbengkalai; atau
+c. 100% (seratus persen) dari nilai Properti Terbengkalai
+yang dimiliki lebih dari 5 (lima) tahun sejak
+ditetapkan sebagai Properti Terbengkalai.
+(4) Otoritas Jasa Keuangan dapat menetapkan jangka waktu
+berbeda dari jangka waktu sebagaimana dimaksud pada
+ayat (3) berdasarkan analisis atas kondisi ekonomi
+wilayah setempat dan sekitarnya.
 
 ## Penjelasan Resmi
 
@@ -75,4 +96,7 @@ Properti Terbengkalai = 100% x Rp350.000.000,00
 = Rp350.000.000,00
 Ayat (4)
 
-Lihat penjelasan Pasal 20 ayat (6).
+Lihat penjelasan
+
+Pasal 20
+ayat (6).

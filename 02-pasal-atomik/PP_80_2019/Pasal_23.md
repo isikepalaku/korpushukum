@@ -4,7 +4,7 @@ uu_induk: Perdagangan Melalui Sistem Elektronik
 kode_uu: PP_80_2019
 pasal: '23'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/siber
 - uu/pp_80_2019
@@ -25,4 +25,7 @@ Untuk menghindari atau merespon adanya konten informasi elektronik ilegal, PPMSE
 
 ## Penjelasan Resmi
 
+Cukupjelas.
+
+Pasal 24
 Cukupjelas.

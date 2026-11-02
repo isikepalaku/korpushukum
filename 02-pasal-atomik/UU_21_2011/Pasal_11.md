@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Anggota Dewan Komisioner sebagaimana dimaksud
-dalam Pasal 10 ayat (4) huruf a sampai dengan huruf g
+dalam
+
+Pasal 10
+ayat (4) huruf a sampai dengan huruf g
 dipilih oleh Dewan Perwakilan Rakyat berdasarkan calon
 anggota yang diusulkan oleh Presiden.
 
@@ -36,7 +39,10 @@ b. paling lama 2 (dua) bulan sejak tanggal kekosongan
 
 jabatan atau penetapan pemberhentian anggota
 Dewan Komisioner karena alasan sebagaimana
-dimaksud dalam Pasal 17 ayat (1) huruf a, huruf b,
+dimaksud dalam
+
+Pasal 17
+ayat (1) huruf a, huruf b,
 huruf d, huruf e, huruf f, huruf g, huruf h, huruf i,
 dan/atau huruf j.
 (3) Panitia Seleksi sebagaimana dimaksud pada ayat (2)

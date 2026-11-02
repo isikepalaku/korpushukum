@@ -22,7 +22,9 @@ mengamandemen: []
 
  paling lama 3 (tiga) tahun sejak dimulainya penanganan
 
- Bank Gagal sebagaimana dimaksud dalam Pasal 39.
+ Bank Gagal sebagaimana dimaksud dalam
+
+Pasal 39.
 
  (2) Penjualan saham sebagaimana dimaksud pada ayat (1)
 
@@ -69,6 +71,32 @@ mengamandemen: []
  penyerahan kepada LPS sebagaimana dimaksud dalam
 
 -----
+
+Pasal 40
+huruf a, maka dalam rangka penggunaan hasil**
+
+ penjualan saham bank dimaksud berlaku ketentuan
+
+ sebagaimana dimaksud dalam
+
+Pasal 29.
+
+ (7) Dalam hal ekuitas bank bernilai nol atau negatif pada saat
+
+ penyerahan kepada LPS sebagaimana dimaksud dalam
+
+Pasal 40
+huruf a, pemegang saham lama tidak memiliki
+
+ hak atas hasil penjualan saham bank setelah penanganan.
+
+ BAB VI
+
+ LIKUIDASI
+
+ Bagian Pertama
+
+ Likuidasi Bank Gagal oleh LPS
 
 ## Penjelasan Resmi
 

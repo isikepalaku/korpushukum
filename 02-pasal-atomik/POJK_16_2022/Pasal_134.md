@@ -17,14 +17,73 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bank dan/atau pejabat eksekutif bank umum
-konvensional dapat dikenai sanksi administratif berupa
-larangan sebagai pihak utama sesuai dengan Peraturan
-OJK mengenai penilaian kembali bagi pihak utama
-lembaga jasa keuangan.
+(1) Dalam melaksanakan Sinergi Perbankan sebagaimana
+dimaksud dalam
 
-BAB XII
-PENYAMPAIAN PERIZINAN DAN LAPORAN
+Pasal 133, kedua belah pihak harus
+membuat perjanjian kerja sama secara tertulis.
+(2) Perjanjian kerja sama sebagaimana dimaksud pada
+ayat (1) paling sedikit mencakup:
+a. pihak yang melakukan kerja sama;
+b. tujuan dan ruang lingkup kerja sama;
+c. jangka waktu perjanjian kerja sama; dan
+d. hak dan kewajiban setiap pihak paling sedikit
+mengenai:
+1. kewajiban kedua belah pihak untuk menjaga
+kerahasiaan dan keamanan informasi,
+termasuk kerahasiaan dan keamanan
+informasi untuk keperluan perlindungan data
+nasabah;
+
+-----
+
+2. tanggung jawab atas kerugian, dalam hal
+terjadi kegagalan sistem, kecurangan,
+dan/atau kegagalan dari faktor internal dan
+eksternal lain;
+3. mitigasi risiko termasuk dalam hal terjadi
+penghentian kerja sama sebelum jatuh tempo;
+4. penanganan pengaduan nasabah, dalam hal
+sinergi berhubungan dengan nasabah secara
+langsung;
+5. aspek alih pengetahuan, dalam hal sinergi
+melibatkan sumber daya manusia dari pihak
+yang melakukan sinergi; dan
+6. pengelolaan dan pemeliharaan dokumentasi
+dari aktivitas atau ruang lingkup yang
+dilakukan kerja sama.
+(3) Perjanjian kerja sama disusun oleh kedua belah pihak
+disertai dengan dokumen dari pejabat satuan kerja
+kepatuhan yang berwenang yang menyatakan bahwa
+Sinergi Perbankan telah memenuhi aspek sebagaimana
+dimaksud pada ayat (2).
+(4) Sinergi Perbankan yang dituangkan dalam perjanjian
+kerja sama secara tertulis sebagaimana dimaksud pada
+ayat (1) didasarkan pada hubungan kerja sama secara
+wajar.
+(5) Pihak yang menerima manfaat bertanggung jawab atas
+risiko yang timbul atas keputusan bisnis, layanan,
+dan/atau operasional dari pelaksanaan Sinergi
+Perbankan.
+(6) Kedua belah pihak wajib memastikan bahwa
+pelaksanaan Sinergi Perbankan sesuai dengan
+perjanjian kerja sama.
+(7) Sinergi terkait dengan penyediaan jasa teknologi
+informasi:
+a. penyediaan jasa teknologi informasi selain aplikasi
+terhadap pihak sebagaimana dimaksud dalam
+
+Pasal 133
+ayat (2); dan
+b. penyediaan jasa teknologi informasi berupa
+aplikasi terhadap pihak sebagaimana dimaksud
+dalam
+
+Pasal 133
+ayat (2) huruf a dan huruf b,
+dikecualikan dari persetujuan OJK sesuai dengan
+Peraturan OJK mengenai penyelenggaraan teknologi
+informasi oleh bank umum.
 
 ## Penjelasan Resmi
 

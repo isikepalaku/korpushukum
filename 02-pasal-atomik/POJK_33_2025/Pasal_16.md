@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PPDP yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 15 dikenai sanksi administratif
+dimaksud dalam
+
+Pasal 15
+dikenai sanksi administratif
 berupa:
 a. peringatan tertulis; dan/atau
 b. penurunan tingkat kesehatan.

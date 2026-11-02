@@ -23,4 +23,4 @@ Pengaturan mengenai Tanda Tangan Elektronik berlaku mutatis mutandis terhadap pe
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

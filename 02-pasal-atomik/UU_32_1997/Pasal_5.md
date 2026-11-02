@@ -21,7 +21,10 @@ mengamandemen: []
 
 Pembinaan, pengaturan, dan pengawasan sehari-hari sebagaimana
 
- dimaksud dalam Pasal 4 ayat (1), dilakukan dengan tujuan:
+ dimaksud dalam
+
+Pasal 4
+ayat (1), dilakukan dengan tujuan:
 
  a. mewujudkan kegiatan Perdagangan Berjangka yang teratur, wajar,
 

@@ -29,6 +29,8 @@ mengamandemen: []
 
 - (6) Dalam hal hasil pemeriksaan sebagaimana dimaksud pada ayat (1) disimpulkan Lembaga tidak berwenang melanjutkan pemeriksean, Lembaga menyampaiken hasil pemeriksaan kepada pihak yang mengadukan atau melaporkan dengan memberikan keterangan.
 
+Pasal 191...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

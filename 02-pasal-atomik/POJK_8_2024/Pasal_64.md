@@ -22,7 +22,9 @@ Perusahaan Asuransi Syariah atau unit syariah dari
 Perusahaan Asuransi bertentangan dengan fatwa atau
 pernyataan kesesuaian syariah yang baru diterbitkan oleh
 lembaga yang memiliki kewenangan dalam penetapan fatwa
-di bidang syariah sebagaimana dimaksud dalam Pasal 63
+di bidang syariah sebagaimana dimaksud dalam
+
+Pasal 63
 ayat (2) huruf a, Perusahaan Asuransi Syariah atau unit
 syariah dari Perusahaan Asuransi wajib menyesuaikan
 Produk Asuransi dengan fatwa atau pernyataan kesesuaian

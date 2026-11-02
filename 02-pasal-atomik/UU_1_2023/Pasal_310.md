@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '310'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,6 @@ Setiap Orang yang secara melawan hukum merusak, menghancurkan, atau membuat tida
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "bangu.nan untuk menahan aif' misalnya, bendungan atau pintu air.
+
+Yang dimaksud dengan "bangunan untuk menyalurkan air" misalnya, selokan, saluran, atau kanal yang berfungsi menyalurkan air.

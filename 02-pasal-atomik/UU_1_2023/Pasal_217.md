@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '217'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,4 @@ lagian Kedua Penyerangan Kehormatan atau Harkat dan Martabat Presiden dan/ atau 
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Tindak Pidana penyerangan diri seseorang pada umumnya dapat merupakan berbagai Tindak Pidana, seperti penganiayaan atau melakukan Kekerasan. Karena Tindak Pidana dalam ketentuan pasal ini ditujukan kepada diri Presiden dan/atau Wakil Presiden maka jika ancaman pidana tidak termasuk dalam pidana yang lebih berat, maka berlaku ketentuan dalam pasal ini.

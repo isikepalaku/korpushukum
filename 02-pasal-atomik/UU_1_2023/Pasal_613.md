@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '613'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,8 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dalam ketentuan ini, penyesuaian ketentuan pidana tidak termasuk bagi ancarnan pidana denda yang diatur dalam Undang-Undang pidana administratif.
+
+Lihat penjelasan
+
+Pasal 187.

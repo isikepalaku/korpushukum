@@ -23,4 +23,7 @@ Laporan Berkala secara lengkap, akurat, dan tepat waktu.
 
 ## Penjelasan Resmi
 
-Lihat penjelasan Pasal 2 ayat (1).
+Lihat penjelasan
+
+Pasal 2
+ayat (1).

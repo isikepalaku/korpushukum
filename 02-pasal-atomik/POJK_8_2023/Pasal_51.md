@@ -27,8 +27,9 @@ sumber dananya.
 pemantauan PJK terhadap Nasabah atau informasi lain
 yang dapat dipertanggungjawabkan, PJK wajib melakukan
 upaya pengkinian data, informasi, dan/atau dokumen
-pendukung sebagaimana dimaksud dalam Pasal 25, Pasal
-26, Pasal 27, Pasal 28, Pasal 29, Pasal 33, dan Pasal 34.
+pendukung sebagaimana dimaksud dalam Pasal 25,
+
+Pasal 26, Pasal 27, Pasal 28, Pasal 29, Pasal 33, dan Pasal 34.
 (3) PJK wajib mendokumentasikan upaya pengkinian data
 sebagaimana dimaksud pada ayat (2).
 (4) Dalam melakukan pengkinian data sebagaimana

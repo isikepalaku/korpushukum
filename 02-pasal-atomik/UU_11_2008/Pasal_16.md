@@ -26,13 +26,7 @@ BAB V . . .
 
 BAB V
 
-TRANSAKSI ELEKTRONIK Pasal 17
-
-- (1) Penyelenggaraan Transaksi Elektronik dapat dilakukan dalam
-
-lingkup publik ataupun privat. (2) Para pihak yang melakukan Transaksi Elektronik sebagaimana dimaksud pada ayat (1) wajib beriktikad baik dalam melakukan interaksi dan/atau pertukaran Informasi Elektronik dan/atau Dokumen Elektronik selama transaksi berlangsung. (3) Ketentuan lebih lanjut mengenai penyelenggaraan Transaksi Elektronik sebagaimana dimaksud pada ayat (1)
-
-- diatur dengan Peraturan Pemerintah.
+TRANSAKSI ELEKTRONIK
 
 ## Penjelasan Resmi
 

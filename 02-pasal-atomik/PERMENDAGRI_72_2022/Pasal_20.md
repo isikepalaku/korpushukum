@@ -29,8 +29,10 @@ Digital
 melalui 
 pemberian 
 personal 
-identification number sebagaimana dimaksud dalam Pasal 
-19 huruf f, Penduduk mengoperasionalkan pada gawai 
+identification number sebagaimana dimaksud dalam
+
+Pasal 19
+huruf f, Penduduk mengoperasionalkan pada gawai 
 pintar dengan cara:
 
 a. login dengan menggunakan personal identification 

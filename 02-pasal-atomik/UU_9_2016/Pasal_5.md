@@ -18,7 +18,17 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+Komite Stabilitas Sistem Keuangan bertugas:
 
+a. melakukan koordinasi dalam rangka pemantauan dan
+
+pemeliharaan Stabilitas Sistem Keuangan;
+
+b. melakukan penanganan Krisis Sistem Keuangan; dan
+c. melakukan penanganan permasalahan Bank Sistemik,
+
+baik dalam kondisi Stabilitas Sistem Keuangan normal
+maupun kondisi Krisis Sistem Keuangan.
 
 ## Penjelasan Resmi
 

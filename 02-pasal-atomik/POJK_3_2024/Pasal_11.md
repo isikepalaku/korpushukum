@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Proses uji coba dan pengembangan inovasi dalam
 _Sandbox dimulai sejak diberikannya persetujuan_
 menjadi Peserta oleh Otoritas Jasa Keuangan
-sebagaimana dimaksud dalam Pasal 10 ayat (2).
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (2).
 (2) Peserta sebagaimana dimaksud pada ayat (1) wajib
 melakukan uji coba dan pengembangan inovasi sesuai
 Rencana Pengujian yang disampaikan kepada Otoritas

@@ -34,9 +34,7 @@ penyelenggara pelelangan ikan.
 **c. pendampingan; d. penyediaan skema pembiayaan yang mudah dan**
 
 **murah melalui kredit program, modal ventura, sistem resi gudang, atau pembiayaan lain;**
-**e. kemtrdahan Pr-rizinan Berusaha; f. penerapan teknologi produksi tepat guna; g. penyediaan pasokan bahan baku; dan/atau h. penyediaan sarana produksi;**
-
-Pasal
+**e. kemtrdahan Pr-rizinan Berusaha; f. penerapan teknologi produksi tepat guna; g. penyediaan pasokan bahan baku; dan/atau h. penyediaan sarana produksi;**Pasal
 
 -----
 

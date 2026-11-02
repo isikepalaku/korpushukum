@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai rencana kerja sebagaimana dimaksud dalam Pasal 43I dan laporan tahunan Perum sebagaimana dimaksud dalam Pasal 43J diatur dalam Peraturan BP BUMN.
+Ketentuan lebih lanjut mengenai rencana kerja sebagaimana dimaksud dalam Pasal 43I dan laporan tahunan Perum sebagaimana dimaksud dalam
+
+Pasal 43J diatur dalam Peraturan BP BUMN.
 
 53. Ketentuan Pasal 43M diubah sehingga berbunyi sebagai berikut:
 

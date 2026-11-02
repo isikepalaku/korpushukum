@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Agen penjamin yang menggelapkan IJP, IJK, IJPU, dan/atau
-IJKU sebagaimana dimaksud dalam Pasal 52 ayat (5) dipidana
+IJKU sebagaimana dimaksud dalam
+
+Pasal 52
+ayat (5) dipidana
 dengan pidana penjara paling lama 3 (tiga) tahun atau pidana
 denda paling banyak Rp2.500.000.000,00 (dua miliar lima
 ratus juta rupiah).

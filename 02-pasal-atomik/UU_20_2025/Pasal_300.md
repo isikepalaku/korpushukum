@@ -18,6 +18,31 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+**(l) Permohonan kasasi disampaikan oleh pemohon dalam**
+**jangka waktu paling lama 14 (empat belas) Hari**
+ terhitung sejak Putusan Pengadilan yang dimintakan kasasi itu dibacakan dalam sidang yang terbuka untuk umum,
+**l2l [Permintaan ] [sebagaimana ] [dimaksud ][pada ] [ayat ][(1) ][oleh]**
+
+**panitera ditulis dalam sebuah surat keterangan yang ditandatangani oleh panitera serta pemohon, dan dicatat dalam daftar yang dilampirkan pada berkas perkara.**
+
+(3) Dalam . . .
+
+-----
+
+R,EPUBLIK INDONESIA
+
+**-154-**
+
+ (3) Dalam hal pengadilan negeri menerima permohonan
+
+kasasi yang diajukan oleh:
+**a. Penuntut Umum atau Terdakwa; atau b. Penuntut Umum dan Terdakwa sekaligus,**
+
+**panitera wajib memberitahukan permintaan dari pihak yang satu kepada pihak yang lain.**Pasal 3O 1
+**(1) Apabila jangka waltu sebagaimana dimaksud dalam**
+
+Pasal 300
+ayat (l) telah lewat tanpa diajukan permohonan kasasi oleh yang bersangkutan maka Terdakwa atau Advokatnya, atau Penuntut Umum**
 dianggap menerima putusan.
 **(21 Apabila dalam jangka waktu sebagaimana dimaksud pada ayat (l), pemohon terlambat mengajukan permohonan kasasi maka hak untuk mengajukan kasasi gugur.**
 **(3) Apabila jangka waktu sebagaimana dimaksud pada**

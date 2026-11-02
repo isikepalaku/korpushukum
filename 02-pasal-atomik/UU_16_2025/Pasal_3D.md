@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai tugas kepala BP BUMN selaku wakil Pemerintah Pusat sebagai regulator sebagaimana dimaksud dalam Pasal 3B dan kewenangan kepala BP BUMN selaku wakil Pemerintah Pusat sebagaimana dimaksud dalam Pasal 3C diatur dalam Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai tugas kepala BP BUMN selaku wakil Pemerintah Pusat sebagai regulator sebagaimana dimaksud dalam Pasal 3B dan kewenangan kepala BP BUMN selaku wakil Pemerintah Pusat sebagaimana dimaksud dalam
+
+Pasal 3C diatur dalam Peraturan Pemerintah.
 
 - Ketentuan Pasal 3E diubah sehingga berbunyi sebagai berikut: 7
 

@@ -72,7 +72,10 @@ Angka 1
 Cukup jelas.
 Angka 2
 
-Lihat penjelasan Pasal 9 ayat (4) huruf b angka 2.
+Lihat penjelasan
+
+Pasal 9
+ayat (4) huruf b angka 2.
 Angka 3
 
 Cukup jelas.

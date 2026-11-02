@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) PJK wajib mengelola dan memitigasi risiko yang telah
 diidentifikasi berdasarkan penilaian risiko sebagaimana
-dimaksud dalam Pasal 4.
+dimaksud dalam
+
+Pasal 4.
 (2) Kewajiban sebagaimana dimaksud pada ayat (1)
 merupakan bagian dari penerapan manajemen risiko PJK
 secara keseluruhan.

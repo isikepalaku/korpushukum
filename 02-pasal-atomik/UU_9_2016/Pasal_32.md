@@ -39,7 +39,10 @@ jawabnya.
 Komite Stabilitas Sistem Keuangan memberikan informasi
 mengenai hasil penilaian protokol manajemen krisis yang
 memengaruhi Stabilitas Sistem Keuangan di bidang
-sebagaimana dimaksud dalam Pasal 3 ayat (2).
+sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (2).
 
 (4) Penilaian mengenai status Stabilitas Sistem Keuangan
 
@@ -84,7 +87,9 @@ Sistem Keuangan.
 
 dimaksud pada ayat (7) disertai dengan langkah
 penanganan kondisi Krisis Sistem Keuangan yang
-mencakup bidang sebagaimana dimaksud dalam Pasal 3
+mencakup bidang sebagaimana dimaksud dalam
+
+Pasal 3
 ayat (2).
 
 (9) Presiden memutuskan paling lambat 1x24 (satu kali dua

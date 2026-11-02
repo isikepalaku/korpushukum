@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-LPIP sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf c dapat memperoleh Informasi Debitur dalam rangka pelaksanaan kegiatan usaha sebagaimana diatur dalam ketentuan peraturan perundang-undangan mengenai LPIP.
+LPIP sebagaimana dimaksud dalam
+
+Pasal 14
+ayat (1) huruf c dapat memperoleh Informasi Debitur dalam rangka pelaksanaan kegiatan usaha sebagaimana diatur dalam ketentuan peraturan perundang-undangan mengenai LPIP.
 
 ## Penjelasan Resmi
 

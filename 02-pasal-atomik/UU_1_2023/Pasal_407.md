@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '407'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -30,10 +30,8 @@ BagianKetiga...
 
 **dan Alat Pengguguran Kandungan**
 
-**Pasal 4O8**
-
-Setiap Orang yang secara terang-terangan mempertunjukkan, menawarkan, menyiarkan tulisan, atau menunjukkan untuk dapat memperoleh alat pencegah kehamilan kepada Anak, dipidana dengan pidana denda paling banyak kategori I.
-
 ## Penjelasan Resmi
 
-Cukup jelas.
+Penafsiran pengertian Pomograli disesuaikan dengan staldar yang berlaku pada masyarakat dalam walrtu dan tempat tertentu (artemporary ommunily standardl.
+
+Membuat Pornografi dalam ketentuan ini tidak termasuk untuk diri sendiri atau kepentingan sendiri.

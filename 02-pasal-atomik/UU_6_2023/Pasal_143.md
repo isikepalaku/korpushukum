@@ -21,4 +21,7 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 144 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 145 Cukup jelas. Pasal 146 Cukup jelas. Kepemilikan satuan rumah susun oleh warga negara asing hanya diberikan di Kawasan Ekonomi Khusus, Kawasan Perdagangan Bebas dan Pelabuhan Bebas, Kawasal Industri, dan kawasan ekonomi lainnya. Huruf d Kepemilikan satuan rumah susun oleh badan hukum asing hanya diberikan di Kawasan Ekonomi Khusus, Kawasan Perdagangan Bebas dan Pelabuhan Bebas, Kawasan Industri, dan kawasan ekonomi lainnya. Huruf e Cukup jelas.
+Cukup jelas.
+
+Pasal 144
+Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 145 Cukup jelas. Pasal 146 Cukup jelas. Kepemilikan satuan rumah susun oleh warga negara asing hanya diberikan di Kawasan Ekonomi Khusus, Kawasan Perdagangan Bebas dan Pelabuhan Bebas, Kawasal Industri, dan kawasan ekonomi lainnya. Huruf d Kepemilikan satuan rumah susun oleh badan hukum asing hanya diberikan di Kawasan Ekonomi Khusus, Kawasan Perdagangan Bebas dan Pelabuhan Bebas, Kawasan Industri, dan kawasan ekonomi lainnya. Huruf e Cukup jelas.

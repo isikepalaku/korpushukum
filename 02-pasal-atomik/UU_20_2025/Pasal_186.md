@@ -18,18 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dan disampaikan kepada Korban. (2) Salinan berita acara sebagaimana dimaksud pada
- ayat (1) disampaikan kepada: a. Keluarga Korban; b. Penyidik; dan c. pengadilan.
-
-Bagian
-
------
-
-**-101 -**
-
- Bagian Kelima
-
-Dana Abadi
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

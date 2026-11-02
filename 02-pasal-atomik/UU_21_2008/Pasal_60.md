@@ -22,7 +22,10 @@ mengamandemen: []
 (1) Setiap orang yang dengan sengaja tanpa membawa perintah
 
 tertulis atau izin dari Bank Indonesia sebagaimana dimaksud
-dalam Pasal 42 dan Pasal 43 memaksa Bank Syariah, UUS,
+dalam Pasal 42 dan
+
+Pasal 43
+memaksa Bank Syariah, UUS,
 atau pihak terafiliasi untuk memberikan keterangan,
 dipidana dengan pidana penjara paling singkat 2 (dua) tahun
 dan paling lama 4 (empat) tahun dan pidana denda paling
@@ -40,7 +43,10 @@ rupiah).
 Umum Konvensional yang memiliki UUS, atau Pihak
 Terafiliasi lainnya yang dengan sengaja memberikan
 keterangan yang wajib dirahasiakan sebagaimana dimaksud
-dalam Pasal 41 dipidana dengan pidana penjara paling
+dalam
+
+Pasal 41
+dipidana dengan pidana penjara paling
 singkat 2 (dua) tahun dan paling lama 4 (empat) tahun dan
 pidana denda paling sedikit Rp4.000.000.000,00 (empat
 miliar rupiah) dan paling banyak Rp8.000.000.000,00

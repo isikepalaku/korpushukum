@@ -28,7 +28,19 @@ Pengadilan diterima.
  salinan Putusan Pengadilan diterima. (3) Apabila pelaksanaan pemberian Kompensasi kepada
  pihak Korban tidak dipenuhi sampai jangka waktu
 sebagaimana dimaksud pada ayat (1), Korban atau ahli
-**warisnya memberitahukan hal tersebut kepada pengadilan.**
+**warisnya memberitahukan hal tersebut kepada pengadilan.**Pasal 186 (1) Jaksa membuat berita acara pelaksanaan Kompensasi
+ dan disampaikan kepada Korban. (2) Salinan berita acara sebagaimana dimaksud pada
+ ayat (1) disampaikan kepada: a. Keluarga Korban; b. Penyidik; dan c. pengadilan.
+
+Bagian
+
+-----
+
+**-101 -**
+
+ Bagian Kelima
+
+Dana Abadi
 
 ## Penjelasan Resmi
 

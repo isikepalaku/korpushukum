@@ -18,7 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal Pemerintah akan menerbitkan Surat Utang Negara untuk tujuan sebagaimana dimaksud dalam Pasal 4, Menteri terlebih dahulu berkonsultasi dengan Bank Indonesia.
+Dalam hal Pemerintah akan menerbitkan Surat Utang Negara untuk tujuan sebagaimana dimaksud dalam
+
+Pasal 4, Menteri terlebih dahulu berkonsultasi dengan Bank Indonesia.
 
 ```
 
@@ -26,6 +28,9 @@ Dalam hal Pemerintah akan menerbitkan Surat Utang Negara untuk tujuan sebagaiman
 
 ```
  - 4
+**Pasal 7… Pasal 7**
+
+ (1) Penerbitan Surat Utang Negara harus terlebih dahulu mendapat persetujuan Dewan Perwakilan Rakyat. (2) Persetujuan sebagaimana dimaksud dalam ayat (1) diberikan atas nilai bersih maksimal Surat Utang Negara yang akan diterbitkan dalam satu tahun anggaran. (3) Persetujuan Dewan Perwakilan Rakyat sebagaimana dimaksud dalam ayat (1), diberikan pada saat pengesahan Anggaran Pendapatan dan Belanja Negara. (4) Dalam hal-hal tertentu, Menteri dapat menerbitkan Surat Utang Negara melebihi nilai bersih maksimal yang telah disetujui Dewan Perwakilan Rakyat sebagaimana dimaksud dalam ayat (2) setelah mendapat persetujuan terlebih dahulu dari Dewan Perwakilan Rakyat dan dilaporkan sebagai Perubahan Anggaran Pendapatan dan Belanja Negara tahun yang bersangkutan.
 
 ## Penjelasan Resmi
 

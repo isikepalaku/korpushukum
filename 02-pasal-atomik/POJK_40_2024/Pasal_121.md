@@ -24,7 +24,9 @@ b. tidak ada lagi aset yang dapat digunakan untuk
 membayar kewajiban sebelum berakhirnya jangka
 waktu pelaksanaan Likuidasi; atau
 c. berakhirnya jangka waktu pelaksanaan Likuidasi
-sebagaimana dimaksud dalam Pasal 103.
+sebagaimana dimaksud dalam
+
+Pasal 103.
 
 ## Penjelasan Resmi
 

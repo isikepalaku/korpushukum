@@ -33,7 +33,7 @@ pada ayat (1), dalam tingkat kasasi:
 **sendiri, pihak yang berwenang menetapkan Hakim yang akan Mengadili merupakan majelis yang**
  terdiri atas 3 (tiga) orang Hakim yang dipilih oleh dan antar Hakim anggota.
 
-Pasal 3O8
+Pasal 308
 **(1) Pemeriksaan dalam tingkat kasasi dilakukan oleh**
 
 **Mahkamah Agung atas permintaan para pihak guna menentukan apakah benar:**
@@ -81,9 +81,7 @@ dengan cara pemanggilan yang sama.
 **permintaan Terdakwa.**
 **(10) Dalam hal Terdakwa tetap ditahan, dalam jangka**
 
-**waktu paling lama 14 (empat belas) Hari sejak penetapan Penahanan, Mahkamah Agung wajib memeriksa perkara tersebut.**
-
-Pasal 3O9...
+**waktu paling lama 14 (empat belas) Hari sejak penetapan Penahanan, Mahkamah Agung wajib memeriksa perkara tersebut.**Pasal 3O9...
 
 -----
 
@@ -91,8 +89,6 @@ Pasal 3O9...
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal 3O8
+**Cukup [jelas.]**Pasal 3O8
 
 **Cukup [jelas.]**

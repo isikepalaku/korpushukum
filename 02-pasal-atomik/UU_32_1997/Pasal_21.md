@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Apabila penyebab penghentian sementara waktu transaksi seluruh
 
- Kontrak Berjangka sebagaimana dimaksud dalam Pasal 19 tidak
+ Kontrak Berjangka sebagaimana dimaksud dalam
+
+Pasal 19
+tidak
 
  dapat diatasi dalam jangka waktu tertentu, Bappebti menghentikan
 

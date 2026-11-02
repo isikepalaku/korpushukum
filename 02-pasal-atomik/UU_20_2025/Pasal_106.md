@@ -24,9 +24,7 @@ mengamandemen: []
  dimaksud pada ayat (1) telah terlampaui, Penahanan dapat diperpanjang oleh Ketua Mahkamah Agung untuk [jangka ] waktu paling lama 60 (enam puluh) Hari.
 **(3) Apabila jangka waktu 60 (enam puluh) Hari**
 
-**sebagaimana dimaksud pada ayat (2) terlampaui, Hakim agung wajib mengeluarkan Tersangka dari tahanan.**
-
-Pasal 1O7
+**sebagaimana dimaksud pada ayat (2) terlampaui, Hakim agung wajib mengeluarkan Tersangka dari tahanan.**Pasal 1O7
 **(l) Jangka waktu Penahanan sebagaimana dimaksud**
 
 **dalam Pasal 102 sampai dengan Pasal 106 dapat diperpanjang kembali berdasarkan alasan yang patut**
@@ -68,7 +66,14 @@ Pasal 1O7
  banding kepada Ketua Mahkamah Agung.
 **(8) Terhadap perpanjangan Penahanan pada tingkat**
 
-**pemeriksaan kasasi sebagaimana dimaksud ayat (3) huruf d, Terdakwa tidak dapat mengajukan keberatan karena Mahkamah Agung merupakan peradilan tingkat terakhir dan yang melakukan pengawasan tertinggi terhadap perbuatan pengadilan lain.**
+**pemeriksaan kasasi sebagaimana dimaksud ayat (3) huruf d, Terdakwa tidak dapat mengajukan keberatan karena Mahkamah Agung merupakan peradilan tingkat terakhir dan yang melakukan pengawasan tertinggi terhadap perbuatan pengadilan lain.**Pasal 108. . .
+
+-----
+
+PTIESIDEN
+**FUEUK INDONESIA**
+
+**-57-**
 
 ## Penjelasan Resmi
 

@@ -17,12 +17,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Sertifikat Jaminan Fidusia sebagaimana dimaksud dalam ayat (1)
- mempunyai kekuatan eksekutorial yang sama dengan putusan pengadilan yang telah memperoleh kekuatan hukum tetap.
+(1) Kantor Pendaftaran Fidusia menerbitkan dan menyerahkan kepada
+ Penerima Fidusia Sertifikat Jaminana Fidusia pada tanggal yang sama dengan tanggal penerimaan permohonan pendaftaran.
 
- (3) Apabila debitor cidera janji, Penerima Fidusia mempunyai hak untuk
- menjual Benda yang menjadi objek Jaminan Fidusia atas kekuasaannya sendiri.
+ (2) Sertifikat Jaminan Fidusia yang merupakan salinan dari Buku Daftar
+ Fidusia memuat catatan tentang hal-hal sebagaimana dimaksud dalam
+
+Pasal 13
+ayat (2).
+
+ (3) Jaminan Fidusia lahir pada tanggal yang sama dengan tanggal
+ dicatatnya Jaminana Fidusia dalam Buku Daftar Fidusia.
 
 ## Penjelasan Resmi
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Ketentuan ini tidak mengurangi berlakunya Pasal 613 Kitab Undang-undang Hukum Perdata bagi pengalihan piutang atas nama dan kebendaan tak berwujud lainnya.
+Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Ketentuan ini tidak mengurangi berlakunya
+
+Pasal 613
+Kitab Undang-undang Hukum Perdata bagi pengalihan piutang atas nama dan kebendaan tak berwujud lainnya.

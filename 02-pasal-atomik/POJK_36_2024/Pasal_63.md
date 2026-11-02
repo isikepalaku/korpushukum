@@ -46,3 +46,5 @@ e. bukti pemberitahuan kepada pemegang polis.
 Angka 39
 
 Dihapus.
+
+Angka 40

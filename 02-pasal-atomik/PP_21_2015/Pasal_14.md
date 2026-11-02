@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Sertifikat perubahan atas sertifikat Jaminan Fidusia
 
-sebagaimana dimaksud dalam Pasal 7 dapat dicetak
+sebagaimana dimaksud dalam
+
+Pasal 7
+dapat dicetak
 setelah pembayaran biaya permohonan dilakukan.
 
 (2) Sertifikat perubahan sebagaimana dimaksud pada ayat (1)

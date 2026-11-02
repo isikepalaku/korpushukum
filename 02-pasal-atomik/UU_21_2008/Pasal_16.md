@@ -27,6 +27,12 @@ mendapat izin dari Bank Indonesia.
 sebagaimana dimaksud pada ayat (1) diatur dengan
 Peraturan Bank Indonesia.
 
+Pasal 17 . . .
+
+-----
+
+ - 11
+
 ## Penjelasan Resmi
 
 Ayat (1)

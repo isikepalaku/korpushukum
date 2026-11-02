@@ -18,13 +18,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BAB IV
+(1) Sebelum menjalankan kegiatan usaha, LKM harus memiliki izin usaha
 
-KEGIATAN USAHA DAN CAKUPAN WILAYAH USAHA
+dari Otoritas Jasa Keuangan.
 
-Bagian Kesatu
+(2) Untuk memperoleh izin usaha LKM sebagaimana dimaksud pada ayat
 
-Kegiatan Usaha
+(1), harus dipenuhi persyaratan paling sedikit mengenai:
+
+a. susunan organisasi dan kepengurusan;
+
+b. permodalan;
+
+c. kepemilikan; dan
+
+d. kelayakan rencana kerja.
 
 ## Penjelasan Resmi
 

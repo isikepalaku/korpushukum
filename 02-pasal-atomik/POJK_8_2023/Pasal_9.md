@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pengawasan aktif Dewan Komisaris sebagaimana dimaksud
-dalam Pasal 3 huruf a, paling sedikit:
+dalam
+
+Pasal 3
+huruf a, paling sedikit:
 a. memastikan PJK memiliki kebijakan dan prosedur
 penerapan program APU, PPT, dan PPPSPM;
 b. memberikan persetujuan atas kebijakan dan prosedur

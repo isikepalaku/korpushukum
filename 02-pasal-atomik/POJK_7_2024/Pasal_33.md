@@ -26,7 +26,9 @@ peraturan perundang-undangan.
 atau BPR Syariah tidak memenuhi persyaratan
 sebagaimana dimaksud pada ayat (1) huruf a dan/atau
 melanggar ketentuan larangan sebagaimana dimaksud
-dalam Pasal 31, pemilik BPR atau BPR Syariah:
+dalam
+
+Pasal 31, pemilik BPR atau BPR Syariah:
 a. tidak diakui kepemilikan sahamnya;
 b. tidak diperhitungkan hak suaranya dalam kuorum
 RUPS; dan

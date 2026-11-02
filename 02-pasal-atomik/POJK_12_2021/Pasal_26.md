@@ -19,13 +19,17 @@ mengamandemen: []
 
 (1) Ketentuan mengenai pendirian Bank BHI sebagaimana
 
-dimaksud dalam Pasal 11 sampai dengan Pasal 22
+dimaksud dalam Pasal 11 sampai dengan
 
+Pasal 22
 berlaku mutatis mutandis terhadap pendirian Bank
 
 BHI baru yang akan beroperasi sebagai Bank Digital
 
-sebagaimana dimaksud dalam Pasal 25 huruf a
+sebagaimana dimaksud dalam
+
+Pasal 25
+huruf a
 
 kecuali diatur khusus dalam Peraturan OJK ini.
 
@@ -37,7 +41,10 @@ a. setoran modal pada saat permohonan untuk
 
 memperoleh persetujuan prinsip pendirian Bank
 
-BHI sebagaimana dimaksud dalam Pasal 15 ayat
+BHI sebagaimana dimaksud dalam
+
+Pasal 15
+ayat
 
 (1) huruf i dapat dipenuhi paling sedikit 30% (tiga
 
@@ -45,7 +52,10 @@ puluh persen); dan
 
 b. upaya pemenuhan persyaratan sebagaimana
 
-dimaksud dalam Pasal 24 dicantumkan dalam
+dimaksud dalam
+
+Pasal 24
+dicantumkan dalam
 
 rencana bisnis sebagaimana dimaksud dalam
 

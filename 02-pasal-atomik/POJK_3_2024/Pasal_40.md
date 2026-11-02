@@ -26,7 +26,10 @@ a. tata kelola sebagaimana dimaksud dalam Pasal 8
 ayat (3) huruf a; dan
 b. kesiapan permodalan dan sumber daya untuk
 melakukan uji coba dan pengembangan inovasi
-sebagaimana dimaksud dalam Pasal 9 ayat (5)
+sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (5)
 huruf f,
 dalam mendukung pencapaian tujuan Penyelenggara
 ITSK.

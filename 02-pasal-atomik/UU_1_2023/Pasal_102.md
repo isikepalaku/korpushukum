@@ -24,4 +24,4 @@ Paragraf 2 Tindakan
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

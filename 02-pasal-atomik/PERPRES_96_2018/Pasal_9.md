@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setelah dilakukan pencatatan sebagaimana dimaksud
-dalam Pasal 3 sampai dengan Pasal 6, Disdukcapil
+dalam Pasal 3 sampai dengan
+
+Pasal 6, Disdukcapil
 KabupatenlKota atau UPT Disdukcapil Kabupaten/Kota
 menerbitkan biodata Penduduk.
 (2) Setelah
@@ -27,7 +29,9 @@ PRES I DEN
 REPUBLIK INDONESIA
 
 (2) Setelah dilakukan pencatatan sebagaimana dimaksud
-dalam Pasal 7, Perwakilan Republik Indonesia
+dalam
+
+Pasal 7, Perwakilan Republik Indonesia
 menerbitkan biodata WNI di luar wilayah Negara
 Kesatuan Republik Indonesia.
 Paragraf 3

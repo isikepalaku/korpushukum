@@ -20,6 +20,24 @@ mengamandemen: []
 (1) Pelanggaran terhadap ketentuan sebagaimana
 dimaksud dalam Pasal 11 ayat (2), ayat (3), ayat (5),
 
+Pasal 13
+ayat (4), Pasal 15 ayat (7), Pasal 16 ayat (2),
+dan/atau Pasal 17 ayat (2) dikenakan sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. penghentian sementara, sebagian, atau seluruh
+kegiatan termasuk pelaksanaan kerja sama;
+dan/atau
+c. pembatalan persetujuan.
+(2) Sanksi administratif sebagaimana dimaksud pada ayat
+(1) huruf b dan huruf c dapat dikenakan dengan atau
+tanpa didahului pengenaan sanksi administratif berupa
+peringatan tertulis sebagaimana dimaksud pada ayat
+(1) huruf a.
+
+BAB IV
+PERIZINAN
+
 ## Penjelasan Resmi
 
 Cukup jelas.

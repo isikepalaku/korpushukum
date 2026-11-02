@@ -17,16 +17,20 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-mengadakan pelatihan bagi tenaga pemasar dimaksud.
-(2) Pelatihan sebagaimana dimaksud pada ayat (1) paling
-sedikit mencakup:
-a. pelatihan mengenai Produk Asuransi Mikro yang
-akan dipasarkan; dan
-b. pelatihan mengenai pengetahuan dasar asuransi.
-(3) Ketentuan lebih lanjut mengenai pemasaran Produk
-Asuransi Mikro melalui tenaga pemasar sebagaimana
-dimaksud pada ayat (1) ditetapkan oleh Otoritas Jasa
-Keuangan.
+(1) Perusahaan Asuransi dan Perusahaan Asuransi
+Syariah hanya dapat memasarkan Produk Asuransi
+melalui saluran pemasaran:
+a. secara langsung;
+b. agen asuransi;
+c. _Bancassurance;_
+d. badan usaha selain bank; dan/atau
+e. tenaga pemasar khusus untuk Produk Asuransi
+Mikro.
+(2) Ketentuan lebih lanjut mengenai saluran pemasaran
+sebagaimana dimaksud pada ayat (1) ditetapkan oleh
+Otoritas Jasa Keuangan.
+
+-----
 
 ## Penjelasan Resmi
 

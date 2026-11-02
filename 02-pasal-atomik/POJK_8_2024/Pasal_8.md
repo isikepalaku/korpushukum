@@ -20,12 +20,21 @@ mengamandemen: []
 (1) Produk Asuransi yang dapat dipasarkan oleh
 perusahaan asuransi umum dan perusahaan asuransi
 umum syariah merupakan Produk Asuransi
-sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf a,
-huruf c, huruf d, dan Pasal 2 ayat (2).
+sebagaimana dimaksud dalam
+
+Pasal 2
+ayat (1) huruf a,
+huruf c, huruf d, dan
+
+Pasal 2
+ayat (2).
 (2) Produk Asuransi yang dapat dipasarkan oleh
 perusahaan asuransi jiwa dan perusahaan asuransi
 jiwa syariah merupakan Produk Asuransi sebagaimana
-dimaksud dalam Pasal 2 ayat (1) huruf b, huruf c, huruf
+dimaksud dalam
+
+Pasal 2
+ayat (1) huruf b, huruf c, huruf
 d, dan Pasal 2 ayat (2) huruf c.
 (3) Produk Asuransi Mikro yang dapat dipasarkan oleh
 perusahaan asuransi umum dan perusahaan asuransi

@@ -17,12 +17,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Dalam hal informasi sebagaimana dimaksud dalam Pasal
-58 ayat (1) huruf a angka 1 tidak terpenuhi, Bank Pengirim
+(1) Dalam hal informasi sebagaimana dimaksud dalam Pasal 58 ayat (1) huruf a angka 1 tidak terpenuhi, Bank Pengirim
 wajib menolak untuk melaksanakan Transfer Dana.
 (2) Dalam hal Bank Penerus menerima perintah transfer dari
 Bank Pengirim di luar negeri yang tidak dilengkapi dengan
-informasi sebagaimana dimaksud dalam Pasal 58 ayat (1)
+informasi sebagaimana dimaksud dalam
+
+Pasal 58
+ayat (1)
 huruf a angka 1, Bank Penerus wajib melakukan tindakan
 yang memadai, yang sejalan dengan _straight-through_
 _processing, untuk mengidentifikasi Transfer Dana yang_
@@ -30,7 +32,10 @@ tidak dilengkapi dengan informasi tersebut.
 (3) Dalam hal Bank Penerima menerima perintah transfer dari
 Bank Pengirim atau Bank Penerus di luar negeri yang
 tidak dilengkapi dengan informasi sebagaimana dimaksud
-dalam Pasal 58 ayat (1) huruf a angka 1, Bank Penerima
+dalam
+
+Pasal 58
+ayat (1) huruf a angka 1, Bank Penerima
 wajib melakukan tindakan yang memadai, untuk
 mengidentifikasi Transfer Dana yang tidak dilengkapi
 dengan informasi tersebut, yang dapat berupa
@@ -39,7 +44,10 @@ dilaksanakan.
 (4) Dalam hal Bank Penerus dan/atau Bank Penerima
 menerima perintah Transfer Dana dari Bank Pengirim di
 luar negeri yang tidak dilengkapi dengan informasi
-sebagaimana dimaksud dalam Pasal 58 ayat (1) huruf a
+sebagaimana dimaksud dalam
+
+Pasal 58
+ayat (1) huruf a
 angka 1, Bank Penerus dan/atau Bank Penerima dapat:
 a. melaksanakan Transfer Dana;
 b. menolak untuk melaksanakan Transfer Dana; atau
@@ -50,6 +58,10 @@ pada ayat (2) dan ayat (3), Bank Penerus dan/atau Bank
 Penerima wajib memiliki kebijakan dan prosedur berbasis
 risiko terkait Transfer Dana yang menjadi bagian dari
 kebijakan dan prosedur sebagaimana dimaksud dalam
+
+Pasal 17.
+
+-----
 
 ## Penjelasan Resmi
 

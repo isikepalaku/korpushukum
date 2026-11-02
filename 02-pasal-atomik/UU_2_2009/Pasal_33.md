@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Dalam hal upaya penagihan atas piutang sebagaimana
 
-dimaksud dalam Pasal 32 ayat (3) telah dilakukan lebih
+dimaksud dalam
+
+Pasal 32
+ayat (3) telah dilakukan lebih
 dari 10 (sepuluh) tahun, tetapi tetap tidak tertagih dan
 perkiraan biaya tagih lebih besar dibandingkan dengan
 hasil tagih, piutang tersebut dapat dihapustagihkan.

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam menjalankan kegiatan usaha sebagaimana
-dimaksud dalam Pasal 130 ayat (1) dan ayat (2),
+dimaksud dalam
+
+Pasal 130
+ayat (1) dan ayat (2),
 Penyelenggara menjalankan kegiatan usaha secara
 konvensional atau berdasarkan Prinsip Syariah.
 (2) Penyelenggara yang menyelenggarakan kegiatan usaha

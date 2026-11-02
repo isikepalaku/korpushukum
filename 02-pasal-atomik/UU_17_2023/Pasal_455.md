@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan dalam Pasal 427, Pasal 428, Pasal 429, Pasal 43L, dan Pasal 432 berlaku sampai dengan diberlakukannya Undang-Undang Nomor 1 Tahun 2023 tentar:g Kitab UndangUndang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842).
+Ketentuan dalam Pasal 427,
+
+Pasal 428, Pasal 429, Pasal 43L, dan Pasal 432 berlaku sampai dengan diberlakukannya Undang-Undang Nomor 1 Tahun 2023 tentar:g Kitab UndangUndang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842).
 
 ## Penjelasan Resmi
 

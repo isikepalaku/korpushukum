@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '51'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -12,7 +12,6 @@ status_berlaku: diubah
 diamandemen_oleh:
 - '[[02-pasal-atomik/UU_4_2026/Pasal_51|UU 4/2026 Pasal 51]]'
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_51|UU 1/2013 Pasal 51]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_51|UU 1/2016 Pasal 51]]'
 - '[[02-pasal-atomik/UU_10_2011/Pasal_51|UU 10/2011 Pasal 51]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_51|UU 21/2008 Pasal 51]]'
@@ -44,3 +43,5 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 18

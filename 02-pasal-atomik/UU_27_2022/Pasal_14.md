@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pelaksanaan hak Subjek Data Pribadi sebagaimana dimaksud dalam Pasal 6 sampai dengan Pasal 11 diajukan melalui permohonan tercatat yang disampaikan secara elektronik atau nonelektronik kepada PengendaliData Pribadi.
+Pelaksanaan hak Subjek Data Pribadi sebagaimana dimaksud dalam Pasal 6 sampai dengan
+
+Pasal 11
+diajukan melalui permohonan tercatat yang disampaikan secara elektronik atau nonelektronik kepada PengendaliData Pribadi.
 
 ## Penjelasan Resmi
 

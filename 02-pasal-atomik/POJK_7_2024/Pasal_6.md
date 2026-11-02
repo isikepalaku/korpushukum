@@ -17,23 +17,46 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1), Pasal 17 ayat (1), Pasal 18 ayat (1), Pasal 19 ayat (1),
-ayat (3), dan/atau Pasal 20 BPR atau BPR Syariah dikenai
-sanksi administratif berupa:
-a. penurunan tingkat kesehatan;
-b. larangan melakukan ekspansi kegiatan usaha;
-c. penghentian sementara sebagian kegiatan
-operasional; dan/atau
-d. penundaan hak menerima dividen bagi pemegang
-saham.
-(3) Selain sanksi administratif sebagaimana dimaksud pada
-ayat (1) dan/atau ayat (2), BPR, BPR Syariah, dan/atau
-PSP dapat dikenai sanksi administratif berupa denda
-paling sedikit Rp10.000.000,00 (sepuluh juta rupiah) dan
-paling banyak Rp100.000.000,00 (seratus juta rupiah)
-untuk setiap pelanggaran yang dilakukan.
-(4) BPR atau BPR Syariah yang melanggar ketentuan
-sebagaimana dimaksud dalam Pasal 12 ayat (2) dan/atau
+(1) Modal disetor pendirian BPR sebagaimana dimaksud
+dalam
+
+Pasal 2
+ayat (1) huruf a paling sedikit:
+a. Rp100.000.000.000,00 (seratus miliar rupiah), bagi
+BPR yang didirikan di zona 1;
+b. Rp50.000.000.000,00 (lima puluh miliar rupiah), bagi
+BPR yang didirikan di zona 2; dan
+c. Rp25.000.000.000,00 (dua puluh lima miliar rupiah),
+bagi BPR yang didirikan di zona 3.
+(2) Modal disetor pendirian BPR Syariah sebagaimana
+dimaksud dalam
+
+Pasal 2
+ayat (1) huruf a paling sedikit:
+a. Rp75.000.000.000,00 (tujuh puluh lima miliar
+rupiah), bagi BPR Syariah yang didirikan di zona 1;
+b. Rp35.000.000.000,00 (tiga puluh lima miliar rupiah),
+bagi BPR Syariah yang didirikan di zona 2; dan
+c. Rp15.000.000.000,00 (lima belas miliar rupiah), bagi
+BPR Syariah yang didirikan di zona 3.
+(3) Berdasarkan pertimbangan tertentu, OJK berwenang
+menetapkan jumlah modal disetor pendirian BPR atau
+BPR Syariah yang lebih tinggi daripada jumlah modal
+disetor sebagaimana dimaksud pada ayat (1) dan ayat (2).
+
+-----
+
+(4) Modal disetor pendirian sebagaimana dimaksud pada ayat
+(1) dan ayat (2) wajib digunakan untuk modal kerja paling
+sedikit 50% (lima puluh persen).
+(5) Pembagian zona sebagaimana dimaksud pada ayat (1) dan
+ayat (2) ditentukan berdasarkan potensi ekonomi dan
+tingkat persaingan lembaga jasa keuangan di wilayah
+provinsi.
+(6) Daftar wilayah dan modal disetor pendirian BPR atau BPR
+Syariah berdasarkan zona tercantum dalam Lampiran
+Bagian A yang merupakan bagian tidak terpisahkan dari
+Peraturan OJK ini.
 
 ## Penjelasan Resmi
 

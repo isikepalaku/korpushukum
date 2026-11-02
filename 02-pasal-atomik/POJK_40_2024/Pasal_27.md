@@ -24,7 +24,10 @@ pimpinan UUS.
 (2) Pelaporan perubahan pimpinan UUS sebagaimana
 dimaksud pada ayat (1) harus disampaikan oleh Direksi
 dengan melampirkan dokumen pimpinan UUS
-sebagaimana dimaksud dalam Pasal 22 ayat (2) yang
+sebagaimana dimaksud dalam
+
+Pasal 22
+ayat (2) yang
 tercantum dalam Lampiran pada tabel 4 yang
 merupakan bagian tidak terpisahkan dari Peraturan
 Otoritas Jasa Keuangan ini.

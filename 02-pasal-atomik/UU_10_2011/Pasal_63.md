@@ -50,7 +50,10 @@ Bappebti.
 
  - 26
 31. Ketentuan Pasal 68 ayat (2), ayat (3), dan ayat (4) diubah
-sehingga Pasal 68 berbunyi sebagai berikut:
+sehingga
+
+Pasal 68
+berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -74,3 +77,5 @@ terhadap ketentuan Undang-undang ini dan/atau
 peraturan pelaksanaannya, Bappebti dapat mewajibkan
 pemegang izin, persetujuan, dan sertifikat pendaftaran
 untuk menyampaikan laporan.
+
+Angka 31

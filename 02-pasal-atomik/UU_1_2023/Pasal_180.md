@@ -24,4 +24,4 @@ Pesawat Udara adalah setiap mesin atau alat yang dapat terbang di atmosfer karen
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukup je1as.

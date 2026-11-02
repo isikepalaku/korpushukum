@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '463'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,4 +23,12 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
+Ketentuan ini dimaksudkan untuk melindungi kandungan seorang perempuan. Jika yang diaborsi adalah kandungan yang sudah mati, ketentuan pidana dalam Pasal ini tidak berlaku. Tidaklah relevan di sini untuk menentukan cara dan sar€Lna apa yang digrrnakan untuk melakukan aborsi. Yang penting dan yang menentukan adalah akibat yang ditimbulkan, yaitu matinya kandungan itu.
+
+Ayat (1)
+
 Cukup jelas.
+
+Ayat (2)
+
+Yang dimaksud dengan "Tindak Pidana kekerasan seksual lain yang menyebabkan kehamilan", antara lain, pemaksaan pelacuran, eksploitasi seksual, dan/atau perbudakan seksual.

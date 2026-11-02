@@ -32,6 +32,15 @@ mengamandemen: []
 
  kewajiban Pialang Berjangka yang bersangkutan kepada Nasabah.
 
+Pasal 23…
+
+```
+
+-----
+
+```
+ - 17
+
 ## Penjelasan Resmi
 
 Cukup jelas.

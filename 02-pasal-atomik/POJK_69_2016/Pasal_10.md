@@ -22,7 +22,10 @@ mengamandemen: []
 
 lingkup usaha berbasis imbalan jasa (fee based)
 
-sebagaimana dimaksud dalam Pasal 4 huruf d,
+sebagaimana dimaksud dalam
+
+Pasal 4
+huruf d,
 
 Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 

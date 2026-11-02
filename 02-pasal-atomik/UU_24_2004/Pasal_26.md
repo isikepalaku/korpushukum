@@ -20,7 +20,9 @@ mengamandemen: []
 
 Setelah RUPS menyerahkan hak dan wewenang sebagaimana
 
- dimaksud dalam Pasal 25, LPS dapat melakukan tindakan
+ dimaksud dalam
+
+Pasal 25, LPS dapat melakukan tindakan
 
  sebagai berikut:
 

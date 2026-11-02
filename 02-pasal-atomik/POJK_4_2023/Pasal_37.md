@@ -221,3 +221,5 @@ Cukup jelas.
 Ayat (9)
 
 Cukup jelas.
+
+Angka 7

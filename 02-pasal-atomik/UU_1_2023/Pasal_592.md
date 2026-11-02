@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '592'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,4 +23,7 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Orang yang secara berulang-ulang melakukan Tindak Pidana s6lagaim614 dimaksud dalam
+
+Pasal 591
+tidak perlu dibuktikan bahwa pelaku Tindak Pidana melakukan Tindak Pidana ini untuk mengejar keuntungan. Dikategorikan "menjadikan kebiasaan" karena perbuatan tersebut dilakukan secara bemlang-ulang meskipun jangka walrhrnya agak lama.

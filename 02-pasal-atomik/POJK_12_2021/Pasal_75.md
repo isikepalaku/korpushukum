@@ -19,7 +19,10 @@ mengamandemen: []
 
 Perubahan status kantor selain sebagaimana dimaksud
 
-dalam Pasal 73 dan Pasal 74 dilakukan dengan cara
+dalam Pasal 73 dan
+
+Pasal 74
+dilakukan dengan cara
 
 melakukan penutupan kantor Bank BHI yang akan
 

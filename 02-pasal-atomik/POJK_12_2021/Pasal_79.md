@@ -21,7 +21,10 @@ mengamandemen: []
 
 pemindahan alamat kantor sebagaimana dimaksud
 
-dalam Pasal 76 dari OJK serta persetujuan dari
+dalam
+
+Pasal 76
+dari OJK serta persetujuan dari
 
 otoritas negara setempat bagi Kantor di Luar Negeri,
 
@@ -91,7 +94,10 @@ Kantor di Luar Negeri.
 
 (6) Dalam hal pemindahan alamat kantor Bank BHI
 
-sebagaimana dimaksud dalam Pasal 76 batal
+sebagaimana dimaksud dalam
+
+Pasal 76
+batal
 
 dilaksanakan, Bank BHI wajib menyampaikan
 
@@ -117,7 +123,10 @@ anggaran dasar.
 
 (8) Dalam hal pemindahan alamat kantor Bank BHI
 
-sebagaimana dimaksud dalam Pasal 76 batal
+sebagaimana dimaksud dalam
+
+Pasal 76
+batal
 
 dilaksanakan dan Bank BHI telah mengumumkan
 

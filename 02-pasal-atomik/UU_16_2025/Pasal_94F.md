@@ -19,8 +19,7 @@ mengamandemen: []
 
 Pengalihan kepemilikan 1% (satu persen) saham seri A Dwiwarna pada Holding Investasi dan Holding Operasional kepada Badan dilakukan paling lambat 3 (tiga) bulan terhitung sejak Undang-Undang ini mulai berlaku.
 
-## Pasal II
-
+## Pasal 11
 - I Pemerintah Pusat dan Dewan Perwakilan Rakyat Republik Indonesia melalui alat kelengkapan yang menangani bidang legislasi wajib melakukan pemantauan dan peninjauan terhadap pelaksanaan Undang-Undang ini 2 (dua) tahun setelah Undang-Undang ini diundangkan berdasarkan mekanisme yang diatur dalam UndangUndang mengenai Pembentukan Peraturan Perundangundangan.
 - Ketentuan mengenai rangkap jabatan menteri dan wakil menteri sebagai organ BUMN berlaku paling lama 2 (dua) tahun terhitung sejak Putusan Mahkamah Konstitusi yang terkait dengan rangkap jabatan menteri dan wakil menteri diucapkan. 2
 - Undang-Undang ini mulai berlaku pada tanggal diundangkan. 3

@@ -18,7 +18,33 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Advokatnya, atau Penuntut Umum dianggap menerima putusan sebagaimana dimaksud pada ayat (1), panitera mencatat dan membuat akta mengenai hal tersebut serta dilekatkan pada berkas perkara.
+**(1) Permohonan banding dapat diajukan ke pengadilan tinggi**
+
+oleh Terdal<wa atau Advokatnya atau Penuntut Umum.
+**(21 Permohonan banding 5slagaim€ura dimaksud pada**
+ ayat (l) diterima oleh panitera pengadilan negeri dalam jangka waktu paling lama 7 (tujuh) Hari setelah putusan
+ dijatuhkan atau setelah putusan diberitahukan kepada
+Terdakwa yang tidak hadir dalam sidang sebagaimana
+
+**dimaksud dalam Pasal 266 ayat (21.**
+**(3) Terhadap permohonan banding sebagaimana**
+
+**dimaksud pada ayat (21, pailtera membuat surat keterangan yang ditandatangani oleh panitera dan pemohon, serta tembusannya diberikan kepada**
+pemohon yang bersangkutan.
+**(41 Dalam hal pemohon tidak dapat menghadap, panitera**
+ harus mencatatnya disertai dengan alasan dan catatan harus dilampirkan dalam berkas perkara dan ditulis dalam daftar perkara pidana.
+**(5) Dalam hal pengadilan negeri menerima permohonan**
+
+**banding yang diajukan oleh:**
+ a. Penuntut Umum atau Terdakwa atau Advokatnya;
+ atau b. Penuntut Umum dan Terdakwa atau Advokatnya
+
+sekaligus,
+**panitera wajib memberitahukan permohonan dari pihak yang satu kepada pihak yang lain.**Pasal 286. . .
+
+-----
+
+**-147-**
 
 ## Penjelasan Resmi
 

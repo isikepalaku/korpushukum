@@ -21,7 +21,9 @@ mengamandemen: []
 
 permohonan izin pembukaan Kanwil sebagaimana
 
-dimaksud dalam Pasal 61.
+dimaksud dalam
+
+Pasal 61.
 
 (2) Persetujuan atau penolakan sebagaimana dimaksud
 
@@ -31,7 +33,10 @@ ayat (1) diberikan dalam jangka waktu 14 (empat
 
 belas) hari kerja sejak dokumen sebagaimana
 
-dimaksud dalam Pasal 61 ayat (3) diterima secara
+dimaksud dalam
+
+Pasal 61
+ayat (3) diterima secara
 
 lengkap.
 

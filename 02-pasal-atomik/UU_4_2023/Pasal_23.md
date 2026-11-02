@@ -17,7 +17,6 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_21_2008/Pasal_23|UU 21/2008 Pasal 23]]'
 - '[[02-pasal-atomik/UU_21_2011/Pasal_23|UU 21/2011 Pasal 23]]'
 - '[[02-pasal-atomik/UU_23_1999/Pasal_23|UU 23/1999 Pasal 23]]'
-- '[[02-pasal-atomik/UU_24_2002/Pasal_23|UU 24/2002 Pasal 23]]'
 - '[[02-pasal-atomik/UU_24_2004/Pasal_23|UU 24/2004 Pasal 23]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_23|UU 25/1992 Pasal 23]]'
 - '[[02-pasal-atomik/UU_32_1997/Pasal_23|UU 32/1997 Pasal 23]]'

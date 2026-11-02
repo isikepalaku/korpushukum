@@ -22,7 +22,6 @@ Ketentuan lebih lanjut mengenai tata cara pembayaran dan masa tenggang pembayara
 47. Ketentuan ayat (1) huruf b, ayat (21, dan ayat (4) Pasal t32 diubah, ayat (1) hurlf d dihapus, dan di antara ayat (2) dan ayat (3) disisipkan 1 (satu) ayat, yakni ayat {Zal sehingga Pasal L32 berbunyi sebagai berikut:
 
 ## Pasal t32
-
 - (1) Penghapusan Paten berdasarkan pengadilan sebagaimana dimaksud Pasal 130 huruf b dilakukan jika: putusan dalam
 - a. Paten menurut ketentuan sebagaimana dimaksud dalam Pasal 3, Pasal 4, atau Pasal 9 seharusnya tidak diberikan;
 - b. Pemegang Paten mempunyai iktikad tidak baik dalam pengungkapan informasi asal dari Sumber DaYa Genetik danlatau Pengetahuan Tradisional sebagaimana dimaksud dalam Pasal 26;

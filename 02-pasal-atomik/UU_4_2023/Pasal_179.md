@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam menetapkan pengelola statuter, sebagaimana dimaksud dalam Pasal 173 ayat (2) huruf g, Otoritas Jasa Keuangan:
+Dalam menetapkan pengelola statuter, sebagaimana dimaksud dalam
+
+Pasal 173
+ayat (2) huruf g, Otoritas Jasa Keuangan:
 
 - a. mempertimbangkan ketersediaan tenaga individu yang akan ditunjuk sebagai pengelola statuter;
 - b. melakukan penunjukan pengelola statuter melalui uji kelayakan dan kepatutan; dan/ a tau

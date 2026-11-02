@@ -19,7 +19,10 @@ mengamandemen:
 ## Batang Tubuh
 
 (1) Peraturan dan tata tertib Bursa sebagaimana
-dimaksud dalam Pasal 20 ayat (1) huruf c harus
+dimaksud dalam
+
+Pasal 20
+ayat (1) huruf c harus
 paling sedikit memuat:
 a. persyaratan menjadi Anggota Bursa;
 b. hak dan kewajiban Anggota Bursa;
@@ -42,7 +45,9 @@ Digital yang dihapus dari Daftar Aset
 Keuangan Digital.
 (2) Dalam hal Bursa melakukan perdagangan derivatif
 Aset Keuangan Digital sebagaimana dimaksud
-dalam Pasal 3A ayat (2), selain memuat ketentuan
+dalam
+
+Pasal 3A ayat (2), selain memuat ketentuan
 sebagaimana dimaksud pada ayat (1) peraturan
 dan tata tertib Bursa juga paling sedikit memuat:
 a. persyaratan, peran, dan tanggung jawab
@@ -84,8 +89,37 @@ Kewajiban, Tanggung Jawab, Tugas, Kewenangan, dan
 
 Kegiatan Bursa
 
-32. Di antara Pasal 24 dan Pasal 25 disisipkan 1 (satu)
-pasal, yakni Pasal 24A sehingga berbunyi sebagai
+32. Di antara
+
+Pasal 24
+dan Pasal 25 disisipkan 1 (satu)
+pasal, yakni
+
+Pasal 24A sehingga berbunyi sebagai
+berikut:
+
+Pasal 24A
+Bursa wajib:
+a. mempertahankan ekuitas paling sedikit 80%
+(delapan puluh persen) dari modal disetor
+sebagaimana dimaksud dalam
+
+Pasal 19
+ayat (1);
+b. memastikan dalam pelaksanaan kegiatan Bursa,
+modal disetor dan penambahan modal disetor
+memenuhi ketentuan sebagaimana dimaksud
+dalam
+
+Pasal 19
+ayat (2); dan
+c. memastikan ketentuan sebagaimana dimaksud
+dalam Pasal 20,
+
+Pasal 21, dan Pasal 21A selalu
+terpenuhi dalam pelaksanaan kegiatan Bursa.
+
+33. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -159,3 +193,10 @@ Cukup jelas.
 Angka 31
 
 Cukup jelas.
+
+Angka 32
+
+Pasal 24A
+Cukup jelas.
+
+Angka 33

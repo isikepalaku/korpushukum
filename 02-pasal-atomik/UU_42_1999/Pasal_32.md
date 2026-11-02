@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap janji untuk melaksanakan eksekusi terhadap Benda yang menjadi objek Jaminan Fidusia dengan cara yang bertentangan dengan ketentuan sebagaimana dimaksud dalam pasal 29 dan Pasal 31, batal demi hukum.
+Setiap janji untuk melaksanakan eksekusi terhadap Benda yang menjadi objek Jaminan Fidusia dengan cara yang bertentangan dengan ketentuan sebagaimana dimaksud dalam Pasal 29 dan
+
+Pasal 31, batal demi hukum.
 
 ## Penjelasan Resmi
 

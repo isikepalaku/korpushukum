@@ -87,7 +87,10 @@ mengamandemen: []
 
  (4) Sebelum diberlakukan, peraturan dan tata tertib Bursa Berjangka
 
- sebagaimana dimaksud dalam Pasal 16 huruf c termasuk
+ sebagaimana dimaksud dalam
+
+Pasal 16
+huruf c termasuk
 
  perubahannya, wajib memperoleh persetujuan dari Bappebti.
 

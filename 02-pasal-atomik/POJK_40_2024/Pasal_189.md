@@ -18,44 +18,67 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara wajib menyusun laporan sebagaimana
-dimaksud dalam Pasal 188 ayat (1) secara benar dan
+dimaksud dalam
+
+Pasal 188
+ayat (1) secara benar dan
 lengkap.
 (2) Direksi bertanggung jawab atas penyusunan dan
 penyajian laporan Penyelenggara.
 (3) Penyelenggara wajib menyampaikan laporan bulanan
-sebagaimana dimaksud dalam Pasal 188 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 188
+ayat (2) huruf
 a kepada Otoritas Jasa Keuangan paling lama 10
 (sepuluh) hari kalender setelah periode pelaporan
 berakhir.
 (4) Penyelenggara wajib menyampaikan laporan keuangan
-tahunan sebagaimana dimaksud dalam Pasal 188 ayat
+tahunan sebagaimana dimaksud dalam
+
+Pasal 188
+ayat
 (2) huruf b kepada Otoritas Jasa Keuangan paling
 lambat tanggal 30 April tahun berikutnya.
 (5) Penyelenggara wajib menyampaikan laporan insidental
-sebagaimana dimaksud dalam Pasal 188 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 188
+ayat (1)
 kepada Otoritas Jasa Keuangan paling lama 6 (enam)
 hari kerja sejak terjadinya insidental dimaksud.
 (6) Penyelenggara wajib menyampaikan laporan lain yang
 diminta oleh Otoritas Jasa Keuangan sebagaimana
-dimaksud dalam Pasal 188 ayat (4) kepada Otoritas
+dimaksud dalam
+
+Pasal 188
+ayat (4) kepada Otoritas
 Jasa Keuangan sesuai dengan jangka waktu yang
 ditetapkan dalam surat permintaan.
 (7) Apabila batas akhir penyampaian laporan berkala dan
-laporan insidental sebagaimana dimaksud dalam Pasal
-188 ayat (1) jatuh pada hari libur, batas akhir
+laporan insidental sebagaimana dimaksud dalam
+
+Pasal 188
+ayat (1) jatuh pada hari libur, batas akhir
 penyampaian laporan pada hari kerja pertama
 berikutnya.
 (8) Apabila Penyelenggara memperoleh izin usaha kurang
 dari 6 (enam) bulan hingga tahun takwim berakhir,
 kewajiban penyampaian laporan keuangan tahunan
-sebagaimana dimaksud dalam Pasal 188 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 188
+ayat (2) huruf
 b mulai berlaku pada tahun takwim berikutnya.
 (9) Penyelenggara wajib memuat laporan keuangan
 tahunan yang telah diaudit oleh akuntan publik
 
 -----
 
-sebagaimana dimaksud dalam Pasal 188 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 188
+ayat (2) huruf
 b ke dalam situs web Penyelenggara.
 (10) Pemuatan ke dalam situs _web_ Penyelenggara
 sebagaimana dimaksud pada ayat (9) wajib dilakukan

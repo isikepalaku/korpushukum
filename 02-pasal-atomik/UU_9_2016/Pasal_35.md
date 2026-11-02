@@ -20,6 +20,11 @@ mengamandemen: []
 
 Selain langkah penanganan sebagaimana dimaksud dalam
 
+Pasal 34, Komite Stabilitas Sistem Keuangan dapat
+mengusulkan kepada Presiden untuk memutuskan
+perubahan besaran nilai simpanan nasabah penyimpan pada
+Bank yang dijamin oleh Lembaga Penjamin Simpanan.
+
 ## Penjelasan Resmi
 
 Perubahan besaran nilai simpanan yang dijamin dilakukan sesuai

@@ -22,14 +22,25 @@ Peraturan Otoritas Jasa Keuangan ini diundangkan,
 ketentuan mengenai:
 a. pencantuman peringatan mengenai risiko kegiaan
 usaha LPBBTI pada sistem elektronik Penyelenggara
-sebagaimana dimaksud dalam Pasal 142 ayat (5);
+sebagaimana dimaksud dalam
+
+Pasal 142
+ayat (5);
 b. pencantuman peringatan mengenai risiko kegiaan
 usaha LPBBTI dalam halaman antarmuka situs _web_
 atau aplikasi yang dimiliki Penyelenggara yang dapat
 terlihat secara jelas oleh Pengguna sebagaimana
-dimaksud dalam Pasal 142 ayat (6); dan
+dimaksud dalam
+
+Pasal 142
+ayat (6); dan
 c. pemahaman Pengguna atas seluruh risiko sebelum
 memberikan Pendanaan sebagaimana dimaksud dalam
+
+Pasal 142
+ayat (7),
+mulai berlaku paling lama 3 (tiga) bulan sejak Peraturan
+Otoritas Jasa Keuangan ini diundangkan.
 
 ## Penjelasan Resmi
 

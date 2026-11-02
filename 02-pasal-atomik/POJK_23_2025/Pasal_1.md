@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 27-2024 (Aset Keuangan Digital Termasuk Aset Kript
 kode_uu: POJK_23_2025
 pasal: '1'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_23_2025
@@ -175,6 +175,47 @@ dalam derivatif Aset Keuangan Digital.
 2. Di antara Pasal 3 dan Pasal 4 disisipkan 1 (satu) pasal,
 yakni Pasal 3A sehingga berbunyi sebagai berikut:
 
+Pasal 3A
+(1) Aset Keuangan Digital terdiri atas:
+a. Aset Kripto; dan
+b. Aset Keuangan Digital lainnya;
+(2) Aset Keuangan Digital lainnya sebagaimana
+dimaksud pada ayat (1) huruf b termasuk derivatif
+Aset Keuangan Digital.
+
+3. Paragraf 1, Paragraf 2, dan Paragraf 3 Bagian Kesatu
+Bab II dihapus.
+
+4. Judul Bagian Kesatu Bab II diubah sehingga berbunyi
+sebagai berikut:
+
+Bagian Kesatu
+Kriteria Aset Keuangan Digital yang Diperdagangkan di
+
+Pasar Aset Keuangan Digital
+
+5. Ketentuan
+
+Pasal 4
+diubah sehingga berbunyi sebagai
+berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 2
+
+Pasal 3A
+
+Cukup jelas.
+
+Angka 3
+
+Cukup jelas.
+
+Angka 4
+
+Cukup jelas.
+
+Angka 5

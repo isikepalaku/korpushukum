@@ -60,7 +60,10 @@ pada rekening dormant.
 
 Ayat (1)
 
-Lihat penjelasan Pasal 4 ayat (1) huruf b.
+Lihat penjelasan
+
+Pasal 4
+ayat (1) huruf b.
 Ayat (2)
 
 Huruf a

@@ -19,6 +19,12 @@ mengamandemen: []
 
 Pengendali Data Pribadi wajib melakukan pemrmosrsan Data Pribadi secara terbatas dan spesifik, sah secara hukum, den transparan.
 
+Pasal 59...
+
+**PRESIDEN REPUBLIX INDONESIA**
+
+«3i--
+
 ## Penjelasan Resmi
 
 Cukup jelas.

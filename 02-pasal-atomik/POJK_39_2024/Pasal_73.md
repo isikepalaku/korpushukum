@@ -17,50 +17,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sanksi administratif berupa:
-a. peringatan tertulis;
-b. pembekuan sebagian atau seluruh kegiatan
-usaha;
-c. pembatasan kegiatan usaha tertentu;
-d. penurunan hasil penilaian tingkat risiko;
-e. pembatalan persetujuan;
-f. larangan menjadi PSP, Direksi, Dewan Komisaris,
-dan/atau DPS; dan/atau
-g. denda administratif.
-(2) Sanksi administratif sebagaimana pada ayat (1) huruf b
-sampai dengan huruf g dapat dikenakan dengan atau
-tanpa didahului pengenaan sanksi administratif berupa
-peringatan tertulis sebagaimana dimaksud pada ayat
-(1) huruf a.
-(3) Sanksi administratif berupa denda administratif
-sebagaimana dimaksud pada ayat (1) huruf g dikenakan
-paling banyak Rp50.000.000,00 (lima puluh juta
-rupiah).
+(1) Perusahaan wajib melaporkan perubahan anggaran
+dasar tertentu meliputi:
+a. maksud dan tujuan serta kegiatan usaha
+Perusahaan;
+b. nama Perusahaan;
+c. tempat kedudukan kantor pusat Perusahaan;
+dan/atau
+d. status Perusahaan tertutup menjadi Perusahaan
+terbuka atau sebaliknya,
 
 -----
 
-(4) Dalam hal Perusahaan telah memenuhi ketentuan
-sebagaimana dimaksud pada ayat (1), Otoritas Jasa
-Keuangan mencabut sanksi administratif.
-(5) Dalam hal terjadi pelanggaran ketentuan sebagaimana
-dimaksud pada ayat (1) dan pelanggaran telah
-diperbaiki, Otoritas Jasa Keuangan memberikan
-sanksi administratif berupa peringatan tertulis yang
-berakhir dengan sendirinya.
-(6) Selain sanksi administratif sebagaimana dimaksud
-pada ayat (1), Otoritas Jasa Keuangan berwenang:
-a. menurunkan hasil penilaian Tingkat Kesehatan;
-b. melakukan penilaian kembali terhadap pihak
-utama yang menyebabkan Perusahaan melanggar
-ketentuan sebagaimana dimaksud pada ayat (1);
-dan/atau
-c. melakukan pencatatan rekam jejak terhadap pihak
-yang menyebabkan Perusahaan melanggar
-ketentuan sebagaimana dimaksud pada ayat (1)
-dalam sistem elektronik Otoritas Jasa Keuangan.
-
-BAB IX
-PENGGABUNGAN DAN PELEBURAN
+kepada Otoritas Jasa Keuangan paling lambat 15 (lima
+belas) hari kerja sejak persetujuan atau diterimanya
+surat pemberitahuan dari instansi yang berwenang.
+(2) Pelaporan perubahan anggaran dasar tertentu
+sebagaimana dimaksud pada ayat (1) dengan
+melampirkan dokumen persyaratan pelaporan
+perubahan anggaran dasar tertentu tercantum dalam
+Lampiran pada tabel 23 yang merupakan bagian tidak
+terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
 
 ## Penjelasan Resmi
 

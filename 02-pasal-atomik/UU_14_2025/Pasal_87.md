@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap orang yang akan Ibadah Umrah sebagaimana dimaksud dalam Pasal 86 ayat (1) huruf a harus memenuhi persyaratan:
+Setiap orang yang akan Ibadah Umrah sebagaimana dimaksud dalam
+
+Pasal 86
+ayat (1) huruf a harus memenuhi persyaratan:
 
 - b. memiliki paspor yang masih berlaku paling singkat 6 (enam) bulan dari tanggal pemberangkatan;
 - a. beragama Islam;

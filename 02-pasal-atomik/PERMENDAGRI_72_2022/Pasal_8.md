@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Sertifikat tingkat komponen dalam negeri sebagaimana 
-dimaksud dalam Pasal 4 ayat (2) huruf e dan surat 
+dimaksud dalam
+
+Pasal 4
+ayat (2) huruf e dan surat 
 keterangan hasil pengujian sebagaimana dimaksud dalam
 
 ## Penjelasan Resmi

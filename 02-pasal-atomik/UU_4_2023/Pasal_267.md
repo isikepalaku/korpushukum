@@ -19,6 +19,12 @@ mengamandemen: []
 
 PUSK wajib menerapkan manajemen risiko yang efektif.
 
+Pasal 268 ...
+
+**PRESIDEN REPUBUK INDONESIA**
+
+**-454 -**
+
 ## Penjelasan Resmi
 
 Manajemen risiko di antaranya mencakup pengawasan aktif oleh pengelola, ketersediaan kebijakan dan prosedur serta pemenuhan kecukupan struktur organisasi, proses manajemen risiko dan fungsi manajemen risiko, sumber daya manusia, serta pengendalian internal.

@@ -24,7 +24,10 @@ melakukan
 pindah 
 datang 
 antarnegara 
-sebagaimana dimaksud dalam Pasal 27 huruf d, dengan 
+sebagaimana dimaksud dalam
+
+Pasal 27
+huruf d, dengan 
 klasifikasi: 
 a. pendaftaran perpindahan Penduduk WNI ke luar 
 wilayah Negara Kesatuan Republik Indonesia; 

@@ -29,6 +29,12 @@ tahun sejak berlakunya Undang-Undang ini.
 berlaku terhadap kegiatan penjaminan yang dijalankan
 berdasarkan undang-undang tersendiri.
 
+Pasal 62 . . .
+
+-----
+
+ - 31
+
 ## Penjelasan Resmi
 
 Ayat (1)

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Badan Usaha Pelabuhan yang melakukan kegiatan penyediaan danlatau pelayanan jasa bongkar muat barang sebagaimana dimaksud dalam Pasal 90 ayat (3) huruf g pada Terminal serba gLlna (multipurposel danlatau konvensional harus melakukan kemitraan dengan Badan Usaha yang didirikan khusus untuk bongkar muat barang di Pelabuhan dalam rangka pemberdayaan usaha mikro, kecil, dan menengah dengan memperhatikan prinsip kesetaraan dan keadilan dalam berusaha.
+Badan Usaha Pelabuhan yang melakukan kegiatan penyediaan danlatau pelayanan jasa bongkar muat barang sebagaimana dimaksud dalam
+
+Pasal 90
+ayat (3) huruf g pada Terminal serba gLlna (multipurposel danlatau konvensional harus melakukan kemitraan dengan Badan Usaha yang didirikan khusus untuk bongkar muat barang di Pelabuhan dalam rangka pemberdayaan usaha mikro, kecil, dan menengah dengan memperhatikan prinsip kesetaraan dan keadilan dalam berusaha.
 
 24. Ketentuan Pasal 92 diubah sehingga berbunyi sebagai berikut:
 

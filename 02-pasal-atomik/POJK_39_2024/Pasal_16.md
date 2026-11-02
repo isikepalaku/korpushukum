@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan izin konversi sebagaimana
-dimaksud dalam Pasal 15 ayat (1) dalam jangka waktu
+dimaksud dalam
+
+Pasal 15
+ayat (1) dalam jangka waktu
 paling lambat 20 (dua puluh) hari kerja sejak
 permohonan diterima secara lengkap.
 (2) Dalam memberikan persetujuan atau penolakan
@@ -35,7 +38,10 @@ Komisaris, calon PSP, dan calon anggota DPS; dan
 d. analisis pemenuhan ketentuan peraturan
 perundang-undangan.
 (3) Dalam hal terdapat kekurangan dokumen sebagaimana
-yang dimaksud dalam Pasal 15 ayat (1), Otoritas Jasa
+yang dimaksud dalam
+
+Pasal 15
+ayat (1), Otoritas Jasa
 Keuangan menyampaikan permintaan kelengkapan
 dokumen kepada Perusahaan.
 (4) Perusahaan harus menyampaikan kelengkapan

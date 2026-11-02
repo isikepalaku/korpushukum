@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Pejabat yang berwenang di kantor pusat KPBLN
 mengajukan permohonan penutupan KPBLN
-sebagaimana dimaksud dalam Pasal 118 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 118
+ayat (2) huruf
 b kepada OJK disertai dokumen tercantum dalam
 Lampiran I yang merupakan bagian tidak terpisahkan
 dari Peraturan OJK ini.

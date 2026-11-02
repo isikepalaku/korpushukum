@@ -17,7 +17,11 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), ayat (2), ayat (3), Pasal 41 ayat (1), Pasal 42,
+(1) Pemegang saham dilarang ikut serta dalam
+pengambilan keputusan operasional Bank.
+(2) Ketentuan sebagaimana dimaksud pada ayat (1)
+dikecualikan untuk pemegang saham yang menjadi
+Direksi atau pegawai Bank.
 
 ## Penjelasan Resmi
 

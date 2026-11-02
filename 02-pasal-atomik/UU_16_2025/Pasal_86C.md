@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pembubaran Persero yang dilakukan berdasarkan ketentuan sebagaimana dimaksud dalam Pasal 868 ayat (1) huruf a dilaporkan oleh kepala BP BUMN kepada Presiden.
+Pembubaran Persero yang dilakukan berdasarkan ketentuan sebagaimana dimaksud dalam
+
+Pasal 868
+ayat (1) huruf a dilaporkan oleh kepala BP BUMN kepada Presiden.
 
 ## itrNI-FIA IN
 

@@ -55,3 +55,8 @@ asuransi, sertifikat hak atas tanah, Surat Izin Mengemudi,
 Buku Kepemilikan Kendaraan Bermotor, ijazaLr sekolah
 menengah umum atau yang sederajat, dan ijazah
 pergurLlan tinggi.
+
+Pasal 35...
+
+PRES I DEN
+REPUBLIK INDONESIA

@@ -27,6 +27,15 @@ mengamandemen: []
 **dapat diajukan terhadap Saksi dan/atau Ahli yang**
 pada tingkat pertama tidak hadir.
 
+Pasal 291 ...
+
+-----
+
+FRESIDEN
+REPUBLIK INDONESIA
+
+**-149-**
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

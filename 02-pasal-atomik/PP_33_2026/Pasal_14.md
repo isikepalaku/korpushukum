@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penunjukan Prosesor Data Pribadi sebagaimana dimaksud dalam Pasal 13 dilaksanakan berdasarkan perjanjian yang paling sedikit memuat:
+Penunjukan Prosesor Data Pribadi sebagaimana dimaksud dalam
+
+Pasal 13
+dilaksanakan berdasarkan perjanjian yang paling sedikit memuat:
 
 - a. cakupan pemrosesan Data Pribadi yang dilakukan oleh Prosesor Data Pribadi atlas nama Pengendali Data Pribadi;
 

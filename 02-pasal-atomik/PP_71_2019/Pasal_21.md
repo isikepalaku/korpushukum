@@ -29,6 +29,11 @@ mengamandemen: []
 
 Pengamanan Penyelenggaraan Sistem Elektronik
 
+Pasal 22
+- (1) Penyelenggara Sistem Elektronik wajib menyediakan rekam jejak audit terhadap seluruh kegiatan penyelenggaraan Sistem Elektronik.
+
+- (21 Rekam jejak audit sebagaimana dimaksud pada ayat (1) digunakan untuk keperluan pengawasan, penegakan hukum, penyelesaian sengketa, verifikasi, pengujian, dan pemeriksaan lainnya.
+
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

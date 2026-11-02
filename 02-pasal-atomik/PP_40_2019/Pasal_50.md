@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pusat data sebagaimana dimaksud dalam Pasal 41 ayat (3)
+Pusat data sebagaimana dimaksud dalam
+
+Pasal 41
+ayat (3)
 huruf I berada pada Kementerian, Dinas Kependudukan
 dan Pencatatan Sipil Provinsi, dan Dinas Kependudukan
 dan Pencatatan Sipil Kabupaten/Kota.

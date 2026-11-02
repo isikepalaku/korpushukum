@@ -28,15 +28,22 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-P asal 21 Ayat (1) Yang dimaksud dengan 'dikuasakan' dalam ketentuan ini sebaiknya dinyatakan dalam surat kuasa. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5)
+Pasal 21
+Ayat (1) Yang dimaksud dengan 'dikuasakan' dalam ketentuan ini sebaiknya dinyatakan dalam surat kuasa. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5)
 
-Cukup jelas. P asal 22 Ayat (1) Yang dimaksud dengan 'fitur' adalah fasilitas yang memberikan kesempatan kepada pengguna Agen Elektronik untuk melakukan perubahan atas informasi yang disampaikannya, misalnya fasilitas pembatalan (cancel), edit, dan konfirmasi ulang. Ayat (2) Cukup jelas. P asal 23 Ayat (1) Nama Domain berupa alamat atau jati diri penyelenggara negara, Orang, Badan Usaha, dan/atau masyarakat, yang perolehannya didasarkan pada prinsip pendaftar pertama (first come first serve). Prinsip pendaftar pertama berbeda antara ketentuan dalam Nama Domain dan dalam bidang hak kekayaan intelektual karena tidak diperlukan pemeriksaan substantif, seperti pemeriksaan dalam pendaftaran merek dan paten. Ayat (2) Yang dimaksud dengan 'melanggar hak Orang lain', misalnya melanggar merek terdaftar, nama badan hukum terdaftar, nama Orang terkenal, dan nama sejenisnya yang pada intinya merugikan Orang lain. Ayat (3) Yang dimaksud dengan 'penggunaan Nama Domain secara tanpa hak' adalah pendaftaran dan penggunaan Nama Domain yang semata-mata ditujukan untuk menghalangi atau menghambat Orang lain untuk menggunakan nama yang intuitif dengan keberadaan nama dirinya atau nama produknya, atau untuk mendompleng reputasi Orang yang sudah terkenal atau ternama, atau untuk menyesatkan konsumen.
+Cukup jelas.
 
-P asal 24 Cukup jelas.
+Pasal 22
+Ayat (1) Yang dimaksud dengan 'fitur' adalah fasilitas yang memberikan kesempatan kepada pengguna Agen Elektronik untuk melakukan perubahan atas informasi yang disampaikannya, misalnya fasilitas pembatalan (cancel), edit, dan konfirmasi ulang. Ayat (2) Cukup jelas. Pasal 23 Ayat (1) Nama Domain berupa alamat atau jati diri penyelenggara negara, Orang, Badan Usaha, dan/atau masyarakat, yang perolehannya didasarkan pada prinsip pendaftar pertama (first come first serve). Prinsip pendaftar pertama berbeda antara ketentuan dalam Nama Domain dan dalam bidang hak kekayaan intelektual karena tidak diperlukan pemeriksaan substantif, seperti pemeriksaan dalam pendaftaran merek dan paten. Ayat (2) Yang dimaksud dengan 'melanggar hak Orang lain', misalnya melanggar merek terdaftar, nama badan hukum terdaftar, nama Orang terkenal, dan nama sejenisnya yang pada intinya merugikan Orang lain. Ayat (3) Yang dimaksud dengan 'penggunaan Nama Domain secara tanpa hak' adalah pendaftaran dan penggunaan Nama Domain yang semata-mata ditujukan untuk menghalangi atau menghambat Orang lain untuk menggunakan nama yang intuitif dengan keberadaan nama dirinya atau nama produknya, atau untuk mendompleng reputasi Orang yang sudah terkenal atau ternama, atau untuk menyesatkan konsumen.
 
-P asal 25 Informasi Elektronik dan/atau Dokumen Elektronik yang disusun dan didaftarkan sebagai karya intelektual, hak cipta, paten, merek, rahasia dagang, desain industri, dan sejenisnya wajib dilindungi oleh UndangUndang ini dengan memperhatikan ketentuan Peraturan Perundangundangan.
+Pasal 24
+Cukup jelas.
 
-P asal 26 Ayat (1) Dalam pemanfaatan Teknologi Informasi, perlindungan data pribadi merupakan salah satu bagian dari hak pribadi (privacy rights). Hak pribadi mengandung pengertian sebagai berikut:
+Pasal 25
+Informasi Elektronik dan/atau Dokumen Elektronik yang disusun dan didaftarkan sebagai karya intelektual, hak cipta, paten, merek, rahasia dagang, desain industri, dan sejenisnya wajib dilindungi oleh UndangUndang ini dengan memperhatikan ketentuan Peraturan Perundangundangan.
+
+Pasal 26
+Ayat (1) Dalam pemanfaatan Teknologi Informasi, perlindungan data pribadi merupakan salah satu bagian dari hak pribadi (privacy rights). Hak pribadi mengandung pengertian sebagai berikut:
 
 - a. Hak pribadi merupakan hak untuk menikmati kehidupan pribadi dan bebas dari segala macam gangguan.
 - b. Hak pribadi merupakan hak untuk dapat berkomunikasi dengan Orang lain tanpa tindakan memata-matai.
@@ -44,13 +51,17 @@ P asal 26 Ayat (1) Dalam pemanfaatan Teknologi Informasi, perlindungan data prib
 
 Ayat (2) Cukup jelas.
 
-P asal 27 Cukup jelas.
+Pasal 27
+Cukup jelas.
 
-P asal 28 Cukup jelas.
+Pasal 28
+Cukup jelas.
 
-P asal 29 Cukup jelas.
+Pasal 29
+Cukup jelas.
 
-P asal 30 Ayat (1) Cukup jelas.
+Pasal 30
+Ayat (1) Cukup jelas.
 
 Ayat (2)
 
@@ -68,7 +79,8 @@ Ayat (3)
 
 Sistem pengamanan adalah sistem yang membatasi akses Komputer atau melarang akses ke dalam Komputer dengan berdasarkan kategorisasi atau klasifikasi pengguna beserta tingkatan kewenangan yang ditentukan.
 
-P asal 31 Ayat (1)
+Pasal 31
+Ayat (1)
 
 Yang dimaksud dengan 'intersepsi atau penyadapan' adalah kegiatan untuk mendengarkan, merekam, membelokkan, mengubah, menghambat, dan/atau mencatat transmisi Informasi Elektronik dan/atau Dokumen Elektronik yang tidak bersifat publik, baik menggunakan jaringan kabel komunikasi maupun jaringan nirkabel, seperti pancaran elektromagnetis atau radio frekuensi.
 
@@ -80,18 +92,21 @@ Ayat (4)
 
 Cukup jelas. Cukup jelas. Cukup jelas.
 
-P asal 32 Cukup jelas.
+Pasal 32
+Cukup jelas.
 
-P asal 33 Cukup jelas.
+Pasal 33
+Cukup jelas.
 
-P asal 34 Ayat (1)
+Pasal 34
+Ayat (1)
 
 Cukup jelas. Ayat (2) Yang dimaksud dengan 'kegiatan penelitian' adalah penelitian yang
 
 dilaksanakan oleh lembaga penelitian yang memiliki izin.
 
-P asal 35 Cukup jelas.
+Pasal 35
+Cukup jelas.
 
-P asal 36
-
+Pasal 36
 Cukup jelas.

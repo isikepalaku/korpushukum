@@ -18,6 +18,11 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+Tindak Pidana sebagaimana dimaksud dalam Pasal 414 sampai dengan
+
+Pasal 422
+merupakan tindak pidana kekerasan seksual.
+
 Bagian Keenam Minuman dan Bahan yang Memabukkan
 
 ## Penjelasan Resmi

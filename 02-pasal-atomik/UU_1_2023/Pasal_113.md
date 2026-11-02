@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '113'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -36,5 +36,41 @@ mengamandemen: []
 **Paragraf 3 Pidana**
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Hurufa
+
+Cukup jelas.
+
+Huruf b
+
+Cukup jelas.
+
+Hurufc
+
+Cukup jelas.
+
+Hurufd
+
+Yang dimaksud dengan "lembaga' adalah kmbaga Penyelenggaraan Kesejahteraan Sosial di instansi yang menangani bidang kesejahteraan sosial, baik di tingkat pusat maupun daerah.
+
+Hurufe
+
+Cukup jelas.
+
+Huruf f
+
+Cukup jelas.
+
+Huruf g
+
+Ctrkup jelas.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
 
 Cukup jelas.

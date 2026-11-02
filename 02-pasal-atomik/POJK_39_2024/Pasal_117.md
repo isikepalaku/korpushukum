@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Rencana kerja dan anggaran biaya sebagaimana
-dimaksud dalam Pasal 116 disampaikan kepada
+dimaksud dalam
+
+Pasal 116
+disampaikan kepada
 Otoritas Jasa Keuangan paling lambat 30 (tiga puluh)
 hari kerja sejak Tim Likuidasi terbentuk atau sejak
 dimulai masa perpanjangan tugas Tim Likuidasi.

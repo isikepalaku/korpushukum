@@ -17,52 +17,65 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-c. dokumen identitas perusahaan dan dokumen identitas
-anggota Direksi atau pemegang kuasa dari anggota Direksi
-yang berwenang mewakili perusahaan, bagi Calon
-Nasabah Korporasi berupa perseroan perorangan yang
-memenuhi ketentuan sebagaimana dimaksud dalam Pasal
-27 ayat (1) huruf c; atau
-d. dokumen lainnya sebagai pengganti dokumen identitas
-yang dapat memberikan keyakinan kepada PJK tentang
-profil Calon Nasabah, dan spesimen tanda tangan, bagi
-Calon Nasabah Korporasi di luar sebagaimana dimaksud
-dalam huruf b dan huruf c, dan Calon Nasabah yang
-tujuan pembukaan rekening terkait dengan program
-pemerintah.
+(1) PJK dalam mengidentifikasi Calon Nasabah dan WIC
+Korporasi berupa perusahaan, informasi sebagaimana
+dimaksud dalam
+
+Pasal 25
+ayat (1) huruf b, wajib didukung
+dengan dokumen identitas perusahaan, dan untuk:
+a. Calon Nasabah dan WIC Korporasi berupa
+perusahaan yang tergolong usaha mikro dan usaha
+kecil ditambah dengan paling sedikit:
+1. kuasa kepada pihak yang ditunjuk mempunyai
+wewenang bertindak untuk dan atas nama
+perusahaan dalam melakukan hubungan usaha
+dengan PJK;
+2. spesimen tanda tangan pihak yang berwenang
+mewakili perusahaan dalam melakukan
+hubungan usaha dengan PJK;
+3. kartu Nomor Pokok Wajib Pajak bagi Nasabah
+yang diwajibkan untuk memiliki Nomor Pokok
+Wajib Pajak sesuai dengan peraturan
+perundang-undangan; dan
+4. surat izin tempat usaha atau dokumen lain yang
+dipersyaratkan oleh instansi yang berwenang;
+b. Calon Nasabah dan WIC Korporasi berupa
+perusahaan yang tidak tergolong usaha mikro dan
+usaha kecil selain disertai dokumen sebagaimana
+dimaksud dalam huruf a, ditambah dengan paling
+sedikit:
+1. akta pendirian/anggaran dasar;
+2. izin usaha dari instansi yang berwenang;
+3. laporan keuangan atau deskripsi kegiatan usaha
+perusahaan;
+4. struktur manajemen perusahaan;
+5. struktur kepemilikan perusahaan; dan
+6. dokumen identitas anggota Direksi atau
+pemegang kuasa dari anggota Direksi yang
+berwenang mewakili perusahaan untuk
+melakukan hubungan usaha dengan PJK.
+c. Calon Nasabah dan WIC Korporasi berupa perseroan
+perorangan selain disertai dokumen sebagaimana
+dimaksud dalam huruf a angka 3, ditambah dengan
+paling sedikit:
+1. nomor induk berusaha yang diterbitkan oleh
+instansi yang berwenang;
 
 -----
 
-(6) Dalam hal PJK menerapkan prosedur CDD sederhana
-tersendiri sebagaimana dimaksud pada ayat (1), PJK wajib
-memberitahukan kepada Otoritas Jasa Keuangan meliputi
-informasi mengenai:
-a. kriteria identifikasi Nasabah dan transaksi berisiko rendah
-konsisten dengan penilaian risiko yang dilakukan oleh
-PJK;
-b. persyaratan CDD sederhana mampu mengelola tingkat
-ancaman TPPU, TPPT, dan/atau PPSPM terhadap Calon
-Nasabah dan transaksinya yang telah diidentifikasi
-dengan tingkat risiko rendah terhadap TPPU, TPPT,
-dan/atau PPSPM;
-c. persyaratan CDD sederhana tidak mencakup Nasabah
-yang berdasarkan peraturan perundang-undangan
-dikategorikan sebagai Nasabah atau transaksi yang
-berisiko tinggi; dan
-b. waktu dimulainya penerapan prosedur CDD sederhana.
-(7) Prosedur CDD sederhana sebagaimana dimaksud pada ayat (1),
-tidak berlaku jika terdapat dugaan terjadi transaksi TPPU,
-TPPT, dan/atau PPSPM atau terjadi peningkatan skenario
-tingkat risiko yang spesifik.
-(8) PJK wajib membuat dan menyimpan daftar Nasabah yang
-mendapat perlakuan CDD sederhana.
-(9) Dalam hal penggunaan rekening tidak sesuai dengan tujuan,
-PJK wajib melakukan prosedur CDD sebagaimana dimaksud
-dalam Pasal 25 ayat (1) huruf a dan Pasal 26 terhadap Nasabah
-yang bersangkutan.
-
-Bagian Keenam
-Pelaksanaan CDD oleh Pihak Ketiga
+2. kuasa kepada pihak yang ditunjuk mempunyai
+wewenang bertindak untuk dan atas nama
+perseroan perorangan dalam melakukan
+hubungan usaha dengan PJK; dan
+3. spesimen tanda tangan pihak yang berwenang
+mewakili perseroan perorangan dalam
+melakukan hubungan usaha dengan PJK.
+(2) Spesimen tanda tangan sebagaimana dimaksud pada ayat
+(1) huruf a angka 2 dan ayat (1) huruf c angka 3, dapat
+digantikan dengan tanda tangan elektronik yang telah
+memenuhi peraturan perundang-undangan mengenai
+tanda tangan elektronik.
 
 ## Penjelasan Resmi
 

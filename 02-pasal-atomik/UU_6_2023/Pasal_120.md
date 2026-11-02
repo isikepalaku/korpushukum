@@ -22,7 +22,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Angka 1 Cukup jelas. Angka2 Pasal 66 Cukup jelas. Pasal 121 Pasal 48 Ayat (1) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 122 Cukup jelas. Pasal 123 Angka 1 Pasal 8 Ayat (1) Cukup jelas. Yang dimaksud dengan "terintegrasi" adalah upaya mengarahkan dan menyinergikan antara lain dalam penyusunan perencanaan, program, anggaran, dan Sumber Daya Ilmu Pengetahuan dan Teknologi bidang Penelitian, Pengembangan, Pengkajian, dan Penerapan untuk menghasilkan Invensi dan Inovasi sebagai landasan ilmiah dalam perumusan dan penetapan kebijakan pembangunan nasional.
+Angka 1 Cukup jelas. Angka2
+
+Pasal 66
+Cukup jelas. Pasal 121 Pasal 48 Ayat (1) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 122 Cukup jelas. Pasal 123 Angka 1 Pasal 8 Ayat (1) Cukup jelas. Yang dimaksud dengan "terintegrasi" adalah upaya mengarahkan dan menyinergikan antara lain dalam penyusunan perencanaan, program, anggaran, dan Sumber Daya Ilmu Pengetahuan dan Teknologi bidang Penelitian, Pengembangan, Pengkajian, dan Penerapan untuk menghasilkan Invensi dan Inovasi sebagai landasan ilmiah dalam perumusan dan penetapan kebijakan pembangunan nasional.
 ```
 
 ```
@@ -82,3 +85,5 @@ Cukup jelas.
 Huruf x
 
 Cukup jelas.
+
+Angka 3

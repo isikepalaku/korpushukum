@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Pegawai pada Penyelenggara Perdagangan Aset
 Keuangan Digital yang melaksanakan masing-masing
-fungsi sebagaimana dimaksud dalam Pasal 69 ayat (2)
+fungsi sebagaimana dimaksud dalam
+
+Pasal 69
+ayat (2)
 dilarang merangkap untuk melaksanakan fungsi lain
 kecuali diatur lain dalam ketentuan peraturan
 perundang-undangan.

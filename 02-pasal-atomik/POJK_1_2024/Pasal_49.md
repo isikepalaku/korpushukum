@@ -18,10 +18,8 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan mengenai:
-a. penyertaan modal sebagaimana dimaksud dalam Pasal
-16; dan
-b. CKPN sebagaimana dimaksud dalam Pasal 26 dan Pasal
-27,
+a. penyertaan modal sebagaimana dimaksud dalam Pasal 16; dan
+b. CKPN sebagaimana dimaksud dalam Pasal 26 dan Pasal 27,
 berlaku sejak tanggal 1 Januari 2025.
 
 ## Penjelasan Resmi

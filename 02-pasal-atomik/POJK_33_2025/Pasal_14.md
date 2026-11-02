@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Penetapan peringkat faktor tata kelola perusahaan
 yang baik secara konsolidasi sebagaimana dimaksud
-dalam Pasal 13 ayat (1) huruf a, ayat (2) huruf a, dan
+dalam
+
+Pasal 13
+ayat (1) huruf a, ayat (2) huruf a, dan
 ayat (3) huruf a dilakukan dengan memperhatikan:
 a. signifikansi atau materialitas pangsa Perusahaan
 Anak terhadap PPDP secara konsolidasi; dan
@@ -29,7 +32,9 @@ berpengaruh secara signifikan terhadap
 pelaksanaan prinsip tata kelola perusahaan yang
 baik secara konsolidasi.
 (2) Penetapan peringkat faktor profil risiko secara
-konsolidasi sebagaimana dimaksud dalam Pasal 13
+konsolidasi sebagaimana dimaksud dalam
+
+Pasal 13
 ayat (1) huruf b, ayat (2) huruf b, dan ayat (3) huruf b
 dilakukan dengan memperhatikan:
 a. signifikansi atau materialitas pangsa Perusahaan
@@ -38,7 +43,9 @@ b. permasalahan pada Perusahaan Anak yang
 berpengaruh secara signifikan terhadap profil
 risiko secara konsolidasi.
 (3) Penetapan peringkat faktor rentabilitas secara
-konsolidasi sebagaimana dimaksud dalam Pasal 13
+konsolidasi sebagaimana dimaksud dalam
+
+Pasal 13
 ayat (1) huruf c, ayat (2) huruf c, dan ayat (3) huruf c
 dilakukan berdasarkan analisis secara komprehensif
 dan terstruktur terhadap parameter atau indikator
@@ -51,7 +58,9 @@ b. permasalahan pada Perusahaan Anak yang
 berpengaruh secara signifikan terhadap
 rentabilitas secara konsolidasi.
 (4) Penetapan peringkat faktor permodalan secara
-konsolidasi sebagaimana dimaksud dalam Pasal 13
+konsolidasi sebagaimana dimaksud dalam
+
+Pasal 13
 ayat (1) huruf d dilakukan berdasarkan analisis secara
 komprehensif dan terstruktur terhadap parameter atau
 indikator permodalan tertentu yang dihasilkan dari
@@ -64,11 +73,16 @@ b. permasalahan pada Perusahaan Anak yang
 berpengaruh secara signifikan terhadap
 permodalan secara konsolidasi.
 (5) Penetapan peringkat faktor pendanaan secara
-konsolidasi sebagaimana dimaksud dalam Pasal 13
+konsolidasi sebagaimana dimaksud dalam
+
+Pasal 13
 ayat (2) huruf d dilakukan dengan mengacu pada
 penilaian Tingkat Kesehatan PPDP secara individual
 terhadap faktor pendanaan sebagaimana dimaksud
-dalam Pasal 10 ayat (6).
+dalam
+
+Pasal 10
+ayat (6).
 (6) Ketentuan mengenai penetapan peringkat faktor tata
 kelola perusahaan yang baik, faktor profil risiko, faktor
 rentabilitas, faktor permodalan, dan faktor pendanaan

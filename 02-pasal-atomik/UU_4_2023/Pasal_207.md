@@ -22,6 +22,10 @@ mengamandemen: []
 - b. kegiatan usaha lainnya yang ditetapkan oleh Otoritas Jasa Keuangan.
 - (2) Ketentuan lebih lanjut mengenai kegiatan usaha PIKK sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
+Pasal 208 ...
+
+**PRESIDEN REPUBUK INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

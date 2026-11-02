@@ -23,6 +23,11 @@ menteri/ kepala lembaga terkait.
 (21 Menteri melaporkan hasil koordinasi sebagaimana
 dimaksud pada ayat (1) kepada Presiden.
 
+Pasal 61 ...
+
+PRES I DEN
+REPUBLIK INDONESIA
+
 ## Penjelasan Resmi
 
 Cukup jelas.

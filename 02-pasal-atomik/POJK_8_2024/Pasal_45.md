@@ -19,7 +19,10 @@ mengamandemen: []
 
 Ketentuan lebih lanjut mengenai tata cara, bentuk, dan
 format pelaporan Produk Asuransi sebagaimana dimaksud
-dalam Pasal 43 ditetapkan oleh Otoritas Jasa Keuangan.
+dalam
+
+Pasal 43
+ditetapkan oleh Otoritas Jasa Keuangan.
 
 Bagian Keempat
 Sanksi Administratif

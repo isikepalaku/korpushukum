@@ -24,7 +24,9 @@ a. menyediakan fasilitas yang cukup untuk
 terlaksananya penjaminan dan penyelesaian transaksi
 Kontrak Berjangka, Kontrak Derivatif Syariah, Kontrak
 Derivatif lainnya, dan/atau transaksi fisik komoditi
-sebagaimana dimaksud dalam Pasal 15;
+sebagaimana dimaksud dalam
+
+Pasal 15;
 b. menerima pendaftaran dan menjamin penyelesaian
 setiap transaksi Kontrak Derivatif selain Kontrak
 Berjangka dan Kontrak Derivatif Syariah dari
@@ -66,4 +68,5 @@ Angka 17 . . .
 
 -----
 
- - 21
+ - 21 
+Angka 17

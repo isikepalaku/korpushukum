@@ -22,7 +22,10 @@ mengamandemen: []
 Pencatatan kelahiran WNI di luar wilayah Negara 
 Kesatuan Republik Indonesia dalam hal negara setempat 
 tidak menyelenggarakan pencatatan kelahiran bagi Orang 
-Asing sebagaimana dimaksud dalam Pasal 42 huruf e, 
+Asing sebagaimana dimaksud dalam
+
+Pasal 42
+huruf e, 
 dicatatkan pada Perwakilan Republik Indonesia dengan 
 memenuhi 
 persyaratan 

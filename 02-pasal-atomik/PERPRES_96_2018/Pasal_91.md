@@ -31,7 +31,10 @@ REPUBLIK INDONESIA
 
 Mengingat
 Menetapkan
-1. Pasal 4 ayat (1) Undang-Undang Dasar Negara
+1.
+
+Pasal 4
+ayat (1) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 23 Tahun 2006 tentang
 Administrasi Kependudukan (Lembaran Negara Republik

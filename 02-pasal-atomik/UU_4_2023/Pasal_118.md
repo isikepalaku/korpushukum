@@ -32,6 +32,8 @@ c. mengubah, ...
 - e. memberikan laporan, informasi, data, dan/a tau dokumen kepada Otoritas Jasa Keuangan secara tidak benar, palsu, dan/atau menyesatkan.
 - (3) Pemegang saham dan/atau pihak terafiliasi Usaha Jasa Pembiayaan dilarang menyuruh anggota direksi, anggota dewan komisaris, anggota pengawas, anggota pengurus, pengelola, pegawai Usaha Jasa Pembiayaan, dan/atau pihak terafiliasi lainnya untuk melakukan atau tidak melakukan tindakan yang mengakibatkan Usaha Jasa Pembiayaan tidak melaksanakan langkah yang diperlukan untuk memastikan ketaatan Usaha Jasa Pembiayaan terhadap ketentuan dalam Undang-Undang ini dan ketentuan peraturan perundang-undangan lainnya bagi Usaha Jasa Pembiayaan.
 
+Pasal 119 ...
+
 ## Penjelasan Resmi
 
 Pihak terafiliasi merupakan pemegang saham atau anggota, PSP, atau pihak ketiga yang memberikanjasanya kepada Usaha Jasa Pembiayaan yang bersangkutan, termasuk konsultan hukum, akuntan publik, dan penilai.

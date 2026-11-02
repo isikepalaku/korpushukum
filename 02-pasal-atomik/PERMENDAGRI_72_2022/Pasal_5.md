@@ -21,7 +21,10 @@ mengamandemen: []
 Pengujian komponen 
 Perangkat Keras 
 sebagaimana 
-dimaksud dalam Pasal 4 ayat (1) dengan memenuhi tingkat 
+dimaksud dalam
+
+Pasal 4
+ayat (1) dengan memenuhi tingkat 
 komponen dalam negeri paling sedikit 15% (lima belas 
 persen) sesuai dengan ketentuan peraturan perundang-
 undangan. 

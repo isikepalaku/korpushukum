@@ -17,8 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Tindak pidana sebagaimana dimaksud dalam Pasal 93, Pasal
-94, Pasal 95, Pasal 96, dan Pasal 97 adalah tindak pidana
+Tindak pidana sebagaimana dimaksud dalam Pasal 93,
+
+Pasal 94, Pasal 95, Pasal 96, dan Pasal 97 adalah tindak pidana
 Administrasi Kependudukan.
 BAB XIII
 

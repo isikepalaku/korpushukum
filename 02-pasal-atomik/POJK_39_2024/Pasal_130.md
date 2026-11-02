@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam hal Tim Likuidasi yang dibentuk oleh RUPS
-sebagaimana dimaksud dalam Pasal 105 ayat (1) telah
+sebagaimana dimaksud dalam
+
+Pasal 105
+ayat (1) telah
 menyampaikan Neraca Akhir Likuidasi dan disetujui
 Otoritas Jasa Keuangan serta laporan pertanggungjawaban
 telah diterima RUPS maka RUPS:

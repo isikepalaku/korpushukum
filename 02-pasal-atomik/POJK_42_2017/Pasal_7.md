@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (1), Pasal 2 ayat (3), Pasal 4, Pasal 5, dan/atau Pasal 6 Peraturan Otoritas Jasa Keuangan ini dikenakan sanksi administratif yang mempengaruhi penilaian kesehatan Bank dan sanksi administratif lain sesuai dengan ketentuan peraturan perundang-undangan.
+Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (1),
+
+Pasal 2
+ayat (3), Pasal 4, Pasal 5, dan/atau Pasal 6 Peraturan Otoritas Jasa Keuangan ini dikenakan sanksi administratif yang mempengaruhi penilaian kesehatan Bank dan sanksi administratif lain sesuai dengan ketentuan peraturan perundang-undangan.
 
 ## Penjelasan Resmi
 

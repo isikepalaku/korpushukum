@@ -23,7 +23,10 @@ jaringan
 Pusat 
 Data 
 sebagaimana 
-dimaksud dalam Pasal 30 huruf m, melekat pada jabatan 
+dimaksud dalam
+
+Pasal 30
+huruf m, melekat pada jabatan 
 fungsional umum yang membidangi jaringan Pusat Data. 
 www.peraturan.go.id
 

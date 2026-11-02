@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penanggung jawab penerapan program APU, PPT, dan
-PPPSPM sebagaimana dimaksud dalam Pasal 10 ayat (2),
+PPPSPM sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (2),
 mempunyai tugas meliputi:
 a. menganalisis secara berkala penilaian risiko TPPU,
 TPPT, dan/atau PPSPM terkait dengan Nasabahnya,

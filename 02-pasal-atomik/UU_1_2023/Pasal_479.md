@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '479'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -32,4 +32,9 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+Tindak Pidana pencurian dalam ketentuan ini dikualifrkasi sebagai pencurian dengan pemberatan. Unsur pemberatrrya adalah adanya Kekerasan atau Ancaman Kekerasan terhadap orang di dalam melakukan pencurian. Kekerasan atau Ancaman Kekerasan dapat dilakukan sebelum, pada saat, atau setelah pencurian dilakukan.
+
+Kekerasan menunjuk pada penggunaan kekuatan frsik, baik dengan tenaga badan maupun dengan menggunakan alat, sedangkan Ancaman Kekerasan menunjukkan keadaan sedemikian rupa yang menimbulkan rasa takut, cemas, atau khawatir pada orang yang diancam.
+
+Penggunaan Kekerasan atau Ancaman Kekerasan ini tidak perlu semata-mata ditujukan kepada pemilik Barang, tetapi juga dapat pada orang lain, misaleya pembantu rumah tangga atau penjaga rumah.

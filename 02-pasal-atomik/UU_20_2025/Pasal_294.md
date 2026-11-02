@@ -39,4 +39,4 @@ REFUBLIK TNDONESIA
 
 ## Penjelasan Resmi
 
-Cukup [jelas.]
+Cukup jelas.

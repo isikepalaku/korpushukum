@@ -19,6 +19,30 @@ mengamandemen: []
 
 Dalam melaksanakan tugas sebagaimana dimaksud dalam
 
+Pasal 103, Tim Likuidasi berwenang:
+a. mewakili Penyelenggara dalam Likuidasi yang berkaitan
+dengan penyelesaian hak dan kewajiban Penyelenggara
+tersebut baik di dalam maupun di luar pengadilan;
+b. melakukan perundingan dan tindakan lainnya dalam
+penjualan aset dan penagihan piutang terhadap para
+debitur;
+c. melakukan pemanggilan, perundingan, dan
+pembayaran kewajiban kepada para kreditur;
+d. mempekerjakan tenaga pendukung Tim Likuidasi, baik
+yang berasal dari dalam maupun dari luar
+Penyelenggara dalam Likuidasi;
+e. menunjuk pihak lain untuk membantu pelaksanaan
+Likuidasi;
+f. meminta pembatalan kepada pengadilan atas segala
+perbuatan hukum Penyelenggara yang diduga
+merugikan Penyelenggara dan dilakukan tidak dengan
+itikad baik;
+g. melakukan fasilitasi atas penyelesaian hak dan
+kewajiban antara Pemberi Dana dan Penerima Dana;
+h. menyelenggarakan Rapat Umum Pemberi Dana; dan
+i. melakukan tindakan lain yang diperlukan dalam
+pelaksanaan Likuidasi.
+
 ## Penjelasan Resmi
 
 Huruf a

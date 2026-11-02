@@ -62,11 +62,17 @@ Nomor 6107),
 dicabut dan dinyatakan tidak berlaku.
 (2) Ketentuan mengenai sanksi administratif tambahan
 berupa denda administratif sebagaimana dimaksud
-dalam Pasal 14 ayat (4), ayat (7), dan ayat (9) berlaku
+dalam
+
+Pasal 14
+ayat (4), ayat (7), dan ayat (9) berlaku
 sejak posisi laporan bulan Juni 2025.
 (3) Ketentuan mengenai sanksi administratif tambahan
 berupa denda administratif sebagaimana dimaksud
-dalam Pasal 14 ayat (4) dan ayat (7) untuk
+dalam
+
+Pasal 14
+ayat (4) dan ayat (7) untuk
 keterlambatan dan tidak menyampaikan Laporan
 Triwulanan bagi Perusahaan Asuransi dan Perusahaan
 Reasuransi mulai berlaku sejak tanggal 1 Januari

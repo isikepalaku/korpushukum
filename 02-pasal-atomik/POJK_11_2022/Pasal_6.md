@@ -19,7 +19,10 @@ mengamandemen: []
 
 Wewenang dan tanggung jawab Dewan Komisaris
 
-sebagaimana dimaksud dalam Pasal 4 paling sedikit
+sebagaimana dimaksud dalam
+
+Pasal 4
+paling sedikit
 
 mencakup:
 

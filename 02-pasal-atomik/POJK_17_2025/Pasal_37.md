@@ -115,7 +115,10 @@ Penyelenggara
 
 Ayat (1)
 
-Lihat penjelasan Pasal 16 huruf f.
+Lihat penjelasan
+
+Pasal 16
+huruf f.
 Ayat (2)
 
 Cukup jelas.

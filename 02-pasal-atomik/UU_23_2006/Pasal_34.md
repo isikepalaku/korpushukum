@@ -41,7 +41,10 @@ pencatatan
 atas
 peristiwa
 sebagaimana
-dimaksud pada ayat (4) dan dalam Pasal 8 ayat (2) wajib
+dimaksud pada ayat (4) dan dalam
+
+Pasal 8
+ayat (2) wajib
 disampaikan oleh KUAKec kepada Instansi Pelaksana
 dalam waktu paling lambat 10 (sepuluh) hari setelah
 pencatatan perkawinan dilaksanakan.

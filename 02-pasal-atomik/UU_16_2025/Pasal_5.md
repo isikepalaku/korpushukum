@@ -32,8 +32,7 @@ Pasall...
 
 ## FRESIDEN REPUBUK INDONESIA
 
-## Pasal I
-
+## Pasal 1
 Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 7O, Tambahan Lembaran Negara Republik Indonesia Nomor 42971 yang telah beberapa kali diubah dengan Undang-Undang:
 
 - a. Nomor 11 Tahun 2O2O tentang Cipta Kerja (kmbaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573);
@@ -44,8 +43,7 @@ diubah sebagai berikut:
 
 - l. Ketentuan Pasal 1 diubah sehingga berbunyi sebagai berikut:
 
-## Pasal I
-
+## Pasal 1
 Dalam Undang-Undang ini yang dimaksud dengan:
 
 1. Badan Usaha Milik Negara yang selanjutnya disingkat BUMN adalah badan usaha yang memenuhi minimal salah satu ketentuan berikut:

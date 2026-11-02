@@ -27,6 +27,10 @@ mengamandemen: []
 
 - (5) Ketentuan lebih lanjut mengenai daftar prioritas pengawasan diatur dalam Peraturan Menteri.
 
+Pasal 19...
+
+**PRESIDEN REPUELIK INDONESIA - 11-**
+
 ## Penjelasan Resmi
 
 Cukupjelas.

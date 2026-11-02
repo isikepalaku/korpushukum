@@ -35,4 +35,4 @@ Terdakwa yang menjadi haknya, yaitu:
 
 ## Penjelasan Resmi
 
-Cukup [jelas.]
+Cukup jelas.

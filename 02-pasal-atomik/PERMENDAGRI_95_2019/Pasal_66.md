@@ -24,7 +24,10 @@ Satuan
 Kerja 
 Pelaksana 
 sebagaimana 
-dimaksud dalam Pasal 63 huruf c, dilakukan dengan cara 
+dimaksud dalam
+
+Pasal 63
+huruf c, dilakukan dengan cara 
 antara lain: 
 www.peraturan.go.id
 

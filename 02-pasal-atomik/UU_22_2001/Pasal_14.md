@@ -22,6 +22,8 @@ mengamandemen: []
 
 - (2) BadanUsahaatauBentukUsahaTetapdapatmengajukanperpanjanganjangkawaktuKontrak Kerja Sama sebagaimana dimaksud dalam ayat (1) paling lama 20 (dua puluh) tahun.
 
+Pasal 15 …
+
 ## Penjelasan Resmi
 
 Cukup jelas.

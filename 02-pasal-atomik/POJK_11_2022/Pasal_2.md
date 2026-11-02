@@ -17,7 +17,83 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Bank wajib menerapkan tata kelola TI yang baik dalam
 
+penyelenggaraan TI.
+
+(2) Dalam menerapkan tata kelola TI yang baik
+
+sebagaimana dimaksud pada ayat (1), Bank
+
+mempertimbangkan faktor paling sedikit:
+
+a. strategi dan tujuan bisnis Bank;
+
+b. ukuran dan kompleksitas bisnis Bank;
+
+c. peran TI bagi Bank;
+
+d. metode pengadaan sumber daya TI;
+
+e. risiko dan permasalahan terkait TI;
+
+f. praktik atau standar yang berlaku secara
+
+nasional maupun internasional; dan
+
+g. ketentuan peraturan perundang-undangan.
+
+(3) Dalam menerapkan tata kelola TI yang baik
+
+sebagaimana dimaksud pada ayat (1), Bank
+
+melakukan kegiatan paling sedikit:
+
+a. evaluasi atas pilihan strategi, pengarahan atas
+
+strategi penyelenggaraan TI, dan pemantauan
+
+pencapaian strategi;
+
+b. penyelarasan, perencanaan, dan
+
+pengorganisasian seluruh unit, strategi, dan
+
+kegiatan yang mendukung penyelenggaraan TI;
+
+c. pendefinisian, akuisisi, dan implementasi atas
+
+solusi TI serta integrasinya dalam proses bisnis
+
+Bank;
+
+d. penyediaan dukungan operasional layanan TI
+
+kepada pemangku kepentingan; dan
+
+e. pemantauan kinerja dan kesesuaian
+
+penyelenggaraan TI dengan target kinerja intern,
+
+**t id**
+
+-----
+
+pengendalian intern, dan ketentuan peraturan
+
+perundang-undangan.
+
+(4) Penerapan tata kelola TI yang baik sebagaimana
+
+dimaksud pada ayat (1) berlaku bagi seluruh unit
+
+dan/atau fungsi:
+
+a. pengelola TI; dan
+
+b. pengguna TI,
+
+pada Bank.
 
 ## Penjelasan Resmi
 

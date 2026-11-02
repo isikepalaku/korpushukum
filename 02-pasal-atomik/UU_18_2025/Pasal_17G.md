@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pembangunan sarana dan prasarana sebagaimana dimaksud dalam Pasal 17F dilaksanakan dengan mengutamakan:
+Pembangunan sarana dan prasarana sebagaimana dimaksud dalam
+
+Pasal 17F dilaksanakan dengan mengutamakan:
 
 - b. seni dan arsitektur lokal;
 - a. kearifan lokal;
@@ -26,7 +28,7 @@ Pembangunan sarana dan prasarana sebagaimana dimaksud dalam Pasal 17F dilaksanak
 
 ## ELIK INOONESIA
 
-## Pasa] 17H
+## Pasal 17H
 
 Pengelola Destinasi Pariwisata wajib menyediakan sarana dan prasarana berupa fasilitas layanan umum dan fasilitas umum.
 

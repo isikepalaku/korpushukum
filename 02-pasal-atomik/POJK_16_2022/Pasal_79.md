@@ -17,7 +17,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+(1) Pembukaan KC wajib memperoleh izin OJK.
+(2) Bank mengajukan permohonan izin pembukaan KC
+sebagaimana dimaksud pada ayat (1) kepada OJK
+paling lama 30 (tiga puluh) hari kerja sebelum rencana
+pelaksanaan pembukaan KC.
+(3) Permohonan izin diajukan oleh pejabat Bank yang
+berwenang sesuai ketentuan internal Bank, disertai
+dokumen tercantum dalam Lampiran I yang
+merupakan bagian tidak terpisahkan dari Peraturan
+OJK ini.
 
 ## Penjelasan Resmi
 

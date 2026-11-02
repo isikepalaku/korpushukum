@@ -5,7 +5,7 @@ uu_induk: Perubahan atas POJK 69-POJK.05-2016 (Penyelenggaraan Usaha Perusahaan 
 kode_uu: POJK_36_2024
 pasal: '54'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_36_2024
@@ -74,3 +74,5 @@ berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 32

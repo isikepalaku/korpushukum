@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bagi Pelapor baru, pelaksanaan pengenaan sanksi sebagaimana dimaksud dalam Pasal 33 ayat (1) huruf a, Pasal 33 ayat (2) huruf a, Pasal 34 ayat (1), Pasal 34 ayat (2), dan Pasal 34 ayat (3) huruf a, mulai berlaku 9 (sembilan) bulan sejak batas waktu sebagaimana dimaksud dalam Pasal 6.
+Bagi Pelapor baru, pelaksanaan pengenaan sanksi sebagaimana dimaksud dalam
+
+Pasal 33
+ayat (1) huruf a, Pasal 33 ayat (2) huruf a, Pasal 34 ayat (1), Pasal 34 ayat (2), dan Pasal 34 ayat (3) huruf a, mulai berlaku 9 (sembilan) bulan sejak batas waktu sebagaimana dimaksud dalam Pasal 6.
 
 **BAB XIII**
 

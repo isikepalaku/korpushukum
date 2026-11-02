@@ -18,6 +18,8 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+Dipidana dengan pidana penjara paling lama 7 (tqjuh) tahun atau pidana denda paling banyak kategori VI, Setiap Orang yang:
+
 - a. tanpa hak menggunakan atau mengakses Komputer atau sistem elektronik dengan cara apa pun, dengan maksud memperoleh, mengubah, merusak, atau menghilangkan informasi pertahanan nasional atau hubungan internasional yang dapat menyebabkan gangguan atau bahaya terhadap negara atau hubungan dengan subjek hukum internasional;
 - c. tanpa hak atau melampaui wewenangnya menggunakan atau mengakses Komputer atau sistem elektronik, baik dari dalam maupun luar negeri untuk memperoleh informasi dari Komputer atau sistem elektronik yang dilindungi oleh negara;
 - b. tanpa hak melakukan tindakan yang menyebabkan transmisi dari program, informasi, kode atau perintah Komputer atau sistem elektronik yang dilindungi negara menjadi rusak;

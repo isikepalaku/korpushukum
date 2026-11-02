@@ -20,7 +20,7 @@ mengamandemen: []
 - (1) Pengaturan mengenai di bidang Pelayaran dilaksanakan sesuai dengan ketentuan peraturan undangan di bidang ketenagalerjaan.
 2. (21 Pengaturan mengenai kepelautan dilaksanakan sesuai dengan ketentuan yang diatur dalam Undang-Undang ini.
 
-64. Di antara Pasal 346 dan Pasal 347 disisipkan 1 (satu) pasaI, yakni Pasal 346A sehingga berbunyi sebagai berikut:
+64. Di antara Pasal 346 dan Pasal 347 disisipkan 1 (satu) Pasal, yakni Pasal 346A sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 

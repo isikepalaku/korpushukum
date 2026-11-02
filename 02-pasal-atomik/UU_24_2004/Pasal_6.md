@@ -18,29 +18,77 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-b. memberikan talangan untuk pembayaran gaji pegawai
+(1) Dalam rangka melaksanakan tugas sebagaimana dimaksud
 
- yang terutang dan talangan pesangon pegawai sebesar
+ dalam
 
- jumlah minimum pesangon sebagaimana diatur dalam
+Pasal 5, LPS mempunyai wewenang sebagai berikut:
 
- peraturan perundang-undangan;
+ a. menetapkan dan memungut premi penjaminan;
 
- c. melakukan tindakan yang diperlukan dalam rangka
+ b. menetapkan dan memungut kontribusi pada saat bank
 
- pengamanan aset bank sebelum proses likuidasi dimulai;
+ pertama kali menjadi peserta;
 
- dan
+ c. melakukan pengelolaan kekayaan dan kewajiban LPS;
+
+ d. mendapatkan data simpanan nasabah, data kesehatan
+
+ bank, laporan keuangan bank, dan laporan hasil
+
+ pemeriksaan bank sepanjang tidak melanggar
+
+ kerahasiaan bank;
+
+ e. melakukan rekonsiliasi, verifikasi, dan/atau konfirmasi
+
+ atas data sebagaimana dimaksud pada huruf d;
+
+ f. menetapkan syarat, tata cara, dan ketentuan
+
+ pembayaran klaim;
 
 -----
 
-**d. memutuskan pembubaran badan hukum bank,**
+**g. menunjuk, menguasakan, dan/atau menugaskan pihak**
 
- membentuk tim likuidasi, dan menyatakan status bank
+ lain untuk bertindak bagi kepentingan dan/atau atas
 
- sebagai bank dalam likuidasi, berdasarkan kewenangan
+ nama LPS, guna melaksanakan sebagian tugas tertentu;
 
- sebagaimana dimaksud pada huruf a.
+ h. melakukan penyuluhan kepada bank dan masyarakat
+
+ tentang penjaminan simpanan; dan
+
+ i. menjatuhkan sanksi administratif.
+
+ (2) LPS dapat melakukan penyelesaian dan penanganan Bank
+
+ Gagal dengan kewenangan:
+
+a. mengambil alih dan menjalankan segala hak dan
+
+**wewenang pemegang saham, termasuk hak dan**
+
+ wewenang RUPS;
+
+b. menguasai dan mengelola aset dan kewajiban Bank
+
+**Gagal yang diselamatkan;**
+
+c. meninjau ulang, membatalkan, mengakhiri, dan/atau
+
+**mengubah setiap kontrak yang mengikat Bank Gagal**
+
+ yang diselamatkan dengan pihak ketiga yang
+
+ merugikan bank; dan
+
+d. menjual dan/atau mengalihkan aset bank tanpa
+
+**persetujuan debitur dan/atau kewajiban bank tanpa**
+
+ persetujuan kreditur.
 
 ## Penjelasan Resmi
 

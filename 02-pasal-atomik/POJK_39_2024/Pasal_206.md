@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Kewajiban menyampaikan laporan keuangan tahunan
-sebagaimana dimaksud dalam Pasal 205 ayat (1) huruf
+sebagaimana dimaksud dalam
+
+Pasal 205
+ayat (1) huruf
 b berlaku bagi Perusahaan yang memenuhi kriteria:
 a. Perusahaan dengan lingkup wilayah usaha
 provinsi dan lingkup wilayah usaha nasional; dan

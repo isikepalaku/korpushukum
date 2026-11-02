@@ -57,7 +57,10 @@ Yang dimaksud dengan "nama umum" antara lain Merek "rumah makan" untuk restoran,
 Cukup jelas.
 
 ```
-Angka 2 Pasal 23 Cukup jelas. Angka 3 Pasal 25 Ayat (1) Cukup jelas. Ayat (21 Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d
+Angka 2
+
+Pasal 23
+Cukup jelas. Angka 3 Pasal 25 Ayat (1) Cukup jelas. Ayat (21 Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d
 ```
 
 ```

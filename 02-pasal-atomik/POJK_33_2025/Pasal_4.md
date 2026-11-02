@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PPDP wajib melakukan penilaian sendiri atas Tingkat
-Kesehatan PPDP sebagaimana dimaksud dalam Pasal 3
+Kesehatan PPDP sebagaimana dimaksud dalam
+
+Pasal 3
 ayat (3) sampai dengan ayat (5).
 (2) Penilaian sendiri Tingkat Kesehatan PPDP
 sebagaimana dimaksud pada ayat (1) dilakukan paling

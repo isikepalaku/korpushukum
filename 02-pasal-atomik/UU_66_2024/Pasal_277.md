@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 276, Menteri menyelenggarakan fungsi sebagai berikut:
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+
+Pasal 276, Menteri menyelenggarakan fungsi sebagai berikut:
 
 - a. pengawasan atas pelaksanaan ketentuan di bidang Keselamatan dan Keamanan Pelayaran;
 - b. pengawasan atas pelaksanaan ketentuan di bidang Angkutan di Perairan;

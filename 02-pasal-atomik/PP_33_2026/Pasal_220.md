@@ -43,6 +43,8 @@ mengamandemen: []
 
 - (2) Permintaan bantuan hukum kepada kejaksaan sebagaimana dimaksud pada ayat (1) dilaksanakan scesuai dengan ketentuan peraturan perundangundangan.
 
+Pasal 222... ;
+
 ## Penjelasan Resmi
 
 Cukup jelas.

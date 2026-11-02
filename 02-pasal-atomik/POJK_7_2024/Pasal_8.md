@@ -19,6 +19,14 @@ mengamandemen: []
 
 Pendirian BPR atau BPR Syariah sebagaimana dimaksud dalam
 
+Pasal 2
+ayat (1) huruf a dilakukan dalam 2 (dua) tahap:
+a. persetujuan prinsip; dan
+b. izin usaha.
+
+Paragraf 1
+Persetujuan Prinsip
+
 ## Penjelasan Resmi
 
 Cukup jelas.

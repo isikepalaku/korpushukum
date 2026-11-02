@@ -41,7 +41,14 @@ kepada Penuntut Umum.
 
 **setelah menerima berkas perkara dari Penyidik**
 sebagaimana dimaksud pada ayat (5), Penuntut Umum
-**menentukan perkara dilanjutkan atau tidak dilanjutkan ke persidangan.**
+**menentukan perkara dilanjutkan atau tidak dilanjutkan ke persidangan.**Pasal 63...
+
+-----
+
+tiIJTEIEtrN
+**BLIK IN**
+
+ -35
 
 ## Penjelasan Resmi
 

@@ -21,6 +21,10 @@ mengamandemen: []
 - (2) Pengaturan dan pengawasan sebagaimana dimaksud pada ayat (1) meliputi penyelenggaraan Program Pensiun, termasuk penyelenggaraan atas manfaat lain sebagaimana dimaksud dalam Pasal 138 ayat (4), dan pengelolaan aset Dana Pensiun.
 - (3) Ketentuan lebih lanjut mengenai cakupan pengaturan dan pengawasan oleh Otoritas Jasa Keuangan sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
+Pasal 173 ...
+
+**-383 -**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

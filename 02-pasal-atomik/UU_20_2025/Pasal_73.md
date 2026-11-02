@@ -23,9 +23,7 @@ mengamandemen: []
 **sebagqiman. dimaksud dalam Pasal 22 ayat (2) dan ayat (3). (21 Saksi mahkota sebagaimana dimaksud pada ayat (1)**
  dapat diberikan keringanan dari tuntutan pidana, jika
 **saksi mahkota membantu mengungkapkan**
-**keterlibatan Tersangka atau Terdakwa lain yang patut dipidana dalam perkara yang sama.**
-
-Pasal T4
+**keterlibatan Tersangka atau Terdakwa lain yang patut dipidana dalam perkara yang sama.**Pasal T4
 **(1) Dalam hal Tersangka yang akan dijadikan sebagai**
 
 **saksi mahkota menerima untuk melakukan negosiasi kesepakatan saksi mahkota, Penuntut Umum memanggil Tersangka yang akan dijadikan sebagai saksi mahkota beserta Advokatnya untuk membahas isi kesepakatan dari perjanjian saksi mahkota.**
@@ -72,8 +70,6 @@ PRESIDEN
 
 ## Penjelasan Resmi
 
-**Cukup jelas.**
-
-Pasal T4
+**Cukup jelas.**Pasal T4
 
 **Cukup [jelas.]**

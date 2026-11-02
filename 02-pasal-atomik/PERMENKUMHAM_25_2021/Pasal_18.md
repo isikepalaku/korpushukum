@@ -22,7 +22,10 @@ mengamandemen: []
 
 sertifikat perubahan Jaminan Fidusia sebagaimana
 
-dimaksud dalam Pasal 15 ayat (1) dan ayat (2), Pemohon
+dimaksud dalam
+
+Pasal 15
+ayat (1) dan ayat (2), Pemohon
 
 mengajukan permohonan perbaikan sertifikat perubahan
 

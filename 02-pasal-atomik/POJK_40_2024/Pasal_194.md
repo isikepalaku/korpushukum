@@ -26,7 +26,10 @@ memuat:
 a. transparansi penerapan tata kelola perusahaan
 yang baik yang mengungkapkan seluruh aspek
 pelaksanaan prinsip tata kelola perusahaan yang
-baik sebagaimana dimaksud dalam Pasal 188 ayat
+baik sebagaimana dimaksud dalam
+
+Pasal 188
+ayat
 (2); dan
 b. rencana tindak yang meliputi tindakan korektif
 yang diperlukan dan waktu penyelesaian serta

@@ -24,7 +24,9 @@ mengamandemen: []
 
 ```
  - 48 Ketentuan dan tata cara penyampaian laporan
-sebagaimana dimaksud dalam Pasal 85, Pasal 86,
+sebagaimana dimaksud dalam Pasal 85,
+
+Pasal 86,
 dan Pasal 87 diatur lebih lanjut oleh Bapepam.
 
 ## Penjelasan Resmi

@@ -36,3 +36,5 @@ Yang dimaksud dengan "bertempat tinggal di dalam dan/ atau di sekitar kawasan hu
 Ayat (3)
 
 Cukup jelas.
+
+Angka 13

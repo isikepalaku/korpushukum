@@ -21,7 +21,9 @@ mengamandemen: []
 
 permohonan izin penutupan kantor Bank BHI
 
-sebagaimana dimaksud dalam Pasal 83.
+sebagaimana dimaksud dalam
+
+Pasal 83.
 
 (2) Persetujuan atau penolakan sebagaimana dimaksud
 
@@ -29,7 +31,10 @@ pada ayat (1) diberikan dalam jangka waktu 14 (empat
 
 belas) hari kerja sejak dokumen sebagaimana
 
-dimaksud dalam Pasal 83 ayat (3) diterima secara
+dimaksud dalam
+
+Pasal 83
+ayat (3) diterima secara
 
 lengkap.
 
@@ -43,13 +48,16 @@ a. terhadap rencana penutupan Kantor BHI telah
 
 dicantumkan dalam Rencana Bisnis Bank,
 
-sebagaimana dimaksud dalam Pasal 82; dan
+sebagaimana dimaksud dalam
+
+Pasal 82; dan
 
 b. kelengkapan dan kesesuaian dokumen yang
 
-disampaikan sebagaimana dimaksud dalam Pasal
+disampaikan sebagaimana dimaksud dalam
 
-83 ayat (3).
+Pasal 83
+ayat (3).
 
 ## Penjelasan Resmi
 

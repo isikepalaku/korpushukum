@@ -18,8 +18,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 58 ayat (1), ayat (2), ayat (3),
-ayat (4), ayat (5), Pasal 62 ayat (1), dan/atau Pasal 63
+dimaksud dalam
+
+Pasal 58
+ayat (1), ayat (2), ayat (3),
+ayat (4), ayat (5),
+
+Pasal 62
+ayat (1), dan/atau Pasal 63
 ayat (1) dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -70,7 +76,10 @@ ANGGOTA DEWAN PENGAWAS SYARIAH
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

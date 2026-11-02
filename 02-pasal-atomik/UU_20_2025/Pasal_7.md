@@ -79,6 +79,15 @@ pengawasan Penyidik Polri.
 **ayat (3) dan ayat (4) dikecualikan untuk Penyidik di Kejaksaan Republik Indonesia, Komisi Pemberantasan Tindak Pidana Korupsi, dan Tentara Nasional Indonesia**
 Angkatan laut sesuai dengan ketentuan Undang-Undang.
 
+Pasal 8...
+
+-----
+
+PRESIDEN
+R,EPUBLIK INDONESIA
+
+**-14-**
+
 ## Penjelasan Resmi
 
 **Ayat (1)**
@@ -103,7 +112,10 @@ Angkatan laut sesuai dengan ketentuan Undang-Undang.
  Huruf f
  Cukup [jelas.]
  Huruf g
- Lihat penjelasan Pasal 5 ayat (2) huruf c. Huruf h
+ Lihat penjelasan
+
+Pasal 5
+ayat (2) huruf c. Huruf h
  Cukup [jelas.]
  Huruf i
  Cukup [jelas.] Hurufj

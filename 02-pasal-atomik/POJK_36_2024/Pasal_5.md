@@ -5,7 +5,7 @@ uu_induk: Perubahan atas POJK 69-POJK.05-2016 (Penyelenggaraan Usaha Perusahaan 
 kode_uu: POJK_36_2024
 pasal: '5'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_36_2024
@@ -18,59 +18,40 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Rencana perluasan ruang lingkup usaha yang
+akan dilakukan oleh Perusahaan Asuransi,
 Perusahaan Asuransi Syariah, atau Unit Syariah
-pada Perusahaan Asuransi harus memenuhi
-ketentuan:
+pada Perusahaan Asuransi wajib dicantumkan
+dalam rencana bisnis Perusahaan Asuransi atau
+Perusahaan Asuransi Syariah.
+(2) Perusahaan Asuransi, Perusahaan Asuransi
+Syariah, atau Unit Syariah pada Perusahaan
+Asuransi yang akan melakukan perluasan ruang
+lingkup usaha sebagaimana dimaksud dalam
 
-a. tingkat solvabilitas minimum sebagaimana
-dimaksud dalam Peraturan OJK mengenai
-kesehatan keuangan Perusahaan Asuransi
-dan Perusahaan Reasuransi dan Peraturan
-OJK mengenai kesehatan keuangan
-Perusahaan Asuransi dan Perusahaan
-Reasuransi dengan prinsip syariah;
-b. tidak sedang dikenai sanksi administratif
-berupa pembatasan kegiatan usaha sebagian
-atau seluruh kegiatan usaha; dan
-c. memiliki tingkat kesehatan dengan peringkat
-komposit paling rendah peringkat 2 (dua)
-sebagaimana diatur dalam Peraturan OJK
-mengenai tingkat kesehatan lembaga jasa
-keuangan nonbank.
-(2) Selain ketentuan sebagaimana dimaksud pada
-ayat (1), Perusahaan Asuransi, Perusahaan
-Asuransi Syariah, atau Unit Syariah pada
-Perusahaan Asuransi yang melakukan perluasan
-ruang lingkup usaha PAYDI, kegiatan usaha
-Asuransi Kredit/Asuransi Pembiayaan Syariah
-dan _Suretyship_ atau _Suretyship_ Syariah harus
-memenuhi kriteria dan persyaratan sebagaimana
-yang diatur dalam:
-a. Peraturan OJK mengenai produk asuransi
-dan saluran pemasaran produk asuransi; dan
-b. Peraturan OJK mengenai produk asuransi
-yang dikaitkan dengan kredit atau
-pembiayaan syariah dan produk _Suretyship_
-atau Suretyship Syariah,
-beserta peraturan pelaksanaannya.
-(3) Perusahaan Asuransi Umum dan Perusahaan
-Asuransi Umum Syariah yang melakukan
-perluasan ruang lingkup usaha penjaminan
-berdasarkan penugasan pemerintah sebagaimana
-dimaksud dalam Pasal 4 huruf a angka 5 dan
-huruf b angka 5, wajib membentuk unit usaha
-penjaminan.
-(4) Unit usaha penjaminan sebagaimana dimaksud
-pada ayat (3) wajib memenuhi ketentuan mengenai
-persyaratan kelembagaan, prinsip kehati-hatian,
-dan manajemen risiko yang memadai, yang diatur
-lebih lanjut oleh OJK.
+Pasal 4
+wajib mendapatkan persetujuan terlebih
+dahulu dari OJK.
+(3) Kewajiban untuk mendapatkan persetujuan
+sebagaimana dimaksud pada ayat (2) bagi kegiatan
+usaha _administrative service only (ASO) dalam_
+rangka _employee benefit_ sebagaimana dimaksud
+dalam
+
+Pasal 4
+huruf d angka 1 dilakukan pada
+saat pertama kali Perusahaan Asuransi,
+Perusahaan Asuransi Syariah, atau Unit Syariah
+pada Perusahaan Asuransi melakukan kegiatan
+usaha dimaksud.
 
 -----
 
-6. Di antara Pasal 6 dan Pasal 7 disisipkan 1 (satu) pasal,
-yakni Pasal 6A sehingga berbunyi sebagai berikut:
+5. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai
+berikut:
 
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 5

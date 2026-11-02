@@ -18,28 +18,42 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1), Pasal 51 ayat (1), Pasal 52 ayat (4), Pasal 53 ayat (3),
-dan Pasal 55 ayat (1) dikenai sanksi administratif.
+(1) Perusahaan Penjaminan dan Perusahaan Penjaminan
 
-(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)
+Syariah wajib melakukan mitigasi risiko dengan
+menjaminulangkan penjaminannya.
 
-berupa:
+(2) Penjaminan ulang sebagaimana dimaksud pada ayat (1)
 
-a. peringatan tertulis;
+dilakukan untuk memenuhi kewajiban finansial
+Perusahaan Penjaminan atau Perusahaan Penjaminan
+Syariah dalam hal:
 
-b. denda administratif;
+a. Perusahaan Penjaminan atau Perusahaan Penjaminan
 
-c. pembekuan kegiatan usaha; atau
+Syariah telah memenuhi kewajibannya kepada
+Penerima Jaminan; atau
 
-d. pencabutan izin usaha.
+b. Perusahaan Penjaminan atau Perusahaan Penjaminan
 
-(3) Ketentuan lebih lanjut mengenai tata cara pemberian
+Syariah tidak dapat memenuhi kewajibannya.
 
-sanksi administratif sebagaimana dimaksud pada ayat (2)
-diatur dalam Peraturan Otoritas Jasa Keuangan.
+(3) Penjaminan ulang sebagaimana dimaksud pada ayat (1)
 
-BAB XIV
-KETENTUAN PIDANA
+dilakukan oleh Perusahaan Penjaminan Ulang atau
+Perusahaan Penjaminan Ulang Syariah.
+
+(4) Dalam hal dukungan penjaminan ulang dari Perusahaan
+
+Penjaminan Ulang atau Perusahaan Penjaminan Ulang
+Syariah sebagaimana dimaksud pada ayat (3) tidak
+diperoleh, mitigasi risiko Perusahaan Penjamin dan
+Perusahaan Penjamin Syariah diperoleh dari perusahaan
+reasuransi.
+
+Bagian Ketiga
+
+Imbal Jasa
 
 ## Penjelasan Resmi
 

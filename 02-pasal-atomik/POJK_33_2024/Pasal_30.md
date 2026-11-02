@@ -20,7 +20,10 @@ mengamandemen: []
 Otoritas Jasa Keuangan dapat mengumumkan pengenaan
 sanksi administratif sebagaimana dimaksud dalam
 Peraturan Otoritas Jasa Keuangan ini dan tindakan tertentu
-sebagaimana dimaksud dalam Pasal 29 kepada masyarakat.
+sebagaimana dimaksud dalam
+
+Pasal 29
+kepada masyarakat.
 
 ## Penjelasan Resmi
 

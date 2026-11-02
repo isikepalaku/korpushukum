@@ -17,30 +17,61 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), dan/atau Pasal 28 ayat (2), ayat (3) dikenakan
-sanksi administratif berupa:
-a. peringatan tertulis;
-b. penurunan tingkat kesehatan; dan/atau
-c. larangan untuk memasarkan Produk Asuransi
-atau Produk Asuransi dengan Prinsip Syariah
-untuk lini usaha tertentu.
-(2) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 23 ayat (1), dikenakan sanksi
-administratif tambahan berupa denda administratif
-sebesar Rp100.000.000,00 (seratus juta rupiah).
+(1) Perhitungan Premi/Kontribusi sebagaimana dimaksud
+dalam
+
+Pasal 25
+ayat (2) huruf a yang dipasarkan oleh
+perusahaan asuransi umum dan perusahaan asuransi
+umum syariah wajib dilakukan dengan
+mempertimbangkan paling sedikit:
+a. Premi/Kontribusi murni yang dihitung
+berdasarkan data profil risiko dan kerugian jenis
+asuransi yang bersangkutan minimal 5 (lima)
+tahun terakhir; dan
 
 -----
 
-(3) Dalam hal terjadi pelanggaran ketentuan sebagaimana
-dimaksud pada ayat (1) namun pelanggaran telah
-diperbaiki, Otoritas Jasa Keuangan memberikan sanksi
-peringatan tertulis yang berakhir dengan sendirinya.
-(4) Dalam hal pelanggaran atas ketentuan sebagaimana
-dimaksud pada ayat (1) telah dipenuhi, Otoritas Jasa
-Keuangan mencabut sanksi peringatan tertulis.
-
-Bagian Keenam
-Penilaian Kembali terhadap Pihak Utama
+b. biaya akuisisi, biaya administrasi, biaya umum
+lainnya, dan margin keuntungan.
+(2) Dalam hal data profil risiko dan kerugian jenis asuransi
+sebagaimana dimaksud pada ayat (1) huruf a tidak
+tersedia, digunakan:
+a. data profil risiko dan kerugian jenis asuransi yang
+bersangkutan kurang dari 5 (lima) tahun terakhir;
+dan/atau
+b. informasi yang akurat dari sumber terpercaya
+untuk memprediksi frekuensi dan besaran risiko
+pada objek asuransi.
+(3) Perusahaan asuransi umum dan perusahaan asuransi
+umum syariah wajib meninjau kembali perhitungan
+tarif Premi/Kontribusi setelah memiliki data profil
+risiko dan kerugian yang cukup.
+(4) Perhitungan Premi/Kontribusi PAYDI, Produk Asuransi
+kesehatan, dan/atau Produk Asuransi kecelakaan diri,
+yang dipasarkan oleh perusahaan asuransi umum dan
+perusahaan asuransi umum syariah wajib dilakukan
+dengan mempertimbangkan paling sedikit:
+a. Premi/Kontribusi murni yang dihitung
+berdasarkan data profil risiko, tingkat
+bunga/tingkat diskonto, tabel mortalita, dan/atau
+tabel morbidita;
+b. perkiraan hasil investasi dari Premi/Kontribusi;
+dan
+c. biaya akuisisi, biaya administrasi, biaya umum
+lainnya, dan margin keuntungan.
+(5) Perhitungan Premi/Kontribusi Produk Asuransi yang
+dipasarkan oleh perusahaan asuransi jiwa dan
+perusahaan asuransi jiwa syariah wajib dilakukan
+dengan mempertimbangkan paling sedikit:
+a. Premi/Kontribusi murni yang dihitung
+berdasarkan data profil risiko, tingkat
+bunga/tingkat diskonto, tabel mortalita, dan/atau
+tabel morbidita;
+b. perkiraan hasil investasi dari Premi/Kontribusi;
+dan
+c. biaya akuisisi, biaya administrasi, biaya umum
+lainnya, dan margin keuntungan.
 
 ## Penjelasan Resmi
 

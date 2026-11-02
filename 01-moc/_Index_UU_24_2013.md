@@ -4,7 +4,7 @@ judul: "Map of Content - Perubahan atas UU 23-2006 tentang Administrasi Kependud
 kode_uu: UU_24_2013
 type: moc
 tags: [moc, hukum/pidana, uu/uu_24_2013]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Perubahan atas UU 23-2006 tentang Administrasi Kependudukan (UU_24_2013)
@@ -31,18 +31,11 @@ last_updated: 2026-11-01
 - [[Pasal_76]]: Pasal 76
 - [[Pasal_77]]: Pasal 77
 - [[Pasal_79]]: Pasal 79
-- [[Pasal_79A]]: Pasal 79A
-- [[Pasal_83A]]: Pasal 83A
 - [[Pasal_84]]: Pasal 84
 - [[Pasal_86]]: Pasal 86
 - [[Pasal_87]]: Pasal 87
-- [[Pasal_87A]]: Pasal 87A
-- [[Pasal_87B]]: Pasal 87B
 - [[Pasal_94]]: Pasal 94
-- [[Pasal_95A]]: Pasal 95A
-- [[Pasal_95B]]: Pasal 95B
 - [[Pasal_96]]: Pasal 96
-- [[Pasal_96A]]: Pasal 96A
 - [[Pasal_101]]: Pasal 101
 - [[Pasal_102]]: Pasal 102
 - [[Pasal_103]]: Pasal 103

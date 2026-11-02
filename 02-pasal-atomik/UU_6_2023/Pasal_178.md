@@ -23,7 +23,9 @@ mengamandemen: []
 
 Ayat (1)
 
-Yang dimaksud dengan "surat permohonan telah diterima secara lengkap" adalah Surat Pemberitahuan yang telah diisi lengkap sebagaimana dimaksud dalam Pasal 3.
+Yang dimaksud dengan "surat permohonan telah diterima secara lengkap" adalah Surat Pemberitahuan yang telah diisi lengkap sebagaimana dimaksud dalam
+
+Pasal 3.
 
 Surat ketetapan pajak yang diterbitkan berdasarkan hasil pemeriksaan atas permohonan pengembalian kelebihan pembayaran pajak dapat berupa Surat Ketetapan Paj ak Kurang Bayar, Surat Ketetapan Paj ak Nihil, atau Surat Ketetapan Pajak Lebih Bayar.
 
@@ -46,7 +48,10 @@ Cukup jelas.
 **PRESIOEN REPUBUK INDONESTA**
 
 ```
-Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 6 Pasal 19 Cukup jelas. Angka 7 Pasal 27A Dihapus. Angka 8 Pasal 27B Cukup jelas. Angka 9 Pasal 38 Cukup jelas. Pasal 114 Cukup jelas. Pasal 115 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 37 Cukup jelas.
+Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 6
+
+Pasal 19
+Cukup jelas. Angka 7 Pasal 27A Dihapus. Angka 8 Pasal 27B Cukup jelas. Angka 9 Pasal 38 Cukup jelas. Pasal 114 Cukup jelas. Pasal 115 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 37 Cukup jelas.
 ```
 
 ```

@@ -18,7 +18,30 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 
+**perusahaan reasuransi, dan perusahaan reasuransi syariah wajib menjadi anggota lembaga mediasi [yang] berfungsi melakukan penyelesaian sengketa antara Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau perusahaan reasuransi syariah dan Pemegang Polis, Tertanggung, Peserta, atau pihak lain yang berhak memperoleh manfaat asurarsi.**
+
+(2t kmbaga mediasi sebagaimana dimaksud pada ayat [(1)]
+
+**bersifat independen dan imparsial.**
+
+(3) I-embaga mediasi sebagaimana dimaksud pada ayat [(1)]
+
+**harus mendapat persetujuan tertulis dari Otoritas Jasa**
+Keuangan.
+
+(4) Kesepakatan mediasi bersifat final dan mengikat bagi
+
+**para Pihak.**
+
+(s) Ketentuan Iebih lanjut mengenai lembaga mediasi
+
+**sebagaimana dimaksud pada ayat (1), ayat (2), ayat [(3),] dan ayat (4) diatur dalam Peraturan Otoritas Jasa**
+Keuangan.
+
+BAB XII
+PROFESI PEI{YEDIA JASA BAGI PERUSAHAAN PERASURANSIAN
 
 ## Penjelasan Resmi
 

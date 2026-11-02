@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap orang yang mengoperasikan Kapal Asing untuk mengangkut penumpang dan/ atau barang antarpulau atau antarpelabuhan di wilayah Perairan Indonesia sebagaimana dimaksud dalam Pasal 8 ayat (2) dipidana dengan pidana penjara paling lama 11 (sebelas) tahun atau denda paling banyak kategori VII.
+Setiap orang yang mengoperasikan Kapal Asing untuk mengangkut penumpang dan/ atau barang antarpulau atau antarpelabuhan di wilayah Perairan Indonesia sebagaimana dimaksud dalam
+
+Pasal 8
+ayat (2) dipidana dengan pidana penjara paling lama 11 (sebelas) tahun atau denda paling banyak kategori VII.
 
 63. Ketentuan Pasal 337 diubah sehingga berbunyi sebagai berikut:
 

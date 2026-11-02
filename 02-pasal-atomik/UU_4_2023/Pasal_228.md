@@ -72,6 +72,5 @@ Yang dimaksud dengan "penegakan kepatuhan" adalah prinsip yang menitikberatkan p
 
 Yang dimaksud dengan "persaingan yang sehat" adalah persaingan antara PUSK dalam menjalankan kegiatan usaha yang dilakukan dengan cara jujur atau tidak melawan hukum atau tidak menghambat persaingan usaha.
 
-Pasa1229
-
+Pasal 229
 Cukup jelas.

@@ -70,7 +70,7 @@ TIEFUBLIK INDONESIA
 **peraturan perundang-undangan. (9) Ketentuan lebih lanjut mengenai perdamaian antara**
  Terdakwa dengan Korban diatur dalam Peraturan Pemerintah.
 
-Pasal 2O5
+Pasal 205
 **(1) Dalam hal Terdakwa dan Korban tidak bersepakat**
  untuk melakukan perdamaian, Hakim menanyakan
 kepada Terdakwa apakah Terdakwa bersedia mengakui

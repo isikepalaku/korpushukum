@@ -17,16 +17,39 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-melaksanakan RUPS yang menyetujui perubahan
-kepemilikan paling lama 60 (enam puluh) hari kerja
-terhitung sejak tanggal surat persetujuan Otoritas Jasa
-Keuangan.
-(2) Dalam hal Penyelenggara belum melaksanakan RUPS
-yang menyetujui perubahan kepemilikan dalam jangka
-waktu sebagaimana dimaksud pada ayat (1), Otoritas
-Jasa Keuangan berwenang membatalkan persetujuan
-perubahan kepemilikan yang sebelumnya telah
-diberikan.
+(1) Otoritas Jasa Keuangan memberikan persetujuan atau
+penolakan atas permohonan perubahan kepemilikan
+sebagaimana dimaksud dalam
+
+Pasal 58
+ayat (1) dalam
+jangka waktu paling lama 20 (dua puluh) hari kerja
+sejak permohonan diterima secara lengkap.
+(2) Untuk memberikan persetujuan atau penolakan
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa
+Keuangan melakukan:
+a. analisis dan penelitian atas kelengkapan dokumen
+sebagaimana dimaksud dalam
+
+Pasal 59
+ayat (1);
+b. analisis kelayakan atas rencana perubahan
+kepemilikan;
+
+-----
+
+c. penilaian kemampuan dan kepatutan terhadap
+calon PSP; dan
+d. analisis pemenuhan ketentuan peraturan
+perundang-undangan di bidang LPBBTI.
+(3) Dalam hal permohonan perubahan kepemilikan
+disetujui, Otoritas Jasa Keuangan menerbitkan surat
+persetujuan perubahan kepemilikan kepada
+Penyelenggara yang bersangkutan.
+(4) Dalam hal permohonan perubahan kepemilikan
+ditolak, Otoritas Jasa Keuangan menyampaikan
+pemberitahuan secara tertulis dan disertai dengan
+alasan penolakan.
 
 ## Penjelasan Resmi
 

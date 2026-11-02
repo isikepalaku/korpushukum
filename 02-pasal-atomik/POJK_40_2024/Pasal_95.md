@@ -18,12 +18,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara wajib melaporkan pelaksanaan
-kewajiban sebagaimana dimaksud dalam Pasal 94
+kewajiban sebagaimana dimaksud dalam
+
+Pasal 94
 paling lama 20 (dua puluh) hari kerja setelah:
 (1) seluruh hak dan kewajiban Penyelenggara
 diselesaikan; atau
-(2) batas waktu sebagaimana dimaksud dalam Pasal
-94 huruf c, digunakan yang lebih dahulu.
+(2) batas waktu sebagaimana dimaksud dalam Pasal 94 huruf c, digunakan yang lebih dahulu.
 (2) Pelaporan pelaksanaan kewajiban sebagaimana
 dimaksud pada ayat (1) harus dengan melampirkan
 dokumen persyaratan pelaporan kewajiban tercantum

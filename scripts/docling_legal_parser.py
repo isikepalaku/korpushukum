@@ -129,7 +129,12 @@ class IndonesianLegalParser:
     def normalize_legal_ocr(text: str) -> str:
         """Memperbaiki kesalahan OCR umum pada teks perundang-undangan Indonesia."""
         # Perbaiki variasi kata 'Pasal' akibat OCR
-        text = re.sub(r"(?im)\b(?:Pasil|PasaT|Pasa1)\b", "Pasal", text)
+        text = re.sub(r"(?im)\bPasa7\s*(\d+)\b", r"Pasal \1", text)
+        text = re.sub(r"(?im)\bPasa[|/\\l1tT7\]!i]\s*(\d+)", r"Pasal \1", text)
+        text = re.sub(r"(?im)\b(?:Pasil|PasaT|Pasa1|Pasai|Pasa7|Pasa\]|Pasa\[)", "Pasal", text)
+        text = re.sub(r"(?im)\bP\s+asal\b", "Pasal", text)
+        text = re.sub(r"(?im)\*\*['\"`\s]*Pasal\b", "**Pasal", text)
+
         # Perbaiki typo OCR spesifik seperti 'Pasal2TA' -> 'Pasal 27A'
         text = re.sub(r"(?im)\bPasal\s*2TA\b", "Pasal 27A", text)
         # Perbaiki typo OCR Penjelasan
@@ -139,12 +144,41 @@ class IndonesianLegalParser:
         text = re.sub(r"(?im)\bTAHVN\b", "TAHUN", text)
         # Perbaiki 'Pasal' yang menempel langsung dengan angka: 'Pasal27' -> 'Pasal 27'
         text = re.sub(r"(?im)\bPasal(\d+[A-Za-z]?)\b", r"Pasal \1", text)
-        # Perbaiki angka '8' yang sebenarnya huruf 'B' pada penomoran pasal sisipan
-        text = re.sub(r"(?im)(^#*\s*(?:\*\*)?Pasal\s+16)8\b", r"\1B", text)
-        text = re.sub(r"(?im)(^#*\s*(?:\*\*)?Pasal\s+27)8\b", r"\1B", text)
-        text = re.sub(r"(?im)(^#*\s*(?:\*\*)?Pasal\s+45)8\b", r"\1B", text)
-        text = re.sub(r"(?im)\bPasal\s+278\b", "Pasal 27B", text)
-        text = re.sub(r"(?im)\bPasal\s+168\b", "Pasal 16B", text)
+
+        # Pisahkan BAB / Bagian / Paragraf yang menempel pada kata Pasal
+        text = re.sub(
+            r"(?im)^((?:BAB\s+[IVXLCDM]+|PARAGRAF\s+\d+|BAGIAN\s+[A-Za-z]+|[A-Z\s]{4,})\b.*?)\s+(Pasal\s+\d+[A-Za-z]*)\b",
+            r"\1\n\n\2",
+            text
+        )
+
+        # Pisahkan nomor pasal yang menempel pada kalimat pertama (inline)
+        text = re.sub(
+            r"(?im)^(?:\*\*)?Pasal\s+([0-9OlIT\|\s]+)(?:\*\*)?\s+([A-Z][a-z]+.*)$",
+            r"Pasal \1\n\n\2",
+            text
+        )
+
+        # Normalisasi karakter OCR pada angka pasal (O->0, l/I->1, T->7)
+        def fix_pasal_num(m):
+            prefix = m.group(1)
+            num_str = m.group(2)
+            cleaned = re.sub(r"\s+", "", num_str)
+            cleaned = cleaned.replace("O", "0").replace("o", "0")
+            cleaned = cleaned.replace("l", "1").replace("I", "1").replace("|", "1")
+            cleaned = cleaned.replace("T", "7")
+            return f"{prefix}{cleaned}"
+
+        text = re.sub(
+            r"(?im)(^#*\s*(?:\*\*)?Pasal\s+)([0-9OlIT\|\s]+)(?=(?:\*\*)?(?:\s+\^[a-zA-Z0-9-]+)?(?:\s*\*\([^*]*\)\*)?\s*$)",
+            fix_pasal_num,
+            text
+        )
+        text = re.sub(
+            r"(?im)(^#*\s*(?:\*\*)?Pasal\s+)([0-9OlIT\|\s]+)(?=(?:\*\*)?(?:\s+\^[a-zA-Z0-9-]+)?(?:\s*\*\([^*]*\)\*)?\s*\n)",
+            fix_pasal_num,
+            text
+        )
         return text
 
     def clean_noise(self, text: str) -> str:
@@ -206,12 +240,21 @@ class IndonesianLegalParser:
 
     def parse_pasal(self):
         """Memotong Batang Tubuh per pasal (mendukung Pasal 1, 27A, 45B, dll)."""
-        # Tangkap pola pasal di awal baris (mendukung Pasal 27, 27A, 27B, 45B, dll)
-        pattern = re.compile(
-            r"(?im)^#{0,6}\s*(?:\*\*)?Pasal\s+([0-9]+[A-Za-z]*)(?:\*\*)?\b[^\n]*\n",
-            re.MULTILINE
-        )
-        matches = list(pattern.finditer(self.batang_tubuh_raw))
+        # Jika dokumen markdown sudah memiliki heading formal (### Pasal X), gunakan heading tersebut
+        has_md_headings = bool(re.search(r"(?im)^###\s+Pasal\s+[0-9]+", self.batang_tubuh_raw))
+        if has_md_headings:
+            pattern = re.compile(
+                r"(?im)^###\s+Pasal\s+([0-9]+[A-Za-z]*)(?:\s+\^[^\n]+)?\s*$",
+                re.MULTILINE
+            )
+            matches = list(pattern.finditer(self.batang_tubuh_raw))
+        else:
+            # Tangkap pola pasal di awal baris (mendukung Pasal 27, 27A, 27B, 45B, dll)
+            pattern = re.compile(
+                r"(?im)^#{0,6}\s*(?:\*\*)?Pasal\s+([0-9]+[A-Za-z]*)(?:\*\*)?\b[^\n]*\n",
+                re.MULTILINE
+            )
+            matches = list(pattern.finditer(self.batang_tubuh_raw))
 
         if not matches:
             # Coba pola UU Perubahan: "Ketentuan Pasal 5 diubah..."
@@ -257,11 +300,19 @@ class IndonesianLegalParser:
         if not self.penjelasan_pasal_raw:
             return
 
-        # Pola pencocokan pasal di bagian penjelasan (mendukung Pasal 27, 27A, 45B, dll)
-        pattern = re.compile(
-            r"(?im)^#{0,6}\s*(?:\*\*)?(?:Pasal|Angka\s+\d+\s*\n\s*(?:#{0,6}\s*)?Pasal)\s+([0-9]+[A-Za-z]*)(?:\*\*)?\b[^\n]*\n",
-            re.MULTILINE
-        )
+        # Jika dokumen markdown sudah memiliki heading terpartisi formal (#### Pasal X), gunakan heading tersebut
+        has_md_headings = bool(re.search(r"(?im)^####\s+Pasal\s+[0-9]+", self.penjelasan_pasal_raw))
+        if has_md_headings:
+            pattern = re.compile(
+                r"(?im)^####\s+Pasal\s+([0-9]+[A-Za-z]*)(?:\s+\^[^\n]+)?\s*$",
+                re.MULTILINE
+            )
+        else:
+            # Pola pencocokan pasal di bagian penjelasan umum/OCR (mendukung Pasal 27, 27A, 45B, P asal 17, dll)
+            pattern = re.compile(
+                r"(?im)^#{0,6}\s*(?:\*\*)?(?:Pasal|P\s+asal|Angka\s+\d+\s*\n\s*(?:#{0,6}\s*)?Pasal)\s+([0-9]+[A-Za-z]*)(?:\*\*)?\b[^\n]*\n",
+                re.MULTILINE
+            )
         matches = list(pattern.finditer(self.penjelasan_pasal_raw))
 
         for i, match in enumerate(matches):

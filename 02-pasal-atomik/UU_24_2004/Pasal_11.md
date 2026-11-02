@@ -19,9 +19,53 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sebagaimana dimaksud pada ayat (2) dapat diubah dengan
+(1) Nilai Simpanan yang dijamin untuk setiap nasabah pada
 
- Peraturan Pemerintah.
+ satu bank paling banyak Rp100.000.000,00 (seratus juta
+
+ rupiah).
+
+ (2) Nilai Simpanan yang dijamin dapat diubah apabila
+
+ dipenuhi salah satu atau lebih kriteria sebagai berikut:
+
+ a. terjadi penarikan dana perbankan dalam jumlah besar
+
+ secara bersamaan;
+
+ b. terjadi inflasi yang cukup besar dalam beberapa tahun;
+
+ atau
+
+ c. jumlah nasabah yang dijamin seluruh simpanannya
+
+ menjadi kurang dari 90% (sembilan puluh per seratus)
+
+ dari jumlah nasabah penyimpan seluruh bank.
+
+-----
+
+**(3) Perubahan besaran nilai Simpanan yang dijamin**
+
+ sebagaimana dimaksud pada ayat (2) dikonsultasikan
+
+ dengan Dewan Perwakilan Rakyat.
+
+ (4) Hasil konsultasi sebagaimana dimaksud pada ayat (3)
+
+ ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+
+ (5) Ketentuan lebih lanjut mengenai penentuan nilai Simpanan
+
+ yang dijamin untuk setiap nasabah penyimpan pada satu
+
+ bank sebagaimana dimaksud pada ayat (1), diatur dengan
+
+ Peraturan LPS.
+
+ Bagian Ketiga
+
+ Premi
 
 ## Penjelasan Resmi
 

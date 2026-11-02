@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Rencana Privatisasi sebagaimana dimaksud dalam Pasal 78A harus dituangkan dalam program tahunan Privatisasi yang disusun oleh kepala BP BUMN.
+Rencana Privatisasi sebagaimana dimaksud dalam
+
+Pasal 78A harus dituangkan dalam program tahunan Privatisasi yang disusun oleh kepala BP BUMN.
 
 75. Ketentuan Pasal 79 diubah sehingga berbunyi sebagai berikut:
 

@@ -35,6 +35,8 @@ kepada
 Perwakilan Republik Indonesia paling lambat 30 (tiga
 puluh) hari sejak kedatangannya.
 
+Pasal 19 . . .
+
 ## Penjelasan Resmi
 
 Ayat (1)

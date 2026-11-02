@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Presiden direktur atau direktur utama sebagaimana
-dimaksud dalam Pasal 48 ayat (3) wajib berasal dari pihak
+dimaksud dalam
+
+Pasal 48
+ayat (3) wajib berasal dari pihak
 yang independen terhadap PSP.
 
 ## Penjelasan Resmi

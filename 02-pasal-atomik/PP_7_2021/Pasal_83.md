@@ -21,7 +21,10 @@ mengamandemen: []
 
 **dan perangkat daerah sesuai dengan kewenangannya wajib memasukkan rencana belanja barang/jasa**
 
-sebagaimana dimaksud dalam Pasal 81 ayat [(2) ]dalam
+sebagaimana dimaksud dalam
+
+Pasal 81
+ayat [(2) ]dalam
 **Sistem Informasi Rencana Umum Pengadaan [paling] lambat di bulan November tahun berjalan untuk rencana belanja tahun mendatang.**
 **(2) Rencana belanja tahun mendatang sebagaimana**
 

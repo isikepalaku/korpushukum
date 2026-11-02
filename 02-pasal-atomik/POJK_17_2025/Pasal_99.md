@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Tingkat keberhasilan investasi sebagaimana dimaksud
-dalam Pasal 98 paling sedikit:
+dalam
+
+Pasal 98
+paling sedikit:
 a. keberhasilan pengembalian pokok dan bunga/imbal
 hasil/ujrah Efek bersifat utang atau Sukuk;
 b. histori gagal bayar;

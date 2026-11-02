@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 39-2024 tentang Pergadaian
 kode_uu: POJK_29_2025
 pasal: '189'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_29_2025
@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Perusahaan yang akan melakukan penerbitan efek
 bersifat utang tidak melalui penawaran umum
-sebagaimana dimaksud dalam Pasal 182 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 182
+ayat (1)
 huruf e wajib melaporkan rencana penerbitan efek
 paling lambat 2 (dua) bulan sebelum penerbitan.
 (2) Pelaporan rencana penerbitan efek bersifat utang
@@ -52,3 +55,5 @@ sehingga berbunyi sebagai berikut:
 Cukup jelas.
 
 -----
+
+Angka 33

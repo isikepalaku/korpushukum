@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Laporan sebagaimana dimaksud dalam Pasal 22 dan Pasal 25 disampaikan kepada Otoritas Jasa Keuangan dengan alamat:
+Laporan sebagaimana dimaksud dalam Pasal 22 dan
+
+Pasal 25
+disampaikan kepada Otoritas Jasa Keuangan dengan alamat:
 
 - a. Departemen Perbankan Syariah, bagi Bank yang berkantor pusat di wilayah Provinsi Daerah Khusus Ibukota Jakarta; atau
 

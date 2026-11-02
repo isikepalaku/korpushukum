@@ -20,8 +20,10 @@ mengamandemen: []
 
 (1) 
 Pencatatan pengakuan anak di wilayah Negara Kesatuan 
-Republik Indonesia sebagaimana dimaksud dalam Pasal 
-70 ayat (1) huruf a, dengan memenuhi persyaratan 
+Republik Indonesia sebagaimana dimaksud dalam
+
+Pasal 70
+ayat (1) huruf a, dengan memenuhi persyaratan 
 sesuai dengan ketentuan Peraturan Presiden mengenai 
 persyaratan dan tata cara Pendaftaran Penduduk dan 
 Pencatatan Sipil. 

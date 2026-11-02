@@ -19,8 +19,9 @@ mengamandemen: []
 
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pendaftaran Peristiwa Kependudukan sebagaimana dimaksud
-dalam Pasal 15, Pasal 16, Pasal 17, Pasal 18, Pasal 19, Pasal
-20, Pasal 21, dan Pasal 22 diatur dalam Peraturan Presiden.
+dalam Pasal 15,
+
+Pasal 16, Pasal 17, Pasal 18, Pasal 19, Pasal 20, Pasal 21, dan Pasal 22 diatur dalam Peraturan Presiden.
 Paragraf 4
 Penduduk Pelintas Batas
 

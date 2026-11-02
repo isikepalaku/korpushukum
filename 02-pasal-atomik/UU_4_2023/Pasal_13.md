@@ -41,7 +41,10 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Cukup jelas. Angka 9 Pasal 17 Cukup jelas. Angka 10 Pasal 17A Cukup jelas. Angka 11 Pasal 19 Ayat (1) Huruf a Cukup jelas. Huruf b Penempatan dana Akad mudharabah selama dalam bentuk Simpanan sesuai dengan fatwa Dewan Syariah Nasional Majelis Ulama Indonesia dijamin oleh Lembaga Penjamin Simpanan. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas.
+Cukup jelas. Angka 9
+
+Pasal 17
+Cukup jelas. Angka 10 Pasal 17A Cukup jelas. Angka 11 Pasal 19 Ayat (1) Huruf a Cukup jelas. Huruf b Penempatan dana Akad mudharabah selama dalam bentuk Simpanan sesuai dengan fatwa Dewan Syariah Nasional Majelis Ulama Indonesia dijamin oleh Lembaga Penjamin Simpanan. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas.
 ```
 
 Huruf i ...
@@ -68,7 +71,10 @@ Kegiatan usaha yang merupakan kewenangan Bank Indonesia meliputi aktivitas di bi
 
 Lembaga nonkeuangan yang mendukung industri Perbankan Syariah di antaranya perusahaan di bidang teknologi informasi, teknologi finansial, lembaga kliring, switching company, dan perusahaan yang melaksanakan bidang usaha yang mendukung Pembiayaan Perbankan Syariah.
 
-Ayat (3) Cukup jelas. Ayat (4) Angka 12 Pasal 20 Ayat (1) Huruf a Cukup jelas. Hurufb Cukup jelas. Huruf c Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i
+Ayat (3) Cukup jelas. Ayat (4) Angka 12
+
+Pasal 20
+Ayat (1) Huruf a Cukup jelas. Hurufb Cukup jelas. Huruf c Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i
 
 Cukup jelas.
 
@@ -117,7 +123,9 @@ Kerja sama dengan selain WK di antaranya mencakup kerja sama dengan perusahaan d
 Huruf g ...
 
 ```
-Huruf g Cukup jelas. Ayat (3) Cukup jelas. Angka 13 Pasal 20A Ayat (1) Bank digital merupakan Bank yang menyediakan dan menjalankan kegiatan usaha terutama melalui saluran elektronik tanpa kantor fisik selain kantor pusat, atau menggunakan kantor fisik yang terbatas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Angka 14 Pasal 21 Ayat (1) Huruf a Penempatan dana Akad mudharabah selama dalam bentuk Simpanan sesuai dengan fatwa Dewan Syariah Nasional Majelis Ulama Indonesia dijamin oleh Lembaga Penjamin Simpanan. Hurufb Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas.
+Huruf g Cukup jelas. Ayat (3) Cukup jelas. Angka 13
+
+Pasal 20A Ayat (1) Bank digital merupakan Bank yang menyediakan dan menjalankan kegiatan usaha terutama melalui saluran elektronik tanpa kantor fisik selain kantor pusat, atau menggunakan kantor fisik yang terbatas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Angka 14 Pasal 21 Ayat (1) Huruf a Penempatan dana Akad mudharabah selama dalam bentuk Simpanan sesuai dengan fatwa Dewan Syariah Nasional Majelis Ulama Indonesia dijamin oleh Lembaga Penjamin Simpanan. Hurufb Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas.
 ```
 
 Huruf f ...
@@ -130,7 +138,9 @@ Kerja sama dengan WK lain seperti kerja sama pemasaran produk asuransi, pemasara
 
 Kerja sama dengan selain WK seperti kerja sama dengan perusahaan di bidang teknologi informasi dalam mengembangkan layanan digital.
 
-Huruf f Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 21A Huruf a Hurufb Cukup jelas. Huruf c Cukup jelas. Pasal 218
+Huruf f Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
+
+Pasal 21A Huruf a Hurufb Cukup jelas. Huruf c Cukup jelas. Pasal 218
 
 Ayat (1)
 
@@ -155,3 +165,9 @@ Peraturan perundang-undangan di antaranya ketentuan mengenai penyelenggaraan sis
 Ayat (4)
 
 Cukup jelas.
+
+Pasal 21C
+
+Cukup jelas.
+
+Angka 16

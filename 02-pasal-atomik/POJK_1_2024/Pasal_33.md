@@ -20,6 +20,17 @@ mengamandemen: []
 Kualitas Kredit yang direstrukturisasi dengan pemberian
 tenggang waktu pembayaran sebagaimana dimaksud dalam
 
+Pasal 13
+ayat (1) ditetapkan:
+a. selama tenggang waktu pembayaran, kualitas Kredit
+mengikuti penetapan kualitas sebelum dilakukan
+Restrukturisasi Kredit; dan
+b. setelah tenggang waktu pembayaran berakhir, kualitas
+Kredit mengikuti penetapan kualitas sebagaimana
+dimaksud dalam
+
+Pasal 31.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

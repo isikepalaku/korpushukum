@@ -22,15 +22,19 @@ mengamandemen: []
 
  oleh Bank Indonesia, anggota Dewan Komisioner yang
 
- berasal dari LPP sebagaimana dimaksud dalam Pasal 65
+ berasal dari LPP sebagaimana dimaksud dalam
 
- ayat (1) huruf b dirangkap oleh anggota Dewan
+Pasal 65
+ayat (1) huruf b dirangkap oleh anggota Dewan
 
 -----
 
 **Komisioner dari Bank Indonesia sebagaimana dimaksud**
 
- dalam Pasal 65 ayat (1) huruf c.
+ dalam
+
+Pasal 65
+ayat (1) huruf c.
 
  (2) Selama anggota Dewan Komisioner dari LPP dirangkap
 

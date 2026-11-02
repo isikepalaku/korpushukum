@@ -20,9 +20,15 @@ mengamandemen: []
 Perusahaan Asuransi Syariah yang menyelenggarakan dan
 memasarkan Produk Asuransi Mikro dengan Prinsip Syariah
 wajib menerbitkan Polis Asuransi yang memuat ketentuan
-sebagaimana dimaksud dalam Pasal 12 huruf a, huruf b,
+sebagaimana dimaksud dalam
+
+Pasal 12
+huruf a, huruf b,
 huruf c, huruf d, huruf f, huruf g, huruf h, huruf l, huruf m,
-huruf n, huruf p, huruf q, huruf s, dan Pasal 13 huruf a,
+huruf n, huruf p, huruf q, huruf s, dan
+
+Pasal 13
+huruf a,
 huruf c, huruf d, huruf e, huruf f, huruf g, dan huruf h.
 
 -----

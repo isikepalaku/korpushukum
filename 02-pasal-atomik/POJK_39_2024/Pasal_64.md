@@ -24,6 +24,15 @@ melalui pengambilalihan wajib menyesuaikan
 ketentuan mengenai Modal Disetor sesuai dengan
 lingkup wilayah usaha sebagaimana dimaksud dalam
 
+Pasal 6
+ayat (2).
+(2) Perusahaan yang akan melakukan perubahan
+kepemilikan melalui pengambilalihan berasal dari hasil
+warisan, dikecualikan dari kewajiban penyesuaian
+Modal Disetor sebagaimana dimaksud pada ayat (1).
+
+-----
+
 ## Penjelasan Resmi
 
 Cukup jelas.

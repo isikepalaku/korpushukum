@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Dalam melaksanakan tugas menyelesaikan hal yang
 berkaitan dengan pegawai Penyelenggara sebagaimana
-dimaksud dalam Pasal 103 huruf b, Tim Likuidasi
+dimaksud dalam
+
+Pasal 103
+huruf b, Tim Likuidasi
 menghitung gaji terutang dan pesangon pegawai yang
 menjadi kewajiban Penyelenggara kepada pegawai yang
 telah dilakukan pemutusan hubungan kerja.

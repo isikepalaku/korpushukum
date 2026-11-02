@@ -19,12 +19,18 @@ mengamandemen: []
 
 (1) PUJK wajib menyampaikan ringkasan informasi produk
 dan/atau layanan versi umum sebagaimana dimaksud
-dalam Pasal 30 ayat (2) huruf a kepada calon Konsumen
+dalam
+
+Pasal 30
+ayat (2) huruf a kepada calon Konsumen
 sebelum calon Konsumen memutuskan menggunakan
 produk dan/atau layanan yang tersedia di PUJK.
 (2) PUJK wajib menyampaikan ringkasan informasi produk
 dan/atau layanan versi personal sebagaimana dimaksud
-dalam Pasal 30 ayat (2) huruf b kepada calon Konsumen
+dalam
+
+Pasal 30
+ayat (2) huruf b kepada calon Konsumen
 sebelum penandatanganan perjanjian.
 (3) Dalam hal produk dan/atau layanan yang bersifat
 kumpulan, bukan berdasarkan pilihan dan inisiatif

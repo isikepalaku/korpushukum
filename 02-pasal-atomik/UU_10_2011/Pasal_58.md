@@ -4,7 +4,7 @@ uu_induk: Perubahan atas UU 32-1997 tentang Perdagangan Berjangka Komoditi
 kode_uu: UU_10_2011
 pasal: '58'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_10_2011
@@ -36,3 +36,5 @@ berbunyi sebagai berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 30

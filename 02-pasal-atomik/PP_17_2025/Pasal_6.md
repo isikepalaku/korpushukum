@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai tata cara penilaian tingkat risiko dan penilaian mandiri terhadap Produk, Layanan, dan Fitur sebagaimana dimaksud dalam Pasal 5 diatur dalam Peraturan Menteri.
+Ketentuan lebih lanjut mengenai tata cara penilaian tingkat risiko dan penilaian mandiri terhadap Produk, Layanan, dan Fitur sebagaimana dimaksud dalam
+
+Pasal 5
+diatur dalam Peraturan Menteri.
 
 ## Penjelasan Resmi
 

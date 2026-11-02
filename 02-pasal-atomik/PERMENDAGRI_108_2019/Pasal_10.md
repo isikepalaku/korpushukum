@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penerbitan KK Baru untuk Penduduk WNI sebagaimana 
-dimaksud dalam Pasal 9 ayat (1) huruf a, dilaksanakan 
+dimaksud dalam
+
+Pasal 9
+ayat (1) huruf a, dilaksanakan 
 karena: 
 a. membentuk keluarga baru; 
 b. penggantian kepala keluarga; 

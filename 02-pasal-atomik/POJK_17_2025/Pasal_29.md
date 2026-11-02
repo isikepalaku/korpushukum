@@ -18,8 +18,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 19 ayat (2), Pasal 20 ayat (1),
-ayat (2), Pasal 26, Pasal 27 ayat (1), dan/atau Pasal 28
+dimaksud dalam Pasal 19 ayat (2),
+
+Pasal 20
+ayat (1),
+ayat (2),
+
+Pasal 26, Pasal 27 ayat (1), dan/atau Pasal 28
 ayat (2), dikenai sanksi administratif.
 (2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
 juga kepada Pihak yang menyebabkan terjadinya

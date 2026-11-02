@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Anggota Dewan Pengawas, anggota Dewan Pengawas Syariah, anggota Pengurus, dan pegawai Dana Pensiun yang dengan sengaja meminjamkan atau mengagunkan aset Dana Pensiun kepada pihak manapun sebagaimana dimaksud dalam Pasal 169 ayat (2) huruf a dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun dan pidana denda paling sedikit Rpl0.000.000.000,00 (sepuluh miliar rupiah) dan paling banyak Rpl00.000.000.000,00 (seratus miliar rupiah).
+Anggota Dewan Pengawas, anggota Dewan Pengawas Syariah, anggota Pengurus, dan pegawai Dana Pensiun yang dengan sengaja meminjamkan atau mengagunkan aset Dana Pensiun kepada pihak manapun sebagaimana dimaksud dalam
+
+Pasal 169
+ayat (2) huruf a dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun dan pidana denda paling sedikit Rpl0.000.000.000,00 (sepuluh miliar rupiah) dan paling banyak Rpl00.000.000.000,00 (seratus miliar rupiah).
 
 ## Penjelasan Resmi
 

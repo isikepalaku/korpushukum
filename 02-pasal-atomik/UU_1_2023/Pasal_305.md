@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '305'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -35,4 +35,4 @@ Tindak Pidana Tentang Senjata Api, Amunisi Bahan Peledak, dan Senjata Lain
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dalam ketentuan ini, merusak atau membakar bangunan tempat beribadah atau benda yang dipakai untuk beribadah merupakan perbuatan yang tercela, karena sangat menyakiti hati umat yang bersangkutan. Oleh karena itu, pelaku patut dipidana. Untuk dapat dipidana berdasarkan ketentuan dalam Pasal ini, perbuatan tersebut harus dilakukan dengan melawan hukum. Perusakan dan pembakaran harus dilakukan dengan melawan hukum.

@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 **Setiap Orang yarrg menggelapkan Premi atau Kontribusi**
-sebagaimana dimaksud dalam Pasal 28 ayat (5) dan Pasal 29
+sebagaimana dimaksud dalam Pasal 28 ayat (5) dan
+
+Pasal 29
 **ayat (4) dipidana dengan pidana penjara [paling ]lama 5 [(Iima)] tahun dan pidana denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah).**
 
 ## Penjelasan Resmi

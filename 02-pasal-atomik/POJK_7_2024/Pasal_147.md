@@ -17,22 +17,28 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BPR atau BPR Syariah dikenai sanksi administratif
-berupa:
-a. penurunan tingkat kesehatan;
-b. larangan melakukan ekspansi kegiatan usaha;
-dan/atau
-c. penghentian sementara sebagian kegiatan
-operasional.
-(3) Selain sanksi administratif sebagaimana dimaksud pada
-ayat (1) dan/atau ayat (2), BPR atau BPR Syariah dapat
-dikenai sanksi administratif berupa denda paling sedikit
-Rp10.000.000,00 (sepuluh juta rupiah) dan paling banyak
-Rp100.000.000,00 (seratus juta rupiah) untuk setiap
-pelanggaran yang dilakukan.
+(1) BPR atau BPR Syariah wajib melakukan perubahan
+nomenklatur “Bank Perkreditan Rakyat” menjadi “Bank
+Perekonomian Rakyat” atau nomenklatur “Bank
+Pembiayaan Rakyat Syariah” menjadi “Bank
+Perekonomian Rakyat Syariah” paling lama 2 (dua) tahun
+sejak Undang-Undang mengenai Pengembangan dan
+Penguatan Sektor Keuangan diundangkan.
+(2) Perubahan nomenklatur sebagaimana dimaksud pada
+ayat (2) dilakukan melalui mekanisme perubahan nama
+sebagaimana diatur dalam Peraturan OJK ini.
+(3) BPR dan BPR Syariah yang telah melakukan perubahan
+nomenklatur sebagaimana dimaksud pada ayat (1)
+sebelum berlakunya Peraturan OJK ini dan belum
+mendapatkan persetujuan penetapan penggunaan izin
+usaha BPR atau BPR Syariah dengan nama baru dari OJK,
+wajib menyampaikan permohonan persetujuan
+penggunaan izin usaha BPR atau BPR Syariah dengan
+nama baru kepada OJK sebagaimana dimaksud dalam
 
-BAB XII
-KETENTUAN PERALIHAN
+Pasal 89
+ayat (2) paling lama 3 (tiga) bulan sejak
+berlakunya Peraturan OJK ini.
 
 ## Penjelasan Resmi
 

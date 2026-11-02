@@ -85,7 +85,10 @@ dilaksanakan oleh Pemerintah Provinsi Daerah
 Khusus Ibukota Jakarta.
 
 5. Ketentuan ayat (1) huruf c dan ayat (5) Pasal 8
-diubah, sehingga Pasal 8 berbunyi sebagai berikut:
+diubah, sehingga
+
+Pasal 8
+berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -136,4 +139,5 @@ untuk
 menyelenggarakan 
 Administrasi 
 Kependudukan 
-seperti kabupaten/kota.
+seperti kabupaten/kota. 
+Angka 5

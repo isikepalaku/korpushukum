@@ -17,24 +17,43 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-2. dilaporkan kepada Otoritas Jasa Keuangan
-sebagaimana dimaksud dalam Pasal 42 ayat
-(2); dan
-c. pemasaran Produk Asuransi, berupa:
-1. melanjutkan pemasaran Produk Asuransi;
-2. mengubah Produk Asuransi; dan/atau
-3. menghentikan pemasaran Produk Asuransi.
-(2) Pemberian rekomendasi atas perubahan Produk
-Asuransi sebagaimana dimaksud pada ayat (1) huruf c
-dilakukan berdasarkan hasil evaluasi atas kinerja
-setiap Produk Asuransi yang dilakukan oleh Aktuaris
-Perusahaan dan/atau anggota komite pengembangan
-Produk Asuransi lain.
+(1) Perusahaan Asuransi atau Perusahaan Asuransi
+Syariah wajib terlebih dahulu mendapatkan
+persetujuan Otoritas Jasa Keuangan dalam
+penyelenggaraan Produk Asuransi sebagaimana
+dimaksud dalam
+
+Pasal 31
+ayat (4) huruf b, berupa
+Produk Asuransi baru dan Produk Asuransi dengan
+kriteria tertentu.
+(2) Produk Asuransi baru sebagaimana dimaksud pada
+ayat (1) merupakan Produk Asuransi yang:
+a. tidak pernah dipasarkan oleh Perusahaan
+Asuransi atau Perusahaan Asuransi Syariah yang
+bersangkutan; atau
+b. merupakan pengembangan atas Produk Asuransi
+yang telah dipasarkan dan mengakibatkan adanya
+perubahan material dari desain Produk Asuransi
+yang telah dipasarkan oleh Perusahaan Asuransi
+dan Perusahaan Asuransi Syariah, yang cakupan
+perubahannya meliputi:
+1. risiko yang ditanggung termasuk
+pengecualian atau pembatasan penyebab
+risiko yang ditanggung; dan/atau
+2. metode perhitungan nilai tunai.
 
 -----
 
-Bagian Keempat
-Pemantauan Kinerja Produk Asuransi
+(3) Produk Asuransi yang memenuhi kriteria tertentu
+sebagaimana dimaksud pada ayat (1) merupakan:
+
+a. Produk Asuransi yang memiliki unsur tabungan
+atau nilai tunai;
+b. Produk Asuransi kredit atau Produk Asuransi
+pembiayaan syariah; dan
+c. Produk Asuransi pada lini usaha _suretyship_ atau
+_suretyship syariah._
 
 ## Penjelasan Resmi
 

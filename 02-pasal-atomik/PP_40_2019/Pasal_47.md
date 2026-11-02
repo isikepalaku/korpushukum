@@ -17,18 +17,8 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Pemeliharaan, pengamanan, dan pengawasan basis
-data sebagaimana dimaksud dalam Pasal 41 ayat (3)
-huruf B, huruf h, dan huruf i dilakukan oleh
-Pemerintah, Pemerintah Daerah provinsi, dan
-Pemerintah Daerah kabupaten/ kota.
-(2) Pemeliharaan, pengamanan, dan pengawasan basis
-data sebagaimana dimaksud pada ayat (1) meliputi
-pemeliharaarL, pengamanan, dan pengawasan data
-dalam basis data, perangkat keras, perangkat lunak,
-jaringan komunikasi data, pusat data, data cadangan,
-dan pusat data cadangan.
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+

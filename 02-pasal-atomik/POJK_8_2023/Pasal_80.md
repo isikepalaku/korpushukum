@@ -18,10 +18,15 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perhitungan pengenaan sanksi denda oleh Otoritas Jasa
-Keuangan sebagaimana dimaksud dalam Pasal 7 ayat (1)
-huruf b, Pasal 16 ayat (1) huruf b, Pasal 64 ayat (1) huruf
-b, Pasal 66 ayat (1) huruf b, Pasal 68 ayat (1) huruf b, Pasal
-70 ayat (1) huruf b, dan/atau Pasal 73 ayat (1) huruf b,
+Keuangan sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (1)
+huruf b,
+
+Pasal 16
+ayat (1) huruf b, Pasal 64 ayat (1) huruf
+b, Pasal 66 ayat (1) huruf b, Pasal 68 ayat (1) huruf b, Pasal 70 ayat (1) huruf b, dan/atau Pasal 73 ayat (1) huruf b,
 ditangguhkan bagi PJK yang mengalami kerugian pada
 tahun sebelumnya.
 (2) Dalam hal PJK telah memperoleh laba, perhitungan sanksi

@@ -20,7 +20,10 @@ mengamandemen: []
 Penyelenggara wajib memastikan kelengkapan persyaratan
 dokumen dan/atau informasi mengenai pendaftaran Efek
 pada Lembaga Penyimpanan dan Penyelesaian sebagaimana
-dimaksud dalam Pasal 61 oleh Penerbit paling lambat 2 (dua)
+dimaksud dalam
+
+Pasal 61
+oleh Penerbit paling lambat 2 (dua)
 hari kerja setelah masa penawaran Efek berakhir.
 
 Bagian Ketujuh

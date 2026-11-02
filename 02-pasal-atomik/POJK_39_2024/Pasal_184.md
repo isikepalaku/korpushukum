@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Perusahaan yang menerima pinjaman subordinasi
-sebagaimana dimaksud dalam Pasal 182 ayat (1) huruf c
+sebagaimana dimaksud dalam
+
+Pasal 182
+ayat (1) huruf c
 wajib memastikan pinjaman subordinasi dimaksud
 memenuhi ketentuan sebagai berikut:
 a. paling singkat berjangka waktu 5 (lima) tahun;

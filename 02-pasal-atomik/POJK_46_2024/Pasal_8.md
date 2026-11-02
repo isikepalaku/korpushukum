@@ -37,3 +37,5 @@ penjumlahan dari simpanan pokok, simpanan wajib, dan
 hibah sebagaimana dimaksud dalam peraturan
 perundang-undangan mengenai perkoperasian bagi
 Perusahaan yang berbentuk badan hukum koperasi
+
+Angka 9

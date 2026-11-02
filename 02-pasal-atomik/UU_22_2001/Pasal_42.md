@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengawasan sebagaimana dimaksud dalam Pasal 41 ayat (1) meliputi:
+Pengawasan sebagaimana dimaksud dalam
+
+Pasal 41
+ayat (1) meliputi:
 
 - a. konservasi sumber daya dan cadangan Minyak dan Gas Bumi;
 - b. pengelolaan data Minyak dan Gas Bumi;

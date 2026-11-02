@@ -113,3 +113,5 @@ menyebabkan pasar tidak likuid.
 Ayat (6)
 
 Cukup jelas.
+
+Angka 27

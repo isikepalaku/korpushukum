@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '265'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,4 +25,10 @@ Dipidana dengan pidana denda paling banyak kategori II, Setiap Orang yang mengga
 
 ## Penjelasan Resmi
 
+Hurufa
+
 Cukup jelas.
+
+Hurufb
+
+Yang dimaksud dengan "tanda-tanda bahaya palsu" misalnya, orang berteriak ada kebakaran padahal tidak terjadi kebakaran atau memukul kentongan tanda ada pembunuhan atau pencurian padahal tidak terjadi pembunuhan atau pencr.rian.

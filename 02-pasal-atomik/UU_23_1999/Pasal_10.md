@@ -20,7 +20,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam rangka menetapkan dan melaksanakan kebijakan moneter
- sebagaimana dimaksud dalam Pasal 8 huruf a Bank Indonesia berwenang:
+ sebagaimana dimaksud dalam
+
+Pasal 8
+huruf a Bank Indonesia berwenang:
 
  a. menetapkan sasaran-sasaran moneter dengan memperhatikan
  sasaran laju inflasi yang ditetapkannya;

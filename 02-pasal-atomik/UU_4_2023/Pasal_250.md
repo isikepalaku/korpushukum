@@ -24,6 +24,10 @@ mengamandemen: []
 - a. terhadap piutang macet telah dilakukan upaya restrukturisasi; dan
 - b. Bank dan/atau lembaga keuangan non-Bank badan usaha milik negara telah melakukan upaya penagihan secara optimal, termasuk upaya restrukturisasi sebagaimana dimaksud dalam huruf a, tetapi tetap tidak tertagih.
 
+Pasal 251 ...
+
+**PRESIDEN REPUBUK INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

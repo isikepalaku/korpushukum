@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Untuk melakukan kegiatan usaha berdasarkan prinsip syariah
 
-sebagaimana dimaksud dalam Pasal 12 ayat (2), LKM wajib
+sebagaimana dimaksud dalam
+
+Pasal 12
+ayat (2), LKM wajib
 membentuk dewan pengawas syariah.
 
 (2) Dewan pengawas syariah sebagaimana dimaksud pada ayat (1)

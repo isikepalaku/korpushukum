@@ -21,7 +21,10 @@ mengamandemen: []
 
 permohonan persetujuan persiapan pencabutan izin
 
-usaha sebagaimana dimaksud dalam Pasal 126 ayat
+usaha sebagaimana dimaksud dalam
+
+Pasal 126
+ayat
 
 (1) huruf a kepada OJK, disertai dengan:
 

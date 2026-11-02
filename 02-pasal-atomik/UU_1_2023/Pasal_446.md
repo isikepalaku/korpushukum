@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '446'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,4 +25,11 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+Dalam ketentuan ini, merampa.s kemerdekaan dilakukan baik dalam bentuk fisik maupun psikis.
+
+**ttrrErf:illilTll{Ilr*]nl**
+
+Yang dimaksud dengan "secara melawan hukum" adalah perbuatan merampas kebebasan seseorang bukan dalam rangka menjalankan tugas dan kewqiiban sesuai dengan ketentuan peraturan perundangundangan. Misalnya, seorang polisi yang menangkap dan menahan seseorang dalam hal kedapatan tertangkap tangan melakukan Tindak Pidana.
+
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.

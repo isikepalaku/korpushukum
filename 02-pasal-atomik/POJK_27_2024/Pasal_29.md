@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Sistem penjaminan penyelesaian transaksi milik
 Lembaga Kliring Penjaminan dan Penyelesaian
-sebagaimana dimaksud dalam Pasal 28 ayat (4) huruf a
+sebagaimana dimaksud dalam
+
+Pasal 28
+ayat (4) huruf a
 harus memiliki fungsi pengawasan, penyelesaian
 transaksi, penjaminan penyelesaian transaksi, dan
 memastikan validasi yang baik atas pencatatan saldo
@@ -149,7 +152,10 @@ Huruf c
 Cukup jelas.
 Huruf d
 
-Lihat penjelasan Pasal 21 ayat (1) huruf d.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf d.
 Huruf e
 
 Cukup jelas.
@@ -158,13 +164,22 @@ Huruf f
 Cukup jelas
 Huruf g
 
-Lihat penjelasan Pasal 21 ayat (1) huruf g.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf g.
 Huruf h
 
-Lihat penjelasan Pasal 21 ayat (1) huruf d.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf d.
 Huruf i
 
-Lihat penjelasan Pasal 21 ayat (1) huruf i.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf i.
 Ayat (3)
 
 Cukup jelas.

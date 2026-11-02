@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Bank BHI yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 23 ayat (2), Pasal 24 ayat (2),
+dimaksud dalam Pasal 23 ayat (2),
+
+Pasal 24
+ayat (2),
 
 ## Penjelasan Resmi
 

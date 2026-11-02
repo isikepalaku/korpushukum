@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Jemaah Umrah sebagaimana dimaksud dalam Pasal 86 ayat (1) hurufb berhak:
+Jemaah Umrah sebagaimana dimaksud dalam
+
+Pasal 86
+ayat (1) hurufb berhak:
 
 - b. melaporkan kekurangan dalam pelayanan penyelenggaraan Ibadah Umrah kepada Menteri.
 - a. memperoleh layanan yang sesuai dengan perjanjian tertulis yang disepakati antara penyedia layanan dengan Jemaah Umrah; dan

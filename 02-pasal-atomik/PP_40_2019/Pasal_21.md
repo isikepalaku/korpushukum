@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 18 ayat (2) huruf d, bupati lwali
+dimaksud dalam
+
+Pasal 18
+ayat (2) huruf d, bupati lwali
 kota melaksanakan:
 a. koordinasi antarlembaga Pemerintah dan lembaga
 non-Pemerintah;

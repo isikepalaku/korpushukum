@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai penanggulangan penyakit menular sebagaimana dimaksud dalam Pasal 89 sampai dengan Pasal 91 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai penanggulangan penyakit menular sebagaimana dimaksud dalam Pasal 89 sampai dengan
+
+Pasal 91
+diatur dengan Peraturan Pemerintah.
 
 ## l:klrFIIitiN K INDONESIA
 

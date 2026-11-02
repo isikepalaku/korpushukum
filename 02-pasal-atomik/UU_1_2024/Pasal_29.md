@@ -26,4 +26,6 @@ Setiap Orang dengan sengaja dan tanpa hak Informasi Elektronik dan/atau Dokumen 
 
 Yang dimaksud dengan "korban" adalah orang yang mengalami penderitaan fisik, mental, dan/ atau kerugian ekonomi yang diakibatkan oleh tindak pidana. 
 
-Termasuk dala perbuatan yang dimaksud dalam ketentuan ini adalah perundungan di ruang digital (cyber bullging).
+Termasuk dala perbuatan yang dimaksud dalam ketentuan ini adalah perundungan di ruang digital (cyber bullging). 
+
+Angka 12

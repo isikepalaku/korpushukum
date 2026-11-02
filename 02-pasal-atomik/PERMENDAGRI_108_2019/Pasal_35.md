@@ -20,7 +20,10 @@ mengamandemen: []
 
 Pendaftaran perpindahan WNI yang tinggal di luar wilayah 
 Negara Kesatuan Republik Indonesia yang melakukan pindah 
-ke negara lainnya sebagaimana dimaksud dalam Pasal 34 ayat 
+ke negara lainnya sebagaimana dimaksud dalam
+
+Pasal 34
+ayat 
 (2), dilaksanakan dengan tata cara: 
 a. Penduduk mengisi dan menandatangani formulir serta 
 menyerahkan persyaratan sesuai dengan ketentuan 

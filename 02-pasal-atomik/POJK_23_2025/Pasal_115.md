@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 27-2024 (Aset Keuangan Digital Termasuk Aset Kript
 kode_uu: POJK_23_2025
 pasal: '115'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_23_2025
@@ -19,7 +19,10 @@ mengamandemen:
 ## Batang Tubuh
 
 (1) Pengawasan secara langsung sebagaimana
-dimaksud dalam Pasal 114 ayat (2) huruf a
+dimaksud dalam
+
+Pasal 114
+ayat (2) huruf a
 dilakukan melalui pemeriksaan secara:
 a. berkala; dan
 b. sewaktu-waktu.
@@ -33,7 +36,10 @@ perundang-undangan.
 sebagaimana dimaksud pada ayat (1),
 Penyelenggara Perdagangan Aset Keuangan Digital
 dan aktivitas pendukung sebagaimana dimaksud
-dalam Pasal 114 ayat (1) wajib memberikan:
+dalam
+
+Pasal 114
+ayat (1) wajib memberikan:
 a. keterangan dan data;
 b. pembukuan;
 c. dokumen;
@@ -48,3 +54,5 @@ berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 77

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 21 ayat (2) dan/atau ayat (3)
+dimaksud dalam
+
+Pasal 21
+ayat (2) dan/atau ayat (3)
 dikenakan sanksi administratif berupa:
 a. peringatan tertulis;
 b. penghentian sementara, sebagian, atau seluruh

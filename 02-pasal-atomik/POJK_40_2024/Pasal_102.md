@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Sejak terbentuknya Tim Likuidasi sebagaimana
-dimaksud dalam Pasal 98 dan Pasal 100:
+dimaksud dalam Pasal 98 dan
+
+Pasal 100:
 a. tanggung jawab dan kepengurusan Penyelenggara
 dalam Likuidasi dilaksanakan oleh Tim Likuidasi;
 b. Direksi, Dewan Komisaris, dan DPS:

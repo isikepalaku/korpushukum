@@ -24,6 +24,25 @@ ketentuan mengenai:
 -----
 
 a. penyertaan langsung sebagaimana dimaksud dalam
+Pasal 155
+ayat (1);
+b. jumlah seluruh penyertaan langsung sebagaimana
+dimaksud dalam
+
+Pasal 155
+ayat (2);
+c. jumlah seluruh penyertaan langsung kepada entitas
+dalam 1 (satu) grup sebagaimana dimaksud dalam
+
+Pasal 155
+ayat (3); dan
+d. pemenuhan jumlah penyertaan langsung
+sebagaimana dimaksud dalam
+
+Pasal 155
+ayat (4),
+mulai berlaku paling lama 1 (satu) tahun sejak Peraturan
+Otoritas Jasa Keuangan ini diundangkan
 
 ## Penjelasan Resmi
 

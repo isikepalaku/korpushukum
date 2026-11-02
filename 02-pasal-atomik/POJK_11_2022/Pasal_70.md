@@ -21,11 +21,31 @@ Bank melaksanakan ketentuan terkait:
 
 a. penilaian sendiri atas tingkat maturitas keamanan
 
-siber sebagaimana dimaksud dalam Pasal 22;
+siber sebagaimana dimaksud dalam
+
+Pasal 22;
 
 b. pengujian keamanan siber berdasarkan analisis
 
 kerentanan sebagaimana dimaksud dalam
+
+Pasal 24;
+
+c. pengujian keamanan siber berdasarkan skenario
+
+sebagaimana dimaksud dalam
+
+Pasal 25; dan
+
+d. penilaian sendiri atas tingkat maturitas digital Bank
+
+sebagaimana dimaksud dalam
+
+Pasal 66,
+
+untuk pertama kali setelah ditetapkan oleh Otoritas Jasa
+
+Keuangan.
 
 ## Penjelasan Resmi
 

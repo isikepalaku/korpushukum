@@ -28,7 +28,7 @@ mengamandemen: []
 **surat dakwaan kepada Penyidik, Terdakwa,**
 dan Advokat.
 
-Pasal TT
+Pasal 77
 **Semua biaya yang dikeluarkan untuk kepentingan Penuntutan dibebankan kepada negara.**
 
  Bagian Ketiga
@@ -37,8 +37,6 @@ Pengakuan Bersalah
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal TT
+**Cukup [jelas.]**Pasal TT
 
 **Cukup [jelas.]**

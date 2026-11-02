@@ -18,7 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+Setiap Orang yang melakukan perbuatan secara curang untuk membuat keliru orang banyak atau orang tertentu dengan maksud untuk mendirikan atau memperbesar hasil perdagangannya atau perusahaan sendiri atau kepunyaan orang lain, sehingga dapat menimbulkan kerugian bagi saingannya atau saingan orang lain tersebut, dipidana karena persaingan curang, dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori III.
 
 ## Penjelasan Resmi
 

@@ -18,19 +18,27 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) BPR yang melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 45, Pasal 46 ayat (1), dan/atau ayat (3),
+dalam Pasal 45,
+
+Pasal 46
+ayat (1), dan/atau ayat (3),
 dikenai sanksi administratif berupa teguran tertulis.
 (2) Dalam hal BPR telah dikenai sanksi administratif
 sebagaimana dimaksud pada ayat (1) dan tetap melanggar
-ketentuan sebagaimana dimaksud dalam Pasal 45, Pasal
-46 ayat (1), dan/atau ayat (3), BPR dikenai sanksi
+ketentuan sebagaimana dimaksud dalam Pasal 45,
+
+Pasal 46
+ayat (1), dan/atau ayat (3), BPR dikenai sanksi
 administratif berupa:
 a. penurunan tingkat kesehatan BPR; dan/atau
 b. penghentian sementara sebagian kegiatan usaha.
 (3) Dalam hal BPR telah dikenai sanksi administratif
 sebagaimana dimaksud pada ayat (1) dan/atau ayat (2)
 dan tetap melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 45, Pasal 46 ayat (1), dan/atau ayat (3), pihak
+dalam Pasal 45,
+
+Pasal 46
+ayat (1), dan/atau ayat (3), pihak
 utama BPR dapat dikenai sanksi administratif berupa
 
 -----

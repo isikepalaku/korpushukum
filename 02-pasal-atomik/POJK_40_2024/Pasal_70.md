@@ -26,7 +26,10 @@ secara lengkap.
 sebagaimana dimaksud pada ayat (2), Otoritas Jasa
 Keuangan melakukan:
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 69 ayat (5);
+sebagaimana dimaksud dalam
+
+Pasal 69
+ayat (5);
 b. analisis kelayakan atas rencana pelaksanaan
 Penggabungan atau Peleburan;
 c. penilaian kemampuan dan kepatutan terhadap

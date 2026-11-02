@@ -18,8 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-pencatatan perkawinan sebagaimana dimaksud dalam Pasal
-34, Pasal 35, Pasal 36, dan Pasal 37 diatur dalam Peraturan
+pencatatan perkawinan sebagaimana dimaksud dalam Pasal 34,
+
+Pasal 35, Pasal 36, dan Pasal 37 diatur dalam Peraturan
 Presiden.
 Bagian Keempat
 Pencatatan Pembatalan Perkawinan

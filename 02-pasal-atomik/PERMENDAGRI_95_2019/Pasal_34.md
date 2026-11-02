@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Supervisor pelayanan call center sebagaimana dimaksud 
-dalam Pasal 30 huruf f, melekat pada pejabat pengawas 
+dalam
+
+Pasal 30
+huruf f, melekat pada pejabat pengawas 
 yang membidangi sumber daya manusia teknologi 
 informasi dan komunikasi. 
 (2) 

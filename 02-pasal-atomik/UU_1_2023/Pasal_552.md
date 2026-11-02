@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '552'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,4 @@ Penyerangan, Pemberontakan, dan Pembangkangan di Ikpal
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini dimaksudkan mencegah pembuatan laporan palsu untuk menguntungkan diri sendiri atau orang lain, misalrrya seorang Nakhoda Kapal dengan sensaja menenggelamkan Kapalnya, tetapi dalam laporannya dikatakan bahwa Kapalnya telah mendapat kecelakaan dan tenggelam, karena itu mereka mendapat kesempatan untuk menerima pembayaran uang asuransi bagi Kapal dan/atau muatannya.

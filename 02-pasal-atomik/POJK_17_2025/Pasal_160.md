@@ -19,7 +19,10 @@ mengamandemen: []
 
 Pemenuhan ketentuan penggunaan rekening urun dana
 Pemodal oleh Lembaga Penyimpanan dan Penyelesaian
-sebagaimana dimaksud dalam Pasal 86 dilakukan paling
+sebagaimana dimaksud dalam
+
+Pasal 86
+dilakukan paling
 lama 12 (dua belas) bulan sejak Peraturan Otoritas Jasa
 Keuangan ini diundangkan.
 

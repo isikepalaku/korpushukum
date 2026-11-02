@@ -32,6 +32,8 @@ permohonan dari orang yang menjadi subjek akta.
 pada ayat (1) dilakukan oleh Pejabat Pencatatan Sipil
 sesuai dengan kewenangannya.
 
+Pasal 72 . . .
+
 ## Penjelasan Resmi
 
 Ayat (1)

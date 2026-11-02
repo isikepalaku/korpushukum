@@ -18,8 +18,24 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Bank yang akan bertransformasi menjadi Bank Digital
-sebagaimana dimaksud dalam Pasal 24 huruf b harus
+sebagaimana dimaksud dalam
+
+Pasal 24
+huruf b harus
 memenuhi persyaratan sebagaimana dimaksud dalam
+
+Pasal 23.
+(2) Upaya pemenuhan persyaratan sebagaimana dimaksud
+pada ayat (1) dituangkan dalam Rencana Bisnis Bank.
+(3) Dalam hal Bank telah memenuhi persyaratan
+sebagaimana dimaksud pada ayat (2), Bank dapat:
+a. mempertahankan jaringan kantor dan/atau TPE
+yang telah ada;
+b. melakukan penutupan jaringan kantor yang
+dimiliki selain KP dan/atau TPE secara sekaligus
+atau bertahap; dan/atau
+c. melakukan penambahan jaringan kantor
+dan/atau TPE.
 
 ## Penjelasan Resmi
 

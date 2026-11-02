@@ -59,3 +59,5 @@ Huruf d
 Cukup jelas.
 
 -----
+
+Angka 64

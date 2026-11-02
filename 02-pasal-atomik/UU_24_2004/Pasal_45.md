@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Keputusan pembubaran badan hukum bank sebagaimana
 
- dimaksud dalam Pasal 43 huruf d wajib:
+ dimaksud dalam
+
+Pasal 43
+huruf d wajib:
 
  a. didaftarkan dalam daftar perusahaan dan di panitera
 

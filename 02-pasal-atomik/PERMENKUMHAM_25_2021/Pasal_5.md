@@ -20,7 +20,10 @@ mengamandemen: []
 
 Dalam mengajukan permohonan Hak Akses bagi industri
 
-perbankan sebagaimana dimaksud dalam Pasal 3 ayat (3)
+perbankan sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (3)
 
 huruf a, Pemohon mengisi formulir permohonan Hak Akses
 

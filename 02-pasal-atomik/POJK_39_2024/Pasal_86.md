@@ -17,7 +17,18 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+(1) Perusahaan hasil Peleburan wajib melaporkan
+pelaksanaan Peleburan kepada Otoritas Jasa Keuangan
+paling lambat 15 (lima belas) hari kerja terhitung sejak
+tanggal anggaran dasar disahkan kepada instansi yang
+berwenang.
+(2) Pelaporan pelaksanaan Peleburan sebagaimana
+dimaksud pada ayat (1) harus disampaikan oleh Direksi
+kepada Otoritas Jasa Keuangan dengan melampirkan
+dokumen persyaratan pelaporan pelaksanaan
+Peleburan tercantum dalam Lampiran pada tabel 30
+yang merupakan bagian tidak terpisahkan dari
+Peraturan Otoritas Jasa Keuangan ini.
 
 ## Penjelasan Resmi
 

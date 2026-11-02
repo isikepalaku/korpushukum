@@ -26,6 +26,12 @@ mengamandemen: []
 - (5) Otoritas sektor keuangan dapat mewajibkan PUSK untuk menjadi anggota badan atau lembaga penyelesaian sengketa.
 - (6) Ketentuan lebih lanjut mengenai tata cara penanganan pengaduan dan penyelesaian sengketa sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam peraturan otoritas sektor keuangan sesuai dengan kewenangan masing-masing.
 
+Pasal 246 ...
+
+**PRESIOEN REPUBUK INDONESIA**
+
+**-444 -**
+
 ## Penjelasan Resmi
 
 Ayat (1)
@@ -44,4 +50,7 @@ Cukup jelas.
 
 Ayat (4)
 
-Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Pasal 246 Cukup jelas.
+Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas.
+
+Pasal 246
+Cukup jelas.

@@ -20,6 +20,10 @@ mengamandemen: []
 
 Dalam rangka pembinaan dan pengawasan sebagaimana dimaksud dalam
 
+Pasal 28
+ayat (1), Otoritas Jasa Keuangan melakukan pemeriksaan
+terhadap LKM.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

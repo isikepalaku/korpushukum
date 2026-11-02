@@ -29,4 +29,5 @@ Pekerjaan atau jabatan yang menentukan adanya kewajiban untuk
 
 Ayat (21
 
-**Cukup [jelas.]**
+**Cukup [jelas.]**Pasal 22L
+ Anak yang belum berumur 14 (empat belas) tahun atau penyandang disabilitas mental dan/atau disabilitas intelektual tidak dapat dimintai pertanggungiawaban secara sempurna dalam hukum pidana. Untuk itu, yang bersangkutan tidak dapat diambil sumpah atau janji dalam memberikan keterangan dan keterangannya hanya dipakai sebagai petunjuk saja.

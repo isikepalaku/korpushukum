@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang melakukan bedah plastik rekonstruksi dan estetika yang bertentangan dengan nonna yang berlaku dalam masyarakat dan ditqjukan untuk mengubah idendtas seseorang sebagaimana dimaksud dalam Pasal 137 ayat (2) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun atau pidana denda paling banyak Rp2.000.000.0O0,00 (dua miliar rupiah).
+Setiap Orang yang melakukan bedah plastik rekonstruksi dan estetika yang bertentangan dengan nonna yang berlaku dalam masyarakat dan ditqjukan untuk mengubah idendtas seseorang sebagaimana dimaksud dalam
+
+Pasal 137
+ayat (2) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun atau pidana denda paling banyak Rp2.000.000.0O0,00 (dua miliar rupiah).
 
 ## t Fr{'rrl.IIITIIT.I'ITI sETN
 

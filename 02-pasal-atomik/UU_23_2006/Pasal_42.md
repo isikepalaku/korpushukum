@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-pencatatan perceraian sebagaimana dimaksud dalam Pasal 40
+pencatatan perceraian sebagaimana dimaksud dalam
+
+Pasal 40
 dan Pasal 41 diatur dalam Peraturan Presiden.
 Bagian Keenam
 Pencatatan Pembatalan Perceraian

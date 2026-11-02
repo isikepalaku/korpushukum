@@ -22,8 +22,7 @@ Dikecualikan dari ketentuan pidana sebagaimana dimaksud dalam Bab XVII dan gugat
 - a. impor suatu produk farmasi yang dilindungi Paten di Indonesia dan telah dipasarkan di suatu negara secara sah dengan syarat produk farmasi itu diimpor sesuai dengan ketentuan peraturan perundang-undangan; dan
 2. produksi produk farmasi yang dilindungi Paten di Indonesia sebelum berakhirnya pelindungan Paten dengan tujuan untuk proses perizinan dan riset kemudian melakukan pemasaran setelah pelindungan Paten dimaksud berakhir. b
 
-## Pasal II
-
+## Pasal 11
 - 1 Pada saat Undang-Undang ini mulai berlaku:
 - Permohonan Paten yang sudah diajukan dan telah diproses tetapi belum selesai, tetap diselesaikan berdasarkan ketentuan peraturan perundang-undangan di bidang Paten sebelum berlakunya Undang-Undang ini; a
 - Masa pelindungan permohonan Paten sederhana yang diajukan berdasarkan Undang-Undang Nomor 14 Tahun 2001 tentang Paten dan Undang-Undang Nomor 13 Tahun 2OL6 tentang Paten sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2O22 tentang Cipta Kerja menjadi Undang-Undang, dihitung sejak Tanggal Penerimaan; b
@@ -81,7 +80,11 @@ Selain beberapa aspek di atas, beberapa aspek lain yang memerlukan perubahan pen
 ## II. PASAL DEMI PASAL
 
 ```
-Pasal I Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 4 Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Angka 1 Cukup jelas,
+Pasal 1
+Angka 1
+
+Pasal 1
+Cukup jelas. Angka 2 Pasal 4 Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Angka 1 Cukup jelas,
 ```
 
 Angka2...
@@ -128,7 +131,10 @@ Yang dimaksud dengan "teori dan metode di bidang ilmu pengetahuan dan matematika
 ## PRESIDEN REPUBLIK INDONESIA
 
 ```
-Angka 3 Pasal 6 Ayat (1) Huruf a Yang dimaksud dengan "pameran resmi" aOatah pameran yang diselenggarakan oleh pemerintah. Yang dimaksud dengan "pameran yang diakui sebagai pameran resmi" adalah pameran yang diselenggarakan oleh masyarakat tetapi diakui atau memperoleh persetuj uan Pemerintah. Huruf b Cukup jelas. Huruf c Cukup jelas. Ayat (21 CukuP jelas. Angka 4 Pasal 9 Huruf a CukuP jelas. Huruf b Yang dimaksud dengan "metode pemeriks_aan" *.rrp"kan metode diagnosa in uiuo, misalnya, pemberian obat melalui injeksi. Yang dimaksud dengan "metode perawatarr" mrrup"kan rnetode perawatan untuk med.is, kecuali metode perawatan yang berhubungan
+Angka 3
+
+Pasal 6
+Ayat (1) Huruf a Yang dimaksud dengan "pameran resmi" aOatah pameran yang diselenggarakan oleh pemerintah. Yang dimaksud dengan "pameran yang diakui sebagai pameran resmi" adalah pameran yang diselenggarakan oleh masyarakat tetapi diakui atau memperoleh persetuj uan Pemerintah. Huruf b Cukup jelas. Huruf c Cukup jelas. Ayat (21 CukuP jelas. Angka 4 Pasal 9 Huruf a CukuP jelas. Huruf b Yang dimaksud dengan "metode pemeriks_aan" *.rrp"kan metode diagnosa in uiuo, misalnya, pemberian obat melalui injeksi. Yang dimaksud dengan "metode perawatarr" mrrup"kan rnetode perawatan untuk med.is, kecuali metode perawatan yang berhubungan
 ```
 
 Dalam . . .

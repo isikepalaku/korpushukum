@@ -19,8 +19,9 @@ mengamandemen: []
 
 (1) Bank BHI yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 20 ayat (2) dan/atau Pasal 21
+dimaksud dalam Pasal 20 ayat (2) dan/atau
 
+Pasal 21
 dikenai sanksi administratif berupa teguran tertulis.
 
 (2) Bank BHI yang terlambat memenuhi kewajiban

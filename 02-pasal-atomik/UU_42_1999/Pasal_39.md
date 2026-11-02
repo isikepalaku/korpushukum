@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Kantor Pendaftaran Fidusia sebagaimana dimaksud dalam Pasal 12 ayat (2) dibentuk dalam jangka waktu paling lambat 1 (satu) tahun setelah Undang-undang ini diundangkan.
+Kantor Pendaftaran Fidusia sebagaimana dimaksud dalam
+
+Pasal 12
+ayat (2) dibentuk dalam jangka waktu paling lambat 1 (satu) tahun setelah Undang-undang ini diundangkan.
 
 ## Penjelasan Resmi
 

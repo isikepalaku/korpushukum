@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bank Digital sebagaimana dimaksud dalam Pasal 22 dapat:
+Bank Digital sebagaimana dimaksud dalam
+
+Pasal 22
+dapat:
 a. menggunakan tenaga kerja asing untuk jabatan Direksi,
 Pejabat Eksekutif, dan/atau tenaga ahli atau konsultan,
 dengan mengecualikan batasan kepemilikan Bank oleh

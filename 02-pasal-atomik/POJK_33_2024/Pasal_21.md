@@ -34,4 +34,7 @@ Reksa Dana Target Waktu
 
 ## Penjelasan Resmi
 
-Lihat penjelasan Pasal 4 ayat (5) huruf b angka 2.
+Lihat penjelasan
+
+Pasal 4
+ayat (5) huruf b angka 2.

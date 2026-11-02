@@ -20,12 +20,18 @@ mengamandemen: []
 
 (1) Anggota Dewan Komisioner sebagaimana dimaksud
 
-dalam Pasal 10 ayat (4) huruf h diangkat dan ditetapkan
+dalam
+
+Pasal 10
+ayat (4) huruf h diangkat dan ditetapkan
 Presiden berdasarkan usulan Gubernur Bank Indonesia.
 
 (2) Anggota Dewan Komisioner sebagaimana dimaksud
 
-dalam Pasal 10 ayat (4) huruf i diangkat dan ditetapkan
+dalam
+
+Pasal 10
+ayat (4) huruf i diangkat dan ditetapkan
 Presiden berdasarkan usulan Menteri Keuangan.
 
 ## Penjelasan Resmi

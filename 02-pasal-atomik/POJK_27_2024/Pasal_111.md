@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Laporan lain sebagaimana dimaksud dalam Pasal 107 ayat
+Laporan lain sebagaimana dimaksud dalam
+
+Pasal 107
+ayat
 (2) wajib disampaikan kepada Otoritas Jasa Keuangan
 sesuai dengan jangka waktu yang ditetapkan dalam surat
 permintaan.

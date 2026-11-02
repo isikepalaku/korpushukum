@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan menetapkan PPDP dengan
 status pengawasan intensif sebagaimana dimaksud
-dalam Pasal 3 ayat (2) huruf b, jika memenuhi kriteria:
+dalam
+
+Pasal 3
+ayat (2) huruf b, jika memenuhi kriteria:
 a. Tingkat Kesehatan PPDP ditetapkan pada
 Peringkat Komposit 4 (empat);
 b. Tingkat Kesehatan PPDP ditetapkan pada

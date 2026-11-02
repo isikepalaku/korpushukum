@@ -18,7 +18,15 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Penangkapan dilakukan paling lama 1x24 (satu kali dua puluh empat) jam, kecuali ditentukan lain oleh Undang-Undang.**
+**Penangkapan dilakukan paling lama 1x24 (satu kali dua puluh empat) jam, kecuali ditentukan lain oleh Undang-Undang.**Pasal 97. . .
+
+-----
+
+**.litiElEtrN**
+
+REPUBLIK INDONESIA
+
+**-51 -**
 
 ## Penjelasan Resmi
 

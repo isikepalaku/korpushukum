@@ -28,7 +28,10 @@ b. melakukan kegiatan jual beli saham secara langsung di
 pasar modal;
 
 c. melakukan penyertaan modal, kecuali sebagaimana
-dimaksud dalam Pasal 20 ayat (1) huruf b dan huruf c;
+dimaksud dalam
+
+Pasal 20
+ayat (1) huruf b dan huruf c;
 dan
 
 d. melakukan kegiatan usaha perasuransian, kecuali
@@ -43,7 +46,10 @@ b. melakukan kegiatan jual beli saham secara langsung di
 pasar modal;
 
 c. melakukan penyertaan modal, kecuali sebagaimana
-dimaksud dalam Pasal 20 ayat (2) huruf c; dan
+dimaksud dalam
+
+Pasal 20
+ayat (2) huruf c; dan
 
 d. melakukan kegiatan usaha perasuransian, kecuali
 sebagai agen pemasaran produk asuransi syariah.

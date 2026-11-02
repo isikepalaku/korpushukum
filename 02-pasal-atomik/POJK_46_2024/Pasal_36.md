@@ -23,7 +23,9 @@ berlaku, dalam Peraturan Otoritas Jasa Keuangan mengenai
 Perizinan Usaha dan Kelembagaan Perusahaan Pembiayaan
 dan Perusahaan Pembiayaan Syariah, penyampaian laporan
 tahunan Asosiasi Perusahaan kepada Otoritas Jasa
-Keuangan sebagaimana dimaksud dalam Pasal 15E ayat (2)
+Keuangan sebagaimana dimaksud dalam
+
+Pasal 15E ayat (2)
 mulai berlaku pada tahun 2027 untuk periode laporan
 tahun 2026.
 

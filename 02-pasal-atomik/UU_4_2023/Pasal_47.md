@@ -11,7 +11,6 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_47|UU 1/2013 Pasal 47]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_47|UU 1/2016 Pasal 47]]'
 - '[[02-pasal-atomik/UU_2_2009/Pasal_47|UU 2/2009 Pasal 47]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_47|UU 21/2008 Pasal 47]]'
@@ -32,8 +31,13 @@ mengamandemen:
 
 ## Batang Tubuh
 
-Ketentuan Pasal 4 Undang-Undang Nomor 24 Tahun 2002 tentang Surat Utang Negara (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 110, Tambahan Lembaran Negara Republik Indonesia Nomor 4236) diubah sehingga berbunyi sebagai berikut:
+Ketentuan
+
+Pasal 4
+Undang-Undang Nomor 24 Tahun 2002 tentang Surat Utang Negara (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 110, Tambahan Lembaran Negara Republik Indonesia Nomor 4236) diubah sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
 Kewajiban Bank Syariah atau Bank Umum Konvensional yang memiliki UUS di antaranya dikenakan kepada pegawai Bank Syariah atau pegawai Bank Umum Konvensional yang memiliki UUS. Pegawai Bank Syariah atau Bank Umum Konvensional yang memiliki UUS merupakan pejabat Bank Syariah atau Bank Umum Konvensional yang memiliki UUS yang diberi wewenang dan tanggung jawab untuk melaksanakan tugas operasional Bank Syariah atau Bank Umum Konvensional yang memiliki UUS, dan karyawan yang mempunyai akses terhadap informasi mengenai keadaan Bank Syariah atau Bank Umum Konvensional yang memiliki uus.
+
+Angka 37

@@ -4,7 +4,7 @@ uu_induk: Perubahan atas UU 23-2006 tentang Administrasi Kependudukan
 kode_uu: UU_24_2013
 pasal: '12'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_24_2013
@@ -50,4 +50,5 @@ berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukup jelas. 
+Angka 7

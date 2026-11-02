@@ -40,7 +40,12 @@ REPUBLIK INDONESIA
 
 **(2) Dalam hal putusan Komisi Pengerwas Persaingan**
 
-**Usaha sebagaimana dimaksud pada ayat (1) memerintahkan pencabutan izin usaha, pejabat pemberi izin wajib mencabut izin usaha pelaku usaha yang bersangkutan dalam waktu paling lambat 30 (tiga puluh) hari kerja setelah putusan memperoleh kekuatan hukum tetap.**
+**Usaha sebagaimana dimaksud pada ayat (1) memerintahkan pencabutan izin usaha, pejabat pemberi izin wajib mencabut izin usaha pelaku usaha yang bersangkutan dalam waktu paling lambat 30 (tiga puluh) hari kerja setelah putusan memperoleh kekuatan hukum tetap.**Pasal 123 Ketentuan lebih lanjut mengenai tata cara penanganan perkara atas dugaan pelanggaran berdasarkan inisiatif Komisi Pengawas . Persaingan Usaha maupLln lapora.n, diatur dengan Peraturan Komisi Pengawas Persaingan
+Usaha.
+
+BAB V
+
+KEMUDAHAN DAN INSENTIF
 
 ## Penjelasan Resmi
 

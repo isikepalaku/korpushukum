@@ -17,47 +17,30 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) SIAK ditetapkan dan dikembangkan oleh Menteri.
-(21 SIAK bertujuan untuk:
-a. meningkatkan kualitas pelayanan pendaftaran
-Penduduk dan pencatatan sipil;
-b. menyediakan data dan informasi skala nasional
-dan daerah mengenai hasil pendaftaran Penduduk
-dan pencatatan sipil yang akurat, lengkap, dan
-mutakhir; dan
-c.mewujudkan...
+Dalam menyelenggarakan kewenangan sebagaimana
+dimaksud dalam
 
-PRES IDEN
+Pasal 3
+ayat (21 huruf a, Menteri
+melakukan koordinasi:
+a. secara
+nasional
+dengan
+melibatkan
+kementerian/lembaga terkait, Pemerintah Daerah
+provinsi, dan Pemerintah Daerah kabupaten/kota
+secara berkala;
+b. antarsusunan .
+
+PRES I DEN
 REPUBLIK INDONESIA
 
-c. mewujudkan pertukaran data secara sistemik
-melalui sistem pengenal tunggal dengan tetap
-menjamin kerahasiaan data.
-(3) SIAK merupakan satu kesatuan rangkaian program
-yang meliputi unsur:
-a. basis data;
-b. perangkat teknologi informasi dan komunikasi;
-c. sumber daya manusia;
-d. pemberi dan pemegang hak akses;
-e. lokasi basis data;
-f.
-pengelolaan basis data;
-g. pemeliharaan basis data;
-h. pengamanan basis data;
-i.
-pengawasan basis data;
-j.
-perangkatpendukung;
-k. tempat pelayanan;
-1. pusat data;
-m. data cadangan;
-n. pusat data cadangan; dan
-o. jaringan komunikasi data.
-(41 Dalam hal unsur SIAK sebagaimana dimaksud pada
-ayat (3) memerlukan proses pengadaan, dilaksanakan
-sesuai dengan ketentuan peraturan perundang-
-undangan yang mengatur mengenai pengadaan
-barangl jasa pemerintah.
+b. antarsusunan pemerintahan yang terkait dengan
+penyelenggaraan urusan Administrasi Kependudukan;
+dan
+c. dengan Perwakilan Republik Indonesia melalui menteri
+yang menyelenggarakan urusan pemerintahan di
+bidang hubungan luar negeri.
 
 ## Penjelasan Resmi
 

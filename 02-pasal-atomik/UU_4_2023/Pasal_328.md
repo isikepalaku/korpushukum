@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pada saat program penjaminan polis mulai dilaksanakan berdasarkan Undang-Undang 1m, ketentuan mengenai likuidasi dalam Pasal 44, Pasal 45, Pasal 46, Pasal 47, Pasal 48, Pasal 49, dan Pasal 52 Undang-Undang Nomor 40 Tahun 2014 tentang Perasuransian (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 337, Tambahan Lembaran Negara Republik Indonesia Nomor 5618) tidak berlaku bagi Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang menjadi peserta program penjaminan polis.
+Pada saat program penjaminan polis mulai dilaksanakan berdasarkan Undang-Undang 1m, ketentuan mengenai likuidasi dalam
+
+Pasal 44, Pasal 45, Pasal 46, Pasal 47, Pasal 48, Pasal 49, dan Pasal 52 Undang-Undang Nomor 40 Tahun 2014 tentang Perasuransian (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 337, Tambahan Lembaran Negara Republik Indonesia Nomor 5618) tidak berlaku bagi Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang menjadi peserta program penjaminan polis.
 
 ## Penjelasan Resmi
 

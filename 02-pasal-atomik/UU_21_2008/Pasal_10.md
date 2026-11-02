@@ -23,6 +23,9 @@ Ketentuan lebih lanjut mengenai perizinan, bentuk badan
 hukum, anggaran dasar, serta pendirian dan kepemilikan Bank
 Syariah sebagaimana dimaksud dalam Pasal 5 sampai dengan
 
+Pasal 9
+diatur dengan Peraturan Bank Indonesia.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

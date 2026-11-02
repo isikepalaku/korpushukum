@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penetapan Perusahaan dalam status pengawasan intensif
-sebagaimana dimaksud dalam Pasal 217 ayat (2) huruf b,
+sebagaimana dimaksud dalam
+
+Pasal 217
+ayat (2) huruf b,
 jika:
 a. Tingkat Kesehatan Perusahaan ditetapkan pada
 Peringkat Komposit 4 (empat); dan/atau
@@ -39,7 +42,13 @@ Huruf b
 
 Angka 1)
 
-Lihat penjelasan Pasal 194 ayat (2).
+Lihat penjelasan
+
+Pasal 194
+ayat (2).
 Angka 2)
 
-Lihat penjelasan Pasal 177 ayat (3).
+Lihat penjelasan
+
+Pasal 177
+ayat (3).

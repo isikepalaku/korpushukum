@@ -20,8 +20,14 @@ mengamandemen: []
 
 Dalam pengalihan sebagian atau seluruh aset dan/atau
 kewajiban Bank Sistemik kepada Bank penerima sebagaimana
-dimaksud dalam Pasal 22 ayat (1) huruf a atau kepada Bank
-Perantara sebagaimana dimaksud dalam Pasal 22 ayat (1)
+dimaksud dalam
+
+Pasal 22
+ayat (1) huruf a atau kepada Bank
+Perantara sebagaimana dimaksud dalam
+
+Pasal 22
+ayat (1)
 huruf b, Lembaga Penjamin Simpanan berwenang:
 
 a. menetapkan jenis dan kriteria aset dan kewajiban Bank
@@ -43,6 +49,12 @@ kewajiban Bank Sistemik yang dialihkan; dan
 d. melakukan wewenang lain sebagaimana diatur dalam
 
 Undang-Undang mengenai Lembaga Penjamin Simpanan.
+
+Pasal 24 . . .
+
+-----
+
+ - 18
 
 ## Penjelasan Resmi
 

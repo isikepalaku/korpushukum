@@ -18,15 +18,17 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pencabutan izin usaha bagi Bank sebagaimana
-dimaksud dalam Pasal 118 ayat (2) huruf a angka 1
+dimaksud dalam
+
+Pasal 118
+ayat (2) huruf a angka 1
 dilakukan dalam 2 (dua) tahap:
 a. persetujuan persiapan pencabutan izin usaha; dan
 b. keputusan pencabutan izin usaha.
 
 -----
 
-(2) Penutupan KPBLN sebagaimana dimaksud dalam Pasal
-118 ayat (1) dilakukan dengan menerbitkan keputusan
+(2) Penutupan KPBLN sebagaimana dimaksud dalam Pasal 118 ayat (1) dilakukan dengan menerbitkan keputusan
 penutupan KPBLN.
 
 Bagian Kedua

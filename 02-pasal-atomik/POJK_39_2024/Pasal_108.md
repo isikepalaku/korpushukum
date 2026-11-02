@@ -17,43 +17,31 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (5), ayat (6), Pasal 122 ayat (4), ayat (5), Pasal 126
+(1) Sejak terbentuknya Tim Likuidasi sebagaimana
+dimaksud dalam Pasal 104 dan
 
------
-
-ayat (1), Pasal 128 ayat (1), dan/atau Pasal 129 ayat (1)
-dan ayat (2), dikenai sanksi administratif berupa:
-a. peringatan tertulis;
-b. larangan menjadi PSP, Direksi, Dewan Komisaris,
-dan/atau DPS; dan/atau
-c. denda administratif.
-(2) Sanksi administratif sebagaimana pada ayat (1) huruf b
-dan huruf c dapat dikenakan dengan atau tanpa
-didahului pengenaan sanksi administratif berupa
-peringatan tertulis sebagaimana dimaksud pada ayat
-(1) huruf a.
-(3) Sanksi denda administratif sebagaimana dimaksud
-pada ayat (1) huruf c dikenakan paling banyak
-Rp50.000.000,00 (lima puluh juta rupiah).
-(4) Dalam hal Perusahaan telah memenuhi ketentuan
-sebagaimana dimaksud pada ayat (1), Otoritas Jasa
-Keuangan mencabut sanksi administratif berupa
-peringatan tertulis.
-(5) Dalam hal terjadi pelanggaran ketentuan sebagaimana
-dimaksud pada ayat (1) dan pelanggaran telah
-diperbaiki, Otoritas Jasa Keuangan memberikan
-sanksi peringatan tertulis yang berakhir dengan
-sendirinya.
-(6) Selain sanksi administratif sebagaimana dimaksud
-pada ayat (1), Otoritas Jasa Keuangan berwenang:
-a. melakukan penilaian kembali terhadap pihak
-utama yang menyebabkan Perusahaan melanggar
-ketentuan sebagaimana dimaksud pada ayat (1);
-dan/atau
-b. melakukan pencatatan rekam jejak terhadap pihak
-yang menyebabkan Perusahaan melanggar
-ketentuan sebagaimana dimaksud pada ayat (1)
-dalam sistem elektronik Otoritas Jasa Keuangan.
+Pasal 106:
+a. tanggung jawab dan kepengurusan Perusahaan
+dalam Likuidasi dilaksanakan oleh Tim Likuidasi;
+b. Direksi, Dewan Komisaris, dan DPS:
+1. tidak memiliki lagi kewenangan sebagai
+Direksi, Dewan Komisaris, dan DPS serta
+menjadi nonaktif;
+2. tidak diperkenankan untuk mengundurkan
+diri sebelum Likuidasi selesai, kecuali dengan
+persetujuan Otoritas Jasa Keuangan; dan
+3. tidak berhak menerima gaji dan penghasilan
+lainnya sebagai Direksi, Dewan Komisaris,
+dan DPS Perusahaan dalam Likuidasi.
+(2) Pemegang saham atau yang setara dengan pemegang
+saham pada badan hukum berbentuk koperasi, Direksi,
+Dewan Komisaris, dan DPS dan pegawai Perusahaan
+dalam Likuidasi wajib memberikan data, informasi, dan
+dokumen yang diperlukan oleh Tim Likuidasi.
+(3) Pemegang saham atau yang setara dengan pemegang
+saham pada badan hukum berbentuk koperasi, Direksi,
+Dewan Komisaris, DPS, dan pegawai Perusahaan dalam
+Likuidasi dilarang menghambat proses Likuidasi.
 
 ## Penjelasan Resmi
 

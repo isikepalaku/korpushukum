@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Administrator Basis Data SIAK sebagaimana dimaksud 
-dalam Pasal 30 huruf g, melekat pada jabatan fungsional 
+dalam
+
+Pasal 30
+huruf g, melekat pada jabatan fungsional 
 umum yang membidangi Pengembangan SIAK. 
 (2) 
 Administrator Basis Data SIAK sebagaimana dimaksud 

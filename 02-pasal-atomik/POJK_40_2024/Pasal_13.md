@@ -18,8 +18,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 10 ayat (1), Pasal 11 ayat (1),
-ayat (3), ayat (4), dan/atau Pasal 12 ayat (1) dikenai
+dimaksud dalam Pasal 10 ayat (1),
+
+Pasal 11
+ayat (1),
+ayat (3), ayat (4), dan/atau
+
+Pasal 12
+ayat (1) dikenai
 sanksi administratif berupa:
 
 -----
@@ -72,7 +78,10 @@ BERDASARKAN PRINSIP SYARIAH
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

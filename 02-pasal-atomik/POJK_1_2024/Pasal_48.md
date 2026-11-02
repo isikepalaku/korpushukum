@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan mengenai Properti Terbengkalai sebagaimana
-dimaksud dalam Pasal 36 dan Pasal 37 dilaksanakan dengan
+dimaksud dalam Pasal 36 dan
+
+Pasal 37
+dilaksanakan dengan
 ketentuan:
 a. untuk properti yang dimiliki sebelum Peraturan Otoritas
 Jasa Keuangan ini berlaku, ditetapkan sebagai Properti
@@ -28,6 +31,19 @@ tidak digunakan untuk kegiatan usaha yang berkaitan
 dengan operasional BPR dan BPR memperhitungkan
 Properti Terbengkalai sebagai faktor pengurang modal inti
 dalam perhitungan KPMM sebagaimana dimaksud dalam
+
+Pasal 37.
+b. untuk properti yang dimiliki setelah Peraturan Otoritas
+Jasa Keuangan berlaku, ditetapkan sebagai Properti
+Terbengkalai sebagaimana dimaksud dalam
+
+Pasal 36
+dan
+BPR memperhitungkan Properti Terbengkalai sebagai
+faktor pengurang modal inti dalam perhitungan KPMM
+sebagaimana dimaksud dalam
+
+Pasal 37.
 
 ## Penjelasan Resmi
 

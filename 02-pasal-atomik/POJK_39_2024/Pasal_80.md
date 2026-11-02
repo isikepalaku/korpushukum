@@ -17,7 +17,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-izin pembentukan UUS sebagaimana dimaksud dalam
+(1) Perusahaan:
+a. yang menerima Penggabungan; atau
+b. hasil Peleburan,
+wajib melaporkan pelaksanaan RUPS yang menyetujui
+Penggabungan atau Peleburan kepada Otoritas Jasa
+Keuangan paling lambat 15 (lima belas) hari kerja
+terhitung sejak tanggal RUPS.
+(2) Pelaporan pelaksanaan RUPS yang menyetujui
+Penggabungan atau Peleburan sebagaimana dimaksud
+pada ayat (1), harus disampaikan oleh Direksi
+melampirkan dengan dokumen persyaratan pelaporan
+pelaksanaan RUPS yang menyetujui Penggabungan
+atau Peleburan tercantum dalam Lampiran pada tabel
+26 yang merupakan bagian tidak terpisahkan dari
+Peraturan Otoritas Jasa Keuangan ini.
 
 ## Penjelasan Resmi
 

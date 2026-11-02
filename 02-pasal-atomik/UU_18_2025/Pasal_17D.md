@@ -21,7 +21,9 @@ Daya Tarik Wisata dalam Destinasi Pariwisata dikelola secara terpadu.
 
 ## Pasal l7E
 
-Ketentuan lebih lanjut mengenai Daya Tarik Wisata sebagaimana dimaksud dalam Pasal 17B sampai dengan Pasal 17D diatur dalam Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai Daya Tarik Wisata sebagaimana dimaksud dalam Pasal 17B sampai dengan
+
+Pasal 17D diatur dalam Peraturan Pemerintah.
 
 ## BAB VIB SARANA DAN PRASARANA
 

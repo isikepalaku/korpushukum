@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data pembatalan akta sebagaimana dimaksud dalam Pasal 7 
+Data pembatalan akta sebagaimana dimaksud dalam
+
+Pasal 7
 ayat (4) huruf o, terdiri dari elemen data: 
 a. 
 NIK/NIT; 

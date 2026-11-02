@@ -38,6 +38,12 @@ KEWENANGAN ATAS PENGELOI"AAN BADAN USAHA MILIK NEGARA
 
 6. Di antara Pasal 3 dan Pasal 4 disisipkan 4 (empat) pasal, yakni Pasal 3A, Pasal 38, Pasal 3C, dan Pasal 3D sehingga berbunyi sebagai berikut:
 
+**Pasal 3A**
+
+- (l) Presiden selaku Kepala Pemerintahan memegang kekuasaan pengelolaan BUMN sebagal lagian dari kekuasaan pemerintahan negara dalam bidang pengelolaan keuangan negara.
+- (21 Kekuasaan sebagaimana dimaksud pada ayat (1) termasuk kekayaan negara yang dipisahkan pada BUMN.
+- (3) Kekuasaan sebasaimana dimaksud pada ayat (1) dan ayat l2l dikuasakan kepada Menteri selaku pemegang saham seri A Dwiwarna dan Badan sebagai pemegang saham seri B pada Holding Investasi dan Holding Operasional, selaku wakil Pemerintah Pusat dalam kepemilikan kekayaan negara yang dipisahkan.
+
 ## Penjelasan Resmi
 
 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas.
@@ -74,3 +80,156 @@ Hurufd Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Hurufg Cukup jelas
 Cukup jelas.
 
 Angka 5 Cukup jelas.
+
+Angka 6
+
+Pasal 3A
+
+Ayat (l)
+
+Cukup jelas.
+
+Ayat (21
+
+Cukup jelas.
+
+Ayat (3)
+
+Kekuasaan yang dikuasakan kepada Menteri dan Badan termasuk kekuasaan Pemerintah Pusat selaku pemegang saham pada BUMN dan pemilik modal pada Perum.
+
+Pasal 3B
+
+Cukup jelas.
+
+Pasal 3C
+
+Hurufa
+
+Cukup jelas.
+
+Huruf b
+
+Cukup jelas.
+
+Huruf c
+
+Cukup jelas.
+
+Hurufd
+
+Cukup jelas.
+
+Huruf e
+
+Cukup jelas.
+
+Huruf f
+
+Cukup jelas.
+
+Huruf g
+
+Cukup jelas.
+
+Huruf h
+
+Cukup jelas.
+
+Hurufi...
+
+Huruf i
+
+Cukup jelas.
+
+Hurufj
+
+Cukup jelas.
+
+Huruf k
+
+Cukup jelas.
+
+Huruf I
+
+Yang dimaksud dengan "kewenangan lain" adalah kewenangan lain yang terkait dengan pengurusan dan pengawasan BUMN.
+
+Pasal 3D
+
+Cukup jelas.
+
+Angka 7
+
+Cukup jelas.
+
+Angka 8
+
+Cukup jelas.
+
+Angka 9
+
+Pasal 3E
+
+Cukup jelas.
+
+Pasal 3F
+
+Cukup jelas.
+
+Pasal 3G
+
+Cukup jelas.
+
+Pasal 3H
+
+Cukup jelas.
+
+```
+Pasal 31
+```
+
+```
+Ayat (1) Kerja sama dengan pihak ketiga tetap menempatkan Pemerintah Pusat memegang kedudukan menentukan dalam pengambilan kebljakan dan keputusan. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas.
+
+Pasal 3J Cukup jelas. Pasal 3K Cukup jelas. Pasal 3L Cukup jelas. Angka 1O Cukup jelas. Angka 1l Pasal 3M Cukup jelas. Pasal 3N Ayat (1) Hurufa Cukup jelas. Huruf b Cukup jelas. Huruf c Perwakilan urusan kementerian dalam dari kementerian yang
+```
+
+sinkronisasi dan koordinasi serta pengendalian pelaksanaan pemerintahan di bidang perekonomian, kementerian yang menyelenggarakan urusan di bidang keuangan, kementerian yang menyelenggaralan urusan di bidang BUMN, dan kementerian yang menyelenggarakan urusan pemerintahan di bidang investasi adalah paling rendah pejabat eselon I.
+
+Huruf d. . .
+
+**PRESTDEN REPUBUK INDONESIA**Pasal Pasal Pasal Pasal Pasal Pasal Huruf d Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. 30 Cukup jelas. 3P Cukup jelas. 3Q Cukup jelas. 3R Cukup jelas. 3S Cukup jelas. 3T Ayat (l) Cukup jelas. Ayat (2) Huruf a Cukup jelas. Hurufb Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas.
+```
+
+Huruf e. . .
+
+Huruf e
+
+Cukup jelas.
+
+Huruf f
+
+Yang mewakili Badan di dalam dan di luar pengadilan adalah kepala badan pelaksana,
+
+Ayat (3)
+
+Cukup jelas.
+
+Pasal 3U
+
+Cukup jelas.
+
+Pasal 3V
+
+Cukup jelas.
+
+Pasal 3W
+
+Cukup jelas.
+
+Pasal 3X
+
+Cukup jelas.
+
+Pasal 3Y
+
+Cukup jelas.

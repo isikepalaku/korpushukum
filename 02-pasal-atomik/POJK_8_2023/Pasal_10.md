@@ -17,8 +17,26 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BAB IV
-KEBIJAKAN DAN PROSEDUR
+(1) PJK wajib memiliki pengaturan manajemen kepatuhan
+penerapan program APU, PPT, dan PPPSPM, termasuk
+dengan melakukan penunjukan pejabat kepatuhan di
+tingkat manajemen.
+(2) Sebagai bagian dari pengaturan manajemen kepatuhan
+penerapan program APU, PPT, dan PPPSPM sebagaimana
+dimaksud pada ayat (1), PJK wajib membentuk unit kerja
+khusus dan/atau menunjuk pejabat sebagai penanggung
+jawab penerapan program APU, PPT, dan PPPSPM, pada
+kantor pusat dan kantor cabang.
+(3) Penunjukan penanggung jawab penerapan program APU,
+PPT, dan PPPSPM sebagaimana dimaksud pada ayat (2)
+dilakukan sesuai dengan kebutuhan PJK berdasarkan
+penilaian risiko TPPU, TPPT, dan/atau PPSPM, kegiatan,
+
+-----
+
+skala usaha, kompleksitas usaha, karakteristik usaha,
+dan/atau apabila terdapat peristiwa atau perkembangan
+besar dalam manajemen dan operasional PJK.
 
 ## Penjelasan Resmi
 

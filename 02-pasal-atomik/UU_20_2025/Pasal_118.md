@@ -18,7 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penyitaan.
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

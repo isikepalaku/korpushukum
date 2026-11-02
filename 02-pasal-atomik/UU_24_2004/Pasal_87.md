@@ -24,7 +24,10 @@ Dewan Komisioner menyampaikan Rencana Kerja dan
 
  pelaksanaan anggaran tahun berjalan sebagaimana dimaksud
 
- dalam Pasal 86 ayat (1) dan ayat (2) kepada Presiden dan
+ dalam
+
+Pasal 86
+ayat (1) dan ayat (2) kepada Presiden dan
 
  Dewan Perwakilan Rakyat
 

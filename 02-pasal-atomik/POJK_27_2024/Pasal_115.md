@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pengawasan secara langsung sebagaimana dimaksud
-dalam Pasal 114 ayat (2) huruf a dilakukan melalui
+dalam
+
+Pasal 114
+ayat (2) huruf a dilakukan melalui
 pemeriksaan secara:
 a. berkala; dan
 b. sewaktu-waktu.
@@ -35,7 +38,9 @@ perundang-undangan.
 (3) Dalam pelaksanaan pengawasan secara langsung
 sebagaimana dimaksud pada ayat (1), Penyelenggara
 Perdagangan Aset Keuangan Digital dan aktivitas
-penunjang sebagaimana dimaksud dalam Pasal 114
+penunjang sebagaimana dimaksud dalam
+
+Pasal 114
 ayat (1) wajib memberikan:
 a. keterangan dan data;
 b. pembukuan;

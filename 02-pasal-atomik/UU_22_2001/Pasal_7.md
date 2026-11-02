@@ -20,7 +20,10 @@ mengamandemen: []
 
 - (1) KegiatanUsahaHilirsebagaimanadimaksuddalamPasal5angka2dilaksanakandenganIzin
 
-Usaha sebagaimana dimaksud dalam Pasal 1 angka 20. (2) KegiatanUsahaHilirsebagaimanadimaksuddalamPasal5angka2diselenggarakanmelalui
+Usaha sebagaimana dimaksud dalam
+
+Pasal 1
+angka 20. (2) KegiatanUsahaHilirsebagaimanadimaksuddalamPasal5angka2diselenggarakanmelalui
 
 - mekanisme persaingan usaha yang wajar, sehat, dan transparan.
 

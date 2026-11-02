@@ -17,7 +17,29 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Pemerintah Pusat menyelenggarakan [perrzinan]
 
+**tunggal Usaha Mikro dan [Usaha ] [Kecil ][melalui ][sistem] Perizinan Berusaha terintegrasi [secara ][elektronik.]**
+
+(2) Perizinan tunggal sebagaimana [dimaksud ] [pada ][ayat ][(1)]
+
+**meliputi Perizinan Berusaha, [standar ][nasional] Indonesia, dan sertifikasi [jaminan ][produk ][halal.]**
+
+(3) Dalam...
+
+-----
+
+PRES IDEN
+REPUBLIK INDONES]A
+
+**-30-**
+
+**(3) Dalam hal kegiatan usaha yang dilakukan oleh Usaha**
+
+**Mikro dan Usaha Kecil memiliki risiko rendah diberikan nomor induk berusaha yang sekaligus berlaku sebagai perizinan tunggal.**
+**(4) Lembaga pemerintah nonkementerian [yang]**
+
+**menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal mengoordinasikan penyelenggaraan per:z;inan tunggal Usaha Mikro dan Usaha Kecil.**
 
 ## Penjelasan Resmi
 

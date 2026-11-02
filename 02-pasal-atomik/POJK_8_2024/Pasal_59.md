@@ -26,13 +26,28 @@ memperoleh persetujuan terlebih dahulu dari Otoritas
 Jasa Keuangan.
 (2) Sistem elektronik yang digunakan untuk
 penyelenggaraan Produk Asuransi secara digital
-sebagaimana dimaksud dalam Pasal 58 ayat (1) wajib
+sebagaimana dimaksud dalam
+
+Pasal 58
+ayat (1) wajib
 memuat informasi mengenai identitas Perusahaan
 Asuransi atau Perusahaan Asuransi Syariah, Produk
 Asuransi yang ditawarkan, syarat dan ketentuan Polis
 Asuransi, serta menyediakan ringkasan informasi
 produk dan layanan.
 (3) Dalam hal pemasaran sebagaimana dimasud dalam
+Pasal 58
+ayat (1) menggunakan sistem elektronik
+pihak lain, sistem elektronik pihak lain tersebut
+harus terhubung dengan sistem elektronik
+Perusahaan Asuransi atau Perusahaan Asuransi
+Syariah.
+(4) Ketentuan lebih lanjut mengenai tata cara persetujuan
+kerja sama Perusahaan Asuransi atau Perusahaan
+Asuransi Syariah dengan pihak lain yang menjadi
+_partner_ Perusahaan Asuransi atau Perusahaan
+Asuransi Syariah sebagaimana dimaksud pada ayat (1)
+ditetapkan oleh Otoritas Jasa Keuangan.
 
 ## Penjelasan Resmi
 

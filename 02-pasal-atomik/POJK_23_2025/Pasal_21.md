@@ -85,3 +85,11 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
+
+Angka 29
+
+Pasal 21A
+
+Cukup jelas.
+
+Angka 30

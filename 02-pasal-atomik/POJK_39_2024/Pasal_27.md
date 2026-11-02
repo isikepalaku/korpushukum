@@ -17,7 +17,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Perusahaan Pergadaian wajib melaporkan perubahan
+pimpinan UUS kepada Otoritas Jasa Keuangan paling
+lambat 15 (lima belas) hari kerja sejak tanggal
+pengangkatan pimpinan UUS.
+(2) Pelaporan perubahan pimpinan UUS sebagaimana
+dimaksud pada ayat (1) harus disampaikan oleh Direksi
+kepada Otoritas Jasa Keuangan dengan melampirkan
+dokumen persyaratan pelaporan perubahan pimpinan
+UUS sebagaimana dimaksud dalam
 
+Pasal 23
+ayat (2)
+yang tercantum dalam Lampiran pada tabel 6 yang
+merupakan bagian tidak terpisahkan dari Peraturan
+Otoritas Jasa Keuangan ini.
+
+Bagian Ketiga
+Pemisahan Unit Usaha Syariah
+
+Paragraf 1
+Kriteria Pemisahan UUS
 
 ## Penjelasan Resmi
 

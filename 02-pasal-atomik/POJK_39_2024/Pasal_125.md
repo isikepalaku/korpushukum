@@ -51,4 +51,7 @@ Cukup jelas.
 
 Ayat (4)
 
-Lihat penjelasan Pasal 110 huruf e.
+Lihat penjelasan
+
+Pasal 110
+huruf e.

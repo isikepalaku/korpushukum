@@ -91,3 +91,5 @@ Cukup jelas.
 Huruf d
 
 Cukup jelas.
+
+Angka 12

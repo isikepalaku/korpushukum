@@ -20,7 +20,10 @@ mengamandemen: []
 (1) BPR atau BPR Syariah hasil Penggabungan
 memberitahukan Penggabungan kepada instansi yang
 berwenang setelah memperoleh izin Penggabungan dari
-OJK sebagaimana dimaksud dalam Pasal 111 ayat (2).
+OJK sebagaimana dimaksud dalam
+
+Pasal 111
+ayat (2).
 (2) Dalam hal terdapat perubahan anggaran dasar BPR atau
 BPR Syariah hasil Penggabungan sebagaimana dimaksud
 pada ayat (1), BPR atau BPR Syariah hasil Penggabungan
@@ -38,7 +41,10 @@ BPR atau BPR Syariah hasil Penggabungan.
 menyampaikan permohonan pengesahan badan hukum
 BPR atau BPR Syariah hasil Peleburan kepada instansi
 yang berwenang setelah memperoleh izin Peleburan dari
-OJK sebagaimana dimaksud dalam Pasal 111 ayat (2)
+OJK sebagaimana dimaksud dalam
+
+Pasal 111
+ayat (2)
 paling lama 60 (enam puluh) hari sejak tanggal akta
 pendirian BPR atau BPR Syariah hasil Peleburan
 

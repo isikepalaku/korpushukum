@@ -17,33 +17,64 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BPR Syariah dikenai sanksi administratif berupa:
-a. penurunan tingkat kesehatan;
-b. larangan melakukan ekspansi kegiatan usaha;
-c. penghentian sementara sebagian kegiatan
-operasional; dan/atau
-d. penundaan hak menerima dividen bagi pemegang
-saham.
-(3) Selain sanksi administratif sebagaimana dimaksud pada
-ayat (1) dan/atau ayat (2), BPR dan/atau BPR Syariah
-dapat dikenai sanksi administratif berupa denda paling
-sedikit Rp10.000.000,00 (sepuluh juta rupiah) dan paling
-banyak Rp100.000.000,00 (seratus juta rupiah) untuk
-setiap pelanggaran yang dilakukan
-(4) BPR atau BPR Syariah yang terlambat memenuhi
-kewajiban penyampaian laporan sebagaimana dimaksud
-dalam Pasal 139 ayat (2), ayat (3), dan/atau ayat (4),
-dikenai sanksi administratif berupa denda sebesar
-Rp100.000,00 (seratus ribu rupiah) per hari kerja dan
-paling banyak Rp5.000.000,00 (lima juta rupiah).
-(5) Pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (4) tidak menghilangkan kewajiban
-penyampaian laporan bagi BPR atau BPR Syariah yang
-belum menyampaikan laporan dimaksud.
-(6) Dalam hal BPR atau BPR Syariah telah dikenai sanksi
-administratif sebagaimana dimaksud pada ayat (1)
-dan/atau ayat (2) dan tetap melanggar ketentuan
-sebagaimana dimaksud dalam Pasal 138 ayat (8) dan/atau
+(1) BPR dan BPR Syariah dapat melakukan sinergi
+perbankan.
+(2) Sinergi perbankan sebagaimana dimaksud pada ayat (1)
+meliputi:
+a. BPR atau BPR Syariah dengan BUS atau BUK dalam
+kepemilikan PSP yang sama; atau
+b. BPR atau BPR Syariah dengan BUS atau BUK sebagai
+PSP.
+(3) Dalam melaksanakan sinergi perbankan sebagaimana
+dimaksud pada ayat (1), kedua belah pihak harus
+membuat perjanjian kerja sama secara tertulis.
+(4) Perjanjian kerja sama sebagaimana dimaksud pada
+ayat (3) mencakup paling sedikit:
+a. pihak yang melakukan kerja sama;
+b. tujuan dan ruang lingkup kerja sama;
+c. jangka waktu perjanjian kerja sama; dan
+d. hak dan kewajiban setiap pihak mengenai paling
+sedikit:
+1. kewajiban para pihak untuk menjaga
+kerahasiaan dan keamanan informasi, termasuk
+untuk keperluan pelindungan data nasabah;
+2. tanggung jawab atas kerugian, dalam hal terjadi
+kegagalan sistem, kecurangan, dan/atau
+kegagalan yang disebabkan oleh faktor internal
+dan eksternal lain;
+3. mitigasi risiko termasuk dalam hal terjadi
+penghentian kerja sama sebelum jatuh tempo;
+4. penanganan pengaduan nasabah, dalam hal
+sinergi berhubungan dengan nasabah secara
+langsung;
+
+-----
+
+5. aspek alih pengetahuan, dalam hal sinergi
+melibatkan sumber daya manusia dari pihak
+yang melakukan sinergi; dan
+6. pengelolaan dan pemeliharaan dokumentasi dari
+aktivitas atau ruang lingkup yang dilakukan
+kerja sama.
+(5) Perjanjian kerja sama disusun para pihak disertai dengan
+dokumen dari pejabat satuan kerja kepatuhan yang
+berwenang yang menyatakan bahwa sinergi perbankan
+telah memenuhi aspek sebagaimana dimaksud pada ayat
+(4).
+(6) Sinergi perbankan yang dituangkan dalam perjanjian kerja
+sama secara tertulis sebagaimana dimaksud pada ayat (3)
+didasarkan pada hubungan kerja sama secara wajar.
+(7) Pihak yang menerima manfaat bertanggung jawab atas
+risiko yang timbul atas keputusan bisnis, layanan,
+dan/atau operasional dari pelaksanaan sinergi
+perbankan.
+(8) Para pihak wajib memastikan bahwa pelaksanaan sinergi
+perbankan sesuai dengan perjanjian kerja sama.
+(9) Pihak sebagaimana dimaksud pada ayat (2) yang
+melakukan sinergi terkait dengan penyediaan jasa
+teknologi informasi dikecualikan dari persetujuan OJK
+sesuai dengan Peraturan OJK mengenai penyelenggaraan
+teknologi informasi oleh bank umum.
 
 ## Penjelasan Resmi
 

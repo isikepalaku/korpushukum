@@ -20,6 +20,29 @@ mengamandemen: []
 (1) Dalam memberikan persetujuan atau penolakan atas
 permohonan izin usaha sebagaimana dimaksud dalam
 
+Pasal 21, Otoritas Jasa Keuangan melakukan:
+a. penelitian dan analisis dokumen permohonan;
+b. penilaian kemampuan dan kepatutan anggota
+Direksi dan anggota Dewan Komisaris
+Penyelenggara, jika terdapat perubahan;
+c. analisis potensi dan kelayakan, jika terdapat
+perubahan;
+d. penelitian sumber dana setoran modal; dan
+e. analisis lain berdasarkan pertimbangan Otoritas
+Jasa Keuangan.
+
+-----
+
+ - 20
+(2) Dalam mendukung penelitian, analisis, dan penilaian
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa
+Keuangan berwenang meminta dokumen yang memuat
+informasi lain yang dianggap perlu.
+(3) Otoritas Jasa Keuangan mengumumkan calon
+Penyelenggara yang telah memperoleh izin usaha dari
+Otoritas Jasa Keuangan dalam situs web Otoritas Jasa
+Keuangan.
+
 ## Penjelasan Resmi
 
 Ayat (1)

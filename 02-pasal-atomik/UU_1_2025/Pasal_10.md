@@ -26,10 +26,11 @@ Cukup jelas.
 
 Angka 39
 
-Pasal I I
-
+Pasal 11
 Dihapus.
 
 Angka 4O
 
 Cukup jelas.
+
+Angka 41

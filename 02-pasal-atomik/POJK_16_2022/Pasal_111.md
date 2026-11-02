@@ -22,7 +22,10 @@ permohonan izin pembukaan KPBLN sebagaimana
 
 -----
 
-dimaksud dalam Pasal 110 paling lama 30 (tiga puluh)
+dimaksud dalam
+
+Pasal 110
+paling lama 30 (tiga puluh)
 hari kerja setelah dokumen permohonan diterima
 secara lengkap.
 (2) Untuk memberikan persetujuan atau penolakan

@@ -20,7 +20,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pihak yang merasa dirugikan oleh keterangan yang diberikan oleh
-Bank sebagaimana dimaksud dalam Pasal 42, Pasal 43, Pasal 45,
+Bank sebagaimana dimaksud dalam Pasal 42,
+
+Pasal 43, Pasal 45,
 dan Pasal 46, berhak untuk mengetahui isi keterangan tersebut
 dan meminta pembetulan jika terdapat kesalahan dalam
 keterangan yang diberikan.

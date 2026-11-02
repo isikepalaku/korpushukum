@@ -19,7 +19,10 @@ mengamandemen: []
 
 Permohonan untuk memperoleh izin usaha sebagaimana
 
-dimaksud dalam Pasal 14 huruf b diajukan oleh pihak yang
+dimaksud dalam
+
+Pasal 14
+huruf b diajukan oleh pihak yang
 
 -----
 
@@ -39,7 +42,9 @@ perubahan;
 
 c. bukti pelunasan modal disetor sebagaimana dimaksud
 
-dalam Pasal 12, dalam bentuk salinan bilyet deposito
+dalam
+
+Pasal 12, dalam bentuk salinan bilyet deposito
 
 pada Bank BHI di Indonesia atas nama “Dewan
 

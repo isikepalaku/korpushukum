@@ -21,7 +21,7 @@ mengamandemen: []
 
 - (2) Mediator dapat menyatakan bahwa pihak yang bersengketa, Para Pihak yang Bersengketa, dan/atau kuasa hukumnya tidak beriktikad dalam hal yang bersangkutan; a. tidak hadir setelah dipanggil secara patut 2 (dua) kali berturut-rurut dalam pertemuan Mediasi tanpa alasan sah sebagaimana dimaksud dalam Pasal 216 ayat {2};
 
- - b. menghadiri pertemuan Mediasi pertama, tetapi tidak pernah hadir pada pertemuan berikutmya meskipun telah dipanggil secara patut 2 (dua) kali berturut-turut tanpe alasan sah scbagaimana dimaksud dalam Pasa! 216 ayat (2);
+ - b. menghadiri pertemuan Mediasi pertama, tetapi tidak pernah hadir pada pertemuan berikutmya meskipun telah dipanggil secara patut 2 (dua) kali berturut-turut tanpe alasan sah scbagaimana dimaksud dalam Pasal 216 ayat (2);
 
  - c. ketidakhadiran berulang-ulang yang Menggangeu jadwal pertemuan Mediasi tanpe alasan sah scbagaimana dimaksud dalam Pasal 216 ayat (2);
 

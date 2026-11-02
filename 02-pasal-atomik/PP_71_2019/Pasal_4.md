@@ -17,37 +17,15 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-- (1) Penyelenggaraan Transaksi Elektronik dapat dilakukan dalam lingkup publik ataupun privat.
+Sepanjang tidak ditentukan lain undang-undang tersendiri, setiap Penyelenggara Sistem Elektronik wajib mengoperasikan Sistem Elektronik yang memenuhi persyaratan minimum sebagai berikut: a. dapat menampilkan kembali Informasi Elektronik dan/ atau Dokumen Elektronik secara utuh sesuai dengan masa retensi yang ditetapkan dengan peraturan perundang-undangan;
 
-(2) Penyelenggaraan . . .
+- b. dapat melindungi ketersediaan, keutuhan, keotentikan, kerahasiaan, dan keteraksesan Informasi Elektronik dalam penyelenggaraan Sistem Elektronik tersebut;
 
-PRESTDEN REPUBLTK INDONESIA
+- c. dapat beroperasi sesuai dengan prosedur atau petunjuk dalam penyelenggaraan Sistem Elektronik tersebut;
 
-- (21 Penyelenggaraan Transaksi Elektronik dalam lingkup publik meliputi Penyelenggaraan Transaksi Elektronik oleh:
+- d. dilengkapi dengan prosedur atau petunjuk yang diumumkan dengan bahasa, informasi, atau simbol yang dapat dipahami oleh pihak yang bersangkutan dengan penyelenggaraan Sistem Elektronik tersebut; dan
 
- - a. Instansi;
-
- - b. institusi yang ditunjuk oleh Instansi;
-
- - c. antar-Instansi;
-
- - d. antar-institusi yang ditunjuk;
-
- - e. antara Instansi dengan institusi yang ditunjuk; dan
-
- - f. antara Instansi atau institusi dengan Pelaku Usaha sesuai dengan ketentuan peraturan perundangundangan.
-
-- (3) Penyelenggaraan Transaksi Elektronik dalhm lingkup privat meliputi Transaksi Elektronik:
-
- - a. antar-Pelaku Usaha;
-
- - b. antara Pelaku Usaha dengan konsumen; dan
-
- - c. antarpribadi.
-
-**Bagian Kedua**
-
-Persyaratan Penyelenggaraan Transaksi Elektronik
+- e. memiliki mekanisme yang berkelanjutan untuk menjaga kebaruan, kejelasan, dan kebertanggungiawaban prosedur atau petunjuk.
 
 ## Penjelasan Resmi
 

@@ -19,9 +19,43 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-tahun dan pidana denda paling banyak Rp. 1.000.000.000,00 (satu
+(1) Penasehat Berjangka berkewajiban mengetahui latar belakang,
 
- miliar rupiah).
+ keadaan keuangan, dan pengetahuan mengenai Perdagangan
+
+ Berjangka dari kliennya.
+
+ (2) Penasehat...
+
+```
+
+-----
+
+```
+ - 32
+**(2) Penasehat Berjangka wajib menyampaikan Dokumen Keterangan**
+
+ Perusahaan dan Dokumen Pemberitahuan Adanya Risiko kepada
+
+ klien sebelum kedua pihak mengikatkan diri dalam suatu perjanjian
+
+ pemberian jasa.
+
+ (3) Penasehat Berjangka dilarang menarik atau menerima uang
+
+ dan/atau surat berharga tertentu dari kliennya, kecuali untuk
+
+ pembayaran jasa atas nasehat yang diberikan kepada Klien yang
+
+ bersangkutan.
+
+ (4) Penasehat Berjangka dalam memberikan rekomendasi kepada klien
+
+ untuk membeli atau menjual Kontrak Berjangka wajib terlebih
+
+ dahulu memberitahukan apabila ada kepentingan Penasehat
+
+ Berjangka yang bersangkutan.
 
 ## Penjelasan Resmi
 

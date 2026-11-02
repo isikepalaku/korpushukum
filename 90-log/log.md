@@ -2,7 +2,7 @@
 judul: "Log Perubahan Korpus"
 jenis: log
 tags: [log]
-last_updated: 2026-11-02
+last_updated: 2026-11-03
 ---
 
 # Log Korpus
@@ -172,3 +172,17 @@ last_updated: 2026-11-02
   - `INSTRUKSI 1/2023`: diverifikasi sebagai Instruksi Menteri Kominfo No. 1 Tahun 2023 (bukan Inpres), status `berlaku`, verifikasi `sudah` (Kemenkominfo).
   - `SKB 229/2021`: status `berlaku`, verifikasi `sudah` (Menkominfo / Kejagung / Polri).
 - Sinkronisasi `INDEX.md`, `90-log/manifest.jsonl` (133 dokumen bebas duplikat ID), dan `90-log/build_chunks.py`.
+
+## [2026-11-03] normalisasi & audit integritas | pasal atomik & heading terpartisi
+
+- Normalisasi heading Batang Tubuh & Penjelasan:
+  - Perbaikan anomali heading dan OCR pada KUHP (UU 1/2023), UU Migas (UU 22/2001), UU Hak Tanggungan (UU 4/1996), UU ITE (UU 11/2008), dan PP 71/2019.
+  - Heading formal (### Pasal X ^pasal-x dan #### Pasal X ^penjelasan-pasal-x) dipulihkan secara presisi.
+- Ekspor ulang & regenerasi pasal atomik (02-pasal-atomik/):
+  - Total 7.619 berkas atomik diperbarui dan diselaraskan dengan dokumen induk dan penjelasannya.
+  - Pembersihan berkas atomik stale/orphan sebelum ekspor batch.
+- Pembaruan parser & tooling:
+  - scripts/docling_legal_parser.py: peningkatan heuristik regex OCR, handling nomor pasal inline, normalisasi angka romawi/karakter mirip OCR, dan deteksi heading formal markdown.
+  - Penambahan skrip audit mandiri scripts/validate_corpus.py (Sequence & Gap Detection, verifikasi integritas 119 peraturan & 7.619 pasal atomik).
+- Sinkronisasi metadata korpus:
+  - INDEX.md, README.md, 01-moc/*, 90-log/manifest.jsonl, dan 90-log/chunks-stats.json.

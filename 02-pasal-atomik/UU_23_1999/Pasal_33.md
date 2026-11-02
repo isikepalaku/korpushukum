@@ -10,6 +10,7 @@ tags:
 - uu/uu_23_1999
 status_berlaku: diubah
 diamandemen_oleh:
+- '[[02-pasal-atomik/UU_3_2004/Pasal_33|UU 3/2004 Pasal 33]]'
 - '[[02-pasal-atomik/UU_4_2023/Pasal_33|UU 4/2023 Pasal 33]]'
 mengamandemen: []
 ---

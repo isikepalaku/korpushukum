@@ -20,7 +20,10 @@ mengamandemen: []
 Otoritas Jasa Keuangan dapat mengumumkan pengenaan
 sanksi administratif sebagaimana diatur dalam Peraturan
 Otoritas Jasa Keuangan ini dan tindakan tertentu
-sebagaimana dimaksud dalam Pasal 156 kepada
+sebagaimana dimaksud dalam
+
+Pasal 156
+kepada
 masyarakat.
 
 BAB XVI

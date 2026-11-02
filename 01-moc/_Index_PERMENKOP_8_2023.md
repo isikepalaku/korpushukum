@@ -4,7 +4,7 @@ judul: "Map of Content - Usaha Simpan Pinjam oleh Koperasi"
 kode_uu: PERMENKOP_8_2023
 type: moc
 tags: [moc, hukum/keuangan, uu/permenkop_8_2023]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Usaha Simpan Pinjam oleh Koperasi (PERMENKOP_8_2023)
@@ -47,7 +47,7 @@ last_updated: 2026-11-01
 - [[Pasal_32]]: (1) KSPPS dan USPPS Koperasi harus memiliki sistem
 - [[Pasal_33]]: 
 - [[Pasal_34]]: 
-- [[Pasal_35]]: (3), Pasal 57 ayat (1), Pasal 59 ayat (1), Pasal 59 ayat (4),
+- [[Pasal_35]]: Pasal 39
 - [[Pasal_36]]: (1) Dalam hal koperasi telah menyalurkan Pinjaman dan
 - [[Pasal_37]]: (1) Untuk mengurangi Risiko pemberian Pinjaman dan
 - [[Pasal_38]]: KSP Sekunder atau USP Koperasi Sekunder
@@ -78,11 +78,11 @@ last_updated: 2026-11-01
 - [[Pasal_63]]: 
 - [[Pasal_64]]: (1) Modal Usaha Awal terdiri atas Simpanan Pokok,
 - [[Pasal_65]]: (1) Modal Pinjaman KSP/KSPPS sebagaimana dimaksud
-- [[Pasal_66]]: Modal Penyertaan sebagaimana dimaksud dalam pasal 63
+- [[Pasal_66]]: Modal Penyertaan sebagaimana dimaksud dalam
 - [[Pasal_67]]: Perjanjian antara KSP/KSPPS dengan Pemodal sebagaimana
-- [[Pasal_68]]: ayat (1), Pasal 80 ayat (3), Pasal 80 ayat (4), Pasal 82,
+- [[Pasal_68]]: Pasal 80
 - [[Pasal_69]]: (1) KSP/KSPPS dalam upaya memperkuat likuiditas
-- [[Pasal_70]]: Apex sebagaimana dimaksud dalam Pasal 69 melaksanakan
+- [[Pasal_70]]: Apex sebagaimana dimaksud dalam
 - [[Pasal_71]]: Pembentukan Apex KSP/KSPPS bertujuan untuk:
 - [[Pasal_72]]: (1) Menteri, gubernur, dan bupati/wali kota memberikan
 - [[Pasal_73]]: Bimbingan pelaksanaan usaha simpan pinjam oleh Koperasi
@@ -93,7 +93,7 @@ last_updated: 2026-11-01
 - [[Pasal_78]]: KSP/KSPPS dan USP/USPPS Koperasi wajib membentuk unit
 - [[Pasal_79]]: (1) Menteri, gubernur, atau bupati/wali kota sesuai dengan
 - [[Pasal_80]]: (1) Sebelum KSP/KSPPS dan USP/USPPS Koperasi
-- [[Pasal_81]]: Dokumen pendukung sebagaimana dimaksud dalam Pasal 80
+- [[Pasal_81]]: Dokumen pendukung sebagaimana dimaksud dalam
 - [[Pasal_82]]: (1) KSP/KSPPS dan USP/USPPS Koperasi wajib melakukan
 - [[Pasal_83]]: 
 - [[Pasal_84]]: KSP/KSPPS dan USP/USPPS Koperasi harus memiliki sistem
@@ -108,10 +108,10 @@ last_updated: 2026-11-01
 - [[Pasal_93]]: Tugas pelaksanaan Pengawasan KSP/KSPPS dan USP/USPPS
 - [[Pasal_94]]: Tim Pengawas KSP/KSPPS dan USP/USPPS Koperasi
 - [[Pasal_95]]: a. perintah dari pejabat yang berwenang sesuai dengan
-- [[Pasal_96]]: sanksi administrasi.
+- [[Pasal_96]]: Pasal 106
 - [[Pasal_97]]: Pengawasan sewaktu-waktu sebagaimana dimaksud dalam
 - [[Pasal_98]]: Hasil pengawasan KSP/KSPPS dan USP/USPPS Koperasi
-- [[Pasal_99]]: dimaksud dalam Pasal 99 ayat (2) huruf b diberikan
+- [[Pasal_99]]: dimaksud dalam
 - [[Pasal_100]]: (1) Terhadap KSP/KSPPS dan USP/USPPS Koperasi dengan
 - [[Pasal_101]]: Dalam rangka sinergitas dan koordinasi, pengawasan
 - [[Pasal_102]]: Dalam hal diperlukan, Deputi atau Kepala Dinas dapat

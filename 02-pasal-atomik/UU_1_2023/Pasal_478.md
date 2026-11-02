@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Jika Tindak Pidana sebagaimana dimaksud dalam Pasal 476 dan Pasal 477 ayat (1) huruf f dan huruf g dilakukan tidak dalam sebuah rumah atau pekarangan tertutup yang ada rumahnya, dan harga Barang yang dicurinya tidak lebih dari Rp500.000,00 (lima ratus ribu rupiah), dipidana karena pencurian ringan, dengan pidana denda paling banyak kategori II.
+Jika Tindak Pidana sebagaimana dimaksud dalam Pasal 476 dan
+
+Pasal 477
+ayat (1) huruf f dan huruf g dilakukan tidak dalam sebuah rumah atau pekarangan tertutup yang ada rumahnya, dan harga Barang yang dicurinya tidak lebih dari Rp500.000,00 (lima ratus ribu rupiah), dipidana karena pencurian ringan, dengan pidana denda paling banyak kategori II.
 
 ## Penjelasan Resmi
 

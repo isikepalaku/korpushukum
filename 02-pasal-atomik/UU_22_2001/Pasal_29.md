@@ -18,22 +18,11 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-- a. pajak-pajak;
-- b. bea masuk, dan pungutan lain atas impor dan cukai;
-- c. pajak daerah dan retribusi daerah.
-- (3) PenerimaanNegaraBukanPajaksebagaimanadimaksuddalamayat(1)terdiriatas:
-- a. bagian negara;
-- b. pungutan negara yang berupa iuran tetap dan iuran Eksplorasi dan Eksploitasi;
-- c. bonus-bonus.
-- (4) DalamKontrakKerjaSamaditentukanbahwakewajibanmembayarpajaksebagaimanadimaksud dalam ayat (2) huruf a dilakukan sesuai dengan:
-- a. ketentuan peraturan perundang-undangan di bidang perpajakan yang berlaku pada saat Kontrak Kerja Sama ditandatangani; atau
-- b. ketentuan peraturan perundang-undangan di bidang perpajakan yang berlaku.
+- (1) PadawilayahyangmengalamiklangkaanBahanBakarMinyakdanpadadaerah-daerahterpencil, fasilitas Pengangkutan dan Penyimpanan termasuk fasilitas penunjangnya, dapat dimanfaatkan
 
-(5) Ketentuan…
+bersama pihak lain. (2) Pelaksanaanpemanfaatanfasilitassebagaimanadimaksuddalamayat(1)diaturolehBadan
 
-(5) Ketentuanmengenaipenetapanbesarnyabagiannegara,pungutannegara,danbonus sebagaimana dimaksud dalam ayat (3), serta tata cara penyetorannya diatur lebih lanjut dengan Peraturan Pemerintah. (6) PenerimaanNegaraBukanPajaksebagaimanadimaksuddalamayat(3)merupakanpenerimaan Pemerintah Pusat dan Pemerintah Daerah, yang pembagiannya ditetapkan sesuai dengan
-
-- ketentuan peraturan perundang-undangan yang berlaku.
+- Pengatur dengan tetap mempertimbangkan aspek teknis dan ekonomis.
 
 ## Penjelasan Resmi
 

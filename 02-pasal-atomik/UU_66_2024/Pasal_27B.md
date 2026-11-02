@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pelaksanaan tugas penegakan peraturan perundangundangan di bidang Pelayaran sebagaimana dimaksud dalam Pasal 276, dalam rangka penyidikan dilaksanakan oleh pejabat penyidik pegawai negeri sipil.
+Pelaksanaan tugas penegakan peraturan perundangundangan di bidang Pelayaran sebagaimana dimaksud dalam
+
+Pasal 276, dalam rangka penyidikan dilaksanakan oleh pejabat penyidik pegawai negeri sipil.
 
 59. Ketentuan Pasal 279 dihapus.
 60. Ketentuan Pasal 280 dihapus.

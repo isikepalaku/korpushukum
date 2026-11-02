@@ -18,13 +18,11 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan mengenai usaha Pengolahan, Pengangkutan, Penyimpanan, dan Niaga sebagaimana dimaksud dalam Pasal 23, Pasal 24, Pasal 25, Pasal 26, Pasal 27, Pasal 28, dan Pasal 29 diatur lebih lanjut dengan Peraturan Pemerintah.
+Ketentuan mengenai usaha Pengolahan, Pengangkutan, Penyimpanan, dan Niaga sebagaimana dimaksud dalam
 
-BAB VI PENERIMAAN NEGARA Pasal 31
+Pasal 23, Pasal 24, Pasal 25, Pasal 26, Pasal 27, Pasal 28, dan Pasal 29 diatur lebih lanjut dengan Peraturan Pemerintah.
 
-(1) BadanUsahaatauBentukUsahaTetapyangmelaksanakanKegiatanUsahaHulusebagaimana dimaksud dalam Pasal 11 ayat (1) wajib membayar penerimaan negara yang berupa pajak dan Penerimaan Negara Bukan Pajak.
-
-- (2) Penerimaannegarayangberupapajaksebagaimanadimaksuddalamayat(1)terdiriatas:
+BAB VI PENERIMAAN NEGARA
 
 ## Penjelasan Resmi
 

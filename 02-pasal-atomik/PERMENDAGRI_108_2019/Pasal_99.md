@@ -23,7 +23,10 @@ Pencatatan
 perjanjian 
 perkawinan 
 sebagaimana 
-dimaksud dalam Pasal 98 dengan memenuhi persyaratan 
+dimaksud dalam
+
+Pasal 98
+dengan memenuhi persyaratan 
 berupa: 
 a. akta perjanjian perkawinan yang dibuat dengan akta 
 notaris yang berkedudukan di wilayah Negara 

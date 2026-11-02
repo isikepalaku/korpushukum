@@ -22,6 +22,8 @@ nama, tempat dan tanggal lahir, alamat dan jatidiri lainnya
 secara lengkap, serta perubahan data sehubungan dengan
 Peristiwa Penting dan Peristiwa Kependudukan yang dialami.
 
+Pasal 61 . . .
+
 ## Penjelasan Resmi
 
 Kata “paling sedikit” dalam ketentuan ini dimaksudkan untuk

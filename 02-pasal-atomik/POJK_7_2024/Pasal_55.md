@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) OJK melakukan penelitian terhadap laporan mengenai
-Pejabat Eksekutif sebagaimana dimaksud dalam Pasal 54.
+Pejabat Eksekutif sebagaimana dimaksud dalam
+
+Pasal 54.
 (2) Dalam hal Pejabat Eksekutif sebagaimana dimaksud pada
 ayat (1) termasuk sebagai pihak yang dilarang menjadi
 pihak utama lembaga jasa keuangan, BPR atau BPR

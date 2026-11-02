@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Koordinasi dan sinkronisasi sebagaimana dimaksud dalam Pasal 413 dilakukan dengan memperhatikan transparansi, kontinuitas, akuntabilitas, keprofesionalan, dan keterpaduan pelayanan serta mengedepankan kepentingan masyarakat.
+Koordinasi dan sinkronisasi sebagaimana dimaksud dalam
+
+Pasal 413
+dilakukan dengan memperhatikan transparansi, kontinuitas, akuntabilitas, keprofesionalan, dan keterpaduan pelayanan serta mengedepankan kepentingan masyarakat.
 
 ## I:r{JIITII'XL\FI'IIT{TI
 

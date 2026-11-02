@@ -24,7 +24,10 @@ dan
 Pusat 
 Data 
 Cadangan 
-sebagaimana dimaksud dalam Pasal 56 huruf e dan huruf g, 
+sebagaimana dimaksud dalam
+
+Pasal 56
+huruf e dan huruf g, 
 dilakukan terhadap: 
 a. 
 perangkat pendingin ruangan; 

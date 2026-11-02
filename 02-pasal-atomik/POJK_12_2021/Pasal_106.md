@@ -19,27 +19,29 @@ mengamandemen: []
 
 (1) Permohonan untuk memperoleh izin usaha
 
-sebagaimana dimaksud dalam Pasal 102 huruf b
+sebagaimana dimaksud dalam
+
+Pasal 102
+huruf b
 
 diajukan oleh pihak yang telah memperoleh
 
 persetujuan prinsip kepada OJK, disertai dengan:
 
-a. dokumen sebagaimana dimaksud dalam Pasal
-
-103 ayat (1) huruf h sampai dengan huruf k,
+a. dokumen sebagaimana dimaksud dalam Pasal 103 ayat (1) huruf h sampai dengan huruf k,
 
 huruf m, dan huruf n jika terjadi perubahan;
 
-b. dokumen sebagaimana dimaksud dalam Pasal
-
-103 ayat (1) huruf i, huruf m, dan huruf n dalam
+b. dokumen sebagaimana dimaksud dalam Pasal 103 ayat (1) huruf i, huruf m, dan huruf n dalam
 
 bahasa Indonesia;
 
 c. bukti pelunasan CEMA sebagaimana dimaksud
 
-dalam Pasal 101 ayat (1) huruf d atau
+dalam
+
+Pasal 101
+ayat (1) huruf d atau
 
 ayat (2), dalam bentuk salinan bilyet deposito
 

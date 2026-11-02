@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Koperasi yang memilih menjadi LJK yang melanggar
-ketentuan sebagaimana dimaksud dalam Pasal 8 ayat
+ketentuan sebagaimana dimaksud dalam
+
+Pasal 8
+ayat
 (2), Pasal 10 ayat (5), ayat (8), dan Pasal 11 ayat (1), ayat
 (3) dikenai sanksi administratif berupa peringatan
 tertulis.

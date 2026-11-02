@@ -21,6 +21,11 @@ mengamandemen: []
 Setiap Pihak yang tidak mematuhi atau menghambat
 pelaksanaan ketentuan sebagaimana dimaksud dalam
 
+Pasal 100
+diancam dengan pidana kurungan paling
+lama 1 (satu) tahun dan denda paling banyak
+Rp1.000.000.000,00 (satu miliar rupiah).
+
 ## Penjelasan Resmi
 
 Cukup jelas.

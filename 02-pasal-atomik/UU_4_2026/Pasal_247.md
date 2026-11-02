@@ -43,6 +43,19 @@ mengamandemen:
 
 98. Di antara Pasal 248 dan Pasal 249 disisipkan 1 (satu) pasal, yakni Pasal 248A sehingga berbunyi sebagai berikut:
 
+**Pasal 248A**
+
+- (1) Dalam rangka mewujudkan visi nasional menuju pertumbuhan ekonomi yang berkelanjutan, serta mendorong pendalaman dan diversifikasi perekonomian nasional melalui kontribusi yang efektif terhadap sektor keuangan, Pemerintah membentuk Pusat Finansial Internasional Indonesia.
+2. (21 Pusat Finansial Internasional Indonesia sebagaimana dimaksud pada ayat (1) merupakan wilayah yang memiliki kemandirian keuangan dan administrasi serta kekhususan hukum tertentu yang mengadopsi, menginkorporasi, menerapkan, dan/ atau menyesuaikan dengan prinsip dan/ atau standar internasional.
+- (3) Pemerintah dapat menetapkan I (satu) atau lebih Pusat Finansial Internasional Indonesia.
+- (4) Kegiatan usaha pada Pusat Finansial Internasional Indonesia mencakup kegiatan usaha sektor keuangan, kegiatan usaha penunjang sektor keuangan, dan kegiatan usaha sektor lainnya.
+- (5) Pusat Finansia-l Internasional Indonesia dikelola oleh dewan Pusat Finansial Internasional Indonesia.
+- (6) Dalam rangka mencapai tqluan Pusat Finansial Internasional Indonesia sebagaimana dimaksud pada ayat (1), kegiatan usaha pada Pusat Finansial Internasional Indonesia diterapkan perlakuan perpajakan khusus, serta diberikan fasilitas perpajakan khusus dan fasilitas khusus lainnya.
+7. (71 Ketentuan mengenai penyelenggaraan Pusat Finansial Internasional Indonesia diatur secara khusus dengan Undang-Undang yang dibentuk paling lambat 3 (tiga) bulan terhitung sejak UndangUndang ini diundangkan.
+99. Ketentuan Pasal 25O diubah sehingga berbunyi sebagai berikut:
+
+**PRESIDEN REPUBLIK INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

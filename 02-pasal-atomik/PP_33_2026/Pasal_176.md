@@ -27,6 +27,10 @@ Pagal 177
 
 Lembaga dapat bekerja sama dengan lembaga Pelindungan Data Pribadi negara lain dalam rangka penyelesaian dugeaan pelanggaran Pelindungan Data Pribacli lintas negara.
 
+Pasal 178...
+
+**PRESIDEN REPUBLIX INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

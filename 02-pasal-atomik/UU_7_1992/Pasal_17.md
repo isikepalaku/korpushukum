@@ -21,7 +21,10 @@ mengamandemen: []
 
 Untuk mendapatkan izin usaha sebagai Bank Umum yang berbentuk
 bank campuran, wajib dipenuhi persyaratan sebagaimana dimaksud
-dalam Pasal 16 ayat (3) dan ayat (6), serta ketentuan yang ditetapkan
+dalam
+
+Pasal 16
+ayat (3) dan ayat (6), serta ketentuan yang ditetapkan
 dengan Peraturan Pemerintah, yang mengatur:
 
 a. jumlah kepemilikan dan kepengurusan pihak asing yang diizinkan;

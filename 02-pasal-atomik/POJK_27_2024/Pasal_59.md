@@ -20,7 +20,9 @@ mengamandemen: []
 Apabila terdapat kewajiban Penyelenggara Perdagangan Aset
 Keuangan Digital yang belum diselesaikan setelah tanggal
 keputusan pencabutan izin usaha sebagaimana dimaksud
-dalam Pasal 58, segala kewajiban menjadi tanggung jawab
+dalam
+
+Pasal 58, segala kewajiban menjadi tanggung jawab
 pemegang saham Penyelenggara Perdagangan Aset
 Keuangan Digital.
 

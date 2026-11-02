@@ -17,9 +17,34 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Syariah yang menyelenggarakan dan memasarkan PAYDI
-harus melampirkan dokumen lain sebagaimana dimaksud
-dalam ketentuan mengenai PAYDI.
+Dalam setiap permohonan persetujuan Produk Asuransi
+baru sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (1),
+Perusahaan Asuransi atau Perusahaan Asuransi Syariah
+harus melampirkan dokumen:
+a. hasil identifikasi dan penilaian sendiri yang telah
+mendapatkan penetapan dari komite pengembangan
+Produk Asuransi sebagaimana dimaksud dalam
+
+Pasal 31
+ayat (3) huruf c;
+b. formulir permohonan persetujuan Produk Asuransi;
+c. proyeksi pendapatan Premi/Kontribusi dan
+pengeluaran yang dikaitkan dengan pemasaran Produk
+Asuransi untuk jangka waktu 3 (tiga) tahun;
+d. deskripsi Produk Asuransi;
+e. spesimen Polis Asuransi;
+f. opini dari dewan pengawas syariah, untuk produk
+asuransi syariah; dan
+g. matriks perbandingan Produk Asuransi sebelum dan
+sesudah perubahan, jika Produk Asuransi baru yang
+dilaporkan merupakan pengembangan atas Produk
+Asuransi yang sudah dipasarkan dan mengakibatkan
+adanya perubahan material.
+
+-----
 
 ## Penjelasan Resmi
 

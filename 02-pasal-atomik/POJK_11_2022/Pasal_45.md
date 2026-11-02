@@ -17,13 +17,37 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-teguran tertulis.
+(1) Dalam menerapkan pelindungan data pribadi pada
 
-(2) Dalam hal Bank telah dikenai sanksi administratif
+kegiatan pertukaran data, Bank wajib menetapkan
 
-sebagaimana dimaksud pada ayat (1) dan belum
+paling sedikit:
 
-memenuhi ketentuan sebagaimana dimaksud dalam
+**t id**
+
+-----
+
+a. klasifikasi data yang merupakan data pribadi;
+
+b. hak dan kewajiban para pihak yang terlibat dalam
+
+pertukaran data pribadi;
+
+c. perjanjian pertukaran data pribadi;
+
+d. sarana pertukaran data pribadi; dan
+
+e. keamanan data pribadi.
+
+(2) Pertukaran data pribadi sebagaimana dimaksud
+
+pada ayat (1) dilakukan dengan memperhatikan
+
+persetujuan nasabah dan/atau calon nasabah yang
+
+dilaksanakan sesuai dengan ketentuan peraturan
+
+perundang-undangan.
 
 ## Penjelasan Resmi
 

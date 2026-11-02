@@ -4,7 +4,7 @@ judul: "Map of Content - Kepolisian Perubahan Ketiga"
 kode_uu: UU_5_2026
 type: moc
 tags: [moc, hukum/umum, uu/uu_5_2026]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Kepolisian Perubahan Ketiga (UU_5_2026)

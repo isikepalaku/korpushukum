@@ -69,7 +69,9 @@ memasyarakatkan Koperasi.
 Ayat (3)
 
 Agar Koperasi dapat mewujudkan fungsi dan peran seperti yang
-dimaksud dalam Pasal 4, maka Koperasi melaksanakan usaha di
+dimaksud dalam
+
+Pasal 4, maka Koperasi melaksanakan usaha di
 segala bidang kehidupan ekonomi dan berperan utama dalam
 kehidupan ekonomi rakyat. Yang dimaksud dengan kehidupan
 ekonomi rakyat adalah semua kegiatan ekonomi yang

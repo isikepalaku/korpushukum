@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai insentif atau disinsentif sebagaimana dimaksud dalam Pasal 228 dan Pasal 229 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai insentif atau disinsentif sebagaimana dimaksud dalam Pasal 228 dan
+
+Pasal 229
+diatur dengan Peraturan Pemerintah.
 
 ## Paragraf 2
 

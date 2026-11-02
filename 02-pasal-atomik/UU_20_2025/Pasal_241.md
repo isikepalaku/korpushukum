@@ -18,7 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Barang bukti sebagaimana dimaksud dalam pasal 235 ayat (l) huruf e mencakup:**
+**Barang bukti sebagaimana dimaksud dalam Pasal 235 ayat (l) huruf e mencakup:**
  a. alat atau sarana untuk melakukan tindak pidana; b. alat atau sarana yang menjadi objek tindak pidana;
  dan/ atau c. aset yang merupakan hasil tindak pidana.
 

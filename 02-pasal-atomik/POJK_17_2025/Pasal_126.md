@@ -23,7 +23,10 @@ dijamin atau ditanggung dengan nilai penjaminan atau
 nilai penanggungan paling sedikit 125% (seratus dua
 puluh lima persen) dari nilai penghimpunan dana,
 kriteria Pemodal dan batasan pembelian Efek
-sebagaimana dimaksud dalam Pasal 125 ayat (4) tidak
+sebagaimana dimaksud dalam
+
+Pasal 125
+ayat (4) tidak
 berlaku.
 (2) Nilai jaminan sebagaimana dimaksud pada ayat (1)
 wajib ditentukan berdasarkan:

@@ -40,34 +40,47 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
+Dihapus. Angka 45
+
+Pasal 71
+Ayat (1) Rapat Dewan Komisioner meliputi rapat berkala dan rapat sewaktu-waktu. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Angka 46 Pasal 72 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "benturan kepentingan" adalah benturan yang timbul ketika kepentingan seseorang memungkinkan orang lain melakukan tindakan yang bertentangan dengan pihak tertentu, yang kepentingannya seharusnya dipenuhi oleh orang lain tersebut. Benturan kepentingan mencakup benturan kepentingan yang sudah terjadi atau yang berpotensi akan terjadi.
 ```
 
-Cukup jelas.
+Jenis ...
 
-Ayat (2)
+**Jenis benturan kepentingan adalah sebagai berikut:**
 
-Cukup jelas.
+- a. bersifat personal adalah benturan kepentingan yang timbul ketika pihak tertentu yang diwajibkan untuk bertindak atas kepentingan pihak lain berbenturan dengan kepentingan pihak lain tersebut;
+- b. bersifat impersonal adalah benturan kepentingan yang timbul ketika suatu pihak diwajibkan untuk bertindak atas kepentingan dua pihak yang berbeda yang kepentingannya berbenturan; dan
+- c. benturan kepentingan individual (berdasarkan kepentingan organisatoris) adalah benturan kepentingan ketika pihak tertentu atas organisasi tertentu melakukan tindakan untuk memenuhi kepentingan organisasi lain yang keduanya mempunyai benturan kepentingan.
 
-Ayat (3)
+Syarat ini dimaksudkan untuk mengurangi potensi benturan kepentingan dan untuk mewujudkan tata kelola (governance) yang baik dalam Lembaga Penjamin Simpanan.
 
-Cukup jelas.
+Benturan kepentingan pribadi tidak termasuk kepentingan yang diperoleh sebagai Nasabah Penyimpan Bank dan pemegang saham publik.
 
-Ayat (4)
+**Ayat (4)**
 
 Cukup jelas.
 
 Ayat (5)
 
-Cukup jelas.
+Angka 47
 
-Ayat (6)
+Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas.
 
-Cukup jelas.
+Pasal 73
+Dihapus.
 
-Ayat (7)
+Angka 48 ...
 
-Cukup jelas.
+```
+Angka 48
 
-Ayat (8)
+Pasal 74A Cukup jelas. Angka 49 Cukup jelas. Angka 50 Pasal 77 Dihapus. Angka 51 Pasal 78 Ayat (1) Sistern penggajian yang diberlakukan mempertimbangkan sistem yang berlaku pada industri atau pengawas perbankan. Ayat (2) Cukup jelas. Angka 52 Pasal 79 Ayat (1) Cukup jelas. Ayat (2)
+```
 
-Hal yang akan diatur dalam Peraturan Otoritas Jasa Keuangan di antaranya mencakup kewajiban, hak, dan larangan bagi anggota Direksi Usaha Bersama dalam rangka pelaksanaan tugas, wewenang, dan tanggung jawab.
+Yang dimaksud dengan "biaya penyelesaian perkara" adalah biaya bantuan hukum kepada anggota Dewan Komisioner atau mantan anggota Dewan Komisioner, mantan Kepala Eksekutif, dan/ atau pegawai Lembaga Penjamin Simpanan atau mantan pegawai Lembaga Penjamin Simpanan dalam perkara tuntutan ganti rugi dimaksud, termasuk biaya perkara yang diputuskan oleh pengadilan atas perkara tersebut.
+
+Angka 53 ...
+
+**Angka 53**

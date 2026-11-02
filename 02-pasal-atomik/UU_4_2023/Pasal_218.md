@@ -19,6 +19,8 @@ mengamandemen: []
 
 Penyelenggara ITSK wajib memenuhi ketentuan perizinan yang diatur oleh Bank Indonesia atau Otoritas Jasa Keuangan sesuai dengan kewenangan masing-masing.
 
+Pasal 219 ...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

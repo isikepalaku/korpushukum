@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan dengan status pengawasan intensif
-sebagaimana dimaksud dalam Pasal 217 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 217
+ayat (2) huruf
 b ditetapkan oleh Otoritas Jasa Keuangan untuk jangka
 waktu paling lama 1 (satu) tahun sejak tanggal surat
 pemberitahuan Otoritas Jasa Keuangan.
@@ -28,7 +31,9 @@ pemberitahuan Otoritas Jasa Keuangan.
 (2) Apabila jangka waktu status pengawasan intensif
 sebagaimana dimaksud pada ayat (1) berakhir dan
 Perusahaan masih memenuhi kriteria sebagaimana
-dimaksud dalam Pasal 218, Otoritas Jasa Keuangan
+dimaksud dalam
+
+Pasal 218, Otoritas Jasa Keuangan
 dapat menetapkan perpanjangan jangka waktu
 status pengawasan Perusahaan paling banyak 1
 (satu) kali untuk jangka waktu paling lama 1 (satu)

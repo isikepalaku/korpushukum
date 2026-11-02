@@ -39,6 +39,12 @@ PRESIDEN REPUELIK TNDONESIA -33-
 
 - (4) Pembebanan biaya pengiriman Barang kepada Konsumen dapat dilakukan jika kontribusi kesalahan terjadi karena ketidaktelitian Konsumen.
 
+**Pasal 70**
+
+- (1) Dalam hal obyek PMSE merupakan Jasa pelaksanaan suatu pekerjaan, pemenuhan pelaksanaan pekerjaan yang diperjanjikan dilakukan sebagaimana mestinya sesuai prinsip praktik bisnis yang berkembang berdasarkan pengalaman atau kemampuan terbaik dalam melakukan suatu tata kelola yang baik terhadap suatu pekerjaan dan peraturan perundang-undangan.
+
+- (2) Dalam hal terjadi wanprestasi terhadap pelaksanaan pekerjaan yang dilakukan melalui PMSE, para pihak dapat menyepakati penggantian pekerjaan dengan pekerjaan lain yang sebanding sebagai salah satu bentuk kompensasi atau melakukan pembatalan perjanjian sesuai dengan ketentuan peraturan perrrndangundangan.
+
 ## Penjelasan Resmi
 
 Cukupjelas.

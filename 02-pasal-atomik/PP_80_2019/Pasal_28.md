@@ -36,7 +36,10 @@ PRESIDEN REPUBLIK INEONESIA -t7-
 ## Penjelasan Resmi
 
 Ayat (1)
-Bukti transaksi PMSE yang sah mengacu pada Pasal 5 dan Pasal 6 Undang-Undang Nomor 11 tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan UndangUndang Nomor 19 Tahun 2016 tentang Perubahan Atas UndangUndang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik. 
+Bukti transaksi PMSE yang sah mengacu pada Pasal 5 dan
+
+Pasal 6
+Undang-Undang Nomor 11 tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan UndangUndang Nomor 19 Tahun 2016 tentang Perubahan Atas UndangUndang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik. 
 
 Ayat (2) 
 

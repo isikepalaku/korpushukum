@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum melakukan perbuatan sebagaimana dimaksud dalam Pasal 27 sampai dengan Pasal 34 yang mengakibatkan kerugian bagi Orang lain.
+Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum melakukan perbuatan sebagaimana dimaksud dalam Pasal 27 sampai dengan
+
+Pasal 34
+yang mengakibatkan kerugian bagi Orang lain.
 
 ## Penjelasan Resmi
 

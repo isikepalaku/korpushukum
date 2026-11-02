@@ -36,3 +36,7 @@ Yang dimaksud dengan Penawaran Secara Elektronik dilakukan secara terbatas adala
 Ayat (2) 
 
 Ketentuan peraturan perundang-undangan yang dimaksud antara lain ketentuan peraturan perundang-undangan di bidang perlindungan Konsumen dan periklanan.
+
+Pasal 39... 
+
+PRESIDEN REPUBLIK INDONES|A _ 15_

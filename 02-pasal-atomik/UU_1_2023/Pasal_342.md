@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '342'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,5 +23,15 @@ mengamandemen: []
 - (3) Bahan berbahaya sebagaimana dimaksud pada ayat (1) dan ayat (2) dapat dirampas untuk negara.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Yang dimaksud dengan "bahan" tidak sqia bahan makanan, tetapi juga meliputi kosmetika, pembersih rumah tangga, dan lain sebagainya.
+
+Ayat(21
+
+Cukup jelas.
+
+Ayat (3)
 
 Cukup jelas.

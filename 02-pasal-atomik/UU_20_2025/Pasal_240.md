@@ -18,7 +18,25 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(1) Keterangan Terdakwa sebagaimana dimaksud dalam**
+**(1) Keterangan Terdakwa sebagaimana dimaksud dalam**Pasal 235 ayat (l) huruf d merupakan segala hal yang
+**dinyatakan oleh Terdakwa dalam pemeriksaan di**
+sidang pengadilan mengenai perbuatan yang dilakukan
+**atau diketahui sendiri atau dialami sendiri. (21 Keterangan Terdakwa yang diberikan di luar pemeriksaan**
+ di sidang pengadilan dapat digunakan untuk membantu menemukan bukti dalam pemeriksaan di sidang pengadilan, dengan ketentuan ba-hwa keterangan tersebut didukung oleh suatu alat bukti yang sah
+sepanjang mengenai hal yang didakwakan kepadanya.
+
+(3) Keterangan . . .
+
+-----
+
+PTIESIDEN
+REPUBUK INDONESIA
+
+**-l2a-**
+
+**(3) Keterangan Terdakwa hanya dapat digunakan**
+ terhadap dirinya sendiri. (41 Keterangan Terdakwa saja tidak cukup untuk
+ membuktikan bahwa Terdakwa bersalah melalukan perbuatan yang didakwakan kepadanya, melainkan harus disertai dengan alat bukti yang sah lainnya.
 
 ## Penjelasan Resmi
 

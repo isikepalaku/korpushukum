@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '589'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -32,4 +32,4 @@ Bagian Keempat Tindak Pidana Asuransi Pesawat Udara
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan yang diatur dalam Pasal ini adalah tindakan berupa pemberitahuan palsu, misalnya melalui telepon atau alat komunikasi lainnya tentang adanya bom dalam Pesawat Udara. Dengan pemberitahuan palsu tersebut, yang dikenal dengan istilah bomb hoax, sudah dapat menimbulkan kepanikan bagi awak serta Penumpang yang dapat menyebabkan bahaya bagi Pesawat Udara.

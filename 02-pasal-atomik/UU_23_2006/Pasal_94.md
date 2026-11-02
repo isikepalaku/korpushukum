@@ -25,6 +25,12 @@ sebagaimana
 dimaksud
 dalam
 
+Pasal 77
+dipidana dengan pidana penjara paling lama 2 (dua) tahun
+dan/atau denda paling banyak
+Rp 25.000.000,00 (dua puluh
+lima juta rupiah).
+
 ## Penjelasan Resmi
 
 Cukup jelas.

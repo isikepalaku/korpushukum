@@ -32,9 +32,7 @@ Usaha Kecit sebagaimana dimaksud [pada ][ayat ][(1).]
 
 ## Penjelasan Resmi
 
-**Cukup jelas**
-
-Pasal
+**Cukup jelas**Pasal
 
 -----
 

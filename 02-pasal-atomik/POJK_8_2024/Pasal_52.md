@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pemasaran Produk Asuransi melalui _Bancassurance_
-sebagaimana dimaksud dalam Pasal 48 ayat (1) huruf c
+sebagaimana dimaksud dalam
+
+Pasal 48
+ayat (1) huruf c
 dapat diselenggarakan dengan model bisnis:
 a. referensi;
 b. distribusi; dan/atau

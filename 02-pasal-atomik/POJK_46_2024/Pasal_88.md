@@ -18,7 +18,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-91, Pasal 93 ayat (6), Pasal 94 ayat (1) dan ayat (2),
+Perusahaan pembiayaan wajib memiliki rasio Modal Inti
+terhadap Modal Disetor paling rendah 50% (lima puluh
+persen).
+
+46. Judul BAB XIX diubah sehingga berbunyi sebagai
+berikut:
+
+BAB XIX
+TINGKAT KESEHATAN
+
+47. Ketentuan
+
+Pasal 89
+diubah sehingga berbunyi sebagai
+berikut:
 
 ## Penjelasan Resmi
 
@@ -27,3 +41,5 @@ Cukup jelas.
 Angka 46
 
 Cukup jelas.
+
+Angka 47

@@ -27,16 +27,25 @@ masa jabatan 5 (lima) tahun;
 
 b. 3 (tiga) orang anggota Dewan Direktur sebagaimana
 
-dimaksud dalam Pasal 25 ayat (2) huruf a diangkat untuk
+dimaksud dalam
+
+Pasal 25
+ayat (2) huruf a diangkat untuk
 masa jabatan 4 (empat) tahun;
 
 c. 3 (tiga) orang anggota Dewan Direktur sebagaimana
-dimaksud dalam Pasal 25 ayat (2) huruf a diangkat untuk
+dimaksud dalam
+
+Pasal 25
+ayat (2) huruf a diangkat untuk
 masa jabatan 3 (tiga) tahun;
 
 d. paling banyak 3 (tiga) orang anggota Dewan Direktur
 
-sebagaimana dimaksud dalam Pasal 25 ayat (2) huruf b
+sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (2) huruf b
 yang berasal dari luar LPEI yang bukan merupakan
 Ketua Dewan Direktur diangkat untuk masa jabatan 4
 (empat) tahun; dan
@@ -47,7 +56,10 @@ e. 1 (satu) orang . . .
 
  - 19
 e. 1 (satu) orang anggota Dewan Direktur sebagaimana
-dimaksud dalam Pasal 25 ayat (2) huruf b yang berasal
+dimaksud dalam
+
+Pasal 25
+ayat (2) huruf b yang berasal
 dari dalam LPEI yang bukan merupakan Ketua Dewan
 Direktur diangkat untuk masa jabatan 3 (tiga) tahun.
 

@@ -19,7 +19,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pertanggunglawaban atas Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 48 dikenakan terhadap Korporasi, pengurus yang mempunyai kedudukan fungsional, pemberi perintah, pemegang kendali, dan/ atau pemilik manfaat Korporasi.
+Pertanggunglawaban atas Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam
+
+Pasal 48
+dikenakan terhadap Korporasi, pengurus yang mempunyai kedudukan fungsional, pemberi perintah, pemegang kendali, dan/ atau pemilik manfaat Korporasi.
 
 ## Penjelasan Resmi
 

@@ -17,7 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-- (1) Pengendali Data Pribadi menginformasikan pelaksanaan pemrosesan Data Pribadi sebagaimana dimaksucl dalam Pasai 46 kepada Subjek Data Pribadi.
+- (1) Pengendali Data Pribadi menginformasikan pelaksanaan pemrosesan Data Pribadi sebagaimana dimaksucl dalam Pasal 46 kepada Subjek Data Pribadi.
 
 - (2) Informasi sebagaimana dimaksud pada ayat (1) meliputi: a. tindakan yang dilakukan pasca berakhirnya tujuan pemrosesan Data Pribadi;
 

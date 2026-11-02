@@ -34,6 +34,26 @@ mengamandemen:
 
 - 61b. Di antara Pasal 9O dan Pasal 91 disisipkan I (satu) pasal, yakni Pasal 9OA sehingga berbunyi sebagai berikut:
 
+**Pasal 90A**
+
+- (U Dalam rangka mendukung pelaksanaan tugasnya, Lembaga Penjamin Simpanan melaksanakan program edukasi serta pemberdayaan masyarakat dan lingkungan yang dilakukan secara inklusif.
+- (21 Ketentuan mengenai program edukasi serta pemberdayaan masyarakat dan lingkungan yang dilakukan secara inklusif sebagaimana dimaksud pada ayat (1) dan tata kelolanya diatur dengan Peraturan Lembaga Penjamin Simpanan.
+28. Ketentuan Pasal 95A pada angka 65 dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:
+
+**Pasal 95A**
+
+Pemegang saham, anggota direksi, dan anggota dewan komisaris serta pegawai dan mantan pegawai Bank Dalam Resolusi atau Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang melanggar ketentuan mengenai kewajiban pemberian data dan informasi sebagaimana dimaksud dalam
+
+Pasal 24
+ayat (21 atau Pasal 24A ayat (2) dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan/ atau pidana denda paling banyak kategori III.
+
+29. Ketentuan . . .
+
+**PRESIDEN REPUBUK INDONESIA**
+
+- -39-
+29. Ketentuan Pasal 6 pada angka 4 dalam Pasal 8 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

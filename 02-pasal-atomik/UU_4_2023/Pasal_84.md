@@ -30,7 +30,10 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Pasal 85 Ayat (1) Ayat (2) Cukup jelas. Pasal 86 Cukup jelas. Pasal 87 Ayat (1)
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4)
+
+Pasal 85
+Ayat (1) Ayat (2) Cukup jelas. Pasal 86 Cukup jelas. Pasal 87 Ayat (1)
 ```
 
 ```
@@ -40,5 +43,8 @@ Cukup jelas.
 Ayat (2) ...
 
 ```
-Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Pasal 88 Cukup jelas. Pasal 89 Ayat (1) Yang dimaksud dengan "pihak lain" adalah pihak selain Perusahaan Asuransi dan Perusahaan Asuransi Syariah, dengan tetap memperhatikan ketentuan peraturan perundang-undangan. Ayat (2) Cukup jelas. Pasal 90 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Data dan informasi yang disampaikan Otoritas Jasa Keuangan termasuk pada saat penetapan status Perusahaan Asuransi dan Perusahaan Asuransi Syariah dalam upaya penyehatan dan posisi terkini. Ayat (5) Cukup jelas. Pasal 91 Cukup jelas.
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan.
+
+Pasal 88
+Cukup jelas. Pasal 89 Ayat (1) Yang dimaksud dengan "pihak lain" adalah pihak selain Perusahaan Asuransi dan Perusahaan Asuransi Syariah, dengan tetap memperhatikan ketentuan peraturan perundang-undangan. Ayat (2) Cukup jelas. Pasal 90 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Data dan informasi yang disampaikan Otoritas Jasa Keuangan termasuk pada saat penetapan status Perusahaan Asuransi dan Perusahaan Asuransi Syariah dalam upaya penyehatan dan posisi terkini. Ayat (5) Cukup jelas. Pasal 91 Cukup jelas.
 ```

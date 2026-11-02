@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai pengadaan Tenaga Medis dan Tenaga Kesehatan sebagaimana dimaksud dalam PasaL 2O7 sampai dengan Pasal 225 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai pengadaan Tenaga Medis dan Tenaga Kesehatan sebagaimana dimaksud dalam Pasal 2O7 sampai dengan
+
+Pasal 225
+diatur dengan Peraturan Pemerintah.
 
 ## Bagian Keempat
 

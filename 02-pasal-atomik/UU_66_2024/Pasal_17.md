@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai kegiatan Angkutan Laut Pelayaran-Ralryat sebagaimana dimaksud dalam Pasal 15 sampai dengan Pasal L6 diatur dalam Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai kegiatan Angkutan Laut Pelayaran-Ralryat sebagaimana dimaksud dalam
+
+Pasal 15
+sampai dengan Pasal L6 diatur dalam Peraturan Pemerintah.
 
 - Judul Bagian Kelima Bab V diubah sehingga berbunyi sebagai berikut: 5
 

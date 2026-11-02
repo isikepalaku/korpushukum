@@ -21,10 +21,15 @@ mengamandemen: []
 (1) 
 Pencatatan perkawinan WNI di luar wilayah Negara 
 Kesatuan Republik Indonesia sebagaimana dimaksud 
-dalam Pasal 50 ayat (1) huruf c dan perkawinan WNI 
+dalam
+
+Pasal 50
+ayat (1) huruf c dan perkawinan WNI 
 dengan Orang Asing di luar wilayah Negara Kesatuan 
-Republik Indonesia sebagaimana dimaksud dalam Pasal 
-50 ayat (1) huruf e, dilaporkan pada Perwakilan Republik 
+Republik Indonesia sebagaimana dimaksud dalam
+
+Pasal 50
+ayat (1) huruf e, dilaporkan pada Perwakilan Republik 
 Indonesia dengan memenuhi persyaratan sesuai dengan 
 ketentuan Peraturan Presiden mengenai persyaratan dan 
 tata cara Pendaftaran Penduduk dan Pencatatan Sipil. 

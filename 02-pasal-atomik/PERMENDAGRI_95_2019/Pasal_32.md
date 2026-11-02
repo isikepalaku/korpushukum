@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Manajer pusat pelayanan bantuan dan call center 
-sebagaimana dimaksud dalam Pasal 30 huruf d, melekat 
+sebagaimana dimaksud dalam
+
+Pasal 30
+huruf d, melekat 
 pada pejabat administrator yang membidangi tata kelola 
 dan sumber daya manusia teknologi informasi dan 
 komunikasi. 

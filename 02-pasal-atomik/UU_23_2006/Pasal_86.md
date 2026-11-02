@@ -18,8 +18,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(dua) tahun dan/atau denda paling banyak Rp 25.000.000,00
-(dua puluh lima juta rupiah).
+(1)
+Menteri sebagai penanggung jawab memberikan hak akses
+kepada
+petugas
+pada
+Penyelenggara
+dan
+Instansi
+Pelaksana untuk memasukkan, menyimpan, membaca,
+mengubah, meralat dan menghapus, mengkopi Data serta
+mencetak Data Pribadi.
+(2) Ketentuan lebih lanjut mengenai persyaratan, ruang
+lingkup, dan tata cara mengenai pemberian hak akses
+sebagaimana dimaksud pada ayat (1) diatur dalam
+Peraturan Pemerintah.
 
 ## Penjelasan Resmi
 

@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Permohonan perbaikan sertifikat Jaminan Fidusia
 
-sebagaimana dimaksud dalam Pasal 13 dilakukan
+sebagaimana dimaksud dalam
+
+Pasal 13
+dilakukan
 
 verifikasi oleh verifikator dalam jangka waktu 3 (tiga) hari
 

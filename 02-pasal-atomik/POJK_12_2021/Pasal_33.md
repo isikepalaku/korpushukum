@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Kepemilikan Bank BHI oleh badan hukum
 
-sebagaimana dimaksud dalam Pasal 13 ayat (1) paling
+sebagaimana dimaksud dalam
+
+Pasal 13
+ayat (1) paling
 
 tinggi sejumlah modal sendiri bersih badan hukum
 

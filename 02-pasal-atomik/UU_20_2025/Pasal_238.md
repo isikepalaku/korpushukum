@@ -20,6 +20,22 @@ mengamandemen: []
 
 **(1) Keterangan Ahli sebagaimana dimaksud dalam**
 
+Pasal 235
+ayat (1) huruf b disampaikan secara langsung di sidang pengadilan di bawah sumpah atau janji mengenai apa yang diketahui sesuai dengan**
+ keahliannya.
+**(21 Dalam memberikan keterangan di depan sidang**
+
+**pengadilan Ahli tidak wajib menyampaikan surat tugas atau izin dari institusi atau lembaga dimana Ahli bekerja.**
+
+(3) Ketentuan. . .
+
+-----
+
+**ilITiEIEtrN ]IEPUBUK INDONESIA**
+
+ (3) Ketentuan sebagaimana dimaksud pada ayat (21
+ dikecualikan terhadap Ahli yang sebelum memberikan keterangan di depan sidang pengadilan perlu melakukan pemeriksaan, penelitian, atau pengamatan terlebih dahulu terkait perkara tersebut.
+
 ## Penjelasan Resmi
 
 **Ayat (1)**

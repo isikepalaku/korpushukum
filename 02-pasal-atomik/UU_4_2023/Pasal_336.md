@@ -17,7 +17,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Anggota Badan Supervisi Lembaga Penjamin Simpanan sebagaimana dimaksud dalam Pasal 89B dalam Pasal 7 angka 61 Undang-Undang ini dan Badan Supervisi Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 38B dalam Pasal 8 angka 19 Undang-Undang ini ditetapkan paling lambat 1 (satu) tahun terhitung sejak Undang-Undang ini diundangkan.
+Anggota Badan Supervisi Lembaga Penjamin Simpanan sebagaimana dimaksud dalam Pasal 89B dalam
+
+Pasal 7
+angka 61 Undang-Undang ini dan Badan Supervisi Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 38B dalam Pasal 8 angka 19 Undang-Undang ini ditetapkan paling lambat 1 (satu) tahun terhitung sejak Undang-Undang ini diundangkan.
+
+Pasal 337 ...
+
+**PRESIDEN REPUBUK INDONESIA**
+
+**-525 -**
 
 ## Penjelasan Resmi
 

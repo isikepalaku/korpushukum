@@ -58,4 +58,9 @@ Huruf b
 Cukup jelas.
 Huruf c
 
-Lihat penjelasan Pasal 98 ayat (2) huruf c.
+Lihat penjelasan
+
+Pasal 98
+ayat (2) huruf c.
+
+Angka 55

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang tanpa hak mengamfil s6fagian atau seluruh setoran Jemaah Umrah sebagaimana dimaksud dalam Pasal 117 dipidana dengan pidana penjara paling lama 8 (delapan) tahun dan/ atau pidana denda paling banyak kategori VI.
+Setiap Orang yang tanpa hak mengamfil s6fagian atau seluruh setoran Jemaah Umrah sebagaimana dimaksud dalam
+
+Pasal 117
+dipidana dengan pidana penjara paling lama 8 (delapan) tahun dan/ atau pidana denda paling banyak kategori VI.
 
 ## PRESIDEN REFUBLIK INDONESIA
 

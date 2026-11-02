@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '577'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,4 +25,8 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "tanda atau alat untuk pengamanan penerbangan" adalah fasilitas penerbangan yang digunakan oleh atau bagi pesawat agar dapat mendarat atau tinggal landas secara aman, seperti tanda atau alat landasan termasuk garis di tengah landasan, tanda penunjuk atau koordinat landasan, tanda ujung landasan dan tanda adanya rintangan landasan termasuk lampu tanda pemancar radio, lampu tanda gedung lalu lintas udara, dan lampu tanda gedung stasiun udara, dan 1"ir, 5slagainya.
+
+Pengertian "memasang tanda atau alat yang keliru" dapat juga berarti secara sengaja dan melawan hukum memasang secara keliru alat atau tanda yang benar.
+
+Yang dimaksud dengan "Pesawat Udara" adalah pesawat udara yang berada di darat, yaitu tidak Dalam Penerbangan atau masih dalam persiapan oleh awak darat atau oleh awak pesawat untuk penerbangan tertentu.

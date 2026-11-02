@@ -19,9 +19,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 Tata cara penghapusbukuan dan penghapustagihan piutang
-sebagaimana dimaksud dalam Pasal 32 ayat (2) dan Pasal 33
+sebagaimana dimaksud dalam Pasal 32 ayat (2) dan
+
+Pasal 33
 ayat (1) serta tata cara penghapusbukuan aktiva tetap
-sebagaimana dimaksud dalam Pasal 34 ayat (1) ditetapkan
+sebagaimana dimaksud dalam
+
+Pasal 34
+ayat (1) ditetapkan
 dalam Peraturan Menteri.
 
 Bagian Keempat

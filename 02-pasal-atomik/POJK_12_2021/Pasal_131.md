@@ -21,7 +21,10 @@ Status izin usaha KCBLN berakhir sejak tanggal keputusan
 
 OJK mengenai pencabutan izin usaha KCBLN sebagaimana
 
-dimaksud dalam Pasal 129 ayat (3).
+dimaksud dalam
+
+Pasal 129
+ayat (3).
 
 -----
 

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penyelenggara pelabuhan sebagaimana dimaksud dalam Pasal 81 ayat (1) diberi hak pengelolaan atas tanah dan pemanfaatan perairan sesuai dengan ketentuan peraturan perundang-undangan.
+Penyelenggara pelabuhan sebagaimana dimaksud dalam
+
+Pasal 81
+ayat (1) diberi hak pengelolaan atas tanah dan pemanfaatan perairan sesuai dengan ketentuan peraturan perundang-undangan.
 
 20. Ketentuan Pasal 86 diubah sehingga berbunyi sebagai berikut:
 

@@ -20,7 +20,9 @@ mengamandemen: []
 
 (1) Selain memenuhi ketentuan sebagaimana dimaksud
 
-dalam Pasal 6, Perusahaan Asuransi Umum,
+dalam
+
+Pasal 6, Perusahaan Asuransi Umum,
 
 Perusahaan Asuransi Umum Syariah, atau Unit
 
@@ -85,7 +87,10 @@ perluasan ruang lingkup usaha pada kegiatan usaha
 
 PAYDI dan tidak memenuhi ketentuan sebagaimana
 
-dimaksud pada ayat (1) dan/atau dalam Pasal 6 wajib
+dimaksud pada ayat (1) dan/atau dalam
+
+Pasal 6
+wajib
 
 menghentikan pemasaran PAYDI.
 

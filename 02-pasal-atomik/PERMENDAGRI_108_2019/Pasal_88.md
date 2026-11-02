@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pencatatan pembetulan akta Pencatatan Sipil sebagaimana 
-dimaksud dalam Pasal 86 huruf c dan huruf d, dilakukan 
+dimaksud dalam
+
+Pasal 86
+huruf c dan huruf d, dilakukan 
 pembetulan secara langsung oleh petugas sebelum diserahkan 
 kepada Pemohon. 
 www.peraturan.go.id

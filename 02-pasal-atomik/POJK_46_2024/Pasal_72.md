@@ -5,7 +5,7 @@ uu_induk: Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaa
 kode_uu: POJK_46_2024
 pasal: '72'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_46_2024
@@ -22,7 +22,10 @@ mengamandemen: []
 
 Perusahaan Syariah yang akan melakukan penerbitan
 sukuk tidak melalui penawaran umum sebagaimana
-dimaksud dalam Pasal 66 ayat (1) huruf e wajib
+dimaksud dalam
+
+Pasal 66
+ayat (1) huruf e wajib
 memenuhi persyaratan sebagai berikut:
 a. rencana penerbitan sukuk tidak melalui
 penawaran umum telah dicantumkan dalam
@@ -47,3 +50,5 @@ berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 29

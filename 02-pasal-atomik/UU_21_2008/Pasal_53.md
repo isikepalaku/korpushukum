@@ -24,6 +24,13 @@ mengamandemen: []
 pihak lainnya untuk dan atas nama Bank Indonesia,
 melaksanakan pemeriksaan sebagaimana dimaksud dalam
 
+Pasal 52
+ayat (2).
+
+(2) Persyaratan dan tata cara pemeriksaan sebagaimana
+dimaksud pada ayat (1) diatur dengan Peraturan Bank
+Indonesia.
+
 ## Penjelasan Resmi
 
 Ayat (1)

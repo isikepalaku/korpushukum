@@ -19,6 +19,10 @@ mengamandemen: []
 
 Kontrak Elektronik yang ditujukan kepada Konsumen di Indonesia harus menggunakan bahasa Indonesia.
 
+Pasal 56. . .
+
+PRESIDEN REPUBUK INDONESIA -27 -
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Operator aplikasi SIAK pada Satuan Kerja Pelaksana 
-sebagaimana dimaksud dalam Pasal 30 huruf s, melekat 
+sebagaimana dimaksud dalam
+
+Pasal 30
+huruf s, melekat 
 pada 
 jabatan 
 fungsional 

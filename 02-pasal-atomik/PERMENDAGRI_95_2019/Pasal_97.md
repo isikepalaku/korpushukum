@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) 
-Pemadanan data sebagaimana dimaksud dalam Pasal 95 
+Pemadanan data sebagaimana dimaksud dalam
+
+Pasal 95
 huruf 
 b, 
 merupakan 

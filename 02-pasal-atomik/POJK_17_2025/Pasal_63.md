@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Dalam hal terdapat perubahan material terkait
 dokumen dan/atau informasi sebagaimana dimaksud
-dalam Pasal 59 ayat (1) huruf b yang dapat
+dalam
+
+Pasal 59
+ayat (1) huruf b yang dapat
 memengaruhi keputusan investasi Pemodal,
 Penyelenggara wajib:
 a. memuat informasi dalam situs web Penyelenggara;

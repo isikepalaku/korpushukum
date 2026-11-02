@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '436'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,4 @@ Bagran Keempat Pengaduan Fitnah
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini mengatur mengenai penghinaan yang dilakukan dengan mengeluarkan perkataan yang tidak senonoh terhadap orang lain. Penghinaan tersebut dilakukan Di Muka Umum dengan lisan atau tulisan, atau di muka orang yang dihina itu sendiri baik secara lisan, tulisan, maupun dengan perbuatan atau dengan tulisan yang dikirimkan kepadanya.

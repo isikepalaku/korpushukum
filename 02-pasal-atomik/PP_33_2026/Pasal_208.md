@@ -41,6 +41,12 @@ mengamandemen: []
 
 - (4) Dalam hal Para Pihak yang Bersengketa menunjuk Mediator yang berasal dari Lembaga Mediasi sebagaimana dimaksud dalam Pasal 207 ayat (2) hurut b, Para Pihak yang Bersengketa harus melaksanakan proses Mediasi sesuai prosedur dan tata cara berdasarkan Peraturan Pemerintah ini,
 
+Pasal 210...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
+~ 112-
+
 ## Penjelasan Resmi
 
 Cukup jelas.

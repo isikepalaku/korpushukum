@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Perangkat pendukung sebagaimana dimaksud dalam Pasal 3 
+Perangkat pendukung sebagaimana dimaksud dalam
+
+Pasal 3
 ayat (1) huruf j, terdiri dari perangkat: 
 a. 
 pendingin ruangan; 

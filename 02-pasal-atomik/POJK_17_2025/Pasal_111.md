@@ -19,9 +19,15 @@ mengamandemen: []
 
 Dalam hal Penerbit tidak lagi memenuhi kriteria harta
 kekayaan bersih sebagai Penerbit sebagaimana dimaksud
-dalam Pasal 103 ayat (1) huruf c, laporan keuangan yang
+dalam
+
+Pasal 103
+ayat (1) huruf c, laporan keuangan yang
 dimuat dalam laporan tahunan sebagaimana dimaksud
-dalam Pasal 108 ayat (1) wajib menggunakan paling rendah
+dalam
+
+Pasal 108
+ayat (1) wajib menggunakan paling rendah
 standar akuntansi keuangan untuk entitas privat.
 
 Bagian Kelima

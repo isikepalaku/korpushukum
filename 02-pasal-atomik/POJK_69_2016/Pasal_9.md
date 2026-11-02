@@ -18,9 +18,12 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), ayat (2), ayat (4), dan ayat (5), Pasal 16
+ayat (1), ayat (2), ayat (4), dan ayat (5),
 
-ayat (1) dan ayat (2), Pasal 17, Pasal 18, Pasal 19,
+Pasal 16
+ayat (1) dan ayat (2),
+
+Pasal 17, Pasal 18, Pasal 19,
 
 ## Penjelasan Resmi
 

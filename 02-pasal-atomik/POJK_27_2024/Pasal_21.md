@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Bursa harus memenuhi persyaratan sistem
 pengawasan dan pelaporan sebagaimana dimaksud
-dalam Pasal 20 ayat (1) huruf b paling sedikit:
+dalam
+
+Pasal 20
+ayat (1) huruf b paling sedikit:
 a. akurat, aktual, aman, terpercaya, daring, real-time,
 serta kompatibel secara sistem maupun aplikasi
 dengan sistem Lembaga Kliring Penjaminan dan

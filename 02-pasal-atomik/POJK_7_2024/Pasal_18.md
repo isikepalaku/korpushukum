@@ -22,7 +22,10 @@ BUK atau BUS wajib mengumumkan kepada seluruh
 nasabah dan masyarakat mengenai perubahan izin usaha
 paling lama 10 (sepuluh) hari kerja setelah tanggal izin
 usaha sebagai BPR atau BPR Syariah berlaku
-sebagaimana dimaksud dalam Pasal 17 ayat (3).
+sebagaimana dimaksud dalam
+
+Pasal 17
+ayat (3).
 (2) Pengumuman sebagaimana dimaksud pada ayat (1)
 dilakukan melalui:
 a. pengumuman tertulis di seluruh kantor BPR atau

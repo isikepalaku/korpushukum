@@ -19,6 +19,12 @@ mengamandemen: []
 
 Penyelenggara Sistem Elektronik harus menerapkan manajemen risiko terhadap kemsakan atau kerugian yang ditimbulkan.
 
+Pasal 13. . .
+
+PRESIDEN BLIK TNDONESIA
+
+-t2-
+
 ## Penjelasan Resmi
 
 Yang dimaksud dengan "menerapkan manajemen risiko' adalah melakukan analisis risiko dan merumuskan langkah mitigasi dan penanggulangan untuk mengatasi ancaman, gangguan, dan hambatan terhadap Sistem Elektronik yang dikelolanya.

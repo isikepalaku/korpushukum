@@ -18,6 +18,27 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam hal Pihak Utama sebagaimana dimaksud dalam
+Pasal 60
+ayat (1) terindikasi terlibat dan/atau
+bertanggung jawab terhadap permasalahan integritas,
+kelayakan keuangan, reputasi keuangan, dan/atau
+kompetensi, Otoritas Jasa Keuangan melakukan
+penilaian kembali terhadap Pihak Utama dimaksud.
+(2) Penilaian kembali terhadap Pihak Utama sebagaimana
+dimaksud pada ayat (1) dilaksanakan sesuai dengan
+Peraturan Otoritas Jasa Keuangan mengenai penilaian
+kembali bagi Pihak Utama lembaga jasa keuangan.
+(3) Ketentuan lebih lanjut mengenai penilaian kembali
+terhadap Pihak Utama ditetapkan oleh Otoritas Jasa
+Keuangan.
+
+BAB VI
+TATA KELOLA
+
+Bagian Kesatu
+Prinsip Tata Kelola pada Penyelenggara Perdagangan
+
+Aset Keuangan Digital
 
 ## Penjelasan Resmi
 

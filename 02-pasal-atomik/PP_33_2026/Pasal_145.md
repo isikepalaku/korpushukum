@@ -29,6 +29,12 @@ mengamandemen: []
 
 - (2) Dalam melaksanakan tugas sebagaimana dimaksud pada ayat {l), PPDP memperhatikan msiko terkait pemrosesan Data Pribadi, dengan mempertimbangkan sifat, ruang lingkup, konteks, dan tujuan pemrosesan Data Pribadi.
 
+Pasal 146...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
+**ie**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

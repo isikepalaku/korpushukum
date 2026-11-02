@@ -19,6 +19,10 @@ mengamandemen: []
 
 Pengawasan terhadap Lembaga Sertifrkasi Keandalan dilaksanakan oleh Menteri.
 
+Pasal 78...
+
+FRESIDEN REPUBLIK TNDONESIA
+
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupj

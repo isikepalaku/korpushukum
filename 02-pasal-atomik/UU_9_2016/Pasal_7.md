@@ -20,6 +20,34 @@ mengamandemen: []
 
 (1) Dalam menjalankan tugas sebagaimana dimaksud dalam
 
+Pasal 5
+dan wewenang sebagaimana dimaksud dalam
+
+Pasal 6, Komite Stabilitas Sistem Keuangan dibantu oleh
+sekretariat Komite Stabilitas Sistem Keuangan yang
+dipimpin oleh sekretaris Komite Stabilitas Sistem
+Keuangan.
+
+(2) Anggaran sekretariat Komite Stabilitas Sistem Keuangan
+
+bersumber dari Anggaran Pendapatan dan Belanja Negara.
+
+(3) Sekretariat Komite Stabilitas Sistem Keuangan dapat
+
+menyelenggarakan rapat yang dihadiri oleh pejabat
+Kementerian Keuangan, Bank Indonesia, Otoritas Jasa
+Keuangan, dan Lembaga Penjamin Simpanan untuk
+mempersiapkan pelaksanaan rapat Komite Stabilitas
+Sistem Keuangan.
+
+(4) Organisasi dan tata kerja sekretariat Komite Stabilitas
+
+Sistem Keuangan ditetapkan oleh Menteri Keuangan
+sesuai dengan ketentuan peraturan perundang-undangan.
+
+Bagian Keempat
+Rapat dan Tata Cara Pengambilan Keputusan
+
 ## Penjelasan Resmi
 
 Cukup jelas.

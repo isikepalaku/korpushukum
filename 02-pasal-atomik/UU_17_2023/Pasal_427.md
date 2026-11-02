@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap perempuan yang melakukan aborsi tidak sesuai dengan kriteria yang dikecualikan sebagaimana dimaksud dalam Pasal 60 dipidana dengan pidana penjara paling lama 4 (empat) tahun.
+Setiap perempuan yang melakukan aborsi tidak sesuai dengan kriteria yang dikecualikan sebagaimana dimaksud dalam
+
+Pasal 60
+dipidana dengan pidana penjara paling lama 4 (empat) tahun.
 
 ## II-{JIFIIIXN]itrITIETA
 

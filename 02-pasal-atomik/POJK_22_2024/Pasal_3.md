@@ -17,14 +17,12 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Laporan Bulanan sebagaimana dimaksud dalam Pasal
-2 ayat (3) huruf a bagi Perusahaan Asuransi dan
+(1) Laporan Bulanan sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf a bagi Perusahaan Asuransi dan
 Perusahaan Reasuransi merupakan Laporan Bulanan
 sebagaimana diatur dalam Peraturan Otoritas Jasa
 Keuangan mengenai kesehatan keuangan Perusahaan
 Asuransi dan Perusahaan Reasuransi.
-(2) Laporan Bulanan sebagaimana dimaksud dalam Pasal
-2 ayat (3) huruf a bagi Perusahaan Asuransi Syariah,
+(2) Laporan Bulanan sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf a bagi Perusahaan Asuransi Syariah,
 Perusahaan Reasuransi Syariah, dan Unit Syariah
 merupakan Laporan Bulanan sebagaimana diatur
 dalam Peraturan Otoritas Jasa Keuangan mengenai

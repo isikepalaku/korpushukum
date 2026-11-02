@@ -18,8 +18,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 58 ayat (2), Pasal 59 ayat (1),
-ayat (2), dan/atau Pasal 60 dikenakan sanksi
+dimaksud dalam Pasal 58 ayat (2),
+
+Pasal 59
+ayat (1),
+ayat (2), dan/atau
+
+Pasal 60
+dikenakan sanksi
 administratif berupa:
 a. peringatan tertulis;
 b. penurunan tingkat kesehatan; dan/atau

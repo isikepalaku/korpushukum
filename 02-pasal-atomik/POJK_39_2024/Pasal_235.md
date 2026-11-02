@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan pemenuhan kewajiban Modal Disetor
-sebagaimana dimaksud dalam Pasal 6 ayat (2) tidak berlaku
+sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (2) tidak berlaku
 bagi Perusahaan yang telah memperoleh izin usaha dari
 Otoritas Jasa Keuangan sebelum Peraturan Otoritas Jasa
 Keuangan ini diundangkan.

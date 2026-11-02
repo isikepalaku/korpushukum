@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 192 ayat (1), ayat (2), ayat (3),
+dimaksud dalam
+
+Pasal 192
+ayat (1), ayat (2), ayat (3),
 dan/atau ayat (4) dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -69,7 +72,10 @@ PERMODALAN
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

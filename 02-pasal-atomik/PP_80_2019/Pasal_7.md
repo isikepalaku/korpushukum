@@ -4,7 +4,7 @@ uu_induk: Perdagangan Melalui Sistem Elektronik
 kode_uu: PP_80_2019
 pasal: '7'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/siber
 - uu/pp_80_2019
@@ -38,3 +38,7 @@ mengamandemen: []
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Pasal 8... 
+
+PRESIDEN REPUBLIK TNDONESIA -6-

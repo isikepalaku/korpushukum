@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 115 ayat (3), dikenakan sanksi
+dimaksud dalam
+
+Pasal 115
+ayat (3), dikenakan sanksi
 administratif berupa:
 a. peringatan tertulis;
 b. penghentian sementara, sebagian, atau seluruh

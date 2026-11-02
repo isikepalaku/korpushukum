@@ -31,7 +31,10 @@ Dalam rangka likuidasi Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang 
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 93 Cukup jelas. Pasal 94 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Pasal 95 Cukup jelas. Pasal 96 Cukup jelas. Pasal 97 Cukup jelas. Pasal 98 Cukup jelas. Pasal 99 Cukup jelas. Pasal 100 Cukup jelas. Pasal 101
+Cukup jelas.
+
+Pasal 93
+Cukup jelas. Pasal 94 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Pasal 95 Cukup jelas. Pasal 96 Cukup jelas. Pasal 97 Cukup jelas. Pasal 98 Cukup jelas. Pasal 99 Cukup jelas. Pasal 100 Cukup jelas. Pasal 101
 
 Peraturan Lembaga Penjamin Simpanan di antaranya mengatur keanggotaan tim likuidasi, jangka waktu pelaksanaan likuidasi, mekanisme pelaksanaan likuidasi oleh tim likuidasi, dan kewenangan tim likuidasi dari Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang dicabut izin usahanya.
 

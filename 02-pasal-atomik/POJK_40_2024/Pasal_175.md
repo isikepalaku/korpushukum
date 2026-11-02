@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penilaian terhadap faktor manajemen sebagaimana
-dimaksud dalam Pasal 16B ayat (2) huruf e meliputi
+dimaksud dalam
+
+Pasal 168
+ayat (2) huruf e meliputi
 penilaian terhadap komponen sebagai berikut:
 a. kualitas manajemen umum, termasuk pelaksanaan
 pemenuhan komitmen kepada Otoritas Jasa Keuangan

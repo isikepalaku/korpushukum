@@ -22,8 +22,7 @@ mengamandemen: []
 - (3) Ketentuan lebih lanjut mengenai calon petugas haji daerah sebagaimana dima}sud pada ayat (1) dan ayat (2) diatur dalam Peraturan Menteri.
 25. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut:
 
-## Pasa724
-
+## Pasal 24
 - (l) Kuota petugas haji daerah menggunakan kuota haji Indonesia.
 
 ## PRESIDEN REFUELIK INDOHESIA

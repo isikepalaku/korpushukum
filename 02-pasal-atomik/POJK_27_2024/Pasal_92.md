@@ -32,7 +32,10 @@ Transaksi Aset Keuangan Digital
 
 Ayat (1)
 
-Lihat penjelasan Pasal 37 ayat (1) huruf j.
+Lihat penjelasan
+
+Pasal 37
+ayat (1) huruf j.
 Ayat (2)
 
 Cukup jelas.

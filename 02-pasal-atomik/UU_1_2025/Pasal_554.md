@@ -24,7 +24,10 @@ mengamandemen: []
 Cukup jelas.
 
 ```
-Angka 9O Pasal 56 Cukup jelas. Angka 9l Pasal 56A Ayat (1) Hurufa Cukup jelas. Huruf b Cukup jelas. Huruf c
+Angka 9O
+
+Pasal 56
+Cukup jelas. Angka 9l Pasal 56A Ayat (1) Hurufa Cukup jelas. Huruf b Cukup jelas. Huruf c
 ```
 
 Yang dimaksud dengan ohubungan keluarga sampai dengan der4iat kedua" adalah:

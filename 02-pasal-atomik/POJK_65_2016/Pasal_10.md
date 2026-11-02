@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Kebijakan Manajemen Risiko sebagaimana dimaksud dalam Pasal 3 huruf b paling sedikit memuat:
+Kebijakan Manajemen Risiko sebagaimana dimaksud dalam
+
+Pasal 3
+huruf b paling sedikit memuat:
 
 - a. penetapan Risiko yang terkait dengan produk dan transaksi perbankan;
 

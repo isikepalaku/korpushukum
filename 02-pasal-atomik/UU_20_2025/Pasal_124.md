@@ -28,7 +28,14 @@ negeri tersebut sebagaimana dimaksud pada ayat (1).
 **(4) Dalam hal benda yang dimohonkan untuk disita**
 
 berada di luar negeri, Pengadilan Negeri Jakarta Pusat
-**berwenang memeriksa, Mengadili, dan memutus permohonan Penyitaan tersebut.**
+**berwenang memeriksa, Mengadili, dan memutus permohonan Penyitaan tersebut.**Pasal 125 . . .
+
+-----
+
+PR,ESIDEN
+REPUBLIK INDONESIA
+
+**-67-**
 
 ## Penjelasan Resmi
 

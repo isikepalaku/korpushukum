@@ -36,3 +36,5 @@ Masa keanggotaan Badan Permusyawaratan Desa terhitung sejak tanggal pengucapan s
 Ayat (3)
 
 Cukup jelas.
+
+Angka 15

@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan izin usaha sebagaimana
-dimaksud dalam Pasal 10 ayat (2) paling lambat 20 (dua
+dimaksud dalam
+
+Pasal 10
+ayat (2) paling lambat 20 (dua
 puluh) hari kerja sejak permohonan izin usaha diterima
 secara lengkap.
 (2) Dalam memberikan persetujuan atau penolakan
@@ -36,7 +39,10 @@ DPS; dan
 e. analisis pemenuhan ketentuan peraturan
 perundang-undangan di bidang pergadaian.
 (3) Dalam hal terdapat kekurangan dokumen sebagaimana
-dimaksud dalam Pasal 10 ayat (2), Otoritas Jasa
+dimaksud dalam
+
+Pasal 10
+ayat (2), Otoritas Jasa
 Keuangan menyampaikan permintaan kelengkapan
 dokumen kepada Perusahaan.
 (4) Perusahaan harus menyampaikan kelengkapan
@@ -65,6 +71,10 @@ menyampaikan pemberitahuan secara tertulis dan
 disertai dengan alasan penolakan.
 (9) Ketentuan lebih lanjut mengenai tata cara permohonan
 izin usaha Perusahaan sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (2) ditetapkan oleh Otoritas Jasa
+Keuangan.
 
 ## Penjelasan Resmi
 

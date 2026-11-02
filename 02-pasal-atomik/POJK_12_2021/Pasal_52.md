@@ -31,7 +31,9 @@ penunjukan sementara Pejabat Eksekutif.
 
 dimaksud pada ayat (1) wajib dilakukan penilaian
 
-sebagaimana dimaksud dalam Pasal 51.
+sebagaimana dimaksud dalam
+
+Pasal 51.
 
 -----
 

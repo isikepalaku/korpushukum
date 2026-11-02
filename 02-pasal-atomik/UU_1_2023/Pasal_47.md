@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '47'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -18,8 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Selain ketentuan sebagaimana dimaksud dalam Pasal 46, Tindak Pidana oleh Korporasi dapat dilakukan oleh pemberi perintah, pemegang kendali, atau pemilik manfaat Korporasi yang berada di luar struktur organisasi, tetapi dapat mengendalikan Korporasi.
+Selain ketentuan sebagaimana dimaksud dalam
+
+Pasal 46, Tindak Pidana oleh Korporasi dapat dilakukan oleh pemberi perintah, pemegang kendali, atau pemilik manfaat Korporasi yang berada di luar struktur organisasi, tetapi dapat mengendalikan Korporasi.
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "pemegang kendali" adalah Setiap Orang yang memiliki kekuasaan atau wewenang sebagai penentu kebijalen Korporasi atau memiliki kewenangan untuk melakukan kebijalran Korporasi tersebut tanpa hanrs mendapat otorisasi dari atasannya.

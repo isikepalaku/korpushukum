@@ -18,9 +18,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-produksi, kebutuhan Bahan Bakar Minyak dan Gas Bumi dalam negeri, penguasaan teknologi, aspek lingkungan dan pelestarian lingkungan hidup, kemampuan nasional, dan kebijakan pembangunan. (2) Pelaksanaanpembinaansebagaimanadimaksuddalamayat(1)dilakukansecaracermat,
+Ketentuan mengenai tata cara penyelesaian penggunaan tanah hak atau tanah negara sebagaimana dimaksud dalam
 
-- transparan, dan adil terhadap pelaksanaan kegiatan usaha Minyak dan Gas Bumi.
+Pasal 35
+diatur lebih lanjut dengan Peraturan Pemerintah.
+
+BAB VIII
+
+PEMBINAAN DAN PENGAWASAN Bagian Kesatu Pembinaan
 
 ## Penjelasan Resmi
 

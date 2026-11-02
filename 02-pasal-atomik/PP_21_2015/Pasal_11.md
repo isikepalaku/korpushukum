@@ -17,21 +17,33 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Bukti pendaftaran sebagaimana dimaksud pada ayat (1)
+(1) Dalam hal terjadi kesalahan pengisian atau perubahan
 
-paling sedikit memuat:
+data dalam permohonan pendaftaran Jaminan Fidusia
+mengenai jumlah nilai penjaminan sebagaimana
+dimaksud dalam
 
-a. nomor pendaftaran;
+Pasal 3
+huruf e dalam kategori nilai
+penjaminan yang berbeda, Penerima Fidusia, kuasa atau
+wakilnya harus mengajukan permohonan perubahan
+sertifikat Jaminan Fidusia kepada Menteri.
 
-b. tanggal pengisian aplikasi;
-c. nama pemohon;
+(2) Permohonan perubahan sertifikat Jaminan Fidusia
+sebagaimana dimaksud pada ayat (1) paling sedikit
+memuat:
+a. nomor dan tanggal sertifikat terakhir;
 
-d. nama Kantor Pendaftaran Fidusia;
+b. nama dan tempat kedudukan notaris;
 
-e. jenis permohonan; dan
+c. data perubahan; dan
+d. keterangan perubahan.
 
-f. biaya permohonan perubahan sertifikat Jaminan
-Fidusia.
+Pasal 12 . . .
+
+-----
+
+ - 6
 
 ## Penjelasan Resmi
 

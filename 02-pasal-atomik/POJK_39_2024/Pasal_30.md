@@ -19,9 +19,15 @@ mengamandemen: []
 
 (1) Perusahaan Pergadaian Syariah hasil Pemisahan
 dengan cara pendirian Perusahaan Pergadaian Syariah
-baru sebagaimana dimaksud dalam Pasal 29 ayat (1)
+baru sebagaimana dimaksud dalam
+
+Pasal 29
+ayat (1)
 huruf a dikecualikan dari ketentuan Modal Disetor
-minimum sebagaimana dimaksud dalam Pasal 6 ayat
+minimum sebagaimana dimaksud dalam
+
+Pasal 6
+ayat
 (2) pada saat pendirian.
 
 -----

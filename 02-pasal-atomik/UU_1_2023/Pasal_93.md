@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '93'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,4 +23,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+Pidana tambahan berupa pengumuman putusan hakim dimaksudkan agar masyarakat mengetahui perbuatan apa dan pidana yang bagaimsna yang dijatuhkan kepada terpidana. Pidana tambahan ini dimaksudkan unhrk memberi pelindungan kepada masyarakat.
+
+Ayatl2l
+
+Seperti pada pidana perampasan Barang tertentu, jika terpidana tidak membayar biaya pengumuman, maka berlaku ketentuan yang sama tentang pidana pengganti untuk pidana denda.

@@ -20,7 +20,10 @@ mengamandemen: []
 Bagi Perusahaan yang telah memperoleh izin usaha pada
 saat Peraturan Otoritas Jasa Keuangan ini diundangkan,
 kewajiban terkait larangan rangkap jabatan bagi Penaksir
-sebagaimana dimaksud dalam Pasal 56 ayat (2) mulai
+sebagaimana dimaksud dalam
+
+Pasal 56
+ayat (2) mulai
 berlaku 1 (satu) tahun sejak Peraturan Otoritas Jasa
 Keuangan ini diundangkan.
 

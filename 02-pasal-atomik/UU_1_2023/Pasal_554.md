@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '554'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini dimaksudkan untuk mengatur mengenai pemberontakarr di Itupal, tetapi di sini dilakukan oleh 2 (dua) orang atau lebih dengan bersekutu. Dalam ketentuan ini juga ditentukan pemberatan pidana, mengingat akibat yang ditimbulkan dan perbuatan tersebut dilakukan bersama-sama.

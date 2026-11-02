@@ -10,7 +10,6 @@ tags:
 - uu/uu_32_1997
 status_berlaku: diubah
 diamandemen_oleh:
-- '[[02-pasal-atomik/UU_10_2011/Pasal_39|UU 10/2011 Pasal 39]]'
 - '[[02-pasal-atomik/UU_4_2023/Pasal_39|UU 4/2023 Pasal 39]]'
 mengamandemen: []
 ---
@@ -19,39 +18,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-tahun dan pidana denda paling banyak Rp. 6.500.000.000,00 (enam
+(1) Kegiatan usaha sebagai Pengelola Sentra Dana Berjangka hanya
 
- miliar lima ratus juta rupiah).
+ dapat dilakukan oleh Pihak yang berbentuk perseroan terbatas yang
 
- (2) Setiap...
+ wajib memperoleh izin usaha Pengelola Sentra Dana Berjangka dari
 
-```
+ Bappebti.
 
------
+ (2) Izin usaha Pengelola Sentra Dana Berjangka hanya diberikan
 
-```
- - 43
-**(2) Setiap Pihak yang melakukan kegiatan tanpa memiliki persetujuan**
+ apabila yang bersangkutan memiliki kemampuan dan integritas
 
- sebagaimana dimaksud dalam Pasal 13, Pasal 14 ayat (2), Pasal 14
+ keuangan serta dikelola oleh orang perseorangan yang memiliki
 
- ayat (3), Pasal 32, atau Pasal 36 ayat (2), diancam dengan pidana
+ reputasi bisnis yang baik dan kecakapan profesi.
 
- penjara paling lama tiga tahun dan pidana denda paling banyak Rp.
+ (3) Pelaksanaan kegiatan sebagaimana dimaksud pada ayat (1)
 
- 4.000.000.000,00 (empat miliar rupiah).
+ dilakukan oleh orang perseorangan yang wajib memperoleh izin
 
- (3) Setiap Pihak yang melakukan kegiatan tanpa memiliki izin
-
- sebagaimana dimaksud dalam Pasal 31 ayat (3), Pasal 34 ayat (3),
-
- atau Pasal 39 ayat (3), atau tanpa memiliki sertifikat pendaftaran
-
- sebagaimana dimaksud dalam Pasal 12 ayat (4), diancam dengan
-
- pidana kurungan paling lama satu tahun dan pidana denda paling
-
- banyak Rp. 1.000.000.000,00 (satu miliar rupiah).
+ Wakil Pengelola Sentra Dana Berjangka dari Bappebti.
 
 ## Penjelasan Resmi
 

@@ -67,6 +67,8 @@ a. Informasi ..
 
 - (6) Pengendeli Data Pribadi lama menyiapkan syarat dan ketentuan pengaksesan Data Pribadi oleh pihak lain yang terlibat dalam penggabungan, pemisahan, pengambilalihan, peleburan, atau pembubaran badan hukum.
 
+Pasal 134...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

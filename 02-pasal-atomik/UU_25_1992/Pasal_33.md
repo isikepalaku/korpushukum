@@ -19,8 +19,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Hubungan antara Pengelola usaha sebagaimana dimaksud dalam Pasal
-32 dengan Pengurus Koperasi merupakan hubungan kerja atas dasar
+Hubungan antara Pengelola usaha sebagaimana dimaksud dalam
+
+Pasal 32
+dengan Pengurus Koperasi merupakan hubungan kerja atas dasar
 perikatan.
 
 -----

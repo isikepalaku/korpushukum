@@ -4,7 +4,7 @@ judul: "Map of Content - Pelindungan Konsumen dan Masyarakat di Sektor Jasa Keua
 kode_uu: POJK_22_2023
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_22_2023]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Pelindungan Konsumen dan Masyarakat di Sektor Jasa Keuangan (POJK_22_2023)
@@ -14,7 +14,7 @@ last_updated: 2026-11-01
 ## Daftar Pasal
 
 - [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
-- [[Pasal_2]]: PUJK sebagaimana dimaksud dalam Pasal 1 angka 2 terdiri
+- [[Pasal_2]]: PUJK sebagaimana dimaksud dalam
 - [[Pasal_3]]: (1) PUJK dalam menyelenggarakan kegiatan usaha wajib
 - [[Pasal_4]]: (1) PUJK wajib beriktikad baik dalam melakukan kegiatan
 - [[Pasal_5]]: (1) PUJK dilarang menyetujui permohonan penggunaan
@@ -39,7 +39,7 @@ last_updated: 2026-11-01
 - [[Pasal_24]]: (1) Dalam pelaksanaan kegiatan usaha, PUJK wajib
 - [[Pasal_25]]: (1) PUJK wajib melakukan perancangan produk dan/atau
 - [[Pasal_26]]: (1) PUJK wajib melakukan pengujian produk dan/atau
-- [[Pasal_27]]: Kewajiban sebagaimana dimaksud dalam Pasal 26
+- [[Pasal_27]]: Kewajiban sebagaimana dimaksud dalam
 - [[Pasal_28]]: (1) PUJK wajib memiliki pedoman penetapan nilai/harga
 - [[Pasal_29]]: (1) PUJK wajib menyediakan informasi mengenai produk
 - [[Pasal_30]]: (1) PUJK wajib menyediakan ringkasan informasi produk

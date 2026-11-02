@@ -100,6 +100,60 @@ Digital.
 34. Di antara Pasal 26 dan Pasal 27 disisipkan 1 pasal,
 yakni Pasal 26A sehingga berbunyi sebagai berikut:
 
+Pasal 26A
+(1) Dalam hal Bursa melaksanakan kegiatan
+perdagangan derivatif Aset Keuangan Digital yang
+disetujui Otoritas Jasa Keuangan, Bursa wajib
+terlebih dahulu menyampaikan permohonan
+persetujuan kepada Otoritas Jasa Keuangan,
+kecuali ditetapkan berbeda oleh Otoritas Jasa
+Keuangan.
+(2) Permohonan persetujuan untuk menjalankan
+kegiatan sebagaimana dimaksud pada ayat (1)
+harus memuat paling sedikit:
+a. uraian mekanisme perdagangan, manajemen
+risiko, infrastruktur teknologi informasi, dan
+operasional;
+b. peraturan dan tata tertib Bursa tentang
+mekanisme perdagangan derivatif Aset
+Keuangan Digital;
+c. struktur organisasi yang menunjukkan garis
+pertanggungjawaban dari setiap fungsi
+kepada penanggung jawab atau anggota
+direksi yang membawahi kegiatan
+perdagangan derivatif Aset Keuangan Digital
+beserta uraian tugasnya;
+d. bukti kesiapan sistem perdagangan derivatif
+Aset Keuangan Digital sebagaimana
+dimaksud dalam
+
+Pasal 21A;
+e. memiliki standar prosedur operasi dan kode
+etik perdagangan derivatif Aset Keuangan
+Digital; dan
+f. alasan melakukan perdagangan derivatif Aset
+Keuangan Digital.
+(3) Dalam hal Bursa melaksanakan kegiatan lain
+berupa perdagangan derivatif Aset Keuangan
+Digital sebagaimana dimaksud pada ayat (1), bursa
+wajib:
+a. menyediakan fasilitas sistem perdagangan
+yang andal untuk terselenggaranya
+perdagangan dan pelaporan atas
+penyelenggaraan perdagangan derivatif Aset
+
+-----
+
+Keuangan Digital yang teratur, wajar, dan
+transparan; dan
+b. menyediakan akses terhadap sistem
+perdagangan dan pelaporan atas
+penyelenggaraan perdagangan derivatif Aset
+Keuangan Digital yang andal dan real-time.
+
+35. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai
+berikut:
+
 ## Penjelasan Resmi
 
 Ayat (1)
@@ -141,3 +195,23 @@ perdagangan antara lain serangan siber secara
 sistemik pada mayoritas Pedagang.
 
 -----
+
+Angka 34
+
+Pasal 26A
+
+Ayat (1)
+
+Perdagangan derivatif Aset Keuangan Digital antara
+lain perdagangan kontrak yang memiliki _underlying_
+Aset Keuangan Digital.
+Ayat (2)
+
+Permohonan persetujuan untuk menjalankan
+kegiatan dapat diajukan bersamaan dengan
+permohonan izin usaha.
+Ayat (3)
+
+Cukup jelas.
+
+Angka 35

@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Selain ketentuan sebagaimana dimaksud dalam Pasal 12,
+Selain ketentuan sebagaimana dimaksud dalam
+
+Pasal 12,
 Perusahaan Asuransi Syariah yang menyelenggarakan
 Produk Asuransi dengan Prinsip Syariah wajib menerbitkan
 Polis Asuransi yang memuat ketentuan mengenai:

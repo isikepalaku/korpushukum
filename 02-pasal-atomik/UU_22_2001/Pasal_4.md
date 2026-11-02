@@ -20,6 +20,8 @@ mengamandemen: []
 
 (1) MinyakdanGasBumisebagaisumberdayaalamstrategistakterbarukanyangterkandungdi dalam Wilayah Hukum Pertambangan Indonesia merupakan kekayaan nasional yang dikuasai oleh negara. (2) Penguasaanolehnegarasebagaimanadimaksuddalamayat(1)diselenggarakanolehPemerintah sebagai pemegang Kuasa Pertambangan. (3) PemerintahsebagaipemegangKuasaPertambanganmembentukBadanPelaksanasebagaimana dimaksud dalam Pasal 1 angka 23.
 
+Pasal 3 …
+
 ## Penjelasan Resmi
 
 Cukup jelas.

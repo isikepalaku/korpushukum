@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 **Apabila perkara sudah diputus maka benda yang disita**
- sebagaimana dimaksud dalam Pasal 134 dikembalikan kepada orang yang berhak, kecuali jika menurut putusan Hakim benda tersebut dirampas untuk negara atau dimusnahkan atau jika benda tersebut masih diperlukan
+ sebagaimana dimaksud dalam
+
+Pasal 134
+dikembalikan kepada orang yang berhak, kecuali jika menurut putusan Hakim benda tersebut dirampas untuk negara atau dimusnahkan atau jika benda tersebut masih diperlukan
 sebagai bukti dalam perkara lain.
 
 **Brgian Ketujuh**

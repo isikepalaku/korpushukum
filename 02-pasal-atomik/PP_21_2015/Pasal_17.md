@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) Berdasarkan pemberitahuan penghapusan sebagaimana
 
-dimaksud dalam Pasal 16, Jaminan Fidusia dihapus dari
+dimaksud dalam
+
+Pasal 16, Jaminan Fidusia dihapus dari
 daftar Jaminan Fidusia dan diterbitkan keterangan
 penghapusan yang menyatakan sertifikat Jaminan
 Fidusia yang bersangkutan tidak berlaku lagi.
@@ -27,7 +29,9 @@ Fidusia yang bersangkutan tidak berlaku lagi.
 (2) Jika Penerima Fidusia, kuasa atau wakilnya tidak
 
 memberitahukan penghapusan Jaminan Fidusia
-sebagaimana dimaksud dalam Pasal 16, Jaminan Fidusia
+sebagaimana dimaksud dalam
+
+Pasal 16, Jaminan Fidusia
 yang bersangkutan tidak dapat didaftarkan kembali.
 
 BAB V . . .

@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai tata kelola yang baik sebagaimana dimaksud dalam Pasal 266, penerapan manajemen risiko sebagaimana dimaksud dalam Pasal 267, dan pelaporan sebagaimana dimaksud dalam Pasal 268 diatur dalam peraturan otoritas sektor keuangan sesuai dengan tugas dan kewenangan masing-masing.
+Ketentuan lebih lanjut mengenai tata kelola yang baik sebagaimana dimaksud dalam Pasal 266, penerapan manajemen risiko sebagaimana dimaksud dalam
+
+Pasal 267, dan pelaporan sebagaimana dimaksud dalam Pasal 268 diatur dalam peraturan otoritas sektor keuangan sesuai dengan tugas dan kewenangan masing-masing.
 
 ## Penjelasan Resmi
 

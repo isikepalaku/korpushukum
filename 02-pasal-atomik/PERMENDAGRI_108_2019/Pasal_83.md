@@ -21,7 +21,9 @@ mengamandemen: []
 (1) 
 Pencatatan bagi anak yang lahir dari perkawinan 
 campuran, yang telah memilih menjadi WNI atau warga 
-negara asing sebagaimana dimaksud dalam Pasal 81 
+negara asing sebagaimana dimaksud dalam
+
+Pasal 81
 huruf b, dengan memenuhi persyaratan sesuai dengan 
 ketentuan Peraturan Presiden mengenai persyaratan dan 
 tata cara Pendaftaran Penduduk dan Pencatatan Sipil. 

@@ -27,6 +27,8 @@ tuntutan yang serupa, terhadap Pihak atau
 Pihak-Pihak yang bertanggung jawab atas
 pelanggaran tersebut.
 
+Pasal 112…
+
 ## Penjelasan Resmi
 
 Cukup jelas.

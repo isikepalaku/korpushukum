@@ -27,7 +27,10 @@ mengamandemen: []
 Cukup jelas.
 ```
 
-Huruf b Hak memperoleh waktu istirahat yang cukup diperoleh peserta didik selama proses pendidikan klinis pada Fasilitas Pelayanan Kesehatan. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Ayat (2) Hurufa Yang dimaksud dengan "keselamatan Pasien" adalah suatu kerangka kerja yang berupa kegiatan terorganisasi untuk membangun budaya, proses, prosedur, perilaku, teknologi, dan lingkungan dalam Pelayanan Kesehatan secara konsisten dan berkelanjutan yang bertujuan untuk menurunkan risiko, mengurangi bahaya yang dapat dihindari, menghindari kemungkinan terjadinya kesalahan, serta mengurangi dampak ketika terjadi insiden pada Pasien. Huruf b Cukup jelas. Huruf c Cukup jelas. Hurufd Cukup jelas. Pasal 22O Ayat (1) Yang dimaksud dengan "uji kompetensi berstandar nasional" adalah pengukuran pengetahuan, keterampilan, dan perilaku peserta didik pada penyelenggara pendidikan tinggi bidang Kesehatan yang menyelenggarakan ujian sesuai dengan standar nasional dan berlaku secara nasional. Ayat (2) Cukup jelas.
+Huruf b Hak memperoleh waktu istirahat yang cukup diperoleh peserta didik selama proses pendidikan klinis pada Fasilitas Pelayanan Kesehatan. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Ayat (2) Hurufa Yang dimaksud dengan "keselamatan Pasien" adalah suatu kerangka kerja yang berupa kegiatan terorganisasi untuk membangun budaya, proses, prosedur, perilaku, teknologi, dan lingkungan dalam Pelayanan Kesehatan secara konsisten dan berkelanjutan yang bertujuan untuk menurunkan risiko, mengurangi bahaya yang dapat dihindari, menghindari kemungkinan terjadinya kesalahan, serta mengurangi dampak ketika terjadi insiden pada Pasien. Huruf b Cukup jelas. Huruf c Cukup jelas. Hurufd Cukup jelas.
+
+Pasal 220
+Ayat (1) Yang dimaksud dengan "uji kompetensi berstandar nasional" adalah pengukuran pengetahuan, keterampilan, dan perilaku peserta didik pada penyelenggara pendidikan tinggi bidang Kesehatan yang menyelenggarakan ujian sesuai dengan standar nasional dan berlaku secara nasional. Ayat (2) Cukup jelas.
 
 Ayat (3)
 

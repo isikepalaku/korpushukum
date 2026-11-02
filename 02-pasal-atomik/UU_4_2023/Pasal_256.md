@@ -20,6 +20,10 @@ mengamandemen: []
 - (1) Setiap Profesi Sektor Keuangan harus memiliki Asosiasi Profesi.
 - (2) Setiap Pelaku Profesi Sektor Keuangan harus menjadi anggota Asosiasi Profesi.
 
+Pasal 257 ...
+
+**-448 -**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -30,6 +30,16 @@ pembedahan mayat kepada Keluarga Korban.
  dimaksud pada ayat (2) atau Keluarga Korban atau pihak yang perlu diberitahukan tidak ditemukan, Penyidik dapat meminta penetapan dari pengadilan
 negeri setelah dilakukan pembedahan mayat.
 
+Pasal 5l ...
+
+-----
+
+FRESIDEN
+REPUBLIK INDONESIA
+
+**-30-**Pasal 5l
+**Dalam hal untuk kepentingan peradilan Penyidik perlu melakukan penggalian mayat, kepentingan tersebut dilaksanakan sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 49 ayat (2) dan Pasal 5O ayat (1).**
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

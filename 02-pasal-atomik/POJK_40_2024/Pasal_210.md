@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara dengan status pengawasan khusus
-sebagaimana dimaksud dalam Pasal 206 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 206
+ayat (2) huruf
 c, jangka waktu status pengawasan ditetapkan Otoritas
 Jasa Keuangan paling lama 6 (enam) bulan sejak
 tanggal surat pemberitahuan Otoritas Jasa Keuangan.
@@ -36,8 +39,20 @@ dimaksud pada ayat (2) didasarkan atas penilaian
 Otoritas Jasa Keuangan dengan mempertimbangkan
 penyelesaian atas rencana tindak yang telah disetujui.
 (5) Penyelenggara yang memenuhi kriteria pengawasan
-intensif sebagaimana dimaksud dalam Pasal 207 atau
+intensif sebagaimana dimaksud dalam
+
+Pasal 207
+atau
 pengawasan khusus sebagaimana dimaksud dalam
+
+Pasal 209
+dapat tidak ditetapkan dalam status
+pengawasan intensif atau pengawasan khusus jika:
+a. Penyelenggara dalam proses Penggabungan,
+Peleburan, atau pengambilalihan; dan/atau
+b. Penyelenggara dalam proses penambahan setoran
+modal yang paling sedikit telah tercatat dalam
+kriteria dana setoran modal.
 
 ## Penjelasan Resmi
 

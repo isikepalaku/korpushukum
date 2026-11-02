@@ -68,7 +68,10 @@ Mekanisme Penetapan Aset Keuangan Digital yang
 
 Diperdagangkan di Pasar Aset Keuangan Digital
 
-12. Ketentuan Pasal 9 diubah sehingga berbunyi sebagai
+12. Ketentuan
+
+Pasal 9
+diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -119,3 +122,5 @@ Ayat (2)
 Penawaran Aset Keuangan Digital antara lain
 penawaran Aset Kripto dan/atau penawaran
 tokenisasi.
+
+Angka 6

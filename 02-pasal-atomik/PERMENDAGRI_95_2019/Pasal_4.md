@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) 
-Basis Data sebagaimana dimaksud dalam Pasal 3 ayat (1) 
+Basis Data sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (1) 
 huruf a, menggunakan sistem Basis Data sangat besar 
 dan terpusat. 
 (2) 

@@ -36,9 +36,30 @@ mengamandemen:
 
 Bogian Kedua Penyertaan Modal Negara
 
-25. Di antara Pasal 4 dan Pasal 5 disisipkan 2 (dua) pasal, yakni Pasal 4A dan Pasal 48 sehingga berbunyi sebagai berikut:
+25. Di antara
+
+Pasal 4
+dan Pasal 5 disisipkan 2 (dua) pasal, yakni Pasal 4A dan Pasal 48 sehingga berbunyi sebagai berikut:
 
 **PRESIOEN R,EPUBLIK INDONESIA**
+
+**Pasal 4A**
+
+- (U Setiap penyertaan modal negara dalam rangka pendirian Badan, Holding Investasi, Holding Operasional, dan BUMN yang dananya berasal dari APBN sebagaimana dimaksud dalam Pasal 4 ayat (3) ditetapkan dengan Peraturan Pemerintah.
+- (21 Setiap perubahan penyertaan modal neg.rra yang dananya berasal dari APBN sebagaimana dimaksud dalam Pasal 4 ayat (3), berupa penambahan atau pengurangan modal, termasuk perubahan struktur kepemilikan negErra atas saham Persero ditetapkan dengan Peraturan Pemerintah.
+- (3) Menteri mengajukan penyertaan modal negara dalam rangka:
+- a. pendirian Badan, HoLding Investasi, Holding Operasional, dan BUMN sebagaimana dimaksud pada ayat (l);
+- b. perubahan penyertaan modal negara kepada Badan sebagaimana dimaksud pada ayaf (21;
+- c. penambahan penyertaan modal negara kepada Badan; dan/ atau
+- d. penugasan Pemerintah Pusat,
+
+kepada alat kelengkapan DPR RI yang membidangi BUMN untuk mendapat persetqjuan.
+
+- (4) Penyertaan modal negara dalam rangka BUMN sebagaimana dimaksud pada ayat (l) dan perubahan penyertaan modal negara kepada BUMN sebagaimana dimaksud pada ayat (2) dilaksanakan oleh Menteri.
+- (5) Modal negara pada BUMN yang berasal dari penyertaan modal baik dalam rangka BUMN maupun perubahan, merupakan kekayaan BUMN yang menjadi milik dan tanggungjawab BUMN.
+- (6) Ketentuan lebih lanjut mengenai tata czra penyertaan modal negara dalam rangka pendirian BUMN sebagaimana dimaksud pada ayat (1) dan perubahan penyertaan modal negara sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
+
+**PRESIDEN REPUBLIK ]NDONESIA**
 
 ## Penjelasan Resmi
 
@@ -61,3 +82,13 @@ Angl&lt;a26
 Cukup jelas.
 
 Ang)&lt;a27
+
+Pasal 4C
+
+Cukup jelas.
+
+Angka 28
+
+Cukup jelas.
+
+Angka 29

@@ -45,7 +45,12 @@ Usaha Kecil yang baru mendapatkan [nomor ][induk]
 **standar danf atau rzin.**
 **(3) Pendampingan sebagaimana dimaksud [pada ][ayat ] [(1)]**
  paling sedikit dilaksanakan melalui [fasilitasi]
-**bimbingan teknis, konsuitasi, dan/atau [pelatihan.]**
+**bimbingan teknis, konsuitasi, dan/atau [pelatihan.]**Pasal 42
+ Usaha Mikro dan Usaha Kecil [yang ][baru mendirikan ] [usaha] dapat langsung mengajukan [permohonan ][nomor ] [induk] berusaha, sertifikat standar, [danf atau ][izin melalui ][sistem] Perizinan Berusaha [yang ]terintegrasi [secara ][elektronik.]
+
+Paragraf 3
+
+Perizinan Tunggal dan Fasilitasi [Sertifikasi Standar ][danf ][ataulzin]
 
 ## Penjelasan Resmi
 

@@ -19,8 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penerbitan KTP-el di luar domisili bagi Penduduk WNI atau 
-Penduduk Orang Asing sebagaimana dimaksud dalam Pasal 
-18 ayat (1) huruf f, dengan memenuhi persyaratan sesuai 
+Penduduk Orang Asing sebagaimana dimaksud dalam
+
+Pasal 18
+ayat (1) huruf f, dengan memenuhi persyaratan sesuai 
 dengan ketentuan Peraturan Presiden mengenai persyaratan 
 dan tata cara pendaftaran Penduduk dan Pencatatan Sipil dan 
 dilengkapi dengan syarat lainnya berupa: 

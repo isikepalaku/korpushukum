@@ -4,7 +4,7 @@ judul: "Map of Content - Bank Umum"
 kode_uu: POJK_12_2021
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_12_2021]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Bank Umum (POJK_12_2021)
@@ -37,7 +37,7 @@ last_updated: 2026-11-01
 - [[Pasal_22]]: (1) Bank BHI yang melanggar ketentuan sebagaimana
 - [[Pasal_23]]: 
 - [[Pasal_24]]: (1) Bank BHI yang beroperasi sebagai Bank Digital
-- [[Pasal_25]]: Bank Digital sebagaimana dimaksud dalam Pasal 23 dapat
+- [[Pasal_25]]: Bank Digital sebagaimana dimaksud dalam
 - [[Pasal_26]]: (1) Ketentuan mengenai pendirian Bank BHI sebagaimana
 - [[Pasal_27]]: (1) Bank BHI yang akan bertransformasi menjadi Bank
 - [[Pasal_28]]: Bank BHI yang beroperasi sebagai Bank Digital
@@ -76,7 +76,7 @@ last_updated: 2026-11-01
 - [[Pasal_61]]: a. terhadap rencana pembukaan Kanwil yang telah
 - [[Pasal_62]]: (1) OJK memberikan persetujuan atau penolakan atas
 - [[Pasal_63]]: (1) Bank BHI harus melaksanakan pembukaan Kanwil
-- [[Pasal_64]]: Pasal 69ayat (1), Pasal 71 ayat (4), Pasal 73 ayat (1),
+- [[Pasal_64]]: Pasal 69ayat (1),
 - [[Pasal_65]]: (1) OJK memberikan persetujuan atau penolakan atas
 - [[Pasal_66]]: 
 - [[Pasal_67]]: 86, Pasal 88 dan Pasal 90 berlaku mutatis mutandis
@@ -86,10 +86,10 @@ last_updated: 2026-11-01
 - [[Pasal_71]]: sanksi administratif sesuai dengan Peraturan OJK
 - [[Pasal_72]]: Bank BHI dapat melakukan perubahan status atas kantor
 - [[Pasal_73]]: (1) Bank BHI wajib mencantumkan rencana perubahan
-- [[Pasal_74]]: ayat (1), Pasal 79 ayat (1), ayat (5), ayat (6), ayat (7),
+- [[Pasal_74]]: Pasal 79
 - [[Pasal_75]]: Perubahan status kantor selain sebagaimana dimaksud
 - [[Pasal_76]]: berlaku mutatis mutandis terhadap pemindahan
-- [[Pasal_77]]: Bank BHI dikenai sanksi administratif berupa:
+- [[Pasal_77]]: Pasal 80
 - [[Pasal_78]]: (1) OJK memberikan persetujuan atau penolakan atas
 - [[Pasal_79]]: (1) Bank BHI yang telah memperoleh persetujuan
 - [[Pasal_80]]: (1) Bank BHI wajib menginformasikan rencana
@@ -111,7 +111,7 @@ last_updated: 2026-11-01
 - [[Pasal_96]]: (1) Bank BHI yang melanggar ketentuan sebagaimana
 - [[Pasal_97]]: dikenai sanksi administratif berupa:
 - [[Pasal_98]]: (1) Permohonan untuk memperoleh persetujuan prinsip
-- [[Pasal_99]]: ayat (1), Pasal 113 ayat (1),
+- [[Pasal_99]]: Pasal 113
 - [[Pasal_100]]: (1) Bank BHI yang melanggar ketentuan sebagaimana
 - [[Pasal_101]]: dalam bentuk salinan bilyet deposito pada Bank
 - [[Pasal_102]]: 60 (enam puluh) hari kerja setelah dokumen
@@ -124,11 +124,11 @@ last_updated: 2026-11-01
 - [[Pasal_109]]: (1) Jaringan kantor KCBLN terdiri dari KCBLN, KCP, KF,
 - [[Pasal_110]]: (1) Ketentuan mengenai jaringan kantor Bank BHI selain
 - [[Pasal_111]]: (1) KCBLN menetapkan kantor atau unit organisasi yang
-- [[Pasal_112]]: dan/atau Pasal 114, KCBLN dikenai sanksi
+- [[Pasal_112]]: dan/atau
 - [[Pasal_113]]: (2), dan/atau ayat (3), Direksi dan/atau Pejabat
 - [[Pasal_114]]: denda sebesar Rp1.000.000,00 (satu juta rupiah) per
 - [[Pasal_115]]: (1) KCBLN yang melanggar ketentuan sebagaimana diatur
-- [[Pasal_116]]: dan/atau Pasal 134 ayat (1), disampaikan melalui
+- [[Pasal_116]]: Pasal 129
 - [[Pasal_117]]: (1) Persetujuan atau penolakan atas permohonan izin
 - [[Pasal_118]]: (1) Kegiatan yang dapat dilakukan oleh KPBLN:
 - [[Pasal_119]]: (1) KPBLN wajib menyampaikan laporan kepada OJK

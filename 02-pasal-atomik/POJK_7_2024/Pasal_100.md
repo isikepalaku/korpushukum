@@ -17,19 +17,38 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-skema Penggabungan atau Peleburan.
-(2) Penggabungan atau Peleburan sebagaimana dimaksud
-pada ayat (1) dikecualikan terhadap BPR dengan BPR
-Syariah dalam kepemilikan dan/atau pengendalian PSP
-yang sama.
-(3) Berdasarkan pertimbangan tertentu, OJK berwenang
-menetapkan:
-a. jumlah BPR atau BPR Syariah peserta Penggabungan
-atau Peleburan; dan/atau
-b. wilayah BPR atau BPR Syariah hasil Penggabungan
-atau Peleburan,
-yang berbeda dari wilayah pulau atau kepulauan utama
-sebagaimana dimaksud pada ayat (1).
+(1) Penggabungan atau Peleburan dapat dilakukan antara
+BPR dan BPR, BPR dan BPR Syariah, atau BPR Syariah
+dan BPR Syariah, yang berkedudukan dalam wilayah
+provinsi yang sama atau berbeda.
+
+-----
+
+(2) Wilayah jaringan kantor BPR atau BPR Syariah hasil
+Penggabungan atau Peleburan yang berkedudukan dalam
+wilayah provinsi yang berbeda sebagaimana dimaksud
+pada ayat (1) paling luas berlokasi dalam 1 (satu) wilayah
+pulau atau kepulauan utama.
+(3) Wilayah pulau atau kepulauan utama sebagaimana
+dimaksud pada ayat (2) merupakan wilayah provinsi yang
+masuk dalam teritorial pulau atau kepulauan:
+a. Sumatera;
+b. Jawa;
+c. Kalimantan;
+d. Bali dan Nusa Tenggara;
+e. Sulawesi; dan
+f. Maluku dan Papua.
+(4) Berdasarkan pertimbangan tertentu, OJK berwenang
+menetapkan jumlah BPR atau BPR Syariah peserta
+Penggabungan atau Peleburan dan/atau wilayah BPR atau
+BPR Syariah hasil Penggabungan atau Peleburan yang
+berbeda dari wilayah pulau atau kepulauan utama
+sebagaimana dimaksud pada ayat (3).
+(5) BPR atau BPR Syariah hasil Penggabungan atau Peleburan
+dapat melakukan pembukaan, perubahan status,
+pemindahan, dan/atau penutupan kantor pada provinsi
+lokasi kantor BPR atau BPR Syariah hasil Penggabungan
+atau Peleburan.
 
 ## Penjelasan Resmi
 

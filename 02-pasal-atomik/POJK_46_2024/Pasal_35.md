@@ -24,7 +24,10 @@ a. Ketentuan mengenai:
 1. pemenuhan susunan organisasi yang
 menggambarkan secara jelas fungsi sumber daya
 manusia PMV atau PMVS sebagaimana dimaksud
-dalam Pasal 14 ayat (1) huruf d; dan
+dalam
+
+Pasal 14
+ayat (1) huruf d; dan
 2. pemenuhan persetujuan tertulis dari Otoritas Jasa
 Keuangan sebagaimana dimaksud dalam Pasal
 
@@ -37,15 +40,19 @@ ini, harus dilaksanakan paling lambat 6 (enam) bulan
 sejak Peraturan Otoritas Jasa Keuangan ini
 diundangkan.
 b. Bagi tenaga kerja asing yang telah dipekerjaan pada
-PMV atau PMVS sebagaimana dimaksud dalam Pasal
-15 ayat (2) sebelum Peraturan OJK ini diundangkan,
+PMV atau PMVS sebagaimana dimaksud dalam
+
+Pasal 15
+ayat (2) sebelum Peraturan OJK ini diundangkan,
 dapat tetap dipekerjakan sampai dengan berakhirnya
 masa jabatan sesuai dengan perjanjian kerja dan dapat
 diperpanjang kembali setelah memperoleh persetujuan
 OJK.
 c. Ketentuan mengenai pemenuhan kepemilikan fungsi
 komite etik dalam struktur organisasi Asosiasi
-sebagaimana dimaksud dalam Pasal 17E ayat (1) harus
+sebagaimana dimaksud dalam
+
+Pasal 17E ayat (1) harus
 dilaksanakan paling lambat 1 (satu) tahun sejak
 Peraturan Otoritas Jasa Keuangan ini diundangkan.
 d. Bagi PMV atau PMVS yang telah diberikan surat
@@ -75,7 +82,10 @@ sebagaimana diatur dalam Peraturan Otoritas Jasa
 Keuangan ini.
 h. Bagi PMV atau PMVS yang telah memperoleh izin usaha
 dan belum melakukan kegiatan usaha dalam jangka
-waktu sebagaimana dimaksud dalam Pasal 6 ayat (1)
+waktu sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (1)
 sebelum berlakunya Peraturan Otoritas Jasa Keuangan
 ini, Otoritas Jasa Keuangan mencabut izin usaha 1
 (satu) bulan sejak Peraturan Otoritas Jasa Keuangan ini

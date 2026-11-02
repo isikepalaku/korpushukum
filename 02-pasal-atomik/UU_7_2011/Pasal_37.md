@@ -25,6 +25,24 @@ mendistribusikan mesin, peralatan, alat cetak, pelat cetak
 atau alat lain yang digunakan atau dimaksudkan untuk
 membuat Rupiah Palsu sebagaimana dimaksud dalam
 
+Pasal 27
+ayat (1) dipidana dengan pidana penjara paling
+lama seumur hidup dan pidana denda paling banyak
+Rp100.000.000.000,00 (seratus miliar rupiah).
+
+(2) Setiap orang yang memproduksi, menjual, membeli,
+
+mengimpor, mengekspor, menyimpan, dan/atau
+mendistribusikan bahan baku Rupiah yang digunakan
+atau dimaksudkan untuk membuat Rupiah Palsu
+sebagaimana dimaksud dalam
+
+Pasal 27
+ayat (2) dipidana
+dengan pidana penjara paling lama seumur hidup, dan
+pidana denda paling banyak Rp100.000.000.000,00
+(seratus miliar rupiah).
+
 ## Penjelasan Resmi
 
 Cukup jelas.

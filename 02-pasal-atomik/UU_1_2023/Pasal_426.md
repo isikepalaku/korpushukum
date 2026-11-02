@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '426'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,5 +25,11 @@ mengamandemen: []
 5. l2l Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) dilakukan dalam menjalankan profesi, dapat dijatuhi pidana tambahan bempa pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf f.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Yang dimaksud dengan "izinf adalah iin yang ditetapkan oleh pemerintah dengan masyarakat. hukum yang hidup dalam
+
+Ayat(21
 
 Cukup jelas.

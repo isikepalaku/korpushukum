@@ -20,7 +20,9 @@ mengamandemen: []
 (1) Pemodal dapat membatalkan rencana pembelian Efek
 melalui Layanan Urun Dana paling lambat dalam waktu
 48 (empat puluh delapan) jam setelah melakukan
-pembelian Efek sebagaimana dimaksud dalam Pasal 85
+pembelian Efek sebagaimana dimaksud dalam
+
+Pasal 85
 ayat (2) dan sebelum dana terpenuhi.
 (2) Pembatalan rencana pembelian Efek sebagaimana
 dimaksud pada ayat (1) hanya dapat dilakukan jika

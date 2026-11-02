@@ -19,7 +19,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam pemberitahuan sebagaimana dimaksud dalam Pasal 49
+Dalam pemberitahuan sebagaimana dimaksud dalam
+
+Pasal 49
 disebutkan:
 a. nama dan alamat Penyelesai, dan
 b. ketentuan bahwa semua kreditor dapat mengajukan tagihan dalam

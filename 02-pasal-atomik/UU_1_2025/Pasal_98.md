@@ -4,7 +4,7 @@ uu_induk: Perubahan Ketiga UU BUMN
 kode_uu: UU_1_2025
 pasal: '98'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
@@ -23,3 +23,35 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Pasal 9C
+
+Cukup jelas.
+
+Pasal 9D
+
+Cukup jelas.
+
+Pasal 9E
+
+Cukup jelas.
+
+Pasal 9F
+
+Cukup jelas.
+
+Pasal 9G
+
+Tidak dimaknai bahwa bukan merupakan penyelenggara negara yang menjadi pengurus BUMN statusnya sebagai penyelenggara negara akan hilang.
+
+Pasal 9H. ..
+
+Pasal 9H
+
+Cukup jelas.
+
+Angka 37
+
+Cukup jelas.
+
+Angka 38

@@ -43,8 +43,7 @@ PRESIEIEN REPUBLIK INOONESIA
 
 - .memberitahukan kepadaSubjek Data Pribadisebelum terjadi perubahan Informasi. 
 
-###### Pasa722 
-
+###### Pasal 22
 - (1) Persetujuan pemrosesan Data Pribadi dilakukan melalui persetujuan tertulis atau terekam. 
 
 - (2) Persetqiuan sebagaimana dimaksud pada ayat (1) dapat disampaikan secara elektronik atau nonelektronik. 

@@ -21,7 +21,10 @@ mengamandemen: []
 lingkup wilayah usaha provinsi dan kabupaten/kota
 pada saat Peraturan Otoritas Jasa Keuangan ini
 diundangkan, kewajiban terkait penyampaian laporan
-bulanan sebagaimana dimaksud dalam Pasal 205 ayat
+bulanan sebagaimana dimaksud dalam
+
+Pasal 205
+ayat
 (1) huruf a untuk pertama kali mulai berlaku pada
 periode laporan bulanan Desember 2026.
 (2) Perusahaan yang telah memperoleh izin usaha sebagai
@@ -29,13 +32,22 @@ Perusahaan dengan lingkup wilayah usaha provinsi dan
 kabupaten/kota pada saat Peraturan Otoritas Jasa
 Keuangan ini diundangkan, kewajiban terkait:
 a. penyampaian laporan keuangan tahunan
-sebagaimana dimaksud dalam Pasal 205 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 205
+ayat (1)
 huruf b;
 b. pemuatan laporan keuangan tahunan ke dalam
 situs web Perusahaan sebagaimana dimaksud
-dalam Pasal 206 ayat (3); dan
+dalam
+
+Pasal 206
+ayat (3); dan
 c. pengungkapan hal audit utama sebagaimana
-dimaksud dalam Pasal 208 ayat (1),
+dimaksud dalam
+
+Pasal 208
+ayat (1),
 untuk pertama kali mulai berlaku pada periode laporan
 keuangan tahunan yang berakhir 31 Desember 2026.
 

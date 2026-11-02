@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Penanganan permasalahan solvabilitas Bank Sistemik
 
-sebagaimana dimaksud dalam Pasal 22 ayat (1) huruf a
+sebagaimana dimaksud dalam
+
+Pasal 22
+ayat (1) huruf a
 dan huruf b dapat dilakukan Lembaga Penjamin
 Simpanan terhadap Bank selain Bank Sistemik yang
 diserahkan Otoritas Jasa Keuangan kepada Lembaga

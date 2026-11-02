@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '269'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -20,18 +20,10 @@ mengamandemen: []
 
 Setiap Orang yang menodai atau secara melawan hukum merusak atau menghancurkan makam atau tanda-tanda yang ada di atas makam, dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori II.
 
-**Pasal 2TO**
-
-Setiap Orang yang mengubur, menyembunyikan, membawa, atau menghilangkan jenazah untuk menyembunyikan kematian atau kelahirannya, dipidana dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori II.
-
-**Pasal 2TI**
-
-Setiap Orang yang secara melawan hukum menggali atau membongkar makam, mengambil, memindahkan, atau mengangkut jenazah, dan/atau memperlakukan jenazah secara tidak beradab, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori III.
-
-Bagian Kelima
-
-Penggunaan ljazah atau Gelar Akademik Palsu
-
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "menodai" misalnya, menggunakan makam sebagai tempat melakukan perbuatan asusila atau membuang kotoran.
+
+dengan atau tanpa peti jenazah dikubur, termasuk pula tanah penutupnya dan segala tanda-tanda di atasnya berupa. apa saja.
+
+Yang dimaksud dengan "tanda-tanda yang ada di atas makam" misalnya, kijing (nisan), salib, atau tumpukan batu yang disusun di atas liang.

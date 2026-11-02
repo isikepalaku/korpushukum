@@ -65,10 +65,15 @@ Cukup jelas.
 Ayat (3)
 
 Huruf a
-Lihat penjelasan Angka 27 Pasal 20 ayat (1)
+Lihat penjelasan Angka 27
+
+Pasal 20
+ayat (1)
 huruf b.
 Huruf b
 Cukup jelas.
 Huruf c
 
 Cukup jelas.
+
+Angka 36

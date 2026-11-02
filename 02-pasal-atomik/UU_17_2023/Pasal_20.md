@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Sumber Daya Kesehatan sebagaimana dimaksud Pasal 17 ayat (3) meliputi: dalam
+Sumber Daya Kesehatan sebagaimana dimaksud
+
+Pasal 17
+ayat (3) meliputi: dalam
 
 - a. Fasilitas Pelayanan Kesehatan;
 - b. Sumber Daya Manusia Kesehatan;

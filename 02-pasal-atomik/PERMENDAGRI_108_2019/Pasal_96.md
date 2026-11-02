@@ -27,14 +27,20 @@ dan
 menandatangani 
 formulir 
 pelaporan serta menyerahkan persyaratan sebagaimana 
-dimaksud dalam Pasal 95 ayat (2); 
+dimaksud dalam
+
+Pasal 95
+ayat (2); 
 b. petugas pelayanan melakukan verifikasi dan validasi 
 terhadap 
 formulir 
 pelaporan 
 dan 
 persyaratan 
-sebagaimana dimaksud dalam Pasal 95 ayat (2); 
+sebagaimana dimaksud dalam
+
+Pasal 95
+ayat (2); 
 c. petugas pelayanan melakukan perekaman data ke dalam 
 basis data kependudukan dan pencetakan dokumen; 
 d. pejabat 

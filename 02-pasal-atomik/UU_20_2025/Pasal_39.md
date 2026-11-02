@@ -5,7 +5,7 @@ uu_induk: KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undan
 kode_uu: UU_20_2025
 pasal: '39'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_20_2025
@@ -30,6 +30,20 @@ Saksi;.
 
 penyelesaian perkara.
 
+Pasal 40
+**Dalam hal Tersangka ditahan, dalam waktu 1 (satu) Hari**
+setelah perintah Penahanan tersebut dijalankan, Tersangka
+**harus mulai diperiksa oleh Penyidik.**Pasal 41 ...
+
+-----
+
+PRESIDEN
+REFUBLIK INDONESIA
+
+**-26-**
+
 ## Penjelasan Resmi
+
+**Cukup [jelas.]**Pasal 4O
 
 **Cukup [jelas.]**

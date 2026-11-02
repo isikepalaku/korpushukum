@@ -27,6 +27,30 @@ pemegang saham pada badan hukum berbentuk koperasi
 **atau usaha bersama sebagaimala dimaksud dalam [Pasal] 6 ayat (l) huruf c dan kepentingan Pemegang Polis, lbrtanggung, atau Peserta, tim likuidasi harus**
  mengutamakan kepentingan Pemegang Polis, Tertanggung, atau Peserta.
 
+Pasal 50
+(1) Permohonan pernyataan pailit terhadap Perusahaan
+
+**Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau perusahaan reasuransi syariah berdasarkan Undang-Undang ini hanya dapat diajukan**
+oleh Otoritas Jasa Keuangan.
+
+(2) Tata .
+
+-----
+
+PRESIDEN
+REPURL.IK IND ONES IA
+
+**-34-**
+
+l2t Tata cara dan persyaratan permohonan [pernyataan ] [pailit]
+
+**terhadap Perusahaan Asuransi, Perusahaan [Asuransi] Syariah, perusahaan reasuransi, atau [perusahaan] reasuransi syariah sebagaimana dimaksud [pada ]ayat [(1)] dilakukan sesuai dengan ketentuan [peraturan] perundang-undangan.**
+
+(3) Permohonan pernyataan pailit terhadap Perusahaan
+
+**Asuransi, Perusahaan Asuransi Syariah, [perusahaan] reasuransi, atau perusahaan reasuransi syariah sebagaimana dimaksud pada dapat ^yat (1) tidak diajukan dalam rangka mengeksekusi [putusan]**
+pengadilan.
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

@@ -22,7 +22,10 @@ mengamandemen: []
 
 peserta, atau Perusahaan _Ceding_ sebagaimana
 
-dimaksud dalam Pasal 61 ayat (2) dilakukan sebagai
+dimaksud dalam
+
+Pasal 61
+ayat (2) dilakukan sebagai
 
 berikut:
 

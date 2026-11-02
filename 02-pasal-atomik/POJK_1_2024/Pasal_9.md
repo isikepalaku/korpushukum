@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penilaian kualitas Aset Produktif dalam bentuk Kredit
-sebagaimana dimaksud dalam Pasal 7 ayat (1) dan Pasal 8
+sebagaimana dimaksud dalam Pasal 7 ayat (1) dan
+
+Pasal 8
 dilakukan dengan mempertimbangkan:
 a. signifikansi dan materialitas dari setiap faktor penilaian
 dan komponen; dan

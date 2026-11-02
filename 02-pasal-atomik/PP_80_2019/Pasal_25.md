@@ -51,7 +51,10 @@ Ayat (1)
 
 Huruf a 
 
-Yang dimaksud dengan "data dan informasi PMSE yang terkait dengan transaksi keuangan" adalah sebagaimana yang diatur dalam Pasal 28 ayat (11) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2OO9 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan menjadi Undang-Undang. 
+Yang dimaksud dengan "data dan informasi PMSE yang terkait dengan transaksi keuangan" adalah sebagaimana yang diatur dalam
+
+Pasal 28
+ayat (11) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2OO9 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan menjadi Undang-Undang. 
 
 **Huruf b**
 
@@ -60,3 +63,7 @@ Cukupjelas.
 Ayat (2) 
 
 Cukupjelas.
+
+Pasal 26... 
+
+PRESIDEN REPUBLIK INDONESIA - 11-

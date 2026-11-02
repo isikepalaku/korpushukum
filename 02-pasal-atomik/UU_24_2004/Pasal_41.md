@@ -24,6 +24,27 @@ mengamandemen: []
 
  lain pada bank tersebut sebagaimana dimaksud dalam
 
+Pasal 40
+huruf a, LPS dapat melakukan tindakan
+
+ sebagaimana dimaksud dalam
+
+Pasal 26.
+
+ (2) Seluruh biaya penanganan Bank Gagal yang dikeluarkan
+
+ oleh LPS menjadi penyertaan modal sementara LPS pada
+
+ bank.
+
+ (3) Ketentuan lebih lanjut mengenai penanganan Bank Gagal
+
+ sebagaimana dimaksud pada ayat (1), diatur dalam
+
+ Peraturan LPS.
+
+-----
+
 ## Penjelasan Resmi
 
 Cukup jelas.

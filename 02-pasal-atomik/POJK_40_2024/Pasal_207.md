@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penetapan Penyelenggara dalam status pengawasan intensif
-sebagaimana dimaksud dalam Pasal 206 ayat (2) huruf b,
+sebagaimana dimaksud dalam
+
+Pasal 206
+ayat (2) huruf b,
 jika:
 a. Tingkat Kesehatan Penyelenggara ditetapkan pada
 peringkat komposit 4 (empat); dan/atau

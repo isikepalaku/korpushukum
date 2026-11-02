@@ -24,7 +24,10 @@ Kripto kepada Bursa untuk ditetapkan dalam Daftar
 Aset Kripto.
 (2) Usulan sebagaimana dimaksud pada ayat (1) wajib
 terlebih dahulu dianalisis oleh Bursa sebagaimana
-dimaksud dalam Pasal 10 ayat (1).
+dimaksud dalam
+
+Pasal 10
+ayat (1).
 (3) Mekanisme penyampaian usulan penambahan
 dan/atau pengurangan Aset Kripto oleh Pedagang
 sebagaimana dimaksud pada ayat (1) dituangkan di

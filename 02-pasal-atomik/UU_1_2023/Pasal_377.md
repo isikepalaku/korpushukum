@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '377'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,5 +24,11 @@ Dipidana dengan pidana penjara paling lama 1O (sepuluh) tahun atau pidana denda 
 - b. menyimpan, memasukkan ke wilayah Negara Kesatuan Republik Indonesia mata uang sebagaimana dimaksud dalam huruf a, dengan maksud mengedarkan atau meminta mengedarkan sebagai mata uang yang tidak rusak.
 
 ## Penjelasan Resmi
+
+**Hurufa**
+
+Dalam ketentuan ini, orang yang mengedarkan uang palsu dengan tidak mengetahui tentarrg kepalsuannya tidak dapat dipidana.
+
+**Hurufb**
 
 Cukup jelas.

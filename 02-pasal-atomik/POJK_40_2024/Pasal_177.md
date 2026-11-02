@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) Peringkat komposit ditetapkan berdasarkan analisis
 yang komprehensif dan terstruktur terhadap peringkat
-setiap faktor sebagaimana dimaksud dalam Pasal 167
+setiap faktor sebagaimana dimaksud dalam
+
+Pasal 167
 ayat (2) dengan memperhatikan materialitas dan
 signifikansi masing-masing faktor.
 (2) Peringkat komposit sebagaimana dimaksud pada ayat

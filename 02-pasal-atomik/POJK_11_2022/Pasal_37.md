@@ -17,13 +17,18 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-administratif berupa teguran tertulis.
+Bank wajib memastikan Pusat Data dan Pusat Pemulihan
 
-(2) Dalam hal Bank telah dikenai sanksi administratif
+Bencana sebagaimana dimaksud dalam
 
-sebagaimana dimaksud pada ayat (1) dan belum
+Pasal 35
+menjamin
 
-memenuhi ketentuan sebagaimana dimaksud dalam
+kelangsungan usaha Bank.
+
+**t id**
+
+-----
 
 ## Penjelasan Resmi
 

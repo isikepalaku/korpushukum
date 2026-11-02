@@ -27,7 +27,10 @@ mengamandemen:
 ## Penjelasan Resmi
 
 ```
-Angka 2 Pasal 36 Cukup jelas. Angka 3 Pasal 38 Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "fasilitas utama" adalah jalur keberangkatan, jalur kedatangan, ruang tunggu penumpang, tempat naik turun penumpang, tempat parkir kendaraan, papan informasi, kantor pengendali terminal, dan loket. Yang dimaksud dengan "fasilitas penunjang" antara lain adalah fasilitas untuk penyandang disabilitas, fasilitas kesehatan, fasilitas umum, fasilitas peribadatan, pos kesehatan, pos polisi, dan alat pemadam kebakaran. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Angka 4 Pasal 39 Ayat (1) Yang dimaksud dengan "lingkungan kerja Terminal" adalah lingkungan yang berkaitan langsung dengan fasilitas Terminal dan dibatasi dengan pagar. Ayat (2) Cukup jelas.
+Angka 2
+
+Pasal 36
+Cukup jelas. Angka 3 Pasal 38 Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "fasilitas utama" adalah jalur keberangkatan, jalur kedatangan, ruang tunggu penumpang, tempat naik turun penumpang, tempat parkir kendaraan, papan informasi, kantor pengendali terminal, dan loket. Yang dimaksud dengan "fasilitas penunjang" antara lain adalah fasilitas untuk penyandang disabilitas, fasilitas kesehatan, fasilitas umum, fasilitas peribadatan, pos kesehatan, pos polisi, dan alat pemadam kebakaran. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Angka 4 Pasal 39 Ayat (1) Yang dimaksud dengan "lingkungan kerja Terminal" adalah lingkungan yang berkaitan langsung dengan fasilitas Terminal dan dibatasi dengan pagar. Ayat (2) Cukup jelas.
 ```
 
 **Ayat (s)**
@@ -35,9 +38,15 @@ Angka 2 Pasal 36 Cukup jelas. Angka 3 Pasal 38 Ayat (1) Cukup jelas. Ayat (2) Ya
 Yang dimaksud dengan swasta termasuk usaha mikro, kecil, dan menengah.
 
 ```
-Angka 5 Pasal 4O Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan swasta termasuk usaha mikro, kecil, dan menengah. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 6 Pasal 43 Ayat (1) Yang dimaksud dengan "Parkir untuk umum" adalah tempat untuk memarkir kendaraan dengan dipungut biaya. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
+Angka 5
+
+Pasal 40
+Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan swasta termasuk usaha mikro, kecil, dan menengah. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 6 Pasal 43 Ayat (1) Yang dimaksud dengan "Parkir untuk umum" adalah tempat untuk memarkir kendaraan dengan dipungut biaya. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
 ```
 
-**Angka 7**
+**Angka 7**Pasal 5O Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan swasta termasuk usaha mikro, kecil, dan menengah. Ayat (s) Cukup jelas. Angka 8 Pasal 53 Cukup jelas. Angka 9 Pasal 6O Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "mempunyai kualitas tertentu" adalah bengkel umum yang mampu melakukan jenis pekerjaan Perawatan Berkala, perbaikan kecil, perbaikan besar, serta perbaikan sasis dan bodi. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas.
+```
+
+**Angka 10**
 
 ```

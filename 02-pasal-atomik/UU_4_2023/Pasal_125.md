@@ -41,7 +41,10 @@ Bagian ...
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 126 Cukup jelas. Pasal 127 Cukup jelas. Pasal 128 Ayat (1) Cukup jelas. Ayat (2) Laporan lain termasuk anggaran dasar. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Pasal 129 Ayat (1) Cukup jelas. Ayat (2) Huruf a Pengurus dan/ atau anggota koperasi bertanggung jawab dalam resolusi. Hurufb Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Ayat (3) Cukup jelas.
+Cukup jelas.
+
+Pasal 126
+Cukup jelas. Pasal 127 Cukup jelas. Pasal 128 Ayat (1) Cukup jelas. Ayat (2) Laporan lain termasuk anggaran dasar. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Pasal 129 Ayat (1) Cukup jelas. Ayat (2) Huruf a Pengurus dan/ atau anggota koperasi bertanggung jawab dalam resolusi. Hurufb Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Ayat (3) Cukup jelas.
 ```
 
 Ayat (4) ...

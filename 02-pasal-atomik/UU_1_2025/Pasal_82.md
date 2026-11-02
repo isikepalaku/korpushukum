@@ -28,7 +28,10 @@ mengamandemen:
 
 Benturan Kepentingan dan Kerahasiaan Informasi
 
-145. Ketentuan Pasal 85 diubah sehingga berbunyi sebagai berikut:
+145. Ketentuan
+
+Pasal 85
+diubah sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 

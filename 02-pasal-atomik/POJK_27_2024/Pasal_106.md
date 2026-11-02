@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 102 ayat (3), dan Pasal 105,
+dimaksud dalam Pasal 102 ayat (3), dan
+
+Pasal 105,
 dikenakan sanksi administratif berupa:
 a. peringatan tertulis;
 b. penghentian sementara, sebagian, atau seluruh
@@ -53,7 +55,10 @@ Huruf b
 Cukup jelas.
 Huruf c
 
-Lihat penjelasan Pasal 17 ayat (1) huruf d.
+Lihat penjelasan
+
+Pasal 17
+ayat (1) huruf d.
 Huruf d
 
 Cukup jelas.

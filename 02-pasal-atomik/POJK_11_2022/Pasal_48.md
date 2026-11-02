@@ -17,15 +17,62 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sanksi administratif berupa:
+(1) Bank hanya dapat menyediakan jasa TI kepada
 
-a. larangan untuk menerbitkan produk Bank baru;
+lembaga jasa keuangan lain:
 
-b. pembekuan kegiatan usaha tertentu; dan/atau
+**t id**
 
-c. penurunan penilaian faktor tata kelola dalam
+-----
 
-penilaian tingkat kesehatan Bank.
+a. yang diawasi oleh Otoritas Jasa Keuangan;
+
+dan/atau
+
+b. di luar wilayah Indonesia yang diawasi otoritas
+
+pengawas dan pengatur lembaga jasa keuangan
+
+setempat.
+
+(2) Bank yang akan menyediakan jasa TI sebagaimana
+
+dimaksud pada ayat (1), wajib:
+
+a. memenuhi persyaratan penyediaan jasa TI tidak
+
+menjadi salah satu kegiatan pokok Bank;
+
+b. memenuhi prinsip kehati-hatian;
+
+c. memperhatikan analisis biaya dan manfaat;
+
+d. memenuhi prinsip hubungan kerja sama secara
+
+wajar; dan
+
+e. memenuhi ketentuan peraturan perundang
+undangan.
+
+(3) Bank wajib memperoleh izin Otoritas Jasa Keuangan
+
+untuk setiap rencana penyediaan jasa TI sebagaimana
+
+dimaksud pada ayat (1).
+
+(4) Penyediaan jasa TI berupa aplikasi kepada lembaga
+
+jasa keuangan selain bank dapat dilakukan sepanjang:
+
+a. lembaga jasa keuangan pengguna jasa TI berada
+
+dalam satu grup atau kelompok dengan Bank;
+
+dan
+
+b. penggunaan aplikasi ditujukan untuk
+
+mendukung kegiatan operasional yang umum.
 
 ## Penjelasan Resmi
 

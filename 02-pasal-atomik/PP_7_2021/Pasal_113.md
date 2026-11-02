@@ -24,5 +24,4 @@ mengamandemen: []
 Crrkup [jelas.]
 
 Pasal tt4
-
 **Cukup jelas.**

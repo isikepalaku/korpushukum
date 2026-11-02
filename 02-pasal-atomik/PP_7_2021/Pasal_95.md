@@ -100,9 +100,7 @@ REPUBLIK INDONESIA
 Menengah.
 **(4) Kebijakan/program kemudahan, pelindungan, dan**
 
-**pemberdayaan Usaha Mikro, Kecil, dan Menengah dilaksanakan sesuai dengan pembagian ke"rrenangan sebagaimana diatur dalam ketentuan peraturan perundang-undangan mengenai pernerintahan daerah.**
-
-Pasal
+**pemberdayaan Usaha Mikro, Kecil, dan Menengah dilaksanakan sesuai dengan pembagian ke"rrenangan sebagaimana diatur dalam ketentuan peraturan perundang-undangan mengenai pernerintahan daerah.**Pasal
 
 -----
 

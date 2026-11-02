@@ -50,4 +50,5 @@ Angka (9) . . .
 Ayat (9) 
 Cukup jelas. 
 Ayat (10) 
-Cukup jelas.
+Cukup jelas. 
+Angka 15

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang melakukan kegiatan menyebarluaskan bahan yang mengandung penyebab penyakit dan/ atau agen biologi penyebab penyakit dan masalah Kesehatan yang berpotensi menimbulkan KLB dan Wabah sebagaimana dimaksud dalam Pasal 399 dipidana dengan pidana penjara paling lama 12 (dua belas) tahun atau pidana denda paling banyak RpS. 000. 000. O00, 0O (lima miliar rupiah).
+Setiap Orang yang melakukan kegiatan menyebarluaskan bahan yang mengandung penyebab penyakit dan/ atau agen biologi penyebab penyakit dan masalah Kesehatan yang berpotensi menimbulkan KLB dan Wabah sebagaimana dimaksud dalam
+
+Pasal 399
+dipidana dengan pidana penjara paling lama 12 (dua belas) tahun atau pidana denda paling banyak RpS. 000. 000. O00, 0O (lima miliar rupiah).
 
 ## Penjelasan Resmi
 

@@ -33,7 +33,7 @@ mengamandemen: []
 
 (3) Pemberitahuan . . .
 
-- (3) Permnberitahuan penghapusan dan/atau pemusnahan Data Pribadi kepada Subjek Data Pribadi dilakukan sebelum dan setelah penghapusan dan/atau pemusnahan Data Pribadi dilakukan dalam hal scbapaimana dimaksud dalam Pasa! 82 ayat (1) huruf a dan huruf d dan Pasal $4 ayat (1) huraf a, hurufc, dan huruf d.
+- (3) Permnberitahuan penghapusan dan/atau pemusnahan Data Pribadi kepada Subjek Data Pribadi dilakukan sebelum dan setelah penghapusan dan/atau pemusnahan Data Pribadi dilakukan dalam hal scbapaimana dimaksud dalam Pasal 82 ayat (1) huruf a dan huruf d dan Pasal $4 ayat (1) huraf a, hurufc, dan huruf d.
 
 - (4) Pemberitahuan penghapusan dan/atau pemusnahan Data Pribadi kepada Subjek Data Pribadi dilakukan s¢telah penghapusan danjfatau pemusnahan dilakukan dalam hal sebagaimana dimaksud dalam Pasal 82 ayat (1) huruf b dan huruf ¢ dan Pasal 84 ayat (1) huruf b.
 

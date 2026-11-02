@@ -19,8 +19,10 @@ mengamandemen: []
 
 (1) Penyelenggara Perdagangan Aset Keuangan Digital yang
 melanggar ketentuan sebagaimana dimaksud dalam
-107 ayat (1), ayat (3), Pasal 108 ayat (2), ayat (4), Pasal
-110 ayat (2), Pasal 111, dan Pasal 112 dikenai sanksi
+107 ayat (1), ayat (3),
+
+Pasal 108
+ayat (2), ayat (4), Pasal 110 ayat (2), Pasal 111, dan Pasal 112 dikenai sanksi
 administratif berupa:
 a. peringatan tertulis;
 b. penghentian sementara, sebagian, atau seluruh
@@ -31,7 +33,10 @@ tercela di sektor keuangan; dan/atau
 e. pencabutan izin usaha.
 (2) Penyelenggara Perdagangan Aset Keuangan Digital yang
 tidak memenuhi ketentuan sebagaimana dimaksud
-dalam Pasal 108 ayat (2) huruf b, huruf c, dan huruf d
+dalam
+
+Pasal 108
+ayat (2) huruf b, huruf c, dan huruf d
 dikenai sanksi administratif berupa denda sebesar Rp
 
 -----
@@ -40,17 +45,26 @@ dikenai sanksi administratif berupa denda sebesar Rp
 untuk setiap laporan.
 (3) Penyelenggara Perdagangan Aset Keuangan Digital yang
 tidak menyampaikan laporan sebagaimana dimaksud
-dalam Pasal 109 ayat (1) dan Pasal 110 ayat (5), dikenai
+dalam Pasal 109 ayat (1) dan
+
+Pasal 110
+ayat (5), dikenai
 denda administratif sebesar Rp2.000.000,00 (dua juta
 rupiah) untuk setiap laporan.
 (4) Penyelenggara Perdagangan Aset Keuangan Digital yang
 tidak menyampaikan laporan sebagaimana dimaksud
-dalam Pasal 109 ayat (3) dikenai denda administratif
+dalam
+
+Pasal 109
+ayat (3) dikenai denda administratif
 sebesar Rp50.000.000,00 (lima puluh juta rupiah)
 untuk setiap laporan.
 (5) Penyelenggara Perdagangan Aset Keuangan Digital yang
 tidak memenuhi ketentuan sebagaimana dimaksud
-dalam Pasal 110 ayat (2) dikenai sanksi administratif
+dalam
+
+Pasal 110
+ayat (2) dikenai sanksi administratif
 berupa denda sebesar Rp200.000,00 (dua ratus ribu
 rupiah) per hari keterlambatan untuk setiap laporan.
 (6) Sanksi administratif sebagaimana dimaksud pada ayat

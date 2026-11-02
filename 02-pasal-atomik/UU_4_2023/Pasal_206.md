@@ -34,6 +34,9 @@ Kriteria tertentu di antaranya mencakup kepemilikan secara langsung oleh Pemerin
 
 Ayat (6)
 
-Cukup jelas. Ayat (7) Cukup jelas. Pasal 207 Cukup jelas. Pasal 208
+Cukup jelas. Ayat (7) Cukup jelas.
+
+Pasal 207
+Cukup jelas. Pasal 208
 
 Cukup jelas.

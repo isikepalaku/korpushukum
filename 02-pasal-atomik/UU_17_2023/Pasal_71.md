@@ -21,8 +21,7 @@ mengamandemen: []
 2. (21 Pemerintah Pusat, Pemerintah Daerah, dan masyarakat bertanggung jawab atas penyelenggaraan Upaya Kesehatan penglihatan dan pendengaran yang sesuai dengan standar, aman, bermutu, dan terjangkau.
 - (3) Upaya Kesehatan penglihatan dan pendengaran sebagaimana dimaksud pada ayat (1) dapat dilakukan melalui pemberdayaan masyarakat.
 
-## Pasa772
-
+## Pasal 72
 - (U Upaya Kesehatan penglihatan dan pendengaran diselenggarakan secara terpadu, komprehensif, efektif, efisien, dan berkelanjutan.
 - (21 Dalam penyelenggaraan Upaya Kesehatan penglihatan dan pendengaran sebagaimana dimaksud pada ayat (1), Pemerintah Pusat dan Pemerintah Daerah dapat menetapkan gangguan penglihatan dan gangguan pendengaran tertentu sebagai prioritas nasional atau daerah.
 

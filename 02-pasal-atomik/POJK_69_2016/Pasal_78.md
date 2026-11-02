@@ -20,9 +20,15 @@ mengamandemen: []
 
 (1) Dalam hal Perusahaan melakukan pelanggaran
 
-terhadap ketentuan dalam Pasal 16 ayat (1)
+terhadap ketentuan dalam
 
-dan Pasal 76 ayat (1) Peraturan OJK ini
+Pasal 16
+ayat (1)
+
+dan
+
+Pasal 76
+ayat (1) Peraturan OJK ini
 
 dikenai sanksi administratif tambahan berupa
 

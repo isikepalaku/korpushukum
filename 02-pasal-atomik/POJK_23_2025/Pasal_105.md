@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 27-2024 (Aset Keuangan Digital Termasuk Aset Kript
 kode_uu: POJK_23_2025
 pasal: '105'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_23_2025
@@ -19,7 +19,10 @@ mengamandemen:
 ## Batang Tubuh
 
 Penyedia jasa pembayaran sebagaimana dimaksud
-dalam Pasal 102 ayat (2) huruf a wajib memenuhi
+dalam
+
+Pasal 102
+ayat (2) huruf a wajib memenuhi
 ketentuan:
 a. memberikan hak akses kepada Otoritas Jasa
 Keuangan dalam melakukan pengawasan;
@@ -56,3 +59,5 @@ berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 73

@@ -24,7 +24,7 @@ mengamandemen: []
 
 ###### a. penyajian Laporan Keuangan; b. akuntansi aset; c. akuntansi liabilitas; d. akuntansi dana syirkah temporer; dan e. akuntansi ekuitas. (4) Kebijakan akuntansi Koperasi Sektor Riil sebagaimana dimaksud pada ayat (1) huruf c terdiri atas: a. penyajian Laporan Keuangan; b. akuntansi aset; c. akuntansi liabilitas; dan d. akuntansi ekuitas.
 
- Pasa14
+ Pasal 4
 (1) Koperasi yang menjalankan Kegiatan Usaha Simpan
 ###### Pinjam wajib menggunakan SAKIndonesia untuk Entitas Privat. (2) Koperasi yang menjalankan Kegiatan Usaha Simpan Pinjam yang telah menggunakan SAK Indonesia dikecualikan terhadap penggunaan SAKIndonesia untuk Entitas Privat sebagaimana dimaksud pada ayat (1). (3) Koperasi Sektor Riil menggunakan SAKyang diatur oleh
  instansi pembina sektor usaha. (4) Dalam hal instansi pembina sektor usaha belum mengatur SAKuntuk Koperasi Sektor Riil sebagaimana dimaksud pada ayat (3), kebijakan akuntansi Koperasi menggunakan: a. SAKIndonesia; b. SAKIndonesia untuk Entitas Privat; atau c. SAK Indonesia untuk Entitas Mikro, Kecil, dan Menengah. (5) Koperasiyang menjalankan kegiatan usaha di sektor jasa

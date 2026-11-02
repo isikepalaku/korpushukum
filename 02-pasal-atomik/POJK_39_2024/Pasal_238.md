@@ -21,7 +21,10 @@ Bagi Perusahaan yang telah memperoleh izin usaha pada
 saat Peraturan Otoritas Jasa Keuangan ini diundangkan,
 kewajiban terkait rasio pemberian Pinjaman dengan
 Benda Jaminan berdasarkan hukum Gadai sebagaimana
-dimaksud dalam Pasal 137 mulai berlaku 2 (dua) tahun
+dimaksud dalam
+
+Pasal 137
+mulai berlaku 2 (dua) tahun
 sejak Peraturan Otoritas Jasa Keuangan ini diundangkan.
 
 ## Penjelasan Resmi

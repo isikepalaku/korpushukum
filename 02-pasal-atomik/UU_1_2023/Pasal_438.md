@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '438'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -28,4 +28,4 @@ Bagian Keenam . . .
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Tindak Pidana dalam ketentuan ini terjadi jika seseorang dengan suatu perbuatan menimbulkan persangkaan bahwa orang lain melakukan Tindak Pidana, sedangkan persangkaan tersebut tidak benar, misalnya, A meletakkan jam tangan milik C di dalam laci B dengan maksud agar B dituduh mencuri jam tangan milik C.

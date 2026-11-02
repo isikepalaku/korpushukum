@@ -19,15 +19,30 @@ mengamandemen: []
 
 (1) Bank BHI yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 32, Pasal 33 ayat (2), Pasal 35
+dimaksud dalam Pasal 32,
 
-ayat (1), Pasal 38 ayat (1), Pasal 39 ayat (2), Pasal 40
+Pasal 33
+ayat (2), Pasal 35
 
-ayat (1), Pasal 41 ayat (1), ayat (2), ayat (3), Pasal 42
+ayat (1),
 
-ayat (1), Pasal 43 ayat (1), Pasal 44, Pasal 45 ayat (1),
+Pasal 38
+ayat (1), Pasal 39 ayat (2), Pasal 40
 
-dan/atau Pasal 46 dikenai sanksi administratif berupa
+ayat (1),
+
+Pasal 41
+ayat (1), ayat (2), ayat (3), Pasal 42
+
+ayat (1),
+
+Pasal 43
+ayat (1), Pasal 44, Pasal 45 ayat (1),
+
+dan/atau
+
+Pasal 46
+dikenai sanksi administratif berupa
 
 teguran tertulis.
 

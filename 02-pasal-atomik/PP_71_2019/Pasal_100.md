@@ -73,8 +73,4 @@ Ayat(3)...
 
 SK No011771 A
 
-Ayat (3) Cukupjelas. Ayat (4) Cukupjelas. Ayat (5) Cukupjelas. Pasal 101 Cukupjelas. Pasal 1O2 Cukupjelas. Pasal 103 Cukupjelas. Pasal 104 Cukup jelas
-
-TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6400
-
-SK No011772 A
+Ayat (3) Cukupjelas. Ayat (4) Cukupjelas. Ayat (5) Cukupjelas.

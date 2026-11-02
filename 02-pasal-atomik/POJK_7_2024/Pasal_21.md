@@ -18,9 +18,15 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pelaksanaan penghentian kegiatan usaha sebagaimana
-dimaksud dalam Pasal 19 dan penyesuaian jenis dan wilayah
+dimaksud dalam
+
+Pasal 19
+dan penyesuaian jenis dan wilayah
 jaringan kantor BUK atau BUS menjadi BPR atau BPR Syariah
-sebagaimana dimaksud dalam Pasal 20 mengacu pada
+sebagaimana dimaksud dalam
+
+Pasal 20
+mengacu pada
 pedoman pelaksanaan penyesuaian kegiatan usaha dan
 jaringan kantor BUK atau BUS menjadi BPR atau BPR syariah
 tercantum dalam Lampiran Bagian E yang merupakan bagian

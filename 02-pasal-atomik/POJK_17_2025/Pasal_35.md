@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Persyaratan kompetensi bagi Pihak Utama sebagaimana
-dimaksud dalam Pasal 31 huruf b, dibuktikan paling sedikit
+dimaksud dalam
+
+Pasal 31
+huruf b, dibuktikan paling sedikit
 dengan:
 a. pengetahuan dan/atau pengalaman di bidang yang
 relevan dengan jabatan; dan

@@ -116,7 +116,10 @@ Undang-Undang tentang Perubahan Kedua Atas
 Undang-Undang Nomor 23 Tahun 1999 tentang
 Bank Indonesia;
 
-Mengingat : 4. Pasal 22 ayat (1) Undang-Undang Dasar Negara
+Mengingat : 4.
+
+Pasal 22
+ayat (1) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945;
 
 2. Undang-Undang …
@@ -153,9 +156,11 @@ Menetapkan : PERATURAN PEMERINTAH PENGGANTI UNDANGUNDANG TENTANG PERUBAHAN KEDUA
 UNDANG-UNDANG NOMOR 23 TAHUN 1999 TENTANG
 BANK INDONESIA.
 
-Pasal I
+Pasal 1
+Ketentuan
 
-Ketentuan Pasal 11 ayat (2) dan ayat (5) Undang-Undang
+Pasal 11
+ayat (2) dan ayat (5) Undang-Undang
 Nomor 23 Tahun 1999 tentang Bank Indonesia
 (Lembaran Negara Republik Indonesia Tahun 1999
 Nomor 66, Tambahan Lembaran Negara Republik

@@ -64,5 +64,3 @@ Kebijakan privasi merupakan Sertifikat Keandalan yang jaminan keandalannya adala
 Ayat (2) Cukupjelas.
 
 Ayat (3) Cukupjelas.
-
-Pasal TT Cukupj

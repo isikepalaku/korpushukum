@@ -17,7 +17,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+(1) Penyelenggara dapat melakukan Pemisahan UUS
+berdasarkan permintaan sendiri.
+(2) Penyelenggara yang memiliki UUS wajib melakukan
+Pemisahan UUS jika:
+a. UUS memenuhi kriteria tertentu yang ditetapkan
+oleh Otoritas Jasa Keuangan; atau
+b. terdapat perintah Otoritas Jasa Keuangan dalam
+rangka konsolidasi.
 
 ## Penjelasan Resmi
 

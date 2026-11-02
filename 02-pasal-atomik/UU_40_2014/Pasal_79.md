@@ -21,6 +21,10 @@ mengamandemen: []
 **Anggota direksi dan/atau pihak yang menandatangani polis baru dari Perusahaan Asuransi atau Perusahaan Asuransi Syariah yang sedang dalam pengenaan sanksi pembatasan kegiatan usaha sebagaimana dimaksud dalam Pasal 34 dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp15.000.000.000,00 (lima**
 belas miliar rupiah).
 
+Pasal 80
+**Setiap Orang, yang ditunjuk atau ditugasi oleh Otoritas Jasa Keuangan, yang menggunakan atau mengungkapkan informasi apapun yang bersifat rahasia kepada pihak lain, kecuali dalam rangka pelaksanaan fungsi, tugas, dan wewenangnya berdasarkan keputusan Otoritas Jasa Keuangan atau diwajibkan oleh undang-undang sebagaimana dimaksud dalam Pasal 67, dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak**
+Rp20. 0OO. 000.000,00 (dua puluh miliar rupiah).
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

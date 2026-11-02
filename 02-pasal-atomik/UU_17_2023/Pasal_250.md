@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan sebagaimana dimaksud dalam Pasal 24A dikecualikan bagi Tenaga Medis spesialis dan subspesialis serta Tenaga Kesehatan tingkat kompetensi tertentu warga negara asing lulusan luar negeri yang merupakan:
+Ketentuan sebagaimana dimaksud dalam
+
+Pasal 24A dikecualikan bagi Tenaga Medis spesialis dan subspesialis serta Tenaga Kesehatan tingkat kompetensi tertentu warga negara asing lulusan luar negeri yang merupakan:
 
 ## NEPUBLIK INDONESIA
 

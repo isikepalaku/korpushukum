@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Data Pribadi Penduduk yang harus dilindungi
-sebagaimana dimaksud dalam Pasal 54 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 54
+ayat (1)
 disimpan pada basis data Kementerian, Dinas
 Kependudukan dan Pencatatan Sipil Provinsi, dan
 Dinas Kependudukan dan Pencatatan Sipil

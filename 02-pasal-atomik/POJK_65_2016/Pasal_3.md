@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penerapan Manajemen Risiko sebagaimana dimaksud dalam Pasal 2 ayat (1) paling sedikit mencakup:
+Penerapan Manajemen Risiko sebagaimana dimaksud dalam
+
+Pasal 2
+ayat (1) paling sedikit mencakup:
 
 - a. pengawasan aktif Direksi, Dewan Komisaris, dan Dewan Pengawas Syariah;
 

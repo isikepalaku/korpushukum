@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai pelaksanaan wewenang dan tanggung jawab Pemerintah dan Pemerintah Daerah sebagaimana dimaksud dalam Pasal 28 sampai dengan Pasal 30B diatur dalam Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai pelaksanaan wewenang dan tanggung jawab Pemerintah dan Pemerintah Daerah sebagaimana dimaksud dalam Pasal 28 sampai dengan
+
+Pasal 30B diatur dalam Peraturan Pemerintah.
 
 37. Ketentuan Pasal 3l berikut: diubah sehingga berbunyi sebagai
 

@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Fasilitas Pelayanan Kesehatan tingkat pertama sebagaimana dimaksud dalam Pasal L67 dan Fasilitas Pelayanan Kesehatan tingkat lanjut sebagaimana dimaksud dalam Pasal 16B dalam melaksanakan Pelayanan Kesehatan primer dan Pelayanan Kesehatan lanjutan didukung oleh Fasilitas Pelayanan Kesehatan penunjang.
+Fasilitas Pelayanan Kesehatan tingkat pertama sebagaimana dimaksud dalam Pasal L67 dan Fasilitas Pelayanan Kesehatan tingkat lanjut sebagaimana dimaksud dalam
+
+Pasal 16B dalam melaksanakan Pelayanan Kesehatan primer dan Pelayanan Kesehatan lanjutan didukung oleh Fasilitas Pelayanan Kesehatan penunjang.
 
 ## Penjelasan Resmi
 

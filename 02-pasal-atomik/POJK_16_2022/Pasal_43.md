@@ -17,21 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-utama Bank dapat dikenai sanksi administratif berupa
-larangan sebagai pihak utama sesuai dengan Peraturan
-
------
-
-OJK mengenai penilaian kembali bagi pihak utama
-lembaga jasa keuangan.
-
-BAB VI
-DIREKSI, DEWAN KOMISARIS, DPS, DAN PEJABAT
-
-EKSEKUTIF BANK, SERTA PEMIMPIN KPBLN
-
-Bagian Kesatu
-Direksi dan Dewan Komisaris
+Pembelian kembali saham yang telah dikeluarkan oleh Bank
+wajib memperoleh persetujuan terlebih dahulu dari OJK dan
+dilaksanakan sesuai dengan ketentuan peraturan
+perundang-undangan.
 
 ## Penjelasan Resmi
 

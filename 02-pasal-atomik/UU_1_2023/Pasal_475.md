@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '475'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,5 +26,11 @@ mengamandemen: []
 **TINDAK PIDANA PENCURIAN**
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Dari jabatan atau profesi tertentu diharapkan adanya rasa tanggung jawab dalam menjalankan tugas atau pekerjaan yang dipercayakan kepada mereka. Dengan perkataan lain, kealpa.an harus dihindarkan oleh orang yang menjalankan tugas atau pekerjaan secara bertanggung jawab. Oleh karena itu, jika terjadi suatu kealpaan, ancarran pidananya dapat ditambah dengan 1/3 (satu per tiga).
+
+Ayat(21
 
 Cukup jelas.

@@ -18,9 +18,32 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dan Pasal 98 diancam dengan pidana penjara paling
-lama 10 (sepuluh) tahun dan denda paling banyak
-Rp15.000.000.000,00 (lima belas miliar rupiah).
+Setiap Pihak dilarang, dengan cara apa pun, membuat pernyataan atau
+
+ memberikan keterangan yang secara material tidak benar atau
+
+ menyesatkan sehingga mempengaruhi harga Efek di Bursa Efek apabila
+
+ pada saat pernyataan dibuat atau keterangan diberikan:
+
+ a. Pihak yang bersangkutan mengetahui atau sepatutnya mengetahui
+
+ bahwa pernyataan atau keterangan tersebut secara material tidak
+
+ benar atau menyesatkan; atau
+
+ b. Pihak yang bersangkutan tidak cukup berhati-hati dalam
+
+ menentukan kebenaran material dari pernyataan atau keterangan
+
+```
+
+-----
+
+**tersebut.**
+
+```
+ - 50
 
 ## Penjelasan Resmi
 

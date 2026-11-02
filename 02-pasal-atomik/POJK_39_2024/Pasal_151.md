@@ -20,9 +20,14 @@ mengamandemen: []
 (1) Perusahaan wajib memberitahukan dan
 mengembalikan Uang Kelebihan dari hasil penjualan
 Benda Jaminan dengan cara Lelang sebagaimana
-dimaksud dalam Pasal 148 ayat (1) atau berdasarkan
-kuasa menjual sebagaimana dimaksud dalam Pasal
-148 ayat (2) huruf b kepada Nasabah.
+dimaksud dalam
+
+Pasal 148
+ayat (1) atau berdasarkan
+kuasa menjual sebagaimana dimaksud dalam
+
+Pasal 148
+ayat (2) huruf b kepada Nasabah.
 (2) Perusahaan wajib mencatat secara terpisah Uang
 Kelebihan dari hasil penjualan sebagaimana dimaksud
 pada ayat (1).

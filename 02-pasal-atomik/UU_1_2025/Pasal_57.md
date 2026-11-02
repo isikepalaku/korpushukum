@@ -24,4 +24,9 @@ mengamandemen:
 
 Dihapus.
 
-Angka 93 Pasal 58 Dihapus.
+Angka 93
+
+Pasal 58
+Dihapus.
+
+Angka 94

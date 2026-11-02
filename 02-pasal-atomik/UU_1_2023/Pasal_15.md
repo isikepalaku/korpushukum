@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '15'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -30,5 +30,25 @@ mengamandemen: []
 - (5) Pidana tambahan untuk persiapan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
 
 ## Penjelasan Resmi
+
+Ayat (l)
+
+Yang dimaksud dengan "sarana" adalah segala sesuatu yang dapat dipakai sebagai alat dalam mencapai tujuan.
+
+Persiapan melakukan Tindak Pidana hanya diljatuhi pidana bagi Tindak Pidana yang sangat serius. Dengan demikian, kriteria persiapan melakukan Tindak Pidana ditekankan pada sifat bahayanya Tindak Pidana, misalnya mengimpor bahan kimia atau bahan peledak untuk persiapan melakukan Tindak Pidana.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
+
+Cukup jelas.
+
+Ayat (s)
 
 Cukup jelas.

@@ -38,4 +38,7 @@ Cukup jelas.
 Huruf b
 Cukup jelas.
 Huruf c
-Lihat penjelasan Pasal 62 ayat (2) huruf d.
+Lihat penjelasan
+
+Pasal 62
+ayat (2) huruf d.

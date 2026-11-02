@@ -17,41 +17,56 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dikenai sanksi administratif.
-(2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
-juga kepada Pihak yang menyebabkan terjadinya
-pelanggaran sebagaimana dimaksud pada ayat (1).
-(3) Sanksi sebagaimana dimaksud pada ayat (1) dan ayat
-(2) dijatuhkan oleh Otoritas Jasa Keuangan.
-(4) Sanksi sebagaimana dimaksud pada ayat (1) berupa:
-a. peringatan tertulis;
-b. denda yaitu kewajiban untuk membayar sejumlah
+(1) Perjanjian penerbitan Efek bersifat utang atau Sukuk
+antara Penyelenggara selaku kuasa Pemodal dengan
+Penerbit sebagaimana dimaksud dalam
 
-uang tertentu;
-c. pembatasan kegiatan usaha;
-d. pembekuan kegiatan usaha;
-e. pencabutan izin usaha; dan/atau
-f. pembatalan persetujuan.
-(5) Sanksi administratif sebagaimana dimaksud pada ayat
-(4) huruf b, huruf c, huruf d, huruf e, atau huruf f,
-dapat dikenakan dengan atau tanpa didahului
-pengenaan sanksi administratif berupa peringatan
-tertulis sebagaimana dimaksud pada ayat (4) huruf a.
-(6) Sanksi administratif berupa denda sebagaimana
-dimaksud pada ayat (4) huruf b dapat dikenakan secara
-tersendiri atau secara bersama-sama dengan
-pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (4) huruf c.
+Pasal 129
+huruf b harus dituangkan dalam akta.
+(2) Akta sebagaimana dimaksud pada ayat (1) dapat
+berupa akta notaris.
+(3) Akta sebagaimana dimaksud pada ayat (1) dapat
+berbentuk Dokumen Elektronik.
+(4) Perjanjian sebagaimana dimaksud pada ayat (1) wajib
+memuat paling sedikit:
+a. nomor perjanjian;
+b. tanggal perjanjian;
+c. identitas para Pihak;
 
 -----
 
- - 82
-(7) Tata cara pengenaan sanksi sebagaimana dimaksud
-pada ayat (3) dilakukan sesuai dengan ketentuan
-peraturan perundang-undangan di bidang pasar modal.
+ - 80
+d. ketentuan mengenai hak dan kewajiban para
+Pihak;
+e. jumlah pokok dan/atau nilai pokok, jatuh tempo,
+dan bunga, besaran nisbah bagi hasil, margin,
+atau imbal jasa;
+f. jaminan, jika terdapat jaminan;
+g. kegagalan Penerbit dalam memenuhi kewajiban
+terkait dengan aspek kesyariahan, jika
+menerbitkan Sukuk;
+h. pelunasan lebih awal Efek bersifat utang atau
+Sukuk;
+i. penggunaan dana;
+j. keadaan lalai Penerbit;
+k. rapat umum pemegang Efek bersifat utang atau
+Sukuk; dan
+l. larangan bagi Penerbit untuk melakukan
+penawaran Efek bersifat utang atau Sukuk baru
+sebelum Penerbit memenuhi seluruh
+kewajibannya berdasarkan penghimpunan dana
+melalui Layanan Urun Dana, kecuali penawaran
+Efek bersifat utang atau Sukuk dilakukan secara
+bertahap.
+(5) Penyelenggara wajib memuat pokok perjanjian
+sebagaimana dimaksud pada ayat (4) dalam situs web
+Penyelenggara paling lambat 2 (dua) hari kerja sebelum
+dimulainya masa penawaran.
 
-BAB X
-MITIGASI RISIKO
+Bagian Ketiga
+Perjanjian Penyelenggaraan Layanan Urun Dana antara
+
+Penyelenggara dan Pemodal
 
 ## Penjelasan Resmi
 

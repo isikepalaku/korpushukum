@@ -20,19 +20,28 @@ mengamandemen: []
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan persetujuan rencana
 Pemisahan UUS berdasarkan permintaan sendiri
-sebagaimana dimaksud dalam Pasal 35 ayat (2) dalam
+sebagaimana dimaksud dalam
+
+Pasal 35
+ayat (2) dalam
 jangka waktu paling lama 20 (dua puluh) hari kerja
 sejak dokumen permohonan diterima secara lengkap.
 (2) Penyelenggara yang akan melakukan Pemisahan UUS
 berdasarkan permintaan sendiri sebagaimana
-dimaksud dalam Pasal 35 ayat (1) tetap dapat
+dimaksud dalam
+
+Pasal 35
+ayat (1) tetap dapat
 melakukan kegiatan usaha Pendanaan dan kegiatan
 usaha Pendanaan Syariah.
 (3) Untuk memberikan persetujuan atau penolakan
 sebagaimana dimaksud pada ayat (1), Otoritas Jasa
 Keuangan melakukan:
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 35 ayat (2);
+sebagaimana dimaksud dalam
+
+Pasal 35
+ayat (2);
 b. analisis kelayakan atas rencana Pemisahan UUS;
 c. penilaian kemampuan dan kepatutan terhadap
 calon anggota Direksi, calon anggota Dewan

@@ -17,8 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengolahan data lainnya sebagaimana dimaksud dalam Pasal 
-95 huruf c, merupakan pengolahan data sesuai dengan 
+Pengolahan data lainnya sebagaimana dimaksud dalam
+
+Pasal 95
+huruf c, merupakan pengolahan data sesuai dengan 
 kebutuhan.
 
 ## Penjelasan Resmi

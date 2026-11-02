@@ -17,8 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BAB IX KETENTUAN PENUTUP Pasal 27
-Ketentuan Undang-undang ini berlaku juga terhadap pembebanan hak jaminan atas Rumah Susun dan Hak Milik atas Satuan Rumah Susun.
+BAB IX KETENTUAN PENUTUP
 
 ## Penjelasan Resmi
 

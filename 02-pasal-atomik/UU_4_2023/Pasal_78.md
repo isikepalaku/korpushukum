@@ -41,5 +41,8 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 79 Ayat (1) Pengaturan ini dimaksudkan untuk melaksanakan Pasal 53 ayat (2) Undang-Undang Nomor 40 Tahun 2014 tentang Perasuransian. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 80 Cukup jelas. Pasal 81 Ayat (1) Huruf a Surat pemyataan menjadi salah satu persyaratan pemenuhan syarat administratif penilaian kemampuan dan kepatutan oleh Otoritas Jasa Keuangan. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Ayat (2) Cukup jelas.
+Cukup jelas.
+
+Pasal 79
+Ayat (1) Pengaturan ini dimaksudkan untuk melaksanakan Pasal 53 ayat (2) Undang-Undang Nomor 40 Tahun 2014 tentang Perasuransian. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 80 Cukup jelas. Pasal 81 Ayat (1) Huruf a Surat pemyataan menjadi salah satu persyaratan pemenuhan syarat administratif penilaian kemampuan dan kepatutan oleh Otoritas Jasa Keuangan. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Ayat (2) Cukup jelas.
 ```

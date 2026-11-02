@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Permohonan perbaikan sertifikat Jaminan Fidusia
-sebagaimana dimaksud dalam Pasal 9 diajukan dalam jangka
+sebagaimana dimaksud dalam
+
+Pasal 9
+diajukan dalam jangka
 waktu paling lama 30 (tiga puluh) hari terhitung sejak tanggal
 sertifikat Jaminan Fidusia diterbitkan.
 

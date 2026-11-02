@@ -27,7 +27,10 @@ Ayat (1)
 Huruf a
 
 Tugas Bank Indonesia dalam mengatur dan mengawasi
-bank sebagaimana dimaksud dalam Pasal 8 huruf c yang
+bank sebagaimana dimaksud dalam
+
+Pasal 8
+huruf c yang
 dialihkan ke OJK adalah tugas pengaturan dan
 pengawasan yang berkaitan dengan _microprudential_
 sebagaimana dimaksud Undang-Undang ini.

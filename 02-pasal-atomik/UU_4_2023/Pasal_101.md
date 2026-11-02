@@ -37,7 +37,10 @@ Yang dimaksud dengan "penyidikan atas tindak pidana di bidang Pasar Modal" adala
 Penyidik Otoritas Jasa Keuangan adalah pejabat atau pegawai tertentu di lingkungan Otoritas Jasa Keuangan yang diangkat oleh menteri yang menyelenggarakan urusan pemerintahan di bidang hukum sebagai penyidik sesuai dengan ketentuan peraturan perundang-undangan.
 
 ```
-Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 42 Pasal 103 Cukup jelas.
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 42
+
+Pasal 103
+Cukup jelas.
 ```
 
 - c. obyek yang dirugikan;
@@ -45,3 +48,5 @@ Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup
 - e. biaya yang dikeluarkan dalam rangka penetapan besarnya ganti rugi dan pemanfaatannya.
 
 Angka 43 ...
+
+Angka 43

@@ -23,7 +23,10 @@ mengamandemen: []
 a-vat (1) paling sedikit berupa:
 **a. media luar ruang; dan b. rLlang pameran.**
 **(21 Penyediaan tempat pengembangan usaha untuk**
- Usaha Mikro dan Usaha Kecil sebagaimana dimaksud dalam Pasal 60 ayat (1) paling sedikit berupa:
+ Usaha Mikro dan Usaha Kecil sebagaimana dimaksud dalam
+
+Pasal 60
+ayat (1) paling sedikit berupa:
 **a. tempat berjualan; b. tempat bekerja atau akomodasi; dan c. pergudangan.**
 
  (3) Tempat proryosi dan pengembangan usaha untuk
@@ -32,9 +35,7 @@ Usaha Mikro dan Usaha Kecil berada di lokasi strategis
 **pada infrastruktur publik.**
 **(4) Penyediaan tempat promosi sebagaimana dimaksud**
 
-**pada ayat (1) dan pengembangan usaha sebagaimana dimaksud ayat (2) berlaku pula bagi Usaha Menengah pada tempat istirahat dan pelayanan [jalan ] tol.**
-
-Pasal
+**pada ayat (1) dan pengembangan usaha sebagaimana dimaksud ayat (2) berlaku pula bagi Usaha Menengah pada tempat istirahat dan pelayanan [jalan ] tol.**Pasal
 
 -----
 

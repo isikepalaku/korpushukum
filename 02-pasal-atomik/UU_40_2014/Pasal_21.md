@@ -31,3 +31,13 @@ mengamandemen: []
  Cukup [jelas.]
  Ayat (a)
  Pemisahan kekayaan dan kewajiban dilaksanakan dengan tetap memperhatikan keseirnbangan a-rrtara pengembangan u saha dan pelindungan konsumen.
+
+Pasal 22
+-----
+
+**$-,D**
+
+PRESIDEN
+R EP IJB I- IK INDONES IA
+
+**- 10-**

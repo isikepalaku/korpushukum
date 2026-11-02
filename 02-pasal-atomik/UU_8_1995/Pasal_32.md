@@ -30,6 +30,8 @@ mengamandemen: []
 
  lebih lanjut dengan Peraturan Pemerintah.
 
+Pasal 33…
+
 ## Penjelasan Resmi
 
 Cukup jelas.

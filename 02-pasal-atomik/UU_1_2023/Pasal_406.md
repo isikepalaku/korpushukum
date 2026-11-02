@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '406'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,5 +26,11 @@ Dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda pali
 **Bagian Kedua Pornografi**
 
 ## Penjelasan Resmi
+
+**Hurufa**
+
+Yang dimaksud dengan nmelanggar kesusilaan" adalah melakukan perbuatan mempertunjukkan ketelanjangan, alat kelamin, dan aktivitas seksual yang bertentangan dengan nilai-nilai yang hidup dalam masyarakat di tempat dan waktu perbuatan tersebut dilakukan.
+
+**Hurufb**
 
 Cukup jelas.

@@ -53,7 +53,10 @@ Peleburan, atau Pengambilalihan, OJK berwenang
 memberikan perintah tertulis sesuai dengan Peraturan
 OJK mengenai perintah tertulis.
 (7) Ketentuan sebagaimana dimaksud dalam Pasal 103
-sampai dengan Pasal 127 berlaku secara mutatis
+sampai dengan
+
+Pasal 127
+berlaku secara mutatis
 mutandis terhadap Penggabungan, Peleburan, atau
 Pengambilalihan atas perintah OJK.
 
@@ -88,10 +91,16 @@ penetapan status dan tindak lanjut pengawasan BPR dan
 BPR Syariah.
 Ayat (3)
 
-Lihat penjelasan Pasal 108 ayat (1).
+Lihat penjelasan
+
+Pasal 108
+ayat (1).
 Ayat (4)
 
-Lihat penjelasan Pasal 108 ayat (1).
+Lihat penjelasan
+
+Pasal 108
+ayat (1).
 Ayat (5)
 
 Cukup jelas.

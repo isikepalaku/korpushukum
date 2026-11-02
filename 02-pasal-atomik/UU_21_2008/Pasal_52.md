@@ -19,9 +19,46 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Persyaratan dan tata cara pemeriksaan sebagaimana
-dimaksud pada ayat (1) diatur dengan Peraturan Bank
-Indonesia.
+(1) Bank Syariah dan UUS wajib menyampaikan segala
+keterangan dan penjelasan mengenai usahanya kepada Bank
+Indonesia menurut tata cara yang ditetapkan dengan
+Peraturan Bank Indonesia.
+
+(2) Bank Syariah dan UUS, atas permintaan Bank Indonesia,
+
+wajib memberikan kesempatan bagi pemeriksaan buku-buku
+dan berkas-berkas yang ada padanya, serta wajib
+memberikan bantuan yang diperlukan dalam rangka
+memperoleh kebenaran dari segala keterangan, dokumen,
+dan penjelasan yang dilaporkan oleh Bank Syariah dan UUS
+yang bersangkutan.
+
+(3) Dalam rangka pelaksanaan tugas pengawasan sebagaimana
+
+dimaksud pada ayat (1) dan ayat (2), Bank Indonesia
+berwenang:
+
+a. memeriksa . . .
+
+-----
+
+ - 27
+a. memeriksa dan mengambil data/dokumen dari setiap
+tempat yang terkait dengan Bank;
+
+b. memeriksa dan mengambil data/dokumen dan
+keterangan dari setiap pihak yang menurut penilaian
+Bank Indonesia memiliki pengaruh terhadap Bank; dan
+
+c. memerintahkan Bank melakukan pemblokiran rekening
+tertentu, baik rekening Simpanan maupun rekening
+Pembiayaan.
+
+(4) Keterangan dan laporan pemeriksaan tentang Bank Syariah
+
+dan UUS yang diperoleh berdasarkan ketentuan
+sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3)
+tidak diumumkan dan bersifat rahasia.
 
 ## Penjelasan Resmi
 

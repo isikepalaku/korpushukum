@@ -23,7 +23,11 @@ mengamandemen: []
 Bapepam dapat menetapkan tindakan tertentu yang
 dapat dilakukan oleh Perusahaan Efek yang bukan
 merupakan tindakan yang dilarang sebagaimana
-dimaksud dalam Pasal 91 dan Pasal 92.
+dimaksud dalam Pasal 91 dan
+
+Pasal 92.
+
+**Pasal 95…**
 
 ## Penjelasan Resmi
 

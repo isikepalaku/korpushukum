@@ -53,6 +53,12 @@ mengamandemen: []
 
  (3) Dalam hal terjadi keadaan sebagaimana dimaksud dalam
 
+ Pasal 11 ayat (2), penahapan nilai Simpanan yang dijamin
+
+ sebagaimana dimaksud pada ayat (2) dapat diubah dengan
+
+ Peraturan Pemerintah.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

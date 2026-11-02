@@ -17,13 +17,31 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-teguran tertulis.
+(1) Bank wajib memiliki satuan kerja penyelenggara TI
 
-(2) Dalam hal Bank telah dikenai sanksi administratif
+yang bertanggung jawab atas pengelolaan TI.
 
-sebagaimana dimaksud pada ayat (1) dan belum
+(2) Pengelolaan TI sebagaimana dimaksud pada ayat (1)
 
-memenuhi ketentuan sebagaimana dimaksud dalam
+paling sedikit berupa aktivitas:
+
+a. perencanaan;
+
+b. penyusunan atau pengembangan;
+
+c. pengoperasian; dan
+
+d. pemantauan,
+
+atas kegiatan penyelenggaraan TI.
+
+(3) Aktivitas pengelolaan TI sebagaimana dimaksud pada
+
+ayat (2) dilaksanakan sesuai dengan arahan yang
+
+ditetapkan oleh Direksi untuk mencapai tujuan bisnis
+
+Bank.
 
 ## Penjelasan Resmi
 

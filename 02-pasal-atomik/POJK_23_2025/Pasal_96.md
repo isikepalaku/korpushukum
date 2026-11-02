@@ -29,3 +29,5 @@ kerjasama dengan pihak ketiga.
 Ayat (2)
 
 Cukup jelas.
+
+Angka 66

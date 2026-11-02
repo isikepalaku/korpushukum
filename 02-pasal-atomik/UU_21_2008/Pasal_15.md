@@ -20,7 +20,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Perubahan kepemilikan Bank Syariah wajib memenuhi ketentuan
-sebagaimana dimaksud dalam Pasal 9 sampai dengan Pasal 14.
+sebagaimana dimaksud dalam Pasal 9 sampai dengan
+
+Pasal 14.
 
 ## Penjelasan Resmi
 

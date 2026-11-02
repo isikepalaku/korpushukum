@@ -19,11 +19,17 @@ mengamandemen: []
 ## Batang Tubuh
 
 **(1) Dalam hal terdapat sisa hasil likuidasi sebagaimana**
- dimaksud dalam Pasal 47 ayat (2), tagihan [yang ]timbul dalam [jangka ] waktu 2 (dua) tahun sejak [proses ] [kuidasi
+ dimaksud dalam
+
+Pasal 47
+ayat (2), tagihan [yang ]timbul dalam [jangka ] waktu 2 (dua) tahun sejak [proses ] [kuidasi
 
 selesai diajukan melalui Otoritas Jasa Keuangan kepada
 **pemegang saham atau yang setara dengan pemegarlg saham pada badan hukum berbentuk koperasi atau usaha bersama ssla [ga ][i ][p6qna ]dimaksud dalam [Pasal ] [6] ayat (1) huruf c. (21 Tagihan sebagaimana dimaksud pada ayat (1)**
- dibebankan pada sisa hasil likuidasi yang merupakan hak pemegang saham atau yang setara dengan [pemegang] saham pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c.
+ dibebankan pada sisa hasil likuidasi yang merupakan hak pemegang saham atau yang setara dengan [pemegang] saham pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (1) huruf c.
 
 ## Penjelasan Resmi
 

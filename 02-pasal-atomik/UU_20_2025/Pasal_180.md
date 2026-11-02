@@ -18,7 +18,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Restitusi dikembalikan kepada pelaku dalam hal Terdakwa diputus bebas atau lepas dari segala tuntutan hukum.**
+**Restitusi dikembalikan kepada pelaku dalam hal Terdakwa diputus bebas atau lepas dari segala tuntutan hukum.**Pasal 181.. .
+
+-----
+
+PRESIDEN
+REPUBUK INDONESIA
+
+**-98-**
 
 ## Penjelasan Resmi
 

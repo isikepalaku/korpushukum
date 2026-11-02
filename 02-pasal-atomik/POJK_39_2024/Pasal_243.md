@@ -20,14 +20,20 @@ mengamandemen: []
 (1) Perusahaan yang telah memperoleh izin usaha pada
 saat Peraturan Otoritas Jasa Keuangan ini
 diundangkan, kewajiban terkait Ekuitas sebagaimana
-dimaksud dalam Pasal 194 ayat (1) mulai berlaku 2
+dimaksud dalam
+
+Pasal 194
+ayat (1) mulai berlaku 2
 (dua) tahun sejak Peraturan Otoritas Jasa Keuangan ini
 diundangkan.
 (2) Perusahaan yang telah memperoleh izin usaha pada
 saat Peraturan Otoritas Jasa Keuangan ini
 diundangkan, kewajiban terkait rasio Ekuitas terhadap
 Modal Disetor dalam penetapan status pengawasan
-sebagaimana dimaksud dalam Pasal 194 ayat (2) mulai
+sebagaimana dimaksud dalam
+
+Pasal 194
+ayat (2) mulai
 berlaku 1 (satu) tahun sejak Peraturan Otoritas Jasa
 Keuangan ini diundangkan.
 

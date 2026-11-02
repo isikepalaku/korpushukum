@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data lahir mati sebagaimana dimaksud dalam Pasal 7 ayat (4) 
+Data lahir mati sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (4) 
 huruf b, terdiri dari elemen data: 
 a. 
 lamanya dalam kandungan; 

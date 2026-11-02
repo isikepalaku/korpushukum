@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '451'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,4 @@ Paragraf 1 Pengalihan Kekuasaan
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Penyanderaan mirupakan salah satu bentuk Tindak Pidana menghilangkan kemerdekaan seseorang. Berbeda dengan penculikan, penyanderaan dilakukan agar orang yang disandera tetap berada di tempa.t kediamannya atau di tempat lain dan dilakukan dengan Kekerasan atau Ancaman Kekerasan.

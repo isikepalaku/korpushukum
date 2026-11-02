@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penerapan Manajemen Risiko sebagaimana dimaksud dalam Pasal 3 wajib disesuaikan dengan tujuan, kebijakan usaha, ukuran, dan kompleksitas usaha serta kemampuan Bank.
+Penerapan Manajemen Risiko sebagaimana dimaksud dalam
+
+Pasal 3
+wajib disesuaikan dengan tujuan, kebijakan usaha, ukuran, dan kompleksitas usaha serta kemampuan Bank.
 
 ## Penjelasan Resmi
 

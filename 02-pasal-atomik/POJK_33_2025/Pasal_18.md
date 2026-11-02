@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) PPDP menyampaikan hasil penilaian sendiri Tingkat
 Kesehatan PPDP kepada Otoritas Jasa Keuangan
-sebagaimana dimaksud dalam Pasal 4 ayat (5) harus
+sebagaimana dimaksud dalam
+
+Pasal 4
+ayat (5) harus
 secara daring melalui sistem pelaporan Otoritas Jasa
 Keuangan.
 (2) Dalam hal sistem pelaporan Otoritas Jasa Keuangan

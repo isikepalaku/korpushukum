@@ -4,7 +4,7 @@ judul: "Map of Content - Koperasi di Sektor Jasa Keuangan"
 kode_uu: POJK_47_2024
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_47_2024]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Koperasi di Sektor Jasa Keuangan (POJK_47_2024)
@@ -19,7 +19,7 @@ last_updated: 2026-11-01
 - [[Pasal_4]]: (1) Koperasi yang telah menjalankan kegiatan usaha dan
 - [[Pasal_5]]: (1) Persyaratan Modal Sendiri bagi Koperasi yang memilih
 - [[Pasal_6]]: (1) Menteri menyerahkan daftar Koperasi yang telah
-- [[Pasal_7]]: memberitahukan kepada Koperasi yang memilih
+- [[Pasal_7]]: (1) Izin Koperasi yang memilih menjadi LJK diberikan
 - [[Pasal_8]]: (1) Untuk memberikan persetujuan atau penolakan
 - [[Pasal_9]]: (1) Dalam hal permohonan izin usaha yang disampaikan
 - [[Pasal_10]]: (1) Terhadap pemrosesan permohonan izin usaha sebagai

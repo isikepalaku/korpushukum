@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Persetujuan prinsip perubahan bentuk badan hukum BPR
-atau BPR Syariah sebagaimana dimaksud dalam Pasal 92
+atau BPR Syariah sebagaimana dimaksud dalam
+
+Pasal 92
 ayat (1) berlaku untuk jangka waktu 120 (seratus dua
 puluh) hari kerja setelah tanggal persetujuan.
 (2) Dalam hal BPR atau BPR Syariah tidak menyampaikan

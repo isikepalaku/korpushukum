@@ -20,7 +20,9 @@ mengamandemen: []
 
 Ancaman pidana penjara atau pidana kurungan dan pidana denda
 
- sebagaimana dimaksud dalam Pasal 71, Pasal 72, dan Pasal 73, berlaku
+ sebagaimana dimaksud dalam Pasal 71,
+
+Pasal 72, dan Pasal 73, berlaku
 
  pula bagi setiap pihak, baik langsung maupun tidak langsung, turut serta,
 

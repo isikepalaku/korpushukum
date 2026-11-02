@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bank Digital sebagaimana dimaksud dalam Pasal 23 dapat
+Bank Digital sebagaimana dimaksud dalam
+
+Pasal 23
+dapat
 
 beroperasi melalui:
 

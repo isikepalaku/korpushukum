@@ -23,7 +23,7 @@ mengamandemen: []
 **sikap hormat kepada pengadilan dan mematuhi perintah pengadilan yang dikeluarkan untuk kepentingan proses peradilan. (21 Setiap orang yang berada di sidang pengadilan**
  bersikap tidak sesuai dengan martabat pengadilan, menyerang integritas aparat penegak hukum, petugas pengadilan, atau persidangan dalam sidang pengadilan dan tidak menaati tata tertib setelah mendapat peringatan dari Hakim ketua sidang, atas perintah Halim ketua sidang, yang bersangkutan dikeluarkan dari ruang sidang.
 
- Pasal2TO
+Pasal 270
 **(1) Setiap orang dilarang membawa senjata api, senjata**
 
 **tajam, bahan peledak, alat atau benda yang dapat membahayakan keamanan sidang.**
@@ -55,4 +55,15 @@ REPUEUK INDONESIA
 bertanggung jawab kepada hukum, sesama manusia, dan dirinya,
 tetapi [juga ] kepada T\rhan Yang Maha Esa.
 **Ayat (2)**
+ Cukup [jelas.]
+
+Pasal 270
+**Ayat (1)**
+ Cukup [jelas.] Ayat (2)
+ Yang dimaksud dengan "petugas keamanan" adalah pejabat
+ Kepolisian Negara Republik Indonesia dan tanpa mengurangi wewenangnya dalam melakukan tugasnya wajib melaksanakan petunjuk ketua pengadilan negeri yang bersangkutan. Ayat (3)
+ Seseorang yang membawa senjata api, senjata tajam, bahan peledak, alat ataupun benda yang dapat membahayakan keamanan sidang tersebut wajib menitipkan di tempat khusus
+yang disediakan untuk itu.
+**Ayat (4)**
+ Cukup [jelas.] Ayat (s)
  Cukup [jelas.]

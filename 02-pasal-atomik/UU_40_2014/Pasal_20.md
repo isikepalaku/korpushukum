@@ -43,8 +43,7 @@ d ipersyaratlan pada awal [pendirian.]
 **sebagaimana dimaksud [pada ]ayat [(l), ][ayat ][(2), ][ayat ][(3),] dan ayat (4) diatur dalam Peraturan Otoritas [Jasa]**
 Keuangan.
 
-Pasa] 2l
-
+Pasal 21
 (1) Kekayaan dan kewajiban yang terkait dengan [hak]
 
 **Pemegang Polis, Tertanggung, atau [Peserta ][wajib] dipisahkan dari kekayaan dan kewajiban [yang ][lain ][dari] Perusahaan Asuransi, Perusahaan Asuransi [Syariah,] perusahaan reasuransi, atau perusahaan [reasuransi] syariah.**

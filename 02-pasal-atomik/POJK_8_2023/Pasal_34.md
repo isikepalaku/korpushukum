@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Kewajiban verifikasi Pemilik Manfaat (Beneficial Owner)
-sebagaimana dimaksud dalam Pasal 30 berlaku pula
+sebagaimana dimaksud dalam
+
+Pasal 30
+berlaku pula
 terhadap Calon Nasabah, WIC, atau Nasabah berupa:
 a. lembaga negara atau instansi pemerintah;
 b. perusahaan yang mayoritas sahamnya dimiliki oleh

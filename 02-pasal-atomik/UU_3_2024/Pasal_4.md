@@ -34,6 +34,13 @@ g.meningkatkan...
 - i. memperkuat masyarakat Desa sebagai subjek pembangunan.
 3. Di antara Pasal 5 dan Pasal 6 disisipkan 1 (satu) pasal, yakni Pasal 5A sehingga berbunyi sebagai berikut:
 
+**Pasal 5A**
+
+- (1) Desa yang berada di kawasan suaka alam, kawasan pelestarian alam, hutan produksi, dan kebun produksi berhak mendapatkan dana konservasi dan/atau dana rehabilitasi berdasarkan ketentuan peraturan perundang-undangan.
+2. (21 Ketentuan mengenai dana konservasi dan/atau dana rehabilitasi sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
+4. Penjelasan Pasal 8 ayat (3) huruf h diubah sebagaimana tercantum dalam penjelasan.
+5. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

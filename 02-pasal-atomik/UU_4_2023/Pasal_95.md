@@ -27,7 +27,9 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Cukup jelas. Angka 65 Pasal 95A Cukup jelas. Pasal 8 Angka 1 Pasal 1
+Cukup jelas. Angka 65
+
+Pasal 95A Cukup jelas. Pasal 8 Angka 1 Pasal 1
 Cukup jelas.
 
 Angka 2 ...

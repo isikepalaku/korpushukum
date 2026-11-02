@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Tempat pelayanan sebagaimana dimaksud dalam Pasal 3 ayat 
+Tempat pelayanan sebagaimana dimaksud dalam
+
+Pasal 3
+ayat 
 (1) huruf k, dilakukan pada Satuan Kerja Pelaksana atau 
 tempat pelayanan lainnya yang tersambung dengan server 
 SIAK. 

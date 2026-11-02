@@ -45,7 +45,9 @@ Kepala BP BUMN serta organ dan pegawai Badan, tidak dapat dimintai pertanggungia
 
 ## Pasal 3AC
 
-Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 3AB ayat (2), Holding Investasi berwenang melakukan tindakan sebagai berikut:
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+
+Pasal 3AB ayat (2), Holding Investasi berwenang melakukan tindakan sebagai berikut:
 
 - a. menlrusun dan mengusulkan rencana kerja dan anggaran perusahaan Holding Investasi;
 - b. melakukan pengelolaan dividen BUMN;
@@ -131,7 +133,9 @@ c. sehat . . .
 
 ## Pasal 3AL
 
-Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 3AK ayat (21, Holding Operasional berwenang melakukan tindakan sebagai berikut:
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+
+Pasal 3AK ayat (21, Holding Operasional berwenang melakukan tindakan sebagai berikut:
 
 - a. men)rusun dan mengusulkan rencana kerja dan anggaran perusahaan Holding Operasional;
 - b. menerbitkan surat utang dan/atau menerima pinjaman;
@@ -145,7 +149,7 @@ f. mengusulkan . . .
 
 - mengusulkan kontrak manajemen Holding Operasional kepada Badan untuk mendapatkan persetqiuan; dan f.
 - tindakan lain yang ditetapkan oleh kepala BP BUMN atau Badan atau diatur dalam anggaran dasar HoLding Operasional. o
-22. Pasal3AM dihapus.
+22. Pasal 3AM dihapus.
 23. Ketentuan Pasal 4A diubah sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi

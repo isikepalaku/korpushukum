@@ -8,9 +8,8 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_27_2024
-status_berlaku: diubah
-diamandemen_oleh:
-- '[[02-pasal-atomik/POJK_23_2025/Pasal_43|POJK 23/2025 Pasal 43]]'
+status_berlaku: berlaku
+diamandemen_oleh: []
 mengamandemen: []
 ---
 
@@ -41,7 +40,10 @@ Huruf a
 Cukup jelas.
 Huruf b
 
-Lihat penjelasan Pasal 42 ayat (1) huruf b angka 3.
+Lihat penjelasan
+
+Pasal 42
+ayat (1) huruf b angka 3.
 Huruf c
 
 Perjanjian tingkat layanan lebih dikenal dengan istilah service

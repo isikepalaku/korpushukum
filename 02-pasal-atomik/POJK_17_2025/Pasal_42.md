@@ -18,10 +18,15 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penilaian sendiri atas calon Pihak Utama sebagaimana
-dimaksud pada Pasal 37 ayat (1) memuat penilaian
+dimaksud pada
+
+Pasal 37
+ayat (1) memuat penilaian
 atas:
 a. pemenuhan persyaratan sebagaimana dimaksud
-dalam Pasal 31; dan
+dalam
+
+Pasal 31; dan
 b. pemenuhan persyaratan sesuai dengan ketentuan
 perundang-undangan.
 (2) Hasil penilaian sendiri sebagaimana dimaksud pada
@@ -32,4 +37,7 @@ Pihak Utama kepada Otoritas Jasa Keuangan.
 
 ## Penjelasan Resmi
 
-Lihat penjelasan Pasal 16 huruf f.
+Lihat penjelasan
+
+Pasal 16
+huruf f.

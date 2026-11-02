@@ -4,7 +4,7 @@ judul: "Map of Content - Peraturan Pelaksanaan Perpres 96-2018 (Pendaftaran Pend
 kode_uu: PERMENDAGRI_108_2019
 type: moc
 tags: [moc, hukum/pidana, uu/permendagri_108_2019]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Peraturan Pelaksanaan Perpres 96-2018 (Pendaftaran Penduduk dan Pencatatan Sipil) (PERMENDAGRI_108_2019)

@@ -22,7 +22,9 @@ mengamandemen: []
 status pengawasan dari status pengawasan intensif
 menjadi status pengawasan normal jika kondisi PPDP
 membaik dan tidak lagi memenuhi kriteria
-sebagaimana dimaksud dalam Pasal 4.
+sebagaimana dimaksud dalam
+
+Pasal 4.
 (2) Penetapan perubahan status pengawasan PPDP
 sebagaimana dimaksud pada ayat (1) diberitahukan
 secara tertulis oleh Otoritas Jasa Keuangan kepada

@@ -21,6 +21,18 @@ mengamandemen: []
 Ketentuan lebih lanjut mengenai permodalan sebagaimana dimaksud
 dalam Pasal 4 huruf b, kepemilikan LKM sebagaimana dimaksud dalam
 
+Pasal 8, dan tata cara perizinan usaha sebagaimana dimaksud dalam
+Pasal 9
+diatur dalam Peraturan Otoritas Jasa Keuangan.
+
+BAB IV
+
+KEGIATAN USAHA DAN CAKUPAN WILAYAH USAHA
+
+Bagian Kesatu
+
+Kegiatan Usaha
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -17,7 +17,24 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-68, Pasal 69, Pasal 70, Pasal 74 ayat (1), ayat (2),
+(1) Direksi Penyelenggara Perdagangan Aset Keuangan
+Digital wajib memastikan pelaksanaan penerapan
+prinsip tata kelola yang baik sebagaimana dimaksud
+dalam
+
+Pasal 62
+ayat (2).
+(2) Direksi Penyelenggara Perdagangan Aset Keuangan
+Digital wajib menindaklanjuti temuan audit dan
+rekomendasi dari:
+a. fungsi kepatuhan, manajemen risiko, dan audit
+internal;
+b. temuan audit eksternal;
+c. hasil pengawasan Dewan Komisaris; dan
+d. hasil pengawasan Otoritas Jasa Keuangan.
+
+Paragraf 2
+Pelaksanaan Tugas dan Tanggung Jawab Dewan Komisaris
 
 ## Penjelasan Resmi
 

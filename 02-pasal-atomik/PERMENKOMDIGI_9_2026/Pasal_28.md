@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan mengenai penilaian mandiri, pelaporan hasil penilaian mandiri, verifikasi hasil penilaian mandiri, dan penetapan profil risiko sebagaimana dimaksud dalam Pasal 9 sampai dengan Pasal 25 berlaku secara mutatis mutandis terhadap penilaian mandiri ulang, pelaporan hasil penilaian mandiri ulang, verifikasi hasil penilaian mandiri ulang, dan penetapan profil risiko baru berdasarkan perubahan sebagaimana dimaksud dalam Pasal 26. 
+Ketentuan mengenai penilaian mandiri, pelaporan hasil penilaian mandiri, verifikasi hasil penilaian mandiri, dan penetapan profil risiko sebagaimana dimaksud dalam
+
+Pasal 9
+sampai dengan Pasal 25 berlaku secara mutatis mutandis terhadap penilaian mandiri ulang, pelaporan hasil penilaian mandiri ulang, verifikasi hasil penilaian mandiri ulang, dan penetapan profil risiko baru berdasarkan perubahan sebagaimana dimaksud dalam Pasal 26. 
 
 # Bagian Ketujuh Akun Anak dan Profil Risiko
 

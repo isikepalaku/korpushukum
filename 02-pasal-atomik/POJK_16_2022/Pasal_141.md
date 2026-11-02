@@ -17,32 +17,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-denda sebesar Rp1.000.000,00 (satu juta rupiah) per
-hari kerja dan paling banyak Rp30.000.000,00 (tiga
-puluh juta rupiah).
-(3) Dalam hal Bank atau KPBLN telah dikenai sanksi
-administratif sebagaimana dimaksud pada ayat (1)
-dan/atau ayat (2), dan tetap melanggar ketentuan
-sebagaimana dimaksud dalam Pasal 141 ayat (1)
-dan/atau Pasal 143, Bank atau KPBLN dikenai sanksi
-administratif berupa:
-a. pembatasan dan/atau larangan melakukan
-kegiatan KPBLN.
-b. larangan melakukan ekspansi kegiatan usaha;
-dan/atau
-c. pembekuan kegiatan usaha tertentu.
-(4) Dalam hal Bank atau KPBLN telah dikenai sanksi
-administratif sebagaimana dimaksud pada ayat (1)
-dan/atau ayat (2) dan tetap melanggar ketentuan
-sebagaimana dimaksud dalam Pasal 141 ayat (1),
-dan/atau Pasal 143, pihak utama Bank atau pemimpin
-KPBLN dapat dikenai sanksi administratif berupa
-larangan sebagai pihak utama sesuai dengan Peraturan
-OJK mengenai penilaian kembali bagi pihak utama
-lembaga jasa keuangan.
-
-BAB XV
-KETENTUAN PERALIHAN
+(1) Bank wajib menyampaikan risalah RUPS kepada OJK
+paling lama 14 (empat belas) hari kerja setelah
+diselenggarakannya RUPS, sepanjang risalah RUPS
+dimaksud belum diatur sebagai persyaratan
+kelengkapan dokumen dalam Peraturan OJK ini atau
+ketentuan OJK lain.
+(2) Jangka waktu penyampaian risalah RUPS sebagaimana
+dimaksud pada ayat (1) bagi Bank berupa perusahaan
+terbuka sesuai dengan Peraturan OJK mengenai
+penyelenggaraan RUPS perusahaan terbuka.
 
 ## Penjelasan Resmi
 

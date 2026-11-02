@@ -44,7 +44,10 @@ Cukup jelas.
 ## NEPUEUK INDONESIA
 
 ```
-Ayat (4) Cukup jelas. Pasal 30 Cukup jelas. Pasal 31 Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "kontak pertama" adalah layanan Kesehatan pertama yang diterima oleh masyarakat untuk mengatasi permasalahan Kesehatan dasar. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Yang dimaksud dengan "status Kesehatan" adalah deskripsi dan/ atau pengukuran Kesehatan perorangan atau populasi pada titik waktu tertentu terhadap standar yang dapat diidentifikasi, dan dilakukan dengan mengacu pada indikator Kesehatan. Ayat (9) Cukup jelas. Pasal 32 Ayat (1) Cukup jelas.
+Ayat (4) Cukup jelas.
+
+Pasal 30
+Cukup jelas. Pasal 31 Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "kontak pertama" adalah layanan Kesehatan pertama yang diterima oleh masyarakat untuk mengatasi permasalahan Kesehatan dasar. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Yang dimaksud dengan "status Kesehatan" adalah deskripsi dan/ atau pengukuran Kesehatan perorangan atau populasi pada titik waktu tertentu terhadap standar yang dapat diidentifikasi, dan dilakukan dengan mengacu pada indikator Kesehatan. Ayat (9) Cukup jelas. Pasal 32 Ayat (1) Cukup jelas.
 ```
 
 Ayat (2)

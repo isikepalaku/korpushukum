@@ -107,3 +107,5 @@ Cukup jelas.
 Huruf f
 
 Cukup jelas.
+
+Angka 17

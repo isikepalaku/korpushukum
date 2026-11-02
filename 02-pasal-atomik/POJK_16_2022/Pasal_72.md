@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Kantor Bank selain KP dan Kanwil sebagaimana dimaksud
-dalam Pasal 71 ayat (1) dapat menjalankan kegiatan layanan
+dalam
+
+Pasal 71
+ayat (1) dapat menjalankan kegiatan layanan
 dan operasional kepada nasabah dengan menggunakan
 saluran elektronik dan/atau penyediaan TPE baik secara
 menyeluruh atau sebagian.

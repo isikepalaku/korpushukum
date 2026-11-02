@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Persyaratan integritas bagi Pihak Utama sebagaimana
-dimaksud dalam Pasal 31, paling sedikit:
+dimaksud dalam
+
+Pasal 31, paling sedikit:
 a. cakap melakukan perbuatan hukum;
 b. memiliki akhlak dan moral yang baik;
 c. memiliki komitmen untuk mematuhi ketentuan

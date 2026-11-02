@@ -31,6 +31,10 @@ mengamandemen: []
 
 - (4) Pengendali Data Pribadi dapat berkonsultasi dengan Lembaga dalam menyusun ketentuan pemrosesan Data Pribadi yang berlaku di internal,
 
+Pasal 29°...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

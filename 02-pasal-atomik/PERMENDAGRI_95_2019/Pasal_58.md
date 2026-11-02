@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Pemeliharaan perangkat keras sebagaimana dimaksud 
-dalam Pasal 56 huruf b, terdiri dari: 
+dalam
+
+Pasal 56
+huruf b, terdiri dari: 
 a. 
 Pusat Data dan Pusat Data Cadangan; dan 
 b. 

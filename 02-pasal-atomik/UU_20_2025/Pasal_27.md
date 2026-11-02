@@ -18,7 +18,11 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Dalam hal terhadap penghentian Penyidikan yang dilakukan untuk menindaklanjuti keputusan gelar perkara diajukan permohonan ke pengadilan negeri untuk memeriksa sah atau tidalnya penghentian Penyidikan dan pengadilan negeri memutuskan penghentian Penyidikan tidak sah, Penuntut Umum wajib melakukan Penuntutan.**
+**Dalam hal terhadap penghentian Penyidikan yang dilakukan untuk menindaklanjuti keputusan gelar perkara diajukan permohonan ke pengadilan negeri untuk memeriksa sah atau tidalnya penghentian Penyidikan dan pengadilan negeri memutuskan penghentian Penyidikan tidak sah, Penuntut Umum wajib melakukan Penuntutan.**Pasal 28...
+
+-----
+
+**-22-**
 
 ## Penjelasan Resmi
 

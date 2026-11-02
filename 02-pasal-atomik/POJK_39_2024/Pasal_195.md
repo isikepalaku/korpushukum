@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 194 dikenai sanksi administratif
+dimaksud dalam
+
+Pasal 194
+dikenai sanksi administratif
 berupa:
 a. peringatan tertulis
 b. pembekuan sebagian atau seluruh kegiatan
@@ -73,7 +76,10 @@ Umum
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

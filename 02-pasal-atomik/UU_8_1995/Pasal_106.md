@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Setiap Pihak yang melakukan pelanggaran atas ketentuan
 
- sebagaimana dimaksud dalam Pasal 70 diancam dengan pidana
+ sebagaimana dimaksud dalam
+
+Pasal 70
+diancam dengan pidana
 
  penjara paling lama 10 (sepuluh) tahun dan denda paling banyak
 
@@ -28,7 +31,10 @@ mengamandemen: []
 
  (2) Setiap Pihak yang melakukan pelanggaran atas ketentuan
 
- sebagaimana dimaksud dalam Pasal 73 diancam dengan pidana
+ sebagaimana dimaksud dalam
+
+Pasal 73
+diancam dengan pidana
 
  penjara paling lama 3 (tiga) tahun dan denda paling banyak
 

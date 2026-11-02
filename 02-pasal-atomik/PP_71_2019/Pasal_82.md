@@ -35,6 +35,12 @@ mengamandemen: []
 
 - l7lRegistrar NamaDomain selain Instansiwajib terdaftar pada Menteri
 
+Pasal 83...
+
+SK No011729 A
+
+FRESIDEN REPUBLIK TNDONESIA
+
 ## Penjelasan Resmi
 
 Cukupjelas.

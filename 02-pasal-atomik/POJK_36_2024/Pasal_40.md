@@ -64,7 +64,71 @@ persetujuan tertulis dari pemegang polis,
 tertanggung, atau peserta.
 
 22. Di antara Pasal 40 dan Pasal 41, disisipkan 1 (satu)
-pasal, yakni Pasal 40A sehingga berbunyi sebagai
+pasal, yakni
+
+Pasal 40A sehingga berbunyi sebagai
+berikut:
+
+Pasal 40A
+(1) Dalam perjanjian dukungan reasuransi fakultatif,
+Perusahaan Reasuransi, Perusahaan Reasuransi
+Syariah, atau Unit Syariah pada Perusahaan
+Reasuransi wajib menyelesaikan pembayaran
+klaim sesuai:
+a. jangka waktu pembayaran klaim atau
+manfaat yang ditetapkan dalam perjanjian
+reasuransi/perjanjian reasuransi syariah;
+atau
+b. paling lama 30 (tiga puluh) hari sejak adanya:
+1. kesepakatan antara Perusahaan _Ceding_
+dengan Perusahaan Reasuransi,
+Perusahaan Reasuransi Syariah, atau
+Unit Syariah pada Perusahaan
+Reasuransi; atau
+2. kepastian mengenai jumlah klaim yang
+harus dibayar,
+
+-----
+
+mana yang lebih singkat.
+(2) Dalam perjanjian dukungan reasuransi otomatis,
+Perusahaan Reasuransi, Perusahaan Reasuransi
+Syariah, atau Unit Syariah pada Perusahaan
+Reasuransi wajib menyelesaikan pembayaran
+klaim sesuai jangka waktu pembayaran klaim atau
+manfaat yang ditetapkan dalam perjanjian
+dukungan reasuransi otomatis.
+(3) Dalam hal Perusahaan Reasuransi, Perusahaan
+Reasuransi Syariah, atau Unit Syariah pada
+Perusahaan Reasuransi diwajibkan membayar
+klaim berdasarkan putusan lembaga alternatif
+penyelesaian sengketa terkait, Perusahaan
+Reasuransi, Perusahaan Reasuransi Syariah, atau
+Unit Syariah pada Perusahaan Reasuransi wajib
+membayar klaim tersebut paling lama 30 (tiga
+puluh) hari sejak putusan ditetapkan atau
+ditetapkan lain dalam putusan lembaga alternatif
+penyelesaian sengketa terkait.
+(4) Dalam hal proses penyelesaian klaim telah
+dilimpahkan kepada pengadilan, Perusahaan
+Reasuransi, Perusahaan Reasuransi Syariah, atau
+Unit Syariah pada Perusahaan Reasuransi wajib
+membayar klaim paling lama 30 (tiga puluh) hari
+setelah adanya putusan pembayaran klaim yang
+berkekuatan hukum tetap (inkracht) atau
+ditetapkan lain dalam putusan pengadilan.
+(5) Perusahaan Reasuransi, Perusahaan Reasuransi
+Syariah, atau Unit Syariah pada Perusahaan
+Reasuransi dilarang melakukan pembayaran
+klaim melalui Perusahaan Pialang Reasuransi
+kecuali atas persetujuan tertulis dari Perusahaan
+_Ceding._
+
+23. Ketentuan ayat (2) huruf c Pasal 44 diubah dan ayat (2)
+huruf b dihapus, sehingga
+
+Pasal 44
+berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -87,3 +151,41 @@ Yang dimaksud dengan “persetujuan tertulis” adalah
 adanya surat pernyataan atau surat kuasa dari
 pemegang polis, tertanggung, atau peserta kepada
 pialang asuransi.
+
+Angka 22
+
+Pasal 40A
+
+Ayat (1)
+
+Yang dimaksud dengan “penyelesaian pembayaran
+klaim” adalah penyelesaian pembayaran pemulihan
+klaim (claim recovery) kepada Perusahaan _Ceding,_
+termasuk pembayaran untuk seluruh jasa yang
+terkait penyelesaian proses klaim yang menjadi
+beban Perusahaan Reasuransi, Perusahaan
+Reasuransi Syariah, atau Unit Syariah pada
+Perusahaan Reasuransi, seperti pembayaran jasa
+penilai kerugian asuransi dan jasa survei klaim.
+Ayat (2)
+
+Dokumen yang digunakan dalam penyelesaian klaim
+pada reasuransi otomatis menggunakan dokumen
+_statement of account (SOA) yang berisi nilai_ _off-set_
+antara kewajiban pembayaran Premi atau Kontribusi
+oleh Perusahaan _Ceding dan hak pemulihan klaim_
+dari Perusahaan Reasuransi.
+
+-----
+
+Ayat (3)
+
+Cukup jelas.
+Ayat (4)
+
+Cukup jelas.
+Ayat (5)
+
+Cukup jelas.
+
+Angka 23

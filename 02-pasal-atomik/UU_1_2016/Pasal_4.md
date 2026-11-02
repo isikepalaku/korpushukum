@@ -90,6 +90,12 @@ serta koperasi, dan/atau program pemerintah,
 pemerintah dapat menunjuk atau menugaskan Lembaga
 Penjamin milik pemerintah.
 
+Pasal 5 . . .
+
+-----
+
+ - 7
+
 ## Penjelasan Resmi
 
 Ayat (1)

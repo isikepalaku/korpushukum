@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Selain persyaratan permodalan sebagaimana dimaksud
-dalam Pasal 19 ayat (1), Bursa harus memenuhi
+dalam
+
+Pasal 19
+ayat (1), Bursa harus memenuhi
 persyaratan sebagai berikut:
 a. memiliki paling sedikit:
 1. 1 (satu) pegawai yang bersertifikasi _certified_

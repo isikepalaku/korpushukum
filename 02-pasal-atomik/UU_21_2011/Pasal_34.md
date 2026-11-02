@@ -18,7 +18,19 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-persetujuan Dewan Perwakilan Rakyat.
+(1) Dewan Komisioner menyusun dan menetapkan rencana
+
+kerja dan anggaran OJK.
+
+(2) Anggaran OJK bersumber dari Anggaran Pendapatan
+
+dan Belanja Negara dan/atau pungutan dari pihak yang
+melakukan kegiatan di sektor jasa keuangan.
+
+(3) Ketentuan lebih lanjut mengenai rencana kerja dan
+
+anggaran OJK sebagaimana dimaksud pada ayat (1)
+diatur dengan Peraturan Dewan Komisioner.
 
 ## Penjelasan Resmi
 

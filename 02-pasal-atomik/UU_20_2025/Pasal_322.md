@@ -21,7 +21,10 @@ mengamandemen: []
 **(1) Setelah berkas permohonan peninjauan kembali**
 
 **diterima, Ketua Mahkamah Agung atau Hakim agu.ng yang ditunjuk memeriksa permohonan tersebut dan**
- menetapkan bahwa permohonan peninjauan kembali telah memenuhi ketentuan sebagaimana dimaksud dalam Pasal 320 ayat (3). (21 Dalam hal Mahkamah Agung berpendapat bahwa
+ menetapkan bahwa permohonan peninjauan kembali telah memenuhi ketentuan sebagaimana dimaksud dalam
+
+Pasal 320
+ayat (3). (21 Dalam hal Mahkamah Agung berpendapat bahwa
  permohonan peninjauan kembali dapat diterima untuk diperiksa, berlaku ketentuan sebagai berikut:
  a. jika Mahkamah Agung tidak membenarkan alasan
 

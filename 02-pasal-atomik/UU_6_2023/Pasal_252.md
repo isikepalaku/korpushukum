@@ -31,3 +31,5 @@ Cukup jelas.
 Ayat (4)
 
 Dihapus.
+
+Angka 5

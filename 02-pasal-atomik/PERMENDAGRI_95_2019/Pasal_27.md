@@ -24,7 +24,10 @@ penambahan
 selain 
 elemen 
 data 
-sebagaimana dimaksud dalam Pasal 8 ayat (2) dan ayat (3),
+sebagaimana dimaksud dalam
+
+Pasal 8
+ayat (2) dan ayat (3),
 
 ## Penjelasan Resmi
 

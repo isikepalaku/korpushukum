@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah wajib melaporkan penghentian Produk
-Asuransi sebagaimana dimaksud dalam Pasal 73 ayat
+Asuransi sebagaimana dimaksud dalam
+
+Pasal 73
+ayat
 (1) kepada Otoritas Jasa Keuangan paling lama 10
 (sepuluh) hari kerja sejak penghentian Produk
 Asuransi.

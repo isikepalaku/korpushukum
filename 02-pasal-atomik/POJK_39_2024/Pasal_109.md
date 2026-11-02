@@ -17,24 +17,26 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-a. mewakili Perusahaan dalam Likuidasi yang berkaitan
-dengan penyelesaian hak dan kewajiban Perusahaan
-tersebut baik di dalam maupun di luar pengadilan;
-b. melakukan perundingan dan tindakan lainnya dalam
-penjualan aset dan penagihan piutang terhadap para
-Nasabah;
-c. melakukan pemanggilan, perundingan, dan
-pembayaran kewajiban kepada para Nasabah;
-d. mempekerjakan tenaga pendukung Tim Likuidasi, baik
-yang berasal dari dalam maupun dari luar Perusahaan
-dalam Likuidasi;
-e. menunjuk pihak lain untuk membantu pelaksanaan
-Likuidasi;
-f. meminta pembatalan kepada pengadilan atas segala
-perbuatan hukum Peserta yang diduga merugikan
-Peserta dan dilakukan tidak dengan itikad baik; dan
-g. melakukan tindakan lain yang diperlukan dalam
-pelaksanaan Likuidasi.
+Tim Likuidasi mempunyai tugas sebagai berikut:
+
+-----
+
+a. menyelesaikan hal yang berkaitan dengan
+Pembubaran;
+b. menyelesaikan hal yang berkaitan dengan pegawai
+Perusahaan;
+c. melakukan pemberesan aset dan kewajiban
+Perusahaan;
+d. menyampaikan laporan berkala dan laporan insidental
+jika diperlukan kepada Otoritas Jasa Keuangan;
+e. melakukan pertanggungjawaban pelaksanaan
+Likuidasi kepada:
+1. RUPS, untuk Tim Likuidasi yang dibentuk oleh
+RUPS; atau
+2. Otoritas Jasa Keuangan, untuk Tim Likuidasi yang
+dibentuk oleh Otoritas Jasa Keuangan; dan
+f. melakukan tugas lainnya yang dianggap perlu untuk
+melaksanakan proses Likuidasi.
 
 ## Penjelasan Resmi
 

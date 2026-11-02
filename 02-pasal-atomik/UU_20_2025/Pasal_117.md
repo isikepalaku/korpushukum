@@ -30,6 +30,20 @@ Tersangka.
 
 Penyitaan
 
+Pasal 118
+Untuk kepentingan Penyidikan, Penyidik dapat melakukan**
+Penyitaan.
+
+**Pasal 119...**
+
+-----
+
+FRESIDEN
+
+**K INDONESIA**
+
+**-63-**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -99,3 +99,79 @@ Untuk menentukan anggota Direksi atau anggota Dewan Komisaris/ Dewan Pengawas da
 Huruf c
 
 Cukup jelas.
+
+Pasal 15B
+
+Cukup jelas.
+
+Pasal 15C. . .
+
+**Pasal 15C**
+
+Ayat (l)
+
+Yang dimaksud dengan "kontrak adalah statement of arporate intent (SCI) antara lain memuat janji atau pernyataan Direksi Persero untuk memenuhi segala target yang disepakati antara pemegang saham, Dewan Komisaris, dan Direksi Persero. Kontrak manajemen tersebut dapat diperbaharui setiap tahun untuk disesuaikan dengan kondisi dan perkembangan perusahaan.
+
+Ayat (2)
+
+Cukup jelas.
+
+Pasal 15D
+
+Cukup jelas.
+
+Pasal 15E
+
+Cukup jelas.
+
+**Pasal 15F**
+
+Sekretaris perusahaan larporate secretaryl berfungsi untuk memastikan bahwa Persero mematuhi peraturan tentang persyaratan keterbukaan sejalan dengan penerapan prinsip good arporate gouerrlan@ serta memberikan informasi untuk Direksi Persero dan Dewan Komisaris secara berkala apabila diminta. Sekretaris perusahaan harus memenuhi kualilikasi profesionalisme yang memadai. Sekretaris perusahaan diangkat dan diberhentikan oleh Direksi Persero serta jawab kepada Direksi Persero.
+
+**Pasal lSG**
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Rencana kerja jangka panjang memuat antara lain:
+
+a. evaluasi . . .
+
+- a. evaluasi pelaksanaan rencana sebelumnya;
+- b. posisi perusahaan saat ini;
+- c. asumsi-asumsi yang dipakai dalam pen]rusunan;
+- d. misi Persero, sasarcrn usaha, strategi usaha, kebijakan perusahaan, dan program kerja;
+- e. anggaran perusahaan yang dirinci atas setiap angg.rr.rn program kerja; dan
+- f. proyeksi keuangan Persero.
+
+Ayat (3)
+
+Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas.
+
+Pasal 15H Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
+
+Ayat (3)
+
+Dewan Komisaris sebelum menandatangani laporan tahunan yang oleh Direksi Persero, wajib membahas secara bersama-sama dengan Direksi Persero. Dengan ditandatangani bersama, semua anggota Direksi Persero dan Dewan Komisaris bertanggung jawab atas isi laporan tahunan dimaksud.
+
+**PRESTOEN REPUBLIK INDONESIA**
+
+Ayat (4)
+
+Alasan anggota Direksi Persero tidak menandatangani perlu dilelaskan secara tertulis kepada RUPS agar RUPS dapat menggunakannya sebagai salah satu bahan pertimbangan dalam memberikan penilaian terhadap laporan tersebut.
+
+Ayat (5)
+
+Cukup jelas.
+
+Pasal 151
+Cukup jelas.
+
+Pasal 15J
+
+Yang dimaksud dengan "dokumen perusahaan lainnya" adalah data, catatan, dan/ atau keterangan yang dibuat dan/ atau diterima oleh perusahaan dalam rangka pelaksanaan kegiatannya, baik tertulis di atas kertas atau sarana lain namun terekam dalam bentuk corak apapun yang dapat dilihat, dibaca, atau didengar.
+
+Anglle.47

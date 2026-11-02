@@ -44,8 +44,9 @@ ayat (2) dikecualikan untuk Aset Produktif dalam bentuk:
 a. Surat Berharga yang diterbitkan oleh Bank Indonesia
 atau Pemerintah; dan
 b. bagian dari Aset Produktif yang dijamin dengan
-agunan tunai sebagaimana dimaksud dalam Pasal
-17.
+agunan tunai sebagaimana dimaksud dalam
+
+Pasal 17.
 
 ## Penjelasan Resmi
 

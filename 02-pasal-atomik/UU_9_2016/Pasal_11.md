@@ -20,6 +20,49 @@ mengamandemen: []
 
 (1) Pengambilan keputusan sebagaimana dimaksud dalam
 
+Pasal 10
+ayat (1) dilakukan berdasarkan musyawarah
+untuk mufakat.
+
+(2) Dalam hal tidak tercapai mufakat, usulan keputusan yang
+
+diajukan oleh anggota Komite Stabilitas Sistem Keuangan
+dinyatakan ditolak dan pendapat akhir setiap anggota
+Komite Stabilitas Sistem Keuangan didokumentasikan.
+
+(3) Usulan keputusan yang dinyatakan ditolak sebagaimana
+
+dimaksud pada ayat (2) dapat diajukan kembali dalam
+rapat Komite Stabilitas Sistem Keuangan paling lambat
+1x24 (satu kali dua puluh empat) jam.
+
+(4) Dalam hal rapat Komite Stabilitas Sistem Keuangan
+
+sebagaimana dimaksud pada ayat (3) tidak mencapai
+mufakat, pengambilan keputusan dilakukan berdasarkan
+suara terbanyak.
+
+(5) Setiap keputusan rapat Komite Stabilitas Sistem Keuangan
+
+ditandatangani oleh seluruh anggota Komite Stabilitas
+Sistem Keuangan sebagaimana dimaksud dalam
+
+Pasal 4
+ayat (3).
+
+(6) Anggota Komite Stabilitas Sistem Keuangan yang tidak
+
+hadir dalam rapat, dianggap menyetujui keputusan rapat
+tanpa harus menandatangani keputusan rapat.
+
+Bagian . . .
+
+-----
+
+ - 10
+Bagian Kelima
+Pertukaran Data dan Informasi
+
 ## Penjelasan Resmi
 
 Ayat (1)

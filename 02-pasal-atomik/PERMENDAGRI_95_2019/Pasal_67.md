@@ -22,7 +22,10 @@ jaringan
 komunikasi 
 data 
 sebagaimana 
-dimaksud dalam Pasal 63 huruf d, dilakukan dengan cara 
+dimaksud dalam
+
+Pasal 63
+huruf d, dilakukan dengan cara 
 antara lain: 
 a. 
 melakukan audit berkala jaringan komunikasi data; 

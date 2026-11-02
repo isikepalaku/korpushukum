@@ -18,13 +18,18 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Laporan keuangan tahunan sebagaimana dimaksud
-dalam Pasal 205 ayat (1) huruf b wajib disusun
+dalam
+
+Pasal 205
+ayat (1) huruf b wajib disusun
 berdasarkan standar akuntansi keuangan.
 (2) Laporan keuangan tahunan sebagaimana dimaksud
-dalam Pasal 205 ayat (1) huruf b wajib disusun dalam
+dalam
+
+Pasal 205
+ayat (1) huruf b wajib disusun dalam
 mata uang rupiah.
-(3) Akuntan publik sebagaimana dimaksud dalam Pasal
-205 ayat (1) huruf b wajib terdaftar di Otoritas Jasa
+(3) Akuntan publik sebagaimana dimaksud dalam Pasal 205 ayat (1) huruf b wajib terdaftar di Otoritas Jasa
 Keuangan.
 
 ## Penjelasan Resmi

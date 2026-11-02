@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Lembaga sebagaimana dimaksud dalam Pasal 58 ayat (2) berwenang: 
+Lembaga sebagaimana dimaksud dalam
+
+Pasal 58
+ayat (2) berwenang: 
 
 - a.. merumuskan dan menetapkan kebijakan di bidang Pelindungan Data Pribadi; 
 

@@ -17,11 +17,22 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Presiden.
-Paragraf 4 . . .
-
-Paragraf 4
-Pencatatan Kelahiran yang Melampaui Batas Waktu
+(1) Pencatatan kelahiran dalam Register Akta Kelahiran dan
+penerbitan Kutipan Akta Kelahiran terhadap peristiwa
+kelahiran seseorang yang tidak diketahui asal-usulnya
+atau keberadaan orang tuanya, didasarkan pada laporan
+orang
+yang
+menemukan
+dilengkapi
+Berita
+Acara
+Pemeriksaan dari kepolisian.
+(2) Kutipan Akta Kelahiran sebagaimana dimaksud pada ayat
+(1) diterbitkan oleh Pejabat Pencatatan Sipil dan disimpan
+oleh Instansi Pelaksana.
+Paragraf 2
+Pencatatan Kelahiran di luar Wilayah Republik Indonesia
 
 ## Penjelasan Resmi
 

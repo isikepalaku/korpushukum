@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Permohonan untuk memperoleh persetujuan prinsip
 
-sebagaimana dimaksud dalam Pasal 102 huruf a
+sebagaimana dimaksud dalam
+
+Pasal 102
+huruf a
 
 diajukan oleh pejabat berwenang bank yang
 

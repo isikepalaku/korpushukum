@@ -107,7 +107,10 @@ Huruf f
 Cukup jelas.
 Huruf g
 
-Lihat penjelasan Pasal 11 ayat (2) huruf d.
+Lihat penjelasan
+
+Pasal 11
+ayat (2) huruf d.
 Huruf h
 
 Cukup jelas.

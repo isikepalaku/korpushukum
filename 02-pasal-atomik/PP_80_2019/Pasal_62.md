@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pelaku Usaha yang menyelenggarakan j asa sistem pembayaran sebagaimana dimaksud dalam Pasal 61 ayat (1) harus memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan di bidang sistem pembayaran danfatau perbankan.
+Pelaku Usaha yang menyelenggarakan j asa sistem pembayaran sebagaimana dimaksud dalam
+
+Pasal 61
+ayat (1) harus memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan di bidang sistem pembayaran danfatau perbankan.
 
 **BAB XIII**
 

@@ -21,6 +21,8 @@ mengamandemen:
 - (1) Anggota direksi, anggota dewan komisaris, Dewan Pengawas Syariah, PSP, anggota pengurus, anggota pengawas, atau pengelola dari penyelenggara Usaha Jasa Pembiayaan wajib memenuhi persyaratan yang ditetapkan oleh Otoritas Jasa Keuangan.
 - (2) Penyelenggara Usaha Jasa Pembiayaan yang melaksanakan kegiatan Usaha Jasa Pembiayaan berdasarkan Prinsip Syariah wajib memiliki Dewan Pengawas Syariah yang diangkat dalam rapat umum pemegang saham atau rapat anggota atas rekomendasi dari lembaga yang memiliki kewenangan dalam penetapan fatwa di bidang syariah.
 
+Pasal 111 ...
+
 ## Penjelasan Resmi
 
 Dihapus. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas.

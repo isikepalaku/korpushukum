@@ -20,7 +20,10 @@ mengamandemen: []
 
 Setiap Pihak yang melakukan kegiatan yang dilarang sebagaimana
 
- dimaksud dalam Pasal 57 diancam dengan pidana penjara paling lama
+ dimaksud dalam
+
+Pasal 57
+diancam dengan pidana penjara paling lama
 
  delapan tahun dan pidana denda paling banyak Rp. 10.000.000.000,00
 

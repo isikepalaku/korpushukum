@@ -21,7 +21,9 @@ mengamandemen: []
 
 Bursa Berjangka dapat menyelenggarakan transaksi fisik komoditi yang
 
- jenisnya sebagaimana diatur dalam Pasal 3.
+ jenisnya sebagaimana diatur dalam
+
+Pasal 3.
 
  Paragraf 4
 

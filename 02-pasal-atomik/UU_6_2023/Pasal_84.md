@@ -23,7 +23,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Angka 1 Pasal 1 Cukup jelas Angka 2 Pasal 51 Cukup jelas. Angka 3 Pasal 53 Cukup jelas. Angka 4 Pasal 57 Cukup jelas. Angka 5 Pasal 89A Cukup jelas. Pasal 85 Cukup jelas. Pasal 86 Angka 1 Pasal 6
+Angka 1
+
+Pasal 1
+Cukup jelas Angka 2 Pasal 51 Cukup jelas. Angka 3 Pasal 53 Cukup jelas. Angka 4 Pasal 57 Cukup jelas. Angka 5 Pasal 89A Cukup jelas. Pasal 85 Cukup jelas. Pasal 86 Angka 1 Pasal 6
 ```
 
 Ayat (1)
@@ -33,3 +36,5 @@ Persyaratan ini dimaksudkan untuk menjaga kelayakan usaha dan kehidupan Koperasi
 Ayat (2)
 
 Cukup jelas.
+
+Angka 2

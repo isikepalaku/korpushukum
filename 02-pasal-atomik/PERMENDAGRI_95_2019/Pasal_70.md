@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengawasan Basis Data sebagaimana dimaksud dalam Pasal 3 
+Pengawasan Basis Data sebagaimana dimaksud dalam
+
+Pasal 3
 ayat (1) huruf i, meliputi: 
 a. 
 Basis Data; 

@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 27-2024 (Aset Keuangan Digital Termasuk Aset Kript
 kode_uu: POJK_23_2025
 pasal: '50'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_23_2025
@@ -88,11 +88,41 @@ pembukuan Pedagang;
 o. mempertahankan ekuitas paling sedikit
 Rp50.000.000.000,00 (lima puluh miliar
 rupiah) dari modal disetor sebagaimana
-dimaksud dalam Pasal 45 ayat (1);
+dimaksud dalam
+
+Pasal 45
+ayat (1);
 p. memastikan sumber dana modal disetor dan
 penambahan modal disetor memenuhi
 ketentuan sebagaimana dimaksud dalam
 
+Pasal 45
+ayat (2); dan
+q. memastikan ketentuan sebagaimana
+dimaksud dalam
+
+Pasal 45
+selalu terpenuhi
+dalam pelaksanaan kegiatan Pedagang.
+(2) Pengendali sebagaimana dimaksud pada ayat (1)
+huruf d meliputi:
+a. pemegang saham pengendali;
+b. anggota Dewan Komisaris;
+c. anggota Direksi;
+d. pejabat eksekutif perusahaan; dan
+e. pengendali lainnya.
+(3) Pengendali dan pemilik manfaat sebagaimana
+dimaksud pada ayat (1) huruf d menjadi pihak
+yang turut bertanggung jawab dalam hal terjadi
+pelanggaran dan/atau kerugian atas pelanggaran
+atau kesalahan dalam pengelolaan sebagai
+Pedagang.
+
+50. Ketentuan Pasal 51 diubah sehingga berbunyi sebagai
+berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 50

@@ -24,7 +24,10 @@ Satuan
 Kerja 
 Pelaksana 
 sebagaimana 
-dimaksud dalam Pasal 70 huruf b, dilakukan dengan cara 
+dimaksud dalam
+
+Pasal 70
+huruf b, dilakukan dengan cara 
 antara lain: 
 www.peraturan.go.id
 

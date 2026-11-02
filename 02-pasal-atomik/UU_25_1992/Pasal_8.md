@@ -19,7 +19,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Anggaran Dasar sebagaimana dimaksud dalam Pasal 7 ayat (1) memuat
+Anggaran Dasar sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (1) memuat
 sekurang-kurangnya:
 
 a. daftar nama pendiri;

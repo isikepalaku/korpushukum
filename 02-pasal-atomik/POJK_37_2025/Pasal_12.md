@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam hal PPDP dengan status pengawasan normal
-sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a
+sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (2) huruf a
 dinilai memiliki permasalahan signifikan yang
 berpotensi membahayakan kelangsungan usahanya,
 

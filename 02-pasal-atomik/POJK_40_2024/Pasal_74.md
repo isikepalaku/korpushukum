@@ -19,21 +19,33 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan izin pembentukan UUS
-sebagaimana dimaksud dalam Pasal 73 ayat (2) dalam
+sebagaimana dimaksud dalam
+
+Pasal 73
+ayat (2) dalam
 jangka waktu paling lama 20 (dua puluh) hari kerja
 sejak permohonan izin pembentukan UUS diterima
 secara lengkap.
 (2) Berdasarkan pelaporan pelaksanaan RUPS yang
 menyetujui Penggabungan sebagaimana dimaksud
-dalam Pasal 72 ayat (2) dan dalam hal terdapat
+dalam
+
+Pasal 72
+ayat (2) dan dalam hal terdapat
 permohonan izin pembentukan UUS sebagaimana
-dimaksud dalam Pasal 73 ayat (1), Otoritas Jasa
+dimaksud dalam
+
+Pasal 73
+ayat (1), Otoritas Jasa
 Keuangan melakukan:
 
 -----
 
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 72 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 72
+ayat (2)
 dan Pasal 73 ayat (2);
 b. pencabutan izin usaha dan/atau izin
 pembentukan UUS dari Penyelenggara yang
@@ -48,7 +60,9 @@ Penggabungan jika ada, yang mulai berlaku efektif
 terhitung sejak anggaran dasar disetujui oleh, atau
 diberitahukan kepada instansi yang berwenang.
 (3) Dalam hal terdapat kekurangan dokumen sebagaimana
-yang dimaksud dalam Pasal 72 ayat (2) dan Pasal 73
+yang dimaksud dalam Pasal 72 ayat (2) dan
+
+Pasal 73
 ayat (2), Otoritas Jasa Keuangan menyampaikan
 permintaan kelengkapan dokumen kepada
 Penyelenggara.

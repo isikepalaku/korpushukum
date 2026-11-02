@@ -22,10 +22,16 @@ mengamandemen: []
 Pencatatan perkawinan WNI di luar wilayah Negara 
 Kesatuan Republik Indonesia dalam hal negara setempat 
 tidak menyelenggarakan pencatatan perkawinan bagi 
-Orang Asing sebagaimana dimaksud dalam Pasal 50 ayat 
+Orang Asing sebagaimana dimaksud dalam
+
+Pasal 50
+ayat 
 (1) huruf d dan pencatatan perkawinan WNI dengan 
 Orang Asing di luar wilayah Negara Kesatuan Republik 
-Indonesia sebagaimana dimaksud dalam Pasal 50 ayat (1) 
+Indonesia sebagaimana dimaksud dalam
+
+Pasal 50
+ayat (1) 
 huruf f, dicatatkan pada Perwakilan Republik Indonesia 
 dengan memenuhi persyaratan sesuai dengan ketentuan 
 Peraturan Presiden mengenai persyaratan dan tata cara 

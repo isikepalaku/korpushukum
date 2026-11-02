@@ -22,7 +22,10 @@ mengamandemen: []
 
  - 23
 **(1) Ketentuan tentang Bank Indonesia dilarang membeli untuk diri**
- sendiri surat-surat utang negara sebagaimana dimaksud dalam Pasal 55 ayat (4) dinyatakan mulai berlaku selambat-lambatnya 1 Januari 2000 kecuali untuk keperluan pembiayaan restrukturisasi perbankan.
+ sendiri surat-surat utang negara sebagaimana dimaksud dalam
+
+Pasal 55
+ayat (4) dinyatakan mulai berlaku selambat-lambatnya 1 Januari 2000 kecuali untuk keperluan pembiayaan restrukturisasi perbankan.
 
  (2) Terhadap tagihan atas surat-surat utang negara yang telah dibeli
  secara langsung oleh Bank Indonesia dan belum jatuh tempo, Bank Indonesia dapat memperpanjang jangka waktu tagihan tersebut selama-lamanya 10 (sepuluh) tahun sejak jatuh tempo apabila diperlukan oleh Pemerintah dengan persetujuan Dewan Perwakilan Rakyat.

@@ -19,6 +19,44 @@ mengamandemen: []
 
 (1) PJK dalam mengidentifikasi Calon Nasabah dan WIC
 berupa orang perseorangan sebagaimana dimaksud dalam
+Pasal 25
+ayat (1) huruf a dan
+
+Pasal 25
+ayat (2) huruf a,
+informasi sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (1)
+huruf a angka 1, wajib didukung dengan dokumen
+identitas dan spesimen tanda tangan Calon Nasabah dan
+WIC.
+(2) Dokumen identitas Calon Nasabah dan WIC orang
+perseorangan sebagaimana dimaksud pada ayat (1),
+meliputi:
+a. bagi Calon Nasabah dan WIC orang perseorangan
+warga negara Indonesia berupa kartu tanda
+penduduk atau identitas kependudukan digital
+sebagaimana dimaksud dalam peraturan perundangundangan mengenai data kependudukan;
+b. bagi Calon Nasabah dan WIC orang perseorangan
+warga negara asing berupa paspor yang disertai
+dengan dokumen keimigrasian sesuai dengan
+peraturan perundang-undangan mengenai
+keimigrasian; dan
+c. bagi Calon Nasabah dan WIC orang perseorangan
+diaspora Indonesia atau masyarakat Indonesia di luar
+negeri sebagaimana dimaksud dalam peraturan
+perundang-undangan mengenai masyarakat
+Indonesia di luar negeri berupa paspor dan kartu
+masyarakat indonesia di luar negeri.
+(3) Spesimen tanda tangan Calon Nasabah dan WIC orang
+perseorangan sebagaimana dimaksud pada ayat (1), dapat
+digantikan dengan tanda tangan elektronik yang telah
+
+-----
+
+memenuhi peraturan perundang-undangan mengenai
+tanda tangan elektronik.
 
 ## Penjelasan Resmi
 

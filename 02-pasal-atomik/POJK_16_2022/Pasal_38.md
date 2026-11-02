@@ -17,14 +17,19 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), dan/atau Pasal 42 dikenai sanksi administratif
-berupa denda sebesar Rp1.000.000,00 (satu juta
-rupiah) per hari kerja dan paling banyak
-Rp30.000.000,00 (tiga puluh juta rupiah).
-(3) Dalam hal Bank telah dikenai sanksi administratif
-sebagaimana dimaksud pada ayat (1) dan/atau ayat (2),
-dan tetap melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 31, Pasal 32 ayat (2), Pasal 34 ayat (1),
+(1) Penggantian dan/atau penambahan PSP dilaksanakan
+sesuai dengan Peraturan OJK mengenai penilaian
+kemampuan dan kepatutan bagi pihak utama lembaga
+jasa keuangan.
+(2) Dalam hal terdapat perubahan direksi dan/atau dewan
+komisaris dari PSP berupa badan hukum, PSP melalui
+Bank wajib menginformasikan perubahan kepada OJK
+paling lama 10 (sepuluh) hari kerja sejak perubahan
+direksi dan/atau dewan komisaris.
+(3) Informasi sebagaimana dimaksud pada ayat (2) disertai
+dokumen tercantum dalam Lampiran I yang
+merupakan bagian tidak terpisahkan dari Peraturan
+OJK ini.
 
 ## Penjelasan Resmi
 

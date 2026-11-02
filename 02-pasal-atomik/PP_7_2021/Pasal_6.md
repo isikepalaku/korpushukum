@@ -31,9 +31,7 @@ acara yang ditandatangarri oleh pimpinan rapat, dalanr
 
 ## Penjelasan Resmi
 
-**Cukup [jelas]**
-
-Pasal
+**Cukup [jelas]**Pasal
 
 -----
 

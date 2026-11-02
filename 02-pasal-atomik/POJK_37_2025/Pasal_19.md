@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PPDP yang dikenai pembatasan kegiatan usaha
-tertentu sebagaimana dimaksud dalam Pasal 18 ayat (1)
+tertentu sebagaimana dimaksud dalam
+
+Pasal 18
+ayat (1)
 wajib:
 a. menghentikan kegiatan usaha tertentu yang
 dikenakan pembatasan; dan
@@ -31,7 +34,9 @@ pemberitahuan kepada seluruh jaringan kantor
 sebagaimana dimaksud pada ayat (1) wajib dilakukan
 sejak tanggal diterimanya surat pemberitahuan
 pembatasan kegiatan usaha tertentu dari Otoritas
-Jasa Keuangan sebagaimana dimaksud dalam Pasal 18
+Jasa Keuangan sebagaimana dimaksud dalam
+
+Pasal 18
 ayat (2).
 
 Bagian Keempat

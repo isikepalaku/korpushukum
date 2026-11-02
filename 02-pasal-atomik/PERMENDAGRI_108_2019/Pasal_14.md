@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Penerbitan KK karena perubahan data pada Peristiwa 
 Penting berupa perubahan status kewarganegaraan 
-sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf k, 
+sebagaimana dimaksud dalam
+
+Pasal 13
+ayat (1) huruf k, 
 terdiri atas: 
 a. penerbitan 
 KK 

@@ -123,7 +123,9 @@ PRESIDEN REPIJBLIK INDONEISIA
 
 -t4- 
 
-Angka 14 Pasal 40A Ayat (l) 
+Angka 14
+
+Pasal 40A Ayat (l) 
 
 Yang dimaksud dengan "bertanggungjawab dalam mendorong terciptanya ekosistem digital" adalah dengan menetapkan kebijakan yang memungkinkan Penyelenggara Sistem Elektronik mendapatkan kesempatan berusaha atau berinovasi yang sama (equal leuel of playing freld) secara adil, wajar, dan non-diskriminatif, serta menjaga kualitas pelayanan dalam pemanfaatan Teknologi Informasi dan Transaksi Elektronik yang bertqjuan memberikan nilai tambah pada ekosistem digital dalam pemanfaatan Teknologi Informasi dan Transaksi Elektronik, dan memberikan kesempatan kepada masyarakat untuk mendapatkan pilihan yang lebih baik dan berkualitas, serta mewujudkan terciptanya rasa aman atas pemanfaatan Sistem Elektronik yang diselenggarakan oleh Penyelenggara Sistem Elektronik. 
 
@@ -137,4 +139,6 @@ Ayat(4) ...
 
 PRESIDEN NEPUBUK INDONESIA 
 
-Ayat (4) Cukupjelas. Ayat (s) Cukupjelas. Ayat (6) Cukupjelas.
+Ayat (4) Cukupjelas. Ayat (s) Cukupjelas. Ayat (6) Cukupjelas. 
+
+Angka 15

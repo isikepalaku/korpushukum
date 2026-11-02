@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penilaian terhadap faktor rentabilitas sebagaimana
-dimaksud dalam Pasal 196 ayat (2) huruf c meliputi
+dimaksud dalam
+
+Pasal 196
+ayat (2) huruf c meliputi
 penilaian terhadap komponen sebagai berikut:
 a. kemampuan aset produktif dalam menghasilkan laba;
 dan

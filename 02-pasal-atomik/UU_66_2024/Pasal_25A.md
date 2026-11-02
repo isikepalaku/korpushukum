@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Untuk kelancaran penyelenggaraan Pelayaran-Perintis, perusahaan angkutan laut nasional sebagaimana dimaksud dalam Pasal 24 ayat (4) dapat bekerja sama dengan pelaku usaha Angkutan Laut Pelayaran-Ralryat.
+Untuk kelancaran penyelenggaraan Pelayaran-Perintis, perusahaan angkutan laut nasional sebagaimana dimaksud dalam
+
+Pasal 24
+ayat (4) dapat bekerja sama dengan pelaku usaha Angkutan Laut Pelayaran-Ralryat.
 
 - Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut: 8
 

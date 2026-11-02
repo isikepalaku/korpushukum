@@ -25,14 +25,21 @@ usaha sebelum Peraturan Otoritas Jasa Keuangan ini
 diundangkan, ketentuan mengenai:
 1. kewajiban memiliki sistem informasi, teknologi
 yang memadai, dan situs web sebagaimana
-dimaksud dalam Pasal 13 ayat (1);
+dimaksud dalam
+
+Pasal 13
+ayat (1);
 2. kewajiban penerapan manajemen risiko
 pembiayaan bagi Perusahaan Pembiayaan yang
 menyelenggarakan Layanan Pembiayaan Digital
-sebagaimana dimaksud dalam Pasal 14J ayat (1);
+sebagaimana dimaksud dalam
+
+Pasal 14J ayat (1);
 dan
 3. kewajiban penyusunan pedoman penilaian skor
-kredit sebagaimana dimaksud dalam Pasal 14L
+kredit sebagaimana dimaksud dalam
+
+Pasal 14L
 ayat (1),
 dinyatakan mulai berlaku 6 (enam) bulan sejak
 Peraturan Otoritas Jasa Keuangan ini diundangkan.
@@ -42,50 +49,75 @@ diundangkan, ketentuan mengenai:
 1. kewajiban memiliki, menguasai, dan
 mengendalikan Sistem Elektronik yang digunakan
 dalam Layanan Pembiayaan Digital sebagaimana
-dimaksud dalam Pasal 14 ayat (2);
+dimaksud dalam
+
+Pasal 14
+ayat (2);
 
 -----
 
 2. kewajiban memenuhi persyaratan sebagaimana
-dimaksud dalam Pasal 14A, 14C ayat (1), ayat (2),
+dimaksud dalam
+
+Pasal 14A, 14C ayat (1), ayat (2),
 dan ayat (4);
 3. kewajiban terkait sistem pengamanan
-sebagaimana dimaksud dalam Pasal 14D;
+sebagaimana dimaksud dalam
+
+Pasal 14D;
 4. kewajiban pemenuhan BMPP kepada pihak terkait
 paling tinggi 50% (lima puluh persen) dari Modal
 Perusahaan Syariah sebagaimana dimaksud
-dalam Pasal 18 ayat (1);
+dalam
+
+Pasal 18
+ayat (1);
 5. kewajiban pemenuhan BMPP kepada 1 (satu)
 Debitur yang bukan merupakan pihak terkait
 paling tinggi 20% (dua puluh persen) dari Modal
 Perusahaan Syariah sebagaimana dimaksud
-dalam Pasal 19 ayat (1) dan kewajiban pemenuhan
+dalam
+
+Pasal 19
+ayat (1) dan kewajiban pemenuhan
 BMPP kepada 1 (satu) kelompok Konsumen yang
 bukan merupakan pihak terkait paling tinggi 50%
 (lima puluh persen) dari Modal Perusahaan
-Pembiayaan sebagaimana dimaksud dalam Pasal
-19 ayat (2);
+Pembiayaan sebagaimana dimaksud dalam
+
+Pasal 19
+ayat (2);
 6. kewajiban memiliki Modal Inti paling sedikit
 Rp100.000.000.000,00 (seratus miliar rupiah)
-sebagaimana dimaksud dalam Pasal 84; dan
+sebagaimana dimaksud dalam
+
+Pasal 84; dan
 7. kewajiban memiliki rasio Modal Inti terhadap
 Modal Disetor paling rendah 50% (lima puluh
-persen) sebagaimana dimaksud dalam Pasal
-85,
+persen) sebagaimana dimaksud dalam
+
+Pasal 85,
 dinyatakan mulai berlaku 1 (satu) tahun sejak
 Peraturan Otoritas Jasa Keuangan ini diundangkan.
 c. Dalam jangka waktu 1 (satu) tahun sejak Peraturan
 Otoritas Jasa Keuangan ini diundangkan, ketentuan
 kewajiban:
 1. pemenuhan BMPP bagi Perusahaan Syariah
-sebagaimana dimaksud dalam Pasal 18 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 18
+ayat (1)
 dan Pasal 19 ayat (1) dan ayat (2);
 2. memiliki Modal Inti paling sedikit
 Rp100.000.000.000,00 (seratus miliar rupiah)
-sebagaimana dimaksud dalam Pasal 84;
+sebagaimana dimaksud dalam
+
+Pasal 84;
 3. memiliki rasio Modal Inti terhadap Modal Disetor
 paling rendah 50% (lima puluh persen)
-sebagaimana dimaksud dalam Pasal 85,
+sebagaimana dimaksud dalam
+
+Pasal 85,
 tetap mengacu pada Peraturan Otoritas Jasa Keuangan
 Nomor 10/POJK.05/2019 tentang Penyelenggaraan
 Usaha Perusahaan Pembiayaan Syariah dan Unit
@@ -93,7 +125,9 @@ Usaha Syariah Perusahaan Pembiayaan.
 d. Bagi Perusahaan Syariah yang menggunakan
 mekanisme asuransi yang membatasi nilai klaim
 asuransi sebesar persentase dari nilai premi
-sebagaimana dimaksud dalam Pasal 22B dapat
+sebagaimana dimaksud dalam
+
+Pasal 22B dapat
 melanjutkan mekanisme tersebut sampai dengan
 berakhirnya perjanjian asuransi dan tidak dapat
 diperpanjang kembali.

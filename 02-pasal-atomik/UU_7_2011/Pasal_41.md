@@ -20,6 +20,19 @@ mengamandemen: []
 
 (1) Tindak pidana sebagaimana dimaksud dalam Pasal 33 dan
 
+Pasal 34
+adalah pelanggaran.
+
+(2) Tindak pidana sebagaimana dimaksud dalam Pasal 35,
+
+Pasal 36, dan
+
+Pasal 37
+adalah kejahatan.
+
+BAB XI
+KETENTUAN PERALIHAN
+
 ## Penjelasan Resmi
 
 Cukup jelas.

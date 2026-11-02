@@ -42,7 +42,53 @@ mengamandemen:
 
 Pengelolaan lnvestasi Selain Reksa Dana
 
-9. Di antara Pasal 29 dan Pasal 30 disisipkan 2 (dua) pasal, yakni Pasal 29A dan Pasal 29B sehingga berbunyi sebagai berikut:
+9. Di antara
+
+Pasal 29
+dan Pasal 30 disisipkan 2 (dua) pasal, yakni Pasal 29A dan Pasal 29B sehingga berbunyi sebagai berikut:
+
+**Pasal 29A**
+
+- (1) Manajer Investasi dapat melakukan pengelolaan produk investasi kolektif selain Reksa Dana dan pengelolaan investasi nasabah secara individual.
+- (2) Pengelolaan produk investasi kolektif selain Reksa Dana sebagaimana dimaksud pada ayat (1) dapat berbentuk:
+- a. Perseroan;
+- b. Kontrak Investasi Kolektif; atau
+- c. bentuk lain yang ditetapkan oleh Otoritas Jasa Keuangan.
+
+(3) Pengelolaan ...
+
+- (3) Pengelolaan produk investasi kolektif sebagaimana dimaksud pada ayat (2) dapat bersifat terbuka atau tertutup.
+- (4) Pengelolaan produk investasi kolektif dilakukan berdasarkan Kontrak Investasi Kolektif sebagaimana dimaksud pada ayat (2) huruf b antara Manajer Investasi dan bank Kustodian.
+- (5) Ketentuan mengenai pengelolaan produk investasi kolektif selain Reksa Dana sebagaimana dimaksud pada ayat (2) dan pengelolaan investasi nasabah secara individual diatur dalam Peraturan Otoritas J asa Keuangan.
+
+**Pasal 29B**
+
+- (1) Manajer lnvestasi sebagai pengelola produk investasi kolektif selain Reksa Dana dapat menjual dan membeli kembali Unit Penyertaan atau tanda bukti investasi lain secara terus-menerus atau secara terbatas sampai dengan jumlah Unit Penyertaan atau tanda bukti investasi lain yang ditetapkan dalam Kontrak lnvestasi Kolektif.
+- (2) Dalam hal pemegang Unit Penyertaan atau tanda bukti investasi lainnya melakukan penjualan kembali, Manajer Investasi wajib membeli kembali Unit Penyertaan atau tanda bukti investasi lainnya.
+- (3) Pengecualian ketentuan sebagaimana dimaksud pada ayat (2) hanya dapat dilakukan apabila:
+- a. Bursa Efek yang memperdagangkan sebagian besar Portofolio Efek produk investasi kolektif selain Reksa Dana, ditutup;
+- b. perdagangan Efek atas sebagian besar Portofolio Efek produk investasi kolektif selain Reksa Dana di Bursa Efek, dihentikan;
+- c. keadaan darurat;
+- d. Unit Penyertaan produk investasi kolektif selain Reksa Dana tersebut merupakan Unit Penyertaan yang dapat diperdagangkan di Bursa Efek; dan/atau
+
+e. terdapat ...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
+- e. terdapat hal lain yang ditetapkan dalam kontrak pengelolaan investasi setelah mendapat persetujuan Otoritas Jasa Keuangan.
+- (4) Dalam kondisi tertentu pemenuhan kewajiban membeli kembali sebagaimana dimaksud pada ayat (2) dapat dilakukan dengan cara lain.
+- (5) Ketentuan lebih lanjut mengenai kondisi tertentu dan cara lain sebagaimana dimaksud pada ayat (4) diatur dalam Peraturan Otoritas Jasa Keuangan.
+10. Ketentuan BAB V diubah sehingga berbunyi sebagai berikut:
+
+**BABV**
+
+PERUSAHAAN EFEK, WAKIL PERUSAHAAN EFEK, PENASIHAT INVESTASI, DAN MANAJER INVESTASI
+
+11. Ketentuan Pasal 30 diubah sehingga berbunyi sebagai berikut:
+
+**Bagian Kesatu**
+
+Perizinan Perusahaan Efek
 
 ## Penjelasan Resmi
 

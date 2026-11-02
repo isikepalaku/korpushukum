@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Administrator aplikasi SIAK sebagaimana dimaksud 
-dalam Pasal 30 huruf h, melekat pada jabatan fungsional 
+dalam
+
+Pasal 30
+huruf h, melekat pada jabatan fungsional 
 umum yang membidangi aplikasi SIAK. 
 (2) 
 Administrator aplikasi SIAK sebagaimana dimaksud pada 

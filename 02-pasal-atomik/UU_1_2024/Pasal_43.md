@@ -129,4 +129,6 @@ Ayat(6)...
 
 tJ--f;F{f{rN irriflLrff,ff , Iff{I 
 
-Ayat (6) Cukupjelas. Ayat (7t Cukupje1as. Ayat (7al Cukupjelas. Ayat (8) Cukupjelas.
+Ayat (6) Cukupjelas. Ayat (7t Cukupje1as. Ayat (7al Cukupjelas. Ayat (8) Cukupjelas. 
+
+Angka 16

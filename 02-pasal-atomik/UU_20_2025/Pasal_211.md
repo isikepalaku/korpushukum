@@ -18,12 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
------
-
-PRESIDEN
-FUBLIK INDONESIA
-
-**- 115 -**
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

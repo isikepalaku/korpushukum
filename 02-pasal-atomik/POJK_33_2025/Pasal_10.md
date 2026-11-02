@@ -19,12 +19,18 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penilaian terhadap faktor tata kelola perusahaan yang
-baik sebagaimana dimaksud dalam Pasal 9 ayat (1)
+baik sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (1)
 huruf a, ayat (2) huruf a, dan ayat (3) huruf a,
 merupakan penilaian terhadap pelaksanaan prinsip
 tata kelola perusahaan yang baik oleh PPDP.
 (2) Penilaian terhadap faktor profil risiko sebagaimana
-dimaksud dalam Pasal 9 ayat (1) huruf b, ayat (2) huruf
+dimaksud dalam
+
+Pasal 9
+ayat (1) huruf b, ayat (2) huruf
 b, ayat (3) huruf b, dan ayat (4), merupakan penilaian
 terhadap risiko inheren dan kualitas penerapan
 manajemen risiko dalam operasional PPDP yang
@@ -63,7 +69,10 @@ sebagaimana dimaksud pada ayat (2) dilaksanakan
 sesuai dengan Peraturan Otoritas Jasa Keuangan
 mengenai penerapan manajemen risiko bagi PPDP.
 (4) Penilaian terhadap faktor rentabilitas sebagaimana
-dimaksud dalam Pasal 9 ayat (1) huruf c, ayat (2) huruf
+dimaksud dalam
+
+Pasal 9
+ayat (1) huruf c, ayat (2) huruf
 
 -----
 
@@ -73,12 +82,18 @@ a. kinerja rentabilitas;
 b. sumber rentabilitas; dan
 c. kesinambungan rentabilitas PPDP.
 (5) Penilaian terhadap faktor permodalan sebagaimana
-dimaksud dalam Pasal 9 ayat (1) huruf d paling sedikit
+dimaksud dalam
+
+Pasal 9
+ayat (1) huruf d paling sedikit
 memuat penilaian terhadap:
 a. tingkat kecukupan permodalan; dan
 b. pengelolaan permodalan.
 (6) Penilaian terhadap faktor pendanaan sebagaimana
-dimaksud dalam Pasal 9 ayat (2) huruf d paling sedikit
+dimaksud dalam
+
+Pasal 9
+ayat (2) huruf d paling sedikit
 memuat penilaian terhadap:
 a. kondisi pendanaan; dan
 b. tambahan pendanaan.

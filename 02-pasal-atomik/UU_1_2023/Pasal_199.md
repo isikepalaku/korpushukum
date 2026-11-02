@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '199'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,5 +22,11 @@ mengamandemen: []
 2. (21 Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku bagi anggota Tentara Nasional Indonesia dan Kepolisian Negara Republik Indonesia yang mendapat persetujuan Pemerintah Indonesia.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Ketentuan ini dimaksudkan seb"gd bentuk pelindungan atas kedaulatan nasional, politik luar negeri yang bebas aktit dan keutuhan teritorial.
+
+Ayat(21
 
 Cukup jelas.

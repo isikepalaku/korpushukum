@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelaksanaan Pengawasan KSP/KSPPS dan USP/USPPS
-Koperasi sebagaimana dimaksud dalam Pasal 89 ayat (1)
+Koperasi sebagaimana dimaksud dalam
+
+Pasal 89
+ayat (1)
 dapat dilakukan oleh tim Pengawas KSP/KSPPS dan
 USP/USPPS Koperasi.
 (2) Tim pengawas KSP/KSPPS dan USP/USPPS Koperasi

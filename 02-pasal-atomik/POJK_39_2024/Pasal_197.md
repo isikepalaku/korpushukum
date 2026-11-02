@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penilaian terhadap faktor permodalan sebagaimana
-dimaksud dalam Pasal 196 ayat (2) huruf a meliputi
+dimaksud dalam
+
+Pasal 196
+ayat (2) huruf a meliputi
 penilaian terhadap kecukupan, proyeksi, dan
 kemampuan permodalan dalam mengantisipasi risiko.
 (2) Penilaian terhadap faktor permodalan sebagaimana
@@ -27,7 +30,10 @@ terhadap parameter pemenuhan ketentuan:
 a. Ekuitas sebagaimana dimaksud dalam Pasal 194
 ayat (1); dan
 b. rasio Ekuitas dibandingkan Modal Disetor
-sebagaimana dimaksud dalam Pasal 194 ayat (2).
+sebagaimana dimaksud dalam
+
+Pasal 194
+ayat (2).
 
 Bagian Ketiga
 Kualitas Piutang Pinjaman

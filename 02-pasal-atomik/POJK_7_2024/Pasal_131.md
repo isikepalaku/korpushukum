@@ -19,13 +19,19 @@ mengamandemen: []
 
 (1) Bagi BPR atau BPR Syariah yang telah memenuhi kondisi
 dalam kepemilikan dan/atau pengendalian PSP yang sama
-sebagaimana dimaksud dalam Pasal 130 ayat (1) wajib
+sebagaimana dimaksud dalam
+
+Pasal 130
+ayat (1) wajib
 melakukan Penggabungan atau Peleburan paling lama 2
 (dua) tahun sejak Peraturan OJK ini mulai berlaku.
 (2) Bagi BPR atau BPR Syariah milik pemerintah daerah yang
 telah memenuhi kondisi dalam kepemilikan dan/atau
 pengendalian PSP yang sama sebagaimana dimaksud
-dalam Pasal 130 ayat (1) wajib melakukan Penggabungan
+dalam
+
+Pasal 130
+ayat (1) wajib melakukan Penggabungan
 
 -----
 

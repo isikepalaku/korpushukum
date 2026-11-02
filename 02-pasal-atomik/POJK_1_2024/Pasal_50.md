@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku,
-pembentukan PPKA sebagaimana dimaksud dalam Pasal 24
+pembentukan PPKA sebagaimana dimaksud dalam
+
+Pasal 24
 dilakukan sampai dengan tanggal 31 Desember 2024.
 
 BAB X

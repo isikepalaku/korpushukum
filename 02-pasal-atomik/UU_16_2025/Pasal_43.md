@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penggunaan laba bersih Perum termasuk penentuan jumlah penyisihan untuk cadangan sebagaimana dimaksud dalam Pasal 42 ditetapkan oleh kepala BP BUMN.
+Penggunaan laba bersih Perum termasuk penentuan jumlah penyisihan untuk cadangan sebagaimana dimaksud dalam
+
+Pasal 42
+ditetapkan oleh kepala BP BUMN.
 
 43. Ketentuan Pasal 43A diubah sehingga berbunyi sebagai berikut:
 
@@ -26,7 +29,9 @@ Penggunaan laba bersih Perum termasuk penentuan jumlah penyisihan untuk cadangan
 Berdasarkan ketentuan ini, kepala BP BUMN dapat menetapkan bahwa sebagian atau seluruh laba bersih akan digunakan untuk pembagian dividen kepada pemilik modal, atau pembagian lain seperti tantiem untuk Direksi Perum dan Dewan Pengawas, bonus untuk karyawan, cadangan dana sosial dan lain-lain, atau penempatan laba bersih tersebut dalam cadangan Perrm yang antara lain diperuntukkan bagi perluasan usaha Perum.
 
 ```
-Angka 43 Pasal 43A Ayat (l) Direksi Perum terdiri atas direktur utama dan/atau direktur lainnya sesuai dengan kebutuhan. Direktur lainnya sesuai dengan kebutuhan antara lain direktur sumber daya manusia dan direktur keuangan dan/ atau aset. Ayat (2) Cukup jelas. Angka44 Pasal 43El Cukup jelas. Angka 45 Pasal 43C Ayat (1) Huruf a
+Angka 43
+
+Pasal 43A Ayat (l) Direksi Perum terdiri atas direktur utama dan/atau direktur lainnya sesuai dengan kebutuhan. Direktur lainnya sesuai dengan kebutuhan antara lain direktur sumber daya manusia dan direktur keuangan dan/ atau aset. Ayat (2) Cukup jelas. Angka44 Pasal 43El Cukup jelas. Angka 45 Pasal 43C Ayat (1) Huruf a
 ```
 
 ```
@@ -59,7 +64,9 @@ Yang dimaksud dengan "keahlian" adalah kompetensi atas bisnis inti BUMN yang aka
 !l
 
 ```
-Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Ayat (2) Hurufa Cukup jelas. Huruf b Huruf c Cukup jelas. Ayat (3) Cukup jelas. Untuk menentukan anggota Direksi atau anggota Dewan Komisaris/ Dewan Pengawas dapat dinyatakan sebagai penyebab Persero atau Perum dinyatakan pailit harus didasarkan pada gugatan dan/ atau tuntutan yang dapat diajukan kepada anggota Direksi dan/ atau anggota Dewan Komisaris/Dewan Pengawas yang menjabat pada saat Persero atau Perum dinyatakan pailit, dan/ atau kepada anggota Direksi dan/ atau anggota Dewan Komisaris/ Dewan Pengawas periode sebelum Persero atau Perum dinyatakan pailit. Angka 46 Pasal 43D Huruf a Cukup jelas.
+Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Ayat (2) Hurufa Cukup jelas. Huruf b Huruf c Cukup jelas. Ayat (3) Cukup jelas. Untuk menentukan anggota Direksi atau anggota Dewan Komisaris/ Dewan Pengawas dapat dinyatakan sebagai penyebab Persero atau Perum dinyatakan pailit harus didasarkan pada gugatan dan/ atau tuntutan yang dapat diajukan kepada anggota Direksi dan/ atau anggota Dewan Komisaris/Dewan Pengawas yang menjabat pada saat Persero atau Perum dinyatakan pailit, dan/ atau kepada anggota Direksi dan/ atau anggota Dewan Komisaris/ Dewan Pengawas periode sebelum Persero atau Perum dinyatakan pailit. Angka 46
+
+Pasal 43D Huruf a Cukup jelas.
 ```
 
 Huruf b . . .
@@ -67,7 +74,9 @@ Huruf b . . .
 ## FRESIDEN REPUBLIK INDONESIA
 
 ```
-Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Yang dimaksud dengan "jabatan lain" termasuk menteri dan wakil menteri. Ang)<a 47 Pasal 43E Ayat Ayat (1) Yang dimaksud dengan "kontrak manajemen" adalah statement of arporate intent (SCI) antara lain memuat janji atau pernyataan Direksi Perum untuk memenuhi segala target yang disepakati antara kepala BP BUMN, Dewan Pengawas, dan Direksi Perum. Kontrak manajemen tersebut dapat diperbaharui setiap tahun untuk disesuaikan dengan kondisi dan perkembangan perusahaan. t2l Cukup jelas. Angka 48 Pasal 43F Cukup jelas. Angka 49 Pasal 43G Cukup jelas. Angka 50 Pasal 43I Ayat (1) Rencana keda jangka panjang memuat antara lain:
+Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Yang dimaksud dengan "jabatan lain" termasuk menteri dan wakil menteri. Ang)<a 47
+
+Pasal 43E Ayat Ayat (1) Yang dimaksud dengan "kontrak manajemen" adalah statement of arporate intent (SCI) antara lain memuat janji atau pernyataan Direksi Perum untuk memenuhi segala target yang disepakati antara kepala BP BUMN, Dewan Pengawas, dan Direksi Perum. Kontrak manajemen tersebut dapat diperbaharui setiap tahun untuk disesuaikan dengan kondisi dan perkembangan perusahaan. t2l Cukup jelas. Angka 48 Pasal 43F Cukup jelas. Angka 49 Pasal 43G Cukup jelas. Angka 50 Pasal 43I Ayat (1) Rencana keda jangka panjang memuat antara lain:
 ```
 
 ```
@@ -81,7 +90,9 @@ a. evaluasi pelaksanaan rencana kerja sebelumnya;
 - f. proyeksi keuangan Perum.
 
 ```
-Ayat Ayat Ayat Ayat Ayat Ayat Ayat Angka 51 Pasal 43J Ayat (1) Cukup jelas. Ayat (21 Cukup jelas. (2t Cukup jelas. (3) Cukup jelas. (4) Cukup jelas. (s) Cukup jelas. (6) Cukup jelas. 17t Cukup jelas. (8) Cukup jelas.
+Ayat Ayat Ayat Ayat Ayat Ayat Ayat Angka 51
+
+Pasal 43J Ayat (1) Cukup jelas. Ayat (21 Cukup jelas. (2t Cukup jelas. (3) Cukup jelas. (4) Cukup jelas. (s) Cukup jelas. (6) Cukup jelas. 17t Cukup jelas. (8) Cukup jelas.
 ```
 
 Ayat (3)

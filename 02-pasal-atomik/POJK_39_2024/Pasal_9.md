@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 5 ayat (1), ayat (2), ayat (3), ayat
+dimaksud dalam
+
+Pasal 5
+ayat (1), ayat (2), ayat (3), ayat
 (4), ayat (6), Pasal 7 ayat (1), dan/atau Pasal 8 ayat (2)
 dikenai sanksi administratif berupa:
 a. peringatan tertulis;

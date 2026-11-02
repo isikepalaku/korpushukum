@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai sarana dan prasarana sebagaimana dimaksud dalam Pasal 17F sampai dengan Pasal 17I diatur dalam Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai sarana dan prasarana sebagaimana dimaksud dalam Pasal 17F sampai dengan
+
+Pasal 171
+diatur dalam Peraturan Pemerintah.
 
 ## BAB VIC TEKNOLOGI INFORMASI DAN KOMUNIKASI
 

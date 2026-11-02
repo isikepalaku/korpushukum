@@ -104,7 +104,10 @@ Angka 1
 Cukup jelas.
 Angka 2
 
-Lihat penjelasan Pasal 41 ayat (1) huruf e.
+Lihat penjelasan
+
+Pasal 41
+ayat (1) huruf e.
 Angka 3
 
 Cukup jelas.
@@ -118,7 +121,10 @@ Angka 1
 Cukup jelas.
 Angka 2
 
-Lihat penjelasan Pasal 41 ayat (3) huruf c.
+Lihat penjelasan
+
+Pasal 41
+ayat (3) huruf c.
 Angka 3
 
 Yang dimaksud dengan ”whitelist address” adalah

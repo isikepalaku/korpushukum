@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '522'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Setiap Orang yang secara melawan hukum merusak bangunan gedung untuk sarana, pra
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "bangunan gedung untuk sarana, prasarana, dan/ atau fasilitas pelayanan publil{ misalnya, bangunan kereta api, Bangunan Listrik, bangunan telekomunikasi, bangunan untuk komrrnikasi lewat satelit atau komunikasi jarak jauh lainnya, stasiun radio atau televisi, bendungan, saluran gas, atau saluran air minum.

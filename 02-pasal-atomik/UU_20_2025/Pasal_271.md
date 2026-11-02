@@ -26,7 +26,14 @@ yang bersangkutan wajib mengundurkan diri baik atas
 **kehendak sendiri maupun atas permintaan: a. Penuntut Umum; atau b. Terdakwa atau Advokatnya.**
 **(3) Dalam hal terdapat keraguan atau perbedaan pendapat**
 
-**mengenai kepentingan sebagaimana dimaksud pada ayat (1), ketua pengadilan tinggi yang menetapkan Hakim yang akan Mengadili. (41 Ketentuan sebagaimana dimaksud pada ayat (1) dan ayat l2l berlaku secara mutatis mutandis bagi Penuntut Umum.**
+**mengenai kepentingan sebagaimana dimaksud pada ayat (1), ketua pengadilan tinggi yang menetapkan Hakim yang akan Mengadili. (41 Ketentuan sebagaimana dimaksud pada ayat (1) dan ayat l2l berlaku secara mutatis mutandis bagi Penuntut Umum.**Pasal 272...
+
+-----
+
+PRESTDEN
+REPUELIK INDONESIA
+
+**-t4t-**
 
 ## Penjelasan Resmi
 

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '527'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Seorang komandan Tentara Nasional Indonesia yang menolak atau mengabaikan permin
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "pemberian bantuan kekuatan" adalah pemberian bantuan yang diberikan oleh Komandan Tentara Nasional Indonesia hanya pada kondisi darurat sipil.

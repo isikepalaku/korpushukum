@@ -21,7 +21,25 @@ mengamandemen: []
 **(l) Pendanaan Rehabilitasi bersumber dari dana abadi**
 
 **untuk pembayaran Ganti Rugi, Rehabilitasi, Restitusi,**
-**dan Kompensasi sebagaimana dimaksud dalam**
+**dan Kompensasi sebagaimana dimaksud dalam**Pasal 176.
+**(2) Ketentuan lebih lanjut mengenai Rehabilitasi**
+
+sebagaimana dimaksud dalam
+
+Pasal 176
+diatur dalam
+**Peraturan Pemerintah.**
+
+ Bagian . . .
+
+-----
+
+PRESIDEN
+**ELIK INDONESIA**
+
+ Bagian Ketiga
+
+ Restitusi
 
 ## Penjelasan Resmi
 

@@ -21,6 +21,43 @@ mengamandemen: []
 
 (1) Kegiatan usaha sebagaimana dimaksud dalam Pasal 19,
 
+Pasal 20, dan
+
+Pasal 21
+dan/atau produk dan jasa syariah,
+wajib tunduk kepada Prinsip Syariah.
+
+(2) Prinsip Syariah sebagaimana dimaksud pada ayat (1)
+
+difatwakan oleh Majelis Ulama Indonesia.
+
+(3) Fatwa sebagaimana dimaksud pada ayat (2) dituangkan
+
+dalam Peraturan Bank Indonesia.
+
+(4) Dalam rangka penyusunan Peraturan Bank Indonesia
+
+sebagaimana dimaksud pada ayat (3), Bank Indonesia
+membentuk komite perbankan syariah.
+
+(5) Ketentuan lebih lanjut mengenai tata cara pembentukan,
+
+keanggotaan, dan tugas komite perbankan syariah
+sebagaimana dimaksud pada ayat (4) diatur dengan
+Peraturan Bank Indonesia.
+
+BAB V
+
+PEMEGANG SAHAM PENGENDALI, DEWAN KOMISARIS,
+
+DEWAN PENGAWAS SYARIAH, DIREKSI,
+
+DAN TENAGA KERJA ASING
+
+Bagian Kesatu
+
+Pemegang Saham Pengendali
+
 ## Penjelasan Resmi
 
 Ayat (1)

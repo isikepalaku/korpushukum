@@ -20,6 +20,12 @@ mengamandemen: []
 
 (1) PembinaansebagaimanadimaksuddalamPasal38meliputi: a. penyelenggaraan urusan Pemerintah di bidang kegiatan usaha Minyak dan Gas Bumi; b. penetapan kebijakan mengenai kegiatan usaha Minyak dan Gas Bumi berdasarkan cadangan dan potensi sumber daya Minyak dan Gas Bumi yang dimiliki, kemampuan
 
+Pasal 37 …
+
+produksi, kebutuhan Bahan Bakar Minyak dan Gas Bumi dalam negeri, penguasaan teknologi, aspek lingkungan dan pelestarian lingkungan hidup, kemampuan nasional, dan kebijakan pembangunan. (2) Pelaksanaanpembinaansebagaimanadimaksuddalamayat(1)dilakukansecaracermat,
+
+- transparan, dan adil terhadap pelaksanaan kegiatan usaha Minyak dan Gas Bumi.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

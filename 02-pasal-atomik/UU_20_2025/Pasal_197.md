@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 **(1) Dalam ha1 Penuntut Umum melakukan perlawanan**
- terhadap surat penetapan pengadilan negeri sebagaimana dimaksud dalam Pasal 196 ayat (1), Penuntut Umum mengajukan perlawanan kepada pengadilan tinggi yang wilayah hukumnya meliputi tempat pengadilan negeri yang bersangkutan dalam jangka waktu paling lama 7 (tujuh) Hari terhitung sejak
+ terhadap surat penetapan pengadilan negeri sebagaimana dimaksud dalam
+
+Pasal 196
+ayat (1), Penuntut Umum mengajukan perlawanan kepada pengadilan tinggi yang wilayah hukumnya meliputi tempat pengadilan negeri yang bersangkutan dalam jangka waktu paling lama 7 (tujuh) Hari terhitung sejak
  surat penetapan tersebut diterima. (2) Apabila jangka waktu sebagaimana dimalsud pada
 
 **ayat (U terlampaui, perlawanan yang diajukan**
@@ -40,6 +43,15 @@ yang bersangkutan.
 negeri yang bersangkutan.
 **(8) Tembusan surat penetapan pengadilan tinggi**
  sebagaimana dimaksud pada ayat (5) dan ayat (6) disampaikan kepada Penuntut Umum.
+
+Pasal 198 . . .
+
+-----
+
+PRESIDEN
+REPUEUK INDONESIA
+
+**- 106-**
 
 ## Penjelasan Resmi
 

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pasal 69ayat (1), Pasal 71 ayat (4), Pasal 73 ayat (1),
+Pasal 69ayat (1),
+
+Pasal 71
+ayat (4), Pasal 73 ayat (1),
 
 ## Penjelasan Resmi
 

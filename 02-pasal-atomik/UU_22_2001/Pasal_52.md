@@ -22,7 +22,10 @@ Setiap orang yang melakukan Eksplorasi dan/atau Eksploitasi tanpa mempunyai Kont
 
 BAB XI …
 
-sebagaimana dimaksud dalam Pasal 11 ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling tinggi Rp60.000.000.000,00 (enam puluh miliar rupiah).
+sebagaimana dimaksud dalam
+
+Pasal 11
+ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling tinggi Rp60.000.000.000,00 (enam puluh miliar rupiah).
 
 ## Penjelasan Resmi
 

@@ -25,6 +25,10 @@ mengamandemen: []
 
 - (4) Ketentuan lebih lanjut mengenai pelaksanaan pengawasan diatur dengan Peraturan Menteri.
 
+Pasal 79...
+
+PRESTDEN REPUBLIK INDONESiA -37-
+
 ## Penjelasan Resmi
 
 Ayat (1) Cukup jelas. 

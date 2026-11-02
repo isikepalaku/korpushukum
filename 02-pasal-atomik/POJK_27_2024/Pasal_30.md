@@ -19,8 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Peraturan dan tata tertib Lembaga Kliring Penjaminan
-dan Penyelesaian sebagaimana dimaksud dalam Pasal
-28 ayat (4) huruf b harus paling sedikit memuat:
+dan Penyelesaian sebagaimana dimaksud dalam
+
+Pasal 28
+ayat (4) huruf b harus paling sedikit memuat:
 a. persyaratan menjadi Anggota Kliring;
 b. hak dan kewajiban Anggota Kliring;
 c. mekanisme penjaminan penyelesaian transaksi

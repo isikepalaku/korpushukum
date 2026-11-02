@@ -20,11 +20,16 @@ mengamandemen: []
 (1) 
 Bupati/Wali Kota menyampaikan laporan pengelolaan 
 SIAK daerah kabupaten/kota sebagaimana dimaksud 
-dalam Pasal 101 ayat (4), kepada gubernur pada Bulan 
+dalam
+
+Pasal 101
+ayat (4), kepada gubernur pada Bulan 
 Oktober. 
 (2) 
 Gubernur menyampaikan laporan pengelolaan SIAK 
-daerah provinsi sebagaimana dimaksud dalam Pasal 101 
+daerah provinsi sebagaimana dimaksud dalam
+
+Pasal 101
 ayat 
 (4), 
 dan 

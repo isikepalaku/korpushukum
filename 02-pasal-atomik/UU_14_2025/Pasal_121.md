@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang tanpa hak bertindak sebagai PIHK dengan mengumpulkan dan/atau memberangkatkan Jemaah Haji Khusus sebagaimana dimaksud dalam Pasal 114 dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau dipidana dengan pidana denda paling banyak kategori VI.
+Setiap Orang yang tanpa hak bertindak sebagai PIHK dengan mengumpulkan dan/atau memberangkatkan Jemaah Haji Khusus sebagaimana dimaksud dalam
+
+Pasal 114
+dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau dipidana dengan pidana denda paling banyak kategori VI.
 
 102. Ketentuan Pasal 122 diubah sehingga berbunyi sebagai berikut:
 

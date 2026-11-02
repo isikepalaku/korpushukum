@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemberian fasilitas penyelesaian pengaduan Konsumen oleh Otoritas Jasa Keuangan dilakukan terhadap pengaduan yang berindikasi sengketa di sektor jasa keuangan sebagaimana dimaksud dalam Pasal 40 ayat (1) dan harus memenuhi persyaratan sebagai berikut: a. Konsumen mengalami kerugian finansial yang ditimbulkan oleh:
+Pemberian fasilitas penyelesaian pengaduan Konsumen oleh Otoritas Jasa Keuangan dilakukan terhadap pengaduan yang berindikasi sengketa di sektor jasa keuangan sebagaimana dimaksud dalam
+
+Pasal 40
+ayat (1) dan harus memenuhi persyaratan sebagai berikut: a. Konsumen mengalami kerugian finansial yang ditimbulkan oleh:
 
  1. Pelaku Usaha Jasa Keuangan di bidang Perbankan, Pasar Modal, Dana Pensiun, Asuransi Jiwa, Pembiayaan, Perusahaan Gadai, atau Penjaminan, paling banyak sebesar Rp500.000.000,00 (lima ratus juta rupiah);
 

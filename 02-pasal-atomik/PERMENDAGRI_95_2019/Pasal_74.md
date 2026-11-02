@@ -22,7 +22,10 @@ jaringan
 komunikasi 
 data 
 sebagaimana 
-dimaksud dalam Pasal 70 huruf d, dilakukan dengan cara 
+dimaksud dalam
+
+Pasal 70
+huruf d, dilakukan dengan cara 
 antara lain: 
 a. 
 melakukan pemantauan kondisi jaringan komunikasi 

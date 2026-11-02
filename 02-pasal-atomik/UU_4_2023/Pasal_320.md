@@ -54,4 +54,6 @@ Cukup jelas.
 
 Ayat (6)
 
-Ketentuan ini dimaksudkan untuk memberikan relaksasi terhadap ketentuan sebagaimana dimaksud dalam Pasal 162.
+Ketentuan ini dimaksudkan untuk memberikan relaksasi terhadap ketentuan sebagaimana dimaksud dalam
+
+Pasal 162.

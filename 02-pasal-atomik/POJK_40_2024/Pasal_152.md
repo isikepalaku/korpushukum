@@ -27,7 +27,10 @@ sebagaimana dimaksud pada ayat (2) wajib dilakukan
 paling sedikit setiap 3 (tiga) bulan.
 (4) Penyelenggara wajib menyediakan dokumen pedoman
 penilaian skor kredit (credit scoring) sebagaimana
-dimaksud dalam Pasal 151 ayat (1) pada saat
+dimaksud dalam
+
+Pasal 151
+ayat (1) pada saat
 pelaksanaan verifikasi dan/atau validasi oleh Otoritas
 Jasa Keuangan.
 (5) Ketentuan lebih lanjut mengenai skor kredit (credit

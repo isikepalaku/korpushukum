@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan mengenai kewajiban Pengendali Data Pribadi sebagaimana dimaksud dalam Pasal 29, Pasal 31, Pasal 35, Pasal 36, Pasal 37, Pasal 38, dan Pasal 39 berlakujuga terhadap Prosesor Data Pribadi. 
+Ketentuan mengenai kewajiban Pengendali Data Pribadi sebagaimana dimaksud dalam Pasal 29,
+
+Pasal 31, Pasal 35, Pasal 36, Pasal 37, Pasal 38, dan Pasal 39 berlakujuga terhadap Prosesor Data Pribadi. 
 
 Bagran 
 

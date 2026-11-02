@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '597'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -30,4 +30,7 @@ Bagian Kesatu Tindak Pidana Berat Terhadap Hak Asasi Manusia
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "perbuatan yang menurut hukum yang hidup dalam masyarakat dinyatakan sebagai perbuatan yang dilarang" mengacu pa.da ketentuan
+
+Pasal 2
+ayat (1).

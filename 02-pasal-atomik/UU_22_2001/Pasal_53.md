@@ -20,6 +20,8 @@ mengamandemen: []
 
 - Setiap orang yang melakukan: a. Pengolahan sebagaimana dimaksud dalam Pasal 23 tanpa Izin Usaha Pengolahan dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling tinggi Rp50.000.000.000,00 (lima puluh miliar rupiah); b. Pengangkutan sebagaimana dimaksud dalam Pasal 23 tanpa Izin Usaha Pengangkutan dipidana dengan pidana penjara paling lama 4 (empat) tahun dan denda paling tinggi Rp40.000.000.000,00 (empat puluh miliar rupiah); c. Penyimpanan sebagaimana dimaksud dalam Pasal 23 tanpa Izin Usaha Penyimpanan dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan denda paling tinggi Rp30.000.000.000,00 (tiga puluh miliar rupiah); d. NiagasebagaimanadimaksuddalamPasal23tanpaIzinUsahaNiagadipidanadenganpidana penjara paling lama 3 (tiga) tahun dan denda paling tinggi Rp30.000.000.000,00 (tiga puluh miliar rupiah).
 
+Pasal 54 …
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -27,7 +27,10 @@ mengamandemen:
 
 **Pasal VI**
 
-Ketentuan Pasal 238 dalam Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 244, Tambahan lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2O22 ter,.tang Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tallun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856), diubah sebagai berikut:
+Ketentuan
+
+Pasal 238
+dalam Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 244, Tambahan lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2O22 ter,.tang Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tallun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856), diubah sebagai berikut:
 
 ## Penjelasan Resmi
 

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '98'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Pidana mati diancamkan secara alternatif sebagai upaya terakhir untuk mencegah d
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Pidana mati tidak terdapat dalam stelsel pidana pokok. Pidana mati ditentukan dalam pasal tersendiri unhrk menunjukkan bahwa jenis pidana ini benar-benar bersiliat khusus sebagai upa.ya terakhir untuk mengayomi masyarakat. Pidana mati adalah pidana yang paling berat dan harus selalu diancamkan secara altematif dengan pidana penjara serunur hidup atau pidana penjara paling lama 20 (dua puluh) tahun. Pidana mati dijatuhkan dengan masa percobaan, sehingga dalam tenggang waktu masa percobaan tersebut terpidana diharapkan dapat memperbaiki diri sehingga pidana mati tidak perlu dilaksanalan, dan dapat diganti dengan pidana penjara seumur hidup.

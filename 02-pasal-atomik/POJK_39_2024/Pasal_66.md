@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan persetujuan perubahan
-kepemilikan sebagaimana dimaksud dalam Pasal 65
+kepemilikan sebagaimana dimaksud dalam
+
+Pasal 65
 ayat (1) dalam jangka waktu paling lambat 20 (dua
 puluh) hari kerja sejak permohonan diterima secara
 lengkap.
@@ -27,7 +29,10 @@ lengkap.
 sebagaimana dimaksud pada ayat (1), Otoritas Jasa
 Keuangan melakukan:
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 65 ayat (1);
+sebagaimana dimaksud dalam
+
+Pasal 65
+ayat (1);
 b. analisis kelayakan atas rencana perubahan
 kepemilikan;
 c. penilaian kemampuan dan kepatutan terhadap
@@ -36,7 +41,10 @@ pengambilalihan; dan
 d. analisis pemenuhan ketentuan peraturan
 perundang-undangan di bidang pergadaian.
 (3) Dalam hal terdapat kekurangan dokumen sebagaimana
-dimaksud Pasal 65 ayat (1), Otoritas Jasa Keuangan
+dimaksud
+
+Pasal 65
+ayat (1), Otoritas Jasa Keuangan
 menyampaikan permintaan kelengkapan dokumen
 kepada Perusahaan.
 (4) Perusahaan harus menyampaikan kelengkapan

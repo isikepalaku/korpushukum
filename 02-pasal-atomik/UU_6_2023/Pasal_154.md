@@ -24,3 +24,5 @@ mengamandemen: []
 Dalam rangka percepatan kemudahan berusaha, proses
 
 pengukuran, pendaftaran, dan penetapan kebangsaan Kapal pada Kapal penangkap ikan dilakukan secara terintegrasi melalui pelayanan I (satu) atap. Sarana dan prasarana penyelenggaraan sistem I (satu) atap disediakan oleh Pemerintah hrsat.
+
+Angka 34

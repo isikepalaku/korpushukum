@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Rupiah sebagaimana dimaksud dalam Pasal 4 tidak memuat
+Rupiah sebagaimana dimaksud dalam
+
+Pasal 4
+tidak memuat
 gambar orang yang masih hidup.
 
 ## Penjelasan Resmi

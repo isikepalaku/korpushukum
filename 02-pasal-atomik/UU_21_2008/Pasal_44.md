@@ -20,7 +20,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Bank wajib memberikan keterangan sebagaimana dimaksud
-dalam Pasal 42 dan Pasal 43.
+dalam Pasal 42 dan
+
+Pasal 43.
 
 ## Penjelasan Resmi
 

@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Nilai agunan yang diperhitungkan sebagai pengurang
 dalam perhitungan PPKA khusus sebagaimana dimaksud
-dalam Pasal 19 ayat (3) ditetapkan paling tinggi:
+dalam
+
+Pasal 19
+ayat (3) ditetapkan paling tinggi:
 a. 85% (delapan puluh lima persen) dari nilai pasar
 untuk agunan berupa emas perhiasan;
 b. 80% (delapan puluh persen) dari nilai hak

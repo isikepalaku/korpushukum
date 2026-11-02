@@ -43,7 +43,9 @@ rencana korporasi kepada OJK sewaktu-waktu dalam
 
 periode 5 (lima) tahunan rencana korporasi
 
-sebagaimana dimaksud dalam Pasal 8.
+sebagaimana dimaksud dalam
+
+Pasal 8.
 
 (4) Perubahan rencana korporasi sebagaimana dimaksud
 

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) BPR dilarang melakukan hapus buku sebagaimana
-dimaksud dalam Pasal 42 kecuali BPR telah melakukan
+dimaksud dalam
+
+Pasal 42
+kecuali BPR telah melakukan
 upaya untuk memperoleh kembali Aset Produktif yang
 diberikan.
 (2) BPR wajib mendokumentasikan upaya untuk memperoleh

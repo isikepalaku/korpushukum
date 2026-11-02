@@ -25,12 +25,16 @@ Syariah atau Bank Umum Konvensional yang memiliki UUS
 yang dengan sengaja:
 
 a. tidak menyampaikan laporan keuangan sebagaimana
-dimaksud dalam Pasal 35 ayat (2); dan/atau
+dimaksud dalam
+
+Pasal 35
+ayat (2); dan/atau
 
 b. tidak memberikan keterangan atau tidak melaksanakan
 perintah yang wajib dipenuhi sebagaimana dimaksud
-dalam Pasal 52
+dalam
 
+Pasal 52
 dipidana dengan pidana penjara paling singkat 2 (dua) tahun
 dan paling lama 10 (sepuluh) tahun dan pidana denda paling
 sedikit Rp5.000.000.000,00 (lima miliar rupiah) dan paling
@@ -42,12 +46,16 @@ Syariah atau Bank Umum Konvensional yang memiliki UUS
 yang lalai:
 
 a. tidak menyampaikan laporan keuangan sebagaimana
-dimaksud dalam Pasal 35 ayat (2); dan/atau
+dimaksud dalam
+
+Pasal 35
+ayat (2); dan/atau
 
 b. tidak memberikan keterangan atau tidak melaksanakan
 perintah yang wajib dipenuhi sebagaimana dimaksud
-dalam Pasal 52
+dalam
 
+Pasal 52
 dipidana . . .
 
 -----

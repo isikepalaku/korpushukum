@@ -21,6 +21,10 @@ mengamandemen: []
 
 - (2) Pengendali Data Pobadi baru dapat memproses Data Pribadi untuk tujwan Pengendali Data Pribadi baru setelah masa pengajuan keberatan oleh Subjek Data Pribadi untuk penyimpanan dan pemrosesan Data Pribadi oleh Pengendali Data Pribadi baru berakhir.
 
+Pasal 136 ,..
+
+**PRESIDEN REPUBLIX INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

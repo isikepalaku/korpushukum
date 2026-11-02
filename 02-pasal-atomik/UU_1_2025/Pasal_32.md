@@ -4,7 +4,7 @@ uu_induk: Perubahan Ketiga UU BUMN
 kode_uu: UU_1_2025
 pasal: '32'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
@@ -53,7 +53,9 @@ mengamandemen:
 
 **Pasal 3AC**
 
-Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 3AB ayat (21, Holding Investasi berwenang melakukan tindakan sebagai berikut:
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+
+Pasal 3AB ayat (21, Holding Investasi berwenang melakukan tindakan sebagai berikut:
 
 - a. menyusun dan mengusulkan rencana kerja dan anggaran perusahaan Holding Investasi;
 - b. melakukan pengelolaan dividen BUMN;
@@ -142,7 +144,9 @@ Dalam menjalankan kewenangan melakukan pengurusan, Direksi Holding Investasi ber
 
 Dewan Komisaris Holding Investasi
 
-18. Di antara Pasal 3AG dan Pasal 4 disisipkan 3 (tiga) pasal, yakni Pasal 3AH, Pasal 3AI, dan Pasal 3A.J sehingga berbunyi sebagai berikut:
+18. Di antara
+
+Pasal 3AG dan Pasal 4 disisipkan 3 (tiga) pasal, yakni Pasal 3AH, Pasal 3AI, dan Pasal 3A.J sehingga berbunyi sebagai berikut:
 
 **Pasal 3AH**
 
@@ -209,7 +213,9 @@ j. persyaratan . . .
 
 **Pasal 3AL**
 
-Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 3AK ayat l2l, Holding Operasional berwenang melakukan tindakan sebagai berikut:
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+
+Pasal 3AK ayat l2l, Holding Operasional berwenang melakukan tindakan sebagai berikut:
 
 - a. menJrusun dan mengusulkan rencana kerja dan anggaran perusahaan Holding Operasional;
 - b. menerbitkan surat utang dan/ atau menerima pinjaman;
@@ -232,7 +238,9 @@ g.tindakan...
 
 **Pasal 3AN**
 
-Ketentuan sebagaimana dimaksud dalam Pasal 3AD sampai dengan Pasal 3dJ berlaku mutatis mutandis bagi Direksi Holding Dewan Komisaris Holding Operasional, dan rencana kerja dan anggara.n perusahaan Holding
+Ketentuan sebagaimana dimaksud dalam Pasal 3AD sampai dengan
+
+Pasal 3dJ berlaku mutatis mutandis bagi Direksi Holding Dewan Komisaris Holding Operasional, dan rencana kerja dan anggara.n perusahaan Holding
 
 - 2t. Di antara Bab IE dan Bab II disisipkan I (satu) bab, yakni Bab IF sehingga berbunyi sebagai berikut:
 
@@ -249,3 +257,9 @@ Bagian Kesatu Modal
 ## Penjelasan Resmi
 
 Dihapus.
+Angka 66
+
+Pasal 33
+Dihapus.
+
+Angka6T

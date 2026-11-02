@@ -21,8 +21,7 @@ mengamandemen:
 - (1) Peraturan pelalsanaan Undang-Undang ini harus telah ditetapkan dalam waktu paling lambat 6 (enam) bulan sejak Undang-Undang ini mulai berlaku.
 2. (21 Pemerintah Pusat,. Dewan Perwakilan Ralryat Republik Indonesia melalui alat kelengkapan yang menangani bidang legislasi, dan Dewan Perwakilan Daerah Republik Indonesia melalui alat kelengkapan yang menangani bidang perancangan undang-undang wajib melalukan pemantauan dan peninjauan terhadap pelaksanaan Undang-Undang ini 2 (dua) tahun setelah Undang-Undang ini berlaku sesuai dengan ketentuan peraturan perundang-undangan.
 
-**Pasal II**
-
+Pasal 11
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar Diundangkan di Jakarta pada tanggal 19 Maret 2025

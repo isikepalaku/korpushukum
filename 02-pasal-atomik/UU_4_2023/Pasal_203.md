@@ -21,7 +21,10 @@ Dalam rangka pengembangan dan penguatan sektor keuangan melalui penataan lembaga
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 204 Angka 1 Pasal 5 Cukup jelas. Angka 2 Pasal 8 Cukup jelas. Angka 3 Pasal 9 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
+Cukup jelas.
+
+Pasal 204
+Angka 1 Pasal 5 Cukup jelas. Angka 2 Pasal 8 Cukup jelas. Angka 3 Pasal 9 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
 ```
 
 Ayat (4) ...
@@ -34,7 +37,10 @@ Angka 4
 Ayat (4) Cukup jelas. Ayat (5) Huruf a Cukup jelas.
 ```
 
-Hurufb Yang dimaksud dengan "LKM inkubasi" adalah LKM baik yang didirikan dalam rangka menyelenggarakan program Pemerintah maupun yang didirikan oleh masyarakat yang tidak menghimpun dana dan belum mampu memenuhi ketentuan sebagaimana dimaksud dalam undang­ undang mengenai lembaga keuangan mikro. Ayat (6) Cukup jelas. Ayat (7) LKM inkubasi dalam ketentuan ini diarahkan untuk dapat bertransformasi menjadi di antaranya LKM, BPR, atau Usaha Jasa Pembiayaan, baik yang menjalan usaha secara konvensional maupun berdasarkan Prinsip Syariah. Ayat (8) Ketentuan yang akan diatur dalam Peraturan Pemerintah di antaranya mencakup syarat, tata cara, dan jangka waktu pendaftaran LKM inkubasi; penyelenggaraan kegiatan usaha LKM inkubasi; dan upaya Pemerintah Daerah provinsi dan Pemerintah Daerah kabupaten/kota untuk mendorong LKM inkubasi mampu menjadi lembaga yang memiliki izin usaha sesuai dengan ketentuan peraturan perundang-undangan. Pasal 11 Ayat (1) Huruf a Cukup jelas. Huruf b ...
+Hurufb Yang dimaksud dengan "LKM inkubasi" adalah LKM baik yang didirikan dalam rangka menyelenggarakan program Pemerintah maupun yang didirikan oleh masyarakat yang tidak menghimpun dana dan belum mampu memenuhi ketentuan sebagaimana dimaksud dalam undang­ undang mengenai lembaga keuangan mikro. Ayat (6) Cukup jelas. Ayat (7) LKM inkubasi dalam ketentuan ini diarahkan untuk dapat bertransformasi menjadi di antaranya LKM, BPR, atau Usaha Jasa Pembiayaan, baik yang menjalan usaha secara konvensional maupun berdasarkan Prinsip Syariah. Ayat (8) Ketentuan yang akan diatur dalam Peraturan Pemerintah di antaranya mencakup syarat, tata cara, dan jangka waktu pendaftaran LKM inkubasi; penyelenggaraan kegiatan usaha LKM inkubasi; dan upaya Pemerintah Daerah provinsi dan Pemerintah Daerah kabupaten/kota untuk mendorong LKM inkubasi mampu menjadi lembaga yang memiliki izin usaha sesuai dengan ketentuan peraturan perundang-undangan.
+
+Pasal 11
+Ayat (1) Huruf a Cukup jelas. Huruf b ...
 
 ```
 Angka 5

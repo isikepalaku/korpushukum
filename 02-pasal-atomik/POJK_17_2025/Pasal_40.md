@@ -116,7 +116,10 @@ Huruf j
 Cukup jelas.
 Huruf k
 
-Lihat penjelasan Pasal 38 huruf j.
+Lihat penjelasan
+
+Pasal 38
+huruf j.
 Huruf l
 
 Cukup jelas.

@@ -19,6 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 ```
+
+**Pasal 10…**
+
+```
 Bursa Efek dilarang membuat ketentuan yang
 menghambat anggotanya menjadi Anggota Bursa Efek
 lain atau menghambat adanya persaingan yang

@@ -29,6 +29,17 @@ mengamandemen:
 
 - 28d. Di antara Pasal 57 dan Pasal 58 disisipkan 1 (satu) pasal, yakni Pasal 57A sehingga berbunyi sebagai berikut:
 
+Pasal 57A
+
+- (l) Dalam rangka mendukung pelaksanaan tugasnya, Bank Indonesia melaksanakan program edukasi serta pemberdayaan masyarakat dan lingkungan yang dilakukan secara inklusif'
+
+(2) Ketentuan . . .
+
+**TItrFIEEiN tN**
+
+- (21 Ketentuan mengenai program edukasi serta pemberdayaan masyarakat dan lingkungan yang dilakukan secara inklusif sebagaimana dimaksud pada ayat (1) dan tata kelolanya diatur dengan Peraturan Bank Indonesia.
+50. Ketentuan Pasal 60 pada angka 32 dalam Pasal 9 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

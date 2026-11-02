@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Tata cara penatausahaan, pertanggungjawaban, dan publikasi informasi sebagaimana dimaksud dalam Pasal 16 dan Pasal 17 ditetapkan dalam Peraturan Pemerintah.
+Tata cara penatausahaan, pertanggungjawaban, dan publikasi informasi sebagaimana dimaksud dalam
+
+Pasal 16
+dan Pasal 17 ditetapkan dalam Peraturan Pemerintah.
 
 ```
 

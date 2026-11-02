@@ -29,7 +29,14 @@ tersebut dalam jangka waktu paling lama 14 (empat belas)
 **diserahkan kepada panitera pengadilan.**
 **(3) Dalam jangka waktu paling lama 14 (empat belas) Hari**
 
-**setelah jangka waktu sebagaimana dimaksud pada ayat (l), panitera pengadilan segera permohonan kasasi secara lengkap kepada Mahkamah Agung.**
+**setelah jangka waktu sebagaimana dimaksud pada ayat (l), panitera pengadilan segera permohonan kasasi secara lengkap kepada Mahkamah Agung.**Pasal 305...
+
+-----
+
+FRESIDEN
+REFUBLIK INDONESIA
+
+**- 156-**
 
 ## Penjelasan Resmi
 

@@ -52,6 +52,8 @@ Penduduk
 yang
 bersangkutan.
 
+Pasal 16 . . .
+
 ## Penjelasan Resmi
 
 Cukup jelas.

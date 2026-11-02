@@ -18,11 +18,7 @@ mengamandemen: []
 ## Batang Tubuh
 
 Hak Tanggungan tetap mengikuti obyeknya dalam tangan siapa pun obyek tersebut berada.
-BAB III PEMBERI DAN PEMEGANG HAK TANGGUNGAN Pasal 8
-(1) Pemberi Hak Tanggungan adalah orang perseorangan atau badan hukum yang mempunyai kewenangan untuk melakukan perbuatan hukum terhadap obyek Hak Tanggungan yang bersangkutan.
-(2) Kewenangan untuk melakukan perbuatan hukum terhadap obyek Hak Tanggungan sebagaimana dimaksud pada ayat
-(1) harus ada pada pemberi Hak Tanggungan pada saat pendaftaran Hak
-Tanggungan dilakukan.
+BAB III PEMBERI DAN PEMEGANG HAK TANGGUNGAN
 
 ## Penjelasan Resmi
 

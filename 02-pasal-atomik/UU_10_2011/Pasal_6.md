@@ -20,7 +20,9 @@ mengamandemen:
 ## Batang Tubuh
 
 Untuk melaksanakan ketentuan sebagaimana dimaksud
-dalam Pasal 4 dan Pasal 5, Bappebti berwenang:
+dalam Pasal 4 dan
+
+Pasal 5, Bappebti berwenang:
 
 a. membuat pedoman teknis mengenai mekanisme
 Perdagangan Berjangka;
@@ -629,3 +631,5 @@ Perdagangan Berjangka; dan
 4) mencegah pengaruh negatif kegiatan Perdagangan
 Berjangka bagi perekonomian nasional dan
 masyarakat.
+
+Angka 7

@@ -8,9 +8,8 @@ substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
-status_berlaku: diubah
-diamandemen_oleh:
-- '[[02-pasal-atomik/UU_1_2025/Pasal_24|UU 1/2025 Pasal 24]]'
+status_berlaku: berlaku
+diamandemen_oleh: []
 mengamandemen:
 - '[[02-pasal-atomik/UU_21_2008/Pasal_24|UU 21/2008 Pasal 24]]'
 - '[[02-pasal-atomik/UU_22_2001/Pasal_24|UU 22/2001 Pasal 24]]'

@@ -37,9 +37,9 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2), dan belum memenuhi ketentuan sebagaimana
 
-dimaksud dalam Pasal 143 ayat (6) dan/atau Pasal
+dimaksud dalam Pasal 143 ayat (6) dan/atau
 
-144, Bank BHI dan/atau bank umum yang
+Pasal 144, Bank BHI dan/atau bank umum yang
 
 melaksanakan kegiatan usaha berdasarkan prinsip
 
@@ -61,7 +61,9 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2) dan melanggar ketentuan sebagaimana dimaksud
 
-dalam Pasal 143 ayat (6), Pasal 144, ayat (2), dan/atau
+dalam Pasal 143 ayat (6),
+
+Pasal 144, ayat (2), dan/atau
 
 ayat (3), PSP, Direksi, Dewan Komisaris, dan/atau
 

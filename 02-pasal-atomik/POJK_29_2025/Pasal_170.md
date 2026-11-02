@@ -37,8 +37,29 @@ pada tanggal laporan.
 terdapat Pelampauan BMPP.
 
 28. Di antara Pasal 172 dan Pasal 173 disisipkan 1 (satu)
-pasal, yakni Pasal 172A sehingga berbunyi sebagai
+pasal, yakni
+
+Pasal 172A sehingga berbunyi sebagai
 berikut:
+
+Pasal 172A
+(1) Perusahaan Pergadaian Syariah hasil Pemisahan
+dengan cara pendirian Perusahaan Pergadaian
+Syariah baru wajib melakukan penyelesaian
+pelampauan BMPP sebagaimana dimaksud dalam
+
+Pasal 42A ayat (1) dalam jangka waktu paling lama
+3 (tiga) tahun setelah pemisahan dilakukan.
+(2) Dalam hal jangka waktu sebagaimana dimaksud
+pada ayat (1) dinilai tidak mungkin dicapai,
+Perusahaan atas dasar persetujuan Otoritas Jasa
+Keuangan dapat menetapkan jangka waktu yang
+berbeda dengan target waktu penyelesaian
+rencana tindak sebagaimana dimaksud pada ayat
+(1).
+
+29. Ketentuan ayat (1) dan ayat (2) Pasal 174 diubah
+sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -70,3 +91,11 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
+
+Angka 28
+
+Pasal 172A
+
+Cukup jelas.
+
+Angka 29

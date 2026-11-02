@@ -29,7 +29,9 @@ Rapat Anggota untuk mendapat persetujuan.
 (3) Pengelola bertanggung jawab kepada Pengurus.
 
 (4) Pengelolaan usaha oleh Pengelola tidak mengurangi tanggung
-jawab Pengurus sebagaimana ditentukan dalam Pasal 31.
+jawab Pengurus sebagaimana ditentukan dalam
+
+Pasal 31.
 
 ## Penjelasan Resmi
 

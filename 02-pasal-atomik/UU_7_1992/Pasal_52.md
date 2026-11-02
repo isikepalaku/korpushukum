@@ -20,7 +20,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dengan tidak mengurangi ketentuan pidana sebagaimana dimaksud
-dalam Pasal 47, Pasal 48, dan Pasal 49, Bank Indonesia dapat
+dalam Pasal 47,
+
+Pasal 48, dan Pasal 49, Bank Indonesia dapat
 menetapkan sanksi administratif kepada bank yang tidak memenuhi
 kewajibannya sebagaimana ditentukan dalam Undang-undang ini atau
 menyampaikan pertimbangan kepada Menteri untuk mencabut izin

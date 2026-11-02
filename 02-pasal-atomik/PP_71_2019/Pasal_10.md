@@ -4,7 +4,7 @@ uu_induk: Penyelenggaraan Sistem dan Transaksi Elektronik
 kode_uu: PP_71_2019
 pasal: '10'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/siber
 - uu/pp_71_2019
@@ -25,4 +25,14 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+Yang dimaksud dengan "tenaga ahli" adalah tenaga yang memiliki pengetahuan dan keterampilan khusus dalam bidang Sistem Elektronik yang dapat dipertanggunglawabkan secara akademis maupun praktis.
+
+Ayat(2)...
+
+SK No011744 A
+
+PRESIDEN REPUELIK TNDONESIA,
+
+Ayat (2) Cukupjelas.

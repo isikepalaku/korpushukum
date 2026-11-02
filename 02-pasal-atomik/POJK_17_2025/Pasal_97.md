@@ -19,7 +19,10 @@ mengamandemen: []
 
 Pemindahan hak atas Efek bersifat ekuitas berupa saham
 sebagai akibat pelaksanaan perdagangan sebagaimana
-dimaksud dalam Pasal 96 ayat (2) dapat dilakukan tanpa
+dimaksud dalam
+
+Pasal 96
+ayat (2) dapat dilakukan tanpa
 akta pemindahan hak.
 
 Bagian Kesembilan

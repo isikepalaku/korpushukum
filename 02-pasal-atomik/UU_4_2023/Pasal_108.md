@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '108'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -30,3 +30,5 @@ Kepemilikan
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 50

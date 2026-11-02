@@ -4,7 +4,7 @@ uu_induk: Pelaksanaan UU Administrasi Kependudukan
 kode_uu: PP_40_2019
 pasal: '39'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/pp_40_2019
@@ -37,6 +37,16 @@ mengisi dan menandatangani surat perkawinan
 penghayat kepercayaan terhadap Tuhan yang
 Maha Esa.
 
+Pasal 40 .
+
+PRES I DEN
+REPUBLIK INDONESIA
+
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Pasal 40...
+
+PRES I DEN
+REPUBLIK INDONESIA

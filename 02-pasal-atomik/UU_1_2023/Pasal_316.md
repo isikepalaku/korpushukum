@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '316'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,4 +23,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dalam keadaan mabuk seseorang tidak dapat sepenuhnya dapat menguasai atau mengontrol dirinya. Oleh karena itu, dalam keadaan yang sedemikian seseorang dilarang melakukan perbuatan sebagaimeina dimaksud dalam pasal ini.

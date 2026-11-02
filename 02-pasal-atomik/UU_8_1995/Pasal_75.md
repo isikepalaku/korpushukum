@@ -18,6 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+```
+
+**Pasal 75…**
+
 **(1) Bapepam wajib memperhatikan kelengkapan, kecukupan,**
 
  objektivitas, kemudahan untuk dimengerti, dan kejelasan dokumen

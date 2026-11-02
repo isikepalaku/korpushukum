@@ -26,7 +26,9 @@ Dihapus.
 Angka 58 Cukup jelas.
 
 ```
-Angka 59 Pasal 26A Ayat (l) Dewan Komisaris terdiri atas komisaris utama dan/ atau komisaris lainnya sesuai dengan kebutuhan. Ayat (2) Cukup jelas. Angka 60 Pasal 27A Ayat (l) Huruf a Cukup jelas. Huruf b Cukup jelas.
+Angka 59
+
+Pasal 26A Ayat (l) Dewan Komisaris terdiri atas komisaris utama dan/ atau komisaris lainnya sesuai dengan kebutuhan. Ayat (2) Cukup jelas. Angka 60 Pasal 27A Ayat (l) Huruf a Cukup jelas. Huruf b Cukup jelas.
 ```
 
 ```
@@ -80,3 +82,49 @@ Huruf c. . .
 Huruf c
 
 Cukup jelas.
+
+Pasal 27B
+
+Cukup jelas.
+
+Pasal 2TC
+
+Ayat (1)
+
+Yang dimaksud dengan "kontrak manajemen" adalah statement of mrporate intent (SCI) antara lain memuat janji atau pernyataan Dewan Komisaris untuk segala target yang disepakati antara pemegang saham, Dewan Komisaris, dan Direksi Persero. Kontrak manajemen tersebut dapat diperbaharui setiap tahun untuk disesuaikan dengan kondisi dan perkembangan perusahaan.
+
+Ayat (2)
+
+Cukup jelas.
+
+Pasal 27D
+
+Cukup jelas.
+
+Pasal 27E.
+
+Cukup jelas.
+
+Pasal 27F
+
+Cukup jelas.
+
+Pasal 27G
+
+Ayat (l)
+
+Cukup jelas.
+
+Ayat (2)
+
+Ketentuan ini memberi wewenErng kepada Dewan Komisaris untuk melakukan pengurusan Persero yang sebenarnya hanya dapat dilakukan oleh Direksi Persero dalam hal Direksi Persero tidak ada. Apabila ada Direksi Persero, Dewan Komisaris hanya dapat melakukan tindakan tertentu yang ditentukan oleh RUPS dalam anggaran dasar dan peraturan perundang-undangan.
+
+Ayat(3)...
+
+PRESIOEN UBLIK INDONESIA
+
+Ayat (s)
+
+Pasal Pasal Cukup jelas. 27H Cukup jelas. 271 Cukup jelas.
+
+Angka 61

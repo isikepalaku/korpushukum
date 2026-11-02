@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Syarat calon anggota Dewan Komisioner sebagaimana
-dimaksud dalam Pasal 10 ayat (4) huruf a sampai dengan
+dimaksud dalam
+
+Pasal 10
+ayat (4) huruf a sampai dengan
 huruf g adalah sebagai berikut:
 
 a. warga negara Indonesia;

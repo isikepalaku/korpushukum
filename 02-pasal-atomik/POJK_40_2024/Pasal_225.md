@@ -26,9 +26,31 @@ Otoritas Jasa Keuangan sebagaimana dimaksud pada
 ayat (1) pada saat Peraturan Otoritas Jasa Keuangan ini
 diundangkan, ketentuan mengenai:
 a. persetujuan tertulis dari Otoritas Jasa Keuangan
-sebagaimana dimaksud dalam Pasal 81 ayat (1);
+sebagaimana dimaksud dalam
+
+Pasal 81
+ayat (1);
 b. kepemilikan fungsi komite etik dalam struktur
 organisasi Asosiasi sebagaimana dimaksud dalam
+
+Pasal 84
+ayat (4); dan
+c. pengurus Asosiasi merupakan anggota Direksi
+dan/atau anggota Dewan Komisaris sebagaimana
+dimaksud dalam
+
+Pasal 86
+ayat (1),
+mulai berlaku 1 (satu) tahun sejak Peraturan Otoritas
+Jasa Keuangan ini diundangkan.
+(3) Bagi Asosiasi yang telah ditunjuk secara resmi oleh
+Otoritas Jasa Keuangan, ketentuan mengenai
+penyampaian laporan tahunan Asosiasi sebagaimana
+dimaksud dalam
+
+Pasal 85
+mulai berlaku atas laporan
+tahunan Asosiasi tahun 2027.
 
 ## Penjelasan Resmi
 

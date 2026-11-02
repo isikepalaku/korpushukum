@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan terkait Modal Disetor sebagaimana dimaksud
-dalam Pasal 7 ayat (1) tidak berlaku bagi Penyelenggara yang
+dalam
+
+Pasal 7
+ayat (1) tidak berlaku bagi Penyelenggara yang
 telah memperoleh izin sebelum Peraturan Otoritas Jasa
 Keuangan ini diundangkan.
 

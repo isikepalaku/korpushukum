@@ -25,7 +25,10 @@ register
 akta 
 Pencatatan 
 Sipil 
-sebagaimana dimaksud dalam Pasal 90 karena rusak 
+sebagaimana dimaksud dalam
+
+Pasal 90
+karena rusak 
 atau hilang. 
 (2) 
 Penerbitan 

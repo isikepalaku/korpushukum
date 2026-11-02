@@ -22,7 +22,10 @@ memberikan pendapatan berdasarkan komisi
 
 -----
 
-sebagaimana dimaksud dalam Pasal 136 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 136
+ayat (2) huruf
 d wajib melaporkan kepada Otoritas Jasa Keuangan.
 (2) Pelaporan kegiatan yang memberikan pendapatan
 berdasarkan komisi sebagaimana dimaksud pada ayat

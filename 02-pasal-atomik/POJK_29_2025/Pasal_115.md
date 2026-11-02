@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 39-2024 tentang Pergadaian
 kode_uu: POJK_29_2025
 pasal: '115'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_29_2025
@@ -47,10 +47,11 @@ biaya Likuidasi yang menjadi beban Perusahaan
 dalam Likuidasi.
 (6) Dihapus.
 
-19. Ketentuan ayat (8) Pasal 116 dihapus sehingga Pasal
-116 berbunyi sebagai berikut:
+19. Ketentuan ayat (8) Pasal 116 dihapus sehingga Pasal 116 berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
 ayat (6)
 Dihapus.
+
+Angka 19

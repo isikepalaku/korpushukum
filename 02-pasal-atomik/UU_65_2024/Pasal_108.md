@@ -24,8 +24,7 @@ mengamandemen: []
 - (21 Syarat dan tata cara pengajuan hak atas Paten *ibag*i objek jaminan fidusia dilaksanakan sesuii dengan ketentuan peraturan perundangundangan di bidang jaminan fidusia.
 - 40 Ketentuan ayat (U huruf b dan ayat (21 Pasal 109 diubah, dan ditambahkan 2 (dua) ayat, yakni ayat (5) dan ayat (6) sehingga Pasal 1O9 berbunyi sebagai berikut:
 
-Pasal 1O9
-
+Pasal 109
 - (U Pemerintah dapat melaksanakan sendiri Paten di Indonesia berdasarkan pertimbangan:
 - a. berkaitan dengan pertahanan dan keamanan negara; atau
 - b. kebutuhan mendesak untuk kepentingan masyarakat.

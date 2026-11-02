@@ -19,7 +19,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan sebagaimana dimaksud dalam Pasal 8 dan Pasal 11 berlaku
+Ketentuan sebagaimana dimaksud dalam Pasal 8 dan
+
+Pasal 11
+berlaku
 juga bagi Bank Perkreditan Rakyat.
 
 BAB IV

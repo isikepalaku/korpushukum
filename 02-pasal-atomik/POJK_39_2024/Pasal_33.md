@@ -19,7 +19,10 @@ mengamandemen: []
 
 Kewajiban melakukan Pemisahan UUS atas perintah
 Otoritas Jasa Keuangan dalam rangka konsolidasi
-sebagaimana dimaksud dalam Pasal 28 ayat (2) huruf b
+sebagaimana dimaksud dalam
+
+Pasal 28
+ayat (2) huruf b
 dilakukan untuk pengembangan dan penguatan industri
 pergadaian.
 

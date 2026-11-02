@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Anggota Dewan Gubernur dan atau pejabat Bank Indonesia yang melanggar ketentuan Pasal 9 ayat (2), diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 5 (lima) tahun, serta denda sekurang-kurangnya Rp 2.000.000.000,00 (dua miliar rupiah) dan paling banyak Rp 5.000.000.000,- (lima miliar rupiah).
+Anggota Dewan Gubernur dan atau pejabat Bank Indonesia yang melanggar ketentuan
+
+Pasal 9
+ayat (2), diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 5 (lima) tahun, serta denda sekurang-kurangnya Rp 2.000.000.000,00 (dua miliar rupiah) dan paling banyak Rp 5.000.000.000,- (lima miliar rupiah).
 
 ## Penjelasan Resmi
 

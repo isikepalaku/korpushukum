@@ -49,13 +49,15 @@ mengamandemen: []
 
 Cukup jelas.
 
-Pasal 2O0
-
+Pasal 200
 Ayat (1)
 
 Tenaga pendukung atau penunjang kesehatan, antara lain, berupa, tenaga biologi, tenaga administratif, pramusaji, tenaga keuangan, petugas pemulasaran jenazah, dan petugas ambulans.
 
-Ayat (2) Cukup jelas. Pasal 201 Cukup jelas. Pasal 2O2 Cukup jelas. Pasal 203 Ayat (1) Cukup jelas. Ayat(2) Pihak terkait, antara lain, berupa asosiasi Fasilitas Pelayanan Kesehatan dan asosiasi institusi pendidikan Kesehatan serta pihak lainnya sesuai dengan kebutuhan. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Pasal 204 Cukup jelas. Pasal 2O5 Cukup jelas. Pasal 206 Cukup jelas. Pasal 2O7 Cukup jelas. Pasal 208 Cukup jelas. Pasal 209
+Ayat (2) Cukup jelas.
+
+Pasal 201
+Cukup jelas. Pasal 2O2 Cukup jelas. Pasal 203 Ayat (1) Cukup jelas. Ayat(2) Pihak terkait, antara lain, berupa asosiasi Fasilitas Pelayanan Kesehatan dan asosiasi institusi pendidikan Kesehatan serta pihak lainnya sesuai dengan kebutuhan. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Pasal 204 Cukup jelas. Pasal 2O5 Cukup jelas. Pasal 206 Cukup jelas. Pasal 2O7 Cukup jelas. Pasal 208 Cukup jelas. Pasal 209
 
 Cukup jelas.
 

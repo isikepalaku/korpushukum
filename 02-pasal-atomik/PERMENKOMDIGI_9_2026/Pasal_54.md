@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengendalian sebagaimana dimaksud dalam Pasal 31 ayat (2) huruf d dilakukan melalui: 
+Pengendalian sebagaimana dimaksud dalam
+
+Pasal 31
+ayat (2) huruf d dilakukan melalui: 
 
 - a. pengenaan sanksi administratif atas pelanggaran kewajiban pelindungan Anak dalam Penyelenggaraan Sistem Elektronik yang dilakukan oleh Penyelenggara Sistem Elektronik; 
 

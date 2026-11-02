@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang memiliki kegiatan usaha
-sebagaimana dimaksud pada Pasal 136 ayat (1) dan
+sebagaimana dimaksud pada
+
+Pasal 136
+ayat (1) dan
 ayat (2) wajib melakukan mitigasi risiko pemberian
 Pinjaman.
 

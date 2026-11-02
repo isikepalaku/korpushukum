@@ -27,6 +27,5 @@ mengamandemen: []
 
 Cukup jelas
 
-Pasal 3O6
-
+Pasal 306
 Cukup jelas

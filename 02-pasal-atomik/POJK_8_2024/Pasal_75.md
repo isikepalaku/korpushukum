@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penghentian Produk Asuransi sebagaimana dimaksud
-dalam Pasal 73 dan Pasal 74 dilarang mengurangi hak
+dalam Pasal 73 dan
+
+Pasal 74
+dilarang mengurangi hak
 Pemegang Polis, Tertanggung, atau Peserta.
 
 ## Penjelasan Resmi

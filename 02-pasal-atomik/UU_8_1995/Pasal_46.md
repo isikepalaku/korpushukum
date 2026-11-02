@@ -22,6 +22,8 @@ Kustodian wajib memberikan ganti rugi kepada
 pemegang rekening atas setiap kerugian yang
 timbul akibat kesalahannya.
 
+Pasal 47…
+
 ## Penjelasan Resmi
 
 Cukup jelas.

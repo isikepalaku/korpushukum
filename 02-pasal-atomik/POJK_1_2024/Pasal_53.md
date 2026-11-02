@@ -585,7 +585,10 @@ paling sedikit harus:
 1) melaksanakan keahlian secara profesional, jujur, objektif,
 cermat, dan seksama; dan
 2) memiliki komitmen untuk tidak melaksanakan perbuatan
-sebagaimana dimaksud dalam Pasal 49 ayat (4) UndangUndang Perbankan.
+sebagaimana dimaksud dalam
+
+Pasal 49
+ayat (4) UndangUndang Perbankan.
 2. Organisasi dan Manajemen Perkreditan
 
 a. Kebijakan mengenai Perangkat Perkreditan

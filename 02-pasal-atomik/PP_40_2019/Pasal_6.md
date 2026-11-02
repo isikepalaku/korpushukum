@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 3 ayat (2) huruf c, Menteri
+dimaksud dalam
+
+Pasal 3
+ayat (2) huruf c, Menteri
 melakukan:
 a. fasilitasi penyelenggaraan urusan Administrasi
 Kependudukan;

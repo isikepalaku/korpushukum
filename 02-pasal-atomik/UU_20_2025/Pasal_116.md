@@ -18,12 +18,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 
-Cukup [jelas.] Pasal 117
- Ayat (1)
+Cukup [jelas.]
+
+Pasal 117
+Ayat (1)
  Cukup [jelas.] Ayat (2)
 
 Penggeledahan badan dalam ketentuan ini meliputi pemeriksaan

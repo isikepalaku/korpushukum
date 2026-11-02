@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penilaian terhadap faktor likuiditas sebagaimana
-dimaksud dalam Pasal 196 ayat (2) huruf d meliputi
+dimaksud dalam
+
+Pasal 196
+ayat (2) huruf d meliputi
 penilaian terhadap komponen sebagai berikut:
 a. kemampuan memenuhi kewajiban jangka pendek,
 jangka panjang, dan potensi terjadinya

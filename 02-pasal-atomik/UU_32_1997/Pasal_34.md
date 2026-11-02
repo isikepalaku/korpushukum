@@ -10,7 +10,6 @@ tags:
 - uu/uu_32_1997
 status_berlaku: diubah
 diamandemen_oleh:
-- '[[02-pasal-atomik/UU_10_2011/Pasal_34|UU 10/2011 Pasal 34]]'
 - '[[02-pasal-atomik/UU_4_2023/Pasal_34|UU 4/2023 Pasal 34]]'
 mengamandemen: []
 ---
@@ -19,23 +18,25 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BAB V…
+(1) Kegiatan usaha sebagai Penasehat Berjangka hanya dapat dilakukan
 
-```
+ oleh Pihak yang telah memperoleh izin usaha Penasehat Berjangka
 
------
+ dari Bappebti.
 
-```
- - 23
-**BAB V**
+ (2) Izin usaha sebagaimana dimaksud pada ayat (1), hanya diberikan
 
- SENTRA DANA BERJANGKA
+ kepada Pihak yang memiliki kecakapan profesi yang tinggi, reputasi
 
- DAN PENGELOLA SENTRA DANA BERJANGKA
+ bisnis yang baik, dan integritas keuangan.
 
- Bagian Kesatu
+ (3) Pelaksanaan kegiatan sebagaimana dimaksud pada ayat (1), untuk
 
- Sentra Dana Berjangka
+ Penasehat Berjangka yang berbentuk badan usaha, dilakukan oleh
+
+ orang perseorangan sebagai Wakil Penasehat Berjangka yang wajib
+
+ memperoleh izin dari Bappebti.
 
 ## Penjelasan Resmi
 

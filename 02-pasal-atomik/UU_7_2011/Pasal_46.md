@@ -18,8 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pada saat Undang-Undang ini mulai berlaku, Pasal 2, Pasal
-19, Pasal 20, Pasal 21, Pasal 22, dan Pasal 23 Undang-Undang
+Pada saat Undang-Undang ini mulai berlaku,
+
+Pasal 2, Pasal 19, Pasal 20, Pasal 21, Pasal 22, dan Pasal 23 Undang-Undang
 Nomor 23 Tahun 1999 tentang Bank Indonesia (Lembaran
 Negara Republik Indonesia Tahun 1999 Nomor 66, Tambahan
 Lembaran Negara Republik Indonesia Nomor 3843)

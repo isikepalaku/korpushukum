@@ -25,6 +25,8 @@ mengamandemen: []
 - d. hasil pengembangan dari himpunan iuran Peserta dan/ atau iuran Pemberi Kerja sebagaimana dimaksud dalam huruf a, dana awal Pemberi Kerja sebagaimana dimaksud dalam huruf b, dan pengalihan dana dari Dana Pensiun lain sebagaimana dimaksud dalam huruf c terhitung sejak tanggal kepesertaan pada Dana Pensiun.
 - (3) Ketentuan lebih lanjut mengenai besaran hak atas Manfaat Pensiun bagi Peserta Program Pensiun Manfaat Pasti sebagaimana dimaksud pada ayat (1) dan Manfaat Pensiun bagi Peserta Program Pensiun Iuran Pasti sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
+Pasal 158 ...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

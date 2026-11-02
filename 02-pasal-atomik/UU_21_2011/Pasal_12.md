@@ -25,7 +25,10 @@ setiap anggota Dewan Komisioner yang dibutuhkan
 kepada Dewan Perwakilan Rakyat, paling lama 12 (dua
 belas) hari kerja terhitung sejak tanggal diterimanya
 nama calon anggota Dewan Komisioner dari Panitia
-Seleksi sebagaimana dimaksud dalam Pasal 11 ayat (9).
+Seleksi sebagaimana dimaksud dalam
+
+Pasal 11
+ayat (9).
 
 (2) Dari calon anggota Dewan Komisioner sebagaimana
 

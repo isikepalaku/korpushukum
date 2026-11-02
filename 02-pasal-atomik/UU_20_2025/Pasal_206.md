@@ -53,9 +53,7 @@ berwenang di tempat itu.
 **(9) Hakim ketua sidang karena jabatannya walaupun**
  tidak ada perlawanan, setelah mendengar pendapat Penuntut Umum dan Terdakwa dengan surat
 penetapan yang memuat alasannya dapat menyatalan
-**pengadilan tidak berwenang.**
-
-Pasal 2O7
+**pengadilan tidak berwenang.**Pasal 2O7
 **(1) Hakim wajib mengundurkan diri untuk Mengadili**
  perkara apabila terikat hubungan keluarga sedarah atau semenda sampai derajat ketiga, hubungan suami atau istri meskipun sudah bercerai dengan Hakim ketua sidang, salah seorang Hakim anggota, Penuntut Umum, atau panitera. (2) Hakim ketua sidang, Hakim anggota, Penuntut Umum,
 **atau panitera wajib mengundurkan diri dari**
@@ -77,8 +75,6 @@ REPUEUK INDONESIA
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal 2O7
+**Cukup [jelas.]**Pasal 2O7
 
 **Cukup [jelas.]**

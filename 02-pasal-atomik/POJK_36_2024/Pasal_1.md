@@ -5,7 +5,7 @@ uu_induk: Perubahan atas POJK 69-POJK.05-2016 (Penyelenggaraan Usaha Perusahaan 
 kode_uu: POJK_36_2024
 pasal: '1'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_36_2024
@@ -336,9 +336,62 @@ dan penyidikan sebagaimana dimaksud dalam
 Undang-Undang mengenai OJK.
 
 2. Di antara Pasal 3 dan Pasal 4 disisipkan 2 (dua) pasal,
-yakni Pasal 3A dan Pasal 3B sehingga berbunyi sebagai
+yakni Pasal 3A dan
+
+Pasal 3B sehingga berbunyi sebagai
+berikut:
+
+Pasal 3A
+(1) Ruang lingkup usaha bagi Perusahaan
+sebagaimana diatur dalam Pasal 2 dan
+
+Pasal 3
+harus diselenggarakan sesuai dengan jenis lini
+usaha asuransi yang sesuai dengan bidang usaha
+dan prinsip penyelenggaraan usaha asuransi
+umum atau asuransi jiwa.
+(2) Ketentuan mengenai lini usaha asuransi
+sebagaimana dimaksud pada ayat (1) ditetapkan
+oleh OJK.
+
+Pasal 3B
+(1) Perusahaan Asuransi, Perusahaan Asuransi
+Syariah, dan Unit Syariah pada Perusahaan
+Asuransi yang menyelenggarakan lini usaha
+asuransi kesehatan wajib memenuhi kriteria
+tertentu.
+(2) Penyelenggaraan lini usaha asuransi kesehatan
+sebagaimana dimaksud pada ayat (1) wajib
+dilaksanakan dengan menerapkan prinsip kehatihatian dan manajemen risiko yang memadai.
+(3) Ketentuan mengenai kriteria tertentu sebagaimana
+dimaksud pada ayat (1), penerapan prinsip kehatihatian, dan manajemen risiko yang memadai
+sebagaimana dimaksud pada ayat (2) ditetapkan
+oleh OJK.
+
+3. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 2
+
+Pasal 3A
+
+Ayat (1)
+
+Lini usaha asuransi mencakup:
+a. lini Usaha Asuransi Umum;
+b. lini Usaha Asuransi Jiwa;
+c. lini Usaha Asuransi Umum Syariah; dan
+d. lini Usaha Asuransi Jiwa Syariah.
+Ayat (2)
+
+Cukup jelas.
+
+Pasal 3B
+
+Cukup jelas.
+
+Angka 3

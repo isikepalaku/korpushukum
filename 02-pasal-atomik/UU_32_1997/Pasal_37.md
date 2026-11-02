@@ -26,6 +26,15 @@ Sentra Dana Berjangka dilarang:
 
  Sertifikat Penyertaan dari Sentra Dana Berjangka lain.
 
+Pasal 38…
+
+```
+
+-----
+
+```
+ - 24
+
 ## Penjelasan Resmi
 
 Cukup jelas.

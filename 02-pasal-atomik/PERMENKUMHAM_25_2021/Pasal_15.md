@@ -24,7 +24,10 @@ data dalam permohonan Pendaftaran Jaminan Fidusia
 
 mengenai jumlah nilai penjaminan sebagaimana
 
-dimaksud dalam Pasal 10 ayat (3) huruf e dalam kategori
+dimaksud dalam
+
+Pasal 10
+ayat (3) huruf e dalam kategori
 
 nilai penjaminan yang berbeda, Pemohon mengajukan
 
@@ -38,7 +41,10 @@ sebagaimana dimaksud pada ayat (1) juga dapat
 
 dilakukan dalam hal terjadi perubahan data
 
-sebagaimana dimaksud dalam Pasal 10 ayat (3) huruf a,
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (3) huruf a,
 
 huruf b, huruf c, huruf d, dan huruf f.
 

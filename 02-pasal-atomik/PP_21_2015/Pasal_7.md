@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Jaminan Fidusia lahir pada tanggal yang sama dengan
 
 tanggal Jaminan Fidusia dicatat sebagaimana dimaksud
-dalam Pasal 6 ayat (2).
+dalam
+
+Pasal 6
+ayat (2).
 
 (2) Sertifikat Jaminan Fidusia ditandatangani secara
 elektronik oleh Pejabat pada Kantor Pendaftaran Fidusia.

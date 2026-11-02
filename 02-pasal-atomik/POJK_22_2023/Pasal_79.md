@@ -23,7 +23,10 @@ mengamandemen: []
 
 Ayat (1)
 
-Lihat penjelasan Pasal 15 ayat (1).
+Lihat penjelasan
+
+Pasal 15
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

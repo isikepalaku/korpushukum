@@ -20,8 +20,10 @@ mengamandemen: []
 
 (1) 
 Pencatatan kelahiran WNI di wilayah Negara Kesatuan 
-Republik Indonesia sebagaimana dimaksud dalam Pasal 
-42 huruf a, harus memenuhi persyaratan: 
+Republik Indonesia sebagaimana dimaksud dalam
+
+Pasal 42
+huruf a, harus memenuhi persyaratan: 
 a. surat keterangan kelahiran; 
 b. buku nikah/kutipan akta perkawinan atau bukti 
 lain yang sah; 

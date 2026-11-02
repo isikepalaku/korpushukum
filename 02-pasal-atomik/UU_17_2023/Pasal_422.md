@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam rangka pengawasan sebagaimana dimaksud dalam Pasal 421, Pemerintah Pusat atau Pemerintah Daerah dapat dibantu tenaga pengawas dan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+Dalam rangka pengawasan sebagaimana dimaksud dalam
+
+Pasal 421, Pemerintah Pusat atau Pemerintah Daerah dapat dibantu tenaga pengawas dan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
 ## Penjelasan Resmi
 

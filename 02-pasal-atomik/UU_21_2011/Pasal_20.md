@@ -18,7 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Tugas pengaturan sebagaimana dimaksud dalam Pasal 6
+Tugas pengaturan sebagaimana dimaksud dalam
+
+Pasal 6
 dilaksanakan oleh Dewan Komisioner.
 
 ## Penjelasan Resmi

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '539'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,4 +23,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+Yang dimaksud dengan "Pejabat yang berwenang yang melangsungkan perkaurinan seseorang" adalah Pejabat sesuai dengan ketentuan dalam Undang-Undang mengenai perkawinan beserta peraturan pelaksanaannya.
+
+Ayat(21
+
+Yang dimaksud "halangan yang sah" adalah sesuai dengan syarat-syarat perkawinan yang ditentukan dalam peraturan perundang-undangan yang mengatur mengenai perkawinan.

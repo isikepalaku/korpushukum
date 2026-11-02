@@ -19,7 +19,35 @@ mengamandemen: []
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 43 ayat (1), Pasal 44, dan/atau
+dimaksud dalam Pasal 43 ayat (1),
+
+Pasal 44, dan/atau
+
+Pasal 45
+ayat (1), dikenai sanksi administratif berupa
+
+teguran tertulis.
+
+(2) Dalam hal Bank telah dikenai sanksi administratif
+
+sebagaimana dimaksud pada ayat (1) dan belum
+
+memenuhi ketentuan sebagaimana dimaksud dalam
+
+Pasal 43
+ayat (1),
+
+Pasal 44, dan/atau Pasal 45 ayat (1),
+
+Bank dikenai sanksi administratif berupa:
+
+a. larangan untuk menerbitkan produk Bank baru;
+
+b. pembekuan kegiatan usaha tertentu; dan/atau
+
+c. penurunan penilaian faktor tata kelola dalam
+
+penilaian tingkat kesehatan Bank.
 
 ## Penjelasan Resmi
 

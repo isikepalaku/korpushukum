@@ -17,22 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(l ) Komisi Pengawas Persaingan Usaha melakukan
-
-**pengawasan pelaksanaan kemitraan sebagaimana dimaksud dalam Pasal 104 ayat (1) dan ayat (2) sesuai**
-dengan ketentuan peraturan perundang-undangan.
-**(21 Dalam melakukan pengawasan sebagaimana**
- dimaksud pada ayat (1), Komisi Pengawas Persaingan
-Usaha berkoordinasi dengan instansi terkait.
-**(3) Ketentuan mengenai tata cara pengawasan**
-
-**sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Komisi Pengawas Persaingan Usaha.**
-**(4) Pelaksanaan pengawasan clan evaluasi terhadap**
-
-**kemitraan dapat dilaksanakan bersama antara kementerian/lembaga pemerintah nonkementerian terkait dengan Komisi Pengawa-s Persaingan Usaha.**
-
- Bagian Keenam
- Tata Cara Pengenaan Sanksi Administratif
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

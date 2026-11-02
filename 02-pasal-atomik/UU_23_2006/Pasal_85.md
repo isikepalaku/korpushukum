@@ -18,11 +18,37 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Data Pribadi Penduduk sebagaimana dimaksud dalam
+Pasal 84
+wajib disimpan dan dilindungi oleh negara.
+(2) Ketentuan
+lebih
+lanjut
+mengenai
+penyimpanan
+dan
+perlindungan
+terhadap
+Data
+Pribadi
+Penduduk
+sebagaimana dimaksud pada ayat (1) diatur dalam
+Peraturan Pemerintah.
+(3) Data Pribadi Penduduk sebagaimana dimaksud pada ayat
+(1)
+harus
+dijaga
+kebenarannya
+dan
+dilindungi
+kerahasiaannya oleh Penyelenggara dan Instansi Pelaksana
+sesuai dengan ketentuan Peraturan Perundang-undangan.
 
 ## Penjelasan Resmi
 
 Ayat (1)
-Lihat Penjelasan Pasal 84.
+Lihat Penjelasan
+
+Pasal 84.
 Ayat (2)
  
 Penyimpanan dan perlindungan dimaksud meliputi tata cara

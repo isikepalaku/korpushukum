@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan wajib menetapkan kualitas piutang
-Pinjaman sebagaimana dimaksud dalam Pasal 175 ayat
+Pinjaman sebagaimana dimaksud dalam
+
+Pasal 175
+ayat
 (1) yang sama terhadap 1 (satu) Nasabah dengan lebih
 dari 1 (satu) Pinjaman.
 (2) Dalam menetapkan kualitas piutang Pinjaman yang

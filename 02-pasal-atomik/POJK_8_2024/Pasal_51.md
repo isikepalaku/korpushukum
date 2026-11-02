@@ -19,7 +19,10 @@ mengamandemen: []
 
 Perusahaan Asuransi dan Perusahaan Asuransi Syariah
 yang memasarkan Produk Asuransi melalui agen asuransi
-sebagaimana dimaksud dalam Pasal 48 ayat (1) huruf b,
+sebagaimana dimaksud dalam
+
+Pasal 48
+ayat (1) huruf b,
 wajib memastikan bahwa Agen Asuransi tersebut memenuhi
 ketentuan peraturan perundang-undangan mengenai agen
 asuransi.

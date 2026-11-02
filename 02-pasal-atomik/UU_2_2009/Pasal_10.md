@@ -23,7 +23,9 @@ mengamandemen: []
 Nasional, berdasarkan Undang-Undang ini dibentuk
 Lembaga Pembiayaan Ekspor Indonesia yang selanjutnya
 disingkat LPEI sebagai lembaga keuangan sebagaimana
-dimaksud dalam Pasal 9.
+dimaksud dalam
+
+Pasal 9.
 
 (2) LPEI sebagaimana dimaksud pada ayat (1) adalah badan
 
@@ -35,6 +37,12 @@ dan wewenangnya bersifat transparan, akuntabel, dan
 independen.
 
 (4) LPEI bertanggung jawab kepada Menteri.
+
+Pasal 11 . . .
+
+-----
+
+ - 6
 
 ## Penjelasan Resmi
 

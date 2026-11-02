@@ -27,6 +27,25 @@ mengamandemen:
 
 91. Di antara Pasal (satu) pasal, yakni sebagai berikut: 132 dan Pasal 133 disisipkan 1 Pasal L32A sehingga berbunyi
 
+Pasal 132A. . .
+
+**PRESIDEN REPUBLIK TNDONESIA**
+
+- -103-
+
+**Pasal 132A**
+
+- (1) Bursa mineral dan komoditas strategis merupakan suatu sistem pas€rr yang terorganisasi dan terintegrasi, yang menyelenggarakan perdagangan mineral dan komoditas strategis termasuk derivatifnya, yang didukung oleh ekosistem pendanaan, instrumen keuangan berbasis digital dengan mekanisme harga, mutu, penyelesaian transaksi, dan manajemen risiko, yang diatur dan diawasi oleh Otoritas Jasa Keuangan guna memperkuat ketahanan ekonomi, menjaga integritas pasar, serta mengoptimalkan nilai tambah sumber daya alam dan komoditas Indonesia.
+- (2) Bursa mineral dan komoditas strategis sebagaimana dimaksud pada ayat (1) diselenggarakan oleh penyelenggara pasar yang telah memperoleh izin usaha dari Otoritas Jasa Keuangan.
+- (3) Ketentuan lebih lanjut mengenai bursa mineral dan komoditas strategis sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Otoritas Jasa Keuangan setelah mendapatkan persetujuan DPR.
+- (4) Ketentuan mengenai bursa mineral dan komoditas strategis sebagaimana dimaksud pada ayat (3) minimal memuat:
+- a. penahapanpelaksanaankegiatan;
+- b. tata kelola;
+- c. manajemen risiko;
+- d. prinsip kehati-hatian; dan
+- e. sanksiadministratif.
+92. Ketentuan Pasal 213 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

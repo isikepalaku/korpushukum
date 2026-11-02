@@ -103,8 +103,7 @@ Ayat (5)
 
 Cukup jelas
 
-Pasal II
-
+Pasal 11
 Cukup jelas
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4901

@@ -17,15 +17,17 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), Bank dikenai sanksi administratif berupa:
+Bank wajib menetapkan wewenang dan tanggung jawab
 
-a. larangan untuk menerbitkan produk Bank baru;
+yang jelas dari Direksi, Dewan Komisaris, dan pejabat pada
 
-b. pembekuan kegiatan usaha tertentu; dan/atau
+**t id**
 
-c. penurunan penilaian faktor tata kelola dalam
+-----
 
-penilaian tingkat kesehatan Bank.
+setiap jenjang jabatan yang terkait dengan penerapan tata
+
+kelola TI.
 
 ## Penjelasan Resmi
 

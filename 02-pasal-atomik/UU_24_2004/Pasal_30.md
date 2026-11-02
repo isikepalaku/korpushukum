@@ -22,7 +22,9 @@ mengamandemen: []
 
  dalam jangka waktu paling lama 2 (dua) tahun sejak
 
- penyerahan sebagaimana dimaksud dalam Pasal 25.
+ penyerahan sebagaimana dimaksud dalam
+
+Pasal 25.
 
  (2) Penjualan saham sebagaimana dimaksud pada ayat (1)
 

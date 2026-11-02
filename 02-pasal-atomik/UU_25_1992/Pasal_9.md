@@ -19,13 +19,8 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-akta pendirian Koperasi.
-
-(2) Pengesahan akta pendirian diberikan dalam jangka waktu paling
-lama 3 (tiga) bulan setelah diterimanya permintaan pengesahan.
-
-(3) Pengesahan akta pendirian diumumkan dalam Berita Negara
-Republik Indonesia.
+Koperasi memperoleh status badan hukum setelah akta pendiriannya
+disahkan oleh Pemerintah.
 
 ## Penjelasan Resmi
 

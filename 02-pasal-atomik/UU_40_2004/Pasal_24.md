@@ -39,6 +39,12 @@ mengamandemen: []
 
  jaminan kesehatan.
 
+Pasal 25 ...
+
+-----
+
+**- 13**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

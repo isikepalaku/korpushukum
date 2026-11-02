@@ -47,7 +47,10 @@ c. Dokumen Perjalanan Republik Indonesia dan/atau
 Dokumen Perjalanan orang tua; atau
 d. surat keterangan pindah luar negeri.
 (5) Pencatatan kelahiran Orang Asing sebagaimana dimaksud
-dalam Pasal 32 ayat (2) harus memenuhi persyaratan:
+dalam
+
+Pasal 32
+ayat (2) harus memenuhi persyaratan:
 a. surat keterangan kelahiran;
 b. Dokumen Perjalanan; dan
 c. KTP-el atau kartu izin tinggal tetap atau kartu tzin

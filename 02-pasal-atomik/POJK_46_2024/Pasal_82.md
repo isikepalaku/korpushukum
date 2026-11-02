@@ -81,3 +81,5 @@ dikenal dengan arm’s length principle.
 Huruf h
 
 Cukup jelas.
+
+Angka 41

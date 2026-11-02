@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '339'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -17,6 +17,8 @@ mengamandemen: []
 # Pasal 339 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
 
 ## Batang Tubuh
+
+Dipidana dengan pidana denda paling banyak kategori II,
 
 Setiap Orang yang:
 
@@ -32,4 +34,4 @@ c.menaruh,.,
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini dimaksudkan untuk mencegah timbulnya bahaya maupun gangguan lainnya bagi lalu lintas umum.

@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Untuk melaksanakan tugas pengaturan dan pengawasan di
-sektor Perbankan sebagaimana dimaksud dalam Pasal 6
+sektor Perbankan sebagaimana dimaksud dalam
+
+Pasal 6
 huruf a, OJK mempunyai wewenang:
 a. pengaturan dan pengawasan mengenai kelembagaan
 bank yang meliputi:

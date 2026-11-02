@@ -22,9 +22,7 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-**Cukup jelas.**
-
-Pasal 2L4
+**Cukup jelas.**Pasal 2L4
 
 **Ayat (1)**
  Cukup jelas.

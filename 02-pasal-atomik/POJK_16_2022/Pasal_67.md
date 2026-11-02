@@ -24,7 +24,9 @@ bulan, Bank dapat melakukan penunjukan sementara
 Pejabat Eksekutif.
 (2) Penunjukan sementara Pejabat Eksekutif sebagaimana
 dimaksud pada ayat (1) wajib dilakukan penilaian
-sebagaimana dimaksud dalam Pasal 66.
+sebagaimana dimaksud dalam
+
+Pasal 66.
 (3) Bank wajib mengangkat Pejabat Eksekutif yang definitif
 paling lama 6 (enam) bulan sejak tanggal penunjukan
 sementara Pejabat Eksekutif sebagaimana dimaksud

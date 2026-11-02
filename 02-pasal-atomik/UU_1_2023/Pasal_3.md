@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '3'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -36,4 +36,10 @@ Paragraf 1 Asas Wilayah atau Teritorial
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (l) Cukup jelas. Ayatl2l Cukup jelas. Ayat (3) Cukup jelas.
+
+Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas.
+
+Ayat (7)
+
+Yang dimaksud dengan "disesuaikan dengan batas pidana" adalah hanya untuk putusan pemidanaan yang lebih berat dari anczunan pidana maksimal dalam peraturan perundang-undangan yang baru, termasuk juga penyesuaian jenis ancarnan pidana yang berbeda.

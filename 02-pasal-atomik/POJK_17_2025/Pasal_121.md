@@ -18,8 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam hal pembelian kembali saham dilakukan melalui
-Layanan Urun Dana sebagaimana dimaksud dalam Pasal
-120 ayat (2), pembelian kembali saham wajib memenuhi
+Layanan Urun Dana sebagaimana dimaksud dalam
+
+Pasal 120
+ayat (2), pembelian kembali saham wajib memenuhi
 ketentuan:
 a. dilakukan melalui mekanisme pelaksanaan
 perdagangan Efek; dan

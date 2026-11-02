@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Setiap Penduduk yang telah memiliki KTP-el fisik dapat 
 memiliki Identitas Kependudukan Digital. 
 (2) Identitas Kependudukan Digital sebagaimana dimaksud 
-dalam Pasal 13 ayat (2) diperoleh Penduduk dengan 
+dalam
+
+Pasal 13
+ayat (2) diperoleh Penduduk dengan 
 memenuhi persyaratan: 
 a. memiliki gawai pintar; dan 
 b. telah memiliki KTP-el fisik atau belum pernah memiliki 

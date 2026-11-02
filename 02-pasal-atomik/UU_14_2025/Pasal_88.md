@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Jemaah Umrah sebagaimana dimaksud dalam Pasal 86 ayat (1) huruf a berhak memperoleh pelayanan dari PPIU meliputi:
+Jemaah Umrah sebagaimana dimaksud dalam
+
+Pasal 86
+ayat (1) huruf a berhak memperoleh pelayanan dari PPIU meliputi:
 
 - a. layanan bimbingan Ibadah Umrah dari petugas umrah;
 

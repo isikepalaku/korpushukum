@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '134'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Seseorang tidak dapat dituntut untuk kedua kalinya dalam 1 (satu) perkara yang s
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini dimaksudkan unhrk memberi kepastian hukum dengan mengedepankan asas ne bis inidem.

@@ -20,7 +20,6 @@ mengamandemen: []
 ## PRESIDEN REPUBLIK INDONESIA
 
 ## Pasal L26
-
 - tl) Pembayaran biaya tahunan untuk pertama kali wajib dilakukan paling lambat 6 (enam) bulan terhitung sejak tanggal sertifikat Paten diterbitkan.
 - (21 Pembayaran biaya tahunan sebagaimana dirnaksud pada ayat (u untuk Paten dan Paten sederhana, meliputi biaya tahunan dibayarkan untuk tahun pertama sejak Tanggal Penerimaan sampai dengan tahun diberi Paten ditambah biaya tahunan I (satu) tahun berikutnya'
 - (3) Pembayaran biaya tahunan selanjutnya wajib dibayar setiap tahun dan dilakukan paling lambat 1 (satu) bulan sebelum tanggal yang sama dengan Tanggal Penerimaan pada periode masa pelindungan tahun berikutnya.
@@ -28,7 +27,6 @@ mengamandemen: []
 45. Ketentuarr ayat (1) Pasal L28 diubah dan ayat (21, ayat (3), ayat (a), ayat (5), dan ayat (6) dihapus, sehingga Pasal L28 berbunyi sebagai berikut:
 
 ## Pasal L28
-
 - Dalam hal biaya tahunan belum dibayar sampai dengan jangka waktu yang ditentukan sebagaimana dimaksud dalam Pasal 126, Paten dinyatakan dihaPus. (1)
 - Dihapus. (2)
 - Dihapus. (3)

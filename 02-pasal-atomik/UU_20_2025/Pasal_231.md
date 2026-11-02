@@ -18,25 +18,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(21 Setelah ketentuan sebagaimana dimaksud pada**
- ayat (1) dilakukan, Hakim mengadakan musyawarah terakhir untuk mengambil keputusan dan apabila
-**perlu musyawarah tersebut diadakan setelah**
-**Terdakwa, Saksi, Advokat, Penuntut Umum, dan hadirin meninggalkan ruang sidang.**
+**(1) Setelah kesaksian dan bukti disampaikan oleh kedua**
 
-(3) Musyawarah . . .
+**belah pihak, Penuntut Umum dan Advokat diberi kesempatan untuk menyampaikan keterangan lisan yang menjelaskan mengenai bukti yang diajukan di persidangan mendukung pendapat mereka mengenai perkara tersebut. (21 Dalam hal pemeriksaan dinyatakan selesai, Penuntut**
+ Umum mengajukan tuntutan pidana kepada Terdakwa setelah menguraikan hal yang memberatkan dan meringankan Terdakwa.
+**(3) Setelah Penuntut Umum mengajukan tuntutan**
 
------
+**pidana, Terdakwa dan/ atau Advokat mengajukan pembelaannya yang dapat dijawab oleh Penuntut Umum dengan ketentuan bahwa Terdakwa atau Advokatnya selalu mendapat giliran terakhir.**
+**(4) Tuntutan atau jawaban atas pembelaan dilakukan**
 
-PRESIDEN
-**REFUBU( INDONESIA**
+**secara tertulis dan setelah dibacakan dalam waktu paling lambat I (satu) Hari diserahkan kepada Hakim ketua sidang dan salinannya kepada pihak yang berkepentingan.**
+**(5) Jika ketentuan sebagaimana dimaksud pada ayat (1)**
 
-**(3) Musyawarah sebagaimana dimaksud pada ayat (2)**
-
-**harus didasarkan atas surat dakwaan dan segala sesuatu yang terbukti dalam pemeriksaan di sidang pengadilan. (41 Dalam musyawarah sebagaimana dimaksud pada**
- ayat (3), Hakim ketua majelis mengajukan pertanyaan kepada setiap Hakim anggota dan setelah itu ketua majelis Hakim mengemukakan pendapatnya.
-**(5) Pendapat sebagaimana dimaksud pada ayat (4) harus**
-
-**disertai dengan pertimbangan beserta alasannya.**
+**sampai dengan ayat (3) selesai dilaksanakan, Hakim**
+**ketua sidang menyatakan bahwa pemeriksaan**
+**dinyatakan ditutup.**
 
 ## Penjelasan Resmi
 

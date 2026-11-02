@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai pelaksanaan kegiatan penanggulangan Wabah sebagaimana dimaksud dalam Pasal 371 sampai dengan Pasal 379 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai pelaksanaan kegiatan penanggulangan Wabah sebagaimana dimaksud dalam Pasal 371 sampai dengan
+
+Pasal 379
+diatur dengan Peraturan Pemerintah.
 
 ## Paragraf 7
 

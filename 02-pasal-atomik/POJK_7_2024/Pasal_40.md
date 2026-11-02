@@ -17,21 +17,46 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) dikenai sanksi administratif berupa denda sebesar
-Rp100.000,00 (seratus ribu rupiah) per hari kerja dan
-paling banyak Rp5.000.000,00 (lima juta rupiah).
-(7) Pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (6) tidak menghilangkan kewajiban
-penyampaian laporan bagi BPR atau BPR Syariah yang
-belum menyampaikan laporan dimaksud.
+(1) BPR atau BPR Syariah wajib menyampaikan laporan
+pelaksanaan penambahan modal disetor yang
+mengakibatkan perubahan PSP secara daring melalui
+sistem pelaporan OJK paling lama 10 (sepuluh) hari kerja
+setelah tanggal surat penerimaan pemberitahuan
+perubahan data dari instansi yang berwenang, disertai
+dengan:
+a. risalah RUPS;
+b. data kepemilikan;
+c. salinan akta perubahan anggaran dasar;
+d. keputusan atau surat penerimaan pemberitahuan
+perubahan anggaran dasar dari instansi yang
+berwenang; dan
+e. permohonan persetujuan pencairan deposito kepada
+OJK untuk dicatat sebagai modal disetor.
+(2) BPR atau BPR Syariah wajib menyampaikan laporan
+pelaksanaan perubahan kepemilikan saham yang
+mengakibatkan perubahan PSP secara daring melalui
+sistem pelaporan OJK paling lama 10 (sepuluh) hari kerja
+setelah tanggal surat penerimaan pemberitahuan
+perubahan data dari instansi yang berwenang, disertai
+dengan:
+a. risalah RUPS;
+b. data kepemilikan;
+c. salinan akta perubahan kepemilikan saham; dan
+d. surat penerimaan pemberitahuan perubahan
+kepemilikan saham dari instansi yang berwenang.
+(3) Dalam hal sistem pelaporan OJK secara daring belum
+tersedia, BPR atau BPR Syariah wajib menyampaikan
+laporan sebagaimana dimaksud pada ayat (1) atau ayat (2)
+secara luring paling lama 10 (sepuluh) hari kerja setelah
+tanggal surat penerimaan pemberitahuan perubahan data
+dari instansi yang berwenang.
 
-BAB IV
-DIREKSI, DEWAN KOMISARIS, DEWAN PENGAWAS SYARIAH,
+-----
 
-DAN PEJABAT EKSEKUTIF
+Bagian Ketiga
+Penambahan Modal Disetor dan Perubahan Kepemilikan
 
-Bagian Kesatu
-Anggota Direksi dan Anggota Dewan Komisaris
+Saham yang Tidak Mengakibatkan Perubahan PSP
 
 ## Penjelasan Resmi
 

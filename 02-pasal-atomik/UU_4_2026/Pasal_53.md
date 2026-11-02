@@ -23,6 +23,12 @@ mengamandemen:
 76. Ketentuan Pasal 72A pada angka 23 dalallr Pasal 52 dihapus.
 4. 77.Di antara Pasal 52 dan Pasal 53 disisipkan I (satu) pasal, yakni Pasal 52A sehingga berbunyi sebagai berikut:
 
+Pasal 52A
+
+Ketentuan dalam Undang-Undang Nomor 34 Tahun 1964 tentang Dana Pertanggungan Wajib Kecelakaan Lalu Lintas Jalan (Lembaran Negara Republik Indonesia Tahun 1964 Nomor 138, Tambahan Lembaran Negara Republik Indonesia Nomor 2721) diubah sehingga berbunyi sebagai berikut:
+
+- Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut: 1
+
 ## Penjelasan Resmi
 
 Cukup jelas.

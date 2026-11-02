@@ -74,3 +74,5 @@ Bagian Kedua
 Dihapus.
 
 -----
+
+Angka 70

@@ -17,31 +17,39 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-- (1) PPMSE dalam negeri dan/atau PPMSE luar negeri wajib:
+Lingkup pengaturan Perdagangan Melalui Sistem Elektronik meliputi:
 
- - a. mengutamakan menggunakan nama domain tingkat tinggi Indonesia (dot id) bagi Sistem Elektronik yang berbentuk situs internet;
+- a. pihak yang melakukan PMSE;
 
- - b. mengutamakan menggunakan alamat Protokol Internet (IP Address) sesuai dengan ketentuan peraturan perundang-undangan ;
+- b. persyaratan dalam PMSE;
 
- - c. menggunakan perangkat seruer yang ditempatkan di pusat data sesuai dengan ketentuan peraturan perundang-undangan;
+- c. penyelenggaraan PMSE;
 
- - d. melakukan pendaftaran Sistem Elektronik sesuai dengan ketentuan peraturan perundang-undangan;
+- d. kewajiban Pelaku Usaha;
 
- - e. memenuhi ketentuan persyaratan teknis yang ditetapkan oleh instansi terkait dan memperoleh Sertifikat Keandalan sesuai dengan ketentuan peraturan perundang-undangan ;
+- e. bukti transaksi PMSE;
 
- - f. menyampaikan data dan/atau informasi secara berkala kepada lembaga pemerintah yang menyelenggarakan urusan pemerintahan di bidang statistik; dan
+- f. Iklan Elektronik;
 
-g.mematuhi...
+g. Penawaran. . .
 
-PRESIDEN REPUETIK INDONESIA
+PRESIDEN REFUBLIK TNDONESIA
 
- - g. mematuhi ketentuan peraturan perundang-undangan sektoral lain yang terkait dengan perizinan kegiatan usaha PMSE.
+- g. Penawaran Secara Elektronik, Penerimaan Secara Elektronik, dan Konfirmasi Elektronik;
 
-- (2) Dalam melakukan pengumpulan dan pengolahan data dan/atau informasi sebagaimana dimaksud pada ayat (1) huruf f lembaga pemerintah yang menyelenggarakan urusan pemerintahan di bidang statistik bekerja sama dengan kementerian/lembaga pemerintah non kementerian, dan/atau otoritas terkait sesuai dengan ketentuan peraturan perundang-undangan.
+- h. Kontrak Elektronik;
 
-- (3) Lembaga pemerintah yang menyelenggarakan urusan pemerintahan di bidang statistik melakukan berbagi pakai data dan/atau informasi sebagaimana dimaksud pada ayat (2) dengan kementerian/lembaga pemerintah non kementerian, otoritas terkait, danf atau pemerintah daerah dengan mengacu pada ketentuan mekanisme berbagi pakai data dan/atau informasi.
+- i. perlindungan terhadap data pribadi;
 
-- (4) Ketentuan lebih lanjut mengenai penyampaian data dan/atau informasi sebagaimana dimaksud pada ayat (1) huruf f, pengumpulan dan pengolahan data dan/atau informasi sebagaimana dimaksud pada ayat (2), serta mekanisme berbagi pakai data dan/atau informasi sebagaimana dimaksud pada ayat (3) diatur dengan peraturan kepala lembaga pemerintah yang menyelenggarakan urusan pemerintahan di bidang statistik.
+- j. pembayaran dalam PMSE;
+
+- k. pengiriman Barang dan Jasa dalam PMSE;
+
+1. penukaran Barang atau Jasa dan pembatalan pembelian dalam PMSE;
+
+- m. penyelesaian sengketa dalam PMSE; dan
+
+- n. pembinaan dan pengawasan.
 
 ## Penjelasan Resmi
 

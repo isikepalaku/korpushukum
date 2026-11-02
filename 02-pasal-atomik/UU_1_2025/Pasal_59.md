@@ -4,7 +4,7 @@ uu_induk: Perubahan Ketiga UU BUMN
 kode_uu: UU_1_2025
 pasal: '59'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
@@ -23,3 +23,15 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Dihapus.
+
+Angka 95
+
+Pasal 60
+Dihapus.
+
+Angka 96
+
+Pasal 61
+Dihapus.
+
+Angka 97

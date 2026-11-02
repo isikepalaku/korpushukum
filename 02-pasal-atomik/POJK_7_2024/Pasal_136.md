@@ -87,7 +87,10 @@ sesuai dengan Peraturan OJK mengenai pengembangan
 kualitas sumber daya manusia BPR dan BPR Syariah.
 Huruf c
 
-Lihat penjelasan Pasal 9 ayat (4) huruf b angka 2.
+Lihat penjelasan
+
+Pasal 9
+ayat (4) huruf b angka 2.
 Huruf d
 
 Jenis biaya yang dapat ditangguhkan antara lain biaya

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 11 ayat (2) huruf c, gubernur
+dimaksud dalam
+
+Pasal 11
+ayat (2) huruf c, gubernur
 melaksanakan:
 a. sosialisasi antarinstansi lembaga Pemerintah dan
 lembaga non-Pemerintah;

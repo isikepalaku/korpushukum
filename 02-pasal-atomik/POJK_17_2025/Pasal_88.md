@@ -19,6 +19,10 @@ mengamandemen: []
 
 Rekening urun dana pemodal sebagaimana dimaksud dalam
 
+Pasal 86
+ayat (1) dapat digunakan untuk keperluan lainnya
+terkait dengan Layanan Urun Dana.
+
 ## Penjelasan Resmi
 
 Keperluan lainnya antara lain pelaksanaan perdagangan efek.

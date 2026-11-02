@@ -31,6 +31,12 @@ anggota Dewan Direktur ditetapkan oleh Dewan Direktur.
 
 dan Direktur Pelaksana ditetapkan oleh Menteri.
 
+Pasal 27 . . .
+
+-----
+
+ - 12
+
 ## Penjelasan Resmi
 
 Ayat (1)

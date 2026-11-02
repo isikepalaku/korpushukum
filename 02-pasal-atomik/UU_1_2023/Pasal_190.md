@@ -1,0 +1,43 @@
+---
+id: UU_1_2023_Pasal_190
+uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum
+  Pidana
+kode_uu: UU_1_2023
+pasal: '190'
+status: BERLAKU_AKTIF
+substantive_explanation: true
+tags:
+- hukum/pidana
+- uu/uu_1_2023
+status_berlaku: berlaku
+diamandemen_oleh: []
+mengamandemen: []
+---
+
+# Pasal 190 — KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana
+
+## Batang Tubuh
+
+- (1) Setiap Orang yang menyatakan keinginannya Di Muka Umum dengan lisan, tulisan, atau melalui media apa pun untuk meniadakan atau mengganti Pancasila sebagai dasar negara, dipidana dengan pidana penjara paling lama 5 (lima) tahun.
+2. (21 Dalam hal perbuatan sebagaimana dimaksud pada ayat (l) mengakibatkan:
+- a. terjadinya kerusuhan dalam masyarakat atau timbulnya kerugian Harta Kekayaan, dipidana dengan pidana penjara paling lama 1O (sepuluh) tahun;
+- b. terjadinya kerusuhan dalam masyarakat yang mengalibatkan orang menderita Luka Berat, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun; atau
+
+c. terjadinya . . .
+
+- -6t-
+- terjadinya kerusuhan dalam masyarakat yang mengakibatkan matinya orang, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun. c
+
+Bagian Kedua Tindak Pidana Makar
+
+Paragraf 1 Makar terhadap Presiden dan/ atau Wakil Presiden
+
+## Penjelasan Resmi
+
+Ayat (l)
+
+Cukup jelas.
+
+Ayatl2l
+
+Yang dimaksud dengan "kerusuhan" adaLah suatu kondisi yang menimbulkan Kekerasan terhadap orang atau Barang yang dilakukan oleh sekelompok orang paling sedikit 3 (tiga) orang.

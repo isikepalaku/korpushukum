@@ -18,13 +18,25 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pihak yang memiliki jenis ITSK yang sama dengan jenis
-ITSK Peserta sebagaimana dimaksud dalam Pasal 15
+ITSK Peserta sebagaimana dimaksud dalam
+
+Pasal 15
 ayat (2) mempunyai hak yang sama untuk mengajukan
 permohonan izin usaha kepada Otoritas Jasa Keuangan.
 (2) Otoritas Jasa Keuangan memberikan surat izin usaha
 bagi Peserta sebagaimana dimaksud pada ayat (1) dan
 
 -----
+
+Pasal 15
+ayat (2) yang telah menyelesaikan proses
+perizinan.
+(3) Proses perizinan usaha mengikuti Peraturan Otoritas
+Jasa Keuangan mengenai perizinan dan pengawasan
+masing-masing jenis ITSK.
+
+BAB V
+ASOSIASI
 
 ## Penjelasan Resmi
 

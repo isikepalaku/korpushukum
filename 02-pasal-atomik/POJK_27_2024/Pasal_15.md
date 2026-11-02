@@ -21,11 +21,17 @@ mengamandemen: []
 (1) Pedagang wajib menghentikan perdagangan Aset Kripto
 tertentu yang:
 a. dinyatakan dicabut dari Daftar Aset Kripto
-sebagaimana dimaksud dalam Pasal 13 ayat (5);
+sebagaimana dimaksud dalam
+
+Pasal 13
+ayat (5);
 atau
 b. diperintahkan untuk dihentikan perdagangannya
 oleh Otoritas Jasa Keuangan sebagaimana
-dimaksud dalam Pasal 14 ayat (3) huruf b.
+dimaksud dalam
+
+Pasal 14
+ayat (3) huruf b.
 (2) Penghentian perdagangan Aset Kripto tertentu oleh
 Pedagang sebagaimana dimaksud pada ayat (1) wajib
 

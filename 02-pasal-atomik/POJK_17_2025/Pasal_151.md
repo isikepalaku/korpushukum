@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 150 dikenai sanksi
+dimaksud dalam
+
+Pasal 150
+dikenai sanksi
 administratif.
 (2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
 juga kepada Pihak yang menyebabkan terjadinya

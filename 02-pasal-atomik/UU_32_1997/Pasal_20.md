@@ -18,7 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penghentian sementara waktu, sebagaimana dimaksud dalam Pasal 19:
+Penghentian sementara waktu, sebagaimana dimaksud dalam
+
+Pasal 19:
 
  a. untuk jangka waktu tidak lebih dari satu hari kerja, dapat dilakukan
 

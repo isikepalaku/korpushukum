@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 39-2024 tentang Pergadaian
 kode_uu: POJK_29_2025
 pasal: '122'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_29_2025
@@ -55,3 +55,5 @@ berikut:
 
 ayat (6)
 Dihapus.
+
+Angka 21

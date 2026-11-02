@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '200'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,5 +24,11 @@ Dipidana dengan pidana penjara palin glama 7 (tqiuh) tahun, Setiap Orang yang:
 - b. dalam Waktu Perang, melanggar suatu peraturan yang dikeluarkan dan diumumkan oleh Pemerintah Indonesia untuk kepentingan pertahanan keamanan negara.
 
 ## Penjelasan Resmi
+
+**Hurufa**
+
+Yang dimaksud dengan "perbuatan yang sikap kenetralan negara" misateya, ikut dalam Perang, membantu dengan personel, pendanaan, Barang, atau senjata.
+
+**Hurufb**
 
 Cukup jelas.

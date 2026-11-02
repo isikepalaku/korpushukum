@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang akan melakukan kegiatan usaha lain
-sebagaimana dimaksud dalam Pasal 136 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 136
+ayat (2) huruf
 e wajib mengajukan permohonan persetujuan kepada
 Otoritas Jasa Keuangan.
 (2) Perusahaan yang akan melakukan kegiatan usaha lain

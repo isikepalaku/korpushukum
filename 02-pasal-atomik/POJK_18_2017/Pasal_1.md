@@ -59,7 +59,10 @@ tentang Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan.
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 2 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Yang dimaksud dengan “Lembaga Jasa Keuangan Lainnya yang memberikan Fasilitas Penyediaan Dana” antara lain lembaga pembiayaan ekspor Indonesia, pergadaian, perusahaan pembiayaan sekunder perumahan.
+Cukup jelas.
+
+Pasal 2
+Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Yang dimaksud dengan “Lembaga Jasa Keuangan Lainnya yang memberikan Fasilitas Penyediaan Dana” antara lain lembaga pembiayaan ekspor Indonesia, pergadaian, perusahaan pembiayaan sekunder perumahan.
 Ayat (2)
 
 Cukup jelas.

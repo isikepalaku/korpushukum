@@ -24,5 +24,4 @@ Ketentuan lebih lanjut mengenai jenis dan penyelenggaraan Fasilitas Pelayanan Ke
 Cukup jelas.
 
 Pasal L72
-
 Cukup jelas.

@@ -18,14 +18,26 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan
-sebagaimana dimaksud dalam Pasal 21 ayat (2),
-ayat (3), Pasal 22, Pasal 23 ayat (1), Pasal 25 ayat
+sebagaimana dimaksud dalam
+
+Pasal 21
+ayat (2),
+ayat (3),
+
+Pasal 22, Pasal 23 ayat (1), Pasal 25 ayat
 (1), ayat (2), Pasal 26, Pasal 27 ayat (1), Pasal 28
-ayat (2), Pasal 31 ayat (2), Pasal 32 ayat (1), ayat
+ayat (2),
+
+Pasal 31
+ayat (2), Pasal 32 ayat (1), ayat
 (2), Pasal 34 ayat (1), Pasal 36 ayat (1), Pasal 38
-ayat (1), Pasal 41 ayat (1), Pasal 42 ayat (1), Pasal
-42A ayat (1), Pasal 43 ayat (1), ayat (2), ayat (3),
-ayat (4), Pasal 45, dan/atau Pasal 46 ayat (1)
+ayat (1),
+
+Pasal 41
+ayat (1), Pasal 42 ayat (1), Pasal 42A ayat (1), Pasal 43 ayat (1), ayat (2), ayat (3),
+ayat (4),
+
+Pasal 45, dan/atau Pasal 46 ayat (1)
 dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -92,3 +104,5 @@ Angka 3
 Tabel 14
 
 Cukup jelas.
+
+Angka 4

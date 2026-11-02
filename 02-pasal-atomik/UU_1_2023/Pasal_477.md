@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '477'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -33,4 +33,30 @@ d. pencurian . . .
 
 ## Penjelasan Resmi
 
+Ayat (1)
+
+Ketentuan ini mengatur pencurian yang bersifat khusus atau yang biasa dikenal dengan istilah pencurian dikualifrkasi.
+
+Hurufa
+
 Cukup jelas.
+
+Hurufb
+
+Cukup jelas.
+
+Hurrf c
+
+Yang dimaksud dengan "Barang yang mempakan sumber mata pencaharian atau sumber nalkah utama seseorang" misalnya, sepeda motor bagi tukang ojek motor, mesin jahit bagi seorang penjahit.
+
+**Hurufd**
+
+Cukup jelas.
+
+Hun:f e
+
+tempat yang sengaja dibuat atau digunakan untuk tempat kediaman atau tempat tinggal.
+
+Yang dimaksud dengan "pekarangan tertuhrp" adalah sebidang tanah yang mempunyai tanda batas tertentu, baik berupa tembok, pagar, tumpukan batu, tumbuh-tumbuhan, saluran air, atau sungai.
+
+Huruf f Cukup jelas. Hurufg Cukup jelas. Ayatl2l Cukup jelas.

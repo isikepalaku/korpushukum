@@ -20,6 +20,17 @@ mengamandemen: []
 
 Pembiayaan Ekspor Nasional sebagaimana dimaksud dalam
 
+Pasal 5
+dilakukan oleh lembaga keuangan yang didirikan
+khusus untuk itu.
+
+BAB III
+
+LEMBAGA PEMBIAYAAN EKSPOR INDONESIA
+
+Bagian Kesatu
+Pembentukan, Status, dan Tempat Kedudukan
+
 ## Penjelasan Resmi
 
 Cukup jelas.

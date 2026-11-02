@@ -25,6 +25,15 @@ mengamandemen:
 - (3) Penggantian anggota Dewan Komisioner sebagaimana dimaksud pada ayat (1) tidak dilakukan apabila sisa masa jabatan anggota Dewan Komisioner yang diberhentikan kurang dari 1 (satu) tahun.
 - 9b. Di antara Pasal 21 dan Pasal 22 disisipkan 1 (satu) pasal, yakni Pasal 2lA sehingga berbunyi sebagai berikut:
 
+**Pasal 21A**
+
+Ketua Dewan Komisioner Otoritas Jasa Keuangan, Wakil Ketua Dewan Komisioner Otoritas Jasa Keuangan, anggota Dewan Komisioner Otoritas Jasa Keuangan, serta pejabat dan pegawai Otoritas Jasa Keuangan dalam pelaksanaan Undang-Undang ini mendapat pelindungan hukum jika dalam melaksanakan tugas didasarkan pada iktikad baik dan sesuai dengan ketentuan peraturan perundangundangan'
+
+**PRESIDEN REPUBLIK INDONESIA**
+
+- -48-
+36. Ketentuan Pasal 25 pada angka 11 dalam Pasal 8 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Bank Indonesia dapat menyelenggarakan survei secara berkala atau
- sewaktu-waktu diperlukan yang dapat bersifat makro atau mikro untuk mendukung pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 8.
+ sewaktu-waktu diperlukan yang dapat bersifat makro atau mikro untuk mendukung pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam
+
+Pasal 8.
 
  (2) Pelaksanaan survei sebagaimana dimaksud pada ayat (1), dapat
  dilakukan oleh pihak lain berdasarkan penugasan dari Bank Indonesia.

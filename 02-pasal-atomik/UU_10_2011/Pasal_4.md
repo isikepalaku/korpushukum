@@ -87,3 +87,5 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
+
+Angka 5

@@ -20,7 +20,10 @@ mengamandemen: []
 
 **(l) Surat ketetapan penghentian Penuntutan**
 
-sebagaimana dimaksud dalam Pasal 85 ayat (3) dalam
+sebagaimana dimaksud dalam
+
+Pasal 85
+ayat (3) dalam
 **jangka waktu paling lama 3 (tiga) Hari dimintakan**
  penetapan kepada ketua pengadilan negeri. (21 Penetapan ketua pengadilan negeri sebagaimana
  dimaksud pada ayat (1) wajib disampaikan oleh Penuntut Umum kepada Penyidik.

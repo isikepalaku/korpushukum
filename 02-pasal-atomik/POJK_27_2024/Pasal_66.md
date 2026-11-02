@@ -37,7 +37,10 @@ Aset Keuangan Digital.
 (3) Dewan Komisaris Penyelenggara Perdagangan Aset
 Keuangan Digital wajib melakukan pengawasan atas
 terselenggaranya penerapan prinsip tata kelola yang
-baik sebagaimana dimaksud dalam Pasal 62 ayat (2).
+baik sebagaimana dimaksud dalam
+
+Pasal 62
+ayat (2).
 (4) Dewan Komisaris Penyelenggara Perdagangan Aset
 Keuangan Digital wajib melaksanakan tugas dan
 tanggung jawab sebagaimana dimaksud pada ayat (1)

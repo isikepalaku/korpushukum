@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bank yang tidak melaksanakan ketentuan sebagaimana ditetapkan dalam Pasal 2 ayat (1), Pasal 4, Pasal 5 ayat (2), Pasal 6, Pasal 11 ayat (1), Pasal 11 ayat (3), Pasal 12, Pasal 13 ayat (1), Pasal 13 ayat (2), Pasal 13 ayat (3), Pasal 13 ayat (4), Pasal 14 ayat (2), Pasal 15 ayat (1), Pasal 16 ayat (2), Pasal 17 ayat (2), Pasal 18 ayat (1), Pasal 21, Pasal 28, dan/atau Pasal 29 ayat (1) dikenakan sanksi administratif antara lain berupa:
+Bank yang tidak melaksanakan ketentuan sebagaimana ditetapkan dalam Pasal 2 ayat (1),
+
+Pasal 4, Pasal 5 ayat (2), Pasal 6, Pasal 11 ayat (1), Pasal 11 ayat (3), Pasal 12, Pasal 13 ayat (1), Pasal 13 ayat (2), Pasal 13 ayat (3), Pasal 13 ayat (4), Pasal 14 ayat (2), Pasal 15 ayat (1), Pasal 16 ayat (2), Pasal 17 ayat (2), Pasal 18 ayat (1), Pasal 21, Pasal 28, dan/atau Pasal 29 ayat (1) dikenakan sanksi administratif antara lain berupa:
 
 - a. teguran tertulis;
 

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '392'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -30,4 +30,6 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Surat dalam ketentuan ini sifatnya lebih penting daripada Surat pada umunrnya, oleh karena itu ancaman pidananya lebih berat daripada ancaman pidana pada perbuatan yang diatur dalam
+
+Pasal 389.

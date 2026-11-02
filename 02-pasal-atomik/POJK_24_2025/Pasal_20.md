@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
-berlaku, ketentuan Pasal 6 ayat (6) Peraturan Otoritas Jasa
+berlaku, ketentuan
+
+Pasal 6
+ayat (6) Peraturan Otoritas Jasa
 Keuangan Nomor 1/POJK.03/2022 tentang Layanan
 Keuangan tanpa Kantor dalam rangka Keuangan Inklusif
 (Lembaran Negara Republik Indonesia Tahun 2022 Nomor

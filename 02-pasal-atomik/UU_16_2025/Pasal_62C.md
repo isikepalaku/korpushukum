@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai pengelolaan Aset BUMN sebagaimana dimaksud dalam Pasal 62A dan BUMN pengelola aset sebagaimana dimaksud dalam Pasal 628 diatur dalam Peraturan BP BUMN.
+Ketentuan lebih lanjut mengenai pengelolaan Aset BUMN sebagaimana dimaksud dalam Pasal 62A dan BUMN pengelola aset sebagaimana dimaksud dalam
+
+Pasal 628
+diatur dalam Peraturan BP BUMN.
 
 64. Ketentuan Pasal 62E diubah sehingga berbunyi sebagai berikut:
 

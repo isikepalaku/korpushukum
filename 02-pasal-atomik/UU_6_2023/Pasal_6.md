@@ -68,3 +68,5 @@ Cukup jelas.
 Huruf i
 
 Pendorongan dilakukan dalam rangka untuk meningkatkan nilai tambah produksi kegiatan penyelenggaraan Panas Bumi.
+
+Angka 4

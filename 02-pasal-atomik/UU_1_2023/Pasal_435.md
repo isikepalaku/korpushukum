@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '435'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -29,5 +29,15 @@ mengamandemen: []
 Bagian Ketiga Penghinaan Ringan
 
 ## Penjelasan Resmi
+
+Ayat (l)
+
+Jika orang yang dihina, yaitu yang dituduh telah melakukan sesuatu perbuatan dan karenanya terserang kehormatan atau nama baiknya, dengan putusan pengadilan yang telah memperoleh kekuatan hukum tetap ternyata memang bersalah atas hal yang dituduhkan, terhadap penuduh tidak boleh dilakukan pemidanaan karena fitnah.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
 
 Cukup jelas.

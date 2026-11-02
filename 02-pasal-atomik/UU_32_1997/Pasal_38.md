@@ -22,7 +22,9 @@ Ketentuan mengenai tata cara persetujuan pembentukan Sentra Dana
 
  Berjangka serta penyampaian rancangan dan pedoman penyusunan
 
- kontrak sebagaimana dimaksud dalam Pasal 36, diatur lebih lanjut
+ kontrak sebagaimana dimaksud dalam
+
+Pasal 36, diatur lebih lanjut
 
  dengan Peraturan Pemerintah.
 

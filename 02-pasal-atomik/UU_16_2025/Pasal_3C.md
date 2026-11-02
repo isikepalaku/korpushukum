@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Untuk melaksanakan tugas sebagaimana dimaksud dalam Pasal 3E}, kepala BP BUMN selaku wakil Pemerintah Pusat dengan persetujuan Presiden berwenang:
+Untuk melaksanakan tugas sebagaimana dimaksud dalam
+
+Pasal 3E}, kepala BP BUMN selaku wakil Pemerintah Pusat dengan persetujuan Presiden berwenang:
 
 - a. menetapkan arah kebijakan umum BUMN;
 - b. menetapkan kebijakan tata kelola BUMN;
@@ -64,17 +66,23 @@ Cukup jelas.
 Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i Cukup jelas. Hurufj Cukup jelas. Huruf k Cukup jelas. Huruf I Cukup jelas. Huruf m Yang dimaksud dengan "kewenangan lain" adalah kewenangan lain yang terkait dengan pengurusan dan pengawasan BUMN.
 
 ```
-Angka 6 Pasal 3D Cukup jelas. Angka 7 Pasal 3E Cukup jelas. Angka 8 Pasal 3F Cukup jelas.
+Angka 6
+
+Pasal 3D Cukup jelas. Angka 7 Pasal 3E Cukup jelas. Angka 8 Pasal 3F Cukup jelas.
 ```
 
 ```
-Angka 9 Pasal 3G Cukup jelas. Angka 10 Pasal 3H Cukup jelas. Angka 11 Pasal 3N Cukup jelas. Angka 12 Pasal 3X Cukup jelas. Angka 13 Pasal 3Y Cukup jelas. Angka 14 Pasal 3AA Cukup jelas. Angka 15 Pasal 3AB Cukup jelas. Angka 16 Pasal 3AC Cukup jelas.
+Angka 9
+
+Pasal 3G Cukup jelas. Angka 10 Pasal 3H Cukup jelas. Angka 11 Pasal 3N Cukup jelas. Angka 12 Pasal 3X Cukup jelas. Angka 13 Pasal 3Y Cukup jelas. Angka 14 Pasal 3AA Cukup jelas. Angka 15 Pasal 3AB Cukup jelas. Angka 16 Pasal 3AC Cukup jelas.
 ```
 
 ## K INDONESIA
 
 ```
-Angka 17 Pasal 3AE Cukup jelas. Angka 18 Pasal 3AH Cukup jetas. Angka 19 Pasd 3AI Cukup jelas. Angka 20 Pasal 3AK Cukup jelas. Angka 21 Pasal 3AL Cukup jelas. Ang)<a 22 Pasal 3AM Dihapus. Angka 23 Pasal 4A Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
+Angka 17
+
+Pasal 3AE Cukup jelas. Angka 18 Pasal 3AH Cukup jetas. Angka 19 Pasd 3AI Cukup jelas. Angka 20 Pasal 3AK Cukup jelas. Angka 21 Pasal 3AL Cukup jelas. Ang)<a 22 Pasal 3AM Dihapus. Angka 23 Pasal 4A Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
 ```
 
 Ayat (3) Hurufa Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Penyertaan modal negara dalam rangka penugasan Pemerintah Pusat diberikan kepada Badan untuk diteruskan kepada BUMN penerima penugasan. Ayat (a) Cukup jelas. Ayat (s) BUMN adalah badan hukum privat yang modalnya merupakan milik dan tanggung jawab BUMN sebagai badan hukum, baik yang berasal dari APBN maupun non APBN. Oleh karenanya harus dibina dan dikelola berdasarkan prinsip-prinsip tata kelola perusahaan yang baik. Ayat (6) Cukup jelas.
@@ -88,7 +96,9 @@ Dalam ketentuan ayat ini modal dan kekayaan BUMN merupakan milik BUMN. Setiap ke
 Keuntungan atau kerugian BUMN termasuk tetapi tidak terbatas pada keuntungan atau kerugian BUMN yang timbul dari pengelolaan sebagian atau seluruh aset kekayaan BUMN dalam kegiatan investasi dan/atau operasional BUMN bersangkutan.
 
 ```
-Angka 25 Pasal 4C Cukup jelas. AngJ<a26 Pasal 9G Dihapus. Ang)<a 27 Pasal 10 Cukup jelas. Angka 28 Pasal 14 Cukup jelas. Ang$a29 Pasal 15A Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c
+Angka 25
+
+Pasal 4C Cukup jelas. AngJ<a26 Pasal 9G Dihapus. Ang)<a 27 Pasal 10 Cukup jelas. Angka 28 Pasal 14 Cukup jelas. Ang$a29 Pasal 15A Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c
 ```
 
 Yang dimaksud dengan "hubungan keluarga sampai dengan dera.iat kedua" adalah:
@@ -158,7 +168,9 @@ Huruf e
 Yang dimaksud dengan "jabatan lain" termasuk menteri dan wakil menteri.
 
 ```
-Angka 31 Pasal 15C Ayat (1) Yang dimaksud dengan "kontrak manajemen" adalah statement of corporate intent (SCI), antara lain memenuhi segala target yang disepakati antara pemegang saham, Dewan Komisaris, dan Direksi. Kontrak manajemen tersebut dapat diperbaharui setiap tahun untuk disesuaikan dengan kondisi dan perkembangan perusahaan. Ayat (2) Cukup jelas. Angka 32 Pasal 15G Ayat (1) Cukup jelas.
+Angka 31
+
+Pasal 15C Ayat (1) Yang dimaksud dengan "kontrak manajemen" adalah statement of corporate intent (SCI), antara lain memenuhi segala target yang disepakati antara pemegang saham, Dewan Komisaris, dan Direksi. Kontrak manajemen tersebut dapat diperbaharui setiap tahun untuk disesuaikan dengan kondisi dan perkembangan perusahaan. Ayat (2) Cukup jelas. Angka 32 Pasal 15G Ayat (1) Cukup jelas.
 ```
 
 - memuat janji atau pernyataan Direksi untuk Ayat (2) Rencana kerja jangka panjang memuat antara lain: a. evaluasi pelaksanaan rencana kerja sebelumnya; b. posisi perusahaan saat ini; c. asumsi-asumsi yang dipakai dalam penJrusunan; d. misi Persero, sasaran usaha, strategi usaha, kebijakan perusahaan, dan program kerja; e. anggErran perusahaan yang dirinci atas setiap anggaran program kerja; dan f. proyeksi keuangan Persero. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat(s)...
@@ -166,16 +178,21 @@ Angka 31 Pasal 15C Ayat (1) Yang dimaksud dengan "kontrak manajemen" adalah stat
 Dalam kedudukannya selaku RUPS, pengangkatan dan pemberhentian cukup dilakukan dengan keputusan kepala BP BUMN. Keputusan kepala BP BUMN tersebut mempunyai kekuatan hukum yang sama dengan keputusan yang diambil secara
 
 ```
-Angka 35 Pasal2TB Huruf a Cukup jelas. Huruf b Yang dimaksud dengan "jabatan lain" termasuk
+Angka 35
+
+Pasal 2TB Huruf a Cukup jelas. Huruf b Yang dimaksud dengan "jabatan lain" termasuk
 ```
 
 ```
-Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Angka 33 Pasal 15I Cukup jelas. Angka 34 Pasal 27 Ayat (1) Cukup jelas. Ayat (21 sah dalam RUPS. menteri dan wakil menteri.
+Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Angka 33
+
+Pasal 151
+Cukup jelas. Angka 34 Pasal 27 Ayat (1) Cukup jelas. Ayat (21 sah dalam RUPS. menteri dan wakil menteri.
 ```
 
 Angka 36
 
-Pasal2TC
+Pasal 2TC
 
 Ayat (1)
 
@@ -186,7 +203,10 @@ Ayat (2)
 Cukup jelas.
 
 ```
-Angka 37 Pasal 35 Cukup jelas. Angka 38 Pasal 37 Cukup jelas. Angka 39 Pasal 38 Ayat (1)
+Angka 37
+
+Pasal 35
+Cukup jelas. Angka 38 Pasal 37 Cukup jelas. Angka 39 Pasal 38 Ayat (1)
 ```
 
 Kepala BP BUMN sebagai perwakilan pemilik modal Perum memberikan persetujuan atas kebijakan pengembangan Perum yang bertqiuan menetapkan arah dalam mencapai tujuan perusahaan baik menyangkut kebijakan investasi, pembiayaan usaha, sumber pembiayaannya, penggunaan hasil usaha perusahaan, dan kebijakan pengembangan lainnya. Mengingat Dewan Pengawas akan mengawasi pelaksanaan kebijakan tersebut, usulan Direksi Perum kepada kepala BP BUMN harus didahului dengan persetujuan dari Dewan Pengawas.

@@ -17,22 +17,19 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-kewenanganrrya ["men5rusun ]rencana tahunan dan menyediakan alokasi anggaran program kemudahan, pelindungan, dan pemberciayaan usaha Koperasi.
+**(1) Koperasi primer dibentuk paling sedikit oleh 9**
 
-(3) Alokasi...
+**(sembilan) orang. (21 Koperasi sekunder dibentuk paling sedikit oleh 3 (tiga)**
+ Koperasi.
+
+Pasal
 
 -----
 
-PRES [I ]DEN
+PRES IDEN
 REPUBLIK INDONESIA
 
-**-t7-**
-
-**(3) Alokasi anggaran sebagaimana dimaksud pada ayat (21**
-
-**bersumber dari:**
-**a. anggaran pendapatan dan belanja negara; b. anggaran pendapatan dan belanja daerah; dan c. sumber iain yang sah dan tidak mengikat sesuai**
-**clengan ketentuan peraturan perundang- undangan.**
+**-5-**
 
 ## Penjelasan Resmi
 

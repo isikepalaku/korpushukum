@@ -19,7 +19,10 @@ mengamandemen: []
 
 Perusahaan wajib memiliki rasio pemberian Pinjaman
 dengan Benda Jaminan berdasarkan hukum Gadai
-sebagaimana dimaksud dalam Pasal 136 ayat (1) paling
+sebagaimana dimaksud dalam
+
+Pasal 136
+ayat (1) paling
 sedikit 51% (lima puluh satu persen) terhadap total
 Pinjaman.
 

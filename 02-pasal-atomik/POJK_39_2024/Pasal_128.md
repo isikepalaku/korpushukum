@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam hal jangka waktu pelaksanaan Likuidasi
-sebagaimana dimaksud dalam Pasal 111 ayat (1) dan
+sebagaimana dimaksud dalam
+
+Pasal 111
+ayat (1) dan
 ayat (2) akan berakhir, paling lambat 3 (tiga) bulan
 sebelum perkiraan berakhirnya pelaksanaan likuidasi
 Tim Likuidasi wajib mengumumkan:

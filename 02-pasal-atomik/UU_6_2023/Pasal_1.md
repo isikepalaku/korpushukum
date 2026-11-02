@@ -4,14 +4,13 @@ uu_induk: Cipta Kerja
 kode_uu: UU_6_2023
 pasal: '1'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
 status_berlaku: diubah
 diamandemen_oleh:
 - '[[02-pasal-atomik/UU_2_2025/Pasal_1|UU 2/2025 Pasal 1]]'
-- '[[02-pasal-atomik/UU_3_2024/Pasal_1|UU 3/2024 Pasal 1]]'
 - '[[02-pasal-atomik/UU_63_2024/Pasal_1|UU 63/2024 Pasal 1]]'
 mengamandemen:
 - '[[02-pasal-atomik/UU_21_2008/Pasal_1|UU 21/2008 Pasal 1]]'
@@ -30,3 +29,11 @@ Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Ke
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 2
+
+Pasal 4A
+
+Cukup jelas.
+
+Angka 3

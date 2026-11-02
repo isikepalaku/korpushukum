@@ -20,7 +20,9 @@ mengamandemen: []
 (1) Menteri menyerahkan daftar Koperasi yang telah
 menjalankan kegiatan usaha dan memenuhi kriteria
 Koperasi yang melaksanakan kegiatan di dalam sektor
-jasa keuangan sebagaimana dimaksud dalam Pasal 2
+jasa keuangan sebagaimana dimaksud dalam
+
+Pasal 2
 ayat (2) kepada Otoritas Jasa Keuangan untuk dapat
 ditindaklanjuti sesuai dengan ketentuan peraturan
 perundang-undangan di sektor lembaga jasa

@@ -40,8 +40,7 @@ REPUBLIK lNDONESIA
  Bagian Kesatu
  Insentif Kemitraan
 
- Pasal 1O2
-
+ Pasal 102
 (1) Pemerintah Pusat d'an Pemerintah Daerah
 
 **memberikan insentif dan kemudahan berusaha dalam rangka kemitraan usaha Menengah dan usah3" besar denlan Koperasi, Usaha Mikro, dan Usaha Kecil sesuai den[an keientuan peraturan perundang-undangan'**
@@ -117,8 +116,6 @@ memperoleh pembiayaan; dan/ atau
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal t02
+**Cukup [jelas.]**Pasal t02
 
 **Cukup jelas.**

@@ -22,7 +22,10 @@ Dalam mengajukan permohonan Hak Akses bagi bentuk
 
 korporasi dengan bidang usaha lainnya sebagaimana
 
-dimaksud dalam Pasal 3 ayat (3) huruf c, Pemohon mengisi
+dimaksud dalam
+
+Pasal 3
+ayat (3) huruf c, Pemohon mengisi
 
 formulir permohonan Hak Akses yang paling sedikit memuat:
 

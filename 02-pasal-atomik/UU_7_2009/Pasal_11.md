@@ -78,8 +78,7 @@ Ketentuan lebih lanjut yang diatur dalam Peraturan Lembaga
 Penjamin Simpanan antara lain adalah nilai simpanan dan
 perhitungan bunganya, serta hak dan kapasitas nasabah.
 
-Pasal II
-
+Pasal 11
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4902

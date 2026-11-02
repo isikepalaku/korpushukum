@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemberian fasilitas penyelesaian pengaduan yang dilaksanakan oleh Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 41 merupakan upaya mempertemukan Konsumen dan Pelaku Usaha Jasa Keuangan untuk mengkaji ulang permasalahan secara mendasar dalam rangka memperoleh kesepakatan penyelesaian.
+Pemberian fasilitas penyelesaian pengaduan yang dilaksanakan oleh Otoritas Jasa Keuangan sebagaimana dimaksud dalam
+
+Pasal 41
+merupakan upaya mempertemukan Konsumen dan Pelaku Usaha Jasa Keuangan untuk mengkaji ulang permasalahan secara mendasar dalam rangka memperoleh kesepakatan penyelesaian.
 
 ## Penjelasan Resmi
 

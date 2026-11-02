@@ -17,18 +17,41 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-denda sebesar Rp100.000,00 (seratus ribu rupiah) per hari
-kerja dan paling banyak Rp5.000.000,00 (lima juta
-rupiah).
-(6) Pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (5) tidak menghilangkan kewajiban
-penyampaian laporan atau bukti pengumumam bagi BPR
-atau BPR Syariah yang belum menyampaikan laporan
-atau bukti pengumuman.
-(7) BPR atau BPR Syariah yang tidak memenuhi ketentuan
-sebagaimana dimaksud dalam Pasal 58 ayat (3), Pasal 64
-ayat (3), Pasal 67 ayat (3), Pasal 71 ayat (3), Pasal 73 ayat
-(2), Pasal 76 ayat (3), Pasal 77 ayat (2), Pasal 78 ayat (2),
+(1) Izin pembukaan Kantor Wilayah, Kantor Cabang,
+dan/atau Sentra Keuangan Khusus yang sebelumnya
+diberikan menjadi tidak berlaku terhitung sejak tanggal
+persetujuan penutupan kantor.
+(2) BPR atau BPR Syariah wajib:
+a. mengumumkan penutupan Kantor Wilayah, Kantor
+Cabang, dan/atau Sentra Keuangan Khusus melalui:
+
+-----
+
+1. papan pengumuman di kantor BPR atau BPR
+Syariah; dan
+2. surat kabar harian lokal, media massa
+elektronik, dan/atau situs web BPR atau BPR
+Syariah,
+paling lama 10 (sepuluh) hari kerja; dan
+b. melaksanakan penutupan Kantor Wilayah, Kantor
+Cabang, dan/atau Sentra Keuangan Khusus paling
+lama 20 (dua puluh) hari kerja,
+setelah tanggal persetujuan OJK.
+(3) BPR atau BPR Syariah wajib menyampaikan laporan
+pelaksanaan penutupan Kantor Wilayah, Kantor Cabang,
+dan/atau Sentra Keuangan Khusus secara daring melalui
+sistem pelaporan OJK pada periode laporan tanggal
+pelaksanaan penutupan kantor, disertai dengan bukti
+pengumuman sebagaimana dimaksud pada ayat (2) huruf
+a.
+(4) Dalam hal sistem pelaporan OJK secara daring belum
+tersedia, BPR atau BPR Syariah wajib menyampaikan
+laporan sebagaimana dimaksud pada ayat (3) secara luring
+paling lama 10 (sepuluh) hari kerja setelah tanggal
+pelaksanaan penutupan kantor.
+
+Paragraf 2
+Penutupan Kantor Kas
 
 ## Penjelasan Resmi
 
@@ -43,4 +66,7 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 
-Lihat penjelasan Pasal 64 ayat (4).
+Lihat penjelasan
+
+Pasal 64
+ayat (4).

@@ -29,7 +29,9 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2), dan belum memenuhi ketentuan sebagaimana
 
-dimaksud dalam Pasal 20 ayat (2) dan/atau Pasal 21,
+dimaksud dalam Pasal 20 ayat (2) dan/atau
+
+Pasal 21,
 
 Bank BHI dikenai sanksi administratif berupa:
 
@@ -45,7 +47,9 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2) dan melanggar ketentuan sebagaimana dimaksud
 
-dalam Pasal 20 ayat (2), Pasal 21, ayat (2), dan/atau
+dalam Pasal 20 ayat (2),
+
+Pasal 21, ayat (2), dan/atau
 
 ayat (3), PSP, Direksi, Dewan Komisaris, dan/atau
 

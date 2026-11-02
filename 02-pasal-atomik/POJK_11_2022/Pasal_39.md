@@ -17,29 +17,89 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-berupa:
+(1) Bank wajib menyelenggarakan pemrosesan transaksi
 
-a. larangan untuk menerbitkan produk Bank baru;
+berbasis TI di wilayah Indonesia.
 
-b. pembekuan kegiatan usaha tertentu; dan/atau
+(2) Pemrosesan transaksi berbasis TI dapat dilakukan
 
-c. penurunan penilaian faktor tata kelola dalam
+oleh pihak penyedia jasa TI di wilayah Indonesia.
 
-penilaian tingkat kesehatan Bank.
+(3) Penyelenggaraan pemrosesan transaksi berbasis TI
+
+oleh pihak penyedia jasa TI sebagaimana dimaksud
+
+pada ayat (2) dapat dilakukan sepanjang:
+
+a. memenuhi prinsip kehati-hatian;
+
+b. memenuhi ketentuan sebagaimana dimaksud
+
+dalam Pasal 29 dan
+
+Pasal 30; dan
+
+c. memperhatikan aspek perlindungan nasabah.
+
+(4) Pemrosesan transaksi berbasis TI oleh pihak penyedia
+
+jasa TI di luar wilayah Indonesia dapat dilakukan
+
+sepanjang Bank memperoleh izin dari Otoritas Jasa
+
+Keuangan.
+
+(5) Bank dapat mengajukan permohonan izin
+
+sebagaimana dimaksud pada ayat (4) sepanjang:
+
+a. Bank memenuhi persyaratan sebagaimana
+
+dimaksud pada ayat (3);
+
+b. dokumen pendukung administrasi keuangan atas
+
+transaksi yang dilakukan di kantor Bank di
+
+Indonesia ditatausahakan di kantor Bank di
+
+Indonesia; dan
+
+c. rencana bisnis Bank menunjukkan adanya upaya
+
+untuk meningkatkan peran Bank bagi
+
+perkembangan perekonomian Indonesia.
+
+(6) Otoritas Jasa Keuangan memberikan izin atau
+
+menolak permohonan izin pemrosesan transaksi
 
 **t id**
 
 -----
 
-BAB VIII
+berbasis TI oleh pihak penyedia jasa TI di luar wilayah
 
-PENGELOLAAN DATA DAN PELINDUNGAN DATA PRIBADI
+Indonesia sebagaimana dimaksud pada ayat (4) paling
 
-DALAM PENYELENGGARAAN TI BANK
+lama 3 (tiga) bulan setelah seluruh persyaratan
 
-Bagian Kesatu
+dipenuhi oleh Bank dan dokumen permohonan
 
-Pengelolaan Data oleh Bank
+diterima secara lengkap oleh Otoritas Jasa Keuangan.
+
+(7) Ketentuan lebih lanjut mengenai pemrosesan
+
+transaksi berbasis TI ditetapkan oleh Otoritas Jasa
+
+Keuangan.
+
+Bagian Ketiga
+
+Tata Cara Permohonan Izin dan Batas Waktu
+
+Pelaksanaan Setelah Memperoleh Izin
 
 ## Penjelasan Resmi
 

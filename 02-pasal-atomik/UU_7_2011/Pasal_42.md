@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Rupiah kertas dengan ciri umum sebagaimana dimaksud
-dalam Pasal 5 ayat (1) mulai berlaku, dikeluarkan, dan
+dalam
+
+Pasal 5
+ayat (1) mulai berlaku, dikeluarkan, dan
 diedarkan pada tanggal 17 Agustus 2014.
 
 ## Penjelasan Resmi

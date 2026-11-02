@@ -22,6 +22,15 @@ mengamandemen: []
 Nomor 76, Tambahan Lembaran Negara Republik Indonesia
 Nomor 3209) dicabut dan dinyatakan tidak berlaku.
 
+Pasal 363...
+
+-----
+
+iITIiFITEtrN
+REFUBLIK INDONESIA
+
+**-183-**
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

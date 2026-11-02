@@ -17,13 +17,41 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-a. larangan untuk menerbitkan produk Bank baru;
+(1) Bank wajib memiliki pedoman audit intern atas
 
-b. pembekuan kegiatan usaha tertentu; dan/atau
+penyelenggaraan TI.
 
-c. penurunan penilaian faktor tata kelola dalam
+(2) Bank wajib melakukan kaji ulang terhadap fungsi
 
-penilaian tingkat kesehatan Bank.
+audit intern atas penyelenggaraan TI paling
+
+sedikit 1 (satu) kali dalam 3 (tiga) tahun dengan
+
+menggunakan jasa pihak ekstern yang independen.
+
+(3) Bank wajib menyampaikan kepada Otoritas Jasa
+
+Keuangan:
+
+**t id**
+
+-----
+
+a. hasil kaji ulang sebagaimana dimaksud pada
+
+ayat (2) sebagai bagian dari laporan hasil kaji
+
+ulang pihak ekstern yang independen; dan
+
+b. hasil audit intern TI sebagai bagian dari laporan
+
+pelaksanaan dan pokok-pokok hasil audit intern,
+
+sesuai dengan Peraturan Otoritas Jasa Keuangan
+
+mengenai penerapan fungsi audit intern bagi bank
+
+umum.
 
 ## Penjelasan Resmi
 

@@ -35,7 +35,10 @@ Angka2T Pasal 60 Dihapus. Angka 28 Pasal 67 Cukup jelas. Angla29 Pasal 68 Cukup 
 ```
 
 ```
-Angka 35 Pasal 74 Dihapus. Pasal 42 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 3 Ayat (1) Mengingat Tenaga Listrik merupalan salah satu cabang produksi yang penting dan strategis dalam kehidupan nasional, Usaha Penyediaan Tenaga Listrik dikuasai oleh negara yang dalam penyelenggaraannya ditqiukan untuk sebesar-besarnya bagi kepentingan dan kemakmuran rakyat. Ayat (21 Cukup jelas. Angka 3 Pasal 4 Ayat (1) Badan usaha milik negara dalam ketentuan ini adalah yang berusaha di bidang penyediaan Tenaga Listrik. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
+Angka 35
+
+Pasal 74
+Dihapus. Pasal 42 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 3 Ayat (1) Mengingat Tenaga Listrik merupalan salah satu cabang produksi yang penting dan strategis dalam kehidupan nasional, Usaha Penyediaan Tenaga Listrik dikuasai oleh negara yang dalam penyelenggaraannya ditqiukan untuk sebesar-besarnya bagi kepentingan dan kemakmuran rakyat. Ayat (21 Cukup jelas. Angka 3 Pasal 4 Ayat (1) Badan usaha milik negara dalam ketentuan ini adalah yang berusaha di bidang penyediaan Tenaga Listrik. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
 ```
 
 Angka 4

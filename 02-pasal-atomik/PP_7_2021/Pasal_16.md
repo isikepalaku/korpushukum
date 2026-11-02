@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Koperasi syariah yang menjalankan fungsi sosial dalam bentuk baitul maal sebagaimana dimaksud dalam Pasal 14 ayat (3) atau Koperasi yang melaksanakan usaha simpan pinjam dan pembiayaan syariah yang menjalankan fungsi sosial dalam bentuk baitul maal sebagaimana dimaksud dalam Pasal 15 ayat (3), melaporkan pelaksanaan fungsi sosial kepada Kementerian danf atau kementerian yang
+Koperasi syariah yang menjalankan fungsi sosial dalam bentuk baitul maal sebagaimana dimaksud dalam Pasal 14 ayat (3) atau Koperasi yang melaksanakan usaha simpan pinjam dan pembiayaan syariah yang menjalankan fungsi sosial dalam bentuk baitul maal sebagaimana dimaksud dalam
+
+Pasal 15
+ayat (3), melaporkan pelaksanaan fungsi sosial kepada Kementerian danf atau kementerian yang
 menyelenggarakan urusan pemerintahan di bidang agama,
 **Badan Amil Zakat Nasional, dan Badan Wakaf Indonesia.**
 

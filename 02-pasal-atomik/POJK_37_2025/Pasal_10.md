@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PPDP yang memenuhi kriteria sebagaimana dimaksud
-dalam Pasal 8 dapat tidak ditetapkan pada status
+dalam
+
+Pasal 8
+dapat tidak ditetapkan pada status
 pengawasan khusus dalam jangka waktu tertentu oleh
 Otoritas Jasa Keuangan, jika PPDP:
 a. dalam proses penggabungan, peleburan,
@@ -55,7 +58,10 @@ Ayat (1)
 
 Huruf a
 
-Lihat penjelasan Pasal 6 ayat (1) huruf a.
+Lihat penjelasan
+
+Pasal 6
+ayat (1) huruf a.
 Huruf b
 
 Cukup jelas.
@@ -64,7 +70,10 @@ Huruf c
 Cukup jelas.
 Ayat (2)
 
-Lihat penjelasan Pasal 6 ayat (2).
+Lihat penjelasan
+
+Pasal 6
+ayat (2).
 Ayat (3)
 
 Cukup jelas.

@@ -17,7 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-FRESIDEN REPUELIK TNDONESIA
+Penyelenggara Sistem Elektronik harus menjamin berfungsinya Sistem Elektronik sesuai dengan peruntukannya, dengan tetap memperhatikan interoperabilitas dan kompatibilitas dengan Sistem Elektronik sebelumnya dan/atau Sistem Elektronik yang terkait.
 
 ## Penjelasan Resmi
 

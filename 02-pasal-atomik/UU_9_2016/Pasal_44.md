@@ -23,6 +23,12 @@ Program Restrukturisasi Perbankan kepada Presiden melalui
 Komite Stabilitas Sistem Keuangan 1 (satu) kali setiap 1 (satu)
 bulan atau sewaktu-waktu jika diperlukan.
 
+Pasal 45 . . .
+
+-----
+
+ - 29
+
 ## Penjelasan Resmi
 
 Pelaporan sewaktu-waktu dilakukan atas permintaan Presiden,

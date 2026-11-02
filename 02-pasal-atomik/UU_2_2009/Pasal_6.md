@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pembiayaan sebagaimana dimaksud dalam Pasal 5 ayat (1)
+Pembiayaan sebagaimana dimaksud dalam
+
+Pasal 5
+ayat (1)
 huruf a diberikan dalam bentuk pembiayaan modal kerja
 dan/atau investasi.
 

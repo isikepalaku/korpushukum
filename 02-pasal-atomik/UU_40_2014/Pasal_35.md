@@ -64,7 +64,10 @@ DAN REASURANSI SYARIAH DALAM [NEGERI]
 Pemegang Polis, Tertanggung, atau Peserta.
 **Ayat (2)**
  Ketentuan ini dimaksudkan untuk menegaskan konsep pertanggungan bersama dan berbagi risiko antaranggota, dan menghindari adanya anggota yang hanya menjadi pemodal bagi usaha asuransi yang dijalankan oleh Perusah.ran Asur.rnsi dan Perusahaan Asuransi Syariah berbentuk koperasi atau usaha bersama
-sebagaimana dimaksud dalam Pasal 6 ayat (l) hurufc.
+sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (l) hurufc.
 **Ayat (3)**
  Ketentuan ini juga dimaksudkal untuk menegaskan konsep pertanggungan bersama dan berbagi risiko antaranggota, dan menghindari adanya anggota yang hanya menjadi pemodal Ayat (4)
  Cukup [jelas.] Ayat (5)

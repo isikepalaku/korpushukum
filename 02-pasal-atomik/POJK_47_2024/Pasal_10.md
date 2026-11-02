@@ -21,7 +21,10 @@ mengamandemen: []
 LKM yang diajukan oleh Koperasi yang memilih menjadi
 LJK, Otoritas Jasa Keuangan berwenang untuk
 memberikan pengecualian sementara atas pemenuhan
-persyaratan sebagaimana dimaksud dalam Pasal 7 ayat
+persyaratan sebagaimana dimaksud dalam
+
+Pasal 7
+ayat
 (2) sebagai berikut:
 a. memiliki rasio piutang pinjaman atau pembiayaan
 bermasalah dibandingkan dengan jumlah
@@ -115,8 +118,14 @@ sesuai dengan ketentuan peraturan perundangundangan.
 (9) Dalam rangka penguatan dan pengembangan sektor
 jasa keuangan, pemberian izin usaha sebagaimana
 dimaksud pada ayat (3) dan sebagaimana dimaksud
-dalam Pasal 8 ayat (7), penolakan izin usaha
-sebagaimana dimaksud dalam Pasal 8 ayat (8), dan
+dalam
+
+Pasal 8
+ayat (7), penolakan izin usaha
+sebagaimana dimaksud dalam
+
+Pasal 8
+ayat (8), dan
 pencabutan izin usaha sebagaimana dimaksud pada
 ayat (4) dapat dilakukan oleh Otoritas Jasa Keuangan
 dengan mempertimbangkan hal lain di luar persyaratan

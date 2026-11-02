@@ -17,7 +17,12 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+Perusahaan Asuransi dan Perusahaan Asuransi Syariah
+yang memasarkan Produk Asuransi kumpulan wajib
+memastikan bahwa Tertanggung/Peserta memiliki
+hubungan kepentingan dengan Pemegang Polis dan/atau
+penerima manfaat atas objek, manfaat, atau risiko yang
+dipertanggungkan dalam Produk Asuransi kumpulan.
 
 ## Penjelasan Resmi
 

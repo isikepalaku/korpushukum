@@ -4,7 +4,7 @@ judul: "Map of Content - HALAMAN 1"
 kode_uu: JUKRAH_1_2021
 type: moc
 tags: [moc, hukum/umum, uu/jukrah_1_2021]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # HALAMAN 1 (JUKRAH_1_2021)

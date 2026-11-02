@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penyelenggara Sistem Elektronik yang melakukan proses sebagaimana dimaksud dalam Pasal 3 wajib menyediakan formulir persetujuan dalam Bahasa Indonesia untuk meminta Persetujuan dari Pemilik Data Pribadi yang dimaksud. 
+Penyelenggara Sistem Elektronik yang melakukan proses sebagaimana dimaksud dalam
+
+Pasal 3
+wajib menyediakan formulir persetujuan dalam Bahasa Indonesia untuk meminta Persetujuan dari Pemilik Data Pribadi yang dimaksud. 
 
 ## Bagian Kedua 
 

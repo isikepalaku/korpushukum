@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan pemberian Lisensi-wajib sebagaimana dimaksud dalam Pasal 81 ayat (4) dan Pasal 84 ayat (1) huruf b dikecualikan dalam hal terdapat putusan Komisi Pengawas Persaingan Usaha yang telah mempunyai kekuatan hukum tetap bahwa pelaksanaan Paten terbukti dan/atau mengakibatkan praktik monopoli dan persaingan usaha tidak sehat.
+Ketentuan pemberian Lisensi-wajib sebagaimana dimaksud dalam
+
+Pasal 81
+ayat (4) dan Pasal 84 ayat (1) huruf b dikecualikan dalam hal terdapat putusan Komisi Pengawas Persaingan Usaha yang telah mempunyai kekuatan hukum tetap bahwa pelaksanaan Paten terbukti dan/atau mengakibatkan praktik monopoli dan persaingan usaha tidak sehat.
 
 36. Pasal 85 dihapus,
 37. Pasal 93 dihapus.

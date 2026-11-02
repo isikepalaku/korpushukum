@@ -19,7 +19,10 @@ mengamandemen: []
 
 Perusahaan yang memberikan Pinjaman dengan Benda
 Jaminan berdasarkan hukum Gadai sebagaimana dimaksud
-dalam Pasal 136 ayat (1) dilarang untuk:
+dalam
+
+Pasal 136
+ayat (1) dilarang untuk:
 a. menggunakan Benda Jaminan;
 b. menyimpan Benda Jaminan di tempat Nasabah;
 c. memiliki Benda Jaminan; dan/atau

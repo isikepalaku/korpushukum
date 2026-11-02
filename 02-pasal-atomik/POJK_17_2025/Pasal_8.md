@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara berbentuk badan hukum perseroan
-terbatas sebagaimana dimaksud dalam Pasal 7 huruf a
+terbatas sebagaimana dimaksud dalam
+
+Pasal 7
+huruf a
 dapat didirikan dan dimiliki oleh:
 a. warga negara Indonesia dan/atau badan hukum
 Indonesia; dan/atau

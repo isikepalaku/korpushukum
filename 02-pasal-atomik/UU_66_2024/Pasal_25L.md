@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Mahkamah Pelayaran sebagaimana dimaksud dalam Pasal 25O memiliki fungsi:
+Mahkamah Pelayaran sebagaimana dimaksud dalam
+
+Pasal 250
+memiliki fungsi:
 
 - a. melaksanakan pemeriksaan lanjutan atas kecelakaan Kapal;
 - b. menegakkan kode etik profesi dan kompetensi Nakhoda danlatau perwira Kapal;

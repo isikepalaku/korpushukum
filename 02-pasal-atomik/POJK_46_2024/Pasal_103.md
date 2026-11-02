@@ -18,50 +18,30 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sampai dengan paling lama 30 hari kalender
-setelah batas waktu.
-(7) Perusahaan Pembiayaan yang tidak
-menyampaikan laporan sebagaimana dimaksud
-pada ayat (6) dikenai sanksi administratif sebesar
-Rp50.000.000,00 (lima puluh juta rupiah) per
-laporan.
-(8) Dalam hal Perusahaan Pembiayaan dan UUS telah
-memenuhi ketentuan sebagaimana dimaksud
-pada ayat (1), Otoritas Jasa Keuangan mencabut
-sanksi administratif.
-(9) Dalam hal terjadi pelanggaran ketentuan
-sebagaimana dimaksud pada ayat (1) namun
-pelanggaran telah diperbaiki, Otoritas Jasa
-Keuangan memberikan sanksi administratif
-berupa peringatan tertulis yang berakhir dengan
-sendirinya.
-(10) Selain sanksi administratif sebagaimana dimaksud
+(1) Perusahaan Pembiayaan wajib menyampaikan
+laporan berkala kepada Otoritas Jasa Keuangan,
+berupa:
+a. laporan bulanan; dan
+b. laporan keuangan tahunan yang telah diaudit
+oleh akuntan publik.
+(2) Perusahaan pembiayaan wajib mengukur,
+mengakui, dan menyajikan serta mengungkapkan
+transaksi dengan pihak terafiliasi yang memenuhi
+kriteria signifikansi tertentu dan transaksi
+tersebut didasarkan dengan nilai wajar pada
+laporan sebagaimana dimaksud pada ayat (1).
+(3) Bagi Perusahaan Pembiayaan yang memiliki UUS,
+laporan keuangan tahunan yang telah diaudit oleh
+akuntan publik sebagaimana dimaksud pada ayat
+(1) huruf b wajib memuat informasi mengenai
+laporan posisi keuangan dan laporan laba rugi
+UUS.
+(4) Ketentuan mengenai laporan bulanan
+sebagaimana dimaksud pada ayat (1) huruf a
+diatur dalam Peraturan Otoritas Jasa Keuangan
+mengenai laporan bulanan.
 
-pada ayat (1), Otoritas Jasa Keuangan berwenang:
-a. menurunkan hasil penilaian Tingkat
-Kesehatan;
-b. melakukan penilaian kembali terhadap pihak
-utama yang menyebabkan Perusahaan
-melanggar ketentuan sebagaimana dimaksud
-pada ayat (1); dan/atau
-c. melakukan pencatatan rekam jejak terhadap
-pihak terkait Perusahaan yang menyebabkan
-Perusahaan Pembiayaan melanggar
-ketentuan sebagaimana dimaksud pada ayat
-
------
-
-(1) dalam sistem elektronik Otoritas Jasa
-Keuangan.
-
-62. Ketentuan Pasal 114 dihapus.
-
-63. Ketentuan Pasal 115 dihapus.
-
-64. Ketentuan Pasal 116 dihapus.
-
-65. Di antara Pasal 116 dan Pasal 117 disisipkan 1 (satu)
-pasal, yakni Pasal 116A sehingga berbunyi sebagai
+55. Ketentuan Pasal 104 diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -81,3 +61,5 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
+
+Angka 55

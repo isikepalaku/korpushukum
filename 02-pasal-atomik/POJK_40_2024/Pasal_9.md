@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 3 ayat (6) huruf a, Pasal 4 ayat
+dimaksud dalam Pasal 3 ayat (6) huruf a,
+
+Pasal 4
+ayat
 (1), ayat (2), ayat (3), ayat (4), ayat (6), dan/atau Pasal 8
 ayat (1) dikenai sanksi administratif berupa:
 a. peringatan tertulis;
@@ -31,7 +34,10 @@ f. larangan menjadi PSP, Direksi, Dewan Komisaris,
 dan/atau DPS; dan/atau
 g. denda administratif.
 (2) Pihak yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 5 ayat (1) dan Pasal 6 ayat (1)
+dimaksud dalam Pasal 5 ayat (1) dan
+
+Pasal 6
+ayat (1)
 dikenai sanksi administratif berupa:
 a. peringatan tertulis; dan/atau
 b. larangan menjadi PSP, Direksi, Dewan Komisaris,

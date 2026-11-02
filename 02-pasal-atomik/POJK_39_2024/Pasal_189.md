@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Perusahaan yang akan melakukan penerbitan efek
 bersifat utang tidak melalui penawaran umum
-sebagaimana dimaksud dalam Pasal 182 ayat (1) huruf
+sebagaimana dimaksud dalam
+
+Pasal 182
+ayat (1) huruf
 e wajib melaporkan rencana penerbitan efek paling
 lambat 2 (dua) bulan sebelum penerbitan.
 (2) Pelaporan rencana penerbitan efek bersifat utang tidak

@@ -19,7 +19,9 @@ mengamandemen: []
 
 Berdasarkan pengelompokan bank menjadi 4 (empat) KBMI
 
-sebagaimana dimaksud dalam Pasal 147, dilakukan
+sebagaimana dimaksud dalam
+
+Pasal 147, dilakukan
 
 penyesuaian terhadap ketentuan:
 

@@ -20,9 +20,10 @@ mengamandemen: []
 
 (1) LPS menjatuhkan sanksi administratif pada bank yang
 
- melanggar ketentuan sebagaimana dimaksud dalam Pasal
+ melanggar ketentuan sebagaimana dimaksud dalam
 
- 9 huruf c dan huruf d.
+Pasal 9
+huruf c dan huruf d.
 
  (2) Sanksi administratif sebagaimana dimaksud pada ayat (1)
 
@@ -34,7 +35,10 @@ mengamandemen: []
 
  a. terhadap pelanggaran ketentuan sebagaimana
 
- dimaksud dalam Pasal 9 huruf c, ditetapkan paling
+ dimaksud dalam
+
+Pasal 9
+huruf c, ditetapkan paling
 
  tinggi 150% (seratus lima puluh perseratus) dari jumlah
 
@@ -46,7 +50,10 @@ mengamandemen: []
 
 **b. terhadap pelanggaran ketentuan sebagaimana**
 
- dimaksud dalam Pasal 9 huruf d, dikenakan denda
+ dimaksud dalam
+
+Pasal 9
+huruf d, dikenakan denda
 
  Rp1.000.000,00 (satu juta rupiah) per hari keterlambatan
 

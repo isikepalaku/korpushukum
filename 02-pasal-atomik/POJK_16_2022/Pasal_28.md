@@ -17,10 +17,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-administratif berupa teguran tertulis.
-(2) Dalam hal Bank telah dikenai sanksi administratif
-sebagaimana dimaksud pada ayat (1), dan tetap
-melanggar ketentuan sebagaimana dimaksud dalam
+Bank Digital wajib mengembangkan ekosistem keuangan
+digital dan/atau inklusi keuangan syariah sebagaimana
+dimaksud dalam
+
+Pasal 23
+ayat (1) huruf f berdasarkan
+prinsip kehati-hatian dan memperhatikan asas pengelolaan
+perbankan yang sehat.
+
+-----
 
 ## Penjelasan Resmi
 

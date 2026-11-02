@@ -41,3 +41,5 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Dihapus.
+
+Angka 18

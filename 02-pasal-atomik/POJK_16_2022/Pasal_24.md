@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bank Digital sebagaimana dimaksud dalam Pasal 22 dapat
+Bank Digital sebagaimana dimaksud dalam
+
+Pasal 22
+dapat
 beroperasi melalui:
 a. pendirian Bank baru sebagai Bank Digital; atau
 b. transformasi dari Bank menjadi Bank Digital.

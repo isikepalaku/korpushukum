@@ -22,7 +22,10 @@ Komisaris yang disetujui Otoritas Jasa Keuangan
 diangkat oleh rapat umum pemegang saham dalam
 jangka waktu paling lama 6 (enam) bulan sejak tanggal
 surat persetujuan hasil penilaian kemampuan dan
-kepatutan sebagaimana dimaksud dalam Pasal 49 ayat
+kepatutan sebagaimana dimaksud dalam
+
+Pasal 49
+ayat
 (4).
 (2) Dalam hal telah dilakukan pengangkatan calon anggota
 Direksi dan calon anggota Dewan Komisaris oleh rapat

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Izin usaha dan/atau Izin Jaringan Pelayanan
-sebagaimana dimaksud dalam Pasal 89 ayat (2) huruf a
+sebagaimana dimaksud dalam
+
+Pasal 89
+ayat (2) huruf a
 paling sedikit meliputi perizinan usaha simpan pinjam
 berbasis Risiko, dan Jaringan Pelayanan Kantor
 Cabang/Kantor Cabang Pembantu/Kantor Kas.

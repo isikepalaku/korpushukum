@@ -68,6 +68,8 @@ perundang-undangan.
 sebagaimana dimaksud pada ayat (3) dan prioritas
 pembentukannya diatur dengan Peraturan Pemerintah.
 
+Pasal 9 . . .
+
 ## Penjelasan Resmi
 
 Cukup jelas

@@ -8,9 +8,8 @@ substantive_explanation: false
 tags:
 - hukum/siber
 - uu/uu_19_2016
-status_berlaku: diubah
-diamandemen_oleh:
-- '[[02-pasal-atomik/UU_1_2024/Pasal_45B|UU 1/2024 Pasal 45B]]'
+status_berlaku: berlaku
+diamandemen_oleh: []
 mengamandemen: []
 ---
 
@@ -18,10 +17,12 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang dengan sengaja dan tanpa hak mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik yang berisi ancaman kekerasan atau menakut-nakuti yang ditujukan secara pribadi sebagaimana dimaksud dalam Pasal 29 dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau denda paling banyak Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah).
+Setiap Orang yang dengan sengaja dan tanpa hak mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik yang berisi ancaman kekerasan atau menakut-nakuti yang ditujukan secara pribadi sebagaimana dimaksud dalam
 
-## Pasal II
+Pasal 29
+dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau denda paling banyak Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah).
 
+## Pasal 11
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.

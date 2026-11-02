@@ -45,6 +45,24 @@ a. melakukan ...
 - c. melakukan usaha lain di luar kegiatan usaha sebagaimana dimaksud dalam Pasal 6 dan Pasal 7.
 7. Ketentuan Pasal 12A diubah sehingga berbunyi sebagai berikut:
 
+**Pasal 12A**
+
+- (1) Bank Umum dapat membeli sebagian atau seluruh Agunan, baik melalui pelelangan maupun di luar pelelangan berdasarkan penyerahan secara sukarela oleh pemilik Agunan atau berdasarkan kuasa untuk menjual di luar pelelangan dari pemilik Agunan dalam hal Nasabah Debitur tidak memenuhi kewajiban kepada Bank, dengan ketentuan Agunan yang dibeli wajib dicairkan secepatnya.
+- (2) Dalam hal Nasabah Debitur tidak memenuhi kewajibannya sebagaimana dimaksud pada ayat (1) dalam jangka waktu tertentu, dan tidak terdapat permasalahan terhadap kepemilikan Agunan, Bank Umum dapat membeli sebagian atau seluruh Agunan, baik melalui pelelangan maupun di luar pelelangan.
+- (3) Bank Umum harus memperhitungkan harga pembelian Agunan sebagaimana dimaksud pada ayat (1) dan ayat (2) dengan kewajiban Nasabah Bank Umum yang bersangkutan.
+- (4) Dalam hal harga pembelian Agunan sebagaimana dimaksud pada ayat (3) melebihi jumlah kewajiban Nasabah kepada Bank Umum, selisih kelebihan jumlah tersebut harus dikembalikan kepada Nasabah setelah dikurangi dengan biaya lelang dan biaya lain yang langsung terkait dengan proses pembelian Agunan.
+
+(5) Ketentuan ...
+
+- (5) Ketentuan lebih lanjut mengenai pembelian Agunan sebagaimana dimaksud pada ayat (1) sampai dengan ayat (4) diatur dalam Peraturan Otoritas Jasa Keuangan.
+8. Di antara Pasal 12A dan Pasal 13 disisipkan 1 (satu) pasal, yakni Pasal 12B sehingga berbunyi sebagai berikut:
+
+**Pasal 12B**
+
+- (1) Bank Umum wajib menyalurkan Kredit atau Pembiayaan Berdasarkan Prinsip Syariah untuk sektor tertentu, Usaha Mikro, Kecil, dan Menengah, pembiayaan inklusif, dan/ atau pembiayaan berkelanjutan.
+- (2) Otoritas Jasa Keuangan dan Bank Indonesia berkoordinasi untuk mengatur kewajiban penyaluran Kredit atau Pembiayaan Berdasarkan Prinsip Syariah sebagaimana dimaksud pada ayat (1).
+9. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Ayat (1)
@@ -126,3 +144,5 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
+
+Angka 8

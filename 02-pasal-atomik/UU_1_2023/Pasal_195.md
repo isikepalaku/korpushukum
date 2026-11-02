@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '195'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -34,5 +34,25 @@ untuk atau mengambil alih pemerintah;
 - (21 Barang yang digunakan untuk melakukan atau yang berhubungan dengan Tindak Pidana sebagaimana dimaksud pada ayat (1) huruf b dan huruf c dirampas untuk negara atau dimusnahkan.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Hurufa
+
+Ketentuan ini dimaksudkan untuk mencegah perbuatan yang dilakukan di luar negeri yang bermaksud mengguling!&lt;an pemerintah.
+
+Malma "menggulingkan pemerintah" lihat penjelasan
+
+Pasal 193.
+
+**Hurufb**
+
+Yang dimaksud dengan "suatu Barzn(' misatnya bahan peledak, amunisi, atau bahan lainnya yang dapa.t digunakan sebagai bahan peledak.
+
+Huruf c
+
+Cukup jelas.
+
+Ayat (2)
 
 Cukup jelas.

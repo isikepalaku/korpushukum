@@ -18,15 +18,20 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam hal Tim Likuidasi yang dibentuk oleh Otoritas
-Jasa Keuangan sebagaimana dimaksud dalam Pasal
-106 ayat (1) telah menyampaikan Neraca Akhir
+Jasa Keuangan sebagaimana dimaksud dalam
+
+Pasal 106
+ayat (1) telah menyampaikan Neraca Akhir
 Likuidasi dan laporan pertanggungjawaban kepada
 Otoritas Jasa Keuangan, Otoritas Jasa Keuangan
 memutuskan menerima atau tidak menerima
 pertanggungjawaban Tim Likuidasi paling lambat 20
 (dua puluh) hari kerja sejak Otoritas Jasa Keuangan
 menerima laporan hasil audit sebagaimana dimaksud
-dalam Pasal 129 ayat (4).
+dalam
+
+Pasal 129
+ayat (4).
 (2) Dalam hal laporan pertanggungjawaban Tim Likuidasi
 telah diterima oleh Otoritas Jasa Keuangan, Otoritas
 Jasa Keuangan:

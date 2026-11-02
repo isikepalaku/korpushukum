@@ -33,6 +33,8 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
+Ayat (1) Cukupjelas.
+
 Ayat(2)...
 
 > Ayat Yang (2) dirnaksud dengan "secara setimbang' adalah memperhatikan kepentingan kedua belah pihak secara adil (/ail).

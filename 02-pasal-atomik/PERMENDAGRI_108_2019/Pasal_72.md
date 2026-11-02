@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) 
 Pencatatan pengakuan anak sebagaimana dimaksud 
-dalam Pasal 70 ayat (1) huruf b, dengan memenuhi 
+dalam
+
+Pasal 70
+ayat (1) huruf b, dengan memenuhi 
 persyaratan sesuai dengan ketentuan Peraturan Presiden 
 mengenai 
 persyaratan 

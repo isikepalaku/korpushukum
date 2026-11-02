@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) BPR atau BPR Syariah dalam kepemilikan dan/atau
 pengendalian PSP yang sama sebagaimana dimaksud
-dalam Pasal 130 ayat (1) wajib menyusun rencana tindak
+dalam
+
+Pasal 130
+ayat (1) wajib menyusun rencana tindak
 untuk melaksanakan Penggabungan atau Peleburan yang
 memuat paling sedikit:
 a. rencana waktu dan tahapan persiapan, serta
@@ -50,7 +53,10 @@ Peleburan sebagaimana dimaksud pada ayat (3) dan ayat
 (4) paling lama 10 hari kerja bulan berikutnya.
 (6) BPR atau BPR Syariah wajib merealisasikan seluruh
 rencana tindak sebelum jangka waktu sebagaimana
-dimaksud dalam Pasal 131 ayat (1) atau ayat (2).
+dimaksud dalam
+
+Pasal 131
+ayat (1) atau ayat (2).
 (7) Dalam hal jangka waktu sebagaimana dimaksud pada ayat
 (2) jatuh pada hari libur, penyampaian rencana tindak
 dilakukan paling lama pada hari kerja berikutnya.

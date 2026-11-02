@@ -21,4 +21,4 @@ Pengawasan terhadap pengelolaan Nama Domain dilaksanakan oleh Menteri.
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

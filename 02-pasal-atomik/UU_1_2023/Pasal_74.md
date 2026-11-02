@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '74'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,6 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (l) Pertimbangan penjatuhan pidana tutupan didasarkan pa.da motif dari pelaku Tindak Pidana yaitu karena terdorong oleh maksud yang patut dihormati. Tindak Pidana yang dilakukan karena alasan ini pada dasamya Tindak Pidana politik. Ayat (2) Dalam ketentuan ini, maksud yang patut dihormati harus ditentukan oleh hakim dan harus termuat dalam pertimbangan putusannya. Ayat (3) Cukup jelas.
+
+Pasal 75...

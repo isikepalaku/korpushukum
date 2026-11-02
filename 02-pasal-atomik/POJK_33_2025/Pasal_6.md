@@ -20,9 +20,14 @@ mengamandemen: []
 
 Dalam hal terdapat perbedaan hasil penilaian Tingkat
 Kesehatan PPDP yang dilakukan oleh Otoritas Jasa
-Keuangan sebagaimana dimaksud dalam Pasal 5 dengan
+Keuangan sebagaimana dimaksud dalam
+
+Pasal 5
+dengan
 hasil penilaian Tingkat Kesehatan PPDP yang dilakukan
-oleh PPDP sebagaimana dimaksud dalam Pasal 4, yang
+oleh PPDP sebagaimana dimaksud dalam
+
+Pasal 4, yang
 berlaku hasil penilaian Tingkat Kesehatan PPDP yang
 dilakukan oleh Otoritas Jasa Keuangan.
 

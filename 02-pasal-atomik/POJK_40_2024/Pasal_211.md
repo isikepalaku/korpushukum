@@ -22,7 +22,9 @@ ditetapkan oleh Otoritas Jasa Keuangan tidak dapat
 disehatkan, dalam hal:
 a. batas waktu status pengawasan khusus berakhir; dan
 b. Penyelenggara masih memenuhi kriteria sebagaimana
-dimaksud dalam Pasal 207.
+dimaksud dalam
+
+Pasal 207.
 
 ## Penjelasan Resmi
 

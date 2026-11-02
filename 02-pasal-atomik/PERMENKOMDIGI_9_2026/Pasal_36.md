@@ -29,7 +29,10 @@ mengamandemen: []
 
 - (3) Dalam hal Direktorat Jenderal menyimpulkan berdasarkan hasil pemeriksaan pendahuluan terdapat 
 
-kekurangan dokumen dan/atau informasi sebagaimana dimaksud dalam Pasal 35 ayat (4), Direktorat Jenderal memberitahukan secara tertulis atau elektronik kepada Orang, Badan Publik, atau pihak yang menyampaikan laporan atau seseorang atau pihak yang menyampaikan aduan untuk melengkapi dokumen dan/atau informasi yang dimaksud.
+kekurangan dokumen dan/atau informasi sebagaimana dimaksud dalam
+
+Pasal 35
+ayat (4), Direktorat Jenderal memberitahukan secara tertulis atau elektronik kepada Orang, Badan Publik, atau pihak yang menyampaikan laporan atau seseorang atau pihak yang menyampaikan aduan untuk melengkapi dokumen dan/atau informasi yang dimaksud.
 
 ## Penjelasan Resmi
 

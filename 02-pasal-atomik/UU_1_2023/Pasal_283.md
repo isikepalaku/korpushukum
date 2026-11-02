@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '283'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Setiap Orang yang mencegah, menghalang halangi, atau menggagalkan pemeriksaat je
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "pemeriksaan jenazah untuk kepentingan peradilan" adalah pemeriksaan yang dilakukan seorErng ahli guna mengetahui sebab kematian untuk kepentingan pemeriksaan sidang pengadilan. Ketentuan ini tidak berlaku jika kepercayaan dan keyakinannya melarang untuk dilakukan pemeriksaan j enazah.

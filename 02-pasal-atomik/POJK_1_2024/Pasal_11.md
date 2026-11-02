@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Berdasarkan penilaian sebagaimana dimaksud dalam Pasal 7,
+Berdasarkan penilaian sebagaimana dimaksud dalam
+
+Pasal 7,
 kualitas Aset Produktif dalam bentuk Kredit ditetapkan:
 a. lancar;
 b. dalam perhatian khusus;

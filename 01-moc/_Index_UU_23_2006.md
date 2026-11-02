@@ -4,7 +4,7 @@ judul: "Map of Content - Administrasi Kependudukan"
 kode_uu: UU_23_2006
 type: moc
 tags: [moc, hukum/pidana, uu/uu_23_2006]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Administrasi Kependudukan (UU_23_2006)
@@ -40,26 +40,26 @@ last_updated: 2026-11-01
 - [[Pasal_25]]: (1) Instansi Pelaksana wajib melakukan pendataan Penduduk
 - [[Pasal_26]]: (1) Penduduk yang tidak mampu melaksanakan sendiri
 - [[Pasal_27]]: (1) Setiap kelahiran wajib dilaporkan oleh Penduduk kepada
-- [[Pasal_28]]: Presiden.
+- [[Pasal_28]]: (1) Pencatatan kelahiran dalam Register Akta Kelahiran dan
 - [[Pasal_29]]: (1) Kelahiran Warga Negara Indonesia di luar wilayah Republik
 - [[Pasal_30]]: (1) Kelahiran Warga Negara Indonesia di atas kapal laut atau
 - [[Pasal_31]]: Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-- [[Pasal_32]]: b. perkawinan sebagaimana dimaksud dalam Pasal 34
+- [[Pasal_32]]: (1) Pelaporan kelahiran sebagaimana dimaksud dalam Pasal 27 ayat (1) yang melampaui batas waktu 60 (enam puluh)
 - [[Pasal_33]]: (1) Setiap lahir mati wajib dilaporkan oleh Penduduk kepada
 - [[Pasal_34]]: (1) Perkawinan yang sah menurut Peraturan Perundang-
-- [[Pasal_35]]: Pencatatan perkawinan sebagaimana dimaksud dalam Pasal 34
+- [[Pasal_35]]: Pencatatan perkawinan sebagaimana dimaksud dalam
 - [[Pasal_36]]: Dalam hal perkawinan tidak dapat dibuktikan dengan Akta
 - [[Pasal_37]]: (1) Perkawinan Warga Negara Indonesia di luar wilayah Negara
 - [[Pasal_38]]: Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-- [[Pasal_39]]: d. perceraian sebagaimana dimaksud dalam Pasal 40 ayat
+- [[Pasal_39]]: (1) Pembatalan perkawinan wajib dilaporkan oleh Penduduk
 - [[Pasal_40]]: (1) Perceraian wajib dilaporkan oleh yang bersangkutan
 - [[Pasal_41]]: (1) Perceraian Warga Negara Indonesia di luar wilayah Negara
 - [[Pasal_42]]: Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-- [[Pasal_43]]: f. kematian sebagaimana dimaksud dalam Pasal 44 ayat
+- [[Pasal_43]]: (1) Pembatalan perceraian bagi Penduduk wajib dilaporkan
 - [[Pasal_44]]: (1) Setiap kematian wajib dilaporkan oleh keluarganya atau
 - [[Pasal_45]]: (1) Kematian Warga Negara Indonesia di luar wilayah Negara
 - [[Pasal_46]]: Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-- [[Pasal_47]]: h. pengakuan anak sebagaimana dimaksud dalam Pasal
+- [[Pasal_47]]: (1) Pencatatan pengangkatan anak dilaksanakan berdasarkan
 - [[Pasal_48]]: (1) Pengangkatan anak warga negara asing yang dilakukan
 - [[Pasal_49]]: (1) Pengakuan anak wajib dilaporkan oleh orang tua pada
 - [[Pasal_50]]: (1) Setiap pengesahan anak wajib dilaporkan oleh orang tua
@@ -68,14 +68,14 @@ last_updated: 2026-11-01
 - [[Pasal_53]]: (1) Perubahan status kewarganegaraan dari warga negara
 - [[Pasal_54]]: (1) Perubahan status kewarganegaraan dari Warga Negara
 - [[Pasal_55]]: Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-- [[Pasal_56]]: (2) Denda administratif sebagaimana dimaksud pada ayat (1)
+- [[Pasal_56]]: (1) Pencatatan Peristiwa Penting lainnya dilakukan oleh
 - [[Pasal_57]]: (1) Penduduk yang tidak mampu melaksanakan sendiri
 - [[Pasal_58]]: (1) Data
 - [[Pasal_59]]: (1) Dokumen Kependudukan meliputi:
 - [[Pasal_60]]: Biodata Penduduk paling sedikit memuat keterangan tentang
 - [[Pasal_61]]: (1) KK memuat keterangan mengenai kolom nomor KK, nama
 - [[Pasal_62]]: (1) Penduduk Warga Negara Indonesia dan Orang Asing yang
-- [[Pasal_63]]: (dua) tahun dan/atau denda paling banyak Rp25.000.000,00
+- [[Pasal_63]]: (1) Penduduk Warga Negara Indonesia dan Orang Asing yang
 - [[Pasal_64]]: (1) KTP mencantumkan gambar lambang Garuda Pancasila
 - [[Pasal_65]]: Surat Keterangan Kependudukan paling sedikit memuat
 - [[Pasal_66]]: (1) Akta Pencatatan Sipil terdiri atas:
@@ -89,16 +89,16 @@ last_updated: 2026-11-01
 - [[Pasal_74]]: Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 - [[Pasal_75]]: Ketentuan mengenai spesifikasi dan formulasi kalimat dalam
 - [[Pasal_76]]: Ketentuan mengenai penerbitan Dokumen Kependudukan bagi
-- [[Pasal_77]]: dipidana dengan pidana penjara paling lama 2 (dua) tahun
+- [[Pasal_77]]: Setiap orang dilarang mengubah, menambah atau mengurangi
 - [[Pasal_78]]: Ketentuan
 - [[Pasal_79]]: (1) Data dan dokumen kependudukan wajib disimpan dan
 - [[Pasal_80]]: (1) Apabila negara atau sebagian negara dinyatakan dalam
 - [[Pasal_81]]: (1) Dalam hal terjadi keadaan luar biasa sebagai akibat
 - [[Pasal_82]]: (1) Pengelolaan
 - [[Pasal_83]]: (1) Data Penduduk yang dihasilkan oleh Sistem Informasi
-- [[Pasal_84]]: (2) Ketentuan
+- [[Pasal_84]]: (1) Data Pribadi Penduduk yang harus dilindungi memuat:
 - [[Pasal_85]]: (1) Data Pribadi Penduduk sebagaimana dimaksud dalam
-- [[Pasal_86]]: (dua) tahun dan/atau denda paling banyak Rp 25.000.000,00
+- [[Pasal_86]]: (1)
 - [[Pasal_87]]: (1) Pengguna Data Pribadi Penduduk dapat memperoleh dan
 - [[Pasal_88]]: (1) Selain Pejabat Penyidik Kepolisian
 - [[Pasal_89]]: (1) Setiap Penduduk dikenai sanksi administratif berupa
@@ -111,7 +111,7 @@ last_updated: 2026-11-01
 - [[Pasal_96]]: Setiap orang atau badan hukum yang tanpa hak mencetak,
 - [[Pasal_97]]: Setiap Penduduk yang dengan sengaja
 - [[Pasal_98]]: (1) Dalam hal pejabat dan petugas pada Penyelenggara dan
-- [[Pasal_99]]: Tindak pidana sebagaimana dimaksud dalam Pasal 93, Pasal
+- [[Pasal_99]]: Tindak pidana sebagaimana dimaksud dalam Pasal 93,
 - [[Pasal_100]]: (1) Semua Dokumen Kependudukan yang telah diterbitkan
 - [[Pasal_101]]: Pada saat Undang-Undang ini berlaku:
 - [[Pasal_102]]: Pada saat mulai berlakunya Undang-Undang ini, semua

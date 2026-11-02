@@ -4,7 +4,7 @@ judul: "Map of Content - Penetapan Perppu 3-2008 tentang Perubahan atas UU 24-20
 kode_uu: UU_7_2009
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_7_2009]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Penetapan Perppu 3-2008 tentang Perubahan atas UU 24-2004 tentang LPS (UU_7_2009)

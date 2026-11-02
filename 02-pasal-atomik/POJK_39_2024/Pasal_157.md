@@ -17,23 +17,61 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-kegiatan ini berada pada pemilik dana.
-(2) Dalam Pinjaman penerusan, penerima dana hanya
-bertindak sebagai pengelola dan memperoleh imbalan
-dari pengelolaan dana tersebut.
-(3) Perusahaan wajib memastikan Pinjaman penerusan
-sebagaimana dimaksud pada ayat (1) memenuhi
-persyaratan sebagai berikut:
+(1) Dalam menjalankan kegiatan usaha sebagaimana
+dimaksud dalam
+
+Pasal 136, Perusahaan dapat bekerja
+sama dengan pihak lain melalui:
+a. Pinjaman penerusan; atau
+b. Pinjaman bersama.
+(2) Pihak lain sebagaimana dimaksud pada ayat (1)
+meliputi:
+a. Perusahaan;
 
 -----
 
-a. Surat Bukti Gadai atau perjanjian Pinjaman
-dengan Benda Jaminan berdasarkan fidusia
-mencantumkan nama Perusahaan dan pihak lain;
-dan
-b. penerbitan Surat Bukti Gadai atau perjanjian
-Pinjaman dengan Benda Jaminan berdasarkan
-fidusia dilakukan oleh pengelola dana.
+b. bank;
+c. perusahaan pembiayaan;
+d. lembaga keuangan mikro;
+e. penyelenggara layanan pendanaan bersama
+berbasis teknologi informasi;
+f. perusahaan modal ventura; dan/atau
+g. lembaga lain yang berdasarkan ketentuan
+peraturan perundang-undangan diperkenankan
+untuk melakukan kerja sama Pinjaman melalui
+skema Pinjaman penerusan dan Pinjaman
+bersama.
+(3) Kerja sama Perusahaan dengan pihak lain melalui
+Pinjaman penerusan atau Pinjaman bersama
+sebagaimana dimaksud pada ayat (1) wajib dilakukan
+sesuai dengan ketentuan peraturan perundangundangan yang mengatur masing-masing pihak.
+(4) Perusahaan dilarang melakukan kerja sama dengan
+pihak lain melalui skema Pinjaman penerusan dengan
+jaminan dan Pinjaman bersama dengan jaminan.
+(5) Dalam melakukan kerja sama sebagaimana dimaksud
+pada ayat (3), Perusahaan wajib melakukan kerja sama
+dengan pihak lain sebagaimana dimaksud pada ayat (2)
+yang memiliki prinsip penyelenggaraan yang sama dan
+telah memperoleh izin usaha atau terdaftar di Otoritas
+Jasa Keuangan.
+(6) Mekanisme kerja sama dengan pihak lain sebagaimana
+dimaksud pada ayat (1) wajib dituangkan dalam
+perjanjian antara para pihak.
+(7) Perjanjian antara para pihak sebagaimana dimaksud
+pada ayat (6) wajib memuat paling sedikit:
+a. identitas para pihak, termasuk penentuan pihak
+yang bertindak sebagai pemilik dana dan pengelola
+dana atau sebagai ketua (leader) dan anggota
+(member), jika ada;
+b. tanggung jawab dan kewajiban para pihak dalam
+proses persetujuan pemberian Pinjaman;
+c. proporsi Pinjaman, pendapatan, biaya, dan/atau
+risiko antara para pihak;
+d. cara pembayaran, prosedur penerimaan, dan
+penerusan Pinjaman, pendapatan, biaya,
+dan/atau risiko antara para pihak; dan
+e. tanggung jawab dan kewajiban para pihak dalam
+proses mitigasi risiko.
 
 ## Penjelasan Resmi
 

@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '69'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -19,7 +19,6 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_32_1997/Pasal_69|UU 32/1997 Pasal 69]]'
 - '[[02-pasal-atomik/UU_40_2014/Pasal_69|UU 40/2014 Pasal 69]]'
 - '[[02-pasal-atomik/UU_8_1995/Pasal_69|UU 8/1995 Pasal 69]]'
-- '[[02-pasal-atomik/UU_9_2016/Pasal_69|UU 9/2016 Pasal 69]]'
 ---
 
 # Pasal 69 — Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
@@ -40,4 +39,36 @@ Tugas, Wewenang, dan Tanggung Jawab Direksi Usaha Bersama
 
 ## Penjelasan Resmi
 
+Pasal 70
+Ayat (1)
+```
+
 Cukup jelas.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
+
+Cukup jelas.
+
+Ayat (5)
+
+Cukup jelas.
+
+Ayat (6)
+
+Cukup jelas.
+
+Ayat (7)
+
+Cukup jelas.
+
+Ayat (8)
+
+Hal yang akan diatur dalam Peraturan Otoritas Jasa Keuangan di antaranya mencakup kewajiban, hak, dan larangan bagi anggota Direksi Usaha Bersama dalam rangka pelaksanaan tugas, wewenang, dan tanggung jawab.

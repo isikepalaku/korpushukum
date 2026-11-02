@@ -25,6 +25,41 @@ tinggi 10 (sepuluh) kali.
 bagi Perusahaan Syariah harus diperoleh dari
 perbandingan antara penjumlahan:
 a. pendanaan sebagaimana dimaksud dalam
+Pasal 66
+ayat (1) huruf b;
+b. pendanaan subordinasi sebagaimana
+dimaksud dalam
+
+Pasal 66
+ayat (1) huruf c;
+c. sukuk yang diterbitkan melalui penawaran
+umum sebagaimana dimaksud dalam
+
+Pasal 66
+ayat (1) huruf d; dan
+d. sukuk yang diterbitkan tidak melalui
+penawaran umum sebagaimana dimaksud
+dalam
+
+Pasal 66
+ayat (1) huruf e,
+dengan selisih penjumlahan Modal dengan
+penyertaan.
+(3) Pendanaan subordinasi yang dapat
+diperhitungkan sebagai pembagi dalam
+perhitungan _gearing ratio sebagaimana dimaksud_
+pada ayat (2), ditetapkan paling tinggi 50% (lima
+puluh persen) dari Modal Disetor atau modal kerja
+bagi UUS.
+
+31. Ketentuan Pasal 77 tetap, Penjelasan Pasal 77 diubah
+sebagaimana tercantum dalam penjelasan pasal demi
+pasal.
+
+-----
+
+32. Ketentuan Pasal 78 diubah sehingga berbunyi sebagai
+berikut:
 
 ## Penjelasan Resmi
 
@@ -64,3 +99,5 @@ Gearing ratio PT ABC Finance Syariah = 2,19
 Ayat (3)
 
 Cukup jelas.
+
+Angka 31

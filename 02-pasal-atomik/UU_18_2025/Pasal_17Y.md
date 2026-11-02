@@ -31,7 +31,9 @@ mengamandemen: []
 
 ## Pasal l7Z
 
-Ketentuan lebih lanjut mengenai kreasi kegiatan sebagaimana dimaksud dalam Pasal l7W sampai dengan Pasal 17Y diatur dalam Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai kreasi kegiatan sebagaimana dimaksud dalam Pasal l7W sampai dengan
+
+Pasal 17Y diatur dalam Peraturan Pemerintah.
 
 24. Judul Bab VII diubah sehingga berbunyi sebagai berikut:
 

@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Perusahaan dengan lingkup wilayah usaha nasional
 dapat menerima pinjaman sebagaimana dimaksud
-dalam Pasal 182 ayat (1) huruf b dalam bentuk valuta
+dalam
+
+Pasal 182
+ayat (1) huruf b dalam bentuk valuta
 asing.
 (2) Perusahaan yang akan menerima pinjaman dalam
 bentuk valuta asing sebagaimana dimaksud pada ayat
@@ -36,12 +39,27 @@ yang menerima pendanaan berupa:
 a. pinjaman sebagaimana dimaksud dalam Pasal 182
 ayat (1) huruf b;
 b. pinjaman subordinasi sebagaimana dimaksud
-dalam Pasal 182 ayat (1) huruf c;
+dalam
+
+Pasal 182
+ayat (1) huruf c;
 c. penerbitan efek melalui penawaran umum
-sebagaimana dimaksud dalam Pasal 182 ayat (1);
+sebagaimana dimaksud dalam
+
+Pasal 182
+ayat (1);
 dan
 d. penerbitan efek bersifat utang tidak melalui
 penawaran umum sebagaimana dimaksud dalam
+
+Pasal 182
+ayat (1) huruf e,
+dalam bentuk valuta asing wajib melakukan lindung
+nilai secara penuh.
+(4) Lindung nilai secara penuh sebagaimana dimaksud
+pada ayat (3) wajib dilaksanakan untuk pokok
+pinjaman, suku bunga pinjaman, dan/atau jangka
+waktu pembayaran.
 
 ## Penjelasan Resmi
 

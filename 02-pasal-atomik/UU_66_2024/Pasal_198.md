@@ -68,7 +68,10 @@ Yang. . .
 Yang dimaksud dengan "dapat dilimpahkan" adalah memenuhi kebututran, sesuai dengan persyaratan, dan dicabut apabila tugasnya tidak
 
 ```
-ketentuan peraturan perundang-undangan serta dapat dilaksanakan sebagaimana mestinya. Ayat (4) Cukup jelas. Ayat (s) Yang dimaksud dengan odapat adalah memenuhi ketersediaan dan kebutuhan di Perairan Wajib Pandu dan perairan pandu luar biasa terkait, sesuai dengan persyaratan dan ketentuan peraturan perundang-undangan serta dapat dicabut apabila pelaksanaan tugasnya tidak dilaksanakan sebagaimana mestinya atau penyelenggara Pelabuhan telah menyediakan jasa Pemanduan. Ayat (5a) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 34 Pasal 2O2 Ayat (1) Instansi yang berwenang berkoordinasi dengan instansi yang menyelenggarakan urusan pemerintahan di bidang apabila terdapat posisi kerangka Kapal yang berdampak pada perubahan data hidrografi. Ayat (2) Cukup jelas. Angka 35 Pasal 203 Ayat (1) Cukup jelas. Ayat (21 Cukup jelas.
+ketentuan peraturan perundang-undangan serta dapat dilaksanakan sebagaimana mestinya. Ayat (4) Cukup jelas. Ayat (s) Yang dimaksud dengan odapat adalah memenuhi ketersediaan dan kebutuhan di Perairan Wajib Pandu dan perairan pandu luar biasa terkait, sesuai dengan persyaratan dan ketentuan peraturan perundang-undangan serta dapat dicabut apabila pelaksanaan tugasnya tidak dilaksanakan sebagaimana mestinya atau penyelenggara Pelabuhan telah menyediakan jasa Pemanduan. Ayat (5a) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 34 Pasal 2O2 Ayat (1) Instansi yang berwenang berkoordinasi dengan instansi yang menyelenggarakan urusan pemerintahan di bidang apabila terdapat posisi kerangka Kapal yang berdampak pada perubahan data hidrografi. Ayat (2) Cukup jelas. Angka 35
+
+Pasal 203
+Ayat (1) Cukup jelas. Ayat (21 Cukup jelas.
 ```
 
 ```
@@ -76,7 +79,10 @@ Ayat (3)
 ```
 
 ```
-Angka 36 Pasal 208 Cukup jelas. Angka 37 Pasal 223
+Angka 36
+
+Pasal 208
+Cukup jelas. Angka 37 Pasal 223
 ```
 
 Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Asuransi penyingkiran kerangka Kapal dilakukan oleh Iembaga asuransi dalam negeri dan/ atau asing yang memiliki kantor perwakilan di Indonesia. Lembaga asuransi asing wajib melakukan usaha patungan ljoint uenhrel dengan lembaga nasional sesuai dengan ketentuan peraturan perundang-undangan. Ayat (6) Cukup jelas. Ayat (1)
@@ -120,19 +126,26 @@ Ayat (2)
 Dihapus.
 
 ```
-Angka 38 Pasal 223A Cukup jelas. Angka 39 Pasal 226 Cukup jelas. Angka 4O Cukup jelas. Angka 41 Pasal 227 Cukup jelas. Angka 42 Pasal 23O Ayat (1) Penanggung jawab unit kegiatan lain di perairan antara lain pengelola unit pengeboran minyak dan fasilitas penampungan minyak di perairan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
+Angka 38
+
+Pasal 223A Cukup jelas. Angka 39 Pasal 226 Cukup jelas. Angka 4O Cukup jelas. Angka 41 Pasal 227 Cukup jelas. Angka 42 Pasal 23O Ayat (1) Penanggung jawab unit kegiatan lain di perairan antara lain pengelola unit pengeboran minyak dan fasilitas penampungan minyak di perairan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
 ```
 
 ## PRESIDEN REPUBLIK INDONESIA
 
 ```
-Ayat (a) Yang dimaksud dengan "instansi yang berwenang untuk penanganan lebih lanjut" adalah institusi yang menangani pengendalian pencemaran secara nasional. Angka 43 Pasal 231 Cukup jelas. Angka 44 Pasal 232 Cukup jelas. Angka 45 Cukup jelas. Angka 46 Pasal 234 Cukup jelas. Angka 47 Pasal 235 Cukup jelas. Angka 48 Pasal 236 Cukup jelas. Angka 49 Pasal 237 Ayat (1) Limbah antara lain dapat berupa limbah minyak, bahan kimia, bahan berbahaya dan beracun, sampah, serta kotoran. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 50 Pasal 251 Cukup jelas.
+Ayat (a) Yang dimaksud dengan "instansi yang berwenang untuk penanganan lebih lanjut" adalah institusi yang menangani pengendalian pencemaran secara nasional. Angka 43
+
+Pasal 231
+Cukup jelas. Angka 44 Pasal 232 Cukup jelas. Angka 45 Cukup jelas. Angka 46 Pasal 234 Cukup jelas. Angka 47 Pasal 235 Cukup jelas. Angka 48 Pasal 236 Cukup jelas. Angka 49 Pasal 237 Ayat (1) Limbah antara lain dapat berupa limbah minyak, bahan kimia, bahan berbahaya dan beracun, sampah, serta kotoran. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 50 Pasal 251 Cukup jelas.
 ```
 
 ## FRESIDEN REPUBLIK INDONESIA
 
 ```
-Angka 51 Pasal 251A Cukup jelas. Angka 52 Pasal 253 Cukup jelas. Angka 53 Pasal 272 Ayat (1) Pemerintah dan I atau Pemerintah Daerah berkoordinasi dengan instansi yang menyelenggarakan urusan pemerintahan di bidang hidro-oseanografi apabila terdapat perubahan data hidrografi pada data dan informasi pelayaran. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (5) Cukup jelas. Angka 54 Pasal 274 Cukup jelas. Angka 55 Cukup jelas. Angka 56 Pasal 276 Cukup jelas. Angka 57 Pasal 277 Cukup jelas. Angka 58 Pasal 27B
+Angka 51
+
+Pasal 251A Cukup jelas. Angka 52 Pasal 253 Cukup jelas. Angka 53 Pasal 272 Ayat (1) Pemerintah dan I atau Pemerintah Daerah berkoordinasi dengan instansi yang menyelenggarakan urusan pemerintahan di bidang hidro-oseanografi apabila terdapat perubahan data hidrografi pada data dan informasi pelayaran. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (5) Cukup jelas. Angka 54 Pasal 274 Cukup jelas. Angka 55 Cukup jelas. Angka 56 Pasal 276 Cukup jelas. Angka 57 Pasal 277 Cukup jelas. Angka 58 Pasal 27B
 ```
 
 ```
@@ -142,13 +155,19 @@ Cukup jelas.
 ## PRESIDEN REPUELIK INDONESIA
 
 ```
-Angka 59 Pasal 279 Dihapus. Angka 60 Pasal 280 Dihapus. Angka 61 Pasal 281 Cukup jelas. ingka62 Pasal 284 Cukup jelas. Angka 63 Pasal 337 Ayat (l) Ketentuan ketenagakerjaan di bidang Pelayaran berlaku secara umum terhadap pekerja selain Awak Kapal. Ketentuan untuk Awak Kapal berdasarkan Perjanjian Kerja Laut secara khusus diatur dalam Kitab Undang-Undang Hukum Dagang lWet Borepublilek Van Kooplnnd.eli, Undang-Undang Nomor 15 Tahun 2016 tentang Pengesahan Maritime Labour Conuention, 2006 (Konvensi Ketenagakerjaan Maritim, 20O6), dan semua peraturan bidang Pelayaran. Ayat (2) Cukup jelas. undangan di Angka 64 Pasal 346A Ayat (1) Hurufa Yang dimaksud dengan "perusahaan Angkutan di Perairan' adalah perusahaan angkutan laut, perusahaan angkutan danau dan sungai, dan perusahaan angkutan penyeberangan. Huruf b Cukup jelas.
+Angka 59
+
+Pasal 279
+Dihapus. Angka 60 Pasal 280 Dihapus. Angka 61 Pasal 281 Cukup jelas. ingka62 Pasal 284 Cukup jelas. Angka 63 Pasal 337 Ayat (l) Ketentuan ketenagakerjaan di bidang Pelayaran berlaku secara umum terhadap pekerja selain Awak Kapal. Ketentuan untuk Awak Kapal berdasarkan Perjanjian Kerja Laut secara khusus diatur dalam Kitab Undang-Undang Hukum Dagang lWet Borepublilek Van Kooplnnd.eli, Undang-Undang Nomor 15 Tahun 2016 tentang Pengesahan Maritime Labour Conuention, 2006 (Konvensi Ketenagakerjaan Maritim, 20O6), dan semua peraturan bidang Pelayaran. Ayat (2) Cukup jelas. undangan di Angka 64 Pasal 346A Ayat (1) Hurufa Yang dimaksud dengan "perusahaan Angkutan di Perairan' adalah perusahaan angkutan laut, perusahaan angkutan danau dan sungai, dan perusahaan angkutan penyeberangan. Huruf b Cukup jelas.
 ```
 
 ## PRESIDEN REPUBLIK INDONESIA
 
 ```
-Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 65 Pasal 347 Cukup jelas. Angka 66 Pasal 347A Cukup jelas. Angka 67 Pasal 352 Dihapus. Pasal II Angka 1 Cukup jelas. Angka 2 Cukup jelas.
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 65
+
+Pasal 347
+Cukup jelas. Angka 66 Pasal 347A Cukup jelas. Angka 67 Pasal 352 Dihapus. Pasal II Angka 1 Cukup jelas. Angka 2 Cukup jelas.
 ```
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 7OO3

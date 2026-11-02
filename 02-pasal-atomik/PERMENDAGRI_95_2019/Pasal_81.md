@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data Cadangan sebagaimana dimaksud dalam Pasal 3 ayat (1) 
+Data Cadangan sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (1) 
 huruf m, dilakukan untuk menjamin ketersediaan data 
 apabila terjadi kegagalan fungsi data utama. 
  

@@ -18,7 +18,11 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Dalam melakukan Penetapan Tersangka, Penyidik dilarang melakukan perbuatan yang menimbulkan praduga bersalah.**
+**Penyidik berwenang melaksanakan tugas di seluruh wilayah Negara Kesatuan Republik Indonesia sesuai dengan ketentuan Undang-Undang.**
+
+Paragraf 2
+
+**Penyidik Pembantu**
 
 ## Penjelasan Resmi
 

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal Pasal 202 ayat (1), ayat (3), ayat
+dimaksud dalam Pasal
+
+Pasal 202
+ayat (1), ayat (3), ayat
 (4), dan/atau Pasal 203 ayat (1) dikenai sanksi
 administratif berupa:
 a. peringatan tertulis;
@@ -73,7 +76,10 @@ Pengawasan
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

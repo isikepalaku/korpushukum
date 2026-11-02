@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam hal terjadi kekosongan jabatan gubernur, Deputi Gubernur
- Senior, dan atau Deputi Gubernur karena hal-hal sebagaimana dimaksud dalam Pasal 46 ayat (2) dan ayat (3), Pasal 47 ayat (2) dan Pasal 48, Presiden mengangkat Gubernur, Deputi Gubernur Senior, dan atau Deputi Gubernur yang baru sesuai dengan ketentuan dalam Pasal 41 ayat (1), ayat (2), ayat (3), ayat (4), dan ayat (5), untuk sisa masa jabatan yang digantikannya.
+ Senior, dan atau Deputi Gubernur karena hal-hal sebagaimana dimaksud dalam
+
+Pasal 46
+ayat (2) dan ayat (3), Pasal 47 ayat (2) dan Pasal 48, Presiden mengangkat Gubernur, Deputi Gubernur Senior, dan atau Deputi Gubernur yang baru sesuai dengan ketentuan dalam Pasal 41 ayat (1), ayat (2), ayat (3), ayat (4), dan ayat (5), untuk sisa masa jabatan yang digantikannya.
 
  (2) Dalam hal kekosongan jabatan Gubernur sebagaimana dimaksud
  pada ayat (1) belum diangkat penggantinya, Deputi Gubernur Senior menjalankan tugas pekerjaan Gubernur sebagai pejabat Gubernur sementara.

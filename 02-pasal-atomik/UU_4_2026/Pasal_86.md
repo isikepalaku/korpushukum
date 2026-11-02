@@ -43,6 +43,18 @@ ditetapkan oleh Dewan Komisioner.
 3. 26.Di antara angka 57 dan angka 58 dalam Pasal 7 disisipkan 2 (dua) angka yakni angkaSTa dan angka 57b, sehingga berbunyi sebagai berikut:
 - 57a. Di antara Pasal 86 dan Pasal 87 disisipkan 1 (satu) pasal, yakni Pasal 86A sehingga berbunyi sebagai berikut:
 
+Pasal 86A
+
+- (1) Anggaran tahunan untuk kegiatan operasional sebagaimana dimaksud dalam Pasal 86 ayat (21 huruf a ditetapkan berdasarkan standar yang wajar di sektor jasa keuangan.
+
+(2) Standar .
+
+**PRESIDEN REFUBUK INDONESI,A**
+
+- (2) Standar yang wajar di sektor jasa keuangan sebagaimana dimaksud pada ayat (1) termasuk perlakuan khusus terhadap standar biaya, proses pengadaan barang dan jasa, pengelolaan sumber daya manusia, organisasi, dan remunerasi.
+- (3) Ketentuan mengenai standar biaya, proses pengadaan barang dan jasa, pengelolaan sumber daya manusia, organisasi, dan remunerasi sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Lembaga Penjamin Simpanan setelah mendapatkan persetqjuan dari DPR.
+- 57b. Ketentuan Pasal 87 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -17,28 +17,100 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(1) Pemerintah Pusat dan Pemerintah Daerah melakukan**
+**(1) Koperasi yang melaksanakan kegiatan usaha simpan**
 
-pengembangan Usaha Mikro, Kecil, dan Menengah.
-**(21 Pengembangan Usaha Mikro, Kecil, dan Menengah**
- sebagaimana dimaksud pada ayat (1) [dilakukan] melalui:
-**a. pendataan serta identifikasi [potensi ][dan ][masalah]**
+**pinjam serta usaha simpan pinjam dan pembiayaan syariah vrajib menyampaikan laporan kepada Kementerian dan/atau Dinas secara periodik dan sewaktu-waktu.**
+**(2) Laporan sebagairnana dimaksud pada ayat (1)**
 
-yang dihadapi Usaha Mikro, Kecil, dan Menengah;
-**b. penyusunan program pembinaan [dan]**
+**disampaikan melalui sistem pelaporan secara elektronik.**
+**(3) Sistem pelaporan secara elektronik sebagaimana**
 
-pengembangan sesuai potensi dan masalah [yang]
-**dihadapi;**
-**c. pelaksanaan program pembinaan [dan]**
+**dimaksud pada ayat (21dibuat oleh Kementerian.**
 
-pengembangan; dan
-**d. pemantauan dan [pengendalian ] [pelaksanaan]**
+(4) Dinas...
 
-**program.**
-**(3) Pengembangan Usaha Mikro, Kecil, dan [Menengah]**
+-----
 
-**sebagaimana dimaksud pada ayat [(1) ][dilaksanakan] melalui pendekatan:**
-**a. Koperasi; b. sentra; c. klaster; dan d. kelompok.**
+PRES IDEN
+REPUBLIK TNDONESIA
+
+**-7 -**
+
+(41 Dinas dapat membuat sistem pelaporan secara
+
+**elektronik sebagaimana dimaksud pada ayat (21 dengan memperhatikan ketentuan mengenai- sistem pelaporan secara elektronik yang ditetapkan oleh Kementerian.**
+
+**(5) Dalam hal sistem pelaporan secara elektronik belum terbentuk, Koperasi menyampaikan laporan**
+**sebagaimana dimaksud pada ayat (21secara manual.**
+
+ Bagian Kedua
+
+ Usaha Koperasi
+
+ Paragraf 1
+ Umum
+
+ Pasal 10
+**(1) Usaha Koperasi merupakan usaha yang:**
+ a. berkaitan langsung dengan kepentingan anggota;
+
+**dan**
+**b. meningkatkan usaha dan kesejahteraan anggota.**
+**(21 Usaha Koperasi yang berkaitan langsung dengan kepentingan anggota sebagaimana dimaksucl pia. ayat (1) huruf a dilakukan dengan memperha[ika., paling sedikit:**
+**a. kebutuhan anggota dan kapasitas Koperasi; b. -pengutamaan pemenuhan pelayanan terbaik**
+
+**kepada anggota untuk mendorong peningkatan loyalitas anggota;**
+
+c praktik tata kelola usaha yang baik untuk
+
+**membangun profesionalisme dan kepercayaan anggota;**
+
+**d. kerja sama antar-Koperasi; dan e. kerja sama Koperasi dan/atau antar-Koperasi**
+
+**dengan badan usaha lain.**
+
+(3) Usaha...
+
+-----
+
+PRES IDEN
+REPUBLIK lNDONESIA
+
+**-8-**
+ (3) Usaha Koperasi untuk meningkatkan usaha dan
+
+**kesejahteraan anggota sebagaimana dimaksud pada ayat (1) huruf b dilakukan dengan memperhatikan paling sedikit:**
+**a. manfaat langsung dan tidak langsung yang**
+
+**dirasakan/diterima oleh anggota dan/atau**
+**masyarakat yang memanfaatkan**
+**pelayanan/bisnis dengan Kooerasi;**
+**b. kerjasama antar-Koperasi; dan c. kemitraan dengan badan usaha lain,**Pasal 1 1
+**(1) Kegiatan usaha Koperasi dapat dilaksanakan secara:**
+ a. tunggal usaha; atau b. serba usaha.
+**(21 Kegiatan usaha Koperasi yang dilaksanakan secara**
+ tunggal usaha sebagaimana dimaksud pada ayat (1) huruf a merLlpakan Koperasi yang diselenggarakan pada 1 (satu) bidang atau sektor usaha tertentu.
+**(3) Kegiatan usaha Koperasi yang dilaksanakan secara**
+
+**serba usaha sebagaimana dimaksud pada ayat (1) huruf b merupakan Koperasi yang diselenggarakan dengan beberapa kegiatan usaha pada 1 (satu) atau lebih bidang atau sektor usaha tertentu.**
+**(4) Kegiatan usaha Koperasi sebagaimana dimaksud pada**
+
+**ayat (1) huruf b harus memiliki bidang usaha inti.**
+**(5) Kegiatan usaha Koperasi sebagaimana dimaksud pada**
+
+**ayat (1) diselenggarakan berdasarkan paling sedikit:**
+**a. kesamaan usaha; b. potensi; cian o. kebutuhan anggota.**
+
+(6) Kegiatan .
+
+-----
+
+PRES IDEN
+REPUBLIK INDONESIA
+
+**-9-**
+ (6) Kegiatan usaha Koperasi sebagaimana dimaksud pada
+**ayat (1) dapat memiliki dan/atau memanfaatkan platform teknologi digital untuk mendorong akselerasi dan integrasi serta daya saing.**
 
 ## Penjelasan Resmi
 

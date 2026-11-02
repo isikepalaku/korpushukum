@@ -21,12 +21,18 @@ mengamandemen: []
 **(1) Pemanggilan terhadap Korporasi pada tahap**
 
 **Penyelidikan dapat diwakili oleh penanggung jawab Korporasi. (21 Penyidik yang melakukan pemeriksaan terhadap**
- Korporasi memanggil Korporasi yang diwakili oleh penanggung jawab Korporasi sebagaimana dimaksud dalam Pasal 326 ayat (2) dengan surat panggilan yang
+ Korporasi memanggil Korporasi yang diwakili oleh penanggung jawab Korporasi sebagaimana dimaksud dalam
+
+Pasal 326
+ayat (2) dengan surat panggilan yang
 sah.
 **(3) Penanggung jawab Korporasi dalam pemeriksaan**
 
 **sebagaimana dimaksud pada ayat (2) wajib hadir dalam pemeriksaan Korporasi. (41 Dalam hal Korporasi telah dipanggil secara sah namun**
- tidak hadir, menolak hadir, atau tidak menunjuk penanggung jawab Korporasi sebagaimana dimaksud dalam Pasal 326 ayat (2) untuk mewakili Korporasi dalam pemeriksaan, Penyidik menentukan salah
+ tidak hadir, menolak hadir, atau tidak menunjuk penanggung jawab Korporasi sebagaimana dimaksud dalam
+
+Pasal 326
+ayat (2) untuk mewakili Korporasi dalam pemeriksaan, Penyidik menentukan salah
 seorang penanggung jawab Korporasi untuk mewakili
 **Korporasi dan memanggil sekali lagi dengan perintah kepada petugas untuk membawa penanggung jawab Korporasi secara paksa.**
 **(5) Ketentuan mengenai Upaya Paksa terhadap orang**

@@ -20,7 +20,10 @@ mengamandemen: []
 
 Ketentuan mengenai kriteria Tingkat Kesehatan PPDP dalam
 penetapan status pengawasan sebagaimana dimaksud
-dalam Pasal 4 ayat (1) huruf a dan huruf b dan Pasal 8 ayat
+dalam Pasal 4 ayat (1) huruf a dan huruf b dan
+
+Pasal 8
+ayat
 (1) huruf b, dinyatakan mulai berlaku sejak tersedianya
 penilaian tingkat kesehatan bagi lembaga penjamin sesuai
 dengan Peraturan Otoritas Jasa Keuangan mengenai

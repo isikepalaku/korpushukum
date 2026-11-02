@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Selain mengenakan sanksi administratif sebagaimana
-dimaksud dalam Pasal 78 ayat (1), Otoritas Jasa
+dimaksud dalam
+
+Pasal 78
+ayat (1), Otoritas Jasa
 Keuangan berwenang melakukan penilaian kembali bagi
 pihak utama Perusahaan Asuransi atau Perusahaan
 Asuransi Syariah.

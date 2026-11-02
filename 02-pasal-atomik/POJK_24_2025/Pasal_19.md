@@ -22,16 +22,25 @@ berlaku:
 a. Rekening Giro dan Tabungan yang teridentifikasi
 sebagai rekening dormant sebelum Peraturan Otoritas
 Jasa Keuangan ini berlaku dan memenuhi kriteria
-sebagaimana dimaksud dalam Pasal 3 ayat (3)
+sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (3)
 ditetapkan sebagai rekening aktif.
 b. Rekening Giro dan Tabungan yang teridentifikasi
 sebagai rekening dormant sebelum Peraturan Otoritas
 Jasa Keuangan ini berlaku dan tidak memenuhi kriteria
-sebagaimana dimaksud dalam Pasal 3 ayat (3)
+sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (3)
 ditetapkan sebagai rekening tidak aktif.
 c. Rekening tidak aktif sebagaimana dimaksud dalam
 huruf b ditetapkan sebagai rekening dormant
-sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf c
+sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (1) huruf c
 pada hari ke-1440.
 
 BAB X

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 11 ayat (2) huruf a, gubernur
+dimaksud dalam
+
+Pasal 11
+ayat (2) huruf a, gubernur
 melakukan koordinasi:
 a. antarlembaga Pemerintah dan lembaga non-
 Pemerintah; dan

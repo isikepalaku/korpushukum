@@ -12,9 +12,7 @@ status_berlaku: diubah
 diamandemen_oleh:
 - '[[02-pasal-atomik/UU_4_2026/Pasal_43|UU 4/2026 Pasal 43]]'
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_43|UU 1/2013 Pasal 43]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_43|UU 1/2016 Pasal 43]]'
-- '[[02-pasal-atomik/UU_10_2011/Pasal_43|UU 10/2011 Pasal 43]]'
 - '[[02-pasal-atomik/UU_2_2009/Pasal_43|UU 2/2009 Pasal 43]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_43|UU 21/2008 Pasal 43]]'
 - '[[02-pasal-atomik/UU_21_2011/Pasal_43|UU 21/2011 Pasal 43]]'

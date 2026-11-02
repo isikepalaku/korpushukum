@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelaksanaan fungsi manajemen risiko sebagaimana
-dimaksud dalam Pasal 69 ayat (2) huruf b paling sedikit
+dimaksud dalam
+
+Pasal 69
+ayat (2) huruf b paling sedikit
 mencakup:
 a. penyusunan kebijakan manajemen risiko;
 b. pengujian, evaluasi, dan rekomendasi perbaikan

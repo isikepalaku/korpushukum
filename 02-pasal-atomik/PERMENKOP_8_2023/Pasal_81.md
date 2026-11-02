@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dokumen pendukung sebagaimana dimaksud dalam Pasal 80
+Dokumen pendukung sebagaimana dimaksud dalam
+
+Pasal 80
 ayat (2) bagi:
 a. anggota paling sedikit terdiri atas:
 1. identitas yang memuat:

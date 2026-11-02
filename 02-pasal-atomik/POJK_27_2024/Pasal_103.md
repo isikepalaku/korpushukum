@@ -20,6 +20,21 @@ mengamandemen: []
 
 Penyedia jasa pembayaran sebagaimana dimaksud dalam
 
+Pasal 102
+ayat (2) huruf a harus memenuhi persyaratan:
+a. memiliki izin dari instansi atau otoritas yang berwenang
+di bidang keuangan dan sistem pembayaran;
+b. memiliki izin sebagai Penyelenggara Sistem Elektronik
+dari kementerian yang menyelenggarakan urusan
+pemerintahan di bidang komunikasi dan digital;
+c. memiliki sertifikasi keamanan pemrosesan
+pembayaran; dan
+d. memiliki sertifikasi standar internasional terkait sistem
+manajemen keamanan informasi.
+
+Bagian Kedua
+Penyedia Jasa Fasilitasi Transaksi Aset Keuangan Digital
+
 ## Penjelasan Resmi
 
 Huruf a
@@ -33,4 +48,7 @@ Huruf c
 Cukup jelas.
 Huruf d
 
-Lihat penjelasan Pasal 21 ayat (1) huruf d.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf d.

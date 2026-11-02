@@ -17,7 +17,17 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+(1) Bank wajib menyusun rencana strategis dalam bentuk
+rencana korporasi.
+(2) Rencana korporasi sebagaimana dimaksud pada ayat (1)
+wajib disusun oleh Direksi dan disetujui oleh Dewan
+Komisaris.
+(3) Bank menyelaraskan penyusunan Rencana Bisnis
+Bank dengan rencana korporasi sebagaimana
+dimaksud pada ayat (1).
+(4) Kewajiban penyusunan rencana strategis dalam bentuk
+rencana korporasi sebagaimana dimaksud pada ayat (1)
+dikecualikan bagi bank perantara.
 
 ## Penjelasan Resmi
 

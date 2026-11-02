@@ -21,7 +21,10 @@ mengamandemen: []
 BUK atau BUS wajib menyelenggarakan RUPS untuk
 mengubah anggaran dasar terkait penyesuaian bentuk
 dan kegiatan usaha menjadi BPR atau BPR Syariah
-sebagaimana dimaksud dalam Pasal 16 ayat (1) huruf a
+sebagaimana dimaksud dalam
+
+Pasal 16
+ayat (1) huruf a
 paling lama 2 (dua) bulan sejak tanggal izin usaha.
 (2) BPR atau BPR Syariah hasil perubahan izin usaha dari
 BUK atau BUS wajib menyampaikan kepada OJK:
@@ -34,7 +37,10 @@ persetujuan perubahan anggaran dasar dari instansi yang
 berwenang.
 (3) Pencabutan izin usaha sebagai BUK atau BUS dan
 pemberian izin usaha sebagai BPR atau BPR Syariah
-sebagaimana dimaksud dalam Pasal 15 ayat (5) berlaku
+sebagaimana dimaksud dalam
+
+Pasal 15
+ayat (5) berlaku
 sejak tanggal persetujuan instansi yang berwenang atau
 tanggal yang ditetapkan dalam persetujuan instansi yang
 berwenang.

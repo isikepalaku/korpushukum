@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) Peringkat Komposit ditetapkan berdasarkan analisis
 yang komprehensif dan terstruktur terhadap peringkat
-setiap faktor sebagaimana dimaksud dalam Pasal 196
+setiap faktor sebagaimana dimaksud dalam
+
+Pasal 196
 ayat (2) dengan memperhatikan materialitas dan
 signifikasi masing-masing faktor.
 (2) Peringkat Komposit sebagaimana dimaksud pada ayat

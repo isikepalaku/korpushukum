@@ -17,34 +17,25 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), ayat (2), ayat (6), Pasal 133, dan/atau Pasal 134
-pihak utama BPR atau BPR Syariah dikenai sanksi
-administratif berupa:
+(1) BPR atau BPR Syariah dalam kepemilikan dan/atau
+pengendalian PSP yang sama dalam 1 (satu) wilayah pulau
+atau kepulauan utama sebagaimana dimaksud dalam
 
------
-
-a. larangan sebagai pihak utama sesuai dengan
-Peraturan OJK mengenai penilaian kembali bagi
-pihak utama lembaga jasa keuangan; dan/atau
-b. penundaan pembayaran dividen sampai dengan PSP
-melakukan Penggabungan atau Peleburan.
-(4) Selain sanksi administratif sebagaimana dimaksud pada
-ayat (1), ayat (2), dan/atau ayat (3), BPR, BPR Syariah,
-dan/atau PSP dapat dikenai sanksi administratif berupa
-denda sebesar Rp500.000.000,00 (lima ratus juta rupiah)
-untuk setiap pelanggaran yang dilakukan.
-(5) BPR atau BPR Syariah yang terlambat menyampaikan
-laporan sebagaimana dimaksud dalam Pasal 132 ayat (5),
-dikenai sanksi administratif berupa denda sebesar
-Rp100.000,00 (seratus ribu rupiah) per hari kerja dan
-paling banyak Rp5.000.000,00 (lima juta rupiah).
-(6) Pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (5) tidak menghilangkan kewajiban
-penyampaian laporan bagi BPR atau BPR Syariah yang
-belum menyampaikan laporan dimaksud.
-
-BAB IX
-SINERGI BPR DAN BPR SYARIAH
+Pasal 100
+ayat (3) wajib melakukan konsolidasi melalui
+skema Penggabungan atau Peleburan.
+(2) Penggabungan atau Peleburan sebagaimana dimaksud
+pada ayat (1) dikecualikan terhadap BPR dengan BPR
+Syariah dalam kepemilikan dan/atau pengendalian PSP
+yang sama.
+(3) Berdasarkan pertimbangan tertentu, OJK berwenang
+menetapkan:
+a. jumlah BPR atau BPR Syariah peserta Penggabungan
+atau Peleburan; dan/atau
+b. wilayah BPR atau BPR Syariah hasil Penggabungan
+atau Peleburan,
+yang berbeda dari wilayah pulau atau kepulauan utama
+sebagaimana dimaksud pada ayat (1).
 
 ## Penjelasan Resmi
 

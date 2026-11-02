@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) Produk asuransi kredit dan/atau penjaminan kredit
 yang telah difasilitasi oleh Penyelenggara dalam rangka
-mitigasi risiko sebagaimana dimaksud dalam Pasal 148
+mitigasi risiko sebagaimana dimaksud dalam
+
+Pasal 148
 ayat (2) huruf b yang sudah berjalan pada saat
 Peraturan Otoritas Jasa Keuangan ini diundangkan,
 dinyatakan tetap berlaku sampai dengan masa
@@ -27,7 +29,9 @@ pertanggungan berakhir.
 (2) Dalam hal Penyelenggara memfasilitasi produk
 asuransi kredit atau penjaminan kredit sebagaimaan
 dimaksud pada ayat (1) yang belum memenuhi
-ketentuan sebagaimana dimaksud dalam Pasal 148
+ketentuan sebagaimana dimaksud dalam
+
+Pasal 148
 ayat (5), ayat (6), dan/atau ayat (7), Penyelenggara
 menyampaikan informasi kepada Pengguna mengenai:
 
@@ -47,7 +51,10 @@ atau penjaminan kredit,
 sebagaimana dimaksud pada ayat (1), Penyelenggara
 memastikan produk asuransi dan/atau penjaminan
 kredit dimaksud telah memenuhi ketentuan
-sebagaimana dimaksud dalam Pasal 148 ayat (5), ayat
+sebagaimana dimaksud dalam
+
+Pasal 148
+ayat (5), ayat
 (6), dan/atau ayat (7).
 
 ## Penjelasan Resmi

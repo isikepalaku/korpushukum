@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Bank BHI atau KCBLN yang melanggar ketentuan
 
-sebagaimana dimaksud dalam Pasal 7 ayat (1), ayat
+sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (1), ayat
 
 (2), Pasal 8 ayat (3), dan/atau Pasal 9 ayat (2) dikenai
 
@@ -31,7 +34,10 @@ administratif sebagaimana dimaksud pada ayat (1),
 
 dan belum memenuhi ketentuan sebagaimana
 
-dimaksud dalam Pasal 7 ayat (1), ayat (2), Pasal 8 ayat
+dimaksud dalam Pasal 7 ayat (1), ayat (2),
+
+Pasal 8
+ayat
 
 (3), dan/atau Pasal 9 ayat (2), Bank BHI atau KCBLN
 
@@ -51,7 +57,10 @@ dan/atau ayat (2), dan melanggar ketentuan
 
 -----
 
-sebagaimana dimaksud dalam Pasal 7 ayat (1), ayat
+sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (1), ayat
 
 (2), Pasal 8 ayat (3), Pasal 9 ayat (2), dan/atau ayat (2),
 

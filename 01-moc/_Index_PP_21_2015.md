@@ -4,7 +4,7 @@ judul: "Map of Content - Tata Cara Pendaftaran Jaminan Fidusia dan Biaya Pembuat
 kode_uu: PP_21_2015
 type: moc
 tags: [moc, hukum/keuangan, uu/pp_21_2015]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Tata Cara Pendaftaran Jaminan Fidusia dan Biaya Pembuatan Akta Jaminan Fidusia (PP_21_2015)
@@ -15,7 +15,7 @@ last_updated: 2026-11-01
 
 - [[Pasal_1]]: Dalam Peraturan Pemerintah ini yang dimaksud dengan:
 - [[Pasal_2]]: (1) Permohonan pendaftaran Jaminan Fidusia, permohonan
-- [[Pasal_3]]: (2) Bukti pendaftaran sebagaimana dimaksud pada ayat (1)
+- [[Pasal_3]]: Permohonan pendaftaran Jaminan Fidusia sebagaimana
 - [[Pasal_4]]: Permohonan pendaftaran Jaminan Fidusia sebagaimana
 - [[Pasal_5]]: (1) Permohonan pendaftaran Jaminan Fidusia yang telah
 - [[Pasal_6]]: (1) Pemohon melakukan pembayaran biaya pendaftaran
@@ -23,7 +23,7 @@ last_updated: 2026-11-01
 - [[Pasal_8]]: Sertifikat Jaminan Fidusia dapat dicetak pada tanggal yang
 - [[Pasal_9]]: (1) Dalam hal terjadi kesalahan pengisian data dalam
 - [[Pasal_10]]: Permohonan perbaikan sertifikat Jaminan Fidusia
-- [[Pasal_11]]: (2) Bukti pendaftaran sebagaimana dimaksud pada ayat (1)
+- [[Pasal_11]]: (1) Dalam hal terjadi kesalahan pengisian atau perubahan
 - [[Pasal_12]]: (1) Permohonan perubahan sertifikat Jaminan Fidusia yang
 - [[Pasal_13]]: (1) Pemohon melakukan pembayaran biaya permohonan
 - [[Pasal_14]]: (1) Sertifikat perubahan atas sertifikat Jaminan Fidusia

@@ -18,13 +18,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-```
+Manajer Investasi dan atau Pihak terafiliasinya
+yang melanggar ketentuan sebagaimana dimaksud
+dalam
 
------
+Pasal 42
+diancam dengan pidana kurungan
+paling lama 1 (satu) tahun dan denda paling
+banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
-```
- - 59
-**(2) Tindak pidana sebagaimana dimaksud dalam Pasal 103 ayat (1),**
+Pasal 106…
 
 ## Penjelasan Resmi
 

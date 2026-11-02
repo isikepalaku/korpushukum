@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '489'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Da1am hal perbuatan sebagaimana dimaksud dalam Pasal 486 dilakukan oleh orang ya
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dalam ketentuan ini, penyerahan Barang karena terpaksa, misalnya pada walrhr terjadi bencana alam seperti kebakaran, banjir, gempa. bumi, dan lainlain, Barang tersebut diserahkan untuk diselamatkan atau karena tidak mampu mengurus sendiri Barang tersebut, sehingga perlu diserahkan kepa.da pihak lain.

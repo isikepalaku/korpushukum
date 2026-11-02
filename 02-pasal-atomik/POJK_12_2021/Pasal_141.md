@@ -19,9 +19,13 @@ mengamandemen: []
 
 (1) Bank BHI, KCBLN, atau KPBLN yang melanggar
 
-ketentuan sebagaimana dimaksud dalam Pasal 128
+ketentuan sebagaimana dimaksud dalam
 
-ayat (1), Pasal 134 ayat (1), ayat (3), Pasal 135 ayat (1),
+Pasal 128
+ayat (1),
+
+Pasal 134
+ayat (1), ayat (3), Pasal 135 ayat (1),
 
 ## Penjelasan Resmi
 

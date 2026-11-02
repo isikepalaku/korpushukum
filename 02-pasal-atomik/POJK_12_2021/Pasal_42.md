@@ -31,15 +31,29 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2), dan belum memenuhi ketentuan sebagaimana
 
-dimaksud dalam Pasal 32, Pasal 33 ayat (2), Pasal 35
+dimaksud dalam Pasal 32,
 
-ayat (1), Pasal 38 ayat (1), Pasal 39 ayat (2), Pasal 40
+Pasal 33
+ayat (2), Pasal 35
 
-ayat (1), Pasal 41 ayat (1), ayat (2), ayat (3), Pasal 42
+ayat (1),
 
-ayat (1), Pasal 43 ayat (1), Pasal 44, Pasal 45 ayat (1),
+Pasal 38
+ayat (1), Pasal 39 ayat (2), Pasal 40
 
-dan/atau Pasal 46, Bank BHI dikenai sanksi
+ayat (1),
+
+Pasal 41
+ayat (1), ayat (2), ayat (3), Pasal 42
+
+ayat (1),
+
+Pasal 43
+ayat (1), Pasal 44, Pasal 45 ayat (1),
+
+dan/atau
+
+Pasal 46, Bank BHI dikenai sanksi
 
 administratif berupa:
 
@@ -57,7 +71,10 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2) dan melanggar ketentuan sebagaimana dimaksud
 
-dalam Pasal 32, Pasal 33 ayat (2), Pasal 35 ayat (1),
+dalam Pasal 32,
+
+Pasal 33
+ayat (2), Pasal 35 ayat (1),
 
 ## Penjelasan Resmi
 

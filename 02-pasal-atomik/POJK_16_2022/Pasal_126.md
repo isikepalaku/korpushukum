@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) OJK melakukan pencabutan izin usaha Bank yang
 merupakan tindak lanjut dari resolusi Bank
-sebagaimana dimaksud dalam Pasal 118 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 118
+ayat (2) huruf
 c.
 (2) Tata cara pencabutan izin usaha Bank sebagaimana
 dimaksud pada ayat (1) dilaksanakan sesuai dengan

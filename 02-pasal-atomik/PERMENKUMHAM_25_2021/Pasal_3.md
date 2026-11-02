@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Untuk mendapatkan Hak Akses sebagaimana dimaksud
 
-dalam Pasal 2 ayat (2), Pemohon mengisi formulir
+dalam
+
+Pasal 2
+ayat (2), Pemohon mengisi formulir
 
 permohonan Hak Akses.
 

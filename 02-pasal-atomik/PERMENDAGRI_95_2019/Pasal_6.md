@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) 
-Basis Data sebagaimana dimaksud dalam Pasal 5 ayat 
+Basis Data sebagaimana dimaksud dalam
+
+Pasal 5
+ayat 
 (2), dilakukan melalui perekaman data menggunakan 
 SIAK. 
 (2) 

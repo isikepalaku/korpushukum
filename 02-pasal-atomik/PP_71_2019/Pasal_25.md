@@ -21,4 +21,4 @@ Penyelenggara Sistem Elektronik wajib menampilkan kembali Informasi Elektronik d
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

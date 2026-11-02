@@ -38,7 +38,10 @@ Lembaga Penjamin Simpanan.
 yang tersisa dari Program Restrukturisasi Perbankan,
 selisih lebih tersebut menambah kekayaan Lembaga
 Penjamin Simpanan yang berasal dari kontribusi industri
-perbankan sebagaimana dimaksud dalam Pasal 39 ayat (1)
+perbankan sebagaimana dimaksud dalam
+
+Pasal 39
+ayat (1)
 huruf c.
 
 (4) Dalam hal terdapat selisih kurang antara aset dan
@@ -47,7 +50,10 @@ kewajiban yang tersisa dari Program Restrukturisasi
 Perbankan, selisih kurang tersebut tidak diperhitungkan
 dalam modal Lembaga Penjamin Simpanan dan ditutup
 dengan kontribusi industri perbankan sebagaimana
-dimaksud dalam Pasal 39 ayat (1) huruf c yang diterima
+dimaksud dalam
+
+Pasal 39
+ayat (1) huruf c yang diterima
 Lembaga Penjamin Simpanan.
 
 (5) Untuk . . .

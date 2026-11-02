@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Untuk melaksanakan tugas pengaturan sebagaimana
-dimaksud dalam Pasal 6, OJK mempunyai wewenang:
+dimaksud dalam
+
+Pasal 6, OJK mempunyai wewenang:
 
 a. menetapkan peraturan pelaksanaan Undang-Undang ini;
 b. menetapkan peraturan perundang-undangan di sektor
@@ -39,6 +41,12 @@ mengelola, memelihara, dan menatausahakan kekayaan
 dan kewajiban; dan
 i. menetapkan peraturan mengenai tata cara pengenaan
 sanksi sesuai dengan ketentuan peraturan perundangundangan di sektor jasa keuangan.
+
+Pasal 9 ...
+
+-----
+
+- 9
 
 ## Penjelasan Resmi
 

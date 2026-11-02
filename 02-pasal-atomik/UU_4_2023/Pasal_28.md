@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '28'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -46,6 +46,60 @@ merupakan biaya dalam memelihara Stabilitas Sistem Keuangan dan biaya untuk pena
 - (2) Selisih lebih antara dana atau biaya yang dikeluarkan Lembaga Penjamin Simpanan untuk penanganan permasalahan Bank dan pengembalian kepada Lembaga Penjamin Simpanan merupakan penambah kekayaan Lembaga Penjamin Simpanan.
 21. Di antara Pasal 28 dan Pasal 29 disisipkan 1 (satu) pasal, yakni Pasal 28A sehingga berbunyi sebagai berikut:
 
+**Pasal 28A**
+
+Ketentuan mengenai perpajakan penanganan permasalahan solvabilitas Bank Sistemik diatur dalam Peraturan Pemerintah.
+
+22. Di antara Pasal 29 dan Pasal 30 dalam Bagian Kelima Bab III, disisipkan 1 (satu) pasal, yakni Pasal 29A sehingga berbunyi sebagai berikut:
+
+**Pasal 29A**
+
+**Ketentuan mengenai:**
+
+- a. pemenuhan ketentuan khusus mengenai rasio kecukupan modal dan rasio kecukupan likuiditas sebagaimana dimaksud dalam Pasal 18;
+- b. penyusunan rencana aksi pemulihan sebagaimana dimaksud dalam Pasal 18A ayat (1), ayat (2), dan ayat (4);
+
+c. penyusunan ...
+
+- c. penyusunan rencana resolusi sebagaimana dimaksud dalam Pasal 18B; dan
+- d. penilaian rencana resolusi dan uji resolvabilitas sebagaimana dimaksud dalam Pasal 18C,
+
+berlaku secara mutatis mutandis terhadap Bank selain Bank Sistemik.
+
+23. Ketentuan Bagian Kelima Bab III diubah sehingga berbunyi sebagai berikut:
+
+**Bagian Keenam**
+
+Penanganan Permasalahan Bank selain Bank Sistemik
+
+24. Ketentuan
+
+Pasal 30
+diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 21
+
+Pasal 28A
+
+Cukup jelas.
+
+Angka 22
+
+Pasal 29A
+
+Yang dimaksud dengan "mutatis mutandis" adalah ketentuan mengenai rasio kecukupan modal, kewajiban penyusunan rencana aksi pemulihan, kewajiban penyusunan rencana resolusi, dan penilaian rencana resolusi, dengan perubahan kecil atau yang perlu untuk disesuaikan, berlaku juga untuk Bank selain Bank Sistemik.
+
+Contoh: Penggantian frasa "Bank Sistemik" dalam
+
+Pasal 18
+menjadi frasa "Bank selain Bank Sistemik".
+
+Angka 23
+
+Cukup jelas.
+
+Angka 24

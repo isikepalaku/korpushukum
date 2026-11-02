@@ -24,7 +24,10 @@ pembetulan
 akta 
 Pencatatan 
 Sipil 
-sebagaimana dimaksud dalam Pasal 86 huruf a dan 
+sebagaimana dimaksud dalam
+
+Pasal 86
+huruf a dan 
 huruf b, dengan memenuhi persyaratan sesuai dengan 
 ketentuan Peraturan Presiden mengenai persyaratan dan 
 tata cara Pendaftaran Penduduk dan Pencatatan Sipil. 

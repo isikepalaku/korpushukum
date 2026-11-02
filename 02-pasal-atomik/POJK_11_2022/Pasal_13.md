@@ -17,25 +17,39 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-berupa:
+(1) Bank wajib menyampaikan rencana strategis TI
 
-a. larangan untuk menerbitkan produk Bank baru;
+sebagaimana dimaksud dalam
 
-b. pembekuan kegiatan usaha tertentu; dan/atau
+Pasal 12
+ayat (1)
 
-c. penurunan penilaian faktor tata kelola dalam
+kepada Otoritas Jasa Keuangan paling lambat pada
 
-penilaian tingkat kesehatan Bank.
+akhir bulan November tahun sebelum periode awal
 
-BAB IV
+rencana strategis TI dimulai.
 
-PENERAPAN MANAJEMEN RISIKO
+(2) Dalam hal terdapat kondisi yang secara signifikan
 
-PENYELENGGARAAN TI BANK
+memengaruhi sasaran dan strategi TI Bank
 
-Bagian Kesatu
+sebagaimana dimuat dalam rencana strategis TI yang
 
-Umum
+sedang berjalan, Bank dapat melakukan perubahan
+
+rencana strategis TI.
+
+(3) Bank menyampaikan perubahan rencana strategis TI
+
+sebagaimana dimaksud pada ayat (2) kepada Otoritas
+
+Jasa Keuangan sewaktu-waktu dalam periode rencana
+
+strategis TI sebagaimana dimaksud dalam
+
+Pasal 12
+ayat (2).
 
 ## Penjelasan Resmi
 

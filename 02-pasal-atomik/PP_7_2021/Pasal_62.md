@@ -20,7 +20,10 @@ mengamandemen: []
 **(1) Alokasi besaran penyediaan tempat promosi dan**
 
 **pengembangan Usaha Mikr:o dan Usaha Kecil**
-sebagaimana dimaksud dalam Pasal 60 ayat (1) wajib
+sebagaimana dimaksud dalam
+
+Pasal 60
+ayat (1) wajib
 **tertuang dalarn kontrak kerja sama antara penyelenggara infrastruktur publik dengan pengelola intiastruktur publik.**
 
 .

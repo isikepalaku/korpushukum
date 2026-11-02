@@ -17,19 +17,143 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sanksi administratif berupa:
+(1) Dalam hal terdapat kondisi berupa:
 
-a. larangan untuk menerbitkan produk Bank baru;
+a. hasil penilaian ulang materialitas sebagaimana
 
-b. pembekuan kegiatan usaha tertentu; dan/atau
+dimaksud dalam
 
-c. penurunan penilaian faktor tata kelola dalam
+Pasal 31
+menunjukkan bahwa
 
-penilaian tingkat kesehatan Bank.
+kinerja pihak penyedia jasa TI berpotensi tidak
+
+berjalan dengan efektif;
+
+b. memburuknya kinerja penyelenggaraan TI oleh
+
+pihak penyedia jasa TI yang berpotensi
+
+menimbulkan dan/atau mengakibatkan dampak
+
+yang signifikan pada kegiatan usaha dan/atau
+
+operasional Bank;
 
 **t id**
 
 -----
+
+c. pihak penyedia jasa TI menjadi insolven, dalam
+
+proses menuju likuidasi, atau dipailitkan oleh
+
+pengadilan;
+
+d. terdapat pelanggaran oleh pihak penyedia jasa TI
+
+terhadap ketentuan peraturan perundang
+undangan mengenai rahasia Bank dan/atau data
+
+pribadi nasabah;
+
+e. terdapat kondisi yang menyebabkan Bank tidak
+
+dapat menyediakan data yang diperlukan untuk
+
+pengawasan oleh Otoritas Jasa Keuangan;
+
+dan/atau
+
+f. terdapat kondisi lain yang menyebabkan
+
+terganggunya atau terhentinya penyediaan jasa TI
+
+dari pihak penyedia jasa TI kepada Bank,
+
+Bank wajib melakukan tindakan tertentu.
+
+(2) Tindakan tertentu sebagaimana dimaksud pada
+
+ayat (1), paling sedikit:
+
+a. melaporkan kepada Otoritas Jasa Keuangan
+
+paling lama 3 (tiga) hari kerja setelah kondisi
+
+sebagaimana dimaksud pada ayat (1) diketahui
+
+oleh Bank;
+
+b. memutuskan tindak lanjut yang akan diambil
+
+untuk mengatasi permasalahan termasuk
+
+penghentian penggunaan pihak penyedia jasa TI
+
+dalam hal diperlukan; dan
+
+c. melaporkan kepada Otoritas Jasa Keuangan
+
+paling lama 3 (tiga) hari kerja setelah Bank
+
+menghentikan penggunaan pihak penyedia jasa TI
+
+sebelum berakhirnya jangka waktu perjanjian,
+
+dalam hal Bank memutuskan untuk
+
+menghentikan penggunaan pihak penyedia jasa
+
+TI.
+
+(3) Dalam hal penggunaan pihak penyedia jasa TI atau
+
+rencana penggunaan pihak penyedia jasa TI
+
+menyebabkan atau diindikasikan akan menyebabkan
+
+kesulitan pengawasan yang dilakukan oleh Otoritas
+
+Jasa Keuangan, Otoritas Jasa Keuangan dapat:
+
+**t id**
+
+-----
+
+a. memerintahkan Bank untuk menghentikan
+
+penggunaan pihak penyedia jasa TI sebelum
+
+berakhirnya jangka waktu perjanjian; atau
+
+b. melarang rencana penggunaan pihak penyedia
+
+jasa TI oleh Bank.
+
+(4) Dalam hal Bank akan menghentikan penggunaan
+
+pihak penyedia jasa TI, Bank wajib:
+
+a. menyusun rencana penghentian penggunaan
+
+pihak penyedia jasa TI;
+
+b. melakukan penilaian atas kelangsungan layanan
+
+dan data terkait dengan kegiatan yang diserahkan
+
+kepada pihak penyedia jasa TI serta pengujian
+
+atau simulasi terhadap kelangsungan kegiatan
+
+usaha dan/atau operasional Bank; dan
+
+c. memastikan penghentian penggunaan pihak
+
+penyedia jasa TI tidak menimbulkan gangguan
+
+pada kegiatan usaha dan/atau operasional Bank.
 
 ## Penjelasan Resmi
 

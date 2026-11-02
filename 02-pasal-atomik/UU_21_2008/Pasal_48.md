@@ -25,6 +25,12 @@ atau Nasabah Investor yang bersangkutan berhak memperoleh
 keterangan mengenai Simpanan Nasabah Penyimpan atau
 Nasabah Investor tersebut.
 
+Pasal 49 ...
+
+-----
+
+ - 26
+
 ## Penjelasan Resmi
 
 Cukup jelas.

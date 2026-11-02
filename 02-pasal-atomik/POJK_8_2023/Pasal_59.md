@@ -17,26 +17,17 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-62, dan/atau Pasal 63 ayat (1), ayat (3), ayat (4) dikenai
-sanksi administratif berupa:
-a. peringatan atau teguran tertulis yang disertai dengan
-perintah untuk melakukan tindakan tertentu;
-b. denda;
-c. pembatasan kegiatan usaha tertentu;
-d. penurunan penilaian faktor pembentuk nilai tingkat
-kesehatan;
-e. pembekuan kegiatan usaha tertentu; dan/atau
-f. larangan sebagai pihak utama.
-(2) Otoritas Jasa Keuangan dapat mengumumkan pengenaan
-sanksi administratif sebagaimana dimaksud pada ayat (1)
-kepada masyarakat.
-(3) Pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (1) tidak menghapus kewajiban PJK untuk tetap
-melaksanakan ketentuan dalam Pasal sebagaimana
-dimaksud pada ayat (1).
-
-BAB V
-PENGENDALIAN INTERN
+(1) Dalam hal terdapat beberapa Transfer Dana dari 1 (satu)
+Nasabah atau WIC pengirim yang tergabung dalam 1 (satu)
+dokumen yang ditujukan kepada beberapa Nasabah
+dan/atau WIC penerima, bank wajib memastikan
+dokumen tersebut memuat informasi mengenai Nasabah
+atau WIC pengirim dan informasi mengenai Nasabah
+dan/atau WIC penerima secara lengkap.
+(2) Bank wajib menelusuri informasi sebagaimana dimaksud
+pada ayat (1) di negara Nasabah dan/atau WIC penerima.
+(3) Bank wajib mencantumkan nomor rekening atau nomor
+referensi transaksi Nasabah atau WIC pengirim.
 
 ## Penjelasan Resmi
 

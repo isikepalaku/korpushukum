@@ -55,7 +55,7 @@ mengamandemen:
 - (4) Dalam rangka akuntabilitas keuangan, Badan Pemeriksa Keuangan melakukan pemeriksaan keuangan terhadap BUMN, badan usaha milik daerah, Badan Usaha swasta, dan perguruan tinggi sebagaimana dimaksud pada ayat (3) secara berkala.
 - (5) Ketentuan lebih lanjut mengenai pemberian WIUP Batubara dengan cara prioritas kepada BUMN, badan usaha milik daerah, atau Badan Usaha swasta dan pemberian 5glagian keuntungan kepada perguruan tinggi sebagaimana dimaksud pada ayat (l) sampai dengan ayat l4l diatur dengan atau berdasarkan Peraturan Pemerintah.
 
-**Pasal 6O8**
+**Pasal 608**
 
 - (1) WIUP Batubara dalam rangka hilirisasi dapat diberikan kepada BUMN dan Badan Usaha swasta dengan cara prioritas.
 2. (21 Pemberian dengan cara prioritas sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mempertimbangkan:

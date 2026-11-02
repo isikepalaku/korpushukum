@@ -4,7 +4,7 @@ judul: "Map of Content - Pasar Modal"
 kode_uu: UU_8_1995
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_8_1995]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Pasar Modal (UU_8_1995)
@@ -13,11 +13,11 @@ last_updated: 2026-11-01
 
 ## Daftar Pasal
 
-- [[Pasal_1]]: 1995 tentang Perseroan Terbatas.
+- [[Pasal_1]]: Dalam Undang-undang ini yang dimaksud dengan:
 - [[Pasal_2]]: Menteri menetapkan kebijaksanaan umum di bidang
 - [[Pasal_3]]: ```
 - [[Pasal_4]]: ```
-- [[Pasal_5]]: Dalam melaksanakan ketentuan sebagaimana dimaksud dalam Pasal 3
+- [[Pasal_5]]: Dalam melaksanakan ketentuan sebagaimana dimaksud dalam
 - [[Pasal_6]]: (1) Yang dapat menyelenggarakan kegiatan usaha sebagai Bursa Efek
 - [[Pasal_7]]: (1) Bursa Efek didirikan dengan tujuan menyelenggarakan perdagangan
 - [[Pasal_8]]: Yang dapat menjadi pemegang saham Bursa Efek
@@ -25,7 +25,7 @@ last_updated: 2026-11-01
 - [[Pasal_10]]: ```
 - [[Pasal_11]]: Peraturan yang wajib dibuat oleh Bursa Efek,
 - [[Pasal_12]]: (1) Bursa Efek wajib mempunyai satuan pemeriksa yang bertugas
-- [[Pasal_13]]: dan Pasal 64 diancam dengan pidana penjara paling lama 5 (lima)
+- [[Pasal_13]]: ```
 - [[Pasal_14]]: (1) Lembaga Kliring dan Penjaminan didirikan dengan tujuan
 - [[Pasal_15]]: (1) Yang dapat menjadi pemegang saham Lembaga Kliring dan
 - [[Pasal_16]]: (1) Lembaga Kliring dan Penjaminan wajib menetapkan peraturan
@@ -87,7 +87,7 @@ last_updated: 2026-11-01
 - [[Pasal_72]]: (1) Penjamin Pelaksana Emisi Efek ditunjuk oleh Emiten.
 - [[Pasal_73]]: ```
 - [[Pasal_74]]: (1) Pernyataan Pendaftaran menjadi efektif pada hari ke-45 (keempat
-- [[Pasal_75]]: **(1) Bapepam wajib memperhatikan kelengkapan, kecukupan,**
+- [[Pasal_75]]: ```
 - [[Pasal_76]]: ```
 - [[Pasal_77]]: Ketentuan mengenai persyaratan dan tata cara
 - [[Pasal_78]]: (1) Setiap Prospektus dilarang memuat keterangan yang tidak benar
@@ -105,19 +105,19 @@ last_updated: 2026-11-01
 - [[Pasal_90]]: Dalam kegiatan perdagangan Efek, setiap Pihak dilarang secara langsung
 - [[Pasal_91]]: Setiap Pihak dilarang melakukan tindakan, baik
 - [[Pasal_92]]: Setiap Pihak, baik sendiri-sendiri maupun
-- [[Pasal_93]]: dan Pasal 98 diancam dengan pidana penjara paling
+- [[Pasal_93]]: Setiap Pihak dilarang, dengan cara apa pun, membuat pernyataan atau
 - [[Pasal_94]]: ```
 - [[Pasal_95]]: Orang dalam dari Emiten atau Perusahaan Publik yang mempunyai
-- [[Pasal_96]]: Orang dalam sebagaimana dimaksud dalam Pasal 95 dilarang:
+- [[Pasal_96]]: Orang dalam sebagaimana dimaksud dalam
 - [[Pasal_97]]: (1) Setiap Pihak yang berusaha untuk memperoleh informasi orang
 - [[Pasal_98]]: Perusahaan Efek yang memiliki informasi orang dalam mengenai Emiten
 - [[Pasal_99]]: ```
-- [[Pasal_100]]: lama 1 (satu) tahun dan denda paling banyak
+- [[Pasal_100]]: (1) Bapepam dapat mengadakan pemeriksaan terhadap setiap Pihak
 - [[Pasal_101]]: (1) Dalam hal Bapepam berpendapat pelanggaran terhadap
 - [[Pasal_102]]: (1) Bapepam mengenakan sanksi administratif atas pelanggaran
 - [[Pasal_103]]: (1) Setiap Pihak yang melakukan kegiatan di Pasar Modal tanpa izin,
-- [[Pasal_104]]: BABXVI
-- [[Pasal_105]]: ```
+- [[Pasal_104]]: Setiap Pihak yang melanggar ketentuan sebagaimana
+- [[Pasal_105]]: Manajer Investasi dan atau Pihak terafiliasinya
 - [[Pasal_106]]: (1) Setiap Pihak yang melakukan pelanggaran atas ketentuan
 - [[Pasal_107]]: Setiap Pihak yang dengan sengaja bertujuan menipu
 - [[Pasal_108]]: Ancaman pidana penjara atau pidana kurungan dan

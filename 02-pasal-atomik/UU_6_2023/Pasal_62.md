@@ -14,7 +14,6 @@ diamandemen_oleh:
 - '[[02-pasal-atomik/UU_3_2024/Pasal_62|UU 3/2024 Pasal 62]]'
 mengamandemen:
 - '[[02-pasal-atomik/UU_21_2008/Pasal_62|UU 21/2008 Pasal 62]]'
-- '[[02-pasal-atomik/UU_22_2001/Pasal_62|UU 22/2001 Pasal 62]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_62|UU 25/1992 Pasal 62]]'
 ---
 
@@ -41,3 +40,5 @@ Cukup jelas.
 Ayat (a)
 
 Cukup jelas.
+
+Angka 16

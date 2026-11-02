@@ -41,6 +41,12 @@ mengamandemen: []
 
  lanjut dalam Peraturan Pemerintah.
 
+Pasal 38 ...
+
+-----
+
+**- 17**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

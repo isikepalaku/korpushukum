@@ -36,7 +36,14 @@ dengan yang lain; atau
 **(3) Penuntut Umum dapat menuntut 2 (dua) atau lebih**
 
 Terdakwa dalam I (satu) surat dakwaan, jika Terdakwa
-**melakukan tindak pidana penyertaan.**
+**melakukan tindak pidana penyertaan.**Pasal 73...
+
+-----
+
+PRESIDEN
+REPUBUK INDONESIA
+
+**-39-**
 
 ## Penjelasan Resmi
 

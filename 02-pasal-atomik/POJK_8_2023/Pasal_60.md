@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan sebagaimana dimaksud dalam Pasal 58
+Ketentuan sebagaimana dimaksud dalam
+
+Pasal 58
 dikecualikan terhadap:
 
 -----

@@ -22,7 +22,10 @@ mengamandemen: []
  Syariah, perusahaan reasuralsi, atau perusahaan reasuransi syariah dikenai sanksi peringatan tertulis atau pembatasan kegiatan usaha, Otoritas Jasa
 Keuangan dapat memerintahkan :
 **a. penambahan modal; b. penggantian direksi, dewan komisaris, atau yang**
- setara dengan direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c, dewan pengawas syariah, al<tr.raris perusahaan, atau auditor internal;
+ setara dengan direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (1) huruf c, dewan pengawas syariah, al<tr.raris perusahaan, atau auditor internal;
 
  c. direksi
 
@@ -34,7 +37,10 @@ REPI,]BLIK INDONESIA
 **-51 -**
 
  c. direksi, dewan komisaris, atau yang setara dengan
- direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c, dan/atau dewan pengawas syariah menyerahkan pengendalian dan pengelolaan kegiatan Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau perusahaan reasuransi syariah
+ direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (1) huruf c, dan/atau dewan pengawas syariah menyerahkan pengendalian dan pengelolaan kegiatan Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau perusahaan reasuransi syariah
 kepada Pengelola Statuter;
 **d. Perusahaan Asuransi, Perusahaan Asuransi Syariah,**
  perusahaan reasuransi, atau perusahaan reasuransi syariah mengalihkan sebagian atau seluruh portofolio pertanggungan kepada Perusahaan Asuransi,

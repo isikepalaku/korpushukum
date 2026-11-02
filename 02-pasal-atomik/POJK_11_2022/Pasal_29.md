@@ -17,7 +17,47 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Bank dapat menggunakan pihak penyedia jasa TI
 
+dalam penyelenggaraan TI.
+
+(2) Bank yang menggunakan pihak penyedia jasa TI
+
+sebagaimana dimaksud pada ayat (1) wajib memiliki
+
+kemampuan dalam melakukan pengawasan atas
+
+pelaksanaan kegiatan Bank yang diselenggarakan oleh
+
+pihak penyedia jasa TI.
+
+(3) Bank wajib memiliki kebijakan dan prosedur dalam
+
+penggunaan pihak penyedia jasa TI sebagaimana
+
+dimaksud pada ayat (1) paling sedikit memuat:
+
+**t id**
+
+-----
+
+a. proses identifikasi kebutuhan penggunaan pihak
+
+penyedia jasa TI;
+
+b. proses pemilihan pihak penyedia jasa TI;
+
+c. tata cara melakukan hubungan kerja sama
+
+dengan pihak penyedia jasa TI;
+
+d. proses manajemen risiko penggunaan pihak
+
+penyedia jasa TI; dan
+
+e. tata cara penilaian kinerja dan kepatuhan pihak
+
+penyedia jasa TI.
 
 ## Penjelasan Resmi
 

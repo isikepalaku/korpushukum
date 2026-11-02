@@ -18,17 +18,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
------
+Fungsi LPS adalah:
 
-**(2) Ketentuan lebih lanjut mengenai pelaksanaan fungsi LPS**
+ a. menjamin simpanan nasabah penyimpan; dan
 
- sebagaimana dimaksud pada ayat (1) ditetapkan dalam
+ b. turut aktif dalam memelihara stabilitas sistem perbankan
 
- Peraturan Pemerintah.
-
- BAB XV KETENTUAN
-
- PERALIHAN
+ sesuai dengan kewenangannya.
 
 ## Penjelasan Resmi
 

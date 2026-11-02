@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 **(1) Otoritas Jasa Keuangan dapat menonaktilkan direksi,**
- dewan komisaris, atau yang setara dengan direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c, dan/atau dewan pengawas syariah, serta menetapkan Pengelola Statuter untuk mengambil alih kepengurusan Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau perusahaan reasuransi syariah, dalam hal: a. Perusahaan Asuransi, Perusahaan Asuransi Syariah,
+ dewan komisaris, atau yang setara dengan direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (1) huruf c, dan/atau dewan pengawas syariah, serta menetapkan Pengelola Statuter untuk mengambil alih kepengurusan Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau perusahaan reasuransi syariah, dalam hal: a. Perusahaan Asuransi, Perusahaan Asuransi Syariah,
  perusahaan reasuransi, atau perusahaan reasuransi syariah tersebut telah dikenai sanksi pembatasan kegiatan usaha; b. Perusahaan Asuransi, Perusahaan Asuransi Syariah,
  perusahaan reasuransi, atau perusahaan reasuransi syariah tersebut memberikan informasi kepada Otoritas Jasa Keuangan bahwa menurut pertimbangannya perusahaan diperkirakan tidak mampu memenuhi kewajibannya atau akan menghentikan pelunasan kewajiban yang [jatuh]
 tempo;
@@ -51,7 +54,10 @@ Keuangan.
 (3) Pada saat Pengelola Statuter mulai melakukan
 
 **pengambilalihan kepengurusan Perusahaan Asuransi, Perusahaan Asuransi Syariah, [perusahaan ][reasuransi,] atau perusahEran reasuransi syariah, maka: a. direksi, dewan komisaris, atau yang setara [dengan]**
- direksi dan dewan komisaris [pada ]badan [hukum] berbentuk koperasi atau usaha bersama [sebagaimana] dimaksud dalam Pasal 6 ayat [(1) ]huruf c, dan/ [atau] dewan pengawas syariah tidak dapat [melakukan] tindakan selaku direksi, dewan komisaris, [atau ][yang] setara dengan direksi dan dewan komisaris [pada] badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam [Pasal ]6 [ayat]
+ direksi dan dewan komisaris [pada ]badan [hukum] berbentuk koperasi atau usaha bersama [sebagaimana] dimaksud dalam
+
+Pasal 6
+ayat [(1) ]huruf c, dan/ [atau] dewan pengawas syariah tidak dapat [melakukan] tindakan selaku direksi, dewan komisaris, [atau ][yang] setara dengan direksi dan dewan komisaris [pada] badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam [Pasal ]6 [ayat]
 (1) hurufc, dan/atau dewan pengawas syariah; dan
 
 **b. direksi**
@@ -66,8 +72,14 @@ R EF L]tsL IK IN D ONES IA
 **-44-**
 
  b. direksi, dewan komisaris, atau yang setara dengan
- direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam Pasal 6 ayat (I) huruf c, dan/atau dewan pengawas syariah nonaktif w4jib membantu Pengelola Statuter dalam menjalankan fungsi kepengurusan. (4) Direksi, dewan komisaris, atau yang setara dengan
- direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c, dan/atau dewan pengawas syariah nonaktif dilarang mengundurkan diri selama fungsi kepengurusarl diambil alih oleh Pengelola Statuter. (5) Otoritas Jasa Keuangan setiap saat dapat
+ direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (I) huruf c, dan/atau dewan pengawas syariah nonaktif w4jib membantu Pengelola Statuter dalam menjalankan fungsi kepengurusan. (4) Direksi, dewan komisaris, atau yang setara dengan
+ direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (1) huruf c, dan/atau dewan pengawas syariah nonaktif dilarang mengundurkan diri selama fungsi kepengurusarl diambil alih oleh Pengelola Statuter. (5) Otoritas Jasa Keuangan setiap saat dapat
  memberhentikan Pengelola Statuter.
  (6) Ketentuan lebih lanjut mengenai penetapan, tugas, masa tugas, dan pemberhentian Pengelola Statuter sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (5) serta hak dan kewajiban direksi, dewan komisaris, atau yang setara dengan direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam Pasal 6 ayat [(1)] huruf c, dal /atau dewan pengawas syariah nonaktif
 sebagaimana dimalsud pada ayat (3) dan ayat [(4) ]diatur

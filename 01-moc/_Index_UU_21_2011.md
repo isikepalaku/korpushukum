@@ -4,7 +4,7 @@ judul: "Map of Content - Otoritas Jasa Keuangan"
 kode_uu: UU_21_2011
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_21_2011]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Otoritas Jasa Keuangan (UU_21_2011)
@@ -22,7 +22,7 @@ last_updated: 2026-11-01
 - [[Pasal_7]]: Untuk melaksanakan tugas pengaturan dan pengawasan di
 - [[Pasal_8]]: Untuk melaksanakan tugas pengaturan sebagaimana
 - [[Pasal_9]]: Untuk melaksanakan tugas pengawasan sebagaimana
-- [[Pasal_10]]: pejabat sementara untuk melaksanakan tugas dan
+- [[Pasal_10]]: (1) OJK dipimpin oleh Dewan Komisioner.
 - [[Pasal_11]]: (1) Anggota Dewan Komisioner sebagaimana dimaksud
 - [[Pasal_12]]: (1) Presiden memilih dan menyampaikan calon anggota
 - [[Pasal_13]]: (1) Anggota Dewan Komisioner sebagaimana dimaksud
@@ -32,7 +32,7 @@ last_updated: 2026-11-01
 - [[Pasal_17]]: (1) Anggota Dewan Komisioner tidak dapat diberhentikan
 - [[Pasal_18]]: (1) Dalam hal anggota Dewan Komisioner sebagaimana
 - [[Pasal_19]]: (1) Dalam hal Ketua Dewan Komisioner diberhentikan
-- [[Pasal_20]]: Tugas pengaturan sebagaimana dimaksud dalam Pasal 6
+- [[Pasal_20]]: Tugas pengaturan sebagaimana dimaksud dalam
 - [[Pasal_21]]: Dalam melaksanakan kewenangan sebagaimana dimaksud
 - [[Pasal_22]]: Anggota Dewan Komisioner dilarang:
 - [[Pasal_23]]: (1) Antaranggota Dewan Komisioner dilarang mempunyai
@@ -46,7 +46,7 @@ last_updated: 2026-11-01
 - [[Pasal_31]]: Ketentuan lebih lanjut mengenai perlindungan Konsumen
 - [[Pasal_32]]: (1) Dewan Komisioner menetapkan dan menegakkan kode
 - [[Pasal_33]]: (1) Setiap orang perseorangan yang menjabat atau pernah
-- [[Pasal_34]]: persetujuan Dewan Perwakilan Rakyat.
+- [[Pasal_34]]: (1) Dewan Komisioner menyusun dan menetapkan rencana
 - [[Pasal_35]]: (1) Anggaran OJK sebagaimana dimaksud dalam Pasal 34
 - [[Pasal_36]]: Untuk penetapan anggaran sebagaimana dimaksud dalam
 - [[Pasal_37]]: (1) OJK mengenakan pungutan kepada pihak yang

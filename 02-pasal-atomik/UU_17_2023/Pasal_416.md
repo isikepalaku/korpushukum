@@ -22,7 +22,6 @@ Ketentuan lebih lanjut mengenai koordinasi dan sinkronisasi penguatan sistem Kes
 ## BAB XV PARTISIPASI MASYARAKAT
 
 ## Pasal 4L7
-
 - (1) Masyarakat berpartisipasi, baik secara perseorangan maupun terorganisasi dalam segala bentuk dan tahapan pembangunan Kesehatan dalam rangka membantu mempercepat pencapaian der4jat Kesehatan masyarakat yang setinggi-tingginya.
 2. (21 Partisipasi sebagaimana dimaksud pada ayat (1) mencakup keikutsertaan secara aktif dan kreatif.
 

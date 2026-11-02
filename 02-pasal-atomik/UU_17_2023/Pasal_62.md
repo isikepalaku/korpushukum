@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai aborsi dimaksud dalam Pasal 60 dan Pasal 61 Peraturan Pemerintah. sebagaimana diatur dengan
+Ketentuan lebih lanjut mengenai aborsi dimaksud dalam Pasal 60 dan
+
+Pasal 61
+Peraturan Pemerintah. sebagaimana diatur dengan
 
 ## Bagian Ketqjuh
 

@@ -33,6 +33,12 @@ mengamandemen: []
 
 - (21 Kewajiban penghapusan Informasi Elektronik dan/atau Dokumen Elektronik sebagaimana dimaksud pada ayat (1) tidak berlaku dalam hal Informasi Elektronik dan/atau Dokumen Elektronik tersebut wajib disimpan atau dilarang untuk dihapus oleh Penyelenggara Sistem Elektronik sesuai dengan ketentuan peraturan perundang-undangan.
 
+Pasal 17. . .
+
+SK No011696 A
+
+FRESTDEN REPUBLIK INDONESIA
+
 ## Penjelasan Resmi
 
 Cukupjelas.

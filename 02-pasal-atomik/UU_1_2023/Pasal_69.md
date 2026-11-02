@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '69'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,5 +23,11 @@ mengamandemen: []
 2. l2l Ketentuan mengenai tata cara perubahan pidana penjara seumur hidup menjadi pidana penjara 20 (dua puluh) tahun sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
 
 ## Penjelasan Resmi
+
+Ayat (l)
+
+Ketentuan ini mengatur mengenai masa menjalani pidana penjara paling singkat 15 (lima belas) tahun sebelum diubah dari pidana penjara seumur hidup menjadi pidana penjara 20 (dua puluh) tahun yang dihitung sebagai masa menjalani pidana setelah penrbahan.
+
+Ayatl2l
 
 Cukup jelas.

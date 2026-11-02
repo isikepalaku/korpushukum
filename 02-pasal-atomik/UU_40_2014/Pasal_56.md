@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 **(r) Pendaftaran profesi penyedia [jasa ] sebagaimana dimaksud**
- dalam Pasal 55 ayat (2) menjadi batal apabila izin [profesi] yang bersangkutan dicabut oleh instansi yang
+ dalam
+
+Pasal 55
+ayat (2) menjadi batal apabila izin [profesi] yang bersangkutan dicabut oleh instansi yang
 
 berwenang.
 

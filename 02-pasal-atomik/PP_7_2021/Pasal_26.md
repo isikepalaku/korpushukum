@@ -18,7 +18,7 @@ mengamandemen: []
 ## Batang Tubuh
 
 **(1) Pemberdayaan bagi Koperasi di sektor kelautan dan**
-**perikanan sebagaimana dimaksud dalam pasal 25 huruf a meliputi:**
+**perikanan sebagaimana dimaksud dalam Pasal 25 huruf a meliputi:**
 **a. kerja sama penyelenggaraan tempat pelelangan**
 
 **ikan; dan**

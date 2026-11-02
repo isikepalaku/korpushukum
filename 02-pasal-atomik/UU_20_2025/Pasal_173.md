@@ -34,7 +34,11 @@ berwenang Mengadili perkara yang bersangkutan.
 **bersangkutan.**
 **(5) Pemeriksaan terhadap Ganti Rugi sebagaimana**
 
-**dimaksud pada ayat (4) mengikuti acara Praperadilan.**
+**dimaksud pada ayat (4) mengikuti acara Praperadilan.**Pasal 174 . . .
+
+-----
+
+**K INDONESIA**
 
 ## Penjelasan Resmi
 

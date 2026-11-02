@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Seluruh tahapan dalam Pengelolaan Rupiah sebagaimana
-dimaksud dalam Pasal 11 ayat (1) mengikuti prosedur
+dimaksud dalam
+
+Pasal 11
+ayat (1) mengikuti prosedur
 pengamanan.
 
 Bagian . . .

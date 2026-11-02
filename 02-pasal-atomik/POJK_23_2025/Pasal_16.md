@@ -70,7 +70,10 @@ Ketujuh Bab II sehingga berbunyi sebagai berikut:
 Bagian Ketujuh
 Sanksi Administratif
 
-25. Ketentuan Pasal 17 diubah sehingga berbunyi sebagai
+25. Ketentuan
+
+Pasal 17
+diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -80,3 +83,5 @@ Cukup jelas.
 Angka 24
 
 Cukup jelas.
+
+Angka 25

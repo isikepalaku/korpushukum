@@ -25,13 +25,19 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Ayat(l) Cukup jelas. Ayat (2) Kegiatan usaha tanpa izin di sektor keuangan di antaranya mencakup kegiatan penghimpunan dana dari masyarakat dan/ atau untuk disalurkan kepada masyarakat, penerbitan surat berharga yang bersifat ekuitas a tau utang/ sukuk yang ditawarkan kepada masyarakat, penyediaan produk atau jasa sistem pembayaran dan/atau kegiatan lain yang dapat dipersamakan dengan penghimpunan dana, penyaluran dana, pengelolaan dana, keperantaraan di sektor keuangan, dan penyediaan produk atau jasa sistem pembayaran. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Pasal 248 Cukup jelas. Pasal 249 Ayat (1) Usaha Mikro termasuk di dalamnya usaha ultra mikro. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Pasal 250 Usaha Mikro termasuk di dalamnya usaha ultra mikro. Pasal 251 Cukup jelas. Pasal 252 Ayat (1) Cukup jelas.
+Ayat(l) Cukup jelas. Ayat (2) Kegiatan usaha tanpa izin di sektor keuangan di antaranya mencakup kegiatan penghimpunan dana dari masyarakat dan/ atau untuk disalurkan kepada masyarakat, penerbitan surat berharga yang bersifat ekuitas a tau utang/ sukuk yang ditawarkan kepada masyarakat, penyediaan produk atau jasa sistem pembayaran dan/atau kegiatan lain yang dapat dipersamakan dengan penghimpunan dana, penyaluran dana, pengelolaan dana, keperantaraan di sektor keuangan, dan penyediaan produk atau jasa sistem pembayaran. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
+
+Pasal 248
+Cukup jelas. Pasal 249 Ayat (1) Usaha Mikro termasuk di dalamnya usaha ultra mikro. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Pasal 250 Usaha Mikro termasuk di dalamnya usaha ultra mikro. Pasal 251 Cukup jelas. Pasal 252 Ayat (1) Cukup jelas.
 ```
 
 Ayat (2) ...
 
 ```
-Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Materi yang akan diatur minimal mengenai kriteria pengelolaan dan pelaporan. Pasal 253 Ayat (1) Cukup jelas. Ayat (2) Standar kompetensi meliputi standar kompetensi untuk bidang atau jabatan pada industri sektor keuangan. Bidang atau jabatan dimaksud merupakan jenjang pekerjaan atau bagian pada suatu industri sektor keuangan yang melaksanakan fungsi kegiatan tertentu. Ayat (3) Cukup jelas. Pasal 254 Cukup jelas. Pasal 255 Cukup jelas. Pasal 256 Cukup jelas. Pasal 257 Cukup jelas. Pasal 258 Cukup jelas. Pasal 259 Ayat (1) Cukup jelas. Ayat (2)
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Materi yang akan diatur minimal mengenai kriteria pengelolaan dan pelaporan.
+
+Pasal 253
+Ayat (1) Cukup jelas. Ayat (2) Standar kompetensi meliputi standar kompetensi untuk bidang atau jabatan pada industri sektor keuangan. Bidang atau jabatan dimaksud merupakan jenjang pekerjaan atau bagian pada suatu industri sektor keuangan yang melaksanakan fungsi kegiatan tertentu. Ayat (3) Cukup jelas. Pasal 254 Cukup jelas. Pasal 255 Cukup jelas. Pasal 256 Cukup jelas. Pasal 257 Cukup jelas. Pasal 258 Cukup jelas. Pasal 259 Ayat (1) Cukup jelas. Ayat (2)
 ```
 
 Cukup jelas.
@@ -50,7 +56,10 @@ Peta jalan yang disusun mencakup strategi penguatan dan pengembangan sumber daya
 
 Ayat (3) ...
 
-Cukup jelas. Ayat (4) Ayat (5) Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Pasal 260 Cukup jelas. Pasal 261 Cukup jelas. Pasal 262 Cukup jelas. Pasal 263 Cukup jelas. Pasal 264 Pasal 265 Ayat (1) Ayat (2) Cukup jelas.
+Cukup jelas. Ayat (4) Ayat (5) Ayat (6) Cukup jelas. Ayat (7) Cukup jelas.
+
+Pasal 260
+Cukup jelas. Pasal 261 Cukup jelas. Pasal 262 Cukup jelas. Pasal 263 Cukup jelas. Pasal 264 Pasal 265 Ayat (1) Ayat (2) Cukup jelas.
 
 **Ayat (3)**
 

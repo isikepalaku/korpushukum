@@ -26,3 +26,5 @@ Cukup jelas.
  
  
 Angka 31 . . .
+
+Angka 31

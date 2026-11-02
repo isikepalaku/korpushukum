@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Dalam hal PJK menugaskan pejabat sebagai penanggung
 jawab penerapan program APU, PPT, dan PPPSPM
-sebagaimana dimaksud dalam Pasal 10 ayat (2), pejabat
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (2), pejabat
 tersebut harus ditetapkan dan diangkat oleh Direksi dan
 hanya dapat merangkap untuk melaksanakan fungsi
 manajemen risiko dan/atau fungsi kepatuhan.

@@ -18,8 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan lebih lanjut mengenai penyelenggaraan kewenangan
-sebagaimana dimaksud dalam Pasal 5, Pasal 6, Pasal 7, Pasal
-8, dan Pasal 9 diatur dalam Peraturan Pemerintah.
+sebagaimana dimaksud dalam Pasal 5,
+
+Pasal 6, Pasal 7, Pasal 8, dan Pasal 9 diatur dalam Peraturan Pemerintah.
 
 ## Penjelasan Resmi
 

@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang melengkapi Kapal atas biaya sendiri atau atas biaya orang lain, dengan maksud digunakan untuk melakukan Tindak Pidana sebagaimana dimaksud dalam Pasal 542 dan Pasal 543, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun.
+Setiap Orang yang melengkapi Kapal atas biaya sendiri atau atas biaya orang lain, dengan maksud digunakan untuk melakukan Tindak Pidana sebagaimana dimaksud dalam
+
+Pasal 542
+dan Pasal 543, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun.
 
 ## Penjelasan Resmi
 

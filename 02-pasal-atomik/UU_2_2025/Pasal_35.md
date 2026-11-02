@@ -43,7 +43,10 @@ mengamandemen:
 
 **Pasd 47**
 
-Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat (1) huruf b diberikan dengan ketentuan:
+Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam
+
+Pasal 36
+ayat (1) huruf b diberikan dengan ketentuan:
 
 - b. untuk Pertambangan Mineral bukan logam paling lama lO (sepuluh) tahun dan dijamin memperoleh perpanjangan 2 (dua) kali masing-masing 5 (Iima) tahun setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
 - a. untuk Pertambangan Mineral logam paling lama 20 (dua puluh) tahun dan dijamin memperoleh perpanjangan 2 (dua) kali masing-masing 1O (sepuluh) tahun setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.

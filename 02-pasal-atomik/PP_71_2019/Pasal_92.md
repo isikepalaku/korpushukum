@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Fasilitasi infrastruktur sebagaimana dimaksud dalam Pasal 91 huruf c meliputi:
+Fasilitasi infrastruktur sebagaimana dimaksud dalam
+
+Pasal 91
+huruf c meliputi:
 
 a. pengembangan dan penyelenggaraan gerbang Sistem Elektronik nasional;
 
@@ -40,6 +43,8 @@ FRESIDEN REPUBLIK TNDONESIA
 - g. sarana lain yang diperlukan untuk memfasilitasi pemanfaatan Teknologi Informasi dan Transaksi Elektronik berdasarkan ketentuan peraturan perundangundangan.
 
 ## Penjelasan Resmi
+
+Huruf a
 
 Yang dimaksud dengan "gerbang Sistem Elektronik nasional" antara lain Indonesia National Sirqle Windotu (INSW) dan pelayanan penzinan berusaha terintegrasi secara elektronik lonlinesingle submission).
 

@@ -48,11 +48,16 @@ mengamandemen: []
 
  g. tidak lagi memenuhi syarat sebagaimana dimaksud
 
- dalam Pasal 67.
+ dalam
+
+Pasal 67.
 
  (2) Anggota Dewan Komisioner sebagaimana dimaksud
 
- dalam Pasal 65 ayat (1) huruf a, huruf b, dan huruf c
+ dalam
+
+Pasal 65
+ayat (1) huruf a, huruf b, dan huruf c
 
  diberhentikan dari jabatannya karena alasan sebagaimana
 

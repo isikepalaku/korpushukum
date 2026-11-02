@@ -19,7 +19,10 @@ mengamandemen: []
 
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pencatatan pembetulan dan pembatalan Akta Pencatatan Sipil
-sebagaimana dimaksud dalam Pasal 71 dan Pasal 72 diatur
+sebagaimana dimaksud dalam Pasal 71 dan
+
+Pasal 72
+diatur
 dalam Peraturan Presiden.
 
 ## Penjelasan Resmi

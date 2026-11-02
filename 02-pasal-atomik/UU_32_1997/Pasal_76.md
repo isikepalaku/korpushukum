@@ -21,6 +21,27 @@ mengamandemen: []
 
 (1) Tindak pidana sebagaimana dimaksud dalam Pasal 71 ayat (3),
 
+ Pasal 73 ayat (3), dan
+
+Pasal 75
+adalan pelanggaran.
+
+ (2) Tindak...
+
+```
+
+-----
+
+```
+ - 45
+**(2) Tindak Pidana sebagaimana dimaksud dalam Pasal 71 ayat (1),**Pasal 71 ayat (2), Pasal 72, Pasal 73 ayat (1), dan Pasal 73 ayat (2)
+
+ adalah kejahatan.
+
+ BAB XI
+
+ KETENTUAN LAIN-LAIN
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -18,29 +18,40 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Otoritas Jasa Keuangan, Bank Sistemik menerapkan
-langkah penyehatan yang ditetapkan oleh Otoritas Jasa
-Keuangan.
+(1) Bank Sistemik sebagaimana dimaksud dalam Pasal 17
 
-(3) Otoritas Jasa Keuangan memastikan dilaksanakannya
+wajib:
 
-rencana aksi atau langkah penyehatan oleh Bank dengan
-menerbitkan perintah tertulis, menempatkan pengelola
-statuter, dan/atau melalui mekanisme lain berdasarkan
-Undang-Undang mengenai Otoritas Jasa Keuangan.
+a. memenuhi ketentuan khusus mengenai rasio
+kecukupan modal dan rasio kecukupan likuiditas; dan
 
-(4) Ketentuan mengenai rencana aksi dan langkah
-penyehatan sebagaimana dimaksud pada ayat (1), ayat (2),
-dan ayat (3) diatur dalam Peraturan Otoritas Jasa
-Keuangan.
+b. menyusun rencana aksi untuk disetujui oleh Otoritas
 
-Bagian . . .
+Jasa Keuangan.
+
+(2) Rencana . . .
 
 -----
 
- - 14
-Bagian Ketiga
-Penanganan Permasalahan Likuiditas Bank Sistemik
+ - 13
+(2) Rencana aksi sebagaimana dimaksud pada ayat (1) huruf
+
+b paling sedikit memuat kewajiban pemegang saham
+pengendali dan/atau pihak lain untuk menambah modal
+Bank dan mengubah jenis utang tertentu menjadi modal
+Bank.
+
+(3) Otoritas Jasa Keuangan berwenang menetapkan
+tambahan kapasitas permodalan bagi Bank Sistemik yang
+digunakan untuk menyerap kerugian pada saat Bank
+mengalami permasalahan keuangan.
+
+(4) Ketentuan mengenai rasio kecukupan modal, rasio
+kecukupan likuiditas, dan rencana aksi sebagaimana
+dimaksud pada ayat (1) dan ayat (2) serta tambahan
+kapasitas permodalan Bank Sistemik sebagaimana
+dimaksud pada ayat (3) diatur dalam Peraturan Otoritas
+Jasa Keuangan.
 
 ## Penjelasan Resmi
 

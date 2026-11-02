@@ -21,13 +21,16 @@ a. terhadap rencana pembukaan Kanwil yang telah
 
 dicantumkan dalam Rencana Bisnis Bank,
 
-sebagaimana dimaksud dalam Pasal 60; dan
+sebagaimana dimaksud dalam
+
+Pasal 60; dan
 
 b. kelengkapan dan kesesuaian dokumen yang
 
-disampaikan sebagaimana dimaksud dalam Pasal
+disampaikan sebagaimana dimaksud dalam
 
-61 ayat (3).
+Pasal 61
+ayat (3).
 
 ## Penjelasan Resmi
 

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Data cadangan dan pusat data cadangan sebagaimana
-dimaksud dalam Pasal 4l ayat (3) huruf m dan huruf n
+dimaksud dalam
+
+Pasal 41
+ayat (3) huruf m dan huruf n
 disediakan dan dikelola untuk menjamin ketersediaan
 data apabila terjadi kegagalan fungsi data utama.
 (21 Pusat data cadangan sebagaimana dimaksud pada

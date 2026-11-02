@@ -26,6 +26,8 @@ mengamandemen: []
 - a. Wakil Ketua Dewan Komisioner Lembaga Penjamin Simpanan sebagaimana dimaksud pada ayat (1) huruf a melanjutkan sisa masa jabatan sebagai Kepala Eksekutif Lembaga Penjamin Simpanan; dan
 - b. anggota Dewan Komisioner yang membidangi Penjaminan dan resolusi Bank sebagaimana dimaksud pada ayat (1) huruf b melanjutkan sisa masa jabatan sebagai anggota Dewan Komisioner Lembaga Penjamin Simpanan.
 
+Pasal 309 ...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

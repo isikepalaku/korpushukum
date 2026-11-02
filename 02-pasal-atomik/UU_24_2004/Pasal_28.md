@@ -22,6 +22,20 @@ mengamandemen: []
 
  penyerahan kepada LPS sebagaimana dimaksud dalam
 
+Pasal 25, LPS dan pemegang saham lama membuat
+
+ perjanjian yang mengatur penggunaan hasil penjualan
+
+ saham bank setelah penyelamatan.
+
+ (2) Dalam hal ekuitas bank bernilai nol atau negatif pada saat
+
+ penyerahan kepada LPS sebagaimana dimaksud dalam
+
+Pasal 25, pemegang saham lama tidak memiliki hak atas
+
+ hasil penjualan saham bank setelah penyelamatan.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

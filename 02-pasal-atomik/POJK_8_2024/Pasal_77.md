@@ -19,7 +19,10 @@ mengamandemen: []
 
 Ketentuan lebih lanjut mengenai tata cara, bentuk, dan
 format pelaporan penghentian Produk Asuransi
-sebagaimana dimaksud dalam Pasal 76 ditetapkan oleh
+sebagaimana dimaksud dalam
+
+Pasal 76
+ditetapkan oleh
 Otoritas Jasa Keuangan.
 
 -----

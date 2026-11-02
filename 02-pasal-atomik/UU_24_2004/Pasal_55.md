@@ -20,9 +20,14 @@ mengamandemen: []
 
 Setelah selesai menyelesaikan proses likuidasi sesuai dengan
 
- cara sebagaimana dimaksud dalam Pasal 53 atau paling lama
+ cara sebagaimana dimaksud dalam
 
- dalam jangka waktu sebagaimana dimaksud dalam Pasal 48,
+Pasal 53
+atau paling lama
+
+ dalam jangka waktu sebagaimana dimaksud dalam
+
+Pasal 48,
 
  tim likuidasi menyampaikan neraca akhir likuidasi dan
 

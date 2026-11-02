@@ -38,7 +38,10 @@ tempo.
 (2) Selain kewajiban Sukuk sebagaimana dimaksud pada
 ayat (1), penerbitan Sukuk wajib memperoleh
 pernyataan kesesuaian syariah sebagaimana dimaksud
-dalam Pasal 64 ayat (2).
+dalam
+
+Pasal 64
+ayat (2).
 
 -----
 

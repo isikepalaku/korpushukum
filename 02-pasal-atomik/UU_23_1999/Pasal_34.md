@@ -26,11 +26,18 @@ mengamandemen: []
 
  Pasqal 35
 
- Sepanjang lembaga pengawasan sebagaimana dimaksud dalam Pasal 34 ayat (1) belum dibentuk, tugas pengaturan dan pengawasan Bank dilaksanakan oleh Bank Indonesia.
+ Sepanjang lembaga pengawasan sebagaimana dimaksud dalam
+
+Pasal 34
+ayat (1) belum dibentuk, tugas pengaturan dan pengawasan Bank dilaksanakan oleh Bank Indonesia.
 
  BAB VII
 
  DEWAN GUBERNUR
+
+Pasal 36.
+
+ Dalam melaksanakan tugasnya, Bank Indonesia dipimpin oleh Dewan Gubernur.
 
 ## Penjelasan Resmi
 

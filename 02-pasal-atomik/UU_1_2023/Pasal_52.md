@@ -18,6 +18,8 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+Pemidanaan tidak dimaksudkan untuk merendahkan martabat manusia.
+
 **Paragraf 2 Pedoman Pemidanaan**
 
 ## Penjelasan Resmi

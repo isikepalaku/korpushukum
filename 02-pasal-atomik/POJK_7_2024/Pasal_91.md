@@ -17,29 +17,28 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1), BPR atau BPR Syariah dikenai sanksi administratif
-berupa:
-a. penurunan tingkat kesehatan; dan/atau
-b. larangan melakukan ekspansi kegiatan usaha.
-(3) Selain sanksi administratif sebagaimana dimaksud pada
-ayat (1) dan/atau ayat (2), BPR dan/atau BPR Syariah
-dapat dikenai sanksi administratif berupa denda paling
-sedikit Rp10.000.000,00 (sepuluh juta rupiah) dan paling
-banyak Rp100.000.000,00 (seratus juta rupiah) untuk
-setiap pelanggaran yang dilakukan.
-(4) BPR atau BPR Syariah yang terlambat menyampaikan
-bukti pengumuman sebagaimana dimaksud dalam Pasal
+(1) Perubahan bentuk badan hukum BPR atau BPR Syariah
+dilaksanakan sesuai dengan ketentuan peraturan
+perundang-undangan.
+(2) BPR atau BPR Syariah wajib memperoleh persetujuan OJK
+untuk melakukan perubahan bentuk badan hukum.
+(3) Perubahan bentuk badan hukum BPR atau BPR Syariah
+sebagaimana dimaksud pada ayat (2) dilakukan dalam 2
+(dua) tahap:
+a. persetujuan prinsip; dan
+b. persetujuan pengalihan izin usaha.
 
------
-
-89 ayat (1), Pasal 90, Pasal 95 ayat (2) dan/atau bukti
-pembubaran badan hukum sebagaimana dimaksud dalam
+Paragraf 1
+Persetujuan Prinsip
 
 ## Penjelasan Resmi
 
 Ayat (1)
 
-Lihat penjelasan Pasal 88 ayat (1).
+Lihat penjelasan
+
+Pasal 88
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

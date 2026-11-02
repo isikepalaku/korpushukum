@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan menetapkan PPDP dengan
 status pengawasan khusus sebagaimana dimaksud
-dalam Pasal 3 ayat (2) huruf c, jika memenuhi kriteria:
+dalam
+
+Pasal 3
+ayat (2) huruf c, jika memenuhi kriteria:
 a. jangka waktu status pengawasan intensif telah
 berakhir;
 b. Tingkat Kesehatan PPDP ditetapkan pada
@@ -86,21 +89,36 @@ Huruf a
 
 Angka 1
 
-Lihat penjelasan Pasal 4 ayat (2) huruf a angka 1.
+Lihat penjelasan
+
+Pasal 4
+ayat (2) huruf a angka 1.
 Angka 2
 
-Lihat penjelasan Pasal 4 ayat (2) huruf a angka 2.
+Lihat penjelasan
+
+Pasal 4
+ayat (2) huruf a angka 2.
 Angka 3
 
-Lihat penjelasan Pasal 4 ayat (2) huruf a angka 3.
+Lihat penjelasan
+
+Pasal 4
+ayat (2) huruf a angka 3.
 Huruf b
 
 Angka 1
 
-Lihat penjelasan Pasal 4 ayat (2) huruf b angka 1.
+Lihat penjelasan
+
+Pasal 4
+ayat (2) huruf b angka 1.
 Angka 2
 
-Lihat penjelasan Pasal 4 ayat (2) huruf a angka 2.
+Lihat penjelasan
+
+Pasal 4
+ayat (2) huruf a angka 2.
 Angka 3
 
 Cukup jelas.
@@ -111,7 +129,10 @@ Huruf c
 
 Angka 1
 
-Lihat penjelasan Pasal 4 ayat (2) huruf a angka 2.
+Lihat penjelasan
+
+Pasal 4
+ayat (2) huruf a angka 2.
 Angka 2
 
 Cukup jelas.
@@ -119,7 +140,10 @@ Huruf d
 
 Angka 1
 
-Lihat penjelasan Pasal 4 ayat (2) huruf a angka 2.
+Lihat penjelasan
+
+Pasal 4
+ayat (2) huruf a angka 2.
 Angka 2
 
 Cukup jelas.
@@ -127,7 +151,10 @@ Huruf e
 
 Angka 1
 
-Lihat penjelasan Pasal 4 ayat (2) huruf a angka 2.
+Lihat penjelasan
+
+Pasal 4
+ayat (2) huruf a angka 2.
 Angka 2
 
 Cukup jelas.

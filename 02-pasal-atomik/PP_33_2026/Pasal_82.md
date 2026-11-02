@@ -43,7 +43,10 @@ mengamandemen: []
 
 **Pasal B3**
 
-Subjek Data Pribadi tidak dapat mengajukan permintaan penghapusan Data Pribadi jika penarikan persetujuan pemrosesan Data Pribadi yang diikuti dengan penghapusan Data Pribadi telah dilaksanakan oleh Pengendali Data Pribadi sebagaimana dimaksud dalam Pasal 62 ayat (1) huruf b.
+Subjek Data Pribadi tidak dapat mengajukan permintaan penghapusan Data Pribadi jika penarikan persetujuan pemrosesan Data Pribadi yang diikuti dengan penghapusan Data Pribadi telah dilaksanakan oleh Pengendali Data Pribadi sebagaimana dimaksud dalam
+
+Pasal 62
+ayat (1) huruf b.
 
 ## Penjelasan Resmi
 

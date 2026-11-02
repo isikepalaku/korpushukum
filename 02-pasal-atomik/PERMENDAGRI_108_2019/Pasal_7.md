@@ -20,8 +20,10 @@ mengamandemen: []
 
 (1) Perwakilan Republik Indonesia melakukan pencatatan 
 biodata terhadap WNI di luar wilayah Negara Kesatuan 
-Republik Indonesia sebagaimana dimaksud dalam Pasal 
-3 ayat (2), setelah WNI melakukan pelaporan dengan 
+Republik Indonesia sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (2), setelah WNI melakukan pelaporan dengan 
 memenuhi 
 persyaratan 
 sesuai 

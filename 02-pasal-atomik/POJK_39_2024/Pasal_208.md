@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Laporan keuangan tahunan sebagaimana dimaksud
-dalam Pasal 205 ayat (1) huruf b wajib mengungkapkan
+dalam
+
+Pasal 205
+ayat (1) huruf b wajib mengungkapkan
 hal audit utama kepada Otoritas Jasa Keuangan.
 (2) Ketentuan pengungkapan hal audit utama dalam
 laporan tahunan sebagaimana dimaksud pada ayat (1)

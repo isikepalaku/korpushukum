@@ -21,7 +21,10 @@ mengamandemen: []
 (1) 
 Pencatatan perkawinan Penduduk WNI di wilayah Negara 
 Kesatuan Republik Indonesia sebagaimana dimaksud 
-dalam Pasal 50 ayat (1) huruf a, dengan memenuhi 
+dalam
+
+Pasal 50
+ayat (1) huruf a, dengan memenuhi 
 persyaratan sesuai dengan ketentuan Peraturan Presiden 
 mengenai 
 persyaratan 

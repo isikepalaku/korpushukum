@@ -26,7 +26,9 @@ mengamandemen: []
 
  kecuali wewenang pendelegasian sebagaimana dimaksud
 
- dalam Pasal 70.
+ dalam
+
+Pasal 70.
 
  (2) Dalam melaksanakan tugas dan/atau wewenang yang
 

@@ -5,7 +5,7 @@ uu_induk: KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undan
 kode_uu: UU_20_2025
 pasal: '296'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_20_2025
@@ -21,10 +21,21 @@ mengamandemen: []
 **(l) Setelah semua hal sebagaimana dimaksud dalam Pasal**
 
 **295 dipertimbangkan dan dilaksanakan, pengadilan tinggi memutuskan, menguatkan, mengubah, atau dalam hal membatalkan putusan pengadilan negeri, pengadilan tinggi Mengadili sendiri atas perkara tersebut. (21 Dalam hal pembatalan tersebut terjadi atas putusan**
- pengadilan negeri karena pengadilan tidak berwenang memeriksa perkara tersebut maka berlaku ketentuan mengenai surat pelimpahan perkara kepada pengadilan negeri lain yang dianggap berwenang Mengadili sebagaimana dimaksud dalam Pasal 295
+ pengadilan negeri karena pengadilan tidak berwenang memeriksa perkara tersebut maka berlaku ketentuan mengenai surat pelimpahan perkara kepada pengadilan negeri lain yang dianggap berwenang Mengadili sebagaimana dimaksud dalam
 
+Pasal 295
 ayat (21.
+
+Pasal 297
+Jika dalam pemeriksaan tingkat banding, Terdakwa yang dipidana ditahan dalam tahanan, pengadilan tinggi dalam putusannya memerintahkan agar Terdakwa tetap ditahan atau dibebaskan.**Pasal 298...
+
+-----
+
+t-rkGEIEtrN
+:ITITT:If TETTEI'ITI+f
+**'I -t52-**
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
+**Cukup [jelas.]**Pasal 297
+ Cukup jelas.

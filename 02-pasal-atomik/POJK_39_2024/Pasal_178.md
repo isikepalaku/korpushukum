@@ -55,7 +55,9 @@ bunga secara berturut-turut selama 3 (tiga) kali
 periode sebagaimana dimaksud dalam huruf a;
 dan
 c. berdasarkan faktor penilaian sebagaimana
-dimaksud dalam Pasal 175:
+dimaksud dalam
+
+Pasal 175:
 1. setelah penetapan kualitas piutang Pinjaman
 sebagaimana dimaksud dalam huruf b; atau
 2. dalam hal Nasabah tidak memenuhi syarat
@@ -66,8 +68,9 @@ kewajiban pembayaran sesuai waktu yang
 diperjanjikan.
 (6) Otoritas Jasa Keuangan dapat menetapkan kualitas
 piutang Pinjaman yang direstrukturisasi berdasarkan
-faktor penilaian sebagaimana dimaksud dalam Pasal
-175, dalam hal restrukturisasi piutang Pinjaman yang
+faktor penilaian sebagaimana dimaksud dalam
+
+Pasal 175, dalam hal restrukturisasi piutang Pinjaman yang
 dilakukan Perusahaan tidak didukung dengan
 penerapan kebijakan restrukturisasi yang memadai
 sebagaimana dimaksud pada ayat (3).

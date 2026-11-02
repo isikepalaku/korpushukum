@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Waldl Ketua Dewan Komisioner Lembaga Penjamin Simpanan menjalankan tugas dan wewenang sebagai Kepala Eksekutif sampai dengan ditetapkannya Peraturan Dewan Komisioner sebagaimana dimaksud dalam Pasal 63 ayat (5) dalam Pasal 7 angka 37 Undang-Undang ini.
+Waldl Ketua Dewan Komisioner Lembaga Penjamin Simpanan menjalankan tugas dan wewenang sebagai Kepala Eksekutif sampai dengan ditetapkannya Peraturan Dewan Komisioner sebagaimana dimaksud dalam Pasal 63 ayat (5) dalam
+
+Pasal 7
+angka 37 Undang-Undang ini.
 
 ## Penjelasan Resmi
 

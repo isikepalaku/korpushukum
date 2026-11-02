@@ -83,7 +83,10 @@ Ayat (4)
 Cukup jelas.
 Ayat (5)
 
-Lihat penjelasan Pasal 16 huruf f.
+Lihat penjelasan
+
+Pasal 16
+huruf f.
 Ayat (6)
 
 huruf a

@@ -22,3 +22,5 @@ mengamandemen: []
 ## Penjelasan Resmi
 
 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "sudah digunakan dan/atau dimanfaatkan sesuai dengan tujuan pemberian haknya" adalah pemegang hak atas tanah sudah memiliki sertifikat laik fungsi. Ayat (a) Cukup jelas. Ayat (s)
+
+Pasal 130

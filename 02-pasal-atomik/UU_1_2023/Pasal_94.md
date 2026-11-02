@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '94'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,4 +23,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+Pencantuman pidana tambahan berupa pembayaran ganti rugi menunjukkan adanya pengertian akan penderitaan Korban suatu Tindak Pidana. Ganti rugi harus dibayarkan kepada Korban atau ahli waris Korban. Untuk itu, hakim menentukan siapa yang merupakan Korban yang perlu mendapat ganti rugi tersebut. Jika terpidana tidak membayar ganti rugi yang ditetapkan oleh hakim, dikenakan ketentuan tentang pidana pengganti untuk pidana denda.
+
+Ayat (2)
+
+Ketentuan mengenai pelaksanaan pidana denda diberlakukan terhadap pidana pembayaran ganti rugi dengan catatan bahwa terpidana membayarkan uang tersebut kepada Korban dan bukan kepada negara.

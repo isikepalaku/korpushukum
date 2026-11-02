@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Pusat bantuan pelayanan dan call center sebagaimana 
-dimaksud dalam Pasal 3 ayat (2) huruf b, terdiri dari 
+dimaksud dalam
+
+Pasal 3
+ayat (2) huruf b, terdiri dari 
 unsur: 
 a. 
 Sekretariat Direktorat Jenderal Kependudukan Dan 

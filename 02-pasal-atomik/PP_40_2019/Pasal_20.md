@@ -18,10 +18,18 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 18 ayat (2) huruf c, bupati/wali
+dimaksud dalam
+
+Pasal 18
+ayat (2) huruf c, bupati/wali
 kota menetapkan petunjuk teknis penyelenggaraan urusan
 Administrasi Kependudukan dengan Peraturan Bupati/Wali
 Kota.
+
+Pasal 2l...
+
+PRES I DEN
+REPUBLIK INDONESIA
 
 ## Penjelasan Resmi
 

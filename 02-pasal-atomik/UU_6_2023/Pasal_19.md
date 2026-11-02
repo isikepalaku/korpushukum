@@ -27,19 +27,20 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Ayat (1) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan "pengelola barang milik negara/barang milik daerah" adalah sebagaimana diatur dalam ketentuan peraturan perundang-undangan di bidang perbendaharaan negara. Huruf c Yang dimaksud dengan "pengguna barang milik negara/ barang milik daerah" adalah sebagaimana diatur dalam ketentuan peraturan perundang-undangan di bidang perbendaharaan negara. Ayat (2) Yang dimaksud dengan "masyarakat yang terkena dampakl misalnya masyarakat yang berbatasan langsung dengan lokasi Pengadaan Tanah. Ayat (3) Yang dimaksud dengan nsurat kuasa" adalah surat kuasa untuk mewakili Konsultasi Publik sesuai dengan ketentuan peraturan perundang-undangan. Yang dimaksud dengan "dari dan oleh Pihak yang Berhak" adalah penerima kuasa dan pemberi kuasa sama-sama berasal dari Pihak yang Berhak. Ayat (a) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Angka 5 Pasal 19A
+Ayat (1) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan "pengelola barang milik negara/barang milik daerah" adalah sebagaimana diatur dalam ketentuan peraturan perundang-undangan di bidang perbendaharaan negara. Huruf c Yang dimaksud dengan "pengguna barang milik negara/ barang milik daerah" adalah sebagaimana diatur dalam ketentuan peraturan perundang-undangan di bidang perbendaharaan negara. Ayat (2) Yang dimaksud dengan "masyarakat yang terkena dampakl misalnya masyarakat yang berbatasan langsung dengan lokasi Pengadaan Tanah. Ayat (3) Yang dimaksud dengan nsurat kuasa" adalah surat kuasa untuk mewakili Konsultasi Publik sesuai dengan ketentuan peraturan perundang-undangan. Yang dimaksud dengan "dari dan oleh Pihak yang Berhak" adalah penerima kuasa dan pemberi kuasa sama-sama berasal dari Pihak yang Berhak. Ayat (a) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Angka 5
+
+Pasal 19A
 ```
 
 Cukup jelas.
 
-**PRESIDEN REPUBLIK INDONESTA**
-
-```
-Pasal l98
+**PRESIDEN REPUBLIK INDONESTA**Pasal l98
 ```
 
 ```
-Cukup jelas. Pasal 19C Cukup jelas. Angka 6 Pasal 24 Cukup jelas. Angka 7 Pasal 28 Ayat (1) Inventarisasi dan identilikasi dilaksanakan untuk mengetahui Pihak yang Berhak dan Objek Pengadaan Tanah. Hasil inventarisasi dan identifikasi tersebut memuat daftar nominasi Pihak yang Berhak dan Objek Pengadaan Tanah. Pihak yang Berhak meliputi nama, alamat, dan pekerjaan pihak yang menguasai/ memiliki tanah. Objek Pengadaan Tanah meliputi letak, luas, status, serta jenis penggunaan dan pemanfaatan tanah. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 8 Pasal 34 Cukup jelas. Angka 9 Pasal 36 Ayat (1)
+Cukup jelas.
+
+Pasal 19C Cukup jelas. Angka 6 Pasal 24 Cukup jelas. Angka 7 Pasal 28 Ayat (1) Inventarisasi dan identilikasi dilaksanakan untuk mengetahui Pihak yang Berhak dan Objek Pengadaan Tanah. Hasil inventarisasi dan identifikasi tersebut memuat daftar nominasi Pihak yang Berhak dan Objek Pengadaan Tanah. Pihak yang Berhak meliputi nama, alamat, dan pekerjaan pihak yang menguasai/ memiliki tanah. Objek Pengadaan Tanah meliputi letak, luas, status, serta jenis penggunaan dan pemanfaatan tanah. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 8 Pasal 34 Cukup jelas. Angka 9 Pasal 36 Ayat (1)
 ```
 
 Huruf a . . .

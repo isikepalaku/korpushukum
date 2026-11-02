@@ -31,7 +31,10 @@ komunikasi
 data 
 dan 
 menonaktifkan penggunaan aplikasi SIAK kepada Satuan 
-Kerja Pelaksana yang melanggar ketentuan Pasal 52 ayat (3),
+Kerja Pelaksana yang melanggar ketentuan
+
+Pasal 52
+ayat (3),
 
 ## Penjelasan Resmi
 

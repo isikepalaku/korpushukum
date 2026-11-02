@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam hal BPR tidak memenuhi ketentuan sebagaimana
-dimaksud dalam Pasal 20 dan Pasal 21, Otoritas Jasa
+dimaksud dalam Pasal 20 dan
+
+Pasal 21, Otoritas Jasa
 Keuangan berwenang melakukan perhitungan kembali
 atas nilai agunan yang telah diperhitungkan sebagai
 pengurang dalam perhitungan PPKA.

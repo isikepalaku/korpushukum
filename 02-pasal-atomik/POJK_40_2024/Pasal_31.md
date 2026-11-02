@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemisahan UUS sebagaimana dimaksud dalam Pasal 28
+Pemisahan UUS sebagaimana dimaksud dalam
+
+Pasal 28
 harus memenuhi persyaratan:
 a. Penyelenggara yang melakukan Pemisahan UUS dan
 Penyelenggara berdasarkan Prinsip Syariah hasil

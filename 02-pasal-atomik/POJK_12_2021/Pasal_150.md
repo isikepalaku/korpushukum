@@ -29,9 +29,12 @@ dikenai sanksi administratif sebagaimana dimaksud
 
 pada ayat (1) dan/atau ayat (2), dan belum memenuhi
 
-ketentuan sebagaimana dimaksud dalam Pasal 150
+ketentuan sebagaimana dimaksud dalam
 
-ayat (1) dan/atau Pasal 152, Bank BHI, KCBLN, atau
+Pasal 150
+ayat (1) dan/atau
+
+Pasal 152, Bank BHI, KCBLN, atau
 
 KPBLN dikenai sanksi administratif berupa:
 
@@ -49,9 +52,12 @@ dikenai sanksi administratif sebagaimana dimaksud
 
 pada ayat (1) dan/atau ayat (2) dan melanggar
 
-ketentuan sebagaimana dimaksud dalam Pasal 150
+ketentuan sebagaimana dimaksud dalam
 
-ayat (1), Pasal 152, ayat (2), dan/atau ayat (3), PSP,
+Pasal 150
+ayat (1),
+
+Pasal 152, ayat (2), dan/atau ayat (3), PSP,
 
 Direksi, Dewan Komisaris, dan/atau Pejabat Eksekutif
 

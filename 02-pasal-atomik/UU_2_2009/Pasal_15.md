@@ -18,16 +18,11 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), dan/atau Pasal 32 yang mengakibatkan kerugian
-bagi LPEI dipidana dengan pidana penjara paling singkat
-1 (satu) tahun dan paling lama 5 (lima) tahun dan pidana
-denda paling sedikit Rp500.000.000,00 (lima ratus juta
-rupiah) dan paling banyak Rp2.500.000.000,00 (dua
-miliar lima ratus juta rupiah).
-
-(2) Anggota Dewan Direktur, Direktur Eksekutif, atau
-Direktur Pelaksana yang dengan sengaja melakukan
-kegiatan yang bertentangan dengan Pasal 13 ayat (1),
+LPEI dapat memberikan fasilitas Asuransi kepada Eksportir
+dalam hal lembaga asuransi ekspor tidak dapat memenuhi
+permintaan fasilitas asuransi bagi Eksportir atau dalam
+rangka memenuhi ketentuan yang dipersyaratkan oleh
+pembeli di luar negeri.
 
 ## Penjelasan Resmi
 

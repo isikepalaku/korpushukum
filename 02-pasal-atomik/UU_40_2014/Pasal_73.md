@@ -18,24 +18,28 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-pidana: a. dilakukan atau diperintahkan oleh Pengendali
- dan/atau pengurus yang berlindak untuk dan atas nama korporasi; b. dilakukan dalam rangka pemenuhan maksud dan
- tujuan korporasi; c. dilakukan sesuai dengan tugas dan fungsi pelaku
- atau pemberi perintah; dan
+(1) Setiap Orang yang menjalankan kegiatan usaha asuransi,
 
- d. dilakukarr
+**usaha asuransi syariah, Usaha Reasuransi, atau Usaha Reasuransi Syariah tanpa izin usaha sebagaimana dimaksud datam Pasal 8 ayat (1) dipidana dengan [pidana] penjara paling lama 15 (lima belas) tahun dan pidana denda paling banyak Rp200.000.OO0.000,00 [(dua ratus] miliar rupiah).**
+
+(2) Setiap Orang yang menjalankan kegiatan Usaha Pialang
+
+**Asuransi atau Usaha Pialang Reasuransi tanpa [izin] usaha sebagaimana dimaksud dalam Pasal 8 ayat [(1)] dipidana dengan pidana penjara paling lama 10 [(sepuluh)] tahun dan pidana denda paling banyak Rp3.000.000.000,00 (tiga miliar rupiah).**
+
+ (3) Setiap
 
 -----
 
-**i,D**
+PRESIDEN
+R EPUBLIK IND ONES IA
 
-PRESIOEN
-R EPUBL IK INDONESIA
+**-53-**
 
-**-56-**
+ (3) Setiap Orang yang menjalankaa kegiatan Usaha Penilai
+ Kerugian Asuransi tarpa iarr usaha sebagaimana rlimaksud dalam
 
- d. dilakukan dengan malsud memberikan manfaat bagi
- korporasi.
+Pasal 8
+ayat (l) dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
 ## Penjelasan Resmi
 

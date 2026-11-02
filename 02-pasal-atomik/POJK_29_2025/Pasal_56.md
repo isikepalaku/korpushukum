@@ -17,7 +17,191 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-56A ayat (1), ayat (2), ayat (7), dan/atau ayat (12).
+(1) Perusahaan yang memiliki Kantor Cabang, wajib
+memiliki paling sedikit 1 (satu) orang Penaksir
+untuk melakukan penaksiran atas Benda Jaminan
+pada setiap Kantor Cabang.
+
+-----
+
+(2) Penaksir sebagaimana dimaksud pada ayat (1)
+dilarang merangkap jabatan pada Kantor Cabang
+lain.
+(3) Dalam hal Perusahaan hanya memiliki 1 (satu)
+kantor yang fungsinya mencakup pemberian
+persetujuan dan penandatanganan perjanjian
+kegiatan usaha Perusahaan, Perusahaan wajib
+memiliki paling sedikit 1 (satu) orang Penaksir
+untuk melakukan penaksiran atas Benda
+Jaminan.
+(4) Dalam hal Perusahaan dengan lingkup wilayah
+usaha kabupaten/kota belum memenuhi
+ketentuan sebagaimana dimaksud pada ayat (1)
+atau ayat (3) sampai dengan tanggal 12 Januari
+2026, ketentuan sebagaimana dimaksud pada ayat
+(1) atau ayat (3) dikecualikan untuk jangka waktu
+paling lama:
+a. 1 (satu) tahun terhitung sejak lembaga
+sertifikasi profesi pergadaian terdaftar di
+Otoritas Jasa Keuangan; atau
+b. 2 (dua) tahun terhitung sejak Peraturan
+Otoritas Jasa Keuangan ini diundangkan.
+(5) Pengecualian jangka waktu sebagaimana
+dimaksud pada ayat (4) huruf a atau huruf b
+ditentukan berdasarkan kondisi yang terlebih
+dahulu terpenuhi.
+(6) Dalam hal jangka waktu sebagaimana dimaksud
+pada ayat (4) telah berakhir dan Perusahaan
+dengan lingkup wilayah usaha kabupaten/kota
+belum memenuhi ketentuan sebagaimana
+dimaksud pada ayat (1) atau ayat (3), selain
+mengenakan sanksi administratif, Otoritas Jasa
+Keuangan berwenang memerintahkan Perusahaan
+untuk:
+a. menutup Kantor Cabang yang tidak memiliki
+
+paling sedikit 1 (satu) orang Penaksir; atau
+b. menghentikan kegiatan usaha yang
+memerlukan keahlian Penaksir dari
+Perusahaan yang hanya memiliki 1 (satu)
+kantor dan fungsinya mencakup pemberian
+persetujuan dan penandatanganan perjanjian
+kegiatan usaha Perusahaan.
+(7) Perusahaan dengan lingkup wilayah usaha
+kabupaten/kota wajib memenuhi perintah
+Otoritas Jasa Keuangan sebagaimana dimaksud
+pada ayat (6).
+(8) Perusahaan dengan lingkup wilayah usaha
+kabupaten/kota yang diperintahkan Otoritas Jasa
+Keuangan untuk menutup Kantor Cabang yang
+tidak memiliki paling sedikit 1 (satu) orang
+Penaksir wajib mengalihkan layanan Nasabah
+kepada Kantor Cabang lain terdekat.
+(9) Dalam hal Perusahaan tidak memiliki Kantor
+Cabang lain, kewajiban mengalihkan layanan
+
+-----
+
+Nasabah sebagaimana dimaksud pada ayat (8)
+dialihkan kepada kantor pusat Perusahaan.
+(10) Perusahaan dengan lingkup wilayah usaha
+kabupaten/kota yang diperintahkan Otoritas Jasa
+Keuangan untuk menutup Kantor Cabang yang
+tidak memiliki paling sedikit 1 (satu) orang
+Penaksir wajib terlebih dahulu memberitahukan
+kepada Nasabah mengenai rencana penutupan
+Kantor Cabang, yang meliputi:
+a. waktu pelaksanaan penutupan Kantor Cabang;
+b. Kantor Cabang lain yang akan menerima
+
+pengalihan layanan Nasabah dari Kantor
+Cabang yang akan ditutup; dan
+c. kontak pegawai penanggung jawab dari Kantor
+
+Cabang yang akan ditutup,
+dalam jangka waktu paling lama 30 (tiga puluh)
+hari terhitung sejak tanggal perintah Otoritas Jasa
+Keuangan diterbitkan.
+(11) Perusahaan dengan lingkup wilayah usaha
+kabupaten/kota yang diperintahkan Otoritas Jasa
+Keuangan untuk menutup Kantor Cabang
+sebagaimana dimaksud pada ayat (10) wajib
+melaporkan penutupan Kantor Cabang kepada
+Otoritas Jasa Keuangan paling lambat 10
+(sepuluh) hari kerja sejak tanggal penutupan
+Kantor Cabang dimaksud dengan melampirkan
+bukti pengumuman penutupan Kantor Cabang.
+
+9. Di antara Pasal 56 dan Pasal 57 disisipkan 1 (satu)
+pasal, yakni
+
+Pasal 56A sehingga berbunyi sebagai
+berikut:
+
+Pasal 56A
+(1) Perusahaan sebagaimana dimaksud dalam Pasal 56 ayat (4) wajib menyusun rencana aksi (action
+_plan) yang merupakan komitmen Perusahaan yang_
+paling sedikit memuat rencana yang akan
+dilakukan Perusahaan disertai dengan jangka
+waktu tertentu yang dibutuhkan untuk memenuhi
+ketentuan sebagaimana dimaksud dalam
+
+Pasal 56
+ayat (1) atau ayat (3).
+(2) Rencana aksi (action plan) sebagaimana dimaksud
+pada ayat (1) wajib disampaikan kepada Otoritas
+Jasa Keuangan paling lambat 3 (tiga) bulan sejak
+tanggal 12 Januari 2026.
+(3) Rencana aksi (action plan) sebagaimana dimaksud
+pada ayat (2) harus ditandatangani oleh seluruh
+anggota Direksi.
+(4) Rencana aksi (action plan) sebagaimana dimaksud
+pada ayat (2) harus memperoleh pernyataan tidak
+keberatan dari Otoritas Jasa Keuangan.
+(5) Otoritas Jasa Keuangan menyampaikan
+permintaan perbaikan, penolakan, atau
+pernyataan tidak keberatan atas rencana aksi
+(action plan) yang disampaikan oleh Perusahaan
+
+-----
+
+dalam jangka waktu paling lama 14 (empat belas)
+hari kerja terhitung sejak rencana aksi (action plan)
+diterima.
+(6) Otoritas Jasa Keuangan menyampaikan surat
+permintaan perbaikan rencana aksi (action plan)
+dalam hal rencana aksi (action plan) tersebut
+berdasarkan penilaian Otoritas Jasa Keuangan
+masih memerlukan perbaikan.
+(7) Perusahaan wajib menyampaikan rencana aksi
+(action plan) yang telah diperbaiki sesuai dengan
+permintaan Otoritas Jasa Keuangan sebagaimana
+dimaksud pada ayat (6) dalam jangka waktu paling
+lama 14 (empat belas) hari kerja terhitung sejak
+tanggal surat permintaan perbaikan atas rencana
+aksi (action plan) dari Otoritas Jasa Keuangan.
+(8) Dalam hal Perusahaan telah menyampaikan
+rencana aksi (action plan) yang telah diperbaiki
+sesuai dengan permintaan Otoritas Jasa
+Keuangan, Otoritas Jasa Keuangan memberikan
+pernyataan tidak keberatan atau penolakan sesuai
+dengan ketentuan sebagaimana dimaksud pada
+ayat (5).
+(9) Otoritas Jasa Keuangan memberikan pernyataan
+tidak keberatan atas rencana aksi (action plan)
+dalam hal rencana aksi (action plan) tersebut
+dinilai dapat menyelesaikan permasalahan
+pemenuhan ketentuan sebagaimana dimaksud
+dalam
+
+Pasal 56
+ayat (1) atau ayat (3).
+(10) Otoritas Jasa Keuangan menyampaikan penolakan
+
+terhadap rencana aksi (action plan) dalam hal
+rencana aksi (action plan) tersebut dinilai tidak
+dapat menyelesaikan permasalahan ketentuan
+sebagaimana dimaksud dalam
+
+Pasal 56
+ayat (1)
+atau ayat (3).
+(11) Apabila dalam jangka waktu sebagaimana
+dimaksud pada ayat (5) Otoritas Jasa Keuangan
+tidak menyampaikan permintaan perbaikan,
+penolakan, atau pernyataan tidak keberatan,
+Perusahaan dapat melaksanakan rencana aksi
+(action plan).
+(12) Perusahaan wajib melaksanakan rencana aksi
+
+(action plan) yang telah memperoleh pernyataan
+tidak keberatan dari Otoritas Jasa Keuangan
+sebagaimana dimaksud pada ayat (9) atau rencana
+aksi (action plan) sebagaimana dimaksud pada
+ayat (11).
+
+10. Ketentuan ayat (1) dan ayat (2) Pasal 62 diubah
+sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -107,3 +291,11 @@ Cukup jelas.
 Ayat (11)
 
 Cukup jelas.
+
+Angka 9
+
+Pasal 56A
+
+Cukup jelas.
+
+Angka 10

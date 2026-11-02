@@ -32,9 +32,15 @@ wilayah.
 (3) Ketentuan mengenai:
 a. persyaratan peningkatan lingkup wilayah usaha
 sebagaimana dimaksud dalam sebagaimana
-dimaksud dalam Pasal 69 ayat (3); dan
+dimaksud dalam
+
+Pasal 69
+ayat (3); dan
 b. persetujuan perubahan lingkup wilayah usaha
-sebagaimana dimaksud dalam Pasal 70 ayat (1),
+sebagaimana dimaksud dalam
+
+Pasal 70
+ayat (1),
 berlaku secara mutatis mutandis terhadap peningkatan
 lingkup wilayah usaha sebagaimana dimaksud pada
 ayat (1) huruf a.

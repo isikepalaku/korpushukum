@@ -17,7 +17,23 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Pembentukan UUS sebagaimana dimaksud dalam Pasal 21 ayat (1) wajib memperoleh izin dari Otoritas Jasa
+Keuangan.
+(2) Untuk memperoleh izin pembentukan UUS
+sebagaimana dimaksud dalam
 
+Pasal 21
+ayat (1), Direksi
+Perusahaan Pergadaian harus mengajukan
+permohonan izin kepada Otoritas Jasa Keuangan
+dengan melampirkan dokumen persyaratan izin
+pembentukan UUS tercantum dalam Lampiran pada
+tabel 6 yang merupakan bagian tidak terpisahkan dari
+Peraturan Otoritas Jasa Keuangan ini.
+(3) Permohonan izin pembentukan UUS sebagaimana
+dimaksud pada ayat (2) disampaikan bersamaan
+dengan permohonan penilaian kemampuan dan
+kepatutan bagi calon anggota DPS.
 
 ## Penjelasan Resmi
 

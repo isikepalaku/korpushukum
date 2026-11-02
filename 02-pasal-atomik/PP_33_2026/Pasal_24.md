@@ -25,6 +25,12 @@ mengamandemen: []
 
 - (2) Identitas sebagaimana dimaksud pada ayat (1) huruf «a dilengkapi dengan melampirkan bukti identilas,
 
+Pasal 25...
+
+**PRESIDEN REPUBLIK INDONESIA**Pasal 25.
+
+Pengendali Data Pribadi harus melakukan verifikasi atas permohonan pelaksanaan hak Subjek Data Pribadi dengan mekanisme proporsional.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

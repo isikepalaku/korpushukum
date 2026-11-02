@@ -17,11 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Usaha Mikro dan Usaha Kecil [yang ][baru mendirikan ] [usaha] dapat langsung mengajukan [permohonan ][nomor ] [induk] berusaha, sertifikat standar, [danf atau ][izin melalui ][sistem] Perizinan Berusaha [yang ]terintegrasi [secara ][elektronik.]
-
-Paragraf 3
-
-Perizinan Tunggal dan Fasilitasi [Sertifikasi Standar ][danf ][ataulzin]
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

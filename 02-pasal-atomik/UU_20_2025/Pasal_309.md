@@ -5,7 +5,7 @@ uu_induk: KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undan
 kode_uu: UU_20_2025
 pasal: '309'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_20_2025
@@ -26,4 +26,6 @@ kasasi karena telah memenuhi ketentuan sebagaimana
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
+**Cukup [jelas.]**Pasal 31O
+
+**Cukup jelas.**

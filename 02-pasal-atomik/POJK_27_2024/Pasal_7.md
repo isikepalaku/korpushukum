@@ -38,7 +38,10 @@ kesepakatan antara Pedagang dan Konsumen.
 pada ayat (1) wajib dilaksanakan paling lambat 30 (tiga
 puluh) hari sejak tanggal perintah penghentian
 perdagangan Aset Keuangan Digital sebagaimana
-dimaksud dalam Pasal 5 ayat (2) huruf b.
+dimaksud dalam
+
+Pasal 5
+ayat (2) huruf b.
 (5) Cara penyelesaian sebagaimana dimaksud pada ayat (2)
 wajib disampaikan oleh Pedagang kepada Konsumen
 dan dicantumkan dalam dokumen tata cara

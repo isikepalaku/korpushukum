@@ -17,26 +17,25 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Bukti pendaftaran sebagaimana dimaksud pada ayat (1)
+Permohonan pendaftaran Jaminan Fidusia sebagaimana
+dimaksud dalam
 
-paling sedikit memuat:
+Pasal 2
+memuat:
 
-a. nomor pendaftaran;
+a. identitas pihak Pemberi Fidusia dan Penerima Fidusia;
 
-b. tanggal pengisian aplikasi;
+b. tanggal, nomor akta Jaminan Fidusia, nama, dan tempat
 
-c. nama pemohon;
+kedudukan notaris yang membuat akta Jaminan Fidusia;
 
-d. nama . . .
+c. data perjanjian pokok yang dijamin fidusia;
+d. uraian mengenai benda yang menjadi objek Jaminan
 
------
+Fidusia;
+e. nilai penjaminan; dan
 
- - 4
-d. nama Kantor Pendaftaran Fidusia;
-
-e. jenis permohonan; dan
-
-f. biaya pendaftaran Jaminan Fidusia.
+f. nilai benda yang menjadi obyek Jaminan Fidusia.
 
 ## Penjelasan Resmi
 

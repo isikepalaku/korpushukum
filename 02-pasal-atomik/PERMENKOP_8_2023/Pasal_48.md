@@ -37,12 +37,25 @@ pemerintahan di bidang koordinasi penanaman
 modal; dan
 b. tata cara pengurusan Izin Jaringan Pelayanan untuk
 Koperasi hasil Restrukturisasi, dikecualikan dari
-persyaratan sebagaimana dimaksud dalam Pasal 9
-huruf a, Pasal 9 huruf b, Pasal 9 huruf c, Pasal 9
-huruf d, Pasal 9 huruf h, Pasal 10 huruf a, Pasal 10
-huruf b, Pasal 10 huruf c, Pasal 10 huruf d, Pasal 10
-huruf h, Pasal 11 huruf a, Pasal 11 huruf b, Pasal
-11 huruf c, Pasal 11 huruf d, dan Pasal 11 huruf h.
+persyaratan sebagaimana dimaksud dalam
+
+Pasal 9
+huruf a,
+
+Pasal 9
+huruf b, Pasal 9 huruf c, Pasal 9
+huruf d,
+
+Pasal 9
+huruf h, Pasal 10 huruf a, Pasal 10
+huruf b,
+
+Pasal 10
+huruf c, Pasal 10 huruf d, Pasal 10
+huruf h,
+
+Pasal 11
+huruf a, Pasal 11 huruf b, Pasal 11 huruf c, Pasal 11 huruf d, dan Pasal 11 huruf h.
 (3) Kemudahan pengurusan Izin Jaringan Pelayanan untuk
 Koperasi hasil Restrukturisasi sebagaimana dimaksud
 pada ayat 2 huruf b diberikan berdasarkan penilaian:

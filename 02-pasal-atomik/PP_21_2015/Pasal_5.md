@@ -21,6 +21,30 @@ mengamandemen: []
 
 memenuhi ketentuan sebagaimana dimaksud dalam
 
+Pasal 3
+memperoleh bukti pendaftaran.
+
+(2) Bukti pendaftaran sebagaimana dimaksud pada ayat (1)
+
+paling sedikit memuat:
+
+a. nomor pendaftaran;
+
+b. tanggal pengisian aplikasi;
+
+c. nama pemohon;
+
+d. nama . . .
+
+-----
+
+ - 4
+d. nama Kantor Pendaftaran Fidusia;
+
+e. jenis permohonan; dan
+
+f. biaya pendaftaran Jaminan Fidusia.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

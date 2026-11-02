@@ -17,33 +17,35 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (4), ayat (5), Pasal 52 ayat (1), ayat (2), dan ayat (5),
-dikenakan sanksi administratif berupa:
-a. peringatan tertulis;
-b. penghentian sementara, sebagian, atau seluruh
-kegiatan termasuk pelaksanaan kerja sama;
-c. pemberhentian dan/atau penggantian pengurus;
+(1) Pedagang wajib memiliki anggota Direksi paling sedikit
+3 (tiga) orang dengan mayoritas anggota Direksi
+berstatus Warga Negara Indonesia dan berdomisili di
+Indonesia.
+(2) Pedagang wajib memiliki paling sedikit 2 (dua) orang
+anggota Dewan Komisaris dan paling banyak sama
+dengan jumlah anggota Direksi.
+(3) Pedagang wajib memiliki direktur utama yang berstatus
+Warga Negara Indonesia.
 
 -----
 
-d. pencantuman Pihak Utama dalam daftar orang
-tercela di sektor keuangan; dan/atau
-e. pencabutan izin usaha.
-(2) Sanksi administratif sebagaimana dimaksud pada ayat
-(1) huruf b, huruf c, huruf d, dan huruf e dapat
-dikenakan dengan atau tanpa didahului pengenaan
-sanksi administratif berupa peringatan tertulis
-sebagaimana dimaksud pada ayat (1) huruf a.
+(4) Anggota Direksi atau anggota Dewan Komisaris
+Pedagang yang merupakan warga negara asing dan
+berdomisili di Indonesia wajib memiliki izin tinggal tetap
+atau sementara dan menyampaikan dokumen tersebut
+kepada Otoritas Jasa Keuangan.
+(5) Anggota Direksi Pedagang dilarang mempunyai jabatan
+rangkap sebagai anggota Dewan Komisaris, anggota
+Direksi, atau pegawai pada perusahaan lain yang
+bergerak di bidang Perdagangan Aset Keuangan Digital.
+(6) Dalam hal terdapat perubahan anggota Dewan
+Komisaris dan anggota Direksi, Pedagang wajib
+mengajukan calon anggota Dewan Komisaris dan
+anggota Direksi Pedagang kepada Otoritas Jasa
+Keuangan untuk mendapatkan persetujuan.
 
-BAB IV
-PERIZINAN PENYELENGGARA PERDAGANGAN ASET
-
-KEUANGAN DIGITAL
-
-Bagian Kesatu
-Perizinan Penyelenggara Perdagangan Aset Keuangan
-
-Digital
+Paragraf 4
+Kewajiban Pedagang
 
 ## Penjelasan Resmi
 

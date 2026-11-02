@@ -28,3 +28,13 @@ mengamandemen:
 Cukup jelas.
 
 Ang)&lt;a22
+
+Pasal 61A
+
+Cukup jelas.
+
+```
+Angka 23
+```
+
+Yang dimaksud dengan "Kearifan Lokal" adalah melakukan pembakaran lahan dengan luas maksimal 2 (dua) hektare per kepala keluarga untuk ditanami tanaman jenis varietas lokal dan dikelilingi oleh sekat bakar sebagai pencegahan

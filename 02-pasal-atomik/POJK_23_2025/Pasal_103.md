@@ -33,4 +33,9 @@ Huruf c
 Cukup jelas.
 Huruf d
 
-Lihat penjelasan Angka 28 Pasal 21 ayat (1) huruf h.
+Lihat penjelasan Angka 28
+
+Pasal 21
+ayat (1) huruf h.
+
+Angka 71

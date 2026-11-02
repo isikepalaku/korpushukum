@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Administrator perangkat keras Pusat Data Cadangan 
-sebagaimana dimaksud dalam Pasal 30 huruf l, melekat 
+sebagaimana dimaksud dalam
+
+Pasal 30
+huruf l, melekat 
 pada 
 jabatan 
 fungsional 

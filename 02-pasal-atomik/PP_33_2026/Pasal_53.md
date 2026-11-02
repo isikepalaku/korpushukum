@@ -21,6 +21,16 @@ mengamandemen: []
 
 - b. telah melakukan penilaian bahwa pemrosesan Data Pribadi yang menggunakan dasar pemrosesan Data Pribadi berupa pemenuhan kepentingan yang sah lainnya tidak berdampak hukum atau merugikan Subjck Data Pribadi dengan hasil Pengendali Data Pribadi memiliki dan telah melakukan langkah penangeulangan jika terdapat dampak dari pemrosesan Data Pribadi.
 
+Pasal 54...
+
+~S0'-
+
+Pasal 54
+Hasil analisis dan penilaian sebagaimana dimaksud dalam
+
+Pasal 53
+didokumentasikan oleh Pengendali Data Pribadi.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

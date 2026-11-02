@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam hal pemasaran Produk Asuransi dilakukan melalui
-saluran pemasaran sebagaimana dimaksud dalam Pasal 48
+saluran pemasaran sebagaimana dimaksud dalam
+
+Pasal 48
 ayat (1) huruf b sampai dengan huruf e, Perusahaan
 Asuransi dan Perusahaan Asuransi Syariah wajib:
 a. memastikan bahwa pihak yang melakukan pemasaran

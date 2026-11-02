@@ -2,36 +2,33 @@
 judul: "Indeks Korpus Hukum Indonesia"
 jenis: indeks
 tags: [indeks, korpus-hukum]
-last_updated: 2026-11-02
+last_updated: 2026-11-03
 ---
 
 # Indeks Korpus Hukum Indonesia
 
-Korpus **127 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/embedding) dan navigasi manusia. Satu berkas = satu peraturan.
+Korpus **133 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/embedding) dan navigasi manusia. Satu berkas = satu peraturan.
 
 ## Ringkasan
 
 | Metrik | Nilai |
 | --- | --- |
-| Total dokumen | 127 |
-| Peraturan | 113 |
+| Total dokumen | 133 |
+| Peraturan | 119 |
 | Putusan MK | 14 |
-| Teks lengkap | 127 |
+| Teks lengkap | 133 |
 | Hanya berkas sumber | 0 |
-| Status berlaku | 115 |
-| Status dicabut | 6 |
-| Perlu verifikasi status | 6 |
-| Terverifikasi JDIH BPK | 95 |
-| Tidak tersedia di JDIH BPK | 32 |
+| Status berlaku | 125 |
+| Status dicabut | 4 |
+| Status diubah / sebagian | 4 |
 
 ## Kategori bidang hukum
 
-- [[Keuangan]] — 75 dokumen
-- [[Pertanahan]] — 1 dokumen
-- [[Pidana]] — 12 dokumen
+- [[Keuangan]] — 78 dokumen
+- [[Pidana]] — 15 dokumen
 - [[Siber]] — 21 dokumen
-- [[Tipidter]] — 17 dokumen
-- [[Umum]] — 2 dokumen
+- [[Tipidter]] — 18 dokumen
+- [[Umum]] — 3 dokumen
 
 ## Per jenis peraturan
 
@@ -46,10 +43,12 @@ Korpus **127 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 | Permenkominfo | 4 | `10-peraturan/05-peraturan-menteri/` |
 | Permenkomdigi | 1 | `10-peraturan/05-peraturan-menteri/` |
 | Permenkop UKM | 2 | `10-peraturan/05-peraturan-menteri/` |
+| Permen ESDM | 2 | `10-peraturan/05-peraturan-menteri/` |
 | Kepmenkomdigi | 3 | `10-peraturan/05-peraturan-menteri/` |
 | Instruksi Menteri | 1 | `10-peraturan/05-peraturan-menteri/` |
-| POJK | 30 | `10-peraturan/06-peraturan-ojk/` |
+| POJK | 33 | `10-peraturan/06-peraturan-ojk/` |
 | SEOJK | 5 | `10-peraturan/06-peraturan-ojk/` |
+| Perpol | 1 | `10-peraturan/08-peraturan-polri/` |
 | SE Kapolri | 1 | `10-peraturan/08-peraturan-polri/` |
 | SKB | 1 | `10-peraturan/09-instrumen-lain/` |
 | Jukrah | 1 | `10-peraturan/09-instrumen-lain/` |

@@ -20,6 +20,17 @@ mengamandemen: []
 Dalam hal Perusahaan menerima pinjaman dari lembaga
 dan/atau badan usaha lain sebagaimana dimaksud dalam
 
+Pasal 182
+ayat (1) huruf b, Perusahaan wajib menerima
+pinjaman yang memenuhi ketentuan sebagai berikut:
+a. jumlah pinjaman paling sedikit Rp1.000.000.000,00
+(satu miliar rupiah) untuk setiap kreditur;
+b. jangka waktu pengembalian pinjaman paling singkat 1
+(satu) tahun;
+c. dituangkan dalam bentuk perjanjian akta notariil
+antara Perusahaan dan pemberi pinjaman; dan
+d. tidak dapat diperpanjang secara otomatis.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

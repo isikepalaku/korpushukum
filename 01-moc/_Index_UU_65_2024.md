@@ -4,7 +4,7 @@ judul: "Map of Content - Perubahan Ketiga UU Paten"
 kode_uu: UU_65_2024
 type: moc
 tags: [moc, hukum/tipidter, uu/uu_65_2024]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Perubahan Ketiga UU Paten (UU_65_2024)
@@ -16,7 +16,6 @@ last_updated: 2026-11-01
 - [[Pasal_1]]: Huruf a
 - [[Pasal_4]]: Invensi tidak mencakup:
 - [[Pasal_6]]: - (U Dikecualikan dari ketentuan sebagaimana dimaksud dalam Pasal 5 ayat (21, Invensi tidak dianggap telah diumumkan jika dalam wa...
-- [[Pasal_7O]]: - (1) Permohonan banding terhadap keputusan pemberian Paten diajukan secara tertulis oleh pihak yang berkepentingan atau Kuasanya ...
 - [[Pasal_8]]: - (1) Lisensi-wajib diberikan berdasarkan prinsip kemanfaatan dan bersifat non-eksklusif.
 - [[Pasal_9]]: Invensi yang tidak dapat diberi Paten meliputi:
 - [[Pasal_14]]: Ketentuan ini dimaksudkan untuk memberikan pelindungan kepada pemakai terdahulu yang Leriktikad bai[, tetapi tidak mengajukan Perm...
@@ -34,16 +33,17 @@ last_updated: 2026-11-01
 - [[Pasal_43]]: - (1) Permohonan hanya dapat ditarik kembali oleh Pemohon sebelum Menteri memberikan keputusan menyetujui atau menolak Permohonan.
 - [[Pasal_46]]: Huruf . . .
 - [[Pasal_48]]: - (1) Pengumuman berlaku selama 6 (enam) bulan terhitung sejak tanggal diumumkannya Permohonan.
-- [[Pasal_54]]: Pemeriksaan substantif dilaksanakan berdasarkan ketentuan Pasal 3 ayat (1), Pasal 4, Pasal 5, Pasal 7, Pasal 8, Pasal 9, Pas aL 24...
+- [[Pasal_54]]: Pemeriksaan substantif dilaksanakan berdasarkan ketentuan Pasal 3 ayat (1),
 - [[Pasal_55A]]: - (1) Pemeriksaan substantif sebagaimana dimaksud dalam Pasal 51 dapat dilakukan lebih awal setelah Permohonan dinyatakan lengkap.
 - [[Pasal_63A]]: - (U Permohonan pemeriksaan substantif kembali diajukan secara tertulis kepada Menteri dengan dikenai biaya.
 - [[Pasal_66]]: Ketentuan lebih lanjut mengenai syarat dan tata cara pengangkatan dan pemberhentian anggota, susunan organisasi, tugas, fungsi, da...
 - [[Pasal_67]]: - (1) Permohonan banding dapat diajukan terhadap:
 - [[Pasal_68]]: - (1) Permohonan banding terhadap penolakan Permohonan diajukan paling lama 3 (tiga) bulan terhitung sejak tanggal pengiriman sura...
 - [[Pasal_69]]: - (1) Permohonan banding terhadap koreksi atas deskripsi, klaim, danlatau gambar setelah Permohonan diberi Paten diajukan dalam ja...
+- [[Pasal_70]]: - (1) Permohonan banding terhadap keputusan pemberian Paten diajukan secara tertulis oleh pihak yang berkepentingan atau Kuasanya ...
 - [[Pasal_72]]: - Pemohon, termohon, atau Kuasanya dapat mengajukan gugatan atas keputusan Komisi Banding Paten ke Pengadilan Niaga dalam jangka w...
-- [[Pasal_82A]]: Dalam hal Lisensi-wajib diajukan berdasarkan alasan sebagaimana dimaksud dalam Pasal 82 ayat (1) huruf c, berlaku ketentuan:
-- [[Pasal_84A]]: Ketentuan pemberian Lisensi-wajib sebagaimana dimaksud dalam Pasal 81 ayat (4) dan Pasal 84 ayat (1) huruf b dikecualikan dalam ha...
+- [[Pasal_82A]]: Dalam hal Lisensi-wajib diajukan berdasarkan alasan sebagaimana dimaksud dalam
+- [[Pasal_84A]]: Ketentuan pemberian Lisensi-wajib sebagaimana dimaksud dalam
 - [[Pasal_103]]: - (1) Lisensi-wajib berakhir karena selesainya jangka waktu yang ditetapkan dalam keputusan pemberian Lisensi-wajib oleh Menteri a...
 - [[Pasal_108]]: - (1) Hak atas Paten dapat dijadikan objek jaminan fidusia.
 - [[Pasal_126]]: PRESIDEN REPUBLIK INDONESIA

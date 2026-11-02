@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Pengelola Tempat Penyimpanan harus memenuhi
 persyaratan sistem dan sarana penyimpanan
-sebagaimana dimaksud dalam Pasal 36 ayat (4) huruf b
+sebagaimana dimaksud dalam
+
+Pasal 36
+ayat (4) huruf b
 paling sedikit:
 a. akurat, aktual, aman, terpercaya, serta kompatibel
 secara sistem maupun aplikasi dengan sistem
@@ -199,10 +202,16 @@ Huruf g
 Cukup jelas.
 Huruf h
 
-Lihat penjelasan Pasal 21 ayat (1) huruf g.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf g.
 Huruf i
 
-Lihat penjelasan Pasal 21 ayat (1) huruf d.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf d.
 Huruf j
 
 Mekanisme mitigasi risiko untuk menjamin keamanan

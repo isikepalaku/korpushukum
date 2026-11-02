@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Jika Pemilik Data Pribadi tidak lagi menjadi Pengguna, Penyelenggara Sistem Elektronik wajib menyimpan Data Pribadi tersebut sesuai batas waktu sebagaimana dimaksud dalam Pasal 15 ayat (2) terhitung sejak tanggal terakhir Pemilik Data Pribadi menjadi Pengguna.
+Jika Pemilik Data Pribadi tidak lagi menjadi Pengguna, Penyelenggara Sistem Elektronik wajib menyimpan Data Pribadi tersebut sesuai batas waktu sebagaimana dimaksud dalam
+
+Pasal 15
+ayat (2) terhitung sejak tanggal terakhir Pemilik Data Pribadi menjadi Pengguna.
 
 ## Penjelasan Resmi
 

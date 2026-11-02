@@ -20,10 +20,16 @@ mengamandemen: []
 
 (1) Ketentuan mengenai:
 a. kepemilikan warga negara asing
-sebagaimana dimaksud dalam Pasal 2 ayat
+sebagaimana dimaksud dalam
+
+Pasal 2
+ayat
 (2) huruf f; dan
 b. kepemilikan badan hukum asing
-sebagaimana dimaksud dalam Pasal 2 ayat
+sebagaimana dimaksud dalam
+
+Pasal 2
+ayat
 (2) huruf e,
 
 -----
@@ -150,3 +156,5 @@ modal.
 Huruf e
 
 Cukup jelas.
+
+Angka 9

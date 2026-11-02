@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan izin pembentukan UUS
-sebagaimana dimaksud dalam Pasal 22 ayat (2) dalam
+sebagaimana dimaksud dalam
+
+Pasal 22
+ayat (2) dalam
 jangka waktu paling lama 20 (dua puluh) hari kerja
 sejak permohonan izin pembentukan UUS diterima
 secara lengkap.
@@ -27,7 +30,10 @@ secara lengkap.
 sebagaimana dimaksud pada ayat (1), Otoritas Jasa
 Keuangan melakukan:
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 22 ayat (2);
+sebagaimana dimaksud dalam
+
+Pasal 22
+ayat (2);
 b. analisis kelayakan atas rencana kerja UUS;
 c. pemeriksaan setoran modal kerja UUS;
 d. penilaian kemampuan dan kepatutan terhadap
@@ -36,7 +42,10 @@ e. analisis pemenuhan ketentuan peraturan
 perundang-undangan di bidang Pendanaan
 Syariah.
 (3) Dalam hal terdapat kekurangan dokumen sebagaimana
-yang dimaksud dalam Pasal 22 ayat (2), Otoritas Jasa
+yang dimaksud dalam
+
+Pasal 22
+ayat (2), Otoritas Jasa
 Keuangan menyampaikan permintaan kelengkapan
 dokumen kepada Penyelenggara.
 (4) Penyelenggara harus menyampaikan kelengkapan

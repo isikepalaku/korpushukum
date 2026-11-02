@@ -21,8 +21,7 @@ mengamandemen: []
 a. nama dan identitas pemegang dan pemberi Hak
 Tanggungan;
 b. domisili pihak-pihak sebagaimana dimaksud pada huruf a, dan apabila diantara mereka ada yang berdomisili di luar Indonesia, baginya harus pula dicantumkan suatu domisili pilihan di Indonesia, dan dalam hal domisili pilihan itu tidak dicantumkan, kantor PPAT tempat pembuatan Akta Pemberian Hak Tanggungan dianggap sebagai domisili yang dipilih;
-c. penunjukan secara jelas utang atau utang-utang yang dijamin sebagaimana dimaksud dalam Pasal 3 dan Pasal
-10 ayat (1);
+c. penunjukan secara jelas utang atau utang-utang yang dijamin sebagaimana dimaksud dalam Pasal 3 dan Pasal 10 ayat (1);
 d. nilai tanggungan;
 e. uraian yang jelas mengenai obyek Hak Tanggungan.
 (2) Dalam Akta Pemberian Hak Tanggungan dapat dicantumkan janji-janji, antara lain :

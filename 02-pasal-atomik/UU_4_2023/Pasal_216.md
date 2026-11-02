@@ -79,13 +79,19 @@ Perizinan dapat di antaranya mencakup pendaftaran, pencatatan, persetujuan, pene
 Huruf c ...
 
 ```
-Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Hurufh Cukup jelas. Pasal 217 Cukup jelas. Pasal 218 Cukup jelas. Pasal 219 Ayat ( 1) Hasil evaluasi uji coba/pengembangan inovasi (sandbox) dapat dijadikan pertimbangan dalam perumusan pengaturan, pengawasan, dan pengembangan produk, aktivitas, layanan, dan model bisnis dalam pengembangan ekonomi dan keuangan. Ayat (2) Cukup jelas. Pasal 220 Ayat (1) Cukup jelas. Ayat (2) Ketentuan termasuk penetapan kode etik dan standar. Ayat (3) Cukup jelas.
+Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Hurufh Cukup jelas.
+
+Pasal 217
+Cukup jelas. Pasal 218 Cukup jelas. Pasal 219 Ayat ( 1) Hasil evaluasi uji coba/pengembangan inovasi (sandbox) dapat dijadikan pertimbangan dalam perumusan pengaturan, pengawasan, dan pengembangan produk, aktivitas, layanan, dan model bisnis dalam pengembangan ekonomi dan keuangan. Ayat (2) Cukup jelas. Pasal 220 Ayat (1) Cukup jelas. Ayat (2) Ketentuan termasuk penetapan kode etik dan standar. Ayat (3) Cukup jelas.
 ```
 
 Ayat (4) ...
 
 ```
-Ayat (4) Cukup jelas. Pasal 221 Cukup jelas. Pasal 222 Ayat (1) Penerapan Keuangan Berkelanjutan juga mencakup pembiayaan transisi untuk proyek yang melakukan peralihan atau transformasi dari kegiatan yang menghasilkan emisi karbon tinggi menuju pada kegiatan yang lebih ramah lingkungan. Ayat (2) Huruf a Cukup jelas. Huruf b Pengembangan produk, transaksi, dan jasa Keuangan Berkelanjutan mencakup pengembangan skema pembiayaan campuran (blended.finance). Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Yang dimaksud dengan "otoritas sektor keuangan" adalah Bank Indonesia dan Otoritas Jasa Keuangan. Pasa1223 Ayat (1) Huruf a Cukup jelas.
+Ayat (4) Cukup jelas.
+
+Pasal 221
+Cukup jelas. Pasal 222 Ayat (1) Penerapan Keuangan Berkelanjutan juga mencakup pembiayaan transisi untuk proyek yang melakukan peralihan atau transformasi dari kegiatan yang menghasilkan emisi karbon tinggi menuju pada kegiatan yang lebih ramah lingkungan. Ayat (2) Huruf a Cukup jelas. Huruf b Pengembangan produk, transaksi, dan jasa Keuangan Berkelanjutan mencakup pengembangan skema pembiayaan campuran (blended.finance). Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Yang dimaksud dengan "otoritas sektor keuangan" adalah Bank Indonesia dan Otoritas Jasa Keuangan. Pasal 223 Ayat (1) Huruf a Cukup jelas.
 ```
 
 Huruf b ...

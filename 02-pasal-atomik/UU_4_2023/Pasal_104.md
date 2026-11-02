@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '104'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -23,3 +23,11 @@ Dalam rangka pengembangan dan penguatan sektor keuangan melalui penataan di sekt
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 44
+
+Pasal 104A
+
+Cukup jelas.
+
+Angka 45

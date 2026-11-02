@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Badan yang tidak memenuhi kewajiban sebagaimana dimaksud dalam Pasal 14 ayat (3), diancam dengan pidana denda paling banyak Rp.50.000.000,00 (lima puluh juta rupiah).
+Badan yang tidak memenuhi kewajiban sebagaimana dimaksud dalam
+
+Pasal 14
+ayat (3), diancam dengan pidana denda paling banyak Rp.50.000.000,00 (lima puluh juta rupiah).
 
 ## Penjelasan Resmi
 

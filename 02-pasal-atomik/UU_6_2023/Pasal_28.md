@@ -34,3 +34,5 @@ Formula sebagaimana dimaksud dalam ketentuan ini merupakan pola perhitungan untu
 Ayat (2)
 
 Cukup jelas.
+
+Angka 3

@@ -17,7 +17,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(3), Pasal 69 ayat (1), Pasal 71 ayat (5), Pasal 72 ayat (2),
+(1) BPR atau BPR Syariah wajib memperoleh izin OJK untuk
+melakukan pembukaan Kantor Wilayah.
+
+-----
+
+(2) BPR atau BPR Syariah yang akan melakukan pembukaan
+Kantor Wilayah sebagaimana dimaksud pada ayat (1)
+harus memenuhi persyaratan:
+a. rencana pembukaan Kantor Wilayah telah
+dicantumkan dalam rencana bisnis;
+b. memenuhi kelengkapan struktur organisasi dan
+uraian tugas dan jabatan;
+c. dokumen yang menjelaskan cakupan wilayah kerja,
+tugas, dan kewenangan Kantor Wilayah; dan
+d. tidak terdapat pelanggaran ketentuan.
 
 ## Penjelasan Resmi
 
@@ -28,7 +42,10 @@ Ayat (2)
 
 Huruf a
 
-Lihat penjelasan Pasal 35 ayat (3) huruf a.
+Lihat penjelasan
+
+Pasal 35
+ayat (3) huruf a.
 Huruf b
 
 Cukup jelas.

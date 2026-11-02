@@ -32,6 +32,10 @@ Untuk pertama kali, anggota Dewan Komisioner dan Kepala
 
  c. anggota Dewan Komisioner sebagaimana dimaksud dalam
 
+ Pasal 65 ayat (1) huruf d yang bukan merupakan ketua
+
+ diangkat untuk masa jabatan 3 (tiga) tahun.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

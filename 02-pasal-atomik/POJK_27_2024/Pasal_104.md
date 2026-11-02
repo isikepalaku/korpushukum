@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penyedia jasa fasilitasi transaksi Aset Keuangan Digital
-sebagaimana dimaksud dalam Pasal 102 ayat (2) huruf b
+sebagaimana dimaksud dalam
+
+Pasal 102
+ayat (2) huruf b
 harus memenuhi persyaratan:
 a. memiliki sistem fasilitasi transaksi Aset Keuangan
 Digital secara elektronik daring;
@@ -47,10 +50,16 @@ Huruf b
 Cukup jelas.
 Huruf c
 
-Lihat penjelasan Pasal 80 ayat (8).
+Lihat penjelasan
+
+Pasal 80
+ayat (8).
 Huruf d
 
 Cukup jelas.
 Huruf e
 
-Lihat penjelasan Pasal 21 ayat (1) huruf d.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf d.

@@ -17,8 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemeliharaan Basis Data sebagaimana dimaksud dalam Pasal 
-56 
+Pemeliharaan Basis Data sebagaimana dimaksud dalam
+
+Pasal 56
 huruf 
 a, 
 dilakukan 

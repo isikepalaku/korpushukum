@@ -21,20 +21,28 @@ mengamandemen: []
 dokumen perizinan, persetujuan, dan pelaporan yang
 telah disampaikan melalui sistem jaringan komunikasi
 data Otoritas Jasa Keuangan sebagaimana dimaksud
-dalam Pasal 226 ayat (1).
+dalam
+
+Pasal 226
+ayat (1).
 
 -----
 
 (2) Otoritas Jasa Keuangan dapat melakukan verifikasi
 dan/atau validasi atas kebenaran dan kewajaran
 dokumen cetak permohonan perizinan, persetujuan,
-dan pelaporan, sebagaimana dimaksud dalam Pasal
-226 ayat (1) yang telah disampaikan oleh Perusahaan
+dan pelaporan, sebagaimana dimaksud dalam
+
+Pasal 226
+ayat (1) yang telah disampaikan oleh Perusahaan
 melalui sistem jaringan komunikasi data Otoritas Jasa
 Keuangan.
 (3) Perusahaan wajib menyediakan dokumen cetak
 permohonan perizinan, persetujuan, dan pelaporan,
-sebagaimana dimaksud dalam Pasal 226 ayat (1) yang
+sebagaimana dimaksud dalam
+
+Pasal 226
+ayat (1) yang
 telah disampaikan oleh Perusahaan melalui sistem
 jaringan komunikasi data Otoritas Jasa Keuangan pada
 saat pelaksanaan verifikasi dan/atau validasi oleh

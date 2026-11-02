@@ -17,8 +17,19 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BAB IX
-PELAPORAN
+Untuk mencegah PJK digunakan sebagai media atau tujuan
+TPPU, TPPT, dan/atau PPSPM yang melibatkan pihak intern
+PJK, PJK wajib melakukan:
+a. prosedur penyaringan untuk memastikan standar yang
+tinggi pada penerimaan pegawai baru (pre-employee
+_screening), baik pegawai tetap maupun pegawai tidak_
+tetap, termasuk pejabat senior, tenaga ahli, dari mulai
+tingkat paling rendah sampai dengan 1 (satu) tingkat di
+bawah Direksi dan Dewan Komisaris; dan
+b. pengenalan dan pemantauan terhadap profil pegawai
+(know your employee), baik pegawai tetap maupun pegawai
+tidak tetap, termasuk tenaga ahli, dari mulai level paling
+rendah sampai dengan Direksi dan Dewan Komisaris.
 
 ## Penjelasan Resmi
 

@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap orang yang meniru atau memalsukan Bahan Bakar Minyak dan Gas Bumi dan hasil olahan sebagaimana dimaksud dalam Pasal 28 ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling tinggi Rp60.000.000.000,00 (enam puluh miliar rupiah).
+Setiap orang yang meniru atau memalsukan Bahan Bakar Minyak dan Gas Bumi dan hasil olahan sebagaimana dimaksud dalam
+
+Pasal 28
+ayat (1) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling tinggi Rp60.000.000.000,00 (enam puluh miliar rupiah).
 
 ## Penjelasan Resmi
 

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '338'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -27,5 +27,23 @@ mengamandemen: []
 Bagian Ketqjuh Tindak Pidana Kecerobohan yang Membahayakan Umum
 
 ## Penjelasan Resmi
+
+Ketentuan ini tidak dimaksudkan untuk memidana perbuatan yang dilakukan untuk kegiatan budaya/adat istiadat, keagamaan, atau kepercayaan.
+
+Ayat (1)
+
+Huruf a
+
+Yang dimaksud dengan "kemampuan kodraf adalah kemampuan hewan yarrg alamiah.
+
+Hurufb
+
+Cukup jelas.
+
+Huruf c
+
+Yang dimaksud dengan "tujuan yang tidak patuf antara lain, selain untuk konsumsi, ilmu pengetahuan, penelitian, dan medis.
+
+Ayatl2l
 
 Cukup jelas.

@@ -17,11 +17,20 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-a. persetujuan prinsip; dan
-b. izin usaha.
+(1) BPR atau BPR Syariah didirikan berdasarkan:
+a. permohonan oleh calon PSP;
+b. perubahan izin usaha BUK menjadi BPR atau BPR
+Syariah;
+c. perubahan izin usaha BUS menjadi BPR Syariah;
+d. perubahan izin usaha BPR menjadi BPR Syariah; atau
+e. perubahan izin usaha LKM menjadi BPR atau BPR
+Syariah.
 
-Paragraf 1
-Persetujuan Prinsip
+-----
+
+(2) BPR atau BPR Syariah sebagaimana dimaksud pada ayat
+(1) melakukan kegiatan usaha setelah memperoleh izin
+usaha dari OJK.
 
 ## Penjelasan Resmi
 

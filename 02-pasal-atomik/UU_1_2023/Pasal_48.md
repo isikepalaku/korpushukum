@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '48'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 46 dan Pasal 47 dapat dipertanggungjawabkan, jika:
+Tindak Pidana oleh Korporasi sebagaimana dimaksud dalam Pasal 46 dan
+
+Pasal 47
+dapat dipertanggungjawabkan, jika:
 
 - a. termasuk dalam lingkup usaha atau kegiatan sebagaimana ditentukan dalam anggaran dasar atau ketentuan lain yang berlaku bagi Korporasi;
 - b. menguntungkan Korporasi secara melawan hukum;
@@ -31,4 +34,10 @@ c. diterima . . .
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Mengenai kedudukan sebagai pelaku Tindak Pidana dan sifat pertanggungiawaban pidana dari Korporasi terdapa.t kemungkinan sebagai berikut:
+
+- a. dalam ketentuan ini "lingkup usaha atau kegiatan" termasuk juga kegiatan usaha yang pada umumnya dilakukan oleh Korporasi;
+- b. Korporasi sebagai pelaku Tindak Pidana dan pengurus yang bertanggung jawab; atau
+- c. Korporasi sebagai pelaku Tindak Pidana dan juga sebagai yang bertanggung jawab.
+
+Oleh karena itu, jika suatu Tindak Pidana dilakukan oleh dan untuk suatu Korporasi maka penuntutannya dapat dilakukan dan pidananya dapat dijatuhkan terhadap Korporasi sendiri, atau Korporasi dan pengurusnya, atau pengurusnya saja.

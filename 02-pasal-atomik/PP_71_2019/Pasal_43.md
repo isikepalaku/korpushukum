@@ -19,6 +19,12 @@ mengamandemen: []
 
 Penyelenggaraan Transaksi Elektronik yang dilaksanakan oleh Penyelenggara Sistem Elektronik Lingkup Publik harus memperhatikan aspek keamanan, keandalan, dan efisiensi.
 
+Pasal 44...
+
+SK No011709 A
+
+FRESTDEN REPUBLIK TNDONESIA
+
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

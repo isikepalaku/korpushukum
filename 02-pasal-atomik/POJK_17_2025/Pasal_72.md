@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara wajib menyampaikan laporan insidentil
-sebagaimana dimaksud dalam Pasal 69 huruf c jika
+sebagaimana dimaksud dalam
+
+Pasal 69
+huruf c jika
 terdapat kejadian atau informasi material terkait
 dengan penyelenggaraan Layanan Urun Dana.
 (2) Laporan insidentil sebagaimana dimaksud pada ayat (1)

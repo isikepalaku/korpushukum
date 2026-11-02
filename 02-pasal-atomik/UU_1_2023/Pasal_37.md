@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '37'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,12 @@ Dalam hal ditentukan oleh Undang-Undang, Setiap Orang dapat:
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini ditujukan bagi Tindak Pidana yang mengandung asas pertanggungiawaban mutlak (strbt liabilitgl atau pertanggungiawaban pengganti (uicaious liabilitgl yang dinyatakan secara tegas oleh UndangUndang yang bersangkutan.
+
+**Huruf a**
+
+Ketentuan ini mengandung asas pertanggungiawaban mutlak (stnct liabilitgl yang menentukan bahwa pelaku Tindak Pidana telah dapat dipidana hanya karena telah dipenuhinya unsur-unsur Tindak Pidana dari perbuatannya.
+
+**Huruf b**
+
+Ketentuan ini mengandung asas pertanggungiawaban pengganti (ubaious liabilitgl yang menentukan bahwa Setiap Orang bertanggung jawab atas perbuatan yang dilakukan oleh orang lain yang melakukan pekerjaan atau perbuatan untuknya atau dalam batas perintahnya, misalnya pimpinan perusahaan yang bertanggung jawab atas perbuatan bawahannya.

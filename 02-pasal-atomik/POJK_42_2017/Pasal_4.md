@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bank wajib mematuhi kebijakan perkreditan atau pembiayaan Bank yang telah disusun sebagaimana dimaksud dalam Pasal 2 dalam pelaksanaan pemberian Kredit atau Pembiayaan dan pengelolaan perkreditan atau pembiayaan secara konsekuen dan konsisten.
+Bank wajib mematuhi kebijakan perkreditan atau pembiayaan Bank yang telah disusun sebagaimana dimaksud dalam
+
+Pasal 2
+dalam pelaksanaan pemberian Kredit atau Pembiayaan dan pengelolaan perkreditan atau pembiayaan secara konsekuen dan konsisten.
 
 ## Penjelasan Resmi
 

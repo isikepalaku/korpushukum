@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 39-2024 tentang Pergadaian
 kode_uu: POJK_29_2025
 pasal: '174'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_29_2025
@@ -18,8 +18,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan
-sebagaimana dimaksud dalam Pasal 16B ayat (1),
-ayat (5), Pasal 169 ayat (1), ayat (2), Pasal 170 ayat
+sebagaimana dimaksud dalam
+
+Pasal 168
+ayat (1),
+ayat (5),
+
+Pasal 169
+ayat (1), ayat (2), Pasal 170 ayat
 (3), Pasal 171, Pasal 172 ayat (1), Pasal 172A ayat
 (1), dan/atau Pasal 173 dikenai sanksi
 administratif berupa:
@@ -75,3 +81,5 @@ ayat (3) dan ayat (4) sehingga berbunyi sebagai berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 30

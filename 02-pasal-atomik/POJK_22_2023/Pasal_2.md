@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-PUJK sebagaimana dimaksud dalam Pasal 1 angka 2 terdiri
+PUJK sebagaimana dimaksud dalam
+
+Pasal 1
+angka 2 terdiri
 atas:
 a. LJK yang meliputi:
 

@@ -18,7 +18,53 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-diangkat untuk masa jabatan 3 (tiga) tahun.
+(1) Anggota Dewan Komisioner berjumlah 6 (enam) orang,
+
+ yang terdiri atas:
+
+ a. 1 (satu) orang pejabat setingkat eselon I Departemen
+
+ Keuangan yang ditunjuk oleh Menteri Keuangan;
+
+ b. 1 (satu) orang unsur pimpinan LPP yang ditunjuk oleh
+
+ pimpinan LPP;
+
+ c. 1 (satu) orang dari unsur pimpinan Bank Indonesia
+
+ yang ditunjuk oleh pimpinan Bank Indonesia;
+
+ d. 3 (tiga) orang anggota yang berasal dari dalam
+
+ dan/atau dari luar LPS.
+
+ (2) Anggota Dewan Komisioner sebagaimana dimaksud pada
+
+ ayat (1) diangkat oleh Presiden atas usul Menteri
+
+ Keuangan.
+
+ (3) Jumlah calon anggota Dewan Komisioner sebagaimana
+
+ dimaksud pada ayat (1) huruf d diusulkan oleh Menteri
+
+-----
+
+**Keuangan sebanyak 2 (dua) orang untuk setiap anggota**
+
+ Dewan Komisioner yang akan diangkat.
+
+ (4) Dalam hal calon yang diusulkan oleh Menteri Keuangan
+
+ sebagaimana dimaksud pada ayat (3) untuk setiap anggota
+
+ Dewan Komisioner yang akan diangkat tidak disetujui
+
+ oleh Presiden, Menteri Keuangan mengusulkan 2 (dua)
+
+ calon lain dalam waktu paling lambat 14 (empat belas) hari
+
+ sejak tanggal penolakan.
 
 ## Penjelasan Resmi
 

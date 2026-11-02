@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Jika waktu penyimpanan Data Pribadi telah melebihi batas waktu sebagaimana dimaksud dalam Pasal 15 ayat (2), Data Pribadi dalam Sistem Elektronik dapat dihapuskan kecuali Data Pribadi tersebut masih akan dipergunakan atau dimanfaatkan sesuai dengan tujuan awal perolehan dan pengumpulannya.
+Jika waktu penyimpanan Data Pribadi telah melebihi batas waktu sebagaimana dimaksud dalam
+
+Pasal 15
+ayat (2), Data Pribadi dalam Sistem Elektronik dapat dihapuskan kecuali Data Pribadi tersebut masih akan dipergunakan atau dimanfaatkan sesuai dengan tujuan awal perolehan dan pengumpulannya.
 
 ## Penjelasan Resmi
 

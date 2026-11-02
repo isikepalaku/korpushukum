@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Kegiatan usaha berdasarkan Prinsip Syariah
-sebagaimana dimaksud dalam Pasal 132 ayat (1) wajib
+sebagaimana dimaksud dalam
+
+Pasal 132
+ayat (1) wajib
 menggunakan Akad:
 a. _al-bai';_
 b. ijarah;

@@ -57,9 +57,7 @@ negara, Penyidik, dan Hakim.
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal T2
+**Cukup [jelas.]**Pasal T2
 
 **Ayat (1)**
  Huruf a

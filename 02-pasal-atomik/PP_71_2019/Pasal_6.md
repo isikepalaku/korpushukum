@@ -29,4 +29,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

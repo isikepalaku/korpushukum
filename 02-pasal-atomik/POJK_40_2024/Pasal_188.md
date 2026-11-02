@@ -17,7 +17,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (4), ayat (5), ayat (6), ayat (9), ayat (10), dan/atau
+(1) Penyelenggara wajib menyampaikan laporan berkala
+dan laporan insidental kepada Otoritas Jasa Keuangan.
+(2) Laporan berkala sebagaimana dimaksud pada ayat (1)
+terdiri atas:
+a. laporan bulanan; dan
+b. laporan keuangan tahunan yang telah diaudit oleh
+akuntan publik yang terdaftar di Otoritas Jasa
+Keuangan.
+(3) Penyelenggara wajib mengukur, mengakui, dan
+menyajikan serta mengungkapkan transaksi dengan
+pihak terafiliasi yang memenuhi kriteria signifikansi
+tertentu dengan nilai wajar.
+(4) Otoritas Jasa Keuangan berwenang meminta laporan
+lain selain laporan insidental sebagaimana dimaksud
+pada ayat (1).
 
 ## Penjelasan Resmi
 

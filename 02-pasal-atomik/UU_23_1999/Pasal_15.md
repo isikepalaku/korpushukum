@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam rangaka mengatura dan menjaga kelancaran sistem
- pembayaran sebagaimana dimaksud dalam Pasal 8 huruf b, Bank Indonesia berwenang :
+ pembayaran sebagaimana dimaksud dalam
+
+Pasal 8
+huruf b, Bank Indonesia berwenang :
 
  a. melaksnaakan dan memberikan persetujuan dan izin atas
  penyelenggaraan jawa sistem pembayaran;

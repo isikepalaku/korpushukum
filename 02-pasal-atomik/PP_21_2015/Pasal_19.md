@@ -25,6 +25,12 @@ secara elektronik serta penyimpanan dokumen fisiknya
 menjadi tanggung jawab Penerima Fidusia, kuasa atau
 wakilnya.
 
+Pasal 20 . . .
+
+-----
+
+ - 9
+
 ## Penjelasan Resmi
 
 Cukup jelas.

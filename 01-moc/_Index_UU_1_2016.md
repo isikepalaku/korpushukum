@@ -4,7 +4,7 @@ judul: "Map of Content - Penjaminan"
 kode_uu: UU_1_2016
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_1_2016]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Penjaminan (UU_1_2016)
@@ -28,7 +28,7 @@ last_updated: 2026-11-01
 - [[Pasal_13]]: (1) Dalam hal pemegang saham berbentuk badan hukum
 - [[Pasal_14]]: (1) Setiap Orang hanya dapat menjadi pemegang saham
 - [[Pasal_15]]: (1) Lembaga Penjamin wajib dikelola oleh direksi/pengurus
-- [[Pasal_16]]: dan ayat (2), Pasal 24 ayat (1) dan ayat (2), Pasal 25 ayat
+- [[Pasal_16]]: (1) Pemegang saham, direksi/pengurus dan
 - [[Pasal_17]]: (1) Perusahaan Penjaminan Syariah, Perusahaan
 - [[Pasal_18]]: (1) Setiap Orang yang melakukan usaha Penjaminan dan
 - [[Pasal_19]]: (1) Perusahaan Penjaminan dan Perusahaan Penjaminan
@@ -36,11 +36,11 @@ last_updated: 2026-11-01
 - [[Pasal_21]]: (1) UUS yang telah mendapat izin dari Otoritas Jasa
 - [[Pasal_22]]: (1) Perusahaan Penjaminan dapat menghentikan kegiatan
 - [[Pasal_23]]: (1) Setiap Orang yang melakukan usaha Penjaminan Syariah
-- [[Pasal_24]]: f. belum melakukan kegiatan usaha paling lambat 3
+- [[Pasal_24]]: (1) Perusahaan Penjaminan Syariah dan Perusahaan
 - [[Pasal_25]]: Pasal 25
 - [[Pasal_26]]: (1) Lembaga Penjamin dalam melaksanakan pengelolaan
 - [[Pasal_27]]: (1) Pengawasan Lembaga Penjamin, lembaga penunjang
-- [[Pasal_28]]: menyesatkan dipidana dengan pidana penjara paling lama 5
+- [[Pasal_28]]: (1) Lembaga Penjamin wajib menyampaikan laporan
 - [[Pasal_29]]: (1) Lembaga Penjamin dapat melakukan penggabungan atau
 - [[Pasal_30]]: Penggabungan, peleburan, pemisahan, dan pengambilalihan
 - [[Pasal_31]]: (1) Permohonan pernyataan pailit terhadap Lembaga
@@ -54,7 +54,7 @@ last_updated: 2026-11-01
 - [[Pasal_39]]: (1) Penjaminan dan Penjaminan Syariah dilakukan dengan
 - [[Pasal_40]]: (1) Penjaminan dan Penjaminan Syariah dapat dilakukan
 - [[Pasal_41]]: (1) Perjanjian Penjaminan Syariah menggunakan akad
-- [[Pasal_42]]: (1), Pasal 51 ayat (1), Pasal 52 ayat (4), Pasal 53 ayat (3),
+- [[Pasal_42]]: (1) Perusahaan Penjaminan dan Perusahaan Penjaminan
 - [[Pasal_43]]: (1) Dalam melaksanakan kegiatan usahanya, Perusahaan
 - [[Pasal_44]]: Lembaga Penjamin wajib memiliki cadangan klaim dan
 - [[Pasal_45]]: Pengajuan klaim oleh Penerima Jaminan kepada Perusahaan

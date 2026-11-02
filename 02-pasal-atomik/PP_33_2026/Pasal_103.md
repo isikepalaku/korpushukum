@@ -21,6 +21,10 @@ mengamandemen: []
 
 - (2) Pemberitahuan sebagaimana dimaksud pada ayat (1) disampaikan paling lambat 3 x 24 (tiga kali dua puluh empat) jam setelah penundaan dan pembatasan pemrosesan Data Pribadi dilakukan cleh Pengendali Data Pribadi.
 
+Pasal 104...
+
+» Giz =
+
 ## Penjelasan Resmi
 
 Cukup jelas.

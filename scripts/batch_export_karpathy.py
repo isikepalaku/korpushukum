@@ -96,6 +96,12 @@ def run_batch_export():
 
             num_pasal = len(parser.pasal_dict)
             if num_pasal > 0:
+                # Bersihkan folder regulasi jika sudah ada sebelumnya agar tidak ada orphan/stale files
+                target_reg_dir = leg_dir / code_id
+                if target_reg_dir.exists():
+                    for old_file in target_reg_dir.glob("Pasal_*.md"):
+                        old_file.unlink()
+
                 parser.export_atomic_mode(str(out_root))
                 sukses += 1
                 total_pasal += num_pasal

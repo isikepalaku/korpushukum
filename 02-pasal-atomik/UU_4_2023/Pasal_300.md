@@ -23,7 +23,10 @@ mengamandemen: []
 - c. memberikan atau menyebabkan persetujuan bagi orang lain untuk melaksanakan penarikan dana yang melebihi batas pembiayaan pada Usaha Jasa Pembiayaan; dan/atau
 - d. tidak melaksanakan langkah yang diperlukan untuk memastikan ketaatan Usaha Jasa Pembiayaan terhadap ketentuan dalam Undang-Undang ini dan ketentuan peraturan perundang-undangan lainnya yang berlaku bagi Usaha Jasa Pembiayaan,
 
-sebagaimana dimaksud dalam Pasal 118 ayat (2) huruf a sampai dengan huruf d dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (tiga) tahun dan pidana denda paling sedikit Rpl.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
+sebagaimana dimaksud dalam
+
+Pasal 118
+ayat (2) huruf a sampai dengan huruf d dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (tiga) tahun dan pidana denda paling sedikit Rpl.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
 
 - (2) Dalam hal tindakan sebagaimana dimaksud pada ayat (1) mengakibatkan kerugian terhadap harta benda atau kerusakan barang, selain dipidana dengan pidana penjara dan pidana denda sebagaimana dimaksud pada ayat (1), pelaku juga dipidana dengan pidana tambahan berupa penggantian kerugian atas harta benda atau kerusakan barang.
 - (3) Pidana tambahan berupa penggantian kerugian atas harta benda atau kerusakan barang sebagaimana dimaksud pada ayat (2) dikembalikan kepada pihak yang dirugikan.

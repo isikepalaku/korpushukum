@@ -17,19 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-setelah dokumen permohonan diterima secara lengkap.
-(2) Untuk memberikan persetujuan atau penolakan atas
-permohonan sebagaimana dimaksud pada ayat (1), OJK
-melakukan:
-a. penelitian atas kelengkapan dan kesesuaian
-dokumen;
-b. penilaian kemampuan dan kepatutan dalam hal
-terdapat penggantian atas calon PSP, calon Direksi,
-dan/atau calon Dewan Komisaris yang diajukan
-saat permohonan persetujuan prinsip; dan
-c. wawancara atas calon DPS dalam hal terdapat
-penggantian DPS yang diajukan saat permohonan
-persetujuan prinsip.
+Perizinan pendirian Bank dilakukan dalam 2 (dua) tahap:
+a. persetujuan prinsip; dan
+b. izin usaha.
 
 ## Penjelasan Resmi
 

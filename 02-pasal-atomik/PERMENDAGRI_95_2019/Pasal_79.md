@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Pusat Data dan Pusat Data Cadangan sebagaimana 
-dimaksud dalam Pasal 3 ayat (1) huruf l dan huruf n, 
+dimaksud dalam
+
+Pasal 3
+ayat (1) huruf l dan huruf n, 
 dalam pengelolaan Kementerian. 
 (2) 
 Pusat Data dan Pusat Data Cadangan sebagaimana 

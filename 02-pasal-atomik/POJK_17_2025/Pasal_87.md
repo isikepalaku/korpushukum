@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan lebih lanjut mengenai kriteria tertentu
-sebagaimana dimaksud dalam Pasal 86 ayat (5) huruf c
+sebagaimana dimaksud dalam
+
+Pasal 86
+ayat (5) huruf c
 ditetapkan oleh Lembaga Penyimpanan dan Penyelesaian.
 
 ## Penjelasan Resmi

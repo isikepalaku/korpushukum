@@ -18,29 +18,75 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sekretariat Komite Stabilitas Sistem Keuangan yang
-dipimpin oleh sekretaris Komite Stabilitas Sistem
-Keuangan.
+Komite Stabilitas Sistem Keuangan berwenang:
 
-(2) Anggaran sekretariat Komite Stabilitas Sistem Keuangan
+a. menetapkan keputusan mengenai tata kelola Komite
 
-bersumber dari Anggaran Pendapatan dan Belanja Negara.
+Stabilitas Sistem Keuangan dan sekretariat Komite
+Stabilitas Sistem Keuangan;
 
-(3) Sekretariat Komite Stabilitas Sistem Keuangan dapat
+b. membentuk . . .
 
-menyelenggarakan rapat yang dihadiri oleh pejabat
-Kementerian Keuangan, Bank Indonesia, Otoritas Jasa
-Keuangan, dan Lembaga Penjamin Simpanan untuk
-mempersiapkan pelaksanaan rapat Komite Stabilitas
-Sistem Keuangan.
+-----
 
-(4) Organisasi dan tata kerja sekretariat Komite Stabilitas
+ - 6
+b. membentuk gugus tugas atau kelompok kerja untuk
 
-Sistem Keuangan ditetapkan oleh Menteri Keuangan
-sesuai dengan ketentuan peraturan perundang-undangan.
+membantu pelaksanaan tugas Komite Stabilitas Sistem
+Keuangan;
 
-Bagian Keempat
-Rapat dan Tata Cara Pengambilan Keputusan
+c. menetapkan kriteria dan indikator untuk penilaian kondisi
+
+Stabilitas Sistem Keuangan;
+
+d. melakukan penilaian terhadap kondisi Stabilitas Sistem
+
+Keuangan berdasarkan masukan dari setiap anggota
+Komite Stabilitas Sistem Keuangan, beserta data dan
+informasi pendukungnya;
+
+e. menetapkan langkah koordinasi untuk mencegah Krisis
+
+Sistem Keuangan dengan mempertimbangkan
+rekomendasi dari setiap anggota Komite Stabilitas Sistem
+Keuangan;
+
+f. merekomendasikan kepada Presiden untuk memutuskan
+perubahan status Stabilitas Sistem Keuangan, dari kondisi
+normal menjadi kondisi Krisis Sistem Keuangan atau dari
+kondisi Krisis Sistem Keuangan menjadi kondisi normal;
+
+g. merekomendasikan kepada Presiden untuk memutuskan
+
+langkah penanganan Krisis Sistem Keuangan;
+
+h. menyerahkan penanganan permasalahan solvabilitas Bank
+
+Sistemik kepada Lembaga Penjamin Simpanan;
+
+i. menetapkan langkah yang harus dilakukan oleh anggota
+
+Komite Stabilitas Sistem Keuangan untuk mendukung
+pelaksanaan penanganan permasalahan Bank Sistemik
+oleh Lembaga Penjamin Simpanan;
+
+j. menetapkan keputusan pembelian oleh Bank Indonesia
+
+atas Surat Berharga Negara yang dimiliki Lembaga
+Penjamin Simpanan untuk penanganan Bank; dan
+
+k. merekomendasikan kepada Presiden untuk memutuskan
+
+penyelenggaraan dan pengakhiran Program
+Restrukturisasi Perbankan.
+
+Bagian . . .
+
+-----
+
+ - 7
+Bagian Ketiga
+Kesekretariatan
 
 ## Penjelasan Resmi
 

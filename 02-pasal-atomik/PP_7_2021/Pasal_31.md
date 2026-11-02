@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 **Pemberdayaan bagi Koperasi di sektor kehutanan**
-sebagaimana dimaksud dalam Pasal 25 huruf c meliputi:
+sebagaimana dimaksud dalam
+
+Pasal 25
+huruf c meliputi:
 **a. perizinan dan kerja sama bagi Koperasi yang**
 
 **melakukan kegiatan usaha di sektor kehutanan; dan**

@@ -22,7 +22,10 @@ Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 berlaku:
 a. Bagi Perusahaan yang telah memperoleh izin usaha dan
 belum melakukan kegiatan usaha dalam jangka waktu
-sebagaimana dimaksud dalam Pasal 14 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 14
+ayat (1)
 sebelum berlakunya Peraturan Otoritas Jasa Keuangan
 ini, Otoritas Jasa Keuangan mencabut izin usaha 1
 (satu) bulan sejak Peraturan Otoritas Jasa Keuangan ini
@@ -31,7 +34,10 @@ b. Ketentuan mengenai:
 1. pemenuhan susunan organisasi yang
 menggambarkan secara jelas fungsi sumber daya
 manusia Perusahaan sebagaimana dimaksud
-dalam Pasal 11 ayat (1) huruf d; dan
+dalam
+
+Pasal 11
+ayat (1) huruf d; dan
 2. pemenuhan persetujuan tertulis dari Otoritas Jasa
 Keuangan bagi Asosiasi yang telah menjalankan
 kegiatannya,
@@ -41,7 +47,9 @@ sejak Peraturan Otoritas Jasa Keuangan ini
 diundangkan.
 c. Ketentuan mengenai pemenuhan kepemilikan fungsi
 komite etik dalam struktur organisasi Asosiasi
-sebagaimana dimaksud dalam Pasal 15E ayat (1) harus
+sebagaimana dimaksud dalam
+
+Pasal 15E ayat (1) harus
 dilaksanakan paling lambat 1 (satu) tahun sejak
 Peraturan Otoritas Jasa Keuangan ini diundangkan.
 d. Bagi Perusahaan yang telah diberikan surat

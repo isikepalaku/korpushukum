@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal Tindak Pidana sebagaimana dimaksud dalam Pasal 347 dilakukan secara bersama-sarna dan bersekutu, pidananya dapat ditamb ah I l3 (satu per tiga).
+Dalam hal Tindak Pidana sebagaimana dimaksud dalam
+
+Pasal 347
+dilakukan secara bersama-sarna dan bersekutu, pidananya dapat ditamb ah I l3 (satu per tiga).
 
 **Paragraf 2**
 

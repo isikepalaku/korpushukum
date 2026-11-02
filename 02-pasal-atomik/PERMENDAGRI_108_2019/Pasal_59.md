@@ -21,7 +21,10 @@ mengamandemen: []
 (1) 
 Pencatatan perceraian WNI di luar wilayah Negara 
 Kesatuan Republik Indonesia sebagaimana dimaksud 
-dalam Pasal 56 huruf c, dicatatkan pada Perwakilan 
+dalam
+
+Pasal 56
+huruf c, dicatatkan pada Perwakilan 
 Republik Indonesia dengan memenuhi persyaratan sesuai 
 dengan 
 ketentuan 

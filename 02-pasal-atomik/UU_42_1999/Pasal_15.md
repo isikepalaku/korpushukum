@@ -17,18 +17,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-b. penjualan Benda yang menjadi objek Jaminan Fidusia atas
+(1) Dalam Sertifikat Jaminana Fidusia sebagaimana dimaksud dalam
+ Pasal 14 ayat (1) dicantumkan kata-kata "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA".
 
------
+ (2) Sertifikat Jaminan Fidusia sebagaimana dimaksud dalam ayat (1)
+ mempunyai kekuatan eksekutorial yang sama dengan putusan pengadilan yang telah memperoleh kekuatan hukum tetap.
 
- - 10
-**kekuasaan Penerima Fidusia sendiri melalui pelelangan umum serta mengambil pelunasan piutangnya dari hasil penjualan;**
-
- c. penjualan di bawah tangan yang dilakukan berdasarkan
- kesepakatan Pemberi dan Penerima Fidusia jika dengan cara demikian dapat diperoleh harga tertinggi yang menguntungkan para pihak.
-
- (2) Pelaksanaan penjualan sebagaimana dimaksud dalama ayat (1) huruf
- c dilakukan setelah lewat waktu 1 (satu) bulan sejak diberitahukan secara tertulis oleh Pemberi dan atau Penerima Fidusia kepada pihak-pihak yang berkepentingan dan diumumkan sedikitnya dalam 2 (dua) surat kabar yang tersebar di daerah yang bersangkutan.
+ (3) Apabila debitor cidera janji, Penerima Fidusia mempunyai hak untuk
+ menjual Benda yang menjadi objek Jaminan Fidusia atas kekuasaannya sendiri.
 
 ## Penjelasan Resmi
 

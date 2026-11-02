@@ -17,8 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengawasan Basis Data sebagaimana dimaksud dalam Pasal 
-70 huruf a, dilakukan dengan cara antara lain: 
+Pengawasan Basis Data sebagaimana dimaksud dalam
+
+Pasal 70
+huruf a, dilakukan dengan cara antara lain: 
 a. 
 memantau perubahan dan aktifitas pengakses Basis 
 Data; 

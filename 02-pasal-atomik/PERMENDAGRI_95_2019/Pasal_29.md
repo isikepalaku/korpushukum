@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) 
-Perangkat keras sebagaimana dimaksud dalam Pasal 28 
+Perangkat keras sebagaimana dimaksud dalam
+
+Pasal 28
 huruf a, terdiri dari: 
 a. 
 server utama pada Pusat Data; 
@@ -71,7 +73,9 @@ Direktorat
 Jenderal 
 Kependudukan dan Pencatatan Sipil. 
 (3) 
-Perangkat lunak sebagaimana dimaksud dalam Pasal 28 
+Perangkat lunak sebagaimana dimaksud dalam
+
+Pasal 28
 huruf b, terdiri dari: 
 a. 
 sistem operasi berlisensi dan sistem operasi dengan 

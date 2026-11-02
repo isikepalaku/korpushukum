@@ -18,9 +18,45 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bagian Kedua
+(1) Bappebti berwenang mengenakan sanksi administratif atas
 
- Ketentuan Pidana
+ pelanggaran terhadap ketentuan Undang-undang ini dan/atau
+
+ peraturan pelaksanaannya yang dilakukan oleh setiap Pihak yang
+
+ memperoleh izin usaha, izin, persetujuan, atau setifikat pendaftaran
+
+ dari Bappebti.
+
+ (2) Sanksi...
+
+```
+
+-----
+
+```
+ - 42
+**(2) Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat**
+
+ berupa:
+
+ a. peringatan tertulis;
+
+ b. denda administratif, yaitu kewajiban membayar sejumlah uang
+
+ tertentu;
+
+ c. pembatasan kegiatan usaha;
+
+ d. pembekuan kegiatan usaha;
+
+ e. pencabutan izin usaha;
+
+ f. pencabutan izin;
+
+ g. pembatalan persetujuan; dan/atau
+
+ h. pembatalan sertifikat pendaftaran.
 
 ## Penjelasan Resmi
 

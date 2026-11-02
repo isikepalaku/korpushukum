@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Perubahan status kantor selain sebagaimana dimaksud
-dalam Pasal 88 dan Pasal 89 dilakukan dengan cara
+dalam Pasal 88 dan
+
+Pasal 89
+dilakukan dengan cara
 melakukan penutupan kantor Bank yang akan berubah
 status dan melakukan pembukaan kantor Bank yang baru
 dengan memenuhi persyaratan dan tata cara sesuai dengan

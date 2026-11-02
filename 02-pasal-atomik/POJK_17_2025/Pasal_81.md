@@ -21,7 +21,10 @@ mengamandemen: []
 oleh setiap Penerbit dalam jangka waktu 12 (dua belas)
 bulan paling banyak Rp10.000.000.000,00 (sepuluh
 miliar rupiah) atau nilai total penghimpunan dana lain
-sebagaimana dimaksud dalam Pasal 3 ayat (2).
+sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (2).
 (2) Penghimpunan dana sebagaimana dimaksud pada ayat
 (1) dapat dilakukan dalam 1 (satu) kali penawaran atau
 lebih.

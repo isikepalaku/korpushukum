@@ -4,7 +4,7 @@ judul: "Map of Content - Pergadaian"
 kode_uu: POJK_39_2024
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_39_2024]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Pergadaian (POJK_39_2024)
@@ -18,53 +18,52 @@ last_updated: 2026-11-01
 - [[Pasal_3]]: (1) Perusahaan hanya dapat dimiliki oleh:
 - [[Pasal_4]]: (1) Kepemilikan badan hukum asing sebagaimana
 - [[Pasal_5]]: (1) Perusahaan wajib menetapkan paling sedikit 1 (satu)
-- [[Pasal_6]]: (2) Perusahaan yang akan melakukan perubahan
+- [[Pasal_6]]: (1) Modal Disetor Perusahaan ditetapkan berdasarkan
 - [[Pasal_7]]: (1) Sumber dana penyertaan kepada Perusahaan dilarang:
 - [[Pasal_8]]: (1) Nama Perusahaan harus dicantumkan secara jelas
 - [[Pasal_9]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
-- [[Pasal_10]]: Keuangan.
+- [[Pasal_10]]: (1) Perusahaan yang melaksanakan kegiatan usaha
 - [[Pasal_11]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 - [[Pasal_12]]: (1) Perusahaan yang telah memperoleh izin usaha dari
 - [[Pasal_13]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
 - [[Pasal_14]]: (1) Perusahaan Pergadaian dapat melakukan konversi
 - [[Pasal_15]]: (1) Untuk memperoleh izin konversi sebagaimana
 - [[Pasal_16]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
-- [[Pasal_16B]]: (1) Perusahaan wajib memenuhi ketentuan BMPP kepada
 - [[Pasal_17]]: (1) Perusahaan Pergadaian yang telah memperoleh izin
-- [[Pasal_18]]: 
+- [[Pasal_18]]: (1) Perusahaan Pergadaian wajib melaporkan secara
 - [[Pasal_19]]: (1) Perusahaan Pergadaian Syariah hasil konversi wajib
 - [[Pasal_20]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
 - [[Pasal_21]]: (1) Perusahaan Pergadaian dapat membentuk UUS.
 - [[Pasal_22]]: (1) Perusahaan Pergadaian yang menyelenggarakan
-- [[Pasal_23]]: 
+- [[Pasal_23]]: (1) Pembentukan UUS sebagaimana dimaksud dalam Pasal 21 ayat (1) wajib memperoleh izin dari Otoritas Jasa
 - [[Pasal_24]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 - [[Pasal_25]]: (1) UUS wajib menyelenggarakan kegiatan usaha
 - [[Pasal_26]]: (1) Perusahaan Pergadaian yang memiliki UUS wajib
-- [[Pasal_27]]: 
+- [[Pasal_27]]: (1) Perusahaan Pergadaian wajib melaporkan perubahan
 - [[Pasal_28]]: (1) Perusahaan Pergadaian dapat melakukan Pemisahan
 - [[Pasal_29]]: (1) Pemisahan UUS dapat dilakukan dalam bentuk:
 - [[Pasal_30]]: (1) Perusahaan Pergadaian Syariah hasil Pemisahan
 - [[Pasal_31]]: (1) Pemisahan UUS harus memenuhi persyaratan:
-- [[Pasal_32]]: ayat (1), Pasal 38 ayat (1), Pasal 41 ayat (1), Pasal 42
+- [[Pasal_32]]: (1) Perusahaan Pergadaian yang memenuhi kriteria
 - [[Pasal_33]]: Kewajiban melakukan Pemisahan UUS atas perintah
 - [[Pasal_34]]: (1) Perusahaan Pergadaian yang akan melakukan
 - [[Pasal_35]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 - [[Pasal_36]]: (1) Perusahaan Pergadaian yang akan melakukan
 - [[Pasal_37]]: (1) Dalam memproses pelaporan sebagaimana dimaksud
-- [[Pasal_38]]: 
+- [[Pasal_38]]: (1) Perusahaan Pergadaian yang akan melakukan rencana
 - [[Pasal_39]]: (1) Dalam memproses pelaporan sebagaimana dimaksud
 - [[Pasal_40]]: (1) Perusahaan Pergadaian yang telah memperoleh
 - [[Pasal_41]]: (1) Perusahaan Pergadaian yang melakukan Pemisahan
 - [[Pasal_42]]: (1) Perusahaan Pergadaian Syariah baru hasil Pemisahan
-- [[Pasal_43]]: 
+- [[Pasal_43]]: (1) Perusahaan yang akan menutup UUS wajib
 - [[Pasal_44]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
-- [[Pasal_45]]: administratif berupa:
+- [[Pasal_45]]: Perusahaan yang telah memperoleh persetujuan rencana
 - [[Pasal_46]]: (1) Perusahaan wajib melaporkan penghentian kegiatan
 - [[Pasal_47]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
 - [[Pasal_48]]: Perusahaan wajib mencantumkan keterangan atau
 - [[Pasal_49]]: (1) Perusahaan dapat melakukan pembukaan Kantor
 - [[Pasal_50]]: (1) Perusahaan wajib melaporkan pembukaan Kantor
-- [[Pasal_51]]: 
+- [[Pasal_51]]: (1) Perusahaan wajib melaporkan perubahan alamat
 - [[Pasal_52]]: (1) Perusahaan dilarang membuka atau mengubah alamat
 - [[Pasal_53]]: (1) Perusahaan wajib melaporkan penutupan Kantor
 - [[Pasal_54]]: Ketentuan mengenai persyaratan dan tata cara pembukaan,
@@ -72,59 +71,59 @@ last_updated: 2026-11-01
 - [[Pasal_56]]: (1) Perusahaan wajib memiliki paling sedikit 1 (satu) orang
 - [[Pasal_57]]: (1) Perusahaan yang 25% (dua puluh lima persen) atau
 - [[Pasal_58]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
-- [[Pasal_59]]: sanksi administratif berupa:
+- [[Pasal_59]]: (1) Tenaga kerja asing sebagaimana dimaksud dalam Pasal 57 ayat (1) dilarang dipekerjakan selain sebagai:
 - [[Pasal_60]]: (1) Perusahaan yang mempekerjakan tenaga kerja asing
 - [[Pasal_61]]: (1) Calon tenaga kerja asing yang akan menduduki jabatan
 - [[Pasal_62]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
 - [[Pasal_63]]: (1) Setiap perubahan kepemilikan wajib memperoleh
 - [[Pasal_64]]: (1) Perusahaan yang telah mendapatkan izin usaha pada
-- [[Pasal_65]]: 
+- [[Pasal_65]]: (1) Permohonan persetujuan perubahan kepemilikan
 - [[Pasal_66]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 - [[Pasal_67]]: (1) Dalam hal perubahan kepemilikan Perusahaan
 - [[Pasal_68]]: (1) Perusahaan yang mendapatkan persetujuan perubahan
 - [[Pasal_69]]: (1) Perusahaan dapat melakukan perubahan lingkup
-- [[Pasal_70]]: 
+- [[Pasal_70]]: (1) Perubahan lingkup wilayah usaha wajib memperoleh
 - [[Pasal_71]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 - [[Pasal_72]]: (1) Dalam hal terjadi pemekaran wilayah provinsi atau
-- [[Pasal_73]]: sanksi administratif berupa:
-- [[Pasal_74]]: 
+- [[Pasal_73]]: (1) Perusahaan wajib melaporkan perubahan anggaran
+- [[Pasal_74]]: (1) Perusahaan yang melakukan perubahan:
 - [[Pasal_75]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
 - [[Pasal_76]]: Perusahaan dapat melakukan:
 - [[Pasal_77]]: (1) Perusahaan yang akan melakukan Penggabungan atau
 - [[Pasal_78]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 - [[Pasal_79]]: (1) Perusahaan yang telah memperoleh persetujuan
-- [[Pasal_80]]: izin pembentukan UUS sebagaimana dimaksud dalam
-- [[Pasal_81]]: 
+- [[Pasal_80]]: (1) Perusahaan:
+- [[Pasal_81]]: (1) Untuk pelaporan pelaksanaan RUPS yang menyetujui
 - [[Pasal_82]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 - [[Pasal_83]]: (1) Perusahaan hasil Penggabungan wajib melaporkan
-- [[Pasal_84]]: a. analisis dan penelitian atas kelengkapan dokumen
+- [[Pasal_84]]: (1) Untuk pelaporan pelaksanaan RUPS yang menyetujui
 - [[Pasal_85]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
-- [[Pasal_86]]: 
+- [[Pasal_86]]: (1) Perusahaan hasil Peleburan wajib melaporkan
 - [[Pasal_87]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
 - [[Pasal_88]]: (1) Perusahaan wajib terdaftar sebagai anggota Asosiasi.
 - [[Pasal_89]]: (1) Asosiasi harus mendapat persetujuan tertulis dari
 - [[Pasal_90]]: (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 - [[Pasal_91]]: (1) Asosiasi wajib melaporkan setiap perubahan:
 - [[Pasal_92]]: (1) Asosiasi berperan membangun pengawasan berbasis
-- [[Pasal_93]]: administratif berupa:
+- [[Pasal_93]]: Asosiasi wajib memiliki fungsi komite etik dalam struktur
 - [[Pasal_94]]: (1) Asosiasi wajib menyampaikan laporan tahunan kepada
 - [[Pasal_95]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
 - [[Pasal_96]]: (1) Asosiasi yang melanggar ketentuan sebagaimana
 - [[Pasal_97]]: (1) Pencabutan izin usaha Perusahaan dilakukan oleh
 - [[Pasal_98]]: (1) Otoritas Jasa Keuangan merupakan satu-satunya
-- [[Pasal_99]]: 
-- [[Pasal_100]]: 103 ayat (1), ayat (7), Pasal 104 ayat (1), ayat (10),
+- [[Pasal_99]]: (1) Perusahaan yang akan menghentikan kegiatan usaha
+- [[Pasal_100]]: Dalam hal Otoritas Jasa Keuangan memberikan persetujuan
 - [[Pasal_101]]: (1) Perusahaan wajib melaporkan pelaksanaan kewajiban
 - [[Pasal_102]]: (1) Perusahaan harus menghentikan kegiatan usaha sejak
 - [[Pasal_103]]: (1) Direksi wajib menyusun dan menyampaikan Neraca
 - [[Pasal_104]]: (1) Perusahaan yang dicabut izin usahanya wajib
 - [[Pasal_105]]: (1) Dalam Pembubaran, Tim Likuidasi yang dibentuk oleh
-- [[Pasal_106]]: (1) Apabila dalam jangka waktu sebagaimana dalam Pasal
+- [[Pasal_106]]: (1) Apabila dalam jangka waktu sebagaimana dalam Pasal 104 ayat (1) RUPS tidak dapat diselenggarakan atau
 - [[Pasal_107]]: Perusahaan disebut Perusahaan dalam Likuidasi dan wajib
-- [[Pasal_108]]: -----
-- [[Pasal_109]]: a. mewakili Perusahaan dalam Likuidasi yang berkaitan
+- [[Pasal_108]]: (1) Sejak terbentuknya Tim Likuidasi sebagaimana
+- [[Pasal_109]]: Tim Likuidasi mempunyai tugas sebagai berikut:
 - [[Pasal_110]]: Dalam melaksanakan tugas sebagaimana dimaksud dalam
-- [[Pasal_111]]: (3), Pasal 165 ayat (2), Pasal 189 ayat (2), dan/atau
+- [[Pasal_111]]: (1) Pelaksanaan Likuidasi oleh Tim Likuidasi wajib
 - [[Pasal_112]]: (1) Anggota Tim Likuidasi untuk setiap Perusahaan dalam
 - [[Pasal_113]]: (1) Penunjukan Tim Likuidasi dilakukan dengan
 - [[Pasal_114]]: (1) Dalam hal anggota Tim Likuidasi dibentuk oleh RUPS,
@@ -156,7 +155,7 @@ last_updated: 2026-11-01
 - [[Pasal_140]]: (1) Perusahaan yang akan melakukan kegiatan usaha lain
 - [[Pasal_141]]: Pelaksanaan kegiatan usaha berdasarkan Prinsip Syariah
 - [[Pasal_142]]: (1) Kegiatan usaha berdasarkan Prinsip Syariah
-- [[Pasal_143]]: 148 ayat (5), ayat (6), Pasal 149, Pasal 151 ayat (1), ayat
+- [[Pasal_143]]: (1) Perusahaan wajib menetapkan Benda Jaminan yang
 - [[Pasal_144]]: (1) Perusahaan wajib memiliki tempat penyimpanan Benda
 - [[Pasal_145]]: (1) Perusahaan wajib memiliki pedoman tertulis
 - [[Pasal_146]]: (1) Perusahaan wajib memberikan nilai taksiran atas
@@ -167,10 +166,10 @@ last_updated: 2026-11-01
 - [[Pasal_151]]: (1) Perusahaan wajib memberitahukan dan
 - [[Pasal_152]]: (1) Perusahaan yang memiliki kegiatan usaha
 - [[Pasal_153]]: (1) Seluruh perjanjian antara Perusahaan dan Nasabah
-- [[Pasal_154]]: Perjanjian sebagaimana dimaksud dalam Pasal 153 ayat (1)
+- [[Pasal_154]]: Perjanjian sebagaimana dimaksud dalam
 - [[Pasal_155]]: (1) Perusahaan wajib menyerahkan perjanjian
 - [[Pasal_156]]: (1) Perjanjian sebagaimana dimaksud dalam Pasal 153
-- [[Pasal_157]]: kegiatan ini berada pada pemilik dana.
+- [[Pasal_157]]: (1) Dalam menjalankan kegiatan usaha sebagaimana
 - [[Pasal_158]]: (1) Perusahaan wajib memastikan dalam melaksanakan
 - [[Pasal_159]]: (1) Perusahaan wajib memastikan dalam melaksanakan
 - [[Pasal_160]]: Dalam melakukan kerja sama Pinjaman melalui Pinjaman
@@ -181,20 +180,21 @@ last_updated: 2026-11-01
 - [[Pasal_165]]: (1) Perusahaan wajib melaporkan kegiatan usaha dengan
 - [[Pasal_166]]: (1) Perusahaan dapat melakukan kerja sama dengan
 - [[Pasal_167]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
-- [[Pasal_169]]: b. kualitas piutang Pinjaman dengan Benda Jaminan
+- [[Pasal_168]]: (1) Perusahaan wajib memenuhi ketentuan BMPP kepada
+- [[Pasal_169]]: (1) Perusahaan wajib memenuhi ketentuan BMPP kepada
 - [[Pasal_170]]: (1) Pelampauan BMPP dapat disebabkan oleh hal:
 - [[Pasal_171]]: (1) Dalam hal Perusahaan melakukan pelanggaran BMPP
 - [[Pasal_172]]: (1) Perusahaan wajib melakukan penyelesaian
 - [[Pasal_173]]: Perusahaan dilarang:
 - [[Pasal_174]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
-- [[Pasal_175]]: Desember 2026.
+- [[Pasal_175]]: (1) Perusahaan wajib melakukan penilaian kualitas
 - [[Pasal_176]]: (1) Perusahaan wajib menetapkan kualitas piutang
 - [[Pasal_177]]: (1) Perusahaan wajib menilai, memantau, dan melakukan
 - [[Pasal_178]]: (1) Perusahaan dapat melakukan restrukturisasi terhadap
 - [[Pasal_179]]: (1) Perusahaan wajib menghitung cadangan penyisihan
 - [[Pasal_180]]: (1) Perusahaan wajib membentuk cadangan kerugian
 - [[Pasal_181]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
-- [[Pasal_182]]: dalam bentuk valuta asing wajib melakukan lindung
+- [[Pasal_182]]: (1) Perusahaan dilarang memperoleh pendanaan selain
 - [[Pasal_183]]: Dalam hal Perusahaan menerima pinjaman dari lembaga
 - [[Pasal_184]]: Perusahaan yang menerima pinjaman subordinasi
 - [[Pasal_185]]: Perusahaan yang akan melakukan penerbitan efek melalui
@@ -221,12 +221,12 @@ last_updated: 2026-11-01
 - [[Pasal_206]]: (1) Kewajiban menyampaikan laporan keuangan tahunan
 - [[Pasal_207]]: (1) Laporan keuangan tahunan sebagaimana dimaksud
 - [[Pasal_208]]: (1) Laporan keuangan tahunan sebagaimana dimaksud
-- [[Pasal_209]]: Selain laporan berkala sebagaimana dimaksud dalam Pasal
+- [[Pasal_209]]: Selain laporan berkala sebagaimana dimaksud dalam
 - [[Pasal_210]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
 - [[Pasal_211]]: (1) Perusahaan menerapkan prinsip pelindungan
 - [[Pasal_212]]: (1) Perusahaan menyusun dan menerapkan strategi
 - [[Pasal_213]]: (1) Perusahaan menerapkan program anti pencucian uang,
-- [[Pasal_214]]: komunikasi data Otoritas Jasa Keuangan.
+- [[Pasal_214]]: (1) Perusahaan wajib menetapkan pemilik manfaat dari
 - [[Pasal_215]]: (1) Perusahaan yang melanggar ketentuan sebagaimana
 - [[Pasal_216]]: (1) Otoritas Jasa Keuangan memiliki kewenangan untuk
 - [[Pasal_217]]: (1) Status pengawasan Perusahaan ditetapkan oleh
@@ -263,4 +263,3 @@ last_updated: 2026-11-01
 - [[Pasal_248]]: Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 - [[Pasal_249]]: Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 - [[Pasal_250]]: Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
-- [[Pasal_252]]: 282 ayat (3) Undang-Undang Nomor 4 Tahun 2023 tentang

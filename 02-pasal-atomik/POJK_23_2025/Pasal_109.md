@@ -22,7 +22,10 @@ mengamandemen:
 yang menyampaikan laporan bulanan, laporan
 triwulanan, dan/atau laporan tahunan setelah
 jangka waktu penyampaian sebagaimana
-dimaksud dalam Pasal 108 ayat (2) huruf a, huruf
+dimaksud dalam
+
+Pasal 108
+ayat (2) huruf a, huruf
 b, dan huruf c hingga paling lama 30 (tiga puluh)
 hari setelah jangka waktu penyampaian tersebut
 berakhir, dinyatakan terlambat menyampaikan
@@ -69,3 +72,5 @@ Digital dinyatakan tidak menyampaikan laporan.
 Ayat (3)
 
 Cukup jelas.
+
+Angka 75

@@ -21,7 +21,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 148 Cukup jelas. Pasal 149 Cukup jelas. Pasal 150 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 3 Ayat (1) Huruf a Cukup jelas. Huruf b Huruf c Yang dimaksud dengan "logistik dan distribusi" adalah kegiatan usaha yang meliputi antara lain kegiatan penyimpanan, perakitan, penyortiran, pengepakan, pendistribusian, perbaikan dan perekondisian permesinan dari dalam negeri dan dari luar negeri. Yang dimaksud dengan "pengembangan teknologi" adalah kegiatan usaha yang meliputi antara lain kegiatan riset dan teknologi, rancangan bangunan dan rekayasa, teknologi terapan, pengembangan perangkat lunak, serta jasa di bidang teknologi informasi.
+Cukup jelas.
+
+Pasal 148
+Cukup jelas. Pasal 149 Cukup jelas. Pasal 150 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 3 Ayat (1) Huruf a Cukup jelas. Huruf b Huruf c Yang dimaksud dengan "logistik dan distribusi" adalah kegiatan usaha yang meliputi antara lain kegiatan penyimpanan, perakitan, penyortiran, pengepakan, pendistribusian, perbaikan dan perekondisian permesinan dari dalam negeri dan dari luar negeri. Yang dimaksud dengan "pengembangan teknologi" adalah kegiatan usaha yang meliputi antara lain kegiatan riset dan teknologi, rancangan bangunan dan rekayasa, teknologi terapan, pengembangan perangkat lunak, serta jasa di bidang teknologi informasi.
 Huruf d. . .
 
 **PRESIDEN REPIIBUK TNDONESIA**

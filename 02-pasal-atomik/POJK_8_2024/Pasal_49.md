@@ -19,7 +19,10 @@ mengamandemen: []
 
 Perusahaan Asuransi dan Perusahaan Asuransi Syariah
 yang akan memasarkan Produk Asuransi melalui saluran
-pemasaran sebagaimana dimaksud dalam Pasal 48 ayat (1)
+pemasaran sebagaimana dimaksud dalam
+
+Pasal 48
+ayat (1)
 huruf b sampai dengan huruf d wajib memiliki perjanjian
 tertulis dengan pihak yang melakukan pemasaran.
 

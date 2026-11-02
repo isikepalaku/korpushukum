@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengawasan Bank oleh Bank Indonesia sebagaimana dimaksud dalam Pasal 24 adalah pengawasan langsung dan tidak langsung.
+Pengawasan Bank oleh Bank Indonesia sebagaimana dimaksud dalam
+
+Pasal 24
+adalah pengawasan langsung dan tidak langsung.
 
 ## Penjelasan Resmi
 

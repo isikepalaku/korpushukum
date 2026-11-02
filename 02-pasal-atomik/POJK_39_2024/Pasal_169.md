@@ -17,27 +17,50 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-b. kualitas piutang Pinjaman dengan Benda Jaminan
-berdasarkan hukum fidusia sebagaimana dimaksud
-dalam Pasal 175 ayat (1) huruf b;
-c. rasio saldo piutang Pinjaman bermasalah neto
-sebagaimana dimaksud dalam Pasal 177 ayat (3);
-d. cadangan penyisihan penghapusan piutang Pinjaman
-sebagaimana dimaksud dalam Pasal 179 ayat (1);
-e. cadangan kerugian penurunan nilai piutang Pinjaman
-sebagaimana dimaksud dalam Pasal 180 ayat (1);
-f. kriteria Tingkat Kesehatan dalam penetapan status
-pengawasan sebagaimana dimaksud dalam Pasal 218
-huruf a dan Pasal 220 huruf b;
-g. kriteria rasio Ekuitas terhadap Modal Disetor dalam
-penetapan status pengawasan sebagaimana dimaksud
-dalam Pasal 218 huruf b angka 1 dan Pasal 220 huruf
-c angka 1; dan
-h. kriteria rasio saldo kualitas piutang Pinjaman
-bermasalah neto dalam penetapan status pengawasan
-sebagaimana dimaksud dalam Pasal 218 huruf b angka
-2 dan Pasal 220 huruf c angka 2,
-mulai berlaku tanggal 31 Desember 2025.
+(1) Perusahaan wajib memenuhi ketentuan BMPP kepada
+1 (satu) Nasabah yang bukan merupakan pihak terkait
+sebagaimana dimaksud dalam
+
+Pasal 168
+ayat (4)
+ditetapkan paling tinggi sebesar 20% (dua puluh
+persen) dari Ekuitas Perusahaan.
+(2) Perusahaan wajib memenuhi ketentuan BMPP kepada
+1 (satu) kelompok Nasabah yang bukan merupakan
+pihak terkait sebagaimana dimaksud dalam
+
+Pasal 168
+ayat (4) ditetapkan paling tinggi sebesar 50% (lima
+puluh persen) dari Ekuitas Perusahaan.
+(3) Dasar perhitungan Ekuitas dalam menghitung BMPP
+sebagaimana dimaksud pada ayat (1) dan ayat (2)
+merupakan Ekuitas dalam laporan bulanan terakhir
+Perusahaan sebelum pemberian Pinjaman dilakukan.
+(4) Apabila Perusahaan memperoleh izin usaha kurang
+dari 1 (satu) bulan, dasar perhitungan Ekuitas dalam
+menghitung BMPP sebagaimana dimaksud pada ayat
+(1) dan ayat (2) merupakan Ekuitas dalam laporan
+keuangan yang diajukan pada saat permohonan izin
+usaha.
+(5) Nasabah digolongkan sebagai anggota suatu kelompok
+Nasabah sebagaimana dimaksud pada ayat (2) dalam
+hal Nasabah mempunyai hubungan pengendalian
+dengan Nasabah lain baik melalui hubungan
+kepemilikan, kepengurusan, dan/atau keuangan,
+meliputi:
+a. Nasabah merupakan pengendali Nasabah lain;
+b. 1 (satu) pihak yang sama merupakan pengendali
+dari beberapa Nasabah;
+c. Nasabah memiliki ketergantungan keuangan
+dengan Nasabah lain;
+d. Nasabah menerbitkan jaminan untuk mengambil
+alih dan/atau melunasi sebagian atau seluruh
+kewajiban Nasabah lain dalam hal Nasabah lain
+tersebut gagal memenuhi kewajibannya
+(wanprestasi) kepada Perusahaan; dan/atau
+e. dewan komisaris dan/atau direksi Nasabah
+menjadi dewan komisaris dan/atau direksi pada
+Nasabah lain.
 
 ## Penjelasan Resmi
 
@@ -154,7 +177,10 @@ beberapa Nasabah biasa dikenal dengan _common_
 _ownership._
 Huruf c
 
-Lihat penjelasan Pasal 16B ayat (4) huruf j.
+Lihat penjelasan
+
+Pasal 168
+ayat (4) huruf j.
 Huruf d
 
 Cukup jelas.

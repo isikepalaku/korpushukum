@@ -22,7 +22,10 @@ mengamandemen: []
 
 Syariah, atau Unit Syariah dapat menggunakan Akad
 
-selain sebagaimana dimaksud dalam Pasal 54 ayat (1)
+selain sebagaimana dimaksud dalam
+
+Pasal 54
+ayat (1)
 
 dan ayat (2) dalam penyelenggaraan Usaha Asuransi
 

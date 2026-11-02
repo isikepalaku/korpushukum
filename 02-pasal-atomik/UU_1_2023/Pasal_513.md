@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Tindak Pidana sebagaimana dimaksud dalam Pasal 511 dan Pasal 512 dapat juga dilakukan oleh Korporasi.
+Tindak Pidana sebagaimana dimaksud dalam Pasal 511 dan
+
+Pasal 512
+dapat juga dilakukan oleh Korporasi.
 
 ## Penjelasan Resmi
 

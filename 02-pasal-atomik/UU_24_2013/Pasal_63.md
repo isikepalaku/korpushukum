@@ -47,4 +47,5 @@ sisi
 administrasi 
 ataupun teknologi informasi dengan melakukan 
 verifikasi dan validasi dalam sistem database 
-kependudukan serta pemberian NIK.
+kependudukan serta pemberian NIK. 
+Angka 14

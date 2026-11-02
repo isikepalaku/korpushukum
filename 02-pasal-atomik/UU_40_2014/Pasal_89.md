@@ -22,4 +22,6 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-**Ketentuan yang wajib disesuaikan termasuk ketentuan mengenai aspek Program Asuransi Wajib yang terdapat di dalam peraturan [perundang-] undangan mengenai dana pertanggungan wajib kecelakaan [penumpang] dan dana kecelakaan lalu lintas [jalan.]**
+**Ketentuan yang wajib disesuaikan termasuk ketentuan mengenai aspek Program Asuransi Wajib yang terdapat di dalam peraturan [perundang-] undangan mengenai dana pertanggungan wajib kecelakaan [penumpang] dan dana kecelakaan lalu lintas [jalan.]**Pasal 9O
+
+**Cukup [jelas.]**

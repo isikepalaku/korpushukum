@@ -18,6 +18,31 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Persetujuan prinsip sebagaimana dimaksud dalam
+Pasal 15
+berlaku untuk jangka waktu 6 (enam) bulan
+terhitung sejak tanggal persetujuan prinsip diterbitkan.
+
+-----
+
+(2) Pihak yang telah memperoleh persetujuan prinsip
+sebagaimana dimaksud pada ayat (1) dilarang
+melakukan kegiatan usaha perbankan sebelum
+memperoleh izin usaha.
+(3) Dalam hal terdapat keadaan kahar atau pertimbangan
+lain yang dapat diterima oleh OJK, jangka waktu
+sebagaimana dimaksud pada ayat (1) dapat
+diperpanjang berdasarkan persetujuan OJK.
+(4) Dalam hal pihak yang telah memperoleh persetujuan
+prinsip tidak mengajukan permohonan izin usaha
+kepada OJK sampai dengan berakhirnya jangka waktu
+sebagaimana dimaksud pada ayat (1) atau ayat (3),
+persetujuan prinsip yang telah diterbitkan oleh OJK
+dinyatakan batal dan tidak berlaku.
+(5) Tanpa mengesampingkan sanksi pidana sesuai dengan
+ketentuan peraturan perundang-undangan, terhadap
+pihak yang melanggar ketentuan sebagaimana
+dimaksud pada ayat (2) dikenai sanksi administratif
+berupa pembatalan proses perizinan pendirian Bank.
 
 ## Penjelasan Resmi
 

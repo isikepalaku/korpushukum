@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Salah seorang dari anggota Dewan Komisioner
 
- sebagaimana dimaksud dalam Pasal 65 ayat (1) huruf d,
+ sebagaimana dimaksud dalam
+
+Pasal 65
+ayat (1) huruf d,
 
  ditetapkan oleh Presiden sebagai Ketua Dewan
 
@@ -28,7 +31,10 @@ mengamandemen: []
 
  (2) Salah seorang dari anggota Dewan Komisioner
 
- sebagaimana dimaksud dalam Pasal 65 ayat (1) huruf d
+ sebagaimana dimaksud dalam
+
+Pasal 65
+ayat (1) huruf d
 
  yang bukan Ketua Dewan Komisioner, ditetapkan oleh
 
@@ -42,7 +48,10 @@ mengamandemen: []
 
  (4) Anggota Dewan Komisioner sebagaimana dimaksud
 
- dalam Pasal 65 ayat (1) huruf d melakukan tugas secara
+ dalam
+
+Pasal 65
+ayat (1) huruf d melakukan tugas secara
 
  penuh waktu dan tidak diperbolehkan menduduki jabatan
 

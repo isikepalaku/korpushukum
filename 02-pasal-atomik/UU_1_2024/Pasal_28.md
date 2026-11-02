@@ -46,4 +46,6 @@ Ayat(3) ...
 
 Ayat (3) 
 
-Yang dimaksud dengan "kerusuhan" adalah kondisi yang mengganggu ketertiban umum di ruang fisik, bukan kondisi di ruang digital/ siber.
+Yang dimaksud dengan "kerusuhan" adalah kondisi yang mengganggu ketertiban umum di ruang fisik, bukan kondisi di ruang digital/ siber. 
+
+Angka 11

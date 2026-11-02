@@ -46,9 +46,7 @@ REPIIELIK INDONESIA
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal 1O0. . .
+**Cukup [jelas.]**Pasal 1O0. . .
 
 -----
 

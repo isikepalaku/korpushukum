@@ -19,9 +19,13 @@ mengamandemen: []
 
 (1) Bank BHI, KCBLN, atau KPBLN yang melanggar
 
-ketentuan sebagaimana dimaksud dalam Pasal 150
+ketentuan sebagaimana dimaksud dalam
 
-ayat (1) dan/atau Pasal 152 dikenai sanksi
+Pasal 150
+ayat (1) dan/atau
+
+Pasal 152
+dikenai sanksi
 
 administratif berupa teguran tertulis.
 

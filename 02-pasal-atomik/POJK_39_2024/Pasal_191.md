@@ -18,9 +18,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 182, Pasal 183, Pasal 184, Pasal
-185, Pasal 187 ayat (1), Pasal 188 ayat (1), Pasal 189
-ayat (1), dan/atau Pasal 190 ayat (2), ayat (3), ayat (4)
+dimaksud dalam Pasal 182,
+
+Pasal 183, Pasal 184, Pasal 185, Pasal 187 ayat (1), Pasal 188 ayat (1), Pasal 189
+ayat (1), dan/atau
+
+Pasal 190
+ayat (2), ayat (3), ayat (4)
 dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -71,7 +75,10 @@ PENYERTAAN
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

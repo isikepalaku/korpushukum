@@ -81,7 +81,10 @@ Huruf e ...
 Terhadap Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang mengalami permasalahan keuangan dan dicabut izin usahanya oleh Otoritas Jasa Keuangan, Lembaga Penjamin Simpanan melakukan penyelesaian dengan cara melikuidasi Perusahaan Asuransi dan Perusahaan Asuransi Syariah.
 
 ```
-Angka 5 PasalS Cukup jelas. Angka 6 Pasal 6 Ayat (1) Huruf a Cukup jelas. Hurufb Cukup jelas. Huruf c
+Angka 5 PasalS Cukup jelas. Angka 6
+
+Pasal 6
+Ayat (1) Huruf a Cukup jelas. Hurufb Cukup jelas. Huruf c
 ```
 
 Aset berupa piutang dan aset lainnya yang dilakukan hapus buku dan hapus tagih termasuk aset yang berasal dari penanganan dan/ atau penyelesaian permasalahan Bank serta Perusahaan Asuransi dan Perusahaan Asuransi Syariah. Hapus buku dan hapus tagih aset dilakukan dengan berpedoman pada prinsip kehati-hatian dan menganut asas transparansi.
@@ -174,3 +177,88 @@ guna memaksimalkan pengembalian (recovery) dana Penjaminan dan penjaminan polis.
 Dengan ketentuan m1, Lembaga Penjamin Simpanan dapat menguasai, mengelola, dan melakukan tindakan kepemilikan seperti halnya sebagai pemilik.
 
 Huruf c ...
+
+Angka 7
+
+Pasal 9A
+
+Ayat (1)
+
+Penyampaian data Simpanan berbasis nasabah (single customer view) dari Bank kepada Lembaga Penjamin Simpanan tidak menghilangkan proses rekonsiliasi dan verifikasi oleh Lembaga Penjamin Simpanan dalam rangka penetapan Simpanan layak dibayar apabila Bank menjadi Bank Dalam Resolusi.
+
+Penyampaian data ini dilakukan secara berkala atau sewaktu-waktu berdasarkan permintaan Lembaga Penjamin Simpanan.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
+
+Cukup jelas.
+
+Angka 8
+
+Pasal lOA
+
+Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan.
+
+Angka 9 ...
+
+Huruf c
+
+Dalam hal penmJauan ulang, pembatalan, pengakhiran, dan/atau perubahan kontrak oleh Lembaga Penjamin Simpanan menimbulkan kerugian bagi suatu pihak, pihak tersebut hanya dapat menuntut penggantian yang tidak melebihi nilai manfaat yang telah diperoleh dari kontrak dimaksud setelah terlebih dahulu membuktikan secara nyata dan jelas kerugian yang dialaminya.
+
+Huruf d
+
+Cukup jelas.
+
+```
+Angka 9
+
+Pasal 14
+Cukup jelas. Angka 10 Pasal 14A Cukup jelas. Angka 11 Pasal 16 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3)
+```
+
+Data dan informasi yang diterima Lembaga Penjamin Simpanan untuk menentukan Simpanan yang layak dibayar dapat berasal dari berbagai sumber, sehingga perlu dilakukan proses untuk membandingkan, mencocokkan, menentukan, serta memastikan data dan informasi yang akan digunakan. Proses ini memerlukan waktu sebelum pembayaran klaim Penjaminan dapat
+
+Yang dimaksud dengan "Simpanan yang layak dibayar" adalah Simpanan yang sesuai dengan ketentuan peraturan perundang-undangan.
+
+Yang dimaksud dengan "pihak lain" adalah mantan komisaris, mantan direksi, dan mantan pegawai Bank yang bersangkutan.
+
+Ayat (7) ...
+
+```
+mulai dilakukan. Ayat (4) Cukup jelas. Ayat (5) Ayat (6) Cukup jelas.
+```
+
+**Ayat (7)**
+
+Apabila Nasabah Penyimpan yang simpanannya ditetapkan layak dibayar mengajukan klaim setelah 5 (lima) tahun terhitung sejak izin usaha Bank dicabut maka hak Nasabah Penyimpan untuk memperoleh pembayaran klaim dari Lembaga Penjamin Simpanan menjadi hilang. Simpanan Nasabah Penyimpan dimaksud selanjutnya diperlakukan sama dengan Simpanan yang tidak dijamin dan diselesaikan dalam
+
+```
+Cukup jelas. Angka 12
+
+Pasal 17
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4)
+```
+
+Materi muatan dalam Peraturan Lembaga Penjamin Simpanan paling sedikit mengatur bahwa kurs yang digunakan adalah kurs referensi yang diterbitkan oleh Bank Indonesia pada tanggal pencabutan izin usaha
+
+```
+mekanisme likuidasi. Ayat (8) Bank.
+```
+
+```
+Angka 13
+
+Pasal 18
+Ayat (1) Perjumpaan utang merupakan salah satu cara hapusnya perikatan melalui set o.ff/kompensasi. Ayat (2) Cukup jelas.
+```
+
+Angka 14 ...
+
+Angka 14

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '404'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Setiap Orang yang tidak memenuhi kewajiban sesuai dengan ketentuan peraturan per
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "peraturan perundang-undangan" adalah UndangUndang mengenai perkawinan beserta peraturan pela-ksanaannya dan peraturan perundang-undangan lainnya yang berkaitan dengan pencatatan kelahiran dan kematian.

@@ -18,11 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang karena kealpaannya mengakibatkan terjadinya kebakaran, ledalan, atau banjir yang mengakibatkan bahaya umum bagi Barang, bahaya bagi nyawa orang lain, atau matinya orang, dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V.
-
-**Paragraf 3**
-
-**Merintangi Pekerjaan Pemadaman Kebakaran dan Penanggulangan Banjir**
+Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan untuk melaksanakan ketentuan peraturan perundang-undangan.
 
 ## Penjelasan Resmi
 

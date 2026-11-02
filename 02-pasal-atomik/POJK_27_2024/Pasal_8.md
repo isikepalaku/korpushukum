@@ -8,9 +8,8 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_27_2024
-status_berlaku: diubah
-diamandemen_oleh:
-- '[[02-pasal-atomik/POJK_23_2025/Pasal_8|POJK 23/2025 Pasal 8]]'
+status_berlaku: berlaku
+diamandemen_oleh: []
 mengamandemen: []
 ---
 
@@ -19,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Selain memenuhi kriteria Aset Keuangan Digital
-sebagaimana dimaksud dalam Pasal 4 ayat (1), Aset
+sebagaimana dimaksud dalam
+
+Pasal 4
+ayat (1), Aset
 Kripto yang diperdagangkan di Pasar Aset Keuangan
 Digital harus memenuhi kriteria:
 a. sebagai representasi nilai secara digital yang

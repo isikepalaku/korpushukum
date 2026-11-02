@@ -96,7 +96,10 @@ terbukti bahwa Tuan B menentukan pengelolaan dan/atau
 kebijakan PT BPR Syariah X.
 Ayat (2)
 
-Lihat penjelasan Pasal 115 ayat (1).
+Lihat penjelasan
+
+Pasal 115
+ayat (1).
 Ayat (3)
 
 Cukup jelas.

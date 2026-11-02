@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Apabila atas Benda yang sama menjadi objek Jaminan Fidusia lebih dari 1 (satu) perjanjian Jaminan Fidusia, maka hak yang didahulukan sebagaimana dimaksud dalam Pasal 27, diberikan kepada pihak yang lebih dahulu mendaftarkannya pada Kantor Pendaftaran Fidusia.
+Apabila atas Benda yang sama menjadi objek Jaminan Fidusia lebih dari 1 (satu) perjanjian Jaminan Fidusia, maka hak yang didahulukan sebagaimana dimaksud dalam
+
+Pasal 27, diberikan kepada pihak yang lebih dahulu mendaftarkannya pada Kantor Pendaftaran Fidusia.
 
  BAB V EKSEKUSI JAMINAN FIDUSIA
 

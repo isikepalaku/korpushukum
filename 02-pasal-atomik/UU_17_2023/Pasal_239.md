@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai pendayagunaan tenaga cadangan Kesehatan untuk penanggulangan KLB, Wabah, dan darurat bencana sebagaimana dimaksud dalam Pasal 238 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai pendayagunaan tenaga cadangan Kesehatan untuk penanggulangan KLB, Wabah, dan darurat bencana sebagaimana dimaksud dalam
+
+Pasal 238
+diatur dengan Peraturan Pemerintah.
 
 ## Paragraf 4
 

@@ -20,7 +20,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Keputusan pembubaran oleh Pemerintah sebagaimana dimaksud
-dalam Pasal 46 huruf b dilakukan apabila:
+dalam
+
+Pasal 46
+huruf b dilakukan apabila:
 
 a. terdapat bukti bahwa Koperasi yang bersangkutan tidak
 

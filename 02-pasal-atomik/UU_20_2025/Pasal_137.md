@@ -18,12 +18,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(21 Penyidik harus memberikan tembusan berita acara**
- sebagaimana dimaksud pada ayat (1) kepada kepala kantor pos, kepala perusahaan telekomunikasi, atau kepala perusahaan pengangkutan yang bersangkutan, dan kepada ketua pengadilan negeri.
+**(1) Penyidik berhak membuka, memeriksa, dan menyita**
 
- Bagian Kesembilan
+**surat yang dikirim melalui kantor pos, perusahaan telekomunikasi, atau perusahaan pengangkutan, jika surat tersebut dicurigai dengan alasan yang kuat mempunyai hubungan dengan perkara pidana yang**
+sedang diperiksa.
+**l2l [Untuk ] [kepentingan Penyidikan, ] [Penyidik ] [dapat]**
 
- Pemblokiran
+**meminta kepada kepala kantor pos, kepala perusahaan telekomunikasi, atau kepala perusahaan pengangkutan sebagaimana dimaksud pada ayat (l) untuk menyerahkan surat yang dimalsud dan harus memberikan tanda terima.**
+**(3) Ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2l., dapat dilakukan pada setiap tahap**
+**pemeriksaan dalam proses peradilan.**Pasal 138. . .
+
+-----
+
+REPUBLIK INDONESIA
+
+**_72_**
 
 ## Penjelasan Resmi
 

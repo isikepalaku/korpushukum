@@ -17,7 +17,65 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Bank wajib memiliki arsitektur TI.
 
+(2) Dalam menyusun arsitektur TI sebagaimana dimaksud
+
+pada ayat (1), Bank mempertimbangkan faktor paling
+
+sedikit:
+
+a. visi dan misi Bank;
+
+b. rencana korporasi Bank;
+
+c. proses dan kapabilitas bisnis Bank;
+
+d. tata kelola TI;
+
+e. prinsip pengelolaan data, aplikasi, dan teknologi
+
+Bank;
+
+f. ukuran dan kompleksitas bisnis Bank;
+
+g. kemampuan permodalan Bank;
+
+h. standar yang berlaku secara nasional maupun
+
+internasional; dan
+
+i. ketentuan peraturan perundang-undangan.
+
+(3) Arsitektur TI sebagaimana dimaksud pada ayat (1)
+
+disusun secara komprehensif meliputi proses:
+
+a. perencanaan;
+
+b. desain;
+
+c. implementasi; dan
+
+d. kontrol.
+
+(4) Dalam hal terdapat perubahan pada faktor
+
+sebagaimana dimaksud pada ayat (2), Bank wajib
+
+melakukan penginian terhadap arsitektur TI.
+
+(5) Ketentuan lebih lanjut mengenai penyusunan
+
+arsitektur TI ditetapkan oleh Otoritas Jasa Keuangan.
+
+**t id**
+
+-----
+
+Bagian Kedua
+
+Penyusunan Rencana Strategis TI Bank
 
 ## Penjelasan Resmi
 

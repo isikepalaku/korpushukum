@@ -45,3 +45,5 @@ Cukup jelas.
 Huruf b
 
 Larangan ini dimaksudkan agar pernyataan yang dibuat tidak menyesatkan mengenai keadaan yang terjadi pada saat pernyataan dibuat.
+
+Angka 34

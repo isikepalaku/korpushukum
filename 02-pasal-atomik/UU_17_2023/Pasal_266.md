@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai perizinan sebagaimana dimaksud dalam Pasal 263 sampai dengan Pasal 265 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai perizinan sebagaimana dimaksud dalam Pasal 263 sampai dengan
+
+Pasal 265
+diatur dengan Peraturan Pemerintah.
 
 ## PasaJ267
 

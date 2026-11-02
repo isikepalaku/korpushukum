@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengawasan terhadap Ibadah Haji Khusus sebagaimana dimaksud dalam Pasal 119C dilaksanakan terhadap pelaksanaan, pembinaan, pelayanan, dan pelindungan yang dilakukan oleh PIHK kepada Jemaah Haji Khusus.
+Pengawasan terhadap Ibadah Haji Khusus sebagaimana dimaksud dalam
+
+Pasal 119C dilaksanakan terhadap pelaksanaan, pembinaan, pelayanan, dan pelindungan yang dilakukan oleh PIHK kepada Jemaah Haji Khusus.
 
 ## Penjelasan Resmi
 

@@ -19,7 +19,10 @@ mengamandemen: []
 
 Dalam hal Otoritas Jasa Keuangan memberikan persetujuan
 pencabutan izin usaha berdasarkan permintaan sendiri
-sebagaimana dimaksud dalam Pasal Pasal 93 ayat (10),
+sebagaimana dimaksud dalam Pasal
+
+Pasal 93
+ayat (10),
 Penyelenggara wajib:
 a. menghentikan seluruh kegiatan usaha Penyelenggara;
 b. mengumumkan rencana penghentian kegiatan usaha

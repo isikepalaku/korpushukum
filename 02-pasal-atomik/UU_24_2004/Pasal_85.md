@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Dalam hal modal LPS kurang dari modal awal
 
- sebagaimana dimaksud dalam Pasal 81 ayat (1),
+ sebagaimana dimaksud dalam
+
+Pasal 81
+ayat (1),
 
  Pemerintah dengan persetujuan Dewan Perwakilan Rakyat
 

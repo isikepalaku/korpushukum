@@ -27,11 +27,19 @@ dikenai sanksi administratif sebagaimana dimaksud
 
 pada ayat (1), dan melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 128 ayat (1), Pasal 134 ayat (1),
+dimaksud dalam Pasal 128 ayat (1),
 
-ayat (3), Pasal 135 ayat (1), Pasal 139 ayat (1), ayat (2),
+Pasal 134
+ayat (1),
 
-ayat (4), dan/atau Pasal 140, PSP, Direksi, Dewan
+ayat (3),
+
+Pasal 135
+ayat (1), Pasal 139 ayat (1), ayat (2),
+
+ayat (4), dan/atau
+
+Pasal 140, PSP, Direksi, Dewan
 
 Komisaris, dan/atau Pejabat Eksekutif Bank BHI atau
 

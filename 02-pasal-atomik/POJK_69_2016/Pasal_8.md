@@ -20,7 +20,9 @@ mengamandemen: []
 
 (1) Selain memenuhi ketentuan sebagaimana dimaksud
 
-dalam Pasal 6, Perusahaan Asuransi, Perusahaan
+dalam
+
+Pasal 6, Perusahaan Asuransi, Perusahaan
 
 Asuransi Syariah, atau Unit Syariah pada Perusahaan
 
@@ -68,7 +70,10 @@ kegiatan usaha berbasis imbalan jasa (fee based) dan
 
 tidak memenuhi ketentuan sebagaimana dimaksud
 
-pada ayat (1) dan/atau dalam Pasal 6 wajib
+pada ayat (1) dan/atau dalam
+
+Pasal 6
+wajib
 
 menghentikan kegiatan usaha berbasis imbalan jasa
 

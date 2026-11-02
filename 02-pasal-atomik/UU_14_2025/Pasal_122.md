@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang tanpa hak bertindak sebagai PPIU mengumpulkan dan/atau memberangkatkan Jemaah Umrah sebagaimana dimaksud dalam Pasal 115 dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau dipidana dengan pidana denda paling banyak kategori VI.
+Setiap Orang yang tanpa hak bertindak sebagai PPIU mengumpulkan dan/atau memberangkatkan Jemaah Umrah sebagaimana dimaksud dalam
+
+Pasal 115
+dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau dipidana dengan pidana denda paling banyak kategori VI.
 
 103. Ketentuan Pasal 123 berikut: diubah sehingga berbunyi sebagai
 

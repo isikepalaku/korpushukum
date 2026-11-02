@@ -84,10 +84,16 @@ Cukup jelas.
 
 Ayat (10)
 
-Cukup jelas. Ayat (11) Cukup jelas. Ayat (12) Cukup jelas. Pasal 294 Cukup jelas. Pasal 295 Cukup jelas. Pasal 296 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (s) Cukup jelas. Ayat (4) Tanda tangan, antara lain, berupa tanda tangan manual, tanda tangan elektronik, atau bentuk lain yang sejenis sesuai dengan ketentuan peraturan perundang-undangan. Ayat (s) Cukup jelas. Pasa7297 Ayat (1) Cukup jelas. Ayat (2)
+Cukup jelas. Ayat (11) Cukup jelas. Ayat (12) Cukup jelas.
+
+Pasal 294
+Cukup jelas. Pasal 295 Cukup jelas. Pasal 296 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (s) Cukup jelas. Ayat (4) Tanda tangan, antara lain, berupa tanda tangan manual, tanda tangan elektronik, atau bentuk lain yang sejenis sesuai dengan ketentuan peraturan perundang-undangan. Ayat (s) Cukup jelas. Pasal 297 Ayat (1) Cukup jelas. Ayat (2)
 
 Akses informasi terhadap dokumen rekam medis, antara lain, berupa rekam medis atau penjelasan lisan Tenaga Medis dan/atau Tenaga Kesehatan atau Fasilitas Pelayanan Kesehatan.
 
 Ayat (3)
 
-Cukup jelas. Pasal 298 Cukup jelas. Pasal 299 Cukup jelas. Pasal 300 Cukup jelas. Pasal 301 Ayat (1) Yang dimaksud dengan "rahasia Kesehatan" adalah riwayat, kondisi dan perawatan, pengobatan Kesehatan fisik, serta psikis seseorang, termasuk data pribadi Pasien. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 302 Cukup jelas. Pasal 3O3 Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "audit Pelayanan Kesehatan" adalah proses evaluasi sistematis terhadap kualitas Pelayanan Kesehatan untuk memastikan Pelayanan Kesehatan yang diberikan sesuai dengan standar. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
+Cukup jelas.
+
+Pasal 298
+Cukup jelas. Pasal 299 Cukup jelas. Pasal 300 Cukup jelas. Pasal 301 Ayat (1) Yang dimaksud dengan "rahasia Kesehatan" adalah riwayat, kondisi dan perawatan, pengobatan Kesehatan fisik, serta psikis seseorang, termasuk data pribadi Pasien. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 302 Cukup jelas. Pasal 3O3 Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "audit Pelayanan Kesehatan" adalah proses evaluasi sistematis terhadap kualitas Pelayanan Kesehatan untuk memastikan Pelayanan Kesehatan yang diberikan sesuai dengan standar. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.

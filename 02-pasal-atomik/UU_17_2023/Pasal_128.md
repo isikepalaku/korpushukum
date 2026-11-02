@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Transplantasi organ dan/ atau jaringan tubuh sebagaimana dimaksud dalam Pasal 127 harus memperhatikan:
+Transplantasi organ dan/ atau jaringan tubuh sebagaimana dimaksud dalam
+
+Pasal 127
+harus memperhatikan:
 
 - a. prinsip keadilan;
 - b. prinsip utilitas medis;

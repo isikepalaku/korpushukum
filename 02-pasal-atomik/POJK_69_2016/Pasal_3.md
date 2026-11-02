@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (3), Pasal 8 ayat (1), ayat (2), dan ayat (3),
+ayat (3),
+
+Pasal 8
+ayat (1), ayat (2), dan ayat (3),
 
 ## Penjelasan Resmi
 

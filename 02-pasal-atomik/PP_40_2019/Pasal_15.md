@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 11 ayat (21 huruf d, gubernur
+dimaksud dalam
+
+Pasal 11
+ayat (21 huruf d, gubernur
 melakukan:
 a. pengelolaan Data Kependudukan yang bersifat data
 perseorangan, data agregat, dan Data Pribadi; dan

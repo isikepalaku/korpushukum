@@ -25,6 +25,8 @@ mengamandemen: []
 - a. tempat pemakaman, tempat yang dianggap suci, tempat umum, sarana dan prasarana umum, cagar alam, cagar budaya, serta tanah milik masyarakat adat; b. lapangan dan bangunan pertahanan negara serta tanah di sekitarnya; c. bangunan bersejarah dan simbol-simbol negara; d. bangunan, rumah tinggal, atau pabrik beserta tanah pekarangan sekitarnya, kecuali dengan izin dari instansi Pemerintah, persetujuan masyarakat, dan perseorangan yang berkaitandenganhal tersebut. memindahkan bangunan, tempat umum, sarana dan prasarana umum sebagaimana dimaksud dalam ayat (3) huruf a dan huruf b setelah terlebih dahulu memperoleh izin dari instansi
 - (4) BadanUsahaatauBentukUsahaTetapyangbermaksudmelaksanakankegiatannyadapat Pemerintah yang berwenang.
 
+Pasal 34 …
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -31,6 +31,12 @@ mengamandemen: []
 - (7) Dalam hal terpidana tidak membayar pidana denda sebagaimana dimaksud pada ayat (1) dan/atau pidana tambahan berupa ganti kerugian sebagaimana dimaksud pada ayat (2), harta benda terpidana disita dan dilelang oleh jaksa untuk melunasi denda dan ganti kerugian.
 - (8) Dalam hal penyitaan dan pelelangan harta benda sebagaimana dimaksud pada ayat (7) tidak cukup atau tidak memungkinkan untuk dilaksanakan, pidana denda dan pidana tambahan berupa ganti kerugian yang tidak dibayar diganti dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 8 (delapan) tahun.
 
+Pasal 302 ...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
+**-506 -**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -18,9 +18,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BAB VI
+(1) Pengelola Sentra Dana Berjangka wajib menghitung nilai pasar
 
- DANA KOMPENSASI
+ wajar dari Kontrak Berjangka dalam portofolio Sentra Dana
+
+ Berjangka tersebut untuk setiap hari kegiatan transaksi Bursa
+
+ Berjangka berdasarkan ketentuan yang ditetapkan oleh Bappebti.
+
+ (2) Nilai...
+
+```
+
+-----
+
+```
+ - 26
+**(2) Nilai Sertifikat Penyertaan ditentukan berdasarkan nilai aktiva**
+
+ bersih dan wajib diumumkan oleh Pengelola Sentra Dana
+
+ Berjangka.
 
 ## Penjelasan Resmi
 

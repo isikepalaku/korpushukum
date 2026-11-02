@@ -4,7 +4,7 @@ judul: "Map of Content - Perubahan atas UU 32-1997 tentang Perdagangan Berjangka
 kode_uu: UU_10_2011
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_10_2011]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Perubahan atas UU 32-1997 tentang Perdagangan Berjangka Komoditi (UU_10_2011)
@@ -31,36 +31,16 @@ last_updated: 2026-11-01
 - [[Pasal_26]]: Lembaga Kliring Berjangka bertugas:
 - [[Pasal_27]]: (1) Lembaga Kliring Berjangka wajib:
 - [[Pasal_28]]: Lembaga Kliring Berjangka berwenang:
-- [[Pasal_30A]]: (1) Sistem Perdagangan Alternatif hanya dapat dilakukan
-- [[Pasal_30B]]: (1) Penyelenggara Sistem Perdagangan Alternatif dan
-- [[Pasal_31]]: 
-- [[Pasal_34]]: memiliki sertifikat pendaftaran sebagaimana dimaksud
-- [[Pasal_35A]]: (1) Kegiatan usaha sebagai Pedagang Berjangka dapat
-- [[Pasal_35B]]: Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-- [[Pasal_39]]: paling singkat 5 (lima) tahun dan paling lama 10
-- [[Pasal_43]]: singkat 1 (satu) tahun dan paling lama 4 (empat)
-- [[Pasal_44A]]: Bappebti.
-- [[Pasal_44B]]: (1) Ketentuan lebih lanjut mengenai Asosiasi Industri
 - [[Pasal_49]]: (1) Setiap Pihak dilarang melakukan kegiatan
-- [[Pasal_50]]: paling singkat 1 (satu) tahun dan paling lama 4
+- [[Pasal_50]]: (1) Pialang Berjangka wajib mengetahui latar belakang,
 - [[Pasal_51]]: (1) Pialang Berjangka, sebelum melaksanakan transaksi
 - [[Pasal_52]]: (1) Pialang Berjangka dilarang melakukan transaksi
 - [[Pasal_53]]: (1) Penasihat Berjangka berkewajiban mengetahui latar
-- [[Pasal_54]]: paling singkat 1 (satu) tahun dan paling lama 5 (lima)
 - [[Pasal_57]]: (1) Dalam Perdagangan Kontrak Berjangka, Kontrak
 - [[Pasal_58]]: (1) Setiap Pihak dilarang memiliki, baik secara langsung
 - [[Pasal_63]]: (1) Bursa Berjangka, Lembaga Kliring Berjangka, Pialang
 - [[Pasal_68]]: (1) Pejabat Pegawai Negeri Sipil tertentu di lingkungan
 - [[Pasal_71]]: (1) Setiap Pihak yang melakukan kegiatan Perdagangan
 - [[Pasal_73]]: Setiap Pihak yang memanfaatkan setiap informasi yang
-- [[Pasal_73A]]: (1) Setiap Pihak yang tidak menjamin kerahasiaan
-- [[Pasal_73B]]: (1) Setiap Pihak yang tidak menyimpan dana yang
-- [[Pasal_73C]]: (1) Setiap Pihak yang menerima dan/atau memberikan
-- [[Pasal_73D]]: (1) Setiap Pihak yang melakukan kegiatan Perdagangan
-- [[Pasal_73E]]: (1) Setiap Pihak yang tidak menyampaikan Dokumen
-- [[Pasal_73F]]: (1) Setiap Pihak yang tidak memperlakukan Margin milik
-- [[Pasal_73G]]: Setiap Pihak yang tidak melaporkan setiap transaksi
 - [[Pasal_76]]: Pasal 76
 - [[Pasal_77]]: Bappebti, Bank Indonesia, badan yang mengawasi pasar
-- [[Pasal_80A]]: (1) Urusan Perdagangan Berjangka Komoditi yang pada
-- [[Pasal_107]]: tentang Hukum Acara Pidana.

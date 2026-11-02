@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penerbitan KTP-el baru bagi Penduduk WNI atau Penduduk 
-Orang Asing sebagaimana dimaksud dalam Pasal 18 ayat (1) 
+Orang Asing sebagaimana dimaksud dalam
+
+Pasal 18
+ayat (1) 
 huruf a, dengan memenuhi persyaratan sesuai dengan 
 ketentuan Peraturan Presiden mengenai persyaratan dan tata 
 cara Pendaftaran Penduduk dan Pencatatan Sipil. 

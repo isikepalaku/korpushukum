@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Apabila dalam jangka waktu sebagaimana dimaksud
-dalam Pasal 98 ayat (1) RUPS tidak dapat
+dalam
+
+Pasal 98
+ayat (1) RUPS tidak dapat
 diselenggarakan atau RUPS dapat diselenggarakan
 tetapi tidak berhasil memutuskan Pembubaran
 dan/atau tidak berhasil membentuk Tim Likuidasi,

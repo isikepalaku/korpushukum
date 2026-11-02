@@ -22,7 +22,10 @@ mengamandemen: []
 Pencatatan pengangkatan anak warga negara asing oleh 
 WNI di luar wilayah Negara Kesatuan Republik Indonesia 
 yang dilakukan pada instansi yang berwenang di negara 
-setempat dimaksud dalam Pasal 66 huruf b, dilaporkan 
+setempat dimaksud dalam
+
+Pasal 66
+huruf b, dilaporkan 
 kepada Perwakilan Republik Indonesia dengan memenuhi 
 persyaratan sesuai dengan ketentuan Peraturan Presiden 
 mengenai 

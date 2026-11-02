@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-STR sebagaimana dimaksud dalam Pasal 260 tidak berlaku apabila:
+STR sebagaimana dimaksud dalam
+
+Pasal 260
+tidak berlaku apabila:
 
 - a. yang bersangkutan meninggal dunia;
 - b. dinonaktilkan atau dicabut oleh Konsil atas nama Menteri; atau

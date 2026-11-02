@@ -20,6 +20,19 @@ mengamandemen: []
 (1) Penyelenggara yang telah memperoleh persetujuan
 perubahan kepemilikan sebagaimana dimaksud dalam
 
+Pasal 60
+ayat (1) dari Otoritas Jasa Keuangan harus
+melaksanakan RUPS yang menyetujui perubahan
+kepemilikan paling lama 60 (enam puluh) hari kerja
+terhitung sejak tanggal surat persetujuan Otoritas Jasa
+Keuangan.
+(2) Dalam hal Penyelenggara belum melaksanakan RUPS
+yang menyetujui perubahan kepemilikan dalam jangka
+waktu sebagaimana dimaksud pada ayat (1), Otoritas
+Jasa Keuangan berwenang membatalkan persetujuan
+perubahan kepemilikan yang sebelumnya telah
+diberikan.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

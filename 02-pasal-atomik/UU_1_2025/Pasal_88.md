@@ -27,3 +27,10 @@ Dihapus.
 Angka 166
 
 Cukup jelas.
+
+Angka 167
+
+Pasal 90
+Dihapus.
+
+Angka 168

@@ -26,7 +26,10 @@ mengamandemen: []
 Tenaga cadangan Kesehatan berupa non-Tenaga Kesehatan yang telah mendapatkan pelatihan terkait dengan penanggulangan KLB, Wabah, dan darurat bencana, antara lain, ialah peserta didik, dosen, dan tenaga yang sudah tidak berpraktik sebagai Tenaga Medis dan Tenaga Kesehatan.
 
 ```
-Cukup jelas. Pasal 237 Cukup jelas. Pasal 238 Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Ayat (4) Cukup jelas. Pasal 239 Cukup jelas. Pasal 24O Cukup jelas. PasaL 24L Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
+Cukup jelas.
+
+Pasal 237
+Cukup jelas. Pasal 238 Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Ayat (4) Cukup jelas. Pasal 239 Cukup jelas. Pasal 24O Cukup jelas. Pasal 24L Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
 ```
 
 Ayat (s)
@@ -45,6 +48,5 @@ Ayat (8)
 
 Cukup jelas.
 
-Pasa7242
-
+Pasal 242
 Cukup jelas.

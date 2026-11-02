@@ -18,7 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan mengenai pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 38, Pasal 39, Pasal 41, dan Pasal 42 diatur lebih lanjut dengan Peraturan Pemerintah.
+Ketentuan mengenai pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 38,
+
+Pasal 39, Pasal 41, dan Pasal 42 diatur lebih lanjut dengan Peraturan Pemerintah.
 
 BAB IX BADAN PELAKSANA DAN BADAN PENGATUR
 

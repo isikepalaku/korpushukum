@@ -22,8 +22,6 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-PasaL 2L7
+**Cukup [jelas.]**Pasal 2L7
 
 **Cukup jelas.**

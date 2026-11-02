@@ -27,6 +27,15 @@ sebagaimana dimaksud pada ayat (l).
 **daerah hukum sebagaimana dimaksud pada**
  ayat (21, Penuntut Umum harus mendapatkan surat pengangkatan sementara dari Jaksa Agung sebagai Jaksa di daerah hukum Penuntutan dilaksanakan.
 
+Pasal 68...
+
+-----
+
+PRESIDEN
+REFIJELIK INDONESIA
+
+**-37-**
+
 ## Penjelasan Resmi
 
 **Ayat (1)**

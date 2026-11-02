@@ -25,7 +25,10 @@ kutipan
 akta 
 Pencatatan 
 Sipil 
-sebagaimana dimaksud dalam Pasal 91 karena rusak, 
+sebagaimana dimaksud dalam
+
+Pasal 91
+karena rusak, 
 hilang, atau berada dalam penguasaan salah satu pihak 
 yang bersengketa. 
 (2) 

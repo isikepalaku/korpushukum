@@ -18,8 +18,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Asosiasi yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 83 ayat (1), Pasal 84 ayat (3),
-ayat (5), Pasal 85 ayat (1), dan/atau Pasal 86 ayat (1),
+dimaksud dalam Pasal 83 ayat (1),
+
+Pasal 84
+ayat (3),
+ayat (5),
+
+Pasal 85
+ayat (1), dan/atau Pasal 86 ayat (1),
 ayat (3), ayat (4) dikenai sanksi administratif berupa:
 a. peringatan tertulis; dan/atau
 b. pembatalan persetujuan.
@@ -56,7 +62,10 @@ Pencabutan Izin Usaha
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

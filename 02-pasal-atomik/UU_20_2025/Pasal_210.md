@@ -53,7 +53,16 @@ Terdakwa, yang tidak tercantum dalam berkas perkara
 **dan/ atau yang diminta oleh Terdakwa, Advokat, atau Penuntut Umum selama sidang berlangsung atau sebelum dijatuhkan putusan, Hakim ketua sidang dapat mengabulkan atau menolak untuk mendengar Keterangan Saksi atau Ahli tersebut.**
 (12) Sebelum Saksi atau Ahli memberikan keterangan,
 
-**Hakim mengambil sumpah atau janji terhadap Saksi atau Ahli berdasarkan agama atau kepercayaannya bahwa akan memberikan keterangan yang sebenarnya dan sejujurnya.**
+**Hakim mengambil sumpah atau janji terhadap Saksi atau Ahli berdasarkan agama atau kepercayaannya bahwa akan memberikan keterangan yang sebenarnya dan sejujurnya.**Pasal 211...
+
+-----
+
+PRESIDEN
+FUBLIK INDONESIA
+
+**- 115 -**Pasal 2 1 I
+**Dalam hal Saksi atau Ahli tanpa alasan yang sah menolak untuk bersumpah atau berjanji sebagaimana dimaksud dalam Pasal 2lO ayat (121, pemeriksaan terhadap Salsi atau Ahli tetap dilakukan dan Keterangan Saksi atau Ahli tersebut bukan merupakan alat bukti, namun sebagai**
+ hal yang memperkuat keyakinan Hakim.
 
 ## Penjelasan Resmi
 

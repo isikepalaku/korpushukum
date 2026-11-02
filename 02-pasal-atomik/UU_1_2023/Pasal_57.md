@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '57'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,4 @@ Paragraf 4 Pemberatan Pidana
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+memenuhi tujuan pemidanaan. Meskipun hakim mempunyai pilihan dalam menghadapi rumusan pidana yang bersifat alternatif, namun dalam melalrukan pilihan tersebut hakim senantiasa berorientasi pada tqluan pemidanaan, dengan mendahulukan atau mengutamakan jenis pidana yang lebih ringan jika hal tersebut telah

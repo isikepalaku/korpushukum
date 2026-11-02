@@ -20,7 +20,9 @@ mengamandemen: []
 
 (1) Dalam pelaksanaan Program Restrukturisasi Perbankan
 
-sebagaimana dimaksud dalam Pasal 38, Lembaga
+sebagaimana dimaksud dalam
+
+Pasal 38, Lembaga
 Penjamin Simpanan berwenang:
 
 a. mengambil alih dan menjalankan segala hak dan

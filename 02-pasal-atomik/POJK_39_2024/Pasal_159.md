@@ -18,10 +18,15 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan wajib memastikan dalam melaksanakan
-Pinjaman bersama sebagaimana dimaksud dalam Pasal
-157 ayat (1) huruf b, sumber dana Pinjaman berasal
+Pinjaman bersama sebagaimana dimaksud dalam
+
+Pasal 157
+ayat (1) huruf b, sumber dana Pinjaman berasal
 dari Perusahaan dan pihak lain sebagaimana dimaksud
-dalam Pasal 157 ayat (3).
+dalam
+
+Pasal 157
+ayat (3).
 (2) Risiko yang timbul dari Pinjaman bersama
 sebagaimana dimaksud pada ayat (1) menjadi beban
 masing-masing pihak secara proporsional sesuai

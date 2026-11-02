@@ -77,7 +77,10 @@ Bappebti.
 
 (4) Sebelum peraturan dan tata tertib Bursa Berjangka
 
-sebagaimana dimaksud dalam Pasal 16 huruf d
+sebagaimana dimaksud dalam
+
+Pasal 16
+huruf d
 termasuk perubahannya diberlakukan, wajib
 memperoleh persetujuan Bappebti.
 
@@ -227,4 +230,5 @@ Angka 13 . . .
 
 -----
 
- - 18
+ - 18 
+Angka 13

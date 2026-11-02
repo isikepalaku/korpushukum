@@ -20,7 +20,10 @@ mengamandemen: []
 
 Penerbitan KTP-el karena hilang atau rusak bagi Penduduk 
 WNI atau Penduduk Orang Asing sebagaimana dimaksud 
-dalam Pasal 18 ayat (1) huruf e, dengan memenuhi 
+dalam
+
+Pasal 18
+ayat (1) huruf e, dengan memenuhi 
 persyaratan sesuai dengan ketentuan Peraturan Presiden 
 mengenai persyaratan dan tata cara Pendaftaran Penduduk 
 dan Pencatatan Sipil. 

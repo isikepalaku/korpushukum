@@ -4,7 +4,7 @@ judul: "Map of Content - KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kit
 kode_uu: UU_20_2025
 type: moc
 tags: [moc, hukum/pidana, uu/uu_20_2025]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Acara Pidana (UU_20_2025)
@@ -13,57 +13,38 @@ last_updated: 2026-11-01
 
 ## Daftar Pasal
 
-- [[Pasal_2]]: **(1) Penuntut Umum dengan izin Hakim ketua sidang**
-- [[Pasal_2L]]: **Ketentuan lebih lanjut mengenai Penyelidikan sebagaimana dimaksud dalam Pasal 13 sampai dengan Pasal 20 diatur dalam Peraturan P...
-- [[Pasal_3]]: **Ketentuan mengenai pemeriksaan tingkat kasasi demi kepentingan hukum sebagaimana dimaksud dalam Pasal 314 sampai dengan Pasal 31...
-- [[Pasal_3O]]: **(1) Apabila jangka waltu sebagaimana dimaksud dalam**
+- [[Pasal_2]]: **(1) Acara pidana dilaksanakan hanya berdasarkan tata**
+- [[Pasal_3]]: **(1) Ruang lingkup berlakunya Undang-Undang ini**
 - [[Pasal_4]]: **Acara pidana yang diatur dalam Undang-Undang ini dilaksanakan dengan perpaduan antara sistem Hakim aktif dengan para pihak berla...
-- [[Pasal_4O]]: **Dalam hal Tersangka ditahan, dalam waktu 1 (satu) Hari**
 - [[Pasal_5]]: **(l) Penyelidik karena kewajibannya mempunyai**
-- [[Pasal_5L]]: **Dalam hal untuk kepentingan peradilan Penyidik perlu melakukan penggalian mayat, kepentingan tersebut dilaksanakan sesuai dengan...
-- [[Pasal_6]]: **(1) Penyidik terdiri atas:**
-- [[Pasal_6O]]: Pasal 6O
+- [[Pasal_6]]: Pasal 6
 - [[Pasal_7]]: **(1) Penyidik mempunyai tugas dan wewenang:**
 - [[Pasal_8]]: **(l) Penyidik membuat berita acara pelalsanaan tindakan**
-- [[Pasal_8L]]: **(1) Mekanisme Keadilan Restoratif dilakukan melalui:**
-- [[Pasal_9]]: **Dalam melakukan Penetapan Tersangka, Penyidik dilarang melakukan perbuatan yang menimbulkan praduga bersalah.**
-- [[Pasal_9O]]: Pasal 9O
+- [[Pasal_9]]: **Penyidik berwenang melaksanakan tugas di seluruh wilayah Negara Kesatuan Republik Indonesia sesuai dengan ketentuan Undang-Undan...
 - [[Pasal_10]]: **Penyidik Pembantu mempunyai wewenang seperti Penyidik sebagaimana dimaksud dalam Pasal 7 ayat (l), kecuali mengenai Penahanan ya...
 - [[Pasal_11]]: **Penyidik Pembantu membuat berita acara dan menyerahkan berkas perkara kepada Penyidik, kecuali perkara dengan acara pemeriksaan ...
-- [[Pasal_12]]: **dan pemberhentian Penyidik Pembantu sebagaimana**
+- [[Pasal_12]]: Pasal 12
 - [[Pasal_13]]: **(1) Penyelidik yang mengetahui atau menerima Laporan**
 - [[Pasal_14]]: **(l) Laporan atau Pengaduan yang diajukan secara tertulis**
-- [[Pasal_14O]]: **(1) Pemblokiran dapat dilakukan oleh Penyidik, Penuntut**
-- [[Pasal_15]]: 
+- [[Pasal_15]]: Pasal 15
 - [[Pasal_16]]: **(1) Penyelidikan dapat dilakukan dengan cara:**
-- [[Pasal_16B]]: Pengadilan tinggi berwenang Mengadili perkara pidana yang
 - [[Pasal_17]]: **(1) Sebelum melakukan Penyelidikan, Penyelidik wajib**
 - [[Pasal_18]]: **(1) Penyelidik wajib membuat laporan hasil Penyelidikan**
-- [[Pasal_19]]: **(1) Dalam hal terjadi penggabungan antara perkara**
-- [[Pasal_19O]]: Pasal 19O
+- [[Pasal_19]]: **(l) Gelar perkara terhadap hasil Penyelidikan**
 - [[Pasal_20]]: **(1) Dalam melaksanakan tugas Penyelidikan, Penyelidik**
-- [[Pasal_20O]]: **(1) Jika pengadilan negeri menerima surat pelimpahan**
-- [[Pasal_21O]]: Pasal 21O
 - [[Pasal_22]]: **(l) Untuk kepentingan Penyidikan, Penyidik dapat**
-- [[Pasal_22L]]: Pasal 22L
-- [[Pasal_22O]]: **(1) Orang yang karena harkat martabat, pekerjaan, atau**
 - [[Pasal_23]]: (l ) Setiap orang yang mengetahui permufakatan jahat
 - [[Pasal_24]]: **(1) Dalam hal Penyidik menghentikan Penyidikan,**
 - [[Pasal_25]]: **Penyidik dapat menggabungkan atau memisahkan perkara untuk memudahkan Penyidikan.**
 - [[Pasal_26]]: **(l) Penyidik berwenang memanggil Tersangka dan/ atau**
-- [[Pasal_26O]]: -----
 - [[Pasal_27]]: **Dalam hal terhadap penghentian Penyidikan yang dilakukan untuk menindaklanjuti keputusan gelar perkara diajukan permohonan ke pe...
-- [[Pasal_27B]]: **(1) Semua jenis pemberitahuan atau panggilan oleh pihak**
-- [[Pasal_27O]]: Pasal 27O
 - [[Pasal_28]]: **(l) Tersangka dan/ atau Saksi yang dipanggil wajib datang**
 - [[Pasal_29]]: **(1) Dalam hal Tersangka dan/atau Saksi yang dipanggil**
 - [[Pasal_30]]: **(U Pemeriksaan terhadap seseor€rng yang disangka**
-- [[Pasal_31]]: **(l) Dalam hal Mahkamah Agung mengabulkan**
-- [[Pasal_31O]]: Pasal 31O
-- [[Pasal_32]]: **Dalam hal peninjauan kembali diajukan terhadap putusan berkekuatan hukum tetap yang berasal dari tingkat kasasi, pemeriksaan ter...
+- [[Pasal_31]]: **Sebelum dimulainya pemeriksaan sebagaimana Pasal 3O,**
+- [[Pasal_32]]: **(1) Dalam hal Penyidik sedang melakukan pemeriksaan**
 - [[Pasal_33]]: **(1) Penyidik memeriksa Saksi dengan tidak disumpah,**
 - [[Pasal_34]]: **(l) Dalam memberikan penjelasan atau keterangan pada**
-- [[Pasal_34O]]: -----
 - [[Pasal_35]]: **(l) Penyidik wajib memeriksa Saksi yang dihadirkan oleh**
 - [[Pasal_36]]: **(1) Keterangan Tersangka dan/atau Saksi dicatat dalam**
 - [[Pasal_37]]: **(1) Dalam hal Tersangka dan/ atau Saksi yang harus**
@@ -84,8 +65,8 @@ last_updated: 2026-11-01
 - [[Pasal_53]]: **(1) Setiap pelapor, pengadu, Saksi, dan/ atau Korban**
 - [[Pasal_54]]: **Semua biaya yang dikeluarkan untuk kepentingan pelindungan pelapor, pengadu, Saksi, dan/atau Korban dibebankan kepada negara.**
 - [[Pasal_55]]: **Penyidik dalam melaksanakan Penyidikan tindak pidana didukung dengan bantuan teknis Penyidikan untuk pembuktian secara ilmiah.**
-- [[Pasal_56]]: **Bagian Ketujuh**
-- [[Pasal_57]]: **Ketentuan lebih lanjut mengenai bantuan teknis Penyidikan sebagaimana dimaksud dalam Pasal 55 dan**
+- [[Pasal_56]]: **(1) Bantuan teknis Penyidikan sebagaimana dimaksud**
+- [[Pasal_57]]: **Ketentuan lebih lanjut mengenai bantuan teknis Penyidikan sebagaimana dimaksud dalam Pasal 55 dan**Pasal 56 diatur dalam Peratur...
 - [[Pasal_58]]: Penanganan setiap tindak pidana dilaksanakan oleh Penyidik
 - [[Pasal_59]]: **(1) Koordinasi antara Penyidik dan Penuntut Umum**
 - [[Pasal_60]]: **(1) Pemberitahuan dimulainya Penyidikan oleh Penyidik**
@@ -93,8 +74,8 @@ last_updated: 2026-11-01
 - [[Pasal_62]]: **(1) Dalam hal Penuntut Umum berpendapat bahwa hasil**
 - [[Pasal_63]]: **Ketentuan lebih lanjut mengenai tata cara koordinasi antara Penyidik dan Penuntut Umum sebagaimana dimaksud dalam Pasal 58 sampa...
 - [[Pasal_64]]: **Penuntut Umum terdiri atas:**
-- [[Pasal_65]]: **perkara di luar pengadilan dengan membayar denda yang disetujui oleh Jaksa Agung sesuai dengan**
-- [[Pasal_66]]: **(l) Denda damai sebagaimana dimaksud dalam**
+- [[Pasal_65]]: **Penuntut Umum mempunyai wewenang:**
+- [[Pasal_66]]: **(l) Denda damai sebagaimana dimaksud dalam**Pasal 65 huruf i merupakan mekanisme penghentian
 - [[Pasal_67]]: **(1) Penuntut Umum menuntut perkara tindak pidana**
 - [[Pasal_68]]: **Penuntut Umum dalam melaksanakan tugas, fungsi, dan kewenangannya melampaui atau melanggar ketentuan peraturan perundang-undanga...
 - [[Pasal_69]]: **Penuntut Umum berwenang melakukan Penuntutan terhadap Terdakwa dalam daerah hukumnya dan melimpahkan perkara ke pengadilan neger...
@@ -122,12 +103,12 @@ last_updated: 2026-11-01
 - [[Pasal_93]]: **(1) Untuk kepentingan Penyidikan, Penyelidik atas perintah Penyidik berwenang melakukan**
 - [[Pasal_94]]: **Penangkapan dilakukan terhadap seseorang yang diduga melakukan tindak pidana berdasarkan minimal 2 (dua) alat bukti.**
 - [[Pasal_95]]: **(1) Penangkapan dilakukan oleh Penyidik dengan**
-- [[Pasal_96]]: **Penangkapan dilakukan paling lama 1x24 (satu kali dua puluh empat) jam, kecuali ditentukan lain oleh Undang-Undang.**
+- [[Pasal_96]]: **Penangkapan dilakukan paling lama 1x24 (satu kali dua puluh empat) jam, kecuali ditentukan lain oleh Undang-Undang.**Pasal 97. ....
 - [[Pasal_97]]: **(1) Penangkapan tidak dapat dilakukan terhadap**
 - [[Pasal_98]]: **Dalam hal Penangkapan dilakukan terhadap seorang Hakim, Penangkapan harus berdasarkan izin Ketua Mahkamah Agung.**
 - [[Pasal_99]]: **(1) Untuk kepentingan Penyidikan, Penyidik berwenang**
 - [[Pasal_100]]: **(1) Penahanan sebagaimana dimaksud dalam Pasal 99**
-- [[Pasal_101]]: **Dalam hal Penahanan dilakukan terhadap seorang Hakim, Penahanan harus berdasarkan izin Ketua Mahkamah Agung.**
+- [[Pasal_101]]: **Dalam hal Penahanan dilakukan terhadap seorang Hakim, Penahanan harus berdasarkan izin Ketua Mahkamah Agung.**Pasal 1O2
 - [[Pasal_102]]: Pasal 102
 - [[Pasal_103]]: **(l) Penuntut Umum dapat melakukan Penahanan untuk**
 - [[Pasal_104]]: **(1) Halim pengadilan negeri yang Mengadili perkara**
@@ -135,21 +116,21 @@ last_updated: 2026-11-01
 - [[Pasal_106]]: **(l) Untuk kepentingan pemeriksaan kasasi, Hakim agung**
 - [[Pasal_107]]: Pasal 107
 - [[Pasal_108]]: **(1) Jenis Penahanan terdiri atas:**
-- [[Pasal_109]]: **(1) Dalam hal Penahanan sebagaimana dimaksud dalam**
+- [[Pasal_109]]: **(1) Dalam hal Penahanan sebagaimana dimaksud dalam**Pasal 1O2 sampai dengan Pasal 106 atau perpanjangan
 - [[Pasal_110]]: **(l) Atas permintaan Tersangka atau Terdakwa,**
 - [[Pasal_111]]: **(l) Apabila pada masa Penahanan Tersangka atau**
 - [[Pasal_112]]: Pasal 112
 - [[Pasal_113]]: **(1) Sebelum melalukan Penggeledahan sebagaimana**
 - [[Pasal_114]]: **(1) Penyidik wajib menunjukkan surat tugas dan surat izin Penggeledahan dari ketua pengadilan negeri**
-- [[Pasal_115]]: **a. ruang yang di dalamnya sedang berlangsung sidang**
-- [[Pasal_116]]: 
+- [[Pasal_115]]: Pasal 115
+- [[Pasal_116]]: Pasal 116
 - [[Pasal_117]]: **(1) Pada waktu menangkap Tersangka, Penyelidik hanya**
-- [[Pasal_118]]: Penyitaan.
+- [[Pasal_118]]: Pasal 118
 - [[Pasal_119]]: **(1) Sebelum melakukan Penyitaan, Penyidik mengajukan**
 - [[Pasal_120]]: **(1) Dalam keadaan mendesak, Penyidik dapat melakukan**
 - [[Pasal_121]]: **(l) Dalam hal ketua pengadilan negeri menolak untuk**
 - [[Pasal_122]]: **(l) Penyidik wajib menunjukkan surat perintah Penyitaan**
-- [[Pasal_123]]: **atau membahayakan, sehingga tidak mungkin**
+- [[Pasal_123]]: **(1) Benda yang dapat disita adalah:**
 - [[Pasal_124]]: **(1) Penyidik dapat melakukan Penyitaan terhadap benda**
 - [[Pasal_125]]: **(1) Penyitaan terhadap benda yang pemiliknya tidak**
 - [[Pasal_126]]: Dalam hal Tertangkap Tangan, Penyidik dapat menyita:
@@ -159,13 +140,13 @@ last_updated: 2026-11-01
 - [[Pasal_130]]: **(l) Pejabat yang berwenang melakukan Penyitaan wajib**
 - [[Pasal_131]]: **(1) Dalam hal benda sitaan sebagaimana dimaksud dalam**
 - [[Pasal_132]]: **(1) Dalam hal benda sitaan merupakan benda berbahaya,**
-- [[Pasal_133]]: sejak benda sitaan tidak lagi diperlukan untuk kepentingan
+- [[Pasal_133]]: **Benda yang dikenakan Penyitaan dikembalikan kepada orang yang memiliki atau menguasai benda yang disita, atau kepada orang yang ...
 - [[Pasal_134]]: Pengembalian benda sitaan sebagaimana dimaksud dalam
 - [[Pasal_135]]: **Apabila perkara sudah diputus maka benda yang disita**
 - [[Pasal_136]]: **(1) Penyidik dapat melakukan Penyadapan untuk**
-- [[Pasal_137]]: **(21 Penyidik harus memberikan tembusan berita acara**
+- [[Pasal_137]]: **(1) Penyidik berhak membuka, memeriksa, dan menyita**
 - [[Pasal_138]]: **(l) Jika sesudah dibuka dan diperiksa, ternyata surat**
-- [[Pasal_139]]: **(1) Penyidik membuat berita acara mengenai tindakan yang dilakukan sebagaimana dimaksud dalam**
+- [[Pasal_139]]: **(1) Penyidik membuat berita acara mengenai tindakan yang dilakukan sebagaimana dimaksud dalam**Pasal 137 dan Pasal 138.
 - [[Pasal_140]]: Pasal 140
 - [[Pasal_141]]: **(1) Untuk kepentingan Penyidikan, Penuntutan, atau**
 - [[Pasal_142]]: Tersangka atau Terdakwa berhak:
@@ -173,13 +154,13 @@ last_updated: 2026-11-01
 - [[Pasal_144]]: Korban berhak:
 - [[Pasal_145]]: **(l) Penyandang Disabilitas berhak atas pelayanan dan**
 - [[Pasal_146]]: **(1) Terhadap pelaku tindak pidana yang tidak dapat**
-- [[Pasal_147]]: berstatus sebagai Tersangka, Terdakwa, Terpidana, Saksi, atau Korban.
+- [[Pasal_147]]: Pasal 147
 - [[Pasal_148]]: **(1) Orang lanjut usia dapat berstatus sebagai Tersangka,**
 - [[Pasal_149]]: **(1) Advokat berstatus sebagai penegak hukum**
 - [[Pasal_150]]: **Advokat berhak:**
 - [[Pasal_151]]: **(1) Advokat wajib:**
 - [[Pasal_152]]: **(l) Advokat dalam berhubungan dengan Tersangka,**
-- [[Pasal_153]]: Bagian Kedua Bantuan Hukum
+- [[Pasal_153]]: Pasal 153
 - [[Pasal_154]]: **(l) Bantuan Hukum diberikan terhadap:**
 - [[Pasal_155]]: **(1) Dalam hal Tersangka atau Terdakwa disangka atau**
 - [[Pasal_156]]: **(1) Berita acara dibuat untuk setiap tindakan yang**
@@ -187,38 +168,38 @@ last_updated: 2026-11-01
 - [[Pasal_158]]: **Pengadilan negeri berwenang untuk memeriksa dan memutus, sesuai dengan ketentuan dalam Undang-Undang ini mengenai:**
 - [[Pasal_159]]: **(1) Wewenang pengadilan negeri sebagaimana dimaksud**
 - [[Pasal_160]]: **(1) Permohonan pemeriksaan mengenai sah atau tidaknya**
-- [[Pasal_161]]: 
+- [[Pasal_161]]: Pasal 161
 - [[Pasal_162]]: **Permohonan Ganti Rugi dan/atau Rehabilitasi akibat tidak sahnya penghentian Penyidikan atau penghentian Penuntutan sebagaimana d...
 - [[Pasal_163]]: **(1) Acara pemeriksaan Praperadilan ditentukan sebagai**
 - [[Pasal_164]]: **(1) Putusan Praperadilan terhadap permohonan**
 - [[Pasal_165]]: **(1) Pengadilan negeri berwenang memeriksa, Mengadili,**
 - [[Pasal_166]]: **Dalam hal keadaan daerah tidak memungkinkan suatu pengadilan negeri untuk Mengadili suatu perkara, atas usul ketua pengadilan ne...
 - [[Pasal_167]]: **(1) Dalam hal seseorang melakukan tindak pidana di luar**
-- [[Pasal_169]]: BAB XII
+- [[Pasal_168]]: Pengadilan tinggi berwenang Mengadili perkara pidana yang
+- [[Pasal_169]]: Pasal 169
 - [[Pasal_170]]: **(1) Tindak pidana yang dilakukan bersama-sama oleh**
 - [[Pasal_171]]: **(l) Penuntut Umum berkoordinasi dengan oditur militer untuk menetapkan pengadilan yang berwenang**
 - [[Pasal_172]]: **(1) Dalam ha1 tindak pidana sebagaimana dimaksud**
 - [[Pasal_173]]: **(1) Tersangka, Terdakwa, atau Terpidana berhak**
 - [[Pasal_174]]: (1) Putusan pemberian Ganti Rugi berbentuk penetapan.
 - [[Pasal_175]]: **(l) Pembayaran Ganti Rugi yang telah ditetapkan**
-- [[Pasal_176]]: **(2) Ketentuan lebih lanjut mengenai Rehabilitasi**
+- [[Pasal_176]]: **(1) Seorang berhak memperoleh Rehabilitasi apabila oleh**
 - [[Pasal_177]]: **(l) Pendanaan Rehabilitasi bersumber dari dana abadi**
 - [[Pasal_178]]: (1) Korban berhak mendapatkan Restitusi.
 - [[Pasal_179]]: **(1) Penyidik, Penuntut Umum, dan Hakim wajib**
-- [[Pasal_180]]: **Restitusi dikembalikan kepada pelaku dalam hal Terdakwa diputus bebas atau lepas dari segala tuntutan hukum.**
+- [[Pasal_180]]: **Restitusi dikembalikan kepada pelaku dalam hal Terdakwa diputus bebas atau lepas dari segala tuntutan hukum.**Pasal 181.. .
 - [[Pasal_181]]: **(1) Restitusi diberikan dalam jangka waktu paling lama 30**
 - [[Pasal_182]]: **(1) Jaksa membuat berita acara pelaksanaan Restitusi**
 - [[Pasal_183]]: (1) Korban berhak mendapatkan Kompensasi.
 - [[Pasal_184]]: **(l) Penyidik, Penuntut Umum, dan Hakim wajib**
 - [[Pasal_185]]: ( 1) Kompensasi diberikan dalam jangka waktu paling lama
-- [[Pasal_186]]: dan disampaikan kepada Korban. (2) Salinan berita acara sebagaimana dimaksud pada
+- [[Pasal_186]]: Pasal 186
 - [[Pasal_187]]: **(1) Dana abadi untuk pembayaran Ganti Rugi,**
-- [[Pasal_188]]: BAB XIV
-- [[Pasal_189]]: dalam suatu pemeriksaan perkara pidana oleh pengadilan negeri menimbulkan kerugian bagi orang lain, Halim ketua sidang atas permin...
-- [[Pasal_190]]: perkara gugatannya pada perkara pidana sebagaimana dimaksud dalam Pasal 189 ayat (l), pengadilan negeri menimbang mengenai kewenan...
+- [[Pasal_188]]: Pasal 188
+- [[Pasal_189]]: Pasal 189
 - [[Pasal_191]]: Pasal 191
 - [[Pasal_192]]: **Ketentuan mengenai hukum acara perdata berlaku bagi gugatan ganti rugi sepanjang tidak diatur lain dalam Undang-Undang ini.**
-- [[Pasal_193]]: Terdakwa untuk datang ke sidang pengadilan melalui
+- [[Pasal_193]]: Pasal 193
 - [[Pasal_194]]: **(l) Penuntut Umum menyampaikan surat panggilan**
 - [[Pasal_195]]: **Setelah pengadilan negeri menerima surat pelimpahan perkara dari Penuntut Umum, ketua pengadilan negeri mempelajari apakah perka...
 - [[Pasal_196]]: **(l) Dalam hal ketua pengadilan negeri berpendapat bahwa**
@@ -233,7 +214,7 @@ last_updated: 2026-11-01
 - [[Pasal_208]]: **Sebelum majelis memutuskan, Hakim dilarang menunjukkan sikap atau mengeluarkan pernyataan di sidang mengenai keyakinan mengenai ...
 - [[Pasal_209]]: **(1) Hakim ketua sidang meneliti apakah semua Saksi atau**
 - [[Pasal_210]]: **(1) Penuntut Umum dan Terdakwa atau Advokat Terdakwa diberi kesempatan menyampaikan penjelasan singkat untuk menguraikan bukti d...
-- [[Pasal_211]]: -----
+- [[Pasal_211]]: Pasal 211
 - [[Pasal_212]]: **(l) Jika Saksi setelah memberi keterangan dalam**
 - [[Pasal_213]]: Pasal 213
 - [[Pasal_215]]: **Pertanyaan yang bersifat menjerat dilarang diajukan**
@@ -243,7 +224,7 @@ last_updated: 2026-11-01
 - [[Pasal_219]]: **(1) Dalam hal Salsi menghendakinya dan penuntut**
 - [[Pasal_220]]: Pasal 220
 - [[Pasal_221]]: **Seseorang yang dapat diminta memberikan keterangan tanpa sumpah atau janji adalah:**
-- [[Pasal_222]]: **(l) Setelah Saksi memberi keterangan, Terdakwa atau**
+- [[Pasal_222]]: Pasal 222
 - [[Pasal_223]]: **(l) Hakim ketua sidang dapat mendengar Keterangan**
 - [[Pasal_224]]: **(1) Dalam hal Keterangan Saksi di sidang diduga palsu,**
 - [[Pasal_225]]: **Dalam hal Terdakwa tidak menjawab atau menolak untuk menjawab pertanyaan yang diajukan kepadanya, Hakim ketua sidang menganjurka...
@@ -252,17 +233,17 @@ last_updated: 2026-11-01
 - [[Pasal_228]]: **(l) Dalam hal Terdakwa atau Saksi disabilitas dan/ atau**
 - [[Pasal_229]]: **(1) Setiap orang yang diminta pendapatnya sebagai Ahli**
 - [[Pasal_230]]: **(1) Dalam hal diperlukan untuk menjernihkan duduk**
-- [[Pasal_231]]: **(21 Setelah ketentuan sebagaimana dimaksud pada**
+- [[Pasal_231]]: **(1) Setelah kesaksian dan bukti disampaikan oleh kedua**
 - [[Pasal_232]]: **(1) Dalam hal tertentu, baik atas kewenangan Hakim**
 - [[Pasal_233]]: **(l) Putusan dalam musyawarah majelis merupakan hasil**
 - [[Pasal_234]]: **(1) Pada saat Penuntut Umum membacakan surat dakwaan,**
-- [[Pasal_235]]: **dinyatakan oleh Terdakwa dalam pemeriksaan di**
+- [[Pasal_235]]: **(1) Alat bukti terdiri atas:**
 - [[Pasal_236]]: **(1) Keterangan Salsi sebagaimana dimaksud dalam**
 - [[Pasal_237]]: **(l) Keterangan I (satu) orang Saksi tidak cukup untuk**
 - [[Pasal_238]]: **(1) Keterangan Ahli sebagaimana dimaksud dalam**
 - [[Pasal_239]]: **Surat sebagaimana dimaksud dalam Pasal 235 ayat (1)**
-- [[Pasal_240]]: **(1) Keterangan Terdakwa sebagaimana dimaksud dalam**
-- [[Pasal_241]]: **Barang bukti sebagaimana dimaksud dalam pasal 235 ayat (l) huruf e mencakup:**
+- [[Pasal_240]]: **(1) Keterangan Terdakwa sebagaimana dimaksud dalam**Pasal 235 ayat (l) huruf d merupakan segala hal yang
+- [[Pasal_241]]: **Barang bukti sebagaimana dimaksud dalam Pasal 235 ayat (l) huruf e mencakup:**
 - [[Pasal_242]]: **Bukti elektronik sebagaimana dimaksud dalam [pasal ]235 ayat (1) huruf f mencakup segala bentuk Informasi Elektronik, Dokumen El...
 - [[Pasal_243]]: **(1) Selama pemeriksaan di sidang pengadilan, jika**
 - [[Pasal_244]]: **(l) Dalam hal Hakim berpendapat bahwa hasil**
@@ -293,18 +274,19 @@ last_updated: 2026-11-01
 - [[Pasal_269]]: **(1) Dalam ruang sidang, setiap orang wajib menunjukkan**
 - [[Pasal_271]]: **(1) Hakim dilarang Mengadili suatu perkara yang**
 - [[Pasal_272]]: **(1) Dalam hal terdapat alasan yang kuat mengenai**
-- [[Pasal_273]]: **(1) Setiap Terdakwa yang diputus pidana wajib membayar**
+- [[Pasal_273]]: Pasal 273
 - [[Pasal_274]]: **(1) Jika Hakim memberi perintah kepada seseorang untuk**
 - [[Pasal_275]]: **Semua Putusan Pengadilan disimpan dalam arsip oleh pengadilan yang Mengadili perkara pada tingkat pertama**
 - [[Pasal_276]]: **(1) Panitera membuat dan menyediakan buku daftar**
 - [[Pasal_277]]: **(l) Petikan Putusan Pengadilan diberikan kepada**
-- [[Pasal_279]]: **Jangka waktu menurut Undang-Undang ini mulai diperhitungkan pada hari berikutnya.**
+- [[Pasal_278]]: **(1) Semua jenis pemberitahuan atau panggilan oleh pihak**
+- [[Pasal_279]]: **Jangka waktu menurut Undang-Undang ini mulai diperhitungkan pada hari berikutnya.**Pasal 280...
 - [[Pasal_280]]: **(1) Saksi atau Ahli, yang telah hadir memenuhi panggilan untuk memberikan keterangan di semua tahap**
 - [[Pasal_281]]: **(1) Sidang pengadilan dilaksanal<an dalam ruang sidang**
 - [[Pasal_282]]: **(1) Sebelum sidang dimulai, panitera, Penuntut Umum,**
 - [[Pasal_283]]: **Ketentuan lebih lanjut mengenai jenis, bentuk, dan warna pakaian sidang serta atribut dan hal yang berhubungan dengan perangkat ...
 - [[Pasal_284]]: **Semua biaya yang dikeluarkan untuk kepentingan pemeriksaan di sidang pengadilan dibebankan kepada**
-- [[Pasal_285]]: Advokatnya, atau Penuntut Umum dianggap menerima putusan sebagaimana dimaksud pada ayat (1), panitera mencatat dan membuat akta me...
+- [[Pasal_285]]: **(1) Permohonan banding dapat diajukan ke pengadilan tinggi**
 - [[Pasal_286]]: **(1) Apabila jangka waktu sebagaimana dimaksud dalam**
 - [[Pasal_287]]: **(1) Dalam hal perkara banding belum diputus oleh**
 - [[Pasal_288]]: **(1) Dalam jangka waktu paling lama 14 (empat belas) Hari**
@@ -316,10 +298,9 @@ last_updated: 2026-11-01
 - [[Pasal_294]]: **(1) Ketentuan mengenai larangan bagr Hakim**
 - [[Pasal_295]]: **(l) Jika pengadilan tinggi berpendapat bahwa dalam**
 - [[Pasal_296]]: **(l) Setelah semua hal sebagaimana dimaksud dalam Pasal**
-- [[Pasal_297]]: 
 - [[Pasal_298]]: **(1) Pengadilan tinggi memberitahukan kepada Terdakwa dan**
 - [[Pasal_299]]: **(l) Terhadap putusan perkara pidana yang diberikan**
-- [[Pasal_300]]: dianggap menerima putusan.
+- [[Pasal_300]]: **(l) Permohonan kasasi disampaikan oleh pemohon dalam**
 - [[Pasal_301]]: Pasal 301
 - [[Pasal_302]]: **(l) Selama perkara permohonan kasasi belum diputus**
 - [[Pasal_303]]: **(1) Pemohon kasasi wajib mengajukan memori kasasi**
@@ -386,5 +367,3 @@ last_updated: 2026-11-01
 - [[Pasal_367]]: **Seluruh ketentuan peraturan perundang-undangan terkait acara pidana yang bertentangan dengan Undang-Undang ini**
 - [[Pasal_368]]: **Undang-Undang ini dapat disebut dengan KUHAP.**
 - [[Pasal_369]]: Undang-Undang ini muLai berlaku pada tanegal 2 Jarvari,2O26.
-- [[Pasal_486]]: **ayat (1) huruf a dan huruf b, Pasal 569 ayat (1), dan**
-- [[Pasal_591]]: **(3) Surat perintah Penahanan atau penetapan Hakim**

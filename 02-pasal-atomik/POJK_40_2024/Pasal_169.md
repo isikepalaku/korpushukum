@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara wajib setiap saat memiliki Ekuitas
-minimum sebagaimana dimaksud dalam Pasal 16B ayat
+minimum sebagaimana dimaksud dalam
+
+Pasal 168
+ayat
 (2) huruf a paling sedikit Rp12.500.000.000,00 (dua
 belas miliar lima ratus juta rupiah).
 (2) Bagi Penyelenggara yang telah memperoleh izin usaha

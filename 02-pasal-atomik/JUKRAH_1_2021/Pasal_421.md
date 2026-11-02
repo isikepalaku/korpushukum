@@ -107,7 +107,10 @@ TANGGAL: J-SEPTEMBER 2020
 permulaan yang cukup,
 
 2) anggota DPR sebagai tersangka utama atau tersangka
-penyertaan/membantu sebagaimana dimaksud Pasal 55 KUHP dan
+penyertaan/membantu sebagaimana dimaksud
+
+Pasal 55
+KUHP dan
 
 ## Penjelasan Resmi
 

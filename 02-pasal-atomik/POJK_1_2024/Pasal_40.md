@@ -18,6 +18,51 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pengambilalihan AYDA sebagaimana dimaksud dalam
+Pasal 39
+ayat (1) bersifat sementara dan wajib dicairkan
+secepatnya terhitung sejak pengambilalihan AYDA oleh
+BPR.
+(2) BPR wajib memperhitungkan AYDA untuk jenis agunan
+sebagaimana dimaksud dalam
+
+Pasal 20
+ayat (1) huruf b,
+huruf d, huruf e, dan huruf f yang tercatat pada laporan
+posisi keuangan sebagai faktor pengurang modal inti BPR
+dalam perhitungan rasio KPMM sebesar:
+a. 15% (lima belas persen) dari nilai AYDA untuk AYDA
+yang dimiliki lebih dari 1 (satu) tahun sampai dengan
+3 (tiga) tahun;
+b. 50% (lima puluh persen) dari nilai AYDA untuk AYDA
+yang dimiliki lebih dari 3 (tiga) tahun sampai dengan
+5 (lima) tahun; dan/atau
+c. 100% (seratus persen) dari nilai AYDA untuk AYDA
+yang dimiliki lebih dari 5 (lima) tahun.
+(3) BPR wajib memperhitungkan AYDA untuk jenis agunan
+selain sebagaimana dimaksud dalam
+
+Pasal 20
+ayat (1)
+huruf b, huruf d, huruf e, dan huruf f yang tercatat pada
+laporan posisi keuangan sebagai faktor pengurang modal
+inti BPR dalam perhitungan rasio KPMM sebesar:
+a. 50% (lima puluh persen) dari nilai AYDA untuk AYDA
+yang dimiliki lebih dari 1 (satu) tahun sampai dengan
+2 (dua) tahun; dan/atau
+b. 100% (seratus persen) dari nilai AYDA untuk AYDA
+yang dimiliki lebih dari 2 (dua) tahun.
+(4) BPR wajib mendokumentasikan upaya pencairan AYDA
+sebagaimana dimaksud pada ayat (1).
+
+-----
+
+(5) BPR wajib menerapkan perlakuan akuntansi
+pengambilalihan AYDA sesuai dengan standar akuntansi
+keuangan dan pedoman akuntansi bagi BPR.
+(6) Otoritas Jasa Keuangan dapat menetapkan jangka waktu
+berbeda dari jangka waktu sebagaimana dimaksud pada
+ayat (2) berdasarkan analisis atas kondisi ekonomi
+wilayah setempat dan sekitarnya.
 
 ## Penjelasan Resmi
 

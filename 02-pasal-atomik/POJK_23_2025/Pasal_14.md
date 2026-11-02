@@ -46,7 +46,10 @@ Mekanisme Penghentian dan Penyelesaian
 
 Perdagangan
 
-22. Ketentuan Pasal 15 diubah sehingga berbunyi sebagai
+22. Ketentuan
+
+Pasal 15
+diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -66,3 +69,5 @@ Angka 21
 Cukup jelas.
 
 -----
+
+Angka 22

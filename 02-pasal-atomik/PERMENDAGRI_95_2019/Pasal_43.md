@@ -23,7 +23,10 @@ pengelolaan
 data 
 SIAK 
 sebagaimana 
-dimaksud dalam Pasal 30 huruf o, melekat pada jabatan 
+dimaksud dalam
+
+Pasal 30
+huruf o, melekat pada jabatan 
 www.peraturan.go.id
 
 2019, No. 1478 

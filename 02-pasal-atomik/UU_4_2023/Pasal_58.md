@@ -105,7 +105,9 @@ Badan Pemeriksa Keuangan dalam melakukan tugasnya memeriksa laporan keuangan Ban
 
 Ayat (10)
 
-Cukup jelas. Ayat (11) Cukup jelas. Ayat (12) Cukup jelas. Pasal 58A Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "kelembagaan" adalah dukungan organisasi, sumber daya, tata kelola, dan pelaksanaan anggaran operasional dalam rangka mendukung pencapaian tujuan Bank Indonesia. Dengan demikian kelembagaan tersebut tidak mencakup penetapan dan pelaksanaan kebijakan moneter, sistem pembayaran, dan makroprudensial. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas.
+Cukup jelas. Ayat (11) Cukup jelas. Ayat (12) Cukup jelas.
+
+Pasal 58A Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan "kelembagaan" adalah dukungan organisasi, sumber daya, tata kelola, dan pelaksanaan anggaran operasional dalam rangka mendukung pencapaian tujuan Bank Indonesia. Dengan demikian kelembagaan tersebut tidak mencakup penetapan dan pelaksanaan kebijakan moneter, sistem pembayaran, dan makroprudensial. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas.
 
 Ayat (7)
 
@@ -124,11 +126,16 @@ Yang dimaksud dengan "berhalangan tetap" adalah cacat fisik dan/ atau cacat ment
 Huruf d ...
 
 ```
-Angka 31 Pasal 58B Cukup jelas. Pasal 58C Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Ayat (7) Huruf a Cukup jelas. Huruf b Huruf c Cukup jelas.
+Angka 31
+
+Pasal 58B Cukup jelas. Pasal 58C Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Ayat (7) Huruf a Cukup jelas. Huruf b Huruf c Cukup jelas.
 ```
 
 ```
-Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Hurufh Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Ayat (10) Cukup jelas. Ayat (11) Cukup jelas. Angka 32 Pasal 60 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Apabila setelah tanggal 31 Desember belum mendapat persetujuan, anggaran yang digunakan adalah anggaran tahun anggaran sebelumnya. Huruf a Cukup jelas. Huruf b ...
+Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Hurufh Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Ayat (10) Cukup jelas. Ayat (11) Cukup jelas. Angka 32
+
+Pasal 60
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Apabila setelah tanggal 31 Desember belum mendapat persetujuan, anggaran yang digunakan adalah anggaran tahun anggaran sebelumnya. Huruf a Cukup jelas. Huruf b ...
 ```
 
 **Huruf b**
@@ -136,7 +143,10 @@ Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jel
 Penetapan klasifikasi penggunaan anggaran untuk kebijakan moneter, Sistem Pembayaran, dan makroprudensial disepakati bersama antara Bank Indonesia dan DPR yang dibahas secara khusus dan tertutup. DPR dalam hal ini adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan.
 
 ```
-Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Angka 33 Pasal 61 Dihapus. Angka 34 Pasal 62 Ayat (1)
+Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Angka 33
+
+Pasal 61
+Dihapus. Angka 34 Pasal 62 Ayat (1)
 ```
 
 Cadangan umum digunakan untuk menambah modal atau menutup defisit Bank Indonesia.
@@ -152,7 +162,9 @@ Cukup jelas.
 Ayat (3) ...
 
 ```
-Ayat (3) Cukup jelas. Ayat (4) Dalam hal modal terrnasuk cadangan umum telah mencapai 10% (sepuluh persen) dari kewajiban moneter, sisa surplus yang merupakan bagian Pemerintah terlebih dahulu harus digunakan untuk membayar kewajiban Pemerintah kepada Bank Indonesia. Angka 35 Pasal 64A Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Materi muatan yang diatur dalam Peraturan Dewan Gubernur paling sedikit mencakup mekanisme dan kriteria/ persyaratan dalam pengelolaan kekayaan Bank Indonesia. Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Angka 36 Cukup jelas. Angka 37 Pasal 64B Cukup jelas. Pasal 10 Angka 1 Pasal 2 Ayat (1) Cukup jelas.
+Ayat (3) Cukup jelas. Ayat (4) Dalam hal modal terrnasuk cadangan umum telah mencapai 10% (sepuluh persen) dari kewajiban moneter, sisa surplus yang merupakan bagian Pemerintah terlebih dahulu harus digunakan untuk membayar kewajiban Pemerintah kepada Bank Indonesia. Angka 35
+
+Pasal 64A Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Materi muatan yang diatur dalam Peraturan Dewan Gubernur paling sedikit mencakup mekanisme dan kriteria/ persyaratan dalam pengelolaan kekayaan Bank Indonesia. Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Angka 36 Cukup jelas. Angka 37 Pasal 64B Cukup jelas. Pasal 10 Angka 1 Pasal 2 Ayat (1) Cukup jelas.
 ```
 
 Ayat (2) ...

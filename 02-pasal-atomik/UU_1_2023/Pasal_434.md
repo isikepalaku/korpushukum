@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '434'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,21 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
+Ayat (1)
+
+Ayat (2)
+
+Cukup jelas. Hurrf a
+Dalam hal pelaku Tindak Pidana sebagaimana dimaksud dalam ketentuan ini diberi kesempatan oleh hakim untuk membulrtikan kebenaran dari apa yang dihrduhkan, tetapi ia tidak dapat membuktikan bahwa yang dituduhkan itu benar, pelaku Tindak Pidana dipidana sebagai pemfitnahan.
+
+**Hurufb**
+
 Cukup jelas.
+
+Ayat (3)
+
+Pembuktian kebenaran tuduhan hanya dibolehkan apabila hakim memandang perlu untuk memeriksa kebenaran bahwa terdakwa melakukan perbuatan itu untuk kepentingan umurn, atau karena
+
+**INDONESIA u.]**
+
+terpaksa membela diri. Pembuktian kebenaran tuduhan juga diperbolehkan apabila yang dituduh adalah seorang pegawai negeri dan yang dituduhkan berkenaan dengan menjalankan tugasnya.

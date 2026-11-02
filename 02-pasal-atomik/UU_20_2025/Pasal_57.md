@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Ketentuan lebih lanjut mengenai bantuan teknis Penyidikan sebagaimana dimaksud dalam Pasal 55 dan**
+**Ketentuan lebih lanjut mengenai bantuan teknis Penyidikan sebagaimana dimaksud dalam Pasal 55 dan**Pasal 56 diatur dalam Peraturan Pemerintah.
+
+**Bagian Ketujuh**
+ Koordinasi antara Penyidik dan Penuntut Umum
 
 ## Penjelasan Resmi
 

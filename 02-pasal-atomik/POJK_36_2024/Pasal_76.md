@@ -22,7 +22,10 @@ Setiap Perusahaan Asuransi, Perusahaan Asuransi
 Syariah, atau Unit Syariah pada Perusahaan
 Asuransi secara individual maupun konsorsium
 yang menyelenggarakan Program Asuransi Wajib
-sebagaimana dimaksud dalam Pasal 75 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 75
+ayat (2)
 wajib memenuhi Peraturan OJK mengenai produk
 asuransi dan saluran pemasaran produk
 asuransi.
@@ -34,8 +37,35 @@ berikut:
 BAB IXA
 PELINDUNGAN KONSUMEN DAN MASYARAKAT
 
-44. Di antara Pasal 76 dan Pasal 77 disisipkan 1 (satu)
-pasal, yakni Pasal 76A sehingga berbunyi sebagai
+44. Di antara
+
+Pasal 76
+dan Pasal 77 disisipkan 1 (satu)
+pasal, yakni
+
+Pasal 76A sehingga berbunyi sebagai
+berikut:
+
+Pasal 76A
+(1) Perusahaan atau Unit Syariah menerapkan
+prinsip pelindungan konsumen dan masyarakat
+dalam penyelenggaraan usaha sesuai dengan
+ketentuan peraturan perundang-undangan
+mengenai pelindungan konsumen di sektor jasa
+keuangan.
+
+-----
+
+(2) Mekanisme dan tata cara penerapan prinsip
+pelindungan konsumen dan masyarakat
+sebagaimana dimaksud pada ayat (1)
+dilaksanakan sesuai dengan Peraturan OJK
+mengenai pelindungan konsumen dan masyarakat
+di sektor jasa keuangan dan Peraturan OJK terkait
+di bidang pelindungan konsumen sektor jasa
+keuangan.
+
+45. Ketentuan Pasal 77 diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -45,3 +75,11 @@ Cukup jelas.
 Angka 43
 
 Cukup jelas.
+
+Angka 44
+
+Pasal 76A
+
+Cukup jelas.
+
+Angka 45

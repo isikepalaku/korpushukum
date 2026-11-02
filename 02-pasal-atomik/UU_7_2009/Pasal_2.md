@@ -110,7 +110,10 @@ menetapkan Peraturan Pemerintah Pengganti
 Undang-Undang tentang Perubahan Atas UndangUndang Nomor 24 Tahun 2004 tentang Lembaga
 Penjamin Simpanan;
 
-Mengingat : 4. Pasal 22 ayat (1) Undang-Undang Dasar Negara
+Mengingat : 4.
+
+Pasal 22
+ayat (1) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945;
 
 2. Undang-Undang …
@@ -140,9 +143,11 @@ MEMUTUSKAN:
 Menetapkan : PERATURAN PEMERINTAH PENGGANTI UNDANGUNDANG TENTANG PERUBAHAN ATAS UNDANGUNDANG NOMOR 24 TAHUN 2004 TENTANG LEMBAGA
 PENJAMIN SIMPANAN.
 
-Pasal I
+Pasal 1
+Ketentuan
 
-Ketentuan Pasal 11 Undang-Undang Nomor 24 Tahun
+Pasal 11
+Undang-Undang Nomor 24 Tahun
 2004 tentang Lembaga Penjamin Simpanan (Lembaran
 Negara Republik Indonesia Tahun 2004 Nomor 96,
 Tambahan Lembaran Negara Republik Indonesia Nomor

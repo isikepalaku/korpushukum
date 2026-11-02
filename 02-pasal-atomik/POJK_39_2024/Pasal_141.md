@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pelaksanaan kegiatan usaha berdasarkan Prinsip Syariah
-sebagaimana dimaksud dalam Pasal 136 ayat (3) wajib
+sebagaimana dimaksud dalam
+
+Pasal 136
+ayat (3) wajib
 menggunakan akad dengan ketentuan:
 a. memenuhi prinsip keadilan (‘adl), keseimbangan
 (tawazun), kemaslahatan (maslahah), dan

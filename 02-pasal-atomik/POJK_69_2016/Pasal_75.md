@@ -52,7 +52,10 @@ Asuransi Wajib.
 
 (2) Program Asuransi Wajib sebagaimana dimaksud
 
-dalam Pasal 74 ayat (1) dapat diselenggarakan
+dalam
+
+Pasal 74
+ayat (1) dapat diselenggarakan
 
 secara individual maupun secara konsorsium.
 

@@ -37,3 +37,5 @@ Jika terjadi tindakan di luar mekanisme korporasi sebagaimana diatur dalam Pasal
 Yang dimaksud dengan okekayaan negara dalam Perum" adalah modal negara dalam Perum.
 
 Perum dibedakan dengan Persero karena sifat usahanya. Perum dalam usahanya lebih menekankan pada pelayanan demi kemanfaatan umum, baik pelayanan maupun penyediaan barang dan jasa.
+
+Angka 75

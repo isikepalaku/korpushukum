@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data perubahan nama sebagaimana dimaksud dalam Pasal 7 
+Data perubahan nama sebagaimana dimaksud dalam
+
+Pasal 7
 ayat (4) huruf k, terdiri dari elemen data: 
 a. 
 NIK/NIT; 

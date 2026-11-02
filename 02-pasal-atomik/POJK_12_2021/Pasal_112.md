@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dan/atau Pasal 114, KCBLN dikenai sanksi
+dan/atau
+
+Pasal 114, KCBLN dikenai sanksi
 
 administratif berupa:
 
@@ -33,7 +35,10 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2) dan melanggar ketentuan sebagaimana dimaksud
 
-dalam Pasal 108 ayat (2), Pasal 111 ayat (2), Pasal 112,
+dalam Pasal 108 ayat (2),
+
+Pasal 111
+ayat (2), Pasal 112,
 
 -----
 

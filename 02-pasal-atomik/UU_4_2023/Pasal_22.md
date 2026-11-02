@@ -84,7 +84,10 @@ Ketentuan yang diatur dalam Peraturan Otoritas Jasa Keuangan di antaranya mengen
 
 Kewajiban Pialang Asuransi, Pialang Reasuransi, dan Agen Asuransi terdaftar di Otoritas Jasa Keuangan, sedangkan untuk pembinaan dan pengawasan atas kegiatan yang dilakukan oleh individu Pialang Asuransi, Pialang Reasuransi, dan Agen Asuransi tetap menjadi tanggung jawab Perusahaan Pialang Asuransi, Perusahaan Pialang Reasuransi, dan Perusahaan
 
-Angka 11 Pasal 23 Cukup jelas. Angka 12 Pasal 27 Ayat (1) Asuransi.
+Angka 11
+
+Pasal 23
+Cukup jelas. Angka 12 Pasal 27 Ayat (1) Asuransi.
 
 Ayat (2)
 
@@ -111,3 +114,5 @@ Ayat (7)
 Cukup jelas.
 
 Ayat (8) ...
+
+Angka 13

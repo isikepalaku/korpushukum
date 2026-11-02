@@ -17,15 +17,47 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(5), ayat (6), ayat (7), Pasal 40 ayat (1), ayat (2), ayat (3),
-ayat (4), dan/atau ayat (5), pihak utama BPR dapat
-dikenai sanksi administratif berupa larangan sebagai
-pihak utama sesuai dengan Peraturan Otoritas Jasa
-Keuangan mengenai penilaian kembali bagi pihak utama
-lembaga jasa keuangan.
+(1) BPR wajib menetapkan kualitas Aset Produktif menjadi
+macet sebelum melakukan pengambilalihan AYDA.
+(2) Untuk melakukan pengambilalihan AYDA sebagaimana
+dimaksud pada ayat (1), BPR wajib melakukan penilaian
+terhadap setiap agunan.
+(3) Penilaian terhadap setiap agunan sebagaimana dimaksud
+pada ayat (2) yang dilakukan melalui:
+a. pelelangan, dilakukan sesuai dengan ketentuan
+peraturan perundang-undangan mengenai
+pelaksanaan lelang;
+b. di luar pelelangan, wajib dilakukan oleh:
+1. penilai independen untuk agunan dengan nilai
+paling sedikit Rp1.000.000.000,00 (satu miliar
+rupiah); dan
 
-BAB VII
-HAPUS BUKU
+-----
+
+2. penilai intern untuk agunan dengan nilai
+kurang dari Rp1.000.000.000,00 (satu miliar
+rupiah).
+(4) BPR wajib melakukan penilaian kembali secara berkala
+terhadap AYDA sesuai dengan standar akuntansi
+keuangan dan pedoman akuntansi BPR.
+(5) Penilaian kembali sebagaimana dimaksud pada ayat (4)
+wajib dilakukan oleh:
+a. penilai independen untuk AYDA dengan nilai paling
+sedikit Rp1.000.000.000,00 (satu miliar rupiah); dan
+b. penilai intern untuk AYDA dengan nilai kurang dari
+Rp1.000.000.000,00 (satu miliar rupiah).
+(6) Dalam hal nilai AYDA mengalami penurunan, BPR wajib
+mengakui penurunan nilai tersebut sebagai kerugian.
+(7) Dalam hal nilai AYDA mengalami peningkatan, BPR
+dilarang mengakui peningkatan nilai tersebut sebagai
+pendapatan.
+(8) Dalam melakukan pengambilalihan AYDA untuk
+penyelesaian Kredit, BPR menerapkan:
+a. prinsip kehati-hatian dan manajemen risiko; dan
+b. prinsip perlindungan konsumen sesuai dengan
+ketentuan peraturan perundang-undangan
+mengenai perlindungan konsumen dan masyarakat
+di sektor jasa keuangan.
 
 ## Penjelasan Resmi
 

@@ -99,3 +99,5 @@ Ayat (4)
 Yang dimaksud dengan ”tenaga ahli” dalam UndangUndang ini adalah orang perseorangan yang mempunyai
 keahlian di bidang Perdagangan Berjangka, baik warga
 negara Indonesia maupun warga negara asing.
+
+Angka 9

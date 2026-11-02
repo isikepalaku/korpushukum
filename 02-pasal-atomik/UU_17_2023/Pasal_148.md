@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemerintah Pusat dan Pemerintah Daerah bertanggung jawab mengatur dan mengawasi produksi, pengolahan, dan pendistribusian makanan dan minuman sebagaimana dimaksud dalam Pasal 146 dan Pasal 147.
+Pemerintah Pusat dan Pemerintah Daerah bertanggung jawab mengatur dan mengawasi produksi, pengolahan, dan pendistribusian makanan dan minuman sebagaimana dimaksud dalam
+
+Pasal 146
+dan Pasal 147.
 
 ## Bagian Kedua Puluh Empat
 

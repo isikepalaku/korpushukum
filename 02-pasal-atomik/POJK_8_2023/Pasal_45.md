@@ -18,8 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PJK dapat menerapkan prosedur CDD sederhana dari prosedur
-CDD sebagaimana dimaksud dalam Pasal 25, Pasal 26, Pasal
-27, Pasal 28, Pasal 29, dan Pasal 33, terhadap Calon Nasabah
+CDD sebagaimana dimaksud dalam Pasal 25,
+
+Pasal 26, Pasal 27, Pasal 28, Pasal 29, dan Pasal 33, terhadap Calon Nasabah
 atau Nasabah dan/atau transaksi yang tingkat risiko terjadinya
 TPPU, TPPT, dan/atau PPSPM termasuk kriteria berisiko
 rendah berdasarkan identifikasi yang telah dilakukan melalui
@@ -62,22 +63,33 @@ informasi dengan ketentuan:
 
 a. bagi Calon Nasabah orang perseorangan yang memenuhi
 ketentuan sebagaimana dimaksud pada ayat (1), PJK wajib
-meminta informasi sebagaimana dimaksud dalam Pasal 25
+meminta informasi sebagaimana dimaksud dalam
+
+Pasal 25
 ayat (1) huruf a angka 1 butir a), butir b), butir c), dan
 butir d);
 b. bagi Calon Nasabah Korporasi, lembaga negara atau
 instansi pemerintah yang memenuhi ketentuan
 sebagaimana dimaksud pada ayat (1), PJK wajib meminta
-informasi sebagaimana dimaksud dalam Pasal 25 ayat (1)
+informasi sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (1)
 huruf b angka 1 dan angka 4;
 c. bagi Calon Nasabah perikatan lainnya (legal arrangement)
 yang memenuhi ketentuan sebagaimana dimaksud pada
 ayat (1), PJK wajib meminta informasi sebagaimana
-dimaksud dalam Pasal 25 ayat (1) huruf c angka 1 dan
+dimaksud dalam
+
+Pasal 25
+ayat (1) huruf c angka 1 dan
 angka 3; dan
 d. bagi Calon Nasabah yang memenuhi ketentuan
 sebagaimana dimaksud pada ayat (1), PJK wajib meminta
-informasi sebagaimana dimaksud dalam Pasal 25 ayat (1)
+informasi sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (1)
 huruf a angka 1 butir a), butir b), butir c), butir d), dan
 butir f).
 (5) Informasi sebagaimana dimaksud pada ayat (4), wajib
@@ -90,6 +102,60 @@ ditunjuk mempunyai wewenang bertindak untuk dan atas
 nama perusahaan, bagi Calon Nasabah Korporasi berupa
 perusahaan yang tergolong usaha mikro dan usaha kecil
 yang memenuhi ketentuan sebagaimana dimaksud dalam
+
+Pasal 27
+ayat (1) huruf a;
+c. dokumen identitas perusahaan dan dokumen identitas
+anggota Direksi atau pemegang kuasa dari anggota Direksi
+yang berwenang mewakili perusahaan, bagi Calon
+Nasabah Korporasi berupa perseroan perorangan yang
+memenuhi ketentuan sebagaimana dimaksud dalam
+
+Pasal 27
+ayat (1) huruf c; atau
+d. dokumen lainnya sebagai pengganti dokumen identitas
+yang dapat memberikan keyakinan kepada PJK tentang
+profil Calon Nasabah, dan spesimen tanda tangan, bagi
+Calon Nasabah Korporasi di luar sebagaimana dimaksud
+dalam huruf b dan huruf c, dan Calon Nasabah yang
+tujuan pembukaan rekening terkait dengan program
+pemerintah.
+
+-----
+
+(6) Dalam hal PJK menerapkan prosedur CDD sederhana
+tersendiri sebagaimana dimaksud pada ayat (1), PJK wajib
+memberitahukan kepada Otoritas Jasa Keuangan meliputi
+informasi mengenai:
+a. kriteria identifikasi Nasabah dan transaksi berisiko rendah
+konsisten dengan penilaian risiko yang dilakukan oleh
+PJK;
+b. persyaratan CDD sederhana mampu mengelola tingkat
+ancaman TPPU, TPPT, dan/atau PPSPM terhadap Calon
+Nasabah dan transaksinya yang telah diidentifikasi
+dengan tingkat risiko rendah terhadap TPPU, TPPT,
+dan/atau PPSPM;
+c. persyaratan CDD sederhana tidak mencakup Nasabah
+yang berdasarkan peraturan perundang-undangan
+dikategorikan sebagai Nasabah atau transaksi yang
+berisiko tinggi; dan
+b. waktu dimulainya penerapan prosedur CDD sederhana.
+(7) Prosedur CDD sederhana sebagaimana dimaksud pada ayat (1),
+tidak berlaku jika terdapat dugaan terjadi transaksi TPPU,
+TPPT, dan/atau PPSPM atau terjadi peningkatan skenario
+tingkat risiko yang spesifik.
+(8) PJK wajib membuat dan menyimpan daftar Nasabah yang
+mendapat perlakuan CDD sederhana.
+(9) Dalam hal penggunaan rekening tidak sesuai dengan tujuan,
+PJK wajib melakukan prosedur CDD sebagaimana dimaksud
+dalam Pasal 25 ayat (1) huruf a dan
+
+Pasal 26
+terhadap Nasabah
+yang bersangkutan.
+
+Bagian Keenam
+Pelaksanaan CDD oleh Pihak Ketiga
 
 ## Penjelasan Resmi
 

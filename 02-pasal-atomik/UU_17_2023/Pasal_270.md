@@ -28,6 +28,5 @@ Keanggotaan Konsil berasal dari unsur:
 
 Cukup jelas.
 
-Pasal2Tl
-
+Pasal 271
 Cukup je1as.

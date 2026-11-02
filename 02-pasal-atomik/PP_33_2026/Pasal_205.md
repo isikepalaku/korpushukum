@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal hasil verifikasi dokumen dan Informasi terhadap laporan sebagaimana dimaksud dalam Pasal 202 ayat (1) tidak ditemukan adanya unsur pelanggaran tindak pidana danjatau unsur pelanggaran administratif, Lembaga memiasilitasi Para Pihak yang Bersengketa dalam penyelesaian Sengketa.
+Dalam hal hasil verifikasi dokumen dan Informasi terhadap laporan sebagaimana dimaksud dalam
+
+Pasal 202
+ayat (1) tidak ditemukan adanya unsur pelanggaran tindak pidana danjatau unsur pelanggaran administratif, Lembaga memiasilitasi Para Pihak yang Bersengketa dalam penyelesaian Sengketa.
 
 **Bagian Ketiga**
 

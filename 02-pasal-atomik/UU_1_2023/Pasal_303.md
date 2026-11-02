@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '303'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,14 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
+Ayat (1)
+
 Cukup jelas.
+
+Ayat(2)
+
+Yang dimaksud dengan "pertemuan keagamaan" adalah kegiatan yang berhubungan dengan agama atau kepercayaan.
+
+Ayat (3)
+
+Yang dimaksud dengan "upacara keagamaan" adalah upacara yang berhubungan dengan agama atau kepercayaan.

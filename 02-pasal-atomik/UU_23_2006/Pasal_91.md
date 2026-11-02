@@ -22,13 +22,18 @@ ayat (5) yang berpergian tidak membawa KTP dikenakan
 denda administratif paling banyak Rp 50.000,00 (lima
 puluh ribu rupiah).
 (2) Setiap Orang Asing yang memiliki Izin Tinggal Terbatas
-sebagaimana dimaksud dalam Pasal 20 ayat (4) yang
+sebagaimana dimaksud dalam
+
+Pasal 20
+ayat (4) yang
 berpergian tidak membawa Surat Keterangan Tempat
 Tinggal dikenai denda administratif paling banyak Rp
 100.000,00 (seratus ribu rupiah).
 (3) Ketentuan lebih lanjut mengenai denda administratif
 sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur
 dalam Peraturan Presiden.
+
+Pasal 92 . . .
 
 ## Penjelasan Resmi
 

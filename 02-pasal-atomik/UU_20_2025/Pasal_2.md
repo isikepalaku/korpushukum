@@ -18,26 +18,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(1) Penuntut Umum dengan izin Hakim ketua sidang**
+**(1) Acara pidana dilaksanakan hanya berdasarkan tata**
 
-**memperlihatkan kepada Terdakwa semua alat bukti dan menanyakan kepada Terdakwa apakah mengenal alat bukti tersebut dengan memperhatikan ketentuan**
-sebagaimana dimaksud dalam Pasal 214.
-
-**(2)Jika...**
-
------
-
-PRESIDEN
-REPUEUK INDONESIA
-
-**-tL7-**
-
-**(2) Jika izin Hakim ketua sidang diperlukan, alat bukti**
- diperlihatkan juga oleh Penuntut Umum kepada Saksi.
-**(3) Untuk kepentingan pembuktian, Hakim ketua sidang**
-
-**dapat membacakan atau memperlihatkan surat atau berita acara kepada Terdgkwa atau Saksi dan selanjutnya meminta keterangan yang diperlukan**
-mengenai hal tersebut kepada Terdakwa atau Saksi.
+cara yang diatur dalam Undang-Undang.
+**(2) Acara pidana dilaksanakan dengan sistem peradilan**
+ pidana terpadu atas dasar prinsip diferensiasi fungsional yang menekankan fungsi Penyidikan pada Kepolisian Negara Republik Indonesia, Penuntutan pada Jaksa, pemeriksaan pengadilan pada Hakim, Advokat yang memberikan Jasa Hukum dan Bantuan
+ Hukum dalam rangka mendudukkan peristiwa pidana secara profesional dan proporsional serta Pembimbing
+Kemasyarakatan yang melaksanakan fungsi pembinaan
+**terhadap narapidana dan Terpidana.**
 
 ## Penjelasan Resmi
 

@@ -17,8 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Pembentukan UUS sebagaimana dimaksud dalam Pasal
-20 ayat (1) wajib memperoleh izin pembentukan UUS
+(1) Pembentukan UUS sebagaimana dimaksud dalam Pasal 20 ayat (1) wajib memperoleh izin pembentukan UUS
 dari Otoritas Jasa Keuangan.
 (2) Untuk memperoleh izin pembentukan UUS
 sebagaimana dimaksud pada ayat (1), Direksi harus

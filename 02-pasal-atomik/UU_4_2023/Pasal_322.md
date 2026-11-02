@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '322'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -30,4 +30,6 @@ Ketentuan Peralihan Terkait Literasi Keuangan, Inklusi Keuangan, dan Pelindungan
 
 ## Penjelasan Resmi
 
+Pasal 323
+Pasal 324 Pasal 325 Pasal 326 Pasal 327 Pasal 328 Pasal 329 Pasal 330 Pasal 331 Pasal 332 Pasal 333 Pasal 334
 Cukup jelas.

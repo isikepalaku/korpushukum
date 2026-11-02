@@ -25,7 +25,9 @@ mengamandemen: []
 ```
  - 52 Bapepam dapat menetapkan transaksi Efek yang
 tidak termasuk transaksi Efek yang dilarang
-sebagaimana dimaksud dalam Pasal 95 dan Pasal 96.
+sebagaimana dimaksud dalam Pasal 95 dan
+
+Pasal 96.
 
 **BABXII**
 

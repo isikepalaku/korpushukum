@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang menyalahgunakan wewenang dalam mengalihkan nomor porsi dan/ a'tau kuota haji Indonesia sebagaimana dimaksud dalam Pasal 116A dipidana dengan pidana penjara paling lama 8 (delapan) tahun dan/ atau dipidana dengan pidana denda paling banyak kategori VI.
+Setiap Orang yang menyalahgunakan wewenang dalam mengalihkan nomor porsi dan/ a'tau kuota haji Indonesia sebagaimana dimaksud dalam
+
+Pasal 116A dipidana dengan pidana penjara paling lama 8 (delapan) tahun dan/ atau dipidana dengan pidana denda paling banyak kategori VI.
 
 105. Ketentuan Pasd 124 diubah sehingga berbunyi sebagai berikut:
 

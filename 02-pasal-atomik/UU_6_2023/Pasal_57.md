@@ -27,7 +27,10 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Angka 20 Pasal 195 Cukup jelas. Angka 21 Pasal 196 Cukup jelas. Angka22 Pasal 203 Cukup jelas. Angka 23 Pasal 2O4 Cukup jelas. Angka24 Pasal 210 Cukup jelas. Angka 1 Pasal 5 Ayat (1)
+Angka 20
+
+Pasal 195
+Cukup jelas. Angka 21 Pasal 196 Cukup jelas. Angka22 Pasal 203 Cukup jelas. Angka 23 Pasal 2O4 Cukup jelas. Angka24 Pasal 210 Cukup jelas. Angka 1 Pasal 5 Ayat (1)
 
 Yang dimaksud dengan "dikuasai oleh negara" yaitu bahwa negara mempunyai hak penguasaan atas penyelenggaraan Pelayaran yang perwujudannya meliputi aspek pengaturan, pengendalian, dan pengawasan.
 

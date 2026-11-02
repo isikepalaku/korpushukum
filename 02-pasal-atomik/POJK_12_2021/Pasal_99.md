@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), Pasal 113 ayat (1),
+ayat (1),
+
+Pasal 113
+ayat (1),
 
 ## Penjelasan Resmi
 

@@ -19,18 +19,30 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan izin pembentukan UUS
-sebagaimana dimaksud dalam Pasal 81 ayat (2) dalam
+sebagaimana dimaksud dalam
+
+Pasal 81
+ayat (2) dalam
 jangka waktu paling lambat 20 (dua puluh) hari kerja
 sejak permohonan izin pembentukan UUS diterima
 secara lengkap.
 (2) Berdasarkan pelaporan pelaksanaan RUPS yang
 menyetujui Penggabungan sebagaimana dimaksud
-dalam Pasal 80 ayat (2) dan dalam hal terdapat
+dalam
+
+Pasal 80
+ayat (2) dan dalam hal terdapat
 permohonan izin pembentukan UUS sebagaimana
-dimaksud dalam Pasal 81 ayat (1), Otoritas Jasa
+dimaksud dalam
+
+Pasal 81
+ayat (1), Otoritas Jasa
 Keuangan melakukan:
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 80 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 80
+ayat (2)
 dan Pasal 81 ayat (2);
 b. pencabutan izin usaha dan/atau izin
 pembentukan UUS dari Perusahaan yang
@@ -45,7 +57,9 @@ Perusahaan yang merupakan hasil Penggabungan
 sejak anggaran dasar disetujui oleh, atau
 diberitahukan kepada instansi yang berwenang.
 (3) Dalam hal terdapat kekurangan dokumen sebagaimana
-yang dimaksud dalam Pasal 80 ayat (2) dan Pasal 81
+yang dimaksud dalam Pasal 80 ayat (2) dan
+
+Pasal 81
 ayat (2), Otoritas Jasa Keuangan menyampaikan
 permintaan kelengkapan dokumen kepada Perusahaan.
 (4) Perusahaan harus menyampaikan kelengkapan

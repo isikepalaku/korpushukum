@@ -17,9 +17,18 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (4), Pasal 39 ayat (2), Pasal 39 ayat (3), Pasal 41
-ayat (2), Pasal 41 ayat (3), Pasal 44, Pasal 47, Pasal 52
-ayat (1), Pasal 53 ayat (5), Pasal 54 ayat (1), Pasal 54 ayat
+ayat (4),
+
+Pasal 39
+ayat (2), Pasal 39 ayat (3), Pasal 41
+ayat (2),
+
+Pasal 41
+ayat (3), Pasal 44, Pasal 47, Pasal 52
+ayat (1),
+
+Pasal 53
+ayat (5), Pasal 54 ayat (1), Pasal 54 ayat
 (3), Pasal 57 ayat (1), Pasal 59 ayat (1), Pasal 59 ayat (4),
 
 ## Penjelasan Resmi

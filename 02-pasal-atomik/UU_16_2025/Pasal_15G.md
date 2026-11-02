@@ -30,9 +30,10 @@ mengamandemen: []
 - (8) Ketentuan lebih lanjut mengenai rencana kerja jangka panjang sebagaimana dimaksud pada ayat (1) dan rencana kerja tahunan sebagaimana dimalsud pada ayat (3) diatur dalam Peraturan BP BUMN.
 33. Ketentuan Pasal 15I diubah sehingga berbunyi sebagai berikut:
 
-## Pasal l5I
+## Pasal 151
+Ketentuan lebih lanjut mengenai rencana kerja sebagaimana dimaksud dalam Pasal 15G dan laporan tahunan Persero sebagaimana dimaksud dalam
 
-Ketentuan lebih lanjut mengenai rencana kerja sebagaimana dimaksud dalam Pasal 15G dan laporan tahunan Persero sebagaimana dimaksud dalam Pasal 15H diatur dalam Peraturan BP BUMN.
+Pasal 15H diatur dalam Peraturan BP BUMN.
 
 34. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 

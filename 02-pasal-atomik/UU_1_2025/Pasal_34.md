@@ -34,3 +34,5 @@ Cukup jelas.
 Angka 68
 
 Cukup jelas.
+
+Angka 69

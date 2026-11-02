@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) 
-Penyelenggara sebagaimana dimaksud dalam Pasal 51 
+Penyelenggara sebagaimana dimaksud dalam
+
+Pasal 51
 ayat (3), terdiri dari: 
 a. 
 Sekretaris Direktorat Jenderal Kependudukan dan 
@@ -35,7 +37,10 @@ daya
 manusia 
 sebagaimana 
 dimaksud 
-dalam Pasal 30 huruf a sampai dengan huruf o. 
+dalam
+
+Pasal 30
+huruf a sampai dengan huruf o. 
 (2) 
 Satuan Kerja Pelaksana sebagaimana dimaksud dalam
 

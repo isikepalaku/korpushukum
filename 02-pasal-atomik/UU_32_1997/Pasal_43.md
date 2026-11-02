@@ -10,7 +10,6 @@ tags:
 - uu/uu_32_1997
 status_berlaku: diubah
 diamandemen_oleh:
-- '[[02-pasal-atomik/UU_10_2011/Pasal_43|UU 10/2011 Pasal 43]]'
 - '[[02-pasal-atomik/UU_4_2023/Pasal_43|UU 4/2023 Pasal 43]]'
 mengamandemen: []
 ---

@@ -17,51 +17,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(4) Penawaran Efek secara bertahap sebagaimana
-dimaksud pada ayat (1) dapat menggunakan lebih dari
-1 (satu) Proyek untuk menjadi dasar penerbitan Efek
-bersifat utang atau Sukuk.
-(5) Dalam hal Penawaran Efek secara bertahap dilakukan
-dengan lebih dari 1 (satu) Proyek sebagaimana
-dimaksud pada ayat (4), Penerbit harus
-mengungkapkan seluruh Proyek yang akan menjadi
-dasar penerbitan.
-(6) Sebelum melaksanakan penawaran Efek bersifat utang
-atau Sukuk tahap kedua dan seterusnya, paling lambat
-5 (lima) hari kerja sebelum dimulainya masa
-penawaran, Penerbit wajib menyampaikan
-pemberitahuan pelaksanaan penawaran Efek disertai
-informasi tambahan dan dokumen pendukungnya
-kepada Penyelenggara.
-(7) Penyelenggara wajib:
-a. mengumumkan pelaksanaan penawaran Efek
-bersifat utang atau Sukuk tahap kedua dan
-seterusnya melalui situs web Penyelenggara; dan
-b. memuat informasi tambahan dan dokumen
-pendukung dalam situs web Penyelenggara,
-paling lambat 2 (dua) hari kerja sebelum dimulainya
-masa penawaran tahap kedua dan seterusnya.
-(8) Informasi tambahan sebagaimana dimaksud pada
-ayat (6) wajib memuat paling sedikit:
-a. uraian mengenai Proyek yang menjadi dasar
-penerbitan Efek bersifat utang atau Sukuk;
-b. jumlah dana yang telah dihimpun;
-c. jumlah Efek yang ditawarkan;
-d. harga, suku bunga, besaran nisbah bagi hasil,
-margin, dan/atau imbal jasa atau imbal hasil
-dengan cara lain yang ditetapkan untuk Efek
-bersifat utang atau Sukuk;
-e. rencana penggunaan dana;
-f. masa penawaran; dan
-g. pernyataan Penerbit yang menyatakan Penerbit
-tidak sedang mengalami gagal bayar sampai
-dengan penyampaian informasi tambahan.
-
------
-
- - 62
-Bagian Kedelapan
-Pelaksanaan Perdagangan Efek
+(1) Penawaran Efek oleh setiap Penerbit melalui Layanan
+Urun Dana bukan merupakan penawaran umum
+sebagaimana dimaksud dalam Undang-Undang
+mengenai pasar modal jika:
+a. penawaran Efek dilakukan melalui Penyelenggara
+yang telah memperoleh izin dari Otoritas Jasa
+Keuangan;
+b. penawaran Efek dilakukan dalam jangka waktu
+paling lama 12 (dua belas) bulan; dan
+c. total dana yang dihimpun melalui penawaran Efek
+paling banyak Rp10.000.000.000,00 (sepuluh
+miliar rupiah).
+(2) Dalam kondisi tertentu Otoritas Jasa Keuangan dapat
+menetapkan nilai total penghimpunan dana selain nilai
+sebagaimana dimaksud pada ayat (1) huruf c.
 
 ## Penjelasan Resmi
 

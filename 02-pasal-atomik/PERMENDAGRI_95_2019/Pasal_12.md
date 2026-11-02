@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data Kelahiran sebagaimana dimaksud dalam Pasal 7 ayat (4) 
+Data Kelahiran sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (4) 
 huruf a, terdiri dari elemen data: 
 a. 
 NIK/NIT; 

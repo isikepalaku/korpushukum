@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '73'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -29,4 +29,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Dalam ketentuan ini ditetapkan syarat yang harus dipenuhi selama masa percobaan. Syarat untuk tidak melakukan Tindak Pidana selama masa percobaan merupakan syarat umum. Sedangkan syarat khusus dalam masa percobaan adalah perbuatan tertentu yang harus dihindari atau harus dilat&lt;ukan oleh narapidana, misatrya, tidak boleh minum minuman keras. Syarat khusus tersebut tidak boleh mengurangi hak narapidana, misalnya, hak menganut dan menjalankan ibadah sesuai dengan agama atau kepercayaannya. Ayat (2) Dalam ketenhran ini perubahan atas syarat khusus dapat dilakukan dengan mempertimbangkan hasil pembimbingan terhadap narapidana yang bersangkutan. Ayat (s) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas.

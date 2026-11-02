@@ -20,7 +20,10 @@ mengamandemen:
 ## Batang Tubuh
 
 Pengaturan, pengembangan, pembinaan, dan pengawasan
-sebagaimana dimaksud dalam Pasal 4 ayat (1), dilakukan
+sebagaimana dimaksud dalam
+
+Pasal 4
+ayat (1), dilakukan
 dengan tujuan:
 
 a. mewujudkan kegiatan Perdagangan Berjangka yang
@@ -87,3 +90,5 @@ luas segera setelah terjadinya transaksi, sangat
 bermanfaat bagi dunia usaha di dalam negeri dan di luar
 negeri serta bagi petani sebagai dasar dalam pengambilan
 keputusan yang sekaligus memperkuat daya tawarmenawar.
+
+Angka 6

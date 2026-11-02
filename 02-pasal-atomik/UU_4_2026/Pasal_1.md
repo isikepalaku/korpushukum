@@ -86,6 +86,12 @@ Dalam Undang-Undang ini yang dimalsud dengan:
 
 **PRESIDEN REPUBLIK INDOilESIA**
 
+**Pasal 17B**
+
+- (1) Dalam rangka penguatan struktur, daya saing, dan ketahanan Perbankan nasional, Otoritas Jasa Keuangan men5rusun peta jalan konsolidasi Bank Umum Syariah.
+- 12) Ketentuan lebih lanjut mengenai peta jalan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Otoritas Jasa Keuangan dengan berpedoman pada ketentuan peraturan perundang-undangan di bidang Perbankan Syariah.
+60. Ketentuan Pasal 20 pada angka 12 dalam Pasal 15 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

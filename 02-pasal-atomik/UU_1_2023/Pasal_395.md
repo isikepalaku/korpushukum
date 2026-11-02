@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '395'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,5 +25,17 @@ mengamandemen: []
 **REPUEL|K INDONESIA**
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Yang dimaksud dengan "Surat keterangan tentang keadaan kesehatan" termasuk kesehatan fisik dan kesehatan jiwa.
+
+Yang dimaksud dengan "Surat keterangan tentang kematian" termasuk keterangan kematian seseorang atau sebab kematian (ui"sam et repertunl.
+
+Ayat(21
+
+Cukup jelas.
+
+Ayat (s)
 
 Cukup jelas.

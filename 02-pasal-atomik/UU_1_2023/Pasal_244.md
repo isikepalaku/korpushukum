@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '244'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,10 @@ Setiap Orang yang melakukan pembedaan, pengecualian, pembatasan, atau pemilihan 
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "pembedaan" misalnya, pimpinan suatu perusahaan yang melakukan pembedaan terhadap gaji atau upah pegawainya berdasarkan pada suku tertentu.
+
+Yang dimaksud dengan "pengecualian", misalnya, pengecualian seseorang dari ras atau etrris tertentu untuk menjadi pegawai atau karyawan tertenhr.
+
+Yang dimaksud dengan "pembatasan", misalnya, pembatasan seseorang dari ras atau etnis tertentu untuk memasuki lembaga pendidikan atau untuk menduduki suatu jabatan publik hanya seseorang dari ras atau etnis tertentu.
+
+Yang dimaksud dengan "pemilihan", misalnya, pemilihan untuk jabatan tertentu berdasarkan pada ras atau etnis tertenhr.

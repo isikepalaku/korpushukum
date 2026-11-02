@@ -21,7 +21,10 @@ mengamandemen: []
 
 perubahan sertifikat Jaminan Fidusia melalui bank
 persepsi berdasarkan bukti pendaftaran sebagaimana
-dimaksud dalam Pasal 12 ayat (2).
+dimaksud dalam
+
+Pasal 12
+ayat (2).
 
 (2) Pendaftaran perubahan sertifikat Jaminan Fidusia dicatat
 

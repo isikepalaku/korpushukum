@@ -18,8 +18,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan lebih lanjut mengenai bentuk dan susunan
-Laporan Berkala sebagaimana dimaksud dalam Pasal 2
-sampai dengan Pasal 6 ditetapkan oleh Otoritas Jasa
+Laporan Berkala sebagaimana dimaksud dalam
+
+Pasal 2
+sampai dengan
+
+Pasal 6
+ditetapkan oleh Otoritas Jasa
 Keuangan.
 
 Bagian Kedua

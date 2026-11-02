@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) Selain CDD yang dipersyaratkan bagi Calon Nasabah dan
 Pemilik Manfaat (Beneficial _Owner)_ sebagaimana
-dimaksud dalam Pasal 19, PJK wajib melakukan CDD
+dimaksud dalam
+
+Pasal 19, PJK wajib melakukan CDD
 terhadap penerima manfaat (beneficiary) dari asuransi jiwa
 dan produk investasi lain terkait dengan polis asuransi,
 segera setelah penerima manfaat (beneficiary)

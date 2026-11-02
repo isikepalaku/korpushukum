@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai pendayagunaan Tenaga Medis spesialis dan subspesialis serta Tenaga Kesehatan tingkat kompetensi tertentu warga negara asing lulusan luar negeri sebagaimana dimaksud dalam Pasal 248 sampai dengan Pasal 255 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai pendayagunaan Tenaga Medis spesialis dan subspesialis serta Tenaga Kesehatan tingkat kompetensi tertentu warga negara asing lulusan luar negeri sebagaimana dimaksud dalam Pasal 248 sampai dengan
+
+Pasal 255
+diatur dengan Peraturan Pemerintah.
 
 ## Bagian Kelima
 

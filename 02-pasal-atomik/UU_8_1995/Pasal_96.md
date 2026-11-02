@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Orang dalam sebagaimana dimaksud dalam Pasal 95 dilarang:
+Orang dalam sebagaimana dimaksud dalam
+
+Pasal 95
+dilarang:
 
  a. mempengaruhi Pihak lain untuk melakukan pembelian atau
 

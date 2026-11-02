@@ -38,7 +38,9 @@ dan/atau
 b. Pejabat Eksekutif BPR atau BPR Syariah hasil
 Penggabungan sebagaimana dimaksud pada ayat (1)
 harus memenuhi persyaratan sebagaimana
-dimaksud dalam Pasal 55.
+dimaksud dalam
+
+Pasal 55.
 
 ## Penjelasan Resmi
 
@@ -56,7 +58,10 @@ aset yang berlaku bagi BPR atau BPR Syariah.
 Ayat (2)
 
 Huruf a
-Lihat penjelasan Pasal 9 ayat (4) huruf b angka 2.
+Lihat penjelasan
+
+Pasal 9
+ayat (4) huruf b angka 2.
 
 -----
 

@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Perkiraan biaya penyelamatan sebagaimana dimaksud
 
- dalam Pasal 22 ayat (2) meliputi penambahan modal
+ dalam
+
+Pasal 22
+ayat (2) meliputi penambahan modal
 
  sampai bank tersebut memenuhi ketentuan tingkat
 
@@ -28,7 +31,10 @@ mengamandemen: []
 
  (2) Perkiraan biaya tidak melakukan penyelamatan
 
- sebagaimana dimaksud dalam Pasal 22 ayat (2)
+ sebagaimana dimaksud dalam
+
+Pasal 22
+ayat (2)
 
  memperhitungkan biaya pembayaran Simpanan nasabah
 

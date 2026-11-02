@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang sebagaimana dimaksud dalam Pasal 434 dan Pasal 436 sampai dengan Pasal 439 dapat dijatuhi pidana tambahan berupa pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf a, huruf b, huruf c, dan/ atau huruf d.
+Setiap Orang sebagaimana dimaksud dalam Pasal 434 dan
+
+Pasal 436
+sampai dengan Pasal 439 dapat dijatuhi pidana tambahan berupa pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf a, huruf b, huruf c, dan/ atau huruf d.
 
 **BAB XVIII**
 

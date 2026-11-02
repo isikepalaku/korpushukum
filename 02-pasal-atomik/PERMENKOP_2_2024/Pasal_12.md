@@ -26,7 +26,7 @@ mengamandemen: []
 BABV
 ###### KETENTUANLAIN-LAIN
 
- Pasa113 KSPjUSP Koperasi, KSPPSjUSPPS Koperasi, dan Koperasi Sektor Riil wajib menerapkan kebijakan akuntansi Koperasi yang menggunakan SAK Indonesia untuk Entitas Privat paling lambat tahun buku 2025.
+ Pasal 13 KSPjUSP Koperasi, KSPPSjUSPPS Koperasi, dan Koperasi Sektor Riil wajib menerapkan kebijakan akuntansi Koperasi yang menggunakan SAK Indonesia untuk Entitas Privat paling lambat tahun buku 2025.
 
 ## Penjelasan Resmi
 

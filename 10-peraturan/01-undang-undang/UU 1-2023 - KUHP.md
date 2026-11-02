@@ -24,9 +24,9 @@ kelengkapan: lengkap
 verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+last_updated: 2026-11-03
 penjelasan: ada
-penjelasan_pasal_demi_pasal: false
+penjelasan_pasal_demi_pasal: true
 penjelasan_normatif: false
 struktur_teks: terpartisi
 anchor_pasal: true
@@ -175,7 +175,9 @@ Penerapan ketentuan sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 8 dib
 
 Bagian Ketiga Waktu Tindak Pidana
 
-Pasal 10 Waktu Tindak Pidana merupakan saat dilakukannya perbuatan yang dapat dipidana.
+### Pasal 10 ^pasal-10
+
+Waktu Tindak Pidana merupakan saat dilakukannya perbuatan yang dapat dipidana.
 
 Bagran Keem,at . . .
 
@@ -213,7 +215,9 @@ Paragraf 2 Permufakatan Jahat
 - (3) Pidana untuk permufakatan jahat melakukan Tindak Pidana paling banyak I /3 (satu per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan. l4l Permufakatan jahat melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup dipidana dengan pidana penjara paling lama 7 (tujuh) tahun. (5) Pidana tambahan untuk permufakatan jahat
 2. melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
 
-Pasal 14 Permufakatan jahat melakukan Tindak Pidana tidak
+### Pasal 14 ^pasal-14
+
+Permufakatan jahat melakukan Tindak Pidana tidak
 
 dipidana, jika pelaku:
 
@@ -278,7 +282,7 @@ Setiap Orang dipidana sebagai pelaku Tindak Pidana jika:
 
 <!-- image -->
 
-**Pasal 2 I**
+### Pasal 21 ^pasal-21
 
 - (1) Setiap Orang dipidana sebagai pembantu Tindak Pidana jika dengan sengaja:
 - a. memberi kesempatan, sar€rna, atau keterangan untuk melakukan Tindak Pidana; atau
@@ -288,7 +292,7 @@ Setiap Orang dipidana sebagai pelaku Tindak Pidana jika:
 6. (41 Pembantuan melakukan Tindak Pidana yang diancam dengan pidana mati atau pidana penjara seumur hidup, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
 - (5) Pidana tambahan untuk pembantuan melakukan Tindak Pidana sama dengan pidana tambahan untuk Tindak Pidana yang bersangkutan.
 
-**Pasa722**
+### Pasal 22 ^pasal-22
 
 Keadaan pribadi pelaku sebagaimana dimaksud dalam Pasal 2O atau pembantu sebagaimana dimaksud dalam Pasal 21 dapat menghapus, mengurangi, atau memperberat pidananya.
 
@@ -475,7 +479,7 @@ Bagian Kesatu Ttrjuan dan Pedoman Pemidanaan
 
 Paragraf 1 T\:juan Pemidanaan
 
-**Pasal 5l**
+### Pasal 51 ^pasal-51
 
 Pemidanaan bertujuan:
 
@@ -488,7 +492,9 @@ Pemidanaan bertujuan:
 - c menyelesaikan konflik yang ditimbulkan akibat Tindak Pidana, memulihkan keseimbangan, serta mendatangkan rasa arnan dan damai dalam masyarakat; dan
 - d menumbuhkan rasa penyesalan dan membebaskan rasa bersalah pada terpidana.
 
-Pasal 52 Pemidanaan tidak dimaksudkan untuk merendahkan martabat manusia.
+### Pasal 52 ^pasal-52
+
+Pemidanaan tidak dimaksudkan untuk merendahkan martabat manusia.
 
 **Paragraf 2 Pedoman Pemidanaan**
 
@@ -642,7 +648,7 @@ Pidana yang bersifat khusus sebagaimana dimaksud dalam Pasal 64 huruf c merupaka
 - (1) Jika narapidana yang menjalani pidana penjara seumur hidup telah menjalani pidana penjara paling singkat 15 (lima belas) tahun, pidana penjara seumur hidup dapat diubah menjadi pidana penjara 20 (dua puluh) tahun dengan Keputusan Presiden setelah mendapatkan pertimbangan Mahkamah Agung.
 2. l2l Ketentuan mengenai tata cara perubahan pidana penjara seumur hidup menjadi pidana penjara 20 (dua puluh) tahun sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
 
-**Pasal 7O**
+### Pasal 70 ^pasal-70
 
 - (1) Dengan tetap mempertimbangkan ketentuan sebagaimana dimaksud dalam Pasal 51 sampai dengan Pasal 54, pidana penjara sedapat mungkin tidak dijatuhkan jika ditemukan keadaan:
 - a. terdakwa adalah Anak;
@@ -682,7 +688,7 @@ Pidana yang bersifat khusus sebagaimana dimaksud dalam Pasal 64 huruf c merupaka
 - (3) Pidana denda yang dapat dijatuhkan berdasarkan ketentuan sebagaimana dimaksud pada ayat (1) adalah pidana denda paling banyak kategori V dan pidana denda paling sedikit kategori III.
 - (41 Ketentuan sebagaimana dimaksud pada ayat (21 huruf c tidak berlaku bagi orang yang pernah dijatuhi pidana penjara untuk Tindak Pidana yang dilakukan sebelum berumur 18 (delapan belas) tahun.
 
-Pasal T2
+### Pasal 72 ^pasal-72
 
 - (1) Narapidana yang telah menjalani paling singkat 2l 3 ldua per tiga) dari pidana penjara yang dijatuhkan dengan ketentuan 213 ldua per tiga) tersebut tidak kurang dari 9 (sembilan) Bulan dapat diberi pembebasan bersyarat.
 2. (21 Narapidana yang menjalani beberapa pidana penjara berturut turut rlianggap jumlah pidananya sebagai 1 (satu) pidana.
@@ -731,7 +737,7 @@ Terdakwa yang melakukan Tindak Pidana yang diancam dengan pidana penjara paling 
 
 <!-- image -->
 
-**Pasal TT**
+### Pasal 77 ^pasal-77
 
 - (1) Jika terpidana selama menjalani pidana pengawasan melakukan Tindak Pidana dan dijatuhi pidana yang bukan pidana mati atau bukan pidana penjara, pidana pengawasan tetap dilaksanakan.
 2. (21 Jika terpidana dijatuhi pidana penjara, pidana pengawasan ditunda dan dilaksanakan kembali setelah terpidana selesai menjalani pidana penjara.
@@ -754,7 +760,7 @@ Terdakwa yang melakukan Tindak Pidana yang diancam dengan pidana penjara paling 
 - h. kategori VIII, Rp5O.0O0.O0O.00O,0O (lima puluh miliar rupiah).
 10. (21 Dalam hal terjadi perubahan nilai uang, ketentuan besarnya pidana denda ditetapkan dengan Peraturan Pemerintah.
 
-**Pasal 8O**
+### Pasal 80 ^pasal-80
 
 - (l) Dalam menjatuhkan pidana denda, hakim wajib mempertimbangkan kemampuan terdakwa dengan memperhatikan penghasilan dan pengeluaran terdakwa secara nyata,
 
@@ -881,7 +887,7 @@ Kecuali ditentukan lain oleh Undang-Undang, pencabutan hak sebagaimana dimaksud 
 - (2) Ketentuan sebagaimana dimaksud pada ayat (1) huruf b tidak berlaku jika yang dicabut adalah hak memperoleh pembebasan bersyarat.
 - (3) Pidana pencabutan hak mulai berlaku pada tanggal putusan pengadilan telah memperoleh kekuatan hukum tetap.
 
-**Pasal 9 I**
+### Pasal 91 ^pasal-91
 
 Pidana tambahan berupa perErmpasan Barang tertentu dan/atau tagihan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf b yang dapat dirampas meliputi Barang tertentu dan/ atau tagihan:
 
@@ -951,7 +957,7 @@ Pidana mati diancamkan secara alternatif sebagai upaya terakhir untuk mencegah d
 
 - (41 Pelaksanaan pidana mati terhadap perempuan hamil, perempuan yang sedang menyusui bayinya, atau orang yang sakit jiwa ditunda sampai perempuan tersebut melahirkan, perempuan tersebut tidak lagi menyusui bayinya, atau orang yang sakit jiwa tersebut sembuh.
 
-**Pasal l0O**
+### Pasal 100 ^pasal-100
 
 - (1) Hakim menjatuhkan pidana mati dengan masa percobaan selama 10 (sepuluh) tahun dengan memperhatikan:
 - a. rasa penyesalan terdakwa dan ada harapan untuk memperbaiki diri; atau
@@ -1039,7 +1045,7 @@ Tindakan penyerahan terdakwa kepada pemerintah atau seseorang dikenakan demi kep
 - -4t-
 - (3) Penghentian tindakan sebagaimana dimaksud pada ayat (2) dilakukan berdasarkan penetapan halim yang memeriksa perkara pada tingkat pertama yang diusulkan oleh jaksa.
 
-**Pasal 1 1 I**
+### Pasal 111 ^pasal-111
 
 Ketentuan lebih lanjut mengenai tata cara pelaksanaan pidana dan tindakan sebagaimana dimaksud dalam Pasal 68 sampai dengan Pasal 110 diatur dengan Peraturan Pemerintah.
 
@@ -1124,7 +1130,7 @@ Pidana bagi Korporasi terdiri atas:
 
 Pidana pokok sebagaimana dimaksud dalam Pasal 118 huruf a adalah pidana denda.
 
-**Pasal l2O**
+### Pasal 120 ^pasal-120
 
 - (1) Pidana tambahan bagl Korporasi sebagaimana dimaksud dalam Pasal 118 huruf b terdiri atas:
 - a. pembayaran ganti nrgi;
@@ -1217,7 +1223,7 @@ Jika dalam perbarengan Tindak Pidana dljatuhi pidana mati atau pidana penjara se
 
 <!-- image -->
 
-**Pasal 13O**
+### Pasal 130 ^pasal-130
 
 - (1) Jika te{adi perbarengan 5sfagaimana dimaksud dalam Pasal 127 dan Pasal 129, penjatuhan pidana tambahan dilakukan dengan ketentuan sebagai berikut:
 - a. pidana pencabutan hak yang sama dijadikan satu dengan ketentuan:
@@ -1480,7 +1486,7 @@ Komputer adalah alat untuk memproses data elektronik, magnetik, optikal, atau si
 
 Informasi Elektronik adalah satu atau sekumpulan data elektronik, termasuk tetapi tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto, mempertukarkan data secara elektronik, Surat elektronik, telegram, pengkopian jarakjauh atau sejenisnya, huruf, tanda, angka, Kode Akses, simbol, atau perforasi yang telah diolah yang memiliki arti atau dapat dipahami oleh orang yang mampu memahaminya.
 
-**Pasal l7l**
+### Pasal 171 ^pasal-171
 
 Kode Akses adalah angka, huruf, simbol lainnya atau kombinasi diantaranya yang merupakan kunci untuk dapat mengakses Komputer, jaringan Komputer, internet, atau media elektronik lainnya.
 
@@ -1597,7 +1603,7 @@ Dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun, Setiap Orang yang
 
 **Peniadaan dan Penggantian Ideologi Pancasila**
 
-**Pasal l9O**
+### Pasal 190 ^pasal-190
 
 - (1) Setiap Orang yang menyatakan keinginannya Di Muka Umum dengan lisan, tulisan, atau melalui media apa pun untuk meniadakan atau mengganti Pancasila sebagai dasar negara, dipidana dengan pidana penjara paling lama 5 (lima) tahun.
 2. (21 Dalam hal perbuatan sebagaimana dimaksud pada ayat (l) mengakibatkan:
@@ -1615,11 +1621,15 @@ Bagian Kedua Tindak Pidana Makar
 
 Paragraf 1 Makar terhadap Presiden dan/ atau Wakil Presiden
 
-Pasal 191 Setiap Orang yang melakukan Makar dengan maksud membunuh atau merampas kemerdekaan Presiden dan/ atau Wakil Presiden atau menjadikan Presiden dan/ atau Wakil Presiden tidak mampu menjalankan pemerintahan, dipidana dengan pidana mati, pidana penjara seumur hidup, atau pidana penjara paling lama 2O (dua puluh) tahun.
+### Pasal 191 ^pasal-191
+
+Setiap Orang yang melakukan Makar dengan maksud membunuh atau merampas kemerdekaan Presiden dan/ atau Wakil Presiden atau menjadikan Presiden dan/ atau Wakil Presiden tidak mampu menjalankan pemerintahan, dipidana dengan pidana mati, pidana penjara seumur hidup, atau pidana penjara paling lama 2O (dua puluh) tahun.
 
 Paragraf 2 Makar terhadap Negara Kesatuan Republik Indonesia
 
-Pasal 192 Setiap Orang yang melakukan Makar dengan maksud supaya sebagian atau seluruh wilayah Negara Kesatuan Republik Indonesia jatuh kepada kekuasaan asing atau untuk memisahkan diri dari Negara Kesatuan Republik Indonesia, dipidana dengan pidana mati, pidana penjara seumur hidup, atau pidana penjara paling lama 20 (dua puluh) tahun.
+### Pasal 192 ^pasal-192
+
+Setiap Orang yang melakukan Makar dengan maksud supaya sebagian atau seluruh wilayah Negara Kesatuan Republik Indonesia jatuh kepada kekuasaan asing atau untuk memisahkan diri dari Negara Kesatuan Republik Indonesia, dipidana dengan pidana mati, pidana penjara seumur hidup, atau pidana penjara paling lama 20 (dua puluh) tahun.
 
 Paragraf 3 Makar terhadap Pemerintah
 
@@ -1667,7 +1677,13 @@ untuk atau mengambil alih pemerintah;
 
 Bagian Ketiga
 
-Tindak Pidana terhadap Pertahanan Negara Paragraf 1 Pertahanan Negara Pasal 197 Setiap Orang yang tanpa wewenang membuat, mengumpulkan, ffi€mpunyai, menyimpan, menyembunyikan, atau mengangkut gambar potret, gambar lukis, gambar tangan, atau video pengukuran, penulisan, keterangan, atau petunjuk lain mengenai suatu hal yang bersangkutan dengan kepentingan pertahanan negara, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori IV.
+Tindak Pidana terhadap Pertahanan Negara
+
+Paragraf 1 Pertahanan Negara
+
+### Pasal 197 ^pasal-197
+
+Setiap Orang yang tanpa wewenang membuat, mengumpulkan, ffi€mpunyai, menyimpan, menyembunyikan, atau mengangkut gambar potret, gambar lukis, gambar tangan, atau video pengukuran, penulisan, keterangan, atau petunjuk lain mengenai suatu hal yang bersangkutan dengan kepentingan pertahanan negara, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori IV.
 
 Pasal 198 . . .
 
@@ -1697,7 +1713,7 @@ Setiap Orang yang tanpa izin Presiden atau Pejabat yang diberi wewenang, mengaja
 
 <!-- image -->
 
-**Pasal 2O2**
+### Pasal 202 ^pasal-202
 
 Dipidana dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori II, Setiap Orang yang tanpa wewenang:
 
@@ -1739,11 +1755,11 @@ Dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda palin
 
 <!-- image -->
 
-**Pasal 2O7**
+### Pasal 207 ^pasal-207
 
 Setiap Orang yang karena tugasnya wajib menyimpan Surat, peta bumi, rencana, gambar, atau Barang yang bersifat rahasia negara sebagaimana dimaksud dalam Pasal 205, karena kealpaannya menyebabkan isi, bentuk, atau cara membuatnya, seluruh atau sebagian diketahui oleh orang lain yang tidak berhak mengetahuinya, dipidana dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan.
 
-**Pasal 2O8**
+### Pasal 208 ^pasal-208
 
 Dipidana dengan pidana penjara paling lama 4 (empat) tahun, Setiap Orang yang:
 
@@ -1751,7 +1767,7 @@ Dipidana dengan pidana penjara paling lama 4 (empat) tahun, Setiap Orang yang:
 - c. tidak menyerahkan Surat, peta bumi, rencana, gambar, atau Barang yang bersifat rahasia negara tersebut kepada Pejabat yang berwenang padahal Surat, peta bumi, rencana, gambar, atau Barang yang bersifat rahasia negara tersebut jatuh ke tangannya.
 - b. membuat atau meminta membuat cetakan, gambar, atau tiruan dari Surat, peta bumi, rencana, gambar, atau Barang yang bersifat rahasia negara sebagaimana dimaksud dalam huruf a; atau
 
-**Pasal 2O9**
+### Pasal 209 ^pasal-209
 
 Setiap Orang yang melakukan Tindak Pidana sebagaimana dimaksud dalam Pasal l97,Pasal 202, Pasal 205, Pasal 206, atau Pasal 208 dengan mempergunakan cara curang atau dilakukan dengan cara memberi atau menerima, menimbulkan harapan, atau menjanjikan hadiah, keuntungan, atau upah dalam bentuk apa pun juga atau dilakukan dengan Kekerasan atau Ancaman Kekerasan, dipidana 2 (dua) kali lipat dari pidana sebagaimana dimaksud dalam Pasal 197, Pasal 2O2,Pasal 2O1,Pasal 2O6, atau Pasal 208.
 
@@ -1775,7 +1791,7 @@ Dipidana karena sabotase dengan pidana penjara paling lama 15 (lima belas) tahun
 
 Warga negara Indonesia yang dengan sukarela menjadi tentara asing yang sedang berperang dengan Negara Kesatuan Republik Indonesia atau kemungkinan akan menghadapi Perang dengan Negara Kesatuan Republik Indonesia, dan jika Perang benar-benar terjadi, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
 
-**Pasal 2l2**
+### Pasal 212 ^pasal-212
 
 - (l) Setiap Orang yang dalam Waktu Perang memberi bantuan kepada Musuh atau merugikan negara untuk kepentingan Musuh, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun.
 - (21 Dipidana dengan pidana penjara paling lama 15 (lima belas) tahun, Setiap Orang sebagaimana dimaksud pada ayat (1), yang:
@@ -1844,7 +1860,7 @@ Setiap Orang yang menyiarkan, mempertunjukkan, atau menempelkan tulisan atau gam
 
 **Efltrtrf,I]IEENtrEIA**
 
-**Pasal 22O**
+### Pasal 220 ^pasal-220
 
 > [!NOTE] **PENAFSIRAN BERSYARAT MK: PUTUSAN NO. 275/PUU-XXIII/2025**
 > Berdasarkan **Putusan Mahkamah Konstitusi Nomor 275/PUU-XXIII/2025**, Pasal 220 ayat (1) KUHP dinyatakan bertentangan dengan UUD 1945 dan **tidak mempunyai kekuatan hukum mengikat secara bersyarat sepanjang tidak dimaknai**: *"(1) Tindak Pidana sebagaimana dimaksud dalam Pasal 218 dan Pasal 219 hanya dapat dituntut berdasarkan aduan oleh Presiden dan/atau Wakil Presiden"*.
@@ -1873,9 +1889,9 @@ Setiap Orang yang melakukan Makar dengan malsud untuk melepaskan wilayah negara 
 
 Setiap Orang yang melakukan Makar dengan maksud untuk menghapuskan atau mengubah dengan cara tidak sah bentuk pemerintahan yang ada dalam negara sahabat, dipidana dengan pidana penjara paling lama 3 (tiga) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori IV.
 
-**Pasa7223**
+### Pasal 223 ^pasal-223
 
-Setiap Orang yang melakukan permufakatan jahat dan persiapan untuk melakukan Tindak Pidana sebagaimana dimaksud dalam Pasal 22L danPasal 222 dipidana.
+Setiap Orang yang melakukan permufakatan jahat dan persiapan untuk melakukan Tindak Pidana sebagaimana dimaksud dalam Pasal 221 dan Pasal 222 dipidana.
 
 <!-- image -->
 
@@ -2015,14 +2031,18 @@ Dipidana dengan pidana denda paling banyak kategori II, Setiap Orang yang menoda
 > Berdasarkan **Putusan Mahkamah Konstitusi Nomor 282/PUU-XXIII/2025** (diucapkan 28 Agustus 2026), **Pasal 240, Penjelasan Pasal 240, dan Pasal 241 UU 1/2023 dinyatakan bertentangan dengan UUD NRI 1945 dan TIDAK MEMILIKI KEKUATAN HUKUM MENGIKAT**.
 > Anotasi & rujukan putusan lengkap: [[PUTUSAN-MK 282-2025 - Penghinaan Pemerintah|Putusan MK No. 282/PUU-XXIII/2025]] / `korpus-hukum/putusan-mk/putusan_mk_282_puu_xxiii_2025_penghinaan_pemerintah.md`.
 
-**Pasal 240 *(Dibatalkan MK No. 282/PUU-XXIII/2025)***
+### Pasal 240 ^pasal-240
+
+> *(Dibatalkan MK No. 282/PUU-XXIII/2025)*
 
 - (1) Setiap Orang yang Di Muka Umum dengan lisan atau tulisan menghina pemerintah atau lembaga negara, dipidana dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori II.
 2. (21 Dalam hal Tindak Pidana sebagaimana dimaksud pada ayat (1) berakibat terjadinya kerusuhan dalam masyarakat, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.
 - (3) Tindak Pidana sebagaimana dimaksud pada ayat (l) hanya dapat dituntut berdasarkan aduan pihak yang dihina.
 - (4) Aduan sebagaimana dimaksud pada ayat (3) dilakukan secara tertulis oleh pimpinan pemerintah atau lembaga neSara.
 
-**Pasal 241 *(Dibatalkan MK No. 282/PUU-XXIII/2025)***
+### Pasal 241 ^pasal-241
+
+> *(Dibatalkan MK No. 282/PUU-XXIII/2025)*
 
 - (1) Setiap Orang yang menyiarkan, mempertunjukkan, atau menempelkan tulisan atau gambar sehingga terlihat oleh umum, memperdengarkan rekaman sehingga terdengar oleh umum, atau menyebarluaskan dengan sarana teknologi informasi yang berisi penghinaan terhadap pemerintah atau lembaga negara, dengan maksud agar isi penghinaan diketahui umum, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.
 
@@ -2229,7 +2249,7 @@ Paragraf 6 Melakukan Kekerasan terhadap Orang atau Barang secara Bersama-sama Di
 - (l) Setiap Orang yang menyiarkan atau menyebarluaskan berita atau pemberitahuan padahal diketahuinya bahwa berita atau pemberitahuan tersebut bohong yang mengakibatkan kerusuhan dalam masyarakat, dipidana dengan pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak kategori V.
 - (2) Setiap Orang yang menyiarkan atau menyebarluaskan berita atau pemberitahuan padahal patut diduga bahwa berita atau pemberitahuan tersebut adalah bohong yang dapat mengakibatkan kerusuhan dalam masyarakat, dipidana dengan pidana penjara paling lama 4 (empat) tahun atau pidana denda paling banyak kategori IV.
 
-**Pasa7264**
+### Pasal 264 ^pasal-264
 
 Setiap Orang yang menyiarkan berita yang tidak pasti, berlebih-lebihan, atau yang tidak lengkap sedangkan diketahuinya atau patut diduga, bahwa berita demikian dapat mengakibatkan kerusuhan di masyarakat, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori III.
 
@@ -2264,13 +2284,13 @@ Setiap Orang yang merintangi, menghalang-halangi, atau mengganggu jalan Masuk ke
 
 Setiap Orang yang menodai atau secara melawan hukum merusak atau menghancurkan makam atau tanda-tanda yang ada di atas makam, dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori II.
 
-**Pasal 2TO**
+### Pasal 270 ^pasal-270
 
 Setiap Orang yang mengubur, menyembunyikan, membawa, atau menghilangkan jenazah untuk menyembunyikan kematian atau kelahirannya, dipidana dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori II.
 
 <!-- image -->
 
-**Pasal 2TI**
+### Pasal 271 ^pasal-271
 
 Setiap Orang yang secara melawan hukum menggali atau membongkar makam, mengambil, memindahkan, atau mengangkut jenazah, dan/atau memperlakukan jenazah secara tidak beradab, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori III.
 
@@ -2367,7 +2387,7 @@ pidananya dapat ditambah 1/3 (satu per tiga) dari pidana sebagaimana dimaksud pa
 
 Bagian Kedua Mengganggu dan Merintangi Proses Peradilan
 
-Pasa|279
+### Pasal 279 ^pasal-279
 
 - (1) Setiap Orang yang membuat gaduh di dekat Ruang sidang pengadilan pada saat sidang berlangsung dan tidak pergi sesudah diperintahkan sampai 3 (tiga) kali oleh atau atas nama petugas yang berwenang, dipidana dengan pidana denda paling banyak kategori I. (21 Setiap Orang yang membuat gaduh dalam sidang
 2. pengadilan dan tidak pergi sesudah diperintahkan sampai 3 (tiga) kali oleh atau atas nama hakim, dipidana dengan pidana penjara paling lama 6 (enam) Bulan atau pidana denda paling banyak kategori II.
@@ -2467,7 +2487,9 @@ Setiap Orang yang secara melawan hukum menjual, menyewakan, memiliki, menggadaik
 
 Bagian Ketiga Perusakan Gedung, Ruang Sidang, dan Alat Perlengkapan Sidang Pengadilan
 
-- Pasal 293 (1) Setiap Orang yang merusak gedung pengadilan, Ruang sidang pengadilan, atau alat perlengkapan sidang pengadilan yang mengakibatkan hakim tidak dapat menyelenggarakan sidang pengadilan, dipidana dengan pidana penjara paling lama 4 (empat) tahun. (21 Jika Tindak Pidana sebagaimana dimaksud pada ayat (l) dilakukan pada saat sidang pengadilan sedang berlangsung yang menyebabkan sidang pengadilan tidak dapat dilanjutkan, dipidana dengan pidana penjara paling lama 5 (lima) tahun. (3) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) mengakibatkan aparat penegak hukum yang sedang menjalankan tugasnya atau saksi saat memberikan keterangannya mengalami Luka Berat, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun. (4) Jika Tindak Pidana sebagaimana dimaksud pada yang sedang menjalankan tugasnya atau saksi saat memberikan keterangannya, dipidana dengan pidana
+### Pasal 293 ^pasal-293
+
+- (1) Setiap Orang yang merusak gedung pengadilan, Ruang sidang pengadilan, atau alat perlengkapan sidang pengadilan yang mengakibatkan hakim tidak dapat menyelenggarakan sidang pengadilan, dipidana dengan pidana penjara paling lama 4 (empat) tahun. (21 Jika Tindak Pidana sebagaimana dimaksud pada ayat (l) dilakukan pada saat sidang pengadilan sedang berlangsung yang menyebabkan sidang pengadilan tidak dapat dilanjutkan, dipidana dengan pidana penjara paling lama 5 (lima) tahun. (3) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) mengakibatkan aparat penegak hukum yang sedang menjalankan tugasnya atau saksi saat memberikan keterangannya mengalami Luka Berat, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun. (4) Jika Tindak Pidana sebagaimana dimaksud pada yang sedang menjalankan tugasnya atau saksi saat memberikan keterangannya, dipidana dengan pidana
 - ayat (1) mengakibatkan matinya aparat penegak hukum penjara paling lama 15 (lima belas) tahun.
 
 <!-- image -->
@@ -2523,7 +2545,7 @@ BABVII ...
 
 **Tindak Pidana terhadap Agama dan Kepercayaan**
 
-**Pasal 3O0**
+### Pasal 300 ^pasal-300
 
 Setiap Orang Di Muka Umum yang:
 
@@ -2611,7 +2633,7 @@ Setiap Orang yang melakukan permufakatan jahat dan persiapan untuk melakukan Tin
 
 Setiap Orang yang secara melawan hukum merusak, menghancurkan, atau membuat tidak dapat dipakai bangunan untuk menahan air atau bangunan untuk menyalurkan air yang mengakibatkan bahaya banjir, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun.
 
-**Pasal 31 1**
+### Pasal 311 ^pasal-311
 
 Setiap Orang yang karena kealpaannya mengakibatkan terjadinya kebakaran, ledalan, atau banjir yang mengakibatkan bahaya umum bagi Barang, bahaya bagi nyawa orang lain, atau matinya orang, dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V.
 
@@ -2783,7 +2805,7 @@ Setiap Orang yang secara melawan hukum mendamparkan, merusak, menenggelamkan, me
 
 - 111-
 
-**Pasal 33O**
+### Pasal 330 ^pasal-330
 
 Setiap Orang yang karena kealpaannya mengakibatkan suatu Kapal terdampar, rusak, tenggelam, hancur, atau tidak dapat dipakai, dipidana dengan:
 
@@ -2818,7 +2840,9 @@ Penggunaan dan Perusakan Informasi Elektronik
 
 Paragrad2 Tanpa Hak Menggunakan atau Mengakses Komputer dan Sistem Elektronik
 
-Pasal 333 Dipidana dengan pidana penjara paling lama 7 (tqjuh) tahun atau pidana denda paling banyak kategori VI, Setiap Orang yang:
+### Pasal 333 ^pasal-333
+
+Dipidana dengan pidana penjara paling lama 7 (tqjuh) tahun atau pidana denda paling banyak kategori VI, Setiap Orang yang:
 
 - a. tanpa hak menggunakan atau mengakses Komputer atau sistem elektronik dengan cara apa pun, dengan maksud memperoleh, mengubah, merusak, atau menghilangkan informasi pertahanan nasional atau hubungan internasional yang dapat menyebabkan gangguan atau bahaya terhadap negara atau hubungan dengan subjek hukum internasional;
 - c. tanpa hak atau melampaui wewenangnya menggunakan atau mengakses Komputer atau sistem elektronik, baik dari dalam maupun luar negeri untuk memperoleh informasi dari Komputer atau sistem elektronik yang dilindungi oleh negara;
@@ -2880,7 +2904,9 @@ Dipidana dengan pidana penjara paling lama 6 (enam) Bulan atau pidana denda pali
 
 Bagian Ketqjuh Tindak Pidana Kecerobohan yang Membahayakan Umum
 
-Pasal 339 Dipidana dengan pidana denda paling banyak kategori II,
+### Pasal 339 ^pasal-339
+
+Dipidana dengan pidana denda paling banyak kategori II,
 
 Setiap Orang yang:
 
@@ -3295,7 +3321,7 @@ Dipidana dengan pidana sebagaimana dimaksud dalam Pasal 382, Pasal 384, Pasal 38
 - b. Barang yang dibubuhi meterai, cap, atau tanda sebagaimana dimaksud dalam huruf a, seolah-olah Barang tersebut asli, tidak dipalsu dan dibuat secara tidak melawan hukum.
 - a. meterai, cap, atau tanda yang tidak asli, dipalsu atau dibuat secara melawan hukum seolah-olah asli, tidak dipalsu, dan dibuat secara tidak melawan hukum; atau
 
-**Pasal 39O**
+### Pasal 390 ^pasal-390
 
 - (1) Setiap Orang yang menyimpan bahan atau benda yang diketahui digunakan atau akan digunalan untuk melakukan salah satu Tindak Pidana sebagaimana dimalsud dalam Pasal 382, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.
 2. (21 Bahan atau benda sebagaimana dimaksud pada ayat (1) dirampas untuk negara atau dirampas untuk dimusnahkan.
@@ -3336,7 +3362,7 @@ Bagran Kesatu Pemalsuan Surat
 
 **Bagian Kedua Keterangan Palsu dalam Akta Autentik**
 
-**' Pasal 394**
+### Pasal 394 ^pasal-394
 
 Setiap Orang yang meminta untuk dimasukkan keterangan palsu ke dalam suatu akta autentik mengenai suatu hal yang kebenarannya seharusnya dinyatakan oleh akta tersebut, dengan maksud untuk menggunakan atau meminta orang lain menggunakan seolah-olah keterangan tersebut sesuai dengan yang sebenarnya, jika penggunaan tersebut dapat menimbulkan kerugian, dipidana dengan pidana penjara paling lama 7 (tqiuh) tahun atau pidana denda paling banyak kategori VI.
 
@@ -3407,7 +3433,7 @@ Dipidana dengan pidana penjara paling lama 4 (empat) tahun atau pidana denda pal
 
 Setiap Orang yang menggelapkan asal-usul orang, dipidana karena penggelapan asal-usul, dengan pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak kategori V.
 
-**Pasal 4O2**
+### Pasal 402 ^pasal-402
 
 - (1) Dipidana dengan pidana penjara paling lama 4 (empat) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori IV, Setiap Orang yang:
 - b. melangsungkan perkawinan, padahal diketahui bahwa perkawinan yang ada dari pihak lain menjadi penghalang yang sah untuk melangsungkan perkawinan tersebut.
@@ -3456,7 +3482,7 @@ BagianKetiga...
 
 **dan Alat Pengguguran Kandungan**
 
-**Pasal 4O8**
+### Pasal 408 ^pasal-408
 
 Setiap Orang yang secara terang-terangan mempertunjukkan, menawarkan, menyiarkan tulisan, atau menunjukkan untuk dapat memperoleh alat pencegah kehamilan kepada Anak, dipidana dengan pidana denda paling banyak kategori I.
 
@@ -3464,7 +3490,7 @@ Setiap Orang yang secara terang-terangan mempertunjukkan, menawarkan, menyiarkan
 
 Setiap Orang yang tanpa hak secara terang-terangan mempertunjukkan suatu alat untuk menggugurkan kandungan, menawarkan, menyiarkan tulisan, atau menunjukkan untuk dapat memperoleh alat untuk menggugurkan kandungan, dipidana dengan pidana penjara paling lama 6 (enam) Bulan atau pidana denda paling banyak kategori II.
 
-**Pasal 4 10**
+### Pasal 410 ^pasal-410
 
 - (1) Perbuatan sebagaimana dimaksud dalam Pasal 408 tidak dipidana jika dilakukan oleh petugas yang berwenang dalam rangka pelaksanaan keluarga berencana, pencegahan penyakit infeksi menular seksual, atau untuk kepentingan pendidikan dan penyuluhan kesehatan.
 2. (21 Perbuatan sebagaimana dimaksud dalam Pasal 4O9 tidak dipidana jika dilakukan untuk kepentingan ilmu pengetahuan / pendidikan.
@@ -3472,7 +3498,7 @@ Setiap Orang yang tanpa hak secara terang-terangan mempertunjukkan suatu alat un
 
 **Bagian Keempat Perzinaan**
 
-**Pasal 41 1**
+### Pasal 411 ^pasal-411
 
 - (1) Setiap Orang yang melakukan persetubuhan dengan orang yang bukan suami atau istrinya, dipidana karena perzinaan, dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori II.
 
@@ -3524,7 +3550,7 @@ Dipidana dengan pidana penjara paling lama 9 (sembilan) tahun, Setiap Orang yang
 - a. melakukan perbuatan cabul dengan seseorang yang diketahui orang tersebut pingsan atau tidak berdaya; atau
 - b. melakukan perbuatan cabul dengan seseor€rng yang diketahui atau patut diduga Anak.
 
-**Pasa] 416**
+### Pasal 416 ^pasal-416
 
 - (l) Jika salah satu Tindak Pidana sebagaimana dimaksud dalam Pasal 414 dan Pasal 415 mengakibatkan Luka Berat, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun.
 
@@ -3547,7 +3573,7 @@ Setiap Orang yang memberi atau be{anji akan memberi hadiah wibawa yang timbul da
 
 **Paragraf 2 Memudahkan Percabulan dan Persetubuhan**
 
-**Pasal 4 19**
+### Pasal 419 ^pasal-419
 
 - (1) Setiap Orang yang menghubungkan atau memudahkan orang lain berbuat cabul atau bersetubuh dengan orang yang diketahui atau patut diduga Anak, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun.
 
@@ -3568,7 +3594,9 @@ Jika Tindak Pidana sebagaimana dimaksud dalam Pasal 419 atau Pasal 420 dilakukan
 - (1) Setiap Orang yang menggerakkan, membawa, menempatkan, atau menyerahkan Anak kepada orang lain untuk melakukan percabulan, pelacuran, atau perbuatan melanggar kesusilaan lainnya, dipidana dengan pidana penjara paling lama 9 (sembilan) tahun.
 - (2) Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) dilakukan dengan menjanjikan Anak memperoleh pekerjaan atau janji lainnya, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun.
 
-Pasa1 423 Tindak Pidana sebagaimana dimaksud dalam Pasal 414 sampai dengan Pasal 422 merupakan tindak pidana kekerasan seksual.
+### Pasal 423 ^pasal-423
+
+Tindak Pidana sebagaimana dimaksud dalam Pasal 414 sampai dengan Pasal 422 merupakan tindak pidana kekerasan seksual.
 
 Bagian Keenam Minuman dan Bahan yang Memabukkan
 
@@ -3604,7 +3632,7 @@ Bagian Kedelapan . . .
 
 **Bagran Kedelapan Perjudian**
 
-**PasaT 426**
+### Pasal 426 ^pasal-426
 
 - (1) Dipidana dengan pidana penjara paling lama 9 (sembilan) tahun atau pidana denda paling banyak kategori VI, Setiap Orang yang tanpa izirl.
 - a. menawarkan atau memberi kesempatan untuk main judi dan menjadikan sebagai mata pencaharian atau turut serta dalam penrsahaan perjudian;
@@ -3992,7 +4020,7 @@ Setiap Orang yang mendorong, membantu, atau memberi sarErna kepada orang lain un
 - (1) Setiap Orang yang melakukan penganiayaan berat dengan rencana lebih dahulu, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun.
 2. l2l Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) mengakibatkan matinya orang, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
 
-**Pasal 47O**
+### Pasal 470 ^pasal-470
 
 Tindak Pidana sebagaimana dimaksud dalam Pasal 466 sampai dengan Pasal 469, pidananya dapat ditambah 1 / 3 (satu per tiga), jika Tindak Pidana tersebut dilakukan:
 
@@ -4121,7 +4149,7 @@ Jika Tindak Pidana sebagaimana dimaksud dalam Pasal 476 dan Pasal 477 ayat (1) h
 - (3) Jika perbuatan sebagaimana dimaksud pada ayat (1) atau ayat (2) mengakibatkan matinya orang, dipidana dengan pidana penjara paling lama 15 (lima belas) tahun.
 - (41 Jika perbuatan sebagaimana dimaksud pada ayat (1) mengakibatkan Luka Berat atau matinya orang yang dilakukan secara bersama-sama dan bersekutu disertai dengan salah satu hal sebagaimana dimaksud pada ayat (21 huruf a dan huruf b, dipidana dengan pidana mati atau penjara seumur hidup atau pidana penjara paling lama 20 (dua puluh) tahun.
 
-**Pasal 48O**
+### Pasal 480 ^pasal-480
 
 Setiap Orang sebagaimana dimaksud dalam Pasal 476 sampai dengan Pasal 479 dapat dijatuhi pidana tambahan berupa pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf a, huruf b, huruf c, dan/ atau huruf d.
 
@@ -4189,7 +4217,7 @@ Dalam hal perbuatan sebagaimana dimaksud dalam Pasal 486 dilakukan oleh orang ya
 
 Da1am hal perbuatan sebagaimana dimaksud dalam Pasa1 486 dilakukan oleh orang yang menerima Barang dari orang lain yang karena terpaksa menyerahkan Barang padanya untuk disimpan atau oleh wali, pengampu, pengurus atau pelaksana Surat wasiat, pengurus lembaga sosial atau yayasan terhadap Barang yang dikuasainya, dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V.
 
-**Pasal 49O**
+### Pasal 490 ^pasal-490
 
 Ketentuan sebagaimana dimaksud dalam Pasal 481 berlaku juga bagr Tindak Pidana sebagaimana dimaksud dalam Pasal 486 sampai dengan Pasal 489.
 
@@ -4257,9 +4285,13 @@ c.merusak...
 
 - c. merusak, menghancurkan, atau membuat sehingga tidak dapat dipakai lagi kendaraan yang diasuransikan atau yang muatannya diasuransikan atau yang upah pengangkutannya yang akan dibayar telah diasuransikan atau yang untuk melengkapi kendaraan tersebut telah diberikan uang pinjaman atas tanggungan kendaraan tersebut.
 
-Pasal 500 Setiap Orang yang melakukan perbuatan secara curang untuk membuat keliru orang banyak atau orang tertentu dengan maksud untuk mendirikan atau memperbesar hasil perdagangannya atau perusahaan sendiri atau kepunyaan orang lain, sehingga dapat menimbulkan kerugian bagi saingannya atau saingan orang lain tersebut, dipidana karena persaingan curang, dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori III.
+### Pasal 500 ^pasal-500
 
-Pasal 501 Pemegang konosemen yang membebani salinan konosemen dengan perjanjian timbal balik dengan beberapa orang penerima Barang yang bersangkutan, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.
+Setiap Orang yang melakukan perbuatan secara curang untuk membuat keliru orang banyak atau orang tertentu dengan maksud untuk mendirikan atau memperbesar hasil perdagangannya atau perusahaan sendiri atau kepunyaan orang lain, sehingga dapat menimbulkan kerugian bagi saingannya atau saingan orang lain tersebut, dipidana karena persaingan curang, dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori III.
+
+### Pasal 501 ^pasal-501
+
+Pemegang konosemen yang membebani salinan konosemen dengan perjanjian timbal balik dengan beberapa orang penerima Barang yang bersangkutan, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.
 
 ### Pasal 502 ^pasal-502
 
@@ -4307,7 +4339,7 @@ Setiap Orang yang dalam menjualkan atau menolong menjualkan Surat utang suatu ne
 
 Pengusaha, pengurus, atau komisaris Korporasi yang mengumumkan keadaan atau neraca yang tidak benar, dipidana dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori III.
 
-**Pasal 5O9**
+### Pasal 509 ^pasal-509
 
 Dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori III:
 
@@ -4327,7 +4359,7 @@ Ketentuan pidana sebagaimana dimaksud dalam Pasal 481 berlaku juga bagr Tindak P
 
 **Bagian Kesatu Perbuatan Merugikan dan Penipuan terhadap Kreditur**
 
-**Pasal 51 1**
+### Pasal 511 ^pasal-511
 
 Pengusaha yang dinyatakan pailit atau yang diizinkan melepaskan harta bendanya menurut putusan pengadilan dipidana karena merugikan kreditur, dengan pidana penjara paling lama I (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori III jika:
 
@@ -4394,7 +4426,7 @@ Bagian Ketiga
 
 Perdamaian untuk Memperoleh Keuntungan
 
-**Pasal 5 19**
+### Pasal 519 ^pasal-519
 
 Dipidana dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori III:
 
@@ -4407,7 +4439,7 @@ a.kreditur...
 
 Bagran Keempat Penarikan Barang Tanpa Hak
 
-**Pasal 52O**
+### Pasal 520 ^pasal-520
 
 - (1) Dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori V, Setiap Orang yang:
 - a. menarik sebagian atau seluruh Barang miliknya atau Barang milik orang lain untuk keperluan pemiliknya, dari orang lain yang mempunyai hak gadai, hak menahan, hak pungut hasil, atau hak pakai atas Barang tersebut;
@@ -4483,7 +4515,9 @@ Seorang komandan Tentara Nasional Indonesia yang menolak atau mengabaikan permin
 
 Bagian Kedua Tindak Pidana Paksaan dan Tindak Pidana Penyiksaan
 
-Pasal 529 Pejabat yang dalam perkara pidana memaksa seseorang untuk mengaku atau memberi keterangan, dipidana dengan
+### Pasal 529 ^pasal-529
+
+Pejabat yang dalam perkara pidana memaksa seseorang untuk mengaku atau memberi keterangan, dipidana dengan
 
 pidana penjara paling lama 4 (empat) tahun.
 
@@ -4946,7 +4980,7 @@ Bagian Keempat Tindak Pidana Asuransi Pesawat Udara
 
 Bagian Kesatu Tindak Pidana Penadahan
 
-**Pasal 59 1**
+### Pasal 591 ^pasal-591
 
 Dipidana karena penadahan dengan pidana penjara paling lama 4 (empat) tahun atau pidana denda paling banyak kategori V, Setiap Orang yang:
 
@@ -5033,7 +5067,7 @@ b. perbudakan. . .
 
 **Bagian Kedua Tindak Pidala Terorisme**
 
-**Pasal 6OO**
+### Pasal 600 ^pasal-600
 
 Setiap Orang yang menggunakan Kekerasan atau Ancaman Kekerasan yang menimbulkan suasana teror atau rasa takut terhadap orErng secara meluas, menimbulkan Korban yang bersifat massal dengan cara merampas kemerdekaan atau hilangnya nyawa dan harta benda orang lain, atau mengalibatkan kerusakan atau kehancuran terhadap objek vital yang strategis, lingkungan hidup, fasilitas publik, atau fasilitas internasional, dipidana dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 20 (dua puluh) tahun, pidana penjara seumur hidup, atau pidana mati.
 
@@ -5047,13 +5081,13 @@ Setiap Orang yang menggunakan Kekerasan atau Ancaman Kekerasan yang menimbulkan 
 
 Setiap Orang yang menggunakan Kekerasan atau Ancaman Kekerasan bermaksud untuk menimbulkan suasana teror atau rasa takut terhadap orang secara meluas atau menimbulkan Korban yang bersifat massal dengan cara merampas kemerdekaan atau hilangnya nyawa atau harta benda orang lain, atau untuk menimbulkan kerusakan atau kehancuran terhadap objek vital yang strategis, lingkungan hidup, fasilitas publik, atau fasilitas internasional, dipidana dengan pidana penjara paling singkat 3 (tiga) tahun dan paling lama 2O (dua puluh) tahun atau pidana penjara seumur hidup.
 
-Pasal 6O2
+### Pasal 602 ^pasal-602
 
 Setiap Orang yang menyediakan, mengumpulkan, memberikan, atau meminjamkan dana, baik langsung maupun tidak langsung, dengan maksud digunakan seluruhnya atau sebagian untuk melakukan Tindak Pidana terorisme, organisasi teroris, atau teroris, dipidana karena Tindak Pidana pendanaan terorisme dengan pidana penjara paling lama 15 (lima belas) tahun dan pidana denda paling banyak kategori V.
 
 Bagian Ketiga Tindak Pidana Korupsi
 
-Pasal 6O3
+### Pasal 603 ^pasal-603
 
 Setiap Orang yang secara melawan hukum melakukan perbuatan memperkaya diri sendiri, orang lain, atau Korporasi yang menrgikan keuangan negara atau perekonomian negara, dipidana dengan pidana penjara seumur hidup atau pidana penjara paling singkat 2 (dua) tahun dan paling lama 20 (dua puluh) tahun dan pidana denda paling sedikit kategori II dan paling banyak kategori VI.
 
@@ -5127,7 +5161,7 @@ d. psikotropika. . .
 23. penjara 4 (empat) tahun atau lebih. z. Tindak Pidana lain yang diancam dengan pidana
 - (3) Tindak Pidana sebagaimana dimaksud pada ayat (1) merupakan Tindak Pidana pencucian uang.
 
-**Pasal 6O8**
+### Pasal 608 ^pasal-608
 
 Ketentuan sebagaimana dimaksud dalam Pasal 6O7 ayat (1) huruf c tidak berlaku bagi pihak pelapor yang melaksanakan kewajiban pelaporan sebagaimana diatur dalam UndangUndang tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang.
 
@@ -5308,7 +5342,7 @@ dicabut dan dinyatakan tidak berlaku.
 - b. Pasal 2 pengacuannya diganti dengan Pasal 307.
 - (3) Dalam hal ketentuan Pasal mengenai Tindak Pidana terhadap agama dan kepercayaan sebagaimana dimaksud pada ayat (1) huruf h mengacu Pasal 4 Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal 30O dan Pasal 3O2 ayat (1) Undang-Undang ini.
 - l4l Dalam hal ketentuan Pasal mengenai Tindak Pidana korupsi sebagaimana dimaksud pada ayat (1) huruf I diacu oleh ketentuan Pasal Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal dalam Undang-Undang ini dengan ketentuan sebagai berikut:
-- a. Pasal 2 ayat (1) pengacuannya diganti dengan Pasal 6O3;
+- a. Pasal 2 ayat (1) pengacuannya diganti dengan ### Pasal 603 ^pasal-603;
 - b. Pasal 3 pengacuannya diganti dengan Pasal 604;
 - c. Pasal 5 pengacuannya diganti dengan Pasal 605;
 - d. Pasal 11 pengacuannya diganti dengan Pasal 606 ayat (2); dan
@@ -5394,7 +5428,7 @@ b. Pasal 36. . .
 - c. Pasal 36 ayat (3) pengacuannya diganti dengan Pasal 375 huruf a; dan
 - d. Pasal 36 ayat (4) pengacuannya diganti dengan Pasal 375 hurufb.
 - (19) Dalam hal ketentuan Pasal mengenai Tindak Pidana di bidang pangan sebagaimana dimaksud pada ayat (1) huruf aa mengacu Pasal 136 Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal 504 dalam Undang-Undang ini.
-- (20) Dalam hal ketentuan Pasal mengenai Tindak Pidana pendanaan terorisme sebagaimana dimaksud pada ayat (1) huruf bb mengacu Pasal 4 Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal 6O2 dalam Undang-Undang ini.
+- (20) Dalam hal ketentuan Pasal mengenai Tindak Pidana pendanaan terorisme sebagaimana dimaksud pada ayat (1) huruf bb mengacu Pasal 4 Undang-Undang yang bersangkutan, pengacuannya diganti dengan ### Pasal 602 ^pasal-602 dalam Undang-Undang ini.
 - (21) Dalam hal ketentuan pasal mengenai Tindak Pidana terhadap saksi dan korban sebagaimana dimaksud pada ayat (1) huruf cc diacu oleh ketentuan Pasal Undang-Undang yang bersangkutan, pengacuannya diganti dengan pasal dalam Undang-Undang ini dengan ketentuan sebagai berikut:
 - a. Pasal 37 pengacuannya diganti dengan Pasal 295;
 - b. Pasal 38 pengacuannya diganti dengan Pasal 296;
@@ -5405,7 +5439,7 @@ b. Pasal 36. . .
 
 Undang-Undang ini dapat disebut dengan KUHP.
 
-**Pasai 624**
+### Pasal 624 ^pasal-624
 
 Undang-Undang ini mulai berlaku setelah 3 (tiga) tahun terhitung sejak tanggal diundangkan.
 
@@ -5453,30 +5487,70 @@ memperhatikan keseimbangan antara kepentingan nasional, kepentingan
 
 <!-- image -->
 
-masyarakat, dan kepentingan individu dalam Negara Kesatuan Republik Indonesia yang berlandaskan pada Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+masyarakat, dan kepentingan individu dalam Negara Kesatuan 
 
-Setelah menelusuri sejarah hukum pidana di Indonesia, diketahui bahwa Kitab Undang-Undang Hukum Pidana yang berlaku di Indonesia berasal dari Wetboek uan Strafrechl uoor Nederlandsch-Indie (Staatsblad l9l5: 7321. Setelah Indonesia merdeka pada tahun 1945, Wetboek uan Strafrecht tersebut masih berlaku berdasarkan Pasal I Aturan Peralihan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Berdasarkan Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana (Berita Negara Republik Indonesia II Nomor 91, Wetboek van Strafirecht uoor Nederlandsch-Indie disebut sebagai Kitab Undang-Undang Hukum Pidana dan dinyatakan berlaku untuk hrlau Jawa dan Madura, sedangkan untuk daerah lain akan ditetapkan kemudian oleh Presiden. Usaha untuk mewujudkan adanya kesatuan hukum pidana untuk seluruh wilayah Negara Kesatuan Republik Indonesia itu, secara de facto belum dapat terwujud karena terdapat daerah pendudukan Belanda sebagai akibat aksi militer Belanda I dan II yang untuk daerah tersebut masih berlaku Wetboek uan Strafrecht uoor Nederlandsch-Indie (Staatsblad, l9l5: 7321 dengan segala perubahannya. Sejak saat itu, dapat dikatakan bahwa setelah kemerdekaan tahun 1945 terdapat dualisme hukum pidana yang berlaku di Indonesia dan keadaan itu berlangsung hingga tahun 1958 dengan diundangkannya Undang-Undang Nomor 73 Tahun 1958. Undang-Undang tersebut menetapkan bahwa Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana dengan semua perubahan dan tambahannya berlaku untuk seluruh wilayah Negara Kesatuan Republik Indonesia. Dengan demikian, berlakulah hukum pidana materiel yang seragam untuk seluruh Indonesia yang bersumber pada hukum yang berlaku pada tanggal 8 Maret 1942, yaitu Wetboek uan Strafrecht uoor Nederlandsch-Indie yang untuk selanjutnya disebut Kitab Undang-Undang Hukum Pidana.
+ yang berlandaskan pada Pancasila dan Undang-Undang Dasar Negara 
+
+ Tahun 1945.
+
+Setelah menelusuri sejarah hukum pidana di Indonesia, diketahui bahwa Kitab Undang-Undang Hukum Pidana yang berlaku di Indonesia berasal dari Wetboek uan Strafrechl uoor Nederlandsch-Indie (Staatsblad l9l5: 7321. Setelah Indonesia merdeka pada tahun 1945, Wetboek uan Strafrecht tersebut masih berlaku berdasarkan Pasal I Aturan Peralihan Undang-Undang Dasar Negara 
+
+ Tahun 1945. Berdasarkan Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana (Berita Negara 
+
+ II Nomor 91, Wetboek van Strafirecht uoor Nederlandsch-Indie disebut sebagai Kitab Undang-Undang Hukum Pidana dan dinyatakan berlaku untuk hrlau Jawa dan Madura, sedangkan untuk daerah lain akan ditetapkan kemudian oleh Presiden. Usaha untuk mewujudkan adanya kesatuan hukum pidana untuk seluruh wilayah Negara Kesatuan 
+
+ itu, secara de facto belum dapat terwujud karena terdapat daerah pendudukan Belanda sebagai akibat aksi militer Belanda I dan II yang untuk daerah tersebut masih berlaku Wetboek uan Strafrecht uoor Nederlandsch-Indie (Staatsblad, l9l5: 7321 dengan segala perubahannya. Sejak saat itu, dapat dikatakan bahwa setelah kemerdekaan tahun 1945 terdapat dualisme hukum pidana yang berlaku di Indonesia dan keadaan itu berlangsung hingga tahun 1958 dengan diundangkannya Undang-Undang Nomor 73 Tahun 1958. Undang-Undang tersebut menetapkan bahwa Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana dengan semua perubahan dan tambahannya berlaku untuk seluruh wilayah Negara Kesatuan 
+
+. Dengan demikian, berlakulah hukum pidana materiel yang seragam untuk seluruh Indonesia yang bersumber pada hukum yang berlaku pada tanggal 8 Maret 1942, yaitu Wetboek uan Strafrecht uoor Nederlandsch-Indie yang untuk selanjutnya disebut Kitab Undang-Undang Hukum Pidana.
 
 Sejak Indonesia merdeka telah banyak dilakukan usaha untuk menyesuaikan Kitab Undang-Undang Hukum Pidana warisan kolonial tersebut sesuai dengan perkembangan kehidupan sosial lainnya, baik nasional maupun internasional. Kitab Undang-Undang Hukum Pidana telah beberapa kali mengalami pembaruan atau perubahan, antara lain:
 
-1. Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana (Berita Negara Republik Indonesia II Nomor 9);
-2. Undang-Undang Nomor 73 Tahun 1958 tentang Menyatakan Berlakunya Undang-Undang No. I Tahun 1946 tentang Peraturan Hukum Pidana untuk Seluruh Wilayah Republik Indonesia dan Mengubah Kitab Undang-Undang Hukum Pidana (Lembaran Negara Tahun 1958 Nomor I27, Tarnbahan lcmbaran Negara Nomor 1660);
+1. Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana (Berita Negara 
+
+ II Nomor 9);
+2. Undang-Undang Nomor 73 Tahun 1958 tentang Menyatakan Berlakunya Undang-Undang No. I Tahun 1946 tentang Peraturan Hukum Pidana untuk Seluruh Wilayah 
+
+ dan Mengubah Kitab Undang-Undang Hukum Pidana (Lembaran Negara Tahun 1958 Nomor I27, Tarnbahan lcmbaran Negara Nomor 1660);
 
 <!-- image -->
 
 3. Undang-Undang Nomor I Tahun 1960 tentang Perubahan Kitab UndangUndang Hukum Pidana, yang menaikkan ancarnan hukuman dalam Pasal 359, Pasal 36O, dan Pasal 188 Kitab Undang-Undang Hukum Pidana;
 4. Undang-Undang Nomor 16 Prp. Tahun 196O tentang Beberapa Perubahan Dalam Kitab Undang-Undang Hukum Pidana (Lembaran Negara Tahun 196O Nomor 50, Tambahan Lembaran Negara Nomor 1976) yang mengubah frasa "uijf en twintig gulden" dalam Pasal 364, Pasal 373, Pasal 379, Pasal 384, dan Pasal 4O7 ayat (1) Kitab Undang-Undang Hukum Pidana menjadi frasa "dua ratus lima puluh rupiah";
 5. Undang-Undang Nomor 18 Prp. Tahun 1960 tentang Perubahan Jumlah Hukuman Denda dalam Kitab Undang-Undang Hukum Pidana dan dalam Ketentuan Pidana Lainnya yang Dikeluarkan Sebelum Tanggal 17 Agustus 1945 (Lembaran Negara Tahun 196O Nomor 52, Tambahan kmbaran Negara Nomor 1978);
-6. Penetapan Presiden Nomor 1 Tahun 1965 tentang Pencegahan Penyalahgunaan atau Penodaan Agama (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 3, Tambahan kmbaran Negara Republik Indonesia Nomor 27261, yang antara lain telah menambahkan ketentuan Pasal 156a ke dalam Kitab Undang-Undang Hukum Pidana;
-7. Undang-Undang Nomor 7 Tahun 197 4 ter:tang Penertiban Perjudian (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 54, Tambahan Lembaran Negara Republik Indonesia Nomor 3O40), yang mengubah ancaman pidana dalam Pasal 3O3 ayat (1), Pasal 542 ayat (1), dan Pasal 542 ayat (2) Kitab Undang-Undang Hukum Pidana dan mengubah sebutan Pasal 542 menjadi Pasal 303 bis;
-8. Undang-Undang Nomor 4 Tahun 1976 tentang Perubahan dan Penambahan Beberapa Pasal dalam Kitab Undang-Undang Hukum Pidana Bertalian dengan Perluasan Berlakunya Ketentuan Perundang-undangan Pidana, Kejahatan Penerbangan, dan Kejahatan terhadap Sarana/ Prasarana Penerbangan (Lembaran Negara Republik Indonesia Tahun 1976 Nomor 26, Tambahan Lembaran Negara Republik Indonesia Nomor 3O8O);
-9. Undang-Undang Nomor 27 Tahwr 1999 tentang Perubahan Kitab UndangUndang Hukum Pidana yang Berkaitan dengan Kejahatan terhadap Keamanan Negara (kmbaran Negara Republik Indonesia Tahun 1999 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 385O), klnususnya berkaitan dengan kriminalisasi terhadap penyebaran ajaran Marxisme dan Leninisme; dan
+6. Penetapan Presiden Nomor 1 Tahun 1965 tentang Pencegahan Penyalahgunaan atau Penodaan Agama (Lembaran Negara 
+
+ Tahun 1965 Nomor 3, Tambahan kmbaran Negara 
+
+ Nomor 27261, yang antara lain telah menambahkan ketentuan Pasal 156a ke dalam Kitab Undang-Undang Hukum Pidana;
+7. Undang-Undang Nomor 7 Tahun 197 4 ter:tang Penertiban Perjudian (Lembaran Negara 
+
+ Tahun 1974 Nomor 54, Tambahan Lembaran Negara 
+
+ Nomor 3O40), yang mengubah ancaman pidana dalam Pasal 3O3 ayat (1), Pasal 542 ayat (1), dan Pasal 542 ayat (2) Kitab Undang-Undang Hukum Pidana dan mengubah sebutan Pasal 542 menjadi Pasal 303 bis;
+8. Undang-Undang Nomor 4 Tahun 1976 tentang Perubahan dan Penambahan Beberapa Pasal dalam Kitab Undang-Undang Hukum Pidana Bertalian dengan Perluasan Berlakunya Ketentuan Perundang-undangan Pidana, Kejahatan Penerbangan, dan Kejahatan terhadap Sarana/ Prasarana Penerbangan (Lembaran Negara 
+
+ Tahun 1976 Nomor 26, Tambahan Lembaran Negara 
+
+ Nomor 3O8O);
+9. Undang-Undang Nomor 27 Tahwr 1999 tentang Perubahan Kitab UndangUndang Hukum Pidana yang Berkaitan dengan Kejahatan terhadap Keamanan Negara (kmbaran Negara 
+
+ Tahun 1999 Nomor 74, Tambahan Lembaran Negara 
+
+ Nomor 385O), klnususnya berkaitan dengan kriminalisasi terhadap penyebaran ajaran Marxisme dan Leninisme; dan
 
 1O. Undang-Undang. . .
 
 <!-- image -->
 
-- 1O. Undang-Undang Nomor 31 Tahu 999 tentang Pemberantasan Tindak Pidana Korupsi (lembaran Negara Republik Indonesia Tahun 1999 Nomor 140, Tambahan kmbaran Negara Republik Indonesia Nomor 3874) sebagaimana telah diubah dengan Undang-Undang Nomor 20 Tahun 2OO1 tentang Perubahan atas Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi (kmbaran Negara Republik Indonesia Tahun 2001 Nomor 134, Tambahan lembaran Negara Republik Indonesia Nomor 4150).
+- 1O. Undang-Undang Nomor 31 Tahu 999 tentang Pemberantasan Tindak Pidana Korupsi (lembaran Negara 
+
+ Tahun 1999 Nomor 140, Tambahan kmbaran Negara 
+
+ Nomor 3874) sebagaimana telah diubah dengan Undang-Undang Nomor 20 Tahun 2OO1 tentang Perubahan atas Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi (kmbaran Negara 
+
+ Tahun 2001 Nomor 134, Tambahan lembaran Negara 
+
+ Nomor 4150).
 
 Berbagri pembaruan atau perubahan tersebut belum dapat memenuhi 4 (empat) misi perubahan mendasar yang telah diuraikan di atas yakni, dekolonialisasi, demokratisasi, konsolidasi, dan harmonisasi sehingga pen5rusunan Undang-Undang tentang Kitab Undang-Undang Hukum Pidana harus dilakukan secara menyelumh dan terkodifikasi.
 
@@ -5568,10 +5642,10 @@ Dengan pengaturan "Bab Tindak Pidana Khusus" tersebut, kewenangan yang telah ada
 6. Sejalan dengan proses globalisasi, laju pembangunan dan perkembangan sosial yang disertai dengan mobilitas sosial yang cepat serta kemajuan ilmu pengetahuan dan teknologi, diperkirakan jenis Tindak Pidana banr masih akan muncul di kemudian hari. Oleh karena itu, pengaturan jenis Tindak Pidana baru yang belum diatur dalam Undang-Undang ini atau yang akan muncul di kemudian hari dapat dilakukan melalui perubahan terhadap Undang-Undang ini atau mengaturnya dalam Undang-Undang tersendiri karena kekhususannya atas dasar Pasal 187 Buku Kesatu.
 
 Penjelasan umum dan Penjelasan pasal demi pasal dalam Undang-Undang ini merupakan tafsir resmi atas norma tertentu dalam batang tubuh. Penjelasan sebagai sarana untuk memperjelas norma dalam batang tubuh sehingga tidak boleh mengakibatkan terjadinya ketidakjelasan dari norma yang dimaksud. Untuk itu, penjelasan dalam Undang-Undang ini merupakan bagian yang tidak terpisahkan dari pasal dalam batang tubuh yang mendeskripsikan maksud dan makna yang terkandung dalam pa.sal tersebut.
+### II. Pasal demi Pasal
 
-**[. PASALDEMIPASAL**
 
-**Pasal 1**
+#### Pasal 1 ^penjelasan-pasal-1
 
 Ayat (l)
 
@@ -5581,7 +5655,8 @@ Ayat (2)
 
 Yang dimaksud dengan "analogi' adalah penafsiran dengan cara memberlakukan suatu ketentuan pidana terhadap kejadian atau peristiwa yang tidak diatur atau tidak disebutkan secara eksplisit dalam Undang-Undang dan Peraturan Daerah dengan cara menyamakan atau mengumpamakan kejadian atau peristiwa tersebut dengan kejadian atau peristiwa lain yang telah diatur dalam Undang-Undang dan Peraturan Daerah.
 
-Pasal 2
+
+#### Pasal 2 ^penjelasan-pasal-2
 
 Ayat (l)
 
@@ -5597,7 +5672,10 @@ Ayat (3)
 
 Peraturan Pemerintah dalam ketentuan ini merupakan pedoman bagi daerah dalam menetapkan hukum yang hidup dalam masyarakat dalam Peraturan Daerah.
 
-Pasal 3 Ayat (l) Cukup jelas. Ayatl2l Cukup jelas. Ayat (3) Cukup jelas.
+
+#### Pasal 3 ^penjelasan-pasal-3
+
+Ayat (l) Cukup jelas. Ayatl2l Cukup jelas. Ayat (3) Cukup jelas.
 
 <!-- image -->
 
@@ -5607,11 +5685,14 @@ Ayat (7)
 
 Yang dimaksud dengan "disesuaikan dengan batas pidana" adalah hanya untuk putusan pemidanaan yang lebih berat dari anczunan pidana maksimal dalam peraturan perundang-undangan yang baru, termasuk juga penyesuaian jenis ancarnan pidana yang berbeda.
 
-**Pasal 4**
+
+#### Pasal 4 ^penjelasan-pasal-4
 
 Hurufa
 
-Yang dimaksud dengan "wilayah Negara Kesatuan Republik Indonesia" adalah satu kesatuan wilayah kedaulatan di daratan, perairan pedalaman, perairan kepulauan beserta dasar laut dan tanah di bawahnya, dan ruang udara di atasnya serta seluruh wilayah yang batas dan hak negara di laut teritorial, zona tambahan, zona ekonomi eksklusif, dan landas kontinen yang diatur dalam Undang-Undang.
+Yang dimaksud dengan "wilayah Negara Kesatuan 
+
+" adalah satu kesatuan wilayah kedaulatan di daratan, perairan pedalaman, perairan kepulauan beserta dasar laut dan tanah di bawahnya, dan ruang udara di atasnya serta seluruh wilayah yang batas dan hak negara di laut teritorial, zona tambahan, zona ekonomi eksklusif, dan landas kontinen yang diatur dalam Undang-Undang.
 
 Huruf b
 
@@ -5621,7 +5702,8 @@ Hurrf c
 
 Yang dimaksud dengan "Tindak Pidana lainnya" misalnya, Tindak Pidana terhadap keamanan negara atau Tindak Pidana yang dirumuskan dalam perjanjian internasional yang telah disahkan oleh Indonesia.
 
-**Pasal 5**
+
+#### Pasal 5 ^penjelasan-pasal-5
 
 Ketentuan ini dimaksudkan untuk melindungi kepentingan hukum negara atau kepentingan nasional tertentu di luar negeri.
 
@@ -5633,11 +5715,14 @@ Penentuan kepentingan nasional tertenhr yang ingin dilindungi dalam ketentuan in
 
 Perumusan limitatif yang terbuka ini dimaksudkan untuk memberikan fleksibilitas praktik dan dalam perkembangan formulasi Tindak Pidana oleh pembentuk Undang-Undang pada masa yang akan datang. Fleksibilitas itu tetap dalam batas kepastian menurut ketentuan peraturan perundangundangan. Penentuan Tindak Pidana yang menyerang kepentingan nasional hanya terbatas pa.da perbuatan tertentu yang sungguh-sungguh melanggar kepentingan hukum nasional yang dilindungi. Pelaku hanya dituntut atas Tindak Pidana menurut hukum pidana Indonesia.
 
-Pelaku Tindak Pidana yang dikenai ketentuan ini adalah Setiap Orang, baik warga negara Indonesia maupun orang asing, yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia.
+Pelaku Tindak Pidana yang dikenai ketentuan ini adalah Setiap Orang, baik warga negara Indonesia maupun orang asing, yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan 
+
+.
 
 Alasan penerapan asas nasional pasif, karena pada umumnya Tindak Pidana yang merugikan kepentingan hukum suatu negara,.oleh negara tempat Tindak Pidana dilalnrkan tidak selalu dianggap sebagai suatu perbuatan yang harus dilarang dan diancam dengan pidana.
 
-**Pasal 6**
+
+#### Pasal 6 ^penjelasan-pasal-6
 
 Ketentuan ini mengandr:ng asas universal yang melindungi kepentingan hukum Indonesia dan/atau kepentingan hukum negara lain. Landasan pengaturan asas ini terdapat dalam konvensi intemasional yang telah disahkan oleh Indonesia, misaleya:
 
@@ -5646,19 +5731,23 @@ Ketentuan ini mengandr:ng asas universal yang melindungi kepentingan hukum Indon
 - c. konvensi internasional mengenai kejahatan penerbangan dan kejahatan terhadap sarana atau prasarana penerbangan; atau
 - d. konvensi intemasional mengenai pemberantasan peredaran gelap narkotika dan psikotropika.
 
-**Pasal 7**
+
+#### Pasal 7 ^penjelasan-pasal-7
 
 Ketentuan ini dimaksudkan unhrk mengantisipasi perkembangan adanya perjanjian antara Indonesia dan negara lain yang warga negara dari negara lain tersebut penuntutannya diambil alih dan diadili oleh Indonesia karena melakukan Tindak Pidana tertentu yang diatur dalam pe{anjian tersebut.
 
-**Pasal 8**
+
+#### Pasal 8 ^penjelasan-pasal-8
 
 Cukup jelas.
 
-Pasal 9
+
+#### Pasal 9 ^penjelasan-pasal-9
 
 Cukup jelas.
 
-**Pasal 10**
+
+#### Pasal 10 ^penjelasan-pasal-10
 
 Waktu Tindak Pidana dalam ketentuan ini, misalnya:
 
@@ -5668,7 +5757,8 @@ Waktu Tindak Pidana dalam ketentuan ini, misalnya:
 
 Ketentuan ini tidak membedakan antara Tindak Pidana formil dan Tindak Pidana materiel.
 
-**Pasal 11**
+
+#### Pasal 11 ^penjelasan-pasal-11
 
 Tempat Tindak Pidana dalam ketentuan ini, misalnya:
 
@@ -5676,11 +5766,13 @@ Tempat Tindak Pidana dalam ketentuan ini, misalnya:
 - b. tempat bekerjanya alat atau bahan untuk menyempurnakan Tindak Pidana; atau
 - c. tempat terjadinya akibat dari perbuatan yang dapat dipidana.
 
-Pasal 12
+
+#### Pasal 12 ^penjelasan-pasal-12
 
 Cukup jelas.
 
-Pasal 13
+
+#### Pasal 13 ^penjelasan-pasal-13
 
 Ayat (1)
 
@@ -5702,13 +5794,15 @@ Ayat (s)
 
 Cukup jelas.
 
-Pasal 14
+
+#### Pasal 14 ^penjelasan-pasal-14
 
 Cukup jelas.
 
 <!-- image -->
 
-Pasal 15
+
+#### Pasal 15 ^penjelasan-pasal-15
 
 Ayat (l)
 
@@ -5732,25 +5826,30 @@ Ayat (s)
 
 Cukup jelas.
 
-**Pasal 16**
+
+#### Pasal 16 ^penjelasan-pasal-16
 
 Yang dimaksud dengan "menghentikan", misalnya, telah membeli bahan kimia tetapi tidak jadi diolah menjadi bahan peledak untuk mencapai tujuan Tindak Pidana.
 
 Yang dimaksud dengan "mencegah", misalnya, melaporkan kepada pihak yang berwenang mengenai keberadaan sarana yang akan digunakan untuk Tindak Pidana.
 
-Pasal 17
+
+#### Pasal 17 ^penjelasan-pasal-17
 
 Cukup jelas.
 
-Pasal 18
+
+#### Pasal 18 ^penjelasan-pasal-18
 
 Cukup jelas.
 
-Pasal 19
+
+#### Pasal 19 ^penjelasan-pasal-19
 
 Cukup jelas.
 
-Pasal 2O
+
+#### Pasal 20 ^penjelasan-pasal-20
 
 Hurufa
 
@@ -5774,7 +5873,8 @@ Dalam turut serta melakukan Tindak Pidana, perbuatan masing-masing orang yang tu
 
 Yang dimaksud dengan "menggerald&lt;an orang lain supaya melakukan Tindak Pidana", termasuk membujuk, menganjurkan, memancing, atau memikat orang lain dengan cara tertentu.
 
-**Pasal 21**
+
+#### Pasal 21 ^penjelasan-pasal-21
 
 Ayat (1)
 
@@ -5802,19 +5902,23 @@ Ayat (a) Cukup jelas. Ayat (5)
 
 Cukup jelas.
 
-PaseJ22
+
+#### Pasal 22 ^penjelasan-pasal-22
 
 Yang dimaksud dengan "keadaan pribadi" adalah keadaan di mana pelaku atau pembantu berumur lebih tua atau muda, memiliki jabatan tertentu, menjalani profesi tertentu, atau meng.lami gangguan mental.
 
-Pasal 23
+
+#### Pasal 23 ^penjelasan-pasal-23
 
 Cukup jelas.
 
-Pasal 24
+
+#### Pasal 24 ^penjelasan-pasal-24
 
 Cukup jelas.
 
-Pasal 25
+
+#### Pasal 25 ^penjelasan-pasal-25
 
 Ayat (1)
 
@@ -5832,37 +5936,45 @@ Ayat (a)
 
 Yang dimaksud dengan "pendamping" adalah orang yang dipercaya oleh Korban Tindak Pidana aduan yang belum berumur 16 (enam belas) tahun untuk berlangsung. selama proses peradilan pidana
 
-Pasal 26
+
+#### Pasal 26 ^penjelasan-pasal-26
 
 Cukup jelas.
 
-Pasal 27
+
+#### Pasal 27 ^penjelasan-pasal-27
 
 Cukup jelas.
 
-Pasal 28
+
+#### Pasal 28 ^penjelasan-pasal-28
 
 Cukup jelas.
 
 <!-- image -->
 
-Pasal 29
+
+#### Pasal 29 ^penjelasan-pasal-29
 
 Cukup jelas.
 
-Pasal 30
+
+#### Pasal 30 ^penjelasan-pasal-30
 
 Cukup jelas.
 
-Pasal 31
+
+#### Pasal 31 ^penjelasan-pasal-31
 
 Cukup jelas.
 
-**Pasal 32**
+
+#### Pasal 32 ^penjelasan-pasal-32
 
 Dalam ketenhran ini, harus ada hubungan yang bersifat hukum publik antara yang memberikan perintah dan yang melaksanakan perintah. Ketentuan ini tidak berlaku untuk hubungan yang bersilat keperdataan.
 
-**Pasal 33**
+
+#### Pasal 33 ^penjelasan-pasal-33
 
 Yang dimaksud dengan "keadaan daruraf, misalnya:
 
@@ -5870,7 +5982,8 @@ Yang dimaksud dengan "keadaan daruraf, misalnya:
 - b. tindakan dokter yang menghadapi situasi ibu hamil dengan risiko tinggi, apakah dokter akan menyelamatkan ibu dengan risiko bayi meninggal atau menyelamatkan bayi dengan risiko ibu meninggal; atau
 - c. pemadam kebakaran yang menghadapi situasi piJihan antara menyelamatkan rumah sekitar dengan merobohkan rumah yang terbakar.
 
-**Pasal 34**
+
+#### Pasal 34 ^penjelasan-pasal-34
 
 Ketentuan ini mengatur tentang pembelaan terpaksa yang mensyaratkan 4 (empat) keadaan, yaitu:
 
@@ -5879,13 +5992,15 @@ Ketentuan ini mengatur tentang pembelaan terpaksa yang mensyaratkan 4 (empat) ke
 - c. pembelaan hanya dapat dilakukan terhadap kepentingan yang ditentukan secara limitatif yaitu kepentingan hukum diri sendiri atau orang lain, kehormatan dalam arti kesusilaan, atau harta benda; dan
 - d. keseimbangan antara pembelaan yang dilakukan dan serangan yang diterima (proporsionalitas).
 
-Pasal 35
+
+#### Pasal 35 ^penjelasan-pasal-35
 
 Cukup jelas.
 
 <!-- image -->
 
-**Pasal 36**
+
+#### Pasal 36 ^penjelasan-pasal-36
 
 **Ayat (1)**
 
@@ -5897,7 +6012,8 @@ Ketentuan pada ayat ini dimaksudkan bahwa se'rap Tindak Pidana dalam peraturan p
 
 Bentuk lain dari sengaja biasanya dirumuskan dalam peraturan perundang-undangan menggunakan istilah "dengan maksud", "mengetahui', "yaog diketahuinya", "padahal diketahuinya", atau "sedangkan ia mengetahui".
 
-**Pasal 37**
+
+#### Pasal 37 ^penjelasan-pasal-37
 
 Ketentuan ini ditujukan bagi Tindak Pidana yang mengandung asas pertanggungiawaban mutlak (strbt liabilitgl atau pertanggungiawaban pengganti (uicaious liabilitgl yang dinyatakan secara tegas oleh UndangUndang yang bersangkutan.
 
@@ -5909,7 +6025,8 @@ Ketentuan ini mengandung asas pertanggungiawaban mutlak (stnct liabilitgl yang m
 
 Ketentuan ini mengandung asas pertanggungiawaban pengganti (ubaious liabilitgl yang menentukan bahwa Setiap Orang bertanggung jawab atas perbuatan yang dilakukan oleh orang lain yang melakukan pekerjaan atau perbuatan untuknya atau dalam batas perintahnya, misalnya pimpinan perusahaan yang bertanggung jawab atas perbuatan bawahannya.
 
-**Pasal 38**
+
+#### Pasal 38 ^penjelasan-pasal-38
 
 Yang dimaksud dengan "disabilitas mental" adalah terganggunya fungsi pikir, emosi, dan perilaku, antara lain:
 
@@ -5924,17 +6041,20 @@ Yang dimaksud dengan "disabilitas intelektual" adalah terganggunya fungsi pikir 
 
 Pelaku Tindak Pidana y€rng menyandang disabilitas mental dan/atau disabilitas intelektual dinilai kurang mampu untuk menginsali tentang sifat melawan hukum dari perbuatan yang dilakukan atau untuk berbuat berdasarkan keinsafan yang dapat dipidana.
 
-**Pasal 39**
+
+#### Pasal 39 ^penjelasan-pasal-39
 
 Dalam ketentuan ini, penyandang disabilitas mental yang dalam keadaan kekambuhan akut dan disertai gambaran psikotik dan/atau penyandang disabilitas intelektual derajat sedang atau berat, tidak mampu bertanggung jawab.
 
 Untuk dapat menjelaskan tidak mampu bertanggung jawab dari segi medis, perlu dihadirkan ahli sehingga pelaku Tindak Pidana dipandang atau dinilai sebagai tidak mampu bertanggung jawab.
 
-**Pasal 40**
+
+#### Pasal 40 ^penjelasan-pasal-40
 
 Ketentuan ini mengatur tentang batas umur minimum unhrk dapat dipertanggungiawabkan secara pidana bagi anak yang melakukan Tindak Pidana. Penentuan batas umur 12 (dua belas) tahun didasarkan pada pertimbangan psikologis yaitu kematangan emosional, intelektual, dan mental anak. Anak di bawah umur 12 (dua belas) tahun tidak dapat dipertanggungiawabkan secara pidana dan karena itu pen€rng€uxan perkaranya dilaksanakan sesuai dengan ketenhran peratuztn penrndangundangan yang mengatur mengenai sistem peradilan pidana anak.
 
-**Pasal 4l**
+
+#### Pasal 41 ^penjelasan-pasal-41
 
 **Huruf a**
 
@@ -5948,7 +6068,8 @@ Dalam ketenhran ini, anak yang masih sekolah tetap dapat mengikuti pendidikan fo
 
 Dalam pelaksanaan program pendidikan, pembinaan, dan pembimbingan dapat melibatkan dinas pendidikan, dinas sosial, pembimbing kemasyarakatan, lembaga pendidikan, dan lembaga penyelenggaraan kesejahteraan sosial.
 
-**Pasal 42**
+
+#### Pasal 42 ^penjelasan-pasal-42
 
 Ketentuan ini berkenaan dengan daya paksa yang dibagi menjadi paksaan mutlak dan paksaan relatif.
 
@@ -5965,22 +6086,26 @@ Yang dimaksud dengan "dipaksa oleh adanya ancaman, tekanan, atau kekuatan yang t
 
 Tekanan kejiwaan dari luar merupakan syarat utama. Mungkin pula seseorang mengalami tekanan kejiwaan, tetapi bukan karena sesuatu yang datang dari luar, melainkan karena keberatan yang didasarkan kepada pertimbangan pikirannya sendiri. Hal yang demikian tidak merupakan alasan pemaaf yang dapa.t menghapuskan pidananya.
 
-**Pasal 43**
+
+#### Pasal 43 ^penjelasan-pasal-43
 
 Ketentuan ini mengatur pembelaan terpaksa yang melampaui batas, dengan syarat:
 
 - a. pembelaan melampaui batas atau tidak proporsional dengan serangan atau ancaman serangan seketika; dan
 - b. yang disebabkan oleh keguncangan jiwa yang hebat karena adanya serangan atau ancaman serangan seketika.
 
-**Pasal 44**
+
+#### Pasal 44 ^penjelasan-pasal-44
 
 Cukup jelas.
 
-**Pasal 45**
+
+#### Pasal 45 ^penjelasan-pasal-45
 
 Cukup jelas.
 
-**Pasal 46**
+
+#### Pasal 46 ^penjelasan-pasal-46
 
 Yang dimaksud dengan "kedudukan fungsional" adalah orang tersebut mempunyai kewenangan mewakili, mengambil kepuhrsan, dan untuk menerapkan pengawaszrn terhadap Korporasi tersebut, termasuk yang berkedudukan sebagai orang yang menJruruh melakukan, turut serta melakukan, menggerakkan orang lain supaya melakukan Tindak Pidana, atau membantu Tindak Pidana tersebut.
 
@@ -5990,11 +6115,13 @@ Yang dimaksud dengan "kedudukan fungsional" adalah orang tersebut mempunyai kewe
 
 Yang dimaksud dengan "hubungan lain" misalnya, kontrak kerja yang bersifat sementara.
 
-**Pasal 47**
+
+#### Pasal 47 ^penjelasan-pasal-47
 
 Yang dimaksud dengan "pemegang kendali" adalah Setiap Orang yang memiliki kekuasaan atau wewenang sebagai penentu kebijalen Korporasi atau memiliki kewenangan untuk melakukan kebijalran Korporasi tersebut tanpa hanrs mendapat otorisasi dari atasannya.
 
-**Pasal 48**
+
+#### Pasal 48 ^penjelasan-pasal-48
 
 Mengenai kedudukan sebagai pelaku Tindak Pidana dan sifat pertanggungiawaban pidana dari Korporasi terdapa.t kemungkinan sebagai berikut:
 
@@ -6004,27 +6131,36 @@ Mengenai kedudukan sebagai pelaku Tindak Pidana dan sifat pertanggungiawaban pid
 
 Oleh karena itu, jika suatu Tindak Pidana dilakukan oleh dan untuk suatu Korporasi maka penuntutannya dapat dilakukan dan pidananya dapat dijatuhkan terhadap Korporasi sendiri, atau Korporasi dan pengurusnya, atau pengurusnya saja.
 
-**Pasal 49**
+
+#### Pasal 49 ^penjelasan-pasal-49
 
 Cukup jelas.
 
-**Pasal 50**
+
+#### Pasal 50 ^penjelasan-pasal-50
 
 Dalam hal orurng perseorangan tersebut mempunyai kedudukan fungsional dalam struktur organisasi Korporasi, yang bertindak untuk dan atas nama Korporasi atau demi kepentingan Korporasi, berdasarkan hubungan kerja atau berdasarkan hubungan lain, dalam lingkup usaha Korporasi tersebut, alasan pembenar dapa.t diajukan atas nama Korporasi. Contoh, seor€rng pegawai (karyawan) perusahaan yang merusak pipa pembuangan limbah milik pemerintah untuk menyelamatkan para kar5rawan perusahaan.
 
-**Pasal 51**
+
+#### Pasal 51 ^penjelasan-pasal-51
 
 Cukup jelas.
 
-```
-Pasal 52 Cukup jelas. Pasal 53 Ayat (1) Cukup jelas. Ayat(21
-```
 
+#### Pasal 52 ^penjelasan-pasal-52
+
+Cukup jelas. 
+
+
+#### Pasal 53 ^penjelasan-pasal-53
+
+Ayat (1) Cukup jelas. Ayat(21
 Kepa.stian hukum dan keadilan merupakan 2 (dua) tqiuan hukum yang kerap kali tidak sejalan satu sama lain dan sulit dihindarkan dalam praktik hukum. Suatu peraturan perundarrg-undangan yang lebih banyak memenuhi tuntutan kepastian hukum maka semakin besar pula kemungkinan aspek keadilan terdesak. peraturan perundang-undangan ini dalam praktik dapat diatasi dengan jalan memberi penafsiran atas peraturan perundang-undangan tersebut dalam penerapannya pada kejadian konkret.
 
 Jika dalam penerapan yang konkret, terjadi pertentangan antara kepastian hukum dan keadilan, hakim sedapat mungkin keadilan di atas kepastian hukum.
 
-**Pasal 54**
+
+#### Pasal 54 ^penjelasan-pasal-54
 
 Ayat (1)
 
@@ -6036,7 +6172,8 @@ Ayat (2)
 
 Ketentuan pada ayat ini dikenal dengan asas reclterlijlce pardon atau judicialpardonyang memberi kewenangan kepada hakim untuk memberi maaf pada seseorzrng yang bersalah melakukan Tindak Pidana yang sifatnya ringan. Pemberian maaf ini dicantumkan dalam putusan hakim dan tetap harus dinyatakan bahwa terdakwa terbukti melakukan Tindak Pidana yarrg didalnvakan kepadanya.
 
-Pasal 55
+
+#### Pasal 55 ^penjelasan-pasal-55
 
 Yang dimaksud dengan "sengaja menyebabkan te{adinya keadaan yang dapat menjadi alasan peniadaan pidana" adalah bahwa pelaku dengan seng4a mengondisikan dirinya atau suatu keadaan tertentu dengan maksud agar dapat dibebaskan dari pertanggungjawaban pidana karena alasan pembenar atau alasan pemaaf.
 
@@ -6044,43 +6181,53 @@ Yang dimaksud dengan "sengaja menyebabkan te{adinya keadaan yang dapat menjadi a
 
 AUl( INDONESIA
 
-Pasal 56
+
+#### Pasal 56 ^penjelasan-pasal-56
 
 Cukup jelas.
 
-Pasal 57
+
+#### Pasal 57 ^penjelasan-pasal-57
 
 memenuhi tujuan pemidanaan. Meskipun hakim mempunyai pilihan dalam menghadapi rumusan pidana yang bersifat alternatif, namun dalam melalrukan pilihan tersebut hakim senantiasa berorientasi pada tqluan pemidanaan, dengan mendahulukan atau mengutamakan jenis pidana yang lebih ringan jika hal tersebut telah
 
-Pasal 58
+
+#### Pasal 58 ^penjelasan-pasal-58
 
 Cukup jelas.
 
-Pasal 59
+
+#### Pasal 59 ^penjelasan-pasal-59
 
 Ketentuan ini bertujuan memberi kepastian (petunjuk) bagi hakim dalam menjatuhkan pidana apabila terdapat hal-hal yang memperberat pidana dengan ditetapkannya maksimum ancaman pidananya ditambah 1/3 (satu per tiga).
 
-Pasal 60
+
+#### Pasal 60 ^penjelasan-pasal-60
 
 Cukup jelas.
 
-Pasal 61
+
+#### Pasal 61 ^penjelasan-pasal-61
 
 Cukup jelas.
 
-Pasal 62
+
+#### Pasal 62 ^penjelasan-pasal-62
 
 Cukup jelas.
 
-Pasal 63
+
+#### Pasal 63 ^penjelasan-pasal-63
 
 Cukup jelas.
 
-Pasal 64
+
+#### Pasal 64 ^penjelasan-pasal-64
 
 Cukup jelas.
 
-Pasal 65
+
+#### Pasal 65 ^penjelasan-pasal-65
 
 Ayat (1)
 
@@ -6102,21 +6249,24 @@ Pada dasarnya hakim mempunyai pilihan untuk menjatuhkan salah satu pidana yang b
 
 Ganti rugi dalam ketentuan ini sama dengan restitusi sebegeimana diatur dalam peraturan perundang-undangan yang mengatur
 
-```
-Pasal 66 Ayat (1) Hurufa Cukup jelas. Hurufb Cukup jelas. Hurufc Cukup jelas. Hurufd mengenai perlindungan saksi dan korban. Hurufe Cukup jelas. Huruf f Cukup jelas. Ayat (2) Cukup jelas.
-```
 
+#### Pasal 66 ^penjelasan-pasal-66
+
+Ayat (1) Hurufa Cukup jelas. Hurufb Cukup jelas. Hurufc Cukup jelas. Hurufd mengenai perlindungan saksi dan korban. Hurufe Cukup jelas. Huruf f Cukup jelas. Ayat (2) Cukup jelas.
 Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas.
 
-**Pasal 67**
+
+#### Pasal 67 ^penjelasan-pasal-67
 
 Dalam ketentuan ini, Tindak Pidana yang dapat diancam dengan pidana yang bersifat khusus adalah Tindak Pidana yang sangat serius atau yang luar biasa, antara lain, Tindak Pidana narkotika, Tindak Pidana terorisme, Tindak Pidana korupsi, dan Tindak Pidana berat terhadap hak asasi manusia. Untuk itu, pidana mati dicantumkan dalam bagian tersendiri untuk menunjukkan bahwa jenis pidana ini benar-benar bersifat khusus. Jika dibandingkan dengan jenis pidana yang lain, pidana mati merupakan jenis pidana yang paling berat. Oleh karena itu, harus selalu diancamkan secara alternatif dengan jenis pidana lainnya yakni pidana penjara seulnur hidup atau pidana penjara paling lama 20 (dua puluh) tahun.
 
-Pasal 68
+
+#### Pasal 68 ^penjelasan-pasal-68
 
 Cukup jelas.
 
-Pasal 69
+
+#### Pasal 69 ^penjelasan-pasal-69
 
 Ayat (l)
 
@@ -6126,11 +6276,13 @@ Ayatl2l
 
 Cukup jelas.
 
-Pasal 7O
+
+#### Pasal 70 ^penjelasan-pasal-70
 
 Cukup jelas.
 
-Pasal 71
+
+#### Pasal 71 ^penjelasan-pasal-71
 
 Ayat (l)
 
@@ -6150,7 +6302,8 @@ Ayat (4)
 
 Berdasarkan ketentuan ini kewenangan hakim untuk menjatuhkan pidana denda sebagai pengganti pidana penjara, dibatasi dengan ketentuan pelaku Tindak Pidana tetap dijatuhi pidana penjara meskipun diancam dengan pidana tunggal apabila yang bersangkutan pernah dijatuhi pidana penjara karena Tindak Pidana yang dilakukannya setelah berumur 18 (delapan belas) tahun.
 
-Pasa772
+
+#### Pasal 72 ^penjelasan-pasal-72
 
 Ayat (1)
 
@@ -6172,31 +6325,54 @@ Pemberian pembebasan bersyarat disertai dengan masa percobaan yakni sama dengan 
 
 <!-- image -->
 
-Ayat (s) Cukup jelas. Pasal 73 Ayat (1) Dalam ketentuan ini ditetapkan syarat yang harus dipenuhi selama masa percobaan. Syarat untuk tidak melakukan Tindak Pidana selama masa percobaan merupakan syarat umum. Sedangkan syarat khusus dalam masa percobaan adalah perbuatan tertentu yang harus dihindari atau harus dilat&lt;ukan oleh narapidana, misatrya, tidak boleh minum minuman keras. Syarat khusus tersebut tidak boleh mengurangi hak narapidana, misalnya, hak menganut dan menjalankan ibadah sesuai dengan agama atau kepercayaannya. Ayat (2) Dalam ketenhran ini perubahan atas syarat khusus dapat dilakukan dengan mempertimbangkan hasil pembimbingan terhadap narapidana yang bersangkutan. Ayat (s) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. PasaJT4 Ayat (l) Pertimbangan penjatuhan pidana tutupan didasarkan pa.da motif dari pelaku Tindak Pidana yaitu karena terdorong oleh maksud yang patut dihormati. Tindak Pidana yang dilakukan karena alasan ini pada dasamya Tindak Pidana politik. Ayat (2) Dalam ketentuan ini, maksud yang patut dihormati harus ditentukan oleh hakim dan harus termuat dalam pertimbangan putusannya. Ayat (3) Cukup jelas.
+Ayat (s) Cukup jelas. 
+
+
+#### Pasal 73 ^penjelasan-pasal-73
+
+Ayat (1) Dalam ketentuan ini ditetapkan syarat yang harus dipenuhi selama masa percobaan. Syarat untuk tidak melakukan Tindak Pidana selama masa percobaan merupakan syarat umum. Sedangkan syarat khusus dalam masa percobaan adalah perbuatan tertentu yang harus dihindari atau harus dilat&lt;ukan oleh narapidana, misatrya, tidak boleh minum minuman keras. Syarat khusus tersebut tidak boleh mengurangi hak narapidana, misalnya, hak menganut dan menjalankan ibadah sesuai dengan agama atau kepercayaannya. Ayat (2) Dalam ketenhran ini perubahan atas syarat khusus dapat dilakukan dengan mempertimbangkan hasil pembimbingan terhadap narapidana yang bersangkutan. Ayat (s) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. 
+
+
+#### Pasal 74 ^penjelasan-pasal-74
+
+Ayat (l) Pertimbangan penjatuhan pidana tutupan didasarkan pa.da motif dari pelaku Tindak Pidana yaitu karena terdorong oleh maksud yang patut dihormati. Tindak Pidana yang dilakukan karena alasan ini pada dasamya Tindak Pidana politik. Ayat (2) Dalam ketentuan ini, maksud yang patut dihormati harus ditentukan oleh hakim dan harus termuat dalam pertimbangan putusannya. Ayat (3) Cukup jelas.
+
+
 
 Pasal 75...
 
-**Pasal 75**
+
+#### Pasal 75 ^penjelasan-pasal-75
 
 Pidana pengawasan merupakan salah satu jenis pidana pokok, namun sebenamya merupakan cara pelaksanaan dari pidana penjara sehingga tidak diancamkan secara khusus dalam perumusan suatu Tindak Pidana. Pidana pengawasan merupakan pembinaan di luar lembaga atau di luar penjara, yang sempa dengan pidana penjara bersyarat yang terdapat dalam Wetboek uan Strafrecht (Kitab Undang-Undang Hukum Pidana sebagaimana ditetapkan dengan Undang-Undang Nomor I Tahun 1946 tentang Peraturan Hukum Pidana). Pidana ini mempakan altematif dari pidana penjara dan tidak ditujukan untuk Tindak Pidana yang berat siliatnya.
 
-Pasal 76 Ayat (1) Penjatutran pidana pengawasan terhadap orang yang melakukan Tindak Pidana yang diancam dengan pidana penjara, sepenuhnya terletak pada pertimbangan hakim, dengan memperhatikan keadaan dan perbuatan terpidana. Jenis pidana ini dijatuhkan kepada orang yang pertama kali melakukan Tindak Pidana. Ayat(2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Yang dimaksud dengan "terpidana" adalah klien pemasyarakatan. Yang dimaksud dengan 'menjalani pidana penjara yang lamanya tidak lebih dari ancannan pidana penjara bagi Tindak Pidana itu" adalah menjalani pidana yang pelaksanaannya dijalankan setelah terpidana selesai menjalani pidana penjara dari Tindak Pidana baru. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat(71 Cukup jelas. PaseJ77 Cukup jelas.
+
+#### Pasal 76 ^penjelasan-pasal-76
+
+Ayat (1) Penjatutran pidana pengawasan terhadap orang yang melakukan Tindak Pidana yang diancam dengan pidana penjara, sepenuhnya terletak pada pertimbangan hakim, dengan memperhatikan keadaan dan perbuatan terpidana. Jenis pidana ini dijatuhkan kepada orang yang pertama kali melakukan Tindak Pidana. Ayat(2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Yang dimaksud dengan "terpidana" adalah klien pemasyarakatan. Yang dimaksud dengan 'menjalani pidana penjara yang lamanya tidak lebih dari ancannan pidana penjara bagi Tindak Pidana itu" adalah menjalani pidana yang pelaksanaannya dijalankan setelah terpidana selesai menjalani pidana penjara dari Tindak Pidana baru. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat(71 Cukup jelas. 
+
+
+#### Pasal 77 ^penjelasan-pasal-77
+
+Cukup jelas.
 
 <!-- image -->
 
-**REPUELIK INDONESIA**
 
-**Pasal 78**
+#### Pasal 78 ^penjelasan-pasal-78
 
 Ayat (1)
 
-Uang dalam ketentuan ini adalah uang yang dikeluarkan oleh Negara Kesatuan Republik Indonesia yaitu Rupiah (Rp).
+Uang dalam ketentuan ini adalah uang yang dikeluarkan oleh Negara Kesatuan 
+
+ yaitu Rupiah (Rp).
 
 Ayat12)
 
 Dalam menentukan satuan terkecil pidana denda sebagaimana ditentukan pada ayat ini dipergunakan jumlah besamya upah minimum harian.
 
-Pasal 79
+
+#### Pasal 79 ^penjelasan-pasal-79
 
 Ayat (1)
 
@@ -6215,11 +6391,13 @@ Ayat (2)
 
 Cukup jelas.
 
-Pasal 80
+
+#### Pasal 80 ^penjelasan-pasal-80
 
 Cukup jelas.
 
-Pasal 8l
+
+#### Pasal 81 ^penjelasan-pasal-81
 
 Ayat (1)
 
@@ -6245,7 +6423,8 @@ Ayat (3)
 
 Yang dimaksud dengan "tidak dibayar'adalah tidak dibayar sama sekali atau dibayar sebagian.
 
-**Pasal 82**
+
+#### Pasal 82 ^penjelasan-pasal-82
 
 Ayat (1)
 
@@ -6263,15 +6442,18 @@ Ayat (4)
 
 Cukup jelas.
 
-Pasal 83
+
+#### Pasal 83 ^penjelasan-pasal-83
 
 Cukup jelas.
 
-**Pasal 84**
+
+#### Pasal 84 ^penjelasan-pasal-84
 
 Ketentuan ini dimaksudkan untuk mencegah kemungkinan tidak efektifnya penjatuhan pidana denda untuk seseorang yang telah berulang kali melakukan Tindak Pidana yang hanya diancam dengan pidana denda.
 
-**Pasal 85**
+
+#### Pasal 85 ^penjelasan-pasal-85
 
 Ayat (1)
 
@@ -6339,7 +6521,8 @@ Ayat (9)
 
 Cukup jelas.
 
-**Pasal 86**
+
+#### Pasal 86 ^penjelasan-pasal-86
 
 Hak terpidana yang dapat dicabut dengan putusan hakim ditentukan secara limitatif, yaitu terbatas pada yang tercantum dalam pasal ini. Dalam penjatuhan pidana tambahan yang perlu mendapat perhatian adalah pencabutan hak tersebut jangan sampai mengakibatkan kematian perdata bagi seseorang, artinya, yang bersangkutan kehilangan sama sekali haJmya sebagai warga negara yang harus dapat hidup secara wajar dan manusiawi.
 
@@ -6375,23 +6558,28 @@ Cukup jelas.
 
 <!-- image -->
 
-Pasal 87
+
+#### Pasal 87 ^penjelasan-pasal-87
 
 Cukup jelas.
 
-Pasal 88
+
+#### Pasal 88 ^penjelasan-pasal-88
 
 Cukup jelas.
 
-Pasal 89
+
+#### Pasal 89 ^penjelasan-pasal-89
 
 Cukup jelas.
 
-Pasal 90
+
+#### Pasal 90 ^penjelasan-pasal-90
 
 Cukup jelas.
 
-Pasal 91
+
+#### Pasal 91 ^penjelasan-pasal-91
 
 Hurufa
 
@@ -6417,7 +6605,8 @@ Huruf f
 
 Cukup jelas.
 
-Pasal 92
+
+#### Pasal 92 ^penjelasan-pasal-92
 
 Ayat (1)
 
@@ -6433,7 +6622,8 @@ Ketentuan tentang pidana pengganti untuk pidana tambaharr dirumuskan sebagai upa
 
 <!-- image -->
 
-Pasal 93
+
+#### Pasal 93 ^penjelasan-pasal-93
 
 Ayat (1)
 
@@ -6443,7 +6633,8 @@ Ayatl2l
 
 Seperti pada pidana perampasan Barang tertentu, jika terpidana tidak membayar biaya pengumuman, maka berlaku ketentuan yang sama tentang pidana pengganti untuk pidana denda.
 
-Pasal 94
+
+#### Pasal 94 ^penjelasan-pasal-94
 
 Ayat (1)
 
@@ -6453,19 +6644,23 @@ Ayat (2)
 
 Ketentuan mengenai pelaksanaan pidana denda diberlakukan terhadap pidana pembayaran ganti rugi dengan catatan bahwa terpidana membayarkan uang tersebut kepada Korban dan bukan kepada negara.
 
-Pasal 95
+
+#### Pasal 95 ^penjelasan-pasal-95
 
 Cukup jelas.
 
-Pasal 96
+
+#### Pasal 96 ^penjelasan-pasal-96
 
 Cukup jelas.
 
-Pasal 97
+
+#### Pasal 97 ^penjelasan-pasal-97
 
 Cukup jelas.
 
-Pasal 98
+
+#### Pasal 98 ^penjelasan-pasal-98
 
 Pidana mati tidak terdapat dalam stelsel pidana pokok. Pidana mati ditentukan dalam pasal tersendiri unhrk menunjukkan bahwa jenis pidana ini benar-benar bersiliat khusus sebagai upa.ya terakhir untuk mengayomi masyarakat. Pidana mati adalah pidana yang paling berat dan harus selalu diancamkan secara altematif dengan pidana penjara serunur hidup atau pidana penjara paling lama 20 (dua puluh) tahun. Pidana mati dijatuhkan dengan masa percobaan, sehingga dalam tenggang waktu masa percobaan tersebut terpidana diharapkan dapat memperbaiki diri sehingga pidana mati tidak perlu dilaksanalan, dan dapat diganti dengan pidana penjara seumur hidup.
 
@@ -6473,7 +6668,30 @@ Pidana mati tidak terdapat dalam stelsel pidana pokok. Pidana mati ditentukan da
 
 <!-- image -->
 
-Pasal 99 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Pelaksanaan pidana mati dengan cara menembak terpidana didasarkan pada pertimbangan bahwa sampai saat ini cara tersebut dinilai paling manusiawi. Dalam hal di kemudian hari terdapat cara lain yang lebih manusiawi daripada dengan cara menembak terpidana, pelaksanaan pidana mati disesuaikan dengan perkembangan tersebut. Ayat (4) Pelaksanaan pidana mati terhadap perempuan hamil harus ditunda sampai ia melahirkan dan sampai bayi tidak lagi mengonsumsi air susu ibu. Hal ini dimaksudkan agar pelaksanaan pidana mati tidak mengakibatkan terjadinya pembunuhan terhadap 2 (dua) makhluk dan menjamin hak asasi bayr yang baru dilahi*an. Pasal 100 Cukup jelas. Pasal 101 Cukup jelas. Pasal 102 Cukupjelas. Pasal 103 Ayat (1) Hurufa Yang dimaksud dengan "konseling" adalah proses pemberian
+
+#### Pasal 99 ^penjelasan-pasal-99
+
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Pelaksanaan pidana mati dengan cara menembak terpidana didasarkan pada pertimbangan bahwa sampai saat ini cara tersebut dinilai paling manusiawi. Dalam hal di kemudian hari terdapat cara lain yang lebih manusiawi daripada dengan cara menembak terpidana, pelaksanaan pidana mati disesuaikan dengan perkembangan tersebut. Ayat (4) Pelaksanaan pidana mati terhadap perempuan hamil harus ditunda sampai ia melahirkan dan sampai bayi tidak lagi mengonsumsi air susu ibu. Hal ini dimaksudkan agar pelaksanaan pidana mati tidak mengakibatkan terjadinya pembunuhan terhadap 2 (dua) makhluk dan menjamin hak asasi bayr yang baru dilahi*an. 
+
+
+#### Pasal 100 ^penjelasan-pasal-100
+
+Cukup jelas. 
+
+
+#### Pasal 101 ^penjelasan-pasal-101
+
+Cukup jelas. 
+
+
+#### Pasal 102 ^penjelasan-pasal-102
+
+Cukupjelas. 
+
+
+#### Pasal 103 ^penjelasan-pasal-103
+
+Ayat (1) Hurufa Yang dimaksud dengan "konseling" adalah proses pemberian
 
 bimbingan atau bantuan dalam rangka mengatasi masalah dan mengubah perilaku menjadi positif dan konstruktif.
 
@@ -6521,15 +6739,55 @@ Ayat(3)...
 
 <!-- image -->
 
-```
-Ayat (3) Cukup jelas. Pasal 104 Cukup jelas. Pasal 105 Cukup jelas. Pasal 1O6 Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan."pe kerja" termasuk, minat, bakat, atau latihan kerja yang pernah diikuti. Pasal 107 Cukup jelas. Pasal 108 Cukup jelas. Pasal 109 Cukup jelas. Pasal 110 Ayat (1) Rumah sakit jiwa dalam ketentuan ini adalah rumah sakit milik pemerintah. Ayat(21 Cukup jelas. Ayat (s) Cukup jelas. Pasal 1 1 1 Cukup jelas.
-```
+Ayat (3) Cukup jelas. 
 
-Pasal 112
+
+#### Pasal 104 ^penjelasan-pasal-104
+
+Cukup jelas. 
+
+
+#### Pasal 105 ^penjelasan-pasal-105
+
+Cukup jelas. 
+
+
+#### Pasal 106 ^penjelasan-pasal-106
+
+Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud dengan."pe kerja" termasuk, minat, bakat, atau latihan kerja yang pernah diikuti. 
+
+
+#### Pasal 107 ^penjelasan-pasal-107
+
+Cukup jelas. 
+
+
+#### Pasal 108 ^penjelasan-pasal-108
+
+Cukup jelas. 
+
+
+#### Pasal 109 ^penjelasan-pasal-109
+
+Cukup jelas. 
+
+
+#### Pasal 110 ^penjelasan-pasal-110
+
+Ayat (1) Rumah sakit jiwa dalam ketentuan ini adalah rumah sakit milik pemerintah. Ayat(21 Cukup jelas. Ayat (s) Cukup jelas. 
+
+
+#### Pasal 111 ^penjelasan-pasal-111
 
 Cukup jelas.
 
-Pasal 113
+
+#### Pasal 112 ^penjelasan-pasal-112
+
+Cukup jelas.
+
+
+#### Pasal 113 ^penjelasan-pasal-113
 
 Ayat (1)
 
@@ -6569,53 +6827,65 @@ Ayat (3)
 
 Cukup jelas.
 
-Pasal 114
+
+#### Pasal 114 ^penjelasan-pasal-114
 
 Cukup jelas.
 
-Pasal 115
+
+#### Pasal 115 ^penjelasan-pasal-115
 
 Cukup jelas.
 
-Pasal 116
+
+#### Pasal 116 ^penjelasan-pasal-116
 
 Cukup jelas.
 
 <!-- image -->
 
-Pasal 117
+
+#### Pasal 117 ^penjelasan-pasal-117
 
 Cukup jelas.
 
-Pasal 118
+
+#### Pasal 118 ^penjelasan-pasal-118
 
 Cukup jelas.
 
-Pasal I 19
+
+#### Pasal 119 ^penjelasan-pasal-119
 
 Cukup jelas.
 
-Pasal 12O
+
+#### Pasal 120 ^penjelasan-pasal-120
 
 Cukup jelas.
 
-Pasal 121
+
+#### Pasal 121 ^penjelasan-pasal-121
 
 Cukup jelas.
 
-Pasal 122
+
+#### Pasal 122 ^penjelasan-pasal-122
 
 Cukup jelas.
 
-Pasat 123
+
+#### Pasal 123 ^penjelasan-pasal-123
 
 Cukup jelas.
 
-Pasal 124
+
+#### Pasal 124 ^penjelasan-pasal-124
 
 Cukup jelas.
 
-Pasal 125
+
+#### Pasal 125 ^penjelasan-pasal-125
 
 Ayat (1)
 
@@ -6625,7 +6895,8 @@ Ayat(21
 
 Ketentuan ini mengatur mengenai asas lex specialis derqat legi generall Asas ini dicantumkan agar tidak ada keragu-raguan pada hakim jika te{adi kasus yang diatur ddalr, 2 (dua) Undang-Undang.
 
-Pasal 126
+
+#### Pasal 126 ^penjelasan-pasal-126
 
 Ayat (1)
 
@@ -6635,10 +6906,37 @@ Dalam ketentuan ini, mengatur pemidanaan jika ada perbuatan berlanjut (uoortgqet
 
 <!-- image -->
 
-```
-Ayat(21 Cukup jelas. Pasal 127 Ayat (1) Ketentuan ini menga.tur mengenai perbarengan perbuatan atau konkursus realis. Sistem pemidanaan yang digunakan adalah sistem kumulasi terbatas. Ayat (2) Cukup jelas. Pasal 128 Ayat (1) Ketentuan pada ayat ini mengatur perbarengarr perbuatan, narnun ancarnan pidana terhadap perbuatan-perbuatan yang dilatrukan diancam dengan pidana yang tidak sejenis. Dengan ketentuan, jumlah pidana yang dilatuhkan tidak boleh melebihi maksimum ancaman pidana yang terberat ditambah 1/3 (satu per tiga). Jadi ketentuan ini menggunakan sistem lnrmulasi yang diperlunak. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 129 Cukup jelas. Pasal 130 Cukup jelas. Pasal 131 Cukup jelas. Pasal 132 Dalam ketentuan ini yang dimaksud dengan "penuntutan' adalah proses peradilan yang dimulai dari penyidikan. Ayat (1) Huruf a
-```
+Ayat(21 Cukup jelas. 
 
+
+#### Pasal 127 ^penjelasan-pasal-127
+
+Ayat (1) Ketentuan ini menga.tur mengenai perbarengan perbuatan atau konkursus realis. Sistem pemidanaan yang digunakan adalah sistem kumulasi terbatas. Ayat (2) Cukup jelas. 
+
+
+#### Pasal 128 ^penjelasan-pasal-128
+
+Ayat (1) Ketentuan pada ayat ini mengatur perbarengarr perbuatan, narnun ancarnan pidana terhadap perbuatan-perbuatan yang dilatrukan diancam dengan pidana yang tidak sejenis. Dengan ketentuan, jumlah pidana yang dilatuhkan tidak boleh melebihi maksimum ancaman pidana yang terberat ditambah 1/3 (satu per tiga). Jadi ketentuan ini menggunakan sistem lnrmulasi yang diperlunak. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. 
+
+
+#### Pasal 129 ^penjelasan-pasal-129
+
+Cukup jelas. 
+
+
+#### Pasal 130 ^penjelasan-pasal-130
+
+Cukup jelas. 
+
+
+#### Pasal 131 ^penjelasan-pasal-131
+
+Cukup jelas. 
+
+
+#### Pasal 132 ^penjelasan-pasal-132
+
+Dalam ketentuan ini yang dimaksud dengan "penuntutan' adalah proses peradilan yang dimulai dari penyidikan. Ayat (1) Huruf a
 Ketentuan ini berhubungan dengan asas ne bb in idem.
 
 Hurufb. . .
@@ -6663,10 +6961,12 @@ Bagi Tindak Pidana yang diancam dengan pidana penjara paling lama 1 (satu) tahun
 
 Terhadap Tindak Pidana yang hanya dapat ditunhrt berdasarkan aduan maka apabila pengaduan ditarik kembali dianggap tidak ada pengaduan, asalkan dilakukan dalam tenggang waktu yang telah ditentukan dalam Undang-Undang ini.
 
-```
-Hurufg Cukup jelas. Hurufh Cukup jelas. Ayat (2) Cukup jelas. Pasal 133 Ayat (1) Cukup jelas. Ayat(21
-```
+Hurufg Cukup jelas. Hurufh Cukup jelas. Ayat (2) Cukup jelas. 
 
+
+#### Pasal 133 ^penjelasan-pasal-133
+
+Ayat (1) Cukup jelas. Ayat(21
 Ketentuan ini hanya berlaku untuk Tindak Pidana yang diancam dengan pidana tambahan berupa perampasan Barang dan/ atau tagihan.
 
 <!-- image -->
@@ -6677,15 +6977,18 @@ Ketentuan ini hanya berlaku untuk Tindak Pidana yang diancam dengan pidana tamba
 
 Meskipun Tindak Pidana yang dilakukan terlebih dahulu sudah gugur hak penuntutannya berdasarkan Pasal 132 ayat (1) huruf e dan huruf f narnun apabila terdakwa mengulangi perbuatannya, maka terhadap Tindak Pidana yang kedua dan selanjutnya tetap berlaku ketentuan pemberatan ancarnan pidana bagi pengulangan Tindak Pidana sesuai dengan ketentuan yang berlaku untuk itu.
 
-**Pasal 134**
+
+#### Pasal 134 ^penjelasan-pasal-134
 
 Ketentuan ini dimaksudkan unhrk memberi kepastian hukum dengan mengedepankan asas ne bis inidem.
 
-**Pasal 135**
+
+#### Pasal 135 ^penjelasan-pasal-135
 
 Cukup jelas.
 
-**Pasal 136**
+
+#### Pasal 136 ^penjelasan-pasal-136
 
 Ayat (1)
 
@@ -6697,7 +7000,8 @@ Penentuan tenggang watrrhr kedaluwarsa disesuaikan dengan berat ringannya Tindak
 
 Ketentuan pada ayat ini disesuaikan dengan prinsip dalam hukum pidana yang memperlakukan secara khusus bagi Anak. Oleh karena itu, tenggang waktu kedaluwarsa terhadap Tindak Pidana yang dilakukan Anak lebih singkat daripada Tindak Pidana yang dilakukan orang dewasa.
 
-**Pasal 137**
+
+#### Pasal 137 ^penjelasan-pasal-137
 
 **Huruf a**
 
@@ -6709,15 +7013,18 @@ Sesuai dengan sifat Tindak Pidana yang ada keberlangsungan, maka selesainya Tind
 
 <!-- image -->
 
-Pasal 138
+
+#### Pasal 138 ^penjelasan-pasal-138
 
 Cukup jelas.
 
-Pasal 139
+
+#### Pasal 139 ^penjelasan-pasal-139
 
 Yang dimaksud dengan "sengketa hukum" adalah perbedaan pendapat mengenai persoalan hukum yang harus diputus terlebih dahulu oleh pengadilan lain sebelum perkara pokok diputuskan.
 
-Pasal 140
+
+#### Pasal 140 ^penjelasan-pasal-140
 
 Hurufa
 
@@ -6735,193 +7042,244 @@ Hurufd
 
 Cukup jelas.
 
-Pasal 141
+
+#### Pasal 141 ^penjelasan-pasal-141
 
 Cukup jelas.
 
-Pasal 142
+
+#### Pasal 142 ^penjelasan-pasal-142
 
 Cukup jelas.
 
-Pasal 143
+
+#### Pasal 143 ^penjelasan-pasal-143
 
 Cukup jelas.
 
-Pasal 144
+
+#### Pasal 144 ^penjelasan-pasal-144
 
 Cukup jelas.
 
-Pasal 145
+
+#### Pasal 145 ^penjelasan-pasal-145
 
 Cukup jelas.
 
-Pasal 146
+
+#### Pasal 146 ^penjelasan-pasal-146
 
 Cukup jelas.
 
-Pasal 147
 
-Cukup jelas.
-
-<!-- image -->
-
-**REPIIEUK INDONESIA**
-
-Pasal 148 Cukup jelas.
-
-Pasal 149
-
-Cukup jelas.
-
-Pasal 150
-
-Cukup jelas.
-
-Pasal 151
-
-Cukup jelas.
-
-Pasal 152
-
-Cukup jelas.
-
-Pasal 153 Cukup jelas.
-
-Pasal 154 Cukup jelas.
-
-Pasal 155
-
-Cukup jelas.
-
-Pasal 156
-
-Cukup jelas.
-
-Pasal 157
-
-Cukup jelas.
-
-Pasal 158
-
-Cukup jelas.
-
-Pasal 159
-
-Cukup jelas.
-
-Pasal 160
-
-Cukup jelas.
-
-Pasal 161
+#### Pasal 147 ^penjelasan-pasal-147
 
 Cukup jelas.
 
 <!-- image -->
 
-Pasal 162
+
+#### Pasal 148 ^penjelasan-pasal-148
 
 Cukup jelas.
 
-Pasal 163
+
+#### Pasal 149 ^penjelasan-pasal-149
 
 Cukup jelas.
 
-Pasal 164
+
+#### Pasal 150 ^penjelasan-pasal-150
 
 Cukup jelas.
 
-Pasal 165
+
+#### Pasal 151 ^penjelasan-pasal-151
 
 Cukup jelas.
 
-Pasal 166
+
+#### Pasal 152 ^penjelasan-pasal-152
 
 Cukup jelas.
 
-Pasal 167
+
+#### Pasal 153 ^penjelasan-pasal-153
 
 Cukup jelas.
 
-Pasal 168
+
+#### Pasal 154 ^penjelasan-pasal-154
 
 Cukup jelas.
 
-Pasal 169
+
+#### Pasal 155 ^penjelasan-pasal-155
 
 Cukup jelas.
 
-Pasal 170
+
+#### Pasal 156 ^penjelasan-pasal-156
 
 Cukup jelas.
 
-Pasal 171
+
+#### Pasal 157 ^penjelasan-pasal-157
 
 Cukup jelas.
 
-Pasal 172
+
+#### Pasal 158 ^penjelasan-pasal-158
 
 Cukup jelas.
 
-Pasal 173
+
+#### Pasal 159 ^penjelasan-pasal-159
 
 Cukup jelas.
 
-Pasal 174
+
+#### Pasal 160 ^penjelasan-pasal-160
 
 Cukup jelas.
 
-Pasal 175
+
+#### Pasal 161 ^penjelasan-pasal-161
 
 Cukup jelas.
 
 <!-- image -->
 
-Pasal 176
+
+#### Pasal 162 ^penjelasan-pasal-162
 
 Cukup jelas.
 
-Pasal 177
+
+#### Pasal 163 ^penjelasan-pasal-163
 
 Cukup jelas.
 
-Pasal 178
+
+#### Pasal 164 ^penjelasan-pasal-164
 
 Cukup jelas.
 
-Pasal 179
+
+#### Pasal 165 ^penjelasan-pasal-165
 
 Cukup jelas.
 
-Pasal 18O
+
+#### Pasal 166 ^penjelasan-pasal-166
+
+Cukup jelas.
+
+
+#### Pasal 167 ^penjelasan-pasal-167
+
+Cukup jelas.
+
+
+#### Pasal 168 ^penjelasan-pasal-168
+
+Cukup jelas.
+
+
+#### Pasal 169 ^penjelasan-pasal-169
+
+Cukup jelas.
+
+
+#### Pasal 170 ^penjelasan-pasal-170
+
+Cukup jelas.
+
+
+#### Pasal 171 ^penjelasan-pasal-171
+
+Cukup jelas.
+
+
+#### Pasal 172 ^penjelasan-pasal-172
+
+Cukup jelas.
+
+
+#### Pasal 173 ^penjelasan-pasal-173
+
+Cukup jelas.
+
+
+#### Pasal 174 ^penjelasan-pasal-174
+
+Cukup jelas.
+
+
+#### Pasal 175 ^penjelasan-pasal-175
+
+Cukup jelas.
+
+<!-- image -->
+
+
+#### Pasal 176 ^penjelasan-pasal-176
+
+Cukup jelas.
+
+
+#### Pasal 177 ^penjelasan-pasal-177
+
+Cukup jelas.
+
+
+#### Pasal 178 ^penjelasan-pasal-178
+
+Cukup jelas.
+
+
+#### Pasal 179 ^penjelasan-pasal-179
+
+Cukup jelas.
+
+
+#### Pasal 180 ^penjelasan-pasal-180
 
 Cukup je1as.
 
-Pasal 181
+
+#### Pasal 181 ^penjelasan-pasal-181
 
 Cukup jelas.
 
-Pasal 182
+
+#### Pasal 182 ^penjelasan-pasal-182
 
 Cukup jelas.
 
-Pasal 183
+
+#### Pasal 183 ^penjelasan-pasal-183
 
 Cukup jelas.
 
-Pasal 184
+
+#### Pasal 184 ^penjelasan-pasal-184
 
 Cukup jelas.
 
-Pasal 185
+
+#### Pasal 185 ^penjelasan-pasal-185
 
 Cukup jelas.
 
-Pasal 186
+
+#### Pasal 186 ^penjelasan-pasal-186
 
 Cukup jelas.
 
-Pasal 187
+
+#### Pasal 187 ^penjelasan-pasal-187
 
 Frasa "menurut Undang-Undangl dalam ketentuan ini hanya terkait dengan Undang-Undang yang mengatur secara khusus Tindak Pidana yang menurut sifatnya adalah:
 
@@ -6944,7 +7302,8 @@ Pengecualian di atas jr''ga berlakr bagi besaran pidana denda dalam Undang-Undan
 
 Pengaturan jenis Tindak Pidana baru yang belum diatur dalam UndangUndang ini atau yang akan muncul di kemudian hari dapat dilakukan melalui perubahan terhadap Undang-Undang ini atau mengaturnya dalam Undang-Undang tersendiri karena kekhususannya atas dasar pasal ini.
 
-**Pasal 188**
+
+#### Pasal 188 ^penjelasan-pasal-188
 
 Ayat (l)
 
@@ -6972,7 +7331,8 @@ Ayat (6)
 
 Yang dimaksud dengan "kajian terhadap ajaran komunisme/ marxismeleninisme untuk kepentingan ilmu pengetahuan" misalnya, mengajar, mempelajari, memikirkan, menguji, dan menelaah di lembaga pendidikan atau lembaga penelitian dan pengkajian tanpa bermaksud untuk menyebarkan atau komunisme / marxisme-leninisme. aJaran
 
-**Pasal 189**
+
+#### Pasal 189 ^penjelasan-pasal-189
 
 Hurufa
 
@@ -6984,7 +7344,8 @@ Yang dimaksud dengan "banhran", misalnya, uang, saftrna, pelatihan, teknologi in
 
 Yang dimaksud dengan "orgarrisasi" adalah organisasi baik yang berbadan hukum maupun tidak berbadan hukum.
 
-**Pasal 190**
+
+#### Pasal 190 ^penjelasan-pasal-190
 
 Ayat (l)
 
@@ -6994,7 +7355,8 @@ Ayatl2l
 
 Yang dimaksud dengan "kerusuhan" adaLah suatu kondisi yang menimbulkan Kekerasan terhadap orang atau Barang yang dilakukan oleh sekelompok orang paling sedikit 3 (tiga) orang.
 
-Pasal 191
+
+#### Pasal 191 ^penjelasan-pasal-191
 
 Cukup jelas.
 
@@ -7002,19 +7364,27 @@ Cukup jelas.
 
 Pasal 192. . .
 
-**Pasal 192**
+
+#### Pasal 192 ^penjelasan-pasal-192
 
 Tindak Pidana yang dilakukan dengan maksud agar sebagian atau seluruh wilayah negara jatuh kepada kekuasaan asing, merupakan ekstem (landwnaadl karena melibatkan negara asing.
 
 Tindak Pidana yang dilakukan dengan maksud untuk memisahkan sebagian wilayah negara merupakan pengkhianatan tftern (laogenud), karena tidak melibatkan negara asing, walaupun secara berangsur-angsur dapat juga melibatl&lt;an kekuasaan asing.
 
-**Pasal 193**
+
+#### Pasal 193 ^penjelasan-pasal-193
 
 Ayat (1)
 
-Yang dimaksud dengan "mengguling|&lt;an pemerintah" adalah meniadakan atau mengubah susunErn pemerintah dengan cara yang tidak sah menurut Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+Yang dimaksud dengan "mengguling|&lt;an pemerintah" adalah meniadakan atau mengubah susunErn pemerintah dengan cara yang tidak sah menurut Undang-Undang Dasar Negara 
 
-Tindak Pidana dalam ketentuan ini ada 2 (dua) hal yaitu meniadakan susunan pemerintah menurut Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan mengubah susunan pemerintah dengan cara yang ddak sah menurut Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+ Tahun 1945.
+
+Tindak Pidana dalam ketentuan ini ada 2 (dua) hal yaitu meniadakan susunan pemerintah menurut Undang-Undang Dasar Negara 
+
+ Tahun 1945 dan mengubah susunan pemerintah dengan cara yang ddak sah menurut Undang-Undang Dasar Negara 
+
+ Tahun 1945.
 
 Meniadakan susunan pemerintah berarti menghilang!&lt;an susunan pemerintah yang ada dan diganti dengan yang baru. Mengubah susunan pemerintah berarti tidak meniadakan susunan pemerintah yang lama, akan tetapi hanya mengubah saja.
 
@@ -7022,7 +7392,8 @@ Ayat(21
 
 Cukup jelas.
 
-**Pasal 194**
+
+#### Pasal 194 ^penjelasan-pasal-194
 
 Ayat (1)
 
@@ -7034,7 +7405,8 @@ Ayat(21
 
 Cukup jelas.
 
-Pasal 195
+
+#### Pasal 195 ^penjelasan-pasal-195
 
 Ayat (1)
 
@@ -7058,7 +7430,8 @@ Ayat (2)
 
 Cukup jelas.
 
-**Pasal 196**
+
+#### Pasal 196 ^penjelasan-pasal-196
 
 Ayat (1)
 
@@ -7066,19 +7439,24 @@ Cukup jelas.
 
 Ayat (2)
 
-Yang dimaksud dengan misalnya, perubahan Undang-Undang Dasar Negara Republik Indonesia Tahun t945. ,)
+Yang dimaksud dengan misalnya, perubahan Undang-Undang Dasar Negara 
 
-**Pasal 197**
+ Tahun t945. ,)
+
+
+#### Pasal 197 ^penjelasan-pasal-197
 
 Ketentuarr ini dimaksudkan untuk melindungi kepentingan pertahanan negara yang harus dirahasiakan agar jangan sampai jatutr ke tangan Musuh.
 
 Yang dimaksud dengan "kepentingan pertahanan negara" adalah kepentingan dalam rangka menj4g4 kedaulatan negara dan keutuhan teritoriat.
 
-**Pasal 198**
+
+#### Pasal 198 ^penjelasan-pasal-198
 
 Dalam ketentuan ini, yang menjadi subjek Tindak Pidana adalah Seriap Orang yang bertugas melakukan perundingan dengan negara asing atas nama Pemerintah Indonesia. Ini berarti yang bersangkutan mewakili Pemerintah Indonesia dan segala akibat dari perundingan tersebut menjadi tanggung jawab Pemerintah Indonesia. Oleh karena itu, berdasarkan ketentuan ini, orang tersebut dilarang bertindak merugikan pertahanan negara.
 
-**Pasal 199**
+
+#### Pasal 199 ^penjelasan-pasal-199
 
 Ayat (1)
 
@@ -7090,7 +7468,8 @@ Cukup jelas.
 
 <!-- image -->
 
-**Pasal 20O**
+
+#### Pasal 200 ^penjelasan-pasal-200
 
 **Hurufa**
 
@@ -7100,33 +7479,54 @@ Yang dimaksud dengan "perbuatan yang sikap kenetralan negara" misateya, ikut dal
 
 Cukup jelas.
 
-**Pasal 201**
+
+#### Pasal 201 ^penjelasan-pasal-201
 
 Yang dimaksud dengan "tentara asing" adalah tentara resmi dari negara asing atau tentara yang akan memberontak terhadap negara asing tersebut.
 
-**PasJ2O2**
+
+#### Pasal 202 ^penjelasan-pasal-202
 
 Ketentuan ini dimaksudkan untuk menjaga dan melindungi kerahasiaan negara, yakni informasi, benda, dan/atau aktivitas yang secara resmi ditetapkan untuk dirahasiakan.
 
-```
-Pasal 203 Ayat (1) Hurufa Cukup jelas. Hurufb Yang dimaksud dengan provokasi atau hasutan. Hunrf c Cukup jelas. Ayat (2) Cukup jelas. Pasal 204 Cukup jelas. Pasal 2O5 Cukup jeIas. Pasal 2O6 Cukup jelas. umemperkuaf, misalrrya melakukan
-```
 
+#### Pasal 203 ^penjelasan-pasal-203
+
+Ayat (1) Hurufa Cukup jelas. Hurufb Yang dimaksud dengan provokasi atau hasutan. Hunrf c Cukup jelas. Ayat (2) Cukup jelas. 
+
+
+#### Pasal 204 ^penjelasan-pasal-204
+
+Cukup jelas. 
+
+
+#### Pasal 205 ^penjelasan-pasal-205
+
+Cukup jeIas. 
+
+
+#### Pasal 206 ^penjelasan-pasal-206
+
+Cukup jelas. umemperkuaf, misalrrya melakukan
 <!-- image -->
 
-Pasp.l2O7
+
+#### Pasal 207 ^penjelasan-pasal-207
 
 Cukup jelas.
 
-Pasal 208
+
+#### Pasal 208 ^penjelasan-pasal-208
 
 Cukup jelas.
 
-Pasal 2O9
+
+#### Pasal 209 ^penjelasan-pasal-209
 
 Yang dimaksud dengan "cara curang', misahya menyamar, memakai nama palsu, atau memakai kedudukan palsu.
 
-Pasal 21O
+
+#### Pasal 210 ^penjelasan-pasal-210
 
 Humf a
 
@@ -7142,19 +7542,23 @@ Hurufc
 
 Cukup jelas.
 
-Pasal 21 1
+
+#### Pasal 211 ^penjelasan-pasal-211
 
 Cukup jelas.
 
-PasaJ2l2
+
+#### Pasal 212 ^penjelasan-pasal-212
 
 Cukup jelas.
 
-Pasal 213
+
+#### Pasal 213 ^penjelasan-pasal-213
 
 Cukup jelas.
 
-Pasal 2l4
+
+#### Pasal 214 ^penjelasan-pasal-214
 
 Hurufa
 
@@ -7166,21 +7570,23 @@ Cukup jelas.
 
 <!-- image -->
 
-**REPUBLIK INDONESIA**
 
-Pasal 215
-
-Cukup jelas.
-
-Pasal 216
+#### Pasal 215 ^penjelasan-pasal-215
 
 Cukup jelas.
 
-Pasal 2l7
+
+#### Pasal 216 ^penjelasan-pasal-216
+
+Cukup jelas.
+
+
+#### Pasal 217 ^penjelasan-pasal-217
 
 Tindak Pidana penyerangan diri seseorang pada umumnya dapat merupakan berbagai Tindak Pidana, seperti penganiayaan atau melakukan Kekerasan. Karena Tindak Pidana dalam ketentuan pasal ini ditujukan kepada diri Presiden dan/atau Wakil Presiden maka jika ancaman pidana tidak termasuk dalam pidana yang lebih berat, maka berlaku ketentuan dalam pasal ini.
 
-**Pasal 218**
+
+#### Pasal 218 ^penjelasan-pasal-218
 
 Ayat (l)
 
@@ -7194,99 +7600,125 @@ Dalam negara demokratis, kritik menjadi hal penting sebagai bagian dari kebebasa
 
 Pada dasamya, kritik dalam pasal ini mempakan bentuk pengawasan, koreksi, dan saran terhadap hal-hal yang berkaitan dengan kepentingan mas5rarakat.
 
-Pasal 219
+
+#### Pasal 219 ^penjelasan-pasal-219
 
 Cukup jelas.
 
-Pasal 22O
+
+#### Pasal 220 ^penjelasan-pasal-220
 
 Cukup jelas.
 
-Pasal 22l
+
+#### Pasal 221 ^penjelasan-pasal-221
 
 Yang dimaksud dengan "negara sahabat'' adalah negara asing yang tidak bertikai dengan negara Indonesia atau negara asing yang mempunyai hubungan diplomatik dengan negara Indonesia atau negara asing yang mengadakan perjanjian dengan Indonesia.
 
 <!-- image -->
 
-**PasaJ222**
+
+#### Pasal 222 ^penjelasan-pasal-222
 
 Cukup jelas.
 
-PaseJ223
+
+#### Pasal 223 ^penjelasan-pasal-223
 
 Cukup je1as.
 
-**Pasal 224**
+
+#### Pasal 224 ^penjelasan-pasal-224
 
 Dalam ketentuan ini, untuk dapat dipidana, pelaku Tindak Pidana harus mengetahui bahwa Korban adalah kepala negara sahabat.
 
-**Pasal 225**
+
+#### Pasal 225 ^penjelasan-pasal-225
 
 Yang dimaksud dengan "menyerang diri" misalnya, menampar atau melempar sepatu.
 
-**PasaJ226**
+
+#### Pasal 226 ^penjelasan-pasal-226
 
 Lihat penjelasan Pasal 218 ayat (1).
 
-**PasaJ227**
+
+#### Pasal 227 ^penjelasan-pasal-227
 
 Yang dimaksud dengan "wakil dari negara sahabat", antara lain, menteri atau yang setingkat dengan menteri atau pejabat yang ditunjuk yang mewakili negaranya.
 
-**Pasal 228**
+
+#### Pasal 228 ^penjelasan-pasal-228
 
 Cukup jelas.
 
-Pasal 229
+
+#### Pasal 229 ^penjelasan-pasal-229
 
 Cukup jelas.
 
-Pasal 230
+
+#### Pasal 230 ^penjelasan-pasal-230
 
 Cukup jelas.
 
-**Pasal 231**
+
+#### Pasal 231 ^penjelasan-pasal-231
 
 Yang dimaksud dengan "menodai" adalah perbuatan dalam bentuk apa pun yang dilakukan dengan maksud untuk menghina.
 
-**Pasal 232**
+
+#### Pasal 232 ^penjelasan-pasal-232
 
 Yang dimaksud dengan "Kekerasan atau Ancaman Kekerasan" tidak hanya mengancam terhadap orang, terapi juga terhadap Barang, misat:ya, dengan cara membakar gedung tempat rapat.
+
+
 
 Pasal 233...
 
 <!-- image -->
 
-**Pasal 233**
+
+#### Pasal 233 ^penjelasan-pasal-233
 
 Yang dimaksud dengan "merintangf adalah mencegah untuk menghadiri rapat.
 
-Pasal 234
+
+#### Pasal 234 ^penjelasan-pasal-234
 
 Cukup jelas.
 
-Pasal 235
+
+#### Pasal 235 ^penjelasan-pasal-235
 
 Cukup jelas.
 
-**Pasal 236**
+
+#### Pasal 236 ^penjelasan-pasal-236
 
 Yang dimaksud dengan "menodai, menghina, atau merendahkan kehormatan lambang negara" adalah perbuatan dalam bentuk mencoret, menulisi, menggambar atau menggambari, membuat rusak terhadap Lambang Negara, termasuk menggunakannya tidak sesuai dengan bentuk, ukuran, wama, dan perbandingan ukuran, yang dilakukan dengan sengaja atau dengan maksud menghina atau merendahkan kehormatan.
 
-Pasal 237
+
+#### Pasal 237 ^penjelasan-pasal-237
 
 Cukup jelas.
 
-Pasal 238
+
+#### Pasal 238 ^penjelasan-pasal-238
 
 Cukup jelas.
 
-Pasal 239
+
+#### Pasal 239 ^penjelasan-pasal-239
 
 Cukup jelas.
 
-**Pasal 240 *(Dibatalkan MK No. 282/PUU-XXIII/2025)***
 
-> [!WARNING] **STATUS PENJELASAN PASAL 240: TIDAK MEMILIKI KEKUATAN HUKUM MENGIKAT**
+#### Pasal 240 ^penjelasan-pasal-240
+
+> *(Dibatalkan MK No. 282/PUU-XXIII/2025)*
+
+> [!WARNING] **STATUS PENJELASAN Pasal 240: TIDAK MEMILIKI KEKUATAN HUKUM MENGIKAT**
 > Berdasarkan **Putusan Mahkamah Konstitusi Nomor 282/PUU-XXIII/2025**, Penjelasan Pasal 240 turut dibatalkan secara keseluruhan. Rujukan: [[PUTUSAN-MK 282-2025 - Penghinaan Pemerintah]].
 
 Yang dimaksud dengan "menglrina" adalah perbuatan yang merendahkan atau merusak kehormatan atau citra pemerintah atau lembaga negara, termasuk menista atau memfitnah.
@@ -7301,7 +7733,11 @@ Pada dasarnya, kritik dalam ketentuan ini merupakan bentuk pengawasan, koreksi, 
 
 Ayat (1)
 
-Yang dimaksud dengan "pemerintah" adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimeina dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+Yang dimaksud dengan "pemerintah" adalah Presiden 
+
+ yang dibantu oleh Wakil Presiden dan menteri sebagaimeina dimaksud dalam Undang-Undang Dasar Negara 
+
+ Tahun 1945.
 
 Yang dimaksud dengan "lemb"ga negara" adalah M4jelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Mahkamah Agung, dan Mahkamah Konstitusi.
 
@@ -7317,19 +7753,23 @@ Ayat (4)
 
 Cukup jelas.
 
-Pasal 241
+
+#### Pasal 241 ^penjelasan-pasal-241
 
 Cukup jelas.
 
-PasaJ242
+
+#### Pasal 242 ^penjelasan-pasal-242
 
 Cukup jelas.
 
-Pasal 243
+
+#### Pasal 243 ^penjelasan-pasal-243
 
 Cukup jelas.
 
-**Pasc.l244**
+
+#### Pasal 244 ^penjelasan-pasal-244
 
 Yang dimaksud dengan "pembedaan" misalnya, pimpinan suatu perusahaan yang melakukan pembedaan terhadap gaji atau upah pegawainya berdasarkan pada suku tertentu.
 
@@ -7341,19 +7781,23 @@ Yang dimaksud dengan "pemilihan", misalnya, pemilihan untuk jabatan tertentu ber
 
 <!-- image -->
 
-**Pasal 245**
+
+#### Pasal 245 ^penjelasan-pasal-245
 
 Cukup jelas.
 
-**Pasd246**
+
+#### Pasal 246 ^penjelasan-pasal-246
 
 Yang dimaksud dengan "menghasuf adalah mendorong, mengajak, atau membakar semangat orang supaya berbuat sesuatu. Menghasut dapa.t dilalrukan dengan lisan atau tulisan, dan harus dilatrukan Di Muka Umum, artinya di tempat yang didatangi publik atau di tempat yang khalayak ramai dapat mengetahui.
 
-**Pasa7247**
+
+#### Pasal 247 ^penjelasan-pasal-247
 
 Yang dimalsud dengan "menyiarkan" termasuk perbuatan mendistribusikan, dan membuat dapat diaksesnya Informasi Elektronik dan dokumen elektronik dalam sistem elektronik.
 
-**Pasal 248**
+
+#### Pasal 248 ^penjelasan-pasal-248
 
 Ayat (1)
 
@@ -7367,21 +7811,25 @@ Ayat (3)
 
 Cukup jelas.
 
-**PasaJ249**
+
+#### Pasal 249 ^penjelasan-pasal-249
 
 Yang dimaksud dengan "menawarkan" misalnya, orang yang memberikan jasa berupa informasi dengan meminta imbalan.
 
-Pasal 250
+
+#### Pasal 250 ^penjelasan-pasal-250
 
 Cukup jelas.
 
-Pasal 251
+
+#### Pasal 251 ^penjelasan-pasal-251
 
 Cukup jelas.
 
 <!-- image -->
 
-**Pasal 252**
+
+#### Pasal 252 ^penjelasan-pasal-252
 
 Ayat (1)
 
@@ -7391,23 +7839,28 @@ Ketentuan ini dimaksudkan untuk mencegah praktik main hakim sendiri yang dilakuk
 
 Cukup jelas.
 
-**Pasal 253**
+
+#### Pasal 253 ^penjelasan-pasal-253
 
 Untuk dapat dipidana berdasarkan ketentuan ini, Tindak Pidana itu harus jadi dilalrukan atau benar-benar terjadi. Jika tidak terjadi maka tidak dapat dipidana.
 
-**Pasal 254**
+
+#### Pasal 254 ^penjelasan-pasal-254
 
 Cukup jelas.
 
-**Pasal 255**
+
+#### Pasal 255 ^penjelasan-pasal-255
 
 Cukup jelas.
 
-**Pasal 256**
+
+#### Pasal 256 ^penjelasan-pasal-256
 
 Yang dimaksud dengan nterganggunya kepentingan umum" adalah tidak berfi.rngsinya atau tidak dapat diaksesnya pelayanan publik akibat kerusakan yang timbul dari adanya pawai, unjuk rasa, atau demonstrasi.
 
-**Pasal 257**
+
+#### Pasal 257 ^penjelasan-pasal-257
 
 Ayat (1)
 
@@ -7421,7 +7874,12 @@ Yang dimaksud dengan "pekarangan tertutup" adalah pekarangan yang nyata-nyata ad
 
 <!-- image -->
 
-Ayat (2) Cukup jelas. Ayat (s) Cukup jelas. Ayat (4) Cukup jelas. Pasal 258 Ayat (l)
+Ayat (2) Cukup jelas. Ayat (s) Cukup jelas. Ayat (4) Cukup jelas. 
+
+
+#### Pasal 258 ^penjelasan-pasal-258
+
+Ayat (l)
 
 Ketentuan ini bertujuan melindungi kepentingan pembicara terhadap orang yang secara melawan hukum mendengar atau merekam pembicaraan yang dilakukan. Dicantumkannya unsur melawan hukum dalam ketentuan ini dimaksudkan untuk menghindari perbuatan yang sepa.tutnya tidak dihukum, terkena ketentuan dalam pasal ini, misalnya, jika:
 
@@ -7433,10 +7891,17 @@ Ayat(21
 
 Dalam ketentuan ini termasuk yang dikecualikan adalah mendengarkan atau merekam pembicaraan yang dilakukan untuk keperluan sesuai dengan ketentuan peraturan perundang-undangan.
 
-```
-Ayat (3) Cukup jelas. Pasal 259 Cukup jelas. Pasal 26O Ayat (1)
-```
+Ayat (3) Cukup jelas. 
 
+
+#### Pasal 259 ^penjelasan-pasal-259
+
+Cukup jelas. 
+
+
+#### Pasal 260 ^penjelasan-pasal-260
+
+Ayat (1)
 Yang dimaksud dengan nkantor pemerintah yang melayani kepentingan umum" antara lain, kantor polisi, kantor kejaksaan, kantor pengadilan, kantor p4iak, kantor pos, rumah sakit pemerintah, kantor Gubemur/Bupati/Walikota, dan kantor kelurahan.
 
 <!-- image -->
@@ -7457,7 +7922,8 @@ Ayat (4)
 
 Cukup jelas.
 
-Pasal 261
+
+#### Pasal 261 ^penjelasan-pasal-261
 
 Ayat (1)
 
@@ -7467,19 +7933,23 @@ Ayat (2)
 
 Cukup jelas.
 
-PaseJ262
+
+#### Pasal 262 ^penjelasan-pasal-262
 
 Cukup jelas.
 
-Pasal 263
+
+#### Pasal 263 ^penjelasan-pasal-263
 
 Cukup jelas.
 
-Pasal 264
+
+#### Pasal 264 ^penjelasan-pasal-264
 
 Cukup jelas.
 
-Pasal 265
+
+#### Pasal 265 ^penjelasan-pasal-265
 
 Hurufa
 
@@ -7489,21 +7959,25 @@ Hurufb
 
 Yang dimaksud dengan "tanda-tanda bahaya palsu" misalnya, orang berteriak ada kebakaran padahal tidak terjadi kebakaran atau memukul kentongan tanda ada pembunuhan atau pencurian padahal tidak terjadi pembunuhan atau pencr.rian.
 
-**Pasal 266**
+
+#### Pasal 266 ^penjelasan-pasal-266
 
 Cukup jelas.
 
-**Pasal 267**
+
+#### Pasal 267 ^penjelasan-pasal-267
 
 Cukup jelas.
 
-**Pasal 268**
+
+#### Pasal 268 ^penjelasan-pasal-268
 
 Upacara pemakaman jenazah meliputi upacara yang dilakukan pa.da waktu jenazah masih di rumah duka, dalam perjalanan ke pemakaman, maupun di tempat pemakaman.
 
 Yang dimaksud dengan "pemakaman" termasuk serangkaian upacara adat atau keagamaan.
 
-**Pasal 269**
+
+#### Pasal 269 ^penjelasan-pasal-269
 
 Yang dimaksud dengan "menodai" misalnya, menggunakan makam sebagai tempat melakukan perbuatan asusila atau membuang kotoran.
 
@@ -7511,17 +7985,20 @@ dengan atau tanpa peti jenazah dikubur, termasuk pula tanah penutupnya dan segal
 
 Yang dimaksud dengan "tanda-tanda yang ada di atas makam" misalnya, kijing (nisan), salib, atau tumpukan batu yang disusun di atas liang.
 
-**Pasal 270**
+
+#### Pasal 270 ^penjelasan-pasal-270
 
 Ketentuan ini dimaksudkan untuk melindungi jenazah dan Barang yang ada bersama jenazah yang berada dalam makam.
 
 Yang dimaksud dengan "jenazah" adalah orang yang sudah mati dan sudah dikubur, baik masih utuh maupun tidak tetapi sebagian besar bagian dari organ tubuhnya masih lengkap.
 
-**Pasal 271**
+
+#### Pasal 271 ^penjelasan-pasal-271
 
 Cukup jelas.
 
-**Pasal 272**
+
+#### Pasal 272 ^penjelasan-pasal-272
 
 Ayat (l)
 
@@ -7541,27 +8018,33 @@ Ayat (3)
 
 Cukup jelas.
 
-Pasa7273
+
+#### Pasal 273 ^penjelasan-pasal-273
 
 Cukup jelas.
 
-PasaJ274
+
+#### Pasal 274 ^penjelasan-pasal-274
 
 Cukup jelas.
 
-Pasal 275
+
+#### Pasal 275 ^penjelasan-pasal-275
 
 Cukup jelas.
 
-PasaJ276
+
+#### Pasal 276 ^penjelasan-pasal-276
 
 Yang dimaksud dengan "tanpa iz;rr" adalah tanpa D1n dari Pejabat yang berwenang, misalnya Kepala Lembaga Pemasyarakatan, Kepala Rumah Tahanan, atau Pejabat yang ditunjuk.
 
-**PasJ277**
+
+#### Pasal 277 ^penjelasan-pasal-277
 
 Yang dimaksud dengan "berkendaraan", misalnya, menggunakan sepeda, sepeda motor, atau sarana angkutan lainnya.
 
-**Pasl278**
+
+#### Pasal 278 ^penjelasan-pasal-278
 
 Ayat (l)
 
@@ -7575,11 +8058,13 @@ Ayat (3)
 
 Cukup jelas.
 
-Pasal 279
+
+#### Pasal 279 ^penjelasan-pasal-279
 
 Cukup jelas.
 
-Pasal 28O
+
+#### Pasal 280 ^penjelasan-pasal-280
 
 Ayat (1)
 
@@ -7611,87 +8096,123 @@ Ayat (3)
 
 Cukup jelas.
 
-**Pasal 281**
+
+#### Pasal 281 ^penjelasan-pasal-281
 
 Cukup jelas.
 
-**Pasal 282**
+
+#### Pasal 282 ^penjelasan-pasal-282
 
 Cukup jelas.
 
-**Pasal 283**
+
+#### Pasal 283 ^penjelasan-pasal-283
 
 Yang dimaksud dengan "pemeriksaan jenazah untuk kepentingan peradilan" adalah pemeriksaan yang dilakukan seorErng ahli guna mengetahui sebab kematian untuk kepentingan pemeriksaan sidang pengadilan. Ketentuan ini tidak berlaku jika kepercayaan dan keyakinannya melarang untuk dilakukan pemeriksaan j enazah.
 
-**Pasal 284**
+
+#### Pasal 284 ^penjelasan-pasal-284
 
 Yang dimaksud dengan "Pejabat yang berwenang" adalah penyidik, penuntut umum, atau hakim sesuai dengan tingkat pemeriksaan perkara yang bersangkutan.
 
 <!-- image -->
 
-**Pasal 285**
+
+#### Pasal 285 ^penjelasan-pasal-285
 
 Yang dimaksud dengan "saksi, ahli, atau juru bahasa" adalah sesuai dengan ketentuan dalam hukum acara yang berlaku.
 
-**Pasal 286**
+
+#### Pasal 286 ^penjelasan-pasal-286
 
 Cukup jelas.
 
-**Pasal 287**
+
+#### Pasal 287 ^penjelasan-pasal-287
 
 Dalam ketentuan ini, tidak memenuhi perintah Pejabat yang berwenang unhrk menyerahkan Surat yang dianggap pa.lsu atau dipalsukan, sedangkan Surat tersebut diperlukan dalam proses peradilan untuk alat pembuktian, baik perkara pidana maupun perkara perdata, dianggap sebagai perbuatan yang mengganggu penyelenggaraan peradilan.
 
-Pasal 288 Cukup jelas. Pasal 289 Ayat (1) Hurufa Semua perbuatan melawan hukum terhadap Barang yang disita sesuai dengan ketentuan peraturan perundang-undangan harus dianggap sebagai usaha menggagalkan pencarian keadilan. Yang dimaksud dengan "menarik Barang' termasuk juga perbuatan menjual, menggunakan, memindahtangankan. Hurufb Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 290 Cukup jelas. Pasal 29 1
+
+#### Pasal 288 ^penjelasan-pasal-288
+
+Cukup jelas. 
+
+
+#### Pasal 289 ^penjelasan-pasal-289
+
+Ayat (1) Hurufa Semua perbuatan melawan hukum terhadap Barang yang disita sesuai dengan ketentuan peraturan perundang-undangan harus dianggap sebagai usaha menggagalkan pencarian keadilan. Yang dimaksud dengan "menarik Barang' termasuk juga perbuatan menjual, menggunakan, memindahtangankan. Hurufb Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. 
+
+
+#### Pasal 290 ^penjelasan-pasal-290
+
+Cukup jelas. 
+
+
+#### Pasal 291 ^penjelasan-pasal-291
 
 Cukup jelas.
 
 <!-- image -->
 
-**PasaJ292**
+
+#### Pasal 292 ^penjelasan-pasal-292
 
 Yang dimaksud dengan "pelapof' adalah orang yang memberikan laporan, informasi, atau keterangan kepada penegak hukum mengenai Tindak Pidana yang akan, sedang, atau telah terjadi.
 
-**Pasal 293**
+
+#### Pasal 293 ^penjelasan-pasal-293
 
 Cukup jelas.
 
-**PasaJ294**
+
+#### Pasal 294 ^penjelasan-pasal-294
 
 Yang dimaksud dengan "saksi.' adalah saksi dalam semua lingkungan peradilan dan Mahkamah Konstitusi.
 
-Pasal 295
+
+#### Pasal 295 ^penjelasan-pasal-295
 
 Cukup jelas.
 
-Pasal 296
+
+#### Pasal 296 ^penjelasan-pasal-296
 
 Cukup jelas.
 
-Pasa1297
+
+#### Pasal 297 ^penjelasan-pasal-297
 
 Yang dimaksud dengan "kehilangan peke{aan" termasuk diberhentikan atau demosi.
 
-Pasal 298
+
+#### Pasal 298 ^penjelasan-pasal-298
 
 Cukup jelas.
 
-Pasal 299
+
+#### Pasal 299 ^penjelasan-pasal-299
 
 Cukup jelas.
 
-Pasal 300
+
+#### Pasal 300 ^penjelasan-pasal-300
 
 Setiap perbuatan atau pernyataan tertulis maupun lisan yang dilakukan secara objektif, terbatas untuk kalangan sendiri, atau bersifat ilmiah mengenai sesuatu agama atau kepercayaan yang disertai dengan usaha untuk menghindari adanya kata atau susunan kalimat yang bersifat permusuhan, pernyataan kebencian atau permusuhan, atau hasutan untuk melal&lt;ukan permusuhan, Kekerasan, diskriminasi atau penodaan bukan merupakan Tindak Pidana menurut pasal ini.
 
-Pasal 3O1
+
+#### Pasal 301 ^penjelasan-pasal-301
 
 Cukup jelas.
 
-Pasal 3O2
+
+#### Pasal 302 ^penjelasan-pasal-302
 
 Ayat (l)
 
-Ketentuan ini bukan mempakan pembatasan bagr seseorang untuk berpindah agama atau kepercayaan yang ada di Negara Kesatuan Republik Indonesia.
+Ketentuan ini bukan mempakan pembatasan bagr seseorang untuk berpindah agama atau kepercayaan yang ada di Negara Kesatuan 
+
+.
 
 <!-- image -->
 
@@ -7699,7 +8220,8 @@ Ayat (2)
 
 Cukup jelas.
 
-**Pasal 3O3**
+
+#### Pasal 303 ^penjelasan-pasal-303
 
 Ayat (1)
 
@@ -7713,67 +8235,82 @@ Ayat (3)
 
 Yang dimaksud dengan "upacara keagamaan" adalah upacara yang berhubungan dengan agama atau kepercayaan.
 
-**Pasal 304**
+
+#### Pasal 304 ^penjelasan-pasal-304
 
 Seseorang atau umat yang sedang menjalankan atau memimpin ibadah atau seorang petugas agama atau kepercayaan yang sedang melakukan tugasnya harus dihormati. Karena itu, perbuatan mengejek atau mengolok-olok hal tersebut patut dipidana karena melanggar asas hidup bermasyarakat yang menghormati kebebasan memeluk agama atau kepercayaan dan kebebasan dalam menjalankan ibadah, di samping dapa.t menimbulkan benturan dalam dan di antara kelompok masyarakat.
 
-**Pasal 305**
+
+#### Pasal 305 ^penjelasan-pasal-305
 
 Dalam ketentuan ini, merusak atau membakar bangunan tempat beribadah atau benda yang dipakai untuk beribadah merupakan perbuatan yang tercela, karena sangat menyakiti hati umat yang bersangkutan. Oleh karena itu, pelaku patut dipidana. Untuk dapat dipidana berdasarkan ketentuan dalam Pasal ini, perbuatan tersebut harus dilakukan dengan melawan hukum. Perusakan dan pembakaran harus dilakukan dengan melawan hukum.
 
-Pasal 306
+
+#### Pasal 306 ^penjelasan-pasal-306
 
 Cukup jelas.
 
-Pasal 307
+
+#### Pasal 307 ^penjelasan-pasal-307
 
 Cukup jelas.
 
-Pasal 308
+
+#### Pasal 308 ^penjelasan-pasal-308
 
 Cukup jelas.
 
 <!-- image -->
 
-**Pasal 309**
+
+#### Pasal 309 ^penjelasan-pasal-309
 
 Cukup jelas.
 
-**Pasal 310**
+
+#### Pasal 310 ^penjelasan-pasal-310
 
 Yang dimaksud dengan "bangu.nan untuk menahan aif' misalnya, bendungan atau pintu air.
 
 Yang dimaksud dengan "bangunan untuk menyalurkan air" misalnya, selokan, saluran, atau kanal yang berfungsi menyalurkan air.
 
-**Pasal 3l I**
+
+#### Pasal 311 ^penjelasan-pasal-311
 
 Cukup jelas.
 
-Pasal 312
+
+#### Pasal 312 ^penjelasan-pasal-312
 
 Cukup jelas.
 
-Pasal 313
+
+#### Pasal 313 ^penjelasan-pasal-313
 
 Cukup jelas.
 
-**Pasal 314**
+
+#### Pasal 314 ^penjelasan-pasal-314
 
 Membakar benda tidak bergerak, meskipun milik sendiri, seperti rumah atau Kapal dalam ukuran tertentu yang menurut Undang-Undang termasuk benda tidak bergerak, harus selalu dengan izin Pejabat yang berwenang. T\rjuannya untuk mencegah timbuleya kebakaran yang dapat merugikan, baik lingkungannya maupun fungsi sosial yang dipunyai oleh benda tersebut.
 
-**Pasal 315**
+
+#### Pasal 315 ^penjelasan-pasal-315
 
 Cukup jelas.
 
-**Pasal 316**
+
+#### Pasal 316 ^penjelasan-pasal-316
 
 Dalam keadaan mabuk seseorang tidak dapat sepenuhnya dapat menguasai atau mengontrol dirinya. Oleh karena itu, dalam keadaan yang sedemikian seseorang dilarang melakukan perbuatan sebagaimeina dimaksud dalam pasal ini.
 
-**Pasal 317**
+
+#### Pasal 317 ^penjelasan-pasal-317
 
 Cukup jelas.
 
-**Pasal 318**
+
+#### Pasal 318 ^penjelasan-pasal-318
 
 Yang dimaksud dengan "penggalalC adalah mesiu pada persumbuan senjata api untuk meledakkan peluru.
 
@@ -7783,45 +8320,97 @@ Yang dimaksud dengan "penggalalC adalah mesiu pada persumbuan senjata api untuk 
 
 <!-- image -->
 
-Pasal 319 Cukup jelas. Pasal 320 Cukup jelas. Pasal 321 Cukup jelas. Pasal 322 Cukup jelas. Pasal 323 Ayat (1) Yang dimaksud dengan ubahaya" adalah bahaya bagi lalu lintas umum kereta api. Oleh karena itu, kereta api yang khusus untuk mengangkut tebu ke pabrik kepunyaan suatu perusahaan perkebunan tidak termasuk dalam ketentuan pasal ini. Perbuatan yang dinilai membahayakan bagi lalu lintas umum kereta api dapa.t berupa. memasang rintangan atau melepaskan paku-paku pada bantalan rel sehingga membahayakan bagi kereta yang melewatinya. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 324 Cukup jelas. Pasal 325 Yang dimaksud dengan "rambu yang dipasang untuk keselamatan pelayaran" misalnya, mencusuar, lentera laut, atau pelampung. Pasal 326 Cukup jelas. Pasal 327
+
+#### Pasal 319 ^penjelasan-pasal-319
+
+Cukup jelas. 
+
+
+#### Pasal 320 ^penjelasan-pasal-320
+
+Cukup jelas. 
+
+
+#### Pasal 321 ^penjelasan-pasal-321
+
+Cukup jelas. 
+
+
+#### Pasal 322 ^penjelasan-pasal-322
+
+Cukup jelas. 
+
+
+#### Pasal 323 ^penjelasan-pasal-323
+
+Ayat (1) Yang dimaksud dengan ubahaya" adalah bahaya bagi lalu lintas umum kereta api. Oleh karena itu, kereta api yang khusus untuk mengangkut tebu ke pabrik kepunyaan suatu perusahaan perkebunan tidak termasuk dalam ketentuan pasal ini. Perbuatan yang dinilai membahayakan bagi lalu lintas umum kereta api dapa.t berupa. memasang rintangan atau melepaskan paku-paku pada bantalan rel sehingga membahayakan bagi kereta yang melewatinya. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. 
+
+
+#### Pasal 324 ^penjelasan-pasal-324
+
+Cukup jelas. 
+
+
+#### Pasal 325 ^penjelasan-pasal-325
+
+Yang dimaksud dengan "rambu yang dipasang untuk keselamatan pelayaran" misalnya, mencusuar, lentera laut, atau pelampung. 
+
+
+#### Pasal 326 ^penjelasan-pasal-326
+
+Cukup jelas. 
+
+
+#### Pasal 327 ^penjelasan-pasal-327
 
 Cukup jelas.
+
+
 
 Pasal 328...
 
-Pasal 328
+
+#### Pasal 328 ^penjelasan-pasal-328
 
 Cukup jelas.
 
-Pasal 329
+
+#### Pasal 329 ^penjelasan-pasal-329
 
 Cukup jelas.
 
-Pasal 330
+
+#### Pasal 330 ^penjelasan-pasal-330
 
 Cukup jelas.
 
-Pasal 331
+
+#### Pasal 331 ^penjelasan-pasal-331
 
 Yang dima}sud dengan "kenakalan" misalnya, mencoret-coret tembok di jalan umum.
 
-**Pasal 332**
+
+#### Pasal 332 ^penjelasan-pasal-332
 
 Yang dimaksud dengan "sistem elektronilf adalah serangkaian perangkat dan prosedur elel&lt;tronik yang berfungsi mengolah, menganalisis, menyimpan, mengirimkan, dan/atau menyebarkan Informasi Elektronik.
 
-Pasal 333
+
+#### Pasal 333 ^penjelasan-pasal-333
 
 Cukup jelas.
 
-Pasal 334
+
+#### Pasal 334 ^penjelasan-pasal-334
 
 Cukup jelas.
 
-Pasal 335
+
+#### Pasal 335 ^penjelasan-pasal-335
 
 Cukup jelas.
 
-Pasal 336
+
+#### Pasal 336 ^penjelasan-pasal-336
 
 Hurufa
 
@@ -7847,11 +8436,13 @@ Hurufe
 
 Cukup jelas.
 
-Pasal 337
+
+#### Pasal 337 ^penjelasan-pasal-337
 
 Cukup jelas.
 
-Pasal 338
+
+#### Pasal 338 ^penjelasan-pasal-338
 
 Ketentuan ini tidak dimaksudkan untuk memidana perbuatan yang dilakukan untuk kegiatan budaya/adat istiadat, keagamaan, atau kepercayaan.
 
@@ -7873,19 +8464,23 @@ Ayatl2l
 
 Cukup jelas.
 
-Pasal 339
+
+#### Pasal 339 ^penjelasan-pasal-339
 
 Ketentuan ini dimaksudkan untuk mencegah timbulnya bahaya maupun gangguan lainnya bagi lalu lintas umum.
 
-Pasal 340
+
+#### Pasal 340 ^penjelasan-pasal-340
 
 Cukup jelas.
 
-Pasal 341
+
+#### Pasal 341 ^penjelasan-pasal-341
 
 Yang dimaksud dengan "analf adalah anak yang belum benrmur 7 (tujuh) tahun.
 
-Pasa7342
+
+#### Pasal 342 ^penjelasan-pasal-342
 
 Ayat (1)
 
@@ -7901,51 +8496,62 @@ Ayat (3)
 
 Cukup jelas.
 
-Pasal 343
+
+#### Pasal 343 ^penjelasan-pasal-343
 
 Cukup jelas.
 
-**Pasal 344**
+
+#### Pasal 344 ^penjelasan-pasal-344
 
 Ketentuan ini bertujuan untuk mencegah beredamya makanan atau minuman yang dapat merusak kesehatan.
 
-Pasal 345
+
+#### Pasal 345 ^penjelasan-pasal-345
 
 Cukup jelas.
 
-Pasal 346
+
+#### Pasal 346 ^penjelasan-pasal-346
 
 Cukup jelas.
 
-**PasJ347**
+
+#### Pasal 347 ^penjelasan-pasal-347
 
 Yang dimaksud dengan "memaksa" adalah melakukan tekanan terhadap seseorang agar berbuat atau tidak berbuat sesuatu yang sebetulnya perbuatan itu tidak akan dilakukan kalau tidak ada tekanan.
 
 Yang dimaksud dengan "melakukan perbuatan dalam jabatan" adalah perbuatan yang dilalrukan seseorang yang sedang bertugas sesuai dengan tugas jabatan yang dilimpahkan kepadanya sesuai dengan ketentuan peraturan perundang-undangan.
 
-**Pasal 348**
+
+#### Pasal 348 ^penjelasan-pasal-348
 
 Perlawanan yang dimaksud dalam ketentuan ini dilalrukan tidak saja terhadap pegawai negeri yang sedarg menjalankan tugas yang sah, melainkan juga terhadap or€rng yang membantu, meskipun bukan pegawai negeri.
 
-Pasal 349
+
+#### Pasal 349 ^penjelasan-pasal-349
 
 Cukup jelas.
 
-Pasal 350
+
+#### Pasal 350 ^penjelasan-pasal-350
 
 Cukup jelas.
 
-Pasal 351
+
+#### Pasal 351 ^penjelasan-pasal-351
 
 Yang dimaksud dengan "keramaian" misalnya unjuk rasa atau demonstrasi.
 
 <!-- image -->
 
-**Pasal 352**
+
+#### Pasal 352 ^penjelasan-pasal-352
 
 Cukup jelas.
 
-**Pasal 353**
+
+#### Pasal 353 ^penjelasan-pasal-353
 
 Yang dimaksud dengan "mencegah" adalah berusaha agar Pejabat yang berwenang yang bersangkutan tidak sempat bertindak.
 
@@ -7953,23 +8559,28 @@ Yang dimaksud dengan "menghalang-halangf adalah apabila Pejabat yang berwenang t
 
 Yang dimaksud dengan omenggagalkan" adalah meniadakan hasil tindakan yang telah dilakukan Pejabat yang berwenang yang bersangkutan.
 
-**Pasal 354**
+
+#### Pasal 354 ^penjelasan-pasal-354
 
 Cukup jelas.
 
-Pasal 355
+
+#### Pasal 355 ^penjelasan-pasal-355
 
 Cukup jelas.
 
-Pasal 356
+
+#### Pasal 356 ^penjelasan-pasal-356
 
 Tindak Pidana dalam ketentuan ini adalah melalaikan kewajiban Setiap Orang membantu tercapa.inya keadilan, khususnya yang berkaitan dengan pengampuan dan perwalian.
 
-Pasal 357
+
+#### Pasal 357 ^penjelasan-pasal-357
 
 Cukup jelas.
 
-Pasal 358
+
+#### Pasal 358 ^penjelasan-pasal-358
 
 Ayat (1)
 
@@ -7979,65 +8590,89 @@ Ayat(21
 
 Cukup jelas.
 
-Pasal 359
+
+#### Pasal 359 ^penjelasan-pasal-359
 
 Cukup jelas.
 
 <!-- image -->
 
-**Pasal 36O**
+
+#### Pasal 360 ^penjelasan-pasal-360
 
 Yang dimaksud dengan "maklumaf adalah pengumuman yang dikeluarkan oleh Pejabat yang berwenang.
 
-**Pasal 361**
+
+#### Pasal 361 ^penjelasan-pasal-361
 
 Ketentuan ini merupal&lt;an Tindak Pidana yang dikenal sebagai pelaporan atau pengaduan palsu. Yang dilaporkan atau diadut&lt;an adalah terjadinya Tindak Pidana, bukan perbuatan yang tidak merupakan Tindak Pidana.
 
-**Pasal 362**
+
+#### Pasal 362 ^penjelasan-pasal-362
 
 Dalam ketentuan ini perbuatan jabatan atau mengenakan tanda kepangkatan adalah perbuatan jabatan atau tanda kepangkatan baik sipil maupun militer.
 
-**Pasal 363**
+
+#### Pasal 363 ^penjelasan-pasal-363
 
 Yang dimaksud "tanda kebesaran" adalah yang berhubungan dengan pangkat atau jabatan dalam kekuasaan urnum, baik sipil nurupun militer.
 
-**Pasal 364**
+
+#### Pasal 364 ^penjelasan-pasal-364
 
 Cukup jelas.
 
-**Pasal 365**
+
+#### Pasal 365 ^penjelasan-pasal-365
 
 Cukup jelas.
 
-**Pasal 366**
+
+#### Pasal 366 ^penjelasan-pasal-366
 
 Ketentuan ini dimaksudkan untuk melindungi penyelenggaraan kegiatan pos yang mendapatkan kewenangan sesuai dengan ketentuan peraturan perundang-undangan.
 
 Yang dimaksud dengan "Suraf misalnya kartu pos, warkat pos, Surat cetakan, atau telegram.
 
-**Pasal 367**
+
+#### Pasal 367 ^penjelasan-pasal-367
 
 Cukupjelas.
 
-**Pasal 368**
+
+#### Pasal 368 ^penjelasan-pasal-368
 
 Cukup jelas.
 
-Pasal 369
+
+#### Pasal 369 ^penjelasan-pasal-369
 
 Cukup jelas.
 
 <!-- image -->
 
-**Pasal 370**
+
+#### Pasal 370 ^penjelasan-pasal-370
 
 Dalam ketentuan ini, mengangkut Temak dari satu tempat ke tempa.t yang lain, yang sesuai dengan ketentuan peraturan perundang-undangarr diwajibkan menggunakan Surat jalan yang dikeluarkan oleh Pejabat yang berwenang. Hal ini dimaksudkan untuk mencegah diangkutnya Temak curian, Temak yang sakit, atau mencegah timbulrrya penyakit pada Temak lain atau pada manusia yang mengonsumsi daging Temak tersebut.
 
-```
-Pasal 371 Cukup jelas. Pasal 372 Ayat (1) Hurufa Yang dimaksud dengan "petikan dari Surat rcsmi negara" termasuk menyalin, mengutip isi Surat sebagian atau keseluruhan. Yang dimaksud dengan nmembuat salinan" termasuk dan sebagainya sesuai dengan kemajuan teknologi. Hurufb Cukup jelas. Hurufc Cukup jelas. Ayat (2) Cukup jelas. Pasal 373 Ayat (1) Ketidakbenaran dari keterangan palsu yang dimaksud dalam ketentuan ini harus diketahui oleh orang yang memberi keterangan tersebut. Ayat(21 Cukup jelas. Ayat (3) Cukup jelas.
-```
 
-**Pasal 374**
+#### Pasal 371 ^penjelasan-pasal-371
+
+Cukup jelas. 
+
+
+#### Pasal 372 ^penjelasan-pasal-372
+
+Ayat (1) Hurufa Yang dimaksud dengan "petikan dari Surat rcsmi negara" termasuk menyalin, mengutip isi Surat sebagian atau keseluruhan. Yang dimaksud dengan nmembuat salinan" termasuk dan sebagainya sesuai dengan kemajuan teknologi. Hurufb Cukup jelas. Hurufc Cukup jelas. Ayat (2) Cukup jelas. 
+
+
+#### Pasal 373 ^penjelasan-pasal-373
+
+Ayat (1) Ketidakbenaran dari keterangan palsu yang dimaksud dalam ketentuan ini harus diketahui oleh orang yang memberi keterangan tersebut. Ayat(21 Cukup jelas. Ayat (3) Cukup jelas.
+
+
+#### Pasal 374 ^penjelasan-pasal-374
 
 Dalam ketentuan ini, uang yang dipalsu atau ditiru tidak hanya mata uang atau uang kertas Indonesia, tetapi juga uang negara asing. Hal ini didasarkan Konvensi Internasional mengenai uang palsu tahun 1929 yang telah diratifikasi oleh Indonesia dengan Undang-Undang Nomor 6
 
@@ -8047,15 +8682,18 @@ Dalam ketentuan ini, uang yang dipalsu atau ditiru tidak hanya mata uang atau ua
 
 Tahun 1981 tentang Pengesahan Konvensi Intemasional Pemberantasan Uang Palsu beserta Protokolnya (Intemntional Conuentian for Tte Suppression of Caunterfeiting CUrrcncy andPrctoal Gereue 19291.
 
-**Pasal 375**
+
+#### Pasal 375 ^penjelasan-pasal-375
 
 Cukup jelas.
 
-**Pasal 376**
+
+#### Pasal 376 ^penjelasan-pasal-376
 
 Yang dimaksud dengan umengurangi nilai mata uang: misalnya, dengan mengikir mata uang emas atau mata uang perak.
 
-**Pasal 377**
+
+#### Pasal 377 ^penjelasan-pasal-377
 
 **Hurufa**
 
@@ -8065,15 +8703,18 @@ Dalam ketentuan ini, orang yang mengedarkan uang palsu dengan tidak mengetahui t
 
 Cukup jelas.
 
-**Pasal 378**
+
+#### Pasal 378 ^penjelasan-pasal-378
 
 Orang yang dikenakan ketentuan ini adalah orang yang mengetahui bahwa uang tersebut palsu atau dipalsukan baik pada saat menerima uang tersebut atau pun beberapa saat setelah itu, dan kemudian tetaF mengedarkannya.
 
-**Pasal 379**
+
+#### Pasal 379 ^penjelasan-pasal-379
 
 Yang dipidana bukan hanya orang yang meniru, memalsu, atau mengurangi nilai mata uang, akan tetapi juga orang yang melakukan perbuatan membuat atau menyediakan bahan atau benda, yang diketahuinya bahwa bahan atau benda tersebut akan digunakan untuk meniru, memalsu, atau mengurangi nilai uang yang resmi.
 
-**Pasal 380**
+
+#### Pasal 380 ^penjelasan-pasal-380
 
 Ayat (1)
 
@@ -8083,21 +8724,27 @@ Ayat (2)
 
 Cukup jelas.
 
-**Pasal 381**
+
+#### Pasal 381 ^penjelasan-pasal-381
 
 Cukup jelas.
 
-**Pasal 382**
+
+#### Pasal 382 ^penjelasan-pasal-382
 
 Yang dimaksud dengan "meterai" adalah perangko, meterai tempel, meterai pajak televisi, dan jenis meterai lainnya.
 
-Ketentuan ini dimaksudkan untuk melindungi meterai yang dikeluarkan oleh Pemerintah Republik Indonesia agar tidak ditiru atau dipalsu. Te{adinya peniruan atau pemalsuan akan menyebabkan berlarrangrrya kepercayaan terhadap meterai Indonesia dan mengurangi pendapatan negara dari pengeluaran meterai.
+Ketentuan ini dimaksudkan untuk melindungi meterai yang dikeluarkan oleh Pemerintah 
 
-**Pasal 383**
+ agar tidak ditiru atau dipalsu. Te{adinya peniruan atau pemalsuan akan menyebabkan berlarrangrrya kepercayaan terhadap meterai Indonesia dan mengurangi pendapatan negara dari pengeluaran meterai.
+
+
+#### Pasal 383 ^penjelasan-pasal-383
 
 Cukup jelas.
 
-**Pasal 384**
+
+#### Pasal 384 ^penjelasan-pasal-384
 
 Ayat (l)
 
@@ -8107,11 +8754,13 @@ Ayat (2)
 
 Cukup jelas.
 
-Pasal 385
+
+#### Pasal 385 ^penjelasan-pasal-385
 
 Cukup jelas.
 
-Pasal 386
+
+#### Pasal 386 ^penjelasan-pasal-386
 
 Ayat (1)
 
@@ -8123,7 +8772,8 @@ Ayat (2)
 
 Cukup jelas.
 
-Pasal 387
+
+#### Pasal 387 ^penjelasan-pasal-387
 
 Ayat (1)
 
@@ -8141,19 +8791,23 @@ Ayat (2)
 
 Cukup jelas.
 
-Pasal 388
+
+#### Pasal 388 ^penjelasan-pasal-388
 
 Cukup jelas.
 
-Pasal 389
+
+#### Pasal 389 ^penjelasan-pasal-389
 
 Cukup jelas.
 
-Pasal 390
+
+#### Pasal 390 ^penjelasan-pasal-390
 
 Cukup jelas.
 
-Pasal 391
+
+#### Pasal 391 ^penjelasan-pasal-391
 
 Yang dimaksud dengan "Surat'' adalah semua gambaran dalam pikiran yang diwujudkan dalam perkataan yaitu yang dituangkan dalam tulisan baik tulisan tangan maupun melalui mesin, termasuk juga antara lain salinan, hasil fotokopi, faksimile atas Surat tersebut. Surat yang dipalsu harus dapat:
 
@@ -8164,19 +8818,23 @@ Yang dimaksud dengan "Surat'' adalah semua gambaran dalam pikiran yang diwujudka
 
 <!-- image -->
 
-Pasal 392
 
-Surat dalam ketentuan ini sifatnya lebih penting daripada Surat pada umunrnya, oleh karena itu ancaman pidananya lebih berat daripada ancaman pidana pada perbuatan yang diatur dalam Pasat 389.
+#### Pasal 392 ^penjelasan-pasal-392
 
-Pasal 393
+Surat dalam ketentuan ini sifatnya lebih penting daripada Surat pada umunrnya, oleh karena itu ancaman pidananya lebih berat daripada ancaman pidana pada perbuatan yang diatur dalam Pasal 389.
 
-Cukup jelas.
 
-Pasal 394
+#### Pasal 393 ^penjelasan-pasal-393
 
 Cukup jelas.
 
-Pasal 395
+
+#### Pasal 394 ^penjelasan-pasal-394
+
+Cukup jelas.
+
+
+#### Pasal 395 ^penjelasan-pasal-395
 
 Ayat (1)
 
@@ -8192,23 +8850,28 @@ Ayat (s)
 
 Cukup jelas.
 
-Pasal 396
+
+#### Pasal 396 ^penjelasan-pasal-396
 
 Cukup jelas.
 
-Pasal 397
+
+#### Pasal 397 ^penjelasan-pasal-397
 
 Cukup jelas.
 
-Pasal 398
+
+#### Pasal 398 ^penjelasan-pasal-398
 
 Perbuatan yang dilarang dalam ketentuan ini melanggar ketentuan peraturan perundang-undangan di bidang keimigrasian.
 
-Pasal 399
+
+#### Pasal 399 ^penjelasan-pasal-399
 
 Cukup jelas.
 
-Pasal 400
+
+#### Pasal 400 ^penjelasan-pasal-400
 
 Cukup jelas.
 
@@ -8216,29 +8879,35 @@ Cukup jelas.
 
 Pasal 401 ...
 
-**Pasal 401**
+
+#### Pasal 401 ^penjelasan-pasal-401
 
 Yang dimaksud dengan "menggelapkan asal-usul orang" adalah segala bentuk perbuatan yang dilakukan dengan sengaja sehingga asal-usul seseor€rng menjadi tidak jelas, misalnya, menukar Anak, memungut Anak dikatakan Anaknya sendiri, atau Anak. identitas kelahiran
 
-**Pasal 4O2**
+
+#### Pasal 402 ^penjelasan-pasal-402
 
 Yang dimaksud dengan "perkawinan" adalah antara laki-laki dan penempuan berdasarkan Undang-Undang mengenai perkawinan.
 
 Yang dimaksud dengan "perkawinan yang ada menjadi penghalang yang sah" adalah perkawinan yang dapat digunakan sebagai alasan untuk mencegah atau membatalkan perkawinan berikutnya yang dilalrukan oleh salah satu pihak yang terikat oleh perkawinan tersebut 5slagaimara diatur dalam Undang-Undang mengenai perkawinan.
 
-**Pasal 403**
+
+#### Pasal 403 ^penjelasan-pasal-403
 
 Yang dimaksud dengan "penghalang yang sah" adatrah persyaratan perkawinan yang hanrs dipenuhi untuk suatu perkawinan sebagaimana diatur dalam Undang-Undang mengenai perkawinan.
 
-**Pasal 404**
+
+#### Pasal 404 ^penjelasan-pasal-404
 
 Yang dimaksud dengan "peraturan perundang-undangan" adalah UndangUndang mengenai perkawinan beserta peraturan pela-ksanaannya dan peraturan perundang-undangan lainnya yang berkaitan dengan pencatatan kelahiran dan kematian.
 
-**Pasal 4O5**
+
+#### Pasal 405 ^penjelasan-pasal-405
 
 Cukup jelas.
 
-**Pasal 406**
+
+#### Pasal 406 ^penjelasan-pasal-406
 
 **Hurufa**
 
@@ -8250,25 +8919,30 @@ Cukup jelas.
 
 <!-- image -->
 
-**Pasal 4O7**
+
+#### Pasal 407 ^penjelasan-pasal-407
 
 Penafsiran pengertian Pomograli disesuaikan dengan staldar yang berlaku pada masyarakat dalam walrtu dan tempat tertentu (artemporary ommunily standardl.
 
 Membuat Pornografi dalam ketentuan ini tidak termasuk untuk diri sendiri atau kepentingan sendiri.
 
-**Pasal 408**
+
+#### Pasal 408 ^penjelasan-pasal-408
 
 Yang dimaksud dengan "secara terang-terangan" adalah secara langsung melakukan perbuatan tersebut kepada Anak.
 
-**Pasal 4O9**
+
+#### Pasal 409 ^penjelasan-pasal-409
 
 Yang dimaksud dengan "alat untuk menggugurkan kandungan' adalah setiap benda yang menurut sifat penggunaannya dapat menggugurkan kandungan.
 
-**Pasal 410**
+
+#### Pasal 410 ^penjelasan-pasal-410
 
 Cukup jelas.
 
-**Pasal 411**
+
+#### Pasal 411 ^penjelasan-pasal-411
 
 Ayat (1)
 
@@ -8294,7 +8968,8 @@ Ayat (a)
 
 Cukup jelas.
 
-**PasaT 412**
+
+#### Pasal 412 ^penjelasan-pasal-412
 
 Ketentuan mengenai hidup bersama sebagai suami istri di luar perkawinan dikenal dengan istilah kohabitasi.
 
@@ -8316,23 +8991,28 @@ Ayat (4)
 
 Cukup jelas.
 
-**Pasal 413**
+
+#### Pasal 413 ^penjelasan-pasal-413
 
 Yang dimaksud dengan "keluarga batih" terdiri atas ayah, ibu, dan anak kandung.
 
-**Pasal 414**
+
+#### Pasal 414 ^penjelasan-pasal-414
 
 Cukup jelas.
 
-**Pasal 415**
+
+#### Pasal 415 ^penjelasan-pasal-415
 
 Yarrg dimaksud dengan "perbuatan cabul" adalah kontak seksual yang berkaitan dengan nafsu birahi, kecuali perkosaan.
 
-**Pasal 416**
+
+#### Pasal 416 ^penjelasan-pasal-416
 
 Cukup jelas.
 
-**Pasal 417**
+
+#### Pasal 417 ^penjelasan-pasal-417
 
 Tindak Pidana dalam ketentuan ini adalah perbuatan menggerakkan seseorang yang belum dewasa, belum kawin, dan berkelakuan baik untuk melakukan perbuatan cabul atau persetubuhan dengannya atau membiarkan terhadap dirinya dilakukan perbuatan cabul. Cara untuk menggerakkan seseorang tersebut adalah dengan memberi hadiah atau be{anji akan memberi hadiah, dan dengan cara tersebut pelaku Tindak Pidana menyalahgunakan wibawa yang timbul dari hubungan keadaan atau menyesatkan orang tersebut.
 
@@ -8340,7 +9020,8 @@ Tindak Pidana dalam ketentuan ini adalah perbuatan menggerakkan seseorang yang b
 
 <!-- image -->
 
-Pasal 418
+
+#### Pasal 418 ^penjelasan-pasal-418
 
 Ayat (1)
 
@@ -8350,31 +9031,38 @@ Ayat(21
 
 Tindak Pidana yang diatur dalam ketentuan ini pada dasarnya sama dengan perbuatan cabul atau persetubuhan yang diatur dalam pasal terdahulu. Namun perbuatan cabul atau persetubuhan yang diatur dalam ketentuan ini dilakukan terhadap orang-orang yang mempunyai hubungan khusus dengan pelaku Tindak Pidana.
 
-Pasal 419
+
+#### Pasal 419 ^penjelasan-pasal-419
 
 Cukup jelas.
 
-Pasal 420
+
+#### Pasal 420 ^penjelasan-pasal-420
 
 Cukup jelas.
 
-Pasal 421
+
+#### Pasal 421 ^penjelasan-pasal-421
 
 Ketentuan ini dimaksudkan untuk memberantas tempat pelacuran.
 
-Pasal 422
+
+#### Pasal 422 ^penjelasan-pasal-422
 
 Termasuk Tindak Pidana ini adalah mengirimkan laki-laki atau perempuan yang belum dewasa itu ke daerah lain atau ke luar negeri guna melakukan pelacuran atau perbuatan lain yang melanggar kesusilaan.
 
-Pasal 423
+
+#### Pasal 423 ^penjelasan-pasal-423
 
 Cukup jelas.
 
-Pasal 424
+
+#### Pasal 424 ^penjelasan-pasal-424
 
 Cukup jelas.
 
-Pasal 425
+
+#### Pasal 425 ^penjelasan-pasal-425
 
 Ayat (1)
 
@@ -8384,7 +9072,8 @@ Ayat (2)
 
 Cukup jelas.
 
-Pasal 426
+
+#### Pasal 426 ^penjelasan-pasal-426
 
 Ayat (1)
 
@@ -8394,11 +9083,13 @@ Ayat(21
 
 Cukup jelas.
 
-Pasal 427
+
+#### Pasal 427 ^penjelasan-pasal-427
 
 Cukup jelas.
 
-Pasal 428
+
+#### Pasal 428 ^penjelasan-pasal-428
 
 Ayat (1)
 
@@ -8412,25 +9103,30 @@ Ayat (3)
 
 Cukup jelas.
 
-Pasal 429
+
+#### Pasal 429 ^penjelasan-pasal-429
 
 Cukup jelas.
 
-Pasal 430
+
+#### Pasal 430 ^penjelasan-pasal-430
 
 Ketentuan ini memuat peringanan zutcaman pidana yang didasarkan pa.da pertimbangan bahwa rasa takut seorang ibu yang melahirkan diketahui orang lain sudah dianggap suatu penderitaan.
 
-Pasal 431
+
+#### Pasal 431 ^penjelasan-pasal-431
 
 Cukup jelas.
 
 <!-- image -->
 
-**Pasal 432**
+
+#### Pasal 432 ^penjelasan-pasal-432
 
 Ketenhran ini menunjukkan adanya kewajiban Setiap Orang jiwa orang lain dari bahaya maut, sepanjang pertolongan itu tidak membahayakan dirinya atau orang lain.
 
-**Pasal 433**
+
+#### Pasal 433 ^penjelasan-pasal-433
 
 Ayat (1)
 
@@ -8444,16 +9140,14 @@ Ayat (3)
 
 Sifat melawan hukum dari perbuatan tersebut ditiadakan karena adanya alasan pemaaf yaitu jika perbuatan tersebut dilakukan untuk kepentingan rrmum atau karena terpaksa membela diri.
 
-**Pasal 434**
+
+#### Pasal 434 ^penjelasan-pasal-434
 
 Ayat (1)
 
 Ayat (2)
 
-```
 Cukup jelas. Hurrf a
-```
-
 Dalam hal pelaku Tindak Pidana sebagaimana dimaksud dalam ketentuan ini diberi kesempatan oleh hakim untuk membulrtikan kebenaran dari apa yang dihrduhkan, tetapi ia tidak dapat membuktikan bahwa yang dituduhkan itu benar, pelaku Tindak Pidana dipidana sebagai pemfitnahan.
 
 **Hurufb**
@@ -8472,7 +9166,8 @@ Pembuktian kebenaran tuduhan hanya dibolehkan apabila hakim memandang perlu untu
 
 terpaksa membela diri. Pembuktian kebenaran tuduhan juga diperbolehkan apabila yang dituduh adalah seorang pegawai negeri dan yang dituduhkan berkenaan dengan menjalankan tugasnya.
 
-**Pasal 435**
+
+#### Pasal 435 ^penjelasan-pasal-435
 
 Ayat (l)
 
@@ -8486,40 +9181,65 @@ Ayat (3)
 
 Cukup jelas.
 
-**Pasal 436**
+
+#### Pasal 436 ^penjelasan-pasal-436
 
 Ketentuan ini mengatur mengenai penghinaan yang dilakukan dengan mengeluarkan perkataan yang tidak senonoh terhadap orang lain. Penghinaan tersebut dilakukan Di Muka Umum dengan lisan atau tulisan, atau di muka orang yang dihina itu sendiri baik secara lisan, tulisan, maupun dengan perbuatan atau dengan tulisan yang dikirimkan kepadanya.
 
-**Pasal 437**
+
+#### Pasal 437 ^penjelasan-pasal-437
 
 Harus dibuktikan bahwa pelaku mengetahui bahwa pengaduan tersebut tidak benar dan sifatnya menyerang kehormatan atau nama baik seseorang. Pengaduan atau pemberitahuan dilakukan secara terhrlis atau menyuruh orang lain untuk menuliskan dan tidak diharuskan ada tanda tangan pengadu. Dengan demikian, pengaduan atau pemberitahuan palsu dengan Surat anonim (blackmaitl dapat dipidana berdasarkan ketentuan dalam Pasal ini.
 
-**Pasal 438**
+
+#### Pasal 438 ^penjelasan-pasal-438
 
 Tindak Pidana dalam ketentuan ini terjadi jika seseorang dengan suatu perbuatan menimbulkan persangkaan bahwa orang lain melakukan Tindak Pidana, sedangkan persangkaan tersebut tidak benar, misalnya, A meletakkan jam tangan milik C di dalam laci B dengan maksud agar B dituduh mencuri jam tangan milik C.
 
-Pasal 439
+
+#### Pasal 439 ^penjelasan-pasal-439
 
 Tindak Pidana ini merupakan Tindak Pidana aduan dan hanya dapa.t diajukan oleh suami atau istrinya, atau oleh salah seorang keluarga ieaarafr maupun semenda dalam garis lurus atau menyampin[ sampai der4lat kedua dari orang yang telah mati tersebut.
 
-```
-Pasal 44O Cukup jelas. Pasal 441 Cukup jelas. Pasal 442 Cukup jelas. Pasal 443 Ayat (1)
-```
 
+#### Pasal 440 ^penjelasan-pasal-440
+
+Cukup jelas. 
+
+
+#### Pasal 441 ^penjelasan-pasal-441
+
+Cukup jelas. 
+
+
+#### Pasal 442 ^penjelasan-pasal-442
+
+Cukup jelas. 
+
+
+#### Pasal 443 ^penjelasan-pasal-443
+
+Ayat (1)
 Yang dimaksud dengan "rahasia" adalah segala sesuatu yang hanya boleh diketahui oleh orang yang berkepentingan sedangfun orang lain tidak boleh Unhrk mengetahui bahwa siapa. yang diwajibkan menyimpan rahasia harus diteliti peristiwa demi peristiwa sesuai dengan ketentuan hukum atau kebiasaan yang berlaku di lingkungan di mana terdapat kewajiban semacarn itu, misalnya, kewajiban arsiparis untuk menyimpan rahasia berkas yang sifatnya rahasia dan kewajiban dokter untuk merahasiakan pasien yang ditangani. Tindak Pidana ini menjadi Tindak Pidana aduan jika dilakukan terhadap orang tertentu.
 
 Ayat(21
 
 Cukup jelas.
 
-**Pasal 444**
+
+#### Pasal 444 ^penjelasan-pasal-444
 
 Ketentuan ini dimaksudkan untuk mencegah terjadinya persaingan tidak sehat dalam dunia usaha.
 
-```
-Pasal 445 Cukup jelas. Pasal 446 Ayat (1)
-```
 
+#### Pasal 445 ^penjelasan-pasal-445
+
+Cukup jelas. 
+
+
+#### Pasal 446 ^penjelasan-pasal-446
+
+Ayat (1)
 Dalam ketentuan ini, merampa.s kemerdekaan dilakukan baik dalam bentuk fisik maupun psikis.
 
 <!-- image -->
@@ -8530,7 +9250,20 @@ Dalam ketentuan ini, merampa.s kemerdekaan dilakukan baik dalam bentuk fisik mau
 
 Yang dimaksud dengan "secara melawan hukum" adalah perbuatan merampas kebebasan seseorang bukan dalam rangka menjalankan tugas dan kewqiiban sesuai dengan ketentuan peraturan perundangundangan. Misalnya, seorang polisi yang menangkap dan menahan seseorang dalam hal kedapatan tertangkap tangan melakukan Tindak Pidana.
 
-Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Pasal 447 Cukup jelas. Pasal 448 Cukup jelas. Pasal 449
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. 
+
+
+#### Pasal 447 ^penjelasan-pasal-447
+
+Cukup jelas. 
+
+
+#### Pasal 448 ^penjelasan-pasal-448
+
+Cukup jelas. 
+
+
+#### Pasal 449 ^penjelasan-pasal-449
 
 Ayat (1)
 
@@ -8540,19 +9273,34 @@ Ayat(2)
 
 Cukup jelas.
 
-**Pasal 450**
+
+#### Pasal 450 ^penjelasan-pasal-450
 
 Penculikan merupakan salah satu bentuk Tindak Pidana menghilangkan kemerdekaan seseorang. Berbeda dengan ketentuan sebelumnya, perampasan kemerdekaan dalam penculikan tidak dimaksudkan untuk or€rng, tetapi secara melawan hukum unfuk menempatkan orang tersebut di bawah kekuasaannya atau menyebabkan orang tersebut tidak berdaya.
 
-**Pasal 451**
+
+#### Pasal 451 ^penjelasan-pasal-451
 
 Penyanderaan mirupakan salah satu bentuk Tindak Pidana menghilangkan kemerdekaan seseorang. Berbeda dengan penculikan, penyanderaan dilakukan agar orang yang disandera tetap berada di tempa.t kediamannya atau di tempat lain dan dilakukan dengan Kekerasan atau Ancaman Kekerasan.
 
-**Pasal 452 Ayat (1)**
+
+#### Pasal 452 ^penjelasan-pasal-452
+
+Ayat (1)**
 
 Ketentuan ini dimaksudkan untuk memberikan pelindungan terhadap Anak yang telah mendapatkan pelindungan hukum. Misalnya, Anak yang ditempatkan di panti asuhan, apabila mereka dilarikan, maka pelaku Tindak Pidana dapat dipidana.
 
-Ayat(21 Cukup jelas. Pasal 453 Ayat (1) Ketentuan ini berkaitan dengan Anak yang ditarik dari kekuasaan atau pengawasan yang sah, kemudian disembunyikan atau disembunyikan dari kepentingan penyidikan Pejabat yang berwenang. Ayat (2) Cukup jelas. Pasal 454 Ayat (1) Cukup jelas. Ayat (2)
+Ayat(21 Cukup jelas. 
+
+
+#### Pasal 453 ^penjelasan-pasal-453
+
+Ayat (1) Ketentuan ini berkaitan dengan Anak yang ditarik dari kekuasaan atau pengawasan yang sah, kemudian disembunyikan atau disembunyikan dari kepentingan penyidikan Pejabat yang berwenang. Ayat (2) Cukup jelas. 
+
+
+#### Pasal 454 ^penjelasan-pasal-454
+
+Ayat (1) Cukup jelas. Ayat (2)
 
 Pengertian "membawa pergi perempuan" atau "melarikan perempuan" dalam ketentuan ini berbeda dengan "penculikan" dalam Pasal 450 dan "penyanderaan" dalam Pasal 451.
 
@@ -8564,7 +9312,25 @@ Unsur Tindak Pidana d:lam ketentueut ini tidak dikaitkan dengan umur perempuan y
 
 <!-- image -->
 
-Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Pasal 455 Cukup jelas. Pasal 456 Cukup jelas. Pasal 457 Cukup jelas. Pasal 458
+Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. 
+
+
+#### Pasal 455 ^penjelasan-pasal-455
+
+Cukup jelas. 
+
+
+#### Pasal 456 ^penjelasan-pasal-456
+
+Cukup jelas. 
+
+
+#### Pasal 457 ^penjelasan-pasal-457
+
+Cukup jelas. 
+
+
+#### Pasal 458 ^penjelasan-pasal-458
 
 Ayat (1)
 
@@ -8586,11 +9352,20 @@ Cukup jelas.
 
 <!-- image -->
 
-Pasal 459 Cukup jelas. Pasal 460 Ayat (1) Ketentuan ini memuat peringanan ancEunan pidana yang didasarkan pada pertimbangan bahwa rasa takut seorang ibu yang melahirkan diketahui orang lain sudah dianggap suatu penderitaan. Ayat (2) Cukup jelas. Ayat (3) Karena orang lain yang turut serta dalam pembunuhan sebagaimana
+
+#### Pasal 459 ^penjelasan-pasal-459
+
+Cukup jelas. 
+
+
+#### Pasal 460 ^penjelasan-pasal-460
+
+Ayat (1) Ketentuan ini memuat peringanan ancEunan pidana yang didasarkan pada pertimbangan bahwa rasa takut seorang ibu yang melahirkan diketahui orang lain sudah dianggap suatu penderitaan. Ayat (2) Cukup jelas. Ayat (3) Karena orang lain yang turut serta dalam pembunuhan sebagaimana
 
 dimaksud pada ayat (1) dan ayat (21 tidak berada dalam kondisi psikologis yang sama dengan kondisi seorang ibu yang melakukan Tindak Pidana tersebut maka dalam prinsip penyertaan tidak berlaku dalam ketentuan ayat ini.
 
-**Pasal 461**
+
+#### Pasal 461 ^penjelasan-pasal-461
 
 Ketentuan ini mengatur Tindak Pidana yang dikenal dengan eutanasia aktif.
 
@@ -8598,13 +9373,15 @@ Meskipun eutanasia aktif dilakukan atas permintaan orang yang bersangkutan yang 
 
 Ancaman pidana di sini tidak ditujukan terhadap kehidupan seseorang, melainkan ditujukan terhadap penghormatan kehidupan manusia pada umunnya, meskipun dalam kondisi orang tersebut sangat menderita, baik jasmani maupun rohani. Jadi motif pelaku tidak relevan unhrk dipertimbangkan dalam Tindak Pidana.
 
-**Pasal 462**
+
+#### Pasal 462 ^penjelasan-pasal-462
 
 Apabila orang yang didorong, dibanhr, atau diberi sarana untuk bunuh diri tidak mati, orang yang mendorong, membantu, atau memberi sarana tersebut, tidak dijatuhi pidana.
 
 Hal ini didasarkan pada pertimbangan bahwa bunuh diri bukanlah suatu Tindak Pidana. Oleh karena itu, percobaan untuk melakukan bunuh diri juga tidak diancam dingan pidana.
 
-**Pasal 463**
+
+#### Pasal 463 ^penjelasan-pasal-463
 
 Ketentuan ini dimaksudkan untuk melindungi kandungan seorang perempuan. Jika yang diaborsi adalah kandungan yang sudah mati, ketentuan pidana dalam Pasal ini tidak berlaku. Tidaklah relevan di sini untuk menentukan cara dan sar€Lna apa yang digrrnakan untuk melakukan aborsi. Yang penting dan yang menentukan adalah akibat yang ditimbulkan, yaitu matinya kandungan itu.
 
@@ -8616,7 +9393,20 @@ Ayat (2)
 
 Yang dimaksud dengan "Tindak Pidana kekerasan seksual lain yang menyebabkan kehamilan", antara lain, pemaksaan pelacuran, eksploitasi seksual, dan/atau perbudakan seksual.
 
-Pasal 464 Cukup jelas. Pasal 465 Cukup jelas. Pasal 466 Ayat (l)
+
+#### Pasal 464 ^penjelasan-pasal-464
+
+Cukup jelas. 
+
+
+#### Pasal 465 ^penjelasan-pasal-465
+
+Cukup jelas. 
+
+
+#### Pasal 466 ^penjelasan-pasal-466
+
+Ayat (l)
 
 Kdtentuan ini tidak memberi perumusan mengenai pengertian penganiayaan. Hal ini diserahkan kepa.da penilaian hakim untuk memberikan interpretasi terhadap kasus yang dihadapi sesuai dengan perkembangan nilai-nilai sosial dan budaya serta perkembangan dunia kedokteran. Ini berarti bahwa pengertian penganiayaan tidak harus berarti terbatas pada penganiayaan fisik dan sebaliknya tidak setiap penderitaan fisik selalu diartikan sebagai penganiayaan.
 
@@ -8628,10 +9418,42 @@ Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
 
 Ayat (s)
 
-```
-Cukup jelas. PaseJ467 Cukup jelas. Pasal 468 Ayat (l) Tindak Pidana penganiayaan dalam ketentuan ini merupakan jenis penganiayaan berat, di samping penganiayaan dalam arti umum dan penganiayaan . ringan. Batas dan ruang lingkup ketiga jenis penganiayaan ini diserahkan kepada pertimbangan hakim. Ayat(21 Cukup jelas. Pasal 469 Cukup jelas. Pasal 470 Cukup jelas. Pasal 471 Cukup jelas. Pasal 472 Cukup jelas. Pasal 473 Perbuatan dalam Pasal ini dimaksudkan untuk atau sebagai bagian dari kegiatan/ kekerasan seksual. Ayat (1) Cukup jelas. Ayat(21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (a)
-```
+Cukup jelas. 
 
+
+#### Pasal 467 ^penjelasan-pasal-467
+
+Cukup jelas. 
+
+
+#### Pasal 468 ^penjelasan-pasal-468
+
+Ayat (l) Tindak Pidana penganiayaan dalam ketentuan ini merupakan jenis penganiayaan berat, di samping penganiayaan dalam arti umum dan penganiayaan . ringan. Batas dan ruang lingkup ketiga jenis penganiayaan ini diserahkan kepada pertimbangan hakim. Ayat(21 Cukup jelas. 
+
+
+#### Pasal 469 ^penjelasan-pasal-469
+
+Cukup jelas. 
+
+
+#### Pasal 470 ^penjelasan-pasal-470
+
+Cukup jelas. 
+
+
+#### Pasal 471 ^penjelasan-pasal-471
+
+Cukup jelas. 
+
+
+#### Pasal 472 ^penjelasan-pasal-472
+
+Cukup jelas. 
+
+
+#### Pasal 473 ^penjelasan-pasal-473
+
+Perbuatan dalam Pasal ini dimaksudkan untuk atau sebagai bagian dari kegiatan/ kekerasan seksual. Ayat (1) Cukup jelas. Ayat(21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (a)
 Cukup jelas.
 
 <!-- image -->
@@ -8642,7 +9464,8 @@ EfltrtrtrI]IEEf,trEln
 
 Ayat (s) Cukup jelas. Ayat (6) Yang dimaksud dengan "Korban" adalah suami atau istri. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Ayat (1o) Cukup jelas. Ayat (11) Cukup jelas.
 
-Pasal 474
+
+#### Pasal 474 ^penjelasan-pasal-474
 
 Ayat (l)
 
@@ -8658,7 +9481,8 @@ Ayat (s)
 
 Cukup jelas.
 
-**Pasal 475**
+
+#### Pasal 475 ^penjelasan-pasal-475
 
 Ayat (1)
 
@@ -8668,13 +9492,15 @@ Ayat(21
 
 Cukup jelas.
 
-**Pasal 476**
+
+#### Pasal 476 ^penjelasan-pasal-476
 
 Yang dimaksud dengan "mengambif tidak hanya diartikan secara fisik, tetapi juga meliputi bentuk perbuatan "mengambi1." lainnya secara fungsional (nonfrsik) mengarah pada maksud "memiliki Barang orang lain secara melawan hukum." Misalnya, pencurian uang dengan cara mentransfer atau menggunakan tenaga listrik tanpa hak.
 
 Yang dimaksud "dimil:iki" adalah mempunyai hak atas Barang tersebut.
 
-**Pasal 477**
+
+#### Pasal 477 ^penjelasan-pasal-477
 
 Ayat (1)
 
@@ -8706,36 +9532,48 @@ tempat yang sengaja dibuat atau digunakan untuk tempat kediaman atau tempat ting
 
 Yang dimaksud dengan "pekarangan tertuhrp" adalah sebidang tanah yang mempunyai tanda batas tertentu, baik berupa tembok, pagar, tumpukan batu, tumbuh-tumbuhan, saluran air, atau sungai.
 
-```
-Huruf f Cukup jelas. Hurufg Cukup jelas. Ayatl2l Cukup jelas. Pasal 478 Cukup jelas. Pasal 479 Ayat (1)
-```
+Huruf f Cukup jelas. Hurufg Cukup jelas. Ayatl2l Cukup jelas. 
 
+
+#### Pasal 478 ^penjelasan-pasal-478
+
+Cukup jelas. 
+
+
+#### Pasal 479 ^penjelasan-pasal-479
+
+Ayat (1)
 Tindak Pidana pencurian dalam ketentuan ini dikualifrkasi sebagai pencurian dengan pemberatan. Unsur pemberatrrya adalah adanya Kekerasan atau Ancaman Kekerasan terhadap orang di dalam melakukan pencurian. Kekerasan atau Ancaman Kekerasan dapat dilakukan sebelum, pada saat, atau setelah pencurian dilakukan.
 
 Kekerasan menunjuk pada penggunaan kekuatan frsik, baik dengan tenaga badan maupun dengan menggunakan alat, sedangkan Ancaman Kekerasan menunjukkan keadaan sedemikian rupa yang menimbulkan rasa takut, cemas, atau khawatir pada orang yang diancam.
 
 Penggunaan Kekerasan atau Ancaman Kekerasan ini tidak perlu semata-mata ditujukan kepada pemilik Barang, tetapi juga dapat pada orang lain, misaleya pembantu rumah tangga atau penjaga rumah.
 
-```
-Pasal 48O Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
-```
+
+#### Pasal 480 ^penjelasan-pasal-480
+
+Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas.
+Cukup jelas.
+
+
+#### Pasal 481 ^penjelasan-pasal-481
 
 Cukup jelas.
 
-```
-Pasal 481 Pasal 482 Ayat (1)
-```
 
+#### Pasal 482 ^penjelasan-pasal-482
+
+Ayat (1)
 Ketentuan ini mengatur Tindak Pidana pemerasan. Paksaan dalam ketentuan ini lebih bersifat paksaan fisik atau lahiriah, antara lain, dengan todongan senjata tajam atau senjata api.
 
 Kekerasan atau Ancaman Kekerasan tidak harus ditujukan pada orang yang diminta untuk memberikan Barang, membuat utang, atau menghapuskan piutang, tetapi dapat juga ditqlukan pada orang lain, misalnya terhadap anak, atau istri atau suami.
 
 Pengertian "memaksa" meliputi pemaksaan yang berhasil (misatnya Barang diserahkan) maupun yang eagal. Dengan demikian, jika pemerasan tidak berhasil atau gagal, pelaku Tindak Pidana tetap dituntut berdasarkan ketentuan ini, bukan dengan ketentuan mengenai percobaan.
 
-```
-Pasal 483 Ayat (21 Cukup jelas.
-```
 
+#### Pasal 483 ^penjelasan-pasal-483
+
+Ayat (21 Cukup jelas.
 Ayat (1)
 
 Ketentuan ini mengatur tentang Tindak Pidana pengzmcaman.
@@ -8750,41 +9588,50 @@ Cukup jelas.
 
 <!-- image -->
 
-Pasal 484
+
+#### Pasal 484 ^penjelasan-pasal-484
 
 Cukup jelas.
 
-Pasal 485
+
+#### Pasal 485 ^penjelasan-pasal-485
 
 Cukup jelas.
 
-**Pasal 486**
+
+#### Pasal 486 ^penjelasan-pasal-486
 
 Ketentuan ini mengatur Tindak Pidana penggelapan. Pada Tindak Pidana penggelapan, Barang yang bersangkutan sudah dikuasai secara nyata oleh pelaku Tindak Pidana. Hal ini berbeda dengan pencurian di mana Barang tersebut belum berada di tangan pelaku Tindak Pidana. Saat timbulnya niat untuk memiliki Barang tersebut secara melawan hukum, juga menentukan perbedaan antara penggelapan dan pencurian. Apabila niat memiliki sudah ada pada waktu Barang tersebut diambil, maka perbuatan tersebut merupakan Tindak Pidana pencurian, sedang pada penggelapan, niat memiliki tersebut baru ada setelah Barang yang bersangkutan untuk beberapa waktu sudah berada di tangan pelaku. Unsur Tindak Pidana penggelapan lainnya adalah bahwa pelaku menguasai Barang yang hendak dimiliki tersebut bukan karena Tindak Pidana, misalnya suatu Barang yang berada dalam penguasaan pelaku Tindak Pidana sebagai jaminan utang piutang yang kemudian dijual tanpa izin pemililoeya.
 
-Pasal 487
+
+#### Pasal 487 ^penjelasan-pasal-487
 
 Cukup jelas.
 
-Pasal 488
+
+#### Pasal 488 ^penjelasan-pasal-488
 
 Cukup jelas.
 
-Pasal 489
+
+#### Pasal 489 ^penjelasan-pasal-489
 
 Dalam ketentuan ini, penyerahan Barang karena terpaksa, misalnya pada walrhr terjadi bencana alam seperti kebakaran, banjir, gempa. bumi, dan lainlain, Barang tersebut diserahkan untuk diselamatkan atau karena tidak mampu mengurus sendiri Barang tersebut, sehingga perlu diserahkan kepa.da pihak lain.
 
-Pasal 490
+
+#### Pasal 490 ^penjelasan-pasal-490
 
 Cukup jelas.
 
-Pasal 491
+
+#### Pasal 491 ^penjelasan-pasal-491
 
 Cukup jelas.
 
 <!-- image -->
 
-**Pasal 492**
+
+#### Pasal 492 ^penjelasan-pasal-492
 
 Ketentuan ini mengatur tentang Tindak Pidana penipuan. Perbuatan materiel dari penipuan adalah membujuk seseorang dengan berbagai cara yang disebut dalam ketentuan ini, untuk memberikan sesuatu Barang, membuat utang atau menghapus piutang. Dengan demikian, perbuatan yang langsung merugikan itu tidak dilakukan oleh pelaku Tindak Pidana, lgtaFi oleh pihak yang dirugikan sendiri. Perbuatan penipuan baru selesai dengan terjadinya perbuatan dari pihak yang dirugikan sslagaimana dikehendaki pelaku.
 
@@ -8796,47 +9643,76 @@ Barang yang diserahkan dapat merupakan milik pelaku sendiri, misalnya Barang yan
 
 Ketentuan ini menyebut secara limitatif daya upaya yang digunakan pelaku yang menyebabkan penipuan itu dapat dipidana, yaitu berupa nama atau kedudukan palsu, penyalahgunaan agama, tipu muslihat dan rangkaian kata bohong. Antara daya upaya yang digunakan dan perbuatan yang dikehendaki harus ada hubungan kausal, sehingga orang itu percaya dan memberikan apa yang diminta.
 
-**Pasal 493**
+
+#### Pasal 493 ^penjelasan-pasal-493
 
 Cukup jelas.
 
-**Pasal 494**
+
+#### Pasal 494 ^penjelasan-pasal-494
 
 Cukup jelas.
 
-**Pasal 495**
+
+#### Pasal 495 ^penjelasan-pasal-495
 
 Ketentuan ini dimaksudkan untuk melindungi konsumen dari perbuatan dengan cara curang dalam dunia perdagangan yang dilalrukan oleh penjual. Dalam dunia perdagangan dapat terjadi penjual memberikan pengakuan palsu tentang sifat atau keadaan Barang yang dijualnya atau tidak menyatakan dengan sebenamya sifat atau keadaan Barang tersebut, sehingga konsumen membeli suatu Barang yang tidak sesuai dengan harapan atau tidak sesuai dengan biaya yang dikeluarkannya.
 
 <!-- image -->
 
-**Pasal 496**
+
+#### Pasal 496 ^penjelasan-pasal-496
 
 Ketentuan ini dimaksudkan untuk melindungi seseorang dari kerugian ekonomi melalui pemberian jasa kepada orang lain yang dilakukan akibat perbuatan cur€rng dari orang lain tersebut. Misalnya, seseorang secara curang memanfaatkan kebaikan orang lain mempergunakan nomor dan saluran telepon dan membebankan biaya pembicaraan atau sambungan teleponnya kepada pelanggan telepon.
 
-**Pasal 497**
+
+#### Pasal 497 ^penjelasan-pasal-497
 
 Ketentuan ini dimaksudkan untuk melindungi perbuatan curang dalam dunia perdagangan yang dilakukan oleh konsumen, dengan tidak membayar lunas harga Barang dibeli. Untuk dapat dipidana berdasarkan ketentuan ini, perbuatan konsumen tersebut dilakukan secara berulang-ulang yang menunjukkan bahwa perbuatan tersebut sebagai mata pencaharian atau kebiasaannya. Dalam masyara-kat, perbuatan konsumen ini dikenal sebagai tindakan "mengemplang".
 
-**Pasal 498**
+
+#### Pasal 498 ^penjelasan-pasal-498
 
 Ketentuan ini dimaksudkan untuk mencegah perbuatan curang dalam dunia asuransi yang dilakukan oleh pihak tertanggung dalam pembuatan petjanjian asuransi sehingga merugikan pihak penanggung asuransi.
 
-**Pasal 499**
+
+#### Pasal 499 ^penjelasan-pasal-499
 
 Tindak Pidana dalam ketentuan ini merupakan perbuatan curang untuk memperoleh pembayaran uang asuransi.
 
-**Pasal 500**
+
+#### Pasal 500 ^penjelasan-pasal-500
 
 Cukup jelas.
 
-**Pasal 501**
+
+#### Pasal 501 ^penjelasan-pasal-501
 
 Yang dimaksud dengan "konosemen' adalah Surat yang diberi tanggal yang didalamnya diterangkan oleh pengangkut, bahwa pengangkut telah menerima Barang tertentu, dengan maksud untuk mengangkut Barang tersebut ke tempat yang ditunjuk, dan menyerahkannya kepada orang yang ditunjuk, sesuai dengan persyaratan perjanjian penyerahan Barang.
 
 Konosemen asli (lembar pertama) dalam ketentuan ini merupakan Surat berharga dan dapat diperjualbelikan, sedangkan salinan atau lembaran lainnya tidak. Hanya konosemen lembar pertama atau asli dapat ditukarkan dengan jenis Barang yang tercantum di dalamnya.
 
-Berhubung konosemen asli merupakan suatu Surat berharga, maka konosemen asli itu dapat dibebani dengan seeala bentuk hak atas benda, seperti digadaikan, dijual, dipinjamkan, atau ditukarkan. Salinan atau lembaran lainnya yang bukan Surat berharga tidak mempunyai nilai sehingga jika dljual, pembelinya tidak akan menerima Barangnya dan perbuatan membebani salinan atau lembaran lainnya dengan hak atas benda merupakan perbuatan penipuan. Pasal 502 Cukup jelas. Pasal 503 Ayat (1) Dalam ketenhran ini yang dimaksud dengan makanan, minuman, atau obat dipalsu, jika nilai atau manfaatnya menjadi berkurang akibat dicampur dengan bahan lain. Ayat(21 Cukup jelas. Ayat (3) Cukup jelas. Pasal 504 Cukup jelas. Pasal 505 Yang dimaksud dengan "batas pekarangan" adalah setiap tanda yang dipergunakan untuk menunjukkan batas suatu pekarangan, seperti tembok, pagar, patok, tumpukan batu, tumbuh-tumbuhan, saluran air, sungai, atau pematang sawah dengan tujuan memisahkan suatu bidang tanah milik seseor€rng dari bidang tanah milik orang lain yang berdampingan.
+Berhubung konosemen asli merupakan suatu Surat berharga, maka konosemen asli itu dapat dibebani dengan seeala bentuk hak atas benda, seperti digadaikan, dijual, dipinjamkan, atau ditukarkan. Salinan atau lembaran lainnya yang bukan Surat berharga tidak mempunyai nilai sehingga jika dljual, pembelinya tidak akan menerima Barangnya dan perbuatan membebani salinan atau lembaran lainnya dengan hak atas benda merupakan perbuatan penipuan. 
+
+
+#### Pasal 502 ^penjelasan-pasal-502
+
+Cukup jelas. 
+
+
+#### Pasal 503 ^penjelasan-pasal-503
+
+Ayat (1) Dalam ketenhran ini yang dimaksud dengan makanan, minuman, atau obat dipalsu, jika nilai atau manfaatnya menjadi berkurang akibat dicampur dengan bahan lain. Ayat(21 Cukup jelas. Ayat (3) Cukup jelas. 
+
+
+#### Pasal 504 ^penjelasan-pasal-504
+
+Cukup jelas. 
+
+
+#### Pasal 505 ^penjelasan-pasal-505
+
+Yang dimaksud dengan "batas pekarangan" adalah setiap tanda yang dipergunakan untuk menunjukkan batas suatu pekarangan, seperti tembok, pagar, patok, tumpukan batu, tumbuh-tumbuhan, saluran air, sungai, atau pematang sawah dengan tujuan memisahkan suatu bidang tanah milik seseor€rng dari bidang tanah milik orang lain yang berdampingan.
 
 <!-- image -->
 
@@ -8844,23 +9720,38 @@ Berhubung konosemen asli merupakan suatu Surat berharga, maka konosemen asli itu
 
 Yang dimaksud dengan "kabar bohong" adalah tidak hanya pemberitahuan palsu tentang suatu fakta tetapi juga pemberitahuan palsu tentang suatu
 
-Pasal 506 keuntungan yang dapat diharapkan. Pasal 507 Cukup jelas. Pasal 5O8
+
+#### Pasal 506 ^penjelasan-pasal-506
+
+keuntungan yang dapat diharapkan. 
+
+
+#### Pasal 507 ^penjelasan-pasal-507
+
+Cukup jelas. 
+
+
+#### Pasal 508 ^penjelasan-pasal-508
 
 Cukup jelas.
 
-Pasal 509
+
+#### Pasal 509 ^penjelasan-pasal-509
 
 Cukup jelas.
 
-Pasal 51O
+
+#### Pasal 510 ^penjelasan-pasal-510
 
 Cukup jelas.
 
-Pasal 511
+
+#### Pasal 511 ^penjelasan-pasal-511
 
 Cukup jelas.
 
-Pasal 512
+
+#### Pasal 512 ^penjelasan-pasal-512
 
 Hurufa
 
@@ -8878,27 +9769,33 @@ Hurufd
 
 Cukup jelas.
 
-Pasal 513
+
+#### Pasal 513 ^penjelasan-pasal-513
 
 Cukup jelas.
 
-Pasal 514
+
+#### Pasal 514 ^penjelasan-pasal-514
 
 Cukup jelas.
 
-Pasal 515
+
+#### Pasal 515 ^penjelasan-pasal-515
 
 Cukup jelas.
 
-Pasal 516
+
+#### Pasal 516 ^penjelasan-pasal-516
 
 Cukup jelas.
 
-Pasal 517
+
+#### Pasal 517 ^penjelasan-pasal-517
 
 Cukup jelas.
 
-Pasal 518
+
+#### Pasal 518 ^penjelasan-pasal-518
 
 Cukup jelas.
 
@@ -8906,49 +9803,65 @@ Cukup jelas.
 
 **E[trtrLIIIEEf,trEIn**
 
-**Pasal 519**
+
+#### Pasal 519 ^penjelasan-pasal-519
 
 Ketentuan ini dimaksudkan untuk mencegah suatu persetujuan perdamaian dibuat karena pelaku Tindak Pidana memperoleh keuntungan istimewa, padahal menurut Undang-Undang, persetujuan tersebut kaLau sudah disahkan berlaku juga untuk kreditur yang semula tidak menyetujuinya. Hal ini juga berlaku untuk pengurus atau komisaris dari suatu Korporasi.
 
-```
-Pasal 520 Ayat (l) Huruf a Hak menahan (hak retensi) timbul berdasarkan ketentuan peraturan perundang-undangan, yaitu Pasal 1616 atau Pasal 1812 Kitab Undang-Undang Hukum Perdata. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. AyarQl Cukup jelas. Pasal 521 Ayat (1) Yang dimaksud dengan "merusalC adalah membuat tidak dapat dipalai untuk sementara walrtu, artinya apabila Barang itu diperbaiki maka dapat dipakai lagi. Yang dimaksud dengan "menghancurkan" adalah membinasakan atau merusald(an sama sekali sehingga tidak dapat dipakai lagi. Ayat (2) Cukup jelas.
-```
 
-**PasaJ522**
+#### Pasal 520 ^penjelasan-pasal-520
+
+Ayat (l) Huruf a Hak menahan (hak retensi) timbul berdasarkan ketentuan peraturan perundang-undangan, yaitu Pasal 1616 atau Pasal 1812 Kitab Undang-Undang Hukum Perdata. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. AyarQl Cukup jelas. 
+
+
+#### Pasal 521 ^penjelasan-pasal-521
+
+Ayat (1) Yang dimaksud dengan "merusalC adalah membuat tidak dapat dipalai untuk sementara walrtu, artinya apabila Barang itu diperbaiki maka dapat dipakai lagi. Yang dimaksud dengan "menghancurkan" adalah membinasakan atau merusald(an sama sekali sehingga tidak dapat dipakai lagi. Ayat (2) Cukup jelas.
+
+
+#### Pasal 522 ^penjelasan-pasal-522
 
 Yang dimaksud dengan "bangunan gedung untuk sarana, prasarana, dan/ atau fasilitas pelayanan publil{ misalnya, bangunan kereta api, Bangunan Listrik, bangunan telekomunikasi, bangunan untuk komrrnikasi lewat satelit atau komunikasi jarak jauh lainnya, stasiun radio atau televisi, bendungan, saluran gas, atau saluran air minum.
 
 <!-- image -->
 
-Pasal 523
+
+#### Pasal 523 ^penjelasan-pasal-523
 
 Cukup jelas.
 
-Pasal 524
+
+#### Pasal 524 ^penjelasan-pasal-524
 
 Cukup jelas.
 
-Pasal 525
+
+#### Pasal 525 ^penjelasan-pasal-525
 
 Cukup jelas.
 
-Pasal 526
+
+#### Pasal 526 ^penjelasan-pasal-526
 
 Cukup jelas.
 
-**Pasel527**
+
+#### Pasal 527 ^penjelasan-pasal-527
 
 Yang dimaksud dengan "pemberian bantuan kekuatan" adalah pemberian bantuan yang diberikan oleh Komandan Tentara Nasional Indonesia hanya pada kondisi darurat sipil.
 
-**Pasal 528**
+
+#### Pasal 528 ^penjelasan-pasal-528
 
 Tindak Pidana dalam ketentuan ini merupakan Tindak Pidana terhadap penyelenggaraan peradilan.
 
-**Pasal 529**
+
+#### Pasal 529 ^penjelasan-pasal-529
 
 Yang dimaksud dengan "memaksa" adalah menggunakan kekuasaan secara tidak sah. Sebagai contoh adalah penyidik yang dalom melakukan penyidikan memaksa tersangka untuk mengaku atau memaksa saksi memberikan keterarrgan menurut kemauan dari penyidik. Memaksa dapat juga dilakukan secara fisik maupun secara psikis dengan cara menakutnakuti supaya tertekan jiwanya. Tetapi apabila yang diperiksa itu seorang saksi yang memberikan keterangan yang bertentangan dengan kenyataan dan penyidik tersebut memberikan peringatan keras atau menunjuld&lt;an akibat yang tidak baik atas keterangan saksi yang bohong tersebut, ketentuan ini tidak diterapkan.
 
-**Pasal 530**
+
+#### Pasal 530 ^penjelasan-pasal-530
 
 Ketentuan ini mengatur Tindak Pidana yang dikenal dengan narna Torhne. Tindak Pidana ini sudah menjadi salah satu Tindak Pidana intemasional melalui konvensi internasional Conuention Agahst Torture attd Otler Cntel, Intatman or Degrading Tleatment or Punbfunen\ 1O Deember 1984. Indonesia sebagai anggota Perserikatan Bangsa-Bangsa tela-h meratifikasi konvensi ini dengan Undang-Undang Nomor 5 Tahun 1998 tentang Pengesahan Conuention Agairst Torture and Other Cruel, htlatman or kqading Tteafulent or Punislanent (Konvensi Menentang Penyiksaan dan
 
@@ -8962,21 +9875,35 @@ Perlakuan atau Penghukuman Lain yang Kejam, Tidak Manusiawi, atau Merendahkan Ma
 
 Yang dimaksud dengan "tidak memenuhi permintaan" misalnya, tidak menindaklanjuti laporan atau informasi adanya seseorang yang
 
-```
-Pasal 531 Cukup jelas. Pasal 532 Ayat (1) Hurufa dirampas kemerdekaannya secara meliawan hukum. Hurufb Cukup jelas. Ayat(2) Cukup jelas. Pasal 533 Cukup jelas.
-```
 
-**Pasal 534**
+#### Pasal 531 ^penjelasan-pasal-531
+
+Cukup jelas. 
+
+
+#### Pasal 532 ^penjelasan-pasal-532
+
+Ayat (1) Hurufa dirampas kemerdekaannya secara meliawan hukum. Hurufb Cukup jelas. Ayat(2) Cukup jelas. 
+
+
+#### Pasal 533 ^penjelasan-pasal-533
+
+Cukup jelas.
+
+
+#### Pasal 534 ^penjelasan-pasal-534
 
 Demi keamanan dan ketertiban, hal yang berkaitan dengan terpidana atau orang yang ditahan harus berdasarkan putusan atau Surat perintah penahanan yang sah. Demikian juga Anak yang dimasukl&lt;an dalam kmbaga Pembinaan Khusus Anak atau orang yang sakit jiwa yang dimasukkan dalam rumah sakit jiwa harus berdasarkan Surat perintah yang sah.
 
-**Pasal 535**
+
+#### Pasal 535 ^penjelasan-pasal-535
 
 Ketentuan ini dimaksudkan untuk memberikan pelindungan terhadap hak asasi seseorang atas rumah tinggalnya, yang merupakan hak pribadi seseorang sehingga harus ditndungi, tidak boleh dimasuki orang lain tanpa izin dari penghuni rumah atau tanpa memperhatikan cara sesuai dengan ketentuan peraturan perundang-undangan. Demikian pula memasuki tempat tertutup atau pekarangan tertutup yang dipakai orang. Ketentuan ini dikenakan hanya terhadap Pejabat dalam menjalankan tuga.snya.
 
 Ketentuan ini berlaku khusus bagi Pejabat dalam melakukan penggeledahan rumah atau membaca atau menyita Surat dalam rangka penyidikan Tindak Pidana tanpa memenuhi ketentuan peraturan perundang-undarrgan.
 
-**Pasal 536**
+
+#### Pasal 536 ^penjelasan-pasal-536
 
 **Hurufa**
 
@@ -8986,15 +9913,18 @@ Ketentuan ini dimaksudkan untuk melindungi rahasia surat-menyurat. Tidak termasu
 
 Yang dimaksud dengan "penyelenggara sistem elektronild adalah Setiap Orang, penyelenggara neg€rra, badan usaha, dan masyarakat yang menyediakan, mengelola, dan/atau mengoperasikan sistem elektronik, baik secara sendiri-sendiri maupun bersama-sama kepada pengguna sistem elektronik untuk keperluan dirinya dan/atau keperluan pihak lain.
 
-Pasal 537
+
+#### Pasal 537 ^penjelasan-pasal-537
 
 Cukup jelas.
 
-Pasal 538
+
+#### Pasal 538 ^penjelasan-pasal-538
 
 Cukup jelas.
 
-**Pasal 539**
+
+#### Pasal 539 ^penjelasan-pasal-539
 
 Ayat (1)
 
@@ -9004,21 +9934,27 @@ Ayat(21
 
 Yang dimaksud "halangan yang sah" adalah sesuai dengan syarat-syarat perkawinan yang ditentukan dalam peraturan perundang-undangan yang mengatur mengenai perkawinan.
 
-Pasal 540
+
+#### Pasal 540 ^penjelasan-pasal-540
 
 Cukup jelas.
 
-Pasal 541
+
+#### Pasal 541 ^penjelasan-pasal-541
 
 Cukup jelas.
 
-Pasal 542
+
+#### Pasal 542 ^penjelasan-pasal-542
 
 Cukup jelas.
 
 <!-- image -->
 
-**Pasal 543 Ayat (1)**
+
+#### Pasal 543 ^penjelasan-pasal-543
+
+Ayat (1)**
 
 Tindak Pidana yang diatur dalam Pasal 542 sampai dengan Pasal 560 merupakan Tindak Pidana internasional, berarti pelaku Tindak Pidana tersebut dapat dituntut di negara mErnapun pelaku ditemukan asal negara tersebut menganut asas universalitas. Dengan demikian tidak dipersoalkan kewarganegaraan pelaku, demikian juga loans delicti dan nasionalitas Kapal tersebut, karena Tindak Pidana tersebut dianggap mengganggu ketertiban dunia.
 
@@ -9030,27 +9966,33 @@ Ayatl2l
 
 Dalam ketentuan ini orang atau Barang tidak harus berada di atas IGpal tapi bisa juga berada di pantai.
 
-Pasal 544
+
+#### Pasal 544 ^penjelasan-pasal-544
 
 Cukup jelas.
 
-Pasal 545
+
+#### Pasal 545 ^penjelasan-pasal-545
 
 Cukup jelas.
 
-Pasal 546
+
+#### Pasal 546 ^penjelasan-pasal-546
 
 Cukup jelas.
 
-Pasal 547
+
+#### Pasal 547 ^penjelasan-pasal-547
 
 Cukup jelas.
 
-Pasal 548
+
+#### Pasal 548 ^penjelasan-pasal-548
 
 Yang dimaksud dengan "mengambil alih atau menarik Kapal dari pemiliknya" adalah mengambil l{apal dari kekuasaan pemiliknya secara tidak sah, misalnya dengan melarikan I(apal tersebut dan mempergunakannya untuk kepentingan diri sendiri.
 
-Pasal 549
+
+#### Pasal 549 ^penjelasan-pasal-549
 
 Yang dimaksud dengan "Surat keterangan I(apal", antara lain, Surat, dokumen, dan warta Ikpal.
 
@@ -9060,119 +10002,147 @@ Yang dimaksud dengan "Surat keterangan I(apal", antara lain, Surat, dokumen, dan
 
 Ketentuan ini dimaksudkan untuk mencegah dan memberantas kecurangan terhadap Surat keterangan lGpal yang dilakukan oleh Nakhoda atau pemimpin Kapal.
 
-**Pasal 550**
+
+#### Pasal 550 ^penjelasan-pasal-550
 
 Cukup jelas.
 
-**Pasal 551**
+
+#### Pasal 551 ^penjelasan-pasal-551
 
 Cukup jelas.
 
-**Pasal 552**
+
+#### Pasal 552 ^penjelasan-pasal-552
 
 Ketentuan ini dimaksudkan mencegah pembuatan laporan palsu untuk menguntungkan diri sendiri atau orang lain, misalrrya seorang Nakhoda Kapal dengan sensaja menenggelamkan Kapalnya, tetapi dalam laporannya dikatakan bahwa Kapalnya telah mendapat kecelakaan dan tenggelam, karena itu mereka mendapat kesempatan untuk menerima pembayaran uang asuransi bagi Kapal dan/atau muatannya.
 
-**Pasal 553**
+
+#### Pasal 553 ^penjelasan-pasal-553
 
 Ketentuan ini dimaksudkan untuk menjaga keamanan, ketertiban, dan keselamatan pelayaran.
 
-**Pasal 554**
+
+#### Pasal 554 ^penjelasan-pasal-554
 
 Ketentuan ini dimaksudkan untuk mengatur mengenai pemberontakarr di Itupal, tetapi di sini dilakukan oleh 2 (dua) orang atau lebih dengan bersekutu. Dalam ketentuan ini juga ditentukan pemberatan pidana, mengingat akibat yang ditimbulkan dan perbuatan tersebut dilakukan bersama-sama.
 
-**Pasal 555**
+
+#### Pasal 555 ^penjelasan-pasal-555
 
 Cukup jelas.
 
-**Pasal 556**
+
+#### Pasal 556 ^penjelasan-pasal-556
 
 Cukup jelas.
 
-**Pasal 557**
+
+#### Pasal 557 ^penjelasan-pasal-557
 
 Yang dimaksud dengan "perwira Kapal" antara lain, mualim dan dokter Kapal.
 
-**Pasal 558**
+
+#### Pasal 558 ^penjelasan-pasal-558
 
 Cukup jelas.
 
-**Pasal 559**
+
+#### Pasal 559 ^penjelasan-pasal-559
 
 Cukup jelas.
 
-**Pasal 56O**
+
+#### Pasal 560 ^penjelasan-pasal-560
 
 Cukup jelas.
 
-**Pasal 561**
+
+#### Pasal 561 ^penjelasan-pasal-561
 
 Dalam ketentuan ini yang dimaksud dengan "mengubah haluan Ikpal" adalah mengubah tujuan perjalanan atau menyinggahi pelabuhan yang tidak termasuk rencana pelayaran semula, atau tidak langsung menuju pelabuhan yang telah ditentukan sebelumnya sebagai pelabuhan tujuan.
 
-**Pasal 562**
+
+#### Pasal 562 ^penjelasan-pasal-562
 
 Dalam ketentuan ini, Ihpal atau Barang dapat ditarik, dihentikan, atau ditahan oleh Pejabat yang berwenang setempat, apa.bila melanggar ketentuan blokade, peraturan karantina, atau membawa Barang terlarang (penyelundupan).
 
-**Pasal 563**
+
+#### Pasal 563 ^penjelasan-pasal-563
 
 Yang dimaksud dengan 'tidak memberi sesuatu yang wajib diberikan" misalnya, memberikan makanan atau ransum.
 
-**Pasal 564**
+
+#### Pasal 564 ^penjelasan-pasal-564
 
 Yang dimaksud dengan "keadaan terpaksa" adalah sesuatu keadaan yang sedemikian rupa sehingga Nakhoda atau pemimpin I(apal terpaksa melakukan suatu tindakan untuk menjaga keselamatan pelayaran, misalnya karena kelebihan muatan yaitu untuk menjaga jangan sampai Ihpal tenggelam atau karena penyakit menular.
 
-**Pasal 565**
+
+#### Pasal 565 ^penjelasan-pasal-565
 
 Ketentuan ini dimaksudkan s6lagai usaha untuk mencegah penyalahgunaan bendera Indonesia.
 
-**Pasal 566**
+
+#### Pasal 566 ^penjelasan-pasal-566
 
 Yang dimaksud dengan "Kapal pemerintah selain Kapal perang yang bertugas di bidang keamanan dan ketertiban di laut" antara lain, Ikpal polisi perairan dan Kapal bea dan cukai.
 
-**Pasal 567**
+
+#### Pasal 567 ^penjelasan-pasal-567
 
 Ketentuan ini berkaitan dengan adanya suatu kewajiban untuk melakukan pencatatan setiap kelahiran atau kematian. Hal ini untuk kepentingan administrasi kependudukan. Apabila kelahiran atau kematian terjadi di laut kewajiban melakukan pencatatan dibebankan kepada Nakleoda Kapal.
 
 <!-- image -->
 
-Pasal 568
+
+#### Pasal 568 ^penjelasan-pasal-568
 
 Perbuatan yang dimaksud dalam ketentuan ini merupakan perbuatan yang menghambat penegakan hukum.
 
-Pasal 569
+
+#### Pasal 569 ^penjelasan-pasal-569
 
 Cukup jelas.
 
-Pasal 570
+
+#### Pasal 570 ^penjelasan-pasal-570
 
 Cukup jelas.
 
-Pasal 571
+
+#### Pasal 571 ^penjelasan-pasal-571
 
 Cukup jelas.
 
-Pasal 572
+
+#### Pasal 572 ^penjelasan-pasal-572
 
 Yang dimaksud dengan "tanda pengenal" misalnya, tanda palang merah. Maksud pemakaian tanda tersebut untuk melindungi Kapal atau sekoci rumah sakit dari serangan.
 
-Pasal 573
+
+#### Pasal 573 ^penjelasan-pasal-573
 
 Cukup jelas.
 
-Pasal 574
+
+#### Pasal 574 ^penjelasan-pasal-574
 
 Cukup jelas.
 
-Pasal 575
+
+#### Pasal 575 ^penjelasan-pasal-575
 
 Yang dimaksud dengan "bangunan untuk pengamanan lalu lintas udara" adalah fasilitas atau instalasi penerbangan yang digunakan untuk keamanan dan pengaturan lalu lintas udara, seperti terminal, bangunan, menara, dan landasan.
 
 Tindak Pidana penerbangan dalam Bab ini hanya dapat menjadi Tindak Pidana terorisme jika terdapat tujuan untuk melakukan Tindak Pidana terorisme sebagaimana diatur dalam peraturan penrndang-undangan mengenai terorisme.
 
-Pasal 576
+
+#### Pasal 576 ^penjelasan-pasal-576
 
 Cukup jelas.
 
-Pasal 577
+
+#### Pasal 577 ^penjelasan-pasal-577
 
 Yang dimaksud dengan "tanda atau alat untuk pengamanan penerbangan" adalah fasilitas penerbangan yang digunakan oleh atau bagi pesawat agar dapat mendarat atau tinggal landas secara aman, seperti tanda atau alat landasan termasuk garis di tengah landasan, tanda penunjuk atau koordinat landasan, tanda ujung landasan dan tanda adanya rintangan landasan termasuk lampu tanda pemancar radio, lampu tanda gedung lalu lintas udara, dan lampu tanda gedung stasiun udara, dan 1"ir, 5slagainya.
 
@@ -9184,11 +10154,13 @@ Pengertian "memasang tanda atau alat yang keliru" dapat juga berarti secara seng
 
 Yang dimaksud dengan "Pesawat Udara" adalah pesawat udara yang berada di darat, yaitu tidak Dalam Penerbangan atau masih dalam persiapan oleh awak darat atau oleh awak pesawat untuk penerbangan tertentu.
 
-**Pasal 578**
+
+#### Pasal 578 ^penjelasan-pasal-578
 
 Cukup jelas.
 
-**Pasal 579**
+
+#### Pasal 579 ^penjelasan-pasal-579
 
 Tindak Pidana dalam ketentuan ini juga merupakan pembajakan udara sebagaimana diatur dalam Konvensi The Hague l97O tentang "The Suppressian of Unlawful kiztrc of Aiwafr (Pemberantasan Penguasaan Pesawat Udara Secara Melawan Hukum), yang diadakan di Den HaagBelanda tahun 1970.
 
@@ -9202,85 +10174,105 @@ Tindak Pidana dalam ketentuan ini lazim dikenal dengan pembajakan udara. Dalam k
 
 Berbeda dengan pemb4iakan udara yang diatur pada ayat (1), perbuatan merampas atau mempertahankan perampasan pada ayat ini dilakukan dengan Kekerasan atau Ancaman Kekerasan dalam bentuk apa pun, sehingga pilot berada dalam keadaan daya paksa dan tak bisa berbuat lain kecuali menyerahkan kemudi Pesawat Udara.
 
-**Pasal 580**
+
+#### Pasal 580 ^penjelasan-pasal-580
 
 Ketentuan ini merupakan Tindak Pidana yang wqjib dilarang oleh negara peserta Konvensi Montreal 1971 tentang "TLe Supprcssion of Unlauful Ad,s Against the Safe$ of Ciuil Auiatiart (Pemberantasan Tindakan-tindakan Melawan Hukum yang Mengancam Keamanan Penerbangan Sipil) yang diadakan di Montreal-Kanada pada tahun 1971, sebagai pelengkap Konvensi Den H4og tahun 1970.
 
-Pasal 581
+
+#### Pasal 581 ^penjelasan-pasal-581
 
 Cukup jelas.
 
-Pasal 582
+
+#### Pasal 582 ^penjelasan-pasal-582
 
 Cukup jelas.
 
-Pasal 583
+
+#### Pasal 583 ^penjelasan-pasal-583
 
 Cukup jelas.
 
-Pasal 584
+
+#### Pasal 584 ^penjelasan-pasal-584
 
 Cukup jelas.
 
-Pasal 585
+
+#### Pasal 585 ^penjelasan-pasal-585
 
 Cukup jelas.
 
-Pasal 586
+
+#### Pasal 586 ^penjelasan-pasal-586
 
 Cukup jelas.
 
-Pasal 587
+
+#### Pasal 587 ^penjelasan-pasal-587
 
 Cukup jelas.
 
-Pasal 588
+
+#### Pasal 588 ^penjelasan-pasal-588
 
 Cukup jelas.
 
-Pasal 589
+
+#### Pasal 589 ^penjelasan-pasal-589
 
 Ketentuan yang diatur dalam Pasal ini adalah tindakan berupa pemberitahuan palsu, misalnya melalui telepon atau alat komunikasi lainnya tentang adanya bom dalam Pesawat Udara. Dengan pemberitahuan palsu tersebut, yang dikenal dengan istilah bomb hoax, sudah dapat menimbulkan kepanikan bagi awak serta Penumpang yang dapat menyebabkan bahaya bagi Pesawat Udara.
 
-Pasal 590
+
+#### Pasal 590 ^penjelasan-pasal-590
 
 Cukupjelas.
 
 <!-- image -->
 
-**Pasal 591**
+
+#### Pasal 591 ^penjelasan-pasal-591
 
 Benda dalam ketentuan ini adalah benda yang berasal dari Tindak Pidana, misalnya berasal dari pencurian, penggelapan, atau penipuan. Tindak Pidana yang diatur dalam ketentuan ini disebut dengan Tindak Pidana prcparte dolts proparte aipa.
 
-**Pasal 592**
+
+#### Pasal 592 ^penjelasan-pasal-592
 
 Orang yang secara berulang-ulang melakukan Tindak Pidana s6lagaim614 dimaksud dalam Pasal 591 tidak perlu dibuktikan bahwa pelaku Tindak Pidana melakukan Tindak Pidana ini untuk mengejar keuntungan. Dikategorikan "menjadikan kebiasaan" karena perbuatan tersebut dilakukan secara bemlang-ulang meskipun jangka walrhrnya agak lama.
 
-Pasal 593
+
+#### Pasal 593 ^penjelasan-pasal-593
 
 Cukup jelas.
 
-Pasal 594
+
+#### Pasal 594 ^penjelasan-pasal-594
 
 Cukup jelas.
 
-Pasal 595
+
+#### Pasal 595 ^penjelasan-pasal-595
 
 Ketentuan ini ditujukan kepada pencetak.
 
-Pasal 596
+
+#### Pasal 596 ^penjelasan-pasal-596
 
 Cukup jelas.
 
-**Pasal 597**
+
+#### Pasal 597 ^penjelasan-pasal-597
 
 Yang dimaksud dengan "perbuatan yang menurut hukum yang hidup dalam masyarakat dinyatakan sebagai perbuatan yang dilarang" mengacu pa.da ketentuan Pasal 2 ayat (1).
 
-Pasal 598
+
+#### Pasal 598 ^penjelasan-pasal-598
 
 Cukup jelas.
 
-Pasal 599
+
+#### Pasal 599 ^penjelasan-pasal-599
 
 Hurufa
 
@@ -9300,104 +10292,771 @@ Hunrfd
 
 Yang dimaksud dengan "kekerasan seksual lain yang setara" adalah perbuatan untuk melakukan pemaksaan seksual yang serius sebagai bentuk Tindak Pidana terhadap kemanusiaan.
 
-Pasal 600
+
+#### Pasal 600 ^penjelasan-pasal-600
 
 Cukup jelas.
 
-Pasal 601
+
+#### Pasal 601 ^penjelasan-pasal-601
 
 Cukup jelas.
 
-Pasal 602
+
+#### Pasal 602 ^penjelasan-pasal-602
 
 Cukup jelas.
 
-Pasal 603
+
+#### Pasal 603 ^penjelasan-pasal-603
 
 Yang dimaksud dengan "merugikan keuangan negara" adalah berdasarkan hasil pemeriksaan lembaga negara audit keuangan.
 
-Pasal 6O4
+
+#### Pasal 604 ^penjelasan-pasal-604
 
 Cukup jelas.
 
-Pasal 6O5
+
+#### Pasal 605 ^penjelasan-pasal-605
 
 Cukup jelas.
 
-Pasal 606
+
+#### Pasal 606 ^penjelasan-pasal-606
 
 Cukup jelas.
 
-Pasal 607
+
+#### Pasal 607 ^penjelasan-pasal-607
 
 Cukup jelas.
 
-Pasal 608
+
+#### Pasal 608 ^penjelasan-pasal-608
 
 Cukup jelas.
 
-Pasal 609
+
+#### Pasal 609 ^penjelasan-pasal-609
 
 Cukup jelas.
 
-Pasal 610
+
+#### Pasal 610 ^penjelasan-pasal-610
 
 Cukup jelas.
 
-Pasal 611
+
+#### Pasal 611 ^penjelasan-pasal-611
 
 Cukup jelas.
 
 <!-- image -->
 
-Pasal 612
+
+#### Pasal 612 ^penjelasan-pasal-612
 
 Cukup jelas.
 
-Pasal 613
+
+#### Pasal 613 ^penjelasan-pasal-613
 
 Dalam ketentuan ini, penyesuaian ketentuan pidana tidak termasuk bagi ancarnan pidana denda yang diatur dalam Undang-Undang pidana administratif.
 
 Lihat penjelasan Pasal 187.
 
-Pasal 614
+
+#### Pasal 614 ^penjelasan-pasal-614
 
 Cukup jelas.
 
-Pasal 615
+
+#### Pasal 615 ^penjelasan-pasal-615
 
 Cukup jelas.
 
-Pasal 616
+
+#### Pasal 616 ^penjelasan-pasal-616
 
 Cukup jelas.
 
-Pasal 617
+
+#### Pasal 617 ^penjelasan-pasal-617
 
 Cukup jelas.
 
-Pasal 618
+
+#### Pasal 618 ^penjelasan-pasal-618
 
 Cukup jelas.
 
-Pasal 619
+
+#### Pasal 619 ^penjelasan-pasal-619
 
 Cukup jelas.
 
-Pasal 62O
+
+#### Pasal 620 ^penjelasan-pasal-620
 
 Yang dimaksud dengan "lembaga penegak hukum" misalnya, lembaga yang menyelenggarakan pemberantasan Tindak Pidana narkotika, selain menangani Tindak Pidana narkotika yang diatur dalam Undang-Undang mengenai narkotika, juga. menangani Tindak Pidana narkotika yang diatur dalam Undang-Undang ini.
 
 Demikian juga lembaga yang menyelenggarakan pemberantasan Tindak Pidana korupsi, selain menangani Tindak Pidana korupsi yang diatur dalam Undarrg-Undang mengenai pemberantasan Tindak Pidana korupsi, juga menangani Tindak Pidana korupsi yang diatur dalam Undang-Undang ini.
 
-Pasal 621
+
+#### Pasal 621 ^penjelasan-pasal-621
 
 Cukup jelas.
 
 <!-- image -->
 
-Pasal 622 Cukup jelas. Pasal 623 Cukup jelas. Pasa7624 Cukup jelas.
 
-**TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6842**
+#### Pasal 622 ^penjelasan-pasal-622
+
+Cukup jelas. 
+
+
+#### Pasal 623 ^penjelasan-pasal-623
+
+Cukup jelas. 
+
+
+#### Pasal 624 ^penjelasan-pasal-624
+
+Cukup jelas.
+
+**TAMBAHAN LEMBARAN NEGARA 
+
+ NOMOR 6842**
 
 <!-- image -->
+
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-1|Pasal 1]] | [[#^penjelasan-pasal-1|Penjelasan]] | ✓ |
+| [[#^pasal-2|Pasal 2]] | [[#^penjelasan-pasal-2|Penjelasan]] | ✓ |
+| [[#^pasal-3|Pasal 3]] | [[#^penjelasan-pasal-3|Penjelasan]] | ✓ |
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | ✓ |
+| [[#^pasal-5|Pasal 5]] | [[#^penjelasan-pasal-5|Penjelasan]] | ✓ |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | ✓ |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | ✓ |
+| [[#^pasal-8|Pasal 8]] | [[#^penjelasan-pasal-8|Penjelasan]] | - |
+| [[#^pasal-9|Pasal 9]] | [[#^penjelasan-pasal-9|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | ✓ |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | ✓ |
+| [[#^pasal-12|Pasal 12]] | [[#^penjelasan-pasal-12|Penjelasan]] | - |
+| [[#^pasal-13|Pasal 13]] | [[#^penjelasan-pasal-13|Penjelasan]] | ✓ |
+| [[#^pasal-14|Pasal 14]] | [[#^penjelasan-pasal-14|Penjelasan]] | ✓ |
+| [[#^pasal-15|Pasal 15]] | [[#^penjelasan-pasal-15|Penjelasan]] | ✓ |
+| [[#^pasal-16|Pasal 16]] | [[#^penjelasan-pasal-16|Penjelasan]] | ✓ |
+| [[#^pasal-17|Pasal 17]] | [[#^penjelasan-pasal-17|Penjelasan]] | - |
+| [[#^pasal-18|Pasal 18]] | [[#^penjelasan-pasal-18|Penjelasan]] | - |
+| [[#^pasal-19|Pasal 19]] | [[#^penjelasan-pasal-19|Penjelasan]] | - |
+| [[#^pasal-20|Pasal 20]] | [[#^penjelasan-pasal-20|Penjelasan]] | ✓ |
+| [[#^pasal-21|Pasal 21]] | [[#^penjelasan-pasal-21|Penjelasan]] | ✓ |
+| [[#^pasal-22|Pasal 22]] | [[#^penjelasan-pasal-22|Penjelasan]] | ✓ |
+| [[#^pasal-23|Pasal 23]] | [[#^penjelasan-pasal-23|Penjelasan]] | - |
+| [[#^pasal-24|Pasal 24]] | [[#^penjelasan-pasal-24|Penjelasan]] | - |
+| [[#^pasal-25|Pasal 25]] | [[#^penjelasan-pasal-25|Penjelasan]] | ✓ |
+| [[#^pasal-26|Pasal 26]] | [[#^penjelasan-pasal-26|Penjelasan]] | - |
+| [[#^pasal-27|Pasal 27]] | [[#^penjelasan-pasal-27|Penjelasan]] | - |
+| [[#^pasal-28|Pasal 28]] | [[#^penjelasan-pasal-28|Penjelasan]] | ✓ |
+| [[#^pasal-29|Pasal 29]] | [[#^penjelasan-pasal-29|Penjelasan]] | - |
+| [[#^pasal-30|Pasal 30]] | [[#^penjelasan-pasal-30|Penjelasan]] | - |
+| [[#^pasal-31|Pasal 31]] | [[#^penjelasan-pasal-31|Penjelasan]] | - |
+| [[#^pasal-32|Pasal 32]] | [[#^penjelasan-pasal-32|Penjelasan]] | ✓ |
+| [[#^pasal-33|Pasal 33]] | [[#^penjelasan-pasal-33|Penjelasan]] | ✓ |
+| [[#^pasal-34|Pasal 34]] | [[#^penjelasan-pasal-34|Penjelasan]] | ✓ |
+| [[#^pasal-35|Pasal 35]] | [[#^penjelasan-pasal-35|Penjelasan]] | ✓ |
+| [[#^pasal-36|Pasal 36]] | [[#^penjelasan-pasal-36|Penjelasan]] | ✓ |
+| [[#^pasal-37|Pasal 37]] | [[#^penjelasan-pasal-37|Penjelasan]] | ✓ |
+| [[#^pasal-38|Pasal 38]] | [[#^penjelasan-pasal-38|Penjelasan]] | ✓ |
+| [[#^pasal-39|Pasal 39]] | [[#^penjelasan-pasal-39|Penjelasan]] | ✓ |
+| [[#^pasal-40|Pasal 40]] | [[#^penjelasan-pasal-40|Penjelasan]] | ✓ |
+| [[#^pasal-41|Pasal 41]] | [[#^penjelasan-pasal-41|Penjelasan]] | ✓ |
+| [[#^pasal-42|Pasal 42]] | [[#^penjelasan-pasal-42|Penjelasan]] | ✓ |
+| [[#^pasal-43|Pasal 43]] | [[#^penjelasan-pasal-43|Penjelasan]] | ✓ |
+| [[#^pasal-44|Pasal 44]] | [[#^penjelasan-pasal-44|Penjelasan]] | - |
+| [[#^pasal-45|Pasal 45]] | [[#^penjelasan-pasal-45|Penjelasan]] | - |
+| [[#^pasal-46|Pasal 46]] | [[#^penjelasan-pasal-46|Penjelasan]] | ✓ |
+| [[#^pasal-47|Pasal 47]] | [[#^penjelasan-pasal-47|Penjelasan]] | ✓ |
+| [[#^pasal-48|Pasal 48]] | [[#^penjelasan-pasal-48|Penjelasan]] | ✓ |
+| [[#^pasal-49|Pasal 49]] | [[#^penjelasan-pasal-49|Penjelasan]] | - |
+| [[#^pasal-50|Pasal 50]] | [[#^penjelasan-pasal-50|Penjelasan]] | ✓ |
+| [[#^pasal-51|Pasal 51]] | [[#^penjelasan-pasal-51|Penjelasan]] | - |
+| [[#^pasal-52|Pasal 52]] | [[#^penjelasan-pasal-52|Penjelasan]] | - |
+| [[#^pasal-53|Pasal 53]] | [[#^penjelasan-pasal-53|Penjelasan]] | ✓ |
+| [[#^pasal-54|Pasal 54]] | [[#^penjelasan-pasal-54|Penjelasan]] | ✓ |
+| [[#^pasal-55|Pasal 55]] | [[#^penjelasan-pasal-55|Penjelasan]] | ✓ |
+| [[#^pasal-56|Pasal 56]] | [[#^penjelasan-pasal-56|Penjelasan]] | - |
+| [[#^pasal-57|Pasal 57]] | [[#^penjelasan-pasal-57|Penjelasan]] | ✓ |
+| [[#^pasal-58|Pasal 58]] | [[#^penjelasan-pasal-58|Penjelasan]] | - |
+| [[#^pasal-59|Pasal 59]] | [[#^penjelasan-pasal-59|Penjelasan]] | ✓ |
+| [[#^pasal-60|Pasal 60]] | [[#^penjelasan-pasal-60|Penjelasan]] | - |
+| [[#^pasal-61|Pasal 61]] | [[#^penjelasan-pasal-61|Penjelasan]] | - |
+| [[#^pasal-62|Pasal 62]] | [[#^penjelasan-pasal-62|Penjelasan]] | - |
+| [[#^pasal-63|Pasal 63]] | [[#^penjelasan-pasal-63|Penjelasan]] | - |
+| [[#^pasal-64|Pasal 64]] | [[#^penjelasan-pasal-64|Penjelasan]] | - |
+| [[#^pasal-65|Pasal 65]] | [[#^penjelasan-pasal-65|Penjelasan]] | ✓ |
+| [[#^pasal-66|Pasal 66]] | [[#^penjelasan-pasal-66|Penjelasan]] | ✓ |
+| [[#^pasal-67|Pasal 67]] | [[#^penjelasan-pasal-67|Penjelasan]] | ✓ |
+| [[#^pasal-68|Pasal 68]] | [[#^penjelasan-pasal-68|Penjelasan]] | - |
+| [[#^pasal-69|Pasal 69]] | [[#^penjelasan-pasal-69|Penjelasan]] | ✓ |
+| [[#^pasal-70|Pasal 70]] | [[#^penjelasan-pasal-70|Penjelasan]] | - |
+| [[#^pasal-71|Pasal 71]] | [[#^penjelasan-pasal-71|Penjelasan]] | ✓ |
+| [[#^pasal-72|Pasal 72]] | [[#^penjelasan-pasal-72|Penjelasan]] | ✓ |
+| [[#^pasal-73|Pasal 73]] | [[#^penjelasan-pasal-73|Penjelasan]] | ✓ |
+| [[#^pasal-74|Pasal 74]] | [[#^penjelasan-pasal-74|Penjelasan]] | ✓ |
+| [[#^pasal-75|Pasal 75]] | [[#^penjelasan-pasal-75|Penjelasan]] | ✓ |
+| [[#^pasal-76|Pasal 76]] | [[#^penjelasan-pasal-76|Penjelasan]] | ✓ |
+| [[#^pasal-77|Pasal 77]] | [[#^penjelasan-pasal-77|Penjelasan]] | ✓ |
+| [[#^pasal-78|Pasal 78]] | [[#^penjelasan-pasal-78|Penjelasan]] | ✓ |
+| [[#^pasal-79|Pasal 79]] | [[#^penjelasan-pasal-79|Penjelasan]] | ✓ |
+| [[#^pasal-80|Pasal 80]] | [[#^penjelasan-pasal-80|Penjelasan]] | - |
+| [[#^pasal-81|Pasal 81]] | [[#^penjelasan-pasal-81|Penjelasan]] | ✓ |
+| [[#^pasal-82|Pasal 82]] | [[#^penjelasan-pasal-82|Penjelasan]] | ✓ |
+| [[#^pasal-83|Pasal 83]] | [[#^penjelasan-pasal-83|Penjelasan]] | - |
+| [[#^pasal-84|Pasal 84]] | [[#^penjelasan-pasal-84|Penjelasan]] | ✓ |
+| [[#^pasal-85|Pasal 85]] | [[#^penjelasan-pasal-85|Penjelasan]] | ✓ |
+| [[#^pasal-86|Pasal 86]] | [[#^penjelasan-pasal-86|Penjelasan]] | ✓ |
+| [[#^pasal-87|Pasal 87]] | [[#^penjelasan-pasal-87|Penjelasan]] | - |
+| [[#^pasal-88|Pasal 88]] | [[#^penjelasan-pasal-88|Penjelasan]] | - |
+| [[#^pasal-89|Pasal 89]] | [[#^penjelasan-pasal-89|Penjelasan]] | - |
+| [[#^pasal-90|Pasal 90]] | [[#^penjelasan-pasal-90|Penjelasan]] | - |
+| [[#^pasal-91|Pasal 91]] | [[#^penjelasan-pasal-91|Penjelasan]] | ✓ |
+| [[#^pasal-92|Pasal 92]] | [[#^penjelasan-pasal-92|Penjelasan]] | ✓ |
+| [[#^pasal-93|Pasal 93]] | [[#^penjelasan-pasal-93|Penjelasan]] | ✓ |
+| [[#^pasal-94|Pasal 94]] | [[#^penjelasan-pasal-94|Penjelasan]] | ✓ |
+| [[#^pasal-95|Pasal 95]] | [[#^penjelasan-pasal-95|Penjelasan]] | - |
+| [[#^pasal-96|Pasal 96]] | [[#^penjelasan-pasal-96|Penjelasan]] | - |
+| [[#^pasal-97|Pasal 97]] | [[#^penjelasan-pasal-97|Penjelasan]] | - |
+| [[#^pasal-98|Pasal 98]] | [[#^penjelasan-pasal-98|Penjelasan]] | ✓ |
+| [[#^pasal-99|Pasal 99]] | [[#^penjelasan-pasal-99|Penjelasan]] | ✓ |
+| [[#^pasal-100|Pasal 100]] | [[#^penjelasan-pasal-100|Penjelasan]] | - |
+| [[#^pasal-101|Pasal 101]] | [[#^penjelasan-pasal-101|Penjelasan]] | - |
+| [[#^pasal-102|Pasal 102]] | [[#^penjelasan-pasal-102|Penjelasan]] | - |
+| [[#^pasal-103|Pasal 103]] | [[#^penjelasan-pasal-103|Penjelasan]] | ✓ |
+| [[#^pasal-104|Pasal 104]] | [[#^penjelasan-pasal-104|Penjelasan]] | - |
+| [[#^pasal-105|Pasal 105]] | [[#^penjelasan-pasal-105|Penjelasan]] | - |
+| [[#^pasal-106|Pasal 106]] | [[#^penjelasan-pasal-106|Penjelasan]] | ✓ |
+| [[#^pasal-107|Pasal 107]] | [[#^penjelasan-pasal-107|Penjelasan]] | - |
+| [[#^pasal-108|Pasal 108]] | [[#^penjelasan-pasal-108|Penjelasan]] | - |
+| [[#^pasal-109|Pasal 109]] | [[#^penjelasan-pasal-109|Penjelasan]] | - |
+| [[#^pasal-110|Pasal 110]] | [[#^penjelasan-pasal-110|Penjelasan]] | ✓ |
+| [[#^pasal-111|Pasal 111]] | [[#^penjelasan-pasal-111|Penjelasan]] | - |
+| [[#^pasal-112|Pasal 112]] | [[#^penjelasan-pasal-112|Penjelasan]] | - |
+| [[#^pasal-113|Pasal 113]] | [[#^penjelasan-pasal-113|Penjelasan]] | ✓ |
+| [[#^pasal-114|Pasal 114]] | [[#^penjelasan-pasal-114|Penjelasan]] | - |
+| [[#^pasal-115|Pasal 115]] | [[#^penjelasan-pasal-115|Penjelasan]] | - |
+| [[#^pasal-116|Pasal 116]] | [[#^penjelasan-pasal-116|Penjelasan]] | ✓ |
+| [[#^pasal-117|Pasal 117]] | [[#^penjelasan-pasal-117|Penjelasan]] | - |
+| [[#^pasal-118|Pasal 118]] | [[#^penjelasan-pasal-118|Penjelasan]] | - |
+| [[#^pasal-119|Pasal 119]] | [[#^penjelasan-pasal-119|Penjelasan]] | - |
+| [[#^pasal-120|Pasal 120]] | [[#^penjelasan-pasal-120|Penjelasan]] | - |
+| [[#^pasal-121|Pasal 121]] | [[#^penjelasan-pasal-121|Penjelasan]] | - |
+| [[#^pasal-122|Pasal 122]] | [[#^penjelasan-pasal-122|Penjelasan]] | - |
+| [[#^pasal-123|Pasal 123]] | [[#^penjelasan-pasal-123|Penjelasan]] | - |
+| [[#^pasal-124|Pasal 124]] | [[#^penjelasan-pasal-124|Penjelasan]] | - |
+| [[#^pasal-125|Pasal 125]] | [[#^penjelasan-pasal-125|Penjelasan]] | ✓ |
+| [[#^pasal-126|Pasal 126]] | [[#^penjelasan-pasal-126|Penjelasan]] | ✓ |
+| [[#^pasal-127|Pasal 127]] | [[#^penjelasan-pasal-127|Penjelasan]] | ✓ |
+| [[#^pasal-128|Pasal 128]] | [[#^penjelasan-pasal-128|Penjelasan]] | ✓ |
+| [[#^pasal-129|Pasal 129]] | [[#^penjelasan-pasal-129|Penjelasan]] | - |
+| [[#^pasal-130|Pasal 130]] | [[#^penjelasan-pasal-130|Penjelasan]] | - |
+| [[#^pasal-131|Pasal 131]] | [[#^penjelasan-pasal-131|Penjelasan]] | - |
+| [[#^pasal-132|Pasal 132]] | [[#^penjelasan-pasal-132|Penjelasan]] | ✓ |
+| [[#^pasal-133|Pasal 133]] | [[#^penjelasan-pasal-133|Penjelasan]] | ✓ |
+| [[#^pasal-134|Pasal 134]] | [[#^penjelasan-pasal-134|Penjelasan]] | ✓ |
+| [[#^pasal-135|Pasal 135]] | [[#^penjelasan-pasal-135|Penjelasan]] | - |
+| [[#^pasal-136|Pasal 136]] | [[#^penjelasan-pasal-136|Penjelasan]] | ✓ |
+| [[#^pasal-137|Pasal 137]] | [[#^penjelasan-pasal-137|Penjelasan]] | ✓ |
+| [[#^pasal-138|Pasal 138]] | [[#^penjelasan-pasal-138|Penjelasan]] | - |
+| [[#^pasal-139|Pasal 139]] | [[#^penjelasan-pasal-139|Penjelasan]] | ✓ |
+| [[#^pasal-140|Pasal 140]] | [[#^penjelasan-pasal-140|Penjelasan]] | ✓ |
+| [[#^pasal-141|Pasal 141]] | [[#^penjelasan-pasal-141|Penjelasan]] | - |
+| [[#^pasal-142|Pasal 142]] | [[#^penjelasan-pasal-142|Penjelasan]] | - |
+| [[#^pasal-143|Pasal 143]] | [[#^penjelasan-pasal-143|Penjelasan]] | - |
+| [[#^pasal-144|Pasal 144]] | [[#^penjelasan-pasal-144|Penjelasan]] | - |
+| [[#^pasal-145|Pasal 145]] | [[#^penjelasan-pasal-145|Penjelasan]] | - |
+| [[#^pasal-146|Pasal 146]] | [[#^penjelasan-pasal-146|Penjelasan]] | - |
+| [[#^pasal-147|Pasal 147]] | [[#^penjelasan-pasal-147|Penjelasan]] | ✓ |
+| [[#^pasal-148|Pasal 148]] | [[#^penjelasan-pasal-148|Penjelasan]] | - |
+| [[#^pasal-149|Pasal 149]] | [[#^penjelasan-pasal-149|Penjelasan]] | - |
+| [[#^pasal-150|Pasal 150]] | [[#^penjelasan-pasal-150|Penjelasan]] | - |
+| [[#^pasal-151|Pasal 151]] | [[#^penjelasan-pasal-151|Penjelasan]] | - |
+| [[#^pasal-152|Pasal 152]] | [[#^penjelasan-pasal-152|Penjelasan]] | - |
+| [[#^pasal-153|Pasal 153]] | [[#^penjelasan-pasal-153|Penjelasan]] | - |
+| [[#^pasal-154|Pasal 154]] | [[#^penjelasan-pasal-154|Penjelasan]] | - |
+| [[#^pasal-155|Pasal 155]] | [[#^penjelasan-pasal-155|Penjelasan]] | - |
+| [[#^pasal-156|Pasal 156]] | [[#^penjelasan-pasal-156|Penjelasan]] | - |
+| [[#^pasal-157|Pasal 157]] | [[#^penjelasan-pasal-157|Penjelasan]] | - |
+| [[#^pasal-158|Pasal 158]] | [[#^penjelasan-pasal-158|Penjelasan]] | - |
+| [[#^pasal-159|Pasal 159]] | [[#^penjelasan-pasal-159|Penjelasan]] | - |
+| [[#^pasal-160|Pasal 160]] | [[#^penjelasan-pasal-160|Penjelasan]] | - |
+| [[#^pasal-161|Pasal 161]] | [[#^penjelasan-pasal-161|Penjelasan]] | ✓ |
+| [[#^pasal-162|Pasal 162]] | [[#^penjelasan-pasal-162|Penjelasan]] | - |
+| [[#^pasal-163|Pasal 163]] | [[#^penjelasan-pasal-163|Penjelasan]] | - |
+| [[#^pasal-164|Pasal 164]] | [[#^penjelasan-pasal-164|Penjelasan]] | - |
+| [[#^pasal-165|Pasal 165]] | [[#^penjelasan-pasal-165|Penjelasan]] | - |
+| [[#^pasal-166|Pasal 166]] | [[#^penjelasan-pasal-166|Penjelasan]] | - |
+| [[#^pasal-167|Pasal 167]] | [[#^penjelasan-pasal-167|Penjelasan]] | - |
+| [[#^pasal-168|Pasal 168]] | [[#^penjelasan-pasal-168|Penjelasan]] | - |
+| [[#^pasal-169|Pasal 169]] | [[#^penjelasan-pasal-169|Penjelasan]] | - |
+| [[#^pasal-170|Pasal 170]] | [[#^penjelasan-pasal-170|Penjelasan]] | - |
+| [[#^pasal-171|Pasal 171]] | [[#^penjelasan-pasal-171|Penjelasan]] | - |
+| [[#^pasal-172|Pasal 172]] | [[#^penjelasan-pasal-172|Penjelasan]] | - |
+| [[#^pasal-173|Pasal 173]] | [[#^penjelasan-pasal-173|Penjelasan]] | - |
+| [[#^pasal-174|Pasal 174]] | [[#^penjelasan-pasal-174|Penjelasan]] | - |
+| [[#^pasal-175|Pasal 175]] | [[#^penjelasan-pasal-175|Penjelasan]] | ✓ |
+| [[#^pasal-176|Pasal 176]] | [[#^penjelasan-pasal-176|Penjelasan]] | - |
+| [[#^pasal-177|Pasal 177]] | [[#^penjelasan-pasal-177|Penjelasan]] | - |
+| [[#^pasal-178|Pasal 178]] | [[#^penjelasan-pasal-178|Penjelasan]] | - |
+| [[#^pasal-179|Pasal 179]] | [[#^penjelasan-pasal-179|Penjelasan]] | - |
+| [[#^pasal-180|Pasal 180]] | [[#^penjelasan-pasal-180|Penjelasan]] | - |
+| [[#^pasal-181|Pasal 181]] | [[#^penjelasan-pasal-181|Penjelasan]] | - |
+| [[#^pasal-182|Pasal 182]] | [[#^penjelasan-pasal-182|Penjelasan]] | - |
+| [[#^pasal-183|Pasal 183]] | [[#^penjelasan-pasal-183|Penjelasan]] | - |
+| [[#^pasal-184|Pasal 184]] | [[#^penjelasan-pasal-184|Penjelasan]] | - |
+| [[#^pasal-185|Pasal 185]] | [[#^penjelasan-pasal-185|Penjelasan]] | - |
+| [[#^pasal-186|Pasal 186]] | [[#^penjelasan-pasal-186|Penjelasan]] | - |
+| [[#^pasal-187|Pasal 187]] | [[#^penjelasan-pasal-187|Penjelasan]] | ✓ |
+| [[#^pasal-188|Pasal 188]] | [[#^penjelasan-pasal-188|Penjelasan]] | ✓ |
+| [[#^pasal-189|Pasal 189]] | [[#^penjelasan-pasal-189|Penjelasan]] | ✓ |
+| [[#^pasal-190|Pasal 190]] | [[#^penjelasan-pasal-190|Penjelasan]] | ✓ |
+| [[#^pasal-191|Pasal 191]] | [[#^penjelasan-pasal-191|Penjelasan]] | ✓ |
+| [[#^pasal-192|Pasal 192]] | [[#^penjelasan-pasal-192|Penjelasan]] | ✓ |
+| [[#^pasal-193|Pasal 193]] | [[#^penjelasan-pasal-193|Penjelasan]] | ✓ |
+| [[#^pasal-194|Pasal 194]] | [[#^penjelasan-pasal-194|Penjelasan]] | ✓ |
+| [[#^pasal-195|Pasal 195]] | [[#^penjelasan-pasal-195|Penjelasan]] | ✓ |
+| [[#^pasal-196|Pasal 196]] | [[#^penjelasan-pasal-196|Penjelasan]] | ✓ |
+| [[#^pasal-197|Pasal 197]] | [[#^penjelasan-pasal-197|Penjelasan]] | ✓ |
+| [[#^pasal-198|Pasal 198]] | [[#^penjelasan-pasal-198|Penjelasan]] | ✓ |
+| [[#^pasal-199|Pasal 199]] | [[#^penjelasan-pasal-199|Penjelasan]] | ✓ |
+| [[#^pasal-200|Pasal 200]] | [[#^penjelasan-pasal-200|Penjelasan]] | ✓ |
+| [[#^pasal-201|Pasal 201]] | [[#^penjelasan-pasal-201|Penjelasan]] | ✓ |
+| [[#^pasal-202|Pasal 202]] | [[#^penjelasan-pasal-202|Penjelasan]] | ✓ |
+| [[#^pasal-203|Pasal 203]] | [[#^penjelasan-pasal-203|Penjelasan]] | ✓ |
+| [[#^pasal-204|Pasal 204]] | [[#^penjelasan-pasal-204|Penjelasan]] | - |
+| [[#^pasal-205|Pasal 205]] | [[#^penjelasan-pasal-205|Penjelasan]] | - |
+| [[#^pasal-206|Pasal 206]] | [[#^penjelasan-pasal-206|Penjelasan]] | ✓ |
+| [[#^pasal-207|Pasal 207]] | [[#^penjelasan-pasal-207|Penjelasan]] | - |
+| [[#^pasal-208|Pasal 208]] | [[#^penjelasan-pasal-208|Penjelasan]] | - |
+| [[#^pasal-209|Pasal 209]] | [[#^penjelasan-pasal-209|Penjelasan]] | ✓ |
+| [[#^pasal-210|Pasal 210]] | [[#^penjelasan-pasal-210|Penjelasan]] | ✓ |
+| [[#^pasal-211|Pasal 211]] | [[#^penjelasan-pasal-211|Penjelasan]] | - |
+| [[#^pasal-212|Pasal 212]] | [[#^penjelasan-pasal-212|Penjelasan]] | - |
+| [[#^pasal-213|Pasal 213]] | [[#^penjelasan-pasal-213|Penjelasan]] | - |
+| [[#^pasal-214|Pasal 214]] | [[#^penjelasan-pasal-214|Penjelasan]] | ✓ |
+| [[#^pasal-215|Pasal 215]] | [[#^penjelasan-pasal-215|Penjelasan]] | - |
+| [[#^pasal-216|Pasal 216]] | [[#^penjelasan-pasal-216|Penjelasan]] | - |
+| [[#^pasal-217|Pasal 217]] | [[#^penjelasan-pasal-217|Penjelasan]] | ✓ |
+| [[#^pasal-218|Pasal 218]] | [[#^penjelasan-pasal-218|Penjelasan]] | ✓ |
+| [[#^pasal-219|Pasal 219]] | [[#^penjelasan-pasal-219|Penjelasan]] | - |
+| [[#^pasal-220|Pasal 220]] | [[#^penjelasan-pasal-220|Penjelasan]] | - |
+| [[#^pasal-221|Pasal 221]] | [[#^penjelasan-pasal-221|Penjelasan]] | ✓ |
+| [[#^pasal-222|Pasal 222]] | [[#^penjelasan-pasal-222|Penjelasan]] | - |
+| [[#^pasal-223|Pasal 223]] | [[#^penjelasan-pasal-223|Penjelasan]] | - |
+| [[#^pasal-224|Pasal 224]] | [[#^penjelasan-pasal-224|Penjelasan]] | ✓ |
+| [[#^pasal-225|Pasal 225]] | [[#^penjelasan-pasal-225|Penjelasan]] | ✓ |
+| [[#^pasal-226|Pasal 226]] | [[#^penjelasan-pasal-226|Penjelasan]] | ✓ |
+| [[#^pasal-227|Pasal 227]] | [[#^penjelasan-pasal-227|Penjelasan]] | ✓ |
+| [[#^pasal-228|Pasal 228]] | [[#^penjelasan-pasal-228|Penjelasan]] | - |
+| [[#^pasal-229|Pasal 229]] | [[#^penjelasan-pasal-229|Penjelasan]] | - |
+| [[#^pasal-230|Pasal 230]] | [[#^penjelasan-pasal-230|Penjelasan]] | - |
+| [[#^pasal-231|Pasal 231]] | [[#^penjelasan-pasal-231|Penjelasan]] | ✓ |
+| [[#^pasal-232|Pasal 232]] | [[#^penjelasan-pasal-232|Penjelasan]] | ✓ |
+| [[#^pasal-233|Pasal 233]] | [[#^penjelasan-pasal-233|Penjelasan]] | ✓ |
+| [[#^pasal-234|Pasal 234]] | [[#^penjelasan-pasal-234|Penjelasan]] | - |
+| [[#^pasal-235|Pasal 235]] | [[#^penjelasan-pasal-235|Penjelasan]] | - |
+| [[#^pasal-236|Pasal 236]] | [[#^penjelasan-pasal-236|Penjelasan]] | ✓ |
+| [[#^pasal-237|Pasal 237]] | [[#^penjelasan-pasal-237|Penjelasan]] | - |
+| [[#^pasal-238|Pasal 238]] | [[#^penjelasan-pasal-238|Penjelasan]] | - |
+| [[#^pasal-239|Pasal 239]] | [[#^penjelasan-pasal-239|Penjelasan]] | - |
+| [[#^pasal-240|Pasal 240]] | [[#^penjelasan-pasal-240|Penjelasan]] | ✓ |
+| [[#^pasal-241|Pasal 241]] | [[#^penjelasan-pasal-241|Penjelasan]] | - |
+| [[#^pasal-242|Pasal 242]] | [[#^penjelasan-pasal-242|Penjelasan]] | - |
+| [[#^pasal-243|Pasal 243]] | [[#^penjelasan-pasal-243|Penjelasan]] | - |
+| [[#^pasal-244|Pasal 244]] | [[#^penjelasan-pasal-244|Penjelasan]] | ✓ |
+| [[#^pasal-245|Pasal 245]] | [[#^penjelasan-pasal-245|Penjelasan]] | - |
+| [[#^pasal-246|Pasal 246]] | [[#^penjelasan-pasal-246|Penjelasan]] | ✓ |
+| [[#^pasal-247|Pasal 247]] | [[#^penjelasan-pasal-247|Penjelasan]] | ✓ |
+| [[#^pasal-248|Pasal 248]] | [[#^penjelasan-pasal-248|Penjelasan]] | ✓ |
+| [[#^pasal-249|Pasal 249]] | [[#^penjelasan-pasal-249|Penjelasan]] | ✓ |
+| [[#^pasal-250|Pasal 250]] | [[#^penjelasan-pasal-250|Penjelasan]] | - |
+| [[#^pasal-251|Pasal 251]] | [[#^penjelasan-pasal-251|Penjelasan]] | ✓ |
+| [[#^pasal-252|Pasal 252]] | [[#^penjelasan-pasal-252|Penjelasan]] | ✓ |
+| [[#^pasal-253|Pasal 253]] | [[#^penjelasan-pasal-253|Penjelasan]] | ✓ |
+| [[#^pasal-254|Pasal 254]] | [[#^penjelasan-pasal-254|Penjelasan]] | - |
+| [[#^pasal-255|Pasal 255]] | [[#^penjelasan-pasal-255|Penjelasan]] | - |
+| [[#^pasal-256|Pasal 256]] | [[#^penjelasan-pasal-256|Penjelasan]] | ✓ |
+| [[#^pasal-257|Pasal 257]] | [[#^penjelasan-pasal-257|Penjelasan]] | ✓ |
+| [[#^pasal-258|Pasal 258]] | [[#^penjelasan-pasal-258|Penjelasan]] | ✓ |
+| [[#^pasal-259|Pasal 259]] | [[#^penjelasan-pasal-259|Penjelasan]] | - |
+| [[#^pasal-260|Pasal 260]] | [[#^penjelasan-pasal-260|Penjelasan]] | ✓ |
+| [[#^pasal-261|Pasal 261]] | [[#^penjelasan-pasal-261|Penjelasan]] | ✓ |
+| [[#^pasal-262|Pasal 262]] | [[#^penjelasan-pasal-262|Penjelasan]] | - |
+| [[#^pasal-263|Pasal 263]] | [[#^penjelasan-pasal-263|Penjelasan]] | - |
+| [[#^pasal-264|Pasal 264]] | [[#^penjelasan-pasal-264|Penjelasan]] | - |
+| [[#^pasal-265|Pasal 265]] | [[#^penjelasan-pasal-265|Penjelasan]] | ✓ |
+| [[#^pasal-266|Pasal 266]] | [[#^penjelasan-pasal-266|Penjelasan]] | - |
+| [[#^pasal-267|Pasal 267]] | [[#^penjelasan-pasal-267|Penjelasan]] | - |
+| [[#^pasal-268|Pasal 268]] | [[#^penjelasan-pasal-268|Penjelasan]] | ✓ |
+| [[#^pasal-269|Pasal 269]] | [[#^penjelasan-pasal-269|Penjelasan]] | ✓ |
+| [[#^pasal-270|Pasal 270]] | [[#^penjelasan-pasal-270|Penjelasan]] | ✓ |
+| [[#^pasal-271|Pasal 271]] | [[#^penjelasan-pasal-271|Penjelasan]] | - |
+| [[#^pasal-272|Pasal 272]] | [[#^penjelasan-pasal-272|Penjelasan]] | ✓ |
+| [[#^pasal-273|Pasal 273]] | [[#^penjelasan-pasal-273|Penjelasan]] | - |
+| [[#^pasal-274|Pasal 274]] | [[#^penjelasan-pasal-274|Penjelasan]] | - |
+| [[#^pasal-275|Pasal 275]] | [[#^penjelasan-pasal-275|Penjelasan]] | - |
+| [[#^pasal-276|Pasal 276]] | [[#^penjelasan-pasal-276|Penjelasan]] | ✓ |
+| [[#^pasal-277|Pasal 277]] | [[#^penjelasan-pasal-277|Penjelasan]] | ✓ |
+| [[#^pasal-278|Pasal 278]] | [[#^penjelasan-pasal-278|Penjelasan]] | ✓ |
+| [[#^pasal-279|Pasal 279]] | [[#^penjelasan-pasal-279|Penjelasan]] | - |
+| [[#^pasal-280|Pasal 280]] | [[#^penjelasan-pasal-280|Penjelasan]] | ✓ |
+| [[#^pasal-281|Pasal 281]] | [[#^penjelasan-pasal-281|Penjelasan]] | - |
+| [[#^pasal-282|Pasal 282]] | [[#^penjelasan-pasal-282|Penjelasan]] | - |
+| [[#^pasal-283|Pasal 283]] | [[#^penjelasan-pasal-283|Penjelasan]] | ✓ |
+| [[#^pasal-284|Pasal 284]] | [[#^penjelasan-pasal-284|Penjelasan]] | ✓ |
+| [[#^pasal-285|Pasal 285]] | [[#^penjelasan-pasal-285|Penjelasan]] | ✓ |
+| [[#^pasal-286|Pasal 286]] | [[#^penjelasan-pasal-286|Penjelasan]] | - |
+| [[#^pasal-287|Pasal 287]] | [[#^penjelasan-pasal-287|Penjelasan]] | ✓ |
+| [[#^pasal-288|Pasal 288]] | [[#^penjelasan-pasal-288|Penjelasan]] | - |
+| [[#^pasal-289|Pasal 289]] | [[#^penjelasan-pasal-289|Penjelasan]] | ✓ |
+| [[#^pasal-290|Pasal 290]] | [[#^penjelasan-pasal-290|Penjelasan]] | - |
+| [[#^pasal-291|Pasal 291]] | [[#^penjelasan-pasal-291|Penjelasan]] | ✓ |
+| [[#^pasal-292|Pasal 292]] | [[#^penjelasan-pasal-292|Penjelasan]] | ✓ |
+| [[#^pasal-293|Pasal 293]] | [[#^penjelasan-pasal-293|Penjelasan]] | - |
+| [[#^pasal-294|Pasal 294]] | [[#^penjelasan-pasal-294|Penjelasan]] | ✓ |
+| [[#^pasal-295|Pasal 295]] | [[#^penjelasan-pasal-295|Penjelasan]] | - |
+| [[#^pasal-296|Pasal 296]] | [[#^penjelasan-pasal-296|Penjelasan]] | - |
+| [[#^pasal-297|Pasal 297]] | [[#^penjelasan-pasal-297|Penjelasan]] | ✓ |
+| [[#^pasal-298|Pasal 298]] | [[#^penjelasan-pasal-298|Penjelasan]] | - |
+| [[#^pasal-299|Pasal 299]] | [[#^penjelasan-pasal-299|Penjelasan]] | - |
+| [[#^pasal-300|Pasal 300]] | [[#^penjelasan-pasal-300|Penjelasan]] | ✓ |
+| [[#^pasal-301|Pasal 301]] | [[#^penjelasan-pasal-301|Penjelasan]] | - |
+| [[#^pasal-302|Pasal 302]] | [[#^penjelasan-pasal-302|Penjelasan]] | ✓ |
+| [[#^pasal-303|Pasal 303]] | [[#^penjelasan-pasal-303|Penjelasan]] | ✓ |
+| [[#^pasal-304|Pasal 304]] | [[#^penjelasan-pasal-304|Penjelasan]] | ✓ |
+| [[#^pasal-305|Pasal 305]] | [[#^penjelasan-pasal-305|Penjelasan]] | ✓ |
+| [[#^pasal-306|Pasal 306]] | [[#^penjelasan-pasal-306|Penjelasan]] | - |
+| [[#^pasal-307|Pasal 307]] | [[#^penjelasan-pasal-307|Penjelasan]] | - |
+| [[#^pasal-308|Pasal 308]] | [[#^penjelasan-pasal-308|Penjelasan]] | ✓ |
+| [[#^pasal-309|Pasal 309]] | [[#^penjelasan-pasal-309|Penjelasan]] | - |
+| [[#^pasal-310|Pasal 310]] | [[#^penjelasan-pasal-310|Penjelasan]] | ✓ |
+| [[#^pasal-311|Pasal 311]] | [[#^penjelasan-pasal-311|Penjelasan]] | - |
+| [[#^pasal-312|Pasal 312]] | [[#^penjelasan-pasal-312|Penjelasan]] | - |
+| [[#^pasal-313|Pasal 313]] | [[#^penjelasan-pasal-313|Penjelasan]] | - |
+| [[#^pasal-314|Pasal 314]] | [[#^penjelasan-pasal-314|Penjelasan]] | ✓ |
+| [[#^pasal-315|Pasal 315]] | [[#^penjelasan-pasal-315|Penjelasan]] | - |
+| [[#^pasal-316|Pasal 316]] | [[#^penjelasan-pasal-316|Penjelasan]] | ✓ |
+| [[#^pasal-317|Pasal 317]] | [[#^penjelasan-pasal-317|Penjelasan]] | - |
+| [[#^pasal-318|Pasal 318]] | [[#^penjelasan-pasal-318|Penjelasan]] | ✓ |
+| [[#^pasal-319|Pasal 319]] | [[#^penjelasan-pasal-319|Penjelasan]] | - |
+| [[#^pasal-320|Pasal 320]] | [[#^penjelasan-pasal-320|Penjelasan]] | - |
+| [[#^pasal-321|Pasal 321]] | [[#^penjelasan-pasal-321|Penjelasan]] | - |
+| [[#^pasal-322|Pasal 322]] | [[#^penjelasan-pasal-322|Penjelasan]] | - |
+| [[#^pasal-323|Pasal 323]] | [[#^penjelasan-pasal-323|Penjelasan]] | ✓ |
+| [[#^pasal-324|Pasal 324]] | [[#^penjelasan-pasal-324|Penjelasan]] | - |
+| [[#^pasal-325|Pasal 325]] | [[#^penjelasan-pasal-325|Penjelasan]] | ✓ |
+| [[#^pasal-326|Pasal 326]] | [[#^penjelasan-pasal-326|Penjelasan]] | - |
+| [[#^pasal-327|Pasal 327]] | [[#^penjelasan-pasal-327|Penjelasan]] | ✓ |
+| [[#^pasal-328|Pasal 328]] | [[#^penjelasan-pasal-328|Penjelasan]] | - |
+| [[#^pasal-329|Pasal 329]] | [[#^penjelasan-pasal-329|Penjelasan]] | - |
+| [[#^pasal-330|Pasal 330]] | [[#^penjelasan-pasal-330|Penjelasan]] | - |
+| [[#^pasal-331|Pasal 331]] | [[#^penjelasan-pasal-331|Penjelasan]] | ✓ |
+| [[#^pasal-332|Pasal 332]] | [[#^penjelasan-pasal-332|Penjelasan]] | ✓ |
+| [[#^pasal-333|Pasal 333]] | [[#^penjelasan-pasal-333|Penjelasan]] | - |
+| [[#^pasal-334|Pasal 334]] | [[#^penjelasan-pasal-334|Penjelasan]] | - |
+| [[#^pasal-335|Pasal 335]] | [[#^penjelasan-pasal-335|Penjelasan]] | - |
+| [[#^pasal-336|Pasal 336]] | [[#^penjelasan-pasal-336|Penjelasan]] | ✓ |
+| [[#^pasal-337|Pasal 337]] | [[#^penjelasan-pasal-337|Penjelasan]] | - |
+| [[#^pasal-338|Pasal 338]] | [[#^penjelasan-pasal-338|Penjelasan]] | ✓ |
+| [[#^pasal-339|Pasal 339]] | [[#^penjelasan-pasal-339|Penjelasan]] | ✓ |
+| [[#^pasal-340|Pasal 340]] | [[#^penjelasan-pasal-340|Penjelasan]] | - |
+| [[#^pasal-341|Pasal 341]] | [[#^penjelasan-pasal-341|Penjelasan]] | ✓ |
+| [[#^pasal-342|Pasal 342]] | [[#^penjelasan-pasal-342|Penjelasan]] | ✓ |
+| [[#^pasal-343|Pasal 343]] | [[#^penjelasan-pasal-343|Penjelasan]] | - |
+| [[#^pasal-344|Pasal 344]] | [[#^penjelasan-pasal-344|Penjelasan]] | ✓ |
+| [[#^pasal-345|Pasal 345]] | [[#^penjelasan-pasal-345|Penjelasan]] | - |
+| [[#^pasal-346|Pasal 346]] | [[#^penjelasan-pasal-346|Penjelasan]] | - |
+| [[#^pasal-347|Pasal 347]] | [[#^penjelasan-pasal-347|Penjelasan]] | ✓ |
+| [[#^pasal-348|Pasal 348]] | [[#^penjelasan-pasal-348|Penjelasan]] | ✓ |
+| [[#^pasal-349|Pasal 349]] | [[#^penjelasan-pasal-349|Penjelasan]] | - |
+| [[#^pasal-350|Pasal 350]] | [[#^penjelasan-pasal-350|Penjelasan]] | - |
+| [[#^pasal-351|Pasal 351]] | [[#^penjelasan-pasal-351|Penjelasan]] | ✓ |
+| [[#^pasal-352|Pasal 352]] | [[#^penjelasan-pasal-352|Penjelasan]] | - |
+| [[#^pasal-353|Pasal 353]] | [[#^penjelasan-pasal-353|Penjelasan]] | ✓ |
+| [[#^pasal-354|Pasal 354]] | [[#^penjelasan-pasal-354|Penjelasan]] | - |
+| [[#^pasal-355|Pasal 355]] | [[#^penjelasan-pasal-355|Penjelasan]] | - |
+| [[#^pasal-356|Pasal 356]] | [[#^penjelasan-pasal-356|Penjelasan]] | ✓ |
+| [[#^pasal-357|Pasal 357]] | [[#^penjelasan-pasal-357|Penjelasan]] | - |
+| [[#^pasal-358|Pasal 358]] | [[#^penjelasan-pasal-358|Penjelasan]] | ✓ |
+| [[#^pasal-359|Pasal 359]] | [[#^penjelasan-pasal-359|Penjelasan]] | ✓ |
+| [[#^pasal-360|Pasal 360]] | [[#^penjelasan-pasal-360|Penjelasan]] | ✓ |
+| [[#^pasal-361|Pasal 361]] | [[#^penjelasan-pasal-361|Penjelasan]] | ✓ |
+| [[#^pasal-362|Pasal 362]] | [[#^penjelasan-pasal-362|Penjelasan]] | ✓ |
+| [[#^pasal-363|Pasal 363]] | [[#^penjelasan-pasal-363|Penjelasan]] | ✓ |
+| [[#^pasal-364|Pasal 364]] | [[#^penjelasan-pasal-364|Penjelasan]] | - |
+| [[#^pasal-365|Pasal 365]] | [[#^penjelasan-pasal-365|Penjelasan]] | - |
+| [[#^pasal-366|Pasal 366]] | [[#^penjelasan-pasal-366|Penjelasan]] | ✓ |
+| [[#^pasal-367|Pasal 367]] | [[#^penjelasan-pasal-367|Penjelasan]] | - |
+| [[#^pasal-368|Pasal 368]] | [[#^penjelasan-pasal-368|Penjelasan]] | - |
+| [[#^pasal-369|Pasal 369]] | [[#^penjelasan-pasal-369|Penjelasan]] | ✓ |
+| [[#^pasal-370|Pasal 370]] | [[#^penjelasan-pasal-370|Penjelasan]] | ✓ |
+| [[#^pasal-371|Pasal 371]] | [[#^penjelasan-pasal-371|Penjelasan]] | - |
+| [[#^pasal-372|Pasal 372]] | [[#^penjelasan-pasal-372|Penjelasan]] | ✓ |
+| [[#^pasal-373|Pasal 373]] | [[#^penjelasan-pasal-373|Penjelasan]] | ✓ |
+| [[#^pasal-374|Pasal 374]] | [[#^penjelasan-pasal-374|Penjelasan]] | ✓ |
+| [[#^pasal-375|Pasal 375]] | [[#^penjelasan-pasal-375|Penjelasan]] | - |
+| [[#^pasal-376|Pasal 376]] | [[#^penjelasan-pasal-376|Penjelasan]] | ✓ |
+| [[#^pasal-377|Pasal 377]] | [[#^penjelasan-pasal-377|Penjelasan]] | ✓ |
+| [[#^pasal-378|Pasal 378]] | [[#^penjelasan-pasal-378|Penjelasan]] | ✓ |
+| [[#^pasal-379|Pasal 379]] | [[#^penjelasan-pasal-379|Penjelasan]] | ✓ |
+| [[#^pasal-380|Pasal 380]] | [[#^penjelasan-pasal-380|Penjelasan]] | ✓ |
+| [[#^pasal-381|Pasal 381]] | [[#^penjelasan-pasal-381|Penjelasan]] | - |
+| [[#^pasal-382|Pasal 382]] | [[#^penjelasan-pasal-382|Penjelasan]] | ✓ |
+| [[#^pasal-383|Pasal 383]] | [[#^penjelasan-pasal-383|Penjelasan]] | - |
+| [[#^pasal-384|Pasal 384]] | [[#^penjelasan-pasal-384|Penjelasan]] | ✓ |
+| [[#^pasal-385|Pasal 385]] | [[#^penjelasan-pasal-385|Penjelasan]] | - |
+| [[#^pasal-386|Pasal 386]] | [[#^penjelasan-pasal-386|Penjelasan]] | ✓ |
+| [[#^pasal-387|Pasal 387]] | [[#^penjelasan-pasal-387|Penjelasan]] | ✓ |
+| [[#^pasal-388|Pasal 388]] | [[#^penjelasan-pasal-388|Penjelasan]] | - |
+| [[#^pasal-389|Pasal 389]] | [[#^penjelasan-pasal-389|Penjelasan]] | - |
+| [[#^pasal-390|Pasal 390]] | [[#^penjelasan-pasal-390|Penjelasan]] | - |
+| [[#^pasal-391|Pasal 391]] | [[#^penjelasan-pasal-391|Penjelasan]] | ✓ |
+| [[#^pasal-392|Pasal 392]] | [[#^penjelasan-pasal-392|Penjelasan]] | ✓ |
+| [[#^pasal-393|Pasal 393]] | [[#^penjelasan-pasal-393|Penjelasan]] | - |
+| [[#^pasal-394|Pasal 394]] | [[#^penjelasan-pasal-394|Penjelasan]] | - |
+| [[#^pasal-395|Pasal 395]] | [[#^penjelasan-pasal-395|Penjelasan]] | ✓ |
+| [[#^pasal-396|Pasal 396]] | [[#^penjelasan-pasal-396|Penjelasan]] | - |
+| [[#^pasal-397|Pasal 397]] | [[#^penjelasan-pasal-397|Penjelasan]] | - |
+| [[#^pasal-398|Pasal 398]] | [[#^penjelasan-pasal-398|Penjelasan]] | ✓ |
+| [[#^pasal-399|Pasal 399]] | [[#^penjelasan-pasal-399|Penjelasan]] | - |
+| [[#^pasal-400|Pasal 400]] | [[#^penjelasan-pasal-400|Penjelasan]] | ✓ |
+| [[#^pasal-401|Pasal 401]] | [[#^penjelasan-pasal-401|Penjelasan]] | ✓ |
+| [[#^pasal-402|Pasal 402]] | [[#^penjelasan-pasal-402|Penjelasan]] | ✓ |
+| [[#^pasal-403|Pasal 403]] | [[#^penjelasan-pasal-403|Penjelasan]] | ✓ |
+| [[#^pasal-404|Pasal 404]] | [[#^penjelasan-pasal-404|Penjelasan]] | ✓ |
+| [[#^pasal-405|Pasal 405]] | [[#^penjelasan-pasal-405|Penjelasan]] | - |
+| [[#^pasal-406|Pasal 406]] | [[#^penjelasan-pasal-406|Penjelasan]] | ✓ |
+| [[#^pasal-407|Pasal 407]] | [[#^penjelasan-pasal-407|Penjelasan]] | ✓ |
+| [[#^pasal-408|Pasal 408]] | [[#^penjelasan-pasal-408|Penjelasan]] | ✓ |
+| [[#^pasal-409|Pasal 409]] | [[#^penjelasan-pasal-409|Penjelasan]] | ✓ |
+| [[#^pasal-410|Pasal 410]] | [[#^penjelasan-pasal-410|Penjelasan]] | - |
+| [[#^pasal-411|Pasal 411]] | [[#^penjelasan-pasal-411|Penjelasan]] | ✓ |
+| [[#^pasal-412|Pasal 412]] | [[#^penjelasan-pasal-412|Penjelasan]] | ✓ |
+| [[#^pasal-413|Pasal 413]] | [[#^penjelasan-pasal-413|Penjelasan]] | ✓ |
+| [[#^pasal-414|Pasal 414]] | [[#^penjelasan-pasal-414|Penjelasan]] | - |
+| [[#^pasal-415|Pasal 415]] | [[#^penjelasan-pasal-415|Penjelasan]] | ✓ |
+| [[#^pasal-416|Pasal 416]] | [[#^penjelasan-pasal-416|Penjelasan]] | - |
+| [[#^pasal-417|Pasal 417]] | [[#^penjelasan-pasal-417|Penjelasan]] | ✓ |
+| [[#^pasal-418|Pasal 418]] | [[#^penjelasan-pasal-418|Penjelasan]] | ✓ |
+| [[#^pasal-419|Pasal 419]] | [[#^penjelasan-pasal-419|Penjelasan]] | - |
+| [[#^pasal-420|Pasal 420]] | [[#^penjelasan-pasal-420|Penjelasan]] | - |
+| [[#^pasal-421|Pasal 421]] | [[#^penjelasan-pasal-421|Penjelasan]] | ✓ |
+| [[#^pasal-422|Pasal 422]] | [[#^penjelasan-pasal-422|Penjelasan]] | ✓ |
+| [[#^pasal-423|Pasal 423]] | [[#^penjelasan-pasal-423|Penjelasan]] | - |
+| [[#^pasal-424|Pasal 424]] | [[#^penjelasan-pasal-424|Penjelasan]] | - |
+| [[#^pasal-425|Pasal 425]] | [[#^penjelasan-pasal-425|Penjelasan]] | ✓ |
+| [[#^pasal-426|Pasal 426]] | [[#^penjelasan-pasal-426|Penjelasan]] | ✓ |
+| [[#^pasal-427|Pasal 427]] | [[#^penjelasan-pasal-427|Penjelasan]] | - |
+| [[#^pasal-428|Pasal 428]] | [[#^penjelasan-pasal-428|Penjelasan]] | ✓ |
+| [[#^pasal-429|Pasal 429]] | [[#^penjelasan-pasal-429|Penjelasan]] | - |
+| [[#^pasal-430|Pasal 430]] | [[#^penjelasan-pasal-430|Penjelasan]] | ✓ |
+| [[#^pasal-431|Pasal 431]] | [[#^penjelasan-pasal-431|Penjelasan]] | ✓ |
+| [[#^pasal-432|Pasal 432]] | [[#^penjelasan-pasal-432|Penjelasan]] | ✓ |
+| [[#^pasal-433|Pasal 433]] | [[#^penjelasan-pasal-433|Penjelasan]] | ✓ |
+| [[#^pasal-434|Pasal 434]] | [[#^penjelasan-pasal-434|Penjelasan]] | ✓ |
+| [[#^pasal-435|Pasal 435]] | [[#^penjelasan-pasal-435|Penjelasan]] | ✓ |
+| [[#^pasal-436|Pasal 436]] | [[#^penjelasan-pasal-436|Penjelasan]] | ✓ |
+| [[#^pasal-437|Pasal 437]] | [[#^penjelasan-pasal-437|Penjelasan]] | ✓ |
+| [[#^pasal-438|Pasal 438]] | [[#^penjelasan-pasal-438|Penjelasan]] | ✓ |
+| [[#^pasal-439|Pasal 439]] | [[#^penjelasan-pasal-439|Penjelasan]] | ✓ |
+| [[#^pasal-440|Pasal 440]] | [[#^penjelasan-pasal-440|Penjelasan]] | - |
+| [[#^pasal-441|Pasal 441]] | [[#^penjelasan-pasal-441|Penjelasan]] | - |
+| [[#^pasal-442|Pasal 442]] | [[#^penjelasan-pasal-442|Penjelasan]] | - |
+| [[#^pasal-443|Pasal 443]] | [[#^penjelasan-pasal-443|Penjelasan]] | ✓ |
+| [[#^pasal-444|Pasal 444]] | [[#^penjelasan-pasal-444|Penjelasan]] | ✓ |
+| [[#^pasal-445|Pasal 445]] | [[#^penjelasan-pasal-445|Penjelasan]] | - |
+| [[#^pasal-446|Pasal 446]] | [[#^penjelasan-pasal-446|Penjelasan]] | ✓ |
+| [[#^pasal-447|Pasal 447]] | [[#^penjelasan-pasal-447|Penjelasan]] | - |
+| [[#^pasal-448|Pasal 448]] | [[#^penjelasan-pasal-448|Penjelasan]] | - |
+| [[#^pasal-449|Pasal 449]] | [[#^penjelasan-pasal-449|Penjelasan]] | ✓ |
+| [[#^pasal-450|Pasal 450]] | [[#^penjelasan-pasal-450|Penjelasan]] | ✓ |
+| [[#^pasal-451|Pasal 451]] | [[#^penjelasan-pasal-451|Penjelasan]] | ✓ |
+| [[#^pasal-452|Pasal 452]] | [[#^penjelasan-pasal-452|Penjelasan]] | ✓ |
+| [[#^pasal-453|Pasal 453]] | [[#^penjelasan-pasal-453|Penjelasan]] | ✓ |
+| [[#^pasal-454|Pasal 454]] | [[#^penjelasan-pasal-454|Penjelasan]] | ✓ |
+| [[#^pasal-455|Pasal 455]] | [[#^penjelasan-pasal-455|Penjelasan]] | - |
+| [[#^pasal-456|Pasal 456]] | [[#^penjelasan-pasal-456|Penjelasan]] | - |
+| [[#^pasal-457|Pasal 457]] | [[#^penjelasan-pasal-457|Penjelasan]] | - |
+| [[#^pasal-458|Pasal 458]] | [[#^penjelasan-pasal-458|Penjelasan]] | ✓ |
+| [[#^pasal-459|Pasal 459]] | [[#^penjelasan-pasal-459|Penjelasan]] | - |
+| [[#^pasal-460|Pasal 460]] | [[#^penjelasan-pasal-460|Penjelasan]] | ✓ |
+| [[#^pasal-461|Pasal 461]] | [[#^penjelasan-pasal-461|Penjelasan]] | ✓ |
+| [[#^pasal-462|Pasal 462]] | [[#^penjelasan-pasal-462|Penjelasan]] | ✓ |
+| [[#^pasal-463|Pasal 463]] | [[#^penjelasan-pasal-463|Penjelasan]] | ✓ |
+| [[#^pasal-464|Pasal 464]] | [[#^penjelasan-pasal-464|Penjelasan]] | - |
+| [[#^pasal-465|Pasal 465]] | [[#^penjelasan-pasal-465|Penjelasan]] | - |
+| [[#^pasal-466|Pasal 466]] | [[#^penjelasan-pasal-466|Penjelasan]] | ✓ |
+| [[#^pasal-467|Pasal 467]] | [[#^penjelasan-pasal-467|Penjelasan]] | - |
+| [[#^pasal-468|Pasal 468]] | [[#^penjelasan-pasal-468|Penjelasan]] | ✓ |
+| [[#^pasal-469|Pasal 469]] | [[#^penjelasan-pasal-469|Penjelasan]] | - |
+| [[#^pasal-470|Pasal 470]] | [[#^penjelasan-pasal-470|Penjelasan]] | - |
+| [[#^pasal-471|Pasal 471]] | [[#^penjelasan-pasal-471|Penjelasan]] | - |
+| [[#^pasal-472|Pasal 472]] | [[#^penjelasan-pasal-472|Penjelasan]] | - |
+| [[#^pasal-473|Pasal 473]] | [[#^penjelasan-pasal-473|Penjelasan]] | ✓ |
+| [[#^pasal-474|Pasal 474]] | [[#^penjelasan-pasal-474|Penjelasan]] | ✓ |
+| [[#^pasal-475|Pasal 475]] | [[#^penjelasan-pasal-475|Penjelasan]] | ✓ |
+| [[#^pasal-476|Pasal 476]] | [[#^penjelasan-pasal-476|Penjelasan]] | ✓ |
+| [[#^pasal-477|Pasal 477]] | [[#^penjelasan-pasal-477|Penjelasan]] | ✓ |
+| [[#^pasal-478|Pasal 478]] | [[#^penjelasan-pasal-478|Penjelasan]] | - |
+| [[#^pasal-479|Pasal 479]] | [[#^penjelasan-pasal-479|Penjelasan]] | ✓ |
+| [[#^pasal-480|Pasal 480]] | [[#^penjelasan-pasal-480|Penjelasan]] | ✓ |
+| [[#^pasal-481|Pasal 481]] | [[#^penjelasan-pasal-481|Penjelasan]] | - |
+| [[#^pasal-482|Pasal 482]] | [[#^penjelasan-pasal-482|Penjelasan]] | ✓ |
+| [[#^pasal-483|Pasal 483]] | [[#^penjelasan-pasal-483|Penjelasan]] | ✓ |
+| [[#^pasal-484|Pasal 484]] | [[#^penjelasan-pasal-484|Penjelasan]] | - |
+| [[#^pasal-485|Pasal 485]] | [[#^penjelasan-pasal-485|Penjelasan]] | - |
+| [[#^pasal-486|Pasal 486]] | [[#^penjelasan-pasal-486|Penjelasan]] | ✓ |
+| [[#^pasal-487|Pasal 487]] | [[#^penjelasan-pasal-487|Penjelasan]] | - |
+| [[#^pasal-488|Pasal 488]] | [[#^penjelasan-pasal-488|Penjelasan]] | - |
+| [[#^pasal-489|Pasal 489]] | [[#^penjelasan-pasal-489|Penjelasan]] | ✓ |
+| [[#^pasal-490|Pasal 490]] | [[#^penjelasan-pasal-490|Penjelasan]] | - |
+| [[#^pasal-491|Pasal 491]] | [[#^penjelasan-pasal-491|Penjelasan]] | ✓ |
+| [[#^pasal-492|Pasal 492]] | [[#^penjelasan-pasal-492|Penjelasan]] | ✓ |
+| [[#^pasal-493|Pasal 493]] | [[#^penjelasan-pasal-493|Penjelasan]] | - |
+| [[#^pasal-494|Pasal 494]] | [[#^penjelasan-pasal-494|Penjelasan]] | - |
+| [[#^pasal-495|Pasal 495]] | [[#^penjelasan-pasal-495|Penjelasan]] | ✓ |
+| [[#^pasal-496|Pasal 496]] | [[#^penjelasan-pasal-496|Penjelasan]] | ✓ |
+| [[#^pasal-497|Pasal 497]] | [[#^penjelasan-pasal-497|Penjelasan]] | ✓ |
+| [[#^pasal-498|Pasal 498]] | [[#^penjelasan-pasal-498|Penjelasan]] | ✓ |
+| [[#^pasal-499|Pasal 499]] | [[#^penjelasan-pasal-499|Penjelasan]] | ✓ |
+| [[#^pasal-500|Pasal 500]] | [[#^penjelasan-pasal-500|Penjelasan]] | - |
+| [[#^pasal-501|Pasal 501]] | [[#^penjelasan-pasal-501|Penjelasan]] | ✓ |
+| [[#^pasal-502|Pasal 502]] | [[#^penjelasan-pasal-502|Penjelasan]] | - |
+| [[#^pasal-503|Pasal 503]] | [[#^penjelasan-pasal-503|Penjelasan]] | ✓ |
+| [[#^pasal-504|Pasal 504]] | [[#^penjelasan-pasal-504|Penjelasan]] | - |
+| [[#^pasal-505|Pasal 505]] | [[#^penjelasan-pasal-505|Penjelasan]] | ✓ |
+| [[#^pasal-506|Pasal 506]] | [[#^penjelasan-pasal-506|Penjelasan]] | ✓ |
+| [[#^pasal-507|Pasal 507]] | [[#^penjelasan-pasal-507|Penjelasan]] | - |
+| [[#^pasal-508|Pasal 508]] | [[#^penjelasan-pasal-508|Penjelasan]] | - |
+| [[#^pasal-509|Pasal 509]] | [[#^penjelasan-pasal-509|Penjelasan]] | - |
+| [[#^pasal-510|Pasal 510]] | [[#^penjelasan-pasal-510|Penjelasan]] | - |
+| [[#^pasal-511|Pasal 511]] | [[#^penjelasan-pasal-511|Penjelasan]] | - |
+| [[#^pasal-512|Pasal 512]] | [[#^penjelasan-pasal-512|Penjelasan]] | ✓ |
+| [[#^pasal-513|Pasal 513]] | [[#^penjelasan-pasal-513|Penjelasan]] | - |
+| [[#^pasal-514|Pasal 514]] | [[#^penjelasan-pasal-514|Penjelasan]] | - |
+| [[#^pasal-515|Pasal 515]] | [[#^penjelasan-pasal-515|Penjelasan]] | - |
+| [[#^pasal-516|Pasal 516]] | [[#^penjelasan-pasal-516|Penjelasan]] | - |
+| [[#^pasal-517|Pasal 517]] | [[#^penjelasan-pasal-517|Penjelasan]] | - |
+| [[#^pasal-518|Pasal 518]] | [[#^penjelasan-pasal-518|Penjelasan]] | ✓ |
+| [[#^pasal-519|Pasal 519]] | [[#^penjelasan-pasal-519|Penjelasan]] | ✓ |
+| [[#^pasal-520|Pasal 520]] | [[#^penjelasan-pasal-520|Penjelasan]] | ✓ |
+| [[#^pasal-521|Pasal 521]] | [[#^penjelasan-pasal-521|Penjelasan]] | ✓ |
+| [[#^pasal-522|Pasal 522]] | [[#^penjelasan-pasal-522|Penjelasan]] | ✓ |
+| [[#^pasal-523|Pasal 523]] | [[#^penjelasan-pasal-523|Penjelasan]] | - |
+| [[#^pasal-524|Pasal 524]] | [[#^penjelasan-pasal-524|Penjelasan]] | - |
+| [[#^pasal-525|Pasal 525]] | [[#^penjelasan-pasal-525|Penjelasan]] | - |
+| [[#^pasal-526|Pasal 526]] | [[#^penjelasan-pasal-526|Penjelasan]] | - |
+| [[#^pasal-527|Pasal 527]] | [[#^penjelasan-pasal-527|Penjelasan]] | ✓ |
+| [[#^pasal-528|Pasal 528]] | [[#^penjelasan-pasal-528|Penjelasan]] | ✓ |
+| [[#^pasal-529|Pasal 529]] | [[#^penjelasan-pasal-529|Penjelasan]] | ✓ |
+| [[#^pasal-530|Pasal 530]] | [[#^penjelasan-pasal-530|Penjelasan]] | ✓ |
+| [[#^pasal-531|Pasal 531]] | [[#^penjelasan-pasal-531|Penjelasan]] | - |
+| [[#^pasal-532|Pasal 532]] | [[#^penjelasan-pasal-532|Penjelasan]] | ✓ |
+| [[#^pasal-533|Pasal 533]] | [[#^penjelasan-pasal-533|Penjelasan]] | - |
+| [[#^pasal-534|Pasal 534]] | [[#^penjelasan-pasal-534|Penjelasan]] | ✓ |
+| [[#^pasal-535|Pasal 535]] | [[#^penjelasan-pasal-535|Penjelasan]] | ✓ |
+| [[#^pasal-536|Pasal 536]] | [[#^penjelasan-pasal-536|Penjelasan]] | ✓ |
+| [[#^pasal-537|Pasal 537]] | [[#^penjelasan-pasal-537|Penjelasan]] | - |
+| [[#^pasal-538|Pasal 538]] | [[#^penjelasan-pasal-538|Penjelasan]] | - |
+| [[#^pasal-539|Pasal 539]] | [[#^penjelasan-pasal-539|Penjelasan]] | ✓ |
+| [[#^pasal-540|Pasal 540]] | [[#^penjelasan-pasal-540|Penjelasan]] | - |
+| [[#^pasal-541|Pasal 541]] | [[#^penjelasan-pasal-541|Penjelasan]] | - |
+| [[#^pasal-542|Pasal 542]] | [[#^penjelasan-pasal-542|Penjelasan]] | ✓ |
+| [[#^pasal-543|Pasal 543]] | [[#^penjelasan-pasal-543|Penjelasan]] | ✓ |
+| [[#^pasal-544|Pasal 544]] | [[#^penjelasan-pasal-544|Penjelasan]] | - |
+| [[#^pasal-545|Pasal 545]] | [[#^penjelasan-pasal-545|Penjelasan]] | - |
+| [[#^pasal-546|Pasal 546]] | [[#^penjelasan-pasal-546|Penjelasan]] | - |
+| [[#^pasal-547|Pasal 547]] | [[#^penjelasan-pasal-547|Penjelasan]] | - |
+| [[#^pasal-548|Pasal 548]] | [[#^penjelasan-pasal-548|Penjelasan]] | ✓ |
+| [[#^pasal-549|Pasal 549]] | [[#^penjelasan-pasal-549|Penjelasan]] | ✓ |
+| [[#^pasal-550|Pasal 550]] | [[#^penjelasan-pasal-550|Penjelasan]] | - |
+| [[#^pasal-551|Pasal 551]] | [[#^penjelasan-pasal-551|Penjelasan]] | - |
+| [[#^pasal-552|Pasal 552]] | [[#^penjelasan-pasal-552|Penjelasan]] | ✓ |
+| [[#^pasal-553|Pasal 553]] | [[#^penjelasan-pasal-553|Penjelasan]] | ✓ |
+| [[#^pasal-554|Pasal 554]] | [[#^penjelasan-pasal-554|Penjelasan]] | ✓ |
+| [[#^pasal-555|Pasal 555]] | [[#^penjelasan-pasal-555|Penjelasan]] | - |
+| [[#^pasal-556|Pasal 556]] | [[#^penjelasan-pasal-556|Penjelasan]] | - |
+| [[#^pasal-557|Pasal 557]] | [[#^penjelasan-pasal-557|Penjelasan]] | ✓ |
+| [[#^pasal-558|Pasal 558]] | [[#^penjelasan-pasal-558|Penjelasan]] | - |
+| [[#^pasal-559|Pasal 559]] | [[#^penjelasan-pasal-559|Penjelasan]] | - |
+| [[#^pasal-560|Pasal 560]] | [[#^penjelasan-pasal-560|Penjelasan]] | - |
+| [[#^pasal-561|Pasal 561]] | [[#^penjelasan-pasal-561|Penjelasan]] | ✓ |
+| [[#^pasal-562|Pasal 562]] | [[#^penjelasan-pasal-562|Penjelasan]] | ✓ |
+| [[#^pasal-563|Pasal 563]] | [[#^penjelasan-pasal-563|Penjelasan]] | ✓ |
+| [[#^pasal-564|Pasal 564]] | [[#^penjelasan-pasal-564|Penjelasan]] | ✓ |
+| [[#^pasal-565|Pasal 565]] | [[#^penjelasan-pasal-565|Penjelasan]] | ✓ |
+| [[#^pasal-566|Pasal 566]] | [[#^penjelasan-pasal-566|Penjelasan]] | ✓ |
+| [[#^pasal-567|Pasal 567]] | [[#^penjelasan-pasal-567|Penjelasan]] | ✓ |
+| [[#^pasal-568|Pasal 568]] | [[#^penjelasan-pasal-568|Penjelasan]] | ✓ |
+| [[#^pasal-569|Pasal 569]] | [[#^penjelasan-pasal-569|Penjelasan]] | - |
+| [[#^pasal-570|Pasal 570]] | [[#^penjelasan-pasal-570|Penjelasan]] | - |
+| [[#^pasal-571|Pasal 571]] | [[#^penjelasan-pasal-571|Penjelasan]] | - |
+| [[#^pasal-572|Pasal 572]] | [[#^penjelasan-pasal-572|Penjelasan]] | ✓ |
+| [[#^pasal-573|Pasal 573]] | [[#^penjelasan-pasal-573|Penjelasan]] | - |
+| [[#^pasal-574|Pasal 574]] | [[#^penjelasan-pasal-574|Penjelasan]] | - |
+| [[#^pasal-575|Pasal 575]] | [[#^penjelasan-pasal-575|Penjelasan]] | ✓ |
+| [[#^pasal-576|Pasal 576]] | [[#^penjelasan-pasal-576|Penjelasan]] | - |
+| [[#^pasal-577|Pasal 577]] | [[#^penjelasan-pasal-577|Penjelasan]] | ✓ |
+| [[#^pasal-578|Pasal 578]] | [[#^penjelasan-pasal-578|Penjelasan]] | - |
+| [[#^pasal-579|Pasal 579]] | [[#^penjelasan-pasal-579|Penjelasan]] | ✓ |
+| [[#^pasal-580|Pasal 580]] | [[#^penjelasan-pasal-580|Penjelasan]] | ✓ |
+| [[#^pasal-581|Pasal 581]] | [[#^penjelasan-pasal-581|Penjelasan]] | - |
+| [[#^pasal-582|Pasal 582]] | [[#^penjelasan-pasal-582|Penjelasan]] | - |
+| [[#^pasal-583|Pasal 583]] | [[#^penjelasan-pasal-583|Penjelasan]] | - |
+| [[#^pasal-584|Pasal 584]] | [[#^penjelasan-pasal-584|Penjelasan]] | - |
+| [[#^pasal-585|Pasal 585]] | [[#^penjelasan-pasal-585|Penjelasan]] | - |
+| [[#^pasal-586|Pasal 586]] | [[#^penjelasan-pasal-586|Penjelasan]] | - |
+| [[#^pasal-587|Pasal 587]] | [[#^penjelasan-pasal-587|Penjelasan]] | - |
+| [[#^pasal-588|Pasal 588]] | [[#^penjelasan-pasal-588|Penjelasan]] | - |
+| [[#^pasal-589|Pasal 589]] | [[#^penjelasan-pasal-589|Penjelasan]] | ✓ |
+| [[#^pasal-590|Pasal 590]] | [[#^penjelasan-pasal-590|Penjelasan]] | ✓ |
+| [[#^pasal-591|Pasal 591]] | [[#^penjelasan-pasal-591|Penjelasan]] | ✓ |
+| [[#^pasal-592|Pasal 592]] | [[#^penjelasan-pasal-592|Penjelasan]] | ✓ |
+| [[#^pasal-593|Pasal 593]] | [[#^penjelasan-pasal-593|Penjelasan]] | - |
+| [[#^pasal-594|Pasal 594]] | [[#^penjelasan-pasal-594|Penjelasan]] | - |
+| [[#^pasal-595|Pasal 595]] | [[#^penjelasan-pasal-595|Penjelasan]] | ✓ |
+| [[#^pasal-596|Pasal 596]] | [[#^penjelasan-pasal-596|Penjelasan]] | - |
+| [[#^pasal-597|Pasal 597]] | [[#^penjelasan-pasal-597|Penjelasan]] | ✓ |
+| [[#^pasal-598|Pasal 598]] | [[#^penjelasan-pasal-598|Penjelasan]] | - |
+| [[#^pasal-599|Pasal 599]] | [[#^penjelasan-pasal-599|Penjelasan]] | ✓ |
+| [[#^pasal-600|Pasal 600]] | [[#^penjelasan-pasal-600|Penjelasan]] | - |
+| [[#^pasal-601|Pasal 601]] | [[#^penjelasan-pasal-601|Penjelasan]] | - |
+| [[#^pasal-602|Pasal 602]] | [[#^penjelasan-pasal-602|Penjelasan]] | - |
+| [[#^pasal-603|Pasal 603]] | [[#^penjelasan-pasal-603|Penjelasan]] | ✓ |
+| [[#^pasal-604|Pasal 604]] | [[#^penjelasan-pasal-604|Penjelasan]] | - |
+| [[#^pasal-605|Pasal 605]] | [[#^penjelasan-pasal-605|Penjelasan]] | - |
+| [[#^pasal-606|Pasal 606]] | [[#^penjelasan-pasal-606|Penjelasan]] | - |
+| [[#^pasal-607|Pasal 607]] | [[#^penjelasan-pasal-607|Penjelasan]] | - |
+| [[#^pasal-608|Pasal 608]] | [[#^penjelasan-pasal-608|Penjelasan]] | - |
+| [[#^pasal-609|Pasal 609]] | [[#^penjelasan-pasal-609|Penjelasan]] | - |
+| [[#^pasal-610|Pasal 610]] | [[#^penjelasan-pasal-610|Penjelasan]] | - |
+| [[#^pasal-611|Pasal 611]] | [[#^penjelasan-pasal-611|Penjelasan]] | ✓ |
+| [[#^pasal-612|Pasal 612]] | [[#^penjelasan-pasal-612|Penjelasan]] | - |
+| [[#^pasal-613|Pasal 613]] | [[#^penjelasan-pasal-613|Penjelasan]] | ✓ |
+| [[#^pasal-614|Pasal 614]] | [[#^penjelasan-pasal-614|Penjelasan]] | - |
+| [[#^pasal-615|Pasal 615]] | [[#^penjelasan-pasal-615|Penjelasan]] | - |
+| [[#^pasal-616|Pasal 616]] | [[#^penjelasan-pasal-616|Penjelasan]] | - |
+| [[#^pasal-617|Pasal 617]] | [[#^penjelasan-pasal-617|Penjelasan]] | - |
+| [[#^pasal-618|Pasal 618]] | [[#^penjelasan-pasal-618|Penjelasan]] | - |
+| [[#^pasal-619|Pasal 619]] | [[#^penjelasan-pasal-619|Penjelasan]] | - |
+| [[#^pasal-620|Pasal 620]] | [[#^penjelasan-pasal-620|Penjelasan]] | ✓ |
+| [[#^pasal-621|Pasal 621]] | [[#^penjelasan-pasal-621|Penjelasan]] | ✓ |
+| [[#^pasal-622|Pasal 622]] | [[#^penjelasan-pasal-622|Penjelasan]] | - |
+| [[#^pasal-623|Pasal 623]] | [[#^penjelasan-pasal-623|Penjelasan]] | - |
+| [[#^pasal-624|Pasal 624]] | [[#^penjelasan-pasal-624|Penjelasan]] | ✓ |

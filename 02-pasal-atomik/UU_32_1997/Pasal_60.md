@@ -20,7 +20,10 @@ mengamandemen: []
 
 Ketentuan mengenai praktik perdagangan yang dilarang sebagaimana
 
- dimaksud dalam Pasal 57, Pasal 58 dan Pasal 59, diatur lebih lanjut
+ dimaksud dalam Pasal 57,
+
+Pasal 58
+dan Pasal 59, diatur lebih lanjut
 
  dengan Peraturan Pemerintah.
 

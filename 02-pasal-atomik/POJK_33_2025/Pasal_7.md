@@ -19,14 +19,23 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PPDP yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 3 ayat (1), ayat (3), ayat (4), dan
-ayat (5), Pasal 4 ayat (1), ayat (3), ayat (4), dan ayat (7),
+dimaksud dalam
+
+Pasal 3
+ayat (1), ayat (3), ayat (4), dan
+ayat (5),
+
+Pasal 4
+ayat (1), ayat (3), ayat (4), dan ayat (7),
 dikenai sanksi administratif berupa:
 a. peringatan tertulis; dan/atau
 b. penurunan tingkat kesehatan.
 (2) PPDP yang dinyatakan terlambat menyampaikan hasil
 penilaian sendiri Tingkat Kesehatan PPDP
-sebagaimana dimaksud dalam Pasal 4 ayat (7) dikenai
+sebagaimana dimaksud dalam
+
+Pasal 4
+ayat (7) dikenai
 sanksi administratif tambahan berupa denda
 administratif sebesar:
 a. Rp500.000,00 (lima ratus ribu rupiah) per hari
@@ -36,7 +45,10 @@ b. Rp200.000,00 (dua ratus ribu rupiah) per hari bagi
 dana pensiun.
 (3) PPDP yang tidak menyampaikan hasil penilaian sendiri
 Tingkat Kesehatan PPDP sebagaimana dimaksud
-dalam Pasal 4 ayat (7) dihitung 30 (tiga puluh) hari
+dalam
+
+Pasal 4
+ayat (7) dihitung 30 (tiga puluh) hari
 sejak berakhirnya batas waktu penyampaian,
 dinyatakan tidak menyampaikan hasil penilaian
 sendiri Tingkat Kesehatan PPDP.

@@ -17,45 +17,29 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), ayat (2), ayat (3), ayat (4), dan/atau ayat (6)
-dikenai sanksi administratif.
+(1) Penyelenggara wajib memiliki ekuitas paling sedikit
+Rp5.000.000.000,00 (lima miliar rupiah).
+(2) Penyelenggara yang telah memperoleh izin usaha
+sebelum Peraturan Otoritas Jasa Keuangan ini berlaku
+atau calon Penyelenggara yang masih dalam proses
+mengajukan permohonan perizinan sebagai
+Penyelenggara kepada Otoritas Jasa Keuangan sebelum
+Peraturan Otoritas Jasa Keuangan ini berlaku wajib
+memiliki ekuitas paling sedikit Rp5.000.000.000,00
 
 -----
 
- - 10
-(2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
-juga kepada Pihak yang menyebabkan terjadinya
-pelanggaran sebagaimana dimaksud pada ayat (1).
-(3) Sanksi sebagaimana dimaksud pada ayat (1) dan ayat
-(2) dijatuhkan oleh Otoritas Jasa Keuangan.
-(4) Sanksi sebagaimana dimaksud pada ayat (1) berupa:
-a. peringatan tertulis;
-b. denda yaitu kewajiban untuk membayar sejumlah
-uang tertentu;
-c. pembatasan kegiatan usaha;
-d. pembekuan kegiatan usaha;
-e. pencabutan izin usaha; dan/atau
-f. pembatalan persetujuan.
-(5) Sanksi administratif sebagaimana dimaksud pada ayat
-(4) huruf b, huruf c, huruf d, huruf e, atau huruf f,
-dapat dikenakan dengan atau tanpa didahului
-pengenaan sanksi administratif berupa peringatan
-tertulis sebagaimana dimaksud pada ayat (4) huruf a.
-(6) Sanksi administratif berupa denda sebagaimana
-dimaksud pada ayat (4) huruf b dapat dikenakan secara
-tersendiri atau secara bersama-sama dengan
-pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (4) huruf c.
-(7) Tata cara pengenaan sanksi sebagaimana dimaksud
-pada ayat (3) dilakukan sesuai dengan ketentuan
-peraturan perundang-undangan di bidang pasar modal.
-
-BAB III
-PERIZINAN PENYELENGGARA
-
-Bagian Kesatu
-
-Umum
+ - 8
+(lima miliar rupiah) secara bertahap dengan ketentuan:
+a. paling sedikit Rp1.000.000.000,00 (satu miliar
+rupiah) untuk jangka waktu 1 (satu) tahun;
+b. paling sedikit Rp2.500.000.000,00 (dua koma lima
+miliar rupiah) untuk jangka waktu 3 (tiga) tahun;
+dan
+c. paling sedikit Rp5.000.000.000,00 (lima miliar
+rupiah) untuk jangka waktu 5 (lima) tahun,
+sejak Peraturan Otoritas Jasa Keuangan ini
+diundangkan.
 
 ## Penjelasan Resmi
 

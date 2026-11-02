@@ -24,7 +24,10 @@ Syariah, atau Unit Syariah pada Perusahaan Asuransi
 
 menunjuk perusahaan penilai kerugian asuransi
 
-sebagaimana dimaksud dalam Pasal 37 ayat (2),
+sebagaimana dimaksud dalam
+
+Pasal 37
+ayat (2),
 
 Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 

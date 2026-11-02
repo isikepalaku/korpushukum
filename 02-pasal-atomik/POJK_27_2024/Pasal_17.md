@@ -19,10 +19,19 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 6, Pasal 7 ayat (1), ayat (2), ayat
+dimaksud dalam Pasal 6,
+
+Pasal 7
+ayat (1), ayat (2), ayat
 (4), ayat (5), ayat (6), Pasal 9 ayat (2), Pasal 10 ayat (1),
-ayat (2), ayat (3), ayat (5), Pasal 11 ayat (2), Pasal 12
-ayat (1), ayat (2), Pasal 13 ayat (1), ayat (2), ayat (4), ayat
+ayat (2), ayat (3), ayat (5),
+
+Pasal 11
+ayat (2), Pasal 12
+ayat (1), ayat (2),
+
+Pasal 13
+ayat (1), ayat (2), ayat (4), ayat
 
 -----
 
@@ -36,9 +45,15 @@ d. pencantuman Pihak Utama dalam daftar orang
 tercela di sektor keuangan; dan/atau
 e. pencabutan izin usaha.
 (2) Bursa yang tidak memenuhi ketentuan sebagaimana
-dimaksud dalam Pasal 10 ayat (5) dan Pedagang yang
+dimaksud dalam
+
+Pasal 10
+ayat (5) dan Pedagang yang
 tidak memenuhi ketentuan sebagaimana dimaksud
-dalam Pasal 12 ayat (1) dan ayat (2) dikenai sanksi
+dalam
+
+Pasal 12
+ayat (1) dan ayat (2) dikenai sanksi
 administratif berupa denda administratif sebesar
 Rp 200.000,00 (dua ratus ribu rupiah) per hari dengan
 denda paling banyak Rp2.000.000,00 (dua juta rupiah).
@@ -50,6 +65,21 @@ sebagaimana dimaksud pada ayat (1) huruf a.
 (4) Pengenaan sanksi administratif sebagaimana dimaksud
 pada ayat (1) tidak menghilangkan kewajiban
 sebagaimana dimaksud dalam Pasal 10 ayat (5) serta
+
+Pasal 12
+ayat (1) dan ayat (2).
+
+BAB III
+KELEMBAGAAN PENYELENGGARA PERDAGANGAN
+
+ASET KEUANGAN DIGITAL
+
+Bagian Kesatu
+
+Bursa
+
+Paragraf 1
+Badan Hukum Bursa
 
 ## Penjelasan Resmi
 

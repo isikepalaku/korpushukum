@@ -23,6 +23,20 @@ mengamandemen: []
 simpanan berupa giro, deposito berjangka, sertifikat deposito,
 tabungan, dan/atau bentuk lainnya yang dipersamakan dengan
 itu tanpa izin usaha dari Menteri sebagaimana dimaksud dalam
+Pasal 16
+dan
+
+Pasal 17, diancam dengan pidana penjara paling
+lama 15 (lima belas) tahun dan denda paling banyak Rp.
+10.000.000.000,- (sepuluh milyar rupiah).
+
+(2) Dalam hal kegiatan sebagaimana dimaksud dalam ayat (1)
+dilakukan oleh badan hukum yang berbentuk perseroan terbatas,
+perserikatan, yayasan atau koperasi, maka penuntutan terhadap
+badan-badan dimaksud dilakukan baik terhadap mereka yang
+memberi perintah melakukan perbuatan itu atau yang bertindak
+sebagai pimpinan dalam perbuatan itu atau terhadap
+kedua-duanya.
 
 ## Penjelasan Resmi
 

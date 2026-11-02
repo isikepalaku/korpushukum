@@ -25,7 +25,14 @@ mengamandemen: []
  memerintahkan agar hal tersebut dilakukan penelitian ulang, termasuk penelitian ulang atas Keterangan Ahli tersebut.
 **(3) Penelitian ulang sebagaimana dimaksud pada ayat (2)**
 
-**dilakukan oleh instansi semula dengan komposisi personal yang berbeda dan instansi lain yang mempunyai wewenang untuk itu.**
+**dilakukan oleh instansi semula dengan komposisi personal yang berbeda dan instansi lain yang mempunyai wewenang untuk itu.**Pasal 231 ...
+
+-----
+
+PNESIDEN
+REPUEUK INDONESIA
+
+**-L22-**
 
 ## Penjelasan Resmi
 

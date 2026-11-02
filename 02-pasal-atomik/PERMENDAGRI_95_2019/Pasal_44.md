@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Administrator pengelolaan SIAK Satuan Kerja Pelaksana 
-sebagaimana dimaksud dalam Pasal 30 huruf p, melekat 
+sebagaimana dimaksud dalam
+
+Pasal 30
+huruf p, melekat 
 pada 
 Satuan 
 Kerja 

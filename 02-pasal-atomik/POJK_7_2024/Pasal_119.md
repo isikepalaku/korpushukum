@@ -43,4 +43,7 @@ yang melakukan Pengambilalihan.
 
 ## Penjelasan Resmi
 
-Lihat penjelasan Pasal 115 ayat (1).
+Lihat penjelasan
+
+Pasal 115
+ayat (1).

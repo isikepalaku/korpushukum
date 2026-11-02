@@ -25,7 +25,10 @@ Digital kepada Bursa untuk ditetapkan dalam
 Daftar Aset Keuangan Digital.
 (2) Berdasarkan usulan sebagaimana dimaksud pada
 ayat (1) Bursa wajib melakukan analisis
-sebagaimana dimaksud dalam Pasal 10 ayat (1).
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (1).
 (3) Mekanisme penyampaian usulan penambahan
 dan/atau penghapusan Aset Keuangan Digital oleh
 Pedagang sebagaimana dimaksud pada ayat (1)
@@ -57,3 +60,5 @@ Angka 15
 Paragraf 3
 
 Dihapus.
+
+Angka 16

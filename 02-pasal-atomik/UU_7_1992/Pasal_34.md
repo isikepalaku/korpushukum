@@ -19,14 +19,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-paling lama 2 (dua) tahun dan denda paling banyak Rp.
-2.000.000.000,- (dua milyar rupiah).
+(1) Bank wajib menyampaikan kepada Bank Indonesia neraca dan
+perhitungan laba/rugi tahunan serta penjelasannya, serta
+laporan berkala lainnya, dalam waktu dan bentuk yang
+ditetapkan oleh Bank Indonesia.
 
-(2) Anggota dewan komisaris, direksi atau pegawai bank yang lalai
-memberikan keterangan yang wajib dipenuhi sebagaimana
-dimaksud dalam Pasal 30 ayat (1) dan ayat (2) dan Pasal 34 ayat
-(1) dan ayat (2), diancam dengan pidana kurungan paling lama 1
-(satu) tahun dan/atau denda paling banyak Rp. 1.000.000.000,(satu milyar rupiah).
+(2) Neraca serta perhitungan laba/rugi tahunan sebagaimana
+dimaksud dalam ayat (1) wajib terlebih dahulu diaudit oleh
+akuntan publik.
+
+(3) Tahun buku bank adalah tahun takwim.
 
 ## Penjelasan Resmi
 

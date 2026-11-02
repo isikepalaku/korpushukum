@@ -14,6 +14,7 @@ diamandemen_oleh:
 - '[[02-pasal-atomik/UU_3_2024/Pasal_50|UU 3/2024 Pasal 50]]'
 mengamandemen:
 - '[[02-pasal-atomik/UU_21_2008/Pasal_50|UU 21/2008 Pasal 50]]'
+- '[[02-pasal-atomik/UU_22_2001/Pasal_50|UU 22/2001 Pasal 50]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_50|UU 25/1992 Pasal 50]]'
 - '[[02-pasal-atomik/UU_40_2004/Pasal_50|UU 40/2004 Pasal 50]]'
 - '[[02-pasal-atomik/UU_7_1992/Pasal_50|UU 7/1992 Pasal 50]]'
@@ -30,7 +31,10 @@ mengamandemen:
 Cukup jelas.
 
 ```
-Angka 4 Pasal 53 Cukup jelas. Angka 5 Pasal 57 Cukup jelas. Angka 6 Pasal 59 Ayat (l) Yang dimaksud dengan useluruh rangkaian,, adalah kegiatan pengawasan di pabrik dan koordinasi pengawasan di pasar dengan kementerian dan lembaga pemerintah nonkementerian terkait. Ayat (2) Cukup jelas. Angka 7 Pasal 84 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup je1as. Ayat (4) Huruf a
+Angka 4
+
+Pasal 53
+Cukup jelas. Angka 5 Pasal 57 Cukup jelas. Angka 6 Pasal 59 Ayat (l) Yang dimaksud dengan useluruh rangkaian,, adalah kegiatan pengawasan di pabrik dan koordinasi pengawasan di pasar dengan kementerian dan lembaga pemerintah nonkementerian terkait. Ayat (2) Cukup jelas. Angka 7 Pasal 84 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup je1as. Ayat (4) Huruf a
 ```
 
 ```
@@ -69,6 +73,7 @@ Cukup jelas.
 
 Angka 8
 
-Pasal 1Ol
-
+Pasal 101
 Cukup jelas.
+
+Angka 9

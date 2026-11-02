@@ -21,7 +21,10 @@ Ketentuan lebih lanjut mengenai tata cara penyampaian
 Laporan Berkala, penyampaian koreksi Laporan Berkala,
 dan penundaan batas waktu penyampaian Laporan Berkala
 dan/atau koreksi Laporan Berkala sebagaimana dimaksud
-dalam Pasal 9 sampai dengan Pasal 11 ditetapkan oleh
+dalam Pasal 9 sampai dengan
+
+Pasal 11
+ditetapkan oleh
 Otoritas Jasa Keuangan.
 
 Bagian Ketiga

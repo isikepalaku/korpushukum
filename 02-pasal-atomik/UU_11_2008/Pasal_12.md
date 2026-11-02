@@ -37,18 +37,24 @@ Bagian Kesatu Penyelenggaraan Sertifikasi Elektronik
 
 ## Penjelasan Resmi
 
-P asal 12 Cukup jelas.
+Pasal 12
+Cukup jelas.
 
-P asal 13 Cukup jelas.
+Pasal 13
+Cukup jelas.
 
-P asal 14 Informasi sebagaimana dimaksud minimum harus dipenuhi oleh Elektronik. dalam Pasal ini adalah informasi yang setiap penyelenggara Tanda Tangan
+Pasal 14
+Informasi sebagaimana dimaksud minimum harus dipenuhi oleh Elektronik. dalam Pasal ini adalah informasi yang setiap penyelenggara Tanda Tangan
 
-P asal 15 Ayat (1) 'Andal' artinya Sistem Elektronik memiliki kemampuan yang sesuai dengan kebutuhan penggunaannya. 'Aman' artinya Sistem Elektronik terlindungi secara fisik dan nonfisik. 'Beroperasi sebagaimana mestinya' artinya Sistem Elektronik memiliki kemampuan sesuai dengan spesifikasinya. Ayat (2) 'Bertanggung jawab' artinya ada subjek hukum yang bertanggung jawab secara hukum terhadap Penyelenggaraan Sistem Elektronik tersebut. Ayat (3)
+Pasal 15
+Ayat (1) 'Andal' artinya Sistem Elektronik memiliki kemampuan yang sesuai dengan kebutuhan penggunaannya. 'Aman' artinya Sistem Elektronik terlindungi secara fisik dan nonfisik. 'Beroperasi sebagaimana mestinya' artinya Sistem Elektronik memiliki kemampuan sesuai dengan spesifikasinya. Ayat (2) 'Bertanggung jawab' artinya ada subjek hukum yang bertanggung jawab secara hukum terhadap Penyelenggaraan Sistem Elektronik tersebut. Ayat (3)
 
 Cukup jelas.
 
-P asal 16 Cukup jelas.
+Pasal 16
+Cukup jelas.
 
-P asal 17 Ayat (1) Undang-Undang ini memberikan peluang terhadap pemanfaatan Teknologi Informasi oleh penyelenggara negara, Orang, Badan Usaha, dan/atau masyarakat. Pemanfaatan Teknologi Informasi harus dilakukan secara baik, bijaksana, bertanggung jawab, efektif, dan efisien agar dapat diperoleh manfaat yang sebesar-besarnya bagi masyarakat. Ayat (2) Cukup jelas. Ayat (3)
+Pasal 17
+Ayat (1) Undang-Undang ini memberikan peluang terhadap pemanfaatan Teknologi Informasi oleh penyelenggara negara, Orang, Badan Usaha, dan/atau masyarakat. Pemanfaatan Teknologi Informasi harus dilakukan secara baik, bijaksana, bertanggung jawab, efektif, dan efisien agar dapat diperoleh manfaat yang sebesar-besarnya bagi masyarakat. Ayat (2) Cukup jelas. Ayat (3)
 
 Cukup jelas.

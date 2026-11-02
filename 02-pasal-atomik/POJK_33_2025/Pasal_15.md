@@ -27,7 +27,9 @@ b. pengkategorian peringkat setiap faktor penilaian dan
 Peringkat Komposit secara konsolidasi,
 wajib mengacu pada mekanisme penetapan dan
 pengkategorian peringkat PPDP secara individual
-sebagaimana dimaksud dalam Pasal 11 dan Pasal 12.
+sebagaimana dimaksud dalam Pasal 11 dan
+
+Pasal 12.
 
 Bagian Kedua
 Sanksi Administratif

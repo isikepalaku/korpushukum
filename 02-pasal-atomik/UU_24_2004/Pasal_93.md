@@ -20,9 +20,9 @@ mengamandemen: []
 
 LPS menyampaikan informasi kepada LPP mengenai bank yang
 
- tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal
+ tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 9 dan
 
- 9 dan Pasal 92.
+Pasal 92.
 
 ## Penjelasan Resmi
 

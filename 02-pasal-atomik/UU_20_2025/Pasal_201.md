@@ -34,9 +34,7 @@ Terdakwa menghadirkan Saksi dan/atau Ahli untuk
  Keterangan Saksi dan/ atau Ahli tidak hadir pada tanggal yang telah ditentukan, permohonan menjadi batal.
 **(6) Sidang pemeriksaan Saksi dan/atau Ahli dilakukan**
 
-**secara terbuka, kecuali untuk perkara tempat persidangan dilakukan secara tertutup sesuai dengan ketentuan Undang-Undang.**
-
-Pasal 2O2
+**secara terbuka, kecuali untuk perkara tempat persidangan dilakukan secara tertutup sesuai dengan ketentuan Undang-Undang.**Pasal 2O2
 **(1) Pada hari sidang yang telah ditetapkan, pengadilan**
  wajib membuka persidangan. (21 Untuk keperluan pemeriksaan, Hakim ketua sidang
  membuka sidang dan menyatakan terbuka untuk umum, kecuali dalam perkara mengenai kesusilaan atau terdakwanya anak. (3) Dalam hal tidak dipenuhinya ketentuan sebagaimana
@@ -55,8 +53,6 @@ Pasal 2O2
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal 2O2
+**Cukup [jelas.]**Pasal 2O2
 
 **Cukup [jelas.]**

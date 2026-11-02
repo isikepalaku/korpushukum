@@ -61,7 +61,10 @@ Ayat (2)
 
 Huruf a
 
-Yang dimaksud "keramaian umum" dalam hal ini sesuai dengan ketentuan Pasal 510 ayat (1) Kitab UndangUndang Hukum Pidana (KUHP), yaitu keramaian atau tontonan untuk umum dan mengadakan arak-arakan di jalan umum. Kegiatan masyarakat lainnya adalah kegiatan yang dapat membahayakan keamanan umum seperti diatur dalam Pasal 495 ayat (1), Pasal 496, Pasal 500, Pasal 501 ayat (2), dan Pasal 502 ayat (1) KUHP.
+Yang dimaksud "keramaian umum" dalam hal ini sesuai dengan ketentuan
+
+Pasal 510
+ayat (1) Kitab UndangUndang Hukum Pidana (KUHP), yaitu keramaian atau tontonan untuk umum dan mengadakan arak-arakan di jalan umum. Kegiatan masyarakat lainnya adalah kegiatan yang dapat membahayakan keamanan umum seperti diatur dalam Pasal 495 ayat (1), Pasal 496, Pasal 500, Pasal 501 ayat (2), dan Pasal 502 ayat (1) KUHP.
 
 Huruf b
 

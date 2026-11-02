@@ -23,7 +23,10 @@ pusat
 Pengembangan 
 SIAK 
 sebagaimana 
-dimaksud dalam Pasal 30 huruf c, melekat pada pejabat 
+dimaksud dalam
+
+Pasal 30
+huruf c, melekat pada pejabat 
 administrator 
 yang 
 membidangi 

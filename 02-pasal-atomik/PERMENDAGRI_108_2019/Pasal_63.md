@@ -22,7 +22,10 @@ mengamandemen: []
 Pencatatan kematian WNI di luar wilayah Negara 
 Kesatuan Republik Indonesia yang dilakukan pada 
 instansi yang berwenang di negara setempat dimaksud 
-dalam Pasal 61 huruf b, dilaporkan kepada Perwakilan 
+dalam
+
+Pasal 61
+huruf b, dilaporkan kepada Perwakilan 
 Republik Indonesia dengan memenuhi persyaratan sesuai 
 dengan 
 ketentuan 

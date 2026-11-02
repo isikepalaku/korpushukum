@@ -50,3 +50,5 @@ Ayat (2) . . .
 Ayat (2)
 
 Cukup jelas.
+
+Angka 3

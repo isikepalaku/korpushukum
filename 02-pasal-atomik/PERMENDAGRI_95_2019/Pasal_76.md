@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Selain pengawasan sebagaimana dimaksud dalam Pasal 70, 
+Selain pengawasan sebagaimana dimaksud dalam
+
+Pasal 70, 
 dilakukan juga pengawasan terhadap sumber daya manusia 
 yang dilakukan dengan cara antara lain: 
 a. 
@@ -49,8 +51,13 @@ menandatangani pakta integritas dan perjanjian menjaga
 kerahasiaan (non disclosure agreement); dan 
 d. 
 menindaklanjuti laporan yang disampaikan oleh pejabat 
-sebagaimana dimaksud dalam Pasal 31 ayat (1), Pasal 32 
-ayat (1), Pasal 33 ayat (1) dan Pasal 34 ayat (1) terhadap 
+sebagaimana dimaksud dalam Pasal 31 ayat (1),
+
+Pasal 32
+ayat (1),
+
+Pasal 33
+ayat (1) dan Pasal 34 ayat (1) terhadap 
 penyimpangan prosedur kerja bawahannya. 
  
 Bagian Kesepuluh 

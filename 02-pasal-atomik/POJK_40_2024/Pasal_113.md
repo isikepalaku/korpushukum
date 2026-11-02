@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam pemberesan aset dan kewajiban Penyelenggara
-sebagaimana dimaksud dalam Pasal 104 ayat (2) huruf c,
+sebagaimana dimaksud dalam
+
+Pasal 104
+ayat (2) huruf c,
 Tim Likuidasi melaksanakan tindakan sebagai berikut:
 a. menunjuk akuntan publik yang terdaftar di Otoritas
 Jasa Keuangan untuk mengaudit Neraca Penutupan;

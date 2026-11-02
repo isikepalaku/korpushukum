@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan mengenai penilaian Tingkat Kesehatan
-sebagaimana dimaksud dalam Pasal 196 ayat (1) dinyatakan
+sebagaimana dimaksud dalam
+
+Pasal 196
+ayat (1) dinyatakan
 mulai berlaku 1 (satu) tahun sejak Peraturan Otoritas Jasa
 Keuangan ini diundangkan.
 

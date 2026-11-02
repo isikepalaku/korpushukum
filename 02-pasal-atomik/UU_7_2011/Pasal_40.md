@@ -20,6 +20,23 @@ mengamandemen: []
 
 (1) Dalam hal terpidana perseorangan tidak mampu
 membayar pidana denda sebagaimana dimaksud dalam
+Pasal 33,
+
+Pasal 34, Pasal 35, serta Pasal 36 ayat (1), ayat
+(2), ayat (3), dan ayat (4), pidana denda diganti dengan
+pidana kurungan dengan ketentuan untuk setiap pidana
+denda sebesar Rp100.000.000,00 (seratus juta rupiah)
+diganti dengan pidana kurungan selama 2 (dua) bulan.
+
+(2) Lama . . .
+
+-----
+
+ - 20
+(2) Lama pidana kurungan pengganti sebagaimana dimaksud
+
+pada ayat (1) harus dicantumkan dalam putusan
+pengadilan.
 
 ## Penjelasan Resmi
 

@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Selain ketentuan sebagaimana dimaksud dalam Pasal 248 sampai dengan Pasal 255, Tenaga Medis spesialis dan subspesialis serta Tenaga Kesehatan tingkat kompetensi tertentu warga negara asing lulusan luar negeri harus memenuhi persyaratan lain sesuai dengan ketentuan peraturan perundang-undangan.
+Selain ketentuan sebagaimana dimaksud dalam Pasal 248 sampai dengan
+
+Pasal 255, Tenaga Medis spesialis dan subspesialis serta Tenaga Kesehatan tingkat kompetensi tertentu warga negara asing lulusan luar negeri harus memenuhi persyaratan lain sesuai dengan ketentuan peraturan perundang-undangan.
 
 ## Penjelasan Resmi
 

@@ -21,7 +21,9 @@ mengamandemen: []
 
 permohonan izin pembukaan Kantor di Luar Negeri
 
-sebagaimana dimaksud dalam Pasal 69.
+sebagaimana dimaksud dalam
+
+Pasal 69.
 
 (2) Persetujuan atau penolakan sebagaimana dimaksud
 
@@ -31,7 +33,10 @@ ayat (1) diberikan dalam jangka waktu 14 (empat
 
 belas) hari kerja sejak dokumen sebagaimana
 
-dimaksud dalam Pasal 69 ayat (4) diterima secara
+dimaksud dalam
+
+Pasal 69
+ayat (4) diterima secara
 
 lengkap.
 
@@ -45,21 +50,27 @@ a. terhadap rencana pembukaan Kantor di Luar
 
 Negeri telah dicantumkan dalam Rencana Bisnis
 
-Bank sebagaimana dimaksud dalam Pasal 60;
+Bank sebagaimana dimaksud dalam
+
+Pasal 60;
 
 -----
 
 b. terhadap pemenuhan persyaratan Bank BHI
 
-sebagaimana dimaksud dalam Pasal 69 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 69
+ayat (2)
 
 dan melakukan analisis; dan
 
 c. kelengkapan dan kesesuaian dokumen yang
 
-disampaikan sebagaimana dimaksud dalam Pasal
+disampaikan sebagaimana dimaksud dalam
 
-69 ayat (4).
+Pasal 69
+ayat (4).
 
 ## Penjelasan Resmi
 

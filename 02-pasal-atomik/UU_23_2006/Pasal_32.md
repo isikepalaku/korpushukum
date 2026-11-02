@@ -18,11 +18,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-b. perkawinan sebagaimana dimaksud dalam Pasal 34
-ayat (1) atau Pasal 37 ayat (4);
-c. pembatalan . . .
-
-c. pembatalan perkawinan sebagaimana dimaksud dalam
+(1) Pelaporan kelahiran sebagaimana dimaksud dalam Pasal 27 ayat (1) yang melampaui batas waktu 60 (enam puluh)
+hari sampai dengan 1 (satu) tahun sejak tanggal kelahiran,
+pencatatan
+dilaksanakan
+setelah
+mendapatkan
+persetujuan Kepala Instansi Pelaksana setempat.
+(2) Pencatatan kelahiran yang melampaui batas waktu 1 (satu)
+tahun sebagaimana dimaksud pada ayat (1), dilaksanakan
+berdasarkan penetapan pengadilan negeri.
+(3) Ketentuan lebih lanjut mengenai persyaratan dan tata cara
+pencatatan kelahiran sebagaimana dimaksud pada ayat (1)
+dan ayat (2) diatur dalam Peraturan Presiden.
+Bagian Kedua
+Pencatatan Lahir Mati
 
 ## Penjelasan Resmi
 

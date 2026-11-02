@@ -42,11 +42,17 @@ Keuangan.
 penolakan permohonan menjadi Peserta dengan
 memerhatikan kriteria kelayakan sebagaimana
 dimaksud pada ayat (1) dan Rencana Pengujian
-sebagaimana dimaksud dalam Pasal 9 ayat (5) serta
+sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (5) serta
 pertimbangan lain dari Otoritas Jasa Keuangan.
 (3) Persetujuan atau penolakan sebagaimana dimaksud
 pada ayat (2) dilakukan setelah dokumen sebagaimana
-dimaksud dalam Pasal 9 ayat (4) diterima dengan
+dimaksud dalam
+
+Pasal 9
+ayat (4) diterima dengan
 lengkap.
 (4) Persetujuan atau penolakan sebagaimana dimaksud
 pada ayat (2) disampaikan kepada calon Peserta melalui

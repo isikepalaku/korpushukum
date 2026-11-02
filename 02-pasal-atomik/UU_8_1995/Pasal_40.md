@@ -24,6 +24,9 @@ adanya hubungan Afiliasi atau hubungan lain yang
 bersifat material antara Perusahaan Efek dengan
 Emiten.
 
+Pasal 41…
+...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

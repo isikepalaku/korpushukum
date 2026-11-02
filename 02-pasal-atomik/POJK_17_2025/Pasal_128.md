@@ -18,8 +18,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 125 ayat (3), Pasal 126 ayat (2),
-ayat (3), dan/atau Pasal 127 ayat (3), dikenai sanksi
+dimaksud dalam Pasal 125 ayat (3),
+
+Pasal 126
+ayat (2),
+ayat (3), dan/atau
+
+Pasal 127
+ayat (3), dikenai sanksi
 administratif.
 (2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
 juga kepada Pihak yang menyebabkan terjadinya

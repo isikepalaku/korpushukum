@@ -31,7 +31,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 186 Ayat (1) Ayat (2) Cukup jelas. Pasal 187 Cukup jelas. Pasal 188 Angka 1 Pasal 36 Cukup jelas. Angka 2 Pasal 37 Cukup jelas. Angka 3 Pasal 38 Cukup jelas. Pasal 189 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
+Cukup jelas.
+
+Pasal 186
+Ayat (1) Ayat (2) Cukup jelas. Pasal 187 Cukup jelas. Pasal 188 Angka 1 Pasal 36 Cukup jelas. Angka 2 Pasal 37 Cukup jelas. Angka 3 Pasal 38 Cukup jelas. Pasal 189 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
 ```
 
 Ayat (3)

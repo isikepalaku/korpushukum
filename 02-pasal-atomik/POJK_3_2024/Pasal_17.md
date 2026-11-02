@@ -17,34 +17,26 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(3) Penyelenggara inovasi keuangan digital yang
-telah mengajukan permohonan pencatatan namun
-belum dilakukan proses pada saat Peraturan
-Otoritas Jasa Keuangan ini berlaku, tunduk pada
-ketentuan dalam Peraturan Otoritas Jasa Keuangan ini.
-(4) Pelanggaran atas Peraturan Otoritas Jasa Keuangan
-Nomor 13/POJK.02/2018 tentang Inovasi Keuangan
-Digital di Sektor Jasa Keuangan yang diketahui pada
-saat berlakunya Peraturan Otoritas Jasa Keuangan ini
-dikenakan sanksi berdasarkan ketentuan dalam
-Peraturan Otoritas Jasa Keuangan Nomor
-13/POJK.02/2018 tentang Inovasi Keuangan Digital di
-Sektor Jasa Keuangan.
-(5) Perusahaan yang dikenai sanksi administratif
-berdasarkan Peraturan Otoritas Jasa Keuangan
-Nomor 13/POJK.02/2018 tentang Inovasi Keuangan
-Digital di Sektor Jasa Keuangan dan belum
-dapat memperbaiki penyebab pelanggaran,
-dikenai sanksi administratif sesuai dengan
-ketentuan dalam Peraturan Otoritas Jasa Keuangan
-ini.
-(6) Penunjukan asosiasi berdasarkan Peraturan Otoritas
-Jasa Keuangan Nomor 13/POJK.02/2018 tentang
-Inovasi Keuangan Digital di Sektor Jasa Keuangan,
-dinyatakan tetap berlaku.
+(1) Otoritas Jasa Keuangan menyampaikan surat tidak
+lulus kepada Peserta sebagaimana dimaksud dalam
 
-BAB XX
-KETENTUAN PENUTUP
+Pasal 14
+ayat (2) huruf b.
+(2) Peserta yang dinyatakan tidak lulus sebagaimana
+dimaksud pada ayat (1) wajib:
+a. menghentikan kegiatan operasional bisnis, inovasi
+produk, aktivitas, dan layanan yang menggunakan
+model bisnis yang diuji coba dan dikembangkan
+dalam Sandbox;
+b. menyelesaikan seluruh kewajibannya kepada
+Konsumen dan pihak lainnya; dan
+c. menjalankan _exit policy yang tercantum dalam_
+Rencana Pengujian sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (5) huruf g,
+paling lama 3 (tiga) bulan sejak surat tidak lulus
+disampaikan oleh Otoritas Jasa Keuangan.
 
 ## Penjelasan Resmi
 

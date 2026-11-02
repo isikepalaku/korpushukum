@@ -36,7 +36,9 @@ mengamandemen: []
 
  ekuitas pada saat penyerahan sebagaimana dimaksud
 
- dalam Pasal 25.
+ dalam
+
+Pasal 25.
 
  (2) Apabila setelah penggunaan hasil penjualan saham bank
 

@@ -29,6 +29,8 @@ yang telah memiliki izin sebelum berlakunya UndangUndang ini, tetap berlaku samp
 
 ## Penjelasan Resmi
 
-Angka lO7 Pasal 130A Cukup jelas.
+Angka lO7
+
+Pasal 130A Cukup jelas.
 
 Pasal 130El Cukup jelas.

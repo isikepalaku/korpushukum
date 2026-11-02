@@ -24,7 +24,9 @@ Keuangan ini berlaku:
 a. tunduk pada ketentuan dalam Peraturan Otoritas Jasa
 Keuangan ini; dan
 b. dikecualikan dari pemenuhan persyaratan modal
-disetor sebagaimana dimaksud dalam Pasal 9.
+disetor sebagaimana dimaksud dalam
+
+Pasal 9.
 
 -----
 

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penerapan pengecualian hak Subjek Data Pribadi untuk kepentingan pertahanan dan keamanan nasional sebagaimana dimaksud dalam Pasal 148 ayat (1) huruf a dan pengecualian kewajiban Pengendali Data Pribadi untuk kepentingan pertahanan dan keamanan nasional sebagaimana dimaksud dalam Pasal 149 ayat (1) huruf a harus memenuhi kriteria:
+Penerapan pengecualian hak Subjek Data Pribadi untuk kepentingan pertahanan dan keamanan nasional sebagaimana dimaksud dalam Pasal 148 ayat (1) huruf a dan pengecualian kewajiban Pengendali Data Pribadi untuk kepentingan pertahanan dan keamanan nasional sebagaimana dimaksud dalam
+
+Pasal 149
+ayat (1) huruf a harus memenuhi kriteria:
 
 - a. pemrosesan Data Pribadi diperlukan secara wajar dan dilakukan secara proporsional terbatas untuk memenuhi kepentingan pertahanan dan keamanan nasional:
 

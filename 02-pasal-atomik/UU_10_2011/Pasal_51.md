@@ -93,3 +93,5 @@ memenuhi kewajibannya.
 Ayat (6)
 
 Cukup jelas.
+
+Angka 26

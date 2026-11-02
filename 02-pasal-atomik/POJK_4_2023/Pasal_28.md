@@ -101,3 +101,5 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
+
+Angka 5

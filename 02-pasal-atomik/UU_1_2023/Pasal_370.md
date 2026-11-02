@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '370'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,4 @@ Tindak Pidana Irigasi
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dalam ketentuan ini, mengangkut Temak dari satu tempat ke tempa.t yang lain, yang sesuai dengan ketentuan peraturan perundang-undangarr diwajibkan menggunakan Surat jalan yang dikeluarkan oleh Pejabat yang berwenang. Hal ini dimaksudkan untuk mencegah diangkutnya Temak curian, Temak yang sakit, atau mencegah timbulrrya penyakit pada Temak lain atau pada manusia yang mengonsumsi daging Temak tersebut.

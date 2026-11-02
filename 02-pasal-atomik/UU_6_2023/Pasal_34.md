@@ -38,3 +38,5 @@ Cukup jelas.
 Ayat (s)
 
 Cukup jelas.
+
+Angka 25

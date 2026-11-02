@@ -4,7 +4,7 @@ judul: "Map of Content - ITE Perubahan Pertama"
 kode_uu: UU_19_2016
 type: moc
 tags: [moc, hukum/siber, uu/uu_19_2016]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # ITE Perubahan Pertama (UU_19_2016)

@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Supervisor pelayanan bantuan sebagaimana dimaksud 
-dalam Pasal 30 huruf e, melekat pada pejabat pengawas 
+dalam
+
+Pasal 30
+huruf e, melekat pada pejabat pengawas 
 yang membidangi tata kelola teknologi informasi dan 
 komunikasi. 
 (2) 

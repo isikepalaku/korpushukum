@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '387'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -27,5 +27,19 @@ b. memakai . . .
 2. (21 Setiap Orang sebagaimana dimaksud pada ayat (1) dapat dijatuhi pidana tambahan berupa pengumuman putusan hakim sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf c.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Penghilangan tanda pada Barang yang ditera dilakukan oleh kantor metrologi dan dengan penghilangan tanda pa.da Barang yang ditera tersebut, tidak dapat dipakai lagr oleh pemiliknya.
+
+Hurufa
+
+Yang dimaksud dengan "tanda batal" adalah tanda yang diberikan kepada Barang yang tidak atau tidak lagi memenuhi syarat untuk dipakai.
+
+Hurufb
+
+Cukup jelas.
+
+Ayat (2)
 
 Cukup jelas.

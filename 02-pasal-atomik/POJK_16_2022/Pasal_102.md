@@ -17,13 +17,25 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-administratif berupa denda sebesar Rp1.000.000,00
-(satu juta rupiah) per hari kerja dan paling banyak
-Rp30.000.000,00 (tiga puluh juta rupiah).
-(3) Dalam hal Bank telah dikenai sanksi administratif
-sebagaimana dimaksud pada ayat (1) dan/atau ayat (2),
-dan tetap melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 74 ayat (2), Pasal 75, Pasal 76 ayat (1),
+(1) Bank dapat melakukan penutupan sementara kantor
+Bank selain KP karena keadaan kahar atau
+pertimbangan lain.
+(2) Bank wajib menginformasikan penutupan sementara
+kantor Bank selain KP sebagaimana dimaksud pada
+ayat (1) kepada OJK paling lambat pada saat
+pelaksanaan penutupan sementara.
+(3) Bank menjamin terselenggaranya pelayanan nasabah
+melalui dukungan jaringan layanan perbankan yang
+dimiliki Bank sehubungan dengan penutupan
+sementara kantor Bank selain KP sebagaimana
+dimaksud pada ayat (1).
+(4) Dalam hal penutupan sementara kantor Bank selain KP
+sebagaimana dimaksud pada ayat (1) akan diselesaikan
+dan akan kembali efektif beroperasi, Bank wajib
+menginformasikan kepada OJK paling lambat pada saat
+tanggal efektif kembali beroperasi.
+(5) Penutupan sementara Kantor di Luar Negeri juga
+mengikuti ketentuan otoritas negara setempat.
 
 ## Penjelasan Resmi
 

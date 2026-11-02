@@ -21,7 +21,9 @@ mengamandemen: []
 
 pemindahan alamat kantor Bank BHI sebagaimana
 
-dimaksud dalam Pasal 77.
+dimaksud dalam
+
+Pasal 77.
 
 (2) Persetujuan atau penolakan sebagaimana dimaksud
 
@@ -29,7 +31,10 @@ pada ayat (1) diberikan dalam jangka waktu 14 (empat
 
 belas) hari kerja sejak dokumen sebagaimana
 
-dimaksud dalam Pasal 77 ayat (3) dan ayat (5) diterima
+dimaksud dalam
+
+Pasal 77
+ayat (3) dan ayat (5) diterima
 
 secara lengkap.
 

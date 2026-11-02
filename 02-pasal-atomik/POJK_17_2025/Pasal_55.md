@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Otoritas Jasa Keuangan membatalkan persetujuan
-sebagaimana dimaksud dalam Pasal 49 ayat (1) huruf
+sebagaimana dimaksud dalam
+
+Pasal 49
+ayat (1) huruf
 a, jika setelah persetujuan diberikan:
 a. diketahui bahwa informasi atau dokumen yang
 disampaikan dalam proses penilaian kemampuan
@@ -29,12 +32,16 @@ yang mengakibatkan Pihak yang telah disetujui
 menjadi tidak memenuhi persyaratan.
 (2) PSP yang dibatalkan persetujuannya sebagaimana
 dimaksud pada ayat (1), terhadap PSP berlaku
-ketentuan sebagaimana dimaksud dalam Pasal 51.
+ketentuan sebagaimana dimaksud dalam
+
+Pasal 51.
 (3) Anggota Direksi atau anggota Dewan Komisaris yang
 dibatalkan persetujuannya sebagaimana dimaksud
 pada ayat (1), terhadap anggota Direksi atau anggota
 Dewan Komisaris berlaku ketentuan sebagaimana
-dimaksud dalam Pasal 52.
+dimaksud dalam
+
+Pasal 52.
 
 Bagian Keenam
 Penilaian Kembali Pihak Utama

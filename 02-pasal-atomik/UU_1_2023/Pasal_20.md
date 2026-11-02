@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '20'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -27,4 +27,22 @@ Setiap Orang dipidana sebagai pelaku Tindak Pidana jika:
 
 ## Penjelasan Resmi
 
+Hurufa
+
 Cukup jelas.
+
+**Huruf b**
+
+Yang dimaksud "dengan perantaraan alat", misalnya remote antrol yang digunakan secara tidak langsung untuk melakukan Tindak Pidana.
+
+Dalam hal menyuruh melakukan, orang yang disr.rruh untuk melakukan Tindak Pidana tidak dipidana karena tidak ada unsur kesalahan.
+
+**Hunrf c**
+
+Yang dimaksud dengan "turut serla melalrukan Tindak Pidana" adalah mereka yang bekerja sarna secara sadar dan bersama-sama secara fisik melakukan Tindak Pidana, tetapi tidak semua orang yang turut serta melakukan Tindak Pidana harus memenuhi semua unsur Tindak Pidana walaupun semua diancam dengan pidana yang sama.
+
+Dalam turut serta melakukan Tindak Pidana, perbuatan masing-masing orang yang turut serta melakukan Tindak Pidana dilihat sebagai satu kesatuan.
+
+**Hurufd**
+
+Yang dimaksud dengan "menggerald&lt;an orang lain supaya melakukan Tindak Pidana", termasuk membujuk, menganjurkan, memancing, atau memikat orang lain dengan cara tertentu.

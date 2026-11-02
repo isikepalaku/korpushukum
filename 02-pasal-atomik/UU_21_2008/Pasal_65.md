@@ -31,6 +31,12 @@ belas) tahun dan pidana denda paling sedikit
 Rp10.000.000.000,00 (sepuluh miliar rupiah) dan paling banyak
 Rp200.000.000.000,00 (dua ratus miliar rupiah).
 
+Pasal 66 . . .
+
+-----
+
+ - 34
+
 ## Penjelasan Resmi
 
 Cukup jelas.

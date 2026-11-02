@@ -31,6 +31,8 @@ wajib mengikuti ketentuan mengenai keterbukaan,
 kewajaran, dan pelaporan yang ditetapkan oleh
 Bapepam.
 
+**Pasal 84…**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -54,6 +54,17 @@ mengamandemen:
 
 -L7 -
 
+**Pasal 51B**
+
+- (1) WIUP Mineral logam dalam rangka hilirisasi dapat diberikan kepada BUMN dan Badan Usaha swasta dengan cara prioritas.
+2. (21 Pemberian dengan cara prioritas sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mempertimbangkan:
+- b. peningkatan tenaga kerja di dalam negeri;
+- a. luas WIUP Mineral logam;
+- c. jumlah investasi; dan/ atau
+- d. peningkatan nilai tambah dan pemenuhan rantai pasok dalam negeri dan/ atau global.
+- (3) Ketentuan lebih lanjut mengenai pemberian WIUP Mineral logam dengan cara prioritas dalam rangka hilirisasi sebagaimana dimaksud pada ayat (1) dan ayat (21 diatur dengan atau berdasarkan Peraturan Pemerintah.
+12. Ketentuan Pasal 60 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

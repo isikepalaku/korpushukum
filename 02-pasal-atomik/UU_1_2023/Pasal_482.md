@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '482'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,4 +25,9 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+Ketentuan ini mengatur Tindak Pidana pemerasan. Paksaan dalam ketentuan ini lebih bersifat paksaan fisik atau lahiriah, antara lain, dengan todongan senjata tajam atau senjata api.
+
+Kekerasan atau Ancaman Kekerasan tidak harus ditujukan pada orang yang diminta untuk memberikan Barang, membuat utang, atau menghapuskan piutang, tetapi dapat juga ditqlukan pada orang lain, misalnya terhadap anak, atau istri atau suami.
+
+Pengertian "memaksa" meliputi pemaksaan yang berhasil (misatnya Barang diserahkan) maupun yang eagal. Dengan demikian, jika pemerasan tidak berhasil atau gagal, pelaku Tindak Pidana tetap dituntut berdasarkan ketentuan ini, bukan dengan ketentuan mengenai percobaan.

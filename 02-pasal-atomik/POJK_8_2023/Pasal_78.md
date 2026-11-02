@@ -18,9 +18,11 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PJK yang terlambat menyampaikan laporan sebagaimana
-dimaksud dalam Pasal 74 ayat (1), ayat (2), ayat (3), ayat
-(5), Pasal 75 ayat (1), ayat (3), Pasal 76 ayat (1), dan Pasal
-77 dikenai:
+dimaksud dalam
+
+Pasal 74
+ayat (1), ayat (2), ayat (3), ayat
+(5), Pasal 75 ayat (1), ayat (3), Pasal 76 ayat (1), dan Pasal 77 dikenai:
 a. sanksi administratif dalam bentuk denda, berupa
 kewajiban membayar sejumlah uang sebesar
 
@@ -69,14 +71,110 @@ paling banyak per tahun Rp12.500.000.000,00 (dua belas
 miliar lima ratus juta rupiah).
 (4) PJK dinyatakan terlambat menyampaikan laporan apabila
 PJK menyampaikan laporan sebagaimana dimaksud
-dalam Pasal 74 ayat (1), ayat (2), ayat (3), Pasal 75 ayat (1),
-ayat (3), Pasal 76 ayat (1), dan Pasal 77 sampai dengan
+dalam Pasal 74 ayat (1), ayat (2), ayat (3),
+
+Pasal 75
+ayat (1),
+ayat (3),
+
+Pasal 76
+ayat (1), dan Pasal 77 sampai dengan
 
 -----
 
 paling lama 30 (tiga puluh) hari kerja sejak batas waktu
-sebagaimana dimaksud dalam Pasal 74 ayat (1), ayat (2),
-ayat (3), Pasal 75 ayat (1), ayat (3), Pasal 76 ayat (1), dan
+sebagaimana dimaksud dalam
+
+Pasal 74
+ayat (1), ayat (2),
+ayat (3),
+
+Pasal 75
+ayat (1), ayat (3), Pasal 76 ayat (1), dan
+Pasal 77.
+(5) PJK dinyatakan tidak menyampaikan laporan
+sebagaimana dimaksud dalam
+
+Pasal 74
+ayat (1), ayat (2),
+ayat (3),
+
+Pasal 75
+ayat (1), ayat (3), Pasal 76 ayat (1), dan
+Pasal 77
+apabila PJK menyampaikan laporan melebihi
+batas waktu sebagaimana dimaksud pada ayat (4).
+(6) PJK yang tidak menyampaikan laporan sebagaimana
+dimaksud pada ayat (5), dikenai:
+a. sanksi administratif dalam bentuk denda, berupa
+kewajiban membayar sejumlah uang, sebesar
+Rp10.000.000,00 (sepuluh juta rupiah) per laporan
+bagi PJK berupa bank umum, termasuk kantor
+cabang dari bank umum yang berkedudukan di luar
+negeri, perusahaan efek, manajer investasi,
+kustodian, wali amanat, perusahaan asuransi, dana
+pensiun lembaga keuangan, perusahaan pembiayaan
+infrastruktur, dan lembaga pembiayaan ekspor
+Indonesia;
+b. sanksi administratif dalam bentuk denda, berupa
+kewajiban membayar sejumlah uang, sebesar
+Rp5.000.000,00 (lima juta rupiah) per laporan bagi
+PJK berupa bank perekonomian rakyat, perusahaan
+pialang asuransi, perusahaan pembiayaan,
+perusahaan modal ventura, perusahaan pergadaian,
+penyelenggara layanan urun dana, penyelenggara
+layanan pendanaan bersama berbasis teknologi
+informasi, dan lembaga jasa keuangan lainnya
+dan/atau pihak yang melakukan kegiatan usaha
+penghimpunan dana, penyaluran dana, pengelolaan
+dana di sektor jasa keuangan, serta yang dinyatakan
+diawasi oleh Otoritas Jasa Keuangan, berdasarkan
+peraturan perundang-undangan; atau
+c. sanksi administratif dalam bentuk peringatan atau
+teguran tertulis yang disertai dengan perintah untuk
+melakukan tindakan tertentu bagi PJK berupa
+lembaga keuangan mikro.
+(7) Pengenaan sanksi administratif dalam bentuk denda
+sebagaimana dimaksud pada ayat (6) huruf a diberikan
+paling banyak 1% (satu persen) dari total laba bersih
+tahun sebelumnya dengan batas paling banyak per tahun
+sebesar Rp50.000.000.000,00 (lima puluh miliar rupiah).
+
+-----
+
+(8) Pengenaan sanksi administratif dalam bentuk denda
+sebagaimana dimaksud pada ayat (6) huruf b diberikan
+paling banyak 0,5% (nol koma lima persen) dari total laba
+bersih tahun sebelumnya dengan batas paling banyak per
+tahun sebesar Rp25.000.000.000,00 (dua puluh lima
+miliar rupiah).
+(9) Pengenaan sanksi sebagaimana dimaksud pada ayat (7)
+dan ayat (8) tidak menghapus kewajiban pelaporan oleh
+PJK.
+(10) Pelaporan yang dilakukan PJK sebagaimana dimaksud
+
+pada ayat (9) wajib disampaikan paling lama 3 (tiga) hari
+kerja setelah pengenaan sanksi.
+(11) Dalam hal PJK tidak menyampaikan laporan dalam waktu
+
+sebagaimana dimaksud pada ayat (10), PJK dikenai sanksi
+administratif berupa:
+a. pembatasan kegiatan usaha tertentu;
+b. penurunan dalam penilaian tingkat kesehatan;
+c. pembekuan kegiatan usaha tertentu; dan/atau
+d. larangan menjadi pihak utama.
+(12) Otoritas Jasa Keuangan dapat mengumumkan pengenaan
+
+sanksi sebagaimana dimaksud pada ayat (1), ayat (6),
+dan/atau ayat (11) kepada masyarakat.
+(13) Dalam hal PJK hanya merupakan salah satu unit/divisi di
+
+dalam PJK lain, perhitungan laba bersih sebagaimana
+dimaksud pada ayat (2), ayat (3), ayat (7), dan ayat (8)
+merupakan laba bersih dari PJK lainnya tersebut.
+
+BAB X
+PERHITUNGAN SANKSI DENDA
 
 ## Penjelasan Resmi
 
@@ -91,11 +189,16 @@ Terdapat temuan Otoritas Jasa Keuangan selama tahun 2023
 atas pelanggaran yang dilakukan oleh salah satu PJK berupa
 bank umum, yaitu berupa keterlambatan menyampaikan 1.000
 (seribu) laporan Transaksi Keuangan Tunai sebagaimana
-dimaksud dalam Pasal 76, dimana seluruh keterlambatan
+dimaksud dalam
+
+Pasal 76, dimana seluruh keterlambatan
 tersebut disampaikan pada 30 (tiga puluh) hari kerja melebihi
 batas waktu yang diatur berdasarkan peraturan perundangundangan mengenai TPPU.
 Dengan menggunakan perhitungan sebagaimana dimaksud
-dalam Pasal 78 ayat (1) huruf a, perhitungan sanksi denda bagi
+dalam
+
+Pasal 78
+ayat (1) huruf a, perhitungan sanksi denda bagi
 PJK tersebut adalah Rp3.000.000,00 (tiga juta rupiah) dikali
 dengan 1.000 (seribu) laporan, yaitu sebesar Rp3.000.000.000,00
 (tiga miliar rupiah).
@@ -114,11 +217,16 @@ atas pelanggaran yang dilakukan oleh salah satu PJK berupa
 
 bank umum, yaitu berupa keterlambatan menyampaikan 1.000
 (seribu) laporan Transaksi Keuangan Tunai sebagaimana
-dimaksud dalam Pasal 76, dimana seluruh keterlambatan
+dimaksud dalam
+
+Pasal 76, dimana seluruh keterlambatan
 tersebut disampaikan pada 30 (tiga puluh) hari kerja melebihi
 batas waktu yang diatur berdasarkan peraturan perundangundangan mengenai TPPU.
 Dengan menggunakan perhitungan sebagaimana dimaksud
-dalam Pasal Pasal 78 ayat (1) huruf a, perhitungan sanksi denda
+dalam Pasal
+
+Pasal 78
+ayat (1) huruf a, perhitungan sanksi denda
 bagi PJK tersebut adalah Rp3.000.000,00 (tiga juta rupiah) dikali
 dengan 1.000 (seribu) laporan, yaitu sebesar Rp3.000.000.000,00
 (tiga miliar rupiah).
@@ -137,11 +245,16 @@ Terdapat temuan Otoritas Jasa Keuangan selama tahun 2023
 atas pelanggaran yang dilakukan oleh salah satu PJK berupa
 bank umum, yaitu berupa keterlambatan menyampaikan 10.000
 (sepuluh ribu) laporan Transaksi Keuangan Tunai sebagaimana
-dimaksud dalam Pasal 76, dimana seluruh keterlambatan
+dimaksud dalam
+
+Pasal 76, dimana seluruh keterlambatan
 tersebut disampaikan pada 30 (tiga puluh) hari kerja melebihi
 batas waktu yang diatur berdasarkan peraturan perundangundangan mengenai TPPU.
 Dengan menggunakan perhitungan sebagaimana dimaksud
-dalam Pasal Pasal 78 ayat (1) huruf a, perhitungan sanksi denda
+dalam Pasal
+
+Pasal 78
+ayat (1) huruf a, perhitungan sanksi denda
 bagi PJK tersebut adalah Rp3.000.000,00 (tiga juta rupiah) dikali
 dengan 10.000 (sepuluh ribu) laporan, yaitu sebesar
 Rp30.000.000.000,00 (tiga puluh miliar rupiah).
@@ -185,7 +298,10 @@ Terdapat temuan Otoritas Jasa Keuangan selama tahun 2023
 atas pelanggaran yang dilakukan oleh salah satu PJK berupa
 bank umum, yaitu berupa tidak disampaikannya 1.000 (seribu)
 laporan Transaksi Keuangan Tunai sebagaimana dimaksud
-dalam Pasal 67 ayat (1) karena 700 (tujuh ratus) laporan tidak
+dalam
+
+Pasal 67
+ayat (1) karena 700 (tujuh ratus) laporan tidak
 disampaikan sama sekali hingga menjadi temuan Otoritas Jasa
 Keuangan dan 300 (tiga ratus) laporan lainnya telah disampaikan
 oleh PJK kepada Pusat Pelaporan dan Analisis Transaksi
@@ -193,7 +309,10 @@ Keuangan namun melebihi 30 (tiga puluh) hari kerja dari batas
 waktu yang diatur berdasarkan peraturan perundang-undangan
 mengenai TPPU.
 Dengan menggunakan perhitungan sebagaimana dimaksud
-dalam Pasal 69 ayat (7) huruf a, perhitungan sanksi denda bagi
+dalam
+
+Pasal 69
+ayat (7) huruf a, perhitungan sanksi denda bagi
 PJK tersebut adalah Rp10.000.000,00 (sepuluh juta rupiah) dikali
 dengan 1.000 (seribu) laporan, yaitu sebesar
 Rp10.000.000.000,00 (sepuluh miliar rupiah).
@@ -212,7 +331,10 @@ bank umum, yaitu berupa tidak disampaikannya 1.000 (seribu)
 -----
 
 laporan Transaksi Keuangan Tunai sebagaimana dimaksud
-dalam Pasal 67 ayat (1) karena 700 (tujuh ratus) laporan tidak
+dalam
+
+Pasal 67
+ayat (1) karena 700 (tujuh ratus) laporan tidak
 disampaikan sama sekali hingga menjadi temuan Otoritas Jasa
 Keuangan dan 300 (tiga ratus) laporan lainnya telah disampaikan
 oleh PJK kepada Pusat Pelaporan dan Analisis Transaksi
@@ -220,7 +342,10 @@ Keuangan namun melebihi 30 (tiga puluh) hari kerja dari batas
 waktu yang diatur berdasarkan peraturan perundang-undangan
 mengenai TPPU.
 Dengan menggunakan perhitungan sebagaimana dimaksud
-dalam Pasal 69 ayat (7) huruf a, perhitungan sanksi denda bagi
+dalam
+
+Pasal 69
+ayat (7) huruf a, perhitungan sanksi denda bagi
 PJK tersebut adalah Rp10.000.000,00 (sepuluh juta rupiah) dikali
 dengan 1.000 (seribu) laporan, yaitu sebesar
 Rp10.000.000.000,00 (sepuluh miliar rupiah).
@@ -239,7 +364,10 @@ Terdapat temuan Otoritas Jasa Keuangan selama tahun 2023
 atas pelanggaran yang dilakukan oleh salah satu PJK berupa
 bank umum, yaitu berupa tidak disampaikannya 10.000 (sepuluh
 ribu) laporan Transaksi Keuangan Tunai sebagaimana dimaksud
-dalam Pasal 67 ayat (1) karena 7.000 (tujuh ribu) laporan tidak
+dalam
+
+Pasal 67
+ayat (1) karena 7.000 (tujuh ribu) laporan tidak
 disampaikan sama sekali hingga menjadi temuan Otoritas Jasa
 Keuangan dan 3.000 (tiga ribu) laporan lainnya telah disampaikan
 oleh PJK kepada Pusat Pelaporan dan Analisis Transaksi
@@ -247,7 +375,10 @@ Keuangan namun melebihi 30 (tiga puluh) hari kerja dari batas
 waktu yang diatur berdasarkan peraturan perundang-undangan
 mengenai TPPU.
 Dengan menggunakan perhitungan sebagaimana dimaksud
-dalam Pasal 69 ayat (7) huruf a, perhitungan sanksi denda bagi
+dalam
+
+Pasal 69
+ayat (7) huruf a, perhitungan sanksi denda bagi
 PJK tersebut adalah Rp10.000.000,00 (sepuluh juta rupiah) dikali
 dengan 10.000 (sepuluh ribu) laporan, yaitu sebesar
 Rp100.000.000.000,00 (seratus miliar rupiah).

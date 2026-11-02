@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Modal Pinjaman KSP/KSPPS sebagaimana dimaksud
-dalam Pasal 63 ayat (1) terdiri atas:
+dalam
+
+Pasal 63
+ayat (1) terdiri atas:
 a. Pinjaman KSP/KSPPS dari bank dan/atau lembaga
 
 keuangan;

@@ -18,9 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BAB XIV
-
-PENGGABUNGAN PERKARA GANTI RUGI
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

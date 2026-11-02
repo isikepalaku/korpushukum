@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '128'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Ketentuan pada ayat ini mengatur perbarengarr perbuatan, narnun ancarnan pidana terhadap perbuatan-perbuatan yang dilatrukan diancam dengan pidana yang tidak sejenis. Dengan ketentuan, jumlah pidana yang dilatuhkan tidak boleh melebihi maksimum ancaman pidana yang terberat ditambah 1/3 (satu per tiga). Jadi ketentuan ini menggunakan sistem lnrmulasi yang diperlunak. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.

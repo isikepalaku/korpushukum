@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai persyaratan memperoleh izin KBIHU, evaluasi, standardisasi bimbingan dan pendampingan, serta akreditasi KBIHU sebagaimana dimaksud dalam Pasal 52, Pasal 53, dan Pasal 54 diatur dalam Peraturan Menteri.
+Ketentuan lebih lanjut mengenai persyaratan memperoleh izin KBIHU, evaluasi, standardisasi bimbingan dan pendampingan, serta akreditasi KBIHU sebagaimana dimaksud dalam
+
+Pasal 52, Pasal 53, dan Pasal 54 diatur dalam Peraturan Menteri.
 
 ## EEEIIiI=N REFUBUK INDONESIA
 

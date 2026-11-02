@@ -18,9 +18,15 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan wajib melaporkan pelaksanaan kewajiban
-sebagaimana dimaksud dalam Pasal 100 paling lambat
+sebagaimana dimaksud dalam
+
+Pasal 100
+paling lambat
 20 (dua puluh) hari kerja setelah batas waktu
-sebagaimana dimaksud dalam Pasal 100 huruf c
+sebagaimana dimaksud dalam
+
+Pasal 100
+huruf c
 berakhir.
 (2) Pelaporan pelaksanaan kewajiban sebagaimana
 dimaksud pada ayat (1) harus dengan melampirkan

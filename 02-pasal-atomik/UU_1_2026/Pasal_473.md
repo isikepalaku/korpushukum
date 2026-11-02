@@ -51,7 +51,10 @@ Cukup jelas. Ayat (s) Cukup jelas. Perbuatan dalam Pasal ini dimaksudkan untuk a
 Cukup jelas.
 
 ```
-Angka 45 Pasal 521 Ayat (1) Yang dimaksud dengan umerusak adalah membuat tidak dapat dipakai untuk sementara waktu, artinya apabila Barang itu diperbaiki mal<a dapat dipakai lagi. Yang dimaksud dengan "menghancurkan' adalah membinasakan atau merusakkan sama sekali sehingga tidak dapat dipakai lagi. Ayat (2) Cukup jelas. Angka 46 Pasal 597 Ayat (1) Yang dimaksud dengan "perbuatan yang menurut hukum yang hidup dalam masyarakat dinyatakan sebagai perbuatan yang dilarang" mengacu pada ketentuan Pasal 2 ayat (1). Ayat (2) Cukup jelas. Angka4T Pasal 599A Cukup jelas. Angka 48 Pasal 605 Cukup jelas. Angka 49 Pasal 606 Cukup jelas. Angka 5O Pasal 6O9 Cukup jelas. Angka 51 Pasal 610
+Angka 45
+
+Pasal 521
+Ayat (1) Yang dimaksud dengan umerusak adalah membuat tidak dapat dipakai untuk sementara waktu, artinya apabila Barang itu diperbaiki mal<a dapat dipakai lagi. Yang dimaksud dengan "menghancurkan' adalah membinasakan atau merusakkan sama sekali sehingga tidak dapat dipakai lagi. Ayat (2) Cukup jelas. Angka 46 Pasal 597 Ayat (1) Yang dimaksud dengan "perbuatan yang menurut hukum yang hidup dalam masyarakat dinyatakan sebagai perbuatan yang dilarang" mengacu pada ketentuan Pasal 2 ayat (1). Ayat (2) Cukup jelas. Angka4T Pasal 599A Cukup jelas. Angka 48 Pasal 605 Cukup jelas. Angka 49 Pasal 606 Cukup jelas. Angka 5O Pasal 6O9 Cukup jelas. Angka 51 Pasal 610
 ```
 
 ```
@@ -59,7 +62,10 @@ Cukup jelas.
 ```
 
 ```
-Angka 52 Pasal 613 Ayat (l) Cukup jelas. Ayat (2) Cukup jelas.
+Angka 52
+
+Pasal 613
+Ayat (l) Cukup jelas. Ayat (2) Cukup jelas.
 ```
 
 Ayat (3)
@@ -67,7 +73,10 @@ Ayat (3)
 Yang dimaksud dengan "Undang-Undang administratif yang bersanksi pidana" antara lain Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum, UndangUndang Nomor 7 Tahun 1992 tentang Perbankan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentalrg Cipta Kerja menjadi Undang-Undang, dan Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi.
 
 ```
-Angka 53 Cukup jelas. Angka 54 Cukup jelas. Angka 55 Pasal 622 Cukup jelas. Pasal VIII Cukup jelas. Pasal IX
+Angka 53 Cukup jelas. Angka 54 Cukup jelas. Angka 55
+
+Pasal 622
+Cukup jelas. Pasal VIII Cukup jelas. Pasal IX
 ```
 
 Cukup jelas.

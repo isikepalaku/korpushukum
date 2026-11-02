@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '512'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,5 +26,19 @@ Pengusaha yang dinyatakan pailit atau yang diizinkan melepaskan harta bendanya b
 - d. tidak memenuhi kewajiban untuk mencatat segala sesuatu sesuai dengan ketentuan peraturan perundang-undangan, menyimpan dan memperlihatkan buku, Surat, dan Surat lainnya sebagaimana dimaksud dalam Pasal 511 huruf c.
 
 ## Penjelasan Resmi
+
+Hurufa
+
+Yang dimaksud dengan "menarik Barang dari harta benda milik perusahaan" adalah setiap perbuatan untuk menempatkan Barang di luar jangkauan kurator sebelum atau pa.da waktu diiatuhkannya kepailitan, termasuk mendiamkan piutang perusahaan.
+
+Huruf b
+
+Cukup jelas.
+
+Hurufc
+
+Cukup jelas.
+
+Hurufd
 
 Cukup jelas.

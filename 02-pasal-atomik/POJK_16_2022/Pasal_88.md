@@ -24,6 +24,11 @@ Rencana Bisnis Bank.
 memenuhi persyaratan dan tata cara sesuai dengan
 pembukaan KC sebagaimana dimaksud dalam Pasal 79,
 
+Pasal 80, dan Pasal 81.
+
+Paragraf 3
+Perubahan Status KC menjadi KCP
+
 ## Penjelasan Resmi
 
 Ayat (1)

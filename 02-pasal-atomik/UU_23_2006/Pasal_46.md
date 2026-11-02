@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
-pencatatan kematian sebagaimana dimaksud dalam Pasal 44
+pencatatan kematian sebagaimana dimaksud dalam
+
+Pasal 44
 dan Pasal 45 diatur dalam Peraturan Presiden.
 Bagian Kedelapan
 Pencatatan Pengangkatan Anak, Pengakuan Anak,

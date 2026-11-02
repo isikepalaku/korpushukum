@@ -21,7 +21,10 @@ mengamandemen: []
 
 penggunaan pihak penyedia jasa TI sebagaimana
 
-dimaksud dalam Pasal 29 ayat (3) huruf a paling
+dimaksud dalam
+
+Pasal 29
+ayat (3) huruf a paling
 
 sedikit:
 
@@ -34,6 +37,163 @@ dibutuhkan.
 (2) Bank dalam melakukan proses pemilihan pihak
 
 penyedia jasa TI sebagaimana dimaksud dalam
+
+Pasal 29
+ayat (3) huruf b paling sedikit
+
+memperhatikan:
+
+a. kualifikasi dan kompetensi pihak penyedia jasa
+
+TI, termasuk sumber daya manusia yang dimiliki;
+
+b. analisis biaya dan manfaat dengan
+
+mengikutsertakan satuan kerja penyelenggara TI
+
+Bank;
+
+c. prinsip kehati-hatian dan manajemen risiko; dan
+
+d. prinsip hubungan kerja sama secara wajar jika
+
+pihak penyedia jasa TI merupakan pihak terkait
+
+dengan Bank.
+
+(3) Bank dalam melakukan hubungan kerja sama dengan
+
+pihak penyedia jasa TI sebagaimana dimaksud dalam
+
+Pasal 29
+ayat (3) huruf c wajib memiliki perjanjian
+
+kerja sama dengan pihak penyedia jasa TI, dengan
+
+memperhatikan paling sedikit:
+
+**t id**
+
+-----
+
+a. kualifikasi dan kompetensi sumber daya manusia
+
+yang dimiliki pihak penyedia jasa TI;
+
+b. komitmen pihak penyedia jasa TI dalam menjaga
+
+kerahasiaan data dan/atau informasi Bank serta
+
+nasabah Bank;
+
+c. komitmen pihak penyedia jasa TI untuk
+
+menyampaikan hasil audit TI secara berkala yang
+
+dilakukan auditor independen atas penyediaan
+
+jasa TI kepada Bank;
+
+d. pengalihan sebagian kegiatan atau subkontrak
+
+oleh pihak penyedia jasa TI dilakukan atas
+
+persetujuan Bank yang dibuktikan dengan
+
+dokumen tertulis;
+
+e. mekanisme pelaporan kejadian kritis oleh pihak
+
+penyedia jasa TI kepada Bank;
+
+f. mekanisme penghentian perjanjian kerja sama
+
+jika terdapat penghentian perjanjian sebelum
+
+jangka waktu perjanjian berakhir;
+
+g. pemenuhan ketentuan peraturan perundang
+undangan atas penyediaan jasa TI oleh pihak
+
+penyedia jasa TI;
+
+h. kesediaan pihak penyedia jasa TI untuk
+
+memenuhi kewajiban dan/atau persyaratan yang
+
+dimuat dalam perjanjian kerja sama; dan
+
+i. kesediaan pihak penyedia jasa TI untuk
+
+memberikan akses kepada Otoritas Jasa
+
+Keuangan dan/atau pihak lain yang berwenang
+
+untuk melakukan pemeriksaan terhadap kegiatan
+
+penyediaan jasa TI yang diberikan sesuai dengan
+
+ketentuan peraturan perundang-undangan.
+
+(4) Proses manajemen risiko penggunaan pihak penyedia
+
+jasa TI sebagaimana dimaksud dalam
+
+Pasal 29
+ayat (3) huruf d meliputi:
+
+a. tanggung jawab Bank atas penerapan manajemen
+
+risiko terkait penggunaan pihak penyedia jasa TI;
+
+b. penyediaan Rencana Pemulihan Bencana yang
+
+teruji dan memadai; dan
+
+**t id**
+
+-----
+
+c. penetapan dan pemantauan atas pemenuhan
+
+persyaratan keamanan data dan/atau informasi
+
+dalam kebijakan dan prosedur intern serta dalam
+
+perjanjian kerja sama.
+
+(5) Bank dalam melakukan penilaian kinerja dan
+
+kepatuhan pihak penyedia jasa TI sebagaimana
+
+dimaksud dalam
+
+Pasal 29
+ayat (3) huruf e
+
+memperhatikan paling sedikit:
+
+a. pemantauan dan evaluasi keandalan pihak
+
+penyedia jasa TI secara berkala terkait kinerja,
+
+reputasi pihak penyedia jasa TI, dan
+
+kelangsungan penyediaan layanan;
+
+b. penerapan pengendalian TI secara memadai oleh
+
+pihak penyedia jasa TI, yang dibuktikan dengan
+
+hasil audit dan/atau penilaian yang dilakukan
+
+oleh pihak independen; dan
+
+c. pemenuhan tingkat layanan sesuai dengan
+
+perjanjian tingkat layanan antara Bank dan pihak
+
+penyedia jasa TI.
 
 ## Penjelasan Resmi
 

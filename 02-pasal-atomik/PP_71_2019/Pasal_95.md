@@ -17,13 +17,20 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Peran Pemerintah untuk melakukan pencegahan penyebarluasan dan penggunaan Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan yang dilarang sesuai dengan ketentuan peraturan perundangundangan sebagaimana dimaksud dalam Pasal 9O huruf c berupa:
+Peran Pemerintah untuk melakukan pencegahan penyebarluasan dan penggunaan Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan yang dilarang sesuai dengan ketentuan peraturan perundangundangan sebagaimana dimaksud dalam
+
+Pasal 90
+huruf c berupa:
 
 - a. pemutusan Akses; dan/ atau
 
 - b. memerintahkan kepada Penyelenggara Sistem Elektronik untuk melakukan pemutusan Akses
 
 terhadap Informasi Elektronik dan/atau Dokumen Elektronik tersebut.
+
+Pasal 96...
+
+FRESIDEN REPUBLIK ]NDONESIA
 
 ## Penjelasan Resmi
 

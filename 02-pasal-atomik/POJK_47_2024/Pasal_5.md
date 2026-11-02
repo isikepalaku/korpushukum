@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Persyaratan Modal Sendiri bagi Koperasi yang memilih
-menjadi LJK sebagaimana dimaksud dalam Pasal 4 ayat
+menjadi LJK sebagaimana dimaksud dalam
+
+Pasal 4
+ayat
 (3) huruf a sebagai berikut:
 a. BPR ditetapkan paling sedikit:
 1. Rp100.000.000.000,00 (seratus miliar

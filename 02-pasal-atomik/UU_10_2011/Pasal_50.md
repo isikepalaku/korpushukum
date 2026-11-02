@@ -19,62 +19,75 @@ mengamandemen:
 
 ## Batang Tubuh
 
-paling singkat 1 (satu) tahun dan paling lama 4
-(empat) tahun, dan denda paling sedikit
-Rp1.000.000.000,00 (satu miliar rupiah) dan paling
-banyak Rp4.000.000.000,00 (empat miliar rupiah).
+(1) Pialang Berjangka wajib mengetahui latar belakang,
 
-(2) Setiap Pihak yang tidak menyampaikan Dokumen
+keadaan keuangan, dan pengetahuan mengenai
+Perdagangan Berjangka dari Nasabahnya.
 
-Keterangan Perusahaan dan Dokumen Pemberitahuan
-Adanya Risiko kepada klien sebelum kedua pihak
-mengikatkan diri dalam suatu perjanjian pemberian
-jasa sebagaimana dimaksud dalam Pasal 53 ayat (2),
-atau tidak memberitahukan kepentingan Penasihat
-Berjangka yang bersangkutan sebagaimana dimaksud
-dalam Pasal 53 ayat (4), dipidana dengan pidana
-penjara paling singkat 1 (satu) tahun dan paling lama
-4 (empat) tahun, dan denda paling sedikit
-Rp1.000.000.000,00 (satu miliar rupiah) dan paling
-banyak Rp4.000.000.000,00 (empat miliar rupiah).
+(1a) Ketentuan mengenai keadaan keuangan dari Nasabah
 
-(3) Setiap Pihak yang tidak menyampaikan Dokumen
+sebagaimana dimaksud pada ayat (1) diatur dengan
+Peraturan Kepala Bappebti.
+
+(2) Pialang Berjangka wajib menyampaikan Dokumen
 
 Keterangan Perusahaan dan Dokumen Pemberitahuan
-Adanya Risiko kepada calon peserta Sentra Dana
-Berjangka sebelum kedua pihak mengikatkan diri
-dalam suatu perjanjian pengelolaan Sentra Dana
-Berjangka sebagaimana dimaksud dalam Pasal 54 ayat
-(2), dipidana dengan pidana penjara paling singkat 1
-(satu) tahun dan paling lama 4 (empat) tahun, dan
-denda paling sedikit Rp1.000.000.000,00 (satu miliar
-rupiah) dan paling banyak Rp4.000.000.000,00 (empat
-miliar rupiah).
+Adanya Risiko serta membuat perjanjian dengan
+Nasabah sebelum Pialang Berjangka yang
+bersangkutan dapat menerima dana milik Nasabah
+untuk perdagangan Kontrak Berjangka, Kontrak
+Derivatif Syariah, dan/atau Kontrak Derivatif lainnya.
 
-(4) Setiap . . .
+(3) Pialang Berjangka dilarang menerima amanat Nasabah
+
+apabila mengetahui Nasabah yang bersangkutan:
+
+a. telah dinyatakan pailit oleh pengadilan;
+
+b. telah dinyatakan melanggar ketentuan UndangUndang ini dan/atau peraturan pelaksanaannya
+oleh badan peradilan atau Bappebti;
+
+c. pejabat atau pegawai:
+
+1. Bappebti, Bursa Berjangka, Lembaga Kliring
+Berjangka; atau
+
+2. bendaharawan lembaga yang melayani
+kepentingan umum, kecuali yang
+bersangkutan mendapat kuasa dari lembaga
+tersebut.
+
+(4) Pialang Berjangka dalam memberikan rekomendasi
+
+kepada Nasabah untuk membeli atau menjual Kontrak
+Berjangka, Kontrak Derivatif Syariah, dan/atau
+Kontrak Derivatif lainnya wajib terlebih dahulu
+memberitahukan apabila ada kepentingan Pialang
+Berjangka yang bersangkutan.
+
+(5) Nasabah . . .
 
 -----
 
- - 33
-(4) Setiap Pihak yang tidak melaporkan kepada Bappebti
+ - 21
+(5) Nasabah dapat melakukan pengisian,
+penandatanganan, dan penyampaian dokumen
+berkaitan dalam kegiatan Perdagangan Berjangka
+pada sistem elektronik Pialang Berjangka, sesuai
+dengan ketentuan Peraturan Perundang-undangan
+yang mengatur mengenai informasi dan transaksi
+elektronik.
 
-melalui Bursa Berjangka posisi terbuka Kontrak
-Berjangka yang dimilikinya apabila mencapai batas
-tertentu yang ditetapkan oleh Bappebti sebagaimana
-dimaksud dalam Pasal 59, dipidana dengan pidana
-penjara paling singkat 1 (satu) tahun dan paling lama
-4 (empat) tahun, dan denda paling sedikit
-Rp1.000.000.000,00 (satu miliar rupiah) dan paling
-banyak Rp4.000.000.000,00 (empat miliar rupiah).
+(6) Ketentuan lebih lanjut mengenai pengisian,
+penandatanganan, dan penyampaian dokumen
+berkaitan dengan Perdagangan Berjangka pada sistem
+elektronik sebagaimana dimaksud pada ayat (2), ayat
+(4), dan ayat (5) diatur dengan Peraturan Kepala
+Bappebti.
 
-(5) Setiap Pihak yang tidak menyampaikan laporan
-
-sebagaimana dimaksud dalam Pasal 63 ayat (2),
-dipidana dengan pidana penjara paling singkat 1 (satu)
-tahun dan paling lama 4 (empat) tahun, dan denda
-paling sedikit Rp1.000.000.000,00 (satu miliar rupiah)
-dan paling banyak Rp4.000.000.000,00 (empat miliar
-rupiah).
+25. Ketentuan Pasal 51 ayat (1) dan ayat (5) diubah sehingga
+Pasal 51
+berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -153,3 +166,5 @@ Cukup jelas.
 Ayat (6)
 
 Cukup jelas.
+
+Angka 25

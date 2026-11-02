@@ -19,6 +19,10 @@ mengamandemen: []
 
 Pengendali Data Pribadi harus melakukan penilaian atas kebutuhan transfer Data Pribadi dan dampak transfer Data Pribadi terhadap hak Subjek Data Pribadi melalui penilaian atas risiko transfer Data Pribadi
 
+Pasal 164... ,
+
+-~ 85 -
+
 ## Penjelasan Resmi
 
 Cukup jelas.

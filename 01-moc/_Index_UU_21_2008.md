@@ -4,7 +4,7 @@ judul: "Map of Content - Perbankan Syariah"
 kode_uu: UU_21_2008
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_21_2008]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Perbankan Syariah (UU_21_2008)
@@ -21,7 +21,7 @@ last_updated: 2026-11-01
 - [[Pasal_6]]: (1) Pembukaan Kantor Cabang Bank Syariah dan UUS hanya
 - [[Pasal_7]]: Bentuk badan hukum Bank Syariah adalah perseroan terbatas.
 - [[Pasal_8]]: Di dalam anggaran dasar Bank Syariah selain memenuhi
-- [[Pasal_9]]: 
+- [[Pasal_9]]: (1) Bank Umum Syariah hanya dapat didirikan dan/atau
 - [[Pasal_10]]: Ketentuan lebih lanjut mengenai perizinan, bentuk badan
 - [[Pasal_11]]: Besarnya modal disetor minimum untuk mendirikan Bank
 - [[Pasal_12]]: Saham Bank Syariah hanya dapat diterbitkan dalam bentuk
@@ -32,7 +32,7 @@ last_updated: 2026-11-01
 - [[Pasal_17]]: (1) Penggabungan, Peleburan, dan Pengambilalihan Bank
 - [[Pasal_18]]: Bank Syariah terdiri atas Bank Umum Syariah dan Bank
 - [[Pasal_19]]: (1) Kegiatan usaha Bank Umum Syariah meliputi:
-- [[Pasal_20]]: wajib tunduk kepada Prinsip Syariah.
+- [[Pasal_20]]: (1) Selain melakukan kegiatan usaha sebagaimana dimaksud
 - [[Pasal_21]]: Kegiatan usaha Bank Pembiayaan Rakyat Syariah meliputi:
 - [[Pasal_22]]: Setiap pihak dilarang melakukan kegiatan penghimpunan dana
 - [[Pasal_23]]: (1) Bank Syariah dan/atau UUS harus mempunyai keyakinan
@@ -64,7 +64,7 @@ last_updated: 2026-11-01
 - [[Pasal_49]]: Pihak yang merasa dirugikan oleh keterangan yang diberikan oleh
 - [[Pasal_50]]: Pembinaan dan pengawasan Bank Syariah dan UUS dilakukan
 - [[Pasal_51]]: (1) Bank Syariah dan UUS wajib memelihara tingkat kesehatan
-- [[Pasal_52]]: (2) Persyaratan dan tata cara pemeriksaan sebagaimana
+- [[Pasal_52]]: (1) Bank Syariah dan UUS wajib menyampaikan segala
 - [[Pasal_53]]: (1) Bank Indonesia dapat menugasi kantor akuntan publik atau
 - [[Pasal_54]]: (1) Dalam hal Bank Syariah mengalami kesulitan yang
 - [[Pasal_55]]: (1) Penyelesaian sengketa Perbankan Syariah dilakukan oleh

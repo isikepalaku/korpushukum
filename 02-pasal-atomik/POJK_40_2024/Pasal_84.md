@@ -17,16 +17,40 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-c. pengurus Asosiasi merupakan anggota Direksi
-dan/atau anggota Dewan Komisaris sebagaimana
-dimaksud dalam Pasal 86 ayat (1),
-mulai berlaku 1 (satu) tahun sejak Peraturan Otoritas
-Jasa Keuangan ini diundangkan.
-(3) Bagi Asosiasi yang telah ditunjuk secara resmi oleh
-Otoritas Jasa Keuangan, ketentuan mengenai
-penyampaian laporan tahunan Asosiasi sebagaimana
-dimaksud dalam Pasal 85 mulai berlaku atas laporan
-tahunan Asosiasi tahun 2027.
+(1) Asosiasi berperan membangun pengawasan berbasis
+disiplin pasar untuk penguatan dan/atau penyehatan
+Penyelenggara serta membantu mengelola pengaduan
+konsumen/masyarakat.
+(2) Asosiasi mempunyai tugas paling sedikit:
+a. mengoordinasikan dan menetapkan pedoman
+perilaku;
+b. mengkoordinasikan masukan dari industri dalam
+penyusunan kebijakan dan pengembangan
+industri;
+
+-----
+
+c. mengadakan pendidikan dan pelatihan yang
+berkelanjutan; dan
+d. tugas lainnya sesuai dengan penugasan Otoritas
+Jasa Keuangan.
+(3) Dalam menjalankan peran sebagaimana dimaksud
+pada ayat (1) dan tugas sebagaimana dimaksud pada
+ayat (2), Asosiasi wajib memiliki dan menegakkan kode
+etik dan pedoman perilaku.
+(4) Penyelenggara wajib tunduk pada kode etik dan
+pedoman perilaku sebagaimana dimaksud pada ayat
+(3).
+(5) Asosiasi wajib memiliki fungsi komite etik dalam
+struktur organisasi.
+(6) Penyelenggara wajib tunduk pada kode etik dan
+pedoman perilaku yang ditetapkan oleh Asosiasi
+sebagaimana dimaksud pada ayat (2).
+(7) Otoritas Jasa Keuangan berwenang untuk meminta
+Asosiasi mengambil tindakan tertentu untuk
+memastikan terlaksananya peran Asosiasi
+sebagaimana dimaksud pada ayat (1) dan tugas
+sebagaimana dimaksud pada ayat (2).
 
 ## Penjelasan Resmi
 

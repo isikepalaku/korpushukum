@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan persetujuan sebagaimana
-dimaksud dalam Pasal 23 ayat (2) paling lambat 20 (dua
+dimaksud dalam
+
+Pasal 23
+ayat (2) paling lambat 20 (dua
 puluh) hari kerja sejak permohonan persetujuan dan
 dokumen diterima secara lengkap.
 (2) Dalam memberikan persetujuan atau penolakan
@@ -35,7 +38,10 @@ Komisaris, calon PSP, dan calon anggota DPS; dan
 e. analisis pemenuhan ketentuan peraturan
 perundang-undangan.
 (3) Dalam hal terdapat kekurangan dokumen sebagaimana
-yang dimaksud dalam Pasal 23 ayat (2), Otoritas Jasa
+yang dimaksud dalam
+
+Pasal 23
+ayat (2), Otoritas Jasa
 
 -----
 

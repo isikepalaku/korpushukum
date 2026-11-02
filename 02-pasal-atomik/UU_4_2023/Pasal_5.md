@@ -22,6 +22,7 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_24_2002/Pasal_5|UU 24/2002 Pasal 5]]'
 - '[[02-pasal-atomik/UU_24_2004/Pasal_5|UU 24/2004 Pasal 5]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_5|UU 25/1992 Pasal 5]]'
+- '[[02-pasal-atomik/UU_3_2004/Pasal_5|UU 3/2004 Pasal 5]]'
 - '[[02-pasal-atomik/UU_32_1997/Pasal_5|UU 32/1997 Pasal 5]]'
 - '[[02-pasal-atomik/UU_40_2004/Pasal_5|UU 40/2004 Pasal 5]]'
 - '[[02-pasal-atomik/UU_40_2014/Pasal_5|UU 40/2014 Pasal 5]]'

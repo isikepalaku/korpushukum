@@ -25,6 +25,10 @@ Pelaku Usaha Dalam Negeri berbentuk:
 
 - c. Penyelenggara Sarana Perantara dalam negeri berbentuk orang perseorangan atau badan usaha.
 
+Pasal 7...
+
+PRESIDEN REPUBLIK INDONESIA -7 -
+
 ## Penjelasan Resmi
 
 Cukup jelas.

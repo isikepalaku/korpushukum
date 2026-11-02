@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '268'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,6 @@ Setiap Orang yang merintangi, menghalang-halangi, atau mengganggu jalan Masuk ke
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Upacara pemakaman jenazah meliputi upacara yang dilakukan pa.da waktu jenazah masih di rumah duka, dalam perjalanan ke pemakaman, maupun di tempat pemakaman.
+
+Yang dimaksud dengan "pemakaman" termasuk serangkaian upacara adat atau keagamaan.

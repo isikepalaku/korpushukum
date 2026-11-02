@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal perbuatan sebagaimana dimaksud dalam Pasal 486 dilakukan oleh orang yang penguasaannya terhadap Barang tersebut karena ada hubungan kerja, karena profesinya, atau karena mendapat upah untuk penguasaan Barang tersebut, dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V.
+Dalam hal perbuatan sebagaimana dimaksud dalam
+
+Pasal 486
+dilakukan oleh orang yang penguasaannya terhadap Barang tersebut karena ada hubungan kerja, karena profesinya, atau karena mendapat upah untuk penguasaan Barang tersebut, dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V.
 
 ## Penjelasan Resmi
 

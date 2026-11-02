@@ -4,14 +4,13 @@ uu_induk: Cipta Kerja
 kode_uu: UU_6_2023
 pasal: '72'
 status: BERLAKU_AKTIF
-substantive_explanation: true
+substantive_explanation: false
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
 status_berlaku: diubah
 diamandemen_oleh:
 - '[[02-pasal-atomik/UU_3_2024/Pasal_72|UU 3/2024 Pasal 72]]'
-- '[[02-pasal-atomik/UU_63_2024/Pasal_72|UU 63/2024 Pasal 72]]'
 mengamandemen: []
 ---
 
@@ -23,6 +22,6 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dihapus.
 
-**Angka 18**
+Angka 36

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pada saat BP BUMN dibentuk, Pasal 5 ayat (3) UndangUndang Nomor 39 Tahun 2O08 tentang Kementerian Negara sebagaimana telah diubah dengan UndangUndang Nomor 6l Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2OOa tentang Kementerian Negara yang mengatur mengenai urusan pemerintahan dalam rangka penajaman, koordinasi, dan sinkronisasi program pemerintah di bidang BUMN dicabut dan dinyatakan tidak berlaku.
+Pada saat BP BUMN dibentuk,
+
+Pasal 5
+ayat (3) UndangUndang Nomor 39 Tahun 2O08 tentang Kementerian Negara sebagaimana telah diubah dengan UndangUndang Nomor 6l Tahun 2024 tentang Perubahan atas Undang-Undang Nomor 39 Tahun 2OOa tentang Kementerian Negara yang mengatur mengenai urusan pemerintahan dalam rangka penajaman, koordinasi, dan sinkronisasi program pemerintah di bidang BUMN dicabut dan dinyatakan tidak berlaku.
 
 ## BUK INDONESIA
 

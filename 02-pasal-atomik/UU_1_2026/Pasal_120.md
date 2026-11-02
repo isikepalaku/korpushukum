@@ -11,6 +11,7 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
+- '[[02-pasal-atomik/UU_1_2023/Pasal_120|UU 1/2023 Pasal 120]]'
 - '[[02-pasal-atomik/UU_6_2023/Pasal_120|UU 6/2023 Pasal 120]]'
 ---
 

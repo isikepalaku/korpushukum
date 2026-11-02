@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal dugaan terjadinya pelanggaran Pelindungan Data Pribadi berasal dari hasil pengawasan Pelindungan Data Pribadi sebagaimana dimaksud dalam Pasal 189 ayat (1) huruf b, Lembaga menindaklanjuti dengan melakukan pemeriksaan dan penelustran,
+Dalam hal dugaan terjadinya pelanggaran Pelindungan Data Pribadi berasal dari hasil pengawasan Pelindungan Data Pribadi sebagaimana dimaksud dalam
+
+Pasal 189
+ayat (1) huruf b, Lembaga menindaklanjuti dengan melakukan pemeriksaan dan penelustran,
 
 **Paragral4**
 

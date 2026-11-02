@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal Pelapor tidak dapat menyelesaikan pengaduan mengenai ketidakakuratan Informasi Debitur sebagaimana dimaksud dalam Pasal 24 ayat (1) dan ayat (2), Debitur dapat melakukan upaya penyelesaian pengaduan melalui OJK atau Lembaga Alternatif Penyelesaian Sengketa (LAPS).
+Dalam hal Pelapor tidak dapat menyelesaikan pengaduan mengenai ketidakakuratan Informasi Debitur sebagaimana dimaksud dalam
+
+Pasal 24
+ayat (1) dan ayat (2), Debitur dapat melakukan upaya penyelesaian pengaduan melalui OJK atau Lembaga Alternatif Penyelesaian Sengketa (LAPS).
 
 ## Penjelasan Resmi
 

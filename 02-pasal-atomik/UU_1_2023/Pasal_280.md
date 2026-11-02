@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '280'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -28,5 +28,31 @@ mengamandemen: []
 - (3) Pengaduan sebagaimana dimaksud pada ayat (1) dapat dilakukan secara tertulis oleh hakim.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Hurufa
+
+Yang dimaksud dengan "tidak mematuhi perintah pengadilan yang dikeluarkan untuk proses peradilan" adalah melakukan hal-hal untuk menentang perintah tersebut dengan cara yang tidak dibenarkan oleh hukum.
+
+**Huruf b**
+
+Yang dimaksud dengan "bersikap tidak hormaf adalah bertingkah laku, bertutur kata, atau mengeluarkan pemyataan yang merendahkan martabat aparat penegak hukum, petugas pengadilan, atau persidangan, atau tidak menaati tata tertib pengadilan.
+
+**Hurufc**
+
+Yang dimaksud dengan "menyerang integritas" termasuk menuduh hakim bersikap memihak atau tidak jujur.
+
+**Hurufd**
+
+Yang dimaksud dengan "memublikasikan proses persidangan secara langsung" yarfi, \ilrc sbeaming.
+
+Tidak mengurangi kebebasan jumalis atau wartawan untuk menulis berita dan memublikasikannya setelah sidang pengadilan.
+
+Ayat(21
+
+Cukup jelas.
+
+Ayat (3)
 
 Cukup jelas.

@@ -18,23 +18,36 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Selain kelengkapan dokumen sebagaimana dimaksud
-dalam Pasal 36, Perusahaan Asuransi atau
+dalam
+
+Pasal 36, Perusahaan Asuransi atau
 Perusahaan Asuransi Syariah harus melampirkan
 dokumen perjanjian tertulis sebagaimana dimaksud
-dalam Pasal 6 ayat (1) dan ayat (2) jika Produk
+dalam
+
+Pasal 6
+ayat (1) dan ayat (2) jika Produk
 Asuransi Bersama merupakan Produk Asuransi baru
 yang tidak pernah dipasarkan oleh Perusahaan
 Asuransi atau Perusahaan Asuransi Syariah
-sebagaimana dimaksud dalam Pasal 32 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (2)
 huruf a.
 (2) Selain kelengkapan dokumen sebagaimana dimaksud
-dalam Pasal 36, Perusahaan Asuransi atau Perusahaan
+dalam
+
+Pasal 36, Perusahaan Asuransi atau Perusahaan
 Asuransi Syariah harus melampirkan surat
 persetujuan Produk Asuransi Bersama yang
 terdahulu jika Produk Asuransi Bersama merupakan
 Produk Asuransi baru yang merupakan pengembangan
 atas Produk Asuransi yang telah dipasarkan
-sebagaimana dimaksud dalam Pasal 32 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (2)
 huruf b.
 
 ## Penjelasan Resmi

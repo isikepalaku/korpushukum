@@ -19,7 +19,29 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Manfaat jaminan kecelakaan kerja sebagaimana dimaksud dalam Pasal 31 ayat (1) diberikan pada fasilitas kesehatan milik Pemerintah atau
 
+ swasta yang memenuhi syarat dan menjalin kerja sama dengan Badan
+
+ Penyelenggara Jaminan Sosial.
+
+ (2) Dalam keadaan darurat, pelayanan sebagaimana dimaksud pada ayat
+
+ (1) dapat diberikan pada fasilitas kesehatan yang tidak menjalin kerja
+
+ sama dengan Badan Penyelenggara Jaminan Sosial.
+
+ (3) Dalam hal kecelakaan kerja terjadi di suatu daerah yang belum tersedia
+
+ fasilitas kesehatan yang memenuhi syarat, maka guna memenuhi
+
+ kebutuhan medis bagi peserta, Badan Penyelenggara Jaminan Sosial wajib
+
+ memberikan kompensasi.
+
+ (4) Dalam hal peserta membutuhkan rawat inap di rumah sakit, maka kelas
+
+ perawatan di rumah sakit diberikan kelas standar.
 
 ## Penjelasan Resmi
 

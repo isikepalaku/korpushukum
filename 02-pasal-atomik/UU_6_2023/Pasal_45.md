@@ -27,5 +27,8 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Dihapus. Angka 36 Pasal 47 Angka 37 Pasal 48 Cukup jelas. Pasal 151 Cukup jelas. Pasal 152 Angka I Pasal 6 Cukup jelas. Angka 2 Pasal 7 Cukup jelas. Angka 3 Pasal 10 Cukup jelas. Angka 4 Pasal 1 1 Cukup jelas.
+Dihapus. Angka 36
+
+Pasal 47
+Angka 37 Pasal 48 Cukup jelas. Pasal 151 Cukup jelas. Pasal 152 Angka I Pasal 6 Cukup jelas. Angka 2 Pasal 7 Cukup jelas. Angka 3 Pasal 10 Cukup jelas. Angka 4 Pasal 1 1 Cukup jelas.
 ```

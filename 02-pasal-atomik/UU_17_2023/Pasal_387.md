@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Sumber daya manusia s6lagaimana dimaksud dalam Pasal 386 huruf a merupakan Tenaga Medis, Tenaga Kesehatan, dan tenaga pendukung atau penunjang kesehatan sesuai dengan kebutuhan.
+Sumber daya manusia s6lagaimana dimaksud dalam
+
+Pasal 386
+huruf a merupakan Tenaga Medis, Tenaga Kesehatan, dan tenaga pendukung atau penunjang kesehatan sesuai dengan kebutuhan.
 
 ## Penjelasan Resmi
 

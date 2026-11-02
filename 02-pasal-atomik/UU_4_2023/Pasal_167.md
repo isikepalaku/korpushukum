@@ -27,13 +27,19 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 16B Cukup jelas. Pasal 169 Ayat (1) Cukup jelas. Ayat (2) Huruf a Huruf b Angka 1 Angka 2 Angka 3 Angka 4 Huruf c Cukup jelas.
+Cukup jelas.
+
+Pasal 168
+Cukup jelas. Pasal 169 Ayat (1) Cukup jelas. Ayat (2) Huruf a Huruf b Angka 1 Angka 2 Angka 3 Angka 4 Huruf c Cukup jelas.
 ```
 
 Huruf d ...
 
 ```
-Huruf d Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Ketentuan ini dimaksudkan bagi aset Dana Pensiun Pemberi Kerja yang dialihkan pengelolaannya kepada lembaga keuangan. Ayat (6) Cukup jelas. Pasal 170 Cukup jelas. Pasal 171 Cukup jelas. Pasal 172 Cukup jelas. Pasal 173 Cukup jelas. Pasal 174 Cukup jelas. Pasal 175 Cukup jelas. Pasal 176 Cukup jelas. Pasal 177 Ayat (1) Yang dimaksud dengan "menonaktifkan" adalah memberhentikan anggota Pengurus, anggota Dewan Pengawas, dan/ atau anggota Dewan Pengawas Syariah untuk sementara waktu dalam melaksanakan tugas, fungsi, dan wewenangnya. Ayat (2) Cukup jelas.
+Huruf d Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Ketentuan ini dimaksudkan bagi aset Dana Pensiun Pemberi Kerja yang dialihkan pengelolaannya kepada lembaga keuangan. Ayat (6) Cukup jelas.
+
+Pasal 170
+Cukup jelas. Pasal 171 Cukup jelas. Pasal 172 Cukup jelas. Pasal 173 Cukup jelas. Pasal 174 Cukup jelas. Pasal 175 Cukup jelas. Pasal 176 Cukup jelas. Pasal 177 Ayat (1) Yang dimaksud dengan "menonaktifkan" adalah memberhentikan anggota Pengurus, anggota Dewan Pengawas, dan/ atau anggota Dewan Pengawas Syariah untuk sementara waktu dalam melaksanakan tugas, fungsi, dan wewenangnya. Ayat (2) Cukup jelas.
 ```
 
 Ayat (3) ...

@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) Berdasarkan permohonan sebagaimana dimaksud
 
-dalam Pasal 127, OJK menerbitkan persetujuan
+dalam
+
+Pasal 127, OJK menerbitkan persetujuan
 
 persiapan pencabutan izin usaha Bank BHI atau
 
@@ -55,7 +57,10 @@ c. segera menyelesaikan seluruh hak dan kewajiban
 
 Bank BHI atau KCBLN sesuai jadwal penyelesaian
 
-sebagaimana dimaksud dalam Pasal 127 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 127
+ayat (1)
 
 huruf c; dan
 

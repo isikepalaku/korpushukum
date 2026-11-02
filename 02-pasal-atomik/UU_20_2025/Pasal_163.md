@@ -23,7 +23,9 @@ mengamandemen: []
 **berikut:**
  a. dalam [jangka ]waktu 3 (tiga) Hari terhitung sejak
  permintaan diterima, Hakim yang ditunjuk menetapkan hari sidang; b. dalam memeriksa dan memutus permohonan
- sebagaimana dimaksud dalam Pasal 16O sampai dengan Pasal 162, Hakim mendengar keterangan baik dari Tersangka atau Advokatnya, Keluarga Tersangka, pihak yang berkepentingan, Penyidik, atau Penuntut Umum; c. pemeriksaan sebagaimana dimaksud dalam huruf
+ sebagaimana dimaksud dalam Pasal 16O sampai dengan
+
+Pasal 162, Hakim mendengar keterangan baik dari Tersangka atau Advokatnya, Keluarga Tersangka, pihak yang berkepentingan, Penyidik, atau Penuntut Umum; c. pemeriksaan sebagaimana dimaksud dalam huruf
  b dilakukan secara cepat dan dalam jangka waktu paling lama 7 (tqiuh) Hari terhitung sejak permohonan dibacakan, Hakim harus sudah menjatuhkan putusannya; d. dalam keadaan termohon tidak hadir sebanyak 2
  (dua) kali persidangan, pemeriksaan Praperadilan
 **tetap dilanjutkan dan termohon dianggap**
@@ -47,7 +49,9 @@ Pengadilan; dan
 **g. putusan Praperadilan pada tahap Penyidikan tetap**
 **dapat dilakukan pemeriksaan Praperadilan**
 **kembali pada tahap pemeriksaan oleh Penuntut Umum dengan permintaan baru. (21 Putusan Hakim dalam acara pemeriksaan**
- Praperadilan mengenai permohonan sebagaimana dimaksud dalam Pasal 160 sampai dengan Pasal 162, harus memuat dengan jelas dasar dan alasannya.
+ Praperadilan mengenai permohonan sebagaimana dimaksud dalam Pasal 160 sampai dengan
+
+Pasal 162, harus memuat dengan jelas dasar dan alasannya.
 **(3) Isi putusan selain memuat ketentuan sebagaimana**
 
 **dimaksud pada ayat (2) juga memuat hal sebagai berikut: a. dalam hal putusan menetapkan bahwa Penetapan**
@@ -84,7 +88,9 @@ INDONESIA
 **disita ada yang tidak termasuk alat pembuktian, dalam putusan dicantumkan bahwa benda tersebut harus segera dikembalikan kepada Tersangka atau dari siapa benda itu disita.**
 **(4) Ganti Rugi dapat diajukan terhadap ketentuan**
 
-sebagaimana dimaksud dalam Pasal 158.
+sebagaimana dimaksud dalam
+
+Pasal 158.
 
 ## Penjelasan Resmi
 

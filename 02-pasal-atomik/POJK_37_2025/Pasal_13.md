@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan menyampaikan surat
 pemberitahuan penetapan status pengawasan PPDP
-sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf b
+sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (2) huruf b
 dan huruf c kepada Direksi dan Dewan Komisaris,
 dengan disertai:
 a. alasan penetapan status pengawasan; dan

@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pencatatan perkawinan sebagaimana dimaksud dalam Pasal 34
+Pencatatan perkawinan sebagaimana dimaksud dalam
+
+Pasal 34
 berlaku pula bagi:
 a. perkawinan yang ditetapkan oleh Pengadilan; dan
 b. perkawinan

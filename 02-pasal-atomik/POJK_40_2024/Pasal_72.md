@@ -17,7 +17,24 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+(1) Penyelenggara:
+a. yang menerima Penggabungan; atau
+b. hasil Peleburan,
+wajib melaporkan pelaksanaan RUPS yang menyetujui
+Penggabungan atau Peleburan kepada Otoritas Jasa
+Keuangan paling lambat 15 (lima belas) hari kerja
+terhitung sejak tanggal RUPS.
+(2) Pelaporan pelaksanaan RUPS yang menyetujui
+Penggabungan atau Peleburan sebagaimana dimaksud
+pada ayat (1), harus disampaikan oleh Direksi kepada
+Otoritas Jasa Keuangan melampirkan dokumen
+pelaporan pelaksanaan RUPS yang menyetujui
+Penggabungan atau Peleburan tercantum dalam
+Lampiran pada tabel 22 yang merupakan bagian tidak
+terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
+(3) Penyelenggara wajib mengumumkan Penggabungan
+atau Peleburan kepada masyarakat paling lambat 5
+(lima) hari kerja setelah keputusan RUPS.
 
 ## Penjelasan Resmi
 

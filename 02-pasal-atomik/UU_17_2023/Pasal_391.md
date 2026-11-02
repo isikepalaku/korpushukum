@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Perbekalan Kesehatan sebagaimana dimaksud dalam Pasal 386 huruf d meliputi Alat Kesehatan, Obat, vaksin, bahan medis habis pakai, dan bahan/ alat pendukung lainnya yang diperlukan dalam menyelenggarakan kegiatan kewaspadaan KLB dan Wabah, penanggulangan KLB dan Wabah, serta pasca-KlB dan pasca-Wabah.
+Perbekalan Kesehatan sebagaimana dimaksud dalam
+
+Pasal 386
+huruf d meliputi Alat Kesehatan, Obat, vaksin, bahan medis habis pakai, dan bahan/ alat pendukung lainnya yang diperlukan dalam menyelenggarakan kegiatan kewaspadaan KLB dan Wabah, penanggulangan KLB dan Wabah, serta pasca-KlB dan pasca-Wabah.
 
 ## Bagran Ketqluh
 

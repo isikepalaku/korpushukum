@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan persetujuan penutupan
-UUS sebagaimana dimaksud dalam Pasal 44 ayat (5)
+UUS sebagaimana dimaksud dalam
+
+Pasal 44
+ayat (5)
 dalam jangka waktu paling lama 20 (dua puluh) hari
 kerja sejak permohonan persetujuan penutupan UUS
 diterima secara lengkap.
@@ -27,12 +30,18 @@ diterima secara lengkap.
 penutupan UUS sebagaimana dimaksud pada ayat (1),
 Otoritas Jasa Keuangan melakukan:
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 44 ayat (5);
+sebagaimana dimaksud dalam
+
+Pasal 44
+ayat (5);
 dan
 b. analisis pemenuhan ketentuan peraturan
 perundang-undangan di bidang LPBBTI.
 (3) Dalam hal terdapat kekurangan dokumen sebagaimana
-yang dimaksud dalam Pasal 44 ayat (5), Otoritas Jasa
+yang dimaksud dalam
+
+Pasal 44
+ayat (5), Otoritas Jasa
 Keuangan menyampaikan permintaan kelengkapan
 dokumen kepada Penyelenggara.
 (4) Penyelenggara harus menyampaikan kelengkapan

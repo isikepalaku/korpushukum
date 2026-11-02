@@ -18,11 +18,17 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Unit kerja khusus dan/atau pejabat yang ditunjuk
-sebagaimana dimaksud dalam Pasal 10 ayat (2) ditetapkan
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (2) ditetapkan
 sebagai bagian dari struktur organisasi PJK dan
 bertanggung jawab kepada Direksi.
 (2) Penanggung jawab penerapan program APU, PPT, dan
-PPPSPM sebagaimana dimaksud dalam Pasal 10 ayat (2)
+PPPSPM sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (2)
 bagi bank, perusahaan efek, manajer investasi,
 perusahaan asuransi, perusahaan pembiayaan
 infrastruktur, lembaga pembiayaan ekspor Indonesia, dan
@@ -30,7 +36,10 @@ penyelenggara layanan pendanaan bersama berbasis
 teknologi informasi berada di bawah salah satu anggota
 Direksi yang membawahkan fungsi kepatuhan.
 (3) Penanggung jawab penerapan program APU, PPT, dan
-PPPSPM sebagaimana dimaksud dalam Pasal 10 ayat (2)
+PPPSPM sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (2)
 bagi penyelenggara layanan urun dana, perusahaan
 pialang asuransi, dana pensiun lembaga keuangan,
 perusahaan pembiayaan, perusahaan modal ventura,

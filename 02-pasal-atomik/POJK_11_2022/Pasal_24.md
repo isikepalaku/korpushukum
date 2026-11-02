@@ -17,17 +17,26 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-c. pengujian keamanan siber berdasarkan skenario
+(1) Pengujian keamanan siber berdasarkan analisis
 
-sebagaimana dimaksud dalam Pasal 25; dan
+kerentanan sebagaimana dimaksud dalam
 
-d. penilaian sendiri atas tingkat maturitas digital Bank
+Pasal 23
+huruf a wajib dilaksanakan secara berkala.
 
-sebagaimana dimaksud dalam Pasal 66,
+(2) Bank wajib menyampaikan hasil pengujian keamanan
 
-untuk pertama kali setelah ditetapkan oleh Otoritas Jasa
+siber berdasarkan analisis kerentanan sebagaimana
 
-Keuangan.
+dimaksud pada ayat (1) kepada Otoritas Jasa
+
+**t id**
+
+-----
+
+Keuangan sebagai bagian dari laporan kondisi terkini
+
+penyelenggaraan TI Bank.
 
 ## Penjelasan Resmi
 

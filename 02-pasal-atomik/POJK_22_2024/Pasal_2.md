@@ -17,35 +17,40 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-lambat:
-1. 10 (sepuluh) hari kerja setelah berakhirnya
-bulan bersangkutan untuk ringkasan laporan
-bulanan; dan
-2. 1 (satu) bulan setelah batas waktu
-penyampaian Laporan Tahunan untuk
-ringkasan laporan keuangan tahunan yang
-telah diaudit; dan
+(1) Perusahaan Perasuransian wajib menyusun dan
+menyampaikan Laporan Berkala secara lengkap,
+akurat, dan tepat waktu.
+(2) Laporan Berkala sebagaimana dimaksud pada ayat (1)
+terdiri atas:
+a. Laporan Bulanan;
+b. Laporan Triwulanan;
+c. Laporan Tahunan;
+d. Laporan Publikasi; dan
+e. Laporan Lain.
+(3) Laporan Berkala sebagaimana dimaksud pada ayat (1)
+bagi Perusahaan Asuransi, Perusahaan Asuransi
+Syariah, Perusahaan Reasuransi, Perusahaan
+Reasuransi Syariah, dan Unit Syariah terbagi menjadi
+jenis laporan:
+a. Laporan Bulanan;
+b. Laporan Triwulanan;
+c. Laporan Tahunan;
+d. Laporan Publikasi; dan
+e. Laporan Lain.
 
 -----
 
-e. Laporan Lain sebagaimana dimaksud dalam Pasal
-2 ayat (2) huruf e disampaikan sesuai dengan
-ketentuan batas waktu yang diatur dalam
-Peraturan Otoritas Jasa Keuangan atau ketentuan
-peraturan perundang-undangan lain yang
-mewajibkan penyampaian pelaporan dimaksud.
-(2) Penyampaian Laporan Berkala sebagaimana dimaksud
-pada ayat (1) dilakukan melalui sistem pelaporan
-Otoritas Jasa Keuangan.
-(3) Apabila batas akhir penyampaian laporan sebagaimana
-dimaksud pada ayat (1) jatuh pada hari libur, batas
-akhir penyampaian laporan pada hari kerja pertama
-berikutnya.
-(4) Apabila batas akhir penyampaian laporan sebagaimana
-dimaksud pada ayat (1) jatuh pada hari libur nasional
-atau libur bersama, Otoritas Jasa Keuangan berwenang
-menetapkan tanggal jatuh tempo penyampaian
-laporan.
+(4) Laporan Berkala sebagaimana dimaksud pada ayat (1)
+bagi Perusahaan Pialang Asuransi dan Perusahaan
+Pialang Reasuransi terbagi menjadi jenis laporan:
+a. Laporan Triwulanan;
+b. Laporan Tahunan; dan
+c. Laporan Lain.
+(5) Laporan Berkala sebagaimana dimaksud pada ayat (1)
+bagi Perusahaan Penilai Kerugian Asuransi terbagi
+menjadi jenis laporan:
+a. Laporan Tahunan; dan
+b. Laporan Lain.
 
 ## Penjelasan Resmi
 

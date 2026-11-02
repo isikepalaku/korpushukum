@@ -75,6 +75,15 @@ ayat {21 kepada Penyidik.
 
  Penyidik
 
+Pasal 6
+**(1) Penyidik terdiri atas:**
+ a. Penyidik Polri; b. PPNS; dan c. Penyidik Tertentu.
+**(21 Penyidik Polri sebagaimana dimaksud pada ayat (l) huruf a merupakan Penyidik utama yang diberi kewenangan untuk melakukan Penyidikan terhadap**
+semua tindak pidana.
+**(3) Syarat kepangkatan, pendidikan dan pelatihan, serta**
+
+**sertifikasi bagi Penyidik sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.**
+
 ## Penjelasan Resmi
 
 **Ayat (1)**

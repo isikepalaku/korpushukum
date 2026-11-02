@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '505'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,6 @@ Setiap Orang yang dengan maksud menguntungkan diri sendiri atau orang lain secar
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "batas pekarangan" adalah setiap tanda yang dipergunakan untuk menunjukkan batas suatu pekarangan, seperti tembok, pagar, patok, tumpukan batu, tumbuh-tumbuhan, saluran air, sungai, atau pematang sawah dengan tujuan memisahkan suatu bidang tanah milik seseor€rng dari bidang tanah milik orang lain yang berdampingan.
+
+Yang dimaksud dengan "kabar bohong" adalah tidak hanya pemberitahuan palsu tentang suatu fakta tetapi juga pemberitahuan palsu tentang suatu

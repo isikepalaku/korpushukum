@@ -23,7 +23,6 @@ mengamandemen: []
 ## Penjelasan Resmi
 
 Yang dimaksud dengan "pelimpahan wewenang dari Penyidik'adalah
-**pelimpahan wewenang Penahanan yang hanya dapat dilakukan atas perintah dari Penyidik kepada Penyidik Pembantu ketika terdapat hambatan letak geografis yang sulit dijangkau, belum ada [penyidik,] dan/atau kondisi lain yang dapat diterima menurut kewajaran.**
-Pasal l1
+**pelimpahan wewenang Penahanan yang hanya dapat dilakukan atas perintah dari Penyidik kepada Penyidik Pembantu ketika terdapat hambatan letak geografis yang sulit dijangkau, belum ada [penyidik,] dan/atau kondisi lain yang dapat diterima menurut kewajaran.**Pasal l1
 
 **Cukup [jelas.]**

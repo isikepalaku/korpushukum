@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai Upaya Kesehatan reproduksi sebagaimana dimaksud dalam Pasal 54 sampai dengan Pasal 58 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai Upaya Kesehatan reproduksi sebagaimana dimaksud dalam Pasal 54 sampai dengan
+
+Pasal 58
+diatur dengan Peraturan Pemerintah.
 
 ## Penjelasan Resmi
 

@@ -20,6 +20,12 @@ mengamandemen: []
 
 Ketentuan mengenai sanksi administratif sebagaimana dimaksud dalam
 
+Pasal 69, diatur lebih lanjut dengan Peraturan Pemerintah.
+
+ Bagian Kedua
+
+ Ketentuan Pidana
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -18,6 +18,8 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+> *(Dibatalkan MK No. 282/PUU-XXIII/2025)*
+
 - (1) Setiap Orang yang menyiarkan, mempertunjukkan, atau menempelkan tulisan atau gambar sehingga terlihat oleh umum, memperdengarkan rekaman sehingga terdengar oleh umum, atau menyebarluaskan dengan sarana teknologi informasi yang berisi penghinaan terhadap pemerintah atau lembaga negara, dengan maksud agar isi penghinaan diketahui umum, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.
 
 - (21 Dalam hal Tindak Pidana sebagaimana dimaksud pada ayat (1) beralibat terjadinya kerusuhan dalam masyarakat, dipidana dengan pidana penjara paling larr:a 4 (empat) tahun atau pidana denda paling banyak kategori IV.

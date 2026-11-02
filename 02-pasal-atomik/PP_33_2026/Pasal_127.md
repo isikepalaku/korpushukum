@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam melakukan kewajihan pengawasan sebagaimana dimaksud dalam Pasal 126 ayat (1), Pengendali Data Pribadi harus memiliki:
+Dalam melakukan kewajihan pengawasan sebagaimana dimaksud dalam
+
+Pasal 126
+ayat (1), Pengendali Data Pribadi harus memiliki:
 
 a kebijakan terkait pemrosesan Data Pribadi;
 

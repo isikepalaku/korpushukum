@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 **(1) Pada saat diundangkannya Undang-Undang ini, setiap**
- Pihak yang menjadi pemegang saham pengendali pada lebih dari I (satu) perusahaan asuransi [jiwa, ]I (satu) perusahaan asuransi umum, 1 (satu) perusahaan reasuransi, 1 (satu) perusahaan asuransi [jiwa ]syariah, 1 (satu) perusahaan asuransi umum syariah, dan 1 (satu) perusahaan reasuransi syariah wajib menyesuaikan dengan ketentuan dalam Pasal 16 ayat (1) pafing lama 3
+ Pihak yang menjadi pemegang saham pengendali pada lebih dari I (satu) perusahaan asuransi [jiwa, ]I (satu) perusahaan asuransi umum, 1 (satu) perusahaan reasuransi, 1 (satu) perusahaan asuransi [jiwa ]syariah, 1 (satu) perusahaan asuransi umum syariah, dan 1 (satu) perusahaan reasuransi syariah wajib menyesuaikan dengan ketentuan dalam
+
+Pasal 16
+ayat (1) pafing lama 3
 (tiga) tahun sejak diundangkannya Undang-Undang ini.
 
 **(21 Ketentuan lebih lanjut mengenai tata cara penyesuaian**

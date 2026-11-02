@@ -29,7 +29,10 @@ berupa pembatasan kegiatan usaha atau
 pembekuan kegiatan usaha dari Otoritas Jasa
 Keuangan.
 (2) Perusahaan yang membuka Kantor Cabang
-sebagaimana dimaksud dalam Pasal 48 ayat (2),
+sebagaimana dimaksud dalam
+
+Pasal 48
+ayat (2),
 wajib menyampaikan laporan pembukaan Kantor
 Cabang kepada Otoritas Jasa Keuangan paling
 lambat 10 (sepuluh) hari kerja sejak tanggal
@@ -130,3 +133,5 @@ Cukup jelas.
 Angka 17
 
 Cukup jelas.
+
+Angka 18

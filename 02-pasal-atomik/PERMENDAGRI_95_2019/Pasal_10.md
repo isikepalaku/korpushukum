@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Biodata WNI di luar wilayah Negara Kesatuan Republik 
-Indonesia sebagaimana dimaksud dalam Pasal 7 ayat (3) 
+Indonesia sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (3) 
 huruf c, terdiri dari elemen data: 
 a. 
 nama kepala keluarga; 

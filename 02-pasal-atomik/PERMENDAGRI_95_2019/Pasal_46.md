@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Verifikator aplikasi SIAK pada Satuan Kerja Pelaksana 
-sebagaimana dimaksud dalam Pasal 30 huruf r, melekat 
+sebagaimana dimaksud dalam
+
+Pasal 30
+huruf r, melekat 
 pada 
 jabatan 
 fungsional 

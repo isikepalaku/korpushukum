@@ -17,45 +17,40 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (3), ayat (4), Pasal 72, Pasal 73 ayat (1), ayat (4),
-ayat (5), ayat (6), dan/atau ayat (7), dikenai sanksi
-administratif.
-(2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
-juga kepada Pihak yang menyebabkan terjadinya
-pelanggaran sebagaimana dimaksud pada ayat (1).
-(3) Sanksi sebagaimana dimaksud pada ayat (1) dan ayat
-(2) dijatuhkan oleh Otoritas Jasa Keuangan.
-(4) Sanksi sebagaimana dimaksud pada ayat (1) berupa:
-a. peringatan tertulis;
-b. denda yaitu kewajiban untuk membayar sejumlah
-uang tertentu;
-c. pembatasan kegiatan usaha;
-d. pembekuan kegiatan usaha;
-e. pencabutan izin usaha; dan/atau
-f. pembatalan persetujuan;
-(5) Sanksi administratif sebagaimana dimaksud pada ayat
-(4) huruf b, huruf c, huruf d, huruf e, atau huruf f,
-dapat dikenakan dengan atau tanpa didahului
-pengenaan sanksi administratif berupa peringatan
-tertulis sebagaimana dimaksud pada ayat (4) huruf a.
-(6) Sanksi administratif berupa denda sebagaimana
-dimaksud pada ayat (4) huruf b dapat dikenakan secara
+Dalam menjalankan kegiatan usaha, Penyelenggara
+dilarang:
+a. memiliki hubungan afiliasi dengan Penerbit yang
+menggunakan Layanan Urun Dana;
+b. memberikan bantuan keuangan kepada Pemodal untuk
+berinvestasi pada Efek Penerbit yang menggunakan
+Layanan Urun Dana;
+c. memberikan nasihat investasi dan/atau rekomendasi
+kepada Pemodal dan/atau calon Pemodal untuk
+berinvestasi pada Penerbit;
+d. memberikan hadiah atau kompensasi kepada Pihak
+yang memberikan informasi mengenai Pemodal
+potensial;
+e. menerima dan/atau menyimpan dana Pemodal;
 
 -----
 
- - 54
-tersendiri atau secara bersama-sama dengan
-pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (4) huruf c.
-(7) Tata cara pengenaan sanksi sebagaimana dimaksud
-pada ayat (3) dilakukan sesuai dengan ketentuan
-peraturan perundang-undangan di bidang pasar modal.
+ - 49
+f. memberikan perlakuan yang berbeda antara para
+Pengguna;
+g. mempublikasikan informasi yang tidak benar terkait
+Layanan Urun Dana yang diselenggarakan;
+h. mengenakan jenis biaya, jumlah biaya, serta
+pengeluaran lainnya terhadap Penerbit dan Pemodal
+selain biaya yang telah diumumkan;
+i. melakukan penawaran Layanan Urun Dana kepada
+Pengguna dan/atau masyarakat melalui sarana
+komunikasi pribadi tanpa persetujuan Pengguna;
+j. mengenakan biaya apapun kepada Pengguna atas
+pengajuan pengaduan; dan
+k. bertindak sebagai Penerbit dalam Layanan Urun Dana.
 
-BAB VI
-LAYANAN URUN DANA
-
-Bagian Kesatu
-Pernyataan Penyelenggara
+Bagian Ketiga
+Kewajiban Laporan
 
 ## Penjelasan Resmi
 

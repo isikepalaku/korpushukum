@@ -25,6 +25,22 @@ mengamandemen:
 114. Di antara Pasal 67 dan Pasal 68 disisipkan I (satu) pasal,
 6. yakni Pasal 67A sehingga berbunyi sebagai berikut:
 
+**Pasal 67A**
+
+Satuan pengawasan intern mempunyai tugas:
+
+- a. membantu direktur utama dalam melaksanakan operasional dan keuangan Holding Investasi, Holding Operasional, dan BUMN, menilai pengelolaan, dan pada Holding Investasi, Holding Operasional, dan BUMN, serta memberikan saran perbaikan;
+2. menyampaikan laporan hasil pemeriksaan atau hasil pelaksanaan tugas satuan pengawasan intern sebagaimana dimaksud pada huruf a kepada b
+3. direktur utama; dan
+4. memonitor tindak lanjut atas hasil pemeriksaan yang c
+5. telah dilaporkan.
+
+1 15. Ketentuan. . .
+
+**PRESIOEN R,EPUELIK ]NDONESIA**
+
+- ll5.Ketentuan Pasal 68 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -18,10 +18,23 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(3) Setelah jangka waktu penghentian sebagaimana
-dimaksud pada ayat (2) berakhir, Pedagang dilarang
-memfasilitasi perdagangan Aset Keuangan Digital
-kepada Konsumen.
+(1) Otoritas Jasa Keuangan berwenang melakukan
+evaluasi atas Aset Keuangan Digital yang
+diperdagangkan di Pasar Aset Keuangan Digital.
+(2) Berdasarkan evaluasi yang dilakukan Otoritas Jasa
+Keuangan sebagaimana dimaksud pada ayat (1),
+Otoritas Jasa Keuangan berwenang:
+a. melarang perdagangan atas Aset Keuangan Digital
+tertentu di Pasar Aset Keuangan Digital; dan/atau
+b. memerintahkan Pedagang untuk menghentikan
+perdagangan Aset Keuangan Digital tertentu.
+
+-----
+
+Paragraf 3
+Mekanisme Penghentian dan Penyelesaian Perdagangan
+
+Aset Keuangan Digital
 
 ## Penjelasan Resmi
 

@@ -18,11 +18,17 @@ mengamandemen: []
 ## Batang Tubuh
 
 Laporan penyelenggaraan Produk Asuransi sebagaimana
-dimaksud dalam Pasal 42 ayat (2) wajib melampirkan
+dimaksud dalam
+
+Pasal 42
+ayat (2) wajib melampirkan
 dokumen:
 a. hasil penilaian sendiri yang telah mendapatkan
 penetapan dari komite pengembangan Produk Asuransi
-sebagaimana dimaksud dalam Pasal 31 ayat (3) huruf
+sebagaimana dimaksud dalam
+
+Pasal 31
+ayat (3) huruf
 c;
 b. surat pernyataan Aktuaris Perusahaan dan direktur
 Perusahaan Asuransi atau Perusahaan Asuransi
@@ -34,8 +40,7 @@ yang dilaporkan merupakan pengembangan atas
 Produk Asuransi yang sudah dipasarkan;
 e. opini dari dewan pengawas syariah, untuk produk
 asuransi syariah; dan
-f. perjanjian tertulis sebagaimana dimaksud dalam Pasal
-6 ayat (1) dan ayat (2) untuk Produk Asuransi Bersama.
+f. perjanjian tertulis sebagaimana dimaksud dalam Pasal 6 ayat (1) dan ayat (2) untuk Produk Asuransi Bersama.
 
 ## Penjelasan Resmi
 

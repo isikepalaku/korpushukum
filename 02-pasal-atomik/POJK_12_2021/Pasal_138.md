@@ -23,7 +23,10 @@ lanjut setelah keputusan pencabutan izin usaha terhadap
 
 Bank BHI atau pencabutan izin usaha KCBLN sebagaimana
 
-dimaksud dalam Pasal 124 ayat (2) huruf a atau huruf b,
+dimaksud dalam
+
+Pasal 124
+ayat (2) huruf a atau huruf b,
 
 termasuk pengawasan terhadap kegiatan tim penyelesai
 

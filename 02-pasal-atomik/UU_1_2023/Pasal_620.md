@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '620'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,6 @@ Pada saat Undang-Undang ini mulai berlaku, ketentuan dalam Bab tentang Tindak Pi
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "lembaga penegak hukum" misalnya, lembaga yang menyelenggarakan pemberantasan Tindak Pidana narkotika, selain menangani Tindak Pidana narkotika yang diatur dalam Undang-Undang mengenai narkotika, juga. menangani Tindak Pidana narkotika yang diatur dalam Undang-Undang ini.
+
+Demikian juga lembaga yang menyelenggarakan pemberantasan Tindak Pidana korupsi, selain menangani Tindak Pidana korupsi yang diatur dalam Undarrg-Undang mengenai pemberantasan Tindak Pidana korupsi, juga menangani Tindak Pidana korupsi yang diatur dalam Undang-Undang ini.

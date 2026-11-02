@@ -38,3 +38,7 @@ mengamandemen: []
 ## Penjelasan Resmi
 
 Kewajiban menyampaikan informasi kepada Pengguna Sistem Elektronik dimaksudkan untuk melindungi kepentingan Pengguna Sistem Elektronik.
+
+FRESTDEN REFUBLTK TNDONESIA
+
+-t2-

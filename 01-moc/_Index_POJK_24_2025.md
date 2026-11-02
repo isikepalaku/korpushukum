@@ -4,7 +4,7 @@ judul: "Map of Content - Pengelolaan Rekening pada Bank Umum"
 kode_uu: POJK_24_2025
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_24_2025]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Pengelolaan Rekening pada Bank Umum (POJK_24_2025)
@@ -15,8 +15,8 @@ last_updated: 2026-11-01
 
 - [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini, yang
 - [[Pasal_2]]: Bank menerapkan tata kelola yang baik dalam pengelolaan
-- [[Pasal_3]]: c. komunikasi kepada Nasabah untuk melakukan
-- [[Pasal_4]]: (enam) bulan terhitung sejak Peraturan Otoritas Jasa
+- [[Pasal_3]]: (1) Pengelolaan rekening Giro dan Tabungan
+- [[Pasal_4]]: (1) Bank wajib memiliki kebijakan dan prosedur
 - [[Pasal_5]]: (1) Bank wajib menerapkan manajemen risiko dalam
 - [[Pasal_6]]: (1) Bank wajib menerapkan prinsip pelindungan
 - [[Pasal_7]]: (1) Bank wajib melindungi data pribadi Nasabah pemilik

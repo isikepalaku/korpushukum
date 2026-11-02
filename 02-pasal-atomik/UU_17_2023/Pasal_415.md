@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Koordinasi dan sinkronisasi sebagaimana dimaksud dalam Pasal 413 paling sedikit dilaksanakan melalui:
+Koordinasi dan sinkronisasi sebagaimana dimaksud dalam
+
+Pasal 413
+paling sedikit dilaksanakan melalui:
 
 - a. penelaahan terhadap berbagai informasi dan data yang relevan atau berpengaruh terhadap proses akselerasi pembangunan Kesehatan;
 - b. penJrusunan strategi pencapaian dan prioritas program dan kegiatan pembangunan Kesehatan;

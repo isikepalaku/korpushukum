@@ -59,7 +59,9 @@ dan/atau peraturan pelaksanaannya.
 
 (2) Sebelum peraturan dan tata tertib Lembaga Kliring
 
-Berjangka sebagaimana dimaksud dalam Pasal 26
+Berjangka sebagaimana dimaksud dalam
+
+Pasal 26
 huruf c termasuk perubahannya diberlakukan, wajib
 memperoleh persetujuan Bappebti.
 
@@ -121,4 +123,5 @@ Angka 18 . . .
 
 -----
 
- - 22
+ - 22 
+Angka 18

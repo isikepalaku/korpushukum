@@ -26,12 +26,6 @@ mengamandemen: []
 
 **Bagian Kedua Keterangan Palsu dalam Akta Autentik**
 
-**' Pasal 394**
-
-Setiap Orang yang meminta untuk dimasukkan keterangan palsu ke dalam suatu akta autentik mengenai suatu hal yang kebenarannya seharusnya dinyatakan oleh akta tersebut, dengan maksud untuk menggunakan atau meminta orang lain menggunakan seolah-olah keterangan tersebut sesuai dengan yang sebenarnya, jika penggunaan tersebut dapat menimbulkan kerugian, dipidana dengan pidana penjara paling lama 7 (tqiuh) tahun atau pidana denda paling banyak kategori VI.
-
-**Bagian Ketiga Pemalsuan terhadap Surat Keterangan**
-
 ## Penjelasan Resmi
 
 Cukup jelas.

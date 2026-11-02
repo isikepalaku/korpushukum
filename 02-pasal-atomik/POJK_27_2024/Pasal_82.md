@@ -18,30 +18,47 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (7), ayat (8), Pasal 84 ayat (2), Pasal 86 ayat (6),
-ayat (7), ayat (8), Pasal 88, Pasal 90 ayat (3), ayat (4),
-ayat (7), Pasal 91 ayat (1), ayat (2), ayat (5), ayat (6), ayat
-(7), Pasal 92, Pasal 93 ayat (1), ayat (2), Pasal 94 ayat
-(2), ayat (3), Pasal 96, Pasal 97 ayat (1), Pasal 98 ayat
-(1), Pasal 99, Pasal 100 ayat (1), ayat (3), ayat (5), dan
-ayat (6), dikenakan sanksi administratif berupa:
-a. peringatan tertulis;
-b. penghentian sementara, sebagian, atau seluruh
-kegiatan;
-c. pencantuman Pihak Utama dalam daftar orang
-tercela di sektor keuangan; dan/atau
-d. pencabutan izin usaha.
+(1) Dalam menerapkan program APU, PPT, dan PPPSPM
+dan verifikasi data Konsumen, Pedagang wajib memiliki
+perjanjian kerja sama untuk memperoleh hak akses
 
 -----
 
-(2) Sanksi administratif sebagaimana dimaksud pada ayat
-(1) huruf b, huruf c, dan huruf d dapat dikenakan
-dengan atau tanpa didahului pengenaan sanksi
-administratif berupa peringatan tertulis sebagaimana
-dimaksud pada ayat (1) huruf a.
-
-BAB VIII
-AKTIVITAS PENUNJANG
+dan pemanfaatan data kependudukan berdasarkan
+nomor identitas dengan kementerian yang
+menyelenggarakan urusan pemerintahan di bidang
+dalam negeri.
+(2) Untuk memperoleh hak akses dan pemanfaatan data
+kependudukan berdasarkan nomor induk
+kependudukan sebagaimana dimaksud pada ayat (1),
+Pedagang wajib mengajukan surat permohonan
+rekomendasi kerja sama pemanfaatan data
+kependudukan dengan kementerian yang
+menyelenggarakan urusan pemerintahan di bidang
+dalam negeri kepada Otoritas Jasa Keuangan.
+(3) Otoritas Jasa Keuangan dapat menerbitkan
+rekomendasi kerja sama untuk memperoleh hak akses
+dan pemanfaatan data kependudukan berdasarkan
+nomor induk kependudukan dengan kementerian yang
+menyelenggarakan urusan pemerintahan di bidang
+dalam negeri sebagaimana dimaksud pada ayat (2)
+dengan ketentuan:
+a. pemohon telah memiliki sertifikasi standar
+internasional terkait sistem manajemen keamanan
+informasi; dan
+b. telah berizin sebagai Pedagang.
+(4) Otoritas Jasa Keuangan berwenang membatasi
+kegiatan Pedagang yang belum memiliki perjanjian
+kerja sama dengan kementerian yang
+menyelenggarakan urusan pemerintahan di bidang
+dalam negeri sebagaimana dimaksud pada ayat (1),
+dengan ketentuan pembatasan:
+a. jenis Konsumen hanya orang perseorangan;
+b. jumlah maksimal dana dan Aset Keuangan Digital
+yang ditempatkan oleh setiap Konsumen paling
+banyak Rp25.000.000,00 (dua puluh lima juta
+rupiah); dan
+c. pelayanan kegiatan dan perizinan lain.
 
 ## Penjelasan Resmi
 
@@ -55,7 +72,10 @@ Ayat (3)
 
 Huruf a
 
-Lihat penjelasan Pasal 21 ayat (1) huruf d.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf d.
 Huruf b
 
 Cukup jelas.

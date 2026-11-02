@@ -18,7 +18,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Pihak lain yang ditunjuk atau ditugasi oleh Otoritas Jasa Keuangan sebagaimana [rl ][imaksud ]dalam Pasa.l 59 ayat (1) dan**
+**Pihak lain yang ditunjuk atau ditugasi oleh Otoritas Jasa Keuangan sebagaimana [rl ][imaksud ]dalam Pasa.l 59 ayat (1) dan**Pasal 61 ayat (21 dilarang menggunakan atau mengungkapkan
+**informasi apa pun yang bersifat rahasia kepada pihak lain, kecuali dalam rangka pelaksanaan fungsi, tugas, dan wewenangnya berdasarkan keputusan Otoritas Jasa**
+Keuangan atau diwajibkan oleh undang-undang.
+
+BAB XIV
+
+-----
+
+PRESIDEN
+R EPUR [I- ]IK IN DONES IA
+
+**_48_**
+
+BAB xIV
+ASOSIASI USAHA PERASURANSIAN
 
 ## Penjelasan Resmi
 

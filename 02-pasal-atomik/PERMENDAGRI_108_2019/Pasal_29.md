@@ -22,7 +22,10 @@ mengamandemen: []
 perpindahan 
 Penduduk 
 sebagaimana 
-dimaksud dalam Pasal 28 ayat (2) huruf a, huruf b, dan 
+dimaksud dalam
+
+Pasal 28
+ayat (2) huruf a, huruf b, dan 
 huruf c dilakukan dengan tata cara: 
 a. Penduduk mengisi dan menandatangani formulir 
 biodata serta menyerahkan persyaratan sesuai 

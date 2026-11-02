@@ -23,7 +23,10 @@ Penduduk
 yang 
 akan 
 bertransmigrasi 
-sebagaimana dimaksud dalam Pasal 27 huruf b, dengan 
+sebagaimana dimaksud dalam
+
+Pasal 27
+huruf b, dengan 
 memenuhi 
 persyaratan 
 sesuai 
@@ -62,7 +65,10 @@ Negara
 Kesatuan 
 Republik 
 Indonesia 
-sebagaimana dalam Pasal 27 huruf a. 
+sebagaimana dalam
+
+Pasal 27
+huruf a. 
  
  
  

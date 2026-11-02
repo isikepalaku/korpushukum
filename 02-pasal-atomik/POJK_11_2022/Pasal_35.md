@@ -17,7 +17,93 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Bank wajib menempatkan Sistem Elektronik pada
 
+Pusat Data dan Pusat Pemulihan Bencana di wilayah
+
+Indonesia.
+
+(2) Bank dapat menempatkan Sistem Elektronik pada
+
+Pusat Data dan/atau Pusat Pemulihan Bencana di
+
+luar wilayah Indonesia sepanjang memperoleh izin dari
+
+Otoritas Jasa Keuangan.
+
+(3) Kriteria Sistem Elektronik yang dapat ditempatkan
+
+pada Pusat Data dan/atau Pusat Pemulihan Bencana
+
+di luar wilayah Indonesia sebagaimana dimaksud pada
+
+ayat (2), meliputi:
+
+a. Sistem Elektronik yang digunakan untuk
+
+mendukung analisis terintegrasi dalam memenuhi
+
+ketentuan yang diterbitkan oleh otoritas negara
+
+asal Bank yang bersifat global, termasuk lintas
+
+negara;
+
+b. Sistem Elektronik yang digunakan untuk
+
+manajemen risiko secara terintegrasi dengan
+
+kantor pusat Bank atau kantor induk atau kantor
+
+entitas utama di luar wilayah Indonesia;
+
+c. Sistem Elektronik yang digunakan untuk
+
+penerapan anti pencucian uang dan pencegahan
+
+pendanaan terorisme secara terintegrasi dengan
+
+**t id**
+
+-----
+
+kantor pusat Bank atau kantor induk Bank di
+
+luar wilayah Indonesia;
+
+d. Sistem Elektronik yang digunakan untuk
+
+pelayanan kepada nasabah secara global, yang
+
+memerlukan integrasi dengan Sistem Elektronik
+
+milik grup Bank di luar wilayah Indonesia;
+
+e. Sistem Elektronik yang digunakan untuk
+
+manajemen komunikasi antara kantor pusat
+
+Bank dan kantor cabang, atau antara perusahaan
+
+anak dan perusahaan induk; dan/atau
+
+f. Sistem Elektronik yang digunakan untuk
+
+manajemen intern Bank.
+
+(4) Dalam hal terdapat kondisi yang mengganggu
+
+operasional Bank secara signifikan, Otoritas Jasa
+
+Keuangan dapat menentukan penempatan Sistem
+
+Elektronik pada Pusat Data dan/atau Pusat
+
+Pemulihan Bencana di luar wilayah Indonesia selain
+
+kriteria sebagaimana dimaksud pada ayat (3) untuk
+
+sementara waktu.
 
 ## Penjelasan Resmi
 

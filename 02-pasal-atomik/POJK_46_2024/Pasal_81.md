@@ -69,7 +69,10 @@ berikut:
 BAB XVIII
 PERMODALAN
 
-36. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai
+36. Ketentuan
+
+Pasal 84
+diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -100,3 +103,5 @@ Pembiayaan Syariah.
 Angka 35
 
 Cukup jelas.
+
+Angka 36

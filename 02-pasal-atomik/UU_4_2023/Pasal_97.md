@@ -57,3 +57,18 @@ Ayat (3)
 Penegakan hukum di bidang Pasar Modal menekankan pada prinsip restorative justice yang menitikberatkan pada upaya pemulihan atau perbaikan kondisi akibat suatu pelanggaran dengan tetap mengupayakan terwujudnya efek jera bagi pelaku pelanggaran.
 
 ```
+Pasal 100B Cukup jelas. Pasal l00C Cukup jelas.
+
+Pasal 100D Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4)
+```
+
+Materi muatan yang diatur dalam Peraturan Otoritas Jasa Keuangan di antaranya memuat:
+
+- a. kriteria mengenai kerugian industri Pasar Modal;
+- b. penentuan pihak-pihak yang dirugikan;
+
+c. obyek ...
+
+Angka 41
+
+```

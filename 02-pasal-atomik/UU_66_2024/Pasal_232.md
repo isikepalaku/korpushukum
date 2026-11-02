@@ -29,7 +29,10 @@ Bagian
 
 dari Kegiatan Kepelabuhanan
 
-46. Ketentuan Pasal 234 diubah sehingga berbunyi sebagai berikut:
+46. Ketentuan
+
+Pasal 234
+diubah sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 

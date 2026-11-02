@@ -21,7 +21,6 @@ mengamandemen: []
 2. (21 Mahasiswa yang telah menyelesaikan pendidikan sebagaimana dimaksud pada ayat (1) hanya dapat melakukan praktik setelah lulus pendidikan profesi dan diberi sertifikat profesi.
 
 ## Pasal 2L2
-
 - (1) Mahasiswa yang menyelesaikan pendidikan Tenaga Kesehatan program diploma, program sarjana, dan program sarjana terapan mendapatkan ijazah sesuai dengan ketentuan peraturan perundang-undangan.
 2. (21 Mahasiswa yang telah menyelesaikan pendidikan Tenaga Kesehatan program sarjana sebagaimana dimaksud pada ayat (1) hanya dapat melakukan praktik profesi setelah menyelesaikan pendidikan profesi dan diberi sertifikat profesi.
 

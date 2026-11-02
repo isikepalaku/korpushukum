@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bank wajib menetapkan wewenang dan tanggung jawab yang jelas pada setiap jenjang jabatan yang terkait dengan penerapan Manajemen Risiko sebagaimana dimaksud dalam Pasal 2.
+Bank wajib menetapkan wewenang dan tanggung jawab yang jelas pada setiap jenjang jabatan yang terkait dengan penerapan Manajemen Risiko sebagaimana dimaksud dalam
+
+Pasal 2.
 
 **Bagian Kedua**
 

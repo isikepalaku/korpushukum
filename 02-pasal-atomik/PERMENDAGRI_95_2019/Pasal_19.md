@@ -17,8 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data pengangkatan anak sebagaimana dimaksud dalam Pasal 
-7 ayat (4) huruf h, terdiri dari elemen data: 
+Data pengangkatan anak sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (4) huruf h, terdiri dari elemen data: 
 a. 
 NIK/NIT; 
 b. 

@@ -24,4 +24,14 @@ mengamandemen: []
 
 Cukup jelas.
 
-**Angka 29**
+**Angka 29**Pasal 71A
+
+Cukup jelas.
+
+Angka 30
+
+Pasal 73A
+
+Cukup jelas.
+
+Angka 31

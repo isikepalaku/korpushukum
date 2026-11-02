@@ -36,8 +36,7 @@ sebagaimana dimaksud pada ayat (2), OJK melakukan
 penelitian atas:
 a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan, meliputi:
-1. persyaratan sebagaimana dimaksud dalam Pasal
-65 ayat (2);
+1. persyaratan sebagaimana dimaksud dalam Pasal 65 ayat (2);
 2. penilaian terhadap studi kelayakan pembukaan
 Kantor Cabang; dan
 3. analisis kesiapan operasional.

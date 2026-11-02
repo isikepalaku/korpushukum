@@ -17,13 +17,40 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-5/POJK.03/2015 tentang Kewajiban Penyediaan Modal
-Minimum dan Pemenuhan Modal Inti Minimum Bank
-Perkreditan Rakyat (Lembaran Negara Republik Indonesia
-Tahun 2015 Nomor 73, Tambahan Lembaran Negara Republik
-Indonesia Nomor 5686), dicabut dan dinyatakan tidak berlaku.
+(1) Penilaian terhadap prospek usaha sebagaimana dimaksud
+dalam
 
------
+Pasal 7
+ayat (1) huruf a meliputi penilaian terhadap
+komponen:
+a. potensi pertumbuhan usaha;
+b. kondisi pasar dan posisi Debitur dalam persaingan;
+c. kualitas manajemen dan permasalahan tenaga kerja;
+d. dukungan dari pemilik, grup, atau afiliasi; dan
+e. upaya yang dilakukan Debitur untuk memelihara
+lingkungan hidup.
+(2) Penilaian terhadap kinerja Debitur sebagaimana
+dimaksud dalam
+
+Pasal 7
+ayat (1) huruf b meliputi
+penilaian terhadap komponen:
+a. profitabilitas;
+b. struktur permodalan; dan
+c. arus kas.
+(3) Penilaian terhadap kemampuan membayar sebagaimana
+dimaksud dalam
+
+Pasal 7
+ayat (1) huruf c meliputi
+penilaian terhadap komponen:
+a. ketepatan pembayaran pokok dan/atau bunga;
+b. ketersediaan dan keakuratan informasi keuangan
+Debitur;
+c. kelengkapan dokumentasi Kredit;
+d. kepatuhan terhadap perjanjian Kredit;
+e. kesesuaian penggunaan dana; dan
+f. kewajaran sumber pembayaran kewajiban.
 
 ## Penjelasan Resmi
 

@@ -22,7 +22,10 @@ mengamandemen: []
 
 menghancurkan, dan/atau mengubah Rupiah dengan
 maksud merendahkan kehormatan Rupiah sebagai simbol
-negara sebagaimana dimaksud dalam Pasal 25 ayat (1)
+negara sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (1)
 dipidana dengan pidana penjara paling lama 5 (lima) tahun
 dan pidana denda paling banyak Rp1.000.000.000,00
 (satu miliar rupiah).
@@ -30,7 +33,10 @@ dan pidana denda paling banyak Rp1.000.000.000,00
 (2) Setiap orang yang membeli atau menjual Rupiah yang
 
 sudah dirusak, dipotong, dihancurkan, dan/atau diubah
-sebagaimana dimaksud dalam Pasal 25 ayat (2) dipidana
+sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (2) dipidana
 dengan pidana penjara paling lama 5 (lima) tahun dan
 pidana denda paling banyak Rp1.000.000.000,00 (satu
 miliar rupiah).
@@ -38,7 +44,10 @@ miliar rupiah).
 (3) Setiap orang yang mengimpor atau mengekspor Rupiah
 
 yang sudah dirusak, dipotong, dihancurkan, dan/atau
-diubah sebagaimana dimaksud dalam Pasal 25 ayat (3)
+diubah sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (3)
 dipidana dengan pidana penjara paling lama 10 (sepuluh)
 tahun dan pidana denda paling banyak
 Rp10.000.000.000,00 (sepuluh miliar rupiah).

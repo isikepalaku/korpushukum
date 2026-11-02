@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelaksanaan pembelian kembali saham sebagaimana
-dimaksud dalam Pasal 118 ayat (1) wajib diselesaikan
+dimaksud dalam
+
+Pasal 118
+ayat (1) wajib diselesaikan
 paling lama 12 (dua belas) bulan setelah tanggal rapat
 umum pemegang saham yang menyetujui pembelian
 kembali saham.

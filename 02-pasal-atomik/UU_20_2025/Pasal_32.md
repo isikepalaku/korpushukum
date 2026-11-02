@@ -18,7 +18,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Dalam hal peninjauan kembali diajukan terhadap putusan berkekuatan hukum tetap yang berasal dari tingkat kasasi, pemeriksaan terhadap perkara peninjauan kembali tersebut harus dilaksanakan oleh Hakim yang tidak Mengadili perkara tersebut di tingkat kasasi.**
+**(1) Dalam hal Penyidik sedang melakukan pemeriksaan**
+
+**terhadap Tersangka, Advokat atau Pemberi Bantuan Hukum mendampingi selama jalannya pemeriksaan. (21 Dalam hal Penyidik melakukan intimidasi dan/ atau**
+ mengajukan pertanyaan yang bersifat menjerat terhadap Tersangka, Advokat atau Pemberi Bantuan Hukum dapat menyatakan keberatan.
+**(3) Keberatan sebagaimana dimaksud pada ayat (2) dicatat**
+
+**dalam berita acara.**
 
 ## Penjelasan Resmi
 

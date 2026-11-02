@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam rangka menjaga dan meningkatkan mutu Tenaga Medis dan Tenaga Kesehatan sebagaimana dimaksud dalam Pasal 258, kepala daerah dan pimpinan Fasilitas Pelayanan Kesehatan harus memberikan kesempatan yang sama kepada Tenaga Medis dan Tenaga Kesehatan dengan mempertimbangkan penilaian kinerja dan perilaku.
+Dalam rangka menjaga dan meningkatkan mutu Tenaga Medis dan Tenaga Kesehatan sebagaimana dimaksud dalam
+
+Pasal 258, kepala daerah dan pimpinan Fasilitas Pelayanan Kesehatan harus memberikan kesempatan yang sama kepada Tenaga Medis dan Tenaga Kesehatan dengan mempertimbangkan penilaian kinerja dan perilaku.
 
 ## Bagran Keenam
 

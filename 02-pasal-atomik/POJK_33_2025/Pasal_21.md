@@ -24,14 +24,20 @@ a. lembaga penjamin yang telah memperoleh izin usaha
 
 sebelum Peraturan Otoritas Jasa Keuangan ini
 diundangkan wajib memenuhi ketentuan sebagaimana
-dimaksud dalam Pasal 3 ayat (4) dalam jangka waktu
+dimaksud dalam
+
+Pasal 3
+ayat (4) dalam jangka waktu
 paling lama 3 (tiga) tahun terhitung sejak Peraturan
 Otoritas Jasa Keuangan ini diundangkan;
 b. lembaga penjamin yang telah memperoleh izin usaha
 
 sebelum Peraturan Otoritas Jasa Keuangan ini
 diundangkan wajib memenuhi ketentuan sebagaimana
-dimaksud dalam Pasal 3 ayat (1), ayat (3), dan ayat (5),
+dimaksud dalam
+
+Pasal 3
+ayat (1), ayat (3), dan ayat (5),
 dan Pasal 4 ayat (1), ayat (3), ayat (4), dan ayat (7), dalam
 jangka waktu paling lama 1 (satu) tahun terhitung sejak
 Peraturan Otoritas Jasa Keuangan ini diundangkan; dan

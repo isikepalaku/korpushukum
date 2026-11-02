@@ -25,7 +25,10 @@ Pemasaran Produk Asuransi (Lembaran Negara
 Republik Indonesia Tahun 2015 Nomor 287, Tambahan
 Lembaran Negara Republik Indonesia Nomor 5770);
 dan
-b. Pasal 50 Peraturan Otoritas Jasa Keuangan Nomor
+b.
+
+Pasal 50
+Peraturan Otoritas Jasa Keuangan Nomor
 73/POJK.05/2016 tentang Tata Kelola Perusahaan
 yang Baik untuk Perusahaan Perasuransian (Lembaran
 Negara Republik Indonesia Tahun 2016 Nomor 306,

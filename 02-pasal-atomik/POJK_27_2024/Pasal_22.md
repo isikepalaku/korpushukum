@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Peraturan dan tata tertib Bursa sebagaimana dimaksud
-dalam Pasal 20 ayat (1) huruf c harus paling sedikit
+dalam
+
+Pasal 20
+ayat (1) huruf c harus paling sedikit
 memuat:
 a. persyaratan menjadi Anggota Bursa;
 b. hak dan kewajiban Anggota Bursa;

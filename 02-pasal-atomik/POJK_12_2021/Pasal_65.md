@@ -21,7 +21,9 @@ mengamandemen: []
 
 permohonan izin pembukaan KC sebagaimana
 
-dimaksud dalam Pasal 64.
+dimaksud dalam
+
+Pasal 64.
 
 (2) Persetujuan atau penolakan sebagaimana dimaksud
 
@@ -29,7 +31,10 @@ pada ayat (1) diberikan dalam jangka waktu 14 (empat
 
 belas) hari kerja sejak dokumen sebagaimana
 
-dimaksud dalam Pasal 64 ayat (3) diterima secara
+dimaksud dalam
+
+Pasal 64
+ayat (3) diterima secara
 
 lengkap.
 

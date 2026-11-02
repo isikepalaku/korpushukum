@@ -19,11 +19,17 @@ mengamandemen: []
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 15 ayat (1), ayat (4), Pasal 16
+dimaksud dalam Pasal 15 ayat (1), ayat (4),
 
-ayat (1), Pasal 17 ayat (1), Pasal 18 ayat (1), ayat (2),
+Pasal 16
+ayat (1),
 
-ayat (3), ayat (4), dan/atau Pasal 19, dikenai sanksi
+Pasal 17
+ayat (1), Pasal 18 ayat (1), ayat (2),
+
+ayat (3), ayat (4), dan/atau
+
+Pasal 19, dikenai sanksi
 
 administratif berupa teguran tertulis.
 
@@ -32,6 +38,35 @@ administratif berupa teguran tertulis.
 sebagaimana dimaksud pada ayat (1) dan belum
 
 memenuhi ketentuan sebagaimana dimaksud dalam
+
+Pasal 15
+ayat (1), ayat (4),
+
+Pasal 16
+ayat (1), Pasal 17
+
+ayat (1),
+
+Pasal 18
+ayat (1), ayat (2), ayat (3), ayat (4),
+
+dan/atau
+
+Pasal 19, Bank dikenai sanksi administratif
+
+berupa:
+
+a. larangan untuk menerbitkan produk Bank baru;
+
+b. pembekuan kegiatan usaha tertentu; dan/atau
+
+c. penurunan penilaian faktor tata kelola dalam
+
+penilaian tingkat kesehatan Bank.
+
+BAB V
+
+KETAHANAN DAN KEAMANAN SIBER BANK
 
 ## Penjelasan Resmi
 

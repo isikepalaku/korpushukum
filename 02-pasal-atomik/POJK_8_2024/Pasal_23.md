@@ -17,7 +17,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Dalam setiap penutupan asuransi, Perusahaan
+Asuransi atau Perusahaan Asuransi Syariah wajib
+memastikan penerbitan Polis Asuransi telah sesuai
+dengan spesimen Polis Asuransi yang merupakan
+bagian dari Produk Asuransi yang telah:
+a. mendapatkan persetujuan Otoritas Jasa
+Keuangan; atau
+b. dilaporkan kepada Otoritas Jasa Keuangan.
+(2) Kewajiban sebagaimana dimaksud pada ayat (1)
+dikecualikan bagi Produk Asuransi yang tidak wajib
+mendapatkan persetujuan atau tidak wajib dilaporkan
+kepada Otoritas Jasa Keuangan sesuai dengan
+ketentuan dalam Peraturan Otoritas Jasa Keuangan ini.
 
+-----
 
 ## Penjelasan Resmi
 

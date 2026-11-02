@@ -31,6 +31,12 @@ mengamandemen: []
 
 - {3) Dalam hal pelaksanaan pengecualian scbagaimans dimaksud pada ayat (1), Lembaga dapat secara aktif memberikan masukan dalam penyusunan peraturan sektoral yang memuat pengecualian kewajiban Pengendali Data Pribadi.
 
+Pasal 150...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
+- T6-
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '450'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,4 @@ Paragraf 2 Penyanderaan
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Penculikan merupakan salah satu bentuk Tindak Pidana menghilangkan kemerdekaan seseorang. Berbeda dengan ketentuan sebelumnya, perampasan kemerdekaan dalam penculikan tidak dimaksudkan untuk or€rng, tetapi secara melawan hukum unfuk menempatkan orang tersebut di bawah kekuasaannya atau menyebabkan orang tersebut tidak berdaya.

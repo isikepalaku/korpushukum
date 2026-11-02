@@ -41,6 +41,18 @@ mengamandemen: []
 
 - (4) Penentuan dalam penggunaan dasar pemrosesan Data Pribadi sebagaimana dimaksud pada ayat (3) didasarkan pada maksud dan tujuan serta kebutuhan dalam pemrosesan Data Pribadi dengan memenuhi ketentuan yang diatur dalam Peraturan Pemerintah ini.
 
+Pasal 31
+Pengendali Data Pribadi harus memiastikan pemrosesan Data Pribadi tidak bersifat diskriminatif kepada Subjek Data Pribadi,
+
+**Paragrafl 2**
+
+Persetujuan yang Sah Secara Eksplisit
+
+Pasal 32
+- (1) Pengendali Data Pribadi dapat menggunakan dasar pemrosesan Data Pribadi berupa persctujuan yang sah secara eksplisit.
+
+- (2) Persetujuan yang sah secara cksplisit s¢bagaimana dimaksud dalam Pasal 30 ayat (3) huruf a harus didapatkan dari Subjek Data Pribadi secara bebas, sadar, spesifik, dan tidak ambigu,
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -38,7 +38,10 @@ Dal.am rangka pengembangan dan penguatan sektor keuangan melalui penataan di sek
 ## Penjelasan Resmi
 
 ```
-Cukup jelas. Pasal 22 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 5 Huruf a Angka 1
+Cukup jelas.
+
+Pasal 22
+Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 5 Huruf a Angka 1
 ```
 
 Pemyataan Pendaftaran efektif dalam hal ini menunjukkan lengkap atau dipenuhinya seluruh prosedur dan persyaratan atas Pernyataan Pendaftaran yang diwajibkan dalam Undang­ Undang ini dan/atau peraturan pelaksanaannya. Pernyataan efektif tersebut bukan merupakan izin untuk melakukan Penawaran Umum dan juga bukan berarti bahwa Otoritas Jasa Keuangan menyatakan informasi yang diungkapkan Emiten atau Perusahaan Publik tersebut adalah benar atau cukup. Emiten atau Perusahaan Publik yang mengajukan Pemyataan Pendaftaran bertanggung jawab bahwa seluruh informasi dan pernyataan yang dibuat adalah benar dan tidak menyesatkan.
@@ -191,9 +194,7 @@ Yang dimaksud dengan "melakukan hal lain" adalah kewenangan selain yang ditetapk
 
 Kewenangan ...
 
-**Angka 3**
-
-Pasal SA
+**Angka 3**Pasal SA
 
 Ayat (1)
 
@@ -289,3 +290,41 @@ Materi muatan Peraturan Otoritas Jasa Keuangan di antaranya mencakup pengaturan 
 Angka 4
 
 ```
+Pasal 8A Ayat (1)
+```
+
+```
+Cukup jelas.
+```
+
+Ayat (2)
+
+Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan.
+
+```
+Angka 5
+
+Pasal 13
+Ayat (1)
+```
+
+```
+Cukup jelas.
+```
+
+Ayat (2)
+
+Materi muatan Peraturan Otoritas Jasa Keuangan di antaranya mencakup pengaturan mengenai persyaratan dan tata cara perizinan yang terkait dengan:
+
+- a. izin usaha;
+- b. ketentuan yang wajib diatur dalam anggaran dasar;
+- c. kepengurusan; dan
+- d. permodalan.
+
+Angka 6 ...
+
+Angka 6
+
+Angka 7
+
+Angka 8

@@ -17,23 +17,23 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**a. penyelenggaraan tenaga kerja bongkar muat oleh**
+**Pemerintah Pusat dan Pemerintah Daerah melakukan pemberdayaan bagi Koperasi yang melakukan kegiatan usaha tertentu di sektor:**
+**a. l<elantan dan perikanan; b. angkntan perairan pelabuhan;**
 
-Koperasi; dan
+**c.kehutanan...**
 
-b pembinaan dan pengawasan Koperasi tenaga
-**kerja bongkar muat.**
+-----
 
-(21 Pembinaan <ian pengawasan Koperasi sebagaimana
-**dimaksud pada ayat (1) huruf b dilakukan secara terkoordinasi oleh Kementerian, kementerian yang menyelenggarakan urusan pemerintahan di bidang**
-**perhubungan, dan kementerian yang**
-**menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan sesuai dengan ketentuan peraturan perundang-undangan.**
+PRES IDEN
+REPUBLIK INDONESIA
+
+**- 18-**
+
+**c. kehutanan; d. perdagangan; da.n e. pertanian.**
 
 ## Penjelasan Resmi
 
-**Cukup [jelas]**
-
-Pasal .
+**Cukup [jelas]**Pasal .
 
 -----
 

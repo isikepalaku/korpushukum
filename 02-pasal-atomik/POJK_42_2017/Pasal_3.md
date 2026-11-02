@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Kebijakan perkreditan atau pembiayaan Bank sebagaimana dimaksud dalam Pasal 2 paling sedikit memuat dan mengatur hal pokok sebagaimana ditetapkan dalam Pedoman Penyusunan Kebijakan Perkreditan atau Pembiayaan Bank sebagai berikut:
+Kebijakan perkreditan atau pembiayaan Bank sebagaimana dimaksud dalam
+
+Pasal 2
+paling sedikit memuat dan mengatur hal pokok sebagaimana ditetapkan dalam Pedoman Penyusunan Kebijakan Perkreditan atau Pembiayaan Bank sebagai berikut:
 
 1. prinsip kehatian-hatian dalam perkreditan atau pembiayaan;
 

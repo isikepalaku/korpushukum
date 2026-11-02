@@ -21,7 +21,10 @@ mengamandemen: []
 (1) 
 Pencatatan kelahiran WNI di luar wilayah Negara 
 Kesatuan Republik Indonesia sebagaimana dimaksud 
-dalam Pasal 42 huruf d, wajib dicatatkan pada instansi 
+dalam
+
+Pasal 42
+huruf d, wajib dicatatkan pada instansi 
 yang berwenang di negara setempat dan dilaporkan 
 kepada 
 Perwakilan 

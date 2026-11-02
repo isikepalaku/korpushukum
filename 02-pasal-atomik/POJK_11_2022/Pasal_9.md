@@ -19,9 +19,46 @@ mengamandemen: []
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 2 ayat (1), Pasal 3 ayat (1),
+dimaksud dalam Pasal 2 ayat (1),
 
-ayat (3), ayat (4), Pasal 4, Pasal 7 ayat (1), dan/atau
+Pasal 3
+ayat (1),
+
+ayat (3), ayat (4),
+
+Pasal 4, Pasal 7 ayat (1), dan/atau
+
+Pasal 8
+ayat (1), dikenai sanksi administratif berupa
+
+teguran tertulis.
+
+(2) Dalam hal Bank telah dikenai sanksi administratif
+
+sebagaimana dimaksud pada ayat (1) dan belum
+
+memenuhi ketentuan sebagaimana dimaksud dalam
+
+Pasal 2
+ayat (1),
+
+Pasal 3
+ayat (1), ayat (3), ayat (4),
+
+Pasal 4,
+
+Pasal 7
+ayat (1), dan/atau Pasal 8
+
+ayat (1), Bank dikenai sanksi administratif berupa:
+
+a. larangan untuk menerbitkan produk Bank baru;
+
+b. pembekuan kegiatan usaha tertentu; dan/atau
+
+c. penurunan penilaian faktor tata kelola dalam
+
+penilaian tingkat kesehatan Bank.
 
 ## Penjelasan Resmi
 

@@ -18,12 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**dan pemberhentian Penyidik Pembantu sebagaimana**
-**dimaksud dalam Pasal l0 dan Pasal 11 diatur dalam Peraturan Pemerintah.**
-
- Bagian Ketiga
-
- Penyelidikan
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

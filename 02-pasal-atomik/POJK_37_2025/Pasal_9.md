@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan menetapkan PPDP dengan
 status pengawasan khusus sebagaimana dimaksud
-dalam Pasal 8 ayat (1) untuk jangka waktu paling lama
+dalam
+
+Pasal 8
+ayat (1) untuk jangka waktu paling lama
 1 (satu) tahun terhitung sejak tanggal surat
 pemberitahuan Otoritas Jasa Keuangan.
 (2) Apabila jangka waktu PPDP dengan status pengawasan

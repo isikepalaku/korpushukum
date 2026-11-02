@@ -55,3 +55,5 @@ Pemberian pm3aman Pemerintah kepada Lembaga Penjamin Simpanan merupakan upaya Pe
 Ayat (6)
 
 Materi muatan dalam Peraturan Pemerintah paling sedikit mengatur besaran pinjaman antarprogram, tingkat likuiditas, persyaratan, dan tata cara pemberian pinjaman.
+
+Angka 57

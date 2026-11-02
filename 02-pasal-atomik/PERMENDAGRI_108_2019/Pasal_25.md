@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penerbitan KTP-el bagi petugas khusus sebagaimana 
-dimaksud dalam Pasal 18 ayat (2), diberikan kepada 
+dimaksud dalam
+
+Pasal 18
+ayat (2), diberikan kepada 
 petugas khusus yang melakukan tugas keamanan 
 negara. 
 (2) Tugas keamanan negara sebagaimana dimaksud pada 

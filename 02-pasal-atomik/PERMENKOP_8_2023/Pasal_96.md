@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), Pasal 106 ayat (2), dan Pasal 108 ayat (5) dikenai
+ayat (1),
+
+Pasal 106
+ayat (2), dan Pasal 108 ayat (5) dikenai
 sanksi administrasi.
 (2) Sanksi administratif sebagaimana dimaksud pada ayat
 (1) berupa:

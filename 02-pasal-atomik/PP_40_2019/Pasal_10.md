@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 3 ayat (21 huruf i, Menteri
+dimaksud dalam
+
+Pasal 3
+ayat (21 huruf i, Menteri
 memberikan hak akses kepada pengguna yang terdiri
 atas:
 a. kementerian;
@@ -52,6 +55,32 @@ Bagian Ketiga
 Pemerintah Daerah Provinsi
 Paragraf 1
 Gubernur
+
+Pasal 11
+(1) Gubernur menyelenggarakan urusan Administrasi
+Kependudukan di daerah provinsi.
+(2) Dalam menyelenggarakan urusan Administrasi
+Kependudukan sebagaimana dimaksud pada ayat (1),
+gubernur memiliki kewenangan meliputi:
+a. koordinasi penyelenggaraan urusan Administrasi
+Kependudukan;
+b. pemberian bimbingan, supervisi, dan konsultasi;
+c. pembinaan dan sosialisasi penyelenggaraan
+urusan Administrasi Kependudukan;
+d. penyajian
+
+d
+PRES I DEN
+REPUBLIK INDONESIA
+
+penyajian Data Kependudukan berskala provinsi
+yang berasal dari Data Kependudukan yang telah
+dikonsolidasikan dan
+dibersihkan oleh
+Kementerian; dan
+koordinasi pengawasan atas penyelenggaraan
+urusan Administrasi Kependudukan.
+e
 
 ## Penjelasan Resmi
 

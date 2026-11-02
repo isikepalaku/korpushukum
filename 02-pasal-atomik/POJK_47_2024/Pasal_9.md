@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Dalam hal permohonan izin usaha yang disampaikan
 oleh Koperasi yang memilih menjadi LJK tidak
 memenuhi persyaratan sebagai LJK sebagaimana
-dimaksud dalam Pasal 8 ayat (8), Koperasi wajib
+dimaksud dalam
+
+Pasal 8
+ayat (8), Koperasi wajib
 melakukan:
 a. pembubaran badan hukum sesuai dengan
 ketentuan peraturan perundang-undangan yang

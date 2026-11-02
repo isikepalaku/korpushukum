@@ -23,7 +23,10 @@ Huruf a
 
 Yang dimaksud dengan "akun pada Produk, Layanan, dan Fitur yang secara khusus dirancang untuk digunakan atau diakses oleh Anak dan memiliki profrl risiko rendah" misalnya akun pada Produk, l,ayanan, dan Fitur dengan metode pembelajaran secara daring (e-leaminglS yang dikembangkan oleh sekolah yang dikhususkan untuk peserta didik pada satuan pendidikan dasar untuk mendistribusikan tugas-tugas atau bahan ajar sekolah dari tenaga pendidik kepada peserta didik tanpa ada fitur komunikasi antar peserta didik. Huruf b Cukupjelas. Huruf c 
 
-Pemberian persetqiuan oleh orang tua untuk Anak yang berusia 17 (tqiuh belas) tahun lihat penjelasan Pasal 9 ayat (1) dan ayat (2). 
+Pemberian persetqiuan oleh orang tua untuk Anak yang berusia 17 (tqiuh belas) tahun lihat penjelasan
+
+Pasal 9
+ayat (1) dan ayat (2). 
 
 Ayat l2l 
 

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang tanpa hak bertindak sebagai penerima setoran Bipih sebagaimana dimaksud dalam Pasal 113 dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/ atau dipidana dengan pidana denda paling banyak kategori VI.
+Setiap Orang yang tanpa hak bertindak sebagai penerima setoran Bipih sebagaimana dimaksud dalam
+
+Pasal 113
+dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/ atau dipidana dengan pidana denda paling banyak kategori VI.
 
 - l0l.Ketentuan Pasal 121 diubah sehingga berbunyi sebagai berikut:
 

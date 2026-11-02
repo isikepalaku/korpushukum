@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemberdayaan kegiatan Angkutan l,aut PelayaranRakyat yang dilakukan oleh Pemerintah dan/atau Pemerintah Daerah sebagaimana dimaksud dalam Pasal 15B ayat (1) didanai oleh:
+Pemberdayaan kegiatan Angkutan l,aut PelayaranRakyat yang dilakukan oleh Pemerintah dan/atau Pemerintah Daerah sebagaimana dimaksud dalam
+
+Pasal 15B ayat (1) didanai oleh:
 
 - a. Anggaran Pendapatan dan Belanja Negara;
 - b. anggaran pendapatan dan belanja daerah provinsi;
@@ -31,7 +33,10 @@ Pemberdayaan kegiatan Angkutan l,aut PelayaranRakyat yang dilakukan oleh Pemerin
 Angka6...
 
 ```
-Angka 6 Pasal 24 Ayat (1)
+Angka 6
+
+Pasal 24
+Ayat (1)
 ```
 
 Pelaksanaan angkutan ke dan dari wilayah terpencil biasanya secara komersial kurang menguntungkan sehingga pelaksana angkutan pada umumnya tidak tertarik untuk melayani rute tersebut.
@@ -64,29 +69,44 @@ Ayat(7)...
 
 ## FRESIDEN REPUBLIK INDONESIA
 
-Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Angka 7 Pasal 25A Kerja sama perusahaan angkutan laut nasional dengan angkutan pelayaran-ra}ryat dilakukan dalam rangka pemberdayaan angkutan pelayaran-rakyat. Angka 8 Pasal 26 Cukup jelas. Angka 9 Pasal 26A Cukup jelas. Pasal 268 Cukup jelas. Pasal 26C Cukup jelas. Pasal 26D Cukup jelas. Angka 10 Pasal 29 Ayat (1) Yang dimaksud dengan "GT" adalah singkatan dari gross tonnage yang berarti, isi kotor Kapal secara keseluruhan yang dihitung sesuai dengan ketentuan Konvensi Internasional tentang Pengukuran Kapal (International Tonnage Measurement of Shzps) Tahun t969. Kapal berbendera Indonesia dengan ukuran sekurangkurangnya GT I75 (seratus tujuh puluh lima gross tonnage) dipenuhi dengan 1 (satu) unit Kapal.
+Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Angka 7
+
+Pasal 25A Kerja sama perusahaan angkutan laut nasional dengan angkutan pelayaran-ra}ryat dilakukan dalam rangka pemberdayaan angkutan pelayaran-rakyat. Angka 8 Pasal 26 Cukup jelas. Angka 9 Pasal 26A Cukup jelas. Pasal 268 Cukup jelas. Pasal 26C Cukup jelas. Pasal 26D Cukup jelas. Angka 10 Pasal 29 Ayat (1) Yang dimaksud dengan "GT" adalah singkatan dari gross tonnage yang berarti, isi kotor Kapal secara keseluruhan yang dihitung sesuai dengan ketentuan Konvensi Internasional tentang Pengukuran Kapal (International Tonnage Measurement of Shzps) Tahun t969. Kapal berbendera Indonesia dengan ukuran sekurangkurangnya GT I75 (seratus tujuh puluh lima gross tonnage) dipenuhi dengan 1 (satu) unit Kapal.
 
 ## PRESIDEN REPUBLIK INDONESIA
 
 Ayat (2) Dalam rangka mengembangkan industri pelayaran nasional, dimungkinkan adanya investasi asing. Mengenai kepemilikan tetap memperhatikan ketentuan dalam Undang-Undang ini. Yang dimaksud dengan "perusahaan Angkutan di Perairan" adalah perusahaan angkutan laut, perusahaan angkutan danau dan sungai, dan perusahaan angkutan penyeberangan. perkapalan terpadu" adalah pusat industri yang
 
 ```
-Angka 11 Pasal 33A Cukup jelas. Angka 12 Pasal 48 Cukup jelas. Angka 13 Pasal 56 Cukup jelas. Angka 14 Pasal 57 Ayat (1) Cukup jelas. Ayat (2) Huruf a Yang dimaksud dengan "kawasan industri meliputi, antara lain, fasilitas pembangunan, perawatan, perbaikan, dan pemeliharaan, yang terintegrasi dengan industri penunjangnya, seperti material Kapal, permesinan, dan perlengkapan Kapal. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Bahan baku dan komponen Kapal antara lain material, suku cadang, dan perlengkapan Kapal.
+Angka 11
+
+Pasal 33A Cukup jelas. Angka 12 Pasal 48 Cukup jelas. Angka 13 Pasal 56 Cukup jelas. Angka 14 Pasal 57 Ayat (1) Cukup jelas. Ayat (2) Huruf a Yang dimaksud dengan "kawasan industri meliputi, antara lain, fasilitas pembangunan, perawatan, perbaikan, dan pemeliharaan, yang terintegrasi dengan industri penunjangnya, seperti material Kapal, permesinan, dan perlengkapan Kapal. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Bahan baku dan komponen Kapal antara lain material, suku cadang, dan perlengkapan Kapal.
 ```
 
 Huruf e. . .
 
 ## EFFFIIItrN KIN NESIA
 
-Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Angka 15 Pasal 81 Cukup jelas. Angka 16 Pasal 82 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) 1 (satu) penyelenggara pelabuhan dapat membawahi beberapa Pelabuhan (duster). Ayat (4) Pemberian konsesi dilakukan melalui dalam hal lahan dimiliki oleh Badan Usaha Pelabuhan dan tidak menggunakan dana yang bersumber dari Anggaran Pendapatan dan Belanja Negara dan/ atau anggaran pendapatan dan belanja daerah. Bentuk lainnya antara lain persewaan lahan, pergudangan, dan penumpukan. Dalam perjanjian paling sedikit memuat hak dan kewajiban para pihak, kinerja yang harus dicapai oleh Badan Usaha Pelabuhan, dan jangka waktu konsesi. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas.
+Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Angka 15
+
+Pasal 81
+Cukup jelas. Angka 16 Pasal 82 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) 1 (satu) penyelenggara pelabuhan dapat membawahi beberapa Pelabuhan (duster). Ayat (4) Pemberian konsesi dilakukan melalui dalam hal lahan dimiliki oleh Badan Usaha Pelabuhan dan tidak menggunakan dana yang bersumber dari Anggaran Pendapatan dan Belanja Negara dan/ atau anggaran pendapatan dan belanja daerah. Bentuk lainnya antara lain persewaan lahan, pergudangan, dan penumpukan. Dalam perjanjian paling sedikit memuat hak dan kewajiban para pihak, kinerja yang harus dicapai oleh Badan Usaha Pelabuhan, dan jangka waktu konsesi. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas.
 
 ## FRESIDEN
 
-Angka 17 Pasal 83 Cukup jelas. Angka 18 Pasal 84 Cukup jelas. Angka 19 Pasal 85 Cukup jelas. Angka 20 Pasal 86 Cukup jelas. Angka 21 Pasal 87 Cukup jelas. Angka 22 Pasal 89 Cukup jelas. Angka 23 Pasal 90A Cukup jelas. Angka 24 Pasal 92 Pemberian konsesi dilakukan melalui penunjukan dalam hal lahan dimiliki oleh Badan Usaha Pelabuhan dan tidak menggunakan dana yang bersumber dari Anggaran Pendapatan dan Belanja Negara danlatau anggaran pendapatan dan belanja daerah. Dalam perjanjian paling sedikit memuat hak dan kewajiban para pihak, kinerja yang harus dicapai oleh Badan Usaha Pelabuhan, dan jangka waktu konsesi. Angka 25 Pasal LOTA Pengawasan antara lain, perizinan, pembangunan, pengembangan, dan pengoperasian di Terminal Khusus dan Terminal untuk Kepentingan Sendiri.
+Angka 17
 
-Angka 26 Pasal 1 10 Ayat (1) Cukup jelas. Angka 27 Pasal 123 Cukup jelas. Angka 28 Pasal 146 Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Kesepakatan antara Badan Usaha Pelabuhan dengan asosiasi pengguna jasa dan asosiasi penyedia jasa mengenai tarif jasa Kepelabuhanan dilakukan berdasarkan dan dengan mempertimbangkan: a. asas persaingan sehat; b. asas adil dan merata tanpa diskriminasi; c. asas keseimbangan, keserasian, dan keselarasan; dan d. asas kepentingan lrmum, sebagaimana diatur dalam Pasal 2 Undang-Undang ini. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas.
+Pasal 83
+Cukup jelas. Angka 18 Pasal 84 Cukup jelas. Angka 19 Pasal 85 Cukup jelas. Angka 20 Pasal 86 Cukup jelas. Angka 21 Pasal 87 Cukup jelas. Angka 22 Pasal 89 Cukup jelas. Angka 23 Pasal 90A Cukup jelas. Angka 24 Pasal 92 Pemberian konsesi dilakukan melalui penunjukan dalam hal lahan dimiliki oleh Badan Usaha Pelabuhan dan tidak menggunakan dana yang bersumber dari Anggaran Pendapatan dan Belanja Negara danlatau anggaran pendapatan dan belanja daerah. Dalam perjanjian paling sedikit memuat hak dan kewajiban para pihak, kinerja yang harus dicapai oleh Badan Usaha Pelabuhan, dan jangka waktu konsesi. Angka 25 Pasal LOTA Pengawasan antara lain, perizinan, pembangunan, pengembangan, dan pengoperasian di Terminal Khusus dan Terminal untuk Kepentingan Sendiri.
 
-Angka 29 Pasal 158A
+Angka 26
+
+Pasal 110
+Ayat (1) Cukup jelas. Angka 27 Pasal 123 Cukup jelas. Angka 28 Pasal 146 Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Kesepakatan antara Badan Usaha Pelabuhan dengan asosiasi pengguna jasa dan asosiasi penyedia jasa mengenai tarif jasa Kepelabuhanan dilakukan berdasarkan dan dengan mempertimbangkan: a. asas persaingan sehat; b. asas adil dan merata tanpa diskriminasi; c. asas keseimbangan, keserasian, dan keselarasan; dan d. asas kepentingan lrmum, sebagaimana diatur dalam Pasal 2 Undang-Undang ini. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas.
+
+Angka 29
+
+Pasal 158A
 
 Ayat (1) Ketentuan ini dimaksudkan agar kepemilikan saham
 
@@ -127,7 +147,10 @@ Ketentuan . . .
 Yang dimaksud dengan "dalam keadaan tertentu" adalah apabila Sarana Bantu Navigasi-Pelayaran dipergunakan untuk mendukung kegiatan yang bukan untuk kepentingan umum antara lain anjungan minyak (oil platforml, pengerukan, Saluage, dan Terminal Khusus di lokasi tertentu.
 
 ```
-Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 31 Pasal 185 Cukup jelas. Angka 32 Pasal 195 Huruf a Cukup jelas.
+Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 31
+
+Pasal 185
+Cukup jelas. Angka 32 Pasal 195 Huruf a Cukup jelas.
 ```
 
 Huruf b. . .

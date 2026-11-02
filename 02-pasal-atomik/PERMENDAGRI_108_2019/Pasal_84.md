@@ -26,7 +26,10 @@ www.peraturan.go.id
 2019, No. 1789 
 
 Kesatuan Republik Indonesia sebagaimana dimaksud 
-dalam Pasal 81 huruf c, dicatatkan pada Perwakilan 
+dalam
+
+Pasal 81
+huruf c, dicatatkan pada Perwakilan 
 Republik Indonesia dengan memenuhi persyaratan: 
 a. petikan keputusan menteri yang menyelenggarakan 
 urusan pemerintahan di bidang hukum dan hak 

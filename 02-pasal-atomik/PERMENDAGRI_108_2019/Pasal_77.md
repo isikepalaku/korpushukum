@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) 
 Pencatatan pengesahan anak sebagaimana dimaksud 
-dalam Pasal 75 ayat (1) huruf b, dengan memenuhi 
+dalam
+
+Pasal 75
+ayat (1) huruf b, dengan memenuhi 
 persyaratan sesuai dengan ketentuan Peraturan Presiden 
 mengenai 
 persyaratan 

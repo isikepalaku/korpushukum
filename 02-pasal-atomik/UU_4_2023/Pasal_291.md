@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemegang saham badan pengelola instrumen keuangan (special purpose vehicle) dan/ atau pengelola dana perwalian (trustee) yang dengan sengaja melanggar ketentuan sebagaimana dimaksud dalam Pasal 35 ayat (5) dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (tiga) tahun dan pidana denda paling sedikit Rpl00.000.000,00 (seratus juta rupiah) dan paling banyak Rpl .500.000.000,00 (satu miliar lima ratus juta rupiah).
+Pemegang saham badan pengelola instrumen keuangan (special purpose vehicle) dan/ atau pengelola dana perwalian (trustee) yang dengan sengaja melanggar ketentuan sebagaimana dimaksud dalam
+
+Pasal 35
+ayat (5) dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (tiga) tahun dan pidana denda paling sedikit Rpl00.000.000,00 (seratus juta rupiah) dan paling banyak Rpl .500.000.000,00 (satu miliar lima ratus juta rupiah).
 
 ## Penjelasan Resmi
 

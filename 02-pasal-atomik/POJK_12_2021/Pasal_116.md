@@ -17,9 +17,15 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), Pasal 129 ayat (1), Pasal 132 ayat (1),
+ayat (1),
 
-dan/atau Pasal 134 ayat (1), disampaikan melalui
+Pasal 129
+ayat (1), Pasal 132 ayat (1),
+
+dan/atau
+
+Pasal 134
+ayat (1), disampaikan melalui
 
 sistem perizinan OJK dengan tata cara sesuai
 
@@ -29,9 +35,10 @@ elektronik di sektor jasa keuangan; atau
 
 b. pelaporan pelaksanaan sebagaimana dimaksud
 
-dalam Pasal 53 ayat (1), Pasal 58 ayat (2), Pasal
+dalam Pasal 53 ayat (1),
 
-63 ayat (4), Pasal 66 ayat (4), Pasal 67 ayat (2),
+Pasal 58
+ayat (2), Pasal 63 ayat (4), Pasal 66 ayat (4), Pasal 67 ayat (2),
 
 ## Penjelasan Resmi
 

@@ -29,6 +29,16 @@ dikenai sanksi administratif oleh Lembaga Penjamin Simpanan berupa denda.
 - (2) Ketentuan lebih lanjut mengenai besaran dan jangka waktu pengenaan serta tata cara pengenaan sanksi administratif untuk pelanggaran kewajiban sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Lembaga Penjamin Simpanan.
 33. Di antara Pasal 4 7 dan Pasal 48 disisipkan 1 (satu) pasal, yakni Pasal 4 7 A sehingga berbunyi sebagai berikut:
 
+**Pasal 47A**
+
+Bank, anggota direksi, anggota dewan komisaris, pemegang saham, pegawai, dan/ atau pihak terafiliasi yang melanggar ketentuan larangan penggunaan penempatan dana sebagaimana dimaksud dalam
+
+Pasal 20D ayat (1) dan ayat (3) dipidana dengan pidana penjara paling singkat 2 (dua) tahun dan paling lama 10 (sepuluh) tahun dan pidana denda paling sedikit Rpl0.000.000.000,00 (sepuluh miliar rupiah) dan paling banyak Rp.50.000.000.000,00 (lima puluh miliar rupiah).
+
+**BAB XXII**
+
+**LEMBAGA PEMBIAYMN EKSPOR INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

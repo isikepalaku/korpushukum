@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Direksi Bank mengajukan permohonan persetujuan
 persiapan pencabutan izin usaha sebagaimana
-dimaksud dalam Pasal 120 ayat (1) huruf a kepada OJK,
+dimaksud dalam
+
+Pasal 120
+ayat (1) huruf a kepada OJK,
 disertai dokumen tercantum dalam Lampiran I yang
 merupakan bagian tidak terpisahkan dari Peraturan
 OJK ini.

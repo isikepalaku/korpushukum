@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '54'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -38,4 +38,12 @@ j. pemaafan . . .
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+Ketentuan ini memuat pedoman pemidanaan yang sangat membantu hakim dalam mempertimbangkan takaran atau berat ringannya pidana yang akan dijatuhkan.
+
+Dengan mempertimbangkan hal-hal yang dirinci dalam pedoman tersebut diharapkan pidana yang dljatuhkan bersifat proporsional dan dapat dipahami baik oleh masyarakat maupun terpidana. Rincian dalam ketentuan ini tidak bersifat limitatii artinya hakim dapat menambahkan pertimbangan lain selain yang tercantum pada ayat (1) ini.
+
+Ayat (2)
+
+Ketentuan pada ayat ini dikenal dengan asas reclterlijlce pardon atau judicialpardonyang memberi kewenangan kepada hakim untuk memberi maaf pada seseorzrng yang bersalah melakukan Tindak Pidana yang sifatnya ringan. Pemberian maaf ini dicantumkan dalam putusan hakim dan tetap harus dinyatakan bahwa terdakwa terbukti melakukan Tindak Pidana yarrg didalnvakan kepadanya.

@@ -20,7 +20,10 @@ mengamandemen: []
 (1) 
 Pengujian komponen Perangkat Keras 
 sebagaimana 
-dimaksud dalam Pasal 3 ayat (3) dilakukan melalui 
+dimaksud dalam
+
+Pasal 3
+ayat (3) dilakukan melalui 
 sertifikasi tingkat komponen dalam negeri sesuai dengan 
 ketentuan peraturan perundang-undangan. 
 (2) 

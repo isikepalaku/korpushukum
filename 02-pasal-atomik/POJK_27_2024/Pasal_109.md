@@ -21,12 +21,17 @@ mengamandemen: []
 (1) Penyelenggara Perdagangan Aset Keuangan Digital yang
 tidak menyampaikan laporan sampai dengan
 berakhirnya jangka waktu sebagaimana dimaksud
-dalam Pasal 108 ayat (2) huruf a, dinyatakan tidak
+dalam
+
+Pasal 108
+ayat (2) huruf a, dinyatakan tidak
 menyampaikan laporan.
 (2) Penyelenggara Perdagangan Aset Keuangan Digital yang
 menyampaikan laporan bulanan, laporan triwulanan,
 dan/atau laporan tahunan setelah jangka waktu
-penyampaian sebagaimana dimaksud dalam Pasal 108
+penyampaian sebagaimana dimaksud dalam
+
+Pasal 108
 ayat (2) huruf b, huruf c, dan huruf d hingga paling
 lama 30 (tiga puluh) hari setelah jangka waktu
 penyampaian tersebut berakhir, dinyatakan terlambat

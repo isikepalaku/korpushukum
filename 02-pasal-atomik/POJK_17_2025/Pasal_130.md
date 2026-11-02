@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Perjanjian penyelenggaraan Layanan Urun Dana antara
 Penyelenggara dan Penerbit sebagaimana dimaksud
-dalam Pasal 129 huruf a harus dituangkan dalam akta.
+dalam
+
+Pasal 129
+huruf a harus dituangkan dalam akta.
 (2) Akta sebagaimana dimaksud pada ayat (1) dapat
 berupa akta notaris.
 (3) Akta sebagaimana dimaksud pada ayat (1) dapat

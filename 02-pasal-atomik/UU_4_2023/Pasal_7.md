@@ -18,9 +18,9 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_21_2008/Pasal_7|UU 21/2008 Pasal 7]]'
 - '[[02-pasal-atomik/UU_21_2011/Pasal_7|UU 21/2011 Pasal 7]]'
 - '[[02-pasal-atomik/UU_23_1999/Pasal_7|UU 23/1999 Pasal 7]]'
-- '[[02-pasal-atomik/UU_24_2002/Pasal_7|UU 24/2002 Pasal 7]]'
 - '[[02-pasal-atomik/UU_24_2004/Pasal_7|UU 24/2004 Pasal 7]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_7|UU 25/1992 Pasal 7]]'
+- '[[02-pasal-atomik/UU_3_2004/Pasal_7|UU 3/2004 Pasal 7]]'
 - '[[02-pasal-atomik/UU_32_1997/Pasal_7|UU 32/1997 Pasal 7]]'
 - '[[02-pasal-atomik/UU_40_2004/Pasal_7|UU 40/2004 Pasal 7]]'
 - '[[02-pasal-atomik/UU_40_2014/Pasal_7|UU 40/2014 Pasal 7]]'
@@ -44,7 +44,9 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Ayat (1) Huruf a Hurufb Cukup jelas. Huruf c Cukup jelas. Huruf d Ayat (2) Cukup jelas. Pasal 7A
+Ayat (1) Huruf a Hurufb Cukup jelas. Huruf c Cukup jelas. Huruf d Ayat (2) Cukup jelas.
+
+Pasal 7A
 Ayat (1)
 
 Yang dimaksud dengan "memanfaatkan teknologi informasi" adalah pemanfaatan teknologi informasi dalam rangka mendorong transformasi Perbankan menuju era digital banking.
@@ -74,3 +76,33 @@ Ketentuan peraturan perundang-undangan di antaranya mencakup ketentuan mengenai 
 Ayat (4)
 
 Cukup jelas.
+
+Pasal 7B
+
+Ayat (1)
+
+Bank digital merupakan Bank yang menyediakan dan menjalankan kegiatan usaha terutama melalui saluran elektronik tanpa kantor fisik selain kantor pusat, atau menggunakan kantor fisik yang terbatas.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3) ...
+
+```
+Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Angka 5
+
+Pasal 8A Ayat (1) Kewajiban transparansi suku bunga dilaksanakan dengan mempublikasikan suku bunga dasar kredit, di antaranya mencakup cost offund, margin, dan overhead cost. Ayat ~2) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Angka 6 Pasal 10 Cukup jelas. Angka 7 Pasal 12A Cukup jelas. Angka 8 Pasal 12B Cukup jelas. Angka 9 Pasal 13 Ayat (1) Huruf a Cukup jelas. Hurufb Cukup jelas.
+```
+
+Huruf c ...
+
+```
+Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Kerja sama dengan LJK lain di antaranya mencakup kerja sama pemasaran produk asuransi, pemasaran produk reksa dana, penyelenggaraan Dana Pensiun bagi karyawan BPR, penyaluran Kredit secara channeling, dan produk lainnya. Kerja sama dengan selain WK di antaranya mencakup kerja sama dengan perusahaan di bidang teknologi informasi dalam mengembangkan layanan digital. Huruf h Cukup jelas. Huruf i Kegiatan lainnya di antaranya mencakup sistem pembayaran berbasis digital dan penerbitan kartu anjungan tunai mandiri. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 10
+
+Pasal 13A Cukup jelas.
+```
+
+Angka 11 ...
+
+**Angka 11**

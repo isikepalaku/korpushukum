@@ -17,42 +17,39 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-c. komunikasi kepada Nasabah untuk melakukan
-pemasukan, penarikan, pengecekan saldo atau
-penutupan rekening Giro dan Tabungan;
-d. mekanisme dalam hal Nasabah tidak dapat
-dihubungi;
-e. pembebanan biaya administrasi dan pembayaran
-bunga/imbal hasil dalam perikatan antara Bank
-dengan Nasabah;
-f. pencantuman _flagging pada sistem internal bank_
-atas rekening aktif, rekening yang tidak aktif, dan
-rekening dormant, termasuk pemisahan dengan
-rekening lainnya untuk kebutuhan pelaporan;
-g. pemantauan dan pengendalian internal terhadap
-rekening tidak aktif dan rekening dormant;
-h. verifikasi dan uji validasi untuk pengaktifan
-kembali rekening tidak aktif dan rekening
-dormant;
+(1) Pengelolaan rekening Giro dan Tabungan
+diklasifikasikan menjadi:
+a. rekening aktif, yaitu rekening yang memiliki
+aktivitas pemasukan, penarikan, atau pengecekan
+saldo;
 
 -----
 
-i. mekanisme penutupan rekening Giro dan
-Tabungan melalui kanal yang tersedia pada Bank;
-dan
-j. penutupan rekening Giro dan Tabungan secara
-otomatis untuk rekening Giro dan Tabungan
-bersaldo nihil untuk kurun waktu paling lama 6
-(enam) bulan.
-(2) Bank dilarang mengenakan biaya administrasi rekening
-sebagaimana dimaksud pada ayat (1) huruf e yang
-mengakibatkan rekening bersaldo negatif.
-(3) Bank wajib menyediakan sistem dalam rangka
-pengelolaan rekening Giro dan Tabungan dan
-mengklasifikasikan rekening Giro dan Tabungan sesuai
-dengan kriteria rekening aktif, rekening tidak aktif, dan
-rekening dormant sebagaimana dimaksud pada ayat (1)
-huruf f.
+b. rekening tidak aktif, yaitu rekening yang tidak
+memiliki aktivitas pemasukan, penarikan, atau
+pengecekan saldo lebih dari 360 hari; dan
+c. rekening dormant, yaitu rekening yang tidak
+memiliki aktivitas pemasukan, penarikan, atau
+pengecekan saldo lebih dari 1800 hari.
+(2) Aktivitas rekening Giro dan Tabungan yang dihasilkan
+oleh sistem bank tidak termasuk dalam aktivitas dalam
+pemasukan atau penarikan sebagaimana dimaksud
+pada ayat (1).
+(3) Rekening Giro dan Tabungan yang dimiliki oleh
+Nasabah:
+a. untuk tujuan tertentu;
+b. dengan fitur berjangka; atau
+c. dalam sengketa,
+diklasifikasikan sebagai rekening aktif.
+(4) Penerapan klasifikasi rekening Giro dan Tabungan
+sebagaimana dimaksud pada ayat (1) dilakukan pada
+setiap rekening Giro dan Tabungan untuk setiap
+Nasabah.
+
+BAB II
+KEBIJAKAN DAN PROSEDUR PENATAUSAHAAN
+
+REKENING GIRO DAN TABUNGAN
 
 ## Penjelasan Resmi
 

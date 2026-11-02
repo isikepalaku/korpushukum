@@ -20,7 +20,10 @@ mengamandemen: []
 
 - (1) SetiaporangyangmelakukanSurveiUmumsebagaimanadimaksuddalamPasal19ayat(1)
 
-tanpa hak dipidana dengan pidana kurungan paling lama 1 (satu) tahun atau denda paling tinggi Rp10.000.000.000,00 (sepuluh miliar rupiah). (2) Setiaporangyangmengirimataumenyerahkanataumemindahtangankandatasebagaimana dimaksud dalam Pasal 20 tanpa hak dalam bentuk apa pun dipidana dengan pidana kurungan paling lama 1 (satu) tahun atau denda paling tinggi Rp10.000.000.000,00 (sepuluh miliar rupiah).
+tanpa hak dipidana dengan pidana kurungan paling lama 1 (satu) tahun atau denda paling tinggi Rp10.000.000.000,00 (sepuluh miliar rupiah). (2) Setiaporangyangmengirimataumenyerahkanataumemindahtangankandatasebagaimana dimaksud dalam
+
+Pasal 20
+tanpa hak dalam bentuk apa pun dipidana dengan pidana kurungan paling lama 1 (satu) tahun atau denda paling tinggi Rp10.000.000.000,00 (sepuluh miliar rupiah).
 
 ## Penjelasan Resmi
 

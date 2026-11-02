@@ -19,13 +19,18 @@ mengamandemen: []
 
 (1) Bank dapat mengajukan permohonan izin
 
-sebagaimana dimaksud dalam Pasal 35 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 35
+ayat (2)
 
 sepanjang Bank:
 
 a. memenuhi ketentuan sebagaimana dimaksud
 
-dalam Pasal 29 dan Pasal 30;
+dalam Pasal 29 dan
+
+Pasal 30;
 
 b. menyampaikan hasil analisis risiko negara;
 
@@ -113,7 +118,10 @@ Elektronik pada Pusat Data dan/atau Pusat
 
 Pemulihan Bencana di luar wilayah Indonesia
 
-sebagaimana dimaksud dalam Pasal 35 ayat (4).
+sebagaimana dimaksud dalam
+
+Pasal 35
+ayat (4).
 
 (2) Otoritas Jasa Keuangan memberikan izin atau
 
@@ -128,6 +136,71 @@ sebagaimana dimaksud dalam
 **t id**
 
 -----
+
+Pasal 35
+ayat (2) paling lama 3 (tiga) bulan setelah
+
+seluruh persyaratan dipenuhi oleh Bank dan dokumen
+
+permohonan diterima secara lengkap oleh Otoritas
+
+Jasa Keuangan.
+
+(3) Bank wajib memastikan bahwa data yang digunakan
+
+dalam Sistem Elektronik yang ditempatkan pada Pusat
+
+Data dan/atau Pusat Pemulihan Bencana di luar
+
+wilayah Indonesia tidak digunakan untuk tujuan
+
+selain sebagaimana dimaksud dalam
+
+Pasal 35
+ayat (3)
+
+atau
+
+Pasal 35
+ayat (4).
+
+(4) Dalam hal berdasarkan penilaian Otoritas Jasa
+
+Keuangan penempatan Sistem Elektronik pada Pusat
+
+Data dan/atau Pusat Pemulihan Bencana di luar
+
+wilayah Indonesia:
+
+a. tidak sesuai dengan permohonan izin
+
+penempatan Sistem Elektronik pada Pusat Data
+
+dan/atau Pusat Pemulihan Bencana di luar
+
+wilayah Indonesia yang disampaikan kepada
+
+Otoritas Jasa Keuangan;
+
+b. berpotensi mengurangi efektivitas pengawasan
+
+Otoritas Jasa Keuangan;
+
+c. berpotensi berdampak negatif terhadap kinerja
+
+Bank; dan/atau
+
+d. tidak sesuai dengan ketentuan peraturan
+
+perundang-undangan,
+
+Otoritas Jasa Keuangan dapat meminta Bank untuk
+
+menempatkan Sistem Elektronik pada Pusat Data
+
+dan/atau Pusat Pemulihan Bencana di wilayah
+
+Indonesia.
 
 ## Penjelasan Resmi
 

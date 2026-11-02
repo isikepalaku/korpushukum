@@ -36,4 +36,46 @@ Yang dimaksud dengan "bertanggungjawab" adalah ada subjek hukum yang bertanggung
 
 Ayat (3) 
 
+Cukupjelas. 
+
+Angka 5
+
+Pasal 16A 
+
+Ayat (1) 
+
+Cukupjelas. 
+
+Ayat (2) 
+
+Pelindungan terhadap hak anak merupakan prioritas, Penyelenggara Sistem Elektronik dibandingkan dengan kepentingan komersial Penyelenggara Sistem Elektronik. 
+
+Yang . . . 
+
+**PRESIDEN NEPUELIK INDONESIA**
+
+Yang dimaksud dengan "pelindungan terhadap hak anak" termasuk pelindungan terhadap data pribadi, privasi, dan keamanan diri anak baik secara frsik, mental, maupun psikis dari penyalahgunaan Informasi Elektronik dan/atau Dokumen Elektronik yang melanggar hak anak. 
+
+Yang dimaksud dengan "produk, layanan, dan fitur yang dikembangkan dan diselenggarakan oleh Penyelenggara Sistem Elektronilt' adalah produk, layanan, dan fitur yang secara khusus dirancang untuk digunakan atau diakses oleh anak, atau yang mungkin digunakan atau diakses oleh anak. 
+
+Ayat (3) 
+
+Cukupjelas. 
+
+Ayat (4) 
+
+Huruf a 
+
+Cukupjelas. 
+
+**Huruf b**
+
+Yang dimaksud dengan "mekanisme verifikasi" adalah tata cara untuk memastikan bahwa pengguna yang mengakses Sistem Elektronik adalah anak, dengan menggunakan teknologi. 
+
+**Huruf c**
+
+Yang dimaksud denganomekanisme pelaporan penyalahgunaan" adalah tala, cara pelaporan dalam sebuah layanan atau fitur yang dapat diakses dengan mudah oleh anak, orang tua, dan/ atau wali anak. 
+
+Ayat (5) 
+
 Cukupjelas.

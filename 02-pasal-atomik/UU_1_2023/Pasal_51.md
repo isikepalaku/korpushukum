@@ -18,14 +18,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengusaha yang dinyatakan pailit atau yang diizinkan melepaskan harta bendanya menurut putusan pengadilan dipidana karena merugikan kreditur, dengan pidana penjara paling lama I (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori III jika:
+Pemidanaan bertujuan:
 
-- a. hidup terlalu boros;
-- b. dengan maksud menangguhkan kepailitannya meminjam uang dengan suatu perjanjian yang memberatkannya, sedang diketahuinya pinjaman tersebut tidak akan dapat mencegahnya jatuh pailit; atau
+- a. mencegah dilakukannya Tindak Pidana dengan menegakkan norma hukum demi pelindungan dan pengayoman masyarakat;
+- b. memasyaralatkan terpidana dengan mengadalan pembinaan dan pembimbingan agar menjadi orang yang baik dan berguna;
 
-c. tidak
-
-- c tidak dapat memperlihatkan dalam keadaan utuh buku, Surat yang berisi catatan yang menggambarkan keadaan kekayaan perusahaan, dan Surat lain yang harus dibuat dan disimpan sesuai dengan ketentuan peraturan perundang-undangan.
+- -19-
+- c menyelesaikan konflik yang ditimbulkan akibat Tindak Pidana, memulihkan keseimbangan, serta mendatangkan rasa arnan dan damai dalam masyarakat; dan
+- d menumbuhkan rasa penyesalan dan membebaskan rasa bersalah pada terpidana.
 
 ## Penjelasan Resmi
 

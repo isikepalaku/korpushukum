@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) Menteri melakukan penilaian terhadap laporan kegiatan
 usaha simpan pinjam oleh Koperasi sebagaimana
-dimaksud dalam Pasal 106.
+dimaksud dalam
+
+Pasal 106.
 (2) Menteri dalam melakukan penilaian terhadap laporan
 kegiatan usaha simpan pinjam oleh Koperasi
 sebagaimana dimaksud pada ayat (1) dapat dibantu oleh:

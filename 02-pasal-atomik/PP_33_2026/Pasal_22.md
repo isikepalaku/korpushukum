@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Waktu penerimaan atas permohonan tercatat scbagaimana dimaksud dalam Pasal 20 ditentukan sebagai berikut:
+Waktu penerimaan atas permohonan tercatat scbagaimana dimaksud dalam
+
+Pasal 20
+ditentukan sebagai berikut:
 
 - a permohonan yang disampaikan secara clektronik, waktu penerimaan dihitung sejak permohonan masuk ke dalam sistem ¢lektronik di bawah kendali Pengendali Data Pribadi; atau
 

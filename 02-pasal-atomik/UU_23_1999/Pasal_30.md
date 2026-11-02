@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Bank Indonesia dapat menugasi pihak lain untuk dan atas nama
- Bank Indonesia melaksanakan pemeriksaan sebagaimana dimaksud dalam Pasal 29 ayat (1) dan ayat (2).
+ Bank Indonesia melaksanakan pemeriksaan sebagaimana dimaksud dalam
+
+Pasal 29
+ayat (1) dan ayat (2).
 
  (2). Pihak lain yang melaksanakan pemeriksaan sebagaimana dimaksud pada ayat (1), wajib merahasiakan keterangan dan data yang diperoleh dalam pemeriksaan.
 

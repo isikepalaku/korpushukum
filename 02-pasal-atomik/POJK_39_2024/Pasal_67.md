@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Dalam hal perubahan kepemilikan Perusahaan
 memerlukan persetujuan RUPS, Perusahaan yang telah
 memperoleh persetujuan perubahan kepemilikan
-sebagaimana dimaksud dalam Pasal 66 ayat (1) dari
+sebagaimana dimaksud dalam
+
+Pasal 66
+ayat (1) dari
 Otoritas Jasa Keuangan harus melaksanakan RUPS
 yang menyetujui perubahan kepemilikan paling lambat
 60 (enam puluh) hari kerja terhitung sejak tanggal surat

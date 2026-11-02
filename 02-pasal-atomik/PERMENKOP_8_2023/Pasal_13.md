@@ -18,8 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Menteri melalui Deputi menetapkan tata cara pelaksanaan uji
-kelayakan dan kepatutan sebagaimana dimaksud dalam Pasal
-8 ayat (1) huruf f.
+kelayakan dan kepatutan sebagaimana dimaksud dalam
+
+Pasal 8
+ayat (1) huruf f.
 
 Bagian Kelima
 Tata Cara Penerbitan Izin Usaha Simpan Pinjam

@@ -39,4 +39,5 @@ Ayat (2) . . .
  Ayat (2) 
 Cukup jelas. 
 Ayat (3) 
-Cukup jelas.
+Cukup jelas. 
+Angka 12

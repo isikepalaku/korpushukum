@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal terjadi situasi Wabah sebagaimana dimaksud dalam Pasal 369, Presiden menetapkan Wabah sebagai bencana nasional nonalam sesuai dengan ketentuan peraturan perundang-undangan.
+Dalam hal terjadi situasi Wabah sebagaimana dimaksud dalam
+
+Pasal 369, Presiden menetapkan Wabah sebagai bencana nasional nonalam sesuai dengan ketentuan peraturan perundang-undangan.
 
 ## Paragraf 6
 

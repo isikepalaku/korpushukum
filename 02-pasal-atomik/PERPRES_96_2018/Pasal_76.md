@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Denda administratif sebagaimana dimaksud dalam Pasal 73,
+Denda administratif sebagaimana dimaksud dalam
+
+Pasal 73,
 
 ## Penjelasan Resmi
 

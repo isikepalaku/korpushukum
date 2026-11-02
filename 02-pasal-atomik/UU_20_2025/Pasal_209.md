@@ -30,3 +30,12 @@ mengamandemen: []
 **itu, orang yang menjadi Saksi dapat dikenakan pidana**
 **berdasarkan ketentuan Undang-Undang. Demikian pula halnya**
 dengan Ahli.
+
+Pasal 21O...
+
+-----
+
+**tIrIrEIlIIlN**
+REPUELIK INDONESIA
+
+**-36-**

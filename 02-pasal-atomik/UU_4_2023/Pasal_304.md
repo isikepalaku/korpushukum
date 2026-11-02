@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang melanggar ketentuan perizinan sebagaimana dimaksud dalam Pasal 218 dipidana dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 10 (sepuluh) tahun dan pidana denda paling sedikit Rpl.000.000.000,00 (satu miliar rupiah) dan paling banyak Rpl.000.000.000.000,00 (satu triliun rupiah).
+Setiap Orang yang melanggar ketentuan perizinan sebagaimana dimaksud dalam
+
+Pasal 218
+dipidana dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 10 (sepuluh) tahun dan pidana denda paling sedikit Rpl.000.000.000,00 (satu miliar rupiah) dan paling banyak Rpl.000.000.000.000,00 (satu triliun rupiah).
 
 Bagian ...
 

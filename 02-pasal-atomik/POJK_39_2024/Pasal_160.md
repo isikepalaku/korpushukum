@@ -22,7 +22,10 @@ penerusan dan/atau Pinjaman bersama, Perusahaan wajib
 memiliki sistem informasi dan teknologi yang memadai
 untuk memastikan kesesuaian data Nasabah yang dimiliki
 oleh Perusahaan dan pihak lain sebagaimana dimaksud
-dalam Pasal 157 ayat (3).
+dalam
+
+Pasal 157
+ayat (3).
 
 Bagian Ketujuh
 Sistem Informasi

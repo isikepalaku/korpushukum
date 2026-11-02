@@ -43,7 +43,6 @@ REPUBLIK [INDONESIA]
 Cukr:pr jFlas.
 
 Pasal i37
-
 **Ayat (I)**
  Pemanr.aLran dan evaluasi scwaktu-waktu dilakukan berdasarlran adanya temuan atau l2:poran dari masyarakat. Al,at (2)
 
@@ -51,9 +50,7 @@ Cukrrp [jelas.]
 
 I'jasal 13E
 
-**G.,k,jp jelas.**
-
- Pasal. . .
+**G.,k,jp jelas.**Pasal. . .
 
 -----
 

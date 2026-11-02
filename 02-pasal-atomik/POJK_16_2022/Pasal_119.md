@@ -22,7 +22,10 @@ a. tidak dalam status pengawasan khusus; dan
 b. melaksanakan tahapan dalam pencabutan izin usaha
 sesuai dengan peraturan OJK ini,
 OJK melakukan pencabutan izin usaha Bank sebagaimana
-dimaksud dalam Pasal 118 ayat (2) huruf a angka 1.
+dimaksud dalam
+
+Pasal 118
+ayat (2) huruf a angka 1.
 
 ## Penjelasan Resmi
 

@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Kewajiban penyusunan Laporan Triwulanan bagi
 Perusahaan Asuransi Syariah, Perusahaan Reasuransi
 Syariah, dan Unit Syariah sebagaimana dimaksud
-dalam Pasal 4 ayat (1) mulai berlaku sejak berlakunya
+dalam
+
+Pasal 4
+ayat (1) mulai berlaku sejak berlakunya
 standar akuntansi keuangan mengenai kontrak
 asuransi syariah.
 (2) Ketentuan mengenai batas waktu penyampaian

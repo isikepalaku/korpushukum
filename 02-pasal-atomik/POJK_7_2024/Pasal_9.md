@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Permohonan untuk memperoleh persetujuan prinsip
-sebagaimana dimaksud dalam Pasal 8 huruf a diajukan
+sebagaimana dimaksud dalam
+
+Pasal 8
+huruf a diajukan
 paling sedikit oleh 1 (satu) calon PSP kepada OJK disertai
 dengan dokumen persyaratan pengajuan persetujuan
 prinsip pendirian BPR atau BPR Syariah tercantum dalam

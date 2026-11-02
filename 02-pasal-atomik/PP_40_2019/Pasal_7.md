@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 3 ayat (2) huruf d, Menteri:
+dimaksud dalam
+
+Pasal 3
+ayat (2) huruf d, Menteri:
 a. melaksanakan pembinaan penyelenggaraan urusan
 Administrasi Kependudukan meliputi:
 1. menetapkan standar kualifikasi sumber daya

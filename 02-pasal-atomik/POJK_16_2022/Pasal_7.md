@@ -17,12 +17,23 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-berlaku, menyampaikan rencana korporasi kepada OJK
-paling lama 14 (empat belas) hari kerja sejak Peraturan OJK
-ini berlaku.
-
-BAB XVI
-KETENTUAN PENUTUP
+(1) Rencana korporasi sebagaimana dimaksud dalam Pasal 6 disusun untuk mencapai tujuan Bank dalam jangka
+panjang selama 5 (lima) tahun.
+(2) Rencana korporasi sebagaimana dimaksud pada ayat (1)
+paling sedikit memuat:
+a. visi dan misi Bank;
+b. evaluasi pelaksanaan rencana korporasi Bank
+periode sebelumnya;
+c. analisis lingkungan internal dan eksternal;
+d. sasaran dan strategi Bank;
+e. rencana dan strategi Sinergi Perbankan; dan
+f. rencana dan strategi sinergi ekosistem ekonomi
+dan keuangan syariah.
+(3) Bank wajib menyampaikan rencana korporasi
+sebagaimana dimaksud pada ayat (2) kepada OJK
+paling lambat pada akhir bulan November tahun
+sebelum periode awal dari 5 (lima) tahun rencana
+korporasi dimulai.
 
 ## Penjelasan Resmi
 

@@ -18,6 +18,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pemenuhan ketentuan sebagaimana dimaksud dalam
+Pasal 4
+dan
+
+Pasal 10
+ayat (1) dilaksanakan paling lambat 6
+(enam) bulan terhitung sejak Peraturan Otoritas Jasa
+Keuangan ini diundangkan.
 
 ## Penjelasan Resmi
 

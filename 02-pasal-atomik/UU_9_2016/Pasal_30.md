@@ -22,6 +22,10 @@ Ketentuan mengenai pemberian pinjaman likuiditas jangka
 pendek atau pembiayaan likuiditas jangka pendek
 berdasarkan prinsip syariah sebagaimana dimaksud dalam
 
+Pasal 20
+berlaku secara mutatis mutandis terhadap Bank
+selain Bank Sistemik.
+
 ## Penjelasan Resmi
 
 Yang dimaksud dengan “mutatis mutandis” adalah ketentuan
@@ -31,5 +35,8 @@ kepada Bank Sistemik, dengan perubahan kecil atau yang perlu untuk
 disesuaikan, berlaku juga untuk Bank selain Bank Sistemik.
 
 Contoh:
-Penggantian frasa “Bank Sistemik” dalam Pasal 20 menjadi kata “Bank
+Penggantian frasa “Bank Sistemik” dalam
+
+Pasal 20
+menjadi kata “Bank
 selain Bank Sistemik”.

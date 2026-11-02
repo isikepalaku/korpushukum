@@ -20,16 +20,25 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Barang siapa tanpa membawa perintah tertulis dari Menteri
-kepada bank sebagaimana dimaksud dalam Pasal 41 atau tanpa
-izin Menteri sebagaimana dimaksud dalam Pasal 42, dengan
+kepada bank sebagaimana dimaksud dalam
+
+Pasal 41
+atau tanpa
+izin Menteri sebagaimana dimaksud dalam
+
+Pasal 42, dengan
 sengaja memaksa bank atau pihak terafiliasi untuk memberikan
-keterangan sebagaimana dimaksud dalam Pasal 40, diancam
+keterangan sebagaimana dimaksud dalam
+
+Pasal 40, diancam
 dengan pidana penjara paling lama 3 (tiga) tahun dan denda
 paling banyak Rp. 3.000.000.000,- (tiga milyar rupiah).
 
 (2) Anggota dewan komisaris, direksi, pegawai bank atau pihak
 terafiliasi lainnya yang dengan sengaja memberikan keterangan
-yang wajib dirahasiakan menurut Pasal 40, diancam dengan
+yang wajib dirahasiakan menurut
+
+Pasal 40, diancam dengan
 pidana penjara paling lama 2 (dua) tahun dan denda paling
 
 -----

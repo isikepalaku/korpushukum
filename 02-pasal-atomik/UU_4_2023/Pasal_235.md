@@ -114,7 +114,10 @@ Beriktikad baik di antaranya mencakup dalam memberikan informasi dengan jujur da
 **Huruf d**
 
 ```
-Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Ayat (4) Cukup jelas. Pasal 236 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas.
+Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Ayat (4) Cukup jelas.
+
+Pasal 236
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas.
 ```
 
 Huruf g ...

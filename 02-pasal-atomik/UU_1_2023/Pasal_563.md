@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '563'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Nakhoda Kapal Indonesia yang tidak dalam keadaan terpaksa tidak memberi sesuatu 
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan 'tidak memberi sesuatu yang wajib diberikan" misalnya, memberikan makanan atau ransum.

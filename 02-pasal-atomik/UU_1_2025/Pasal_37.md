@@ -4,7 +4,7 @@ uu_induk: Perubahan Ketiga UU BUMN
 kode_uu: UU_1_2025
 pasal: '37'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_1_2025
@@ -28,3 +28,5 @@ Organ Perum terdiri atas:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 73

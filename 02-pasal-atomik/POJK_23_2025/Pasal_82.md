@@ -32,7 +32,10 @@ Ayat (3)
 
 Huruf a
 
-Lihat penjelasan Angka 28 Pasal 21 ayat (1)
+Lihat penjelasan Angka 28
+
+Pasal 21
+ayat (1)
 huruf h.
 Huruf b
 
@@ -49,3 +52,5 @@ Huruf c
 
 Pelayanan kegiatan dan perizinan lain antara
 lain staking atau inovasi lainnya.
+
+Angka 57

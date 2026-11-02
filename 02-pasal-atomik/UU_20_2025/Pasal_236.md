@@ -20,6 +20,17 @@ mengamandemen: []
 
 **(1) Keterangan Salsi sebagaimana dimaksud dalam**
 
+Pasal 235
+ayat (1) huruf a disampaikan secara langsung di sidang pengadilan. (21 Dalam hal Keterangan Salsi tidak dapat disampaikan**
+ secara langsung di sidang pengadilan, Keterangan Saksi dapat disampaikan melalui alat komunikasi audio visual.
+**(3) Dalam hal Saksi dan/ atau Korban merupakan**
+
+**Penyandang Disabilitas, Keterangan Saksi dan/atau Korban yang diberikan mempunyai kekuatan hukum**
+yang sama dengan Keterangan Saksi dan/atau Korban
+**yang bukan Penyandang Disabilitas. (41 Ketentuan lebih lanjut mengenai persyaratan dan tata cara penyzrmpaian Keterangan Saksi melalui alat komunikasi audiovisual sebagaimana dimaksud pada**
+
+ayat (21 diatur dalam Peraturan Pemerintah.
+
 ## Penjelasan Resmi
 
 **Ayat (1)**

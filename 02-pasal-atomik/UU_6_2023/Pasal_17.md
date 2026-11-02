@@ -59,7 +59,10 @@ Yang dimaksud dengan "permasalahan strategis' antara lain permasalahan yang tida
 Huruf h.. .
 
 ```
-Huruf h Cukup jelas. Angka 12 Pasal 19 Cukup jelas. Angka 13 Pasal 20 Dihapus. Angka 14 Pasal 2 1 Cukup jelas. Angka 15 Pasal 22 Cukup jelas. Angka 16 Pasal 23 Ayat (1) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan "pelayanan non perizinan" adalah segala bentuk kemudahan pelayanan fasilitas fiskal, fasilitas non-fiskal dan informasi mengenai penanarnan modal, sesuai dengan ketentuan peraturan perundang-undangan.
+Huruf h Cukup jelas. Angka 12
+
+Pasal 19
+Cukup jelas. Angka 13 Pasal 20 Dihapus. Angka 14 Pasal 2 1 Cukup jelas. Angka 15 Pasal 22 Cukup jelas. Angka 16 Pasal 23 Ayat (1) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan "pelayanan non perizinan" adalah segala bentuk kemudahan pelayanan fasilitas fiskal, fasilitas non-fiskal dan informasi mengenai penanarnan modal, sesuai dengan ketentuan peraturan perundang-undangan.
 ```
 
 Contoh . . .
@@ -70,4 +73,9 @@ Angka 17
 
 Angka 18
 
-Huruf c Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 24 Cukup jelas. Pasal 24A Cukup jelas. Pasal 24B Cukup jelas. Pasal 24C Ayat (1) Yang dimaksud dengan "pola pengelolaan keuangan Badan Layanan Umum" adalah pola pengelolaan keuangan yang memberikan fleksibilitas berupa keleluasaan untuk menerapkan praktik-praktik bisnis yang sehat untuk meningkatkan pelayanan kepada masyarakat dalam rangka memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa. Ayat (2) Cukup jelas.
+Huruf c Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
+
+Pasal 24
+Cukup jelas. Pasal 24A Cukup jelas. Pasal 24B Cukup jelas. Pasal 24C Ayat (1) Yang dimaksud dengan "pola pengelolaan keuangan Badan Layanan Umum" adalah pola pengelolaan keuangan yang memberikan fleksibilitas berupa keleluasaan untuk menerapkan praktik-praktik bisnis yang sehat untuk meningkatkan pelayanan kepada masyarakat dalam rangka memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa. Ayat (2) Cukup jelas.
+
+Angka 19

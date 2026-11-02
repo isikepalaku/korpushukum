@@ -31,13 +31,18 @@ ayat (1) sudah dicabut, permohonan kasasi tidak dapat
 **l4l [Dalam ] [hal ][perkara telah ]mulai diperiksa dan belum**
 
 **diputus, namun pemohon mencabut permohonan kasasinya, pemohon dibebani membayar biaya perkara hingga saat pencabutannya.**
-**(5) Permohonan kasasi hanya dapat diajukan I (satu) kali.**
+**(5) Permohonan kasasi hanya dapat diajukan I (satu) kali.**Pasal 303...
+
+-----
+
+**ilrl-d{fr{X**
+REPUBLIK INDONESIA
+
+**-155-**
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal 3O3...
+**Cukup [jelas.]**Pasal 3O3...
 
 -----
 

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan lebih lanjut mengenai tata cara penilaian kembali
-Pihak Utama sebagaimana dimaksud dalam Pasal 56 ayat (2)
+Pihak Utama sebagaimana dimaksud dalam
+
+Pasal 56
+ayat (2)
 dan ayat (4) ditetapkan oleh Otoritas Jasa Keuangan.
 
 -----

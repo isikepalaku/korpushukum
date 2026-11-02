@@ -19,6 +19,10 @@ mengamandemen: []
 
 Penyelenggara Sistem Elektronik wajib melakukan pengamanan terhadap komponen Sistem Elektronik.
 
+Pasal 24 . . .
+
+FRESIDEN REPUBL]K INDONESIA
+
 ## Penjelasan Resmi
 
 Komponen Sistem Elektronik terdiri dari:

@@ -31,7 +31,9 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 -----
 
-dimaksud dalam Pasal 94 ayat (2) dan/atau Pasal 95,
+dimaksud dalam Pasal 94 ayat (2) dan/atau
+
+Pasal 95,
 
 Bank BHI dikenai sanksi administratif berupa:
 
@@ -47,7 +49,9 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2) dan melanggar ketentuan sebagaimana dimaksud
 
-dalam Pasal 94 ayat (2), dan/atau Pasal 95, ayat (2),
+dalam Pasal 94 ayat (2), dan/atau
+
+Pasal 95, ayat (2),
 
 dan/atau ayat (3), PSP, Direksi, Dewan Komisaris,
 

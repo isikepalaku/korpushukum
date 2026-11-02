@@ -31,7 +31,10 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2) dan melanggar ketentuan sebagaimana dimaksud
 
-dalam Pasal 97 ayat (1), Pasal 99 ayat (4), dan/atau
+dalam Pasal 97 ayat (1),
+
+Pasal 99
+ayat (4), dan/atau
 
 -----
 

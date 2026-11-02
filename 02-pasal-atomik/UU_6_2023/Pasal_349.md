@@ -28,7 +28,10 @@ Yang dimaksud dengan "penyederhanaan jenis pelayanan publik' adalah menggabungka
 Yang dimaksud dengan "penyederhanaan prosedur pelayanan publik" adalah mengurangi dan/atau mengintegrasikan persyaratan atau langkah-langkah pemberian layanan, sehingga mempermudah proses pemberian layanan kepada masyarakat.
 
 ```
-Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 9 Pasal 350 Cukup jelas. Angka 10 Pasal 4024, Cukup jelas. Pasal 177 Cukup jelas. Pasal 178 Cukup jelas. Pasal 179 Cukup jelas. Pasal 180 Cukup jelas. Pasal 181 Cukup jelas. Pasal 182 Huruf a Yang dimaksud dengan "sertifikat" antara lain: sertifikat halal, sertifikat laik fungsi, dan lain-lain.
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Angka 9
+
+Pasal 350
+Cukup jelas. Angka 10 Pasal 4024, Cukup jelas. Pasal 177 Cukup jelas. Pasal 178 Cukup jelas. Pasal 179 Cukup jelas. Pasal 180 Cukup jelas. Pasal 181 Cukup jelas. Pasal 182 Huruf a Yang dimaksud dengan "sertifikat" antara lain: sertifikat halal, sertifikat laik fungsi, dan lain-lain.
 ```
 
 Hurufb . . .

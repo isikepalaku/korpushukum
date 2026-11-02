@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '323'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Yang dimaksud dengan ubahaya" adalah bahaya bagi lalu lintas umum kereta api. Oleh karena itu, kereta api yang khusus untuk mengangkut tebu ke pabrik kepunyaan suatu perusahaan perkebunan tidak termasuk dalam ketentuan pasal ini. Perbuatan yang dinilai membahayakan bagi lalu lintas umum kereta api dapa.t berupa. memasang rintangan atau melepaskan paku-paku pada bantalan rel sehingga membahayakan bagi kereta yang melewatinya. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.

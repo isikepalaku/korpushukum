@@ -39,4 +39,4 @@ SK No011697 A
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

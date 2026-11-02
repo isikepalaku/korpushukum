@@ -21,7 +21,10 @@ mengamandemen: []
 
 perubahan bentuk badan hukum Bank BHI
 
-sebagaimana dimaksud dalam Pasal 97 ayat (3) huruf
+sebagaimana dimaksud dalam
+
+Pasal 97
+ayat (3) huruf
 
 a diajukan oleh Bank BHI kepada OJK disertai
 

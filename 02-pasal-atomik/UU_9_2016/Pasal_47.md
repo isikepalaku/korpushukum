@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Setiap orang yang melanggar ketentuan mengenai
-kerahasiaan informasi sebagaimana dimaksud dalam Pasal 14
+kerahasiaan informasi sebagaimana dimaksud dalam
+
+Pasal 14
 ayat (4) dipidana dengan pidana penjara paling lama 6 (enam)
 tahun dan/atau pidana denda paling banyak
 Rp15.000.000.000,00 (lima belas miliar rupiah).

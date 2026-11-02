@@ -19,6 +19,17 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pengembalian benda sitaan sebagaimana dimaksud dalam
+Pasal 133
+dilakukan paling lama 7 (tujuh) Hari terhitung**
+sejak benda sitaan tidak lagi diperlukan untuk kepentingan
+**Penyidikan, penghentian Penyidikan, Penuntutan, penghentian Penuntutan, perkara tersebut dikesampingkan untuk kepentingan umum, atau perkara ditutup demi hukum.**Pasal 135 . . .
+
+-----
+
+FRESIDEN
+REFUBLIK INDONESIA
+
+**-7t-**
 
 ## Penjelasan Resmi
 

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '82'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -33,5 +33,19 @@ mengamandemen: []
 - b. 1 (satu) Hari pidana pengawasan atau pidana penjara pengganti.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Yang dimaksud dengan "tidak memungt&lt;int&lt;an", misalnya, aset yang dimiliki masih dalam penguasaan pihak ketiga yang beriktikad baik.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
 
 Cukup jelas.

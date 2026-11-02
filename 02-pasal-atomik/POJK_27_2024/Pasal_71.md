@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pelaksanaan fungsi kepatuhan dan audit internal
-sebagaimana dimaksud dalam Pasal 69 ayat (2) huruf a
+sebagaimana dimaksud dalam
+
+Pasal 69
+ayat (2) huruf a
 paling sedikit mencakup:
 a. bertindak sebagai pihak penghubung (liason officer)
 dengan Otoritas Jasa Keuangan;

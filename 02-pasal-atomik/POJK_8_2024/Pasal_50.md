@@ -18,6 +18,38 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Saluran pemasaran sebagaimana dimaksud dalam
+Pasal 48
+ayat (1) dapat menggunakan media
+komunikasi jarak jauh.
+(2) Pemasaran Produk Asuransi melalui media komunikasi
+jarak jauh sebagaimana dimaksud pada ayat (1) wajib
+memberikan informasi mengenai identitas Perusahaan
+Asuransi dan Perusahaan Asuransi Syariah, Produk
+Asuransi yang ditawarkan, serta syarat dan ketentuan
+Polis Asuransi.
+(3) Saluran pemasaran dengan menggunakan media
+komunikasi jarak jauh sebagaimana dimaksud pada
+ayat (1), untuk PAYDI wajib diikuti dengan pertemuan
+langsung secara tatap muka atau tatap muka secara
+digital dengan media video conference.
+(4) Tatap muka secara digital dengan media _video_
+_conference sebagaimana dimaksud pada ayat (3) wajib_
+dilakukan dengan ketentuan:
+a. menyebutkan identitas diri secara lengkap;
+b. menunjukkan dokumen identitas sebagai tenaga
+pemasar produk asuransi;
+c. memastikan kesesuaian wajah dan informasi dari
+calon Pemegang Polis, Tertanggung, atau Peserta
+dengan informasi terkini dari calon Pemegang
+Polis, Tertanggung, atau Peserta yang
+bersangkutan; dan
+d. dokumentasi dalam bentuk rekaman video
+dan/atau audio yang harus diverifikasi, disimpan,
+dan dipelihara sesuai dengan kebijakan
+Perusahaan Asuransi atau Perusahaan Asuransi
+Syariah agar dokumentasi tersebut dapat
+digunakan sebagai bukti dalam hal terjadi
+perselisihan.
 
 ## Penjelasan Resmi
 

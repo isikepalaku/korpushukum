@@ -21,6 +21,46 @@ mengamandemen: []
 
 dan menyeluruh sebagaimana dimaksud dalam
 
+Pasal 53
+ayat (4) huruf b sesuai dengan Peraturan
+
+Otoritas Jasa Keuangan mengenai penerapan fungsi
+
+audit intern bagi bank umum.
+
+(2) Untuk memastikan pelaksanaan audit intern TI yang
+
+efektif dan menyeluruh sebagaimana dimaksud dalam
+
+Pasal 53
+ayat (4) huruf b, Bank wajib memastikan
+
+ketersediaan jejak audit atas seluruh kegiatan
+
+penyelenggaraan TI untuk keperluan pengawasan,
+
+penegakan hukum, penyelesaian sengketa, verifikasi,
+
+pengujian, dan pemeriksaan lain.
+
+(3) Dalam hal Bank menggunakan jasa pihak ekstern
+
+dalam pelaksanaan audit intern TI, penggunaan jasa
+
+pihak ekstern dilakukan sesuai dengan Peraturan
+
+Otoritas Jasa Keuangan mengenai penerapan fungsi
+
+audit intern bagi bank umum.
+
+(4) Bank wajib melaksanakan audit intern terhadap
+
+penyelenggaraan TI sesuai kebutuhan, prioritas, dan
+
+hasil analisis risiko atas penyelenggaraan TI, paling
+
+sedikit 1 (satu) kali dalam 1 (satu) tahun.
+
 ## Penjelasan Resmi
 
 Ayat (1)

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '125'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,4 +23,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+Dalam ketentuan ini diatur mengenai perbarengan peraturan atau konkursus idealis, dimana terdapat kesatuan perbuatan, karena itu sistem pemidanaan yang digunakan adalah sistem absorbsi. Dalam hal seseorang melakukan suatu perbuatan dan temyata perbuatan tersebut melanggar lebih dari satu ketentuan pidana, maka hanya berla-ku satu ketentuan pidana yaitu yang terberat.
+
+Ayat(21
+
+Ketentuan ini mengatur mengenai asas lex specialis derqat legi generall Asas ini dicantumkan agar tidak ada keragu-raguan pada hakim jika te{adi kasus yang diatur ddalr, 2 (dua) Undang-Undang.

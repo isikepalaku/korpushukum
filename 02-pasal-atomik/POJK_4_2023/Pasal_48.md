@@ -5,7 +5,7 @@ uu_induk: Perubahan Kedua atas POJK 23-POJK.04-2016 tentang Reksa Dana Berbentuk
 kode_uu: POJK_4_2023
 pasal: '48'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_4_2023
@@ -20,14 +20,20 @@ mengamandemen: []
 
 Dalam hal Reksa Dana berbentuk Kontrak Investasi
 Kolektif dibubarkan karena kondisi sebagaimana
-dimaksud dalam Pasal 45 huruf d atau huruf d1, Manajer
+dimaksud dalam
+
+Pasal 45
+huruf d atau huruf d1, Manajer
 Investasi wajib:
 
 -----
 
  - 13
 a. menyampaikan laporan kondisi sebagaimana
-dimaksud dalam Pasal 45 huruf d atau huruf d1
+dimaksud dalam
+
+Pasal 45
+huruf d atau huruf d1
 kepada Otoritas Jasa Keuangan dengan dilengkapi
 kondisi keuangan terakhir Reksa Dana dan
 mengumumkan kepada para pemegang Unit
@@ -36,13 +42,19 @@ sedikit dalam 1 (satu) surat kabar harian berbahasa
 Indonesia yang beredar secara nasional, dalam
 jangka waktu paling lambat 2 (dua) hari bursa sejak
 berakhirnya jangka waktu sebagaimana dimaksud
-dalam Pasal 45 huruf d dan huruf d1 serta pada hari
+dalam
+
+Pasal 45
+huruf d dan huruf d1 serta pada hari
 yang sama memberitahukan secara tertulis kepada
 Bank Kustodian untuk menghentikan perhitungan
 Nilai Aktiva Bersih Reksa Dana;
 b. menginstruksikan kepada Bank Kustodian paling
 lambat 2 (dua) hari bursa sejak berakhirnya jangka
-waktu sebagaimana dimaksud dalam Pasal 45 huruf
+waktu sebagaimana dimaksud dalam
+
+Pasal 45
+huruf
 d dan huruf d1, untuk membayarkan dana atau aset
 hasil likuidasi yang menjadi hak pemegang Unit
 Penyertaan dengan ketentuan bahwa perhitungannya
@@ -54,7 +66,10 @@ likuidasi selesai dilakukan; dan
 c. menyampaikan laporan pembubaran Reksa Dana
 kepada Otoritas Jasa Keuangan paling lambat 60
 (enam puluh) hari bursa sejak berakhirnya jangka
-waktu sebagaimana dimaksud dalam Pasal 45 huruf
+waktu sebagaimana dimaksud dalam
+
+Pasal 45
+huruf
 d dan huruf d1 dengan dokumen sebagai berikut:
 1. pendapat dari Konsultan Hukum yang terdaftar
 di Otoritas Jasa Keuangan;
@@ -70,3 +85,5 @@ berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 11

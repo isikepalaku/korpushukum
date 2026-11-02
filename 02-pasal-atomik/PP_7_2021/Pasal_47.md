@@ -17,16 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**a. persyaratan yang harus dipenuhi oleh pemohon; b. tata cara mengajukan permohonan izin usaha; dan c. pembebasan biaya perizinan.**
-
-**Bagian Kedua**
- Pelindungan Usaha Mikro dan Usaha Kecil
-
- Paragraf 1
-
-Penyediaan Layanan Bantuan dan Pendampingan Hukum bagi Usaha Mikro
-
-**dan Usaha Kecil**
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melakukan perubahan kepemilikan
-sebagaimana dimaksud dalam Pasal 58 ayat (2) wajib
+sebagaimana dimaksud dalam
+
+Pasal 58
+ayat (2) wajib
 melaporkan kepada Otoritas Jasa keuangan paling
 lama 20 (dua puluh) hari kerja sejak dilakukan
 perubahan kepemilikan.

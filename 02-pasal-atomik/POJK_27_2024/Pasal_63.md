@@ -17,7 +17,34 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Pemegang saham Penyelenggara Perdagangan Aset
+Keuangan Digital wajib memenuhi persyaratan
+integritas dan kelayakan keuangan.
+(2) Pemenuhan persyaratan integritas dan kelayakan
+keuangan sebagaimana dimaksud pada ayat (1)
+dilakukan melalui penilaian kemampuan dan
+kepatutan oleh Otoritas Jasa Keuangan.
+(3) Pemegang saham Penyelenggara Perdagangan Aset
+Keuangan Digital dilarang melakukan intervensi dalam
+pelaksanaan kegiatan usaha dan/atau operasional
+Penyelenggara Perdagangan Aset Keuangan Digital.
 
+-----
+
+(4) Pemegang saham Penyelenggara Perdagangan Aset
+Keuangan Digital yang menjabat sebagai anggota
+Direksi Penyelenggara Perdagangan Aset Keuangan
+Digital wajib mendahulukan kepentingan
+Penyelenggara Perdagangan Aset Keuangan Digital
+tersebut.
+
+Bagian Ketiga
+Pelaksanaan Tugas dan Tanggung Jawab Direksi dan
+
+Dewan Komisaris
+
+Paragraf 1
+Pelaksanaan Tugas dan Tanggung Jawab Direksi
 
 ## Penjelasan Resmi
 

@@ -35,6 +35,31 @@ sebagaimana dimaksud pada ayat (2), calon
 Penyelenggara dianggap membatalkan permohonan
 persetujuan prinsip sebagaimana dimaksud dalam
 
+Pasal 16.
+(4) Dalam memberikan persetujuan atau penolakan
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa
+Keuangan melakukan:
+a. penelitian dokumen permohonan;
+b. penilaian kemampuan dan kepatutan Pihak
+Utama;
+c. analisis potensi dan kelayakan;
+d. penelitian sumber dana setoran modal; dan
+e. analisis lain berdasarkan pertimbangan Otoritas
+Jasa Keuangan.
+
+-----
+
+ - 14
+(5) Dalam mendukung penelitian, analisis, dan penilaian
+sebagaimana dimaksud pada ayat (4), Otoritas Jasa
+Keuangan berwenang meminta dokumen yang memuat
+informasi lain yang dianggap perlu.
+(6) Untuk mendukung penelitian, analisis, dan penilaian
+sebagaimana dimaksud pada ayat (4), Otoritas Jasa
+Keuangan dapat meminta calon Penyelenggara untuk
+melakukan presentasi atau pemaparan kepada Otoritas
+Jasa Keuangan.
+
 ## Penjelasan Resmi
 
 Ayat (1)

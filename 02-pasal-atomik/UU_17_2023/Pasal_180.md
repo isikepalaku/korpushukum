@@ -34,7 +34,10 @@ Cukup jelas.
 ## EIIEIf IIIIIT{'III-{TN
 
 ```
-Ayat (2) Cukup jelas. Ayat (3) Hurufa Yang dimaksud dengan "berperilaku hidup sehat' adalah memiliki kesadaran, kemauan, dan kemampuan hidup sehat. Hurufb Cukup jelas. Huruf c Cukup jelas. Hurufd Cukup jelas. Pasal 181 Cukup jelas. Pasal 182 Cukup jelas. Pasal 183 Cukup jelas. Pasal 184 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4)
+Ayat (2) Cukup jelas. Ayat (3) Hurufa Yang dimaksud dengan "berperilaku hidup sehat' adalah memiliki kesadaran, kemauan, dan kemampuan hidup sehat. Hurufb Cukup jelas. Huruf c Cukup jelas. Hurufd Cukup jelas.
+
+Pasal 181
+Cukup jelas. Pasal 182 Cukup jelas. Pasal 183 Cukup jelas. Pasal 184 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4)
 ```
 
 Yang dimaksud dengan "tata kelola Rumah Sakit yang bail* adalah penerapan fungsi manajemen Rumah Sakit yang berdasarkan prinsip tranparansi, akuntabilitas, independensi, responsibilitas, kesetaraan, dan kewajaran.

@@ -24,7 +24,10 @@ melakukan
 pencatatan 
 biodata 
 Penduduk WNI di wilayah Negara Kesatuan Republik 
-Indonesia sebagaimana dimaksud dalam Pasal 3 ayat (1) 
+Indonesia sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (1) 
 huruf a, setelah Penduduk memenuhi persyaratan sesuai 
 www.peraturan.go.id
 

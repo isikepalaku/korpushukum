@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam rangka mendukung pelaksanaan pembinaan, pengawasan, serta peningkatan mutu dan kompetensi Tenaga Medis dan Tenaga Kesehatan sebagaimana dimaksud dalam Pasal 12 huruf a, Pemerintah Pusat dibantu oleh Konsil dan/ atau Kolegium.
+Dalam rangka mendukung pelaksanaan pembinaan, pengawasan, serta peningkatan mutu dan kompetensi Tenaga Medis dan Tenaga Kesehatan sebagaimana dimaksud dalam
+
+Pasal 12
+huruf a, Pemerintah Pusat dibantu oleh Konsil dan/ atau Kolegium.
 
 ## BAB IV
 

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara wajib menyampaikan laporan tahunan
-sebagaimana dimaksud dalam Pasal 69 huruf b kepada
+sebagaimana dimaksud dalam
+
+Pasal 69
+huruf b kepada
 Otoritas Jasa Keuangan untuk periode pelaporan 1
 Januari sampai 31 Desember.
 (2) Laporan tahunan sebagaimana dimaksud pada ayat (1)
@@ -33,7 +36,10 @@ rasio keuangan;
 b. laporan kegiatan penyelenggaraan Layanan Urun
 Dana yang meliputi:
 1. laporan kegiatan operasional sebagaimana
-dimaksud dalam Pasal 69 huruf b; dan
+dimaksud dalam
+
+Pasal 69
+huruf b; dan
 2. laporan kerja sama Penyelenggara dengan
 lembaga jasa keuangan berbasis Teknologi
 Informasi dan/atau penyelenggara layanan

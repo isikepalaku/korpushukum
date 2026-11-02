@@ -19,12 +19,16 @@ mengamandemen: []
 
 (1) Dalam hal pejabat dan petugas pada Penyelenggara dan
 Instansi Pelaksana melakukan tindak pidana sebagaimana
-dimaksud dalam Pasal 93 atau Pasal 94, pejabat yang
+dimaksud dalam Pasal 93 atau
+
+Pasal 94, pejabat yang
 bersangkutan dipidana dengan pidana yang sama ditambah
 1/3 (satu pertiga).
 (2) Dalam hal pejabat dan petugas pada Penyelenggara dan
 Instansi Pelaksana membantu melakukan tindak pidana
-sebagaimana dimaksud dalam Pasal 95, pejabat yang
+sebagaimana dimaksud dalam
+
+Pasal 95, pejabat yang
 bersangkutan dipidana sesuai dengan ketentuan undang-
 undang.
 

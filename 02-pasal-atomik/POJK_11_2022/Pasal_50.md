@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Bank harus melaksanakan rencana penyediaan jasa TI
 
-sebagaimana dimaksud dalam Pasal 48 ayat (3) paling
+sebagaimana dimaksud dalam
+
+Pasal 48
+ayat (3) paling
 
 lama 6 (enam) bulan sejak memperoleh izin dari
 
@@ -27,7 +30,10 @@ Otoritas Jasa Keuangan.
 
 (2) Apabila Bank tidak melaksanakan rencana penyediaan
 
-jasa TI sebagaimana dimaksud dalam Pasal 48 ayat (3)
+jasa TI sebagaimana dimaksud dalam
+
+Pasal 48
+ayat (3)
 
 dalam jangka waktu 6 (enam) bulan sejak izin
 

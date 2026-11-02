@@ -21,7 +21,9 @@ mengamandemen: []
 
 pengkinian pengelompokan bank berdasarkan Modal
 
-Inti sebagaimana dimaksud dalam Pasal 147.
+Inti sebagaimana dimaksud dalam
+
+Pasal 147.
 
 (2) Pengkinian pengelompokan bank sebagaimana
 

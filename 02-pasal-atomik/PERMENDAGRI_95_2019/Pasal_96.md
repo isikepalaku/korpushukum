@@ -18,8 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) 
-Pembersihan data sebagaimana dimaksud dalam Pasal 
-95 huruf a, meliputi: 
+Pembersihan data sebagaimana dimaksud dalam
+
+Pasal 95
+huruf a, meliputi: 
 a. 
 data ganda; 
 b. 

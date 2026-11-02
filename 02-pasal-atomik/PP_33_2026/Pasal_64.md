@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal Data Pribadi didapatkan secara tidak langsung dari Subjek Data Pribadi, Pengendali Data Pribadi melaksanakan kewajiban penyampaian I[nformasi sebagaimana dimaksud dalam Pasal 62 ayat (1) paling lambat 30 (tiga puluh) Hari setelah Data Pribadi dikumpulkan atau diperolch.
+Dalam hal Data Pribadi didapatkan secara tidak langsung dari Subjek Data Pribadi, Pengendali Data Pribadi melaksanakan kewajiban penyampaian I[nformasi sebagaimana dimaksud dalam
+
+Pasal 62
+ayat (1) paling lambat 30 (tiga puluh) Hari setelah Data Pribadi dikumpulkan atau diperolch.
 
 ## Penjelasan Resmi
 

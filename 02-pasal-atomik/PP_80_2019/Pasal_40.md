@@ -19,6 +19,13 @@ mengamandemen: []
 
 Penawaran secara Elektronik dinyatakan telah diterima apabila pihak penerima telah melakukan Penerimaan Secara Elektronik terhadap syarat dan kondisi yang disampaikan dalam Penawaran Secara Elektronik.
 
+Pasal 4L...
+
+PRES IDEN REPUBUK INDONESIA -22-
+
+Pasal 41
+Suatu Penawaran Secara Elektronik tidak dapat ditarik kembali jika terhadap penawaran tersebut telah dilakukan Penerimaan Secara Elektronik oleh pihak lain, kecuali pembatalan atas Penawaran Secara Elektronik tersebut juga disepakati oleh pihak yang menerima penawaran.
+
 ## Penjelasan Resmi
 
 Cukupjelas.

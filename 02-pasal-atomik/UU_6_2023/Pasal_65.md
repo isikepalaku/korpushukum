@@ -12,6 +12,7 @@ status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
 - '[[02-pasal-atomik/UU_21_2008/Pasal_65|UU 21/2008 Pasal 65]]'
+- '[[02-pasal-atomik/UU_22_2001/Pasal_65|UU 22/2001 Pasal 65]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_65|UU 25/1992 Pasal 65]]'
 ---
 
@@ -30,11 +31,17 @@ Ketentuan pasal ini memberikan ruang bagi pengelola satuan pendidikan secara suk
 Sebagai contoh bahwa untuk pendirian pesantren telah diatur dalam Undang-Undang Nomor 18 Tahun 2019 tentang Pesantren yang mengatur bahwa pendirian pesantren hanya dengan mendaftarkan kepada menteri yang menyelenggarakan urusan pemerintahan di bidang agama. Sehingga dengan demikian pendirian pesantren tidak berlaku kewajiban untuk menggunakan sistem Perizinan Berusaha dalam Peraturan Pemerintah Pengganti Undang-Undang ini.
 
 ```
-Ayat (2) Cukup jelas. Pasal 66 Angka 1 Pasal 14 Cukup jelas. Angka 2 Pasal 17 Cukup jelas. Angka 3 Pasal 22 Cukup jelas.
+Ayat (2) Cukup jelas.
+
+Pasal 66
+Angka 1 Pasal 14 Cukup jelas. Angka 2 Pasal 17 Cukup jelas. Angka 3 Pasal 22 Cukup jelas.
 ```
 
 ```
-Angka 4 Pasal 78 Cukup jelas. Angka 5 Pasal 79 Dihapus. Pasal 67 Angka 1 Pasal 14 Ayat (1) Huruf a Yang dimaksud dengan "usaha Daya Tarik Wisata" adalah usaha yang kegiatannya mengelola Daya Tarik Wisata alam, Daya Tarik Wisata budaya, dan Daya Tarik Wisata buatan/binaan manusia. Huruf b Yang dimaksud dengan "usaha kawasan Pariwisata" adalah usaha yang kegiatannya membangun dan/atau mengelola kawasan dengan luas tertentu untuk memenuhi kebutuhan Pariwisata. Huruf c Yang dimaksud dengan "usaha jasa transportasi Wisata" adalah usaha khusus yang menyediakan angkutan untuk kebutuhan dan kegiatan Pariwisata, bukan angkutan transportasi reguler/umum. Hurrrf d. . .
+Angka 4
+
+Pasal 78
+Cukup jelas. Angka 5 Pasal 79 Dihapus. Pasal 67 Angka 1 Pasal 14 Ayat (1) Huruf a Yang dimaksud dengan "usaha Daya Tarik Wisata" adalah usaha yang kegiatannya mengelola Daya Tarik Wisata alam, Daya Tarik Wisata budaya, dan Daya Tarik Wisata buatan/binaan manusia. Huruf b Yang dimaksud dengan "usaha kawasan Pariwisata" adalah usaha yang kegiatannya membangun dan/atau mengelola kawasan dengan luas tertentu untuk memenuhi kebutuhan Pariwisata. Huruf c Yang dimaksud dengan "usaha jasa transportasi Wisata" adalah usaha khusus yang menyediakan angkutan untuk kebutuhan dan kegiatan Pariwisata, bukan angkutan transportasi reguler/umum. Hurrrf d. . .
 ```
 
 **Huruf d**
@@ -78,7 +85,10 @@ Yang dimaksud dengan "usaha Wisata tirta" adalah usaha yang menyelenggarakan wis
 Hurufm. . .
 
 ```
-Huruf m Ayat (2) Cukup jelas. Angka2 Pasal 15 Cukup jelas. Angka 3 Pasal 16 Dihapus. Angka 4 Pasal 26 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Yang dimaksud dengan "usaha spa" adalah usaha perawatan yang memberikan layanan dengan metode kombinasi terapi air, terapi aroma, pijat, rempah-rempah, layanan makanan/minuman sehat, dan olah aktivitas fisik dengan tujuan menyeimbangkan jiwa dan raga dengan tetap memperhatikan tradisi dan budaya bangsa Indonesia.
+Huruf m Ayat (2) Cukup jelas. Angka2
+
+Pasal 15
+Cukup jelas. Angka 3 Pasal 16 Dihapus. Angka 4 Pasal 26 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Yang dimaksud dengan "usaha spa" adalah usaha perawatan yang memberikan layanan dengan metode kombinasi terapi air, terapi aroma, pijat, rempah-rempah, layanan makanan/minuman sehat, dan olah aktivitas fisik dengan tujuan menyeimbangkan jiwa dan raga dengan tetap memperhatikan tradisi dan budaya bangsa Indonesia.
 ```
 
 Huruf e. . .
@@ -87,16 +97,23 @@ Huruf e
 
 Yang dimaksud dengan "Usaha Pariwisata dengan kegiatan yang berisiko tinggi" meliputi, antara lain Wisata selam, arung jeram, panjat tebing, permainan jet coaster, dan mengunjungi objek wisata tertentu, seperti melihat satwa liar di alam bebas.
 
-Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i Cukup jelas. Huruf j Cukup jelas. Huruf k Cukup jelas. Huruf I Cukup jelas. Huruf m Cukup jelas. Huruf n Cukup jelas. Ayat (2) Cukup jelas. Angka 5 Pasal 29
+Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Huruf i Cukup jelas. Huruf j Cukup jelas. Huruf k Cukup jelas. Huruf I Cukup jelas. Huruf m Cukup jelas. Huruf n Cukup jelas. Ayat (2) Cukup jelas. Angka 5
 
+Pasal 29
 Cukup jelas.
 
 ```
-Angka 6 Pasal 30 Cukup jelas. Angka 7 Pasal 54 Cukup jelas. Angka 8 Pasal 56 Dihapus. Angka 9 Pasal 64 Dihapus. Pasal 68 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 19 Cukup jelas. Angka 3 Pasal 20 Cukup jelas.
+Angka 6
+
+Pasal 30
+Cukup jelas. Angka 7 Pasal 54 Cukup jelas. Angka 8 Pasal 56 Dihapus. Angka 9 Pasal 64 Dihapus. Pasal 68 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 19 Cukup jelas. Angka 3 Pasal 20 Cukup jelas.
 ```
 
 ```
-Angka 4 Pasal 58 Huruf a Cukup jelas. Huruf b Cukup jelas. Hurrrf c Yang dimaksud dengan "jaminan bank" adalah garansi bank atau deposito atas nama biro perjalanan wisata. Huruf d Cukup jelas. Angka 5 Pasal 59 Cukup jelas. Angka 6 Pasal 61 Cukup jelas. Angka 7 Pasal 63 Cukup jelas. Angka 8 Pasal 83 Cukup jelas. Angka 9 Pasal 84
+Angka 4
+
+Pasal 58
+Huruf a Cukup jelas. Huruf b Cukup jelas. Hurrrf c Yang dimaksud dengan "jaminan bank" adalah garansi bank atau deposito atas nama biro perjalanan wisata. Huruf d Cukup jelas. Angka 5 Pasal 59 Cukup jelas. Angka 6 Pasal 61 Cukup jelas. Angka 7 Pasal 63 Cukup jelas. Angka 8 Pasal 83 Cukup jelas. Angka 9 Pasal 84
 ```
 
 ```
@@ -104,27 +121,37 @@ Cukup jelas.
 ```
 
 ```
-Angka 10 Pasal 85 Cukup jelas. Angka 11 Pasal 89 Cukup jelas. Angka 12 Pasal 90 Cukup jelas. Angka 13 Pasal 91 Cukup jelas. Angka 14 Pasal 92 Cukup jelas. Angka 15 Pasal 94 Cukup jelas. Angka 16 Pasal 95 Cukup jelas. Angka 17 Pasal 99 Cukup jelas.
+Angka 10
+
+Pasal 85
+Cukup jelas. Angka 11 Pasal 89 Cukup jelas. Angka 12 Pasal 90 Cukup jelas. Angka 13 Pasal 91 Cukup jelas. Angka 14 Pasal 92 Cukup jelas. Angka 15 Pasal 94 Cukup jelas. Angka 16 Pasal 95 Cukup jelas. Angka 17 Pasal 99 Cukup jelas.
 ```
 
 - -250-
 
-Angka 18 Pasal 101
+Angka 18
 
-Angka 19 Pasal 103
+Pasal 101
+Angka 19
 
-Angka 20 Pasal 104
+Pasal 103
+Angka 20
 
-Angka 21 Pasal 106
+Pasal 104
+Angka 21
 
+Pasal 106
 Angka22 Pasal 118A
 
-Angka 23 Pasal 119A
+Angka 23
+
+Pasal 119A
 
 Angka24 Pasal 125
 
-Angka 25 Pasal 126
+Angka 25
 
+Pasal 126
 ```
 Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas.
 ```

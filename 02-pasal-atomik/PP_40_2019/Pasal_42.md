@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Basis data sebagaimana dimaksud dalam Pasal 41 ayat (3)
+Basis data sebagaimana dimaksud dalam
+
+Pasal 41
+ayat (3)
 huruf a terdiri atas:
 a.basis...
 

@@ -19,8 +19,10 @@ mengamandemen: []
 
 (1) Perusahaan Asuransi dan Perusahaan Asuransi
 Syariah yang mengajukan permohonan persetujuan
-Produk Asuransi sebagaimana dimaksud dalam Pasal
-32 ayat (1) harus:
+Produk Asuransi sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (1) harus:
 a. memenuhi ketentuan tingkat solvabilitas
 minimum dan kecukupan investasi sebagaimana
 dimaksud dalam Peraturan Otoritas Jasa
@@ -45,7 +47,10 @@ Peraturan Otoritas Jasa Keuangan mengenai
 penetapan status dan tindak lanjut pengawasan.
 (3) Untuk memberikan persetujuan atau penolakan atas
 permohonan persetujuan Produk Asuransi baru
-sebagaimana dimaksud dalam Pasal 32 ayat (1),
+sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (1),
 Otoritas Jasa Keuangan berwenang untuk meminta
 dokumen dan/atau informasi terkait dengan
 penyelenggaraan Produk Asuransi baru dimaksud.

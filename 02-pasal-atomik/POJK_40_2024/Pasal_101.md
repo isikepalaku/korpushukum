@@ -17,9 +17,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Sejak keputusan RUPS sebagaimana dimaksud dalam Pasal
-98 ayat (1) atau keputusan Otoritas Jasa Keuangan
-sebagaimana dimaksud dalam Pasal 100 ayat (1) huruf a:
+Sejak keputusan RUPS sebagaimana dimaksud dalam
+
+Pasal 98
+ayat (1) atau keputusan Otoritas Jasa Keuangan
+sebagaimana dimaksud dalam
+
+Pasal 100
+ayat (1) huruf a:
 a. Penyelenggara yang berbentuk badan hukum perseroan
 terbatas disebut Penyelenggara dalam Likuidasi dan
 wajib mencantumkan kata “(dalam likuidasi)” disingkat

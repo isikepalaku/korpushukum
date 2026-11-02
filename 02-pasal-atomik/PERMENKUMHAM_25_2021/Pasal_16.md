@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Permohonan perubahan sertifikat Jaminan Fidusia
 
-sebagaimana dimaksud dalam Pasal 15 diajukan dengan
+sebagaimana dimaksud dalam
+
+Pasal 15
+diajukan dengan
 
 mengisi formulir permohonan perubahan secara
 

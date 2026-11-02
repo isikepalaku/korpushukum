@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '84'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,4 +23,4 @@ Setiap Orang yang telah berulang kali dijatuhi pidana denda untuk Tindak Pidana 
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini dimaksudkan untuk mencegah kemungkinan tidak efektifnya penjatuhan pidana denda untuk seseorang yang telah berulang kali melakukan Tindak Pidana yang hanya diancam dengan pidana denda.

@@ -18,9 +18,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 30 ayat (1), ayat (5), Pasal 51
-ayat (1) huruf a, ayat (2) huruf a, huruf c, ayat (4), Pasal
-52 dan/atau Pasal 56 ayat (7), dikenai sanksi
+dimaksud dalam Pasal 30 ayat (1), ayat (5),
+
+Pasal 51
+ayat (1) huruf a, ayat (2) huruf a, huruf c, ayat (4),
+
+Pasal 52
+dan/atau Pasal 56 ayat (7), dikenai sanksi
 administratif.
 (2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
 juga kepada Pihak yang menyebabkan terjadinya

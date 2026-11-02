@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perangkat teknologi informasi dan komunikasi
-sebagaimana dimaksud dalam Pasal 4l ayat (3)
+sebagaimana dimaksud dalam
+
+Pasal 41
+ayat (3)
 huruf b
 disediakan untuk
 mengakomodasi

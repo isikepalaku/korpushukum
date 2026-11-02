@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '136'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -30,4 +30,12 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+Ketentuan liedaluwarsa dalam ketentuan ini dimaksudkan untuk memberi kepastian hukum terhadap status Tindak Pidana yang dilakukan. Hal ini dikarcnalan dengan lewatnya jangka waktu tersebut pada umumnya sulit untuk menentukan alat-alat bukti.
+
+Penentuan tenggang watrrhr kedaluwarsa disesuaikan dengan berat ringannya Tindak Pidana yang dilakukan. Bagi Tindak Pidana yang lebih berat, tenggang waktu kedaluwarsa lebih lama daripada tenggang waktu bagi Tindak Pidana yang lebih ringan.
+
+**Ayat (2)**
+
+Ketentuan pada ayat ini disesuaikan dengan prinsip dalam hukum pidana yang memperlakukan secara khusus bagi Anak. Oleh karena itu, tenggang waktu kedaluwarsa terhadap Tindak Pidana yang dilakukan Anak lebih singkat daripada Tindak Pidana yang dilakukan orang dewasa.

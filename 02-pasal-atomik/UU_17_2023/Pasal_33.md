@@ -28,7 +28,10 @@ mengamandemen: []
 Cukup jelas.
 
 ```
-Ayat (7) Cukup jelas. Pasal 36 Cukup jelas. Pasal 37 Ayat (l) Pelayanan Kesehatan lanjutan termasuk pelayanan skrining dan deteksi dini, homecare, Telemedisin, Pelayanan Kesehatan bergerak, Pelayanan Kesehatan pada pos Kesehatan, Pelayanan Kesehatan yang menggunakan teknologi terbaru, dan pelayanan berbasis penelitian. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 38 Ayat (1) Yang dimaksud dengan "berstandar internasional" adalah pelayanan unggulan nasional yang menggunakan metode baru yang diakui secara internasional. Ayat (2) Cukup jelas. Pasal 39 Ayat (1) Cukup jelas. Ayat(21 Cukup jelas. Ayat (3) Yang dimaksud dengan "rujukan secara vertikal' adalah rujukan yang dilakukan dari Fasilitas Pelayanan Kesehatan perujuk ke Fasilitas Pelayanan Kesehatan penerima rujukan yang memiliki tingkat kemampuan pelayanan yang lebih tinggi sesuai dengan kebutuhan medis Pasien.
+Ayat (7) Cukup jelas.
+
+Pasal 36
+Cukup jelas. Pasal 37 Ayat (l) Pelayanan Kesehatan lanjutan termasuk pelayanan skrining dan deteksi dini, homecare, Telemedisin, Pelayanan Kesehatan bergerak, Pelayanan Kesehatan pada pos Kesehatan, Pelayanan Kesehatan yang menggunakan teknologi terbaru, dan pelayanan berbasis penelitian. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 38 Ayat (1) Yang dimaksud dengan "berstandar internasional" adalah pelayanan unggulan nasional yang menggunakan metode baru yang diakui secara internasional. Ayat (2) Cukup jelas. Pasal 39 Ayat (1) Cukup jelas. Ayat(21 Cukup jelas. Ayat (3) Yang dimaksud dengan "rujukan secara vertikal' adalah rujukan yang dilakukan dari Fasilitas Pelayanan Kesehatan perujuk ke Fasilitas Pelayanan Kesehatan penerima rujukan yang memiliki tingkat kemampuan pelayanan yang lebih tinggi sesuai dengan kebutuhan medis Pasien.
 ```
 
 Yang dimaksud dengan "rujukan secara horZontal" adalah rujukan dari Fasilitas Pelayanan Kesehatan perujuk ke Fasilitas Pelayanan Kesehatan penerima rujukan yang sama jenis Fasilitas Pelayanan kesehatannya, tetapi memiliki jenis kompetensi tertentu yang tidak dimiliki oleh Fasilitas Pelayanan Kesehatan perujuk.
@@ -42,7 +45,10 @@ Ayat (4) Cukup jelas. Ayat (5)
 Yang dimaksud dengan "kemampuan pelayanan" adalah kompetensi yang didasarkan pada jenis Pelayanan Kesehatan, jenis Tenaga Medis dan Tenaga Kesehatan, sarana dan prasarana, peralatan Kesehatan, Sediaan Farmasi dan Alat Kesehatan, serta daya tampung Fasilitas Pelayanan Kesehatan.
 
 ```
-Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Pasal 40 Cukup jelas. Pasal 41 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3)
+Ayat (6) Cukup jelas. Ayat (7) Cukup jelas.
+
+Pasal 40
+Cukup jelas. Pasal 41 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3)
 ```
 
 Yang dimaksud dengan oskrining kesehatan lainnya" adalah skrining Kesehatan yang dilakukan secara berkala sesuai dengan standar setelah periode kelahiran. Skrining Kesehatan lainnya dapat berupa pemantauan tumbuh kembang, deteksi dini kedisabilitasan, dan lainnya.

@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Penyelenggara yang akan melakukan rencana
 Pemisahan UUS karena memenuhi kriteria tertentu
-sebagaimana dimaksud dalam Pasal 28 ayat (2) huruf a
+sebagaimana dimaksud dalam
+
+Pasal 28
+ayat (2) huruf a
 harus menyampaikan pelaporan Pemisahan UUS
 kepada Otoritas Jasa Keuangan dengan melampirkan
 dokumen pelaporan rencana Pemisahan UUS yang

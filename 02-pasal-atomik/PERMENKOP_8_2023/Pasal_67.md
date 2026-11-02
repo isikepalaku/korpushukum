@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Perjanjian antara KSP/KSPPS dengan Pemodal sebagaimana
-dimaksud dalam Pasal 66 huruf d dibuat secara tertulis dan
+dimaksud dalam
+
+Pasal 66
+huruf d dibuat secara tertulis dan
 paling sedikit memuat:
 
 -----

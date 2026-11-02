@@ -22,7 +22,7 @@ mengamandemen: []
 
 **permohonan peninjauan kembali menunjuk Hakim**
 **yang tidak memeriksa perkara semula yang**
-**dimohonkan peninjauan kembali untuk memeriksa permohonan peninjauan kembali tersebut memenuhi alasan sebagaimana dimaksud dalam pasal 318 ayat (5).**
+**dimohonkan peninjauan kembali untuk memeriksa permohonan peninjauan kembali tersebut memenuhi alasan sebagaimana dimaksud dalam Pasal 318 ayat (5).**
 **(2) Dalam pemeriksaan sebagaimana dimaksud pada**
 
 **ayat (1), pemohon dan perwakilan dari Jaksa Agung hadir dan dapat menyampaikan pendapatnya.**
@@ -44,7 +44,9 @@ acara pemeriksaan, dan berita acara pendapat kepada
 **Mahkamah Agung yang tembusan surat pengantarnya disampaikan kepada pemohon dan Jaksa.**
 **(5) Dalam hal suatu perkara yang dimohonkan**
 
-**peninjauan kembali merupakan putusan pengadilan banding, tembusan surat pengantar tersebut harus dilampiri tembusan berita acara pemeriksaan dan berita acara pendapat, serta disampaikan kepada pengadilan banding yang bersangkutan.**
+**peninjauan kembali merupakan putusan pengadilan banding, tembusan surat pengantar tersebut harus dilampiri tembusan berita acara pemeriksaan dan berita acara pendapat, serta disampaikan kepada pengadilan banding yang bersangkutan.**Pasal 32 1
+
+**Dalam hal peninjauan kembali diajukan terhadap putusan berkekuatan hukum tetap yang berasal dari tingkat kasasi, pemeriksaan terhadap perkara peninjauan kembali tersebut harus dilaksanakan oleh Hakim yang tidak Mengadili perkara tersebut di tingkat kasasi.**
 
 ## Penjelasan Resmi
 

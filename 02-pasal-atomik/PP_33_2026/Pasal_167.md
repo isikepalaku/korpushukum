@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penilaian tingkat Pelindungan Data Pribadi yang setara atau lebih tinggi sebagaimana dimaksud dalam Pasa! 165 ayat (1) dilakukan oleh Lembaga.
+Penilaian tingkat Pelindungan Data Pribadi yang setara atau lebih tinggi sebagaimana dimaksud dalam
+
+Pasal 165
+ayat (1) dilakukan oleh Lembaga.
 
 ## Penjelasan Resmi
 

@@ -11,7 +11,6 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_52|UU 1/2013 Pasal 52]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_52|UU 1/2016 Pasal 52]]'
 - '[[02-pasal-atomik/UU_10_2011/Pasal_52|UU 10/2011 Pasal 52]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_52|UU 21/2008 Pasal 52]]'
@@ -69,3 +68,5 @@ Pemenuhan kewajiban kepada pihak ketiga selain Pemegang Polis, Peserta, atau pih
 - b. kepentingan sosial atau Dana Tabarru' lainnya.
 
 Angka 19 ...
+
+Angka 19

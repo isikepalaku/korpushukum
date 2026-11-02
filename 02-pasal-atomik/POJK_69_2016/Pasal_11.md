@@ -22,7 +22,10 @@ mengamandemen: []
 
 sejak tanggal pemberitahuan dari OJK sebagaimana
 
-dimaksud dalam Pasal 10 ayat (2), Perusahaan
+dimaksud dalam
+
+Pasal 10
+ayat (2), Perusahaan
 
 Asuransi, Perusahaan Asuransi Syariah, atau Unit
 

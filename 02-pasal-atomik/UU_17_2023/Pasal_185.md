@@ -30,7 +30,10 @@ Yang dimaksud dengan "persyaratan, standar, dan akreditasi sesuai dengan peranny
 
 Ayat (6)
 
-Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Ayat (10) Cukup jelas. Ayat (11) Cukup jelas. Pasal 188 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
+Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Ayat (10) Cukup jelas. Ayat (11) Cukup jelas.
+
+Pasal 188
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas.
 
 Ayat (s)
 

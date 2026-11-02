@@ -18,7 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), Pasal 26, Pasal 27 ayat (2), Pasal 28,
+ayat (1),
+
+Pasal 26, Pasal 27 ayat (2), Pasal 28,
 
 ## Penjelasan Resmi
 

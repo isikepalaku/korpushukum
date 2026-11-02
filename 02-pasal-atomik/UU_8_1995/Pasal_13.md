@@ -18,26 +18,29 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dan Pasal 64 diancam dengan pidana penjara paling lama 5 (lima)
-
- tahun dan denda paling banyak Rp5.000.000.000,00 (lima miliar
-
- rupiah).
-
- (2) Setiap Pihak yang melakukan kegiatan tanpa memperoleh izin
-
- sebagaimana dimaksud dalam Pasal 32 diancam dengan pidana
-
- kurungan paling lama 1 (satu) tahun dan denda paling banyak
-
- Rp1.000.000.000,00 (satu miliar rupiah).
-
 ```
 
------
+**Bagian…**
 
-```
- - 57
+**(1) Yang dapat menyelenggarakan kegiatan usaha sebagai Lembaga**
+
+ Kliring dan Penjaminan atau Lembaga Penyimpanan dan
+
+ Penyelesaian adalah Perseroan yang telah memperoleh izin usaha
+
+ dari Bapepam.
+
+ (2) Persyaratan dan tata cara perizinan Lembaga Kliring dan
+
+ Penjaminan serta Lembaga Penyimpanan dan Penyelesaian
+
+ sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan
+
+ Peraturan Pemerintah.
+
+ Paragraf 2
+
+ Tujuan dan Kepemilikan
 
 ## Penjelasan Resmi
 

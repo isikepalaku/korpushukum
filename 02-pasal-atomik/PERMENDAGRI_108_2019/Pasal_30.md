@@ -22,7 +22,10 @@ mengamandemen: []
 perpindahan 
 Penduduk 
 sebagaimana 
-dimaksud dalam Pasal 28 ayat (2) huruf d dan huruf e 
+dimaksud dalam
+
+Pasal 28
+ayat (2) huruf d dan huruf e 
 pada Disdukcapil Kabupaten/Kota atau UPT Disdukcapil 
 Kabupaten/Kota daerah asal dilakukan dengan tata cara: 
 a. Penduduk mengisi dan menandatangani formulir 

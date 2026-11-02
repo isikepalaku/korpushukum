@@ -63,5 +63,8 @@ Cukup jelas.
 Ayat (6) ...
 
 ```
-Ayat (6) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Yang dimaksud dengan "sistem pendanaan" adalah penyelenggaraan manfaat lain yang dilakukan dengan pemupukan dana sehingga cukup untuk · memenuhi kebutuhan pembayaran manfaat lain dimaksud. Ayat (7) Cukup jelas. Pasal 139 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Dalam hal Dana Pensiun dibentuk untuk lebih dari 1 (satu) Pemberi Kerja, 1 (satu) Pemberi Kerja bertindak sebagai Pendiri dan Pemberi Kerja lainnya bertindak sebagai Mitra Pendiri. Dana Pensiun Pemberi Kerja yang dibentuk oleh lebih dari 1 (satu) Pemberi Kerja didasarkan pada pertimbangan praktis, efisiensi, atau alasan lainnya. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Pasal 140 Cukup jelas.
+Ayat (6) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Yang dimaksud dengan "sistem pendanaan" adalah penyelenggaraan manfaat lain yang dilakukan dengan pemupukan dana sehingga cukup untuk · memenuhi kebutuhan pembayaran manfaat lain dimaksud. Ayat (7) Cukup jelas.
+
+Pasal 139
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Dalam hal Dana Pensiun dibentuk untuk lebih dari 1 (satu) Pemberi Kerja, 1 (satu) Pemberi Kerja bertindak sebagai Pendiri dan Pemberi Kerja lainnya bertindak sebagai Mitra Pendiri. Dana Pensiun Pemberi Kerja yang dibentuk oleh lebih dari 1 (satu) Pemberi Kerja didasarkan pada pertimbangan praktis, efisiensi, atau alasan lainnya. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Pasal 140 Cukup jelas.
 ```

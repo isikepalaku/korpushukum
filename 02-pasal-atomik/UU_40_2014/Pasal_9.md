@@ -34,8 +34,7 @@ R EPLIBLIK IN DONES IA
  (21 Dalam hal Otoritas Jasa Keuangan menolak [permohonan]
  izin usaha sebagaimana dimaksud [pada ]ayat [(1),] penolakan harus dilakukan secara tertulis dengan disertai alasannya.
 
-Pasal l0
-
+Pasal 10
 (1) Perusahaan Perasuransian wajib melaporkan [setiap]
 
 **pembukaan kantor di luar kantor pusatnya [kepada] Otoritas Jasa Keuangan.**
@@ -56,8 +55,7 @@ Pasal l0
 BAB V
 PEMELENGGARAAN USAHA
 
-Pasal l l
-
+Pasal 11
 **(1) Perusahaan Perasuransian wajib menerapkan tata [kelola]**
  perusahaan yang baik. {2) [Ketentuan ][lebih ][lanjut ][mengenai ][tata ][kelola ][perusahaan]
  sebagaimana dimaksud [pada ]ayat [(l) ] diatur [dalam] Peraturan Otoritas Jasa Keuangan.

@@ -32,7 +32,13 @@ Organ Perusahaan
 
 Ayat (1)
 
-Lihat Penjelasan Pasal 45 ayat (7) huruf a.
+Lihat Penjelasan
+
+Pasal 45
+ayat (7) huruf a.
 Ayat (2)
 
-Lihat Penjelasan Pasal 45 ayat (7) huruf a.
+Lihat Penjelasan
+
+Pasal 45
+ayat (7) huruf a.

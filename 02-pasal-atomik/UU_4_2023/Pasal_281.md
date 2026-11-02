@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Lembaga Penjamin Simpanan menyampaikan informasi kepada Otoritas Jasa Keuangan mengenai Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 81 dan Pasal 280.
+Lembaga Penjamin Simpanan menyampaikan informasi kepada Otoritas Jasa Keuangan mengenai Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 81 dan
+
+Pasal 280.
 
 **Bagian Ketiga**
 

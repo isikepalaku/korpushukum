@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Situs web Perusahaan atau Unit Syariah
 
-sebagaimana dimaksud dalam Pasal 47 wajib
+sebagaimana dimaksud dalam
+
+Pasal 47
+wajib
 
 memuat informasi paling sedikit:
 

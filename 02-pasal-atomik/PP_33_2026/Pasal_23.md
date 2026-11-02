@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Permohonan pelaksanaan hak Subjek Data Pribadi sebagaimana dimaksud dalam Pasal 20 dapat diajukan oleh:
+Permohonan pelaksanaan hak Subjek Data Pribadi sebagaimana dimaksud dalam
+
+Pasal 20
+dapat diajukan oleh:
 
 - a, Subjek Data Pribadi;
 

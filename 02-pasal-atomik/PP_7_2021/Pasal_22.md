@@ -20,6 +20,24 @@ mengamandemen: []
 **(1) Program kemudahan, pelindungan, dan**
 
 pemberdayaan Koperasi sebagaimana dimaksud dalam
+Pasal 3
+sampai dengan Pasal 21 dilaksanakan,oleh Pemerintah Pusat dan Pemerintah Daerah secara terpadu sesuai kev.,en angannya. (21 Pemerintah Daerah sesuai wilayah dan**
+ kewenanganrrya ["men5rusun ]rencana tahunan dan menyediakan alokasi anggaran program kemudahan, pelindungan, dan pemberciayaan usaha Koperasi.
+
+(3) Alokasi...
+
+-----
+
+PRES [I ]DEN
+REPUBLIK INDONESIA
+
+**-t7-**
+
+**(3) Alokasi anggaran sebagaimana dimaksud pada ayat (21**
+
+**bersumber dari:**
+**a. anggaran pendapatan dan belanja negara; b. anggaran pendapatan dan belanja daerah; dan c. sumber iain yang sah dan tidak mengikat sesuai**
+**clengan ketentuan peraturan perundang- undangan.**
 
 ## Penjelasan Resmi
 

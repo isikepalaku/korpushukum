@@ -18,7 +18,21 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+LKM hanya dapat dimiliki oleh:
 
+a. warga negara Indonesia;
+
+b. badan usaha milik desa/kelurahan;
+
+c. Pemerintah Daerah Kabupaten/Kota; dan/atau
+
+d. koperasi.
+
+-----
+
+Bagian Ketiga
+
+Perizinan
 
 ## Penjelasan Resmi
 

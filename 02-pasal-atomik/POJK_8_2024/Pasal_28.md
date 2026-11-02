@@ -42,7 +42,9 @@ ayat (1), pengembalian Premi/Kontribusi ditetapkan
 berdasarkan kesepakatan antara Perusahaan Asuransi
 atau Perusahaan Asuransi Syariah dan Pemegang Polis,
 Tertanggung, atau Peserta yang dicantumkan dalam
-Polis Asuransi sebagaimana dimaksud dalam Pasal 12
+Polis Asuransi sebagaimana dimaksud dalam
+
+Pasal 12
 huruf l.
 
 Bagian Kelima

@@ -22,6 +22,12 @@ Pemeriksaan tindak pidana terhadap Rupiah dilaksanakan
 berdasarkan Undang-Undang tentang Hukum Acara Pidana,
 kecuali ditentukan lain dalam Undang-Undang ini.
 
+Pasal 31 . . .
+
+-----
+
+ - 15
+
 ## Penjelasan Resmi
 
 Cukup jelas.

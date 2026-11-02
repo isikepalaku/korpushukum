@@ -21,7 +21,10 @@ mengamandemen: []
 **(1) Putusan Praperadilan terhadap permohonan**
 
 **sebagaimana dimaksud dalam Pasal 16O sampai**
-dengan Pasal 162 tidak dapat dimintakan banding.
+dengan
+
+Pasal 162
+tidak dapat dimintakan banding.
 **(21 Ketentuan sebagaimana dimaksud pada ayat (1)**
  dikecualikan terhadap putusan Praperadilan yang menetapkan tidak sahnya penghentian Penyidikan atau Penuntutan sehingga dapat dimintakan putusan akhir ke pengadilan tinggi dalam daerah hukum yang bersangkutan.
 

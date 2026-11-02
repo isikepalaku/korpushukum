@@ -24,7 +24,10 @@ mengamandemen: []
 UUS, atau kegiatan penghimpunan dana dalam bentuk
 Simpanan atau Investasi berdasarkan Prinsip Syariah tanpa
 izin usaha dari Bank Indonesia sebagaimana dimaksud
-dalam Pasal 5 ayat (1) dan Pasal 22 dipidana dengan pidana
+dalam Pasal 5 ayat (1) dan
+
+Pasal 22
+dipidana dengan pidana
 penjara paling singkat 5 (lima) tahun dan paling lama 15
 (lima belas) tahun dan pidana denda paling sedikit
 Rp10.000.000.000,00 (sepuluh miliar rupiah) dan paling

@@ -21,12 +21,24 @@ mengamandemen: []
 **(1) Selama pemeriksaan di sidang pengadilan, jika**
 
 **Terdakwa tidak ditahan, pengadilan dapat memerintahkan dengan surat penetapan untuk menahan Terdakwa jika dipenuhi ketentuan**
-sebagaimana dimaksud dalam Pasal 100 dan terdapat
+sebagaimana dimaksud dalam
+
+Pasal 100
+dan terdapat
 alasan yang cukup untuk itu.
 **(21 Dalam hal Terdakwa ditahan, pengadilan dapat**
  memerintahkan dengan surat penetapan untuk menangguhkan Penahanan Terdakwa, jika terdapat
 alasan yang cukup untuk itu sesuai dengan ketentuan
 sebagaimana dimaksud dalam Pasal 110 ayat (1).
+
+Pasal 244 .. .
+
+-----
+
+PRESIDEN
+REPUBUK INDONESIA
+
+**-129-**
 
 ## Penjelasan Resmi
 

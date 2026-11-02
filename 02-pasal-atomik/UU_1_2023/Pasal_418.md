@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '418'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -27,4 +27,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+Tindak Pidana yang diatur dalam ketentuan ini dikenal dengan inses.
+
+Ayat(21
+
+Tindak Pidana yang diatur dalam ketentuan ini pada dasarnya sama dengan perbuatan cabul atau persetubuhan yang diatur dalam pasal terdahulu. Namun perbuatan cabul atau persetubuhan yang diatur dalam ketentuan ini dilakukan terhadap orang-orang yang mempunyai hubungan khusus dengan pelaku Tindak Pidana.

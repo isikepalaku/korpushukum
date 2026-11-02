@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Jangka waktu antara tanggal laporan keuangan
-sebagaimana dimaksud dalam Pasal 104 ayat (1) huruf j dan
+sebagaimana dimaksud dalam
+
+Pasal 104
+ayat (1) huruf j dan
 tanggal dimulainya masa penawaran Efek paling lama 6
 (enam) bulan.
 

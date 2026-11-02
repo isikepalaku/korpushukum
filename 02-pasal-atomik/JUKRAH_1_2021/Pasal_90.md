@@ -72,7 +72,10 @@ tanggal 14 Desember 2016, yang berisi:
 
 a) di dalam ketentuan Pasal 409 huruf d Undang-Undang Nomor
 23 Tahun 2014 tentang Pemerintahan Daerah menyatakan bahwa
-pada saat Undang-Undang ini mulai berlaku maka Pasal 1 angka 4,
+pada saat Undang-Undang ini mulai berlaku maka
+
+Pasal 1
+angka 4,
 
 ## Penjelasan Resmi
 

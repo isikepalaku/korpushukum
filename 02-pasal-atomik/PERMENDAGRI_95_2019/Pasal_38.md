@@ -17,9 +17,15 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), Pasal 42 ayat (1), Pasal 43 ayat (1) dan Pasal 48 ayat 
+ayat (1),
+
+Pasal 42
+ayat (1), Pasal 43 ayat (1) dan Pasal 48 ayat 
 (1), belum dapat dipenuhi oleh Menteri melalui Direktur 
-Jenderal Kependudukan dan Pasal 44 ayat (1), Pasal 45 ayat 
+Jenderal Kependudukan dan Pasal 44 ayat (1),
+
+Pasal 45
+ayat 
 (1), Pasal 46 ayat (1), Pasal 47 ayat (1) dan Pasal 48 ayat (1), 
 belum dapat dipenuhi oleh gubernur dan bupati/wali kota, 
 pengisian sumber daya manusia dilakukan dengan cara: 

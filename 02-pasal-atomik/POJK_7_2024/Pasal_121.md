@@ -40,7 +40,10 @@ dilaksanakan.
 
 Ayat (1)
 
-Lihat penjelasan Pasal 115 ayat (1).
+Lihat penjelasan
+
+Pasal 115
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

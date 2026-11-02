@@ -17,8 +17,35 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BAB VIII
-SUMBER DAYA MANUSIA DAN PELATIHAN
+(1) PJK wajib memiliki sistem informasi manajemen yang
+dapat mengidentifikasi, menganalisa, memantau, dan
+menyediakan laporan secara efektif mengenai
+karakteristik atau kebiasaan pola transaksi yang
+dilakukan oleh Nasabah.
+(2) Dalam hal PJK merupakan perusahaan anak dalam suatu
+Konglomerasi Keuangan, PJK dapat menggunakan sistem
+informasi yang dimiliki oleh perusahaan induk
+Konglomerasi Keuangan atau PJK dalam Konglomerasi
+Keuangan dimaksud untuk penerapan program APU, PPT,
+dan PPPSPM secara terintegrasi.
+(3) PJK wajib memiliki dan memelihara profil Nasabah secara
+terpadu (single customer identification file), paling kurang
+informasi sebagaimana dimaksud dalam Pasal 25 dan
+
+Pasal 28
+ayat (1).
+(4) PJK wajib memiliki dan memelihara profil WIC
+sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (2) huruf a.
+(5) Sistem informasi sebagaimana dimaksud pada ayat (1),
+wajib mempertimbangkan faktor teknologi informasi yang
+
+-----
+
+berpotensi disalahgunakan oleh pelaku TPPU, TPPT,
+dan/atau PPSPM.
 
 ## Penjelasan Resmi
 

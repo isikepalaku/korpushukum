@@ -18,39 +18,85 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-menyebabkan bank tidak memenuhi ketentuan
+Sebagai peserta Penjaminan sebagaimana dimaksud dalam
 
- sebagaimana dimaksud dalam Pasal 9 huruf a, huruf b,
+Pasal 8, setiap Bank wajib:
 
- huruf e, dan huruf f serta Pasal 92, dipidana dengan pidana
+ a. menyerahkan dokumen sebagai berikut:
 
- penjara paling singkat 2 (dua) tahun dan paling lama 10
+ 1) salinan anggaran dasar dan/atau akta pendirian bank;
 
- (sepuluh) tahun, serta denda paling sedikit
+ 2) salinan dokumen perizinan bank;
 
- Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak
+ 3) surat keterangan tingkat kesehatan bank yang
 
- Rp3.000.000.000,00 (tiga miliar rupiah).
+ dikeluarkan oleh LPP yang dilengkapi dengan data
+
+ pendukung;
 
 -----
 
-**(2) Direksi, komisaris, dan/atau pemegang saham bank yang**
+**4) surat pernyataan dari direksi, komisaris, dan pemegang**
 
- menyebabkan bank tidak memenuhi ketentuan
+ saham bank, yang memuat:
 
- sebagaimana dimaksud dalam Pasal 9 huruf c dalam
+ i. komitmen dan kesediaan direksi, komisaris, dan
 
- jangka waktu 12 (dua belas) bulan sejak batas waktu
+ pemegang saham bank untuk mematuhi seluruh
 
- sebagaimana dimaksud dalam Pasal 12 ayat (2), dipidana
+ ketentuan sebagaimana ditetapkan dalam Peraturan
 
- dengan pidana penjara paling singkat 2 (dua) tahun dan
+ LPS;
 
- paling lama 10 (sepuluh) tahun, serta denda paling sedikit
+ ii. kesediaan untuk bertanggung jawab secara pribadi
 
- Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak
+ atas kelalaian dan/atau perbuatan yang melanggar
 
- Rp3.000.000.000,00 (tiga miliar rupiah).
+ hukum yang mengakibatkan kerugian atau
+
+ membahayakan kelangsungan usaha bank;
+
+ iii. kesediaan untuk melepaskan dan menyerahkan
+
+ kepada LPS segala hak, kepemilikan, kepengurusan,
+
+ dan/atau kepentingan apabila bank menjadi Bank
+
+ Gagal dan diputuskan untuk diselamatkan atau
+
+ dilikuidasi;
+
+ b. membayar kontribusi kepesertaan sebesar 0,1% (satu
+
+ perseribu) dari modal sendiri (ekuitas) bank pada akhir
+
+ tahun fiskal sebelumnya atau dari modal disetor bagi bank
+
+ baru;
+
+ c. membayar premi Penjaminan;
+
+ d. menyampaikan laporan secara berkala dalam format yang
+
+ ditentukan;
+
+ e. memberikan data, informasi, dan dokumen yang
+
+ dibutuhkan dalam rangka penyelenggaraan Penjaminan;
+
+ dan
+
+-----
+
+**f. menempatkan bukti kepesertaan atau salinannya di dalam**
+
+ kantor bank atau tempat lainnya sehingga dapat diketahui
+
+ dengan mudah oleh masyarakat.
+
+ Bagian Kedua
+
+ Simpanan Yang Dijamin
 
 ## Penjelasan Resmi
 

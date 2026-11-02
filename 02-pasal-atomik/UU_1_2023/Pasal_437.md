@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '437'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,4 +25,4 @@ Bagian Kelima Persangkaan Palsu
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Harus dibuktikan bahwa pelaku mengetahui bahwa pengaduan tersebut tidak benar dan sifatnya menyerang kehormatan atau nama baik seseorang. Pengaduan atau pemberitahuan dilakukan secara terhrlis atau menyuruh orang lain untuk menuliskan dan tidak diharuskan ada tanda tangan pengadu. Dengan demikian, pengaduan atau pemberitahuan palsu dengan Surat anonim (blackmaitl dapat dipidana berdasarkan ketentuan dalam Pasal ini.

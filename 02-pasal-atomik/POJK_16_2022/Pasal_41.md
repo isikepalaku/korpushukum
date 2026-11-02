@@ -32,7 +32,9 @@ OJK ini.
 dimaksud pada ayat (1) menyebabkan penerima hibah
 atau waris saham memenuhi kriteria pengendali,
 dilakukan penilaian kemampuan dan kepatutan
-sebagaimana dimaksud dalam Pasal 36.
+sebagaimana dimaksud dalam
+
+Pasal 36.
 (4) Perubahan kepemilikan saham yang mengakibatkan
 beralihnya pengendalian Bank yang disebabkan oleh
 hibah atau waris, dikecualikan sebagai

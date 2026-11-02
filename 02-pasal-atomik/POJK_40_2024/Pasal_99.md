@@ -17,32 +17,35 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), Pasal 112 ayat (5), ayat (6), Pasal 116 ayat (4),
-ayat (5), Pasal 120 ayat (1), Pasal 122 ayat (1), Pasal 123
-ayat (1), ayat (2), dan/atau Pasal 126 ayat (2) dikenai
-sanksi administratif berupa:
-a. peringatan tertulis;
-b. larangan menjadi PSP, Direksi, Dewan Komisaris,
-DPS; dan/atau
+(1) Dalam Pembubaran, Tim Likuidasi yang dibentuk oleh
+RUPS sebagaimana dimaksud dalam
+
+Pasal 98
+ayat (1)
+wajib mendaftarkan dan memberitahukan Pembubaran
+kepada instansi yang berwenang, serta
+mengumumkannya dalam Berita Negara Republik
+Indonesia, 2 (dua) surat kabar harian yang mempunyai
+peredaran yang luas, dan Sistem Elektronik yang
+digunakan oleh Penyelenggara.
+(2) Tindakan pendaftaran, pemberitahuan, dan
+pengumuman sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Tim Likuidasi paling lama 30 (tiga
+puluh) hari kerja sejak tanggal keputusan Pembubaran
+oleh RUPS.
+(3) Pemberitahuan dan pengumuman sebagaimana
+dimaksud pada ayat (1) memuat:
+a. Pembubaran dan dasar hukumnya;
+b. nama dan alamat Tim Likuidasi;
+c. tata cara pengajuan tagihan; dan
 
 -----
 
-c. denda administratif.
-(2) Selain sanksi administratif sebagaimana dimaksud
-pada ayat (1), pihak yang melanggar dapat dikenai
-sanksi administratif berupa larangan menjadi
-pemegang saham atau yang setara dengan pemegang
-saham pada badan hukum berbentuk koperasi, Direksi,
-Dewan Komisaris, atau DPS pada Penyelenggara.
-(3) Dalam hal pihak yang melanggar telah memenuhi
-ketentuan sebagaimana dimaksud pada ayat (1),
-Otoritas Jasa Keuangan mencabut sanksi
-administratif.
-(4) Dalam hal terjadi pelanggaran ketentuan sebagaimana
-dimaksud pada ayat (1) dan pelanggaran telah
-diperbaiki, Otoritas Jasa Keuangan memberikan
-sanksi administratif berupa peringatan tertulis yang
-berakhir dengan sendirinya.
+d. jangka waktu pengajuan tagihan.
+(4) Jangka waktu pengajuan tagihan sebagaimana
+dimaksud pada ayat (3) huruf d paling lama 60 (enam
+puluh) hari kalender terhitung sejak tanggal
+pengumuman sebagaimana dimaksud pada ayat (1).
 
 ## Penjelasan Resmi
 

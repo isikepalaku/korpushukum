@@ -37,7 +37,10 @@ Huruf a
 
 Kementerian dan/ atau lembaga terkait antara lain kementerian dan/atau lembaga yang menyelenggarakan urusan pemerintahan di bidang perindustrian, perdagangan, kesehatan, pertanian, standardisasi dan akreditasi, koperasi dan usaha mikro, kecil, dan menengah, serta pengawasan obat dan makanan.
 
-Huruf b LPH bersifat mandiri. Huruf c Cukup jelas. Ayat (2) Cukup je1as. Angka 5 Pasal 10 Cukup jelas. Angka 6 Pasal 10A Cukup jelas. Angka 7 Pasal 11 Cukup jelas. Angka 8 Pasal 13 Ayat (1) Cukup jelas.
+Huruf b LPH bersifat mandiri. Huruf c Cukup jelas. Ayat (2) Cukup je1as. Angka 5
+
+Pasal 10
+Cukup jelas. Angka 6 Pasal 10A Cukup jelas. Angka 7 Pasal 11 Cukup jelas. Angka 8 Pasal 13 Ayat (1) Cukup jelas.
 
 Ayat (2)
 
@@ -48,3 +51,5 @@ Ayat(3)...
 Ayat (3)
 
 Cukup jelas.
+
+Angka 9

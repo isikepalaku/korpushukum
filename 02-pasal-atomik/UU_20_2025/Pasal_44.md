@@ -20,7 +20,11 @@ mengamandemen: []
 
 **Dalam hal Penyidik melakukan Penyitaan, Penyidik terlebih dahulu menunjukkan tanda pengenalnya dan surat izin**
 Penyitaan dari ketua pengadilan negeri kepada pemilik atau
-**pihak yang menguasai benda tersebut.**
+**pihak yang menguasai benda tersebut.**Pasal 45...
+
+-----
+
+**BLIK INDONESIA**
 
 ## Penjelasan Resmi
 

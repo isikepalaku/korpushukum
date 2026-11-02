@@ -18,14 +18,72 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 49 ayat (1), Pasal 51 ayat (1),
-ayat (2), Pasal 52 ayat (1), Pasal 53 ayat (1), ayat (2),
+dimaksud dalam Pasal 49 ayat (1),
+
+Pasal 51
+ayat (1),
+ayat (2),
+
+Pasal 52
+ayat (1), Pasal 53 ayat (1), ayat (2),
+Pasal 55
+ayat (1), ayat (3), ayat (5), ayat (8), dan/atau
+
+Pasal 56
+ayat (3), ayat (6), ayat (7), ayat (8) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembekuan sebagian atau seluruh kegiatan
+usaha;
+c. pembatasan kegiatan usaha tertentu;
+d. penurunan hasil penilaian tingkat risiko;
+e. pembatalan persetujuan;
+f. larangan menjadi PSP, Direksi, Dewan Komisaris,
+dan/atau DPS; dan/atau
+g. denda administratif.
+(2) Sanksi administratif sebagaimana pada ayat (1) huruf b
+sampai dengan huruf g dapat dikenakan dengan atau
+tanpa didahului pengenaan sanksi administratif berupa
+peringatan tertulis sebagaimana dimaksud pada ayat
+(1) huruf a.
+(3) Sanksi administratif berupa denda administratif
+sebagaimana dimaksud pada ayat (1) huruf g dikenakan
+paling banyak Rp50.000.000,00 (lima puluh juta
+rupiah).
+
+-----
+
+(4) Dalam hal Penyelenggara telah memenuhi ketentuan
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa
+Keuangan mencabut sanksi administratif.
+(5) Dalam hal terjadi pelanggaran ketentuan sebagaimana
+dimaksud pada ayat (1) dan pelanggaran telah
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi
+administratif berupa peringatan tertulis yang berakhir
+dengan sendirinya.
+(6) Selain sanksi administratif sebagaimana dimaksud
+pada ayat (1), Otoritas Jasa Keuangan berwenang:
+a. menurunkan hasil penilaian Tingkat Kesehatan;
+b. melakukan penilaian kembali terhadap Pihak
+Utama yang menyebabkan Penyelenggara
+melanggar ketentuan sebagaimana dimaksud pada
+ayat (1); dan/atau
+c. melakukan pencatatan rekam jejak terhadap pihak
+yang menyebabkan Penyelenggara melanggar
+ketentuan sebagaimana dimaksud pada ayat (1)
+dalam Sistem Elektronik Otoritas Jasa Keuangan.
+
+BAB VII
+PERUBAHAN KEPEMILIKAN DAN PENGAMBILALIHAN
 
 ## Penjelasan Resmi
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

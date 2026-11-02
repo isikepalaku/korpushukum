@@ -18,14 +18,19 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara dengan status pengawasan intensif
-sebagaimana dimaksud dalam Pasal 206 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 206
+ayat (2) huruf
 b ditetapkan oleh Otoritas Jasa Keuangan untuk jangka
 waktu paling lama 1 (satu) tahun sejak tanggal surat
 pemberitahuan Otoritas Jasa Keuangan.
 (2) Apabila jangka waktu status pengawasan intensif
 sebagaimana dimaksud pada ayat (1) berakhir dan
 Penyelenggara masih memenuhi kriteria sebagaimana
-dimaksud dalam Pasal 207, Otoritas Jasa Keuangan
+dimaksud dalam
+
+Pasal 207, Otoritas Jasa Keuangan
 dapat menetapkan perpanjangan jangka waktu status
 pengawasan Penyelenggara paling banyak 1 (satu) kali
 untuk jangka waktu paling lama 1 (satu) tahun.

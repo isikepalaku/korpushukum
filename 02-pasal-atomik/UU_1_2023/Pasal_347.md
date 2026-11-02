@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '347'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,6 @@ Setiap Orang yang dengan Kekerasan atau Ancaman Kekerasan memaksa seorang Pejaba
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "memaksa" adalah melakukan tekanan terhadap seseorang agar berbuat atau tidak berbuat sesuatu yang sebetulnya perbuatan itu tidak akan dilakukan kalau tidak ada tekanan.
+
+Yang dimaksud dengan "melakukan perbuatan dalam jabatan" adalah perbuatan yang dilalrukan seseorang yang sedang bertugas sesuai dengan tugas jabatan yang dilimpahkan kepadanya sesuai dengan ketentuan peraturan perundang-undangan.

@@ -17,7 +17,17 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), ayat (2), Pasal 25, Pasal 26, Pasal 27 ayat (1),
+(1) UUS harus memiliki modal kerja pada saat pendirian
+paling sedikit Rp10.000.000.000,00 (sepuluh miliar
+rupiah).
+(2) Modal kerja UUS sebagaimana dimaksud pada ayat (1)
+wajib disisihkan dalam bentuk deposito berjangka atas
+nama Penyelenggara dan ditempatkan pada salah satu
+bank umum syariah atau unit usaha syariah dari bank
+umum di Indonesia.
+(3) Modal kerja sebagaimana dimaksud pada ayat (1) wajib
+dituangkan di dalam surat keputusan Direksi yang
+disetujui oleh Dewan Komisaris.
 
 ## Penjelasan Resmi
 

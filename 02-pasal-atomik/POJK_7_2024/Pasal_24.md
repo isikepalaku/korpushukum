@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 BUK atau BUS yang ditetapkan menjadi BPR atau BPR Syariah
-sebagaimana dimaksud dalam Pasal 23 ayat (1) wajib
+sebagaimana dimaksud dalam
+
+Pasal 23
+ayat (1) wajib
 menyampaikan rencana tindak penyesuaian seluruh bentuk
 dan kegiatan usaha menjadi BPR atau BPR Syariah kepada
 OJK paling lama 10 (sepuluh) hari kerja setelah diterbitkannya

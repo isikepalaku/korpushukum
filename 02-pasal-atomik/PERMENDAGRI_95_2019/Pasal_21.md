@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data pengesahan anak sebagaimana dimaksud dalam Pasal 7 
+Data pengesahan anak sebagaimana dimaksud dalam
+
+Pasal 7
 ayat (4) huruf j, terdiri dari elemen data: 
 a. 
 NIK/NIT anak; 

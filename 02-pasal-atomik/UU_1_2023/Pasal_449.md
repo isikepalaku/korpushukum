@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '449'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -38,5 +38,11 @@ Bagran Kedua . . .
 Paragraf 1 Penculikan
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Tindak Pidana dalam ketentuan ini dildasifrkasikan sebagai Tindak Pidana pemerasan yang menyangkut perampasan kemerdekaan. Pemerasan dapat dilakukan dengan berbagai cara dan melalui berbagai bentuk ancaman.
+
+Ayat(2)
 
 Cukup jelas.

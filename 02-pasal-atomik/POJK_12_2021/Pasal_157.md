@@ -21,7 +21,10 @@ Bank BHI atau KCBLN yang telah memiliki rencana
 
 korporasi yang memenuhi ketentuan sebagaimana
 
-dimaksud dalam Pasal 7 ayat (2), Pasal 8 ayat (1) dan ayat
+dimaksud dalam Pasal 7 ayat (2),
+
+Pasal 8
+ayat (1) dan ayat
 
 (2) pada saat Peraturan OJK ini berlaku, Bank BHI atau
 

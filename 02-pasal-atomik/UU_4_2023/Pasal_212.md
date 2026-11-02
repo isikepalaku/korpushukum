@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam rangka pelaksanaan tugas dan/ a tau wewenang sebagaimana dimaksud dalam Pasal 205 sampai dengan Pasal 211, Otoritas Jasa Keuangan berkoordinasi dengan Bank Indonesia dan/ atau kementerian/lembaga terkait.
+Dalam rangka pelaksanaan tugas dan/ a tau wewenang sebagaimana dimaksud dalam
+
+Pasal 205
+sampai dengan Pasal 211, Otoritas Jasa Keuangan berkoordinasi dengan Bank Indonesia dan/ atau kementerian/lembaga terkait.
 
 BAB XVI ...
 

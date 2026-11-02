@@ -18,7 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bentuk Penjaminan sebagaimana dimaksud dalam Pasal 5
+Bentuk Penjaminan sebagaimana dimaksud dalam
+
+Pasal 5
 ayat (1) huruf b meliputi:
 
 a. Penjaminan bagi Eksportir Indonesia atas pembayaran

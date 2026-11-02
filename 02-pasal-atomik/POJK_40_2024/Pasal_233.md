@@ -20,8 +20,10 @@ mengamandemen: []
 Penyelenggara yang telah memperoleh izin usaha pada saat
 Peraturan Otoritas Jasa Keuangan ini diundangkan,
 ketentuan mengenai pedoman penyelenggaraan Rapat
-Umum Pemberi Dana sebagaimana dimaksud dalam Pasal
-199 ayat (1) mulai berlaku 6 (enam) bulan sejak Peraturan
+Umum Pemberi Dana sebagaimana dimaksud dalam
+
+Pasal 199
+ayat (1) mulai berlaku 6 (enam) bulan sejak Peraturan
 Otoritas Jasa Keuangan ini diundangkan.
 
 ## Penjelasan Resmi

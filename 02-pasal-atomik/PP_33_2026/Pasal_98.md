@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Hak schagaimana dimaksud dalam Pasal 97 diajukan dalam hal:
+Hak schagaimana dimaksud dalam
+
+Pasal 97
+diajukan dalam hal:
 
 - a. Subjek Data Pribadi mempermasalahkan keakuratan atau kebenaran Data Pribadi yang diproses oleh Pengendali Data Pribadi untuk jangka waktu yang memungkinkan Pengendali Data Pribadi melakukan verifikast atas keakuratan atau kebenaran Data Pribadi tersebut;
 

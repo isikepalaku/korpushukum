@@ -26,10 +26,16 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Cukup jelas. Angka 16 Pasal 72 Dihapus. Angka 17 Pasal 73 Dihapus. Angka 18 Pasal 107 Cukup jelas. Angka 19 Pasal 108 Cukup jelas. Angka 2O Pasal 11O Dihapus. Angka2L Pasal 112 Dihapus. AngJra22 Pasal 113 Cukup jelas.
+Cukup jelas. Angka 16
+
+Pasal 72
+Dihapus. Angka 17 Pasal 73 Dihapus. Angka 18 Pasal 107 Cukup jelas. Angka 19 Pasal 108 Cukup jelas. Angka 2O Pasal 11O Dihapus. Angka2L Pasal 112 Dihapus. AngJra22 Pasal 113 Cukup jelas.
 ```
 
-Angka 23 Pasal 114 Cukup jelas. Ang)&lt;a 24 Pasal 117 Cukup jelas. Pasal 52 Angka 1 Pasal 5 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Yang dimaksud dengan "rantai pasok Jasa Konstruksi" adalah alur kegiatan produksi dan distribusi material, peralatan, dan teknologi yang digunakan dalam pelaksanaan Jasa Konstruksi. Huruf g Cukup jelas. Huruf h Cukup jelas.
+Angka 23
+
+Pasal 114
+Cukup jelas. Ang)&lt;a 24 Pasal 117 Cukup jelas. Pasal 52 Angka 1 Pasal 5 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Yang dimaksud dengan "rantai pasok Jasa Konstruksi" adalah alur kegiatan produksi dan distribusi material, peralatan, dan teknologi yang digunakan dalam pelaksanaan Jasa Konstruksi. Huruf g Cukup jelas. Huruf h Cukup jelas.
 
 Huruf i. . .
 
@@ -98,7 +104,10 @@ Teknologi prioritas meliputi:
 5. teknologi dan manajemen pemeliharaan aset infrastruktur.
 
 ```
-Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Angka 2 Pasal 6 Cukup jelas. Angka 3 Pasal 7
+Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Angka 2
+
+Pasal 6
+Cukup jelas. Angka 3 Pasal 7
 ```
 
 Cukup jelas.

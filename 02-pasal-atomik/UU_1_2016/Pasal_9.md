@@ -20,7 +20,9 @@ mengamandemen: []
 
 (1) Lembaga Penjamin yang berbentuk badan hukum
 
-perseroan terbatas sebagaimana dimaksud dalam Pasal 7
+perseroan terbatas sebagaimana dimaksud dalam
+
+Pasal 7
 huruf b hanya dapat dimiliki oleh:
 
 a. warga negara Indonesia dan/atau badan hukum

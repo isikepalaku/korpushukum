@@ -18,15 +18,27 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) BPR yang melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 39 ayat (1), ayat (2), ayat (3) huruf b, ayat (4),
-ayat (5), ayat (6), ayat (7), Pasal 40 ayat (1), ayat (2), ayat
+dalam
+
+Pasal 39
+ayat (1), ayat (2), ayat (3) huruf b, ayat (4),
+ayat (5), ayat (6), ayat (7),
+
+Pasal 40
+ayat (1), ayat (2), ayat
 (3), ayat (4), dan/atau ayat (5), dikenai sanksi
 administratif berupa teguran tertulis.
 (2) Dalam hal BPR telah dikenai sanksi administratif
 sebagaimana dimaksud pada ayat (1) dan tetap melanggar
-ketentuan sebagaimana dimaksud dalam Pasal 39 ayat
+ketentuan sebagaimana dimaksud dalam
+
+Pasal 39
+ayat
 (1), ayat (2), ayat (3) huruf b, ayat (4), ayat (5), ayat (6),
-ayat (7), Pasal 40 ayat (1), ayat (2), ayat (3), ayat (4),
+ayat (7),
+
+Pasal 40
+ayat (1), ayat (2), ayat (3), ayat (4),
 dan/atau ayat (5), BPR dikenai sanksi administratif
 berupa:
 a. penurunan tingkat kesehatan BPR; dan/atau
@@ -34,6 +46,18 @@ b. penghentian sementara sebagian kegiatan usaha.
 (3) Dalam hal BPR telah dikenai sanksi administratif
 sebagaimana dimaksud pada ayat (1) dan/atau ayat (2)
 dan tetap melanggar ketentuan sebagaimana dimaksud
+
+Pasal 39
+ayat (1), ayat (2), ayat (3) huruf b, ayat (4), ayat
+(5), ayat (6), ayat (7), Pasal 40 ayat (1), ayat (2), ayat (3),
+ayat (4), dan/atau ayat (5), pihak utama BPR dapat
+dikenai sanksi administratif berupa larangan sebagai
+pihak utama sesuai dengan Peraturan Otoritas Jasa
+Keuangan mengenai penilaian kembali bagi pihak utama
+lembaga jasa keuangan.
+
+BAB VII
+HAPUS BUKU
 
 ## Penjelasan Resmi
 

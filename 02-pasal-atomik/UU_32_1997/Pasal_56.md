@@ -20,6 +20,16 @@ mengamandemen: []
 
 Ketentuan mengenai pedoman perilaku sebagaimana dimaksud dalam
 
+ Pasal 49,
+
+Pasal 50, Pasal 51, Pasal 52, Pasal 53, Pasal 54 dan Pasal 55,
+
+ diatur lebih lanjut dengan Peraturan Pemerintah.
+
+ Bagian Kedua
+
+ Praktik Perdagangan yang Dilarang
+
 ## Penjelasan Resmi
 
 Cukup jelas.

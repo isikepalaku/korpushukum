@@ -18,7 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Tidak merupakan penyerangan kehormatan atau harkat dan martabat sebagaimana dimaksud dalam Pasal 226 sampai dengan Pasal 228, jika perbuatan dilakukan untuk kepentingan umum atau pembelaan diri.
+Tidak merupakan penyerangan kehormatan atau harkat dan martabat sebagaimana dimaksud dalam Pasal 226 sampai dengan
+
+Pasal 228, jika perbuatan dilakukan untuk kepentingan umum atau pembelaan diri.
 
 **Paragraf 3 Penodaan Bendera Kebangsaan Negara Sahabat**
 

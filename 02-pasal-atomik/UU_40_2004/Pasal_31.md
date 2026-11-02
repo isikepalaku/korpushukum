@@ -37,6 +37,12 @@ mengamandemen: []
 
  kerja dikenakan urun biaya.
 
+Pasal 32 ...
+
+-----
+
+**- 15**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

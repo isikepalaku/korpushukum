@@ -17,68 +17,56 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Asuransi dan Perusahaan Asuransi Syariah wajib
-terlebih dahulu melakukan kajian atau pengujian atas
-Produk Asuransi.
-(2) Kajian atau pengujian atas Produk Asuransi
-sebagaimana dimaksud pada ayat (1) bertujuan untuk
-mengetahui potensi risiko kerugian terhadap
-Perusahaan Asuransi dan Perusahaan Asuransi
-Syariah, serta Pemegang Polis, Tertanggung, atau
-Peserta.
-(3) Kajian atau pengujian Produk Asuransi sebagaimana
-dimaksud pada ayat (1) paling sedikit mencakup aspek:
+(1) Perusahaan Asuransi dan Perusahaan Asuransi
+Syariah dapat menyelenggarakan dan memasarkan
+Produk Asuransi terlebih dahulu tanpa persetujuan
+Otoritas Jasa Keuangan, untuk:
+a. Produk Asuransi yang tidak pernah dipasarkan
+oleh Perusahaan Asuransi atau Perusahaan
+Asuransi Syariah sebagaimana dimaksud dalam
 
-a. kesesuaian pengembangan Produk Asuransi
-dengan rencana bisnis Perusahaan Asuransi atau
-Perusahaan Asuransi Syariah;
-b. potensi dampak terhadap kinerja dan kesehatan
-keuangan Perusahaan Asuransi atau Perusahaan
-Asuransi Syariah;
-c. kesiapan operasional Perusahaan Asuransi atau
-Perusahaan Asuransi Syariah, paling sedikit
-mencakup;
-1. kecukupan prosedur seleksi risiko;
-2. kesesuaian penetapan Premi/Kontribusi
-dengan praktik yang berlaku umum dan
-ketentuan peraturan perundang-undangan;
-3. kecukupan dukungan reasuransi;
-4. kecukupan estimasi atau asumsi yang
-digunakan oleh Perusahaan Asuransi atau
-Perusahaan Asuransi Syariah terkait besar
-portofolio risiko atas Produk Asuransi yang
-akan dipasarkan dapat memenuhi hukum
-bilangan besar asuransi;
-5. kesiapan infrastruktur sistem informasi
-pendukung;
-6. kesiapan kompetensi dan kapasitas sumber
-daya manusia; dan
-7. manajemen risiko terkait dengan pemasaran
-dan pengelolaan Produk Asuransi; dan
-d. pelindungan calon Pemegang Polis, Tertanggung,
-atau Peserta, paling sedikit mencakup:
-1. kesesuaian desain Produk Asuransi dengan
-kebutuhan dan karakteristik target pasar;
-2. kesiapan pelaksanaan pelatihan tenaga
-pemasar atau pihak lain yang akan
-memasarkan Produk Asuransi dan edukasi
-konsumen; dan
+Pasal 32
+ayat (2) huruf a dan Produk Asuransi
+tersebut tidak memenuhi kriteria tertentu
+sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (3);
+b. Produk Asuransi yang merupakan pengembangan
+atas Produk Asuransi yang telah dipasarkan oleh
+Perusahaan Asuransi atau Perusahaan Asuransi
+Syariah dan mengakibatkan adanya perubahan
+material sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (2) huruf b, namun tidak memenuhi kriteria
+tertentu sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (3); dan
+c. Produk Asuransi yang merupakan pengembangan
+atas Produk Asuransi yang telah dipasarkan oleh
+Perusahaan Asuransi atau Perusahaan Asuransi
+Syariah, yang memenuhi kriteria tertentu
+sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (3),
+namun tidak mengakibatkan adanya perubahan
+material sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (2) huruf b.
 
 -----
 
-3. kesesuaian informasi yang akan disampaikan
-dalam pemasaran dan ketentuan Polis
-Asuransi dengan ketentuan peraturan
-perundang-undangan di bidang
-perasuransian dan pelindungan konsumen.
-(4) Hasil kajian atau pengujian Produk Asuransi
-sebagaimana dimaksud pada ayat (3) wajib
-disampaikan kepada komite pengembangan Produk
-Asuransi sebagai dasar untuk pemberian rekomendasi
-pengembangan Produk Asuransi.
-
-Bagian Ketiga
-Komite Pengembangan Produk Asuransi
+(2) Perusahaan Asuransi dan Perusahaan Asuransi
+Syariah wajib menyampaikan laporan penyelenggaraan
+Produk Asuransi sebagaimana dimaksud pada ayat (1)
+kepada Otoritas Jasa Keuangan paling lama 5 (lima)
+hari kerja setelah Produk Asuransi dimaksud
+dipasarkan oleh Perusahaan Asuransi atau Perusahaan
+Asuransi Syariah.
 
 ## Penjelasan Resmi
 

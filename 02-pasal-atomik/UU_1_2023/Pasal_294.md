@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '294'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,4 +25,4 @@ Dipidana dengan pidana penjara paling lama 7 (tqjuh) tahun, Setiap Orang yang me
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "saksi.' adalah saksi dalam semua lingkungan peradilan dan Mahkamah Konstitusi.

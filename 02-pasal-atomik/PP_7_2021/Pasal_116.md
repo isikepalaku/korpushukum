@@ -21,8 +21,6 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-**Cukup [jeias.]**
-
-Pasal t17
+**Cukup [jeias.]**Pasal t17
 
 **Cukup jelas.**

@@ -17,17 +17,22 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-memperhatikan persyaratan kuorum dan jumlah suara
-setuju untuk perubahan anggaran dasar sesuai dengan
-ketentuan dalam Undang-Undang mengenai perseroan
-terbatas dan anggaran dasar.
-(2) Keputusan rapat umum pemegang saham sebagaimana
-dimaksud pada ayat (1) menjadi sah jika dilakukan
-dengan kuorum kehadiran lebih dari 1/2 (satu per dua)
-bagian dari seluruh jumlah saham dengan hak suara
-dan disetujui oleh lebih dari 1/2 (satu per dua) bagian
-dari jumlah seluruh suara yang dikeluarkan, kecuali
-ditentukan lebih besar dalam anggaran dasar.
+(1) Penambahan modal Penerbit dilakukan berdasarkan
+persetujuan rapat umum pemegang saham.
+(2) Rapat umum pemegang saham dapat menyerahkan
+
+-----
+
+ - 73
+kewenangan kepada Dewan Komisaris untuk
+memberikan persetujuan pelaksanaan keputusan rapat
+umum pemegang saham sebagaimana dimaksud pada
+ayat (1) untuk jangka waktu paling lama 12 (dua belas)
+bulan.
+(3) Penyerahan kewenangan sebagaimana dimaksud pada
+ayat (2) sewaktu-waktu dapat ditarik kembali oleh rapat
+umum pemegang saham sesuai dengan ketentuan
+peraturan perundang-undangan.
 
 ## Penjelasan Resmi
 

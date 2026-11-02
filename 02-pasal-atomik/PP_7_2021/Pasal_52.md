@@ -51,8 +51,7 @@ Pas;al 53
 **diprioritaskan kepada lJsaha Mikro dan Usaha I(ecil yang tercia.rrpak pemulihan perqkonomian .untuk**
 masyarrakat.
 
-Pasai 54
-
+Pasal 54
 **Pcr^rcrir,tah }:usot dan Peri'er,nteh I)rLerah aktif dalarrr m:rnberlkan pcrl^ndungan cl.lo i.lenllanlanan untuk men.j:ga iaya sering produk Usatra Mikro dan Usaha Kecil di pa:zrr domestik. '**
 
 Ea-gian

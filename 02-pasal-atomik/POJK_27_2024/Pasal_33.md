@@ -24,4 +24,7 @@ teratur, wajar, transparan, dan efisien.
 
 ## Penjelasan Resmi
 
-Lihat penjelasan Pasal 3 ayat (1).
+Lihat penjelasan
+
+Pasal 3
+ayat (1).

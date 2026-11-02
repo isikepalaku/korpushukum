@@ -20,7 +20,9 @@ mengamandemen: []
 
 (1) Dalam hal Ketua Dewan Komisioner diberhentikan
 
-karena alasan sebagaimana dimaksud dalam Pasal 17
+karena alasan sebagaimana dimaksud dalam
+
+Pasal 17
 ayat (1), Wakil Ketua Dewan Komisioner bertindak
 sebagai pejabat sementara untuk melaksanakan tugas
 dan wewenang Ketua Dewan Komisioner sampai dengan
@@ -28,7 +30,9 @@ ditetapkannya Ketua Dewan Komisioner yang baru.
 
 (2) Dalam hal Wakil Ketua Dewan Komisioner diberhentikan
 
-karena alasan sebagaimana dimaksud dalam Pasal 17
+karena alasan sebagaimana dimaksud dalam
+
+Pasal 17
 ayat (1), Ketua Dewan Komisioner bertindak sebagai
 pejabat sementara untuk melaksanakan tugas dan
 wewenang Wakil Ketua Dewan Komisioner sampai
@@ -38,9 +42,15 @@ yang baru.
 (3) Dalam hal Ketua dan Wakil Ketua Dewan Komisioner
 
 diberhentikan karena alasan sebagaimana dimaksud
-dalam Pasal 17 ayat (1), berdasarkan kesepakatan
+dalam
+
+Pasal 17
+ayat (1), berdasarkan kesepakatan
 Dewan Komisioner, salah satu anggota Dewan
-Komisioner sebagaimana dimaksud dalam Pasal 10 ayat
+Komisioner sebagaimana dimaksud dalam
+
+Pasal 10
+ayat
 (4) huruf c sampai dengan huruf g bertindak sebagai
 pejabat sementara untuk melaksanakan tugas dan
 wewenang Ketua dan/atau Wakil Ketua Dewan
@@ -55,12 +65,28 @@ dan/atau Wakil Ketua Dewan Komisioner yang baru.
 
 (4) Dalam hal anggota Dewan Komisioner sebagaimana
 
-dimaksud dalam Pasal 10 ayat (4) huruf c sampai
+dimaksud dalam
+
+Pasal 10
+ayat (4) huruf c sampai
 dengan huruf g diberhentikan karena alasan
-sebagaimana dimaksud dalam Pasal 17 ayat (1),
+sebagaimana dimaksud dalam
+
+Pasal 17
+ayat (1),
 berdasarkan kesepakatan Dewan Komisioner, salah satu
 anggota Dewan Komisioner, kecuali anggota Dewan
 Komisioner _Ex-officio_ sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (4) huruf h dan huruf i, bertindak sebagai
+pejabat sementara untuk melaksanakan tugas dan
+wewenang anggota Dewan Komisioner tersebut sampai
+dengan ditetapkannya anggota Dewan Komisioner yang
+baru.
+
+Bagian Keempat
+Tugas dan Wewenang
 
 ## Penjelasan Resmi
 

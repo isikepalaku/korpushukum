@@ -19,6 +19,10 @@ mengamandemen: []
 
 Perangkat pendukung sebagaimana dimaksud dalam
 
+Pasal 41
+ayat (3) huruf j disediakan untuk menjamin
+keberlangsungan fungsi SIAK.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

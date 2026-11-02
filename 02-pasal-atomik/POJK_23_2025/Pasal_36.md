@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 27-2024 (Aset Keuangan Digital Termasuk Aset Kript
 kode_uu: POJK_23_2025
 pasal: '36'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_23_2025
@@ -93,3 +93,5 @@ berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 43

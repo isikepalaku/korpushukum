@@ -21,17 +21,23 @@ mengamandemen: []
 
 a. hasil pengujian keamanan siber berdasarkan
 
-skenario sebagaimana dimaksud dalam Pasal 25
+skenario sebagaimana dimaksud dalam
 
+Pasal 25
 ayat (3);
 
 b. rencana pengembangan TI sebagaimana
 
-dimaksud dalam Pasal 58 ayat (1);
+dimaksud dalam
+
+Pasal 58
+ayat (1);
 
 c. kondisi terkini penyelenggaraan TI sebagaimana
 
-dimaksud dalam Pasal 59;
+dimaksud dalam
+
+Pasal 59;
 
 d. insiden TI sebagaimana dimaksud dalam Pasal 60
 

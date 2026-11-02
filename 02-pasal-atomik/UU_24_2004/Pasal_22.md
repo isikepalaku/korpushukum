@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Penyelesaian atau penanganan Bank Gagal sebagaimana
 
- dimaksud dalam Pasal 21 ayat (2) dan ayat (3) dilakukan
+ dimaksud dalam
+
+Pasal 21
+ayat (2) dan ayat (3) dilakukan
 
  oleh LPS dengan cara sebagai berikut:
 

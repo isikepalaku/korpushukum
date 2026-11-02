@@ -4,7 +4,7 @@ uu_induk: Perubahan Ketiga UU Keimigrasian
 kode_uu: UU_63_2024
 pasal: '3'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_63_2024
@@ -27,4 +27,7 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Fungsi Keimigrasian dalam ketentuan ini adalah sebagian dari tugas penyelenggaraan negara di bidang pelayanan dan pelindungan masyarakat, penegakan hukum Keimigrasian, serta fasilitator penunjang pembangunan ekonomi nasional. Ayat (2) Cukup jelas. Ayat (3) Fungsi Keimigrasian di sepanjang garis perbatasan sesuai dengan tugasnya sebagai penjaga pintu gerbang negara, bukan penjaga garis batas negara. Ayat (a) Cukup jelas. Angka 2 Pasal 16 Ayat (1) Cukup jelas. Ayat (2) Ketentuan ini dimaksudkan untuk melindungi kepentingan nasional atau menghindari kerugian masyarakat, misalnya Orang Asing yang bersangkutan belum atau tidak mau menyelesaikan kewajiban pajaknya. Angka 3 Pasal 24A Cukup jelas
+```
+
+```

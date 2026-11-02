@@ -22,7 +22,10 @@ pertemuan tatap muka secara elektronik atau melalui
 mekanisme tidak tatap muka secara elektronik, dengan
 memanfaatkan penggunaan perangkat lunak dan/atau
 perangkat keras milik pihak ketiga sebagaimana dimaksud
-dalam Pasal 21 ayat (4) dan Pasal 21 ayat (5) huruf a dan
+dalam Pasal 21 ayat (4) dan
+
+Pasal 21
+ayat (5) huruf a dan
 huruf b, PJK wajib memiliki perjanjian kerja sama secara
 tertulis dengan pihak ketiga.
 (2) PJK wajib memastikan pihak ketiga yang akan melakukan

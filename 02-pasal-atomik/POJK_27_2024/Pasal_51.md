@@ -18,11 +18,34 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-i. pemberian akses atau kerja sama dengan pihak
-lain yang melakukan aktivitas penunjang
-sebagaimana dimaksud dalam Pasal 52 ayat (5);
-dan/atau
-j. aktivitas penunjang sebagaimana dimaksud dalam
+(1) Ruang lingkup kegiatan Pedagang dalam perdagangan
+Aset Keuangan Digital meliputi:
+a. jual dan/atau beli antara Aset Keuangan Digital
+dan mata uang Rupiah;
+b. pertukaran antar satu atau lebih jenis Aset
+Keuangan Digital;
+c. penyimpanan Aset Keuangan Digital milik
+Konsumen; dan
+d. transfer atau pemindahan Aset Keuangan Digital
+antar Wallet.
+(2) Dalam hal Pedagang melakukan kegiatan selain
+kegiatan sebagaimana dimaksud pada ayat (1),
+Pedagang wajib terlebih dahulu menyampaikan
+permohonan persetujuan kepada Otoritas Jasa
+Keuangan.
+(3) Kegiatan sebagaimana dimaksud pada ayat (1) dan ayat
+(2) wajib diatur dalam tata cara perdagangan Pedagang.
+
+-----
+
+(4) Tata cara perdagangan sebagaimana dimaksud pada
+ayat (3) termasuk perubahannya wajib mendapatkan
+persetujuan Bursa terlebih dahulu sebelum
+mendapatkan persetujuan Otoritas Jasa Keuangan.
+(5) Kegiatan sebagaimana dimaksud pada ayat (1) dan ayat
+(2) termasuk perubahan dan perkembangannya wajib
+dilakukan pengkajian dan dilakukan penilaian
+risikonya, termasuk risiko TPPU, TPPT, dan PPSPM.
 
 ## Penjelasan Resmi
 

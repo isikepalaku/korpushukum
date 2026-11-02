@@ -30,7 +30,9 @@ mengamandemen: []
 
 pada ayat (2) wajib memenuhi permintaan Penyidik.
 **(41 Dalam hal suatu surat yang dipandang perlu untuk**
- pemeriksaan menjadi bagian dan tidak dapat dipisahkan dari daftar sebagaimana dimaksud dalam Pasal 47, Penyidik dapat meminta daftar tersebut seluruhnya selama waktu yang ditentukan dalam
+ pemeriksaan menjadi bagian dan tidak dapat dipisahkan dari daftar sebagaimana dimaksud dalam
+
+Pasal 47, Penyidik dapat meminta daftar tersebut seluruhnya selama waktu yang ditentukan dalam
 **surat permintaan dikirimkan kepadanya untuk**
 **diperiksa, dengan menyerahkan tanda penerimaan.**
 **(5) Dalam hal surat sebagaimana dimaksud pada ayat (21**

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PUJK wajib menyampaikan laporan rencana sebagaimana
-dimaksud dalam Pasal 13 ayat (3) dan ayat (4) paling
+dimaksud dalam
+
+Pasal 13
+ayat (3) dan ayat (4) paling
 lambat pada tanggal 30 November sebelum tahun kegiatan
 dilaksanakan.
 (2) Apabila tanggal 30 November jatuh pada hari Sabtu, hari
@@ -32,14 +35,23 @@ kerja berikutnya.
 batas akhir waktu penyampaian sampai dengan paling
 lama 30 (tiga puluh) hari, PUJK dinyatakan terlambat
 menyampaikan laporan rencana sebagaimana dimaksud
-dalam Pasal 13 ayat (3) dan ayat (4).
+dalam
+
+Pasal 13
+ayat (3) dan ayat (4).
 (4) Apabila sampai dengan berakhirnya batas waktu
 keterlambatan sebagaimana dimaksud pada ayat (3) PUJK
 belum menyampaikan laporan rencana, PUJK dinyatakan
 tidak menyampaikan laporan rencana sebagaimana
-dimaksud dalam Pasal 13 ayat (3) dan ayat (4).
+dimaksud dalam
+
+Pasal 13
+ayat (3) dan ayat (4).
 (5) PUJK yang dinyatakan tidak menyampaikan laporan
-rencana sebagaimana dimaksud dalam Pasal 13 ayat (3)
+rencana sebagaimana dimaksud dalam
+
+Pasal 13
+ayat (3)
 dan ayat (4) tetap wajib menyampaikan laporan rencana
 kepada Otoritas Jasa Keuangan.
 (6) PUJK yang terlambat menyampaikan laporan rencana

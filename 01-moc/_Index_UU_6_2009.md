@@ -4,7 +4,7 @@ judul: "Map of Content - Penetapan Perppu 2-2008 tentang Perubahan Kedua atas UU
 kode_uu: UU_6_2009
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_6_2009]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Penetapan Perppu 2-2008 tentang Perubahan Kedua atas UU 23-1999 tentang BI (UU_6_2009)

@@ -10,7 +10,8 @@ tags:
 - uu/uu_1_2024
 status_berlaku: berlaku
 diamandemen_oleh: []
-mengamandemen: []
+mengamandemen:
+- '[[02-pasal-atomik/UU_11_2008/Pasal_27|UU 11/2008 Pasal 27]]'
 ---
 
 # Pasal 27 — UU Nomor 1 Tahun 2024 Perubahan Kedua UU ITE
@@ -22,6 +23,15 @@ mengamandemen: []
  - (21 Setiap Orang dengan sengaja dan tanpa hak mendistribusikan, mentransmisikan, dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan perjudian.
 
 - 9 Di antara Pasal 27 dan Pasal 28 disisipkan 2 (dua) pasal, yakni Pasal 27A dan Pasal 27B sehingga berbunyi sebagai berikut:
+
+**Pasal 27A**
+
+> [!NOTE] **KORELASI NORMA KUHP & UU PDP**
+> - Ketentuan delik menyerang kehormatan/nama baik orang lain via sarana elektronik pada Pasal 27A jo. Pasal 45 ayat (4) berlaku hingga KUHP Nasional (UU 1/2023) berlaku penuh (Pasal II angka 1 UU 1/2024).
+> - Pada KUHP Nasional, delik pencemaran nama baik diatur pada [[UU 1-2023 - KUHP|Pasal 433 dan Pasal 434 UU 1/2023]] (murni delik aduan perseorangan).
+> - Delik penghinaan terhadap lembaga/pemerintah dilarang ditarik ke pasal ini pasca pembatalan Pasal 240 & 241 oleh [[PUTUSAN-MK 282-2025 - Penghinaan Pemerintah|Putusan MK No. 282/PUU-XXIII/2025]].
+
+Setiap Orang dengan sengaja menyerang kehormatan atau nama baik orang lain dengan cara menuduhkan suatu hal, dengan maksud supaya hal tersebut diketahui umum dalam bentuk Informasi Elektronik dan/ atau Dokumen Elektronik yang dilakukan melalui Sistem Elektronik.
 
 ## Penjelasan Resmi
 
@@ -53,9 +63,9 @@ Angka 9
 
 PasaJ2TA 
 
-Yang dimaksud dengan "menyerang kehormatan atau nama bailf adalah perbuatan yang merendahkan atau merusak nama baik atau harga diri orang lain sehingga merugikan orang tersebut, termasuk menista dan/ atau memlitnah. 
+Yang dimaksud dengan "menyerang kehormatan atau nama bailf adalah perbuatan yang merendahkan atau merusak nama baik atau harga diri orang lain sehingga merugikan orang tersebut, termasuk menista dan/ atau memlitnah.
 
-Pasa727B 
+Pasal 27B 
 
 Ayat (l) 
 

@@ -26,6 +26,13 @@ Pedagang sebagaimana dimaksud pada ayat (1) wajib
 dilakukan paling lambat 3 (tiga) hari kerja sejak tanggal
 perintah penghentian sebagaimana dimaksud dalam
 
+Pasal 5
+ayat (2) huruf b.
+(3) Setelah jangka waktu penghentian sebagaimana
+dimaksud pada ayat (2) berakhir, Pedagang dilarang
+memfasilitasi perdagangan Aset Keuangan Digital
+kepada Konsumen.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

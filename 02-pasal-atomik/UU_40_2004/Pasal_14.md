@@ -31,6 +31,12 @@ mengamandemen: []
 
  lanjut dengan Peraturan Pemerintah.
 
+Pasal 15 ...
+
+-----
+
+**- 9**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

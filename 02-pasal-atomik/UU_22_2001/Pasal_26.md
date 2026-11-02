@@ -18,7 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Terhadap kegiatan pengolahan lapangan, pengangkutan, penyimpanan, dan penjualan hasil produksi sendiri sebagai kelanjutan dari Eksplorasi dan Eksploitasi yang dilakukan Badan Usaha atau Bentuk Usaha Tetap tidak diperlukan Izin Usaha tersendiri sebagaimana dimaksud dalam Pasal 23.
+Terhadap kegiatan pengolahan lapangan, pengangkutan, penyimpanan, dan penjualan hasil produksi sendiri sebagai kelanjutan dari Eksplorasi dan Eksploitasi yang dilakukan Badan Usaha atau Bentuk Usaha Tetap tidak diperlukan Izin Usaha tersendiri sebagaimana dimaksud dalam
+
+Pasal 23.
 
 ## Penjelasan Resmi
 

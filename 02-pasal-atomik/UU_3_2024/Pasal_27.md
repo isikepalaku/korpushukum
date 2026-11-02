@@ -18,7 +18,9 @@ mengamandemen:
 
 ## Batang Tubuh
 
-Dalam melaksanakan tugas, kewenangan, hak, dan kewajiban sebagaimana dimaksud dalam Pasal 26, Kepala Desa wajib:
+Dalam melaksanakan tugas, kewenangan, hak, dan kewajiban sebagaimana dimaksud dalam
+
+Pasal 26, Kepala Desa wajib:
 
 - a. memberikan dan/atau menyebarkan informasi penyelenggaraan Pemerintahan Desa secara tertulis kepada masyarakat Desa setempat setiap akhir tahun anggaran;
 - b. menyampaikan laporan pertanggungjawaban penyelenggaraan Pemerintahan Desa pada akhir masa jabatan dalam forum Musyawarah Desa;
@@ -56,3 +58,5 @@ Cukup jelas.
 Huruf f
 
 Cukup jelas.
+
+Angka 7

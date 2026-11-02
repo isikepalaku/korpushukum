@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Administrator perangkat keras pusat Pengembangan 
-SIAK sebagaimana dimaksud dalam Pasal 30 huruf i, 
+SIAK sebagaimana dimaksud dalam
+
+Pasal 30
+huruf i, 
 melekat 
 pada 
 jabatan 

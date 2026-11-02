@@ -17,7 +17,24 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Bank harus melaksanakan pembukaan KC paling lama
+30 (tiga puluh) hari kerja sejak tanggal persetujuan OJK.
+(2) Dalam hal terdapat keadaan kahar atau pertimbangan
+lain yang dapat diterima oleh OJK, jangka waktu
+sebagaimana dimaksud pada ayat (1) dapat
+diperpanjang berdasarkan persetujuan OJK.
+(3) Dalam hal jangka waktu sebagaimana dimaksud pada
+ayat (1) atau ayat (2) Bank tidak melaksanakan
 
+-----
+
+pembukaan KC, persetujuan OJK dinyatakan batal dan
+tidak berlaku.
+(4) Bank wajib melaporkan pembukaan KC kepada OJK
+setelah pelaksanaan pembukaan KC.
+
+Paragraf 4
+Pembukaan KCP Bank
 
 ## Penjelasan Resmi
 

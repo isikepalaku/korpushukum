@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam keadaan tertentu, pelaksanaan praktik sebagaimana dimaksud dalam Pasal 280 dapat memanfaatkan teknologi informasi dan komunikasi yang terintegrasi dengan Sistem Informasi Kesehatan Nasional.
+Dalam keadaan tertentu, pelaksanaan praktik sebagaimana dimaksud dalam
+
+Pasal 280
+dapat memanfaatkan teknologi informasi dan komunikasi yang terintegrasi dengan Sistem Informasi Kesehatan Nasional.
 
 ## Penjelasan Resmi
 

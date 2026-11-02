@@ -22,7 +22,10 @@ mengamandemen: []
 
  hasil pencairan dan/atau penagihan sebagaimana
 
- dimaksud dalam Pasal 53 dilakukan dengan urutan
+ dimaksud dalam
+
+Pasal 53
+dilakukan dengan urutan
 
  sebagai berikut:
 

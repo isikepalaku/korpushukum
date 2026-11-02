@@ -56,7 +56,10 @@ hasil penjualan Benda Jaminan atau klaim
 asuransi;
 p. jangka waktu perjanjian mitigasi risiko dalam hal
 Perusahaan melakukan mitigasi risiko dengan
-cara sebagaimana dimaksud dalam Pasal 152 ayat
+cara sebagaimana dimaksud dalam
+
+Pasal 152
+ayat
 (3), apabila pemberian Pinjaman dengan Benda
 Jaminan berdasarkan fidusia;
 q. ketentuan mengenai hak dan kewajiban para

@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam menjalankan kegiatan usaha sebagaimana
-dimaksud dalam Pasal 136, Perusahaan dapat
+dimaksud dalam
+
+Pasal 136, Perusahaan dapat
 bekerja sama dengan pihak lain melalui:
 a. Pinjaman penerusan; atau
 b. Pinjaman bersama.
@@ -78,8 +80,48 @@ e. tanggung jawab dan kewajiban para pihak
 dalam proses mitigasi risiko.
 
 25. Di antara Pasal 159 dan Pasal 160 disisipkan 2 (dua)
-pasal, yakni Pasal 159A dan Pasal 159B sehingga
+pasal, yakni
+
+Pasal 159A dan Pasal 159B sehingga
 berbunyi sebagai berikut:
+
+Pasal 159A
+Perusahaan Pergadaian dapat melakukan kerja sama
+dengan pihak lain sebagaimana dimaksud dalam
+
+Pasal 157
+ayat (2) yang menyelenggarakan kegiatan usaha
+berdasarkan Prinsip Syariah melalui Pinjaman
+bersama.
+
+Pasal 159B
+(1) Perusahaan Pergadaian Syariah dapat melakukan
+kerja sama dengan pihak lain sebagaimana
+dimaksud dalam
+
+Pasal 157
+ayat (2) yang
+menyelenggarakan kegiatan usaha secara
+konvensional melalui Pinjaman bersama.
+(2) Kerja sama yang dilakukan oleh Perusahaan
+Pergadaian Syariah dengan pihak lain melalui
+Pinjaman bersama sebagaimana dimaksud pada
+ayat (1) dilarang dilakukan, kecuali memenuhi
+persyaratan berikut:
+a. paling banyak sebesar 20% (dua puluh
+persen) dari total portofolio piutang Pinjaman
+Perusahaan Pergadaian Syariah; dan
+b. porsi piutang Pinjaman Perusahaan
+Pergadaian Syariah paling sedikit sebesar
+51% (lima puluh satu persen) per penyaluran
+Pinjaman bersama.
+(3) Kerja sama yang dilakukan oleh Perusahaan
+Pergadaian Syariah dengan pihak lain melalui
+Pinjaman bersama sebagaimana dimaksud pada
+ayat (1), wajib memperoleh opini DPS.
+
+26. Ketentuan ayat (1) dan ayat (2) Pasal 167 diubah
+sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -136,3 +178,40 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
+
+Angka 25
+
+Pasal 159A
+
+Cukup jelas.
+
+Pasal 159B
+
+Ayat (1)
+
+Cukup jelas.
+Ayat (2)
+
+Contoh:
+Perusahaan Pergadaian Syariah ABC melakukan
+kerja sama dengan pihak lain yang
+menyelenggarakan kegiatan usaha secara
+konvensional melalui Pinjaman bersama dengan total
+Pinjaman sebesar Rp100.000.000,00 (seratus juta
+rupiah).
+Piutang Pinjaman bersama dari Perusahaan
+Pergadaian Syariah ABC paling sedikit sebesar
+Rp51.000.000,00 (lima puluh satu juta rupiah) dan
+piutang Pinjaman bersama dari Perusahaan
+
+-----
+
+Pergadaian Syariah ABC tersebut paling banyak
+sebesar 20% (dua puluh persen) dari total portofolio
+piutang Pinjaman Perusahaan Pergadaian Syariah
+baik piutang syariah maupun konvensional.
+Ayat (3)
+
+Cukup jelas.
+
+Angka 26

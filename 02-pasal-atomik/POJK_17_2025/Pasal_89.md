@@ -19,7 +19,10 @@ mengamandemen: []
 
 Otoritas Jasa Keuangan dapat menetapkan cara penyetoran
 lain dalam melakukan pembelian Efek selain sebagaimana
-dimaksud dalam Pasal 86 ayat (1).
+dimaksud dalam
+
+Pasal 86
+ayat (1).
 
 -----
 

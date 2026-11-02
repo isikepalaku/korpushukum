@@ -41,10 +41,56 @@ moral; dan/atau
 
 g. tidak lagi memenuhi syarat sebagaimana dimaksud
 
-dalam Pasal 27 huruf a, huruf b, huruf c, huruf d,
+dalam
+
+Pasal 27
+huruf a, huruf b, huruf c, huruf d,
 huruf f, dan huruf h.
 
 (2) Anggota Dewan Direktur sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (2) huruf a diberhentikan dari jabatannya
+karena alasan sebagaimana dimaksud pada ayat (1) atau
+tidak lagi menjadi pejabat di instansi atau lembaga
+sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (2) huruf a.
+
+3. Anggota . . .
+
+-----
+
+ - 13
+(3) Anggota Dewan Direktur sebagaimana dimaksud dalam
+
+Pasal 25
+ayat (2) sebelum diberhentikan karena alasan
+sebagaimana dimaksud pada ayat (1) huruf d dalam
+waktu 14 (empat belas) hari diberi kesempatan untuk
+melakukan pembelaan diri kepada Menteri.
+
+(4) Pemberhentian sebagaimana dimaksud pada ayat (1) dan
+
+ayat (2) ditetapkan dengan Keputusan Menteri.
+
+(5) Pemberhentian anggota Dewan Direktur dan
+pengangkatan anggota yang baru harus dilakukan
+sehingga jumlah anggota Dewan Direktur paling sedikit 4
+(empat) orang.
+
+(6) Dalam hal anggota Dewan Direktur diberhentikan,
+anggota Dewan Direktur penggantinya ditetapkan dalam
+waktu paling lambat 3 (tiga) bulan sejak tanggal
+pemberhentian.
+
+(7) Masa jabatan anggota Dewan Direktur yang diangkat
+
+untuk menggantikan anggota yang diberhentikan bukan
+karena berakhirnya masa jabatan sebagaimana dimaksud
+pada ayat (1) huruf b adalah sisa masa jabatan anggota
+Dewan Direktur yang digantikannya.
 
 ## Penjelasan Resmi
 

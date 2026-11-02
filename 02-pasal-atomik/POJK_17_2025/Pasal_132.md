@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Perjanjian penyelenggaraan Layanan Urun Dana antara
 Penyelenggara dan Pemodal sebagaimana dimaksud
-dalam Pasal 129 huruf c dapat dituangkan dalam
+dalam
+
+Pasal 129
+huruf c dapat dituangkan dalam
 bentuk perjanjian baku dengan memenuhi ketentuan
 peraturan perundang-undangan.
 (2) Mengikatnya perjanjian sebagaimana dimaksud pada

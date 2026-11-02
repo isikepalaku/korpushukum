@@ -17,7 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Kalau orang dihukum karena melakukan salah satu kejahatan seperti tersebut dalam pasal-pasal 9, 10, 11 dan 12 maka mata uang atau uang kertas serta benda lain yang dipergunakan untuk melakukan salah satu kejahatan itu dirampas, juga kalau benda-benda itu bukan kepunyaan terhukum.
+Kalau orang dihukum karena melakukan salah satu kejahatan seperti tersebut dalam pasal-Pasal 9, 10, 11 dan 12 maka mata uang atau uang kertas serta benda lain yang dipergunakan untuk melakukan salah satu kejahatan itu dirampas, juga kalau benda-benda itu bukan kepunyaan terhukum.
 
 ## Penjelasan Resmi
 

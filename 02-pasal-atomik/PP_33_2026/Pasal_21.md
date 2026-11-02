@@ -27,6 +27,8 @@ mengamandemen: []
 
  - b. media komunikasi Jain yang dapat diakses Subjeck Data Pribadi dengan mudah
 
+Pasal 22...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

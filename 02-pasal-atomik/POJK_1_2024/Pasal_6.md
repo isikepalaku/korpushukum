@@ -19,8 +19,10 @@ mengamandemen: []
 
 (1) BPR dapat menetapkan kualitas yang tidak sama untuk
 Aset Produktif yang diberikan kepada Debitur
-sebagaimana dimaksud dalam Pasal 4 ayat (1) atau Pasal
-5 ayat (1) dalam hal Debitur memenuhi persyaratan paling
+sebagaimana dimaksud dalam Pasal 4 ayat (1) atau
+
+Pasal 5
+ayat (1) dalam hal Debitur memenuhi persyaratan paling
 sedikit:
 a. Debitur memiliki beberapa:
 1. proyek;
@@ -59,8 +61,14 @@ ini.
 Keuangan diketahui bahwa penetapan yang dilakukan
 BPR tidak memenuhi persyaratan sebagaimana dimaksud
 pada ayat (1), BPR melakukan penetapan sesuai dengan
-ketentuan sebagaimana dimaksud dalam Pasal 4 ayat (1)
-huruf a atau Pasal 5 ayat (1) huruf a.
+ketentuan sebagaimana dimaksud dalam
+
+Pasal 4
+ayat (1)
+huruf a atau
+
+Pasal 5
+ayat (1) huruf a.
 
 -----
 

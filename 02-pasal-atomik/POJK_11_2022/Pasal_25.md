@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Pengujian keamanan siber berdasarkan skenario
 
-sebagaimana dimaksud dalam Pasal 23 huruf b wajib
+sebagaimana dimaksud dalam
+
+Pasal 23
+huruf b wajib
 
 dilaksanakan paling sedikit 1 (satu) kali dalam 1 (satu)
 

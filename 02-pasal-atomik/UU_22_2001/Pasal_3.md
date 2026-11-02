@@ -18,7 +18,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+Penyelenggaraan kegiatan usaha Minyak dan Gas Bumi bertujuan:
 
+- a. menjaminefektivitaspelaksanaandanpengendaliankegiatanusahaEksplorasidanEksploitasi secara berdaya guna, berhasil guna, serta berdaya saing tinggi dan berkelanjutan atas Minyak dan Gas Bumi milik negara yang strategis dan tidak terbarukan melalui mekanisme yang terbuka dan transparan;
+- b. menjaminefektivitaspelaksanaandanpengendalianusahaPengolahan,Pengangkutan, Penyimpanan, dan Niaga secara akuntabel yang diselenggarakan melalui mekanisme persaingan usaha yang wajar, sehat, dan transparan;
+- c. menjaminefisiensidanefektivitastersedianyaMinyakBumidanGasBumi,baiksebagaisumber energi maupun sebagai bahan baku, untuk kebutuhan dalam negeri;
+- d. mendukungdanmenumbuhkembangkankemampuannasionaluntuklebihmampubersaingdi tingkat nasional, regional, dan internasional;
+- e. meningkatkanpendapatannegarauntukmemberikankontribusiyangsebesar-besarnyabagi perekonomian nasional dan mengembangkan serta memperkuat posisi industri dan perdagangan Indonesia;
+- f. menciptakanlapangankerja,meningkatkankesejahteraandankemakmuranrakyatyangadildan merata, serta tetap menjaga kelestarian lingkungan hidup.
+
+BAB III PENGUASAAN DAN PENGUSAHAAN
 
 ## Penjelasan Resmi
 

@@ -85,8 +85,7 @@ PRESIDEN REPUBLIX INDONESIA
 
 27. Kementerian atau lembaga adalah instansi penyelenggara negara yang bertugas mengawasi dan mengeluarkan pengaturan terhadap sektornya,
 
-**Pasai 2**
-
+Pasal 2
 Peraturan Pemerintah ini mengatur Setiap Orang, Badan Publik, dan Organisasi Internasional yang melakukan perbuatan hukum dalam pelaksanaan Pelindungan Data Pribadi yang berada:
 
 - a, diwilayah hukum Negara Republik Indonesia; dan b. di luar wilayah hukum Negara Republik Indonesia yang memiliki akibat hukum:

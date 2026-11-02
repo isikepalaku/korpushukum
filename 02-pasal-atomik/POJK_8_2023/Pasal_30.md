@@ -19,8 +19,9 @@ mengamandemen: []
 
 (1) PJK wajib melakukan verifikasi atas data, informasi,
 dan/atau dokumen pendukung Calon Nasabah dan WIC
-sebagaimana dimaksud dalam Pasal 25, Pasal 26, Pasal
-27, Pasal 28, dan Pasal 29, berdasarkan dokumen
+sebagaimana dimaksud dalam Pasal 25,
+
+Pasal 26, Pasal 27, Pasal 28, dan Pasal 29, berdasarkan dokumen
 dan/atau sumber informasi lainnya yang dapat dipercaya
 dan independen serta memastikan bahwa data tersebut
 merupakan data terkini.

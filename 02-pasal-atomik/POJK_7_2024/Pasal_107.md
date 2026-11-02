@@ -21,7 +21,9 @@ mengamandemen: []
 Syariah, dan/atau LKM dalam jangka waktu paling lama
 14 (empat belas) hari setelah pengumuman ringkasan
 Penggabungan atau Peleburan sebagaimana dimaksud
-dalam Pasal 106.
+dalam
+
+Pasal 106.
 (2) Kreditur yang tidak mengajukan keberatan dalam jangka
 waktu sebagaimana dimaksud pada ayat (1) dianggap
 menyetujui Penggabungan atau Peleburan.

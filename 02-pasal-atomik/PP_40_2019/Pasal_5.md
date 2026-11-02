@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 3 ayat (2) huruf b, Menteri
+dimaksud dalam
+
+Pasal 3
+ayat (2) huruf b, Menteri
 mengatur dan menetapkan:
 a. penyelenggaraan SIAK;
 b. perencanaan, pelaksanaan, pemantauan, evaluasi, dan

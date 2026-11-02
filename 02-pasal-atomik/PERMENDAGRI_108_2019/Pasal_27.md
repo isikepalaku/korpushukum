@@ -24,7 +24,10 @@ keterangan
 kependudukan 
 terhadap 
 pendaftaran Peristiwa Kependudukan sebagaimana dimaksud 
-dalam Pasal 2 ayat (1) huruf e, terdiri atas: 
+dalam
+
+Pasal 2
+ayat (1) huruf e, terdiri atas: 
 a. pendaftaran perpindahan Penduduk WNI dalam wilayah 
 Negara Kesatuan Republik Indonesia; 
 b. Pendaftaran Penduduk yang akan bertransmigrasi; 

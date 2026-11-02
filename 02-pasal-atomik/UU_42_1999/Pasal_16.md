@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Apabila terjadi perubahan mengenai hal-hal yang tercantum dalam
- Sertifikat Jaminan Fidusia sebagaimana dimaksud dalam Pasal 14 ayat (2), Penerima Fidusia wajib mengajukan permohonan pendaftaran atas perubahan tersebut kepada Kantor Pendaftaran Fidusia.
+ Sertifikat Jaminan Fidusia sebagaimana dimaksud dalam
+
+Pasal 14
+ayat (2), Penerima Fidusia wajib mengajukan permohonan pendaftaran atas perubahan tersebut kepada Kantor Pendaftaran Fidusia.
 
  (2) Kantor Pendaftaran Fidusia pada tanggal yang sama dengan tanggal
  penerimaan permohonan perubahan, melakukan pencatatan perubahan tersebut dalam Buku Daftar Fidusia dan menerbitkan Pernyataan Perubahan yang merupakan bagian tak terpisahkan dari Sertifikat Jaminan Fidusia.

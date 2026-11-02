@@ -23,6 +23,12 @@ perundang-undangan yang ada dinyatakan masih tetap
 berlaku sepanjang tidak bertentangan dengan Undang-Undang
 ini.
 
+Pasal 45 . . .
+
+-----
+
+ - 21
+
 ## Penjelasan Resmi
 
 Cukup jelas.

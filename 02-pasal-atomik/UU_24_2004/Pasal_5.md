@@ -20,6 +20,34 @@ mengamandemen: []
 
 (1) Dalam menjalankan fungsi sebagaimana dimaksud dalam
 
+ Pasal 4 huruf a, LPS mempunyai tugas:
+
+ a. merumuskan dan menetapkan kebijakan pelaksanaan
+
+ penjaminan simpanan; dan
+
+-----
+
+**b. melaksanakan penjaminan simpanan.**
+
+ (2) Dalam menjalankan fungsi sebagaimana dimaksud dalam
+
+ Pasal 4 huruf b, LPS mempunyai tugas sebagai berikut:
+
+ a. merumuskan dan menetapkan kebijakan dalam rangka
+
+ turut aktif memelihara stabilitas sistem perbankan;
+
+ b. merumuskan, menetapkan, dan melaksanakan
+
+ kebijakan penyelesaian Bank Gagal (bank resolution)
+
+ yang tidak berdampak sistemik; dan
+
+ c. melaksanakan penanganan Bank Gagal yang
+
+ berdampak sistemik.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

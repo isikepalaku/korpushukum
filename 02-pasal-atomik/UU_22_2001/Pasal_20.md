@@ -18,9 +18,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-keteknikan yang baik.
+(1) DatayangdiperolehdariSurveiUmumdan/atauEksplorasidanEksploitasiadalahmiliknegara yang dikuasai oleh Pemerintah. (2) DatayangdiperolehBadanUsahaatauBentukUsahaTetapdiWilayahKerjanyadapatdigunakan oleh Badan Usaha atau Bentuk Usaha Tetap dimaksud selama jangka waktu Kontrak Kerja Sama. (3) ApabilaKontrakKerjaSamaberakhir,BadanUsahaatauBentukUsahaTetapwajibmenyerahkan seluruh data yang diperoleh selama masa Kontrak Kerja Sama kepada Menteri melalui Badan Pelaksana. (4) KerahasiaandatayangdiperolehBadanUsahaatauBentukUsahaTetapdiWilayahKerjaberlaku selama jangka waktu yang ditentukan. (5) Pemerintahmengatur,mengelola,danmemanfaatkandatasebagaimanadimaksuddalamayat(1) dan ayat (2) untuk merencanakan penyiapan pembukaan Wilayah Kerja. (6) Pelaksanaan ketentuan mengenai kepemilikan, jangka waktu penggunaan, kerahasiaan, pengelolaan, dan pemanfaatan data sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), ayat
 
-(3) Ketentuanmengenaipengembanganlapangan,pemroduksiancadanganMinyakdanGasBumi, dan ketentuan mengenai kaidah keteknikan sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut dengan Peraturan Pemerintah.
+- (4), dan ayat (5) diatur lebih lanjut dengan Peraturan Pemerintah.
 
 ## Penjelasan Resmi
 

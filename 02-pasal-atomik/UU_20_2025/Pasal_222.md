@@ -18,26 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(l) Setelah Saksi memberi keterangan, Terdakwa atau**
-
-**Advokatnya dapat mengajukan permintaan kepada**
- Hakim ketua sidang agar di antara Saksi tersebut yang tidak dikehendaki kehadirannya dikeluarkan dari ruang sidang, dan Saksi yang lain dipanggil masuk
-**oleh Hakim ketua sidang untuk didengar**
-**keterangannya, baik seorang demi seorang maupun**
-bersama-sama tanpa hadirnya Saksi yang dikeluarkan
-**tersebut.**
-
-(2) Dalam . . .
-
------
-
-PRESIDEN
-REFUEUK INDONESIA
-
-**- 119 -**
-
- (21 Dalam hal dipandang perlu, Hakim karena jabatannya
- dapat meminta agar Saksi yang telah didengar keterangannya keluar dari ruang sidang untuk selanjutnya mendengar Keterangan Saksi yang lain.
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

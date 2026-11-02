@@ -19,13 +19,19 @@ mengamandemen: []
 
 (1) KCBLN yang membentuk tim penyelesai sebagaimana
 
-dimaksud dalam Pasal 128 ayat (3), wajib
+dimaksud dalam
+
+Pasal 128
+ayat (3), wajib
 
 menyampaikan susunan anggota tim penyelesai
 
 kepada OJK pada saat penyampaian dokumen
 
-sebagaimana dimaksud dalam Pasal 129 ayat (1).
+sebagaimana dimaksud dalam
+
+Pasal 129
+ayat (1).
 
 (2) Susunan tim penyelesai sebagaimana pada ayat (1)
 

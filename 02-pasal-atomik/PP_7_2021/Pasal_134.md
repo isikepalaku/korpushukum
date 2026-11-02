@@ -33,9 +33,7 @@ mengamandemen: []
 **(6) Lembaga inkubator wajib melaporkan**
 **penyelenggaraat inkubator kepada Menteri 2 (dua) kali dalam 1 (satu) tahun pada bulan Juni dan bulan**
 Desember melalui sistem pendaftaran, informasi, dan
-**evaluasi Inkubasi.**
-
-Pasal
+**evaluasi Inkubasi.**Pasal
 
 -----
 

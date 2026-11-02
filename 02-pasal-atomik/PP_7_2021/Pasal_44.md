@@ -18,7 +18,7 @@ mengamandemen: []
 ## Batang Tubuh
 
 Nomor induk berusaha untuk Usaha Mikro dan [Usaha Kecil]
-**yang memiliki risiko rendah sebagaimana dimaksud [dalam]**
+**yang memiliki risiko rendah sebagaimana dimaksud [dalam]**Pasal 43 ayat (3), berlaku sebagai identitas dan [legalitas] dalam melaksanakan kegiatan berusaha.
 
 ## Penjelasan Resmi
 

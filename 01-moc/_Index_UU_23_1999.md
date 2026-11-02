@@ -4,7 +4,7 @@ judul: "Map of Content - Bank Indonesia"
 kode_uu: UU_23_1999
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_23_1999]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Bank Indonesia (UU_23_1999)
@@ -20,7 +20,7 @@ last_updated: 2026-11-01
 - [[Pasal_5]]: (1) Bank Indonesia berkedudukan di Ibukota negara Republik
 - [[Pasal_6]]: (1) Modal Ban Indonesia ditetapkan berjumlah sekurang-kurangnya Rp.
 - [[Pasal_7]]: Tujuan Bank Indonesia adalah mencapai dan memelihara kestabilan nilai rupiah.
-- [[Pasal_8]]: Untuk mencapai tujuan sebagaimana dimaksud dalam Pasal 7, Bank Indonesia mempunyai tugas sebagai berikut :
+- [[Pasal_8]]: Untuk mencapai tujuan sebagaimana dimaksud dalam
 - [[Pasal_9]]: (1) Pihak lain dilarng melakukan segala bentuk campur tangan terhadap
 - [[Pasal_10]]: (1) Dalam rangka menetapkan dan melaksanakan kebijakan moneter
 - [[Pasal_11]]: (1) Bank Indonesia dapat memberikan kredit atau pembiayaan
@@ -36,10 +36,10 @@ last_updated: 2026-11-01
 - [[Pasal_21]]: Uang yang dikeluarkan oleh Bank Indonesia dibebaskan dari bea meterai.
 - [[Pasal_22]]: Bank Indonesia tidak memberikan penggantian atas uang yang hilang atau musnah karena sebab apapun.
 - [[Pasal_23]]: (1) Bank Indonesia dapat mencabut dan menarik uang rupiah dari
-- [[Pasal_24]]: Dalam rangka melaksanakan tugas sebagaimana dimaksud dalam Pasal 8 huruf c, Bank Indonesia menetapkan peraturan memberikan dan men...
+- [[Pasal_24]]: Dalam rangka melaksanakan tugas sebagaimana dimaksud dalam
 - [[Pasal_25]]: (1) Dalam rangka melaksanakan tugas mengatur Bank, Bank Indonesia
-- [[Pasal_26]]: Berkaitan dengan kewenangan di bidang perizinan sebagaimana dimaksud dalam Pasal 24, Bank Indonesia :
-- [[Pasal_27]]: Pengawasan Bank oleh Bank Indonesia sebagaimana dimaksud dalam Pasal 24 adalah pengawasan langsung dan tidak langsung.
+- [[Pasal_26]]: Berkaitan dengan kewenangan di bidang perizinan sebagaimana dimaksud dalam
+- [[Pasal_27]]: Pengawasan Bank oleh Bank Indonesia sebagaimana dimaksud dalam
 - [[Pasal_28]]: (1) Bank Indonesia mewajibkan Bank untuk menyampaikan laporan,
 - [[Pasal_29]]: (1) Bank Indonesia melakukan pemeriksaan terhadap Bank, baik secara
 - [[Pasal_30]]: (1) Bank Indonesia dapat menugasi pihak lain untuk dan atas nama
@@ -47,7 +47,6 @@ last_updated: 2026-11-01
 - [[Pasal_32]]: (1) Bank Indonesia mengatur dan mengembangkan sistem informasi
 - [[Pasal_33]]: Dalam hal keadaan suatu menurut penilaian Bank Indonesia membahayakan kelangsungan usaha Bank yang bersangkutan dan atau membahaya...
 - [[Pasal_34]]: (1) Tugas mengawasi Bank akan dilakukan oleh lembaga pengawasan
-- [[Pasal_36]]: Dalam melaksanakan tugasnya, Bank Indonesia dipimpin oleh Dewan Gubernur.
 - [[Pasal_37]]: (1) Dewan Gubernur terdiri atas seorang Gubernur, seorang Deputi
 - [[Pasal_38]]: (1) Dewan Gubernur melaksanakan tugas dan wewenang Bank
 - [[Pasal_39]]: -----
@@ -77,11 +76,11 @@ last_updated: 2026-11-01
 - [[Pasal_63]]: Bank Indonesia menyusun neraca singkat mingguan yang diumumkan dalam Berita Negara Republik Indonesia.
 - [[Pasal_64]]: (1) Bank Indonesia hanya dapat melakukan penyertaan modal pada
 - [[Pasal_65]]: -----
-- [[Pasal_66]]: Barang siapa dengan sengaja melakukan pelanggaran ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (4), diancam dengan pidana pen...
-- [[Pasal_67]]: Barang siapa yang melakukan campur tangan terhadap pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 9 ayat (1), d...
-- [[Pasal_68]]: Anggota Dewan Gubernur dan atau pejabat Bank Indonesia yang melanggar ketentuan Pasal 9 ayat (2), diancam dengan pidana penjara se...
-- [[Pasal_69]]: Badan yang tidak memenuhi kewajiban sebagaimana dimaksud dalam Pasal 14 ayat (3), diancam dengan pidana denda paling banyak Rp.50....
-- [[Pasal_70]]: administratif terhadap pegawai Bank Indonesia serta pihak-pihak
+- [[Pasal_66]]: Barang siapa dengan sengaja melakukan pelanggaran ketentuan sebagaimana dimaksud dalam
+- [[Pasal_67]]: Barang siapa yang melakukan campur tangan terhadap pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam
+- [[Pasal_68]]: Anggota Dewan Gubernur dan atau pejabat Bank Indonesia yang melanggar ketentuan
+- [[Pasal_69]]: Badan yang tidak memenuhi kewajiban sebagaimana dimaksud dalam
+- [[Pasal_70]]: (1) Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 55 ayat (4), diancam dengan pidana penjara sekurang-kurangnya ...
 - [[Pasal_71]]: (1) Gubernur, Deputi Gubernur Senior, Deputi Gubernur, pegawai Bank
 - [[Pasal_72]]: (1) Dengan tidak mengurangi ketentuan pidana sebagaimana
 - [[Pasal_73]]: Segala aktiva dan pasiva Bank Indonesia menurut Undang-undang Nomnor 13 Tahun 1968 tentang Bank Sentral beralih menjadi aktiva dan...

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Sarana dan prasarana sebagaimana dimaksud dalam Pasal 386 huruf c berupa seluruh fasilitas yang diperlukan untuk mendukung kegiatan kewaspadaan KLB dan Wabah, penanggulangan KLB dan Wabah, dan pasca-KlB dan pascaWabah.
+Sarana dan prasarana sebagaimana dimaksud dalam
+
+Pasal 386
+huruf c berupa seluruh fasilitas yang diperlukan untuk mendukung kegiatan kewaspadaan KLB dan Wabah, penanggulangan KLB dan Wabah, dan pasca-KlB dan pascaWabah.
 
 ## REPUBUK INDONESIA
 

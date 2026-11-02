@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Keputusan pengenaan sanksi administratif sebagaimana dimaksud dalam Pasal 195 paling sedikit memuat:
+Keputusan pengenaan sanksi administratif sebagaimana dimaksud dalam
+
+Pasal 195
+paling sedikit memuat:
 
 - a. mama dan alamat Pengendali Data Pribadi dan/atau Prosesor Data Pribadi;
 

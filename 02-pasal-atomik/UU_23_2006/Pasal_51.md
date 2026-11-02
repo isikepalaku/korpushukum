@@ -24,8 +24,9 @@ anak,
 pengakuan
 anak,
 dan
-pengesahan anak sebagaimana dimaksud dalam Pasal 47, Pasal
-48, Pasal 49, dan Pasal 50 diatur dalam Peraturan Presiden.
+pengesahan anak sebagaimana dimaksud dalam Pasal 47,
+
+Pasal 48, Pasal 49, dan Pasal 50 diatur dalam Peraturan Presiden.
 Bagian Kesembilan
 Pencatatan Perubahan Nama dan Perubahan Status
  Kewarganegaraan

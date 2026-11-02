@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pidana pokok sebagaimana dimaksud dalam Pasal 114 huruf a terdiri atas:
+Pidana pokok sebagaimana dimaksud dalam
+
+Pasal 114
+huruf a terdiri atas:
 
 - a. pidana peringatan;
 - b. pidana dengan syarat:

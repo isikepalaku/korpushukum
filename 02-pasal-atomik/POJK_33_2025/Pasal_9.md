@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penilaian Tingkat Kesehatan PPDP secara individual
-sebagaimana dimaksud dalam Pasal 3 ayat (3) bagi
+sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (3) bagi
 perusahaan perasuransian dan lembaga penjamin,
 dilakukan dengan cakupan penilaian terhadap faktor
 sebagai berikut:
@@ -28,7 +31,10 @@ b. profil risiko;
 c. rentabilitas; dan
 d. permodalan.
 (2) Penilaian Tingkat Kesehatan PPDP secara individual
-sebagaimana dimaksud dalam Pasal 3 ayat (3) bagi
+sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (3) bagi
 dana pensiun pemberi kerja, dilakukan dengan
 cakupan penilaian terhadap faktor sebagai berikut:
 a. tata kelola perusahaan yang baik;
@@ -36,7 +42,10 @@ b. profil risiko;
 c. rentabilitas; dan
 d. pendanaan.
 (3) Penilaian Tingkat Kesehatan PPDP secara individual
-sebagaimana dimaksud dalam Pasal 3 ayat (3) bagi
+sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (3) bagi
 dana pensiun lembaga keuangan, dilakukan dengan
 cakupan penilaian terhadap faktor sebagai berikut:
 a. tata kelola perusahaan yang baik;
@@ -47,7 +56,10 @@ c. rentabilitas.
 
 (4) Penilaian tingkat kesehatan unit syariah atau unit
 usaha syariah secara individual sebagaimana
-dimaksud dalam Pasal 3 ayat (5) mencakup penilaian
+dimaksud dalam
+
+Pasal 3
+ayat (5) mencakup penilaian
 terhadap faktor profil risiko.
 (5) Ketentuan mengenai penilaian Tingkat Kesehatan
 PPDP secara individual sebagaimana dimaksud pada

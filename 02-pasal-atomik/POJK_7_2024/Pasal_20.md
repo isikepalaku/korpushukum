@@ -19,13 +19,19 @@ mengamandemen: []
 
 BPR atau BPR Syariah hasil perubahan izin usaha dari BUK
 atau BUS wajib menyesuaikan jenis dan wilayah jaringan
-kantor sebagaimana dimaksud dalam Pasal 16 ayat (1) huruf c,
+kantor sebagaimana dimaksud dalam
+
+Pasal 16
+ayat (1) huruf c,
 dengan melakukan:
 a. penutupan, pemindahan, dan/atau perubahan status
 jaringan kantor sesuai dengan jenis dan wilayah yang
 diperkenankan bagi BPR atau BPR Syariah; dan
 b. penghentian kegiatan usaha sebagaimana dimaksud
-dalam Pasal 19 ayat (1) pada jaringan kantor BPR atau
+dalam
+
+Pasal 19
+ayat (1) pada jaringan kantor BPR atau
 
 -----
 

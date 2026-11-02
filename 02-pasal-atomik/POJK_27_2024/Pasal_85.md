@@ -18,19 +18,19 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-oleh Pedagang setelah mendapat persetujuan dari
-Otoritas Jasa Keuangan.
-(2) Rekening yang terpisah sebagaimana dimaksud pada
-ayat (1) hanya dapat dibuka pada bank umum yang
-menjadi bank penyimpan dana dan telah mendapat
-persetujuan dari Otoritas Jasa Keuangan sebagai bank
-penyimpan dana Konsumen.
-(3) Permohonan persetujuan rekening yang terpisah
-sebagaimana dimaksud pada ayat (1) disampaikan
-dengan menggunakan Formulir Permohonan
-Persetujuan Rekening Yang Terpisah tercantum dalam
-Lampiran pada Bagian M yang merupakan bagian tidak
-terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
+(1) Konsumen yang melakukan perdagangan Aset
+Keuangan Digital melalui Pedagang harus terlebih
+dahulu menempatkan:
+a. dana yang dipergunakan untuk pelaksanaan
+transaksi pada rekening yang terpisah atas nama
+Pedagang untuk kepentingan Lembaga Kliring
+Penjaminan dan Penyelesaian; dan/atau
+b. Aset Keuangan Digital yang dipergunakan untuk
+pelaksanaan transaksi pada _Wallet_ milik
+Pedagang.
+(2) Penempatan Aset Keuangan Digital sebagaimana
+dimaksud pada ayat (1) huruf b dilakukan dengan
+menerapkan prinsip travel rule.
 
 ## Penjelasan Resmi
 
@@ -39,4 +39,7 @@ Ayat (1)
 Cukup jelas.
 Ayat (2)
 
-Lihat penjelasan Pasal 80 ayat (8).
+Lihat penjelasan
+
+Pasal 80
+ayat (8).

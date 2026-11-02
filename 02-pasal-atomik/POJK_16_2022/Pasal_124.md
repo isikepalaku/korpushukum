@@ -17,8 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Badan hukum Bank sebagaimana dimaksud dalam Pasal
-123 ayat (4) berakhir sejak tanggal pengumuman status
+Badan hukum Bank sebagaimana dimaksud dalam
+
+Pasal 123
+ayat (4) berakhir sejak tanggal pengumuman status
 badan hukum Bank berakhir sesuai dengan ketentuan
 peraturan perundang-undangan.
 

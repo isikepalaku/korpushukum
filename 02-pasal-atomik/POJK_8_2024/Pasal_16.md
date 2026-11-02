@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Selain ketentuan sebagaimana dimaksud dalam Pasal 12
+Selain ketentuan sebagaimana dimaksud dalam
+
+Pasal 12
 dan Pasal 13, Perusahaan Asuransi dan Perusahaan
 Asuransi Syariah yang menyelenggarakan dan memasarkan
 PAYDI wajib mengikuti ketentuan Polis Asuransi untuk

@@ -35,3 +35,5 @@ Udara yang dimaksud dalam ketentuan ini hanya dapat melakukan perawatan Pesawat 
 ```
 Angka24 Pasal 48 Dihapus. Angka 25 Pasal 49 Cukup jelas. Angka26 Pasal 50 Cukup jelas. Angka2T Pasal 5l Cukup jelas.
 ```
+
+Angka 28

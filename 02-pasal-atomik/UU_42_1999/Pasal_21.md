@@ -17,8 +17,17 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Pemberi Fidusia dilarang mengalihkan, menggadaikan, atau
- menyewakan kepada pihak lain Benda yang menjadi objek Jaminan Fidusia yang tidak merupakan benda persediaan, kecuali dengan persetujuan tertulis terlebih dahulu dari Penerima Fidusia.
+(1) Pemberi Fidusia dapat mengalihkan benda persediaan yang menjadi
+ objek Jaminan Fidusia dengan cara dan prosedur yang lazim dilakukan dalam usaha perdagangan.
+
+ (2) Ketentuan sebagaimana dimaksud dalam ayat (1) tidak berlaku,
+ apabila telah terjadi cidera janji oleh debitor dan atas Pemberi Fidusia pihak ketiga.
+
+ (3) Benda yang menjadi objek Jaminan Fidusia yang telah dialihkan
+ sebagaimana dimaksud dalam ayat (1) wajib diganti oleh Pemberi Fidusia dengan objek yang setara.
+
+ (4) Dalam hal Pemberi Fidusia cidera janji, maka hasil pengalihan dan
+ atau tagihan yang timbul karena pengalihan sebagaimana dimaksud dalam ayat (1), demi hukum menjadi objek Jaminan Fidusia pengganti dari objek Jaminan Fidusia yang dialihkan.
 
 ## Penjelasan Resmi
 

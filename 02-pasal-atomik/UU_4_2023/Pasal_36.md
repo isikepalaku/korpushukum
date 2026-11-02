@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '36'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -17,7 +17,6 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_2_2009/Pasal_36|UU 2/2009 Pasal 36]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_36|UU 21/2008 Pasal 36]]'
 - '[[02-pasal-atomik/UU_21_2011/Pasal_36|UU 21/2011 Pasal 36]]'
-- '[[02-pasal-atomik/UU_23_1999/Pasal_36|UU 23/1999 Pasal 36]]'
 - '[[02-pasal-atomik/UU_24_2004/Pasal_36|UU 24/2004 Pasal 36]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_36|UU 25/1992 Pasal 36]]'
 - '[[02-pasal-atomik/UU_32_1997/Pasal_36|UU 32/1997 Pasal 36]]'
@@ -51,3 +50,5 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 16

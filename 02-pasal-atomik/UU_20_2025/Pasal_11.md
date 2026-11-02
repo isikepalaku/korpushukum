@@ -18,7 +18,23 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Penyidik Pembantu membuat berita acara dan menyerahkan berkas perkara kepada Penyidik, kecuali perkara dengan acara pemeriksaan singkat yang dapat langsung diserahkan kepada Penuntut Umum.**
+**Penyidik Pembantu membuat berita acara dan menyerahkan berkas perkara kepada Penyidik, kecuali perkara dengan acara pemeriksaan singkat yang dapat langsung diserahkan kepada Penuntut Umum.**Pasal 12. . .
+
+-----
+
+FRESIDEN
+REPUEUK INDONESIA
+
+**-15-**
+
+Pasal 12
+Ketentuan mengenai syarat dan tata cara pengangkatan**
+**dan pemberhentian Penyidik Pembantu sebagaimana**
+**dimaksud dalam Pasal l0 dan Pasal 11 diatur dalam Peraturan Pemerintah.**
+
+ Bagian Ketiga
+
+ Penyelidikan
 
 ## Penjelasan Resmi
 

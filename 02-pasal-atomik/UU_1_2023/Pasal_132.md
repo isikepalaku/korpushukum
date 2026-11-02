@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '132'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -32,4 +32,29 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
+Dalam ketentuan ini yang dimaksud dengan "penuntutan' adalah proses peradilan yang dimulai dari penyidikan. Ayat (1) Huruf a
+Ketentuan ini berhubungan dengan asas ne bb in idem.
+
+Hurufb. . .
+
+**Hurufb**
+
+Apabila seorang tersangka atau terdakwa meninggal dunia, tidak dapat dilakukan penuntutan terhadap perkara tersebut. Tidak dilakukannya penuntutan karena kesalahan seseor€rng tidak dapat dilimpahkan kepa.da orang lain.
+
+**Hurrf c**
+
 Cukup jelas.
+
+**Hurufd**
+
+Bagi Tindak Pidana ringan yang hanya diancam dengan pidana denda kategori I atau kategori II, dinilai cukup jika terhadap orang yang melakukan Tindak Pidana tersebut tidak dilakukan penuntutan, asal membayar denda maksimum yang diancamkan. Penuntut umum harus menerima keinginan terdakwa untuk memenuhi maksimum denda tersebut.
+
+**Hurufe**
+
+Bagi Tindak Pidana yang diancam dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori III, jika penuntut umum menyetujui maka terdakwa dapat memenuhi maksimum denda untuk menggugr,rrkan penuntutan.
+
+**Huruff**
+
+Terhadap Tindak Pidana yang hanya dapat ditunhrt berdasarkan aduan maka apabila pengaduan ditarik kembali dianggap tidak ada pengaduan, asalkan dilakukan dalam tenggang waktu yang telah ditentukan dalam Undang-Undang ini.
+
+Hurufg Cukup jelas. Hurufh Cukup jelas. Ayat (2) Cukup jelas.

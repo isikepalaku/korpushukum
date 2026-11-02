@@ -18,13 +18,18 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pengajuan permohonan Izin Usaha Simpan Pinjam oleh
-Koperasi sebagaimana dimaksud dalam Pasal 6 ayat (4)
+Koperasi sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (4)
 melalui sistem perizinan pada lembaga pemerintah yang
 menyelenggarakan urusan pemerintahan di bidang
 koordinasi penanaman modal.
 (2) Permohonan sebagaimana dimaksud pada ayat (1)
 disertai dengan mengunggah persyaratan sebagaimana
-dimaksud dalam Pasal 8 sampai dengan Pasal 12.
+dimaksud dalam Pasal 8 sampai dengan
+
+Pasal 12.
 (3) Menteri/gubernur/bupati/wali kota sesuai dengan
 kewenangannya melakukan verifikasi dokumen
 persyaratan sebagaimana dimaksud pada ayat (2) paling

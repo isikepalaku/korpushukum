@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setiap faktor penilaian Tingkat Kesehatan PPDP
-sebagaimana dimaksud dalam Pasal 9 ditetapkan
+sebagaimana dimaksud dalam
+
+Pasal 9
+ditetapkan
 peringkatnya berdasarkan kerangka analisis yang
 komprehensif dan terstruktur.
 (2) Peringkat setiap faktor sebagaimana dimaksud pada
@@ -38,7 +41,10 @@ kelola perusahaan yang baik bagi PPDP.
 (4) Penetapan peringkat faktor profil risiko dilakukan
 dengan tahapan sebagai berikut:
 a. penetapan tingkat risiko dari masing-masing risiko
-sebagaimana dimaksud dalam Pasal 10 ayat (2);
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (2);
 b. penetapan tingkat risiko inheren secara komposit
 dan kualitas penerapan manajemen risiko secara
 komposit; dan

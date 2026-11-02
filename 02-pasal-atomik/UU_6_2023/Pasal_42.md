@@ -58,3 +58,5 @@ Yang dimaksud dengan "keterbangunan Perumahan" adalah persentase telah terbangun
 Ayat (3)
 
 Cukup jelas.
+
+Angka 8

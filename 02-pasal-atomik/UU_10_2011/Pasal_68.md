@@ -98,7 +98,19 @@ Penuntut Umum.
 dimaksud pada ayat (1), menyampaikan hasil
 penyidikannya kepada penuntut umum melalui
 Penyidik Pejabat Polisi Negara Republik Indonesia
-dengan mengingat ketentuan Pasal 6, Pasal 7, dan
+dengan mengingat ketentuan Pasal 6,
+
+Pasal 7, dan
+Pasal 107
+Undang-Undang Nomor 8 Tahun 1981
+tentang Hukum Acara Pidana.
+
+(6) Dalam melaksanakan penyidikan sebagaimana
+dimaksud pada ayat (1), Bappebti dapat meminta
+bantuan kepada aparat penegak hukum.
+
+32. Ketentuan Pasal 71 diubah sehingga berbunyi sebagai
+berikut:
 
 ## Penjelasan Resmi
 
@@ -155,3 +167,5 @@ pemberkasan hasil penyidikan.
 Ayat (6)
 
 Cukup jelas.
+
+Angka 32

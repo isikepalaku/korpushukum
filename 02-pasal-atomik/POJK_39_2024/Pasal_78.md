@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan persetujuan
 Penggabungan atau Peleburan sebagaimana dimaksud
-dalam Pasal 77 ayat (4) dalam jangka waktu paling
+dalam
+
+Pasal 77
+ayat (4) dalam jangka waktu paling
 lambat 20 (dua puluh) hari kerja sejak permohonan
 persetujuan Penggabungan atau Peleburan diterima
 secara lengkap.
@@ -28,7 +31,10 @@ secara lengkap.
 sebagaimana dimaksud pada ayat (1), Otoritas Jasa
 Keuangan melakukan:
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 77 ayat (4);
+sebagaimana dimaksud dalam
+
+Pasal 77
+ayat (4);
 b. analisis kelayakan atas rencana pelaksanaan
 Penggabungan atau Peleburan;
 c. penilaian kemampuan dan kepatutan terhadap
@@ -38,7 +44,10 @@ DPS; dan
 d. analisis pemenuhan ketentuan peraturan
 perundang-undangan di bidang pergadaian.
 (3) Dalam hal terdapat kekurangan dokumen sebagaimana
-yang dimaksud dalam Pasal 77 ayat (4), Otoritas Jasa
+yang dimaksud dalam
+
+Pasal 77
+ayat (4), Otoritas Jasa
 Keuangan menyampaikan permintaan kelengkapan
 dokumen kepada Perusahaan.
 (4) Perusahaan harus menyampaikan kelengkapan

@@ -20,7 +20,9 @@ mengamandemen: []
 
 (1) Dana untuk menangani permasalahan solvabilitas Bank
 
-Sistemik sebagaimana dimaksud dalam Pasal 22
+Sistemik sebagaimana dimaksud dalam
+
+Pasal 22
 bersumber dari kekayaan Lembaga Penjamin Simpanan.
 
 (2) Untuk menangani permasalahan solvabilitas Bank

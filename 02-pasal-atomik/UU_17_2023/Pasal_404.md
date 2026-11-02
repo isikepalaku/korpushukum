@@ -23,8 +23,7 @@ Pemerintah Pusat dan Pemerintah Daerah bertanggung jawab atas pendanaan pemeriks
 
 Cukup jelas.
 
-## Pasal 4O5
-
+## Pasal 405
 Ayat (1)
 
 Pihak swasta terkait, antara lain, ialah industri Sediaan Farmasi yang memproduksi Sediaan Farmasi yang digunakan dalam kegiatan pemberian Obat pencegahan massal dan imunisasi.

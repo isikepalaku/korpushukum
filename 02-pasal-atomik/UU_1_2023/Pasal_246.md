@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '246'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -29,4 +29,4 @@ Dipidana dengan pidana penjara paling lama 4 (empat) tahun atau pidana denda pal
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "menghasuf adalah mendorong, mengajak, atau membakar semangat orang supaya berbuat sesuatu. Menghasut dapa.t dilalrukan dengan lisan atau tulisan, dan harus dilatrukan Di Muka Umum, artinya di tempat yang didatangi publik atau di tempat yang khalayak ramai dapat mengetahui.

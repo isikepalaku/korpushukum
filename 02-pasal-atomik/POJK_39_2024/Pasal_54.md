@@ -19,7 +19,16 @@ mengamandemen: []
 
 Ketentuan mengenai persyaratan dan tata cara pembukaan,
 perubahan alamat, dan penutupan Kantor Cabang,
-sebagaimana dimaksud dalam Pasal 49, Pasal 50 ayat (1),
+sebagaimana dimaksud dalam Pasal 49,
+
+Pasal 50
+ayat (1),
+Pasal 51
+ayat (1), dan/atau
+
+Pasal 53
+ayat (1) ditetapkan oleh
+Otoritas Jasa Keuangan.
 
 ## Penjelasan Resmi
 

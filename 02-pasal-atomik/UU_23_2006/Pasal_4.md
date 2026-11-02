@@ -45,4 +45,6 @@ Pemerintah
 
 ## Penjelasan Resmi
 
-Lihat Penjelasan Pasal 3.
+Lihat Penjelasan
+
+Pasal 3.

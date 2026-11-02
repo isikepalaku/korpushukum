@@ -18,7 +18,12 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Register pengawasan dan pengamatan sebagaimana dimaksud dalam Pasal 354 wajib dikerjakan, ditutup, dan ditandatangani oleh panitera pada setiap Hari kerja dan ditandatangani juga oleh Hakim sebagaimana dimaksud dalam Pasal 353.**
+**Register pengawasan dan pengamatan sebagaimana dimaksud dalam Pasal 354 wajib dikerjakan, ditutup, dan ditandatangani oleh panitera pada setiap Hari kerja dan ditandatangani juga oleh Hakim sebagaimana dimaksud dalam Pasal 353.**Pasal 356 . . .
+
+-----
+
+PRESIDEN
+**REPU3UK INDOHESIA**
 
 ## Penjelasan Resmi
 

@@ -20,6 +20,20 @@ mengamandemen: []
 
 (1) LPS melaksanakan fungsi sebagaimana dimaksud dalam
 
+ Pasal 4 bagi bank berdasarkan prinsip syariah.
+
+-----
+
+**(2) Ketentuan lebih lanjut mengenai pelaksanaan fungsi LPS**
+
+ sebagaimana dimaksud pada ayat (1) ditetapkan dalam
+
+ Peraturan Pemerintah.
+
+ BAB XV KETENTUAN
+
+ PERALIHAN
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Sumber dana modal disetor untuk mendirikan
-Penyelenggara sebagaimana dimaksud dalam Pasal 9
+Penyelenggara sebagaimana dimaksud dalam
+
+Pasal 9
 dilarang berasal dari hasil tindak pidana dan untuk
 tujuan kegiatan pencucian uang, pendanaan terorisme,
 pendanaan proliferasi senjata pemusnah massal, dan

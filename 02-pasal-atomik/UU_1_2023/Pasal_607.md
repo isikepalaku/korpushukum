@@ -54,14 +54,6 @@ d. psikotropika. . .
 23. penjara 4 (empat) tahun atau lebih. z. Tindak Pidana lain yang diancam dengan pidana
 - (3) Tindak Pidana sebagaimana dimaksud pada ayat (1) merupakan Tindak Pidana pencucian uang.
 
-**Pasal 6O8**
-
-Ketentuan sebagaimana dimaksud dalam Pasal 6O7 ayat (1) huruf c tidak berlaku bagi pihak pelapor yang melaksanakan kewajiban pelaporan sebagaimana diatur dalam UndangUndang tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang.
-
-BagianKelima...
-
-**Bagran Kelima Tindak Pidana Narkotika**
-
 ## Penjelasan Resmi
 
 Cukup jelas.

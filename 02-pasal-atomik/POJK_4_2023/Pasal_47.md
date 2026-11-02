@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Dalam hal Reksa Dana berbentuk Kontrak Investasi
 Kolektif dibubarkan karena kondisi sebagaimana
-dimaksud dalam Pasal 45 huruf c, Manajer Investasi
+dimaksud dalam
+
+Pasal 45
+huruf c, Manajer Investasi
 wajib:
 a. mengumumkan rencana pembubaran Reksa
 Dana paling sedikit dalam 1 (satu) surat kabar
@@ -114,3 +117,5 @@ Cukup jelas.
 Ayat (2)
 
 Cukup jelas.
+
+Angka 10

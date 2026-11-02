@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai tata cara pengawasan, pemantauan, dan evaluasi sebagaimana dimaksud dalam Pasal 119A sampai dengan Pasal 119K diatur dalam Peraturan Menteri.
+Ketentuan lebih lanjut mengenai tata cara pengawasan, pemantauan, dan evaluasi sebagaimana dimaksud dalam
+
+Pasal 119A sampai dengan Pasal 119K diatur dalam Peraturan Menteri.
 
 - loO.Ketentuan Pasal 120 diubah sehingga berbunyi sebagai berikut:
 

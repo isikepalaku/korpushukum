@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '412'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,5 +26,26 @@ mengamandemen: []
 - (4) Pengaduan dapat ditarik kembali selama pemeriksaan di sidang pengadilan belum dimulai.
 
 ## Penjelasan Resmi
+
+Ketentuan mengenai hidup bersama sebagai suami istri di luar perkawinan dikenal dengan istilah kohabitasi.
+
+Ketentuan ini sekaligus mengesampingkan peraturan perundang-undangan di bawah Undang-Undang yang mengatur mengenai hidup bersama sebagai suami istri di luar perkawinan, sepanjang tidak diatur dalam peraturan perundang-undangan yang bersifat khusus atau istimewa.
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat(21
+
+Lihat penjelasan
+
+Pasal 411
+ayat(21.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
 
 Cukup jelas.

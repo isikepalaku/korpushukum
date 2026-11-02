@@ -19,14 +19,20 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan persetujuan Asosiasi
-sebagaimana dimaksud dalam Pasal 81 ayat (2) dalam
+sebagaimana dimaksud dalam
+
+Pasal 81
+ayat (2) dalam
 jangka waktu paling lama 20 (dua puluh) hari kerja
 sejak permohonan diterima secara lengkap.
 (2) Dalam memberikan persetujuan atau penolakan
 sebagaimana dimaksud pada ayat (1), Otoritas Jasa
 Keuangan melakukan:
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 81 ayat (2);
+sebagaimana dimaksud dalam
+
+Pasal 81
+ayat (2);
 dan
 b. penilaian kelayakan, reputasi keuangan, dan
 integritas terhadap calon direktur eksekutif yang

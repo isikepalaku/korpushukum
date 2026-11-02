@@ -54,7 +54,11 @@ Jenis sertilikat keselamatan Kapal barang sesuai dengan Safetg of Life at Sea (S
 Angka29
 ```
 
-Pasal L27 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (s) Yang dimaksud dengan "ketentuan standar internasional" adalah berpedoman antara lain:. Safetg of Lift at Sea /SOLAS/ Conuention, 1974 beserta peraturan pelaksanaannya. Ayat (a) Cukup jelas. Angka 30 Pasal 129 Cukup jelas. Angka 31 Pasal 13O Cukup jelas.
+Pasal L27
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (s) Yang dimaksud dengan "ketentuan standar internasional" adalah berpedoman antara lain:. Safetg of Lift at Sea /SOLAS/ Conuention, 1974 beserta peraturan pelaksanaannya. Ayat (a) Cukup jelas. Angka 30
+
+Pasal 129
+Cukup jelas. Angka 31 Pasal 13O Cukup jelas.
 
 - 4) sertifikat keselamatan radio Kapal barang; dan
 - 5) sertifikat pembebasan (sertifikat yang memperbolehkan bebas dari beberapa persyaratan yang harus dipenuhi).
@@ -62,3 +66,5 @@ Pasal L27 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (s) Yang dimaksud den
 **Huruf c**
 
 Sertifikasi kelaikan dan pengawakan Kapal penangkap ikan dilaksanakan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan.
+
+Angka 32

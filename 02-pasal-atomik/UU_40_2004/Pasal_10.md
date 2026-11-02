@@ -21,7 +21,9 @@ mengamandemen: []
 
 Susunan organisasi dan tata kerja Dewan Jaminan Sosial Nasional sebagaimana
 
- dimaksud dalam Pasal 6, Pasal 7, Pasal 8, dan Pasal 9 diatur lebih lanjut
+ dimaksud dalam Pasal 6,
+
+Pasal 7, Pasal 8, dan Pasal 9 diatur lebih lanjut
 
  dengan Peraturan Presiden.
 

@@ -205,7 +205,9 @@ melakukan Kegiatan Usaha Hilir.
 
 - (2) BadanUsahayangmelakukanKegiatanUsahaHilirtidakdapatmelakukanKegiatanUsahaHulu.
 
-BAB IV KEGIATAN USAHA HULU Pasal 11
+BAB IV KEGIATAN USAHA HULU
+
+### Pasal 11 ^pasal-11
 
 - (1) KegiatanUsahaHulusebagaimanadimaksuddalamPasal5angka1dilaksanakanolehBadan
 
@@ -381,7 +383,9 @@ bersama pihak lain. (2) Pelaksanaanpemanfaatanfasilitassebagaimanadimaksuddalama
 
 Ketentuan mengenai usaha Pengolahan, Pengangkutan, Penyimpanan, dan Niaga sebagaimana dimaksud dalam Pasal 23, Pasal 24, Pasal 25, Pasal 26, Pasal 27, Pasal 28, dan Pasal 29 diatur lebih lanjut dengan Peraturan Pemerintah.
 
-BAB VI PENERIMAAN NEGARA Pasal 31
+BAB VI PENERIMAAN NEGARA
+
+### Pasal 31 ^pasal-31
 
 (1) BadanUsahaatauBentukUsahaTetapyangmelaksanakanKegiatanUsahaHulusebagaimana dimaksud dalam Pasal 11 ayat (1) wajib membayar penerimaan negara yang berupa pajak dan Penerimaan Negara Bukan Pajak.
 
@@ -589,7 +593,9 @@ Ketentuan mengenai struktur organisasi, status, fungsi, tugas, personalia, wewen
 
 BAB X …
 
-BAB X PENYIDIKAN Pasal 50
+BAB X PENYIDIKAN
+
+### Pasal 50 ^pasal-50
 
 - (1) SelainPenyidikPejabatPolisiNegaraRepublikIndonesia,PejabatPegawaiNegeriSipiltertentudi lingkungan departemen yang lingkup tugas dan tanggung jawabnya meliputi kegiatan usaha Minyak dan Gas Bumi diberi wewenang khusus sebagai Penyidik sebagaimana dimaksud dalam Undang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana untuk melakukan penyidikan tindak pidana dalam kegiatan usaha Minyak dan Gas Bumi.
 - (2) PenyidikPegawaiNegeriSipilsebagaimanadimaksuddalamayat(1)berwenang:
@@ -729,7 +735,9 @@ Pada saat Undang-undang ini berlaku:
 
 BAB XIII …
 
-BAB XIII KETENTUAN LAIN Pasal 65
+BAB XIII KETENTUAN LAIN
+
+### Pasal 65 ^pasal-65
 
 Kegiatan usaha atas minyak atau gas selain yang dimaksud dalam Pasal 1 angka 1 dan angka 2 sepanjang belum atau tidak diatur dalam Undang-undang lain, diberlakukan ketentuan Undang-undang ini.
 

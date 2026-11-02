@@ -18,30 +18,60 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sebagaimana dimaksud pada ayat (1) huruf d dalam
-waktu 14 (empat belas) hari diberi kesempatan untuk
-melakukan pembelaan diri kepada Menteri.
+(1) Dewan Direktur merupakan organ tunggal LPEI.
 
-(4) Pemberhentian sebagaimana dimaksud pada ayat (1) dan
+(2) Anggota . . .
 
-ayat (2) ditetapkan dengan Keputusan Menteri.
+-----
 
-(5) Pemberhentian anggota Dewan Direktur dan
-pengangkatan anggota yang baru harus dilakukan
-sehingga jumlah anggota Dewan Direktur paling sedikit 4
-(empat) orang.
+ - 11
+(2) Anggota Dewan Direktur berjumlah paling banyak 10
 
-(6) Dalam hal anggota Dewan Direktur diberhentikan,
-anggota Dewan Direktur penggantinya ditetapkan dalam
-waktu paling lambat 3 (tiga) bulan sejak tanggal
-pemberhentian.
+(sepuluh) orang, yang terdiri atas:
 
-(7) Masa jabatan anggota Dewan Direktur yang diangkat
+a. 3 (tiga) orang pejabat yang berasal dari instansi atau
 
-untuk menggantikan anggota yang diberhentikan bukan
-karena berakhirnya masa jabatan sebagaimana dimaksud
-pada ayat (1) huruf b adalah sisa masa jabatan anggota
-Dewan Direktur yang digantikannya.
+lembaga yang membidangi fiskal, 1 (satu) orang pejabat
+yang berasal dari instansi atau lembaga yang
+membidangi perdagangan, 1 (satu) orang pejabat yang
+berasal dari instansi atau lembaga yang membidangi
+perindustrian, dan 1 (satu) orang pejabat yang berasal
+dari instansi atau lembaga yang membidangi
+pertanian.
+
+b. paling banyak 3 (tiga) orang yang berasal dari luar
+
+LPEI dan 1 (satu) orang dari dalam LPEI.
+
+(3) Anggota Dewan Direktur sebagaimana dimaksud pada
+
+ayat (2) huruf a diangkat dan diberhentikan oleh Menteri
+atas usul instansi atau lembaga yang bersangkutan.
+
+(4) Anggota Dewan Direktur sebagaimana dimaksud pada
+
+ayat (2) huruf b diangkat dan diberhentikan oleh Menteri.
+
+(5) Salah seorang dari anggota Dewan Direktur sebagaimana
+
+dimaksud pada ayat (2) huruf b ditetapkan oleh Menteri
+sebagai Ketua Dewan Direktur merangkap Direktur
+Eksekutif.
+
+(6) Ketua Dewan Direktur sebagaimana dimaksud pada ayat
+
+(5) tidak mempunyai hak suara dalam rapat Dewan
+Direktur.
+
+(7) Direktur Eksekutif sebagaimana dimaksud pada ayat (5)
+
+melakukan tugas secara penuh waktu dan dilarang
+merangkap jabatan eksekutif di tempat lain.
+
+(8) Anggota Dewan Direktur diangkat untuk masa jabatan 5
+
+(lima) tahun dan hanya dapat diangkat kembali untuk 1
+(satu) kali masa jabatan berikutnya.
 
 ## Penjelasan Resmi
 

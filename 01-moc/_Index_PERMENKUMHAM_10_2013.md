@@ -4,7 +4,7 @@ judul: "Map of Content - Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik
 kode_uu: PERMENKUMHAM_10_2013
 type: moc
 tags: [moc, hukum/keuangan, uu/permenkumham_10_2013]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Tata Cara Pendaftaran Jaminan Fidusia Secara Elektronik (PERMENKUMHAM_10_2013)

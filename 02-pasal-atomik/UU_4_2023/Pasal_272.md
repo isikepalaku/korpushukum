@@ -21,6 +21,8 @@ mengamandemen: []
 - (2) Penyampaian laporan keuangan melalui platform bersama pelaporan keuangan (financial reporting single window) sebagaimana dimaksud pada ayat (1) tidak menghilangkan kewenangan kementerian, lembaga, atau otoritas terkait untuk meminta laporan keuangan secara langsung kepada entitas pelapor sehubungan dengan pelaksanaan tugasnya sesuai dengan ketentuan peraturan perundang­ undangan.
 - (3) PUSK dan pihak yang melakukan interaksi bisnis dengan sektor keuangan bertanggung jawab atas laporan keuangan yang disampaikan, termasuk yang disampaikan melalui platform bersama pelaporan keuangan (financial reporting single window).
 
+Pasal 273 ...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

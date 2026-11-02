@@ -17,8 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengelolaan Basis Data sebagaimana dimaksud dalam Pasal 
-54, terdiri dari: 
+Pengelolaan Basis Data sebagaimana dimaksud dalam
+
+Pasal 54, terdiri dari: 
 a. 
 sistem operasi; 
 b. 

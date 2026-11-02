@@ -24,7 +24,10 @@ melakukan
 pencatatan 
 biodata Penduduk Orang Asing yang memiliki Izin Tinggal 
 Terbatas dan Orang Asing yang memiliki Izin Tinggal 
-Tetap sebagaimana dimaksud dalam Pasal 3 ayat (1) 
+Tetap sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (1) 
 huruf c, setelah Penduduk Orang Asing memenuhi 
 persyaratan sesuai dengan ketentuan Peraturan Presiden 
 mengenai 

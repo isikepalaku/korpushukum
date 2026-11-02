@@ -19,7 +19,9 @@ mengamandemen: []
 
 Penyelenggara wajib memastikan Pengguna telah membaca
 dan memahami isi dari perjanjian sebagaimana dimaksud
-dalam Pasal 144 dan Pasal 145.
+dalam Pasal 144 dan
+
+Pasal 145.
 
 ## Penjelasan Resmi
 

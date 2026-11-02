@@ -17,8 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Laporan Tahunan sebagaimana dimaksud dalam Pasal
-2 ayat (2) huruf c terdiri atas:
+(1) Laporan Tahunan sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf c terdiri atas:
 a. aspek keuangan; dan
 b. aspek manajemen.
 (2) Aspek keuangan sebagaimana dimaksud pada ayat (1)

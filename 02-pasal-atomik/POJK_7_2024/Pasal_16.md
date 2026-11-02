@@ -17,20 +17,28 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dengan Peraturan OJK mengenai pelaporan BPR atau BPR
-Syariah melalui sistem pelaporan OJK.
-(5) BPR atau BPR Syariah yang terlambat menyampaikan
-laporan atau bukti pengumuman sebagaimana dimaksud
-dalam Pasal 12 ayat (3), Pasal 16 ayat (3), Pasal 17 ayat
-(2), Pasal 18 ayat (3), dan/atau Pasal 22 ayat (1) dikenai
-sanksi administratif berupa denda sebesar Rp100.000,00
-(seratus ribu rupiah) per hari kerja dan paling banyak
-Rp5.000.000,00 (lima juta rupiah).
-(6) Pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (5) tidak menghilangkan kewajiban
-penyampaian laporan atau bukti pengumuman bagi BPR
-atau BPR Syariah yang belum menyampaikan laporan
-atau bukti pengumuman.
+(1) BPR atau BPR Syariah hasil perubahan izin usaha dari
+BUK atau BUS wajib merealisasikan rencana tindak paling
+lama 1 (satu) tahun terhitung sejak tanggal izin usaha BPR
+atau BPR Syariah, berupa:
+a. perubahan anggaran dasar;
+b. penghentian kegiatan usaha BUK atau BUS yang
+tidak diperbolehkan bagi BPR atau BPR Syariah,
+kecuali untuk penyelesaian hak dan kewajiban; dan
+c. penyesuaian jenis dan wilayah jaringan kantor BUK
+atau BUS yang tidak diperbolehkan bagi BPR atau
+BPR Syariah.
+(2) BPR atau BPR Syariah wajib menyampaikan laporan
+realisasi pelaksanaan rencana tindak sebagaimana
+dimaksud pada ayat (1) secara daring melalui sistem
+pelaporan OJK setiap bulan paling lama 10 (sepuluh) hari
+kerja bulan berikutnya.
+(3) Dalam hal sistem pelaporan OJK secara daring belum
+tersedia, BPR atau BPR Syariah hasil perubahan izin
+usaha dari BUK atau BUS wajib menyampaikan laporan
+realisasi pelaksanaan rencana tindak sebagaimana
+dimaksud pada ayat (1) secara luring setiap bulan paling
+lama 10 (sepuluh) hari kerja bulan berikutnya.
 
 ## Penjelasan Resmi
 

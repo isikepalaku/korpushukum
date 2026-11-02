@@ -31,7 +31,10 @@ Perbankan.
 Perbankan sebagaimana dimaksud pada ayat (1)
 merupakan bagian dari rekomendasi yang disampaikan
 oleh Komite Stabilitas Sistem Keuangan sebagaimana
-dimaksud dalam Pasal 32 ayat (8).
+dimaksud dalam
+
+Pasal 32
+ayat (8).
 
 (3) Program Restrukturisasi Perbankan sebagaimana
 dimaksud pada ayat (1) diselenggarakan oleh Lembaga

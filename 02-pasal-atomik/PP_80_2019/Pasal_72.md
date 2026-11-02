@@ -4,7 +4,7 @@ uu_induk: Perdagangan Melalui Sistem Elektronik
 kode_uu: PP_80_2019
 pasal: '72'
 status: BERLAKU_AKTIF
-substantive_explanation: true
+substantive_explanation: false
 tags:
 - hukum/siber
 - uu/pp_80_2019
@@ -25,14 +25,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Ayat (1) 
-
-Yang dimaksud dengan "mekanisme penyelesaian sengketa lainnya" dapat berupa konsultasi, negosiasi, konsiliasi, mediasi atau arbitrase sesuai dengan ketentuan peraturan perundang-undangan. 
-
-**Ayat (2)**
-
-Pada dasarnya penyelesaian sengketa secara elektronik (online dispute resolution) kembali kepada kesepakatan para pihak. Hal tersebut dapat berbentuk mediasi secara elektronik yang diselenggarakan oleh profesional penunjang seperti advokat atau mediator, melalui lembaga arbitrase online yang telah terakreditasi, atau melalui lembaga pemerintahan yang berwenang untuk itu. 
-
-Ayat (3) 
-
-Cukupjelas.
+Cukup jelas.

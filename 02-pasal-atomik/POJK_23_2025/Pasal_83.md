@@ -19,7 +19,10 @@ mengamandemen:
 ## Batang Tubuh
 
 (1) Dalam proses penerimaan calon Konsumen
-sebagaimana dimaksud dalam Pasal 80 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 80
+ayat (1)
 
 -----
 
@@ -37,7 +40,10 @@ bagi Konsumen yang berisiko tinggi.
 sebagaimana dimaksud pada ayat (1) wajib
 terintegrasi dengan sistem dan sarana
 perdagangan daring milik Pedagang sebagaimana
-dimaksud dalam Pasal 45 ayat (4) huruf b.
+dimaksud dalam
+
+Pasal 45
+ayat (4) huruf b.
 (4) Sistem penerimaan Konsumen secara daring
 sebagaimana dimaksud pada ayat (1) paling sedikit
 memuat tahapan:
@@ -96,6 +102,22 @@ persetujuan.
 dan/atau beli derivatif Aset Keuangan Digital atas
 amanat Konsumen sebagaimana dimaksud dalam
 
+Pasal 51
+ayat (2), Pedagang wajib:
+
+a. memiliki sistem penerimaan Konsumen yang
+dapat menilai bahwa Konsumen telah
+memahami setiap risiko atas produk derivatif
+Aset Keuangan Digital sesuai dengan
+peraturan dan tata tertib Bursa; dan
+b. memperoleh pernyataan dari Konsumen yang
+menyatakan Konsumen telah memahami
+setiap risiko atas produk derivatif Aset
+Keuangan Digital.
+
+58. Ketentuan Pasal 85 diubah sehingga berbunyi sebagai
+berikut:
+
 ## Penjelasan Resmi
 
 Ayat (1)
@@ -140,3 +162,5 @@ Pernyataan dari Konsumen antara lain dalam
 bentuk persetujuan tertulis, rekaman video,
 atau dalam bentuk lain yang dapat diverifikasi
 kebenarannya.
+
+Angka 58

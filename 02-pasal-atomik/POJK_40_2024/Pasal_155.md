@@ -17,10 +17,32 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-d. pemenuhan jumlah penyertaan langsung
-sebagaimana dimaksud dalam Pasal 155 ayat (4),
-mulai berlaku paling lama 1 (satu) tahun sejak Peraturan
-Otoritas Jasa Keuangan ini diundangkan
+(1) Penyelenggara dilarang melakukan penyertaan
+langsung kecuali pada:
+a. perusahaan di sektor jasa keuangan di
+Indonesia; dan/atau
+b. perusahaan yang terkait dengan kegiatan
+LPBBTI.
+(2) Jumlah seluruh penyertaan langsung Penyelenggara
+dilarang lebih dari 20% (dua puluh persen) dari
+jumlah Ekuitas Penyelenggara.
+(3) Jumlah seluruh penyertaan langsung Penyelenggara
+kepada entitas dalam 1 (satu) grup dilarang lebih dari
+10% (sepuluh persen) dari jumlah Ekuitas
+Penyelenggara.
+(4) Penyelenggara wajib memenuhi ketentuan jumlah
+penyertaan langsung sebagaimana dimaksud pada
+ayat (2) dan ayat (3) pada saat melakukan
+penyertaan.
+(5) Ketentuan sebagaimana dimaksud pada ayat (2) dan
+ayat (3) dikecualikan bagi Penyelenggara yang
+melakukan penyertaan langsung kepada
+Penyelenggara berdasarkan Prinsip Syariah hasil
+Pemisahan Penyelenggara yang bersangkutan.
+
+Bagian Kesebelas
+
+Kerja Sama
 
 ## Penjelasan Resmi
 

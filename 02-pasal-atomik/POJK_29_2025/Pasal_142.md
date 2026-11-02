@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Kegiatan usaha berdasarkan Prinsip Syariah
-sebagaimana dimaksud dalam Pasal 141
+sebagaimana dimaksud dalam
+
+Pasal 141
 dilaksanakan dengan menggunakan akad:
 a. _rahn;_
 b. _rahn tasjily;_
@@ -75,3 +77,5 @@ Angka 22
 Tabel 39
 
 Dihapus.
+
+Angka 23

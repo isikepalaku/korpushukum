@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Dalam hal Nasabah Penyimpan sebagaimana dimaksud
 
- dalam Pasal 19 ayat (1) merasa dirugikan, maka nasabah
+ dalam
+
+Pasal 19
+ayat (1) merasa dirugikan, maka nasabah
 
  dimaksud dapat:
 

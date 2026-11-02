@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Untuk memperoleh izin konversi sebagaimana
-dimaksud dalam Pasal 14 ayat (2), Direksi harus
+dimaksud dalam
+
+Pasal 14
+ayat (2), Direksi harus
 mengajukan permohonan kepada Otoritas Jasa
 Keuangan dengan melampirkan dokumen persyaratan
 izin konversi Perusahaan Pergadaian menjadi

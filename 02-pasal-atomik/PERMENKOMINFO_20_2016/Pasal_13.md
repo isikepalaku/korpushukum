@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan sebagaimana dimaksud dalam Pasal 12 ayat (2) tidak berlaku jika Data Pribadi yang diolah dan dianalisis tersebut berasal dari Data Pribadi yang telah ditampilkan atau diumumkan secara terbuka oleh Sistem Elektronik untuk pelayanan publik.
+Ketentuan sebagaimana dimaksud dalam
+
+Pasal 12
+ayat (2) tidak berlaku jika Data Pribadi yang diolah dan dianalisis tersebut berasal dari Data Pribadi yang telah ditampilkan atau diumumkan secara terbuka oleh Sistem Elektronik untuk pelayanan publik.
 
 ## Penjelasan Resmi
 

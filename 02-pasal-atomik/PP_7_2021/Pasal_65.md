@@ -61,9 +61,7 @@ pengembangan usaha kepada anggota Koperasi;
 **pengembangan usaha bagi Usaha Mikro dan Usaha Kecil yartg melakukan usaha di lokasi infrastruktur publik; dan**
 **e. mengelola tempat promosi dan pengembangan**
 
-**Usaha Mikro dan Usaha Kecil secara profesional dan akuntabel.**
-
-Pasal
+**Usaha Mikro dan Usaha Kecil secara profesional dan akuntabel.**Pasal
 
 -----
 
@@ -74,8 +72,7 @@ REPUBLIK INDONESIA
 
 ## Penjelasan Resmi
 
-**Cukup jelas.**
- Pasal. . .
+**Cukup jelas.**Pasal. . .
 
 -----
 

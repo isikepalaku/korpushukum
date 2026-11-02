@@ -4,7 +4,7 @@ judul: "Map of Content - Lembaga Penjamin Simpanan"
 kode_uu: UU_24_2004
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_24_2004]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Lembaga Penjamin Simpanan (UU_24_2004)
@@ -16,18 +16,18 @@ last_updated: 2026-11-01
 - [[Pasal_1]]: Dalam Undang-Undang ini yang dimaksud dengan:
 - [[Pasal_2]]: (1) Berdasarkan Undang-Undang ini, dibentuk Lembaga
 - [[Pasal_3]]: (1) LPS berkedudukan di ibukota Negara Republik Indonesia.
-- [[Pasal_4]]: -----
+- [[Pasal_4]]: Fungsi LPS adalah:
 - [[Pasal_5]]: (1) Dalam menjalankan fungsi sebagaimana dimaksud dalam
-- [[Pasal_6]]: b. memberikan talangan untuk pembayaran gaji pegawai
+- [[Pasal_6]]: (1) Dalam rangka melaksanakan tugas sebagaimana dimaksud
 - [[Pasal_7]]: (1) Dalam menjalankan tugas dan wewenangnya, LPS dapat
-- [[Pasal_8]]: a. menyerahkan dokumen sebagai berikut:
-- [[Pasal_9]]: menyebabkan bank tidak memenuhi ketentuan
+- [[Pasal_8]]: (1) Setiap Bank yang melakukan kegiatan usaha di wilayah
+- [[Pasal_9]]: Sebagai peserta Penjaminan sebagaimana dimaksud dalam
 - [[Pasal_10]]: LPS menjamin Simpanan nasabah bank yang berbentuk giro,
-- [[Pasal_11]]: sebagaimana dimaksud pada ayat (2) dapat diubah dengan
-- [[Pasal_12]]: (satu perseribu) dari rata-rata saldo bulanan total
+- [[Pasal_11]]: (1) Nilai Simpanan yang dijamin untuk setiap nasabah pada
+- [[Pasal_12]]: (1) Premi Penjaminan sebagaimana dimaksud dalam Pasal 9
 - [[Pasal_13]]: (1) Premi untuk setiap periode sebagaimana dimaksud dalam
 - [[Pasal_14]]: (1) Penghitungan premi dilakukan sendiri oleh bank.
-- [[Pasal_15]]: (1) Cara penetapan premi sebagaimana dimaksud dalam Pasal
+- [[Pasal_15]]: (1) Cara penetapan premi sebagaimana dimaksud dalam Pasal 13 ayat (1) dapat diubah sehingga tingkat premi menjadi
 - [[Pasal_16]]: (1) LPS wajib membayar klaim Penjaminan kepada Nasabah
 - [[Pasal_17]]: (1) Pembayaran klaim Penjaminan dapat dilakukan secara
 - [[Pasal_18]]: Dalam hal Nasabah Penyimpan pada saat yang bersamaan
@@ -37,14 +37,14 @@ last_updated: 2026-11-01
 - [[Pasal_22]]: (1) Penyelesaian atau penanganan Bank Gagal sebagaimana
 - [[Pasal_23]]: (1) Perkiraan biaya penyelamatan sebagaimana dimaksud
 - [[Pasal_24]]: (1) LPS menetapkan untuk menyelamatkan Bank Gagal yang
-- [[Pasal_25]]: hasil penjualan saham bank setelah penyelamatan.
+- [[Pasal_25]]: Setelah persyaratan sebagaimana dimaksud dalam
 - [[Pasal_26]]: Setelah RUPS menyerahkan hak dan wewenang sebagaimana
 - [[Pasal_27]]: Seluruh biaya penyelamatan bank yang dikeluarkan oleh LPS
 - [[Pasal_28]]: (1) Dalam hal ekuitas bank bernilai positif pada saat
 - [[Pasal_29]]: (1) Dalam perjanjian sebagaimana dimaksud dalam Pasal 28
 - [[Pasal_30]]: (1) LPS wajib menjual seluruh saham bank yang diselamatkan
 - [[Pasal_31]]: (1) Dalam hal tidak terpenuhinya persyaratan sebagaimana
-- [[Pasal_32]]: a. pemegang saham Bank Gagal telah menyetor modal
+- [[Pasal_32]]: Penanganan Bank Gagal yang berdampak sistemik dilakukan
 - [[Pasal_33]]: (1) Penanganan Bank Gagal sebagaimana dimaksud dalam
 - [[Pasal_34]]: Terhitung sejak LPS menetapkan untuk melakukan penanganan
 - [[Pasal_35]]: (1) Dalam hal ekuitas bank bernilai positif setelah pemegang
@@ -52,7 +52,7 @@ last_updated: 2026-11-01
 - [[Pasal_37]]: -----
 - [[Pasal_38]]: (1) LPS wajib menjual seluruh saham bank dalam penanganan
 - [[Pasal_39]]: Dalam hal penanganan Bank Gagal sebagaimana dimaksud
-- [[Pasal_40]]: hak atas hasil penjualan saham bank setelah penanganan.
+- [[Pasal_40]]: Terhitung sejak LPS menetapkan untuk melakukan penanganan
 - [[Pasal_41]]: (1) Setelah LPS mengambil alih segala hak dan wewenang
 - [[Pasal_42]]: (1) LPS wajib menjual seluruh saham bank dalam penanganan
 - [[Pasal_43]]: Dalam rangka melakukan likuidasi Bank Gagal yang dicabut
@@ -77,7 +77,7 @@ last_updated: 2026-11-01
 - [[Pasal_62]]: Organ LPS terdiri atas Dewan Komisioner dan Kepala
 - [[Pasal_63]]: (1) Dewan Komisioner adalah pimpinan LPS.
 - [[Pasal_64]]: (1) Salah satu anggota Dewan Komisioner yang ditetapkan
-- [[Pasal_65]]: diangkat untuk masa jabatan 3 (tiga) tahun.
+- [[Pasal_65]]: (1) Anggota Dewan Komisioner berjumlah 6 (enam) orang,
 - [[Pasal_66]]: (1) Salah seorang dari anggota Dewan Komisioner
 - [[Pasal_67]]: Untuk dapat diangkat sebagai anggota Dewan Komisioner
 - [[Pasal_68]]: Sesama anggota Dewan Komisioner dilarang mempunyai

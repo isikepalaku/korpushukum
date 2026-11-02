@@ -41,7 +41,10 @@ Yang dimaksud dengan "sumber dana penyertaan" adalah modal disetor sebagaimana d
 Penyelenggara Usaha Jasa Pembiayaan hanya dapat melakukan kegiatan usaha tertentu sesuai dengan izin yang diberikan.
 
 ```
-Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 113 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Ayat (4) Cukup jelas. Pasal 114 Ayat (1)
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
+
+Pasal 113
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Ayat (4) Cukup jelas. Pasal 114 Ayat (1)
 ```
 
 Pembukaan kantor cabang penyelenggara Usaha Jasa Pembiayaan harus disampaikan terlebih dahulu dalam rencana bisnis perusahaan yang disampaikan kepada Otoritas Jasa Keuangan setiap tahun. Selanjutnya pada saat realisasi dilaporkan kembali kepada Otoritas Jasa Keuangan.

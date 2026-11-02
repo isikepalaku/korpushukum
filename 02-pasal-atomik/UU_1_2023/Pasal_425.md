@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '425'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -30,5 +30,11 @@ Bagian Kedelapan . . .
 **Bagran Kedelapan Perjudian**
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Yang dimaksud dengan "anak yang ada di bawah kekuasaannya yang sah" adalah anak kandung, anak tiri, anak angkat, atau anak yang berada di bawah pengawasannya, atau anak yang dipercayakan untuk diasuh, dididik, atau dijaga dan belum berumur 12 (dua belas) tahun.
+
+Ayat (2)
 
 Cukup jelas.

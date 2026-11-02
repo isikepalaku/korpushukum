@@ -27,7 +27,14 @@ perampasan barang yang diperoleh dari tindak pidana,
 **sebagaimana dimaksud pada ayat (1) dapat diperpanjang paling lama 1 (satu) bulan.**
 **(3) Dalam hal terdapat keuntungan berupa harta benda**
 
-**Korporasi yang timbul dari hasil tindak pidana maka seluruh keuntungan tersebut disita untuk negara.**
+**Korporasi yang timbul dari hasil tindak pidana maka seluruh keuntungan tersebut disita untuk negara.**Pasal 34O...
+
+-----
+
+PRESIDEN
+REPUBUK INDONESIA
+
+**-174-**
 
 ## Penjelasan Resmi
 

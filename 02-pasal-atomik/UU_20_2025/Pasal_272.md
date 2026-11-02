@@ -32,6 +32,17 @@ mengamandemen: []
 **ketua pengadilan negeri membuat penetapan**
 mengenai penggantian Hakim atau majelis Hakim.
 
+**Pasal 273**
+**(1) Setiap Terdakwa yang diputus pidana wajib membayar**
+
+**biaya perkara. (21 Dalam hal Terdakwa diputus bebas atau lepas dari**
+ segala tuntutan hukum, biaya perkara dibebankan
+kepada negara.
+**(3) Dalam hal Terdakwa sebelumnya telah mengajukan**
+
+**permohonan pembebasan dari pembayaran biaya perkara berdasarkan syarat tertentu dengan persetujuan pengadilan, biaya perkara dibebankan**
+kepada negara.
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

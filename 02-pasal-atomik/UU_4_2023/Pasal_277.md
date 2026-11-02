@@ -19,6 +19,10 @@ mengamandemen: []
 
 Dalam rangka menunjang kebijakan Pemerintah untuk mendorong program ekspor nasional, Undang-Undang ini mengubah dan/atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam Undang-Undang Nomor 2 Tahun 2009 tentang Lembaga Pembiayaan Ekspor Indonesia (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 4957).
 
+Pasal 278 ...
+
+**PRESIDEN REPUBUK INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

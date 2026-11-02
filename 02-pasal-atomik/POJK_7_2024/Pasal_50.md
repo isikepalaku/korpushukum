@@ -47,7 +47,9 @@ menjalankan tugas yang bersifat administratif antara lain
 mengoordinasikan penyusunan dan evaluasi rencana bisnis.
 Ayat (2)
 
-Yang dimaksud dengan “menjabat” lihat penjelasan Pasal 49
+Yang dimaksud dengan “menjabat” lihat penjelasan
+
+Pasal 49
 ayat (3).
 Ayat (3)
 

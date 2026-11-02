@@ -18,7 +18,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Jangka waktu menurut Undang-Undang ini mulai diperhitungkan pada hari berikutnya.**
+**Jangka waktu menurut Undang-Undang ini mulai diperhitungkan pada hari berikutnya.**Pasal 280...
+
+-----
+
+PRESIOEN
+REPUBLIK INDONESIA
+
+**-t44-**
 
 ## Penjelasan Resmi
 

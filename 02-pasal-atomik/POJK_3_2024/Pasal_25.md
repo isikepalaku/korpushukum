@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 24 dikenakan sanksi
+dimaksud dalam
+
+Pasal 24
+dikenakan sanksi
 administratif berupa:
 a. peringatan tertulis;
 b. penghentian sementara, sebagian, atau seluruh
@@ -53,7 +56,10 @@ Huruf d
 Cukup jelas.
 Huruf e
 
-Lihat penjelasan Pasal 22 ayat (1) huruf e.
+Lihat penjelasan
+
+Pasal 22
+ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.

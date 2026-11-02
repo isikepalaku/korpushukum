@@ -20,6 +20,10 @@ mengamandemen: []
 
 Untuk penetapan anggaran sebagaimana dimaksud dalam
 
+Pasal 34
+ayat (1) dan ayat (2), OJK terlebih dahulu meminta
+persetujuan Dewan Perwakilan Rakyat.
+
 ## Penjelasan Resmi
 
 Yang dimaksud dengan “Dewan Perwakilan Rakyat” adalah alat

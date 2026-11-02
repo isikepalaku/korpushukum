@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Kerja sama dalam rangka memperoleh bisnis
 
-sebagaimana dimaksud dalam Pasal 64 dapat
+sebagaimana dimaksud dalam
+
+Pasal 64
+dapat
 
 dilakukan oleh Perusahaan Asuransi, Perusahaan
 
@@ -80,7 +83,10 @@ badan usaha dimaksud telah memenuhi ketentuan
 
 mengenai Agen Asuransi sebagaimana diatur
 
-dalam Pasal 17 ayat (1); dan
+dalam
+
+Pasal 17
+ayat (1); dan
 
 -----
 

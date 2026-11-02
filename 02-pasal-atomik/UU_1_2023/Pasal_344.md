@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '344'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,4 @@ Bagran Kesembilan Tindak Pidana Jual Beli Organ, Jaringan Tubuh, dan Darah Manus
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini bertujuan untuk mencegah beredamya makanan atau minuman yang dapat merusak kesehatan.

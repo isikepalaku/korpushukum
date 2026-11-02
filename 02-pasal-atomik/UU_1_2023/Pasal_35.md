@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketiadaan sifat melawan hukum dari Tindak Pidana sebagaimana dimaksud dalam Pasal 12 ayal (2) merupakan alasan pembenar.
+Ketiadaan sifat melawan hukum dari Tindak Pidana sebagaimana dimaksud dalam
+
+Pasal 12
+ayal (2) merupakan alasan pembenar.
 
 Bagian Kedua Pertanggungl awaban Pidana
 

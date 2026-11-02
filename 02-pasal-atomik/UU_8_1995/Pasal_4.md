@@ -20,7 +20,10 @@ mengamandemen: []
 
 ```
 Pembinaan, pengaturan, dan pengawasan sebagaimana
-dimaksud dalam Pasal 3 dilaksanakan oleh Bapepam
+dimaksud dalam
+
+Pasal 3
+dilaksanakan oleh Bapepam
 dengan tujuan mewujudkan terciptanya kegiatan
 Pasar Modal yang teratur, wajar, dan efisien
 serta melindungi kepentingan pemodal dan

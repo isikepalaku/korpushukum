@@ -19,6 +19,12 @@ mengamandemen: []
 
 Subjek Data Pribadi berhak mendapatkan Informasi tentang Kejelasan identitas, dasar kepentingan hukum, tujuan permintaan dan penggunaan Data Pribadi, dan akuntabilitas pihak yang meminta Data Pribadi,
 
+Pasal 62...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
+~ 39 -
+
 ## Penjelasan Resmi
 
 Cukup jelas.

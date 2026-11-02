@@ -4,7 +4,7 @@ judul: "Map of Content - Penyelenggaraan Inovasi Teknologi Sektor Keuangan"
 kode_uu: POJK_3_2024
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_3_2024]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Penyelenggaraan Inovasi Teknologi Sektor Keuangan (POJK_3_2024)
@@ -15,21 +15,21 @@ last_updated: 2026-11-01
 
 - [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini yang
 - [[Pasal_2]]: Ruang lingkup ITSK meliputi:
-- [[Pasal_3]]: yang diatur oleh Otoritas Jasa Keuangan.
+- [[Pasal_3]]: (1) Pihak yang menyelenggarakan ITSK terdiri atas:
 - [[Pasal_4]]: (1) Penyelenggara ITSK sebagaimana dimaksud dalam
 - [[Pasal_5]]: (1) ITSK dapat dimanfaatkan untuk mendukung kegiatan
 - [[Pasal_6]]: Tujuan penyediaan Sandbox untuk memastikan inovasi dan
 - [[Pasal_7]]: Ruang lingkup Sandbox meliputi:
 - [[Pasal_8]]: (1) Peserta terdiri atas:
-- [[Pasal_9]]: paling lama 3 (tiga) bulan sejak surat tidak lulus
+- [[Pasal_9]]: (1) Calon Peserta yang akan melakukan kegiatan dalam
 - [[Pasal_10]]: (1) Kriteria kelayakan inovasi untuk mengikuti _Sandbox_
 - [[Pasal_11]]: (1) Proses uji coba dan pengembangan inovasi dalam
 - [[Pasal_12]]: (1) Atas permohonan Peserta, Otoritas Jasa Keuangan
-- [[Pasal_13]]: dan/atau Pasal 17 ayat (2) dikenakan sanksi
-- [[Pasal_14]]: (2) Peserta yang dinyatakan tidak lulus sebagaimana
-- [[Pasal_15]]: perizinan.
+- [[Pasal_13]]: (1) Pelaksanaan uji coba dan pengembangan inovasi dalam
+- [[Pasal_14]]: (1) Otoritas Jasa Keuangan berwenang melakukan
+- [[Pasal_15]]: (1) Otoritas Jasa Keuangan menyampaikan surat lulus
 - [[Pasal_16]]: (1) Otoritas Jasa Keuangan dapat menentukan Peserta
-- [[Pasal_17]]: (3) Penyelenggara inovasi keuangan digital yang
+- [[Pasal_17]]: (1) Otoritas Jasa Keuangan menyampaikan surat tidak
 - [[Pasal_18]]: Dalam hal hasil uji coba dan pengembangan inovasi
 - [[Pasal_19]]: (1) Pelanggaran terhadap ketentuan sebagaimana
 - [[Pasal_20]]: (1) Pihak yang memiliki jenis ITSK yang sama dengan jenis

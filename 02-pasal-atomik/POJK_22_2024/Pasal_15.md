@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Selain mengenakan sanksi administratif sebagaimana
-dimaksud dalam Pasal 14, Otoritas Jasa Keuangan
+dimaksud dalam
+
+Pasal 14, Otoritas Jasa Keuangan
 berwenang melakukan penilaian kembali terhadap pihak
 utama.
 

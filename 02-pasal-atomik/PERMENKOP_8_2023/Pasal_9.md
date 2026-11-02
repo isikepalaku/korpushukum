@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Persyaratan Izin Jaringan Pelayanan Kantor Cabang
-sebagaimana dimaksud dalam Pasal 7 ayat (3) huruf a
+sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (3) huruf a
 meliputi:
 a. Izin usaha dan telah melaksanakan kegiatan simpan
 pinjam paling singkat 2 (dua) tahun;

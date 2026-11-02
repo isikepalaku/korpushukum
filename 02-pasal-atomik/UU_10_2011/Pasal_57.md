@@ -222,3 +222,5 @@ pemaksaan (high-pressure sales _tactics) kepada_
 Nasabah dalam penyaluran amanat Kontrak
 Berjangka, Kontrak Derivatif Syariah, dan/atau
 Kontrak Derivatif lainnya.
+
+Angka 29

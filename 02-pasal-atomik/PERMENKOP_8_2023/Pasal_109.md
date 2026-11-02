@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) KSP/KSPPS dan/atau USP/USPPS yang melakukan
 pelanggaran atas ketentuan sebagaimana dimaksud
-dalam Pasal 5 ayat (3), Pasal 5 ayat (4), Pasal 6 ayat (2),
+dalam Pasal 5 ayat (3),
+
+Pasal 5
+ayat (4), Pasal 6 ayat (2),
 
 ## Penjelasan Resmi
 

@@ -102,10 +102,8 @@ dengan kementerian/lembaga terkait.
  Ayat (3)
  Cukup [jelas]
 
-Pasill 31
+Pasall 31
 
-**Cukup [jelas.]**
-
-Pasal [gZ]
+**Cukup [jelas.]**Pasal [gZ]
 
 **Cukup [jelas.]**

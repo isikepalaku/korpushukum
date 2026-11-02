@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '76'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -29,11 +29,6 @@ mengamandemen: []
 - (6) Jaksa dapat mengusulkan pengurangan masa pengawasan kepada hakim jika selama dalam pengawasan terpidana menunjukkan kelakuan yang baik, berdasarkan pertimbangan pembimbing
 9. l7l Ketentuan lebih lanjut tentang tata cara dan batas pengurangan dan perpanjangan masa pengawasan diatur dengan Peraturan Pemerintah.
 
-**Pasal TT**
-
-- (1) Jika terpidana selama menjalani pidana pengawasan melakukan Tindak Pidana dan dijatuhi pidana yang bukan pidana mati atau bukan pidana penjara, pidana pengawasan tetap dilaksanakan.
-2. (21 Jika terpidana dijatuhi pidana penjara, pidana pengawasan ditunda dan dilaksanakan kembali setelah terpidana selesai menjalani pidana penjara.
-
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Penjatutran pidana pengawasan terhadap orang yang melakukan Tindak Pidana yang diancam dengan pidana penjara, sepenuhnya terletak pada pertimbangan hakim, dengan memperhatikan keadaan dan perbuatan terpidana. Jenis pidana ini dijatuhkan kepada orang yang pertama kali melakukan Tindak Pidana. Ayat(2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Yang dimaksud dengan "terpidana" adalah klien pemasyarakatan. Yang dimaksud dengan 'menjalani pidana penjara yang lamanya tidak lebih dari ancannan pidana penjara bagi Tindak Pidana itu" adalah menjalani pidana yang pelaksanaannya dijalankan setelah terpidana selesai menjalani pidana penjara dari Tindak Pidana baru. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat(71 Cukup jelas.

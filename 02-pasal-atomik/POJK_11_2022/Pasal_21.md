@@ -17,7 +17,33 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Bank wajib menjaga ketahanan siber.
 
+(2) Untuk menjaga ketahanan siber sebagaimana
+
+dimaksud pada ayat (1), Bank melakukan proses
+
+paling sedikit:
+
+**t id**
+
+-----
+
+a. identifikasi aset, ancaman, dan kerentanan;
+
+b. pelindungan aset;
+
+c. deteksi insiden siber; dan
+
+d. penanggulangan dan pemulihan insiden siber.
+
+(3) Bank memastikan proses untuk menjaga ketahanan
+
+siber sebagaimana dimaksud pada ayat (2) didukung
+
+dengan sistem informasi ketahanan siber yang
+
+memadai.
 
 ## Penjelasan Resmi
 

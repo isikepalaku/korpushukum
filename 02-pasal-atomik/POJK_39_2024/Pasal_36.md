@@ -19,12 +19,18 @@ mengamandemen: []
 
 (1) Perusahaan Pergadaian yang akan melakukan
 Pemisahan UUS karena memenuhi kriteria tertentu
-sebagaimana dimaksud dalam Pasal 28 ayat (2) huruf a
+sebagaimana dimaksud dalam
+
+Pasal 28
+ayat (2) huruf a
 wajib menyampaikan pelaporan rencana Pemisahan
 UUS kepada Otoritas Jasa Keuangan paling lambat 15
 (lima belas) hari kerja terhitung sejak Perusahaan
 Pergadaian memenuhi kriteria tertentu sebagaimana
-dimaksud dalam Pasal 28 ayat (2) huruf a.
+dimaksud dalam
+
+Pasal 28
+ayat (2) huruf a.
 (2) Pelaporan Pemisahan UUS sebagaimana dimaksud
 pada ayat (1), harus disampaikan oleh Direksi kepada
 Otoritas Jasa Keuangan dengan melampirkan dokumen

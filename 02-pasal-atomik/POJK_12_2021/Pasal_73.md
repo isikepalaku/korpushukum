@@ -27,9 +27,9 @@ dalam Rencana Bisnis Bank.
 
 memenuhi persyaratan dan tata cara sesuai dengan
 
-pembukaan KC sebagaimana dimaksud dalam Pasal
+pembukaan KC sebagaimana dimaksud dalam Pasal 64,
 
-64, Pasal 65, dan Pasal 66.
+Pasal 65, dan Pasal 66.
 
 Paragraf 3
 

@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Selain memenuhi ketentuan sebagaimana
-dimaksud dalam Pasal 6, Perusahaan Asuransi,
+dimaksud dalam
+
+Pasal 6, Perusahaan Asuransi,
 Perusahaan Asuransi Syariah, atau Unit Syariah
 pada Perusahaan Asuransi yang melakukan
 perluasan ruang lingkup usaha pada kegiatan
@@ -74,8 +76,10 @@ telah disepakati sampai berakhirnya kontrak
 tersebut dan tidak dapat diperpanjang.
 
 9. Ketentuan ayat (1) dan ayat (2) Pasal 10 diubah dan
-ditambahkan 1 (satu) ayat, yakni ayat (3) sehingga Pasal
-10 berbunyi sebagai berikut:
+ditambahkan 1 (satu) ayat, yakni ayat (3) sehingga
+
+Pasal 10
+berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -129,3 +133,5 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
+
+Angka 9

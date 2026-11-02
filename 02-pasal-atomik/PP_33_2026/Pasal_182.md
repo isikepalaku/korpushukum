@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam membenkan perintah sebagaimana dimaksud dalam Pasal 181 kepada Pengendali Data Pribadi berupa Badan Publik, Lembaga harus mempertimbangkan ketentuan peraturan perundang-undangan yang menjadi dasar pelaksanaan tugas dan fungsi Badan Publik.
+Dalam membenkan perintah sebagaimana dimaksud dalam
+
+Pasal 181
+kepada Pengendali Data Pribadi berupa Badan Publik, Lembaga harus mempertimbangkan ketentuan peraturan perundang-undangan yang menjadi dasar pelaksanaan tugas dan fungsi Badan Publik.
 
 ## Penjelasan Resmi
 

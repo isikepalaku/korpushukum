@@ -26,10 +26,16 @@ Ayat (1)
 Cukup jelas.
 Ayat (2)
 
-Lihat penjelasan Pasal 17 ayat (2).
+Lihat penjelasan
+
+Pasal 17
+ayat (2).
 Ayat (3)
 
-Lihat penjelasan Pasal 17 ayat (3).
+Lihat penjelasan
+
+Pasal 17
+ayat (3).
 Ayat (4)
 
 Cukup jelas.

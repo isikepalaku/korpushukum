@@ -19,11 +19,19 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan lebih lanjut mengenai cadangan klaim dan
-cadangan umum sebagaimana dimaksud dalam Pasal 44,
-pengajuan klaim sebagaimana dimaksud dalam Pasal 45,
-pembayaran klaim sebagaimana dimaksud dalam Pasal 46,
-dan peralihan hak tagih sebagaimana dimaksud dalam Pasal
-47 diatur dalam Peraturan Otoritas Jasa Keuangan.
+cadangan umum sebagaimana dimaksud dalam
+
+Pasal 44,
+pengajuan klaim sebagaimana dimaksud dalam
+
+Pasal 45,
+pembayaran klaim sebagaimana dimaksud dalam
+
+Pasal 46,
+dan peralihan hak tagih sebagaimana dimaksud dalam
+
+Pasal 47
+diatur dalam Peraturan Otoritas Jasa Keuangan.
 
 Bagian Kelima
 Retensi Sendiri

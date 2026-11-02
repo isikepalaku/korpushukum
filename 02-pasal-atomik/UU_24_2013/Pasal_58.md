@@ -193,4 +193,5 @@ orang,
 dan/atau 
 mencegah 
 pengiriman 
-tenaga kerja illegal.
+tenaga kerja illegal. 
+Angka 13

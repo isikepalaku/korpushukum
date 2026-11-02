@@ -29,7 +29,10 @@ Bagian Keempat
 
 Rapat Umum Pemegang Saham
 
-44. Ketentuan Pasal 14 diubah sehingga berbunyi sebagai berikut:
+44. Ketentuan
+
+Pasal 14
+diubah sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 

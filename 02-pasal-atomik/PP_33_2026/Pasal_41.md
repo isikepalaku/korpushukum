@@ -29,6 +29,10 @@ mengamandemen: []
 
 - (2) Perjanjian yang sah antara Pengendali Data Pribadi dan Subjek Data Pribadi scbagaimana dimaksud pada ayat (1) hurufa dalam pemrosesan Date Pribadi Anak atau Penyandang ODisabilitas wajib dengan pers¢tujuan dari orang tua Anak dan/atau wali Anak sebagaimana dimaksud dalam Pasal G& dan persetujuan = = dari wali Penyandang Disabilitas sebagaimana dimaksud dalam Pasal 39,
 
+Pasal 42 . _
+
+**PRESIDEN REPUBLIN INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

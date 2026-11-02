@@ -20,9 +20,10 @@ mengamandemen: []
 
 Ketentuan mengenai penghimpunan, penyimpanan dan penggunaan Dana
 
- Kompensasi sebagaimana dimaksud dalam Pasal 45, Pasal 46 dan Pasal
+ Kompensasi sebagaimana dimaksud dalam Pasal 45,
 
- 47, diatur lebih lanjut dengan Peraturan Pemerintah.
+Pasal 46
+dan Pasal 47, diatur lebih lanjut dengan Peraturan Pemerintah.
 
  BAB VII…
 

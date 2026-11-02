@@ -4,7 +4,7 @@ uu_induk: Perubahan atas POJK 39-2024 tentang Pergadaian
 kode_uu: POJK_29_2025
 pasal: '116'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_29_2025
@@ -67,10 +67,11 @@ anggaran biaya untuk masa perpanjangan
 tersebut kepada Otoritas Jasa Keuangan.
 (8) Dihapus.
 
-20. Ketentuan ayat (6) Pasal 122 dihapus sehingga Pasal
-122 berbunyi sebagai berikut:
+20. Ketentuan ayat (6) Pasal 122 dihapus sehingga Pasal 122 berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
 ayat (8)
 Dihapus.
+
+Angka 20

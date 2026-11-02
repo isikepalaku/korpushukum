@@ -17,21 +17,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam melaksanakan transfer Data Pribadi sebagaimana dimakstid dalam Pasal 160, Pengendali Data Pribadi dan/atau Prosesor Data Pribadi harus:
+- (1) Pengendali Data Pribadi Bersama dapat menunjuk Proscsor Data Pribadi.
 
-- a, melakukan perekaman dan pemetaan siklus transfer Data Pribaci dan implikasinya;
+- (2) Ketentuan mengenai penunjukan Prosesor Data Pribadi oleh Pengendali Data Prbadi sebagaimana dimaksud dalam Pasal 13 dan Pasal 14 berlaku secara mutatis mutandis terhadap penunjukan Prosesor Data Pribadi oleh Pengendali Data Pribadi Bersama,
 
-- b, memastikan bahwa Data Pribadi yang ditransier cukup, relevan, dan terbatas sesuai dengan tujuan transfer Data Pribadi;
+**Bagian Keempat**
 
-- c. mengidentifikasi instrumen hukum yang digunakan sebagai rujukan untuk proses transfer Data Pribadi sesuai dengan ketentuan peraturan perundangundangan;
-
-- d. melakukan penilaian efektivitas instrumen hukum yang digunakan untuk proses transfer Data Pribadi yang akan dilakukan sebelum melakukan transfer Data Pribadi;
-
-- € menggunakan instrumen pelengkap apabila dibutuhkan, baik berupa instrumen kontraktual, teknis, dan/atau organisasional;
-
-- Eis menerapkan langkah prosedural yang dapat ditempuh jika akan menggunakan instrumen pelengkap; dan
-
-- g mengevaluasi ulang secara berkala dalam kurun waktu vang memadai.
+Pemasangan Alat Pemroses atau Pengolah Data Visual
 
 ## Penjelasan Resmi
 

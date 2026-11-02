@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Wewenang dan tanggung jawab sebagaimana dimaksud dalam Pasal 6 bagi Dewan Komisaris paling sedikit mencakup:
+Wewenang dan tanggung jawab sebagaimana dimaksud dalam
+
+Pasal 6
+bagi Dewan Komisaris paling sedikit mencakup:
 
 - a. menyetujui dan mengevaluasi kebijakan Manajemen Risiko; dan
 

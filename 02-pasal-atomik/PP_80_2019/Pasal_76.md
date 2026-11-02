@@ -21,6 +21,10 @@ mengamandemen: []
 
 - (21 Dalam melakukan pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), Menteri dapat berkoordinasi dengan menteri, kepala lembaga pemerintah non kementerian, dan pimpinan otoritas terkait, serta pemerintah daerah.
 
+Pasal 77...
+
+FRESTDEN REPUELIK INDONESIA -36-
+
 ## Penjelasan Resmi
 
 Cukup jelas.

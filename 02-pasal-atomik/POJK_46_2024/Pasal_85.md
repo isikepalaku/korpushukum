@@ -28,7 +28,10 @@ berikut:
 BAB XIX
 TINGKAT KESEHATAN
 
-40. Ketentuan Pasal 86 diubah sehingga berbunyi sebagai
+40. Ketentuan
+
+Pasal 86
+diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -38,3 +41,5 @@ Cukup jelas.
 Angka 39
 
 Cukup jelas.
+
+Angka 40

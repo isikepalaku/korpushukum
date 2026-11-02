@@ -19,14 +19,20 @@ mengamandemen: []
 
 (1) PUJK dapat melakukan transfer data dan/atau informasi
 Konsumen berupa perseorangan sebagaimana dimaksud
-dalam Pasal 19 ayat (2) huruf a kepada pihak lain di luar
+dalam
+
+Pasal 19
+ayat (2) huruf a kepada pihak lain di luar
 wilayah hukum Negara Kesatuan Republik Indonesia
 dengan memenuhi ketentuan peraturan perundangundangan mengenai pelindungan data pribadi dan
 peraturan perundang-undangan lain yang ditetapkan oleh
 Otoritas Jasa Keuangan.
 (2) Dalam hal PUJK melakukan transfer data dan/atau
 informasi Konsumen berupa korporasi sebagaimana
-dimaksud dalam Pasal 19 ayat (2) huruf b, PUJK wajib
+dimaksud dalam
+
+Pasal 19
+ayat (2) huruf b, PUJK wajib
 memastikan negara tempat kedudukan pihak penerima
 transfer data dan/atau informasi Konsumen memiliki
 tingkat pelindungan data pribadi yang setara atau lebih

@@ -59,7 +59,10 @@ Ayat (1)
 
 Huruf a
 
-Lihat penjelasan Pasal 36 huruf a.
+Lihat penjelasan
+
+Pasal 36
+huruf a.
 Huruf b
 
 Cukup jelas.

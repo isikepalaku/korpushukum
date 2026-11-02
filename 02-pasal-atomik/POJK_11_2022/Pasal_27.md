@@ -19,11 +19,19 @@ mengamandemen: []
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 21 ayat (1), Pasal 22 ayat (1),
+dimaksud dalam Pasal 21 ayat (1),
 
-ayat (4), Pasal 23, Pasal 24, Pasal 25 ayat (1),
+Pasal 22
+ayat (1),
 
-dan/atau Pasal 26 ayat (1), dikenai sanksi
+ayat (4),
+
+Pasal 23, Pasal 24, Pasal 25 ayat (1),
+
+dan/atau
+
+Pasal 26
+ayat (1), dikenai sanksi
 
 administratif berupa teguran tertulis.
 
@@ -32,6 +40,27 @@ administratif berupa teguran tertulis.
 sebagaimana dimaksud pada ayat (1) dan belum
 
 memenuhi ketentuan sebagaimana dimaksud dalam
+
+Pasal 21
+ayat (1),
+
+Pasal 22
+ayat (1), ayat (4), Pasal 23,
+
+Pasal 24,
+
+Pasal 25
+ayat (1), dan/atau Pasal 26 ayat (1),
+
+Bank dikenai sanksi administratif berupa:
+
+a. larangan untuk menerbitkan produk Bank baru;
+
+b. pembekuan kegiatan usaha tertentu; dan/atau
+
+c. penurunan penilaian faktor tata kelola dalam
+
+penilaian tingkat kesehatan Bank.
 
 ## Penjelasan Resmi
 

@@ -39,3 +39,21 @@ keagenan.
 
 **Ayat (2)**
  Cukup [jelas.]
+
+Pasal 70
+**Cukup [jelas.]**Pasal 7l
+
+**Ayat (1)**
+ Cukup [jelas.]
+
+Ayat (21
+
+**Cukup [jelas.]**
+
+ Ayat (3)
+ Contoh kondisi yang membahayakan kepentingan Pemegang Polis, Tertanggung, atau Peserta antara lain kondisi keuangan peru sahaan memburuk secara drastis, pemegang saham tidak kooperatif, dan/atau direksi dan komisaris, atau yang setara dengan direksi dan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (1) huruf c, tidak memiliki [jalan ] keluar untuk mengatasi permasalahan.
+ Ayat (4)
+ Cukup [jelas.]

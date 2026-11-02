@@ -33,3 +33,5 @@ Cukup jelas.
 Ayat (3)
 
 Sifat melawan hukum dari perbuatan tersebut ditiadakan karena perbuatan tersebut dilakukan untuk kepentingan umum atau terpaksa membela diri.
+
+Angka 40

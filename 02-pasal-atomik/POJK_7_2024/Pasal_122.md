@@ -34,7 +34,10 @@ Peraturan OJK mengenai perintah tertulis.
 
 Ayat (1)
 
-Lihat penjelasan Pasal 108 ayat (1).
+Lihat penjelasan
+
+Pasal 108
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

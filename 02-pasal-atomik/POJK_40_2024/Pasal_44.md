@@ -17,7 +17,36 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Penyelenggara yang akan menutup UUS wajib
+memperoleh persetujuan dari Otoritas Jasa Keuangan.
+(2) Penutupan UUS dilarang merugikan kepentingan
+Pengguna.
+(3) Penyelenggara yang akan melakukan penutupan UUS
+sebagaimana dimaksud pada ayat (1) wajib:
+a. memberitahukan rencana penutupan UUS kepada
+Pengguna;
+b. menyampaikan prosedur penyelesaian hak dan
+kewajiban Pengguna;
+c. menyelesaikan keberatan dari Pengguna, apabila
+terdapat keberatan dari Pengguna berdasarkan
+ketentuan peraturan perundang-undangan; dan
+d. menyelesaikan hak dan kewajiban UUS yang
+dimiliki berdasarkan ketentuan peraturan
+perundang-undangan.
+(4) Dalam melaksanakan kewajiban sebagaimana
+dimaksud pada ayat (3), Penyelenggara wajib
+memperhatikan kepentingan para pihak dan pemangku
+kepentingan terkait lainnya.
+(5) Untuk memperoleh persetujuan penutupan UUS
+sebagaimana dimaksud pada ayat (1), Direksi harus
+menyampaikan permohonan persetujuan penutupan
+UUS kepada Otoritas Jasa Keuangan dengan
+melampirkan dokumen permohonan persetujuan
+penutupan UUS tercantum dalam Lampiran pada
+tabel 10 yang merupakan bagian tidak terpisahkan dari
+Peraturan Otoritas Jasa Keuangan ini.
 
+-----
 
 ## Penjelasan Resmi
 

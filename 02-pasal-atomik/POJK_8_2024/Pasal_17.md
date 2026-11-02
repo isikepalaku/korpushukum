@@ -17,8 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Selain ketentuan sebagaimana dimaksud dalam Pasal
-12 dan Pasal 13, Perusahaan Asuransi dan Perusahaan
+(1) Selain ketentuan sebagaimana dimaksud dalam Pasal 12 dan Pasal 13, Perusahaan Asuransi dan Perusahaan
 Asuransi Syariah yang menyelenggarakan Produk
 Asuransi Bersama wajib memuat bagian risiko yang
 akan ditanggung oleh masing-masing Perusahaan
@@ -42,7 +41,10 @@ Bersama ditandatangani hanya oleh Perusahaan
 Asuransi atau Perusahaan Asuransi Syariah yang
 menjadi ketua dalam pemasaran Produk Asuransi
 Bersama, perjanjian tertulis sebagaimana dimaksud
-dalam Pasal 6 ayat (1) dan Polis Asuransi untuk Produk
+dalam
+
+Pasal 6
+ayat (1) dan Polis Asuransi untuk Produk
 Asuransi Bersama sebagaimana dimaksud pada ayat (1)
 harus memuat ketentuan:
 a. persetujuan dari Perusahaan Asuransi dan

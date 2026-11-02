@@ -17,24 +17,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-administratif berupa:
-a. peringatan atau teguran tertulis yang disertai dengan
-perintah untuk melakukan tindakan tertentu;
-b. denda;
-c. pembatasan kegiatan usaha tertentu;
-d. penurunan penilaian faktor pembentuk nilai tingkat
-kesehatan;
-e. pembekuan kegiatan usaha tertentu; dan/atau
-f. larangan sebagai pihak utama.
-(2) Otoritas Jasa Keuangan dapat mengumumkan pengenaan
-sanksi administratif sebagaimana dimaksud pada ayat (1)
-kepada masyarakat.
-
------
-
-(3) Pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (1) tidak menghapus kewajiban PJK untuk tetap
-melaksanakan ketentuan sebagaimana dimaksud dalam
+(1) PJK wajib memiliki kebijakan, pengawasan, dan prosedur
+pengelolaan serta mitigasi risiko TPPU, TPPT, dan/atau
+PPSPM yang mampu mengelola dan memitigasi risiko yang
+telah diidentifikasi yang disetujui oleh Dewan Komisaris.
+(2) PJK wajib memantau penerapan kebijakan, pengawasan,
+dan prosedur sebagaimana dimaksud pada ayat (1) dan
+mengevaluasi penerapannya.
+(3) Dalam hal risiko yang lebih tinggi teridentifikasi, PJK wajib
+menetapkan tindakan yang lebih mendalam untuk
+mengelola dan memitigasi risiko.
 
 ## Penjelasan Resmi
 

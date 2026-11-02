@@ -17,18 +17,29 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dapat dikenai sanksi administratif berupa larangan
-sebagai pihak utama sesuai dengan Peraturan OJK
-mengenai penilaian kembali bagi pihak utama lembaga
-jasa keuangan.
+(1) Pelaksanaan sinergi perbankan pada BPR Syariah wajib
+disertai dengan opini DPS.
+(2) Pihak yang melakukan sinergi sebagaimana dimaksud
+dalam
 
-BAB X
-PENCABUTAN IZIN USAHA ATAS
-PERMINTAAN PEMEGANG SAHAM
-
-Bagian Kesatu
-
-Umum
+Pasal 138
+ayat (1) wajib menyampaikan kepada
+OJK:
+a. salinan perjanjian kerja sama; dan
+b. opini DPS, bagi BPR Syariah,
+paling lama 5 (lima) hari kerja setelah tanggal perjanjian
+kerja sama.
+(3) Dalam hal terdapat perubahan dalam perjanjian kerja
+sama, BPR atau BPR Syariah yang melakukan sinergi
+wajib menyampaikan laporan kepada OJK paling lama 5
+(lima) hari kerja setelah tanggal perubahan perjanjian
+kerja sama disertai dengan salinan perubahan perjanjian
+kerja sama.
+(4) Dalam hal terdapat penghentian kerja sama sebelum
+jangka waktu perjanjian kerja sama berakhir, BPR atau
+BPR Syariah wajib menyampaikan laporan kepada OJK
+paling lama 30 (tiga puluh) hari kerja sebelum tanggal
+efektif penghentian perjanjian kerja sama.
 
 ## Penjelasan Resmi
 

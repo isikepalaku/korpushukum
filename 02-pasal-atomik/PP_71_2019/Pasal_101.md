@@ -4,7 +4,7 @@ uu_induk: Penyelenggaraan Sistem dan Transaksi Elektronik
 kode_uu: PP_71_2019
 pasal: '101'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/siber
 - uu/pp_71_2019
@@ -25,4 +25,8 @@ BAB X
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas. Pasal 1O2 Cukupjelas. Pasal 103 Cukupjelas. Pasal 104 Cukup jelas
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6400
+
+SK No011772 A

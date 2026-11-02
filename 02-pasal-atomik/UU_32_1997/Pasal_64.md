@@ -42,6 +42,15 @@ mengamandemen: []
 
  kegiatan badan usaha yang bersangkutan.
 
+Pasal 65…
+
+```
+
+-----
+
+```
+ - 38
+
 ## Penjelasan Resmi
 
 Cukup jelas.

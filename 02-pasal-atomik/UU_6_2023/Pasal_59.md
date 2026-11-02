@@ -4,7 +4,7 @@ uu_induk: Cipta Kerja
 kode_uu: UU_6_2023
 pasal: '59'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_6_2023
@@ -27,3 +27,5 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 14

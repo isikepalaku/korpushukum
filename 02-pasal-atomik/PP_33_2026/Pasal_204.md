@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal hasil verifikasi dokumen dan Informasi terhadap laporan sebagaimana dimakeud dalam Pasal 202 ayat (1) ditemukan adanya unsur pelanggaran administratif, Lembaga memproses laporan tersebut dalam rangka penegakan hukum administratif.
+Dalam hal hasil verifikasi dokumen dan Informasi terhadap laporan sebagaimana dimakeud dalam
+
+Pasal 202
+ayat (1) ditemukan adanya unsur pelanggaran administratif, Lembaga memproses laporan tersebut dalam rangka penegakan hukum administratif.
 
 ## Penjelasan Resmi
 

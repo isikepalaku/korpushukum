@@ -27,6 +27,28 @@ penyelen ggaraan usaha.
 **(21 Ketentuan lebih lanjut mengenai standar perilaku usaha**
  sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
+Pasal 27
+ (1) Pialang Asuransi, Pialang Reasuransi, dan Agen Asuransi
+ wajib terdaftar di Otoritas Jasa Keuangan.
+
+ (2) Pialang
+
+-----
+
+PRESIDEN
+R EPUBL IK IND ONES IA
+
+**_20-**
+
+(2t Pialang Asuransi, Pialang Reasuransi, dan Agen Asuransi
+
+**wajib memiliki pengetahuan dan kemampuan [yang] cukup serta memiliki reputasi [yang ] baik.**
+
+(3) Ketentuan lebih lanjut mengenai persyaratan dan tata
+
+**cara pendaftaran Pialang Asuransi, Pialang Reasuransi, dan Agen Asuransi sebagaimana dimaksud [pada ]ayat [(1)] dan ayat (2) diatur dalam Peraturan Otoritas [Jasa]**
+Keuangan.
+
 ## Penjelasan Resmi
 
 **Ayat (1)**

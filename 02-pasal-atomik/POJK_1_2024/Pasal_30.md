@@ -24,7 +24,9 @@ b. peningkatan pembentukan PPKA; dan/atau
 c. penghentian pengakuan pendapatan bunga secara
 akrual,
 tanpa memperhatikan kriteria Debitur sebagaimana
-dimaksud dalam Pasal 29.
+dimaksud dalam
+
+Pasal 29.
 (2) Dalam melakukan Restrukturisasi Kredit, BPR wajib
 memperhatikan prinsip:
 a. objektivitas;

@@ -46,8 +46,7 @@ Indonesia Tahun 2019 Nomor 827); dan
 
 -----
 
-f. Ketentuan Pasal 1 angka 35, Pasal 59, Pasal 60, Pasal
-101 ayat (1), dan Pasal 104 ayat (2) Peraturan Menteri
+f. Ketentuan Pasal 1 angka 35, Pasal 59, Pasal 60, Pasal 101 ayat (1), dan Pasal 104 ayat (2) Peraturan Menteri
 Koperasi dan Usaha Kecil dan Menengah 09 Tahun 2018
 tentang Penyelenggaraan dan Pembinaan Perkoperasian
 (Berita Negara Republik Indonesia Tahun 2018 Nomor

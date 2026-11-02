@@ -21,7 +21,10 @@ mengamandemen: []
 
 - (2) Dalam menyediakan mekanisme verifikasi pengguna Anak sebagaimana dimaksud pada ayat (1), Penyelenggara Sistem Elektronik menerapkan langkah teknis dan operasional untuk melakukan verifikasi usia Anak yang menggunakan atau mengakses Produk, Layanan, dan Fitur sesuai dengan batasan minimum usia Anak dan 
 
-rentang usia Anak sebagaimana dimaksud dalam Pasal 2 ayat (3). 
+rentang usia Anak sebagaimana dimaksud dalam
+
+Pasal 2
+ayat (3). 
 
 - (3) Penerapan langkah teknis dan operasional sebagaimana dimaksud pada ayat (2) dapat dilakukan dengan menerapkan teknologi. 
 

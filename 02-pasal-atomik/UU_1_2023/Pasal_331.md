@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '331'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -30,4 +30,4 @@ Penggunaan dan Perusakan Informasi Elektronik
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dima}sud dengan "kenakalan" misalnya, mencoret-coret tembok di jalan umum.

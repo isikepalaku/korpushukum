@@ -24,6 +24,8 @@ untuk menciptakan gambaran semu atau menyesatkan
 mengenai kegiatan perdagangan, keadaan pasar,
 atau harga Efek di Bursa Efek.
 
+Pasal 92…
+
 ## Penjelasan Resmi
 
 Cukup jelas.

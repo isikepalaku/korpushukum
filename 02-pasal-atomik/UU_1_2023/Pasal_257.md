@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '257'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -27,4 +27,14 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+Yang dimaksud dengan umemaksa MasuIC adalah Masuk dengan melawan kehendak yang dinyatakan oleh orang yang berhak. Orang yang berhak adalah orang yang mempunyai kekuasaan untuk menghalarrghalangi atau melarang untuk Masuk atau berada di tempat tersebut.
+
+Yang dimaksud dengan (runah" termasuk juga perahu atau kendaraan yang dijadikan tempat tinggal.
+
+Yang dimaksud dengan "ruangan tertutup" adalah ruangan yang hanya boleh dimasuki oleh orang tertentu dan bukan untuk umum.
+
+Yang dimaksud dengan "pekarangan tertutup" adalah pekarangan yang nyata-nyata ada batasnya seperti pagar di sekeliling pekarangan tersebut.
+
+Ayat (2) Cukup jelas. Ayat (s) Cukup jelas. Ayat (4) Cukup jelas.

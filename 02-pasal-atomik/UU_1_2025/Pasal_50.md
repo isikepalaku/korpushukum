@@ -23,3 +23,5 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Dihapus.
+
+Angka 84

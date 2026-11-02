@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Dalam hal tidak terpenuhinya persyaratan sebagaimana
 
- dimaksud dalam Pasal 24 atau LPS memutuskan untuk
+ dimaksud dalam
+
+Pasal 24
+atau LPS memutuskan untuk
 
  tidak melanjutkan proses penyelamatan, maka LPS
 

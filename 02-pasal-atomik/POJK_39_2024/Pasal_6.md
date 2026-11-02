@@ -17,12 +17,30 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Perusahaan yang akan melakukan perubahan
-kepemilikan melalui pengambilalihan berasal dari hasil
-warisan, dikecualikan dari kewajiban penyesuaian
-Modal Disetor sebagaimana dimaksud pada ayat (1).
+(1) Modal Disetor Perusahaan ditetapkan berdasarkan
+lingkup wilayah usaha kabupaten/kota, provinsi, atau
+nasional.
+(2) Perusahaan harus memiliki Modal Disetor pada saat
+pendirian paling sedikit:
 
 -----
+
+a. Rp2.000.000.000,00 (dua miliar rupiah), untuk
+lingkup wilayah usaha kabupaten/kota;
+b. Rp8.000.000.000,00 (delapan miliar rupiah),
+untuk lingkup wilayah usaha provinsi; atau
+c. Rp100.000.000.000,00 (seratus miliar rupiah),
+untuk lingkup wilayah usaha nasional.
+(3) Modal Disetor sebagaimana dimaksud pada ayat (2)
+harus disetor secara tunai dan penuh yang
+ditempatkan dalam bentuk deposito berjangka atas
+nama Perusahaan pada salah satu:
+a. bank umum, bank umum syariah, atau unit usaha
+syariah dari bank umum di Indonesia bagi
+Perusahaan Pergadaian; atau
+b. bank umum syariah atau unit usaha syariah dari
+bank umum di Indonesia bagi Perusahaan
+Pergadaian Syariah.
 
 ## Penjelasan Resmi
 

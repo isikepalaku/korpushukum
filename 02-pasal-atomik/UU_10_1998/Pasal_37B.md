@@ -55,7 +55,9 @@ mengamandemen: []
 
 ## "Pasal 42
 
-Bank wajib memberikan keterangan sebagaimana dimaksud dalam Pasal 41, Pasal 41A, dan Pasal 42."
+Bank wajib memberikan keterangan sebagaimana dimaksud dalam Pasal 41,
+
+Pasal 41A, dan Pasal 42."
 
 - 32.Menambah ketentuan baru di antara Pasal 44 dan Pasal 45 yang dijadikan Pasal 44A, yang berbunyi sebagai berikut:
 
@@ -81,7 +83,9 @@ Bank wajib memberikan keterangan sebagaimana dimaksud dalam Pasal 41, Pasal 41A,
 
 ## "Pasal 47A
 
-Anggota Dewan Komisaris, Direksi, atau pegawai bank yang dengan sengaja tidak memberikan keterangan yang wajib dipenuhi sebagaimana dimaksud dalam Pasal 42A dan Pasal 44a, diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 7 (tujuh) tahun serta denda sekurang-kurangnya Rp4.000.000.000.00 (empat miliar rupiah) dan paling banyak Rp15.000.000.000,00 (lima belas miliar rupiah)."
+Anggota Dewan Komisaris, Direksi, atau pegawai bank yang dengan sengaja tidak memberikan keterangan yang wajib dipenuhi sebagaimana dimaksud dalam
+
+Pasal 42A dan Pasal 44a, diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 7 (tujuh) tahun serta denda sekurang-kurangnya Rp4.000.000.000.00 (empat miliar rupiah) dan paling banyak Rp15.000.000.000,00 (lima belas miliar rupiah)."
 
 - 36.Ketentuan Pasal 48 diubah, sehingga Pasal 48 seluruhnya menjadi berbunyi sebagai berikut:
 
@@ -160,8 +164,7 @@ Bank yang telah memiliki izin usaha pada saat Undang-undang ini mulai berlaku, d
 
 Badan khusus yang melakukan tugas penyehatan Perbankan yang telah ada sebelum berlakunya Undang-Undang ini dinyatakan tetap berlaku."
 
-## Pasal II
-
+## Pasal 11
 1. Dengan berlakunya Undang-undang ini, Peraturan tentang Usaha Perkreditan Yang Diselenggarakan Oleh Kelurahan Di Daerah Kadipaten Paku Alaman (Rijksblaad Dari Daerah Paku Alaman
 
 Tahun 1937 Nomor 9), dinyatakan tidak berlaku.

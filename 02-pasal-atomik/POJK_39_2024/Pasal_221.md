@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan dengan status pengawasan khusus
-sebagaimana dimaksud dalam Pasal 217 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 217
+ayat (2)
 huruf c, jangka waktu status pengawasan ditetapkan
 Otoritas Jasa Keuangan paling lama 6 (enam) bulan
 sejak tanggal surat pemberitahuan Otoritas Jasa

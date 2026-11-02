@@ -17,45 +17,70 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-diberlakukannya Peraturan Otoritas Jasa Keuangan
-ini;
-d. laporan rencana pengkinian data sebagaimana
-dimaksud dalam Pasal 51 ayat (4) huruf b yang
-disampaikan setiap tahun paling lama akhir bulan
-Desember sebelum periode pengkinian data;
-e. laporan realisasi pengkinian data sebagaimana
-dimaksud dalam Pasal 51 ayat (4) huruf c yang
-disampaikan setiap tahun paling lama akhir bulan
-Januari setelah periode pengkinian data berakhir;
-f. tembusan laporan Pemblokiran secara serta merta
-dengan melampirkan berita acara Pemblokiran secara
-serta merta, sebagaimana dimaksud dalam Pasal 53
-ayat (7) dan ayat (8) paling lama 3 (tiga) hari kerja
-sejak PJK menerima DTTOT dan DPPSPM; dan
-g. tembusan laporan nihil sebagaimana dimaksud
-dalam Pasal 53 ayat (9) dan ayat (10) paling lama 3
+(1) PJK wajib memiliki kebijakan dan prosedur sebagaimana
+dimaksud dalam
+
+Pasal 3
+huruf b, untuk mengelola dan
+memitigasi risiko TPPU, TPPT, dan/atau PPSPM yang
+diidentifikasi sesuai dengan penilaian risiko.
+(2) Kebijakan dan prosedur sebagaimana dimaksud pada ayat
+(1) wajib dituangkan secara tertulis, dan dapat disertai
+dengan diagram alur dan penjelasan dari setiap tahapan
+prosedur pada diagram alur tersebut.
 
 -----
 
-(tiga) hari kerja sejak PJK menerima DTTOT dan
-DPPSPM.
-(2) Penyampaian laporan sebagaimana dimaksud pada ayat
-(1) wajib disampaikan kepada kepala satuan kerja
-pengawasan melalui sistem elektronik yang
-diselenggarakan oleh Otoritas Jasa Keuangan.
-(3) Dalam hal sistem elektronik sebagaimana dimaksud pada
-ayat (2) belum tersedia atau mengalami gangguan, PJK
-wajib menyampaikan dokumen secara fisik atau melalui
-surat elektronik ke Otoritas Jasa Keuangan yang
-ditujukan kepada kepala satuan kerja pengawasan.
-(4) Dalam hal tanggal pelaporan sebagaimana dimaksud pada
-ayat (1) jatuh pada hari libur, penyampaian laporan
-dilakukan pada hari kerja berikutnya.
-(5) Dalam hal terdapat perubahan atas kebijakan dan
-prosedur, dan/atau laporan rencana pengkinian data,
-yang telah disampaikan kepada Otoritas Jasa Keuangan,
-PJK wajib menyampaikan perubahan tersebut paling lama
-7 (tujuh) hari kerja sejak perubahan dilakukan.
+(3) PJK wajib melakukan reviu atas kebijakan dan prosedur
+tertulis yang telah dimiliki sebagaimana dimaksud pada
+ayat (1), sebanyak 1 (satu) kali dalam 1 (satu) tahun.
+(4) Dalam hal sesuai dengan kebutuhan PJK berdasarkan
+penilaian risiko TPPU, TPPT, dan/atau PPSPM, kegiatan,
+skala usaha, kompleksitas usaha, karakteristik usaha,
+dan/atau peristiwa atau perkembangan besar dalam
+manajemen dan operasional PJK, reviu sebagaimana
+dimaksud pada ayat (3) dapat dilakukan lebih dari 1 (satu)
+kali.
+(5) Dalam hal PJK perlu melakukan perubahan atas
+kebijakan dan prosedur yang telah ada berdasarkan reviu
+yang telah dilakukan sebagaimana dimaksud pada ayat
+(3), PJK wajib menyusun perubahan kebijakan dan
+prosedur paling lama 6 (enam) bulan sejak hasil reviu.
+(6) Kebijakan dan prosedur penerapan program APU, PPT,
+dan PPPSPM sebagaimana dimaksud pada ayat (1),
+meliputi:
+a. identifikasi dan verifikasi Nasabah;
+b. identifikasi dan verifikasi Pemilik Manfaat (Beneficial
+_Owner);_
+c. penolakan transaksi dan penutupan hubungan
+usaha;
+d. pengelolaan risiko TPPU, TPPT, dan/atau PPSPM
+yang berkelanjutan terhadap Nasabah, negara,
+produk, dan jasa serta jaringan distribusi;
+e. pemeliharaan data yang akurat terkait dengan
+transaksi, penatausahaan proses CDD, serta
+penatausahaan kebijakan dan prosedur;
+f. pengkinian dan pemantauan;
+g. pelaporan kepada pejabat senior, Direksi, dan Dewan
+Komisaris terhadap pelaksanaan kebijakan dan
+prosedur penerapan program APU, PPT, dan PPPSPM;
+dan
+h. pelaporan kepada Pusat Pelaporan dan Analisis
+Transaksi Keuangan.
+(7) Kebijakan dan prosedur sebagaimana dimaksud pada ayat
+(1), wajib mempertimbangkan faktor teknologi informasi
+yang berpotensi disalahgunakan oleh pelaku TPPU, TPPT,
+dan/atau PPSPM.
+(8) Khusus untuk bank umum, cakupan kebijakan dan
+prosedur pelaksanaan program APU, PPT, dan PPPSPM
+sebagaimana dimaksud pada ayat (1) meliputi pula Cross
+_Border Correspondent Banking dan Transfer Dana._
+
+-----
+
+(9) PJK wajib menerapkan kebijakan dan prosedur penerapan
+program APU, PPT, dan PPPSPM sebagaimana dimaksud
+pada ayat (1) secara konsisten dan berkesinambungan.
 
 ## Penjelasan Resmi
 

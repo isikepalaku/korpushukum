@@ -34,3 +34,5 @@ Tindakan tertentu di antaranya mencakup:
 
 - a. stabilisasi harga Efek dalam rangka Penawaran Umum sepanjang hal tersebut dicantumkan dalam Prospektus; dan
 - b. penjualan dan pembelian Efek oleh Perusahaan Efek atau Pengguna Jasa selaku pembentuk pasar untuk rekeningnya sendiri secara terus-menerus untuk menjaga likuiditas perdagangan Efek pada penyelenggara pasar.
+
+Angka 38

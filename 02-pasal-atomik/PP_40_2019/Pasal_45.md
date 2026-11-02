@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Lokasi basis data sebagaimana dimaksud dalam Pasal 41
+Lokasi basis data sebagaimana dimaksud dalam
+
+Pasal 41
 ayat (3) huruf e meliputi:
 a. unit kerja yang membidangi urusan Administrasi
 Kependudukan dan Pencatatan Sipil pada Kementerian

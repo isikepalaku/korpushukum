@@ -4,7 +4,7 @@ judul: "Map of Content - Pencegahan dan Penanganan Krisis Sistem Keuangan"
 kode_uu: UU_9_2016
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_9_2016]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Pencegahan dan Penanganan Krisis Sistem Keuangan (UU_9_2016)
@@ -17,22 +17,22 @@ last_updated: 2026-11-01
 - [[Pasal_2]]: Pencegahan dan penanganan Krisis Sistem Keuangan
 - [[Pasal_3]]: (1) Pencegahan dan penanganan Krisis Sistem Keuangan
 - [[Pasal_4]]: (1) Dengan Undang-Undang ini dibentuk Komite Stabilitas
-- [[Pasal_5]]: 
-- [[Pasal_6]]: sekretariat Komite Stabilitas Sistem Keuangan yang
+- [[Pasal_5]]: Komite Stabilitas Sistem Keuangan bertugas:
+- [[Pasal_6]]: Komite Stabilitas Sistem Keuangan berwenang:
 - [[Pasal_7]]: (1) Dalam menjalankan tugas sebagaimana dimaksud dalam
 - [[Pasal_8]]: (1) Komite Stabilitas Sistem Keuangan menyelenggarakan
 - [[Pasal_9]]: (1) Rapat Komite Stabilitas Sistem Keuangan harus dihadiri
-- [[Pasal_10]]: untuk mufakat.
+- [[Pasal_10]]: (1) Pengambilan keputusan Komite Stabilitas Sistem
 - [[Pasal_11]]: (1) Pengambilan keputusan sebagaimana dimaksud dalam
 - [[Pasal_12]]: (1) Anggota Komite Stabilitas Sistem Keuangan melakukan
 - [[Pasal_13]]: Komite Stabilitas Sistem Keuangan menetapkan dan
 - [[Pasal_14]]: (1) Komite Stabilitas Sistem Keuangan memublikasikan dan
 - [[Pasal_15]]: Komite Stabilitas Sistem Keuangan melaporkan kepada
 - [[Pasal_16]]: (1) Anggota Komite Stabilitas Sistem Keuangan melakukan
-- [[Pasal_17]]: menerapkan rencana aksi sebagaimana dimaksud dalam
-- [[Pasal_18]]: Otoritas Jasa Keuangan, Bank Sistemik menerapkan
+- [[Pasal_17]]: (1) Untuk mencegah Krisis Sistem Keuangan di bidang
+- [[Pasal_18]]: (1) Bank Sistemik sebagaimana dimaksud dalam Pasal 17
 - [[Pasal_19]]: (1) Dalam hal Bank Sistemik sebagaimana dimaksud dalam
-- [[Pasal_20]]: selain Bank Sistemik.
+- [[Pasal_20]]: (1) Bank Sistemik yang mengalami kesulitan likuiditas dapat
 - [[Pasal_21]]: (1) Dalam hal terdapat Bank Sistemik yang mengalami
 - [[Pasal_22]]: (1) Penanganan permasalahan solvabilitas Bank Sistemik oleh
 - [[Pasal_23]]: Dalam pengalihan sebagian atau seluruh aset dan/atau
@@ -46,7 +46,7 @@ last_updated: 2026-11-01
 - [[Pasal_31]]: (1) Penanganan permasalahan solvabilitas Bank Sistemik
 - [[Pasal_32]]: (1) Anggota Komite Stabilitas Sistem Keuangan dapat
 - [[Pasal_33]]: Dalam hal Presiden menolak rekomendasi status Stabilitas
-- [[Pasal_34]]: mengusulkan kepada Presiden untuk memutuskan
+- [[Pasal_34]]: Dalam hal Presiden memutuskan Stabilitas Sistem Keuangan
 - [[Pasal_35]]: Selain langkah penanganan sebagaimana dimaksud dalam
 - [[Pasal_36]]: (1) Dalam hal Komite Stabilitas Sistem Keuangan menilai
 - [[Pasal_37]]: (1) Ketentuan mengenai penanganan permasalahan likuiditas
@@ -64,8 +64,7 @@ last_updated: 2026-11-01
 - [[Pasal_49]]: Keputusan yang ditetapkan oleh Komite Stabilitas Sistem
 - [[Pasal_50]]: Pada saat Undang-Undang ini mulai berlaku, keputusan
 - [[Pasal_51]]: Tugas dan wewenang sekretariat Komite Stabilitas Sistem
-- [[Pasal_52]]: Penetapan Bank Sistemik sebagaimana dimaksud dalam Pasal
+- [[Pasal_52]]: Penetapan Bank Sistemik sebagaimana dimaksud dalam
 - [[Pasal_53]]: (1) Pada saat Undang-Undang ini mulai berlaku:
 - [[Pasal_54]]: Peraturan pelaksanaan dari Undang-Undang ini harus
 - [[Pasal_55]]: Undang-Undang ini mulai berlaku pada tanggal diundangkan.
-- [[Pasal_69]]: 2011 tentang Otoritas Jasa Keuangan (Lembaran

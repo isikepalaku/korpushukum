@@ -63,6 +63,8 @@ dasar Instansi Pelaksana di Indonesia mencatat peristiwa
 tersebut dan menjadi bukti di pengadilan sebagai dasar
 penetapan pengadilan mengenai kematian seseorang.
 
+Pasal 46 . . .
+
 ## Penjelasan Resmi
 
 Ayat (1)

@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang dalam masa damai, dengan salah satu cara sebagaimana dimaksud dalam Pasal 20 huruf b menganjurkan anggota Tentara Nasional Indonesia yang sedang dalam dinas aktif untuk melarikan diri atau dengan salah satu cara sebagaimana dimaksud dalam Pasal 21 ayat (1) memudahkan pelarian, dipidana dengan pidana penjara paling lama 9 (sembilan) Bulan atau pidana denda paling banyak kategori IL
+Setiap Orang yang dalam masa damai, dengan salah satu cara sebagaimana dimaksud dalam
+
+Pasal 20
+huruf b menganjurkan anggota Tentara Nasional Indonesia yang sedang dalam dinas aktif untuk melarikan diri atau dengan salah satu cara sebagaimana dimaksud dalam Pasal 21 ayat (1) memudahkan pelarian, dipidana dengan pidana penjara paling lama 9 (sembilan) Bulan atau pidana denda paling banyak kategori IL
 
 ## Penjelasan Resmi
 

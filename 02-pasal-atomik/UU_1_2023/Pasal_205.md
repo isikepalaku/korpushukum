@@ -22,4 +22,4 @@ Setiap Orang yang mengumumkan, memberitahukan, atau memberikan kepada orang yang
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukup jeIas.

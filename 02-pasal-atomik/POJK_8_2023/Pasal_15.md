@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penanggung jawab penerapan program APU, PPT, dan PPPSPM
-sebagaimana dimaksud dalam Pasal 10 ayat (2), mempunyai
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (2), mempunyai
 wewenang meliputi:
 a. memperoleh akses terhadap informasi yang dibutuhkan
 yang ada di seluruh unit organisasi PJK;

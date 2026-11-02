@@ -24,6 +24,10 @@ Pada saat Undang-Undang ini mulai berlaku, ketentuan mengenai:
 
 Undang-Undang Nomor 37 Tahun 2004 tentang Kepailitan dan Penundaan Kewajiban Pembayaran Utang (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 131, Tambahan Lembaran Negara Republik Indonesia Nomor 4443) dicabut dan dinyatakan tidak berlaku.
 
+Pasal 328 ...
+
+**PRESIDEN REPUBLIK INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

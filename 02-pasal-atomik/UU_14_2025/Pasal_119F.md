@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengawasan Ibadah Umrah sebagaimana dimaksud dalam Pasal 119C dilaksanakan terhadap pelaksanaan, pembinaan, pelayanan, dan pelindungan yang dilakukan oleh PPIU kepada Jemaah Umrah.
+Pengawasan Ibadah Umrah sebagaimana dimaksud dalam
+
+Pasal 119C dilaksanakan terhadap pelaksanaan, pembinaan, pelayanan, dan pelindungan yang dilakukan oleh PPIU kepada Jemaah Umrah.
 
 ## Penjelasan Resmi
 

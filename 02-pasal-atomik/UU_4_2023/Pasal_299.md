@@ -24,7 +24,10 @@ mengamandemen: []
 
 sebagaimana ...
 
-sebagaimana dimaksud dalam Pasal 118 ayat (1) dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (tiga) tahun dan pidana denda paling sedikit Rpl.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
+sebagaimana dimaksud dalam
+
+Pasal 118
+ayat (1) dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (tiga) tahun dan pidana denda paling sedikit Rpl.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
 
 - (2) Dalam hal tindakan sebagaimana dimaksud pada ayat (1) mengakibatkan kerugian terhadap harta benda atau kerusakan barang, selain dipidana dengan pidana penjara dan pidana denda sebagaimana dimaksud pada ayat (1), pelaku juga dipidana dengan pidana tambahan berupa penggantian kerugian atas harta benda atau kerusakan barang.
 - (3) Pidana tambahan berupa penggantian kerugian atas harta benda atau kerusakan barang sebagaimana dimaksud pada ayat (2) dikembalikan kepada pihak yang dirugikan.
@@ -35,6 +38,10 @@ sebagaimana dimaksud dalam Pasal 118 ayat (1) dipidana dengan pidana penjara pal
 - (6) Dalam hal terdapat alasan kuat termasuk proses pelepasan aset transaksi jual beli dan pengalihan hak, jangka waktu sebagaimana dimaksud pada ayat (5) dapat diperpanjang paling lama 1 (satu) bulan.
 - (7) Dalam hal terpidana tidak membayar pidana denda sebagaimana dimaksud pada ayat (1) dan/atau pidana tambahan berupa ganti kerugian sebagaimana dimaksud pada ayat (2), harta benda terpidana disita dan dilelang oleh jaksa untuk melunasi denda dan ganti kerugian.
 - (8) Dalam hal penyitaan dan pelelangan harta benda sebagaimana dimaksud pada ayat (7) tidak cukup atau tidak memungkinkan untuk dilaksanakan, pidana denda dan pidana tambahan berupa ganti kerugian yang tidak dibayar diganti dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 8 (delapan) tahun.
+
+Pasal 300 ...
+
+**PRESIDEN REPUBUK INDONESIA**
 
 ## Penjelasan Resmi
 

@@ -18,37 +18,10 @@ mengamandemen:
 
 ## Batang Tubuh
 
-91 ayat (1), ayat (2), ayat (5), ayat (6), ayat (7), Pasal
-92, Pasal 93 ayat (1), ayat (2), Pasal 94 ayat (2),
-ayat (3), Pasal 96, Pasal 97 ayat (1), Pasal 98 ayat
-(1), Pasal 99, Pasal 100 ayat (1), ayat (3), ayat (5),
-
------
-
-dan ayat (6), dikenakan sanksi administratif
-berupa:
-a. peringatan tertulis;
-b. penghentian sementara, sebagian, atau
-seluruh kegiatan;
-c. pencantuman Pihak Utama dalam daftar
-orang tercela di sektor keuangan; dan/atau
-d. pencabutan izin usaha.
-(2) Sanksi administratif sebagaimana dimaksud pada
-ayat (1) huruf b, huruf c, dan huruf d dapat
-dikenakan dengan atau tanpa didahului
-pengenaan sanksi administratif berupa peringatan
-tertulis sebagaimana dimaksud pada ayat (1)
-huruf a.
-
-67. Judul Bab VIII diubah sehingga berbunyi sebagai
-berikut:
-
-BAB VIII
-AKTIVITAS PENDUKUNG
-
-68. Ketentuan Pasal 102 diubah sehingga berbunyi sebagai
-berikut:
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 
 Dihapus.
+
+Angka 63

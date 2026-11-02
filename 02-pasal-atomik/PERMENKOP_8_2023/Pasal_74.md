@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelindungan terhadap usaha simpan pinjam oleh
-Koperasi sebagaimana dimaksud dalam Pasal 72 ayat (1),
+Koperasi sebagaimana dimaksud dalam
+
+Pasal 72
+ayat (1),
 Menteri, gubernur, dan bupati/wali kota dapat
 melakukan penyehatan, pengembangan, dan efisiensi
 usaha simpan pinjam oleh Koperasi melalui:

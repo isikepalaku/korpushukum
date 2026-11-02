@@ -17,49 +17,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 80 ayat (2)
-dan/atau Pasal 84 ayat (2);
-b. mencabut izin usaha dan/atau izin pembentukan
-UUS dari Perusahaan yang meleburkan diri (jika
-ada), yang mulai berlaku efektif terhitung sejak
-anggaran dasar disahkan, disetujui oleh, atau
-diberitahukan kepada instansi yang berwenang;
-dan
+(1) Untuk pelaporan pelaksanaan RUPS yang menyetujui
+Peleburan sebagaimana dimaksud dalam
 
------
-
-c. memberikan persetujuan atau penolakan atas
-permohonan izin usaha Perusahaan hasil
-Peleburan dan/atau izin pembentukan UUS
-kepada Perusahaan yang merupakan hasil
-Peleburan (jika ada), yang mulai berlaku efektif
-terhitung sejak anggaran dasar disahkan, disetujui
-oleh, atau diberitahukan kepada instansi yang
-berwenang.
-(3) Dalam hal terdapat kekurangan dokumen sebagaimana
-dimaksud dalam Pasal 80 ayat (2) dan Pasal 84 ayat (2),
-Otoritas Jasa Keuangan menyampaikan permintaan
-kelengkapan dokumen kepada Perusahaan.
-(4) Perusahaan harus menyampaikan kelengkapan
-dokumen paling lambat 20 (dua puluh) hari kerja sejak
-tanggal surat permintaan kelengkapan dokumen dari
-Otoritas Jasa Keuangan.
-(5) Apabila dalam jangka waktu 20 (dua puluh) hari kerja
-sejak tanggal surat permintaan kelengkapan dokumen
-sebagaimana dimaksud pada ayat (3), Otoritas Jasa
-Keuangan belum menerima kelengkapan dokumen
-dimaksud, Perusahaan dianggap membatalkan
-permohonan.
-(6) Dalam hal permohonan izin pembentukan UUS
-sebagaimana dimaksud pada ayat (1) disetujui, Otoritas
-Jasa Keuangan menetapkan keputusan pemberian izin
-usaha Perusahaan hasil Peleburan dan/atau izin
-pembentukan UUS.
-(7) Dalam hal permohonan izin pembentukan UUS
-sebagaimana dimaksud pada ayat (1) ditolak, Otoritas
-Jasa Keuangan menyampaikan pemberitahuan secara
-tertulis dan disertai dengan alasan penolakan.
+Pasal 80
+ayat
+(1), Perusahaan hasil Peleburan dapat mengajukan
+permohonan izin pembentukan UUS yang sebelumnya
+dimiliki oleh Perusahaan yang meleburkan diri atas
+namanya kepada Otoritas Jasa Keuangan.
+(2) Untuk memperoleh izin pembentukan UUS
+sebagaimana dimaksud pada ayat (1), Direksi harus
+mengajukan permohonan izin kepada Otoritas Jasa
+Keuangan dengan melampirkan dokumen persyaratan
+izin pembentukan UUS bagi Perusahaan hasil
+Peleburan tercantum dalam Lampiran pada tabel 29
+yang merupakan bagian tidak terpisahkan dari
+Peraturan Otoritas Jasa Keuangan ini.
+(3) Perusahaan hasil Peleburan dilarang menjalankan UUS
+yang sebelumnya dimiliki oleh Perusahaan yang
+meleburkan diri sebelum memperoleh izin dari Otoritas
+Jasa Keuangan.
 
 ## Penjelasan Resmi
 

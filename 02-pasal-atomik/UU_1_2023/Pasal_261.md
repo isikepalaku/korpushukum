@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '261'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,5 +24,11 @@ mengamandemen: []
 Paragraf 6 Melakukan Kekerasan terhadap Orang atau Barang secara Bersama-sama Di Muka Umum
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Yang dimaksud dengan umenggabungkan dirl'tidak berarti harus secara alrtif telah melakukan suatu perbuatan yang dilarang berdasarkan ketentuan peraturan perundang-undangan. Hanya menjadi anggota organisasi yang dimaksud dalam ketentuan ini sudah diancam dengan pidana.
+
+Ayat (2)
 
 Cukup jelas.

@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Berdasarkan pengelompokan Bank menjadi 4 (empat) KBMI
-sebagaimana dimaksud dalam Pasal 138, dilakukan
+sebagaimana dimaksud dalam
+
+Pasal 138, dilakukan
 penyesuaian terhadap ketentuan kewajiban pembentukan
 _capital conservation buffer yang berlaku untuk Bank yang_
 termasuk dalam BUKU 3 dan BUKU 4 menjadi berlaku

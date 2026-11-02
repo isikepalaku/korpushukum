@@ -20,7 +20,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Bank Indonesia dapat menetapkan pengecualian dari ketentuan
-sebagaimana dimaksud dalam Pasal 34 ayat (2) bagi Bank Perkreditan
+sebagaimana dimaksud dalam
+
+Pasal 34
+ayat (2) bagi Bank Perkreditan
 Rakyat.
 
 ## Penjelasan Resmi

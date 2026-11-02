@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PUJK wajib menyampaikan laporan realisasi sebagaimana
-dimaksud dalam Pasal 13 ayat (3) dan ayat (4) secara
+dimaksud dalam
+
+Pasal 13
+ayat (3) dan ayat (4) secara
 semesteran.
 (2) Penyampaian laporan realisasi sebagaimana dimaksud
 pada ayat (1) dilakukan paling lambat pada tanggal 31 Juli
@@ -32,14 +35,23 @@ sebagaimana dimaksud pada ayat (2) disampaikan pada 1
 batas akhir waktu penyampaian sampai dengan paling
 lama 30 (tiga puluh) hari, PUJK dinyatakan terlambat
 menyampaikan laporan realisasi sebagaimana dimaksud
-dalam Pasal 13 ayat (3) dan ayat (4).
+dalam
+
+Pasal 13
+ayat (3) dan ayat (4).
 (5) Apabila sampai dengan berakhirnya batas waktu
 keterlambatan sebagaimana dimaksud pada ayat (4) PUJK
 belum menyampaikan laporan realisasi, PUJK dinyatakan
 tidak menyampaikan laporan realisasi sebagaimana
-dimaksud dalam Pasal 13 ayat (3) dan ayat (4).
+dimaksud dalam
+
+Pasal 13
+ayat (3) dan ayat (4).
 (6) PUJK yang dinyatakan tidak menyampaikan laporan
-realisasi sebagaimana dimaksud dalam Pasal 13 ayat (3)
+realisasi sebagaimana dimaksud dalam
+
+Pasal 13
+ayat (3)
 dan ayat (4) tetap wajib menyampaikan laporan realisasi
 kepada Otoritas Jasa Keuangan.
 (7) PUJK yang terlambat menyampaikan laporan realisasi

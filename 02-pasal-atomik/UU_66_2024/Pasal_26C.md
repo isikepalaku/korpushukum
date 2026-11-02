@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pendanaan penyediaan sarana dan prasarana penunjang sebagaimana dimaksud dalam Pasal 26E ayat (1) dapat bersumber dari:
+Pendanaan penyediaan sarana dan prasarana penunjang sebagaimana dimaksud dalam
+
+Pasal 26E ayat (1) dapat bersumber dari:
 
 - a. Anggaran Pendapatan dan Belanja Negara;
 - b. anggaran pendapatan dan belanja daerah provinsi;

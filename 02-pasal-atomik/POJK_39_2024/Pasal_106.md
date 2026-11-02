@@ -17,8 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Apabila dalam jangka waktu sebagaimana dalam Pasal
-104 ayat (1) RUPS tidak dapat diselenggarakan atau
+(1) Apabila dalam jangka waktu sebagaimana dalam Pasal 104 ayat (1) RUPS tidak dapat diselenggarakan atau
 RUPS dapat diselenggarakan tetapi tidak berhasil
 memutuskan Pembubaran dan/atau tidak berhasil
 membentuk Tim Likuidasi, Otoritas Jasa Keuangan:

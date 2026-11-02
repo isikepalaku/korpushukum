@@ -17,29 +17,25 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dikenakan sanksi administratif berupa:
-a. peringatan tertulis;
-b. penurunan tingkat kesehatan; dan/atau
-c. larangan untuk memasarkan Produk Asuransi
-atau Produk Asuransi dengan Prinsip Syariah
-untuk lini usaha tertentu.
-(2) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 76 ayat (1), dikenakan sanksi
-administratif tambahan berupa denda administratif
-sebesar Rp500.000,00 (lima ratus ribu rupiah) per hari
-keterlambatan dan paling banyak sebesar
-Rp100.000.000,00 (seratus juta rupiah).
-(3) Dalam hal terjadi pelanggaran ketentuan sebagaimana
-dimaksud pada ayat (1) namun pelanggaran telah
-diperbaiki, Otoritas Jasa Keuangan memberikan
-sanksi peringatan tertulis yang berakhir dengan
-sendirinya.
-(4) Dalam hal pelanggaran atas ketentuan sebagaimana
-dimaksud pada ayat (1) telah dipenuhi, Otoritas Jasa
-Keuangan mencabut sanksi peringatan tertulis.
+Perusahaan Asuransi dan Perusahaan Asuransi Syariah
+yang diperintahkan oleh Otoritas Jasa Keuangan untuk
+menghentikan Produk Asuransi sebagaimana dimaksud
+dalam
 
-Bagian Ketujuh
-Penilaian Kembali bagi Pihak Utama
+Pasal 73
+ayat (1) huruf b wajib:
+a. menghentikan penawaran, pemasaran, dan/atau
+penutupan pertanggungan/kepesertaan baru atas
+Produk Asuransi;
+b. menyampaikan informasi kepada Pemegang Polis,
+Tertanggung, atau Peserta atas penghentian Produk
+Asuransi;
+c. menyampaikan rencana tindak kepada Otoritas Jasa
+Keuangan atas penghentian Produk Asuransi paling
+lama 1 (satu) bulan sejak Perusahaan Asuransi atau
+Perusahaan Asuransi Syariah diperintahkan untuk
+menghentikan Produk Asuransi; dan
+d. mengimplementasikan rencana tindak.
 
 ## Penjelasan Resmi
 

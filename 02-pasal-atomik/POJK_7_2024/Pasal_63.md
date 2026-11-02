@@ -36,7 +36,10 @@ sebagaimana dimaksud pada ayat (2), OJK melakukan
 penelitian atas:
 a. kelengkapan dokumen; dan
 b. pemenuhan persyaratan sebagaimana dimaksud
-dalam Pasal 62 ayat (2).
+dalam
+
+Pasal 62
+ayat (2).
 
 ## Penjelasan Resmi
 

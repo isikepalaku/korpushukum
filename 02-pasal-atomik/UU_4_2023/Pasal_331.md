@@ -27,6 +27,10 @@ Pada saat Undang-Undang ini mulai berlaku, semua peraturan perundang-undangan ya
 
 dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan Undang-Undang ini.
 
+Pasal 332 ...
+
+**-523 -**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

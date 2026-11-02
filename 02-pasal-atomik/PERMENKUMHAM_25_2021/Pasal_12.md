@@ -22,7 +22,10 @@ mengamandemen: []
 
 permohonan pendaftaran Jaminan Fidusia sebagaimana
 
-dimaksud dalam Pasal 10 ayat (3) huruf a, huruf b, huruf
+dimaksud dalam
+
+Pasal 10
+ayat (3) huruf a, huruf b, huruf
 
 c, huruf d, dan huruf f yang diketahui setelah sertifikat
 

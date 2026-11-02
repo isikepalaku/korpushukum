@@ -53,6 +53,13 @@ mengamandemen: []
 
 Paragraf 7 Autentikasi Situs Web
 
+Pasal 70
+Autentikasi situs web terdiri dari:
+
+- a. autentikasi situs web tersertifikasi; dan
+
+- b. autentikasi situs web tidak tersertifikasi.
+
 ## Penjelasan Resmi
 
 Cukupjelas.

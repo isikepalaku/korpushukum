@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Keuntungan sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf a atau kerugian yang dialami oleh BUMN merupakan keuntungan atau kerugian pada BUMN.
+Keuntungan sebagaimana dimaksud dalam
+
+Pasal 2
+ayat (1) huruf a atau kerugian yang dialami oleh BUMN merupakan keuntungan atau kerugian pada BUMN.
 
 25. Ketentuan Pasal 4C diubah sehingga berbunyi sebagai berikut:
 

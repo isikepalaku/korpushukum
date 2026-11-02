@@ -17,21 +17,35 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dengan Peraturan OJK mengenai pelaporan BPR atau BPR
-Syariah melalui sistem pelaporan OJK.
-(6) BPR atau BPR Syariah yang terlambat menyampaikan
-laporan sebagaimana dimaksud dalam Pasal 114 ayat (3)
-dan/atau Pasal 127 ayat (3), dikenai sanksi administratif
-berupa denda sebesar Rp100.000,00 (seratus ribu rupiah)
-per hari kerja dan paling banyak Rp5.000.000,00 (lima
-juta rupiah).
-(7) Pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (6) tidak menghilangkan kewajiban
-penyampaian laporan bagi BPR atau BPR Syariah yang
-belum menyampaikan laporan dimaksud.
+(1) BPR atau BPR Syariah yang telah memperoleh izin
+Pengambilalihan wajib mengumumkan hasil
+Pengambilalihan dalam jangka waktu paling lama 30 (tiga
+puluh) hari sejak tanggal izin Pengambilalihan melalui
+surat kabar dan papan pengumuman di kantor BPR atau
+BPR Syariah hasil Pengambilalihan.
+(2) BPR atau BPR Syariah wajib menyampaikan laporan
+pelaksanaan Pengambilalihan secara daring melalui
+sistem pelaporan OJK paling lama 10 (sepuluh) hari kerja
+setelah tanggal pengumuman.
+(3) Dalam hal sistem pelaporan OJK secara daring belum
+tersedia, BPR atau BPR Syariah wajib menyampaikan
+laporan pelaksanaan Pengambilalihan kepada OJK paling
+lama 10 (sepuluh) hari kerja setelah tanggal pengumuman.
+(4) Laporan sebagaimana dimaksud pada ayat (2) dan ayat (3)
+disertai dengan:
+a. fotokopi akta perubahan anggaran dasar BPR atau
+BPR Syariah hasil Pengambilalihan;
+b. fotokopi akta Pengambilalihan;
+c. fotokopi persetujuan atau penerimaan
+pemberitahuan instansi yang berwenang terhadap
+perubahan anggaran dasar; dan
+d. bukti pengumuman sebagaimana dimaksud pada
+ayat (1).
 
-BAB VIII
-KONSOLIDASI BPR DAN BPR SYARIAH
+Bagian Keempat
+Penggabungan, Peleburan, dan Pengambilalihan
+
+atas Perintah OJK
 
 ## Penjelasan Resmi
 

@@ -5,7 +5,7 @@ uu_induk: Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaa
 kode_uu: POJK_46_2024
 pasal: '109'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_46_2024
@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang telah melakukan pembubaran
-sebagaimana dimaksud dalam Pasal 108 wajib
+sebagaimana dimaksud dalam
+
+Pasal 108
+wajib
 melaporkan pelaksanaan pembubaran kepada
 Otoritas Jasa Keuangan paling lama 15 (lima belas)
 hari kerja terhitung sejak tanggal anggaran dasar
@@ -37,3 +40,5 @@ berikut:
 Cukup jelas.
 
 -----
+
+Angka 57

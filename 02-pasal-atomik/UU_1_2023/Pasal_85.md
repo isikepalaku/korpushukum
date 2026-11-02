@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '85'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -48,5 +48,67 @@ c. persetujuan . . .
 - c. sanksi jika terpidana tidak menjalani pidana kerja sosial yang dijatuhkan.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Pidana kerja sosial dapat diterapkan sebagai alternatif pidana penjara jangka pendek dan denda yang ringan. Pelaksanaan pidana ke{a sosial dapat dilakukan di rumah sakit, rumah panti asuhan, panti lansia, sekolah, atau lembagalembaga sosial lainnya, dengan sebanyak mungkin disesuaikan dengan profesi terpidana.
+
+**Ayat (2)**
+
+Ketentuan ini dimaksudkan sebagai pedoman bagi hakim untuk menjatuhkan bentuk pidana kerja sosial.
+
+Hurufa
+
+Cukup jelas.
+
+Hurufb
+
+Cukup jelas.
+
+**Hurufc**
+
+Salah satu pertimbangan yang harus diperhatikan dalam penjatutran pidana ke{a sosial adalah harrs ada persetujuan terdalsra sesuai dengan ketentuan daJarn tle Conuention for the Protectian of lluman Righfs ann Fltndamental Frcd.om (IleatA of Rome 195O) dan the International Couenant on Ciuil and Politiul Rights (tle Neta Yo* Conuention, 1966).
+
+**Hurufd**
+
+Riwayat sosial terdakwa diperlukan untuk menilai latar belakang terdakwa serta kesiapan yang bersangkutan, baik secara fisik maupun mental dalam menjalani pidana kerja sosial.
+
+Huruf e
+
+Cukup jelas.
+
+Hunrf f
+
+Cukup jelas.
+
+Hurufg
+
+Cukup jelas.
+
+Ayat (s)
+
+Pidana ke{a sosial ini tidal&lt; dibayar karena sifatnya sebagai pidana. Oleh karena itu, pelaksanaan pidana ini tidak boleh mengandung hal-hal yang bersifat komersial.
+
+Ayat (4)
+
+Cukup jelas.
+
+Ayat (s)
+
+Cukup jelas.
+
+Ayat (6)
+
+Cukupjelas.
+
+Ayat (7)
+
+Cukup jelas.
+
+Ayat (8)
+
+Dalam melakukan pembimbingan, pembimbing kemasyarakatan dapa.t bekerja sama dengan lembaga pemerintah yang membidangi peke{aan sosial.
+
+Ayat (9)
 
 Cukup jelas.

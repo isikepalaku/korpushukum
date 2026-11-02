@@ -19,6 +19,11 @@ mengamandemen: []
 
 Perjanjian sebagaimana dimaksud dalam Pasal 130,
 
+Pasal 131, dan Pasal 132 dapat ditandatangani
+menggunakan tanda tangan elektronik atau bentuk lain
+yang dapat diakses Pengguna melalui Sistem Elektronik
+Penyelenggara sesuai dengan ketentuan perundangundangan.
+
 ## Penjelasan Resmi
 
 Bentuk lain antara lain dilakukan dengan cara memilih fitur yang

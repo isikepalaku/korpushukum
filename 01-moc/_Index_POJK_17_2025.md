@@ -4,7 +4,7 @@ judul: "Map of Content - Penawaran Efek Melalui Layanan Urun Dana Berbasis Tekno
 kode_uu: POJK_17_2025
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_17_2025]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi (POJK_17_2025)
@@ -15,7 +15,7 @@ last_updated: 2026-11-01
 
 - [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
 - [[Pasal_2]]: (1) Kegiatan Layanan Urun Dana merupakan bagian dari
-- [[Pasal_3]]: (4) Penawaran Efek secara bertahap sebagaimana
+- [[Pasal_3]]: (1) Penawaran Efek oleh setiap Penerbit melalui Layanan
 - [[Pasal_4]]: Penerbit merupakan perusahaan publik sebagaimana
 - [[Pasal_5]]: (1) Penyelenggara dilarang melakukan kegiatan usaha
 - [[Pasal_6]]: Dalam melaksanakan kegiatan sebagai Penyelenggara,
@@ -23,17 +23,17 @@ last_updated: 2026-11-01
 - [[Pasal_8]]: (1) Penyelenggara berbentuk badan hukum perseroan
 - [[Pasal_9]]: (1) Penyelenggara sebagaimana dimaksud dalam Pasal 7
 - [[Pasal_10]]: (1) Sumber dana modal disetor untuk mendirikan
-- [[Pasal_11]]: dikenai sanksi administratif.
-- [[Pasal_12]]: disampaikan secara daring melalui sistem pelaporan
+- [[Pasal_11]]: (1) Penyelenggara wajib memiliki ekuitas paling sedikit
+- [[Pasal_12]]: (1) Penyelenggara yang melakukan peningkatan modal
 - [[Pasal_13]]: (1) Anggota Direksi:
 - [[Pasal_14]]: (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 - [[Pasal_15]]: Izin pendirian dan penyelenggaraan kegiatan usaha
-- [[Pasal_16]]: (4) Dalam memberikan persetujuan atau penolakan
+- [[Pasal_16]]: Permohonan persetujuan prinsip sebagaimana dimaksud
 - [[Pasal_17]]: (1) Persetujuan atau penolakan atas permohonan
 - [[Pasal_18]]: Dalam hal calon Penyelenggara yang permohonan
 - [[Pasal_19]]: (1) Persetujuan prinsip berlaku paling lama 12 (dua belas)
 - [[Pasal_20]]: (1) Calon Penyelenggara yang akan melakukan Layanan
-- [[Pasal_21]]: sistem perizinan Otoritas Jasa Keuangan.
+- [[Pasal_21]]: (1) Permohonan perizinan calon Penyelenggara
 - [[Pasal_22]]: (1) Dalam memberikan persetujuan atau penolakan atas
 - [[Pasal_23]]: (1) Calon Penyelenggara yang telah memperoleh izin usaha
 - [[Pasal_24]]: Calon Penyelenggara yang tidak memperoleh izin usaha dari
@@ -42,7 +42,7 @@ last_updated: 2026-11-01
 - [[Pasal_27]]: (1) Dalam hal terdapat:
 - [[Pasal_28]]: (1) Penyelenggara yang telah memperoleh izin dan
 - [[Pasal_29]]: (1) Setiap Pihak yang melanggar ketentuan sebagaimana
-- [[Pasal_30]]: a. integritas dan kelayakan keuangan bagi calon PSP atau
+- [[Pasal_30]]: (1) Calon Pihak Utama wajib memperoleh persetujuan dari
 - [[Pasal_31]]: Penilaian kemampuan dan kepatutan dilakukan untuk
 - [[Pasal_32]]: Persyaratan integritas bagi Pihak Utama sebagaimana
 - [[Pasal_33]]: Persyaratan reputasi keuangan bagi Pihak Utama
@@ -74,14 +74,14 @@ last_updated: 2026-11-01
 - [[Pasal_59]]: (1) Penyelenggara wajib:
 - [[Pasal_60]]: (1) Dalam melakukan penelaahan sebagaimana dimaksud
 - [[Pasal_61]]: Penyelenggara wajib memastikan seluruh Penerbit dan Efek
-- [[Pasal_62]]: 
+- [[Pasal_62]]: (1) Penyelenggara dapat menggunakan jasa pihak ketiga
 - [[Pasal_63]]: (1) Dalam hal terdapat perubahan material terkait
 - [[Pasal_64]]: (1) Dalam hal Penerbit menerbitkan Efek bersifat utang
-- [[Pasal_65]]: 
+- [[Pasal_65]]: (1) Dalam hal Penyelenggara melayani penawaran Efek
 - [[Pasal_66]]: (1) Penyelenggara wajib memiliki dan menerapkan seluruh
 - [[Pasal_67]]: (1) Dalam hal Penyelenggara melakukan perubahan Sistem
-- [[Pasal_68]]: administratif.
-- [[Pasal_69]]: a. ikhtisar data keuangan penting;
+- [[Pasal_68]]: Dalam menjalankan kegiatan usaha, Penyelenggara
+- [[Pasal_69]]: Penyelenggara yang telah memperoleh izin wajib
 - [[Pasal_70]]: (1) Laporan tengah tahunan sebagaimana dimaksud dalam
 - [[Pasal_71]]: (1) Penyelenggara wajib menyampaikan laporan tahunan
 - [[Pasal_72]]: (1) Penyelenggara wajib menyampaikan laporan insidentil
@@ -91,28 +91,28 @@ last_updated: 2026-11-01
 - [[Pasal_76]]: (1) Efek yang dapat ditawarkan melalui Layanan Urun
 - [[Pasal_77]]: (1) Untuk Penyelenggara yang merupakan entitas yang
 - [[Pasal_78]]: (1) Efek bersifat utang atau Sukuk yang ditawarkan
-- [[Pasal_79]]: 
+- [[Pasal_79]]: (1) Penerbit Efek bersifat ekuitas dan Efek bersifat utang
 - [[Pasal_80]]: (1) Penerbit Efek bersifat utang atau Sukuk wajib
 - [[Pasal_81]]: (1) Batas penghimpunan dana melalui Layanan Urun Dana
 - [[Pasal_82]]: (1) Penerbit dapat menetapkan jumlah minimum dana
-- [[Pasal_83]]: Masa penawaran sebagaimana dimaksud dalam Pasal 81
+- [[Pasal_83]]: Masa penawaran sebagaimana dimaksud dalam
 - [[Pasal_84]]: (1) Penerbit dapat membatalkan penawaran Efek melalui
 - [[Pasal_85]]: (1) Penyelenggara wajib menggunakan rekening
-- [[Pasal_86]]: 
+- [[Pasal_86]]: (1) Penyetoran dana oleh Pemodal untuk pembelian Efek
 - [[Pasal_87]]: Ketentuan lebih lanjut mengenai kriteria tertentu
 - [[Pasal_88]]: Rekening urun dana pemodal sebagaimana dimaksud dalam
 - [[Pasal_89]]: Otoritas Jasa Keuangan dapat menetapkan cara penyetoran
 - [[Pasal_90]]: (1) Penerbit wajib mendaftarkan Efek bersifat ekuitas
 - [[Pasal_91]]: Dalam hal Efek yang ditawarkan merupakan Efek bersifat
 - [[Pasal_92]]: Penyelenggara wajib:
-- [[Pasal_93]]: (4), ayat (5), ayat (6), ayat (8), Pasal 98 ayat (1), ayat (2),
+- [[Pasal_93]]: (1) Dalam hal Efek yang ditawarkan merupakan Efek
 - [[Pasal_94]]: Penyelenggara wajib memastikan kelengkapan persyaratan
 - [[Pasal_95]]: (1) Dalam hal Efek yang ditawarkan melalui Layanan Urun
 - [[Pasal_96]]: (1) Penyelenggara wajib menyediakan sistem bagi Pemodal
 - [[Pasal_97]]: Pemindahan hak atas Efek bersifat ekuitas berupa saham
 - [[Pasal_98]]: (1) Penyelenggara wajib mengumumkan tingkat
 - [[Pasal_99]]: Tingkat keberhasilan investasi sebagaimana dimaksud
-- [[Pasal_100]]: administratif.
+- [[Pasal_100]]: Pelaksanaan distribusi pembayaran dividen atas Efek
 - [[Pasal_101]]: (1) Pelaksanaan distribusi pembayaran bunga/imbal
 - [[Pasal_102]]: (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 - [[Pasal_103]]: (1) Dalam melakukan penghimpunan dana melalui
@@ -127,7 +127,7 @@ last_updated: 2026-11-01
 - [[Pasal_112]]: (1) Penerbit yang telah melakukan penawaran Efek bersifat
 - [[Pasal_113]]: (1) Dalam kondisi tertentu, Lembaga Penyimpanan dan
 - [[Pasal_114]]: Dalam hal Efek yang diterbitkan melalui Layanan Urun
-- [[Pasal_115]]: memperhatikan persyaratan kuorum dan jumlah suara
+- [[Pasal_115]]: (1) Penambahan modal Penerbit dilakukan berdasarkan
 - [[Pasal_116]]: (1) Keputusan rapat umum pemegang saham untuk
 - [[Pasal_117]]: (1) Seluruh saham yang diterbitkan untuk penambahan
 - [[Pasal_118]]: (1) Penerbit dapat membeli kembali sahamnya sesuai
@@ -143,7 +143,7 @@ last_updated: 2026-11-01
 - [[Pasal_128]]: (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 - [[Pasal_129]]: Dalam menyelenggarakan Layanan Urun Dana,
 - [[Pasal_130]]: (1) Perjanjian penyelenggaraan Layanan Urun Dana antara
-- [[Pasal_131]]: dikenai sanksi administratif.
+- [[Pasal_131]]: (1) Perjanjian penerbitan Efek bersifat utang atau Sukuk
 - [[Pasal_132]]: (1) Perjanjian penyelenggaraan Layanan Urun Dana antara
 - [[Pasal_133]]: Perjanjian sebagaimana dimaksud dalam Pasal 130,
 - [[Pasal_134]]: (1) Setiap Pihak yang melanggar ketentuan sebagaimana
@@ -165,7 +165,7 @@ last_updated: 2026-11-01
 - [[Pasal_150]]: Penyelenggara wajib menerapkan program anti pencucian
 - [[Pasal_151]]: (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 - [[Pasal_152]]: Penyelenggara wajib terdaftar sebagai anggota Asosiasi yang
-- [[Pasal_153]]: (1) Pengurus Asosiasi sebagaimana dimaksud dalam Pasal
+- [[Pasal_153]]: (1) Pengurus Asosiasi sebagaimana dimaksud dalam Pasal 152 wajib berasal dari perwakilan Penyelenggara yang
 - [[Pasal_154]]: (1) Setiap Pihak yang melanggar ketentuan sebagaimana
 - [[Pasal_155]]: Penerbitan Efek bersifat utang atau Sukuk yang dilakukan
 - [[Pasal_156]]: Selain sanksi administratif sebagaimana diatur dalam

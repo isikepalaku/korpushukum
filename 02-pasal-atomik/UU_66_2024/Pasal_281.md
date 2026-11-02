@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai pelaksanaan tugas, fungsi, dan kewenangan sebagaimana dimaksud dalam Pasal 276, Pasal 277, dan Pasal 27B diaL-vr dengan Peraturan Menteri.
+Ketentuan lebih lanjut mengenai pelaksanaan tugas, fungsi, dan kewenangan sebagaimana dimaksud dalam
+
+Pasal 276, Pasal 277, dan Pasal 27B diaL-vr dengan Peraturan Menteri.
 
 62. Ketentuan Pasal 284 diubah sehingga berbunyi sebagai berikut:
 

@@ -20,7 +20,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Bank Umum yang menyelenggarakan kegiatan penitipan sebagai
-mana dimaksud dalam Pasal 6 huruf i, bertanggung jawab untuk
+mana dimaksud dalam
+
+Pasal 6
+huruf i, bertanggung jawab untuk
 menyimpan harta milik penitip, dan memenuhi kewajiban lain
 sesuai dengan kontrak.
 

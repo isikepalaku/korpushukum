@@ -21,7 +21,10 @@ mengamandemen: []
 (1) 
 Pencatatan perkawinan Orang Asing di wilayah Negara 
 Kesatuan Republik Indonesia sebagaimana dimaksud 
-dalam Pasal 50 ayat (1) huruf b, dengan memenuhi 
+dalam
+
+Pasal 50
+ayat (1) huruf b, dengan memenuhi 
 persyaratan sesuai dengan ketentuan Peraturan Presiden 
 mengenai 
 persyaratan 

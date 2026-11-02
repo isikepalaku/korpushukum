@@ -88,7 +88,7 @@ e. pemenuhan . . .
 
 - -108-
 
-**Pasa722lC**
+**Pasal 22lC**
 
 - (1) Dalam melaksanalan kewenangan pengaturan d€rn pengawasan terhadap kegiatan aset kripto, Otoritas Jasa Keuangan berwenang untuk:
 - a. menetapkan perizinan bagi LJK Aset Kripto, penunjang penyelenggaraan kegiatan aset kripto, atau pihak lain yang terkait dengan penyelenggaraan kegiatan aset kripto; dan
@@ -122,6 +122,14 @@ e. pemenuhan . . .
 **PasaJ22IE**
 
 Dalam rangka Pelindungan Konsumen sebagaimana dimaksud dalam Pasal 2L6 ayat (3) huruf e, Otoritas Jasa Keuangan, dengan berkoordinasi dengan kementerian/lembaga terkait, berwenang untuk melakukan pembekuan dan/ atau pemblokiran atas penyelenggaraan transaksi dan/ atau perdagangan aset kripto oleh pihak asing atau dalam negeri di wilayah Republik Indonesia dan/ atau kepada Warga Negara Indonesia dan/ atau badan hukum Indonesia yang tidak sesuai dengan ketentuan peraturan perundangundangan.
+
+**Pasal 221F**
+
+Ketentuan mengenai LJK Aset Ikipto sebagaimana dimaksud dalam Pasal 221A,
+
+Pasal 2218, Pasal 221C, Pasal 221D, dan Pasal 221E berlaku secara mutatis mutandis terhadap LJK AKD selain Aset Kripto.
+
+96. Ketentuan Pasad 247 diubah sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 

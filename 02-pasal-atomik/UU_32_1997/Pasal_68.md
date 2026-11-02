@@ -113,7 +113,9 @@ mengamandemen: []
 
  umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia
 
- dengan mengingat ketentuan Pasal 6, Pasal 7, dan Pasal 107
+ dengan mengingat ketentuan Pasal 6,
+
+Pasal 7, dan Pasal 107
 
  Undang-undang Nomor 8 Tahun 1981 tentang Hukum Acara
 

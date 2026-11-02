@@ -29,7 +29,10 @@ dengan Peraturan Otoritas Jasa Keuangan ini.
 (2) Penyelenggara yang belum dapat mengatasi penyebab
 dikenakannya sanksi administratif sebagaimana
 dimaksud atas pelanggaran ketentuan sebagaimana
-dimaksud dalam Pasal 169 ayat (2) dikenakan saksi
+dimaksud dalam
+
+Pasal 169
+ayat (2) dikenakan saksi
 lanjutan sesuai dengan Peraturan Otoritas Jasa
 Keuangan Nomor 10/POJK.05/2022 tentang Layanan
 Pendanaan Bersama Berbasis Teknologi Informasi.

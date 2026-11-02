@@ -20,6 +20,50 @@ mengamandemen: []
 
 (1) Ciri umum Rupiah kertas sebagaimana dimaksud dalam
 
+Pasal 2
+ayat (2) paling sedikit memuat:
+
+a. gambar lambang negara ”Garuda Pancasila”;
+b. frasa ”Negara Kesatuan Republik Indonesia”;
+c. sebutan pecahan dalam angka dan huruf sebagai nilai
+
+nominalnya;
+d. tanda tangan pihak Pemerintah dan Bank Indonesia;
+e. nomor seri pecahan;
+f. teks ”DENGAN RAHMAT TUHAN YANG MAHA ESA,
+
+NEGARA KESATUAN REPUBLIK INDONESIA
+MENGELUARKAN RUPIAH SEBAGAI ALAT
+PEMBAYARAN YANG SAH DENGAN NILAI …”; dan
+g. tahun emisi dan tahun cetak.
+
+(2) Ciri umum Rupiah logam sebagaimana dimaksud dalam
+
+Pasal 2
+ayat (2) paling sedikit memuat:
+
+a. gambar lambang negara ”Garuda Pancasila”;
+b. frasa ”Republik Indonesia”;
+c. sebutan pecahan dalam angka sebagai nilai
+nominalnya; dan
+d. tahun emisi.
+
+(3) Setiap pecahan Rupiah selain memiliki ciri umum
+
+sebagaimana dimaksud pada ayat (1) dan ayat (2) juga
+memiliki ciri khusus sebagai pengaman yang terdapat
+pada desain, bahan, dan teknik cetak.
+
+(4) Ciri khusus sebagaimana dimaksud pada ayat (3) bersifat
+
+terbuka, semi tertutup, dan tertutup.
+
+Pasal 6 . . .
+
+-----
+
+ - 6
+
 ## Penjelasan Resmi
 
 Ayat (1)

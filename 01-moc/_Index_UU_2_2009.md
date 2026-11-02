@@ -4,7 +4,7 @@ judul: "Map of Content - Lembaga Pembiayaan Ekspor Indonesia"
 kode_uu: UU_2_2009
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_2_2009]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Lembaga Pembiayaan Ekspor Indonesia (UU_2_2009)
@@ -17,17 +17,17 @@ last_updated: 2026-11-01
 - [[Pasal_2]]: Penyelenggaraan Pembiayaan Ekspor Nasional berdasarkan
 - [[Pasal_3]]: Pembiayaan Ekspor Nasional bertujuan untuk menunjang
 - [[Pasal_4]]: Pemerintah menetapkan kebijakan dasar Pembiayaan Ekspor
-- [[Pasal_5]]: 
-- [[Pasal_6]]: Pembiayaan sebagaimana dimaksud dalam Pasal 5 ayat (1)
-- [[Pasal_7]]: Bentuk Penjaminan sebagaimana dimaksud dalam Pasal 5
-- [[Pasal_8]]: Asuransi sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf
+- [[Pasal_5]]: (1) Pembiayaan Ekspor Nasional sebagaimana dimaksud
+- [[Pasal_6]]: Pembiayaan sebagaimana dimaksud dalam
+- [[Pasal_7]]: Bentuk Penjaminan sebagaimana dimaksud dalam
+- [[Pasal_8]]: Asuransi sebagaimana dimaksud dalam
 - [[Pasal_9]]: Pembiayaan Ekspor Nasional sebagaimana dimaksud dalam
 - [[Pasal_10]]: (1) Dalam rangka pelaksanaan kegiatan Pembiayaan Ekspor
 - [[Pasal_11]]: (1) LPEI berkedudukan dan berkantor pusat di Ibukota
-- [[Pasal_12]]: a. memberi bantuan yang diperlukan pihak-pihak
+- [[Pasal_12]]: LPEI berfungsi mendukung program ekspor nasional melalui
 - [[Pasal_13]]: (1) Dalam menjalankan fungsi sebagaimana dimaksud dalam
-- [[Pasal_14]]: 
-- [[Pasal_15]]: bagi LPEI dipidana dengan pidana penjara paling singkat
+- [[Pasal_14]]: (1) Dalam rangka melaksanakan tugas sebagaimana
+- [[Pasal_15]]: LPEI dapat memberikan fasilitas Asuransi kepada Eksportir
 - [[Pasal_16]]: Dalam melakukan kegiatannya, LPEI turut serta dalam sistem
 - [[Pasal_17]]: (1) Dalam menjalankan tugasnya, LPEI wajib menerapkan
 - [[Pasal_18]]: (1) LPEI dapat melaksanakan penugasan khusus dari
@@ -36,8 +36,8 @@ last_updated: 2026-11-01
 - [[Pasal_21]]: (1) Surplus yang diperoleh LPEI dalam kurun waktu 1 (satu)
 - [[Pasal_22]]: (1) Untuk membiayai kegiatannya, LPEI dapat memperoleh
 - [[Pasal_23]]: (1) Pemerintah dapat memberikan pinjaman atau hibah
-- [[Pasal_24]]: kerugian bagi LPEI dipidana dengan pidana penjara paling
-- [[Pasal_25]]: sebagaimana dimaksud pada ayat (1) huruf d dalam
+- [[Pasal_24]]: (1) LPEI dapat menempatkan dana yang belum dipergunakan
+- [[Pasal_25]]: (1) Dewan Direktur merupakan organ tunggal LPEI.
 - [[Pasal_26]]: (1) Dewan Direktur bertugas merumuskan dan menetapkan
 - [[Pasal_27]]: Untuk dapat diangkat menjadi Dewan Direktur, paling sedikit
 - [[Pasal_28]]: (1) Anggota Dewan Direktur dapat diberhentikan oleh Menteri

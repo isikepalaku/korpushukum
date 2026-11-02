@@ -17,13 +17,24 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (7), ayat (8), Pasal 80 ayat (2), ayat (5), Pasal 81
+ayat (7), ayat (8),
 
-ayat (2), ayat (3), Pasal 82, Pasal 83 ayat (1), Pasal 85
+Pasal 80
+ayat (2), ayat (5), Pasal 81
 
-ayat (1), ayat (5), ayat (6), ayat (7), Pasal 86 ayat (2),
+ayat (2), ayat (3),
 
-ayat (5), Pasal 87 ayat (2), ayat (4), dan/atau Pasal 89,
+Pasal 82, Pasal 83 ayat (1), Pasal 85
+
+ayat (1), ayat (5), ayat (6), ayat (7),
+
+Pasal 86
+ayat (2),
+
+ayat (5),
+
+Pasal 87
+ayat (2), ayat (4), dan/atau Pasal 89,
 
 Bank BHI dikenai sanksi administratif berupa:
 
@@ -39,7 +50,9 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2), dan melanggar ketentuan sebagaimana dimaksud
 
-dalam Pasal 59 ayat (2), Pasal 60, Pasal 61 ayat (1),
+dalam Pasal 59 ayat (2),
+
+Pasal 60, Pasal 61 ayat (1),
 
 ## Penjelasan Resmi
 

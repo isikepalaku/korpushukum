@@ -43,7 +43,9 @@ pada ayat (2) memuat:
  menerbitkan surat Penetapan Tersangka sebagaimana dimaksud pada ayat (2) dan ayat (3).
 **(5) Dalam hal Tersangka merupakan warga negara asing,**
 
-**surat Penetapan Tersangka sebagaimana dimaksud pada ayat (2) dan ayat (3) diberitahukan kepada perwakilan negaranya.**
+**surat Penetapan Tersangka sebagaimana dimaksud pada ayat (2) dan ayat (3) diberitahukan kepada perwakilan negaranya.**Pasal 9 I
+
+**Dalam melakukan Penetapan Tersangka, Penyidik dilarang melakukan perbuatan yang menimbulkan praduga bersalah.**
 
 ## Penjelasan Resmi
 

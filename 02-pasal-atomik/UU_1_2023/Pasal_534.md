@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '534'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Kepala Lembaga Pemasyarakatan, Kepala Rumah Tahanan Negara, Kepala Lembaga Pembi
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Demi keamanan dan ketertiban, hal yang berkaitan dengan terpidana atau orang yang ditahan harus berdasarkan putusan atau Surat perintah penahanan yang sah. Demikian juga Anak yang dimasukl&lt;an dalam kmbaga Pembinaan Khusus Anak atau orang yang sakit jiwa yang dimasukkan dalam rumah sakit jiwa harus berdasarkan Surat perintah yang sah.

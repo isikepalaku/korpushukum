@@ -17,9 +17,33 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-d. perceraian sebagaimana dimaksud dalam Pasal 40 ayat
-(1) atau Pasal 41 ayat (4);
-e. pembatalan perceraian sebagaimana dimaksud dalam
+(1) Pembatalan perkawinan wajib dilaporkan oleh Penduduk
+yang mengalami pembatalan perkawinan kepada Instansi
+Pelaksana paling lambat 90 (sembilan puluh) hari setelah
+putusan pengadilan tentang pembatalan perkawinan yang
+telah memperoleh kekuatan hukum tetap.
+(2) Instansi Pelaksana sebagaimana dimaksud pada ayat (1)
+mencabut Kutipan Akta Perkawinan dari kepemilikan
+subjek
+akta
+dan
+mengeluarkan
+Surat
+Keterangan
+Pembatalan Perkawinan.
+(3) Ketentuan lebih lanjut mengenai persyaratan dan tata cara
+pencatatan
+pembatalan
+perkawinan
+sebagaimana
+dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan
+Presiden.
+Bagian Kelima . . .
+
+Bagian Kelima
+Pencatatan Perceraian
+Paragraf 1
+Pencatatan Perceraian di Indonesia
 
 ## Penjelasan Resmi
 

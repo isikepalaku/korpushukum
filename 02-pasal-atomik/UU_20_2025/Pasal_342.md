@@ -24,6 +24,15 @@ mengamandemen: []
  dikirim panitera kepada Penuntut Umum, Penyidik, pelapor/Korban/Keluarga Korban/Advokat Korban,
 secara elektronik dan/atau secara langsung.
 
+Pasal 343...
+
+-----
+
+PRESIDEN
+REPUEUK INDONESIA
+
+**-175-**
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

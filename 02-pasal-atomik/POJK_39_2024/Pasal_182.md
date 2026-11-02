@@ -17,12 +17,23 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dalam bentuk valuta asing wajib melakukan lindung
-nilai secara penuh.
-(4) Lindung nilai secara penuh sebagaimana dimaksud
-pada ayat (3) wajib dilaksanakan untuk pokok
-pinjaman, suku bunga pinjaman, dan/atau jangka
-waktu pembayaran.
+(1) Perusahaan dilarang memperoleh pendanaan selain
+berupa:
+a. penambahan Modal Disetor tidak melalui
+penawaran umum saham;
+b. pinjaman dari lembaga pemerintah, bank, industri
+keuangan nonbank, lembaga, dan/atau badan
+usaha lain;
+c. pinjaman subordinasi;
+d. penerbitan efek melalui penawaran umum;
+e. penerbitan efek bersifat utang tidak melalui
+penawaran umum; dan/atau
+f. sekuritisasi aset.
+(2) Perusahaan wajib menggunakan dana yang diperoleh
+dari sumber pendanaan sesuai dengan tujuan yang
+telah ditetapkan dalam perjanjian secara tertulis.
+
+-----
 
 ## Penjelasan Resmi
 

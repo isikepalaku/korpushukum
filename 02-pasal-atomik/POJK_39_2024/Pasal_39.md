@@ -18,12 +18,17 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam memproses pelaporan sebagaimana dimaksud
-dalam Pasal 38, Otoritas Jasa Keuangan melakukan:
+dalam
+
+Pasal 38, Otoritas Jasa Keuangan melakukan:
 
 -----
 
 a. analisis dan penelitian atas kelengkapan dokumen
-sebagaimana dimaksud dalam Pasal 38 ayat (2);
+sebagaimana dimaksud dalam
+
+Pasal 38
+ayat (2);
 b. penilaian kemampuan dan kepatutan terhadap
 calon anggota Direksi, calon anggota Dewan
 Komisaris, calon PSP, dan/atau calon anggota DPS

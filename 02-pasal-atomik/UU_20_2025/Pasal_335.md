@@ -26,6 +26,15 @@ tetap.
  sebagaimana dimaksud pada ayat (1) dapat diperpanjang paling lama I (satu) bulan. (3) Dalam hal Terpidana Korporasi tidak membayar denda
  sebagaimana dimaksud pada ayat (l) dan ayat (21, harta benda Korporasi disita oleh Jaksa atas izin ketua pengadilan negeri dan dilelang dengan bantuan kantor lelang negara untuk membayar denda.
 
+Pasal 336. . .
+
+-----
+
+PRESIDEN
+REPIJBLIK INDONESIA
+
+**-L73-**
+
 ## Penjelasan Resmi
 
 **Cukup jelas.**

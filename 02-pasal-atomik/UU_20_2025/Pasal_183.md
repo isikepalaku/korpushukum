@@ -29,7 +29,14 @@ t2l Kompensasi sebagaimana dimaksud pada ayat (1)
 
 (3) Kompensasi sebagaimana dimaksud pada ayat (l)
 
-**diberikan oleh negara dalam hal pelaku tindak pidana tidak dapat membayar Restitusi.**
+**diberikan oleh negara dalam hal pelaku tindak pidana tidak dapat membayar Restitusi.**Pasal 184. . .
+
+-----
+
+**EtFEIEtrN**
+REPUBUK INDONESIA
+
+**-100-**
 
 ## Penjelasan Resmi
 

@@ -18,9 +18,34 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-menyesatkan dipidana dengan pidana penjara paling lama 5
-(lima) tahun dan pidana denda paling banyak
-Rp10.000.000.000,00 (sepuluh miliar rupiah).
+(1) Lembaga Penjamin wajib menyampaikan laporan
+bulanan, laporan keuangan tahunan yang telah diaudit
+oleh akuntan publik, dan/atau laporan lain kepada
+Otoritas Jasa Keuangan.
+
+(2) Lembaga Penjamin wajib melaporkan setiap perubahan
+
+anggaran dasar kepada Otoritas Jasa Keuangan.
+
+(3) Ketentuan . . .
+
+-----
+
+ - 18
+(3) Ketentuan lebih lanjut mengenai laporan bulanan,
+
+laporan keuangan tahunan, dan/atau laporan lain serta
+laporan perubahan anggaran dasar sebagaimana
+dimaksud pada ayat (1) dan ayat (2) diatur dalam
+Peraturan Otoritas Jasa Keuangan.
+
+BAB VIII
+PENGGABUNGAN, PELEBURAN, PENGAMBILALIHAN, PEMISAHAN,
+
+DAN KEPAILITAN
+
+Bagian Kesatu
+Penggabungan, Peleburan, Pengambilalihan, dan Pemisahan
 
 ## Penjelasan Resmi
 

@@ -28,3 +28,5 @@ mengamandemen:
 Penafsiran pengertian Pornograli disesuaikan dengan standar yang berlaku pada masyarakat dalam waktu dan tempat tertentu (contemporary communitg standarQ.
 
 Membuat Pornografi dalam ketentuan ini tidak termasuk untuk diri sendiri atau kepentingan sendiri.
+
+Angka 39

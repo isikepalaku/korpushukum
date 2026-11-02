@@ -4,7 +4,7 @@ uu_induk: Perubahan atas UU 23-2006 tentang Administrasi Kependudukan
 kode_uu: UU_24_2013
 pasal: '32'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_24_2013
@@ -22,7 +22,10 @@ mengamandemen:
 kelahiran
 sebagaimana
 dimaksud
-dalam Pasal 27 ayat (1) yang melampaui batas
+dalam
+
+Pasal 27
+ayat (1) yang melampaui batas
 waktu 60 (enam puluh) hari sejak tanggal
 kelahiran,
 pencatatan
@@ -43,4 +46,5 @@ berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukup jelas. 
+Angka 9

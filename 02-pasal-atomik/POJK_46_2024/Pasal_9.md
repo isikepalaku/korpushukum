@@ -5,7 +5,7 @@ uu_induk: Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaa
 kode_uu: POJK_46_2024
 pasal: '9'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_46_2024
@@ -37,3 +37,5 @@ berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 8

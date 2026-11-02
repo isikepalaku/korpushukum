@@ -17,8 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Perubahan izin usaha sebagaimana dimaksud dalam Pasal
-14 ayat (1) huruf b ditetapkan dalam keputusan OJK yang
+(1) Perubahan izin usaha sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf b ditetapkan dalam keputusan OJK yang
 disampaikan kepada BUK atau BUS.
 (2) Keputusan perubahan izin usaha sebagaimana dimaksud
 pada ayat (1) diberikan setelah OJK mengenakan sanksi

@@ -68,6 +68,29 @@ n. membekukan ...
 - -487 -
 30. Di antara Pasal 42 dan Pasal 43 disisipkan 1 (satu) pasal, yakni Pasal 42A sehingga berbunyi sebagai berikut:
 
+**Pasal 42A**
+
+Ketentuan mengenai perlakuan perpajakan dalam penyelenggaraan Program Restrukturisasi Perbankan diatur dalam Peraturan Pemerintah.
+
+31. Di antara Bab IV dan Bab V disisipkan 1 (satu) bab, yakni Bab IVA sehingga berbunyi sebagai berikut:
+
+**BAB IVA**
+
+**SANKS! ADMINISTRATIF**
+
+32. Di antara Pasal 46 dan Pasal 47 disisipkan 2 (dua) pasal, yakni Pasal 46A dan Pasal 468 sehingga berbunyi sebagai berikut:
+
+**Pasal 46A**
+
+- (1) Bank umum yang melanggar ketentuan kewajiban:
+- a. penyusunan rencana aksi pemulihan untuk disetujui Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 18A ayat (1); dan
+- b. melaksanakan perintah Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 16C ayat (7),
+
+dikenai sanksi administratif oleh Otoritas Jasa Keuangan berupa teguran tertulis, denda administratif, dan/ atau bunga.
+
+- (2) Sanksi administratif sebagaimana dimaksud pada ayat (1) dikenai sesuai dengan tingkat pelanggaran yang dilakukan.
+- (3) Ketentuan lebih lanjut mengenai sanksi administratif sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Otoritas Jasa Keuangan.
+
 ## Penjelasan Resmi
 
 ```
@@ -91,7 +114,10 @@ Ayat (3) ...
 Transaksi di Pasar Uang dan Pasar Valuta Asing di antaranya mencakup transaksi Derivatif suku bunga dan nilai tukar serta repo (repurchase agreement). Proses perjumpaan utang (close-out netting) diselesaikan dengan dihasilkannya 1 (satu) nilai (single amount) yang dapat ditagihkan kepada Pihak lainnya.
 
 ```
-Ayat (4) Cukup jelas. Pasal 42 Ayat (1) Cukup jelas. Ayat (2)
+Ayat (4) Cukup jelas.
+
+Pasal 42
+Ayat (1) Cukup jelas. Ayat (2)
 ```
 
 Perjanjian induk transaksi keuangan di pasar keuangan yang mensyaratkan pengakhiran transaksi keuangan melalui perjumpaan utang (close-out netting) di antaranya mencakup perjanjian induk transaksi repo (repurchase agreement) dan perjanjian induk transaksi Derivatif di pasar keuangan.

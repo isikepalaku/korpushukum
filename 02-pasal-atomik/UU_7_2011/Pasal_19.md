@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Bank Indonesia wajib melaporkan Pengelolaan Rupiah
-sebagaimana dimaksud dalam Pasal 11 secara periodik setiap
+sebagaimana dimaksud dalam
+
+Pasal 11
+secara periodik setiap
 3 (tiga) bulan kepada Dewan Perwakilan Rakyat.
 
 ## Penjelasan Resmi

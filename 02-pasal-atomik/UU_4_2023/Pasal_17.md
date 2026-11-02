@@ -80,7 +80,10 @@ Yang dimaksud dengan "semenda" adalah pertalian kekeluargaan karena perkawinan, 
 
 Pelanggaran kode etik dalam ketentuan ini adalah pelanggaran yang dikategorikan pelanggaran berat dan dilaporkan oleh Dewan Komisioner kepada DPR.
 
-Huruf f Cukup jelas. Huruf g Cukup jelas. Hurufh Huruf i Huruf j Cukup jelas. Ayat (2) Cukup jelas. Pasal 24 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4)
+Huruf f Cukup jelas. Huruf g Cukup jelas. Hurufh Huruf i Huruf j Cukup jelas. Ayat (2) Cukup jelas.
+
+Pasal 24
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4)
 
 Yang dimaksud dengan "benturan kepentingan" adalah benturan yang timbul ketika kepentingan seseorang memungkinkan orang lain melakukan tindakan yang bertentangan dengan pihak tertentu, yang kepentingannya seharusnya dipenuhi oleh orang lain tersebut. Benturan kepentingan mencakup benturan kepentingan yang sudah terjadi atau yang berpotensi akan terjadi.
 

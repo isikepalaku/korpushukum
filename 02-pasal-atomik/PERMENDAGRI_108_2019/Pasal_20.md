@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penerbitan KTP-el karena pindah datang sebagaimana 
-dimaksud dalam Pasal 18 ayat (1) huruf b, diberikan 
+dimaksud dalam
+
+Pasal 18
+ayat (1) huruf b, diberikan 
 kepada: 
 a. Penduduk WNI dalam wilayah Negara Kesatuan 
 Republik Indonesia; 

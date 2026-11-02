@@ -18,24 +18,35 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**dinyatakan oleh Terdakwa dalam pemeriksaan di**
-sidang pengadilan mengenai perbuatan yang dilakukan
-**atau diketahui sendiri atau dialami sendiri. (21 Keterangan Terdakwa yang diberikan di luar pemeriksaan**
- di sidang pengadilan dapat digunakan untuk membantu menemukan bukti dalam pemeriksaan di sidang pengadilan, dengan ketentuan ba-hwa keterangan tersebut didukung oleh suatu alat bukti yang sah
-sepanjang mengenai hal yang didakwakan kepadanya.
+**(1) Alat bukti terdiri atas:**
 
-(3) Keterangan . . .
+**a. Keterangan Saksi; b. Keterangan Ahli; c. surat; d. keterangan Terdakwa; e. barang bukti;**
+**f. bukti elektronik;**
+**g. pengamatan Hakim; dan h. segala sesuatu yang dapat digunakan untuk**
+ kepentingan pembuktian pada pemeriksaan di
+sidang pengadilan sepanjang diperoleh secara tidak
+**melawan hukum.**
+
+(2) Hal. . .
 
 -----
 
-PTIESIDEN
-REPUBUK INDONESIA
+**tf,Trrr:ilrilTilililrt+ra**
+ -L25-
 
-**-l2a-**
+ (21 Hal yang secara umum sudah diketahui tidak perlu
+ dibuktikan.
+**(3) Alat bukti sebagaimana dimaksud pada ayat (1) harus**
 
-**(3) Keterangan Terdakwa hanya dapat digunakan**
- terhadap dirinya sendiri. (41 Keterangan Terdakwa saja tidak cukup untuk
- membuktikan bahwa Terdakwa bersalah melalukan perbuatan yang didakwakan kepadanya, melainkan harus disertai dengan alat bukti yang sah lainnya.
+**dapat dibuktikan autentikasinya dan diperoleh secara tidak melawan hukum.**
+**(4) Hakim berwenang menilai autentikasi dan sah atau**
+
+**tidaknya perolehan alat bukti yang diajukan.**
+**(5) Alat bukti yang oleh Hakim dinyatakan tidak autentik**
+
+**dan/atau diperoleh secara melawan hukum tidak dapat digunakan sebagai alat bukti pada pemeriksaan**
+**di sidang pengadilan dan tidak memiliki kekuatan**
+**pembuktian.**
 
 ## Penjelasan Resmi
 

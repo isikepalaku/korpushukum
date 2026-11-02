@@ -18,9 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(1) Dalam hal Penahanan sebagaimana dimaksud dalam**
-
-Pasal 1O2 sampai dengan Pasal 106 atau perpanjangan
+**(1) Dalam hal Penahanan sebagaimana dimaksud dalam**Pasal 1O2 sampai dengan Pasal 106 atau perpanjangan
 **Penahanan sebagaimana dimaksud dalam Pasal 107**
 **tidak sah, Tersangka atau Terdakwa berhak**
 **mengajukan permohonan Ganti Rugr kepada pengadilan negeri. (21 l,amanya Tersangka atau Terdakwa dalam tahanan**
@@ -30,8 +28,7 @@ Pasal 1O2 sampai dengan Pasal 106 atau perpanjangan
 
 Cukup jelas.
 
-Pasal l lO
-
+Pasal 110
 **Ayat (1)**
  Cukup [jelas.]
 

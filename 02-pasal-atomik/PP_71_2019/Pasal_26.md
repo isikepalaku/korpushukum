@@ -21,6 +21,10 @@ mengamandemen: []
 
 - (21 Dalam penyelenggaraan Sistem Elektronik yang ditujukan untuk Informasi Elektronik dan/atau Dokumen Elektronik yang dapat dipindahtangankan, Informasi Elektronik dan/ atau Dokumen Elektronik harus unik serta menjelaskan penguasaan dan kepemilikannya.
 
+Pasal 27 ...
+
+FRESIDEN REPUELIK TNDONESIA
+
 ## Penjelasan Resmi
 
 Ayat (1) Cukupjelas.
@@ -34,3 +38,7 @@ Yang dimaksud dengan "Informasi Elektronik dan/atau Dokumen Elektronik harus uni
 Yang dimaksud dengan "Informasi Elektronik dan/atau Dokumen Elektronik harus menjelaskan penguasaan" adalah Informasi Elektronik dan/ atau Dokumen Elektronik tersebut harus menjelaskan sifat penguasaan yang direpresentasikan dengan sistem kontrol atau sistem pencatatan atas Informasi Elektronik dan/ atau Dokumen Elektronik yang bersangkutan.
 
 Yang dimaksud dengan "Informasi Elektronik dan/ atau Dokumen Elektronik harus menjelaskan kepemilikannya" adalah Informasi Elektronik dan/ atau Dokumen Elektronik tersebut harus menjelaskan sifat kepemilikan yang direpresentasikan oleh adanya sarana kontrol teknologi yang menjamin hanya ada satu salinan yang sah (single authoritatiue copgl dan tidak berubah.
+
+SK No011749 A
+
+FRESIDEN REPUBLIK INDONESIA

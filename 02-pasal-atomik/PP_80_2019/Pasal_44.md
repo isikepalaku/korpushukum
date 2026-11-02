@@ -21,6 +21,10 @@ mengamandemen: []
 
 - (2) Dalam hal terjadi ketidaksesuaian antara Penerimaan Secara Elektronik dengan Penawaran Secara Elektronik, maka para pihak dianggap belum mencapai kesepakatan.
 
+Pasal 45...
+
+PRESIDEN REPUBLIK INDONESIA -23-
+
 ## Penjelasan Resmi
 
 Cukup jelas.

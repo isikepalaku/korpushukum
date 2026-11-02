@@ -18,7 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1) dan ayat (3), Pasal 82 ayat (1) dan ayat (2),
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 
@@ -42,3 +42,5 @@ dengan tujuan agar jenis dan besaran nilai valuta
 asing sesuai dengan jumlah kewajiban pembayaran
 utang dari piutang Pembiayaan Syariah yang
 diterima oleh Perusahaan Syariah.
+
+Angka 32

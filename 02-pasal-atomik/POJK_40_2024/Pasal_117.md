@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pencairan aset tidak bermasalah sebagaimana
-dimaksud dalam Pasal 115 ayat (2), dilakukan setelah
+dimaksud dalam
+
+Pasal 115
+ayat (2), dilakukan setelah
 Neraca Sementara Likuidasi disetujui oleh Otoritas
 Jasa Keuangan.
 (2) Dalam hal Neraca Sementara Likuidasi belum disetujui
@@ -33,7 +36,10 @@ menggunakan harga pasar wajar.
 oleh Tim Likuidasi sesuai dengan rencana dan tata cara
 pembayaran kewajiban kepada kreditur yang
 tercantum dalam rencana kerja dan anggaran biaya
-sebagaimana dimaksud dalam Pasal 111 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 111
+ayat (2)
 huruf c.
 
 ## Penjelasan Resmi

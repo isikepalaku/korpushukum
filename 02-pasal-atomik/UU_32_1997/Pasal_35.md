@@ -22,6 +22,26 @@ Ketentuan mengenai persyaratan dan tata cara perizinan Penasehat
 
  Berjangka dan Wakil Penasehat Berjangka sebagaimana dimaksud dalam
 
+Pasal 34, diatur lebih lanjut dengan Peraturan Pemerintah.
+
+ BAB V…
+
+```
+
+-----
+
+```
+ - 23
+**BAB V**
+
+ SENTRA DANA BERJANGKA
+
+ DAN PENGELOLA SENTRA DANA BERJANGKA
+
+ Bagian Kesatu
+
+ Sentra Dana Berjangka
+
 ## Penjelasan Resmi
 
 Cukup jelas.

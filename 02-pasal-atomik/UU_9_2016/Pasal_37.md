@@ -21,17 +21,25 @@ mengamandemen: []
 (1) Ketentuan mengenai penanganan permasalahan likuiditas
 
 dan solvabilitas Bank Sistemik sebagaimana dimaksud
-dalam Pasal 20 sampai dengan Pasal 29 berlaku juga
+dalam Pasal 20 sampai dengan
+
+Pasal 29
+berlaku juga
 untuk penanganan permasalahan Bank Sistemik dalam
 kondisi Krisis Sistem Keuangan.
 
 (2) Ketentuan mengenai penanganan permasalahan likuiditas
 
 dan solvabilitas Bank selain Bank Sistemik sebagaimana
-dimaksud dalam Pasal 30 dan Pasal 31, serta ketentuan
+dimaksud dalam Pasal 30 dan
+
+Pasal 31, serta ketentuan
 mengenai penjualan Surat Berharga Negara yang dimiliki
 Lembaga Penjamin Simpanan kepada Bank Indonesia
-sebagaimana dimaksud dalam Pasal 27 ayat (2) huruf a,
+sebagaimana dimaksud dalam
+
+Pasal 27
+ayat (2) huruf a,
 ayat (3), dan ayat (4) berlaku juga untuk penanganan
 permasalahan Bank selain Bank Sistemik dalam kondisi
 Krisis Sistem Keuangan.

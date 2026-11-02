@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Selain dijatuhi pidana ssfagaimana dimaksud dalam Pasal 67 dan Pasal 68 juga dapat dijatuhi pidana tambahan berupa perampasan keuntungan dan/ atau harta kekayaan yang diperoleh atau hasil dari tindak pidana dan pembayaran ganti kerugian.
+Selain dijatuhi pidana ssfagaimana dimaksud dalam Pasal 67 dan
+
+Pasal 68
+juga dapat dijatuhi pidana tambahan berupa perampasan keuntungan dan/ atau harta kekayaan yang diperoleh atau hasil dari tindak pidana dan pembayaran ganti kerugian.
 
 ## Penjelasan Resmi
 

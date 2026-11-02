@@ -29,7 +29,10 @@ yang tidak mengakibatkan perubahan tempat
 
 kedudukan dalam anggaran dasar sebagaimana
 
-dimaksud dalam Pasal 80 dan Pasal 90 berlaku
+dimaksud dalam Pasal 80 dan
+
+Pasal 90
+berlaku
 
 mutatis mutandis terhadap pemindahan alamat
 
@@ -37,9 +40,10 @@ KCBLN dalam provinsi yang sama.
 
 (8) Ketentuan mengenai pemindahan sementara alamat
 
-kantor Bank BHI sebagaimana dimaksud dalam Pasal
+kantor Bank BHI sebagaimana dimaksud dalam Pasal 81 dan
 
-81 dan Pasal 90 berlaku mutatis mutandis terhadap
+Pasal 90
+berlaku mutatis mutandis terhadap
 
 pemindahan sementara alamat jaringan kantor
 

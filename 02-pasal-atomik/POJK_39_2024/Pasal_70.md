@@ -17,7 +17,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+(1) Perubahan lingkup wilayah usaha wajib memperoleh
+persetujuan dari Otoritas Jasa Keuangan.
+(2) Untuk memperoleh persetujuan perubahan lingkup
+wilayah usaha sebagaimana dimaksud pada ayat (1),
+Direksi harus mengajukan permohonan persetujuan
+kepada Otoritas Jasa Keuangan dengan melampirkan
+dokumen persyaratan persetujuan perubahan lingkup
+wilayah usaha tercantum dalam Lampiran pada tabel
+21 yang merupakan bagian tidak terpisahkan dari
+Peraturan Otoritas Jasa Keuangan ini.
 
 ## Penjelasan Resmi
 

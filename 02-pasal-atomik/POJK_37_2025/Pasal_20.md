@@ -23,7 +23,9 @@ oleh Otoritas Jasa Keuangan tidak dapat disehatkan,
 apabila:
 a. jangka waktu status pengawasan khusus berakhir
 dan PPDP masih memenuhi kriteria sebagaimana
-dimaksud dalam Pasal 8; atau
+dimaksud dalam
+
+Pasal 8; atau
 b. jangka waktu status pengawasan khusus belum
 berakhir namun Otoritas Jasa Keuangan menilai
 PPDP tidak mampu menyelesaikan permasalahan

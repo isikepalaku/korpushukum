@@ -11,7 +11,6 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_55|UU 1/2013 Pasal 55]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_55|UU 1/2016 Pasal 55]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_55|UU 21/2008 Pasal 55]]'
 - '[[02-pasal-atomik/UU_21_2011/Pasal_55|UU 21/2011 Pasal 55]]'

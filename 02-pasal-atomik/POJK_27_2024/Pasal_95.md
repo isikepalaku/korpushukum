@@ -20,7 +20,9 @@ mengamandemen: []
 
 (1) Penarikan Aset Keuangan Digital oleh Konsumen dari
 Pedagang hanya dapat dilakukan jika berdasarkan
-hasil verifikasi sebagaimana dimaksud dalam Pasal 94
+hasil verifikasi sebagaimana dimaksud dalam
+
+Pasal 94
 ayat (3) terdapat kesesuaian antara permintaan
 penarikan Aset Keuangan Digital dan saldo atau
 catatan kepemilikan Aset Keuangan Digital.
@@ -72,7 +74,10 @@ Ayat (3)
 Cukup jelas.
 Ayat (4)
 
-Lihat penjelasan Pasal 80 ayat (8).
+Lihat penjelasan
+
+Pasal 80
+ayat (8).
 Ayat (5)
 
 Cukup jelas.

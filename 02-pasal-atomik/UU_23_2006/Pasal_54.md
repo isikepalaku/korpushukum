@@ -53,6 +53,8 @@ ayat (3), Pejabat Pencatatan Sipil membuat catatan pinggir
 pada register akta Pencatatan Sipil dan kutipan akta
 Pencatatan Sipil.
 
+Pasal 55 . . .
+
 ## Penjelasan Resmi
 
 Cukup jelas.

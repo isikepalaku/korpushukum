@@ -33,7 +33,10 @@ mengamandemen:
 
 Bank Dalam Resolusi Selain Bank Sistemik serta Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang Tidak Diselamatkan
 
-18. Ketentuan Pasal 31 pada angka 24 daJalrr Pasal 7 diubah sehingga berbunyi sebagai berikut:
+18. Ketentuan
+
+Pasal 31
+pada angka 24 daJalrr Pasal 7 diubah sehingga berbunyi sebagai berikut:
 
 **PRESIOEN REPUBLIK INDONESI,A**
 

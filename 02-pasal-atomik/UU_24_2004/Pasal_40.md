@@ -18,15 +18,31 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-hak atas hasil penjualan saham bank setelah penanganan.
+Terhitung sejak LPS menetapkan untuk melakukan penanganan
 
- BAB VI
+ Bank Gagal sebagaimana dimaksud dalam
 
- LIKUIDASI
+Pasal 39, maka
 
- Bagian Pertama
+ berdasarkan Undang-Undang ini:
 
- Likuidasi Bank Gagal oleh LPS
+-----
+
+**a. LPS mengambil alih segala hak dan wewenang RUPS,**
+
+ kepemilikan, kepengurusan, dan/atau kepentingan lain
+
+ pada bank dimaksud;
+
+ b. Pemegang saham dan pengurus bank tidak dapat
+
+ menuntut LPS atau pihak yang ditunjuk oleh LPS dalam
+
+ hal penanganan tidak berhasil, sepanjang LPS atau pihak
+
+ yang ditunjuk LPS melakukan tugasnya sesuai dengan
+
+ peraturan perundang-undangan.
 
 ## Penjelasan Resmi
 

@@ -24,7 +24,10 @@ Satuan
 Kerja 
 Pelaksana 
 sebagaimana 
-dimaksud dalam Pasal 63 huruf b, dilakukan dengan cara 
+dimaksud dalam
+
+Pasal 63
+huruf b, dilakukan dengan cara 
 antara lain: 
 a. 
 melakukan penempatan perangkat keras pada bangunan 

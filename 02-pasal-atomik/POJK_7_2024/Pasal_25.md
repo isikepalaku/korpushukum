@@ -17,8 +17,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan sebagaimana dimaksud dalam Pasal 16 sampai
-dengan Pasal 22 berlaku secara mutatis mutandis terhadap
+Ketentuan sebagaimana dimaksud dalam
+
+Pasal 16
+sampai
+dengan
+
+Pasal 22
+berlaku secara mutatis mutandis terhadap
 BUK atau BUS yang ditetapkan menjadi BPR atau BPR Syariah
 berdasarkan keputusan OJK.
 

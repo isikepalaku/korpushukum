@@ -22,6 +22,8 @@ mengamandemen: []
 - (3) Untuk mendukung penyelenggaraan pendidikan dan pelatihan sumber daya manusia, PUSK wajib menyediakan dana pendidikan dan pelatihan dari anggaran tahun berjalan.
 - (4) Ketentuan lebih lanjut mengenai kewajiban penyediaan dana pendidikan dan pelatihan sebagaimana dimaksud pada ayat (3) diatur oleh otoritas sektor keuangan sesuai dengan tugas dan kewenangan masing-masing.
 
+Pasal 253 ...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

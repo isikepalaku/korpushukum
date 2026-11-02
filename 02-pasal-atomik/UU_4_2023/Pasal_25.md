@@ -62,7 +62,7 @@ mengamandemen:
 - (13) Ketentuan lebih lanjut mengenai pinjaman Lembaga Penjamin Simpanan kepada Bank Perantara sebagaimana dimaksud pada ayat (10) diatur dalam Peraturan Lembaga Penjamin Simpanan.
 18. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
 
-**Pasa126**
+**Pasal 26**
 
 - (1) Lembaga Penjamin Simpanan harus menjual seluruh saham Bank Perantara kepada Bank atau pihak lain atau mengalihkan seluruh aset dan kewajiban Bank Perantara kepada Bank.
 
@@ -136,7 +136,10 @@ Bank Perantara dikecualikan dari penetapan status pengawasan sebagai Bank dalam 
 Ayat (10) ...
 
 ```
-Ayat (10) Cukup jelas. Ayat (11) Cukup jelas. Ayat (12) Cukup jelas. Ayat (13) Cukup jelas. Angka 18 Pasal 26 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "terbuka" adalah dapat diikuti oleh setiap calon investor yang memenuhi persyaratan. Yang dimaksud dengan "transparan" adalah proses penjualan dan pengalihan dapat diakses oleh publik. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 19 Pasal 27 Dihapus.
+Ayat (10) Cukup jelas. Ayat (11) Cukup jelas. Ayat (12) Cukup jelas. Ayat (13) Cukup jelas. Angka 18
+
+Pasal 26
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Yang dimaksud dengan "terbuka" adalah dapat diikuti oleh setiap calon investor yang memenuhi persyaratan. Yang dimaksud dengan "transparan" adalah proses penjualan dan pengalihan dapat diakses oleh publik. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Angka 19 Pasal 27 Dihapus.
 ```
 
 Angka 20 ...

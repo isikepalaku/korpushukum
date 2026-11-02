@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penilaian terhadap faktor kualitas Pendanaan
-sebagaimana dimaksud dalam Pasal 167 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 167
+ayat (2) huruf
 b meliputi penilaian terhadap komponen sebagai
 berikut:
 a. kualitas aset produktif dan konsentrasi eksposur

@@ -23,9 +23,19 @@ mengamandemen: []
 **memuat:**
  a. ketentuan sebagaimana dimaksud dalam Pasal 250
  ayat (1) kecuali huruf e, huruf f, dan huruf h; b. pernyataan bahwa Terdakwa diputus bebas atau lepas dari segala tuntutan hukum, dengan menyebutkan alasan dan pasal peraturan perundang-undangan yang menjadi dasar putusan; dan c. perintah supaya Terdakwa yang ditahan
- dibebaskan sejak putusan diucapkan. (21 Ketentuan sebagaimana dimaksud dalam Pasal 250
+ dibebaskan sejak putusan diucapkan. (21 Ketentuan sebagaimana dimaksud dalam
 
+Pasal 250
 ayat (21 dan ayat (3) berlaku juga terhadap pasal ini.
+
+Pasal 254...
+
+-----
+
+PRESIDEN
+REFUBLIK INDONESIA
+
+**-134-**
 
 ## Penjelasan Resmi
 

@@ -21,6 +21,27 @@ mengamandemen: []
 BUK atau BUS wajib menghentikan kegiatan usaha
 sebagai BUK atau BUS sebagaimana dimaksud dalam
 
+Pasal 16
+ayat (1) huruf b meliputi:
+a. simpanan giro dan kegiatan terkait giralisasi;
+b. kegiatan usaha dalam valuta asing, kecuali kegiatan
+usaha penukaran valuta asing;
+c. kepemilikan surat berharga, kecuali surat berharga
+yang diterbitkan oleh Bank Indonesia, pemerintah,
+atau pemerintah daerah;
+d. transaksi pasar uang antarbank; dan
+e. kegiatan usaha lain yang tidak diperbolehkan bagi
+BPR atau BPR Syariah.
+(2) Penghentian kegiatan usaha sebagaimana dimaksud pada
+ayat (1) dikecualikan untuk BPR atau BPR Syariah hasil
+perubahan izin usaha dari BUK atau BUS yang melakukan
+penyelesaian portofolio yang tersisa.
+(3) Dalam melakukan penyelesaian portofolio BUK atau BUS
+yang tersisa sebagaimana dimaksud pada ayat (2), BPR
+atau BPR Syariah hasil perubahan izin usaha dari BUK
+atau BUS wajib menyelesaikan dan/atau mengalihkan
+hak dan kewajiban BUK atau BUS.
+
 ## Penjelasan Resmi
 
 Ayat (1)

@@ -18,8 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Rencana pembukaan kantor Bank selain KP dan
-penyediaan TPE sebagaimana dimaksud dalam Pasal
-71 harus didasarkan atas analisis yang paling sedikit
+penyediaan TPE sebagaimana dimaksud dalam
+
+Pasal 71
+harus didasarkan atas analisis yang paling sedikit
 memuat:
 a. kesesuaian rencana dengan strategi bisnis serta
 dampak terhadap proyeksi kinerja keuangan; dan

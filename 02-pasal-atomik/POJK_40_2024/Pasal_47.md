@@ -20,7 +20,9 @@ mengamandemen: []
 (1) Penyelenggara wajib melaporkan penghentian kegiatan
 usaha UUS kepada Otoritas Jasa Keuangan paling lama
 15 (lima belas) hari kerja setelah seluruh hak dan
-kewajiban UUS sebagaimana dimaksud dalam Pasal 44
+kewajiban UUS sebagaimana dimaksud dalam
+
+Pasal 44
 ayat (3) huruf d diselesaikan.
 (2) Pelaporan penghentian kegiatan usaha UUS
 sebagaimana dimaksud pada ayat (1) harus

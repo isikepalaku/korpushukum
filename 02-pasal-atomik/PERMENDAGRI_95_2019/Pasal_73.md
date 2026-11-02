@@ -24,7 +24,10 @@ Satuan
 Kerja 
 Pelaksana 
 sebagaimana 
-dimaksud dalam Pasal 70 huruf c, dilakukan dengan cara 
+dimaksud dalam
+
+Pasal 70
+huruf c, dilakukan dengan cara 
 antara lain: 
 a. 
 memastikan masa dukungan perangkat lunak masih 

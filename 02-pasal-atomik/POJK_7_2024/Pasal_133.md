@@ -17,10 +17,30 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-administratif berupa teguran tertulis.
-(2) Dalam hal BPR atau BPR Syariah telah dikenai sanksi
-administratif sebagaimana dimaksud pada ayat (1) dan
-tetap melanggar ketentuan sebagaimana dimaksud dalam
+(1) PSP yang melakukan pembelian atau memperoleh saham
+dalam jangka waktu 2 (dua) tahun sebagaimana dimaksud
+dalam
+
+Pasal 131
+ayat (1) yang mengakibatkan BPR atau
+BPR Syariah memenuhi kondisi kepemilikan dan/atau
+
+-----
+
+pengendalian PSP yang sama yang berlokasi dalam 1 (satu)
+wilayah pulau atau kepulauan utama sebagaimana
+dimaksud dalam
+
+Pasal 130
+ayat (1), BPR atau BPR Syariah
+wajib melakukan Penggabungan atau Peleburan.
+(2) Penggabungan atau Peleburan sebagaimana dimaksud
+pada ayat (1) wajib dilakukan paling lama 1 (satu) tahun
+setelah jangka waktu 2 (dua) tahun sebagaimana
+dimaksud dalam
+
+Pasal 131
+ayat (1).
 
 ## Penjelasan Resmi
 

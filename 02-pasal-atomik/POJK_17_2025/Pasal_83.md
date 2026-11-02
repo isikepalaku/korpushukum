@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Masa penawaran sebagaimana dimaksud dalam Pasal 81
+Masa penawaran sebagaimana dimaksud dalam
+
+Pasal 81
 ayat (2) paling lama 45 (empat puluh lima) hari.
 
 ## Penjelasan Resmi

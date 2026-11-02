@@ -23,6 +23,21 @@ Bank Umum dilarang:
 
 a. melakukan penyertaan modal, kecuali sebagaimana dimaksud dalam
 
+Pasal 7
+huruf b dan huruf c;
+
+b. melakukan usaha perasuransian;
+
+c. melakukan usaha lain di luar kegiatan usaha sebagaimana dimaksud
+
+dalam Pasal 6 dan
+
+Pasal 7.
+
+-----
+
+ - 10
+
 ## Penjelasan Resmi
 
 Cukup jelas.

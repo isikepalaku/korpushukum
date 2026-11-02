@@ -18,9 +18,18 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam pasal 69 ayat (2), Pasal 72 ayat (1),
-ayat (3), Pasal 73 ayat (3), Pasal 75 ayat (1), Pasal 76
-ayat (3), dan/atau Pasal 78 ayat (1) dikenai sanksi
+dimaksud dalam Pasal 69 ayat (2),
+
+Pasal 72
+ayat (1),
+ayat (3),
+
+Pasal 73
+ayat (3), Pasal 75 ayat (1), Pasal 76
+ayat (3), dan/atau
+
+Pasal 78
+ayat (1) dikenai sanksi
 administratif berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -71,7 +80,10 @@ ASOSIASI
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

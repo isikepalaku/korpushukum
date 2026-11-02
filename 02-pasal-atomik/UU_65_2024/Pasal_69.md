@@ -34,7 +34,7 @@ mengamandemen: []
 3. (7t Dalam hal Keputusan Komisi Banding Paten menerima permohonan banding terhadap koreksi atas deskripsi, klaim, dan latau gambar sebagaimana dimaksud pada ayat (6), Menteri menindaklanjutinya dengan mengubah lampiran sertifikat.
 4. Lampiran sertilikat sebagaimana dimaksud pada ayat (7) dicatat dan diumumkan oleh Menteri melalui media elektronik danlatau media nonelektronik. (8)
 5. Permohonan banding terhadap kore ksi atas deskripsi, klaim, dxrlatau gambar sebagaimana dimaksud pada ayat (1) tidak dapat diajukan ke Pengadilan Niaga. (e)
-29. Ketentuan ayat (2ll, ayat (5), ayat (6), dan ayat (9) diubah dan ditambahkan 1 (satu) ayat, yakni ayat (10), sehingga Pasa\ 70 berbunyi sebagai berikut:
+29. Ketentuan ayat (2ll, ayat (5), ayat (6), dan ayat (9) diubah dan ditambahkan 1 (satu) ayat, yakni ayat (10), sehingga Pasal 70 berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 

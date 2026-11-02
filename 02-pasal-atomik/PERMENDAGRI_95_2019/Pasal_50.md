@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam hal sumber daya manusia sebagaimana dimaksud 
-dalam Pasal 35 ayat (1), Pasal 36 ayat (1), Pasal 37 ayat (1),
+dalam Pasal 35 ayat (1),
+
+Pasal 36
+ayat (1), Pasal 37 ayat (1),
 
 ## Penjelasan Resmi
 

@@ -11,6 +11,7 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
+- '[[02-pasal-atomik/UU_1_2023/Pasal_100|UU 1/2023 Pasal 100]]'
 - '[[02-pasal-atomik/UU_6_2023/Pasal_100|UU 6/2023 Pasal 100]]'
 ---
 
@@ -22,7 +23,10 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Cukup jelas. Angka 18 Pasal 101 Cukup je1as. Angka 19 Pasal 103 Ayat (1)
+Cukup jelas. Angka 18
+
+Pasal 101
+Cukup je1as. Angka 19 Pasal 103 Ayat (1)
 ```
 
 Huruf a Yang dimaksud dengan "konseling" adalah proses pemberian bimbingan atau bantuan dalam rangka mengatasi masalah dan mengubah perilaku menjadi positif dan konstruktif.
@@ -72,7 +76,10 @@ Yang dimaksud dengan "rehabilitasi" dalam ketentuan ini adalah proses pelayan€
 **Huruf b**
 
 ```
-Yang dimaksud dengan "seseorang" adalah pihak keluarga yang mampu merawat atau pihak lain yang memiliki kepedulian dan mampu untuk merawat yang bersangkutan. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Ayat (7) Cukup jelas. Angka 20 Pasal 120 Cukup jelas. Angka 21 Pasal 121 Cukup jelas. Angka22 Pasal 132 Dalam ketentuan ini yang dimaksud dengan "penuntutan" adalah proses peradilan yang dimulai dari penyidikan. Ayat (l) Huruf a Ketentuan ini berhubungan dengan asas ne bris inidem. Huruf b Apabila seorang tersangka atau terdakwa meninggal dunia, tidak dapat dilakukan penuntutan terhadap perkara tersebut. Tidak dilakukannya penuntutan karena kesalahan seseorang tidak dapat dilimpahkan kepada orang lain. Hurrf c Cukup jelas.
+Yang dimaksud dengan "seseorang" adalah pihak keluarga yang mampu merawat atau pihak lain yang memiliki kepedulian dan mampu untuk merawat yang bersangkutan. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Ayat (7) Cukup jelas. Angka 20
+
+Pasal 120
+Cukup jelas. Angka 21 Pasal 121 Cukup jelas. Angka22 Pasal 132 Dalam ketentuan ini yang dimaksud dengan "penuntutan" adalah proses peradilan yang dimulai dari penyidikan. Ayat (l) Huruf a Ketentuan ini berhubungan dengan asas ne bris inidem. Huruf b Apabila seorang tersangka atau terdakwa meninggal dunia, tidak dapat dilakukan penuntutan terhadap perkara tersebut. Tidak dilakukannya penuntutan karena kesalahan seseorang tidak dapat dilimpahkan kepada orang lain. Hurrf c Cukup jelas.
 ```
 
 Huruf d . . .
@@ -87,14 +94,20 @@ Bagi Tindak Pidana yang diancam dengan pidana penjara paling lama 1 (satu) tahun
 
 **Huruf f**
 
-Terhadap Tindak Pidana yang hanya dapat dituntut berdasarkan aduan maka apabila pengaduan ditarik kembali dianggap tidak ada pengaduan, sepanjang dilakukan dalam tenggang waktu sebagaimana dimaksud dalam Pasal 3O Undang-Undang ini.
+Terhadap Tindak Pidana yang hanya dapat dituntut berdasarkan aduan maka apabila pengaduan ditarik kembali dianggap tidak ada pengaduan, sepanjang dilakukan dalam tenggang waktu sebagaimana dimaksud dalam
+
+Pasal 30
+Undang-Undang ini.
 
 ```
 Huruf g
 ```
 
 ```
-Cukup jelas. Hurufh Cukup jelas. Ayat (2) Cukup jelas. Angka 23 Pasal 136 Ayat (l)
+Cukup jelas. Hurufh Cukup jelas. Ayat (2) Cukup jelas. Angka 23
+
+Pasal 136
+Ayat (l)
 ```
 
 Ketentuan kedaluwarsa dalam ketentuan ini dimaksudkan untuk memberi kepastian hukum terhadap status Tindak Pidana yang dilakukan. Hal ini dikarenakan dengan lewatnya jangka waktu tersebut pada umumnya sulit untuk menentukan alat bukti.
@@ -104,12 +117,21 @@ Penentuan tenggang waktu kedaluwarsa disesuaikan dengan berat ringannya Tindak P
 **FIIESIDEN REFUBUK INDONESIA**
 
 ```
-Ayat (2) Ketentuan pada ayat ini disesuaikan dengan prinsip dalam hukum pidana yang memperlakukan secara khusus lagi Anak. Oleh karena itu, tenggang waktu kedaluwarsa terhadap Tindak Pidana yang dilakukan oleh Anak lebih singkat daripada Tindak Pidana yang dilakukan oleh orang dewasa. Ayat (3) Cukup jelas. Angka24 Pasal 196 Angka 25 Pasal 243 Ang)<a 26 Pasal 251 Cukup jelas. Angka2T Pasal 263 Ayat (l) Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Yang dimaksud dengan "mempersiapkan" misalnya, mempersiapkan perubahan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Ayat (1) Yang dimaksud dengan "disabilitas" adalah kondisi atau keadaan seseorang yang mengalami keterbatasan fisik, intelektual, mental, dan/ atau sensorik dalam jangka waktu lama yang dalam berinteraksi dengan lingkungan dapat mengalami hambatan dan kesulitan untuk berpartisipasi secara penuh dan efektif dengan warga negara lainnya berdasarkan kesamaan hak. Ayat (21 Cukup jelas.
+Ayat (2) Ketentuan pada ayat ini disesuaikan dengan prinsip dalam hukum pidana yang memperlakukan secara khusus lagi Anak. Oleh karena itu, tenggang waktu kedaluwarsa terhadap Tindak Pidana yang dilakukan oleh Anak lebih singkat daripada Tindak Pidana yang dilakukan oleh orang dewasa. Ayat (3) Cukup jelas. Angka24
+
+Pasal 196
+Angka 25 Pasal 243 Ang)<a 26 Pasal 251 Cukup jelas. Angka2T Pasal 263 Ayat (l) Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Yang dimaksud dengan "mempersiapkan" misalnya, mempersiapkan perubahan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Ayat (1) Yang dimaksud dengan "disabilitas" adalah kondisi atau keadaan seseorang yang mengalami keterbatasan fisik, intelektual, mental, dan/ atau sensorik dalam jangka waktu lama yang dalam berinteraksi dengan lingkungan dapat mengalami hambatan dan kesulitan untuk berpartisipasi secara penuh dan efektif dengan warga negara lainnya berdasarkan kesamaan hak. Ayat (21 Cukup jelas.
 ```
 
-Lihat penjelasan Pasal 190 ayat (2).
+Lihat penjelasan
 
-Angka 28 Pasal 264 Lihat penjelasan Pasal 190 ayat (2). Angka 29 Pasal 281 Cukup jelas. Angka 30 Pasal 295 Cukup jelas. Angka 31 Pasal 296 Cukup jelas. Angka 32 Pasal 297 Yang dimaksud dengan "kehilangan pekerjaan" termasuk diberhentikan atau demosi. Angka 33 Pasal 299 Cukup jelas. Angka 34 Pasal 300 Cukup jelas. Angka 35 Pasal 332 Yang dimaksud dengan "sistem elektronik" adalah serangkaian perangkat dan prosedur elektronik yang berfungsi mempersiapkan, mengumpulkan, mengolah, menganalisis, menyimpan, menampilkan, mengumumkan, mengirimkan, dan/atau menyebarkan Informasi Elektronik. Angka 36 Pasal 375 Cukup jelas. Angka 37 Pasal 398 Perbuatan yang dilarang dalam ketentuan ini melanggar
+Pasal 190
+ayat (2).
+
+Angka 28
+
+Pasal 264
+Lihat penjelasan Pasal 190 ayat (2). Angka 29 Pasal 281 Cukup jelas. Angka 30 Pasal 295 Cukup jelas. Angka 31 Pasal 296 Cukup jelas. Angka 32 Pasal 297 Yang dimaksud dengan "kehilangan pekerjaan" termasuk diberhentikan atau demosi. Angka 33 Pasal 299 Cukup jelas. Angka 34 Pasal 300 Cukup jelas. Angka 35 Pasal 332 Yang dimaksud dengan "sistem elektronik" adalah serangkaian perangkat dan prosedur elektronik yang berfungsi mempersiapkan, mengumpulkan, mengolah, menganalisis, menyimpan, menampilkan, mengumumkan, mengirimkan, dan/atau menyebarkan Informasi Elektronik. Angka 36 Pasal 375 Cukup jelas. Angka 37 Pasal 398 Perbuatan yang dilarang dalam ketentuan ini melanggar
 
 ketentuan peraturan perundang-undangan di bidang keimigrasian.
 

@@ -20,8 +20,10 @@ mengamandemen: []
 
 (1) Anggota Dewan Direktur, Direktur Eksekutif, Direktur
 
-Pelaksana, dan pegawai yang melanggar ketentuan Pasal
-17 ayat (1), Pasal 37 ayat (1) dan ayat (2), Pasal 38 ayat
+Pelaksana, dan pegawai yang melanggar ketentuan
+
+Pasal 17
+ayat (1), Pasal 37 ayat (1) dan ayat (2), Pasal 38 ayat
 (3), dan Pasal 40 dikenai sanksi administratif berupa
 teguran lisan, teguran tertulis, atau pemberhentian.
 

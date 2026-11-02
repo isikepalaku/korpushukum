@@ -17,10 +17,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Kantor Pendaftaran Fidusia menerbitkan surat keterangan yang
- menyatakan Sertifikat keterangan yang menyatakan Sertifikat Jaminan Fidusia yang bersangkutan tidak berlaku lagi.
+(1) Jaminan Fidusia hapus karena hal-hal sebagai berikut:
 
- BAB IV HAK MENDAHULU
+ a. hapusnya utang yang dijamin dengan fidusia;
+
+ b. pelepasan hak atas Jaminan Fidusia oleh Penerima Fidusia; atau
+
+ c. musnahnya Benda yang menjadi objek Jaminan Fidusia.
+
+ (2) Musnahnya Benda yang menjadi objek Jaminan Fidusia tidak
+ menghapuskan klaim asuransi sebagaimana dimaksud dalam
+
+Pasal 10
+huruf b.
+
+ (3) Penerima Fidusia memberitahukan kepada Kantor Pendaftaran
+ Fidusia mengenai hapusnya Jaminan Fidusia sebagaimana dimaksud dalam ayat (1) dengan melampirkan pernyataan mengenai hapusnya
+
+-----
+
+ - 9
+**utang, pelepasan hak, atau musnahnya Benda yang menjadi objek Jaminan Fidusia tersebut.**
 
 ## Penjelasan Resmi
 

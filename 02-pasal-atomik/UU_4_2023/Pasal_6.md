@@ -22,6 +22,7 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_24_2002/Pasal_6|UU 24/2002 Pasal 6]]'
 - '[[02-pasal-atomik/UU_24_2004/Pasal_6|UU 24/2004 Pasal 6]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_6|UU 25/1992 Pasal 6]]'
+- '[[02-pasal-atomik/UU_3_2004/Pasal_6|UU 3/2004 Pasal 6]]'
 - '[[02-pasal-atomik/UU_32_1997/Pasal_6|UU 32/1997 Pasal 6]]'
 - '[[02-pasal-atomik/UU_40_2004/Pasal_6|UU 40/2004 Pasal 6]]'
 - '[[02-pasal-atomik/UU_40_2014/Pasal_6|UU 40/2014 Pasal 6]]'
@@ -40,6 +41,12 @@ mengamandemen:
 - (3) Ketentuan mengenai persyaratan dan tata cara pembukaan, penutupan, dan perubahan jaringan kantor Bank Syariah dan UUS sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Otoritas Jasa Keuangan.
 6. Di antara Pasal 6 dan Pasal 7 disisipkan 1 (satu) pasal, yakni Pasal 6A sehingga berbunyi sebagai berikut:
 
+**Pasal 6A**
+
+- (1) BPR Syariah memiliki jaringan kantor dalam wilayah yang terbatas.
+- (2) Ketentuan mengenai batasan wilayah jaringan kantor BPR Syariah sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Otoritas Jasa Keuangan.
+7. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Ayat (1)
@@ -53,4 +60,32 @@ Ayat (2)
 
 Yang dimaksud dengan "pengembangan sektor keuangan" adalah kebijakan mikroprudensial yang ikut mendukung pertumbuhan ekonomi yang berkelanjutan.
 
-**Angka 5**
+**Angka 5**Pasal 8A
+
+Ayat (1)
+
+Huruf a
+
+Perintah tertulis kepada WK berlaku baik untuk WK yang melakukan penggabungan, peleburan, pengambilalihan, integrasi, dan/ a tau konversi maupun WK yang menerima penggabungan, peleburan, pengambilalihan, integrasi, dan/ a tau konversi.
+
+**Huruf b**
+
+Yang dimaksud dengan "pihak tertentu" adalah emiten atau perusahaan publik yang pernyataan pendaftaran telah menjadi efektif menurut undang-undang mengenai pasar modal.
+
+Huruf c ...
+
+**Huruf c**
+
+Kebijakan mengenai pemanfaatan teknologi informasi dalam penyelenggaraan RUPS atau rapat lain yang dapat diatur oleh Otoritas Jasa Keuangan di antaranya mencakup bentuk dan cara interaksi serta partisipasi antarpeserta serta bentuk risalah.
+
+Huruf d
+
+Cukup jelas.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
+
+Cukup jelas.

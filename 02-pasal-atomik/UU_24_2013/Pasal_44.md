@@ -65,4 +65,5 @@ Cukup jelas.
  Ayat (4) 
 Cukup jelas. 
 Ayat (5) 
-Cukup jelas.
+Cukup jelas. 
+Angka 10

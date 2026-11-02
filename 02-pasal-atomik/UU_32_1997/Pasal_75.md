@@ -20,7 +20,10 @@ mengamandemen: []
 
 Setiap pihak yang tidak mematuhi atau menghambat pelaksanaan
 
- ketentuan sebagaimana dimaksud dalam Pasal 66 atau Pasal 68 diancam
+ ketentuan sebagaimana dimaksud dalam Pasal 66 atau
+
+Pasal 68
+diancam
 
  dengan pidana kurungan paling lama satu tahun dan pidana denda paling
 

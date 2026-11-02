@@ -73,3 +73,5 @@ Cukup jelas.
 Angka 19
 
 Cukup jelas.
+
+Angka 20

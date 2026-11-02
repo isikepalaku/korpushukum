@@ -19,9 +19,15 @@ mengamandemen: []
 
 (1) Bank BHI yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 91 ayat (1), ayat (2), ayat (3),
+dimaksud dalam
 
-ayat (5), ayat (6), dan/atau Pasal 92 dikenai sanksi
+Pasal 91
+ayat (1), ayat (2), ayat (3),
+
+ayat (5), ayat (6), dan/atau
+
+Pasal 92
+dikenai sanksi
 
 administratif berupa teguran tertulis.
 
@@ -29,7 +35,10 @@ administratif berupa teguran tertulis.
 
 penyampaian bukti pengumuman atau penyampaian
 
-informasi sebagaimana dimaksud dalam Pasal 91 ayat
+informasi sebagaimana dimaksud dalam
+
+Pasal 91
+ayat
 
 (6) dan/atau Pasal 92 ayat (3) dikenai sanksi
 
@@ -45,9 +54,14 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2), dan belum memenuhi ketentuan sebagaimana
 
-dimaksud dalam Pasal 91 ayat (1), ayat (2), ayat (3),
+dimaksud dalam
 
-ayat (5), ayat (6), dan/atau Pasal 92, Bank BHI dikenai
+Pasal 91
+ayat (1), ayat (2), ayat (3),
+
+ayat (5), ayat (6), dan/atau
+
+Pasal 92, Bank BHI dikenai
 
 sanksi administratif berupa:
 
@@ -63,7 +77,10 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2) dan melanggar ketentuan sebagaimana dimaksud
 
-dalam Pasal 91 ayat (1), ayat (2), ayat (3), ayat (5), ayat
+dalam
+
+Pasal 91
+ayat (1), ayat (2), ayat (3), ayat (5), ayat
 
 (6), Pasal 92, ayat (2), dan/atau ayat (3), PSP, Direksi,
 

@@ -142,3 +142,5 @@ konsultasi atas objek asuransi.
 Ayat (3)
 
 Cukup jelas.
+
+Angka 21

@@ -19,7 +19,42 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Bank Umum Syariah hanya dapat didirikan dan/atau
 
+dimiliki oleh:
+
+a. warga negara Indonesia dan/atau badan hukum
+Indonesia;
+
+b. warga negara Indonesia dan/atau badan hukum
+Indonesia dengan warga negara asing dan/atau badan
+hukum asing secara kemitraan; atau
+
+c. pemerintah daerah.
+
+(2) Bank Pembiayaan Rakyat Syariah hanya dapat didirikan
+
+dan/atau dimiliki oleh:
+
+a. warga negara Indonesia dan/atau badan hukum
+Indonesia yang seluruh pemiliknya warga negara
+Indonesia;
+
+b. pemerintah daerah; atau
+
+c. dua pihak atau lebih sebagaimana dimaksud dalam
+huruf a dan huruf b.
+
+(3) Maksimum kepemilikan Bank Umum Syariah oleh warga
+
+negara asing dan/atau badan hukum asing diatur dalam
+Peraturan Bank Indonesia.
+
+Pasal 10 ...
+
+-----
+
+ - 10
 
 ## Penjelasan Resmi
 

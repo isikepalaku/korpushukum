@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Bimbingan pelaksanaan usaha simpan pinjam oleh Koperasi
-sebagaimana dimaksud dalam Pasal 72 ayat (1) meliputi:
+sebagaimana dimaksud dalam
+
+Pasal 72
+ayat (1) meliputi:
 a. mendorong, mengembangkan, dan membantu
 pelaksanaan pendidikan, pelatihan, penyuluhan, dan
 penelitian usaha simpan pinjam oleh Koperasi;

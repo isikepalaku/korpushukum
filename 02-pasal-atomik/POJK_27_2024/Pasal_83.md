@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam proses penerimaan calon Konsumen
-sebagaimana dimaksud dalam Pasal 80 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 80
+ayat (1)
 Pedagang wajib memiliki sistem penerimaan Konsumen
 secara daring yang di dalamnya menjamin kerahasiaan
 setiap data dan informasi calon Konsumen.
@@ -33,7 +36,10 @@ tinggi.
 (3) Sistem penerimaan Konsumen secara daring
 sebagaimana dimaksud pada ayat (1) wajib terintegrasi
 dengan sistem dan sarana perdagangan daring milik
-Pedagang sebagaimana dimaksud dalam Pasal 45 ayat
+Pedagang sebagaimana dimaksud dalam
+
+Pasal 45
+ayat
 (5) huruf b.
 (4) Sistem penerimaan Konsumen secara daring
 sebagaimana dimaksud pada ayat (1) paling sedikit

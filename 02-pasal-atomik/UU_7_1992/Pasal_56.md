@@ -20,7 +20,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan batas maksimum pemberian kredit sebagaimana dimaksud
-dalam Pasal 11 ayat (2) dan ayat (4), wajib dipenuhi oleh bank
+dalam
+
+Pasal 11
+ayat (2) dan ayat (4), wajib dipenuhi oleh bank
 selambat-lambatnya dalam jangka waktu 5 (lima) tahun sejak mulai
 berlakunya Undang-undang ini.
 

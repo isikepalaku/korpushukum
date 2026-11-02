@@ -28,6 +28,12 @@ e. efektivitas;
 f. efisiensi; dan
 g. kepastian hukum.
 
+Pasal 3 . . .
+
+-----
+
+ - 4
+
 ## Penjelasan Resmi
 
 Huruf a

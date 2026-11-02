@@ -21,7 +21,12 @@ mengamandemen: []
 
 Ketentuan lebih lanjut mengenai besarnya manfaat uang tunai, hak ahli waris,
 
- kompensasi, dan pelayanan medis sebagaimana dimaksud dalam Pasal 31 dan
+ kompensasi, dan pelayanan medis sebagaimana dimaksud dalam
+
+Pasal 31
+dan
+
+ Pasal 32 diatur lebih lanjut dalam Peraturan Pemerintah.
 
 ## Penjelasan Resmi
 

@@ -46,7 +46,10 @@ RUPS.
 
 ## Penjelasan Resmi
 
-Lihat penjelasan Pasal 115 ayat (1).
+Lihat penjelasan
+
+Pasal 115
+ayat (1).
 Ayat (1)
 
 Huruf a

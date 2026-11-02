@@ -19,7 +19,26 @@ mengamandemen: []
 ## Batang Tubuh
 
 **(1) Dalam hal tertentu, baik atas kewenangan Hakim**
-**ketua sidang karena jabatannya maupun atas permintaan Penuntut Umum atau Terdakwa atau Advokatnya dengan memberikan alasan yang dapat diterima, sidang sebagaimana dimaksud dalam**
+**ketua sidang karena jabatannya maupun atas permintaan Penuntut Umum atau Terdakwa atau Advokatnya dengan memberikan alasan yang dapat diterima, sidang sebagaimana dimaksud dalam**Pasal 231 ayat (5) dapat dibuka kembali.
+**(21 Setelah ketentuan sebagaimana dimaksud pada**
+ ayat (1) dilakukan, Hakim mengadakan musyawarah terakhir untuk mengambil keputusan dan apabila
+**perlu musyawarah tersebut diadakan setelah**
+**Terdakwa, Saksi, Advokat, Penuntut Umum, dan hadirin meninggalkan ruang sidang.**
+
+(3) Musyawarah . . .
+
+-----
+
+PRESIDEN
+**REFUBU( INDONESIA**
+
+**(3) Musyawarah sebagaimana dimaksud pada ayat (2)**
+
+**harus didasarkan atas surat dakwaan dan segala sesuatu yang terbukti dalam pemeriksaan di sidang pengadilan. (41 Dalam musyawarah sebagaimana dimaksud pada**
+ ayat (3), Hakim ketua majelis mengajukan pertanyaan kepada setiap Hakim anggota dan setelah itu ketua majelis Hakim mengemukakan pendapatnya.
+**(5) Pendapat sebagaimana dimaksud pada ayat (4) harus**
+
+**disertai dengan pertimbangan beserta alasannya.**
 
 ## Penjelasan Resmi
 

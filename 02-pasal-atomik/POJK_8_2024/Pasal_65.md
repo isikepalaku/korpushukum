@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 63 ayat (1) dan/atau Pasal 64
+dimaksud dalam Pasal 63 ayat (1) dan/atau
+
+Pasal 64
 dikenakan sanksi administratif berupa:
 a. peringatan tertulis;
 b. penurunan tingkat kesehatan; dan/atau

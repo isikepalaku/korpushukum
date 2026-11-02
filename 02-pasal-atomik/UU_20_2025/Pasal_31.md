@@ -18,11 +18,19 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(l) Dalam hal Mahkamah Agung mengabulkan**
+**Sebelum dimulainya pemeriksaan sebagaimana Pasal 3O,**
+Penyidik wajib memberitahukan kepada Tersangka mengenai
+**haknya untuk mendapatkan Bantuan Hukum atau**
+pendampingan oleh Advokat atau Pemberi Bantuan Hukum.
 
-**permohonan kasasi, Mahkamah Agung membatalkan Putusan Pengadilan yang dimintakan kasasi. (21 Ketentuan mengenai pembatalan Putusan Pengadilan**
- sebagaimana dimaksud dalam Pasal 310 berlaku secara mutatis mutandis terhadap pembatalan Putusan Pengadilan yang dimintakan kasasi
-sebagaimana dimaksud pada ayat (1).
+Pasal 32...
+
+-----
+
+PRESIDEN
+REPUELIK INDONESIA
+
+**-23-**
 
 ## Penjelasan Resmi
 

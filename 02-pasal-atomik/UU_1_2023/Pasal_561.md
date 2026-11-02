@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '561'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Nakhoda Kapal Indonesia yang dengan maksud menguntungkan diri sendiri atau orang
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dalam ketentuan ini yang dimaksud dengan "mengubah haluan Ikpal" adalah mengubah tujuan perjalanan atau menyinggahi pelabuhan yang tidak termasuk rencana pelayaran semula, atau tidak langsung menuju pelabuhan yang telah ditentukan sebelumnya sebagai pelabuhan tujuan.

@@ -17,50 +17,54 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sanksi administratif berupa:
-a. peringatan tertulis;
-b. pembekuan sebagian atau seluruh kegiatan
-usaha;
-c. pembatasan kegiatan usaha tertentu;
-d. penurunan hasil penilaian tingkat risiko;
-e. pembatalan persetujuan;
-f. larangan menjadi PSP, Direksi, Dewan Komisaris,
-dan/atau DPS; dan/atau
-g. denda administratif.
-(2) Sanksi administratif sebagaimana pada ayat (1) huruf b
-sampai dengan huruf g dapat dikenakan dengan atau
-tanpa didahului pengenaan sanksi administratif berupa
-peringatan tertulis sebagaimana dimaksud pada ayat
-(1) huruf a.
-(3) Sanksi administratif berupa denda administratif
-sebagaimana dimaksud pada ayat (1) huruf g dikenakan
-paling banyak Rp50.000.000,00 (lima puluh juta
-rupiah).
+(1) Penyelenggara dapat menyerahkan sebagian
+pelaksanaan pekerjaan kepada pihak ketiga dengan
+perjanjian alih daya.
+(2) Bentuk perjanjian alih daya dilakukan Penyelenggara
+melalui perjanjian:
+a. pemborongan pekerjaan; dan/atau
+b. penyediaan jasa tenaga kerja.
+(3) Penyelenggara dilarang untuk mengalihdayakan
+pekerjaan yang menjalankan fungsi:
+a. penilaian kelayakan Pendanaan; dan/atau
+b. operasional Teknologi Informasi.
+(4) Operasional Teknologi Informasi sebagaimana
+dimaksud pada ayat (3) huruf b meliputi:
+a. aktivitas pengelolaan akses Pengguna; dan
+b. pengelolaan pangkalan data.
 
 -----
 
-(4) Dalam hal Penyelenggara telah memenuhi ketentuan
-sebagaimana dimaksud pada ayat (1), Otoritas Jasa
-Keuangan mencabut sanksi administratif.
-(5) Dalam hal terjadi pelanggaran ketentuan sebagaimana
-dimaksud pada ayat (1) dan pelanggaran telah
-diperbaiki, Otoritas Jasa Keuangan memberikan sanksi
-administratif berupa peringatan tertulis yang berakhir
-dengan sendirinya.
-(6) Selain sanksi administratif sebagaimana dimaksud
-pada ayat (1), Otoritas Jasa Keuangan berwenang:
-a. menurunkan hasil penilaian Tingkat Kesehatan;
-b. melakukan penilaian kembali terhadap Pihak
-Utama yang menyebabkan Penyelenggara
-melanggar ketentuan sebagaimana dimaksud pada
-ayat (1); dan/atau
-c. melakukan pencatatan rekam jejak terhadap pihak
-yang menyebabkan Penyelenggara melanggar
-ketentuan sebagaimana dimaksud pada ayat (1)
-dalam Sistem Elektronik Otoritas Jasa Keuangan.
+(5) Penyelenggara dapat melakukan aktivitas alih daya
+untuk pengembangan Teknologi Informasi.
+(6) Dalam hal Penyelenggara melakukan aktivitas alih daya
+untuk pengembangan Teknologi Informasi
+sebagaimana dimaksud pada ayat (5), Penyelenggara
+wajib memenuhi persyaratan:
+a. kode sumber aplikasi dan akses server production
+dimiliki oleh Penyelenggara;
+b. pengembangan Teknologi Informasi dikerjakan
+atas nama Penyelenggara; dan
+c. pengembangan Teknologi Informasi tidak
+dilaksanakan dalam tahapan _deployment dan_
+_maintenance production._
+(7) Penyelenggara dilarang menyerahkan sebagian
+pekerjaan kepada pihak ketiga sebagaimana dimaksud
+pada ayat (1) selain kepada pihak ketiga yang
+memenuhi ketentuan:
+a. pihak ketiga berbentuk badan hukum di
+Indonesia;
+b. pihak ketiga terdaftar pada asosiasi perusahaan
+sejenis pihak ketiga;
+c. tidak memengaruhi reputasi Penyelenggara; dan
+d. dilaksanakan sesuai dengan ketentuan peraturan
+perundang-undangan di bidang ketenagakerjaan.
+(8) Penyelenggara wajib bertanggung jawab atas
+pelaksanaan kegiatan yang diserahkan kepada pihak
+ketiga.
 
-BAB VII
-PERUBAHAN KEPEMILIKAN DAN PENGAMBILALIHAN
+Bagian Keenam
+Sanksi Administratif
 
 ## Penjelasan Resmi
 

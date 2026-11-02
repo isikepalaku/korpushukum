@@ -41,12 +41,13 @@ REPUBLIK INDONESIA
  (3) Kementerian bersarna kementerian teknis, Dinas, dan
  dinas yang menyclenggarakan urusan pernerintahan daerah di bidang perdagangan melakukan pembinaan
 Koperasi di sektor perdagangan paling sedikit:
-**a. penguatan kelembagaan; b. pendldikan dan pelatihan sumber daya manusia; c. kemudahan akses perrnocialan: dan d. pengembangan usaha.**
-
-Pasal -34
+**a. penguatan kelembagaan; b. pendldikan dan pelatihan sumber daya manusia; c. kemudahan akses perrnocialan: dan d. pengembangan usaha.**Pasal -34
 **(1) Pemberdayaan bagi Koperasi di sektor pertanian**
 
-sebagaimana ciirrai.gua dalam Pasal 25 huruf c, berupa:
+sebagaimana ciirrai.gua dalam
+
+Pasal 25
+huruf c, berupa:
 **a. pernberian kesempatan berusaha bagi Koperasi**
 
 **rneialui pengembangan bisnis korporasi petani**

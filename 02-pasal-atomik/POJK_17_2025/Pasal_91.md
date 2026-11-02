@@ -37,4 +37,7 @@ Efek telah terkumpul.
 
 ## Penjelasan Resmi
 
-Lihat penjelasan Pasal 12 ayat (2).
+Lihat penjelasan
+
+Pasal 12
+ayat (2).

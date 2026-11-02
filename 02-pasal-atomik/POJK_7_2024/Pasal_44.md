@@ -17,48 +17,15 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-48 ayat (2), Pasal 52 ayat (4), dan/atau Pasal 55 ayat (2),
-BPR atau BPR Syariah dapat dikenai sanksi administratif
-berupa:
-a. penurunan tingkat kesehatan;
-b. larangan melakukan ekspansi kegiatan usaha;
-c. penghentian sementara sebagian kegiatan
-operasional; dan/atau
-d. penundaan hak menerima dividen bagi pemegang
-saham.
-(3) Dalam hal BPR atau BPR Syariah telah dikenai sanksi
-administratif sebagaimana dimaksud pada ayat (1)
-dan/atau ayat (2), pihak utama BPR atau BPR Syariah
-dapat dikenai sanksi administratif berupa larangan
-sebagai pihak utama sesuai dengan Peraturan OJK
-mengenai penilaian kembali bagi pihak utama lembaga
-jasa keuangan.
-(4) Selain sanksi administratif sebagaimana dimaksud pada
-ayat (1), ayat (2), dan/atau ayat (3), BPR, BPR Syariah,
-dan/atau PSP dapat dikenai sanksi administratif berupa
+(1) BPR atau BPR Syariah wajib memiliki paling sedikit 2 (dua)
+orang anggota Direksi dan salah satu di antaranya
+menjabat sebagai direktur utama.
+(2) OJK dapat menetapkan jumlah anggota Direksi lebih dari
+2 (dua) orang sebagaimana dimaksud pada ayat (1) sesuai
+dengan Peraturan OJK mengenai penerapan tata kelola
+bagi BPR atau BPR Syariah.
 
 -----
-
-denda paling sedikit Rp10.000.000,00 (sepuluh juta
-rupiah) dan paling banyak Rp100.000.000,00 (seratus juta
-rupiah) untuk setiap pelanggaran yang dilakukan.
-(5) BPR atau BPR Syariah yang melanggar ketentuan
-sebagaimana dimaksud dalam Pasal 49 ayat (4), Pasal 50
-ayat (3), Pasal 51 ayat (1), Pasal 52 ayat (1), ayat (2), Pasal
-53 ayat (2), dan/atau Pasal 54 ayat (1) dikenai sanksi
-administratif sesuai dengan Peraturan OJK mengenai
-pelaporan BPR dan BPR Syariah melalui sistem pelaporan
-OJK.
-(6) BPR Syariah yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 47 ayat (1) dikenai sanksi sesuai
-dengan Peraturan OJK mengenai BPR Syariah.
-
-BAB V
-KANTOR BPR DAN BPR SYARIAH
-
-Bagian Kesatu
-
-Umum
 
 ## Penjelasan Resmi
 

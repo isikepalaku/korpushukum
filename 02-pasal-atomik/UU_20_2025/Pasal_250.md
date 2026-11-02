@@ -65,7 +65,14 @@ dan yang meringankan Terdakwa;
 
 (3) Putusan dilaksanakan dengan segera menurut
 
-**ketentuan dalam Undang-Undang ini.**
+**ketentuan dalam Undang-Undang ini.**Pasal 251 ...
+
+-----
+
+**Erl-EIIitrN**
+REPUBLIK INDONESIA
+
+**-133-**
 
 ## Penjelasan Resmi
 

@@ -41,4 +41,6 @@ e. adanya . . .
 
 ## Penjelasan Resmi
 
+Ayat (l)
+
 Tata kelola Sistem Elektronik yang baik (IT Gouernanel mencakup proses perencanaan, pengimplementasian, pengoperasian, pemeliharaan, dan pendokumentasian. Ayat (2) Cukupjelas. Ayat (3) Cukupjelas.

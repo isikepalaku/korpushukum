@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '495'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,4 @@ Setiap Orang yang melakukan perbuatan dengan cara curang yang mengakibatkan oran
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini dimaksudkan untuk melindungi konsumen dari perbuatan dengan cara curang dalam dunia perdagangan yang dilalrukan oleh penjual. Dalam dunia perdagangan dapat terjadi penjual memberikan pengakuan palsu tentang sifat atau keadaan Barang yang dijualnya atau tidak menyatakan dengan sebenamya sifat atau keadaan Barang tersebut, sehingga konsumen membeli suatu Barang yang tidak sesuai dengan harapan atau tidak sesuai dengan biaya yang dikeluarkannya.

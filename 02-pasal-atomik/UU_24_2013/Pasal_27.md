@@ -30,7 +30,10 @@ pada Register Akta Kelahiran dan menerbitkan
 Kutipan Akta Kelahiran.
 
 8. Ketentuan ayat (1) dan ayat (3) Pasal 32 diubah dan
-ayat (2) dihapus, sehingga Pasal 32 berbunyi sebagai
+ayat (2) dihapus, sehingga
+
+Pasal 32
+berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -52,4 +55,5 @@ sebagaimana
 diatur 
 dalam 
 Peraturan 
-Perundang-undangan.
+Perundang-undangan. 
+Angka 8

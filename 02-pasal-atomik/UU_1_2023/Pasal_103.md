@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '103'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -35,4 +35,48 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
+Ayat (1) Hurufa Yang dimaksud dengan "konseling" adalah proses pemberian
+
+bimbingan atau bantuan dalam rangka mengatasi masalah dan mengubah perilaku menjadi positif dan konstruktif.
+
+**Hurufb**
+
+Yang dimaksud dengan "rehabilitasi" antara lain, rehabilitasi medis atau rehabilitasi sosial sebagai proses pemulihan secara terpadu, baik fisik, mental maupun sosial, agar yang bersangkutan dapat kembali melaksanakan fungsi sosial yang positif dan konstruktif dalam rangka mengembalikannya untuk menjadi warga negara yang baik dan berguna.
+
+**Hurufc**
+
+Yang dimaksud dengan "pelatihan kerja" adalah kegiatan pemberian keterampilan kepada orang yang diberikan tindakan untuk mempersiapl&lt;annya kembali ke masyarakat dan memasuki lapangan kerja.
+
+**Hurufd**
+
+Yang dimaksud dengan "lembaga" adalah lemb"ga yang menyelenggarakan urusan di bidang kesejahteraan sosial, baik pemerintah maupun swasta.
+
+**Hurufe**
+
 Cukup jelas.
+
+**Ayat (2)**
+
+**Hurufa**
+
+Yang dimaksud dengan "rehabilitasi" dalam ketentuan ini adalah proses pelayanan yang diberikan kepada seseorang yang mengalami disabittas, baik sejak lahir maupun tidak sejak lahir untuk mengembalikan dan mempertahankan fungsi serta mengembangkan kemandirian, sehingga dapa.t beraktivitas dan berpartisipa.si penuh dalam semua aspek kehidupan.
+
+**Hurufb**
+
+Yang dimaksud dengan "seseorang" adq'lah pihak keluarga yang mampu merawat atau pihak lain yang memiliki kepedulian dan mampu untuk merawat yang bersangkutan.
+
+**Hurrf c**
+
+Cukup jelas.
+
+Hurufd
+
+Cukup jelas.
+
+Huruf e
+
+Cukup jelas.
+
+Ayat(3)...
+
+Ayat (3) Cukup jelas.

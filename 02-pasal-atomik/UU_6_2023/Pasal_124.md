@@ -23,7 +23,10 @@ mengamandemen: []
 ## Penjelasan Resmi
 
 ```
-Angka 11 Pasal 42 Cukup jelas. Angka 12 Pasal 46 Cukup jelas. Angka 1 Pasal 44 Ayat (1) Cukup jelas. Ayat (2) pembangkit dan jaringan listrik.
+Angka 11
+
+Pasal 42
+Cukup jelas. Angka 12 Pasal 46 Cukup jelas. Angka 1 Pasal 44 Ayat (1) Cukup jelas. Ayat (2) pembangkit dan jaringan listrik.
 ```
 
 Yang dimaksud dengan "kepentingan umum" adalah kepentingan sebagian besar masyarakat yang meliputi kepentingan untuk pembuatan jalan umum, waduk, bendungan, irigasi, saluran air minum atau air bersih, drainase dan sanitasi, bangunan pengairan, pelabuhan, bandar udara, stasiun dan jalan kereta api, terminal, fasilitas keselamatan umum, cagar alam, serta
@@ -33,7 +36,10 @@ Yang dimaksud dengan "kepentingan umum" adalah kepentingan sebagian besar masyar
 Ayat (3)
 
 ```
-Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas. Angka 2 Pasal 73 Cukup jelas. Pasal 125 Cukup jelas. Pasal 126 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f
+Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas. Angka 2
+
+Pasal 73
+Cukup jelas. Pasal 125 Cukup jelas. Pasal 126 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f
 ```
 
 Reforma agraria dalam kerangka badan bank tanah tidak

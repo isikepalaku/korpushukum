@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang tidak mematuhi pelaksanaan upaya penanggulangan KLB dan Wabah dan/ atau dengan sengaja menghalang-halangi pelaksanaan upaya penanggulangan KLB dan Wabah sebagaimana dimaksud dalam Pasal 40O dipidana dengan pidana denda paling banyak Rp5O0.0O0.000,00 (lima ratus juta rupiah).
+Setiap Orang yang tidak mematuhi pelaksanaan upaya penanggulangan KLB dan Wabah dan/ atau dengan sengaja menghalang-halangi pelaksanaan upaya penanggulangan KLB dan Wabah sebagaimana dimaksud dalam
+
+Pasal 400
+dipidana dengan pidana denda paling banyak Rp5O0.0O0.000,00 (lima ratus juta rupiah).
 
 ## Penjelasan Resmi
 

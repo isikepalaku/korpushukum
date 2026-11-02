@@ -18,8 +18,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 Perusahaan yang memenuhi kriteria pengawasan intensif
-sebagaimana dimaksud dalam Pasal 218 atau pengawasan
-khusus sebagaimana dimaksud dalam Pasal 220 dapat tidak
+sebagaimana dimaksud dalam
+
+Pasal 218
+atau pengawasan
+khusus sebagaimana dimaksud dalam
+
+Pasal 220
+dapat tidak
 ditetapkan dalam status pengawasan intensif atau
 pengawasan khusus jika:
 a. Perusahaan dalam proses Penggabungan, Peleburan,

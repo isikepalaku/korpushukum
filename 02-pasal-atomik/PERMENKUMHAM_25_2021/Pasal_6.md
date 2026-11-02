@@ -20,8 +20,9 @@ mengamandemen: []
 
 Dalam mengajukan permohonan Hak Akses bagi industri
 
-keuangan nonbank sebagaimana dimaksud dalam Pasal 3
+keuangan nonbank sebagaimana dimaksud dalam
 
+Pasal 3
 ayat (3) huruf b, Pemohon mengisi formulir permohonan Hak
 
 Akses yang paling sedikit memuat:

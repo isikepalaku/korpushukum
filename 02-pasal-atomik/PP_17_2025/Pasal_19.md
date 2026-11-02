@@ -25,7 +25,10 @@ Yang dimaksud dengan "pemrofilan Anak secara baku (defaul! dengan cara atau meto
 
 Ayat (2) 
 
-Yang dimaksudokepentingan terbaik bagi Anak", lihat penjelasan Pasal 8 huruf a. Ayat (3) Cukupjelas. Ayat (4) 
+Yang dimaksudokepentingan terbaik bagi Anak", lihat penjelasan
+
+Pasal 8
+huruf a. Ayat (3) Cukupjelas. Ayat (4) 
 
 Yang dimaksud dengan berbagai aspek tentang Anald misalnya kecenderungan pilihan Anak terhadap sesuatu. Ayat (5) Cukupjelas.
 

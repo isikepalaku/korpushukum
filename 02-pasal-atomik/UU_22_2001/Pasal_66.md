@@ -23,6 +23,8 @@ mengamandemen: []
 - c. Undang-UndangNomor8Tahun1971tentangPerusahaanPertambanganMinyakdan Gas Bumi Negara (Lembaran Negara Tahun 1971 Nomor 76, Tambahan Lembaran Negara Nomor 2971) berikut segala perubahannya, terakhir diubah dengan Undang-Undang Nomor 10 Tahun 1974 (Lembaran Negara Tahun 1974 Nomor 3045).
 - (2) SegalaperaturanpelaksanaandariUndang-UndangNomor44Prp.Tahun1960tentang Pertambangan Minyak dan Gas Bumi (Lembaran Negara Tahun 1960 Nomor 133, Tambahan Lembaran Negara Nomor 2070) dan Undang-Undang Nomor 8 Tahun 1971 tentang Perusahaan Pertambangan Minyak dan Gas Bumi Negara (Lembaran Negara Tahun 1971 Nomor 76, Tambahan Lembaran Negara Nomor 2971) dinyatakan tetap berlaku sepanjang tidak bertentangan atau belum diganti dengan peraturan baru berdasarkan Undang-undang ini.
 
+Pasal 67 …
+
 ## Penjelasan Resmi
 
 Cukup jelas.

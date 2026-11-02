@@ -18,21 +18,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(2) Ketentuan lebih lanjut mengenai Rehabilitasi**
+**(1) Seorang berhak memperoleh Rehabilitasi apabila oleh**
 
-sebagaimana dimaksud dalam Pasal 176 diatur dalam
-**Peraturan Pemerintah.**
+**pengadilan diputus bebas atau diputus lepas dari segala tuntutan hukum yang putusannya telah**
+memperoleh kekuatan hukum tetap.
+**(2) Rehabilitasi sebagaimana yang dimaksud pada ayat (1)**
+ meliputi:
+**a. Rehabilitasisosial; b. Rehabilitasi medis; c. pemberdayaan sosial; dan d. reintegrasi sosial. (3) Rehabilitasi tersebut diberikan dan dicantumkan**
 
- Bagian . . .
-
------
-
-PRESIDEN
-**ELIK INDONESIA**
-
- Bagian Ketiga
-
- Restitusi
+**sekaligus dalam Putusan Pengadilan sebagaimana dimaksud pada ayat (l). (4) Permintaan Rehabilitasi oleh Tersangka atas**
+ Penangkapan atau Penahanan tanpa alasan yang berdasarkan Undang-Undang atau kekeliruan mengenai orang atau hukum yang diterapkan dan perkaranya tidak diajukan ke pengadilan negeri diputus oleh Halim Praperadilan.
 
 ## Penjelasan Resmi
 

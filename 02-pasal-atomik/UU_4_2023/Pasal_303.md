@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-WK yang menjalankan kegiatan usaha bulion (bullion) tanpa izin usaha dari Otoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 131 dipidana dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 15 (lima belas) tahun dan pidana denda paling sedikit RpS0.000.000.000,00 (lima puluh miliar rupiah) dan paling banyak Rp600.000.000.000,00 (enam ratus miliar rupiah).
+WK yang menjalankan kegiatan usaha bulion (bullion) tanpa izin usaha dari Otoritas Jasa Keuangan sebagaimana dimaksud dalam
+
+Pasal 131
+dipidana dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 15 (lima belas) tahun dan pidana denda paling sedikit RpS0.000.000.000,00 (lima puluh miliar rupiah) dan paling banyak Rp600.000.000.000,00 (enam ratus miliar rupiah).
 
 **Bagian Keenam**
 

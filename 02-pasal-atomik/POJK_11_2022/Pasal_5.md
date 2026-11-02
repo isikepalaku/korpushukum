@@ -19,7 +19,10 @@ mengamandemen: []
 
 Wewenang dan tanggung jawab Direksi sebagaimana
 
-dimaksud dalam Pasal 4 paling sedikit mencakup:
+dimaksud dalam
+
+Pasal 4
+paling sedikit mencakup:
 
 a. menetapkan rencana strategis TI;
 

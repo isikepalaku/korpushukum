@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Lembaga Penjamin yang berbentuk badan hukum koperasi
-sebagaimana dimaksud dalam Pasal 7 huruf c hanya dapat
+sebagaimana dimaksud dalam
+
+Pasal 7
+huruf c hanya dapat
 dimiliki oleh anggota koperasi sesuai dengan undang-undang
 yang mengatur mengenai perkoperasian.
 

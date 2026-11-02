@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal anggota direksi atau yang setara pada pengelola Program Pensiun yang terkait dengan keuangan negara melakukan cut loss tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 191 ayat (1) dan/atau menyebabkan penurunan nilai aset tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 191 ayat (4) dikenai sanksi sesuai dengan ketentuan peraturan perundang­ undangan.
+Dalam hal anggota direksi atau yang setara pada pengelola Program Pensiun yang terkait dengan keuangan negara melakukan cut loss tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 191 ayat (1) dan/atau menyebabkan penurunan nilai aset tidak sesuai dengan ketentuan sebagaimana dimaksud dalam
+
+Pasal 191
+ayat (4) dikenai sanksi sesuai dengan ketentuan peraturan perundang­ undangan.
 
 ## Penjelasan Resmi
 

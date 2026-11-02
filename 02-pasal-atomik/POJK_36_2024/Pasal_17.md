@@ -180,3 +180,5 @@ oleh Agen Asuransi dengan persetujuan
 Perusahaan Asuransi, Perusahaan Asuransi
 Syariah, atau Unit Syariah pada Perusahaan
 Asuransi.
+
+Angka 16

@@ -21,6 +21,51 @@ mengamandemen: []
 Laporan Berkala kepada Otoritas Jasa Keuangan
 berupa:
 a. Laporan Bulanan sebagaimana dimaksud dalam
+Pasal 2
+ayat (2) huruf a disampaikan paling lambat
+tanggal 10 bulan berikutnya;
+b. Laporan Triwulanan sebagaimana dimaksud
+dalam
+
+Pasal 2
+ayat (2) huruf b disampaikan paling
+lambat 1 (satu) bulan sejak berakhirnya triwulan
+yang bersangkutan;
+c. Laporan Tahunan sebagaimana dimaksud dalam
+Pasal 2
+ayat (2) huruf c paling lambat tanggal 30
+April tahun berikutnya;
+d. Laporan Publikasi sebagaimana dimaksud dalam
+Pasal 2
+ayat (2) huruf d disampaikan paling
+lambat:
+1. 10 (sepuluh) hari kerja setelah berakhirnya
+bulan bersangkutan untuk ringkasan laporan
+bulanan; dan
+2. 1 (satu) bulan setelah batas waktu
+penyampaian Laporan Tahunan untuk
+ringkasan laporan keuangan tahunan yang
+telah diaudit; dan
+
+-----
+
+e. Laporan Lain sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf e disampaikan sesuai dengan
+ketentuan batas waktu yang diatur dalam
+Peraturan Otoritas Jasa Keuangan atau ketentuan
+peraturan perundang-undangan lain yang
+mewajibkan penyampaian pelaporan dimaksud.
+(2) Penyampaian Laporan Berkala sebagaimana dimaksud
+pada ayat (1) dilakukan melalui sistem pelaporan
+Otoritas Jasa Keuangan.
+(3) Apabila batas akhir penyampaian laporan sebagaimana
+dimaksud pada ayat (1) jatuh pada hari libur, batas
+akhir penyampaian laporan pada hari kerja pertama
+berikutnya.
+(4) Apabila batas akhir penyampaian laporan sebagaimana
+dimaksud pada ayat (1) jatuh pada hari libur nasional
+atau libur bersama, Otoritas Jasa Keuangan berwenang
+menetapkan tanggal jatuh tempo penyampaian
+laporan.
 
 ## Penjelasan Resmi
 

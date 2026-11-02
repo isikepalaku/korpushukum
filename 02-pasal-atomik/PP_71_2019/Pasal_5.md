@@ -35,4 +35,4 @@ Pendaftaran Sistem Elektronik
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

@@ -20,6 +20,15 @@ mengamandemen: []
 Bank yang telah memiliki rencana korporasi yang memenuhi
 ketentuan sebagaimana dimaksud dalam Pasal 6 ayat (2),
 
+Pasal 7
+ayat (1) dan ayat (2) pada saat Peraturan OJK ini
+berlaku, menyampaikan rencana korporasi kepada OJK
+paling lama 14 (empat belas) hari kerja sejak Peraturan OJK
+ini berlaku.
+
+BAB XVI
+KETENTUAN PENUTUP
+
 ## Penjelasan Resmi
 
 Contoh:

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam hal terjadi pelanggaran ketentuan sebagaimana
-dimaksud dalam Pasal 127 ayat (1), Otoritas Jasa Keuangan
+dimaksud dalam
+
+Pasal 127
+ayat (1), Otoritas Jasa Keuangan
 berwenang untuk:
 a. melakukan penilaian kembali terhadap Pihak Utama;
 b. melakukan pencatatan rekam jejak terhadap pihak

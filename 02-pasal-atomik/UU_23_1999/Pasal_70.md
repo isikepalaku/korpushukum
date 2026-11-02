@@ -18,37 +18,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-administratif terhadap pegawai Bank Indonesia serta pihak-pihak
-lain yang tidak memenuhi kewajibannya sebagaimana ditentukan
-dalam Undang-undang ini.
+(1) Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 55 ayat (4), diancam dengan pidana penjara sekurang-kurangnya 1 (satu) tahun dan paling lama 3 (tiga) tahun, serta denda sekurang-kurangnya Rp6.000.000.000,00 (enam miliar rupiah) dan paling banyak Rp15.000.000.000,- (lima belas miliar rupiah).
 
-(2) Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat
-
-berupa :
-
-a. denda; atau
-
-b. teguran tertulis; atau
-
-c. pencabutan atau pembatalan izin usaha oleh instansi yang
-
-berwenang apabila pelanggaran dilakukan oleh badan
-usaha; atau
-
-d. pengenaan sanksi disiplin kepegawaian.
-
-(3) Ketentuan lebih lanjut mengenai sanksi administratif ditetapkan
-
-dengan Peraturan Bank Indonesia atau Peraturan Dewan
-Gubernur.
-
-**BAB XVII**
-
- KETENTUAN PERALIHAN
+ (2) Penuntutan terhadap pelanggaran sebagaimana dimaksud pada ayat
+ (1), dilakukan terhadap mereka yang memberi perintah, yang melakukan perbuatan, yang bertindak sebagai pimpinan dalam perbuatan dimaksud, atau terhadap ketiga-tiganya.
 
 -----
 
- - 22
+ - 21
 
 ## Penjelasan Resmi
 

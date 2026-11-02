@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Perjanjian baku yang telah dibuat oleh Pelaku Usaha Jasa Keuangan sebelum berlakunya Peraturan Otoritas Jasa Keuangan ini, wajib disesuaikan dengan ketentuan sebagaimana diatur dalam Pasal 22 paling lambat pada saat berlakunya Peraturan Otoritas Jasa Keuangan ini.
+Perjanjian baku yang telah dibuat oleh Pelaku Usaha Jasa Keuangan sebelum berlakunya Peraturan Otoritas Jasa Keuangan ini, wajib disesuaikan dengan ketentuan sebagaimana diatur dalam
+
+Pasal 22
+paling lambat pada saat berlakunya Peraturan Otoritas Jasa Keuangan ini.
 
 BAB VIII...
 

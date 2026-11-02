@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Lulusan uji kompetensi sebagaimana dimaksud dalam Pasal 213 ayat (3) dan ayat (a) wajib diangkat sumpah profesinya oleh penyelenggara pendidikan sesuai dengan etika profesi.
+Lulusan uji kompetensi sebagaimana dimaksud dalam
+
+Pasal 213
+ayat (3) dan ayat (a) wajib diangkat sumpah profesinya oleh penyelenggara pendidikan sesuai dengan etika profesi.
 
 ## Penjelasan Resmi
 

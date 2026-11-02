@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggaraan Produk Asuransi Bersama
-sebagaimana dimaksud dalam Pasal 5 ayat (1) harus
+sebagaimana dimaksud dalam
+
+Pasal 5
+ayat (1) harus
 didasarkan pada perjanjian tertulis.
 
 -----
@@ -47,7 +50,10 @@ lingkup usaha masing-masing, dan Produk
 Asuransi Bersama yang diselenggarakan oleh
 Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah dengan bidang usaha sejenis sebagaimana
-dimaksud dalam Pasal 5 ayat (1) huruf a sampai
+dimaksud dalam
+
+Pasal 5
+ayat (1) huruf a sampai
 dengan huruf d, dengan ketentuan Perusahaan
 Asuransi atau Perusahaan Asuransi Syariah yang
 menjadi ketua harus menanggung porsi risiko

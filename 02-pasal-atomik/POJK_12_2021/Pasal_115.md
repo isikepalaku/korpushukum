@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) KCBLN yang melanggar ketentuan sebagaimana diatur
 
-dalam Pasal 108 ayat (2), Pasal 111 ayat (2), Pasal 112,
+dalam Pasal 108 ayat (2),
+
+Pasal 111
+ayat (2), Pasal 112,
 
 ## Penjelasan Resmi
 

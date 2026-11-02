@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '137'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,4 +25,10 @@ Jangka waltu kedaluwarsa dihitung mulai keesokan hari setelah perbuatan dilaluka
 
 ## Penjelasan Resmi
 
+**Huruf a**
+
 Cukup jelas.
+
+**Hurufb**
+
+Sesuai dengan sifat Tindak Pidana yang ada keberlangsungan, maka selesainya Tindak Pidana yang dimaksud dalam ketentuan ini adalah pada waktu Korban yang dilarikan, diculik, atau dirampa.s kemerdekaannya, dilepaskan. Apabila Korban sampai dibunuh maka waktu gugumya penuntutan, dihitung mulai hari berikutnya dari waktu matinya Korban.

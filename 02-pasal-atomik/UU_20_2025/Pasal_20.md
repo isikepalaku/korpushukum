@@ -25,6 +25,13 @@ mengamandemen: []
 
 Undang.
 
+Pasal 21
+**Ketentuan lebih lanjut mengenai Penyelidikan sebagaimana dimaksud dalam Pasal 13 sampai dengan Pasal 20 diatur dalam Peraturan Pemerintah.**
+
+ Bagian Keempat
+
+ Penyidikan
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

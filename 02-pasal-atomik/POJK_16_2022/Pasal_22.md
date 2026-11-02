@@ -17,7 +17,15 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Bank dapat beroperasi sebagai Bank Digital.
+(2) Bank Digital wajib memiliki 1 (satu) kantor fisik sebagai
+KP.
+(3) Bank Digital melaksanakan kegiatan usaha melalui
+saluran elektronik:
+a. tanpa kantor fisik selain KP sebagaimana dimaksud
 
+pada ayat (2); atau
+b. dapat menggunakan kantor fisik yang terbatas.
 
 ## Penjelasan Resmi
 

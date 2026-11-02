@@ -21,8 +21,19 @@ mengamandemen: []
 **(1) Salinan putusan kasasi demi kepentingan hukum oleh**
 
 **Mahkamah Agung disampaikan kepada Jaksa Agung dan kepada pengadilan yang bersangkutan dengan disertai berkas perkara. (21 Ketentuan mengenai penyampaian salinan putusan**
- pengadilan tinggi sebagaimana dimaksud dalam Pasal 298 ayat (71 berlaku secara mutatis mutandis terhadap penyampaian salinan putusan kasasi
+ pengadilan tinggi sebagaimana dimaksud dalam
+
+Pasal 298
+ayat (71 berlaku secara mutatis mutandis terhadap penyampaian salinan putusan kasasi
 sebagaimana dimaksud pada ayat (l ).
+
+Pasal 317
+**Ketentuan mengenai pemeriksaan tingkat kasasi demi kepentingan hukum sebagaimana dimaksud dalam Pasal 314 sampai dengan Pasal 316 berlaku bagi pemeriksaan tingkat kasasi demi kepentingan hukum terhadap Putusan Pengadilan dalam lingkungan peradilan militer.**
+
+BagiaP 1L6"
+**Peninjauan Kembali Putusan Pengadilan Yang Telah**
+
+Memperoleh Kekuatan Hukum Tetap
 
 ## Penjelasan Resmi
 

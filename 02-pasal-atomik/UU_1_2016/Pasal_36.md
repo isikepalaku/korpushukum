@@ -21,7 +21,10 @@ mengamandemen: []
 (1) Dalam hal Lembaga Penjamin bubar berdasarkan
 
 putusan pengadilan atau keputusan pemerintah
-sebagaimana dimaksud dalam Pasal 33 huruf c dan huruf
+sebagaimana dimaksud dalam
+
+Pasal 33
+huruf c dan huruf
 d, likuidator atau penyelesai harus melaporkan
 pembubaran tersebut kepada Otoritas Jasa Keuangan
 paling lambat 15 (lima belas) hari sejak putusan

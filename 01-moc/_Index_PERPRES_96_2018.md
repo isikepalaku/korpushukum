@@ -4,7 +4,7 @@ judul: "Map of Content - Persyaratan dan Tata Cara Pendaftaran Penduduk dan Penc
 kode_uu: PERPRES_96_2018
 type: moc
 tags: [moc, hukum/pidana, uu/perpres_96_2018]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil (PERPRES_96_2018)
@@ -84,7 +84,7 @@ last_updated: 2026-11-01
 - [[Pasal_73]]: (1) Pelaporan Peristiwa Kependudukan dan Peristiwa Penting
 - [[Pasal_74]]: berpedoman pada ketentuan peraturan perundang-undangan.
 - [[Pasal_75]]: Pejabat pada Disdukcapil Kabupaten/Kota yang melakukan
-- [[Pasal_76]]: Denda administratif sebagaimana dimaksud dalam Pasal 73,
+- [[Pasal_76]]: Denda administratif sebagaimana dimaksud dalam
 - [[Pasal_77]]: (1) Dalam hal terjadi Peristiwa Penting yang dialami oleh
 - [[Pasal_78]]: (1) Perjanjian perkawinan yang dibuat sebelum, pada saat,
 - [[Pasal_79]]: (1) Penerbitan KK karena perubahan data untuk perkawinan

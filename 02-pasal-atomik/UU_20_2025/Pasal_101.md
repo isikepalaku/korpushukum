@@ -18,9 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Dalam hal Penahanan dilakukan terhadap seorang Hakim, Penahanan harus berdasarkan izin Ketua Mahkamah Agung.**
-
- Pasal 1O2
+**Dalam hal Penahanan dilakukan terhadap seorang Hakim, Penahanan harus berdasarkan izin Ketua Mahkamah Agung.**Pasal 1O2
 **(l) Penyidik dapat melakukan Penahanan untuk**
 
 **kepentingan pemeriksaan pada tahap Penyidikan sebagaimana dimaksud dalam Pasal 99 ayal (1) dan**
@@ -34,9 +32,7 @@ ayat (21 untuk [jangka ] waktu paling I ama 20 (dua puluh)
 **Penahanan kepada Penuntut Umum untuk jangka waktu paling lama 40 (empat puluh) Hari.**
 **(3) Apabila jangka waktu 40 (empat puluh) Hari**
 
-**sebagaimana dimaksud pada ayat (2) terlampaui, Penyidik wajib mengeluarkan Tersangka dari tahanan.**
-
-Pasal 1O3. . .
+**sebagaimana dimaksud pada ayat (2) terlampaui, Penyidik wajib mengeluarkan Tersangka dari tahanan.**Pasal 1O3. . .
 
 -----
 

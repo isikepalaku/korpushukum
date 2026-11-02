@@ -27,7 +27,10 @@ _Owner) memenuhi kriteria PEP; dan_
 b. dalam hal terdapat risiko yang lebih tinggi atas hubungan
 usaha antara PJK dengan Nasabah atau Pemilik Manfaat
 (Beneficial Owner) tersebut, PJK wajib menerapkan
-ketentuan sebagaimana dimaksud dalam Pasal 37 ayat (1)
+ketentuan sebagaimana dimaksud dalam
+
+Pasal 37
+ayat (1)
 huruf b, huruf c, huruf d, dan huruf e.
 
 ## Penjelasan Resmi

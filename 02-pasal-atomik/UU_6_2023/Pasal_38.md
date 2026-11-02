@@ -27,10 +27,15 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Cukup jelas. Angka 7 Pasal 40 Cukup jelas. Angka 8 Pasal 4OA Ayat (1) Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Angka 9 Pasal 43 Cukup jelas. Angka 1O Pasal 44 Cukup jelas. Angka 11 Pasal 45 Cukup jelas.
+Cukup jelas. Angka 7
+
+Pasal 40
+Cukup jelas. Angka 8 Pasal 4OA Ayat (1) Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (s) Cukup jelas. Angka 9 Pasal 43 Cukup jelas. Angka 1O Pasal 44 Cukup jelas. Angka 11 Pasal 45 Cukup jelas.
 
 ```
 Yang dimaksud dengan "pengalihan alur sungai'
 ```
 
 adalah kegiatan mengalihkan alur sungai dengan cara membuat alur sungai baru yang mengakibatkan alur sungai yang dialihkan tidak berfungsi secara permanen.
+
+Angka 12

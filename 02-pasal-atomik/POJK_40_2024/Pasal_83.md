@@ -17,7 +17,33 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+(1) Asosiasi wajib melaporkan setiap perubahan:
+a. anggaran dasar dan/atau anggaran rumah tangga
+paling lama 10 (sepuluh) hari kerja sejak bukti
+persetujuan, bukti pengesahan dan/atau surat
+penerimaan pemberitahuan dari instansi yang
+berwenang;
+b. struktur kepengurusan paling lama 10 (sepuluh)
+hari kerja sejak terjadinya perubahan;
+c. kode etik paling lama 10 (sepuluh) hari kerja sejak
+terjadinya perubahan; dan
+d. program kerja paling lama 10 (sepuluh) hari kerja
+sejak terjadinya perubahan.
+(2) Pelaporan perubahan kepengurusan, anggaran dasar
+dan/atau anggaran rumah tangga, kode etik, dan/atau
+program kerja sebagaimana dimaksud pada ayat (1)
+harus disampaikan Asosiasi kepada Otoritas Jasa
+Keuangan dengan melampirkan dokumen persyaratan
+pelaporan perubahan kepengurusan, anggaran dasar
+dan/atau anggaran rumah tangga, kode etik, dan/atau
+program kerja tercantum dalam Lampiran pada tabel
+32 yang merupakan bagian tidak terpisahkan dari
+Peraturan Otoritas Jasa Keuangan ini.
+(3) Berdasarkan pelaporan sebagaimana dimaksud pada
+ayat (2) atau pengaduan anggota Asosiasi, Otoritas Jasa
+Keuangan berwenang melakukan evaluasi dan
+memerintahkan Asosiasi untuk melakukan tindakan
+korektif.
 
 ## Penjelasan Resmi
 

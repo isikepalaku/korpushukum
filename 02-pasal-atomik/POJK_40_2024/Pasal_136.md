@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Kegiatan usaha Penyelenggara sebagaimana dimaksud
-dalam Pasal 130 ayat (1) dilakukan melalui:
+dalam
+
+Pasal 130
+ayat (1) dilakukan melalui:
 a. Pendanaan produktif; dan/atau
 b. Pendanaan konsumtif.
 

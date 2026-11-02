@@ -4,7 +4,7 @@ uu_induk: Perubahan atas UU 32-1997 tentang Perdagangan Berjangka Komoditi
 kode_uu: UU_10_2011
 pasal: '49'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_10_2011
@@ -50,9 +50,14 @@ peraturan pelaksanaannya.
 24. Di antara ketentuan Pasal 50 ayat (1) dan ayat (2)
 disisipkan 1 (satu) ayat yakni ayat (1a), ketentuan ayat (2)
 dan ayat (4) diubah, dan ditambahkan 2 (dua) ayat yakni
-ayat (5) dan ayat (6) sehingga Pasal 50 berbunyi sebagai
+ayat (5) dan ayat (6) sehingga
+
+Pasal 50
+berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 24

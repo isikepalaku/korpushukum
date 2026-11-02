@@ -17,34 +17,47 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dikenai sanksi administratif berupa:
-a. penurunan tingkat kesehatan;
+(1) Pendirian BPR yang berasal dari perubahan izin usaha
+BUK sebagaimana dimaksud dalam
+
+Pasal 2
+ayat (1) huruf
 
 -----
 
-b. larangan melakukan ekspansi kegiatan usaha;
-dan/atau
-c. penghentian sementara sebagian kegiatan
-operasional.
-(3) Dalam hal BUK atau BUS telah dikenai sanksi
-administratif sebagaimana dimaksud pada ayat (1)
-dan/atau ayat (2), pihak utama BUK atau BUS dapat
-dikenai sanksi administratif berupa larangan sebagai
-pihak utama sesuai dengan Peraturan OJK mengenai
-penilaian kembali bagi pihak utama lembaga jasa
-keuangan.
-(4) Selain sanksi administratif sebagaimana dimaksud pada
-ayat (1) dan/atau ayat (2), BUK atau BUS dapat dikenai
-sanksi administratif berupa denda sebesar
-Rp5.000.000.000,00 (lima miliar rupiah) untuk setiap
-pelanggaran yang dilakukan.
+b atau pendirian BPR Syariah yang berasal dari perubahan
+izin usaha BUS sebagaimana dimaksud dalam
 
-BAB III
-KEPEMILIKAN DAN PERUBAHAN MODAL
+Pasal 2
+ayat
+(1) huruf c dapat dilakukan berdasarkan:
+a. inisiatif dari BUK atau BUS; atau
+b. keputusan OJK.
+(2) Pendirian BPR Syariah yang berasal dari perubahan izin
+usaha BUK sebagaimana dimaksud dalam
 
-Bagian Kesatu
+Pasal 2
+ayat (1)
+huruf b hanya dapat dilakukan berdasarkan inisiatif dari
+BUK.
+(3) Pemberian izin usaha BPR atau BPR Syariah yang berasal
+dari perubahan izin usaha BUK atau BUS sebagaimana
+dimaksud pada ayat (1) atau ayat (2) dilakukan bersamaan
+dengan pencabutan izin usaha BUK atau BUS oleh OJK.
+(4) BUK atau BUS yang telah memperoleh izin usaha sebagai
+BPR atau BPR Syariah sebagaimana dimaksud pada ayat
+(3) wajib menyesuaikan seluruh bentuk dan kegiatan
+usaha menjadi BPR atau BPR Syariah paling lama 1 (satu)
+tahun terhitung sejak tanggal izin usaha BPR atau BPR
+Syariah diterbitkan.
+(5) Berdasarkan pertimbangan tertentu, OJK berwenang
+menetapkan jangka waktu penyesuaian seluruh bentuk
+dan kegiatan usaha yang berbeda dari jangka waktu
+sebagaimana dimaksud pada ayat (4).
 
-Umum
+Paragraf 1
+Perubahan Izin Usaha
+Berdasarkan Inisiatif BUK atau BUS
 
 ## Penjelasan Resmi
 

@@ -46,7 +46,10 @@ tanggal pemberitahuan atau keputusan OJK.
 mengundurkan diri, diberhentikan, atau meninggal dunia
 yang mengakibatkan tidak terpenuhinya jumlah minimum
 anggota Direksi dan anggota Dewan Komisaris
-sebagaimana dimaksud dalam Pasal 44 dan Pasal 45 atau
+sebagaimana dimaksud dalam Pasal 44 dan
+
+Pasal 45
+atau
 jumlah yang ditetapkan dalam anggaran dasar, BPR atau
 BPR Syariah wajib memenuhi jumlah minimum anggota
 Direksi dan anggota Dewan Komisaris.

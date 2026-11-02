@@ -20,7 +20,10 @@ mengamandemen: []
 Bagi Perusahaan yang telah memperoleh izin usaha pada
 saat Peraturan Otoritas Jasa Keuangan ini diundangkan,
 kewajiban terkait penyertaan langsung sebagaimana
-dimaksud dalam Pasal 192 mulai berlaku 1 (satu) tahun
+dimaksud dalam
+
+Pasal 192
+mulai berlaku 1 (satu) tahun
 sejak Peraturan Otoritas Jasa Keuangan ini diundangkan.
 
 -----

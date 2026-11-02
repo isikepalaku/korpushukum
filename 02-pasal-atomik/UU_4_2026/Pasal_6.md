@@ -46,6 +46,13 @@ Otoritas Jasa Keuangan merupakan satu-satunya pihak yang berwenang mengajukan pe
 31. Di antara angka 5 dan angka 6 dalam Pasal 8 disisipkan 1 (satu) angka, yakni angka 5a sehingga berbunyi sebagai berikut:
 - 5a. Di antara Pasal 8E} dan Pasal 9 disisipkan 1 (satu) pasal, yakni Pasal 8C sehingga berbunyi sebagai berikut:
 
+Pasal 8C
+
+- (1) Otoritas Jasa Keuangan berwenang pengaturan dan kebijakan lebih lanjut yang berkaitan dengan kegiatan industri jasa keuangan yang dapat berimplikasi langsung terhadap risiko maupun manfaat yang dapat diterima oleh nasabah dan/ atau masyarakat, berimplikasi pada tingkat risiko industri jasa keuangan, atau berimplikasi pada Stabilitas Sistem Keuangan.
+2. (21 Kewenangan sebagaimana dimaksud pada ayat (1) dilaksanakan dalam rangka memberikan kepastian hukum bagi industri jasa keuangan, Nasabah dan/ atau masyaralat yang terdampak, menjaga Stabilitas Sistem Keuangan, serta memastikan terlaksananya prinsip Pelindungan Konsumen sesuai dengan ketentuan peraturan perundang-undangan di sektor jasa keuangan.
+- (3) Ketentuan mengenai kewenangan penetapan dan pengaturan kebijakan sebagaimana dimaksud pada ayat (1) dan ayall2l diatur dalam Peraturan Otoritas Jasa Keuangan setelah berkonsultasi dengan DPR yang menghasilkan rekomendasi.
+32. Ketentuan Pasal 10 pada angka 7 dalam Pasal 8 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

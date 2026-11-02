@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Permohonan untuk memperoleh persetujuan
-sebagaimana dimaksud dalam Pasal 61 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 61
+ayat (1)
 diajukan oleh Bank kepada OJK disertai dengan
 dokumen pendukung tercantum dalam Lampiran I
 yang merupakan bagian tidak terpisahkan dari

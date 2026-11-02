@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 139, Pasal 140, Pasal 141 ayat
+dimaksud dalam Pasal 139,
+
+Pasal 140, Pasal 141 ayat
 (1), Pasal 143, Pasal 144 ayat (1), ayat (2), Pasal 145
 dan/atau Pasal 146 ayat (1), dikenai sanksi
 administratif.

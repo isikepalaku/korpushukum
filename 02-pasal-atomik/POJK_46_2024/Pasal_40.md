@@ -23,7 +23,9 @@ berlaku, dalam Peraturan Otoritas Jasa Keuangan mengenai
 Perizinan Usaha dan Kelembagaan Perusahaan Modal
 Ventura, penyampaian laporan tahunan Asosiasi PMV atau
 PMVS kepada Otoritas Jasa Keuangan sebagaimana
-dimaksud dalam Pasal 17E ayat (2) mulai berlaku pada
+dimaksud dalam
+
+Pasal 17E ayat (2) mulai berlaku pada
 tahun 2027 untuk periode laporan tahun 2026.
 
 ## Penjelasan Resmi

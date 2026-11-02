@@ -19,8 +19,23 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Tindak pidana sebagaimana dimaksud dalam Pasal 48 ayat (2)
-adalah pelanggaran.
+(1) Anggota dewan komisaris, direksi atau pegawai bank yang dengan
+sengaja tidak memberikan keterangan yang wajib dipenuhi
+sebagaimana dimaksud dalam Pasal 30 ayat (1) dan ayat (2) dan
+
+Pasal 34
+ayat (1) dan ayat (2), diancam dengan pidana penjara
+paling lama 2 (dua) tahun dan denda paling banyak Rp.
+2.000.000.000,- (dua milyar rupiah).
+
+(2) Anggota dewan komisaris, direksi atau pegawai bank yang lalai
+memberikan keterangan yang wajib dipenuhi sebagaimana
+dimaksud dalam Pasal 30 ayat (1) dan ayat (2) dan
+
+Pasal 34
+ayat
+(1) dan ayat (2), diancam dengan pidana kurungan paling lama 1
+(satu) tahun dan/atau denda paling banyak Rp. 1.000.000.000,(satu milyar rupiah).
 
 ## Penjelasan Resmi
 

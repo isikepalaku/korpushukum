@@ -23,6 +23,15 @@ Kebijakan umum di bidang Perdagangan Berjangka ditetapkan oleh
 
  Menteri.
 
+Pasal 3…
+
+```
+
+-----
+
+```
+ - 6
+
 ## Penjelasan Resmi
 
 Cukup jelas.

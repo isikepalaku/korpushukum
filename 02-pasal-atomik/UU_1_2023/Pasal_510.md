@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan pidana sebagaimana dimaksud dalam Pasal 481 berlaku juga bagr Tindak Pidana sebagaimana dimaksud dalam Pasal 492 sampai dengan Pasal 509, kecuali ketentuan sebagaimana dimaksud dalam Pasal 509 huruf b.
+Ketentuan pidana sebagaimana dimaksud dalam Pasal 481 berlaku juga bagr Tindak Pidana sebagaimana dimaksud dalam
+
+Pasal 492
+sampai dengan Pasal 509, kecuali ketentuan sebagaimana dimaksud dalam Pasal 509 huruf b.
 
 **BAB XXUII**
 

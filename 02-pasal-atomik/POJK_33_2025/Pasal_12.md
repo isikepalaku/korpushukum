@@ -21,7 +21,10 @@ mengamandemen: []
 (1) Peringkat Komposit Tingkat Kesehatan PPDP
 ditetapkan berdasarkan analisis secara komprehensif
 dan terstruktur terhadap peringkat setiap faktor
-sebagaimana dimaksud dalam Pasal 11 ayat (3) sampai
+sebagaimana dimaksud dalam
+
+Pasal 11
+ayat (3) sampai
 dengan ayat (7) dengan memperhatikan materialitas
 dan signifikansi masing-masing faktor.
 (2) Peringkat Komposit sebagaimana dimaksud pada ayat

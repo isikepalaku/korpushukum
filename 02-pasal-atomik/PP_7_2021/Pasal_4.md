@@ -25,9 +25,7 @@ Koperasi.
 ## Penjelasan Resmi
 
 1
-**Clrkup [jelas.]**
-
-Pasal
+**Clrkup [jelas.]**Pasal
 
 -----
 

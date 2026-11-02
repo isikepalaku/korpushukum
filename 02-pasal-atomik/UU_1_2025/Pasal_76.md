@@ -29,8 +29,7 @@ mengamandemen:
 9. diperlukan dapat di-Privatisasi.
 10. l33.Ketentuan Pasal 77 diubah sehingga berbunyi sebagai berikut:
 
-**Pasal TT**
-
+Pasal 77
 Persero yang tidak dapat di-Privatisasi meliputi:
 
 - Persero yang bidang usahanya berdasarkan

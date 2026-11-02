@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Kewajiban PUSK sebagaimana dimaksud dalam Pasal 245 ayat (1) dilaksanakan oleh PUSK dengan kriteria tertentu paling lama 3 (tiga) tahun terhitung sejak Undang-Undang ini diundangkan.
+Kewajiban PUSK sebagaimana dimaksud dalam
+
+Pasal 245
+ayat (1) dilaksanakan oleh PUSK dengan kriteria tertentu paling lama 3 (tiga) tahun terhitung sejak Undang-Undang ini diundangkan.
 
 Bagian ...
 

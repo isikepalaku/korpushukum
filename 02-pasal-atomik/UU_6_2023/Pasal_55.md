@@ -26,4 +26,4 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Angka 1

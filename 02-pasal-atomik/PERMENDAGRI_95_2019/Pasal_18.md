@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data kematian sebagaimana dimaksud dalam Pasal 7 ayat (4) 
+Data kematian sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (4) 
 huruf g, terdiri dari elemen data: 
 a. 
 NIK/NIT; 

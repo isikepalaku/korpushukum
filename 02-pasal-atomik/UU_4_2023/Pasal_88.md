@@ -46,8 +46,8 @@ Yang dimaksud dengan "sepanjang pembubaran dan/atau kepailitannya tidak diatur b
 
 Dalam hal debitur mempunyai lebih dari 1 (satu) izin kegiatan usaha, kewenangan Otoritas Jasa Keuangan dalam pasal ini berlaku jika debitur mendapatkan izin utama dari Otoritas Jasa Keuangan.
 
-**Angka 6**
-
-Pasa19
+**Angka 6**Pasal 9
 
 Cukup jelas.
+
+Angka 7

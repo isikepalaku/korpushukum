@@ -20,7 +20,10 @@ mengamandemen: []
 
 Penyampaian hasil penilaian sendiri Tingkat Kesehatan
 PPDP kepada Otoritas Jasa Keuangan sebagaimana
-dimaksud dalam Pasal 4 ayat (7) huruf a bagi lembaga
+dimaksud dalam
+
+Pasal 4
+ayat (7) huruf a bagi lembaga
 penjamin, pertama kali dilakukan untuk posisi Desember
 2026 yang disampaikan paling lambat pada tanggal 15
 Februari 2027.

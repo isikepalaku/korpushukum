@@ -17,7 +17,67 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Bank wajib melaksanakan sistem pengendalian intern
 
+secara efektif dalam penyelenggaraan TI.
+
+(2) Sistem pengendalian intern secara efektif sebagaimana
+
+dimaksud pada ayat (1) paling sedikit mencakup:
+
+a. pengawasan oleh manajemen dan penerapan
+
+budaya pengendalian;
+
+b. identifikasi dan penilaian risiko;
+
+c. kegiatan pengendalian dan pemisahan fungsi;
+
+d. dukungan sistem informasi, sistem akuntansi,
+
+dan sistem komunikasi; dan
+
+e. kegiatan pemantauan dan tindakan koreksi
+
+penyimpangan, yang dilakukan oleh satuan kerja
+
+operasional, satuan kerja audit intern, maupun
+
+pihak lain.
+
+(3) Sistem informasi, sistem akuntansi, dan sistem
+
+komunikasi sebagaimana dimaksud pada ayat (2)
+
+huruf d harus didukung oleh teknologi, sumber daya
+
+manusia, dan struktur organisasi Bank yang
+
+memadai.
+
+(4) Kegiatan pemantauan dan tindakan koreksi
+
+penyimpangan sebagaimana dimaksud pada ayat (2)
+
+huruf e paling sedikit:
+
+a. kegiatan pemantauan secara terus menerus;
+
+b. pelaksanaan fungsi audit intern yang efektif dan
+
+menyeluruh; dan
+
+c. perbaikan terhadap penyimpangan yang
+
+diidentifikasi.
+
+**t id**
+
+-----
+
+Bagian Kedua
+
+Audit Intern dalam Penyelenggaraan TI
 
 ## Penjelasan Resmi
 

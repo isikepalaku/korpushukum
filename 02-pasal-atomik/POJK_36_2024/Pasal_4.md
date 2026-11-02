@@ -18,64 +18,55 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dapat dilakukan sampai dengan tanggal 31 Desember
-2030.
-5. Kewajiban membentuk unit usaha penjaminan
-sebagaimana dimaksud dalam Pasal 6 ayat (3)
-dilaksanakan paling lambat 6 (enam) bulan sejak
-Peraturan OJK ini berlaku.
-6. Perusahaan Asuransi, Perusahaan Asuransi Syariah,
-atau Unit Syariah pada Perusahaan Asuransi
-yang telah menyelenggarakan Layanan Asuransi
-Digital sebelum Peraturan OJK ini berlaku, harus
-menyesuaikan dengan ketentuan Pasal 52A sampai
-dengan Pasal 52G dalam jangka waktu paling
-lambat 6 (enam) bulan sejak Peraturan OJK ini
-berlaku.
-7. Ketentuan sebagaimana dimaksud dalam Pasal 6A
-ayat (3) mulai berlaku sejak Peraturan OJK ini
-diundangkan.
-8. Peraturan OJK ini mulai berlaku 6 (enam) bulan sejak
-tanggal diundangkan.
+Ruang lingkup usaha Perusahaan Asuransi atau
+Perusahaan Asuransi Syariah dapat diperluas sesuai
+dengan kebutuhan masyarakat dengan ketentuan
+sebagai berikut:
+a. Perusahaan Asuransi Umum hanya dapat
+melakukan perluasan ruang lingkup usaha pada:
+1. kegiatan usaha PAYDI;
+2. kegiatan usaha Asuransi Kredit;
+3. kegiatan usaha Suretyship;
+4. kegiatan usaha berbasis imbalan jasa (fee
+_based); dan/atau_
+5. kegiatan usaha lain berdasarkan penugasan
+dari pemerintah, yang telah ada saat
+Peraturan OJK ini diundangkan.
 
 -----
 
-Agar setiap orang mengetahuinya, memerintahkan
-pengundangan Peraturan Otoritas Jasa Keuangan ini
-dengan penempatannya dalam Lembaran Negara Republik
-Indonesia.
+b. Perusahaan Asuransi Umum Syariah dan Unit
+Syariah pada Perusahaan Asuransi Umum hanya
+dapat melakukan perluasan ruang lingkup usaha
+pada:
+1. kegiatan usaha PAYDI;
+2. kegiatan usaha Asuransi Pembiayaan
+Syariah;
+3. kegiatan usaha Suretyship Syariah;
+4. kegiatan usaha berbasis imbalan jasa (fee
+_based); dan/atau_
+5. kegiatan usaha lain berdasarkan penugasan
+dari pemerintah, yang telah ada saat
+Peraturan OJK ini diundangkan.
+c. Perusahaan Asuransi Jiwa, Perusahaan Asuransi
+Jiwa Syariah, dan Unit Syariah pada Perusahaan
+Asuransi Jiwa hanya dapat melakukan perluasan
+ruang lingkup usaha pada kegiatan usaha
+berbasis imbalan jasa (fee based);
+d. kegiatan usaha berbasis imbalan jasa (fee based)
+sebagaimana dimaksud dalam huruf a angka 4,
+huruf b angka 4, dan huruf c hanya dapat
+dilakukan pada:
+1. _administrative service only_ (ASO) dalam
+rangka employee benefit;
+2. pemasaran produk dari lembaga jasa
+keuangan yang telah mendapat izin dari OJK
+dan bukan merupakan produk asuransi atau
+reasuransi; dan
+3. kerja sama dalam satu kepemilikan.
 
-Ditetapkan di Jakarta
-pada tanggal 20 Desember 2024
-
-KETUA DEWAN KOMISIONER
-OTORITAS JASA KEUANGAN
-REPUBLIK INDONESIA,
-
-ttd
-
-MAHENDRA SIREGAR
-
-Diundangkan di Jakarta
-pada tanggal 23 Desember 2024
-
-MENTERI HUKUM REPUBLIK INDONESIA,
-
-ttd
-
-SUPRATMAN ANDI AGTAS
-
-LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 48/OJK
-
-Salinan ini sesuai dengan aslinya
-Direktur Pengembangan Hukum
-Departemen Hukum
-
-ttd
-
-Aat Windradi
-
------
+4. Ketentuan Pasal 5 ditambahkan 1 (satu) ayat, yakni
+ayat (3) sehingga berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -137,3 +128,5 @@ mengenai perizinan usaha dan kelembagaan
 Perusahaan Asuransi, Perusahaan Asuransi
 Syariah, Perusahaan Reasuransi, dan
 Perusahaan Reasuransi Syariah.
+
+Angka 4

@@ -27,7 +27,10 @@ keuangan.
 
 (6) Bank BHI yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 58 ayat (2), Pasal 63 ayat (4),
+dimaksud dalam Pasal 58 ayat (2),
+
+Pasal 63
+ayat (4),
 
 ## Penjelasan Resmi
 

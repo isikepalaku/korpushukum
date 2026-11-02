@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '39'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,6 @@ Setiap Orang yang pada waktu melakukan Tindak Pidana menyandang disabilitas ment
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dalam ketentuan ini, penyandang disabilitas mental yang dalam keadaan kekambuhan akut dan disertai gambaran psikotik dan/atau penyandang disabilitas intelektual derajat sedang atau berat, tidak mampu bertanggung jawab.
+
+Untuk dapat menjelaskan tidak mampu bertanggung jawab dari segi medis, perlu dihadirkan ahli sehingga pelaku Tindak Pidana dipandang atau dinilai sebagai tidak mampu bertanggung jawab.

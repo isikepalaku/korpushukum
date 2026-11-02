@@ -17,7 +17,19 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), Pasal 66 ayat (1), Pasal 67 ayat (2), ayat (3),
+(1) Dalam hal terdapat anggota DPS yang diberhentikan,
+mengundurkan diri, atau meninggal dunia, Bank wajib
+menginformasikan kepada OJK paling lama 10
+(sepuluh) hari kerja sejak tanggal surat pemberhentian,
+pengunduran diri, atau dinyatakan meninggal dunia.
+(2) Informasi pemberhentian, pengunduran diri, atau
+meninggal dunia sebagaimana dimaksud pada ayat (1)
+disertai dengan dokumen pendukung pemberhentian,
+pengunduran diri, atau dokumen yang menyatakan
+meninggal dunia.
+
+Bagian Ketiga
+Pemimpin KPBLN
 
 ## Penjelasan Resmi
 

@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 **(1) Setiap Pihak yang ditetapkan sebagai Pengendali**
- sebagaimsla dimaksud dalam Pasal 13 ayat [(1) ]wajib dilaporkan kepada Otoritas Jasa Keuangan. l2l [Perubahan ][Pengendali ][wajib dilaporkan ] [kepada Otoritas]
+ sebagaimsla dimaksud dalam
+
+Pasal 13
+ayat [(1) ]wajib dilaporkan kepada Otoritas Jasa Keuangan. l2l [Perubahan ][Pengendali ][wajib dilaporkan ] [kepada Otoritas]
  Jasa Keuangan. (3) Pihak yang telah ditetapkan menjadi Pengendali tidak
  dapat berhenti menjadi Pengendali tanpa [persetujuan] dari Otoritas Jasa Keuangan.
 

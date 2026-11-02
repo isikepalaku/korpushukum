@@ -18,10 +18,15 @@ mengamandemen: []
 ## Batang Tubuh
 
 Persyaratan kelayakan keuangan bagi PSP sebagaimana
-dimaksud dalam Pasal 31 huruf a, dibuktikan paling sedikit
+dimaksud dalam
+
+Pasal 31
+huruf a, dibuktikan paling sedikit
 dengan:
 a. memiliki reputasi keuangan sebagaimana dimaksud
-dalam Pasal 33;
+dalam
+
+Pasal 33;
 b. memiliki kemampuan keuangan yang mendukung
 perkembangan bisnis Penyelenggara; dan
 c. memiliki komitmen untuk melakukan upaya yang

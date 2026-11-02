@@ -18,9 +18,12 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam melaksanakan ketentuan sebagaimana dimaksud dalam Pasal 3
+Dalam melaksanakan ketentuan sebagaimana dimaksud dalam
 
- dan Pasal 4, Bapepam berwenang untuk:
+Pasal 3
+dan
+
+Pasal 4, Bapepam berwenang untuk:
 
  a. memberi:
 
@@ -148,7 +151,10 @@ Dalam melaksanakan ketentuan sebagaimana dimaksud dalam Pasal 3
 
  p. menetapkan instrumen lain sebagai Efek selain yang telah
 
- ditentukan dalam Pasal 1 angka 5; dan
+ ditentukan dalam
+
+Pasal 1
+angka 5; dan
 
  q. melakukan hal-hal lain yang diberikan berdasarkan Undang-undang
 

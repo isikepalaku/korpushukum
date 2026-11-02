@@ -52,7 +52,10 @@ Kebijakan khusus, antara lain, ialah pemberlakuan mekanisme jalur khusus (specia
 
 Yang dimaksud dengan "Obat esensial" adalah Obat yang paling dibutuhkan dalam Pelayanan Kesehatan, termasuk Obat generik,
 
-Ayat (7) Cukup jelas. Pasal 315 Cukup jelas. Pasal 316 Cukup jelas. Pasal 317 Ayat (1) Obat generik bermerek, dan Obat originator. Ayat (21 Cukup je1as. Ayat (3) Cukup jelas. Pasal 318 Cukup jelas. Pasal 319 Ayat (1)
+Ayat (7) Cukup jelas.
+
+Pasal 315
+Cukup jelas. Pasal 316 Cukup jelas. Pasal 317 Ayat (1) Obat generik bermerek, dan Obat originator. Ayat (21 Cukup je1as. Ayat (3) Cukup jelas. Pasal 318 Cukup jelas. Pasal 319 Ayat (1)
 
 Cukup jelas.
 

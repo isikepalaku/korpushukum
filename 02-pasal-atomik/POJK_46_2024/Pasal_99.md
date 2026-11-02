@@ -5,7 +5,7 @@ uu_induk: Pengembangan dan Penguatan Perusahaan Pembiayaan, Perusahaan Pembiayaa
 kode_uu: POJK_46_2024
 pasal: '99'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_46_2024
@@ -21,7 +21,10 @@ mengamandemen: []
 (1) Otoritas Jasa Keuangan memberikan persetujuan
 atau penolakan atas permohonan persetujuan
 penghentian kegiatan usaha sebagaimana
-dimaksud dalam Pasal 98 ayat (1) dalam jangka
+dimaksud dalam
+
+Pasal 98
+ayat (1) dalam jangka
 waktu paling lama 20 (dua puluh) hari kerja sejak
 permohonan persetujuan penghentian kegiatan
 usaha diterima secara lengkap.
@@ -30,7 +33,10 @@ sebagaimana dimaksud pada ayat (1), Otoritas
 Jasa Keuangan melakukan analisis dan penelitian
 atas kelengkapan dokumen permohonan
 persetujuan penghentian kegiatan usaha
-sebagaimana dimaksud dalam Pasal 98 ayat (3).
+sebagaimana dimaksud dalam
+
+Pasal 98
+ayat (3).
 (3) Dalam hal terdapat kekurangan dokumen
 sebagaimana yang dimaksud pada ayat (2),
 Otoritas Jasa Keuangan menyampaikan
@@ -62,3 +68,5 @@ berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 48

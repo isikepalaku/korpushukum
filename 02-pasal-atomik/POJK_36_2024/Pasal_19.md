@@ -33,7 +33,26 @@ _service officer); dan_
 c. memberitahukan kepada asosiasi.
 
 18. Di antara Pasal 22 dan Pasal 23, disisipkan 1 (satu)
-pasal, yakni Pasal 22A sehingga berbunyi sebagai
+pasal, yakni
+
+Pasal 22A sehingga berbunyi sebagai
+berikut:
+
+Pasal 22A
+(1) Dalam melakukan kegiatan usaha, Perusahaan
+wajib menerapkan perilaku usaha yang memenuhi
+standar etika bisnis yang baik.
+(2) Asosiasi menyusun standar etika bisnis yang baik
+dalam kode etik.
+(3) Asosiasi melakukan pemantauan dan pengawasan
+terhadap kode etik sebagaimana dimaksud pada
+ayat (2).
+(4) Asosiasi melaporkan pelanggaran kode etik
+sebagaimana dimaksud pada ayat (2) kepada OJK.
+
+-----
+
+19. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -59,3 +78,31 @@ Pemberitahuan kepada asosiasi ditujukan dalam
 rangka memitigasi risiko terjadinya praktek poaching
 (pembajakan Agen Asuransi) dan/atau _twisting_
 (pemindahan polis asuransi).
+
+Angka 18
+
+Pasal 22A
+
+Ayat (1)
+
+Cukup jelas.
+Ayat (2)
+
+Standar etika bisnis yang baik antara lain mengatur
+larangan mengenai:
+1. praktek twisting;
+2. praktek _poaching_ yang mengakibatkan
+persaingan yang tidak sehat; dan/atau
+3. pemberian komisi yang tidak wajar.
+Yang dimaksud dengan “poaching” adalah praktik
+pembajakan Agen Asuransi dari satu perusahaan
+kepada perusahaan lain tanpa ada jeda waktu.
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
+
+Cukup jelas.
+
+Angka 19

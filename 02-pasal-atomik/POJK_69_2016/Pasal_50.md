@@ -20,25 +20,38 @@ mengamandemen: []
 
 ayat (1), ayat (2), ayat (4), ayat (5), ayat (6), dan
 
-ayat (8), Pasal 55 ayat (2), Pasal 56 ayat (2) dan
+ayat (8),
 
-ayat (4), Pasal 57 ayat (2) dan ayat (4), Pasal 58
+Pasal 55
+ayat (2), Pasal 56 ayat (2) dan
 
-ayat (2), Pasal 59 ayat (2), Pasal 60 ayat (1), ayat
+ayat (4),
+
+Pasal 57
+ayat (2) dan ayat (4), Pasal 58
+
+ayat (2),
+
+Pasal 59
+ayat (2), Pasal 60 ayat (1), ayat
 
 (6), dan ayat (7), Pasal 61, Pasal 63, Pasal 65 ayat
 
-(2), Pasal 66 ayat (1), ayat (4), dan ayat (5), Pasal
+(2), Pasal 66 ayat (1), ayat (4), dan ayat (5), Pasal 67 ayat (3), ayat (5), ayat (6), dan ayat (7), Pasal 68, Pasal 69, Pasal 71 ayat (1), ayat (2), ayat (3),
 
-67 ayat (3), ayat (5), ayat (6), dan ayat (7), Pasal
+ayat (5), ayat (6), dan ayat (7),
 
-68, Pasal 69, Pasal 71 ayat (1), ayat (2), ayat (3),
+Pasal 72
+ayat (1),
 
-ayat (5), ayat (6), dan ayat (7), Pasal 72 ayat (1),
+ayat (3), dan ayat (4),
 
-ayat (3), dan ayat (4), Pasal 73, Pasal 75 ayat (1),
+Pasal 73, Pasal 75 ayat (1),
 
-dan Pasal 76 ayat (1) Peraturan OJK ini dilakukan
+dan
+
+Pasal 76
+ayat (1) Peraturan OJK ini dilakukan
 
 oleh Unit Syariah dikenai sanksi administratif
 
@@ -91,7 +104,10 @@ usaha tanpa didahului pengenaan sanksi
 
 administratif yang lain terhadap pelanggaran
 
-ketentuan Pasal 8 ayat (3) Peraturan OJK ini.
+ketentuan
+
+Pasal 8
+ayat (3) Peraturan OJK ini.
 
 ## Penjelasan Resmi
 

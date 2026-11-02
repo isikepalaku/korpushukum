@@ -21,4 +21,7 @@ PUSK wajib menyampaikan laporan pelaksanaan tata kelola yang baik dan penerapan 
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 269 Cukup jelas. Pasal 270 Cukup jelas. Pasal 271 Ayat (1) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Pasal 272 Cukup jelas.
+Cukup jelas.
+
+Pasal 269
+Cukup jelas. Pasal 270 Cukup jelas. Pasal 271 Ayat (1) Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Pasal 272 Cukup jelas.

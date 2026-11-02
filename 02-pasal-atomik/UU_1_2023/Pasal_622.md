@@ -69,7 +69,7 @@ dicabut dan dinyatakan tidak berlaku.
 - b. Pasal 2 pengacuannya diganti dengan Pasal 307.
 - (3) Dalam hal ketentuan Pasal mengenai Tindak Pidana terhadap agama dan kepercayaan sebagaimana dimaksud pada ayat (1) huruf h mengacu Pasal 4 Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal 30O dan Pasal 3O2 ayat (1) Undang-Undang ini.
 - l4l Dalam hal ketentuan Pasal mengenai Tindak Pidana korupsi sebagaimana dimaksud pada ayat (1) huruf I diacu oleh ketentuan Pasal Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal dalam Undang-Undang ini dengan ketentuan sebagai berikut:
-- a. Pasal 2 ayat (1) pengacuannya diganti dengan Pasal 6O3;
+- a. Pasal 2 ayat (1) pengacuannya diganti dengan ### Pasal 603 ^pasal-603;
 - b. Pasal 3 pengacuannya diganti dengan Pasal 604;
 - c. Pasal 5 pengacuannya diganti dengan Pasal 605;
 - d. Pasal 11 pengacuannya diganti dengan Pasal 606 ayat (2); dan
@@ -145,7 +145,7 @@ b. Pasal 36. . .
 - c. Pasal 36 ayat (3) pengacuannya diganti dengan Pasal 375 huruf a; dan
 - d. Pasal 36 ayat (4) pengacuannya diganti dengan Pasal 375 hurufb.
 - (19) Dalam hal ketentuan Pasal mengenai Tindak Pidana di bidang pangan sebagaimana dimaksud pada ayat (1) huruf aa mengacu Pasal 136 Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal 504 dalam Undang-Undang ini.
-- (20) Dalam hal ketentuan Pasal mengenai Tindak Pidana pendanaan terorisme sebagaimana dimaksud pada ayat (1) huruf bb mengacu Pasal 4 Undang-Undang yang bersangkutan, pengacuannya diganti dengan Pasal 6O2 dalam Undang-Undang ini.
+- (20) Dalam hal ketentuan Pasal mengenai Tindak Pidana pendanaan terorisme sebagaimana dimaksud pada ayat (1) huruf bb mengacu Pasal 4 Undang-Undang yang bersangkutan, pengacuannya diganti dengan ### Pasal 602 ^pasal-602 dalam Undang-Undang ini.
 - (21) Dalam hal ketentuan pasal mengenai Tindak Pidana terhadap saksi dan korban sebagaimana dimaksud pada ayat (1) huruf cc diacu oleh ketentuan Pasal Undang-Undang yang bersangkutan, pengacuannya diganti dengan pasal dalam Undang-Undang ini dengan ketentuan sebagai berikut:
 - a. Pasal 37 pengacuannya diganti dengan Pasal 295;
 - b. Pasal 38 pengacuannya diganti dengan Pasal 296;

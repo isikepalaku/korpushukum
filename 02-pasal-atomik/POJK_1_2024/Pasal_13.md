@@ -17,12 +17,15 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-a. selama tenggang waktu pembayaran, kualitas Kredit
-mengikuti penetapan kualitas sebelum dilakukan
-Restrukturisasi Kredit; dan
-b. setelah tenggang waktu pembayaran berakhir, kualitas
-Kredit mengikuti penetapan kualitas sebagaimana
-dimaksud dalam Pasal 31.
+(1) BPR yang memberikan Kredit dengan tenggang waktu
+pembayaran, tunggakan angsuran pokok dan/atau bunga
+dihitung setelah tenggang waktu pembayaran berakhir.
+(2) Batas akhir Kredit dengan tenggang waktu pembayaran
+sebagaimana dimaksud pada ayat (1) ditetapkan dalam
+perjanjian Kredit.
+
+Bagian Ketiga
+Surat Berharga
 
 ## Penjelasan Resmi
 

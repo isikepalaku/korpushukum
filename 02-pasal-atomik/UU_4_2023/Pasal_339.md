@@ -22,7 +22,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 340 Cukup jelas. Pasal 341 Cukup jelas.
+Cukup jelas.
+
+Pasal 340
+Cukup jelas. Pasal 341 Cukup jelas.
 **TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6845**
 
 ## Peta Penjelasan
@@ -301,7 +304,7 @@ Cukup jelas. Pasal 340 Cukup jelas. Pasal 341 Cukup jelas.
 | Pasal 275 | [[#^penjelasan-pasal-275]] |
 | Pasal 276 | [[#^penjelasan-pasal-276]] |
 | Pasal 277 | [[#^penjelasan-pasal-277]] |
-| Pasal 27B | [[#^penjelasan-pasal-278]] |
+| Pasal 278 | [[#^penjelasan-pasal-278]] |
 | Pasal 279 | [[#^penjelasan-pasal-279]] |
 | Pasal 280 | [[#^penjelasan-pasal-280]] |
 | Pasal 281 | [[#^penjelasan-pasal-281]] |

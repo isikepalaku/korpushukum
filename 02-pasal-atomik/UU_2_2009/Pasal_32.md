@@ -45,6 +45,12 @@ oleh adanya kesalahan dalam penyalurannya.
 piutang yang telah dihapusbukukan sebelum piutang
 tersebut dihapus tagih.
 
+Pasal 33 . . .
+
+-----
+
+ - 15
+
 ## Penjelasan Resmi
 
 Ayat (1)

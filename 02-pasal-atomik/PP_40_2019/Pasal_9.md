@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 3 ayat (2) huruf g dan huruf h,
+dimaksud dalam
+
+Pasal 3
+ayat (2) huruf g dan huruf h,
 Menteri menetapkan standar dan spesifikasi Dokumen
 Kependudukan berupa:
 a. biodata Penduduk;

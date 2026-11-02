@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '492'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,12 @@ Setiap Orang yang dengan maksud menguntungkan diri sendiri atau orang lain secar
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini mengatur tentang Tindak Pidana penipuan. Perbuatan materiel dari penipuan adalah membujuk seseorang dengan berbagai cara yang disebut dalam ketentuan ini, untuk memberikan sesuatu Barang, membuat utang atau menghapus piutang. Dengan demikian, perbuatan yang langsung merugikan itu tidak dilakukan oleh pelaku Tindak Pidana, lgtaFi oleh pihak yang dirugikan sendiri. Perbuatan penipuan baru selesai dengan terjadinya perbuatan dari pihak yang dirugikan sslagaimana dikehendaki pelaku.
+
+Barang yang diberikan, tidak harus secara langsung kepada pelaku Tindak Pidana tetapi dapat juga dilakukan kepada orang lain yang disuruh pelaku unhrk menerima penyerahan itu.
+
+Penipuan adalah Tindak Pidana terhadap harta benda. Tempat Tindak Pidana adalah tempat pelaku melakukan penipuan, walaupun penyerahan dilakukan di tempat lain. Saat dilakukannya Tindak Pidana adalah saat pelaku melakukan penipuan.
+
+Barang yang diserahkan dapat merupakan milik pelaku sendiri, misalnya Barang yang diberikan sebagai jaminan utang bukan untuk kepentingan pelaku. Penghapusan piutang tidak perlu dilakukan melalui cara hapusnya perikatan menurut Kitab Undang-Undalg Hukum Perdata. Juga termasuk, misalnya, perbuatan pelaku yang menghentikan untuk sementara pencatat kilometer mobil sewaannya, sehingga pemilik mobil memperhitungkan jumlah uang sewaan yang lebih kecil daripada yang sesungguhnya.
+
+Ketentuan ini menyebut secara limitatif daya upaya yang digunakan pelaku yang menyebabkan penipuan itu dapat dipidana, yaitu berupa nama atau kedudukan palsu, penyalahgunaan agama, tipu muslihat dan rangkaian kata bohong. Antara daya upaya yang digunakan dan perbuatan yang dikehendaki harus ada hubungan kausal, sehingga orang itu percaya dan memberikan apa yang diminta.

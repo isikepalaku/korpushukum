@@ -17,8 +17,58 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(enam) bulan terhitung sejak Peraturan Otoritas Jasa
-Keuangan ini diundangkan.
+(1) Bank wajib memiliki kebijakan dan prosedur
+penatausahaan rekening Giro dan Tabungan yang
+memuat paling sedikit:
+
+a. pemberitahuan kepada Nasabah saat pembukaan
+rekening Giro dan Tabungan mengenai kriteria
+penetapan klasifikasi rekening aktif, rekening
+tidak aktif dan rekening dormant, termasuk
+penutupan rekening Giro dan Tabungan secara
+otomatis;
+b. informasi kepada Nasabah melalui kanal yang
+tersedia pada Bank mengenai klasifikasi rekening
+Giro dan Tabungan sebagaimana dimaksud dalam
+
+Pasal 3
+ayat (1);
+c. komunikasi kepada Nasabah untuk melakukan
+pemasukan, penarikan, pengecekan saldo atau
+penutupan rekening Giro dan Tabungan;
+d. mekanisme dalam hal Nasabah tidak dapat
+dihubungi;
+e. pembebanan biaya administrasi dan pembayaran
+bunga/imbal hasil dalam perikatan antara Bank
+dengan Nasabah;
+f. pencantuman _flagging pada sistem internal bank_
+atas rekening aktif, rekening yang tidak aktif, dan
+rekening dormant, termasuk pemisahan dengan
+rekening lainnya untuk kebutuhan pelaporan;
+g. pemantauan dan pengendalian internal terhadap
+rekening tidak aktif dan rekening dormant;
+h. verifikasi dan uji validasi untuk pengaktifan
+kembali rekening tidak aktif dan rekening
+dormant;
+
+-----
+
+i. mekanisme penutupan rekening Giro dan
+Tabungan melalui kanal yang tersedia pada Bank;
+dan
+j. penutupan rekening Giro dan Tabungan secara
+otomatis untuk rekening Giro dan Tabungan
+bersaldo nihil untuk kurun waktu paling lama 6
+(enam) bulan.
+(2) Bank dilarang mengenakan biaya administrasi rekening
+sebagaimana dimaksud pada ayat (1) huruf e yang
+mengakibatkan rekening bersaldo negatif.
+(3) Bank wajib menyediakan sistem dalam rangka
+pengelolaan rekening Giro dan Tabungan dan
+mengklasifikasikan rekening Giro dan Tabungan sesuai
+dengan kriteria rekening aktif, rekening tidak aktif, dan
+rekening dormant sebagaimana dimaksud pada ayat (1)
+huruf f.
 
 ## Penjelasan Resmi
 

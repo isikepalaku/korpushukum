@@ -40,6 +40,8 @@ Instansi Pelaksana di tempat tinggalnya paling lambat 30
 (tiga puluh) hari sejak yang bersangkutan kembali ke
 Indonesia.
 
+Pasal 42 . . .
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) 
 Pencatatan pengakuan anak sebagaimana dimaksud 
-dalam Pasal 70 ayat (2) huruf b, dilaporkan pada 
+dalam
+
+Pasal 70
+ayat (2) huruf b, dilaporkan pada 
 Perwakilan 
 Republik 
 Indonesia 

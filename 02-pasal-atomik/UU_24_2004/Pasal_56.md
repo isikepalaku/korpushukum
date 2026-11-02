@@ -20,7 +20,9 @@ mengamandemen: []
 
 Setelah menerima pertanggungjawaban tim likuidasi
 
- sebagaimana dimaksud dalam Pasal 55, LPS:
+ sebagaimana dimaksud dalam
+
+Pasal 55, LPS:
 
  a. meminta tim likuidasi:
 

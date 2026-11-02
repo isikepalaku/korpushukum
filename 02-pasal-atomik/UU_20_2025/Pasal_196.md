@@ -28,7 +28,13 @@ berwenang Mengadilinya dengan surat penetapan yang
 **bersangkutan menyampaikan kepada kejaksaan negeri di tempat pengadilan negeri yang tercantum dalam surat penetapan. (3) T[runan surat penetapan sebagaimana dimaksud**
 
 pada ayat (1) disampaikan kepada Terdakwa, Advokat,
-**dan Penyidik.**
+**dan Penyidik.**Pasal 197. . .
+
+-----
+
+REPUBUK INDONESIA
+
+**-105-**
 
 ## Penjelasan Resmi
 

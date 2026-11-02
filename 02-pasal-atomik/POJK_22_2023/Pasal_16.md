@@ -122,10 +122,16 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 
-Lihat penjelasan Pasal 14 ayat (3).
+Lihat penjelasan
+
+Pasal 14
+ayat (3).
 Ayat (4)
 
-Lihat penjelasan Pasal 14 ayat (3).
+Lihat penjelasan
+
+Pasal 14
+ayat (3).
 Ayat (5)
 
 Cukup jelas.

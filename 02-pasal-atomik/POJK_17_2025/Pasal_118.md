@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penerbit dapat membeli kembali sahamnya sesuai
-dengan ketentuan Pasal 37 dan Pasal 38 UndangUndang mengenai perseroan terbatas.
+dengan ketentuan Pasal 37 dan
+
+Pasal 38
+UndangUndang mengenai perseroan terbatas.
 (2) Pembelian kembali saham sebagaimana dimaksud pada
 ayat (1) wajib terlebih dahulu memperoleh persetujuan
 rapat umum pemegang saham.

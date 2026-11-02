@@ -17,30 +17,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-denda sebesar Rp1.000.000,00 (satu juta rupiah) per
-hari kerja dan paling banyak Rp30.000.000,00 (tiga
-puluh juta rupiah).
-(3) Dalam hal Bank telah dikenai sanksi administratif
-sebagaimana dimaksud pada ayat (1) dan/atau ayat (2),
-dan tetap melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 19 ayat (2), Pasal 20 ayat (1), dan/atau ayat
-(3), Bank dikenai sanksi administratif berupa:
-a. larangan melakukan ekspansi kegiatan usaha;
-dan/atau
-b. pembekuan kegiatan usaha tertentu.
-(4) Dalam hal Bank telah dikenai sanksi administratif
-sebagaimana dimaksud pada ayat (1) dan/atau ayat (2)
-dan tetap melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 19 ayat (2), Pasal 20 ayat (1), dan/atau ayat
-(3), pihak utama Bank dapat dikenai sanksi
-administratif berupa larangan sebagai pihak utama
-sesuai dengan Peraturan OJK mengenai penilaian
-kembali bagi pihak utama lembaga jasa keuangan.
+(1) Bank yang telah memperoleh izin usaha dari OJK harus
+melakukan kegiatan usaha perbankan syariah paling
+lama 60 (enam puluh) hari kerja terhitung sejak tanggal
+izin usaha diterbitkan.
 
 -----
 
-BAB IV
-BANK DIGITAL
+(2) Direksi Bank wajib melaporkan pelaksanaan kegiatan
+usaha sebagaimana dimaksud pada ayat (1) kepada
+OJK dengan batas waktu paling lama 10 (sepuluh) hari
+kerja setelah tanggal pelaksanaan kegiatan operasional.
+(3) Dalam hal terdapat keadaan kahar atau pertimbangan
+lain yang dapat diterima oleh OJK, jangka waktu
+sebagaimana dimaksud pada ayat (1) dapat
+diperpanjang berdasarkan persetujuan OJK.
+(4) Dalam hal Bank yang telah memperoleh izin usaha
+tidak melakukan kegiatan usaha perbankan syariah
+sesuai jangka waktu sebagaimana dimaksud pada ayat
+(1) atau ayat (3), izin usaha dan persetujuan prinsip
+yang telah diterbitkan oleh OJK dinyatakan batal dan
+tidak berlaku.
 
 ## Penjelasan Resmi
 

@@ -24,9 +24,10 @@ mengamandemen: []
 
  dicabut izin usahanya atau bank dalam likuidasi yang
 
- melanggar ketentuan sebagaimana dimaksud dalam Pasal
+ melanggar ketentuan sebagaimana dimaksud dalam Pasal 16 ayat (5) dan/atau
 
- 16 ayat (5) dan/atau Pasal 47 ayat (2) atau ayat (3) dipidana
+Pasal 47
+ayat (2) atau ayat (3) dipidana
 
  dengan pidana penjara paling singkat 1 (satu) tahun dan
 
@@ -42,7 +43,10 @@ mengamandemen: []
 
  oleh LPS untuk melakukan tugas tertentu, yang melanggar
 
- ketentuan sebagaimana dimaksud dalam Pasal 91 ayat (1),
+ ketentuan sebagaimana dimaksud dalam
+
+Pasal 91
+ayat (1),
 
  dipidana dengan pidana penjara paling singkat 1 (satu)
 
@@ -58,9 +62,10 @@ mengamandemen: []
 
  dan/atau laporan, yang berkaitan dengan penjaminan
 
- simpanan sebagaimana dimaksud dalam Pasal 9 dan Pasal
+ simpanan sebagaimana dimaksud dalam Pasal 9 dan
 
- 7 yang tidak benar, palsu, dan/atau menyesatkan,
+Pasal 7
+yang tidak benar, palsu, dan/atau menyesatkan,
 
  dipidana dengan pidana penjara paling singkat 1 (satu)
 
@@ -74,7 +79,10 @@ mengamandemen: []
 
  kepada LPS data, informasi, dan/atau dokumen
 
- sebagaimana dimaksud dalam Pasal 7 ayat (2) dipidana
+ sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (2) dipidana
 
  dengan pidana penjara paling singkat 1 (satu) tahun dan
 

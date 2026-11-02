@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Permohonan untuk memperoleh perubahan izin usaha
 sebagai BPR atau BPR Syariah sebagaimana dimaksud
-dalam Pasal 14 ayat (1) huruf a dan Pasal 14 ayat (2)
+dalam Pasal 14 ayat (1) huruf a dan
+
+Pasal 14
+ayat (2)
 diajukan oleh BUK atau BUS kepada OJK disertai dengan
 dokumen persyaratan pengajuan persetujuan perubahan
 izin usaha BUK atau BUS menjadi BPR atau BPR Syariah

@@ -63,5 +63,7 @@ Cukup jelas.
 Yang dimaksud dengan "keahlian khusus" antara lain ialah keahlian di bidang identifikasi, laboratorium forensik, komunikasi elektronika, sandi, penjinak bahan peledak, kedokteran kehakiman, pawang hewan, penyidikan kejahatan tertentu, dan navigasi laut/penerbangan.
 
 ```
-Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Ayat (8) Cukup jelas. Angka 10 Pasal 32A Cukup jelas. Angka 11 Pasal 37 Ayat (1) Cukup jelas. Ayat (2) Dihapus. Angka 12 Pasal 38 Cukup jelas. Angka 13 Pasal 39 Cukup jelas. Angka 14 Pasal 39A Cukup jelas.
+Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Ayat (8) Cukup jelas. Angka 10
+
+Pasal 32A Cukup jelas. Angka 11 Pasal 37 Ayat (1) Cukup jelas. Ayat (2) Dihapus. Angka 12 Pasal 38 Cukup jelas. Angka 13 Pasal 39 Cukup jelas. Angka 14 Pasal 39A Cukup jelas.
 ```

@@ -54,7 +54,10 @@ mengajukan permohonan ulang.
 
 (5) Ketentuan mengenai tata cara permohonan Hak Akses
 
-sebagaimana dimaksud dalam Pasal 3 sampai dengan
+sebagaimana dimaksud dalam
+
+Pasal 3
+sampai dengan
 
 ## Penjelasan Resmi
 

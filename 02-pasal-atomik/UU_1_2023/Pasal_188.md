@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '188'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -30,4 +30,28 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
+Ayat (l)
+
+Yang dimaksud dengan "menyebarkan dan mengembangkan" adalah mengajak orang lain menganut paham komunisme/marxismeleninisme atau paham lain yang bertentangan dengan Pancasila dan menjadikannya sebagai gerakan kelompok yang bertujuan menentang nilai Pancasila.
+
+Yang dimaksud dengan "paham lain yang bertentangan dengan Pancasila" adalah paham ideologi politik yang termanifestasi dalam bentuk gerakan politik menentang Pancasila.
+
+Ayat (21
+
 Cukup jelas.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
+
+Cukup jelas.
+
+Ayat (5)
+
+Cukup jelas.
+
+Ayat (6)
+
+Yang dimaksud dengan "kajian terhadap ajaran komunisme/ marxismeleninisme untuk kepentingan ilmu pengetahuan" misalnya, mengajar, mempelajari, memikirkan, menguji, dan menelaah di lembaga pendidikan atau lembaga penelitian dan pengkajian tanpa bermaksud untuk menyebarkan atau komunisme / marxisme-leninisme. aJaran

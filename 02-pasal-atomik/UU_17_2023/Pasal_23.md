@@ -20,8 +20,7 @@ mengamandemen: []
 - (1) Penyelenggaraan Upaya Kesehatan dilaksanakan secara bertanggung jawab, arnan, bermutu, merata, nondiskriminatif, dan berkeadilan.
 2. (21 Penyelenggaraan Upaya Kesehatan harus memperhatikan fungsi sosial, nilai sosial budaya, moral, dan etika.
 
-## Pasa724
-
+## Pasal 24
 - (1) Penyelenggaraan Upaya Kesehatan dilaksanakan sesuai dengan standar Pelayanan Kesehatan.
 2. (21 Ketentuan mengenai standar Pelayanan Kesehatan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
 

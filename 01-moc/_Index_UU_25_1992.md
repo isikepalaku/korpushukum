@@ -4,7 +4,7 @@ judul: "Map of Content - Perkoperasian"
 kode_uu: UU_25_1992
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_25_1992]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Perkoperasian (UU_25_1992)
@@ -20,8 +20,8 @@ last_updated: 2026-11-01
 - [[Pasal_5]]: (1) Koperasi melaksanakan prinsip Koperasi sebagai berikut:
 - [[Pasal_6]]: (1) Koperasi Primer dibentuk oleh sekurang-kurangnya 20 (duapuluh)
 - [[Pasal_7]]: (1) Pembentukan Koperasi sebagaimana dimaksud dalam Pasal 6
-- [[Pasal_8]]: Anggaran Dasar sebagaimana dimaksud dalam Pasal 7 ayat (1) memuat
-- [[Pasal_9]]: akta pendirian Koperasi.
+- [[Pasal_8]]: Anggaran Dasar sebagaimana dimaksud dalam
+- [[Pasal_9]]: Koperasi memperoleh status badan hukum setelah akta pendiriannya
 - [[Pasal_10]]: (1) Untuk mendapatkan pengesahan sebagaimana dimaksud dalam
 - [[Pasal_11]]: (1) Dalam hal permintaan pengesahan akta pendirian ditolak, alasan
 - [[Pasal_12]]: (1) Perubahan Anggaran Dasar dilakukan oleh Rapat Anggpta.
@@ -45,7 +45,7 @@ last_updated: 2026-11-01
 - [[Pasal_30]]: (1) Pengurus bertugas:
 - [[Pasal_31]]: Pengurus bertanggung jawab mengenai segala kegiatan pengelolaan
 - [[Pasal_32]]: (1) Pengurus Koperasi dapat mengangkat Pengelola yang diberi
-- [[Pasal_33]]: Hubungan antara Pengelola usaha sebagaimana dimaksud dalam Pasal
+- [[Pasal_33]]: Hubungan antara Pengelola usaha sebagaimana dimaksud dalam
 - [[Pasal_34]]: (1) Pengurus, baik bersama-sama, maupun sendiri-sendiri,
 - [[Pasal_35]]: Setelah tahun buku Koperasi ditutup, paling lambat 1 (satu) bulan
 - [[Pasal_36]]: (1) Laporan tahunan sebagaimana dimaksud dalam Pasal 35
@@ -62,7 +62,7 @@ last_updated: 2026-11-01
 - [[Pasal_47]]: (1) Keputusan pembubaran oleh Pemerintah sebagaimana dimaksud
 - [[Pasal_48]]: Ketentuan mengenai pembubaran Koperasi oleh Pemerintah dan tata
 - [[Pasal_49]]: (1) Keputusan pembubaran Koperasi oleh Rapat Anggota
-- [[Pasal_50]]: Dalam pemberitahuan sebagaimana dimaksud dalam Pasal 49
+- [[Pasal_50]]: Dalam pemberitahuan sebagaimana dimaksud dalam
 - [[Pasal_51]]: Untuk kepentingan kreditor dan para anggota Koperasi, terhadap
 - [[Pasal_52]]: (1) Penyelesaian dilakukan oleh penyetesai pembubaran yang
 - [[Pasal_53]]: (1) Penyelesaian segera dilaksanakan setelah dikeluarkan keputusan
@@ -71,12 +71,12 @@ last_updated: 2026-11-01
 - [[Pasal_56]]: (1) Pemerintah mengumumkan pembubaran Koperasi dalam Berita
 - [[Pasal_57]]: (1) Koperasi secara bersama-sama mendirikan satu organisasi tunggal
 - [[Pasal_58]]: (1) Organisasi tersebut melakukan kegiatan:
-- [[Pasal_59]]: Organisasi yang dibentuk sebagaimana dimaksud dalam Pasal 57 ayat
+- [[Pasal_59]]: Organisasi yang dibentuk sebagaimana dimaksud dalam
 - [[Pasal_60]]: (1) Pemerintah menciptakan dan mengembangkan iklim dan kondisi
 - [[Pasal_61]]: Dalam upaya menciptakan dan mengembangkan iklim dan kondisi yang
 - [[Pasal_62]]: Dalam rangka memberikan bimbingan dan kemudahan kepada
 - [[Pasal_63]]: (1) Dalam rangka pemberian perlindungan kepada Koperasi,
-- [[Pasal_64]]: Pembinaan sebagaimana dimaksud dalam Pasal 60, Pasal 61, Pasal 62,
+- [[Pasal_64]]: Pembinaan sebagaimana dimaksud dalam Pasal 60,
 - [[Pasal_65]]: Koperasi yang telah memiliki status badan hukum pada saat
 - [[Pasal_66]]: (1) Dengan berlakunya Undang-undang ini, maka Undang-undang
 - [[Pasal_67]]: Undang-undang ini mulai berlaku sejak tanggal diundangkan.

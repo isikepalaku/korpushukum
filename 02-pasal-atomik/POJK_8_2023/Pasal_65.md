@@ -17,10 +17,22 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BAB VI
-PENERAPAN PROGRAM APU, PPT, DAN PPPSPM DI
+(1) PJK wajib memiliki sistem pengendalian intern yang efektif
+dan independen.
 
-JARINGAN KANTOR DAN PERUSAHAAN ANAK
+-----
+
+(2) Pelaksanaan sistem pengendalian intern yang efektif dan
+independen sebagaimana dimaksud pada ayat (1), paling
+sedikit dibuktikan dengan:
+a. dimilikinya kebijakan, prosedur, dan pemantauan
+internal yang memadai;
+b. adanya batasan wewenang dan tanggung jawab
+satuan kerja terkait dengan penerapan program APU,
+PPT, dan PPPSPM; dan
+c. dilakukannya pemeriksaan secara independen untuk
+memastikan efektivitas penerapan program APU, PPT,
+dan PPPSPM.
 
 ## Penjelasan Resmi
 

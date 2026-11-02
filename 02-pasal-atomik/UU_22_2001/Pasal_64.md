@@ -27,11 +27,7 @@ Pada saat Undang-undang ini berlaku:
 
 BAB XIII …
 
-BAB XIII KETENTUAN LAIN Pasal 65
-
-Kegiatan usaha atas minyak atau gas selain yang dimaksud dalam Pasal 1 angka 1 dan angka 2 sepanjang belum atau tidak diatur dalam Undang-undang lain, diberlakukan ketentuan Undang-undang ini.
-
-BAB XIV KETENTUAN PENUTUP
+BAB XIII KETENTUAN LAIN
 
 ## Penjelasan Resmi
 

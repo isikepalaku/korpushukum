@@ -12,7 +12,6 @@ status_berlaku: diubah
 diamandemen_oleh:
 - '[[02-pasal-atomik/UU_4_2026/Pasal_53|UU 4/2026 Pasal 53]]'
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_53|UU 1/2013 Pasal 53]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_53|UU 1/2016 Pasal 53]]'
 - '[[02-pasal-atomik/UU_10_2011/Pasal_53|UU 10/2011 Pasal 53]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_53|UU 21/2008 Pasal 53]]'
@@ -41,6 +40,8 @@ mengamandemen:
 - e. menerbitkan produk asuransi yang menimbulkan pembagian keuntungan dan kerugian atas kegiatan Usaha Bersama bagi anggota; dan
 - f. memiliki kekayaan yang terpisah dari kekayaan anggota.
 
+Pasal 54 ...
+
 ## Penjelasan Resmi
 
 Ayat (1)
@@ -54,3 +55,11 @@ Pengaturan mengenai program penjaminan polis di antaranya diatur dalam Bab VIII 
 Ayat (3)
 
 Cukup jelas.
+
+Angka 20
+
+Pasal 62A
+
+Cukup jelas.
+
+Angka 21

@@ -18,8 +18,7 @@ mengamandemen:
 
 ## Batang Tubuh
 
-32 ayat (1), ayat (2), ayat (3), ayat (4), ayat (6), Pasal
-32A, Pasal 34 ayat (2), ayat (4), Pasal 34A ayat (1),
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 
@@ -48,13 +47,22 @@ Huruf f
 Cukup jelas.
 Huruf g
 
-Lihat penjelasan Pasal 21 ayat (1) huruf g.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf g.
 Huruf h
 
-Lihat penjelasan Pasal 21 ayat (1) huruf h.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf h.
 Huruf i
 
-Lihat penjelasan Pasal 21 ayat (1) huruf i.
+Lihat penjelasan
+
+Pasal 21
+ayat (1) huruf i.
 Ayat (3)
 
 Cukup jelas.
@@ -76,3 +84,5 @@ Cukup jelas.
 Ayat (8)
 
 Cukup jelas.
+
+Angka 37

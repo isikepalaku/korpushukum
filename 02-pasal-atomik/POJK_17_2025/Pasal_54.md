@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Calon Pihak Utama yang tidak disetujui sebagaimana
-dimaksud dalam Pasal 49 ayat (1) huruf b dapat
+dimaksud dalam
+
+Pasal 49
+ayat (1) huruf b dapat
 dicalonkan kembali kepada Otoritas Jasa Keuangan
 
 -----

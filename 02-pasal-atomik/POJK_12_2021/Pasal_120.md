@@ -31,7 +31,10 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2), dan belum memenuhi ketentuan sebagaimana
 
-dimaksud dalam Pasal 119, Pasal 120 ayat (1), ayat
+dimaksud dalam Pasal 119,
+
+Pasal 120
+ayat (1), ayat
 
 (3), Pasal 121, dan/atau Pasal 122 ayat (1), KPBLN
 
@@ -45,9 +48,10 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2) dan melanggar ketentuan sebagaimana dimaksud
 
-dalam Pasal 119, Pasal 120 ayat (1), ayat (3), Pasal
+dalam Pasal 119,
 
-121, Pasal 122 ayat (1), ayat (2), dan/atau ayat (3),
+Pasal 120
+ayat (1), ayat (3), Pasal 121, Pasal 122 ayat (1), ayat (2), dan/atau ayat (3),
 
 pemimpin KPBLN dapat dikenai sanksi administratif
 

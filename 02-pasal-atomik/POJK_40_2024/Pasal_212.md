@@ -19,8 +19,9 @@ mengamandemen: []
 
 (1) Dalam hal Otoritas Jasa Keuangan menetapkan
 Penyelenggara dengan status pengawasan khusus tidak
-dapat disehatkan sebagaimana dimaksud dalam Pasal
-211, Otoritas Jasa Keuangan mencabut izin usaha
+dapat disehatkan sebagaimana dimaksud dalam
+
+Pasal 211, Otoritas Jasa Keuangan mencabut izin usaha
 Penyelenggara.
 
 -----

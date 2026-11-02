@@ -29,3 +29,5 @@ Dihapus.
 Angka 17
 
 Cukup jelas.
+
+Angka 18

@@ -18,9 +18,17 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 16B ayat (1), ayat (5), Pasal 169
-ayat (1), ayat (2), Pasal 170 ayat (3), Pasal 171, Pasal 172
-ayat (1), dan/atau Pasal 173 dikenai sanksi administratif
+dimaksud dalam Pasal 168 ayat (1), ayat (5),
+
+Pasal 169
+ayat (1), ayat (2),
+
+Pasal 170
+ayat (3), Pasal 171, Pasal 172
+ayat (1), dan/atau
+
+Pasal 173
+dikenai sanksi administratif
 berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -76,7 +84,10 @@ Gadai dan Berdasarkan Hukum Fidusia
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

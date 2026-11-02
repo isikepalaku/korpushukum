@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '33'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -19,6 +19,7 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_23_1999/Pasal_33|UU 23/1999 Pasal 33]]'
 - '[[02-pasal-atomik/UU_24_2004/Pasal_33|UU 24/2004 Pasal 33]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_33|UU 25/1992 Pasal 33]]'
+- '[[02-pasal-atomik/UU_3_2004/Pasal_33|UU 3/2004 Pasal 33]]'
 - '[[02-pasal-atomik/UU_32_1997/Pasal_33|UU 32/1997 Pasal 33]]'
 - '[[02-pasal-atomik/UU_40_2004/Pasal_33|UU 40/2004 Pasal 33]]'
 - '[[02-pasal-atomik/UU_40_2014/Pasal_33|UU 40/2014 Pasal 33]]'
@@ -49,3 +50,5 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 13

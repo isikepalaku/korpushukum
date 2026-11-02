@@ -32,7 +32,10 @@ mengamandemen: []
 
 ## PasaJ232
 
-Penempatan sebagaimana dimaksud dalam Pasal 231 diikuti dengan upaya retensi Tenaga Medis dan Tenaga Kesehatan.
+Penempatan sebagaimana dimaksud dalam
+
+Pasal 231
+diikuti dengan upaya retensi Tenaga Medis dan Tenaga Kesehatan.
 
 ## Penjelasan Resmi
 

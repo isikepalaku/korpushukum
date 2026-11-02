@@ -19,13 +19,19 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pengawasan secara tidak langsung sebagaimana dimaksud
-dalam Pasal 114 ayat (2) huruf b dilakukan melalui:
+dalam
+
+Pasal 114
+ayat (2) huruf b dilakukan melalui:
 a. penelitian;
 b. analisis; dan
 c. evaluasi,
 atas laporan, data, dan informasi dari Penyelenggara
 Perdagangan Aset Keuangan Digital dan aktivitas penunjang
-sebagaimana dimaksud dalam Pasal 114 ayat (1).
+sebagaimana dimaksud dalam
+
+Pasal 114
+ayat (1).
 
 Bagian Kedua
 Sanksi Administratif

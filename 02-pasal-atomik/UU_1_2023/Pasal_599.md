@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '599'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -32,14 +32,20 @@ b. perbudakan. . .
 
 **Bagian Kedua Tindak Pidala Terorisme**
 
-**Pasal 6OO**
-
-Setiap Orang yang menggunakan Kekerasan atau Ancaman Kekerasan yang menimbulkan suasana teror atau rasa takut terhadap orErng secara meluas, menimbulkan Korban yang bersifat massal dengan cara merampas kemerdekaan atau hilangnya nyawa dan harta benda orang lain, atau mengalibatkan kerusakan atau kehancuran terhadap objek vital yang strategis, lingkungan hidup, fasilitas publik, atau fasilitas internasional, dipidana dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 20 (dua puluh) tahun, pidana penjara seumur hidup, atau pidana mati.
-
-**NEFUBUK INDONESIA,**
-
-- -204-
-
 ## Penjelasan Resmi
 
+Hurufa
+
 Cukup jelas.
+
+Hurufb
+
+Cukup jelas.
+
+Huruf c
+
+Cukup jelas.
+
+Hunrfd
+
+Yang dimaksud dengan "kekerasan seksual lain yang setara" adalah perbuatan untuk melakukan pemaksaan seksual yang serius sebagai bentuk Tindak Pidana terhadap kemanusiaan.

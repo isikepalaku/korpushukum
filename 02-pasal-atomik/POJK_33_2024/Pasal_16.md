@@ -18,10 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 2, Pasal 4, Pasal 5, Pasal 6, Pasal
-7, Pasal 9, Pasal 10, Pasal 11, Pasal 12 ayat (1) dan ayat
-(4), Pasal 13 ayat (3), ayat (4), dan ayat (5), dan Pasal
-15, dikenai sanksi administratif.
+dimaksud dalam Pasal 2,
+
+Pasal 4, Pasal 5, Pasal 6, Pasal 7, Pasal 9, Pasal 10, Pasal 11, Pasal 12 ayat (1) dan ayat
+(4), Pasal 13 ayat (3), ayat (4), dan ayat (5), dan Pasal 15, dikenai sanksi administratif.
 
 -----
 

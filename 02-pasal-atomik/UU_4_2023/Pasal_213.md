@@ -69,7 +69,10 @@ Aset keuangan digital merupakan aset keuangan yang disimpan atau direpresentasik
 **Huruf i**
 
 ```
-Cukup jelas. Pasal 214 Ayat (1) Cukup jelas.
+Cukup jelas.
+
+Pasal 214
+Ayat (1) Cukup jelas.
 ```
 
 Ayat (2) ...

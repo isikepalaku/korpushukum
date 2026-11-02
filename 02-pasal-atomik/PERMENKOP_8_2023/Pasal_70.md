@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Apex sebagaimana dimaksud dalam Pasal 69 melaksanakan
+Apex sebagaimana dimaksud dalam
+
+Pasal 69
+melaksanakan
 fungsi:
 a. pengumpulan dana bersama;
 b. penyediaan dukungan finansial;

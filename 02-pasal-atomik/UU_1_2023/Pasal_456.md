@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang melakukan salah satu Tindak Pidana sebagaimana dimaksud dalam Pasal 446 dan Pasal 450 sampai dengan Pasal 455 dapat dijatuhi pidana tambahan berupa pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf a, huruf b, huruf c, dan/ atau huruf d.
+Setiap Orang yang melakukan salah satu Tindak Pidana sebagaimana dimaksud dalam Pasal 446 dan
+
+Pasal 450
+sampai dengan Pasal 455 dapat dijatuhi pidana tambahan berupa pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf a, huruf b, huruf c, dan/ atau huruf d.
 
 **BAB XX**
 

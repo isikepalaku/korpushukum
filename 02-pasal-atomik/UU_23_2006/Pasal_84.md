@@ -18,28 +18,19 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Ketentuan
-lebih
-lanjut
-mengenai
-penyimpanan
-dan
-perlindungan
-terhadap
-Data
-Pribadi
-Penduduk
-sebagaimana dimaksud pada ayat (1) diatur dalam
-Peraturan Pemerintah.
-(3) Data Pribadi Penduduk sebagaimana dimaksud pada ayat
-(1)
-harus
-dijaga
-kebenarannya
-dan
-dilindungi
-kerahasiaannya oleh Penyelenggara dan Instansi Pelaksana
-sesuai dengan ketentuan Peraturan Perundang-undangan.
+(1) Data Pribadi Penduduk yang harus dilindungi memuat:
+a. nomor KK;
+b. NIK;
+c. tanggal/bulan/tahun lahir;
+d. keterangan tentang kecacatan fisik dan/atau mental;
+e. NIK ibu kandung;
+f. NIK ayah;dan
+g. beberapa isi catatan Peristiwa Penting;
+(2) Ketentuan lebih lanjut mengenai beberapa isi catatan
+Peristiwa Penting sebagaimana dimaksud pada ayat (1)
+huruf g diatur dalam Peraturan Pemerintah.
+
+Pasal 85 . . .
 
 ## Penjelasan Resmi
 

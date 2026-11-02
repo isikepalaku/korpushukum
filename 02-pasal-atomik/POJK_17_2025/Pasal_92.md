@@ -21,7 +21,9 @@ Penyelenggara wajib:
 a. menyerahkan dana kepada Penerbit; dan
 b. mendistribusikan Efek kepada Pemodal,
 paling lambat 2 (dua) hari kerja setelah perjanjian
-pendaftaran Efek sebagaimana dimaksud dalam Pasal 91
+pendaftaran Efek sebagaimana dimaksud dalam
+
+Pasal 91
 huruf b diterima Penyelenggara.
 
 ## Penjelasan Resmi

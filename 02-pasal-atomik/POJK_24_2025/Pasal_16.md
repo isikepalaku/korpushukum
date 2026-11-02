@@ -18,13 +18,32 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Bank yang melanggar ketentuan sebagaimana
-dimaksud pada Pasal 4, Pasal 5 ayat (1), Pasal 10 ayat
-(1), Pasal 11 ayat (1), ayat (2), Pasal 12 ayat (2), Pasal
-14 ayat (1), dan/atau Pasal 15 ayat (1) dikenai sanksi
+dimaksud pada Pasal 4,
+
+Pasal 5
+ayat (1), Pasal 10 ayat
+(1), Pasal 11 ayat (1), ayat (2), Pasal 12 ayat (2), Pasal 14 ayat (1), dan/atau Pasal 15 ayat (1) dikenai sanksi
 administratif berupa teguran tertulis.
 (2) Dalam hal Bank telah dikenai sanksi administratif
 sebagaimana dimaksud pada ayat (1) dan belum
 memenuhi ketentuan sebagaimana dimaksud dalam
+Pasal 4,
+
+Pasal 5
+ayat (1), Pasal 10 ayat (1), Pasal 11 ayat
+(1), ayat (2), Pasal 12 ayat (2), Pasal 14 ayat (1),
+dan/atau Pasal 15 ayat (1), Bank dikenai sanksi
+administratif berupa:
+a. larangan untuk menerbitkan produk baru;
+b. pembekuan kegiatan usaha tertentu;
+c. larangan melakukan ekspansi kegiatan usaha;
+d. larangan melakukan kegiatan usaha baru;
+dan/atau
+e. penurunan penilaian faktor tata kelola dalam
+penilaian tingkat kesehatan.
+
+BAB VIII
+KETENTUAN LAIN-LAIN
 
 ## Penjelasan Resmi
 

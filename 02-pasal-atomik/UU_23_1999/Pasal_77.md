@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam jangka waktu paling lama 2 (dua) tahun sejak diberlakukannya Undang-undang ini, Bank Indonesia wajib sudah melepaskan seluruh penyertaannya pada badan hukum atau badan lainnya yang tidak memenuhi ketentuan sebagaimana diatur dalam Pasal 64 ayat (1).
+Dalam jangka waktu paling lama 2 (dua) tahun sejak diberlakukannya Undang-undang ini, Bank Indonesia wajib sudah melepaskan seluruh penyertaannya pada badan hukum atau badan lainnya yang tidak memenuhi ketentuan sebagaimana diatur dalam
+
+Pasal 64
+ayat (1).
 
 ## Penjelasan Resmi
 

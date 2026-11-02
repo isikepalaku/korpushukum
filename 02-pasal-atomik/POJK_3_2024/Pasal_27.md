@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 26 ayat (1) dan/atau ayat (4)
+dimaksud dalam
+
+Pasal 26
+ayat (1) dan/atau ayat (4)
 dikenakan sanksi administratif berupa:
 a. peringatan tertulis;
 b. penghentian sementara, sebagian, atau seluruh
@@ -56,7 +59,10 @@ Huruf d
 Cukup jelas.
 Huruf e
 
-Lihat penjelasan Pasal 22 ayat (1) huruf e.
+Lihat penjelasan
+
+Pasal 22
+ayat (1) huruf e.
 Ayat (2)
 
 Cukup jelas.

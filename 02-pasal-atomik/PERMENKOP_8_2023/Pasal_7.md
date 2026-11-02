@@ -18,9 +18,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 22 ayat (7) huruf a, Pasal 22 ayat (7) huruf d, Pasal 22
-ayat (7) huruf e, Pasal 23 ayat (7), Pasal 24 ayat (2), Pasal
-26 ayat (2), Pasal 26 ayat (4), Pasal 26 ayat (6), Pasal 27
-ayat (1), Pasal 27 ayat (3), Pasal 28 ayat (2), Pasal 28 ayat
+ayat (7) huruf e,
+
+Pasal 23
+ayat (7), Pasal 24 ayat (2), Pasal 26 ayat (2), Pasal 26 ayat (4), Pasal 26 ayat (6), Pasal 27
+ayat (1),
+
+Pasal 27
+ayat (3), Pasal 28 ayat (2), Pasal 28 ayat
 (3), Pasal 28 ayat (4), Pasal 30 ayat (11), Pasal 31 ayat (2),
 
 ## Penjelasan Resmi

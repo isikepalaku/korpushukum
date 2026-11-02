@@ -19,7 +19,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pembinaan sebagaimana dimaksud dalam Pasal 60, Pasal 61, Pasal 62,
+Pembinaan sebagaimana dimaksud dalam Pasal 60,
+
+Pasal 61, Pasal 62,
 dan Pasal 63 dilakukan dengan memperhatikan keadaan dan
 kepentingan ekonomi nasional, serta pemerataan kesempatan
 berusaha dan kesempatan kerja.

@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam hal Penyelenggara telah menggunakan tenaga
-kerja asing sebagaimana dimaksud dalam Pasal 53 ayat
+kerja asing sebagaimana dimaksud dalam
+
+Pasal 53
+ayat
 (1) sebelum diundangkannya Peraturan Otoritas Jasa
 Keuangan ini, tenaga kerja asing dimaksud tetap dapat
 dipekerjakan sampai dengan berakhirnya kontrak kerja

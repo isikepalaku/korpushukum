@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '439'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -27,4 +27,4 @@ Bagian Ketujuh Pengaduan, Pemberatan Pidana, dan Pidana Tambahan
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Tindak Pidana ini merupakan Tindak Pidana aduan dan hanya dapa.t diajukan oleh suami atau istrinya, atau oleh salah seorang keluarga ieaarafr maupun semenda dalam garis lurus atau menyampin[ sampai der4lat kedua dari orang yang telah mati tersebut.

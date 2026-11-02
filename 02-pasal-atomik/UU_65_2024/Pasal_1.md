@@ -27,7 +27,9 @@ Cukup jelas.
 
 Huruf . . .
 
-Huruf c Cukup jelas. Humf d Cukup jelas. Angka 42 Pasal 1 1 1A Cukup jelas. Angka 43 Pasal ll2 Cukup jelas. Angka 44 Pasal 126 Ayat (1) Yang dimaksud dengan "tanggal sertifikat Paten" adalah tanggal pemberian Paten. Contoh penghitungan biaya tahunan: Permohonan yang diajukan pada tanggal 1 April 2OlO dan dinyatakan diberi Paten pada tanggal 5 Januari 2013. Kewajiban Pemegang Paten untuk membayar biaya tahunan pertama kali paling lambat harus dilakukan pada tanggal 4 Juli 2013.
+Huruf c Cukup jelas. Humf d Cukup jelas. Angka 42
+
+Pasal 1 1 1A Cukup jelas. Angka 43 Pasal ll2 Cukup jelas. Angka 44 Pasal 126 Ayat (1) Yang dimaksud dengan "tanggal sertifikat Paten" adalah tanggal pemberian Paten. Contoh penghitungan biaya tahunan: Permohonan yang diajukan pada tanggal 1 April 2OlO dan dinyatakan diberi Paten pada tanggal 5 Januari 2013. Kewajiban Pemegang Paten untuk membayar biaya tahunan pertama kali paling lambat harus dilakukan pada tanggal 4 Juli 2013.
 
 Ayat (21
 
@@ -47,7 +49,9 @@ Tanggal
 ## PRESIDEN
 
 ```
-Cukup jelas. Angka 45 Pasal t28 Ayat (1) Cukup jelas. Ayat (21 Dihapus. Ayat (3) Dihapus. Ayat (a) Dihapus. Ayat (5) Dihapus. Ayat (6) Dihapus. Angka 46 Pasal 128A Cukup jelas. Angka 47 Pasal L32 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c
+Cukup jelas. Angka 45 Pasal t28 Ayat (1) Cukup jelas. Ayat (21 Dihapus. Ayat (3) Dihapus. Ayat (a) Dihapus. Ayat (5) Dihapus. Ayat (6) Dihapus. Angka 46
+
+Pasal 128A Cukup jelas. Angka 47 Pasal L32 Ayat (1) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c
 ```
 
 ```
@@ -55,13 +59,15 @@ Tanggal 5 Januari 2Ol3 terletak pada Tahun III periode I April 2Ol2-31 Maret 201
 ```
 
 ```
-Huruf d Dihapus. Huruf e Cukup jelas. Ayat (2) Yang dimaksud dengan "pihak ketiga" adalah pihak yang memiliki kepentingan dengan Paten yang digugat penghapusannya dan harus dibuktikan di Pengadilan Niaga. Ayat (zal Huruf a Yang dimaksud dengan "pihak lain yang mewakili kepentingan nasional" adalah setiap orang yang melakukan gugatan semata-mata untuk kePentingan masyarakat dan latau Negara Kesatuan Republik Indonesia. Huruf b Lihat penjelasan ayat (21. Ayat (3) Cukup jelas. Ayat (a) Lihat penjelasan ayat (Zal huruf a. Angka 48 Pasal 134 Ayat (1) Dihapus. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
+Huruf d Dihapus. Huruf e Cukup jelas. Ayat (2) Yang dimaksud dengan "pihak ketiga" adalah pihak yang memiliki kepentingan dengan Paten yang digugat penghapusannya dan harus dibuktikan di Pengadilan Niaga. Ayat (zal Huruf a Yang dimaksud dengan "pihak lain yang mewakili kepentingan nasional" adalah setiap orang yang melakukan gugatan semata-mata untuk kePentingan masyarakat dan latau Negara Kesatuan Republik Indonesia. Huruf b Lihat penjelasan ayat (21. Ayat (3) Cukup jelas. Ayat (a) Lihat penjelasan ayat (Zal huruf a. Angka 48
+
+Pasal 134
+Ayat (1) Dihapus. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
 ```
 
 Angka 49
 
 Pasal L67
-
 Tindakan impor paralel (parallel importl dan provisi bolar {bolar prouisionl dikecualikan dari ketentuan pidana dan gugatan perdata sehingga tidak ada keraguan untuk pihak yang akan melakukan tindakan tersebut.
 
 Huruf a
@@ -76,7 +82,8 @@ Yang dimaksud dengan "proses perl.zinan" adalah proses untuk pengurusan izin eda
 
 - -24-
 
-Pasal II Angka 1 Cukup jelas. Angka 2
+Pasal 11
+Angka 1 Cukup jelas. Angka 2
 
 Cukup jelas.
 

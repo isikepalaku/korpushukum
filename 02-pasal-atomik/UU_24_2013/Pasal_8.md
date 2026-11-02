@@ -104,3 +104,5 @@ Cukup jelas.
  
  
 Angka 6 . . .
+
+Angka 6

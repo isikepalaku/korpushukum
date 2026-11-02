@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '433'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -33,4 +33,14 @@ Bagian Kedua . . .
 
 ## Penjelasan Resmi
 
+Ayat (1)
+
+Sifat dari perbuatan penceflur€rn adalah jika perbuatan penglrinaan yang dilakukan dengan cara menuduh, baik secara lisan, tulisan, maupun dengan gambar, yang menyerang kehormatan dan nama baik seseorang, sehingga merugikan orang tersebut. Perbuatan yang dituduhkan tidak perlu harus suatu Tindak Pidana. Tindak Pidana menurut ketentuan dalam pasal ini objeknya adalah orang perseorangan. Penistaan terhadap lembaga pemerintah atau sekelompok orang tidak termasuk ketentuan pasal ini.
+
+Ayat (2)
+
 Cukup jelas.
+
+Ayat (3)
+
+Sifat melawan hukum dari perbuatan tersebut ditiadakan karena adanya alasan pemaaf yaitu jika perbuatan tersebut dilakukan untuk kepentingan rrmum atau karena terpaksa membela diri.

@@ -17,32 +17,43 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-108 ayat (2) dikenai sanksi administratif berupa denda
-sebesar Rp1.000.000,00 (satu juta rupiah) per hari
-kerja dan paling banyak Rp30.000.000,00 (tiga puluh
-juta rupiah).
-(3) Dalam hal Bank telah dikenai sanksi administratif
-sebagaimana dimaksud pada ayat (1) dan/atau ayat (2),
-dan tetap melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 106 ayat (1), ayat (2), ayat (3), ayat (5), ayat
-(6), Pasal 107, dan/atau Pasal 108 ayat (2), Bank
-dikenai sanksi administratif berupa:
-a. larangan melakukan ekspansi kegiatan usaha;
-dan/atau
-b. pembekuan kegiatan usaha tertentu.
-(4) Dalam hal Bank telah dikenai sanksi administratif
-sebagaimana dimaksud pada ayat (1) dan/atau ayat (2)
-dan tetap melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 106 ayat (1), ayat (2), ayat (3), ayat (5), ayat
-(6), Pasal 107, dan/atau Pasal 108 ayat (2), pihak
-utama Bank dapat dikenai sanksi administratif berupa
-larangan sebagai pihak utama sesuai dengan Peraturan
-OJK mengenai penilaian kembali bagi pihak utama
-lembaga jasa keuangan.
+(1) Perubahan nama Bank wajib dilaksanakan sesuai
+dengan ketentuan peraturan perundang-undangan.
+(2) Bank wajib menyampaikan rencana perubahan nama
+Bank kepada OJK disertai dengan dokumen
+pendukung tercantum dalam Lampiran I yang
+merupakan bagian tidak terpisahkan dari Peraturan
+OJK ini, bersamaan dengan pengajuan permohonan
+perubahan nama oleh Bank kepada instansi yang
+berwenang.
+(3) Bank wajib menyampaikan dokumen persetujuan
+perubahan anggaran dasar dari instansi yang
+berwenang kepada OJK paling lama 5 (lima) hari kerja
+setelah Bank menerima persetujuan atau penerimaan
+pemberitahuan perubahan anggaran dasar dari
+instansi yang berwenang.
+(4) OJK memberikan penetapan penggunaan izin usaha
+yang dimiliki untuk Bank dengan nama yang baru
+paling lama 14 (empat belas) hari kerja setelah
+dokumen persetujuan dari instansi yang berwenang
+diterima secara lengkap.
+(5) Bank wajib mengumumkan perubahan nama Bank
+kepada masyarakat melalui:
 
-BAB IX
+-----
 
-KPBLN
+a. surat kabar harian berbahasa Indonesia;
+b. situs web Bank; dan/atau
+c. akun media sosial resmi Bank,
+paling lama 5 (lima) hari kerja setelah tanggal
+penetapan OJK sebagaimana dimaksud pada ayat (4).
+(6) Bank wajib menyampaikan bukti pengumuman
+sebagaimana dimaksud pada ayat (5) kepada OJK
+paling lama 10 (sepuluh) hari kerja sejak tanggal
+pengumuman.
+
+Bagian Kedua
+Perubahan Logo Bank
 
 ## Penjelasan Resmi
 

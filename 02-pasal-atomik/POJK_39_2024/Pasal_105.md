@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam Pembubaran, Tim Likuidasi yang dibentuk oleh
-RUPS sebagaimana dimaksud dalam Pasal 104 ayat (1)
+RUPS sebagaimana dimaksud dalam
+
+Pasal 104
+ayat (1)
 wajib mendaftarkan dan memberitahukan Pembubaran
 kepada instansi yang berwenang, serta
 mengumumkannya dalam Berita Negara Republik

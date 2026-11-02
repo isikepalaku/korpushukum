@@ -17,10 +17,12 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Keuangan.
+Selain kelengkapan dokumen sebagaimana dimaksud dalam
 
-Bagian Ketiga
-Pelaporan Produk Asuransi
+Pasal 36, Perusahaan Asuransi dan Perusahaan Asuransi
+Syariah yang menyelenggarakan dan memasarkan PAYDI
+harus melampirkan dokumen lain sebagaimana dimaksud
+dalam ketentuan mengenai PAYDI.
 
 ## Penjelasan Resmi
 

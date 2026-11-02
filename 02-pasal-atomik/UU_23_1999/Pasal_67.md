@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Barang siapa yang melakukan campur tangan terhadap pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 9 ayat (1), diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 5 (lima) tahun, serta denda sekurang-kurangnya Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak Rp5.000.000.000,- (lima miliar rupiah).
+Barang siapa yang melakukan campur tangan terhadap pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (1), diancam dengan pidana penjara sekurang-kurangnya 2 (dua) tahun dan paling lama 5 (lima) tahun, serta denda sekurang-kurangnya Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak Rp5.000.000.000,- (lima miliar rupiah).
 
 ## Penjelasan Resmi
 

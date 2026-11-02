@@ -19,8 +19,7 @@ mengamandemen: []
 
 Pada saat Undang-Undang ini mulai berlaku, semua ketentuan peraturan perundang-undangan yang mempakan peraturan pelaksanaan dari Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 11, Tambahan kmbaran Negara Republik Indonesia Nomor 4966) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856), dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Undang-Undang ini.
 
-## Pasal II
-
+## Pasal 11
 1. Peraturan pelaksanaan Undang-Undang ini harus ditetapkan paling lama 2 (dua) tahun terhitung sejak Undang-Undang ini diundangkan.
 2. Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 

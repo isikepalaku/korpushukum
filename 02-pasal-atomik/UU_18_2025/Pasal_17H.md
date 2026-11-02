@@ -21,7 +21,9 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 17I ...
+Cukup jelas.
+
+Pasal 17I ...
 
 ## PRESIDEN REPUBU( INDONESIA
 

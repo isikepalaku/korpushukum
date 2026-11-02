@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dengan Pasal 26 berpedoman sesuai dengan ketentuan 
+dengan
+
+Pasal 26
+berpedoman sesuai dengan ketentuan 
 peraturan perundang-undangan. 
  
 Bagian Kedua 

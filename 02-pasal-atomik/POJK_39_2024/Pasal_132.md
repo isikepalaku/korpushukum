@@ -23,7 +23,10 @@ Likuidasi dalam Berita Negara Republik Indonesia
 
 -----
 
-sebagaimana dimaksud dalam Pasal 130 huruf a angka
+sebagaimana dimaksud dalam
+
+Pasal 130
+huruf a angka
 1 dan Pasal 131 ayat (2) huruf a angka 1.
 (2) Otoritas Jasa Keuangan berwenang menetapkan
 mekanisme dan persyaratan Likuidasi yang berbeda
@@ -34,7 +37,9 @@ Pemisahan;
 b. mengajukan penghentian kegiatan usaha atas
 permintaan Perusahaan; atau
 c. belum melakukan kegiatan usaha selama jangka
-waktu sebagaimana dimaksud dalam Pasal 97
+waktu sebagaimana dimaksud dalam
+
+Pasal 97
 ayat (2) huruf d.
 
 Bagian Keenam

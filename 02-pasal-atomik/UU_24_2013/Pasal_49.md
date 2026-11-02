@@ -56,4 +56,5 @@ kandung anak tersebut.
 Ayat (2) 
 Cukup jelas. 
 Ayat (3) 
-Cukup jelas.
+Cukup jelas. 
+Angka 11

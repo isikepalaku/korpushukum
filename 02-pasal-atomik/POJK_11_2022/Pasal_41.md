@@ -25,6 +25,32 @@ dan/atau Pusat Pemulihan Bencana di luar
 
 wilayah Indonesia sebagaimana dimaksud dalam
 
+Pasal 35
+ayat (2); dan/atau
+
+b. mengimplementasikan pemrosesan transaksi
+
+berbasis TI oleh pihak penyedia jasa TI di luar
+
+wilayah Indonesia sebagaimana dimaksud dalam
+
+Pasal 39
+ayat (4),
+
+paling lama 6 (enam) bulan sejak memperoleh izin dari
+
+Otoritas Jasa Keuangan.
+
+(2) Apabila Bank tidak melaksanakan ketentuan
+
+sebagaimana dimaksud pada ayat (1) dalam jangka
+
+waktu 6 (enam) bulan sejak izin diperoleh dari Otoritas
+
+Jasa Keuangan, izin Otoritas Jasa Keuangan menjadi
+
+tidak berlaku.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

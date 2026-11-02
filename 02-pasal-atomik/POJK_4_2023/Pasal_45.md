@@ -5,7 +5,7 @@ uu_induk: Perubahan Kedua atas POJK 23-POJK.04-2016 tentang Reksa Dana Berbentuk
 kode_uu: POJK_4_2023
 pasal: '45'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_4_2023
@@ -51,3 +51,5 @@ berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 8

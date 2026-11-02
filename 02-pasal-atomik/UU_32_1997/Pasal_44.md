@@ -22,7 +22,15 @@ Ketentuan mengenai persyaratan dan tata cara perizinan Pengelola Sentra
 
  Dana Berjangka dan Wakil Pengelola Sentra Dana Berjangka serta
 
- pengelolaannya, sebagaimana dimaksud dalam Pasal 39, Pasal 41, dan
+ pengelolaannya, sebagaimana dimaksud dalam
+
+Pasal 39, Pasal 41, dan
+
+ Pasal 42, diatur lebih lanjut dengan Peraturan Pemerintah.
+
+ BAB VI
+
+ DANA KOMPENSASI
 
 ## Penjelasan Resmi
 

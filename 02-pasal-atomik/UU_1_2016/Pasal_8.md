@@ -19,8 +19,17 @@ mengamandemen: []
 ## Batang Tubuh
 
 Lembaga Penjamin yang berbentuk badan hukum perusahaan
-umum sebagaimana dimaksud dalam Pasal 7 huruf a hanya
+umum sebagaimana dimaksud dalam
+
+Pasal 7
+huruf a hanya
 dapat dimiliki oleh pemerintah pusat sesuai dengan undangundang yang mengatur mengenai badan usaha milik negara.
+
+Pasal 9 . . .
+
+-----
+
+ - 8
 
 ## Penjelasan Resmi
 

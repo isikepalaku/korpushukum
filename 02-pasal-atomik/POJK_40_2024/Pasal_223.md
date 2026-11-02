@@ -27,7 +27,10 @@ diundangkan dinyatakan tetap berlaku.
 (2) Dalam hal lembaga sertifikasi profesi yang
 menyelenggarakan sertifikasi kompetensi kerja di
 bidang teknologi finansial sebagaimana dimaksud
-dalam Pasal 51 ayat (1) belum terbentuk, sertifikasi
+dalam
+
+Pasal 51
+ayat (1) belum terbentuk, sertifikasi
 kompetensi kerja di bidang teknologi finansial dapat
 dilaksanakan oleh Asosiasi.
 

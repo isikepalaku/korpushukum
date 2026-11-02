@@ -22,6 +22,8 @@ keterangan tentang nama lengkap, NIK, jenis kelamin, tempat
 tanggal lahir, agama, alamat, Peristiwa Penting dan Peristiwa
 Kependudukan yang dialami oleh seseorang.
 
+Pasal 66 . . .
+
 ## Penjelasan Resmi
 
 Cukup jelas.

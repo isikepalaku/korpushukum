@@ -19,31 +19,89 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-a. melakukan kegiatan dalam valuta asing dengan memenuhi
+Usaha Bank Umum meliputi :
 
-ketentuan yang ditetapkan oleh Bank Indonesia;
+a. menghimpun dana dari masyarakat dalam bentuk simpanan berupa
 
-b. melakukan kegiatan penyertaan modal pada bank atau perusahaan
+giro, deposito berjangka, sertifikat deposito, tabungan, dan/atau
+bentuk lainnya yang dipersamakan dengan itu;
 
-lain di bidang keuangan, seperti sewa guna usaha, modal ventura,
-perusahaan efek, asuransi, serta lembaga kliring penyelesaian dan
-penyimpanan, dengan memenuhi ketentuan yang ditetapkan oleh
-Bank Indonesia;
-
-c. melakukan kegiatan penyertaan modal sementara untuk mengatasi
-
-akibat kegagalan kredit, dengan syarat harus menarik kembali
-penyertaannya, dengan memenuhi ketentuan yang ditetapkan oleh
-Bank Indonesia; dan
-
-d. bertindak sebagai pendiri dana pensiun dan pengurus dana pensiun
-
-sesuai dengan ketentuan dalam peraturan perundang-undangan
+b. memberikan kredit;
 
 -----
 
- - 9
-dana pensiun yang berlaku.
+ - 7
+c. menerbitkan surat pengakuan hutang;
+
+d. membeli, menjual atau menjamin atas risiko sendiri maupun untuk
+
+kepentingan dan atas perintah nasabahnya:
+
+1. surat-surat wesel termasuk wesel yang diakseptasi oleh bank
+yang masa berlakunya tidak lebih lama daripada kebiasaan dalam
+perdagangan surat-surat dimaksud;
+
+2. surat pengakuan hutang dan kertas dagang lainnya yang masa
+berlakunya tidak lebih lama dari kebiasaan dalam perdagangan
+surat-surat dimaksud;
+
+3. kertas perbendaharaan negara dan surat jaminan pemerintah;
+
+4. Sertifikat Bank Indonesia (SBI);
+
+5. obligasi;
+
+6. surat dagang berjangka waktu sampai dengan 1 (satu) tahun;
+
+7. instrumen surat berharga lain yang berjangka waktu sampai
+dengan 1 (satu) tahun;
+
+e. memindahkan uang baik untuk kepentingan sendiri maupun untuk
+
+kepentingan nasabah;
+
+f. menempatkan dana pada, meminjam dana dari, atau meminjamkan
+
+dana kepada bank lain, baik dengan menggunakan surat, sarana
+telekomunikasi maupun dengan wesel unjuk, cek atau sarana
+lainnya;
+
+g. menerima pembayaran dari tagihan atas surat berharga dan
+
+melakukan perhitungan dengan atau antar pihak ketiga;
+
+h. menyediakan tempat untuk menyimpan barang dan surat berharga;
+
+i. melakukan kegiatan penitipan untuk kepentingan pihak lain
+
+berdasarkan suatu kontrak;
+
+j. melakukan penempatan dana dari nasabah kepada nasabah lainnya
+
+dalam bentuk surat berharga yang tidak tercatat di bursa efek;
+
+-----
+
+ - 8
+k. membeli melalui pelelangan agunan baik semua maupun sebagian
+
+dalam hal debitur tidak memenuhi kewajibannya kepada bank,
+dengan ketentuan agunan yang dibeli tersebut wajib dicairkan
+secepatnya;
+
+l. melakukan kegiatan anjak piutang, usaha kartu kredit dan kegiatan
+
+wali amanat;
+
+m.menyediakan pembiayaan bagi nasabah berdasarkan prinsip bagi
+
+hasil sesuai dengan ketentuan yang ditetapkan dalam Peraturan
+Pemerintah;
+
+n. melakukan kegiatan lain yang lazim dilakukan oleh bank sepanjang
+
+tidak bertentangan dengan Undang-undang ini dan peraturan
+perundang-undangan yang berlaku.
 
 ## Penjelasan Resmi
 

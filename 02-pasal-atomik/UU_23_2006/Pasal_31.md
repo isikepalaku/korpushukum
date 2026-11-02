@@ -20,6 +20,13 @@ mengamandemen: []
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pencatatan kelahiran sebagaimana dimaksud dalam Pasal 27,
 
+Pasal 28, Pasal 29, dan Pasal 30 diatur dalam Peraturan
+Presiden.
+Paragraf 4 . . .
+
+Paragraf 4
+Pencatatan Kelahiran yang Melampaui Batas Waktu
+
 ## Penjelasan Resmi
 
 Cukup jelas.

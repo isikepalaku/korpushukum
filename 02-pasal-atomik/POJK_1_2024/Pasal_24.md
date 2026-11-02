@@ -18,8 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 BPR wajib membentuk PPKA dengan mekanisme yang sama
-dengan perhitungan PPKA sebagaimana dimaksud dalam Pasal
-19 sampai dengan Pasal 23.
+dengan perhitungan PPKA sebagaimana dimaksud dalam Pasal 19 sampai dengan
+
+Pasal 23.
 
 ## Penjelasan Resmi
 

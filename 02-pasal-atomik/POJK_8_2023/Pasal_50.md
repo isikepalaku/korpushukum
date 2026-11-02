@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam hal dilakukan penutupan hubungan usaha
-sebagaimana dimaksud dalam Pasal 49 ayat (1), PJK wajib
+sebagaimana dimaksud dalam
+
+Pasal 49
+ayat (1), PJK wajib
 memberitahukan secara tertulis kepada Nasabah mengenai
 penutupan hubungan usaha tersebut.
 

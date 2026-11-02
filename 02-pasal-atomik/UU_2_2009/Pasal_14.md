@@ -18,7 +18,29 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Dalam rangka melaksanakan tugas sebagaimana
+dimaksud dalam
 
+Pasal 13, LPEI berwenang:
+
+a. menetapkan skema Pembiayaan Ekspor Nasional;
+
+b. melakukan restrukturisasi Pembiayaan Ekspor
+Nasional;
+
+c. melakukan reasuransi terhadap asuransi yang
+dilaksanakan sebagaimana dimaksud dalam
+
+Pasal 8;
+dan
+
+d. melakukan penyertaan modal.
+
+(2) Penyertaan modal sebagaimana dimaksud pada ayat (1)
+
+huruf d hanya dapat dilakukan pada badan hukum atau
+badan lainnya yang diperlukan dalam pelaksanaan tugas
+LPEI dengan persetujuan Menteri.
 
 ## Penjelasan Resmi
 

@@ -83,7 +83,10 @@ Hurufb Cukup jelas. Huruf c Hurufd
 ```
 
 ```
-Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Ayat (5) Cukup jelas. Pasal 5 Ayat (1) Cukup jelas. Ayat (2) Huruf a Cukup jelas. Hurufb Cukup jelas.
+Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Huruf h Cukup jelas. Ayat (5) Cukup jelas.
+
+Pasal 5
+Ayat (1) Cukup jelas. Ayat (2) Huruf a Cukup jelas. Hurufb Cukup jelas.
 ```
 
 Huruf c

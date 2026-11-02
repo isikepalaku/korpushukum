@@ -22,7 +22,10 @@ mengamandemen: []
 
  paling lama 3 (tiga) tahun sejak penyerahan sebagaimana
 
- dimaksud dalam Pasal 34 huruf a.
+ dimaksud dalam
+
+Pasal 34
+huruf a.
 
  (2) Penjualan saham sebagaimana dimaksud pada ayat (1)
 

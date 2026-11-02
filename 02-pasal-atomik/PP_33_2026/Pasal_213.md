@@ -27,6 +27,8 @@ mengamandemen: []
 
 - (5) Metiator dapat menggunakan notula atau catatan negosiasi sebagaimana dimaksud pada ayat (4) untuk kepentingan Mediasi.
 
+Pasal 214...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

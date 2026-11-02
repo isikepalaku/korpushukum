@@ -29,7 +29,10 @@ sebagaimana dimaksud pada ayat (1) dan/atau ayat
 
 (2), dan belum memenuhi ketentuan sebagaimana
 
-dimaksud dalam Pasal 108 ayat (2), Pasal 111 ayat (2),
+dimaksud dalam Pasal 108 ayat (2),
+
+Pasal 111
+ayat (2),
 
 ## Penjelasan Resmi
 

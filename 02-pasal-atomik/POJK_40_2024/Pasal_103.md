@@ -17,28 +17,38 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-a. mewakili Penyelenggara dalam Likuidasi yang berkaitan
-dengan penyelesaian hak dan kewajiban Penyelenggara
-tersebut baik di dalam maupun di luar pengadilan;
-b. melakukan perundingan dan tindakan lainnya dalam
-penjualan aset dan penagihan piutang terhadap para
-debitur;
-c. melakukan pemanggilan, perundingan, dan
-pembayaran kewajiban kepada para kreditur;
-d. mempekerjakan tenaga pendukung Tim Likuidasi, baik
-yang berasal dari dalam maupun dari luar
-Penyelenggara dalam Likuidasi;
-e. menunjuk pihak lain untuk membantu pelaksanaan
-Likuidasi;
-f. meminta pembatalan kepada pengadilan atas segala
-perbuatan hukum Penyelenggara yang diduga
-merugikan Penyelenggara dan dilakukan tidak dengan
-itikad baik;
+Tim Likuidasi mempunyai tugas sebagai berikut:
+a. menyelesaikan hal yang berkaitan dengan
+Pembubaran;
+b. menyelesaikan hal yang berkaitan dengan pegawai
+Penyelenggara;
+c. melakukan pemberesan aset dan kewajiban
+Penyelenggara;
+d. menyampaikan laporan berkala dan laporan insidental
+jika diperlukan kepada Otoritas Jasa Keuangan;
+e. melakukan pertanggungjawaban pelaksanaan
+Likuidasi kepada:
+1. RUPS, untuk Tim Likuidasi yang dibentuk oleh
+RUPS; atau
+2. Otoritas Jasa Keuangan, untuk Tim Likuidasi yang
+dibentuk oleh Otoritas Jasa Keuangan;
+f. mengajukan permohonan tertulis kepada Otoritas Jasa
+Keuangan untuk melakukan pengkinian data laporan
+Pengguna dalam sistem layanan informasi keuangan
+dalam hal Penyelenggara yang dicabut izin usahanya
+merupakan pelapor sistem layanan informasi keuangan
+sesuai dengan ketentuan Peraturan Otoritas Jasa
+
+-----
+
+Keuangan mengenai pelaporan dan permintaan
+informasi debitur melalui sistem layanan informasi
+keuangan;
 g. melakukan fasilitasi atas penyelesaian hak dan
 kewajiban antara Pemberi Dana dan Penerima Dana;
-h. menyelenggarakan Rapat Umum Pemberi Dana; dan
-i. melakukan tindakan lain yang diperlukan dalam
-pelaksanaan Likuidasi.
+dan
+h. melakukan tugas lainnya yang dianggap perlu untuk
+melaksanakan proses Likuidasi.
 
 ## Penjelasan Resmi
 

@@ -18,6 +18,23 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Tempat pelayanan sebagaimana dimaksud dalam
+Pasal 41
+ayat (3) huruf k merupakan ruang untuk
+input data dan pelayanan Data Kependudukan dan
+Dokumen Kependudukan.
+(2) Tempat
+
+PRES IDEN
+REPUBLIK INDONESIA
+
+(21 Tempat pelayanan Data Kependudukan berada pada
+Kementerian, Dinas Kependudukan dan Pencatatan
+Sipil Provinsi, Dinas Kependudukan dan Pencatatan
+Sipil KabupatenfKota, dan Perwakilan Repubtik
+Indonesia;
+(3) Tempat pelayanan Dokumen Kependudukan berada
+pada Dinas Kependudukan dan Pencatatan Sipil
+Kabupaten I Kota dan Perwakilan Republik Indonesia.
 
 ## Penjelasan Resmi
 

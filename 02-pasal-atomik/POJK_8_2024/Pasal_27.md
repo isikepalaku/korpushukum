@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam penetapan Premi/Kontribusi sebagaimana
-dimaksud dalam Pasal 25 ayat (2) huruf b, Perusahaan
+dimaksud dalam
+
+Pasal 25
+ayat (2) huruf b, Perusahaan
 Asuransi dan Perusahaan Asuransi Syariah wajib
 melakukan penilaian dan seleksi risiko dalam setiap
 penutupan asuransi atau asuransi syariah sesuai

@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang memenuhi unsur sebagaimana dimaksud dalam Pasal 33, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau denda paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah).
+Setiap Orang yang memenuhi unsur sebagaimana dimaksud dalam
+
+Pasal 33, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau denda paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah).
 
 ## Penjelasan Resmi
 

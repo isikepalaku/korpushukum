@@ -18,7 +18,8 @@ mengamandemen: []
 ## Batang Tubuh
 
 **(1) Lembaga inkubator sebagaimana. dimaksud dalam**
-**Pasal I32 ayat (3) menyelenggarakan kegiatan meliputi:**
+Pasal 132
+ayat (3) menyelenggarakan kegiatan meliputi:**
 **a. pra Inklrbasi; b. Inkubasi; dan c. pasca Inkubasi.**
 **(21 Tahrapan pra Inkubasi sebagArmana dimaksud pada**
  ayat (l) huruf a paling seciiHit terdiri dari:

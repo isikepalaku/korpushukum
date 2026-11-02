@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setiap faktor penilaian Tingkat Kesehatan sebagaimana
-dimaksud dalam Pasal 167 ayat (2) ditetapkan
+dimaksud dalam
+
+Pasal 167
+ayat (2) ditetapkan
 peringkatnya berdasarkan analisis yang komprehensif
 dan terstruktur.
 (2) Peringkat setiap faktor sebagaimana dimaksud pada

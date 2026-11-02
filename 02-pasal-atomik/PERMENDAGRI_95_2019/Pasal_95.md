@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengolahan data sebagaimana dimaksud dalam Pasal 94 ayat 
+Pengolahan data sebagaimana dimaksud dalam
+
+Pasal 94
+ayat 
 (2) huruf a, terdiri dari: 
 a. 
 pembersihan data; 

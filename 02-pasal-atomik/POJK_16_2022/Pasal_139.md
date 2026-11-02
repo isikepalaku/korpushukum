@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) Dalam hal diperlukan, OJK dapat menetapkan
 penginian pengelompokan Bank berdasarkan Modal
-Inti sebagaimana dimaksud dalam Pasal 138.
+Inti sebagaimana dimaksud dalam
+
+Pasal 138.
 (2) Penginian pengelompokan Bank sebagaimana
 dimaksud pada ayat (1) ditetapkan OJK dengan
 memperhatikan perkembangan dan pertumbuhan

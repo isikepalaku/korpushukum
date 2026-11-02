@@ -20,7 +20,9 @@ mengamandemen: []
 
 Ketentuan mengenai tata cara pelaksanaan pemeriksaan sebagaimana
 
- dimaksud dalam Pasal 66, diatur lebih lanjut dengan Peraturan
+ dimaksud dalam
+
+Pasal 66, diatur lebih lanjut dengan Peraturan
 
  Pemerintah.
 

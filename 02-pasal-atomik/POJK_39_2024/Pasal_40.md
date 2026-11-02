@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Perusahaan Pergadaian yang telah memperoleh
 persetujuan atau pencatatan rencana Pemisahan UUS
 dari Otoritas Jasa Keuangan sebagaimana dimaksud
-dalam Pasal 35 ayat (8), Pasal 37 ayat (3), dan Pasal 39
+dalam Pasal 35 ayat (8),
+
+Pasal 37
+ayat (3), dan Pasal 39
 ayat (3) harus melaksanakan RUPS yang menyetujui
 Pemisahan UUS paling lambat 60 (enam puluh) hari
 kerja terhitung sejak tanggal surat persetujuan atau

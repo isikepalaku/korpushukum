@@ -20,7 +20,9 @@ mengamandemen: []
 
 Ketentuan mengenai pembukuan dan pelaporan sebagaimana dimaksud
 
- dalam Pasal 63 dan Pasal 64, diatur lebih lanjut dengan Peraturan
+ dalam Pasal 63 dan
+
+Pasal 64, diatur lebih lanjut dengan Peraturan
 
  Pemerintah.
 

@@ -17,16 +17,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Peserta yang dinyatakan tidak lulus sebagaimana
-dimaksud pada ayat (1) wajib:
-a. menghentikan kegiatan operasional bisnis, inovasi
-produk, aktivitas, dan layanan yang menggunakan
-model bisnis yang diuji coba dan dikembangkan
-dalam Sandbox;
-b. menyelesaikan seluruh kewajibannya kepada
-Konsumen dan pihak lainnya; dan
-c. menjalankan _exit policy yang tercantum dalam_
-Rencana Pengujian sebagaimana dimaksud dalam
+(1) Otoritas Jasa Keuangan berwenang melakukan
+evaluasi dan/atau tindak lanjut hasil Sandbox.
+(2) Otoritas Jasa Keuangan menyatakan hasil Sandbox:
+a. lulus; atau
+b. tidak lulus.
+
+-----
 
 ## Penjelasan Resmi
 

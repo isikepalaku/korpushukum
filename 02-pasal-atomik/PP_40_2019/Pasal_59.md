@@ -25,4 +25,4 @@ disampaikan secara berkala kepada Menteri.
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Pasal 60

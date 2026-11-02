@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data pembetulan akta sebagaimana dimaksud dalam Pasal 7 
+Data pembetulan akta sebagaimana dimaksud dalam
+
+Pasal 7
 ayat (4) huruf n, terdiri dari elemen data: 
 a. 
 NIK/NIT; 

@@ -20,13 +20,22 @@ mengamandemen: []
 (1) Koperasi yang telah menjalankan kegiatan usaha dan
 memenuhi kriteria Koperasi yang melaksanakan
 kegiatan di sektor jasa keuangan sebagaimana
-dimaksud dalam Pasal 2 ayat (2) dapat memilih menjadi
+dimaksud dalam
+
+Pasal 2
+ayat (2) dapat memilih menjadi
 LJK.
 (2) Koperasi sebagaimana dimaksud pada ayat (1) memilih
 ruang lingkup sebagai LJK sebagaimana dimaksud
-dalam Pasal 2 ayat (3).
+dalam
+
+Pasal 2
+ayat (3).
 (3) Koperasi yang akan memilih menjadi LJK sebagaimana
-dimaksud dalam Pasal 2 ayat (3) paling sedikit harus
+dimaksud dalam
+
+Pasal 2
+ayat (3) paling sedikit harus
 memenuhi kriteria:
 a. memiliki Modal Sendiri paling sedikit sebesar
 modal disetor minimum yang dipersyaratkan pada

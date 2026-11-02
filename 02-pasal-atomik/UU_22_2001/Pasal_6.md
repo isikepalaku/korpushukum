@@ -20,7 +20,10 @@ mengamandemen: []
 
 - (1) KegiatanUsahaHulusebagaimanadimaksuddalamPasal5angka1dilaksanakandan
 
-dikendalikan melalui Kontrak Kerja Sama sebagaimana dimaksud dalam Pasal 1 angka 19. (2) KontrakKerjaSamasebagaimanadimaksuddalamayat(1)palingsedikitmemuatpersyaratan: a. kepemilikan sumber daya alam tetap di tangan Pemerintah sampai pada titik penyerahan; b. pengendalian manajemen operasi berada pada Badan Pelaksana;
+dikendalikan melalui Kontrak Kerja Sama sebagaimana dimaksud dalam
+
+Pasal 1
+angka 19. (2) KontrakKerjaSamasebagaimanadimaksuddalamayat(1)palingsedikitmemuatpersyaratan: a. kepemilikan sumber daya alam tetap di tangan Pemerintah sampai pada titik penyerahan; b. pengendalian manajemen operasi berada pada Badan Pelaksana;
 
 - c. modaldanrisikoseluruhnyaditanggungBadanUsahaatauBentukUsahaTetap.
 

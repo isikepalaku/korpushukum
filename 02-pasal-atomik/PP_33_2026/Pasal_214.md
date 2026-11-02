@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam pertemuan lanjutan Mediasi sebagaimana dimaksud dalam Pasal 213 ayat (2), Mediator harus menjelaskan kepada Para Pihak yang Bersengketa paling sedikit;
+Dalam pertemuan lanjutan Mediasi sebagaimana dimaksud dalam
+
+Pasal 213
+ayat (2), Mediator harus menjelaskan kepada Para Pihak yang Bersengketa paling sedikit;
 
 - a pengertian dan manfaat Mediasi;
 

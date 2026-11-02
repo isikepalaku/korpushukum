@@ -23,12 +23,15 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-P asal 18 Ayat (1) Cukup jelas. Ayat (2) Pilihan hukum yang dilakukan oleh para pihak dalam kontrak internasional termasuk yang dilakukan secara elektronik dikenal dengan choice of law. Hukum ini mengikat sebagai hukum yang berlaku bagi kontrak tersebut. Pilihan hukum dalam Transaksi Elektronik hanya dapat dilakukan jika dalam kontraknya terdapat unsur asing dan penerapannya harus sejalan dengan prinsip hukum perdata internasional (HPI). Ayat (3) Dalam hal tidak ada pilihan hukum, penetapan hukum yang berlaku berdasarkan prinsip atau asas hukum perdata internasional yang akan ditetapkan sebagai hukum yang berlaku pada kontrak tersebut. Ayat (4) Forum yang berwenang mengadili sengketa kontrak internasional, termasuk yang dilakukan secara elektronik, adalah forum yang dipilih oleh para pihak. Forum tersebut dapat berbentuk pengadilan, arbitrase, atau lembaga penyelesaian sengketa alternatif lainnya. Ayat (5) Dalam hal para pihak tidak melakukan pilihan forum, kewenangan forum berlaku berdasarkan prinsip atau asas hukum perdata internasional. Asas tersebut dikenal dengan asas tempat tinggal tergugat (the basis of presence) dan efektivitas yang menekankan pada tempat harta benda tergugat berada (principle of effectiveness).
+Pasal 18
+Ayat (1) Cukup jelas. Ayat (2) Pilihan hukum yang dilakukan oleh para pihak dalam kontrak internasional termasuk yang dilakukan secara elektronik dikenal dengan choice of law. Hukum ini mengikat sebagai hukum yang berlaku bagi kontrak tersebut. Pilihan hukum dalam Transaksi Elektronik hanya dapat dilakukan jika dalam kontraknya terdapat unsur asing dan penerapannya harus sejalan dengan prinsip hukum perdata internasional (HPI). Ayat (3) Dalam hal tidak ada pilihan hukum, penetapan hukum yang berlaku berdasarkan prinsip atau asas hukum perdata internasional yang akan ditetapkan sebagai hukum yang berlaku pada kontrak tersebut. Ayat (4) Forum yang berwenang mengadili sengketa kontrak internasional, termasuk yang dilakukan secara elektronik, adalah forum yang dipilih oleh para pihak. Forum tersebut dapat berbentuk pengadilan, arbitrase, atau lembaga penyelesaian sengketa alternatif lainnya. Ayat (5) Dalam hal para pihak tidak melakukan pilihan forum, kewenangan forum berlaku berdasarkan prinsip atau asas hukum perdata internasional. Asas tersebut dikenal dengan asas tempat tinggal tergugat (the basis of presence) dan efektivitas yang menekankan pada tempat harta benda tergugat berada (principle of effectiveness).
 
-P asal 19 Yang dimaksud dengan 'disepakati' dalam pasal ini juga mencakup disepakatinya prosedur yang terdapat dalam Sistem Elektronik yang
+Pasal 19
+Yang dimaksud dengan 'disepakati' dalam pasal ini juga mencakup disepakatinya prosedur yang terdapat dalam Sistem Elektronik yang
 
 bersangkutan.
 
-P asal 20 Ayat (1) Transaksi Elektronik terjadi pada saat kesepakatan antara para pihak yang dapat berupa, antara lain pengecekan data, identitas, nomor identifikasi pribadi (personal identification number/PIN) atau sandi lewat (password). Ayat (2)
+Pasal 20
+Ayat (1) Transaksi Elektronik terjadi pada saat kesepakatan antara para pihak yang dapat berupa, antara lain pengecekan data, identitas, nomor identifikasi pribadi (personal identification number/PIN) atau sandi lewat (password). Ayat (2)
 
 Cukup jelas.

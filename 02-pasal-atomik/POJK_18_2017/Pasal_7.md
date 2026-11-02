@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pelapor wajib melakukan koreksi Laporan Debitur yang telah disampaikan kepada OJK dalam hal Laporan Debitur tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 4 atas dasar:
+Pelapor wajib melakukan koreksi Laporan Debitur yang telah disampaikan kepada OJK dalam hal Laporan Debitur tidak memenuhi ketentuan sebagaimana dimaksud dalam
+
+Pasal 4
+atas dasar:
 
 - a. temuan Pelapor; atau
 

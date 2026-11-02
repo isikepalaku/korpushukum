@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '53'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -23,4 +23,7 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Cukup jelas. Ayat(21
+Kepa.stian hukum dan keadilan merupakan 2 (dua) tqiuan hukum yang kerap kali tidak sejalan satu sama lain dan sulit dihindarkan dalam praktik hukum. Suatu peraturan perundarrg-undangan yang lebih banyak memenuhi tuntutan kepastian hukum maka semakin besar pula kemungkinan aspek keadilan terdesak. peraturan perundang-undangan ini dalam praktik dapat diatasi dengan jalan memberi penafsiran atas peraturan perundang-undangan tersebut dalam penerapannya pada kejadian konkret.
+
+Jika dalam penerapan yang konkret, terjadi pertentangan antara kepastian hukum dan keadilan, hakim sedapat mungkin keadilan di atas kepastian hukum.

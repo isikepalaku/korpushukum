@@ -24,7 +24,10 @@ dan
 Pusat 
 Data 
 Cadangan 
-sebagaimana dimaksud dalam Pasal 63 huruf e dan huruf g, 
+sebagaimana dimaksud dalam
+
+Pasal 63
+huruf e dan huruf g, 
 dilakukan dengan cara antara lain: 
 a. 
 menempatkan bangunan pada posisi dengan konstruksi 

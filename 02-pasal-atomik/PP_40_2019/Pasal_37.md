@@ -32,6 +32,11 @@ dan Pencatatan Sipil KabupatenlKota melakukan
 pencatatan dalam buku pendaftaran Penduduk
 Pelintas Batas.
 
+Pasal 38...
+
+PRES IDEN
+REPUBLIK INDONESIA
+
 ## Penjelasan Resmi
 
 Cukup jelas.

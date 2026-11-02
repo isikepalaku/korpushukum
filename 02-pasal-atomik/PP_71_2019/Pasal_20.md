@@ -4,7 +4,7 @@ uu_induk: Penyelenggaraan Sistem dan Transaksi Elektronik
 kode_uu: PP_71_2019
 pasal: '20'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/siber
 - uu/pp_71_2019
@@ -31,6 +31,16 @@ mengamandemen: []
 
 - (71 Ketentuan lebih lanjut mengenai klasifikasi data sesuai risiko sebagaimana dimaksud pada ayat (6) diatur dengan Peraturan Menteri.
 
+Pasal 21 ...
+
+SK No011699 A
+
+FRESIDEN REFUBLIK TNDONESIA
+
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+Yang dimaksud dengan "rencana keberlangsungan kegiatan (business antinuitg planl" adalah suatu rangkaian proses yang dilakukan untuk memastikan terus berlangsungnya kegiatan dalam kondisi mendapatkan gangguan atau bencana.
+
+Ayat (2) Cukupjelas. Ayat (3) Cukupjelas. Ayat (4) Cukupjelas. Ayat (5) Cukupjelas. Ayat (6) Cukupjelas. Ayat (71 Cukupjelas.

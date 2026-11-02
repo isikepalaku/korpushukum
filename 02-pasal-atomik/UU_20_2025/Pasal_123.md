@@ -18,23 +18,40 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**atau membahayakan, sehingga tidak mungkin**
-**disimpan sampai Putusan Pengadilan terhadap perkara yang bersangkutan memperoleh kekuatan hukum tetap, benda tersebut dapat diamankan, dimusnahkan, atau dilelang oleh Penyidik atau Penuntut Umum dengan persetujuan Tersangka atau Terdakwa dan/atau Advokatnya dan disaksikan oleh**
- Penyidik, Penuntut Umum, Tersangka, atau Terdakwa dan/ atau Advokatnya.
-**l2l [Jika ][Tersangka ][atau ][Terdakwa ][tidak ][memberikan]**
+**(1) Benda yang dapat disita adalah:**
 
-**persetujuan sebagaimana dimaksud pada ayat (l), Penyidik atau Penuntut Umum membuat berita acara penolakan paling lama 3 (tiga) Hari dan lelang tetap dilaksanakan.**
-**(3) Benda sitaan yang dilelang sebagaimana dimaksud**
+**a. benda atau tagihan Tersangka atau Terdakwa yang**
+ seluruh atau sebagian diduga diperoleh dari tindak pidana atau sebagai hasil dari tindak pidana; b. benda yang telah dipergunakan untuk melakukan
+ tindak pidana atau untuk mempersiapkannya; c. benda yang dipergunakan untuk menghalang-
+ halangi Penyidikan tindak pidana; d. benda yang khusus dibuat atau diperuntukkan
+ melakukan tindak pidana; e. benda yang tercipta dari suatu tindak pidana;
+ dan/ atau
+**f. benda yang diduga merupakan hasil tindak pidana**
 
-**pada ayat (1) tidak dapat dibeli oleh Tersangka atau Terdakwa dan/atau pihak yang mempunyai hubungan**
- keluarga sedarah sampai derajat kedua, hubungan
-semenda, dan hubungan kerja atau keuangan.
-**(4) Dalam hal benda sitaaan sebagaimana dimaksud pada**
+**namun pemiliknya tidak diketahui.**
 
-**ayat (1) telah dilelang, namun berdasarkan putusan berkekuatan hukum tetap tidak dirampas untuk negara, maka uang hasil penjualan lelang barang sitaan tersebut harus dikembalikan kepada yang berhak paling lambat 30 (tiga puluh) Hari sejak putusan berkekuatan hukum tetap.**
-**(5) Dalam hal terdapat bunga keuntungan atau bentuk**
+(2) Benda. . .
 
-**keuntungan lain dari hasil penyimpanan benda sitaan yang dilelang sebagaimana dimaksud pada ayat (1) maka perampasan dan pengembalian uang hasil lelang benda sitaan [juga ]disertai dengan bunga keuntungan atau keuntungan lain tersebut.**
+-----
+
+EJ-.FITil:N
+REPUBUK INDONESIA
+
+**-66-**
+
+ l2l [Benda ] [yang ] [berada ] dalam sitaan karena [perkara]
+
+**perdata atau karena pailit dapat juga disita untuk kepentingan Penyidikan, Penuntutan, dan pemeriksaan di sidang pengadilan sepanjang memenuhi ketentuan sebagaimana dimaksud pada ayat (1).**
+**(3) Nilai keseluruhan dari benda yang disita tidak melebihi**
+
+**nilai kerugian akibat tindak pidana.**
+**(4) Dalam hal benda sitaan tidak sesuai dengan ketentuan**
+
+**sebagaimana dimaksud pada ayat (1), ketua pengadilan negeri memerintahkan Penyidik untuk mengembalikan benda yang disita kepada pemilik**
+dalam [jangka ]waktu paling lama 3O (tiga puluh) Hari.
+**(5) Ketentuan lebih lanjut mengenai nilai benda yang**
+
+**dapat disita sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Pemerintah.**
 
 ## Penjelasan Resmi
 

@@ -19,10 +19,15 @@ mengamandemen: []
 
 (1) RUPS mempertimbangkan pendapat Otoritas Jasa
 Keuangan atas Neraca Akhir Likuidasi sebagaimana
-dimaksud dalam Pasal 123 ayat (5) sebelum menerima
+dimaksud dalam
+
+Pasal 123
+ayat (5) sebelum menerima
 atau menolak laporan pertanggungjawaban Tim
 Likuidasi yang dibentuk oleh RUPS sebagaimana
-dimaksud dalam Pasal 98.
+dimaksud dalam
+
+Pasal 98.
 (2) Dalam hal RUPS telah menerima laporan
 pertanggungjawaban Tim Likuidasi yang dibentuk oleh
 RUPS, maka RUPS:

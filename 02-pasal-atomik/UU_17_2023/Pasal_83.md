@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemeriksaan Kesehatan jiwa untuk kepentingan hukum sebagaimana dimaksud dalam Pasal 81 dan Pasal 82 ditakukan sesuai dengan pedoman pemeriksaan Kesehatan jiwa.
+Pemeriksaan Kesehatan jiwa untuk kepentingan hukum sebagaimana dimaksud dalam Pasal 81 dan
+
+Pasal 82
+ditakukan sesuai dengan pedoman pemeriksaan Kesehatan jiwa.
 
 ## Penjelasan Resmi
 

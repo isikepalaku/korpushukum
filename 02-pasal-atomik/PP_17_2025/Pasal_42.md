@@ -29,7 +29,10 @@ SK No272160A
 
 NEPUEUK INDONESIA 
 
- 1. pelanggaran yang dilakukan oleh Penyelenggara Sistem Elektronik masuk dalam kategori berat berdasarkan pertimbangan sebagaimana dimaksud dalam Pasal 40 ayat (3); 
+ 1. pelanggaran yang dilakukan oleh Penyelenggara Sistem Elektronik masuk dalam kategori berat berdasarkan pertimbangan sebagaimana dimaksud dalam
+
+Pasal 40
+ayat (3); 
 
  2. Penyelenggara Sistem Elektronik tidak kooperatif berdasarkan pertimbangan sebagaimana dimaksud dalam Pasal 40 ayat (4); dan/ atau 
 

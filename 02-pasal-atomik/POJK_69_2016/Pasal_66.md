@@ -24,8 +24,9 @@ atau Unit Syariah pada Perusahaan Asuransi yang
 
 melakukan kerja sama dengan bank atau badan usaha
 
-selain bank sebagaimana dimaksud dalam Pasal 65
+selain bank sebagaimana dimaksud dalam
 
+Pasal 65
 ayat (1), wajib memastikan bahwa pegawai bank atau
 
 badan usaha selain bank yang secara aktif
@@ -42,9 +43,9 @@ Syariah, atau Unit Syariah pada Perusahaan
 
 Asuransi melakukan kerja sama dalam rangka
 
-memperoleh bisnis sebagaimana dimaksud dalam Pasal
+memperoleh bisnis sebagaimana dimaksud dalam
 
-64, keputusan menerima atau menolak pertanggungan
+Pasal 64, keputusan menerima atau menolak pertanggungan
 
 tetap menjadi kewenangan Perusahaan Asuransi,
 

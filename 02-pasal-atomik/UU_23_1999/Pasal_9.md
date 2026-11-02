@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pihak lain dilarng melakukan segala bentuk campur tangan terhadap
- pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam Pasal 8.
+ pelaksanaan tugas Bank Indonesia sebagaimana dimaksud dalam
+
+Pasal 8.
 
  (2) Bank Indonesia wajib menolak dan atau mengabaikan segala bentuk
  campur tangan dari pihak mana pun dalam rangka pelaksanaan tugasnya.

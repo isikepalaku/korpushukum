@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '432'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,4 @@ Setiap Orang yang ketika menyaksikan ada orang yang sedang menghadapi bahaya mau
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketenhran ini menunjukkan adanya kewajiban Setiap Orang jiwa orang lain dari bahaya maut, sepanjang pertolongan itu tidak membahayakan dirinya atau orang lain.

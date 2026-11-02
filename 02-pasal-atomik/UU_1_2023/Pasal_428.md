@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '428'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -28,5 +28,15 @@ mengamandemen: []
 - b. pidana penjara paling lama 7 (tujuh) tahun, jika perbuatan tersebut mengakibatkan mati.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Dalam ketentuan ini, hakim perlu meneliti tiap kejadian, apakah hubungan antara terdakrva dan orang yang berada dalam keadaan terlantar memang dikuasai oleh hukum atau perjaqiian yang mewajibkan terdakwa memberi nalkah, merawat, atau memelihara or€u1g yang terlantar tersebut.
+
+Ayat (2)
+
+Termasuk dalam Pejabat adalah orang yang diserahi kewajiban untuk merawat atau memelihara orang terlantar dalam suatu organisasi kemasyarakatan yang pendanaannya bersumber dari masyarakat atau bantuan pemerintah.
+
+Ayat (3)
 
 Cukup jelas.

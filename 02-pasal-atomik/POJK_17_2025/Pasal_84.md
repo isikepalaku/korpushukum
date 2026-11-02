@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) Penerbit dapat membatalkan penawaran Efek melalui
 Layanan Urun Dana sebelum berakhirnya masa
-penawaran sebagaimana dimaksud dalam Pasal 83
+penawaran sebagaimana dimaksud dalam
+
+Pasal 83
 dengan membayar denda sejumlah yang ditetapkan
 dalam perjanjian penyelenggaraan Layanan Urun Dana
 kepada Penyelenggara.

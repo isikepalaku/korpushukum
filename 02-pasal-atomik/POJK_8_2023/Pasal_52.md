@@ -28,7 +28,10 @@ memperhatikan _anti tipping-off sesuai dengan peraturan_
 perundang-undangan mengenai pencegahan dan
 pemberantasan TPPU.
 (3) Dalam melaksanakan pemantauan sebagaimana
-dimaksud dalam Pasal 51 ayat (1), PJK wajib memiliki
+dimaksud dalam
+
+Pasal 51
+ayat (1), PJK wajib memiliki
 sistem yang dapat:
 a. mengidentifikasi, menganalisis, memantau, dan
 menyediakan laporan secara efektif mengenai profil,

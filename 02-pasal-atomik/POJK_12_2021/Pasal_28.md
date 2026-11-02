@@ -19,7 +19,10 @@ mengamandemen: []
 
 Bank BHI yang beroperasi sebagai Bank Digital
 
-sebagaimana dimaksud dalam Pasal 25 dapat:
+sebagaimana dimaksud dalam
+
+Pasal 25
+dapat:
 
 a. menggunakan tenaga kerja asing untuk jabatan
 

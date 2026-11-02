@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pembentukan UPTD Instansi Pelaksana sebagaimana dimaksud
-dalam Pasal 8 ayat (5) dilakukan paling lambat 5 (lima) tahun
+dalam
+
+Pasal 8
+ayat (5) dilakukan paling lambat 5 (lima) tahun
 sejak Undang-Undang ini diundangkan.
 
 ## Penjelasan Resmi

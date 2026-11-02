@@ -18,13 +18,28 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 103 ayat (1), Pasal 104 ayat (1),
-ayat (2), ayat (3), ayat (5), ayat (6), Pasal 106, Pasal 107
-ayat (2), ayat (3), ayat (4), Pasal 108 ayat (1), ayat (2),
-ayat (4), ayat (5), ayat (6), Pasal 109 ayat (1), ayat (2),
-ayat (3), ayat (5), Pasal 110, Pasal 111, Pasal 112 ayat
+dimaksud dalam Pasal 103 ayat (1),
+
+Pasal 104
+ayat (1),
+ayat (2), ayat (3), ayat (5), ayat (6),
+
+Pasal 106, Pasal 107
+ayat (2), ayat (3), ayat (4),
+
+Pasal 108
+ayat (1), ayat (2),
+ayat (4), ayat (5), ayat (6),
+
+Pasal 109
+ayat (1), ayat (2),
+ayat (3), ayat (5),
+
+Pasal 110, Pasal 111, Pasal 112 ayat
 (2), Pasal 114, Pasal 118 ayat (2), ayat (3), Pasal 120
-ayat (1), Pasal 121, Pasal 122 ayat (1), ayat (3),
+ayat (1),
+
+Pasal 121, Pasal 122 ayat (1), ayat (3),
 dan/atau Pasal 123, dikenai sanksi administratif.
 (2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
 juga kepada Pihak yang menyebabkan terjadinya

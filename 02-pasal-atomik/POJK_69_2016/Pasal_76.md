@@ -26,7 +26,10 @@ Asuransi secara individual maupun konsorsium yang
 
 menyelenggarakan Program Asuransi Wajib
 
-sebagaimana dimaksud dalam Pasal 75 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 75
+ayat (2)
 
 wajib memperoleh persetujuan terlebih dahulu dari
 

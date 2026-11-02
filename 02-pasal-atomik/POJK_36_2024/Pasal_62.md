@@ -5,7 +5,7 @@ uu_induk: Perubahan atas POJK 69-POJK.05-2016 (Penyelenggaraan Usaha Perusahaan 
 kode_uu: POJK_36_2024
 pasal: '62'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_36_2024
@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Pengembalian hak pemegang polis, tertanggung,
 peserta, atau Perusahaan _Ceding sebagaimana_
-dimaksud dalam Pasal 61 ayat (2) dilakukan
+dimaksud dalam
+
+Pasal 61
+ayat (2) dilakukan
 sesuai dengan ketentuan masing-masing polis
 asuransi atau perjanjian reasuransi/perjanjian
 reasuransi syariah.
@@ -65,3 +68,5 @@ berikut:
 Cukup jelas.
 
 -----
+
+Angka 38

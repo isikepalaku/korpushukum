@@ -34,7 +34,9 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas. Pasal 17Q Cukup jelas. Pasal 17R Ayat Ayat (1) Cukup jelas. t2l
+Cukup jelas.
+
+Pasal 17Q Cukup jelas. Pasal 17R Ayat Ayat (1) Cukup jelas. t2l
 
 Yang dimaksud dengan "desa Wisata atau kampung Wisata rintisan" adalah desa atau kampung yang mempunyai potensi Daya Tarik Wisata dengan ketersediaan sarana dan prasarana Pariwisata masih terbatas, kunjungan Wisatawan belum ada atau masih sedikit, dan kesadaran masyarakat setempat terhadap potensi Pariwisata belum tumbuh, serta pengelolaannya belum berjalan.
 

@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pelanggaran terhadap ketentuan sebagaimana
-dimaksud dalam Pasal 2 ayat (1), Pasal 7, Pasal 9 ayat
+dimaksud dalam Pasal 2 ayat (1),
+
+Pasal 7, Pasal 9 ayat
 (1), dan Pasal 10 ayat (1) dan ayat (2), dikenai sanksi
 administratif berupa peringatan tertulis dan/atau
 penurunan tingkat kesehatan.
@@ -34,14 +36,20 @@ Keuangan mencabut sanksi administratif.
 Perusahaan Reasuransi, Perusahaan Reasuransi
 Syariah, dan Unit Syariah yang dinyatakan terlambat
 menyampaikan Laporan Berkala sebagaimana
-dimaksud dalam Pasal 9 ayat (1) huruf a, huruf b, dan
+dimaksud dalam
+
+Pasal 9
+ayat (1) huruf a, huruf b, dan
 huruf c dikenai sanksi administratif tambahan berupa
 denda administratif sebesar Rp500.000,00 (lima ratus
 ribu rupiah) per hari.
 (5) Perusahaan Pialang Asuransi, Perusahaan Pialang
 Reasuransi, dan Perusahaan Penilai Kerugian Asuransi
 yang dinyatakan terlambat menyampaikan Laporan
-Berkala sebagaimana dimaksud dalam Pasal 9 ayat (1)
+Berkala sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (1)
 huruf b dan huruf c dikenai sanksi administratif
 tambahan berupa denda administratif sebesar
 Rp200.000,00 (dua ratus ribu rupiah) per hari.
@@ -50,7 +58,10 @@ Laporan Bulanan, Laporan Triwulanan, Laporan
 Tahunan dihitung 30 (tiga puluh) hari sejak
 berakhirnya batas waktu penyampaian Laporan
 Bulanan, Laporan Triwulanan, dan Laporan Tahunan
-sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf a,
+sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (1) huruf a,
 huruf b, dan huruf c, dinyatakan tidak menyampaikan
 Laporan Bulanan, Laporan Triwulanan, dan Laporan
 Tahunan.
@@ -72,7 +83,10 @@ sanksi administratif tambahan berupa denda
 administratif sebesar Rp20.000.000,00 (dua puluh juta
 rupiah).
 (9) Perusahaan yang melakukan kesalahan informasi atas
-laporan sebagaimana dimaksud dalam Pasal 10 ayat (1)
+laporan sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (1)
 berdasarkan hasil pengawasan Otoritas Jasa Keuangan
 dikenai sanksi administratif tambahan berupa denda
 administratif sebesar:

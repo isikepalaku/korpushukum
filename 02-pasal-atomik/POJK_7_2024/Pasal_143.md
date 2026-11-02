@@ -17,21 +17,44 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-administratif berupa:
-a. penurunan tingkat kesehatan;
-b. larangan melakukan ekspansi kegiatan usaha;
-dan/atau
-c. penghentian sementara sebagian kegiatan
-operasional.
-(3) Selain sanksi administratif sebagaimana dimaksud pada
-ayat (1) dan/atau ayat (2), BPR, BPR Syariah, dan/atau
-PSP dapat dikenai sanksi administratif berupa denda
-paling sedikit Rp10.000.000,00 (sepuluh juta rupiah) dan
-paling banyak Rp100.000.000,00 (seratus juta rupiah)
-untuk setiap pelanggaran yang dilakukan.
+(1) BPR atau BPR Syariah yang telah memperoleh persetujuan
+persiapan pencabutan izin usaha wajib:
+a. menghentikan seluruh kegiatan usaha BPR atau BPR
+Syariah, kecuali untuk penyelesaian kewajiban dan
+aset;
+b. mengumumkan rencana pembubaran badan hukum
+BPR atau BPR Syariah dan rencana penyelesaian
+kewajiban kepada masyarakat pada:
+1. papan pengumuman di seluruh kantor BPR atau
+BPR Syariah yang bersangkutan;
+2. surat kabar harian lokal, media massa
+elektronik; dan/atau
+3. situs web BPR atau BPR Syariah,
+paling lama 10 (sepuluh) hari kerja setelah tanggal
+persetujuan persiapan pencabutan izin usaha;
+c. menyelesaikan seluruh kewajiban BPR atau BPR
+Syariah dalam jangka waktu paling lama 6 (enam)
 
-BAB XI
-KETENTUAN LAIN-LAIN
+-----
+
+bulan sejak tanggal persetujuan persiapan
+pencabutan izin usaha; dan
+d. menunjuk kantor akuntan publik untuk melakukan
+verifikasi atas laporan posisi keuangan akhir,
+termasuk memastikan penyelesaian seluruh
+kewajiban BPR atau BPR Syariah.
+(2) Dalam hal:
+a. BPR atau BPR Syariah tidak dapat menyelesaikan
+seluruh kewajiban dalam jangka waktu sebagaimana
+dimaksud pada ayat (1) huruf c; dan/atau
+b. BPR atau BPR Syariah mengalami penurunan kondisi
+keuangan dan memenuhi kriteria BPR atau BPR
+Syariah dalam penyehatan,
+persetujuan persiapan pencabutan izin usaha yang telah
+diberikan menjadi batal dan tidak berlaku.
+
+Bagian Ketiga
+Keputusan Pencabutan Izin Usaha
 
 ## Penjelasan Resmi
 

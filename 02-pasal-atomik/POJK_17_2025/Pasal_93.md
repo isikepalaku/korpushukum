@@ -17,8 +17,31 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (7), ayat (8), Pasal 96 ayat (1), ayat (2), ayat (3), ayat
-(4), ayat (5), ayat (6), ayat (8), Pasal 98 ayat (1), ayat (2),
+(1) Dalam hal Efek yang ditawarkan merupakan Efek
+bersifat utang atau Sukuk, Penerbit wajib:
+a. menandatangani perjanjian pendaftaran Efek
+dengan Lembaga Penyimpanan dan Penyelesaian;
+b. menyerahkan dokumen dasar pengerjaan atau
+bukti kepemilikan Proyek; dan
+c. membuat akta pengakuan hutang yang dibuat
+secara notariil oleh notaris,
+
+-----
+
+ - 60
+dan menyampaikan fotokopinya kepada Penyelenggara
+paling lambat 22 (dua puluh dua) hari kerja setelah
+berakhirnya masa penawaran Efek dan seluruh dana
+yang disetor pada rekening Penyelenggara di Lembaga
+Penyimpanan dan Penyelesaian dalam penawaran Efek
+telah terkumpul.
+(2) Penyelenggara wajib:
+a. menyerahkan dana kepada Penerbit; dan
+b. mendistribusikan Efek kepada Pemodal,
+paling lambat 2 (dua) hari kerja setelah Penerbit
+menyerahkan dokumen dasar pengerjaan atau bukti
+kepemilikan Proyek dan dokumen sebagaimana
+dimaksud pada ayat (1).
 
 ## Penjelasan Resmi
 

@@ -23,7 +23,9 @@ Koperasi lain.
 (2) KSP/KSPPS dan USP/USPPS Koperasi dilarang
 melakukan transaksi dengan anggota dan Koperasi lain
 yang tidak memenuhi ketentuan sebagaimana dimaksud
-dalam Pasal 80 dan Pasal 81.
+dalam Pasal 80 dan
+
+Pasal 81.
 
 Bagian Kelima
 Pembaruan dan Pencatatan Data

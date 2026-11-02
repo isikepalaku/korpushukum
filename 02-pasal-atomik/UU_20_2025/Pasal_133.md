@@ -18,8 +18,17 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sejak benda sitaan tidak lagi diperlukan untuk kepentingan
-**Penyidikan, penghentian Penyidikan, Penuntutan, penghentian Penuntutan, perkara tersebut dikesampingkan untuk kepentingan umum, atau perkara ditutup demi hukum.**
+**Benda yang dikenakan Penyitaan dikembalikan kepada orang yang memiliki atau menguasai benda yang disita, atau kepada orang yang paling berhak dalam hal:**
+
+**a. tidak diperlukan lagi untuk kepentingan Penyidikan**
+
+**dan Penuntutan;**
+**b. perkara tersebut tidak jadi dituntut karena tidak**
+
+**cukup bukti atau ternyata bukan merupakan tindak pidana; atau**
+**c. perkara tersebut dikesampingkan untuk kepentingan**
+
+**umum atau perkara tersebut ditutup demi hukum, kecuali apabila benda itu diperoleh dari suatu tindak pidana atau yang dipergunakan untuk melakukan suatu tindak pidana.**
 
 ## Penjelasan Resmi
 

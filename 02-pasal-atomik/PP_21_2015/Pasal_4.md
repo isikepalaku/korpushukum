@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Permohonan pendaftaran Jaminan Fidusia sebagaimana
-dimaksud dalam Pasal 3 diajukan dalam jangka waktu paling
+dimaksud dalam
+
+Pasal 3
+diajukan dalam jangka waktu paling
 lama 30 (tiga puluh) hari terhitung sejak tanggal pembuatan
 akta Jaminan Fidusia.
 

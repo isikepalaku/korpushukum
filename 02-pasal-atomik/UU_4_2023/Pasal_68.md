@@ -57,7 +57,10 @@ Subparagraf 3 ...
 
 ## Penjelasan Resmi
 
-Ayat (1) Cukup jelas. Ayat (2) Konsolidasi Perbankan Syariah dilakukan dalam upaya untuk memperkuat ekosistem Perbankan Syariah yang efektif, efisien, sehat, dan berdaya saing, serta memberikan daya dukung bagi perekonomian nasional. Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Ayat (4) Cukup jelas. Pasal 16 Ayat (1) Cukup jelas. Ayat (2) Huruf a Yang dimaksud dengan "sarana transaksi" adalah sarana perdagangan baik di pasar perdana maupun pasar sekunder melalui penyelenggara pasar di pasar keuangan. Huruf b Yang dimaksud dengan "sarana kliring dan/atau penjaminan (central counter partyf adalah lembaga kliring yang melayani baik untuk transaksi di bursa maupun di over the counter dengan novasi. Huruf c Cukup jelas. Huruf d Cukup jelas.
+Ayat (1) Cukup jelas. Ayat (2) Konsolidasi Perbankan Syariah dilakukan dalam upaya untuk memperkuat ekosistem Perbankan Syariah yang efektif, efisien, sehat, dan berdaya saing, serta memberikan daya dukung bagi perekonomian nasional. Ayat (3) Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Ayat (4) Cukup jelas.
+
+Pasal 16
+Ayat (1) Cukup jelas. Ayat (2) Huruf a Yang dimaksud dengan "sarana transaksi" adalah sarana perdagangan baik di pasar perdana maupun pasar sekunder melalui penyelenggara pasar di pasar keuangan. Huruf b Yang dimaksud dengan "sarana kliring dan/atau penjaminan (central counter partyf adalah lembaga kliring yang melayani baik untuk transaksi di bursa maupun di over the counter dengan novasi. Huruf c Cukup jelas. Huruf d Cukup jelas.
 ```
 
 Huruf e ...
@@ -99,7 +102,10 @@ Ayat (8)
 ```
 
 ```
-Cukup jelas. Ayat (9) Cukup jelas. Ayat (10) Cukup jelas. Pasal 17 Cukup jelas. Pasal 18 Ayat (1)
+Cukup jelas. Ayat (9) Cukup jelas. Ayat (10) Cukup jelas.
+
+Pasal 17
+Cukup jelas. Pasal 18 Ayat (1)
 ```
 
 Instrumen keuangan dan/ atau transaksi atas instrumen keuangan yang memiliki lebih dari satu karakteristik pasar misalnya transaksi repo (repurchase agreement) dengan underlying efek bersifat utang yang diklasifikasikan sebagai transaksi sekunder efek di Pasar Modal, tetapi dapat diklasifikasikan sebagai transaksi di Pasar Uang.
@@ -111,5 +117,8 @@ Yang dimaksud dengan "pasar komoditi" adalah pasar komoditi sebagaimana diatur d
 Otoritas mencakup Badan Pengawas Perdagangan Berjangka Komoditi (Bappebti).
 
 ```
-Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 19 Cukup jelas.
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
+
+Pasal 19
+Cukup jelas.
 ```

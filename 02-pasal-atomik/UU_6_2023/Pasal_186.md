@@ -466,7 +466,7 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6841
 | Pasal 165 | [[#^penjelasan-pasal-165]] |
 | Pasal 166 | [[#^penjelasan-pasal-166]] |
 | Pasal 167 | [[#^penjelasan-pasal-167]] |
-| Pasal 16B | [[#^penjelasan-pasal-168]] |
+| Pasal 168 | [[#^penjelasan-pasal-168]] |
 | Pasal 169 | [[#^penjelasan-pasal-169]] |
 | Pasal 170 | [[#^penjelasan-pasal-170]] |
 | Pasal 171 | [[#^penjelasan-pasal-171]] |

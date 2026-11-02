@@ -40,6 +40,34 @@ Pengendali wajib ikut bertanggungjawab untuk mengganti kerugian Perusahaan Asura
 
 8. Di antara Pasal 15 dan Pasal 16 disisipkan 1 (satu) pasal, yakni Pasal ISA sehingga berbunyi sebagai berikut:
 
+**Pasal 15A**
+
+Pengendali, pemegang saham, anggota direksi, dan/atau anggota dewan komisaris atau yang setara dengan pemegang saham, anggota direksi, dan/atau anggota dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (1) huruf c, pegawai, dan/atau pihak lain dilarang meminta atau menerima, mengizinkan atau menyetujui untuk menerima tanpa hak suatu imbalan, komisi, uang tambahan, pelayanan, uang atau barang berharga, untuk keuntungan pribadinya atau untuk keuntungan keluarganya dalam rangka memperoleh jasa, layanan, perolehan bisnis, penempatan investasi, dan/ a tau pencairan klaim dari Perusahaan Perasuransian.
+
+9. Di antara Pasal 21 dan Pasal 22 disisipkan 2 (dua) pasal, yakni Pasal 2 lA dan Pasal 218 sehingga berbunyi sebagai berikut:
+
+**Pasal 21A**
+
+- (1) Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang memasarkan produk asuransi yang memberikan manfaat yang besarnya didasarkan pada hasil pengelolaan dana wajib mengelompokkan kekayaan dan kewajiban Pemegang Polis, Tertanggung, atau Peserta berdasarkan strategi investasi dari setiap kelompok kekayaan dan kewajiban.
+- (2) Perusahaan Asuransi dan Perusahaan Asuransi Syariah sebagaimana dimaksud pada ayat (1) wajib:
+- a. memberikan informasi secara tertulis mengenai risiko atas strategi investasi dari setiap kelompok kekayaan dan kewajiban; dan
+- b. mengelola Premi atau Kontribusi sesuai dengan strategi investasi dari kelompok kekayaan dan kewajiban yang dipilih Pemegang Polis, Tertanggung, atau Peserta.
+
+Pasal 218 ...
+
+**PRESIDEN REPUBUK INDONESIA**
+
+**-287 -**
+
+**Pasal 21B**
+
+Setiap Orang dilarang menggelapkan kekayaan yang dirniliki dan/atau dikelola oleh Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau perusahaan reasuransi syariah dengan cara mengalihkan, menjaminkan, mengagunkan, menggunakan kekayaan, atau melakukan tindakan lain yang merugikan Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, a tau perusahaan reasuransi syariah.
+
+10. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
-Cukup jelas.
+Angka 1

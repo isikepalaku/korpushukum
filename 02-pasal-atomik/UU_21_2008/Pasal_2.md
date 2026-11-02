@@ -23,6 +23,12 @@ Perbankan Syariah dalam melakukan kegiatan usahanya
 berasaskan Prinsip Syariah, demokrasi ekonomi, dan prinsip
 kehati-hatian.
 
+Pasal 3 . . .
+
+-----
+
+ - 7
+
 ## Penjelasan Resmi
 
 Kegiatan usaha yang berasaskan Prinsip Syariah, antara lain, adalah

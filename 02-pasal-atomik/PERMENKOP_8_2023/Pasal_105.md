@@ -20,8 +20,10 @@ mengamandemen: []
 (1) KSP/KSPPS yang termasuk dalam klasifikasi usaha
 KSP/KSPPS I sebagaimana dimaksud dalam Pasal 49
 huruf a dan KSP/KSPPS yang termasuk dalam klasifikasi
-usaha KSP/KSPPS II sebagaimana dimaksud dalam Pasal
-49 huruf b wajib menyampaikan laporan keuangan setiap
+usaha KSP/KSPPS II sebagaimana dimaksud dalam
+
+Pasal 49
+huruf b wajib menyampaikan laporan keuangan setiap
 6 (enam) bulan kepada Menteri, gubernur, atau
 bupati/wali kota.
 (2) KSP/KSPPS yang termasuk dalam klasifikasi usaha

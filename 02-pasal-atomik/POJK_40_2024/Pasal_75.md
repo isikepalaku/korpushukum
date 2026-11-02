@@ -17,7 +17,17 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-izin pembentukan UUS sebagaimana dimaksud dalam
+(1) Penyelenggara hasil Penggabungan wajib melaporkan
+pelaksanaan Penggabungan kepada Otoritas Jasa
+Keuangan paling lama 15 (lima belas) hari kerja
+terhitung sejak tanggal anggaran dasar disetujui oleh
+atau diberitahukan kepada instansi yang berwenang.
+(2) Pelaporan pelaksanaan Penggabungan sebagaimana
+dimaksud pada ayat (1) harus disampaikan oleh Direksi
+kepada Otoritas Jasa Keuangan dengan melampirkan
+dokumen berupa anggaran dasar yang telah disetujui
+oleh atau diberitahukan kepada instansi yang
+berwenang.
 
 ## Penjelasan Resmi
 

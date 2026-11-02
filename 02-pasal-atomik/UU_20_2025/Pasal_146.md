@@ -32,6 +32,30 @@ ayat (21 bukan merupakan putusan pemidanaan.
 
  Hak Perempuan
 
+Pasal 147 (1) Perempuan yang berhadapan dengan hukum dapat
+ berstatus sebagai Tersangka, Terdakwa, Terpidana, Saksi, atau Korban.
+
+(2) Perempuan . . .
+
+-----
+
+REPUEUK INDONESIA
+
+**-80-**
+
+**(21 Perempuan yang berhadapan dengan hukum**
+
+sebagaimana dimaksud pada ayat (l), selain memiliki
+**hak sebagai Tersangka, Terdakwa, Terpidana, Saksi, Korban, atau Penyandang Disabilitas sebagaimana dimaksud dalam Pasal 142 sampai dengan Pasal 146, juga memiliki hak:**
+ a. mendapatkan perlakuan yang bebas dari sikap dan
+ pernyataan yang merendahkan, menyalahkan, dan/atau mengintimidasi dalam setiap tahap pemeriksaan; b. mendapatkan pertimbangan situasi dan
+ kepentingan dari kerugian yang tidak proporsional akibat ketidaksetaraan gender; c. mendapatkan Pendamping dalam setiap tahap
+ pemeriksaan; d. didengar keterangannya melalui komunikasi audio
+ visual jarak jauh di pengadilan setempat atau di tempat lain, jika kondisi kejiwaannya tidak sehat diakibatkan oleh rasa takut/trauma psikis berdasarkan penilaian dokter atau psikolog; dan/atau e. mendapatkan pertimbangan spesilik berbasis
+ kerentanan dan kebutuhan gender dalam setiap keputusan Penyidik, Penuntut Umum, atau Hakim dalam melaksanakan seluruh kewenangan dalam Undang-Undang ini.
+
+ Bagian Kelima Hak Orang Lanjut Usia
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

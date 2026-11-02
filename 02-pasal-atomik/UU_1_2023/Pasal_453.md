@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '453'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -27,4 +27,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Ketentuan ini berkaitan dengan Anak yang ditarik dari kekuasaan atau pengawasan yang sah, kemudian disembunyikan atau disembunyikan dari kepentingan penyidikan Pejabat yang berwenang. Ayat (2) Cukup jelas.

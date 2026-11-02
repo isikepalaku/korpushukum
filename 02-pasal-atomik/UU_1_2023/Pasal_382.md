@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '382'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,4 +25,8 @@ Dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana denda pal
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "meterai" adalah perangko, meterai tempel, meterai pajak televisi, dan jenis meterai lainnya.
+
+Ketentuan ini dimaksudkan untuk melindungi meterai yang dikeluarkan oleh Pemerintah 
+
+ agar tidak ditiru atau dipalsu. Te{adinya peniruan atau pemalsuan akan menyebabkan berlarrangrrya kepercayaan terhadap meterai Indonesia dan mengurangi pendapatan negara dari pengeluaran meterai.

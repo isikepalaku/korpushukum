@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Data Perceraian sebagaimana dimaksud dalam Pasal 7 ayat 
+Data Perceraian sebagaimana dimaksud dalam
+
+Pasal 7
+ayat 
 (4) huruf e, terdiri dari elemen data: 
 a. 
 NIK bekas suami; 

@@ -36,8 +36,7 @@ e. melakukan . . .
 13. Di antara atgka 20 dan angka 21 dalam Pasal 7 disisipkan 1 (satu) angka, yakni angka 20a sehingga berbunyi sebagai berikut:
 - 20a. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
 
-**Pasai 27**
-
+Pasal 27
 Seluruh biaya penyelamatan Bank, Perusahaan Asuransi dan Perusahaan Asuransi Syariah Dalam Resolusi yang dikeluarkan oleh Lembaga Penjamin Simpanan menjadi penyertaan modal sementara Iembaga Penjamin Simpanan pada Bank, Perusahaan Asuransi, dan Perusahaan Asuransi Syariah.
 
 14. Ketentuan Pasal 28 pada angka 2l dalam Pasal 7 diubah sehingga berbunyi sebagai berikut:

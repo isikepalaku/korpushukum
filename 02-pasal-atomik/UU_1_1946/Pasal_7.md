@@ -17,7 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dengan tidak mengurangi apa yang ditetapkan dalam pasal 3, maka semua perkataan "Nederlandsch-onderdaan" dalam Kitan Undang-undang hukum pidana diganti dengan "Warga Negara Indonesia".
+Dengan tidak mengurangi apa yang ditetapkan dalam Pasal 3, maka semua perkataan "Nederlandsch-onderdaan" dalam Kitan Undang-undang hukum pidana diganti dengan "Warga Negara Indonesia".
 
 ## Penjelasan Resmi
 

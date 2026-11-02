@@ -22,7 +22,10 @@ a. perubahan profil Bank Penerima dan/atau Bank Penerus
 yang bersifat substansial; dan/atau
 b. informasi pada profil Bank Penerima dan/atau Bank
 Penerus yang tersedia belum dilengkapi dengan informasi
-sebagaimana dimaksud dalam Pasal 54 ayat (1),
+sebagaimana dimaksud dalam
+
+Pasal 54
+ayat (1),
 bank umum wajib melakukan identifikasi, verifikasi, dan
 pemantauan terhadap Bank Penerima dan/atau Bank Penerus
 yang disesuaikan dengan pendekatan berdasarkan risiko (risk

@@ -21,16 +21,25 @@ Penyelenggara yang telah memperoleh izin usaha pada saat
 Peraturan Otoritas Jasa Keuangan ini diundangkan,
 ketentuan mengenai:
 a. pedoman penilaian skor kredit (credit _scoring)_
-sebagaimana dimaksud dalam Pasal 151 ayat (1);
+sebagaimana dimaksud dalam
+
+Pasal 151
+ayat (1);
 b. tanggung jawab atas penilaian skor kredit (credit
 _scoring) sebagaimana dimaksud dalam Pasal 152 ayat_
 (1);
 c. evaluasi efektifitas penilaian skor kredit (credit scoring)
-sebagaimana dimaksud dalam Pasal 152 ayat (2); dan
+sebagaimana dimaksud dalam
+
+Pasal 152
+ayat (2); dan
 d. penyediaan dokumen pedoman penilaian skor kredit
 (credit scoring) pada saat pelaksanaan verifikasi
 dan/atau validasi oleh Otoritas Jasa Keuangan
-sebagaimana dimaksud dalam Pasal 152 ayat (4),
+sebagaimana dimaksud dalam
+
+Pasal 152
+ayat (4),
 mulai berlaku paling lama 6 (enam) bulan sejak Peraturan
 Otoritas Jasa Keuangan ini diundangkan.
 

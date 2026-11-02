@@ -20,7 +20,9 @@ mengamandemen: []
 (1) Pemohon melakukan pembayaran biaya pendaftaran
 
 Jaminan Fidusia melalui bank persepsi berdasarkan bukti
-pendaftaran sebagaimana dimaksud dalam Pasal 5
+pendaftaran sebagaimana dimaksud dalam
+
+Pasal 5
 ayat (2).
 
 (2) Pendaftaran Jaminan Fidusia dicatat secara elektronik

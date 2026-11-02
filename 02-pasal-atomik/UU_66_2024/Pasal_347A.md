@@ -17,12 +17,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan dalam Pasal 29 ayat (2) dan Pasal 158A mulai berlaku 1 (satu) tahun terhitung sejak UndangUndang ini diundangkan.
+Ketentuan dalam Pasal 29 ayat (2) dan
+
+Pasal 158A mulai berlaku 1 (satu) tahun terhitung sejak UndangUndang ini diundangkan.
 
 67. Ketentuan Pasal 352 dihapus.
 
-## Pasal II
-
+## Pasal 11
 - 1 Pemerintah dan Dewan Perwakilan Rakyat Republik Indonesia melalui alat kelengkapan yang menangani bidang legislasi wajib melakukan pemantauan dan peninjauan terhadap pelaksanaan Undang-Undang ini 2 (dua) tahun setelah Undang-Undang ini diundangkan berdasarkan mekanisme yang diatur dalam UndangUndang mengenai Pembentukan Peraturan Perundangundangan.
 - Undang-Undang ini mulai berlaku pada tanggal diundangkan. 2
 

@@ -21,7 +21,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Angka 1 Pasal 1 Angka 2 Pasal 7 Ayat (1)
+Angka 1
+
+Pasal 1
+Angka 2 Pasal 7 Ayat (1)
 ```
 
 Perseroan yang meleburkan diri masuk menjadi modal Perseroan hasil Peleburan dan pendiri tidak mengambil bagian saham sehingga pendiri dari Perseroan hasil Peleburan adalah Perseroan yang meleburkan diri dan nama pemegang saham dari Perseroan hasil Peleburan adalah nama pemegang saham dari Perseroan yang meleburkan diri.
@@ -41,7 +44,33 @@ Cukup jelas.
 **R,EPUBUK INDONESIA**
 
 ```
-Angka 3 Pasal 32 Ayat (l) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Ketentuan pada ayat ini diperlukan untuk mengantisipasi perubahan keadaan perekonomian. Angka 4 Pasal 153 Cukup jelas. Angka 5 Pasal 153A Cukup jelas. Pasal 153E! Ayat (1) Modal dasar perseroan untuk usaha mikro dan kecil berasal dari kekayaan pendiri yang dipisahkan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 153C Cukup jelas. Pasal 153D Cukup jelas.
+Angka 3
+
+Pasal 32
+Ayat (l) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Ketentuan pada ayat ini diperlukan untuk mengantisipasi perubahan keadaan perekonomian. Angka 4 Pasal 153 Cukup jelas. Angka 5 Pasal 153A Cukup jelas. Pasal 153E! Ayat (1) Modal dasar perseroan untuk usaha mikro dan kecil berasal dari kekayaan pendiri yang dipisahkan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 153C Cukup jelas. Pasal 153D Cukup jelas.
 ```
 
 Yang dimaksud dengan "orang perseorangan" adalah orang yang cakap melakukan perbuatan hukum sebagaimana diatur dalam Kitab Undang-Undang
+
+Pasal 153E Ayat (1) Hukum Perdata. Ayat (2)
+
+Cukup je1as.
+
+Pasal 153F
+
+Cukup jelas.
+
+Pasal 153G
+
+Cukup jelas.
+
+Pasal 153H
+
+Cukup jelas.
+
+Pasal 1531
+Cukup jelas.
+
+Pasal 153J
+
+Cukup jelas.

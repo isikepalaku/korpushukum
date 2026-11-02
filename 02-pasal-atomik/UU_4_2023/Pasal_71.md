@@ -45,13 +45,19 @@ kepada Usaha Bersama, peserta RUA, dan Otoritas Jasa Keuangan.
 
 ## Penjelasan Resmi
 
-Ayat (1) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan "hubungan keluarga" adalah hubungan keluarga yang terjadi setelah pengangkatan anggota Direksi Usaha Bersama karena perkawinan, semenda, dan keturunan sampai derajat kedua. Ayat (2) Cukup jelas. Pasal 72 Cukup jelas. Pasal 73 Ayat (1) Cukup jelas. Ayat (2) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Yang dimaksud dengan "tidak terafiliasi" adalah tidak memiliki hubungan keluarga dengan anggota Direksi Usaha Bersama, anggota Dewan Komisaris Usaha Bersama lain, dan/ a tau Peserta RUA. Hubungan keluarga dimaksud dikarenakan perkawinan atau keturunan sampai derajat kedua, baik secara horizontal maupun vertikal. Huruf e Cukup jelas. Huruf f Cukup jelas.
+Ayat (1) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan "hubungan keluarga" adalah hubungan keluarga yang terjadi setelah pengangkatan anggota Direksi Usaha Bersama karena perkawinan, semenda, dan keturunan sampai derajat kedua. Ayat (2) Cukup jelas.
+
+Pasal 72
+Cukup jelas. Pasal 73 Ayat (1) Cukup jelas. Ayat (2) Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Yang dimaksud dengan "tidak terafiliasi" adalah tidak memiliki hubungan keluarga dengan anggota Direksi Usaha Bersama, anggota Dewan Komisaris Usaha Bersama lain, dan/ a tau Peserta RUA. Hubungan keluarga dimaksud dikarenakan perkawinan atau keturunan sampai derajat kedua, baik secara horizontal maupun vertikal. Huruf e Cukup jelas. Huruf f Cukup jelas.
 ```
 
 Huruf g ...
 
 ```
-Huruf g Cukup jelas. Hurufh Cukup jelas. Huruf i Cukup jelas. Huruf j Cukup jelas. Huruf k Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Pasal 74 Cukup jelas. Pasal 75 Cukup jelas. Pasal 76 Ayat (1) Huruf a Cukup jelas.
+Huruf g Cukup jelas. Hurufh Cukup jelas. Huruf i Cukup jelas. Huruf j Cukup jelas. Huruf k Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas.
+
+Pasal 74
+Cukup jelas. Pasal 75 Cukup jelas. Pasal 76 Ayat (1) Huruf a Cukup jelas.
 ```
 
 Hurufb ...

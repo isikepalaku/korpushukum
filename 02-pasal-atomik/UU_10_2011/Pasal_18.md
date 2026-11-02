@@ -168,3 +168,5 @@ keuangan, dan penyerahan Komoditi.
 Huruf i
 
 Cukup jelas.
+
+Angka 14

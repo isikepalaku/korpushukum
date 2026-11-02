@@ -42,14 +42,19 @@ Ayat(4)...
 
 Ayat (a)
 
-Agar Koperasi dapat mewujudkan fungsi dan peran seperti yang dimaksud dalam Pasal 4 maka Koperasi melaksanakan usaha di segala bidang kehidupan ekonomi dan berperan utama dalam kehidupan ekonomi rakyat. Yang dimaksud dengan "kehidupan ekonomi rakyat" adalah semua kegiatan ekonomi yang dilaksanakan dan menyangkut kepentingan or€rng banyak.
+Agar Koperasi dapat mewujudkan fungsi dan peran seperti yang dimaksud dalam
+
+Pasal 4
+maka Koperasi melaksanakan usaha di segala bidang kehidupan ekonomi dan berperan utama dalam kehidupan ekonomi rakyat. Yang dimaksud dengan "kehidupan ekonomi rakyat" adalah semua kegiatan ekonomi yang dilaksanakan dan menyangkut kepentingan or€rng banyak.
 
 Ayat (5)
 
 Cukup jelas.
 
 ```
-Angka 6 Pasal 44A Cukup jelas. Pasal 87 Angka 1 Pasal 6 Cukup jelas. Angka2 Pasal 12 Ayat (1) Huruf a
+Angka 6
+
+Pasal 44A Cukup jelas. Pasal 87 Angka 1 Pasal 6 Cukup jelas. Angka2 Pasal 12 Ayat (1) Huruf a
 ```
 
 Yang dimaksud dengan "menyederhanakan tata cara dan jenis perizinan" adalah memberikan kemudahan persyaratan dan tata cara perizinan serta informasi yang seluas-luasnya.
@@ -67,3 +72,5 @@ Cukup jelas.
 Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g
 
 Yang dimaksud dengan "bentuk-bentuk kemitraan lain" seperti bagi hasil, kerja sama operasional, usaha patungan $oint uenfurel, dan peny'umberluaran (outsourcingl.
+
+Angka 6

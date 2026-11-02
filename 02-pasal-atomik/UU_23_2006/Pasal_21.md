@@ -26,6 +26,8 @@ Tinggal Tetap.
 Instansi Pelaksana mendaftar dan menerbitkan KK dan
 KTP.
 
+Pasal 22 . . .
+
 ## Penjelasan Resmi
 
 Cukup jelas.

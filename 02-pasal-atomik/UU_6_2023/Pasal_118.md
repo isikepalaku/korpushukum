@@ -26,6 +26,9 @@ Cukup jelas.
 
 **PRESIDEN REPUBUK INDONESTA**
 
-Huruf b Penghentian integrasi vertikal antara lain dilaksanakan dengan pembatalan perjanjian, pengalihan sebagian perusahaan kepada Pelaku Usaha lain, atau perubahan bentuk rangkaian produksinya. Hurrf c Yang diperintahkan untuk dihentikan adalah kegiatan atau tindakan tertentu dan bukan kegiatan usaha Pelaku Usaha secara keseluruhan. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Ganti rugi diberikan kepada Pelaku Usaha dan kepada pihak lain yang dirugikan. Hurrf g Cukup jelas. Ayat (3) Cukup jelas. Angka 5 Pasal 48 Cukup jelas. Angka 6 Pasal 49 Dihapus Pasal 119 Cukup jelas.
+Huruf b Penghentian integrasi vertikal antara lain dilaksanakan dengan pembatalan perjanjian, pengalihan sebagian perusahaan kepada Pelaku Usaha lain, atau perubahan bentuk rangkaian produksinya. Hurrf c Yang diperintahkan untuk dihentikan adalah kegiatan atau tindakan tertentu dan bukan kegiatan usaha Pelaku Usaha secara keseluruhan. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Ganti rugi diberikan kepada Pelaku Usaha dan kepada pihak lain yang dirugikan. Hurrf g Cukup jelas. Ayat (3) Cukup jelas. Angka 5
+
+Pasal 48
+Cukup jelas. Angka 6 Pasal 49 Dihapus Pasal 119 Cukup jelas.
 
 ```

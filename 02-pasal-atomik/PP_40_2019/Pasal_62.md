@@ -4,7 +4,7 @@ uu_induk: Pelaksanaan UU Administrasi Kependudukan
 kode_uu: PP_40_2019
 pasal: '62'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/pp_40_2019
@@ -55,3 +55,8 @@ penyelenggaraan pemerintahan daerah.
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Pasal 63...
+
+PRES I DEN
+REPUBLIK INDONESIA

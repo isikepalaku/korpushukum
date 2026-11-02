@@ -36,6 +36,12 @@ ketentuan dalam Undang-Undang ini.
 pemeriksaan perkara pidana terhadap dugaan keterangan
 palsu sebagaimana dimaksud pada ayat (1) selesai.
 
+Pasal 225...
+
+-----
+
+**-t20-**
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

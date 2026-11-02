@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Badan Usaha yang melaksanakan Kegiatan Usaha Hilir sebagaimana dimaksud dalam Pasal 23 wajib membayar pajak, bea masuk dan pungutan lain atas impor, cukai, pajak daerah dan retribusi daerah, serta kewajiban lain sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+Badan Usaha yang melaksanakan Kegiatan Usaha Hilir sebagaimana dimaksud dalam
+
+Pasal 23
+wajib membayar pajak, bea masuk dan pungutan lain atas impor, cukai, pajak daerah dan retribusi daerah, serta kewajiban lain sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
 **BAB VII HUBUNGAN KEGIATAN USAHA MINYAK DAN GAS BUMI DENGAN HAK ATAS TANAH**
 

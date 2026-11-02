@@ -4,7 +4,7 @@ judul: "Map of Content - Perbankan"
 kode_uu: UU_7_1992
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_7_1992]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Perbankan (UU_7_1992)
@@ -18,8 +18,8 @@ last_updated: 2026-11-01
 - [[Pasal_3]]: Fungsi utama perbankan Indonesia adalah sebagai penghimpun dan
 - [[Pasal_4]]: Perbankan Indonesia bertujuan menunjang pelaksanaan pembangunan
 - [[Pasal_5]]: (1) Menurut jenisnya, bank terdiri dari :
-- [[Pasal_6]]: a. melakukan kegiatan dalam valuta asing dengan memenuhi
-- [[Pasal_7]]: b. melakukan usaha perasuransian;
+- [[Pasal_6]]: Usaha Bank Umum meliputi :
+- [[Pasal_7]]: Selain melakukan kegiatan usaha sebagaimana dimaksud dalam
 - [[Pasal_8]]: Dalam memberikan kredit, Bank Umum wajib mempunyai keyakinan
 - [[Pasal_9]]: (1) Bank Umum yang menyelenggarakan kegiatan penitipan sebagai
 - [[Pasal_10]]: Bank Umum dilarang:
@@ -27,8 +27,8 @@ last_updated: 2026-11-01
 - [[Pasal_12]]: Pemerintah dapat menugaskan Bank Umum untuk melaksanakan pro
 - [[Pasal_13]]: Usaha Bank Perkreditan Rakyat meliputi:
 - [[Pasal_14]]: Bank Perkreditan Rakyat dilarang:
-- [[Pasal_15]]: Ketentuan sebagaimana dimaksud dalam Pasal 8 dan Pasal 11 berlaku
-- [[Pasal_16]]: lama 15 (lima belas) tahun dan denda paling banyak Rp.
+- [[Pasal_15]]: Ketentuan sebagaimana dimaksud dalam Pasal 8 dan
+- [[Pasal_16]]: (1) Setiap pihak yang melakukan kegiatan menghimpun dana dari
 - [[Pasal_17]]: Untuk mendapatkan izin usaha sebagai Bank Umum yang berbentuk
 - [[Pasal_18]]: (1) Pembukaan kantor cabang Bank Umum hanya dapat dilakukan
 - [[Pasal_19]]: (1) Pembukaan kantor cabang Bank Perkreditan Rakyat di ibukota
@@ -46,7 +46,7 @@ last_updated: 2026-11-01
 - [[Pasal_31]]: (1) Bank Indonesia melakukan pemeriksaan terhadap bank, baik
 - [[Pasal_32]]: Jika dianggap perlu, Menteri dapat pula meminta Bank Indonesia
 - [[Pasal_33]]: (1) Laporan pemeriksaan bank sebagaimana dimaksud dalam Pasal 31
-- [[Pasal_34]]: paling lama 2 (dua) tahun dan denda paling banyak Rp.
+- [[Pasal_34]]: (1) Bank wajib menyampaikan kepada Bank Indonesia neraca dan
 - [[Pasal_35]]: Bank wajib mengumumkan neraca dan perhitungan laba/rugi dalam
 - [[Pasal_36]]: Bank Indonesia dapat menetapkan pengecualian dari ketentuan
 - [[Pasal_37]]: (1) Apabila menurut penilaian Bank Indonesia suatu bank
@@ -60,7 +60,7 @@ last_updated: 2026-11-01
 - [[Pasal_45]]: Pihak yang merasa dirugikan oleh keterangan yang diberikan oleh bank
 - [[Pasal_46]]: (1) Barang siapa menghimpun dana dari masyarakat dalam bentuk
 - [[Pasal_47]]: (1) Barang siapa tanpa membawa perintah tertulis dari Menteri
-- [[Pasal_48]]: (2) Tindak pidana sebagaimana dimaksud dalam Pasal 48 ayat (2)
+- [[Pasal_48]]: (1) Anggota dewan komisaris, direksi atau pegawai bank yang dengan
 - [[Pasal_49]]: (1) Anggota dewan komisaris, direksi atau pegawai bank yang dengan
 - [[Pasal_50]]: Pihak terafiliasi yang dengan sengaja tidak melaksanakan
 - [[Pasal_51]]: (1) Tindak pidana sebagaimana dimaksud dalam Pasal 46, Pasal 47,

@@ -19,7 +19,9 @@ mengamandemen: []
 
 (1) OJK memberikan persetujuan atau penolakan atas
 permohonan izin penutupan kantor Bank sebagaimana
-dimaksud dalam Pasal 98.
+dimaksud dalam
+
+Pasal 98.
 (2) Persetujuan atau penolakan sebagaimana dimaksud
 pada ayat (1) diberikan dalam jangka waktu paling lama
 14 (empat belas) hari kerja sejak dokumen diterima
@@ -29,7 +31,9 @@ permohonan izin sebagaimana dimaksud pada ayat (1),
 OJK melakukan penelitian:
 a. terhadap rencana penutupan Kantor yang telah
 dicantumkan dalam Rencana Bisnis Bank
-sebagaimana dimaksud dalam Pasal 97; dan
+sebagaimana dimaksud dalam
+
+Pasal 97; dan
 b. kelengkapan dan kesesuaian dokumen yang
 disampaikan.
 

@@ -18,6 +18,21 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Laporan Triwulanan sebagaimana dimaksud dalam
+Pasal 2
+ayat (3) huruf b bagi Perusahaan Asuransi,
+Perusahaan Asuransi Syariah, Perusahaan
+Reasuransi, Perusahaan Reasuransi Syariah, dan Unit
+Syariah harus disusun berdasarkan standar akuntansi
+keuangan mengenai kontrak asuransi.
+(2) Laporan Triwulanan sebagaimana dimaksud dalam
+Pasal 2
+ayat (4) huruf a bagi Perusahaan Pialang
+Asuransi dan Perusahaan Pialang Reasuransi
+merupakan Laporan Triwulanan sebagaimana
+dimaksud diatur Peraturan Otoritas Jasa Keuangan
+mengenai penyelenggaraan usaha Perusahaan Pialang
+Asuransi, Perusahaan Pialang Reasuransi, dan
+Perusahaan Penilai Kerugian Asuransi.
 
 ## Penjelasan Resmi
 

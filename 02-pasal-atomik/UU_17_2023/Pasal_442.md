@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang mempekerjakan Tenaga Medis dan/ atau Tenaga Kesehatan yang tidak mempunyai SIP sebagaimana dimaksud dalam Pasal 312 huruf c dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak Rp500.0O0.000,00 (lima ratus juta rupiah).
+Setiap Orang yang mempekerjakan Tenaga Medis dan/ atau Tenaga Kesehatan yang tidak mempunyai SIP sebagaimana dimaksud dalam
+
+Pasal 312
+huruf c dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak Rp500.0O0.000,00 (lima ratus juta rupiah).
 
 ## Penjelasan Resmi
 

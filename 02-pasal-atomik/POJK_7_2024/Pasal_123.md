@@ -18,8 +18,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Rancangan Pengambilalihan sebagaimana dimaksud
-dalam Pasal 117 dan konsep akta Pengambilalihan
-sebagaimana dimaksud dalam Pasal 118 harus
+dalam
+
+Pasal 117
+dan konsep akta Pengambilalihan
+sebagaimana dimaksud dalam
+
+Pasal 118
+harus
 memperoleh persetujuan:
 a. RUPS BPR atau BPR Syariah yang akan diambil alih;
 dan

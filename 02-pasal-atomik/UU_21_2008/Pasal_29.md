@@ -21,7 +21,10 @@ mengamandemen: []
 
 (1) Dalam jajaran direksi Bank Syariah sebagaimana dimaksud
 
-dalam Pasal 28 wajib terdapat 1 (satu) orang direktur yang
+dalam
+
+Pasal 28
+wajib terdapat 1 (satu) orang direktur yang
 bertugas untuk memastikan kepatuhan Bank Syariah
 terhadap pelaksanaan ketentuan Bank Indonesia dan
 peraturan perundang-undangan lainnya.

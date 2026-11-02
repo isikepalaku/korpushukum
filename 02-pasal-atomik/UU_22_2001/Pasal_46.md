@@ -29,6 +29,8 @@ mengamandemen: []
 - f. pengusahaan transmisi dan distribusi Gas Bumi.
 - (4) TugasBadanPengatursebagaimanadimaksuddalamayat(1)mencakupjugatugaspengawasan dalam bidang-bidang sebagaimana dimaksud dalam ayat (3).
 
+Pasal 47 …
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -20,17 +20,31 @@ mengamandemen: []
 
 Ketentuan mengenai pengalihan sebagian atau seluruh aset
 dan/atau kewajiban Bank kepada Bank penerima atau Bank
-Perantara sebagaimana dimaksud dalam Pasal 23 sampai
-dengan Pasal 26 berlaku secara mutatis mutandis bagi
+Perantara sebagaimana dimaksud dalam
+
+Pasal 23
+sampai
+dengan
+
+Pasal 26
+berlaku secara mutatis mutandis bagi
 pelaksanaan wewenang Lembaga Penjamin Simpanan
-sebagaimana dimaksud dalam Pasal 41 ayat (1) huruf o.
+sebagaimana dimaksud dalam
+
+Pasal 41
+ayat (1) huruf o.
 
 ## Penjelasan Resmi
 
 Yang dimaksud dengan “mutatis mutandis” adalah ketentuan
 mengenai pengalihan sebagian atau seluruh aset dan/atau kewajiban
 Bank Sistemik kepada Bank penerima atau Bank Perantara
-sebagaimana dimaksud dalam Pasal 23 sampai dengan Pasal 26,
+sebagaimana dimaksud dalam Pasal 23 sampai dengan
+
+Pasal 26,
 dengan perubahan kecil atau yang perlu untuk disesuaikan, berlaku
 juga untuk pelaksanaan wewenang Lembaga Penjamin Simpanan
-sebagaimana dimaksud dalam Pasal 41 ayat (1) huruf o.
+sebagaimana dimaksud dalam
+
+Pasal 41
+ayat (1) huruf o.

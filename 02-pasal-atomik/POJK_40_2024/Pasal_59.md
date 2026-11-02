@@ -17,7 +17,31 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Untuk memperoleh persetujuan sebagaimana
+dimaksud dalam
 
+Pasal 58
+ayat (1) Direksi harus
+mengajukan permohonan persetujuan kepada Otoritas
+Jasa Keuangan dengan melampirkan dokumen
+permohonan persetujuan perubahan kepemilikan yang
+mengakibatkan terjadinya pengambilalihan tercantum
+dalam Lampiran pada tabel 13 yang merupakan bagian
+tidak terpisahkan dari Peraturan Otoritas Jasa
+Keuangan ini.
+(2) Dalam hal terdapat kekurangan dokumen sebagaimana
+dimaksud pada ayat (1), Otoritas Jasa Keuangan
+menyampaikan permintaan kelengkapan dokumen.
+(3) Penyelenggara menyampaikan kelengkapan dokumen
+paling lama 20 (dua puluh) hari kerja sejak tanggal
+surat permintaan kelengkapan dokumen dari Otoritas
+Jasa Keuangan.
+(4) Apabila dalam waktu 20 (dua puluh) hari kerja sejak
+tanggal surat permintaan kelengkapan dokumen
+sebagaimana dimaksud pada ayat (3) Otoritas Jasa
+Keuangan belum menerima kelengkapan dokumen
+dimaksud, Penyelenggara dianggap membatalkan
+permohonan.
 
 ## Penjelasan Resmi
 

@@ -20,6 +20,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Untuk mendapatkan pengesahan sebagaimana dimaksud dalam
+Pasal 9, para pendiri mengajukan permintaan tertulis disertai
+akta pendirian Koperasi.
+
+(2) Pengesahan akta pendirian diberikan dalam jangka waktu paling
+lama 3 (tiga) bulan setelah diterimanya permintaan pengesahan.
+
+(3) Pengesahan akta pendirian diumumkan dalam Berita Negara
+Republik Indonesia.
 
 ## Penjelasan Resmi
 

@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam hal Presiden menolak rekomendasi status Stabilitas
-Sistem Keuangan sebagaimana dimaksud dalam Pasal 32 ayat
+Sistem Keuangan sebagaimana dimaksud dalam
+
+Pasal 32
+ayat
 (9), penanganan permasalahan Sistem Keuangan dilakukan
 oleh anggota Komite Stabilitas Sistem Keuangan sesuai
 dengan tugas dan wewenang masing-masing.

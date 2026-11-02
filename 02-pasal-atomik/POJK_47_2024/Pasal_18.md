@@ -1169,7 +1169,10 @@ KOPERASI DI SEKTOR JASA KEUANGAN
 **_STATEMENT LETTER_**
 
 Sehubungan dengan permohonan izin usaha Lembaga Keuangan Mikro
-yang diajukan oleh Koperasi … dan berdasarkan Pasal 10 ayat (3) huruf b
+yang diajukan oleh Koperasi … dan berdasarkan
+
+Pasal 10
+ayat (3) huruf b
 Peraturan Otoritas Jasa Keuangan tentang Koperasi di Sektor Jasa
 Keuangan, saya yang bertandatangan di bawah ini:
 

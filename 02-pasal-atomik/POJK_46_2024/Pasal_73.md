@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Perusahaan Syariah yang akan melakukan
 penerbitan sukuk tidak melalui penawaran umum
-sebagaimana dimaksud dalam Pasal 66 ayat (1)
+sebagaimana dimaksud dalam
+
+Pasal 66
+ayat (1)
 huruf e wajib melaporkan rencana penerbitan
 sukuk tidak melalui penawaran umum paling
 lambat 2 (dua) bulan sebelum penerbitan sesuai
@@ -117,3 +120,5 @@ ditemukan selama proses audit.
 Ayat (2)
 
 Cukup jelas.
+
+Angka 30

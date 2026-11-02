@@ -25,6 +25,12 @@ Pemerintah dapat melakukan tindakan-tindakan khusus guna menjamin
 
  Sosial.
 
+Pasal 49 ...
+
+-----
+
+**- 21**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

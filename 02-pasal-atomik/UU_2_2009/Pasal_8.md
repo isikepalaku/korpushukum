@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Asuransi sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf
+Asuransi sebagaimana dimaksud dalam
+
+Pasal 5
+ayat (1) huruf
 c dapat diberikan dalam bentuk:
 
 a. Asuransi atas risiko kegagalan Ekspor;

@@ -20,9 +20,15 @@ mengamandemen: []
 Perusahaan disebut Perusahaan dalam Likuidasi dan wajib
 mencantumkan kata “dalam Likuidasi” disingkat “(DL)” di
 belakang nama Perusahaan sejak keputusan RUPS
-sebagaimana dimaksud dalam Pasal 104 ayat (1) atau
+sebagaimana dimaksud dalam
+
+Pasal 104
+ayat (1) atau
 keputusan Otoritas Jasa Keuangan sebagaimana dimaksud
-dalam Pasal 106 ayat (1).
+dalam
+
+Pasal 106
+ayat (1).
 
 Paragraf 2
 

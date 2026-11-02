@@ -18,7 +18,25 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1), Pasal 74, Pasal 75 ayat (1), Pasal 76 ayat (1),
+Perusahaan Syariah yang akan melakukan penerbitan
+efek syariah melalui penawaran umum sebagaimana
+dimaksud dalam
+
+Pasal 66
+ayat (1) huruf d wajib
+memenuhi persyaratan sebagai berikut:
+a. rencana penerbitan efek syariah melalui
+penawaran umum telah dicantumkan dalam
+rencana bisnis Perusahaan Syariah;
+b. memiliki Tingkat Kesehatan paling rendah
+Peringkat Komposit 2; dan
+
+-----
+
+c. memenuhi ketentuan gearing ratio.
+
+27. Ketentuan Pasal 70 diubah sehingga Pasal 70 berbunyi
+sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -27,3 +45,5 @@ perbandingan antara penjumlahan pinjaman, pinjaman
 subordinasi, dan efek bersifat utang dengan selisih antara
 penjumlahan Modal dan pinjaman subordinasi dikurangi
 penyertaan.
+
+Angka 27

@@ -26,7 +26,9 @@ mengamandemen: []
 
 **terhitung sejak tanggal menerima berkas perkara banding dari pengadilan negeri, ketua pengadilan tinggi menunjuk Hakim/majelis Hakim yang akan memeriksa permohonan banding. (41 Dalam jangka waktu paling lama 3 (tiga) Hari**
  terhitung sejak ditunjuknya Hakim sebagaimana dimaksud pada ayat (3), Hakim/majelis Hakim pengadilan tinggi wajib mempelajari berkas perkara untuk menetapkan: a. perlu atau tidaknya Terdakwa tetap ditahan atau tidak, baik karena jabatannya maupun atas permintaan Terdakwa; dan/ atau b. perlu atau tidalnya Saksi dan/atau Ahli untuk
- dipanggil dan diperiksa untuk didengar kembali keterangannya dalam hal sebagaimana dimaksud dalam Pasal 290.
+ dipanggil dan diperiksa untuk didengar kembali keterangannya dalam hal sebagaimana dimaksud dalam
+
+Pasal 290.
 **(5) Hakim/majelis Hakim pengadilan tinggi dapat**
 
 **memanggil dan memeriksa untuk mendengar sendiri keterangan Terdakwa, Penuntut Umum, Saksi, dan/atau Ahli yang tidak dimintakan untuk didengar kembali sebagaimana dimaksud dalam Pasal 29O ayat**
@@ -36,7 +38,14 @@ mengamandemen: []
 **Terdakwa sebagaimana dimaksud pada ayat (4)**
  huruf a telah mencapai jangka waktu yang sama
 dengan pidana yang dijatuhkan oleh pengadilan negeri
-**kepadanya, Terdakwa dibebaskan seketika itu.**
+**kepadanya, Terdakwa dibebaskan seketika itu.**Pasal 292...
+
+-----
+
+PRESIDEN
+R,EPUBLIK INDONESIA
+
+**-150-**
 
 ## Penjelasan Resmi
 

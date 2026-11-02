@@ -31,4 +31,4 @@ Bagian Ketiga Pengawasan
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

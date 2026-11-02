@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai penyelenggaraan transplantasi organ dan/ atau jaringan tubuh sebagaimana dimaksud dalam Pasal 124 sampai dengan Pasal 133 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai penyelenggaraan transplantasi organ dan/ atau jaringan tubuh sebagaimana dimaksud dalam
+
+Pasal 124
+sampai dengan Pasal 133 diatur dengan Peraturan Pemerintah.
 
 ## Paragraf 3
 

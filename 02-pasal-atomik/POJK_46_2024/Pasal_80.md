@@ -42,3 +42,5 @@ dengan tujuan agar jenis dan besaran nilai valuta
 asing sesuai dengan jumlah kewajiban pembayaran
 utang dari piutang pembiayaan yang diterima oleh
 Perusahaan Pembiayaan.
+
+Angka 39

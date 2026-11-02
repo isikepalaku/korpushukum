@@ -19,8 +19,7 @@ mengamandemen: []
 
 Pengawasan Penyelenggaraan Ibadah Haji Khusus dan Ibadah Umrah dilaksanakan secara terpadu dengan kementerian/ lembaga terkait.
 
-## Pasal 1l9I
-
+## Pasal 1191
 Pemantauan sebagaimana dimaksud dalam Pasal l19C dilakukan pada saat berlangsungnya setiap tahapan Penyelenggaraan Ibadah Haji Khusus dan Ibadah Umrah.
 
 ## PRESIDEN NEPUBLIK INDONESIA

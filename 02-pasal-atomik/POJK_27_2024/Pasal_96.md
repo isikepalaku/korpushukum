@@ -59,4 +59,7 @@ Penerapan Prinsip Pengenalan dan Pemantauan Transaksi
 
 ## Penjelasan Resmi
 
-Lihat penjelasan Pasal 80 ayat (8).
+Lihat penjelasan
+
+Pasal 80
+ayat (8).

@@ -23,7 +23,7 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Cukup jelas. 
-Pasal II 
+Pasal 11
 Cukup jelas. 
  
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5475

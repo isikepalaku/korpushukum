@@ -32,4 +32,6 @@ mengamandemen: []
 FRESIDEN
 REPUBUK INDONESIA
 
-**-13-**
+**-13-**Pasal 6O
+
+**Cukup jelas.**

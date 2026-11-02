@@ -22,8 +22,10 @@ Pada saat Undang-Undang ini berlaku:
 a. Pemerintah memberikan NIK kepada setiap Penduduk paling
 lambat 5 (lima) tahun;
 b. Semua instansi wajib menjadikan NIK sebagai dasar dalam
-menerbitkan dokumen sebagaimana dimaksud dalam Pasal
-13 ayat (3) paling lambat 5 (lima) tahun;
+menerbitkan dokumen sebagaimana dimaksud dalam
+
+Pasal 13
+ayat (3) paling lambat 5 (lima) tahun;
 c. KTP seumur hidup yang sudah mempunyai NIK tetap berlaku
 dan yang belum mempunyai NIK harus disesuaikan dengan
 Undang-Undang ini;
@@ -32,7 +34,10 @@ tetap berlaku sampai dengan batas waktu berakhirnya masa
 berlaku KTP;
 e. Keterangan mengenai alamat, nama dan nomor induk
 pegawai pejabat dan penandatanganan oleh pejabat pada
-KTP sebagaimana dimaksud dalam Pasal 64 ayat (1) dihapus
+KTP sebagaimana dimaksud dalam
+
+Pasal 64
+ayat (1) dihapus
 setelah database kependudukan nasional terwujud.
 BAB XIV . . .
 

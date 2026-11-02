@@ -22,6 +22,54 @@ mengamandemen: []
 
  tidak memenuhi ketentuan sebagaimana dimaksud dalam
 
+Pasal 9
+huruf a, huruf b, huruf e, dan huruf f dan/atau
+
+ menyebabkan bank tidak memenuhi ketentuan
+
+ sebagaimana dimaksud dalam
+
+Pasal 9
+huruf a, huruf b,
+
+ huruf e, dan huruf f serta
+
+Pasal 92, dipidana dengan pidana
+
+ penjara paling singkat 2 (dua) tahun dan paling lama 10
+
+ (sepuluh) tahun, serta denda paling sedikit
+
+ Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak
+
+ Rp3.000.000.000,00 (tiga miliar rupiah).
+
+-----
+
+**(2) Direksi, komisaris, dan/atau pemegang saham bank yang**
+
+ menyebabkan bank tidak memenuhi ketentuan
+
+ sebagaimana dimaksud dalam
+
+Pasal 9
+huruf c dalam
+
+ jangka waktu 12 (dua belas) bulan sejak batas waktu
+
+ sebagaimana dimaksud dalam
+
+Pasal 12
+ayat (2), dipidana
+
+ dengan pidana penjara paling singkat 2 (dua) tahun dan
+
+ paling lama 10 (sepuluh) tahun, serta denda paling sedikit
+
+ Rp2.000.000.000,00 (dua miliar rupiah) dan paling banyak
+
+ Rp3.000.000.000,00 (tiga miliar rupiah).
+
 ## Penjelasan Resmi
 
 Cukup jelas.

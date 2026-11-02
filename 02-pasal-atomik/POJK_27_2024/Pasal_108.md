@@ -18,8 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Laporan berkala sebagaimana dimaksud dalam Pasal
-107 ayat (1) huruf a terdiri atas:
+(1) Laporan berkala sebagaimana dimaksud dalam Pasal 107 ayat (1) huruf a terdiri atas:
 a. laporan harian;
 b. laporan bulanan;
 c. laporan triwulanan; dan

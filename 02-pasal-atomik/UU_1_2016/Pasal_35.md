@@ -20,12 +20,20 @@ mengamandemen: []
 
 Dalam hal Lembaga Penjamin bubar karena jangka waktu
 berdirinya Lembaga Penjamin yang ditetapkan dalam
-anggaran dasar berakhir sebagaimana dimaksud dalam Pasal
-33 huruf b, likuidator atau penyelesai harus melaporkan
+anggaran dasar berakhir sebagaimana dimaksud dalam
+
+Pasal 33
+huruf b, likuidator atau penyelesai harus melaporkan
 pengakhiran Lembaga Penjamin kepada Otoritas Jasa
 Keuangan paling lambat 45 (empat puluh lima) hari setelah
 jangka waktu berdirinya Lembaga Penjamin yang ditetapkan
 dalam anggaran dasar berakhir.
+
+Pasal 36 . . .
+
+-----
+
+ - 21
 
 ## Penjelasan Resmi
 

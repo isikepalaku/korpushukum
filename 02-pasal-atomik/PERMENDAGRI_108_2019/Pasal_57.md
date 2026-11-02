@@ -20,8 +20,10 @@ mengamandemen: []
 
 (1) 
 Pencatatan perceraian di wilayah Negara Kesatuan 
-Republik Indonesia sebagaimana dimaksud dalam Pasal 
-56 huruf a, dengan memenuhi persyaratan sesuai dengan 
+Republik Indonesia sebagaimana dimaksud dalam
+
+Pasal 56
+huruf a, dengan memenuhi persyaratan sesuai dengan 
 ketentuan Peraturan Presiden mengenai persyaratan dan 
 tata cara Pendaftaran Penduduk dan Pencatatan Sipil. 
 (2) 

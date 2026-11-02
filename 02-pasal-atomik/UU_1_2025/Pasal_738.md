@@ -21,7 +21,10 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas. Angl<a 127 Cukup jelas. Angka 128 Cukup jelas. Angka 129 Pasal 74 Cukup jelas. Angka 130 Cukup jelas. Angka 131 Pasal 75 Angka 132 Pasal 76 Ayat (1) Hurufa
+Cukup jelas. Angl<a 127 Cukup jelas. Angka 128 Cukup jelas. Angka 129
+
+Pasal 74
+Cukup jelas. Angka 130 Cukup jelas. Angka 131 Pasal 75 Angka 132 Pasal 76 Ayat (1) Hurufa
 ```
 
 Yang dimaksud dengan "industri atau sektor usaha kompetitif" adalah industri/ sektor usaha yang pada dasarnya dapat diusahakan oleh siapa saja, baik BUMN maupun swasta. Dengan kata lain tidak ada peraturan perundang-undangan (kebljakan sektord) yang melarang swasta melakukan kegiatan di sektor tersebut, atau tegasnya sektor tersebut tidak semata-mata dikhususkan untuk BUMN.
@@ -44,6 +47,7 @@ Cukup jelas.
 
 Angka 133
 
-Pasa777
-
+Pasal 77
 Cukup jelas.
+
+Angka 134

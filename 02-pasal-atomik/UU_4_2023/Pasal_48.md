@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '48'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -12,7 +12,6 @@ status_berlaku: diubah
 diamandemen_oleh:
 - '[[02-pasal-atomik/UU_4_2026/Pasal_48|UU 4/2026 Pasal 48]]'
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_48|UU 1/2013 Pasal 48]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_48|UU 1/2016 Pasal 48]]'
 - '[[02-pasal-atomik/UU_2_2009/Pasal_48|UU 2/2009 Pasal 48]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_48|UU 21/2008 Pasal 48]]'
@@ -41,3 +40,19 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 38
+
+Pasal 48A
+
+Cukup jelas.
+
+Pasal 48B
+
+Cukup jelas.
+
+Pasal 48C
+
+Cukup jelas.
+
+Angka 39

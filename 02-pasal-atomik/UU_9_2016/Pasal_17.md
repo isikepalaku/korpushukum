@@ -18,7 +18,26 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-menerapkan rencana aksi sebagaimana dimaksud dalam
+(1) Untuk mencegah Krisis Sistem Keuangan di bidang
+
+perbankan, Otoritas Jasa Keuangan berkoordinasi dengan
+Bank Indonesia menetapkan Bank Sistemik.
+
+(2) Penetapan Bank Sistemik sebagaimana dimaksud pada
+
+ayat (1) pertama kali dilakukan pada kondisi Stabilitas
+Sistem Keuangan normal.
+
+(3) Otoritas Jasa Keuangan berkoordinasi dengan Bank
+
+Indonesia melakukan pemutakhiran daftar Bank Sistemik
+secara berkala 1 (satu) kali dalam 6 (enam) bulan.
+
+(4) Otoritas Jasa Keuangan menyampaikan hasil penetapan
+
+dan pemutakhiran daftar Bank Sistemik sebagaimana
+dimaksud pada ayat (2) dan ayat (3) kepada Komite
+Stabilitas Sistem Keuangan.
 
 ## Penjelasan Resmi
 

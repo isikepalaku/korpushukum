@@ -113,7 +113,10 @@ Huruf a
 Cukup jelas.
 Huruf b
 
-Lihat penjelasan Pasal 17 ayat (1).
+Lihat penjelasan
+
+Pasal 17
+ayat (1).
 Huruf c
 
 Cukup jelas.
@@ -138,3 +141,5 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
+
+Angka 37

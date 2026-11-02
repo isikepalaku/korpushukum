@@ -47,12 +47,17 @@ f. tidak lagi menjadi anggota Dewan Gubernur Bank
 
 Indonesia bagi anggota _Ex-officio_ Dewan Komisioner
 yang berasal dari Bank Indonesia sebagaimana
-dimaksud dalam Pasal 10 ayat (4) huruf h;
+dimaksud dalam
+
+Pasal 10
+ayat (4) huruf h;
 g. tidak lagi menjadi pejabat setingkat eselon I pada
 
 Kementerian Keuangan bagi anggota _Ex-officio_
 Dewan Komisioner yang berasal dari Kementerian
-Keuangan sebagaimana dimaksud dalam Pasal 10
+Keuangan sebagaimana dimaksud dalam
+
+Pasal 10
 ayat (4) huruf i;
 h. memiliki hubungan keluarga sampai derajat kedua
 
@@ -62,8 +67,13 @@ mengundurkan diri dari jabatannya;
 i. melanggar kode etik; atau
 j. tidak lagi memenuhi salah satu syarat sebagaimana
 
-dimaksud dalam Pasal 15 dan melanggar larangan
-sebagaimana dimaksud dalam Pasal 22.
+dimaksud dalam
+
+Pasal 15
+dan melanggar larangan
+sebagaimana dimaksud dalam
+
+Pasal 22.
 
 (2) Pemberhentian sebagaimana dimaksud pada ayat (1)
 

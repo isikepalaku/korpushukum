@@ -19,7 +19,9 @@ mengamandemen: []
 
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara
 pencatatan perubahan nama dan status kewarganegaraan
-sebagaimana dimaksud dalam Pasal 52, Pasal 53, dan Pasal 54
+sebagaimana dimaksud dalam Pasal 52,
+
+Pasal 53, dan Pasal 54
 diatur dalam Peraturan Presiden.
 Bagian Kesepuluh
 Pencatatan Peristiwa Penting Lainnya

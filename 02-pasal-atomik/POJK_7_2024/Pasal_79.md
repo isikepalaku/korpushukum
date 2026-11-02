@@ -46,4 +46,7 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 
-Lihat penjelasan Pasal 35 ayat (3) huruf a.
+Lihat penjelasan
+
+Pasal 35
+ayat (3) huruf a.

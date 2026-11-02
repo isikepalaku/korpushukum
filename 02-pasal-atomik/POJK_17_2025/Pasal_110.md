@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Selain menyampaikan laporan sebagaimana dimaksud
-dalam Pasal 108 dan Pasal 109, Penerbit wajib
+dalam Pasal 108 dan
+
+Pasal 109, Penerbit wajib
 
 -----
 

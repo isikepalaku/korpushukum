@@ -59,7 +59,7 @@ a
 
 - (5) Surat permintaan sebagaimana dimaksud pada ayat (4) ditembuskan kepada pimpinan Lembaga,
 
-**Pasa! 156**
+**Pasal 156**
 
 - (1) Penyidik, penuntut umum, atau hakim sebagaimana dimaksud dalam Pasal 155 ayat (1) dapat meminta bantuan Lembaga dalam penanganan perkara dalam tindak pidana Pelindungan Data Pribadi.
 

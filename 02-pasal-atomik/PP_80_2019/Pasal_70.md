@@ -23,7 +23,10 @@ mengamandemen: []
 
 Ayat (1) 
 
-Pedanjian pelaksanaan suatu pekerjaan yang diperjanjikan secara elektronik pada dasarnya tetap mengacu kepada karakteristik perjanjian pelaksanaan pekerjaan berdasarkan Pasal 1601 Kitab Undang-Undang Hukum Perdata dan peraturan perundangundangan, meliputi antara lain perjanjian sementara Jasa seperti konsultan, perjanjian pemborongan kerja yang menghasilkan suatu obyek tertentu, dan perjanjian perburuhan yang melaksanakan suatu pekerjaan berdasarkan upah. 
+Pedanjian pelaksanaan suatu pekerjaan yang diperjanjikan secara elektronik pada dasarnya tetap mengacu kepada karakteristik perjanjian pelaksanaan pekerjaan berdasarkan
+
+Pasal 1601
+Kitab Undang-Undang Hukum Perdata dan peraturan perundangundangan, meliputi antara lain perjanjian sementara Jasa seperti konsultan, perjanjian pemborongan kerja yang menghasilkan suatu obyek tertentu, dan perjanjian perburuhan yang melaksanakan suatu pekerjaan berdasarkan upah. 
 
 Ayat (2) 
 

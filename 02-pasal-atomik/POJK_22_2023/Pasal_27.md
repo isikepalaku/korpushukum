@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Kewajiban sebagaimana dimaksud dalam Pasal 26
+Kewajiban sebagaimana dimaksud dalam
+
+Pasal 26
 dikecualikan untuk:
 a. produk dan/atau layanan untuk pelaksanaan program
 pemerintah atau otoritas; dan/atau

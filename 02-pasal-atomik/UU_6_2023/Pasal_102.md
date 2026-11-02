@@ -51,3 +51,5 @@ d. dana padanan (seed capitat); dan e. kewajiban pelayanan universal (uniuersal 
 18. calon tenaga kerja asing dalam uji coba kemampuan dalam bekerja;
 19. meneruskan perjalanan ke negara lain; dan
 - 2O. bergabung dengan alat angkut yang berada di Wilayah Indonesia.
+
+Angka 3

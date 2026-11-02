@@ -34,6 +34,18 @@ mengamandemen:
 40. Di antara angka 16 dan angka 17 dalam Pasal 8 disisipkan 1 (satu) angka, yakni angka 16a sehingga berbunyi sebagai berikut:
 - 16a. Di antara Pasal 37A dan Pasal 38 disisipkan 1 (satu) pasal, yakni Pasal 37B sehingga berbunyi sebagai berikut:
 
+Pasal 37B
+
+- (1) Otoritas Jasa Keuangan berwenang melakukan pengelolaan kekayaan Otoritas Jasa Keuangan termasuk melakukan hapus buku dan hapus tagih terhadap aset berupa piutang dan aset lainnya.
+- (2) Pelaksanaan . . .
+
+**IIT{JTtr{T**
+
+- (21 Pelaksanaan hapus buku dan hapus tagih terhadap aset berupa piutang dan aset lainnya dilalsanakan sesuai dengan tata kelola yang baik.
+- (3) Ketentuan lebih lanjut mengenai hapus buku dan hapus tagih sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Dewan Komisioner Otoritas Jasa Keuangan setelah dikonsultasikan dengan DPR.
+41. Di antara angka 19 dan angka 2O dalam Pasal 8 disisipkan 4 (empat) angka, yakni angka 19a, angka 19b, angka 19c, dan angka 19d sehingga berbunyi sebagai berikut:
+- 19a. Ketentuan Pasal 41 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

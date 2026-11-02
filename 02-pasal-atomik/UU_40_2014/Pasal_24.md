@@ -28,9 +28,7 @@ mengamandemen: []
 
 (3) Ketentuan lebih lanjut mengenai [penutupan ] [Objek]
 
-**Asuransi sebagaimana dimaksud [pada ]ayat [(2) diatur] dalam Peraturan Otoritas Jasa Keuangan.**
-
-Pasa] 25
+**Asuransi sebagaimana dimaksud [pada ]ayat [(2) diatur] dalam Peraturan Otoritas Jasa Keuangan.**Pasal 25
 
 -----
 

@@ -17,9 +17,25 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**PRESIDEN REPUBLIK INDONESIA**
+Ruang lingkup Peraturan Pemerintah ini meliputi:
 
-13.
+- a, Data Pribadi;
+
+- b. pemrosesan Data Pribadi;
+
+- c. hak dan kewajiban;
+
+- d, transfer Data Pribadi ke luar wilayah hukum Negara Republik Indonesia;
+
+- e. Kerja Sama Internasional, f. partisipasi masyarakat,;
+
+- g pPpengawasan terhadap kepatuhan Pengendali Data Pribadi;
+
+- h, sanksi administratif; dan i. penyelesaian Sengketa,
+
+BAB II
+
+DATA PRIBADI
 
 ## Penjelasan Resmi
 

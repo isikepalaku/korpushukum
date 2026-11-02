@@ -20,7 +20,10 @@ mengamandemen: []
 Penilaian mengenai kriteria kepemilikan dan/atau
 pengendalian PSP pada BPR atau BPR Syariah yang diwajibkan
 untuk melakukan Penggabungan atau Peleburan sebagaimana
-dimaksud dalam Pasal 130 ayat (1) pertama kali
+dimaksud dalam
+
+Pasal 130
+ayat (1) pertama kali
 diperhitungkan dari komposisi kepemilikan dan/atau
 pengendalian PSP pada BPR atau BPR Syariah pada saat
 Peraturan OJK ini mulai berlaku.

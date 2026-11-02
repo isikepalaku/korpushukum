@@ -18,40 +18,77 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-48 huruf b, Pasal 49 huruf b, dan Pasal 50A ayat (2) hanya
+Dalam hal Reksa Dana berbentuk Kontrak Investasi
+Kolektif dibubarkan karena kondisi sebagaimana
+dimaksud dalam
+
+Pasal 45
+huruf a atau huruf b, Manajer
+Investasi wajib:
+a. menyampaikan laporan kondisi tersebut
+sebagaimana dimaksud dalam
+
+Pasal 45
+huruf a atau
+huruf b kepada Otoritas Jasa Keuangan dan
+mengumumkan rencana pembubaran Reksa Dana
+kepada para pemegang Unit Penyertaan paling sedikit
+dalam 1 (satu) surat kabar harian berbahasa
+Indonesia yang beredar secara nasional, paling
+lambat 2 (dua) hari bursa sejak berakhirnya jangka
+waktu sebagaimana dimaksud dalam
+
+Pasal 45
+huruf
+a atau huruf b;
+b. menginstruksikan kepada Bank Kustodian paling
+
+lambat 2 (dua) hari bursa sejak berakhirnya jangka
+waktu sebagaimana dimaksud dalam
+
+Pasal 45
+huruf
+a atau huruf b, untuk membayarkan hasil likuidasi
+berupa:
 
 -----
 
- - 15
-dapat dilakukan dalam kondisi sebagai berikut:
-a. Bursa Efek atau penyelenggara pasar dimana
-sebagian besar portofolio Efek Reksa Dana
-diperdagangkan ditutup;
-b. perdagangan Efek atas sebagian besar portofolio Efek
-Reksa Dana di Bursa Efek atau penyelenggara pasar
-dihentikan atau dibatalkan pencatatannya;
-c. keadaan darurat;
-d. Lembaga Penilai Harga Efek tidak menerbitkan
-referensi Harga Pasar Wajar;
-e. dilakukannya restrukturisasi atas Efek Bersifat
-Utang dan/atau sukuk oleh penerbit Efek Bersifat
-Utang dan/atau sukuk;
-f. turunnya peringkat Efek Bersifat Utang dan/atau
-sukuk atas sebagian besar atau seluruh portofolio
-investasi menjadi non investment grade;
-g. pemenuhan peraturan perundang-undangan;
-dan/atau
-h. terdapat kondisi dan hal lain yang ditetapkan dalam
-kontrak pengelolaan investasi.
+ - 11
+1. dana; dan/atau
+2. aset jika pemegang Unit Penyertaan menyetujui
+pembayaran dalam bentuk aset,
+yang menjadi hak pemegang Unit Penyertaan dengan
+ketentuan bahwa perhitungannya dilakukan secara
+proporsional dari Nilai Aktiva Bersih pada saat
+pembubaran namun tidak boleh lebih kecil dari Nilai
+Aktiva Bersih awal (harga par) dan dana atau aset
+tersebut diterima pemegang Unit Penyertaan paling
+lambat 7 (tujuh) hari bursa sejak berakhirnya jangka
+waktu sebagaimana dimaksud dalam
 
-13. Setelah Bagian Kedua Bab III ditambahkan 1 (satu) bagian,
-yakni Bagian Ketiga sehingga berbunyi sebagai berikut:
+Pasal 45
+huruf
+a atau huruf b; dan
+c. membubarkan Reksa Dana dalam jangka waktu
+paling lambat 10 (sepuluh) hari bursa sejak
+berakhirnya jangka waktu sebagaimana dimaksud
+dalam
 
-Bagian Ketiga
-Penerapan Fitur Multi Kelas Pada Reksa Dana
+Pasal 45
+huruf a atau huruf b, serta
+menyampaikan laporan pembubaran Reksa Dana
+kepada Otoritas Jasa Keuangan paling lambat 10
+(sepuluh) hari bursa sejak Reksa Dana dibubarkan
+yang disertai dengan:
 
-14. Di antara Pasal 67 dan Pasal 68 disisipkan 2 (dua) pasal,
-yakni Pasal 67A dan Pasal 67B sehingga berbunyi sebagai
+1. akta pembubaran Reksa Dana dari Notaris yang
+terdaftar di Otoritas Jasa Keuangan; dan
+2. laporan keuangan pembubaran Reksa Dana
+yang diaudit oleh Akuntan yang terdaftar di
+Otoritas Jasa Keuangan, jika Reksa Dana telah
+memiliki dana kelolaan.
+
+9. Ketentuan Pasal 47 diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -71,4 +108,5 @@ Cukup jelas.
 
 -----
 
- - 5
+ - 5 
+Angka 9

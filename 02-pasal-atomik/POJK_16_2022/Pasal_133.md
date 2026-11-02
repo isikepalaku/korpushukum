@@ -17,12 +17,15 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-b. penyediaan jasa teknologi informasi berupa
-aplikasi terhadap pihak sebagaimana dimaksud
-dalam Pasal 133 ayat (2) huruf a dan huruf b,
-dikecualikan dari persetujuan OJK sesuai dengan
-Peraturan OJK mengenai penyelenggaraan teknologi
-informasi oleh bank umum.
+(1) Bank dapat melakukan Sinergi Perbankan.
+(2) Sinergi Perbankan sebagaimana dimaksud pada ayat (1)
+meliputi sinergi:
+a. Bank dengan Bank atau bank umum konvensional
+dalam struktur kelompok usaha bank;
+b. PSP berupa Bank atau bank umum konvensional
+dengan Bank; atau
+c. Bank sebagai perusahaan induk terhadap lembaga
+jasa keuangan nonbank sebagai perusahaan anak.
 
 ## Penjelasan Resmi
 

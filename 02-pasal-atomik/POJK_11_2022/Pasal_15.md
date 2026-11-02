@@ -17,23 +17,49 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-ayat (1), Pasal 18 ayat (1), ayat (2), ayat (3), ayat (4),
+(1) Bank wajib menerapkan manajemen risiko secara
 
-dan/atau Pasal 19, Bank dikenai sanksi administratif
+efektif dalam penyelenggaraan TI.
 
-berupa:
+(2) Penerapan manajemen risiko sebagaimana dimaksud
 
-a. larangan untuk menerbitkan produk Bank baru;
+pada ayat (1) harus dilakukan secara terintegrasi
 
-b. pembekuan kegiatan usaha tertentu; dan/atau
+dalam setiap tahapan penyelenggaraan TI.
 
-c. penurunan penilaian faktor tata kelola dalam
+(3) Dalam menerapkan manajemen risiko sebagaimana
 
-penilaian tingkat kesehatan Bank.
+dimaksud pada ayat (1), Bank melakukan proses
 
-BAB V
+paling sedikit:
 
-KETAHANAN DAN KEAMANAN SIBER BANK
+a. identifikasi risiko;
+
+b. pengukuran risiko;
+
+c. pemantauan risiko; dan
+
+d. pengendalian risiko.
+
+(4) Bank wajib memastikan kecukupan sistem informasi
+
+manajemen risiko dalam penyelenggaraan TI.
+
+(5) Ketentuan lebih lanjut mengenai penerapan
+
+manajemen risiko dalam penyelenggaraan TI
+
+ditetapkan oleh Otoritas Jasa Keuangan.
+
+**t id**
+
+-----
+
+Bagian Kedua
+
+Pengamanan Informasi dalam
+
+Penyelenggaraan TI Bank
 
 ## Penjelasan Resmi
 

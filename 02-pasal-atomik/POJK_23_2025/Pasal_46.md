@@ -50,15 +50,24 @@ Huruf h
 Cukup jelas.
 Huruf i
 
-Lihat penjelasan Angka 28 Pasal 21 ayat (1)
+Lihat penjelasan Angka 28
+
+Pasal 21
+ayat (1)
 huruf g.
 Huruf j
 
-Lihat penjelasan Angka 28 Pasal 21 ayat (1)
+Lihat penjelasan Angka 28
+
+Pasal 21
+ayat (1)
 huruf h.
 Huruf k
 
-Lihat penjelasan Angka 28 Pasal 21 ayat (1)
+Lihat penjelasan Angka 28
+
+Pasal 21
+ayat (1)
 huruf i.
 Ayat (2)
 
@@ -78,3 +87,5 @@ Cukup jelas.
 Ayat (7)
 
 Cukup jelas.
+
+Angka 49

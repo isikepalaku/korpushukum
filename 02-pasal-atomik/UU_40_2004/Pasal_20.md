@@ -29,6 +29,12 @@ mengamandemen: []
 
  menjadi tanggungannya dengan penambahan iuran.
 
+Pasal 21 ...
+
+-----
+
+**- 11**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

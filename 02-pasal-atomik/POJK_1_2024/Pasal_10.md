@@ -22,7 +22,10 @@ memiliki kemampuan membayar pokok dan/atau bunga
 sesuai perjanjian Kredit dengan BPR, Otoritas Jasa Keuangan
 berwenang menurunkan kualitas Aset Produktif yang
 ditetapkan oleh BPR berdasarkan faktor penilaian
-sebagaimana dimaksud dalam Pasal 7 ayat (2).
+sebagaimana dimaksud dalam
+
+Pasal 7
+ayat (2).
 
 ## Penjelasan Resmi
 

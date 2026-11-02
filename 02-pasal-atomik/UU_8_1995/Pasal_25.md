@@ -28,6 +28,8 @@ mengamandemen: []
 
  mengumumkannya.
 
+Pasal 26…
+
 ## Penjelasan Resmi
 
 Cukup jelas.

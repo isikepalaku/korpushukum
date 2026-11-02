@@ -4,7 +4,7 @@ judul: "Map of Content - Perbankan 1998"
 kode_uu: UU_10_1998
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_10_1998]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Perbankan 1998 (UU_10_1998)

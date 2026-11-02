@@ -11,7 +11,6 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_46|UU 1/2013 Pasal 46]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_46|UU 1/2016 Pasal 46]]'
 - '[[02-pasal-atomik/UU_2_2009/Pasal_46|UU 2/2009 Pasal 46]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_46|UU 21/2008 Pasal 46]]'
@@ -37,3 +36,5 @@ Dalam rangka pengembangan dan penguatan sektor keuangan melalui penataan instrum
 ## Penjelasan Resmi
 
 Tokar menukar informasi antar-Bank dilakukan dengan memperhatikan tata kelola yang baik dan ketentuan peraturan perundang-undangan.
+
+Angka 36

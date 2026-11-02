@@ -4,7 +4,7 @@ judul: "Map of Content - Pelaksanaan UU Administrasi Kependudukan"
 kode_uu: PP_40_2019
 type: moc
 tags: [moc, hukum/pidana, uu/pp_40_2019]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Pelaksanaan UU Administrasi Kependudukan (PP_40_2019)
@@ -13,18 +13,13 @@ last_updated: 2026-11-01
 
 ## Daftar Pasal
 
-- [[Pasal_1]]: (1) Gubernur menyelenggarakan urusan Administrasi
+- [[Pasal_1]]: Dalam, Peraturan Pemerintah ini yang dimaksud dengan
 - [[Pasal_2]]: Urusan Administrasi Kependudukan diselenggarakan oleh
-- [[Pasal_2L]]: PRES I DEN
-- [[Pasal_2T]]: (1) Untuk menyelenggarakan urusan Administrasi
-- [[Pasal_3]]: (1) NIK terdiri dari 16 (enam belas) digit terdiri atas:
-- [[Pasal_4]]: (1) SIAK ditetapkan dan dikembangkan oleh Menteri.
-- [[Pasal_4L]]: data yang menghubungkan:
+- [[Pasal_3]]: (1) Menteri menyelenggarakan urusan Administrasi
+- [[Pasal_4]]: Dalam menyelenggarakan kewenangan sebagaimana
 - [[Pasal_5]]: Dalam menyelenggarakan kewenangan sebagaimana
 - [[Pasal_6]]: Dalam menyelenggarakan kewenangan sebagaimana
-- [[Pasal_6O]]: Pasal 6O
 - [[Pasal_7]]: Dalam menyelenggarakan kewenangan sebagaimana
-- [[Pasal_7O]]: Pasal 7O
 - [[Pasal_8]]: Dalam menyelenggarakan kewenangan sebagaimana
 - [[Pasal_9]]: (1) Dalam menyelenggarakan kewenangan sebagaimana
 - [[Pasal_10]]: (1) Dalam menyelenggarakan kewenangan sebagaimana
@@ -41,9 +36,9 @@ last_updated: 2026-11-01
 - [[Pasal_21]]: (1) Dalam menyelenggarakan kewenangan sebagaimana
 - [[Pasal_22]]: Bupati/wali kota melaksanakan kewenangan kegiatan
 - [[Pasal_23]]: (1) Pelaksanaan kewenangan penugasan kepada desa atau
-- [[Pasal_24]]: Dalam menyelenggarakan kewenangan sebagaimana
+- [[Pasal_24]]: Pasal 24
 - [[Pasal_25]]: (1) Untuk menyelenggarakan urusan Administrasi
-- [[Pasal_26]]: Dalam menyelenggarakan urusan
+- [[Pasal_26]]: Pasal 26
 - [[Pasal_27]]: Pasal 27
 - [[Pasal_28]]: (1) Penyelenggaraan urusan Administrasi Kependudukan
 - [[Pasal_29]]: Ketentuan mengenai pelaksanaan urusan Administrasi
@@ -59,15 +54,15 @@ last_updated: 2026-11-01
 - [[Pasal_39]]: (1) Perkawinan penghayat kepercayaan terhadap Tuhan
 - [[Pasal_40]]: (1) Pencatatan perkawinan penghayat kepercayaan
 - [[Pasal_41]]: Pasal 41
-- [[Pasal_42]]: Basis data sebagaimana dimaksud dalam Pasal 41 ayat (3)
+- [[Pasal_42]]: Basis data sebagaimana dimaksud dalam
 - [[Pasal_43]]: (1) Perangkat teknologi informasi dan komunikasi
 - [[Pasal_44]]: Sumber daya manusia sebagaimana dimaksud dalam
-- [[Pasal_45]]: Lokasi basis data sebagaimana dimaksud dalam Pasal 41
+- [[Pasal_45]]: Lokasi basis data sebagaimana dimaksud dalam
 - [[Pasal_46]]: Pengelolaan basis data sebagaimana dimaksud dalam
-- [[Pasal_47]]: (1) Pemeliharaan, pengamanan, dan pengawasan basis
+- [[Pasal_47]]: Pasal 47
 - [[Pasal_48]]: Perangkat pendukung sebagaimana dimaksud dalam
 - [[Pasal_49]]: (1) Tempat pelayanan sebagaimana dimaksud dalam
-- [[Pasal_50]]: Pusat data sebagaimana dimaksud dalam Pasal 41 ayat (3)
+- [[Pasal_50]]: Pusat data sebagaimana dimaksud dalam
 - [[Pasal_51]]: (1) Data cadangan dan pusat data cadangan sebagaimana
 - [[Pasal_52]]: Jaringan komunikasi data sebagaimana dimaksud dalam
 - [[Pasal_53]]: lanjut mengenai SIAK diatur dalam
@@ -88,4 +83,3 @@ last_updated: 2026-11-01
 - [[Pasal_68]]: Pada saat Peraturan Pemerintah ini mulai berlaku, semua
 - [[Pasal_69]]: Pada saat Peraturan Pemerintah ini mulai berlaku,
 - [[Pasal_70]]: Peraturan Pemerintah ini mulai berlaku pada tanggal
-- [[Pasal_84]]: Undang-Undang Nomor 23 Tahun 2006 tentang

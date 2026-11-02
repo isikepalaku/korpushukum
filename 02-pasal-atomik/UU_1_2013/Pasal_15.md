@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan lebih lanjut mengenai kegiatan usaha LKM sebagaimana
-dimaksud dalam Pasal 11 sampai dengan Pasal 14 diatur dalam Peraturan
+dimaksud dalam Pasal 11 sampai dengan
+
+Pasal 14
+diatur dalam Peraturan
 Otoritas Jasa Keuangan.
 
 Bagian Kedua

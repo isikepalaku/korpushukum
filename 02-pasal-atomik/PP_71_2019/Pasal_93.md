@@ -4,7 +4,7 @@ uu_induk: Penyelenggaraan Sistem dan Transaksi Elektronik
 kode_uu: PP_71_2019
 pasal: '93'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/siber
 - uu/pp_71_2019
@@ -23,4 +23,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukup as. Pasal 94 Cukupjelas.

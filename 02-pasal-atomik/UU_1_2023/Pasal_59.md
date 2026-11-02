@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '59'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -18,13 +18,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dipidana karena penadahan dengan pidana penjara paling lama 4 (empat) tahun atau pidana denda paling banyak kategori V, Setiap Orang yang:
+Pemberatan sebagaimana dimaksud dalam
 
-**PRESIDEN REPUELIK INDONESIA**
+Pasal 58
+dapat ditambah paling banyak 1/3 (satu per tiga) dari maksimum ancaman pidana.
 
-- a. membeli, menawarkan, menyewa, menukarkan, menerima jaminan atau gadai, menerima hadiah atau untuk menarik keuntungan, menjual, menyewakan, menukarkan, menggadaikan, mengangkut, menyimpan atau menyembunyikan suatu benda yang diketahui atau patut diduga bahwa benda tersebut diperoleh dari Tindak Pidana; atau
-2. menarik keuntungan dari hasil suatu benda, yang diketahui atau patut diduga bahwa benda tersebut diperoleh dari Tindak Pidana. b
+Paragraf 5 Ketentuan Lain tentang Pemidanaan
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini bertujuan memberi kepastian (petunjuk) bagi hakim dalam menjatuhkan pidana apabila terdapat hal-hal yang memperberat pidana dengan ditetapkannya maksimum ancaman pidananya ditambah 1/3 (satu per tiga).

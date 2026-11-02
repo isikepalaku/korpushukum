@@ -24,6 +24,8 @@ kebutuhan dalam negeri. Peraturan Pemerintah.
 
 - (2) SetiapIzinUsahayangtelahdiberikansebagaimanadimaksuddalamayat(1)hanyadapat digunakan sesuai dengan peruntukannya.
 
+Pasal 25 …
+
 ## Penjelasan Resmi
 
 Cukup jelas.

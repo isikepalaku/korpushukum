@@ -24,7 +24,9 @@ mengamandemen: []
 Bank Syariah atau UUS, anggota dewan komisaris, anggota
 Dewan Pengawas Syariah, direksi, dan/atau pegawai Bank
 Syariah atau Bank Umum Konvensional yang memiliki UUS
-yang melanggar Pasal 41 dan Pasal 44.
+yang melanggar Pasal 41 dan
+
+Pasal 44.
 
 (2) Pengenaan sanksi administratif sebagaimana dimaksud pada
 

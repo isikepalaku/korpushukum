@@ -21,6 +21,10 @@ mengamandemen:
 
 Status badan hukum Perusahaan Asuransi dan Perusahaan Asuransi Syariah yang dilikuidasi hapus terhitung sejak tanggal pengumuman berakhirnya likuidasi dalam Berita Negara Republik Indonesia sebagaimana dimaksud dalam Pasal 99 huruf a angka 1.
 
+Pasal 101 ...
+
+**PRESIDEN REPUBUK INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -18,7 +18,72 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-selain Bank Sistemik.
+(1) Bank Sistemik yang mengalami kesulitan likuiditas dapat
+
+mengajukan permohonan kepada Bank Indonesia untuk
+mendapatkan pinjaman likuiditas jangka pendek atau
+pembiayaan likuiditas jangka pendek berdasarkan prinsip
+syariah.
+
+(2) Dalam pemberian pinjaman likuiditas jangka pendek atau
+
+pembiayaan likuiditas jangka pendek berdasarkan prinsip
+syariah sebagaimana dimaksud pada ayat (1):
+
+a. Otoritas Jasa Keuangan melakukan penilaian
+mengenai pemenuhan persyaratan solvabilitas dan
+tingkat kesehatan Bank Sistemik; dan
+
+b. Bank Indonesia bersama Otoritas Jasa Keuangan
+
+melakukan penilaian mengenai pemenuhan
+persyaratan agunan dan perkiraan kemampuan Bank
+Sistemik untuk mengembalikan pinjaman likuiditas
+jangka pendek atau pembiayaan likuiditas jangka
+pendek berdasarkan prinsip syariah.
+
+(3) Pemberian pinjaman likuiditas jangka pendek atau
+pembiayaan likuiditas jangka pendek berdasarkan prinsip
+syariah harus dijamin dengan agunan yang berkualitas
+tinggi berupa surat berharga yang memiliki peringkat
+tinggi dan mudah dicairkan.
+
+(4) Dalam hal Bank Sistemik tidak memiliki agunan surat
+
+berharga sebagaimana dimaksud pada ayat (3) dalam
+jumlah yang cukup, Bank Sistemik dapat menggunakan
+aset kredit dengan kolektibilitas lancar sebagai agunan
+pinjaman likuiditas jangka pendek atau pembiayaan
+likuiditas jangka pendek berdasarkan prinsip syariah.
+
+(5) Berdasarkan hasil penilaian sebagaimana dimaksud pada
+
+ayat (2), Bank Indonesia memutuskan pemberian
+pinjaman likuiditas jangka pendek atau pembiayaan
+likuiditas jangka pendek berdasarkan prinsip syariah.
+
+(6) Pemberian . . .
+
+-----
+
+ - 15
+(6) Pemberian pinjaman likuiditas jangka pendek atau
+pembiayaan likuiditas jangka pendek berdasarkan prinsip
+syariah sebagaimana dimaksud pada ayat (5) dilakukan
+berdasarkan Undang-Undang ini dan Undang-Undang
+mengenai Bank Indonesia.
+
+(7) Otoritas Jasa Keuangan berkoordinasi dengan Bank
+
+Indonesia melakukan pengawasan terhadap Bank Sistemik
+yang menerima pinjaman likuiditas jangka pendek atau
+pembiayaan likuiditas jangka pendek berdasarkan prinsip
+syariah sebagaimana dimaksud pada ayat (5) untuk
+memastikan penggunaannya dan pelaksanaan rencana
+pembayarannya kembali sesuai dengan perjanjian.
+
+Bagian Keempat
+Penanganan Permasalahan Solvabilitas Bank Sistemik
 
 ## Penjelasan Resmi
 

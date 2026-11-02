@@ -18,9 +18,16 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-BABXVI
+Setiap Pihak yang melanggar ketentuan sebagaimana
+dimaksud dalam Pasal 90,
 
- KETENTUAN LAIN-LAIN
+Pasal 91, Pasal 92,
+Pasal 93,
+
+Pasal 95, Pasal 96, Pasal 97 ayat (1),
+dan Pasal 98 diancam dengan pidana penjara paling
+lama 10 (sepuluh) tahun dan denda paling banyak
+Rp15.000.000.000,00 (lima belas miliar rupiah).
 
 ## Penjelasan Resmi
 

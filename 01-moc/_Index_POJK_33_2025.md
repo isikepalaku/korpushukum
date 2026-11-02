@@ -4,7 +4,7 @@ judul: "Map of Content - Penilaian Tingkat Kesehatan Perusahaan Perasuransian, L
 kode_uu: POJK_33_2025
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_33_2025]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Penilaian Tingkat Kesehatan Perusahaan Perasuransian, Lembaga Penjamin, dan Dana Pensiun (POJK_33_2025)

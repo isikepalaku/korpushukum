@@ -4,7 +4,7 @@ judul: "Map of Content - Jaminan Fidusia"
 kode_uu: UU_42_1999
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_42_1999]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Jaminan Fidusia (UU_42_1999)
@@ -26,18 +26,18 @@ last_updated: 2026-11-01
 - [[Pasal_11]]: (1) Benda yang dibebani dengan Jaminan Fidusia wajib didaftarkan.
 - [[Pasal_12]]: (1) Pendaftaran Jaminan Fidusia sebagaimana dimaksud dalam Pasal 11
 - [[Pasal_13]]: (1) Permohonan pendaftaran Jaminan Fidusia dilakukan oleh Penerima
-- [[Pasal_14]]: (2) Sertifikat Jaminan Fidusia sebagaimana dimaksud dalam ayat (1)
-- [[Pasal_15]]: b. penjualan Benda yang menjadi objek Jaminan Fidusia atas
+- [[Pasal_14]]: (1) Kantor Pendaftaran Fidusia menerbitkan dan menyerahkan kepada
+- [[Pasal_15]]: (1) Dalam Sertifikat Jaminana Fidusia sebagaimana dimaksud dalam
 - [[Pasal_16]]: (1) Apabila terjadi perubahan mengenai hal-hal yang tercantum dalam
 - [[Pasal_17]]: -----
 - [[Pasal_18]]: Segala keterangan mengenai Benda yang menjadi objek Jaminan Fidusia yang ada pada Kantor Pendaftaran Fidusia terbuka untuk umum.
 - [[Pasal_19]]: (1) Pengalihan hak atas piutang yang dijaminan dengan fidusia
 - [[Pasal_20]]: Jaminan Fidusia tetap mengikuti Benda yang menjadi objek Jaminan Fidusia dalam tangan siapapun Benda tersebut berada, kecuali peng...
-- [[Pasal_21]]: (2) Pemberi Fidusia dilarang mengalihkan, menggadaikan, atau
+- [[Pasal_21]]: (1) Pemberi Fidusia dapat mengalihkan benda persediaan yang menjadi
 - [[Pasal_22]]: Pembeli benda yang menjadi objek Jaminan Fidusia yang merupakan
 - [[Pasal_23]]: (1) Dengan tidak mengurangi ketentuan sebagaimana dimaksud dalam
 - [[Pasal_24]]: Penerima Fidusia tidak menanggung kewajiban atas akibat tindakan atau kelalaian Pemberi Fidusia baik yang timbul dari hubungan kon...
-- [[Pasal_25]]: (2) Kantor Pendaftaran Fidusia menerbitkan surat keterangan yang
+- [[Pasal_25]]: (1) Jaminan Fidusia hapus karena hal-hal sebagai berikut:
 - [[Pasal_26]]: (1) Dengan hapusnya Jaminan Fidusia sebagaimana dimaksud dalam
 - [[Pasal_27]]: (1) Penerima Fidusia memiliki hak yang didahulukan terhadap kreditor
 - [[Pasal_28]]: Apabila atas Benda yang sama menjadi objek Jaminan Fidusia lebih dari 1 (satu) perjanjian Jaminan Fidusia, maka hak yang didahuluk...
@@ -51,6 +51,6 @@ last_updated: 2026-11-01
 - [[Pasal_36]]: Pemberi Fidusia yang mengalihkan, menggadaikan, atau menyewakan Benda yang menjadi objek Jaminan Fidusia sebagaimana dimaksud dala...
 - [[Pasal_37]]: (1) Pembebanan Benda yang menjadi objek Jaminan Fidusia yang telah
 - [[Pasal_38]]: Sepanjang tidak bertentangan dengan ketentuan dalam Undang-undang ini, semua peraturan perundang-undangan mengenai fidusia tetap b...
-- [[Pasal_39]]: Kantor Pendaftaran Fidusia sebagaimana dimaksud dalam Pasal 12 ayat (2) dibentuk dalam jangka waktu paling lambat 1 (satu) tahun s...
+- [[Pasal_39]]: Kantor Pendaftaran Fidusia sebagaimana dimaksud dalam
 - [[Pasal_40]]: Undang-undang ini disebut Undang-undang Fidusia.
 - [[Pasal_41]]: Undang-undang ini mulai berlaku pada tanggal diundangkan.

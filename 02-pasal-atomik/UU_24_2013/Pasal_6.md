@@ -61,6 +61,8 @@ penyelenggaraan
 Administrasi Kependudukan.
 
 4. Ketentuan ayat (1) huruf g Pasal 7 diubah, sehingga
+Pasal 7
+berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -77,4 +79,5 @@ pertama yang diterbitkan tanggal 30 Juni dan
 semester kedua yang diterbitkan tanggal 31 
 Desember. 
 Huruf e 
-Cukup jelas.
+Cukup jelas. 
+Angka 4

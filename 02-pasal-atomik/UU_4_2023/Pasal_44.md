@@ -11,7 +11,6 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_44|UU 1/2013 Pasal 44]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_44|UU 1/2016 Pasal 44]]'
 - '[[02-pasal-atomik/UU_2_2009/Pasal_44|UU 2/2009 Pasal 44]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_44|UU 21/2008 Pasal 44]]'
@@ -36,6 +35,12 @@ mengamandemen:
 - (2) Kontrak pintar (smart contract) dan/atau hasil cetaknya dapat menjadi alat bukti hukum yang sah sebagaimana diatur dalam undang-undang mengenai informasi dan transaksi elektronik.
 - (3) Penggunaan kontrak pintar (smart contract) diikuti penyimpanan kesepakatan yang paling sedikit memuat syarat dan ketentuan mengenai otomasi pelaksanaan hak dan kewajiban berdasarkan smart contract.
 - (4) Pengaturan mengenai kontrak pintar (smart contract) mengacu kepada pengaturan lebih lanjut oleh otoritas di sektor keuangan dengan memperhatikan peraturan perundang-undangan mengenai informasi dan transaksi elektronik.
+
+Pasal 45 ...
+
+**PRESIDEN . REPUBUK INOONESIA**
+
+**-273 -**
 
 ## Penjelasan Resmi
 

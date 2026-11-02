@@ -23,8 +23,7 @@ Ketentuan lebih lanjut mengenai perencanaan Tenaga Medis dan Tenaga Kesehatan di
 
 ## Pengadaan Tenaga Medis dan Tenaga Kesehatan
 
-## Pasal 2O7
-
+## Pasal 207
 - (1) Pengadaan Tenaga Medis dan Tenaga Kesehatan dilaksanakan sesuai dengan perencanaan dan pendayagunaan Tenaga Medis dan Tenaga Kesehatan.
 2. (2t Pengadaan Tenaga Medis dan Tenaga Kesehatan dilakukan melalui pendidikan tinggi dengan memperhatikan:
 - a. ketersediaan dan persebaran institusi pendidikan dan/ atau program studi pendidikan Tenaga Medis dan Tenaga Kesehatan pada setiap wilayah;

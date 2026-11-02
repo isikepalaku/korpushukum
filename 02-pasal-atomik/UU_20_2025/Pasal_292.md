@@ -22,7 +22,10 @@ mengamandemen: []
 
 **tanggal sidang pemeriksaan dalam hal:**
  a. memandang perlu untuk mendengar kembali
- Keterangan Saksi dan/atau Ahli berdasarkan permintaan Penuntut Umum dan/atau Terdakwa sebagaimana dimaksud dalam Pasal 29O ayat (l);
+ Keterangan Saksi dan/atau Ahli berdasarkan permintaan Penuntut Umum dan/atau Terdakwa sebagaimana dimaksud dalam
+
+Pasal 290
+ayat (l);
 dan /atau
 **b. memandang perlu untuk mendengar kembali**
  keterangan Terdakwa, Penuntut Umum, Saksi dan/atau Ahli yang tidak dimintakan untuk didengar kembali.

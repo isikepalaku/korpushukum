@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Dewan Komisaris wajib melakukan pengawasan efektif
 terhadap pelaksanaan kebijakan perkreditan
-sebagaimana dimaksud dalam Pasal 45 ayat (1).
+sebagaimana dimaksud dalam
+
+Pasal 45
+ayat (1).
 (2) Pengawasan efektif yang dilakukan oleh Dewan Komisaris
 sebagaimana dimaksud pada ayat (1) paling sedikit:
 a. menelaah dan menyetujui kebijakan perkreditan BPR

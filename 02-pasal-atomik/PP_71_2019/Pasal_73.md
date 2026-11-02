@@ -37,13 +37,17 @@ mengamandemen: []
 
 - (6) Ketentuan, lebih lanjut mengenai persyaratan pembentukan lrmbaga Sertifikasi Keandalan diatur dengan Peraturan Menteri.
 
-**Pasal T4**
+**Pasal 74**
 
 - (1) Sertifikat Keandalan bertujuan melindungi konsumen dalam Transaksi Elektronik.
 
 - (21 Sertifrkat Keandalan sebagaimana dimaksud pada ayat (1) merupakan jaminan bahwa Pelaku Usaha telah memenuhi kriteria yang ditentukan oleh lembaga Sertifikasi Keandalan.
 
 - (3) Pelaku Usaha yang telah memenuhi kriteria sebagaimana dimaksud pada ayat (2) berhak menggunakan Sertifrkat Keandalan pada laman dan/ atau Sistem Elektronik lainnya.
+
+Pasal 75. . .
+
+**FRESIIIEN REPUBLIK INDONESIA**
 
 ## Penjelasan Resmi
 

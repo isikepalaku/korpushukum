@@ -20,7 +20,9 @@ mengamandemen: []
 
 (1) Berdasarkan pemberitahuan penghapusan sebagaimana
 
-dimaksud dalam Pasal 19, Jaminan Fidusia dihapus dari
+dimaksud dalam
+
+Pasal 19, Jaminan Fidusia dihapus dari
 
 daftar Jaminan Fidusia dan diterbitkan surat keterangan
 
@@ -30,7 +32,9 @@ Fidusia yang bersangkutan tidak berlaku lagi.
 
 (2) Jika Pemohon tidak memberitahukan penghapusan
 
-Jaminan Fidusia sebagaimana dimaksud dalam Pasal 19,
+Jaminan Fidusia sebagaimana dimaksud dalam
+
+Pasal 19,
 
 Jaminan Fidusia yang bersangkutan tidak dapat
 

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-WK yang melakukan kegiatan usaha bulion (bullion) sebagaimana dimaksud dalam Pasal 130 wajib memperoleh izin dari Otoritas Jasa Keuangan.
+WK yang melakukan kegiatan usaha bulion (bullion) sebagaimana dimaksud dalam
+
+Pasal 130
+wajib memperoleh izin dari Otoritas Jasa Keuangan.
 
 ## Penjelasan Resmi
 

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '361'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -26,4 +26,4 @@ Penggunaan Kepangkatan, Gelar, dan Tanda Kebesaran
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini merupal&lt;an Tindak Pidana yang dikenal sebagai pelaporan atau pengaduan palsu. Yang dilaporkan atau diadut&lt;an adalah terjadinya Tindak Pidana, bukan perbuatan yang tidak merupakan Tindak Pidana.

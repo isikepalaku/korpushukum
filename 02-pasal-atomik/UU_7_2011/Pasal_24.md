@@ -27,6 +27,12 @@ kata spesimen.
 
 Rupiah Tiruan.
 
+Pasal 25 . . .
+
+-----
+
+ - 13
+
 ## Penjelasan Resmi
 
 Cukup jelas.

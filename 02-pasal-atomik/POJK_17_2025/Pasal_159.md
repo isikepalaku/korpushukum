@@ -20,7 +20,9 @@ mengamandemen: []
 Penyelenggara yang telah memperoleh izin usaha dari
 Otoritas Jasa Keuangan sebelum Peraturan Otoritas Jasa
 Keuangan ini berlaku tidak wajib memenuhi persyaratan
-modal disetor sebagaimana dimaksud dalam Pasal 9.
+modal disetor sebagaimana dimaksud dalam
+
+Pasal 9.
 
 ## Penjelasan Resmi
 

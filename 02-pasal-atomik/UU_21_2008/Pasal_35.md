@@ -46,6 +46,12 @@ Pembiayaan Rakyat Syariah.
 rugi kepada publik dalam waktu dan bentuk yang ditentukan
 oleh Bank Indonesia.
 
+Pasal 36 . . .
+
+-----
+
+ - 22
+
 ## Penjelasan Resmi
 
 Ayat (1)

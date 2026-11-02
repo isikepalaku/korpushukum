@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Otoritas Jasa Keuangan memberikan persetujuan atau
 penolakan atas permohonan izin konversi sebagaimana
-dimaksud dalam Pasal 14 ayat (6) dalam jangka waktu
+dimaksud dalam
+
+Pasal 14
+ayat (6) dalam jangka waktu
 paling lama 20 (dua puluh) hari kerja sejak permohonan
 diterima secara lengkap.
 (2) Untuk memberikan persetujuan atau penolakan

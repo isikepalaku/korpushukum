@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengelolaan Basis Data sebagaimana dimaksud dalam Pasal 3 
+Pengelolaan Basis Data sebagaimana dimaksud dalam
+
+Pasal 3
 ayat 
 (1) 
 huruf 

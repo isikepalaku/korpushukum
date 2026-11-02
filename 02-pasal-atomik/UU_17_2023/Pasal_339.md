@@ -81,6 +81,9 @@ Yang dimaksud dengan "etika, hukum, dan medikolegal" adalah penyelenggaraan biob
 
 Hurufh
 
-Yang dimalsud dengan "sosial budaya" adalah penyelenggaraan biobank dan/atau biorepositori dilaksanakan dengan memperhatikan praktik empiris di negara lain dengan memperhatikan sosial budaya di Indonesia. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Pasal 340 Ayat (1) Cukup jelas. Ayat (2) Hurufa Cukup jelas. Hurufb Yang dimaksud dengan "tujuan utama penelitian" adalah alasan utama dilaksanakannya penelitian untuk menjawab pertanyaan utama penelitian baik berupa identifikasi serta penjelasan konsep atau memprediksi situasi/ solusi atas permasalahan tertentu. Huruf c Cukup jelas. Ayat (3) Yang dimaksud dengan "perjanjian alih material" adalah pe{anjian tentang perpindahtanganan suatu material, muatan informasi, dan/atau data antara dua penyelenggara atau lembaga, dengan pihak pertama sebagai pengirim, penyedia, pembawa, atau negara asa-l dan pihak kedua sebagai penerima, pengguna, pengolah, yang merupakan bagian tidak terpisahkan dari perjanjian kerja sama penelitian dan/ atau kerja sama lainnya. Ayat (4)
+Yang dimalsud dengan "sosial budaya" adalah penyelenggaraan biobank dan/atau biorepositori dilaksanakan dengan memperhatikan praktik empiris di negara lain dengan memperhatikan sosial budaya di Indonesia. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas.
+
+Pasal 340
+Ayat (1) Cukup jelas. Ayat (2) Hurufa Cukup jelas. Hurufb Yang dimaksud dengan "tujuan utama penelitian" adalah alasan utama dilaksanakannya penelitian untuk menjawab pertanyaan utama penelitian baik berupa identifikasi serta penjelasan konsep atau memprediksi situasi/ solusi atas permasalahan tertentu. Huruf c Cukup jelas. Ayat (3) Yang dimaksud dengan "perjanjian alih material" adalah pe{anjian tentang perpindahtanganan suatu material, muatan informasi, dan/atau data antara dua penyelenggara atau lembaga, dengan pihak pertama sebagai pengirim, penyedia, pembawa, atau negara asa-l dan pihak kedua sebagai penerima, pengguna, pengolah, yang merupakan bagian tidak terpisahkan dari perjanjian kerja sama penelitian dan/ atau kerja sama lainnya. Ayat (4)
 
 Cukup jelas.

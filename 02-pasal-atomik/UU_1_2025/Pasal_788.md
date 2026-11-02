@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Rencana Privatisasi sebagaimana dimaksud dalam Pasal 78A harus dalam program tahunan Privatisasi yang disusun oleh Menteri.
+Rencana Privatisasi sebagaimana dimaksud dalam
+
+Pasal 78A harus dalam program tahunan Privatisasi yang disusun oleh Menteri.
 
 **PRESIDEN REPUBLIK INDONESIA**
 
@@ -34,3 +36,5 @@ Rencana Privatisasi BUMN dalam tahun anggaran yang bersangkutan untuk memenuhi t
 Angka 136
 
 Cukup jelas.
+
+Angka 137

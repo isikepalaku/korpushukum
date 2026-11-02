@@ -4,7 +4,7 @@ judul: "Map of Content - Pengembangan dan Penguatan Pengelolaan Investasi di Pas
 kode_uu: POJK_33_2024
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_33_2024]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Pengembangan dan Penguatan Pengelolaan Investasi di Pasar Modal (POJK_33_2024)
@@ -34,7 +34,7 @@ last_updated: 2026-11-01
 - [[Pasal_19]]: (1) Dalam hal Manajer Investasi menentukan Reksa Dana
 - [[Pasal_20]]: Dalam hal Reksa Dana melakukan investasi pada Efek
 - [[Pasal_21]]: Dalam hal Manajer Investasi menentukan Reksa Dana
-- [[Pasal_22]]: 26 ayat (1), dikenai sanksi administratif.
+- [[Pasal_22]]: Reksa Dana Target Waktu dalam Peraturan Otoritas Jasa
 - [[Pasal_23]]: (1) Nama Reksa Dana Target Waktu wajib mencantumkan:
 - [[Pasal_24]]: (1) Manajer Investasi wajib menentukan komposisi
 - [[Pasal_25]]: (1) Penghitungan nilai aktiva bersih Reksa Dana Target

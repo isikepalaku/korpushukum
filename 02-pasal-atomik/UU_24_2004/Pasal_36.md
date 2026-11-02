@@ -34,7 +34,10 @@ mengamandemen: []
 
  lama melakukan penyetoran modal sebagaimana
 
- dimaksud dalam Pasal 33 huruf a.
+ dimaksud dalam
+
+Pasal 33
+huruf a.
 
  (2) Apabila setelah penggunaan hasil penjualan saham bank
 

@@ -23,7 +23,10 @@ mengamandemen: []
 dan Pasal 32 bersifat rahasia.
 
 (2) Persyaratan dan tata cara pemeriksaan sebagaimana dimaksud
-dalam Pasal 31 dan Pasal 32 ditetapkan oleh Bank Indonesia.
+dalam Pasal 31 dan
+
+Pasal 32
+ditetapkan oleh Bank Indonesia.
 
 ## Penjelasan Resmi
 

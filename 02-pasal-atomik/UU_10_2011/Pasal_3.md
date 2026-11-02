@@ -24,6 +24,8 @@ Kontrak Derivatif Syariah, dan/atau Kontrak Derivatif
 lainnya diatur dengan Peraturan Kepala Bappebti.
 
 4. Ketentuan Pasal 4 ayat (1) dan ayat (3) diubah sehingga
+Pasal 4
+berbunyi sebagai berikut:
 
 ## Penjelasan Resmi
 
@@ -38,3 +40,5 @@ merupakan kewenangan Bappebti, hal itu dimaksudkan
 untuk memudahkan penetapan kontrak sehingga dapat
 dengan cepat merespons perkembangan Perdagangan
 Berjangka yang bersifat global.
+
+Angka 4

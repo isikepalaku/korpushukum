@@ -17,29 +17,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-komunikasi data Otoritas Jasa Keuangan.
-(2) Dengan penyampaian permohonan perizinan,
-permohonan persetujuan, dan pelaporan kepada
-Otoritas Jasa Keuangan secara dalam jaringan
-sebagaimana dimaksud pada ayat (1), Perusahaan tidak
-perlu menyampaikan dokumen cetak.
-(3) Perusahaan wajib mempertanggungjawabkan setiap
-dokumen yang disampaikan secara dalam jaringan
-melalui sistem jaringan komunikasi data Otoritas Jasa
-Keuangan merupakan dokumen sesuai dengan
-dokumen aslinya.
-(4) Dalam hal sistem jaringan komunikasi data Otoritas
-Jasa Keuangan sebagaimana dimaksud pada ayat (1)
-belum tersedia atau mengalami gangguan teknis,
-Perusahaan menyampaikan permohonan perizinan,
-permohonan persetujuan, dan pelaporan dalam bentuk
-data elektronik melalui surat elektronik yang
-ditetapkan oleh Otoritas Jasa Keuangan.
-(5) Ketentuan lebih lanjut mengenai permohonan
-perizinan, permohonan persetujuan, dan pelaporan
-melalui sistem jaringan komunikasi data Otoritas Jasa
-Keuangan sebagaimana dimaksud pada ayat (1)
-ditetapkan oleh Otoritas Jasa Keuangan.
+(1) Perusahaan wajib menetapkan pemilik manfaat dari
+Perusahaan.
+(2) Penetapan pemilik manfaat Perusahaan dilaksanakan
+sesuai dengan ketentuan peraturan perundangundangan yang mengatur mengenai penerapan
+prinsip mengenali pemilik manfaat dari korporasi
+dalam rangka penerapan program anti pencucian
+uang, pendanaan terorisme, pendanaan proliferasi
+senjata pemusnah massal, dan kejahatan keuangan
+lain.
+(3) Perusahaan wajib menyampaikan laporan atas
+penetapan pemilik manfaat sebagaimana dimaksud
+pada ayat (1) atau perubahan pemilik manfaat, paling
+lambat 10 (sepuluh) hari kerja setelah dilakukannya
+penetapan atau perubahan atas pemilik manfaat
+Perusahaan.
+(4) Selain penetapan pemilik manfaat sebagaimana
+dimaksud pada ayat (1), Otoritas Jasa Keuangan dapat
+menetapkan pihak yang memenuhi syarat sebagai
+pemilik manfaat Perusahaan.
+
+-----
 
 ## Penjelasan Resmi
 

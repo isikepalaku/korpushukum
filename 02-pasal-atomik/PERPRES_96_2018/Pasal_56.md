@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pelaporan anak yang telah memilih kewarganegaraan
-Republik Indonesia sebagaimana dimaksud dalam Pasal 55
+Republik Indonesia sebagaimana dimaksud dalam
+
+Pasal 55
 ayat (3) harus memenuhi persyaratan:
 a. Keputusan Menteri yang menyelenggarakan urusan
 pemerintahan di bidang hukum tentang perubahan status

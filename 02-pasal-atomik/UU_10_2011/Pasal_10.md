@@ -39,3 +39,5 @@ wajar, efisien, dan transparan. Selain itu, tersedianya sistem
 dan sarana dimaksud memungkinkan Bursa Berjangka
 melakukan pengawasan terhadap anggotanya dengan lebih
 efektif.
+
+Angka 8

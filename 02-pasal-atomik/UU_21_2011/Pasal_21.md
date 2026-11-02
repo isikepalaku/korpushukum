@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam melaksanakan kewenangan sebagaimana dimaksud
-dalam Pasal 6, Dewan Komisioner menetapkan Peraturan
+dalam
+
+Pasal 6, Dewan Komisioner menetapkan Peraturan
 OJK, Peraturan Dewan Komisioner, dan/atau Keputusan
 Dewan Komisioner.
 

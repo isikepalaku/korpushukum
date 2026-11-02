@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pada saat Peraturan Menteri ini mulai berlaku, pelaporan hasil penilaian mandiri atas Produk, Layanan, dan Fitur oleh Penyelenggara Sistem Elektronik sebagaimana dimaksud dalam Pasal 21 ayat (1) disampaikan kepada Menteri melalui Direktur Jenderal paling lambat 3 (tiga) bulan sejak Peraturan Menteri ini diundangkan.
+Pada saat Peraturan Menteri ini mulai berlaku, pelaporan hasil penilaian mandiri atas Produk, Layanan, dan Fitur oleh Penyelenggara Sistem Elektronik sebagaimana dimaksud dalam
+
+Pasal 21
+ayat (1) disampaikan kepada Menteri melalui Direktur Jenderal paling lambat 3 (tiga) bulan sejak Peraturan Menteri ini diundangkan.
 
 ## Penjelasan Resmi
 

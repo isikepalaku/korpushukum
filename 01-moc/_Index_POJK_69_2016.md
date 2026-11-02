@@ -4,7 +4,7 @@ judul: "Map of Content - Penyelenggaraan Usaha Perusahaan Asuransi, Perusahaan A
 kode_uu: POJK_69_2016
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_69_2016]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Penyelenggaraan Usaha Perusahaan Asuransi, Perusahaan Asuransi Syariah, Perusahaan Reasuransi, dan Perusahaan Reasuransi Syariah (POJK_69_2016)
@@ -15,13 +15,13 @@ last_updated: 2026-11-01
 
 - [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini yang
 - [[Pasal_2]]: (1) Perusahaan Asuransi Umum hanya dapat
-- [[Pasal_3]]: ayat (3), Pasal 8 ayat (1), ayat (2), dan ayat (3),
+- [[Pasal_3]]: Pasal 8
 - [[Pasal_4]]: Ruang lingkup usaha Perusahaan Asuransi atau
-- [[Pasal_5]]: (1) dan ayat (2), Pasal 9, Pasal 12 ayat (3), Pasal
+- [[Pasal_5]]: (1) dan ayat (2), Pasal 9, Pasal 12 ayat (3), Pasal 14, Pasal 15 ayat (1), ayat (2), ayat (4), dan ayat
 - [[Pasal_6]]: perluasan ruang lingkup usaha pada kegiatan usaha
 - [[Pasal_7]]: (1) Selain memenuhi ketentuan sebagaimana dimaksud
 - [[Pasal_8]]: (1) Selain memenuhi ketentuan sebagaimana dimaksud
-- [[Pasal_9]]: ayat (1), ayat (2), ayat (4), dan ayat (5), Pasal 16
+- [[Pasal_9]]: Pasal 16
 - [[Pasal_10]]: (1) Untuk mendapatkan persetujuan perluasan ruang
 - [[Pasal_11]]: (1) Apabila dalam jangka waktu 20 (dua puluh) hari kerja
 - [[Pasal_12]]: (1) Total pendapatan jasa yang diperoleh Perusahaan
@@ -32,7 +32,7 @@ last_updated: 2026-11-01
 - [[Pasal_17]]: (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 - [[Pasal_18]]: Perusahaan Asuransi, Perusahaan Asuransi Syariah, atau
 - [[Pasal_19]]: Dalam hal Agen Asuransi tidak lagi menjadi Agen Asuransi
-- [[Pasal_20]]: ayat (1), Pasal 26, Pasal 27 ayat (2), Pasal 28,
+- [[Pasal_20]]: Pasal 26, Pasal 27 ayat (2), Pasal 28,
 - [[Pasal_21]]: (1) Penyelesaian sengketa Perusahaan Asuransi,
 - [[Pasal_22]]: (1) Perusahaan atau Unit Syariah dapat menerima
 - [[Pasal_23]]: Dalam hal penutupan asuransi atau asuransi syariah
@@ -48,24 +48,24 @@ last_updated: 2026-11-01
 - [[Pasal_33]]: (1) Perjanjian reasuransi atau perjanjian reasuransi
 - [[Pasal_34]]: Perusahaan atau Unit Syariah wajib memiliki pedoman
 - [[Pasal_35]]: 
-- [[Pasal_36]]: dan ayat (3), Pasal 40, Pasal 41, Pasal 44 ayat (3),
+- [[Pasal_36]]: Pasal 39
 - [[Pasal_37]]: (1) Perusahaan atau Unit Syariah dilarang melakukan
-- [[Pasal_38]]: ayat (2), dan ayat (3), Pasal 40, Pasal 41, Pasal 44
+- [[Pasal_38]]: Pasal 40, Pasal 41, Pasal 44
 - [[Pasal_39]]: (1) Dalam hal Perusahaan Asuransi, Perusahaan Asuransi
 - [[Pasal_40]]: (1) Perusahaan atau Unit Syariah wajib menyelesaikan
 - [[Pasal_41]]: (1) Perusahaan atau Unit Syariah wajib menerapkan segenap
 - [[Pasal_42]]: (1) Tenaga ahli Perusahaan Asuransi, Perusahaan
 - [[Pasal_43]]: (1) Tenaga ahli Perusahaan Reasuransi, Perusahaan
 - [[Pasal_44]]: (1) Aktuaris Perusahaan atau Unit Syariah memiliki tugas
-- [[Pasal_45]]: dan ayat (2), Pasal 49, Pasal 50, Pasal 51 ayat (2),
+- [[Pasal_45]]: Pasal 47, Pasal 48 ayat (1)
 - [[Pasal_46]]: (1) Perusahaan atau Unit Syariah wajib memiliki unit
 - [[Pasal_47]]: 
 - [[Pasal_48]]: (1) Situs web Perusahaan atau Unit Syariah
 - [[Pasal_49]]: (1) Kegiatan usaha Perusahaan atau Unit Syariah wajib
-- [[Pasal_50]]: (6), dan ayat (7), Pasal 61, Pasal 63, Pasal 65 ayat
+- [[Pasal_50]]: Pasal 55
 - [[Pasal_51]]: (1) Perusahaan atau Unit Syariah dapat
 - [[Pasal_52]]: Perusahaan atau Unit Syariah dapat menyelenggarakan
-- [[Pasal_53]]: (5), ayat (6), dan ayat (8), Pasal 55 ayat (2), Pasal
+- [[Pasal_53]]: (5), ayat (6), dan ayat (8), Pasal 55 ayat (2), Pasal 56 ayat (2) dan ayat (4), Pasal 57 ayat (2), Pasal 58 ayat (2), Pasal 59 aya...
 - [[Pasal_54]]: (1) Polis asuransi syariah dan perjanjian reasuransi
 - [[Pasal_55]]: (1) Perusahaan Asuransi Syariah, Perusahaan Reasuransi
 - [[Pasal_56]]: (1) Akad _Tabarru’ atau Akad_ _Hibah_ _Tanahud_ yang

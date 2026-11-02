@@ -18,24 +18,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(3) Dalam hal permohonan persetujuan sebagaimana
-dimaksud pada ayat (2) huruf a, huruf c, huruf e dan
-huruf f pemohon melampirkan hasil audit atau
-pemeriksaan oleh lembaga independen yang memiliki
-kompetensi di bidang sistem informasi dan formulir
-daftar kesiapan infrastruktur sistem tercantum dalam
-Lampiran pada Bagian K yang merupakan bagian tidak
-terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
-(4) Dalam hal permohonan persetujuan sebagaimana
-dimaksud pada ayat (2) huruf b, huruf d, dan huruf g,
-pemohon melampirkan dokumen peraturan dan tata
-tertib atau tata cara yang dimaksud.
-(5) Dalam hal permohonan persetujuan sebagaimana
-dimaksud pada ayat (2) huruf h dan huruf j pemohon
-melampirkan penjelasan rencana kegiatan yang
-dimaksud.
-(6) Dalam hal permohonan persetujuan sebagaimana
-dimaksud pada ayat (2) huruf i pemohon melampirkan
+(1) Pasar Aset Keuangan Digital dapat didukung dengan
+aktivitas penunjang.
+(2) Aktivitas penunjang sebagaimana dimaksud pada ayat
+(1) meliputi:
+a. layanan penghubung terkait penyedia jasa
+pembayaran;
+b. penyedia jasa fasilitasi transaksi Aset Keuangan
+Digital; dan
+c. aktivitas penunjang lain,
+yang mendapatkan persetujuan dari Otoritas Jasa
+Keuangan.
+(3) Penyelenggara Perdagangan Aset Keuangan Digital
+dilarang:
+a. bekerja sama dengan aktivitas penunjang yang
+belum mendapatkan persetujuan Otoritas Jasa
+Keuangan; dan/atau
+b. melakukan aktivitas penunjang sebagaimana
+dimaksud pada ayat (2).
+
+Bagian Kesatu
+Penyedia Jasa Pembayaran
 
 ## Penjelasan Resmi
 

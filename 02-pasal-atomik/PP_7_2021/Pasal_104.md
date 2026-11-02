@@ -42,9 +42,7 @@ oleh usaha besar.
 
 ## Penjelasan Resmi
 
-**Cukup jelas.**
-
- Pasal. .
+**Cukup jelas.**Pasal. .
 
 -----
 

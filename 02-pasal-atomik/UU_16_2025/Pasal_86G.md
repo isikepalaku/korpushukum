@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pengadilan dapat membubarkan Perum sebagaimana dimaksud dalam Pasal 86E ayat (1) huruf c atas permohonan kepala BP BUMN.
+Pengadilan dapat membubarkan Perum sebagaimana dimaksud dalam
+
+Pasal 86E ayat (1) huruf c atas permohonan kepala BP BUMN.
 
 ## FRESIDEN REPUBUK INDONESIA
 

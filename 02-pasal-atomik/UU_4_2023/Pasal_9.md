@@ -91,7 +91,10 @@ Bank Indonesia menjaga permintaan dan penawaran likuiditas di Pasar Uang, Pasar 
 Operasi moneter Bank Indonesia dapat dilakukan
 
 ```
-Angka 5 Pasal 10 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Huruf a Cukup jelas. Hurufb Ayat (5) stabil. Ayat (6) minimum. Ayat (7) Huruf a melalui:
+Angka 5
+
+Pasal 10
+Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Huruf a Cukup jelas. Hurufb Ayat (5) stabil. Ayat (6) minimum. Ayat (7) Huruf a melalui:
 ```
 
 - a. penerbitan surat berharga Bank Indonesia;
@@ -109,7 +112,9 @@ Angka 6
 Huruf b
 
 ```
-Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Pasal lOA Ayat (1) Huruf a Pengaturan pengelolaan risiko terkait aliran modal termasuk di antaranya pengaturan utang luar negeri. Huruf b Pengaturan mengenai penerimaan dan/atau penggunaan devisa bagi penduduk termasuk di antaranya repatriasi, penyerahan, dan/atau konversi devisa. Ayat (2) Cukup jelas. Pasal 10B Cukup jelas.
+Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Pasal lOA Ayat (1) Huruf a Pengaturan pengelolaan risiko terkait aliran modal termasuk di antaranya pengaturan utang luar negeri. Huruf b Pengaturan mengenai penerimaan dan/atau penggunaan devisa bagi penduduk termasuk di antaranya repatriasi, penyerahan, dan/atau konversi devisa. Ayat (2) Cukup jelas.
+
+Pasal 10B Cukup jelas.
 ```
 
 Angka 7 ...

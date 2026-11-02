@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 3 ayat (2) huruf e, Menteri
+dimaksud dalam
+
+Pasal 3
+ayat (2) huruf e, Menteri
 menetapkan:
 a. tata cara pengelolaan Data Kependudukan yang
 bersifat data perseorangan, data agregat, dan Data

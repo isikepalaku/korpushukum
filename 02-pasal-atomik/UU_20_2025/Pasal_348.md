@@ -18,7 +18,14 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**Jika dalam satu perkara Terpidana lebih dari 1 (satu) orang, biaya perkara dan/ atau Ganti Rugi dibebankan kepada Terpidana bersama-sama secara berimbang.**
+**Jika dalam satu perkara Terpidana lebih dari 1 (satu) orang, biaya perkara dan/ atau Ganti Rugi dibebankan kepada Terpidana bersama-sama secara berimbang.**Pasal 349...
+
+-----
+
+PRESIDEN
+REPUELIK INDONESIA
+
+**-177-**
 
 ## Penjelasan Resmi
 

@@ -25,6 +25,15 @@ mengamandemen:
 5. (21 Pejabat Imigrasi juga berwenang menolak Orang Asing untuk keluar Wilayah Indonesia dalam hal Orang Asing tersebut masih mempunyai kewajiban di Indonesia yang harus diselesaikan sesuai dengan ketentuan peraturan perundang-undangan.
 3. Di antara Pasal 24 dan Pasal 25 disisipkan 1 (satu) pasal, yakni Pasal 24A sehingga berbunyi sebagai berikut:
 
+**Pasal 24A**
+
+Dokumen Perjalanan Republik Indonesia sebagaimana dimaksud dalam
+
+Pasal 24
+ayat (2) dan ayat (3) huruf a dan huruf c merupakan dokumen negara yang menjadi bukti kewarganegara€rn Indonesia.
+
+4. Ketentuan ayat (3) Pasal 64 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.

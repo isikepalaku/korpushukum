@@ -20,7 +20,10 @@ mengamandemen: []
 
 Dalam hal Lembaga Penjamin bubar karena keputusan rapat
 umum pemegang saham atau rapat anggota sebagaimana
-dimaksud dalam Pasal 33 huruf a, likuidator atau kuasa rapat
+dimaksud dalam
+
+Pasal 33
+huruf a, likuidator atau kuasa rapat
 anggota harus melaporkan hasil rapat umum pemegang
 saham atau rapat anggota kepada Otoritas Jasa Keuangan
 paling lambat 15 (lima belas) hari setelah rapat umum

@@ -18,20 +18,37 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2), ayat (3), dan ayat (4), pidana denda diganti dengan
-pidana kurungan dengan ketentuan untuk setiap pidana
-denda sebesar Rp100.000.000,00 (seratus juta rupiah)
-diganti dengan pidana kurungan selama 2 (dua) bulan.
+(1) Setiap orang yang tidak menggunakan Rupiah dalam:
 
-(2) Lama . . .
+a. setiap transaksi yang mempunyai tujuan pembayaran;
 
------
+b. penyelesaian kewajiban lainnya yang harus dipenuhi
 
- - 20
-(2) Lama pidana kurungan pengganti sebagaimana dimaksud
+dengan uang; dan/atau
 
-pada ayat (1) harus dicantumkan dalam putusan
-pengadilan.
+c. transaksi keuangan lainnya
+sebagaimana dimaksud dalam
+
+Pasal 21
+ayat (1) dipidana
+dengan pidana kurungan paling lama 1 (satu) tahun dan
+pidana denda paling banyak Rp200.000.000,00 (dua ratus
+juta rupiah).
+
+(2) Setiap orang dilarang menolak untuk menerima Rupiah
+
+yang penyerahannya dimaksudkan sebagai pembayaran
+atau untuk menyelesaikan kewajiban yang harus dipenuhi
+dengan Rupiah dan/atau untuk transaksi keuangan
+lainnya di Wilayah Negara Kesatuan Republik Indonesia,
+kecuali karena terdapat keraguan atas keaslian Rupiah
+sebagaimana dimaksud dalam
+
+Pasal 23
+dipidana dengan
+pidana kurungan paling lama 1 (satu) tahun dan pidana
+denda paling banyak Rp200.000.000,00 (dua ratus juta
+rupiah).
 
 ## Penjelasan Resmi
 

@@ -21,7 +21,10 @@ mengamandemen: []
 (1) Perusahaan Pembiayaan Syariah wajib
 menyampaikan laporan keuangan tahunan yang
 telah diaudit oleh akuntan publik sebagaimana
-dimaksud dalam Pasal 100 ayat (1) huruf b kepada
+dimaksud dalam
+
+Pasal 100
+ayat (1) huruf b kepada
 Otoritas Jasa Keuangan paling lambat 4 (empat)
 bulan setelah tahun buku terakhir.
 
@@ -30,7 +33,10 @@ bulan setelah tahun buku terakhir.
 (2) Perusahaan Pembiayaan Syariah wajib
 menyampaikan laporan keuangan tahunan yang
 telah diaudit oleh akuntan publik sebagaimana
-dimaksud dalam Pasal 100 ayat (1) huruf b secara
+dimaksud dalam
+
+Pasal 100
+ayat (1) huruf b secara
 lengkap dan benar dalam bentuk soft copy.
 (3) Apabila batas akhir penyampaian laporan
 keuangan tahunan sebagaimana dimaksud pada
@@ -54,6 +60,48 @@ berlaku di bidang pasar modal.
 laporan keuangan tahunan yang telah diaudit oleh
 akuntan publik sebagaimana dimaksud dalam
 
+Pasal 100
+ayat (1) huruf b ke dalam situs web
+Perusahaan Pembiayaan Syariah, paling lambat
+tanggal 31 Mei tahun berikutnya, untuk pertama
+kali pada tanggal 31 Mei 2026.
+
+49. Di antara Pasal 103 dan 104 disisipkan 1 pasal,yakni
+Pasal 103A sehingga berbunyi sebagai berikut:
+
+Pasal 103A
+(1) Laporan keuangan tahunan yang telah diaudit
+oleh akuntan publik sebagaimana dimaksud
+dalam
+
+Pasal 100
+ayat (1) huruf b wajib
+mengungkapkan hal audit utama kepada Otoritas
+Jasa Keuangan.
+(2) Ketentuan pengungkapan hal audit utama dalam
+laporan tahunan yang telah diaudit oleh akuntan
+sebagaimana dimaksud pada ayat (1) dikecualikan
+jika:
+a. ketentuan peraturan perundang-undangan
+melarang pengungkapan yang dipilih sebagai
+hal audit utama ke publik; dan/atau
+b. dalam kondisi memiliki konsekuensi
+merugikan kepentingan publik yang melebihi
+dari manfaatnya.
+
+50. BAB XXIII dihapus.
+
+51. Ketentuan Pasal 107 dihapus.
+
+52. Ketentuan Pasal 108 dihapus.
+
+-----
+
+53. Ketentuan Pasal 109 dihapus.
+
+54. Ketentuan Pasal 110 diubah sehingga berbunyi sebagai
+berikut:
+
 ## Penjelasan Resmi
 
 Ayat (1)
@@ -76,3 +124,27 @@ Ayat (6)
 Cukup jelas.
 
 -----
+
+Angka 49
+
+Pasal 103A
+
+Cukup jelas.
+
+Angka 50
+
+Cukup jelas.
+
+Angka 51
+
+Cukup jelas.
+
+Angka 52
+
+Cukup jelas.
+
+Angka 53
+
+Cukup jelas.
+
+Angka 54

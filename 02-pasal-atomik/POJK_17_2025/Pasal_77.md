@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Untuk Penyelenggara yang merupakan entitas yang
 menjalankan kegiatan usaha berdasarkan prinsip
 syariah, Penyelenggara dapat menetapkan Efek bersifat
-ekuitas sebagaimana dimaksud dalam Pasal 76 ayat (1)
+ekuitas sebagaimana dimaksud dalam
+
+Pasal 76
+ayat (1)
 huruf a yang ditawarkan melalui Layanan Urun Dananya sebagai Efek syariah.
 (2) Penyelenggara sebagaimana dimaksud pada ayat (1)
 wajib memiliki Dewan Pengawas Syariah serta memiliki

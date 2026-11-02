@@ -19,10 +19,15 @@ mengamandemen: []
 
 (1) Dalam hal Otoritas Jasa Keuangan menilai bahwa
 Produk Asuransi dalam laporan sebagaimana
-dimaksud dalam Pasal 42 ayat (2) merupakan
+dimaksud dalam
+
+Pasal 42
+ayat (2) merupakan
 Produk Asuransi baru dan Produk Asuransi dengan
-kriteria tertentu sebagaimana dimaksud dalam Pasal
-32 ayat (1), Otoritas Jasa Keuangan berwenang
+kriteria tertentu sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (1), Otoritas Jasa Keuangan berwenang
 untuk memberikan instruksi tertulis kepada
 Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah untuk menghentikan pemasaran Produk

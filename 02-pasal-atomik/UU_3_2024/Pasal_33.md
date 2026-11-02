@@ -4,7 +4,7 @@ uu_induk: Perubahan Kedua UU Desa
 kode_uu: UU_3_2024
 pasal: '33'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_3_2024
@@ -35,6 +35,23 @@ Calon Kepala Desa wajib memenuhi persyaratan:
 1. syarat lain yang diatur dalam Peraturan Daerah kabupaten/kota.
 8. Di antara Pasal 34 dan Pasal 35 disisipkan I (satu) pasal, yakni Pasal 34A sehingga berbunyi sebagai berikut:
 
+**Pasal 34A**
+
+- (1) Calon Kepala Desa paling sedikit berjumlah 2 (dua) orang.
+- (2) Dalam hal jumlah calon Kepala Desa sebagaimana dimaksud pada ayat (1) tidak terpenuhi dan hanya terdapat 1 (satu) calon Kepala Desa terdaftar, panitia pemilihan Kepala Desa memperpanjang masa pendaftaran calon Kepala Desa selama 15 (lima belas) hari.
+- (3) Dalam hal tidak bertambahnya calon Kepala Desa terdaftar setelah perpanjangan masa pendaftaran sebagaimana dimaksud pada ayat (21 berakhir, panitia pemilihan Kepala Desa memperpanjang kembali masa pendaftaran selama 10 (sepuluh) hari berikutnya.
+4. (41 Dalam hal perpanjangan kembali masa pendaftaran calon Kepala Desa sebagaimana dimaksud pada ayat (3) berakhir dan hanya terdapat 1 (satu) calon Kepala Desa terdaftar, panitia pemilihan Kepala Desa bersama-sama dengan Badan Permusyawaratan Desa menetapkan calon Kepala Desa terdaftar secara musyawarah untuk mufakat.
+- (5) Ketentuan lebih lanjut mengenai tata cara pemilihan 1 (satu) calon Kepala Desa diatur dengan Peraturan Pemerintah.
+9. Ketentuan Pasal 39 diubah sehingga berbunyi sebagai berikut:
+
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 8
+
+Pasal 34A
+
+Cukup jelas.
+
+Angka 9

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '46'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,6 @@ Tindak Pidana oleh Korporasi merupakan Tindak Pidana yang dilakukan oleh penguru
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Yang dimaksud dengan "kedudukan fungsional" adalah orang tersebut mempunyai kewenangan mewakili, mengambil kepuhrsan, dan untuk menerapkan pengawaszrn terhadap Korporasi tersebut, termasuk yang berkedudukan sebagai orang yang menJruruh melakukan, turut serta melakukan, menggerakkan orang lain supaya melakukan Tindak Pidana, atau membantu Tindak Pidana tersebut.
+
+Yang dimaksud dengan "hubungan lain" misalnya, kontrak kerja yang bersifat sementara.

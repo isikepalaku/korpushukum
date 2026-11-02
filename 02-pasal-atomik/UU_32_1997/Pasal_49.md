@@ -19,11 +19,19 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-diatur lebih lanjut dengan Peraturan Pemerintah.
+(1) Setiap Pihak dilarang melakukan kegiatan Perdagangan Berjangka,
 
- Bagian Kedua
+ kecuali kegiatan tersebut dilakukan berdasarkan ketentuan
 
- Praktik Perdagangan yang Dilarang
+ Undang-undang ini dan/atau peraturan pelaksanaannya.
+
+ (2) Setiap Pihak dilarang menyalurkan amanat untuk melakukan
+
+ transaksi Kontrak Berjangka dari pihak ketiga, kecuali transaksi
+
+ tersebut dilakukan berdasarkan ketentuan Undang-undang ini
+
+ dan/atau peraturan pelaksanaannya.
 
 ## Penjelasan Resmi
 

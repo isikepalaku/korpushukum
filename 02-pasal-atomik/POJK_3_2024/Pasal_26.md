@@ -92,7 +92,10 @@ Ayat (4)
 Cukup jelas.
 Ayat (5)
 
-Lihat penjelasan Pasal 16 ayat (3).
+Lihat penjelasan
+
+Pasal 16
+ayat (3).
 Ayat (6)
 
 Cukup jelas.

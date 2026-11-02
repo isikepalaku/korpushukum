@@ -21,7 +21,10 @@ mengamandemen: []
 **(1) Penyidik wajib menunjukkan surat tugas dan surat izin Penggeledahan dari ketua pengadilan negeri**
 kepada Tersangka atau pemilik/penghuni rumah atau
 **bangunan. (21 Penyidik melakukan Penggeledahan rumah atau**
- bangunan sebagaimana dimaksud dalam Pasal 112 huruf a dengan disaksikan oleh 2 (dua) orang saksi.
+ bangunan sebagaimana dimaksud dalam
+
+Pasal 112
+huruf a dengan disaksikan oleh 2 (dua) orang saksi.
 **(3) Dalam hal Tersangka atau pemilik/penghuni menolak**
 
 **untuk dilakukan Penggeledahan atau tidak berada di tempat, Penggeledahan harus disaksikan oleh kepala desa/lurah atau nama lainnya atau ketua rukun**
@@ -32,6 +35,30 @@ warga/ rukun tetangga dan 2 (dua) orang saksi.
 
 **dimaksud pada ayat (3), Penyidik membuat berita acara Penggeledahan rumah atau bangunan yang ditandatangani oleh Penyidik, kepala desa/lurah atau nama lainnya atau ketua rukun warga/ rukun**
 tetangga, dan saksi.
+
+Pasal 115...
+
+-----
+
+PR,ESIDEH
+REPUBUK INDONESIA
+
+**-62-**
+
+Pasal 115
+Penyidik dilarang melakukan Penggeledahan pada:**
+**a. ruang yang di dalamnya sedang berlangsung sidang**
+
+**Majelis Permusyawaratan Ralryat, Dewan Perwakilan Ralryat, Dewan Perwakilan Daerah, atau Dewan Perwakilan Rakyat Daerah;**
+**b. ruang yang di dalamnya sedang berlangsung ibadah**
+
+**dan/ atau upacara keagamaan; atau**
+**c. ruang yang di dalamnya sedang berlangsung sidang**
+
+pengadilan.
+
+Pasal 116
+Dalam hal Penyidik harus melakukan Penggeledahan rumah atau bangunan di luar daerah hukumnya, Penggeledahan tersebut harus diketahui oleh ketua pengadilan negeri dan didampingi oleh Penyidik dari daerah hukum tempat Penggeledahan tersebut dilakukan.**
 
 ## Penjelasan Resmi
 

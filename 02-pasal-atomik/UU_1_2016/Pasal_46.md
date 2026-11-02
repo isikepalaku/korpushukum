@@ -30,6 +30,12 @@ dari Penerima Jaminan yang telah memenuhi persyaratan
 dokumentasi dan penjaminannya sesuai dengan tata cara
 pengajuan dan penyelesaian klaim.
 
+Pasal 47 . . .
+
+-----
+
+ - 25
+
 ## Penjelasan Resmi
 
 Cukup jelas.

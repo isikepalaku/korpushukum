@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Kualitas Kredit yang dilakukan Restrukturisasi Kredit
-sebagaimana dimaksud dalam Pasal 29 ditetapkan:
+sebagaimana dimaksud dalam
+
+Pasal 29
+ditetapkan:
 a. paling tinggi kurang lancar untuk Kredit yang
 sebelum dilakukan Restrukturisasi Kredit
 kualitasnya tergolong diragukan atau macet; atau
@@ -39,7 +42,9 @@ memenuhi kondisi sebagaimana dimaksud dalam
 huruf a.
 (3) Penetapan kualitas Kredit sebagaimana dimaksud pada
 ayat (2) selanjutnya ditetapkan berdasarkan penilaian
-sebagaimana dimaksud dalam Pasal 7.
+sebagaimana dimaksud dalam
+
+Pasal 7.
 
 ## Penjelasan Resmi
 

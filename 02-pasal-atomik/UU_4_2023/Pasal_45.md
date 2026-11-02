@@ -11,7 +11,6 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_45|UU 1/2013 Pasal 45]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_45|UU 1/2016 Pasal 45]]'
 - '[[02-pasal-atomik/UU_2_2009/Pasal_45|UU 2/2009 Pasal 45]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_45|UU 21/2008 Pasal 45]]'
@@ -52,7 +51,10 @@ Contoh penerbitan, penatausahaan, pencatatan, dan/atau pengalihan kepemilikan in
 Pengalihan secara scripless termasuk pengalihan atas semua hak yang timbul dari instrumen keuangan termasuk hak menagih.
 
 ```
-Ayat (2) Cukupjelas Pasal 46 Cukup jelas. Pasal 47 Pasal 4
+Ayat (2) Cukupjelas
+
+Pasal 46
+Cukup jelas. Pasal 47 Pasal 4
 ```
 
 Huruf a
@@ -70,9 +72,22 @@ Manajemen portofolio utang negara bertujuan untuk meminimalkan biaya bunga utang
 Huruf d ...
 
 ```
-Huruf d Cukup jelas. Pasal 48 Cukup jelas. Pasal 49 Cukup jelas. Pasa150 Cukup jelas. Pasal 51 Cukup jelas. Pasal 52 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 3A Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Kewenangan pengaturan lebih lanjut oleh otoritas di sektor jasa keuangan dilakukan sesuai dengan kewenangan masing-masing. Ayat (4) Cukup jelas. Angka 3 Pasal 5 Ayat (1) Cukup jelas. Ayat (2) ...
+Huruf d Cukup jelas.
+
+Pasal 48
+Cukup jelas. Pasal 49 Cukup jelas. Pasal 50 Cukup jelas. Pasal 51 Cukup jelas. Pasal 52 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 3A Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Kewenangan pengaturan lebih lanjut oleh otoritas di sektor jasa keuangan dilakukan sesuai dengan kewenangan masing-masing. Ayat (4) Cukup jelas. Angka 3 Pasal 5 Ayat (1) Cukup jelas. Ayat (2) ...
 ```
 
 ```
-Ayat (2) Yang dimaksud dengan "perluasan ruang lingkup" adalah kegiatan yang melibatkan 3 (tiga) Pihak. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Angka 4 Pasal 5A Ayat (1) Dokumen elektronik di antaranya mencakup polis dalam bentuk elektronik. Ayat (2) Cukup jelas. Angka 5 Pasal 11 Cukup jelas. Angka 6 Pasal 12 Cukup jelas. Angka 7 Pasal 15 Kerugian di antaranya mencakup kerugian sebagai akibat dari pengelolaan investasi perusahaan. Angka 8 Pasal 15A Cukup jelas. Angka 9 Pasal 21A Cukup jelas.
+Ayat (2) Yang dimaksud dengan "perluasan ruang lingkup" adalah kegiatan yang melibatkan 3 (tiga) Pihak. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Angka 4
+
+Pasal 5A Ayat (1) Dokumen elektronik di antaranya mencakup polis dalam bentuk elektronik. Ayat (2) Cukup jelas. Angka 5 Pasal 11 Cukup jelas. Angka 6 Pasal 12 Cukup jelas. Angka 7 Pasal 15 Kerugian di antaranya mencakup kerugian sebagai akibat dari pengelolaan investasi perusahaan. Angka 8 Pasal 15A Cukup jelas. Angka 9 Pasal 21A Cukup jelas.
 ```
+
+Pasal 21B ...
+
+**Pasal 21B**
+
+Setiap Orang di antaranya mencakup pemegang saham, direksi, dewan komisaris, atau yang setara dengan pemegang saham, direksi, dan dewan komisaris pada badan hukum berbentuk koperasi perusahaan. atau usaha bersama, dan pegawai
+
+Angka 10

@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai tata cara hapus buku atas Aset BUMN sebagaimana dimaksud dalam Pasal 62D dan hapus tagih sebagaimana dimaksud dalam Pasal 62E, serta tata cara pelaporan sebagaimana dimaksud dalam Pasal 62F ditetapkan dalam Peraturan BP BUMN.
+Ketentuan lebih lanjut mengenai tata cara hapus buku atas Aset BUMN sebagaimana dimaksud dalam Pasal 62D dan hapus tagih sebagaimana dimaksud dalam
+
+Pasal 62E, serta tata cara pelaporan sebagaimana dimaksud dalam Pasal 62F ditetapkan dalam Peraturan BP BUMN.
 
 67. Ketentuan Pasal 62I diubah sehingga berbunyi sebagai berikut:
 

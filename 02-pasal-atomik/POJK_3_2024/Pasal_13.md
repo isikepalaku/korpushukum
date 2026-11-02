@@ -17,21 +17,57 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dan/atau Pasal 17 ayat (2) dikenakan sanksi
-administratif berupa:
-a. peringatan tertulis;
-b. penghentian sementara, sebagian, atau seluruh
-kegiatan termasuk pelaksanaan kerja sama;
-dan/atau
-c. pembatalan persetujuan.
-(2) Sanksi administratif sebagaimana dimaksud pada ayat
-(1) huruf b dan huruf c dapat dikenakan dengan atau
-tanpa didahului pengenaan sanksi administratif berupa
-peringatan tertulis sebagaimana dimaksud pada ayat
-(1) huruf a.
+(1) Pelaksanaan uji coba dan pengembangan inovasi dalam
+_Sandbox dilaksanakan dalam jangka waktu paling lama_
+1 (satu) tahun sejak persetujuan diberikan oleh Otoritas
+Jasa Keuangan sebagaimana dimaksud dalam
 
-BAB IV
-PERIZINAN
+Pasal 10
+ayat (2).
+(2) Otoritas Jasa Keuangan berwenang menetapkan jangka
+waktu uji coba dan pengembangan inovasi yang
+berbeda dari jangka waktu sebagaimana dimaksud
+pada ayat (1).
+(3) Otoritas Jasa Keuangan berwenang menghentikan
+proses uji coba dan pengembangan inovasi sebelum
+jangka waktu sebagaimana dimaksud pada ayat (1) dan
+ayat (2) berakhir, apabila terdapat ketidaksesuaian
+dengan kriteria sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (1).
+(4) Peserta wajib menyampaikan laporan akhir
+pelaksanaan uji coba dan pengembangan inovasi paling
+lambat 20 (dua puluh) hari kerja sebelum jangka waktu
+uji coba dan pengembangan inovasi sebagaimana
+dimaksud pada ayat (1) atau ayat (2) berakhir.
+(5) Laporan akhir sebagaimana dimaksud pada ayat (4)
+paling sedikit mencakup:
+a. hasil uji coba dan pengembangan atas skenario uji
+coba dan pengembangan inovasi sebagaimana
+dimaksud dalam
+
+Pasal 9
+ayat (5) huruf h;
+b. pemenuhan indikator kinerja utama sebagaimana
+dimaksud dalam
+
+Pasal 9
+ayat (5) huruf i;
+c. identifikasi atas uji coba dan pengembangan
+inovasi yang gagal dan insiden yang terjadi selama
+uji coba dan pengembangan;
+d. asesmen kepatuhan Peserta atas ketentuan
+peraturan perundang-undangan; dan
+e. rencana tindak lanjut Peserta setelah berakhirnya
+jangka waktu uji coba dan pengembangan.
+(6) Ketentuan lebih lanjut mengenai laporan akhir
+pelaksanaan uji coba dan pengembangan inovasi
+ditetapkan oleh Otoritas Jasa Keuangan.
+
+Bagian Ketujuh
+
+Hasil Sandbox
 
 ## Penjelasan Resmi
 

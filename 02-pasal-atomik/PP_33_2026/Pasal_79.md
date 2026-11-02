@@ -21,6 +21,10 @@ mengamandemen: []
 
 - (2) Penghapusan dan/atau pemusnahan Data Pribadi sebagaimana dimaksud pada ayat ([1) dapat dimintakan bersamaan dengan pengakhiran Pemrosesan Data Pribadi oleh Subjek Data Pribacli,
 
+Pasal 80...
+
+**PRESIDEN REPUBLIR INDONESIA**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

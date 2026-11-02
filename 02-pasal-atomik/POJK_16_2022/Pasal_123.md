@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam hal seluruh hak dan kewajiban Bank
-sebagaimana dimaksud dalam Pasal 122 huruf c telah
+sebagaimana dimaksud dalam
+
+Pasal 122
+huruf c telah
 diselesaikan, Direksi Bank mengajukan permohonan
 pencabutan izin usaha Bank kepada OJK, disertai
 dokumen tercantum dalam Lampiran I yang

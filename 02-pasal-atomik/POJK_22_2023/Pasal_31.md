@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Kewajiban penyediaan ringkasan informasi produk dan/atau
-layanan sebagaimana dimaksud dalam Pasal 30 ayat (1)
+layanan sebagaimana dimaksud dalam
+
+Pasal 30
+ayat (1)
 dikecualikan dari produk dan/atau layanan:
 a. program pemerintah atau otoritas; dan/atau
 b. digunakan secara berulang oleh Konsumen.

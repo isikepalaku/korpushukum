@@ -18,7 +18,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Barang siapa dengan sengaja melakukan pelanggaran ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (4), diancam dengan pidana penjara sekurang-kurangnya 1 (satu) tahun dan paling lama 3 (tiga) tahun, serta denda sekurang-kurangnya Rp1.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp3.000.000.000,- (tiga miliar rupiah).
+Barang siapa dengan sengaja melakukan pelanggaran ketentuan sebagaimana dimaksud dalam
+
+Pasal 2
+ayat (4), diancam dengan pidana penjara sekurang-kurangnya 1 (satu) tahun dan paling lama 3 (tiga) tahun, serta denda sekurang-kurangnya Rp1.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp3.000.000.000,- (tiga miliar rupiah).
 
 ## Penjelasan Resmi
 

@@ -20,7 +20,9 @@ mengamandemen: []
 
 Terhitung sejak LPS menetapkan untuk melakukan penanganan
 
- Bank Gagal sebagaimana dimaksud dalam Pasal 33, maka
+ Bank Gagal sebagaimana dimaksud dalam
+
+Pasal 33, maka
 
  berdasarkan Undang-Undang ini:
 

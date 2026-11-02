@@ -20,13 +20,19 @@ mengamandemen: []
 
 (1) Dalam rangka pelaksanaan fungsi pengaturan
 
-sebagaimana dimaksud dalam Pasal 57 ayat [(1), ]Otoritas
+sebagaimana dimaksud dalam
+
+Pasal 57
+ayat [(1), ]Otoritas
 **Jasa Keuangan menetapkan peraturan perundang-**
  undangan di bidang perasuransian.
 
 (2t Dalam rangka pelaksanaan fungsi pengawasan
 
-sebagaimana dimaksud dalam Pasal 57 ayat (1), Otoritas
+sebagaimana dimaksud dalam
+
+Pasal 57
+ayat (1), Otoritas
 **Jasa Keuangan berwenang: a. menyetujui atau menolak memberikan izin Usaha**
  Perasuransian; b. mencabut iain Usaha Perasuransian; c. menyetujui atau menolak memberikan [pemyataarl]
  pendaftaran bagi konsultan aktuaria, akuntan publik, penilai, atau pihak lain yang memberikan [jasa ]kepada
@@ -64,9 +70,15 @@ h. menyetujui atau mencabut persetujuan suatu Pihak
 **Pengendali dari Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau**
 peru sahaan reasuransi syariah ;
 **j. melakukan penilaian kemampuan dan kepatutan**
- terhadap direksi, dewan komisaris, atau yang setara dengan direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam Pasal 6 ayat (l) huruf c, dewan pengawas syariah, aktuaris [peru ]sahaan, auditor internal, dan Pengendali;
+ terhadap direksi, dewan komisaris, atau yang setara dengan direksi dan dewan komisaris pada badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (l) huruf c, dewan pengawas syariah, aktuaris [peru ]sahaan, auditor internal, dan Pengendali;
  k. menonal,rtifkan direksi, dewal komisaris, atau yang
- setara dengan direksi dan dewan komisaris [pada] badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf c, dan/atau dewan pengawas syariah, dan menetapkan Pengelola Statuter;
+ setara dengan direksi dan dewan komisaris [pada] badan hukum berbentuk koperasi atau usaha bersama sebagaimana dimaksud dalam
+
+Pasal 6
+ayat (1) huruf c, dan/atau dewan pengawas syariah, dan menetapkan Pengelola Statuter;
 
 1. memberi perintah tertulis kepada:
 

@@ -20,8 +20,16 @@ mengamandemen: []
 Setiap Penduduk yang dengan sengaja
 mendaftarkan diri
 sebagai kepala keluarga atau anggota keluarga lebih dari satu
-KK sebagaimana dimaksud dalam Pasal 62 ayat (1) atau untuk
+KK sebagaimana dimaksud dalam
+
+Pasal 62
+ayat (1) atau untuk
 memiliki KTP lebih dari satu sebagaimana dimaksud dalam
+
+Pasal 63
+ayat (6) dipidana dengan pidana penjara paling lama 2
+(dua) tahun dan/atau denda paling banyak Rp25.000.000,00
+(dua puluh lima juta rupiah).
 
 ## Penjelasan Resmi
 

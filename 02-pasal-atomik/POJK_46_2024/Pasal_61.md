@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Perusahaan yang memiliki UUS yang akan
 membuka Kantor Cabang UUS sebagaimana
-dimaksud dalam Pasal 60 ayat (1) harus telah
+dimaksud dalam
+
+Pasal 60
+ayat (1) harus telah
 mencantumkan rencana pembukaan Kantor
 Cabang UUS dalam rencana bisnis;
 a. memiliki tingkat kesehatan ditetapkan paling
@@ -33,7 +36,10 @@ c. memiliki sumber daya manusia yang memiliki
 pengalaman dan/atau pelatihan mengenai
 keuangan syariah.
 (2) Perusahaan yang membuka Kantor Cabang UUS
-sebagaimana dimaksud dalam Pasal 60 ayat (2),
+sebagaimana dimaksud dalam
+
+Pasal 60
+ayat (2),
 wajib menyampaikan laporan pembukaan Kantor
 Cabang UUS kepada Otoritas Jasa Keuangan
 paling lambat 10 (sepuluh) hari kerja sejak tanggal
@@ -118,3 +124,5 @@ Cukup jelas
 Angka 24
 
 Cukup jelas.
+
+Angka 25

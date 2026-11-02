@@ -17,10 +17,52 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-a. integritas dan kelayakan keuangan bagi calon PSP atau
-anggota pendiri bagi koperasi; dan
-b. integritas, reputasi keuangan, dan kompetensi bagi
-calon anggota Direksi dan anggota Dewan Komisaris.
+(1) Calon Pihak Utama wajib memperoleh persetujuan dari
+Otoritas Jasa Keuangan sebelum menjalankan
+tindakan, tugas, dan fungsinya sebagai Pihak Utama.
+(2) Calon Pihak Utama sebagaimana dimaksud pada ayat
+(1) meliputi:
+a. calon PSP atau anggota pendiri bagi koperasi;
+b. calon anggota Direksi; dan
+c. calon anggota Dewan Komisaris.
+(3) Dalam hal Penyelenggara berbentuk perseroan
+terbatas, PSP merupakan badan hukum, orang
+perseorangan, dan/atau kelompok usaha yang
+memiliki:
+a. jumlah nominal saham atau modal Penyelenggara
+sebesar 25% (dua puluh lima persen) atau lebih
+dari jumlah nominal saham yang dikeluarkan dan
+mempunyai hak suara; atau
+b. jumlah nominal saham atau modal Penyelenggara
+kurang dari 25% (dua puluh lima persen) dari
+jumlah nominal saham yang dikeluarkan dan
+mempunyai hak suara, namun yang bersangkutan
+dapat dibuktikan telah melakukan pengendalian
+
+-----
+
+ - 24
+Penyelenggara, baik secara langsung maupun
+tidak langsung.
+(4) Dalam hal Penyelenggara berbentuk koperasi, PSP
+merupakan pihak yang ditetapkan melalui mekanisme
+rapat anggota atau mekanisme lain sesuai dengan
+ketentuan peraturan perundang-undangan di bidang
+perkoperasian.
+(5) Calon anggota Direksi dan calon anggota Dewan
+Komisaris yang belum memperoleh persetujuan
+Otoritas Jasa Keuangan, dilarang melakukan tindakan,
+tugas dan fungsi sebagai anggota Direksi dan anggota
+Dewan Komisaris Penyelenggara, walaupun telah
+mendapat persetujuan dan diangkat oleh rapat umum
+pemegang saham.
+(6) Dalam memberikan persetujuan sebagaimana
+dimaksud pada ayat (1), Otoritas Jasa Keuangan
+melakukan penilaian kemampuan dan kepatutan
+kepada calon Pihak Utama.
+
+Bagian Kedua
+Faktor Penilaian Kemampuan dan Kepatutan
 
 ## Penjelasan Resmi
 

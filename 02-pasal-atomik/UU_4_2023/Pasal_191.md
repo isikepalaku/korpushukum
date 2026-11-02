@@ -61,7 +61,10 @@ Ayat (4)
 Yang dimaksud dengan prinsip "kehati-hatian" adalah pengelolaan aset Program Pensiun dilakukan dengan cermat, teliti, aman, dan tertib serta dengan mempertimbangkan aspek risiko keuangan dan batasan yang diatur dalam ketentuan peraturan perundang­ undangan.
 
 ```
-Ayat (5) Cukup jelas. Pasal 192 Cukup jelas. Pasal 193 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
+Ayat (5) Cukup jelas.
+
+Pasal 192
+Cukup jelas. Pasal 193 Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas.
 ```
 
 Ayat (4) ...
@@ -76,7 +79,10 @@ Cukup jelas.
 
 Ayat (6)
 
-Cukup jelas. Pasal 194 Cukup jelas. Pasal 195 Cukup jelas. Pasal 196 Cukup jelas. Pasal 197 Cukup jelas. Pasal 198 Cukup jelas. Pasal 199 Cukup jelas. Pasal 200 Cukup jelas. Pasal 201 Cukup jelas. Pasal 202 Pasal 44B
+Cukup jelas.
+
+Pasal 194
+Cukup jelas. Pasal 195 Cukup jelas. Pasal 196 Cukup jelas. Pasal 197 Cukup jelas. Pasal 198 Cukup jelas. Pasal 199 Cukup jelas. Pasal 200 Cukup jelas. Pasal 201 Cukup jelas. Pasal 202 Pasal 44B
 
 Ayat (1)
 

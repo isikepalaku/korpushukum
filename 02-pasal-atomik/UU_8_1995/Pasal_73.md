@@ -19,6 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 ```
+
+**Pasal 73…**
+
+```
 Setiap Perusahaan Publik wajib menyampaikan
 Pernyataan Pendaftaran kepada Bapepam.
 

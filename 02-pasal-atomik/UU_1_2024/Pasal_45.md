@@ -59,7 +59,9 @@ mengamandemen:
 
  - b. memberi utang, membuat pengakuan utang, atau menghapuskan piutang,
 
-sebagaimana dimaksud dalam Pasal 27B ayat (Ll dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
+sebagaimana dimaksud dalam
+
+Pasal 27B ayat (Ll dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
 - (9) Dalam hal perbuatan sebagaimana dimaksud pada ayat (8) dilakukan dalam lingkungan keluarga, penuntutan pidana hanya dapat dilakukan atas aduan.
 
@@ -73,11 +75,80 @@ b. memberi . ..
 
 - b. memberi utang, membuat pengakuan utang, atau menghapuskan piutang,
 
-sebagaimana dimaksud dalam Pasal 27B ayat(21 dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp 1.000.000.000,00 (satu miliar rupiah).
+sebagaimana dimaksud dalam
+
+Pasal 27B ayat(21 dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp 1.000.000.000,00 (satu miliar rupiah).
 
  - (11) Tindak pidana sebagaimana dimaksud pada ayat (10) hanya dapat dituntut atas pengaduan korban tindak pidana.
 
 17. Ketentuan Pasal 45A diubah sehingga berbunyi sebagai berikut:
+
+Pasal 45A
+
+- (1) Setiap Orang yang dengan sengaja mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik yang berisi pemberitahuan bohong atau informasi menyesatkan yang mengakibatkan kerugian materiel bagi konsumen dalam Transaksi Elektronik sebagaimana dimaksud dalam Pasal 28 ayat (1) dipidana dengan pidana penjara paling lama 6(enam) tahun dan/ atau denda paling banyak Rp1.0O0.0O0.000,00 (satu miliar rupiah).
+
+(2) Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan Informasi Elektronik dan/atau Dokumen Elektronik yang sifatnya menghasut, mengajak, atau orang lain sehingga menimbulkan rasa kebencian atau permusuhan terhadap individu dan/atau kelompok masyarakat tertentu berdasarkanras, kebangsaan, etnis, warna kulit, agama, kepercayaan, jenis kelamin, disabilitas mental, atau disabilitas frsik sebagaimana dimaksud dalam Pasal 28 ayat (2) dipidana denganpidana penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp1.0OO.0O0.000,0O(satu miliar rupiah).
+
+(3) Setiap. . .
+
+**NEPUELIK INDONEISIA**
+
+**-20-**
+
+ - (3) Setiap Orang yang dengan sengaja menyebarkan Informasi Elektronik dan/atau Dokumen Elektronik yang diketahuinya memuat pemberitahuan bohong yang menimbulkan kerusuhan di masyarakat sebagaimana dimaksud dalam Pasal 28 ayat (3) dipidana dengan pidana penjara paling lama 6 (enam) tahun dan/ atau denda paling banyak Rp 1.000.O0O.0O0,00 (satu miliar rupiah).
+
+18. Ketentuan Pasal 45B diubah sehingga berbunyi sebagai berikut:
+
+**Pasal 45B**
+
+Setiap Orang yang dengan sengaja dan tanpa hak mengirimkan Informasi Elektronik dan/atau Dokumen Elektronik secara langsung kepada korban yang berisi ancaman kekerasan dan/ atau menakutnakuti sebagaimana dimaksud dalam
+
+Pasal 29
+dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/ atau denda paling banyak Rp750.000.000,00 (tqjuh ratus lima puluhjuta rupiah).
+
+**Pasal 11**
+
+- 1 Pada saat Undang-Undang ini mulai berlaku, ketentuan dalam Pasal 27 ayat (1), Pasal 27A, Pasal. 28 ayat (2), Pasal 28 ayal (3), Pasal 36, Pasal 45 ayat (1), Pasal 45 ayat (2), Pasal 45 ayat (4), Pasal 45 ayat (5), Pasal 45 ayat (6), Pasal 45 ayat (7), Pasal 45A ayat (2), dan Pasal 45A ayat (3) berlaku sampai dengan diberlakukannya Undang-Undang Nomor 1 Tahun 2O23 tentang Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2O23 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842).
+
+- 2 Undang-Undang ini mulai berlakupada tanggal diundangkan.
+
+Agar . . .
+
+FRESIDEN REPUBUK INDONESIA
+
+-2t-
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam l,embaran Negara Republik Indonesia.
+
+Disahkan di Jakarta
+
+pada tanggal 2 Januari2024
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd
+
+JOKO WIDODO
+
+Diundangkan di Jakarta pada tanggal 2 Jarruari 2024
+
+MENTERI SEKRETARIS NEGARA REPUBLIK INDONESIA,
+
+ttd
+
+**PRATIKNO**
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 1
+
+Salinan sesuai dengan aslinya
+
+KEMENTERIAN SEKRETARIAT NEGARA REPUBLIK INDONESIA
+
+Perundang-undangan dan trasi Hukum,
+
+Djaman
+
+TI.I JTFIIIilNFIEFI;FIA
 
 ## Penjelasan Resmi
 
@@ -109,4 +180,38 @@ Cukupjelas. Ayat (10) Cukupjelas.
 
 Ayat (11) 
 
-Cukupjelas.
+Cukupjelas. 
+
+Angka 17
+
+Pasal 45A 
+
+Cukupjelas. 
+
+Angka 18
+
+Pasal 45B 
+
+Cukupjelas. 
+
+Pasal 11
+Cukupjelas. 
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6905 
+
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 5 | [[#^penjelasan-pasal-5]] |
+| Pasal 13 | [[#^penjelasan-pasal-13]] |
+| Pasal 15 | [[#^penjelasan-pasal-15]] |
+| Pasal 17 | [[#^penjelasan-pasal-17]] |
+| Pasal 27 | [[#^penjelasan-pasal-27]] |
+| Pasal 28 | [[#^penjelasan-pasal-28]] |
+| Pasal 29 | [[#^penjelasan-pasal-29]] |
+| Pasal 36 | [[#^penjelasan-pasal-36]] |
+| Pasal 40 | [[#^penjelasan-pasal-40]] |
+| Pasal 43 | [[#^penjelasan-pasal-43]] |
+| Pasal 45 | [[#^penjelasan-pasal-45]] |
+| Pasal 16B | [[#^penjelasan-pasal-16b]] |

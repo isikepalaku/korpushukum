@@ -2,7 +2,7 @@
 judul: "Indeks Penjelasan"
 jenis: indeks
 tags: [indeks, penjelasan]
-last_updated: 2026-11-02
+last_updated: 2026-11-03
 ---
 
 # Indeks Penjelasan
@@ -11,6 +11,7 @@ Penjelasan resmi (I. UMUM / II. PASAL DEMI PASAL) sudah dipartisi per pasal deng
 
 | Dokumen | Pasal berpenjelasan | Substantif | Cukup jelas | % substantif |
 | --- | --- | --- | --- | --- |
+| [[UU 1-2023 - KUHP]] | 625 | 294 | 331 | 47% |
 | [[UU 6-2023 - Cipta Kerja]] | 456 | 247 | 209 | 54% |
 | [[UU 4-2023 - P2SK]] | 329 | 185 | 144 | 56% |
 | [[POJK 46-2024 - Pengembangan dan Penguatan Perusahaan Pembiayaan]] | 209 | 125 | 84 | 60% |
@@ -58,7 +59,7 @@ Penjelasan resmi (I. UMUM / II. PASAL DEMI PASAL) sudah dipartisi per pasal deng
 | [[POJK 4-2023 - Perubahan Kedua atas POJK 23-POJK.04-2016 tentang]] | 11 | 8 | 3 | 73% |
 | [[POJK 22-2024 - Laporan Berkala Perusahaan Perasuransian]] | 22 | 7 | 15 | 32% |
 | [[POJK 47-2024 - Koperasi di Sektor Jasa Keuangan]] | 19 | 7 | 12 | 37% |
-| [[UU 11-2008 - ITE]] | 53 | 6 | 47 | 11% |
+| [[UU 11-2008 - ITE]] | 55 | 7 | 48 | 13% |
 | [[UU 27-2022 - PDP]] | 9 | 6 | 3 | 67% |
 | [[POJK 19-2018 - Perubahan POJK Kualitas Aset BUS dan UUS]] | 3 | 3 | 0 | 100% |
 | [[UU 1-2013 - LKM]] | 43 | 3 | 40 | 7% |

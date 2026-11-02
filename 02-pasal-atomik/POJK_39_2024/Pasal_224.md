@@ -19,8 +19,9 @@ mengamandemen: []
 
 (1) Dalam hal Otoritas Jasa Keuangan menetapkan
 Perusahaan dengan status pengawasan khusus tidak
-dapat disehatkan sebagaimana dimaksud dalam Pasal
-223, Otoritas Jasa Keuangan mencabut izin usaha
+dapat disehatkan sebagaimana dimaksud dalam
+
+Pasal 223, Otoritas Jasa Keuangan mencabut izin usaha
 Perusahaan.
 (2) Pencabutan izin usaha Perusahaan sebagaimana
 dimaksud pada ayat (1) disampaikan secara tertulis

@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Penyaluran Pinjaman atau Pembiayaan dan pengelolaan Simpanan
 
-oleh LKM sebagaimana dimaksud dalam Pasal 11 ayat (1)
+oleh LKM sebagaimana dimaksud dalam
+
+Pasal 11
+ayat (1)
 dilaksanakan secara konvensional atau berdasarkan prinsip syariah.
 
 (2) Kegiatan usaha berdasarkan prinsip syariah sebagaimana dimaksud

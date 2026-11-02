@@ -21,6 +21,7 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_24_2002/Pasal_11|UU 24/2002 Pasal 11]]'
 - '[[02-pasal-atomik/UU_24_2004/Pasal_11|UU 24/2004 Pasal 11]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_11|UU 25/1992 Pasal 11]]'
+- '[[02-pasal-atomik/UU_3_2004/Pasal_11|UU 3/2004 Pasal 11]]'
 - '[[02-pasal-atomik/UU_32_1997/Pasal_11|UU 32/1997 Pasal 11]]'
 - '[[02-pasal-atomik/UU_40_2004/Pasal_11|UU 40/2004 Pasal 11]]'
 - '[[02-pasal-atomik/UU_40_2014/Pasal_11|UU 40/2014 Pasal 11]]'
@@ -51,7 +52,9 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
-Ayat (1) Cukup jelas. Ayat (2) Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 3 Pasal 14A Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3)
+Ayat (1) Cukup jelas. Ayat (2) Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Angka 3
+
+Pasal 14A Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3)
 ```
 
 **Ayat (2)**
@@ -71,7 +74,10 @@ Cukup jelas.
 Ayat (4) ...
 
 ```
-Ayat (4) Koordinasi Bank Indonesia dengan Pemerintah diwujudkan dalam bentuk pertukaran informasi, di antaranya terkait dengan proyeksi jumlah Rupiah digital yang akan diterbitkan, mekanisme, dan rencana kasus penggunaan (use case) Rupiah digital. Ayat (5) Cukup jelas. Angka 4 Pasal 19 Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Pasal 11 Ayat (1) Cukup jelas. Ayat (2) Ruang lingkup koordinasi pengembangan sektor keuangan mencakup aspek pendalaman, efisiensi, dan aksesibilitas. Pasal 12 Cukup jelas. Pasal 13 Cukup jelas. Pasal 14 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasa16 Ayat (1) Huruf a Cukup jelas.
+Ayat (4) Koordinasi Bank Indonesia dengan Pemerintah diwujudkan dalam bentuk pertukaran informasi, di antaranya terkait dengan proyeksi jumlah Rupiah digital yang akan diterbitkan, mekanisme, dan rencana kasus penggunaan (use case) Rupiah digital. Ayat (5) Cukup jelas. Angka 4
+
+Pasal 19
+Yang dimaksud dengan "DPR" adalah alat kelengkapan DPR yang bersifat tetap, yaitu komisi yang tugas dan kewenangannya di bidang keuangan, perbankan, dan perencanaan pembangunan. Pasal 11 Ayat (1) Cukup jelas. Ayat (2) Ruang lingkup koordinasi pengembangan sektor keuangan mencakup aspek pendalaman, efisiensi, dan aksesibilitas. Pasal 12 Cukup jelas. Pasal 13 Cukup jelas. Pasal 14 Angka 1 Pasal 1 Cukup jelas. Angka 2 Pasal 6 Ayat (1) Huruf a Cukup jelas.
 ```
 
 Huruf b ...
@@ -123,3 +129,5 @@ Kegiatan usaha yang merupakan kewenangan Bank Indonesia meliputi aktivitas di bi
 Angka 3 ...
 
 Angka 3
+
+Angka 4

@@ -18,12 +18,16 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penetapan Perusahaan dalam status pengawasan khusus
-sebagaimana dimaksud dalam Pasal 217 ayat (2) huruf c,
+sebagaimana dimaksud dalam
+
+Pasal 217
+ayat (2) huruf c,
 jika:
 a. jangka waktu sebagaimana dimaksud dalam Pasal 219
 ayat (1) atau ayat (2) berakhir dan Perusahaan masih
-memenuhi kriteria sebagaimana dimaksud dalam Pasal
-218;
+memenuhi kriteria sebagaimana dimaksud dalam
+
+Pasal 218;
 b. Tingkat Kesehatan Perusahaan ditetapkan pada
 Peringkat Komposit 5 (lima);
 c. memenuhi parameter kuantitatif yang terdiri atas:
@@ -50,10 +54,16 @@ Huruf c
 
 Angka 1
 
-Lihat penjelasan Pasal 194 ayat (2).
+Lihat penjelasan
+
+Pasal 194
+ayat (2).
 Angka 2
 
-Lihat penjelasan Pasal 177 ayat (3).
+Lihat penjelasan
+
+Pasal 177
+ayat (3).
 Huruf d
 
 Cukup jelas.

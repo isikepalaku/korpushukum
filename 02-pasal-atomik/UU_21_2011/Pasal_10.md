@@ -18,13 +18,52 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-pejabat sementara untuk melaksanakan tugas dan
-wewenang anggota Dewan Komisioner tersebut sampai
-dengan ditetapkannya anggota Dewan Komisioner yang
-baru.
+(1) OJK dipimpin oleh Dewan Komisioner.
+(2) Dewan Komisioner sebagaimana dimaksud pada ayat (1)
 
-Bagian Keempat
-Tugas dan Wewenang
+bersifat kolektif dan kolegial.
+(3) Dewan Komisioner beranggotakan 9 (sembilan) orang
+
+anggota yang ditetapkan dengan Keputusan Presiden.
+(4) Susunan Dewan Komisioner sebagaimana dimaksud pada
+
+ayat (3) terdiri atas:
+a. seorang Ketua merangkap anggota;
+b. seorang Wakil Ketua sebagai Ketua Komite Etik
+
+merangkap anggota;
+c. seorang Kepala Eksekutif Pengawas Perbankan
+merangkap anggota;
+d. seorang Kepala Eksekutif Pengawas Pasar Modal
+
+merangkap anggota;
+e. seorang Kepala Eksekutif Pengawas Perasuransian,
+
+Dana Pensiun, Lembaga Pembiayaan, dan Lembaga
+Jasa Keuangan Lainnya merangkap anggota;
+f. seorang Ketua Dewan Audit merangkap anggota;
+g. seorang anggota yang membidangi edukasi dan
+
+perlindungan Konsumen;
+h. seorang anggota _Ex-officio dari Bank Indonesia yang_
+
+merupakan anggota Dewan Gubernur Bank
+Indonesia; dan
+i. seorang anggota _Ex-officio_ dari Kementerian
+Keuangan yang merupakan pejabat setingkat eselon I
+Kementerian Keuangan.
+(5) Anggota Dewan Komisioner sebagaimana dimaksud pada
+
+ayat (4) memiliki hak suara yang sama.
+
+Bagian ...
+
+-----
+
+- 11
+
+Bagian Kedua
+Pengangkatan dan Pemberhentian
 
 ## Penjelasan Resmi
 

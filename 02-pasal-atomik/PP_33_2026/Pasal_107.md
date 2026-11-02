@@ -19,6 +19,10 @@ mengamandemen: []
 
 Pengendali Data Pribadi harus memiliki mekanisme dan kebijakan penanganan permintaan ganti rugi.
 
+Pasal 108...
+
+= 53 -
+
 ## Penjelasan Resmi
 
 Cukup jelas.

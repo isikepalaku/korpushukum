@@ -19,9 +19,12 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam melaksanakan ketentuan sebagaimana dimaksud dalam Pasal 4
+Dalam melaksanakan ketentuan sebagaimana dimaksud dalam
 
- dan Pasal 5, Bappebti berwenang:
+Pasal 4
+dan
+
+Pasal 5, Bappebti berwenang:
 
  a. membuat penjelasan lebih lanjut yang bersifat teknis atas
 

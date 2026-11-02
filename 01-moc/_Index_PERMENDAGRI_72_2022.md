@@ -4,7 +4,7 @@ judul: "Map of Content - Standar Blangko KTP-el dan Penyelenggaraan Identitas Ke
 kode_uu: PERMENDAGRI_72_2022
 type: moc
 tags: [moc, hukum/pidana, uu/permendagri_72_2022]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Standar Blangko KTP-el dan Penyelenggaraan Identitas Kependudukan Digital (PERMENDAGRI_72_2022)

@@ -23,6 +23,12 @@ OJK berfungsi menyelenggarakan sistem pengaturan dan
 pengawasan yang terintegrasi terhadap keseluruhan kegiatan
 di dalam sektor jasa keuangan.
 
+Pasal 6 ...
+
+-----
+
+- 7
+
 ## Penjelasan Resmi
 
 Cukup jelas.

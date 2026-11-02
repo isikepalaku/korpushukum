@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penerapan pengecualian hak Subjek Data Pribadi untuk kepentingan umum dalam rangka penyclenggaraan negara sebagaimana dimaksud dalam Pasal 148 ayat (1) hurl c dan pengecualian kewajiban Pengendali Data Pribadi untuk kepentingan umum dalam rangka penyelenggaraan negara sebagaimana dimaksud dalam Pasal 149 ayat (1) huruf¢ harus memenuhi kriteria:
+Penerapan pengecualian hak Subjek Data Pribadi untuk kepentingan umum dalam rangka penyclenggaraan negara sebagaimana dimaksud dalam Pasal 148 ayat (1) hurl c dan pengecualian kewajiban Pengendali Data Pribadi untuk kepentingan umum dalam rangka penyelenggaraan negara sebagaimana dimaksud dalam
+
+Pasal 149
+ayat (1) huruf¢ harus memenuhi kriteria:
 
 - a. pemrosesan Data Pribadi diperlukan secara wajar dan dilakukan secara proporsional terbatas untuk memenuhi kepentingan umum dalam rangka penyelenggaraan negara;
 

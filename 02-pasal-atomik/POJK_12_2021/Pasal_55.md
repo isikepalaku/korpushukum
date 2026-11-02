@@ -19,11 +19,12 @@ mengamandemen: []
 
 (1) Bank BHI, KCBLN, atau KPBLN yang melanggar
 
-ketentuan sebagaimana dimaksud dalam Pasal 49 ayat
+ketentuan sebagaimana dimaksud dalam
 
-(1), ayat (5), Pasal 50 ayat (1), Pasal 51 ayat (1), Pasal
+Pasal 49
+ayat
 
-52 ayat (2), ayat (3), Pasal 53 ayat (1), ayat (2),
+(1), ayat (5), Pasal 50 ayat (1), Pasal 51 ayat (1), Pasal 52 ayat (2), ayat (3), Pasal 53 ayat (1), ayat (2),
 
 dan/atau ayat (4), dikenai sanksi administratif berupa
 
@@ -33,9 +34,15 @@ teguran tertulis.
 
 memenuhi kewajiban penyampaian informasi
 
-sebagaimana dimaksud dalam Pasal 49 ayat (5)
+sebagaimana dimaksud dalam
 
-dan/atau Pasal 50 ayat (1), dikenai sanksi
+Pasal 49
+ayat (5)
+
+dan/atau
+
+Pasal 50
+ayat (1), dikenai sanksi
 
 administratif berupa denda sebesar Rp1.000.000,00
 
@@ -49,11 +56,12 @@ dikenai sanksi administratif sebagaimana dimaksud
 
 pada ayat (1) dan/atau ayat (2), dan belum memenuhi
 
-ketentuan sebagaimana dimaksud dalam Pasal 49 ayat
+ketentuan sebagaimana dimaksud dalam
 
-(1), ayat (5), Pasal 50 ayat (1), Pasal 51 ayat (1), Pasal
+Pasal 49
+ayat
 
-52 ayat (2), ayat (3), Pasal 53 ayat (1), ayat (2),
+(1), ayat (5), Pasal 50 ayat (1), Pasal 51 ayat (1), Pasal 52 ayat (2), ayat (3), Pasal 53 ayat (1), ayat (2),
 
 dan/atau ayat (4), Bank BHI, KCBLN, atau KPBLN
 
@@ -73,11 +81,12 @@ dikenai sanksi administratif sebagaimana dimaksud
 
 pada ayat (1) dan/atau ayat (2) dan melanggar
 
-ketentuan sebagaimana dimaksud dalam Pasal 49 ayat
+ketentuan sebagaimana dimaksud dalam
 
-(1), ayat (5), Pasal 50 ayat (1), Pasal 51 ayat (1), Pasal
+Pasal 49
+ayat
 
-52 ayat (2), ayat (3), Pasal 53 ayat (1), ayat (2), ayat (4),
+(1), ayat (5), Pasal 50 ayat (1), Pasal 51 ayat (1), Pasal 52 ayat (2), ayat (3), Pasal 53 ayat (1), ayat (2), ayat (4),
 
 ayat (2), dan/atau ayat (3), PSP, Direksi, Dewan
 

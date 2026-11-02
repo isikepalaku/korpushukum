@@ -8,9 +8,8 @@ substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_27_2024
-status_berlaku: diubah
-diamandemen_oleh:
-- '[[02-pasal-atomik/POJK_23_2025/Pasal_107|POJK 23/2025 Pasal 107]]'
+status_berlaku: berlaku
+diamandemen_oleh: []
 mengamandemen: []
 ---
 

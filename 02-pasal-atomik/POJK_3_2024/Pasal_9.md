@@ -17,8 +17,74 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-paling lama 3 (tiga) bulan sejak surat tidak lulus
-disampaikan oleh Otoritas Jasa Keuangan.
+(1) Calon Peserta yang akan melakukan kegiatan dalam
+ruang lingkup sebagaimana dimaksud dalam
+
+Pasal 2
+dan bermaksud mengikuti Sandbox harus mengajukan
+permohonan menjadi Peserta kepada Otoritas Jasa
+Keuangan.
+(2) Calon Peserta yang merupakan LJK sebagaimana
+dimaksud dalam
+
+Pasal 8
+ayat (1) huruf a harus
+mendapatkan rekomendasi dari pengawas terkait di
+Otoritas Jasa Keuangan.
+(3) Otoritas Jasa Keuangan berwenang mewajibkan pihak
+yang menyelenggarakan ITSK sebagaimana dimaksud
+dalam
+
+Pasal 3
+ayat (1) untuk mengajukan permohonan
+menjadi Peserta kepada Otoritas Jasa Keuangan.
+(4) Permohonan sebagaimana dimaksud pada ayat (1) dan
+ayat (3) harus disertai dengan formulir permohonan
+mengikuti Sandbox, Rencana Pengujian, dan dokumen
+pendukung.
+(5) Rencana Pengujian sebagaimana dimaksud pada ayat
+(4) paling sedikit mencakup:
+a. penjelasan atas inovasi produk, aktivitas, layanan,
+dan/atau model bisnis yang akan diuji coba dan
+dikembangkan;
+b. identifikasi potensi risiko atas inovasi produk,
+aktivitas, layanan, dan/atau model bisnis yang
+akan diuji coba dan dikembangkan;
+c. rencana implementasi mitigasi risiko atas potensi
+risiko sebagaimana dimaksud dalam huruf b;
+d. batasan pelaksanaan uji coba dan pengembangan
+inovasi yang mencakup jangka waktu pengujian
+yang dibutuhkan, target dan profil Konsumen,
+jumlah Konsumen, mitra uji coba dan
+pengembangan, jumlah transaksi, dan batasan
+lainnya yang dapat diukur;
+e. kerangka Pelindungan Konsumen yang mencakup
+paling sedikit layanan pengaduan Konsumen dan
+mekanisme ganti rugi;
+f. kesiapan permodalan dan sumber daya untuk
+melakukan uji coba dan pengembangan inovasi;
+g. _exit policy dan kebijakan transisi jika inovasi yang_
+diuji coba dan dikembangkan tidak dapat
+dilanjutkan setelah proses Sandbox;
+h. skenario uji coba dan pengembangan inovasi
+produk, aktivitas, layanan, dan/atau model bisnis
+yang akan diuji coba dan dikembangkan; dan
+i. indikator kinerja utama atas skenario uji coba dan
+
+-----
+
+pengembangan inovasi sebagaimana dimaksud
+dalam huruf h.
+(6) Dalam hal berdasarkan penilaian Otoritas Jasa
+Keuangan diperlukan perbaikan terhadap Rencana
+Pengujian, Peserta harus melakukan perbaikan dan
+menyampaikan kembali Rencana Pengujian yang telah
+diperbaiki kepada Otoritas Jasa Keuangan.
+(7) Ketentuan lebih lanjut mengenai permohonan menjadi
+Peserta ditetapkan oleh Otoritas Jasa Keuangan.
+
+Bagian Keempat
+Kriteria Kelayakan dan Persetujuan Menjadi Peserta
 
 ## Penjelasan Resmi
 

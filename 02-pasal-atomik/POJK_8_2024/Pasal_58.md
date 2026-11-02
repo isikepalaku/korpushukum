@@ -17,16 +17,32 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-pihak lain, sistem elektronik pihak lain tersebut
-harus terhubung dengan sistem elektronik
-Perusahaan Asuransi atau Perusahaan Asuransi
-Syariah.
-(4) Ketentuan lebih lanjut mengenai tata cara persetujuan
-kerja sama Perusahaan Asuransi atau Perusahaan
-Asuransi Syariah dengan pihak lain yang menjadi
+(1) Perusahaan Asuransi atau Perusahaan Asuransi
+Syariah dapat menyelenggarakan dan memasarkan
+Produk Asuransi secara digital baik sendiri atau
+bekerja sama dengan pihak lain yang menjadi
 _partner_ Perusahaan Asuransi atau Perusahaan
-Asuransi Syariah sebagaimana dimaksud pada ayat (1)
-ditetapkan oleh Otoritas Jasa Keuangan.
+Asuransi Syariah berdasarkan pada suatu perjanjian
+kerja sama.
+
+-----
+
+(2) Perusahaan Asuransi atau Perusahaan Asuransi
+Syariah yang menyelenggarakan dan memasarkan
+Produk Asuransi secara digital sebagaimana dimaksud
+pada ayat (1) wajib memenuhi ketentuan:
+a. memiliki tanda daftar penyelenggara sistem
+elektronik yang diterbitkan oleh instansi yang
+berwenang sesuai dengan ketentuan peraturan
+perundang-undangan di bidang informasi dan
+transaksi elektronik;
+b. memiliki dan menerapkan kebijakan, standar, dan
+prosedur manajemen risiko teknologi informasi;
+dan
+c. memenuhi seluruh persyaratan yang diwajibkan
+oleh Otoritas Jasa Keuangan dan lembaga yang
+berwenang dalam rangka penyelenggaraan sistem
+elektronik.
 
 ## Penjelasan Resmi
 

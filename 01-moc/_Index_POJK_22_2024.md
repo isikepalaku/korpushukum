@@ -4,7 +4,7 @@ judul: "Map of Content - Laporan Berkala Perusahaan Perasuransian"
 kode_uu: POJK_22_2024
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_22_2024]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Laporan Berkala Perusahaan Perasuransian (POJK_22_2024)
@@ -14,10 +14,10 @@ last_updated: 2026-11-01
 ## Daftar Pasal
 
 - [[Pasal_1]]: Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud
-- [[Pasal_2]]: lambat:
-- [[Pasal_3]]: (1) Laporan Bulanan sebagaimana dimaksud dalam Pasal
+- [[Pasal_2]]: (1) Perusahaan Perasuransian wajib menyusun dan
+- [[Pasal_3]]: (1) Laporan Bulanan sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf a bagi Perusahaan Asuransi dan
 - [[Pasal_4]]: (1) Laporan Triwulanan sebagaimana dimaksud dalam
-- [[Pasal_5]]: (1) Laporan Tahunan sebagaimana dimaksud dalam Pasal
+- [[Pasal_5]]: (1) Laporan Tahunan sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf c terdiri atas:
 - [[Pasal_6]]: (1) Laporan Lain sebagaimana dimaksud dalam Pasal 2
 - [[Pasal_7]]: Direksi atau yang setara dari Perusahaan Perasuransian
 - [[Pasal_8]]: Ketentuan lebih lanjut mengenai bentuk dan susunan
@@ -34,4 +34,3 @@ last_updated: 2026-11-01
 - [[Pasal_19]]: Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 - [[Pasal_20]]: (1) Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
 - [[Pasal_21]]: Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada
-- [[Pasal_23]]: tentang Perasuransian sebagaimana telah diubah dengan

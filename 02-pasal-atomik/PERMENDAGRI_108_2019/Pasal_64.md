@@ -22,7 +22,10 @@ mengamandemen: []
 Pencatatan kematian WNI di luar wilayah Negara 
 Kesatuan Republik Indonesia dalam hal negara setempat 
 tidak menyelenggarakan pencatatan kematian bagi Orang 
-Asing sebagaimana dimaksud dalam Pasal 61 huruf c, 
+Asing sebagaimana dimaksud dalam
+
+Pasal 61
+huruf c, 
 dicatatkan pada Perwakilan Republik Indonesia dengan 
 memenuhi 
 persyaratan 

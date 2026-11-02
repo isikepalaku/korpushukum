@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Kegiatan usaha berdasarkan Prinsip Syariah
-sebagaimana dimaksud dalam Pasal 141 dilaksanakan
+sebagaimana dimaksud dalam
+
+Pasal 141
+dilaksanakan
 dengan menggunakan akad:
 a. _rahn;_
 b. _rahn tasjily;_

@@ -40,6 +40,12 @@ Pembiayaan Rakyat Syariah; dan
 f. melakukan usaha lain di luar kegiatan usaha sebagaimana
 dimaksud dalam Pasal 21.
 
+Pasal 26 . . .
+
+-----
+
+ - 18
+
 ## Penjelasan Resmi
 
 Huruf a

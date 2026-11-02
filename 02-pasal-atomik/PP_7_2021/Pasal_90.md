@@ -38,6 +38,30 @@ REPUBLIK INDONESIA
 
 Pengembangan Usaha
 
+Pasal 91
+**(1) Pemerintah Pusat dan Pemerintah Daerah melakukan**
+
+pengembangan Usaha Mikro, Kecil, dan Menengah.
+**(21 Pengembangan Usaha Mikro, Kecil, dan Menengah**
+ sebagaimana dimaksud pada ayat (1) [dilakukan] melalui:
+**a. pendataan serta identifikasi [potensi ][dan ][masalah]**
+
+yang dihadapi Usaha Mikro, Kecil, dan Menengah;
+**b. penyusunan program pembinaan [dan]**
+
+pengembangan sesuai potensi dan masalah [yang]
+**dihadapi;**
+**c. pelaksanaan program pembinaan [dan]**
+
+pengembangan; dan
+**d. pemantauan dan [pengendalian ] [pelaksanaan]**
+
+**program.**
+**(3) Pengembangan Usaha Mikro, Kecil, dan [Menengah]**
+
+**sebagaimana dimaksud pada ayat [(1) ][dilaksanakan] melalui pendekatan:**
+**a. Koperasi; b. sentra; c. klaster; dan d. kelompok.**
+
 ## Penjelasan Resmi
 
 **Cukup jelas.**

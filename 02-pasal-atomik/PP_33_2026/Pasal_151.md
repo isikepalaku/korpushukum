@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penerapan pengecuialian hak Subjck Data Pribadi untuk kepentingan proses pencgakan hukum sebagaimana dimaksud dalam Pasal 148 ayat (1) huruf b dan pengeécualian kewajiban Pengendali Data Pribadi untuk kepentingan proses penegakan hukum sebagaimana dimaksud dalam Pasal 149 ayat (1) huruf b harus memenuhi kriteria:
+Penerapan pengecuialian hak Subjck Data Pribadi untuk kepentingan proses pencgakan hukum sebagaimana dimaksud dalam Pasal 148 ayat (1) huruf b dan pengeécualian kewajiban Pengendali Data Pribadi untuk kepentingan proses penegakan hukum sebagaimana dimaksud dalam
+
+Pasal 149
+ayat (1) huruf b harus memenuhi kriteria:
 
 @, pemrosesan .. ,
 

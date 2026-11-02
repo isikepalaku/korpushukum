@@ -19,17 +19,25 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam menetapkan Daftar Aset Kripto sebagaimana
-dimaksud dalam Pasal 9 ayat (1), Bursa wajib
+dimaksud dalam
+
+Pasal 9
+ayat (1), Bursa wajib
 melakukan analisis terhadap setiap Aset Kripto
 sebelum ditetapkan dalam Daftar Aset Kripto dengan
-memenuhi kriteria sebagaimana dimaksud dalam Pasal
-4 ayat (1) dan Pasal 8 ayat (1).
+memenuhi kriteria sebagaimana dimaksud dalam Pasal 4 ayat (1) dan
+
+Pasal 8
+ayat (1).
 (2) Dalam melakukan analisis terhadap Aset Kripto
 sebagaimana dimaksud pada ayat (1), Bursa wajib
 menerapkan prinsip kehati-hatian dan mengutamakan
 pelindungan Konsumen.
 (3) Bursa wajib memiliki pedoman penetapan Daftar Aset
-Kripto sebagaimana dimaksud dalam Pasal 9 ayat (1)
+Kripto sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (1)
 yang dilaporkan kepada Otoritas Jasa Keuangan.
 (4) Pedoman penetapan Daftar Aset Kripto sebagaimana
 dimaksud pada ayat (3) memuat paling sedikit:
@@ -40,7 +48,10 @@ yang memuat paling sedikit:
 1. prinsip-prinsip umum; dan
 2. tata cara analisis Aset Kripto.
 (5) Bursa wajib memublikasikan Daftar Aset Kripto
-sebagaimana dimaksud dalam Pasal 9 ayat (1) paling
+sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (1) paling
 lama 1 (satu) hari setelah Daftar Aset Kripto ditetapkan
 pada media resmi Bursa.
 

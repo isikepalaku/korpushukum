@@ -17,19 +17,34 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-melaksanakan RUPS yang menyetujui Pemisahan UUS
-paling lama 60 (enam puluh) hari kerja terhitung sejak
+(1) Dalam memproses pelaporan sebagaimana dimaksud
+dalam
+
+Pasal 37
+ayat (1), Otoritas Jasa Keuangan
+melakukan:
+a. analisis dan penelitian atas kelengkapan dokumen
+sebagaimana dimaksud
+
+Pasal 37
+ayat (1);
+b. penilaian kemampuan dan kepatutan terhadap
+calon anggota Direksi, calon anggota Dewan
+Komisaris, calon PSP, dan/atau calon anggota DPS
+Penyelenggara berdasarkan Prinsip Syariah hasil
+Pemisahan UUS; dan
+c. analisis pemenuhan ketentuan peraturan
+perundang-undangan di bidang LPBBTI syariah.
+(2) Otoritas Jasa Keuangan dapat melakukan peninjauan
+ke kantor Penyelenggara dan/atau Penyelenggara
+berdasarkan Prinsip Syariah hasil Pemisahan untuk
+memastikan kesiapan pelaksanaan Pemisahan UUS.
+(3) Otoritas Jasa Keuangan menerbitkan surat pencatatan
+pelaporan rencana Pemisahan UUS kepada
 
 -----
 
-tanggal surat persetujuan atau pencatatan dari
-Otoritas Jasa Keuangan.
-(2) Dalam hal jangka waktu sebagaimana dimaksud pada
-ayat (1) telah terlampaui dan Penyelenggara belum
-melaksanakan RUPS yang menyetujui Pemisahan UUS,
-Otoritas Jasa Keuangan berwenang membatalkan
-persetujuan atau pencatatan rencana Pemisahan UUS
-yang telah diberikan.
+Penyelenggara yang bersangkutan.
 
 ## Penjelasan Resmi
 

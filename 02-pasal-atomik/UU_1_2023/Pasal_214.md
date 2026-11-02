@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '214'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,5 +24,11 @@ Dipidana dengan pidana penjara paling lama 5 (lima) tahun, Setiap Orang yang:
 - b. ditugaskan untuk mengawasi penyerahan Barang sebagaimana dimaksud dalam huruf a membiarkan perbuatan curang tersebut.
 
 ## Penjelasan Resmi
+
+Hurufa
+
+Yang dimaksud dengan "perbuatan curang menyerahkan Barang keperluan tentara", misalnya, pemasok 5rang menyerahkan Barang yang jumlah, berat, atau keadaannya kurang atau tidak sesuai dengan yang telah diperjanjikan.
+
+Hurufb
 
 Cukup jelas.

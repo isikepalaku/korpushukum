@@ -19,7 +19,10 @@ mengamandemen: []
 
 Kantor Bank BHI selain KP dan Kanwil sebagaimana
 
-dimaksud dalam Pasal 56 ayat (1) dapat menjalankan
+dimaksud dalam
+
+Pasal 56
+ayat (1) dapat menjalankan
 
 kegiatan layanan dan operasional kepada nasabah dengan
 

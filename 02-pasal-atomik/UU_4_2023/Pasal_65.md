@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '65'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -50,4 +50,92 @@ mengamandemen:
 
 ## Penjelasan Resmi
 
+Pasal 66
+Pasal 67 Pasal 68
+```
+
+```
+Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Unsur akademisi dan profesional dalam anggota panitia pemilihan memiliki komposisi yang berimbang. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas. Ayat (9) Cukup jelas. Ayat (10) Cukup jelas. Ayat(ll) Cukup jelas. Cukup jelas. Cukup jelas. Cukup jelas. Ayat (1) Cukup jelas.
+```
+
+Ayat (2) ...
+
+Ayat (2)
+
+Huruf a
+
 Cukup jelas.
+
+Hurufb
+
+Cukup jelas.
+
+Huruf c
+
+Cukup jelas.
+
+Huruf d
+
+Yang dimaksud dengan "tidak terafiliasi" adalah tidak memiliki hubungan keluarga dengan anggota direksi Usaha Bersama lainnya, anggota Dewan Komisaris Usaha Bersama, dan/ a tau peserta RUA. Hubungan keluarga dimaksud dikarenakan perkawinan atau keturunan sampai derajat kedua, baik secara horizontal maupun vertikal.
+
+Huruf e
+
+Cukup jelas.
+
+Huruff
+
+Cukup jelas.
+
+Huruf g
+
+Cukup jelas.
+
+Huruf h
+
+Cukup jelas.
+
+Huruf i
+
+Cukup jelas.
+
+Huruf j
+
+Cukup jelas.
+
+Huruf k
+
+Cukup jelas.
+
+Huruf 1
+
+Cukup jelas.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4) ...
+
+Ayat (4)
+
+Cukup jelas.
+
+Ayat (5)
+
+Cukup jelas.
+
+Ayat (6)
+
+Cukup jelas.
+
+Ayat (7)
+
+Cukup jelas.
+
+Ayat (8)
+
+Cukup jelas.
+
+Cukup jelas.
+
+```

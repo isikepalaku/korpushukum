@@ -28,7 +28,10 @@ bukan pajak yang berlaku pada Kementerian Hukum dan
 
 Hak Asasi Manusia berdasarkan bukti pendaftaran
 
-sebagaimana dimaksud dalam Pasal 10 ayat (4).
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (4).
 
 (2) Setelah melakukan pembayaran sebagaimana dimaksud
 

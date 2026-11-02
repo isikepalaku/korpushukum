@@ -19,11 +19,14 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ancaman pidana penjara atau pidana kurungan dan
-denda sebagaimana dimaksud dalam Pasal 103, Pasal
-104, Pasal 105, Pasal 106, dan Pasal 107 berlaku
+denda sebagaimana dimaksud dalam Pasal 103,
+
+Pasal 104, Pasal 105, Pasal 106, dan Pasal 107 berlaku
 pula bagi Pihak yang, baik langsung maupun tidak
 langsung, mempengaruhi Pihak lain untuk melakukan
 pelanggaran Pasal-Pasal dimaksud.
+
+Pasal 109…
 
 ## Penjelasan Resmi
 

@@ -18,37 +18,19 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dilarang sebagaimana dimaksud dalam Pasal 37, Pasal 43, Pasal 49
+Pialang Berjangka, Penasehat Berjangka dan Pengelola Sentra Dana
 
- ayat (2), Pasal 51 ayat (5), Pasal 52 ayat (1), atau Pasal 58 ayat (1)
+ Berjangka wajib menjamin kerahasiaan data dan informasi mengenai
 
- diancam dengan pidana penjara paling lama tiga tahun dan pidana
+ Nasabah, klien, atau peserta Sentra Dana Berjangka, dan dilarang
 
- denda paling banyak Rp. 4.000.000.000,00 (empat miliar rupiah).
+ mengungkapkan data dan informasi tersebut, kecuali memperoleh
 
- (2) Setiap...
+ persetujuan tertulis dari Nasabah, klien atau peserta Sentra Dana
 
-```
+ Berjangka yang bersangkutan atau diwajibkan oleh peraturan
 
------
-
-```
- - 44
-**(2) Setiap Pihak yang melakukan kegiatan yang dilarang sebagaimana**
-
- dimaksud dalam Pasal 8 diancam dengan pidana penjara paling
-
- lama dua tahun dan pidana denda paling banyak Rp.
-
- 1.500.000.000,00 (satu miliar lima ratus juta rupiah).
-
- (3) Setiap Pihak yang tidak memenuhi kewajiban sebagaimana
-
- dimaksud dalam Pasal 50 ayat (2), Pasal 50 ayat (4), Pasal 53 ayat
-
- (2), Pasal 53 ayat (4), Pasal 54 ayat (2) atau melakukan kegiatan
-
- yang dilarang sebagaimana dimaksud dalam Pasal 50 ayat (3), atau
+ perundang-undangan yang berlaku.
 
 ## Penjelasan Resmi
 

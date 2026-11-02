@@ -18,14 +18,19 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam hal Tim Likuidasi dibentuk oleh RUPS
-sebagaimana dimaksud dalam Pasal 105 ayat (1), Tim
+sebagaimana dimaksud dalam
+
+Pasal 105
+ayat (1), Tim
 Likuidasi wajib menyampaikan Neraca Akhir Likuidasi
 kepada Otoritas Jasa Keuangan dan laporan
 pertanggungjawaban tugas Tim Likuidasi kepada RUPS
 paling lambat 20 (dua puluh) hari kerja setelah
 pelaksanaan Likuidasi selesai.
 (2) Dalam hal Tim Likuidasi dibentuk oleh Otoritas Jasa
-Keuangan sebagaimana dimaksud dalam Pasal 106
+Keuangan sebagaimana dimaksud dalam
+
+Pasal 106
 ayat (1), Tim Likuidasi wajib menyampaikan Neraca
 Akhir Likuidasi dan laporan pertanggungjawaban tugas
 Tim Likuidasi kepada Otoritas Jasa Keuangan dengan

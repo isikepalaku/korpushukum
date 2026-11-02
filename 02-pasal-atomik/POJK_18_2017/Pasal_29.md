@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam rangka menyelesaikan pengaduan mengenai ketidakakuratan Informasi Debitur sebagaimana dimaksud dalam Pasal 22, Pelapor wajib memiliki kebijakan dan prosedur tertulis yang paling sedikit mencakup:
+Dalam rangka menyelesaikan pengaduan mengenai ketidakakuratan Informasi Debitur sebagaimana dimaksud dalam
+
+Pasal 22, Pelapor wajib memiliki kebijakan dan prosedur tertulis yang paling sedikit mencakup:
 
 - a. wewenang dan tanggung jawab pegawai yang
 

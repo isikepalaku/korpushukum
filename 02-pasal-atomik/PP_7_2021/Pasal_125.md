@@ -24,9 +24,7 @@ xepacla Usa..ha Mikro. Usaha Kecil, danleteru Koperasi.
  clan p3ngenrbing'in UsAha Mikr.-1, ljsaita Kecil, clan/at3u I(operasi..
 **(3) l)erlerint:rh Daerah merrbei.karr fasilitas pelatiharr**
 
-**vckasi ilsaha Mikro, Usaha Kecil, dan/atau Koperasi.**
-
-Pasal
+**vckasi ilsaha Mikro, Usaha Kecil, dan/atau Koperasi.**Pasal
 
 -----
 

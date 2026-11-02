@@ -23,6 +23,10 @@ mengamandemen: []
 - (4) Dalam hal anak sebagaimana dimaksud pada ayat (3) tidak ada, Manfaat Pensiun dibayarkan kepada pihak yang telah ditunjuk oleh Peserta.
 - (5) Ketentuan lebih lanjut mengenai tata cara pembayaran Manfaat Pensiun Normal, Manfaat Pensiun Disabilitas, Manfaat Pensiun Dipercepat, dan Pensiun Ditunda kepada Janda/Duda, anak, atau pihak yang ditunjuk sebagaimana dimaksud pada ayat (1) sampai dengan ayat (4) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
+Pasal 156 ...
+
+**-374 -**
+
 ## Penjelasan Resmi
 
 Cukup jelas.

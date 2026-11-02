@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '81'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -24,4 +24,22 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
+Ayat (1)
+
+Putusan pengadilan dalam ketentuan ini memuat antara lain:
+
+- a. waktu pelaksanaan pidana denda;
+
+b. cara . . .
+
+- b. cara pelaksanaan pidana denda;
+- c. penyitaan dan lelang; dan
+- d. pidana pengganti pidana denda.
+
+Ayat(2)
+
 Cukup jelas.
+
+Ayat (3)
+
+Yang dimaksud dengan "tidak dibayar'adalah tidak dibayar sama sekali atau dibayar sebagian.

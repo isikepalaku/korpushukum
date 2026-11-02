@@ -19,7 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan lebih lanjut mengenai pembinaan, pengaturan, dan pengawasan
-LKM sebagaimana dimaksud dalam Pasal 28 sampai dengan Pasal 31
+LKM sebagaimana dimaksud dalam Pasal 28 sampai dengan
+
+Pasal 31
 diatur dalam Peraturan Otoritas Jasa Keuangan.
 
 BAB XI

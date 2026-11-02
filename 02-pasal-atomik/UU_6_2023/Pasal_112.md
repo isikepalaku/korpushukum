@@ -61,7 +61,9 @@ Yang dimaksud dengan "pemberian cuma-cuma" adalah pemberian yang diberikan tanpa
 
 Barang Kena Pajak berupa persediaan dan/ atau aktiva yang menurut tujuan semula tidak untuk diperjualbelikan, yang masih tersisa pada saat pembubaran perusahaan, disamakan dengan pemakaian sendiri sehingga dianggap sebagai penyerahan Barang Kena Pajak.
 
-Dikecualikan dari ketentuan pada huruf e ini adalah penyerahan sebagaimana dimaksud dalam Pasal 1A ayat (21 huruf e.
+Dikecualikan dari ketentuan pada huruf e ini adalah penyerahan sebagaimana dimaksud dalam
+
+Pasal 1A ayat (21 huruf e.
 
 **Huruf f**
 
@@ -111,11 +113,16 @@ Pengalihan Barang Kena Pajak dalam rangka penggabungan, peleburan, pemekaran, pe
 - b. pengusaha yang belum atau tidak dikukuhkan sebagai Pengusaha Kena Paj ak, termasuk dalam pengertian penyerahan Barang Kena Pajak sehingga terdapat Pajak Pertambahan Nilai yang terutang namun tidak dipungut oleh pengusaha tersebut karena belum atau tidak dikukuhkan sebagai Pengusaha Kena Pajak; atau
 - c. Pengusaha Kena Pajak kepada pengusaha yang belum atau tidak dikukuhkan sebagai Pengusaha Kena Pajak, termasuk dalam pengertian penyerahan Barang Kena Pajak sehingga terdapat Pajak Pertambahan Nilai yang terutang yang harus dipungut oleh Pengusaha Kena Pajak. Dalam hal Barang Kena Pajak yang dialihkan berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan maka Pajak Pertambahan Nilai yang dikenakan atas pengalihan Barang Kena Pajak tersebut dilakukan sesuai dengan ketentuan yang mengatur mengenai penyerahan Barang Kena Pajak berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan.
 
-Huruf e Huruf e Barang Kena Pajak berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan yang masih tersisa pada saat pembubaran perusahaan, yang Pajak Masukan atas perolehannya tidak dapat dikreditkan karena tidak mempunyai hubungan langsung dengan kegiatan usaha sebagaimana dimaksud dalam Pasal 9 ayat (8) huruf b tidak termasuk dalam pengertian penyerahan Barang Kena Pajak.
+Huruf e Huruf e Barang Kena Pajak berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan yang masih tersisa pada saat pembubaran perusahaan, yang Pajak Masukan atas perolehannya tidak dapat dikreditkan karena tidak mempunyai hubungan langsung dengan kegiatan usaha sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (8) huruf b tidak termasuk dalam pengertian penyerahan Barang Kena Pajak.
 
 Angka2 Pasal 13 Ayat (1) Dalam hal terjadi penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak, Pengusaha Kena Pajak yang menyerahkan Barang Kena Pajak dan/ atau menyerahkan Jasa Kena Paj ak itu wajib memungut Pajak Pertambahan Nilai yang terutang dan memberikan Faktur Pajak sebagai bukti pungutan pajak. Faktur Paj ak tidak perlu dibuat secara khusus atau berbeda dengan faktur penjualan. Faktur Pajak dapat berupa faktur penjualan atau dokumen tertentu yang ditetapkan sebagai Faktur Pajak oleh Direktur Jenderal Pajak. Berdasarkan ketentuan ini, atas setiap penyerahan
 
-Barang Kena Pajak berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan sebagaimana dimaksud dalam Pasal 16D wajib dibuatkan Faktur Pajak.
+Barang Kena Pajak berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan sebagaimana dimaksud dalam
+
+Pasal 16D wajib dibuatkan Faktur Pajak.
 
 Ayat (1a) ...
 
@@ -149,7 +156,10 @@ Pengusaha Kena Pajak A melakukan penyerahan Barang Kena Pajak kepada pengusaha B
 
 Ayat (3) Ayat (4) Ayat (5) Dihapus. Dihapus.
 
-Faktur Pajak merupakan bukti pungutan pajak dan dapat digunakan sebagai sarana untuk mengkreditkan Paj ak Masukan. Faktur Pajak harrs diisi secara benar, lengkap, dan jelas serta ditandatangani oleh pihak yang ditunjuk oleh Pengusaha Kena Pajak untuk menandatanganinya. Namun, keterangan mengenai Pajak Penjualan atas Barang Mewah hanya diisi apabila atas penyerahan Barang Kena Pajak terutang Pajak Penjualan atas Barang Mewah. Faktur Pajak yang tidak diisi sesuai dengan ketentuan dalam ayat ini mengakibatkan Paj ak Pertambahan Nilai yang tercantum di dalamnya tidak dapat dikreditkan sesuai dengan ketentuan dalam Pasal 9 ayat (8) huruf f.
+Faktur Pajak merupakan bukti pungutan pajak dan dapat digunakan sebagai sarana untuk mengkreditkan Paj ak Masukan. Faktur Pajak harrs diisi secara benar, lengkap, dan jelas serta ditandatangani oleh pihak yang ditunjuk oleh Pengusaha Kena Pajak untuk menandatanganinya. Namun, keterangan mengenai Pajak Penjualan atas Barang Mewah hanya diisi apabila atas penyerahan Barang Kena Pajak terutang Pajak Penjualan atas Barang Mewah. Faktur Pajak yang tidak diisi sesuai dengan ketentuan dalam ayat ini mengakibatkan Paj ak Pertambahan Nilai yang tercantum di dalamnya tidak dapat dikreditkan sesuai dengan ketentuan dalam
+
+Pasal 9
+ayat (8) huruf f.
 
 Ayat (5a) Cukup jelas.
 

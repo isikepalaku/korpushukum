@@ -11,7 +11,6 @@ tags:
 status_berlaku: berlaku
 diamandemen_oleh: []
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2013/Pasal_49|UU 1/2013 Pasal 49]]'
 - '[[02-pasal-atomik/UU_1_2016/Pasal_49|UU 1/2016 Pasal 49]]'
 - '[[02-pasal-atomik/UU_10_2011/Pasal_49|UU 10/2011 Pasal 49]]'
 - '[[02-pasal-atomik/UU_2_2009/Pasal_49|UU 2/2009 Pasal 49]]'
@@ -34,6 +33,10 @@ mengamandemen:
 
 - (1) Penyelenggaraan kegiatan usaha penukaran valuta asing oleh bank umum, bank umum syariah, bank perekonomian rakyat, dan bank perekonomian rakyat syariah sebagaimana dimaksud dalam Pasal 48 ayat (2) huruf a merupakan bagian dari kegiatan usaha bank umum, bank umum syariah, bank perekonomian rakyat, dan bank perekonomian rakyat syariah.
 - (2) Pengaturan, perizinan, pengawasan, pemeriksaan, dan pengenaan sanksi terhadap kegiatan usaha penukaran valuta asing oleh bank umum, bank umum syariah, bank perekonomian rakyat, dan bank perekonomian rakyat syariah dilakukan oleh Otoritas Jasa Keuangan.
+
+Pasal 50 ...
+
+**PRESIDEN REPUBUK INDONESIA**
 
 ## Penjelasan Resmi
 

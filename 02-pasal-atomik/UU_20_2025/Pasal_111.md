@@ -42,7 +42,8 @@ PRESIDEN
 
 Penggeledahan
 
-**Pasal l12 Untuk kepentingan Penyidikan, Penyidik dapat melakukan**
+Pasal 112
+Untuk kepentingan Penyidikan, Penyidik dapat melakukan**
 Penggeledahan terhadap:
 
 **a. rumah atau bangunan; b. pakaian; c. badan; d. alat transportasi; e. Informasi Elektronik; f. Dokumen Elektronik; dan/atau g. benda lainnya.**

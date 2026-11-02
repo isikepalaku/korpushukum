@@ -51,6 +51,47 @@ mengamandemen: []
 
 5. Di antara Pasal 61 dan Pasal 62 disisipkan 1 (satu) pasal, yakni Pasal 61A sehingga berbunyi sebagai berikut:
 
+**Pasal 61A**
+
+- (1) Penetapan kualitas Pembiayaan yang direstrukturisasi untuk Pembiayaan berorientasi ekspor kepada usaha mikro dan/atau usaha kecil serta Pembiayaan berorientasi ekspor kepada usaha menengah yang diberikan oleh setiap Bank kepada 1 (satu) nasabah atau 1 (satu) proyek dengan jumlah sampai dengan Rp5.000.000.000,00 (lima miliar rupiah) ditetapkan:
+
+ - a. paling tinggi kurang lancar untuk Pembiayaan yang sebelum dilakukan restrukturisasi tergolong diragukan dan macet; atau
+
+ - b. sama untuk Pembiayaan yang sebelum dilakukan restrukturisasi tergolong kurang lancar dan dalam perhatian khusus,
+
+ - sampai dengan 3 (tiga) kali periode kewajiban pembayaran.
+
+- (2) Dalam hal 3 (tiga) kali periode kewajiban pembayaran sebagaimana dimaksud pada ayat (1) telah terlampaui, penetapan kualitas Pembiayaan yang direstrukturisasi ditetapkan berdasarkan faktor penilaian atas ketepatan pembayaran pokok dan/atau margin/bagi hasil/ _ujrah_ .
+
+Pasal 11
+Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Otoritas Jasa Keuangan ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 20 September 2018
+
+KETUA DEWAN KOMISIONER OTORITAS JASA KEUANGAN REPUBLIK INDONESIA,
+
+ttd
+
+WIMBOH SANTOSO
+
+Diundangkan di Jakarta pada tanggal 20 September 2018
+
+MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+
+ttd
+
+YASONNA H. LAOLY
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2018 NOMOR 167
+
+Salinan ini sesuai dengan aslinya Direktur Hukum 1 Departemen Hukum
+
+ttd
+
+Yuliana
+
 ## Penjelasan Resmi
 
 Ayat (1)
@@ -70,3 +111,19 @@ Ayat (2)
 Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7)
 
 Cukup jelas.
+
+Angka 5
+
+Pasal 61A Cukup jelas.
+
+Pasal 11
+Cukup jelas.
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6251
+
+## Peta Penjelasan
+
+| Pasal | Tautan |
+| --- | --- |
+| Pasal 47 | [[#^penjelasan-pasal-47]] |
+| Pasal 61 | [[#^penjelasan-pasal-61]] |

@@ -29,6 +29,12 @@ mutu, keamanan, dan harga yang bersaing serta
 ditetapkan oleh Bank Indonesia yang berkoordinasi dengan
 Pemerintah.
 
+Pasal 10 . . .
+
+-----
+
+ - 7
+
 ## Penjelasan Resmi
 
 Ayat (1)

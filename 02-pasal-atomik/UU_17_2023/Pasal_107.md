@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai Kesehatan lingkungan sebagaimana dimaksud dalam Pasal 104 sampai dengan Pasal 1O6 diatur dengan Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai Kesehatan lingkungan sebagaimana dimaksud dalam
+
+Pasal 104
+sampai dengan Pasal 1O6 diatur dengan Peraturan Pemerintah.
 
 ## Bagran Kedelapan Belas Kesehatan Matra
 

@@ -1843,7 +1843,10 @@ dikuasakan baik sebagian atau seluruhnya.
 
 Surat Kuasa ini berlaku sejak tanggal ditandatangani dan tidak akan berakhir
 karena sebab apapun termasuk karena sebab-sebab sebagaimana dimaksud
-dalam Pasal 1813 dan Pasal 1814 Kitab Undang-Undang Hukum Perdata.
+dalam Pasal 1813 dan
+
+Pasal 1814
+Kitab Undang-Undang Hukum Perdata.
 
 Jakarta,…...............................
 

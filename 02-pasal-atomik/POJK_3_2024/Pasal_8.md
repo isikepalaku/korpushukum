@@ -52,4 +52,7 @@ Ayat (2)
 Cukup jelas.
 Ayat (3)
 
-Lihat penjelasan Pasal 3 ayat (3).
+Lihat penjelasan
+
+Pasal 3
+ayat (3).

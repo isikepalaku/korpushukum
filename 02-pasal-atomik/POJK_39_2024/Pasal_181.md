@@ -18,9 +18,17 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 175 ayat (1), ayat (6), Pasal 176
-ayat (1), ayat (2), Pasal 177 ayat (1), ayat (3), Pasal 179
-ayat (1), ayat (3), dan/atau Pasal 180 ayat (1) dikenai
+dimaksud dalam Pasal 175 ayat (1), ayat (6),
+
+Pasal 176
+ayat (1), ayat (2),
+
+Pasal 177
+ayat (1), ayat (3), Pasal 179
+ayat (1), ayat (3), dan/atau
+
+Pasal 180
+ayat (1) dikenai
 sanksi administratif berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -71,7 +79,10 @@ PENDANAAN
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 
 -----
 

@@ -20,7 +20,9 @@ mengamandemen: []
 (1) OJK menerbitkan persetujuan persiapan pencabutan
 izin usaha Bank paling lama 14 (empat belas) hari kerja
 setelah dokumen diterima secara lengkap berdasarkan
-permohonan sebagaimana dimaksud dalam Pasal 121.
+permohonan sebagaimana dimaksud dalam
+
+Pasal 121.
 (2) Bank yang telah mendapat persetujuan persiapan
 pencabutan izin usaha sebagaimana dimaksud pada
 ayat (1) wajib untuk:

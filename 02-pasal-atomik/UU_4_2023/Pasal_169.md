@@ -33,7 +33,7 @@ mengamandemen: []
 - d. memiliki instrumen derivatif kecuali instrumen derivatif yang didapatkan dari hasil kepemilikan instrumen lain yang diatur oleh Otoritas Jasa Keuangan.
 - (3) Selain larangan sebagaimana dimaksud pada ayat (2), Dana Pensiun Lembaga Keuangan dilarang mengalihkan pengelolaan aset kepada pihak ketiga.
 - (4) Dana Pensiun wajib menerapkan prinsip tata kelola Dana Pensiun yang baik dan manajemen risiko yang efektif dalam setiap kegiatan usahanya pada seluruh tingkatan atau jenjang organisasi.
-- (5) Ketentuan sebagaimana dimaksud pada ayat (2) juga berlaku bagi lembaga keuangan yang mengelola aset Dana Pensiun Pemberi Kerja sebagaimana dimaksud dalam Pasal 16B ayat (2).
+- (5) Ketentuan sebagaimana dimaksud pada ayat (2) juga berlaku bagi lembaga keuangan yang mengelola aset Dana Pensiun Pemberi Kerja sebagaimana dimaksud dalam Pasal 168 ayat (2).
 - (6) Ketentuan lebih lanjut mengenai pengecualian atas larangan sebagaimana dimaksud pada ayat (2) huruf a diatur dalam Peraturan Otoritas Jasa Keuangan.
 
 ## Penjelasan Resmi

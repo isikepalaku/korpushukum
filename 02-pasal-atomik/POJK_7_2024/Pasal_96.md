@@ -18,13 +18,19 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pembubaran badan hukum lama sebagaimana dimaksud
-dalam Pasal 95 ayat (1) huruf e dilarang dilakukan
+dalam
+
+Pasal 95
+ayat (1) huruf e dilarang dilakukan
 sebelum:
 a. pengalihan seluruh hak dan kewajiban dari badan
 hukum lama kepada badan hukum baru telah
 dilaksanakan sesuai dengan akta berita acara; dan
 b. OJK memberikan persetujuan pengalihan izin usaha
-sebagaimana dimaksud dalam Pasal 94 ayat (2).
+sebagaimana dimaksud dalam
+
+Pasal 94
+ayat (2).
 (2) Pembubaran badan hukum lama dan pencabutan dari
 daftar perusahaan dilakukan sesuai dengan ketentuan
 peraturan perundang-undangan.
@@ -45,4 +51,7 @@ Huruf b
 Cukup jelas.
 Ayat (2)
 
-Lihat penjelasan Pasal 88 ayat (1).
+Lihat penjelasan
+
+Pasal 88
+ayat (1).

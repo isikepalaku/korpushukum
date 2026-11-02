@@ -18,6 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dengan tidak mengurangi ketentuan sebagaimana dimaksud dalam
+ Pasal 21, apabila Penerima Fidusia setuju bahwa Pemberi Fidusia dapat menggunakan, menggabungkan, mencampur, atau mengalihkan Benda atau hasil dari Benda yang menjadi objek Jaminan Fidusia, atau menyetujui melakukan penagihan atau melakukan kompromi atas piutang, maka persetujuan tersebut tidak berarti bahwa Penerima Fidusia melepaskan Jaminan Fidusia.
+
+ (2) Pemberi Fidusia dilarang mengalihkan, menggadaikan, atau
+ menyewakan kepada pihak lain Benda yang menjadi objek Jaminan Fidusia yang tidak merupakan benda persediaan, kecuali dengan persetujuan tertulis terlebih dahulu dari Penerima Fidusia.
 
 ## Penjelasan Resmi
 

@@ -22,7 +22,10 @@ penanggung jawab penerapan program APU, PPT, dan PPPSPM
 
 -----
 
-sebagaimana dimaksud dalam Pasal 10 ayat (2), unit kerja
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (2), unit kerja
 khusus harus memenuhi ketentuan:
 a. paling sedikit terdiri atas 1 (satu) orang pegawai yang
 bertindak sebagai pimpinan dan 1 (satu) orang pegawai

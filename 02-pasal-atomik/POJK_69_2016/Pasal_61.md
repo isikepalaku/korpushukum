@@ -30,8 +30,9 @@ pertanggungannya kepada Perusahaan atau Unit
 
 Syariah lain dalam jangka waktu 1 (satu) bulan sejak
 
-pengumuman sebagaimana dimaksud dalam Pasal 60
+pengumuman sebagaimana dimaksud dalam
 
+Pasal 60
 ayat (6) huruf b.
 
 -----

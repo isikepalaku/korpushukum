@@ -21,6 +21,15 @@ mengamandemen: []
 **Pengadilan menetapkan hari tertentu dalam jangka waktu paling lama 7 (tujuh) Hari untuk Mengadili perkara dengan**
 acara pemeriksaan cepat.
 
+Pasal 26O...
+
+-----
+
+**ilitiEItrtrN**
+REPUBUK INDONESIA
+
+**-r37-**
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

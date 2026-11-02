@@ -17,15 +17,31 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bank dikenai sanksi administratif berupa:
+(1) Bank wajib mengelola data secara efektif dalam
 
-a. larangan untuk menerbitkan produk Bank baru;
+pemrosesan data Bank untuk mendukung pencapaian
 
-b. pembekuan kegiatan usaha tertentu; dan/atau
+tujuan bisnis Bank.
 
-c. penurunan penilaian faktor tata kelola dalam
+(2) Pengelolaan data secara efektif sebagaimana dimaksud
 
-penilaian tingkat kesehatan Bank.
+pada ayat (1) memperhatikan paling sedikit:
+
+a. kepemilikan dan kepengurusan data;
+
+b. kualitas data;
+
+c. sistem pengelolaan data; dan
+
+d. sumber daya pendukung pengelolaan data.
+
+(3) Ketentuan lebih lanjut mengenai pengelolaan data oleh
+
+Bank ditetapkan oleh Otoritas Jasa Keuangan.
+
+Bagian Kedua
+
+Pelindungan Data Pribadi oleh Bank
 
 ## Penjelasan Resmi
 

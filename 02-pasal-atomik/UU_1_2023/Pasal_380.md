@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '380'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,5 +22,11 @@ mengamandemen: []
 2. (21 Setiap Orang yang membuat, mengedarkan, atau menyediakan untuk dijual atau diedarkan, atau membawa Masuk ke wilayah Negara Kesatuan Republik Indonesia Barang cetakan, potongan logam atau benda lain yang menyerupai uang kertas atau mata uang, atau yang menyerupai emas atau perak yang memakai cap negara, menyerupai meterai, atau pos segel, dipidana dengan pidana denda paling banyak kategori II.
 
 ## Penjelasan Resmi
+
+Ayat (1)
+
+Ketentuan ini dimaksudkan untuk mencegah diedarkannya di Indonesia Barang yang menyerupai mata uang. Menyimpan atau memasukkan benda semacam itu ke Indonesia hanya diperbolehkan apabil,a ada vn dan jika dipergunakan untuk perhiasan, misalnya dalam bentuk kalung atau gelang atau sebagai tanda kenang-kenangan.
+
+Ayat (2)
 
 Cukup jelas.

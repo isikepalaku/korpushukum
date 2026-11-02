@@ -19,9 +19,14 @@ mengamandemen: []
 
 (1) Bank yang melanggar ketentuan sebagaimana
 
-dimaksud dalam Pasal 53 ayat (1), Pasal 54 ayat (2),
+dimaksud dalam Pasal 53 ayat (1),
 
-ayat (4), dan/atau Pasal 55, dikenai sanksi
+Pasal 54
+ayat (2),
+
+ayat (4), dan/atau
+
+Pasal 55, dikenai sanksi
 
 administratif berupa teguran tertulis.
 
@@ -30,6 +35,22 @@ administratif berupa teguran tertulis.
 sebagaimana dimaksud pada ayat (1) dan belum
 
 memenuhi ketentuan sebagaimana dimaksud dalam
+
+Pasal 53
+ayat (1),
+
+Pasal 54
+ayat (2), ayat (4), dan/atau
+
+Pasal 55, Bank dikenai sanksi administratif berupa:
+
+a. larangan untuk menerbitkan produk Bank baru;
+
+b. pembekuan kegiatan usaha tertentu; dan/atau
+
+c. penurunan penilaian faktor tata kelola dalam
+
+penilaian tingkat kesehatan Bank.
 
 ## Penjelasan Resmi
 

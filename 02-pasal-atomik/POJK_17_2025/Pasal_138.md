@@ -18,8 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Setiap Pihak yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 135, Pasal 136, dan/atau Pasal
-137 ayat (2) dikenai sanksi administratif.
+dimaksud dalam Pasal 135,
+
+Pasal 136, dan/atau Pasal 137 ayat (2) dikenai sanksi administratif.
 (2) Sanksi sebagaimana dimaksud pada ayat (1) dikenakan
 juga kepada Pihak yang menyebabkan terjadinya
 pelanggaran sebagaimana dimaksud pada ayat (1).

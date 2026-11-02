@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai pengawasan oleh Pengendali Data Pribadi sebagaimana dimaksud dalam Pasal 126 dan Pasal 127 diatur dalam Peraturan Lembaga.
+Ketentuan lebih lanjut mengenai pengawasan oleh Pengendali Data Pribadi sebagaimana dimaksud dalam Pasal 126 dan
+
+Pasal 127
+diatur dalam Peraturan Lembaga.
 
 ## Penjelasan Resmi
 

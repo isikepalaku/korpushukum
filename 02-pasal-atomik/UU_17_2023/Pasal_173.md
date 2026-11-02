@@ -60,7 +60,10 @@ Hurufg. . .
 
 Huruf g
 
-Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Pasal 174 Cukup jelas. Pasal 175 Cukup jelas. Pasal 176 Cukup jelas. PasaL 177 Ayat (1) Yang dimaksud dengan "rahasia Kesehatan pribadi Pasien" adalah segala sesuatu yang berhubungan dengan hal yang ditemukan oleh Tenaga Medis dan Tenaga Kesehatan dalam rangka pengobatan dan dicatat dalam rekam medis yang dimiliki Pasien serta bersifat rahasia. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 178 Cukup jelas. Pasal 179
+Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas.
+
+Pasal 174
+Cukup jelas. Pasal 175 Cukup jelas. Pasal 176 Cukup jelas. Pasal 177 Ayat (1) Yang dimaksud dengan "rahasia Kesehatan pribadi Pasien" adalah segala sesuatu yang berhubungan dengan hal yang ditemukan oleh Tenaga Medis dan Tenaga Kesehatan dalam rangka pengobatan dan dicatat dalam rekam medis yang dimiliki Pasien serta bersifat rahasia. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Pasal 178 Cukup jelas. Pasal 179
 
 Ayat (1)
 

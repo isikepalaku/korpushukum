@@ -57,7 +57,9 @@ Fa.sal 61
 **(1) Pemerintah Pusat atau Pemerintah Daerah dapat**
 
 **memberikan apresiasi berbentuk insentif kepada badan usaha yang menyediakan tempat promosi dan pengembangan Usaha Mikro dan Usaha Kecil sesuai**
-dengan alokasi sebagaima-na dimaksud dalam Pasal 60
+dengan alokasi sebagaima-na dimaksud dalam
+
+Pasal 60
 **ayat (1).**
 **(2) Insentif sebagaimana dimaksud pada ayat (1) dapat**
 

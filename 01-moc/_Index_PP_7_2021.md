@@ -4,7 +4,7 @@ judul: "Map of Content - Kemudahan, Pelindungan, dan Pemberdayaan Koperasi dan U
 kode_uu: PP_7_2021
 type: moc
 tags: [moc, hukum/keuangan, uu/pp_7_2021]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Kemudahan, Pelindungan, dan Pemberdayaan Koperasi dan UMKM (PP_7_2021)
@@ -13,32 +13,29 @@ last_updated: 2026-11-01
 
 ## Daftar Pasal
 
-- [[Pasal_1]]: (l ) Komisi Pengawas Persaingan Usaha melakukan
-- [[Pasal_2]]: **(1) Dalam melakukan pemberdayaan Koperasi melalui**
-- [[Pasal_3]]: kewenanganrrya ["men5rusun ]rencana tahunan dan menyediakan alokasi anggaran program kemudahan, pelindungan, dan pemberciayaan usa...
+- [[Pasal_1]]: Pasal 1
+- [[Pasal_2]]: (1) Pemerintah Pusat dan Pemerintah Daerah
+- [[Pasal_3]]: **(1) Koperasi primer dibentuk paling sedikit oleh 9**
 - [[Pasal_4]]: **Koperasi memperoleh status badan hukum pada tanggal**
 - [[Pasal_5]]: **Pembentukan Koperasi dilakukan dengan akta pendirian yang memuat anggaran dasar.**
 - [[Pasal_6]]: **(1) Dalam pembentukan Koperasi sebagaimana dimaksud**
 - [[Pasal_7]]: **Pemerintah Pusat dan Pemerintah Daerah melakukan pembinaan dan pendampingan bagi kelompok masyarakat yang akan membentuk Koperas...
 - [[Pasal_8]]: **(1) Rapat anggota dapat dilaksanakan secara daring danl**
-- [[Pasal_8I]]: **(1) Kementerian/lembaga pemerintah nonkementerian dan perangkat daerah wajib menggunakan**
-- [[Pasal_9]]: **(1) Pemerintah Pusat dan Pemerintah Daerah melakukan**
+- [[Pasal_9]]: **(1) Koperasi yang melaksanakan kegiatan usaha simpan**
 - [[Pasal_10]]: Pasal 10
 - [[Pasal_12]]: **(1) Kelebihan kemampuan pelayanan Koperasi dapat**
-- [[Pasal_12L]]: Pasal 12L
 - [[Pasal_13]]: **(1) Koperasi dapat menjalankan kegiatan usaha**
-- [[Pasal_13O]]: Pasal 13O
 - [[Pasal_14]]: **(1) Koperasi syariah melaksanakan kegiatan usaha**
 - [[Pasal_15]]: **(1) Usaha simpan pinjam dan pembiayaan syariah hanya**
 - [[Pasal_16]]: Koperasi syariah yang menjalankan fungsi sosial dalam bentuk baitul maal sebagaimana dimaksud dalam Pasal 14 ayat (3) atau Koperas...
 - [[Pasal_17]]: **(1) Koperasi syariah wajib mempunyai dewan pengawas**
 - [[Pasal_18]]: (1) Kementerian dan/atau kementerian yang
-- [[Pasal_19]]: **a. rncnefapkan bidang kegiatan ekonomi yang hanya**
+- [[Pasal_19]]: Pasal 19
 - [[Pasal_20]]: Pasal 20
 - [[Pasal_22]]: **(1) Program kemudahan, pelindungan, dan**
 - [[Pasal_23]]: **Pemerintah Daerah melaporkan hasil pelaksanaan program kemudahan, pelindungan, dan pemberdayaan usaha Koperasi yang dibiayai mel...
 - [[Pasal_24]]: **(1) Pemerintah Pusat melalui Kementerian melakukan**
-- [[Pasal_25]]: **a. penyelenggaraan tenaga kerja bongkar muat oleh**
+- [[Pasal_25]]: **Pemerintah Pusat dan Pemerintah Daerah melakukan pemberdayaan bagi Koperasi yang melakukan kegiatan usaha tertentu di sektor:**
 - [[Pasal_26]]: **(1) Pemberdayaan bagi Koperasi di sektor kelautan dan**
 - [[Pasal_27]]: **(1) Dalarn hal belum terdapat Koperasi di sektor kerautan**
 - [[Pasal_28]]: **(1) Pemerintah lDusat dan pemerintah Daerah**
@@ -55,12 +52,12 @@ last_updated: 2026-11-01
 - [[Pasal_39]]: **(1) Pemerintah Pusat dan Pemerintah Daerah melakukan**
 - [[Pasal_40]]: **Dalam hal pelaku Usaha Mikro dan Usaha Kecil tidak dapat mengakses Perizinan Berusaha secara daring, Dinas, perangkat di tingkat...
 - [[Pasal_41]]: **(1) Pemerintah Pusat dan Pemerintah Daerah**
-- [[Pasal_42]]: Usaha Mikro dan Usaha Kecil [yang ][baru mendirikan ] [usaha] dapat langsung mengajukan [permohonan ][nomor ] [induk] berusaha, se...
-- [[Pasal_43]]: 
+- [[Pasal_42]]: Pasal 42
+- [[Pasal_43]]: (1) Pemerintah Pusat menyelenggarakan [perrzinan]
 - [[Pasal_44]]: Nomor induk berusaha untuk Usaha Mikro dan [Usaha Kecil]
 - [[Pasal_45]]: **(1) Pertzinantunggal, sertifikat standar dan/atau [izinbagr]**
 - [[Pasal_46]]: **Pendaftaran pertzinan tunggal, [pemenuhan ][kepemilikan] sertifikat standar dan/atau [izin, dan ] [perpanjangan] sertifikat [jam...
-- [[Pasal_47]]: **a. persyaratan yang harus dipenuhi oleh pemohon; b. tata cara mengajukan permohonan izin usaha; dan c. pembebasan biaya perizina...
+- [[Pasal_47]]: Pasal 47
 - [[Pasal_48]]: **(1) Pemerintah Pusat dan Pemerintah Daerah wajib**
 - [[Pasal_49]]: **Untuk memperoleh layanan bantuan dair pendampingan hukurn sebagaimana dimaksud daiam Pasal 48 Usaha Mikro ian Usaha Kecil harus ...
 - [[Pasal_50]]: **(1) Pern€rintah Pusat dan Pemerintah Daerah dapat**
@@ -92,7 +89,7 @@ last_updated: 2026-11-01
 - [[Pasal_76]]: **Koordinasi dan pengendalian pengelolaan terpadu Usaha Mikro dan Usaha Kecil dalarn penataan klaster dilakukan di tingkat nasiona...
 - [[Pasal_77]]: Pasal 77
 - [[Pasal_78]]: **Pembiayaan pengeloiaan terpadu Usaha Mikro dan Usaha Kecil bersurnber dari:**
-- [[Pasal_79]]: (i ) liemerrtet ian yang rrcri5relsnggarakan urusan
+- [[Pasal_79]]: Pasal 79
 - [[Pasal_80]]: **(1) Kegiatan LJsaha Itlikro dan Usaha Kecil dapat dijadikan**
 - [[Pasal_81]]: Pasal 81
 - [[Pasal_82]]: **(1) Kementerian yang menyelenggarakan urusan**
@@ -118,11 +115,9 @@ last_updated: 2026-11-01
 - [[Pasal_104]]: **(1) Kemitraan antara Usaha Mikro, Usaha Kecil, dan**
 - [[Pasal_105]]: **(1) Kemitraan mencakup proses alih keterampilan bidang**
 - [[Pasal_106]]: **(1) Kemitraan sebagaimana dimaksud dalam Pasal 105**
-- [[Pasal_107]]: **a. usaha besar berkedudukan sebagai inti dan Usaha**
 - [[Pasal_108]]: **(1) Dalam pola kemitraan subkontrak sebagaimana**
 - [[Pasal_109]]: **(1) Dalam pola kemitraan waralaba sebagaimana**
 - [[Pasal_110]]: Pasal 110
-- [[Pasal_111]]: Pasal 111
 - [[Pasal_113]]: Pasal 113
 - [[Pasal_115]]: Pasal 115
 - [[Pasal_116]]: Pasal 116

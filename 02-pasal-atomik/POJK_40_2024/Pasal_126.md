@@ -20,10 +20,16 @@ mengamandemen: []
 (1) Status badan hukum Penyelenggara yang dilikuidasi
 berakhir sejak tanggal pengumuman berakhirnya
 Likuidasi dalam Berita Negara Republik Indonesia
-sebagaimana dimaksud dalam Pasal 124 huruf a angka
+sebagaimana dimaksud dalam
+
+Pasal 124
+huruf a angka
 1 dan Pasal 125 ayat (2) huruf a angka 1.
 (2) Sejak tanggal Pencabutan Izin Usaha Penyelenggara
-sebagaimana dimaksud dalam Pasal 95 ayat (1),
+sebagaimana dimaksud dalam
+
+Pasal 95
+ayat (1),
 pemegang saham atau yang setara dengan pemegang
 saham pada badan hukum berbentuk koperasi wajib
 bertanggung jawab atas setiap proses dan pelaksanaan
@@ -37,7 +43,9 @@ Pemisahan;
 b. mengajukan penghentian kegiatan usaha atas
 permintaan Penyelenggara; atau
 c. belum melakukan kegiatan usaha selama jangka
-waktu sebagaimana dimaksud dalam Pasal 12
+waktu sebagaimana dimaksud dalam
+
+Pasal 12
 ayat (1).
 
 Bagian Keenam

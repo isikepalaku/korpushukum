@@ -21,7 +21,10 @@ mengamandemen: []
 
 pencabutan izin usaha KCBLN sebagaimana dimaksud
 
-dalam Pasal 124 ayat (2) huruf a angka 1) dan huruf b
+dalam
+
+Pasal 124
+ayat (2) huruf a angka 1) dan huruf b
 
 dilakukan dalam 2 (dua) tahap:
 

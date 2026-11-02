@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '260'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -30,5 +30,20 @@ mengamandemen: []
 Paragraf 5 Turut Serta dalam Organisasi yang Bertujuan Melakukan Tindak Pidana
 
 ## Penjelasan Resmi
+
+Ayat (1)
+Yang dimaksud dengan nkantor pemerintah yang melayani kepentingan umum" antara lain, kantor polisi, kantor kejaksaan, kantor pengadilan, kantor p4iak, kantor pos, rumah sakit pemerintah, kantor Gubemur/Bupati/Walikota, dan kantor kelurahan.
+
+Yang dimaksud dengan "Pejabat yang berwenang" adalah Pejabat yang diberi kekuasaan atas seluruh kantor atau pegawai yang semata-mata diberi tugas unhrk menjaga ketertiban dalam kantor tersebut.
+
+Ayat l2l
+
+Cukup jelas.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
 
 Cukup jelas.

@@ -29,6 +29,12 @@ mengamandemen: []
 
  - d. objek transaksi tidak boleh bertentangan dengan peraturan perundang-undangan,. kesusilaan, dan ketertiban umum.
 
+Pasal 47...
+
+SK No011710 A
+
+PRESIDEN REPUBLIK TNDONESIA
+
 ## Penjelasan Resmi
 
 Ayat (1)

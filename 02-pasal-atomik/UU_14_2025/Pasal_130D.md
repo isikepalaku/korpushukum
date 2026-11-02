@@ -19,8 +19,7 @@ mengamandemen: []
 
 Peraturan pelaksanaan dari Undang-Undang ini harus ditetapkan paling lama 6 (enam) bulan terhitung sejak Undang-Undang ini diundangkan.
 
-## Pasal II
-
+## Pasal 11
 - 1 Pemerintah dan DPR RI melalui alat kelengkapan yang menangani bidang legislasi wajib melakukan pemantauan dan peninjauan terhadap pelaksanaan Undang-Undang ini setelah Undang-Undang ini diundangkan berdasarkan mekanisme yang diatur dalam Undang-Undang mengenai Pembentukan Peraturan Perundang-undangan.
 - Undang-Undang ini mulai berlaku pada tanggal diundangkan. 2
 

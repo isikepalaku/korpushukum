@@ -17,7 +17,24 @@ mengamandemen: []
 
 ## Batang Tubuh
 
+(1) Perusahaan yang melakukan perubahan:
+a. anggota Direksi;
+b. anggota Dewan Komisaris; dan/atau
+c. anggota DPS,
+wajib menyampaikan pelaporan kepada Otoritas Jasa
+Keuangan paling lambat 15 (lima belas) hari kerja
+setelah perubahan dicatat oleh instansi yang
+berwenang.
+(2) Pelaporan perubahan anggota Direksi, anggota Dewan
+Komisaris, dan/atau anggota DPS harus disampaikan
+Direksi dengan melampirkan dokumen persyaratan
+pelaporan perubahan anggota Direksi, anggota Dewan
+Komisaris, dan/atau anggota DPS tercantum dalam
+Lampiran pada tabel 24 yang merupakan bagian tidak
+terpisahkan dari Peraturan Otoritas Jasa Keuangan ini.
 
+Bagian Keempat
+Sanksi Administratif
 
 ## Penjelasan Resmi
 

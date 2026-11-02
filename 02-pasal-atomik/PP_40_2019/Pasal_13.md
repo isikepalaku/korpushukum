@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam menyelenggarakan kewenangan sebagaimana
-dimaksud dalam Pasal 11 ayat (2) huruf b, gubernur:
+dimaksud dalam
+
+Pasal 11
+ayat (2) huruf b, gubernur:
 a. melaksanakan bimbingan teknis pendaftaran
 Penduduk, pencatatan sipil, pengelolaan informasi
 Administrasi Kependudukan, dan pendayagunaan

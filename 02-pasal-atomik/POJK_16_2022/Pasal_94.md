@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Bank yang telah memperoleh persetujuan pemindahan
-alamat kantor sebagaimana dimaksud dalam Pasal 91
+alamat kantor sebagaimana dimaksud dalam
+
+Pasal 91
 dari OJK serta persetujuan dari otoritas negara
 setempat bagi Kantor di Luar Negeri, wajib
 mengumumkan rencana pemindahan alamat kantor
@@ -53,7 +55,10 @@ setempat kepada OJK paling lama 10 (sepuluh) hari
 kerja sejak tanggal efektif pemindahan alamat Kantor di
 Luar Negeri.
 (6) Dalam hal pemindahan alamat kantor Bank
-sebagaimana dimaksud dalam Pasal 91 batal
+sebagaimana dimaksud dalam
+
+Pasal 91
+batal
 dilaksanakan, Bank wajib menyampaikan informasi
 pembatalan kepada OJK paling lama sebelum
 pelaksanaan pemindahan alamat kantor Bank
@@ -65,7 +70,10 @@ berwenang sehubungan dengan pembatalan
 pemindahan alamat KP yang mengakibatkan
 perubahan tempat kedudukan dalam anggaran dasar.
 (8) Dalam hal pemindahan alamat kantor Bank
-sebagaimana dimaksud dalam Pasal 91 batal
+sebagaimana dimaksud dalam
+
+Pasal 91
+batal
 dilaksanakan dan Bank telah mengumumkan rencana
 pemindahan alamat sebagaimana dimaksud pada ayat
 (1), Bank wajib mengumumkan pembatalan

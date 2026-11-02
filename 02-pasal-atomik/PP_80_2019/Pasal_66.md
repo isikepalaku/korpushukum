@@ -21,6 +21,10 @@ mengamandemen: []
 
 - (2) Dalam hal terdapat kesalahan dan/atau ketidaksesuaian antara jangka waktu aktual dan jangka waktu pengiriman Barang dan/atau Jasa yang telah disepakati dalam Kontrak Elektronik dengan Barang dan/atau Jasa yang dikirim sehingga menimbulkan perselisihan antara Konsumen dengan Pelaku Usaha, maka PPMSE dalam negeri dan/atau PPMSE luar negeri wajib menyelesaikan perselisihan tersebut.
 
+Pasal 67...
+
+PRESIDEN REPUBLIK INDONESIA -32-
+
 ## Penjelasan Resmi
 
 Cukupjelas.

@@ -28,7 +28,10 @@ melakukan penutupan asuransi secara bersama-sama
 
 satu objek pertanggungan yang dilakukan kasus per
 
-kasus sebagaimana dimaksud dalam Pasal 70 ayat (2),
+kasus sebagaimana dimaksud dalam
+
+Pasal 70
+ayat (2),
 
 wajib memenuhi ketentuan sebagai berikut:
 

@@ -24,3 +24,12 @@ mengamandemen:
 
 Dihapus. 
 Angka 24 . . .
+
+Angka 24
+
+Pasal 87A 
+Cukup jelas.
+
+Pasal 87B 
+Cukup jelas. 
+Angka 25

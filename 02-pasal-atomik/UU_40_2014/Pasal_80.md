@@ -4,7 +4,7 @@ uu_induk: Perasuransian
 kode_uu: UU_40_2014
 pasal: '80'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_40_2014
@@ -22,4 +22,6 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
+**Cukup [jelas.]**Pasal 8l
+
+**Cukup [jel;as.]**

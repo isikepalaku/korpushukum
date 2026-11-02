@@ -20,6 +20,42 @@ mengamandemen: []
 
 (1) Dalam hal Bank Sistemik sebagaimana dimaksud dalam
 
+Pasal 17
+mengalami kesulitan keuangan, Bank Sistemik
+menerapkan rencana aksi sebagaimana dimaksud dalam
+
+Pasal 18
+ayat (1) huruf b dan ayat (2) yang sudah disetujui
+oleh Otoritas Jasa Keuangan.
+
+(2) Dalam hal rencana aksi sebagaimana dimaksud dalam
+
+Pasal 18
+ayat (1) huruf b dan ayat (2) belum disetujui oleh
+Otoritas Jasa Keuangan, Bank Sistemik menerapkan
+langkah penyehatan yang ditetapkan oleh Otoritas Jasa
+Keuangan.
+
+(3) Otoritas Jasa Keuangan memastikan dilaksanakannya
+
+rencana aksi atau langkah penyehatan oleh Bank dengan
+menerbitkan perintah tertulis, menempatkan pengelola
+statuter, dan/atau melalui mekanisme lain berdasarkan
+Undang-Undang mengenai Otoritas Jasa Keuangan.
+
+(4) Ketentuan mengenai rencana aksi dan langkah
+penyehatan sebagaimana dimaksud pada ayat (1), ayat (2),
+dan ayat (3) diatur dalam Peraturan Otoritas Jasa
+Keuangan.
+
+Bagian . . .
+
+-----
+
+ - 14
+Bagian Ketiga
+Penanganan Permasalahan Likuiditas Bank Sistemik
+
 ## Penjelasan Resmi
 
 Cukup jelas.

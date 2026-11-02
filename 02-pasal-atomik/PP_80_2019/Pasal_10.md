@@ -39,8 +39,7 @@ Ayat (3)
 
 Cukup jelas. 
 
-Pasal I 1 
-
+Pasal 11
 Setiap Pelaku Usaha yang melakukan PMSE wajib memenuhi persyaratan antara lain izin usaha, izin teknis, Tanda Daftar Perusahaan, Nomor Pokok Wajib Pajak, kode etik bisnis (business conduct)/perilaku usaha (code of practices), standardisasi produk Barang dan/atau Jasa dan hal-hal lain sesuai dengan ketentuan peraturan perundang-undangan. 
 
 Kode etik bisnis (busfness conductllperilaku usaha (code of practices) adalah aturan etis untuk melakukan Perdagangan secara jujur dan menjunjung semangat kompetisi yang sehat, baik yang berlaku internal maupun eksternal Pelaku Usaha.

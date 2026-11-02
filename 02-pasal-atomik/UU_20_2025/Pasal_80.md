@@ -42,6 +42,14 @@ dengan pidana penjara paling lama 5 (lima) tahun;
 **(21 Dalam hal belum terdapat tindak pidana sebagaimana**
  dimaksud pada ayat (1), berdasarkan laporan Korban dilakukan mekanisme Keadilan Restoratif pada tahap Penyelidikan berupa kesepakatan damai antara pelaku dan Korban.
 
+Pasal 81
+**(1) Mekanisme Keadilan Restoratif dilakukan melalui:**
+
+**a. permohonan yang diajukan oleh pelaku tindak**
+ pidana, Tersangka, Terdakwa, atau Keluarganya, dan/atau Korban tindak pidana atau Keluarganya; atau b. penawaran dari Penyelidik, Penyidik, Penuntut
+ Umum, atau Hakim kepada Korban, pelaku tindak pidana, Tersangka, atau Terdakwa. (21 Mekanisme Keadilan Restoratif sebagaimana
+ dimaksud pada ayat (l) dilakukan tanpa tekanan, paksaan, intimidasi, tipu daya, ancaman kekerasan, kekerasan, penyiksaan, dan tindakan yang merendahkan kemanusian terhadap Tersangka, Terdakwa, Korban, dan/ atau Keluarganya.
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Dalam melakukan penelaahan sebagaimana dimaksud
 
-dalam Pasal 59 ayat (1) huruf a, Penyelenggara wajib:
+dalam
+
+Pasal 59
+ayat (1) huruf a, Penyelenggara wajib:
 a. mempertimbangkan informasi perkreditan dari
 lembaga yang berizin dari Otoritas Jasa Keuangan;
 dan

@@ -19,8 +19,9 @@ mengamandemen: []
 
 (1) Bank yang terlambat menyampaikan notifikasi awal
 
-insiden TI sebagaimana dimaksud dalam Pasal 60
+insiden TI sebagaimana dimaksud dalam
 
+Pasal 60
 ayat (1) huruf a atau ayat (4) dikenai sanksi
 
 administratif berupa teguran tertulis.
@@ -30,6 +31,19 @@ administratif berupa teguran tertulis.
 sebagaimana dimaksud pada ayat (1) dan belum
 
 memenuhi ketentuan sebagaimana dimaksud dalam
+
+Pasal 60
+ayat (1) huruf a atau ayat (4), Bank dikenai
+
+sanksi administratif berupa:
+
+a. larangan untuk menerbitkan produk Bank baru;
+
+b. pembekuan kegiatan usaha tertentu; dan/atau
+
+c. penurunan penilaian faktor tata kelola dalam
+
+penilaian tingkat kesehatan Bank.
 
 ## Penjelasan Resmi
 

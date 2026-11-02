@@ -23,7 +23,10 @@ pendukung
 operasional 
 SIAK 
 sebagaimana 
-dimaksud dalam Pasal 30 huruf t, melekat pada jabatan 
+dimaksud dalam
+
+Pasal 30
+huruf t, melekat pada jabatan 
 fungsional umum yang membidangi operasional SIAK. 
 www.peraturan.go.id
 

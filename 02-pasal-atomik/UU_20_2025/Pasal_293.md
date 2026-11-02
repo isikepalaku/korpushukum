@@ -5,7 +5,7 @@ uu_induk: KUHAP — Undang-Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undan
 kode_uu: UU_20_2025
 pasal: '293'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_20_2025
@@ -19,9 +19,13 @@ mengamandemen: []
 ## Batang Tubuh
 
 **Tata cara pemeriksaan Saksi dan/ atau Ahli pada tingkat**
- pertama sebagaimana dimaksud dalam Pasal 214 berlaku secara mutatis mutandis terhadap sidang pemeriksaan
+ pertama sebagaimana dimaksud dalam
+
+Pasal 214
+berlaku secara mutatis mutandis terhadap sidang pemeriksaan
 Saksi dan/atau Ahli di tingkat banding.
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
+**Cukup [jelas.]**Pasal 294
+ Cukup [jelas.]

@@ -20,7 +20,10 @@ mengamandemen: []
 
 Penyedia jasa pembayaran dan penyedia jasa fasilitasi
 transaksi Aset Keuangan Digital sebagaimana dimaksud
-dalam Pasal 102 ayat (2) huruf a dan huruf b wajib
+dalam
+
+Pasal 102
+ayat (2) huruf a dan huruf b wajib
 memenuhi ketentuan:
 a. memberikan hak akses kepada Otoritas Jasa Keuangan
 dalam melakukan pengawasan;

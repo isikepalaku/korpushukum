@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Dalam hal Perusahaan menerbitkan efek bersifat utang
 tidak melalui penawaran umum sebagaimana
-dimaksud dalam Pasal 182 ayat (1) huruf e, Perusahaan
+dimaksud dalam
+
+Pasal 182
+ayat (1) huruf e, Perusahaan
 wajib menerbitkan efek bersifat utang yang memenuhi
 ketentuan sebagai berikut:
 a. dilakukan pemeringkatan dengan hasil

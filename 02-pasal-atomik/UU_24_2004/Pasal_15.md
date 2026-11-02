@@ -18,9 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Cara penetapan premi sebagaimana dimaksud dalam Pasal
-
- 13 ayat (1) dapat diubah sehingga tingkat premi menjadi
+(1) Cara penetapan premi sebagaimana dimaksud dalam Pasal 13 ayat (1) dapat diubah sehingga tingkat premi menjadi
 
  berbeda antara satu bank dan bank yang lain berdasarkan
 

@@ -5,7 +5,7 @@ uu_induk: Perubahan atas POJK 69-POJK.05-2016 (Penyelenggaraan Usaha Perusahaan 
 kode_uu: POJK_36_2024
 pasal: '10'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/pojk_36_2024
@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Untuk mendapatkan persetujuan perluasan ruang
 lingkup usaha berbasis imbalan jasa (fee based)
-sebagaimana dimaksud dalam Pasal 4 huruf d,
+sebagaimana dimaksud dalam
+
+Pasal 4
+huruf d,
 Perusahaan Asuransi, Perusahaan Asuransi
 Syariah, atau Unit Syariah pada Perusahaan
 Asuransi harus menyampaikan surat permohonan
@@ -64,3 +67,5 @@ sebagai berikut:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 10

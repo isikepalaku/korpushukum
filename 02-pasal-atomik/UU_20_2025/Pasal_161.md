@@ -18,7 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

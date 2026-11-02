@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) PJK yang melanggar ketentuan sebagaimana dimaksud
-dalam Pasal 69 ayat (1), ayat (3), ayat (4), dan/atau ayat
+dalam
+
+Pasal 69
+ayat (1), ayat (3), ayat (4), dan/atau ayat
 (5) dikenai sanksi administratif berupa:
 a. peringatan atau teguran tertulis yang disertai dengan
 perintah untuk melakukan tindakan tertentu;
@@ -34,6 +37,12 @@ kepada masyarakat.
 (3) Pengenaan sanksi administratif sebagaimana dimaksud
 pada ayat (1) tidak menghapus kewajiban PJK untuk tetap
 melaksanakan ketentuan sebagaimana dimaksud dalam
+
+Pasal 69
+ayat (1), ayat (3), ayat (4), dan/atau ayat (5).
+
+BAB VIII
+SUMBER DAYA MANUSIA DAN PELATIHAN
 
 ## Penjelasan Resmi
 

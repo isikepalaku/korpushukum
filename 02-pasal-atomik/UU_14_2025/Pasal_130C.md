@@ -23,6 +23,7 @@ T\rgas, fungsi, dan kewenangan Penyelenggaracrn Ibadah Haji dan Umrah di kemente
 
 Pasal l3OD Cukup jelas.
 
-Pasal II Cukup jelas.
+Pasal 11
+Cukup jelas.
 
 ## TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 7132

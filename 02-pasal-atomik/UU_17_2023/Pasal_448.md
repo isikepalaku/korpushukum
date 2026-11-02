@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal tindak pidana sebagaimana dimaksud dalam Pasal 428, Pasal 43O sampai dengan Pasal 435, Pasal 437, PasaJ442,Pasal 444, Pasal 445, dan Pasal 446 dilakukan oleh korporasi, selain dikenai pidana denda, korporasi juga dikenai pidana tambahan berupa:
+Dalam hal tindak pidana sebagaimana dimaksud dalam Pasal 428,
+
+Pasal 430
+sampai dengan Pasal 435, Pasal 437, PasaJ442,Pasal 444, Pasal 445, dan Pasal 446 dilakukan oleh korporasi, selain dikenai pidana denda, korporasi juga dikenai pidana tambahan berupa:
 
 - a. pembayaran ganti rugi;
 - b. pencabutan izin tertentu; danlatau

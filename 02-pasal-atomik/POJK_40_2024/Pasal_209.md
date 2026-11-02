@@ -17,12 +17,32 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-pengawasan intensif atau pengawasan khusus jika:
-a. Penyelenggara dalam proses Penggabungan,
-Peleburan, atau pengambilalihan; dan/atau
-b. Penyelenggara dalam proses penambahan setoran
-modal yang paling sedikit telah tercatat dalam
-kriteria dana setoran modal.
+Penetapan Penyelenggara dalam status pengawasan khusus
+sebagaimana dimaksud dalam
+
+Pasal 206
+ayat (2) huruf c,
+jika:
+a. jangka waktu sebagaimana dimaksud dalam Pasal 208
+ayat (1) atau ayat (2) berakhir dan Penyelenggara belum
+memenuhi kriteria sebagaimana dimaksud dalam
+
+Pasal 207;
+b. Tingkat Kesehatan Penyelenggara ditetapkan pada
+Peringkat Komposit 5 (lima);
+
+-----
+
+c. memenuhi parameter kuantitatif:
+1. rasio Ekuitas terhadap Modal Disetor dibawah 0%
+(nol persen); dan/atau
+2. rasio kualitas Pendanaan macet neto lebih besar
+25% (dua puluh lima persen); dan/atau
+d. memenuhi kriteria selain kriteria sebagaimana
+dimaksud dalam huruf a, huruf b, dan huruf c yang
+berdampak kepada kelangsungan usaha Penyelenggara
+dan/atau merugikan kepentingan Pengguna secara
+signifikan.
 
 ## Penjelasan Resmi
 

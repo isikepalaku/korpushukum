@@ -18,14 +18,20 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Untuk mendapatkan persetujuan Otoritas Jasa
-Keuangan sebagaimana dimaksud dalam Pasal 32 ayat
+Keuangan sebagaimana dimaksud dalam
+
+Pasal 32
+ayat
 (1), permohonan persetujuan harus disampaikan oleh
 direksi atau yang setara dari Perusahaan Asuransi atau
 Perusahaan Asuransi Syariah.
 (2) Dalam hal penyelenggaraan Produk Asuransi
 merupakan Produk Asuransi Bersama, untuk
 mendapatkan persetujuan Otoritas Jasa Keuangan
-sebagaimana dimaksud dalam Pasal 32 ayat (1),
+sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (1),
 permohonan persetujuan harus disampaikan oleh
 direksi atau yang setara dari Perusahaan Asuransi
 atau Perusahaan Asuransi Syariah yang menjadi

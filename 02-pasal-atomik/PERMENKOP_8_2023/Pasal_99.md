@@ -17,16 +17,24 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-dimaksud dalam Pasal 99 ayat (2) huruf b diberikan
+dimaksud dalam
+
+Pasal 99
+ayat (2) huruf b diberikan
 sertifikat kesehatan.
 
 -----
 
 (2) Terhadap KSP/KSPPS dan USP/USPPS Koperasi dengan
 tingkat kesehatan dalam pengawasan sebagaimana
-dimaksud dalam Pasal 99 ayat (2) huruf c atau dalam
-pengawasan khusus sebagaimana dimaksud dalam Pasal
-99 ayat (2) huruf d ditindaklanjuti dengan sanksi
+dimaksud dalam
+
+Pasal 99
+ayat (2) huruf c atau dalam
+pengawasan khusus sebagaimana dimaksud dalam
+
+Pasal 99
+ayat (2) huruf d ditindaklanjuti dengan sanksi
 administratif.
 (3) Sertifikat kesehatan sebagaimana dimaksud pada ayat (1)
 atau sanksi administratif sebagaimana dimaksud pada

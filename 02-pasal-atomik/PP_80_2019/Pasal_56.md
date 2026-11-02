@@ -4,7 +4,7 @@ uu_induk: Perdagangan Melalui Sistem Elektronik
 kode_uu: PP_80_2019
 pasal: '56'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/siber
 - uu/pp_80_2019
@@ -22,3 +22,7 @@ Pelaku Usaha wajib menyediakan Kontrak Elektronik yang dapat diunduh dan/atau di
 ## Penjelasan Resmi
 
 Cukupjelas.
+
+Pasal 57... 
+
+PRES IDEN REPUBUK INDONESIA -17-

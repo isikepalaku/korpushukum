@@ -17,22 +17,54 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-denda sebesar Rp100.000,00 (seratus ribu rupiah) per hari
-kerja dan paling banyak Rp5.000.000,00 (lima juta
-rupiah).
-(5) Pengenaan sanksi administratif sebagaimana dimaksud
-pada ayat (4) tidak menghilangkan kewajiban
-penyampaian bukti pengumuman dan/atau bukti
-pembubaran badan hukum bagi BPR atau BPR Syariah
-yang belum menyampaikan bukti pengumuman dan/atau
-bukti pembubaran badan hukum.
+(1) BPR atau BPR Syariah yang telah memperoleh persetujuan
+pengalihan izin usaha dari badan hukum lama kepada
+badan hukum baru, wajib:
+a. mengumumkan perubahan bentuk badan hukum
+BPR atau BPR Syariah kepada masyarakat pada
+papan pengumuman di seluruh kantor BPR atau BPR
+Syariah yang bersangkutan, surat kabar harian lokal,
+media massa elektronik, dan/atau situs web BPR
+atau BPR Syariah, paling lama 10 (sepuluh) hari kerja
+setelah persetujuan atas permohonan pengalihan izin
+usaha dari badan hukum lama kepada badan hukum
+baru dari OJK dan menyampaikan bukti
+pengumuman kepada OJK;
+b. mengganti penulisan nama pada papan nama,
+dokumen, formulir, dan warkat sesuai bentuk badan
+hukum baru BPR atau BPR Syariah yang telah
+disetujui oleh OJK paling lama 20 (dua puluh) hari
+kerja setelah persetujuan atas permohonan
+pengalihan izin usaha dari badan hukum lama
+kepada badan hukum baru dari OJK;
+c. menggunakan persediaan bilyet deposito, buku
+tabungan, formulir, dan warkat dengan bentuk badan
+hukum baru untuk kegiatan operasional BPR atau
+BPR Syariah paling lama 20 (dua puluh) hari kerja
+setelah persetujuan atas permohonan pengalihan izin
+usaha dari badan hukum lama kepada badan hukum
+baru dari OJK;
 
-BAB VII
-PENGGABUNGAN, PELEBURAN, DAN PENGAMBILALIHAN
+-----
 
-Bagian Kesatu
-
-Umum
+d. menyampaikan berita acara pemusnahan persediaan
+bilyet deposito, buku tabungan, formulir dan warkat
+BPR atau BPR Syariah dengan bentuk badan hukum
+lama yang belum digunakan paling lama 20 (dua
+puluh) hari kerja setelah persetujuan atas
+permohonan pengalihan izin usaha dari badan
+hukum lama kepada badan hukum baru dari OJK;
+dan
+e. melakukan pembubaran badan hukum lama dan
+menyampaikan bukti pembubaran badan hukum
+lama kepada OJK.
+(2) Bukti pengumuman sebagaimana dimaksud pada ayat (1)
+huruf a wajib disampaikan kepada OJK paling lama 10
+(sepuluh) hari kerja setelah tanggal pengumuman.
+(3) Bukti pembubaran badan hukum sebagaimana dimaksud
+pada ayat (1) huruf e wajib disampaikan kepada OJK
+paling lama 20 (dua puluh) hari kerja setelah persetujuan
+dari instansi yang berwenang.
 
 ## Penjelasan Resmi
 

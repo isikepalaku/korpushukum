@@ -20,6 +20,24 @@ mengamandemen: []
 (1) Pengenaan sanksi denda oleh Otoritas Jasa Keuangan
 sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf b,
 
+Pasal 16
+ayat (1) huruf b, Pasal 64 ayat (1) huruf b, Pasal 66 ayat (1) huruf b, Pasal 68 ayat (1) huruf b, Pasal 70 ayat
+(1) huruf b, dan/atau Pasal 73 ayat (1) huruf b, dihitung
+dengan ketentuan:
+a. paling banyak per tahun Rp 5.000.000.000,00 (lima
+miliar rupiah) bagi orang perseorangan; dan/atau
+b. paling banyak 1% (satu persen) dari total laba bersih
+tahun sebelumnya dengan batas paling banyak per
+tahun Rp100.000.000.000,00 (seratus miliar rupiah)
+bagi PJK.
+(2) Dalam hal PJK hanya merupakan salah satu unit/divisi di
+dalam PJK lain, perhitungan laba bersih sebagaimana
+
+-----
+
+dimaksud pada ayat (1) huruf b merupakan laba bersih
+dari PJK lainnya tersebut.
+
 ## Penjelasan Resmi
 
 Ayat (1)

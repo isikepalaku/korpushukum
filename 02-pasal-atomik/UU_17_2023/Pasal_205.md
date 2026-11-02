@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Kebijakan perencanaan Tenaga Medis dan Tenaga Kesehatan yang ditetapkan oleh Menteri secara nasional sebagaimana dimaksud dalam Pasal 203 ayat (1) menjadi pedoman bagi setiap institusi pengguna Tenaga Medis dan Tenaga Kesehatan, baik Pemerintah Pusat, Pemerintah Daerah, maupun masyarakat dalam pemenuhan dan pengelolaan Tenaga Medis dan Tenaga Kesehatan.
+Kebijakan perencanaan Tenaga Medis dan Tenaga Kesehatan yang ditetapkan oleh Menteri secara nasional sebagaimana dimaksud dalam
+
+Pasal 203
+ayat (1) menjadi pedoman bagi setiap institusi pengguna Tenaga Medis dan Tenaga Kesehatan, baik Pemerintah Pusat, Pemerintah Daerah, maupun masyarakat dalam pemenuhan dan pengelolaan Tenaga Medis dan Tenaga Kesehatan.
 
 ## Penjelasan Resmi
 

@@ -4,7 +4,7 @@ uu_induk: Perubahan Kedua UU Desa
 kode_uu: UU_3_2024
 pasal: '67'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/tipidter
 - uu/uu_3_2024
@@ -33,3 +33,5 @@ mengamandemen:
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 18

@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Satuan kerja operasional ( _risk-taking unit_ ) sebagaimana dimaksud dalam Pasal 20 ayat (2) wajib menginformasikan eksposur Risiko yang melekat pada satuan kerja yang bersangkutan kepada satuan kerja Manajemen Risiko secara berkala.
+Satuan kerja operasional ( _risk-taking unit_ ) sebagaimana dimaksud dalam
+
+Pasal 20
+ayat (2) wajib menginformasikan eksposur Risiko yang melekat pada satuan kerja yang bersangkutan kepada satuan kerja Manajemen Risiko secara berkala.
 
 **BAB VIII**
 

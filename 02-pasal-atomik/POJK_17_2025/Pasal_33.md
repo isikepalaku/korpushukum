@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Persyaratan reputasi keuangan bagi Pihak Utama
-sebagaimana dimaksud dalam Pasal 31 huruf b, dibuktikan
+sebagaimana dimaksud dalam
+
+Pasal 31
+huruf b, dibuktikan
 paling sedikit dengan:
 a. tidak memiliki kredit dan/atau pembiayaan macet; dan
 b. tidak pernah dinyatakan pailit dan/atau tidak pernah

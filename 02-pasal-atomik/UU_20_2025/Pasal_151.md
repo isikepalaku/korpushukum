@@ -27,6 +27,15 @@ mengamandemen: []
  dan/atau identitas keanggotaannya di dalam suatu
 lembaga Bantuan Hukum.
 
+Pasal 152 . . .
+
+-----
+
+**Irl${ltrell**
+REPUBUK INDONESIA
+
+**-83-**
+
 ## Penjelasan Resmi
 
 Cukup [jelas.]

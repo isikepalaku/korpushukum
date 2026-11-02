@@ -19,7 +19,10 @@ mengamandemen:
 ## Batang Tubuh
 
 (1) Selain persyaratan permodalan sebagaimana
-dimaksud dalam Pasal 19 ayat (1), Bursa harus
+dimaksud dalam
+
+Pasal 19
+ayat (1), Bursa harus
 memenuhi persyaratan sebagai berikut:
 a. memiliki paling sedikit:
 1. 1 (satu) pegawai yang bersertifikasi
@@ -69,7 +72,9 @@ Digital.
 (4) Dalam hal Bursa melakukan kegiatan
 perdagangan Aset Keuangan Digital lainnya
 berupa derivatif Aset Keuangan Digital
-sebagaimana dimaksud dalam Pasal 3A ayat (2),
+sebagaimana dimaksud dalam
+
+Pasal 3A ayat (2),
 Bursa harus memiliki, menguasai, dan
 mengendalikan sistem perdagangan derivatif Aset
 Keuangan Digital.
@@ -78,7 +83,25 @@ Keuangan Digital.
 dalam penjelasan.
 
 29. Di antara Pasal 21 dan Pasal 22 disisipkan 1 (satu)
-pasal, yakni Pasal 21A sehingga berbunyi sebagai
+pasal, yakni
+
+Pasal 21A sehingga berbunyi sebagai
+berikut:
+
+Pasal 21A
+Persyaratan sistem pengawasan dan pelaporan Bursa
+sebagaimana dimaksud dalam
+
+Pasal 21
+berlaku
+_mutatis_ _mutandis_ terhadap sistem perdagangan
+derivatif Aset Keuangan Digital sebagaimana dimaksud
+dalam
+
+Pasal 20
+ayat (4).
+
+30. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -117,3 +140,5 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
+
+Angka 28

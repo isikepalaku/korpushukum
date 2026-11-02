@@ -19,7 +19,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pada saat Peraturan Otoritas Jasa Keuangan ini mulai
-berlaku, ketentuan Pasal 56 Peraturan Otoritas Jasa
+berlaku, ketentuan
+
+Pasal 56
+Peraturan Otoritas Jasa
 Keuangan Republik Indonesia Nomor 11 Tahun 2025
 tentang Penyelenggaraan Usaha Lembaga Penjamin
 (Lembaran Negara Republik Indonesia Tahun 2025 Nomor

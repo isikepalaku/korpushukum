@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Permohonan untuk memperoleh persetujuan prinsip
-sebagaimana dimaksud dalam Pasal 13 huruf a
+sebagaimana dimaksud dalam
+
+Pasal 13
+huruf a
 diajukan paling sedikit oleh salah satu calon pemilik
 atau calon PSP kepada OJK, disertai pemenuhan
 persyaratan dokumen tercantum dalam Lampiran I
@@ -27,7 +30,9 @@ Peraturan OJK ini.
 (2) Permohonan sebagaimana dimaksud pada ayat (1)
 harus disertai dengan pemenuhan setoran modal paling
 sedikit 40% (empat puluh persen) dari modal disetor
-sebagaimana dimaksud dalam Pasal 11.
+sebagaimana dimaksud dalam
+
+Pasal 11.
 
 ## Penjelasan Resmi
 

@@ -19,8 +19,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Dalam hal perbuatan tindak pidana sebagaimana
-dimaksud dalam Pasal 33, Pasal 34, Pasal 35, serta Pasal
-36 ayat (1), ayat (2), ayat (3), dan ayat (4) dilakukan oleh
+dimaksud dalam Pasal 33,
+
+Pasal 34, Pasal 35, serta Pasal 36 ayat (1), ayat (2), ayat (3), dan ayat (4) dilakukan oleh
 pegawai Bank Indonesia, pelaksana Pencetakan Rupiah,
 badan yang mengoordinasikan pemberantasan Rupiah
 Palsu, dan/atau aparat penegak hukum, pelaku dipidana
@@ -32,9 +33,7 @@ ditambah 1/3 (satu per tiga).
 -----
 
  - 19
-(2) Dalam hal perbuatan sebagaimana dimaksud dalam Pasal
-
-36 ayat (1), ayat (2), ayat (3), dan ayat (4) dilakukan secara
+(2) Dalam hal perbuatan sebagaimana dimaksud dalam Pasal 36 ayat (1), ayat (2), ayat (3), dan ayat (4) dilakukan secara
 terorganisasi, digunakan untuk kejahatan terorisme, atau
 digunakan untuk kegiatan yang dapat mengakibatkan
 terganggunya perekonomian nasional, pelaku dipidana

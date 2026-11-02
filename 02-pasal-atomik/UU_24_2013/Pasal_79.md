@@ -38,3 +38,26 @@ Ayat (4)
 Cukup jelas. 
  
 Angka 19 . . .
+
+Angka 19
+
+Pasal 79A 
+Yang dimaksud dengan “pengurusan dan penerbitan” 
+meliputi penerbitan baru, penggantian akibat rusak 
+atau hilang, pembetulan akibat salah tulis, dan/atau 
+akibat perubahan elemen data. 
+Angka 20
+
+Pasal 83A 
+Ayat (1) 
+Cukup jelas. 
+ Ayat (2) 
+Cukup jelas. 
+ Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Yang dimaksud dengan “ketentuan peraturan 
+perundang-undangan” adalah ketentuan peraturan 
+perundang-undangan di bidang pengembangan 
+dan pembinaan karir. 
+Angka 21

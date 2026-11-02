@@ -28,6 +28,10 @@ mengamandemen: []
 - g. semua istilah "Sistem Keuangan" yang sudah ada sebelum Undang-Undang ini berlaku termasuk dalam undang­ undang mengenai pencegahan dan penanganan krisis sistem keuangan harus dimaknai sebagai istilah "Sistem Keuangan" sebagaimana dimaksud dalam Undang­ Undang ini; dan
 - h. semua istilah "Majelis Ulama Indonesia" yang sudah ada sebelum Undang-Undang ini berlaku dalam perundang­ undangan di sektor keuangan dibaca sebagai "lembaga yang memiliki kewenangan dalam penetapan fatwa di bidang syariah".
 
+Pasal 338 ...
+
+**PRESIDEN REPUBUK INDONESIA**
+
 ## Penjelasan Resmi
 
 Huruf a

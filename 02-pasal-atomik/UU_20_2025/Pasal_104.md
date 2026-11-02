@@ -22,7 +22,10 @@ mengamandemen: []
 
 **dengan penetapannya dapat melakukan Penahanan untuk kepentingan pemeriksaan di sidang pengadilan**
 
-sebagaimana dimaksud dalam Pasal 99 ayat (6) untuk
+sebagaimana dimaksud dalam
+
+Pasal 99
+ayat (6) untuk
 **jangka waktu paling lama 30 (tiga puluh) Hari. (21 Apabila jangka waktu Penahanan sebagaimana**
  dimaksud pada ayat (1) telah terlampaui, Hakim pengadilan negeri mengajukan permohonan perpanjangan Penahanan kepada ketua pengadilan negeri untuk jangka waktu paling lama 60 (enam puluh) Hari. (3) Apabila jangka waktu 60 (enam puluh) Hari
  sebagaimana dimaksud pada ayat (2) terlampaui,
@@ -31,8 +34,6 @@ Tersangka dari tahanan.
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal 1O5
+**Cukup [jelas.]**Pasal 1O5
 
 **Cukup jelas.**

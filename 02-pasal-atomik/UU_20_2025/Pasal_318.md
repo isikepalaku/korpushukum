@@ -49,7 +49,11 @@ nyata.
 **(6) Permintaan peninjauan kembali hanya dapat diajukan**
 
 1 (satu) kali, kecuali jika terdapat keadaan baru atau
-**bukti baru sebagaimana dimaksud pada ayat (5) huruf a atau terdapat pertentangan antara 2 (dua) putusan yang telah memperoleh kekuatan hukum tetap.**
+**bukti baru sebagaimana dimaksud pada ayat (5) huruf a atau terdapat pertentangan antara 2 (dua) putusan yang telah memperoleh kekuatan hukum tetap.**Pasal 319...
+
+-----
+
+**-163-**
 
 ## Penjelasan Resmi
 

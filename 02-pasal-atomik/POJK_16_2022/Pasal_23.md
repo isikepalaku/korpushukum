@@ -17,17 +17,29 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(2) Upaya pemenuhan persyaratan sebagaimana dimaksud
-pada ayat (1) dituangkan dalam Rencana Bisnis Bank.
-(3) Dalam hal Bank telah memenuhi persyaratan
-sebagaimana dimaksud pada ayat (2), Bank dapat:
-a. mempertahankan jaringan kantor dan/atau TPE
-yang telah ada;
-b. melakukan penutupan jaringan kantor yang
-dimiliki selain KP dan/atau TPE secara sekaligus
-atau bertahap; dan/atau
-c. melakukan penambahan jaringan kantor
-dan/atau TPE.
+(1) Bank Digital sebagaimana dimaksud dalam Pasal 22
+harus memenuhi persyaratan:
+a. memiliki model bisnis dengan penggunaan
+teknologi yang inovatif dan aman dalam melayani
+kebutuhan nasabah;
+b. memiliki kemampuan untuk mengelola model
+bisnis perbankan digital yang berdasarkan prinsip
+kehati-hatian dan berkesinambungan;
+c. memiliki manajemen risiko secara memadai;
+d. memenuhi aspek tata kelola termasuk pemenuhan
+Direksi yang mempunyai kompetensi di bidang
+teknologi informasi dan kompetensi lain sesuai
+dengan Peraturan OJK mengenai penilaian
+kemampuan dan kepatutan bagi pihak utama
+lembaga jasa keuangan;
+e. menjalankan perlindungan terhadap keamanan
+data nasabah; dan
+f. memberikan kontribusi terhadap pengembangan
+ekosistem keuangan digital dan/atau inklusi
+keuangan syariah.
+(2) Bank wajib menjaga pemenuhan persyaratan
+sebagaimana dimaksud pada ayat (1) selama beroperasi
+menjadi Bank Digital.
 
 ## Penjelasan Resmi
 

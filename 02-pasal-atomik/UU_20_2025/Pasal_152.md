@@ -26,6 +26,11 @@ mengamandemen: []
  pejabat yang bersangkutan sebagaimana dimaksud
 pada ayat (1) dapat mendengar isi pembicaraan.
 
+Pasal 153
+Penyidik, Penuntut Umum, atau petugas lembaga pemasyarakatan wajib memberikan salinan berita acara pemeriksaan kepada Tersangka, Terdakwa, atau Advokatnya untuk kepentingan pembelaannya dalam waktu paling lama 1 (satu) Hari terhitung sejak penandatanganan berita acara pemeriksaan.**
+
+ Bagian Kedua Bantuan Hukum
+
 ## Penjelasan Resmi
 
 **Cukup jelas.**

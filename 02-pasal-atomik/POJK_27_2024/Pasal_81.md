@@ -40,7 +40,9 @@ kependudukan yang dimiliki oleh kementerian yang
 menyelenggarakan urusan pemerintahan di bidang
 dalam negeri.
 (6) Dalam hal Pedagang menerima Konsumen non orang
-perseorangan sebagaimana dimaksud dalam Pasal 80
+perseorangan sebagaimana dimaksud dalam
+
+Pasal 80
 ayat (5) huruf b, Pedagang wajib melakukan identifikasi
 dan verifikasi terhadap pemilik manfaat, pemilik dana,
 dan pengelola.

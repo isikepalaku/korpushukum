@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Perkawinan WNI di luar wilayah Negara Kesatuan Republik
-Indonesia sebagaimana dimaksud dalam Pasal 38 wajib
+Indonesia sebagaimana dimaksud dalam
+
+Pasal 38
+wajib
 dilaporkan ke Disdukcapil KabupatenlKota atau UPT
 Disdukcapil Kabupaten/Kota di tempat Penduduk berdomisili
 dengan memenuhi persyaratan :

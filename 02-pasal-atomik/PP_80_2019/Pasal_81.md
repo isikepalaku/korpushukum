@@ -25,7 +25,10 @@ Pada saat Peraturan Pemerintah ini mulai berlaku, Pelaku Usaha PMSE yang telah m
 
 ## Penjelasan Resmi
 
-Cukupjelas. Pasal 82 Cukupjelas.
+Cukupjelas.
+
+Pasal 82
+Cukupjelas.
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6420 
 
 ## Peta Penjelasan

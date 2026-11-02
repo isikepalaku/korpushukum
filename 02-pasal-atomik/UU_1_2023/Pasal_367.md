@@ -18,10 +18,13 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang melakukan perbuatan sebagaimana dimaksud dalam Pasal 289 dan Pasal 364 sampai dengan Pasal 366 Masuk ke tempat terjadinya Tindak Pidana atau dapat mencapai benda tersebut dengan cara membongkar, merusak, Memanjat, memakai Anak Kunci Palsu, berdasarkan perintah palsu atau karena memakai pakaian dinas palsu, dipidana paling lama 2 (dua) kali lipat dari pidana yang diancamkan.
+Setiap Orang yang melakukan perbuatan sebagaimana dimaksud dalam Pasal 289 dan
+
+Pasal 364
+sampai dengan Pasal 366 Masuk ke tempat terjadinya Tindak Pidana atau dapat mencapai benda tersebut dengan cara membongkar, merusak, Memanjat, memakai Anak Kunci Palsu, berdasarkan perintah palsu atau karena memakai pakaian dinas palsu, dipidana paling lama 2 (dua) kali lipat dari pidana yang diancamkan.
 
 **Bagian Kedua Penganjuran Desersi, Pemberontakan, dan Pembangkangan Tentara Nasional Indonesia**
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Cukupjelas.

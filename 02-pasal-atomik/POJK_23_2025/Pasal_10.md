@@ -19,11 +19,17 @@ mengamandemen:
 ## Batang Tubuh
 
 (1) Dalam menetapkan Daftar Aset Keuangan Digital
-sebagaimana dimaksud dalam Pasal 9 ayat (1),
+sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (1),
 Bursa wajib melakukan analisis terhadap setiap
 Aset Keuangan Digital sebelum ditetapkan dalam
 Daftar Aset Keuangan Digital dengan memenuhi
-kriteria sebagaimana dimaksud dalam Pasal 4 ayat
+kriteria sebagaimana dimaksud dalam
+
+Pasal 4
+ayat
 (1) dan Pasal 8 ayat (1).
 
 -----
@@ -34,7 +40,10 @@ ayat (1), Bursa wajib menerapkan prinsip kehatihatian dan mengutamakan pelindung
 Konsumen.
 (3) Bursa wajib memiliki pedoman penetapan Daftar
 Aset Keuangan Digital sebagaimana dimaksud
-dalam Pasal 9 ayat (1) yang merupakan bagian dari
+dalam
+
+Pasal 9
+ayat (1) yang merupakan bagian dari
 peraturan dan tata tertib Bursa.
 (4) Pedoman penetapan Daftar Aset Keuangan Digital
 sebagaimana dimaksud pada ayat (3) paling sedikit
@@ -47,6 +56,14 @@ Keuangan Digital yang memuat paling sedikit:
 2. tata cara analisis Aset Keuangan Digital.
 (5) Bursa wajib memublikasikan Daftar Aset
 Keuangan Digital sebagaimana dimaksud dalam
+
+Pasal 9
+ayat (1) paling lama 1 (satu) hari setelah
+Daftar Aset Keuangan Digital ditetapkan pada
+media resmi Bursa.
+
+14. Ketentuan Pasal 11 diubah sehingga berbunyi sebagai
+berikut:
 
 ## Penjelasan Resmi
 
@@ -65,3 +82,5 @@ Cukup jelas.
 Ayat (5)
 
 Media resmi Bursa antara lain situs web.
+
+Angka 14

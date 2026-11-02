@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Ketentuan lebih lanjut mengenai Kawasan Strategis Pariwisata sebagaimana dimaksud dalam Pasal L2 dart Pasal 13 diatur dalam Peraturan Pemerintah.
+Ketentuan lebih lanjut mengenai Kawasan Strategis Pariwisata sebagaimana dimaksud dalam Pasal L2 dart
+
+Pasal 13
+diatur dalam Peraturan Pemerintah.
 
 20. Judul Bab VI diubah sehingga berbunyi sebagai berikut:
 

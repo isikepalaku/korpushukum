@@ -72,3 +72,5 @@ Syariah.
 Ayat (3)
 
 Cukup jelas.
+
+Angka 3

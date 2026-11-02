@@ -20,6 +20,23 @@ mengamandemen: []
 
 (1) Tindak pidana sebagaimana dimaksud dalam Pasal 103 ayat (2),
 
+ Pasal 105, dan
+
+Pasal 109
+adalah pelanggaran.
+
+```
+
+-----
+
+```
+ - 59
+**(2) Tindak pidana sebagaimana dimaksud dalam Pasal 103 ayat (1),**Pasal 104, Pasal 106, dan Pasal 107 adalah kejahatan.
+
+ BABXVI
+
+ KETENTUAN LAIN-LAIN
+
 ## Penjelasan Resmi
 
 Cukup jelas.

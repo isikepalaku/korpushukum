@@ -18,15 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**a. ruang yang di dalamnya sedang berlangsung sidang**
-
-**Majelis Permusyawaratan Ralryat, Dewan Perwakilan Ralryat, Dewan Perwakilan Daerah, atau Dewan Perwakilan Rakyat Daerah;**
-**b. ruang yang di dalamnya sedang berlangsung ibadah**
-
-**dan/ atau upacara keagamaan; atau**
-**c. ruang yang di dalamnya sedang berlangsung sidang**
-
-pengadilan.
+(Teks tidak ditemukan dalam ekstraksi batang tubuh)
 
 ## Penjelasan Resmi
 

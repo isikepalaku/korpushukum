@@ -17,8 +17,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(1) Pengurus Asosiasi sebagaimana dimaksud dalam Pasal
-152 wajib berasal dari perwakilan Penyelenggara yang
+(1) Pengurus Asosiasi sebagaimana dimaksud dalam Pasal 152 wajib berasal dari perwakilan Penyelenggara yang
 telah memperoleh izin usaha dari Otoritas Jasa
 Keuangan.
 (2) Asosiasi sebagaimana dimaksud pada ayat (1) harus

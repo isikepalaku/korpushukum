@@ -18,51 +18,26 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-sampai dengan paling lama 30 hari kerja setelah
-batas waktu.
-(7) Perusahaan Pembiayaan yang tidak
-menyampaikan laporan sebagaimana dimaksud
-pada ayat (6) dikenai sanksi administratif sebesar
-Rp50.000.000,00 (lima puluh juta rupiah) per
-laporan.
-(8) Dalam hal Perusahaan Pembiayaan Syariah
-dan/atau Perusahaan Pembiayaan yang memiliki
-UUS telah memenuhi ketentuan sebagaimana
-dimaksud pada ayat (1), Otoritas Jasa Keuangan
-mencabut sanksi administratif.
-(9) Dalam hal terjadi pelanggaran ketentuan
-sebagaimana dimaksud pada ayat (1) namun
-pelanggaran telah diperbaiki, Otoritas Jasa
-Keuangan memberikan sanksi administratif
+(1) Perusahaan Pembiayaan Syariah wajib
+menyampaikan laporan berkala kepada Otoritas
+Jasa Keuangan, berupa:
+a. laporan bulanan; dan
+b. laporan keuangan tahunan yang telah diaudit
+oleh akuntan publik.
+(2) UUS wajib menyampaikan laporan bulanan
+kepada Otoritas Jasa Keuangan.
+(3) Perusahaan Syariah wajib mengukur, mengakui,
+dan menyajikan serta mengungkapkan transaksi
+dengan pihak terafiliasi yang memenuhi kriteria
+signifikansi tertentu dan transaksi tersebut
+didasarkan dengan nilai wajar pada laporan
+sebagaimana dimaksud pada ayat (1).
+(4) Ketentuan mengenai laporan bulanan
+sebagaimana dimaksud pada ayat (1) huruf a dan
+ayat (2) diatur dalam Peraturan Otoritas Jasa
+Keuangan mengenai laporan bulanan.
 
------
-
-berupa peringatan tertulis yang berakhir dengan
-sendirinya.
-(10) Selain sanksi administratif sebagaimana dimaksud
-
-pada ayat (1), Otoritas Jasa Keuangan berwenang:
-a. menurunkan hasil penilaian Tingkat
-Kesehatan;
-b. melakukan penilaian kembali terhadap pihak
-utama yang menyebabkan Perusahaan
-Syariah melanggar ketentuan sebagaimana
-dimaksud pada ayat (1); dan/atau
-c. melakukan pencatatan rekam jejak terhadap
-pihak terkait Perusahaan Syariah yang
-menyebabkan Perusahaan Syariah melanggar
-ketentuan sebagaimana dimaksud pada ayat
-(1) dalam sistem elektronik Otoritas Jasa
-Keuangan.
-
-55. Ketentuan Pasal 111 dihapus.
-
-56. Ketentuan Pasal 112 dihapus.
-
-57. Ketentuan Pasal 113 dihapus.
-
-58. Di antara Pasal 113 dan Pasal 114 disisipkan 1 (satu)
-pasal, yakni Pasal 113A sehingga berbunyi sebagai
+48. Ketentuan Pasal 101 diubah sehingga berbunyi sebagai
 berikut:
 
 ## Penjelasan Resmi
@@ -82,3 +57,5 @@ Cukup jelas.
 Ayat (4)
 
 Cukup jelas.
+
+Angka 48

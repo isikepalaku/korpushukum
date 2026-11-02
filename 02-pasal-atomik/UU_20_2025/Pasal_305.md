@@ -40,8 +40,6 @@ kepada para pihak dikirimkan tembusannya.
 
 ## Penjelasan Resmi
 
-**Cukup [jelas.]**
-
-Pasal 3O6
+**Cukup [jelas.]**Pasal 3O6
 
 **Cukup [jelas.]**

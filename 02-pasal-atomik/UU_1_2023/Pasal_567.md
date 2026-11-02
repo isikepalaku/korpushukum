@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '567'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Nakhoda Kapal Indonesia yang tidak memenuhi kewajiban untuk mencatat dan memberi
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini berkaitan dengan adanya suatu kewajiban untuk melakukan pencatatan setiap kelahiran atau kematian. Hal ini untuk kepentingan administrasi kependudukan. Apabila kelahiran atau kematian terjadi di laut kewajiban melakukan pencatatan dibebankan kepada Nakleoda Kapal.

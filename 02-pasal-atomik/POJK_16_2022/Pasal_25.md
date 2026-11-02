@@ -18,26 +18,39 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Ketentuan mengenai pendirian Bank sebagaimana
-dimaksud dalam Pasal 10 sampai dengan Pasal 21
+dimaksud dalam Pasal 10 sampai dengan
+
+Pasal 21
 berlaku _mutatis mutandis terhadap pendirian Bank_
 baru yang beroperasi sebagai Bank Digital sebagaimana
-dimaksud dalam Pasal 24 huruf a kecuali diatur
+dimaksud dalam
+
+Pasal 24
+huruf a kecuali diatur
 khusus dalam Peraturan OJK ini.
 (2) Pengaturan khusus sebagaimana dimaksud pada ayat
 (1) berupa:
 a. setoran modal pada saat permohonan untuk
 memperoleh persetujuan prinsip pendirian Bank
-sebagaimana dimaksud dalam Pasal 14 ayat (2)
+sebagaimana dimaksud dalam
+
+Pasal 14
+ayat (2)
 
 -----
 
 dapat dipenuhi paling sedikit 30% (tiga puluh
 persen); dan
 b. upaya pemenuhan persyaratan sebagaimana
-dimaksud dalam Pasal 23 dicantumkan dalam
+dimaksud dalam
+
+Pasal 23
+dicantumkan dalam
 Rencana Bisnis Bank.
 (3) Bank yang beroperasi sebagai Bank Digital melalui
-pendirian baru sebagaimana dimaksud dalam Pasal 24
+pendirian baru sebagaimana dimaksud dalam
+
+Pasal 24
 huruf a dapat membuka jaringan kantor selain KP
 berupa KC dan/atau KF yang melakukan kegiatan
 selain operasional dan/atau penyediaan TPE.

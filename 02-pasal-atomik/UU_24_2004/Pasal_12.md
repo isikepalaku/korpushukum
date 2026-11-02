@@ -18,43 +18,51 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-(satu perseribu) dari rata-rata saldo bulanan total
+(1) Premi Penjaminan sebagaimana dimaksud dalam Pasal 9
 
- Simpanan dalam setiap periode.
+ huruf c dibayarkan 2 (dua) kali dalam 1 (satu) tahun untuk:
 
- (2) Tingkat premi sebagaimana dimaksud pada ayat (1) dapat
+ a. pembayaran periode 1 Januari sampai dengan 30 Juni;
 
- diubah apabila dipenuhi sekurang-kurangnya satu kriteria
+ dan
 
- berikut:
+ b. pembayaran periode 1 Juli sampai dengan 31 Desember.
 
- a. terjadi perubahan nilai Simpanan yang dijamin untuk
+ (2) Premi untuk masing-masing periode sebagaimana
 
- setiap nasabah pada satu bank sebagaimana dimaksud
+ dimaksud pada ayat (1) dibayarkan selambat-lambatnya
 
- dalam Pasal 11 ayat (1);
+ tanggal:
 
- b. akumulasi cadangan penjaminan telah melampaui
+ a. 31 Januari untuk periode sebagaimana dimaksud pada
 
- tingkat sasaran sebesar 2,5% (dua puluh lima perseribu)
+ ayat (1) huruf a; dan
 
- dari total Simpanan di setiap bank; atau
+ b. 31 Juli untuk periode sebagaimana dimaksud pada ayat
+
+ (1) huruf b;
 
 -----
 
-**c. terjadi perubahan tingkat risiko kegagalan (exposure)**
+**berdasarkan rata-rata saldo bulanan total Simpanan pada**
 
- pada industri perbankan.
+ periode sebelumnya.
 
- (3) Perubahan tingkat premi sebagaimana dimaksud pada
+ (3) Premi sebagaimana dimaksud pada ayat (2) ditambah atau
 
- ayat (2) dikonsultasikan dengan Dewan Perwakilan
+ dikurangi sesuai dengan realisasi rata-rata saldo bulanan
 
- Rakyat.
+ total Simpanan pada periode yang bersangkutan.
 
- (4) Hasil konsultasi sebagaimana dimaksud pada ayat (3)
+ (4) Penambahan atau pengurangan premi sebagaimana
 
- ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+ dimaksud pada ayat (3) dilakukan pada saat pembayaran
+
+ premi untuk periode berikutnya.
+
+ (5) Ketentuan lebih lanjut mengenai tata cara pembayaran
+
+ premi ditetapkan dengan Peraturan LPS.
 
 ## Penjelasan Resmi
 

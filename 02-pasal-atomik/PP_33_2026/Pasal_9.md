@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemrosesan Data Pribadi sehagaimana dimaksud dalam Pasal 8 dilakukan sesuai dengan prinsip Pelindungan Data Pribadi meliputi:
+Pemrosesan Data Pribadi sehagaimana dimaksud dalam
+
+Pasal 8
+dilakukan sesuai dengan prinsip Pelindungan Data Pribadi meliputi:
 
 - a. pengumpulan Data Pribadi dilakukan secara terbatas dan spesifik, sah secara hukum, dan transparan;
 

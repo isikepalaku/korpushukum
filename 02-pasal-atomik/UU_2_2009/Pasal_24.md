@@ -18,20 +18,39 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-kerugian bagi LPEI dipidana dengan pidana penjara paling
-singkat 2 (dua) tahun dan paling lama 7 (tujuh) tahun dan
-pidana denda paling sedikit Rp2.000.000.000,00 (dua
-miliar rupiah) dan paling banyak Rp5.000.000.000,00
-(lima miliar rupiah).
+(1) LPEI dapat menempatkan dana yang belum dipergunakan
 
-BAB IX . . .
+untuk membiayai kegiatannya dalam bentuk pembelian
+surat berharga dan/atau penempatan di lembaga
+keuangan dalam negeri maupun luar negeri.
+(2) Penempatan dana sebagaimana dimaksud pada ayat (1),
 
------
+antara lain dalam bentuk:
+a. surat berharga yang diterbitkan Pemerintah;
+b. Sertifikat Bank Indonesia;
+c. surat berharga yang diterbitkan oleh pemerintah
 
- - 18
-BAB IX
+negara donor;
+d. surat berharga yang diterbitkan oleh lembaga
+keuangan multilateral;
+e. simpanan dalam bentuk rupiah atau valuta asing pada
 
-KETENTUAN PERALIHAN
+Bank Indonesia; dan/atau
+f. simpanan pada bank dalam negeri dan/atau bank luar
+
+negeri.
+(3) Penempatan dana sebagaimana dimaksud pada ayat (1)
+
+wajib dilakukan dengan mempertimbangkan faktor
+likuiditas dan risiko.
+
+BAB IV
+
+ORGANISASI
+
+Bagian Kesatu
+
+Organ LPEI
 
 ## Penjelasan Resmi
 

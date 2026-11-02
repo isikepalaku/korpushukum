@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penyelenggara Sistem Elektronik wajib melakukan penilaian mandiri terhadap aspek sebagaimana dimaksud dalam Pasal 8 ayat (4) dalam Produk, Layanan, dan Fitur yang dikembangkan dan/atau diselenggarakan oleh Penyelenggara Sistem Elektronik.
+Penyelenggara Sistem Elektronik wajib melakukan penilaian mandiri terhadap aspek sebagaimana dimaksud dalam
+
+Pasal 8
+ayat (4) dalam Produk, Layanan, dan Fitur yang dikembangkan dan/atau diselenggarakan oleh Penyelenggara Sistem Elektronik.
 
 ## Penjelasan Resmi
 

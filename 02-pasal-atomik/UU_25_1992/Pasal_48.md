@@ -20,7 +20,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 Ketentuan mengenai pembubaran Koperasi oleh Pemerintah dan tata
-cara pengajuan keberatan sebagaimana dimaksud dalam Pasal 47,
+cara pengajuan keberatan sebagaimana dimaksud dalam
+
+Pasal 47,
 diatur lebih lanjut dengan Peraturan Pemerintah.
 
 ## Penjelasan Resmi

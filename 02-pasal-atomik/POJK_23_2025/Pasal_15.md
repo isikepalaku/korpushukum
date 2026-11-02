@@ -21,11 +21,17 @@ mengamandemen:
 (1) Pedagang wajib menghentikan perdagangan Aset
 Keuangan Digital tertentu yang:
 a. dihapus dari Daftar Aset Keuangan Digital
-sebagaimana dimaksud dalam Pasal 13 ayat
+sebagaimana dimaksud dalam
+
+Pasal 13
+ayat
 (5); atau
 b. diperintahkan untuk dihentikan
 perdagangannya oleh Otoritas Jasa Keuangan
-sebagaimana dimaksud dalam Pasal 14 ayat
+sebagaimana dimaksud dalam
+
+Pasal 14
+ayat
 (3) huruf b.
 (2) Penghentian perdagangan Aset Keuangan Digital
 tertentu oleh Pedagang sebagaimana dimaksud
@@ -76,3 +82,5 @@ atau pedagang global untuk kepentingan penyelesaian
 sampai dengan tanggal 4 September 2025.
 Ayat (4)
 Cukup jelas.
+
+Angka 23

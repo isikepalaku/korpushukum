@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '287'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,4 +25,4 @@ Setiap Orang yang tidak memenuhi perintah Pejabat yang berwenang dalam proses pe
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dalam ketentuan ini, tidak memenuhi perintah Pejabat yang berwenang unhrk menyerahkan Surat yang dianggap pa.lsu atau dipalsukan, sedangkan Surat tersebut diperlukan dalam proses peradilan untuk alat pembuktian, baik perkara pidana maupun perkara perdata, dianggap sebagai perbuatan yang mengganggu penyelenggaraan peradilan.

@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '384'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -25,5 +25,11 @@ mengamandemen: []
 5. (21 Setiap Orang sslagaimana dimaksud pada ayat (l) dapat dijatuhi pidana tambahan berupa pengumuman putusan hakim sebagaimana dimalsud dalam Pasal 66 ayat (1) huruf c.
 
 ## Penjelasan Resmi
+
+Ayat (l)
+
+Ketentuan ini dimaksudkan untuk menjamin keabsahan atau keaslian dari cap negara atau tanda keahlian dari pelaku Tindak Pidananya yang diperintahkan oleh ketentuan peraturan perundang-undangan yang dibubuhkan kepada Barang emas atau perak tertentu. Dengan demikian, ketentuan ini dimaksudkan untuk melindungi Barang tersebut dari usaha pemalsuan yang akan merugikan konsumen.
+
+Ayat (2)
 
 Cukup jelas.

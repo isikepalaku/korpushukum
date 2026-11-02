@@ -25,6 +25,12 @@ atau janji.
 **(21 Dalam hal persetujuan sebagaimana dimaksud pada**
  ayat (1) tidak dikehendaki, Saksi dapat memberikan keterangan tanpa sumpah atau janji.
 
+Pasal 220
+**(1) Orang yang karena harkat martabat, pekerjaan, atau**
+**jabatannya diwajibkan menyimpan rahasia dapat**
+ meminta dibebaskan dari kewajiban untuk memberi keterangan sebagai Saksi mengenai hal yang dipercayakan kepada mereka. (21 Hakim menentukan sah atau tidaknya segala alasan
+ permintaan sebagaimana dimaksud pada ayat (1).
+
 ## Penjelasan Resmi
 
 **Cukup [jelas.]**

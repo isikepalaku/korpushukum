@@ -17,13 +17,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-utama atau pemimpin KPBLN dapat dikenai sanksi
-administratif berupa larangan sebagai pihak utama
-Bank sesuai dengan Peraturan OJK mengenai penilaian
-kembali bagi pihak utama lembaga jasa keuangan.
+(1) Bank wajib menyampaikan kepada OJK laporan posisi
+keuangan penutupan Bank yang telah diaudit oleh
+akuntan publik paling lama 10 (sepuluh) hari kerja
+sejak tanggal keputusan pencabutan izin usaha dari
+OJK.
+(2) Laporan pelaksanaan penutupan KPBLN yang telah
+memperoleh persetujuan OJK sebagaimana dimaksud
+dalam
 
-BAB XI
-SINERGI PERBANKAN
+Pasal 125
+ayat (2) wajib disampaikan oleh pihak
+yang berwenang mewakili kantor pusat KPBLN kepada
+OJK paling lama 10 (sepuluh) hari kerja setelah tanggal
+keputusan penutupan KPBLN oleh OJK, disertai
+dengan dokumen daftar kewajiban KPBLN yang
+termasuk dalam skema penyelesaian.
+
+-----
+
+(3) OJK dapat meminta dokumen lain selain sebagaimana
+dimaksud pada ayat (1) dan ayat (2).
 
 ## Penjelasan Resmi
 

@@ -24,6 +24,32 @@ Dalam rangka melakukan likuidasi Bank Gagal yang dicabut
 
  a. melakukan kewenangan sebagaimana dimaksud dalam
 
+ Pasal 6 ayat (2);
+
+ b. memberikan talangan untuk pembayaran gaji pegawai
+
+ yang terutang dan talangan pesangon pegawai sebesar
+
+ jumlah minimum pesangon sebagaimana diatur dalam
+
+ peraturan perundang-undangan;
+
+ c. melakukan tindakan yang diperlukan dalam rangka
+
+ pengamanan aset bank sebelum proses likuidasi dimulai;
+
+ dan
+
+-----
+
+**d. memutuskan pembubaran badan hukum bank,**
+
+ membentuk tim likuidasi, dan menyatakan status bank
+
+ sebagai bank dalam likuidasi, berdasarkan kewenangan
+
+ sebagaimana dimaksud pada huruf a.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

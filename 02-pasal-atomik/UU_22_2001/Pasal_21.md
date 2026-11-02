@@ -22,6 +22,14 @@ mengamandemen: []
 
 - Bentuk Usaha Tetap wajib melakukan optimasi dan melaksanakannya sesuai dengan kaidah
 
+Pasal 20 …
+
+keteknikan yang baik.
+
+(3) Ketentuanmengenaipengembanganlapangan,pemroduksiancadanganMinyakdanGasBumi, dan ketentuan mengenai kaidah keteknikan sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut dengan Peraturan Pemerintah.
+
+Pasal 22 …
+
 ## Penjelasan Resmi
 
 Cukup jelas.

@@ -25,9 +25,15 @@ sesuai dengan Peraturan Otoritas Jasa Keuangan ini yang
 mencakup:
 a. berdasarkan penilaian Otoritas Jasa Keuangan,
 Restrukturisasi Kredit dilakukan dengan tujuan
-sebagaimana dimaksud dalam Pasal 30 ayat (1);
+sebagaimana dimaksud dalam
+
+Pasal 30
+ayat (1);
 b. Debitur tidak melaksanakan perjanjian Kredit
-sebagaimana dimaksud dalam Pasal 29 ayat (3);
+sebagaimana dimaksud dalam
+
+Pasal 29
+ayat (3);
 c. Restrukturisasi Kredit dilakukan secara berulang dengan
 tujuan untuk memperbaiki kualitas Kredit tanpa
 memperhatikan prospek usaha Debitur; dan/atau

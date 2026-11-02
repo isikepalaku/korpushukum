@@ -26,7 +26,10 @@ e. badan hukum asing; dan/atau
 f. warga negara asing.
 (2) Ketentuan kepemilikan untuk Perusahaan yang
 berbentuk badan hukum koperasi sebagaimana
-dimaksud dalam Pasal 2 huruf b dilaksanakan sesuai
+dimaksud dalam
+
+Pasal 2
+huruf b dilaksanakan sesuai
 dengan ketentuan peraturan perundang-undangan di
 bidang perkoperasian.
 

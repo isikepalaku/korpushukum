@@ -18,9 +18,27 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-**(1) Dalam hal terjadi penggabungan antara perkara**
- perdata dan perkara pidana, penggabungan itu dengan sendirinya berlangsung dalam pemeriksaan tingkat banding. (2) Permohonan banding terhadap putusan ganti rugi
- tidak dapat diajukan dalam hal terhadap perkara pidana tidak diajukan permohonan banding.
+**(l) Gelar perkara terhadap hasil Penyelidikan**
+
+**sebagaimana dimaksud dalam Pasal 18 ayat (1) dilaksanakan oleh Penyidik untuk memutuskan status peristiwa yang dimuat dalam hasil Penyelidikan merupakan tindak pidana atau bukan tindak pidana. (21 Dalam hal Penyidik memutuskan status peristiwa**
+ sebagaimana dimaksud pada ayat (l) merupakan tindak pidana, Penyidik menindaklanjuti peristiwa tersebut ke tahap Penyidikan.
+
+(3) Dalam . . .
+
+-----
+
+FRESIDEN
+REPUBLIK INDONESIA
+
+**-18-**
+
+ (3) Dalam hal Penyidik memutuskan status peristiwa
+
+**sebagaimana dimaksud pada ayat (1) bukan merupakan tindak pidana, Penyidik menghentikan Penyelidikan.**
+**(4) Dalam hal Penyidik memutuskan status peristiwa**
+
+**sebagaimana dimaksud pada ayat (1) merupakan tindak pidana, namun bukan kewenangan Penyidik yang bersangkutan, Penyidik yang bersangkutan melimpahkan berkas perkara hasil Penyelidikan**
+kepada instansi yang berwenang.
 
 ## Penjelasan Resmi
 

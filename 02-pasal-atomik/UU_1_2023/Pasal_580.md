@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '580'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -33,4 +33,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ketentuan ini merupakan Tindak Pidana yang wqjib dilarang oleh negara peserta Konvensi Montreal 1971 tentang "TLe Supprcssion of Unlauful Ad,s Against the Safe$ of Ciuil Auiatiart (Pemberantasan Tindakan-tindakan Melawan Hukum yang Mengancam Keamanan Penerbangan Sipil) yang diadakan di Montreal-Kanada pada tahun 1971, sebagai pelengkap Konvensi Den H4og tahun 1970.

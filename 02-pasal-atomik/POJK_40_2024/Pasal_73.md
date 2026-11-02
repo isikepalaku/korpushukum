@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Untuk pelaporan pelaksanaan RUPS yang menyetujui
-Penggabungan sebagaimana dimaksud dalam Pasal 72
+Penggabungan sebagaimana dimaksud dalam
+
+Pasal 72
 ayat (2), Penyelenggara yang menerima Penggabungan
 dapat mengajukan permohonan izin pembentukan UUS
 yang sebelumnya dimiliki oleh Penyelenggara yang

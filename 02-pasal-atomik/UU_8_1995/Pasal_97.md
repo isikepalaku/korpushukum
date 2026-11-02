@@ -24,9 +24,9 @@ mengamandemen: []
 
  memperolehnya dikenakan larangan yang sama dengan larangan
 
- yang berlaku bagi orang dalam sebagaimana dimaksud dalam Pasal
+ yang berlaku bagi orang dalam sebagaimana dimaksud dalam Pasal 95 dan
 
- 95 dan Pasal 96.
+Pasal 96.
 
  (2) Setiap...
 
@@ -36,7 +36,9 @@ mengamandemen: []
 
  dikenakan larangan yang berlaku bagi orang dalam sebagaimana
 
- dimaksud dalam Pasal 95 dan Pasal 96, sepanjang informasi
+ dimaksud dalam Pasal 95 dan
+
+Pasal 96, sepanjang informasi
 
  tersebut disediakan oleh Emiten atau Perusahaan Publik tanpa
 

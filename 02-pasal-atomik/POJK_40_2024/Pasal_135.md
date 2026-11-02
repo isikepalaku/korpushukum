@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penyelenggara wajib mencantumkan kegiatan usaha
-sebagaimana dimaksud dalam Pasal 130 ayat (1) dan ayat
+sebagaimana dimaksud dalam
+
+Pasal 130
+ayat (1) dan ayat
 (2) dalam anggaran dasarnya.
 
 ## Penjelasan Resmi

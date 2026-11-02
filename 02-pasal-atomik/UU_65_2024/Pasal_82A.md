@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Dalam hal Lisensi-wajib diajukan berdasarkan alasan sebagaimana dimaksud dalam Pasal 82 ayat (1) huruf c, berlaku ketentuan:
+Dalam hal Lisensi-wajib diajukan berdasarkan alasan sebagaimana dimaksud dalam
+
+Pasal 82
+ayat (1) huruf c, berlaku ketentuan:
 
 - a. Invensi yang diklaim dalam Paten kedua harus memiliki penyempurnaan teknis yang penting dengan signifikansi ekonomi yang bermakna, dalam kaitannya dengan Invensi yang diklaim dalam Paten Pertama;
 - b. Pemegang Paten berhak saling memberikan Lisensi untuk menggqnakan Paten pihak lainnya berdasarkan persyaratan yang wajar; dan

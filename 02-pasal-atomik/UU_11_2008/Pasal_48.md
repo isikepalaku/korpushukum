@@ -23,7 +23,10 @@ mengamandemen: []
 
 - (2) Setiap Orang yang memenuhi unsur sebagaimana dimaksud dalam Pasal 32 ayat (2) dipidana dengan pidana penjara paling lama 9 (sembilan) tahun dan/atau denda
 
-paling banyak Rp3.000.000.000,00 (tiga miliar rupiah). (3) Setiap Orang yang memenuhi unsur sebagaimana dimaksud dalam Pasal 32 ayat (3) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau denda
+paling banyak Rp3.000.000.000,00 (tiga miliar rupiah). (3) Setiap Orang yang memenuhi unsur sebagaimana dimaksud dalam
+
+Pasal 32
+ayat (3) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau denda
 
 - paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
 

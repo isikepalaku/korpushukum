@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Dalam hal terjadi kesalahan pengisian data dalam
 
 permohonan pendaftaran Jaminan Fidusia sebagaimana
-dimaksud dalam Pasal 3 huruf a, huruf b, huruf c, huruf
+dimaksud dalam
+
+Pasal 3
+huruf a, huruf b, huruf c, huruf
 d, dan huruf f yang diketahui setelah sertifikat Jaminan
 Fidusia dicetak, Penerima Fidusia, kuasa atau wakilnya
 harus mengajukan permohonan perbaikan sertifikat

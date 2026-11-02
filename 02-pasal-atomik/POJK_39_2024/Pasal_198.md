@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Penilaian terhadap faktor kualitas piutang Pinjaman
-sebagaimana dimaksud dalam Pasal 196 ayat (2) huruf b
+sebagaimana dimaksud dalam
+
+Pasal 196
+ayat (2) huruf b
 meliputi penilaian terhadap komponen sebagai berikut:
 a. kualitas piutang Pinjaman;
 b. konsentrasi eksposur risiko;

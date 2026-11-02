@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Persetujuan atau penolakan atas permohonan izin
 
-usaha sebagaimana dimaksud dalam Pasal 14 huruf b
+usaha sebagaimana dimaksud dalam
+
+Pasal 14
+huruf b
 
 diberikan oleh OJK paling lama 60 (enam puluh) hari
 

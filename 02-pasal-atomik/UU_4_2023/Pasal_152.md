@@ -20,6 +20,8 @@ mengamandemen: []
 - (1) Kewajiban Dana Pensiun Pemberi Kerja yang menyelenggarakan Program Pensiun Manfaat Pasti sebagaimana dimaksud dalam Pasal 151 dihitung dengan menggunakan metode dan asumsi aktuaria yang wajar dan dapat dipertanggungjawabkan.
 - (2) Ketentuan lebih lanjut mengenai metode dan asumsi aktuaria yang wajar dan dapat dipertanggungjawabkan sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Otoritas Jasa Keuangan.
 
+Pasal 153 ...
+
 ## Penjelasan Resmi
 
 Cukup jelas.

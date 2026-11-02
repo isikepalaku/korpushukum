@@ -4,7 +4,7 @@ judul: "Map of Content - Bank Umum Syariah"
 kode_uu: POJK_16_2022
 type: moc
 tags: [moc, hukum/keuangan, uu/pojk_16_2022]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Bank Umum Syariah (POJK_16_2022)
@@ -18,30 +18,30 @@ last_updated: 2026-11-01
 - [[Pasal_3]]: Bentuk badan hukum Bank berupa perseroan terbatas.
 - [[Pasal_4]]: (1) Bank didirikan dan melakukan kegiatan usaha dengan
 - [[Pasal_5]]: (1) Bank wajib melaksanakan kegiatan usaha dengan
-- [[Pasal_6]]: 
-- [[Pasal_7]]: berlaku, menyampaikan rencana korporasi kepada OJK
-- [[Pasal_8]]: berupa:
+- [[Pasal_6]]: (1) Bank wajib menyusun rencana strategis dalam bentuk
+- [[Pasal_7]]: (1) Rencana korporasi sebagaimana dimaksud dalam Pasal 6 disusun untuk mencapai tujuan Bank dalam jangka
+- [[Pasal_8]]: (1) Dalam hal terdapat kondisi eksternal dan internal yang
 - [[Pasal_9]]: (1) Bank yang melanggar ketentuan sebagaimana
 - [[Pasal_10]]: (1) Persyaratan dan mekanisme pendirian Bank terdiri atas:
 - [[Pasal_11]]: (1) Modal disetor untuk mendirikan Bank ditetapkan
 - [[Pasal_12]]: (1) Bank didirikan dan/atau dimiliki oleh:
-- [[Pasal_13]]: setelah dokumen permohonan diterima secara lengkap.
+- [[Pasal_13]]: Perizinan pendirian Bank dilakukan dalam 2 (dua) tahap:
 - [[Pasal_14]]: (1) Permohonan untuk memperoleh persetujuan prinsip
-- [[Pasal_15]]: terhitung sejak tanggal persetujuan prinsip diterbitkan.
+- [[Pasal_15]]: (1) OJK memberikan persetujuan atau penolakan atas
 - [[Pasal_16]]: (1) Persetujuan prinsip sebagaimana dimaksud dalam
 - [[Pasal_17]]: (1) Permohonan untuk memperoleh izin usaha
 - [[Pasal_18]]: (1) OJK memberikan persetujuan atau penolakan atas
-- [[Pasal_19]]: denda sebesar Rp1.000.000,00 (satu juta rupiah) per
+- [[Pasal_19]]: (1) Bank yang telah memperoleh izin usaha dari OJK harus
 - [[Pasal_20]]: (1) Bank yang telah memperoleh izin usaha dari OJK wajib
 - [[Pasal_21]]: (1) Bank yang melanggar ketentuan sebagaimana
-- [[Pasal_22]]: 
-- [[Pasal_23]]: (2) Upaya pemenuhan persyaratan sebagaimana dimaksud
-- [[Pasal_24]]: Bank Digital sebagaimana dimaksud dalam Pasal 22 dapat
+- [[Pasal_22]]: (1) Bank dapat beroperasi sebagai Bank Digital.
+- [[Pasal_23]]: (1) Bank Digital sebagaimana dimaksud dalam Pasal 22
+- [[Pasal_24]]: Bank Digital sebagaimana dimaksud dalam
 - [[Pasal_25]]: (1) Ketentuan mengenai pendirian Bank sebagaimana
 - [[Pasal_26]]: (1) Bank yang akan bertransformasi menjadi Bank Digital
-- [[Pasal_27]]: Bank Digital sebagaimana dimaksud dalam Pasal 22 dapat:
-- [[Pasal_28]]: administratif berupa teguran tertulis.
-- [[Pasal_29]]: a. pembatasan layanan perbankan digital tertentu;
+- [[Pasal_27]]: Bank Digital sebagaimana dimaksud dalam
+- [[Pasal_28]]: Bank Digital wajib mengembangkan ekosistem keuangan
+- [[Pasal_29]]: Bank yang beroperasi sebagai Bank Digital wajib memenuhi
 - [[Pasal_30]]: (1) Bank yang melanggar ketentuan sebagaimana
 - [[Pasal_31]]: Sumber dana yang digunakan untuk kepemilikan Bank
 - [[Pasal_32]]: (1) Kepemilikan Bank oleh badan hukum sebagaimana
@@ -49,13 +49,13 @@ last_updated: 2026-11-01
 - [[Pasal_34]]: (1) Kepemilikan saham Bank oleh PSP dilarang diagunkan
 - [[Pasal_35]]: (1) Pihak yang menjadi pemilik Bank paling sedikit harus
 - [[Pasal_36]]: Pihak yang menjadi PSP harus memenuhi persyaratan
-- [[Pasal_37]]: ayat (1), ayat (2), ayat (3), Pasal 41 ayat (1), Pasal 42,
-- [[Pasal_38]]: berupa denda sebesar Rp1.000.000,00 (satu juta
+- [[Pasal_37]]: (1) Pemegang saham dilarang ikut serta dalam
+- [[Pasal_38]]: (1) Penggantian dan/atau penambahan PSP dilaksanakan
 - [[Pasal_39]]: Dalam hal terdapat perubahan modal disetor Bank yang
-- [[Pasal_40]]: 
+- [[Pasal_40]]: (1) Bank wajib menginformasikan perubahan komposisi
 - [[Pasal_41]]: (1) Bank wajib menginformasikan perubahan komposisi
-- [[Pasal_42]]: dikenai sanksi administratif berupa teguran tertulis.
-- [[Pasal_43]]: utama Bank dapat dikenai sanksi administratif berupa
+- [[Pasal_42]]: Bank wajib menginformasikan perubahan modal dasar Bank
+- [[Pasal_43]]: Pembelian kembali saham yang telah dikeluarkan oleh Bank
 - [[Pasal_44]]: (1) Rencana penerbitan saham Bank melalui penawaran
 - [[Pasal_45]]: Bank wajib mengadministrasikan dokumen terkait
 - [[Pasal_46]]: (1) Bank yang melanggar ketentuan sebagaimana
@@ -68,19 +68,19 @@ last_updated: 2026-11-01
 - [[Pasal_53]]: (1) Bank wajib memiliki paling sedikit 3 (tiga) orang
 - [[Pasal_54]]: (1) Anggota Dewan Komisaris dilarang melakukan rangkap
 - [[Pasal_55]]: Mayoritas anggota Dewan Komisaris dilarang saling memiliki
-- [[Pasal_56]]: 
+- [[Pasal_56]]: (1) Calon anggota Direksi atau calon anggota Dewan
 - [[Pasal_57]]: (1) Dalam hal terdapat anggota Direksi atau anggota
 - [[Pasal_58]]: Tugas dan tanggung jawab DPS Bank dilaksanakan sesuai
 - [[Pasal_59]]: (1) Bank wajib membentuk DPS yang berkedudukan di KP
 - [[Pasal_60]]: Anggota DPS harus memenuhi persyaratan:
 - [[Pasal_61]]: (1) Bank wajib mengajukan calon anggota DPS untuk
 - [[Pasal_62]]: (1) Permohonan untuk memperoleh persetujuan
-- [[Pasal_63]]: ayat (1), Pasal 66 ayat (1), Pasal 67 ayat (2), ayat (3),
+- [[Pasal_63]]: (1) Dalam hal terdapat anggota DPS yang diberhentikan,
 - [[Pasal_64]]: (1) Calon pemimpin KPBLN wajib mengikuti penilaian
 - [[Pasal_65]]: (1) Dalam hal terdapat pemimpin KPBLN yang
 - [[Pasal_66]]: (1) Bank wajib melakukan penilaian terhadap calon
 - [[Pasal_67]]: (1) Dalam hal adanya kekosongan jabatan Pejabat
-- [[Pasal_68]]: utama Bank atau pemimpin KPBLN dapat dikenai
+- [[Pasal_68]]: (1) Bank wajib melaporkan pengangkatan, pemberhentian,
 - [[Pasal_69]]: Bank yang memanfaatkan tenaga kerja asing harus
 - [[Pasal_70]]: (1) Bank atau KPBLN yang melanggar ketentuan
 - [[Pasal_71]]: (1) Jaringan kantor Bank terdiri atas KP, Kanwil, KC, KCP,
@@ -91,34 +91,34 @@ last_updated: 2026-11-01
 - [[Pasal_76]]: (1) Pembukaan Kanwil wajib memperoleh izin OJK.
 - [[Pasal_77]]: (1) OJK memberikan persetujuan atau penolakan atas
 - [[Pasal_78]]: (1) Bank harus melaksanakan pembukaan Kanwil paling
-- [[Pasal_79]]: 
-- [[Pasal_80]]: Paragraf 3
-- [[Pasal_81]]: 
+- [[Pasal_79]]: (1) Pembukaan KC wajib memperoleh izin OJK.
+- [[Pasal_80]]: (1) OJK memberikan persetujuan atau penolakan atas
+- [[Pasal_81]]: (1) Bank harus melaksanakan pembukaan KC paling lama
 - [[Pasal_82]]: (1) KCP dapat berbentuk permanen atau berpindah.
 - [[Pasal_83]]: (1) KF dapat melakukan kegiatan operasional atau
-- [[Pasal_84]]: 
+- [[Pasal_84]]: (1) Pembukaan Kantor di Luar Negeri wajib memperoleh
 - [[Pasal_85]]: (1) OJK memberikan persetujuan atau penolakan atas
-- [[Pasal_86]]: sanksi administratif sesuai dengan Peraturan OJK
+- [[Pasal_86]]: (1) Pembukaan Kantor di Luar Negeri harus dilaksanakan
 - [[Pasal_87]]: Bank dapat melakukan perubahan status atas kantor yang
 - [[Pasal_88]]: (1) Bank wajib mencantumkan rencana perubahan status
-- [[Pasal_89]]: (8), Pasal 95 ayat (2), ayat (5), Pasal 96 ayat (2), ayat (3),
+- [[Pasal_89]]: (1) Bank wajib mencantumkan rencana perubahan status
 - [[Pasal_90]]: Perubahan status kantor selain sebagaimana dimaksud
 - [[Pasal_91]]: Bank wajib mencantumkan rencana pemindahan alamat
-- [[Pasal_92]]: dikenai sanksi administratif berupa teguran tertulis.
+- [[Pasal_92]]: (1) Pemindahan alamat kantor Bank sebagaimana
 - [[Pasal_93]]: (1) OJK memberikan persetujuan atau penolakan atas
 - [[Pasal_94]]: (1) Bank yang telah memperoleh persetujuan pemindahan
 - [[Pasal_95]]: (1) Bank wajib menginformasikan rencana pemindahan
 - [[Pasal_96]]: (1) Bank dapat melakukan pemindahan sementara alamat
-- [[Pasal_97]]: Bank dapat dikenai sanksi administratif berupa
+- [[Pasal_97]]: Bank wajib mencantumkan rencana penutupan kantor
 - [[Pasal_98]]: (1) Penutupan kantor Bank berupa Kanwil, KC, dan/atau
 - [[Pasal_99]]: (1) OJK memberikan persetujuan atau penolakan atas
-- [[Pasal_100]]: (4), Pasal 106 ayat (2), ayat (3), Pasal 110 ayat (2),
-- [[Pasal_101]]: sanksi administratif sesuai dengan Peraturan OJK
-- [[Pasal_102]]: administratif berupa denda sebesar Rp1.000.000,00
+- [[Pasal_100]]: (1) Bank yang telah memperoleh persetujuan penutupan
+- [[Pasal_101]]: (1) Bank wajib menginformasikan rencana penutupan KCP
+- [[Pasal_102]]: (1) Bank dapat melakukan penutupan sementara kantor
 - [[Pasal_103]]: Bank bertanggung jawab dalam penyelesaian seluruh hak
 - [[Pasal_104]]: Berdasarkan pertimbangan OJK, Bank wajib menunda atau
 - [[Pasal_105]]: (1) Bank yang melanggar ketentuan sebagaimana
-- [[Pasal_106]]: 108 ayat (2) dikenai sanksi administratif berupa denda
+- [[Pasal_106]]: (1) Perubahan nama Bank wajib dilaksanakan sesuai
 - [[Pasal_107]]: (1) Bank wajib menyampaikan rencana perubahan logo
 - [[Pasal_108]]: (1) Perubahan anggaran dasar Bank harus mendapatkan
 - [[Pasal_109]]: (1) Bank yang melanggar ketentuan sebagaimana
@@ -127,8 +127,8 @@ last_updated: 2026-11-01
 - [[Pasal_112]]: (1) Kegiatan yang dapat dilakukan oleh KPBLN:
 - [[Pasal_113]]: (1) KPBLN wajib menyampaikan laporan kepada OJK
 - [[Pasal_114]]: (1) KPBLN wajib menyampaikan rencana kerja untuk 1
-- [[Pasal_115]]: administratif berupa teguran tertulis.
-- [[Pasal_116]]: -----
+- [[Pasal_115]]: KPBLN wajib melaporkan pemindahan alamat KPBLN
+- [[Pasal_116]]: (1) Pemimpin KPBLN wajib menyampaikan perubahan
 - [[Pasal_117]]: (1) KPBLN yang melanggar ketentuan sebagaimana
 - [[Pasal_118]]: (1) OJK melakukan pencabutan izin usaha Bank atau
 - [[Pasal_119]]: Dalam hal Bank memenuhi persyaratan:
@@ -136,24 +136,24 @@ last_updated: 2026-11-01
 - [[Pasal_121]]: (1) Direksi Bank mengajukan permohonan persetujuan
 - [[Pasal_122]]: (1) OJK menerbitkan persetujuan persiapan pencabutan
 - [[Pasal_123]]: (1) Dalam hal seluruh hak dan kewajiban Bank
-- [[Pasal_124]]: Badan hukum Bank sebagaimana dimaksud dalam Pasal
+- [[Pasal_124]]: Badan hukum Bank sebagaimana dimaksud dalam
 - [[Pasal_125]]: (1) Pejabat yang berwenang di kantor pusat KPBLN
 - [[Pasal_126]]: (1) OJK melakukan pencabutan izin usaha Bank yang
 - [[Pasal_127]]: (1) KPBLN wajib menginformasikan kepada OJK paling
 - [[Pasal_128]]: Dalam hal Bank yang dicabut izin usaha berupa perusahaan
 - [[Pasal_129]]: (1) OJK mengumumkan pencabutan izin usaha Bank pada
-- [[Pasal_130]]: utama atau pemimpin KPBLN dapat dikenai sanksi
+- [[Pasal_130]]: (1) Bank wajib menyampaikan kepada OJK laporan posisi
 - [[Pasal_131]]: (1) Sejak tanggal pencabutan izin usaha, Direksi Bank
 - [[Pasal_132]]: (1) Bank atau KPBLN yang melanggar ketentuan
-- [[Pasal_133]]: b. penyediaan jasa teknologi informasi berupa
-- [[Pasal_134]]: Bank dan/atau pejabat eksekutif bank umum
+- [[Pasal_133]]: (1) Bank dapat melakukan Sinergi Perbankan.
+- [[Pasal_134]]: (1) Dalam melaksanakan Sinergi Perbankan sebagaimana
 - [[Pasal_135]]: (1) Pelaksanaan Sinergi Perbankan oleh Bank wajib
 - [[Pasal_136]]: (1) Bank dan/atau bank umum konvensional yang
 - [[Pasal_137]]: (1) Penyampaian terkait:
 - [[Pasal_138]]: (1) Berdasarkan Modal Inti yang dimiliki, Bank
 - [[Pasal_139]]: (1) Dalam hal diperlukan, OJK dapat menetapkan
 - [[Pasal_140]]: (1) Bank dapat mempertahankan jaringan kantor dan
-- [[Pasal_141]]: denda sebesar Rp1.000.000,00 (satu juta rupiah) per
+- [[Pasal_141]]: (1) Bank wajib menyampaikan risalah RUPS kepada OJK
 - [[Pasal_142]]: (1) Bank mengumumkan rencana untuk melakukan
 - [[Pasal_143]]: Bank atau KPBLN wajib mengadministrasikan dokumen
 - [[Pasal_144]]: Berdasarkan pengelompokan Bank menjadi 4 (empat) KBMI

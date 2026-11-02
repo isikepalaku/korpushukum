@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang mempekerjakan tenaga kerja asing
-sebagaimana dimaksud dalam Pasal 59, wajib:
+sebagaimana dimaksud dalam
+
+Pasal 59, wajib:
 a. menyelenggarakan kegiatan alih pengetahuan dari
 tenaga kerja asing kepada pegawai Perusahaan;
 dan

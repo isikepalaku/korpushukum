@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Pemeriksaan substantif dilaksanakan berdasarkan ketentuan Pasal 3 ayat (1), Pasal 4, Pasal 5, Pasal 7, Pasal 8, Pasal 9, Pas aL 24 ayat (3), Pas al 25 ayat (3) dan ayat (4), serta Pasal 39 aYat (2).
+Pemeriksaan substantif dilaksanakan berdasarkan ketentuan Pasal 3 ayat (1),
+
+Pasal 4, Pasal 5, Pasal 7, Pasal 8, Pasal 9, Pas aL 24 ayat (3), Pas al 25 ayat (3) dan ayat (4), serta Pasal 39 aYat (2).
 
 2t,Di.. .
 

@@ -45,5 +45,7 @@ REPI,JBUK INDONESIA
 
 ## Penjelasan Resmi
 
-Cukup [jelas.] Pasal 121
- Cukup [jelas.]
+Cukup [jelas.]
+
+Pasal 121
+Cukup [jelas.]

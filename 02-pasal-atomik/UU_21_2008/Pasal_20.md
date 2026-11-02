@@ -19,38 +19,90 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-wajib tunduk kepada Prinsip Syariah.
+(1) Selain melakukan kegiatan usaha sebagaimana dimaksud
 
-(2) Prinsip Syariah sebagaimana dimaksud pada ayat (1)
+dalam
 
-difatwakan oleh Majelis Ulama Indonesia.
+Pasal 19
+ayat (1), Bank Umum Syariah dapat pula:
 
-(3) Fatwa sebagaimana dimaksud pada ayat (2) dituangkan
+a. melakukan kegiatan valuta asing berdasarkan Prinsip
+Syariah;
 
-dalam Peraturan Bank Indonesia.
+b. melakukan kegiatan penyertaan modal pada Bank
+Umum Syariah atau lembaga keuangan yang melakukan
+kegiatan usaha berdasarkan Prinsip Syariah;
 
-(4) Dalam rangka penyusunan Peraturan Bank Indonesia
+c. melakukan kegiatan penyertaan modal sementara untuk
+mengatasi akibat kegagalan Pembiayaan berdasarkan
+Prinsip Syariah, dengan syarat harus menarik kembali
+penyertaannya;
 
-sebagaimana dimaksud pada ayat (3), Bank Indonesia
-membentuk komite perbankan syariah.
+d. bertindak sebagai pendiri dan pengurus dana pensiun
+berdasarkan Prinsip Syariah;
 
-(5) Ketentuan lebih lanjut mengenai tata cara pembentukan,
+e. melakukan kegiatan dalam pasar modal sepanjang tidak
+bertentangan dengan Prinsip Syariah dan ketentuan
+peraturan perundang-undangan di bidang pasar modal;
 
-keanggotaan, dan tugas komite perbankan syariah
-sebagaimana dimaksud pada ayat (4) diatur dengan
-Peraturan Bank Indonesia.
+f. menyelenggarakan kegiatan atau produk bank yang
+berdasarkan Prinsip Syariah dengan menggunakan
+sarana elektronik;
 
-BAB V
+g. menerbitkan, menawarkan, dan memperdagangkan
+surat berharga jangka pendek berdasarkan Prinsip
+Syariah, baik secara langsung maupun tidak langsung
+melalui pasar uang;
 
-PEMEGANG SAHAM PENGENDALI, DEWAN KOMISARIS,
+h. menerbitkan, menawarkan, dan memperdagangkan
+surat berharga jangka panjang berdasarkan Prinsip
+Syariah, baik secara langsung maupun tidak langsung
+melalui pasar modal; dan
+i. menyediakan . . .
 
-DEWAN PENGAWAS SYARIAH, DIREKSI,
+-----
 
-DAN TENAGA KERJA ASING
+ - 15
+i. menyediakan produk atau melakukan kegiatan usaha
+Bank Umum Syariah lainnya yang berdasarkan Prinsip
+Syariah.
 
-Bagian Kesatu
+(2) Selain melakukan kegiatan usaha sebagaimana dimaksud
 
-Pemegang Saham Pengendali
+dalam
+
+Pasal 19
+ayat (2), UUS dapat pula:
+
+a. melakukan kegiatan valuta asing berdasarkan Prinsip
+Syariah;
+
+b. melakukan kegiatan dalam pasar modal sepanjang tidak
+bertentangan dengan Prinsip Syariah dan ketentuan
+peraturan perundang-undangan di bidang pasar modal;
+
+c. melakukan kegiatan penyertaan modal sementara untuk
+mengatasi akibat kegagalan Pembiayaan berdasarkan
+Prinsip Syariah, dengan syarat harus menarik kembali
+penyertaannya;
+
+d. menyelenggarakan kegiatan atau produk bank yang
+berdasarkan Prinsip Syariah dengan menggunakan
+sarana elektronik;
+
+e. menerbitkan, menawarkan, dan memperdagangkan
+surat berharga jangka pendek berdasarkan Prinsip
+Syariah baik secara langsung maupun tidak langsung
+melalui pasar uang; dan
+
+f. menyediakan produk atau melakukan kegiatan usaha
+Bank Umum Syariah lainnya yang berdasarkan Prinsip
+Syariah.
+
+(3) Kegiatan sebagaimana dimaksud pada ayat (1) dan ayat (2)
+
+wajib memenuhi ketentuan yang ditetapkan oleh Bank
+Indonesia dan ketentuan peraturan perundang-undangan.
 
 ## Penjelasan Resmi
 

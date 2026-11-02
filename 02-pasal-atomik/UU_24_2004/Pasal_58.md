@@ -22,9 +22,10 @@ Status badan hukum bank yang dilikuidasi hapus sejak tanggal
 
  pengumuman berakhirnya likuidasi dalam Berita Negara
 
- Republik Indonesia sebagaimana dimaksud dalam Pasal 56
+ Republik Indonesia sebagaimana dimaksud dalam
 
- huruf a angka 1.
+Pasal 56
+huruf a angka 1.
 
 ## Penjelasan Resmi
 

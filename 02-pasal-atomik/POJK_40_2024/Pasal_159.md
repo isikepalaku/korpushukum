@@ -18,22 +18,98 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Penyelenggara yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 130 ayat (3), Pasal 133, Pasal
-134, Pasal 135, Pasal 136 ayat (2), Pasal 137 ayat (1)
-ayat (2), Pasal 139 ayat (1), Pasal 140 ayat (1), Pasal
-141, Pasal 142 ayat (1), ayat (2), ayat (5), ayat (6), ayat
+dimaksud dalam Pasal 130 ayat (3),
+
+Pasal 133, Pasal 134, Pasal 135, Pasal 136 ayat (2), Pasal 137 ayat (1)
+ayat (2),
+
+Pasal 139
+ayat (1), Pasal 140 ayat (1), Pasal 141, Pasal 142 ayat (1), ayat (2), ayat (5), ayat (6), ayat
 (7), ayat (9), Pasal 143, Pasal 144 ayat (2), ayat (3), ayat
 (4), ayat (6), Pasal 145 ayat (2), ayat (3), ayat (4), ayat
 (6), Pasal 146, Pasal 147, Pasal 148 ayat (1), ayat (3),
-ayat (4), ayat (5), ayat (7), Pasal 149 ayat (1), Pasal 150
-ayat (1), Pasal 151 ayat (1), Pasal 152 ayat (1), ayat (2),
-ayat (3), ayat (4), Pasal 153 ayat (1), ayat (3), ayat (7),
+ayat (4), ayat (5), ayat (7),
+
+Pasal 149
+ayat (1), Pasal 150
+ayat (1),
+
+Pasal 151
+ayat (1), Pasal 152 ayat (1), ayat (2),
+ayat (3), ayat (4),
+
+Pasal 153
+ayat (1), ayat (3), ayat (7),
+Pasal 154
+ayat (1) ayat (3),
+
+Pasal 155
+ayat (1), ayat (2),
+ayat (3), ayat (4),
+
+Pasal 156
+ayat (2), ayat (3), ayat (4),
+ayat (5), ayat (6), ayat (7),
+
+Pasal 157
+ayat (2), ayat (3),
+ayat (5), ayat (6), dan/atau
+
+Pasal 158
+dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembekuan sebagian atau seluruh kegiatan
+usaha;
+c. pembatasan kegiatan usaha tertentu;
+d. penurunan hasil penilaian tingkat risiko;
+e. pembatalan persetujuan;
+f. larangan menjadi PSP, Direksi, Dewan Komisaris,
+dan/atau DPS; dan/atau
+g. denda administratif.
+
+-----
+
+(2) Sanksi administratif sebagaimana pada ayat (1) huruf b
+sampai dengan huruf g dapat dikenakan dengan atau
+tanpa didahului pengenaan sanksi administratif berupa
+peringatan tertulis sebagaimana dimaksud pada ayat
+(1) huruf a.
+(3) Sanksi administratif berupa denda administratif
+sebagaimana dimaksud pada ayat (1) huruf g dikenakan
+paling banyak Rp50.000.000,00 (lima puluh juta
+rupiah).
+(4) Dalam hal Penyelenggara telah memenuhi ketentuan
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa
+Keuangan mencabut sanksi administratif.
+(5) Dalam hal terjadi pelanggaran ketentuan sebagaimana
+dimaksud pada ayat (1) dan pelanggaran telah
+diperbaiki, Otoritas Jasa Keuangan memberikan
+sanksi administratif berupa peringatan tertulis yang
+berakhir dengan sendirinya.
+(6) Selain sanksi administratif sebagaimana dimaksud
+pada ayat (1), Otoritas Jasa Keuangan berwenang:
+a. menurunkan hasil penilaian Tingkat Kesehatan;
+b. menyebabkan Penyelenggara melanggar ketentuan
+sebagaimana dimaksud pada ayat (1); dan/atau
+c. menyebabkan Penyelenggara melanggar ketentuan
+sebagaimana dimaksud pada ayat (1) dalam Sistem
+Elektronik Otoritas Jasa Keuangan.
+
+BAB XIII
+SISTEM ELEKTRONIK PENYELENGGARAAN LPBBTI
+
+Bagian Kesatu
+Sistem Elektronik
 
 ## Penjelasan Resmi
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

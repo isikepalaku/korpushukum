@@ -4,7 +4,7 @@ uu_induk: Pengembangan dan Penguatan Sektor Keuangan (UU P2SK)
 kode_uu: UU_4_2023
 pasal: '37'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_4_2023
@@ -42,7 +42,10 @@ c. mengubah, ...
 - -418 -
 - c. mengubah, mengaburkan, menyembunyikan, menghapus, dan/a tau menghilangkan suatu pencatatan dalam pembukuan atau dalam laporan keuangan, dan dalam dokumen atau laporan kegiatan usaha,
 
-sebagaimana dimaksud dalam Pasal 29 ayat (2), dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (tiga) tahun dan pidana denda paling sedikit Rpl.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp2.000.000.000,00 (dua miliar rupiah).
+sebagaimana dimaksud dalam
+
+Pasal 29
+ayat (2), dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (tiga) tahun dan pidana denda paling sedikit Rpl.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp2.000.000.000,00 (dua miliar rupiah).
 
 - (2) Anggota dewan komisaris, anggota pengawas, anggota direksi, anggota pengurus, pengelola, pegawai, dan/ atau pihak terafiliasi LKM yang:
 - a. meminta atau menerima suatu imbalan sebagaimana dimaksud dalam Pasal 30A ayat (1); dan/atau
@@ -67,3 +70,5 @@ dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 3 (
 ## Penjelasan Resmi
 
 Cukup jelas.
+
+Angka 17

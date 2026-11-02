@@ -20,7 +20,10 @@ mengamandemen: []
 
 (1) Lembaga Penjamin Simpanan mendirikan Bank Perantara
 
-sebagaimana dimaksud dalam Pasal 22 ayat (1) huruf b
+sebagaimana dimaksud dalam
+
+Pasal 22
+ayat (1) huruf b
 untuk menerima pengalihan sebagian atau seluruh aset
 dan/atau kewajiban Bank Sistemik dan menjalankan
 aktivitas usaha Bank.
@@ -96,6 +99,12 @@ bagi bank umum; dan
 b. memenuhi persyaratan terkait prinsip kehati-hatian
 
 dan indikator tingkat kesehatan bank umum.
+
+Pasal 26 . . .
+
+-----
+
+ - 20
 
 ## Penjelasan Resmi
 

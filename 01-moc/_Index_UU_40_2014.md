@@ -4,7 +4,7 @@ judul: "Map of Content - Perasuransian"
 kode_uu: UU_40_2014
 type: moc
 tags: [moc, hukum/keuangan, uu/uu_40_2014]
-last_updated: 2026-11-01
+last_updated: 2026-11-03
 ---
 
 # Perasuransian (UU_40_2014)
@@ -14,22 +14,13 @@ last_updated: 2026-11-01
 ## Daftar Pasal
 
 - [[Pasal_2]]: **(1) Perusahaan asuransi umum hanya dapat**
-- [[Pasal_2T]]: (1) Pialang Asuransi, Pialang Reasuransi, dan Agen Asuransi
 - [[Pasal_3]]: (1) Perusahaan asuransi umum syariah hanya [dapat]
 - [[Pasal_4]]: **(l) Perusahaan piatang asuransi hanya dapat**
-- [[Pasal_4L]]: (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 - [[Pasal_5]]: (1) Ruang lingkup Usaha Asuransi Umum dan Usaha
-- [[Pasal_5O]]: (1) Permohonan pernyataan pailit terhadap Perusahaan
-- [[Pasal_6]]: (1) Pemeriksaan sslagaimana dimaksud dalam Pasal 6O ayat
-- [[Pasal_6O]]: Pasal 6O
+- [[Pasal_6]]: **(1) Bentuk badan hukum penyelenggara Usaha**
 - [[Pasal_7]]: (1) Perusahaan Perasuransian hanya dapat dimiliki oleh:
-- [[Pasal_7L]]: (1) Setiap Orang yang melanggar ketentuan sebagaimana
-- [[Pasal_7O]]: Pasal 7O
 - [[Pasal_8]]: **(1) Setiap Pihak yang melakukan Usaha Perasuransian wajib**
-- [[Pasal_8L]]: Pasal 8L
-- [[Pasal_8O]]: **Setiap Orang, yang ditunjuk atau ditugasi oleh Otoritas Jasa Keuangan, yang menggunakan atau mengungkapkan informasi apapun yang...
 - [[Pasal_9]]: (1) Otoritas Jasa Keuangan menyetujui atau menolak
-- [[Pasal_9O]]: Pasal 9O
 - [[Pasal_10]]: Pasal 10
 - [[Pasal_11]]: Pasal 11
 - [[Pasal_12]]: (1) Anggota direksi, anggota dewan komisaris, atau yang
@@ -49,7 +40,7 @@ last_updated: 2026-11-01
 - [[Pasal_26]]: **(1) Perusahaan Perasuransian wajib memenuhi standar**
 - [[Pasal_28]]: (1) Premi atau Kontribusi dapat dibayarkan langsung oleh
 - [[Pasal_29]]: **(l) Premi atau Kontribusi dapat dibayarkan langsung oleh**
-- [[Pasal_30]]: **dan ayat (a), Pasal 32 ayat (1) dan ayat (21, Pasal 35 ayat**
+- [[Pasal_30]]: **(1) Perusahaan pialang asuransi dilarang menempatkan**
 - [[Pasal_31]]: Pasal 31
 - [[Pasal_32]]: (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah, dan
 - [[Pasal_33]]: **Setiap Orang dilarang melakukan pemalsuan atas dokumen Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, ...
@@ -73,26 +64,26 @@ last_updated: 2026-11-01
 - [[Pasal_51]]: **(1) Kreditor menyampaikan permohonal kepada Otoritas**
 - [[Pasal_52]]: **(1) Dalam hal Perusahaan Asuransi, Perusahaan Asuransi**
 - [[Pasal_53]]: (1) Perusahaan Asuransi dan Perusahaan Asuransi Syariah
-- [[Pasal_54]]: 
+- [[Pasal_54]]: (1) Perusahaan Asuransi, Perusahaan Asuransi Syariah,
 - [[Pasal_55]]: **(1) Profesi penyedia jasa bagi Perusahaan Perasuransian**
 - [[Pasal_56]]: **(r) Pendaftaran profesi penyedia [jasa ] sebagaimana dimaksud**
 - [[Pasal_57]]: **(1) Pengaturan dan pengawasan kegiatan Usaha**
 - [[Pasal_58]]: **Otoritas Jasa Keuangan harus mengupayakan terciptanya persaingan usaha yang sehat di bidang Usaha PerasurEmsian.**
 - [[Pasal_59]]: (1) Otoritas Jasa Keuangan dapat menugaskan [pihak]
 - [[Pasal_60]]: (1) Dalam rangka pelaksanaan fungsi pengaturan
-- [[Pasal_61]]: **informasi apa pun yang bersifat rahasia kepada pihak lain, kecuali dalam rangka pelaksanaan fungsi, tugas, dan wewenangnya berda...
+- [[Pasal_61]]: -----
 - [[Pasal_62]]: **(1) Otoritas Jasa Keuangan dapat menonaktilkan direksi,**
 - [[Pasal_63]]: (1) Pengelola Statuter dalam melaksanakan tugasnya wajib
 - [[Pasal_64]]: **Pengelola Statuter bertanggung [jawab ]atas [kerugian] Perusahaan Asuransi, Perusahaan Asuransi [Syariah,]**
 - [[Pasal_65]]: **(l) Pengendalian dan pengelolaan Perusahaan Asuransi,**
 - [[Pasal_66]]: **(1) Perintah tertulis sebagaimana dimaksud dalam Pasal 60**
-- [[Pasal_67]]: **Pihak lain yang ditunjuk atau ditugasi oleh Otoritas Jasa Keuangan sebagaimana [rl ][imaksud ]dalam Pasa.l 59 ayat (1) dan**
+- [[Pasal_67]]: **Pihak lain yang ditunjuk atau ditugasi oleh Otoritas Jasa Keuangan sebagaimana [rl ][imaksud ]dalam Pasa.l 59 ayat (1) dan**Pasa...
 - [[Pasal_68]]: (1) Setiap Perusahaan Perasuralsian wajib menjadi anggota
 - [[Pasal_69]]: (1) Otoritas Jasa Keuangan dapat menugaskan atau
 - [[Pasal_70]]: **Otoritas Jasa Keuangan berwenang mengenakan sanksi administratif kepada Setiap Orang yang melakukan pelanggaran terhadap ketentu...
 - [[Pasal_71]]: -----
 - [[Pasal_72]]: **(1) Dalam hal Perusahaan Asuransi, Perusahaan Asuransi**
-- [[Pasal_73]]: pidana: a. dilakukan atau diperintahkan oleh Pengendali
+- [[Pasal_73]]: (1) Setiap Orang yang menjalankan kegiatan usaha asuransi,
 - [[Pasal_74]]: (1) Anggota direksi, anggota dewan komisaris, atau yang
 - [[Pasal_75]]: **Setiap Orang yang dengan sengaja tidak memberikan informasi atau memberikan informasi yang tidak benar, [palsu,]**
 - [[Pasal_76]]: **Setiap Orang yarrg menggelapkan Premi atau Kontribusi**
@@ -100,7 +91,7 @@ last_updated: 2026-11-01
 - [[Pasal_78]]: **Setiap Orang yang melakukan pemalsuan atas dokumen Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau...
 - [[Pasal_79]]: **Anggota direksi dan/atau pihak yang menandatangani polis baru dari Perusahaan Asuransi atau Perusahaan Asuransi Syariah yang sed...
 - [[Pasal_80]]: Pasal 80
-- [[Pasal_81]]: **(1) Dalam hd tindak pidana sebagaimana dimaksud dalam**
+- [[Pasal_81]]: **(1) Dalam hd tindak pidana sebagaimana dimaksud dalam**Pasal 73, Pasal 75, Pasal 76, Pasal 77, Pasal 78, atau Pasal 80 dilakukan...
 - [[Pasal_82]]: **Pidana yang dijatuhkan terhadap korporasi adalah pidana denda paling banyak Rp600.000.000.000,00 (enam ratus miliar rupiah).**
 - [[Pasal_83]]: (1) Perusahaan Perasuransian yang telah mendapatkan izin
 - [[Pasal_84]]: (1) Perusahaan konsultan aktuaria yang telah mendapat izin

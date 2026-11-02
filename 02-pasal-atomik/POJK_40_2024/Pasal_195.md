@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Pelaksanaan prinsip tata kelola perusahaan yang baik
-sebagaimana dimaksud dalam Pasal 192 ayat (1) wajib
+sebagaimana dimaksud dalam
+
+Pasal 192
+ayat (1) wajib
 dituangkan dalam pedoman paling sedikit memuat:
 a. tata cara pelaksanaan tugas dan tanggung jawab
 Direksi, Dewan Komisaris, dan DPS;

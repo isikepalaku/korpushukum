@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '372'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -32,4 +32,4 @@ mengamandemen: []
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1) Hurufa Yang dimaksud dengan "petikan dari Surat rcsmi negara" termasuk menyalin, mengutip isi Surat sebagian atau keseluruhan. Yang dimaksud dengan nmembuat salinan" termasuk dan sebagainya sesuai dengan kemajuan teknologi. Hurufb Cukup jelas. Hurufc Cukup jelas. Ayat (2) Cukup jelas.

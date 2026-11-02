@@ -21,7 +21,10 @@ mengamandemen: []
 
 mengajukan permohonan penutupan KPBLN
 
-sebagaimana dimaksud dalam Pasal 124 ayat (2) huruf
+sebagaimana dimaksud dalam
+
+Pasal 124
+ayat (2) huruf
 
 b kepada OJK disertai dengan:
 

@@ -23,14 +23,22 @@ Daftar Aset Kripto yang telah ditetapkan paling sedikit
 1 (satu) kali dalam 3 (tiga) bulan dan/atau sewaktuwaktu.
 (2) Evaluasi yang dilakukan sebagaimana dimaksud pada
 ayat (1) wajib memenuhi kriteria sebagaimana
-dimaksud dalam Pasal 4 ayat (1) dan Pasal 8 ayat (1)
+dimaksud dalam Pasal 4 ayat (1) dan
+
+Pasal 8
+ayat (1)
 serta pedoman penetapan Daftar Aset Kripto
-sebagaimana dimaksud dalam Pasal 10 ayat (3).
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (3).
 (3) Evaluasi atas Aset Kripto dalam Daftar Aset Kripto
 sebagaimana dimaksud pada ayat (1) dapat
 mempertimbangkan usulan penambahan dan/atau
 pengurangan Aset Kripto dalam Daftar Aset Kripto dari
-Pedagang sebagaimana dimaksud dalam Pasal 11
+Pedagang sebagaimana dimaksud dalam
+
+Pasal 11
 ayat (1).
 (4) Hasil evaluasi wajib dilaporkan kepada Otoritas Jasa
 Keuangan paling lama 5 (lima) hari kerja sejak evaluasi
@@ -42,10 +50,16 @@ dilakukan sebagaimana dimaksud pada ayat (1).
 Daftar Aset Kripto sebagaimana dimaksud pada ayat (1)
 terdapat Aset Kripto yang:
 a. tidak memenuhi kriteria sebagaimana dimaksud
-dalam Pasal 4 ayat (1) dan Pasal 8 ayat (1) serta
+dalam Pasal 4 ayat (1) dan
+
+Pasal 8
+ayat (1) serta
 pedoman penetapan Daftar Aset Kripto yang
 diperdagangkan di Pasar Aset Keuangan Digital
-sebagaimana dimaksud dalam Pasal 10 ayat (3);
+sebagaimana dimaksud dalam
+
+Pasal 10
+ayat (3);
 b. memiliki kondisi tertentu yang berpotensi
 melanggar ketentuan peraturan perundangundangan;
 c. memiliki potensi pelanggaran atas penerapan

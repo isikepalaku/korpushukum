@@ -33,7 +33,9 @@ d. melakukan usaha perasuransian;
 
 e. melakukan usaha lain di luar kegiatan usaha sebagaimana dimaksud
 
-dalam Pasal 13.
+dalam
+
+Pasal 13.
 
 ## Penjelasan Resmi
 

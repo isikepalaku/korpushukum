@@ -17,7 +17,9 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Modal Penyertaan sebagaimana dimaksud dalam pasal 63
+Modal Penyertaan sebagaimana dimaksud dalam
+
+Pasal 63
 ayat (1) mempunyai karakteristik:
 a. diterbitkan oleh KSP/KSPPS atas dasar kelayakan usaha
 dan disetujui rapat anggota;

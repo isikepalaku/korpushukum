@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) 
 Pemeliharaan perangkat lunak sebagaimana dimaksud 
-dalam Pasal 56 huruf c, terdiri dari: 
+dalam
+
+Pasal 56
+huruf c, terdiri dari: 
 a. 
 Pusat Data dan Pusat Data Cadangan; dan 
 b. 

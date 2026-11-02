@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Penyelenggara Sistem Elektronik harus memiliki dan menerapkan desain pelindungan Anak untuk memastikan bahwa konten yang dapat diakses Anak dalam Produk, Layanan, dan Fitur sesuai dengan batasan minimum usia Anak dan rentang usia Anak sebagaimana dimaksud dalam Pasal 2 ayat (3), dan tidak bertentangan dengan ketentuan peraturan perundang-undangan. 
+Penyelenggara Sistem Elektronik harus memiliki dan menerapkan desain pelindungan Anak untuk memastikan bahwa konten yang dapat diakses Anak dalam Produk, Layanan, dan Fitur sesuai dengan batasan minimum usia Anak dan rentang usia Anak sebagaimana dimaksud dalam
+
+Pasal 2
+ayat (3), dan tidak bertentangan dengan ketentuan peraturan perundang-undangan. 
 
 # Bagian Keempat Verifikasi Pengguna Anak
 

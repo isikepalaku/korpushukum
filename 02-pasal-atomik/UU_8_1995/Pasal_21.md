@@ -44,6 +44,8 @@ mengamandemen: []
 
  lebih lanjut oleh Bapepam.
 
+Pasal 22…
+
 ## Penjelasan Resmi
 
 Cukup jelas.

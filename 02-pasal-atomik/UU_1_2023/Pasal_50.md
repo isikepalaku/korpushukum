@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '50'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -28,4 +28,4 @@ Paragraf 1 T\:juan Pemidanaan
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dalam hal orurng perseorangan tersebut mempunyai kedudukan fungsional dalam struktur organisasi Korporasi, yang bertindak untuk dan atas nama Korporasi atau demi kepentingan Korporasi, berdasarkan hubungan kerja atau berdasarkan hubungan lain, dalam lingkup usaha Korporasi tersebut, alasan pembenar dapa.t diajukan atas nama Korporasi. Contoh, seor€rng pegawai (karyawan) perusahaan yang merusak pipa pembuangan limbah milik pemerintah untuk menyelamatkan para kar5rawan perusahaan.

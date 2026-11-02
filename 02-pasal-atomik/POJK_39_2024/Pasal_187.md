@@ -19,7 +19,10 @@ mengamandemen: []
 
 (1) Perusahaan yang akan melakukan penerbitan efek
 melalui penawaran umum sebagaimana dimaksud
-dalam Pasal 182 ayat (1) huruf d wajib melaporkan
+dalam
+
+Pasal 182
+ayat (1) huruf d wajib melaporkan
 rencana penerbitan efek paling lambat 2 (dua) bulan
 sebelum rapat umum pemegang saham yang
 menyetujui penawaran umum atau penawaran umum

@@ -20,7 +20,9 @@ mengamandemen: []
 
 Ketentuan mengenai penyelesaian perselisihan perdata sebagaimana
 
- dimaksud dalam Pasal 61, diatur lebih lanjut dengan Peraturan
+ dimaksud dalam
+
+Pasal 61, diatur lebih lanjut dengan Peraturan
 
  Pemerintah.
 

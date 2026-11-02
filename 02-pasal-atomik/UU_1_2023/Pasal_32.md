@@ -5,7 +5,7 @@ uu_induk: KUHP — Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 kode_uu: UU_1_2023
 pasal: '32'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/pidana
 - uu/uu_1_2023
@@ -22,4 +22,4 @@ Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuat
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Dalam ketenhran ini, harus ada hubungan yang bersifat hukum publik antara yang memberikan perintah dan yang melaksanakan perintah. Ketentuan ini tidak berlaku untuk hubungan yang bersilat keperdataan.

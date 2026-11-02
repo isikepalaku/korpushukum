@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Kepemilikan Bank oleh badan hukum sebagaimana
-dimaksud dalam Pasal 12 ayat (1) paling tinggi
+dimaksud dalam
+
+Pasal 12
+ayat (1) paling tinggi
 sejumlah modal sendiri bersih badan hukum yang
 bersangkutan.
 (2) Ketentuan modal sendiri bersih sebagaimana dimaksud

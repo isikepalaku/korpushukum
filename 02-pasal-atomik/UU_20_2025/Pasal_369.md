@@ -247,7 +247,7 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 7149
 | Pasal 165 | [[#^penjelasan-pasal-165]] |
 | Pasal 166 | [[#^penjelasan-pasal-166]] |
 | Pasal 167 | [[#^penjelasan-pasal-167]] |
-| Pasal 16B | [[#^penjelasan-pasal-168]] |
+| Pasal 168 | [[#^penjelasan-pasal-168]] |
 | Pasal 169 | [[#^penjelasan-pasal-169]] |
 | Pasal 170 | [[#^penjelasan-pasal-170]] |
 | Pasal 171 | [[#^penjelasan-pasal-171]] |
@@ -351,7 +351,7 @@ TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 7149
 | Pasal 275 | [[#^penjelasan-pasal-275]] |
 | Pasal 276 | [[#^penjelasan-pasal-276]] |
 | Pasal 277 | [[#^penjelasan-pasal-277]] |
-| Pasal 27B | [[#^penjelasan-pasal-278]] |
+| Pasal 278 | [[#^penjelasan-pasal-278]] |
 | Pasal 279 | [[#^penjelasan-pasal-279]] |
 | Pasal 280 | [[#^penjelasan-pasal-280]] |
 | Pasal 281 | [[#^penjelasan-pasal-281]] |

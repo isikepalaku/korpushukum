@@ -19,7 +19,10 @@ mengamandemen: []
 
 Otoritas Jasa Keuangan memberikan surat persetujuan atas
 Produk Asuransi baru dan Produk Asuransi yang memenuhi
-kriteria tertentu sebagaimana dimaksud dalam Pasal 32 ayat
+kriteria tertentu sebagaimana dimaksud dalam
+
+Pasal 32
+ayat
 (1) paling lama 10 (sepuluh) hari kerja setelah dokumen
 diterima secara lengkap.
 

@@ -18,7 +18,9 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Perusahaan yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 10 ayat (1) dan /atau Pasal 12
+dimaksud dalam Pasal 10 ayat (1) dan /atau
+
+Pasal 12
 ayat (1), ayat (2), dikenai sanksi administratif berupa:
 a. peringatan tertulis;
 b. pembekuan sebagian atau seluruh kegiatan
@@ -70,7 +72,10 @@ PERUSAHAAN PERGADAIAN SYARIAH
 
 Ayat (1)
 
-Lihat penjelasan Pasal 9 ayat (1).
+Lihat penjelasan
+
+Pasal 9
+ayat (1).
 Ayat (2)
 
 Cukup jelas.

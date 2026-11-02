@@ -20,7 +20,10 @@ mengamandemen: []
 (1) Perusahaan Asuransi atau Perusahaan Asuransi
 Syariah yang memasarkan Produk Asuransi melalui
 badan usaha selain bank sebagaimana dimaksud
-dalam Pasal 48 ayat (1) huruf d dengan kriteria tertentu
+dalam
+
+Pasal 48
+ayat (1) huruf d dengan kriteria tertentu
 wajib terlebih dahulu memperoleh surat persetujuan
 dari Otoritas Jasa Keuangan.
 (2) Kriteria tertentu sebagaimana dimaksud pada ayat (1)

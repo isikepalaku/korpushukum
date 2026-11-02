@@ -18,7 +18,50 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Pihak yang melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 96 ayat (2), Pasal 97 ayat (1),
+dimaksud dalam Pasal 96 ayat (2),
+
+Pasal 97
+ayat (1),
+Pasal 99
+ayat (1),
+
+Pasal 102
+ayat (2), ayat (3), Pasal 105
+ayat (1),
+
+Pasal 112
+ayat (5), ayat (6), Pasal 116 ayat (4),
+ayat (5),
+
+Pasal 120
+ayat (1), Pasal 122 ayat (1), Pasal 123
+ayat (1), ayat (2), dan/atau
+
+Pasal 126
+ayat (2) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. larangan menjadi PSP, Direksi, Dewan Komisaris,
+DPS; dan/atau
+
+-----
+
+c. denda administratif.
+(2) Selain sanksi administratif sebagaimana dimaksud
+pada ayat (1), pihak yang melanggar dapat dikenai
+sanksi administratif berupa larangan menjadi
+pemegang saham atau yang setara dengan pemegang
+saham pada badan hukum berbentuk koperasi, Direksi,
+Dewan Komisaris, atau DPS pada Penyelenggara.
+(3) Dalam hal pihak yang melanggar telah memenuhi
+ketentuan sebagaimana dimaksud pada ayat (1),
+Otoritas Jasa Keuangan mencabut sanksi
+administratif.
+(4) Dalam hal terjadi pelanggaran ketentuan sebagaimana
+dimaksud pada ayat (1) dan pelanggaran telah
+diperbaiki, Otoritas Jasa Keuangan memberikan
+sanksi administratif berupa peringatan tertulis yang
+berakhir dengan sendirinya.
 
 ## Penjelasan Resmi
 

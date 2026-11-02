@@ -19,6 +19,12 @@ mengamandemen: []
 
 Lembaga dapat mengajukan permintaan bantuan hukum kepada kejaksaan untuk keperluan tindak lanjut pelaksanaan keputusan penjatuhan sanksi administratif.
 
+Pasal 199,
+
+**PRESIDEN REPUBLIK INDONESIA**
+
+~ 107 -
+
 ## Penjelasan Resmi
 
 Cukup jelas.

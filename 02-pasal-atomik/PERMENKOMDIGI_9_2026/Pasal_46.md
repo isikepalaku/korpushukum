@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Direktorat Jenderal melakukan klarifikasi dan/atau validasi atas keterangan, data, informasi, dan/atau dokumen yang diterima sebagaimana dimaksud dalam Pasal 41 ayat (2) huruf b.
+Direktorat Jenderal melakukan klarifikasi dan/atau validasi atas keterangan, data, informasi, dan/atau dokumen yang diterima sebagaimana dimaksud dalam
+
+Pasal 41
+ayat (2) huruf b.
 
 ## Penjelasan Resmi
 

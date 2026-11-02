@@ -17,7 +17,10 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Setiap Orang yang melakukan pemalsuan Dokumen Karantina Kesehatan atau menggunakan Dokumen Karantina Kesehatan sebagaimana dimaksud dalam Pasal 366 yang isinya tidak benar atau yang dipalsu dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak Rp500.O00.00O,00 (lima ratus juta rupiah).
+Setiap Orang yang melakukan pemalsuan Dokumen Karantina Kesehatan atau menggunakan Dokumen Karantina Kesehatan sebagaimana dimaksud dalam
+
+Pasal 366
+yang isinya tidak benar atau yang dipalsu dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak Rp500.O00.00O,00 (lima ratus juta rupiah).
 
 ## Penjelasan Resmi
 

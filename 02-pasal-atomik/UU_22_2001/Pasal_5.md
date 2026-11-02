@@ -18,17 +18,7 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-Bakar Minyak dalam negeri yang diatur lebih lanjut dengan Peraturan Pemerintah. (2) PemerintahwajibmenjaminketersediaandankelancaranpendistribusianBahanBakarMinyak yang merupakan komoditas vital dan menguasai hajat hidup orang banyak di seluruh wilayah
-
-- Negara Kesatuan Republik Indonesia.
-
-(3) Kegiatanusaha…
-
-- (3) KegiatanusahaPengangkutanGasBumimelaluipipayangmenyangkutkepentinganumum,
-
-pengusahaannya diatur agar pemanfaatannya terbuka bagi semua pemakai.
-
-- (4) Pemerintahbertanggungjawabataspengaturandanpengawasankegiatanusahasebagaimana dimaksud dalam ayat (2) dan ayat (3) yang pelaksanaannya dilakukan oleh Badan Pengatur.
+Kegiatan usaha Minyak dan Gas Bumi terdiri atas: 1. Kegiatan Usaha Hulu yang mencakup: a. Eksplorasi; b. Eksploitasi. 2. Kegiatan Usaha Hilir yang mencakup: a. Pengolahan; b. Pengangkutan; c. Penyimpanan; d. Niaga.
 
 ## Penjelasan Resmi
 

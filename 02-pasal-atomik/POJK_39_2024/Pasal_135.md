@@ -18,8 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 Dalam hal terjadi pelanggaran ketentuan sebagaimana
-dimaksud dalam Pasal 103 ayat (1), ayat (7), dan/atau Pasal
-104 ayat (1), Otoritas Jasa Keuangan berwenang untuk:
+dimaksud dalam Pasal 103 ayat (1), ayat (7), dan/atau
+
+Pasal 104
+ayat (1), Otoritas Jasa Keuangan berwenang untuk:
 a. melakukan penilaian kembali terhadap Pihak Utama;
 b. melakukan pencatatan rekam jejak terhadap pihak
 yang menyebabkan Perusahaan melakukan

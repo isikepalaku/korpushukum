@@ -18,7 +18,32 @@ mengamandemen: []
 
 ## Batang Tubuh
 
-terhadap LKM.
+(1) Pembinaan, pengaturan, dan pengawasan LKM dilakukan oleh
+
+Otoritas Jasa Keuangan.
+
+(2) Dalam melakukan pembinaan sebagaimana dimaksud pada ayat (1),
+
+Otoritas Jasa Keuangan melakukan koordinasi dengan kementerian
+yang menyelenggarakan urusan koperasi dan Kementerian Dalam
+Negeri.
+
+(3) Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1)
+
+didelegasikan kepada Pemerintah Daerah Kabupaten/Kota.
+
+(4) Dalam hal Pemerintah Daerah Kabupaten/Kota belum siap, Otoritas
+
+Jasa Keuangan dapat mendelegasikan pembinaan dan pengawasan
+sebagaimana dimaksud pada ayat (1) kepada pihak lain yang
+ditunjuk.
+
+(5) Ketentuan mengenai hal yang berkaitan dengan pembinaan dan
+
+pengawasan yang didelegasikan kepada Pemerintah Daerah
+Kabupaten/Kota sebagaimana dimaksud pada ayat (3) dan pihak lain
+yang ditunjuk sebagaimana dimaksud pada ayat (4) diatur dalam
+Peraturan Otoritas Jasa Keuangan.
 
 ## Penjelasan Resmi
 

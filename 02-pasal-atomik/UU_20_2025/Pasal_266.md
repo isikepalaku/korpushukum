@@ -43,7 +43,14 @@ Terdakwa dan putusan itu berupa pidana perampasan
  mengenai perlawanan sebagaimana dimaksud pada ayat (5), Hakim menetapkan hari sidang untuk memeriksa kembali perkara tersebut.
 **(8) Jika putusan setelah diajukannya perlawanan tetap**
 
-**berupa pidana sebagaimana dimaksud pada ayat (4), terhadap putusan tersebut Terdakwa tidak dapat mengajukan banding.**
+**berupa pidana sebagaimana dimaksud pada ayat (4), terhadap putusan tersebut Terdakwa tidak dapat mengajukan banding.**Pasal 267 ...
+
+-----
+
+PTIESIDEN
+REPUBLIK INDONESIA
+
+**-139-**
 
 ## Penjelasan Resmi
 

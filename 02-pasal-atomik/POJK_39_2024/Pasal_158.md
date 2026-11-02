@@ -20,6 +20,26 @@ mengamandemen: []
 (1) Perusahaan wajib memastikan dalam melaksanakan
 Pinjaman penerusan sebagaimana dimaksud dalam
 
+Pasal 157
+ayat (1) huruf a risiko yang timbul dari
+kegiatan ini berada pada pemilik dana.
+(2) Dalam Pinjaman penerusan, penerima dana hanya
+bertindak sebagai pengelola dan memperoleh imbalan
+dari pengelolaan dana tersebut.
+(3) Perusahaan wajib memastikan Pinjaman penerusan
+sebagaimana dimaksud pada ayat (1) memenuhi
+persyaratan sebagai berikut:
+
+-----
+
+a. Surat Bukti Gadai atau perjanjian Pinjaman
+dengan Benda Jaminan berdasarkan fidusia
+mencantumkan nama Perusahaan dan pihak lain;
+dan
+b. penerbitan Surat Bukti Gadai atau perjanjian
+Pinjaman dengan Benda Jaminan berdasarkan
+fidusia dilakukan oleh pengelola dana.
+
 ## Penjelasan Resmi
 
 Cukup jelas.

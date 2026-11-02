@@ -18,7 +18,10 @@ mengamandemen: []
 ## Batang Tubuh
 
 (1) Permohonan untuk memperoleh izin usaha
-sebagaimana dimaksud dalam Pasal 13 huruf b
+sebagaimana dimaksud dalam
+
+Pasal 13
+huruf b
 diajukan oleh pihak yang telah memperoleh
 persetujuan prinsip kepada OJK, disertai pemenuhan
 persyaratan dokumen tercantum dalam Lampiran I
@@ -26,7 +29,9 @@ yang merupakan bagian tidak terpisahkan dari
 Peraturan OJK ini.
 (2) Permohonan sebagaimana dimaksud pada ayat (1)
 disertai dengan pelunasan modal disetor sebagaimana
-dimaksud dalam Pasal 11.
+dimaksud dalam
+
+Pasal 11.
 
 ## Penjelasan Resmi
 

@@ -24,7 +24,9 @@ Ketentuan mengenai persyaratan dan tata cara perizinan Pialang
 
  menyalurkan amanat Nasabah ke Bursa Berjangka luar negeri
 
- sebagaimana dimaksud dalam Pasal 31 dan Pasal 32, diatur lebih lanjut
+ sebagaimana dimaksud dalam Pasal 31 dan
+
+Pasal 32, diatur lebih lanjut
 
  dengan Peraturan Pemerintah.
 

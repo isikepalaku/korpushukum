@@ -56,3 +56,5 @@ mengamandemen:
 Cukup jelas.
 
 Angka 15 ...
+
+Angka 15

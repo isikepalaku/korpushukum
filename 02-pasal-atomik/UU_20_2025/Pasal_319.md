@@ -21,7 +21,10 @@ mengamandemen: []
 **(1) Permintaan peninjauan kembali oleh pemohon**
 
 **sebagaimana dimaksud dalam Pasal 318 ayat (1) diajukan kepada panitera pengadilan yang telah memutus perkaranya dalam tingkat pertama dengan menyebutkan alasannya. (21 Permintaan peninjauan kembali sebagaimana**
- dimaksud dalam Pasal 318 ayat (5) huruf a dan huruf c tidak dibatasi dengan suatu jangka waktu pengajuannya.
+ dimaksud dalam
+
+Pasal 318
+ayat (5) huruf a dan huruf c tidak dibatasi dengan suatu jangka waktu pengajuannya.
 **(3) Permintaan peninjauan kembali sebagaimana**
 
 **dimaksud dalam Pasal 318 ayat (5) huruf b diajukan dalam jangka waktu paling lama 6 (enam) bulan terhitung sejak putusan berkekuatan hukum tetap. (41 Ketua pengadilan segera mengirimkan surat permintaan peninjauan kembali beserta berkas perkaranya kepada Mahkamah Agung, disertai dengan berita acara hasil pemeriksaan alasan peninjauan kembali.**
