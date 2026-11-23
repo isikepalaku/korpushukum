@@ -12,8 +12,8 @@ status_berlaku: diubah
 diamandemen_oleh:
 - '[[02-pasal-atomik/UU_4_2026/Pasal_53|UU 4/2026 Pasal 53]]'
 mengamandemen:
-- '[[02-pasal-atomik/UU_1_2016/Pasal_53|UU 1/2016 Pasal 53]]'
 - '[[02-pasal-atomik/UU_10_2011/Pasal_53|UU 10/2011 Pasal 53]]'
+- '[[02-pasal-atomik/UU_1_2016/Pasal_53|UU 1/2016 Pasal 53]]'
 - '[[02-pasal-atomik/UU_21_2008/Pasal_53|UU 21/2008 Pasal 53]]'
 - '[[02-pasal-atomik/UU_21_2011/Pasal_53|UU 21/2011 Pasal 53]]'
 - '[[02-pasal-atomik/UU_23_1999/Pasal_53|UU 23/1999 Pasal 53]]'

@@ -24,7 +24,7 @@ def clean_code_id(raw_id: str) -> str:
 
 def load_doc_relations():
     doc_map = {} # code_id -> {id, file, mengubah, diubah_oleh, mencabut, dicabut_oleh, status}
-    for p in PERATURAN_DIR.glob("**/*.md"):
+    for p in sorted(PERATURAN_DIR.glob("**/*.md")):
         txt = p.read_text(encoding="utf-8")
         if not txt.startswith("---"):
             continue
@@ -86,7 +86,7 @@ def main():
                 else:
                     continue
 
-            pasal_files_lama = list(folder_lama.glob("Pasal_*.md"))
+            pasal_files_lama = sorted(folder_lama.glob("Pasal_*.md"))
             id_lama = doc_map.get(folder_lama.name, {}).get("id", folder_lama.name)
             id_baru = doc_info["id"]
 
@@ -117,7 +117,7 @@ def main():
         code = folder.name
         doc_status = doc_map.get(code, {}).get("status", "berlaku")
 
-        for pf in folder.glob("Pasal_*.md"):
+        for pf in sorted(folder.glob("Pasal_*.md")):
             total_files += 1
             m = re.match(r"Pasal_([0-9]+[A-Za-z]*)\.md", pf.name)
             if not m:
@@ -152,14 +152,16 @@ def main():
                 else:
                     current_status = "berlaku"
 
-                diamandemen_links = [
+                # sorted(): urutan tautan harus deterministik (tidak bergantung urutan glob/dict) agar
+                # re-run tidak menghasilkan diff palsu di ratusan berkas.
+                diamandemen_links = sorted(
                     f"[[02-pasal-atomik/{b_fold}/Pasal_{b_p}|{b_id} Pasal {b_p}]]"
                     for b_fold, b_p, b_id in diamandemen
-                ]
-                mengamandemen_links = [
+                )
+                mengamandemen_links = sorted(
                     f"[[02-pasal-atomik/{l_fold}/Pasal_{l_p}|{l_id} Pasal {l_p}]]"
                     for l_fold, l_p, l_id in mengamandemen
-                ]
+                )
 
                 if fm.get("status_berlaku") != current_status:
                     fm["status_berlaku"] = current_status
