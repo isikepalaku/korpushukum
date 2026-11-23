@@ -22,6 +22,8 @@ anchor_pasal: false
 kelengkapan: lengkap
 verifikasi: sebagian
 last_updated: '2026-11-01'
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
 ---
 
 # POJK Nomor 8 Tahun 2026 tentang Pelaporan dan Permintaan Data Transaksi Pendanaan oleh Penyelenggara LPBBTI

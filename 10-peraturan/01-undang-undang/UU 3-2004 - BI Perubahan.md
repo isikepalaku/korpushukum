@@ -27,7 +27,7 @@ penjelasan: ada
 penjelasan_pasal_demi_pasal: false
 penjelasan_normatif: false
 struktur_teks: terpartisi
-anchor_pasal: true
+anchor_pasal: false
 ---
 
 ## Batang Tubuh

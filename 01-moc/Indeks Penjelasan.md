@@ -2,7 +2,7 @@
 judul: "Indeks Penjelasan"
 jenis: indeks
 tags: [indeks, penjelasan]
-last_updated: 2026-11-03
+last_updated: 2026-11-23
 ---
 
 # Indeks Penjelasan

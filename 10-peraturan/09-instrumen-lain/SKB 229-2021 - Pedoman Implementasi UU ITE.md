@@ -24,6 +24,8 @@ verifikasi: sudah
 verifikasi_sumber: Menkominfo / Kejagung / Polri
 verifikasi_tanggal: '2026-11-02'
 last_updated: '2026-11-02'
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
 ---
 
 # Surat Keputusan Bersama (SKB) Pedoman Kriteria Implementasi UU ITE (2021)

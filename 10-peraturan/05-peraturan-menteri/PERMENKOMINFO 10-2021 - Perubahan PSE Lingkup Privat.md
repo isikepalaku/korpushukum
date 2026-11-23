@@ -32,6 +32,7 @@ struktur_teks: datar
 anchor_pasal: false
 penjelasan: tidak
 penjelasan_normatif: false
+penjelasan_pasal_demi_pasal: false
 ---
 
 

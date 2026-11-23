@@ -22,6 +22,8 @@ penjelasan_normatif: false
 struktur_teks: terpartisi
 anchor_pasal: true
 last_updated: '2026-11-01'
+mengubah: ["UU 7/1992"]
+diubah_oleh: ["UU 4/2023", "UU 6/2023"]
 ---
 
 ## Batang Tubuh

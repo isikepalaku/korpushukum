@@ -20,6 +20,8 @@ anchor_pasal: false
 kelengkapan: lengkap
 verifikasi: sebagian
 last_updated: '2026-11-01'
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
 ---
 
 # Peraturan Kepolisian Negara Republik Indonesia Nomor 8 Tahun 2021 tentang Penanganan Tindak Pidana Berdasarkan Keadilan Restoratif

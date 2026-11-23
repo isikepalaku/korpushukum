@@ -20,6 +20,8 @@ anchor_pasal: false
 kelengkapan: lengkap
 verifikasi: sebagian
 last_updated: '2026-11-01'
+penjelasan_pasal_demi_pasal: false
+penjelasan_normatif: false
 ---
 
 # POJK Nomor 7 Tahun 2026 tentang Kewajiban Penyediaan Modal Minimum dan Pemenuhan Modal Inti Minimum Bank Perekonomian Rakyat

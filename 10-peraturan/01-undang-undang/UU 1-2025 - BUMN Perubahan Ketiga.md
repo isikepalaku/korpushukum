@@ -13,7 +13,7 @@ berlaku_mulai: 2025-02-24
 mencabut: []
 dicabut_oleh: []
 mengubah: ["UU 11/2020", "UU 19/2003", "UU 6/2023"]
-diubah_oleh: ["UU 16/2025"]
+diubah_oleh: []
 terkait: []
 bidang: [tipidter]
 tags: [jenis/uu, bidang/tipidter, status/berlaku]

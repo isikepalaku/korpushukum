@@ -186,3 +186,11 @@ last_updated: 2026-11-03
   - Penambahan skrip audit mandiri scripts/validate_corpus.py (Sequence & Gap Detection, verifikasi integritas 119 peraturan & 7.619 pasal atomik).
 - Sinkronisasi metadata korpus:
   - INDEX.md, README.md, 01-moc/*, 90-log/manifest.jsonl, dan 90-log/chunks-stats.json.
+
+## [2026-11-23] lint & perawatan | utang lint korpus (41 ERROR -> 1)
+
+- `scripts/build_temporal_graph.py`: urutan glob dan daftar tautan di-`sorted()` agar deterministik (sebelumnya tiap run menulis ulang ±260 berkas atomik dengan urutan acak). Satu kali normalisasi 59 berkas atomik (hanya urutan baris; isi tidak berubah).
+- Frontmatter partisi dilengkapi pada 18 dokumen datar tanpa penjelasan (`penjelasan_pasal_demi_pasal: false`; `penjelasan_normatif: false` pada 5 dokumen yang belum memuatnya): INPRES 4/1984 & 18/1998, INSTRUKSI 1/2023, KEPMENKOMDIGI 140/142/219-2026, PERMENKOMINFO 5/2020, 10/2021, 19/2014, PERPRES 82/2022, PERPOL 8/2021, POJK 6/7/8-2026, SEOJK 6/2024 & 8/2015, SE-KAPOLRI 2/2021, SKB 229/2021.
+- UU 1/1946: judul pasal 1-17 diubah menjadi heading beranchor `^pasal-N` (teks tidak diubah). UU 3/2004: `anchor_pasal` dikoreksi ke `false` (undang-undang perubahan dengan Pasal I-III; 8 berkas atomik UU_3_2004 berasal dari kutipan pasal yang diubah -> perlu parse ulang).
+- Relasi: UU 6/2023 `diubah_oleh` dikurangi UU 14/2025, 16/2025, 18/2025, 5/2026, 65/2024, 66/2024 (teks hanya mengutip "sebagaimana telah diubah dengan UU 6/2023", bukan mengubahnya); UU 1/2025 `diubah_oleh` dikurangi UU 16/2025 (sama). UU 10/1998 dilengkapi `mengubah: UU 7/1992` dan `diubah_oleh: UU 4/2023, UU 6/2023` (simetri).
+- Sisa: JUKRAH 1/2021 (nama berkas tak sesuai id, judul "HALAMAN 1", folder atomik & indeks ganda `JUKRAH_1_2021` / `JUKRAH_2021`) — butuh kurasi manual.
