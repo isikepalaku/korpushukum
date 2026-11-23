@@ -46,6 +46,7 @@ Penjelasan resmi (I. UMUM / II. PASAL DEMI PASAL) sudah dipartisi per pasal deng
 | [[POJK 65-2016 - Manajemen Risiko BUS dan UUS]] | 36 | 24 | 12 | 67% |
 | [[UU 7-2011 - Mata Uang]] | 54 | 23 | 31 | 43% |
 | [[POJK 36-2024 - Perubahan atas POJK 69-POJK.05-2016]] | 32 | 20 | 12 | 62% |
+| [[UU 3-2004 - BI Perubahan]] | 21 | 18 | 3 | 86% |
 | [[PP 40-2019 - Pelaksanaan UU Adminduk]] | 32 | 17 | 15 | 53% |
 | [[UU 24-2013 - Adminduk Perubahan]] | 27 | 17 | 10 | 63% |
 | [[POJK 24-2025 - Pengelolaan Rekening pada Bank Umum]] | 22 | 15 | 7 | 68% |

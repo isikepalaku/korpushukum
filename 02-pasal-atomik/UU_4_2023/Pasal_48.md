@@ -20,6 +20,7 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_25_1992/Pasal_48|UU 25/1992 Pasal 48]]'
 - '[[02-pasal-atomik/UU_2_2009/Pasal_48|UU 2/2009 Pasal 48]]'
 - '[[02-pasal-atomik/UU_32_1997/Pasal_48|UU 32/1997 Pasal 48]]'
+- '[[02-pasal-atomik/UU_3_2004/Pasal_48|UU 3/2004 Pasal 48]]'
 - '[[02-pasal-atomik/UU_40_2004/Pasal_48|UU 40/2004 Pasal 48]]'
 - '[[02-pasal-atomik/UU_40_2014/Pasal_48|UU 40/2014 Pasal 48]]'
 - '[[02-pasal-atomik/UU_7_1992/Pasal_48|UU 7/1992 Pasal 48]]'

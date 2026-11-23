@@ -22,12 +22,12 @@ kelengkapan: lengkap
 verifikasi: sudah
 verifikasi_sumber: "JDIH BPK"
 verifikasi_tanggal: 2026-10-28
-last_updated: 2026-10-28
+last_updated: 2026-11-23
 penjelasan: ada
-penjelasan_pasal_demi_pasal: false
+penjelasan_pasal_demi_pasal: true
 penjelasan_normatif: false
 struktur_teks: terpartisi
-anchor_pasal: false
+anchor_pasal: true
 ---
 
 ## Batang Tubuh
@@ -134,9 +134,7 @@ REPUBLIK INDONESIA
  UNDANG REPUBLIK INDONESIA NOMOR 23 TAHUN 1999 TENTANG
 
  BANK INDONESIA.
-
- Pasal I
-
+## Pasal I
  Beberapa ketentuan dalam Undang-undang Nomor 23 Tahun 1999
 
  tentang Bank Indonesia (Lembaran Negara Republik Indonesia Nomor
@@ -149,7 +147,10 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut :
 
- “Pasal 4
+ 
+### Pasal 4 ^pasal-4
+
+“Pasal 4
 
  (1) Bank Indonesia adalah Bank Sentral Republik Indonesia.
 
@@ -176,7 +177,10 @@ REPUBLIK INDONESIA
 
  keseluruhan Pasal 6 berbunyi sebagai berikut :
 
- “Pasal 6
+ 
+### Pasal 6 ^pasal-6
+
+“Pasal 6
 
  (1) Modal Bank Indonesia ditetapkan berjumlah sekurang
  kurangnya Rp2.000.000.000.000,00 (dua triliun rupiah).
@@ -199,7 +203,10 @@ REPUBLIK INDONESIA
 
  ayat (2), sehingga keseluruhan Pasal 7 berbunyi sebagai berikut :
 
- “Pasal 7
+ 
+### Pasal 7 ^pasal-7
+
+“Pasal 7
 
  (1) Tujuan Bank Indonesia adalah mencapai dan memelihara
 
@@ -219,7 +226,10 @@ REPUBLIK INDONESIA
 
  Pasal 10 berbunyi sebagai berikut:
 
- “Pasal 10
+ 
+### Pasal 10 ^pasal-10
+
+“Pasal 10
 
  (1) Dalam rangka menetapkan dan melaksanakan kebijakan
 
@@ -268,7 +278,10 @@ REPUBLIK INDONESIA
 
  ayat (5), sehingga keseluruhan Pasal 11 berbunyi sebagai berikut:
 
- “Pasal 11
+ 
+### Pasal 11 ^pasal-11
+
+“Pasal 11
 
  (1) Bank Indonesia dapat memberikan kredit atau pembiayaan
 
@@ -321,15 +334,12 @@ REPUBLIK INDONESIA
 
  ditetapkan selambat-lambatnya akhir tahun 2004.”
 
- 6. Penjelasan Pasal 34 ayat (1) diubah sebagaimana tercantum dalam
+ 6. Penjelasan Pasal 34 ayat (1) diubah sebagaimana tercantum dalam penjelasan, dan ketentuan Pasal 34 ayat (2) diubah, sehingga keseluruhan Pasal 34 berbunyi sebagai berikut :
 
-## Penjelasan
+ 
+### Pasal 34 ^pasal-34
 
-### I. Umum
-
- keseluruhan Pasal 34 berbunyi sebagai berikut :
-
- “Pasal 34
+“Pasal 34
 
  (1) Tugas mengawasi Bank akan dilakukan oleh lembaga
 
@@ -353,15 +363,10 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut :
 
- “ Pasal 38 ...
+ 
+### Pasal 38 ^pasal-38
 
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-**-   6**
- “Pasal 38
+“Pasal 38
 
  (1) Dewan Gubernur melaksanakan tugas dan wewenang Bank
 
@@ -389,7 +394,10 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut:
 
- “Pasal 40
+ 
+### Pasal 40 ^pasal-40
+
+“Pasal 40
 
  Untuk dapat diangkat sebagai anggota Dewan Gubernur, calon
 
@@ -407,7 +415,10 @@ REPUBLIK INDONESIA
 
  sehingga keseluruhan Pasal 41 berbunyi sebagai berikut:
 
- “Pasal 41
+ 
+### Pasal 41 ^pasal-41
+
+“Pasal 41
 
  (1) Gubernur, Deputi Gubernur Senior, dan Deputi Gubernur
 
@@ -475,7 +486,10 @@ REPUBLIK INDONESIA
 
  Pasal 47 berbunyi sebagai berikut:
 
- “Pasal 47
+ 
+### Pasal 47 ^pasal-47
+
+“Pasal 47
 
  (1) Anggota Dewan Gubernur baik sendiri maupun bersama
  sama dilarang:
@@ -520,7 +534,10 @@ REPUBLIK INDONESIA
 
  sebagai berikut:
 
- “Pasal 48
+ 
+### Pasal 48 ^pasal-48
+
+“Pasal 48
 
  (1) Anggota Dewan Gubernur tidak dapat diberhentikan dalam
 
@@ -565,7 +582,10 @@ REPUBLIK INDONESIA
 
  ayat (2), sehingga keseluruhan Pasal 52 berbunyi sebagai berikut:
 
- “Pasal 52
+ 
+### Pasal 52 ^pasal-52
+
+“Pasal 52
 
  (1) Bank Indonesia bertindak sebagai pemegang kas Pemerintah.
 
@@ -579,7 +599,10 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut:
 
- “Pasal 54
+ 
+### Pasal 54 ^pasal-54
+
+“Pasal 54
 
  (1) Pemerintah wajib meminta pendapat Bank Indonesia
 
@@ -603,15 +626,10 @@ REPUBLIK INDONESIA
 
  keseluruhan Pasal 55 berbunyi sebagai berikut:
 
- “Pasal 55 ...
+ 
+### Pasal 55 ^pasal-55
 
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-**-   10**
- “Pasal 55
+“Pasal 55
 
  (1) Dalam hal Pemerintah akan menerbitkan surat-surat utang
 
@@ -651,7 +669,10 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut:
 
- “Pasal 58
+ 
+### Pasal 58 ^pasal-58
+
+“Pasal 58
 
  (1) Bank Indonesia wajib menyampaikan laporan tahunan secara
 
@@ -743,7 +764,10 @@ REPUBLIK INDONESIA
 
  menjadi Pasal 58A yang berbunyi sebagai berikut:
 
- “Pasal 58A
+ 
+### Pasal 58A ^pasal-58a
+
+“Pasal 58A
 
  (1) Untuk membantu Dewan Perwakilan Rakyat dalam
 
@@ -794,15 +818,10 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut:
 
- “Pasal 60 ...
+ 
+### Pasal 60 ^pasal-60
 
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-**-   13**
- “Pasal 60
+“Pasal 60
 
  (1) Tahun anggaran Bank Indonesia adalah tahun kalender.
 
@@ -838,7 +857,10 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut:
 
- “Pasal 62
+ 
+### Pasal 62 ^pasal-62
+
+“Pasal 62
 
  (1) Surplus dari hasil kegiatan Bank Indonesia akan dibagi
 
@@ -896,7 +918,10 @@ REPUBLIK INDONESIA
 
  berbunyi sebagai berikut:
 
- “Pasal 77
+ 
+### Pasal 77 ^pasal-77
+
+“Pasal 77
 
  Dalam jangka waktu selambat-lambatnya 5 (lima) tahun sejak
 
@@ -912,15 +937,10 @@ REPUBLIK INDONESIA
 
  menjadi Pasal 77 A yang berbunyi sebagai berikut:
 
- “Pasal 77A ...
+ 
+### Pasal 77A ^pasal-77a
 
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-**-   15**
- “Pasal 77A
+“Pasal 77A
 
  Ketentuan mengenai mata uang sebagaimana dimaksud dalam
 
@@ -929,9 +949,7 @@ REPUBLIK INDONESIA
  Undang-undang ini dinyatakan tetap berlaku hingga diatur lebih
 
  lanjut dengan undang-undang tersendiri.”
-
- Pasal II
-
+## Pasal II
  1. Sepanjang Undang-undang sebagaimana dimaksud pada Pasal 11
 
  ayat (5) belum ditetapkan maka pengaturan hal-hal sebagaimana
@@ -958,9 +976,7 @@ REPUBLIK INDONESIA
  penghasilan, maka berdasarkan Undang-undang ini surplus Bank
 
  Indonesia tidak dikenakan pajak penghasilan.
-
- Pasal III
-
+## Pasal III
  Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
  Agar ...
@@ -1004,23 +1020,11 @@ REPUBLIK INDONESIA
 PRESIDEN
 REPUBLIK INDONESIA
 
-**PENJELASAN**
+## Penjelasan
 
- ATAS
+### I. Umum
 
- UNDANG-UNDANG REPUBLIK INDONESIA
-
- NOMOR  3  TAHUN 2004
-
- TENTANG
-
- PERUBAHAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA
-
- NOMOR 23 TAHUN 1999 TENTANG BANK INDONESIA
-
- UMUM
-
- Kesinambungan pelaksanaan pembangunan nasional memerlukan penyesuaian
+Kesinambungan pelaksanaan pembangunan nasional memerlukan penyesuaian
 
  kebijakan moneter dengan tujuan yang dititikberatkan pada upaya mencapai dan
 
@@ -1162,14 +1166,14 @@ REPUBLIK INDONESIA
 
  tentang Bank Indonesia.
 
- PASAL DEMI PASAL
+### II. Pasal demi Pasal
 
- Pasal I
+Pasal I
+
+Pasal I
 
  Angka 1
-
- Pasal 4
-
+#### Pasal 4 ^penjelasan-pasal-4
  Ayat (1)
 
  Yang dimaksud dengan Bank Sentral adalah lembaga negara yang
@@ -1249,9 +1253,7 @@ REPUBLIK INDONESIA
  mengenakan sanksi dalam batas kewenangannya.
 
  Angka 2
-
- Pasal 6
-
+#### Pasal 6 ^penjelasan-pasal-6
  Ayat (1)
 
  Modal Bank Indonesia sebagaimana dimaksud pada ayat ini berasal
@@ -1301,9 +1303,7 @@ REPUBLIK INDONESIA
  Umum atau revaluasi aset.
 
  Angka 3
-
- Pasal 7
-
+#### Pasal 7 ^penjelasan-pasal-7
  Ayat (1)
 
  Kestabilan nilai rupiah yang dimaksud dalam ayat ini adalah
@@ -1353,9 +1353,7 @@ REPUBLIK INDONESIA
  perkembangan di sektor riil.
 
  Angka 4
-
- Pasal 10
-
+#### Pasal 10 ^penjelasan-pasal-10
  Ayat (1)
 
  Huruf a
@@ -1458,9 +1456,7 @@ REPUBLIK INDONESIA
  atau imbalan.
 
  Angka 5
-
- Pasal 11
-
+#### Pasal 11 ^penjelasan-pasal-11
  Ayat (1)
 
  Pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah
@@ -1574,9 +1570,7 @@ REPUBLIK INDONESIA
  Cukup jelas
 
  Angka 6
-
- Pasal 34
-
+#### Pasal 34 ^penjelasan-pasal-34
  Ayat (1)
 
  Lembaga pengawasan jasa keuangan yang akan dibentuk melakukan
@@ -1649,9 +1643,7 @@ REPUBLIK INDONESIA
  keuangan dengan mempertimbangkan prinsip efisiensi.
 
  Angka 8
-
- Pasal 38
-
+#### Pasal 38 ^penjelasan-pasal-38
  Ayat (1)
 
  Dalam rangka pelaksanaan tugasnya, Dewan Gubernur dapat
@@ -1674,18 +1666,8 @@ REPUBLIK INDONESIA
 
  Cukup jelas
 
- Angka 9 ...
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-**-   11**
  Angka 9
-
- Pasal 40
-
+#### Pasal 40 ^penjelasan-pasal-40
  Huruf a
 
  Yang dimaksud dengan warga negara Indonesia adalah orang yang
@@ -1717,9 +1699,7 @@ REPUBLIK INDONESIA
  yang berkaitan dengan tugas-tugas Bank Sentral.
 
  Angka 10
-
- Pasal 41
-
+#### Pasal 41 ^penjelasan-pasal-41
  Ayat (1)
 
  Untuk setiap jabatan Gubernur, Deputi Gubernur Senior, dan
@@ -1820,9 +1800,7 @@ REPUBLIK INDONESIA
  kepemimpinan dan pelaksanaan tugas pengelolaan Bank Indonesia.
 
  Angka 11
-
- Pasal 47
-
+#### Pasal 47 ^penjelasan-pasal-47
  Ayat (1)
 
  Huruf a
@@ -1908,9 +1886,7 @@ REPUBLIK INDONESIA
  Cukup jelas
 
  Angka 12
-
- Pasal 48
-
+#### Pasal 48 ^penjelasan-pasal-48
  Ayat (1)
 
  Huruf a
@@ -1979,9 +1955,7 @@ REPUBLIK INDONESIA
  Cukup jelas
 
  Angka 13
-
- Pasal 52
-
+#### Pasal 52 ^penjelasan-pasal-52
  Ayat (1)
 
  Sebagai pemegang kas Pemerintah, Bank Indonesia pada dasarnya
@@ -1999,23 +1973,11 @@ REPUBLIK INDONESIA
  undang-undang yang mengatur perbendaharaan negara.
 
  Angka 14
-
- Pasal 54
-
+#### Pasal 54 ^penjelasan-pasal-54
  Cukup jelas
 
- Angka 15 ...
-
------
-
-PRESIDEN
-REPUBLIK INDONESIA
-
-**-   16**
  Angka 15
-
- Pasal 55
-
+#### Pasal 55 ^penjelasan-pasal-55
  Ayat (1)
 
  Konsultasi ini diperlukan agar penerbitan surat utang negara tepat
@@ -2067,9 +2029,7 @@ REPUBLIK INDONESIA
  Cukup jelas
 
  Angka 16
-
- Pasal 58
-
+#### Pasal 58 ^penjelasan-pasal-58
  Ayat (1)
 
  Laporan tahunan yang disampaikan kepada Dewan Perwakilan
@@ -2115,9 +2075,7 @@ REPUBLIK INDONESIA
  pelaku pasar.
 
  Angka 17
-
- Pasal 58A
-
+#### Pasal 58A ^penjelasan-pasal-58a
  Ayat (1)
 
  Yang dimaksud dengan pengawasan di bidang tertentu adalah
@@ -2196,9 +2154,7 @@ REPUBLIK INDONESIA
  Cukup jelas
 
  Angka 18
-
- Pasal 60
-
+#### Pasal 60 ^penjelasan-pasal-60
  Ayat (1)
 
  Cukup jelas
@@ -2236,9 +2192,7 @@ REPUBLIK INDONESIA
  perbankan.
 
  Angka 19
-
- Pasal 62
-
+#### Pasal 62 ^penjelasan-pasal-62
  Ayat (1)
 
  Cadangan Umum dipergunakan untuk menambah modal atau
@@ -2320,15 +2274,11 @@ REPUBLIK INDONESIA
  untuk membayar kewajiban Pemerintah kepada Bank Indonesia.
 
  Angka 20
-
- Pasal 77
-
+#### Pasal 77 ^penjelasan-pasal-77
  Cukup jelas
 
  Angka 21
-
- Pasal 77A
-
+#### Pasal 77A ^penjelasan-pasal-77a
  Cukup jelas
 
  Pasal II
@@ -2342,3 +2292,28 @@ REPUBLIK INDONESIA
  TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4357
 
 -----
+
+## Peta Penjelasan
+
+| Pasal | Penjelasan | Substantif |
+|---|---|:---:|
+| [[#^pasal-4|Pasal 4]] | [[#^penjelasan-pasal-4|Penjelasan]] | - |
+| [[#^pasal-6|Pasal 6]] | [[#^penjelasan-pasal-6|Penjelasan]] | - |
+| [[#^pasal-7|Pasal 7]] | [[#^penjelasan-pasal-7|Penjelasan]] | - |
+| [[#^pasal-10|Pasal 10]] | [[#^penjelasan-pasal-10|Penjelasan]] | - |
+| [[#^pasal-11|Pasal 11]] | [[#^penjelasan-pasal-11|Penjelasan]] | - |
+| [[#^pasal-34|Pasal 34]] | [[#^penjelasan-pasal-34|Penjelasan]] | - |
+| [[#^pasal-38|Pasal 38]] | [[#^penjelasan-pasal-38|Penjelasan]] | - |
+| [[#^pasal-40|Pasal 40]] | [[#^penjelasan-pasal-40|Penjelasan]] | - |
+| [[#^pasal-41|Pasal 41]] | [[#^penjelasan-pasal-41|Penjelasan]] | - |
+| [[#^pasal-47|Pasal 47]] | [[#^penjelasan-pasal-47|Penjelasan]] | - |
+| [[#^pasal-48|Pasal 48]] | [[#^penjelasan-pasal-48|Penjelasan]] | - |
+| [[#^pasal-52|Pasal 52]] | [[#^penjelasan-pasal-52|Penjelasan]] | - |
+| [[#^pasal-54|Pasal 54]] | [[#^penjelasan-pasal-54|Penjelasan]] | - |
+| [[#^pasal-55|Pasal 55]] | [[#^penjelasan-pasal-55|Penjelasan]] | - |
+| [[#^pasal-58|Pasal 58]] | [[#^penjelasan-pasal-58|Penjelasan]] | - |
+| [[#^pasal-58a|Pasal 58A]] | [[#^penjelasan-pasal-58a|Penjelasan]] | - |
+| [[#^pasal-60|Pasal 60]] | [[#^penjelasan-pasal-60|Penjelasan]] | - |
+| [[#^pasal-62|Pasal 62]] | [[#^penjelasan-pasal-62|Penjelasan]] | - |
+| [[#^pasal-77|Pasal 77]] | [[#^penjelasan-pasal-77|Penjelasan]] | - |
+| [[#^pasal-77a|Pasal 77A]] | [[#^penjelasan-pasal-77a|Penjelasan]] | - |

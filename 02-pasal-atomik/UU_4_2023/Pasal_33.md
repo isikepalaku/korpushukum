@@ -20,7 +20,6 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_25_1992/Pasal_33|UU 25/1992 Pasal 33]]'
 - '[[02-pasal-atomik/UU_2_2009/Pasal_33|UU 2/2009 Pasal 33]]'
 - '[[02-pasal-atomik/UU_32_1997/Pasal_33|UU 32/1997 Pasal 33]]'
-- '[[02-pasal-atomik/UU_3_2004/Pasal_33|UU 3/2004 Pasal 33]]'
 - '[[02-pasal-atomik/UU_40_2004/Pasal_33|UU 40/2004 Pasal 33]]'
 - '[[02-pasal-atomik/UU_40_2014/Pasal_33|UU 40/2014 Pasal 33]]'
 - '[[02-pasal-atomik/UU_7_1992/Pasal_33|UU 7/1992 Pasal 33]]'

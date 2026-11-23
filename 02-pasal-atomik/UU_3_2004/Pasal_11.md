@@ -4,7 +4,7 @@ uu_induk: Perubahan atas UU 23-1999 tentang Bank Indonesia
 kode_uu: UU_3_2004
 pasal: '11'
 status: BERLAKU_AKTIF
-substantive_explanation: false
+substantive_explanation: true
 tags:
 - hukum/keuangan
 - uu/uu_3_2004
@@ -19,9 +19,7 @@ mengamandemen:
 
 ## Batang Tubuh
 
-berbunyi sebagai berikut:
-
- “Pasal 11
+“Pasal 11
 
  (1) Bank Indonesia dapat memberikan kredit atau pembiayaan
 
@@ -71,8 +69,114 @@ berbunyi sebagai berikut:
 
  ditetapkan selambat-lambatnya akhir tahun 2004.”
 
- 6. Penjelasan Pasal 34 ayat (1) diubah sebagaimana tercantum dalam
+ 6. Penjelasan Pasal 34 ayat (1) diubah sebagaimana tercantum dalam penjelasan, dan ketentuan Pasal 34 ayat (2) diubah, sehingga keseluruhan Pasal 34 berbunyi sebagai berikut :
 
 ## Penjelasan Resmi
 
-Cukup jelas.
+Ayat (1)
+
+ Pemberian kredit atau pembiayaan berdasarkan Prinsip Syariah
+
+ kepada Bank yang dimaksudkan dalam pasal ini hanya dilakukan
+
+ untuk mengatasi kesulitan Bank karena adanya ketidaksesuaian
+
+ antara arus dana masuk yang lebih kecil dibandingkan dengan arus
+
+ dana keluar.
+
+ Yang ...
+
+-----
+
+**- 8**
+ Yang dimaksud dengan hari pada ayat ini adalah hari kalender.
+
+ Jangka waktu paling lama 90 (sembilan puluh) hari yang dimaksud
+
+ pada ayat ini merupakan jangka waktu maksimum yang
+
+ dimungkinkan termasuk perpanjangannya.
+
+ Apabila kredit atau pembiayaan berdasarkan Prinsip Syariah tidak
+
+ dapat dilunasi pada saat jatuh tempo, Bank Indonesia sepenuhnya
+
+ berhak mencairkan agunan yang dikuasainya sesuai dengan
+
+ ketentuan perundang-undangan yang berlaku.
+
+ Bank yang dapat memperoleh bantuan likuiditas adalah Bank yang
+
+ memenuhi persyaratan yang ditetapkan oleh Bank Indonesia,
+
+ misalnya secara nyata berdasarkan informasi yang diperoleh Bank
+
+ Indonesia bahwa Bank yang bersangkutan mengalami kesulitan
+
+ likuiditas jangka pendek, memiliki agunan yang cukup dan apabila
+
+ diperlukan, akan dilakukan pemeriksaan lebih lanjut terhadap
+
+ kondisi Bank tertentu.
+
+ Ayat (2)
+
+ Yang dimaksud dengan agunan yang berkualitas tinggi dan mudah
+
+ dicairkan meliputi surat berharga dan atau tagihan yang diterbitkan
+
+ oleh Pemerintah atau badan hukum lain yang mempunyai peringkat
+
+ tinggi berdasarkan hasil penilaian lembaga pemeringkat yang
+
+ kompeten dan sewaktu-waktu dengan mudah dapat dijual ke pasar
+
+ untuk dijadikan uang tunai.
+
+ Yang dimaksud dengan pembiayaan berdasarkan Prinsip Syariah
+
+ misalnya bagi hasil atau risiko yang ditanggung bersama secara
+
+ proporsional.
+
+ Ayat (3)
+
+ Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Bank
+
+ Indonesia memuat antara lain:
+
+ a. persyaratan dan tata cara pemberian kredit atau pembiayaan
+
+ berdasarkan Prinsip Syariah, termasuk didalamnya persyaratan
+
+ Bank penerima. Dalam rangka meneliti pemenuhan kesehatan
+
+ Bank tersebut, Bank Indonesia melakukan pemeriksaan Bank
+
+ calon penerima kredit atau pembiayaan;
+
+ b. jangka ...
+
+-----
+
+**- 9**
+ b. jangka waktu, tingkat suku bunga atau nisbah bagi hasil dan
+
+ biaya lainnya;
+
+ c. jenis agunan berupa surat berharga dan atau tagihan yang
+
+ mempunyai peringkat tinggi;
+
+ d. tata cara pengikatan agunan.
+
+ Ayat (4)
+
+ Cukup jelas
+
+ Ayat (5)
+
+ Cukup jelas
+
+ Angka 6

@@ -8,7 +8,7 @@ last_updated: 2026-11-03
 
 # Master Map of Content (Karpathy Legal Wiki)
 
-> Indeks hierarkis seluruh peraturan (98 peraturan, 7,619 pasal atomik).
+> Indeks hierarkis seluruh peraturan (97 peraturan, 7,627 pasal atomik).
 
 Gunakan berkas ini untuk *retrieval 2 tahap* (Level 1: Pilih UU dari tabel di bawah, Level 2: Baca MOC UU terkait).
 
@@ -16,7 +16,6 @@ Gunakan berkas ini untuk *retrieval 2 tahap* (Level 1: Pilih UU dari tabel di ba
 
 | ID Regulasi | Judul Singkat | Bidang | Jumlah Pasal | Map of Content (MOC) |
 |---|---|---|:---:|---|
-| **JUKRAH 1/2021** | Izin Presiden dan Mendagri | `umum` | 4 | [[_Index_JUKRAH_1_2021]] |
 | **PERMEN-ESDM 11/2022** | PERUBAHAN ATAS PERATURAN MENTERI ENERGI DAN SUMB | `tipidter` | 4 | [[_Index_PERMEN-ESDM_11_2022]] |
 | **PERMEN-ESDM 20/2021** | PERHITUNGAN HARGA JUAL ECERAN BAHAN BAKAR MINYAK | `tipidter` | 14 | [[_Index_PERMEN-ESDM_20_2021]] |
 | **PERMENDAGRI 108/2019** | Pelaksanaan Perpres 96-2018 Adminduk | `pidana` | 101 | [[_Index_PERMENDAGRI_108_2019]] |
@@ -94,7 +93,7 @@ Gunakan berkas ini untuk *retrieval 2 tahap* (Level 1: Pilih UU dari tabel di ba
 | **UU 24/2013** | Adminduk Perubahan | `pidana` | 26 | [[_Index_UU_24_2013]] |
 | **UU 25/1992** | Perkoperasian | `keuangan` | 67 | [[_Index_UU_25_1992]] |
 | **UU 27/2022** | PDP | `siber` | 73 | [[_Index_UU_27_2022]] |
-| **UU 3/2004** | BI Perubahan | `keuangan` | 8 | [[_Index_UU_3_2004]] |
+| **UU 3/2004** | BI Perubahan | `keuangan` | 20 | [[_Index_UU_3_2004]] |
 | **UU 3/2024** | Desa Perubahan Kedua | `tipidter` | 16 | [[_Index_UU_3_2024]] |
 | **UU 32/1997** | Perdagangan Berjangka Komoditi | `keuangan` | 81 | [[_Index_UU_32_1997]] |
 | **UU 4/1996** | Hak Tanggungan atas Tanah | `keuangan` | 31 | [[_Index_UU_4_1996]] |

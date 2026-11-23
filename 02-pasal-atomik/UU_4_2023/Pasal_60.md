@@ -19,6 +19,7 @@ mengamandemen:
 - '[[02-pasal-atomik/UU_24_2004/Pasal_60|UU 24/2004 Pasal 60]]'
 - '[[02-pasal-atomik/UU_25_1992/Pasal_60|UU 25/1992 Pasal 60]]'
 - '[[02-pasal-atomik/UU_32_1997/Pasal_60|UU 32/1997 Pasal 60]]'
+- '[[02-pasal-atomik/UU_3_2004/Pasal_60|UU 3/2004 Pasal 60]]'
 - '[[02-pasal-atomik/UU_40_2014/Pasal_60|UU 40/2014 Pasal 60]]'
 - '[[02-pasal-atomik/UU_7_1992/Pasal_60|UU 7/1992 Pasal 60]]'
 - '[[02-pasal-atomik/UU_8_1995/Pasal_60|UU 8/1995 Pasal 60]]'

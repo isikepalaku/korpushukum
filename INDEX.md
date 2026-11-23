@@ -247,7 +247,7 @@ Korpus **133 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 
 | ID | Judul | Status | Verifikasi | Teks |
 | --- | --- | --- | --- | --- |
-| JUKRAH 2021 | [[JUKRAH 2021 - Izin Presiden dan Mendagri\|HALAMAN 1]] | perlu-verifikasi | tidak-tersedia | lengkap |
+| JUKRAH 1/2021 | [[JUKRAH 1-2021 - Izin Presiden dan Mendagri|Petunjuk dan Arahan terkait Permohonan Persetujuan Tertulis Presiden dan Mendagri]] | perlu-verifikasi | tidak-tersedia | lengkap |
 
 ### Putusan MK
 

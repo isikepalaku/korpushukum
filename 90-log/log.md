@@ -194,3 +194,28 @@ last_updated: 2026-11-03
 - UU 1/1946: judul pasal 1-17 diubah menjadi heading beranchor `^pasal-N` (teks tidak diubah). UU 3/2004: `anchor_pasal` dikoreksi ke `false` (undang-undang perubahan dengan Pasal I-III; 8 berkas atomik UU_3_2004 berasal dari kutipan pasal yang diubah -> perlu parse ulang).
 - Relasi: UU 6/2023 `diubah_oleh` dikurangi UU 14/2025, 16/2025, 18/2025, 5/2026, 65/2024, 66/2024 (teks hanya mengutip "sebagaimana telah diubah dengan UU 6/2023", bukan mengubahnya); UU 1/2025 `diubah_oleh` dikurangi UU 16/2025 (sama). UU 10/1998 dilengkapi `mengubah: UU 7/1992` dan `diubah_oleh: UU 4/2023, UU 6/2023` (simetri).
 - Sisa: JUKRAH 1/2021 (nama berkas tak sesuai id, judul "HALAMAN 1", folder atomik & indeks ganda `JUKRAH_1_2021` / `JUKRAH_2021`) — butuh kurasi manual.
+
+
+## [2026-11-23] perbaikan JUKRAH 1/2021 & penataan UU 3/2004
+
+- JUKRAH 1/2021 (Tugas A):
+  - Nama berkas dan sumber PDF diselaraskan dengan kontrak: `10-peraturan/09-instrumen-lain/JUKRAH 1-2021 - Izin Presiden dan Mendagri.md` dan `30-sumber/JUKRAH 1-2021 - Izin Presiden dan Mendagri.pdf`.
+  - Transkripsi teks otoritatif secara faithful dari dokumen asli (8 halaman) yang terdiri dari Surat Telegram Kapolri (hal 1–2) dan Lampiran Surat Kabareskrim B/5308/IX/RES.7.5./2020/Bareskrim tanggal 17 September 2020 (hal 3–8).
+  - Mengoreksi judul artefak OCR lama ("HALAMAN 1") menjadi judul substantif: `Petunjuk dan Arahan terkait Permohonan Persetujuan Tertulis Presiden dan Mendagri`.
+  - Mengatur `struktur_teks: datar`, `anchor_pasal: false`, `penjelasan: tidak`, `penjelasan_pasal_demi_pasal: false`, `status: perlu-verifikasi`, `verifikasi: belum`.
+  - Nomor ST dicatat `ST/[?]48/VIII/RES.7.5./2021` karena digit kedua terpotong/ambigu (`[?]48` pada hal 1 dan hal 2) tanpa manipulasi/spekulasi nomor.
+  - Menghapus folder pasal atomik duplikat (`02-pasal-atomik/JUKRAH_1_2021/` dan `02-pasal-atomik/JUKRAH_2021/`) dan berkas MOC duplikat (`01-moc/_Index_JUKRAH_1_2021.md` dan `01-moc/_Index_JUKRAH_2021.md`), serta membersihkan rujukannya di `01-moc/Umum.md`, `01-moc/_MASTER_INDEX.md`, dan `INDEX.md`.
+- UU 3/2004 (Tugas B):
+  - Mengunduh sumber PDF resmi dari JDIH BPK (36 halaman) ke `30-sumber/UU 3-2004 - BI Perubahan.pdf` dan memverifikasi kelengkapan naskah.
+  - Memperbaiki parsing Batang Tubuh: menghapus heading `## Penjelasan` dan `### I. Umum` palsu yang tersisip di tengah kalimat Angka 6 (perubahan Pasal 34), sehingga teks Angka 6 s.d. 21, Pasal II, dan Pasal III kembali utuh ke Batang Tubuh.
+  - Menambahkan heading formal `### Pasal <N> ^pasal-<n>` pada 20 pasal kutipan di dalam Pasal I (Pasal 4, 6, 7, 10, 11, 34, 38, 40, 41, 47, 48, 52, 54, 55, 58, 58A, 60, 62, 77, 77A).
+  - Membersihkan sisa artefak OCR header halaman pada pergantian halaman di beberapa pasal.
+  - Mempartisi bagian Penjelasan resmi menjadi `### I. Umum` dan `### II. Pasal demi Pasal` dengan heading `#### Pasal <N> ^penjelasan-pasal-<n>` untuk seluruh 20 pasal, dilengkapi tabel `## Peta Penjelasan`.
+  - Memperbarui frontmatter partisi: `struktur_teks: terpartisi`, `anchor_pasal: true`, `penjelasan: ada`, `penjelasan_pasal_demi_pasal: true`.
+  - Menyelaraskan pasal atomik di `02-pasal-atomik/UU_3_2004/` (tepat 20 berkas atomik sesuai 20 heading pasal batang tubuh) dan memperbarui `01-moc/_Index_UU_3_2004.md` serta `01-moc/_MASTER_INDEX.md`.
+  - Memverifikasi simetri relasi dengan `UU 23/1999` (`mengubah: ["UU 23/1999"]` pada UU 3/2004 dan `diubah_oleh: [..., "UU 3/2004", ...]` pada UU 23/1999).
+- Sinkronisasi metadata korpus & verifikasi:
+  - Ekspor ulang `90-log/manifest.jsonl`, `90-log/chunks.jsonl.gz`, `90-log/chunks-stats.json`, dan `01-moc/Indeks Penjelasan.md`.
+  - Regenerasi temporal graph melalui `scripts/build_temporal_graph.py`.
+  - Audit `scripts/validate_corpus.py`: 0 issues detected across all 119 regulations & 7,627 atomic files.
+  - Audit `scripts/lint_korpus.py`: 0 ERROR across all 133 documents.

@@ -25,4 +25,4 @@ SORT tahun DESC
 | --- | --- | --- | --- |
 | UU 5/2026 | [[UU 5-2026 - Kepolisian Perubahan Ketiga|UU 5-2026 - Kepolisian Perubahan Ketiga]] | UU | berlaku |
 | PUTUSAN-MK 282/2025 | [[PUTUSAN-MK 282-2025 - Penghinaan Pemerintah\|ANALISIS YURIDIS: PUTUSAN MAHKAMAH KONSTITUSI NOMOR 282/PUU-XXIII]] | PUTUSAN-MK | berlaku |
-| JUKRAH 2021 | [[JUKRAH 2021 - Izin Presiden dan Mendagri\|HALAMAN 1]] | JUKRAH | perlu-verifikasi |
+| JUKRAH 1/2021 | [[JUKRAH 1-2021 - Izin Presiden dan Mendagri|Petunjuk dan Arahan terkait Permohonan Persetujuan Tertulis Presiden dan Mendagri]] | JUKRAH | perlu-verifikasi |
