@@ -230,3 +230,20 @@ last_updated: 2026-11-03
   - Indeks MOC: `01-moc/_Index_UU_3_2026.md`.
 - Metadata & relasi: `ditetapkan: 2026-05-20`, `berlaku_mulai: 2026-05-20`, `mencabut: [UU 13/2006, UU 31/2014]`, `bidang: [pidana]`, `status: berlaku`.
 - Sinkronisasi `INDEX.md`, `01-moc/Pidana.md`, `90-log/manifest.jsonl` (134 dokumen), `90-log/chunks.jsonl.gz`, `01-moc/Indeks Penjelasan.md`, dan state inkremental OpenViking.
+
+## [2026-11-23] ingest | 11 regulasi koperasi & Kopdes Merah Putih (2025–2026)
+
+- Sumber: `peraturan.go.id` (hasil pencarian `koperasi` untuk regulasi substantif 2025–2026), diunduh ke `30-sumber/`.
+- Ekstraksi via Docling (`scripts/docling_legal_parser.py`) dengan penempatan terstruktur di `10-peraturan/05-peraturan-menteri/` dan `10-peraturan/09-instrumen-lain/` serta pasal atomik di `02-pasal-atomik/` + indeks di `01-moc/`:
+  - `PERMENKUM 13/2025` — Pengesahan Koperasi (32 pasal)
+  - `PERMENKOP 1/2025` — Dana Bergulir Mock Up Kopdes Merah Putih (25 pasal)
+  - `PERMENKOP 7/2025` — OTK Lembaga Pengelola Dana Bergulir Koperasi (123 pasal)
+  - `PERMENKOP 9/2025` — Dana Bergulir Kopdes Merah Putih (19 pasal)
+  - `PERMENDESPDT 10/2025` — Persetujuan Kades Pembiayaan Kopdes Merah Putih (11 pasal)
+  - `PERMENKEU 49/2025` — Tata Cara Pinjaman Pendanaan Kopdes Merah Putih (14 pasal)
+  - `PERMENKEU 63/2025` — Penggunaan SAL 2025 Pendanaan Kopdes Merah Putih (6 pasal)
+  - `PERMENKEU 15/2026` — Penyaluran DAU/DBH/Dana Desa Gerai Kopdes Merah Putih (12 pasal)
+  - `PERMENKOP 4/2026` — Pembangunan Pasar Rakyat oleh Koperasi (44 pasal)
+  - `PERMENKOP 6/2026` — Pedoman Bantuan Pemerintah Kemenkop (20 pasal)
+  - `PERBAGI 10/2026` — Penggunaan Produk Dalam Negeri dan Pelibatan UMKM/Koperasi/Kopdes (19 pasal)
+- Sinkronisasi `INDEX.md`, `01-moc/Keuangan.md`, `90-log/manifest.jsonl` (145 dokumen), `90-log/chunks.jsonl.gz`, `90-log/openviking_state.json`, dan validasi `scripts/validate_corpus.py` (131 peraturan, 8.030 berkas atomik, 0 error).

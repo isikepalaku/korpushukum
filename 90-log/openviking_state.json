@@ -669,8 +669,63 @@
       "sha256": "a7e7cffca78d4693b3c19754b1dd06988477267b8c0b9c288de37278b5a595a1",
       "file": "10-peraturan/01-undang-undang/UU 3-2026 - Pelindungan Saksi dan Korban.md",
       "status": "berlaku"
+    },
+    "PERMENDESPDT 10/2025": {
+      "sha256": "79109f869473e2a4fafb5fb848457716986e8b17c6e4383bd71785120356235e",
+      "file": "10-peraturan/05-peraturan-menteri/PERMENDESPDT 10-2025 - Persetujuan Kades Pembiayaan Kopdes Merah Putih.md",
+      "status": "berlaku"
+    },
+    "PERMENKEU 15/2026": {
+      "sha256": "de7f07770777382e5e586dd11c7dc1e6e5cde13dd625ed78ddb132e3e2e3ed47",
+      "file": "10-peraturan/05-peraturan-menteri/PERMENKEU 15-2026 - Penyaluran DAU DBH Dana Desa Gerai Kopdes.md",
+      "status": "berlaku"
+    },
+    "PERMENKEU 49/2025": {
+      "sha256": "5cce6006be50e390ecccc1bfb9bdeea22d936303ca2553f44991077613ccadd9",
+      "file": "10-peraturan/05-peraturan-menteri/PERMENKEU 49-2025 - Tata Cara Pinjaman Pendanaan Kopdes Merah Putih.md",
+      "status": "berlaku"
+    },
+    "PERMENKEU 63/2025": {
+      "sha256": "7e9ecfdf3182a88ff8407dd22c5743a27943c64135498ac602d1b97cbfc862ad",
+      "file": "10-peraturan/05-peraturan-menteri/PERMENKEU 63-2025 - Penggunaan SAL 2025 Pendanaan Kopdes Merah Putih.md",
+      "status": "berlaku"
+    },
+    "PERMENKOP 1/2025": {
+      "sha256": "a24fbec7fcb45499a37fe5484aca8b6b27517896e813598aad72b76684d4d931",
+      "file": "10-peraturan/05-peraturan-menteri/PERMENKOP 1-2025 - Dana Bergulir Mock Up Kopdes Merah Putih.md",
+      "status": "berlaku"
+    },
+    "PERMENKOP 4/2026": {
+      "sha256": "220c56c39f438a54e294b50bf5435625de8e291892f31ecd398f22d3b7d96d09",
+      "file": "10-peraturan/05-peraturan-menteri/PERMENKOP 4-2026 - Pembangunan Pasar Rakyat oleh Koperasi.md",
+      "status": "berlaku"
+    },
+    "PERMENKOP 6/2026": {
+      "sha256": "4995363b7494148c9be5f68d4635739cefe1a6044ecbdd0874a086b0e119c01a",
+      "file": "10-peraturan/05-peraturan-menteri/PERMENKOP 6-2026 - Pedoman Bantuan Pemerintah Kemenkop.md",
+      "status": "berlaku"
+    },
+    "PERMENKOP 7/2025": {
+      "sha256": "fd04139d12ba7a18dfede46ea5e1ff964d60434b484cdeb13e6d23748d6ca88c",
+      "file": "10-peraturan/05-peraturan-menteri/PERMENKOP 7-2025 - OTK Lembaga Pengelola Dana Bergulir Koperasi.md",
+      "status": "berlaku"
+    },
+    "PERMENKOP 9/2025": {
+      "sha256": "a907aa7dc6b47edd1671e6b81aa8e6d8820cc895957e64839a93e455a71e72e8",
+      "file": "10-peraturan/05-peraturan-menteri/PERMENKOP 9-2025 - Dana Bergulir Kopdes Merah Putih.md",
+      "status": "berlaku"
+    },
+    "PERMENKUM 13/2025": {
+      "sha256": "e249a6aa339c6320bce4b95c598cff12f8c366ff9d58eb51d69e9b80e6bd875d",
+      "file": "10-peraturan/05-peraturan-menteri/PERMENKUM 13-2025 - Pengesahan Koperasi.md",
+      "status": "berlaku"
+    },
+    "PERBAGI 10/2026": {
+      "sha256": "7bcdd2e72a5ac24328a94b61e3f0c86e22628370505ca66c11db3e1c26a0e924",
+      "file": "10-peraturan/09-instrumen-lain/PERBAGI 10-2026 - Penggunaan Produk Dalam Negeri dan Pelibatan UMKM.md",
+      "status": "berlaku"
     }
   },
-  "synced_at": "2026-11-23T20:28:19.848701",
-  "total_chunks_synced": 197
+  "synced_at": "2026-11-23T20:35:20.855323",
+  "total_chunks_synced": 453
 }

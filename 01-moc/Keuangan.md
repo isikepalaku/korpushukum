@@ -3,15 +3,15 @@ judul: "Kategori: Keuangan"
 jenis: kategori
 bidang: [keuangan]
 tags: [kategori, bidang/keuangan]
-jumlah: 75
-last_updated: 2026-10-28
+jumlah: 86
+last_updated: 2026-11-23
 ---
 
 # Kategori: Keuangan
 
 Sektor jasa keuangan: perbankan, OJK, BI, pasar modal, asuransi, fidusia, koperasi.
 
-**75 dokumen** dengan tag `bidang/keuangan`.
+**86 dokumen** dengan tag `bidang/keuangan`.
 
 ```dataview
 TABLE id, jenis, status, tahun
@@ -23,6 +23,17 @@ SORT tahun DESC
 
 | ID | Judul | Jenis | Status |
 | --- | --- | --- | --- |
+| PERBAGI 10/2026 | [[PERBAGI 10-2026 - Penggunaan Produk Dalam Negeri dan Pelibatan UMKM\|Penggunaan Produk Dalam Negeri dan Pelibatan UMKM]] | PERBAGI | berlaku |
+| PERMENKEU 15/2026 | [[PERMENKEU 15-2026 - Penyaluran DAU DBH Dana Desa Gerai Kopdes\|Penyaluran DAU DBH Dana Desa Gerai Kopdes]] | PERMENKEU | berlaku |
+| PERMENKOP 4/2026 | [[PERMENKOP 4-2026 - Pembangunan Pasar Rakyat oleh Koperasi\|Pembangunan Pasar Rakyat oleh Koperasi]] | PERMENKOP | berlaku |
+| PERMENKOP 6/2026 | [[PERMENKOP 6-2026 - Pedoman Bantuan Pemerintah Kemenkop\|Pedoman Bantuan Pemerintah Kemenkop]] | PERMENKOP | berlaku |
+| PERMENDESPDT 10/2025 | [[PERMENDESPDT 10-2025 - Persetujuan Kades Pembiayaan Kopdes Merah Putih\|Persetujuan Kades Pembiayaan Kopdes Merah Putih]] | PERMENDESPDT | berlaku |
+| PERMENKEU 49/2025 | [[PERMENKEU 49-2025 - Tata Cara Pinjaman Pendanaan Kopdes Merah Putih\|Tata Cara Pinjaman Pendanaan Kopdes Merah Putih]] | PERMENKEU | berlaku |
+| PERMENKEU 63/2025 | [[PERMENKEU 63-2025 - Penggunaan SAL 2025 Pendanaan Kopdes Merah Putih\|Penggunaan SAL 2025 Pendanaan Kopdes Merah Putih]] | PERMENKEU | berlaku |
+| PERMENKOP 1/2025 | [[PERMENKOP 1-2025 - Dana Bergulir Mock Up Kopdes Merah Putih\|Dana Bergulir Mock Up Kopdes Merah Putih]] | PERMENKOP | berlaku |
+| PERMENKOP 7/2025 | [[PERMENKOP 7-2025 - OTK Lembaga Pengelola Dana Bergulir Koperasi\|OTK Lembaga Pengelola Dana Bergulir Koperasi]] | PERMENKOP | berlaku |
+| PERMENKOP 9/2025 | [[PERMENKOP 9-2025 - Dana Bergulir Kopdes Merah Putih\|Dana Bergulir Kopdes Merah Putih]] | PERMENKOP | berlaku |
+| PERMENKUM 13/2025 | [[PERMENKUM 13-2025 - Pengesahan Koperasi\|Pengesahan Koperasi]] | PERMENKUM | berlaku |
 | POJK 8/2026 | [[POJK 8-2026 - Pelaporan Data Transaksi LPBBTI|POJK 8-2026 - Pelaporan Data Transaksi LPBBTI]] | POJK | berlaku |
 | POJK 7/2026 | [[POJK 7-2026 - Modal Minimum BPR|POJK 7-2026 - Modal Minimum BPR]] | POJK | berlaku |
 | POJK 6/2026 | [[POJK 6-2026 - Perilaku Penyampai Informasi Sektor Jasa Keuangan|POJK 6-2026 - Perilaku Penyampai Informasi Sektor Jasa Keuangan]] | POJK | berlaku |

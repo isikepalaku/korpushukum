@@ -7,24 +7,24 @@ last_updated: 2026-11-23
 
 # Indeks Korpus Hukum Indonesia
 
-Korpus **134 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/embedding) dan navigasi manusia. Satu berkas = satu peraturan.
+Korpus **145 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/embedding) dan navigasi manusia. Satu berkas = satu peraturan.
 
 ## Ringkasan
 
 | Metrik | Nilai |
 | --- | --- |
-| Total dokumen | 134 |
-| Peraturan | 120 |
+| Total dokumen | 145 |
+| Peraturan | 131 |
 | Putusan MK | 14 |
-| Teks lengkap | 134 |
+| Teks lengkap | 145 |
 | Hanya berkas sumber | 0 |
-| Status berlaku | 126 |
+| Status berlaku | 137 |
 | Status dicabut | 4 |
 | Status diubah / sebagian | 4 |
 
 ## Kategori bidang hukum
 
-- [[Keuangan]] — 78 dokumen
+- [[Keuangan]] — 89 dokumen
 - [[Pidana]] — 16 dokumen
 - [[Siber]] — 21 dokumen
 - [[Tipidter]] — 18 dokumen
@@ -42,7 +42,11 @@ Korpus **134 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 | Permendagri | 3 | `10-peraturan/05-peraturan-menteri/` |
 | Permenkominfo | 4 | `10-peraturan/05-peraturan-menteri/` |
 | Permenkomdigi | 1 | `10-peraturan/05-peraturan-menteri/` |
-| Permenkop UKM | 2 | `10-peraturan/05-peraturan-menteri/` |
+| Permenkop UKM / Kemenkop | 7 | `10-peraturan/05-peraturan-menteri/` |
+| Permenkum | 1 | `10-peraturan/05-peraturan-menteri/` |
+| Permenkeu | 3 | `10-peraturan/05-peraturan-menteri/` |
+| Permendespdt | 1 | `10-peraturan/05-peraturan-menteri/` |
+| Perbagi | 1 | `10-peraturan/09-instrumen-lain/` |
 | Permen ESDM | 2 | `10-peraturan/05-peraturan-menteri/` |
 | Kepmenkomdigi | 3 | `10-peraturan/05-peraturan-menteri/` |
 | Instruksi Menteri | 1 | `10-peraturan/05-peraturan-menteri/` |
@@ -166,12 +170,28 @@ Korpus **134 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 | --- | --- | --- | --- | --- |
 | PERMENKOMDIGI 9/2026 | [[PERMENKOMDIGI 9-2026 - Pelaksanaan PP 17-2025 Pelindungan Anak\|Pelaksanaan PP 17 Tahun 2025 Pelindungan Anak]] | berlaku | sudah | lengkap |
 
-### Permenkop UKM
+### Permenkop UKM / Kemenkop
 
 | ID | Judul | Status | Verifikasi | Teks |
 | --- | --- | --- | --- | --- |
+| PERMENKOP 4/2026 | [[PERMENKOP 4-2026 - Pembangunan Pasar Rakyat oleh Koperasi\|Pembangunan Pasar Rakyat oleh Koperasi]] | berlaku | belum | lengkap |
+| PERMENKOP 6/2026 | [[PERMENKOP 6-2026 - Pedoman Bantuan Pemerintah Kemenkop\|Pedoman Bantuan Pemerintah Kemenkop]] | berlaku | belum | lengkap |
+| PERMENKOP 1/2025 | [[PERMENKOP 1-2025 - Dana Bergulir Mock Up Kopdes Merah Putih\|Dana Bergulir Mock Up Kopdes Merah Putih]] | berlaku | belum | lengkap |
+| PERMENKOP 7/2025 | [[PERMENKOP 7-2025 - OTK Lembaga Pengelola Dana Bergulir Koperasi\|OTK Lembaga Pengelola Dana Bergulir Koperasi]] | berlaku | belum | lengkap |
+| PERMENKOP 9/2025 | [[PERMENKOP 9-2025 - Dana Bergulir Kopdes Merah Putih\|Dana Bergulir Kopdes Merah Putih]] | berlaku | belum | lengkap |
 | PERMENKOP 2/2024 | [[PERMENKOP 2-2024 - Kebijakan Akuntansi Koperasi\|Kebijakan Akuntansi Koperasi]] | berlaku | sudah | lengkap |
 | PERMENKOP 8/2023 | [[PERMENKOP 8-2023 - Usaha Simpan Pinjam Koperasi\|Usaha Simpan Pinjam oleh Koperasi]] | berlaku | sudah | lengkap |
+
+### Permenkum, Permenkeu, Permendespdt & Perbagi (Koperasi)
+
+| ID | Judul | Status | Verifikasi | Teks |
+| --- | --- | --- | --- | --- |
+| PERMENKUM 13/2025 | [[PERMENKUM 13-2025 - Pengesahan Koperasi\|Pengesahan Koperasi]] | berlaku | belum | lengkap |
+| PERMENDESPDT 10/2025 | [[PERMENDESPDT 10-2025 - Persetujuan Kades Pembiayaan Kopdes Merah Putih\|Persetujuan Kades Pembiayaan Kopdes Merah Putih]] | berlaku | belum | lengkap |
+| PERMENKEU 49/2025 | [[PERMENKEU 49-2025 - Tata Cara Pinjaman Pendanaan Kopdes Merah Putih\|Tata Cara Pinjaman Pendanaan Kopdes Merah Putih]] | berlaku | belum | lengkap |
+| PERMENKEU 63/2025 | [[PERMENKEU 63-2025 - Penggunaan SAL 2025 Pendanaan Kopdes Merah Putih\|Penggunaan SAL 2025 Pendanaan Kopdes Merah Putih]] | berlaku | belum | lengkap |
+| PERMENKEU 15/2026 | [[PERMENKEU 15-2026 - Penyaluran DAU DBH Dana Desa Gerai Kopdes\|Penyaluran DAU DBH Dana Desa Gerai Kopdes]] | berlaku | belum | lengkap |
+| PERBAGI 10/2026 | [[PERBAGI 10-2026 - Penggunaan Produk Dalam Negeri dan Pelibatan UMKM\|Penggunaan Produk Dalam Negeri dan Pelibatan UMKM]] | berlaku | belum | lengkap |
 
 ### Kepmenkomdigi
 
