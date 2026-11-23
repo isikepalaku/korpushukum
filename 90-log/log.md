@@ -219,3 +219,14 @@ last_updated: 2026-11-03
   - Regenerasi temporal graph melalui `scripts/build_temporal_graph.py`.
   - Audit `scripts/validate_corpus.py`: 0 issues detected across all 119 regulations & 7,627 atomic files.
   - Audit `scripts/lint_korpus.py`: 0 ERROR across all 133 documents.
+
+
+## [2026-11-23] ingest | UU 3/2026 tentang Pelindungan Saksi dan Korban
+
+- Sumber PDF disalin ke `30-sumber/UU 3-2026 - Pelindungan Saksi dan Korban.pdf` (62 halaman).
+- Ekstraksi via Docling (`scripts/ingest_interactive.py` + `scripts/docling_legal_parser.py`):
+  - Korpus terpartisi: `10-peraturan/01-undang-undang/UU 3-2026 - Pelindungan Saksi dan Korban.md` (78 pasal, lengkap dengan Penjelasan Umum & Pasal demi Pasal).
+  - Pasal atomik: 78 berkas di `02-pasal-atomik/UU_3_2026/`.
+  - Indeks MOC: `01-moc/_Index_UU_3_2026.md`.
+- Metadata & relasi: `ditetapkan: 2026-05-20`, `berlaku_mulai: 2026-05-20`, `mencabut: [UU 13/2006, UU 31/2014]`, `bidang: [pidana]`, `status: berlaku`.
+- Sinkronisasi `INDEX.md`, `01-moc/Pidana.md`, `90-log/manifest.jsonl` (134 dokumen), `90-log/chunks.jsonl.gz`, `01-moc/Indeks Penjelasan.md`, dan state inkremental OpenViking.

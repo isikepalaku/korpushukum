@@ -3,15 +3,15 @@ judul: "Kategori: Pidana"
 jenis: kategori
 bidang: [pidana]
 tags: [kategori, bidang/pidana]
-jumlah: 12
-last_updated: 2026-10-28
+jumlah: 13
+last_updated: 2026-11-23
 ---
 
 # Kategori: Pidana
 
 Hukum pidana materiil dan formil, pertanggungjawaban, serta putusan uji materi.
 
-**12 dokumen** dengan tag `bidang/pidana`.
+**13 dokumen** dengan tag `bidang/pidana`.
 
 ```dataview
 TABLE id, jenis, status, tahun
@@ -23,6 +23,7 @@ SORT tahun DESC
 
 | ID | Judul | Jenis | Status |
 | --- | --- | --- | --- |
+| UU 3/2026 | [[UU 3-2026 - Pelindungan Saksi dan Korban\|Pelindungan Saksi dan Korban]] | UU | berlaku |
 | PERPOL 8/2021 | [[PERPOL 8-2021 - Penanganan Tindak Pidana Keadilan Restoratif|PERPOL 8-2021 - Penanganan Tindak Pidana Keadilan Restoratif]] | PERPOL | berlaku-sebagian |
 | PUTUSAN-MK 27/2026 | [[PUTUSAN-MK 27-2026 - Pasal 237 huruf c KUHP\|Putusan MK Nomor 27/PUU-XXIV/2026 — Pasal 237 huruf c KUHP]] | PUTUSAN-MK | berlaku |
 | PUTUSAN-MK 275/2025 | [[PUTUSAN-MK 275-2025 - Penghinaan terhadap Presiden\|Putusan MK Nomor 275/PUU-XXIII/2025 — Penghinaan terhadap Preside]] | PUTUSAN-MK | berlaku |

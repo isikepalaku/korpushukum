@@ -2,30 +2,30 @@
 judul: "Indeks Korpus Hukum Indonesia"
 jenis: indeks
 tags: [indeks, korpus-hukum]
-last_updated: 2026-11-03
+last_updated: 2026-11-23
 ---
 
 # Indeks Korpus Hukum Indonesia
 
-Korpus **133 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/embedding) dan navigasi manusia. Satu berkas = satu peraturan.
+Korpus **134 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/embedding) dan navigasi manusia. Satu berkas = satu peraturan.
 
 ## Ringkasan
 
 | Metrik | Nilai |
 | --- | --- |
-| Total dokumen | 133 |
-| Peraturan | 119 |
+| Total dokumen | 134 |
+| Peraturan | 120 |
 | Putusan MK | 14 |
-| Teks lengkap | 133 |
+| Teks lengkap | 134 |
 | Hanya berkas sumber | 0 |
-| Status berlaku | 125 |
+| Status berlaku | 126 |
 | Status dicabut | 4 |
 | Status diubah / sebagian | 4 |
 
 ## Kategori bidang hukum
 
 - [[Keuangan]] — 78 dokumen
-- [[Pidana]] — 15 dokumen
+- [[Pidana]] — 16 dokumen
 - [[Siber]] — 21 dokumen
 - [[Tipidter]] — 18 dokumen
 - [[Umum]] — 3 dokumen
@@ -34,7 +34,7 @@ Korpus **133 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 
 | Jenis | Jumlah | Berkas |
 | --- | --- | --- |
-| Undang-Undang | 48 | `10-peraturan/01-undang-undang/` |
+| Undang-Undang | 49 | `10-peraturan/01-undang-undang/` |
 | Peraturan Pemerintah | 7 | `10-peraturan/03-peraturan-pemerintah/` |
 | Peraturan Presiden | 2 | `10-peraturan/04-peraturan-presiden/` |
 | Instruksi Presiden | 2 | `10-peraturan/09-instrumen-lain/` |
@@ -61,6 +61,7 @@ Korpus **133 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 | ID | Judul | Status | Verifikasi | Teks |
 | --- | --- | --- | --- | --- |
 | UU 1/2026 | [[UU 1-2026 - Penyesuaian Pidana\|Penyesuaian Pidana]] | berlaku | sudah | lengkap |
+| UU 3/2026 | [[UU 3-2026 - Pelindungan Saksi dan Korban\|Pelindungan Saksi dan Korban]] | berlaku | belum | lengkap |
 | UU 4/2026 | [[UU 4-2026 - P2SK Perubahan\|Perubahan atas UU Nomor 4 Tahun 2023 tentang P2SK]] | berlaku | sudah | lengkap |
 | UU 5/2026 | [[UU 5-2026 - Kepolisian Perubahan Ketiga\|Perubahan Ketiga UU Kepolisian]] | berlaku | sudah | lengkap |
 | UU 1/2025 | [[UU 1-2025 - BUMN Perubahan Ketiga\|Perubahan Ketiga UU BUMN]] | berlaku | sudah | lengkap |

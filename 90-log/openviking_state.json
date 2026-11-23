@@ -1,7 +1,7 @@
 {
   "docs": {
     "UU 1/1946": {
-      "sha256": "58d1c876eead267bb9f2f2bc7378e1a8188b002fa9b2ac97f0eceef6ba5aec70",
+      "sha256": "cef22ca52c12c9bea17cd6a9c24a9ba8b0e6acc30dcc334284e63791801789b2",
       "file": "10-peraturan/01-undang-undang/UU 1-1946 - KUHP Lama.md",
       "status": "dicabut"
     },
@@ -16,7 +16,7 @@
       "status": "berlaku"
     },
     "UU 1/2023": {
-      "sha256": "3dbf7766b4c62904911db2beebe623b957afe1b8a1a95b8c332073733c5c5483",
+      "sha256": "30523901ec15b239c7cad6ad7ecaf051d4a01bf4883d5aca3a971b614c04e1d4",
       "file": "10-peraturan/01-undang-undang/UU 1-2023 - KUHP.md",
       "status": "berlaku"
     },
@@ -26,7 +26,7 @@
       "status": "berlaku"
     },
     "UU 1/2025": {
-      "sha256": "1dbdb5cb2b7702cde4245facb5bba33557e807ec4c498cf8fa6d58f56ec9fd7c",
+      "sha256": "ab7a448aafd87076578aefdd70e816873eb1149328de8bf8fdd6b8db9ac0ffa9",
       "file": "10-peraturan/01-undang-undang/UU 1-2025 - BUMN Perubahan Ketiga.md",
       "status": "berlaku"
     },
@@ -36,7 +36,7 @@
       "status": "berlaku"
     },
     "UU 10/1998": {
-      "sha256": "8ac77703a1c6519e7435a536cd7b5774a54d5f62c01c82c155527d1e171c09af",
+      "sha256": "840d1791b9baf735ca23e1c721ce62b806106db65afc1a9bdf77c0d7142a45c8",
       "file": "10-peraturan/01-undang-undang/UU 10-1998 - Perbankan 1998.md",
       "status": "berlaku"
     },
@@ -46,7 +46,7 @@
       "status": "berlaku"
     },
     "UU 11/2008": {
-      "sha256": "6e2c5042b48612c5c3f9c08ddf42a5a4cc6d6abfa31bb9fb759f41d11c02fdea",
+      "sha256": "568ca45a97581255e391a74ebfd32ab84e0fec1c12b66a6fb912c12b7b869236",
       "file": "10-peraturan/01-undang-undang/UU 11-2008 - ITE.md",
       "status": "diubah"
     },
@@ -101,7 +101,7 @@
       "status": "berlaku"
     },
     "UU 22/2001": {
-      "sha256": "ac568aad62847a62cf6ba81ee8b820d937ed737169c9239a1bb080d0e5dda390",
+      "sha256": "214c570940ca895fbc5f0863c91819380dac92105e6ce5065824e494799e1e63",
       "file": "10-peraturan/01-undang-undang/UU 22-2001 - Migas.md",
       "status": "berlaku"
     },
@@ -141,7 +141,7 @@
       "status": "berlaku"
     },
     "UU 3/2004": {
-      "sha256": "31bc28f9a0a88b0eca76f893d2c16978171f435e42eab0b6a1b0c6ba232572c8",
+      "sha256": "213d75982986fa1510ff7d9bc0fea55d3d1d70f14aec2031f96b36bf3964886c",
       "file": "10-peraturan/01-undang-undang/UU 3-2004 - BI Perubahan.md",
       "status": "berlaku"
     },
@@ -156,7 +156,7 @@
       "status": "berlaku"
     },
     "UU 4/1996": {
-      "sha256": "fb953062efaa5a7bac65365aeca9f9bdeced560669d8aaf716601438e75da78c",
+      "sha256": "0e1ad0941e0d027ba3aea72deb39ce0c314815daec6bf161ad36c5e4f1e22995",
       "file": "10-peraturan/01-undang-undang/UU 4-1996 - Hak Tanggungan atas Tanah.md",
       "status": "berlaku"
     },
@@ -196,7 +196,7 @@
       "status": "berlaku"
     },
     "UU 6/2023": {
-      "sha256": "f294f4c165635b3eb045a6121e23cca3c7be5a63a371bc430b654c3bbb684f46",
+      "sha256": "448b7bdb7f0a2e7f3b4e3985cb143f63c87714c217ec7b535bd20c615d1b210f",
       "file": "10-peraturan/01-undang-undang/UU 6-2023 - Cipta Kerja.md",
       "status": "berlaku"
     },
@@ -266,7 +266,7 @@
       "status": "berlaku"
     },
     "PP 71/2019": {
-      "sha256": "cb891e56cfb4fa74807a196ec64b2dcd41800de1ad64b8205ff93a98ab0fc47e",
+      "sha256": "5a9b00f868d2807853b1ba6f6102b12984ce60fdfc26219deacc7037748368db",
       "file": "10-peraturan/03-peraturan-pemerintah/PP 71-2019 - PSTE.md",
       "status": "berlaku"
     },
@@ -276,7 +276,7 @@
       "status": "berlaku"
     },
     "PERPRES 82/2022": {
-      "sha256": "cba5757dd37d7ac8992c47191399e641af05b93fbe6782e214dc877f79d0aa90",
+      "sha256": "b5d406aea6147fe418f7cc2a24f8c6eae870b102a8a76eb817409ef625e76fe4",
       "file": "10-peraturan/04-peraturan-presiden/PERPRES 82-2022 - Pelindungan Infrastruktur Informasi Vital.md",
       "status": "berlaku"
     },
@@ -286,24 +286,24 @@
       "status": "berlaku"
     },
     "INSTRUKSI 1/2023": {
-      "sha256": "004a98c3158a84c5eb05ed70db93f39858ea4732bc9bc17bc0b0c830fac5e6a7",
+      "sha256": "6da7946d80c980f3d4985edf63b126240e48fc8dc9a73038302065efd88d5a11",
       "file": "10-peraturan/05-peraturan-menteri/INSTRUKSI 1-2023 - Pemberantasan Perjudian Online.md",
-      "status": "perlu-verifikasi"
+      "status": "berlaku"
     },
     "KEPMENKOMDIGI 140/2026": {
-      "sha256": "b28ac11dd1b3c75c4cd98386f70c0bae4cd5e25892b2249195cfff21b3a2e3f8",
+      "sha256": "cc8d8fa3442be3d66666d83761198071e967b35db52d4d368f2218f1bcf7d54b",
       "file": "10-peraturan/05-peraturan-menteri/KEPMENKOMDIGI 140-2026 - Layanan Jejaring dan Media Sosial Risiko Tinggi.md",
-      "status": "perlu-verifikasi"
+      "status": "berlaku"
     },
     "KEPMENKOMDIGI 142/2026": {
-      "sha256": "0a094f25b52020976727758d4aa2ca5c363f0880ad27bfde22fd1956384a2103",
+      "sha256": "a9d6b28afedb7aa3b5ebf292c6386fc598340e917d300079009e385d01350ff3",
       "file": "10-peraturan/05-peraturan-menteri/KEPMENKOMDIGI 142-2026 - Indikator dan Penilaian Risiko Akses Anak.md",
-      "status": "perlu-verifikasi"
+      "status": "diubah"
     },
     "KEPMENKOMDIGI 219/2026": {
-      "sha256": "c4a5381d6af2ed0fecf0566b2764545598ee13bb9abf8dbeca15cb687ecb82d0",
+      "sha256": "461a875360ffa3c349491929a4be8f85fb1114fbc28156a47f840e888f52f7b7",
       "file": "10-peraturan/05-peraturan-menteri/KEPMENKOMDIGI 219-2026 - Perubahan Kepmen 142-2026 Risiko Anak.md",
-      "status": "perlu-verifikasi"
+      "status": "berlaku"
     },
     "PERMENDAGRI 108/2019": {
       "sha256": "aabb71652e27fe17da5f6ae789ff0972568f29ad98afe4fd2a1d751d5a7c525b",
@@ -326,12 +326,12 @@
       "status": "berlaku"
     },
     "PERMENKOMINFO 10/2021": {
-      "sha256": "167193c8fc2e770d8cf7cad34939c9d10aa01e0a0fedbe6c6062b0dfaeb38a75",
+      "sha256": "6612712aa7f042f40c34f056f0dc265e44d8930ff1fd03bbccc7f309353a7fc2",
       "file": "10-peraturan/05-peraturan-menteri/PERMENKOMINFO 10-2021 - Perubahan PSE Lingkup Privat.md",
       "status": "berlaku"
     },
     "PERMENKOMINFO 19/2014": {
-      "sha256": "d0818c02931a5d7deabfc6824301c80ff048f82dce3c521b522b431db7217417",
+      "sha256": "9df4502f45b0c942ba16ef11a79dc69ee6daf146d479d24e220763d4286307c5",
       "file": "10-peraturan/05-peraturan-menteri/PERMENKOMINFO 19-2014 - Penanganan Situs Bermuatan Negatif.md",
       "status": "dicabut"
     },
@@ -341,7 +341,7 @@
       "status": "berlaku"
     },
     "PERMENKOMINFO 5/2020": {
-      "sha256": "a0aa8a7267dbb6fc8feda8ecbb28a9fff138c445d8baef19596c7b58eead0667",
+      "sha256": "1d269bce7bfc1da4dfc2d03428fa4368a5b80d303961e49ad864229964ffcfe0",
       "file": "10-peraturan/05-peraturan-menteri/PERMENKOMINFO 5-2020 - PSE Lingkup Privat.md",
       "status": "berlaku"
     },
@@ -531,38 +531,33 @@
       "status": "berlaku"
     },
     "SEOJK 6/2024": {
-      "sha256": "cd9d15130c251855bc2658fa54d7a21fb73dc573603eed487d61d7eaba750b23",
+      "sha256": "3d90f87c91ff8558551e7592f9989624812728756defce9e8228ef42c23a10ae",
       "file": "10-peraturan/06-peraturan-ojk/SEOJK 6-2024 - Pendaftaran Penyelenggara Inovasi Teknologi Sektor.md",
       "status": "berlaku"
     },
     "SEOJK 8/2015": {
-      "sha256": "c9a5dc133e3131c68440b268fe72ba3281c3d08badcaf83696fba799787c60b0",
+      "sha256": "2188e56ab57c1f989a4cc00377ae4a9b03d5ff08fe74b82d77f5d9b13fcf4fd7",
       "file": "10-peraturan/06-peraturan-ojk/SEOJK 8-2015 - Penilaian Kualitas Aset BUS dan UUS.md",
       "status": "berlaku"
     },
     "SE-KAPOLRI 2/2021": {
-      "sha256": "569b418652d616ec5a7cdd5e01b57189655ae8c1b846d84c50749e69deb6af54",
-      "file": "10-peraturan/08-peraturan-polri/SE-KAPOLRI 2-2021 - Penerapan UU ITE Ruang Digital.md",
+      "sha256": "17d941f4a1ed351e32c5e9e23e33a7d2379d1f82e96768421d4becd8aa765ca4",
+      "file": "10-peraturan/08-peraturan-polri/SE-KAPOLRI 2-2021 - Penegakan Hukum UU ITE.md",
       "status": "berlaku"
     },
     "INPRES 18/1998": {
-      "sha256": "a78b11bf85762ec4ef4049a2b7d40ca0e33f2229af71f4ccdc7f57f681582d1e",
+      "sha256": "fefc5ad1431903cbaa7c20a98180deddd5dfdcf75e3c9c4c9222114dbe7a3da3",
       "file": "10-peraturan/09-instrumen-lain/INPRES 18-1998 - Peningkatan Pembinaan Perkoperasian.md",
       "status": "berlaku"
     },
     "INPRES 4/1984": {
-      "sha256": "8b7c280a34427a49b41e74a1158950cb1f85369891021eeaefa9c10298c66d55",
+      "sha256": "3899ea5d2cae3c5b69899b7c592d9502e7a79f4b0fcc1b21371a2875b7b9305a",
       "file": "10-peraturan/09-instrumen-lain/INPRES 4-1984 - Pembinaan dan Pengembangan KUD.md",
       "status": "dicabut"
     },
     "JUKRAH 1/2021": {
-      "sha256": "4b8e2e6cd947b3e0492ac703cdd37aeffc4f9eb9d66e5b1d7800a58088f95520",
-      "file": "10-peraturan/09-instrumen-lain/JUKRAH 2021 - Izin Presiden dan Mendagri.md",
-      "status": "berlaku"
-    },
-    "SKB 2021": {
-      "sha256": "96c9567282229471ceee358350c4e39b99c2b37cda80569ceccccc46f5b7f27d",
-      "file": "10-peraturan/09-instrumen-lain/SKB 2021 - Pedoman Implementasi UU ITE.md",
+      "sha256": "80344814e819daecc9653bb32113f8982c07b3717d5008476f1ef5c2a4aecc6a",
+      "file": "10-peraturan/09-instrumen-lain/JUKRAH 1-2021 - Izin Presiden dan Mendagri.md",
       "status": "perlu-verifikasi"
     },
     "PUTUSAN-MK 139/2025": {
@@ -636,27 +631,27 @@
       "status": "berlaku"
     },
     "POJK 6/2026": {
-      "sha256": "2c5e906bad7fa7a78c75640c5e9600ca2ed4b4713e02509510de9e55539cc9e2",
+      "sha256": "836fc9f398f3477f0a0606d31cf29bc45aab79e1a4bcb92b8064097588837242",
       "file": "10-peraturan/06-peraturan-ojk/POJK 6-2026 - Perilaku Penyampai Informasi Sektor Jasa Keuangan.md",
       "status": "berlaku"
     },
     "POJK 7/2026": {
-      "sha256": "cfffbc39bd28816fad1f4596a1ee568e38afd053ba7a1c7e495dadb5dadecc7b",
+      "sha256": "a25d22412384c0d74f9dc3d098e472e8f3eff7ef4058cf849df1d651071e5046",
       "file": "10-peraturan/06-peraturan-ojk/POJK 7-2026 - Modal Minimum BPR.md",
       "status": "berlaku"
     },
     "POJK 8/2026": {
-      "sha256": "939ffe8f222a624478ab73fb0a257e126ad384813a227722d45041a40cfd6216",
+      "sha256": "d90a6f622aa4d2d5b8b7b95c2a744c41876074ec73d9b836fc1e5c9f167e9a78",
       "file": "10-peraturan/06-peraturan-ojk/POJK 8-2026 - Pelaporan Data Transaksi LPBBTI.md",
       "status": "berlaku"
     },
     "PERPOL 8/2021": {
-      "sha256": "12eaf8dbc93098b44b102dd60b37a13f70774b20e7f4744bfddefea90628b1b3",
+      "sha256": "2673ba6c43ee1c6817d9610db913bc0f16d9a9e1bdbd571bc18fb9a6b35197d1",
       "file": "10-peraturan/08-peraturan-polri/PERPOL 8-2021 - Penanganan Tindak Pidana Keadilan Restoratif.md",
       "status": "berlaku-sebagian"
     },
     "SKB 229/2021": {
-      "sha256": "ee2222dba13aabf36c4958384b7e73f57a692f484fddf51f82282b411f27b4a5",
+      "sha256": "58a5f74e191dcb8f498a976d8ce426f31060ad29072eba34e06928e55b033685",
       "file": "10-peraturan/09-instrumen-lain/SKB 229-2021 - Pedoman Implementasi UU ITE.md",
       "status": "berlaku"
     },
@@ -669,8 +664,13 @@
       "sha256": "f16c40851802534586784e2e9e4400350f1cf72c7ca565a57a9b2013a40f79ea",
       "file": "10-peraturan/05-peraturan-menteri/PERMEN-ESDM 20-2021 - PERHITUNGAN HARGA JUAL ECERAN BAHAN BAKAR MINYAK.md",
       "status": "diubah"
+    },
+    "UU 3/2026": {
+      "sha256": "a7e7cffca78d4693b3c19754b1dd06988477267b8c0b9c288de37278b5a595a1",
+      "file": "10-peraturan/01-undang-undang/UU 3-2026 - Pelindungan Saksi dan Korban.md",
+      "status": "berlaku"
     }
   },
-  "synced_at": "2026-11-01T19:01:34.496867",
-  "total_chunks_synced": 0
+  "synced_at": "2026-11-23T20:28:19.848701",
+  "total_chunks_synced": 197
 }

@@ -75,6 +75,7 @@ Penjelasan resmi (I. UMUM / II. PASAL DEMI PASAL) sudah dipartisi per pasal deng
 | [[UU 66-2024 - Pelayaran Perubahan Ketiga]] | 7 | 1 | 6 | 14% |
 | [[UU 10-1998 - Perbankan 1998]] | 1 | 0 | 1 | 0% |
 | [[UU 17-2023 - Kesehatan]] | 3 | 0 | 3 | 0% |
+| [[UU 3-2026 - Pelindungan Saksi dan Korban]] | 4 | 0 | 4 | 0% |
 
 ## Cara memakai
 
