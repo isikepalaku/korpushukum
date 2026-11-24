@@ -113,6 +113,7 @@ Korpus **145 peraturan & putusan** yang dinormalisasi untuk konsumsi mesin (RAG/
 | UU 7/1992 | [[UU 7-1992 - Perbankan 1992\|Perbankan]] | berlaku | sudah | lengkap |
 | UU 25/1992 | [[UU 25-1992 - Perkoperasian\|Perkoperasian]] | berlaku | sudah | lengkap |
 | UU 1/1946 | [[UU 1-1946 - KUHP Lama\|KUHP Lama]] | dicabut | sudah | lengkap |
+| UU 1/1946 BK2 | [[UU 1-1946 - KUHP Lama Buku Kedua\|KUHP Lama Buku Kedua]] | dicabut | sebagian | lengkap |
 
 ### Peraturan Pemerintah
 

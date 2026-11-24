@@ -247,3 +247,12 @@ last_updated: 2026-11-03
   - `PERMENKOP 6/2026` — Pedoman Bantuan Pemerintah Kemenkop (20 pasal)
   - `PERBAGI 10/2026` — Penggunaan Produk Dalam Negeri dan Pelibatan UMKM/Koperasi/Kopdes (19 pasal)
 - Sinkronisasi `INDEX.md`, `01-moc/Keuangan.md`, `90-log/manifest.jsonl` (145 dokumen), `90-log/chunks.jsonl.gz`, `90-log/openviking_state.json`, dan validasi `scripts/validate_corpus.py` (131 peraturan, 8.030 berkas atomik, 0 error).
+
+## [2026-11-24] ingest | UU 1/1946 BK2 (KUHP Lama Buku Kedua)
+
+- Sumber: PDF salinan Kejari Sukoharjo (SHA-256 `9fc83bf5...e93c`, 79 hlm.) -> `30-sumber/UU 1-1946 - KUHP Lama Buku Kedua.pdf`. Bukan JDIH BPK; `verifikasi: sebagian`.
+- Teks Buku Kedua Pasal 104-485 diekstrak apa adanya (PyMuPDF, tanpa koreksi isi; sisa OCR dipertahankan): 417 pasal (termasuk bis/ter dan huruf), 417 berkas atomik `02-pasal-atomik/UU_1_1946_BK2/`.
+- Tidak ada pada salinan sumber: Pasal 143, Bab XXVII Pasal 406-412, Bab XXXI Pasal 486-488. Dicatat sebagai peringatan di dokumen; belum diambil dari sumber lain.
+- Koreksi catatan: `UU 1/1946` di korpus hanya memuat UU pemberlakuan (Pasal 1-17 + Penjelasan), BUKAN teks WvS Buku Kesatu. Buku Kesatu dan Ketiga belum ada di korpus.
+- Orkestrator `pipeline_orchestrator.py` tidak dipakai untuk isi: ia menimpa frontmatter, mengubah kapitalisasi rujukan "pasal" dan memecah baris, serta melewatkan pasal bis/ter; berkas dan atomik dibuat langsung dari teks sumber.
+- Catatan validate: `validate_corpus.py` menandai `Pasal_479l.md` sebagai "dugaan OCR typo" (heuristik akhiran huruf l). Itu pasal asli (Pasal 479 huruf l, kejahatan penerbangan); false positive, nama dipertahankan.

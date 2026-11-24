@@ -66,6 +66,7 @@ Gunakan berkas ini untuk *retrieval 2 tahap* (Level 1: Pilih UU dari tabel di ba
 | **PP 71/2019** | PSTE | `siber` | 102 | [[_Index_PP_71_2019]] |
 | **PP 80/2019** | PMSE | `siber` | 79 | [[_Index_PP_80_2019]] |
 | **UU 1/1946** | KUHP Lama | `pidana` | 17 | [[_Index_UU_1_1946]] |
+| **UU 1/1946 BK2** | KUHP Lama Buku Kedua | `pidana` | 417 | [[_Index_UU_1_1946_BK2]] |
 | **UU 1/2013** | LKM | `keuangan` | 42 | [[_Index_UU_1_2013]] |
 | **UU 1/2016** | Penjaminan | `keuangan` | 65 | [[_Index_UU_1_2016]] |
 | **UU 1/2023** | KUHP | `pidana` | 624 | [[_Index_UU_1_2023]] |

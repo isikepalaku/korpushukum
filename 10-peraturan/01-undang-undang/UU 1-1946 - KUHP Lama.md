@@ -8,13 +8,13 @@ judul: "KUHP Lama"
 judul_singkat: "KUHP Lama"
 status: dicabut
 status_bpk: "Tidak Berlaku"
-status_catatan: "KUHP kolonial (WvS); dicabut oleh UU 1/2023 sejak 2 Januari 2026."
+status_catatan: "UU pemberlakuan peraturan hukum pidana (Pasal 1-17 + Penjelasan); BUKAN teks WvS. KUHP kolonial (WvS) dicabut oleh UU 1/2023 sejak 2 Januari 2026. Teks WvS Buku Kedua: lihat UU 1/1946 BK2 (Buku Kesatu dan Ketiga belum ada di korpus)."
 ditetapkan: 1946-02-26
 mencabut: []
 dicabut_oleh: ["UU 1/2023", "UU 21/2007"]
 mengubah: []
 diubah_oleh: ["UU 27/1999", "UU 4/1976", "UU 73/1958"]
-terkait: []
+terkait: ["UU 1/1946 BK2"]
 bidang: [pidana]
 tags: [jenis/uu, bidang/pidana, status/dicabut]
 sumber: "https://peraturan.bpk.go.id/Details/25029/uu-no-1-tahun-1946"

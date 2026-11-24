@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-23",
- "total_chunks": 26803,
+ "generated": "2026-11-24",
+ "total_chunks": 27221,
  "by_kind": {
-  "batang-tubuh": 7640,
+  "isi": 10908,
+  "batang-tubuh": 8058,
   "penjelasan-umum": 1641,
   "penjelasan-pasal": 6603,
-  "isi": 10908,
   "penjelasan": 11
  },
  "substantive_penjelasan": 3938,
  "cukup_jelas": 2665,
- "avg_chars": 832,
+ "avg_chars": 826,
  "max_chars": 2504,
- "docs": 145,
+ "docs": 146,
  "source": "sections[] dari frontmatter heading (## / ### / ####)"
 }

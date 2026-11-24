@@ -23,6 +23,7 @@ SORT tahun DESC
 
 | ID | Judul | Jenis | Status |
 | --- | --- | --- | --- |
+| UU 1/1946 BK2 | [[UU 1-1946 - KUHP Lama Buku Kedua\|KUHP Lama Buku Kedua]] | UU | dicabut |
 | UU 3/2026 | [[UU 3-2026 - Pelindungan Saksi dan Korban\|Pelindungan Saksi dan Korban]] | UU | berlaku |
 | PERPOL 8/2021 | [[PERPOL 8-2021 - Penanganan Tindak Pidana Keadilan Restoratif|PERPOL 8-2021 - Penanganan Tindak Pidana Keadilan Restoratif]] | PERPOL | berlaku-sebagian |
 | PUTUSAN-MK 27/2026 | [[PUTUSAN-MK 27-2026 - Pasal 237 huruf c KUHP\|Putusan MK Nomor 27/PUU-XXIV/2026 — Pasal 237 huruf c KUHP]] | PUTUSAN-MK | berlaku |
